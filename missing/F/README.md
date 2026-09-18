@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faily Rider | 101534 | [101534-faily-rider.json](./101534-faily-rider.json) |
 | Fair And Balanced | 411716 | [411716-fair-and-balanced.json](./411716-fair-and-balanced.json) |
 | Faircroft's Antiques: The Mountaineer's Legacy | 197413 | [197413-faircrofts-antiques-the-mountaineers-legacy.json](./197413-faircrofts-antiques-the-mountaineers-legacy.json) |
+| Faircroft's Antiques: The Mountaineer's Legacy - Collector's Edition | 212359 | [212359-faircrofts-antiques-the-mountaineers-legacy-collectors-edition.json](./212359-faircrofts-antiques-the-mountaineers-legacy-collectors-edition.json) |
 | Faire Trade | 336519 | [336519-faire-trade.json](./336519-faire-trade.json) |
 | Fairest | 290390 | [290390-fairest.json](./290390-fairest.json) |
 | Fairgames | 250615 | [250615-fairgames.json](./250615-fairgames.json) |
@@ -416,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Card Games Fun Pack | 82139 | [82139-family-card-games-fun-pack.json](./82139-family-card-games-fun-pack.json) |
 | Family Chess: Deluxe Edition | 208584 | [208584-family-chess-deluxe-edition.json](./208584-family-chess-deluxe-edition.json) |
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
+| Family Chess: Ultimate Edition | 212340 | [212340-family-chess-ultimate-edition.json](./212340-family-chess-ultimate-edition.json) |
 | Family Dinner | 377162 | [377162-family-dinner.json](./377162-family-dinner.json) |
 | Family Farm Seaside | 104104 | [104104-family-farm-seaside.json](./104104-family-farm-seaside.json) |
 | Family Feud | 159244 | [159244-family-feud.json](./159244-family-feud.json) |
@@ -858,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Empire of Dirt: Made in Heaven | 382874 | [382874-fate-empire-of-dirt-made-in-heaven.json](./382874-fate-empire-of-dirt-made-in-heaven.json) |
 | Fate/Extella Link: Digital Deluxe Edition | 119067 | [119067-fate-extella-link-digital-deluxe-edition.json](./119067-fate-extella-link-digital-deluxe-edition.json) |
 | Fate/Extella: Celebration Box | 140007 | [140007-fate-extella-celebration-box.json](./140007-fate-extella-celebration-box.json) |
+| Fate/Extella: Regalia Box | 212318 | [212318-fate-extella-regalia-box.json](./212318-fate-extella-regalia-box.json) |
 | Fate/Grand Order Lostbelt No. 1: Anastasia | 414302 | [414302-fate-grand-order-lostbelt-no-1-anastasia.json](./414302-fate-grand-order-lostbelt-no-1-anastasia.json) |
 | Fate/Grand Order Lostbelt No. 3: SIN | 414304 | [414304-fate-grand-order-lostbelt-no-3-sin.json](./414304-fate-grand-order-lostbelt-no-3-sin.json) |
 | Fate/Grand Order Lostbelt No. 5: Atlantis | 414306 | [414306-fate-grand-order-lostbelt-no-5-atlantis.json](./414306-fate-grand-order-lostbelt-no-5-atlantis.json) |
@@ -1890,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist Hell | 318602 | [318602-fist-hell.json](./318602-fist-hell.json) |
 | Fist of Awesome | 17501 | [17501-fist-of-awesome.json](./17501-fist-of-awesome.json) |
 | Fist of the North Star: Ken's Rage 2 | 5313 | [5313-fist-of-the-north-star-kens-rage-2.json](./5313-fist-of-the-north-star-kens-rage-2.json) |
+| Fist of the North Star: Lost Paradise - Premium Edition | 212335 | [212335-fist-of-the-north-star-lost-paradise-premium-edition.json](./212335-fist-of-the-north-star-lost-paradise-premium-edition.json) |
 | Fist Puncher | 9088 | [9088-fist-puncher.json](./9088-fist-puncher.json) |
 | Fista 3-in-1 Retro Pack | 254762 | [254762-fista-3-in-1-retro-pack.json](./254762-fista-3-in-1-retro-pack.json) |
 | Fista Retro Horror Pack | 309323 | [309323-fista-retro-horror-pack.json](./309323-fista-retro-horror-pack.json) |
@@ -2316,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flora and the Darkness | 175906 | [175906-flora-and-the-darkness.json](./175906-flora-and-the-darkness.json) |
 | Flora Learns to Sing! | 321332 | [321332-flora-learns-to-sing.json](./321332-flora-learns-to-sing.json) |
 | Floraison | 415869 | [415869-floraison.json](./415869-floraison.json) |
+| Floral Flowlove: Limited Edition | 212319 | [212319-floral-flowlove-limited-edition.json](./212319-floral-flowlove-limited-edition.json) |
 | Floralgraphic Memory | 265620 | [265620-floralgraphic-memory.json](./265620-floralgraphic-memory.json) |
 | FloraMancer: Seeds and Spells | 235982 | [235982-floramancer-seeds-and-spells.json](./235982-floramancer-seeds-and-spells.json) |
 | Florani Match | 392295 | [392295-florani-match.json](./392295-florani-match.json) |
@@ -2913,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Reload | 324921 | [324921-fortnite-reload.json](./324921-fortnite-reload.json) |
 | Fortnite: Agency Renegades Pack | 325855 | [325855-fortnite-agency-renegades-pack.json](./325855-fortnite-agency-renegades-pack.json) |
 | Fortnite: Airphoria Pack | 260134 | [260134-fortnite-airphoria-pack.json](./260134-fortnite-airphoria-pack.json) |
+| Fortnite: Anime Legends Pack | 212329 | [212329-fortnite-anime-legends-pack.json](./212329-fortnite-anime-legends-pack.json) |
 | Fortnite: Bee Positive Pack | 363901 | [363901-fortnite-bee-positive-pack.json](./363901-fortnite-bee-positive-pack.json) |
 | Fortnite: Chapter 2 Remix | 321386 | [321386-fortnite-chapter-2-remix.json](./321386-fortnite-chapter-2-remix.json) |
 | Fortnite: Chapter 3 - Season 2: Resistance | 194664 | [194664-fortnite-chapter-3-season-2-resistance.json](./194664-fortnite-chapter-3-season-2-resistance.json) |
