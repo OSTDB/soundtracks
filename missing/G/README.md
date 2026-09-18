@@ -290,6 +290,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallop Glory: Obstacle Racing & Horse Simulator | 300726 | [300726-gallop-glory-obstacle-racing-and-horse-simulator.json](./300726-gallop-glory-obstacle-racing-and-horse-simulator.json) |
 | Galosphere | 341045 | [341045-galosphere.json](./341045-galosphere.json) |
 | GalRock Girls | 258440 | [258440-galrock-girls.json](./258440-galrock-girls.json) |
+| Gals Panic 3 | 210715 | [210715-gals-panic-3.json](./210715-gals-panic-3.json) |
+| Gals Panic II | 210714 | [210714-gals-panic-ii.json](./210714-gals-panic-ii.json) |
 | Galvatia | 169474 | [169474-galvatia.json](./169474-galvatia.json) |
 | Galves Adventure | 230310 | [230310-galves-adventure.json](./230310-galves-adventure.json) |
 | Galxagar | 207320 | [207320-galxagar.json](./207320-galxagar.json) |
@@ -1339,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorious Savior | 38972 | [38972-glorious-savior.json](./38972-glorious-savior.json) |
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
 | Glory Hold | 151117 | [151117-glory-hold.json](./151117-glory-hold.json) |
+| Glory Hounds | 210700 | [210700-glory-hounds.json](./210700-glory-hounds.json) |
 | Glory of the Survivor | 200134 | [200134-glory-of-the-survivor.json](./200134-glory-of-the-survivor.json) |
 | Glory of War | 209664 | [209664-glory-of-war.json](./209664-glory-of-war.json) |
 | Glory to the Heroes | 363972 | [363972-glory-to-the-heroes.json](./363972-glory-to-the-heroes.json) |
@@ -2630,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gruniożerca Trilogy | 371253 | [371253-gruniozerca-trilogy.json](./371253-gruniozerca-trilogy.json) |
 | Grunn | 281353 | [281353-grunn.json](./281353-grunn.json) |
 | GSIII: Combat Flight Simulator - Heroes of the MIG Alley | 97914 | [97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json](./97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json) |
+| GT 24 | 210726 | [210726-gt-24.json](./210726-gt-24.json) |
 | GT Manager | 197317 | [197317-gt-manager.json](./197317-gt-manager.json) |
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
 | GT Racing 1980 | 371885 | [371885-gt-racing-1980.json](./371885-gt-racing-1980.json) |
