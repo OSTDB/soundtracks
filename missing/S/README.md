@@ -3187,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singularity | 401639 | [401639-singularity.json](./401639-singularity.json) |
 | Singularity | 77285 | [77285-singularity.json](./77285-singularity.json) |
 | Singularity - Modern Lights Out | 128567 | [128567-singularity-modern-lights-out.json](./128567-singularity-modern-lights-out.json) |
+| Singularity Runner | 219678 | [219678-singularity-runner.json](./219678-singularity-runner.json) |
 | Singularium | 270124 | [270124-singularium.json](./270124-singularium.json) |
 | Singulier | 413634 | [413634-singulier.json](./413634-singulier.json) |
 | Sinij Parovoz | 301402 | [301402-sinij-parovoz.json](./301402-sinij-parovoz.json) |
@@ -3631,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughterhouse | 149596 | [149596-slaughterhouse.json](./149596-slaughterhouse.json) |
 | Slav Tiles | 198505 | [198505-slav-tiles.json](./198505-slav-tiles.json) |
 | Slave Master: The Game | 111732 | [111732-slave-master-the-game.json](./111732-slave-master-the-game.json) |
+| Slave of Lust | 219691 | [219691-slave-of-lust.json](./219691-slave-of-lust.json) |
 | Slave Princess Finne: Why Did She Sell Out Her Own Kingdom? | 214179 | [214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json](./214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json) |
 | Slave Princess Sarah | 158147 | [158147-slave-princess-sarah.json](./158147-slave-princess-sarah.json) |
 | Slave Zero X: Digital Deluxe Edition | 277028 | [277028-slave-zero-x-digital-deluxe-edition.json](./277028-slave-zero-x-digital-deluxe-edition.json) |
@@ -6183,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinning Scarecrow | 360096 | [360096-spinning-scarecrow.json](./360096-spinning-scarecrow.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | SpinOff | 199054 | [199054-spinoff.json](./199054-spinoff.json) |
+| Spinout Drifter | 219649 | [219649-spinout-drifter.json](./219649-spinout-drifter.json) |
 | SpinShuffle | 413752 | [413752-spinshuffle.json](./413752-spinshuffle.json) |
 | SpinSling | 74405 | [74405-spinsling.json](./74405-spinsling.json) |
 | SpinSweep | 301277 | [301277-spinsweep.json](./301277-spinsweep.json) |
@@ -6343,6 +6346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Castle | 47235 | [47235-spooky-castle.json](./47235-spooky-castle.json) |
 | Spooky Chase | 136485 | [136485-spooky-chase.json](./136485-spooky-chase.json) |
 | Spooky Dwellers 2: Collector's Edition | 272350 | [272350-spooky-dwellers-2-collectors-edition.json](./272350-spooky-dwellers-2-collectors-edition.json) |
+| Spooky Halloween in the Voxel World | 219681 | [219681-spooky-halloween-in-the-voxel-world.json](./219681-spooky-halloween-in-the-voxel-world.json) |
 | Spooky House | 179715 | [179715-spooky-house.json](./179715-spooky-house.json) |
 | Spooky Land Defenders | 415946 | [415946-spooky-land-defenders.json](./415946-spooky-land-defenders.json) |
 | Spooky Mahjong | 336565 | [336565-spooky-mahjong.json](./336565-spooky-mahjong.json) |
@@ -6546,6 +6550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square It: An Electronic Game of Capture the Boxes | 217928 | [217928-square-it-an-electronic-game-of-capture-the-boxes.json](./217928-square-it-an-electronic-game-of-capture-the-boxes.json) |
 | Square n Fair | 29862 | [29862-square-n-fair.json](./29862-square-n-fair.json) |
 | Square of Joy | 312733 | [312733-square-of-joy.json](./312733-square-of-joy.json) |
+| Square Rounds | 219687 | [219687-square-rounds.json](./219687-square-rounds.json) |
 | Square Route | 98997 | [98997-square-route.json](./98997-square-route.json) |
 | Square Shooter | 108482 | [108482-square-shooter.json](./108482-square-shooter.json) |
 | Square: Trial and Error | 361781 | [361781-square-trial-and-error.json](./361781-square-trial-and-error.json) |
