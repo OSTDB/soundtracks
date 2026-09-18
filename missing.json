@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T14:48:55.572Z",
-  "total_missing": 87871,
+  "generated_at": "2026-09-18T15:03:02.205Z",
+  "total_missing": 87921,
   "games": [
     {
       "igdb_id": 273453,
@@ -4158,6 +4158,11 @@
       "file": "missing/A/307744-a-ghost-party.json"
     },
     {
+      "igdb_id": 200564,
+      "game_name": "A Gladiator's Hell",
+      "file": "missing/A/200564-a-gladiators-hell.json"
+    },
+    {
       "igdb_id": 338807,
       "game_name": "A Goblin's Quest to Leave Her House and Get a Gyro for Lunch Because She Was Hungry",
       "file": "missing/A/338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json"
@@ -7946,6 +7951,11 @@
       "igdb_id": 320380,
       "game_name": "Air Force Missions",
       "file": "missing/A/320380-air-force-missions.json"
+    },
+    {
+      "igdb_id": 200554,
+      "game_name": "Air Fryer Sim",
+      "file": "missing/A/200554-air-fryer-sim.json"
     },
     {
       "igdb_id": 251819,
@@ -18143,6 +18153,11 @@
       "file": "missing/A/298583-arcade-archives-emeraldia.json"
     },
     {
+      "igdb_id": 200579,
+      "game_name": "Arcade Archives: Fighting Hawk",
+      "file": "missing/A/200579-arcade-archives-fighting-hawk.json"
+    },
+    {
       "igdb_id": 315828,
       "game_name": "Arcade Archives: Finalizer Super Transformation",
       "file": "missing/A/315828-arcade-archives-finalizer-super-transformation.json"
@@ -24728,9 +24743,29 @@
       "file": "missing/A/316810-attack-on-titan-tribute-game-2.json"
     },
     {
+      "igdb_id": 200562,
+      "game_name": "Attack on Titan: A Choice with No Regrets",
+      "file": "missing/A/200562-attack-on-titan-a-choice-with-no-regrets.json"
+    },
+    {
       "igdb_id": 105884,
       "game_name": "Attack on Titan: Assault",
       "file": "missing/A/105884-attack-on-titan-assault.json"
+    },
+    {
+      "igdb_id": 200576,
+      "game_name": "Attack on Titan: Burning Bright in the Forests of the Night",
+      "file": "missing/A/200576-attack-on-titan-burning-bright-in-the-forests-of-the-night.json"
+    },
+    {
+      "igdb_id": 200586,
+      "game_name": "Attack on Titan: Lost in the Cruel World",
+      "file": "missing/A/200586-attack-on-titan-lost-in-the-cruel-world.json"
+    },
+    {
+      "igdb_id": 200587,
+      "game_name": "Attack on Titan: Wall Sina, Goodbye",
+      "file": "missing/A/200587-attack-on-titan-wall-sina-goodbye.json"
     },
     {
       "igdb_id": 410224,
@@ -29813,6 +29848,11 @@
       "file": "missing/B/277971-barbarians-and-beasts.json"
     },
     {
+      "igdb_id": 200559,
+      "game_name": "Barbarium",
+      "file": "missing/B/200559-barbarium.json"
+    },
+    {
       "igdb_id": 311491,
       "game_name": "Barbarization",
       "file": "missing/B/311491-barbarization.json"
@@ -29848,14 +29888,44 @@
       "file": "missing/B/248681-barbie-and-the-magic-of-pegasus.json"
     },
     {
+      "igdb_id": 200600,
+      "game_name": "Barbie as Princess Bride",
+      "file": "missing/B/200600-barbie-as-princess-bride.json"
+    },
+    {
+      "igdb_id": 200599,
+      "game_name": "Barbie as Rapunzel",
+      "file": "missing/B/200599-barbie-as-rapunzel.json"
+    },
+    {
       "igdb_id": 23781,
       "game_name": "Barbie as Rapunzel: A Creative Adventure",
       "file": "missing/B/23781-barbie-as-rapunzel-a-creative-adventure.json"
     },
     {
+      "igdb_id": 200605,
+      "game_name": "Barbie as Sleeping Beauty",
+      "file": "missing/B/200605-barbie-as-sleeping-beauty.json"
+    },
+    {
+      "igdb_id": 200590,
+      "game_name": "Barbie as the Princess and the Pauper",
+      "file": "missing/B/200590-barbie-as-the-princess-and-the-pauper.json"
+    },
+    {
+      "igdb_id": 200601,
+      "game_name": "Barbie Beauty Styler",
+      "file": "missing/B/200601-barbie-beauty-styler.json"
+    },
+    {
       "igdb_id": 255335,
       "game_name": "Barbie Dreamhouse Adventures",
       "file": "missing/B/255335-barbie-dreamhouse-adventures.json"
+    },
+    {
+      "igdb_id": 200592,
+      "game_name": "Barbie Fashion Show",
+      "file": "missing/B/200592-barbie-fashion-show.json"
     },
     {
       "igdb_id": 245569,
@@ -29908,9 +29978,39 @@
       "file": "missing/B/260128-barbie-girl.json"
     },
     {
+      "igdb_id": 200591,
+      "game_name": "Barbie in the 12 Dancing Princesses",
+      "file": "missing/B/200591-barbie-in-the-12-dancing-princesses.json"
+    },
+    {
       "igdb_id": 293194,
       "game_name": "Barbie in the 12 Dancing Princesses",
       "file": "missing/B/293194-barbie-in-the-12-dancing-princesses.json"
+    },
+    {
+      "igdb_id": 200597,
+      "game_name": "Barbie Jewelry Designer",
+      "file": "missing/B/200597-barbie-jewelry-designer.json"
+    },
+    {
+      "igdb_id": 200602,
+      "game_name": "Barbie Magic Genie Bottle",
+      "file": "missing/B/200602-barbie-magic-genie-bottle.json"
+    },
+    {
+      "igdb_id": 200593,
+      "game_name": "Barbie Mermaid Adventure",
+      "file": "missing/B/200593-barbie-mermaid-adventure.json"
+    },
+    {
+      "igdb_id": 200607,
+      "game_name": "Barbie Nail Designer",
+      "file": "missing/B/200607-barbie-nail-designer.json"
+    },
+    {
+      "igdb_id": 200594,
+      "game_name": "Barbie of Swan Lake: The Enchanted Forest",
+      "file": "missing/B/200594-barbie-of-swan-lake-the-enchanted-forest.json"
     },
     {
       "igdb_id": 261889,
@@ -29921,6 +30021,16 @@
       "igdb_id": 19402,
       "game_name": "Barbie Pet Rescue",
       "file": "missing/B/19402-barbie-pet-rescue.json"
+    },
+    {
+      "igdb_id": 200589,
+      "game_name": "Barbie Pet Rescue",
+      "file": "missing/B/200589-barbie-pet-rescue.json"
+    },
+    {
+      "igdb_id": 200606,
+      "game_name": "Barbie Photo Designer",
+      "file": "missing/B/200606-barbie-photo-designer.json"
     },
     {
       "igdb_id": 97319,
@@ -29963,6 +30073,11 @@
       "file": "missing/B/228546-barbie-malibu-mysteries.json"
     },
     {
+      "igdb_id": 200588,
+      "game_name": "Barbie: Ocean Discovery",
+      "file": "missing/B/200588-barbie-ocean-discovery.json"
+    },
+    {
       "igdb_id": 293193,
       "game_name": "Barbie: Puppy Water Sliders",
       "file": "missing/B/293193-barbie-puppy-water-sliders.json"
@@ -29971,6 +30086,11 @@
       "igdb_id": 293197,
       "game_name": "Barbie: Shoe Hunt",
       "file": "missing/B/293197-barbie-shoe-hunt.json"
+    },
+    {
+      "igdb_id": 200596,
+      "game_name": "Barbie: Treasures in Time",
+      "file": "missing/B/200596-barbie-treasures-in-time.json"
     },
     {
       "igdb_id": 59942,
@@ -41178,6 +41298,11 @@
       "file": "missing/B/384648-block-breaker.json"
     },
     {
+      "igdb_id": 200568,
+      "game_name": "Block Breaker 2",
+      "file": "missing/B/200568-block-breaker-2.json"
+    },
+    {
       "igdb_id": 250413,
       "game_name": "Block Breakerz",
       "file": "missing/B/250413-block-breakerz.json"
@@ -41416,6 +41541,11 @@
       "igdb_id": 157204,
       "game_name": "Blockdown",
       "file": "missing/B/157204-blockdown.json"
+    },
+    {
+      "igdb_id": 200565,
+      "game_name": "Blocked Zona",
+      "file": "missing/B/200565-blocked-zona.json"
     },
     {
       "igdb_id": 75849,
@@ -43311,6 +43441,11 @@
       "igdb_id": 298180,
       "game_name": "BobasQuest",
       "file": "missing/B/298180-bobasquest.json"
+    },
+    {
+      "igdb_id": 200574,
+      "game_name": "Bobbi Adventure",
+      "file": "missing/B/200574-bobbi-adventure.json"
     },
     {
       "igdb_id": 67985,
@@ -46268,6 +46403,11 @@
       "file": "missing/B/191243-box-rush.json"
     },
     {
+      "igdb_id": 200569,
+      "game_name": "Box Rush 2: Ice Worlds",
+      "file": "missing/B/200569-box-rush-2-ice-worlds.json"
+    },
+    {
       "igdb_id": 208454,
       "game_name": "Box to Box",
       "file": "missing/B/208454-box-to-box.json"
@@ -47131,6 +47271,11 @@
       "igdb_id": 14607,
       "game_name": "Brave Story: New Traveler",
       "file": "missing/B/14607-brave-story-new-traveler.json"
+    },
+    {
+      "igdb_id": 200570,
+      "game_name": "Brave Survivor",
+      "file": "missing/B/200570-brave-survivor.json"
     },
     {
       "igdb_id": 213489,
@@ -93308,6 +93453,11 @@
       "file": "missing/D/283300-digital-keiba-shinbun-my-trackman.json"
     },
     {
+      "igdb_id": 200604,
+      "game_name": "Digital Makeover",
+      "file": "missing/D/200604-digital-makeover.json"
+    },
+    {
       "igdb_id": 229805,
       "game_name": "Digital Messiah",
       "file": "missing/D/229805-digital-messiah.json"
@@ -105836,6 +105986,11 @@
       "igdb_id": 175346,
       "game_name": "Dungeon of Minos",
       "file": "missing/D/175346-dungeon-of-minos.json"
+    },
+    {
+      "igdb_id": 200585,
+      "game_name": "Dungeon of the Damned",
+      "file": "missing/D/200585-dungeon-of-the-damned.json"
     },
     {
       "igdb_id": 72637,
@@ -149358,6 +149513,11 @@
       "file": "missing/G/324130-grand-mountain-adventure-2.json"
     },
     {
+      "igdb_id": 200552,
+      "game_name": "Grand Piano Keys",
+      "file": "missing/G/200552-grand-piano-keys.json"
+    },
+    {
       "igdb_id": 138218,
       "game_name": "Grand Poo World",
       "file": "missing/G/138218-grand-poo-world.json"
@@ -176708,6 +176868,11 @@
       "file": "missing/I/297647-incremental-school-tap-battle.json"
     },
     {
+      "igdb_id": 200567,
+      "game_name": "Incubus",
+      "file": "missing/I/200567-incubus.json"
+    },
+    {
       "igdb_id": 284887,
       "game_name": "Incursion2D",
       "file": "missing/I/284887-incursion2d.json"
@@ -179891,6 +180056,11 @@
       "igdb_id": 339899,
       "game_name": "Invasion Omega",
       "file": "missing/I/339899-invasion-omega.json"
+    },
+    {
+      "igdb_id": 200578,
+      "game_name": "Invasion Waves",
+      "file": "missing/I/200578-invasion-waves.json"
     },
     {
       "igdb_id": 367507,
@@ -191251,6 +191421,16 @@
       "igdb_id": 58808,
       "game_name": "Kids Station: Digimon Park",
       "file": "missing/K/58808-kids-station-digimon-park.json"
+    },
+    {
+      "igdb_id": 200556,
+      "game_name": "Kids Station: Hello Kitty no Oshaberi Town",
+      "file": "missing/K/200556-kids-station-hello-kitty-no-oshaberi-town.json"
+    },
+    {
+      "igdb_id": 200561,
+      "game_name": "Kids Station: Hello Kitty no Ouchi he Oide yo!",
+      "file": "missing/K/200561-kids-station-hello-kitty-no-ouchi-he-oide-yo.json"
     },
     {
       "igdb_id": 200641,
@@ -206738,6 +206918,11 @@
       "file": "missing/L/73762-lone-eagle-colombian-encounter.json"
     },
     {
+      "igdb_id": 200575,
+      "game_name": "Lone Elven Wanderer",
+      "file": "missing/L/200575-lone-elven-wanderer.json"
+    },
+    {
       "igdb_id": 264139,
       "game_name": "Lone Fungus: Melody of Spores",
       "file": "missing/L/264139-lone-fungus-melody-of-spores.json"
@@ -206911,6 +207096,11 @@
       "igdb_id": 90619,
       "game_name": "Long Hun Shi Ke",
       "file": "missing/L/90619-long-hun-shi-ke.json"
+    },
+    {
+      "igdb_id": 200571,
+      "game_name": "Long Journey",
+      "file": "missing/L/200571-long-journey.json"
     },
     {
       "igdb_id": 247049,
@@ -244113,6 +244303,11 @@
       "file": "missing/N/415899-necromarch.json"
     },
     {
+      "igdb_id": 200549,
+      "game_name": "NecroMerger",
+      "file": "missing/N/200549-necromerger.json"
+    },
+    {
       "igdb_id": 26846,
       "game_name": "Necromunda: Underhive Wars",
       "file": "missing/N/26846-necromunda-underhive-wars.json"
@@ -248681,6 +248876,11 @@
       "igdb_id": 64933,
       "game_name": "Nikoli no Puzzle V: Masyu",
       "file": "missing/N/64933-nikoli-no-puzzle-v-masyu.json"
+    },
+    {
+      "igdb_id": 200560,
+      "game_name": "Nil Admirari no Tenbin: Twin Pack",
+      "file": "missing/N/200560-nil-admirari-no-tenbin-twin-pack.json"
     },
     {
       "igdb_id": 347788,
@@ -273838,6 +274038,11 @@
       "file": "missing/P/334218-pizza-rogue-p-p-m-p-d-e-s.json"
     },
     {
+      "igdb_id": 200582,
+      "game_name": "Pizza Run",
+      "file": "missing/P/200582-pizza-run.json"
+    },
+    {
       "igdb_id": 326382,
       "game_name": "Pizza Simulator Together",
       "file": "missing/P/326382-pizza-simulator-together.json"
@@ -289258,6 +289463,11 @@
       "file": "missing/R/401540-raccoon-survival-simulator.json"
     },
     {
+      "igdb_id": 200573,
+      "game_name": "Raccoon Tales",
+      "file": "missing/R/200573-raccoon-tales.json"
+    },
+    {
       "igdb_id": 373083,
       "game_name": "Raccoon Valley Tycoon",
       "file": "missing/R/373083-raccoon-valley-tycoon.json"
@@ -304623,6 +304833,11 @@
       "file": "missing/R/133154-rough-justice-84.json"
     },
     {
+      "igdb_id": 200572,
+      "game_name": "Rough Kuts: 3D",
+      "file": "missing/R/200572-rough-kuts-3d.json"
+    },
+    {
       "igdb_id": 147900,
       "game_name": "Roulette",
       "file": "missing/R/147900-roulette.json"
@@ -306586,6 +306801,11 @@
       "igdb_id": 131541,
       "game_name": "Rush",
       "file": "missing/R/131541-rush.json"
+    },
+    {
+      "igdb_id": 200584,
+      "game_name": "Rush",
+      "file": "missing/R/200584-rush.json"
     },
     {
       "igdb_id": 272586,
@@ -312631,6 +312851,11 @@
       "igdb_id": 219620,
       "game_name": "Scripted Land",
       "file": "missing/S/219620-scripted-land.json"
+    },
+    {
+      "igdb_id": 200563,
+      "game_name": "Scripted Souls",
+      "file": "missing/S/200563-scripted-souls.json"
     },
     {
       "igdb_id": 191860,
@@ -320618,6 +320843,11 @@
       "file": "missing/S/223139-shopping-clutter-5-christmas-poetree.json"
     },
     {
+      "igdb_id": 200580,
+      "game_name": "Shopping Clutter: The Best Playground",
+      "file": "missing/S/200580-shopping-clutter-the-best-playground.json"
+    },
+    {
       "igdb_id": 276174,
       "game_name": "Shopping in a Winter Zombieland",
       "file": "missing/S/276174-shopping-in-a-winter-zombieland.json"
@@ -325821,6 +326051,11 @@
       "igdb_id": 216887,
       "game_name": "Slaughter Bots",
       "file": "missing/S/216887-slaughter-bots.json"
+    },
+    {
+      "igdb_id": 200566,
+      "game_name": "Slaughter Cannon 2",
+      "file": "missing/S/200566-slaughter-cannon-2.json"
     },
     {
       "igdb_id": 235354,
@@ -378898,6 +379133,11 @@
       "file": "missing/T/71496-the-lost-island-of-alanna.json"
     },
     {
+      "igdb_id": 200581,
+      "game_name": "The Lost Kingdom Prophecy",
+      "file": "missing/T/200581-the-lost-kingdom-prophecy.json"
+    },
+    {
       "igdb_id": 166712,
       "game_name": "The Lost Labyrinth",
       "file": "missing/T/166712-the-lost-labyrinth.json"
@@ -396043,6 +396283,11 @@
       "file": "missing/T/226412-tonka-dign-rigs.json"
     },
     {
+      "igdb_id": 200555,
+      "game_name": "Tonkachi Mario",
+      "file": "missing/T/200555-tonkachi-mario.json"
+    },
+    {
       "igdb_id": 159256,
       "game_name": "Tonko 4",
       "file": "missing/T/159256-tonko-4.json"
@@ -397361,6 +397606,11 @@
       "igdb_id": 5238,
       "game_name": "Totally Spies! Totally Party",
       "file": "missing/T/5238-totally-spies-totally-party.json"
+    },
+    {
+      "igdb_id": 200603,
+      "game_name": "Totally Tattoos",
+      "file": "missing/T/200603-totally-tattoos.json"
     },
     {
       "igdb_id": 373074,
