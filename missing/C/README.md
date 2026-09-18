@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canvas of Kings | 259576 | [259576-canvas-of-kings.json](./259576-canvas-of-kings.json) |
 | Canvas of Thoughts | 399590 | [399590-canvas-of-thoughts.json](./399590-canvas-of-thoughts.json) |
 | CanvasCraft | 332241 | [332241-canvascraft.json](./332241-canvascraft.json) |
+| Canyon Miner: Minecart Rush | 233110 | [233110-canyon-miner-minecart-rush.json](./233110-canyon-miner-minecart-rush.json) |
 | Canyon Rush | 291619 | [291619-canyon-rush.json](./291619-canyon-rush.json) |
 | Capacocha | 179139 | [179139-capacocha.json](./179139-capacocha.json) |
 | Caparace | 383966 | [383966-caparace.json](./383966-caparace.json) |
