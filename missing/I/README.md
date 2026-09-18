@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
 | Indoors: The Alston Manor | 269005 | [269005-indoors-the-alston-manor.json](./269005-indoors-the-alston-manor.json) |
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
+| Inductor | 211282 | [211282-inductor.json](./211282-inductor.json) |
 | Indulge | 414312 | [414312-indulge.json](./414312-indulge.json) |
 | Industeria | 416684 | [416684-industeria.json](./416684-industeria.json) |
 | Industria II | 292878 | [292878-industria-ii.json](./292878-industria-ii.json) |
