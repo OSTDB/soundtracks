@@ -2672,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoodwink | 20820 | [20820-hoodwink.json](./20820-hoodwink.json) |
 | Hoofdrekenen | 98950 | [98950-hoofdrekenen.json](./98950-hoofdrekenen.json) |
 | Hook | 10225 | [10225-hook.json](./10225-hook.json) |
+| Hook | 214611 | [214611-hook.json](./214611-hook.json) |
 | Hook | 78145 | [78145-hook.json](./78145-hook.json) |
 | Hook Champ | 67249 | [67249-hook-champ.json](./67249-hook-champ.json) |
 | Hook Line and Sniper | 319365 | [319365-hook-line-and-sniper.json](./319365-hook-line-and-sniper.json) |
