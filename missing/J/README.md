@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiànxiá Tú | 157674 | [157674-jianxia-tu.json](./157674-jianxia-tu.json) |
 | Jibaku-kun: Zero no Ki no Kajitsu | 295036 | [295036-jibaku-kun-zero-no-ki-no-kajitsu.json](./295036-jibaku-kun-zero-no-ki-no-kajitsu.json) |
 | Jibchag-ui Mangja: Jib-eulobuteoui Talchul | 368041 | [368041-jibchag-ui-mangja-jib-eulobuteoui-talchul.json](./368041-jibchag-ui-mangja-jib-eulobuteoui-talchul.json) |
+| Jice | 183978 | [183978-jice.json](./183978-jice.json) |
 | Jigdoku | 404203 | [404203-jigdoku.json](./404203-jigdoku.json) |
 | Jigen Bakudan Kaijo | 349942 | [349942-jigen-bakudan-kaijo.json](./349942-jigen-bakudan-kaijo.json) |
 | Jigoku Gokurakumaru | 215128 | [215128-jigoku-gokurakumaru.json](./215128-jigoku-gokurakumaru.json) |
@@ -1127,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Drift It ! | 122412 | [122412-just-drift-it.json](./122412-just-drift-it.json) |
 | Just Drive | 286004 | [286004-just-drive.json](./286004-just-drive.json) |
 | Just Drive a Lil: It's a Mini Racing Game! | 217516 | [217516-just-drive-a-lil-its-a-mini-racing-game.json](./217516-just-drive-a-lil-its-a-mini-racing-game.json) |
+| Just Dumb Little Dances | 184000 | [184000-just-dumb-little-dances.json](./184000-just-dumb-little-dances.json) |
 | Just Find It 2 | 256340 | [256340-just-find-it-2.json](./256340-just-find-it-2.json) |
 | Just For Killing Time | 82791 | [82791-just-for-killing-time.json](./82791-just-for-killing-time.json) |
 | Just Get In Through the Door | 158677 | [158677-just-get-in-through-the-door.json](./158677-just-get-in-through-the-door.json) |
