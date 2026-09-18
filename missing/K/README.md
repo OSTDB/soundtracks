@@ -837,6 +837,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Dungeon | 228691 | [228691-kings-dungeon.json](./228691-kings-dungeon.json) |
 | King's Field | 7422 | [7422-kings-field.json](./7422-kings-field.json) |
 | King's Field | 7423 | [7423-kings-field.json](./7423-kings-field.json) |
+| King's Hand: Exotic Purgatory Pack | 230919 | [230919-kings-hand-exotic-purgatory-pack.json](./230919-kings-hand-exotic-purgatory-pack.json) |
+| King's Hand: Exotic Zeus Pack | 230920 | [230920-kings-hand-exotic-zeus-pack.json](./230920-kings-hand-exotic-zeus-pack.json) |
+| King's Hand: Seasonal Winter Pack | 230918 | [230918-kings-hand-seasonal-winter-pack.json](./230918-kings-hand-seasonal-winter-pack.json) |
 | King's Heir: Rise to the Throne | 102885 | [102885-kings-heir-rise-to-the-throne.json](./102885-kings-heir-rise-to-the-throne.json) |
 | King's Knight | 307938 | [307938-kings-knight.json](./307938-kings-knight.json) |
 | King's Knight Special | 307937 | [307937-kings-knight-special.json](./307937-kings-knight-special.json) |
