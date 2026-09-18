@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relevo's Snowboarding | 311986 | [311986-relevos-snowboarding.json](./311986-relevos-snowboarding.json) |
 | Relgiros | 274492 | [274492-relgiros.json](./274492-relgiros.json) |
 | Relic | 338301 | [338301-relic.json](./338301-relic.json) |
+| Relic Adventure | 188508 | [188508-relic-adventure.json](./188508-relic-adventure.json) |
 | Relic Arena | 278976 | [278976-relic-arena.json](./278976-relic-arena.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
 | Relic Hunters Zero: Remix | 129846 | [129846-relic-hunters-zero-remix.json](./129846-relic-hunters-zero-remix.json) |
@@ -2819,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Defense | 305934 | [305934-rogue-defense.json](./305934-rogue-defense.json) |
 | Rogue Dice | 217027 | [217027-rogue-dice.json](./217027-rogue-dice.json) |
 | Rogue Drone | 107163 | [107163-rogue-drone.json](./107163-rogue-drone.json) |
+| Rogue Dungeon | 188515 | [188515-rogue-dungeon.json](./188515-rogue-dungeon.json) |
 | Rogue Flight | 318086 | [318086-rogue-flight.json](./318086-rogue-flight.json) |
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
 | Rogue Hands! | 333352 | [333352-rogue-hands.json](./333352-rogue-hands.json) |
