@@ -1811,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live A Live | 15835 | [15835-live-a-live.json](./15835-live-a-live.json) |
 | Live Ammo | 93030 | [93030-live-ammo.json](./93030-live-ammo.json) |
 | Live by the Sword: Tactics | 152334 | [152334-live-by-the-sword-tactics.json](./152334-live-by-the-sword-tactics.json) |
+| Live Cycling Manager 2 | 197760 | [197760-live-cycling-manager-2.json](./197760-live-cycling-manager-2.json) |
 | Live Cycling Manager 2022 | 215920 | [215920-live-cycling-manager-2022.json](./215920-live-cycling-manager-2022.json) |
 | Live Empire | 169403 | [169403-live-empire.json](./169403-live-empire.json) |
 | Live Labyrinth | 149530 | [149530-live-labyrinth.json](./149530-live-labyrinth.json) |
@@ -2788,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Legend | 13907 | [13907-lunar-legend.json](./13907-lunar-legend.json) |
 | Lunar Mountain | 236923 | [236923-lunar-mountain.json](./236923-lunar-mountain.json) |
 | Lunar Racer | 259246 | [259246-lunar-racer.json](./259246-lunar-racer.json) |
+| Lunar Rescue Mission | 197755 | [197755-lunar-rescue-mission.json](./197755-lunar-rescue-mission.json) |
 | Lunar Resilience | 302918 | [302918-lunar-resilience.json](./302918-lunar-resilience.json) |
 | Lunar: Dragon Song | 13908 | [13908-lunar-dragon-song.json](./13908-lunar-dragon-song.json) |
 | Lunar's Chosen | 280781 | [280781-lunars-chosen.json](./280781-lunars-chosen.json) |
