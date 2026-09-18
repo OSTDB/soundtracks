@@ -2576,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Reality | 271486 | [271486-the-elder-reality.json](./271486-the-elder-reality.json) |
 | The Elder Scrolls Adventures: Redguard | 55 | [55-the-elder-scrolls-adventures-redguard.json](./55-the-elder-scrolls-adventures-redguard.json) |
 | The Elder Scrolls III: Tribunal | 57 | [57-the-elder-scrolls-iii-tribunal.json](./57-the-elder-scrolls-iii-tribunal.json) |
+| The Elder Scrolls IV: Oblivion Mobile | 209010 | [209010-the-elder-scrolls-iv-oblivion-mobile.json](./209010-the-elder-scrolls-iv-oblivion-mobile.json) |
 | The Elder Scrolls Online Collection: Gold Road | 306484 | [306484-the-elder-scrolls-online-collection-gold-road.json](./306484-the-elder-scrolls-online-collection-gold-road.json) |
 | The Elder Scrolls Online: 2025 Premium Edition | 340745 | [340745-the-elder-scrolls-online-2025-premium-edition.json](./340745-the-elder-scrolls-online-2025-premium-edition.json) |
 | The Elder Scrolls Online: Blackwood | 143024 | [143024-the-elder-scrolls-online-blackwood.json](./143024-the-elder-scrolls-online-blackwood.json) |
@@ -4250,6 +4251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
 | The Pack | 113678 | [113678-the-pack.json](./113678-the-pack.json) |
 | The Packages | 212916 | [212916-the-packages.json](./212916-the-packages.json) |
+| The Pagemaster | 209009 | [209009-the-pagemaster.json](./209009-the-pagemaster.json) |
 | The Pagemaster | 49032 | [49032-the-pagemaster.json](./49032-the-pagemaster.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
@@ -6473,6 +6475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 13 | 5226 | [5226-tiger-woods-pga-tour-13.json](./5226-tiger-woods-pga-tour-13.json) |
 | Tiger Woods PGA Tour 2004 | 905 | [905-tiger-woods-pga-tour-2004.json](./905-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
+| Tigger's Family Tree 3D Adventure | 209036 | [209036-tiggers-family-tree-3d-adventure.json](./209036-tiggers-family-tree-3d-adventure.json) |
 | Tight Man | 393457 | [393457-tight-man.json](./393457-tight-man.json) |
 | Tightrope | 388706 | [388706-tightrope.json](./388706-tightrope.json) |
 | Tightrope Walking | 178076 | [178076-tightrope-walking.json](./178076-tightrope-walking.json) |
