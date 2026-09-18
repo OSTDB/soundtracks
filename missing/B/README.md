@@ -3867,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowser's Dank Rave 2017 Edition: Extra Long Name That I Don't Feel Like Typing | 313330 | [313330-bowsers-dank-rave-2017-edition-extra-long-name-that-i-dont-feel-like-typing.json](./313330-bowsers-dank-rave-2017-edition-extra-long-name-that-i-dont-feel-like-typing.json) |
 | Bowser's Diary: Take the Quiz! | 328602 | [328602-bowsers-diary-take-the-quiz.json](./328602-bowsers-diary-take-the-quiz.json) |
 | Bowser's Fury | 142909 | [142909-bowsers-fury.json](./142909-bowsers-fury.json) |
+| Bowser's Jumping Challenge | 215200 | [215200-bowsers-jumping-challenge.json](./215200-bowsers-jumping-challenge.json) |
 | Bowser's Lair Hockey | 231642 | [231642-bowsers-lair-hockey.json](./231642-bowsers-lair-hockey.json) |
 | Bowser's Valley | 268009 | [268009-bowsers-valley.json](./268009-bowsers-valley.json) |
 | Bowslinger | 33088 | [33088-bowslinger.json](./33088-bowslinger.json) |
