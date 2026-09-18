@@ -2981,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DK Bongo Blast | 231476 | [231476-dk-bongo-blast.json](./231476-dk-bongo-blast.json) |
 | DK: Jungle Climber | 1099 | [1099-dk-jungle-climber.json](./1099-dk-jungle-climber.json) |
 | DK: King of Swing - Hurling for Distance | 231633 | [231633-dk-king-of-swing-hurling-for-distance.json](./231633-dk-king-of-swing-hurling-for-distance.json) |
+| DK64 Randomizer | 206186 | [206186-dk64-randomizer.json](./206186-dk64-randomizer.json) |
 | DKC New Competition Cartridge | 219079 | [219079-dkc-new-competition-cartridge.json](./219079-dkc-new-competition-cartridge.json) |
 | Dkls | 173276 | [173276-dkls.json](./173276-dkls.json) |
 | DLC Quest | 3004 | [3004-dlc-quest.json](./3004-dlc-quest.json) |
@@ -3667,6 +3668,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Clicker | 411575 | [411575-dot-clicker.json](./411575-dot-clicker.json) |
 | Dot Dash Defense | 400361 | [400361-dot-dash-defense.json](./400361-dot-dash-defense.json) |
 | Dot Hop | 295803 | [295803-dot-hop.json](./295803-dot-hop.json) |
+| Dot Kareshi: We're 8bit Lovers! II - Tenku no Kissu | 206234 | [206234-dot-kareshi-were-8bit-lovers-ii-tenku-no-kissu.json](./206234-dot-kareshi-were-8bit-lovers-ii-tenku-no-kissu.json) |
+| Dot Kareshi: We're 8bit Lovers! III - Yami no Hanayome | 206232 | [206232-dot-kareshi-were-8bit-lovers-iii-yami-no-hanayome.json](./206232-dot-kareshi-were-8bit-lovers-iii-yami-no-hanayome.json) |
 | Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
 | Dot Tanki | 222940 | [222940-dot-tanki.json](./222940-dot-tanki.json) |
 | Dot to Tot - Connect Alphabets | 88210 | [88210-dot-to-tot-connect-alphabets.json](./88210-dot-to-tot-connect-alphabets.json) |
