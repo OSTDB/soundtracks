@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Markus | 332518 | [332518-eiyuden-chronicle-hundred-heroes-the-chapter-of-markus.json](./332518-eiyuden-chronicle-hundred-heroes-the-chapter-of-markus.json) |
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Seign | 332519 | [332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json](./332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json) |
 | Eizo Play: Megumi | 69857 | [69857-eizo-play-megumi.json](./69857-eizo-play-megumi.json) |
+| Eject Bombin' | 182923 | [182923-eject-bombin.json](./182923-eject-bombin.json) |
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
 | Eko Eko Azarak: Wizard of Darkness | 376543 | [376543-eko-eko-azarak-wizard-of-darkness.json](./376543-eko-eko-azarak-wizard-of-darkness.json) |
 | Ekoh Beach | 189109 | [189109-ekoh-beach.json](./189109-ekoh-beach.json) |
