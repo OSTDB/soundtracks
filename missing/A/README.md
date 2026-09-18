@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Room You Can't Exit Unless You Find the Numbers | 311643 | [311643-a-room-you-cant-exit-unless-you-find-the-numbers.json](./311643-a-room-you-cant-exit-unless-you-find-the-numbers.json) |
 | A Rose in the Twilight | 52042 | [52042-a-rose-in-the-twilight.json](./52042-a-rose-in-the-twilight.json) |
 | A Rose in the Twilight: Digital Bloodlust Edition | 52564 | [52564-a-rose-in-the-twilight-digital-bloodlust-edition.json](./52564-a-rose-in-the-twilight-digital-bloodlust-edition.json) |
+| A Rum Case in Fogtown | 211806 | [211806-a-rum-case-in-fogtown.json](./211806-a-rum-case-in-fogtown.json) |
 | A Rum Tale | 230384 | [230384-a-rum-tale.json](./230384-a-rum-tale.json) |
 | A Sandwich, A Leash, and A Storm | 337701 | [337701-a-sandwich-a-leash-and-a-storm.json](./337701-a-sandwich-a-leash-and-a-storm.json) |
 | A Second Chance | 201290 | [201290-a-second-chance.json](./201290-a-second-chance.json) |
