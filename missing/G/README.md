@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemstone Warrior | 25693 | [25693-gemstone-warrior.json](./25693-gemstone-warrior.json) |
 | Gemstones | 231616 | [231616-gemstones.json](./231616-gemstones.json) |
 | Gemsweeper | 135284 | [135284-gemsweeper.json](./135284-gemsweeper.json) |
+| Gemtrader Story 2: Blood Relationship | 227377 | [227377-gemtrader-story-2-blood-relationship.json](./227377-gemtrader-story-2-blood-relationship.json) |
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
 | Genba no Kizuna | 235738 | [235738-genba-no-kizuna.json](./235738-genba-no-kizuna.json) |
 | Genbu's Favour | 322556 | [322556-genbus-favour.json](./322556-genbus-favour.json) |
