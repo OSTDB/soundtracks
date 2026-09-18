@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candlelight | 276456 | [276456-candlelight.json](./276456-candlelight.json) |
 | Candles of the Damned | 271491 | [271491-candles-of-the-damned.json](./271491-candles-of-the-damned.json) |
 | Candy | 104011 | [104011-candy.json](./104011-candy.json) |
+| Candy Adventure HD | 232046 | [232046-candy-adventure-hd.json](./232046-candy-adventure-hd.json) |
 | Candy Bandit | 19697 | [19697-candy-bandit.json](./19697-candy-bandit.json) |
 | Candy Box | 3269 | [3269-candy-box.json](./3269-candy-box.json) |
 | Candy Box 2 | 62779 | [62779-candy-box-2.json](./62779-candy-box-2.json) |
@@ -1104,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch 'Em | 80503 | [80503-catch-em.json](./80503-catch-em.json) |
 | Catch & Cook | 244231 | [244231-catch-and-cook.json](./244231-catch-and-cook.json) |
 | Catch a Falling Star | 33285 | [33285-catch-a-falling-star.json](./33285-catch-a-falling-star.json) |
+| Catch Bus | 232033 | [232033-catch-bus.json](./232033-catch-bus.json) |
 | Catch Canvas | 33095 | [33095-catch-canvas.json](./33095-catch-canvas.json) |
 | Catch Flex: Quest | 347722 | [347722-catch-flex-quest.json](./347722-catch-flex-quest.json) |
 | Catch Hina | 185590 | [185590-catch-hina.json](./185590-catch-hina.json) |
@@ -1148,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catherine and the Spirit World | 315106 | [315106-catherine-and-the-spirit-world.json](./315106-catherine-and-the-spirit-world.json) |
 | Catherine Ragnor and the Legend of the Flying Dutchman | 189113 | [189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json](./189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json) |
 | Catherine: Full Body - Heart's Desire Premium Edition | 72067 | [72067-catherine-full-body-hearts-desire-premium-edition.json](./72067-catherine-full-body-hearts-desire-premium-edition.json) |
+| Cathode's Journey | 232029 | [232029-cathodes-journey.json](./232029-cathodes-journey.json) |
 | CatHotel | 256531 | [256531-cathotel.json](./256531-cathotel.json) |
 | Cathulhu Detective | 193978 | [193978-cathulhu-detective.json](./193978-cathulhu-detective.json) |
 | Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
