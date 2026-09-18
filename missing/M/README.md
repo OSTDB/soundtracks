@@ -1688,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Surge | 94175 | [94175-maximum-surge.json](./94175-maximum-surge.json) |
 | Maxo Scringle's "Human Rocket" Mini-Type Rocket Golf | 402367 | [402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json](./402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json) |
 | MaxRacer | 143670 | [143670-maxracer.json](./143670-maxracer.json) |
+| MaxSwitch | 220214 | [220214-maxswitch.json](./220214-maxswitch.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
 | May Club | 73791 | [73791-may-club.json](./73791-may-club.json) |
@@ -2517,9 +2518,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Town! | 87347 | [87347-merge-town.json](./87347-merge-town.json) |
 | Merge Villa | 227958 | [227958-merge-villa.json](./227958-merge-villa.json) |
 | Merge War: Super Legion Master | 262375 | [262375-merge-war-super-legion-master.json](./262375-merge-war-super-legion-master.json) |
+| Merge Wood | 220181 | [220181-merge-wood.json](./220181-merge-wood.json) |
 | Merge Zoo | 224105 | [224105-merge-zoo.json](./224105-merge-zoo.json) |
 | Mergery | 358354 | [358354-mergery.json](./358354-mergery.json) |
 | MergeZ | 300849 | [300849-mergez.json](./300849-mergez.json) |
+| Mergical Fun: Match Island | 220199 | [220199-mergical-fun-match-island.json](./220199-mergical-fun-match-island.json) |
 | Merica Tale | 367500 | [367500-merica-tale.json](./367500-merica-tale.json) |
 | Meridian | 312177 | [312177-meridian.json](./312177-meridian.json) |
 | Meridian: Age of Invention | 34578 | [34578-meridian-age-of-invention.json](./34578-meridian-age-of-invention.json) |
@@ -2846,6 +2849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Plutonia | 312898 | [312898-micro-plutonia.json](./312898-micro-plutonia.json) |
 | Micro Quest | 307593 | [307593-micro-quest.json](./307593-micro-quest.json) |
 | Micro Slaughter Community Project | 221847 | [221847-micro-slaughter-community-project.json](./221847-micro-slaughter-community-project.json) |
+| Micro Smash | 220184 | [220184-micro-smash.json](./220184-micro-smash.json) |
 | Micro-Breakout | 320150 | [320150-micro-breakout.json](./320150-micro-breakout.json) |
 | Micro$oft Simulaattori | 98940 | [98940-micro-oft-simulaattori.json](./98940-micro-oft-simulaattori.json) |
 | MicroCity | 144375 | [144375-microcity.json](./144375-microcity.json) |
@@ -3818,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Rivals | 255104 | [255104-mlb-rivals.json](./255104-mlb-rivals.json) |
 | MLB Slugfest 2003 | 47334 | [47334-mlb-slugfest-2003.json](./47334-mlb-slugfest-2003.json) |
 | MLB Tap Sports Baseball 2017 | 90064 | [90064-mlb-tap-sports-baseball-2017.json](./90064-mlb-tap-sports-baseball-2017.json) |
+| MLB Tap Sports Baseball 2020 | 220210 | [220210-mlb-tap-sports-baseball-2020.json](./220210-mlb-tap-sports-baseball-2020.json) |
 | MLB The Show 19: MVP Edition | 119070 | [119070-mlb-the-show-19-mvp-edition.json](./119070-mlb-the-show-19-mvp-edition.json) |
 | MLB The Show 20 | 125013 | [125013-mlb-the-show-20.json](./125013-mlb-the-show-20.json) |
 | MLB The Show 21 | 143260 | [143260-mlb-the-show-21.json](./143260-mlb-the-show-21.json) |
@@ -5346,6 +5351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music on: Electric Guitar | 79881 | [79881-music-on-electric-guitar.json](./79881-music-on-electric-guitar.json) |
 | Music Piano 7 | 352191 | [352191-music-piano-7.json](./352191-music-piano-7.json) |
 | Music Puzzle | 256543 | [256543-music-puzzle.json](./256543-music-puzzle.json) |
+| Music Racing | 220178 | [220178-music-racing.json](./220178-music-racing.json) |
 | Music Sim Empire | 298031 | [298031-music-sim-empire.json](./298031-music-sim-empire.json) |
 | Music Store Simulator | 207326 | [207326-music-store-simulator.json](./207326-music-store-simulator.json) |
 | Music Summoner | 249874 | [249874-music-summoner.json](./249874-music-summoner.json) |
