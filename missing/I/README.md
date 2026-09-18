@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
 | Isles of Wrath | 378286 | [378286-isles-of-wrath.json](./378286-isles-of-wrath.json) |
+| Isly | 185010 | [185010-isly.json](./185010-isly.json) |
 | iSnake | 87703 | [87703-isnake.json](./87703-isnake.json) |
 | Iso | 100225 | [100225-iso.json](./100225-iso.json) |
 | Iso | 201763 | [201763-iso.json](./201763-iso.json) |
