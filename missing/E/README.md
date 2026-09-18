@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Room: Code Blue | 201269 | [201269-emergency-room-code-blue.json](./201269-emergency-room-code-blue.json) |
 | Emergency Room: Heroic Measures | 201270 | [201270-emergency-room-heroic-measures.json](./201270-emergency-room-heroic-measures.json) |
 | Emergency: Fighters for Life | 79837 | [79837-emergency-fighters-for-life.json](./79837-emergency-fighters-for-life.json) |
+| Emergency: Road Services Simulator | 217410 | [217410-emergency-road-services-simulator.json](./217410-emergency-road-services-simulator.json) |
 | Emergency! Disaster Rescue Squad | 339374 | [339374-emergency-disaster-rescue-squad.json](./339374-emergency-disaster-rescue-squad.json) |
 | Emergents Trading Card Game | 183603 | [183603-emergents-trading-card-game.json](./183603-emergents-trading-card-game.json) |
 | Emerging Tactical | 278421 | [278421-emerging-tactical.json](./278421-emerging-tactical.json) |
@@ -1939,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Hunter Tycoon | 197357 | [197357-evil-hunter-tycoon.json](./197357-evil-hunter-tycoon.json) |
 | Evil Icebox | 149001 | [149001-evil-icebox.json](./149001-evil-icebox.json) |
 | Evil Maze 2 | 111637 | [111637-evil-maze-2.json](./111637-evil-maze-2.json) |
+| Evil Next Door | 217366 | [217366-evil-next-door.json](./217366-evil-next-door.json) |
 | Evil Night | 94718 | [94718-evil-night.json](./94718-evil-night.json) |
 | Evil Nightmares | 219652 | [219652-evil-nightmares.json](./219652-evil-nightmares.json) |
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
