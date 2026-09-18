@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarX Drift Racing 2 | 129793 | [129793-carx-drift-racing-2.json](./129793-carx-drift-racing-2.json) |
 | CarX Drift Racing Online: Hit the Wall | 199667 | [199667-carx-drift-racing-online-hit-the-wall.json](./199667-carx-drift-racing-online-hit-the-wall.json) |
 | CarX Rally | 174851 | [174851-carx-rally.json](./174851-carx-rally.json) |
+| CarX Street | 227960 | [227960-carx-street.json](./227960-carx-street.json) |
 | Casablanca: The Day After | 319808 | [319808-casablanca-the-day-after.json](./319808-casablanca-the-day-after.json) |
 | Casadastra | 185160 | [185160-casadastra.json](./185160-casadastra.json) |
 | Casanova Simulator | 373085 | [373085-casanova-simulator.json](./373085-casanova-simulator.json) |
@@ -1666,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheep Cheep Challenge | 268181 | [268181-cheep-cheep-challenge.json](./268181-cheep-cheep-challenge.json) |
 | Cheerleader Champion Dance Off | 86808 | [86808-cheerleader-champion-dance-off.json](./86808-cheerleader-champion-dance-off.json) |
 | Cheerleader's Choice: New York Spirit | 338274 | [338274-cheerleaders-choice-new-york-spirit.json](./338274-cheerleaders-choice-new-york-spirit.json) |
+| Cheers! | 227934 | [227934-cheers.json](./227934-cheers.json) |
 | Cheese Banquet Advanced | 294695 | [294695-cheese-banquet-advanced.json](./294695-cheese-banquet-advanced.json) |
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
 | Cheese is the Reason | 343889 | [343889-cheese-is-the-reason.json](./343889-cheese-is-the-reason.json) |
@@ -2183,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Wonderland 11 | 417591 | [417591-christmas-wonderland-11.json](./417591-christmas-wonderland-11.json) |
 | Christmas Wonderland 11: Collector's Edition | 417592 | [417592-christmas-wonderland-11-collectors-edition.json](./417592-christmas-wonderland-11-collectors-edition.json) |
 | Christmas Wonderland 12 | 186292 | [186292-christmas-wonderland-12.json](./186292-christmas-wonderland-12.json) |
+| Christmas Wonderland 13: Collector's Edition | 227929 | [227929-christmas-wonderland-13-collectors-edition.json](./227929-christmas-wonderland-13-collectors-edition.json) |
 | Christmas Wonderland 14 | 417593 | [417593-christmas-wonderland-14.json](./417593-christmas-wonderland-14.json) |
 | Christmas Wonderland 15 | 417594 | [417594-christmas-wonderland-15.json](./417594-christmas-wonderland-15.json) |
 | Christmas Wonderland 16 | 417595 | [417595-christmas-wonderland-16.json](./417595-christmas-wonderland-16.json) |
@@ -3517,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Baseball | 245531 | [245531-computer-baseball.json](./245531-computer-baseball.json) |
 | Computer Baseball | 245532 | [245532-computer-baseball.json](./245532-computer-baseball.json) |
 | Computer Board Game: Genpei Touma-den | 42035 | [42035-computer-board-game-genpei-touma-den.json](./42035-computer-board-game-genpei-touma-den.json) |
+| Computer bugs stole my grandmas tax files and I gotta go get them back in cyberspace | 227918 | [227918-computer-bugs-stole-my-grandmas-tax-files-and-i-gotta-go-get-them-back-in-cyberspace.json](./227918-computer-bugs-stole-my-grandmas-tax-files-and-i-gotta-go-get-them-back-in-cyberspace.json) |
 | Computer Cats | 226431 | [226431-computer-cats.json](./226431-computer-cats.json) |
 | Computer Circus Maximus | 72039 | [72039-computer-circus-maximus.json](./72039-computer-circus-maximus.json) |
 | Computer Foreign Exchange | 282121 | [282121-computer-foreign-exchange.json](./282121-computer-foreign-exchange.json) |
