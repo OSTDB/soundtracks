@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technoblade The Quest Of L'Manburg | 337634 | [337634-technoblade-the-quest-of-lmanburg.json](./337634-technoblade-the-quest-of-lmanburg.json) |
 | Technocide | 262937 | [262937-technocide.json](./262937-technocide.json) |
 | Technolites: Episode 1 | 109616 | [109616-technolites-episode-1.json](./109616-technolites-episode-1.json) |
+| TechnoMagic | 187370 | [187370-technomagic.json](./187370-technomagic.json) |
 | Technopoly: Industrial Empire | 233093 | [233093-technopoly-industrial-empire.json](./233093-technopoly-industrial-empire.json) |
 | Technōs Collection I | 130692 | [130692-technos-collection-i.json](./130692-technos-collection-i.json) |
 | TechnoSorcery | 333610 | [333610-technosorcery.json](./333610-technosorcery.json) |
@@ -1978,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bitsy Jim Jam | 184038 | [184038-the-bitsy-jim-jam.json](./184038-the-bitsy-jim-jam.json) |
 | The Bizarre Adventures of Woodruff and the Schnibble | 2226 | [2226-the-bizarre-adventures-of-woodruff-and-the-schnibble.json](./2226-the-bizarre-adventures-of-woodruff-and-the-schnibble.json) |
 | The Black Bahr | 374588 | [374588-the-black-bahr.json](./374588-the-black-bahr.json) |
+| The Black Cat Magician | 187400 | [187400-the-black-cat-magician.json](./187400-the-black-cat-magician.json) |
 | The Black Door | 249843 | [249843-the-black-door.json](./249843-the-black-door.json) |
 | The Black Fog | 271853 | [271853-the-black-fog.json](./271853-the-black-fog.json) |
 | The Black Knight | 371875 | [371875-the-black-knight.json](./371875-the-black-knight.json) |
@@ -2337,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crown of Leaves: Chapter 2 | 168840 | [168840-the-crown-of-leaves-chapter-2.json](./168840-the-crown-of-leaves-chapter-2.json) |
 | The Crown of Wu | 198497 | [198497-the-crown-of-wu.json](./198497-the-crown-of-wu.json) |
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
+| The Cruel Dreamer Marchosias | 187393 | [187393-the-cruel-dreamer-marchosias.json](./187393-the-cruel-dreamer-marchosias.json) |
 | The Crust: Supporter Pack | 400874 | [400874-the-crust-supporter-pack.json](./400874-the-crust-supporter-pack.json) |
 | The Crypt Terror | 231516 | [231516-the-crypt-terror.json](./231516-the-crypt-terror.json) |
 | The Cryptokiller | 376542 | [376542-the-cryptokiller.json](./376542-the-cryptokiller.json) |
@@ -4115,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monster Breeder | 126558 | [126558-the-monster-breeder.json](./126558-the-monster-breeder.json) |
 | The Monster War | 289980 | [289980-the-monster-war.json](./289980-the-monster-war.json) |
 | The Monster Within | 174346 | [174346-the-monster-within.json](./174346-the-monster-within.json) |
+| The Monstrous Frontier | 187403 | [187403-the-monstrous-frontier.json](./187403-the-monstrous-frontier.json) |
 | The Monstrous Horror Show | 213421 | [213421-the-monstrous-horror-show.json](./213421-the-monstrous-horror-show.json) |
 | The Moodsters: Memory Match Game | 326627 | [326627-the-moodsters-memory-match-game.json](./326627-the-moodsters-memory-match-game.json) |
 | The Moon 2050 | 156686 | [156686-the-moon-2050.json](./156686-the-moon-2050.json) |
@@ -7526,6 +7530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gear Rally | 3617 | [3617-top-gear-rally.json](./3617-top-gear-rally.json) |
 | Top Gear: Dare Devil | 43274 | [43274-top-gear-dare-devil.json](./43274-top-gear-dare-devil.json) |
 | Top Gear: Stunt School SSR | 257363 | [257363-top-gear-stunt-school-ssr.json](./257363-top-gear-stunt-school-ssr.json) |
+| Top Gun | 187357 | [187357-top-gun.json](./187357-top-gun.json) |
 | Top Gun | 196226 | [196226-top-gun.json](./196226-top-gun.json) |
 | Top Gun Global War | 380404 | [380404-top-gun-global-war.json](./380404-top-gun-global-war.json) |
 | Top Gun: Hard Lock | 22915 | [22915-top-gun-hard-lock.json](./22915-top-gun-hard-lock.json) |
