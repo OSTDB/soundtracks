@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Password Manager | 401499 | [401499-password-manager.json](./401499-password-manager.json) |
 | Past Apparitions | 383499 | [383499-past-apparitions.json](./383499-past-apparitions.json) |
 | Past Fate | 123029 | [123029-past-fate.json](./123029-past-fate.json) |
+| Past Synergy | 195079 | [195079-past-synergy.json](./195079-past-synergy.json) |
 | Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
 | Pastel Lime | 210633 | [210633-pastel-lime.json](./210633-pastel-lime.json) |
 | Pastor | 411604 | [411604-pastor.json](./411604-pastor.json) |
