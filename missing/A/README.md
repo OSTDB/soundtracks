@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A/X-101 | 5360 | [5360-a-x-101.json](./5360-a-x-101.json) |
 | AAA Clock: Extreme Premium | 304762 | [304762-aaa-clock-extreme-premium.json](./304762-aaa-clock-extreme-premium.json) |
 | Aaahh!!! Real Monsters | 5339 | [5339-aaahh-real-monsters.json](./5339-aaahh-real-monsters.json) |
+| Aabahran: The Forsaken Lands | 229139 | [229139-aabahran-the-forsaken-lands.json](./229139-aabahran-the-forsaken-lands.json) |
 | Aaero + Aaero2 Bundle | 331448 | [331448-aaero-aaero2-bundle.json](./331448-aaero-aaero2-bundle.json) |
 | Aaero: Complete Edition | 113196 | [113196-aaero-complete-edition.json](./113196-aaero-complete-edition.json) |
 | Aaero2 | 304670 | [304670-aaero2.json](./304670-aaero2.json) |
