@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Arts: God of War | 294271 | [294271-martial-arts-god-of-war.json](./294271-martial-arts-god-of-war.json) |
 | Martial Champion | 39544 | [39544-martial-champion.json](./39544-martial-champion.json) |
 | Martial Fire | 232440 | [232440-martial-fire.json](./232440-martial-fire.json) |
+| Martian Escape | 191117 | [191117-martian-escape.json](./191117-martian-escape.json) |
 | Martian Space Blaster | 186261 | [186261-martian-space-blaster.json](./186261-martian-space-blaster.json) |
 | Martian Successor Nadesico ~Yappari Saigo ha [Ai ga Katsu] ?~ | 125375 | [125375-martian-successor-nadesico-yappari-saigo-ha-ai-ga-katsu.json](./125375-martian-successor-nadesico-yappari-saigo-ha-ai-ga-katsu.json) |
 | Martian Successor Nadesico: Nadesico the Mission | 125366 | [125366-martian-successor-nadesico-nadesico-the-mission.json](./125366-martian-successor-nadesico-nadesico-the-mission.json) |
