@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haywire | 180825 | [180825-haywire.json](./180825-haywire.json) |
 | Haywire Hospital | 233639 | [233639-haywire-hospital.json](./233639-haywire-hospital.json) |
 | Hazar | 384068 | [384068-hazar.json](./384068-hazar.json) |
+| Hazard | 186147 | [186147-hazard.json](./186147-hazard.json) |
 | Hazard Hill Idle | 247602 | [247602-hazard-hill-idle.json](./247602-hazard-hill-idle.json) |
 | Hazard Level | 177007 | [177007-hazard-level.json](./177007-hazard-level.json) |
 | Hazard Pay | 291764 | [291764-hazard-pay.json](./291764-hazard-pay.json) |
