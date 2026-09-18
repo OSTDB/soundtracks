@@ -2419,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
 | Pizza Delivery: A Short Thriller | 305364 | [305364-pizza-delivery-a-short-thriller.json](./305364-pizza-delivery-a-short-thriller.json) |
 | Pizza Delivery: Zebaxx | 276189 | [276189-pizza-delivery-zebaxx.json](./276189-pizza-delivery-zebaxx.json) |
+| Pizza Fun | 218551 | [218551-pizza-fun.json](./218551-pizza-fun.json) |
 | Pizza Hub | 311253 | [311253-pizza-hub.json](./311253-pizza-hub.json) |
 | Pizza Master VR | 131642 | [131642-pizza-master-vr.json](./131642-pizza-master-vr.json) |
 | Pizza Morgana | 70427 | [70427-pizza-morgana.json](./70427-pizza-morgana.json) |
@@ -3539,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion in Motion | 341559 | [341559-potion-in-motion.json](./341559-potion-in-motion.json) |
 | Potion Notions | 176993 | [176993-potion-notions.json](./176993-potion-notions.json) |
 | Potion Permit | 155706 | [155706-potion-permit.json](./155706-potion-permit.json) |
+| Potion Permit: Deluxe Edition | 218549 | [218549-potion-permit-deluxe-edition.json](./218549-potion-permit-deluxe-edition.json) |
 | Potion Permit: Halloween Bundle | 272286 | [272286-potion-permit-halloween-bundle.json](./272286-potion-permit-halloween-bundle.json) |
 | Potion Permit: Rudolph Plush | 371313 | [371313-potion-permit-rudolph-plush.json](./371313-potion-permit-rudolph-plush.json) |
 | Potion Permit: Snowman Plush Toy | 371314 | [371314-potion-permit-snowman-plush-toy.json](./371314-potion-permit-snowman-plush-toy.json) |
