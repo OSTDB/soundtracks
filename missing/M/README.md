@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic City Detective: Wings of Revenge - Collector's Edition | 188023 | [188023-magic-city-detective-wings-of-revenge-collectors-edition.json](./188023-magic-city-detective-wings-of-revenge-collectors-edition.json) |
 | Magic Clouds | 117057 | [117057-magic-clouds.json](./117057-magic-clouds.json) |
 | Magic Crayon | 57649 | [57649-magic-crayon.json](./57649-magic-crayon.json) |
+| Magic Crystals | 192810 | [192810-magic-crystals.json](./192810-magic-crystals.json) |
 | Magic Cube | 48622 | [48622-magic-cube.json](./48622-magic-cube.json) |
 | Magic Cube in Strange World! | 306367 | [306367-magic-cube-in-strange-world.json](./306367-magic-cube-in-strange-world.json) |
 | Magic Duck | 287787 | [287787-magic-duck.json](./287787-magic-duck.json) |
@@ -2768,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetaWorld | 31841 | [31841-metaworld.json](./31841-metaworld.json) |
 | Metele Al Ordenata | 228548 | [228548-metele-al-ordenata.json](./228548-metele-al-ordenata.json) |
 | Metempsychosis | 104052 | [104052-metempsychosis.json](./104052-metempsychosis.json) |
+| MeteoHeroes | 192795 | [192795-meteoheroes.json](./192795-meteoheroes.json) |
 | Meteor | 127321 | [127321-meteor.json](./127321-meteor.json) |
 | Meteor Blaster | 97913 | [97913-meteor-blaster.json](./97913-meteor-blaster.json) |
 | Meteor Blasters | 199093 | [199093-meteor-blasters.json](./199093-meteor-blasters.json) |
