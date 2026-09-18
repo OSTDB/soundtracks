@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uotamuosu | 202341 | [202341-uotamuosu.json](./202341-uotamuosu.json) |
 | Up | 210281 | [210281-up.json](./210281-up.json) |
 | Up | 228708 | [228708-up.json](./228708-up.json) |
+| Up | 230362 | [230362-up.json](./230362-up.json) |
 | Up & Down | 312568 | [312568-up-and-down.json](./312568-up-and-down.json) |
 | Up 1 Way | 371344 | [371344-up-1-way.json](./371344-up-1-way.json) |
 | Up All Night | 165064 | [165064-up-all-night.json](./165064-up-all-night.json) |
