@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Zone: The Maze | 45658 | [45658-fantasy-zone-the-maze.json](./45658-fantasy-zone-the-maze.json) |
 | Fantasy: Battle Simulator | 43950 | [43950-fantasy-battle-simulator.json](./43950-fantasy-battle-simulator.json) |
 | Fantaventura | 129717 | [129717-fantaventura.json](./129717-fantaventura.json) |
+| Fantavision 202X | 229133 | [229133-fantavision-202x.json](./229133-fantavision-202x.json) |
 | Fantom Feast | 112928 | [112928-fantom-feast.json](./112928-fantom-feast.json) |
 | FantômeRapport: Intermezzo | 406101 | [406101-fantomerapport-intermezzo.json](./406101-fantomerapport-intermezzo.json) |
 | Fap Titans | 98475 | [98475-fap-titans.json](./98475-fap-titans.json) |
@@ -1154,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Manager 13 | 20686 | [20686-fifa-manager-13.json](./20686-fifa-manager-13.json) |
 | FIFA Soccer 06 | 240356 | [240356-fifa-soccer-06.json](./240356-fifa-soccer-06.json) |
 | FIFA Soccer 07 | 696 | [696-fifa-soccer-07.json](./696-fifa-soccer-07.json) |
+| FIFA Soccer 08 | 229182 | [229182-fifa-soccer-08.json](./229182-fifa-soccer-08.json) |
 | FIFA Soccer 08 | 240316 | [240316-fifa-soccer-08.json](./240316-fifa-soccer-08.json) |
 | FIFA Soccer 08 | 240319 | [240319-fifa-soccer-08.json](./240319-fifa-soccer-08.json) |
 | FIFA Soccer 08 | 240320 | [240320-fifa-soccer-08.json](./240320-fifa-soccer-08.json) |
@@ -1433,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Sword: Definitive Edition | 147999 | [147999-final-sword-definitive-edition.json](./147999-final-sword-definitive-edition.json) |
 | Final Sword: Mobile Edition | 205824 | [205824-final-sword-mobile-edition.json](./205824-final-sword-mobile-edition.json) |
 | Final Tank | 316405 | [316405-final-tank.json](./316405-final-tank.json) |
+| Final Taptasy | 229189 | [229189-final-taptasy.json](./229189-final-taptasy.json) |
 | Final Test Cartridge | 47200 | [47200-final-test-cartridge.json](./47200-final-test-cartridge.json) |
 | Final Theosis | 29882 | [29882-final-theosis.json](./29882-final-theosis.json) |
 | Final Three Kingdoms 2 | 242236 | [242236-final-three-kingdoms-2.json](./242236-final-three-kingdoms-2.json) |
@@ -3521,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruboom | 315706 | [315706-fruboom.json](./315706-fruboom.json) |
 | Fruit Adventure | 214487 | [214487-fruit-adventure.json](./214487-fruit-adventure.json) |
 | Fruit Adventure Returns | 332531 | [332531-fruit-adventure-returns.json](./332531-fruit-adventure-returns.json) |
+| Fruit am I? | 229194 | [229194-fruit-am-i.json](./229194-fruit-am-i.json) |
 | Fruit Basket TV | 196858 | [196858-fruit-basket-tv.json](./196858-fruit-basket-tv.json) |
 | Fruit Blade | 268018 | [268018-fruit-blade.json](./268018-fruit-blade.json) |
 | Fruit Bonanza | 195698 | [195698-fruit-bonanza.json](./195698-fruit-bonanza.json) |
