@@ -4936,6 +4936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buy Me Some Soup | 188682 | [188682-buy-me-some-soup.json](./188682-buy-me-some-soup.json) |
 | Buy Sell | 374158 | [374158-buy-sell.json](./374158-buy-sell.json) |
 | Buying Tomato | 394869 | [394869-buying-tomato.json](./394869-buying-tomato.json) |
+| Buzz | 232552 | [232552-buzz.json](./232552-buzz.json) |
 | Buzz Cut Simulation | 277313 | [277313-buzz-cut-simulation.json](./277313-buzz-cut-simulation.json) |
 | Buzz Lightyear of Star Command | 282150 | [282150-buzz-lightyear-of-star-command.json](./282150-buzz-lightyear-of-star-command.json) |
 | Buzz Off, Buddy | 383521 | [383521-buzz-off-buddy.json](./383521-buzz-off-buddy.json) |
