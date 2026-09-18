@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: The Thousand-Year Door - Hero Mode | 257966 | [257966-paper-mario-the-thousand-year-door-hero-mode.json](./257966-paper-mario-the-thousand-year-door-hero-mode.json) |
 | Paper Mario: Time Strewn Star | 323363 | [323363-paper-mario-time-strewn-star.json](./323363-paper-mario-time-strewn-star.json) |
 | Paper Mario: TTYD - Tower of Trials v3.0 | 358321 | [358321-paper-mario-ttyd-tower-of-trials-v3-0.json](./358321-paper-mario-ttyd-tower-of-trials-v3-0.json) |
+| Paper Nebula | 213445 | [213445-paper-nebula.json](./213445-paper-nebula.json) |
 | Paper Pilgrim | 140629 | [140629-paper-pilgrim.json](./140629-paper-pilgrim.json) |
 | Paper Plane Arena: Shamans | 288222 | [288222-paper-plane-arena-shamans.json](./288222-paper-plane-arena-shamans.json) |
 | Paper Planes | 238636 | [238636-paper-planes.json](./238636-paper-planes.json) |
@@ -754,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Business | 128594 | [128594-party-business.json](./128594-party-business.json) |
 | Party Cemetery | 178594 | [178594-party-cemetery.json](./178594-party-cemetery.json) |
 | Party Champ | 388958 | [388958-party-champ.json](./388958-party-champ.json) |
+| Party Chaos | 213446 | [213446-party-chaos.json](./213446-party-chaos.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
 | Party Friends | 215693 | [215693-party-friends.json](./215693-party-friends.json) |
 | Party Friends | 279111 | [279111-party-friends.json](./279111-party-friends.json) |
