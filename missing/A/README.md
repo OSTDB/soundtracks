@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ability Draft | 109031 | [109031-ability-draft.json](./109031-ability-draft.json) |
 | Abiotic Factor | 219126 | [219126-abiotic-factor.json](./219126-abiotic-factor.json) |
 | Abismo | 380389 | [380389-abismo.json](./380389-abismo.json) |
+| Ablaze Ascent | 192317 | [192317-ablaze-ascent.json](./192317-ablaze-ascent.json) |
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
 | Abnimality | 283872 | [283872-abnimality.json](./283872-abnimality.json) |
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
