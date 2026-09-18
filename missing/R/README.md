@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
 | Raider | 319597 | [319597-raider.json](./319597-raider.json) |
 | Raiders 1941 | 406812 | [406812-raiders-1941.json](./406812-raiders-1941.json) |
+| Raiders of Mizburgh | 185546 | [185546-raiders-of-mizburgh.json](./185546-raiders-of-mizburgh.json) |
 | Raiders of the Apocalypse | 336000 | [336000-raiders-of-the-apocalypse.json](./336000-raiders-of-the-apocalypse.json) |
 | Raiders of the Broken Planet | 19011 | [19011-raiders-of-the-broken-planet.json](./19011-raiders-of-the-broken-planet.json) |
 | Raiders Run | 125440 | [125440-raiders-run.json](./125440-raiders-run.json) |
@@ -986,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebound Balls | 240210 | [240210-rebound-balls.json](./240210-rebound-balls.json) |
 | Rebound Raver | 147363 | [147363-rebound-raver.json](./147363-rebound-raver.json) |
 | Rebound Rivals | 311120 | [311120-rebound-rivals.json](./311120-rebound-rivals.json) |
+| Rebuild / Resist | 185523 | [185523-rebuild-resist.json](./185523-rebuild-resist.json) |
 | Rebuild 2 | 342030 | [342030-rebuild-2.json](./342030-rebuild-2.json) |
 | Rebuild the Wall | 289309 | [289309-rebuild-the-wall.json](./289309-rebuild-the-wall.json) |
 | Rebungered!! That Time I Got Reincarnated As A Bunger! | 405474 | [405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json](./405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json) |
