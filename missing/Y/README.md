@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorvik's Game | 374610 | [374610-yorviks-game.json](./374610-yorviks-game.json) |
 | Yoshi and the Mysterious Book | 366883 | [366883-yoshi-and-the-mysterious-book.json](./366883-yoshi-and-the-mysterious-book.json) |
 | Yoshi Commits Tax Fraud 64 | 294710 | [294710-yoshi-commits-tax-fraud-64.json](./294710-yoshi-commits-tax-fraud-64.json) |
+| Yoshi Deja Vu DS | 215767 | [215767-yoshi-deja-vu-ds.json](./215767-yoshi-deja-vu-ds.json) |
 | Yoshi in Sonic the Hedgehog 2 | 136418 | [136418-yoshi-in-sonic-the-hedgehog-2.json](./136418-yoshi-in-sonic-the-hedgehog-2.json) |
 | Yoshi no Cookie: Kuruppon Oven de Cookie | 37755 | [37755-yoshi-no-cookie-kuruppon-oven-de-cookie.json](./37755-yoshi-no-cookie-kuruppon-oven-de-cookie.json) |
 | Yoshi Racing | 175959 | [175959-yoshi-racing.json](./175959-yoshi-racing.json) |
