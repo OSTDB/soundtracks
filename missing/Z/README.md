@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZpellCatz | 206340 | [206340-zpellcatz.json](./206340-zpellcatz.json) |
 | ZRoll | 33118 | [33118-zroll.json](./33118-zroll.json) |
 | Ztar Attack Rebooted | 135231 | [135231-ztar-attack-rebooted.json](./135231-ztar-attack-rebooted.json) |
+| ZTetris | 225752 | [225752-ztetris.json](./225752-ztetris.json) |
 | Zueirama | 110641 | [110641-zueirama.json](./110641-zueirama.json) |
 | Zug in Sicht | 383972 | [383972-zug-in-sicht.json](./383972-zug-in-sicht.json) |
 | Zugya | 264070 | [264070-zugya.json](./264070-zugya.json) |
