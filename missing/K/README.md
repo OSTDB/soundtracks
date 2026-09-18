@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Koi, Seishun ni Yori. | 194585 | [194585-kono-koi-seishun-ni-yori.json](./194585-kono-koi-seishun-ni-yori.json) |
 | Kono Subarashii Sekai ni Shukufuku o! Fantasutikku Deizu | 131568 | [131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json](./131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json) |
 | Kono Subarashii Sekai ni Shukufuku wo!: Kono Yokubukai Game ni Shinpan wo! | 112301 | [112301-kono-subarashii-sekai-ni-shukufuku-wo-kono-yokubukai-game-ni-shinpan-wo.json](./112301-kono-subarashii-sekai-ni-shukufuku-wo-kono-yokubukai-game-ni-shinpan-wo.json) |
+| Kono Warui Koneko-chan-me! | 202228 | [202228-kono-warui-koneko-chan-me.json](./202228-kono-warui-koneko-chan-me.json) |
 | Konohana 4: Yami wo Harau Inori | 213933 | [213933-konohana-4-yami-wo-harau-inori.json](./213933-konohana-4-yami-wo-harau-inori.json) |
 | KonoSuba: Fantastic Days! | 138261 | [138261-konosuba-fantastic-days.json](./138261-konosuba-fantastic-days.json) |
 | KonoSuba: God's Blessing on this Wonderful World! Judgment on this Greedy Game! | 34218 | [34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json](./34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json) |
