@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Defense: Fortress TD | 344951 | [344951-galaxy-defense-fortress-td.json](./344951-galaxy-defense-fortress-td.json) |
 | Galaxy Dungeon | 295939 | [295939-galaxy-dungeon.json](./295939-galaxy-dungeon.json) |
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
+| Galaxy Fight Club | 198340 | [198340-galaxy-fight-club.json](./198340-galaxy-fight-club.json) |
 | Galaxy Fight: Universal Warriors | 39531 | [39531-galaxy-fight-universal-warriors.json](./39531-galaxy-fight-universal-warriors.json) |
 | Galaxy Fighters | 200023 | [200023-galaxy-fighters.json](./200023-galaxy-fighters.json) |
 | Galaxy Force II | 6799 | [6799-galaxy-force-ii.json](./6799-galaxy-force-ii.json) |
@@ -1692,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Axe Classics | 202829 | [202829-golden-axe-classics.json](./202829-golden-axe-classics.json) |
 | Golden Axe III Redux | 219271 | [219271-golden-axe-iii-redux.json](./219271-golden-axe-iii-redux.json) |
 | Golden Axe Plus | 233605 | [233605-golden-axe-plus.json](./233605-golden-axe-plus.json) |
+| Golden Axe: The Curse of Death Adder | 198345 | [198345-golden-axe-the-curse-of-death-adder.json](./198345-golden-axe-the-curse-of-death-adder.json) |
 | Golden Axe: The Duel | 39349 | [39349-golden-axe-the-duel.json](./39349-golden-axe-the-duel.json) |
 | Golden Axed: A Cancelled Prototype | 140044 | [140044-golden-axed-a-cancelled-prototype.json](./140044-golden-axed-a-cancelled-prototype.json) |
 | Golden Chambers | 253999 | [253999-golden-chambers.json](./253999-golden-chambers.json) |
@@ -2330,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed 3: Old Enemies Returning | 115702 | [115702-greed-3-old-enemies-returning.json](./115702-greed-3-old-enemies-returning.json) |
 | Greed Champions | 402386 | [402386-greed-champions.json](./402386-greed-champions.json) |
 | Greed City | 341900 | [341900-greed-city.json](./341900-greed-city.json) |
+| Greed Crystal | 198382 | [198382-greed-crystal.json](./198382-greed-crystal.json) |
 | Greed Forest | 336617 | [336617-greed-forest.json](./336617-greed-forest.json) |
 | Greed of Man | 242106 | [242106-greed-of-man.json](./242106-greed-of-man.json) |
 | Greed Realm | 278991 | [278991-greed-realm.json](./278991-greed-realm.json) |
