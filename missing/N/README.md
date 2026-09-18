@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N Step Steve: Part 2 | 280780 | [280780-n-step-steve-part-2.json](./280780-n-step-steve-part-2.json) |
 | N v2.0 | 77297 | [77297-n-v2-0.json](./77297-n-v2-0.json) |
 | N-Cube | 63243 | [63243-n-cube.json](./63243-n-cube.json) |
+| N-Gon | 219683 | [219683-n-gon.json](./219683-n-gon.json) |
 | N-Ice Cover | 323956 | [323956-n-ice-cover.json](./323956-n-ice-cover.json) |
 | N-Warp Daisakusen | 37735 | [37735-n-warp-daisakusen.json](./37735-n-warp-daisakusen.json) |
 | N.a.N Industry VR | 123559 | [123559-n-a-n-industry-vr.json](./123559-n-a-n-industry-vr.json) |
