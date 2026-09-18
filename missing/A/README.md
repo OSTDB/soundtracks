@@ -2128,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing: New Leaf - Premium Edition | 89900 | [89900-animal-crossing-new-leaf-premium-edition.json](./89900-animal-crossing-new-leaf-premium-edition.json) |
 | Animal Crossing: New Murder | 251058 | [251058-animal-crossing-new-murder.json](./251058-animal-crossing-new-murder.json) |
 | Animal Crossing: Pocket Camp | 58630 | [58630-animal-crossing-pocket-camp.json](./58630-animal-crossing-pocket-camp.json) |
+| Animal Diner | 217391 | [217391-animal-diner.json](./217391-animal-diner.json) |
 | Animal Drifters | 219296 | [219296-animal-drifters.json](./219296-animal-drifters.json) |
 | Animal Express | 152883 | [152883-animal-express.json](./152883-animal-express.json) |
 | Animal Falling | 293089 | [293089-animal-falling.json](./293089-animal-falling.json) |
@@ -3016,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Kings VR | 89259 | [89259-archery-kings-vr.json](./89259-archery-kings-vr.json) |
 | Archery Legend | 319942 | [319942-archery-legend.json](./319942-archery-legend.json) |
 | Archery Physics Objects Destruction Apple shooter | 100824 | [100824-archery-physics-objects-destruction-apple-shooter.json](./100824-archery-physics-objects-destruction-apple-shooter.json) |
+| Archery Simulator | 217379 | [217379-archery-simulator.json](./217379-archery-simulator.json) |
 | Archery Simulator | 332264 | [332264-archery-simulator.json](./332264-archery-simulator.json) |
 | Archery Star | 106630 | [106630-archery-star.json](./106630-archery-star.json) |
 | Archery Tournament | 242563 | [242563-archery-tournament.json](./242563-archery-tournament.json) |
@@ -3825,6 +3827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Fighters 2 | 375991 | [375991-astro-fighters-2.json](./375991-astro-fighters-2.json) |
 | Astro Galaxy | 346140 | [346140-astro-galaxy.json](./346140-astro-galaxy.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
+| Astro Knight | 217371 | [217371-astro-knight.json](./217371-astro-knight.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
 | Astro Miner: Cave Adventure | 294857 | [294857-astro-miner-cave-adventure.json](./294857-astro-miner-cave-adventure.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
@@ -4390,6 +4393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axes and Arrows | 34355 | [34355-axes-and-arrows.json](./34355-axes-and-arrows.json) |
 | AxeSlinger | 382299 | [382299-axeslinger.json](./382299-axeslinger.json) |
 | Axia | 46637 | [46637-axia.json](./46637-axia.json) |
+| Axial Disc 2 | 217408 | [217408-axial-disc-2.json](./217408-axial-disc-2.json) |
 | Axie Infinity | 109024 | [109024-axie-infinity.json](./109024-axie-infinity.json) |
 | Axiom | 234347 | [234347-axiom.json](./234347-axiom.json) |
 | Axiom of Echoes: Proof Refactor | 408045 | [408045-axiom-of-echoes-proof-refactor.json](./408045-axiom-of-echoes-proof-refactor.json) |
