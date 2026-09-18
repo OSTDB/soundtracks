@@ -2777,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discworld II: Mortality Bytes! | 8292 | [8292-discworld-ii-mortality-bytes.json](./8292-discworld-ii-mortality-bytes.json) |
 | Discworld Noir | 8293 | [8293-discworld-noir.json](./8293-discworld-noir.json) |
 | Disdoored | 102093 | [102093-disdoored.json](./102093-disdoored.json) |
+| Disease Infected: Plague | 187976 | [187976-disease-infected-plague.json](./187976-disease-infected-plague.json) |
 | Disease Z | 245842 | [245842-disease-z.json](./245842-disease-z.json) |
 | disfact Game Pack 1 | 405533 | [405533-disfact-game-pack-1.json](./405533-disfact-game-pack-1.json) |
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
