@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necro Genesis | 390639 | [390639-necro-genesis.json](./390639-necro-genesis.json) |
 | Necro Wars | 127261 | [127261-necro-wars.json](./127261-necro-wars.json) |
 | Necrocat | 318009 | [318009-necrocat.json](./318009-necrocat.json) |
+| Necrocrisis | 208427 | [208427-necrocrisis.json](./208427-necrocrisis.json) |
 | Necroffense | 220711 | [220711-necroffense.json](./220711-necroffense.json) |
 | Necroflora | 333542 | [333542-necroflora.json](./333542-necroflora.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
@@ -868,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never End, Neverland! | 173227 | [173227-never-end-neverland.json](./173227-never-end-neverland.json) |
 | Never Ending Dungeon | 193932 | [193932-never-ending-dungeon.json](./193932-never-ending-dungeon.json) |
 | Never Ending Night | 35919 | [35919-never-ending-night.json](./35919-never-ending-night.json) |
+| Never Ends Act | 208441 | [208441-never-ends-act.json](./208441-never-ends-act.json) |
 | Never Experiment On Cats! | 332830 | [332830-never-experiment-on-cats.json](./332830-never-experiment-on-cats.json) |
 | Never Fall | 334187 | [334187-never-fall.json](./334187-never-fall.json) |
 | Never Forgotten | 239639 | [239639-never-forgotten.json](./239639-never-forgotten.json) |
@@ -2202,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nykra | 102195 | [102195-nykra.json](./102195-nykra.json) |
 | Nykrig | 184646 | [184646-nykrig.json](./184646-nykrig.json) |
 | Nylos | 335362 | [335362-nylos.json](./335362-nylos.json) |
+| Nympho's Path | 208450 | [208450-nymphos-path.json](./208450-nymphos-path.json) |
 | Nymphomania Paradox | 82784 | [82784-nymphomania-paradox.json](./82784-nymphomania-paradox.json) |
 | Nyra: The Fall of Light | 390097 | [390097-nyra-the-fall-of-light.json](./390097-nyra-the-fall-of-light.json) |
 | NYT Crossplay: Play and Spell | 387535 | [387535-nyt-crossplay-play-and-spell.json](./387535-nyt-crossplay-play-and-spell.json) |
