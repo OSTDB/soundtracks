@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Empire: The Great Lakes | 124834 | [124834-railway-empire-the-great-lakes.json](./124834-railway-empire-the-great-lakes.json) |
 | Railway Inferno | 346095 | [346095-railway-inferno.json](./346095-railway-inferno.json) |
 | Railway Islands 2 | 270942 | [270942-railway-islands-2.json](./270942-railway-islands-2.json) |
+| Railway Operation Simulator | 214615 | [214615-railway-operation-simulator.json](./214615-railway-operation-simulator.json) |
 | Railworks 3: Train Simulator 2012 - Bristol to Avonmouth | 136479 | [136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json](./136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json) |
 | Rain | 128617 | [128617-rain.json](./128617-rain.json) |
 | Rain | 216251 | [216251-rain.json](./216251-rain.json) |
@@ -1275,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reikon Dungeon | 185153 | [185153-reikon-dungeon.json](./185153-reikon-dungeon.json) |
 | Reikon: Reawaken | 250987 | [250987-reikon-reawaken.json](./250987-reikon-reawaken.json) |
 | Reimagine: The Game | 144271 | [144271-reimagine-the-game.json](./144271-reimagine-the-game.json) |
+| Reimu ha Nandaka Totemo Nemui | 214585 | [214585-reimu-ha-nandaka-totemo-nemui.json](./214585-reimu-ha-nandaka-totemo-nemui.json) |
 | Reimu's Weird little adventure | 153410 | [153410-reimus-weird-little-adventure.json](./153410-reimus-weird-little-adventure.json) |
 | Rein | 171543 | [171543-rein.json](./171543-rein.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
