@@ -5987,6 +5987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MySims SkyHeroes | 192926 | [192926-mysims-skyheroes.json](./192926-mysims-skyheroes.json) |
 | MySims SkyHeroes | 7093 | [7093-mysims-skyheroes.json](./7093-mysims-skyheroes.json) |
 | MySims: Cozy Bundle | 315058 | [315058-mysims-cozy-bundle.json](./315058-mysims-cozy-bundle.json) |
+| Mysperyence | 195113 | [195113-mysperyence.json](./195113-mysperyence.json) |
 | Mysperyence Story 1: The Curious Case of the Headless Magnate | 207899 | [207899-mysperyence-story-1-the-curious-case-of-the-headless-magnate.json](./207899-mysperyence-story-1-the-curious-case-of-the-headless-magnate.json) |
 | Myst | 236 | [236-myst.json](./236-myst.json) |
 | Myst | 272031 | [272031-myst.json](./272031-myst.json) |
