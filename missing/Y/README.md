@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurivania 2: Josette's Quest | 206158 | [206158-yurivania-2-josettes-quest.json](./206158-yurivania-2-josettes-quest.json) |
 | Yurivania 3: Circle of the Polycule | 364533 | [364533-yurivania-3-circle-of-the-polycule.json](./364533-yurivania-3-circle-of-the-polycule.json) |
 | Yurivania: Uhaul of the Night | 206156 | [206156-yurivania-uhaul-of-the-night.json](./206156-yurivania-uhaul-of-the-night.json) |
+| Yuru Yuru Gekijou Classic | 221254 | [221254-yuru-yuru-gekijou-classic.json](./221254-yuru-yuru-gekijou-classic.json) |
 | Yuru-i GeGeGe no Kitaro: Yokai Dotabata Daisensou | 227364 | [227364-yuru-i-gegege-no-kitaro-yokai-dotabata-daisensou.json](./227364-yuru-i-gegege-no-kitaro-yokai-dotabata-daisensou.json) |
 | Yuru-yuru Gekijou: Gekijou-ban - Kanketsu-hen: Sanbu-sak | 256272 | [256272-yuru-yuru-gekijou-gekijou-ban-kanketsu-hen-sanbu-sak.json](./256272-yuru-yuru-gekijou-gekijou-ban-kanketsu-hen-sanbu-sak.json) |
 | Yurukill: The Calumniation Games - Deluxe Edition | 175976 | [175976-yurukill-the-calumniation-games-deluxe-edition.json](./175976-yurukill-the-calumniation-games-deluxe-edition.json) |
@@ -578,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yusha no Hanamichi | 331863 | [331863-yusha-no-hanamichi.json](./331863-yusha-no-hanamichi.json) |
 | Yuugao | 308415 | [308415-yuugao.json](./308415-yuugao.json) |
 | Yuugen Gaisha Chikyuu Boueitai | 166152 | [166152-yuugen-gaisha-chikyuu-boueitai.json](./166152-yuugen-gaisha-chikyuu-boueitai.json) |
+| Yuugen Mikaidou Tanteisha 1-Shou | 221260 | [221260-yuugen-mikaidou-tanteisha-1-shou.json](./221260-yuugen-mikaidou-tanteisha-1-shou.json) |
 | Yuujou no Victory Goal: 4v4 Arashi - Get the Goal‼ | 353873 | [353873-yuujou-no-victory-goal-4v4-arashi-get-the-goal.json](./353873-yuujou-no-victory-goal-4v4-arashi-get-the-goal.json) |
 | Yuuki no Suiri Nori 3: Balance no Ii Shokuji | 251624 | [251624-yuuki-no-suiri-nori-3-balance-no-ii-shokuji.json](./251624-yuuki-no-suiri-nori-3-balance-no-ii-shokuji.json) |
 | Yuuki Yuuna ha Yuusha de Aru: Gyoki Danshou | 364577 | [364577-yuuki-yuuna-ha-yuusha-de-aru-gyoki-danshou.json](./364577-yuuki-yuuna-ha-yuusha-de-aru-gyoki-danshou.json) |
@@ -585,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuuki's Party Night | 286518 | [286518-yuukis-party-night.json](./286518-yuukis-party-night.json) |
 | Yuukuri Panic Escalation | 58838 | [58838-yuukuri-panic-escalation.json](./58838-yuukuri-panic-escalation.json) |
 | Yuukyuu Gensoukyoku: 2nd Album | 125979 | [125979-yuukyuu-gensoukyoku-2nd-album.json](./125979-yuukyuu-gensoukyoku-2nd-album.json) |
+| Yuukyuu no Campanella | 221239 | [221239-yuukyuu-no-campanella.json](./221239-yuukyuu-no-campanella.json) |
 | Yuukyuu no Tierblade for Nintendo Switch | 358924 | [358924-yuukyuu-no-tierblade-for-nintendo-switch.json](./358924-yuukyuu-no-tierblade-for-nintendo-switch.json) |
 | Yuukyuu no Tierblade: Fragments of Memory | 136439 | [136439-yuukyuu-no-tierblade-fragments-of-memory.json](./136439-yuukyuu-no-tierblade-fragments-of-memory.json) |
 | Yuukyuu no Tierblade: Lost Chronicle | 136438 | [136438-yuukyuu-no-tierblade-lost-chronicle.json](./136438-yuukyuu-no-tierblade-lost-chronicle.json) |
