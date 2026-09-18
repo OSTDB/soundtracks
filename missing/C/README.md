@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Detailing Cleaner Simulator | 288761 | [288761-car-detailing-cleaner-simulator.json](./288761-car-detailing-cleaner-simulator.json) |
 | Car Detailing Simulator | 182487 | [182487-car-detailing-simulator.json](./182487-car-detailing-simulator.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
+| Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
 | Car Go Fast | 206121 | [206121-car-go-fast.json](./206121-car-go-fast.json) |
 | Car Guy Soundboard | 323375 | [323375-car-guy-soundboard.json](./323375-car-guy-soundboard.json) |
@@ -2733,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliff Rush 3D | 322986 | [322986-cliff-rush-3d.json](./322986-cliff-rush-3d.json) |
 | Cliffhanger | 5370 | [5370-cliffhanger.json](./5370-cliffhanger.json) |
 | Cliffhanger | 81446 | [81446-cliffhanger.json](./81446-cliffhanger.json) |
+| Clifford: Ready-to-Read | 230359 | [230359-clifford-ready-to-read.json](./230359-clifford-ready-to-read.json) |
 | Climb | 362343 | [362343-climb.json](./362343-climb.json) |
 | Climb and Fall Dice Adventure | 242205 | [242205-climb-and-fall-dice-adventure.json](./242205-climb-and-fall-dice-adventure.json) |
 | Climb Challenge | 125385 | [125385-climb-challenge.json](./125385-climb-challenge.json) |
@@ -2935,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cockwork Industries Complete | 124194 | [124194-cockwork-industries-complete.json](./124194-cockwork-industries-complete.json) |
 | Coco Bandicoot: Tiger Ride | 314658 | [314658-coco-bandicoot-tiger-ride.json](./314658-coco-bandicoot-tiger-ride.json) |
 | Coco Block | 391595 | [391595-coco-block.json](./391595-coco-block.json) |
+| Coco to the Rescue | 230365 | [230365-coco-to-the-rescue.json](./230365-coco-to-the-rescue.json) |
 | Cocommando | 393474 | [393474-cocommando.json](./393474-cocommando.json) |
 | Coconut | 314302 | [314302-coconut.json](./314302-coconut.json) |
 | Coconut | 314305 | [314305-coconut.json](./314305-coconut.json) |
@@ -4388,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawlspace | 179208 | [179208-crawlspace.json](./179208-crawlspace.json) |
 | Crawlspace | 252728 | [252728-crawlspace.json](./252728-crawlspace.json) |
 | Crawlyard | 166753 | [166753-crawlyard.json](./166753-crawlyard.json) |
+| Crayola Art Adventure | 230360 | [230360-crayola-art-adventure.json](./230360-crayola-art-adventure.json) |
 | Crayola Colorful Creatures | 225659 | [225659-crayola-colorful-creatures.json](./225659-crayola-colorful-creatures.json) |
 | Crayola Paint 'n Play Pony | 313287 | [313287-crayola-paint-n-play-pony.json](./313287-crayola-paint-n-play-pony.json) |
 | Crayola Treasure Adventures | 21363 | [21363-crayola-treasure-adventures.json](./21363-crayola-treasure-adventures.json) |
