@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
 | Rain of Arrows | 145594 | [145594-rain-of-arrows.json](./145594-rain-of-arrows.json) |
 | Rain of Pumpkins | 75071 | [75071-rain-of-pumpkins.json](./75071-rain-of-pumpkins.json) |
+| Rain Ruin | 207358 | [207358-rain-ruin.json](./207358-rain-ruin.json) |
 | Rain World: Deluxe Edition | 290437 | [290437-rain-world-deluxe-edition.json](./290437-rain-world-deluxe-edition.json) |
 | Rain World: Slugcat's Lifecycle Edition | 370699 | [370699-rain-world-slugcats-lifecycle-edition.json](./370699-rain-world-slugcats-lifecycle-edition.json) |
 | Rain, House, Eternity | 143082 | [143082-rain-house-eternity.json](./143082-rain-house-eternity.json) |
@@ -786,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Erogame Situation! Triple H | 194627 | [194627-real-erogame-situation-triple-h.json](./194627-real-erogame-situation-triple-h.json) |
 | Real Eroge Situation! | 194590 | [194590-real-eroge-situation.json](./194590-real-eroge-situation.json) |
 | Real Estate Simulator 2 | 352791 | [352791-real-estate-simulator-2.json](./352791-real-estate-simulator-2.json) |
+| Real Estate Tycoon | 207375 | [207375-real-estate-tycoon.json](./207375-real-estate-tycoon.json) |
 | Real Estate Tycoon | 89224 | [89224-real-estate-tycoon.json](./89224-real-estate-tycoon.json) |
 | Real Farm | 227480 | [227480-real-farm.json](./227480-real-farm.json) |
 | Real Farm: Premium Edition | 155097 | [155097-real-farm-premium-edition.json](./155097-real-farm-premium-edition.json) |
@@ -3449,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runa & the Chaikurú Legacy | 238734 | [238734-runa-and-the-chaikuru-legacy.json](./238734-runa-and-the-chaikuru-legacy.json) |
 | Runaround Reaper | 276730 | [276730-runaround-reaper.json](./276730-runaround-reaper.json) |
 | Runaway 2: The Dream of the Turtle | 13227 | [13227-runaway-2-the-dream-of-the-turtle.json](./13227-runaway-2-the-dream-of-the-turtle.json) |
+| Runaway Animals | 207360 | [207360-runaway-animals.json](./207360-runaway-animals.json) |
 | Runaway Bride | 288240 | [288240-runaway-bride.json](./288240-runaway-bride.json) |
 | Runaway Girl: Picked up a Girl | 298724 | [298724-runaway-girl-picked-up-a-girl.json](./298724-runaway-girl-picked-up-a-girl.json) |
 | Runaway Princess | 370765 | [370765-runaway-princess.json](./370765-runaway-princess.json) |
