@@ -5166,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSR Classics | 58238 | [58238-csr-classics.json](./58238-csr-classics.json) |
 | CSR Racing 2 | 55169 | [55169-csr-racing-2.json](./55169-csr-racing-2.json) |
 | CT Special Forces 3: BioTerror | 43898 | [43898-ct-special-forces-3-bioterror.json](./43898-ct-special-forces-3-bioterror.json) |
+| CTGP-7 | 209549 | [209549-ctgp-7.json](./209549-ctgp-7.json) |
 | Cthulhu 1920 | 386242 | [386242-cthulhu-1920.json](./386242-cthulhu-1920.json) |
 | Cthulhu Kitan: Ryuuguu no Shi The Game - Insuma Machi-hen | 355534 | [355534-cthulhu-kitan-ryuuguu-no-shi-the-game-insuma-machi-hen.json](./355534-cthulhu-kitan-ryuuguu-no-shi-the-game-insuma-machi-hen.json) |
 | Cthulhu Must Die | 253985 | [253985-cthulhu-must-die.json](./253985-cthulhu-must-die.json) |
