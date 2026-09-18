@@ -7717,6 +7717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonehenge VR | 33137 | [33137-stonehenge-vr.json](./33137-stonehenge-vr.json) |
 | Stonekeep | 253 | [253-stonekeep.json](./253-stonekeep.json) |
 | Stonemachia | 300028 | [300028-stonemachia.json](./300028-stonemachia.json) |
+| Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
 | StoneSpace | 376436 | [376436-stonespace.json](./376436-stonespace.json) |
 | StoneStory | 339662 | [339662-stonestory.json](./339662-stonestory.json) |
 | Stoneveil | 376439 | [376439-stoneveil.json](./376439-stoneveil.json) |
