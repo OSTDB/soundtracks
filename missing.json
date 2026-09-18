@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T18:03:10.664Z",
-  "total_missing": 88521,
+  "generated_at": "2026-09-18T18:18:43.587Z",
+  "total_missing": 88571,
   "games": [
     {
       "igdb_id": 273453,
@@ -11123,6 +11123,11 @@
       "file": "missing/A/339094-allegro-molto-wo-hakobu-game.json"
     },
     {
+      "igdb_id": 193347,
+      "game_name": "Allemand avec Rayman",
+      "file": "missing/A/193347-allemand-avec-rayman.json"
+    },
+    {
       "igdb_id": 326274,
       "game_name": "Alleviate",
       "file": "missing/A/326274-alleviate.json"
@@ -13661,6 +13666,11 @@
       "igdb_id": 216467,
       "game_name": "Ancient Rituals: Stonehenge",
       "file": "missing/A/216467-ancient-rituals-stonehenge.json"
+    },
+    {
+      "igdb_id": 193330,
+      "game_name": "Ancient Roman: Power of Dark Side",
+      "file": "missing/A/193330-ancient-roman-power-of-dark-side.json"
     },
     {
       "igdb_id": 25504,
@@ -37648,6 +37658,11 @@
       "file": "missing/B/353385-biggest-piano.json"
     },
     {
+      "igdb_id": 193320,
+      "game_name": "Biggest Stream Hover Racing",
+      "file": "missing/B/193320-biggest-stream-hover-racing.json"
+    },
+    {
       "igdb_id": 102379,
       "game_name": "Bighead Runner",
       "file": "missing/B/102379-bighead-runner.json"
@@ -41581,6 +41596,11 @@
       "igdb_id": 295557,
       "game_name": "Block Man Adventures",
       "file": "missing/B/295557-block-man-adventures.json"
+    },
+    {
+      "igdb_id": 193328,
+      "game_name": "Block Mesa 64",
+      "file": "missing/B/193328-block-mesa-64.json"
     },
     {
       "igdb_id": 204443,
@@ -93073,6 +93093,11 @@
       "file": "missing/D/196329-diary-of-a-witch.json"
     },
     {
+      "igdb_id": 193327,
+      "game_name": "Diary of Broken Dreams",
+      "file": "missing/D/193327-diary-of-broken-dreams.json"
+    },
+    {
       "igdb_id": 183524,
       "game_name": "Diatris",
       "file": "missing/D/183524-diatris.json"
@@ -113658,6 +113683,11 @@
       "file": "missing/E/34110-engare.json"
     },
     {
+      "igdb_id": 193349,
+      "game_name": "Engels met Rayman + Frans met Rayman",
+      "file": "missing/E/193349-engels-met-rayman-frans-met-rayman.json"
+    },
+    {
       "igdb_id": 325255,
       "game_name": "Engie Benjy: Time for Teamwork!",
       "file": "missing/E/325255-engie-benjy-time-for-teamwork.json"
@@ -113691,6 +113721,11 @@
       "igdb_id": 9699,
       "game_name": "English Country Tune",
       "file": "missing/E/9699-english-country-tune.json"
+    },
+    {
+      "igdb_id": 193344,
+      "game_name": "English with Rayman",
+      "file": "missing/E/193344-english-with-rayman.json"
     },
     {
       "igdb_id": 269025,
@@ -116046,6 +116081,11 @@
       "igdb_id": 202252,
       "game_name": "Espacio",
       "file": "missing/E/202252-espacio.json"
+    },
+    {
+      "igdb_id": 193348,
+      "game_name": "Espagnol avec Rayman",
+      "file": "missing/E/193348-espagnol-avec-rayman.json"
     },
     {
       "igdb_id": 266487,
@@ -124801,6 +124841,11 @@
       "igdb_id": 86105,
       "game_name": "Fei Tian",
       "file": "missing/F/86105-fei-tian.json"
+    },
+    {
+      "igdb_id": 193345,
+      "game_name": "Feisty Fauna",
+      "file": "missing/F/193345-feisty-fauna.json"
     },
     {
       "igdb_id": 348855,
@@ -133878,6 +133923,11 @@
       "file": "missing/F/134604-forget-the-brakes.json"
     },
     {
+      "igdb_id": 193352,
+      "game_name": "Forget the Golden Witch",
+      "file": "missing/F/193352-forget-the-golden-witch.json"
+    },
+    {
       "igdb_id": 192960,
       "game_name": "Forget Westbury Falls: Disc One",
       "file": "missing/F/192960-forget-westbury-falls-disc-one.json"
@@ -136451,6 +136501,11 @@
       "igdb_id": 365742,
       "game_name": "Freight Manager",
       "file": "missing/F/365742-freight-manager.json"
+    },
+    {
+      "igdb_id": 193346,
+      "game_name": "French with Rayman",
+      "file": "missing/F/193346-french-with-rayman.json"
     },
     {
       "igdb_id": 307604,
@@ -202483,6 +202538,11 @@
       "file": "missing/L/3149-lego-harry-potter-years-1-4.json"
     },
     {
+      "igdb_id": 193329,
+      "game_name": "LEGO Hero Factory: Brain Attack",
+      "file": "missing/L/193329-lego-hero-factory-brain-attack.json"
+    },
+    {
       "igdb_id": 232701,
       "game_name": "LEGO Hero Factory: Breakout",
       "file": "missing/L/232701-lego-hero-factory-breakout.json"
@@ -253203,6 +253263,11 @@
       "file": "missing/N/148472-northern-blades.json"
     },
     {
+      "igdb_id": 193338,
+      "game_name": "Northern Guilds",
+      "file": "missing/N/193338-northern-guilds.json"
+    },
+    {
       "igdb_id": 304007,
       "game_name": "Northern Song Dynasty",
       "file": "missing/N/304007-northern-song-dynasty.json"
@@ -294178,14 +294243,59 @@
       "file": "missing/R/97848-raylax.json"
     },
     {
+      "igdb_id": 193322,
+      "game_name": "Rayman",
+      "file": "missing/R/193322-rayman.json"
+    },
+    {
+      "igdb_id": 193324,
+      "game_name": "Rayman",
+      "file": "missing/R/193324-rayman.json"
+    },
+    {
       "igdb_id": 1963,
       "game_name": "Rayman",
       "file": "missing/R/1963-rayman.json"
     },
     {
+      "igdb_id": 193342,
+      "game_name": "Rayman 1 & Rayman 2 Double Pack",
+      "file": "missing/R/193342-rayman-1-and-rayman-2-double-pack.json"
+    },
+    {
+      "igdb_id": 193337,
+      "game_name": "Rayman 100 Levels",
+      "file": "missing/R/193337-rayman-100-levels.json"
+    },
+    {
+      "igdb_id": 193353,
+      "game_name": "Rayman 10th Anniversary",
+      "file": "missing/R/193353-rayman-10th-anniversary.json"
+    },
+    {
+      "igdb_id": 193354,
+      "game_name": "Rayman 10th Anniversary",
+      "file": "missing/R/193354-rayman-10th-anniversary.json"
+    },
+    {
       "igdb_id": 43339,
       "game_name": "Rayman 10th Anniversary",
       "file": "missing/R/43339-rayman-10th-anniversary.json"
+    },
+    {
+      "igdb_id": 193355,
+      "game_name": "Rayman 10th Anniversary Collection",
+      "file": "missing/R/193355-rayman-10th-anniversary-collection.json"
+    },
+    {
+      "igdb_id": 193316,
+      "game_name": "Rayman 2",
+      "file": "missing/R/193316-rayman-2.json"
+    },
+    {
+      "igdb_id": 193317,
+      "game_name": "Rayman 2",
+      "file": "missing/R/193317-rayman-2.json"
     },
     {
       "igdb_id": 193313,
@@ -294203,9 +294313,29 @@
       "file": "missing/R/193315-rayman-2-the-great-escape.json"
     },
     {
+      "igdb_id": 193325,
+      "game_name": "Rayman 3",
+      "file": "missing/R/193325-rayman-3.json"
+    },
+    {
+      "igdb_id": 193326,
+      "game_name": "Rayman 3",
+      "file": "missing/R/193326-rayman-3.json"
+    },
+    {
       "igdb_id": 47449,
       "game_name": "Rayman 3 HD",
       "file": "missing/R/47449-rayman-3-hd.json"
+    },
+    {
+      "igdb_id": 193343,
+      "game_name": "Rayman 3-Pack",
+      "file": "missing/R/193343-rayman-3-pack.json"
+    },
+    {
+      "igdb_id": 193331,
+      "game_name": "Rayman 3: Hoodlum Havoc",
+      "file": "missing/R/193331-rayman-3-hoodlum-havoc.json"
     },
     {
       "igdb_id": 61654,
@@ -294218,9 +294348,24 @@
       "file": "missing/R/20585-rayman-3d.json"
     },
     {
+      "igdb_id": 193361,
+      "game_name": "Rayman 4",
+      "file": "missing/R/193361-rayman-4.json"
+    },
+    {
       "igdb_id": 178599,
       "game_name": "Rayman 4 You",
       "file": "missing/R/178599-rayman-4-you.json"
+    },
+    {
+      "igdb_id": 193336,
+      "game_name": "Rayman 60 Levels",
+      "file": "missing/R/193336-rayman-60-levels.json"
+    },
+    {
+      "igdb_id": 193360,
+      "game_name": "Rayman Adventures",
+      "file": "missing/R/193360-rayman-adventures.json"
     },
     {
       "igdb_id": 20032,
@@ -294233,9 +294378,54 @@
       "file": "missing/R/56449-rayman-and-rabbids-family-pack.json"
     },
     {
+      "igdb_id": 193351,
+      "game_name": "Rayman Arena",
+      "file": "missing/R/193351-rayman-arena.json"
+    },
+    {
       "igdb_id": 61097,
       "game_name": "Rayman By His Fans",
       "file": "missing/R/61097-rayman-by-his-fans.json"
+    },
+    {
+      "igdb_id": 193319,
+      "game_name": "Rayman Classic",
+      "file": "missing/R/193319-rayman-classic.json"
+    },
+    {
+      "igdb_id": 193356,
+      "game_name": "Rayman Collection",
+      "file": "missing/R/193356-rayman-collection.json"
+    },
+    {
+      "igdb_id": 193357,
+      "game_name": "Rayman Collection",
+      "file": "missing/R/193357-rayman-collection.json"
+    },
+    {
+      "igdb_id": 193358,
+      "game_name": "Rayman Collection",
+      "file": "missing/R/193358-rayman-collection.json"
+    },
+    {
+      "igdb_id": 193335,
+      "game_name": "Rayman Collector",
+      "file": "missing/R/193335-rayman-collector.json"
+    },
+    {
+      "igdb_id": 193341,
+      "game_name": "Rayman Collectors Edition",
+      "file": "missing/R/193341-rayman-collectors-edition.json"
+    },
+    {
+      "igdb_id": 193339,
+      "game_name": "Rayman Compilation",
+      "file": "missing/R/193339-rayman-compilation.json"
+    },
+    {
+      "igdb_id": 193340,
+      "game_name": "Rayman Funpack",
+      "file": "missing/R/193340-rayman-funpack.json"
     },
     {
       "igdb_id": 61095,
@@ -294278,9 +294468,44 @@
       "file": "missing/R/288944-rayman-origins.json"
     },
     {
+      "igdb_id": 193362,
+      "game_name": "Rayman Raving Rabbids",
+      "file": "missing/R/193362-rayman-raving-rabbids.json"
+    },
+    {
+      "igdb_id": 193363,
+      "game_name": "Rayman Raving Rabbids",
+      "file": "missing/R/193363-rayman-raving-rabbids.json"
+    },
+    {
+      "igdb_id": 193366,
+      "game_name": "Rayman Raving Rabbids",
+      "file": "missing/R/193366-rayman-raving-rabbids.json"
+    },
+    {
       "igdb_id": 254520,
       "game_name": "Rayman Raving Rabbids",
       "file": "missing/R/254520-rayman-raving-rabbids.json"
+    },
+    {
+      "igdb_id": 193364,
+      "game_name": "Rayman Raving Rabbids 2",
+      "file": "missing/R/193364-rayman-raving-rabbids-2.json"
+    },
+    {
+      "igdb_id": 193368,
+      "game_name": "Rayman Raving Rabbids Activity Centre",
+      "file": "missing/R/193368-rayman-raving-rabbids-activity-centre.json"
+    },
+    {
+      "igdb_id": 193365,
+      "game_name": "Rayman Raving Rabbids TV Party",
+      "file": "missing/R/193365-rayman-raving-rabbids-tv-party.json"
+    },
+    {
+      "igdb_id": 193367,
+      "game_name": "Rayman Raving Rabbids TV Party",
+      "file": "missing/R/193367-rayman-raving-rabbids-tv-party.json"
     },
     {
       "igdb_id": 5117,
@@ -294306,6 +294531,11 @@
       "igdb_id": 331696,
       "game_name": "Rayman the Fan Series Adventure 2: Curse of the Jade Lum",
       "file": "missing/R/331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json"
+    },
+    {
+      "igdb_id": 193323,
+      "game_name": "Rayman Ultimate",
+      "file": "missing/R/193323-rayman-ultimate.json"
     },
     {
       "igdb_id": 355087,
@@ -358328,6 +358558,11 @@
       "file": "missing/S/316615-superguy-and-megaboy.json"
     },
     {
+      "igdb_id": 193333,
+      "game_name": "Superhero Fight",
+      "file": "missing/S/193333-superhero-fight.json"
+    },
+    {
       "igdb_id": 88037,
       "game_name": "Superhero Girl Salon: Kids Makeup and Dressup Game",
       "file": "missing/S/88037-superhero-girl-salon-kids-makeup-and-dressup-game.json"
@@ -372353,6 +372588,11 @@
       "file": "missing/T/8440-the-bridge.json"
     },
     {
+      "igdb_id": 193312,
+      "game_name": "The Bridge Curse: Road to Salvation",
+      "file": "missing/T/193312-the-bridge-curse-road-to-salvation.json"
+    },
+    {
       "igdb_id": 169445,
       "game_name": "The BridgeMaster",
       "file": "missing/T/169445-the-bridgemaster.json"
@@ -378386,6 +378626,11 @@
       "igdb_id": 216323,
       "game_name": "The Impossible Bottle",
       "file": "missing/T/216323-the-impossible-bottle.json"
+    },
+    {
+      "igdb_id": 193311,
+      "game_name": "The Impossible Game 2",
+      "file": "missing/T/193311-the-impossible-game-2.json"
     },
     {
       "igdb_id": 215740,
@@ -412711,6 +412956,11 @@
       "igdb_id": 14588,
       "game_name": "Underwurlde",
       "file": "missing/U/14588-underwurlde.json"
+    },
+    {
+      "igdb_id": 193334,
+      "game_name": "Undetected",
+      "file": "missing/U/193334-undetected.json"
     },
     {
       "igdb_id": 146957,
