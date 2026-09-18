@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Slime | 314295 | [314295-kawaii-slime.json](./314295-kawaii-slime.json) |
 | Kawaii Solitaire 3 in 1 | 220872 | [220872-kawaii-solitaire-3-in-1.json](./220872-kawaii-solitaire-3-in-1.json) |
 | Kawaii Survivors | 395039 | [395039-kawaii-survivors.json](./395039-kawaii-survivors.json) |
+| KawaiiDungeon: Rise of a Goddess | 225762 | [225762-kawaiidungeon-rise-of-a-goddess.json](./225762-kawaiidungeon-rise-of-a-goddess.json) |
 | Kawaiiju | 176427 | [176427-kawaiiju.json](./176427-kawaiiju.json) |
 | Kawanakajima Ibunroku | 255106 | [255106-kawanakajima-ibunroku.json](./255106-kawanakajima-ibunroku.json) |
 | Kawasaki Jet Ski Watercraft | 78659 | [78659-kawasaki-jet-ski-watercraft.json](./78659-kawasaki-jet-ski-watercraft.json) |
@@ -447,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemono Friends Pavilion | 214738 | [214738-kemono-friends-pavilion.json](./214738-kemono-friends-pavilion.json) |
 | Kemono Friends: Neko to Wakai se yo | 254533 | [254533-kemono-friends-neko-to-wakai-se-yo.json](./254533-kemono-friends-neko-to-wakai-se-yo.json) |
 | Kemono Friends: Opening Day | 247776 | [247776-kemono-friends-opening-day.json](./247776-kemono-friends-opening-day.json) |
+| Kemono Labyrinth | 225729 | [225729-kemono-labyrinth.json](./225729-kemono-labyrinth.json) |
 | Kemonomichi-White Moment- | 100111 | [100111-kemonomichi-white-moment.json](./100111-kemonomichi-white-moment.json) |
 | Kemopop! | 309863 | [309863-kemopop.json](./309863-kemopop.json) |
 | Kemuri | 279625 | [279625-kemuri.json](./279625-kemuri.json) |
