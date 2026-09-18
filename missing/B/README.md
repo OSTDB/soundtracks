@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Tap Tap | 233239 | [233239-battle-tap-tap.json](./233239-battle-tap-tap.json) |
 | Battle Teams 2: Wishlist Pack | 310384 | [310384-battle-teams-2-wishlist-pack.json](./310384-battle-teams-2-wishlist-pack.json) |
 | Battle Thunder Front | 220354 | [220354-battle-thunder-front.json](./220354-battle-thunder-front.json) |
+| Battle Tracks | 207403 | [207403-battle-tracks.json](./207403-battle-tracks.json) |
 | Battle Train | 311876 | [311876-battle-train.json](./311876-battle-train.json) |
 | Battle Trendaria | 75138 | [75138-battle-trendaria.json](./75138-battle-trendaria.json) |
 | Battle Trendaria | 75191 | [75191-battle-trendaria.json](./75191-battle-trendaria.json) |
@@ -2636,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade | 14312 | [14312-blade.json](./14312-blade.json) |
 | Blade & Sorcery | 111474 | [111474-blade-and-sorcery.json](./111474-blade-and-sorcery.json) |
 | Blade Arcus from Shining | 121039 | [121039-blade-arcus-from-shining.json](./121039-blade-arcus-from-shining.json) |
+| Blade Assault | 207392 | [207392-blade-assault.json](./207392-blade-assault.json) |
 | Blade Blazer | 370154 | [370154-blade-blazer.json](./370154-blade-blazer.json) |
 | Blade Bouncer 2: Revolution | 317823 | [317823-blade-bouncer-2-revolution.json](./317823-blade-bouncer-2-revolution.json) |
 | Blade Bound | 174817 | [174817-blade-bound.json](./174817-blade-bound.json) |
