@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GodsArena Online | 368541 | [368541-godsarena-online.json](./368541-godsarena-online.json) |
 | Godsend Arena | 235853 | [235853-godsend-arena.json](./235853-godsend-arena.json) |
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
+| Godspell Defender | 201667 | [201667-godspell-defender.json](./201667-godspell-defender.json) |
 | Godsworn | 213612 | [213612-godsworn.json](./213612-godsworn.json) |
 | Godwalker | 260240 | [260240-godwalker.json](./260240-godwalker.json) |
 | Godzilla | 75888 | [75888-godzilla.json](./75888-godzilla.json) |
@@ -2540,6 +2541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grit Paintball | 158187 | [158187-grit-paintball.json](./158187-grit-paintball.json) |
 | Grits Racing | 114946 | [114946-grits-racing.json](./114946-grits-racing.json) |
 | Grix | 384501 | [384501-grix.json](./384501-grix.json) |
+| Grizelda: Lynx and the Nine Lives | 201678 | [201678-grizelda-lynx-and-the-nine-lives.json](./201678-grizelda-lynx-and-the-nine-lives.json) |
 | Grizzly Adventure | 107829 | [107829-grizzly-adventure.json](./107829-grizzly-adventure.json) |
 | Grizzly Valley | 33048 | [33048-grizzly-valley.json](./33048-grizzly-valley.json) |
 | Groaning Steel | 170541 | [170541-groaning-steel.json](./170541-groaning-steel.json) |
@@ -2579,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grooverland | 230547 | [230547-grooverland.json](./230547-grooverland.json) |
 | Grooveyard | 321347 | [321347-grooveyard.json](./321347-grooveyard.json) |
 | Groovity | 347791 | [347791-groovity.json](./347791-groovity.json) |
+| Groovy | 201709 | [201709-groovy.json](./201709-groovy.json) |
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
 | Gross | 150091 | [150091-gross.json](./150091-gross.json) |
 | Grotesque Tactics: Evil Heroes | 18914 | [18914-grotesque-tactics-evil-heroes.json](./18914-grotesque-tactics-evil-heroes.json) |
@@ -2654,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gu-gu Ganmo: Run-run Odekake Date Da ze ii | 349414 | [349414-gu-gu-ganmo-run-run-odekake-date-da-ze-ii.json](./349414-gu-gu-ganmo-run-run-odekake-date-da-ze-ii.json) |
 | Guacamelee! 2: Three Enemigos Character Pack | 155046 | [155046-guacamelee-2-three-enemigos-character-pack.json](./155046-guacamelee-2-three-enemigos-character-pack.json) |
 | Guacamelee! One-Two Punch Collection | 115023 | [115023-guacamelee-one-two-punch-collection.json](./115023-guacamelee-one-two-punch-collection.json) |
+| Guacamojo | 201693 | [201693-guacamojo.json](./201693-guacamojo.json) |
 | Guàishòu | 277970 | [277970-guaishou.json](./277970-guaishou.json) |
 | Guānyú Sīmén Shì de Yīxiē Chuányán | 397690 | [397690-guanyu-simen-shi-de-yixie-chuanyan.json](./397690-guanyu-simen-shi-de-yixie-chuanyan.json) |
 | Guarded | 313893 | [313893-guarded.json](./313893-guarded.json) |
