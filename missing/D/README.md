@@ -1265,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Star Interceptor | 45334 | [45334-death-star-interceptor.json](./45334-death-star-interceptor.json) |
 | Death Star Prison Break | 178618 | [178618-death-star-prison-break.json](./178618-death-star-prison-break.json) |
 | Death Stranding: Higgs Variant | 386264 | [386264-death-stranding-higgs-variant.json](./386264-death-stranding-higgs-variant.json) |
+| Death Strike | 182918 | [182918-death-strike.json](./182918-death-strike.json) |
 | Death Swap: End As One | 231350 | [231350-death-swap-end-as-one.json](./231350-death-swap-end-as-one.json) |
 | Death Tank | 21259 | [21259-death-tank.json](./21259-death-tank.json) |
 | Death the Guitar | 257925 | [257925-death-the-guitar.json](./257925-death-the-guitar.json) |
@@ -3102,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do-Konjou Shougakusei: Bon Bita - Hadaka no Choujou Ketsusen!! Bita vs. Dokuro Dei! | 269574 | [269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json](./269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json) |
 | Doala de Wii | 81237 | [81237-doala-de-wii.json](./81237-doala-de-wii.json) |
 | Doashime | 274538 | [274538-doashime.json](./274538-doashime.json) |
+| Doba Dash | 182942 | [182942-doba-dash.json](./182942-doba-dash.json) |
 | Doblons.io | 126023 | [126023-doblons-io.json](./126023-doblons-io.json) |
 | Dobo's Heroes | 147420 | [147420-dobos-heroes.json](./147420-dobos-heroes.json) |
 | Doc Cosmos | 133986 | [133986-doc-cosmos.json](./133986-doc-cosmos.json) |
@@ -4644,6 +4646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drivers Ed Portable | 70425 | [70425-drivers-ed-portable.json](./70425-drivers-ed-portable.json) |
 | Driving Essentials | 37071 | [37071-driving-essentials.json](./37071-driving-essentials.json) |
 | Driving Force | 340214 | [340214-driving-force.json](./340214-driving-force.json) |
+| Driving Me Crazy | 182933 | [182933-driving-me-crazy.json](./182933-driving-me-crazy.json) |
 | Driving Quest | 209691 | [209691-driving-quest.json](./209691-driving-quest.json) |
 | Driving School 2016 | 89273 | [89273-driving-school-2016.json](./89273-driving-school-2016.json) |
 | Driving School 3D | 102104 | [102104-driving-school-3d.json](./102104-driving-school-3d.json) |
