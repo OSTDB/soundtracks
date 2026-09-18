@@ -1728,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
 | Chess Cartoons | 196826 | [196826-chess-cartoons.json](./196826-chess-cartoons.json) |
 | Chess Cats | 248068 | [248068-chess-cats.json](./248068-chess-cats.json) |
+| Chess Defense Saga | 234200 | [234200-chess-defense-saga.json](./234200-chess-defense-saga.json) |
 | Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
 | Chess Grandmaster Royal Bundle | 283189 | [283189-chess-grandmaster-royal-bundle.json](./283189-chess-grandmaster-royal-bundle.json) |
@@ -3165,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Hero | 116358 | [116358-color-hero.json](./116358-color-hero.json) |
 | Color Island: Pixel Art | 280221 | [280221-color-island-pixel-art.json](./280221-color-island-pixel-art.json) |
 | Color Lab | 192973 | [192973-color-lab.json](./192973-color-lab.json) |
+| Color Matching | 234168 | [234168-color-matching.json](./234168-color-matching.json) |
 | Color Math | 89573 | [89573-color-math.json](./89573-color-math.json) |
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
 | Color of My Sound: Volume 1 | 309534 | [309534-color-of-my-sound-volume-1.json](./309534-color-of-my-sound-volume-1.json) |
@@ -4537,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Crawlers | 317452 | [317452-creepy-crawlers.json](./317452-creepy-crawlers.json) |
 | Creepy Dungeons | 355609 | [355609-creepy-dungeons.json](./355609-creepy-dungeons.json) |
 | Creepy Dungeons Heroes | 226744 | [226744-creepy-dungeons-heroes.json](./226744-creepy-dungeons-heroes.json) |
+| Creepy Halloween Differences | 234172 | [234172-creepy-halloween-differences.json](./234172-creepy-halloween-differences.json) |
 | Creepy Redneck Dinosaur Mansion 1 Re-Raptored | 356682 | [356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json](./356682-creepy-redneck-dinosaur-mansion-1-re-raptored.json) |
 | Creepy Support | 345029 | [345029-creepy-support.json](./345029-creepy-support.json) |
 | Creepy Tale 3: Ingrid Penance | 211024 | [211024-creepy-tale-3-ingrid-penance.json](./211024-creepy-tale-3-ingrid-penance.json) |
@@ -4970,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Ice Quest | 146899 | [146899-crystal-ice-quest.json](./146899-crystal-ice-quest.json) |
 | Crystal in Carnations | 358303 | [358303-crystal-in-carnations.json](./358303-crystal-in-carnations.json) |
 | Crystal Legends | 342624 | [342624-crystal-legends.json](./342624-crystal-legends.json) |
+| Crystal Lines | 234189 | [234189-crystal-lines.json](./234189-crystal-lines.json) |
 | Crystal Maidens: Unleashed | 375950 | [375950-crystal-maidens-unleashed.json](./375950-crystal-maidens-unleashed.json) |
 | Crystal Math | 257428 | [257428-crystal-math.json](./257428-crystal-math.json) |
 | Crystal Path | 107821 | [107821-crystal-path.json](./107821-crystal-path.json) |
