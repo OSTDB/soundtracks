@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kungfu Beggar | 75795 | [75795-kungfu-beggar.json](./75795-kungfu-beggar.json) |
 | Kungfu Football Captain | 153931 | [153931-kungfu-football-captain.json](./153931-kungfu-football-captain.json) |
 | KungFu Kickball | 121713 | [121713-kungfu-kickball.json](./121713-kungfu-kickball.json) |
+| Kungfu Ragdoll | 214061 | [214061-kungfu-ragdoll.json](./214061-kungfu-ragdoll.json) |
 | Kuni Chan no Game Tengoku | 45271 | [45271-kuni-chan-no-game-tengoku.json](./45271-kuni-chan-no-game-tengoku.json) |
 | Kuni Chan no Game Tengoku Part 2 | 45270 | [45270-kuni-chan-no-game-tengoku-part-2.json](./45270-kuni-chan-no-game-tengoku-part-2.json) |
 | Kunio no Nekketsu School Fighters | 296061 | [296061-kunio-no-nekketsu-school-fighters.json](./296061-kunio-no-nekketsu-school-fighters.json) |
