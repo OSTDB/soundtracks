@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Droplets | 159870 | [159870-laser-droplets.json](./159870-laser-droplets.json) |
 | Laser Fortress | 318757 | [318757-laser-fortress.json](./318757-laser-fortress.json) |
 | Laser Harp VR | 357218 | [357218-laser-harp-vr.json](./357218-laser-harp-vr.json) |
+| Laser Lab | 214028 | [214028-laser-lab.json](./214028-laser-lab.json) |
 | Laser Lightshow | 290555 | [290555-laser-lightshow.json](./290555-laser-lightshow.json) |
 | Laser Lords | 45919 | [45919-laser-lords.json](./45919-laser-lords.json) |
 | Laser Panic | 330314 | [330314-laser-panic.json](./330314-laser-panic.json) |
@@ -440,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Survivors | 255964 | [255964-last-survivors.json](./255964-last-survivors.json) |
 | Last Term, First Love | 391734 | [391734-last-term-first-love.json](./391734-last-term-first-love.json) |
 | Last Ultima | 269088 | [269088-last-ultima.json](./269088-last-ultima.json) |
+| Last Viking: God of Valhalla | 214031 | [214031-last-viking-god-of-valhalla.json](./214031-last-viking-god-of-valhalla.json) |
 | Last Viking: Ragnarok Loop | 291485 | [291485-last-viking-ragnarok-loop.json](./291485-last-viking-ragnarok-loop.json) |
 | Last Week | 123003 | [123003-last-week.json](./123003-last-week.json) |
 | Last Week of a King | 288227 | [288227-last-week-of-a-king.json](./288227-last-week-of-a-king.json) |
@@ -748,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Rome 2: The Magic Hourglass | 296488 | [296488-legend-of-rome-2-the-magic-hourglass.json](./296488-legend-of-rome-2-the-magic-hourglass.json) |
 | Legend of Slime: Idle RPG | 237529 | [237529-legend-of-slime-idle-rpg.json](./237529-legend-of-slime-idle-rpg.json) |
 | Legend of Solgard | 107153 | [107153-legend-of-solgard.json](./107153-legend-of-solgard.json) |
+| Legend of Spacewalker | 214033 | [214033-legend-of-spacewalker.json](./214033-legend-of-spacewalker.json) |
 | Legend of Star Arthur II: Dark Nebula | 62767 | [62767-legend-of-star-arthur-ii-dark-nebula.json](./62767-legend-of-star-arthur-ii-dark-nebula.json) |
 | Legend of Star Arthur III: Terra 4001 | 62769 | [62769-legend-of-star-arthur-iii-terra-4001.json](./62769-legend-of-star-arthur-iii-terra-4001.json) |
 | Legend of Stars | 295013 | [295013-legend-of-stars.json](./295013-legend-of-stars.json) |
@@ -1346,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighting Lanterns | 346593 | [346593-lighting-lanterns.json](./346593-lighting-lanterns.json) |
 | Lightlike | 176464 | [176464-lightlike.json](./176464-lightlike.json) |
 | Lightmatter Anniversary | 340919 | [340919-lightmatter-anniversary.json](./340919-lightmatter-anniversary.json) |
+| Lightness | 214035 | [214035-lightness.json](./214035-lightness.json) |
 | Lightning Fast | 157141 | [157141-lightning-fast.json](./157141-lightning-fast.json) |
 | Lightning Fighter | 335329 | [335329-lightning-fighter.json](./335329-lightning-fighter.json) |
 | Lightning Link | 386224 | [386224-lightning-link.json](./386224-lightning-link.json) |
@@ -2281,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Key: The Path of Illumination | 318763 | [318763-lost-key-the-path-of-illumination.json](./318763-lost-key-the-path-of-illumination.json) |
 | Lost Kingdoms | 3981 | [3981-lost-kingdoms.json](./3981-lost-kingdoms.json) |
 | Lost Kittens: Maze Garden | 166696 | [166696-lost-kittens-maze-garden.json](./166696-lost-kittens-maze-garden.json) |
+| Lost Lagoon: The Trail of Destiny | 214018 | [214018-lost-lagoon-the-trail-of-destiny.json](./214018-lost-lagoon-the-trail-of-destiny.json) |
 | Lost Lands X | 334170 | [334170-lost-lands-x.json](./334170-lost-lands-x.json) |
 | Lost Lands: Stories About the Sorceress, the Prince and the Minotaur - Collector's Edition | 416618 | [416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json](./416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json) |
 | Lost Lands: Stories of the First Brotherhood | 290430 | [290430-lost-lands-stories-of-the-first-brotherhood.json](./290430-lost-lands-stories-of-the-first-brotherhood.json) |
