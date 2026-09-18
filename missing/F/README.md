@@ -587,7 +587,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry Instincts: Evolution | 22584 | [22584-far-cry-instincts-evolution.json](./22584-far-cry-instincts-evolution.json) |
 | Far Cry Primal: Deluxe Edition | 44543 | [44543-far-cry-primal-deluxe-edition.json](./44543-far-cry-primal-deluxe-edition.json) |
 | Far Cry VR | 138767 | [138767-far-cry-vr.json](./138767-far-cry-vr.json) |
+| Far Cry: Bronze Pack | 223557 | [223557-far-cry-bronze-pack.json](./223557-far-cry-bronze-pack.json) |
 | Far Cry: Delta Sector | 51227 | [51227-far-cry-delta-sector.json](./51227-far-cry-delta-sector.json) |
+| Far Cry: Silver Pack | 223558 | [223558-far-cry-silver-pack.json](./223558-far-cry-silver-pack.json) |
 | Far East of Eden II: Manji-maru | 71489 | [71489-far-east-of-eden-ii-manji-maru.json](./71489-far-east-of-eden-ii-manji-maru.json) |
 | Far East of Eden III: Namida | 80576 | [80576-far-east-of-eden-iii-namida.json](./80576-far-east-of-eden-iii-namida.json) |
 | Far East of Eden Ziria: Harukanaru Jipang | 7214 | [7214-far-east-of-eden-ziria-harukanaru-jipang.json](./7214-far-east-of-eden-ziria-harukanaru-jipang.json) |
@@ -674,6 +676,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Story | 80579 | [80579-farm-story.json](./80579-farm-story.json) |
 | Farm to Fork: Collector's Edition | 355526 | [355526-farm-to-fork-collectors-edition.json](./355526-farm-to-fork-collectors-edition.json) |
 | Farm to Table | 356719 | [356719-farm-to-table.json](./356719-farm-to-table.json) |
+| Farm Together: Candy Pack | 223573 | [223573-farm-together-candy-pack.json](./223573-farm-together-candy-pack.json) |
+| Farm Together: Season 4 Bundle | 223594 | [223594-farm-together-season-4-bundle.json](./223594-farm-together-season-4-bundle.json) |
+| Farm Together: Wedding Pack | 223576 | [223576-farm-together-wedding-pack.json](./223576-farm-together-wedding-pack.json) |
 | Farm Up | 87693 | [87693-farm-up.json](./87693-farm-up.json) |
 | Farm Wars | 219291 | [219291-farm-wars.json](./219291-farm-wars.json) |
 | Farm World | 36062 | [36062-farm-world.json](./36062-farm-world.json) |
@@ -693,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer Simulator | 253956 | [253956-farmer-simulator.json](./253956-farmer-simulator.json) |
 | Farmer's Delight | 232679 | [232679-farmers-delight.json](./232679-farmers-delight.json) |
 | Farmer's Diary | 285575 | [285575-farmers-diary.json](./285575-farmers-diary.json) |
+| Farmer's Dynasty: Machines Pack | 223549 | [223549-farmers-dynasty-machines-pack.json](./223549-farmers-dynasty-machines-pack.json) |
 | Farmer's Fairy Tale | 107839 | [107839-farmers-fairy-tale.json](./107839-farmers-fairy-tale.json) |
 | Farmerama | 92459 | [92459-farmerama.json](./92459-farmerama.json) |
 | Farmhand Go! | 223171 | [223171-farmhand-go.json](./223171-farmhand-go.json) |
@@ -2142,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Soccer 15 | 58192 | [58192-flick-soccer-15.json](./58192-flick-soccer-15.json) |
 | Flick Soccer Brazil | 58193 | [58193-flick-soccer-brazil.json](./58193-flick-soccer-brazil.json) |
 | Flick Soccer France 2016 | 58204 | [58204-flick-soccer-france-2016.json](./58204-flick-soccer-france-2016.json) |
+| Flick Tennis | 223598 | [223598-flick-tennis.json](./223598-flick-tennis.json) |
 | Flicker | 348871 | [348871-flicker.json](./348871-flicker.json) |
 | Flicker | 381024 | [381024-flicker.json](./381024-flicker.json) |
 | Flicklash | 259540 | [259540-flicklash.json](./259540-flicklash.json) |
