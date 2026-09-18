@@ -232,9 +232,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Dungeon | 295939 | [295939-galaxy-dungeon.json](./295939-galaxy-dungeon.json) |
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
 | Galaxy Fight: Universal Warriors | 39531 | [39531-galaxy-fight-universal-warriors.json](./39531-galaxy-fight-universal-warriors.json) |
+| Galaxy Fighters | 200023 | [200023-galaxy-fighters.json](./200023-galaxy-fighters.json) |
 | Galaxy Force II | 6799 | [6799-galaxy-force-ii.json](./6799-galaxy-force-ii.json) |
 | Galaxy Game | 11396 | [11396-galaxy-game.json](./11396-galaxy-game.json) |
 | Galaxy Genome | 174279 | [174279-galaxy-genome.json](./174279-galaxy-genome.json) |
+| Galaxy Groove | 200047 | [200047-galaxy-groove.json](./200047-galaxy-groove.json) |
 | Galaxy Guardian Royale | 159807 | [159807-galaxy-guardian-royale.json](./159807-galaxy-guardian-royale.json) |
 | Galaxy Hero H2H | 233207 | [233207-galaxy-hero-h2h.json](./233207-galaxy-hero-h2h.json) |
 | Galaxy Hordes | 258978 | [258978-galaxy-hordes.json](./258978-galaxy-hordes.json) |
