@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Mobile | 39570 | [39570-rad-mobile.json](./39570-rad-mobile.json) |
 | Rad Racer II | 48091 | [48091-rad-racer-ii.json](./48091-rad-racer-ii.json) |
 | Rad Rally | 39569 | [39569-rad-rally.json](./39569-rad-rally.json) |
+| Rad Venture | 215204 | [215204-rad-venture.json](./215204-rad-venture.json) |
 | Radarjam | 132758 | [132758-radarjam.json](./132758-radarjam.json) |
 | RadCity: a post-apocalyptic adventure | 381608 | [381608-radcity-a-post-apocalyptic-adventure.json](./381608-radcity-a-post-apocalyptic-adventure.json) |
 | Raddle | 345510 | [345510-raddle.json](./345510-raddle.json) |
