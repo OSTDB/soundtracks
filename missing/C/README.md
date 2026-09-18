@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravan Village: Farming Life | 389590 | [389590-caravan-village-farming-life.json](./389590-caravan-village-farming-life.json) |
 | Caravana 2000 | 400367 | [400367-caravana-2000.json](./400367-caravana-2000.json) |
 | Carbon Battle Royale | 143717 | [143717-carbon-battle-royale.json](./143717-carbon-battle-royale.json) |
+| Carbonflesh | 224641 | [224641-carbonflesh.json](./224641-carbonflesh.json) |
 | Carcassonne: The Official Board Game - Inns & Cathedrals | 171018 | [171018-carcassonne-the-official-board-game-inns-and-cathedrals.json](./171018-carcassonne-the-official-board-game-inns-and-cathedrals.json) |
 | Carcassonne: The Official Board Game - Traders & Builders | 227359 | [227359-carcassonne-the-official-board-game-traders-and-builders.json](./227359-carcassonne-the-official-board-game-traders-and-builders.json) |
 | Carcassonne: The Official Board Game - Winter and Gingerbread Man | 171017 | [171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json](./171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json) |
@@ -646,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardinal Arc: Konton no Fuusatsu | 43284 | [43284-cardinal-arc-konton-no-fuusatsu.json](./43284-cardinal-arc-konton-no-fuusatsu.json) |
 | Cardinal Cross | 90169 | [90169-cardinal-cross.json](./90169-cardinal-cross.json) |
 | Cardinal Land: Jigsaw & Tangram Puzzle Blend | 87213 | [87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json](./87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json) |
+| Cardlike | 224647 | [224647-cardlike.json](./224647-cardlike.json) |
 | Cardlock | 184582 | [184582-cardlock.json](./184582-cardlock.json) |
 | Cardmare: Descent | 398444 | [398444-cardmare-descent.json](./398444-cardmare-descent.json) |
 | Cardnarok: Raid with Gods | 132232 | [132232-cardnarok-raid-with-gods.json](./132232-cardnarok-raid-with-gods.json) |
@@ -3369,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comando Tracer | 138800 | [138800-comando-tracer.json](./138800-comando-tracer.json) |
 | Combat | 131545 | [131545-combat.json](./131545-combat.json) |
 | Combat Ace | 43260 | [43260-combat-ace.json](./43260-combat-ace.json) |
+| Combat Beans: Total Mayhem | 224670 | [224670-combat-beans-total-mayhem.json](./224670-combat-beans-total-mayhem.json) |
 | Combat Cats | 25488 | [25488-combat-cats.json](./25488-combat-cats.json) |
 | Combat Champions | 244510 | [244510-combat-champions.json](./244510-combat-champions.json) |
 | Combat Choro Q | 97362 | [97362-combat-choro-q.json](./97362-combat-choro-q.json) |
