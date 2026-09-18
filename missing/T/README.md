@@ -1605,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 7D Mine Train | 89163 | [89163-the-7d-mine-train.json](./89163-the-7d-mine-train.json) |
 | The 7th Melee: Sonic's Heroes | 330719 | [330719-the-7th-melee-sonics-heroes.json](./330719-the-7th-melee-sonics-heroes.json) |
 | The 7th Shift | 415873 | [415873-the-7th-shift.json](./415873-the-7th-shift.json) |
+| The 7th Sign Project | 201675 | [201675-the-7th-sign-project.json](./201675-the-7th-sign-project.json) |
 | The 80's Game with Martha Quinn | 206205 | [206205-the-80s-game-with-martha-quinn.json](./206205-the-80s-game-with-martha-quinn.json) |
 | The 8th Day | 106605 | [106605-the-8th-day.json](./106605-the-8th-day.json) |
 | The 8th Melee: Hyper State | 330720 | [330720-the-8th-melee-hyper-state.json](./330720-the-8th-melee-hyper-state.json) |
@@ -3445,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Knight's Magic War | 113045 | [113045-the-knights-magic-war.json](./113045-the-knights-magic-war.json) |
 | The Knight's Path | 258981 | [258981-the-knights-path.json](./258981-the-knights-path.json) |
 | The Koala Brothers: Outback Adventures | 49398 | [49398-the-koala-brothers-outback-adventures.json](./49398-the-koala-brothers-outback-adventures.json) |
+| The Kobolds Left Behind | 201701 | [201701-the-kobolds-left-behind.json](./201701-the-kobolds-left-behind.json) |
 | The Kore Gang: Outvasion from Inner Earth | 72687 | [72687-the-kore-gang-outvasion-from-inner-earth.json](./72687-the-kore-gang-outvasion-from-inner-earth.json) |
 | The Kore Gang: Outvasion From Inner Space | 21071 | [21071-the-kore-gang-outvasion-from-inner-space.json](./21071-the-kore-gang-outvasion-from-inner-space.json) |
 | The Kotchei | 298718 | [298718-the-kotchei.json](./298718-the-kotchei.json) |
@@ -5070,6 +5072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sword of Hope II | 10947 | [10947-the-sword-of-hope-ii.json](./10947-the-sword-of-hope-ii.json) |
 | The Sword Witch's Apprentice | 351037 | [351037-the-sword-witchs-apprentice.json](./351037-the-sword-witchs-apprentice.json) |
 | The Swordsmen X: Survival | 152375 | [152375-the-swordsmen-x-survival.json](./152375-the-swordsmen-x-survival.json) |
+| The Syber Virus | 201714 | [201714-the-syber-virus.json](./201714-the-syber-virus.json) |
 | The Sych Story | 158643 | [158643-the-sych-story.json](./158643-the-sych-story.json) |
 | The Sych Story: Human Being | 369574 | [369574-the-sych-story-human-being.json](./369574-the-sych-story-human-being.json) |
 | The Sydney Mystery | 73268 | [73268-the-sydney-mystery.json](./73268-the-sydney-mystery.json) |
@@ -7371,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tooncop | 260249 | [260249-tooncop.json](./260249-tooncop.json) |
 | TooneQuest | 407402 | [407402-toonequest.json](./407402-toonequest.json) |
 | Toonkars Racer | 202763 | [202763-toonkars-racer.json](./202763-toonkars-racer.json) |
+| Toons City | 201664 | [201664-toons-city.json](./201664-toons-city.json) |
 | Toontown Online | 25326 | [25326-toontown-online.json](./25326-toontown-online.json) |
 | Toontown Rewritten: Clear Coasts | 373635 | [373635-toontown-rewritten-clear-coasts.json](./373635-toontown-rewritten-clear-coasts.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
@@ -7843,6 +7847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towerborne | 252839 | [252839-towerborne.json](./252839-towerborne.json) |
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | TowerFall Ascension | 9567 | [9567-towerfall-ascension.json](./9567-towerfall-ascension.json) |
+| TowerFall with Friends | 201686 | [201686-towerfall-with-friends.json](./201686-towerfall-with-friends.json) |
 | Towerful Defense: A Rogue TD - The First Expansion | 385554 | [385554-towerful-defense-a-rogue-td-the-first-expansion.json](./385554-towerful-defense-a-rogue-td-the-first-expansion.json) |
 | Towerheart | 303076 | [303076-towerheart.json](./303076-towerheart.json) |
 | Towering | 230295 | [230295-towering.json](./230295-towering.json) |
@@ -9390,6 +9395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two & One Hundred Ways Bundle | 188020 | [188020-two-and-one-hundred-ways-bundle.json](./188020-two-and-one-hundred-ways-bundle.json) |
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
 | Two Brothers | 9440 | [9440-two-brothers.json](./9440-two-brothers.json) |
+| Two Colours | 201712 | [201712-two-colours.json](./201712-two-colours.json) |
 | Two Days to the Race | 304179 | [304179-two-days-to-the-race.json](./304179-two-days-to-the-race.json) |
 | Two Die | 142501 | [142501-two-die.json](./142501-two-die.json) |
 | Two Doors | 305928 | [305928-two-doors.json](./305928-two-doors.json) |
