@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakimochi Stream | 373023 | [373023-yakimochi-stream.json](./373023-yakimochi-stream.json) |
 | Yakiniku Simulatior | 203886 | [203886-yakiniku-simulatior.json](./203886-yakiniku-simulatior.json) |
 | Yakitate!! Japan | 124154 | [124154-yakitate-japan.json](./124154-yakitate-japan.json) |
+| Yako | 220731 | [220731-yako.json](./220731-yako.json) |
 | Yakoh: Shinobi Ops | 389431 | [389431-yakoh-shinobi-ops.json](./389431-yakoh-shinobi-ops.json) |
 | Yakouchuu | 37761 | [37761-yakouchuu.json](./37761-yakouchuu.json) |
 | Yaku Slap | 329976 | [329976-yaku-slap.json](./329976-yaku-slap.json) |
@@ -208,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai Rescue | 309868 | [309868-yokai-rescue.json](./309868-yokai-rescue.json) |
 | Yokai Tamer | 193936 | [193936-yokai-tamer.json](./193936-yokai-tamer.json) |
 | Yokai's Secret | 138265 | [138265-yokais-secret.json](./138265-yokais-secret.json) |
+| Yokai's Wish | 220732 | [220732-yokais-wish.json](./220732-yokais-wish.json) |
 | Yokaiware | 186313 | [186313-yokaiware.json](./186313-yokaiware.json) |
 | Yokaizer: Kaiki-dou | 385721 | [385721-yokaizer-kaiki-dou.json](./385721-yokaizer-kaiki-dou.json) |
 | Yokaizer: Yuuki-dou | 385720 | [385720-yokaizer-yuuki-dou.json](./385720-yokaizer-yuuki-dou.json) |
@@ -278,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Peter Shorts | 248919 | [248919-you-are-peter-shorts.json](./248919-you-are-peter-shorts.json) |
 | You Are Sick | 239671 | [239671-you-are-sick.json](./239671-you-are-sick.json) |
 | You are the Apple of My Eye | 99028 | [99028-you-are-the-apple-of-my-eye.json](./99028-you-are-the-apple-of-my-eye.json) |
+| You Are the Dinner | 220733 | [220733-you-are-the-dinner.json](./220733-you-are-the-dinner.json) |
 | You Are the Hero | 362877 | [362877-you-are-the-hero.json](./362877-you-are-the-hero.json) |
 | You Are the Loading Screen | 407355 | [407355-you-are-the-loading-screen.json](./407355-you-are-the-loading-screen.json) |
 | You are the Weapon | 230309 | [230309-you-are-the-weapon.json](./230309-you-are-the-weapon.json) |
