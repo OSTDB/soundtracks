@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Gifts | 225074 | [225074-santas-gifts.json](./225074-santas-gifts.json) |
 | Santa's Gifts Load | 378769 | [378769-santas-gifts-load.json](./378769-santas-gifts-load.json) |
 | Santa's Letters VR | 257066 | [257066-santas-letters-vr.json](./257066-santas-letters-vr.json) |
+| Santa's Secret Valley | 215791 | [215791-santas-secret-valley.json](./215791-santas-secret-valley.json) |
 | Santa's Spot It | 317227 | [317227-santas-spot-it.json](./317227-santas-spot-it.json) |
 | Santa's Spot It + Exit Station 7 + Find Room 96 + HighScore Anomaly Shop +HighScore Anomaly Underground | 319775 | [319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json](./319775-santas-spot-it-exit-station-7-find-room-96-highscore-anomaly-shop-highscore-anomaly-underground.json) |
 | Santa's Workshop | 343787 | [343787-santas-workshop.json](./343787-santas-workshop.json) |
@@ -1414,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Classics Arcade Collection 4-in-1 | 5432 | [5432-sega-classics-arcade-collection-4-in-1.json](./5432-sega-classics-arcade-collection-4-in-1.json) |
 | Sega Flipper | 308409 | [308409-sega-flipper.json](./308409-sega-flipper.json) |
 | Sega Genesis Classic Collection: Gold Edition | 51261 | [51261-sega-genesis-classic-collection-gold-edition.json](./51261-sega-genesis-classic-collection-gold-edition.json) |
+| Sega Genesis Mini 2 | 215742 | [215742-sega-genesis-mini-2.json](./215742-sega-genesis-mini-2.json) |
 | Sega GT | 28838 | [28838-sega-gt.json](./28838-sega-gt.json) |
 | Sega Rally 2 | 1572 | [1572-sega-rally-2.json](./1572-sega-rally-2.json) |
 | Sega Rally Championship Plus | 374706 | [374706-sega-rally-championship-plus.json](./374706-sega-rally-championship-plus.json) |
@@ -4729,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Some Convenience Store: Soohee After Story | 316252 | [316252-some-some-convenience-store-soohee-after-story.json](./316252-some-some-convenience-store-soohee-after-story.json) |
 | Some Some Convenience Store: Yena After Story | 316251 | [316251-some-some-convenience-store-yena-after-story.json](./316251-some-some-convenience-store-yena-after-story.json) |
 | Some Spring Days | 242540 | [242540-some-spring-days.json](./242540-some-spring-days.json) |
+| Some Sword, Some Play | 215774 | [215774-some-sword-some-play.json](./215774-some-sword-some-play.json) |
 | Some Synergy | 210883 | [210883-some-synergy.json](./210883-some-synergy.json) |
 | Someday | 120923 | [120923-someday.json](./120923-someday.json) |
 | Someday You'll Return: Director's Cut | 241044 | [241044-someday-youll-return-directors-cut.json](./241044-someday-youll-return-directors-cut.json) |
@@ -5585,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Harrier | 306472 | [306472-space-harrier.json](./306472-space-harrier.json) |
 | Space Harrier | 306475 | [306475-space-harrier.json](./306475-space-harrier.json) |
 | Space Harrier | 341883 | [341883-space-harrier.json](./341883-space-harrier.json) |
+| Space Harrier II | 215751 | [215751-space-harrier-ii.json](./215751-space-harrier-ii.json) |
 | Space Harvest II | 97916 | [97916-space-harvest-ii.json](./97916-space-harvest-ii.json) |
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
 | Space Hero Line | 43518 | [43518-space-hero-line.json](./43518-space-hero-line.json) |
@@ -5884,6 +5888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spasms of Stupidity | 265725 | [265725-spasms-of-stupidity.json](./265725-spasms-of-stupidity.json) |
 | Spatial Ops | 324913 | [324913-spatial-ops.json](./324913-spatial-ops.json) |
 | Spatium Locus | 139361 | [139361-spatium-locus.json](./139361-spatium-locus.json) |
+| Spatter | 215747 | [215747-spatter.json](./215747-spatter.json) |
 | Spatter | 40168 | [40168-spatter.json](./40168-spatter.json) |
 | Spattle Cats | 115045 | [115045-spattle-cats.json](./115045-spattle-cats.json) |
 | Spava | 276819 | [276819-spava.json](./276819-spava.json) |
@@ -7783,6 +7788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Straight Up | 289478 | [289478-straight-up.json](./289478-straight-up.json) |
 | Straight Up: Dummy Characters | 289480 | [289480-straight-up-dummy-characters.json](./289480-straight-up-dummy-characters.json) |
 | Straight Up: Farm Crew Characters | 289479 | [289479-straight-up-farm-crew-characters.json](./289479-straight-up-farm-crew-characters.json) |
+| Straight!? | 215781 | [215781-straight.json](./215781-straight.json) |
 | Straimium Immortaly | 31627 | [31627-straimium-immortaly.json](./31627-straimium-immortaly.json) |
 | Strain | 237351 | [237351-strain.json](./237351-strain.json) |
 | Strainge | 151703 | [151703-strainge.json](./151703-strainge.json) |
@@ -8974,6 +8980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lee World | 120950 | [120950-super-lee-world.json](./120950-super-lee-world.json) |
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
 | Super Live Stadium | 301384 | [301384-super-live-stadium.json](./301384-super-live-stadium.json) |
+| Super Locomotive | 215748 | [215748-super-locomotive.json](./215748-super-locomotive.json) |
 | Super Lode Runner | 41320 | [41320-super-lode-runner.json](./41320-super-lode-runner.json) |
 | Super Lode Runner II | 48676 | [48676-super-lode-runner-ii.json](./48676-super-lode-runner-ii.json) |
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
