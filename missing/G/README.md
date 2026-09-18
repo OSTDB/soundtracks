@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geisha | 12116 | [12116-geisha.json](./12116-geisha.json) |
 | Geist Force | 62131 | [62131-geist-force.json](./62131-geist-force.json) |
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
+| Geki Yaba Runner Habanero | 222389 | [222389-geki-yaba-runner-habanero.json](./222389-geki-yaba-runner-habanero.json) |
 | Gekitotsu! Saikyou Pro Yakyuu Dream Battle | 220303 | [220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json](./220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json) |
 | Gekitou Burning Pro Wrestling | 42593 | [42593-gekitou-burning-pro-wrestling.json](./42593-gekitou-burning-pro-wrestling.json) |
 | Gekko and Luna Girl's Moths | 359430 | [359430-gekko-and-luna-girls-moths.json](./359430-gekko-and-luna-girls-moths.json) |
@@ -784,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genjin Show: Tobidase! VB Genjin | 234086 | [234086-genjin-show-tobidase-vb-genjin.json](./234086-genjin-show-tobidase-vb-genjin.json) |
 | Genjiro: Samurai Defense | 285973 | [285973-genjiro-samurai-defense.json](./285973-genjiro-samurai-defense.json) |
 | Genkai Tokki: Castle Panzers | 27761 | [27761-genkai-tokki-castle-panzers.json](./27761-genkai-tokki-castle-panzers.json) |
+| Genkai! Yamazumi Battle | 222374 | [222374-genkai-yamazumi-battle.json](./222374-genkai-yamazumi-battle.json) |
 | Genki Village | 143036 | [143036-genki-village.json](./143036-genki-village.json) |
 | GenMobile | 202810 | [202810-genmobile.json](./202810-genmobile.json) |
 | Geno 2 the Generals' Orders | 265933 | [265933-geno-2-the-generals-orders.json](./265933-geno-2-the-generals-orders.json) |
