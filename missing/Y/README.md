@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuusha | 22480 | [22480-yuusha.json](./22480-yuusha.json) |
 | Yuusha to Maou to, Majo no Cafe | 97377 | [97377-yuusha-to-maou-to-majo-no-cafe.json](./97377-yuusha-to-maou-to-majo-no-cafe.json) |
 | Yuushi no Monshou: Deep Dungeon | 41326 | [41326-yuushi-no-monshou-deep-dungeon.json](./41326-yuushi-no-monshou-deep-dungeon.json) |
+| Yuuto Ichika Gets DMCA'd | 195074 | [195074-yuuto-ichika-gets-dmcad.json](./195074-yuuto-ichika-gets-dmcad.json) |
 | Yuuyu no Quiz de Go! Go! | 37750 | [37750-yuuyu-no-quiz-de-go-go.json](./37750-yuuyu-no-quiz-de-go-go.json) |
 | YuYu Hakusho | 60531 | [60531-yuyu-hakusho.json](./60531-yuyu-hakusho.json) |
 | YuYu Hakusho Dai-yon-dan: Makai Touitsu-hen | 60559 | [60559-yuyu-hakusho-dai-yon-dan-makai-touitsu-hen.json](./60559-yuyu-hakusho-dai-yon-dan-makai-touitsu-hen.json) |
