@@ -3468,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bog Racer | 239893 | [239893-bog-racer.json](./239893-bog-racer.json) |
 | Bogart | 243947 | [243947-bogart.json](./243947-bogart.json) |
 | Bogart 2: Return of Bogart | 243949 | [243949-bogart-2-return-of-bogart.json](./243949-bogart-2-return-of-bogart.json) |
+| Bogdanoff vs. Wojak Simulator | 182358 | [182358-bogdanoff-vs-wojak-simulator.json](./182358-bogdanoff-vs-wojak-simulator.json) |
 | Bogey Dead 6 | 20590 | [20590-bogey-dead-6.json](./20590-bogey-dead-6.json) |
 | Boggle | 206463 | [206463-boggle.json](./206463-boggle.json) |
 | Boggle With Friends | 55087 | [55087-boggle-with-friends.json](./55087-boggle-with-friends.json) |
