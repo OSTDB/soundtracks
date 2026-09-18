@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermeer | 46659 | [46659-vermeer.json](./46659-vermeer.json) |
 | Vermilion Desert | 69316 | [69316-vermilion-desert.json](./69316-vermilion-desert.json) |
 | Vermillion Descent | 209137 | [209137-vermillion-descent.json](./209137-vermillion-descent.json) |
+| Vermillion Watch: Fleshbound | 187949 | [187949-vermillion-watch-fleshbound.json](./187949-vermillion-watch-fleshbound.json) |
 | Vermillion Watch: Order Zero | 74312 | [74312-vermillion-watch-order-zero.json](./74312-vermillion-watch-order-zero.json) |
 | Vermin | 232696 | [232696-vermin.json](./232696-vermin.json) |
 | Vermin Control | 334483 | [334483-vermin-control.json](./334483-vermin-control.json) |
