@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feet Sweeper | 244495 | [244495-feet-sweeper.json](./244495-feet-sweeper.json) |
 | Feevo HD | 232546 | [232546-feevo-hd.json](./232546-feevo-hd.json) |
 | Fei Tian | 86105 | [86105-fei-tian.json](./86105-fei-tian.json) |
+| Feisty Fauna | 193345 | [193345-feisty-fauna.json](./193345-feisty-fauna.json) |
 | Fèitǔ Báixuěgōngzhǔ | 348855 | [348855-feitu-baixuegongzhu.json](./348855-feitu-baixuegongzhu.json) |
 | Feitu Huiguniang | 348846 | [348846-feitu-huiguniang.json](./348846-feitu-huiguniang.json) |
 | Fèitǔ Xiǎohóngmào | 348836 | [348836-feitu-xiaohongmao.json](./348836-feitu-xiaohongmao.json) |
@@ -2829,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgekeepers | 332542 | [332542-forgekeepers.json](./332542-forgekeepers.json) |
 | ForgeRun | 374047 | [374047-forgerun.json](./374047-forgerun.json) |
 | Forget the Brakes | 134604 | [134604-forget-the-brakes.json](./134604-forget-the-brakes.json) |
+| Forget the Golden Witch | 193352 | [193352-forget-the-golden-witch.json](./193352-forget-the-golden-witch.json) |
 | Forget Westbury Falls: Disc One | 192960 | [192960-forget-westbury-falls-disc-one.json](./192960-forget-westbury-falls-disc-one.json) |
 | Forget Your Chains | 261244 | [261244-forget-your-chains.json](./261244-forget-your-chains.json) |
 | Forget-Me-Not | 178672 | [178672-forget-me-not.json](./178672-forget-me-not.json) |
@@ -3344,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fregocles y la Desinfección del Olimpo | 322551 | [322551-fregocles-y-la-desinfeccion-del-olimpo.json](./322551-fregocles-y-la-desinfeccion-del-olimpo.json) |
 | Freight Hopper | 212880 | [212880-freight-hopper.json](./212880-freight-hopper.json) |
 | Freight Manager | 365742 | [365742-freight-manager.json](./365742-freight-manager.json) |
+| French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
 | FrenQuest | 307604 | [307604-frenquest.json](./307604-frenquest.json) |
 | FrenVania | 143047 | [143047-frenvania.json](./143047-frenvania.json) |
 | Frenzic: Overtime | 152926 | [152926-frenzic-overtime.json](./152926-frenzic-overtime.json) |
