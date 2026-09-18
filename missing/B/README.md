@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.C. Piezophile | 239637 | [239637-b-c-piezophile.json](./239637-b-c-piezophile.json) |
 | B.D.K | 170986 | [170986-b-d-k.json](./170986-b-d-k.json) |
 | B.I.D. | 390619 | [390619-b-i-d.json](./390619-b-i-d.json) |
+| B.I.N.D. | 212907 | [212907-b-i-n-d.json](./212907-b-i-n-d.json) |
 | B.M.G 19: Bike Messenger Go! | 115707 | [115707-b-m-g-19-bike-messenger-go.json](./115707-b-m-g-19-bike-messenger-go.json) |
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
 | B.o.o.o. | 178676 | [178676-b-o-o-o.json](./178676-b-o-o-o.json) |
@@ -241,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Bots Rises | 27758 | [27758-bad-bots-rises.json](./27758-bad-bots-rises.json) |
 | Bad Business | 118304 | [118304-bad-business.json](./118304-bad-business.json) |
 | Bad Cheese | 320146 | [320146-bad-cheese.json](./320146-bad-cheese.json) |
+| Bad Chicken | 212906 | [212906-bad-chicken.json](./212906-bad-chicken.json) |
 | Bad Delivery: Pizza Your Heart | 381617 | [381617-bad-delivery-pizza-your-heart.json](./381617-bad-delivery-pizza-your-heart.json) |
 | Bad Dinos | 23219 | [23219-bad-dinos.json](./23219-bad-dinos.json) |
 | Bad Dream: Bridge | 133931 | [133931-bad-dream-bridge.json](./133931-bad-dream-bridge.json) |
@@ -2077,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
 | Big Helmet Heroes | 303205 | [303205-big-helmet-heroes.json](./303205-big-helmet-heroes.json) |
 | Big Hunt | 329021 | [329021-big-hunt.json](./329021-big-hunt.json) |
+| Big Ice Tower Tiny Square | 212887 | [212887-big-ice-tower-tiny-square.json](./212887-big-ice-tower-tiny-square.json) |
 | Big Ichigeki! Pachislot Daikouryaku: Universal Museum | 137596 | [137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json](./137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json) |
 | Big Karnak | 39614 | [39614-big-karnak.json](./39614-big-karnak.json) |
 | Big Klondike: Classic Solitaire | 168335 | [168335-big-klondike-classic-solitaire.json](./168335-big-klondike-classic-solitaire.json) |
@@ -4857,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burlesque | 292650 | [292650-burlesque.json](./292650-burlesque.json) |
 | Burn | 311118 | [311118-burn.json](./311118-burn.json) |
 | Burn Depth | 203891 | [203891-burn-depth.json](./203891-burn-depth.json) |
+| Burn the Witch | 212903 | [212903-burn-the-witch.json](./212903-burn-the-witch.json) |
 | Burn The Witch: Toll of the Bell Bearer | 358957 | [358957-burn-the-witch-toll-of-the-bell-bearer.json](./358957-burn-the-witch-toll-of-the-bell-bearer.json) |
 | Burn Them | 255137 | [255137-burn-them.json](./255137-burn-them.json) |
 | Burn-9 | 404870 | [404870-burn-9.json](./404870-burn-9.json) |
