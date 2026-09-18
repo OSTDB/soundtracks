@@ -1702,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nightmares III: Secrets of The Spiral - Expansion Pass | 370224 | [370224-little-nightmares-iii-secrets-of-the-spiral-expansion-pass.json](./370224-little-nightmares-iii-secrets-of-the-spiral-expansion-pass.json) |
 | Little Nightmares III: The Backstage | 375185 | [375185-little-nightmares-iii-the-backstage.json](./375185-little-nightmares-iii-the-backstage.json) |
 | Little Nightmares: Enhanced Edition | 350903 | [350903-little-nightmares-enhanced-edition.json](./350903-little-nightmares-enhanced-edition.json) |
+| Little Noah: Scion of Paradise | 206809 | [206809-little-noah-scion-of-paradise.json](./206809-little-noah-scion-of-paradise.json) |
 | Little Noah: Scion of Paradise - Avatar, Lilliput, and Accessory Pack | 223577 | [223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json](./223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json) |
 | Little Number Daycare: Learn, Count, Say, Play for Toddlers | 409538 | [409538-little-number-daycare-learn-count-say-play-for-toddlers.json](./409538-little-number-daycare-learn-count-say-play-for-toddlers.json) |
 | Little Old One and the Witch | 376548 | [376548-little-old-one-and-the-witch.json](./376548-little-old-one-and-the-witch.json) |
