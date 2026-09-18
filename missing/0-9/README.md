@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Player Baseball | 245578 | [245578-2-player-baseball.json](./245578-2-player-baseball.json) |
 | 2 Sectors | 260785 | [260785-2-sectors.json](./260785-2-sectors.json) |
 | 2 Synchro Hedgehogs | 167831 | [167831-2-synchro-hedgehogs.json](./167831-2-synchro-hedgehogs.json) |
+| 2-3-5-7 | 186187 | [186187-2-3-5-7.json](./186187-2-3-5-7.json) |
 | 2-Bit Cowboy Rides Again | 316061 | [316061-2-bit-cowboy-rides-again.json](./316061-2-bit-cowboy-rides-again.json) |
 | 2-Finger Heroes | 66692 | [66692-2-finger-heroes.json](./66692-2-finger-heroes.json) |
 | 2-in-1 Fun Pack I Dreamworks Madagascar: Operation Penguin + Shrek 2 | 86054 | [86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json](./86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json) |
