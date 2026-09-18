@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daft Disputes | 180220 | [180220-daft-disputes.json](./180220-daft-disputes.json) |
 | DaGame | 146238 | [146238-dagame.json](./146238-dagame.json) |
 | Dagat-i Kal Kal Kal | 63262 | [63262-dagat-i-kal-kal-kal.json](./63262-dagat-i-kal-kal-kal.json) |
+| Dagdrom | 183468 | [183468-dagdrom.json](./183468-dagdrom.json) |
 | Dagger Woods VR | 333016 | [333016-dagger-woods-vr.json](./333016-dagger-woods-vr.json) |
 | Dah-Varsity | 304205 | [304205-dah-varsity.json](./304205-dah-varsity.json) |
 | Dahalo | 127252 | [127252-dahalo.json](./127252-dahalo.json) |
@@ -2549,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensity | 16152 | [16152-dimensity.json](./16152-dimensity.json) |
 | Dimeo's Jukebox | 143033 | [143033-dimeos-jukebox.json](./143033-dimeos-jukebox.json) |
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
+| Dimlight Cafe | 183443 | [183443-dimlight-cafe.json](./183443-dimlight-cafe.json) |
 | Dimlight Dungeon | 276835 | [276835-dimlight-dungeon.json](./276835-dimlight-dungeon.json) |
 | Dimraeth | 249202 | [249202-dimraeth.json](./249202-dimraeth.json) |
 | Dimwarper | 215884 | [215884-dimwarper.json](./215884-dimwarper.json) |
@@ -2603,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino R-r-age Defense | 88103 | [88103-dino-r-r-age-defense.json](./88103-dino-r-r-age-defense.json) |
 | Dino Race: Dinosaur Ride Ranch | 284487 | [284487-dino-race-dinosaur-ride-ranch.json](./284487-dino-race-dinosaur-ride-ranch.json) |
 | Dino Rampage 3D | 106627 | [106627-dino-rampage-3d.json](./106627-dino-rampage-3d.json) |
+| Dino Rex | 183466 | [183466-dino-rex.json](./183466-dino-rex.json) |
 | Dino Rex | 39630 | [39630-dino-rex.json](./39630-dino-rex.json) |
 | Dino Run SE | 64965 | [64965-dino-run-se.json](./64965-dino-run-se.json) |
 | Dino Safari 2 | 96771 | [96771-dino-safari-2.json](./96771-dino-safari-2.json) |
@@ -4684,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
 | Dronihilation VR | 67928 | [67928-dronihilation-vr.json](./67928-dronihilation-vr.json) |
 | Drop & Smash | 227483 | [227483-drop-and-smash.json](./227483-drop-and-smash.json) |
+| Drop Boy | 183435 | [183435-drop-boy.json](./183435-drop-boy.json) |
 | Drop Cooking | 311478 | [311478-drop-cooking.json](./311478-drop-cooking.json) |
 | Drop Duchy | 317865 | [317865-drop-duchy.json](./317865-drop-duchy.json) |
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
@@ -5121,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonoid 2: Awakening | 282152 | [282152-dungeonoid-2-awakening.json](./282152-dungeonoid-2-awakening.json) |
 | Dungeonpreneur | 274033 | [274033-dungeonpreneur.json](./274033-dungeonpreneur.json) |
 | Dungeonrite | 203941 | [203941-dungeonrite.json](./203941-dungeonrite.json) |
+| Dungeons & Brooms | 183447 | [183447-dungeons-and-brooms.json](./183447-dungeons-and-brooms.json) |
 | Dungeons & Desserts | 349371 | [349371-dungeons-and-desserts.json](./349371-dungeons-and-desserts.json) |
 | Dungeons & Dragons Bundle | 242666 | [242666-dungeons-and-dragons-bundle.json](./242666-dungeons-and-dragons-bundle.json) |
 | Dungeons & Dragons Online | 5629 | [5629-dungeons-and-dragons-online.json](./5629-dungeons-and-dragons-online.json) |
