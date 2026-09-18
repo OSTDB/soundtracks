@@ -1802,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
 | Amphis Game | 381122 | [381122-amphis-game.json](./381122-amphis-game.json) |
 | Amphora Hell | 336556 | [336556-amphora-hell.json](./336556-amphora-hell.json) |
+| Amplz Boss Fights | 224110 | [224110-amplz-boss-fights.json](./224110-amplz-boss-fights.json) |
 | Ampsball | 398443 | [398443-ampsball.json](./398443-ampsball.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
 | Amstrad Eterno X | 376589 | [376589-amstrad-eterno-x.json](./376589-amstrad-eterno-x.json) |
@@ -2576,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - Museum of Horror! | 171089 | [171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json](./171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
 | Apocalypse Mechanism | 103499 | [103499-apocalypse-mechanism.json](./103499-apocalypse-mechanism.json) |
+| Apocalypse Runner | 224098 | [224098-apocalypse-runner.json](./224098-apocalypse-runner.json) |
 | Apocalypse Rush | 372545 | [372545-apocalypse-rush.json](./372545-apocalypse-rush.json) |
 | Apocalypse Survivor | 366291 | [366291-apocalypse-survivor.json](./366291-apocalypse-survivor.json) |
 | Apocalypse Z: Survival | 129803 | [129803-apocalypse-z-survival.json](./129803-apocalypse-z-survival.json) |
@@ -2923,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Domains | 114380 | [114380-arcane-domains.json](./114380-arcane-domains.json) |
 | Arcane Drifter | 324301 | [324301-arcane-drifter.json](./324301-arcane-drifter.json) |
 | Arcane Eats | 348268 | [348268-arcane-eats.json](./348268-arcane-eats.json) |
+| Arcane Fate | 224099 | [224099-arcane-fate.json](./224099-arcane-fate.json) |
 | Arcane Maelstrom | 29765 | [29765-arcane-maelstrom.json](./29765-arcane-maelstrom.json) |
 | Arcane Path | 339643 | [339643-arcane-path.json](./339643-arcane-path.json) |
 | Arcane Pets: Plushie Empire | 256545 | [256545-arcane-pets-plushie-empire.json](./256545-arcane-pets-plushie-empire.json) |
@@ -3535,6 +3538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashura: Dark Reign | 326818 | [326818-ashura-dark-reign.json](./326818-ashura-dark-reign.json) |
 | Ashworld | 43120 | [43120-ashworld.json](./43120-ashworld.json) |
 | AsiaKingdom | 302343 | [302343-asiakingdom.json](./302343-asiakingdom.json) |
+| Asian Cargo Sim | 224115 | [224115-asian-cargo-sim.json](./224115-asian-cargo-sim.json) |
 | Asian Dynamite | 39645 | [39645-asian-dynamite.json](./39645-asian-dynamite.json) |
 | Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
 | Ask Gear Re:Boost | 325447 | [325447-ask-gear-re-boost.json](./325447-ask-gear-re-boost.json) |
@@ -3669,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aster Initiative | 274035 | [274035-aster-initiative.json](./274035-aster-initiative.json) |
 | Astera | 304678 | [304678-astera.json](./304678-astera.json) |
 | Asterelis | 118404 | [118404-asterelis.json](./118404-asterelis.json) |
+| Asterigos: Curse of the Stars - Call of the Paragons | 224114 | [224114-asterigos-curse-of-the-stars-call-of-the-paragons.json](./224114-asterigos-curse-of-the-stars-call-of-the-paragons.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
 | Asterix | 12242 | [12242-asterix.json](./12242-asterix.json) |
 | Astérix | 19486 | [19486-asterix.json](./19486-asterix.json) |
@@ -3722,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astonishing Baseball 2019 | 119695 | [119695-astonishing-baseball-2019.json](./119695-astonishing-baseball-2019.json) |
 | Astonishing Baseball 2019 for Windows | 125988 | [125988-astonishing-baseball-2019-for-windows.json](./125988-astonishing-baseball-2019-for-windows.json) |
 | Astonishing Baseball 22 | 262081 | [262081-astonishing-baseball-22.json](./262081-astonishing-baseball-22.json) |
+| Astonishing Basketball Manager | 224116 | [224116-astonishing-basketball-manager.json](./224116-astonishing-basketball-manager.json) |
 | Astoria VR | 201250 | [201250-astoria-vr.json](./201250-astoria-vr.json) |
 | Astra Etherium | 61027 | [61027-astra-etherium.json](./61027-astra-etherium.json) |
 | Astra GalaxyX | 399615 | [399615-astra-galaxyx.json](./399615-astra-galaxyx.json) |
@@ -4022,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atrofil: The Key | 127243 | [127243-atrofil-the-key.json](./127243-atrofil-the-key.json) |
 | Atrophia: Diseased Lands | 401026 | [401026-atrophia-diseased-lands.json](./401026-atrophia-diseased-lands.json) |
 | Atropos | 326240 | [326240-atropos.json](./326240-atropos.json) |
+| ATSS Retribution II | 224100 | [224100-atss-retribution-ii.json](./224100-atss-retribution-ii.json) |
 | Attack Animal Gakuen | 48601 | [48601-attack-animal-gakuen.json](./48601-attack-animal-gakuen.json) |
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
 | Attack Force | 143056 | [143056-attack-force.json](./143056-attack-force.json) |
