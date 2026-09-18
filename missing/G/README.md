@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galax-e-mail | 78663 | [78663-galax-e-mail.json](./78663-galax-e-mail.json) |
 | Galax-i-Birds | 55187 | [55187-galax-i-birds.json](./55187-galax-i-birds.json) |
 | Galaxar | 358900 | [358900-galaxar.json](./358900-galaxar.json) |
+| Galaxi Taxi | 217365 | [217365-galaxi-taxi.json](./217365-galaxi-taxi.json) |
 | Galaxian | 239166 | [239166-galaxian.json](./239166-galaxian.json) |
 | Galaxian | 277384 | [277384-galaxian.json](./277384-galaxian.json) |
 | Galaxian | 277385 | [277385-galaxian.json](./277385-galaxian.json) |
@@ -575,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate World | 46649 | [46649-gate-world.json](./46649-gate-world.json) |
 | Gate2up | 377089 | [377089-gate2up.json](./377089-gate2up.json) |
 | Gatecrasher | 207840 | [207840-gatecrasher.json](./207840-gatecrasher.json) |
+| Gatedelvers | 217382 | [217382-gatedelvers.json](./217382-gatedelvers.json) |
 | Gatekeeper | 222906 | [222906-gatekeeper.json](./222906-gatekeeper.json) |
 | Gatekeeper: Supporter Pack | 310401 | [310401-gatekeeper-supporter-pack.json](./310401-gatekeeper-supporter-pack.json) |
 | GatePass | 319987 | [319987-gatepass.json](./319987-gatepass.json) |
