@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Legends | 260685 | [260685-tale-of-legends.json](./260685-tale-of-legends.json) |
 | Tale of Ronin | 27750 | [27750-tale-of-ronin.json](./27750-tale-of-ronin.json) |
 | Tale of Scale | 339628 | [339628-tale-of-scale.json](./339628-tale-of-scale.json) |
+| Tale of Serendipity | 189056 | [189056-tale-of-serendipity.json](./189056-tale-of-serendipity.json) |
 | Tale of Swords | 113734 | [113734-tale-of-swords.json](./113734-tale-of-swords.json) |
 | Tale of Swords: Mystery Scroll | 83544 | [83544-tale-of-swords-mystery-scroll.json](./83544-tale-of-swords-mystery-scroll.json) |
 | Tale of the Bear and the Beech Tree | 398347 | [398347-tale-of-the-bear-and-the-beech-tree.json](./398347-tale-of-the-bear-and-the-beech-tree.json) |
@@ -8907,6 +8908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
 | Tricky Tube | 106524 | [106524-tricky-tube.json](./106524-tricky-tube.json) |
 | Tricky Typing | 195604 | [195604-tricky-typing.json](./195604-tricky-typing.json) |
+| Triclinium | 189046 | [189046-triclinium.json](./189046-triclinium.json) |
 | Tricolore Crise | 58170 | [58170-tricolore-crise.json](./58170-tricolore-crise.json) |
 | Tridasha | 274047 | [274047-tridasha.json](./274047-tridasha.json) |
 | TriDefense | 63229 | [63229-tridefense.json](./63229-tridefense.json) |
