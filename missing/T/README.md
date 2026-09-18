@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
 | That Friday Again | 391720 | [391720-that-friday-again.json](./391720-that-friday-again.json) |
 | That Gun Crafter Cat | 257934 | [257934-that-gun-crafter-cat.json](./257934-that-gun-crafter-cat.json) |
+| That Hole-in-the-Wall Place | 215234 | [215234-that-hole-in-the-wall-place.json](./215234-that-hole-in-the-wall-place.json) |
 | That Last Girl | 236957 | [236957-that-last-girl.json](./236957-that-last-girl.json) |
 | That Lava Escape Game | 128015 | [128015-that-lava-escape-game.json](./128015-that-lava-escape-game.json) |
 | That Night | 218733 | [218733-that-night.json](./218733-that-night.json) |
@@ -2425,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deletion | 34768 | [34768-the-deletion.json](./34768-the-deletion.json) |
 | The Delirium Dimension | 269658 | [269658-the-delirium-dimension.json](./269658-the-delirium-dimension.json) |
 | The Demon Lord and the Guardian Knights | 134641 | [134641-the-demon-lord-and-the-guardian-knights.json](./134641-the-demon-lord-and-the-guardian-knights.json) |
+| The Demon Lord is Mine! | 215189 | [215189-the-demon-lord-is-mine.json](./215189-the-demon-lord-is-mine.json) |
 | The Demon Lord’s Daughter and the Tower of Seals | 329366 | [329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json](./329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json) |
 | The Demon Within Me | 221194 | [221194-the-demon-within-me.json](./221194-the-demon-within-me.json) |
 | The Demon's Forge | 24887 | [24887-the-demons-forge.json](./24887-the-demons-forge.json) |
@@ -4059,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Murderer | 69801 | [69801-the-murderer.json](./69801-the-murderer.json) |
 | The Muse | 319556 | [319556-the-muse.json](./319556-the-muse.json) |
 | The Museum Sentinel | 355100 | [355100-the-museum-sentinel.json](./355100-the-museum-sentinel.json) |
+| The Mushroom Season | 215228 | [215228-the-mushroom-season.json](./215228-the-mushroom-season.json) |
 | The Mushrooms' Happy New Year | 396193 | [396193-the-mushrooms-happy-new-year.json](./396193-the-mushrooms-happy-new-year.json) |
 | The Mutineer | 139463 | [139463-the-mutineer.json](./139463-the-mutineer.json) |
 | The Mutton Horn: Jump Jump! | 105379 | [105379-the-mutton-horn-jump-jump.json](./105379-the-mutton-horn-jump-jump.json) |
@@ -4135,6 +4138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Not-Deer Stew | 382797 | [382797-the-not-deer-stew.json](./382797-the-not-deer-stew.json) |
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
 | The Nova Era | 209712 | [209712-the-nova-era.json](./209712-the-nova-era.json) |
+| The Now We've Named | 215226 | [215226-the-now-weve-named.json](./215226-the-now-weve-named.json) |
 | The Numzle | 233096 | [233096-the-numzle.json](./233096-the-numzle.json) |
 | The Nutcracker | 216997 | [216997-the-nutcracker.json](./216997-the-nutcracker.json) |
 | The Nutshack But It's A Game | 326591 | [326591-the-nutshack-but-its-a-game.json](./326591-the-nutshack-but-its-a-game.json) |
@@ -5036,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tenants | 115012 | [115012-the-tenants.json](./115012-the-tenants.json) |
 | The Tennis & The Snowboard | 203393 | [203393-the-tennis-and-the-snowboard.json](./203393-the-tennis-and-the-snowboard.json) |
 | The Tennis Academy | 298322 | [298322-the-tennis-academy.json](./298322-the-tennis-academy.json) |
+| The Tennis Master | 215247 | [215247-the-tennis-master.json](./215247-the-tennis-master.json) |
 | The Tensor | 318401 | [318401-the-tensor.json](./318401-the-tensor.json) |
 | The Tenth Minute | 400243 | [400243-the-tenth-minute.json](./400243-the-tenth-minute.json) |
 | The Terminator | 4372 | [4372-the-terminator.json](./4372-the-terminator.json) |
@@ -6879,6 +6884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toad's World | 38306 | [38306-toads-world.json](./38306-toads-world.json) |
 | Toader | 112975 | [112975-toader.json](./112975-toader.json) |
 | Toadette Strikes | 134069 | [134069-toadette-strikes.json](./134069-toadette-strikes.json) |
+| Toadette's Christmas Adventure | 215198 | [215198-toadettes-christmas-adventure.json](./215198-toadettes-christmas-adventure.json) |
 | Toadomination | 173243 | [173243-toadomination.json](./173243-toadomination.json) |
 | Toaplan Arcade 2 | 239142 | [239142-toaplan-arcade-2.json](./239142-toaplan-arcade-2.json) |
 | Toaplan Arcade Collection 3 | 325237 | [325237-toaplan-arcade-collection-3.json](./325237-toaplan-arcade-collection-3.json) |
@@ -8277,6 +8283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transcontinental | 328281 | [328281-transcontinental.json](./328281-transcontinental.json) |
 | Transformers | 241501 | [241501-transformers.json](./241501-transformers.json) |
 | Transformers Age of Extinction | 38969 | [38969-transformers-age-of-extinction.json](./38969-transformers-age-of-extinction.json) |
+| Transformers Beyond Reality | 215213 | [215213-transformers-beyond-reality.json](./215213-transformers-beyond-reality.json) |
 | Transformers G1 Awakening | 315069 | [315069-transformers-g1-awakening.json](./315069-transformers-g1-awakening.json) |
 | Transformers Rescue Bots: Race to the Rescue | 137611 | [137611-transformers-rescue-bots-race-to-the-rescue.json](./137611-transformers-rescue-bots-race-to-the-rescue.json) |
 | Transformers Tatakai | 70938 | [70938-transformers-tatakai.json](./70938-transformers-tatakai.json) |
@@ -8355,6 +8362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in the Kanal | 259538 | [259538-trapped-in-the-kanal.json](./259538-trapped-in-the-kanal.json) |
 | Trapped Inside a Train (And There's Nothing You Can Do About It) | 299304 | [299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json](./299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json) |
 | Trapped Summoner: Taigren's Secrets | 172194 | [172194-trapped-summoner-taigrens-secrets.json](./172194-trapped-summoner-taigrens-secrets.json) |
+| Trapped with Jester | 215188 | [215188-trapped-with-jester.json](./215188-trapped-with-jester.json) |
 | Trapped Within | 28918 | [28918-trapped-within.json](./28918-trapped-within.json) |
 | Trapped: Family Vacation | 328011 | [328011-trapped-family-vacation.json](./328011-trapped-family-vacation.json) |
 | Trapped: Forced To Kill | 402408 | [402408-trapped-forced-to-kill.json](./402408-trapped-forced-to-kill.json) |
@@ -8927,6 +8935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuki Adventure | 182457 | [182457-tsuki-adventure.json](./182457-tsuki-adventure.json) |
 | Tsuki no Namida | 277953 | [277953-tsuki-no-namida.json](./277953-tsuki-no-namida.json) |
 | Tsuki no Shoujo: Bishoujo Gakuen 2 | 194622 | [194622-tsuki-no-shoujo-bishoujo-gakuen-2.json](./194622-tsuki-no-shoujo-bishoujo-gakuen-2.json) |
+| Tsuki wa Kirisaku: Tantei Sagara Kyouichirou | 215191 | [215191-tsuki-wa-kirisaku-tantei-sagara-kyouichirou.json](./215191-tsuki-wa-kirisaku-tantei-sagara-kyouichirou.json) |
 | Tsukiakari no Kan kara no Dasshutsu | 251607 | [251607-tsukiakari-no-kan-kara-no-dasshutsu.json](./251607-tsukiakari-no-kan-kara-no-dasshutsu.json) |
 | Tsukibito | 59402 | [59402-tsukibito.json](./59402-tsukibito.json) |
 | Tsukihime: A Piece of Blue Glass Moon | 142105 | [142105-tsukihime-a-piece-of-blue-glass-moon.json](./142105-tsukihime-a-piece-of-blue-glass-moon.json) |
