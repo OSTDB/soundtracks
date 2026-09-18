@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball 3DS | 21150 | [21150-baseball-3ds.json](./21150-baseball-3ds.json) |
 | Baseball Bout: Otterrific Arcade | 214517 | [214517-baseball-bout-otterrific-arcade.json](./214517-baseball-bout-otterrific-arcade.json) |
 | Baseball Boy! | 87059 | [87059-baseball-boy.json](./87059-baseball-boy.json) |
+| Baseball Champion League 2019 | 220204 | [220204-baseball-champion-league-2019.json](./220204-baseball-champion-league-2019.json) |
 | Baseball Fighter | 48615 | [48615-baseball-fighter.json](./48615-baseball-fighter.json) |
 | Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
 | Baseball Mogul 2000 | 72675 | [72675-baseball-mogul-2000.json](./72675-baseball-mogul-2000.json) |
@@ -3239,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blyte | 358867 | [358867-blyte.json](./358867-blyte.json) |
 | Blyx | 272859 | [272859-blyx.json](./272859-blyx.json) |
 | BMX Backflip King | 255173 | [255173-bmx-backflip-king.json](./255173-bmx-backflip-king.json) |
+| BMX Challenge | 220189 | [220189-bmx-challenge.json](./220189-bmx-challenge.json) |
 | BMX Pipe | 102770 | [102770-bmx-pipe.json](./102770-bmx-pipe.json) |
 | BMX Simulator | 11973 | [11973-bmx-simulator.json](./11973-bmx-simulator.json) |
 | BMX Simulator II: Dirt Biking | 47220 | [47220-bmx-simulator-ii-dirt-biking.json](./47220-bmx-simulator-ii-dirt-biking.json) |
