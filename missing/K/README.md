@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Preschool Puzzles | 323152 | [323152-kids-preschool-puzzles.json](./323152-kids-preschool-puzzles.json) |
 | Kids Puzzle - 2 in 1 Bundle | 231048 | [231048-kids-puzzle-2-in-1-bundle.json](./231048-kids-puzzle-2-in-1-bundle.json) |
 | Kids Station: Digimon Park | 58808 | [58808-kids-station-digimon-park.json](./58808-kids-station-digimon-park.json) |
+| Kids Station: Hello Kitty no Oshaberi ABC | 198926 | [198926-kids-station-hello-kitty-no-oshaberi-abc.json](./198926-kids-station-hello-kitty-no-oshaberi-abc.json) |
 | Kids Station: Hello Kitty no Oshaberi Town | 200556 | [200556-kids-station-hello-kitty-no-oshaberi-town.json](./200556-kids-station-hello-kitty-no-oshaberi-town.json) |
 | Kids Station: Hello Kitty no Ouchi he Oide yo! | 200561 | [200561-kids-station-hello-kitty-no-ouchi-he-oide-yo.json](./200561-kids-station-hello-kitty-no-ouchi-he-oide-yo.json) |
 | Kids Station: Hello Kitty to Album Nikki wo Tsukurimasho! | 200641 | [200641-kids-station-hello-kitty-to-album-nikki-wo-tsukurimasho.json](./200641-kids-station-hello-kitty-to-album-nikki-wo-tsukurimasho.json) |
