@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic: Puzzle Quest | 111748 | [111748-magic-puzzle-quest.json](./111748-magic-puzzle-quest.json) |
 | Magic: The Gathering - Battlegrounds | 5907 | [5907-magic-the-gathering-battlegrounds.json](./5907-magic-the-gathering-battlegrounds.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2015 | 18218 | [18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json](./18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json) |
+| Magica X Magica | 200018 | [200018-magica-x-magica.json](./200018-magica-x-magica.json) |
 | Magicafe | 299127 | [299127-magicafe.json](./299127-magicafe.json) |
 | Magical Beat | 52549 | [52549-magical-beat.json](./52549-magical-beat.json) |
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
@@ -2490,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental | 130347 | [130347-mental.json](./130347-mental.json) |
 | Mental Harm | 235751 | [235751-mental-harm.json](./235751-mental-harm.json) |
 | Mental Hospital IV | 292817 | [292817-mental-hospital-iv.json](./292817-mental-hospital-iv.json) |
+| Mental Hospital V | 200030 | [200030-mental-hospital-v.json](./200030-mental-hospital-v.json) |
 | Mental Salvo | 311659 | [311659-mental-salvo.json](./311659-mental-salvo.json) |
 | Mental: The Dark Night | 236828 | [236828-mental-the-dark-night.json](./236828-mental-the-dark-night.json) |
 | Mentula Macanus: Apocolocyntosis | 22420 | [22420-mentula-macanus-apocolocyntosis.json](./22420-mentula-macanus-apocolocyntosis.json) |
@@ -5946,6 +5948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myrddin | 174361 | [174361-myrddin.json](./174361-myrddin.json) |
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
 | Myrm Emblem | 279784 | [279784-myrm-emblem.json](./279784-myrm-emblem.json) |
+| MyrnEscapes | 200033 | [200033-myrnescapes.json](./200033-myrnescapes.json) |
 | Myrrh | 118375 | [118375-myrrh.json](./118375-myrrh.json) |
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
 | MySims Agents | 5035 | [5035-mysims-agents.json](./5035-mysims-agents.json) |
