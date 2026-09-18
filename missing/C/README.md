@@ -3300,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColonyShip-4: Survivors | 110378 | [110378-colonyship-4-survivors.json](./110378-colonyship-4-survivors.json) |
 | colopl Cyberpong VR | 110303 | [110303-colopl-cyberpong-vr.json](./110303-colopl-cyberpong-vr.json) |
 | Color | 90638 | [90638-color.json](./90638-color.json) |
+| Color Ball | 191131 | [191131-color-ball.json](./191131-color-ball.json) |
 | Color Ball 2018 | 100890 | [100890-color-ball-2018.json](./100890-color-ball-2018.json) |
 | Color Blind: The Game | 231397 | [231397-color-blind-the-game.json](./231397-color-blind-the-game.json) |
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
@@ -5171,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptmaster | 213029 | [213029-cryptmaster.json](./213029-cryptmaster.json) |
 | Crypto Crisis: Education Edition | 292683 | [292683-crypto-crisis-education-edition.json](./292683-crypto-crisis-education-edition.json) |
 | Crypto Fantasy: The Scrolls of Kouga | 335695 | [335695-crypto-fantasy-the-scrolls-of-kouga.json](./335695-crypto-fantasy-the-scrolls-of-kouga.json) |
+| Crypto Miner Tycoon Simulator | 191122 | [191122-crypto-miner-tycoon-simulator.json](./191122-crypto-miner-tycoon-simulator.json) |
 | Crypto Mining | 358295 | [358295-crypto-mining.json](./358295-crypto-mining.json) |
 | Crypto Royale | 225730 | [225730-crypto-royale.json](./225730-crypto-royale.json) |
 | Crypto Rush | 338260 | [338260-crypto-rush.json](./338260-crypto-rush.json) |
