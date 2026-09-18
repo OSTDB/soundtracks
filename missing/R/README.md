@@ -2544,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Risk | 58755 | [58755-robo-risk.json](./58755-robo-risk.json) |
 | Robo Runner | 186157 | [186157-robo-runner.json](./186157-robo-runner.json) |
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
+| Robo-Key | 181803 | [181803-robo-key.json](./181803-robo-key.json) |
 | Robo-Worms | 157673 | [157673-robo-worms.json](./157673-robo-worms.json) |
 | RoBo: The Allectric Idventurer | 211283 | [211283-robo-the-allectric-idventurer.json](./211283-robo-the-allectric-idventurer.json) |
 | Robo50 | 211744 | [211744-robo50.json](./211744-robo50.json) |
