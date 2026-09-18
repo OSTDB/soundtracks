@@ -1884,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us: Crewmate Edition | 155093 | [155093-among-us-crewmate-edition.json](./155093-among-us-crewmate-edition.json) |
 | Among Us: Ejected Edition | 155092 | [155092-among-us-ejected-edition.json](./155092-among-us-ejected-edition.json) |
 | Among Us: Impostor Edition | 155094 | [155094-among-us-impostor-edition.json](./155094-among-us-impostor-edition.json) |
+| Among Walls | 196674 | [196674-among-walls.json](./196674-among-walls.json) |
 | Amorous Professor Cherry | 72634 | [72634-amorous-professor-cherry.json](./72634-amorous-professor-cherry.json) |
 | Amorphous | 128658 | [128658-amorphous.json](./128658-amorphous.json) |
 | Amorphous | 265242 | [265242-amorphous.json](./265242-amorphous.json) |
