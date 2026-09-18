@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fan'cie Veer! (Fish Are Nasty, Cake Is Excellent Vektor Evading Emblazed Rapture) | 105375 | [105375-fancie-veer-fish-are-nasty-cake-is-excellent-vektor-evading-emblazed-rapture.json](./105375-fancie-veer-fish-are-nasty-cake-is-excellent-vektor-evading-emblazed-rapture.json) |
 | Fanatica | 204555 | [204555-fanatica.json](./204555-fanatica.json) |
 | FanaticBlader | 115699 | [115699-fanaticblader.json](./115699-fanaticblader.json) |
+| Fanbots | 183980 | [183980-fanbots.json](./183980-fanbots.json) |
 | Fanciful Diamonds | 359398 | [359398-fanciful-diamonds.json](./359398-fanciful-diamonds.json) |
 | Fancy | 247033 | [247033-fancy.json](./247033-fancy.json) |
 | Fancy Island | 172735 | [172735-fancy-island.json](./172735-fancy-island.json) |
@@ -771,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 19: Platinum Edition | 121755 | [121755-farming-simulator-19-platinum-edition.json](./121755-farming-simulator-19-platinum-edition.json) |
 | Farming Simulator 19: Platinum Expansion | 227361 | [227361-farming-simulator-19-platinum-expansion.json](./227361-farming-simulator-19-platinum-expansion.json) |
 | Farming Simulator 19: Premium Edition | 139999 | [139999-farming-simulator-19-premium-edition.json](./139999-farming-simulator-19-premium-edition.json) |
+| Farming Simulator 2008 2 | 183965 | [183965-farming-simulator-2008-2.json](./183965-farming-simulator-2008-2.json) |
 | Farming Simulator 2011 | 3176 | [3176-farming-simulator-2011.json](./3176-farming-simulator-2011.json) |
 | Farming Simulator 2013 | 3180 | [3180-farming-simulator-2013.json](./3180-farming-simulator-2013.json) |
 | Farming Simulator 22: Case IH Farmall Anniversary Pack | 276271 | [276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json](./276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json) |
@@ -2883,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forget-Me-Not | 397079 | [397079-forget-me-not.json](./397079-forget-me-not.json) |
 | Forget-Me-Not | 47269 | [47269-forget-me-not.json](./47269-forget-me-not.json) |
 | Forget-Me-Not of the Tetragon | 335696 | [335696-forget-me-not-of-the-tetragon.json](./335696-forget-me-not-of-the-tetragon.json) |
+| Forgetting | 183960 | [183960-forgetting.json](./183960-forgetting.json) |
 | Forgetting Emily | 309680 | [309680-forgetting-emily.json](./309680-forgetting-emily.json) |
 | Forging Glory | 132814 | [132814-forging-glory.json](./132814-forging-glory.json) |
 | Forgiveness | 111471 | [111471-forgiveness.json](./111471-forgiveness.json) |
@@ -3118,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foul Repercussion | 337178 | [337178-foul-repercussion.json](./337178-foul-repercussion.json) |
 | Foulbreaker | 290542 | [290542-foulbreaker.json](./290542-foulbreaker.json) |
 | Found it! | 283289 | [283289-found-it.json](./283289-found-it.json) |
+| Found'It | 183994 | [183994-foundit.json](./183994-foundit.json) |
 | Foundation Gold | 69802 | [69802-foundation-gold.json](./69802-foundation-gold.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
 | Founding Paws: How America Began | 409525 | [409525-founding-paws-how-america-began.json](./409525-founding-paws-how-america-began.json) |
