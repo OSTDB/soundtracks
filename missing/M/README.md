@@ -4874,6 +4874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorball | 137599 | [137599-motorball.json](./137599-motorball.json) |
 | Motorbike | 35923 | [35923-motorbike.json](./35923-motorbike.json) |
 | Motorbike Clicker | 337625 | [337625-motorbike-clicker.json](./337625-motorbike-clicker.json) |
+| Motorbike Racing | 217965 | [217965-motorbike-racing.json](./217965-motorbike-racing.json) |
 | Motorbike Racing Triple Pack | 149047 | [149047-motorbike-racing-triple-pack.json](./149047-motorbike-racing-triple-pack.json) |
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
 | Motorcycle Extreme Driver: Moto Racing Simulator | 294836 | [294836-motorcycle-extreme-driver-moto-racing-simulator.json](./294836-motorcycle-extreme-driver-moto-racing-simulator.json) |
