@@ -2391,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Match Saga: Expansion Pack 9 | 167328 | [167328-memory-match-saga-expansion-pack-9.json](./167328-memory-match-saga-expansion-pack-9.json) |
 | Memory Mosaic | 243792 | [243792-memory-mosaic.json](./243792-memory-mosaic.json) |
 | Memory of a Broken Dimension | 24950 | [24950-memory-of-a-broken-dimension.json](./24950-memory-of-a-broken-dimension.json) |
+| Memory of Camping | 224120 | [224120-memory-of-camping.json](./224120-memory-of-camping.json) |
 | Memory of Memorie: A Chill Story | 409654 | [409654-memory-of-memorie-a-chill-story.json](./409654-memory-of-memorie-a-chill-story.json) |
 | Memory of Time | 339123 | [339123-memory-of-time.json](./339123-memory-of-time.json) |
 | Memory Puzzle: Neko Girls | 286496 | [286496-memory-puzzle-neko-girls.json](./286496-memory-puzzle-neko-girls.json) |
@@ -2511,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Town! | 87347 | [87347-merge-town.json](./87347-merge-town.json) |
 | Merge Villa | 227958 | [227958-merge-villa.json](./227958-merge-villa.json) |
 | Merge War: Super Legion Master | 262375 | [262375-merge-war-super-legion-master.json](./262375-merge-war-super-legion-master.json) |
+| Merge Zoo | 224105 | [224105-merge-zoo.json](./224105-merge-zoo.json) |
 | Mergery | 358354 | [358354-mergery.json](./358354-mergery.json) |
 | MergeZ | 300849 | [300849-mergez.json](./300849-mergez.json) |
 | Merica Tale | 367500 | [367500-merica-tale.json](./367500-merica-tale.json) |
@@ -5738,6 +5740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Thai Boyfriend | 291078 | [291078-my-thai-boyfriend.json](./291078-my-thai-boyfriend.json) |
 | My Therapy | 207540 | [207540-my-therapy.json](./207540-my-therapy.json) |
 | My Time at Portia | 43165 | [43165-my-time-at-portia.json](./43165-my-time-at-portia.json) |
+| My Time at Portia: Deluxe Edition | 224111 | [224111-my-time-at-portia-deluxe-edition.json](./224111-my-time-at-portia-deluxe-edition.json) |
 | My Time at Sandrock: Builder's Beach and Ball Clothing Pack | 275107 | [275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json](./275107-my-time-at-sandrock-builders-beach-and-ball-clothing-pack.json) |
 | My Time at Sandrock: Interior Decorator Pack | 275106 | [275106-my-time-at-sandrock-interior-decorator-pack.json](./275106-my-time-at-sandrock-interior-decorator-pack.json) |
 | My Time at Sandrock: Online | 306487 | [306487-my-time-at-sandrock-online.json](./306487-my-time-at-sandrock-online.json) |
