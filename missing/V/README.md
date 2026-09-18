@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viewtiful Joe 2 | 4230 | [4230-viewtiful-joe-2.json](./4230-viewtiful-joe-2.json) |
 | Vifa | 379374 | [379374-vifa.json](./379374-vifa.json) |
 | Vigaro Runner 2: Return | 338569 | [338569-vigaro-runner-2-return.json](./338569-vigaro-runner-2-return.json) |
+| Vigil | 185032 | [185032-vigil.json](./185032-vigil.json) |
 | Vigilant Inquest | 309659 | [309659-vigilant-inquest.json](./309659-vigilant-inquest.json) |
 | Vigilante 8 | 3332 | [3332-vigilante-8.json](./3332-vigilante-8.json) |
 | Vigilantes | 25597 | [25597-vigilantes.json](./25597-vigilantes.json) |
@@ -613,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigor Chronicles: Reckoning | 235312 | [235312-vigor-chronicles-reckoning.json](./235312-vigor-chronicles-reckoning.json) |
 | Vigor: Battle-Hardened Merc | 301570 | [301570-vigor-battle-hardened-merc.json](./301570-vigor-battle-hardened-merc.json) |
 | Vigor: The Last King Of DayZ | 301571 | [301571-vigor-the-last-king-of-dayz.json](./301571-vigor-the-last-king-of-dayz.json) |
+| Vigtafl | 185036 | [185036-vigtafl.json](./185036-vigtafl.json) |
 | Viki Spotter: Around The World | 89962 | [89962-viki-spotter-around-the-world.json](./89962-viki-spotter-around-the-world.json) |
 | Viki Spotter: Camping | 105366 | [105366-viki-spotter-camping.json](./105366-viki-spotter-camping.json) |
 | Viki Spotter: School | 89609 | [89609-viki-spotter-school.json](./89609-viki-spotter-school.json) |
