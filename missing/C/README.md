@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Fishing | 337457 | [337457-chill-fishing.json](./337457-chill-fishing.json) |
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
 | Chill Out | 413050 | [413050-chill-out.json](./413050-chill-out.json) |
+| Chill Pill | 185513 | [185513-chill-pill.json](./185513-chill-pill.json) |
 | Chill Planet | 376595 | [376595-chill-planet.json](./376595-chill-planet.json) |
 | Chill Seekers | 267108 | [267108-chill-seekers.json](./267108-chill-seekers.json) |
 | Chill Town | 212814 | [212814-chill-town.json](./212814-chill-town.json) |
@@ -2700,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clanswoman | 264598 | [264598-clanswoman.json](./264598-clanswoman.json) |
 | Clappy Cheeks: Lust and Magic | 379351 | [379351-clappy-cheeks-lust-and-magic.json](./379351-clappy-cheeks-lust-and-magic.json) |
 | Clara Rockmore’s 105th Birthday | 375819 | [375819-clara-rockmore-s-105th-birthday.json](./375819-clara-rockmore-s-105th-birthday.json) |
+| Clara Stirzaker and the Crypt of Time | 185524 | [185524-clara-stirzaker-and-the-crypt-of-time.json](./185524-clara-stirzaker-and-the-crypt-of-time.json) |
 | Clarc | 11047 | [11047-clarc.json](./11047-clarc.json) |
 | Clarence Goes to the F%ing Store | 166700 | [166700-clarence-goes-to-the-f-ing-store.json](./166700-clarence-goes-to-the-f-ing-store.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
@@ -3321,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
 | Color by Numbers - Christmas + | 87178 | [87178-color-by-numbers-christmas.json](./87178-color-by-numbers-christmas.json) |
 | Color Cingdom | 334788 | [334788-color-cingdom.json](./334788-color-cingdom.json) |
+| Color Course | 185528 | [185528-color-course.json](./185528-color-course.json) |
 | Color Cube Spin | 28845 | [28845-color-cube-spin.json](./28845-color-cube-spin.json) |
 | Color Dark Castle | 334678 | [334678-color-dark-castle.json](./334678-color-dark-castle.json) |
 | Color DJ | 265418 | [265418-color-dj.json](./265418-color-dj.json) |
