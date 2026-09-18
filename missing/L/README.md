@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Death Demonicron | 310761 | [310761-lady-death-demonicron.json](./310761-lady-death-demonicron.json) |
 | Lady Gaga Revenge 2 | 66039 | [66039-lady-gaga-revenge-2.json](./66039-lady-gaga-revenge-2.json) |
 | Lady Godiva: Naked Eye | 310741 | [310741-lady-godiva-naked-eye.json](./310741-lady-godiva-naked-eye.json) |
+| Lady in tomb: Beneath the ocean | 220749 | [220749-lady-in-tomb-beneath-the-ocean.json](./220749-lady-in-tomb-beneath-the-ocean.json) |
 | Lady Pac | 185165 | [185165-lady-pac.json](./185165-lady-pac.json) |
 | Lady Sword: Ryakudatsusareta 10-nin no Otome | 42050 | [42050-lady-sword-ryakudatsusareta-10-nin-no-otome.json](./42050-lady-sword-ryakudatsusareta-10-nin-no-otome.json) |
 | Lady Thalia and the Masterpiece of Moldavia | 290396 | [290396-lady-thalia-and-the-masterpiece-of-moldavia.json](./290396-lady-thalia-and-the-masterpiece-of-moldavia.json) |
