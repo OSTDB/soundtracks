@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Stay Night: First Press Limited Edition | 307303 | [307303-fate-stay-night-first-press-limited-edition.json](./307303-fate-stay-night-first-press-limited-edition.json) |
 | Fate/Stay Night: Réalta Nua - Fate | 47067 | [47067-fate-stay-night-realta-nua-fate.json](./47067-fate-stay-night-realta-nua-fate.json) |
 | Fate/Zero the Visual Novel | 297459 | [297459-fate-zero-the-visual-novel.json](./297459-fate-zero-the-visual-novel.json) |
+| Fatebreak | 181244 | [181244-fatebreak.json](./181244-fatebreak.json) |
 | Fatec's Out | 132274 | [132274-fatecs-out.json](./132274-fatecs-out.json) |
 | Fated | 184069 | [184069-fated.json](./184069-fated.json) |
 | Fated Kingdom | 97111 | [97111-fated-kingdom.json](./97111-fated-kingdom.json) |
@@ -2542,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Frogs | 301991 | [301991-flying-frogs.json](./301991-flying-frogs.json) |
 | Flying Guys | 361741 | [361741-flying-guys.json](./361741-flying-guys.json) |
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
+| Flying Kick | 181237 | [181237-flying-kick.json](./181237-flying-kick.json) |
 | Flying Motorcycle Simulator Pro | 87258 | [87258-flying-motorcycle-simulator-pro.json](./87258-flying-motorcycle-simulator-pro.json) |
 | Flying Saucer | 358845 | [358845-flying-saucer.json](./358845-flying-saucer.json) |
 | Flying Soldiers | 146863 | [146863-flying-soldiers.json](./146863-flying-soldiers.json) |
@@ -3535,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
+| Frog King | 181219 | [181219-frog-king.json](./181219-frog-king.json) |
 | Frog King | 289452 | [289452-frog-king.json](./289452-frog-king.json) |
 | Frog Legs | 337730 | [337730-frog-legs.json](./337730-frog-legs.json) |
 | Frog Minutes | 66061 | [66061-frog-minutes.json](./66061-frog-minutes.json) |
