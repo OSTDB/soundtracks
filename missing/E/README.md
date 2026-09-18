@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ElementForger | 220751 | [220751-elementforger.json](./220751-elementforger.json) |
 | Elementis | 138737 | [138737-elementis.json](./138737-elementis.json) |
 | Elementis TD | 411721 | [411721-elementis-td.json](./411721-elementis-td.json) |
+| Elementite | 187391 | [187391-elementite.json](./187391-elementite.json) |
 | Elementium | 83562 | [83562-elementium.json](./83562-elementium.json) |
 | Elemento 23 | 265753 | [265753-elemento-23.json](./265753-elemento-23.json) |
 | Elementowers | 152841 | [152841-elementowers.json](./152841-elementowers.json) |
@@ -2112,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exercise Book Epic | 90659 | [90659-exercise-book-epic.json](./90659-exercise-book-epic.json) |
 | ExerciseSimulator Vol.1 | 309666 | [309666-exercisesimulator-vol-1.json](./309666-exercisesimulator-vol-1.json) |
 | Exerion II: Zorni | 37189 | [37189-exerion-ii-zorni.json](./37189-exerion-ii-zorni.json) |
+| Exes Assault!! | 187397 | [187397-exes-assault.json](./187397-exes-assault.json) |
 | Exfiltrator: Cyber Stealth Missions | 204464 | [204464-exfiltrator-cyber-stealth-missions.json](./204464-exfiltrator-cyber-stealth-missions.json) |
 | Exhibit of Sorrows | 321126 | [321126-exhibit-of-sorrows.json](./321126-exhibit-of-sorrows.json) |
 | Exhibition | 60014 | [60014-exhibition.json](./60014-exhibition.json) |
