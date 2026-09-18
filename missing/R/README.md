@@ -652,18 +652,43 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RayForce | 22349 | [22349-rayforce.json](./22349-rayforce.json) |
 | Raygraze | 196323 | [196323-raygraze.json](./196323-raygraze.json) |
 | RaylaX | 97848 | [97848-raylax.json](./97848-raylax.json) |
+| Rayman | 193322 | [193322-rayman.json](./193322-rayman.json) |
+| Rayman | 193324 | [193324-rayman.json](./193324-rayman.json) |
 | Rayman | 1963 | [1963-rayman.json](./1963-rayman.json) |
+| Rayman 1 & Rayman 2 Double Pack | 193342 | [193342-rayman-1-and-rayman-2-double-pack.json](./193342-rayman-1-and-rayman-2-double-pack.json) |
+| Rayman 100 Levels | 193337 | [193337-rayman-100-levels.json](./193337-rayman-100-levels.json) |
+| Rayman 10th Anniversary | 193353 | [193353-rayman-10th-anniversary.json](./193353-rayman-10th-anniversary.json) |
+| Rayman 10th Anniversary | 193354 | [193354-rayman-10th-anniversary.json](./193354-rayman-10th-anniversary.json) |
 | Rayman 10th Anniversary | 43339 | [43339-rayman-10th-anniversary.json](./43339-rayman-10th-anniversary.json) |
+| Rayman 10th Anniversary Collection | 193355 | [193355-rayman-10th-anniversary-collection.json](./193355-rayman-10th-anniversary-collection.json) |
+| Rayman 2 | 193316 | [193316-rayman-2.json](./193316-rayman-2.json) |
+| Rayman 2 | 193317 | [193317-rayman-2.json](./193317-rayman-2.json) |
 | Rayman 2: The Great Escape | 193313 | [193313-rayman-2-the-great-escape.json](./193313-rayman-2-the-great-escape.json) |
 | Rayman 2: The Great Escape | 193314 | [193314-rayman-2-the-great-escape.json](./193314-rayman-2-the-great-escape.json) |
 | Rayman 2: The Great Escape | 193315 | [193315-rayman-2-the-great-escape.json](./193315-rayman-2-the-great-escape.json) |
+| Rayman 3 | 193325 | [193325-rayman-3.json](./193325-rayman-3.json) |
+| Rayman 3 | 193326 | [193326-rayman-3.json](./193326-rayman-3.json) |
 | Rayman 3 HD | 47449 | [47449-rayman-3-hd.json](./47449-rayman-3-hd.json) |
+| Rayman 3-Pack | 193343 | [193343-rayman-3-pack.json](./193343-rayman-3-pack.json) |
+| Rayman 3: Hoodlum Havoc | 193331 | [193331-rayman-3-hoodlum-havoc.json](./193331-rayman-3-hoodlum-havoc.json) |
 | Rayman 3: Hoodlum Havoc Print Studio | 61654 | [61654-rayman-3-hoodlum-havoc-print-studio.json](./61654-rayman-3-hoodlum-havoc-print-studio.json) |
 | Rayman 3D | 20585 | [20585-rayman-3d.json](./20585-rayman-3d.json) |
+| Rayman 4 | 193361 | [193361-rayman-4.json](./193361-rayman-4.json) |
 | Rayman 4 You | 178599 | [178599-rayman-4-you.json](./178599-rayman-4-you.json) |
+| Rayman 60 Levels | 193336 | [193336-rayman-60-levels.json](./193336-rayman-60-levels.json) |
+| Rayman Adventures | 193360 | [193360-rayman-adventures.json](./193360-rayman-adventures.json) |
 | Rayman Adventures | 20032 | [20032-rayman-adventures.json](./20032-rayman-adventures.json) |
 | Rayman and Rabbids Family Pack | 56449 | [56449-rayman-and-rabbids-family-pack.json](./56449-rayman-and-rabbids-family-pack.json) |
+| Rayman Arena | 193351 | [193351-rayman-arena.json](./193351-rayman-arena.json) |
 | Rayman By His Fans | 61097 | [61097-rayman-by-his-fans.json](./61097-rayman-by-his-fans.json) |
+| Rayman Classic | 193319 | [193319-rayman-classic.json](./193319-rayman-classic.json) |
+| Rayman Collection | 193356 | [193356-rayman-collection.json](./193356-rayman-collection.json) |
+| Rayman Collection | 193357 | [193357-rayman-collection.json](./193357-rayman-collection.json) |
+| Rayman Collection | 193358 | [193358-rayman-collection.json](./193358-rayman-collection.json) |
+| Rayman Collector | 193335 | [193335-rayman-collector.json](./193335-rayman-collector.json) |
+| Rayman Collectors Edition | 193341 | [193341-rayman-collectors-edition.json](./193341-rayman-collectors-edition.json) |
+| Rayman Compilation | 193339 | [193339-rayman-compilation.json](./193339-rayman-compilation.json) |
+| Rayman Funpack | 193340 | [193340-rayman-funpack.json](./193340-rayman-funpack.json) |
 | Rayman Garden | 61095 | [61095-rayman-garden.json](./61095-rayman-garden.json) |
 | Rayman Gold | 61096 | [61096-rayman-gold.json](./61096-rayman-gold.json) |
 | Rayman Golf | 61094 | [61094-rayman-golf.json](./61094-rayman-golf.json) |
@@ -672,12 +697,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Legends Challenges App | 2925 | [2925-rayman-legends-challenges-app.json](./2925-rayman-legends-challenges-app.json) |
 | Rayman Mini | 122560 | [122560-rayman-mini.json](./122560-rayman-mini.json) |
 | Rayman Origins | 288944 | [288944-rayman-origins.json](./288944-rayman-origins.json) |
+| Rayman Raving Rabbids | 193362 | [193362-rayman-raving-rabbids.json](./193362-rayman-raving-rabbids.json) |
+| Rayman Raving Rabbids | 193363 | [193363-rayman-raving-rabbids.json](./193363-rayman-raving-rabbids.json) |
+| Rayman Raving Rabbids | 193366 | [193366-rayman-raving-rabbids.json](./193366-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids | 254520 | [254520-rayman-raving-rabbids.json](./254520-rayman-raving-rabbids.json) |
+| Rayman Raving Rabbids 2 | 193364 | [193364-rayman-raving-rabbids-2.json](./193364-rayman-raving-rabbids-2.json) |
+| Rayman Raving Rabbids Activity Centre | 193368 | [193368-rayman-raving-rabbids-activity-centre.json](./193368-rayman-raving-rabbids-activity-centre.json) |
+| Rayman Raving Rabbids TV Party | 193365 | [193365-rayman-raving-rabbids-tv-party.json](./193365-rayman-raving-rabbids-tv-party.json) |
+| Rayman Raving Rabbids TV Party | 193367 | [193367-rayman-raving-rabbids-tv-party.json](./193367-rayman-raving-rabbids-tv-party.json) |
 | Rayman Raving Rabbids: TV Party | 5117 | [5117-rayman-raving-rabbids-tv-party.json](./5117-rayman-raving-rabbids-tv-party.json) |
 | Rayman ReDesigner | 227926 | [227926-rayman-redesigner.json](./227926-rayman-redesigner.json) |
 | Rayman Rush | 86216 | [86216-rayman-rush.json](./86216-rayman-rush.json) |
 | Rayman the Fan Series Adventure | 331695 | [331695-rayman-the-fan-series-adventure.json](./331695-rayman-the-fan-series-adventure.json) |
 | Rayman the Fan Series Adventure 2: Curse of the Jade Lum | 331696 | [331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json](./331696-rayman-the-fan-series-adventure-2-curse-of-the-jade-lum.json) |
+| Rayman Ultimate | 193323 | [193323-rayman-ultimate.json](./193323-rayman-ultimate.json) |
 | RaynGames | 355087 | [355087-rayngames.json](./355087-rayngames.json) |
 | RayStorm | 45089 | [45089-raystorm.json](./45089-raystorm.json) |
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
