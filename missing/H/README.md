@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
 | Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
 | Haywire | 180825 | [180825-haywire.json](./180825-haywire.json) |
+| Haywire Hospital | 233639 | [233639-haywire-hospital.json](./233639-haywire-hospital.json) |
 | Hazar | 384068 | [384068-hazar.json](./384068-hazar.json) |
 | Hazard Hill Idle | 247602 | [247602-hazard-hill-idle.json](./247602-hazard-hill-idle.json) |
 | Hazard Level | 177007 | [177007-hazard-level.json](./177007-hazard-level.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-5: Fun & Games | 274993 | [274993-hi-5-fun-and-games.json](./274993-hi-5-fun-and-games.json) |
 | Hi-5: Fun Club | 274992 | [274992-hi-5-fun-club.json](./274992-hi-5-fun-club.json) |
 | Hi-Fi Rush | 233585 | [233585-hi-fi-rush.json](./233585-hi-fi-rush.json) |
+| Hi-Fi Rush: Deluxe Edition | 233614 | [233614-hi-fi-rush-deluxe-edition.json](./233614-hi-fi-rush-deluxe-edition.json) |
 | Hi-Fi Rush: Teamplay Costume Pack | 275615 | [275615-hi-fi-rush-teamplay-costume-pack.json](./275615-hi-fi-rush-teamplay-costume-pack.json) |
 | Hi-Fi Rush: Traditional Garb Costume Pack | 255966 | [255966-hi-fi-rush-traditional-garb-costume-pack.json](./255966-hi-fi-rush-traditional-garb-costume-pack.json) |
 | Hi-Flyer | 91362 | [91362-hi-flyer.json](./91362-hi-flyer.json) |
@@ -2648,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Step Sing! Happy People | 165713 | [165713-hop-step-sing-happy-people.json](./165713-hop-step-sing-happy-people.json) |
 | Hop Step Sing! Kiss x Kiss x Kiss | 43182 | [43182-hop-step-sing-kiss-x-kiss-x-kiss.json](./43182-hop-step-sing-kiss-x-kiss-x-kiss.json) |
 | Hop Step Sing! Summer Live 2023 | 340483 | [340483-hop-step-sing-summer-live-2023.json](./340483-hop-step-sing-summer-live-2023.json) |
+| Hop Swap | 233595 | [233595-hop-swap.json](./233595-hop-swap.json) |
 | Hop Top | 289472 | [289472-hop-top.json](./289472-hop-top.json) |
 | Hop: The Movie | 254792 | [254792-hop-the-movie.json](./254792-hop-the-movie.json) |
 | Hop'N'Hoard | 394846 | [394846-hopnhoard.json](./394846-hopnhoard.json) |
