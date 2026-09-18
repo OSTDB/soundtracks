@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo | 2856 | [2856-scooby-doo.json](./2856-scooby-doo.json) |
 | Scooby-Doo 2: Monsters Unleashed - Escape from the Coolsonian | 327821 | [327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json](./327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json) |
 | Scooby-Doo and the Mystery of the Castle | 220107 | [220107-scooby-doo-and-the-mystery-of-the-castle.json](./220107-scooby-doo-and-the-mystery-of-the-castle.json) |
+| Scooby-Doo DVD Game: Funland of Freaky Frights | 231471 | [231471-scooby-doo-dvd-game-funland-of-freaky-frights.json](./231471-scooby-doo-dvd-game-funland-of-freaky-frights.json) |
 | Scooby-Doo Mystery Cases | 87730 | [87730-scooby-doo-mystery-cases.json](./87730-scooby-doo-mystery-cases.json) |
 | Scooby-Doo: Case File 1 - The Glowing Bug Man | 78685 | [78685-scooby-doo-case-file-1-the-glowing-bug-man.json](./78685-scooby-doo-case-file-1-the-glowing-bug-man.json) |
 | Scooby-Doo! & Looney Tunes Cartoon Universe: Arcade | 247599 | [247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json](./247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json) |
@@ -1618,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street Mecha Builders | 342765 | [342765-sesame-street-mecha-builders.json](./342765-sesame-street-mecha-builders.json) |
 | Sesame Street Sports | 49916 | [49916-sesame-street-sports.json](./49916-sesame-street-sports.json) |
 | Sesame Street: 1-2-3 | 78035 | [78035-sesame-street-1-2-3.json](./78035-sesame-street-1-2-3.json) |
+| Sesame Street: Elmo and Abby Nature Explorers | 231465 | [231465-sesame-street-elmo-and-abby-nature-explorers.json](./231465-sesame-street-elmo-and-abby-nature-explorers.json) |
 | Sesame Street: Elmo Says | 384072 | [384072-sesame-street-elmo-says.json](./384072-sesame-street-elmo-says.json) |
 | Sesame Street: Elmo's 123s | 49934 | [49934-sesame-street-elmos-123s.json](./49934-sesame-street-elmos-123s.json) |
 | Sesame Street: Elmo's ABCs | 49933 | [49933-sesame-street-elmos-abcs.json](./49933-sesame-street-elmos-abcs.json) |
@@ -2354,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Imagine | 72672 | [72672-shin-megami-tensei-imagine.json](./72672-shin-megami-tensei-imagine.json) |
 | Shin Megami Tensei: Strange Journey | 15467 | [15467-shin-megami-tensei-strange-journey.json](./15467-shin-megami-tensei-strange-journey.json) |
 | Shin Nekketsu Kouha Kunio-kun: Kunio-tachi no Banka | 46584 | [46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json](./46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json) |
+| Shin Nippon Pro Wrestling: Gekitou Densetsu | 231519 | [231519-shin-nippon-pro-wrestling-gekitou-densetsu.json](./231519-shin-nippon-pro-wrestling-gekitou-densetsu.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden 2 | 43876 | [43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json](./43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json) |
 | Shin Nobunaga no Yabou | 208939 | [208939-shin-nobunaga-no-yabou.json](./208939-shin-nobunaga-no-yabou.json) |
 | Shin Pokémon: Blue Version | 275103 | [275103-shin-pokemon-blue-version.json](./275103-shin-pokemon-blue-version.json) |
@@ -2953,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Malfeasant | 345001 | [345001-silver-malfeasant.json](./345001-silver-malfeasant.json) |
 | Silver Millennium | 40251 | [40251-silver-millennium.json](./40251-silver-millennium.json) |
 | Silver Palace | 343335 | [343335-silver-palace.json](./343335-silver-palace.json) |
+| Silver Sonic: Rise of the Death Egg | 231467 | [231467-silver-sonic-rise-of-the-death-egg.json](./231467-silver-sonic-rise-of-the-death-egg.json) |
 | Silver Sonic: The Crystal Islands | 302142 | [302142-silver-sonic-the-crystal-islands.json](./302142-silver-sonic-the-crystal-islands.json) |
 | Silver Star Japan Table Games | 144997 | [144997-silver-star-japan-table-games.json](./144997-silver-star-japan-table-games.json) |
 | Silver Star Reversi | 67963 | [67963-silver-star-reversi.json](./67963-silver-star-reversi.json) |
@@ -5155,6 +5159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophie's World | 73234 | [73234-sophies-world.json](./73234-sophies-world.json) |
 | Sora no Iro, Mizu no Iro | 72718 | [72718-sora-no-iro-mizu-no-iro.json](./72718-sora-no-iro-mizu-no-iro.json) |
 | Sora o Aogite Kumo Takaku | 62733 | [62733-sora-o-aogite-kumo-takaku.json](./62733-sora-o-aogite-kumo-takaku.json) |
+| Sora Tobu Henry | 231506 | [231506-sora-tobu-henry.json](./231506-sora-tobu-henry.json) |
 | Sora: Blue Sky Edition | 54386 | [54386-sora-blue-sky-edition.json](./54386-sora-blue-sky-edition.json) |
 | Sora: Songs of the Stone | 403724 | [403724-sora-songs-of-the-stone.json](./403724-sora-songs-of-the-stone.json) |
 | Soraja Towers | 300721 | [300721-soraja-towers.json](./300721-soraja-towers.json) |
@@ -8997,6 +9002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Outbreak | 198557 | [198557-super-mario-outbreak.json](./198557-super-mario-outbreak.json) |
 | Super Mario Panic | 331984 | [331984-super-mario-panic.json](./331984-super-mario-panic.json) |
 | Super Mario Prostate Exam | 323900 | [323900-super-mario-prostate-exam.json](./323900-super-mario-prostate-exam.json) |
+| Super Mario RPG 2 | 231474 | [231474-super-mario-rpg-2.json](./231474-super-mario-rpg-2.json) |
 | Super Mario RPG: Legend of the Seven Stars | 5418 | [5418-super-mario-rpg-legend-of-the-seven-stars.json](./5418-super-mario-rpg-legend-of-the-seven-stars.json) |
 | Super Mario RPG: The Starlite Worlds | 175887 | [175887-super-mario-rpg-the-starlite-worlds.json](./175887-super-mario-rpg-the-starlite-worlds.json) |
 | Super Mario Senseless Delirium | 199032 | [199032-super-mario-senseless-delirium.json](./199032-super-mario-senseless-delirium.json) |
@@ -9133,6 +9139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
 | Super Pads: Become a DJ | 96776 | [96776-super-pads-become-a-dj.json](./96776-super-pads-become-a-dj.json) |
 | Super Panic Monsters | 71510 | [71510-super-panic-monsters.json](./71510-super-panic-monsters.json) |
+| Super Paper Mario | 231489 | [231489-super-paper-mario.json](./231489-super-paper-mario.json) |
 | Super Paper Mario: Hard Mode - Rubies & Magic | 344918 | [344918-super-paper-mario-hard-mode-rubies-and-magic.json](./344918-super-paper-mario-hard-mode-rubies-and-magic.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
 | Super Party Sports: Football | 21315 | [21315-super-party-sports-football.json](./21315-super-party-sports-football.json) |
@@ -9142,6 +9149,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pika Land | 50554 | [50554-super-pika-land.json](./50554-super-pika-land.json) |
 | Super Pinball | 64353 | [64353-super-pinball.json](./64353-super-pinball.json) |
 | Super Pinball II: The Amazing Odyssey | 38272 | [38272-super-pinball-ii-the-amazing-odyssey.json](./38272-super-pinball-ii-the-amazing-odyssey.json) |
+| Super Pinkie World | 231496 | [231496-super-pinkie-world.json](./231496-super-pinkie-world.json) |
+| Super Pinkie World 2 | 231497 | [231497-super-pinkie-world-2.json](./231497-super-pinkie-world-2.json) |
+| Super Pinkie World 3 | 231498 | [231498-super-pinkie-world-3.json](./231498-super-pinkie-world-3.json) |
 | Super Pixel Racers | 111185 | [111185-super-pixel-racers.json](./111185-super-pixel-racers.json) |
 | Super Pixelander | 124757 | [124757-super-pixelander.json](./124757-super-pixelander.json) |
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
