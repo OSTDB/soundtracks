@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bennett Foddy's Speed Chess | 342167 | [342167-bennett-foddys-speed-chess.json](./342167-bennett-foddys-speed-chess.json) |
 | Bennu Bennu: Protect the Pyramid | 253378 | [253378-bennu-bennu-protect-the-pyramid.json](./253378-bennu-bennu-protect-the-pyramid.json) |
 | Benny's Backrooms | 303109 | [303109-bennys-backrooms.json](./303109-bennys-backrooms.json) |
+| Bent on Destruction | 195648 | [195648-bent-on-destruction.json](./195648-bent-on-destruction.json) |
 | Bento Bugs | 329354 | [329354-bento-bugs.json](./329354-bento-bugs.json) |
 | Bepuzzled Jigsaw Puzzle: Aquatic | 241662 | [241662-bepuzzled-jigsaw-puzzle-aquatic.json](./241662-bepuzzled-jigsaw-puzzle-aquatic.json) |
 | Bepuzzled Jigsaw Puzzle: Japan | 241658 | [241658-bepuzzled-jigsaw-puzzle-japan.json](./241658-bepuzzled-jigsaw-puzzle-japan.json) |
@@ -2063,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bicolor | 208385 | [208385-bicolor.json](./208385-bicolor.json) |
 | BiColor: Lazy Eye Game Trainer | 360672 | [360672-bicolor-lazy-eye-game-trainer.json](./360672-bicolor-lazy-eye-game-trainer.json) |
 | Bicycle Casino | 5747 | [5747-bicycle-casino.json](./5747-bicycle-casino.json) |
+| Bicycle Rider Simulator | 195612 | [195612-bicycle-rider-simulator.json](./195612-bicycle-rider-simulator.json) |
 | Bicycle Tour | 234606 | [234606-bicycle-tour.json](./234606-bicycle-tour.json) |
 | Bienvenue à la cosy académie | 129135 | [129135-bienvenue-a-la-cosy-academie.json](./129135-bienvenue-a-la-cosy-academie.json) |
 | Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
@@ -3259,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Fish Yokohama | 212824 | [212824-blue-fish-yokohama.json](./212824-blue-fish-yokohama.json) |
 | Blue Forest Story: Kaze no Fuuin | 37204 | [37204-blue-forest-story-kaze-no-fuuin.json](./37204-blue-forest-story-kaze-no-fuuin.json) |
 | Blue Horizon | 23930 | [23930-blue-horizon.json](./23930-blue-horizon.json) |
+| Blue Jay Joyride | 195628 | [195628-blue-jay-joyride.json](./195628-blue-jay-joyride.json) |
 | Blue June | 153405 | [153405-blue-june.json](./153405-blue-june.json) |
 | Blue Lemon | 126656 | [126656-blue-lemon.json](./126656-blue-lemon.json) |
 | Blue Mint | 340216 | [340216-blue-mint.json](./340216-blue-mint.json) |
