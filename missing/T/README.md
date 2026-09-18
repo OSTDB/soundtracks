@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Windy Land | 66046 | [66046-tales-of-windy-land.json](./66046-tales-of-windy-land.json) |
 | Tales of Xillia | 1212 | [1212-tales-of-xillia.json](./1212-tales-of-xillia.json) |
 | Tales of Xillia Remastered: Super Growth Support Herb Set | 375173 | [375173-tales-of-xillia-remastered-super-growth-support-herb-set.json](./375173-tales-of-xillia-remastered-super-growth-support-herb-set.json) |
+| Tales of Yore | 186162 | [186162-tales-of-yore.json](./186162-tales-of-yore.json) |
 | Tales of Zizada | 379440 | [379440-tales-of-zizada.json](./379440-tales-of-zizada.json) |
 | Tales to Enjoy! Little Red Riding Hood | 85428 | [85428-tales-to-enjoy-little-red-riding-hood.json](./85428-tales-to-enjoy-little-red-riding-hood.json) |
 | Tales to Enjoy! Puss In Boots | 85427 | [85427-tales-to-enjoy-puss-in-boots.json](./85427-tales-to-enjoy-puss-in-boots.json) |
@@ -1517,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris: Rosy Retrospection | 247519 | [247519-tetris-rosy-retrospection.json](./247519-tetris-rosy-retrospection.json) |
 | Tetro Runner | 386245 | [386245-tetro-runner.json](./386245-tetro-runner.json) |
 | Tetrogue | 413659 | [413659-tetrogue.json](./413659-tetrogue.json) |
+| Tetromino Chill | 186197 | [186197-tetromino-chill.json](./186197-tetromino-chill.json) |
 | Tetromino X | 190227 | [190227-tetromino-x.json](./190227-tetromino-x.json) |
 | TetroMosaic, Unicorn | 378785 | [378785-tetromosaic-unicorn.json](./378785-tetromosaic-unicorn.json) |
 | Tetron | 153411 | [153411-tetron.json](./153411-tetron.json) |
@@ -3651,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Zone | 369123 | [369123-the-last-zone.json](./369123-the-last-zone.json) |
 | The Late D. Flate's Great Estate | 188090 | [188090-the-late-d-flates-great-estate.json](./188090-the-late-d-flates-great-estate.json) |
 | The Lattice Grimoire | 120396 | [120396-the-lattice-grimoire.json](./120396-the-lattice-grimoire.json) |
+| The Law | 186173 | [186173-the-law.json](./186173-the-law.json) |
 | The Lawnmower Man | 388206 | [388206-the-lawnmower-man.json](./388206-the-lawnmower-man.json) |
 | The Leak | 270109 | [270109-the-leak.json](./270109-the-leak.json) |
 | The Ledge | 262425 | [262425-the-ledge.json](./262425-the-ledge.json) |
@@ -4404,6 +4407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phantom Agent | 313873 | [313873-the-phantom-agent.json](./313873-the-phantom-agent.json) |
 | The Phantom Thief Stina and 30 Jewels | 85438 | [85438-the-phantom-thief-stina-and-30-jewels.json](./85438-the-phantom-thief-stina-and-30-jewels.json) |
 | The Photo of God | 341467 | [341467-the-photo-of-god.json](./341467-the-photo-of-god.json) |
+| The Pig: Money Is Time | 186183 | [186183-the-pig-money-is-time.json](./186183-the-pig-money-is-time.json) |
 | The Pigeon Quiz | 219048 | [219048-the-pigeon-quiz.json](./219048-the-pigeon-quiz.json) |
 | The Pilgrim | 121634 | [121634-the-pilgrim.json](./121634-the-pilgrim.json) |
 | The Pilgrim's Progress: The Video Game | 61109 | [61109-the-pilgrims-progress-the-video-game.json](./61109-the-pilgrims-progress-the-video-game.json) |
@@ -5058,6 +5062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stickman | 341027 | [341027-the-stickman.json](./341027-the-stickman.json) |
 | The Sticky Plan | 183577 | [183577-the-sticky-plan.json](./183577-the-sticky-plan.json) |
 | The Sting! | 11851 | [11851-the-sting.json](./11851-the-sting.json) |
+| The Stone of Anamara: First Chapter | 186145 | [186145-the-stone-of-anamara-first-chapter.json](./186145-the-stone-of-anamara-first-chapter.json) |
 | The Stone of Destiny | 284322 | [284322-the-stone-of-destiny.json](./284322-the-stone-of-destiny.json) |
 | The Stone of God | 165659 | [165659-the-stone-of-god.json](./165659-the-stone-of-god.json) |
 | The Stone of Sisyphus | 24902 | [24902-the-stone-of-sisyphus.json](./24902-the-stone-of-sisyphus.json) |
@@ -5159,6 +5164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tales of Bearsworth Manor: Puzzling Pages | 85446 | [85446-the-tales-of-bearsworth-manor-puzzling-pages.json](./85446-the-tales-of-bearsworth-manor-puzzling-pages.json) |
 | The Tales of the Magical Space Dough: Rebaked | 379439 | [379439-the-tales-of-the-magical-space-dough-rebaked.json](./379439-the-tales-of-the-magical-space-dough-rebaked.json) |
 | The Tales of Wonderlend | 379441 | [379441-the-tales-of-wonderlend.json](./379441-the-tales-of-wonderlend.json) |
+| The Tall Wall Falls: The Inner Gate's Last Stand | 186171 | [186171-the-tall-wall-falls-the-inner-gates-last-stand.json](./186171-the-tall-wall-falls-the-inner-gates-last-stand.json) |
 | The Talos Principle II: Devolver Deluxe Edition | 284476 | [284476-the-talos-principle-ii-devolver-deluxe-edition.json](./284476-the-talos-principle-ii-devolver-deluxe-edition.json) |
 | The Talos Principle II: Road to Elysium | 305040 | [305040-the-talos-principle-ii-road-to-elysium.json](./305040-the-talos-principle-ii-road-to-elysium.json) |
 | The Talos Principle III | 401496 | [401496-the-talos-principle-iii.json](./401496-the-talos-principle-iii.json) |
