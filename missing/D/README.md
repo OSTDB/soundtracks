@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Snake | 89138 | [89138-dancing-snake.json](./89138-dancing-snake.json) |
 | Dancing Stage | 67248 | [67248-dancing-stage.json](./67248-dancing-stage.json) |
 | Dancing Stage featuring True Kiss Destination | 132805 | [132805-dancing-stage-featuring-true-kiss-destination.json](./132805-dancing-stage-featuring-true-kiss-destination.json) |
+| Dancing Stage MegaMix | 225750 | [225750-dancing-stage-megamix.json](./225750-dancing-stage-megamix.json) |
 | Dancing Stage Universe | 6956 | [6956-dancing-stage-universe.json](./6956-dancing-stage-universe.json) |
 | Dancing Stage Unleashed | 5803 | [5803-dancing-stage-unleashed.json](./5803-dancing-stage-unleashed.json) |
 | Dancing Stage Unleashed 2 | 5804 | [5804-dancing-stage-unleashed-2.json](./5804-dancing-stage-unleashed-2.json) |
@@ -4862,6 +4863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
 | Dungeon Slime Hero | 295808 | [295808-dungeon-slime-hero.json](./295808-dungeon-slime-hero.json) |
 | Dungeon Solitaire | 178000 | [178000-dungeon-solitaire.json](./178000-dungeon-solitaire.json) |
+| Dungeon Squad | 225764 | [225764-dungeon-squad.json](./225764-dungeon-squad.json) |
 | Dungeon Stalkers | 255912 | [255912-dungeon-stalkers.json](./255912-dungeon-stalkers.json) |
 | Dungeon Striker | 63256 | [63256-dungeon-striker.json](./63256-dungeon-striker.json) |
 | Dungeon Survival | 261827 | [261827-dungeon-survival.json](./261827-dungeon-survival.json) |
