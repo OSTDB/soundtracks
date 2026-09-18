@@ -1859,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Marines: Steel March | 36112 | [36112-mech-marines-steel-march.json](./36112-mech-marines-steel-march.json) |
 | Mech n' Parcel | 135831 | [135831-mech-n-parcel.json](./135831-mech-n-parcel.json) |
 | Mech Ops 2092 | 401622 | [401622-mech-ops-2092.json](./401622-mech-ops-2092.json) |
+| Mech Punk | 211792 | [211792-mech-punk.json](./211792-mech-punk.json) |
 | Mech Rage | 109378 | [109378-mech-rage.json](./109378-mech-rage.json) |
 | Mech Shuffle | 211964 | [211964-mech-shuffle.json](./211964-mech-shuffle.json) |
 | Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
@@ -3602,6 +3603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirador | 116939 | [116939-mirador.json](./116939-mirador.json) |
 | Mirage | 247761 | [247761-mirage.json](./247761-mirage.json) |
 | Mirage | 371353 | [371353-mirage.json](./371353-mirage.json) |
+| Mirage In Darkness | 211810 | [211810-mirage-in-darkness.json](./211810-mirage-in-darkness.json) |
 | Mirage Motel | 183061 | [183061-mirage-motel.json](./183061-mirage-motel.json) |
 | Mirage Noir | 309655 | [309655-mirage-noir.json](./309655-mirage-noir.json) |
 | Mirage: Beyond the Screen | 278530 | [278530-mirage-beyond-the-screen.json](./278530-mirage-beyond-the-screen.json) |
@@ -3911,6 +3913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Wars X: Ultimate Simulation Battle | 252197 | [252197-mobile-wars-x-ultimate-simulation-battle.json](./252197-mobile-wars-x-ultimate-simulation-battle.json) |
 | Mobiles Tycoon | 304584 | [304584-mobiles-tycoon.json](./304584-mobiles-tycoon.json) |
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
+| Mobmania | 211807 | [211807-mobmania.json](./211807-mobmania.json) |
 | Mobo Greenhouse Garden | 256903 | [256903-mobo-greenhouse-garden.json](./256903-mobo-greenhouse-garden.json) |
 | Mobo Hide and Seek | 200128 | [200128-mobo-hide-and-seek.json](./200128-mobo-hide-and-seek.json) |
 | Mobs 'N Monsters | 321379 | [321379-mobs-n-monsters.json](./321379-mobs-n-monsters.json) |
