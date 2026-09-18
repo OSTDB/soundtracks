@@ -2943,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanamals | 274477 | [274477-arcanamals.json](./274477-arcanamals.json) |
 | Arcane Angler | 400238 | [400238-arcane-angler.json](./400238-arcane-angler.json) |
 | Arcane Array Arena | 296524 | [296524-arcane-array-arena.json](./296524-arcane-array-arena.json) |
+| Arcane Arts Academy 2 | 217989 | [217989-arcane-arts-academy-2.json](./217989-arcane-arts-academy-2.json) |
 | Arcane Assembly | 244492 | [244492-arcane-assembly.json](./244492-arcane-assembly.json) |
 | Arcane Audit | 248888 | [248888-arcane-audit.json](./248888-arcane-audit.json) |
 | Arcane Blood: The Shattered Star | 277274 | [277274-arcane-blood-the-shattered-star.json](./277274-arcane-blood-the-shattered-star.json) |
@@ -2996,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcheBlade | 11664 | [11664-archeblade.json](./11664-archeblade.json) |
 | Archen Broom Game | 402366 | [402366-archen-broom-game.json](./402366-archen-broom-game.json) |
 | Archenemy: Lunafall | 216472 | [216472-archenemy-lunafall.json](./216472-archenemy-lunafall.json) |
+| Archeon CD-i Quiz | 217996 | [217996-archeon-cd-i-quiz.json](./217996-archeon-cd-i-quiz.json) |
 | Archer Guardian VR : The Chapter Zero | 30770 | [30770-archer-guardian-vr-the-chapter-zero.json](./30770-archer-guardian-vr-the-chapter-zero.json) |
 | Archer Maclean's 3D Pool | 248632 | [248632-archer-macleans-3d-pool.json](./248632-archer-macleans-3d-pool.json) |
 | Archer Maclean's 3D Pool | 49315 | [49315-archer-macleans-3d-pool.json](./49315-archer-macleans-3d-pool.json) |
