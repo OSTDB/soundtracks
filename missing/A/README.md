@@ -3213,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed Police Batrider | 13687 | [13687-armed-police-batrider.json](./13687-armed-police-batrider.json) |
 | Armed Warrior VR | 74435 | [74435-armed-warrior-vr.json](./74435-armed-warrior-vr.json) |
 | Armed With Wings | 148494 | [148494-armed-with-wings.json](./148494-armed-with-wings.json) |
+| Armed With Wings 2 | 227333 | [227333-armed-with-wings-2.json](./227333-armed-with-wings-2.json) |
 | Armed With WIngs: Culmination | 379364 | [379364-armed-with-wings-culmination.json](./379364-armed-with-wings-culmination.json) |
 | Armello: Collector's Edition | 52599 | [52599-armello-collectors-edition.json](./52599-armello-collectors-edition.json) |
 | Armello: Deluxe Bundle | 173787 | [173787-armello-deluxe-bundle.json](./173787-armello-deluxe-bundle.json) |
@@ -3339,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art for Snakes | 315704 | [315704-art-for-snakes.json](./315704-art-for-snakes.json) |
 | Art House | 367950 | [367950-art-house.json](./367950-art-house.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
+| Art Master 2 | 227374 | [227374-art-master-2.json](./227374-art-master-2.json) |
 | Art of Boxing | 129037 | [129037-art-of-boxing.json](./129037-art-of-boxing.json) |
 | Art of Destruction | 152831 | [152831-art-of-destruction.json](./152831-art-of-destruction.json) |
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
@@ -4241,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatars Saga | 243704 | [243704-avatars-saga.json](./243704-avatars-saga.json) |
 | Avelia | 292318 | [292318-avelia.json](./292318-avelia.json) |
 | Aveliana | 156152 | [156152-aveliana.json](./156152-aveliana.json) |
+| Aven Colony: The Cerulean Vale | 227353 | [227353-aven-colony-the-cerulean-vale.json](./227353-aven-colony-the-cerulean-vale.json) |
 | Avenger | 109598 | [109598-avenger.json](./109598-avenger.json) |
 | Avenger | 109599 | [109599-avenger.json](./109599-avenger.json) |
 | Avenger | 280325 | [280325-avenger.json](./280325-avenger.json) |
