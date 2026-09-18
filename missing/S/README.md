@@ -3499,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyfall Chasers | 219811 | [219811-skyfall-chasers.json](./219811-skyfall-chasers.json) |
 | Skyfarm | 316602 | [316602-skyfarm.json](./316602-skyfarm.json) |
 | Skyfear | 116976 | [116976-skyfear.json](./116976-skyfear.json) |
+| Skyfighter Arcade | 233632 | [233632-skyfighter-arcade.json](./233632-skyfighter-arcade.json) |
 | Skyfish Rising | 340366 | [340366-skyfish-rising.json](./340366-skyfish-rising.json) |
 | Skyforce | 174856 | [174856-skyforce.json](./174856-skyforce.json) |
 | Skyfort | 310170 | [310170-skyfort.json](./310170-skyfort.json) |
@@ -8170,6 +8171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Gridmaster | 20538 | [20538-sudoku-gridmaster.json](./20538-sudoku-gridmaster.json) |
 | Sudoku HD | 97911 | [97911-sudoku-hd.json](./97911-sudoku-hd.json) |
 | Sudoku Jigsaw | 103418 | [103418-sudoku-jigsaw.json](./103418-sudoku-jigsaw.json) |
+| Sudoku Keychain LCD Game | 233607 | [233607-sudoku-keychain-lcd-game.json](./233607-sudoku-keychain-lcd-game.json) |
 | Sudoku Killer | 103420 | [103420-sudoku-killer.json](./103420-sudoku-killer.json) |
 | Sudoku Kingdom | 264099 | [264099-sudoku-kingdom.json](./264099-sudoku-kingdom.json) |
 | Sudoku Man - Number Puzzle | 102769 | [102769-sudoku-man-number-puzzle.json](./102769-sudoku-man-number-puzzle.json) |
@@ -8427,6 +8429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunkenland | 213475 | [213475-sunkenland.json](./213475-sunkenland.json) |
 | Sunland Hike | 264613 | [264613-sunland-hike.json](./264613-sunland-hike.json) |
 | Sunlight In A Tin | 188602 | [188602-sunlight-in-a-tin.json](./188602-sunlight-in-a-tin.json) |
+| Sunlit's Star Fox Minihack | 233606 | [233606-sunlits-star-fox-minihack.json](./233606-sunlits-star-fox-minihack.json) |
 | Sunman | 48651 | [48651-sunman.json](./48651-sunman.json) |
 | Sunny Beach | 189205 | [189205-sunny-beach.json](./189205-sunny-beach.json) |
 | Sunny Fairy | 151678 | [151678-sunny-fairy.json](./151678-sunny-fairy.json) |
@@ -8622,6 +8625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Drill Diver! | 176959 | [176959-super-drill-diver.json](./176959-super-drill-diver.json) |
 | Super Drill Panic | 398996 | [398996-super-drill-panic.json](./398996-super-drill-panic.json) |
 | Super Drink Bros. | 141162 | [141162-super-drink-bros.json](./141162-super-drink-bros.json) |
+| Super Droid Adventure | 233622 | [233622-super-droid-adventure.json](./233622-super-droid-adventure.json) |
 | Super Drunken Guy | 251690 | [251690-super-drunken-guy.json](./251690-super-drunken-guy.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Durak | 174336 | [174336-super-durak.json](./174336-super-durak.json) |
@@ -10093,6 +10097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetik: Ultimate | 147972 | [147972-synthetik-ultimate.json](./147972-synthetik-ultimate.json) |
 | Synthopolis | 348798 | [348798-synthopolis.json](./348798-synthopolis.json) |
 | Synthrome | 316614 | [316614-synthrome.json](./316614-synthrome.json) |
+| SynthRunner | 233630 | [233630-synthrunner.json](./233630-synthrunner.json) |
 | Synthwave Driver | 344387 | [344387-synthwave-driver.json](./344387-synthwave-driver.json) |
 | Synthwave Hop | 172198 | [172198-synthwave-hop.json](./172198-synthwave-hop.json) |
 | Syobon Action 2 HD | 365136 | [365136-syobon-action-2-hd.json](./365136-syobon-action-2-hd.json) |
