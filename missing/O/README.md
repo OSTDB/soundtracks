@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osu!! Karate Bu | 38382 | [38382-osu-karate-bu.json](./38382-osu-karate-bu.json) |
 | Oswald | 130892 | [130892-oswald.json](./130892-oswald.json) |
 | Oswald's Supermarket | 299781 | [299781-oswalds-supermarket.json](./299781-oswalds-supermarket.json) |
+| Osyaberi! Horijyo! Gekihori: Anna Holinski Saves the Universe, Alright?! | 222425 | [222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json](./222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json) |
 | Otaku Miracles | 333067 | [333067-otaku-miracles.json](./333067-otaku-miracles.json) |
 | Otaku's Adventure: The World Just Keeps Turning | 299119 | [299119-otakus-adventure-the-world-just-keeps-turning.json](./299119-otakus-adventure-the-world-just-keeps-turning.json) |
 | Otaku's Rage: Waifu Strikes Back | 144368 | [144368-otakus-rage-waifu-strikes-back.json](./144368-otakus-rage-waifu-strikes-back.json) |
