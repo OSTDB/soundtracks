@@ -706,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmch Revolution | 390648 | [390648-farmch-revolution.json](./390648-farmch-revolution.json) |
 | Farmcraft 2 | 411590 | [411590-farmcraft-2.json](./411590-farmcraft-2.json) |
 | Farmer Adventure | 186831 | [186831-farmer-adventure.json](./186831-farmer-adventure.json) |
+| Farmer Against Potatoes Idle | 199507 | [199507-farmer-against-potatoes-idle.json](./199507-farmer-against-potatoes-idle.json) |
 | Farmer and Zombie | 286008 | [286008-farmer-and-zombie.json](./286008-farmer-and-zombie.json) |
 | Farmer Bundle | 271840 | [271840-farmer-bundle.json](./271840-farmer-bundle.json) |
 | Farmer Drift! | 246430 | [246430-farmer-drift.json](./246430-farmer-drift.json) |
@@ -1910,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fista 3-in-1 Retro Pack | 254762 | [254762-fista-3-in-1-retro-pack.json](./254762-fista-3-in-1-retro-pack.json) |
 | Fista Retro Horror Pack | 309323 | [309323-fista-retro-horror-pack.json](./309323-fista-retro-horror-pack.json) |
 | Fistagon | 264065 | [264065-fistagon.json](./264065-fistagon.json) |
+| Fists of Invokers | 199500 | [199500-fists-of-invokers.json](./199500-fists-of-invokers.json) |
 | Fists of Stone | 219786 | [219786-fists-of-stone.json](./219786-fists-of-stone.json) |
 | Fit | 102731 | [102731-fit.json](./102731-fit.json) |
 | Fit & Fun | 50604 | [50604-fit-and-fun.json](./50604-fit-and-fun.json) |
@@ -2756,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Doesn’t Care | 358851 | [358851-forest-doesn-t-care.json](./358851-forest-doesn-t-care.json) |
 | Forest Fire | 230941 | [230941-forest-fire.json](./230941-forest-fire.json) |
 | Forest Friends Match | 340231 | [340231-forest-friends-match.json](./340231-forest-friends-match.json) |
+| Forest Grump | 199471 | [199471-forest-grump.json](./199471-forest-grump.json) |
 | Forest Harvester Tractor 3D | 89941 | [89941-forest-harvester-tractor-3d.json](./89941-forest-harvester-tractor-3d.json) |
 | Forest Hills: The Last Year | 292310 | [292310-forest-hills-the-last-year.json](./292310-forest-hills-the-last-year.json) |
 | Forest Jump | 270171 | [270171-forest-jump.json](./270171-forest-jump.json) |
