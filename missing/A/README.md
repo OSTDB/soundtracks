@@ -2278,10 +2278,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1404: Gold Edition | 27913 | [27913-anno-1404-gold-edition.json](./27913-anno-1404-gold-edition.json) |
 | Anno 1701 A.D.: Gold Edition | 180265 | [180265-anno-1701-a-d-gold-edition.json](./180265-anno-1701-a-d-gold-edition.json) |
 | Anno 1701: Limited Edition | 180266 | [180266-anno-1701-limited-edition.json](./180266-anno-1701-limited-edition.json) |
+| Anno 1800: Cosmetic Pack Bundle | 227937 | [227937-anno-1800-cosmetic-pack-bundle.json](./227937-anno-1800-cosmetic-pack-bundle.json) |
 | Anno 1800: Docklands | 151113 | [151113-anno-1800-docklands.json](./151113-anno-1800-docklands.json) |
 | Anno 1800: Eldritch Pack | 274724 | [274724-anno-1800-eldritch-pack.json](./274724-anno-1800-eldritch-pack.json) |
 | Anno 1800: Empire of the Skies | 197350 | [197350-anno-1800-empire-of-the-skies.json](./197350-anno-1800-empire-of-the-skies.json) |
 | Anno 1800: New World Rising | 197351 | [197351-anno-1800-new-world-rising.json](./197351-anno-1800-new-world-rising.json) |
+| Anno 1800: Old Town Pack | 227938 | [227938-anno-1800-old-town-pack.json](./227938-anno-1800-old-town-pack.json) |
 | Anno 1800: Seeds of Change | 197349 | [197349-anno-1800-seeds-of-change.json](./197349-anno-1800-seeds-of-change.json) |
 | Anno 1800: The Passage | 121765 | [121765-anno-1800-the-passage.json](./121765-anno-1800-the-passage.json) |
 | Anno 1800: Tourist Season | 151204 | [151204-anno-1800-tourist-season.json](./151204-anno-1800-tourist-season.json) |
