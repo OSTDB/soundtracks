@@ -5571,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custer's Revenge | 8529 | [8529-custers-revenge.json](./8529-custers-revenge.json) |
 | Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
 | Custodial | 179742 | [179742-custodial.json](./179742-custodial.json) |
+| Custom Maid 3D | 191694 | [191694-custom-maid-3d.json](./191694-custom-maid-3d.json) |
 | Custom Mech Wars: EDF Collab Edition | 268007 | [268007-custom-mech-wars-edf-collab-edition.json](./268007-custom-mech-wars-edf-collab-edition.json) |
 | Custom Mech Wars: Ultimate Edition | 268008 | [268008-custom-mech-wars-ultimate-edition.json](./268008-custom-mech-wars-ultimate-edition.json) |
 | Custom Monsters | 222498 | [222498-custom-monsters.json](./222498-custom-monsters.json) |
