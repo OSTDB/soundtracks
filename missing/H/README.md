@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heli Golf | 150602 | [150602-heli-golf.json](./150602-heli-golf.json) |
 | Heli Good Spelunker | 67975 | [67975-heli-good-spelunker.json](./67975-heli-good-spelunker.json) |
 | Heli Mission | 277865 | [277865-heli-mission.json](./277865-heli-mission.json) |
+| Heli Monsters | 220200 | [220200-heli-monsters.json](./220200-heli-monsters.json) |
 | Heli War | 243934 | [243934-heli-war.json](./243934-heli-war.json) |
 | Heli-Cats | 238758 | [238758-heli-cats.json](./238758-heli-cats.json) |
 | Helichapter X | 287110 | [287110-helichapter-x.json](./287110-helichapter-x.json) |
@@ -2294,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Episode 5 - Colorado | 91024 | [91024-hitman-episode-5-colorado.json](./91024-hitman-episode-5-colorado.json) |
 | Hitman: Freelancer | 323712 | [323712-hitman-freelancer.json](./323712-hitman-freelancer.json) |
 | Hitman: Patient Zero | 76414 | [76414-hitman-patient-zero.json](./76414-hitman-patient-zero.json) |
+| Hitmasters | 220177 | [220177-hitmasters.json](./220177-hitmasters.json) |
 | Hitme | 178096 | [178096-hitme.json](./178096-hitme.json) |
 | Hitme 2 | 225273 | [225273-hitme-2.json](./225273-hitme-2.json) |
 | Hitokata | 337114 | [337114-hitokata.json](./337114-hitokata.json) |
