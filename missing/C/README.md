@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadillacs and Dinosaurs: The Second Cataclysm | 5367 | [5367-cadillacs-and-dinosaurs-the-second-cataclysm.json](./5367-cadillacs-and-dinosaurs-the-second-cataclysm.json) |
 | Cadria Item Shop | 107894 | [107894-cadria-item-shop.json](./107894-cadria-item-shop.json) |
 | Caduca | 412969 | [412969-caduca.json](./412969-caduca.json) |
+| Caduceus | 186190 | [186190-caduceus.json](./186190-caduceus.json) |
 | Caelum's Crux | 389619 | [389619-caelums-crux.json](./389619-caelums-crux.json) |
 | Caesar's Travels | 73307 | [73307-caesars-travels.json](./73307-caesars-travels.json) |
 | Caesar's World of Boxing | 45941 | [45941-caesars-world-of-boxing.json](./45941-caesars-world-of-boxing.json) |
@@ -1825,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess '98 | 204703 | [204703-chess-98.json](./204703-chess-98.json) |
 | Chess & Backgammon Classics | 79907 | [79907-chess-and-backgammon-classics.json](./79907-chess-and-backgammon-classics.json) |
 | Chess 432 | 403662 | [403662-chess-432.json](./403662-chess-432.json) |
+| Chess and Dungeons | 186195 | [186195-chess-and-dungeons.json](./186195-chess-and-dungeons.json) |
 | Chess Arena | 373648 | [373648-chess-arena.json](./373648-chess-arena.json) |
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
 | Chess Cartoons | 196826 | [196826-chess-cartoons.json](./196826-chess-cartoons.json) |
@@ -3710,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conarium | 24856 | [24856-conarium.json](./24856-conarium.json) |
 | Conbunn Cardboard | 204099 | [204099-conbunn-cardboard.json](./204099-conbunn-cardboard.json) |
 | Conc Jump | 132852 | [132852-conc-jump.json](./132852-conc-jump.json) |
+| Concave Shooter | 186166 | [186166-concave-shooter.json](./186166-concave-shooter.json) |
 | Concentration | 319797 | [319797-concentration.json](./319797-concentration.json) |
 | Concept 20 | 127224 | [127224-concept-20.json](./127224-concept-20.json) |
 | Concept Destruction | 123561 | [123561-concept-destruction.json](./123561-concept-destruction.json) |
@@ -5751,6 +5754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberflow | 61679 | [61679-cyberflow.json](./61679-cyberflow.json) |
 | CyberGlide VR | 120319 | [120319-cyberglide-vr.json](./120319-cyberglide-vr.json) |
 | CyberHeroes Arena DX | 235300 | [235300-cyberheroes-arena-dx.json](./235300-cyberheroes-arena-dx.json) |
+| Cyberhold | 186156 | [186156-cyberhold.json](./186156-cyberhold.json) |
 | CyberHoney | 310171 | [310171-cyberhoney.json](./310171-cyberhoney.json) |
 | Cyberhunk | 211191 | [211191-cyberhunk.json](./211191-cyberhunk.json) |
 | Cyberia | 4331 | [4331-cyberia.json](./4331-cyberia.json) |
