@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Destroyer | 203888 | [203888-car-destroyer.json](./203888-car-destroyer.json) |
 | Car Detailing Cleaner Simulator | 288761 | [288761-car-detailing-cleaner-simulator.json](./288761-car-detailing-cleaner-simulator.json) |
 | Car Detailing Simulator | 182487 | [182487-car-detailing-simulator.json](./182487-car-detailing-simulator.json) |
+| Car Drawing Game | 181806 | [181806-car-drawing-game.json](./181806-car-drawing-game.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
@@ -3352,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Matching | 234168 | [234168-color-matching.json](./234168-color-matching.json) |
 | Color Math | 89573 | [89573-color-math.json](./89573-color-math.json) |
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
+| Color Ninjas | 181782 | [181782-color-ninjas.json](./181782-color-ninjas.json) |
 | Color of My Sound: Volume 1 | 309534 | [309534-color-of-my-sound-volume-1.json](./309534-color-of-my-sound-volume-1.json) |
 | Color Reflex Challenge | 253018 | [253018-color-reflex-challenge.json](./253018-color-reflex-challenge.json) |
 | Color Rings Puzzle | 104652 | [104652-color-rings-puzzle.json](./104652-color-rings-puzzle.json) |
@@ -4115,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corona MotorSport | 35926 | [35926-corona-motorsport.json](./35926-corona-motorsport.json) |
 | Corona Simulator: Savior Edition | 165004 | [165004-corona-simulator-savior-edition.json](./165004-corona-simulator-savior-edition.json) |
 | Coronation | 91381 | [91381-coronation.json](./91381-coronation.json) |
+| Coronaviral | 181764 | [181764-coronaviral.json](./181764-coronaviral.json) |
 | Coronavirus: Nano Force | 165002 | [165002-coronavirus-nano-force.json](./165002-coronavirus-nano-force.json) |
 | Coropata | 80582 | [80582-coropata.json](./80582-coropata.json) |
 | Corpo/Ghost | 291785 | [291785-corpo-ghost.json](./291785-corpo-ghost.json) |
@@ -5207,6 +5210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptid | 327188 | [327188-cryptid.json](./327188-cryptid.json) |
 | Cryptid Engine | 348861 | [348861-cryptid-engine.json](./348861-cryptid-engine.json) |
 | Cryptid Time | 320134 | [320134-cryptid-time.json](./320134-cryptid-time.json) |
+| Cryptidate | 181800 | [181800-cryptidate.json](./181800-cryptidate.json) |
 | Cryptigma | 339919 | [339919-cryptigma.json](./339919-cryptigma.json) |
 | Cryptmaster | 213029 | [213029-cryptmaster.json](./213029-cryptmaster.json) |
 | Crypto Crisis: Education Edition | 292683 | [292683-crypto-crisis-education-edition.json](./292683-crypto-crisis-education-edition.json) |
