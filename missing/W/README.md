@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Sea Foam Fades | 364488 | [364488-where-sea-foam-fades.json](./364488-where-sea-foam-fades.json) |
 | Where Serpents Ever Dwell | 268466 | [268466-where-serpents-ever-dwell.json](./268466-where-serpents-ever-dwell.json) |
 | Where Shadows Slumber | 73171 | [73171-where-shadows-slumber.json](./73171-where-shadows-slumber.json) |
+| Where Stars Belong | 189059 | [189059-where-stars-belong.json](./189059-where-stars-belong.json) |
 | Where the Anemones Bloom | 302118 | [302118-where-the-anemones-bloom.json](./302118-where-the-anemones-bloom.json) |
 | Where the Chips Fall | 353859 | [353859-where-the-chips-fall.json](./353859-where-the-chips-fall.json) |
 | Where the Clouds End | 129728 | [129728-where-the-clouds-end.json](./129728-where-the-clouds-end.json) |
@@ -1827,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With You | 188710 | [188710-with-you.json](./188710-with-you.json) |
 | Witherbloom | 291447 | [291447-witherbloom.json](./291447-witherbloom.json) |
 | Withered: A visual novel | 178017 | [178017-withered-a-visual-novel.json](./178017-withered-a-visual-novel.json) |
+| Witherholme | 189058 | [189058-witherholme.json](./189058-witherholme.json) |
 | Withering Flowers | 260421 | [260421-withering-flowers.json](./260421-withering-flowers.json) |
 | Withering Realms | 329964 | [329964-withering-realms.json](./329964-withering-realms.json) |
 | Within | 377145 | [377145-within.json](./377145-within.json) |
@@ -2039,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonhon: A Vengeful Spirit | 132239 | [132239-wonhon-a-vengeful-spirit.json](./132239-wonhon-a-vengeful-spirit.json) |
 | Wonka Block Party | 373531 | [373531-wonka-block-party.json](./373531-wonka-block-party.json) |
 | Wonky Ship: Black Hole Down | 168322 | [168322-wonky-ship-black-hole-down.json](./168322-wonky-ship-black-hole-down.json) |
+| Wonky Works! | 189051 | [189051-wonky-works.json](./189051-wonky-works.json) |
 | Woo Woo | 388919 | [388919-woo-woo.json](./388919-woo-woo.json) |
 | Wood & Weather | 212817 | [212817-wood-and-weather.json](./212817-wood-and-weather.json) |
 | Wood and Water and Rock | 136422 | [136422-wood-and-water-and-rock.json](./136422-wood-and-water-and-rock.json) |
