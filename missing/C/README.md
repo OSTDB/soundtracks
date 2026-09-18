@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Puzzlefort | 271814 | [271814-castle-puzzlefort.json](./271814-castle-puzzlefort.json) |
 | Castle Quest | 307104 | [307104-castle-quest.json](./307104-castle-quest.json) |
 | Castle Red | 123000 | [123000-castle-red.json](./123000-castle-red.json) |
+| Castle Renovator | 219174 | [219174-castle-renovator.json](./219174-castle-renovator.json) |
 | Castle Rush | 185145 | [185145-castle-rush.json](./185145-castle-rush.json) |
 | Castle Rush | 234046 | [234046-castle-rush.json](./234046-castle-rush.json) |
 | Castle Rush Zombies | 241620 | [241620-castle-rush-zombies.json](./241620-castle-rush-zombies.json) |
@@ -1733,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chefrens Pyramid | 142454 | [142454-chefrens-pyramid.json](./142454-chefrens-pyramid.json) |
 | Chefware | 376535 | [376535-chefware.json](./376535-chefware.json) |
 | Chelesste | 253995 | [253995-chelesste.json](./253995-chelesste.json) |
+| Chell's Way to Home | 219157 | [219157-chells-way-to-home.json](./219157-chells-way-to-home.json) |
 | Chelsea Club Football 2005 | 267908 | [267908-chelsea-club-football-2005.json](./267908-chelsea-club-football-2005.json) |
 | Chelsea of the South Sea Islands | 309339 | [309339-chelsea-of-the-south-sea-islands.json](./309339-chelsea-of-the-south-sea-islands.json) |
 | Chemical Cubes | 62698 | [62698-chemical-cubes.json](./62698-chemical-cubes.json) |
@@ -2656,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Game Trio | 206971 | [206971-classic-game-trio.json](./206971-classic-game-trio.json) |
 | Classic Games Collection Vol.1+2 Bundle | 231071 | [231071-classic-games-collection-vol-1-2-bundle.json](./231071-classic-games-collection-vol-1-2-bundle.json) |
 | Classic Invaders | 270765 | [270765-classic-invaders.json](./270765-classic-invaders.json) |
+| Classic Journey: Nitro | 219175 | [219175-classic-journey-nitro.json](./219175-classic-journey-nitro.json) |
 | Classic Kakuro | 206972 | [206972-classic-kakuro.json](./206972-classic-kakuro.json) |
 | Classic Mario World: The Magic Crystals | 191909 | [191909-classic-mario-world-the-magic-crystals.json](./191909-classic-mario-world-the-magic-crystals.json) |
 | Classic Max Lite | 359478 | [359478-classic-max-lite.json](./359478-classic-max-lite.json) |
@@ -5015,6 +5018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crymachina | 240141 | [240141-crymachina.json](./240141-crymachina.json) |
 | Cryo | 374688 | [374688-cryo.json](./374688-cryo.json) |
 | Cryogenics | 221846 | [221846-cryogenics.json](./221846-cryogenics.json) |
+| Cryohazard | 219151 | [219151-cryohazard.json](./219151-cryohazard.json) |
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
 | Cryoloop | 141809 | [141809-cryoloop.json](./141809-cryoloop.json) |
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
