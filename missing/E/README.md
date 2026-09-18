@@ -2058,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exclusion Zone: Shadow Island | 134615 | [134615-exclusion-zone-shadow-island.json](./134615-exclusion-zone-shadow-island.json) |
 | Exclusive Memory | 319938 | [319938-exclusive-memory.json](./319938-exclusive-memory.json) |
 | Exclusively Yours: An Office Affair | 234151 | [234151-exclusively-yours-an-office-affair.json](./234151-exclusively-yours-an-office-affair.json) |
+| Excommunicado | 211266 | [211266-excommunicado.json](./211266-excommunicado.json) |
 | Excubitor | 19332 | [19332-excubitor.json](./19332-excubitor.json) |
 | Excursus | 177025 | [177025-excursus.json](./177025-excursus.json) |
 | Excycle | 266864 | [266864-excycle.json](./266864-excycle.json) |
