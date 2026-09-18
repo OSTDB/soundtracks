@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
 | Xploit.Zero | 380561 | [380561-xploit-zero.json](./380561-xploit-zero.json) |
 | Xplosive Raccoon | 283861 | [283861-xplosive-raccoon.json](./283861-xplosive-raccoon.json) |
+| Xposed Switched | 232562 | [232562-xposed-switched.json](./232562-xposed-switched.json) |
 | XR-35 | 55210 | [55210-xr-35.json](./55210-xr-35.json) |
 | XRick | 280354 | [280354-xrick.json](./280354-xrick.json) |
 | XRick | 289883 | [289883-xrick.json](./289883-xrick.json) |
