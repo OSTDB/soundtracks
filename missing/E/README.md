@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy-Bake Treats! | 411605 | [411605-easy-bake-treats.json](./411605-easy-bake-treats.json) |
 | Easy-Peasy Tic Tac Toe | 88317 | [88317-easy-peasy-tic-tac-toe.json](./88317-easy-peasy-tic-tac-toe.json) |
 | EasyAim Trainer | 339648 | [339648-easyaim-trainer.json](./339648-easyaim-trainer.json) |
+| EasyChemistryLab | 202755 | [202755-easychemistrylab.json](./202755-easychemistrylab.json) |
 | Easyland 2 | 328065 | [328065-easyland-2.json](./328065-easyland-2.json) |
 | Easyland 3 | 379973 | [379973-easyland-3.json](./379973-easyland-3.json) |
 | Eat and Evolve | 227957 | [227957-eat-and-evolve.json](./227957-eat-and-evolve.json) |
@@ -2297,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of the Storm | 299731 | [299731-eye-of-the-storm.json](./299731-eye-of-the-storm.json) |
 | Eye on the world | 258731 | [258731-eye-on-the-world.json](./258731-eye-on-the-world.json) |
 | Eye Transplant : ER Emergency Hospital | 100855 | [100855-eye-transplant-er-emergency-hospital.json](./100855-eye-transplant-er-emergency-hospital.json) |
+| Eye-tai: Kompeito-hen | 202764 | [202764-eye-tai-kompeito-hen.json](./202764-eye-tai-kompeito-hen.json) |
 | Eye-Witness | 271994 | [271994-eye-witness.json](./271994-eye-witness.json) |
 | Eye2Eye | 277421 | [277421-eye2eye.json](./277421-eye2eye.json) |
 | eyEar | 181390 | [181390-eyear.json](./181390-eyear.json) |
