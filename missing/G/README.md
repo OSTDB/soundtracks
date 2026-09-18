@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaslift: A Chair Horror | 414311 | [414311-gaslift-a-chair-horror.json](./414311-gaslift-a-chair-horror.json) |
 | Gasnator | 229796 | [229796-gasnator.json](./229796-gasnator.json) |
 | Gastova: The Witches of Arkana | 130955 | [130955-gastova-the-witches-of-arkana.json](./130955-gastova-the-witches-of-arkana.json) |
+| GastroEx | 215245 | [215245-gastroex.json](./215245-gastroex.json) |
 | Gastronomie | 220319 | [220319-gastronomie.json](./220319-gastronomie.json) |
 | Gasu: The Hugging Dragon | 177486 | [177486-gasu-the-hugging-dragon.json](./177486-gasu-the-hugging-dragon.json) |
 | Gat Rat | 348830 | [348830-gat-rat.json](./348830-gat-rat.json) |
