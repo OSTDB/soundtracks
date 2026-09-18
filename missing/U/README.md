@@ -241,6 +241,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Nothing | 377674 | [377674-ultra-nothing.json](./377674-ultra-nothing.json) |
 | Ultra Rhythm | 227876 | [227876-ultra-rhythm.json](./227876-ultra-rhythm.json) |
 | Ultra SCSIcide | 40732 | [40732-ultra-scsicide.json](./40732-ultra-scsicide.json) |
+| Ultra Street Fighter IV: 2014 Challengers Horror Pack | 225145 | [225145-ultra-street-fighter-iv-2014-challengers-horror-pack.json](./225145-ultra-street-fighter-iv-2014-challengers-horror-pack.json) |
+| Ultra Street Fighter IV: 2014 Challengers Vacation Pack | 225146 | [225146-ultra-street-fighter-iv-2014-challengers-vacation-pack.json](./225146-ultra-street-fighter-iv-2014-challengers-vacation-pack.json) |
+| Ultra Street Fighter IV: 2014 Challengers Wild Pack | 225147 | [225147-ultra-street-fighter-iv-2014-challengers-wild-pack.json](./225147-ultra-street-fighter-iv-2014-challengers-wild-pack.json) |
+| Ultra Street Fighter IV: Arcade Challengers Horror Pack | 225154 | [225154-ultra-street-fighter-iv-arcade-challengers-horror-pack.json](./225154-ultra-street-fighter-iv-arcade-challengers-horror-pack.json) |
+| Ultra Street Fighter IV: Arcade Challengers Pack 2011 | 225148 | [225148-ultra-street-fighter-iv-arcade-challengers-pack-2011.json](./225148-ultra-street-fighter-iv-arcade-challengers-pack-2011.json) |
+| Ultra Street Fighter IV: Arcade Challengers Vacation Pack | 225149 | [225149-ultra-street-fighter-iv-arcade-challengers-vacation-pack.json](./225149-ultra-street-fighter-iv-arcade-challengers-vacation-pack.json) |
+| Ultra Street Fighter IV: Arcade Challengers Wild Pack | 225150 | [225150-ultra-street-fighter-iv-arcade-challengers-wild-pack.json](./225150-ultra-street-fighter-iv-arcade-challengers-wild-pack.json) |
+| Ultra Street Fighter IV: Brawler Horror Pack | 225151 | [225151-ultra-street-fighter-iv-brawler-horror-pack.json](./225151-ultra-street-fighter-iv-brawler-horror-pack.json) |
+| Ultra Street Fighter IV: Brawler Vacation Pack | 225152 | [225152-ultra-street-fighter-iv-brawler-vacation-pack.json](./225152-ultra-street-fighter-iv-brawler-vacation-pack.json) |
+| Ultra Street Fighter IV: Brawler Wild Pack | 225153 | [225153-ultra-street-fighter-iv-brawler-wild-pack.json](./225153-ultra-street-fighter-iv-brawler-wild-pack.json) |
+| Ultra Street Fighter IV: Challengers Horror Pack 1 | 225155 | [225155-ultra-street-fighter-iv-challengers-horror-pack-1.json](./225155-ultra-street-fighter-iv-challengers-horror-pack-1.json) |
+| Ultra Street Fighter IV: Challengers Horror Pack 2 | 225156 | [225156-ultra-street-fighter-iv-challengers-horror-pack-2.json](./225156-ultra-street-fighter-iv-challengers-horror-pack-2.json) |
+| Ultra Street Fighter IV: Challengers Vacation Pack 1 | 225157 | [225157-ultra-street-fighter-iv-challengers-vacation-pack-1.json](./225157-ultra-street-fighter-iv-challengers-vacation-pack-1.json) |
+| Ultra Street Fighter IV: Challengers Vacation Pack 2 | 225158 | [225158-ultra-street-fighter-iv-challengers-vacation-pack-2.json](./225158-ultra-street-fighter-iv-challengers-vacation-pack-2.json) |
+| Ultra Street Fighter IV: Challengers Wild Pack 1 | 225159 | [225159-ultra-street-fighter-iv-challengers-wild-pack-1.json](./225159-ultra-street-fighter-iv-challengers-wild-pack-1.json) |
+| Ultra Street Fighter IV: Complete Brawler Pack 2011 | 225134 | [225134-ultra-street-fighter-iv-complete-brawler-pack-2011.json](./225134-ultra-street-fighter-iv-complete-brawler-pack-2011.json) |
+| Ultra Street Fighter IV: Complete Challengers 1 Pack 2011 | 225139 | [225139-ultra-street-fighter-iv-complete-challengers-1-pack-2011.json](./225139-ultra-street-fighter-iv-complete-challengers-1-pack-2011.json) |
+| Ultra Street Fighter IV: Complete Challengers 2 Pack 2011 | 225135 | [225135-ultra-street-fighter-iv-complete-challengers-2-pack-2011.json](./225135-ultra-street-fighter-iv-complete-challengers-2-pack-2011.json) |
+| Ultra Street Fighter IV: Complete Classic Pack 2011 | 225136 | [225136-ultra-street-fighter-iv-complete-classic-pack-2011.json](./225136-ultra-street-fighter-iv-complete-classic-pack-2011.json) |
+| Ultra Street Fighter IV: Complete Femme Fatale Pack 2011 | 225144 | [225144-ultra-street-fighter-iv-complete-femme-fatale-pack-2011.json](./225144-ultra-street-fighter-iv-complete-femme-fatale-pack-2011.json) |
+| Ultra Street Fighter IV: Complete Shadoloo Pack 2011 | 225137 | [225137-ultra-street-fighter-iv-complete-shadoloo-pack-2011.json](./225137-ultra-street-fighter-iv-complete-shadoloo-pack-2011.json) |
+| Ultra Street Fighter IV: Complete Shoryuken Pack 2011 | 225138 | [225138-ultra-street-fighter-iv-complete-shoryuken-pack-2011.json](./225138-ultra-street-fighter-iv-complete-shoryuken-pack-2011.json) |
+| Ultra Street Fighter IV: Femme Fatale Horror Pack | 225140 | [225140-ultra-street-fighter-iv-femme-fatale-horror-pack.json](./225140-ultra-street-fighter-iv-femme-fatale-horror-pack.json) |
+| Ultra Street Fighter IV: Femme Fatale Vacation Pack | 225141 | [225141-ultra-street-fighter-iv-femme-fatale-vacation-pack.json](./225141-ultra-street-fighter-iv-femme-fatale-vacation-pack.json) |
+| Ultra Street Fighter IV: Femme Fatale Wild Pack | 225142 | [225142-ultra-street-fighter-iv-femme-fatale-wild-pack.json](./225142-ultra-street-fighter-iv-femme-fatale-wild-pack.json) |
+| Ultra Street Fighter IV: Shadaloo Horror Pack | 225143 | [225143-ultra-street-fighter-iv-shadaloo-horror-pack.json](./225143-ultra-street-fighter-iv-shadaloo-horror-pack.json) |
 | Ultra Violet | 150057 | [150057-ultra-violet.json](./150057-ultra-violet.json) |
 | Ultra Vleurette | 267356 | [267356-ultra-vleurette.json](./267356-ultra-vleurette.json) |
 | Ultra Void | 402985 | [402985-ultra-void.json](./402985-ultra-void.json) |
@@ -357,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbodied | 311496 | [311496-unbodied.json](./311496-unbodied.json) |
 | Unbothered | 329033 | [329033-unbothered.json](./329033-unbothered.json) |
 | Unbound | 167249 | [167249-unbound.json](./167249-unbound.json) |
+| Unboxing | 225178 | [225178-unboxing.json](./225178-unboxing.json) |
 | Unboxing: Cozy Home Simulator | 334104 | [334104-unboxing-cozy-home-simulator.json](./334104-unboxing-cozy-home-simulator.json) |
 | Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend | 256848 | [256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json](./256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json) |
 | Unbridled Horror | 181896 | [181896-unbridled-horror.json](./181896-unbridled-horror.json) |
