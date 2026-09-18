@@ -1705,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Saga | 62762 | [62762-eternal-saga.json](./62762-eternal-saga.json) |
 | Eternal Seas | 236509 | [236509-eternal-seas.json](./236509-eternal-seas.json) |
 | Eternal Slumber Party | 224582 | [224582-eternal-slumber-party.json](./224582-eternal-slumber-party.json) |
+| Eternal Starshine | 182370 | [182370-eternal-starshine.json](./182370-eternal-starshine.json) |
 | Eternal Step | 14388 | [14388-eternal-step.json](./14388-eternal-step.json) |
 | Eternal Summer | 264145 | [264145-eternal-summer.json](./264145-eternal-summer.json) |
 | Eternal Supreme | 210881 | [210881-eternal-supreme.json](./210881-eternal-supreme.json) |
@@ -1892,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergreen: Pines Expansion | 298325 | [298325-evergreen-pines-expansion.json](./298325-evergreen-pines-expansion.json) |
 | Evergrow: Shards of Tomorrow | 337998 | [337998-evergrow-shards-of-tomorrow.json](./337998-evergrow-shards-of-tomorrow.json) |
 | Everhood | 132083 | [132083-everhood.json](./132083-everhood.json) |
+| Evering | 182386 | [182386-evering.json](./182386-evering.json) |
 | Everlands | 200130 | [200130-everlands.json](./200130-everlands.json) |
 | Everlasting Guilt | 155084 | [155084-everlasting-guilt.json](./155084-everlasting-guilt.json) |
 | Everlasting Tower | 335661 | [335661-everlasting-tower.json](./335661-everlasting-tower.json) |
