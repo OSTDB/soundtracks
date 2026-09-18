@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazoler Land Soukan-gou | 41398 | [41398-nazoler-land-soukan-gou.json](./41398-nazoler-land-soukan-gou.json) |
 | Nazoler Land Special!! Quiz-Ou wo Ikuse | 41397 | [41397-nazoler-land-special-quiz-ou-wo-ikuse.json](./41397-nazoler-land-special-quiz-ou-wo-ikuse.json) |
 | Nazotoki IQ Quiz | 261372 | [261372-nazotoki-iq-quiz.json](./261372-nazotoki-iq-quiz.json) |
+| Nazotoki no Jikan: Thrill Suspense na Nazotoki Dasshutsu Mystery Suiri Game | 222388 | [222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json](./222388-nazotoki-no-jikan-thrill-suspense-na-nazotoki-dasshutsu-mystery-suiri-game.json) |
 | Nazotoki Suiri! Yuuzai? Muzai? | 251606 | [251606-nazotoki-suiri-yuuzai-muzai.json](./251606-nazotoki-suiri-yuuzai-muzai.json) |
 | Nb107a | 184572 | [184572-nb107a.json](./184572-nb107a.json) |
 | NBA | 100222 | [100222-nba.json](./100222-nba.json) |
@@ -626,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemo's Reef | 62168 | [62168-nemos-reef.json](./62168-nemos-reef.json) |
 | Nemorsys | 346602 | [346602-nemorsys.json](./346602-nemorsys.json) |
 | NemoSphere | 385086 | [385086-nemosphere.json](./385086-nemosphere.json) |
+| Nemu Neko Puzzle demo Neteimasu | 222375 | [222375-nemu-neko-puzzle-demo-neteimasu.json](./222375-nemu-neko-puzzle-demo-neteimasu.json) |
 | Nemurenu Yoru no Chiisana Ohanashi | 254494 | [254494-nemurenu-yoru-no-chiisana-ohanashi.json](./254494-nemurenu-yoru-no-chiisana-ohanashi.json) |
 | Neo 2045 | 148536 | [148536-neo-2045.json](./148536-neo-2045.json) |
 | Neo Angelique | 72681 | [72681-neo-angelique.json](./72681-neo-angelique.json) |
@@ -1628,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Desolation | 221742 | [221742-no-mans-sky-desolation.json](./221742-no-mans-sky-desolation.json) |
 | No Man's Sky: Nintendo Switch Edition | 191418 | [191418-no-mans-sky-nintendo-switch-edition.json](./191418-no-mans-sky-nintendo-switch-edition.json) |
 | No Man's Sky: Omega | 287088 | [287088-no-mans-sky-omega.json](./287088-no-mans-sky-omega.json) |
+| No Man's Sky: Synthesis | 222424 | [222424-no-mans-sky-synthesis.json](./222424-no-mans-sky-synthesis.json) |
 | No Man's Sky: Worlds Part I | 308973 | [308973-no-mans-sky-worlds-part-i.json](./308973-no-mans-sky-worlds-part-i.json) |
 | No Man's Sky: Worlds Part II | 329714 | [329714-no-mans-sky-worlds-part-ii.json](./329714-no-mans-sky-worlds-part-ii.json) |
 | No Man's Sky: Xeno Arena | 397678 | [397678-no-mans-sky-xeno-arena.json](./397678-no-mans-sky-xeno-arena.json) |
