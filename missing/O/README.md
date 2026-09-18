@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opal's Quest | 64917 | [64917-opals-quest.json](./64917-opals-quest.json) |
 | Opaldune | 288787 | [288787-opaldune.json](./288787-opaldune.json) |
 | Open Bar | 58804 | [58804-open-bar.json](./58804-open-bar.json) |
+| Open Day | 214622 | [214622-open-day.json](./214622-open-day.json) |
 | Open Door | 214177 | [214177-open-door.json](./214177-open-door.json) |
 | Open Fire | 348792 | [348792-open-fire.json](./348792-open-fire.json) |
 | Open Fire: Ready | 389966 | [389966-open-fire-ready.json](./389966-open-fire-ready.json) |
@@ -1625,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overbeast | 247169 | [247169-overbeast.json](./247169-overbeast.json) |
 | Overboard | 122430 | [122430-overboard.json](./122430-overboard.json) |
 | Overbooked | 413044 | [413044-overbooked.json](./413044-overbooked.json) |
+| Overboss | 214604 | [214604-overboss.json](./214604-overboss.json) |
 | Overcat | 373530 | [373530-overcat.json](./373530-overcat.json) |
 | Overcrowded | 185147 | [185147-overcrowded.json](./185147-overcrowded.json) |
 | Overcrowded: Tycoon | 200743 | [200743-overcrowded-tycoon.json](./200743-overcrowded-tycoon.json) |
