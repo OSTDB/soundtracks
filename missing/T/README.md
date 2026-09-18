@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks Defense | 298013 | [298013-tanks-defense.json](./298013-tanks-defense.json) |
 | Tanks Endeavor | 117073 | [117073-tanks-endeavor.json](./117073-tanks-endeavor.json) |
 | Tanks Rebirth | 357342 | [357342-tanks-rebirth.json](./357342-tanks-rebirth.json) |
+| Tanks vs Tanks: PvP | 214044 | [214044-tanks-vs-tanks-pvp.json](./214044-tanks-vs-tanks-pvp.json) |
 | Tankura: Tango Crush - Kotoba Keshi Tango Puzzle Game | 208938 | [208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json](./208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json) |
 | Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
 | Tanokai Chapter 1 | 178571 | [178571-tanokai-chapter-1.json](./178571-tanokai-chapter-1.json) |
@@ -921,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teacher Seduction | 276160 | [276160-teacher-seduction.json](./276160-teacher-seduction.json) |
 | Teachers. With Love and Passion | 250441 | [250441-teachers-with-love-and-passion.json](./250441-teachers-with-love-and-passion.json) |
 | TeaChess | 188036 | [188036-teachess.json](./188036-teachess.json) |
+| Teacup | 214023 | [214023-teacup.json](./214023-teacup.json) |
 | Teahouse of the Gods | 226192 | [226192-teahouse-of-the-gods.json](./226192-teahouse-of-the-gods.json) |
 | TeaKnights | 408906 | [408906-teaknights.json](./408906-teaknights.json) |
 | Teal'c's Revenge | 62673 | [62673-tealcs-revenge.json](./62673-tealcs-revenge.json) |
@@ -3327,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Noodles: Turbo | 212792 | [212792-the-jumping-noodles-turbo.json](./212792-the-jumping-noodles-turbo.json) |
 | The Jumping Onion Ring | 329575 | [329575-the-jumping-onion-ring.json](./329575-the-jumping-onion-ring.json) |
 | The Jumping Orange 3 | 373563 | [373563-the-jumping-orange-3.json](./373563-the-jumping-orange-3.json) |
+| The Jumping Pasta | 214012 | [214012-the-jumping-pasta.json](./214012-the-jumping-pasta.json) |
 | The Jumping Pumpkin | 218555 | [218555-the-jumping-pumpkin.json](./218555-the-jumping-pumpkin.json) |
 | The Jumping Quesadilla | 225756 | [225756-the-jumping-quesadilla.json](./225756-the-jumping-quesadilla.json) |
 | The Jumping Quesadilla: Turbo | 225755 | [225755-the-jumping-quesadilla-turbo.json](./225755-the-jumping-quesadilla-turbo.json) |
@@ -4554,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Saint Wife’s Newlywed Trials | 376560 | [376560-the-saint-wife-s-newlywed-trials.json](./376560-the-saint-wife-s-newlywed-trials.json) |
 | The Salatroitsk Incident | 180807 | [180807-the-salatroitsk-incident.json](./180807-the-salatroitsk-incident.json) |
 | The Salt Fortress | 28860 | [28860-the-salt-fortress.json](./28860-the-salt-fortress.json) |
+| The Same World 2 | 214022 | [214022-the-same-world-2.json](./214022-the-same-world-2.json) |
 | The Sandbox | 182468 | [182468-the-sandbox.json](./182468-the-sandbox.json) |
 | The Sandbox - Building & Craft | 90705 | [90705-the-sandbox-building-and-craft.json](./90705-the-sandbox-building-and-craft.json) |
 | The Sands of Egypt | 23688 | [23688-the-sands-of-egypt.json](./23688-the-sands-of-egypt.json) |
@@ -7266,6 +7270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Dog | 213411 | [213411-top-dog.json](./213411-top-dog.json) |
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
+| Top Down Zombies | 214027 | [214027-top-down-zombies.json](./214027-top-down-zombies.json) |
 | Top Duck | 280930 | [280930-top-duck.json](./280930-top-duck.json) |
 | Top Flight Turtle | 234171 | [234171-top-flight-turtle.json](./234171-top-flight-turtle.json) |
 | Top Gear | 27461 | [27461-top-gear.json](./27461-top-gear.json) |
@@ -9290,6 +9295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twofer Goofer | 388748 | [388748-twofer-goofer.json](./388748-twofer-goofer.json) |
 | Twofold Inc. | 80559 | [80559-twofold-inc.json](./80559-twofold-inc.json) |
 | Twofold: The Perfect Circle Collection | 410214 | [410214-twofold-the-perfect-circle-collection.json](./410214-twofold-the-perfect-circle-collection.json) |
+| Twogether: Project Indigos Chapter 1 | 214054 | [214054-twogether-project-indigos-chapter-1.json](./214054-twogether-project-indigos-chapter-1.json) |
 | TwoPlay Mahjong | 115020 | [115020-twoplay-mahjong.json](./115020-twoplay-mahjong.json) |
 | Twosheep.io | 274721 | [274721-twosheep-io.json](./274721-twosheep-io.json) |
 | TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
