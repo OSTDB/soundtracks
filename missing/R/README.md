@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: Grave Testimony - Collector's Edition | 102189 | [102189-redemption-cemetery-grave-testimony-collectors-edition.json](./102189-redemption-cemetery-grave-testimony-collectors-edition.json) |
 | Redemption Cemetery: Salvation of the Lost | 61077 | [61077-redemption-cemetery-salvation-of-the-lost.json](./61077-redemption-cemetery-salvation-of-the-lost.json) |
 | Redemption Cemetery: Terrors | 94776 | [94776-redemption-cemetery-terrors.json](./94776-redemption-cemetery-terrors.json) |
+| Redemption Cemetery: The Stolen Time - Collector's Edition | 201144 | [201144-redemption-cemetery-the-stolen-time-collectors-edition.json](./201144-redemption-cemetery-the-stolen-time-collectors-edition.json) |
 | Redemption of Liuyin | 333635 | [333635-redemption-of-liuyin.json](./333635-redemption-of-liuyin.json) |
 | Redemption: Eternal Quest | 34754 | [34754-redemption-eternal-quest.json](./34754-redemption-eternal-quest.json) |
 | RedEx | 163956 | [163956-redex.json](./163956-redex.json) |
