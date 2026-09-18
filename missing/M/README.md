@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainichi no Mimikaki | 227954 | [227954-mainichi-no-mimikaki.json](./227954-mainichi-no-mimikaki.json) |
 | Mainly at Rest | 165669 | [165669-mainly-at-rest.json](./165669-mainly-at-rest.json) |
 | Maison Kanraku: The Second Climax | 59992 | [59992-maison-kanraku-the-second-climax.json](./59992-maison-kanraku-the-second-climax.json) |
+| Maitetsu: Pure Station: Hachiroku Figure - Limited Edition | 212325 | [212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json](./212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json) |
 | Maize | 19518 | [19518-maize.json](./19518-maize.json) |
 | Maize Mace Maze | 293075 | [293075-maize-mace-maze.json](./293075-maize-mace-maze.json) |
 | Maja and Benny | 353976 | [353976-maja-and-benny.json](./353976-maja-and-benny.json) |
@@ -2169,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megacobra vs. Sharkbat | 368563 | [368563-megacobra-vs-sharkbat.json](./368563-megacobra-vs-sharkbat.json) |
 | Megacop | 117663 | [117663-megacop.json](./117663-megacop.json) |
 | Megadeka | 344474 | [344474-megadeka.json](./344474-megadeka.json) |
+| Megadimension Neptunia VII: Dream Edition | 212333 | [212333-megadimension-neptunia-vii-dream-edition.json](./212333-megadimension-neptunia-vii-dream-edition.json) |
 | Megadimension Neptunia VII: Party Character - God Eater | 238177 | [238177-megadimension-neptunia-vii-party-character-god-eater.json](./238177-megadimension-neptunia-vii-party-character-god-eater.json) |
 | Megadimension Neptunia VII: Party Character - Nitroplus | 238178 | [238178-megadimension-neptunia-vii-party-character-nitroplus.json](./238178-megadimension-neptunia-vii-party-character-nitroplus.json) |
 | Megadimension Neptunia VII: Party Character - Umio & Nepgya | 238179 | [238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json](./238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json) |
@@ -5216,6 +5218,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multirotor Sim 2 | 81234 | [81234-multirotor-sim-2.json](./81234-multirotor-sim-2.json) |
 | Multishop Tycoon Deluxe | 30031 | [30031-multishop-tycoon-deluxe.json](./30031-multishop-tycoon-deluxe.json) |
 | Multiverse Idle | 390632 | [390632-multiverse-idle.json](./390632-multiverse-idle.json) |
+| MultiVersus: Founder's Pack - Deluxe Edition | 212309 | [212309-multiversus-founders-pack-deluxe-edition.json](./212309-multiversus-founders-pack-deluxe-edition.json) |
+| MultiVersus: Founder's Pack - Premium Edition | 212308 | [212308-multiversus-founders-pack-premium-edition.json](./212308-multiversus-founders-pack-premium-edition.json) |
+| MultiVersus: Founder's Pack - Standard Edition | 212307 | [212307-multiversus-founders-pack-standard-edition.json](./212307-multiversus-founders-pack-standard-edition.json) |
 | MultiVersus: MVP Pack 2 | 316065 | [316065-multiversus-mvp-pack-2.json](./316065-multiversus-mvp-pack-2.json) |
 | Multiversus: Season 1 - Puns & Villainy | 305377 | [305377-multiversus-season-1-puns-and-villainy.json](./305377-multiversus-season-1-puns-and-villainy.json) |
 | MultiVersus: Season 4 | 330139 | [330139-multiversus-season-4.json](./330139-multiversus-season-4.json) |
