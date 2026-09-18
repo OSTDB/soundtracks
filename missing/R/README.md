@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Roller | 211218 | [211218-raccoon-roller.json](./211218-raccoon-roller.json) |
 | Raccoon Squad | 261860 | [261860-raccoon-squad.json](./261860-raccoon-squad.json) |
 | Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
+| Raccoon Tales | 200573 | [200573-raccoon-tales.json](./200573-raccoon-tales.json) |
 | Raccoon Valley Tycoon | 373083 | [373083-raccoon-valley-tycoon.json](./373083-raccoon-valley-tycoon.json) |
 | Raccoonwave | 307120 | [307120-raccoonwave.json](./307120-raccoonwave.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
@@ -3164,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rouge.exe | 274986 | [274986-rouge-exe.json](./274986-rouge-exe.json) |
 | Rougelight | 86094 | [86094-rougelight.json](./86094-rougelight.json) |
 | Rough Justice: '84 | 133154 | [133154-rough-justice-84.json](./133154-rough-justice-84.json) |
+| Rough Kuts: 3D | 200572 | [200572-rough-kuts-3d.json](./200572-rough-kuts-3d.json) |
 | Roulette | 147900 | [147900-roulette.json](./147900-roulette.json) |
 | Roulette | 366926 | [366926-roulette.json](./366926-roulette.json) |
 | Roulette Club | 368547 | [368547-roulette-club.json](./368547-roulette-club.json) |
@@ -3557,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruriiro Days: Heavenly Blue | 221242 | [221242-ruriiro-days-heavenly-blue.json](./221242-ruriiro-days-heavenly-blue.json) |
 | Ruruli Ra Rura | 45950 | [45950-ruruli-ra-rura.json](./45950-ruruli-ra-rura.json) |
 | Rush | 131541 | [131541-rush.json](./131541-rush.json) |
+| Rush | 200584 | [200584-rush.json](./200584-rush.json) |
 | Rush | 272586 | [272586-rush.json](./272586-rush.json) |
 | Rush | 7634 | [7634-rush.json](./7634-rush.json) |
 | Rush | 88768 | [88768-rush.json](./88768-rush.json) |
