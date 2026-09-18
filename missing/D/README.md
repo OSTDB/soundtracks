@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Arrives | 151122 | [151122-darkness-arrives.json](./151122-darkness-arrives.json) |
 | Darkness Machine | 289868 | [289868-darkness-machine.json](./289868-darkness-machine.json) |
 | Darkness Maze Cube | 130213 | [130213-darkness-maze-cube.json](./130213-darkness-maze-cube.json) |
+| Darkness Maze Cube | 221255 | [221255-darkness-maze-cube.json](./221255-darkness-maze-cube.json) |
 | Darkness of the Coast | 195220 | [195220-darkness-of-the-coast.json](./195220-darkness-of-the-coast.json) |
 | Darkness Reborn | 28820 | [28820-darkness-reborn.json](./28820-darkness-reborn.json) |
 | Darkness Rises | 103411 | [103411-darkness-rises.json](./103411-darkness-rises.json) |
@@ -1049,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadboot | 360103 | [360103-deadboot.json](./360103-deadboot.json) |
 | Deadcam | 323190 | [323190-deadcam.json](./323190-deadcam.json) |
 | DeadCore Redux | 345547 | [345547-deadcore-redux.json](./345547-deadcore-redux.json) |
+| Deadcraft: Digital Deluxe Edition | 221250 | [221250-deadcraft-digital-deluxe-edition.json](./221250-deadcraft-digital-deluxe-edition.json) |
 | Deaded | 238738 | [238738-deaded.json](./238738-deaded.json) |
 | Deadeus | 122405 | [122405-deadeus.json](./122405-deadeus.json) |
 | DeadEye | 116340 | [116340-deadeye.json](./116340-deadeye.json) |
@@ -1264,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathsmiles Mega Black Label | 79852 | [79852-deathsmiles-mega-black-label.json](./79852-deathsmiles-mega-black-label.json) |
 | Deathtide | 232007 | [232007-deathtide.json](./232007-deathtide.json) |
 | Deathtrap Dungeon: The Interactive Video Adventure | 129936 | [129936-deathtrap-dungeon-the-interactive-video-adventure.json](./129936-deathtrap-dungeon-the-interactive-video-adventure.json) |
+| Deathwatch | 221258 | [221258-deathwatch.json](./221258-deathwatch.json) |
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
 | Debasing Grounds | 286682 | [286682-debasing-grounds.json](./286682-debasing-grounds.json) |
 | Debbie's Diner Derby | 394889 | [394889-debbies-diner-derby.json](./394889-debbies-diner-derby.json) |
@@ -4806,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Coup | 161350 | [161350-dungeon-coup.json](./161350-dungeon-coup.json) |
 | Dungeon Crawler | 191823 | [191823-dungeon-crawler.json](./191823-dungeon-crawler.json) |
 | Dungeon Create | 265139 | [265139-dungeon-create.json](./265139-dungeon-create.json) |
+| Dungeon Cross | 221251 | [221251-dungeon-cross.json](./221251-dungeon-cross.json) |
 | Dungeon Crusher: Soul Hunters | 142999 | [142999-dungeon-crusher-soul-hunters.json](./142999-dungeon-crusher-soul-hunters.json) |
 | Dungeon Dad | 191832 | [191832-dungeon-dad.json](./191832-dungeon-dad.json) |
 | Dungeon Danger Traps 2 | 372543 | [372543-dungeon-danger-traps-2.json](./372543-dungeon-danger-traps-2.json) |
