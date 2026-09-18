@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hat Hunters | 103428 | [103428-hat-hunters.json](./103428-hat-hunters.json) |
 | Hat Trick Hero 2 | 38332 | [38332-hat-trick-hero-2.json](./38332-hat-trick-hero-2.json) |
 | Hat Tricks: Hare in Box | 229054 | [229054-hat-tricks-hare-in-box.json](./229054-hat-tricks-hare-in-box.json) |
+| Hat World: New Testament | 229186 | [229186-hat-world-new-testament.json](./229186-hat-world-new-testament.json) |
 | Hatate-chan no Joshi Ryoku Training! | 403040 | [403040-hatate-chan-no-joshi-ryoku-training.json](./403040-hatate-chan-no-joshi-ryoku-training.json) |
 | Hatch | 314491 | [314491-hatch.json](./314491-hatch.json) |
 | Hatch Catch | 40175 | [40175-hatch-catch.json](./40175-hatch-catch.json) |
@@ -1125,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Revealations | 275570 | [275570-hell-revealations.json](./275570-hell-revealations.json) |
 | Hell Revealed | 138759 | [138759-hell-revealed.json](./138759-hell-revealed.json) |
 | Hell Road VR | 143019 | [143019-hell-road-vr.json](./143019-hell-road-vr.json) |
+| Hell Runner | 229202 | [229202-hell-runner.json](./229202-hell-runner.json) |
 | Hell Slayer | 232446 | [232446-hell-slayer.json](./232446-hell-slayer.json) |
 | Hell Spheres | 285455 | [285455-hell-spheres.json](./285455-hell-spheres.json) |
 | Hell Survive | 75787 | [75787-hell-survive.json](./75787-hell-survive.json) |
