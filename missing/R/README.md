@@ -2972,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Football: Royale Lands | 368558 | [368558-room-football-royale-lands.json](./368558-room-football-royale-lands.json) |
 | Room Football: Wetlands | 339282 | [339282-room-football-wetlands.json](./339282-room-football-wetlands.json) |
 | Room For One! | 367478 | [367478-room-for-one.json](./367478-room-for-one.json) |
+| Room of Halloween | 229153 | [229153-room-of-halloween.json](./229153-room-of-halloween.json) |
 | Room of Roilands | 177501 | [177501-room-of-roilands.json](./177501-room-of-roilands.json) |
 | Room231 | 297206 | [297206-room231.json](./297206-room231.json) |
 | Roomates | 82053 | [82053-roomates.json](./82053-roomates.json) |
@@ -3370,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run the Rings | 323520 | [323520-run-the-rings.json](./323520-run-the-rings.json) |
 | Run Think Shoot | 253041 | [253041-run-think-shoot.json](./253041-run-think-shoot.json) |
 | Run to Infinity | 227841 | [227841-run-to-infinity.json](./227841-run-to-infinity.json) |
+| Run to Infinity: Easy Mode | 229170 | [229170-run-to-infinity-easy-mode.json](./229170-run-to-infinity-easy-mode.json) |
 | Run to Nowhere | 206705 | [206705-run-to-nowhere.json](./206705-run-to-nowhere.json) |
 | Run Tom Hanks Run | 307294 | [307294-run-tom-hanks-run.json](./307294-run-tom-hanks-run.json) |
 | Run, Poo, Run! | 388967 | [388967-run-poo-run.json](./388967-run-poo-run.json) |
@@ -3477,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush for the Bomb | 54352 | [54352-rush-for-the-bomb.json](./54352-rush-for-the-bomb.json) |
 | Rush Grotto | 378895 | [378895-rush-grotto.json](./378895-rush-grotto.json) |
 | Rush Hour Deluxe: The ultimate traffic jam game! | 220878 | [220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json](./220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json) |
+| Rush Legends | 229206 | [229206-rush-legends.json](./229206-rush-legends.json) |
 | Rush Legends PvP FPS | 231906 | [231906-rush-legends-pvp-fps.json](./231906-rush-legends-pvp-fps.json) |
 | Rush On | 253353 | [253353-rush-on.json](./253353-rush-on.json) |
 | Rush Out | 174828 | [174828-rush-out.json](./174828-rush-out.json) |
