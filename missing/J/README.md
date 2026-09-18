@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 22 | 270193 | [270193-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-22.json](./270193-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-22.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 7XS | 263506 | [263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json](./263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json) |
 | Jigsaw Puzzle Passport: Spain | 393628 | [393628-jigsaw-puzzle-passport-spain.json](./393628-jigsaw-puzzle-passport-spain.json) |
+| Jigsaw Puzzle Villa | 220206 | [220206-jigsaw-puzzle-villa.json](./220206-jigsaw-puzzle-villa.json) |
 | Jigsaw Puzzle World | 244344 | [244344-jigsaw-puzzle-world.json](./244344-jigsaw-puzzle-world.json) |
 | Jigsaw Puzzle World Memories | 244366 | [244366-jigsaw-puzzle-world-memories.json](./244366-jigsaw-puzzle-world-memories.json) |
 | Jigsaw Puzzle World: Agricultural Machinery | 293070 | [293070-jigsaw-puzzle-world-agricultural-machinery.json](./293070-jigsaw-puzzle-world-agricultural-machinery.json) |
