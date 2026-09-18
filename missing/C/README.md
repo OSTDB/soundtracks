@@ -1926,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chigau!!!+: Premium Edition | 186232 | [186232-chigau-premium-edition.json](./186232-chigau-premium-edition.json) |
 | Chigusa's Diary | 412422 | [412422-chigusas-diary.json](./412422-chigusas-diary.json) |
 | Chihuahua Controller | 373115 | [373115-chihuahua-controller.json](./373115-chihuahua-controller.json) |
+| Chikai no Kiss wa Totsuzen ni | 221241 | [221241-chikai-no-kiss-wa-totsuzen-ni.json](./221241-chikai-no-kiss-wa-totsuzen-ni.json) |
 | Chikankyou: Gachi Tsukaeru Appli de Muchimuchi Kyonyuu Shiri o Monde Sawatte! Acme-gao de Ikasetai!! | 109000 | [109000-chikankyou-gachi-tsukaeru-appli-de-muchimuchi-kyonyuu-shiri-o-monde-sawatte-acme-gao-de-ikasetai.json](./109000-chikankyou-gachi-tsukaeru-appli-de-muchimuchi-kyonyuu-shiri-o-monde-sawatte-acme-gao-de-ikasetai.json) |
 | Chikarou | 206384 | [206384-chikarou.json](./206384-chikarou.json) |
 | Chikasuiji kara no Dasshutsu | 251616 | [251616-chikasuiji-kara-no-dasshutsu.json](./251616-chikasuiji-kara-no-dasshutsu.json) |
@@ -2157,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Mashin Eiyuuden Wataru: Mazekko Monster 2 | 66065 | [66065-chou-mashin-eiyuuden-wataru-mazekko-monster-2.json](./66065-chou-mashin-eiyuuden-wataru-mazekko-monster-2.json) |
 | Chou Meisaku Suiri Adventure DS: Raymond Chandler Gensaku - Saraba Itoshiki Hito yo | 269583 | [269583-chou-meisaku-suiri-adventure-ds-raymond-chandler-gensaku-saraba-itoshiki-hito-yo.json](./269583-chou-meisaku-suiri-adventure-ds-raymond-chandler-gensaku-saraba-itoshiki-hito-yo.json) |
 | Chou Sentou-chuu: Battle for Money | 280328 | [280328-chou-sentou-chuu-battle-for-money.json](./280328-chou-sentou-chuu-battle-for-money.json) |
+| Choujikuu Yousai Macross: Countdown | 221272 | [221272-choujikuu-yousai-macross-countdown.json](./221272-choujikuu-yousai-macross-countdown.json) |
 | Choujin Baseball Stadium: Nekketsu Story | 222398 | [222398-choujin-baseball-stadium-nekketsu-story.json](./222398-choujin-baseball-stadium-nekketsu-story.json) |
 | Choujin Heiki Zeroigar | 45960 | [45960-choujin-heiki-zeroigar.json](./45960-choujin-heiki-zeroigar.json) |
 | Chousenshi Densetsu: Assault from the Sea | 62189 | [62189-chousenshi-densetsu-assault-from-the-sea.json](./62189-chousenshi-densetsu-assault-from-the-sea.json) |
@@ -2430,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
 | Circoid | 296679 | [296679-circoid.json](./296679-circoid.json) |
 | Circolour | 107239 | [107239-circolour.json](./107239-circolour.json) |
+| Circuit Blasters | 221294 | [221294-circuit-blasters.json](./221294-circuit-blasters.json) |
 | Circuit Breaker | 364570 | [364570-circuit-breaker.json](./364570-circuit-breaker.json) |
 | Circuit City | 188676 | [188676-circuit-city.json](./188676-circuit-city.json) |
 | Circuit Defender | 211197 | [211197-circuit-defender.json](./211197-circuit-defender.json) |
@@ -3261,6 +3264,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
 | Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
 | Colorful Life Simulator | 316646 | [316646-colorful-life-simulator.json](./316646-colorful-life-simulator.json) |
+| Colorful Logic | 221273 | [221273-colorful-logic.json](./221273-colorful-logic.json) |
+| Colorful Logic 2 | 221274 | [221274-colorful-logic-2.json](./221274-colorful-logic-2.json) |
+| Colorful Logic 3 | 221275 | [221275-colorful-logic-3.json](./221275-colorful-logic-3.json) |
 | Colorful Mirai: Spooky Edition | 308962 | [308962-colorful-mirai-spooky-edition.json](./308962-colorful-mirai-spooky-edition.json) |
 | Colorful Party Wars | 201248 | [201248-colorful-party-wars.json](./201248-colorful-party-wars.json) |
 | Colorful Tower of Hanoi | 386701 | [386701-colorful-tower-of-hanoi.json](./386701-colorful-tower-of-hanoi.json) |
