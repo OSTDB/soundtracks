@@ -2177,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Choreographist | 140564 | [140564-the-choreographist.json](./140564-the-choreographist.json) |
 | The Chosen RPG | 146264 | [146264-the-chosen-rpg.json](./146264-the-chosen-rpg.json) |
 | The Chosen Warriors | 81229 | [81229-the-chosen-warriors.json](./81229-the-chosen-warriors.json) |
+| The Christmas Spirit: Golden Ticket | 187968 | [187968-the-christmas-spirit-golden-ticket.json](./187968-the-christmas-spirit-golden-ticket.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
 | The Chronicler | 150631 | [150631-the-chronicler.json](./150631-the-chronicler.json) |
 | The Chronicles of Ezra Blackwell: Episode 1 - Pappi's Peril | 277281 | [277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json](./277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json) |
@@ -2989,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost | 174885 | [174885-the-ghost.json](./174885-the-ghost.json) |
 | The Ghost and The Phoenix | 224585 | [224585-the-ghost-and-the-phoenix.json](./224585-the-ghost-and-the-phoenix.json) |
 | The Ghost Cage | 173273 | [173273-the-ghost-cage.json](./173273-the-ghost-cage.json) |
+| The Ghost of Paris | 187974 | [187974-the-ghost-of-paris.json](./187974-the-ghost-of-paris.json) |
 | The Ghost of Us | 313880 | [313880-the-ghost-of-us.json](./313880-the-ghost-of-us.json) |
 | The Ghosts Race | 214186 | [214186-the-ghosts-race.json](./214186-the-ghosts-race.json) |
 | The Giant of Torridge Island | 192984 | [192984-the-giant-of-torridge-island.json](./192984-the-giant-of-torridge-island.json) |
@@ -3264,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Illusory Abyss | 118368 | [118368-the-illusory-abyss.json](./118368-the-illusory-abyss.json) |
 | The Imaginary Circle | 215369 | [215369-the-imaginary-circle.json](./215369-the-imaginary-circle.json) |
 | The Immemorial Order | 290005 | [290005-the-immemorial-order.json](./290005-the-immemorial-order.json) |
+| The Immortal | 187982 | [187982-the-immortal.json](./187982-the-immortal.json) |
 | The Immortal Lock | 308269 | [308269-the-immortal-lock.json](./308269-the-immortal-lock.json) |
 | The Immortal Mayor | 152377 | [152377-the-immortal-mayor.json](./152377-the-immortal-mayor.json) |
 | The Immortal Mayor: Kingdom of Women | 262077 | [262077-the-immortal-mayor-kingdom-of-women.json](./262077-the-immortal-mayor-kingdom-of-women.json) |
@@ -5480,7 +5483,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unrest Age | 197852 | [197852-the-unrest-age.json](./197852-the-unrest-age.json) |
 | The Unseen Awakening | 347148 | [347148-the-unseen-awakening.json](./347148-the-unseen-awakening.json) |
 | The Unseen Fears: Body Thief - Collector's Edition | 377077 | [377077-the-unseen-fears-body-thief-collectors-edition.json](./377077-the-unseen-fears-body-thief-collectors-edition.json) |
+| The Unseen Fears: Ominous Talent | 187937 | [187937-the-unseen-fears-ominous-talent.json](./187937-the-unseen-fears-ominous-talent.json) |
 | The Unseen Fears: Outlive - Collector's Edition | 360664 | [360664-the-unseen-fears-outlive-collectors-edition.json](./360664-the-unseen-fears-outlive-collectors-edition.json) |
+| The Unseen Fears: Stories Untold | 187940 | [187940-the-unseen-fears-stories-untold.json](./187940-the-unseen-fears-stories-untold.json) |
 | The Unsettled | 199665 | [199665-the-unsettled.json](./199665-the-unsettled.json) |
 | The Unspoken | 25908 | [25908-the-unspoken.json](./25908-the-unspoken.json) |
 | The Untamed | 193893 | [193893-the-untamed.json](./193893-the-untamed.json) |
