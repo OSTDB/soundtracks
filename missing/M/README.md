@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. | 192923 | [192923-mario-bros.json](./192923-mario-bros.json) |
 | Mario Bros. | 192924 | [192924-mario-bros.json](./192924-mario-bros.json) |
 | Mario Bros. | 257638 | [257638-mario-bros.json](./257638-mario-bros.json) |
+| Mario Bros. VB | 231513 | [231513-mario-bros-vb.json](./231513-mario-bros-vb.json) |
 | Mario Bros.-e | 170013 | [170013-mario-bros-e.json](./170013-mario-bros-e.json) |
 | Mario Builder | 323745 | [323745-mario-builder.json](./323745-mario-builder.json) |
 | Mario Doom | 314469 | [314469-mario-doom.json](./314469-mario-doom.json) |
@@ -1132,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart: Virtual Cup | 195211 | [195211-mario-kart-virtual-cup.json](./195211-mario-kart-virtual-cup.json) |
 | Mario Learns About Colors | 323187 | [323187-mario-learns-about-colors.json](./323187-mario-learns-about-colors.json) |
 | Mario Lost In Space | 384109 | [384109-mario-lost-in-space.json](./384109-mario-lost-in-space.json) |
+| Mario Motors | 231507 | [231507-mario-motors.json](./231507-mario-motors.json) |
 | Mario Net Quest | 246087 | [246087-mario-net-quest.json](./246087-mario-net-quest.json) |
 | Mario no Photopi | 3541 | [3541-mario-no-photopi.json](./3541-mario-no-photopi.json) |
 | Mario Noir | 323924 | [323924-mario-noir.json](./323924-mario-noir.json) |
@@ -1187,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Pride: Mini Quest | 254516 | [254516-marios-pride-mini-quest.json](./254516-marios-pride-mini-quest.json) |
 | Mario's Rules: Variety on 3 | 323748 | [323748-marios-rules-variety-on-3.json](./323748-marios-rules-variety-on-3.json) |
 | Mario's Timeship Battle | 318041 | [318041-marios-timeship-battle.json](./318041-marios-timeship-battle.json) |
+| Mario/Rabbids Crossover Adventure Game | 231477 | [231477-mario-rabbids-crossover-adventure-game.json](./231477-mario-rabbids-crossover-adventure-game.json) |
 | Marioblade Chronicles 64 | 219044 | [219044-marioblade-chronicles-64.json](./219044-marioblade-chronicles-64.json) |
 | Marion Surgical Robot Game | 336905 | [336905-marion-surgical-robot-game.json](./336905-marion-surgical-robot-game.json) |
 | MarionetteAI | 41970 | [41970-marionetteai.json](./41970-marionetteai.json) |
