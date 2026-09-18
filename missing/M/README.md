@@ -3432,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Wheels | 83591 | [83591-mini-wheels.json](./83591-mini-wheels.json) |
 | Mini Words | 125710 | [125710-mini-words.json](./125710-mini-words.json) |
 | Mini Z Racers Turbo | 31902 | [31902-mini-z-racers-turbo.json](./31902-mini-z-racers-turbo.json) |
+| Mini-Game Greatest Hits | 230390 | [230390-mini-game-greatest-hits.json](./230390-mini-game-greatest-hits.json) |
 | Mini-Level Megawad | 269654 | [269654-mini-level-megawad.json](./269654-mini-level-megawad.json) |
 | Mini-Market Simulator VR | 309377 | [309377-mini-market-simulator-vr.json](./309377-mini-market-simulator-vr.json) |
 | Mini-Metroid | 291622 | [291622-mini-metroid.json](./291622-mini-metroid.json) |
@@ -4705,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaique Neko Waifus 4 | 167809 | [167809-mosaique-neko-waifus-4.json](./167809-mosaique-neko-waifus-4.json) |
 | Mosaique Neko Waifus 5 | 221206 | [221206-mosaique-neko-waifus-5.json](./221206-mosaique-neko-waifus-5.json) |
 | Mosh Pit Simulator | 109545 | [109545-mosh-pit-simulator.json](./109545-mosh-pit-simulator.json) |
+| Moshi Monsters: School of ROX | 230391 | [230391-moshi-monsters-school-of-rox.json](./230391-moshi-monsters-school-of-rox.json) |
 | Móshòu Shìjiè: Èmó Lièrén | 252361 | [252361-moshou-shijie-emo-lieren.json](./252361-moshou-shijie-emo-lieren.json) |
 | Moss Destruction | 103431 | [103431-moss-destruction.json](./103431-moss-destruction.json) |
 | Moss Palace Parade | 406118 | [406118-moss-palace-parade.json](./406118-moss-palace-parade.json) |
@@ -5623,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Railroad | 118952 | [118952-my-railroad.json](./118952-my-railroad.json) |
 | My Raising Diary | 321594 | [321594-my-raising-diary.json](./321594-my-raising-diary.json) |
 | My Real Desire | 331693 | [331693-my-real-desire.json](./331693-my-real-desire.json) |
+| My Reaper Girlfriend | 230358 | [230358-my-reaper-girlfriend.json](./230358-my-reaper-girlfriend.json) |
 | My Rental Girlfriend | 205819 | [205819-my-rental-girlfriend.json](./205819-my-rental-girlfriend.json) |
 | My Riding Stables 2: A New Adventure | 140008 | [140008-my-riding-stables-2-a-new-adventure.json](./140008-my-riding-stables-2-a-new-adventure.json) |
 | My Riding Stables: Life with Horses 2 | 109770 | [109770-my-riding-stables-life-with-horses-2.json](./109770-my-riding-stables-life-with-horses-2.json) |
