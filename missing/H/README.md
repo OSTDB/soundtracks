@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex | 72028 | [72028-hex.json](./72028-hex.json) |
 | Hex & Agon | 144351 | [144351-hex-and-agon.json](./144351-hex-and-agon.json) |
 | Hex and Chill | 335365 | [335365-hex-and-chill.json](./335365-hex-and-chill.json) |
+| Hex For Hire | 182925 | [182925-hex-for-hire.json](./182925-hex-for-hire.json) |
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
 | Hex Pipe | 403665 | [403665-hex-pipe.json](./403665-hex-pipe.json) |
 | Hex Pool | 40172 | [40172-hex-pool.json](./40172-hex-pool.json) |
