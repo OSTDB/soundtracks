@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enga Extreme Battle Race | 172104 | [172104-enga-extreme-battle-race.json](./172104-enga-extreme-battle-race.json) |
 | Engage Princess: Nemureru Himegimi to Yume no Mahoutsukai | 205618 | [205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json](./205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json) |
 | Engare | 34110 | [34110-engare.json](./34110-engare.json) |
+| Engels met Rayman + Frans met Rayman | 193349 | [193349-engels-met-rayman-frans-met-rayman.json](./193349-engels-met-rayman-frans-met-rayman.json) |
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
 | Engine Room | 47266 | [47266-engine-room.json](./47266-engine-room.json) |
 | Engine Sentai Go-Onger: Mach de Oboeru! Aiueo!! | 123618 | [123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json](./123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json) |
@@ -1131,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | England in London | 276836 | [276836-england-in-london.json](./276836-england-in-london.json) |
 | England Team Manager | 69289 | [69289-england-team-manager.json](./69289-england-team-manager.json) |
 | English Country Tune | 9699 | [9699-english-country-tune.json](./9699-english-country-tune.json) |
+| English with Rayman | 193344 | [193344-english-with-rayman.json](./193344-english-with-rayman.json) |
 | Engraving | 269025 | [269025-engraving.json](./269025-engraving.json) |
 | Enherjar Synergy | 159880 | [159880-enherjar-synergy.json](./159880-enherjar-synergy.json) |
 | Enigma Da Parda | 335881 | [335881-enigma-da-parda.json](./335881-enigma-da-parda.json) |
@@ -1602,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESP Ra.De. Psi | 56433 | [56433-esp-ra-de-psi.json](./56433-esp-ra-de-psi.json) |
 | Espace | 346090 | [346090-espace.json](./346090-espace.json) |
 | Espacio | 202252 | [202252-espacio.json](./202252-espacio.json) |
+| Espagnol avec Rayman | 193348 | [193348-espagnol-avec-rayman.json](./193348-espagnol-avec-rayman.json) |
 | Espalion | 266487 | [266487-espalion.json](./266487-espalion.json) |
 | Esper | 23893 | [23893-esper.json](./23893-esper.json) |
 | Esper 2 | 18396 | [18396-esper-2.json](./18396-esper-2.json) |
