@@ -2141,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Sidin': Hyphy Edition | 325042 | [325042-high-sidin-hyphy-edition.json](./325042-high-sidin-hyphy-edition.json) |
 | High Stakes | 299750 | [299750-high-stakes.json](./299750-high-stakes.json) |
 | Highball | 119731 | [119731-highball.json](./119731-highball.json) |
+| Highblast | 189066 | [189066-highblast.json](./189066-highblast.json) |
 | Highborn: Chapter 2 | 168838 | [168838-highborn-chapter-2.json](./168838-highborn-chapter-2.json) |
 | Highborn: Chapter 3 | 168839 | [168839-highborn-chapter-3.json](./168839-highborn-chapter-3.json) |
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
