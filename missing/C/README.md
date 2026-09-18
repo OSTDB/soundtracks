@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catnip & Coffee | 350529 | [350529-catnip-and-coffee.json](./350529-catnip-and-coffee.json) |
 | Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
 | Cato: Buttered Cat | 203934 | [203934-cato-buttered-cat.json](./203934-cato-buttered-cat.json) |
+| Catroom Drama: Case 2 | 183953 | [183953-catroom-drama-case-2.json](./183953-catroom-drama-case-2.json) |
 | CatRoots | 130334 | [130334-catroots.json](./130334-catroots.json) |
 | CatRunner 2022 | 299902 | [299902-catrunner-2022.json](./299902-catrunner-2022.json) |
 | Cats | 301856 | [301856-cats.json](./301856-cats.json) |
@@ -1660,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charade Maniacs: Limited Edition | 265936 | [265936-charade-maniacs-limited-edition.json](./265936-charade-maniacs-limited-edition.json) |
 | Charades Taboo Game | 100145 | [100145-charades-taboo-game.json](./100145-charades-taboo-game.json) |
 | Charge | 120992 | [120992-charge.json](./120992-charge.json) |
+| Charge Cycles | 183976 | [183976-charge-cycles.json](./183976-charge-cycles.json) |
 | Charge Up | 413091 | [413091-charge-up.json](./413091-charge-up.json) |
 | Charge! Tank Squad | 59392 | [59392-charge-tank-squad.json](./59392-charge-tank-squad.json) |
 | Charged! | 258736 | [258736-charged.json](./258736-charged.json) |
@@ -3096,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coda | 358349 | [358349-coda.json](./358349-coda.json) |
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
 | Code angel | 153943 | [153943-code-angel.json](./153943-code-angel.json) |
+| Code Bunny | 183988 | [183988-code-bunny.json](./183988-code-bunny.json) |
 | Code Carbon | 24857 | [24857-code-carbon.json](./24857-code-carbon.json) |
 | Code Dungeon | 185592 | [185592-code-dungeon.json](./185592-code-dungeon.json) |
 | Code Eagle! | 246438 | [246438-code-eagle.json](./246438-code-eagle.json) |
@@ -4472,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
+| Crackshot | 183982 | [183982-crackshot.json](./183982-crackshot.json) |
 | Cracksman | 346054 | [346054-cracksman.json](./346054-cracksman.json) |
 | CrackSword | 397823 | [397823-cracksword.json](./397823-cracksword.json) |
 | Cradle of Egypt / Cradle of Persia | 201861 | [201861-cradle-of-egypt-cradle-of-persia.json](./201861-cradle-of-egypt-cradle-of-persia.json) |
