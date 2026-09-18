@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Clown Deluxe Pinball Table | 349914 | [349914-zaccaria-pinball-clown-deluxe-pinball-table.json](./349914-zaccaria-pinball-clown-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Deluxe Table Pack 2 | 411006 | [411006-zaccaria-pinball-deluxe-table-pack-2.json](./411006-zaccaria-pinball-deluxe-table-pack-2.json) |
 | Zaccaria Pinball: Deluxe Table Pack 3 | 411007 | [411007-zaccaria-pinball-deluxe-table-pack-3.json](./411007-zaccaria-pinball-deluxe-table-pack-3.json) |
+| Zaccaria Pinball: Deluxe Tables Pack 1 | 208453 | [208453-zaccaria-pinball-deluxe-tables-pack-1.json](./208453-zaccaria-pinball-deluxe-tables-pack-1.json) |
 | Zaccaria Pinball: Earth Wind Fire Deluxe Pinball Table | 349922 | [349922-zaccaria-pinball-earth-wind-fire-deluxe-pinball-table.json](./349922-zaccaria-pinball-earth-wind-fire-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Electro-Mechanical Table Pack 2 | 411008 | [411008-zaccaria-pinball-electro-mechanical-table-pack-2.json](./411008-zaccaria-pinball-electro-mechanical-table-pack-2.json) |
 | Zaccaria Pinball: Future World Deluxe Pinball Table | 349923 | [349923-zaccaria-pinball-future-world-deluxe-pinball-table.json](./349923-zaccaria-pinball-future-world-deluxe-pinball-table.json) |
@@ -51,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Solid-State Table Pack 3 | 411009 | [411009-zaccaria-pinball-solid-state-table-pack-3.json](./411009-zaccaria-pinball-solid-state-table-pack-3.json) |
 | Zaccaria Pinball: Supersonic Deluxe Pinball Table | 349916 | [349916-zaccaria-pinball-supersonic-deluxe-pinball-table.json](./349916-zaccaria-pinball-supersonic-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Tropical Deluxe Pinball Table | 349921 | [349921-zaccaria-pinball-tropical-deluxe-pinball-table.json](./349921-zaccaria-pinball-tropical-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Zombie Invasion | 208455 | [208455-zaccaria-pinball-zombie-invasion.json](./208455-zaccaria-pinball-zombie-invasion.json) |
 | Zach-Like | 119788 | [119788-zach-like.json](./119788-zach-like.json) |
 | Zack Y | 109724 | [109724-zack-y.json](./109724-zack-y.json) |
 | Zad Maldan My Bloody Sacrifice | 219679 | [219679-zad-maldan-my-bloody-sacrifice.json](./219679-zad-maldan-my-bloody-sacrifice.json) |
