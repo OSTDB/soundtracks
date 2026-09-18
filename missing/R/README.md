@@ -2716,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Ascent VR | 191914 | [191914-rogue-ascent-vr.json](./191914-rogue-ascent-vr.json) |
 | Rogue Bit | 110363 | [110363-rogue-bit.json](./110363-rogue-bit.json) |
 | Rogue Blaster | 232435 | [232435-rogue-blaster.json](./232435-rogue-blaster.json) |
+| Rogue Blight | 212912 | [212912-rogue-blight.json](./212912-rogue-blight.json) |
 | Rogue Carrier | 409641 | [409641-rogue-carrier.json](./409641-rogue-carrier.json) |
 | Rogue Climber | 312746 | [312746-rogue-climber.json](./312746-rogue-climber.json) |
 | Rogue Company: Power Ballad Pack | 406820 | [406820-rogue-company-power-ballad-pack.json](./406820-rogue-company-power-ballad-pack.json) |
