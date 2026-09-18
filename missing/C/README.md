@@ -2670,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil Warfare: Another Bullet in the War | 79136 | [79136-civil-warfare-another-bullet-in-the-war.json](./79136-civil-warfare-another-bullet-in-the-war.json) |
 | Civilization | 175915 | [175915-civilization.json](./175915-civilization.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
+| Civitas | 187380 | [187380-civitas.json](./187380-civitas.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
 | Clad in Iron Chincha Islands 1866 | 226304 | [226304-clad-in-iron-chincha-islands-1866.json](./226304-clad-in-iron-chincha-islands-1866.json) |
 | Clad in Iron: Sakhalin 1904 | 111222 | [111222-clad-in-iron-sakhalin-1904.json](./111222-clad-in-iron-sakhalin-1904.json) |
@@ -2755,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classy Train | 213021 | [213021-classy-train.json](./213021-classy-train.json) |
 | Clatter | 112721 | [112721-clatter.json](./112721-clatter.json) |
 | Cláudio | 412962 | [412962-claudio.json](./412962-claudio.json) |
+| Claus Adventure | 187371 | [187371-claus-adventure.json](./187371-claus-adventure.json) |
 | Claustrophobia | 190079 | [190079-claustrophobia.json](./190079-claustrophobia.json) |
 | Claustrophobia | 268184 | [268184-claustrophobia.json](./268184-claustrophobia.json) |
 | Claustrophobia 1024 | 260947 | [260947-claustrophobia-1024.json](./260947-claustrophobia-1024.json) |
