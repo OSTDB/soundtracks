@@ -3888,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Island | 329582 | [329582-the-lost-island.json](./329582-the-lost-island.json) |
 | The Lost Island | 34248 | [34248-the-lost-island.json](./34248-the-lost-island.json) |
 | The Lost Island of Alanna | 71496 | [71496-the-lost-island-of-alanna.json](./71496-the-lost-island-of-alanna.json) |
+| The Lost Kingdom Prophecy | 200581 | [200581-the-lost-kingdom-prophecy.json](./200581-the-lost-kingdom-prophecy.json) |
 | The Lost Labyrinth | 166712 | [166712-the-lost-labyrinth.json](./166712-the-lost-labyrinth.json) |
 | The Lost Land of Bahía Blanca | 406792 | [406792-the-lost-land-of-bahia-blanca.json](./406792-the-lost-land-of-bahia-blanca.json) |
 | The Lost Legends of Redwall: Feasts & Friends | 280511 | [280511-the-lost-legends-of-redwall-feasts-and-friends.json](./280511-the-lost-legends-of-redwall-feasts-and-friends.json) |
@@ -7317,6 +7318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonka Search & Rescue 2 | 137029 | [137029-tonka-search-and-rescue-2.json](./137029-tonka-search-and-rescue-2.json) |
 | Tonka Town | 73786 | [73786-tonka-town.json](./73786-tonka-town.json) |
 | Tonka: Dig'n Rigs | 226412 | [226412-tonka-dign-rigs.json](./226412-tonka-dign-rigs.json) |
+| Tonkachi Mario | 200555 | [200555-tonkachi-mario.json](./200555-tonkachi-mario.json) |
 | Tonko 4 | 159256 | [159256-tonko-4.json](./159256-tonko-4.json) |
 | TonpaQuest | 178043 | [178043-tonpaquest.json](./178043-tonpaquest.json) |
 | Tony & Friends in Kellogg's Land | 58272 | [58272-tony-and-friends-in-kelloggs-land.json](./58272-tony-and-friends-in-kelloggs-land.json) |
@@ -7581,6 +7583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Spies! Cyber Mission | 302511 | [302511-totally-spies-cyber-mission.json](./302511-totally-spies-cyber-mission.json) |
 | Totally Spies! The Mobile Game | 317003 | [317003-totally-spies-the-mobile-game.json](./317003-totally-spies-the-mobile-game.json) |
 | Totally Spies! Totally Party | 5238 | [5238-totally-spies-totally-party.json](./5238-totally-spies-totally-party.json) |
+| Totally Tattoos | 200603 | [200603-totally-tattoos.json](./200603-totally-tattoos.json) |
 | Totally Tuberz | 373074 | [373074-totally-tuberz.json](./373074-totally-tuberz.json) |
 | Totally Unbalanced | 32402 | [32402-totally-unbalanced.json](./32402-totally-unbalanced.json) |
 | Tôtem | 133974 | [133974-totem.json](./133974-totem.json) |
