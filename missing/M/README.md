@@ -2774,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
 | Meteor Storm | 319587 | [319587-meteor-storm.json](./319587-meteor-storm.json) |
 | Meteor Storm | 379900 | [379900-meteor-storm.json](./379900-meteor-storm.json) |
+| Meteor World Actor: Badge & Dagger | 194451 | [194451-meteor-world-actor-badge-and-dagger.json](./194451-meteor-world-actor-badge-and-dagger.json) |
 | Meteorfall: Krumit's Tale | 98379 | [98379-meteorfall-krumits-tale.json](./98379-meteorfall-krumits-tale.json) |
 | Meteorfall: Krumit's Tale - Varfa the Ranger | 172169 | [172169-meteorfall-krumits-tale-varfa-the-ranger.json](./172169-meteorfall-krumits-tale-varfa-the-ranger.json) |
 | Meteorite Destroyer | 104119 | [104119-meteorite-destroyer.json](./104119-meteorite-destroyer.json) |
@@ -4911,6 +4912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother May I | 291455 | [291455-mother-may-i.json](./291455-mother-may-i.json) |
 | Mother of All Battles | 102823 | [102823-mother-of-all-battles.json](./102823-mother-of-all-battles.json) |
 | Mother of All Battles! | 338001 | [338001-mother-of-all-battles.json](./338001-mother-of-all-battles.json) |
+| Mother of Many | 194403 | [194403-mother-of-many.json](./194403-mother-of-many.json) |
 | Mother of Myth | 19643 | [19643-mother-of-myth.json](./19643-mother-of-myth.json) |
 | Mother, Player | 393489 | [393489-mother-player.json](./393489-mother-player.json) |
 | Mother: Beyond Bounds | 315107 | [315107-mother-beyond-bounds.json](./315107-mother-beyond-bounds.json) |
@@ -5307,6 +5309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MultiEnding Heroes | 345558 | [345558-multiending-heroes.json](./345558-multiending-heroes.json) |
 | Multilytheus | 186271 | [186271-multilytheus.json](./186271-multilytheus.json) |
 | Multimaker | 109748 | [109748-multimaker.json](./109748-multimaker.json) |
+| Multimedia Cats | 194441 | [194441-multimedia-cats.json](./194441-multimedia-cats.json) |
 | Multimedia Dinosaurs | 98941 | [98941-multimedia-dinosaurs.json](./98941-multimedia-dinosaurs.json) |
 | Multiplayer Knights | 235193 | [235193-multiplayer-knights.json](./235193-multiplayer-knights.json) |
 | Multiplayer Mongolians | 320560 | [320560-multiplayer-mongolians.json](./320560-multiplayer-mongolians.json) |
@@ -5418,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murderous Pursuits | 85526 | [85526-murderous-pursuits.json](./85526-murderous-pursuits.json) |
 | Murders on Budapest | 174285 | [174285-murders-on-budapest.json](./174285-murders-on-budapest.json) |
 | Murderwave: Digital Slaughter | 121011 | [121011-murderwave-digital-slaughter.json](./121011-murderwave-digital-slaughter.json) |
+| Murdle | 194471 | [194471-murdle.json](./194471-murdle.json) |
 | Murdoku | 401511 | [401511-murdoku.json](./401511-murdoku.json) |
 | Murkon's Refuge | 65490 | [65490-murkons-refuge.json](./65490-murkons-refuge.json) |
 | Murkon's Vengeance | 65491 | [65491-murkons-vengeance.json](./65491-murkons-vengeance.json) |
