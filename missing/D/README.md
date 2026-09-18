@@ -2240,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicepath | 405592 | [405592-dicepath.json](./405592-dicepath.json) |
 | DiceRogue | 400333 | [400333-dicerogue.json](./400333-dicerogue.json) |
 | Dices Toss: The Falling Eight Count | 232537 | [232537-dices-toss-the-falling-eight-count.json](./232537-dices-toss-the-falling-eight-count.json) |
+| Dicewars DS | 229135 | [229135-dicewars-ds.json](./229135-dicewars-ds.json) |
 | Dicey Demons | 309130 | [309130-dicey-demons.json](./309130-dicey-demons.json) |
 | Dicey Dungeons | 102420 | [102420-dicey-dungeons.json](./102420-dicey-dungeons.json) |
 | Dicey Dungeons Reunion | 208403 | [208403-dicey-dungeons-reunion.json](./208403-dicey-dungeons-reunion.json) |
@@ -2592,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disappearance of the Literature Club | 333611 | [333611-disappearance-of-the-literature-club.json](./333611-disappearance-of-the-literature-club.json) |
 | Disaster | 186809 | [186809-disaster.json](./186809-disaster.json) |
 | Disaster Area | 236283 | [236283-disaster-area.json](./236283-disaster-area.json) |
+| Disaster Band | 229138 | [229138-disaster-band.json](./229138-disaster-band.json) |
 | Disaster Crisis | 166749 | [166749-disaster-crisis.json](./166749-disaster-crisis.json) |
 | Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
 | Disaster Town Tycoon | 294731 | [294731-disaster-town-tycoon.json](./294731-disaster-town-tycoon.json) |
