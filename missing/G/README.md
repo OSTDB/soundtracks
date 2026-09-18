@@ -2773,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Band: Rock Battle | 299999 | [299999-guitar-band-rock-battle.json](./299999-guitar-band-rock-battle.json) |
 | Guitar Girl Match 3 | 193930 | [193930-guitar-girl-match-3.json](./193930-guitar-girl-match-3.json) |
 | Guitar Hero | 1285 | [1285-guitar-hero.json](./1285-guitar-hero.json) |
+| Guitar Hero | 210101 | [210101-guitar-hero.json](./210101-guitar-hero.json) |
 | Guitar Hero II | 2670 | [2670-guitar-hero-ii.json](./2670-guitar-hero-ii.json) |
 | Guitar Hero II: Indonesia 2018 | 293740 | [293740-guitar-hero-ii-indonesia-2018.json](./293740-guitar-hero-ii-indonesia-2018.json) |
 | Guitar Hero III: Game Hits | 360102 | [360102-guitar-hero-iii-game-hits.json](./360102-guitar-hero-iii-game-hits.json) |
