@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacra Terra: Angelic Night - Collector's Edition | 25475 | [25475-sacra-terra-angelic-night-collectors-edition.json](./25475-sacra-terra-angelic-night-collectors-edition.json) |
 | Sacra: Falling of Myrd | 331692 | [331692-sacra-falling-of-myrd.json](./331692-sacra-falling-of-myrd.json) |
 | Sacralith: The Archer's Tale | 61622 | [61622-sacralith-the-archers-tale.json](./61622-sacralith-the-archers-tale.json) |
+| Sacrament iv. | 181248 | [181248-sacrament-iv.json](./181248-sacrament-iv.json) |
 | Sacrament of the Zodiac: The Confused Sheep and The Tamed Wolf | 141832 | [141832-sacrament-of-the-zodiac-the-confused-sheep-and-the-tamed-wolf.json](./141832-sacrament-of-the-zodiac-the-confused-sheep-and-the-tamed-wolf.json) |
 | Sacred 2: Fallen Angel | 1043 | [1043-sacred-2-fallen-angel.json](./1043-sacred-2-fallen-angel.json) |
 | Sacred 3 | 5615 | [5615-sacred-3.json](./5615-sacred-3.json) |
@@ -289,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salad Bar Tycoon: Expansion Pack 1 | 237972 | [237972-salad-bar-tycoon-expansion-pack-1.json](./237972-salad-bar-tycoon-expansion-pack-1.json) |
 | Salad Bar Tycoon: Expansion Pack 2 | 237973 | [237973-salad-bar-tycoon-expansion-pack-2.json](./237973-salad-bar-tycoon-expansion-pack-2.json) |
 | Salad Bar Tycoon: Extended Edition | 201143 | [201143-salad-bar-tycoon-extended-edition.json](./201143-salad-bar-tycoon-extended-edition.json) |
+| Salagander | 181222 | [181222-salagander.json](./181222-salagander.json) |
 | Salamander | 192397 | [192397-salamander.json](./192397-salamander.json) |
 | Salamander | 261902 | [261902-salamander.json](./261902-salamander.json) |
 | Salamander | 261903 | [261903-salamander.json](./261903-salamander.json) |
@@ -326,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salubrious Scales | 167265 | [167265-salubrious-scales.json](./167265-salubrious-scales.json) |
 | Salvador | 241645 | [241645-salvador.json](./241645-salvador.json) |
 | Salvador Dali painting match | 103529 | [103529-salvador-dali-painting-match.json](./103529-salvador-dali-painting-match.json) |
+| Salvage | 181242 | [181242-salvage.json](./181242-salvage.json) |
 | Salvage Shop Simulator | 355103 | [355103-salvage-shop-simulator.json](./355103-salvage-shop-simulator.json) |
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
 | Salvation | 79851 | [79851-salvation.json](./79851-salvation.json) |
@@ -3579,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull8 | 362873 | [362873-skull8.json](./362873-skull8.json) |
 | Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
 | Skulldash Expanded Edition | 142416 | [142416-skulldash-expanded-edition.json](./142416-skulldash-expanded-edition.json) |
+| Skulldude | 181220 | [181220-skulldude.json](./181220-skulldude.json) |
 | Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
 | Skullgirls: 2nd Encore | 11179 | [11179-skullgirls-2nd-encore.json](./11179-skullgirls-2nd-encore.json) |
 | Skullhammer | 181862 | [181862-skullhammer.json](./181862-skullhammer.json) |
@@ -8052,6 +8056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormbound: Kingdom Wars | 70909 | [70909-stormbound-kingdom-wars.json](./70909-stormbound-kingdom-wars.json) |
 | Stormbroken | 363920 | [363920-stormbroken.json](./363920-stormbroken.json) |
 | Stormforge | 305188 | [305188-stormforge.json](./305188-stormforge.json) |
+| Storming the Grandmothership | 181227 | [181227-storming-the-grandmothership.json](./181227-storming-the-grandmothership.json) |
 | Stormlord | 12781 | [12781-stormlord.json](./12781-stormlord.json) |
 | StormRend | 184563 | [184563-stormrend.json](./184563-stormrend.json) |
 | Stormrise | 7197 | [7197-stormrise.json](./7197-stormrise.json) |
@@ -8157,6 +8162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
 | Strategy Games | 84213 | [84213-strategy-games.json](./84213-strategy-games.json) |
 | Strategy Six-Pack | 86034 | [86034-strategy-six-pack.json](./86034-strategy-six-pack.json) |
+| Stratform | 181246 | [181246-stratform.json](./181246-stratform.json) |
 | Strato | 35955 | [35955-strato.json](./35955-strato.json) |
 | Strato Breaker | 235357 | [235357-strato-breaker.json](./235357-strato-breaker.json) |
 | Strato Supremacy | 245853 | [245853-strato-supremacy.json](./245853-strato-supremacy.json) |
@@ -10178,6 +10184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Bar | 298874 | [298874-sushi-bar.json](./298874-sushi-bar.json) |
 | Sushi Bar Express | 54416 | [54416-sushi-bar-express.json](./54416-sushi-bar-express.json) |
 | Sushi Battle Rambunctiously | 267685 | [267685-sushi-battle-rambunctiously.json](./267685-sushi-battle-rambunctiously.json) |
+| Sushi Belt | 181226 | [181226-sushi-belt.json](./181226-sushi-belt.json) |
 | Sushi Cat | 87214 | [87214-sushi-cat.json](./87214-sushi-cat.json) |
 | Sushi Cat 2 | 323934 | [323934-sushi-cat-2.json](./323934-sushi-cat-2.json) |
 | Sushi Catapult | 320746 | [320746-sushi-catapult.json](./320746-sushi-catapult.json) |
