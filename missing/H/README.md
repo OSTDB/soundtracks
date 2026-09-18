@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts: Card Game | 143066 | [143066-hearts-card-game.json](./143066-hearts-card-game.json) |
 | Hearts: Classic Fun Card Game | 87549 | [87549-hearts-classic-fun-card-game.json](./87549-hearts-classic-fun-card-game.json) |
 | Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
+| Heartstop | 199510 | [199510-heartstop.json](./199510-heartstop.json) |
 | Heartstrings | 202371 | [202371-heartstrings.json](./202371-heartstrings.json) |
 | Heartwood | 179158 | [179158-heartwood.json](./179158-heartwood.json) |
 | Heat 'n Hit: The Blacksmith Simulator | 371962 | [371962-heat-n-hit-the-blacksmith-simulator.json](./371962-heat-n-hit-the-blacksmith-simulator.json) |
@@ -1687,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Abyss | 191160 | [191160-heroes-of-abyss.json](./191160-heroes-of-abyss.json) |
 | Heroes of Annihilated Empires | 14824 | [14824-heroes-of-annihilated-empires.json](./14824-heroes-of-annihilated-empires.json) |
 | Heroes of Arcana | 211759 | [211759-heroes-of-arcana.json](./211759-heroes-of-arcana.json) |
+| Heroes of Book & Paper | 199506 | [199506-heroes-of-book-and-paper.json](./199506-heroes-of-book-and-paper.json) |
 | Heroes of Camelot | 7449 | [7449-heroes-of-camelot.json](./7449-heroes-of-camelot.json) |
 | Heroes of Drakerealm | 235485 | [235485-heroes-of-drakerealm.json](./235485-heroes-of-drakerealm.json) |
 | Heroes of Eroticism: Amorous Advances | 244349 | [244349-heroes-of-eroticism-amorous-advances.json](./244349-heroes-of-eroticism-amorous-advances.json) |
@@ -2583,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeless | 277287 | [277287-homeless.json](./277287-homeless.json) |
 | Homeless | 312726 | [312726-homeless.json](./312726-homeless.json) |
 | Homeless Guy | 258733 | [258733-homeless-guy.json](./258733-homeless-guy.json) |
+| Homemade TCG | 199504 | [199504-homemade-tcg.json](./199504-homemade-tcg.json) |
 | Homeostasis | 389444 | [389444-homeostasis.json](./389444-homeostasis.json) |
 | Homepage | 347702 | [347702-homepage.json](./347702-homepage.json) |
 | Homer the Flanders Killer 6 | 268487 | [268487-homer-the-flanders-killer-6.json](./268487-homer-the-flanders-killer-6.json) |
@@ -2990,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Hysteria! | 316261 | [316261-hotel-hysteria.json](./316261-hotel-hysteria.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
 | Hotel Island: Paradise Story! | 88318 | [88318-hotel-island-paradise-story.json](./88318-hotel-island-paradise-story.json) |
+| Hotel Manager Simulator | 199498 | [199498-hotel-manager-simulator.json](./199498-hotel-manager-simulator.json) |
 | Hotel Mario | 8535 | [8535-hotel-mario.json](./8535-hotel-mario.json) |
 | Hotel Mario II | 269846 | [269846-hotel-mario-ii.json](./269846-hotel-mario-ii.json) |
 | Hotel Mario ReBooked | 321398 | [321398-hotel-mario-rebooked.json](./321398-hotel-mario-rebooked.json) |
