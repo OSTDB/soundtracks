@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
 | Iconic | 132253 | [132253-iconic.json](./132253-iconic.json) |
 | Iconic | 356704 | [356704-iconic.json](./356704-iconic.json) |
+| Icontrivia: Guess All Things Christmas | 232050 | [232050-icontrivia-guess-all-things-christmas.json](./232050-icontrivia-guess-all-things-christmas.json) |
 | Icontrivia: Guess the Character | 233746 | [233746-icontrivia-guess-the-character.json](./233746-icontrivia-guess-the-character.json) |
 | Icontrivia: Guess the Dogs | 233101 | [233101-icontrivia-guess-the-dogs.json](./233101-icontrivia-guess-the-dogs.json) |
 | Icy Fishes | 286643 | [286643-icy-fishes.json](./286643-icy-fishes.json) |
@@ -535,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iFarkle | 104658 | [104658-ifarkle.json](./104658-ifarkle.json) |
 | iFighter 1945 | 91940 | [91940-ifighter-1945.json](./91940-ifighter-1945.json) |
 | IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
+| IG Arena: Idle RPG | 232054 | [232054-ig-arena-idle-rpg.json](./232054-ig-arena-idle-rpg.json) |
 | Iga Ninden Ga-ou | 55899 | [55899-iga-ninden-ga-ou.json](./55899-iga-ninden-ga-ou.json) |
 | Iga tai Kouga | 385742 | [385742-iga-tai-kouga.json](./385742-iga-tai-kouga.json) |
 | Igeo DX | 136419 | [136419-igeo-dx.json](./136419-igeo-dx.json) |
@@ -1750,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islanders: New Shores | 333961 | [333961-islanders-new-shores.json](./333961-islanders-new-shores.json) |
 | Islanders: VR Edition | 260703 | [260703-islanders-vr-edition.json](./260703-islanders-vr-edition.json) |
 | Islandia | 92478 | [92478-islandia.json](./92478-islandia.json) |
+| Islands and Ships logic puzzle | 232048 | [232048-islands-and-ships-logic-puzzle.json](./232048-islands-and-ships-logic-puzzle.json) |
 | Islands of Insight | 212652 | [212652-islands-of-insight.json](./212652-islands-of-insight.json) |
 | Islands of Wakfu | 22947 | [22947-islands-of-wakfu.json](./22947-islands-of-wakfu.json) |
 | ISlash Dojo | 108448 | [108448-islash-dojo.json](./108448-islash-dojo.json) |
