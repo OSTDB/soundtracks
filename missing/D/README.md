@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Praise: The Original | 209001 | [209001-dance-praise-the-original.json](./209001-dance-praise-the-original.json) |
 | Dance School Stories | 89824 | [89824-dance-school-stories.json](./89824-dance-school-stories.json) |
 | Dance to the Finish | 178595 | [178595-dance-to-the-finish.json](./178595-dance-to-the-finish.json) |
+| Dance with the Devil | 181766 | [181766-dance-with-the-devil.json](./181766-dance-with-the-devil.json) |
 | Dance With Zombies | 127319 | [127319-dance-with-zombies.json](./127319-dance-with-zombies.json) |
 | Dance: UK | 95455 | [95455-dance-uk.json](./95455-dance-uk.json) |
 | Dance! Dance! Dance! | 132806 | [132806-dance-dance-dance.json](./132806-dance-dance-dance.json) |
@@ -1966,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DesertLand 2115 | 34350 | [34350-desertland-2115.json](./34350-desertland-2115.json) |
 | Desertopia | 244804 | [244804-desertopia.json](./244804-desertopia.json) |
 | Deserved | 391598 | [391598-deserved.json](./391598-deserved.json) |
+| Desespejos | 181799 | [181799-desespejos.json](./181799-desespejos.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
 | Désiré | 88080 | [88080-desire.json](./88080-desire.json) |
 | Desire & Decorum: Book 1 | 313713 | [313713-desire-and-decorum-book-1.json](./313713-desire-and-decorum-book-1.json) |
@@ -4474,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamed Away | 220745 | [220745-dreamed-away.json](./220745-dreamed-away.json) |
 | Dreamer | 101641 | [101641-dreamer.json](./101641-dreamer.json) |
 | Dreamer Series: Zoo Keeper | 230289 | [230289-dreamer-series-zoo-keeper.json](./230289-dreamer-series-zoo-keeper.json) |
+| Dreamer's Web | 181760 | [181760-dreamers-web.json](./181760-dreamers-web.json) |
 | Dreamers Disease | 291453 | [291453-dreamers-disease.json](./291453-dreamers-disease.json) |
 | Dreamfarer | 123001 | [123001-dreamfarer.json](./123001-dreamfarer.json) |
 | Dreamgate | 130060 | [130060-dreamgate.json](./130060-dreamgate.json) |
@@ -4647,6 +4650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver's Work Trip | 185150 | [185150-drivers-work-trip.json](./185150-drivers-work-trip.json) |
 | Driver4VR | 152871 | [152871-driver4vr.json](./152871-driver4vr.json) |
 | Drivers Ed Portable | 70425 | [70425-drivers-ed-portable.json](./70425-drivers-ed-portable.json) |
+| Driving Alone at Night | 181797 | [181797-driving-alone-at-night.json](./181797-driving-alone-at-night.json) |
 | Driving Essentials | 37071 | [37071-driving-essentials.json](./37071-driving-essentials.json) |
 | Driving Force | 340214 | [340214-driving-force.json](./340214-driving-force.json) |
 | Driving Me Crazy | 182933 | [182933-driving-me-crazy.json](./182933-driving-me-crazy.json) |
@@ -4779,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druonio | 177013 | [177013-druonio.json](./177013-druonio.json) |
 | Dry | 202356 | [202356-dry.json](./202356-dry.json) |
 | Dry Erase: Infinite VR Whiteboard | 51559 | [51559-dry-erase-infinite-vr-whiteboard.json](./51559-dry-erase-infinite-vr-whiteboard.json) |
+| Dry Path | 181808 | [181808-dry-path.json](./181808-dry-path.json) |
 | DS de Classic Kiite Mimasenka | 269551 | [269551-ds-de-classic-kiite-mimasenka.json](./269551-ds-de-classic-kiite-mimasenka.json) |
 | DS Kageyama Method: Dennou Hanpuku - Chiri, Rekishi, Koumin: Maru x Maru Shakai-ka | 269576 | [269576-ds-kageyama-method-dennou-hanpuku-chiri-rekishi-koumin-maru-x-maru-shakai-ka.json](./269576-ds-kageyama-method-dennou-hanpuku-chiri-rekishi-koumin-maru-x-maru-shakai-ka.json) |
 | DS Kageyama Method: Dennou Hanpuku - Masu x Masu Hyaku Masu Keisan | 269578 | [269578-ds-kageyama-method-dennou-hanpuku-masu-x-masu-hyaku-masu-keisan.json](./269578-ds-kageyama-method-dennou-hanpuku-masu-x-masu-hyaku-masu-keisan.json) |
@@ -5293,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Breed | 240798 | [240798-dying-breed.json](./240798-dying-breed.json) |
 | Dying Flame | 144976 | [144976-dying-flame.json](./144976-dying-flame.json) |
 | Dying for Daylight | 79904 | [79904-dying-for-daylight.json](./79904-dying-for-daylight.json) |
+| Dying In Dungeon | 181765 | [181765-dying-in-dungeon.json](./181765-dying-in-dungeon.json) |
 | Dying Light 2: Stay Human - Chicken Bundle | 243671 | [243671-dying-light-2-stay-human-chicken-bundle.json](./243671-dying-light-2-stay-human-chicken-bundle.json) |
 | Dying Light 2: Stay Human - Collector's Edition | 150146 | [150146-dying-light-2-stay-human-collectors-edition.json](./150146-dying-light-2-stay-human-collectors-edition.json) |
 | Dying Light 2: Stay Human - Reloaded Edition | 322800 | [322800-dying-light-2-stay-human-reloaded-edition.json](./322800-dying-light-2-stay-human-reloaded-edition.json) |
