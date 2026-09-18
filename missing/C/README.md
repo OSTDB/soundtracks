@@ -2470,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit: Demolition Derby 2 | 82147 | [82147-circuit-demolition-derby-2.json](./82147-circuit-demolition-derby-2.json) |
 | Circuitous | 90658 | [90658-circuitous.json](./90658-circuitous.json) |
 | Circular | 169466 | [169466-circular.json](./169466-circular.json) |
+| Circular | 205092 | [205092-circular.json](./205092-circular.json) |
 | Circular Logic Games | 264702 | [264702-circular-logic-games.json](./264702-circular-logic-games.json) |
 | Circumference Encompass | 306955 | [306955-circumference-encompass.json](./306955-circumference-encompass.json) |
 | Circus | 12944 | [12944-circus.json](./12944-circus.json) |
@@ -3754,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of the World | 47293 | [47293-conquest-of-the-world.json](./47293-conquest-of-the-world.json) |
 | Conquest: Global Domination | 411737 | [411737-conquest-global-domination.json](./411737-conquest-global-domination.json) |
 | Conquest: Medieval Kingdoms | 147368 | [147368-conquest-medieval-kingdoms.json](./147368-conquest-medieval-kingdoms.json) |
+| Conquist | 205089 | [205089-conquist.json](./205089-conquist.json) |
 | Conquista: Tide of Wills | 415116 | [415116-conquista-tide-of-wills.json](./415116-conquista-tide-of-wills.json) |
 | Conquistador | 236918 | [236918-conquistador.json](./236918-conquistador.json) |
 | Conrad Stevenson's Paranormal P.I. | 190151 | [190151-conrad-stevensons-paranormal-p-i.json](./190151-conrad-stevensons-paranormal-p-i.json) |
@@ -5020,6 +5022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crunch Element | 119770 | [119770-crunch-element.json](./119770-crunch-element.json) |
 | Crunch Time! | 218161 | [218161-crunch-time.json](./218161-crunch-time.json) |
 | Crunchball 3000 | 346564 | [346564-crunchball-3000.json](./346564-crunchball-3000.json) |
+| Crunchy Numbers Math Arcade | 205082 | [205082-crunchy-numbers-math-arcade.json](./205082-crunchy-numbers-math-arcade.json) |
 | Crusade of Deitra | 173296 | [173296-crusade-of-deitra.json](./173296-crusade-of-deitra.json) |
 | Crusade of Destiny | 66721 | [66721-crusade-of-destiny.json](./66721-crusade-of-destiny.json) |
 | Crusader Kings | 2922 | [2922-crusader-kings.json](./2922-crusader-kings.json) |
@@ -5588,6 +5591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Attack | 157205 | [157205-cyber-attack.json](./157205-cyber-attack.json) |
 | Cyber Avenger | 267467 | [267467-cyber-avenger.json](./267467-cyber-avenger.json) |
 | Cyber Battle 69 | 131608 | [131608-cyber-battle-69.json](./131608-cyber-battle-69.json) |
+| Cyber Blades | 205108 | [205108-cyber-blades.json](./205108-cyber-blades.json) |
 | Cyber Cell | 260230 | [260230-cyber-cell.json](./260230-cyber-cell.json) |
 | Cyber Citizen Shockman 3: The Princess From Another World | 300374 | [300374-cyber-citizen-shockman-3-the-princess-from-another-world.json](./300374-cyber-citizen-shockman-3-the-princess-from-another-world.json) |
 | Cyber Citizen Shockman Zero | 306049 | [306049-cyber-citizen-shockman-zero.json](./306049-cyber-citizen-shockman-zero.json) |
