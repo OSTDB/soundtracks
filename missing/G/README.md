@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Wandering Souls | 327174 | [327174-garden-of-wandering-souls.json](./327174-garden-of-wandering-souls.json) |
 | Garden Paradise | 305937 | [305937-garden-paradise.json](./305937-garden-paradise.json) |
 | Garden Party Shop | 359399 | [359399-garden-party-shop.json](./359399-garden-party-shop.json) |
+| Garden Pets | 233615 | [233615-garden-pets.json](./233615-garden-pets.json) |
 | Garden Simulator 2010 | 63817 | [63817-garden-simulator-2010.json](./63817-garden-simulator-2010.json) |
 | Garden Tails | 215156 | [215156-garden-tails.json](./215156-garden-tails.json) |
 | Garden Warfare: Crab Invasion | 337632 | [337632-garden-warfare-crab-invasion.json](./337632-garden-warfare-crab-invasion.json) |
@@ -823,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo-Political Simulator 5 | 315068 | [315068-geo-political-simulator-5.json](./315068-geo-political-simulator-5.json) |
 | Geobeast | 386706 | [386706-geobeast.json](./386706-geobeast.json) |
 | Geocells Tricells | 107869 | [107869-geocells-tricells.json](./107869-geocells-tricells.json) |
+| GeoChampion | 233627 | [233627-geochampion.json](./233627-geochampion.json) |
 | Geocraft | 388241 | [388241-geocraft.json](./388241-geocraft.json) |
 | Geodessey | 111753 | [111753-geodessey.json](./111753-geodessey.json) |
 | GeoEmpires | 342644 | [342644-geoempires.json](./342644-geoempires.json) |
@@ -1548,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godlike Burger | 143010 | [143010-godlike-burger.json](./143010-godlike-burger.json) |
 | Godrop | 292290 | [292290-godrop.json](./292290-godrop.json) |
 | Gods | 142458 | [142458-gods.json](./142458-gods.json) |
+| Gods & Civilization: Ragnarok | 233638 | [233638-gods-and-civilization-ragnarok.json](./233638-gods-and-civilization-ragnarok.json) |
 | Gods & Guardians | 256840 | [256840-gods-and-guardians.json](./256840-gods-and-guardians.json) |
 | Gods and Nemesis: of Ghosts from Dragons | 31884 | [31884-gods-and-nemesis-of-ghosts-from-dragons.json](./31884-gods-and-nemesis-of-ghosts-from-dragons.json) |
 | Gods of Almagest | 214514 | [214514-gods-of-almagest.json](./214514-gods-of-almagest.json) |
@@ -1637,11 +1640,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Axe | 5565 | [5565-golden-axe.json](./5565-golden-axe.json) |
 | Golden Axe Classics | 202829 | [202829-golden-axe-classics.json](./202829-golden-axe-classics.json) |
 | Golden Axe III Redux | 219271 | [219271-golden-axe-iii-redux.json](./219271-golden-axe-iii-redux.json) |
+| Golden Axe Plus | 233605 | [233605-golden-axe-plus.json](./233605-golden-axe-plus.json) |
 | Golden Axe: The Duel | 39349 | [39349-golden-axe-the-duel.json](./39349-golden-axe-the-duel.json) |
 | Golden Axed: A Cancelled Prototype | 140044 | [140044-golden-axed-a-cancelled-prototype.json](./140044-golden-axed-a-cancelled-prototype.json) |
 | Golden Chambers | 253999 | [253999-golden-chambers.json](./253999-golden-chambers.json) |
 | Golden Dungeons | 88193 | [88193-golden-dungeons.json](./88193-golden-dungeons.json) |
 | Golden Egg | 219800 | [219800-golden-egg.json](./219800-golden-egg.json) |
+| Golden Farm | 233620 | [233620-golden-farm.json](./233620-golden-farm.json) |
 | Golden Fever | 48009 | [48009-golden-fever.json](./48009-golden-fever.json) |
 | Golden Force | 139960 | [139960-golden-force.json](./139960-golden-force.json) |
 | Golden Galaxy | 243956 | [243956-golden-galaxy.json](./243956-golden-galaxy.json) |
@@ -2557,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growlanser Generations | 21311 | [21311-growlanser-generations.json](./21311-growlanser-generations.json) |
 | Growlanser IV: Wayfarer of the Time | 21313 | [21313-growlanser-iv-wayfarer-of-the-time.json](./21313-growlanser-iv-wayfarer-of-the-time.json) |
 | Growlanser: Heritage of War | 21308 | [21308-growlanser-heritage-of-war.json](./21308-growlanser-heritage-of-war.json) |
+| Growling In My Demise | 233597 | [233597-growling-in-my-demise.json](./233597-growling-in-my-demise.json) |
 | Growth | 229675 | [229675-growth.json](./229675-growth.json) |
 | Growth | 280208 | [280208-growth.json](./280208-growth.json) |
 | Growth | 331885 | [331885-growth.json](./331885-growth.json) |
