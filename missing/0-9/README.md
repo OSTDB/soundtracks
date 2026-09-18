@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Doors Escape: Let me In! | 256349 | [256349-100-doors-escape-let-me-in.json](./256349-100-doors-escape-let-me-in.json) |
 | 100 doors of artifact: Room Escape Challenge | 145001 | [145001-100-doors-of-artifact-room-escape-challenge.json](./145001-100-doors-of-artifact-room-escape-challenge.json) |
 | 100 Doors of Revenge | 234190 | [234190-100-doors-of-revenge.json](./234190-100-doors-of-revenge.json) |
+| 100 Doors: Escape from Prison | 195637 | [195637-100-doors-escape-from-prison.json](./195637-100-doors-escape-from-prison.json) |
 | 100 Doors: Escape from Work | 167806 | [167806-100-doors-escape-from-work.json](./167806-100-doors-escape-from-work.json) |
 | 100 Dubai Cats | 334120 | [334120-100-dubai-cats.json](./334120-100-dubai-cats.json) |
 | 100 Egypt Cats | 304666 | [304666-100-egypt-cats.json](./304666-100-egypt-cats.json) |
