@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iMahjong - Mahjong Pairs | 90041 | [90041-imahjong-mahjong-pairs.json](./90041-imahjong-mahjong-pairs.json) |
 | iMake IcePops | 101554 | [101554-imake-icepops.json](./101554-imake-icepops.json) |
 | Imaze.exe 2 | 113052 | [113052-imaze-exe-2.json](./113052-imaze-exe-2.json) |
+| Imbalance | 197260 | [197260-imbalance.json](./197260-imbalance.json) |
 | Imhotep | 47248 | [47248-imhotep.json](./47248-imhotep.json) |
 | Imi ga Wakaru to Kowai Shashin | 251604 | [251604-imi-ga-wakaru-to-kowai-shashin.json](./251604-imi-ga-wakaru-to-kowai-shashin.json) |
 | iMimic: 80's Vintage Electronic Memory Game | 232142 | [232142-imimic-80s-vintage-electronic-memory-game.json](./232142-imimic-80s-vintage-electronic-memory-game.json) |
