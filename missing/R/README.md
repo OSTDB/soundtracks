@@ -2135,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Academy | 306957 | [306957-ring-academy.json](./306957-ring-academy.json) |
 | Ring Battle | 361737 | [361737-ring-battle.json](./361737-ring-battle.json) |
 | Ring Fit Adventure: Rhythm Game | 320954 | [320954-ring-fit-adventure-rhythm-game.json](./320954-ring-fit-adventure-rhythm-game.json) |
+| Ring Jongg | 209020 | [209020-ring-jongg.json](./209020-ring-jongg.json) |
 | Ring King | 48208 | [48208-ring-king.json](./48208-ring-king.json) |
 | Ring of Destruction: Slam Masters II | 39567 | [39567-ring-of-destruction-slam-masters-ii.json](./39567-ring-of-destruction-slam-masters-ii.json) |
 | Ring of Elysium | 95308 | [95308-ring-of-elysium.json](./95308-ring-of-elysium.json) |
@@ -2848,7 +2849,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Angels | 84847 | [84847-roller-angels.json](./84847-roller-angels.json) |
 | Roller Ball 6 | 196287 | [196287-roller-ball-6.json](./196287-roller-ball-6.json) |
 | Roller Champions | 119158 | [119158-roller-champions.json](./119158-roller-champions.json) |
+| Roller Coaster Factory | 209003 | [209003-roller-coaster-factory.json](./209003-roller-coaster-factory.json) |
+| Roller Coaster Factory 3 | 209004 | [209004-roller-coaster-factory-3.json](./209004-roller-coaster-factory-3.json) |
 | Roller Coaster Rampage | 16359 | [16359-roller-coaster-rampage.json](./16359-roller-coaster-rampage.json) |
+| Roller Rush | 209008 | [209008-roller-rush.json](./209008-roller-rush.json) |
 | Roller Stars | 149017 | [149017-roller-stars.json](./149017-roller-stars.json) |
 | Roller-Skating | 328498 | [328498-roller-skating.json](./328498-roller-skating.json) |
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
@@ -3282,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubi: The Wayward Mira | 55180 | [55180-rubi-the-wayward-mira.json](./55180-rubi-the-wayward-mira.json) |
 | Rubicon | 79242 | [79242-rubicon.json](./79242-rubicon.json) |
 | Rubik's Cube 3-D | 40755 | [40755-rubiks-cube-3-d.json](./40755-rubiks-cube-3-d.json) |
+| Rubik's Cube Challenge | 209026 | [209026-rubiks-cube-challenge.json](./209026-rubiks-cube-challenge.json) |
 | Ruby and the Lost Crystals | 360581 | [360581-ruby-and-the-lost-crystals.json](./360581-ruby-and-the-lost-crystals.json) |
 | Ruby Crush | 270417 | [270417-ruby-crush.json](./270417-ruby-crush.json) |
 | Ruby Heart | 159871 | [159871-ruby-heart.json](./159871-ruby-heart.json) |
