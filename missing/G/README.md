@@ -2519,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The Vengeance - Collector's Edition | 118337 | [118337-grim-tales-the-vengeance-collectors-edition.json](./118337-grim-tales-the-vengeance-collectors-edition.json) |
 | Grim Tales: The White Lady - Collector's Edition | 250594 | [250594-grim-tales-the-white-lady-collectors-edition.json](./250594-grim-tales-the-white-lady-collectors-edition.json) |
 | Grim Tales: Threads of Destiny | 153388 | [153388-grim-tales-threads-of-destiny.json](./153388-grim-tales-threads-of-destiny.json) |
+| Grim Tales: Trace in Time | 187964 | [187964-grim-tales-trace-in-time.json](./187964-grim-tales-trace-in-time.json) |
 | Grim-World: Survival | 253447 | [253447-grim-world-survival.json](./253447-grim-world-survival.json) |
 | Grim's Gambit | 280936 | [280936-grims-gambit.json](./280936-grims-gambit.json) |
 | Grimace Run | 192796 | [192796-grimace-run.json](./192796-grimace-run.json) |
