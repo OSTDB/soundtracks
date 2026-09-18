@@ -3547,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asleep: Act 1 | 209702 | [209702-asleep-act-1.json](./209702-asleep-act-1.json) |
 | Asmik-kun Land | 48616 | [48616-asmik-kun-land.json](./48616-asmik-kun-land.json) |
 | Asmik-kun World 2 | 7798 | [7798-asmik-kun-world-2.json](./7798-asmik-kun-world-2.json) |
+| Asmodeus's Hell: Devil in the Sunshine State | 225753 | [225753-asmodeuss-hell-devil-in-the-sunshine-state.json](./225753-asmodeuss-hell-devil-in-the-sunshine-state.json) |
 | ASMR Pressure Wash VR | 372540 | [372540-asmr-pressure-wash-vr.json](./372540-asmr-pressure-wash-vr.json) |
 | ASMR Slicing | 254179 | [254179-asmr-slicing.json](./254179-asmr-slicing.json) |
 | Asobu Rakugaki | 72690 | [72690-asobu-rakugaki.json](./72690-asobu-rakugaki.json) |
@@ -4313,6 +4314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awareness | 244880 | [244880-awareness.json](./244880-awareness.json) |
 | Away from beauty | 115077 | [115077-away-from-beauty.json](./115077-away-from-beauty.json) |
 | Away From Life | 207301 | [207301-away-from-life.json](./207301-away-from-life.json) |
+| Away in the Woods | 225765 | [225765-away-in-the-woods.json](./225765-away-in-the-woods.json) |
 | Awaysis | 348231 | [348231-awaysis.json](./348231-awaysis.json) |
 | Awe of Despair | 75811 | [75811-awe-of-despair.json](./75811-awe-of-despair.json) |
 | Awesome Animated Monster Maker | 115070 | [115070-awesome-animated-monster-maker.json](./115070-awesome-animated-monster-maker.json) |
