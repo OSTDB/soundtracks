@@ -2547,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: PlayStation Plus Play Pack | 316623 | [316623-apex-legends-playstation-plus-play-pack.json](./316623-apex-legends-playstation-plus-play-pack.json) |
 | Apex Legends: PlayStation Plus Play Pack | 325861 | [325861-apex-legends-playstation-plus-play-pack.json](./325861-apex-legends-playstation-plus-play-pack.json) |
 | Apex Legends: Prodigy | 342775 | [342775-apex-legends-prodigy.json](./342775-apex-legends-prodigy.json) |
+| Apex Race Manager 2019 | 233116 | [233116-apex-race-manager-2019.json](./233116-apex-race-manager-2019.json) |
 | Apex Rebels | 275576 | [275576-apex-rebels.json](./275576-apex-rebels.json) |
 | Aphelion | 171599 | [171599-aphelion.json](./171599-aphelion.json) |
 | Aphelion | 348192 | [348192-aphelion.json](./348192-aphelion.json) |
@@ -4135,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autobahn Raser: Das Spiel zum Film | 144385 | [144385-autobahn-raser-das-spiel-zum-film.json](./144385-autobahn-raser-das-spiel-zum-film.json) |
 | Autobahn Tokio | 37206 | [37206-autobahn-tokio.json](./37206-autobahn-tokio.json) |
 | Autoball | 394887 | [394887-autoball.json](./394887-autoball.json) |
+| AutoCompete | 233099 | [233099-autocompete.json](./233099-autocompete.json) |
 | Autocracy | 84243 | [84243-autocracy.json](./84243-autocracy.json) |
 | Autocross Madness | 96274 | [96274-autocross-madness.json](./96274-autocross-madness.json) |
 | Autocrusher: Bumper Cars | 213608 | [213608-autocrusher-bumper-cars.json](./213608-autocrusher-bumper-cars.json) |
