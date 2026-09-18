@@ -5238,6 +5238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Odyssey | 329371 | [329371-cubic-odyssey.json](./329371-cubic-odyssey.json) |
 | Cubic Survivor | 255962 | [255962-cubic-survivor.json](./255962-cubic-survivor.json) |
 | Cubic Tetris | 302342 | [302342-cubic-tetris.json](./302342-cubic-tetris.json) |
+| CubicBan | 218565 | [218565-cubicban.json](./218565-cubicban.json) |
 | Cubicle Quest | 35762 | [35762-cubicle-quest.json](./35762-cubicle-quest.json) |
 | Cubicolor | 282717 | [282717-cubicolor.json](./282717-cubicolor.json) |
 | CubicPanic | 98980 | [98980-cubicpanic.json](./98980-cubicpanic.json) |
