@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Jigsaw: Wonderland 2 | 102816 | [102816-alices-jigsaw-wonderland-2.json](./102816-alices-jigsaw-wonderland-2.json) |
 | Alice's Jigsaw: Wonderland Chronicles | 286516 | [286516-alices-jigsaw-wonderland-chronicles.json](./286516-alices-jigsaw-wonderland-chronicles.json) |
 | Alice's Jigsaw: Wonderland Chronicles 2 | 286517 | [286517-alices-jigsaw-wonderland-chronicles-2.json](./286517-alices-jigsaw-wonderland-chronicles-2.json) |
+| Alice's Mergeland Adventure | 220223 | [220223-alices-mergeland-adventure.json](./220223-alices-mergeland-adventure.json) |
 | Alice's Warped Wonderland | 145633 | [145633-alices-warped-wonderland.json](./145633-alices-warped-wonderland.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
 | Alien 3 | 8908 | [8908-alien-3.json](./8908-alien-3.json) |
@@ -4343,6 +4344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awe of Despair | 75811 | [75811-awe-of-despair.json](./75811-awe-of-despair.json) |
 | Awesome Animated Monster Maker | 115070 | [115070-awesome-animated-monster-maker.json](./115070-awesome-animated-monster-maker.json) |
 | Awesome Asteroids | 239291 | [239291-awesome-asteroids.json](./239291-awesome-asteroids.json) |
+| Awesome Devil | 220207 | [220207-awesome-devil.json](./220207-awesome-devil.json) |
 | Awesome Memory | 87689 | [87689-awesome-memory.json](./87689-awesome-memory.json) |
 | Awesome Metal Detecting | 77371 | [77371-awesome-metal-detecting.json](./77371-awesome-metal-detecting.json) |
 | Awesome Possum Kicks Dr. Machino's Butt | 46240 | [46240-awesome-possum-kicks-dr-machinos-butt.json](./46240-awesome-possum-kicks-dr-machinos-butt.json) |
