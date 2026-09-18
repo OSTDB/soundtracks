@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxians & Gloops | 319580 | [319580-galaxians-and-gloops.json](./319580-galaxians-and-gloops.json) |
 | Galaxicus | 119022 | [119022-galaxicus.json](./119022-galaxicus.json) |
 | Galaxity | 113747 | [113747-galaxity.json](./113747-galaxity.json) |
+| Galaxity: Terminal 21 VR | 191132 | [191132-galaxity-terminal-21-vr.json](./191132-galaxity-terminal-21-vr.json) |
 | GalaxIverse | 31881 | [31881-galaxiverse.json](./31881-galaxiverse.json) |
 | GalaxIverse II | 304895 | [304895-galaxiverse-ii.json](./304895-galaxiverse-ii.json) |
 | Galaxy | 154578 | [154578-galaxy.json](./154578-galaxy.json) |
@@ -628,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay Zodiac | 183034 | [183034-gay-zodiac.json](./183034-gay-zodiac.json) |
 | Gayandere | 215782 | [215782-gayandere.json](./215782-gayandere.json) |
 | Gaze At Maze | 101620 | [101620-gaze-at-maze.json](./101620-gaze-at-maze.json) |
+| Gaze of the Eyeless | 191089 | [191089-gaze-of-the-eyeless.json](./191089-gaze-of-the-eyeless.json) |
 | Gazed | 393476 | [393476-gazed.json](./393476-gazed.json) |
 | Gazmatera: Return of the Generals | 149039 | [149039-gazmatera-return-of-the-generals.json](./149039-gazmatera-return-of-the-generals.json) |
 | GB Genjin Land: Viva! Chikkun Oukoku | 64344 | [64344-gb-genjin-land-viva-chikkun-oukoku.json](./64344-gb-genjin-land-viva-chikkun-oukoku.json) |
