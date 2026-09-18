@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Crisis | 40782 | [40782-castle-crisis.json](./40782-castle-crisis.json) |
 | Castle Crumble | 235306 | [235306-castle-crumble.json](./235306-castle-crumble.json) |
 | Castle Defender | 273909 | [273909-castle-defender.json](./273909-castle-defender.json) |
+| Castle Dice | 200035 | [200035-castle-dice.json](./200035-castle-dice.json) |
 | Castle Evalon | 323931 | [323931-castle-evalon.json](./323931-castle-evalon.json) |
 | Castle Explorer | 79838 | [79838-castle-explorer.json](./79838-castle-explorer.json) |
 | Castle Fantasia: Erencia Senki - Plus Stories | 408777 | [408777-castle-fantasia-erencia-senki-plus-stories.json](./408777-castle-fantasia-erencia-senki-plus-stories.json) |
@@ -961,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle: Never Judge a Book by its Cover | 17407 | [17407-castle-never-judge-a-book-by-its-cover.json](./17407-castle-never-judge-a-book-by-its-cover.json) |
 | Castle's Adventure | 245542 | [245542-castles-adventure.json](./245542-castles-adventure.json) |
 | CastleBoy | 144370 | [144370-castleboy.json](./144370-castleboy.json) |
+| Castleclysm TD | 200066 | [200066-castleclysm-td.json](./200066-castleclysm-td.json) |
 | CastleClysmic | 179153 | [179153-castleclysmic.json](./179153-castleclysmic.json) |
 | CastleDefense: RaiseArcher | 239141 | [239141-castledefense-raisearcher.json](./239141-castledefense-raisearcher.json) |
 | CastleOn | 353881 | [353881-castleon.json](./353881-castleon.json) |
@@ -1511,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained Together | 265111 | [265111-chained-together.json](./265111-chained-together.json) |
 | Chainmap Chaos | 271232 | [271232-chainmap-chaos.json](./271232-chainmap-chaos.json) |
 | ChainMonsters | 124148 | [124148-chainmonsters.json](./124148-chainmonsters.json) |
+| Chainphoria | 200059 | [200059-chainphoria.json](./200059-chainphoria.json) |
 | Chains Of Reality | 334196 | [334196-chains-of-reality.json](./334196-chains-of-reality.json) |
 | Chains on Sand | 372001 | [372001-chains-on-sand.json](./372001-chains-on-sand.json) |
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
@@ -2979,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
 | Clumsy Cat | 259242 | [259242-clumsy-cat.json](./259242-clumsy-cat.json) |
 | Clumsy Fighting | 104613 | [104613-clumsy-fighting.json](./104613-clumsy-fighting.json) |
+| Clumsy Knight vs. Skeletons R | 200065 | [200065-clumsy-knight-vs-skeletons-r.json](./200065-clumsy-knight-vs-skeletons-r.json) |
 | Clumsy Pirates | 22272 | [22272-clumsy-pirates.json](./22272-clumsy-pirates.json) |
 | Clumsy Rush + Brawl Chess Family Bundle | 218455 | [218455-clumsy-rush-brawl-chess-family-bundle.json](./218455-clumsy-rush-brawl-chess-family-bundle.json) |
 | Clumsy Rush: Ultimate Guys - Complete Edition | 232998 | [232998-clumsy-rush-ultimate-guys-complete-edition.json](./232998-clumsy-rush-ultimate-guys-complete-edition.json) |
@@ -3097,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: SYN | 137603 | [137603-codename-syn.json](./137603-codename-syn.json) |
 | Codenames | 105254 | [105254-codenames.json](./105254-codenames.json) |
 | CodeRed: Agent Sarah's Story - Day One | 76679 | [76679-codered-agent-sarahs-story-day-one.json](./76679-codered-agent-sarahs-story-day-one.json) |
+| CodeRunner | 200029 | [200029-coderunner.json](./200029-coderunner.json) |
 | CodeStrike | 368500 | [368500-codestrike.json](./368500-codestrike.json) |
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
 | CodyCross: Crossword Puzzles | 86994 | [86994-codycross-crossword-puzzles.json](./86994-codycross-crossword-puzzles.json) |
@@ -3316,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Water Sort: Gold Edition | 385195 | [385195-color-water-sort-gold-edition.json](./385195-color-water-sort-gold-edition.json) |
 | Color Your World | 145583 | [145583-color-your-world.json](./145583-color-your-world.json) |
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
+| Coloramba! | 200036 | [200036-coloramba.json](./200036-coloramba.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
 | ColorCube | 208378 | [208378-colorcube.json](./208378-colorcube.json) |
 | Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
@@ -4588,6 +4594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cursed Grandma's House | 272393 | [272393-crazy-cursed-grandmas-house.json](./272393-crazy-cursed-grandmas-house.json) |
 | Crazy Dessert Maker | 98928 | [98928-crazy-dessert-maker.json](./98928-crazy-dessert-maker.json) |
 | Crazy Eights | 70353 | [70353-crazy-eights.json](./70353-crazy-eights.json) |
+| Crazy Estate | 200042 | [200042-crazy-estate.json](./200042-crazy-estate.json) |
 | Crazy Fairies | 63267 | [63267-crazy-fairies.json](./63267-crazy-fairies.json) |
 | Crazy Farm 2 | 120354 | [120354-crazy-farm-2.json](./120354-crazy-farm-2.json) |
 | Crazy Flasher 3 | 62165 | [62165-crazy-flasher-3.json](./62165-crazy-flasher-3.json) |
