@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroomtopia | 286092 | [286092-shroomtopia.json](./286092-shroomtopia.json) |
 | Shroud of the Avatar - The Path of Virtue | 95995 | [95995-shroud-of-the-avatar-the-path-of-virtue.json](./95995-shroud-of-the-avatar-the-path-of-virtue.json) |
 | Shrouded Siege | 374052 | [374052-shrouded-siege.json](./374052-shrouded-siege.json) |
+| Shtdn | 202225 | [202225-shtdn.json](./202225-shtdn.json) |
 | Shudu | 247017 | [247017-shudu.json](./247017-shudu.json) |
 | Shuffle Farm | 345568 | [345568-shuffle-farm.json](./345568-shuffle-farm.json) |
 | Shuffle in One | 259551 | [259551-shuffle-in-one.json](./259551-shuffle-in-one.json) |
@@ -3037,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Star Japan Table Games | 144997 | [144997-silver-star-japan-table-games.json](./144997-silver-star-japan-table-games.json) |
 | Silver Star Reversi | 67963 | [67963-silver-star-reversi.json](./67963-silver-star-reversi.json) |
 | Silver State | 396245 | [396245-silver-state.json](./396245-silver-state.json) |
+| Silver Thread | 202227 | [202227-silver-thread.json](./202227-silver-thread.json) |
 | Silver Wire | 205033 | [205033-silver-wire.json](./205033-silver-wire.json) |
 | SilverDollar | 101525 | [101525-silverdollar.json](./101525-silverdollar.json) |
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
@@ -4932,10 +4934,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Ascends | 317611 | [317611-sonic-ascends.json](./317611-sonic-ascends.json) |
 | Sonic Astral Generations | 370199 | [370199-sonic-astral-generations.json](./370199-sonic-astral-generations.json) |
 | Sonic Axiom | 325848 | [325848-sonic-axiom.json](./325848-sonic-axiom.json) |
+| Sonic Bash | 202255 | [202255-sonic-bash.json](./202255-sonic-bash.json) |
 | Sonic Battle 2 | 326806 | [326806-sonic-battle-2.json](./326806-sonic-battle-2.json) |
 | Sonic Battle Rush | 266507 | [266507-sonic-battle-rush.json](./266507-sonic-battle-rush.json) |
 | Sonic Billiards | 261246 | [261246-sonic-billiards.json](./261246-sonic-billiards.json) |
 | Sonic Black Ace | 331957 | [331957-sonic-black-ace.json](./331957-sonic-black-ace.json) |
+| Sonic Blast | 202267 | [202267-sonic-blast.json](./202267-sonic-blast.json) |
 | Sonic Blasters | 334140 | [334140-sonic-blasters.json](./334140-sonic-blasters.json) |
 | Sonic Blaze | 330512 | [330512-sonic-blaze.json](./330512-sonic-blaze.json) |
 | Sonic Boom | 12855 | [12855-sonic-boom.json](./12855-sonic-boom.json) |
@@ -4946,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Breaking Point | 370212 | [370212-sonic-breaking-point.json](./370212-sonic-breaking-point.json) |
 | Sonic CCG | 330876 | [330876-sonic-ccg.json](./330876-sonic-ccg.json) |
 | Sonic CD | 86807 | [86807-sonic-cd.json](./86807-sonic-cd.json) |
+| Sonic CD 2011 Decompilation | 202234 | [202234-sonic-cd-2011-decompilation.json](./202234-sonic-cd-2011-decompilation.json) |
 | Sonic CD: Episode Metal | 201809 | [201809-sonic-cd-episode-metal.json](./201809-sonic-cd-episode-metal.json) |
 | Sonic CD++ | 198545 | [198545-sonic-cd.json](./198545-sonic-cd.json) |
 | Sonic Celerity | 336344 | [336344-sonic-celerity.json](./336344-sonic-celerity.json) |
@@ -5158,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog | 6231 | [6231-sonic-the-hedgehog.json](./6231-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog 1996 | 400967 | [400967-sonic-the-hedgehog-1996.json](./400967-sonic-the-hedgehog-1996.json) |
 | Sonic the Hedgehog 2 | 112884 | [112884-sonic-the-hedgehog-2.json](./112884-sonic-the-hedgehog-2.json) |
+| Sonic the Hedgehog 2 | 202256 | [202256-sonic-the-hedgehog-2.json](./202256-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 239069 | [239069-sonic-the-hedgehog-2.json](./239069-sonic-the-hedgehog-2.json) |
 | Sonic The Hedgehog 2: Archives | 332835 | [332835-sonic-the-hedgehog-2-archives.json](./332835-sonic-the-hedgehog-2-archives.json) |
 | Sonic the Hedgehog 2: Gear Shift | 321394 | [321394-sonic-the-hedgehog-2-gear-shift.json](./321394-sonic-the-hedgehog-2-gear-shift.json) |
@@ -5166,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic The Hedgehog 2D | 314902 | [314902-sonic-the-hedgehog-2d.json](./314902-sonic-the-hedgehog-2d.json) |
 | Sonic the Hedgehog 3 | 239071 | [239071-sonic-the-hedgehog-3.json](./239071-sonic-the-hedgehog-3.json) |
 | Sonic the Hedgehog 3 | 375301 | [375301-sonic-the-hedgehog-3.json](./375301-sonic-the-hedgehog-3.json) |
+| Sonic the Hedgehog Chaos & Spinball | 202266 | [202266-sonic-the-hedgehog-chaos-and-spinball.json](./202266-sonic-the-hedgehog-chaos-and-spinball.json) |
 | Sonic the Hedgehog Classic Heroes | 129159 | [129159-sonic-the-hedgehog-classic-heroes.json](./129159-sonic-the-hedgehog-classic-heroes.json) |
 | Sonic the Hedgehog DVD | 334139 | [334139-sonic-the-hedgehog-dvd.json](./334139-sonic-the-hedgehog-dvd.json) |
 | Sonic the Hedgehog Extreme Boarding | 198563 | [198563-sonic-the-hedgehog-extreme-boarding.json](./198563-sonic-the-hedgehog-extreme-boarding.json) |
