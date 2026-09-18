@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Guys: Season 4 - Creative Construction | 243406 | [243406-fall-guys-season-4-creative-construction.json](./243406-fall-guys-season-4-creative-construction.json) |
 | Fall Guys: Stunning Sealife Pack | 243664 | [243664-fall-guys-stunning-sealife-pack.json](./243664-fall-guys-stunning-sealife-pack.json) |
 | Fall Guys: Wildfire Pack | 243683 | [243683-fall-guys-wildfire-pack.json](./243683-fall-guys-wildfire-pack.json) |
+| Fall Jo! | 232047 | [232047-fall-jo.json](./232047-fall-jo.json) |
 | Fall Ninja | 268450 | [268450-fall-ninja.json](./268450-fall-ninja.json) |
 | Fall of Imiryn | 69257 | [69257-fall-of-imiryn.json](./69257-fall-of-imiryn.json) |
 | Fall of Magic: Digital Edition | 56480 | [56480-fall-of-magic-digital-edition.json](./56480-fall-of-magic-digital-edition.json) |
@@ -2022,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Camel | 283767 | [283767-flappy-camel.json](./283767-flappy-camel.json) |
 | Flappy Cube | 179195 | [179195-flappy-cube.json](./179195-flappy-cube.json) |
 | Flappy Doge | 62183 | [62183-flappy-doge.json](./62183-flappy-doge.json) |
+| Flappy Dot Up! | 232056 | [232056-flappy-dot-up.json](./232056-flappy-dot-up.json) |
 | Flappy Dragon | 316049 | [316049-flappy-dragon.json](./316049-flappy-dragon.json) |
 | Flappy Dunk | 87053 | [87053-flappy-dunk.json](./87053-flappy-dunk.json) |
 | Flappy Fighter | 118311 | [118311-flappy-fighter.json](./118311-flappy-fighter.json) |
@@ -2978,11 +2980,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Card Solitaire | 94675 | [94675-four-card-solitaire.json](./94675-four-card-solitaire.json) |
 | Four Chambers of the Human Heart | 250455 | [250455-four-chambers-of-the-human-heart.json](./250455-four-chambers-of-the-human-heart.json) |
 | Four color jumps | 152905 | [152905-four-color-jumps.json](./152905-four-color-jumps.json) |
+| Four Color Puzzle | 232022 | [232022-four-color-puzzle.json](./232022-four-color-puzzle.json) |
 | Four Course Combat | 149535 | [149535-four-course-combat.json](./149535-four-course-combat.json) |
 | Four Divine Abidings | 352265 | [352265-four-divine-abidings.json](./352265-four-divine-abidings.json) |
 | Four Flush | 67269 | [67269-four-flush.json](./67269-four-flush.json) |
 | Four Gods M | 200749 | [200749-four-gods-m.json](./200749-four-gods-m.json) |
 | Four Great Games: Volume 2 | 70359 | [70359-four-great-games-volume-2.json](./70359-four-great-games-volume-2.json) |
+| Four Horsemen | 232040 | [232040-four-horsemen.json](./232040-four-horsemen.json) |
 | Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
 | Four in One | 210647 | [210647-four-in-one.json](./210647-four-in-one.json) |
 | Four Lights | 406727 | [406727-four-lights.json](./406727-four-lights.json) |
