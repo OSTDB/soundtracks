@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkwood | 17032 | [17032-darkwood.json](./17032-darkwood.json) |
 | Darkzan Adventure | 376558 | [376558-darkzan-adventure.json](./376558-darkzan-adventure.json) |
 | Darkzan Arena | 244895 | [244895-darkzan-arena.json](./244895-darkzan-arena.json) |
+| Darling II: Backlash | 203328 | [203328-darling-ii-backlash.json](./203328-darling-ii-backlash.json) |
 | Darling Pet | 188590 | [188590-darling-pet.json](./188590-darling-pet.json) |
 | Darn Guy Adventures | 365183 | [365183-darn-guy-adventures.json](./365183-darn-guy-adventures.json) |
 | Darq: The Crypt | 167767 | [167767-darq-the-crypt.json](./167767-darq-the-crypt.json) |
@@ -1224,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Note: Killer Within | 320363 | [320363-death-note-killer-within.json](./320363-death-note-killer-within.json) |
 | Death Note: Kira Game | 22388 | [22388-death-note-kira-game.json](./22388-death-note-kira-game.json) |
 | Death Note: Successors to L | 22389 | [22389-death-note-successors-to-l.json](./22389-death-note-successors-to-l.json) |
+| Death of a Wish | 203297 | [203297-death-of-a-wish.json](./203297-death-of-a-wish.json) |
 | Death of desert | 115601 | [115601-death-of-desert.json](./115601-death-of-desert.json) |
 | Death of Eternity | 260212 | [260212-death-of-eternity.json](./260212-death-of-eternity.json) |
 | Death of the Artificer | 299727 | [299727-death-of-the-artificer.json](./299727-death-of-the-artificer.json) |
@@ -3980,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Super Butouden | 2545 | [2545-dragon-ball-z-super-butouden.json](./2545-dragon-ball-z-super-butouden.json) |
 | Dragon Ball Z: Super Goku-den - Totsugeki-hen | 38396 | [38396-dragon-ball-z-super-goku-den-totsugeki-hen.json](./38396-dragon-ball-z-super-goku-den-totsugeki-hen.json) |
 | Dragon Ball Z: Taiketsu | 2580 | [2580-dragon-ball-z-taiketsu.json](./2580-dragon-ball-z-taiketsu.json) |
+| Dragon Ball Z: Team Training | 203292 | [203292-dragon-ball-z-team-training.json](./203292-dragon-ball-z-team-training.json) |
 | Dragon Ball Z: The Legacy of Goku | 6387 | [6387-dragon-ball-z-the-legacy-of-goku.json](./6387-dragon-ball-z-the-legacy-of-goku.json) |
 | Dragon Ball Z: The Legacy of Goku II | 19834 | [19834-dragon-ball-z-the-legacy-of-goku-ii.json](./19834-dragon-ball-z-the-legacy-of-goku-ii.json) |
 | Dragon Ball Z: The Legacy Of Tenkaichi | 308554 | [308554-dragon-ball-z-the-legacy-of-tenkaichi.json](./308554-dragon-ball-z-the-legacy-of-tenkaichi.json) |
