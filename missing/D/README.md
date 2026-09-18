@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkchaser: Battletide | 296660 | [296660-darkchaser-battletide.json](./296660-darkchaser-battletide.json) |
 | DarkCoating | 163397 | [163397-darkcoating.json](./163397-darkcoating.json) |
 | Darkdire | 112954 | [112954-darkdire.json](./112954-darkdire.json) |
+| Darkdire: The Advanced Set - Greencastle Expansion | 224125 | [224125-darkdire-the-advanced-set-greencastle-expansion.json](./224125-darkdire-the-advanced-set-greencastle-expansion.json) |
 | DarkEdeNight | 86050 | [86050-darkedenight.json](./86050-darkedenight.json) |
 | Darkend | 331684 | [331684-darkend.json](./331684-darkend.json) |
 | Darkenstein 3D | 235996 | [235996-darkenstein-3d.json](./235996-darkenstein-3d.json) |
@@ -933,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Nation | 2134 | [2134-dead-nation.json](./2134-dead-nation.json) |
 | Dead Nation: Road to Devastation | 20336 | [20336-dead-nation-road-to-devastation.json](./20336-dead-nation-road-to-devastation.json) |
 | Dead of Day | 244894 | [244894-dead-of-day.json](./244894-dead-of-day.json) |
+| Dead of Night | 224113 | [224113-dead-of-night.json](./224113-dead-of-night.json) |
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
 | Dead of Winter: The Long Night | 25654 | [25654-dead-of-winter-the-long-night.json](./25654-dead-of-winter-the-long-night.json) |
 | Dead or Alive | 1387 | [1387-dead-or-alive.json](./1387-dead-or-alive.json) |
@@ -5054,8 +5056,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light 2: Stay Human - Collector's Edition | 150146 | [150146-dying-light-2-stay-human-collectors-edition.json](./150146-dying-light-2-stay-human-collectors-edition.json) |
 | Dying Light 2: Stay Human - Reloaded Edition | 322800 | [322800-dying-light-2-stay-human-reloaded-edition.json](./322800-dying-light-2-stay-human-reloaded-edition.json) |
 | Dying Light 2: Stay Human - The Walking Dead Bundle | 259068 | [259068-dying-light-2-stay-human-the-walking-dead-bundle.json](./259068-dying-light-2-stay-human-the-walking-dead-bundle.json) |
+| Dying Light: Dieselpunk Bundle | 224128 | [224128-dying-light-dieselpunk-bundle.json](./224128-dying-light-dieselpunk-bundle.json) |
 | Dying Light: Enhanced Edition | 248317 | [248317-dying-light-enhanced-edition.json](./248317-dying-light-enhanced-edition.json) |
 | Dying Light: Platinum Edition | 152030 | [152030-dying-light-platinum-edition.json](./152030-dying-light-platinum-edition.json) |
+| Dying Light: Shu Warrior Bundle | 224127 | [224127-dying-light-shu-warrior-bundle.json](./224127-dying-light-shu-warrior-bundle.json) |
 | Dying Night Sex with Zombi | 375952 | [375952-dying-night-sex-with-zombi.json](./375952-dying-night-sex-with-zombi.json) |
 | Dying Reign | 355560 | [355560-dying-reign.json](./355560-dying-reign.json) |
 | Dying: Reborn | 27569 | [27569-dying-reborn.json](./27569-dying-reborn.json) |
