@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T13:47:47.508Z",
-  "total_missing": 87671,
+  "generated_at": "2026-09-18T14:03:50.528Z",
+  "total_missing": 87721,
   "games": [
     {
       "igdb_id": 273453,
@@ -2711,6 +2711,11 @@
       "igdb_id": 312889,
       "game_name": "3x3: Take Two",
       "file": "missing/0-9/312889-3x3-take-two.json"
+    },
+    {
+      "igdb_id": 202767,
+      "game_name": "4 Colors Classic Multiplayer",
+      "file": "missing/0-9/202767-4-colors-classic-multiplayer.json"
     },
     {
       "igdb_id": 262058,
@@ -5756,6 +5761,11 @@
       "igdb_id": 174269,
       "game_name": "Access Code Zero",
       "file": "missing/A/174269-access-code-zero.json"
+    },
+    {
+      "igdb_id": 202774,
+      "game_name": "Accident",
+      "file": "missing/A/202774-accident.json"
     },
     {
       "igdb_id": 379460,
@@ -18073,6 +18083,11 @@
       "file": "missing/A/315828-arcade-archives-finalizer-super-transformation.json"
     },
     {
+      "igdb_id": 202800,
+      "game_name": "Arcade Archives: Flipull",
+      "file": "missing/A/202800-arcade-archives-flipull.json"
+    },
+    {
       "igdb_id": 378778,
       "game_name": "Arcade Archives: Galactic Warriors",
       "file": "missing/A/378778-arcade-archives-galactic-warriors.json"
@@ -18323,6 +18338,11 @@
       "file": "missing/A/222390-arcade-archives-touki-denshou-angel-eyes.json"
     },
     {
+      "igdb_id": 202769,
+      "game_name": "Arcade Archives: Trio the Punch",
+      "file": "missing/A/202769-arcade-archives-trio-the-punch.json"
+    },
+    {
       "igdb_id": 300732,
       "game_name": "Arcade Archives: Tutankham",
       "file": "missing/A/300732-arcade-archives-tutankham.json"
@@ -18418,6 +18438,31 @@
       "file": "missing/A/68344-arcade-game-series-pac-man.json"
     },
     {
+      "igdb_id": 202794,
+      "game_name": "Arcade Gamer",
+      "file": "missing/A/202794-arcade-gamer.json"
+    },
+    {
+      "igdb_id": 202795,
+      "game_name": "Arcade Gamer",
+      "file": "missing/A/202795-arcade-gamer.json"
+    },
+    {
+      "igdb_id": 202791,
+      "game_name": "Arcade Gamer Classic",
+      "file": "missing/A/202791-arcade-gamer-classic.json"
+    },
+    {
+      "igdb_id": 202792,
+      "game_name": "Arcade Gamer Classic",
+      "file": "missing/A/202792-arcade-gamer-classic.json"
+    },
+    {
+      "igdb_id": 202793,
+      "game_name": "Arcade Gamer Classic",
+      "file": "missing/A/202793-arcade-gamer-classic.json"
+    },
+    {
       "igdb_id": 358920,
       "game_name": "Arcade Hero",
       "file": "missing/A/358920-arcade-hero.json"
@@ -18441,6 +18486,36 @@
       "igdb_id": 206138,
       "game_name": "Arcade Legends 3D",
       "file": "missing/A/206138-arcade-legends-3d.json"
+    },
+    {
+      "igdb_id": 202803,
+      "game_name": "Arcade Legends Sensible Soccer Plus",
+      "file": "missing/A/202803-arcade-legends-sensible-soccer-plus.json"
+    },
+    {
+      "igdb_id": 202804,
+      "game_name": "Arcade Legends Street Fighter II': Special Champion Edition",
+      "file": "missing/A/202804-arcade-legends-street-fighter-ii-special-champion-edition.json"
+    },
+    {
+      "igdb_id": 202798,
+      "game_name": "Arcade Legends: Menacer",
+      "file": "missing/A/202798-arcade-legends-menacer.json"
+    },
+    {
+      "igdb_id": 202797,
+      "game_name": "Arcade Legends: OutRun 2019",
+      "file": "missing/A/202797-arcade-legends-outrun-2019.json"
+    },
+    {
+      "igdb_id": 202799,
+      "game_name": "Arcade Legends: Sega Genesis",
+      "file": "missing/A/202799-arcade-legends-sega-genesis.json"
+    },
+    {
+      "igdb_id": 202802,
+      "game_name": "Arcade Legends: Sega Genesis Volume 2",
+      "file": "missing/A/202802-arcade-legends-sega-genesis-volume-2.json"
     },
     {
       "igdb_id": 232991,
@@ -18503,6 +18578,11 @@
       "file": "missing/A/86706-arcade-pinball.json"
     },
     {
+      "igdb_id": 202779,
+      "game_name": "Arcade Portable",
+      "file": "missing/A/202779-arcade-portable.json"
+    },
+    {
       "igdb_id": 237380,
       "game_name": "Arcade Racer Evolution",
       "file": "missing/A/237380-arcade-racer-evolution.json"
@@ -18541,6 +18621,26 @@
       "igdb_id": 319786,
       "game_name": "Arcade Tanks World II: Tank Battle Simulator",
       "file": "missing/A/319786-arcade-tanks-world-ii-tank-battle-simulator.json"
+    },
+    {
+      "igdb_id": 202783,
+      "game_name": "Arcade Ultimate",
+      "file": "missing/A/202783-arcade-ultimate.json"
+    },
+    {
+      "igdb_id": 202788,
+      "game_name": "Arcade Ultimate Portable",
+      "file": "missing/A/202788-arcade-ultimate-portable.json"
+    },
+    {
+      "igdb_id": 202790,
+      "game_name": "Arcade Ultimate Portable Video Game Player",
+      "file": "missing/A/202790-arcade-ultimate-portable-video-game-player.json"
+    },
+    {
+      "igdb_id": 202789,
+      "game_name": "Arcade Ultimate: Street of Rage - Limited Edition",
+      "file": "missing/A/202789-arcade-ultimate-street-of-rage-limited-edition.json"
     },
     {
       "igdb_id": 241355,
@@ -29073,6 +29173,11 @@
       "file": "missing/B/405584-banban-isle-rangers.json"
     },
     {
+      "igdb_id": 202786,
+      "game_name": "Banchou Tactics",
+      "file": "missing/B/202786-banchou-tactics.json"
+    },
+    {
       "igdb_id": 265412,
       "game_name": "Bancroft Academy",
       "file": "missing/B/265412-bancroft-academy.json"
@@ -34686,6 +34791,11 @@
       "igdb_id": 40720,
       "game_name": "Bee-Ball",
       "file": "missing/B/40720-bee-ball.json"
+    },
+    {
+      "igdb_id": 202784,
+      "game_name": "Bee: The Knight",
+      "file": "missing/B/202784-bee-the-knight.json"
     },
     {
       "igdb_id": 336888,
@@ -59076,6 +59186,11 @@
       "igdb_id": 141536,
       "game_name": "Century: Age of Ashes",
       "file": "missing/C/141536-century-age-of-ashes.json"
+    },
+    {
+      "igdb_id": 202760,
+      "game_name": "Century: Age of Ashes - Bloodshed Edition",
+      "file": "missing/C/202760-century-age-of-ashes-bloodshed-edition.json"
     },
     {
       "igdb_id": 199636,
@@ -107603,6 +107718,11 @@
       "file": "missing/E/339648-easyaim-trainer.json"
     },
     {
+      "igdb_id": 202755,
+      "game_name": "EasyChemistryLab",
+      "file": "missing/E/202755-easychemistrylab.json"
+    },
+    {
       "igdb_id": 328065,
       "game_name": "Easyland 2",
       "file": "missing/E/328065-easyland-2.json"
@@ -118301,6 +118421,11 @@
       "igdb_id": 100855,
       "game_name": "Eye Transplant : ER Emergency Hospital",
       "file": "missing/E/100855-eye-transplant-er-emergency-hospital.json"
+    },
+    {
+      "igdb_id": 202764,
+      "game_name": "Eye-tai: Kompeito-hen",
+      "file": "missing/E/202764-eye-tai-kompeito-hen.json"
     },
     {
       "igdb_id": 271994,
@@ -144823,6 +144948,11 @@
       "file": "missing/G/326413-glider-simulator.json"
     },
     {
+      "igdb_id": 202752,
+      "game_name": "Gliderman",
+      "file": "missing/G/202752-gliderman.json"
+    },
+    {
       "igdb_id": 207893,
       "game_name": "Gliding Square",
       "file": "missing/G/207893-gliding-square.json"
@@ -162898,6 +163028,11 @@
       "file": "missing/H/224228-hexceed-incipiam.json"
     },
     {
+      "igdb_id": 202762,
+      "game_name": "Hexceed: Progressum",
+      "file": "missing/H/202762-hexceed-progressum.json"
+    },
+    {
       "igdb_id": 92506,
       "game_name": "HexChess 360",
       "file": "missing/H/92506-hexchess-360.json"
@@ -174278,6 +174413,11 @@
       "file": "missing/I/405517-idol-kingdom.json"
     },
     {
+      "igdb_id": 202785,
+      "game_name": "Idol Mahjong Final Romance 4",
+      "file": "missing/I/202785-idol-mahjong-final-romance-4.json"
+    },
+    {
       "igdb_id": 273652,
       "game_name": "Idol Mahjong Final Romance 4 Remaster",
       "file": "missing/I/273652-idol-mahjong-final-romance-4-remaster.json"
@@ -177686,6 +177826,11 @@
       "igdb_id": 161392,
       "game_name": "Ink Shapes: Book One",
       "file": "missing/I/161392-ink-shapes-book-one.json"
+    },
+    {
+      "igdb_id": 202758,
+      "game_name": "Ink World",
+      "file": "missing/I/202758-ink-world.json"
     },
     {
       "igdb_id": 169442,
@@ -184096,6 +184241,11 @@
       "igdb_id": 357883,
       "game_name": "Jigsaw Puzzle",
       "file": "missing/J/357883-jigsaw-puzzle.json"
+    },
+    {
+      "igdb_id": 202765,
+      "game_name": "Jigsaw Puzzle Cats Kitten",
+      "file": "missing/J/202765-jigsaw-puzzle-cats-kitten.json"
     },
     {
       "igdb_id": 226855,
@@ -195373,6 +195523,11 @@
       "file": "missing/K/53262-kronville-stolen-dreams.json"
     },
     {
+      "igdb_id": 202773,
+      "game_name": "Kruger",
+      "file": "missing/K/202773-kruger.json"
+    },
+    {
       "igdb_id": 226730,
       "game_name": "Krusenstern: A Stellar Sail",
       "file": "missing/K/226730-krusenstern-a-stellar-sail.json"
@@ -205673,6 +205828,11 @@
       "file": "missing/L/70429-lock-5.json"
     },
     {
+      "igdb_id": 202754,
+      "game_name": "Lock In: Final Cut",
+      "file": "missing/L/202754-lock-in-final-cut.json"
+    },
+    {
       "igdb_id": 335708,
       "game_name": "Lock On",
       "file": "missing/L/335708-lock-on.json"
@@ -206096,6 +206256,11 @@
       "igdb_id": 159882,
       "game_name": "Lollipop!",
       "file": "missing/L/159882-lollipop.json"
+    },
+    {
+      "igdb_id": 202776,
+      "game_name": "LolShot.io",
+      "file": "missing/L/202776-lolshot-io.json"
     },
     {
       "igdb_id": 398346,
@@ -208376,6 +208541,11 @@
       "igdb_id": 237485,
       "game_name": "Love of Magic",
       "file": "missing/L/237485-love-of-magic.json"
+    },
+    {
+      "igdb_id": 202759,
+      "game_name": "Love of Magic Book 2: The War",
+      "file": "missing/L/202759-love-of-magic-book-2-the-war.json"
     },
     {
       "igdb_id": 172713,
@@ -234683,6 +234853,11 @@
       "file": "missing/M/376457-moth-terra.json"
     },
     {
+      "igdb_id": 202777,
+      "game_name": "Moth-Kubit Grimes",
+      "file": "missing/M/202777-moth-kubit-grimes.json"
+    },
+    {
       "igdb_id": 179701,
       "game_name": "Mothballs",
       "file": "missing/M/179701-mothballs.json"
@@ -257633,6 +257808,11 @@
       "file": "missing/O/329173-opposite-day-2.json"
     },
     {
+      "igdb_id": 202775,
+      "game_name": "Opposites",
+      "file": "missing/O/202775-opposites.json"
+    },
+    {
       "igdb_id": 258459,
       "game_name": "Opposyte",
       "file": "missing/O/258459-opposyte.json"
@@ -269541,6 +269721,11 @@
       "igdb_id": 388959,
       "game_name": "Pickochet",
       "file": "missing/P/388959-pickochet.json"
+    },
+    {
+      "igdb_id": 202753,
+      "game_name": "Pickup One",
+      "file": "missing/P/202753-pickup-one.json"
     },
     {
       "igdb_id": 304613,
@@ -313673,9 +313858,24 @@
       "file": "missing/S/215742-sega-genesis-mini-2.json"
     },
     {
+      "igdb_id": 202787,
+      "game_name": "Sega Genesis Ultimate Portable Game Player",
+      "file": "missing/S/202787-sega-genesis-ultimate-portable-game-player.json"
+    },
+    {
       "igdb_id": 28838,
       "game_name": "Sega GT",
       "file": "missing/S/28838-sega-gt.json"
+    },
+    {
+      "igdb_id": 202781,
+      "game_name": "Sega Mega Drive Portable Video Game Player",
+      "file": "missing/S/202781-sega-mega-drive-portable-video-game-player.json"
+    },
+    {
+      "igdb_id": 202782,
+      "game_name": "Sega Mega Drive Portable Video Game Player: Streets of Rage Special Edition",
+      "file": "missing/S/202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json"
     },
     {
       "igdb_id": 1572,
@@ -335403,6 +335603,11 @@
       "file": "missing/S/277829-space-rocks.json"
     },
     {
+      "igdb_id": 202768,
+      "game_name": "Space Run",
+      "file": "missing/S/202768-space-run.json"
+    },
+    {
       "igdb_id": 27903,
       "game_name": "Space runner",
       "file": "missing/S/27903-space-runner.json"
@@ -342081,6 +342286,11 @@
       "igdb_id": 11178,
       "game_name": "Star Wars: The Old Republic - Knights of the Fallen Empire",
       "file": "missing/S/11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json"
+    },
+    {
+      "igdb_id": 202780,
+      "game_name": "Star Wars: The Old Republic - Legacy of the Sith",
+      "file": "missing/S/202780-star-wars-the-old-republic-legacy-of-the-sith.json"
     },
     {
       "igdb_id": 219022,
@@ -360303,6 +360513,11 @@
       "file": "missing/T/113027-tales-from-galaxy-34.json"
     },
     {
+      "igdb_id": 202756,
+      "game_name": "Tales From Hoia Baciu Forest",
+      "file": "missing/T/202756-tales-from-hoia-baciu-forest.json"
+    },
+    {
       "igdb_id": 263742,
       "game_name": "Tales From The Arcade: Starship Murder",
       "file": "missing/T/263742-tales-from-the-arcade-starship-murder.json"
@@ -364541,6 +364756,11 @@
       "igdb_id": 397815,
       "game_name": "Temtem: Pioneers",
       "file": "missing/T/397815-temtem-pioneers.json"
+    },
+    {
+      "igdb_id": 202770,
+      "game_name": "Ten",
+      "file": "missing/T/202770-ten.json"
     },
     {
       "igdb_id": 217256,
@@ -375476,6 +375696,11 @@
       "igdb_id": 214012,
       "game_name": "The Jumping Pasta",
       "file": "missing/T/214012-the-jumping-pasta.json"
+    },
+    {
+      "igdb_id": 202771,
+      "game_name": "The Jumping Pizza",
+      "file": "missing/T/202771-the-jumping-pizza.json"
     },
     {
       "igdb_id": 218555,
@@ -395448,6 +395673,11 @@
       "file": "missing/T/407402-toonequest.json"
     },
     {
+      "igdb_id": 202763,
+      "game_name": "Toonkars Racer",
+      "file": "missing/T/202763-toonkars-racer.json"
+    },
+    {
       "igdb_id": 25326,
       "game_name": "Toontown Online",
       "file": "missing/T/25326-toontown-online.json"
@@ -397601,6 +397831,11 @@
       "igdb_id": 195140,
       "game_name": "Tower of the Sage",
       "file": "missing/T/195140-tower-of-the-sage.json"
+    },
+    {
+      "igdb_id": 202778,
+      "game_name": "Tower of the Sorceror",
+      "file": "missing/T/202778-tower-of-the-sorceror.json"
     },
     {
       "igdb_id": 375320,
@@ -405171,6 +405406,11 @@
       "igdb_id": 130868,
       "game_name": "Twin Bill",
       "file": "missing/T/130868-twin-bill.json"
+    },
+    {
+      "igdb_id": 202761,
+      "game_name": "Twin Blades of the Three Kingdoms",
+      "file": "missing/T/202761-twin-blades-of-the-three-kingdoms.json"
     },
     {
       "igdb_id": 130613,
@@ -420808,6 +421048,11 @@
       "file": "missing/W/215770-water-star-adventure.json"
     },
     {
+      "igdb_id": 202766,
+      "game_name": "Water Surfer Bus",
+      "file": "missing/W/202766-water-surfer-bus.json"
+    },
+    {
       "igdb_id": 336384,
       "game_name": "Water Tower",
       "file": "missing/W/336384-water-tower.json"
@@ -421681,6 +421926,11 @@
       "igdb_id": 89196,
       "game_name": "Wedding Salon - Girls Makeup, Dressup and Makeover",
       "file": "missing/W/89196-wedding-salon-girls-makeup-dressup-and-makeover.json"
+    },
+    {
+      "igdb_id": 202801,
+      "game_name": "Weddle",
+      "file": "missing/W/202801-weddle.json"
     },
     {
       "igdb_id": 333946,
