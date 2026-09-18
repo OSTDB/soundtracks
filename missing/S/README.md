@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn Quest: R.U.N.E. 3000 | 221169 | [221169-saturn-quest-r-u-n-e-3000.json](./221169-saturn-quest-r-u-n-e-3000.json) |
 | Saturn Quest: Shadow of Planetus | 132792 | [132792-saturn-quest-shadow-of-planetus.json](./132792-saturn-quest-shadow-of-planetus.json) |
 | Saturn. Legacy | 403688 | [403688-saturn-legacy.json](./403688-saturn-legacy.json) |
+| Saturn's Rising Temperature | 225718 | [225718-saturns-rising-temperature.json](./225718-saturns-rising-temperature.json) |
 | Saturnalia | 131564 | [131564-saturnalia.json](./131564-saturnalia.json) |
 | Saturnia | 267993 | [267993-saturnia.json](./267993-saturnia.json) |
 | Saturnine Chapel | 141835 | [141835-saturnine-chapel.json](./141835-saturnine-chapel.json) |
@@ -1163,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seafarer's Gambit | 329172 | [329172-seafarers-gambit.json](./329172-seafarers-gambit.json) |
 | Seaforge: Shores of Atlantis | 415872 | [415872-seaforge-shores-of-atlantis.json](./415872-seaforge-shores-of-atlantis.json) |
 | Seafox | 22416 | [22416-seafox.json](./22416-seafox.json) |
+| Seaglass | 225763 | [225763-seaglass.json](./225763-seaglass.json) |
 | Seal Game's | 389608 | [389608-seal-games.json](./389608-seal-games.json) |
 | Seal of Shadows | 410237 | [410237-seal-of-shadows.json](./410237-seal-of-shadows.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
@@ -1351,6 +1353,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed In | 266787 | [266787-seed-in.json](./266787-seed-in.json) |
 | Seed of Agony | 173307 | [173307-seed-of-agony.json](./173307-seed-of-agony.json) |
 | Seed of Dragon | 400959 | [400959-seed-of-dragon.json](./400959-seed-of-dragon.json) |
+| Seed of Life | 225772 | [225772-seed-of-life.json](./225772-seed-of-life.json) |
+| Seed of Life | 225773 | [225773-seed-of-life.json](./225773-seed-of-life.json) |
 | Seed of Pandora: Legend of the Gaia Tree | 237051 | [237051-seed-of-pandora-legend-of-the-gaia-tree.json](./237051-seed-of-pandora-legend-of-the-gaia-tree.json) |
 | Seed's End | 339088 | [339088-seeds-end.json](./339088-seeds-end.json) |
 | Seedbo And That Time The Sun Exploded | 325829 | [325829-seedbo-and-that-time-the-sun-exploded.json](./325829-seedbo-and-that-time-the-sun-exploded.json) |
@@ -1380,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeekOut | 391614 | [391614-seekout.json](./391614-seekout.json) |
 | Seemly Girl Escape | 233493 | [233493-seemly-girl-escape.json](./233493-seemly-girl-escape.json) |
 | Seemonster | 40784 | [40784-seemonster.json](./40784-seemonster.json) |
+| Seen on Screen | 225721 | [225721-seen-on-screen.json](./225721-seen-on-screen.json) |
 | Seers Isle | 86344 | [86344-seers-isle.json](./86344-seers-isle.json) |
 | SeeYou | 381606 | [381606-seeyou.json](./381606-seeyou.json) |
 | Sefton Asylum | 396937 | [396937-sefton-asylum.json](./396937-sefton-asylum.json) |
@@ -5932,6 +5937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Tap Analysis | 297648 | [297648-speed-tap-analysis.json](./297648-speed-tap-analysis.json) |
 | Speed Tapping Idle RPG for Touhou | 297644 | [297644-speed-tapping-idle-rpg-for-touhou.json](./297644-speed-tapping-idle-rpg-for-touhou.json) |
 | Speed Thief | 54383 | [54383-speed-thief.json](./54383-speed-thief.json) |
+| Speed Track Racing | 225757 | [225757-speed-track-racing.json](./225757-speed-track-racing.json) |
 | Speed Tube Racer | 200202 | [200202-speed-tube-racer.json](./200202-speed-tube-racer.json) |
 | Speed Up | 105331 | [105331-speed-up.json](./105331-speed-up.json) |
 | Speed X: Extreme 3D Car Racing | 251211 | [251211-speed-x-extreme-3d-car-racing.json](./251211-speed-x-extreme-3d-car-racing.json) |
@@ -9330,6 +9336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Space Jump Man | 115628 | [115628-super-space-jump-man.json](./115628-super-space-jump-man.json) |
 | Super Space Serpent SE + Perpetuum: Mobile Bundle | 212789 | [212789-super-space-serpent-se-perpetuum-mobile-bundle.json](./212789-super-space-serpent-se-perpetuum-mobile-bundle.json) |
 | Super Space Shooter Arena | 127204 | [127204-super-space-shooter-arena.json](./127204-super-space-shooter-arena.json) |
+| Super Spatial | 225738 | [225738-super-spatial.json](./225738-super-spatial.json) |
 | Super Speed Race Jr. | 342139 | [342139-super-speed-race-jr.json](./342139-super-speed-race-jr.json) |
 | Super Spelling Ducks | 280341 | [280341-super-spelling-ducks.json](./280341-super-spelling-ducks.json) |
 | Super Spike V'Ball | 48073 | [48073-super-spike-vball.json](./48073-super-spike-vball.json) |
