@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabin of Souls | 254002 | [254002-cabin-of-souls.json](./254002-cabin-of-souls.json) |
 | Cabins: Jigsaw Puzzles | 103465 | [103465-cabins-jigsaw-puzzles.json](./103465-cabins-jigsaw-puzzles.json) |
 | Cable Swiper | 22363 | [22363-cable-swiper.json](./22363-cable-swiper.json) |
+| Cache Overload | 212908 | [212908-cache-overload.json](./212908-cache-overload.json) |
 | Cache-Cache | 176428 | [176428-cache-cache.json](./176428-cache-cache.json) |
 | Cacildes Adventure | 269040 | [269040-cacildes-adventure.json](./269040-cacildes-adventure.json) |
 | Cactiverse | 314668 | [314668-cactiverse.json](./314668-cactiverse.json) |
@@ -3532,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commando Jack Respawn | 136393 | [136393-commando-jack-respawn.json](./136393-commando-jack-respawn.json) |
 | Commando Raid | 11153 | [11153-commando-raid.json](./11153-commando-raid.json) |
 | Commando vs Zombies | 99002 | [99002-commando-vs-zombies.json](./99002-commando-vs-zombies.json) |
+| Commandos 2 & 3: HD Remaster Double Pack | 212870 | [212870-commandos-2-and-3-hd-remaster-double-pack.json](./212870-commandos-2-and-3-hd-remaster-double-pack.json) |
 | Commandos 2 & Praetorians HD Remaster Double Pack | 139932 | [139932-commandos-2-and-praetorians-hd-remaster-double-pack.json](./139932-commandos-2-and-praetorians-hd-remaster-double-pack.json) |
 | Commandos 2: HD Remaster | 119381 | [119381-commandos-2-hd-remaster.json](./119381-commandos-2-hd-remaster.json) |
 | Commandos 2: Men of Courage | 653 | [653-commandos-2-men-of-courage.json](./653-commandos-2-men-of-courage.json) |
