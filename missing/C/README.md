@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardinal Arc: Konton no Fuusatsu | 43284 | [43284-cardinal-arc-konton-no-fuusatsu.json](./43284-cardinal-arc-konton-no-fuusatsu.json) |
 | Cardinal Cross | 90169 | [90169-cardinal-cross.json](./90169-cardinal-cross.json) |
 | Cardinal Land: Jigsaw & Tangram Puzzle Blend | 87213 | [87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json](./87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json) |
+| CardioEX | 215246 | [215246-cardioex.json](./215246-cardioex.json) |
 | Cardlike | 224647 | [224647-cardlike.json](./224647-cardlike.json) |
 | Cardlock | 184582 | [184582-cardlock.json](./184582-cardlock.json) |
 | Cardmare: Descent | 398444 | [398444-cardmare-descent.json](./398444-cardmare-descent.json) |
@@ -1166,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catcha | 327398 | [327398-catcha.json](./327398-catcha.json) |
 | Catcha Catcha Aliens! | 61630 | [61630-catcha-catcha-aliens.json](./61630-catcha-catcha-aliens.json) |
 | Catching | 117654 | [117654-catching.json](./117654-catching.json) |
+| CatchKing | 215227 | [215227-catchking.json](./215227-catchking.json) |
 | Catchy Crystals | 19386 | [19386-catchy-crystals.json](./19386-catchy-crystals.json) |
 | Catchy Tunes | 96772 | [96772-catchy-tunes.json](./96772-catchy-tunes.json) |
 | CatClimber | 320550 | [320550-catclimber.json](./320550-catclimber.json) |
@@ -3255,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color of My Sound: Volume 1 | 309534 | [309534-color-of-my-sound-volume-1.json](./309534-color-of-my-sound-volume-1.json) |
 | Color Reflex Challenge | 253018 | [253018-color-reflex-challenge.json](./253018-color-reflex-challenge.json) |
 | Color Rings Puzzle | 104652 | [104652-color-rings-puzzle.json](./104652-color-rings-puzzle.json) |
+| Color Roll 3D | 215242 | [215242-color-roll-3d.json](./215242-color-roll-3d.json) |
 | Color Slayer | 121012 | [121012-color-slayer.json](./121012-color-slayer.json) |
 | Color SlayerS | 214500 | [214500-color-slayers.json](./214500-color-slayers.json) |
 | Color Soul: Memories | 124229 | [124229-color-soul-memories.json](./124229-color-soul-memories.json) |
@@ -3604,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Virus Simulator | 218133 | [218133-computer-virus-simulator.json](./218133-computer-virus-simulator.json) |
 | Computer, Open That Door! | 181382 | [181382-computer-open-that-door.json](./181382-computer-open-that-door.json) |
 | ComputerCraft | 232659 | [232659-computercraft.json](./232659-computercraft.json) |
+| Computerfriend | 215231 | [215231-computerfriend.json](./215231-computerfriend.json) |
 | Comrade Quack | 195176 | [195176-comrade-quack.json](./195176-comrade-quack.json) |
 | Comrade Trump's Re-election | 286523 | [286523-comrade-trumps-re-election.json](./286523-comrade-trumps-re-election.json) |
 | Comuni Non Comuni | 299158 | [299158-comuni-non-comuni.json](./299158-comuni-non-comuni.json) |
