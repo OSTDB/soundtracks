@@ -884,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geon Cube | 50636 | [50636-geon-cube.json](./50636-geon-cube.json) |
 | Geon: Emotions | 20376 | [20376-geon-emotions.json](./20376-geon-emotions.json) |
 | Geophobia | 271307 | [271307-geophobia.json](./271307-geophobia.json) |
+| Geopoesis: Eos | 197782 | [197782-geopoesis-eos.json](./197782-geopoesis-eos.json) |
 | Geopogo Cities | 393468 | [393468-geopogo-cities.json](./393468-geopogo-cities.json) |
 | Geopolitique 1990 | 24915 | [24915-geopolitique-1990.json](./24915-geopolitique-1990.json) |
 | GeoQuiz | 143015 | [143015-geoquiz.json](./143015-geoquiz.json) |
@@ -1334,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloom | 151203 | [151203-gloom.json](./151203-gloom.json) |
 | Gloom | 3030 | [3030-gloom.json](./3030-gloom.json) |
 | Gloom | 78126 | [78126-gloom.json](./78126-gloom.json) |
+| Gloom: Digital Edition | 197770 | [197770-gloom-digital-edition.json](./197770-gloom-digital-edition.json) |
 | Gloomhaven | 106803 | [106803-gloomhaven.json](./106803-gloomhaven.json) |
 | Gloomhaven: Jaws of the Lion | 197889 | [197889-gloomhaven-jaws-of-the-lion.json](./197889-gloomhaven-jaws-of-the-lion.json) |
 | Gloomhaven: Jaws of the Lion - Alternative Skins | 267360 | [267360-gloomhaven-jaws-of-the-lion-alternative-skins.json](./267360-gloomhaven-jaws-of-the-lion-alternative-skins.json) |
