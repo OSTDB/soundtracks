@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vale | 263012 | [263012-vale.json](./263012-vale.json) |
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
 | Valenium | 382294 | [382294-valenium.json](./382294-valenium.json) |
+| Valentine Candy: Break Head to Head | 214567 | [214567-valentine-candy-break-head-to-head.json](./214567-valentine-candy-break-head-to-head.json) |
 | Valentine's Day Bikini Femdom | 400903 | [400903-valentines-day-bikini-femdom.json](./400903-valentines-day-bikini-femdom.json) |
 | Valentines Cafe | 114977 | [114977-valentines-cafe.json](./114977-valentines-cafe.json) |
 | Valentines Desire: Steam Edition | 130956 | [130956-valentines-desire-steam-edition.json](./130956-valentines-desire-steam-edition.json) |
@@ -882,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vlogger Go Viral | 102765 | [102765-vlogger-go-viral.json](./102765-vlogger-go-viral.json) |
 | VMod | 129164 | [129164-vmod.json](./129164-vmod.json) |
 | VMX | 334205 | [334205-vmx.json](./334205-vmx.json) |
+| VN Dating Sims: Masa SMA | 214623 | [214623-vn-dating-sims-masa-sma.json](./214623-vn-dating-sims-masa-sma.json) |
 | Vnm | 307292 | [307292-vnm.json](./307292-vnm.json) |
 | VocabVan | 338565 | [338565-vocabvan.json](./338565-vocabvan.json) |
 | Vocal Space Shooter | 156110 | [156110-vocal-space-shooter.json](./156110-vocal-space-shooter.json) |
@@ -1163,19 +1165,43 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vrsus Dead | 306080 | [306080-vrsus-dead.json](./306080-vrsus-dead.json) |
 | VS Sonic: Dash & Spin | 223136 | [223136-vs-sonic-dash-and-spin.json](./223136-vs-sonic-dash-and-spin.json) |
 | Vs. | 18307 | [18307-vs.json](./18307-vs.json) |
+| Vs. Babel no Tou | 214582 | [214582-vs-babel-no-tou.json](./214582-vs-babel-no-tou.json) |
+| Vs. Battle City | 214575 | [214575-vs-battle-city.json](./214575-vs-battle-city.json) |
 | Vs. Collection | 37771 | [37771-vs-collection.json](./37771-vs-collection.json) |
 | Vs. Duck Hunt | 94172 | [94172-vs-duck-hunt.json](./94172-vs-duck-hunt.json) |
+| Vs. Family Tennis | 214588 | [214588-vs-family-tennis.json](./214588-vs-family-tennis.json) |
+| Vs. Football | 214596 | [214596-vs-football.json](./214596-vs-football.json) |
 | Vs. Football | 246485 | [246485-vs-football.json](./246485-vs-football.json) |
+| Vs. Gradius | 214578 | [214578-vs-gradius.json](./214578-vs-gradius.json) |
+| Vs. Great Tennis | 214599 | [214599-vs-great-tennis.json](./214599-vs-great-tennis.json) |
+| Vs. Head to Head Baseball | 214598 | [214598-vs-head-to-head-baseball.json](./214598-vs-head-to-head-baseball.json) |
+| Vs. Helifighter | 214597 | [214597-vs-helifighter.json](./214597-vs-helifighter.json) |
 | Vs. Hogan's Alley | 169999 | [169999-vs-hogans-alley.json](./169999-vs-hogans-alley.json) |
 | Vs. Ladies Golf | 168330 | [168330-vs-ladies-golf.json](./168330-vs-ladies-golf.json) |
+| Vs. Lionex | 214600 | [214600-vs-lionex.json](./214600-vs-lionex.json) |
+| Vs. Madoola no Tsubasa | 214601 | [214601-vs-madoola-no-tsubasa.json](./214601-vs-madoola-no-tsubasa.json) |
+| Vs. Mighty Bomb Jack | 214584 | [214584-vs-mighty-bomb-jack.json](./214584-vs-mighty-bomb-jack.json) |
+| Vs. Motocross | 214594 | [214594-vs-motocross.json](./214594-vs-motocross.json) |
+| Vs. Ninja JaJaMaru-kun | 214577 | [214577-vs-ninja-jajamaru-kun.json](./214577-vs-ninja-jajamaru-kun.json) |
+| Vs. Nintendo 500 | 214595 | [214595-vs-nintendo-500.json](./214595-vs-nintendo-500.json) |
+| Vs. Platoon | 214593 | [214593-vs-platoon.json](./214593-vs-platoon.json) |
 | Vs. Puyo Puyo Sun | 215749 | [215749-vs-puyo-puyo-sun.json](./215749-vs-puyo-puyo-sun.json) |
 | Vs. Racing | 259071 | [259071-vs-racing.json](./259071-vs-racing.json) |
 | Vs. RetroSpecter P2: Infernadise | 378156 | [378156-vs-retrospecter-p2-infernadise.json](./378156-vs-retrospecter-p2-infernadise.json) |
 | Vs. Self | 311143 | [311143-vs-self.json](./311143-vs-self.json) |
+| Vs. Star Luster | 214576 | [214576-vs-star-luster.json](./214576-vs-star-luster.json) |
+| Vs. Super Chinese | 214579 | [214579-vs-super-chinese.json](./214579-vs-super-chinese.json) |
 | Vs. Super Mario Bros. | 92342 | [92342-vs-super-mario-bros.json](./92342-vs-super-mario-bros.json) |
+| Vs. Super Xevious: Gamp no Nazo | 214580 | [214580-vs-super-xevious-gamp-no-nazo.json](./214580-vs-super-xevious-gamp-no-nazo.json) |
+| Vs. The Quest of Ki | 214591 | [214591-vs-the-quest-of-ki.json](./214591-vs-the-quest-of-ki.json) |
+| Vs. Top Gun | 214589 | [214589-vs-top-gun.json](./214589-vs-top-gun.json) |
+| Vs. Toukaidou Gojuusan-tsugi | 214602 | [214602-vs-toukaidou-gojuusan-tsugi.json](./214602-vs-toukaidou-gojuusan-tsugi.json) |
 | Vs. Tricky | 308397 | [308397-vs-tricky.json](./308397-vs-tricky.json) |
 | Vs. Urban Champion | 169998 | [169998-vs-urban-champion.json](./169998-vs-urban-champion.json) |
+| Vs. Valkyrie no Bouken: Toki no Kagi Densetsu | 214583 | [214583-vs-valkyrie-no-bouken-toki-no-kagi-densetsu.json](./214583-vs-valkyrie-no-bouken-toki-no-kagi-densetsu.json) |
 | Vs. Vemny & Friends | 302648 | [302648-vs-vemny-and-friends.json](./302648-vs-vemny-and-friends.json) |
+| Vs. Volleyball | 214587 | [214587-vs-volleyball.json](./214587-vs-volleyball.json) |
+| Vs. Vulcan Venture | 214592 | [214592-vs-vulcan-venture.json](./214592-vs-vulcan-venture.json) |
 | VT Harmony | 248110 | [248110-vt-harmony.json](./248110-vt-harmony.json) |
 | VThree | 30130 | [30130-vthree.json](./30130-vthree.json) |
 | VTOL VR: AH-94 Attack Helicopter | 319396 | [319396-vtol-vr-ah-94-attack-helicopter.json](./319396-vtol-vr-ah-94-attack-helicopter.json) |
