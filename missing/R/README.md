@@ -2334,6 +2334,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals in the Skies | 363907 | [363907-rivals-in-the-skies.json](./363907-rivals-in-the-skies.json) |
 | Rivals of Aether | 21646 | [21646-rivals-of-aether.json](./21646-rivals-of-aether.json) |
 | Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
+| Rive: Blue Box Limited Edition | 202220 | [202220-rive-blue-box-limited-edition.json](./202220-rive-blue-box-limited-edition.json) |
+| Rive: Orange Box Limited Edition | 202219 | [202219-rive-orange-box-limited-edition.json](./202219-rive-orange-box-limited-edition.json) |
 | Riven: The Sequel to Myst | 339943 | [339943-riven-the-sequel-to-myst.json](./339943-riven-the-sequel-to-myst.json) |
 | Riven: The Sequel to Myst | 347131 | [347131-riven-the-sequel-to-myst.json](./347131-riven-the-sequel-to-myst.json) |
 | RivenWorld: The First Era | 236937 | [236937-rivenworld-the-first-era.json](./236937-rivenworld-the-first-era.json) |
@@ -3271,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rrggbb | 178004 | [178004-rrggbb.json](./178004-rrggbb.json) |
 | RRRR 2 | 117081 | [117081-rrrr-2.json](./117081-rrrr-2.json) |
 | RRWard02 | 274209 | [274209-rrward02.json](./274209-rrward02.json) |
+| RSDKv4 Decompilation | 202233 | [202233-rsdkv4-decompilation.json](./202233-rsdkv4-decompilation.json) |
 | RSSU: Retro Style Soviet Undies | 298065 | [298065-rssu-retro-style-soviet-undies.json](./298065-rssu-retro-style-soviet-undies.json) |
 | RTA Adventure | 407447 | [407447-rta-adventure.json](./407447-rta-adventure.json) |
 | RTA New York Street | 359992 | [359992-rta-new-york-street.json](./359992-rta-new-york-street.json) |
@@ -3477,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Golf | 260245 | [260245-rune-golf.json](./260245-rune-golf.json) |
 | Rune Gunner | 383475 | [383475-rune-gunner.json](./383475-rune-gunner.json) |
 | Rune II | 55149 | [55149-rune-ii.json](./55149-rune-ii.json) |
+| Rune II: Berserker Rage Edition | 202216 | [202216-rune-ii-berserker-rage-edition.json](./202216-rune-ii-berserker-rage-edition.json) |
 | Rune in the Three Kingdoms | 278674 | [278674-rune-in-the-three-kingdoms.json](./278674-rune-in-the-three-kingdoms.json) |
 | Rune Legacy Idle | 377598 | [377598-rune-legacy-idle.json](./377598-rune-legacy-idle.json) |
 | Rune Raiders | 22327 | [22327-rune-raiders.json](./22327-rune-raiders.json) |
