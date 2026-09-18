@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pellet Packer: Micro Munch | 270956 | [270956-pellet-packer-micro-munch.json](./270956-pellet-packer-micro-munch.json) |
 | Pembrey | 63729 | [63729-pembrey.json](./63729-pembrey.json) |
 | Pen Fight | 233760 | [233760-pen-fight.json](./233760-pen-fight.json) |
+| Pen Guns | 210098 | [210098-pen-guns.json](./210098-pen-guns.json) |
 | Pen Pals | 145020 | [145020-pen-pals.json](./145020-pen-pals.json) |
 | Pen-chan | 385718 | [385718-pen-chan.json](./385718-pen-chan.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
