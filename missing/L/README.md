@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Launch The Baby | 246413 | [246413-launch-the-baby.json](./246413-launch-the-baby.json) |
 | Launcher | 358923 | [358923-launcher.json](./358923-launcher.json) |
 | Launcher Heroes | 236817 | [236817-launcher-heroes.json](./236817-launcher-heroes.json) |
+| Laundro-Mess | 185551 | [185551-laundro-mess.json](./185551-laundro-mess.json) |
 | Laundry | 317025 | [317025-laundry.json](./317025-laundry.json) |
 | Laundry Night | 304166 | [304166-laundry-night.json](./304166-laundry-night.json) |
 | Laundry Service Simulator | 326395 | [326395-laundry-service-simulator.json](./326395-laundry-service-simulator.json) |
