@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C.5 to 4: Luminous Memories - First Press Edition | 408139 | [408139-d-c-5-to-4-luminous-memories-first-press-edition.json](./408139-d-c-5-to-4-luminous-memories-first-press-edition.json) |
 | D.C.K.: Dock Chess King | 244251 | [244251-d-c-k-dock-chess-king.json](./244251-d-c-k-dock-chess-king.json) |
 | D.E.E.P.: Battle of Jove | 139485 | [139485-d-e-e-p-battle-of-jove.json](./139485-d-e-e-p-battle-of-jove.json) |
+| D.E.V Bloodline | 213479 | [213479-d-e-v-bloodline.json](./213479-d-e-v-bloodline.json) |
 | D.F.R.: The Light | 75801 | [75801-d-f-r-the-light.json](./75801-d-f-r-the-light.json) |
 | D.H.M. | 224649 | [224649-d-h-m.json](./224649-d-h-m.json) |
 | D.H.Trouble Guy | 117067 | [117067-d-h-trouble-guy.json](./117067-d-h-trouble-guy.json) |
