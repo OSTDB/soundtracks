@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yattsu no Hiseki 2X | 386156 | [386156-yattsu-no-hiseki-2x.json](./386156-yattsu-no-hiseki-2x.json) |
 | Yatzy Addict+ | 252137 | [252137-yatzy-addict.json](./252137-yatzy-addict.json) |
 | Yawara!: Yawara no Seishun | 353407 | [353407-yawara-yawara-no-seishun.json](./353407-yawara-yawara-no-seishun.json) |
+| Yeager | 186739 | [186739-yeager.json](./186739-yeager.json) |
 | Yeah Bunny 2 | 337091 | [337091-yeah-bunny-2.json](./337091-yeah-bunny-2.json) |
 | Yeah! Fighting Girl | 216804 | [216804-yeah-fighting-girl.json](./216804-yeah-fighting-girl.json) |
 | Year 2088 Classic | 276276 | [276276-year-2088-classic.json](./276276-year-2088-classic.json) |
