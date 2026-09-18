@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Rides 3: Northstar | 273396 | [273396-virtual-rides-3-northstar.json](./273396-virtual-rides-3-northstar.json) |
 | Virtual Sailor NG | 220717 | [220717-virtual-sailor-ng.json](./220717-virtual-sailor-ng.json) |
 | Virtual Soccer | 46005 | [46005-virtual-soccer.json](./46005-virtual-soccer.json) |
+| Virtual Succubus | 194447 | [194447-virtual-succubus.json](./194447-virtual-succubus.json) |
 | Virtual Surgeon: Open Heart | 69239 | [69239-virtual-surgeon-open-heart.json](./69239-virtual-surgeon-open-heart.json) |
 | Virtual Table Tennis Ping Pong | 104622 | [104622-virtual-table-tennis-ping-pong.json](./104622-virtual-table-tennis-ping-pong.json) |
 | Virtual Temple: Order of the Golden Dawn | 51919 | [51919-virtual-temple-order-of-the-golden-dawn.json](./51919-virtual-temple-order-of-the-golden-dawn.json) |
