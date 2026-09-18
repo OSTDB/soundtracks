@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeff the Janitor | 337491 | [337491-jeff-the-janitor.json](./337491-jeff-the-janitor.json) |
 | Jeff the Skinner | 348314 | [348314-jeff-the-skinner.json](./348314-jeff-the-skinner.json) |
 | Jeff-16 | 150638 | [150638-jeff-16.json](./150638-jeff-16.json) |
+| Jeff's No. 1 Bass Fishing | 215763 | [215763-jeffs-no-1-bass-fishing.json](./215763-jeffs-no-1-bass-fishing.json) |
 | JEFN | 256529 | [256529-jefn.json](./256529-jefn.json) |
 | Jelda II | 78705 | [78705-jelda-ii.json](./78705-jelda-ii.json) |
 | Jeller Fellers | 337654 | [337654-jeller-fellers.json](./337654-jeller-fellers.json) |
@@ -845,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumbo Pumbo | 341471 | [341471-jumbo-pumbo.json](./341471-jumbo-pumbo.json) |
 | Jumfrog | 318762 | [318762-jumfrog.json](./318762-jumfrog.json) |
 | Jump | 272304 | [272304-jump.json](./272304-jump.json) |
+| Jump 1/2 | 215761 | [215761-jump-1-2.json](./215761-jump-1-2.json) |
 | Jump and Roll | 243102 | [243102-jump-and-roll.json](./243102-jump-and-roll.json) |
 | Jump and Run: Don't Fall | 107939 | [107939-jump-and-run-dont-fall.json](./107939-jump-and-run-dont-fall.json) |
 | Jump Ball | 223044 | [223044-jump-ball.json](./223044-jump-ball.json) |
