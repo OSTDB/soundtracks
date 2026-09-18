@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.E.C.H.A.: Memory Erasure Control of Hover Attractor | 348770 | [348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json](./348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json) |
 | M.E.R.C. | 26540 | [26540-m-e-r-c.json](./26540-m-e-r-c.json) |
 | M.I.A | 75044 | [75044-m-i-a.json](./75044-m-i-a.json) |
+| M.O.O.D.S. | 199487 | [199487-m-o-o-d-s.json](./199487-m-o-o-d-s.json) |
 | M.o.o.n. | 243951 | [243951-m-o-o-n.json](./243951-m-o-o-n.json) |
 | M.O.Z.O.X.: Space Salvager | 209157 | [209157-m-o-z-o-x-space-salvager.json](./209157-m-o-z-o-x-space-salvager.json) |
 | M.S. Salmon | 211236 | [211236-m-s-salmon.json](./211236-m-s-salmon.json) |
@@ -1235,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark the Headless Chicken | 391616 | [391616-mark-the-headless-chicken.json](./391616-mark-the-headless-chicken.json) |
 | Mark-I: Mission Pilot | 156632 | [156632-mark-i-mission-pilot.json](./156632-mark-i-mission-pilot.json) |
 | Mark's Life | 150089 | [150089-marks-life.json](./150089-marks-life.json) |
+| Mark's Magnificent Marble Maze | 199515 | [199515-marks-magnificent-marble-maze.json](./199515-marks-magnificent-marble-maze.json) |
 | Market Chain 98 | 405540 | [405540-market-chain-98.json](./405540-market-chain-98.json) |
 | Market Dominion | 114393 | [114393-market-dominion.json](./114393-market-dominion.json) |
 | Market Dominion: Global Rivalry | 170987 | [170987-market-dominion-global-rivalry.json](./170987-market-dominion-global-rivalry.json) |
@@ -2766,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteors | 13737 | [13737-meteors.json](./13737-meteors.json) |
 | Meteos | 1165 | [1165-meteos.json](./1165-meteos.json) |
 | Meteos Astro Blocks | 344473 | [344473-meteos-astro-blocks.json](./344473-meteos-astro-blocks.json) |
+| Meth Master | 199481 | [199481-meth-master.json](./199481-meth-master.json) |
 | Method of Entry | 329369 | [329369-method-of-entry.json](./329369-method-of-entry.json) |
 | Methods 4: The Best Detective | 322596 | [322596-methods-4-the-best-detective.json](./322596-methods-4-the-best-detective.json) |
 | Methods: Detective Competition | 319558 | [319558-methods-detective-competition.json](./319558-methods-detective-competition.json) |
@@ -5647,6 +5650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
 | My Friend, the Wickhorn | 415072 | [415072-my-friend-the-wickhorn.json](./415072-my-friend-the-wickhorn.json) |
 | My Friendly Neighborhood: Neighborhorde | 272834 | [272834-my-friendly-neighborhood-neighborhorde.json](./272834-my-friendly-neighborhood-neighborhorde.json) |
+| My Furry Maid | 199472 | [199472-my-furry-maid.json](./199472-my-furry-maid.json) |
 | My Furry Protogen: 18+ Adult Only Patch | 213447 | [213447-my-furry-protogen-18-adult-only-patch.json](./213447-my-furry-protogen-18-adult-only-patch.json) |
 | My Furry Trainer | 215892 | [215892-my-furry-trainer.json](./215892-my-furry-trainer.json) |
 | My Game About Me: Olympic Challenge | 210674 | [210674-my-game-about-me-olympic-challenge.json](./210674-my-game-about-me-olympic-challenge.json) |
