@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Eternal | 172670 | [172670-war-eternal.json](./172670-war-eternal.json) |
 | War for Magincia | 129711 | [129711-war-for-magincia.json](./129711-war-for-magincia.json) |
 | War for the Overworld: The Under Games | 124819 | [124819-war-for-the-overworld-the-under-games.json](./124819-war-for-the-overworld-the-under-games.json) |
+| War For the Seas | 194454 | [194454-war-for-the-seas.json](./194454-war-for-the-seas.json) |
 | War General: Multiplayer Rank | 254172 | [254172-war-general-multiplayer-rank.json](./254172-war-general-multiplayer-rank.json) |
 | War Ghost | 121695 | [121695-war-ghost.json](./121695-war-ghost.json) |
 | War Identity | 139454 | [139454-war-identity.json](./139454-war-identity.json) |
@@ -2050,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodla: The Tower | 251199 | [251199-woodla-the-tower.json](./251199-woodla-the-tower.json) |
 | Woodland Rebels | 385604 | [385604-woodland-rebels.json](./385604-woodland-rebels.json) |
 | Woodlands National Park | 312546 | [312546-woodlands-national-park.json](./312546-woodlands-national-park.json) |
+| Woodle Tree 2: Deluxe Plus | 194438 | [194438-woodle-tree-2-deluxe-plus.json](./194438-woodle-tree-2-deluxe-plus.json) |
 | Woodle Tree Adventures Deluxe | 122354 | [122354-woodle-tree-adventures-deluxe.json](./122354-woodle-tree-adventures-deluxe.json) |
 | Woodle Tree Bundle | 173795 | [173795-woodle-tree-bundle.json](./173795-woodle-tree-bundle.json) |
 | Woodroid HD+ | 233742 | [233742-woodroid-hd.json](./233742-woodroid-hd.json) |
