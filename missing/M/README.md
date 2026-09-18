@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marsport | 45327 | [45327-marsport.json](./45327-marsport.json) |
 | Marsupilami: Hoobadventure - Tropical Edition | 152337 | [152337-marsupilami-hoobadventure-tropical-edition.json](./152337-marsupilami-hoobadventure-tropical-edition.json) |
 | Marswar TD | 169465 | [169465-marswar-td.json](./169465-marswar-td.json) |
+| Mart Master | 227372 | [227372-mart-master.json](./227372-mart-master.json) |
 | Mart Racer | 21060 | [21060-mart-racer.json](./21060-mart-racer.json) |
 | Martha | 144357 | [144357-martha.json](./144357-martha.json) |
 | Martial Arts Peerless War | 259000 | [259000-martial-arts-peerless-war.json](./259000-martial-arts-peerless-war.json) |
@@ -2491,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Fellas | 281409 | [281409-merge-fellas.json](./281409-merge-fellas.json) |
 | Merge Games Japan Best | 276454 | [276454-merge-games-japan-best.json](./276454-merge-games-japan-best.json) |
 | Merge Gangster Heist vs. Police | 245348 | [245348-merge-gangster-heist-vs-police.json](./245348-merge-gangster-heist-vs-police.json) |
+| Merge Gardens | 227368 | [227368-merge-gardens.json](./227368-merge-gardens.json) |
 | Merge Girls | 212490 | [212490-merge-girls.json](./212490-merge-girls.json) |
 | Merge Jelly | 208935 | [208935-merge-jelly.json](./208935-merge-jelly.json) |
 | Merge Mansion | 196866 | [196866-merge-mansion.json](./196866-merge-mansion.json) |
@@ -3335,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecranker | 259636 | [259636-minecranker.json](./259636-minecranker.json) |
 | MineDrill Redux | 41945 | [41945-minedrill-redux.json](./41945-minedrill-redux.json) |
 | MineFinitum | 186276 | [186276-minefinitum.json](./186276-minefinitum.json) |
+| MineGeon: Space Mining Dungeon | 227369 | [227369-minegeon-space-mining-dungeon.json](./227369-minegeon-space-mining-dungeon.json) |
 | Minelvaton Saga: Ragon no Fukkatsu | 48687 | [48687-minelvaton-saga-ragon-no-fukkatsu.json](./48687-minelvaton-saga-ragon-no-fukkatsu.json) |
 | Minemaze | 196281 | [196281-minemaze.json](./196281-minemaze.json) |
 | Miner 2019er | 416659 | [416659-miner-2019er.json](./416659-miner-2019er.json) |
