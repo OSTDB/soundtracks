@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen Ant Perfume Episode 0: The Mad Love of Jack the Ripper | 339111 | [339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json](./339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json) |
 | Queen Elsa and Her Horse Girl Games | 107862 | [107862-queen-elsa-and-her-horse-girl-games.json](./107862-queen-elsa-and-her-horse-girl-games.json) |
 | Queen Frances and the Rat Rebellion | 112307 | [112307-queen-frances-and-the-rat-rebellion.json](./112307-queen-frances-and-the-rat-rebellion.json) |
+| Queen Mary's Script Retold | 215778 | [215778-queen-marys-script-retold.json](./215778-queen-marys-script-retold.json) |
 | Queen of Dark | 292821 | [292821-queen-of-dark.json](./292821-queen-of-dark.json) |
 | Queen of Mountain | 158669 | [158669-queen-of-mountain.json](./158669-queen-of-mountain.json) |
 | Queen of Seas 2 | 102347 | [102347-queen-of-seas-2.json](./102347-queen-of-seas-2.json) |
@@ -248,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Question Mark | 388254 | [388254-question-mark.json](./388254-question-mark.json) |
 | QuestionBank | 341316 | [341316-questionbank.json](./341316-questionbank.json) |
 | Questions pour un Champion | 147473 | [147473-questions-pour-un-champion.json](./147473-questions-pour-un-champion.json) |
+| Questions Pour un Champion: Edition Spéciale 20 Ans | 215783 | [215783-questions-pour-un-champion-edition-speciale-20-ans.json](./215783-questions-pour-un-champion-edition-speciale-20-ans.json) |
 | Questland: Swords & Spirits | 100896 | [100896-questland-swords-and-spirits.json](./100896-questland-swords-and-spirits.json) |
 | QuestMania | 79305 | [79305-questmania.json](./79305-questmania.json) |
 | Questscape | 294145 | [294145-questscape.json](./294145-questscape.json) |
