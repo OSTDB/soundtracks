@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempus | 377168 | [377168-tempus.json](./377168-tempus.json) |
 | Tempus Denique | 177998 | [177998-tempus-denique.json](./177998-tempus-denique.json) |
 | Tempus is the Ignis | 271319 | [271319-tempus-is-the-ignis.json](./271319-tempus-is-the-ignis.json) |
+| Temtem: Deluxe Edition | 212338 | [212338-temtem-deluxe-edition.json](./212338-temtem-deluxe-edition.json) |
 | Temtem: Pioneers | 397815 | [397815-temtem-pioneers.json](./397815-temtem-pioneers.json) |
 | Ten Dates | 217256 | [217256-ten-dates.json](./217256-ten-dates.json) |
 | Ten Deadly Games | 378271 | [378271-ten-deadly-games.json](./378271-ten-deadly-games.json) |
@@ -2468,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dimension of Anaconda | 360101 | [360101-the-dimension-of-anaconda.json](./360101-the-dimension-of-anaconda.json) |
 | The Dinner Heist | 308561 | [308561-the-dinner-heist.json](./308561-the-dinner-heist.json) |
 | The Dino R | 233623 | [233623-the-dino-r.json](./233623-the-dino-r.json) |
+| The DioField Chronicle: Digital Deluxe Edition | 212339 | [212339-the-diofield-chronicle-digital-deluxe-edition.json](./212339-the-diofield-chronicle-digital-deluxe-edition.json) |
 | The Directed | 89253 | [89253-the-directed.json](./89253-the-directed.json) |
 | The Disappearance of the Mitchells | 134083 | [134083-the-disappearance-of-the-mitchells.json](./134083-the-disappearance-of-the-mitchells.json) |
 | The Discrete Era | 263499 | [263499-the-discrete-era.json](./263499-the-discrete-era.json) |
@@ -7191,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomy Car Drive Shutsudou! Kinkyuu Sharyou-hen | 79319 | [79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json](./79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json) |
 | Tonari ni Kanojo no Iru Shiawase: I Fight with Summer | 219050 | [219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json](./219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json) |
 | Tonari ni Kanojo no Iru Shiawase: Winter Guest | 142444 | [142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json](./142444-tonari-ni-kanojo-no-iru-shiawase-winter-guest.json) |
+| Tonari ni Kanojo no Iru Shiawase: Winter Guest - Limited Edition | 212314 | [212314-tonari-ni-kanojo-no-iru-shiawase-winter-guest-limited-edition.json](./212314-tonari-ni-kanojo-no-iru-shiawase-winter-guest-limited-edition.json) |
 | Tonari no Princess Rolfee! | 70402 | [70402-tonari-no-princess-rolfee.json](./70402-tonari-no-princess-rolfee.json) |
 | Tonarino | 400960 | [400960-tonarino.json](./400960-tonarino.json) |
 | Tondeke Perman | 385570 | [385570-tondeke-perman.json](./385570-tondeke-perman.json) |
