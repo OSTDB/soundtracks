@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airtight City 1.0 | 119724 | [119724-airtight-city-1-0.json](./119724-airtight-city-1-0.json) |
 | AirTycoon 3 | 101538 | [101538-airtycoon-3.json](./101538-airtycoon-3.json) |
 | Airwave: I Fought the Law and the Law One | 169988 | [169988-airwave-i-fought-the-law-and-the-law-one.json](./169988-airwave-i-fought-the-law-and-the-law-one.json) |
+| AirwayEx | 215243 | [215243-airwayex.json](./215243-airwayex.json) |
 | AisleRiot Solitaire | 63236 | [63236-aisleriot-solitaire.json](./63236-aisleriot-solitaire.json) |
 | Aislin's Story: The Bloodbath Trials | 177534 | [177534-aislins-story-the-bloodbath-trials.json](./177534-aislins-story-the-bloodbath-trials.json) |
 | Aiten Eishi: Blue Guardians | 252408 | [252408-aiten-eishi-blue-guardians.json](./252408-aiten-eishi-blue-guardians.json) |
