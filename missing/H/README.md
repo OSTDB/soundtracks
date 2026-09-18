@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
 | Haunted Ice Cream | 375940 | [375940-haunted-ice-cream.json](./375940-haunted-ice-cream.json) |
 | Haunted Jail: Alcatas | 116980 | [116980-haunted-jail-alcatas.json](./116980-haunted-jail-alcatas.json) |
+| Haunted Laia | 193881 | [193881-haunted-laia.json](./193881-haunted-laia.json) |
 | Haunted Lands: Burial Grounds | 240502 | [240502-haunted-lands-burial-grounds.json](./240502-haunted-lands-burial-grounds.json) |
 | Haunted Legends: Cursed Gift | 107115 | [107115-haunted-legends-cursed-gift.json](./107115-haunted-legends-cursed-gift.json) |
 | Haunted Legends: The Stone Guest - Collector's Edition | 99621 | [99621-haunted-legends-the-stone-guest-collectors-edition.json](./99621-haunted-legends-the-stone-guest-collectors-edition.json) |
@@ -1005,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartstrings | 202371 | [202371-heartstrings.json](./202371-heartstrings.json) |
 | Heartwood | 179158 | [179158-heartwood.json](./179158-heartwood.json) |
 | Heat 'n Hit: The Blacksmith Simulator | 371962 | [371962-heat-n-hit-the-blacksmith-simulator.json](./371962-heat-n-hit-the-blacksmith-simulator.json) |
+| Heat Gear: Race & Drift World | 193847 | [193847-heat-gear-race-and-drift-world.json](./193847-heat-gear-race-and-drift-world.json) |
 | Heat Index | 338278 | [338278-heat-index.json](./338278-heat-index.json) |
 | Heat Racing | 227256 | [227256-heat-racing.json](./227256-heat-racing.json) |
 | Heat Reborn | 140590 | [140590-heat-reborn.json](./140590-heat-reborn.json) |
@@ -1748,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Together VR | 380567 | [380567-heroes-together-vr.json](./380567-heroes-together-vr.json) |
 | Heroes Unhinged | 343356 | [343356-heroes-unhinged.json](./343356-heroes-unhinged.json) |
 | Heroes United | 327209 | [327209-heroes-united.json](./327209-heroes-united.json) |
+| Heroes Unleashed | 193875 | [193875-heroes-unleashed.json](./193875-heroes-unleashed.json) |
 | Heroes vs. Hordes | 243120 | [243120-heroes-vs-hordes.json](./243120-heroes-vs-hordes.json) |
 | Heroes War | 200722 | [200722-heroes-war.json](./200722-heroes-war.json) |
 | Heroes: The Official Mobile Game | 264132 | [264132-heroes-the-official-mobile-game.json](./264132-heroes-the-official-mobile-game.json) |
@@ -2315,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hisui no Kikai | 186839 | [186839-hisui-no-kikai.json](./186839-hisui-no-kikai.json) |
 | Hit | 208059 | [208059-hit.json](./208059-hit.json) |
 | Hit | 358300 | [358300-hit.json](./358300-hit.json) |
+| Hit 2 | 193871 | [193871-hit-2.json](./193871-hit-2.json) |
 | Hit A Plane | 325066 | [325066-hit-a-plane.json](./325066-hit-a-plane.json) |
 | Hit and Boom | 211811 | [211811-hit-and-boom.json](./211811-hit-and-boom.json) |
 | Hit Back | 143658 | [143658-hit-back.json](./143658-hit-back.json) |
@@ -2707,6 +2711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honoo no Toukyuuji: Dodge Danpei | 267660 | [267660-honoo-no-toukyuuji-dodge-danpei.json](./267660-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 42053 | [42053-honoo-no-toukyuuji-dodge-danpei.json](./42053-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honor in Vengeance | 66108 | [66108-honor-in-vengeance.json](./66108-honor-in-vengeance.json) |
+| Honor of Heirs | 193876 | [193876-honor-of-heirs.json](./193876-honor-of-heirs.json) |
 | Honshougi: Naitou 9 Dan Shougi Hiden | 267667 | [267667-honshougi-naitou-9-dan-shougi-hiden.json](./267667-honshougi-naitou-9-dan-shougi-hiden.json) |
 | Hontou ni Atta Real Otogi-banashi | 251611 | [251611-hontou-ni-atta-real-otogi-banashi.json](./251611-hontou-ni-atta-real-otogi-banashi.json) |
 | Hontou no Negaigoto | 413744 | [413744-hontou-no-negaigoto.json](./413744-hontou-no-negaigoto.json) |
@@ -2737,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hools: Football Club Territory | 81353 | [81353-hools-football-club-territory.json](./81353-hools-football-club-territory.json) |
 | Hoonigans | 314653 | [314653-hoonigans.json](./314653-hoonigans.json) |
 | HoooPizza | 317852 | [317852-hooopizza.json](./317852-hooopizza.json) |
+| Hoop | 193886 | [193886-hoop.json](./193886-hoop.json) |
 | Hoop Dynasty: Rise of a Legend | 411682 | [411682-hoop-dynasty-rise-of-a-legend.json](./411682-hoop-dynasty-rise-of-a-legend.json) |
 | Hoop Fever | 90691 | [90691-hoop-fever.json](./90691-hoop-fever.json) |
 | Hoop Land | 250996 | [250996-hoop-land.json](./250996-hoop-land.json) |
