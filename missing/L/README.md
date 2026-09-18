@@ -2612,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion: Extra Tangy | 313113 | [313113-luigis-mansion-extra-tangy.json](./313113-luigis-mansion-extra-tangy.json) |
 | Luigi's Mansion: Premium Deluxe | 259268 | [259268-luigis-mansion-premium-deluxe.json](./259268-luigis-mansion-premium-deluxe.json) |
 | Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
+| Luippy | 230957 | [230957-luippy.json](./230957-luippy.json) |
 | Luise and Secret Basement Rooms | 157705 | [157705-luise-and-secret-basement-rooms.json](./157705-luise-and-secret-basement-rooms.json) |
 | Luka Tim Incident | 318624 | [318624-luka-tim-incident.json](./318624-luka-tim-incident.json) |
 | Luke | 310612 | [310612-luke.json](./310612-luke.json) |
