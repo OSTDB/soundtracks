@@ -1040,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby the Dream Battle | 145015 | [145015-kirby-the-dream-battle.json](./145015-kirby-the-dream-battle.json) |
 | Kirby Tilt 'n' Tumble | 3729 | [3729-kirby-tilt-n-tumble.json](./3729-kirby-tilt-n-tumble.json) |
 | Kirby: Cosmic Chaos | 323915 | [323915-kirby-cosmic-chaos.json](./323915-kirby-cosmic-chaos.json) |
+| Kirby: Revenge of Dream Land | 196707 | [196707-kirby-revenge-of-dream-land.json](./196707-kirby-revenge-of-dream-land.json) |
 | Kirby: Squeak Squad | 3723 | [3723-kirby-squeak-squad.json](./3723-kirby-squeak-squad.json) |
 | Kirby: The Dreamland Effect | 323921 | [323921-kirby-the-dreamland-effect.json](./323921-kirby-the-dreamland-effect.json) |
 | Kirby: Wacky Episode | 315520 | [315520-kirby-wacky-episode.json](./315520-kirby-wacky-episode.json) |
