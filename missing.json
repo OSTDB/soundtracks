@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T04:32:32.006Z",
-  "total_missing": 85821,
+  "generated_at": "2026-09-18T04:47:32.802Z",
+  "total_missing": 85871,
   "games": [
     {
       "igdb_id": 273453,
@@ -2108,6 +2108,11 @@
       "file": "missing/0-9/82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json"
     },
     {
+      "igdb_id": 223566,
+      "game_name": "3 in 1: Multiplayer Bundle",
+      "file": "missing/0-9/223566-3-in-1-multiplayer-bundle.json"
+    },
+    {
       "igdb_id": 86059,
       "game_name": "3 In Three",
       "file": "missing/0-9/86059-3-in-three.json"
@@ -2181,6 +2186,11 @@
       "igdb_id": 331411,
       "game_name": "3-in-1 Christmas Collection",
       "file": "missing/0-9/331411-3-in-1-christmas-collection.json"
+    },
+    {
+      "igdb_id": 223575,
+      "game_name": "3-in-1 fun bundle",
+      "file": "missing/0-9/223575-3-in-1-fun-bundle.json"
     },
     {
       "igdb_id": 318976,
@@ -37668,6 +37678,11 @@
       "file": "missing/B/232997-bit-orchard-animal-valley-complete-edition.json"
     },
     {
+      "igdb_id": 223567,
+      "game_name": "Bit Orchard: Animal Valley - Halloween Edition",
+      "file": "missing/B/223567-bit-orchard-animal-valley-halloween-edition.json"
+    },
+    {
       "igdb_id": 260697,
       "game_name": "Bit Orchard: Animal Valley - Magnificent Edition",
       "file": "missing/B/260697-bit-orchard-animal-valley-magnificent-edition.json"
@@ -47413,6 +47428,11 @@
       "file": "missing/B/346689-broken-paradox.json"
     },
     {
+      "igdb_id": 223554,
+      "game_name": "Broken Pearl",
+      "file": "missing/B/223554-broken-pearl.json"
+    },
+    {
       "igdb_id": 162520,
       "game_name": "Broken Ranks",
       "file": "missing/B/162520-broken-ranks.json"
@@ -55736,6 +55756,11 @@
       "igdb_id": 222227,
       "game_name": "Castlevania: Symphony of the Night",
       "file": "missing/C/222227-castlevania-symphony-of-the-night.json"
+    },
+    {
+      "igdb_id": 223593,
+      "game_name": "Castlevania: Symphony of the Night",
+      "file": "missing/C/223593-castlevania-symphony-of-the-night.json"
     },
     {
       "igdb_id": 338814,
@@ -65463,6 +65488,11 @@
       "file": "missing/C/241399-clumsy-rush-ultimate-guys-platinum-edition.json"
     },
     {
+      "igdb_id": 223571,
+      "game_name": "Clumsy Rush: Ultimate Guys - Special Edition",
+      "file": "missing/C/223571-clumsy-rush-ultimate-guys-special-edition.json"
+    },
+    {
       "igdb_id": 271504,
       "game_name": "Clumsy Rush: Ultimate Guys - Superb Edition",
       "file": "missing/C/271504-clumsy-rush-ultimate-guys-superb-edition.json"
@@ -67151,6 +67181,11 @@
       "igdb_id": 332514,
       "game_name": "Coloring Book: Cute Edition",
       "file": "missing/C/332514-coloring-book-cute-edition.json"
+    },
+    {
+      "igdb_id": 223595,
+      "game_name": "Coloring Book: Spring 2022 DLC Pack",
+      "file": "missing/C/223595-coloring-book-spring-2022-dlc-pack.json"
     },
     {
       "igdb_id": 317237,
@@ -69526,6 +69561,11 @@
       "igdb_id": 246401,
       "game_name": "Construction Simulator: Year 1 Season Pass",
       "file": "missing/C/246401-construction-simulator-year-1-season-pass.json"
+    },
+    {
+      "igdb_id": 223568,
+      "game_name": "Construction Site Driver 2",
+      "file": "missing/C/223568-construction-site-driver-2.json"
     },
     {
       "igdb_id": 354492,
@@ -72848,6 +72888,11 @@
       "file": "missing/C/269858-crash-metal-cyber-racing-punk-cars.json"
     },
     {
+      "igdb_id": 223551,
+      "game_name": "Crash Mole",
+      "file": "missing/C/223551-crash-mole.json"
+    },
+    {
       "igdb_id": 246986,
       "game_name": "Crash N Dash",
       "file": "missing/C/246986-crash-n-dash.json"
@@ -74756,6 +74801,11 @@
       "igdb_id": 303089,
       "game_name": "Croquettes Gang",
       "file": "missing/C/303089-croquettes-gang.json"
+    },
+    {
+      "igdb_id": 223555,
+      "game_name": "Crordle",
+      "file": "missing/C/223555-crordle.json"
     },
     {
       "igdb_id": 89270,
@@ -91933,6 +91983,11 @@
       "file": "missing/D/376541-dire-echo.json"
     },
     {
+      "igdb_id": 223570,
+      "game_name": "Dire Vengeance: Deluxe",
+      "file": "missing/D/223570-dire-vengeance-deluxe.json"
+    },
+    {
       "igdb_id": 70706,
       "game_name": "Direct",
       "file": "missing/D/70706-direct.json"
@@ -98576,6 +98631,11 @@
       "igdb_id": 363936,
       "game_name": "Dragon Ball: Xenoverse - Day One Edition",
       "file": "missing/D/363936-dragon-ball-xenoverse-day-one-edition.json"
+    },
+    {
+      "igdb_id": 223592,
+      "game_name": "Dragon Ball: Xenoverse 2 - Conton City Vote Pack",
+      "file": "missing/D/223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json"
     },
     {
       "igdb_id": 117657,
@@ -118988,9 +119048,19 @@
       "file": "missing/F/138767-far-cry-vr.json"
     },
     {
+      "igdb_id": 223557,
+      "game_name": "Far Cry: Bronze Pack",
+      "file": "missing/F/223557-far-cry-bronze-pack.json"
+    },
+    {
       "igdb_id": 51227,
       "game_name": "Far Cry: Delta Sector",
       "file": "missing/F/51227-far-cry-delta-sector.json"
+    },
+    {
+      "igdb_id": 223558,
+      "game_name": "Far Cry: Silver Pack",
+      "file": "missing/F/223558-far-cry-silver-pack.json"
     },
     {
       "igdb_id": 71489,
@@ -119423,6 +119493,21 @@
       "file": "missing/F/356719-farm-to-table.json"
     },
     {
+      "igdb_id": 223573,
+      "game_name": "Farm Together: Candy Pack",
+      "file": "missing/F/223573-farm-together-candy-pack.json"
+    },
+    {
+      "igdb_id": 223594,
+      "game_name": "Farm Together: Season 4 Bundle",
+      "file": "missing/F/223594-farm-together-season-4-bundle.json"
+    },
+    {
+      "igdb_id": 223576,
+      "game_name": "Farm Together: Wedding Pack",
+      "file": "missing/F/223576-farm-together-wedding-pack.json"
+    },
+    {
       "igdb_id": 87693,
       "game_name": "Farm Up",
       "file": "missing/F/87693-farm-up.json"
@@ -119516,6 +119601,11 @@
       "igdb_id": 285575,
       "game_name": "Farmer's Diary",
       "file": "missing/F/285575-farmers-diary.json"
+    },
+    {
+      "igdb_id": 223549,
+      "game_name": "Farmer's Dynasty: Machines Pack",
+      "file": "missing/F/223549-farmers-dynasty-machines-pack.json"
     },
     {
       "igdb_id": 107839,
@@ -126761,6 +126851,11 @@
       "igdb_id": 58204,
       "game_name": "Flick Soccer France 2016",
       "file": "missing/F/58204-flick-soccer-france-2016.json"
+    },
+    {
+      "igdb_id": 223598,
+      "game_name": "Flick Tennis",
+      "file": "missing/F/223598-flick-tennis.json"
     },
     {
       "igdb_id": 348871,
@@ -145333,6 +145428,11 @@
       "file": "missing/G/196318-gotta-protectors-cart-of-darkness.json"
     },
     {
+      "igdb_id": 223590,
+      "game_name": "Gotta Protectors: Cart of Darkness DLC Bundle Packs 1-4",
+      "file": "missing/G/223590-gotta-protectors-cart-of-darkness-dlc-bundle-packs-1-4.json"
+    },
+    {
       "igdb_id": 19661,
       "game_name": "Götzendiener",
       "file": "missing/G/19661-gotzendiener.json"
@@ -150828,6 +150928,11 @@
       "file": "missing/H/179191-h-ck3r.json"
     },
     {
+      "igdb_id": 223562,
+      "game_name": "H1.Jack",
+      "file": "missing/H/223562-h1-jack.json"
+    },
+    {
       "igdb_id": 72719,
       "game_name": "H2O: Footprints in the Sand",
       "file": "missing/H/72719-h2o-footprints-in-the-sand.json"
@@ -154113,6 +154218,21 @@
       "file": "missing/H/89847-hatsune-miku-vr.json"
     },
     {
+      "igdb_id": 223587,
+      "game_name": "Hatsune Miku VR: 5 Songs pack 1",
+      "file": "missing/H/223587-hatsune-miku-vr-5-songs-pack-1.json"
+    },
+    {
+      "igdb_id": 223589,
+      "game_name": "Hatsune Miku VR: 5 Songs pack 2",
+      "file": "missing/H/223589-hatsune-miku-vr-5-songs-pack-2.json"
+    },
+    {
+      "igdb_id": 223588,
+      "game_name": "Hatsune Miku VR: 5 Songs pack 3",
+      "file": "missing/H/223588-hatsune-miku-vr-5-songs-pack-3.json"
+    },
+    {
       "igdb_id": 24983,
       "game_name": "Hatsune Miku VR: Future Live - 1st Stage",
       "file": "missing/H/24983-hatsune-miku-vr-future-live-1st-stage.json"
@@ -154121,6 +154241,46 @@
       "igdb_id": 112343,
       "game_name": "Hatsune Miku: Dreamy Vocal",
       "file": "missing/H/112343-hatsune-miku-dreamy-vocal.json"
+    },
+    {
+      "igdb_id": 223585,
+      "game_name": "Hatsune Miku: Project Diva - Mega Mix Song Pack 12",
+      "file": "missing/H/223585-hatsune-miku-project-diva-mega-mix-song-pack-12.json"
+    },
+    {
+      "igdb_id": 223584,
+      "game_name": "Hatsune Miku: Project Diva - Mega Mix Song Pack 13",
+      "file": "missing/H/223584-hatsune-miku-project-diva-mega-mix-song-pack-13.json"
+    },
+    {
+      "igdb_id": 223583,
+      "game_name": "Hatsune Miku: Project Diva - Mega Mix Song Pack 14",
+      "file": "missing/H/223583-hatsune-miku-project-diva-mega-mix-song-pack-14.json"
+    },
+    {
+      "igdb_id": 223582,
+      "game_name": "Hatsune Miku: Project Diva - Mega Mix Song Pack 15",
+      "file": "missing/H/223582-hatsune-miku-project-diva-mega-mix-song-pack-15.json"
+    },
+    {
+      "igdb_id": 223581,
+      "game_name": "Hatsune Miku: Project Diva - Mega Mix Song Pack 16",
+      "file": "missing/H/223581-hatsune-miku-project-diva-mega-mix-song-pack-16.json"
+    },
+    {
+      "igdb_id": 223580,
+      "game_name": "Hatsune Miku: Project Diva - Mega Mix Song Pack 17",
+      "file": "missing/H/223580-hatsune-miku-project-diva-mega-mix-song-pack-17.json"
+    },
+    {
+      "igdb_id": 223579,
+      "game_name": "Hatsune Miku: Project Diva - Mega Mix Song Pack 18",
+      "file": "missing/H/223579-hatsune-miku-project-diva-mega-mix-song-pack-18.json"
+    },
+    {
+      "igdb_id": 223586,
+      "game_name": "Hatsune Miku: Project Diva - Mega Mix+ Extra Song Pack",
+      "file": "missing/H/223586-hatsune-miku-project-diva-mega-mix-extra-song-pack.json"
     },
     {
       "igdb_id": 11755,
@@ -175398,6 +175558,11 @@
       "file": "missing/I/289473-interstellar-space-genesis-terrains-pack.json"
     },
     {
+      "igdb_id": 223552,
+      "game_name": "Interstellar Travel Package",
+      "file": "missing/I/223552-interstellar-travel-package.json"
+    },
+    {
       "igdb_id": 296682,
       "game_name": "Interweaver",
       "file": "missing/I/296682-interweaver.json"
@@ -179906,6 +180071,11 @@
       "igdb_id": 50490,
       "game_name": "JetFighter: The Adventure",
       "file": "missing/J/50490-jetfighter-the-adventure.json"
+    },
+    {
+      "igdb_id": 223553,
+      "game_name": "Jetman Hero: Jetpack Shooter",
+      "file": "missing/J/223553-jetman-hero-jetpack-shooter.json"
     },
     {
       "igdb_id": 7854,
@@ -189338,6 +189508,11 @@
       "file": "missing/K/268565-kittens-head-football-complete-edition.json"
     },
     {
+      "igdb_id": 223560,
+      "game_name": "Kitten's Head Football: Halloween",
+      "file": "missing/K/223560-kittens-head-football-halloween.json"
+    },
+    {
       "igdb_id": 221970,
       "game_name": "Kitten's Head Football: Spooky Edition",
       "file": "missing/K/221970-kittens-head-football-spooky-edition.json"
@@ -190021,6 +190196,11 @@
       "igdb_id": 271835,
       "game_name": "Knights & Guns: Diamond Edition",
       "file": "missing/K/271835-knights-and-guns-diamond-edition.json"
+    },
+    {
+      "igdb_id": 223559,
+      "game_name": "Knights & Guns: Expansion Pack #1",
+      "file": "missing/K/223559-knights-and-guns-expansion-pack-1.json"
     },
     {
       "igdb_id": 270794,
@@ -200513,6 +200693,11 @@
       "file": "missing/L/350903-little-nightmares-enhanced-edition.json"
     },
     {
+      "igdb_id": 223577,
+      "game_name": "Little Noah: Scion of Paradise - Avatar, Lilliput, and Accessory Pack",
+      "file": "missing/L/223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json"
+    },
+    {
       "igdb_id": 409538,
       "game_name": "Little Number Daycare: Learn, Count, Say, Play for Toddlers",
       "file": "missing/L/409538-little-number-daycare-learn-count-say-play-for-toddlers.json"
@@ -201236,6 +201421,11 @@
       "igdb_id": 49394,
       "game_name": "Lizzie McGuire: On the Go!",
       "file": "missing/L/49394-lizzie-mcguire-on-the-go.json"
+    },
+    {
+      "igdb_id": 223597,
+      "game_name": "Llamagotchi",
+      "file": "missing/L/223597-llamagotchi.json"
     },
     {
       "igdb_id": 258002,
@@ -223918,6 +224108,11 @@
       "file": "missing/M/222544-miracle-tunes-game-de-tune-up-da-pun.json"
     },
     {
+      "igdb_id": 223565,
+      "game_name": "Miraculous: Rise of the Sphinx - Ultimate Edition",
+      "file": "missing/M/223565-miraculous-rise-of-the-sphinx-ultimate-edition.json"
+    },
+    {
       "igdb_id": 116939,
       "game_name": "Mirador",
       "file": "missing/M/116939-mirador.json"
@@ -227328,6 +227523,16 @@
       "file": "missing/M/139943-monster-hunter-rise-deluxe-edition.json"
     },
     {
+      "igdb_id": 223591,
+      "game_name": "Monster Hunter Rise: DLC Pack 5",
+      "file": "missing/M/223591-monster-hunter-rise-dlc-pack-5.json"
+    },
+    {
+      "igdb_id": 223578,
+      "game_name": "Monster Hunter Rise: DLC Pack 6",
+      "file": "missing/M/223578-monster-hunter-rise-dlc-pack-6.json"
+    },
+    {
       "igdb_id": 172425,
       "game_name": "Monster Hunter Rise: Sunbreak",
       "file": "missing/M/172425-monster-hunter-rise-sunbreak.json"
@@ -227551,6 +227756,11 @@
       "igdb_id": 332228,
       "game_name": "Monster Jam Showdown: Yeti",
       "file": "missing/M/332228-monster-jam-showdown-yeti.json"
+    },
+    {
+      "igdb_id": 223548,
+      "game_name": "Monster Jam Steel Titans 2: Inverse Truck Pack",
+      "file": "missing/M/223548-monster-jam-steel-titans-2-inverse-truck-pack.json"
     },
     {
       "igdb_id": 224755,
@@ -234126,6 +234336,11 @@
       "igdb_id": 263231,
       "game_name": "My Lovely Dog Adventure",
       "file": "missing/M/263231-my-lovely-dog-adventure.json"
+    },
+    {
+      "igdb_id": 223563,
+      "game_name": "My Lovely Family Bundle",
+      "file": "missing/M/223563-my-lovely-family-bundle.json"
     },
     {
       "igdb_id": 373659,
@@ -250228,6 +250443,11 @@
       "file": "missing/O/173233-once-upon-a-time-in-the-colony.json"
     },
     {
+      "igdb_id": 223569,
+      "game_name": "Once Upon a Time on Halloween",
+      "file": "missing/O/223569-once-upon-a-time-on-halloween.json"
+    },
+    {
       "igdb_id": 132802,
       "game_name": "Once Upon an Electric Dream",
       "file": "missing/O/132802-once-upon-an-electric-dream.json"
@@ -251146,6 +251366,11 @@
       "igdb_id": 212804,
       "game_name": "One's Lonesome, Two's Company",
       "file": "missing/O/212804-ones-lonesome-twos-company.json"
+    },
+    {
+      "igdb_id": 223556,
+      "game_name": "OneBit Arena",
+      "file": "missing/O/223556-onebit-arena.json"
     },
     {
       "igdb_id": 209651,
@@ -279648,6 +279873,11 @@
       "file": "missing/P/237980-puzzle-book-adventure-pack.json"
     },
     {
+      "igdb_id": 223564,
+      "game_name": "Puzzle Book: Furry Friends Bundle",
+      "file": "missing/P/223564-puzzle-book-furry-friends-bundle.json"
+    },
+    {
       "igdb_id": 238036,
       "game_name": "Puzzle Book: Summer 2020",
       "file": "missing/P/238036-puzzle-book-summer-2020.json"
@@ -279681,6 +279911,11 @@
       "igdb_id": 335103,
       "game_name": "Puzzle Bundle Xbox: PuzzlePet - Feed Your Cat, Say Cheese, Mimi the Cat: New Friends, Story Blocks: The King and Sokocrab",
       "file": "missing/P/335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json"
+    },
+    {
+      "igdb_id": 223561,
+      "game_name": "Puzzle by Nikoli S Akari",
+      "file": "missing/P/223561-puzzle-by-nikoli-s-akari.json"
     },
     {
       "igdb_id": 237357,
@@ -305763,6 +305998,11 @@
       "file": "missing/S/237976-sd-gundam-battle-alliance-unit-and-scenario-pack-2.json"
     },
     {
+      "igdb_id": 223572,
+      "game_name": "SD Gundam Battle Alliance: Unit and Scenario Pack 3",
+      "file": "missing/S/223572-sd-gundam-battle-alliance-unit-and-scenario-pack-3.json"
+    },
+    {
       "igdb_id": 114152,
       "game_name": "SD Gundam G Generation Cross Rays",
       "file": "missing/S/114152-sd-gundam-g-generation-cross-rays.json"
@@ -322121,6 +322361,11 @@
       "igdb_id": 397767,
       "game_name": "SnowRunner: 5-Year Anniversary Edition",
       "file": "missing/S/397767-snowrunner-5-year-anniversary-edition.json"
+    },
+    {
+      "igdb_id": 223574,
+      "game_name": "SnowRunner: Crocodile Pack",
+      "file": "missing/S/223574-snowrunner-crocodile-pack.json"
     },
     {
       "igdb_id": 397800,
@@ -367131,6 +367376,11 @@
       "igdb_id": 284331,
       "game_name": "The Incomplete Lunar: First Night",
       "file": "missing/T/284331-the-incomplete-lunar-first-night.json"
+    },
+    {
+      "igdb_id": 223550,
+      "game_name": "The Incredible Adventures of Van Helsing II: Complete Pack",
+      "file": "missing/T/223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json"
     },
     {
       "igdb_id": 10969,
