@@ -1010,6 +1010,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UT Adventure | 294861 | [294861-ut-adventure.json](./294861-ut-adventure.json) |
 | UT Realms Reborn | 122992 | [122992-ut-realms-reborn.json](./122992-ut-realms-reborn.json) |
 | Uta Kumi 575 | 42670 | [42670-uta-kumi-575.json](./42670-uta-kumi-575.json) |
+| Uta no Prince-sama: All Star After Secret for Nintendo Switch | 222998 | [222998-uta-no-prince-sama-all-star-after-secret-for-nintendo-switch.json](./222998-uta-no-prince-sama-all-star-after-secret-for-nintendo-switch.json) |
+| Uta no Prince-sama: Dolce Vita | 222999 | [222999-uta-no-prince-sama-dolce-vita.json](./222999-uta-no-prince-sama-dolce-vita.json) |
 | Uta no Prince-sama: Live Emotion | 305368 | [305368-uta-no-prince-sama-live-emotion.json](./305368-uta-no-prince-sama-live-emotion.json) |
 | Utakata no R: Kako-hen Awayuki | 221743 | [221743-utakata-no-r-kako-hen-awayuki.json](./221743-utakata-no-r-kako-hen-awayuki.json) |
 | Utawarerumono: Past and Present Rediscovered | 387541 | [387541-utawarerumono-past-and-present-rediscovered.json](./387541-utawarerumono-past-and-present-rediscovered.json) |
