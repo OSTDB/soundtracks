@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TBS Mini-Golf | 246098 | [246098-tbs-mini-golf.json](./246098-tbs-mini-golf.json) |
 | TC Strikers 4 | 191093 | [191093-tc-strikers-4.json](./191093-tc-strikers-4.json) |
 | TC!Underfell | 306682 | [306682-tc-underfell.json](./306682-tc-underfell.json) |
+| Tcaf: Kate Beaton Dress Up!! | 184001 | [184001-tcaf-kate-beaton-dress-up.json](./184001-tcaf-kate-beaton-dress-up.json) |
 | TCG Card Shop Simulator | 309862 | [309862-tcg-card-shop-simulator.json](./309862-tcg-card-shop-simulator.json) |
 | Tchia: Kepler Customization Pack | 243232 | [243232-tchia-kepler-customization-pack.json](./243232-tchia-kepler-customization-pack.json) |
 | TCQ | 216272 | [216272-tcq.json](./216272-tcq.json) |
@@ -4220,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
 | The Narrator is a Dick: Longer, Harder, and Uncut | 132196 | [132196-the-narrator-is-a-dick-longer-harder-and-uncut.json](./132196-the-narrator-is-a-dick-longer-harder-and-uncut.json) |
 | The Narrator Says We're Meant to Be! | 394816 | [394816-the-narrator-says-were-meant-to-be.json](./394816-the-narrator-says-were-meant-to-be.json) |
+| The Narrows | 183998 | [183998-the-narrows.json](./183998-the-narrows.json) |
 | The Nations | 9172 | [9172-the-nations.json](./9172-the-nations.json) |
 | The Nations: Land of Legends | 49866 | [49866-the-nations-land-of-legends.json](./49866-the-nations-land-of-legends.json) |
 | The Necessary Evil | 415102 | [415102-the-necessary-evil.json](./415102-the-necessary-evil.json) |
@@ -5944,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief: The Trail of the Arch-Heretic | 268465 | [268465-thief-the-trail-of-the-arch-heretic.json](./268465-thief-the-trail-of-the-arch-heretic.json) |
 | Thief's Adventure | 372490 | [372490-thiefs-adventure.json](./372490-thiefs-adventure.json) |
 | Thief's Roulette | 129137 | [129137-thiefs-roulette.json](./129137-thiefs-roulette.json) |
+| Thiefbot | 183990 | [183990-thiefbot.json](./183990-thiefbot.json) |
 | ThiefRl2 | 184578 | [184578-thiefrl2.json](./184578-thiefrl2.json) |
 | Thievery | 105326 | [105326-thievery.json](./105326-thievery.json) |
 | Thieves | 335875 | [335875-thieves.json](./335875-thieves.json) |
@@ -7472,6 +7475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tongue of Dog | 355084 | [355084-tongue-of-dog.json](./355084-tongue-of-dog.json) |
 | Toni Island Adventure | 288198 | [288198-toni-island-adventure.json](./288198-toni-island-adventure.json) |
 | Tonic Trouble | 3614 | [3614-tonic-trouble.json](./3614-tonic-trouble.json) |
+| Tonight We Hunt | 183975 | [183975-tonight-we-hunt.json](./183975-tonight-we-hunt.json) |
 | Tonka Firefighter | 206757 | [206757-tonka-firefighter.json](./206757-tonka-firefighter.json) |
 | Tonka Search & Rescue 2 | 137029 | [137029-tonka-search-and-rescue-2.json](./137029-tonka-search-and-rescue-2.json) |
 | Tonka Town | 73786 | [73786-tonka-town.json](./73786-tonka-town.json) |
@@ -9206,6 +9210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trust & Safety: Armed Conflict | 401484 | [401484-trust-and-safety-armed-conflict.json](./401484-trust-and-safety-armed-conflict.json) |
 | Trust Me Bro, I Trade | 384515 | [384515-trust-me-bro-i-trade.json](./384515-trust-me-bro-i-trade.json) |
 | Trust Me, Not Her | 191176 | [191176-trust-me-not-her.json](./191176-trust-me-not-her.json) |
+| Trust the blackbird | 183986 | [183986-trust-the-blackbird.json](./183986-trust-the-blackbird.json) |
 | Trust Your Ears | 249193 | [249193-trust-your-ears.json](./249193-trust-your-ears.json) |
 | Truth & Trolls [Episode 1: Broken Promises] | 109069 | [109069-truth-and-trolls-episode-1-broken-promises.json](./109069-truth-and-trolls-episode-1-broken-promises.json) |
 | Truth Loop | 218735 | [218735-truth-loop.json](./218735-truth-loop.json) |
@@ -9394,6 +9399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turf | 61590 | [61590-turf.json](./61590-turf.json) |
 | Turf Hero | 37776 | [37776-turf-hero.json](./37776-turf-hero.json) |
 | Turf Memories | 37808 | [37808-turf-memories.json](./37808-turf-memories.json) |
+| Turing Trial | 183987 | [183987-turing-trial.json](./183987-turing-trial.json) |
 | Turis Station | 244501 | [244501-turis-station.json](./244501-turis-station.json) |
 | Turk-A-Lurk | 186811 | [186811-turk-a-lurk.json](./186811-turk-a-lurk.json) |
 | Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
@@ -9636,6 +9642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyga | 303079 | [303079-tyga.json](./303079-tyga.json) |
 | Tyler Tactics | 236953 | [236953-tyler-tactics.json](./236953-tyler-tactics.json) |
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
+| Type 'n Jump | 183995 | [183995-type-n-jump.json](./183995-type-n-jump.json) |
 | Type da Puyo Puyo | 63839 | [63839-type-da-puyo-puyo.json](./63839-type-da-puyo-puyo.json) |
 | Type Dreams | 116969 | [116969-type-dreams.json](./116969-type-dreams.json) |
 | Type Galaxy | 310065 | [310065-type-galaxy.json](./310065-type-galaxy.json) |
