@@ -2335,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War: Combat Guardian | 251049 | [251049-world-war-combat-guardian.json](./251049-world-war-combat-guardian.json) |
 | World War: D-Day Part Two | 278663 | [278663-world-war-d-day-part-two.json](./278663-world-war-d-day-part-two.json) |
 | World Wars | 40244 | [40244-world-wars.json](./40244-world-wars.json) |
+| World-Wide Adventure! Collection | 222381 | [222381-world-wide-adventure-collection.json](./222381-world-wide-adventure-collection.json) |
 | World-Wide Adventure! Collection 2 | 222507 | [222507-world-wide-adventure-collection-2.json](./222507-world-wide-adventure-collection-2.json) |
 | World's Best Chess: Fritz 8 Deluxe | 93043 | [93043-worlds-best-chess-fritz-8-deluxe.json](./93043-worlds-best-chess-fritz-8-deluxe.json) |
 | World's End Club | 110581 | [110581-worlds-end-club.json](./110581-worlds-end-club.json) |
