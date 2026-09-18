@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Wrath of the Righteous - Game of the Year Edition | 331855 | [331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json](./331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json) |
 | Pathfinder: Wrath of the Righteous - Love Beyond Death | 186869 | [186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json](./186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json) |
 | Pathfinder: Wrath of the Righteous - The Treasure of the Midnight Isles | 215691 | [215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json](./215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json) |
+| Pathfinder: Wrath of the Righteous - Through the Ashes | 198351 | [198351-pathfinder-wrath-of-the-righteous-through-the-ashes.json](./198351-pathfinder-wrath-of-the-righteous-through-the-ashes.json) |
 | Pathless Maze TD | 352293 | [352293-pathless-maze-td.json](./352293-pathless-maze-td.json) |
 | Pathless Woods | 172705 | [172705-pathless-woods.json](./172705-pathless-woods.json) |
 | PathoBlasta VS | 276188 | [276188-pathoblasta-vs.json](./276188-pathoblasta-vs.json) |
@@ -3674,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Battle for the Grid - Scorpina | 167795 | [167795-power-rangers-battle-for-the-grid-scorpina.json](./167795-power-rangers-battle-for-the-grid-scorpina.json) |
 | Power Rangers: Battle for the Grid - Street Fighter Pack | 237979 | [237979-power-rangers-battle-for-the-grid-street-fighter-pack.json](./237979-power-rangers-battle-for-the-grid-street-fighter-pack.json) |
 | Power Rangers: Battle for the Grid - Trey of Triforia: Gold Zeo Ranger | 167792 | [167792-power-rangers-battle-for-the-grid-trey-of-triforia-gold-zeo-ranger.json](./167792-power-rangers-battle-for-the-grid-trey-of-triforia-gold-zeo-ranger.json) |
+| Power Rangers: Beats of Power | 198344 | [198344-power-rangers-beats-of-power.json](./198344-power-rangers-beats-of-power.json) |
 | Power Rangers: Force in Time | 220104 | [220104-power-rangers-force-in-time.json](./220104-power-rangers-force-in-time.json) |
 | Power Rangers: Mystic Force | 330744 | [330744-power-rangers-mystic-force.json](./330744-power-rangers-mystic-force.json) |
 | Power Rangers: To the Rescue | 220101 | [220101-power-rangers-to-the-rescue.json](./220101-power-rangers-to-the-rescue.json) |
@@ -3791,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presence | 124269 | [124269-presence.json](./124269-presence.json) |
 | Presence | 170989 | [170989-presence.json](./170989-presence.json) |
 | Present For You | 64374 | [64374-present-for-you.json](./64374-present-for-you.json) |
+| Present Memories: A Vox Akuma Fangame | 198338 | [198338-present-memories-a-vox-akuma-fangame.json](./198338-present-memories-a-vox-akuma-fangame.json) |
 | Present Panic!: A Princess Adventure | 269877 | [269877-present-panic-a-princess-adventure.json](./269877-present-panic-a-princess-adventure.json) |
 | Presenter Slides | 213947 | [213947-presenter-slides.json](./213947-presenter-slides.json) |
 | Presentfall: Santa Defense | 384521 | [384521-presentfall-santa-defense.json](./384521-presentfall-santa-defense.json) |
@@ -4247,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Earth | 180790 | [180790-project-earth.json](./180790-project-earth.json) |
 | Project EBHack | 331360 | [331360-project-ebhack.json](./331360-project-ebhack.json) |
 | Project Eclipse | 403580 | [403580-project-eclipse.json](./403580-project-eclipse.json) |
+| Project Einherjar | 198356 | [198356-project-einherjar.json](./198356-project-einherjar.json) |
 | Project Entropy | 269086 | [269086-project-entropy.json](./269086-project-entropy.json) |
 | Project Epic | 324096 | [324096-project-epic.json](./324096-project-epic.json) |
 | Project Ethos | 317864 | [317864-project-ethos.json](./317864-project-ethos.json) |
