@@ -3560,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber Man 2002 | 287648 | [287648-bomber-man-2002.json](./287648-bomber-man-2002.json) |
 | Bomber-Mario | 248288 | [248288-bomber-mario.json](./248288-bomber-mario.json) |
+| Bomber's Run | 184989 | [184989-bombers-run.json](./184989-bombers-run.json) |
 | Bomberball | 392144 | [392144-bomberball.json](./392144-bomberball.json) |
 | BomberBoy | 242090 | [242090-bomberboy.json](./242090-bomberboy.json) |
 | BomberFun | 92978 | [92978-bomberfun.json](./92978-bomberfun.json) |
