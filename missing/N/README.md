@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Athens | 179148 | [179148-new-athens.json](./179148-new-athens.json) |
 | New Baseball | 80490 | [80490-new-baseball.json](./80490-new-baseball.json) |
 | New Centurions | 93507 | [93507-new-centurions.json](./93507-new-centurions.json) |
+| New Century Galaxy Legend | 192824 | [192824-new-century-galaxy-legend.json](./192824-new-century-galaxy-legend.json) |
 | New Chaos Code (tentative title) | 131549 | [131549-new-chaos-code-tentative-title.json](./131549-new-chaos-code-tentative-title.json) |
 | New Christmas House Hidden Objects | 108450 | [108450-new-christmas-house-hidden-objects.json](./108450-new-christmas-house-hidden-objects.json) |
 | New Club Penguin | 246088 | [246088-new-club-penguin.json](./246088-new-club-penguin.json) |
