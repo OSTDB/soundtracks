@@ -1305,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Game | 120416 | [120416-nightmare-game.json](./120416-nightmare-game.json) |
 | Nightmare House: The Original Mod | 321582 | [321582-nightmare-house-the-original-mod.json](./321582-nightmare-house-the-original-mod.json) |
 | Nightmare Hunter | 207344 | [207344-nightmare-hunter.json](./207344-nightmare-hunter.json) |
+| Nightmare Hunter | 211259 | [211259-nightmare-hunter.json](./211259-nightmare-hunter.json) |
 | Nightmare Invasion | 352749 | [352749-nightmare-invasion.json](./352749-nightmare-invasion.json) |
 | Nightmare Kitchen | 334501 | [334501-nightmare-kitchen.json](./334501-nightmare-kitchen.json) |
 | Nightmare Knight: Sacred Maiden & Fallen Magic | 270955 | [270955-nightmare-knight-sacred-maiden-and-fallen-magic.json](./270955-nightmare-knight-sacred-maiden-and-fallen-magic.json) |
