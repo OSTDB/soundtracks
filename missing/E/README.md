@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle: Special Forces | 333383 | [333383-eagle-special-forces.json](./333383-eagle-special-forces.json) |
 | Eagle's Rider | 13627 | [13627-eagles-rider.json](./13627-eagles-rider.json) |
 | Ealam Arib | 90600 | [90600-ealam-arib.json](./90600-ealam-arib.json) |
+| Ear Hockey, a Microsoft Garage Project | 210740 | [210740-ear-hockey-a-microsoft-garage-project.json](./210740-ear-hockey-a-microsoft-garage-project.json) |
 | Eared Hero | 68194 | [68194-eared-hero.json](./68194-eared-hero.json) |
 | Earl Bobby is looking for his Balls | 78686 | [78686-earl-bobby-is-looking-for-his-balls.json](./78686-earl-bobby-is-looking-for-his-balls.json) |
 | Earl Weaver Baseball II | 66097 | [66097-earl-weaver-baseball-ii.json](./66097-earl-weaver-baseball-ii.json) |
@@ -2289,6 +2290,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeless | 269310 | [269310-eyeless.json](./269310-eyeless.json) |
 | Eyeless Jack | 300016 | [300016-eyeless-jack.json](./300016-eyeless-jack.json) |
 | Eyes | 299142 | [299142-eyes.json](./299142-eyes.json) |
+| Eyes First: Double Up | 210742 | [210742-eyes-first-double-up.json](./210742-eyes-first-double-up.json) |
+| Eyes First: Match Two | 210741 | [210741-eyes-first-match-two.json](./210741-eyes-first-match-two.json) |
+| Eyes First: Tile Slide | 210743 | [210743-eyes-first-tile-slide.json](./210743-eyes-first-tile-slide.json) |
 | Eyes of the Factory | 408185 | [408185-eyes-of-the-factory.json](./408185-eyes-of-the-factory.json) |
 | Eyes of the Killer | 150095 | [150095-eyes-of-the-killer.json](./150095-eyes-of-the-killer.json) |
 | Eyes of the Night | 173231 | [173231-eyes-of-the-night.json](./173231-eyes-of-the-night.json) |
