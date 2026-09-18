@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C'est La Vie | 55882 | [55882-cest-la-vie.json](./55882-cest-la-vie.json) |
 | C'est Pas Sorcier | 269671 | [269671-cest-pas-sorcier.json](./269671-cest-pas-sorcier.json) |
 | C&C Level-CD: Vol.3 | 122309 | [122309-c-and-c-level-cd-vol-3.json](./122309-c-and-c-level-cd-vol-3.json) |
+| C&T | 197267 | [197267-c-and-t.json](./197267-c-and-t.json) |
 | C1 Circuit | 143653 | [143653-c1-circuit.json](./143653-c1-circuit.json) |
 | C14 Dating | 33280 | [33280-c14-dating.json](./33280-c14-dating.json) |
 | C15: Horror | 121001 | [121001-c15-horror.json](./121001-c15-horror.json) |
@@ -699,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo 19 | 325632 | [325632-cargo-19.json](./325632-cargo-19.json) |
 | Cargo Breach | 372575 | [372575-cargo-breach.json](./372575-cargo-breach.json) |
 | Cargo Bridge | 233767 | [233767-cargo-bridge.json](./233767-cargo-bridge.json) |
+| Cargo Bridge 2 | 197233 | [197233-cargo-bridge-2.json](./197233-cargo-bridge-2.json) |
 | Cargo Company | 148504 | [148504-cargo-company.json](./148504-cargo-company.json) |
 | Cargo King | 344440 | [344440-cargo-king.json](./344440-cargo-king.json) |
 | Cargo Transportation: Low Poly | 144914 | [144914-cargo-transportation-low-poly.json](./144914-cargo-transportation-low-poly.json) |
@@ -5086,6 +5088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III: Tours and Tournaments | 240894 | [240894-crusader-kings-iii-tours-and-tournaments.json](./240894-crusader-kings-iii-tours-and-tournaments.json) |
 | Crusader Kings III: Wandering Nobles | 352847 | [352847-crusader-kings-iii-wandering-nobles.json](./352847-crusader-kings-iii-wandering-nobles.json) |
 | Crusader: Adventure Out of Time | 72113 | [72113-crusader-adventure-out-of-time.json](./72113-crusader-adventure-out-of-time.json) |
+| Crusader: Dungeon Series | 197273 | [197273-crusader-dungeon-series.json](./197273-crusader-dungeon-series.json) |
 | Crusader: No Remorse | 207101 | [207101-crusader-no-remorse.json](./207101-crusader-no-remorse.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
 | CrusaDoom | 310608 | [310608-crusadoom.json](./310608-crusadoom.json) |
