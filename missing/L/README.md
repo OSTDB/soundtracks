@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League Star | 100870 | [100870-league-star.json](./100870-league-star.json) |
 | Leak Elite | 136385 | [136385-leak-elite.json](./136385-leak-elite.json) |
 | Leaks In Space | 369563 | [369563-leaks-in-space.json](./369563-leaks-in-space.json) |
+| Leap | 186763 | [186763-leap.json](./186763-leap.json) |
 | Leap 'n Bump! | 303623 | [303623-leap-n-bump.json](./303623-leap-n-bump.json) |
 | Leap A Head | 395710 | [395710-leap-a-head.json](./395710-leap-a-head.json) |
 | Leap Frog | 388926 | [388926-leap-frog.json](./388926-leap-frog.json) |
@@ -1584,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lionkiller | 138256 | [138256-lionkiller.json](./138256-lionkiller.json) |
 | LIP! Lewd Idol Project Vol. 2: Hot Springs and Beach Episodes | 254576 | [254576-lip-lewd-idol-project-vol-2-hot-springs-and-beach-episodes.json](./254576-lip-lewd-idol-project-vol-2-hot-springs-and-beach-episodes.json) |
 | Lips Breaker | 332848 | [332848-lips-breaker.json](./332848-lips-breaker.json) |
+| Lips Like Velum | 186714 | [186714-lips-like-velum.json](./186714-lips-like-velum.json) |
 | Lips: Number One Hits | 7053 | [7053-lips-number-one-hits.json](./7053-lips-number-one-hits.json) |
 | Lipstick Assassin | 152847 | [152847-lipstick-assassin.json](./152847-lipstick-assassin.json) |
 | Lipstick. ADV | 269686 | [269686-lipstick-adv.json](./269686-lipstick-adv.json) |
