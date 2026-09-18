@@ -151,6 +151,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007: Nightfire | 290069 | [290069-james-bond-007-nightfire.json](./290069-james-bond-007-nightfire.json) |
 | James Bond 007: The World Is Not Enough | 1641 | [1641-james-bond-007-the-world-is-not-enough.json](./1641-james-bond-007-the-world-is-not-enough.json) |
 | James Bond 007: Tomorrow Never Dies | 1640 | [1640-james-bond-007-tomorrow-never-dies.json](./1640-james-bond-007-tomorrow-never-dies.json) |
+| James Bond Jr. | 217971 | [217971-james-bond-jr.json](./217971-james-bond-jr.json) |
+| James Bond Jr. | 217972 | [217972-james-bond-jr.json](./217972-james-bond-jr.json) |
 | James Bonk | 110285 | [110285-james-bonk.json](./110285-james-bonk.json) |
 | James Clavell's Shogun | 15473 | [15473-james-clavells-shogun.json](./15473-james-clavells-shogun.json) |
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
@@ -179,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jan Sangoku Musou | 64360 | [64360-jan-sangoku-musou.json](./64360-jan-sangoku-musou.json) |
 | JanduSoft Games Bundle Vol. 1 | 247493 | [247493-jandusoft-games-bundle-vol-1.json](./247493-jandusoft-games-bundle-vol-1.json) |
 | Jane Angel 2: Fallen Heaven | 156606 | [156606-jane-angel-2-fallen-heaven.json](./156606-jane-angel-2-fallen-heaven.json) |
+| Jane the Office Slut | 217988 | [217988-jane-the-office-slut.json](./217988-jane-the-office-slut.json) |
 | Jane's Advance Strike Fighters | 25531 | [25531-janes-advance-strike-fighters.json](./25531-janes-advance-strike-fighters.json) |
 | Jane's Combat Simulations: Advanced Tactical Fighters | 78026 | [78026-janes-combat-simulations-advanced-tactical-fighters.json](./78026-janes-combat-simulations-advanced-tactical-fighters.json) |
 | Jane's Combat Simulations: Attack Pack | 78022 | [78022-janes-combat-simulations-attack-pack.json](./78022-janes-combat-simulations-attack-pack.json) |
