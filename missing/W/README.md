@@ -2313,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War | 78611 | [78611-world-war.json](./78611-world-war.json) |
 | World War 3: Card Battler | 216480 | [216480-world-war-3-card-battler.json](./216480-world-war-3-card-battler.json) |
 | World War Alpha | 261288 | [261288-world-war-alpha.json](./261288-world-war-alpha.json) |
+| World War Battle Heroes Field Armies Call of Prison Duty Simulator | 227924 | [227924-world-war-battle-heroes-field-armies-call-of-prison-duty-simulator.json](./227924-world-war-battle-heroes-field-armies-call-of-prison-duty-simulator.json) |
 | World War Battle Simulator | 220643 | [220643-world-war-battle-simulator.json](./220643-world-war-battle-simulator.json) |
 | World War Battleship: The Hunting in Deep Sea | 212473 | [212473-world-war-battleship-the-hunting-in-deep-sea.json](./212473-world-war-battleship-the-hunting-in-deep-sea.json) |
 | World War Doh | 110291 | [110291-world-war-doh.json](./110291-world-war-doh.json) |
