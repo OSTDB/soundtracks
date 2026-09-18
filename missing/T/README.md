@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From Windy Meadow | 55114 | [55114-tales-from-windy-meadow.json](./55114-tales-from-windy-meadow.json) |
 | Tales of (Working Title) | 131550 | [131550-tales-of-working-title.json](./131550-tales-of-working-title.json) |
 | Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
+| Tales of a Viking: Episode One | 233086 | [233086-tales-of-a-viking-episode-one.json](./233086-tales-of-a-viking-episode-one.json) |
 | Tales of Agaris: Children of Fate | 236929 | [236929-tales-of-agaris-children-of-fate.json](./236929-tales-of-agaris-children-of-fate.json) |
 | Tales of Agaris: The Legendary Rion | 225102 | [225102-tales-of-agaris-the-legendary-rion.json](./225102-tales-of-agaris-the-legendary-rion.json) |
 | Tales of Ancient Nights | 114334 | [114334-tales-of-ancient-nights.json](./114334-tales-of-ancient-nights.json) |
@@ -617,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Nova | 119790 | [119790-tank-nova.json](./119790-tank-nova.json) |
 | Tank Riders | 61065 | [61065-tank-riders.json](./61065-tank-riders.json) |
 | Tank rush | 102151 | [102151-tank-rush.json](./102151-tank-rush.json) |
+| Tank Squad: Battle Hero | 233087 | [233087-tank-squad-battle-hero.json](./233087-tank-squad-battle-hero.json) |
 | Tank Stars | 104105 | [104105-tank-stars.json](./104105-tank-stars.json) |
 | Tank Storage | 258448 | [258448-tank-storage.json](./258448-tank-storage.json) |
 | Tank Strike | 76609 | [76609-tank-strike.json](./76609-tank-strike.json) |
@@ -739,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Titans | 91424 | [91424-tap-titans.json](./91424-tap-titans.json) |
 | Tap Titans 2 | 57168 | [57168-tap-titans-2.json](./57168-tap-titans-2.json) |
 | Tap to Build | 245337 | [245337-tap-to-build.json](./245337-tap-to-build.json) |
+| Tap to Dive | 233090 | [233090-tap-to-dive.json](./233090-tap-to-dive.json) |
 | Tap Tricks | 176962 | [176962-tap-tricks.json](./176962-tap-tricks.json) |
 | Tap Tycoon | 58195 | [58195-tap-tycoon.json](./58195-tap-tycoon.json) |
 | Tap-Tap Shots | 287090 | [287090-tap-tap-shots.json](./287090-tap-tap-shots.json) |
@@ -751,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapeworm Disco Puzzle | 153952 | [153952-tapeworm-disco-puzzle.json](./153952-tapeworm-disco-puzzle.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
+| TapLab | 233088 | [233088-taplab.json](./233088-taplab.json) |
 | Tapocalypse | 30141 | [30141-tapocalypse.json](./30141-tapocalypse.json) |
 | Tapper Basic | 297607 | [297607-tapper-basic.json](./297607-tapper-basic.json) |
 | Tapper World Tour | 66079 | [66079-tapper-world-tour.json](./66079-tapper-world-tour.json) |
@@ -891,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCG Card Shop Simulator | 309862 | [309862-tcg-card-shop-simulator.json](./309862-tcg-card-shop-simulator.json) |
 | Tchia: Kepler Customization Pack | 243232 | [243232-tchia-kepler-customization-pack.json](./243232-tchia-kepler-customization-pack.json) |
 | TCQ | 216272 | [216272-tcq.json](./216272-tcq.json) |
+| TD Quest | 233092 | [233092-td-quest.json](./233092-td-quest.json) |
 | TD Strategy of Three Kingdoms | 130927 | [130927-td-strategy-of-three-kingdoms.json](./130927-td-strategy-of-three-kingdoms.json) |
 | TD3D | 371907 | [371907-td3d.json](./371907-td3d.json) |
 | TDP5: Arena 3D | 35639 | [35639-tdp5-arena-3d.json](./35639-tdp5-arena-3d.json) |
@@ -965,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technoblade The Quest Of L'Manburg | 337634 | [337634-technoblade-the-quest-of-lmanburg.json](./337634-technoblade-the-quest-of-lmanburg.json) |
 | Technocide | 262937 | [262937-technocide.json](./262937-technocide.json) |
 | Technolites: Episode 1 | 109616 | [109616-technolites-episode-1.json](./109616-technolites-episode-1.json) |
+| Technopoly: Industrial Empire | 233093 | [233093-technopoly-industrial-empire.json](./233093-technopoly-industrial-empire.json) |
 | Technōs Collection I | 130692 | [130692-technos-collection-i.json](./130692-technos-collection-i.json) |
 | TechnoSorcery | 333610 | [333610-technosorcery.json](./333610-technosorcery.json) |
 | Technosphere Reload | 116829 | [116829-technosphere-reload.json](./116829-technosphere-reload.json) |
@@ -2751,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flow | 140544 | [140544-the-flow.json](./140544-the-flow.json) |
 | The Flower | 361747 | [361747-the-flower.json](./361747-the-flower.json) |
 | The Flowertest | 341003 | [341003-the-flowertest.json](./341003-the-flowertest.json) |
+| The Flute | 233094 | [233094-the-flute.json](./233094-the-flute.json) |
 | The Flying Feathers | 247768 | [247768-the-flying-feathers.json](./247768-the-flying-feathers.json) |
 | The Flying Jet | 366223 | [366223-the-flying-jet.json](./366223-the-flying-jet.json) |
 | The FMV Collection 5 | 331404 | [331404-the-fmv-collection-5.json](./331404-the-fmv-collection-5.json) |
@@ -2987,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Harmony Chronicles: Chaos Realms - Collector's Edition | 319771 | [319771-the-harmony-chronicles-chaos-realms-collectors-edition.json](./319771-the-harmony-chronicles-chaos-realms-collectors-edition.json) |
 | The Harmony Chronicles: Demon of the Void - Collector’s Edition | 332532 | [332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json](./332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json) |
 | The Harmony of Buku | 55921 | [55921-the-harmony-of-buku.json](./55921-the-harmony-of-buku.json) |
+| The Harvest 3D | 233095 | [233095-the-harvest-3d.json](./233095-the-harvest-3d.json) |
 | The Hat Man: Shadow Ward | 36355 | [36355-the-hat-man-shadow-ward.json](./36355-the-hat-man-shadow-ward.json) |
 | The Hateful Dead | 31367 | [31367-the-hateful-dead.json](./31367-the-hateful-dead.json) |
 | The Haunted Dolls | 157181 | [157181-the-haunted-dolls.json](./157181-the-haunted-dolls.json) |
@@ -4044,6 +4052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Not-Deer Stew | 382797 | [382797-the-not-deer-stew.json](./382797-the-not-deer-stew.json) |
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
 | The Nova Era | 209712 | [209712-the-nova-era.json](./209712-the-nova-era.json) |
+| The Numzle | 233096 | [233096-the-numzle.json](./233096-the-numzle.json) |
 | The Nutcracker | 216997 | [216997-the-nutcracker.json](./216997-the-nutcracker.json) |
 | The Nutshack But It's A Game | 326591 | [326591-the-nutshack-but-its-a-game.json](./326591-the-nutshack-but-its-a-game.json) |
 | The Oblivion Asylum | 117676 | [117676-the-oblivion-asylum.json](./117676-the-oblivion-asylum.json) |
@@ -5727,6 +5736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Foreign Sisters!! | 379352 | [379352-three-foreign-sisters.json](./379352-three-foreign-sisters.json) |
 | Three Glyph Tiles | 256307 | [256307-three-glyph-tiles.json](./256307-three-glyph-tiles.json) |
 | Three Goblin Wobblin' | 267076 | [267076-three-goblin-wobblin.json](./267076-three-goblin-wobblin.json) |
+| Three Hoops | 233076 | [233076-three-hoops.json](./233076-three-hoops.json) |
 | Three Kingdom: Zhang Jiao Revival | 374060 | [374060-three-kingdom-zhang-jiao-revival.json](./374060-three-kingdom-zhang-jiao-revival.json) |
 | Three Kingdoms 2025 | 368017 | [368017-three-kingdoms-2025.json](./368017-three-kingdoms-2025.json) |
 | Three Kingdoms 21 | 149094 | [149094-three-kingdoms-21.json](./149094-three-kingdoms-21.json) |
@@ -5863,6 +5873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiamat's Drink | 127198 | [127198-tiamats-drink.json](./127198-tiamats-drink.json) |
 | Tian Wang Xiang Mo Zhuan | 266286 | [266286-tian-wang-xiang-mo-zhuan.json](./266286-tian-wang-xiang-mo-zhuan.json) |
 | Tiān Yuán Chuánshuō | 407320 | [407320-tian-yuan-chuanshuo.json](./407320-tian-yuan-chuanshuo.json) |
+| Tiana Saves Xmas | 233077 | [233077-tiana-saves-xmas.json](./233077-tiana-saves-xmas.json) |
 | Tiana's Fishing Diary | 390640 | [390640-tianas-fishing-diary.json](./390640-tianas-fishing-diary.json) |
 | Tiāndào: Gōngdé Chāojí Bāo | 347223 | [347223-tiandao-gongde-chaoji-bao.json](./347223-tiandao-gongde-chaoji-bao.json) |
 | Tiāndào: Gōngdé Dà Lǐ Bāo | 347224 | [347224-tiandao-gongde-da-li-bao.json](./347224-tiandao-gongde-da-li-bao.json) |
@@ -5885,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic Toc Shoc for Playdate | 276727 | [276727-tic-toc-shoc-for-playdate.json](./276727-tic-toc-shoc-for-playdate.json) |
 | Tic-Tac-Matrix | 180748 | [180748-tic-tac-matrix.json](./180748-tic-tac-matrix.json) |
 | Tic-Tac-Tanks | 195214 | [195214-tic-tac-tanks.json](./195214-tic-tac-tanks.json) |
+| Tic-Tac-Toast | 233078 | [233078-tic-tac-toast.json](./233078-tic-tac-toast.json) |
 | Tic-Tac-Touch: FS5 | 72628 | [72628-tic-tac-touch-fs5.json](./72628-tic-tac-touch-fs5.json) |
 | Tic-Toc-Tower | 34781 | [34781-tic-toc-tower.json](./34781-tic-toc-tower.json) |
 | Tic-Toc-Tower: Teslagrad | 171063 | [171063-tic-toc-tower-teslagrad.json](./171063-tic-toc-tower-teslagrad.json) |
@@ -5935,6 +5947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tied to the Beat | 391039 | [391039-tied-to-the-beat.json](./391039-tied-to-the-beat.json) |
 | Tien Len: Killer 13 | 175422 | [175422-tien-len-killer-13.json](./175422-tien-len-killer-13.json) |
 | Tierra: Adventure Mystery | 174306 | [174306-tierra-adventure-mystery.json](./174306-tierra-adventure-mystery.json) |
+| Tiffany Alvord Dream World | 233079 | [233079-tiffany-alvord-dream-world.json](./233079-tiffany-alvord-dream-world.json) |
 | Tiger & Bunny: Hero's Day | 63842 | [63842-tiger-and-bunny-heros-day.json](./63842-tiger-and-bunny-heros-day.json) |
 | Tiger Casino & Slot Game | 373625 | [373625-tiger-casino-and-slot-game.json](./373625-tiger-casino-and-slot-game.json) |
 | Tiger Fighter 1931: MP061 | 173757 | [173757-tiger-fighter-1931-mp061.json](./173757-tiger-fighter-1931-mp061.json) |
@@ -6331,6 +6344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Game Classic | 88272 | [88272-tile-game-classic.json](./88272-tile-game-classic.json) |
 | Tile Jong | 336379 | [336379-tile-jong.json](./336379-tile-jong.json) |
 | Tile Rider | 35625 | [35625-tile-rider.json](./35625-tile-rider.json) |
+| Tile Star 2 | 233080 | [233080-tile-star-2.json](./233080-tile-star-2.json) |
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
 | Tile-Throwing Legend: Mutsuki | 59382 | [59382-tile-throwing-legend-mutsuki.json](./59382-tile-throwing-legend-mutsuki.json) |
@@ -6550,6 +6564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Football | 191182 | [191182-tiny-football.json](./191182-tiny-football.json) |
 | Tiny Fortress | 409645 | [409645-tiny-fortress.json](./409645-tiny-fortress.json) |
 | Tiny Garden | 300390 | [300390-tiny-garden.json](./300390-tiny-garden.json) |
+| Tiny Goalie | 233081 | [233081-tiny-goalie.json](./233081-tiny-goalie.json) |
 | Tiny Gods of the Nile | 191197 | [191197-tiny-gods-of-the-nile.json](./191197-tiny-gods-of-the-nile.json) |
 | Tiny Heist | 26670 | [26670-tiny-heist.json](./26670-tiny-heist.json) |
 | Tiny Hell | 373069 | [373069-tiny-hell.json](./373069-tiny-hell.json) |
@@ -7090,12 +7105,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Nights | 315475 | [315475-too-many-nights.json](./315475-too-many-nights.json) |
 | Too Many Ninjas! | 342165 | [342165-too-many-ninjas.json](./342165-too-many-ninjas.json) |
 | Too Many Sheep | 249838 | [249838-too-many-sheep.json](./249838-too-many-sheep.json) |
+| Too Many Snakes | 233082 | [233082-too-many-snakes.json](./233082-too-many-snakes.json) |
 | Tooi Tooi, Yakusoku: Tune of Memories | 299991 | [299991-tooi-tooi-yakusoku-tune-of-memories.json](./299991-tooi-tooi-yakusoku-tune-of-memories.json) |
 | Took: The Immortal Hero | 329365 | [329365-took-the-immortal-hero.json](./329365-took-the-immortal-hero.json) |
 | Tool Land | 391747 | [391747-tool-land.json](./391747-tool-land.json) |
 | Toolbox Tycoon | 362826 | [362826-toolbox-tycoon.json](./362826-toolbox-tycoon.json) |
 | Tools Up! Garden Party: Season Pass | 202935 | [202935-tools-up-garden-party-season-pass.json](./202935-tools-up-garden-party-season-pass.json) |
 | Toon Car: The Great Race | 206758 | [206758-toon-car-the-great-race.json](./206758-toon-car-the-great-race.json) |
+| Toon Puzzle Island | 233083 | [233083-toon-puzzle-island.json](./233083-toon-puzzle-island.json) |
 | Toon Puzzle Quest | 108480 | [108480-toon-puzzle-quest.json](./108480-toon-puzzle-quest.json) |
 | Toon Roads: Race & Drift | 288315 | [288315-toon-roads-race-and-drift.json](./288315-toon-roads-race-and-drift.json) |
 | Toon Wars: Tank Battles | 87898 | [87898-toon-wars-tank-battles.json](./87898-toon-wars-tank-battles.json) |
@@ -7654,6 +7671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toz | 124200 | [124200-toz.json](./124200-toz.json) |
 | Tr4pp3d | 277975 | [277975-tr4pp3d.json](./277975-tr4pp3d.json) |
 | Trabi Racer | 305348 | [305348-trabi-racer.json](./305348-trabi-racer.json) |
+| Trabi vs. Zombies: Apocalypse VR | 233073 | [233073-trabi-vs-zombies-apocalypse-vr.json](./233073-trabi-vs-zombies-apocalypse-vr.json) |
 | Trace Hunters | 279101 | [279101-trace-hunters.json](./279101-trace-hunters.json) |
 | Trace of Time | 284337 | [284337-trace-of-time.json](./284337-trace-of-time.json) |
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
@@ -8446,10 +8464,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickster VR: Horde Attack! | 119759 | [119759-trickster-vr-horde-attack.json](./119759-trickster-vr-horde-attack.json) |
 | Tricky and the Dream Caster | 316626 | [316626-tricky-and-the-dream-caster.json](./316626-tricky-and-the-dream-caster.json) |
 | Tricky Doors | 203573 | [203573-tricky-doors.json](./203573-tricky-doors.json) |
+| Tricky Geometry | 233075 | [233075-tricky-geometry.json](./233075-tricky-geometry.json) |
 | Tricky Horse Jump Racing Game | 240924 | [240924-tricky-horse-jump-racing-game.json](./240924-tricky-horse-jump-racing-game.json) |
 | Tricky Keys | 144942 | [144942-tricky-keys.json](./144942-tricky-keys.json) |
 | Tricky Machines | 157160 | [157160-tricky-machines.json](./157160-tricky-machines.json) |
 | Tricky Monkey Zoo | 396228 | [396228-tricky-monkey-zoo.json](./396228-tricky-monkey-zoo.json) |
+| Tricky Questions | 233074 | [233074-tricky-questions.json](./233074-tricky-questions.json) |
 | Tricky Quicky | 78066 | [78066-tricky-quicky.json](./78066-tricky-quicky.json) |
 | Tricky Test 2: Genius Brain? | 88863 | [88863-tricky-test-2-genius-brain.json](./88863-tricky-test-2-genius-brain.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
