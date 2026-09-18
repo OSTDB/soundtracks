@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Chicken | 174804 | [174804-beautiful-chicken.json](./174804-beautiful-chicken.json) |
 | Beautiful Dangerous | 343371 | [343371-beautiful-dangerous.json](./343371-beautiful-dangerous.json) |
 | Beautiful Desolation | 56914 | [56914-beautiful-desolation.json](./56914-beautiful-desolation.json) |
+| Beautiful Escape: Dungeoneer | 214574 | [214574-beautiful-escape-dungeoneer.json](./214574-beautiful-escape-dungeoneer.json) |
 | Beautiful Indie Worlds Bundle | 246112 | [246112-beautiful-indie-worlds-bundle.json](./246112-beautiful-indie-worlds-bundle.json) |
 | Beautiful Japanese Scenery: Animated Jigsaws | 31695 | [31695-beautiful-japanese-scenery-animated-jigsaws.json](./31695-beautiful-japanese-scenery-animated-jigsaws.json) |
 | Beautiful Sakura: Surfing Club | 265240 | [265240-beautiful-sakura-surfing-club.json](./265240-beautiful-sakura-surfing-club.json) |
@@ -4636,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build The Sun | 328584 | [328584-build-the-sun.json](./328584-build-the-sun.json) |
 | Build Wars | 96664 | [96664-build-wars.json](./96664-build-wars.json) |
 | Build-A-Bear Workshop: Bear Valley | 104593 | [104593-build-a-bear-workshop-bear-valley.json](./104593-build-a-bear-workshop-bear-valley.json) |
+| Build-A-Bearville | 214613 | [214613-build-a-bearville.json](./214613-build-a-bearville.json) |
 | BuildCraft | 232655 | [232655-buildcraft.json](./232655-buildcraft.json) |
 | Builder Flipper Bundle | 276307 | [276307-builder-flipper-bundle.json](./276307-builder-flipper-bundle.json) |
 | Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
