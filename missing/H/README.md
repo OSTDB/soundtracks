@@ -154,6 +154,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Edge of Darkness | 196833 | [196833-half-life-edge-of-darkness.json](./196833-half-life-edge-of-darkness.json) |
 | Half-Life: Escape | 221856 | [221856-half-life-escape.json](./221856-half-life-escape.json) |
 | Half-Life: Escape 2.0 | 294442 | [294442-half-life-escape-2-0.json](./294442-half-life-escape-2-0.json) |
+| Half-Life: Field Intensity | 196731 | [196731-half-life-field-intensity.json](./196731-half-life-field-intensity.json) |
+| Half-Life: Hazardous Course 2 | 196733 | [196733-half-life-hazardous-course-2.json](./196733-half-life-hazardous-course-2.json) |
 | Half-Life: Hostile Takeover | 252806 | [252806-half-life-hostile-takeover.json](./252806-half-life-hostile-takeover.json) |
 | Half-Life: In Deep | 221858 | [221858-half-life-in-deep.json](./221858-half-life-in-deep.json) |
 | Half-Life: Intolerable Threat | 222325 | [222325-half-life-intolerable-threat.json](./222325-half-life-intolerable-threat.json) |
@@ -172,10 +174,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: The Challenger Deep 2 | 196853 | [196853-half-life-the-challenger-deep-2.json](./196853-half-life-the-challenger-deep-2.json) |
 | Half-Life: The Core | 222322 | [222322-half-life-the-core.json](./222322-half-life-the-core.json) |
 | Half-Life: The Evasion | 222287 | [222287-half-life-the-evasion.json](./222287-half-life-the-evasion.json) |
+| Half-Life: The Infected | 196732 | [196732-half-life-the-infected.json](./196732-half-life-the-infected.json) |
 | Half-Life: Through The City | 309106 | [309106-half-life-through-the-city.json](./309106-half-life-through-the-city.json) |
 | Half-Life: Visitors | 221854 | [221854-half-life-visitors.json](./221854-half-life-visitors.json) |
 | Half-Life: VR Mod | 221166 | [221166-half-life-vr-mod.json](./221166-half-life-vr-mod.json) |
 | Half-Life: Xen-Warrior | 221808 | [221808-half-life-xen-warrior.json](./221808-half-life-xen-warrior.json) |
+| Half-Life: Zombie Edition | 196734 | [196734-half-life-zombie-edition.json](./196734-half-life-zombie-edition.json) |
+| Half-Nuked | 196730 | [196730-half-nuked.json](./196730-half-nuked.json) |
 | Half-Rats: Parasomnia | 127919 | [127919-half-rats-parasomnia.json](./127919-half-rats-parasomnia.json) |
 | Halfbrick Rocket Racing | 67959 | [67959-halfbrick-rocket-racing.json](./67959-halfbrick-rocket-racing.json) |
 | Halfmoon | 364583 | [364583-halfmoon.json](./364583-halfmoon.json) |
@@ -3047,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hour Night | 178083 | [178083-hour-night.json](./178083-hour-night.json) |
 | Hour of the Snake | 117042 | [117042-hour-of-the-snake.json](./117042-hour-of-the-snake.json) |
 | House 2 | 267094 | [267094-house-2.json](./267094-house-2.json) |
+| House 3D: Move and Unpack | 196680 | [196680-house-3d-move-and-unpack.json](./196680-house-3d-move-and-unpack.json) |
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
 | House Cleaner Flipper Game | 105916 | [105916-house-cleaner-flipper-game.json](./105916-house-cleaner-flipper-game.json) |
 | House Designer | 171625 | [171625-house-designer.json](./171625-house-designer.json) |
@@ -3313,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunger Lane | 403687 | [403687-hunger-lane.json](./403687-hunger-lane.json) |
 | Hunger of The Elder Slime | 180846 | [180846-hunger-of-the-elder-slime.json](./180846-hunger-of-the-elder-slime.json) |
 | Hungrities | 386695 | [386695-hungrities.json](./386695-hungrities.json) |
+| Hungry Animals | 196675 | [196675-hungry-animals.json](./196675-hungry-animals.json) |
 | Hungry Cat Nonogram | 207862 | [207862-hungry-cat-nonogram.json](./207862-hungry-cat-nonogram.json) |
 | Hungry Chicks: Battle Farm | 402265 | [402265-hungry-chicks-battle-farm.json](./402265-hungry-chicks-battle-farm.json) |
 | Hungry Corgi | 255728 | [255728-hungry-corgi.json](./255728-hungry-corgi.json) |
