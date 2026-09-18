@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maru and her make-believe world | 166747 | [166747-maru-and-her-make-believe-world.json](./166747-maru-and-her-make-believe-world.json) |
 | Maruchi Akindo | 396190 | [396190-maruchi-akindo.json](./396190-maruchi-akindo.json) |
 | Maruja Mallo | 226732 | [226732-maruja-mallo.json](./226732-maruja-mallo.json) |
+| Marvel 1943: Rise of Hydra | 216315 | [216315-marvel-1943-rise-of-hydra.json](./216315-marvel-1943-rise-of-hydra.json) |
 | Marvel 2099: One Nation Under Doom | 144263 | [144263-marvel-2099-one-nation-under-doom.json](./144263-marvel-2099-one-nation-under-doom.json) |
 | Marvel Contest of Champions | 28107 | [28107-marvel-contest-of-champions.json](./28107-marvel-contest-of-champions.json) |
 | Marvel Disk Wars: Avengers - Ultimate Heroes | 61656 | [61656-marvel-disk-wars-avengers-ultimate-heroes.json](./61656-marvel-disk-wars-avengers-ultimate-heroes.json) |
@@ -1961,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Battlegrounds | 188669 | [188669-medieval-battlegrounds.json](./188669-medieval-battlegrounds.json) |
 | Medieval Castle Siege Defense vs. Invaders | 406083 | [406083-medieval-castle-siege-defense-vs-invaders.json](./406083-medieval-castle-siege-defense-vs-invaders.json) |
 | Medieval Coin Hunt | 368540 | [368540-medieval-coin-hunt.json](./368540-medieval-coin-hunt.json) |
+| Medieval Combat: Age of Glory | 216354 | [216354-medieval-combat-age-of-glory.json](./216354-medieval-combat-age-of-glory.json) |
 | Medieval Conquest | 305948 | [305948-medieval-conquest.json](./305948-medieval-conquest.json) |
 | Medieval Defence | 235997 | [235997-medieval-defence.json](./235997-medieval-defence.json) |
 | Medieval Delivery | 263519 | [263519-medieval-delivery.json](./263519-medieval-delivery.json) |
@@ -3723,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Escape | 271726 | [271726-mission-escape.json](./271726-mission-escape.json) |
 | Mission: Humanity | 73325 | [73325-mission-humanity.json](./73325-mission-humanity.json) |
 | Mission: Impossible | 219019 | [219019-mission-impossible.json](./219019-mission-impossible.json) |
+| Mission: Impossible - New Dawn | 216344 | [216344-mission-impossible-new-dawn.json](./216344-mission-impossible-new-dawn.json) |
 | Mission: In Boxes | 150628 | [150628-mission-in-boxes.json](./150628-mission-in-boxes.json) |
 | Mission: Invasion Force | 70403 | [70403-mission-invasion-force.json](./70403-mission-invasion-force.json) |
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
@@ -5350,6 +5353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Box: Funky Vintage | 316266 | [316266-music-box-funky-vintage.json](./316266-music-box-funky-vintage.json) |
 | Music Box: Hip Hop | 316271 | [316271-music-box-hip-hop.json](./316271-music-box-hip-hop.json) |
 | Music Box: Hip Hop vol.2 | 316272 | [316272-music-box-hip-hop-vol-2.json](./316272-music-box-hip-hop-vol-2.json) |
+| Music Catch 2 | 216325 | [216325-music-catch-2.json](./216325-music-catch-2.json) |
 | Music Club Manager | 126616 | [126616-music-club-manager.json](./126616-music-club-manager.json) |
 | Music Drive | 273994 | [273994-music-drive.json](./273994-music-drive.json) |
 | Music Drive: Chase the Beat | 351004 | [351004-music-drive-chase-the-beat.json](./351004-music-drive-chase-the-beat.json) |
