@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangan Shisen-sho | 206357 | [206357-mangan-shisen-sho.json](./206357-mangan-shisen-sho.json) |
 | Mangata | 184048 | [184048-mangata.json](./184048-mangata.json) |
 | Mangchi | 39591 | [39591-mangchi.json](./39591-mangchi.json) |
+| MangoMan | 183471 | [183471-mangoman.json](./183471-mangoman.json) |
 | ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
 | Manhattan Dealers | 10846 | [10846-manhattan-dealers.json](./10846-manhattan-dealers.json) |
 | Manhattan Requiem | 349955 | [349955-manhattan-requiem.json](./349955-manhattan-requiem.json) |
@@ -973,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Märchen Maze | 212861 | [212861-marchen-maze.json](./212861-marchen-maze.json) |
 | Marchen Veil | 41337 | [41337-marchen-veil.json](./41337-marchen-veil.json) |
 | Marching Order | 330151 | [330151-marching-order.json](./330151-marching-order.json) |
+| Marchland | 183457 | [183457-marchland.json](./183457-marchland.json) |
 | Marcianito Go | 228470 | [228470-marcianito-go.json](./228470-marcianito-go.json) |
 | Marco Polo | 45916 | [45916-marco-polo.json](./45916-marco-polo.json) |
 | Marco Polo Bridge Incident | 213398 | [213398-marco-polo-bridge-incident.json](./213398-marco-polo-bridge-incident.json) |
@@ -2425,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoria Project | 193969 | [193969-memoria-project.json](./193969-memoria-project.json) |
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
 | Memoria Wake | 348349 | [348349-memoria-wake.json](./348349-memoria-wake.json) |
+| Memorial Pillage | 183462 | [183462-memorial-pillage.json](./183462-memorial-pillage.json) |
 | Memorial Series: Sunsoft vol. 1 | 79347 | [79347-memorial-series-sunsoft-vol-1.json](./79347-memorial-series-sunsoft-vol-1.json) |
 | Memoriedit | 373521 | [373521-memoriedit.json](./373521-memoriedit.json) |
 | Memories | 269566 | [269566-memories.json](./269566-memories.json) |
