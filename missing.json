@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T18:49:14.885Z",
-  "total_missing": 88671,
+  "generated_at": "2026-09-18T19:02:49.378Z",
+  "total_missing": 88721,
   "games": [
     {
       "igdb_id": 273453,
@@ -80438,6 +80438,11 @@
       "file": "missing/C/179742-custodial.json"
     },
     {
+      "igdb_id": 191694,
+      "game_name": "Custom Maid 3D",
+      "file": "missing/C/191694-custom-maid-3d.json"
+    },
+    {
       "igdb_id": 268007,
       "game_name": "Custom Mech Wars: EDF Collab Edition",
       "file": "missing/C/268007-custom-mech-wars-edf-collab-edition.json"
@@ -106863,6 +106868,11 @@
       "file": "missing/D/204691-dungeon-redemption.json"
     },
     {
+      "igdb_id": 191714,
+      "game_name": "Dungeon Reels Tactics",
+      "file": "missing/D/191714-dungeon-reels-tactics.json"
+    },
+    {
       "igdb_id": 224654,
       "game_name": "Dungeon Renovators",
       "file": "missing/D/224654-dungeon-renovators.json"
@@ -119538,6 +119548,21 @@
       "file": "missing/E/299728-extraordinary-detective-marshall.json"
     },
     {
+      "igdb_id": 191751,
+      "game_name": "Extrapower Attack of Darkforce",
+      "file": "missing/E/191751-extrapower-attack-of-darkforce.json"
+    },
+    {
+      "igdb_id": 191749,
+      "game_name": "Extrapower Giant Fist",
+      "file": "missing/E/191749-extrapower-giant-fist.json"
+    },
+    {
+      "igdb_id": 191696,
+      "game_name": "Extrapower Star Resistance",
+      "file": "missing/E/191696-extrapower-star-resistance.json"
+    },
+    {
       "igdb_id": 32078,
       "game_name": "Extravaganza Rising",
       "file": "missing/E/32078-extravaganza-rising.json"
@@ -121498,6 +121523,11 @@
       "file": "missing/F/191792-fallen-london-a-crown-of-thorns.json"
     },
     {
+      "igdb_id": 191710,
+      "game_name": "Fallen London: A Little Pandemonium",
+      "file": "missing/F/191710-fallen-london-a-little-pandemonium.json"
+    },
+    {
       "igdb_id": 191903,
       "game_name": "Fallen London: A Stretch in the Sky",
       "file": "missing/F/191903-fallen-london-a-stretch-in-the-sky.json"
@@ -121508,9 +121538,34 @@
       "file": "missing/F/191795-fallen-london-adornment.json"
     },
     {
+      "igdb_id": 191734,
+      "game_name": "Fallen London: Borrowed Glory",
+      "file": "missing/F/191734-fallen-london-borrowed-glory.json"
+    },
+    {
+      "igdb_id": 191715,
+      "game_name": "Fallen London: Cricket, Anyone?",
+      "file": "missing/F/191715-fallen-london-cricket-anyone.json"
+    },
+    {
       "igdb_id": 191791,
       "game_name": "Fallen London: Damp Martyrs",
       "file": "missing/F/191791-fallen-london-damp-martyrs.json"
+    },
+    {
+      "igdb_id": 191711,
+      "game_name": "Fallen London: Daylight",
+      "file": "missing/F/191711-fallen-london-daylight.json"
+    },
+    {
+      "igdb_id": 191700,
+      "game_name": "Fallen London: Factory of Favours",
+      "file": "missing/F/191700-fallen-london-factory-of-favours.json"
+    },
+    {
+      "igdb_id": 191732,
+      "game_name": "Fallen London: Fine Dining",
+      "file": "missing/F/191732-fallen-london-fine-dining.json"
     },
     {
       "igdb_id": 191785,
@@ -121518,9 +121573,39 @@
       "file": "missing/F/191785-fallen-london-for-a-dream-of-innocence.json"
     },
     {
+      "igdb_id": 191707,
+      "game_name": "Fallen London: For All the Saints Who From Their Labours Rest",
+      "file": "missing/F/191707-fallen-london-for-all-the-saints-who-from-their-labours-rest.json"
+    },
+    {
+      "igdb_id": 191736,
+      "game_name": "Fallen London: Go Tell the King of Cats",
+      "file": "missing/F/191736-fallen-london-go-tell-the-king-of-cats.json"
+    },
+    {
       "igdb_id": 191786,
       "game_name": "Fallen London: Leviathan",
       "file": "missing/F/191786-fallen-london-leviathan.json"
+    },
+    {
+      "igdb_id": 191720,
+      "game_name": "Fallen London: My Kingdom for a Pig",
+      "file": "missing/F/191720-fallen-london-my-kingdom-for-a-pig.json"
+    },
+    {
+      "igdb_id": 191716,
+      "game_name": "Fallen London: Noises from Upstairs",
+      "file": "missing/F/191716-fallen-london-noises-from-upstairs.json"
+    },
+    {
+      "igdb_id": 191731,
+      "game_name": "Fallen London: Por Una Cabeza",
+      "file": "missing/F/191731-fallen-london-por-una-cabeza.json"
+    },
+    {
+      "igdb_id": 191706,
+      "game_name": "Fallen London: Required Repairs",
+      "file": "missing/F/191706-fallen-london-required-repairs.json"
     },
     {
       "igdb_id": 191787,
@@ -121528,9 +121613,29 @@
       "file": "missing/F/191787-fallen-london-reunion.json"
     },
     {
+      "igdb_id": 191729,
+      "game_name": "Fallen London: Say It with Flowers",
+      "file": "missing/F/191729-fallen-london-say-it-with-flowers.json"
+    },
+    {
+      "igdb_id": 191735,
+      "game_name": "Fallen London: Shades of Yesterday",
+      "file": "missing/F/191735-fallen-london-shades-of-yesterday.json"
+    },
+    {
       "igdb_id": 233592,
       "game_name": "Fallen London: Stolen Stanzas",
       "file": "missing/F/233592-fallen-london-stolen-stanzas.json"
+    },
+    {
+      "igdb_id": 191717,
+      "game_name": "Fallen London: Tauroktonos",
+      "file": "missing/F/191717-fallen-london-tauroktonos.json"
+    },
+    {
+      "igdb_id": 191750,
+      "game_name": "Fallen London: The Ballad of Johnny Croak",
+      "file": "missing/F/191750-fallen-london-the-ballad-of-johnny-croak.json"
     },
     {
       "igdb_id": 191865,
@@ -121538,14 +121643,29 @@
       "file": "missing/F/191865-fallen-london-the-blemmigan-affair.json"
     },
     {
+      "igdb_id": 191704,
+      "game_name": "Fallen London: The Bones of London",
+      "file": "missing/F/191704-fallen-london-the-bones-of-london.json"
+    },
+    {
       "igdb_id": 191882,
       "game_name": "Fallen London: The Brass Grail",
       "file": "missing/F/191882-fallen-london-the-brass-grail.json"
     },
     {
+      "igdb_id": 191730,
+      "game_name": "Fallen London: The Committee",
+      "file": "missing/F/191730-fallen-london-the-committee.json"
+    },
+    {
       "igdb_id": 191793,
       "game_name": "Fallen London: The Crocodile Who Would Be King",
       "file": "missing/F/191793-fallen-london-the-crocodile-who-would-be-king.json"
+    },
+    {
+      "igdb_id": 191752,
+      "game_name": "Fallen London: The Dilettante's Debut",
+      "file": "missing/F/191752-fallen-london-the-dilettantes-debut.json"
     },
     {
       "igdb_id": 221853,
@@ -121558,9 +121678,24 @@
       "file": "missing/F/191783-fallen-london-the-fair-unknown.json"
     },
     {
+      "igdb_id": 191719,
+      "game_name": "Fallen London: The Garden Embassy",
+      "file": "missing/F/191719-fallen-london-the-garden-embassy.json"
+    },
+    {
+      "igdb_id": 191728,
+      "game_name": "Fallen London: The Heretic of Hollow Street",
+      "file": "missing/F/191728-fallen-london-the-heretic-of-hollow-street.json"
+    },
+    {
       "igdb_id": 191794,
       "game_name": "Fallen London: The House of Silk and Flame",
       "file": "missing/F/191794-fallen-london-the-house-of-silk-and-flame.json"
+    },
+    {
+      "igdb_id": 191709,
+      "game_name": "Fallen London: The Magician's Dream",
+      "file": "missing/F/191709-fallen-london-the-magicians-dream.json"
     },
     {
       "igdb_id": 191869,
@@ -121568,14 +121703,44 @@
       "file": "missing/F/191869-fallen-london-the-marriage-of-feducci.json"
     },
     {
+      "igdb_id": 191702,
+      "game_name": "Fallen London: The Murgatroyd Formula",
+      "file": "missing/F/191702-fallen-london-the-murgatroyd-formula.json"
+    },
+    {
       "igdb_id": 233591,
       "game_name": "Fallen London: The Mushroom's Dream",
       "file": "missing/F/233591-fallen-london-the-mushrooms-dream.json"
     },
     {
+      "igdb_id": 191712,
+      "game_name": "Fallen London: The Price of Loss",
+      "file": "missing/F/191712-fallen-london-the-price-of-loss.json"
+    },
+    {
+      "igdb_id": 191701,
+      "game_name": "Fallen London: The Pursuit of Moths",
+      "file": "missing/F/191701-fallen-london-the-pursuit-of-moths.json"
+    },
+    {
       "igdb_id": 199619,
       "game_name": "Fallen London: The Queen of the Elephants",
       "file": "missing/F/199619-fallen-london-the-queen-of-the-elephants.json"
+    },
+    {
+      "igdb_id": 191703,
+      "game_name": "Fallen London: The Rat-Catcher",
+      "file": "missing/F/191703-fallen-london-the-rat-catcher.json"
+    },
+    {
+      "igdb_id": 191721,
+      "game_name": "Fallen London: The Shallows",
+      "file": "missing/F/191721-fallen-london-the-shallows.json"
+    },
+    {
+      "igdb_id": 191718,
+      "game_name": "Fallen London: The Stag and the Shark",
+      "file": "missing/F/191718-fallen-london-the-stag-and-the-shark.json"
     },
     {
       "igdb_id": 191789,
@@ -121596,6 +121761,11 @@
       "igdb_id": 191788,
       "game_name": "Fallen London: We Absolutely Meant to Go to Zee",
       "file": "missing/F/191788-fallen-london-we-absolutely-meant-to-go-to-zee.json"
+    },
+    {
+      "igdb_id": 191705,
+      "game_name": "Fallen London: Written in the Glim",
+      "file": "missing/F/191705-fallen-london-written-in-the-glim.json"
     },
     {
       "igdb_id": 272922,
@@ -142948,6 +143118,11 @@
       "file": "missing/G/185152-gartic-on-stream.json"
     },
     {
+      "igdb_id": 191695,
+      "game_name": "Gartic.io",
+      "file": "missing/G/191695-gartic-io.json"
+    },
+    {
       "igdb_id": 327176,
       "game_name": "Garuda Emblem",
       "file": "missing/G/327176-garuda-emblem.json"
@@ -154341,6 +154516,11 @@
       "igdb_id": 413005,
       "game_name": "Gǔlóng Fēngyún Lù",
       "file": "missing/G/413005-gulong-fengyun-lu.json"
+    },
+    {
+      "igdb_id": 191708,
+      "game_name": "Gulper.Io",
+      "file": "missing/G/191708-gulper-io.json"
     },
     {
       "igdb_id": 48011,
@@ -196658,6 +196838,11 @@
       "file": "missing/K/280878-koi-hai-tunnel.json"
     },
     {
+      "igdb_id": 191693,
+      "game_name": "Koi Iro Rabian Doll",
+      "file": "missing/K/191693-koi-iro-rabian-doll.json"
+    },
+    {
       "igdb_id": 43964,
       "game_name": "Koi Koi Mahjong",
       "file": "missing/K/43964-koi-koi-mahjong.json"
@@ -196686,6 +196871,11 @@
       "igdb_id": 139985,
       "game_name": "Koi Suru Otome to Shugo no Tate: Re:boot the \"Shield-9\"",
       "file": "missing/K/139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json"
+    },
+    {
+      "igdb_id": 191691,
+      "game_name": "Koi wa Alf Laylah",
+      "file": "missing/K/191691-koi-wa-alf-laylah.json"
     },
     {
       "igdb_id": 194533,
@@ -214016,6 +214206,11 @@
       "igdb_id": 59950,
       "game_name": "Mads, Morfar og Miljøstrup",
       "file": "missing/M/59950-mads-morfar-og-milj-strup.json"
+    },
+    {
+      "igdb_id": 191697,
+      "game_name": "Madshot",
+      "file": "missing/M/191697-madshot.json"
     },
     {
       "igdb_id": 392933,
@@ -233508,6 +233703,11 @@
       "file": "missing/M/127005-mokoko.json"
     },
     {
+      "igdb_id": 191723,
+      "game_name": "Mokoko X",
+      "file": "missing/M/191723-mokoko-x.json"
+    },
+    {
       "igdb_id": 246636,
       "game_name": "Mokoko X Deluxe",
       "file": "missing/M/246636-mokoko-x-deluxe.json"
@@ -246743,9 +246943,29 @@
       "file": "missing/N/191804-nekketsu-dodgeball-bu-i.json"
     },
     {
+      "igdb_id": 191741,
+      "game_name": "Nekketsu Koukou Dodgeball-bu",
+      "file": "missing/N/191741-nekketsu-koukou-dodgeball-bu.json"
+    },
+    {
+      "igdb_id": 191740,
+      "game_name": "Nekketsu Koukou Dodgeball-bu: PC Bangai-hen",
+      "file": "missing/N/191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json"
+    },
+    {
+      "igdb_id": 191746,
+      "game_name": "Nekketsu Koukou Dodgeball-bu: Soccer-hen",
+      "file": "missing/N/191746-nekketsu-koukou-dodgeball-bu-soccer-hen.json"
+    },
+    {
       "igdb_id": 191805,
       "game_name": "Nekketsu Koukou Online: Yamada no Fukushuu",
       "file": "missing/N/191805-nekketsu-koukou-online-yamada-no-fukushuu.json"
+    },
+    {
+      "igdb_id": 191733,
+      "game_name": "Nekketsu Koukou Soccer-bu: World Cup-hen",
+      "file": "missing/N/191733-nekketsu-koukou-soccer-bu-world-cup-hen.json"
     },
     {
       "igdb_id": 364535,
@@ -251791,6 +252011,11 @@
       "igdb_id": 299862,
       "game_name": "Nintendo World Championships: NES Edition",
       "file": "missing/N/299862-nintendo-world-championships-nes-edition.json"
+    },
+    {
+      "igdb_id": 191743,
+      "game_name": "Nintendo World Cup",
+      "file": "missing/N/191743-nintendo-world-cup.json"
     },
     {
       "igdb_id": 85600,
@@ -288491,6 +288716,11 @@
       "igdb_id": 8590,
       "game_name": "Puzzle & Dragons",
       "file": "missing/P/8590-puzzle-and-dragons.json"
+    },
+    {
+      "igdb_id": 191724,
+      "game_name": "Puzzle & Dragons Nintendo Switch Edition",
+      "file": "missing/P/191724-puzzle-and-dragons-nintendo-switch-edition.json"
     },
     {
       "igdb_id": 279762,
@@ -342128,6 +342358,11 @@
       "file": "missing/S/151731-spiritle.json"
     },
     {
+      "igdb_id": 191737,
+      "game_name": "Spiritlink Tactics",
+      "file": "missing/S/191737-spiritlink-tactics.json"
+    },
+    {
       "igdb_id": 384500,
       "game_name": "Spirits and Secrets",
       "file": "missing/S/384500-spirits-and-secrets.json"
@@ -368718,6 +368953,11 @@
       "file": "missing/T/198364-ten-made-jack-odoroki-mamenoki-daitoubou.json"
     },
     {
+      "igdb_id": 191713,
+      "game_name": "Ten ni Takaku Chi ni Fukaku",
+      "file": "missing/T/191713-ten-ni-takaku-chi-ni-fukaku.json"
+    },
+    {
       "igdb_id": 309358,
       "game_name": "Ten Seconds Hero 1",
       "file": "missing/T/309358-ten-seconds-hero-1.json"
@@ -381653,6 +381893,11 @@
       "file": "missing/T/314662-the-life-of-me.json"
     },
     {
+      "igdb_id": 191748,
+      "game_name": "The Life of Saint Fiona Bianco Xena",
+      "file": "missing/T/191748-the-life-of-saint-fiona-bianco-xena.json"
+    },
+    {
       "igdb_id": 225261,
       "game_name": "The Life Threads",
       "file": "missing/T/225261-the-life-threads.json"
@@ -390031,6 +390276,11 @@
       "igdb_id": 270684,
       "game_name": "The Unknown Planet",
       "file": "missing/T/270684-the-unknown-planet.json"
+    },
+    {
+      "igdb_id": 191722,
+      "game_name": "The UnMaking",
+      "file": "missing/T/191722-the-unmaking.json"
     },
     {
       "igdb_id": 153353,
