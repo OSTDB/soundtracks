@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rein | 171543 | [171543-rein.json](./171543-rein.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
 | Reindeer Rescue | 68708 | [68708-reindeer-rescue.json](./68708-reindeer-rescue.json) |
+| Reindeer Story | 211798 | [211798-reindeer-story.json](./211798-reindeer-story.json) |
 | Reiner Knizia's Medici HD | 103540 | [103540-reiner-knizias-medici-hd.json](./103540-reiner-knizias-medici-hd.json) |
 | Rejoin | 415948 | [415948-rejoin.json](./415948-rejoin.json) |
 | Rejudgement: ReBlessZwei | 193949 | [193949-rejudgement-reblesszwei.json](./193949-rejudgement-reblesszwei.json) |
@@ -3455,6 +3456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runemaster Idle | 220201 | [220201-runemaster-idle.json](./220201-runemaster-idle.json) |
 | Runemon | 296685 | [296685-runemon.json](./296685-runemon.json) |
 | Runeomicon | 318184 | [318184-runeomicon.json](./318184-runeomicon.json) |
+| Runeroots | 211800 | [211800-runeroots.json](./211800-runeroots.json) |
 | Runes of Aereal | 257944 | [257944-runes-of-aereal.json](./257944-runes-of-aereal.json) |
 | Runes of Brennos | 17977 | [17977-runes-of-brennos.json](./17977-runes-of-brennos.json) |
 | Runes of Dragon | 193957 | [193957-runes-of-dragon.json](./193957-runes-of-dragon.json) |
@@ -3531,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
 | Rush!!! | 167260 | [167260-rush.json](./167260-rush.json) |
 | Rush'n Attack | 90990 | [90990-rushn-attack.json](./90990-rushn-attack.json) |
+| Rushaway | 211790 | [211790-rushaway.json](./211790-rushaway.json) |
 | Rushcremental | 381635 | [381635-rushcremental.json](./381635-rushcremental.json) |
 | Rushing Alice | 200116 | [200116-rushing-alice.json](./200116-rushing-alice.json) |
 | Rushing Beat X: Return of Brawl Brothers | 345566 | [345566-rushing-beat-x-return-of-brawl-brothers.json](./345566-rushing-beat-x-return-of-brawl-brothers.json) |
