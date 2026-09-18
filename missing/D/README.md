@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C. Girl's Symphony | 72661 | [72661-d-c-girls-symphony.json](./72661-d-c-girls-symphony.json) |
 | D.C. Girl's Symphony Pocket | 221833 | [221833-d-c-girls-symphony-pocket.json](./221833-d-c-girls-symphony-pocket.json) |
 | D.C. II ~Da Capo II~ | 61641 | [61641-d-c-ii-da-capo-ii.json](./61641-d-c-ii-da-capo-ii.json) |
+| D.C.4: Da Capo 4 - Fortunate Departures | 207920 | [207920-d-c-4-da-capo-4-fortunate-departures.json](./207920-d-c-4-da-capo-4-fortunate-departures.json) |
 | D.C.5 to 4: Luminous Memories | 408137 | [408137-d-c-5-to-4-luminous-memories.json](./408137-d-c-5-to-4-luminous-memories.json) |
 | D.C.5 to 4: Luminous Memories - Deluxe Limited Edition | 408140 | [408140-d-c-5-to-4-luminous-memories-deluxe-limited-edition.json](./408140-d-c-5-to-4-luminous-memories-deluxe-limited-edition.json) |
 | D.C.5 to 4: Luminous Memories - First Press Edition | 408139 | [408139-d-c-5-to-4-luminous-memories-first-press-edition.json](./408139-d-c-5-to-4-luminous-memories-first-press-edition.json) |
@@ -1738,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Crystals | 20402 | [20402-demons-crystals.json](./20402-demons-crystals.json) |
 | Demon's Draw | 235349 | [235349-demons-draw.json](./235349-demons-draw.json) |
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
+| Demon's Residence | 207878 | [207878-demons-residence.json](./207878-demons-residence.json) |
 | Demon's Revenge | 13587 | [13587-demons-revenge.json](./13587-demons-revenge.json) |
 | Demon's Rise - Lords of Chaos | 97899 | [97899-demons-rise-lords-of-chaos.json](./97899-demons-rise-lords-of-chaos.json) |
 | Demon's Rise 2: Lords of Chaos | 104107 | [104107-demons-rise-2-lords-of-chaos.json](./104107-demons-rise-2-lords-of-chaos.json) |
@@ -3008,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNF Duel: Who's Next | 242667 | [242667-dnf-duel-whos-next.json](./242667-dnf-duel-whos-next.json) |
 | Do a Crime | 390110 | [390110-do-a-crime.json](./390110-do-a-crime.json) |
 | Do Crimes! | 380413 | [380413-do-crimes.json](./380413-do-crimes.json) |
+| Do I Have a Right? | 207871 | [207871-do-i-have-a-right.json](./207871-do-i-have-a-right.json) |
 | Do I Pass? | 179738 | [179738-do-i-pass.json](./179738-do-i-pass.json) |
 | Do It for Me | 122997 | [122997-do-it-for-me.json](./122997-do-it-for-me.json) |
 | Do No Harm | 324687 | [324687-do-no-harm.json](./324687-do-no-harm.json) |
