@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tedram | 231366 | [231366-tedram.json](./231366-tedram.json) |
 | Tedram Online: Car Racing & Customization | 337637 | [337637-tedram-online-car-racing-and-customization.json](./337637-tedram-online-car-racing-and-customization.json) |
 | Tee Off! | 95449 | [95449-tee-off.json](./95449-tee-off.json) |
+| Tee Time | 206227 | [206227-tee-time.json](./206227-tee-time.json) |
 | Tee-riffic Golf. | 180775 | [180775-tee-riffic-golf.json](./180775-tee-riffic-golf.json) |
 | TeeDee | 327390 | [327390-teedee.json](./327390-teedee.json) |
 | TEEFAX: Cold Case | 289442 | [289442-teefax-cold-case.json](./289442-teefax-cold-case.json) |
@@ -1213,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 131530 | [131530-tennis.json](./131530-tennis.json) |
 | Tennis | 131536 | [131536-tennis.json](./131536-tennis.json) |
 | Tennis | 217967 | [217967-tennis.json](./217967-tennis.json) |
+| Tennis Addict | 206215 | [206215-tennis-addict.json](./206215-tennis-addict.json) |
 | Tennis Antics | 54426 | [54426-tennis-antics.json](./54426-tennis-antics.json) |
 | Tennis Arcade VR | 81001 | [81001-tennis-arcade-vr.json](./81001-tennis-arcade-vr.json) |
 | Tennis Arena | 227955 | [227955-tennis-arena.json](./227955-tennis-arena.json) |
@@ -1414,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive II: The Collection | 140039 | [140039-test-drive-ii-the-collection.json](./140039-test-drive-ii-the-collection.json) |
 | Test Drive: Off-Road 2 | 45086 | [45086-test-drive-off-road-2.json](./45086-test-drive-off-road-2.json) |
 | Test Drive: Off-Road 3 | 49905 | [49905-test-drive-off-road-3.json](./49905-test-drive-off-road-3.json) |
+| Test Drive: Offroad | 206222 | [206222-test-drive-offroad.json](./206222-test-drive-offroad.json) |
 | Test Lab Inc. | 264604 | [264604-test-lab-inc.json](./264604-test-lab-inc.json) |
 | Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
 | Test Tube Titans | 129933 | [129933-test-tube-titans.json](./129933-test-tube-titans.json) |
@@ -1434,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetnis | 93522 | [93522-tetnis.json](./93522-tetnis.json) |
 | Tetr.io: Season 2 | 363973 | [363973-tetr-io-season-2.json](./363973-tetr-io-season-2.json) |
 | Tetra for Nintendo Switch: International Edition | 187462 | [187462-tetra-for-nintendo-switch-international-edition.json](./187462-tetra-for-nintendo-switch-international-edition.json) |
+| Tetra Master | 206212 | [206212-tetra-master.json](./206212-tetra-master.json) |
 | Tetra Offline | 235313 | [235313-tetra-offline.json](./235313-tetra-offline.json) |
 | Tetra Troopers | 379371 | [379371-tetra-troopers.json](./379371-tetra-troopers.json) |
 | Tetra's Escape | 106530 | [106530-tetras-escape.json](./106530-tetras-escape.json) |
@@ -1597,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 7D Mine Train | 89163 | [89163-the-7d-mine-train.json](./89163-the-7d-mine-train.json) |
 | The 7th Melee: Sonic's Heroes | 330719 | [330719-the-7th-melee-sonics-heroes.json](./330719-the-7th-melee-sonics-heroes.json) |
 | The 7th Shift | 415873 | [415873-the-7th-shift.json](./415873-the-7th-shift.json) |
+| The 80's Game with Martha Quinn | 206205 | [206205-the-80s-game-with-martha-quinn.json](./206205-the-80s-game-with-martha-quinn.json) |
 | The 8th Day | 106605 | [106605-the-8th-day.json](./106605-the-8th-day.json) |
 | The 8th Melee: Hyper State | 330720 | [330720-the-8th-melee-hyper-state.json](./330720-the-8th-melee-hyper-state.json) |
 | The A-Team | 200146 | [200146-the-a-team.json](./200146-the-a-team.json) |
@@ -1635,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Big Faz | 206721 | [206721-the-adventures-of-big-faz.json](./206721-the-adventures-of-big-faz.json) |
 | The Adventures of Bruce Flea | 258474 | [258474-the-adventures-of-bruce-flea.json](./258474-the-adventures-of-bruce-flea.json) |
 | The Adventures of Bunny and Pig | 265127 | [265127-the-adventures-of-bunny-and-pig.json](./265127-the-adventures-of-bunny-and-pig.json) |
+| The Adventures of Busy Billy | 206207 | [206207-the-adventures-of-busy-billy.json](./206207-the-adventures-of-busy-billy.json) |
 | The Adventures of Clive McMulligan on Planet Zeta Four | 94774 | [94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json](./94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json) |
 | The Adventures of Crackhead Jack: Overdose Edition | 141156 | [141156-the-adventures-of-crackhead-jack-overdose-edition.json](./141156-the-adventures-of-crackhead-jack-overdose-edition.json) |
 | The Adventures of Darwin | 20371 | [20371-the-adventures-of-darwin.json](./20371-the-adventures-of-darwin.json) |
@@ -1647,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Hori | 392285 | [392285-the-adventures-of-hori.json](./392285-the-adventures-of-hori.json) |
 | The Adventures of Hyperman | 71556 | [71556-the-adventures-of-hyperman.json](./71556-the-adventures-of-hyperman.json) |
 | The Adventures of Jerry Mouse: The Rescue of Nibbles | 233613 | [233613-the-adventures-of-jerry-mouse-the-rescue-of-nibbles.json](./233613-the-adventures-of-jerry-mouse-the-rescue-of-nibbles.json) |
+| The Adventures of King Dengotti | 206208 | [206208-the-adventures-of-king-dengotti.json](./206208-the-adventures-of-king-dengotti.json) |
 | The Adventures of Kusoge | 83529 | [83529-the-adventures-of-kusoge.json](./83529-the-adventures-of-kusoge.json) |
 | The Adventures of Liam | 264605 | [264605-the-adventures-of-liam.json](./264605-the-adventures-of-liam.json) |
 | The Adventures of LinShanHai | 234311 | [234311-the-adventures-of-linshanhai.json](./234311-the-adventures-of-linshanhai.json) |
@@ -1659,6 +1666,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Nerdstan | 250348 | [250348-the-adventures-of-nerdstan.json](./250348-the-adventures-of-nerdstan.json) |
 | The Adventures of Nick & Willikins | 87182 | [87182-the-adventures-of-nick-and-willikins.json](./87182-the-adventures-of-nick-and-willikins.json) |
 | The Adventures of Oddley | 320742 | [320742-the-adventures-of-oddley.json](./320742-the-adventures-of-oddley.json) |
+| The Adventures of Peter Rabbit & Benjamin Bunny | 206209 | [206209-the-adventures-of-peter-rabbit-and-benjamin-bunny.json](./206209-the-adventures-of-peter-rabbit-and-benjamin-bunny.json) |
+| The Adventures of Pinocchio | 206210 | [206210-the-adventures-of-pinocchio.json](./206210-the-adventures-of-pinocchio.json) |
+| The Adventures of Pinocchio: Activity Center | 206211 | [206211-the-adventures-of-pinocchio-activity-center.json](./206211-the-adventures-of-pinocchio-activity-center.json) |
 | The Adventures of Rad Gravity | 8777 | [8777-the-adventures-of-rad-gravity.json](./8777-the-adventures-of-rad-gravity.json) |
 | The Adventures of Sheep and Sheep | 262451 | [262451-the-adventures-of-sheep-and-sheep.json](./262451-the-adventures-of-sheep-and-sheep.json) |
 | The Adventures of Sinbad | 14226 | [14226-the-adventures-of-sinbad.json](./14226-the-adventures-of-sinbad.json) |
@@ -1717,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Andesia Project | 279100 | [279100-the-andesia-project.json](./279100-the-andesia-project.json) |
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
+| The Animal Detectives | 206190 | [206190-the-animal-detectives.json](./206190-the-animal-detectives.json) |
 | The Animals of Farthing Wood | 364539 | [364539-the-animals-of-farthing-wood.json](./364539-the-animals-of-farthing-wood.json) |
 | The Annual Ghost Town Pumpkin Festival | 141145 | [141145-the-annual-ghost-town-pumpkin-festival.json](./141145-the-annual-ghost-town-pumpkin-festival.json) |
 | The Anomaly | 271300 | [271300-the-anomaly.json](./271300-the-anomaly.json) |
@@ -2148,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Church in the Darkness | 18113 | [18113-the-church-in-the-darkness.json](./18113-the-church-in-the-darkness.json) |
 | The Church of Cheesus Crisp: An All You Can Pray Buffet | 159364 | [159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json](./159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json) |
 | The Cinderling | 404855 | [404855-the-cinderling.json](./404855-the-cinderling.json) |
+| The Circle: Martial Arts Fighter | 206189 | [206189-the-circle-martial-arts-fighter.json](./206189-the-circle-martial-arts-fighter.json) |
 | The Circulation of Shadows | 271462 | [271462-the-circulation-of-shadows.json](./271462-the-circulation-of-shadows.json) |
 | The Citadel | 58820 | [58820-the-citadel.json](./58820-the-citadel.json) |
 | The Citadel of Sinners | 271810 | [271810-the-citadel-of-sinners.json](./271810-the-citadel-of-sinners.json) |
@@ -2510,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dot | 226205 | [226205-the-dot.json](./226205-the-dot.json) |
 | The Downgeon | 137640 | [137640-the-downgeon.json](./137640-the-downgeon.json) |
 | The Dowsing | 369085 | [369085-the-dowsing.json](./369085-the-dowsing.json) |
+| The Dracula Files | 206187 | [206187-the-dracula-files.json](./206187-the-dracula-files.json) |
 | The Drafting Table | 231645 | [231645-the-drafting-table.json](./231645-the-drafting-table.json) |
 | The Dragon and the Djinn | 189166 | [189166-the-dragon-and-the-djinn.json](./189166-the-dragon-and-the-djinn.json) |
 | The Dragon Apprentice | 196883 | [196883-the-dragon-apprentice.json](./196883-the-dragon-apprentice.json) |
@@ -4110,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of Haunted Hollow | 89746 | [89746-the-mystery-of-haunted-hollow.json](./89746-the-mystery-of-haunted-hollow.json) |
 | The Mystery of the Art School | 321162 | [321162-the-mystery-of-the-art-school.json](./321162-the-mystery-of-the-art-school.json) |
 | The Mystery of the Crystal Portal: Beyond the Horizon | 140614 | [140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json](./140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json) |
+| The Mystery of the Mary Celeste | 206229 | [206229-the-mystery-of-the-mary-celeste.json](./206229-the-mystery-of-the-mary-celeste.json) |
 | The Mystery of the Planet Venus | 307619 | [307619-the-mystery-of-the-planet-venus.json](./307619-the-mystery-of-the-planet-venus.json) |
 | The Mystery of the Village's Sacred Tree | 273662 | [273662-the-mystery-of-the-villages-sacred-tree.json](./273662-the-mystery-of-the-villages-sacred-tree.json) |
 | The Mystery of the Wicked Village | 65446 | [65446-the-mystery-of-the-wicked-village.json](./65446-the-mystery-of-the-wicked-village.json) |
@@ -5532,6 +5546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whitetail Incident | 159280 | [159280-the-whitetail-incident.json](./159280-the-whitetail-incident.json) |
 | The Wickie | 157131 | [157131-the-wickie.json](./157131-the-wickie.json) |
 | The Widow's Shadow | 271212 | [271212-the-widows-shadow.json](./271212-the-widows-shadow.json) |
+| The Wiggles: Wiggle Bay | 206228 | [206228-the-wiggles-wiggle-bay.json](./206228-the-wiggles-wiggle-bay.json) |
 | The Wild | 64971 | [64971-the-wild.json](./64971-the-wild.json) |
 | The Wild Case | 126639 | [126639-the-wild-case.json](./126639-the-wild-case.json) |
 | The Wild Darkness | 212474 | [212474-the-wild-darkness.json](./212474-the-wild-darkness.json) |
@@ -5641,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zyrdain Sands | 390100 | [390100-the-zyrdain-sands.json](./390100-the-zyrdain-sands.json) |
 | The_Painther | 410884 | [410884-the-painther.json](./410884-the-painther.json) |
 | The.Thend.End | 112992 | [112992-the-thend-end.json](./112992-the-thend-end.json) |
+| Theater of Death | 206191 | [206191-theater-of-death.json](./206191-theater-of-death.json) |
 | Theater of the Mind | 366286 | [366286-theater-of-the-mind.json](./366286-theater-of-the-mind.json) |
 | Theatre of Death | 15483 | [15483-theatre-of-death.json](./15483-theatre-of-death.json) |
 | Theatre of The Absurd | 17367 | [17367-theatre-of-the-absurd.json](./17367-theatre-of-the-absurd.json) |
@@ -5883,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas & Friends: Go Go Thomas! | 329139 | [329139-thomas-and-friends-go-go-thomas.json](./329139-thomas-and-friends-go-go-thomas.json) |
 | Thomas & Friends: Let's Roll | 370116 | [370116-thomas-and-friends-lets-roll.json](./370116-thomas-and-friends-lets-roll.json) |
 | Thomas & Friends: Right on Time | 220126 | [220126-thomas-and-friends-right-on-time.json](./220126-thomas-and-friends-right-on-time.json) |
+| Thomas & Friends: Special Delivery | 206224 | [206224-thomas-and-friends-special-delivery.json](./206224-thomas-and-friends-special-delivery.json) |
 | Thomas & Friends: Wonders of Sodor - Deluxe Edition | 394325 | [394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json](./394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json) |
 | Thomas & Friends: Wonders of Sodor - James Addon | 394318 | [394318-thomas-and-friends-wonders-of-sodor-james-addon.json](./394318-thomas-and-friends-wonders-of-sodor-james-addon.json) |
 | Thomas M. Disch's Amnesia | 50491 | [50491-thomas-m-dischs-amnesia.json](./50491-thomas-m-dischs-amnesia.json) |
@@ -5904,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
 | Those Who Rule | 211226 | [211226-those-who-rule.json](./211226-those-who-rule.json) |
 | Those Who Rule II | 394374 | [394374-those-who-rule-ii.json](./394374-those-who-rule-ii.json) |
+| Thousand Island Solitaire | 206225 | [206225-thousand-island-solitaire.json](./206225-thousand-island-solitaire.json) |
 | Thousand Island Solitaire HD | 355004 | [355004-thousand-island-solitaire-hd.json](./355004-thousand-island-solitaire-hd.json) |
 | Thousands Layered Blade: Reforged | 327168 | [327168-thousands-layered-blade-reforged.json](./327168-thousands-layered-blade-reforged.json) |
 | Thrall of the Dying Sun | 177517 | [177517-thrall-of-the-dying-sun.json](./177517-thrall-of-the-dying-sun.json) |
@@ -5979,6 +5997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Woods: Digital Collector's Edition | 53798 | [53798-through-the-woods-digital-collectors-edition.json](./53798-through-the-woods-digital-collectors-edition.json) |
 | Through the World | 189118 | [189118-through-the-world.json](./189118-through-the-world.json) |
 | Through the Years | 232989 | [232989-through-the-years.json](./232989-through-the-years.json) |
+| Through Time | 206220 | [206220-through-time.json](./206220-through-time.json) |
 | Through Time the Girl Puzzle | 262933 | [262933-through-time-the-girl-puzzle.json](./262933-through-time-the-girl-puzzle.json) |
 | ThrounnelVR | 31877 | [31877-throunnelvr.json](./31877-throunnelvr.json) |
 | Throw Anything: Zombie Invaders | 373090 | [373090-throw-anything-zombie-invaders.json](./373090-throw-anything-zombie-invaders.json) |
@@ -6794,6 +6813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tina's Wonderlands: Next Level Edition | 170024 | [170024-tiny-tinas-wonderlands-next-level-edition.json](./170024-tiny-tinas-wonderlands-next-level-edition.json) |
 | Tiny Toon Adventures: Buster Busts Loose! | 8050 | [8050-tiny-toon-adventures-buster-busts-loose.json](./8050-tiny-toon-adventures-buster-busts-loose.json) |
 | Tiny Toon Adventures: Buster's Hidden Treasure | 8049 | [8049-tiny-toon-adventures-busters-hidden-treasure.json](./8049-tiny-toon-adventures-busters-hidden-treasure.json) |
+| Tiny Toon Adventures: Defenders of the Universe | 206214 | [206214-tiny-toon-adventures-defenders-of-the-universe.json](./206214-tiny-toon-adventures-defenders-of-the-universe.json) |
 | Tiny Touchdown | 241058 | [241058-tiny-touchdown.json](./241058-tiny-touchdown.json) |
 | Tiny Town VR | 51976 | [51976-tiny-town-vr.json](./51976-tiny-town-vr.json) |
 | Tiny Toy Tanks | 159849 | [159849-tiny-toy-tanks.json](./159849-tiny-toy-tanks.json) |
@@ -6813,6 +6833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
 | Tinytopia | 131947 | [131947-tinytopia.json](./131947-tinytopia.json) |
 | Tinyverse | 181362 | [181362-tinyverse.json](./181362-tinyverse.json) |
+| Tip Top Deluxe | 206219 | [206219-tip-top-deluxe.json](./206219-tip-top-deluxe.json) |
 | Tip-Toeing Around an Empty House | 374173 | [374173-tip-toeing-around-an-empty-house.json](./374173-tip-toeing-around-an-empty-house.json) |
 | Tip-Up Ice Fishing | 178578 | [178578-tip-up-ice-fishing.json](./178578-tip-up-ice-fishing.json) |
 | Tippy Tree | 113041 | [113041-tippy-tree.json](./113041-tippy-tree.json) |
@@ -6865,6 +6886,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tkium Exclusion Area | 186335 | [186335-tkium-exclusion-area.json](./186335-tkium-exclusion-area.json) |
 | Tkium Underground | 225181 | [225181-tkium-underground.json](./225181-tkium-underground.json) |
 | TKKG: Deadly Chocolate | 200658 | [200658-tkkg-deadly-chocolate.json](./200658-tkkg-deadly-chocolate.json) |
+| TKKG: Jennifer is Missing | 206218 | [206218-tkkg-jennifer-is-missing.json](./206218-tkkg-jennifer-is-missing.json) |
+| TKKG: Mystery of the Mayan Treasure | 206216 | [206216-tkkg-mystery-of-the-mayan-treasure.json](./206216-tkkg-mystery-of-the-mayan-treasure.json) |
+| TKKG: The Betrayal | 206217 | [206217-tkkg-the-betrayal.json](./206217-tkkg-the-betrayal.json) |
 | TKKG: Wer stoppt den Feuerteufel? | 158722 | [158722-tkkg-wer-stoppt-den-feuerteufel.json](./158722-tkkg-wer-stoppt-den-feuerteufel.json) |
 | Tkl Online | 36106 | [36106-tkl-online.json](./36106-tkl-online.json) |
 | Tlicolity Eyes Vol. 1 | 116379 | [116379-tlicolity-eyes-vol-1.json](./116379-tlicolity-eyes-vol-1.json) |
