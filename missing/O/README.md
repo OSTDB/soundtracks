@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon A Time | 51189 | [51189-once-upon-a-time.json](./51189-once-upon-a-time.json) |
 | Once Upon a Time in Morocco | 208586 | [208586-once-upon-a-time-in-morocco.json](./208586-once-upon-a-time-in-morocco.json) |
 | Once Upon a Time in the Colony | 173233 | [173233-once-upon-a-time-in-the-colony.json](./173233-once-upon-a-time-in-the-colony.json) |
+| Once Upon a Time on Halloween | 223569 | [223569-once-upon-a-time-on-halloween.json](./223569-once-upon-a-time-on-halloween.json) |
 | Once Upon an Electric Dream | 132802 | [132802-once-upon-an-electric-dream.json](./132802-once-upon-an-electric-dream.json) |
 | Once You Understand the Meaning These Comics Become Scary | 409696 | [409696-once-you-understand-the-meaning-these-comics-become-scary.json](./409696-once-you-understand-the-meaning-these-comics-become-scary.json) |
 | Once' | 113662 | [113662-once.json](./113662-once.json) |
@@ -846,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-Way | 202317 | [202317-one-way.json](./202317-one-way.json) |
 | One: Kagayaku Kisetsu he | 72705 | [72705-one-kagayaku-kisetsu-he.json](./72705-one-kagayaku-kisetsu-he.json) |
 | One's Lonesome, Two's Company | 212804 | [212804-ones-lonesome-twos-company.json](./212804-ones-lonesome-twos-company.json) |
+| OneBit Arena | 223556 | [223556-onebit-arena.json](./223556-onebit-arena.json) |
 | OneBit Frogger | 209651 | [209651-onebit-frogger.json](./209651-onebit-frogger.json) |
 | Onechanbara Z: Kagura With NoNoNo! | 116359 | [116359-onechanbara-z-kagura-with-nonono.json](./116359-onechanbara-z-kagura-with-nonono.json) |
 | OneDayOne | 341505 | [341505-onedayone.json](./341505-onedayone.json) |
