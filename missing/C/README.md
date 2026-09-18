@@ -973,7 +973,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Dawn of Sorrow | 315314 | [315314-castlevania-dawn-of-sorrow.json](./315314-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow | 336029 | [336029-castlevania-dawn-of-sorrow.json](./336029-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow - Definitive Edition+ | 314028 | [314028-castlevania-dawn-of-sorrow-definitive-edition.json](./314028-castlevania-dawn-of-sorrow-definitive-edition.json) |
+| Castlevania: Dracula X | 222418 | [222418-castlevania-dracula-x.json](./222418-castlevania-dracula-x.json) |
 | Castlevania: Harmony of Dissonance | 1133 | [1133-castlevania-harmony-of-dissonance.json](./1133-castlevania-harmony-of-dissonance.json) |
+| Castlevania: Harmony of Dissonance | 222411 | [222411-castlevania-harmony-of-dissonance.json](./222411-castlevania-harmony-of-dissonance.json) |
 | Castlevania: Harmony of Dissonance - Revenge of the Findesiecle | 215165 | [215165-castlevania-harmony-of-dissonance-revenge-of-the-findesiecle.json](./215165-castlevania-harmony-of-dissonance-revenge-of-the-findesiecle.json) |
 | Castlevania: Lords of Shadow | 491 | [491-castlevania-lords-of-shadow.json](./491-castlevania-lords-of-shadow.json) |
 | Castlevania: Lords of Shadow - Reverie | 10075 | [10075-castlevania-lords-of-shadow-reverie.json](./10075-castlevania-lords-of-shadow-reverie.json) |
@@ -2155,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Mashin Eiyuuden Wataru: Mazekko Monster 2 | 66065 | [66065-chou-mashin-eiyuuden-wataru-mazekko-monster-2.json](./66065-chou-mashin-eiyuuden-wataru-mazekko-monster-2.json) |
 | Chou Meisaku Suiri Adventure DS: Raymond Chandler Gensaku - Saraba Itoshiki Hito yo | 269583 | [269583-chou-meisaku-suiri-adventure-ds-raymond-chandler-gensaku-saraba-itoshiki-hito-yo.json](./269583-chou-meisaku-suiri-adventure-ds-raymond-chandler-gensaku-saraba-itoshiki-hito-yo.json) |
 | Chou Sentou-chuu: Battle for Money | 280328 | [280328-chou-sentou-chuu-battle-for-money.json](./280328-chou-sentou-chuu-battle-for-money.json) |
+| Choujin Baseball Stadium: Nekketsu Story | 222398 | [222398-choujin-baseball-stadium-nekketsu-story.json](./222398-choujin-baseball-stadium-nekketsu-story.json) |
 | Choujin Heiki Zeroigar | 45960 | [45960-choujin-heiki-zeroigar.json](./45960-choujin-heiki-zeroigar.json) |
 | Chousenshi Densetsu: Assault from the Sea | 62189 | [62189-chousenshi-densetsu-assault-from-the-sea.json](./62189-chousenshi-densetsu-assault-from-the-sea.json) |
 | Chousoku Henkei Gyrozetter: Albatross no Tsubasa | 59970 | [59970-chousoku-henkei-gyrozetter-albatross-no-tsubasa.json](./59970-chousoku-henkei-gyrozetter-albatross-no-tsubasa.json) |
@@ -3411,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Zone | 370794 | [370794-combat-zone.json](./370794-combat-zone.json) |
 | Combatant | 193407 | [193407-combatant.json](./193407-combatant.json) |
 | Combi Pool | 291603 | [291603-combi-pool.json](./291603-combi-pool.json) |
+| Combine Destiny | 222417 | [222417-combine-destiny.json](./222417-combine-destiny.json) |
 | Combine War Toys | 111029 | [111029-combine-war-toys.json](./111029-combine-war-toys.json) |
 | Combined_Arms | 143116 | [143116-combined-arms.json](./143116-combined-arms.json) |
 | Combined_Arms Gaiden | 143117 | [143117-combined-arms-gaiden.json](./143117-combined-arms-gaiden.json) |
