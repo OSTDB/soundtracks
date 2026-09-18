@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T21:02:57.255Z",
-  "total_missing": 89121,
+  "generated_at": "2026-09-18T21:17:49.591Z",
+  "total_missing": 89171,
   "games": [
     {
       "igdb_id": 273453,
@@ -8661,6 +8661,11 @@
       "igdb_id": 177534,
       "game_name": "Aislin's Story: The Bloodbath Trials",
       "file": "missing/A/177534-aislins-story-the-bloodbath-trials.json"
+    },
+    {
+      "igdb_id": 186730,
+      "game_name": "Aisu Kuriimu Simulator",
+      "file": "missing/A/186730-aisu-kuriimu-simulator.json"
     },
     {
       "igdb_id": 252408,
@@ -24008,6 +24013,11 @@
       "file": "missing/A/111237-at-home-alone.json"
     },
     {
+      "igdb_id": 186721,
+      "game_name": "At Home Alone Final",
+      "file": "missing/A/186721-at-home-alone-final.json"
+    },
+    {
       "igdb_id": 142493,
       "game_name": "At Ishtar's Gate",
       "file": "missing/A/142493-at-ishtars-gate.json"
@@ -26738,6 +26748,11 @@
       "file": "missing/A/77375-azangara.json"
     },
     {
+      "igdb_id": 186767,
+      "game_name": "Azar",
+      "file": "missing/A/186767-azar.json"
+    },
+    {
       "igdb_id": 144954,
       "game_name": "Azathoth-D: Youtou Saisoku Densetsu",
       "file": "missing/A/144954-azathoth-d-youtou-saisoku-densetsu.json"
@@ -29081,6 +29096,11 @@
       "igdb_id": 314070,
       "game_name": "Ballet Parking",
       "file": "missing/B/314070-ballet-parking.json"
+    },
+    {
+      "igdb_id": 186755,
+      "game_name": "BallFrog",
+      "file": "missing/B/186755-ballfrog.json"
     },
     {
       "igdb_id": 173239,
@@ -41348,6 +41368,11 @@
       "file": "missing/B/64386-blindside.json"
     },
     {
+      "igdb_id": 186760,
+      "game_name": "BlindSight Event Zero",
+      "file": "missing/B/186760-blindsight-event-zero.json"
+    },
+    {
       "igdb_id": 248889,
       "game_name": "Blindsight: War of the Wardens",
       "file": "missing/B/248889-blindsight-war-of-the-wardens.json"
@@ -46931,6 +46956,11 @@
       "igdb_id": 147383,
       "game_name": "BOX: Space Station",
       "file": "missing/B/147383-box-space-station.json"
+    },
+    {
+      "igdb_id": 186741,
+      "game_name": "Box's Dream",
+      "file": "missing/B/186741-boxs-dream.json"
     },
     {
       "igdb_id": 318425,
@@ -82603,6 +82633,11 @@
       "file": "missing/D/55911-daikon-set.json"
     },
     {
+      "igdb_id": 186736,
+      "game_name": "Daikoukai Jidai III: Costa del Sol",
+      "file": "missing/D/186736-daikoukai-jidai-iii-costa-del-sol.json"
+    },
+    {
       "igdb_id": 351127,
       "game_name": "Daikoukai Jidai IV: Porto Estado - Power Up Kit",
       "file": "missing/D/351127-daikoukai-jidai-iv-porto-estado-power-up-kit.json"
@@ -103196,6 +103231,11 @@
       "igdb_id": 101546,
       "game_name": "DragonCrash",
       "file": "missing/D/101546-dragoncrash.json"
+    },
+    {
+      "igdb_id": 186715,
+      "game_name": "Dragoncrest RPG: Arc 1",
+      "file": "missing/D/186715-dragoncrest-rpg-arc-1.json"
     },
     {
       "igdb_id": 326064,
@@ -134743,6 +134783,11 @@
       "file": "missing/F/261244-forget-your-chains.json"
     },
     {
+      "igdb_id": 186754,
+      "game_name": "Forget-Me-Knot",
+      "file": "missing/F/186754-forget-me-knot.json"
+    },
+    {
       "igdb_id": 178672,
       "game_name": "Forget-Me-Not",
       "file": "missing/F/178672-forget-me-not.json"
@@ -143196,6 +143241,11 @@
       "igdb_id": 97855,
       "game_name": "Ganso! Doubutsu Uranai + Renai Uranai Puzzle",
       "file": "missing/G/97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json"
+    },
+    {
+      "igdb_id": 186733,
+      "game_name": "Ganso!! Yancha-maru",
+      "file": "missing/G/186733-ganso-yancha-maru.json"
     },
     {
       "igdb_id": 78046,
@@ -162798,6 +162848,11 @@
       "file": "missing/H/249481-hello-kitty-food-town.json"
     },
     {
+      "igdb_id": 186743,
+      "game_name": "Hello Kitty Friends",
+      "file": "missing/H/186743-hello-kitty-friends.json"
+    },
+    {
       "igdb_id": 279607,
       "game_name": "Hello Kitty Jewel Town",
       "file": "missing/H/279607-hello-kitty-jewel-town.json"
@@ -166386,6 +166441,11 @@
       "igdb_id": 345564,
       "game_name": "Hidden Memories",
       "file": "missing/H/345564-hidden-memories.json"
+    },
+    {
+      "igdb_id": 186720,
+      "game_name": "Hidden Motives: The Diamond Rush - Collector's Edition",
+      "file": "missing/H/186720-hidden-motives-the-diamond-rush-collectors-edition.json"
     },
     {
       "igdb_id": 206730,
@@ -174191,6 +174251,11 @@
       "igdb_id": 267987,
       "game_name": "Hyper! Danganronpa H20: Abandon All Hope",
       "file": "missing/H/267987-hyper-danganronpa-h20-abandon-all-hope.json"
+    },
+    {
+      "igdb_id": 186759,
+      "game_name": "Hyperbaroque",
+      "file": "missing/H/186759-hyperbaroque.json"
     },
     {
       "igdb_id": 342612,
@@ -183526,6 +183591,16 @@
       "igdb_id": 30923,
       "game_name": "Ishin no Arashi",
       "file": "missing/I/30923-ishin-no-arashi.json"
+    },
+    {
+      "igdb_id": 186737,
+      "game_name": "Ishin no Arashi: Bakumatsu Shishi-den",
+      "file": "missing/I/186737-ishin-no-arashi-bakumatsu-shishi-den.json"
+    },
+    {
+      "igdb_id": 186738,
+      "game_name": "Ishin no Arashi: Shippuu Ryoma-den",
+      "file": "missing/I/186738-ishin-no-arashi-shippuu-ryoma-den.json"
     },
     {
       "igdb_id": 225897,
@@ -198403,6 +198478,11 @@
       "file": "missing/K/135255-kozio-ek-mato-ek-wynalazca.json"
     },
     {
+      "igdb_id": 186722,
+      "game_name": "Krabat: The Secret of the Sorbian King",
+      "file": "missing/K/186722-krabat-the-secret-of-the-sorbian-king.json"
+    },
+    {
       "igdb_id": 67297,
       "game_name": "KrabbitWorld Origins",
       "file": "missing/K/67297-krabbitworld-origins.json"
@@ -202516,6 +202596,11 @@
       "igdb_id": 369563,
       "game_name": "Leaks In Space",
       "file": "missing/L/369563-leaks-in-space.json"
+    },
+    {
+      "igdb_id": 186763,
+      "game_name": "Leap",
+      "file": "missing/L/186763-leap.json"
     },
     {
       "igdb_id": 303623,
@@ -207271,6 +207356,11 @@
       "igdb_id": 332848,
       "game_name": "Lips Breaker",
       "file": "missing/L/332848-lips-breaker.json"
+    },
+    {
+      "igdb_id": 186714,
+      "game_name": "Lips Like Velum",
+      "file": "missing/L/186714-lips-like-velum.json"
     },
     {
       "igdb_id": 7053,
@@ -234838,6 +234928,11 @@
       "file": "missing/M/64413-momotaro-densetsu-1-2.json"
     },
     {
+      "igdb_id": 186765,
+      "game_name": "Momotaro Densetsu Mobile",
+      "file": "missing/M/186765-momotaro-densetsu-mobile.json"
+    },
+    {
       "igdb_id": 42049,
       "game_name": "Momotaro Densetsu Turbo",
       "file": "missing/M/42049-momotaro-densetsu-turbo.json"
@@ -234868,9 +234963,29 @@
       "file": "missing/M/64410-momotaro-dentetsu-7.json"
     },
     {
+      "igdb_id": 186771,
+      "game_name": "Momotaro Dentetsu Chubu",
+      "file": "missing/M/186771-momotaro-dentetsu-chubu.json"
+    },
+    {
       "igdb_id": 64419,
       "game_name": "Momotaro Dentetsu DS: Tokyo & Japan",
       "file": "missing/M/64419-momotaro-dentetsu-ds-tokyo-and-japan.json"
+    },
+    {
+      "igdb_id": 186777,
+      "game_name": "Momotaro Dentetsu Hokkaido",
+      "file": "missing/M/186777-momotaro-dentetsu-hokkaido.json"
+    },
+    {
+      "igdb_id": 186769,
+      "game_name": "Momotaro Dentetsu Japan",
+      "file": "missing/M/186769-momotaro-dentetsu-japan.json"
+    },
+    {
+      "igdb_id": 186770,
+      "game_name": "Momotaro Dentetsu Japan Deluxe",
+      "file": "missing/M/186770-momotaro-dentetsu-japan-deluxe.json"
     },
     {
       "igdb_id": 64408,
@@ -234883,9 +234998,39 @@
       "file": "missing/M/64414-momotaro-dentetsu-jr-zenkoku-ramen-meguri-no-maki.json"
     },
     {
+      "igdb_id": 186776,
+      "game_name": "Momotaro Dentetsu Kanto",
+      "file": "missing/M/186776-momotaro-dentetsu-kanto.json"
+    },
+    {
+      "igdb_id": 186778,
+      "game_name": "Momotaro Dentetsu Kyushu",
+      "file": "missing/M/186778-momotaro-dentetsu-kyushu.json"
+    },
+    {
+      "igdb_id": 186779,
+      "game_name": "Momotaro Dentetsu Setouchi",
+      "file": "missing/M/186779-momotaro-dentetsu-setouchi.json"
+    },
+    {
       "igdb_id": 64403,
       "game_name": "Momotaro Dentetsu Tag Match: Yuujou, Doryoku, Shouri no Maki!",
       "file": "missing/M/64403-momotaro-dentetsu-tag-match-yuujou-doryoku-shouri-no-maki.json"
+    },
+    {
+      "igdb_id": 186774,
+      "game_name": "Momotaro Dentetsu Tohoku",
+      "file": "missing/M/186774-momotaro-dentetsu-tohoku.json"
+    },
+    {
+      "igdb_id": 186775,
+      "game_name": "Momotaro Dentetsu Tohoku Deluxe",
+      "file": "missing/M/186775-momotaro-dentetsu-tohoku-deluxe.json"
+    },
+    {
+      "igdb_id": 186768,
+      "game_name": "Momotaro Dentetsu Tokyo",
+      "file": "missing/M/186768-momotaro-dentetsu-tokyo.json"
     },
     {
       "igdb_id": 64404,
@@ -234901,6 +235046,16 @@
       "igdb_id": 64416,
       "game_name": "Momotaro Dentetsu World",
       "file": "missing/M/64416-momotaro-dentetsu-world.json"
+    },
+    {
+      "igdb_id": 186772,
+      "game_name": "Momotaro Dentetsu World Deluxe",
+      "file": "missing/M/186772-momotaro-dentetsu-world-deluxe.json"
+    },
+    {
+      "igdb_id": 186773,
+      "game_name": "Momotaro Dentetsu World Remote Play",
+      "file": "missing/M/186773-momotaro-dentetsu-world-remote-play.json"
     },
     {
       "igdb_id": 64420,
@@ -235406,6 +235561,11 @@
       "igdb_id": 131548,
       "game_name": "Monopoly",
       "file": "missing/M/131548-monopoly.json"
+    },
+    {
+      "igdb_id": 186723,
+      "game_name": "Monopoly",
+      "file": "missing/M/186723-monopoly.json"
     },
     {
       "igdb_id": 228550,
@@ -237166,6 +237326,11 @@
       "igdb_id": 320346,
       "game_name": "Moonlight Frog Inn",
       "file": "missing/M/320346-moonlight-frog-inn.json"
+    },
+    {
+      "igdb_id": 186764,
+      "game_name": "Moonlight Lovers",
+      "file": "missing/M/186764-moonlight-lovers.json"
     },
     {
       "igdb_id": 257993,
@@ -249738,6 +249903,11 @@
       "file": "missing/N/275716-new-earth.json"
     },
     {
+      "igdb_id": 186732,
+      "game_name": "New Eitango Target 1900 DS",
+      "file": "missing/N/186732-new-eitango-target-1900-ds.json"
+    },
+    {
       "igdb_id": 119002,
       "game_name": "New England Detective: Breakfast in Boston",
       "file": "missing/N/119002-new-england-detective-breakfast-in-boston.json"
@@ -250221,6 +250391,11 @@
       "igdb_id": 107924,
       "game_name": "Newfound Courage",
       "file": "missing/N/107924-newfound-courage.json"
+    },
+    {
+      "igdb_id": 186762,
+      "game_name": "Newgothic Movement 1",
+      "file": "missing/N/186762-newgothic-movement-1.json"
     },
     {
       "igdb_id": 275571,
@@ -265123,6 +265298,11 @@
       "file": "missing/O/40734-oystron.json"
     },
     {
+      "igdb_id": 186747,
+      "game_name": "Oz World",
+      "file": "missing/O/186747-oz-world.json"
+    },
+    {
       "igdb_id": 254574,
       "game_name": "Ozmafia!! 0 Reflexion",
       "file": "missing/O/254574-ozmafia-0-reflexion.json"
@@ -269038,6 +269218,11 @@
       "file": "missing/P/137613-party-mashup.json"
     },
     {
+      "igdb_id": 186749,
+      "game_name": "Party Paradise",
+      "file": "missing/P/186749-party-paradise.json"
+    },
+    {
       "igdb_id": 231043,
       "game_name": "Party Party Time",
       "file": "missing/P/231043-party-party-time.json"
@@ -270606,6 +270791,11 @@
       "igdb_id": 391192,
       "game_name": "Pecky Clicker",
       "file": "missing/P/391192-pecky-clicker.json"
+    },
+    {
+      "igdb_id": 186731,
+      "game_name": "Peculiar Fables: The Werebed",
+      "file": "missing/P/186731-peculiar-fables-the-werebed.json"
     },
     {
       "igdb_id": 280750,
@@ -279786,6 +279976,11 @@
       "igdb_id": 327619,
       "game_name": "Point Gakushuu: Tokei",
       "file": "missing/P/327619-point-gakushuu-tokei.json"
+    },
+    {
+      "igdb_id": 186752,
+      "game_name": "Point of Light",
+      "file": "missing/P/186752-point-of-light.json"
     },
     {
       "igdb_id": 86815,
@@ -295396,6 +295591,11 @@
       "igdb_id": 225314,
       "game_name": "Rashomon of Shinjuku",
       "file": "missing/R/225314-rashomon-of-shinjuku.json"
+    },
+    {
+      "igdb_id": 186766,
+      "game_name": "Raskopnik: The Trench Warrior",
+      "file": "missing/R/186766-raskopnik-the-trench-warrior.json"
     },
     {
       "igdb_id": 91454,
@@ -318103,6 +318303,11 @@
       "file": "missing/S/312926-secret-thursday.json"
     },
     {
+      "igdb_id": 186761,
+      "game_name": "Secret Tower",
+      "file": "missing/S/186761-secret-tower.json"
+    },
+    {
       "igdb_id": 273625,
       "game_name": "Secret Trial Ground",
       "file": "missing/S/273625-secret-trial-ground.json"
@@ -328841,6 +329046,11 @@
       "igdb_id": 342080,
       "game_name": "Ski Jump International v2",
       "file": "missing/S/342080-ski-jump-international-v2.json"
+    },
+    {
+      "igdb_id": 186727,
+      "game_name": "Ski Jump International v3",
+      "file": "missing/S/186727-ski-jump-international-v3.json"
     },
     {
       "igdb_id": 259082,
@@ -370628,6 +370838,11 @@
       "file": "missing/T/268458-tenebrum.json"
     },
     {
+      "igdb_id": 186735,
+      "game_name": "Tengai Makyou Zero: Shonen Jump no Shou",
+      "file": "missing/T/186735-tengai-makyou-zero-shonen-jump-no-shou.json"
+    },
+    {
       "igdb_id": 80577,
       "game_name": "Tengai Makyou: Daiyon no Mokushiroku - The Apocalypse IV",
       "file": "missing/T/80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json"
@@ -375046,6 +375261,11 @@
       "igdb_id": 331669,
       "game_name": "The Candle",
       "file": "missing/T/331669-the-candle.json"
+    },
+    {
+      "igdb_id": 186729,
+      "game_name": "The Candyman",
+      "file": "missing/T/186729-the-candyman.json"
     },
     {
       "igdb_id": 253597,
@@ -386356,6 +386576,11 @@
       "igdb_id": 7353,
       "game_name": "The Patrician",
       "file": "missing/T/7353-the-patrician.json"
+    },
+    {
+      "igdb_id": 186748,
+      "game_name": "The Patrick Polly Swooshball Challenge",
+      "file": "missing/T/186748-the-patrick-polly-swooshball-challenge.json"
     },
     {
       "igdb_id": 275698,
@@ -410868,6 +411093,11 @@
       "file": "missing/T/19443-tube-adventures.json"
     },
     {
+      "igdb_id": 186742,
+      "game_name": "Tube Adventures Offline Collection 1-3",
+      "file": "missing/T/186742-tube-adventures-offline-collection-1-3.json"
+    },
+    {
       "igdb_id": 272569,
       "game_name": "Tube Be Continued",
       "file": "missing/T/272569-tube-be-continued.json"
@@ -413281,6 +413511,11 @@
       "igdb_id": 48097,
       "game_name": "Ultima: Quest of the Avatar",
       "file": "missing/U/48097-ultima-quest-of-the-avatar.json"
+    },
+    {
+      "igdb_id": 186734,
+      "game_name": "Ultima: The Savage Empire",
+      "file": "missing/U/186734-ultima-the-savage-empire.json"
     },
     {
       "igdb_id": 48096,
@@ -420678,6 +420913,11 @@
       "file": "missing/V/186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json"
     },
     {
+      "igdb_id": 186753,
+      "game_name": "Vestige",
+      "file": "missing/V/186753-vestige.json"
+    },
+    {
       "igdb_id": 392262,
       "game_name": "Vestige",
       "file": "missing/V/392262-vestige.json"
@@ -425041,6 +425281,11 @@
       "igdb_id": 53882,
       "game_name": "Wall Simulator 2017",
       "file": "missing/W/53882-wall-simulator-2017.json"
+    },
+    {
+      "igdb_id": 186757,
+      "game_name": "Wall Street Raider",
+      "file": "missing/W/186757-wall-street-raider.json"
     },
     {
       "igdb_id": 73831,
@@ -439676,6 +439921,11 @@
       "igdb_id": 353407,
       "game_name": "Yawara!: Yawara no Seishun",
       "file": "missing/Y/353407-yawara-yawara-no-seishun.json"
+    },
+    {
+      "igdb_id": 186739,
+      "game_name": "Yeager",
+      "file": "missing/Y/186739-yeager.json"
     },
     {
       "igdb_id": 337091,
