@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Driver: Grid Reloaded | 44555 | [44555-race-driver-grid-reloaded.json](./44555-race-driver-grid-reloaded.json) |
 | Race For Nuts | 359481 | [359481-race-for-nuts.json](./359481-race-for-nuts.json) |
 | Race for the Galaxy: Rebel vs. Imperium | 167759 | [167759-race-for-the-galaxy-rebel-vs-imperium.json](./167759-race-for-the-galaxy-rebel-vs-imperium.json) |
+| Race for The White House | 234170 | [234170-race-for-the-white-house.json](./234170-race-for-the-white-house.json) |
 | Race Illegal | 240211 | [240211-race-illegal.json](./240211-race-illegal.json) |
 | Race in Desert | 234747 | [234747-race-in-desert.json](./234747-race-in-desert.json) |
 | Race Manager | 264630 | [264630-race-manager.json](./264630-race-manager.json) |
@@ -270,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
 | Raiden | 6841 | [6841-raiden.json](./6841-raiden.json) |
 | Raiden Fighters Aces | 7153 | [7153-raiden-fighters-aces.json](./7153-raiden-fighters-aces.json) |
+| Raiden III x Mikado Maniax: Deluxe Edition | 234207 | [234207-raiden-iii-x-mikado-maniax-deluxe-edition.json](./234207-raiden-iii-x-mikado-maniax-deluxe-edition.json) |
 | Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
 | Raider | 319597 | [319597-raider.json](./319597-raider.json) |
 | Raiders 1941 | 406812 | [406812-raiders-1941.json](./406812-raiders-1941.json) |
@@ -331,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain98 | 339805 | [339805-rain98.json](./339805-rain98.json) |
 | Rainbow | 359417 | [359417-rainbow.json](./359417-rainbow.json) |
 | Rainbow Aliceland | 206725 | [206725-rainbow-aliceland.json](./206725-rainbow-aliceland.json) |
+| Rainbow Breakout | 234166 | [234166-rainbow-breakout.json](./234166-rainbow-breakout.json) |
 | Rainbow City | 184571 | [184571-rainbow-city.json](./184571-rainbow-city.json) |
 | Rainbow Crown | 367471 | [367471-rainbow-crown.json](./367471-rainbow-crown.json) |
 | Rainbow Cult | 104125 | [104125-rainbow-cult.json](./104125-rainbow-cult.json) |
@@ -1616,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
 | Retro Jam 1 | 271217 | [271217-retro-jam-1.json](./271217-retro-jam-1.json) |
+| Retro Kart | 234205 | [234205-retro-kart.json](./234205-retro-kart.json) |
 | Retro League Racing | 296530 | [296530-retro-league-racing.json](./296530-retro-league-racing.json) |
 | Retro Otrop | 400288 | [400288-retro-otrop.json](./400288-retro-otrop.json) |
 | Retro Pocket | 21005 | [21005-retro-pocket.json](./21005-retro-pocket.json) |
@@ -3269,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin Raiders | 132787 | [132787-ruin-raiders.json](./132787-ruin-raiders.json) |
 | Ruin: Chapter 0 | 400981 | [400981-ruin-chapter-0.json](./400981-ruin-chapter-0.json) |
 | Ruina | 373073 | [373073-ruina.json](./373073-ruina.json) |
+| Ruina Remake | 234152 | [234152-ruina-remake.json](./234152-ruina-remake.json) |
 | Ruindrift | 371883 | [371883-ruindrift.json](./371883-ruindrift.json) |
 | Ruined King: A League of Legends Story - Deluxe Edition | 186888 | [186888-ruined-king-a-league-of-legends-story-deluxe-edition.json](./186888-ruined-king-a-league-of-legends-story-deluxe-edition.json) |
 | Ruined Kingdom | 235839 | [235839-ruined-kingdom.json](./235839-ruined-kingdom.json) |
