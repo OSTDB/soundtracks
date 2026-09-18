@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz VS! | 361230 | [361230-quiz-vs.json](./361230-quiz-vs.json) |
 | Quiz.com | 221386 | [221386-quiz-com.json](./221386-quiz-com.json) |
 | Quizania | 62704 | [62704-quizania.json](./62704-quizania.json) |
+| Quizarium | 232569 | [232569-quizarium.json](./232569-quizarium.json) |
 | Quizball Goal | 94167 | [94167-quizball-goal.json](./94167-quizball-goal.json) |
 | QuizCross | 58213 | [58213-quizcross.json](./58213-quizcross.json) |
 | QuizFizz | 255140 | [255140-quizfizz.json](./255140-quizfizz.json) |
