@@ -1612,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphadia III | 365177 | [365177-alphadia-iii.json](./365177-alphadia-iii.json) |
 | Alphageddon | 293086 | [293086-alphageddon.json](./293086-alphageddon.json) |
 | AlphaSwap | 234071 | [234071-alphaswap.json](./234071-alphaswap.json) |
+| Alpine Alpaca | 181218 | [181218-alpine-alpaca.json](./181218-alpine-alpaca.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
 | Alpine Sky | 352793 | [352793-alpine-sky.json](./352793-alpine-sky.json) |
 | Alpine Train 3D | 90709 | [90709-alpine-train-3d.json](./90709-alpine-train-3d.json) |
