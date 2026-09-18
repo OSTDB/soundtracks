@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uknon Jones & Guynelk 2 | 293625 | [293625-uknon-jones-and-guynelk-2.json](./293625-uknon-jones-and-guynelk-2.json) |
 | Uknon Jones & Guynelk: Awesome! | 275338 | [275338-uknon-jones-and-guynelk-awesome.json](./275338-uknon-jones-and-guynelk-awesome.json) |
 | Uknon Jones: Portal | 390105 | [390105-uknon-jones-portal.json](./390105-uknon-jones-portal.json) |
+| Ukraina Battle Tank!: Putin Edition | 207372 | [207372-ukraina-battle-tank-putin-edition.json](./207372-ukraina-battle-tank-putin-edition.json) |
 | Uktena 64 | 392159 | [392159-uktena-64.json](./392159-uktena-64.json) |
 | Ulitsa Dimitrova | 175881 | [175881-ulitsa-dimitrova.json](./175881-ulitsa-dimitrova.json) |
 | Ultakia | 352735 | [352735-ultakia.json](./352735-ultakia.json) |
@@ -662,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | uniTower | 121693 | [121693-unitower.json](./121693-unitower.json) |
 | Unity Heroes | 297635 | [297635-unity-heroes.json](./297635-unity-heroes.json) |
 | Unity of Command II: Barbarossa | 150609 | [150609-unity-of-command-ii-barbarossa.json](./150609-unity-of-command-ii-barbarossa.json) |
+| Unity of Command II: Desert Rats | 207363 | [207363-unity-of-command-ii-desert-rats.json](./207363-unity-of-command-ii-desert-rats.json) |
 | Unity of Command: Black Turn | 171631 | [171631-unity-of-command-black-turn.json](./171631-unity-of-command-black-turn.json) |
 | Unity to Survive | 368507 | [368507-unity-to-survive.json](./368507-unity-to-survive.json) |
 | Unity-chan the SharpShooter! | 304899 | [304899-unity-chan-the-sharpshooter.json](./304899-unity-chan-the-sharpshooter.json) |
