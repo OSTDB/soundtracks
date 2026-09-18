@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
 | Aces of War | 45294 | [45294-aces-of-war.json](./45294-aces-of-war.json) |
 | Aces Over Airfields | 379462 | [379462-aces-over-airfields.json](./379462-aces-over-airfields.json) |
+| Aces: The Complete Collector's Edition | 206206 | [206206-aces-the-complete-collectors-edition.json](./206206-aces-the-complete-collectors-edition.json) |
 | AceSurvivor | 379465 | [379465-acesurvivor.json](./379465-acesurvivor.json) |
 | Acheron's Souls | 150121 | [150121-acherons-souls.json](./150121-acherons-souls.json) |
 | Achievement Clicker 2020 | 104084 | [104084-achievement-clicker-2020.json](./104084-achievement-clicker-2020.json) |
@@ -690,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
 | After Hell Freezes Over | 366912 | [366912-after-hell-freezes-over.json](./366912-after-hell-freezes-over.json) |
 | After Inc. | 323935 | [323935-after-inc.json](./323935-after-inc.json) |
+| After School Girlfriend | 206197 | [206197-after-school-girlfriend.json](./206197-after-school-girlfriend.json) |
 | After Stream | 235465 | [235465-after-stream.json](./235465-after-stream.json) |
 | After Sun | 180815 | [180815-after-sun.json](./180815-after-sun.json) |
 | After the Curtain Call | 377042 | [377042-after-the-curtain-call.json](./377042-after-the-curtain-call.json) |
@@ -3032,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archangel | 74276 | [74276-archangel.json](./74276-archangel.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
 | ArcheBlade | 11664 | [11664-archeblade.json](./11664-archeblade.json) |
+| Archeland | 206221 | [206221-archeland.json](./206221-archeland.json) |
 | Archen Broom Game | 402366 | [402366-archen-broom-game.json](./402366-archen-broom-game.json) |
 | Archenemy: Lunafall | 216472 | [216472-archenemy-lunafall.json](./216472-archenemy-lunafall.json) |
 | Archeon CD-i Quiz | 217996 | [217996-archeon-cd-i-quiz.json](./217996-archeon-cd-i-quiz.json) |
@@ -3838,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astralis: Dawnblades | 390107 | [390107-astralis-dawnblades.json](./390107-astralis-dawnblades.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astranded | 379990 | [379990-astranded.json](./379990-astranded.json) |
+| Astraware Casino | 206235 | [206235-astraware-casino.json](./206235-astraware-casino.json) |
 | Astrd | 173245 | [173245-astrd.json](./173245-astrd.json) |
 | Astrela Starlight | 107914 | [107914-astrela-starlight.json](./107914-astrela-starlight.json) |
 | Astria | 169971 | [169971-astria.json](./169971-astria.json) |
@@ -3873,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Fighters 2 | 375991 | [375991-astro-fighters-2.json](./375991-astro-fighters-2.json) |
 | Astro Galaxy | 346140 | [346140-astro-galaxy.json](./346140-astro-galaxy.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
+| Astro Invaders | 206236 | [206236-astro-invaders.json](./206236-astro-invaders.json) |
 | Astro Knight | 217371 | [217371-astro-knight.json](./217371-astro-knight.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
 | Astro Miner: Cave Adventure | 294857 | [294857-astro-miner-cave-adventure.json](./294857-astro-miner-cave-adventure.json) |
