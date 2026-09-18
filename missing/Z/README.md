@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeon 25 | 103459 | [103459-zeon-25.json](./103459-zeon-25.json) |
 | Zep | 377136 | [377136-zep.json](./377136-zep.json) |
 | Zeppelin | 23871 | [23871-zeppelin.json](./23871-zeppelin.json) |
+| Zeppelin: Escape Room | 190085 | [190085-zeppelin-escape-room.json](./190085-zeppelin-escape-room.json) |
 | Zera: Myths Awaken | 115069 | [115069-zera-myths-awaken.json](./115069-zera-myths-awaken.json) |
 | Zeramida | 274018 | [274018-zeramida.json](./274018-zeramida.json) |
 | Zeran's Folly | 54496 | [54496-zerans-folly.json](./54496-zerans-folly.json) |
