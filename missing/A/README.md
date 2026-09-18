@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Juggler's Tale | 122050 | [122050-a-jugglers-tale.json](./122050-a-jugglers-tale.json) |
 | A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
+| A Knight's Life | 197750 | [197750-a-knights-life.json](./197750-a-knights-life.json) |
 | A Knight's Pursuit | 311662 | [311662-a-knights-pursuit.json](./311662-a-knights-pursuit.json) |
 | A Knight's Quest | 109984 | [109984-a-knights-quest.json](./109984-a-knights-quest.json) |
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
@@ -872,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Havoc Controller | 94695 | [94695-air-havoc-controller.json](./94695-air-havoc-controller.json) |
 | Air Hockey | 200667 | [200667-air-hockey.json](./200667-air-hockey.json) |
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
+| Air Hockey Blue | 197773 | [197773-air-hockey-blue.json](./197773-air-hockey-blue.json) |
 | Air Hockey-fuu: Soukai Taisen Action Game - Breaking Beats! | 250444 | [250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json](./250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json) |
 | Air Hockey: Casual Table Arcade | 306526 | [306526-air-hockey-casual-table-arcade.json](./306526-air-hockey-casual-table-arcade.json) |
 | Air Hockey: Championship 3D+ | 239889 | [239889-air-hockey-championship-3d.json](./239889-air-hockey-championship-3d.json) |
@@ -2834,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arabian Nights | 10861 | [10861-arabian-nights.json](./10861-arabian-nights.json) |
 | Arabian Nights | 111656 | [111656-arabian-nights.json](./111656-arabian-nights.json) |
 | Arabian Nights: Sabaku no Seirei-ou | 38381 | [38381-arabian-nights-sabaku-no-seirei-ou.json](./38381-arabian-nights-sabaku-no-seirei-ou.json) |
+| Arabilis | 197787 | [197787-arabilis.json](./197787-arabilis.json) |
 | Arachnid | 83489 | [83489-arachnid.json](./83489-arachnid.json) |
 | Arachnoid | 23886 | [23886-arachnoid.json](./23886-arachnoid.json) |
 | Aracnidium | 193462 | [193462-aracnidium.json](./193462-aracnidium.json) |
