@@ -744,8 +744,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WBTR: Welcome Back to Reality | 130376 | [130376-wbtr-welcome-back-to-reality.json](./130376-wbtr-welcome-back-to-reality.json) |
 | WC Dream | 296385 | [296385-wc-dream.json](./296385-wc-dream.json) |
 | WCP Word Girlfriend | 259058 | [259058-wcp-word-girlfriend.json](./259058-wcp-word-girlfriend.json) |
+| WCW Nitro Hollywood Hogan | 217969 | [217969-wcw-nitro-hollywood-hogan.json](./217969-wcw-nitro-hollywood-hogan.json) |
 | WCW vs. nWo: World Tour | 3635 | [3635-wcw-vs-nwo-world-tour.json](./3635-wcw-vs-nwo-world-tour.json) |
 | WCW: World Championship Wrestling | 48095 | [48095-wcw-world-championship-wrestling.json](./48095-wcw-world-championship-wrestling.json) |
+| WCW/nWo Grudge Match: Scott vs. Rick Steiner | 217985 | [217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json](./217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json) |
 | We Are All but Bones and Dust | 165049 | [165049-we-are-all-but-bones-and-dust.json](./165049-we-are-all-but-bones-and-dust.json) |
 | We Are Counting | 386108 | [386108-we-are-counting.json](./386108-we-are-counting.json) |
 | We Are Football: Bundesliga Edition | 152342 | [152342-we-are-football-bundesliga-edition.json](./152342-we-are-football-bundesliga-edition.json) |
@@ -2030,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Blocked | 63824 | [63824-word-blocked.json](./63824-word-blocked.json) |
 | Word Bomb | 365087 | [365087-word-bomb.json](./365087-word-bomb.json) |
 | Word Bound - Word Game Puzzles | 105869 | [105869-word-bound-word-game-puzzles.json](./105869-word-bound-word-game-puzzles.json) |
+| Word Chaos | 217984 | [217984-word-chaos.json](./217984-word-chaos.json) |
 | Word Connect 2 | 105965 | [105965-word-connect-2.json](./105965-word-connect-2.json) |
 | Word Connect HD | 96069 | [96069-word-connect-hd.json](./96069-word-connect-hd.json) |
 | Word Crack | 402312 | [402312-word-crack.json](./402312-word-crack.json) |
