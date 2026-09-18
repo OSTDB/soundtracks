@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jawbreaker | 339639 | [339639-jawbreaker.json](./339639-jawbreaker.json) |
 | Jawed | 408909 | [408909-jawed.json](./408909-jawed.json) |
 | Jaws | 346093 | [346093-jaws.json](./346093-jaws.json) |
+| Jaws & Claws | 189070 | [189070-jaws-and-claws.json](./189070-jaws-and-claws.json) |
 | Jaws of Hell | 349322 | [349322-jaws-of-hell.json](./349322-jaws-of-hell.json) |
 | Jaws: Retro Edition | 381120 | [381120-jaws-retro-edition.json](./381120-jaws-retro-edition.json) |
 | JawshRPG | 316280 | [316280-jawshrpg.json](./316280-jawshrpg.json) |
