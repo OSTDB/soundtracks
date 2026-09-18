@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illuminator | 243937 | [243937-illuminator.json](./243937-illuminator.json) |
 | Illuminum | 343923 | [343923-illuminum.json](./343923-illuminum.json) |
 | Illurama: Masters of Illusions | 316276 | [316276-illurama-masters-of-illusions.json](./316276-illurama-masters-of-illusions.json) |
+| Illusion | 196166 | [196166-illusion.json](./196166-illusion.json) |
 | Illusion | 211960 | [211960-illusion.json](./211960-illusion.json) |
 | Illusion | 81280 | [81280-illusion.json](./81280-illusion.json) |
 | Illusion Connect | 139382 | [139382-illusion-connect.json](./139382-illusion-connect.json) |
@@ -641,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion of Itehari | 242067 | [242067-illusion-of-itehari.json](./242067-illusion-of-itehari.json) |
 | Illusion of L'Phalcia | 39010 | [39010-illusion-of-lphalcia.json](./39010-illusion-of-lphalcia.json) |
 | Illusion Squares | 255170 | [255170-illusion-squares.json](./255170-illusion-squares.json) |
+| Illusion: Trust Test | 196145 | [196145-illusion-trust-test.json](./196145-illusion-trust-test.json) |
 | Illusions 360 | 67971 | [67971-illusions-360.json](./67971-illusions-360.json) |
 | Illvelo Swamp Happy Together | 383529 | [383529-illvelo-swamp-happy-together.json](./383529-illvelo-swamp-happy-together.json) |
 | Illville: Return instructions | 75180 | [75180-illville-return-instructions.json](./75180-illville-return-instructions.json) |
