@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Farming Tycoon Empire | 175877 | [175877-idle-farming-tycoon-empire.json](./175877-idle-farming-tycoon-empire.json) |
 | Idle Flipper | 87666 | [87666-idle-flipper.json](./87666-idle-flipper.json) |
 | Idle Food Empire Tycoon | 219268 | [219268-idle-food-empire-tycoon.json](./219268-idle-food-empire-tycoon.json) |
+| Idle Game Tycoon | 233628 | [233628-idle-game-tycoon.json](./233628-idle-game-tycoon.json) |
 | Idle Gem Quest | 224562 | [224562-idle-gem-quest.json](./224562-idle-gem-quest.json) |
 | Idle Hacker | 406185 | [406185-idle-hacker.json](./406185-idle-hacker.json) |
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
@@ -440,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Luca | 193999 | [193999-idle-luca.json](./193999-idle-luca.json) |
 | Idle Mafia | 245379 | [245379-idle-mafia.json](./245379-idle-mafia.json) |
 | Idle magic herb | 215681 | [215681-idle-magic-herb.json](./215681-idle-magic-herb.json) |
+| Idle Mars Colony | 233621 | [233621-idle-mars-colony.json](./233621-idle-mars-colony.json) |
 | Idle Mining Company | 255801 | [255801-idle-mining-company.json](./255801-idle-mining-company.json) |
 | Idle Mining Empire | 218700 | [218700-idle-mining-empire.json](./218700-idle-mining-empire.json) |
 | Idle Monkey Theorem | 386843 | [386843-idle-monkey-theorem.json](./386843-idle-monkey-theorem.json) |
