@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi no Cookie: Kuruppon Oven de Cookie | 37755 | [37755-yoshi-no-cookie-kuruppon-oven-de-cookie.json](./37755-yoshi-no-cookie-kuruppon-oven-de-cookie.json) |
 | Yoshi Racing | 175959 | [175959-yoshi-racing.json](./175959-yoshi-racing.json) |
 | Yoshi Touch & Go | 18329 | [18329-yoshi-touch-and-go.json](./18329-yoshi-touch-and-go.json) |
+| Yoshi Touch & Go | 231475 | [231475-yoshi-touch-and-go.json](./231475-yoshi-touch-and-go.json) |
 | Yoshi vs. Windows Platinum | 142404 | [142404-yoshi-vs-windows-platinum.json](./142404-yoshi-vs-windows-platinum.json) |
 | Yoshi's Dreamer | 323351 | [323351-yoshis-dreamer.json](./323351-yoshis-dreamer.json) |
 | Yoshi's Isle: Sonic Style | 323909 | [323909-yoshis-isle-sonic-style.json](./323909-yoshis-isle-sonic-style.json) |
