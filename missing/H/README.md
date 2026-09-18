@@ -1229,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellkid: Hook & Jump | 184071 | [184071-hellkid-hook-and-jump.json](./184071-hellkid-hook-and-jump.json) |
 | Hellmate | 338725 | [338725-hellmate.json](./338725-hellmate.json) |
 | Hellmet: Seven Circles Down | 278432 | [278432-hellmet-seven-circles-down.json](./278432-hellmet-seven-circles-down.json) |
+| Hello Again | 207361 | [207361-hello-again.json](./207361-hello-again.json) |
 | Hello Bendy Machine 5 Nights | 104126 | [104126-hello-bendy-machine-5-nights.json](./104126-hello-bendy-machine-5-nights.json) |
 | Hello Brain | 96717 | [96717-hello-brain.json](./96717-hello-brain.json) |
 | Hello Charlotte: Heaven's Gate | 144382 | [144382-hello-charlotte-heavens-gate.json](./144382-hello-charlotte-heavens-gate.json) |
