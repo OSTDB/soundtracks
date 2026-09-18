@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadline Escape | 356726 | [356726-deadline-escape.json](./356726-deadline-escape.json) |
 | Deadline of the Dead | 185074 | [185074-deadline-of-the-dead.json](./185074-deadline-of-the-dead.json) |
 | Deadlings: Rotten Edition | 26822 | [26822-deadlings-rotten-edition.json](./26822-deadlings-rotten-edition.json) |
+| Deadlocked | 197796 | [197796-deadlocked.json](./197796-deadlocked.json) |
 | Deadly Contagion | 275130 | [275130-deadly-contagion.json](./275130-deadly-contagion.json) |
 | Deadly Danger Dungeon | 323742 | [323742-deadly-danger-dungeon.json](./323742-deadly-danger-dungeon.json) |
 | Deadly Dozen | 27479 | [27479-deadly-dozen.json](./27479-deadly-dozen.json) |
@@ -1189,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Cube | 199096 | [199096-death-cube.json](./199096-death-cube.json) |
 | Death Delivery | 371237 | [371237-death-delivery.json](./371237-death-delivery.json) |
 | Death Dojo | 30913 | [30913-death-dojo.json](./30913-death-dojo.json) |
+| Death Drive | 197775 | [197775-death-drive.json](./197775-death-drive.json) |
 | Death Drome | 73755 | [73755-death-drome.json](./73755-death-drome.json) |
 | Death Dungeon | 193995 | [193995-death-dungeon.json](./193995-death-dungeon.json) |
 | Death Education | 301263 | [301263-death-education.json](./301263-death-education.json) |
@@ -2032,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Code | 358379 | [358379-destiny-code.json](./358379-destiny-code.json) |
 | Destiny Connect: Tick-Tock Travelers | 112082 | [112082-destiny-connect-tick-tock-travelers.json](./112082-destiny-connect-tick-tock-travelers.json) |
 | Destiny Duel | 236546 | [236546-destiny-duel.json](./236546-destiny-duel.json) |
+| Destiny Fantasia | 197756 | [197756-destiny-fantasia.json](./197756-destiny-fantasia.json) |
 | Destiny Is Dice | 368043 | [368043-destiny-is-dice.json](./368043-destiny-is-dice.json) |
 | Destiny Island | 158686 | [158686-destiny-island.json](./158686-destiny-island.json) |
 | Destiny of Altrais | 103427 | [103427-destiny-of-altrais.json](./103427-destiny-of-altrais.json) |
@@ -2475,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digits | 245928 | [245928-digits.json](./245928-digits.json) |
 | Digits Jigsaw Puzzle - Numbers and Operations | 100749 | [100749-digits-jigsaw-puzzle-numbers-and-operations.json](./100749-digits-jigsaw-puzzle-numbers-and-operations.json) |
 | Dignacia | 253454 | [253454-dignacia.json](./253454-dignacia.json) |
+| DigRun | 197777 | [197777-digrun.json](./197777-digrun.json) |
 | Digs03 | 271303 | [271303-digs03.json](./271303-digs03.json) |
 | Digscovery | 249791 | [249791-digscovery.json](./249791-digscovery.json) |
 | Digseum | 325317 | [325317-digseum.json](./325317-digseum.json) |
@@ -3589,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom: The Golden Souls Remastered | 198349 | [198349-doom-the-golden-souls-remastered.json](./198349-doom-the-golden-souls-remastered.json) |
 | Doomclock | 346677 | [346677-doomclock.json](./346677-doomclock.json) |
 | Doomdark's Revenge | 12992 | [12992-doomdarks-revenge.json](./12992-doomdarks-revenge.json) |
+| Doomdark's Revenge | 197761 | [197761-doomdarks-revenge.json](./197761-doomdarks-revenge.json) |
 | Doomdepths | 248153 | [248153-doomdepths.json](./248153-doomdepths.json) |
 | Doomed Detective Game | 336542 | [336542-doomed-detective-game.json](./336542-doomed-detective-game.json) |
 | Doomed Heretic | 104599 | [104599-doomed-heretic.json](./104599-doomed-heretic.json) |
@@ -4902,6 +4907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Arena: Class Gnome | 167847 | [167847-dungeon-arena-class-gnome.json](./167847-dungeon-arena-class-gnome.json) |
 | Dungeon Arena: Class Ninja | 167845 | [167845-dungeon-arena-class-ninja.json](./167845-dungeon-arena-class-ninja.json) |
 | Dungeon Armory | 408097 | [408097-dungeon-armory.json](./408097-dungeon-armory.json) |
+| Dungeon Army | 197768 | [197768-dungeon-army.json](./197768-dungeon-army.json) |
 | Dungeon Ascension | 280895 | [280895-dungeon-ascension.json](./280895-dungeon-ascension.json) |
 | Dungeon Attack | 151655 | [151655-dungeon-attack.json](./151655-dungeon-attack.json) |
 | Dungeon Avenger | 180272 | [180272-dungeon-avenger.json](./180272-dungeon-avenger.json) |
@@ -5038,6 +5044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon's Fall | 189125 | [189125-dungeons-fall.json](./189125-dungeons-fall.json) |
 | Dungeonborne | 253880 | [253880-dungeonborne.json](./253880-dungeonborne.json) |
 | DungeonBox | 355028 | [355028-dungeonbox.json](./355028-dungeonbox.json) |
+| Dungeonette for Apple Watch | 197751 | [197751-dungeonette-for-apple-watch.json](./197751-dungeonette-for-apple-watch.json) |
 | Dungeonfield | 331961 | [331961-dungeonfield.json](./331961-dungeonfield.json) |
 | Dungeonlike | 183574 | [183574-dungeonlike.json](./183574-dungeonlike.json) |
 | Dungeonoid 2: Awakening | 282152 | [282152-dungeonoid-2-awakening.json](./282152-dungeonoid-2-awakening.json) |
