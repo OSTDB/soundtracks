@@ -1390,6 +1390,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niko | 410351 | [410351-niko.json](./410351-niko.json) |
 | Niko Niko Pun | 42057 | [42057-niko-niko-pun.json](./42057-niko-niko-pun.json) |
 | Niko: Through the Dream | 17323 | [17323-niko-through-the-dream.json](./17323-niko-through-the-dream.json) |
+| Nikolai's Knights | 205127 | [205127-nikolais-knights.json](./205127-nikolais-knights.json) |
+| Nikolai's Mysteries | 205128 | [205128-nikolais-mysteries.json](./205128-nikolais-mysteries.json) |
 | Nikoli no Puzzle 4: Shikaku ni Kire | 219025 | [219025-nikoli-no-puzzle-4-shikaku-ni-kire.json](./219025-nikoli-no-puzzle-4-shikaku-ni-kire.json) |
 | Nikoli no Puzzle 4: Sudoku | 62164 | [62164-nikoli-no-puzzle-4-sudoku.json](./62164-nikoli-no-puzzle-4-sudoku.json) |
 | Nikoli no Puzzle V: Akari | 64934 | [64934-nikoli-no-puzzle-v-akari.json](./64934-nikoli-no-puzzle-v-akari.json) |
@@ -1956,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostradamus - The Four Horsemen of the Apocalypse | 83508 | [83508-nostradamus-the-four-horsemen-of-the-apocalypse.json](./83508-nostradamus-the-four-horsemen-of-the-apocalypse.json) |
 | Nostradamus no Daiyogen | 385708 | [385708-nostradamus-no-daiyogen.json](./385708-nostradamus-no-daiyogen.json) |
 | Nostromo's Run | 274197 | [274197-nostromos-run.json](./274197-nostromos-run.json) |
+| Nosy | 205112 | [205112-nosy.json](./205112-nosy.json) |
 | Not a Customer | 406711 | [406711-not-a-customer.json](./406711-not-a-customer.json) |
 | Not A Fake Game | 366868 | [366868-not-a-fake-game.json](./366868-not-a-fake-game.json) |
 | Not a Hero - Me, Myself & Bunnylord | 140548 | [140548-not-a-hero-me-myself-and-bunnylord.json](./140548-not-a-hero-me-myself-and-bunnylord.json) |
@@ -2195,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyancle Racing | 94668 | [94668-nyancle-racing.json](./94668-nyancle-racing.json) |
 | Nyanco Dream | 126557 | [126557-nyanco-dream.json](./126557-nyanco-dream.json) |
 | Nyanco Project | 120984 | [120984-nyanco-project.json](./120984-nyanco-project.json) |
+| Nyandanoid | 205096 | [205096-nyandanoid.json](./205096-nyandanoid.json) |
 | Nyanko Island | 299901 | [299901-nyanko-island.json](./299901-nyanko-island.json) |
 | Nyannyan Prowrestling | 267996 | [267996-nyannyan-prowrestling.json](./267996-nyannyan-prowrestling.json) |
 | Nyanpaya | 252219 | [252219-nyanpaya.json](./252219-nyanpaya.json) |
