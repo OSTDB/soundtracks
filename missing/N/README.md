@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of Full Moon: Magic Curtain | 170464 | [170464-night-of-full-moon-magic-curtain.json](./170464-night-of-full-moon-magic-curtain.json) |
 | Night of Full Moon: The Red Hood Diary | 170460 | [170460-night-of-full-moon-the-red-hood-diary.json](./170460-night-of-full-moon-the-red-hood-diary.json) |
 | Night of Horror | 247222 | [247222-night-of-horror.json](./247222-night-of-horror.json) |
+| Night of Love | 199513 | [199513-night-of-love.json](./199513-night-of-love.json) |
 | Night of Spirits | 242670 | [242670-night-of-spirits.json](./242670-night-of-spirits.json) |
 | Night of The Abattoir Man | 311146 | [311146-night-of-the-abattoir-man.json](./311146-night-of-the-abattoir-man.json) |
 | Night of the Dead: Beginner Pack | 293407 | [293407-night-of-the-dead-beginner-pack.json](./293407-night-of-the-dead-beginner-pack.json) |
