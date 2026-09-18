@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East Defense | 305526 | [305526-east-defense.json](./305526-east-defense.json) |
 | East Front Campaign CD 1 | 78704 | [78704-east-front-campaign-cd-1.json](./78704-east-front-campaign-cd-1.json) |
 | East Front II | 84257 | [84257-east-front-ii.json](./84257-east-front-ii.json) |
+| East Trapper | 189032 | [189032-east-trapper.json](./189032-east-trapper.json) |
 | East Wind | 226811 | [226811-east-wind.json](./226811-east-wind.json) |
 | EastEnders | 79304 | [79304-eastenders.json](./79304-eastenders.json) |
 | Easter Bunneh | 79941 | [79941-easter-bunneh.json](./79941-easter-bunneh.json) |
@@ -1331,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equinox | 264123 | [264123-equinox.json](./264123-equinox.json) |
 | Equinox | 329147 | [329147-equinox.json](./329147-equinox.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
+| Era of Combat: Boxing | 189055 | [189055-era-of-combat-boxing.json](./189055-era-of-combat-boxing.json) |
 | Era of Miracles | 124167 | [124167-era-of-miracles.json](./124167-era-of-miracles.json) |
 | Era of Samurai: Code of Love | 163356 | [163356-era-of-samurai-code-of-love.json](./163356-era-of-samurai-code-of-love.json) |
 | Era's Adventures | 247534 | [247534-eras-adventures.json](./247534-eras-adventures.json) |
@@ -2217,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eXperience 112 | 17873 | [17873-experience-112.json](./17873-experience-112.json) |
 | Experience: Colorblindness | 112363 | [112363-experience-colorblindness.json](./112363-experience-colorblindness.json) |
 | Experiment 404 | 391159 | [391159-experiment-404.json](./391159-experiment-404.json) |
+| Experiment of Being | 189045 | [189045-experiment-of-being.json](./189045-experiment-of-being.json) |
 | Experimental | 163972 | [163972-experimental.json](./163972-experimental.json) |
 | Experimental Game Pack 01 | 62139 | [62139-experimental-game-pack-01.json](./62139-experimental-game-pack-01.json) |
 | Experimental Game Pack 01 | 80612 | [80612-experimental-game-pack-01.json](./80612-experimental-game-pack-01.json) |
