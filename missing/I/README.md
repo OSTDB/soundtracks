@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insectoid | 25010 | [25010-insectoid.json](./25010-insectoid.json) |
 | Insectoid Descent | 205231 | [205231-insectoid-descent.json](./205231-insectoid-descent.json) |
 | Insector Hecti in the Interchange | 67272 | [67272-insector-hecti-in-the-interchange.json](./67272-insector-hecti-in-the-interchange.json) |
+| Insensato | 215196 | [215196-insensato.json](./215196-insensato.json) |
 | Insert Coin | 401482 | [401482-insert-coin.json](./401482-insert-coin.json) |
 | Insert Item Apocalypse | 304577 | [304577-insert-item-apocalypse.json](./304577-insert-item-apocalypse.json) |
 | Insert Rich Family Name | 247601 | [247601-insert-rich-family-name.json](./247601-insert-rich-family-name.json) |
