@@ -1781,6 +1781,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ishidó: The Way of Stones | 152385 | [152385-ishido-the-way-of-stones.json](./152385-ishido-the-way-of-stones.json) |
 | Ishika & Honori | 124241 | [124241-ishika-and-honori.json](./124241-ishika-and-honori.json) |
 | Ishin no Arashi | 30923 | [30923-ishin-no-arashi.json](./30923-ishin-no-arashi.json) |
+| Ishin no Arashi: Bakumatsu Shishi-den | 186737 | [186737-ishin-no-arashi-bakumatsu-shishi-den.json](./186737-ishin-no-arashi-bakumatsu-shishi-den.json) |
+| Ishin no Arashi: Shippuu Ryoma-den | 186738 | [186738-ishin-no-arashi-shippuu-ryoma-den.json](./186738-ishin-no-arashi-shippuu-ryoma-den.json) |
 | Ishu Saikyou-ou Zukan: Battle Colosseum | 225897 | [225897-ishu-saikyou-ou-zukan-battle-colosseum.json](./225897-ishu-saikyou-ou-zukan-battle-colosseum.json) |
 | Isida | 382755 | [382755-isida.json](./382755-isida.json) |
 | Isis: The Fall | 255100 | [255100-isis-the-fall.json](./255100-isis-the-fall.json) |
