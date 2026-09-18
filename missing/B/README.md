@@ -2246,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard: Siberia | 324324 | [324324-biohazard-siberia.json](./324324-biohazard-siberia.json) |
 | Biolum | 149552 | [149552-biolum.json](./149552-biolum.json) |
 | Biolune | 381612 | [381612-biolune.json](./381612-biolune.json) |
+| Biome Conquest | 227943 | [227943-biome-conquest.json](./227943-biome-conquest.json) |
 | BioMech Vendetta | 380402 | [380402-biomech-vendetta.json](./380402-biomech-vendetta.json) |
 | Biomechanical Toy | 39613 | [39613-biomechanical-toy.json](./39613-biomechanical-toy.json) |
 | Biomeinoes | 275877 | [275877-biomeinoes.json](./275877-biomeinoes.json) |
@@ -2988,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood II: The Chosen - The Nightmare Levels | 95451 | [95451-blood-ii-the-chosen-the-nightmare-levels.json](./95451-blood-ii-the-chosen-the-nightmare-levels.json) |
 | Blood in Baldur's Gate | 274016 | [274016-blood-in-baldurs-gate.json](./274016-blood-in-baldurs-gate.json) |
 | Blood in the Panopticon | 395552 | [395552-blood-in-the-panopticon.json](./395552-blood-in-the-panopticon.json) |
+| Blood Island | 227916 | [227916-blood-island.json](./227916-blood-island.json) |
 | Blood Kiss | 146247 | [146247-blood-kiss.json](./146247-blood-kiss.json) |
 | Blood Knights | 8421 | [8421-blood-knights.json](./8421-blood-knights.json) |
 | Blood Mall: Part II | 380553 | [380553-blood-mall-part-ii.json](./380553-blood-mall-part-ii.json) |
@@ -4125,6 +4127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakfast Cooking Mania | 28855 | [28855-breakfast-cooking-mania.json](./28855-breakfast-cooking-mania.json) |
 | Breakforcist | 27678 | [27678-breakforcist.json](./27678-breakforcist.json) |
 | Breaking Box: Walk | 264147 | [264147-breaking-box-walk.json](./264147-breaking-box-walk.json) |
+| Breaking Clouds and Blooming Light | 227962 | [227962-breaking-clouds-and-blooming-light.json](./227962-breaking-clouds-and-blooming-light.json) |
 | Breaking earth | 165688 | [165688-breaking-earth.json](./165688-breaking-earth.json) |
 | Breaking Enigma | 213630 | [213630-breaking-enigma.json](./213630-breaking-enigma.json) |
 | Breaking Good | 51968 | [51968-breaking-good.json](./51968-breaking-good.json) |
@@ -4851,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 18: Man Bus Pack 1 | 225061 | [225061-bus-simulator-18-man-bus-pack-1.json](./225061-bus-simulator-18-man-bus-pack-1.json) |
 | Bus Simulator 18: Mercedes-Benz Bus Pack 1 | 225062 | [225062-bus-simulator-18-mercedes-benz-bus-pack-1.json](./225062-bus-simulator-18-mercedes-benz-bus-pack-1.json) |
 | Bus Simulator 18: Official Map Extension | 163354 | [163354-bus-simulator-18-official-map-extension.json](./163354-bus-simulator-18-official-map-extension.json) |
+| Bus Simulator 2023 | 227959 | [227959-bus-simulator-2023.json](./227959-bus-simulator-2023.json) |
 | Bus Simulator 21: MAN Bus Pack | 213951 | [213951-bus-simulator-21-man-bus-pack.json](./213951-bus-simulator-21-man-bus-pack.json) |
 | Bus Simulator 21: Next Stop - Halloween Skin Pack | 263040 | [263040-bus-simulator-21-next-stop-halloween-skin-pack.json](./263040-bus-simulator-21-next-stop-halloween-skin-pack.json) |
 | Bus Simulator 21: Next Stop - IVECO BUS Bus Pack | 250414 | [250414-bus-simulator-21-next-stop-iveco-bus-bus-pack.json](./250414-bus-simulator-21-next-stop-iveco-bus-bus-pack.json) |
