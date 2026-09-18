@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
 | Glam the Rocker | 413712 | [413712-glam-the-rocker.json](./413712-glam-the-rocker.json) |
 | Glass Beads | 342752 | [342752-glass-beads.json](./342752-glass-beads.json) |
+| Glass Cannons | 181772 | [181772-glass-cannons.json](./181772-glass-cannons.json) |
 | Glass Heart | 234199 | [234199-glass-heart.json](./234199-glass-heart.json) |
 | Glass Hearts | 221191 | [221191-glass-hearts.json](./221191-glass-hearts.json) |
 | Glass Horizon | 322604 | [322604-glass-horizon.json](./322604-glass-horizon.json) |
