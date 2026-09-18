@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T03:17:25.765Z",
-  "total_missing": 85571,
+  "generated_at": "2026-09-18T03:32:22.649Z",
+  "total_missing": 85621,
   "games": [
     {
       "igdb_id": 273453,
@@ -39378,6 +39378,11 @@
       "file": "missing/B/106641-bleak.json"
     },
     {
+      "igdb_id": 226314,
+      "game_name": "Bleak Dystopia",
+      "file": "missing/B/226314-bleak-dystopia.json"
+    },
+    {
       "igdb_id": 258707,
       "game_name": "Bleak Frontier",
       "file": "missing/B/258707-bleak-frontier.json"
@@ -44593,6 +44598,11 @@
       "file": "missing/B/382315-bountiful-hunters.json"
     },
     {
+      "igdb_id": 226269,
+      "game_name": "Bounty",
+      "file": "missing/B/226269-bounty.json"
+    },
+    {
       "igdb_id": 107873,
       "game_name": "Bounty Battle",
       "file": "missing/B/107873-bounty-battle.json"
@@ -46098,6 +46108,11 @@
       "file": "missing/B/36293-breach-and-clear-deadline-rebirth.json"
     },
     {
+      "igdb_id": 226270,
+      "game_name": "Breach & Clear: Frozen Synapse Pack",
+      "file": "missing/B/226270-breach-and-clear-frozen-synapse-pack.json"
+    },
+    {
       "igdb_id": 14345,
       "game_name": "Breach 2",
       "file": "missing/B/14345-breach-2.json"
@@ -46511,6 +46526,11 @@
       "igdb_id": 14346,
       "game_name": "Breathless",
       "file": "missing/B/14346-breathless.json"
+    },
+    {
+      "igdb_id": 226271,
+      "game_name": "Breathspace",
+      "file": "missing/B/226271-breathspace.json"
     },
     {
       "igdb_id": 268484,
@@ -47251,6 +47271,11 @@
       "igdb_id": 162520,
       "game_name": "Broken Ranks",
       "file": "missing/B/162520-broken-ranks.json"
+    },
+    {
+      "igdb_id": 226272,
+      "game_name": "Broken Reality 2000",
+      "file": "missing/B/226272-broken-reality-2000.json"
     },
     {
       "igdb_id": 152840,
@@ -48848,6 +48873,11 @@
       "file": "missing/B/205032-bullet-chase.json"
     },
     {
+      "igdb_id": 226273,
+      "game_name": "Bullet Destroyer",
+      "file": "missing/B/226273-bullet-destroyer.json"
+    },
+    {
       "igdb_id": 181894,
       "game_name": "Bullet Fractals",
       "file": "missing/B/181894-bullet-fractals.json"
@@ -49213,6 +49243,11 @@
       "file": "missing/B/101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json"
     },
     {
+      "igdb_id": 226274,
+      "game_name": "Bunch of Heroes: Holiday Pack",
+      "file": "missing/B/226274-bunch-of-heroes-holiday-pack.json"
+    },
+    {
       "igdb_id": 297795,
       "game_name": "Bunches For Bart!",
       "file": "missing/B/297795-bunches-for-bart.json"
@@ -49376,6 +49411,11 @@
       "igdb_id": 201844,
       "game_name": "Bunny Girl Story",
       "file": "missing/B/201844-bunny-girl-story.json"
+    },
+    {
+      "igdb_id": 226275,
+      "game_name": "Bunny Hop League: Map Pack 1",
+      "file": "missing/B/226275-bunny-hop-league-map-pack-1.json"
     },
     {
       "igdb_id": 377049,
@@ -50613,6 +50653,11 @@
       "file": "missing/B/75827-bystander.json"
     },
     {
+      "igdb_id": 226276,
+      "game_name": "Byte Fyte: Multiplayer",
+      "file": "missing/B/226276-byte-fyte-multiplayer.json"
+    },
+    {
       "igdb_id": 203889,
       "game_name": "Byte Lynx",
       "file": "missing/B/203889-byte-lynx.json"
@@ -50761,6 +50806,11 @@
       "igdb_id": 49363,
       "game_name": "Cabbage Patch Kids: The Patch Puppy Rescue",
       "file": "missing/C/49363-cabbage-patch-kids-the-patch-puppy-rescue.json"
+    },
+    {
+      "igdb_id": 226277,
+      "game_name": "Cabbagers",
+      "file": "missing/C/226277-cabbagers.json"
     },
     {
       "igdb_id": 327213,
@@ -51026,6 +51076,11 @@
       "igdb_id": 218438,
       "game_name": "Caesars Palace: Black Jack",
       "file": "missing/C/218438-caesars-palace-black-jack.json"
+    },
+    {
+      "igdb_id": 226278,
+      "game_name": "Café 0: The Sleeping Beast - Remastered",
+      "file": "missing/C/226278-cafe-0-the-sleeping-beast-remastered.json"
     },
     {
       "igdb_id": 225269,
@@ -51853,6 +51908,11 @@
       "file": "missing/C/404981-cambrian-crawl.json"
     },
     {
+      "igdb_id": 226280,
+      "game_name": "Cambrian Dawn",
+      "file": "missing/C/226280-cambrian-dawn.json"
+    },
+    {
       "igdb_id": 202808,
       "game_name": "Camega",
       "file": "missing/C/202808-camega.json"
@@ -52526,6 +52586,11 @@
       "igdb_id": 276691,
       "game_name": "Canter Crossing",
       "file": "missing/C/276691-canter-crossing.json"
+    },
+    {
+      "igdb_id": 226281,
+      "game_name": "Canterz Paranormies 2",
+      "file": "missing/C/226281-canterz-paranormies-2.json"
     },
     {
       "igdb_id": 113692,
@@ -53288,6 +53353,11 @@
       "file": "missing/C/123623-car-on-a-stick.json"
     },
     {
+      "igdb_id": 226295,
+      "game_name": "Car Parking",
+      "file": "missing/C/226295-car-parking.json"
+    },
+    {
       "igdb_id": 88298,
       "game_name": "Car Parking - Test Drive and Parking Simulator",
       "file": "missing/C/88298-car-parking-test-drive-and-parking-simulator.json"
@@ -53316,6 +53386,11 @@
       "igdb_id": 105929,
       "game_name": "Car Parking Simulator 3D Game",
       "file": "missing/C/105929-car-parking-simulator-3d-game.json"
+    },
+    {
+      "igdb_id": 226296,
+      "game_name": "Car Parking: New Cars",
+      "file": "missing/C/226296-car-parking-new-cars.json"
     },
     {
       "igdb_id": 381147,
@@ -53698,6 +53773,66 @@
       "file": "missing/C/301017-cardfight-vanguard-dear-days-additional-special-set.json"
     },
     {
+      "igdb_id": 226282,
+      "game_name": "Cardfight!! Vanguard: Dear Days - Character Set 01: Aichi Sendou",
+      "file": "missing/C/226282-cardfight-vanguard-dear-days-character-set-01-aichi-sendou.json"
+    },
+    {
+      "igdb_id": 226283,
+      "game_name": "Cardfight!! Vanguard: Dear Days - Character Set 02: Toshiki Kai",
+      "file": "missing/C/226283-cardfight-vanguard-dear-days-character-set-02-toshiki-kai.json"
+    },
+    {
+      "igdb_id": 226284,
+      "game_name": "Cardfight!! Vanguard: Dear Days - Character Set 03: Ren Suzugamori",
+      "file": "missing/C/226284-cardfight-vanguard-dear-days-character-set-03-ren-suzugamori.json"
+    },
+    {
+      "igdb_id": 226285,
+      "game_name": "Cardfight!! Vanguard: Dear Days - Rare Card Set 01 D-BT01: Genesis of the Five Greats",
+      "file": "missing/C/226285-cardfight-vanguard-dear-days-rare-card-set-01-d-bt01-genesis-of-the-five-greats.json"
+    },
+    {
+      "igdb_id": 226286,
+      "game_name": "Cardfight!! Vanguard: Dear Days - Rare Card Set 02 D-BT02: A Brush with the Legends",
+      "file": "missing/C/226286-cardfight-vanguard-dear-days-rare-card-set-02-d-bt02-a-brush-with-the-legends.json"
+    },
+    {
+      "igdb_id": 226287,
+      "game_name": "Cardfight!! Vanguard: Dear Days - Rare Card Set 03 D-BT03: Advance of Intertwined Stars",
+      "file": "missing/C/226287-cardfight-vanguard-dear-days-rare-card-set-03-d-bt03-advance-of-intertwined-stars.json"
+    },
+    {
+      "igdb_id": 226288,
+      "game_name": "Cardfight!! Vanguard: Dear Days - Rare Card Set 04 D-BT04: Awakening of Chakrabarthi",
+      "file": "missing/C/226288-cardfight-vanguard-dear-days-rare-card-set-04-d-bt04-awakening-of-chakrabarthi.json"
+    },
+    {
+      "igdb_id": 226289,
+      "game_name": "Cardfight!! Vanguard: Dear Days - Rare Card Set 05 D-BT05: Triumphant Return of the Brave Heroes",
+      "file": "missing/C/226289-cardfight-vanguard-dear-days-rare-card-set-05-d-bt05-triumphant-return-of-the-brave-heroes.json"
+    },
+    {
+      "igdb_id": 226290,
+      "game_name": "Cardfight!! Vanguard: Dear Days - Rare Card Set 06 D-LBT01: Lyrical Melody",
+      "file": "missing/C/226290-cardfight-vanguard-dear-days-rare-card-set-06-d-lbt01-lyrical-melody.json"
+    },
+    {
+      "igdb_id": 226292,
+      "game_name": "Cardfight!! Vanguard: Dear Days - Rare Card Set 07 D-LBT02: Lyrical Monasterio - It's a New School Term!",
+      "file": "missing/C/226292-cardfight-vanguard-dear-days-rare-card-set-07-d-lbt02-lyrical-monasterio-its-a-new-school-term.json"
+    },
+    {
+      "igdb_id": 226291,
+      "game_name": "Cardfight!! Vanguard: Dear Days - Rare Card Set 08 D-SS01: Festival Collection 2021",
+      "file": "missing/C/226291-cardfight-vanguard-dear-days-rare-card-set-08-d-ss01-festival-collection-2021.json"
+    },
+    {
+      "igdb_id": 226293,
+      "game_name": "Cardfight!! Vanguard: Dear Days - Rare Card Set 09 D-SS02: Festival Collection 2022",
+      "file": "missing/C/226293-cardfight-vanguard-dear-days-rare-card-set-09-d-ss02-festival-collection-2022.json"
+    },
+    {
       "igdb_id": 351113,
       "game_name": "Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.2 DZ-BT05 Omniscient Awakening",
       "file": "missing/C/351113-cardfight-vanguard-dear-days-2-card-unlock-vol-2-dz-bt05-omniscient-awakening.json"
@@ -53726,6 +53861,11 @@
       "igdb_id": 267441,
       "game_name": "Cardfight!!: Rare Card Set 14 [D-BT09] - Dragontree Invasion",
       "file": "missing/C/267441-cardfight-rare-card-set-14-d-bt09-dragontree-invasion.json"
+    },
+    {
+      "igdb_id": 226294,
+      "game_name": "Cardiac Powder",
+      "file": "missing/C/226294-cardiac-powder.json"
     },
     {
       "igdb_id": 43284,
@@ -54198,6 +54338,11 @@
       "file": "missing/C/315263-carpathian-survival.json"
     },
     {
+      "igdb_id": 226297,
+      "game_name": "Carpe Diem Project",
+      "file": "missing/C/226297-carpe-diem-project.json"
+    },
+    {
       "igdb_id": 309372,
       "game_name": "Carpe Noctem",
       "file": "missing/C/309372-carpe-noctem.json"
@@ -54466,6 +54611,11 @@
       "igdb_id": 114360,
       "game_name": "Cartel Smash",
       "file": "missing/C/114360-cartel-smash.json"
+    },
+    {
+      "igdb_id": 226298,
+      "game_name": "Cartel Tycoon: Lieutenants Pack - Guerilla",
+      "file": "missing/C/226298-cartel-tycoon-lieutenants-pack-guerilla.json"
     },
     {
       "igdb_id": 243673,
@@ -55533,6 +55683,11 @@
       "file": "missing/C/195799-cat-adventure-2.json"
     },
     {
+      "igdb_id": 226299,
+      "game_name": "Cat and Can",
+      "file": "missing/C/226299-cat-and-can.json"
+    },
+    {
       "igdb_id": 374070,
       "game_name": "Cat and Shadow and Death's Four Friends",
       "file": "missing/C/374070-cat-and-shadow-and-deaths-four-friends.json"
@@ -55561,6 +55716,11 @@
       "igdb_id": 185679,
       "game_name": "Cat Box Paradox",
       "file": "missing/C/185679-cat-box-paradox.json"
+    },
+    {
+      "igdb_id": 226315,
+      "game_name": "Cat Break Head to Head",
+      "file": "missing/C/226315-cat-break-head-to-head.json"
     },
     {
       "igdb_id": 256835,
@@ -57288,6 +57448,11 @@
       "file": "missing/C/242550-celebrity-slot-machine.json"
     },
     {
+      "igdb_id": 226300,
+      "game_name": "Celestarium",
+      "file": "missing/C/226300-celestarium.json"
+    },
+    {
       "igdb_id": 358282,
       "game_name": "Celeste Fusion Collab",
       "file": "missing/C/358282-celeste-fusion-collab.json"
@@ -57596,6 +57761,11 @@
       "igdb_id": 199636,
       "game_name": "Century: Age of Ashes - Colossus Deluxe Edition",
       "file": "missing/C/199636-century-age-of-ashes-colossus-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 226301,
+      "game_name": "Century: Age of Ashes - Dark Goliath Pack",
+      "file": "missing/C/226301-century-age-of-ashes-dark-goliath-pack.json"
     },
     {
       "igdb_id": 218495,
@@ -61353,6 +61523,11 @@
       "file": "missing/C/382194-christmas-fables-nutcrackers-tale-collectors-edition.json"
     },
     {
+      "igdb_id": 226312,
+      "game_name": "Christmas Fun",
+      "file": "missing/C/226312-christmas-fun.json"
+    },
+    {
       "igdb_id": 168903,
       "game_name": "Christmas Griddlers",
       "file": "missing/C/168903-christmas-griddlers.json"
@@ -62833,6 +63008,16 @@
       "file": "missing/C/241037-cities-skylines-content-creator-pack-seaside-resorts.json"
     },
     {
+      "igdb_id": 226302,
+      "game_name": "Cities: Skylines - Content Creator Pack: Skyscrapers",
+      "file": "missing/C/226302-cities-skylines-content-creator-pack-skyscrapers.json"
+    },
+    {
+      "igdb_id": 226303,
+      "game_name": "Cities: Skylines - Financial Districts",
+      "file": "missing/C/226303-cities-skylines-financial-districts.json"
+    },
+    {
       "igdb_id": 249189,
       "game_name": "Cities: Skylines - Hotels & Retreats",
       "file": "missing/C/249189-cities-skylines-hotels-and-retreats.json"
@@ -63376,6 +63561,11 @@
       "igdb_id": 263226,
       "game_name": "CJ Dreams",
       "file": "missing/C/263226-cj-dreams.json"
+    },
+    {
+      "igdb_id": 226304,
+      "game_name": "Clad in Iron Chincha Islands 1866",
+      "file": "missing/C/226304-clad-in-iron-chincha-islands-1866.json"
     },
     {
       "igdb_id": 111222,
@@ -65101,6 +65291,11 @@
       "igdb_id": 89653,
       "game_name": "Cluster Dust",
       "file": "missing/C/89653-cluster-dust.json"
+    },
+    {
+      "igdb_id": 226305,
+      "game_name": "Cluster Fly",
+      "file": "missing/C/226305-cluster-fly.json"
     },
     {
       "igdb_id": 58756,
@@ -227553,6 +227748,11 @@
       "file": "missing/M/234623-montezumas-revenge-8-bit-edition.json"
     },
     {
+      "igdb_id": 226321,
+      "game_name": "Montgomery Fox and the Revenge of Victor Draven",
+      "file": "missing/M/226321-montgomery-fox-and-the-revenge-of-victor-draven.json"
+    },
+    {
       "igdb_id": 278989,
       "game_name": "Monti: The Hidden Secret",
       "file": "missing/M/278989-monti-the-hidden-secret.json"
@@ -258128,6 +258328,11 @@
       "file": "missing/P/280796-pareidolia-in.json"
     },
     {
+      "igdb_id": 226320,
+      "game_name": "Parents vs. Kids",
+      "file": "missing/P/226320-parents-vs-kids.json"
+    },
+    {
       "igdb_id": 332428,
       "game_name": "Parfait Fan Box",
       "file": "missing/P/332428-parfait-fan-box.json"
@@ -276558,6 +276763,11 @@
       "file": "missing/P/215125-project-summer-ice-bowling-story-one-mark-version.json"
     },
     {
+      "igdb_id": 226311,
+      "game_name": "Project: Summer Ice - Bowling: Story Six - Pammy Version",
+      "file": "missing/P/226311-project-summer-ice-bowling-story-six-pammy-version.json"
+    },
+    {
       "igdb_id": 215352,
       "game_name": "Project: Summer Ice - Bowling: Story Three - Jane Version",
       "file": "missing/P/215352-project-summer-ice-bowling-story-three-jane-version.json"
@@ -278973,6 +279183,11 @@
       "file": "missing/P/201256-puzzle-collection.json"
     },
     {
+      "igdb_id": 226317,
+      "game_name": "Puzzle Collection: New Pieces",
+      "file": "missing/P/226317-puzzle-collection-new-pieces.json"
+    },
+    {
       "igdb_id": 386692,
       "game_name": "Puzzle Cozy",
       "file": "missing/P/386692-puzzle-cozy.json"
@@ -279056,6 +279271,11 @@
       "igdb_id": 97201,
       "game_name": "Puzzle Game",
       "file": "missing/P/97201-puzzle-game.json"
+    },
+    {
+      "igdb_id": 226316,
+      "game_name": "Puzzle Games Bundle",
+      "file": "missing/P/226316-puzzle-games-bundle.json"
     },
     {
       "igdb_id": 352830,
@@ -280436,6 +280656,11 @@
       "igdb_id": 172121,
       "game_name": "Quantum Rush Champions: Jump Start Tournament",
       "file": "missing/Q/172121-quantum-rush-champions-jump-start-tournament.json"
+    },
+    {
+      "igdb_id": 226318,
+      "game_name": "Quantum Storm",
+      "file": "missing/Q/226318-quantum-storm.json"
     },
     {
       "igdb_id": 344962,
@@ -361078,6 +361303,11 @@
       "file": "missing/T/166704-the-clockwork-labyrinth.json"
     },
     {
+      "igdb_id": 226313,
+      "game_name": "The Closed Circle",
+      "file": "missing/T/226313-the-closed-circle.json"
+    },
+    {
       "igdb_id": 128591,
       "game_name": "The Clotted Island",
       "file": "missing/T/128591-the-clotted-island.json"
@@ -372773,6 +373003,16 @@
       "file": "missing/T/224762-the-rules.json"
     },
     {
+      "igdb_id": 226310,
+      "game_name": "The Rumble Fish",
+      "file": "missing/T/226310-the-rumble-fish.json"
+    },
+    {
+      "igdb_id": 226309,
+      "game_name": "The Rumble Fish 2: Additional Character - Beatrice",
+      "file": "missing/T/226309-the-rumble-fish-2-additional-character-beatrice.json"
+    },
+    {
       "igdb_id": 222947,
       "game_name": "The Rumble Fish 2: Collector's Edition",
       "file": "missing/T/222947-the-rumble-fish-2-collectors-edition.json"
@@ -377781,6 +378021,11 @@
       "igdb_id": 14256,
       "game_name": "The Wonders of the Animal Kingdom",
       "file": "missing/T/14256-the-wonders-of-the-animal-kingdom.json"
+    },
+    {
+      "igdb_id": 226306,
+      "game_name": "The Wood Story",
+      "file": "missing/T/226306-the-wood-story.json"
     },
     {
       "igdb_id": 114975,
@@ -392806,6 +393051,11 @@
       "igdb_id": 130898,
       "game_name": "TrianGo",
       "file": "missing/T/130898-triango.json"
+    },
+    {
+      "igdb_id": 226307,
+      "game_name": "Triangulate",
+      "file": "missing/T/226307-triangulate.json"
     },
     {
       "igdb_id": 377667,
