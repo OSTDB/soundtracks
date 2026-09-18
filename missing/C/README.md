@@ -3704,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conlutus | 351717 | [351717-conlutus.json](./351717-conlutus.json) |
 | Connect | 314051 | [314051-connect.json](./314051-connect.json) |
 | Connect 4 | 79945 | [79945-connect-4.json](./79945-connect-4.json) |
+| Connect 4 Deluxe | 205623 | [205623-connect-4-deluxe.json](./205623-connect-4-deluxe.json) |
 | Connect Dots | 396371 | [396371-connect-dots.json](./396371-connect-dots.json) |
 | Connect Four | 45935 | [45935-connect-four.json](./45935-connect-four.json) |
 | Connect Four Cities | 73840 | [73840-connect-four-cities.json](./73840-connect-four-cities.json) |
@@ -4127,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Scramble | 372589 | [372589-cosmic-scramble.json](./372589-cosmic-scramble.json) |
 | Cosmic Slime Defense | 287202 | [287202-cosmic-slime-defense.json](./287202-cosmic-slime-defense.json) |
 | Cosmic Spacehead | 374682 | [374682-cosmic-spacehead.json](./374682-cosmic-spacehead.json) |
+| Cosmic Strike: The Last Sub Sector | 205667 | [205667-cosmic-strike-the-last-sub-sector.json](./205667-cosmic-strike-the-last-sub-sector.json) |
 | Cosmic Tank | 141200 | [141200-cosmic-tank.json](./141200-cosmic-tank.json) |
 | Cosmic Tankinator | 292548 | [292548-cosmic-tankinator.json](./292548-cosmic-tankinator.json) |
 | Cosmic Trail | 75818 | [75818-cosmic-trail.json](./75818-cosmic-trail.json) |
@@ -5445,6 +5447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse Removal Service | 218150 | [218150-curse-removal-service.json](./218150-curse-removal-service.json) |
 | Curse the Cursor | 369028 | [369028-curse-the-cursor.json](./369028-curse-the-cursor.json) |
 | Curse Words | 370775 | [370775-curse-words.json](./370775-curse-words.json) |
+| Curseball | 205648 | [205648-curseball.json](./205648-curseball.json) |
 | Cursed 2 | 196786 | [196786-cursed-2.json](./196786-cursed-2.json) |
 | Cursed Baby | 325831 | [325831-cursed-baby.json](./325831-cursed-baby.json) |
 | Cursed Bet | 253590 | [253590-cursed-bet.json](./253590-cursed-bet.json) |
