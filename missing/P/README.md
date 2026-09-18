@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
 | Pawn Tactics | 26487 | [26487-pawn-tactics.json](./26487-pawn-tactics.json) |
 | Pawn.OS() | 360647 | [360647-pawn-os.json](./360647-pawn-os.json) |
+| Pawndemonium | 194412 | [194412-pawndemonium.json](./194412-pawndemonium.json) |
 | Pawnholm | 292302 | [292302-pawnholm.json](./292302-pawnholm.json) |
 | Pawns of War | 341589 | [341589-pawns-of-war.json](./341589-pawns-of-war.json) |
 | Pawns Survival | 390002 | [390002-pawns-survival.json](./390002-pawns-survival.json) |
@@ -3125,6 +3126,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Umbra Moon | 288202 | [288202-pokemon-umbra-moon.json](./288202-pokemon-umbra-moon.json) |
 | Pokémon Unbound | 141663 | [141663-pokemon-unbound.json](./141663-pokemon-unbound.json) |
 | Pokémon Unbreakable Ties | 271214 | [271214-pokemon-unbreakable-ties.json](./271214-pokemon-unbreakable-ties.json) |
+| Pokémon Unite: Season 1 | 194419 | [194419-pokemon-unite-season-1.json](./194419-pokemon-unite-season-1.json) |
+| Pokémon Unite: Season 2 | 194418 | [194418-pokemon-unite-season-2.json](./194418-pokemon-unite-season-2.json) |
+| Pokémon Unite: Season 3 | 194420 | [194420-pokemon-unite-season-3.json](./194420-pokemon-unite-season-3.json) |
 | Pokémon Violet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239933 | [239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
 | Pokémon Volt White | 226415 | [226415-pokemon-volt-white.json](./226415-pokemon-volt-white.json) |
 | Pokémon Volt White 2 | 261895 | [261895-pokemon-volt-white-2.json](./261895-pokemon-volt-white-2.json) |
