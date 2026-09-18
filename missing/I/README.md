@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innovazione Vostra | 227919 | [227919-innovazione-vostra.json](./227919-innovazione-vostra.json) |
 | Innsmouth Corporate Plaza | 276476 | [276476-innsmouth-corporate-plaza.json](./276476-innsmouth-corporate-plaza.json) |
 | Innsmouth Nightmare | 311255 | [311255-innsmouth-nightmare.json](./311255-innsmouth-nightmare.json) |
+| Innyume | 223033 | [223033-innyume.json](./223033-innyume.json) |
 | Inorikaze | 113724 | [113724-inorikaze.json](./113724-inorikaze.json) |
 | Inoue Mami: Kono Hoshi ni Tatta Hitori no Kimi | 222333 | [222333-inoue-mami-kono-hoshi-ni-tatta-hitori-no-kimi.json](./222333-inoue-mami-kono-hoshi-ni-tatta-hitori-no-kimi.json) |
 | Inoue Ryouko: Roommate | 362824 | [362824-inoue-ryouko-roommate.json](./362824-inoue-ryouko-roommate.json) |
