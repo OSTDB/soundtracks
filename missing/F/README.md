@@ -3543,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FTB | 351712 | [351712-ftb.json](./351712-ftb.json) |
 | FTB Academy | 396938 | [396938-ftb-academy.json](./396938-ftb-academy.json) |
 | FTB Evolution | 355091 | [355091-ftb-evolution.json](./355091-ftb-evolution.json) |
+| FTB Oceanblock | 234178 | [234178-ftb-oceanblock.json](./234178-ftb-oceanblock.json) |
 | FTD: Fixin' to Die | 177560 | [177560-ftd-fixin-to-die.json](./177560-ftd-fixin-to-die.json) |
 | FTL: Advanced Edition | 20098 | [20098-ftl-advanced-edition.json](./20098-ftl-advanced-edition.json) |
 | FTL: Multiverse | 203369 | [203369-ftl-multiverse.json](./203369-ftl-multiverse.json) |
