@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Beasteria | 127249 | [127249-tales-of-beasteria.json](./127249-tales-of-beasteria.json) |
 | Tales of Berseria Remastered: Super Growth Support Herb Set | 378867 | [378867-tales-of-berseria-remastered-super-growth-support-herb-set.json](./378867-tales-of-berseria-remastered-super-growth-support-herb-set.json) |
 | Tales of Corneria | 323906 | [323906-tales-of-corneria.json](./323906-tales-of-corneria.json) |
+| Tales of Destiny | 229160 | [229160-tales-of-destiny.json](./229160-tales-of-destiny.json) |
 | Tales of Destiny 2 | 1203 | [1203-tales-of-destiny-2.json](./1203-tales-of-destiny-2.json) |
 | Tales of Destiny: Director's Cut | 80500 | [80500-tales-of-destiny-directors-cut.json](./80500-tales-of-destiny-directors-cut.json) |
 | Tales of Echoes of the Symphony of Mana | 379434 | [379434-tales-of-echoes-of-the-symphony-of-mana.json](./379434-tales-of-echoes-of-the-symphony-of-mana.json) |
@@ -1113,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
 | Telmari | 265615 | [265615-telmari.json](./265615-telmari.json) |
 | Telomere | 148505 | [148505-telomere.json](./148505-telomere.json) |
+| Telos Legacy | 229187 | [229187-telos-legacy.json](./229187-telos-legacy.json) |
 | Telusfax | 229810 | [229810-telusfax.json](./229810-telusfax.json) |
 | Temari Trials | 359984 | [359984-temari-trials.json](./359984-temari-trials.json) |
 | Temp Zero | 196258 | [196258-temp-zero.json](./196258-temp-zero.json) |
@@ -3271,6 +3273,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Food Racing | 377709 | [377709-the-jumping-food-racing.json](./377709-the-jumping-food-racing.json) |
 | The Jumping Food Racing 2 | 380407 | [380407-the-jumping-food-racing-2.json](./380407-the-jumping-food-racing-2.json) |
 | The Jumping Fries | 204078 | [204078-the-jumping-fries.json](./204078-the-jumping-fries.json) |
+| The Jumping Muffin | 229166 | [229166-the-jumping-muffin.json](./229166-the-jumping-muffin.json) |
+| The Jumping Muffin: Turbo | 229167 | [229167-the-jumping-muffin-turbo.json](./229167-the-jumping-muffin-turbo.json) |
 | The Jumping Noodles: Turbo | 212792 | [212792-the-jumping-noodles-turbo.json](./212792-the-jumping-noodles-turbo.json) |
 | The Jumping Onion Ring | 329575 | [329575-the-jumping-onion-ring.json](./329575-the-jumping-onion-ring.json) |
 | The Jumping Orange 3 | 373563 | [373563-the-jumping-orange-3.json](./373563-the-jumping-orange-3.json) |
@@ -4284,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Psychotron | 72061 | [72061-the-psychotron.json](./72061-the-psychotron.json) |
 | The Pub Simulator | 238727 | [238727-the-pub-simulator.json](./238727-the-pub-simulator.json) |
 | The Pulps Company | 283764 | [283764-the-pulps-company.json](./283764-the-pulps-company.json) |
+| The Punchuin | 229144 | [229144-the-punchuin.json](./229144-the-punchuin.json) |
 | The Punisher | 18294 | [18294-the-punisher.json](./18294-the-punisher.json) |
 | The Punisher | 307746 | [307746-the-punisher.json](./307746-the-punisher.json) |
 | The Punisher | 75883 | [75883-the-punisher.json](./75883-the-punisher.json) |
