@@ -2251,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice of Olympus | 130342 | [130342-dice-of-olympus.json](./130342-dice-of-olympus.json) |
 | Dice Paradise | 175416 | [175416-dice-paradise.json](./175416-dice-paradise.json) |
 | Dice Player One: Trailer | 305916 | [305916-dice-player-one-trailer.json](./305916-dice-player-one-trailer.json) |
+| Dice Puzzle | 220175 | [220175-dice-puzzle.json](./220175-dice-puzzle.json) |
 | Dice Quest | 226749 | [226749-dice-quest.json](./226749-dice-quest.json) |
 | Dice Rogues | 406120 | [406120-dice-rogues.json](./406120-dice-rogues.json) |
 | Dice Tactics: Demon King Chapters 2, 3, 4 | 168835 | [168835-dice-tactics-demon-king-chapters-2-3-4.json](./168835-dice-tactics-demon-king-chapters-2-3-4.json) |
@@ -3551,6 +3552,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doorways | 185655 | [185655-doorways.json](./185655-doorways.json) |
 | Doorways: Old Prototype | 26528 | [26528-doorways-old-prototype.json](./26528-doorways-old-prototype.json) |
 | Doorz | 339939 | [339939-doorz.json](./339939-doorz.json) |
+| DOP 4: Draw One Part | 220217 | [220217-dop-4-draw-one-part.json](./220217-dop-4-draw-one-part.json) |
+| Dop Story: Displace It | 220220 | [220220-dop-story-displace-it.json](./220220-dop-story-displace-it.json) |
 | Dopamine | 295798 | [295798-dopamine.json](./295798-dopamine.json) |
 | Dopamix | 222327 | [222327-dopamix.json](./222327-dopamix.json) |
 | Dope Wars Mean Streets | 294287 | [294287-dope-wars-mean-streets.json](./294287-dope-wars-mean-streets.json) |
@@ -3966,6 +3969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Hunter : Sniper Choice | 90664 | [90664-dragon-hunter-sniper-choice.json](./90664-dragon-hunter-sniper-choice.json) |
 | Dragon Inn | 226818 | [226818-dragon-inn.json](./226818-dragon-inn.json) |
 | Dragon Is Dead | 289444 | [289444-dragon-is-dead.json](./289444-dragon-is-dead.json) |
+| Dragon Island | 220212 | [220212-dragon-island.json](./220212-dragon-island.json) |
 | Dragon Island Blue | 96061 | [96061-dragon-island-blue.json](./96061-dragon-island-blue.json) |
 | Dragon Jump | 348264 | [348264-dragon-jump.json](./348264-dragon-jump.json) |
 | Dragon Jumpers | 382228 | [382228-dragon-jumpers.json](./382228-dragon-jumpers.json) |
