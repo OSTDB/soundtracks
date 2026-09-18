@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seibu Keisatsu Part-III | 346046 | [346046-seibu-keisatsu-part-iii.json](./346046-seibu-keisatsu-part-iii.json) |
 | Seifuku Densetsu Pretty Fighter X | 64982 | [64982-seifuku-densetsu-pretty-fighter-x.json](./64982-seifuku-densetsu-pretty-fighter-x.json) |
 | Seifuku Kanojo 2 | 332551 | [332551-seifuku-kanojo-2.json](./332551-seifuku-kanojo-2.json) |
+| Seifuku: High School Countdown | 234180 | [234180-seifuku-high-school-countdown.json](./234180-seifuku-high-school-countdown.json) |
 | Seigi no Torishirabe | 240230 | [240230-seigi-no-torishirabe.json](./240230-seigi-no-torishirabe.json) |
 | Seijundrop | 252176 | [252176-seijundrop.json](./252176-seijundrop.json) |
 | Seiken Densetsu | 297610 | [297610-seiken-densetsu.json](./297610-seiken-densetsu.json) |
@@ -3783,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingbox | 371995 | [371995-slingbox.json](./371995-slingbox.json) |
 | Slinger | 255955 | [255955-slinger.json](./255955-slinger.json) |
 | Slingo 15th Anniversary Edition | 208976 | [208976-slingo-15th-anniversary-edition.json](./208976-slingo-15th-anniversary-edition.json) |
+| Slingo Adventure | 234185 | [234185-slingo-adventure.json](./234185-slingo-adventure.json) |
 | Slingo Quest Hawaii | 73807 | [73807-slingo-quest-hawaii.json](./73807-slingo-quest-hawaii.json) |
 | Slingshot | 60577 | [60577-slingshot.json](./60577-slingshot.json) |
 | Slingshot Fun Collection | 386213 | [386213-slingshot-fun-collection.json](./386213-slingshot-fun-collection.json) |
@@ -4560,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solidus | 100745 | [100745-solidus.json](./100745-solidus.json) |
 | Solipsistic | 409582 | [409582-solipsistic.json](./409582-solipsistic.json) |
 | Solir | 332529 | [332529-solir.json](./332529-solir.json) |
+| Solitaire | 234167 | [234167-solitaire.json](./234167-solitaire.json) |
 | Solitaire | 243701 | [243701-solitaire.json](./243701-solitaire.json) |
 | Solitaire | 246627 | [246627-solitaire.json](./246627-solitaire.json) |
 | Solitaire | 80744 | [80744-solitaire.json](./80744-solitaire.json) |
