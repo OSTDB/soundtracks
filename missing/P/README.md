@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
 | Patriots by John Dondzila | 84155 | [84155-patriots-by-john-dondzila.json](./84155-patriots-by-john-dondzila.json) |
 | Patriots Remix | 37704 | [37704-patriots-remix.json](./37704-patriots-remix.json) |
+| Patriots: Back to Civilization | 182369 | [182369-patriots-back-to-civilization.json](./182369-patriots-back-to-civilization.json) |
 | Patrol no Gunji Hakubutsukan 3: Chouzetsu Muteki Kyuukyoku Heiki | 284347 | [284347-patrol-no-gunji-hakubutsukan-3-chouzetsu-muteki-kyuukyoku-heiki.json](./284347-patrol-no-gunji-hakubutsukan-3-chouzetsu-muteki-kyuukyoku-heiki.json) |
 | Patrol Police: Job Simulator | 223984 | [223984-patrol-police-job-simulator.json](./223984-patrol-police-job-simulator.json) |
 | Patrolling Mars | 276289 | [276289-patrolling-mars.json](./276289-patrolling-mars.json) |
@@ -2162,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piratepoly Gold: Caribbean Treasure | 218723 | [218723-piratepoly-gold-caribbean-treasure.json](./218723-piratepoly-gold-caribbean-treasure.json) |
 | Pirates | 197378 | [197378-pirates.json](./197378-pirates.json) |
 | Pirates Adventure Solitaire | 341574 | [341574-pirates-adventure-solitaire.json](./341574-pirates-adventure-solitaire.json) |
+| Pirates Ahoy! | 182379 | [182379-pirates-ahoy.json](./182379-pirates-ahoy.json) |
 | Pirates Bay | 211802 | [211802-pirates-bay.json](./211802-pirates-bay.json) |
 | Pirates CSG Online | 20643 | [20643-pirates-csg-online.json](./20643-pirates-csg-online.json) |
 | Pirates Deck | 35643 | [35643-pirates-deck.json](./35643-pirates-deck.json) |
@@ -4105,6 +4107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prizma Puzzle Classic | 378184 | [378184-prizma-puzzle-classic.json](./378184-prizma-puzzle-classic.json) |
 | Pro Baccarat | 351003 | [351003-pro-baccarat.json](./351003-pro-baccarat.json) |
 | Pro Balance | 178611 | [178611-pro-balance.json](./178611-pro-balance.json) |
+| Pro Basketball Manager 2022 | 182397 | [182397-pro-basketball-manager-2022.json](./182397-pro-basketball-manager-2022.json) |
 | Pro Basketball Manager 2023 | 220656 | [220656-pro-basketball-manager-2023.json](./220656-pro-basketball-manager-2023.json) |
 | Pro Basketball Manager 2025 | 316054 | [316054-pro-basketball-manager-2025.json](./316054-pro-basketball-manager-2025.json) |
 | Pro Crack | 247026 | [247026-pro-crack.json](./247026-pro-crack.json) |
