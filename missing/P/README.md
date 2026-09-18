@@ -4191,6 +4191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Aeroes | 330342 | [330342-project-aeroes.json](./330342-project-aeroes.json) |
 | Project Aftershock | 94753 | [94753-project-aftershock.json](./94753-project-aftershock.json) |
 | Project Alpha 002 | 30943 | [30943-project-alpha-002.json](./30943-project-alpha-002.json) |
+| Project Angels | 203310 | [203310-project-angels.json](./203310-project-angels.json) |
 | Project Anomaly | 193952 | [193952-project-anomaly.json](./193952-project-anomaly.json) |
 | Project Anomaly: Urban Supernatural Investigator | 200700 | [200700-project-anomaly-urban-supernatural-investigator.json](./200700-project-anomaly-urban-supernatural-investigator.json) |
 | Project Apparition | 259100 | [259100-project-apparition.json](./259100-project-apparition.json) |
@@ -4268,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hospital | 75855 | [75855-project-hospital.json](./75855-project-hospital.json) |
 | Project I | 274579 | [274579-project-i.json](./274579-project-i.json) |
 | Project II: Final Fantasy IV | 379344 | [379344-project-ii-final-fantasy-iv.json](./379344-project-ii-final-fantasy-iv.json) |
+| Project Impulse | 203304 | [203304-project-impulse.json](./203304-project-impulse.json) |
 | Project Justice | 13096 | [13096-project-justice.json](./13096-project-justice.json) |
 | Project Kinesis | 301954 | [301954-project-kinesis.json](./301954-project-kinesis.json) |
 | Project Kizuna | 321764 | [321764-project-kizuna.json](./321764-project-kizuna.json) |
