@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaccine Case | 237959 | [237959-vaccine-case.json](./237959-vaccine-case.json) |
 | Vaccine Hunter | 144355 | [144355-vaccine-hunter.json](./144355-vaccine-hunter.json) |
 | Vaccine Rebirth | 236842 | [236842-vaccine-rebirth.json](./236842-vaccine-rebirth.json) |
+| Vacuum Ball | 192820 | [192820-vacuum-ball.json](./192820-vacuum-ball.json) |
 | Vacuum Cleaner Robot Simulator: Pile Sos Edition | 369591 | [369591-vacuum-cleaner-robot-simulator-pile-sos-edition.json](./369591-vacuum-cleaner-robot-simulator-pile-sos-edition.json) |
 | Vacuum Story | 204537 | [204537-vacuum-story.json](./204537-vacuum-story.json) |
 | Vade Retro: Exorcist | 216492 | [216492-vade-retro-exorcist.json](./216492-vade-retro-exorcist.json) |
@@ -445,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verdge | 377701 | [377701-verdge.json](./377701-verdge.json) |
 | Verdonia | 92446 | [92446-verdonia.json](./92446-verdonia.json) |
 | Verdun | 8036 | [8036-verdun.json](./8036-verdun.json) |
+| Vereda | 192807 | [192807-vereda.json](./192807-vereda.json) |
 | Veredilia: The Sacred Forest | 265932 | [265932-veredilia-the-sacred-forest.json](./265932-veredilia-the-sacred-forest.json) |
 | Verfall | 338572 | [338572-verfall.json](./338572-verfall.json) |
 | VergeWorld | 204440 | [204440-vergeworld.json](./204440-vergeworld.json) |
