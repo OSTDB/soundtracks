@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T19:18:32.063Z",
-  "total_missing": 88771,
+  "generated_at": "2026-09-18T19:32:31.433Z",
+  "total_missing": 88821,
   "games": [
     {
       "igdb_id": 273453,
@@ -347193,6 +347193,151 @@
       "file": "missing/S/159835-starry-makino.json"
     },
     {
+      "igdb_id": 190576,
+      "game_name": "Starry Moon Island 2: Break Out MP01",
+      "file": "missing/S/190576-starry-moon-island-2-break-out-mp01.json"
+    },
+    {
+      "igdb_id": 190575,
+      "game_name": "Starry Moon Island 2: Break Out MP02",
+      "file": "missing/S/190575-starry-moon-island-2-break-out-mp02.json"
+    },
+    {
+      "igdb_id": 190568,
+      "game_name": "Starry Moon Island 2: Break Out MP03",
+      "file": "missing/S/190568-starry-moon-island-2-break-out-mp03.json"
+    },
+    {
+      "igdb_id": 190570,
+      "game_name": "Starry Moon Island 2: Break Out MP04",
+      "file": "missing/S/190570-starry-moon-island-2-break-out-mp04.json"
+    },
+    {
+      "igdb_id": 190574,
+      "game_name": "Starry Moon Island 2: Break Out MP05",
+      "file": "missing/S/190574-starry-moon-island-2-break-out-mp05.json"
+    },
+    {
+      "igdb_id": 190572,
+      "game_name": "Starry Moon Island 2: Break Out MP06",
+      "file": "missing/S/190572-starry-moon-island-2-break-out-mp06.json"
+    },
+    {
+      "igdb_id": 190573,
+      "game_name": "Starry Moon Island 2: Break Out MP07",
+      "file": "missing/S/190573-starry-moon-island-2-break-out-mp07.json"
+    },
+    {
+      "igdb_id": 190569,
+      "game_name": "Starry Moon Island 2: Break Out MP08",
+      "file": "missing/S/190569-starry-moon-island-2-break-out-mp08.json"
+    },
+    {
+      "igdb_id": 190571,
+      "game_name": "Starry Moon Island 2: Break Out MP09",
+      "file": "missing/S/190571-starry-moon-island-2-break-out-mp09.json"
+    },
+    {
+      "igdb_id": 190595,
+      "game_name": "Starry Moon Island 2: DNA War MP01",
+      "file": "missing/S/190595-starry-moon-island-2-dna-war-mp01.json"
+    },
+    {
+      "igdb_id": 190593,
+      "game_name": "Starry Moon Island 2: DNA War MP02",
+      "file": "missing/S/190593-starry-moon-island-2-dna-war-mp02.json"
+    },
+    {
+      "igdb_id": 190594,
+      "game_name": "Starry Moon Island 2: DNA War MP03",
+      "file": "missing/S/190594-starry-moon-island-2-dna-war-mp03.json"
+    },
+    {
+      "igdb_id": 190590,
+      "game_name": "Starry Moon Island 2: DNA War MP04",
+      "file": "missing/S/190590-starry-moon-island-2-dna-war-mp04.json"
+    },
+    {
+      "igdb_id": 190591,
+      "game_name": "Starry Moon Island 2: DNA War MP05",
+      "file": "missing/S/190591-starry-moon-island-2-dna-war-mp05.json"
+    },
+    {
+      "igdb_id": 190592,
+      "game_name": "Starry Moon Island 2: DNA War MP06",
+      "file": "missing/S/190592-starry-moon-island-2-dna-war-mp06.json"
+    },
+    {
+      "igdb_id": 190589,
+      "game_name": "Starry Moon Island 2: DNA War MP07",
+      "file": "missing/S/190589-starry-moon-island-2-dna-war-mp07.json"
+    },
+    {
+      "igdb_id": 190587,
+      "game_name": "Starry Moon Island 2: DNA War MP08",
+      "file": "missing/S/190587-starry-moon-island-2-dna-war-mp08.json"
+    },
+    {
+      "igdb_id": 190588,
+      "game_name": "Starry Moon Island 2: DNA War MP09",
+      "file": "missing/S/190588-starry-moon-island-2-dna-war-mp09.json"
+    },
+    {
+      "igdb_id": 190596,
+      "game_name": "Starry Moon Island 2: DNA War MP10",
+      "file": "missing/S/190596-starry-moon-island-2-dna-war-mp10.json"
+    },
+    {
+      "igdb_id": 190583,
+      "game_name": "Starry Moon Island 2: Tank Advance MP01",
+      "file": "missing/S/190583-starry-moon-island-2-tank-advance-mp01.json"
+    },
+    {
+      "igdb_id": 190585,
+      "game_name": "Starry Moon Island 2: Tank Advance MP02",
+      "file": "missing/S/190585-starry-moon-island-2-tank-advance-mp02.json"
+    },
+    {
+      "igdb_id": 190582,
+      "game_name": "Starry Moon Island 2: Tank Advance MP03",
+      "file": "missing/S/190582-starry-moon-island-2-tank-advance-mp03.json"
+    },
+    {
+      "igdb_id": 190578,
+      "game_name": "Starry Moon Island 2: Tank Advance MP04",
+      "file": "missing/S/190578-starry-moon-island-2-tank-advance-mp04.json"
+    },
+    {
+      "igdb_id": 190580,
+      "game_name": "Starry Moon Island 2: Tank Advance MP05",
+      "file": "missing/S/190580-starry-moon-island-2-tank-advance-mp05.json"
+    },
+    {
+      "igdb_id": 190586,
+      "game_name": "Starry Moon Island 2: Tank Advance MP06",
+      "file": "missing/S/190586-starry-moon-island-2-tank-advance-mp06.json"
+    },
+    {
+      "igdb_id": 190579,
+      "game_name": "Starry Moon Island 2: Tank Advance MP07",
+      "file": "missing/S/190579-starry-moon-island-2-tank-advance-mp07.json"
+    },
+    {
+      "igdb_id": 190577,
+      "game_name": "Starry Moon Island 2: Tank Advance MP08",
+      "file": "missing/S/190577-starry-moon-island-2-tank-advance-mp08.json"
+    },
+    {
+      "igdb_id": 190581,
+      "game_name": "Starry Moon Island 2: Tank Advance MP09",
+      "file": "missing/S/190581-starry-moon-island-2-tank-advance-mp09.json"
+    },
+    {
+      "igdb_id": 190584,
+      "game_name": "Starry Moon Island 2: Tank Advance MP10",
+      "file": "missing/S/190584-starry-moon-island-2-tank-advance-mp10.json"
+    },
+    {
       "igdb_id": 190666,
       "game_name": "Starry Moon Island: Break Out MP01",
       "file": "missing/S/190666-starry-moon-island-break-out-mp01.json"
@@ -347241,6 +347386,11 @@
       "igdb_id": 190660,
       "game_name": "Starry Moon Island: Break Out MP10",
       "file": "missing/S/190660-starry-moon-island-break-out-mp10.json"
+    },
+    {
+      "igdb_id": 190617,
+      "game_name": "Starry Moon Island: Cannon War MP08",
+      "file": "missing/S/190617-starry-moon-island-cannon-war-mp08.json"
     },
     {
       "igdb_id": 190670,
@@ -347398,6 +347548,56 @@
       "file": "missing/S/190652-starry-moon-island-perimeter-mp10.json"
     },
     {
+      "igdb_id": 190603,
+      "game_name": "Starry Moon Island: Red Snake MP01",
+      "file": "missing/S/190603-starry-moon-island-red-snake-mp01.json"
+    },
+    {
+      "igdb_id": 190604,
+      "game_name": "Starry Moon Island: Red Snake MP02",
+      "file": "missing/S/190604-starry-moon-island-red-snake-mp02.json"
+    },
+    {
+      "igdb_id": 190599,
+      "game_name": "Starry Moon Island: Red Snake MP03",
+      "file": "missing/S/190599-starry-moon-island-red-snake-mp03.json"
+    },
+    {
+      "igdb_id": 190606,
+      "game_name": "Starry Moon Island: Red Snake MP04",
+      "file": "missing/S/190606-starry-moon-island-red-snake-mp04.json"
+    },
+    {
+      "igdb_id": 190602,
+      "game_name": "Starry Moon Island: Red Snake MP05",
+      "file": "missing/S/190602-starry-moon-island-red-snake-mp05.json"
+    },
+    {
+      "igdb_id": 190601,
+      "game_name": "Starry Moon Island: Red Snake MP06",
+      "file": "missing/S/190601-starry-moon-island-red-snake-mp06.json"
+    },
+    {
+      "igdb_id": 190597,
+      "game_name": "Starry Moon Island: Red Snake MP07",
+      "file": "missing/S/190597-starry-moon-island-red-snake-mp07.json"
+    },
+    {
+      "igdb_id": 190605,
+      "game_name": "Starry Moon Island: Red Snake MP08",
+      "file": "missing/S/190605-starry-moon-island-red-snake-mp08.json"
+    },
+    {
+      "igdb_id": 190600,
+      "game_name": "Starry Moon Island: Red Snake MP09",
+      "file": "missing/S/190600-starry-moon-island-red-snake-mp09.json"
+    },
+    {
+      "igdb_id": 190598,
+      "game_name": "Starry Moon Island: Red Snake MP10",
+      "file": "missing/S/190598-starry-moon-island-red-snake-mp10.json"
+    },
+    {
       "igdb_id": 190684,
       "game_name": "Starry Moon Island: Star Ocean MP01",
       "file": "missing/S/190684-starry-moon-island-star-ocean-mp01.json"
@@ -347446,6 +347646,56 @@
       "igdb_id": 190677,
       "game_name": "Starry Moon Island: Star Ocean MP10",
       "file": "missing/S/190677-starry-moon-island-star-ocean-mp10.json"
+    },
+    {
+      "igdb_id": 190610,
+      "game_name": "Starry Moon Island: Tank Advance MP01",
+      "file": "missing/S/190610-starry-moon-island-tank-advance-mp01.json"
+    },
+    {
+      "igdb_id": 190611,
+      "game_name": "Starry Moon Island: Tank Advance MP02",
+      "file": "missing/S/190611-starry-moon-island-tank-advance-mp02.json"
+    },
+    {
+      "igdb_id": 190616,
+      "game_name": "Starry Moon Island: Tank Advance MP03",
+      "file": "missing/S/190616-starry-moon-island-tank-advance-mp03.json"
+    },
+    {
+      "igdb_id": 190613,
+      "game_name": "Starry Moon Island: Tank Advance MP04",
+      "file": "missing/S/190613-starry-moon-island-tank-advance-mp04.json"
+    },
+    {
+      "igdb_id": 190608,
+      "game_name": "Starry Moon Island: Tank Advance MP05",
+      "file": "missing/S/190608-starry-moon-island-tank-advance-mp05.json"
+    },
+    {
+      "igdb_id": 190607,
+      "game_name": "Starry Moon Island: Tank Advance MP06",
+      "file": "missing/S/190607-starry-moon-island-tank-advance-mp06.json"
+    },
+    {
+      "igdb_id": 190609,
+      "game_name": "Starry Moon Island: Tank Advance MP07",
+      "file": "missing/S/190609-starry-moon-island-tank-advance-mp07.json"
+    },
+    {
+      "igdb_id": 190614,
+      "game_name": "Starry Moon Island: Tank Advance MP08",
+      "file": "missing/S/190614-starry-moon-island-tank-advance-mp08.json"
+    },
+    {
+      "igdb_id": 190612,
+      "game_name": "Starry Moon Island: Tank Advance MP09",
+      "file": "missing/S/190612-starry-moon-island-tank-advance-mp09.json"
+    },
+    {
+      "igdb_id": 190615,
+      "game_name": "Starry Moon Island: Tank Advance MP10",
+      "file": "missing/S/190615-starry-moon-island-tank-advance-mp10.json"
     },
     {
       "igdb_id": 246493,
