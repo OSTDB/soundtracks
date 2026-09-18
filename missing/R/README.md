@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ralsei's got a gun! | 175924 | [175924-ralseis-got-a-gun.json](./175924-ralseis-got-a-gun.json) |
 | RAM 1982 | 349953 | [349953-ram-1982.json](./349953-ram-1982.json) |
 | RAM Ghost | 171540 | [171540-ram-ghost.json](./171540-ram-ghost.json) |
+| RAM: Random Access Mayhem | 231491 | [231491-ram-random-access-mayhem.json](./231491-ram-random-access-mayhem.json) |
 | Ram! | 94218 | [94218-ram.json](./94218-ram.json) |
 | Ramble Planet | 152374 | [152374-ramble-planet.json](./152374-ramble-planet.json) |
 | Ramblings | 204678 | [204678-ramblings.json](./204678-ramblings.json) |
@@ -1665,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroRealms: Ash vs. Evil Dead | 313490 | [313490-retrorealms-ash-vs-evil-dead.json](./313490-retrorealms-ash-vs-evil-dead.json) |
 | RetroRealms: Halloween | 313489 | [313489-retrorealms-halloween.json](./313489-retrorealms-halloween.json) |
 | RetroScape | 185107 | [185107-retroscape.json](./185107-retroscape.json) |
+| RetroSpace | 231488 | [231488-retrospace.json](./231488-retrospace.json) |
 | RetroVamp | 126634 | [126634-retrovamp.json](./126634-retrovamp.json) |
 | Retrowave '84 | 214180 | [214180-retrowave-84.json](./214180-retrowave-84.json) |
 | Retrowave Hexon | 159857 | [159857-retrowave-hexon.json](./159857-retrowave-hexon.json) |
@@ -1712,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reus 2: Grasslands | 401682 | [401682-reus-2-grasslands.json](./401682-reus-2-grasslands.json) |
 | Reus 2: Supporter Pack | 312031 | [312031-reus-2-supporter-pack.json](./312031-reus-2-supporter-pack.json) |
 | Réussir: Code de la Route - Bonus ASSR 1 - ASSR 2: Permis AM - French Highway Code | 298157 | [298157-reussir-code-de-la-route-bonus-assr-1-assr-2-permis-am-french-highway-code.json](./298157-reussir-code-de-la-route-bonus-assr-1-assr-2-permis-am-french-highway-code.json) |
+| Rev Limit | 231509 | [231509-rev-limit.json](./231509-rev-limit.json) |
 | Rev. Noir | 389436 | [389436-rev-noir.json](./389436-rev-noir.json) |
 | Rev'd Up Racing | 312195 | [312195-revd-up-racing.json](./312195-revd-up-racing.json) |
 | Revamped | 260216 | [260216-revamped.json](./260216-revamped.json) |
