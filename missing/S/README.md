@@ -3114,6 +3114,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Ultimate Vol. 25: Chou Saisoku! Zoku-sha King | 203361 | [203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json](./203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json) |
 | Simple 2000 Series Ultimate Vol. 4: Urawaza Ikasa Mahjong Gai | 203351 | [203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json](./203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json) |
 | Simple 2000 Series Ultimate Vol. 5: Love * Mahjong | 203352 | [203352-simple-2000-series-ultimate-vol-5-love-mahjong.json](./203352-simple-2000-series-ultimate-vol-5-love-mahjong.json) |
+| Simple 2000 Series Vol. 100: The Otoko Tachi no Kijuu Houza | 203330 | [203330-simple-2000-series-vol-100-the-otoko-tachi-no-kijuu-houza.json](./203330-simple-2000-series-vol-100-the-otoko-tachi-no-kijuu-houza.json) |
+| Simple 2000 Series Vol. 104: The Robot Tsuku Rouze! - Gekitou! Robot Fight | 203334 | [203334-simple-2000-series-vol-104-the-robot-tsuku-rouze-gekitou-robot-fight.json](./203334-simple-2000-series-vol-104-the-robot-tsuku-rouze-gekitou-robot-fight.json) |
+| Simple 2000 Series Vol. 109: The Taxi 2 | 203335 | [203335-simple-2000-series-vol-109-the-taxi-2.json](./203335-simple-2000-series-vol-109-the-taxi-2.json) |
 | Simple 2000 Series Vol. 115: The Roomshare to Iu Seikatsu | 203336 | [203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json](./203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json) |
 | Simple 2000 Series Vol. 117: The Zerosen | 203338 | [203338-simple-2000-series-vol-117-the-zerosen.json](./203338-simple-2000-series-vol-117-the-zerosen.json) |
 | Simple 2000 Series Vol. 118: The Ochimusha - Doemu Samurai Toujou | 203339 | [203339-simple-2000-series-vol-118-the-ochimusha-doemu-samurai-toujou.json](./203339-simple-2000-series-vol-118-the-ochimusha-doemu-samurai-toujou.json) |
@@ -3123,14 +3126,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 20: The Dungeon RPG | 335906 | [335906-simple-2000-series-vol-20-the-dungeon-rpg.json](./335906-simple-2000-series-vol-20-the-dungeon-rpg.json) |
 | Simple 2000 Series Vol. 24: The Bowling Hyper | 335909 | [335909-simple-2000-series-vol-24-the-bowling-hyper.json](./335909-simple-2000-series-vol-24-the-bowling-hyper.json) |
 | Simple 2000 Series Vol. 32: The Sensha | 335914 | [335914-simple-2000-series-vol-32-the-sensha.json](./335914-simple-2000-series-vol-32-the-sensha.json) |
+| Simple 2000 Series Vol. 77: The Hanasou Hanguru no Tabi | 203319 | [203319-simple-2000-series-vol-77-the-hanasou-hanguru-no-tabi.json](./203319-simple-2000-series-vol-77-the-hanasou-hanguru-no-tabi.json) |
+| Simple 2000 Series vol. 79: Akko ni Omakase! The Party Quiz | 203320 | [203320-simple-2000-series-vol-79-akko-ni-omakase-the-party-quiz.json](./203320-simple-2000-series-vol-79-akko-ni-omakase-the-party-quiz.json) |
+| Simple 2000 Series Vol. 82: The Kung Fu | 203321 | [203321-simple-2000-series-vol-82-the-kung-fu.json](./203321-simple-2000-series-vol-82-the-kung-fu.json) |
+| Simple 2000 Series Vol. 83: The Konchuu Saishuu | 203322 | [203322-simple-2000-series-vol-83-the-konchuu-saishuu.json](./203322-simple-2000-series-vol-83-the-konchuu-saishuu.json) |
+| Simple 2000 Series Vol. 85: The Sekai Meisaku Gekijou Quiz | 203324 | [203324-simple-2000-series-vol-85-the-sekai-meisaku-gekijou-quiz.json](./203324-simple-2000-series-vol-85-the-sekai-meisaku-gekijou-quiz.json) |
 | Simple 2000 Series Vol. 88: The Mini Suke Porisu | 43325 | [43325-simple-2000-series-vol-88-the-mini-suke-porisu.json](./43325-simple-2000-series-vol-88-the-mini-suke-porisu.json) |
+| Simple 2000 Series Vol. 89: The Party Games 2 | 203326 | [203326-simple-2000-series-vol-89-the-party-games-2.json](./203326-simple-2000-series-vol-89-the-party-games-2.json) |
+| Simple 2000 Series Vol. 93: The Unou Drill | 203327 | [203327-simple-2000-series-vol-93-the-unou-drill.json](./203327-simple-2000-series-vol-93-the-unou-drill.json) |
+| Simple 2000 Series Vol. 98: The Roman Sabou | 203329 | [203329-simple-2000-series-vol-98-the-roman-sabou.json](./203329-simple-2000-series-vol-98-the-roman-sabou.json) |
 | Simple 2000 Series Vol.116: The Neko-mura no Hitobito - Pagu Daikan no Akugyou San-mai | 203337 | [203337-simple-2000-series-vol-116-the-neko-mura-no-hitobito-pagu-daikan-no-akugyou-san-mai.json](./203337-simple-2000-series-vol-116-the-neko-mura-no-hitobito-pagu-daikan-no-akugyou-san-mai.json) |
+| Simple 2000 Series Vol.86: Menkyo Shutoku Simulation - Kaiseidouro Koutsuu-hou Taiouban | 203325 | [203325-simple-2000-series-vol-86-menkyo-shutoku-simulation-kaiseidouro-koutsuu-hou-taiouban.json](./203325-simple-2000-series-vol-86-menkyo-shutoku-simulation-kaiseidouro-koutsuu-hou-taiouban.json) |
+| Simple 2500 Series Portable Vol. 7: The Doko Demo Kanji Quiz - Challenge! Kanji Kentei 2006 | 203397 | [203397-simple-2500-series-portable-vol-7-the-doko-demo-kanji-quiz-challenge-kanji-kentei-2006.json](./203397-simple-2500-series-portable-vol-7-the-doko-demo-kanji-quiz-challenge-kanji-kentei-2006.json) |
+| Simple 2500 Series Portable Vol. 9: The My Taxi! | 203398 | [203398-simple-2500-series-portable-vol-9-the-my-taxi.json](./203398-simple-2500-series-portable-vol-9-the-my-taxi.json) |
 | Simple 500 Series Vol. 1: The Mahjong | 66093 | [66093-simple-500-series-vol-1-the-mahjong.json](./66093-simple-500-series-vol-1-the-mahjong.json) |
 | Simple 500 Series Vol. 2: The Misshitsu kara no Dasshutsu | 79351 | [79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json](./79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json) |
 | Simple 500 Series Vol. 3: The Misshitsu kara no Dasshutsu Tsukiyo no Mansion-hen | 65475 | [65475-simple-500-series-vol-3-the-misshitsu-kara-no-dasshutsu-tsukiyo-no-mansion-hen.json](./65475-simple-500-series-vol-3-the-misshitsu-kara-no-dasshutsu-tsukiyo-no-mansion-hen.json) |
 | Simple Characters 2000 Series Vol. 11: Detective Conan - The Board Game | 78706 | [78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json](./78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json) |
 | Simple Dot | 117707 | [117707-simple-dot.json](./117707-simple-dot.json) |
 | Simple DS Series Vol. 1: The Mahjong | 82134 | [82134-simple-ds-series-vol-1-the-mahjong.json](./82134-simple-ds-series-vol-1-the-mahjong.json) |
+| Simple DS Series Vol. 10: The Doko Demo Kanji Quiz | 203404 | [203404-simple-ds-series-vol-10-the-doko-demo-kanji-quiz.json](./203404-simple-ds-series-vol-10-the-doko-demo-kanji-quiz.json) |
+| Simple DS Series Vol. 11: Mou Ichido Kayoeru - The Otona no Shougakkou | 203405 | [203405-simple-ds-series-vol-11-mou-ichido-kayoeru-the-otona-no-shougakkou.json](./203405-simple-ds-series-vol-11-mou-ichido-kayoeru-the-otona-no-shougakkou.json) |
+| Simple DS Series Vol. 14: The Jidousha Kyoushuujo DS | 203406 | [203406-simple-ds-series-vol-14-the-jidousha-kyoushuujo-ds.json](./203406-simple-ds-series-vol-14-the-jidousha-kyoushuujo-ds.json) |
+| Simple DS Series Vol. 20: The Senkan | 203407 | [203407-simple-ds-series-vol-20-the-senkan.json](./203407-simple-ds-series-vol-20-the-senkan.json) |
+| Simple DS Series Vol. 26: The Quiz 30,000-Mon | 203408 | [203408-simple-ds-series-vol-26-the-quiz-30-000-mon.json](./203408-simple-ds-series-vol-26-the-quiz-30-000-mon.json) |
+| Simple DS Series Vol. 28: The Illust Puzzle & Suuji Puzzle 2 | 203410 | [203410-simple-ds-series-vol-28-the-illust-puzzle-and-suuji-puzzle-2.json](./203410-simple-ds-series-vol-28-the-illust-puzzle-and-suuji-puzzle-2.json) |
+| Simple DS Series Vol. 9: Atama ga Yoku Naru - The Me no Training | 203403 | [203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json](./203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json) |
 | Simple FPS Aim Trainer | 182502 | [182502-simple-fps-aim-trainer.json](./182502-simple-fps-aim-trainer.json) |
 | Simple FPS Platformer | 347268 | [347268-simple-fps-platformer.json](./347268-simple-fps-platformer.json) |
 | Simple Game | 121602 | [121602-simple-game.json](./121602-simple-game.json) |
@@ -6471,6 +6492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spore: Galactic Edition | 46617 | [46617-spore-galactic-edition.json](./46617-spore-galactic-edition.json) |
 | SporeBloom | 304716 | [304716-sporebloom.json](./304716-sporebloom.json) |
 | Sporeborn Dark | 272907 | [272907-sporeborn-dark.json](./272907-sporeborn-dark.json) |
+| Sporos | 203314 | [203314-sporos.json](./203314-sporos.json) |
 | Sport & Fun: Swimming - Amazing Edition | 283165 | [283165-sport-and-fun-swimming-amazing-edition.json](./283165-sport-and-fun-swimming-amazing-edition.json) |
 | Sport & Fun: Swimming - Complete + | 328836 | [328836-sport-and-fun-swimming-complete.json](./328836-sport-and-fun-swimming-complete.json) |
 | Sport & Fun: Swimming - Director's Cut | 271834 | [271834-sport-and-fun-swimming-directors-cut.json](./271834-sport-and-fun-swimming-directors-cut.json) |
