@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
 | Before Nightfall | 271311 | [271311-before-nightfall.json](./271311-before-nightfall.json) |
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
+| Before the Night | 189049 | [189049-before-the-night.json](./189049-before-the-night.json) |
 | Before the Sun Sets | 384619 | [384619-before-the-sun-sets.json](./384619-before-the-sun-sets.json) |
 | Before Times | 398359 | [398359-before-times.json](./398359-before-times.json) |
 | Before We Leave | 120878 | [120878-before-we-leave.json](./120878-before-we-leave.json) |
@@ -2897,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinky's Revenge | 338832 | [338832-blinkys-revenge.json](./338832-blinkys-revenge.json) |
 | Blippo+ | 325283 | [325283-blippo.json](./325283-blippo.json) |
 | Blips | 320157 | [320157-blips.json](./320157-blips.json) |
+| Blipz | 189050 | [189050-blipz.json](./189050-blipz.json) |
 | Blithe | 177528 | [177528-blithe.json](./177528-blithe.json) |
 | Blitz & Blaze | 265775 | [265775-blitz-and-blaze.json](./265775-blitz-and-blaze.json) |
 | Blitz Breaker | 17457 | [17457-blitz-breaker.json](./17457-blitz-breaker.json) |
@@ -3570,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman: Panic Bomber | 39663 | [39663-bomberman-panic-bomber.json](./39663-bomberman-panic-bomber.json) |
 | Bomberman: Users Battle | 42055 | [42055-bomberman-users-battle.json](./42055-bomberman-users-battle.json) |
 | BomberPengu | 286689 | [286689-bomberpengu.json](./286689-bomberpengu.json) |
+| Bomberpet | 189064 | [189064-bomberpet.json](./189064-bomberpet.json) |
 | Bombfest | 74464 | [74464-bombfest.json](./74464-bombfest.json) |
 | Bombing Quest | 129796 | [129796-bombing-quest.json](./129796-bombing-quest.json) |
 | Bombing Wonderful | 228712 | [228712-bombing-wonderful.json](./228712-bombing-wonderful.json) |
