@@ -1271,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Ground | 185016 | [185016-hello-ground.json](./185016-hello-ground.json) |
 | Hello Guest | 140605 | [140605-hello-guest.json](./140605-hello-guest.json) |
 | Hello Helix | 108494 | [108494-hello-helix.json](./108494-hello-helix.json) |
+| Hello Hello | 184492 | [184492-hello-hello.json](./184492-hello-hello.json) |
 | Hello inc VR | 28941 | [28941-hello-inc-vr.json](./28941-hello-inc-vr.json) |
 | Hello Kitty and Friends: Happiness Parade | 204458 | [204458-hello-kitty-and-friends-happiness-parade.json](./204458-hello-kitty-and-friends-happiness-parade.json) |
 | Hello Kitty Birthday Party | 231386 | [231386-hello-kitty-birthday-party.json](./231386-hello-kitty-birthday-party.json) |
@@ -3191,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Much Items: Food | 340491 | [340491-how-much-items-food.json](./340491-how-much-items-food.json) |
 | How Much Items: Vegetation | 340492 | [340492-how-much-items-vegetation.json](./340492-how-much-items-vegetation.json) |
 | How Much Items: Weapon | 340493 | [340493-how-much-items-weapon.json](./340493-how-much-items-weapon.json) |
+| How Now, Sea Cow? | 184493 | [184493-how-now-sea-cow.json](./184493-how-now-sea-cow.json) |
 | How Should I Keep a House Squeaky Clean, With a Filthy Little Neighbour Ghost? | 373080 | [373080-how-should-i-keep-a-house-squeaky-clean-with-a-filthy-little-neighbour-ghost.json](./373080-how-should-i-keep-a-house-squeaky-clean-with-a-filthy-little-neighbour-ghost.json) |
 | How The Grinch Stole Christmas!: Dr. Seuss Mobile | 84195 | [84195-how-the-grinch-stole-christmas-dr-seuss-mobile.json](./84195-how-the-grinch-stole-christmas-dr-seuss-mobile.json) |
 | How the Leopard Got His Spots | 363985 | [363985-how-the-leopard-got-his-spots.json](./363985-how-the-leopard-got-his-spots.json) |
@@ -3649,6 +3651,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypoxia: One Last Breath | 167291 | [167291-hypoxia-one-last-breath.json](./167291-hypoxia-one-last-breath.json) |
 | HypurrX | 336535 | [336535-hypurrx.json](./336535-hypurrx.json) |
 | Hyrax In The Rocks | 342046 | [342046-hyrax-in-the-rocks.json](./342046-hyrax-in-the-rocks.json) |
+| Hyrule Warriors: Age of Calamity - Wave 1: Pulse of the Ancients | 184509 | [184509-hyrule-warriors-age-of-calamity-wave-1-pulse-of-the-ancients.json](./184509-hyrule-warriors-age-of-calamity-wave-1-pulse-of-the-ancients.json) |
+| Hyrule Warriors: Age of Calamity - Wave 2: Guardian of Remembrance | 184510 | [184510-hyrule-warriors-age-of-calamity-wave-2-guardian-of-remembrance.json](./184510-hyrule-warriors-age-of-calamity-wave-2-guardian-of-remembrance.json) |
 | Hyrule Warriors: Age of Calamity + Expansion Pass Bundle | 293728 | [293728-hyrule-warriors-age-of-calamity-expansion-pass-bundle.json](./293728-hyrule-warriors-age-of-calamity-expansion-pass-bundle.json) |
 | Hyrule Warriors: Legends | 11193 | [11193-hyrule-warriors-legends.json](./11193-hyrule-warriors-legends.json) |
 | Hyrule Warriors: Master Quest Pack | 23825 | [23825-hyrule-warriors-master-quest-pack.json](./23825-hyrule-warriors-master-quest-pack.json) |
