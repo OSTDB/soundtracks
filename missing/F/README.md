@@ -3387,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frido | 232456 | [232456-frido.json](./232456-frido.json) |
 | Fried Rice Apocalypse | 338727 | [338727-fried-rice-apocalypse.json](./338727-fried-rice-apocalypse.json) |
 | Frieda is Changing | 357272 | [357272-frieda-is-changing.json](./357272-frieda-is-changing.json) |
+| Friendly | 202253 | [202253-friendly.json](./202253-friendly.json) |
 | Friendly Facade | 232528 | [232528-friendly-facade.json](./232528-friendly-facade.json) |
 | Friendly Fire: Arena | 158653 | [158653-friendly-fire-arena.json](./158653-friendly-fire-arena.json) |
 | Friendly Premonition | 242811 | [242811-friendly-premonition.json](./242811-friendly-premonition.json) |
@@ -3826,6 +3827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FunnyJoy: Brain on Line | 95999 | [95999-funnyjoy-brain-on-line.json](./95999-funnyjoy-brain-on-line.json) |
 | Funorbit | 415857 | [415857-funorbit.json](./415857-funorbit.json) |
 | FunPack: Mums | 177052 | [177052-funpack-mums.json](./177052-funpack-mums.json) |
+| FunPlay 20-in-1 | 202264 | [202264-funplay-20-in-1.json](./202264-funplay-20-in-1.json) |
 | Funset Studios | 269018 | [269018-funset-studios.json](./269018-funset-studios.json) |
 | Funtagy of Doskebe | 82907 | [82907-funtagy-of-doskebe.json](./82907-funtagy-of-doskebe.json) |
 | Funtime Furby | 217958 | [217958-funtime-furby.json](./217958-funtime-furby.json) |
