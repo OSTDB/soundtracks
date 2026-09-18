@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
 | RadioWave | 301273 | [301273-radiowave.json](./301273-radiowave.json) |
 | Radirgy 2 | 254477 | [254477-radirgy-2.json](./254477-radirgy-2.json) |
+| Radirgy De Gojaru! | 222407 | [222407-radirgy-de-gojaru.json](./222407-radirgy-de-gojaru.json) |
 | Radirgy Noa Massive | 7152 | [7152-radirgy-noa-massive.json](./7152-radirgy-noa-massive.json) |
 | Radish Kid Ascension | 180824 | [180824-radish-kid-ascension.json](./180824-radish-kid-ascension.json) |
 | Radium Lux | 349392 | [349392-radium-lux.json](./349392-radium-lux.json) |
@@ -3309,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuinsCity_VR | 30930 | [30930-ruinscity-vr.json](./30930-ruinscity-vr.json) |
 | Ruinsmagus: Complete | 265713 | [265713-ruinsmagus-complete.json](./265713-ruinsmagus-complete.json) |
 | Ruinsmagus: The Warrior and the Tailor | 265762 | [265762-ruinsmagus-the-warrior-and-the-tailor.json](./265762-ruinsmagus-the-warrior-and-the-tailor.json) |
+| Ruku's Heart Balloon | 222400 | [222400-rukus-heart-balloon.json](./222400-rukus-heart-balloon.json) |
 | Rule No. 2 | 199562 | [199562-rule-no-2.json](./199562-rule-no-2.json) |
 | Rule the Waves | 59943 | [59943-rule-the-waves.json](./59943-rule-the-waves.json) |
 | Rule the Waves 3: Expanded Battles | 324928 | [324928-rule-the-waves-3-expanded-battles.json](./324928-rule-the-waves-3-expanded-battles.json) |
@@ -3344,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Away SkyDancer | 307726 | [307726-run-away-skydancer.json](./307726-run-away-skydancer.json) |
 | Run Away With Me, Empress! | 225270 | [225270-run-away-with-me-empress.json](./225270-run-away-with-me-empress.json) |
 | Run Bird Run | 344926 | [344926-run-bird-run.json](./344926-run-bird-run.json) |
+| Run Box Run | 222399 | [222399-run-box-run.json](./222399-run-box-run.json) |
 | Run Buddy | 274211 | [274211-run-buddy.json](./274211-run-buddy.json) |
 | Run Chicken, Run! | 370795 | [370795-run-chicken-run.json](./370795-run-chicken-run.json) |
 | Run Crabby Run | 54462 | [54462-run-crabby-run.json](./54462-run-crabby-run.json) |
