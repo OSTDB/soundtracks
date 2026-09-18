@@ -5896,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Grade Learning Games | 86903 | [86903-third-grade-learning-games.json](./86903-third-grade-learning-games.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
 | Third Wild | 208600 | [208600-third-wild.json](./208600-third-wild.json) |
+| ThirdMiracle | 197764 | [197764-thirdmiracle.json](./197764-thirdmiracle.json) |
 | Thirst | 31836 | [31836-thirst.json](./31836-thirst.json) |
 | Thirsty | 310941 | [310941-thirsty.json](./310941-thirsty.json) |
 | Thirsty Suitors | 185240 | [185240-thirsty-suitors.json](./185240-thirsty-suitors.json) |
@@ -8693,6 +8694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenchblocks | 417575 | [417575-trenchblocks.json](./417575-trenchblocks.json) |
 | Trenches 2 | 23926 | [23926-trenches-2.json](./23926-trenches-2.json) |
 | Trenches Generals | 85521 | [85521-trenches-generals.json](./85521-trenches-generals.json) |
+| Trenches II | 197763 | [197763-trenches-ii.json](./197763-trenches-ii.json) |
 | TrenchesWIP | 120957 | [120957-trencheswip.json](./120957-trencheswip.json) |
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
 | Tres | 319800 | [319800-tres.json](./319800-tres.json) |
@@ -9035,6 +9037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Swing Golf | 20493 | [20493-true-swing-golf.json](./20493-true-swing-golf.json) |
 | True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
+| Trulon | 197766 | [197766-trulon.json](./197766-trulon.json) |
 | Trump and Virus | 393451 | [393451-trump-and-virus.json](./393451-trump-and-virus.json) |
 | Trump Castle: The Ultimate Casino Gambling Simulation | 78666 | [78666-trump-castle-the-ultimate-casino-gambling-simulation.json](./78666-trump-castle-the-ultimate-casino-gambling-simulation.json) |
 | Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi | 82136 | [82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json](./82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json) |
