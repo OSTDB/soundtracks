@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is My Son? | 390143 | [390143-where-is-my-son.json](./390143-where-is-my-son.json) |
 | Where is the Beach | 114354 | [114354-where-is-the-beach.json](./114354-where-is-the-beach.json) |
 | Where is the Meaning? | 161396 | [161396-where-is-the-meaning.json](./161396-where-is-the-meaning.json) |
+| Where It All Began | 198361 | [198361-where-it-all-began.json](./198361-where-it-all-began.json) |
 | Where Jellyfish | 279091 | [279091-where-jellyfish.json](./279091-where-jellyfish.json) |
 | Where Moss Grows | 397060 | [397060-where-moss-grows.json](./397060-where-moss-grows.json) |
 | Where Rabbits | 279089 | [279089-where-rabbits.json](./279089-where-rabbits.json) |
