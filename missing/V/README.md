@@ -347,8 +347,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vega Conflict: Paragon Battleship Pack | 168308 | [168308-vega-conflict-paragon-battleship-pack.json](./168308-vega-conflict-paragon-battleship-pack.json) |
 | Vega Conflict: Punisher Cruiser Pack | 168314 | [168314-vega-conflict-punisher-cruiser-pack.json](./168314-vega-conflict-punisher-cruiser-pack.json) |
 | Vegas Casino & Slots: Slottist | 364505 | [364505-vegas-casino-and-slots-slottist.json](./364505-vegas-casino-and-slots-slottist.json) |
+| Vegas Fever: High Roller Edition | 206203 | [206203-vegas-fever-high-roller-edition.json](./206203-vegas-fever-high-roller-edition.json) |
 | Vegas Games | 282708 | [282708-vegas-games.json](./282708-vegas-games.json) |
 | Vegas Games 2000 | 46639 | [46639-vegas-games-2000.json](./46639-vegas-games-2000.json) |
+| Vegas Games: Midnight Madness | 206204 | [206204-vegas-games-midnight-madness.json](./206204-vegas-games-midnight-madness.json) |
 | Vegas Infinite | 277301 | [277301-vegas-infinite.json](./277301-vegas-infinite.json) |
 | Vegas Stakes | 38410 | [38410-vegas-stakes.json](./38410-vegas-stakes.json) |
 | Vegas Stakes | 85469 | [85469-vegas-stakes.json](./85469-vegas-stakes.json) |
