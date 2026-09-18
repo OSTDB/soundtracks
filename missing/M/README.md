@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of the Universe: The Power of He-Man | 5683 | [5683-masters-of-the-universe-the-power-of-he-man.json](./5683-masters-of-the-universe-the-power-of-he-man.json) |
 | Masters: Harukanaru Augusta 3 | 268542 | [268542-masters-harukanaru-augusta-3.json](./268542-masters-harukanaru-augusta-3.json) |
 | Masterspace | 36420 | [36420-masterspace.json](./36420-masterspace.json) |
+| Mastodonte | 189062 | [189062-mastodonte.json](./189062-mastodonte.json) |
 | Mat Hoffman's Pro BMX | 3994 | [3994-mat-hoffmans-pro-bmx.json](./3994-mat-hoffmans-pro-bmx.json) |
 | Mata Hari | 27853 | [27853-mata-hari.json](./27853-mata-hari.json) |
 | Mata Hari | 74309 | [74309-mata-hari.json](./74309-mata-hari.json) |
@@ -4223,6 +4224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monday Meltdown | 260159 | [260159-monday-meltdown.json](./260159-monday-meltdown.json) |
 | Monday Meow | 388762 | [388762-monday-meow.json](./388762-monday-meow.json) |
 | Mondays: A Sisyphean Typing Game | 209491 | [209491-mondays-a-sisyphean-typing-game.json](./209491-mondays-a-sisyphean-typing-game.json) |
+| Mondealy | 189076 | [189076-mondealy.json](./189076-mondealy.json) |
 | Mondo Agency | 72707 | [72707-mondo-agency.json](./72707-mondo-agency.json) |
 | Mondo Pong | 40759 | [40759-mondo-pong.json](./40759-mondo-pong.json) |
 | Monet - The Mystery of the Orangery | 129764 | [129764-monet-the-mystery-of-the-orangery.json](./129764-monet-the-mystery-of-the-orangery.json) |
@@ -5608,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cannibal Family | 404918 | [404918-my-cannibal-family.json](./404918-my-cannibal-family.json) |
 | My Car My Life | 373542 | [373542-my-car-my-life.json](./373542-my-car-my-life.json) |
 | My Car Salon Pro | 323166 | [323166-my-car-salon-pro.json](./323166-my-car-salon-pro.json) |
+| My Cashy Side Job at Lost&Found in the Subway of Million-Person City | 189060 | [189060-my-cashy-side-job-at-lost-and-found-in-the-subway-of-million-person-city.json](./189060-my-cashy-side-job-at-lost-and-found-in-the-subway-of-million-person-city.json) |
 | My Cat | 222880 | [222880-my-cat.json](./222880-my-cat.json) |
 | My Cat: Virtual Pet Simulator | 331358 | [331358-my-cat-virtual-pet-simulator.json](./331358-my-cat-virtual-pet-simulator.json) |
 | My Catgirl Maid Thinks She Runs the Place | 152298 | [152298-my-catgirl-maid-thinks-she-runs-the-place.json](./152298-my-catgirl-maid-thinks-she-runs-the-place.json) |
