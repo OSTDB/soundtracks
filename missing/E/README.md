@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Warrior + Molecule Man | 92999 | [92999-energy-warrior-molecule-man.json](./92999-energy-warrior-molecule-man.json) |
 | ENF Novels: Dress Code | 286526 | [286526-enf-novels-dress-code.json](./286526-enf-novels-dress-code.json) |
 | Enga Extreme Battle Race | 172104 | [172104-enga-extreme-battle-race.json](./172104-enga-extreme-battle-race.json) |
+| Engage Princess: Nemureru Himegimi to Yume no Mahoutsukai | 205618 | [205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json](./205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json) |
 | Engare | 34110 | [34110-engare.json](./34110-engare.json) |
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
 | Engine Room | 47266 | [47266-engine-room.json](./47266-engine-room.json) |
@@ -1300,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epstein 2 | 315091 | [315091-epstein-2.json](./315091-epstein-2.json) |
 | EQ Survival Manual | 406819 | [406819-eq-survival-manual.json](./406819-eq-survival-manual.json) |
 | Equestria | 128563 | [128563-equestria.json](./128563-equestria.json) |
+| EquestriaBound: Return of the Nightmare | 205642 | [205642-equestriabound-return-of-the-nightmare.json](./205642-equestriabound-return-of-the-nightmare.json) |
 | Equilibrium | 170999 | [170999-equilibrium.json](./170999-equilibrium.json) |
 | Equilibrium 3D | 102212 | [102212-equilibrium-3d.json](./102212-equilibrium-3d.json) |
 | Equilibrium Ocean | 107161 | [107161-equilibrium-ocean.json](./107161-equilibrium-ocean.json) |
