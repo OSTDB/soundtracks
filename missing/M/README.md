@@ -1485,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Chalice | 15861 | [15861-massive-chalice.json](./15861-massive-chalice.json) |
 | Massive Decks | 146833 | [146833-massive-decks.json](./146833-massive-decks.json) |
 | Massive Defense | 239740 | [239740-massive-defense.json](./239740-massive-defense.json) |
+| Master Archer | 185544 | [185544-master-archer.json](./185544-master-archer.json) |
 | Master Arena | 97280 | [97280-master-arena.json](./97280-master-arena.json) |
 | Master Bladesmith | 127219 | [127219-master-bladesmith.json](./127219-master-bladesmith.json) |
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
@@ -5024,6 +5025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motomancer: Auto Battle | 181939 | [181939-motomancer-auto-battle.json](./181939-motomancer-auto-battle.json) |
 | Motor Duels: Outcast | 55841 | [55841-motor-duels-outcast.json](./55841-motor-duels-outcast.json) |
 | Motor Mayhem | 43305 | [43305-motor-mayhem.json](./43305-motor-mayhem.json) |
+| Motor Money Crash! | 185552 | [185552-motor-money-crash.json](./185552-motor-money-crash.json) |
 | Motor Rally | 246387 | [246387-motor-rally.json](./246387-motor-rally.json) |
 | Motor Storm | 247039 | [247039-motor-storm.json](./247039-motor-storm.json) |
 | Motor Toon Grand Prix | 43887 | [43887-motor-toon-grand-prix.json](./43887-motor-toon-grand-prix.json) |
