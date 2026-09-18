@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your wife | 166731 | [166731-your-wife.json](./166731-your-wife.json) |
 | Yours Truly | 199134 | [199134-yours-truly.json](./199134-yours-truly.json) |
 | YourToy and Dying: Reborn Horror Game Bundle | 247581 | [247581-yourtoy-and-dying-reborn-horror-game-bundle.json](./247581-yourtoy-and-dying-reborn-horror-game-bundle.json) |
+| Yousei Rasutaru-chan to no hibi | 223009 | [223009-yousei-rasutaru-chan-to-no-hibi.json](./223009-yousei-rasutaru-chan-to-no-hibi.json) |
 | Youso Warriors | 166208 | [166208-youso-warriors.json](./166208-youso-warriors.json) |
 | Youth Feather | 121705 | [121705-youth-feather.json](./121705-youth-feather.json) |
 | Youthink? | 102775 | [102775-youthink.json](./102775-youthink.json) |
@@ -533,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume-san | 229710 | [229710-yume-san.json](./229710-yume-san.json) |
 | Yume, Shosen Mousou | 150172 | [150172-yume-shosen-mousou.json](./150172-yume-shosen-mousou.json) |
 | Yume: Special Edition | 195776 | [195776-yume-special-edition.json](./195776-yume-special-edition.json) |
+| Yumemi Melancholy | 222994 | [222994-yumemi-melancholy.json](./222994-yumemi-melancholy.json) |
 | YumeSD | 202345 | [202345-yumesd.json](./202345-yumesd.json) |
 | Yumeutsutsu Re:Master | 109602 | [109602-yumeutsutsu-re-master.json](./109602-yumeutsutsu-re-master.json) |
 | Yummy Drink Factory | 295930 | [295930-yummy-drink-factory.json](./295930-yummy-drink-factory.json) |
