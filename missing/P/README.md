@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panoptia | 270959 | [270959-panoptia.json](./270959-panoptia.json) |
 | Panopticon | 371242 | [371242-panopticon.json](./371242-panopticon.json) |
 | Panpu-ja | 254778 | [254778-panpu-ja.json](./254778-panpu-ja.json) |
+| Panspermia: Horror Myson Mansion | 232526 | [232526-panspermia-horror-myson-mansion.json](./232526-panspermia-horror-myson-mansion.json) |
 | Panta Rhei | 204090 | [204090-panta-rhei.json](./204090-panta-rhei.json) |
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
 | Panther Family Sim | 101550 | [101550-panther-family-sim.json](./101550-panther-family-sim.json) |
@@ -1561,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Genic | 283709 | [283709-photo-genic.json](./283709-photo-genic.json) |
 | Photo Girls: First Session | 396435 | [396435-photo-girls-first-session.json](./396435-photo-girls-first-session.json) |
 | Photo Phantasy | 47959 | [47959-photo-phantasy.json](./47959-photo-phantasy.json) |
+| Photo Quiz: 4 pics, 1 thing in common - what’s the word? | 232568 | [232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json](./232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
 | PhotoLoop | 361811 | [361811-photoloop.json](./361811-photoloop.json) |
 | Photomount | 384653 | [384653-photomount.json](./384653-photomount.json) |
@@ -3056,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Dungeon: Joker's Madness | 310747 | [310747-poker-dungeon-jokers-madness.json](./310747-poker-dungeon-jokers-madness.json) |
 | Poker for Dummies | 64983 | [64983-poker-for-dummies.json](./64983-poker-for-dummies.json) |
 | Poker Hands | 147993 | [147993-poker-hands.json](./147993-poker-hands.json) |
+| Poker Legends: Omaha Champions | 232560 | [232560-poker-legends-omaha-champions.json](./232560-poker-legends-omaha-champions.json) |
 | Poker Patience | 83481 | [83481-poker-patience.json](./83481-poker-patience.json) |
 | Poker Pop! | 209145 | [209145-poker-pop.json](./209145-poker-pop.json) |
 | Poker Pretty Girls Battle: Texas Hold'em | 34324 | [34324-poker-pretty-girls-battle-texas-holdem.json](./34324-poker-pretty-girls-battle-texas-holdem.json) |
