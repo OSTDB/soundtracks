@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gay's Life | 129939 | [129939-a-gays-life.json](./129939-a-gays-life.json) |
 | A Ghost Party | 307744 | [307744-a-ghost-party.json](./307744-a-ghost-party.json) |
+| A Gladiator's Hell | 200564 | [200564-a-gladiators-hell.json](./200564-a-gladiators-hell.json) |
 | A Goblin's Quest to Leave Her House and Get a Gyro for Lunch Because She Was Hungry | 338807 | [338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json](./338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json) |
 | A God-Like Backhand! | 29786 | [29786-a-god-like-backhand.json](./29786-a-god-like-backhand.json) |
 | A Good Librarian Like a Good Shepherd | 106621 | [106621-a-good-librarian-like-a-good-shepherd.json](./106621-a-good-librarian-like-a-good-shepherd.json) |
@@ -862,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Delivery | 285591 | [285591-air-delivery.json](./285591-air-delivery.json) |
 | Air Force Commander | 14231 | [14231-air-force-commander.json](./14231-air-force-commander.json) |
 | Air Force Missions | 320380 | [320380-air-force-missions.json](./320380-air-force-missions.json) |
+| Air Fryer Sim | 200554 | [200554-air-fryer-sim.json](./200554-air-fryer-sim.json) |
 | Air Fury | 251819 | [251819-air-fury.json](./251819-air-fury.json) |
 | Air Garden | 305380 | [305380-air-garden.json](./305380-air-garden.json) |
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
@@ -2893,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Dragon Spirit | 192950 | [192950-arcade-archives-dragon-spirit.json](./192950-arcade-archives-dragon-spirit.json) |
 | Arcade Archives: Earth Defense Force | 146843 | [146843-arcade-archives-earth-defense-force.json](./146843-arcade-archives-earth-defense-force.json) |
 | Arcade Archives: Emeraldia | 298583 | [298583-arcade-archives-emeraldia.json](./298583-arcade-archives-emeraldia.json) |
+| Arcade Archives: Fighting Hawk | 200579 | [200579-arcade-archives-fighting-hawk.json](./200579-arcade-archives-fighting-hawk.json) |
 | Arcade Archives: Finalizer Super Transformation | 315828 | [315828-arcade-archives-finalizer-super-transformation.json](./315828-arcade-archives-finalizer-super-transformation.json) |
 | Arcade Archives: Flipull | 202800 | [202800-arcade-archives-flipull.json](./202800-arcade-archives-flipull.json) |
 | Arcade Archives: Galactic Warriors | 378778 | [378778-arcade-archives-galactic-warriors.json](./378778-arcade-archives-galactic-warriors.json) |
@@ -4208,7 +4211,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
 | Attack on Titan 2: Treasure Box - Limited Edition | 212312 | [212312-attack-on-titan-2-treasure-box-limited-edition.json](./212312-attack-on-titan-2-treasure-box-limited-edition.json) |
 | Attack on Titan Tribute Game 2 | 316810 | [316810-attack-on-titan-tribute-game-2.json](./316810-attack-on-titan-tribute-game-2.json) |
+| Attack on Titan: A Choice with No Regrets | 200562 | [200562-attack-on-titan-a-choice-with-no-regrets.json](./200562-attack-on-titan-a-choice-with-no-regrets.json) |
 | Attack on Titan: Assault | 105884 | [105884-attack-on-titan-assault.json](./105884-attack-on-titan-assault.json) |
+| Attack on Titan: Burning Bright in the Forests of the Night | 200576 | [200576-attack-on-titan-burning-bright-in-the-forests-of-the-night.json](./200576-attack-on-titan-burning-bright-in-the-forests-of-the-night.json) |
+| Attack on Titan: Lost in the Cruel World | 200586 | [200586-attack-on-titan-lost-in-the-cruel-world.json](./200586-attack-on-titan-lost-in-the-cruel-world.json) |
+| Attack on Titan: Wall Sina, Goodbye | 200587 | [200587-attack-on-titan-wall-sina-goodbye.json](./200587-attack-on-titan-wall-sina-goodbye.json) |
 | Attack Only | 410224 | [410224-attack-only.json](./410224-attack-only.json) |
 | Attack Pla Rail | 123584 | [123584-attack-pla-rail.json](./123584-attack-pla-rail.json) |
 | Attack Tactic | 226224 | [226224-attack-tactic.json](./226224-attack-tactic.json) |
