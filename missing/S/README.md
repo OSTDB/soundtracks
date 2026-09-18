@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salad Bar Tycoon | 147924 | [147924-salad-bar-tycoon.json](./147924-salad-bar-tycoon.json) |
 | Salad Bar Tycoon: Expansion Pack 1 | 237972 | [237972-salad-bar-tycoon-expansion-pack-1.json](./237972-salad-bar-tycoon-expansion-pack-1.json) |
 | Salad Bar Tycoon: Expansion Pack 2 | 237973 | [237973-salad-bar-tycoon-expansion-pack-2.json](./237973-salad-bar-tycoon-expansion-pack-2.json) |
+| Salad Bar Tycoon: Extended Edition | 201143 | [201143-salad-bar-tycoon-extended-edition.json](./201143-salad-bar-tycoon-extended-edition.json) |
 | Salamander | 192397 | [192397-salamander.json](./192397-salamander.json) |
 | Salamander | 261902 | [261902-salamander.json](./261902-salamander.json) |
 | Salamander | 261903 | [261903-salamander.json](./261903-salamander.json) |
@@ -825,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger T.O.M | 365179 | [365179-scavenger-t-o-m.json](./365179-scavenger-t-o-m.json) |
 | Scavenger VR | 277837 | [277837-scavenger-vr.json](./277837-scavenger-vr.json) |
 | Scavenger Zero | 334184 | [334184-scavenger-zero.json](./334184-scavenger-zero.json) |
+| Scavenger's Deep | 201132 | [201132-scavengers-deep.json](./201132-scavengers-deep.json) |
 | Scavengers | 91041 | [91041-scavengers.json](./91041-scavengers.json) |
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
 | Scelestum | 175922 | [175922-scelestum.json](./175922-scelestum.json) |
@@ -2557,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmadow | 34594 | [34594-shmadow.json](./34594-shmadow.json) |
 | Shmucker Casino 2: Purple Boog's Revenge | 270371 | [270371-shmucker-casino-2-purple-boogs-revenge.json](./270371-shmucker-casino-2-purple-boogs-revenge.json) |
 | Shmup Bundle | 268476 | [268476-shmup-bundle.json](./268476-shmup-bundle.json) |
+| Shmup Mania | 201130 | [201130-shmup-mania.json](./201130-shmup-mania.json) |
 | Shmup! | 408773 | [408773-shmup.json](./408773-shmup.json) |
 | Shnipers | 56484 | [56484-shnipers.json](./56484-shnipers.json) |
 | Shocked | 213458 | [213458-shocked.json](./213458-shocked.json) |
@@ -3197,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimTown | 20194 | [20194-simtown.json](./20194-simtown.json) |
 | Simulacra 2 | 122134 | [122134-simulacra-2.json](./122134-simulacra-2.json) |
 | Simulacro | 344363 | [344363-simulacro.json](./344363-simulacro.json) |
+| Simulacrum | 201125 | [201125-simulacrum.json](./201125-simulacrum.json) |
 | Simulador Profesional de Fútbol | 70334 | [70334-simulador-profesional-de-futbol.json](./70334-simulador-profesional-de-futbol.json) |
 | SimuLadron | 381630 | [381630-simuladron.json](./381630-simuladron.json) |
 | Simulassword | 226440 | [226440-simulassword.json](./226440-simulassword.json) |
@@ -9074,6 +9078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Winter Puzzles | 155611 | [155611-super-jigsaw-puzzle-generations-winter-puzzles.json](./155611-super-jigsaw-puzzle-generations-winter-puzzles.json) |
 | Super Jigsaw Puzzle: Monuments | 103792 | [103792-super-jigsaw-puzzle-monuments.json](./103792-super-jigsaw-puzzle-monuments.json) |
 | Super Jump Guys | 267683 | [267683-super-jump-guys.json](./267683-super-jump-guys.json) |
+| Super Karoshi | 201134 | [201134-super-karoshi.json](./201134-super-karoshi.json) |
 | Super Kart Racer | 267954 | [267954-super-kart-racer.json](./267954-super-kart-racer.json) |
 | Super Karts | 50614 | [50614-super-karts.json](./50614-super-karts.json) |
 | Super Kenney | 209683 | [209683-super-kenney.json](./209683-super-kenney.json) |
@@ -10015,6 +10020,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Thing | 365685 | [365685-swamp-thing.json](./365685-swamp-thing.json) |
 | Swamped! | 309525 | [309525-swamped.json](./309525-swamped.json) |
 | Swampify | 305753 | [305753-swampify.json](./305753-swampify.json) |
+| Swampstar | 201177 | [201177-swampstar.json](./201177-swampstar.json) |
+| Swampstar | 201178 | [201178-swampstar.json](./201178-swampstar.json) |
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
 | Swap the Matrix | 54417 | [54417-swap-the-matrix.json](./54417-swap-the-matrix.json) |
 | Swap: Mobile Edition | 250439 | [250439-swap-mobile-edition.json](./250439-swap-mobile-edition.json) |
