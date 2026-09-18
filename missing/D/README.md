@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of Cardom | 257959 | [257959-defenders-of-cardom.json](./257959-defenders-of-cardom.json) |
 | Defenders of Dynatron City | 48066 | [48066-defenders-of-dynatron-city.json](./48066-defenders-of-dynatron-city.json) |
 | Defenders of Ekron: Definitive Edition | 106624 | [106624-defenders-of-ekron-definitive-edition.json](./106624-defenders-of-ekron-definitive-edition.json) |
+| Defenders of Kingdom | 197243 | [197243-defenders-of-kingdom.json](./197243-defenders-of-kingdom.json) |
 | Defenders of Kronos | 257972 | [257972-defenders-of-kronos.json](./257972-defenders-of-kronos.json) |
 | Defenders of Oasis GG2SMS | 369595 | [369595-defenders-of-oasis-gg2sms.json](./369595-defenders-of-oasis-gg2sms.json) |
 | Defenders of the Omniverse | 255385 | [255385-defenders-of-the-omniverse.json](./255385-defenders-of-the-omniverse.json) |
@@ -3727,6 +3728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dots Pop : Sexy Hentai Girls | 113012 | [113012-dots-pop-sexy-hentai-girls.json](./113012-dots-pop-sexy-hentai-girls.json) |
 | DotSec | 329579 | [329579-dotsec.json](./329579-dotsec.json) |
 | Dotsubo-chan | 166146 | [166146-dotsubo-chan.json](./166146-dotsubo-chan.json) |
+| Dottania | 197232 | [197232-dottania.json](./197232-dottania.json) |
 | Dottie Dreads Nought | 313475 | [313475-dottie-dreads-nought.json](./313475-dottie-dreads-nought.json) |
 | Dotty | 265692 | [265692-dotty.json](./265692-dotty.json) |
 | Dotzz | 26536 | [26536-dotzz.json](./26536-dotzz.json) |
@@ -4260,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
 | Draw No More | 177523 | [177523-draw-no-more.json](./177523-draw-no-more.json) |
 | Draw Puzzle | 46479 | [46479-draw-puzzle.json](./46479-draw-puzzle.json) |
+| Draw Rider 2 Plus | 197236 | [197236-draw-rider-2-plus.json](./197236-draw-rider-2-plus.json) |
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
 | Draw Saber | 206718 | [206718-draw-saber.json](./206718-draw-saber.json) |
 | Draw Something 2 | 38913 | [38913-draw-something-2.json](./38913-draw-something-2.json) |
@@ -4387,6 +4390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Team Supreme | 328045 | [328045-dream-team-supreme.json](./328045-dream-team-supreme.json) |
 | Dream Time | 152928 | [152928-dream-time.json](./152928-dream-time.json) |
 | Dream Track Nation | 92482 | [92482-dream-track-nation.json](./92482-dream-track-nation.json) |
+| Dream Travel Agency! | 197244 | [197244-dream-travel-agency.json](./197244-dream-travel-agency.json) |
 | Dream TV | 93573 | [93573-dream-tv.json](./93573-dream-tv.json) |
 | Dream Undercity | 248065 | [248065-dream-undercity.json](./248065-dream-undercity.json) |
 | Dream Univrse | 30784 | [30784-dream-univrse.json](./30784-dream-univrse.json) |
