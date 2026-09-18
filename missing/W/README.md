@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warshift 2 | 388957 | [388957-warshift-2.json](./388957-warshift-2.json) |
 | Warship | 377150 | [377150-warship.json](./377150-warship.json) |
 | Warship Battle Commander | 356715 | [356715-warship-battle-commander.json](./356715-warship-battle-commander.json) |
+| Warships Final Battle | 230910 | [230910-warships-final-battle.json](./230910-warships-final-battle.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
 | Warsino | 232539 | [232539-warsino.json](./232539-warsino.json) |
 | Warspace | 242065 | [242065-warspace.json](./242065-warspace.json) |
@@ -2247,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Modern Jumpstart | 293773 | [293773-world-of-tanks-modern-jumpstart.json](./293773-world-of-tanks-modern-jumpstart.json) |
 | World of Tanks: Roll Out Collector's Edition | 115673 | [115673-world-of-tanks-roll-out-collectors-edition.json](./115673-world-of-tanks-roll-out-collectors-edition.json) |
 | World of Tanks: Snatch Gift Pack | 283862 | [283862-world-of-tanks-snatch-gift-pack.json](./283862-world-of-tanks-snatch-gift-pack.json) |
+| World of Titans | 230933 | [230933-world-of-titans.json](./230933-world-of-titans.json) |
 | World of Vasnar | 356190 | [356190-world-of-vasnar.json](./356190-world-of-vasnar.json) |
 | World of Warcraft Classic: Season of Discovery | 275175 | [275175-world-of-warcraft-classic-season-of-discovery.json](./275175-world-of-warcraft-classic-season-of-discovery.json) |
 | World of Warcraft: Collector's Edition | 136994 | [136994-world-of-warcraft-collectors-edition.json](./136994-world-of-warcraft-collectors-edition.json) |
