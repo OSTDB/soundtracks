@@ -1895,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betrayer: Curse of the Spine | 168381 | [168381-betrayer-curse-of-the-spine.json](./168381-betrayer-curse-of-the-spine.json) |
 | Betroyal | 245839 | [245839-betroyal.json](./245839-betroyal.json) |
 | Bets on Pets | 278170 | [278170-bets-on-pets.json](./278170-bets-on-pets.json) |
+| Better Call Saul | 221831 | [221831-better-call-saul.json](./221831-better-call-saul.json) |
 | Better Days | 341862 | [341862-better-days.json](./341862-better-days.json) |
 | Better Late Than Dead | 16291 | [16291-better-late-than-dead.json](./16291-better-late-than-dead.json) |
 | Better Me Tree | 238764 | [238764-better-me-tree.json](./238764-better-me-tree.json) |
@@ -2529,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Sign | 145592 | [145592-black-sign.json](./145592-black-sign.json) |
 | Black Smith 3 | 150641 | [150641-black-smith-3.json](./150641-black-smith-3.json) |
 | Black Smith 4 | 265774 | [265774-black-smith-4.json](./265774-black-smith-4.json) |
+| Black Snow | 221849 | [221849-black-snow.json](./221849-black-snow.json) |
 | Black Spire | 380005 | [380005-black-spire.json](./380005-black-spire.json) |
 | Black Star | 319571 | [319571-black-star.json](./319571-black-star.json) |
 | Black Stone: Magic & Steel | 5750 | [5750-black-stone-magic-and-steel.json](./5750-black-stone-magic-and-steel.json) |
@@ -2581,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacklist Mafia | 293098 | [293098-blacklist-mafia.json](./293098-blacklist-mafia.json) |
 | Blacklode | 416674 | [416674-blacklode.json](./416674-blacklode.json) |
 | Blackout | 162428 | [162428-blackout.json](./162428-blackout.json) |
+| Blackout | 221817 | [221817-blackout.json](./221817-blackout.json) |
 | Blackout Memphis | 253414 | [253414-blackout-memphis.json](./253414-blackout-memphis.json) |
 | Blackout: Sightless Home | 227257 | [227257-blackout-sightless-home.json](./227257-blackout-sightless-home.json) |
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
