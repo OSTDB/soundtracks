@@ -1180,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs Coming TD | 230913 | [230913-orcs-coming-td.json](./230913-orcs-coming-td.json) |
 | Orcs Must Die! | 2355 | [2355-orcs-must-die.json](./2355-orcs-must-die.json) |
 | Orcs Must Die! 2 | 8372 | [8372-orcs-must-die-2.json](./8372-orcs-must-die-2.json) |
+| Orcs Must Die! 3 Bundle | 196681 | [196681-orcs-must-die-3-bundle.json](./196681-orcs-must-die-3-bundle.json) |
 | Orcs Must Die! Unchained | 9637 | [9637-orcs-must-die-unchained.json](./9637-orcs-must-die-unchained.json) |
 | Ordeeer! | 181347 | [181347-ordeeer.json](./181347-ordeeer.json) |
 | Orden des Drachen | 314294 | [314294-orden-des-drachen.json](./314294-orden-des-drachen.json) |
