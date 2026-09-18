@@ -1312,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's Fat Lou? | 205805 | [205805-whos-fat-lou.json](./205805-whos-fat-lou.json) |
 | Who's Next? | 293613 | [293613-whos-next.json](./293613-whos-next.json) |
 | Who's the Boss | 297803 | [297803-whos-the-boss.json](./297803-whos-the-boss.json) |
+| Who's the Celeb? | 233071 | [233071-whos-the-celeb.json](./233071-whos-the-celeb.json) |
 | Who's the Traitor | 273655 | [273655-whos-the-traitor.json](./273655-whos-the-traitor.json) |
 | Who's Who 2.0 | 336393 | [336393-whos-who-2-0.json](./336393-whos-who-2-0.json) |
 | Wholesome Slaughter | 143014 | [143014-wholesome-slaughter.json](./143014-wholesome-slaughter.json) |
@@ -1404,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Ride | 12973 | [12973-wild-ride.json](./12973-wild-ride.json) |
 | Wild Rides: WaterPark Factory | 205807 | [205807-wild-rides-waterpark-factory.json](./205807-wild-rides-waterpark-factory.json) |
 | Wild River Run | 230311 | [230311-wild-river-run.json](./230311-wild-river-run.json) |
+| Wild Roads | 233070 | [233070-wild-roads.json](./233070-wild-roads.json) |
 | Wild Romance | 32335 | [32335-wild-romance.json](./32335-wild-romance.json) |
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
 | Wild Seasons | 273383 | [273383-wild-seasons.json](./273383-wild-seasons.json) |
@@ -1465,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilds of the Realmwalker | 356747 | [356747-wilds-of-the-realmwalker.json](./356747-wilds-of-the-realmwalker.json) |
 | Wilds.io | 79877 | [79877-wilds-io.json](./79877-wilds-io.json) |
 | Wildseed | 356170 | [356170-wildseed.json](./356170-wildseed.json) |
+| Wildshade Fantasy Horse Races | 233069 | [233069-wildshade-fantasy-horse-races.json](./233069-wildshade-fantasy-horse-races.json) |
 | Wildwood | 279754 | [279754-wildwood.json](./279754-wildwood.json) |
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
 | Will | 333636 | [333636-will.json](./333636-will.json) |
