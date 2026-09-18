@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gray platformer | 142420 | [142420-gray-platformer.json](./142420-gray-platformer.json) |
 | Gray Zone Warfare | 275070 | [275070-gray-zone-warfare.json](./275070-gray-zone-warfare.json) |
 | Grayscale | 217502 | [217502-grayscale.json](./217502-grayscale.json) |
+| Grayscale | 225742 | [225742-grayscale.json](./225742-grayscale.json) |
 | Graytail | 292298 | [292298-graytail.json](./292298-graytail.json) |
 | Graywalkers: Purgatory | 61562 | [61562-graywalkers-purgatory.json](./61562-graywalkers-purgatory.json) |
 | Graze Counter GM | 211893 | [211893-graze-counter-gm.json](./211893-graze-counter-gm.json) |
