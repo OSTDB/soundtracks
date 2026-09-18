@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Trouble 2 | 155647 | [155647-halloween-trouble-2.json](./155647-halloween-trouble-2.json) |
 | Halloween Trouble 6: Pumpkin Rampage | 371900 | [371900-halloween-trouble-6-pumpkin-rampage.json](./371900-halloween-trouble-6-pumpkin-rampage.json) |
 | Halloween Trouble 7: The Apprentice | 417521 | [417521-halloween-trouble-7-the-apprentice.json](./417521-halloween-trouble-7-the-apprentice.json) |
+| Halloween: October 31st Demake | 218575 | [218575-halloween-october-31st-demake.json](./218575-halloween-october-31st-demake.json) |
 | Halloween: The Twelve Cards Curse | 294436 | [294436-halloween-the-twelve-cards-curse.json](./294436-halloween-the-twelve-cards-curse.json) |
 | Halloweenies | 352304 | [352304-halloweenies.json](./352304-halloweenies.json) |
 | Hallrunner | 135866 | [135866-hallrunner.json](./135866-hallrunner.json) |
@@ -592,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrowing Gate: Ghost Dimension | 199104 | [199104-harrowing-gate-ghost-dimension.json](./199104-harrowing-gate-ghost-dimension.json) |
 | Harrowlight | 358869 | [358869-harrowlight.json](./358869-harrowlight.json) |
 | Harry | 247031 | [247031-harry.json](./247031-harry.json) |
+| Harry Buster | 218539 | [218539-harry-buster.json](./218539-harry-buster.json) |
 | Harry Potter and the Deathly Hallows: Part 1 - The Mobile Game | 266198 | [266198-harry-potter-and-the-deathly-hallows-part-1-the-mobile-game.json](./266198-harry-potter-and-the-deathly-hallows-part-1-the-mobile-game.json) |
 | Harry Potter and the Deathly Hallows: Part 2 - The Mobile Game | 266199 | [266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json](./266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json) |
 | Harry Potter and the Goblet of Fire: The Triwizard Tournament | 266502 | [266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json](./266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json) |
