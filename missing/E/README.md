@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emo Quest XD | 280879 | [280879-emo-quest-xd.json](./280879-emo-quest-xd.json) |
 | Emoceans | 180783 | [180783-emoceans.json](./180783-emoceans.json) |
 | Emogame 1: A Get-Up Kidnapping! | 358403 | [358403-emogame-1-a-get-up-kidnapping.json](./358403-emogame-1-a-get-up-kidnapping.json) |
+| Emoji 2 Words: Guess and Sort | 232053 | [232053-emoji-2-words-guess-and-sort.json](./232053-emoji-2-words-guess-and-sort.json) |
 | Emoji Arena | 125941 | [125941-emoji-arena.json](./125941-emoji-arena.json) |
 | Emoji Battlefield: Sky Massacre | 406798 | [406798-emoji-battlefield-sky-massacre.json](./406798-emoji-battlefield-sky-massacre.json) |
 | Emoji Battlefield: Summer Vacation | 399636 | [399636-emoji-battlefield-summer-vacation.json](./399636-emoji-battlefield-summer-vacation.json) |
