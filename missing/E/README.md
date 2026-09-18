@@ -1593,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESP Ra.De. | 91379 | [91379-esp-ra-de.json](./91379-esp-ra-de.json) |
 | ESP Ra.De. Psi | 56433 | [56433-esp-ra-de-psi.json](./56433-esp-ra-de-psi.json) |
 | Espace | 346090 | [346090-espace.json](./346090-espace.json) |
+| Espacio | 202252 | [202252-espacio.json](./202252-espacio.json) |
 | Espalion | 266487 | [266487-espalion.json](./266487-espalion.json) |
 | Esper | 23893 | [23893-esper.json](./23893-esper.json) |
 | Esper 2 | 18396 | [18396-esper-2.json](./18396-esper-2.json) |
@@ -1742,6 +1743,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Club Manager 2003-04 | 94706 | [94706-euro-club-manager-2003-04.json](./94706-euro-club-manager-2003-04.json) |
 | Euro Fishing: Urban Edition | 52979 | [52979-euro-fishing-urban-edition.json](./52979-euro-fishing-urban-edition.json) |
 | Euro Rally Champion | 43298 | [43298-euro-rally-champion.json](./43298-euro-rally-champion.json) |
+| Euro Train Simulator | 202231 | [202231-euro-train-simulator.json](./202231-euro-train-simulator.json) |
+| Euro Train Simulator 2 | 202232 | [202232-euro-train-simulator-2.json](./202232-euro-train-simulator-2.json) |
 | Euro Truck Driver Simulator | 276864 | [276864-euro-truck-driver-simulator.json](./276864-euro-truck-driver-simulator.json) |
 | Euro Truck Life & Logistics Simulators | 221709 | [221709-euro-truck-life-and-logistics-simulators.json](./221709-euro-truck-life-and-logistics-simulators.json) |
 | Euro Truck Simulator 2: DAF XD | 277585 | [277585-euro-truck-simulator-2-daf-xd.json](./277585-euro-truck-simulator-2-daf-xd.json) |
