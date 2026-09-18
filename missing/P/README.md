@@ -2401,6 +2401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Vesprax | 377706 | [377706-pixicharm-vesprax.json](./377706-pixicharm-vesprax.json) |
 | Pixie Pete | 25688 | [25688-pixie-pete.json](./25688-pixie-pete.json) |
 | Pixiel: Dreadwager | 277424 | [277424-pixiel-dreadwager.json](./277424-pixiel-dreadwager.json) |
+| Pixiescape | 217389 | [217389-pixiescape.json](./217389-pixiescape.json) |
 | PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
 | Pixsaw | 279112 | [279112-pixsaw.json](./279112-pixsaw.json) |
@@ -2423,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Delivery: Zebaxx | 276189 | [276189-pizza-delivery-zebaxx.json](./276189-pizza-delivery-zebaxx.json) |
 | Pizza Fun | 218551 | [218551-pizza-fun.json](./218551-pizza-fun.json) |
 | Pizza Hub | 311253 | [311253-pizza-hub.json](./311253-pizza-hub.json) |
+| Pizza Kidd | 217398 | [217398-pizza-kidd.json](./217398-pizza-kidd.json) |
 | Pizza Master VR | 131642 | [131642-pizza-master-vr.json](./131642-pizza-master-vr.json) |
 | Pizza Morgana | 70427 | [70427-pizza-morgana.json](./70427-pizza-morgana.json) |
 | Pizza Panic! | 393469 | [393469-pizza-panic.json](./393469-pizza-panic.json) |
@@ -3488,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porter's Cafe | 359411 | [359411-porters-cafe.json](./359411-porters-cafe.json) |
 | Porterminus | 265954 | [265954-porterminus.json](./265954-porterminus.json) |
 | Portile | 322360 | [322360-portile.json](./322360-portile.json) |
+| Portobugia | 217377 | [217377-portobugia.json](./217377-portobugia.json) |
 | Portrait | 329036 | [329036-portrait.json](./329036-portrait.json) |
 | Portrait of Ruin: Refined Edition | 233601 | [233601-portrait-of-ruin-refined-edition.json](./233601-portrait-of-ruin-refined-edition.json) |
 | Portrait Painter | 406709 | [406709-portrait-painter.json](./406709-portrait-painter.json) |
@@ -3744,6 +3747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prequel | 388971 | [388971-prequel.json](./388971-prequel.json) |
 | Preschool & Kindergarten 2 | 88279 | [88279-preschool-and-kindergarten-2.json](./88279-preschool-and-kindergarten-2.json) |
 | Preschool & Kindergarten Games | 88268 | [88268-preschool-and-kindergarten-games.json](./88268-preschool-and-kindergarten-games.json) |
+| Prescience | 217373 | [217373-prescience.json](./217373-prescience.json) |
 | Presence | 124269 | [124269-presence.json](./124269-presence.json) |
 | Presence | 170989 | [170989-presence.json](./170989-presence.json) |
 | Present For You | 64374 | [64374-present-for-you.json](./64374-present-for-you.json) |
