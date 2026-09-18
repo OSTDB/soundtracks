@@ -2870,7 +2870,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue-Like: Evolution | 282677 | [282677-rogue-like-evolution.json](./282677-rogue-like-evolution.json) |
 | Rogue's Realm: The Old God | 306360 | [306360-rogues-realm-the-old-god.json](./306360-rogues-realm-the-old-god.json) |
 | Rogue's Tale | 16875 | [16875-rogues-tale.json](./16875-rogues-tale.json) |
+| Rogue64 | 192316 | [192316-rogue64.json](./192316-rogue64.json) |
 | Rogueblock | 382770 | [382770-rogueblock.json](./382770-rogueblock.json) |
+| Roguebook: Deluxe Edition | 192301 | [192301-roguebook-deluxe-edition.json](./192301-roguebook-deluxe-edition.json) |
 | Rogueborne Fury | 293629 | [293629-rogueborne-fury.json](./293629-rogueborne-fury.json) |
 | Roguebots Arena | 350504 | [350504-roguebots-arena.json](./350504-roguebots-arena.json) |
 | Roguebound Pirates | 365092 | [365092-roguebound-pirates.json](./365092-roguebound-pirates.json) |
@@ -3341,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTA Run!! | 407451 | [407451-rta-run.json](./407451-rta-run.json) |
 | RTAG Rise | 88176 | [88176-rtag-rise.json](./88176-rtag-rise.json) |
 | RTE Worlds | 273127 | [273127-rte-worlds.json](./273127-rte-worlds.json) |
+| Rtisatto City Defender | 192290 | [192290-rtisatto-city-defender.json](./192290-rtisatto-city-defender.json) |
 | RTL Alarm für Cobra 11: Teil II | 144348 | [144348-rtl-alarm-fur-cobra-11-teil-ii.json](./144348-rtl-alarm-fur-cobra-11-teil-ii.json) |
 | RTL Ski Alpin 2006 | 69865 | [69865-rtl-ski-alpin-2006.json](./69865-rtl-ski-alpin-2006.json) |
 | RTL Skispringen 2003 | 94245 | [94245-rtl-skispringen-2003.json](./94245-rtl-skispringen-2003.json) |
