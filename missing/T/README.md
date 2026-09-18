@@ -9211,9 +9211,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinsen's Little Big Adventure Remastered 2 | 241953 | [241953-twinsens-little-big-adventure-remastered-2.json](./241953-twinsens-little-big-adventure-remastered-2.json) |
 | TwinWorld: Land of Vision | 72099 | [72099-twinworld-land-of-vision.json](./72099-twinworld-land-of-vision.json) |
 | Twist & Turn | 255960 | [255960-twist-and-turn.json](./255960-twist-and-turn.json) |
+| Twist 02: Baruklinting | 214627 | [214627-twist-02-baruklinting.json](./214627-twist-02-baruklinting.json) |
 | Twist It | 342730 | [342730-twist-it.json](./342730-twist-it.json) |
 | Twist Logic | 369555 | [369555-twist-logic.json](./369555-twist-logic.json) |
 | Twist of Destiny | 28926 | [28926-twist-of-destiny.json](./28926-twist-of-destiny.json) |
+| Twist: 01 Timun Mas | 214626 | [214626-twist-01-timun-mas.json](./214626-twist-01-timun-mas.json) |
+| Twist: Majapahit | 214625 | [214625-twist-majapahit.json](./214625-twist-majapahit.json) |
 | Twisted Citadel | 182526 | [182526-twisted-citadel.json](./182526-twisted-citadel.json) |
 | Twisted Draw | 199649 | [199649-twisted-draw.json](./199649-twisted-draw.json) |
 | Twisted Lands Trilogy | 53864 | [53864-twisted-lands-trilogy.json](./53864-twisted-lands-trilogy.json) |
