@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acceleration of Suguri: X-Edition HD | 30251 | [30251-acceleration-of-suguri-x-edition-hd.json](./30251-acceleration-of-suguri-x-edition-hd.json) |
 | Acceptable Losses | 379459 | [379459-acceptable-losses.json](./379459-acceptable-losses.json) |
 | Access Code Zero | 174269 | [174269-access-code-zero.json](./174269-access-code-zero.json) |
+| Accident | 202774 | [202774-accident.json](./202774-accident.json) |
 | Accidentally | 379460 | [379460-accidentally.json](./379460-accidentally.json) |
 | Acción Rescate | 259663 | [259663-accion-rescate.json](./259663-accion-rescate.json) |
 | Acción Rescate: América | 259665 | [259665-accion-rescate-america.json](./259665-accion-rescate-america.json) |
@@ -2881,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Earth Defense Force | 146843 | [146843-arcade-archives-earth-defense-force.json](./146843-arcade-archives-earth-defense-force.json) |
 | Arcade Archives: Emeraldia | 298583 | [298583-arcade-archives-emeraldia.json](./298583-arcade-archives-emeraldia.json) |
 | Arcade Archives: Finalizer Super Transformation | 315828 | [315828-arcade-archives-finalizer-super-transformation.json](./315828-arcade-archives-finalizer-super-transformation.json) |
+| Arcade Archives: Flipull | 202800 | [202800-arcade-archives-flipull.json](./202800-arcade-archives-flipull.json) |
 | Arcade Archives: Galactic Warriors | 378778 | [378778-arcade-archives-galactic-warriors.json](./378778-arcade-archives-galactic-warriors.json) |
 | Arcade Archives: Galaga | 230364 | [230364-arcade-archives-galaga.json](./230364-arcade-archives-galaga.json) |
 | Arcade Archives: Gemini Wing | 146343 | [146343-arcade-archives-gemini-wing.json](./146343-arcade-archives-gemini-wing.json) |
@@ -2931,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: The Return of Ishtar | 218552 | [218552-arcade-archives-the-return-of-ishtar.json](./218552-arcade-archives-the-return-of-ishtar.json) |
 | Arcade Archives: Thunder Ceptor II | 242052 | [242052-arcade-archives-thunder-ceptor-ii.json](./242052-arcade-archives-thunder-ceptor-ii.json) |
 | Arcade Archives: Touki Denshou Angel Eyes | 222390 | [222390-arcade-archives-touki-denshou-angel-eyes.json](./222390-arcade-archives-touki-denshou-angel-eyes.json) |
+| Arcade Archives: Trio the Punch | 202769 | [202769-arcade-archives-trio-the-punch.json](./202769-arcade-archives-trio-the-punch.json) |
 | Arcade Archives: Tutankham | 300732 | [300732-arcade-archives-tutankham.json](./300732-arcade-archives-tutankham.json) |
 | Arcade Archives: Vigilante | 121716 | [121716-arcade-archives-vigilante.json](./121716-arcade-archives-vigilante.json) |
 | Arcade Archives: Volfied | 294820 | [294820-arcade-archives-volfied.json](./294820-arcade-archives-volfied.json) |
@@ -2950,11 +2953,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Galaxy | 346596 | [346596-arcade-galaxy.json](./346596-arcade-galaxy.json) |
 | Arcade Game Series: Pac-Man | 68344 | [68344-arcade-game-series-pac-man.json](./68344-arcade-game-series-pac-man.json) |
+| Arcade Gamer | 202794 | [202794-arcade-gamer.json](./202794-arcade-gamer.json) |
+| Arcade Gamer | 202795 | [202795-arcade-gamer.json](./202795-arcade-gamer.json) |
+| Arcade Gamer Classic | 202791 | [202791-arcade-gamer-classic.json](./202791-arcade-gamer-classic.json) |
+| Arcade Gamer Classic | 202792 | [202792-arcade-gamer-classic.json](./202792-arcade-gamer-classic.json) |
+| Arcade Gamer Classic | 202793 | [202793-arcade-gamer-classic.json](./202793-arcade-gamer-classic.json) |
 | Arcade Hero | 358920 | [358920-arcade-hero.json](./358920-arcade-hero.json) |
 | Arcade Horse Racing | 206137 | [206137-arcade-horse-racing.json](./206137-arcade-horse-racing.json) |
 | Arcade LA Deadzone | 106545 | [106545-arcade-la-deadzone.json](./106545-arcade-la-deadzone.json) |
 | Arcade Land | 99543 | [99543-arcade-land.json](./99543-arcade-land.json) |
 | Arcade Legends 3D | 206138 | [206138-arcade-legends-3d.json](./206138-arcade-legends-3d.json) |
+| Arcade Legends Sensible Soccer Plus | 202803 | [202803-arcade-legends-sensible-soccer-plus.json](./202803-arcade-legends-sensible-soccer-plus.json) |
+| Arcade Legends Street Fighter II': Special Champion Edition | 202804 | [202804-arcade-legends-street-fighter-ii-special-champion-edition.json](./202804-arcade-legends-street-fighter-ii-special-champion-edition.json) |
+| Arcade Legends: Menacer | 202798 | [202798-arcade-legends-menacer.json](./202798-arcade-legends-menacer.json) |
+| Arcade Legends: OutRun 2019 | 202797 | [202797-arcade-legends-outrun-2019.json](./202797-arcade-legends-outrun-2019.json) |
+| Arcade Legends: Sega Genesis | 202799 | [202799-arcade-legends-sega-genesis.json](./202799-arcade-legends-sega-genesis.json) |
+| Arcade Legends: Sega Genesis Volume 2 | 202802 | [202802-arcade-legends-sega-genesis-volume-2.json](./202802-arcade-legends-sega-genesis-volume-2.json) |
 | Arcade Machine: Clown Hunt | 232991 | [232991-arcade-machine-clown-hunt.json](./232991-arcade-machine-clown-hunt.json) |
 | Arcade Master | 202866 | [202866-arcade-master.json](./202866-arcade-master.json) |
 | Arcade Master | 206139 | [206139-arcade-master.json](./206139-arcade-master.json) |
@@ -2967,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
 | Arcade Party Pak | 92977 | [92977-arcade-party-pak.json](./92977-arcade-party-pak.json) |
 | Arcade Pinball | 86706 | [86706-arcade-pinball.json](./86706-arcade-pinball.json) |
+| Arcade Portable | 202779 | [202779-arcade-portable.json](./202779-arcade-portable.json) |
 | Arcade Racer Evolution | 237380 | [237380-arcade-racer-evolution.json](./237380-arcade-racer-evolution.json) |
 | Arcade Room Simulator | 319788 | [319788-arcade-room-simulator.json](./319788-arcade-room-simulator.json) |
 | Arcade Shooting Gallery | 50626 | [50626-arcade-shooting-gallery.json](./50626-arcade-shooting-gallery.json) |
@@ -2975,6 +2990,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Squad | 195154 | [195154-arcade-squad.json](./195154-arcade-squad.json) |
 | Arcade Sundown | 270738 | [270738-arcade-sundown.json](./270738-arcade-sundown.json) |
 | Arcade Tanks World II: Tank Battle Simulator | 319786 | [319786-arcade-tanks-world-ii-tank-battle-simulator.json](./319786-arcade-tanks-world-ii-tank-battle-simulator.json) |
+| Arcade Ultimate | 202783 | [202783-arcade-ultimate.json](./202783-arcade-ultimate.json) |
+| Arcade Ultimate Portable | 202788 | [202788-arcade-ultimate-portable.json](./202788-arcade-ultimate-portable.json) |
+| Arcade Ultimate Portable Video Game Player | 202790 | [202790-arcade-ultimate-portable-video-game-player.json](./202790-arcade-ultimate-portable-video-game-player.json) |
+| Arcade Ultimate: Street of Rage - Limited Edition | 202789 | [202789-arcade-ultimate-street-of-rage-limited-edition.json](./202789-arcade-ultimate-street-of-rage-limited-edition.json) |
 | Arcade Video Games Quiz | 241355 | [241355-arcade-video-games-quiz.json](./241355-arcade-video-games-quiz.json) |
 | Arcade ZX Collection: Anteater | 304195 | [304195-arcade-zx-collection-anteater.json](./304195-arcade-zx-collection-anteater.json) |
 | Arcade ZX Collection: Botanic | 304194 | [304194-arcade-zx-collection-botanic.json](./304194-arcade-zx-collection-botanic.json) |
