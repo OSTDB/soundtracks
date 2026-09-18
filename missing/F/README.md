@@ -1547,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Flashing | 69870 | [69870-finger-flashing.json](./69870-finger-flashing.json) |
 | Finger Football: Goal in One + Two | 262491 | [262491-finger-football-goal-in-one-two.json](./262491-finger-football-goal-in-one-two.json) |
 | Finger Maniac | 262351 | [262351-finger-maniac.json](./262351-finger-maniac.json) |
+| Finger on the Roof! Go! Rooftop Runner! | 214568 | [214568-finger-on-the-roof-go-rooftop-runner.json](./214568-finger-on-the-roof-go-rooftop-runner.json) |
 | Finger Punch | 378802 | [378802-finger-punch.json](./378802-finger-punch.json) |
 | Finger Slayer | 341914 | [341914-finger-slayer.json](./341914-finger-slayer.json) |
 | Fingerbones | 13142 | [13142-fingerbones.json](./13142-fingerbones.json) |
@@ -2768,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreverhood | 265739 | [265739-foreverhood.json](./265739-foreverhood.json) |
 | Foreverred | 142484 | [142484-foreverred.json](./142484-foreverred.json) |
 | Forevolution | 209709 | [209709-forevolution.json](./209709-forevolution.json) |
+| ForeVR Cornhole | 214608 | [214608-forevr-cornhole.json](./214608-forevr-cornhole.json) |
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
 | Forge & Fortune | 264701 | [264701-forge-and-fortune.json](./264701-forge-and-fortune.json) |
 | Forge Front | 287768 | [287768-forge-front.json](./287768-forge-front.json) |
@@ -3339,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday the 13th: Killer Puzzle - Flaming Jason | 163474 | [163474-friday-the-13th-killer-puzzle-flaming-jason.json](./163474-friday-the-13th-killer-puzzle-flaming-jason.json) |
 | Friday the 13th: Killer Puzzle - Retro Jason | 163470 | [163470-friday-the-13th-killer-puzzle-retro-jason.json](./163470-friday-the-13th-killer-puzzle-retro-jason.json) |
 | Friday the 13th: Killer Puzzle - Toxic Jason | 163473 | [163473-friday-the-13th-killer-puzzle-toxic-jason.json](./163473-friday-the-13th-killer-puzzle-toxic-jason.json) |
+| Friday the 13th: Return to Camp Blood Demake | 214609 | [214609-friday-the-13th-return-to-camp-blood-demake.json](./214609-friday-the-13th-return-to-camp-blood-demake.json) |
 | Friday the 13th: The Game - Spring Break 1984 Clothing Pack | 224244 | [224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json](./224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json) |
 | Friday: Death to Arthur Yahtzee | 62155 | [62155-friday-death-to-arthur-yahtzee.json](./62155-friday-death-to-arthur-yahtzee.json) |
 | Frido | 232456 | [232456-frido.json](./232456-frido.json) |
