@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrities Hacked: LatexUsagi Photo Pack | 289469 | [289469-celebrities-hacked-latexusagi-photo-pack.json](./289469-celebrities-hacked-latexusagi-photo-pack.json) |
 | Celebrities Hacked: NoirPetal Photo Pack | 289467 | [289467-celebrities-hacked-noirpetal-photo-pack.json](./289467-celebrities-hacked-noirpetal-photo-pack.json) |
 | Celebrities Hacked: PlushyPixel Photo Pack | 289468 | [289468-celebrities-hacked-plushypixel-photo-pack.json](./289468-celebrities-hacked-plushypixel-photo-pack.json) |
+| Celebrity Darling | 203295 | [203295-celebrity-darling.json](./203295-celebrity-darling.json) |
 | Celebrity Life | 157138 | [157138-celebrity-life.json](./157138-celebrity-life.json) |
 | Celebrity Slot Machine | 242550 | [242550-celebrity-slot-machine.json](./242550-celebrity-slot-machine.json) |
 | Celestarium | 226300 | [226300-celestarium.json](./226300-celestarium.json) |
@@ -1529,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
 | Chameleon | 37077 | [37077-chameleon.json](./37077-chameleon.json) |
 | Chameleon Gems | 92483 | [92483-chameleon-gems.json](./92483-chameleon-gems.json) |
+| Chameleon: DYH | 203401 | [203401-chameleon-dyh.json](./203401-chameleon-dyh.json) |
 | Chameleon: To Dye For! | 72713 | [72713-chameleon-to-dye-for.json](./72713-chameleon-to-dye-for.json) |
 | Champ Asterocks | 94689 | [94689-champ-asterocks.json](./94689-champ-asterocks.json) |
 | Champ at Dawn | 231349 | [231349-champ-at-dawn.json](./231349-champ-at-dawn.json) |
@@ -2422,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cielcrosia: Seal of the Lewd Curse | 82864 | [82864-cielcrosia-seal-of-the-lewd-curse.json](./82864-cielcrosia-seal-of-the-lewd-curse.json) |
 | Cielle Is Not Happy | 402277 | [402277-cielle-is-not-happy.json](./402277-cielle-is-not-happy.json) |
 | Cielo | 181292 | [181292-cielo.json](./181292-cielo.json) |
+| Cien Años Después | 203333 | [203333-cien-anos-despues.json](./203333-cien-anos-despues.json) |
 | Ciggy World | 314299 | [314299-ciggy-world.json](./314299-ciggy-world.json) |
 | Cinco Noches en Casa Rosada 2 | 353900 | [353900-cinco-noches-en-casa-rosada-2.json](./353900-cinco-noches-en-casa-rosada-2.json) |
 | Cinder City | 361814 | [361814-cinder-city.json](./361814-cinder-city.json) |
