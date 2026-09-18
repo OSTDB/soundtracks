@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T13:32:41.637Z",
-  "total_missing": 87621,
+  "generated_at": "2026-09-18T13:47:47.508Z",
+  "total_missing": 87671,
   "games": [
     {
       "igdb_id": 273453,
@@ -5773,6 +5773,11 @@
       "file": "missing/A/259665-accion-rescate-america.json"
     },
     {
+      "igdb_id": 203313,
+      "game_name": "Acclimate",
+      "file": "missing/A/203313-acclimate.json"
+    },
+    {
       "igdb_id": 37156,
       "game_name": "Accolade's Comics featuring Steve Keene Thrillseeker",
       "file": "missing/A/37156-accolades-comics-featuring-steve-keene-thrillseeker.json"
@@ -7501,6 +7506,11 @@
       "igdb_id": 264107,
       "game_name": "Agriculture Tractor Sim",
       "file": "missing/A/264107-agriculture-tractor-sim.json"
+    },
+    {
+      "igdb_id": 203381,
+      "game_name": "Ahegal Seasons",
+      "file": "missing/A/203381-ahegal-seasons.json"
     },
     {
       "igdb_id": 31563,
@@ -9936,6 +9946,11 @@
       "igdb_id": 24895,
       "game_name": "Alien Hell",
       "file": "missing/A/24895-alien-hell.json"
+    },
+    {
+      "igdb_id": 203299,
+      "game_name": "Alien Hive",
+      "file": "missing/A/203299-alien-hive.json"
     },
     {
       "igdb_id": 210733,
@@ -58723,6 +58738,11 @@
       "file": "missing/C/289468-celebrities-hacked-plushypixel-photo-pack.json"
     },
     {
+      "igdb_id": 203295,
+      "game_name": "Celebrity Darling",
+      "file": "missing/C/203295-celebrity-darling.json"
+    },
+    {
       "igdb_id": 157138,
       "game_name": "Celebrity Life",
       "file": "missing/C/157138-celebrity-life.json"
@@ -59466,6 +59486,11 @@
       "igdb_id": 92483,
       "game_name": "Chameleon Gems",
       "file": "missing/C/92483-chameleon-gems.json"
+    },
+    {
+      "igdb_id": 203401,
+      "game_name": "Chameleon: DYH",
+      "file": "missing/C/203401-chameleon-dyh.json"
     },
     {
       "igdb_id": 72713,
@@ -63931,6 +63956,11 @@
       "igdb_id": 181292,
       "game_name": "Cielo",
       "file": "missing/C/181292-cielo.json"
+    },
+    {
+      "igdb_id": 203333,
+      "game_name": "Cien Años Después",
+      "file": "missing/C/203333-cien-anos-despues.json"
     },
     {
       "igdb_id": 314299,
@@ -83743,6 +83773,11 @@
       "file": "missing/D/244895-darkzan-arena.json"
     },
     {
+      "igdb_id": 203328,
+      "game_name": "Darling II: Backlash",
+      "file": "missing/D/203328-darling-ii-backlash.json"
+    },
+    {
       "igdb_id": 188590,
       "game_name": "Darling Pet",
       "file": "missing/D/188590-darling-pet.json"
@@ -86771,6 +86806,11 @@
       "igdb_id": 22389,
       "game_name": "Death Note: Successors to L",
       "file": "missing/D/22389-death-note-successors-to-l.json"
+    },
+    {
+      "igdb_id": 203297,
+      "game_name": "Death of a Wish",
+      "file": "missing/D/203297-death-of-a-wish.json"
     },
     {
       "igdb_id": 115601,
@@ -100553,6 +100593,11 @@
       "file": "missing/D/2580-dragon-ball-z-taiketsu.json"
     },
     {
+      "igdb_id": 203292,
+      "game_name": "Dragon Ball Z: Team Training",
+      "file": "missing/D/203292-dragon-ball-z-team-training.json"
+    },
+    {
       "igdb_id": 6387,
       "game_name": "Dragon Ball Z: The Legacy of Goku",
       "file": "missing/D/6387-dragon-ball-z-the-legacy-of-goku.json"
@@ -113371,6 +113416,11 @@
       "igdb_id": 197403,
       "game_name": "Equinox",
       "file": "missing/E/197403-equinox.json"
+    },
+    {
+      "igdb_id": 203305,
+      "game_name": "Equinox",
+      "file": "missing/E/203305-equinox.json"
     },
     {
       "igdb_id": 264123,
@@ -134243,6 +134293,11 @@
       "file": "missing/F/403555-frame-of-suffering.json"
     },
     {
+      "igdb_id": 203311,
+      "game_name": "Frame: Portals on Steroids",
+      "file": "missing/F/203311-frame-portals-on-steroids.json"
+    },
+    {
       "igdb_id": 131508,
       "game_name": "Framed",
       "file": "missing/F/131508-framed.json"
@@ -149186,6 +149241,11 @@
       "igdb_id": 247180,
       "game_name": "Grant of God",
       "file": "missing/G/247180-grant-of-god.json"
+    },
+    {
+      "igdb_id": 203309,
+      "game_name": "Granvil's Fairytale",
+      "file": "missing/G/203309-granvils-fairytale.json"
     },
     {
       "igdb_id": 304203,
@@ -169331,6 +169391,11 @@
       "igdb_id": 399104,
       "game_name": "How Asian Parents went to School",
       "file": "missing/H/399104-how-asian-parents-went-to-school.json"
+    },
+    {
+      "igdb_id": 203399,
+      "game_name": "How did I get here?",
+      "file": "missing/H/203399-how-did-i-get-here.json"
     },
     {
       "igdb_id": 179721,
@@ -191238,6 +191303,11 @@
       "file": "missing/K/116319-kim-shooter.json"
     },
     {
+      "igdb_id": 203323,
+      "game_name": "Kimagure Strawberry Café",
+      "file": "missing/K/203323-kimagure-strawberry-cafe.json"
+    },
+    {
       "igdb_id": 59439,
       "game_name": "Kimero!! Hero Gakuen: Eiyuu ni Shinjutsu Nashi",
       "file": "missing/K/59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json"
@@ -191646,6 +191716,11 @@
       "igdb_id": 67980,
       "game_name": "King of Football",
       "file": "missing/K/67980-king-of-football.json"
+    },
+    {
+      "igdb_id": 203312,
+      "game_name": "King of Kalimpong",
+      "file": "missing/K/203312-king-of-kalimpong.json"
     },
     {
       "igdb_id": 88306,
@@ -195276,6 +195351,11 @@
       "igdb_id": 253588,
       "game_name": "Kromlech",
       "file": "missing/K/253588-kromlech.json"
+    },
+    {
+      "igdb_id": 203302,
+      "game_name": "Kronii is Hungry",
+      "file": "missing/K/203302-kronii-is-hungry.json"
     },
     {
       "igdb_id": 236807,
@@ -241133,6 +241213,11 @@
       "file": "missing/N/185140-nabokos.json"
     },
     {
+      "igdb_id": 203300,
+      "game_name": "Nachkriegsratten Punk-Rock Puzzle",
+      "file": "missing/N/203300-nachkriegsratten-punk-rock-puzzle.json"
+    },
+    {
       "igdb_id": 323357,
       "game_name": "Nacho Trave vs. Joako Tronico",
       "file": "missing/N/323357-nacho-trave-vs-joako-tronico.json"
@@ -249093,6 +249178,11 @@
       "file": "missing/N/97303-niva.json"
     },
     {
+      "igdb_id": 203301,
+      "game_name": "Nivalis Nights",
+      "file": "missing/N/203301-nivalis-nights.json"
+    },
+    {
       "igdb_id": 244249,
       "game_name": "Nivoz Running Canned",
       "file": "missing/N/244249-nivoz-running-canned.json"
@@ -251426,6 +251516,11 @@
       "igdb_id": 223996,
       "game_name": "Nuclear Day",
       "file": "missing/N/223996-nuclear-day.json"
+    },
+    {
+      "igdb_id": 203296,
+      "game_name": "Nuclear Empire",
+      "file": "missing/N/203296-nuclear-empire.json"
     },
     {
       "igdb_id": 414331,
@@ -260301,6 +260396,11 @@
       "igdb_id": 291749,
       "game_name": "Over The Top: WWI",
       "file": "missing/O/291749-over-the-top-wwi.json"
+    },
+    {
+      "igdb_id": 203306,
+      "game_name": "Overage: Child of Chaos",
+      "file": "missing/O/203306-overage-child-of-chaos.json"
     },
     {
       "igdb_id": 247169,
@@ -281798,6 +281898,11 @@
       "file": "missing/P/30943-project-alpha-002.json"
     },
     {
+      "igdb_id": 203310,
+      "game_name": "Project Angels",
+      "file": "missing/P/203310-project-angels.json"
+    },
+    {
       "igdb_id": 193952,
       "game_name": "Project Anomaly",
       "file": "missing/P/193952-project-anomaly.json"
@@ -282181,6 +282286,11 @@
       "igdb_id": 379344,
       "game_name": "Project II: Final Fantasy IV",
       "file": "missing/P/379344-project-ii-final-fantasy-iv.json"
+    },
+    {
+      "igdb_id": 203304,
+      "game_name": "Project Impulse",
+      "file": "missing/P/203304-project-impulse.json"
     },
     {
       "igdb_id": 13096,
@@ -289941,6 +290051,11 @@
       "igdb_id": 67929,
       "game_name": "Rainbow Step",
       "file": "missing/R/67929-rainbow-step.json"
+    },
+    {
+      "igdb_id": 203307,
+      "game_name": "Rainbow Tap",
+      "file": "missing/R/203307-rainbow-tap.json"
     },
     {
       "igdb_id": 244859,
@@ -321963,6 +322078,21 @@
       "file": "missing/S/203352-simple-2000-series-ultimate-vol-5-love-mahjong.json"
     },
     {
+      "igdb_id": 203330,
+      "game_name": "Simple 2000 Series Vol. 100: The Otoko Tachi no Kijuu Houza",
+      "file": "missing/S/203330-simple-2000-series-vol-100-the-otoko-tachi-no-kijuu-houza.json"
+    },
+    {
+      "igdb_id": 203334,
+      "game_name": "Simple 2000 Series Vol. 104: The Robot Tsuku Rouze! - Gekitou! Robot Fight",
+      "file": "missing/S/203334-simple-2000-series-vol-104-the-robot-tsuku-rouze-gekitou-robot-fight.json"
+    },
+    {
+      "igdb_id": 203335,
+      "game_name": "Simple 2000 Series Vol. 109: The Taxi 2",
+      "file": "missing/S/203335-simple-2000-series-vol-109-the-taxi-2.json"
+    },
+    {
       "igdb_id": 203336,
       "game_name": "Simple 2000 Series Vol. 115: The Roomshare to Iu Seikatsu",
       "file": "missing/S/203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json"
@@ -322008,14 +322138,69 @@
       "file": "missing/S/335914-simple-2000-series-vol-32-the-sensha.json"
     },
     {
+      "igdb_id": 203319,
+      "game_name": "Simple 2000 Series Vol. 77: The Hanasou Hanguru no Tabi",
+      "file": "missing/S/203319-simple-2000-series-vol-77-the-hanasou-hanguru-no-tabi.json"
+    },
+    {
+      "igdb_id": 203320,
+      "game_name": "Simple 2000 Series vol. 79: Akko ni Omakase! The Party Quiz",
+      "file": "missing/S/203320-simple-2000-series-vol-79-akko-ni-omakase-the-party-quiz.json"
+    },
+    {
+      "igdb_id": 203321,
+      "game_name": "Simple 2000 Series Vol. 82: The Kung Fu",
+      "file": "missing/S/203321-simple-2000-series-vol-82-the-kung-fu.json"
+    },
+    {
+      "igdb_id": 203322,
+      "game_name": "Simple 2000 Series Vol. 83: The Konchuu Saishuu",
+      "file": "missing/S/203322-simple-2000-series-vol-83-the-konchuu-saishuu.json"
+    },
+    {
+      "igdb_id": 203324,
+      "game_name": "Simple 2000 Series Vol. 85: The Sekai Meisaku Gekijou Quiz",
+      "file": "missing/S/203324-simple-2000-series-vol-85-the-sekai-meisaku-gekijou-quiz.json"
+    },
+    {
       "igdb_id": 43325,
       "game_name": "Simple 2000 Series Vol. 88: The Mini Suke Porisu",
       "file": "missing/S/43325-simple-2000-series-vol-88-the-mini-suke-porisu.json"
     },
     {
+      "igdb_id": 203326,
+      "game_name": "Simple 2000 Series Vol. 89: The Party Games 2",
+      "file": "missing/S/203326-simple-2000-series-vol-89-the-party-games-2.json"
+    },
+    {
+      "igdb_id": 203327,
+      "game_name": "Simple 2000 Series Vol. 93: The Unou Drill",
+      "file": "missing/S/203327-simple-2000-series-vol-93-the-unou-drill.json"
+    },
+    {
+      "igdb_id": 203329,
+      "game_name": "Simple 2000 Series Vol. 98: The Roman Sabou",
+      "file": "missing/S/203329-simple-2000-series-vol-98-the-roman-sabou.json"
+    },
+    {
       "igdb_id": 203337,
       "game_name": "Simple 2000 Series Vol.116: The Neko-mura no Hitobito - Pagu Daikan no Akugyou San-mai",
       "file": "missing/S/203337-simple-2000-series-vol-116-the-neko-mura-no-hitobito-pagu-daikan-no-akugyou-san-mai.json"
+    },
+    {
+      "igdb_id": 203325,
+      "game_name": "Simple 2000 Series Vol.86: Menkyo Shutoku Simulation - Kaiseidouro Koutsuu-hou Taiouban",
+      "file": "missing/S/203325-simple-2000-series-vol-86-menkyo-shutoku-simulation-kaiseidouro-koutsuu-hou-taiouban.json"
+    },
+    {
+      "igdb_id": 203397,
+      "game_name": "Simple 2500 Series Portable Vol. 7: The Doko Demo Kanji Quiz - Challenge! Kanji Kentei 2006",
+      "file": "missing/S/203397-simple-2500-series-portable-vol-7-the-doko-demo-kanji-quiz-challenge-kanji-kentei-2006.json"
+    },
+    {
+      "igdb_id": 203398,
+      "game_name": "Simple 2500 Series Portable Vol. 9: The My Taxi!",
+      "file": "missing/S/203398-simple-2500-series-portable-vol-9-the-my-taxi.json"
     },
     {
       "igdb_id": 66093,
@@ -322046,6 +322231,41 @@
       "igdb_id": 82134,
       "game_name": "Simple DS Series Vol. 1: The Mahjong",
       "file": "missing/S/82134-simple-ds-series-vol-1-the-mahjong.json"
+    },
+    {
+      "igdb_id": 203404,
+      "game_name": "Simple DS Series Vol. 10: The Doko Demo Kanji Quiz",
+      "file": "missing/S/203404-simple-ds-series-vol-10-the-doko-demo-kanji-quiz.json"
+    },
+    {
+      "igdb_id": 203405,
+      "game_name": "Simple DS Series Vol. 11: Mou Ichido Kayoeru - The Otona no Shougakkou",
+      "file": "missing/S/203405-simple-ds-series-vol-11-mou-ichido-kayoeru-the-otona-no-shougakkou.json"
+    },
+    {
+      "igdb_id": 203406,
+      "game_name": "Simple DS Series Vol. 14: The Jidousha Kyoushuujo DS",
+      "file": "missing/S/203406-simple-ds-series-vol-14-the-jidousha-kyoushuujo-ds.json"
+    },
+    {
+      "igdb_id": 203407,
+      "game_name": "Simple DS Series Vol. 20: The Senkan",
+      "file": "missing/S/203407-simple-ds-series-vol-20-the-senkan.json"
+    },
+    {
+      "igdb_id": 203408,
+      "game_name": "Simple DS Series Vol. 26: The Quiz 30,000-Mon",
+      "file": "missing/S/203408-simple-ds-series-vol-26-the-quiz-30-000-mon.json"
+    },
+    {
+      "igdb_id": 203410,
+      "game_name": "Simple DS Series Vol. 28: The Illust Puzzle & Suuji Puzzle 2",
+      "file": "missing/S/203410-simple-ds-series-vol-28-the-illust-puzzle-and-suuji-puzzle-2.json"
+    },
+    {
+      "igdb_id": 203403,
+      "game_name": "Simple DS Series Vol. 9: Atama ga Yoku Naru - The Me no Training",
+      "file": "missing/S/203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json"
     },
     {
       "igdb_id": 182502,
@@ -338746,6 +338966,11 @@
       "igdb_id": 272907,
       "game_name": "Sporeborn Dark",
       "file": "missing/S/272907-sporeborn-dark.json"
+    },
+    {
+      "igdb_id": 203314,
+      "game_name": "Sporos",
+      "file": "missing/S/203314-sporos.json"
     },
     {
       "igdb_id": 283165,
@@ -372168,6 +372393,11 @@
       "file": "missing/T/180749-the-farm-you-grew-up-on.json"
     },
     {
+      "igdb_id": 203308,
+      "game_name": "The Farnese Hercules",
+      "file": "missing/T/203308-the-farnese-hercules.json"
+    },
+    {
       "igdb_id": 274182,
       "game_name": "The Farside of Titan",
       "file": "missing/T/274182-the-farside-of-titan.json"
@@ -374176,6 +374406,11 @@
       "igdb_id": 30791,
       "game_name": "The Horus Heresy: Drop Assault",
       "file": "missing/T/30791-the-horus-heresy-drop-assault.json"
+    },
+    {
+      "igdb_id": 203298,
+      "game_name": "The Horus Heresy: Legions - Titandeath",
+      "file": "missing/T/203298-the-horus-heresy-legions-titandeath.json"
     },
     {
       "igdb_id": 274505,
@@ -378378,6 +378613,11 @@
       "file": "missing/T/138159-the-maze-runner.json"
     },
     {
+      "igdb_id": 203303,
+      "game_name": "The Meaning",
+      "file": "missing/T/203303-the-meaning.json"
+    },
+    {
       "igdb_id": 349310,
       "game_name": "The Meaning of Auri",
       "file": "missing/T/349310-the-meaning-of-auri.json"
@@ -382126,6 +382366,11 @@
       "igdb_id": 20408,
       "game_name": "The Shoot",
       "file": "missing/T/20408-the-shoot.json"
+    },
+    {
+      "igdb_id": 203395,
+      "game_name": "The Shooting & The Helicopter",
+      "file": "missing/T/203395-the-shooting-and-the-helicopter.json"
     },
     {
       "igdb_id": 324900,
@@ -396291,6 +396536,11 @@
       "igdb_id": 325450,
       "game_name": "Totonoi Simulator",
       "file": "missing/T/325450-totonoi-simulator.json"
+    },
+    {
+      "igdb_id": 203396,
+      "game_name": "Totsugeki 64",
+      "file": "missing/T/203396-totsugeki-64.json"
     },
     {
       "igdb_id": 282680,
