@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octofight Escape | 180250 | [180250-octofight-escape.json](./180250-octofight-escape.json) |
 | OctoFurry | 128971 | [128971-octofurry.json](./128971-octofurry.json) |
 | Octogram | 265686 | [265686-octogram.json](./265686-octogram.json) |
+| Octonauts | 230394 | [230394-octonauts.json](./230394-octonauts.json) |
 | Octopede | 94202 | [94202-octopede.json](./94202-octopede.json) |
 | Octopie | 204723 | [204723-octopie.json](./204723-octopie.json) |
 | Octopinbs | 394319 | [394319-octopinbs.json](./394319-octopinbs.json) |
@@ -435,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olinda Fighters | 415941 | [415941-olinda-fighters.json](./415941-olinda-fighters.json) |
 | Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
 | Olivers äventyr: Drakens förbannelse | 320948 | [320948-olivers-aventyr-drakens-forbannelse.json](./320948-olivers-aventyr-drakens-forbannelse.json) |
+| Olivia | 230395 | [230395-olivia.json](./230395-olivia.json) |
 | Olivia | 402267 | [402267-olivia.json](./402267-olivia.json) |
 | Olivia Takes Ballet | 231377 | [231377-olivia-takes-ballet.json](./231377-olivia-takes-ballet.json) |
 | Olivias Dream | 368030 | [368030-olivias-dream.json](./368030-olivias-dream.json) |
@@ -1388,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Way | 169977 | [169977-our-way.json](./169977-our-way.json) |
 | Our Winding Road | 301408 | [301408-our-winding-road.json](./301408-our-winding-road.json) |
 | Our Worlds | 130877 | [130877-our-worlds.json](./130877-our-worlds.json) |
+| Ouroboros | 230408 | [230408-ouroboros.json](./230408-ouroboros.json) |
 | Ouroboros Saiaku.exe: Crazy for you | 358363 | [358363-ouroboros-saiaku-exe-crazy-for-you.json](./358363-ouroboros-saiaku-exe-crazy-for-you.json) |
 | Ouroboros: Prelude | 68604 | [68604-ouroboros-prelude.json](./68604-ouroboros-prelude.json) |
 | Ouros | 258726 | [258726-ouros.json](./258726-ouros.json) |
