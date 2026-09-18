@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T05:47:28.744Z",
-  "total_missing": 86071,
+  "generated_at": "2026-09-18T06:02:35.226Z",
+  "total_missing": 86121,
   "games": [
     {
       "igdb_id": 273453,
@@ -6436,6 +6436,26 @@
       "igdb_id": 305193,
       "game_name": "Adventure 3",
       "file": "missing/A/305193-adventure-3.json"
+    },
+    {
+      "igdb_id": 220752,
+      "game_name": "Adventure Academia: The Fractured Continent - New Adventure Volume 2: Danger Mountain March 1- 3",
+      "file": "missing/A/220752-adventure-academia-the-fractured-continent-new-adventure-volume-2-danger-mountain-march-1-3.json"
+    },
+    {
+      "igdb_id": 220753,
+      "game_name": "Adventure Academia: The Fractured Continent - Vol.2 Bonus Unit: Kiesel",
+      "file": "missing/A/220753-adventure-academia-the-fractured-continent-vol-2-bonus-unit-kiesel.json"
+    },
+    {
+      "igdb_id": 220754,
+      "game_name": "Adventure Academia: The Fractured Continent - Vol.2 Bonus Unit: Lazuli",
+      "file": "missing/A/220754-adventure-academia-the-fractured-continent-vol-2-bonus-unit-lazuli.json"
+    },
+    {
+      "igdb_id": 220755,
+      "game_name": "Adventure Academia: The Fractured Continent - Vol.2 Challenge Quest: Danger Mountain March EX",
+      "file": "missing/A/220755-adventure-academia-the-fractured-continent-vol-2-challenge-quest-danger-mountain-march-ex.json"
     },
     {
       "igdb_id": 33017,
@@ -20241,6 +20261,11 @@
       "igdb_id": 314038,
       "game_name": "Arrival, or Attack of the B-Movie Clichés",
       "file": "missing/A/314038-arrival-or-attack-of-the-b-movie-cliches.json"
+    },
+    {
+      "igdb_id": 220743,
+      "game_name": "Arrogation: Unlight of Day",
+      "file": "missing/A/220743-arrogation-unlight-of-day.json"
     },
     {
       "igdb_id": 382773,
@@ -100758,6 +100783,11 @@
       "file": "missing/D/202355-dreamdayki.json"
     },
     {
+      "igdb_id": 220745,
+      "game_name": "Dreamed Away",
+      "file": "missing/D/220745-dreamed-away.json"
+    },
+    {
       "igdb_id": 101641,
       "game_name": "Dreamer",
       "file": "missing/D/101641-dreamer.json"
@@ -108126,6 +108156,11 @@
       "igdb_id": 304888,
       "game_name": "Elementers",
       "file": "missing/E/304888-elementers.json"
+    },
+    {
+      "igdb_id": 220751,
+      "game_name": "ElementForger",
+      "file": "missing/E/220751-elementforger.json"
     },
     {
       "igdb_id": 138737,
@@ -154353,6 +154388,11 @@
       "file": "missing/H/3387-harvest-moon-ds-island-of-happiness.json"
     },
     {
+      "igdb_id": 220737,
+      "game_name": "Harvest Moon GBC",
+      "file": "missing/H/220737-harvest-moon-gbc.json"
+    },
+    {
       "igdb_id": 3384,
       "game_name": "Harvest Moon: A Wonderful Life",
       "file": "missing/H/3384-harvest-moon-a-wonderful-life.json"
@@ -193478,6 +193518,11 @@
       "file": "missing/L/310741-lady-godiva-naked-eye.json"
     },
     {
+      "igdb_id": 220749,
+      "game_name": "Lady in tomb: Beneath the ocean",
+      "file": "missing/L/220749-lady-in-tomb-beneath-the-ocean.json"
+    },
+    {
       "igdb_id": 185165,
       "game_name": "Lady Pac",
       "file": "missing/L/185165-lady-pac.json"
@@ -212856,6 +212901,11 @@
       "igdb_id": 126940,
       "game_name": "Marisa's Marvelous Magic Shop",
       "file": "missing/M/126940-marisas-marvelous-magic-shop.json"
+    },
+    {
+      "igdb_id": 220748,
+      "game_name": "Maritime Hegemony",
+      "file": "missing/M/220748-maritime-hegemony.json"
     },
     {
       "igdb_id": 360016,
@@ -239198,6 +239248,11 @@
       "file": "missing/N/318009-necrocat.json"
     },
     {
+      "igdb_id": 220711,
+      "game_name": "Necroffense",
+      "file": "missing/N/220711-necroffense.json"
+    },
+    {
       "igdb_id": 333542,
       "game_name": "Necroflora",
       "file": "missing/N/333542-necroflora.json"
@@ -242956,6 +243011,11 @@
       "igdb_id": 170461,
       "game_name": "Night of Full Moon: Gear of Fate",
       "file": "missing/N/170461-night-of-full-moon-gear-of-fate.json"
+    },
+    {
+      "igdb_id": 220738,
+      "game_name": "Night of Full Moon: Ghost",
+      "file": "missing/N/220738-night-of-full-moon-ghost.json"
     },
     {
       "igdb_id": 170464,
@@ -262783,6 +262843,11 @@
       "file": "missing/P/62194-permanent-daylight.json"
     },
     {
+      "igdb_id": 220742,
+      "game_name": "Permanent Sleep",
+      "file": "missing/P/220742-permanent-sleep.json"
+    },
+    {
       "igdb_id": 108425,
       "game_name": "Permission VR",
       "file": "missing/P/108425-permission-vr.json"
@@ -281603,6 +281668,11 @@
       "file": "missing/Q/399598-qianli-the-vastscape-scroll.json"
     },
     {
+      "igdb_id": 220744,
+      "game_name": "Qianling Mainland",
+      "file": "missing/Q/220744-qianling-mainland.json"
+    },
+    {
       "igdb_id": 130935,
       "game_name": "Qǐluó Sìshí Tán",
       "file": "missing/Q/130935-qiluo-sishi-tan.json"
@@ -292473,6 +292543,11 @@
       "file": "missing/R/40186-rezon.json"
     },
     {
+      "igdb_id": 220710,
+      "game_name": "Rezzil Player",
+      "file": "missing/R/220710-rezzil-player.json"
+    },
+    {
       "igdb_id": 244907,
       "game_name": "RFA Station",
       "file": "missing/R/244907-rfa-station.json"
@@ -292561,6 +292636,11 @@
       "igdb_id": 292282,
       "game_name": "Rhythm & Beats",
       "file": "missing/R/292282-rhythm-and-beats.json"
+    },
+    {
+      "igdb_id": 220709,
+      "game_name": "Rhythm Any Music",
+      "file": "missing/R/220709-rhythm-any-music.json"
     },
     {
       "igdb_id": 86707,
@@ -293673,6 +293753,11 @@
       "file": "missing/R/97328-rika-suzuki.json"
     },
     {
+      "igdb_id": 220708,
+      "game_name": "Rikki Kuu",
+      "file": "missing/R/220708-rikki-kuu.json"
+    },
+    {
       "igdb_id": 222506,
       "game_name": "Rilakkuma Nakayoshi Collection",
       "file": "missing/R/222506-rilakkuma-nakayoshi-collection.json"
@@ -294313,6 +294398,11 @@
       "file": "missing/R/123567-rising-snake.json"
     },
     {
+      "igdb_id": 220707,
+      "game_name": "Rising Star: The Horse Game",
+      "file": "missing/R/220707-rising-star-the-horse-game.json"
+    },
+    {
       "igdb_id": 18166,
       "game_name": "Rising Storm 2: Vietnam",
       "file": "missing/R/18166-rising-storm-2-vietnam.json"
@@ -294526,6 +294616,11 @@
       "igdb_id": 100231,
       "game_name": "Rite of Passage: The Lost Tides HD",
       "file": "missing/R/100231-rite-of-passage-the-lost-tides-hd.json"
+    },
+    {
+      "igdb_id": 220706,
+      "game_name": "Rite of Titans",
+      "file": "missing/R/220706-rite-of-titans.json"
     },
     {
       "igdb_id": 353875,
@@ -298786,6 +298881,11 @@
       "igdb_id": 145654,
       "game_name": "Rounded Hills",
       "file": "missing/R/145654-rounded-hills.json"
+    },
+    {
+      "igdb_id": 220746,
+      "game_name": "Rounders",
+      "file": "missing/R/220746-rounders.json"
     },
     {
       "igdb_id": 98991,
@@ -354523,6 +354623,11 @@
       "file": "missing/T/277579-tales-of-three-kingdoms-the-mortal-world.json"
     },
     {
+      "igdb_id": 220747,
+      "game_name": "Tales of TianYuan Dynasty",
+      "file": "missing/T/220747-tales-of-tianyuan-dynasty.json"
+    },
+    {
       "igdb_id": 135808,
       "game_name": "Tales of Tyria",
       "file": "missing/T/135808-tales-of-tyria.json"
@@ -389408,6 +389513,11 @@
       "file": "missing/T/304759-totally-normal-day.json"
     },
     {
+      "igdb_id": 220714,
+      "game_name": "Totally Rad Metal Detector League",
+      "file": "missing/T/220714-totally-rad-metal-detector-league.json"
+    },
+    {
       "igdb_id": 142463,
       "game_name": "Totally Realistic Unicorn Buffalo Simulator",
       "file": "missing/T/142463-totally-realistic-unicorn-buffalo-simulator.json"
@@ -391763,6 +391873,11 @@
       "file": "missing/T/231364-train-sim-world-3-birmingham-standard-edition.json"
     },
     {
+      "igdb_id": 220712,
+      "game_name": "Train Sim World 3: Dispolok BR 182 Add-On",
+      "file": "missing/T/220712-train-sim-world-3-dispolok-br-182-add-on.json"
+    },
+    {
       "igdb_id": 243233,
       "game_name": "Train Sim World 3: Loco Add-On Bundle 2",
       "file": "missing/T/243233-train-sim-world-3-loco-add-on-bundle-2.json"
@@ -391781,6 +391896,16 @@
       "igdb_id": 273930,
       "game_name": "Train Sim World 3: Peak Forest Railway - Ambergate - Chinley & Buxton",
       "file": "missing/T/273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json"
+    },
+    {
+      "igdb_id": 220713,
+      "game_name": "Train Sim World 3: Rail Head Treatment Train Add-On",
+      "file": "missing/T/220713-train-sim-world-3-rail-head-treatment-train-add-on.json"
+    },
+    {
+      "igdb_id": 220715,
+      "game_name": "Train Sim World 3: Santa Fe F7 Add-On",
+      "file": "missing/T/220715-train-sim-world-3-santa-fe-f7-add-on.json"
     },
     {
       "igdb_id": 232430,
@@ -405333,6 +405458,11 @@
       "file": "missing/V/273650-vanity.json"
     },
     {
+      "igdb_id": 220716,
+      "game_name": "Vanquish",
+      "file": "missing/V/220716-vanquish.json"
+    },
+    {
       "igdb_id": 3218,
       "game_name": "Vanquish",
       "file": "missing/V/3218-vanquish.json"
@@ -407806,6 +407936,11 @@
       "igdb_id": 273396,
       "game_name": "Virtual Rides 3: Northstar",
       "file": "missing/V/273396-virtual-rides-3-northstar.json"
+    },
+    {
+      "igdb_id": 220717,
+      "game_name": "Virtual Sailor NG",
+      "file": "missing/V/220717-virtual-sailor-ng.json"
     },
     {
       "igdb_id": 46005,
@@ -414598,6 +414733,11 @@
       "file": "missing/W/131562-west-falls.json"
     },
     {
+      "igdb_id": 220750,
+      "game_name": "West Fantasy",
+      "file": "missing/W/220750-west-fantasy.json"
+    },
+    {
       "igdb_id": 199076,
       "game_name": "West Game",
       "file": "missing/W/199076-west-game.json"
@@ -418508,6 +418648,11 @@
       "file": "missing/W/210673-witchcraft.json"
     },
     {
+      "igdb_id": 220718,
+      "game_name": "WitchCraft TD",
+      "file": "missing/W/220718-witchcraft-td.json"
+    },
+    {
       "igdb_id": 155652,
       "game_name": "Witchcraft U",
       "file": "missing/W/155652-witchcraft-u.json"
@@ -419046,6 +419191,11 @@
       "igdb_id": 73834,
       "game_name": "Wizards Spell",
       "file": "missing/W/73834-wizards-spell.json"
+    },
+    {
+      "igdb_id": 220719,
+      "game_name": "Wizards, Knights & Archers",
+      "file": "missing/W/220719-wizards-knights-and-archers.json"
     },
     {
       "igdb_id": 35738,
@@ -419948,6 +420098,11 @@
       "file": "missing/W/134653-word-after-word.json"
     },
     {
+      "igdb_id": 220720,
+      "game_name": "Word Attack",
+      "file": "missing/W/220720-word-attack.json"
+    },
+    {
       "igdb_id": 87733,
       "game_name": "Word Beach: Word Games for Fun",
       "file": "missing/W/87733-word-beach-word-games-for-fun.json"
@@ -420828,6 +420983,11 @@
       "file": "missing/W/274046-world-leaders.json"
     },
     {
+      "igdb_id": 220721,
+      "game_name": "World Mahjong: Original",
+      "file": "missing/W/220721-world-mahjong-original.json"
+    },
+    {
       "igdb_id": 135246,
       "game_name": "World Mosaics",
       "file": "missing/W/135246-world-mosaics.json"
@@ -420966,6 +421126,11 @@
       "igdb_id": 89190,
       "game_name": "World Of Modern Warfare",
       "file": "missing/W/89190-world-of-modern-warfare.json"
+    },
+    {
+      "igdb_id": 220722,
+      "game_name": "World of Motors 2",
+      "file": "missing/W/220722-world-of-motors-2.json"
     },
     {
       "igdb_id": 328463,
@@ -421986,6 +422151,11 @@
       "igdb_id": 58232,
       "game_name": "WortWechsel",
       "file": "missing/W/58232-wortwechsel.json"
+    },
+    {
+      "igdb_id": 220723,
+      "game_name": "Woten DX: Traveller's Dream",
+      "file": "missing/W/220723-woten-dx-travellers-dream.json"
     },
     {
       "igdb_id": 400346,
@@ -423103,6 +423273,26 @@
       "file": "missing/X/220637-x-plane-12-global-scenery-asia.json"
     },
     {
+      "igdb_id": 220725,
+      "game_name": "X-Plane 12 Global Scenery: Australia, Oceania, Pacific",
+      "file": "missing/X/220725-x-plane-12-global-scenery-australia-oceania-pacific.json"
+    },
+    {
+      "igdb_id": 220726,
+      "game_name": "X-Plane 12 Global Scenery: Europe",
+      "file": "missing/X/220726-x-plane-12-global-scenery-europe.json"
+    },
+    {
+      "igdb_id": 220727,
+      "game_name": "X-Plane 12 Global Scenery: North America",
+      "file": "missing/X/220727-x-plane-12-global-scenery-north-america.json"
+    },
+    {
+      "igdb_id": 220728,
+      "game_name": "X-Plane 12 Global Scenery: South America",
+      "file": "missing/X/220728-x-plane-12-global-scenery-south-america.json"
+    },
+    {
       "igdb_id": 252227,
       "game_name": "X-Plane 12: Aerosoft - Airport Marseille",
       "file": "missing/X/252227-x-plane-12-aerosoft-airport-marseille.json"
@@ -423141,6 +423331,11 @@
       "igdb_id": 255743,
       "game_name": "X-Plane: Starship",
       "file": "missing/X/255743-x-plane-starship.json"
+    },
+    {
+      "igdb_id": 220730,
+      "game_name": "X-Racer",
+      "file": "missing/X/220730-x-racer.json"
     },
     {
       "igdb_id": 220633,
@@ -423216,6 +423411,11 @@
       "igdb_id": 124814,
       "game_name": "X4: Split Vendetta",
       "file": "missing/X/124814-x4-split-vendetta.json"
+    },
+    {
+      "igdb_id": 220724,
+      "game_name": "X8",
+      "file": "missing/X/220724-x8.json"
     },
     {
       "igdb_id": 294729,
@@ -423933,6 +424133,11 @@
       "file": "missing/X/380561-xploit-zero.json"
     },
     {
+      "igdb_id": 220729,
+      "game_name": "Xplorasi3d 2.0",
+      "file": "missing/X/220729-xplorasi3d-2-0.json"
+    },
+    {
       "igdb_id": 283861,
       "game_name": "Xplosive Raccoon",
       "file": "missing/X/283861-xplosive-raccoon.json"
@@ -424326,6 +424531,11 @@
       "igdb_id": 124154,
       "game_name": "Yakitate!! Japan",
       "file": "missing/Y/124154-yakitate-japan.json"
+    },
+    {
+      "igdb_id": 220731,
+      "game_name": "Yako",
+      "file": "missing/Y/220731-yako.json"
     },
     {
       "igdb_id": 389431,
@@ -425213,6 +425423,11 @@
       "file": "missing/Y/138265-yokais-secret.json"
     },
     {
+      "igdb_id": 220732,
+      "game_name": "Yokai's Wish",
+      "file": "missing/Y/220732-yokais-wish.json"
+    },
+    {
       "igdb_id": 186313,
       "game_name": "Yokaiware",
       "file": "missing/Y/186313-yokaiware.json"
@@ -425561,6 +425776,11 @@
       "igdb_id": 99028,
       "game_name": "You are the Apple of My Eye",
       "file": "missing/Y/99028-you-are-the-apple-of-my-eye.json"
+    },
+    {
+      "igdb_id": 220733,
+      "game_name": "You Are the Dinner",
+      "file": "missing/Y/220733-you-are-the-dinner.json"
     },
     {
       "igdb_id": 362877,
@@ -427833,6 +428053,11 @@
       "file": "missing/Z/415959-zelene-lux-spirit-notes-collectors-edition.json"
     },
     {
+      "igdb_id": 220734,
+      "game_name": "Zellige: The Tilemaker of Granada",
+      "file": "missing/Z/220734-zellige-the-tilemaker-of-granada.json"
+    },
+    {
       "igdb_id": 138243,
       "game_name": "Zelter",
       "file": "missing/Z/138243-zelter.json"
@@ -428503,6 +428728,11 @@
       "file": "missing/Z/40463-zhust-the-illusion-soul.json"
     },
     {
+      "igdb_id": 220735,
+      "game_name": "ZI Survival",
+      "file": "missing/Z/220735-zi-survival.json"
+    },
+    {
       "igdb_id": 22360,
       "game_name": "Ziba",
       "file": "missing/Z/22360-ziba.json"
@@ -428723,6 +428953,11 @@
       "file": "missing/Z/220142-zodiac-fantasy-2.json"
     },
     {
+      "igdb_id": 220736,
+      "game_name": "Zodiac Hentai: Hellish Memory",
+      "file": "missing/Z/220736-zodiac-hentai-hellish-memory.json"
+    },
+    {
       "igdb_id": 150077,
       "game_name": "Zodiac Legion",
       "file": "missing/Z/150077-zodiac-legion.json"
@@ -428893,6 +429128,11 @@
       "file": "missing/Z/66159-zombie-accountant.json"
     },
     {
+      "igdb_id": 220739,
+      "game_name": "Zombie Age",
+      "file": "missing/Z/220739-zombie-age.json"
+    },
+    {
       "igdb_id": 312905,
       "game_name": "Zombie Age 3: Dead City",
       "file": "missing/Z/312905-zombie-age-3-dead-city.json"
@@ -428916,6 +429156,11 @@
       "igdb_id": 32359,
       "game_name": "Zombie Apocalypse: Escape the Undead City",
       "file": "missing/Z/32359-zombie-apocalypse-escape-the-undead-city.json"
+    },
+    {
+      "igdb_id": 220740,
+      "game_name": "Zombie Arena",
+      "file": "missing/Z/220740-zombie-arena.json"
     },
     {
       "igdb_id": 129784,
@@ -429166,6 +429411,11 @@
       "igdb_id": 41950,
       "game_name": "Zombie Hobby VR",
       "file": "missing/Z/41950-zombie-hobby-vr.json"
+    },
+    {
+      "igdb_id": 220741,
+      "game_name": "Zombie Hunter",
+      "file": "missing/Z/220741-zombie-hunter.json"
     },
     {
       "igdb_id": 377130,
