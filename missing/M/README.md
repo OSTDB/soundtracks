@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malkyrs: Arenas of Eternity | 74365 | [74365-malkyrs-arenas-of-eternity.json](./74365-malkyrs-arenas-of-eternity.json) |
 | Mall Control | 358898 | [358898-mall-control.json](./358898-mall-control.json) |
 | Mall Manager | 291255 | [291255-mall-manager.json](./291255-mall-manager.json) |
+| Mall of Mayhem | 188502 | [188502-mall-of-mayhem.json](./188502-mall-of-mayhem.json) |
 | Mall Simulator | 326402 | [326402-mall-simulator.json](./326402-mall-simulator.json) |
 | Mall Together | 400213 | [400213-mall-together.json](./400213-mall-together.json) |
 | Malleus Maleficarum | 373104 | [373104-malleus-maleficarum.json](./373104-malleus-maleficarum.json) |
@@ -1643,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Combat Challenge | 55124 | [55124-math-combat-challenge.json](./55124-math-combat-challenge.json) |
 | Math Duel | 251043 | [251043-math-duel.json](./251043-math-duel.json) |
 | Math Evolve: A Fun Math Game | 175372 | [175372-math-evolve-a-fun-math-game.json](./175372-math-evolve-a-fun-math-game.json) |
+| Math Game | 188491 | [188491-math-game.json](./188491-math-game.json) |
 | Math Games PRO | 105956 | [105956-math-games-pro.json](./105956-math-games-pro.json) |
 | Math Genius King of Arithmetic | 233753 | [233753-math-genius-king-of-arithmetic.json](./233753-math-genius-king-of-arithmetic.json) |
 | Math Invaders | 209546 | [209546-math-invaders.json](./209546-math-invaders.json) |
@@ -3715,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirax Force | 55208 | [55208-mirax-force.json](./55208-mirax-force.json) |
 | Mircea | 320739 | [320739-mircea.json](./320739-mircea.json) |
 | Mire | 339823 | [339823-mire.json](./339823-mire.json) |
+| Mireille and Amrita, the Forest of Illusions | 188512 | [188512-mireille-and-amrita-the-forest-of-illusions.json](./188512-mireille-and-amrita-the-forest-of-illusions.json) |
 | Mirelaine | 360065 | [360065-mirelaine.json](./360065-mirelaine.json) |
 | Mirko Polo | 298564 | [298564-mirko-polo.json](./298564-mirko-polo.json) |
 | Miro | 291051 | [291051-miro.json](./291051-miro.json) |
@@ -5104,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move Street Cricket II | 97933 | [97933-move-street-cricket-ii.json](./97933-move-street-cricket-ii.json) |
 | Move The Box: Classic Block Puzzle | 251052 | [251052-move-the-box-classic-block-puzzle.json](./251052-move-the-box-classic-block-puzzle.json) |
 | MoveFort | 318189 | [318189-movefort.json](./318189-movefort.json) |
+| Moveit | 188500 | [188500-moveit.json](./188500-moveit.json) |
 | Moves Away | 303794 | [303794-moves-away.json](./303794-moves-away.json) |
 | Movie Award Winners Trivia | 104637 | [104637-movie-award-winners-trivia.json](./104637-movie-award-winners-trivia.json) |
 | Movie Business: Die Welt der Filme | 388716 | [388716-movie-business-die-welt-der-filme.json](./388716-movie-business-die-welt-der-filme.json) |
@@ -6079,6 +6083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Ancients: Mudwater Creek | 74415 | [74415-mystery-of-the-ancients-mudwater-creek.json](./74415-mystery-of-the-ancients-mudwater-creek.json) |
 | Mystery of the Crystal Portal | 25453 | [25453-mystery-of-the-crystal-portal.json](./25453-mystery-of-the-crystal-portal.json) |
 | Mystery of the Lost Temples | 61103 | [61103-mystery-of-the-lost-temples.json](./61103-mystery-of-the-lost-temples.json) |
+| Mystery of the Missing Brigantine | 188519 | [188519-mystery-of-the-missing-brigantine.json](./188519-mystery-of-the-missing-brigantine.json) |
 | Mystery of the Opera | 94792 | [94792-mystery-of-the-opera.json](./94792-mystery-of-the-opera.json) |
 | Mystery of Time and Space | 78675 | [78675-mystery-of-time-and-space.json](./78675-mystery-of-time-and-space.json) |
 | Mystery P.I. - Lost in Los Angeles | 14816 | [14816-mystery-p-i-lost-in-los-angeles.json](./14816-mystery-p-i-lost-in-los-angeles.json) |
