@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Mind | 82788 | [82788-tactical-mind.json](./82788-tactical-mind.json) |
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
 | Tactical Soccer the New Season | 34477 | [34477-tactical-soccer-the-new-season.json](./34477-tactical-soccer-the-new-season.json) |
+| Tactical Vengeance: Play the Game | 230924 | [230924-tactical-vengeance-play-the-game.json](./230924-tactical-vengeance-play-the-game.json) |
 | Tactical Warrior | 208388 | [208388-tactical-warrior.json](./208388-tactical-warrior.json) |
 | TacticalDuty.io | 234036 | [234036-tacticalduty-io.json](./234036-tacticalduty-io.json) |
 | Tactics & Strategy Master 2: Princess of Holy Light | 110992 | [110992-tactics-and-strategy-master-2-princess-of-holy-light.json](./110992-tactics-and-strategy-master-2-princess-of-holy-light.json) |
@@ -1341,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
 | Territory War 3 | 234156 | [234156-territory-war-3.json](./234156-territory-war-3.json) |
+| Territory: Farming and Fighting | 230944 | [230944-territory-farming-and-fighting.json](./230944-territory-farming-and-fighting.json) |
 | Terror Diversion | 318013 | [318013-terror-diversion.json](./318013-terror-diversion.json) |
 | Terror Mod Ultraultimatum HD | 330547 | [330547-terror-mod-ultraultimatum-hd.json](./330547-terror-mod-ultraultimatum-hd.json) |
 | Terror of the Catacombs | 11046 | [11046-terror-of-the-catacombs.json](./11046-terror-of-the-catacombs.json) |
@@ -2837,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: El Dorado | 256002 | [256002-the-game-of-life-2-el-dorado.json](./256002-the-game-of-life-2-el-dorado.json) |
 | The Game of Life 2: Fairytale Kingdom World | 171608 | [171608-the-game-of-life-2-fairytale-kingdom-world.json](./171608-the-game-of-life-2-fairytale-kingdom-world.json) |
 | The Game of Life 2: Sandy Shores World | 171592 | [171592-the-game-of-life-2-sandy-shores-world.json](./171592-the-game-of-life-2-sandy-shores-world.json) |
+| The Game of The Playful | 230930 | [230930-the-game-of-the-playful.json](./230930-the-game-of-the-playful.json) |
 | The Game That Takes Place on a Cruise Ship | 408818 | [408818-the-game-that-takes-place-on-a-cruise-ship.json](./408818-the-game-that-takes-place-on-a-cruise-ship.json) |
 | The Game That Was Stolen From Me at Indiecade2019 | 396233 | [396233-the-game-that-was-stolen-from-me-at-indiecade2019.json](./396233-the-game-that-was-stolen-from-me-at-indiecade2019.json) |
 | The Game: The Game | 393488 | [393488-the-game-the-game.json](./393488-the-game-the-game.json) |
@@ -3963,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Most Terrible Time of the Year | 318418 | [318418-the-most-terrible-time-of-the-year.json](./318418-the-most-terrible-time-of-the-year.json) |
 | The Moth Inside Me | 333644 | [333644-the-moth-inside-me.json](./333644-the-moth-inside-me.json) |
 | The Mother Deer | 330544 | [330544-the-mother-deer.json](./330544-the-mother-deer.json) |
+| The Motorcycle | 230956 | [230956-the-motorcycle.json](./230956-the-motorcycle.json) |
 | The Mountain | 372538 | [372538-the-mountain.json](./372538-the-mountain.json) |
 | The Mountaineer | 262440 | [262440-the-mountaineer.json](./262440-the-mountaineer.json) |
 | The Mourne's | 207338 | [207338-the-mournes.json](./207338-the-mournes.json) |
@@ -8098,6 +8102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: SSR Fletchers Crawfords GE C44aci Pack | 227286 | [227286-trainz-railroad-simulator-2019-ssr-fletchers-crawfords-ge-c44aci-pack.json](./227286-trainz-railroad-simulator-2019-ssr-fletchers-crawfords-ge-c44aci-pack.json) |
 | Trainz Railroad Simulator 2019: Swayfield Branch | 298151 | [298151-trainz-railroad-simulator-2019-swayfield-branch.json](./298151-trainz-railroad-simulator-2019-swayfield-branch.json) |
 | Trainz Railroad Simulator 2019: Switch Model Railroad - TRS19 | 190715 | [190715-trainz-railroad-simulator-2019-switch-model-railroad-trs19.json](./190715-trainz-railroad-simulator-2019-switch-model-railroad-trs19.json) |
+| Trainz Railroad Simulator 2019: The Indian Pacific | 230938 | [230938-trainz-railroad-simulator-2019-the-indian-pacific.json](./230938-trainz-railroad-simulator-2019-the-indian-pacific.json) |
 | Trainz Railroad Simulator 2019: VR Healesville 1913-1920 TRS19 | 190707 | [190707-trainz-railroad-simulator-2019-vr-healesville-1913-1920-trs19.json](./190707-trainz-railroad-simulator-2019-vr-healesville-1913-1920-trs19.json) |
 | Trainz Railroad Simulator 2022 | 195792 | [195792-trainz-railroad-simulator-2022.json](./195792-trainz-railroad-simulator-2022.json) |
 | Trainz Railroad Simulator 2022: CD Bmto292 109 | 276320 | [276320-trainz-railroad-simulator-2022-cd-bmto292-109.json](./276320-trainz-railroad-simulator-2022-cd-bmto292-109.json) |
@@ -8125,6 +8130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: QR National GE C44aci | 213408 | [213408-trainz-railroad-simulator-2022-qr-national-ge-c44aci.json](./213408-trainz-railroad-simulator-2022-qr-national-ge-c44aci.json) |
 | Trainz Railroad Simulator 2022: SSR Fletchers Crawfords GE C44aci Pack | 318440 | [318440-trainz-railroad-simulator-2022-ssr-fletchers-crawfords-ge-c44aci-pack.json](./318440-trainz-railroad-simulator-2022-ssr-fletchers-crawfords-ge-c44aci-pack.json) |
 | Trainz Railroad Simulator 2022: Swayfield Branch | 298149 | [298149-trainz-railroad-simulator-2022-swayfield-branch.json](./298149-trainz-railroad-simulator-2022-swayfield-branch.json) |
+| Trainz Railroad Simulator 2022: The Indian Pacific | 230954 | [230954-trainz-railroad-simulator-2022-the-indian-pacific.json](./230954-trainz-railroad-simulator-2022-the-indian-pacific.json) |
 | Trainz Simulator 2009: Settle and Carlisle | 27898 | [27898-trainz-simulator-2009-settle-and-carlisle.json](./27898-trainz-simulator-2009-settle-and-carlisle.json) |
 | Trainz Simulator 2009: World Builder Edition | 11016 | [11016-trainz-simulator-2009-world-builder-edition.json](./11016-trainz-simulator-2009-world-builder-edition.json) |
 | Trainz Simulator 2010: Engineers Edition | 11017 | [11017-trainz-simulator-2010-engineers-edition.json](./11017-trainz-simulator-2010-engineers-edition.json) |
