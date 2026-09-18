@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tower | 213964 | [213964-fairy-tower.json](./213964-fairy-tower.json) |
 | Fairy Tower | 218159 | [218159-fairy-tower.json](./218159-fairy-tower.json) |
 | Fairy Tower Defense | 107812 | [107812-fairy-tower-defense.json](./107812-fairy-tower-defense.json) |
+| Fairy Village | 233625 | [233625-fairy-village.json](./233625-fairy-village.json) |
 | FairyLand | 413711 | [413711-fairyland.json](./413711-fairyland.json) |
 | Fairyland: Power Dice | 103473 | [103473-fairyland-power-dice.json](./103473-fairyland-power-dice.json) |
 | Fairyside | 223480 | [223480-fairyside.json](./223480-fairyside.json) |
@@ -312,12 +313,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: For a Dream of Innocence | 191785 | [191785-fallen-london-for-a-dream-of-innocence.json](./191785-fallen-london-for-a-dream-of-innocence.json) |
 | Fallen London: Leviathan | 191786 | [191786-fallen-london-leviathan.json](./191786-fallen-london-leviathan.json) |
 | Fallen London: Reunion | 191787 | [191787-fallen-london-reunion.json](./191787-fallen-london-reunion.json) |
+| Fallen London: Stolen Stanzas | 233592 | [233592-fallen-london-stolen-stanzas.json](./233592-fallen-london-stolen-stanzas.json) |
 | Fallen London: The Blemmigan Affair | 191865 | [191865-fallen-london-the-blemmigan-affair.json](./191865-fallen-london-the-blemmigan-affair.json) |
 | Fallen London: The Brass Grail | 191882 | [191882-fallen-london-the-brass-grail.json](./191882-fallen-london-the-brass-grail.json) |
 | Fallen London: The Crocodile Who Would Be King | 191793 | [191793-fallen-london-the-crocodile-who-would-be-king.json](./191793-fallen-london-the-crocodile-who-would-be-king.json) |
 | Fallen London: The Fair Unknown | 191783 | [191783-fallen-london-the-fair-unknown.json](./191783-fallen-london-the-fair-unknown.json) |
 | Fallen London: The House of Silk and Flame | 191794 | [191794-fallen-london-the-house-of-silk-and-flame.json](./191794-fallen-london-the-house-of-silk-and-flame.json) |
 | Fallen London: The Marriage of Feducci | 191869 | [191869-fallen-london-the-marriage-of-feducci.json](./191869-fallen-london-the-marriage-of-feducci.json) |
+| Fallen London: The Mushroom's Dream | 233591 | [233591-fallen-london-the-mushrooms-dream.json](./233591-fallen-london-the-mushrooms-dream.json) |
 | Fallen London: The Queen of the Elephants | 199619 | [199619-fallen-london-the-queen-of-the-elephants.json](./199619-fallen-london-the-queen-of-the-elephants.json) |
 | Fallen London: The Tempest | 191789 | [191789-fallen-london-the-tempest.json](./191789-fallen-london-the-tempest.json) |
 | Fallen London: The Thing That Came in from the Fog | 191784 | [191784-fallen-london-the-thing-that-came-in-from-the-fog.json](./191784-fallen-london-the-thing-that-came-in-from-the-fog.json) |
@@ -1551,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem 8R | 380529 | [380529-fire-emblem-8r.json](./380529-fire-emblem-8r.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
 | Fire Emblem Wars | 338815 | [338815-fire-emblem-wars.json](./338815-fire-emblem-wars.json) |
+| Fire Emblem: Binding Blade Plus | 233604 | [233604-fire-emblem-binding-blade-plus.json](./233604-fire-emblem-binding-blade-plus.json) |
 | Fire Emblem: Blessed Heart | 214493 | [214493-fire-emblem-blessed-heart.json](./214493-fire-emblem-blessed-heart.json) |
 | Fire Emblem: Bloodlines | 322794 | [322794-fire-emblem-bloodlines.json](./322794-fire-emblem-bloodlines.json) |
 | Fire Emblem: Curse of Lagdou | 331954 | [331954-fire-emblem-curse-of-lagdou.json](./331954-fire-emblem-curse-of-lagdou.json) |
@@ -1818,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Sim World: Pro Tour - Talon Fishery | 170475 | [170475-fishing-sim-world-pro-tour-talon-fishery.json](./170475-fishing-sim-world-pro-tour-talon-fishery.json) |
 | Fishing Sim World: Pro Tour - Tournament Bass Pack | 156156 | [156156-fishing-sim-world-pro-tour-tournament-bass-pack.json](./156156-fishing-sim-world-pro-tour-tournament-bass-pack.json) |
 | Fishing Sim World: Pro Tour - Trophy Hunter's Equipment Pack | 170483 | [170483-fishing-sim-world-pro-tour-trophy-hunters-equipment-pack.json](./170483-fishing-sim-world-pro-tour-trophy-hunters-equipment-pack.json) |
+| Fishing Superstars | 233640 | [233640-fishing-superstars.json](./233640-fishing-superstars.json) |
 | Fishing the Abyss | 333091 | [333091-fishing-the-abyss.json](./333091-fishing-the-abyss.json) |
 | Fishing Time | 364504 | [364504-fishing-time.json](./364504-fishing-time.json) |
 | Fishing Tycoon Simulator | 356076 | [356076-fishing-tycoon-simulator.json](./356076-fishing-tycoon-simulator.json) |
@@ -2037,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flare Nuinui Quest | 320719 | [320719-flare-nuinui-quest.json](./320719-flare-nuinui-quest.json) |
 | Flarebound | 373621 | [373621-flarebound.json](./373621-flarebound.json) |
 | Flaregate Network | 325286 | [325286-flaregate-network.json](./325286-flaregate-network.json) |
+| Flarts | 233637 | [233637-flarts.json](./233637-flarts.json) |
 | Flash and Die | 391167 | [391167-flash-and-die.json](./391167-flash-and-die.json) |
 | Flash Cat | 322349 | [322349-flash-cat.json](./322349-flash-cat.json) |
 | Flash Cycle 2 | 286631 | [286631-flash-cycle-2.json](./286631-flash-cycle-2.json) |
