@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watermelon Merge: Strategy Game | 303236 | [303236-watermelon-merge-strategy-game.json](./303236-watermelon-merge-strategy-game.json) |
 | Watermelon Simulator | 325627 | [325627-watermelon-simulator.json](./325627-watermelon-simulator.json) |
 | Waternet | 210651 | [210651-waternet.json](./210651-waternet.json) |
+| Waternet | 233609 | [233609-waternet.json](./233609-waternet.json) |
 | Waterpark Simulator | 348648 | [348648-waterpark-simulator.json](./348648-waterpark-simulator.json) |
 | Waters & Fields Adventure Bundle | 271829 | [271829-waters-and-fields-adventure-bundle.json](./271829-waters-and-fields-adventure-bundle.json) |
 | Waters of Ragnarok | 403653 | [403653-waters-of-ragnarok.json](./403653-waters-of-ragnarok.json) |
@@ -929,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welme | 404234 | [404234-welme.json](./404234-welme.json) |
 | Wendigo | 252727 | [252727-wendigo.json](./252727-wendigo.json) |
 | Wendy: Der Traum von Arizona | 98949 | [98949-wendy-der-traum-von-arizona.json](./98949-wendy-der-traum-von-arizona.json) |
+| Wendy's Quest | 233594 | [233594-wendys-quest.json](./233594-wendys-quest.json) |
 | Wenjia | 110509 | [110509-wenjia.json](./110509-wenjia.json) |
 | Wénzìyù | 115626 | [115626-wenziyu.json](./115626-wenziyu.json) |
 | Were House | 178553 | [178553-were-house.json](./178553-were-house.json) |
