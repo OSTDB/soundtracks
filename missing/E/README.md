@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erovoice! Sexy Voices Lead to a Successful Love Life | 204498 | [204498-erovoice-sexy-voices-lead-to-a-successful-love-life.json](./204498-erovoice-sexy-voices-lead-to-a-successful-love-life.json) |
 | Errand | 57092 | [57092-errand.json](./57092-errand.json) |
 | Errant: Hunter's Soul | 200748 | [200748-errant-hunters-soul.json](./200748-errant-hunters-soul.json) |
+| Errante | 185559 | [185559-errante.json](./185559-errante.json) |
 | Errasaga | 381599 | [381599-errasaga.json](./381599-errasaga.json) |
 | Error 0: New World Found | 178685 | [178685-error-0-new-world-found.json](./178685-error-0-new-world-found.json) |
 | Error Codes | 325654 | [325654-error-codes.json](./325654-error-codes.json) |
@@ -1399,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ES Games | 334784 | [334784-es-games.json](./334784-es-games.json) |
 | eSail | 89648 | [89648-esail.json](./89648-esail.json) |
 | Esau's World | 294150 | [294150-esaus-world.json](./294150-esaus-world.json) |
+| ESC Ape | 185557 | [185557-esc-ape.json](./185557-esc-ape.json) |
 | Esc-8-bit | 114369 | [114369-esc-8-bit.json](./114369-esc-8-bit.json) |
 | Esc/ape | 374142 | [374142-esc-ape.json](./374142-esc-ape.json) |
 | Escalar | 245925 | [245925-escalar.json](./245925-escalar.json) |
@@ -2007,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Water Ep1 | 339380 | [339380-evil-water-ep1.json](./339380-evil-water-ep1.json) |
 | Evil World Hopsca | 336001 | [336001-evil-world-hopsca.json](./336001-evil-world-hopsca.json) |
 | Evil Zombies: Death on the Road | 232158 | [232158-evil-zombies-death-on-the-road.json](./232158-evil-zombies-death-on-the-road.json) |
+| Evil, My Friend | 185547 | [185547-evil-my-friend.json](./185547-evil-my-friend.json) |
 | EvilCraft | 232678 | [232678-evilcraft.json](./232678-evilcraft.json) |
 | EvilHack | 351130 | [351130-evilhack.json](./351130-evilhack.json) |
 | Evilibrium: Soul Hunters | 125384 | [125384-evilibrium-soul-hunters.json](./125384-evilibrium-soul-hunters.json) |
