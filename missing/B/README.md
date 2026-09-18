@@ -3369,6 +3369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku no Saiai no | 322009 | [322009-boku-no-saiai-no.json](./322009-boku-no-saiai-no.json) |
 | Boku no Soushiki ni Youkoso: Happy Rebirthday | 335700 | [335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json](./335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json) |
 | Boku to Wanko | 58819 | [58819-boku-to-wanko.json](./58819-boku-to-wanko.json) |
+| Boku wa Koukuu Kanseikan: Airport Hero 3D - Kankuu All Stars | 222426 | [222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json](./222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D Haneda with JAL | 78708 | [78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json](./78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json) |
 | Boku, Doraemon | 66134 | [66134-boku-doraemon.json](./66134-boku-doraemon.json) |
 | Bokuaso2 | 97826 | [97826-bokuaso2.json](./97826-bokuaso2.json) |
@@ -3478,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomcat | 362329 | [362329-bomcat.json](./362329-bomcat.json) |
 | Bonanza Burger | 288779 | [288779-bonanza-burger.json](./288779-bonanza-burger.json) |
 | Bonbon | 74482 | [74482-bonbon.json](./74482-bonbon.json) |
+| Bonbonribbon: Tokimeki Coord Kirakira Dance | 222419 | [222419-bonbonribbon-tokimeki-coord-kirakira-dance.json](./222419-bonbonribbon-tokimeki-coord-kirakira-dance.json) |
 | Bond | 302388 | [302388-bond.json](./302388-bond.json) |
 | Bond Blues | 293107 | [293107-bond-blues.json](./293107-bond-blues.json) |
 | Bonded Realities | 66109 | [66109-bonded-realities.json](./66109-bonded-realities.json) |
