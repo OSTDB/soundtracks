@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rg-ft | 176997 | [176997-rg-ft.json](./176997-rg-ft.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
+| Rgby | 199473 | [199473-rgby.json](./199473-rgby.json) |
 | RGX Showdown | 109588 | [109588-rgx-showdown.json](./109588-rgx-showdown.json) |
 | Rhapsody of Zephyr | 70961 | [70961-rhapsody-of-zephyr.json](./70961-rhapsody-of-zephyr.json) |
 | Rhapsody: Marl Kingdom Chronicles | 234121 | [234121-rhapsody-marl-kingdom-chronicles.json](./234121-rhapsody-marl-kingdom-chronicles.json) |
@@ -2356,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Raid 3D | 204070 | [204070-river-raid-3d.json](./204070-river-raid-3d.json) |
 | River Rescue | 23897 | [23897-river-rescue.json](./23897-river-rescue.json) |
 | River Runners | 384510 | [384510-river-runners.json](./384510-river-runners.json) |
+| River Rush | 199488 | [199488-river-rush.json](./199488-river-rush.json) |
 | River Towns | 324918 | [324918-river-towns.json](./324918-river-towns.json) |
 | River-ty Town | 384062 | [384062-river-ty-town.json](./384062-river-ty-town.json) |
 | Riverboat Casino | 209164 | [209164-riverboat-casino.json](./209164-riverboat-casino.json) |
