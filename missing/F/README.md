@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: The Blemmigan Affair | 191865 | [191865-fallen-london-the-blemmigan-affair.json](./191865-fallen-london-the-blemmigan-affair.json) |
 | Fallen London: The Brass Grail | 191882 | [191882-fallen-london-the-brass-grail.json](./191882-fallen-london-the-brass-grail.json) |
 | Fallen London: The Crocodile Who Would Be King | 191793 | [191793-fallen-london-the-crocodile-who-would-be-king.json](./191793-fallen-london-the-crocodile-who-would-be-king.json) |
+| Fallen London: The Exile's Chalice | 221853 | [221853-fallen-london-the-exiles-chalice.json](./221853-fallen-london-the-exiles-chalice.json) |
 | Fallen London: The Fair Unknown | 191783 | [191783-fallen-london-the-fair-unknown.json](./191783-fallen-london-the-fair-unknown.json) |
 | Fallen London: The House of Silk and Flame | 191794 | [191794-fallen-london-the-house-of-silk-and-flame.json](./191794-fallen-london-the-house-of-silk-and-flame.json) |
 | Fallen London: The Marriage of Feducci | 191869 | [191869-fallen-london-the-marriage-of-feducci.json](./191869-fallen-london-the-marriage-of-feducci.json) |
@@ -1093,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FFS, Another Northern Duke?! | 309876 | [309876-ffs-another-northern-duke.json](./309876-ffs-another-northern-duke.json) |
 | FhaMazein | 109723 | [109723-fhamazein.json](./109723-fhamazein.json) |
 | Fhtagn Nagh | 271229 | [271229-fhtagn-nagh.json](./271229-fhtagn-nagh.json) |
+| Fhtagn Simulator | 221860 | [221860-fhtagn-simulator.json](./221860-fhtagn-simulator.json) |
 | Fhtagn! - Tales of the Creeping Madness | 87947 | [87947-fhtagn-tales-of-the-creeping-madness.json](./87947-fhtagn-tales-of-the-creeping-madness.json) |
 | Fi-Knight Kingdom | 262450 | [262450-fi-knight-kingdom.json](./262450-fi-knight-kingdom.json) |
 | FIA European Truck Racing Championship | 117855 | [117855-fia-european-truck-racing-championship.json](./117855-fia-european-truck-racing-championship.json) |
@@ -1788,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Upon a Star | 112287 | [112287-fish-upon-a-star.json](./112287-fish-upon-a-star.json) |
 | Fish War | 247024 | [247024-fish-war.json](./247024-fish-war.json) |
 | Fish! | 12101 | [12101-fish.json](./12101-fish.json) |
+| Fishao | 221821 | [221821-fishao.json](./221821-fishao.json) |
 | Fishards | 152852 | [152852-fishards.json](./152852-fishards.json) |
 | Fishbait | 373634 | [373634-fishbait.json](./373634-fishbait.json) |
 | Fishbowl | 68629 | [68629-fishbowl.json](./68629-fishbowl.json) |
