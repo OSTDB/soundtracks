@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightUp! | 186248 | [186248-lightup.json](./186248-lightup.json) |
 | LightWalk | 33096 | [33096-lightwalk.json](./33096-lightwalk.json) |
 | LightWave | 155657 | [155657-lightwave.json](./155657-lightwave.json) |
+| Lightworkers | 203872 | [203872-lightworkers.json](./203872-lightworkers.json) |
 | Lightyear Frontier | 163456 | [163456-lightyear-frontier.json](./163456-lightyear-frontier.json) |
 | Ligmar | 361692 | [361692-ligmar.json](./361692-ligmar.json) |
 | Ligo | 258539 | [258539-ligo.json](./258539-ligo.json) |
