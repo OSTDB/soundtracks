@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mystic Journey With: Aria | 392957 | [392957-a-mystic-journey-with-aria.json](./392957-a-mystic-journey-with-aria.json) |
 | A Mystic Journey With: Nova | 392947 | [392947-a-mystic-journey-with-nova.json](./392947-a-mystic-journey-with-nova.json) |
 | A Mystic Journey With: Terra | 392951 | [392951-a-mystic-journey-with-terra.json](./392951-a-mystic-journey-with-terra.json) |
+| A New Don | 183433 | [183433-a-new-don.json](./183433-a-new-don.json) |
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
 | A Night Out. | 334702 | [334702-a-night-out.json](./334702-a-night-out.json) |
 | A Night With Angel | 266280 | [266280-a-night-with-angel.json](./266280-a-night-with-angel.json) |
@@ -1544,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almost There: The Platformer | 113722 | [113722-almost-there-the-platformer.json](./113722-almost-there-the-platformer.json) |
 | Alnahsha Run | 202235 | [202235-alnahsha-run.json](./202235-alnahsha-run.json) |
 | Aloha Play | 91408 | [91408-aloha-play.json](./91408-aloha-play.json) |
+| Aloisius | 183469 | [183469-aloisius.json](./183469-aloisius.json) |
 | Alone but Strong | 369625 | [369625-alone-but-strong.json](./369625-alone-but-strong.json) |
 | Alone In a Dream | 156665 | [156665-alone-in-a-dream.json](./156665-alone-in-a-dream.json) |
 | Alone In Hell | 217852 | [217852-alone-in-hell.json](./217852-alone-in-hell.json) |
@@ -2190,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Emoji the Game | 169927 | [169927-angry-emoji-the-game.json](./169927-angry-emoji-the-game.json) |
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
 | Angry Gran Global Assault | 240921 | [240921-angry-gran-global-assault.json](./240921-angry-gran-global-assault.json) |
+| Angry Mountain Gods | 183440 | [183440-angry-mountain-gods.json](./183440-angry-mountain-gods.json) |
 | Angry Sonic Maze | 95997 | [95997-angry-sonic-maze.json](./95997-angry-sonic-maze.json) |
 | Angry Space Bees | 149029 | [149029-angry-space-bees.json](./149029-angry-space-bees.json) |
 | Angry stone | 296533 | [296533-angry-stone.json](./296533-angry-stone.json) |
