@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo: Case File 1 - The Glowing Bug Man | 78685 | [78685-scooby-doo-case-file-1-the-glowing-bug-man.json](./78685-scooby-doo-case-file-1-the-glowing-bug-man.json) |
 | Scooby-Doo! & Looney Tunes Cartoon Universe: Arcade | 247599 | [247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json](./247599-scooby-doo-and-looney-tunes-cartoon-universe-arcade.json) |
 | Scooby-Doo! Mystery of the Fun Park Phantom | 2857 | [2857-scooby-doo-mystery-of-the-fun-park-phantom.json](./2857-scooby-doo-mystery-of-the-fun-park-phantom.json) |
+| Scooby-Doo! Unmasked | 210729 | [210729-scooby-doo-unmasked.json](./210729-scooby-doo-unmasked.json) |
 | Scooby-Doo!: Catch Shaggy | 245412 | [245412-scooby-doo-catch-shaggy.json](./245412-scooby-doo-catch-shaggy.json) |
 | Scooby-Doo!: Mistery Mayhem | 44634 | [44634-scooby-doo-mistery-mayhem.json](./44634-scooby-doo-mistery-mayhem.json) |
 | ScooMart | 265765 | [265765-scoomart.json](./265765-scoomart.json) |
@@ -1400,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeking Adventure | 331970 | [331970-seeking-adventure.json](./331970-seeking-adventure.json) |
 | Seeking Asylum: The Game | 390522 | [390522-seeking-asylum-the-game.json](./390522-seeking-asylum-the-game.json) |
 | Seeking for Puppies | 359415 | [359415-seeking-for-puppies.json](./359415-seeking-for-puppies.json) |
+| Seeking Light | 210698 | [210698-seeking-light.json](./210698-seeking-light.json) |
 | Seeking Revenge | 158225 | [158225-seeking-revenge.json](./158225-seeking-revenge.json) |
 | SeekOut | 391614 | [391614-seekout.json](./391614-seekout.json) |
 | Seemly Girl Escape | 233493 | [233493-seemly-girl-escape.json](./233493-seemly-girl-escape.json) |
@@ -3291,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Site Z-374 | 308271 | [308271-site-z-374.json](./308271-site-z-374.json) |
 | Sitnalta | 268762 | [268762-sitnalta.json](./268762-sitnalta.json) |
 | Sitri: Shadow Walk | 225092 | [225092-sitri-shadow-walk.json](./225092-sitri-shadow-walk.json) |
+| Sitting Ducks | 210727 | [210727-sitting-ducks.json](./210727-sitting-ducks.json) |
 | Situation Outbreak | 91456 | [91456-situation-outbreak.json](./91456-situation-outbreak.json) |
 | Sity | 202332 | [202332-sity.json](./202332-sity.json) |
 | SiviCity | 25608 | [25608-sivicity.json](./25608-sivicity.json) |
@@ -6385,6 +6388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Four Squared | 288190 | [288190-spongebob-squarepants-four-squared.json](./288190-spongebob-squarepants-four-squared.json) |
 | SpongeBob SquarePants: JellyFish Dodge | 220116 | [220116-spongebob-squarepants-jellyfish-dodge.json](./220116-spongebob-squarepants-jellyfish-dodge.json) |
 | SpongeBob SquarePants: JellyFish Dodge | 220118 | [220118-spongebob-squarepants-jellyfish-dodge.json](./220118-spongebob-squarepants-jellyfish-dodge.json) |
+| SpongeBob SquarePants: Lights, Camera, Pants! | 210724 | [210724-spongebob-squarepants-lights-camera-pants.json](./210724-spongebob-squarepants-lights-camera-pants.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
 | SpongeBob SquarePants: Revenge of the Flying Dutchman | 2762 | [2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json](./2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json) |
 | SpongeBob SquarePants: The Clam Prix | 230402 | [230402-spongebob-squarepants-the-clam-prix.json](./230402-spongebob-squarepants-the-clam-prix.json) |
@@ -6577,6 +6581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Kids Challenger | 49385 | [49385-spy-kids-challenger.json](./49385-spy-kids-challenger.json) |
 | Spy Kids Learning Adventures: Mission - Man in the Moon | 73833 | [73833-spy-kids-learning-adventures-mission-man-in-the-moon.json](./73833-spy-kids-learning-adventures-mission-man-in-the-moon.json) |
 | Spy Kids Learning Adventures: Mission - The Underground Affair | 72075 | [72075-spy-kids-learning-adventures-mission-the-underground-affair.json](./72075-spy-kids-learning-adventures-mission-the-underground-affair.json) |
+| Spy Muppets: License to Croak | 210723 | [210723-spy-muppets-license-to-croak.json](./210723-spy-muppets-license-to-croak.json) |
 | Spy Network | 188111 | [188111-spy-network.json](./188111-spy-network.json) |
 | Spy Snatcher | 73817 | [73817-spy-snatcher.json](./73817-spy-snatcher.json) |
 | Spy Tactics | 120359 | [120359-spy-tactics.json](./120359-spy-tactics.json) |
@@ -9141,6 +9146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Construct | 250039 | [250039-super-mario-construct.json](./250039-super-mario-construct.json) |
 | Super Mario Construct 2: Yoshi's Fabrication Station | 250040 | [250040-super-mario-construct-2-yoshis-fabrication-station.json](./250040-super-mario-construct-2-yoshis-fabrication-station.json) |
 | Super Mario Craft | 313112 | [313112-super-mario-craft.json](./313112-super-mario-craft.json) |
+| Super Mario DX | 210709 | [210709-super-mario-dx.json](./210709-super-mario-dx.json) |
 | Super Mario Flash 2 | 183605 | [183605-super-mario-flash-2.json](./183605-super-mario-flash-2.json) |
 | Super Mario Flash 2: SMW Remake | 198502 | [198502-super-mario-flash-2-smw-remake.json](./198502-super-mario-flash-2-smw-remake.json) |
 | Super Mario Flashback | 134075 | [134075-super-mario-flashback.json](./134075-super-mario-flashback.json) |
