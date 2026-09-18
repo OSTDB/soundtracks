@@ -2188,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X3: Proto Edition | 219082 | [219082-mega-man-x3-proto-edition.json](./219082-mega-man-x3-proto-edition.json) |
 | Mega Man X5 Improvement Project | 196256 | [196256-mega-man-x5-improvement-project.json](./196256-mega-man-x5-improvement-project.json) |
 | Mega Man X5: Improvement Project Addendum | 308384 | [308384-mega-man-x5-improvement-project-addendum.json](./308384-mega-man-x5-improvement-project-addendum.json) |
+| Mega Man X6 Tweaks | 187363 | [187363-mega-man-x6-tweaks.json](./187363-mega-man-x6-tweaks.json) |
 | Mega Man X8 | 1748 | [1748-mega-man-x8.json](./1748-mega-man-x8.json) |
 | Mega Man Xtreme 2 | 1750 | [1750-mega-man-xtreme-2.json](./1750-mega-man-xtreme-2.json) |
 | Mega Man Y+1: Operation X.M.A.S. | 279729 | [279729-mega-man-y-1-operation-x-m-a-s.json](./279729-mega-man-y-1-operation-x-m-a-s.json) |
@@ -3780,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Base | 13740 | [13740-missile-base.json](./13740-missile-base.json) |
 | Missile City AeroLeague | 249807 | [249807-missile-city-aeroleague.json](./249807-missile-city-aeroleague.json) |
 | Missile Comes Back to Me | 361693 | [361693-missile-comes-back-to-me.json](./361693-missile-comes-back-to-me.json) |
+| Missile Command | 187374 | [187374-missile-command.json](./187374-missile-command.json) |
 | Missile Command | 209502 | [209502-missile-command.json](./209502-missile-command.json) |
 | Missile Command | 209503 | [209503-missile-command.json](./209503-missile-command.json) |
 | Missile Command | 280782 | [280782-missile-command.json](./280782-missile-command.json) |
@@ -5237,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Supershot | 274736 | [274736-mr-supershot.json](./274736-mr-supershot.json) |
 | Mr. Whiskers Bubbles | 385088 | [385088-mr-whiskers-bubbles.json](./385088-mr-whiskers-bubbles.json) |
 | Mr. Wings | 255714 | [255714-mr-wings.json](./255714-mr-wings.json) |
+| Mr.Addon in Sulpicius Gallus M | 187384 | [187384-mr-addon-in-sulpicius-gallus-m.json](./187384-mr-addon-in-sulpicius-gallus-m.json) |
 | Mr.Mine | 157130 | [157130-mr-mine.json](./157130-mr-mine.json) |
 | Mr.Ninja!! Fever | 248283 | [248283-mr-ninja-fever.json](./248283-mr-ninja-fever.json) |
 | Mr.T Survival | 249295 | [249295-mr-t-survival.json](./249295-mr-t-survival.json) |
