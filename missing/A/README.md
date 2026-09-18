@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A'Jatt | 372556 | [372556-ajatt.json](./372556-ajatt.json) |
 | A/X-101 | 5360 | [5360-a-x-101.json](./5360-a-x-101.json) |
 | AAA Clock: Extreme Premium | 304762 | [304762-aaa-clock-extreme-premium.json](./304762-aaa-clock-extreme-premium.json) |
+| Aaaaaaaaaaaaaaaaaaaaaaaa!!! Remastered | 219696 | [219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json](./219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json) |
 | Aaahh!!! Real Monsters | 5339 | [5339-aaahh-real-monsters.json](./5339-aaahh-real-monsters.json) |
 | Aabahran: The Forsaken Lands | 229139 | [229139-aabahran-the-forsaken-lands.json](./229139-aabahran-the-forsaken-lands.json) |
 | Aaero + Aaero2 Bundle | 331448 | [331448-aaero-aaero2-bundle.json](./331448-aaero-aaero2-bundle.json) |
@@ -357,10 +358,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absinth | 68905 | [68905-absinth.json](./68905-absinth.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
+| Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
 | Absolutely Nothing Good | 414420 | [414420-absolutely-nothing-good.json](./414420-absolutely-nothing-good.json) |
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
 | Absolver: Deluxe Edition | 52555 | [52555-absolver-deluxe-edition.json](./52555-absolver-deluxe-edition.json) |
+| Absorb | 219698 | [219698-absorb.json](./219698-absorb.json) |
 | Absorb Reality Collection | 52554 | [52554-absorb-reality-collection.json](./52554-absorb-reality-collection.json) |
 | AbsTRace | 391219 | [391219-abstrace.json](./391219-abstrace.json) |
 | Abstract Code | 283873 | [283873-abstract-code.json](./283873-abstract-code.json) |
@@ -485,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acquaint | 379466 | [379466-acquaint.json](./379466-acquaint.json) |
 | Acquaria | 132868 | [132868-acquaria.json](./132868-acquaria.json) |
 | Acquisition War | 148502 | [148502-acquisition-war.json](./148502-acquisition-war.json) |
+| Acretia: Guardians of Lian | 219699 | [219699-acretia-guardians-of-lian.json](./219699-acretia-guardians-of-lian.json) |
 | Acroama: Company of Strays | 379471 | [379471-acroama-company-of-strays.json](./379471-acroama-company-of-strays.json) |
 | Acrobat Star Show | 108440 | [108440-acrobat-star-show.json](./108440-acrobat-star-show.json) |
 | AcroChallenge | 367506 | [367506-acrochallenge.json](./367506-acrochallenge.json) |
@@ -499,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
 | Act of Aggression: Reboot Edition | 52552 | [52552-act-of-aggression-reboot-edition.json](./52552-act-of-aggression-reboot-edition.json) |
+| Actala: The Hero's Shadow | 219700 | [219700-actala-the-heros-shadow.json](./219700-actala-the-heros-shadow.json) |
 | Action 52 | 238205 | [238205-action-52.json](./238205-action-52.json) |
 | Action Ball Deluxe | 177040 | [177040-action-ball-deluxe.json](./177040-action-ball-deluxe.json) |
 | Action Biker | 13671 | [13671-action-biker.json](./13671-action-biker.json) |
@@ -533,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Nauseam | 304201 | [304201-ad-nauseam.json](./304201-ad-nauseam.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
+| Adanath | 219701 | [219701-adanath.json](./219701-adanath.json) |
 | Adapta Solva | 283893 | [283893-adapta-solva.json](./283893-adapta-solva.json) |
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
@@ -594,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Master | 381130 | [381130-adventure-master.json](./381130-adventure-master.json) |
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
+| Adventure of Elysia | 219702 | [219702-adventure-of-elysia.json](./219702-adventure-of-elysia.json) |
 | Adventure of Realms | 379480 | [379480-adventure-of-realms.json](./379480-adventure-of-realms.json) |
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
@@ -655,12 +662,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AetherShot | 318055 | [318055-aethershot.json](./318055-aethershot.json) |
 | Aethus | 270142 | [270142-aethus.json](./270142-aethus.json) |
 | Aeve:Zero Gravity | 83540 | [83540-aeve-zero-gravity.json](./83540-aeve-zero-gravity.json) |
+| Aevumblade Chronicles | 219686 | [219686-aevumblade-chronicles.json](./219686-aevumblade-chronicles.json) |
 | AEW: Fight Forever | 145216 | [145216-aew-fight-forever.json](./145216-aew-fight-forever.json) |
 | AEW: Fight Forever - Elite Edition | 251670 | [251670-aew-fight-forever-elite-edition.json](./251670-aew-fight-forever-elite-edition.json) |
 | Afallon | 283879 | [283879-afallon.json](./283879-afallon.json) |
 | Affairs of the Court: Choice of Romance | 32355 | [32355-affairs-of-the-court-choice-of-romance.json](./32355-affairs-of-the-court-choice-of-romance.json) |
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
+| Africa Empire 2027 | 219680 | [219680-africa-empire-2027.json](./219680-africa-empire-2027.json) |
 | AfroPenguin & The Forbidden Ramen | 244866 | [244866-afropenguin-and-the-forbidden-ramen.json](./244866-afropenguin-and-the-forbidden-ramen.json) |
 | After Burner | 365088 | [365088-after-burner.json](./365088-after-burner.json) |
 | After Burner | 365100 | [365100-after-burner.json](./365100-after-burner.json) |
@@ -1053,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albert | 185094 | [185094-albert.json](./185094-albert.json) |
 | Albert and Otto: The Adventure Begins | 13223 | [13223-albert-and-otto-the-adventure-begins.json](./13223-albert-and-otto-the-adventure-begins.json) |
 | Albert Odyssey 2: Jashin no Taidou | 38346 | [38346-albert-odyssey-2-jashin-no-taidou.json](./38346-albert-odyssey-2-jashin-no-taidou.json) |
+| Albert's Journey | 219659 | [219659-alberts-journey.json](./219659-alberts-journey.json) |
 | Albino Lullaby: Episode 3 | 238615 | [238615-albino-lullaby-episode-3.json](./238615-albino-lullaby-episode-3.json) |
 | Alborada | 266322 | [266322-alborada.json](./266322-alborada.json) |
 | Alcatraz | 288748 | [288748-alcatraz.json](./288748-alcatraz.json) |
@@ -1962,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromeda One | 292695 | [292695-andromeda-one.json](./292695-andromeda-one.json) |
 | Andromeda Overdrive | 265420 | [265420-andromeda-overdrive.json](./265420-andromeda-overdrive.json) |
 | Andromeda Six: Team Time with Oppo | 256361 | [256361-andromeda-six-team-time-with-oppo.json](./256361-andromeda-six-team-time-with-oppo.json) |
+| Andromeda Survivors | 219677 | [219677-andromeda-survivors.json](./219677-andromeda-survivors.json) |
 | Andromeda Zombies Colonies | 233221 | [233221-andromeda-zombies-colonies.json](./233221-andromeda-zombies-colonies.json) |
 | Andromis | 377085 | [377085-andromis.json](./377085-andromis.json) |
 | Andromium | 94740 | [94740-andromium.json](./94740-andromium.json) |
@@ -2472,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antiquia Lost | 39009 | [39009-antiquia-lost.json](./39009-antiquia-lost.json) |
 | Antireal | 272833 | [272833-antireal.json](./272833-antireal.json) |
 | Antiriad | 45331 | [45331-antiriad.json](./45331-antiriad.json) |
+| AntiShatter | 219693 | [219693-antishatter.json](./219693-antishatter.json) |
 | Antisphere | 32876 | [32876-antisphere.json](./32876-antisphere.json) |
 | AntiSquad Tactics | 38987 | [38987-antisquad-tactics.json](./38987-antisquad-tactics.json) |
 | Antistar 3D: Rising | 315676 | [315676-antistar-3d-rising.json](./315676-antistar-3d-rising.json) |
@@ -4405,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayu: The Dream Soul | 149098 | [149098-ayu-the-dream-soul.json](./149098-ayu-the-dream-soul.json) |
 | Ayumi-chan Monogatari | 41410 | [41410-ayumi-chan-monogatari.json](./41410-ayumi-chan-monogatari.json) |
 | Ayumi-chan Monogatari: Jisshaban | 41411 | [41411-ayumi-chan-monogatari-jisshaban.json](./41411-ayumi-chan-monogatari-jisshaban.json) |
+| Ayyylando | 219658 | [219658-ayyylando.json](./219658-ayyylando.json) |
 | Azada: In Libro Collector's Edition | 74465 | [74465-azada-in-libro-collectors-edition.json](./74465-azada-in-libro-collectors-edition.json) |
 | Azagthoth | 313860 | [313860-azagthoth.json](./313860-azagthoth.json) |
 | Azangara | 77375 | [77375-azangara.json](./77375-azangara.json) |
