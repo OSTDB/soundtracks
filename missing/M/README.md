@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Maho: Dream Runner | 374147 | [374147-magic-maho-dream-runner.json](./374147-magic-maho-dream-runner.json) |
 | Magic Market World | 415129 | [415129-magic-market-world.json](./415129-magic-market-world.json) |
 | Magic Math | 299266 | [299266-magic-math.json](./299266-magic-math.json) |
+| Magic Memory Match Free | 232049 | [232049-magic-memory-match-free.json](./232049-magic-memory-match-free.json) |
 | Magic Mirror Hall | 182985 | [182985-magic-mirror-hall.json](./182985-magic-mirror-hall.json) |
 | Magic MixUp | 58200 | [58200-magic-mixup.json](./58200-magic-mixup.json) |
 | Magic Mushrooms | 13735 | [13735-magic-mushrooms.json](./13735-magic-mushrooms.json) |
@@ -866,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Màoxiǎn Xiǎofēnduì | 370228 | [370228-maoxian-xiaofendui.json](./370228-maoxian-xiaofendui.json) |
 | Map Map: A Game About Maps | 279120 | [279120-map-map-a-game-about-maps.json](./279120-map-map-a-game-about-maps.json) |
 | Map Snap | 112338 | [112338-map-snap.json](./112338-map-snap.json) |
+| MapaboX: Trivia & Quiz game | 232045 | [232045-mapabox-trivia-and-quiz-game.json](./232045-mapabox-trivia-and-quiz-game.json) |
 | MapGame | 341893 | [341893-mapgame.json](./341893-mapgame.json) |
 | Maple & Rufus: The Water Robbery | 296490 | [296490-maple-and-rufus-the-water-robbery.json](./296490-maple-and-rufus-the-water-robbery.json) |
 | Maple and Aluna | 369124 | [369124-maple-and-aluna.json](./369124-maple-and-aluna.json) |
@@ -3507,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna to Capcom All-Stars | 80494 | [80494-minna-to-capcom-all-stars.json](./80494-minna-to-capcom-all-stars.json) |
 | Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
 | Minnie | 228443 | [228443-minnie.json](./228443-minnie.json) |
+| Minor Miner: Mining Action | 232035 | [232035-minor-miner-mining-action.json](./232035-minor-miner-mining-action.json) |
 | Minos | 370704 | [370704-minos.json](./370704-minos.json) |
 | Minos Starfighter VR | 104639 | [104639-minos-starfighter-vr.json](./104639-minos-starfighter-vr.json) |
 | Minos Trials | 392173 | [392173-minos-trials.json](./392173-minos-trials.json) |
