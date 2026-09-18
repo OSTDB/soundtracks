@@ -1486,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Doctrine: Halloween Scare Tactics | 171081 | [171081-phantom-doctrine-halloween-scare-tactics.json](./171081-phantom-doctrine-halloween-scare-tactics.json) |
 | Phantom Dust | 7341 | [7341-phantom-dust.json](./7341-phantom-dust.json) |
 | Phantom Floor | 394178 | [394178-phantom-floor.json](./394178-phantom-floor.json) |
+| Phantom Fury | 218009 | [218009-phantom-fury.json](./218009-phantom-fury.json) |
 | Phantom Grid | 367974 | [367974-phantom-grid.json](./367974-phantom-grid.json) |
 | Phantom Havoc | 333962 | [333962-phantom-havoc.json](./333962-phantom-havoc.json) |
 | Phantom Hunter | 243157 | [243157-phantom-hunter.json](./243157-phantom-hunter.json) |
@@ -1875,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pimp My Dungeon | 243959 | [243959-pimp-my-dungeon.json](./243959-pimp-my-dungeon.json) |
 | Pimp My Ride | 5098 | [5098-pimp-my-ride.json](./5098-pimp-my-ride.json) |
 | Pimp My Ride Street Racing | 274184 | [274184-pimp-my-ride-street-racing.json](./274184-pimp-my-ride-street-racing.json) |
+| Pin Bot | 217973 | [217973-pin-bot.json](./217973-pin-bot.json) |
 | Pin Climb | 318755 | [318755-pin-climb.json](./318755-pin-climb.json) |
 | Pin Crasher | 258989 | [258989-pin-crasher.json](./258989-pin-crasher.json) |
 | Pin Pong | 18155 | [18155-pin-pong.json](./18155-pin-pong.json) |
@@ -3760,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Press X to Not Die | 13619 | [13619-press-x-to-not-die.json](./13619-press-x-to-not-die.json) |
 | Press Your Luck | 52646 | [52646-press-your-luck.json](./52646-press-your-luck.json) |
+| Press-Switch | 217993 | [217993-press-switch.json](./217993-press-switch.json) |
 | Pressing Under Pressure | 393618 | [393618-pressing-under-pressure.json](./393618-pressing-under-pressure.json) |
 | Pressure | 15406 | [15406-pressure.json](./15406-pressure.json) |
 | Pressure Cooker | 25732 | [25732-pressure-cooker.json](./25732-pressure-cooker.json) |
