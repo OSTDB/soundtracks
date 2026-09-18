@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Escape: Zero Time Dilemma - Limited Watch Bonus Edition | 89890 | [89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json](./89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json) |
 | Zero Fighter | 385714 | [385714-zero-fighter.json](./385714-zero-fighter.json) |
 | Zero Fire: Toaplan Arcade Garage | 246668 | [246668-zero-fire-toaplan-arcade-garage.json](./246668-zero-fire-toaplan-arcade-garage.json) |
+| Zero Gravity | 229795 | [229795-zero-gravity.json](./229795-zero-gravity.json) |
 | Zero Hour | 151730 | [151730-zero-hour.json](./151730-zero-hour.json) |
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
 | Zero Lilium Bloom | 245871 | [245871-zero-lilium-bloom.json](./245871-zero-lilium-bloom.json) |
