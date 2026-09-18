@@ -1234,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis no Ouji-sama Motto Gakuensai no Ouji-sama: More Sweet Edition | 205063 | [205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json](./205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json) |
 | Tennis no Ouji-sama: Gakuensai no Ouji-sama | 205062 | [205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json](./205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json) |
 | Tennis no Ouji-sama: Smash Hit! 2 | 405515 | [405515-tennis-no-ouji-sama-smash-hit-2.json](./405515-tennis-no-ouji-sama-smash-hit-2.json) |
+| Tennis no Ouji-sama: Sweat & Tears 2 | 205641 | [205641-tennis-no-ouji-sama-sweat-and-tears-2.json](./205641-tennis-no-ouji-sama-sweat-and-tears-2.json) |
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
 | Tennis Slam: Global Duel Arena | 244807 | [244807-tennis-slam-global-duel-arena.json](./244807-tennis-slam-global-duel-arena.json) |
 | Tennis Smash: Racketville | 382230 | [382230-tennis-smash-racketville.json](./382230-tennis-smash-racketville.json) |
@@ -2552,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drugstore: Matsumoto Kiyoshi de Okaimono! | 280792 | [280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json](./280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json) |
 | The Duchess Affair | 313886 | [313886-the-duchess-affair.json](./313886-the-duchess-affair.json) |
 | The Duck Pond | 310220 | [310220-the-duck-pond.json](./310220-the-duck-pond.json) |
+| The Duck Song Game | 205616 | [205616-the-duck-song-game.json](./205616-the-duck-song-game.json) |
 | The Ducksuckers | 195245 | [195245-the-ducksuckers.json](./195245-the-ducksuckers.json) |
 | The Duduk Master | 232433 | [232433-the-duduk-master.json](./232433-the-duduk-master.json) |
 | The Dukes of Hazzard: Racing for Home | 144950 | [144950-the-dukes-of-hazzard-racing-for-home.json](./144950-the-dukes-of-hazzard-racing-for-home.json) |
@@ -2720,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fairly OddParents: Clash With the Anti-World | 18256 | [18256-the-fairly-oddparents-clash-with-the-anti-world.json](./18256-the-fairly-oddparents-clash-with-the-anti-world.json) |
 | The Fairly OddParents: Enter the Cleft | 18257 | [18257-the-fairly-oddparents-enter-the-cleft.json](./18257-the-fairly-oddparents-enter-the-cleft.json) |
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
+| The Fairyland Story | 205665 | [205665-the-fairyland-story.json](./205665-the-fairyland-story.json) |
 | The Falconeer: Day One Edition | 139938 | [139938-the-falconeer-day-one-edition.json](./139938-the-falconeer-day-one-edition.json) |
 | The Falconeer: Edge of the World | 162852 | [162852-the-falconeer-edge-of-the-world.json](./162852-the-falconeer-edge-of-the-world.json) |
 | The Fall | 335280 | [335280-the-fall.json](./335280-the-fall.json) |
@@ -3207,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The I of It | 225292 | [225292-the-i-of-it.json](./225292-the-i-of-it.json) |
 | The Icky Mr Fox | 299261 | [299261-the-icky-mr-fox.json](./299261-the-icky-mr-fox.json) |
 | The Idle | 290006 | [290006-the-idle.json](./290006-the-idle.json) |
+| The Idolmaster Heardle | 205625 | [205625-the-idolmaster-heardle.json](./205625-the-idolmaster-heardle.json) |
 | The Idolmaster: Gravure for You! Vol. 8 | 79352 | [79352-the-idolmaster-gravure-for-you-vol-8.json](./79352-the-idolmaster-gravure-for-you-vol-8.json) |
 | The Idolmaster: Shiny Colors | 97876 | [97876-the-idolmaster-shiny-colors.json](./97876-the-idolmaster-shiny-colors.json) |
 | The Idolmaster: Shiny Colors - Song for Prism | 248115 | [248115-the-idolmaster-shiny-colors-song-for-prism.json](./248115-the-idolmaster-shiny-colors-song-for-prism.json) |
@@ -3843,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: The Battle for Middle-earth | 3154 | [3154-the-lord-of-the-rings-the-battle-for-middle-earth.json](./3154-the-lord-of-the-rings-the-battle-for-middle-earth.json) |
 | The Lord of the Rings: The Battle for Middle-earth Anthology | 260701 | [260701-the-lord-of-the-rings-the-battle-for-middle-earth-anthology.json](./260701-the-lord-of-the-rings-the-battle-for-middle-earth-anthology.json) |
 | The Lord of the Rings: The Fellowship of the Ring | 201347 | [201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json](./201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json) |
+| The Lord of the Tower | 205601 | [205601-the-lord-of-the-tower.json](./205601-the-lord-of-the-tower.json) |
 | The Lord of War | 262064 | [262064-the-lord-of-war.json](./262064-the-lord-of-war.json) |
 | The Lords of Midnight | 25733 | [25733-the-lords-of-midnight.json](./25733-the-lords-of-midnight.json) |
 | The Lords of Midnight | 272816 | [272816-the-lords-of-midnight.json](./272816-the-lords-of-midnight.json) |
@@ -4074,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Most Annoying Game Ever | 378887 | [378887-the-most-annoying-game-ever.json](./378887-the-most-annoying-game-ever.json) |
 | The Most Awesome Game Ever Made | 221758 | [221758-the-most-awesome-game-ever-made.json](./221758-the-most-awesome-game-ever-made.json) |
 | The Most Beautiful Room in the World | 273413 | [273413-the-most-beautiful-room-in-the-world.json](./273413-the-most-beautiful-room-in-the-world.json) |
+| The Most Desperate Angel | 205672 | [205672-the-most-desperate-angel.json](./205672-the-most-desperate-angel.json) |
 | The Most Searched Playground | 280229 | [280229-the-most-searched-playground.json](./280229-the-most-searched-playground.json) |
 | The Most Searched Playground: Paris 2024 | 311458 | [311458-the-most-searched-playground-paris-2024.json](./311458-the-most-searched-playground-paris-2024.json) |
 | The Most Terrible Time of the Year | 318418 | [318418-the-most-terrible-time-of-the-year.json](./318418-the-most-terrible-time-of-the-year.json) |
@@ -4425,6 +4431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Queen's Footsteps | 304181 | [304181-the-queens-footsteps.json](./304181-the-queens-footsteps.json) |
 | The Queen's Gambit Chess | 204451 | [204451-the-queens-gambit-chess.json](./204451-the-queens-gambit-chess.json) |
 | The Queens Gondola | 404841 | [404841-the-queens-gondola.json](./404841-the-queens-gondola.json) |
+| The Quest Classic: Asteroids | 205603 | [205603-the-quest-classic-asteroids.json](./205603-the-quest-classic-asteroids.json) |
 | The Quest for Achievements | 334744 | [334744-the-quest-for-achievements.json](./334744-the-quest-for-achievements.json) |
 | The Quest for Achievements II | 334753 | [334753-the-quest-for-achievements-ii.json](./334753-the-quest-for-achievements-ii.json) |
 | The Quest for Achievements Remix | 121008 | [121008-the-quest-for-achievements-remix.json](./121008-the-quest-for-achievements-remix.json) |
@@ -4433,6 +4440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest Keeper | 344939 | [344939-the-quest-keeper.json](./344939-the-quest-keeper.json) |
 | The Quest of Merravid | 12961 | [12961-the-quest-of-merravid.json](./12961-the-quest-of-merravid.json) |
 | The Quest of the Tiny Hero | 275134 | [275134-the-quest-of-the-tiny-hero.json](./275134-the-quest-of-the-tiny-hero.json) |
+| The Quest: Hero of Lukomorye IV | 205602 | [205602-the-quest-hero-of-lukomorye-iv.json](./205602-the-quest-hero-of-lukomorye-iv.json) |
 | The Quest: Hero of Lukomorye V | 200205 | [200205-the-quest-hero-of-lukomorye-v.json](./200205-the-quest-hero-of-lukomorye-v.json) |
 | The Quest: Islands of Ice and Fire | 154509 | [154509-the-quest-islands-of-ice-and-fire.json](./154509-the-quest-islands-of-ice-and-fire.json) |
 | The Question | 170529 | [170529-the-question.json](./170529-the-question.json) |
@@ -7635,6 +7643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Hangyaku Geki Sakuya's Counterattack | 371271 | [371271-touhou-hangyaku-geki-sakuyas-counterattack.json](./371271-touhou-hangyaku-geki-sakuyas-counterattack.json) |
 | Touhou Haou III | 98454 | [98454-touhou-haou-iii.json](./98454-touhou-haou-iii.json) |
 | Touhou Healing Nature | 255135 | [255135-touhou-healing-nature.json](./255135-touhou-healing-nature.json) |
+| Touhou Heardle | 205617 | [205617-touhou-heardle.json](./205617-touhou-heardle.json) |
 | Touhou Ibunseki: Ayaria Dawn - ReCreation | 126924 | [126924-touhou-ibunseki-ayaria-dawn-recreation.json](./126924-touhou-ibunseki-ayaria-dawn-recreation.json) |
 | Touhou Infinite Nocturne | 342052 | [342052-touhou-infinite-nocturne.json](./342052-touhou-infinite-nocturne.json) |
 | Touhou Iyuushou: What the Bullet Hell?! | 351102 | [351102-touhou-iyuushou-what-the-bullet-hell.json](./351102-touhou-iyuushou-what-the-bullet-hell.json) |
@@ -9093,6 +9102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tui Shou: Sokoban | 372023 | [372023-tui-shou-sokoban.json](./372023-tui-shou-sokoban.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
+| Tukiyono | 205668 | [205668-tukiyono.json](./205668-tukiyono.json) |
 | Tukoni: Forest Keepers | 141273 | [141273-tukoni-forest-keepers.json](./141273-tukoni-forest-keepers.json) |
 | TukTuk | 196240 | [196240-tuktuk.json](./196240-tuktuk.json) |
 | TukTuk | 214757 | [214757-tuktuk.json](./214757-tuktuk.json) |
