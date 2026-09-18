@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rasetsu 2 | 374684 | [374684-rasetsu-2.json](./374684-rasetsu-2.json) |
 | Rashlander | 116832 | [116832-rashlander.json](./116832-rashlander.json) |
 | Rashomon of Shinjuku | 225314 | [225314-rashomon-of-shinjuku.json](./225314-rashomon-of-shinjuku.json) |
+| Raskopnik: The Trench Warrior | 186766 | [186766-raskopnik-the-trench-warrior.json](./186766-raskopnik-the-trench-warrior.json) |
 | Rasmus Klump som landpost | 91454 | [91454-rasmus-klump-som-landpost.json](./91454-rasmus-klump-som-landpost.json) |
 | Rasmus Klump: Fnullers Isbod | 286120 | [286120-rasmus-klump-fnullers-isbod.json](./286120-rasmus-klump-fnullers-isbod.json) |
 | Rasmus Klump: Holder Fødselsdag | 286118 | [286118-rasmus-klump-holder-f-dselsdag.json](./286118-rasmus-klump-holder-f-dselsdag.json) |
