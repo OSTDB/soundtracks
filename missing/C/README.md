@@ -1569,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Change: A Homeless Survival Experience - Living City Expansion | 199664 | [199664-change-a-homeless-survival-experience-living-city-expansion.json](./199664-change-a-homeless-survival-experience-living-city-expansion.json) |
 | Changelog | 360569 | [360569-changelog.json](./360569-changelog.json) |
 | Changes | 152903 | [152903-changes.json](./152903-changes.json) |
+| changeType() | 201128 | [201128-changetype.json](./201128-changetype.json) |
 | Channel 64 | 395048 | [395048-channel-64.json](./395048-channel-64.json) |
 | Channel 7 | 240313 | [240313-channel-7.json](./240313-channel-7.json) |
 | Channel Surfing | 356111 | [356111-channel-surfing.json](./356111-channel-surfing.json) |
@@ -3702,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confined: Leaving OKB-134 | 291489 | [291489-confined-leaving-okb-134.json](./291489-confined-leaving-okb-134.json) |
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
 | Conflagrant Rodent | 271815 | [271815-conflagrant-rodent.json](./271815-conflagrant-rodent.json) |
+| Conflict / Resolution | 201123 | [201123-conflict-resolution.json](./201123-conflict-resolution.json) |
 | Conflict 3048 | 193406 | [193406-conflict-3048.json](./193406-conflict-3048.json) |
 | Conflict Resolution | 342747 | [342747-conflict-resolution.json](./342747-conflict-resolution.json) |
 | Conflict: Desert Storm | 3863 | [3863-conflict-desert-storm.json](./3863-conflict-desert-storm.json) |
@@ -3804,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construct.AI | 172128 | [172128-construct-ai.json](./172128-construct-ai.json) |
 | Construct&Conquer: The Levant in the 12th Century | 291056 | [291056-construct-and-conquer-the-levant-in-the-12th-century.json](./291056-construct-and-conquer-the-levant-in-the-12th-century.json) |
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
+| Construction Machines Sim | 201141 | [201141-construction-machines-sim.json](./201141-construction-machines-sim.json) |
 | Construction Ramp Jumping | 212358 | [212358-construction-ramp-jumping.json](./212358-construction-ramp-jumping.json) |
 | Construction Simulator 2 | 87338 | [87338-construction-simulator-2.json](./87338-construction-simulator-2.json) |
 | Construction Simulator 2+3 | 139934 | [139934-construction-simulator-2-3.json](./139934-construction-simulator-2-3.json) |
@@ -4013,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Miners | 384084 | [384084-core-miners.json](./384084-core-miners.json) |
 | Core MUD | 229773 | [229773-core-mud.json](./229773-core-mud.json) |
 | Core of Darkness | 117681 | [117681-core-of-darkness.json](./117681-core-of-darkness.json) |
+| Core of Innocence | 201127 | [201127-core-of-innocence.json](./201127-core-of-innocence.json) |
 | Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
 | Core.Sys | 351094 | [351094-core-sys.json](./351094-core-sys.json) |
 | Corecraft | 307107 | [307107-corecraft.json](./307107-corecraft.json) |
@@ -5578,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Cock Clicker | 218151 | [218151-cute-cock-clicker.json](./218151-cute-cock-clicker.json) |
 | Cute Demon Crashers! | 58801 | [58801-cute-demon-crashers.json](./58801-cute-demon-crashers.json) |
 | Cute Dogs Slide | 305936 | [305936-cute-dogs-slide.json](./305936-cute-dogs-slide.json) |
+| Cute Fighter | 201168 | [201168-cute-fighter.json](./201168-cute-fighter.json) |
 | Cute Finders | 381700 | [381700-cute-finders.json](./381700-cute-finders.json) |
 | Cute girl with uncle's leisure time | 278737 | [278737-cute-girl-with-uncles-leisure-time.json](./278737-cute-girl-with-uncles-leisure-time.json) |
 | Cute Heroes | 343802 | [343802-cute-heroes.json](./343802-cute-heroes.json) |
