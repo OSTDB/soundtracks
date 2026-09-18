@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.F.O. K.O. Tower Defense | 152907 | [152907-u-f-o-k-o-tower-defense.json](./152907-u-f-o-k-o-tower-defense.json) |
 | U.F.O.M.O. | 184084 | [184084-u-f-o-m-o.json](./184084-u-f-o-m-o.json) |
 | U.F.O.s | 94705 | [94705-u-f-o-s.json](./94705-u-f-o-s.json) |
+| U.G.O | 232019 | [232019-u-g-o.json](./232019-u-g-o.json) |
 | U.N. Defense Force: Earth Joker | 40246 | [40246-u-n-defense-force-earth-joker.json](./40246-u-n-defense-force-earth-joker.json) |
 | U.N. Squadron | 1357 | [1357-u-n-squadron.json](./1357-u-n-squadron.json) |
 | U.N.P.O.C. Vessel of Opportunity | 335706 | [335706-u-n-p-o-c-vessel-of-opportunity.json](./335706-u-n-p-o-c-vessel-of-opportunity.json) |
@@ -80,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ug! Caveman Game | 198528 | [198528-ug-caveman-game.json](./198528-ug-caveman-game.json) |
 | Ugoku Sushi Bar | 395584 | [395584-ugoku-sushi-bar.json](./395584-ugoku-sushi-bar.json) |
 | Uh Oh Calico! | 273411 | [273411-uh-oh-calico.json](./273411-uh-oh-calico.json) |
+| Uh Oh, UFO! | 232020 | [232020-uh-oh-ufo.json](./232020-uh-oh-ufo.json) |
 | Uin | 125993 | [125993-uin.json](./125993-uin.json) |
 | Uju Jeonsa Dooly | 93589 | [93589-uju-jeonsa-dooly.json](./93589-uju-jeonsa-dooly.json) |
 | UK Truck Simulator | 27641 | [27641-uk-truck-simulator.json](./27641-uk-truck-simulator.json) |
@@ -457,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undergod | 276153 | [276153-undergod.json](./276153-undergod.json) |
 | Undergone: Before | 390658 | [390658-undergone-before.json](./390658-undergone-before.json) |
 | Underground | 195709 | [195709-underground.json](./195709-underground.json) |
+| Underground | 232018 | [232018-underground.json](./232018-underground.json) |
 | Underground 2077 | 174858 | [174858-underground-2077.json](./174858-underground-2077.json) |
 | Underground Blossom | 246917 | [246917-underground-blossom.json](./246917-underground-blossom.json) |
 | Underground Defense Force: Sword and Sorcery and Swarm of Insects | 270108 | [270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json](./270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json) |
@@ -687,7 +690,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlock the King 2 | 127418 | [127418-unlock-the-king-2.json](./127418-unlock-the-king-2.json) |
 | Unlock the King 3 | 132700 | [132700-unlock-the-king-3.json](./132700-unlock-the-king-3.json) |
 | Unlog | 370705 | [370705-unlog.json](./370705-unlog.json) |
+| Unloop | 232015 | [232015-unloop.json](./232015-unloop.json) |
 | UnLoop | 311147 | [311147-unloop.json](./311147-unloop.json) |
+| Unluck Quest | 232016 | [232016-unluck-quest.json](./232016-unluck-quest.json) |
 | Unluckily in Love | 224573 | [224573-unluckily-in-love.json](./224573-unluckily-in-love.json) |
 | Unlucky Mage | 85467 | [85467-unlucky-mage.json](./85467-unlucky-mage.json) |
 | Unlucky Mummy | 401627 | [401627-unlucky-mummy.json](./401627-unlucky-mummy.json) |
@@ -820,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untravelled Planet | 325270 | [325270-untravelled-planet.json](./325270-untravelled-planet.json) |
 | Unturned | 7878 | [7878-unturned.json](./7878-unturned.json) |
 | Unusual and Not Safe Experiments | 368488 | [368488-unusual-and-not-safe-experiments.json](./368488-unusual-and-not-safe-experiments.json) |
+| Unusual Ghost | 232008 | [232008-unusual-ghost.json](./232008-unusual-ghost.json) |
 | Unusual Tales: Deep Below | 380447 | [380447-unusual-tales-deep-below.json](./380447-unusual-tales-deep-below.json) |
 | Unusual Times | 221393 | [221393-unusual-times.json](./221393-unusual-times.json) |
 | UnVeil the World | 265639 | [265639-unveil-the-world.json](./265639-unveil-the-world.json) |
@@ -943,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | US Conflict: Tank Battles | 410368 | [410368-us-conflict-tank-battles.json](./410368-us-conflict-tank-battles.json) |
 | US Police ATV Quad Bike Plane Transport Game | 100964 | [100964-us-police-atv-quad-bike-plane-transport-game.json](./100964-us-police-atv-quad-bike-plane-transport-game.json) |
 | US Spy: Mission in Russia | 129260 | [129260-us-spy-mission-in-russia.json](./129260-us-spy-mission-in-russia.json) |
+| Us vs. Them | 232014 | [232014-us-vs-them.json](./232014-us-vs-them.json) |
 | Us vs. Them | 25631 | [25631-us-vs-them.json](./25631-us-vs-them.json) |
 | USA Nature's Trails Jigsaw Edition | 338580 | [338580-usa-natures-trails-jigsaw-edition.json](./338580-usa-natures-trails-jigsaw-edition.json) |
 | USA Racer | 62146 | [62146-usa-racer.json](./62146-usa-racer.json) |
