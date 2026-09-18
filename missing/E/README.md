@@ -85,6 +85,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force 4.1: Wing Diver the Shooter | 57020 | [57020-earth-defense-force-4-1-wing-diver-the-shooter.json](./57020-earth-defense-force-4-1-wing-diver-the-shooter.json) |
 | Earth Defense Force 5: Deluxe Edition | 118953 | [118953-earth-defense-force-5-deluxe-edition.json](./118953-earth-defense-force-5-deluxe-edition.json) |
 | Earth Defense Force 6: Additional Mission Pack 2 - Visions of Malice | 319369 | [319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json](./319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json) |
+| Earth Defense Force: Insect Armageddon - Aerialist Munitions Package | 226815 | [226815-earth-defense-force-insect-armageddon-aerialist-munitions-package.json](./226815-earth-defense-force-insect-armageddon-aerialist-munitions-package.json) |
+| Earth Defense Force: Insect Armageddon - Tactician Advanced Tech Package | 226814 | [226814-earth-defense-force-insect-armageddon-tactician-advanced-tech-package.json](./226814-earth-defense-force-insect-armageddon-tactician-advanced-tech-package.json) |
+| Earth Defense Force: Insect Armageddon - Trooper Special Issue Enforcer Package | 226813 | [226813-earth-defense-force-insect-armageddon-trooper-special-issue-enforcer-package.json](./226813-earth-defense-force-insect-armageddon-trooper-special-issue-enforcer-package.json) |
 | Earth Defense Force: World Brothers | 139067 | [139067-earth-defense-force-world-brothers.json](./139067-earth-defense-force-world-brothers.json) |
 | Earth Defense Force: World Brothers - Deluxe Edition | 222503 | [222503-earth-defense-force-world-brothers-deluxe-edition.json](./222503-earth-defense-force-world-brothers-deluxe-edition.json) |
 | Earth Defense Force: World Brothers 2 - Don't Bring Civilians Into This: Special Appearance by The Captain from EDF6 | 325435 | [325435-earth-defense-force-world-brothers-2-dont-bring-civilians-into-this-special-appearance-by-the-captain-from-edf6.json](./325435-earth-defense-force-world-brothers-2-dont-bring-civilians-into-this-special-appearance-by-the-captain-from-edf6.json) |
@@ -118,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East Defense | 305526 | [305526-east-defense.json](./305526-east-defense.json) |
 | East Front Campaign CD 1 | 78704 | [78704-east-front-campaign-cd-1.json](./78704-east-front-campaign-cd-1.json) |
 | East Front II | 84257 | [84257-east-front-ii.json](./84257-east-front-ii.json) |
+| East Wind | 226811 | [226811-east-wind.json](./226811-east-wind.json) |
 | EastEnders | 79304 | [79304-eastenders.json](./79304-eastenders.json) |
 | Easter Bunneh | 79941 | [79941-easter-bunneh.json](./79941-easter-bunneh.json) |
 | Easter Bunny | 278154 | [278154-easter-bunny.json](./278154-easter-bunny.json) |
@@ -209,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo of Extinction | 274039 | [274039-echo-of-extinction.json](./274039-echo-of-extinction.json) |
 | Echo of Mobius | 303509 | [303509-echo-of-mobius.json](./303509-echo-of-mobius.json) |
 | Echo of Prypiat | 303508 | [303508-echo-of-prypiat.json](./303508-echo-of-prypiat.json) |
+| Echo of the Last Light | 226812 | [226812-echo-of-the-last-light.json](./226812-echo-of-the-last-light.json) |
 | Echo Pandemic | 404333 | [404333-echo-pandemic.json](./404333-echo-pandemic.json) |
 | Echo Point Nova | 243932 | [243932-echo-point-nova.json](./243932-echo-point-nova.json) |
 | Echo Protocol: Escape Room | 360642 | [360642-echo-protocol-escape-room.json](./360642-echo-protocol-escape-room.json) |
@@ -1914,7 +1919,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Dungeons 2 | 323160 | [323160-evil-dungeons-2.json](./323160-evil-dungeons-2.json) |
 | Evil Egg | 351117 | [351117-evil-egg.json](./351117-evil-egg.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
+| Evil Genius 2: World Domination - Abomination Pack | 226849 | [226849-evil-genius-2-world-domination-abomination-pack.json](./226849-evil-genius-2-world-domination-abomination-pack.json) |
+| Evil Genius 2: World Domination - Cabal Pack | 226850 | [226850-evil-genius-2-world-domination-cabal-pack.json](./226850-evil-genius-2-world-domination-cabal-pack.json) |
 | Evil Genius 2: World Domination - Deluxe Edition | 188025 | [188025-evil-genius-2-world-domination-deluxe-edition.json](./188025-evil-genius-2-world-domination-deluxe-edition.json) |
+| Evil Genius 2: World Domination - In-Genius Items Pack | 226846 | [226846-evil-genius-2-world-domination-in-genius-items-pack.json](./226846-evil-genius-2-world-domination-in-genius-items-pack.json) |
+| Evil Genius 2: World Domination - Rise of the Valkyrie Pack | 226847 | [226847-evil-genius-2-world-domination-rise-of-the-valkyrie-pack.json](./226847-evil-genius-2-world-domination-rise-of-the-valkyrie-pack.json) |
+| Evil Genius 2: World Domination - Team Fortress 2: Pyro Pack | 226848 | [226848-evil-genius-2-world-domination-team-fortress-2-pyro-pack.json](./226848-evil-genius-2-world-domination-team-fortress-2-pyro-pack.json) |
 | Evil Genome | 51565 | [51565-evil-genome.json](./51565-evil-genome.json) |
 | Evil Girls Party! | 265213 | [265213-evil-girls-party.json](./265213-evil-girls-party.json) |
 | Evil Glitch | 28803 | [28803-evil-glitch.json](./28803-evil-glitch.json) |
