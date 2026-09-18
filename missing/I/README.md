@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Sparkles | 125415 | [125415-infinite-sparkles.json](./125415-infinite-sparkles.json) |
 | Infinite Stairs | 231940 | [231940-infinite-stairs.json](./231940-infinite-stairs.json) |
 | Infinite Sunshine Dust | 96731 | [96731-infinite-sunshine-dust.json](./96731-infinite-sunshine-dust.json) |
+| Infinite Turtles | 198362 | [198362-infinite-turtles.json](./198362-infinite-turtles.json) |
 | Infinite Veil | 379874 | [379874-infinite-veil.json](./379874-infinite-veil.json) |
 | Infinite Versus | 143697 | [143697-infinite-versus.json](./143697-infinite-versus.json) |
 | Infinite Void | 294868 | [294868-infinite-void.json](./294868-infinite-void.json) |
@@ -1298,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insomnia | 278403 | [278403-insomnia.json](./278403-insomnia.json) |
 | Insomnia | 333572 | [333572-insomnia.json](./333572-insomnia.json) |
 | Insomnia: Theater in the Head | 216657 | [216657-insomnia-theater-in-the-head.json](./216657-insomnia-theater-in-the-head.json) |
+| Insomnis: Enhanced Edition | 198395 | [198395-insomnis-enhanced-edition.json](./198395-insomnis-enhanced-edition.json) |
 | Inspace 2980 | 109645 | [109645-inspace-2980.json](./109645-inspace-2980.json) |
 | Inspector Douglas's Diary | 316634 | [316634-inspector-douglass-diary.json](./316634-inspector-douglass-diary.json) |
 | Inspector Gadget | 4859 | [4859-inspector-gadget.json](./4859-inspector-gadget.json) |
