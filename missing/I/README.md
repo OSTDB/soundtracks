@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Epic Breakers: Automation Pack | 171032 | [171032-incremental-epic-breakers-automation-pack.json](./171032-incremental-epic-breakers-automation-pack.json) |
 | Incremental Epic Hero 2 | 197398 | [197398-incremental-epic-hero-2.json](./197398-incremental-epic-hero-2.json) |
 | Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
+| Incubus | 200567 | [200567-incubus.json](./200567-incubus.json) |
 | Incursion2D | 284887 | [284887-incursion2d.json](./284887-incursion2d.json) |
 | Indecision. | 83969 | [83969-indecision.json](./83969-indecision.json) |
 | Indekos | 328613 | [328613-indekos.json](./328613-indekos.json) |
@@ -1539,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion of The Halloween Fiends | 318436 | [318436-invasion-of-the-halloween-fiends.json](./318436-invasion-of-the-halloween-fiends.json) |
 | Invasion of the Zombie Monsters | 197857 | [197857-invasion-of-the-zombie-monsters.json](./197857-invasion-of-the-zombie-monsters.json) |
 | Invasion Omega | 339899 | [339899-invasion-omega.json](./339899-invasion-omega.json) |
+| Invasion Waves | 200578 | [200578-invasion-waves.json](./200578-invasion-waves.json) |
 | Invasive Species | 367507 | [367507-invasive-species.json](./367507-invasive-species.json) |
 | Invaxion | 109323 | [109323-invaxion.json](./109323-invaxion.json) |
 | Invector: Rhythm Galaxy - Latin Power Song Pack | 265249 | [265249-invector-rhythm-galaxy-latin-power-song-pack.json](./265249-invector-rhythm-galaxy-latin-power-song-pack.json) |
