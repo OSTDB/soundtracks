@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No JetPacks For Chattini | 346015 | [346015-no-jetpacks-for-chattini.json](./346015-no-jetpacks-for-chattini.json) |
 | No Kings Tiny Defenders | 376455 | [376455-no-kings-tiny-defenders.json](./376455-no-kings-tiny-defenders.json) |
 | No Light | 150684 | [150684-no-light.json](./150684-no-light.json) |
+| No Limit Drag Racing 2 | 227370 | [227370-no-limit-drag-racing-2.json](./227370-no-limit-drag-racing-2.json) |
 | No Limits 2 | 80606 | [80606-no-limits-2.json](./80606-no-limits-2.json) |
 | No Logic Inc. | 349321 | [349321-no-logic-inc.json](./349321-no-logic-inc.json) |
 | No Love | 115048 | [115048-no-love.json](./115048-no-love.json) |
