@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Of Puzzles: Dragons | 248922 | [248922-game-of-puzzles-dragons.json](./248922-game-of-puzzles-dragons.json) |
 | Game of Puzzles: Slavic Mythology | 163415 | [163415-game-of-puzzles-slavic-mythology.json](./163415-game-of-puzzles-slavic-mythology.json) |
 | Game of Roads | 174364 | [174364-game-of-roads.json](./174364-game-of-roads.json) |
+| Game of Seven | 199468 | [199468-game-of-seven.json](./199468-game-of-seven.json) |
 | Game of Sultans | 106526 | [106526-game-of-sultans.json](./106526-game-of-sultans.json) |
 | Game Of Thrall'an | 321365 | [321365-game-of-thrallan.json](./321365-game-of-thrallan.json) |
 | Game of Throne | 179199 | [179199-game-of-throne.json](./179199-game-of-throne.json) |
@@ -1395,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Gname | 185090 | [185090-gnome-gname.json](./185090-gnome-gname.json) |
 | Gnome Light | 54471 | [54471-gnome-light.json](./54471-gnome-light.json) |
 | Gnome Nations | 106595 | [106595-gnome-nations.json](./106595-gnome-nations.json) |
+| Gnome Online | 199503 | [199503-gnome-online.json](./199503-gnome-online.json) |
 | Gnome Ranger | 15492 | [15492-gnome-ranger.json](./15492-gnome-ranger.json) |
 | Gnomecart Havoc | 319006 | [319006-gnomecart-havoc.json](./319006-gnomecart-havoc.json) |
 | Gnomes | 37182 | [37182-gnomes.json](./37182-gnomes.json) |
@@ -2417,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Glyphs | 316281 | [316281-grid-glyphs.json](./316281-grid-glyphs.json) |
 | Grid Iron 2 | 94220 | [94220-grid-iron-2.json](./94220-grid-iron-2.json) |
 | Grid Magic | 119785 | [119785-grid-magic.json](./119785-grid-magic.json) |
+| Grid Miner | 199496 | [199496-grid-miner.json](./199496-grid-miner.json) |
 | Grid Ranger | 304905 | [304905-grid-ranger.json](./304905-grid-ranger.json) |
 | Grid Runner | 20738 | [20738-grid-runner.json](./20738-grid-runner.json) |
 | Grid Wars II | 51233 | [51233-grid-wars-ii.json](./51233-grid-wars-ii.json) |
