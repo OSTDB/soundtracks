@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces: Sweet Cakes | 243371 | [243371-jigsaw-masterpieces-sweet-cakes.json](./243371-jigsaw-masterpieces-sweet-cakes.json) |
 | Jigsaw Pets | 283274 | [283274-jigsaw-pets.json](./283274-jigsaw-pets.json) |
 | Jigsaw Puzzle | 357883 | [357883-jigsaw-puzzle.json](./357883-jigsaw-puzzle.json) |
+| Jigsaw Puzzle Cats Kitten | 202765 | [202765-jigsaw-puzzle-cats-kitten.json](./202765-jigsaw-puzzle-cats-kitten.json) |
 | Jigsaw Puzzle Dreams: Idyllic Pack | 226855 | [226855-jigsaw-puzzle-dreams-idyllic-pack.json](./226855-jigsaw-puzzle-dreams-idyllic-pack.json) |
 | Jigsaw Puzzle Dreams: Radiant Pack | 226856 | [226856-jigsaw-puzzle-dreams-radiant-pack.json](./226856-jigsaw-puzzle-dreams-radiant-pack.json) |
 | Jigsaw Puzzle Dreams: Scenic Pack | 226857 | [226857-jigsaw-puzzle-dreams-scenic-pack.json](./226857-jigsaw-puzzle-dreams-scenic-pack.json) |
