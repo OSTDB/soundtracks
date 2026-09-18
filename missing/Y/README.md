@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youkai Douchuuki | 48597 | [48597-youkai-douchuuki.json](./48597-youkai-douchuuki.json) |
 | Youko to Anata | 66056 | [66056-youko-to-anata.json](./66056-youko-to-anata.json) |
 | Yōulì: Yasashii Lìxiǎn | 394186 | [394186-youli-yasashii-lixian.json](./394186-youli-yasashii-lixian.json) |
+| Youma Kourin | 219152 | [219152-youma-kourin.json](./219152-youma-kourin.json) |
 | Youmais | 64341 | [64341-youmais.json](./64341-youmais.json) |
 | Youmu's Cube Adventure | 365153 | [365153-youmus-cube-adventure.json](./365153-youmus-cube-adventure.json) |
 | Young Bird Endless Flight | 333526 | [333526-young-bird-endless-flight.json](./333526-young-bird-endless-flight.json) |
