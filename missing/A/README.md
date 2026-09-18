@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Nauseam | 304201 | [304201-ad-nauseam.json](./304201-ad-nauseam.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
+| Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
 | Adanath | 219701 | [219701-adanath.json](./219701-adanath.json) |
 | Adapta Solva | 283893 | [283893-adapta-solva.json](./283893-adapta-solva.json) |
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
@@ -699,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Curtain Call | 377042 | [377042-after-the-curtain-call.json](./377042-after-the-curtain-call.json) |
 | After The End | 323963 | [323963-after-the-end.json](./323963-after-the-end.json) |
 | After the Fall | 119330 | [119330-after-the-fall.json](./119330-after-the-fall.json) |
+| After the Fall: Frontrunner Season | 204497 | [204497-after-the-fall-frontrunner-season.json](./204497-after-the-fall-frontrunner-season.json) |
 | After the Fall: Launch Edition | 196313 | [196313-after-the-fall-launch-edition.json](./196313-after-the-fall-launch-edition.json) |
 | After the Meteor Shower | 230940 | [230940-after-the-meteor-shower.json](./230940-after-the-meteor-shower.json) |
 | After the Wane | 387356 | [387356-after-the-wane.json](./387356-after-the-wane.json) |
@@ -955,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Wars ll | 52565 | [52565-airport-wars-ll.json](./52565-airport-wars-ll.json) |
 | Airport X-Ray Simulator | 309511 | [309511-airport-x-ray-simulator.json](./309511-airport-x-ray-simulator.json) |
 | AirportPRG | 207868 | [207868-airportprg.json](./207868-airportprg.json) |
+| AirportSim | 204548 | [204548-airportsim.json](./204548-airportsim.json) |
 | AirportSim: Rovaniemi Airport | 283886 | [283886-airportsim-rovaniemi-airport.json](./283886-airportsim-rovaniemi-airport.json) |
 | Airranger | 122978 | [122978-airranger.json](./122978-airranger.json) |
 | AirRevo | 187453 | [187453-airrevo.json](./187453-airrevo.json) |
@@ -1014,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aki to Tsukasa no Fushigi no Kabe | 41341 | [41341-aki-to-tsukasa-no-fushigi-no-kabe.json](./41341-aki-to-tsukasa-no-fushigi-no-kabe.json) |
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
+| Akiba's Trip: Undead & Undressed - Kati Route | 204503 | [204503-akibas-trip-undead-and-undressed-kati-route.json](./204503-akibas-trip-undead-and-undressed-kati-route.json) |
 | Akihabara: Feel the Rhythm | 26770 | [26770-akihabara-feel-the-rhythm.json](./26770-akihabara-feel-the-rhythm.json) |
 | Akimaho! | 97383 | [97383-akimaho.json](./97383-akimaho.json) |
 | Akimbot | 300484 | [300484-akimbot.json](./300484-akimbot.json) |
@@ -1060,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AL: Artificial Life | 399066 | [399066-al-artificial-life.json](./399066-al-artificial-life.json) |
 | Alaa: Mogus Must Die | 283885 | [283885-alaa-mogus-must-die.json](./283885-alaa-mogus-must-die.json) |
 | Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
+| Aladdin | 204505 | [204505-aladdin.json](./204505-aladdin.json) |
 | Aladdin II | 242085 | [242085-aladdin-ii.json](./242085-aladdin-ii.json) |
 | Aladdin's Magic Lamp | 14235 | [14235-aladdins-magic-lamp.json](./14235-aladdins-magic-lamp.json) |
 | Alakenisland | 195161 | [195161-alakenisland.json](./195161-alakenisland.json) |
@@ -2655,6 +2660,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ApocaShift | 346614 | [346614-apocashift.json](./346614-apocashift.json) |
 | Apoclone | 363427 | [363427-apoclone.json](./363427-apoclone.json) |
 | Apocolypse: Vel | 316830 | [316830-apocolypse-vel.json](./316830-apocolypse-vel.json) |
+| Apocripha/0 Alex Disk | 204557 | [204557-apocripha-0-alex-disk.json](./204557-apocripha-0-alex-disk.json) |
+| Apocripha/0 Platina Disk | 204560 | [204560-apocripha-0-platina-disk.json](./204560-apocripha-0-platina-disk.json) |
 | Apogee Games: Companion CD-ROM | 119059 | [119059-apogee-games-companion-cd-rom.json](./119059-apogee-games-companion-cd-rom.json) |
 | Apokalypsis | 30817 | [30817-apokalypsis.json](./30817-apokalypsis.json) |
 | Apollo 11 VR | 33145 | [33145-apollo-11-vr.json](./33145-apollo-11-vr.json) |
