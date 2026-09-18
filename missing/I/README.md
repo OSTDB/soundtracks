@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invadead | 209486 | [209486-invadead.json](./209486-invadead.json) |
 | Invaded | 121698 | [121698-invaded.json](./121698-invaded.json) |
 | Invader Simulator | 351616 | [351616-invader-simulator.json](./351616-invader-simulator.json) |
+| Invaders | 217960 | [217960-invaders.json](./217960-invaders.json) |
 | Invaders | 271990 | [271990-invaders.json](./271990-invaders.json) |
 | Invaders | 346119 | [346119-invaders.json](./346119-invaders.json) |
 | Invaders | 374044 | [374044-invaders.json](./374044-invaders.json) |
