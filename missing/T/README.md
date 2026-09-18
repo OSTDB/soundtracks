@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: The Drum Master! - Touhou Project Arrangements Pack Vol. 2 | 358953 | [358953-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-2.json](./358953-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-2.json) |
 | Taiko no Tatsujin: The Drum Master! - Touhou Project Arrangements Pack Vol. 3 | 358954 | [358954-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-3.json](./358954-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-3.json) |
 | Taiko on the Web | 337101 | [337101-taiko-on-the-web.json](./337101-taiko-on-the-web.json) |
+| Taiko Web | 219123 | [219123-taiko-web.json](./219123-taiko-web.json) |
 | Taikodom | 68016 | [68016-taikodom.json](./68016-taikodom.json) |
 | Taikou Risshiden | 37798 | [37798-taikou-risshiden.json](./37798-taikou-risshiden.json) |
 | Taikou Risshiden IV | 59364 | [59364-taikou-risshiden-iv.json](./59364-taikou-risshiden-iv.json) |
@@ -1830,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Baseball 2003 | 61401 | [61401-the-baseball-2003.json](./61401-the-baseball-2003.json) |
 | The Baseball T | 217912 | [217912-the-baseball-t.json](./217912-the-baseball-t.json) |
 | The Based Turnabout | 308419 | [308419-the-based-turnabout.json](./308419-the-based-turnabout.json) |
+| The Basketball Quiz | 219173 | [219173-the-basketball-quiz.json](./219173-the-basketball-quiz.json) |
 | The Bastonnes | 204102 | [204102-the-bastonnes.json](./204102-the-bastonnes.json) |
 | The Batchelor | 301406 | [301406-the-batchelor.json](./301406-the-batchelor.json) |
 | The Bathhouse Restored Edition | 304047 | [304047-the-bathhouse-restored-edition.json](./304047-the-bathhouse-restored-edition.json) |
@@ -2012,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bullet Hopper | 268229 | [268229-the-bullet-hopper.json](./268229-the-bullet-hopper.json) |
 | The Bundle of Wonders | 173792 | [173792-the-bundle-of-wonders.json](./173792-the-bundle-of-wonders.json) |
 | The Bunnyman | 224579 | [224579-the-bunnyman.json](./224579-the-bunnyman.json) |
+| The Burger Quiz | 219172 | [219172-the-burger-quiz.json](./219172-the-burger-quiz.json) |
 | The Burned Ground | 115701 | [115701-the-burned-ground.json](./115701-the-burned-ground.json) |
 | The Burnt School | 147978 | [147978-the-burnt-school.json](./147978-the-burnt-school.json) |
 | The Bus: Hamburg City | 371245 | [371245-the-bus-hamburg-city.json](./371245-the-bus-hamburg-city.json) |
@@ -2799,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The FOO Show | 34193 | [34193-the-foo-show.json](./34193-the-foo-show.json) |
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
 | The Fool's Errand | 12107 | [12107-the-fools-errand.json](./12107-the-fools-errand.json) |
+| The Football Quiz | 219171 | [219171-the-football-quiz.json](./219171-the-football-quiz.json) |
 | The Forage | 102802 | [102802-the-forage.json](./102802-the-forage.json) |
 | The Forbidden Tomes of Olipos | 411648 | [411648-the-forbidden-tomes-of-olipos.json](./411648-the-forbidden-tomes-of-olipos.json) |
 | The Forest Cries | 185101 | [185101-the-forest-cries.json](./185101-the-forest-cries.json) |
@@ -3009,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gurgling | 381594 | [381594-the-gurgling.json](./381594-the-gurgling.json) |
 | The Hacker | 13724 | [13724-the-hacker.json](./13724-the-hacker.json) |
 | The Hacker 2.0 | 234051 | [234051-the-hacker-2-0.json](./234051-the-hacker-2-0.json) |
+| The Halloween Story | 219170 | [219170-the-halloween-story.json](./219170-the-halloween-story.json) |
 | The Hallway: Escape Room | 264608 | [264608-the-hallway-escape-room.json](./264608-the-hallway-escape-room.json) |
 | The Hamiltonian Circuit | 297612 | [297612-the-hamiltonian-circuit.json](./297612-the-hamiltonian-circuit.json) |
 | The Hamlet | 326991 | [326991-the-hamlet.json](./326991-the-hamlet.json) |
@@ -4278,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Political Machine 2008 | 50866 | [50866-the-political-machine-2008.json](./50866-the-political-machine-2008.json) |
 | The Political Machine 2024 | 275696 | [275696-the-political-machine-2024.json](./275696-the-political-machine-2024.json) |
 | The Political Machine 2024: Cabinet of Curiosities | 275697 | [275697-the-political-machine-2024-cabinet-of-curiosities.json](./275697-the-political-machine-2024-cabinet-of-curiosities.json) |
+| The Pong P | 219177 | [219177-the-pong-p.json](./219177-the-pong-p.json) |
 | The Posthumous Investigation | 255719 | [255719-the-posthumous-investigation.json](./255719-the-posthumous-investigation.json) |
 | The Potion Master | 232549 | [232549-the-potion-master.json](./232549-the-potion-master.json) |
 | The Potion Shop | 225741 | [225741-the-potion-shop.json](./225741-the-potion-shop.json) |
@@ -4468,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
 | The Road 2 Success | 97386 | [97386-the-road-2-success.json](./97386-the-road-2-success.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
+| The Road Less Taken | 219122 | [219122-the-road-less-taken.json](./219122-the-road-less-taken.json) |
 | The Road to Gettysburg | 24885 | [24885-the-road-to-gettysburg.json](./24885-the-road-to-gettysburg.json) |
 | The Road to Hades | 96354 | [96354-the-road-to-hades.json](./96354-the-road-to-hades.json) |
 | The Robolovers | 172707 | [172707-the-robolovers.json](./172707-the-robolovers.json) |
