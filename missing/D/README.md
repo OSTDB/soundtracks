@@ -1524,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender | 287077 | [287077-defender.json](./287077-defender.json) |
 | Defender | 346133 | [346133-defender.json](./346133-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
+| Defender II | 182401 | [182401-defender-ii.json](./182401-defender-ii.json) |
 | Defender of the Crown | 1873 | [1873-defender-of-the-crown.json](./1873-defender-of-the-crown.json) |
 | Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
 | Defender of Zorgaba | 67976 | [67976-defender-of-zorgaba.json](./67976-defender-of-zorgaba.json) |
@@ -1674,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Hummer Jevil | 352215 | [352215-deltarune-hummer-jevil.json](./352215-deltarune-hummer-jevil.json) |
 | Deltarune: Master Mode | 336354 | [336354-deltarune-master-mode.json](./336354-deltarune-master-mode.json) |
 | Deltarune: Survey Program | 397081 | [397081-deltarune-survey-program.json](./397081-deltarune-survey-program.json) |
+| Deltatraveler | 182345 | [182345-deltatraveler.json](./182345-deltatraveler.json) |
 | Deltatraveler: Section 4 | 315072 | [315072-deltatraveler-section-4.json](./315072-deltatraveler-section-4.json) |
 | Deluge | 351644 | [351644-deluge.json](./351644-deluge.json) |
 | Deluge: Threnody of Crashing Waves | 173264 | [173264-deluge-threnody-of-crashing-waves.json](./173264-deluge-threnody-of-crashing-waves.json) |
@@ -2067,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny of Thrones | 97322 | [97322-destiny-of-thrones.json](./97322-destiny-of-thrones.json) |
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
+| Destiny's Plan | 182355 | [182355-destinys-plan.json](./182355-destinys-plan.json) |
 | Destiny's Sword | 117061 | [117061-destinys-sword.json](./117061-destinys-sword.json) |
 | Destroy All Cars | 337203 | [337203-destroy-all-cars.json](./337203-destroy-all-cars.json) |
 | Destroy All Humans! Path of the Furon | 2717 | [2717-destroy-all-humans-path-of-the-furon.json](./2717-destroy-all-humans-path-of-the-furon.json) |
@@ -4814,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dub Dash | 19977 | [19977-dub-dash.json](./19977-dub-dash.json) |
 | Dubbed | 416687 | [416687-dubbed.json](./416687-dubbed.json) |
 | Dubbing Time | 156623 | [156623-dubbing-time.json](./156623-dubbing-time.json) |
+| Dubium | 182352 | [182352-dubium.json](./182352-dubium.json) |
 | Dubstep Abasralsa | 102407 | [102407-dubstep-abasralsa.json](./102407-dubstep-abasralsa.json) |
 | Dubstep Sound Pack | 343860 | [343860-dubstep-sound-pack.json](./343860-dubstep-sound-pack.json) |
 | DubWars | 36348 | [36348-dubwars.json](./36348-dubwars.json) |
@@ -4844,6 +4848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Run | 309375 | [309375-duck-run.json](./309375-duck-run.json) |
 | Duck Run | 87570 | [87570-duck-run.json](./87570-duck-run.json) |
 | Duck Shoot | 385597 | [385597-duck-shoot.json](./385597-duck-shoot.json) |
+| Duck Simulator 2 | 182367 | [182367-duck-simulator-2.json](./182367-duck-simulator-2.json) |
 | Duck Tales ZX: Webby to the Rescue! | 279736 | [279736-duck-tales-zx-webby-to-the-rescue.json](./279736-duck-tales-zx-webby-to-the-rescue.json) |
 | Duck vs. Evil | 350453 | [350453-duck-vs-evil.json](./350453-duck-vs-evil.json) |
 | Duck, Jump, Die! | 181344 | [181344-duck-jump-die.json](./181344-duck-jump-die.json) |
