@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadrop | 210684 | [210684-deadrop.json](./210684-deadrop.json) |
 | Deads On The Road: Shoot Zombie Hunting 2024 | 319784 | [319784-deads-on-the-road-shoot-zombie-hunting-2024.json](./319784-deads-on-the-road-shoot-zombie-hunting-2024.json) |
 | DeadShore | 356641 | [356641-deadshore.json](./356641-deadshore.json) |
+| Deadshot | 215784 | [215784-deadshot.json](./215784-deadshot.json) |
 | DeadShotZ | 129914 | [129914-deadshotz.json](./129914-deadshotz.json) |
 | Deadside | 109666 | [109666-deadside.json](./109666-deadside.json) |
 | Deadside: Beehive Skin Set | 338015 | [338015-deadside-beehive-skin-set.json](./338015-deadside-beehive-skin-set.json) |
@@ -2107,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devastating Fog | 285018 | [285018-devastating-fog.json](./285018-devastating-fog.json) |
 | Devastators | 39632 | [39632-devastators.json](./39632-devastators.json) |
 | Devestor | 375808 | [375808-devestor.json](./375808-devestor.json) |
+| Devi & Pii | 215752 | [215752-devi-and-pii.json](./215752-devi-and-pii.json) |
 | Deviant Dungeon | 127931 | [127931-deviant-dungeon.json](./127931-deviant-dungeon.json) |
 | Device | 150165 | [150165-device.json](./150165-device.json) |
 | Device 0101 | 294844 | [294844-device-0101.json](./294844-device-0101.json) |
