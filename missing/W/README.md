@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whale Trail | 65473 | [65473-whale-trail.json](./65473-whale-trail.json) |
 | Whalefall Haven | 349400 | [349400-whalefall-haven.json](./349400-whalefall-haven.json) |
 | Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
+| What a Ball | 225727 | [225727-what-a-ball.json](./225727-what-a-ball.json) |
 | What A Legend | 239306 | [239306-what-a-legend.json](./239306-what-a-legend.json) |
 | What a Shitty Job | 348869 | [348869-what-a-shitty-job.json](./348869-what-a-shitty-job.json) |
 | What Body? | 281385 | [281385-what-body.json](./281385-what-body.json) |
@@ -1480,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will Hero | 92116 | [92116-will-hero.json](./92116-will-hero.json) |
 | Will it Crush? | 102785 | [102785-will-it-crush.json](./102785-will-it-crush.json) |
 | Will it Crush? | 90034 | [90034-will-it-crush.json](./90034-will-it-crush.json) |
+| Will There Bee Another? | 225740 | [225740-will-there-bee-another.json](./225740-will-there-bee-another.json) |
 | Will This Bitter Night Bring Change? | 204466 | [204466-will-this-bitter-night-bring-change.json](./204466-will-this-bitter-night-bring-change.json) |
 | Will Walker | 147377 | [147377-will-walker.json](./147377-will-walker.json) |
 | Will Willis and the Temple of Hacha'Kyum | 70368 | [70368-will-willis-and-the-temple-of-hachakyum.json](./70368-will-willis-and-the-temple-of-hachakyum.json) |
@@ -1843,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WizzBall | 81221 | [81221-wizzball.json](./81221-wizzball.json) |
 | Wloku | 307617 | [307617-wloku.json](./307617-wloku.json) |
 | Wo Long: Fallen Dynasty - Complete Edition | 285776 | [285776-wo-long-fallen-dynasty-complete-edition.json](./285776-wo-long-fallen-dynasty-complete-edition.json) |
+| Wo Long: Fallen Dynasty - Steelbook Launch Edition | 225774 | [225774-wo-long-fallen-dynasty-steelbook-launch-edition.json](./225774-wo-long-fallen-dynasty-steelbook-launch-edition.json) |
 | Woahler Coaster! | 373513 | [373513-woahler-coaster.json](./373513-woahler-coaster.json) |
 | Wobbl | 192963 | [192963-wobbl.json](./192963-wobbl.json) |
 | Wobble Jump | 118950 | [118950-wobble-jump.json](./118950-wobble-jump.json) |
