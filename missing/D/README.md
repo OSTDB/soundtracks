@@ -976,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 3++ | 182485 | [182485-dead-or-alive-3.json](./182485-dead-or-alive-3.json) |
 | Dead or Alive 5 Last Round: Core Fighters - Samurai Warriors Mashup Set | 225905 | [225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json](./225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json) |
 | Dead or Alive 5: Catalogue Set | 304738 | [304738-dead-or-alive-5-catalogue-set.json](./304738-dead-or-alive-5-catalogue-set.json) |
+| Dead or Alive 5: Collector's Edition | 210707 | [210707-dead-or-alive-5-collectors-edition.json](./210707-dead-or-alive-5-collectors-edition.json) |
 | Dead or Alive 5: Last Round - Character: Mai Shiranui | 246628 | [246628-dead-or-alive-5-last-round-character-mai-shiranui.json](./246628-dead-or-alive-5-last-round-character-mai-shiranui.json) |
 | Dead or Alive 5: Last Round - Character: Naotora Ii | 246409 | [246409-dead-or-alive-5-last-round-character-naotora-ii.json](./246409-dead-or-alive-5-last-round-character-naotora-ii.json) |
 | Dead or Alive 5: Last Round - Core Fighters Character: Honoka | 275144 | [275144-dead-or-alive-5-last-round-core-fighters-character-honoka.json](./275144-dead-or-alive-5-last-round-core-fighters-character-honoka.json) |
@@ -3394,6 +3395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong 3-e | 170016 | [170016-donkey-kong-3-e.json](./170016-donkey-kong-3-e.json) |
 | Donkey Kong 64 | 1096 | [1096-donkey-kong-64.json](./1096-donkey-kong-64.json) |
 | Donkey Kong 64 Lore Quiz | 231609 | [231609-donkey-kong-64-lore-quiz.json](./231609-donkey-kong-64-lore-quiz.json) |
+| Donkey Kong 64: Tag Anywhere | 210708 | [210708-donkey-kong-64-tag-anywhere.json](./210708-donkey-kong-64-tag-anywhere.json) |
 | Donkey Kong Arcade | 339265 | [339265-donkey-kong-arcade.json](./339265-donkey-kong-arcade.json) |
 | Donkey Kong Barrel Blast | 4817 | [4817-donkey-kong-barrel-blast.json](./4817-donkey-kong-barrel-blast.json) |
 | Donkey Kong Christmas Remix | 339259 | [339259-donkey-kong-christmas-remix.json](./339259-donkey-kong-christmas-remix.json) |
@@ -4802,6 +4804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungen | 169436 | [169436-dungen.json](./169436-dungen.json) |
 | Dungeon | 86095 | [86095-dungeon.json](./86095-dungeon.json) |
 | Dungeon & Burglar | 195149 | [195149-dungeon-and-burglar.json](./195149-dungeon-and-burglar.json) |
+| Dungeon & Derision | 210713 | [210713-dungeon-and-derision.json](./210713-dungeon-and-derision.json) |
 | Dungeon & Doggies | 303499 | [303499-dungeon-and-doggies.json](./303499-dungeon-and-doggies.json) |
 | Dungeon & Evil | 174847 | [174847-dungeon-and-evil.json](./174847-dungeon-and-evil.json) |
 | Dungeon 3D: Eastern | 277583 | [277583-dungeon-3d-eastern.json](./277583-dungeon-3d-eastern.json) |
