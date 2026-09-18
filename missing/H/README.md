@@ -147,16 +147,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life Alyx NoVR | 255791 | [255791-half-life-alyx-novr.json](./255791-half-life-alyx-novr.json) |
 | Half-Life: Beyond | 329025 | [329025-half-life-beyond.json](./329025-half-life-beyond.json) |
 | Half-Life: Chernobyl | 127954 | [127954-half-life-chernobyl.json](./127954-half-life-chernobyl.json) |
+| Half-Life: Cleaner's Adventures | 221857 | [221857-half-life-cleaners-adventures.json](./221857-half-life-cleaners-adventures.json) |
 | Half-Life: Cross Product Multiplayer | 360604 | [360604-half-life-cross-product-multiplayer.json](./360604-half-life-cross-product-multiplayer.json) |
 | Half-Life: E7 Black Star | 196832 | [196832-half-life-e7-black-star.json](./196832-half-life-e7-black-star.json) |
 | Half-Life: Edge of Darkness | 196833 | [196833-half-life-edge-of-darkness.json](./196833-half-life-edge-of-darkness.json) |
+| Half-Life: Escape | 221856 | [221856-half-life-escape.json](./221856-half-life-escape.json) |
 | Half-Life: Escape 2.0 | 294442 | [294442-half-life-escape-2-0.json](./294442-half-life-escape-2-0.json) |
 | Half-Life: Hostile Takeover | 252806 | [252806-half-life-hostile-takeover.json](./252806-half-life-hostile-takeover.json) |
+| Half-Life: In Deep | 221858 | [221858-half-life-in-deep.json](./221858-half-life-in-deep.json) |
 | Half-Life: Intolerable Threat | 222325 | [222325-half-life-intolerable-threat.json](./222325-half-life-intolerable-threat.json) |
 | Half-Life: Invasion | 196834 | [196834-half-life-invasion.json](./196834-half-life-invasion.json) |
 | Half-Life: Life's End | 196835 | [196835-half-life-lifes-end.json](./196835-half-life-lifes-end.json) |
 | Half-Life: Military Duty | 222314 | [222314-half-life-military-duty.json](./222314-half-life-military-duty.json) |
 | Half-Life: Mission of Mercy | 248300 | [248300-half-life-mission-of-mercy.json](./248300-half-life-mission-of-mercy.json) |
+| Half-Life: Prison | 221855 | [221855-half-life-prison.json](./221855-half-life-prison.json) |
 | Half-Life: Pulse | 248292 | [248292-half-life-pulse.json](./248292-half-life-pulse.json) |
 | Half-Life: Reissues | 196840 | [196840-half-life-reissues.json](./196840-half-life-reissues.json) |
 | Half-Life: Residual Life | 196836 | [196836-half-life-residual-life.json](./196836-half-life-residual-life.json) |
@@ -168,7 +172,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: The Core | 222322 | [222322-half-life-the-core.json](./222322-half-life-the-core.json) |
 | Half-Life: The Evasion | 222287 | [222287-half-life-the-evasion.json](./222287-half-life-the-evasion.json) |
 | Half-Life: Through The City | 309106 | [309106-half-life-through-the-city.json](./309106-half-life-through-the-city.json) |
+| Half-Life: Visitors | 221854 | [221854-half-life-visitors.json](./221854-half-life-visitors.json) |
 | Half-Life: VR Mod | 221166 | [221166-half-life-vr-mod.json](./221166-half-life-vr-mod.json) |
+| Half-Life: Xen-Warrior | 221808 | [221808-half-life-xen-warrior.json](./221808-half-life-xen-warrior.json) |
 | Half-Rats: Parasomnia | 127919 | [127919-half-rats-parasomnia.json](./127919-half-rats-parasomnia.json) |
 | Halfbrick Rocket Racing | 67959 | [67959-halfbrick-rocket-racing.json](./67959-halfbrick-rocket-racing.json) |
 | Halfmoon | 364583 | [364583-halfmoon.json](./364583-halfmoon.json) |
@@ -654,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hashtag Dungeon | 35942 | [35942-hashtag-dungeon.json](./35942-hashtag-dungeon.json) |
 | HassleHeart | 35732 | [35732-hassleheart.json](./35732-hassleheart.json) |
 | Haste | 167266 | [167266-haste.json](./167266-haste.json) |
+| Haste | 221845 | [221845-haste.json](./221845-haste.json) |
 | Hastilude | 33127 | [33127-hastilude.json](./33127-hastilude.json) |
 | Hasty Snow | 117704 | [117704-hasty-snow.json](./117704-hasty-snow.json) |
 | Hat Hunters | 103428 | [103428-hat-hunters.json](./103428-hat-hunters.json) |
