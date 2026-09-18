@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Push | 259856 | [259856-castle-push.json](./259856-castle-push.json) |
 | Castle Puzzlefort | 271814 | [271814-castle-puzzlefort.json](./271814-castle-puzzlefort.json) |
 | Castle Quest | 307104 | [307104-castle-quest.json](./307104-castle-quest.json) |
+| Castle Raid 2 | 197762 | [197762-castle-raid-2.json](./197762-castle-raid-2.json) |
 | Castle Red | 123000 | [123000-castle-red.json](./123000-castle-red.json) |
 | Castle Renovator | 219174 | [219174-castle-renovator.json](./219174-castle-renovator.json) |
 | Castle Rush | 185145 | [185145-castle-rush.json](./185145-castle-rush.json) |
@@ -2825,6 +2826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClickeRogue | 242547 | [242547-clickerogue.json](./242547-clickerogue.json) |
 | Clickertale 2 | 343883 | [343883-clickertale-2.json](./343883-clickertale-2.json) |
 | Clickey | 334749 | [334749-clickey.json](./334749-clickey.json) |
+| Clickmazes BoxUp | 197793 | [197793-clickmazes-boxup.json](./197793-clickmazes-boxup.json) |
 | ClickMonster | 158661 | [158661-clickmonster.json](./158661-clickmonster.json) |
 | Clicko | 351597 | [351597-clicko.json](./351597-clicko.json) |
 | Clickomania! | 64437 | [64437-clickomania.json](./64437-clickomania.json) |
@@ -2956,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Backgammon | 270745 | [270745-club-backgammon.json](./270745-club-backgammon.json) |
 | Club Drive | 40804 | [40804-club-drive.json](./40804-club-drive.json) |
 | Club Goblin | 184642 | [184642-club-goblin.json](./184642-club-goblin.json) |
+| Club Life Visual Novel | 197767 | [197767-club-life-visual-novel.json](./197767-club-life-visual-novel.json) |
 | Club Manager 2016 | 34337 | [34337-club-manager-2016.json](./34337-club-manager-2016.json) |
 | Club Manager 2017 | 31957 | [31957-club-manager-2017.json](./31957-club-manager-2017.json) |
 | Club Penguin Brasil | 194619 | [194619-club-penguin-brasil.json](./194619-club-penguin-brasil.json) |
@@ -3899,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control: Ultimate Edition | 136604 | [136604-control-ultimate-edition.json](./136604-control-ultimate-edition.json) |
 | Controlled Climate Chaos | 282130 | [282130-controlled-climate-chaos.json](./282130-controlled-climate-chaos.json) |
 | Controller Sync | 209489 | [209489-controller-sync.json](./209489-controller-sync.json) |
+| Convenience Stories | 197791 | [197791-convenience-stories.json](./197791-convenience-stories.json) |
 | Convenient | 217010 | [217010-convenient.json](./217010-convenient.json) |
 | Convenient Encounters | 236501 | [236501-convenient-encounters.json](./236501-convenient-encounters.json) |
 | Convent Of Magical Chambers | 404962 | [404962-convent-of-magical-chambers.json](./404962-convent-of-magical-chambers.json) |
@@ -4115,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosa Nostra | 39108 | [39108-cosa-nostra.json](./39108-cosa-nostra.json) |
 | Cosmetic Paradise: Kirei no Mahou | 130393 | [130393-cosmetic-paradise-kirei-no-mahou.json](./130393-cosmetic-paradise-kirei-no-mahou.json) |
 | Cosmetic Paradise: Princess Life | 130392 | [130392-cosmetic-paradise-princess-life.json](./130392-cosmetic-paradise-princess-life.json) |
+| Cosmic Badger | 197746 | [197746-cosmic-badger.json](./197746-cosmic-badger.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
 | Cosmic Break | 80556 | [80556-cosmic-break.json](./80556-cosmic-break.json) |
 | Cosmic Call | 319212 | [319212-cosmic-call.json](./319212-cosmic-call.json) |
@@ -4201,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Quest III: The Mines of Isagor | 98474 | [98474-cosmos-quest-iii-the-mines-of-isagor.json](./98474-cosmos-quest-iii-the-mines-of-isagor.json) |
 | Cosmos Quest IV: The Ayatolian March | 98473 | [98473-cosmos-quest-iv-the-ayatolian-march.json](./98473-cosmos-quest-iv-the-ayatolian-march.json) |
 | Cosmos Quest V: The New Beginning | 98472 | [98472-cosmos-quest-v-the-new-beginning.json](./98472-cosmos-quest-v-the-new-beginning.json) |
+| Cosmos Rings | 197752 | [197752-cosmos-rings.json](./197752-cosmos-rings.json) |
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
 | Cosmotroid | 263041 | [263041-cosmotroid.json](./263041-cosmotroid.json) |
 | CosmoWarrior Zero | 43875 | [43875-cosmowarrior-zero.json](./43875-cosmowarrior-zero.json) |
@@ -4849,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Ops: Reloaded | 233491 | [233491-critical-ops-reloaded.json](./233491-critical-ops-reloaded.json) |
 | Critical Point | 337490 | [337490-critical-point.json](./337490-critical-point.json) |
 | Critical Shift | 344467 | [344467-critical-shift.json](./344467-critical-shift.json) |
+| Critical Slash | 197798 | [197798-critical-slash.json](./197798-critical-slash.json) |
 | Critical Strike | 345571 | [345571-critical-strike.json](./345571-critical-strike.json) |
 | Criticality | 180788 | [180788-criticality.json](./180788-criticality.json) |
 | CriticalOrb | 290929 | [290929-criticalorb.json](./290929-criticalorb.json) |
@@ -5608,6 +5615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Socks | 310722 | [310722-cute-socks.json](./310722-cute-socks.json) |
 | Cute Triplets | 148540 | [148540-cute-triplets.json](./148540-cute-triplets.json) |
 | Cute, Broke, and Dungeon Bound | 334132 | [334132-cute-broke-and-dungeon-bound.json](./334132-cute-broke-and-dungeon-bound.json) |
+| CuteBoy.TD | 197765 | [197765-cuteboy-td.json](./197765-cuteboy-td.json) |
 | Cuter Kaizo World | 312344 | [312344-cuter-kaizo-world.json](./312344-cuter-kaizo-world.json) |
 | Cuthbert and the Golden Chalice | 123067 | [123067-cuthbert-and-the-golden-chalice.json](./123067-cuthbert-and-the-golden-chalice.json) |
 | Cuthbert Enters the Tombs of Doom | 123061 | [123061-cuthbert-enters-the-tombs-of-doom.json](./123061-cuthbert-enters-the-tombs-of-doom.json) |
