@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiwan Coolfox | 351603 | [351603-taiwan-coolfox.json](./351603-taiwan-coolfox.json) |
 | Taiwan Mahjong | 334658 | [334658-taiwan-mahjong.json](./334658-taiwan-mahjong.json) |
 | Taiwanese Dominatrixes Are the Best | 385703 | [385703-taiwanese-dominatrixes-are-the-best.json](./385703-taiwanese-dominatrixes-are-the-best.json) |
+| TaiWord: A Daily Word Game | 232039 | [232039-taiword-a-daily-word-game.json](./232039-taiword-a-daily-word-game.json) |
 | Taiyo No Miyako | 221422 | [221422-taiyo-no-miyako.json](./221422-taiyo-no-miyako.json) |
 | Taiyou no Tenshi Marlowe: Ohanabatake ha Dai-Panic! | 331117 | [331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json](./331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json) |
 | Tajemnica statuetki | 26482 | [26482-tajemnica-statuetki.json](./26482-tajemnica-statuetki.json) |
@@ -498,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Tom Candy Run | 107165 | [107165-talking-tom-candy-run.json](./107165-talking-tom-candy-run.json) |
 | Talking Tom Cat | 214349 | [214349-talking-tom-cat.json](./214349-talking-tom-cat.json) |
 | Talking Tom Cat 2 | 214779 | [214779-talking-tom-cat-2.json](./214779-talking-tom-cat-2.json) |
+| Talking Tom Time Rush | 232034 | [232034-talking-tom-time-rush.json](./232034-talking-tom-time-rush.json) |
 | TalkTics: Double Served | 303793 | [303793-talktics-double-served.json](./303793-talktics-double-served.json) |
 | Tall Man Run | 208953 | [208953-tall-man-run.json](./208953-tall-man-run.json) |
 | Tall Ships: Age of Sail | 256537 | [256537-tall-ships-age-of-sail.json](./256537-tall-ships-age-of-sail.json) |
@@ -8661,6 +8663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troublemaker | 153398 | [153398-troublemaker.json](./153398-troublemaker.json) |
 | Troubles in Silesia Country | 250013 | [250013-troubles-in-silesia-country.json](./250013-troubles-in-silesia-country.json) |
 | Troubleshooting | 221195 | [221195-troubleshooting.json](./221195-troubleshooting.json) |
+| Trough the lab | 232024 | [232024-trough-the-lab.json](./232024-trough-the-lab.json) |
 | Trouserheart | 61113 | [61113-trouserheart.json](./61113-trouserheart.json) |
 | Troy Online | 92516 | [92516-troy-online.json](./92516-troy-online.json) |
 | Truck & Camping Collection | 328466 | [328466-truck-and-camping-collection.json](./328466-truck-and-camping-collection.json) |
