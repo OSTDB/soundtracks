@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | He Sneaks | 301433 | [301433-he-sneaks.json](./301433-he-sneaks.json) |
 | He Was | 184060 | [184060-he-was.json](./184060-he-was.json) |
 | He Watches Me | 264342 | [264342-he-watches-me.json](./264342-he-watches-me.json) |
+| He-Man | 198343 | [198343-he-man.json](./198343-he-man.json) |
 | He's Just My Buddy | 393503 | [393503-hes-just-my-buddy.json](./393503-hes-just-my-buddy.json) |
 | He@rtstrings | 248285 | [248285-he-rtstrings.json](./248285-he-rtstrings.json) |
 | Head 2 Head | 150139 | [150139-head-2-head.json](./150139-head-2-head.json) |
@@ -2816,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Recruiter | 368046 | [368046-horny-recruiter.json](./368046-horny-recruiter.json) |
 | Horny Spell | 226189 | [226189-horny-spell.json](./226189-horny-spell.json) |
 | Horny Warp: Hentai Fantasy | 343372 | [343372-horny-warp-hentai-fantasy.json](./343372-horny-warp-hentai-fantasy.json) |
+| Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo | 198365 | [198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json](./198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json) |
 | Horrible Histories: Ruthless Romans | 21286 | [21286-horrible-histories-ruthless-romans.json](./21286-horrible-histories-ruthless-romans.json) |
 | Horrid Henry's Krazy Karts | 187451 | [187451-horrid-henrys-krazy-karts.json](./187451-horrid-henrys-krazy-karts.json) |
 | Horror Amusement Park | 249213 | [249213-horror-amusement-park.json](./249213-horror-amusement-park.json) |
