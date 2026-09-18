@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landomayzer | 370122 | [370122-landomayzer.json](./370122-landomayzer.json) |
 | Landrocker | 149513 | [149513-landrocker.json](./149513-landrocker.json) |
 | Lands of Achra | 347708 | [347708-lands-of-achra.json](./347708-lands-of-achra.json) |
+| Lands of Fire | 215195 | [215195-lands-of-fire.json](./215195-lands-of-fire.json) |
 | Lands of Hope Redemption | 34439 | [34439-lands-of-hope-redemption.json](./34439-lands-of-hope-redemption.json) |
 | Lands of Languages | 299151 | [299151-lands-of-languages.json](./299151-lands-of-languages.json) |
 | Lands of Peace: Legends - Chapter 1 | 168864 | [168864-lands-of-peace-legends-chapter-1.json](./168864-lands-of-peace-legends-chapter-1.json) |
@@ -1419,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lim Beyond One-on-One Basketball | 254782 | [254782-lim-beyond-one-on-one-basketball.json](./254782-lim-beyond-one-on-one-basketball.json) |
 | Limb Lobber | 395707 | [395707-limb-lobber.json](./395707-limb-lobber.json) |
 | Limb: Origins | 337086 | [337086-limb-origins.json](./337086-limb-origins.json) |
+| Limbo Line | 215223 | [215223-limbo-line.json](./215223-limbo-line.json) |
 | Limbot | 380436 | [380436-limbot.json](./380436-limbot.json) |
 | Limbs | 238751 | [238751-limbs.json](./238751-limbs.json) |
 | Limbus Company | 194106 | [194106-limbus-company.json](./194106-limbus-company.json) |
