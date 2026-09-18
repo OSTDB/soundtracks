@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiǔlóng Mófǎzhèn | 394200 | [394200-jiulong-mofazhen.json](./394200-jiulong-mofazhen.json) |
 | Jiǔměizǐ zhī Sǐ: Zhāohé Shàonǚ Xuèsè Gàobái | 374628 | [374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json](./374628-jiumeizi-zhi-si-zhaohe-shaonu-xuese-gaobai.json) |
 | Jiǔzhōu Jiàn Gē | 367405 | [367405-jiuzhou-jian-ge.json](./367405-jiuzhou-jian-ge.json) |
+| Jive Blocks | 222993 | [222993-jive-blocks.json](./222993-jive-blocks.json) |
 | Jiwa: The Damned Soul | 327169 | [327169-jiwa-the-damned-soul.json](./327169-jiwa-the-damned-soul.json) |
 | Jixo 2: Summer Dreams - Collector's Edition | 362854 | [362854-jixo-2-summer-dreams-collectors-edition.json](./362854-jixo-2-summer-dreams-collectors-edition.json) |
 | Jixo 3: Hidden Horizons - Collector's Edition | 362853 | [362853-jixo-3-hidden-horizons-collectors-edition.json](./362853-jixo-3-hidden-horizons-collectors-edition.json) |
@@ -841,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump | 272304 | [272304-jump.json](./272304-jump.json) |
 | Jump and Roll | 243102 | [243102-jump-and-roll.json](./243102-jump-and-roll.json) |
 | Jump and Run: Don't Fall | 107939 | [107939-jump-and-run-dont-fall.json](./107939-jump-and-run-dont-fall.json) |
+| Jump Ball | 223044 | [223044-jump-ball.json](./223044-jump-ball.json) |
 | Jump Ball | 317027 | [317027-jump-ball.json](./317027-jump-ball.json) |
 | Jump Ball Jump! | 310767 | [310767-jump-ball-jump.json](./310767-jump-ball-jump.json) |
 | Jump Ball-Bounce on Tower Tile | 105909 | [105909-jump-ball-bounce-on-tower-tile.json](./105909-jump-ball-bounce-on-tower-tile.json) |
