@@ -1231,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eon Trooper | 253962 | [253962-eon-trooper.json](./253962-eon-trooper.json) |
 | Eona | 355025 | [355025-eona.json](./355025-eona.json) |
 | Eonia | 97180 | [97180-eonia.json](./97180-eonia.json) |
+| Eons Lost: Arrival | 185038 | [185038-eons-lost-arrival.json](./185038-eons-lost-arrival.json) |
 | Eonwar | 217315 | [217315-eonwar.json](./217315-eonwar.json) |
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
@@ -1901,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverMerge: Match 3 Puzzle Game | 290414 | [290414-evermerge-match-3-puzzle-game.json](./290414-evermerge-match-3-puzzle-game.json) |
 | Evermoon | 238080 | [238080-evermoon.json](./238080-evermoon.json) |
 | Evernight | 300714 | [300714-evernight.json](./300714-evernight.json) |
+| Everplant | 185021 | [185021-everplant.json](./185021-everplant.json) |
 | Everplast | 191819 | [191819-everplast.json](./191819-everplast.json) |
 | EverQuest II: Age of Discovery | 23830 | [23830-everquest-ii-age-of-discovery.json](./23830-everquest-ii-age-of-discovery.json) |
 | EverQuest II: Chains of Eternity | 18318 | [18318-everquest-ii-chains-of-eternity.json](./18318-everquest-ii-chains-of-eternity.json) |
