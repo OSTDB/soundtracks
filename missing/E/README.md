@@ -1728,12 +1728,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Call-to-Arms Pack | 227864 | [227864-europa-universalis-iv-call-to-arms-pack.json](./227864-europa-universalis-iv-call-to-arms-pack.json) |
 | Europa Universalis IV: Catholic Majors Unit Pack | 227865 | [227865-europa-universalis-iv-catholic-majors-unit-pack.json](./227865-europa-universalis-iv-catholic-majors-unit-pack.json) |
 | Europa Universalis IV: Common Sense | 19298 | [19298-europa-universalis-iv-common-sense.json](./19298-europa-universalis-iv-common-sense.json) |
+| Europa Universalis IV: Common Sense Content Pack | 227350 | [227350-europa-universalis-iv-common-sense-content-pack.json](./227350-europa-universalis-iv-common-sense-content-pack.json) |
 | Europa Universalis IV: Conquest of Paradise | 19299 | [19299-europa-universalis-iv-conquest-of-paradise.json](./19299-europa-universalis-iv-conquest-of-paradise.json) |
+| Europa Universalis IV: Cradle of Civilization Content Pack | 227349 | [227349-europa-universalis-iv-cradle-of-civilization-content-pack.json](./227349-europa-universalis-iv-cradle-of-civilization-content-pack.json) |
+| Europa Universalis IV: Dharma Content Pack | 227342 | [227342-europa-universalis-iv-dharma-content-pack.json](./227342-europa-universalis-iv-dharma-content-pack.json) |
 | Europa Universalis IV: Domination | 240892 | [240892-europa-universalis-iv-domination.json](./240892-europa-universalis-iv-domination.json) |
+| Europa Universalis IV: El Dorado Content Pack | 227343 | [227343-europa-universalis-iv-el-dorado-content-pack.json](./227343-europa-universalis-iv-el-dorado-content-pack.json) |
+| Europa Universalis IV: Emperor Content Pack | 227344 | [227344-europa-universalis-iv-emperor-content-pack.json](./227344-europa-universalis-iv-emperor-content-pack.json) |
 | Europa Universalis IV: Lions of the North | 215925 | [215925-europa-universalis-iv-lions-of-the-north.json](./215925-europa-universalis-iv-lions-of-the-north.json) |
+| Europa Universalis IV: Mandate of Heaven Content Pack | 227345 | [227345-europa-universalis-iv-mandate-of-heaven-content-pack.json](./227345-europa-universalis-iv-mandate-of-heaven-content-pack.json) |
+| Europa Universalis IV: Mare Nostrum Content Pack | 227346 | [227346-europa-universalis-iv-mare-nostrum-content-pack.json](./227346-europa-universalis-iv-mare-nostrum-content-pack.json) |
 | Europa Universalis IV: National Monuments II | 169976 | [169976-europa-universalis-iv-national-monuments-ii.json](./169976-europa-universalis-iv-national-monuments-ii.json) |
 | Europa Universalis IV: Res Publica | 19294 | [19294-europa-universalis-iv-res-publica.json](./19294-europa-universalis-iv-res-publica.json) |
+| Europa Universalis IV: Rights of Man Content Pack | 227347 | [227347-europa-universalis-iv-rights-of-man-content-pack.json](./227347-europa-universalis-iv-rights-of-man-content-pack.json) |
 | Europa Universalis IV: Songs of Regency | 227861 | [227861-europa-universalis-iv-songs-of-regency.json](./227861-europa-universalis-iv-songs-of-regency.json) |
+| Europa Universalis IV: The Cossacks Content Pack | 227348 | [227348-europa-universalis-iv-the-cossacks-content-pack.json](./227348-europa-universalis-iv-the-cossacks-content-pack.json) |
 | Europa Universalis IV: Ultimate Sprite Pack | 284902 | [284902-europa-universalis-iv-ultimate-sprite-pack.json](./284902-europa-universalis-iv-ultimate-sprite-pack.json) |
 | Europa Universalis IV: Winds of Change | 298306 | [298306-europa-universalis-iv-winds-of-change.json](./298306-europa-universalis-iv-winds-of-change.json) |
 | Europa Universalis V: Fate of the Phoenix | 408150 | [408150-europa-universalis-v-fate-of-the-phoenix.json](./408150-europa-universalis-v-fate-of-the-phoenix.json) |
@@ -1894,7 +1903,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Crown | 45328 | [45328-evil-crown.json](./45328-evil-crown.json) |
 | Evil Cucumber | 169374 | [169374-evil-cucumber.json](./169374-evil-cucumber.json) |
 | Evil Dead: The Game | 66308 | [66308-evil-dead-the-game.json](./66308-evil-dead-the-game.json) |
+| Evil Dead: The Game - 2013 bundle | 227340 | [227340-evil-dead-the-game-2013-bundle.json](./227340-evil-dead-the-game-2013-bundle.json) |
+| Evil Dead: The Game - Army of Darkness Bundle | 227341 | [227341-evil-dead-the-game-army-of-darkness-bundle.json](./227341-evil-dead-the-game-army-of-darkness-bundle.json) |
 | Evil Dead: The Game - Game of the Year Edition | 244790 | [244790-evil-dead-the-game-game-of-the-year-edition.json](./244790-evil-dead-the-game-game-of-the-year-edition.json) |
+| Evil Dead: The Game - Hail to the King Bundle | 227339 | [227339-evil-dead-the-game-hail-to-the-king-bundle.json](./227339-evil-dead-the-game-hail-to-the-king-bundle.json) |
 | Evil Dead: The Game - Who's Your Daddy Bundle | 252206 | [252206-evil-dead-the-game-whos-your-daddy-bundle.json](./252206-evil-dead-the-game-whos-your-daddy-bundle.json) |
 | Evil Defenders | 25093 | [25093-evil-defenders.json](./25093-evil-defenders.json) |
 | Evil Dungeon | 285579 | [285579-evil-dungeon.json](./285579-evil-dungeon.json) |
