@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habanero-tan House | 279758 | [279758-habanero-tan-house.json](./279758-habanero-tan-house.json) |
 | Habblet | 274195 | [274195-habblet.json](./274195-habblet.json) |
 | Habilis | 313898 | [313898-habilis.json](./313898-habilis.json) |
+| Habitat | 181243 | [181243-habitat.json](./181243-habitat.json) |
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
 | Hacha Mecha Fighter | 40182 | [40182-hacha-mecha-fighter.json](./40182-hacha-mecha-fighter.json) |
@@ -565,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardwar | 19566 | [19566-hardwar.json](./19566-hardwar.json) |
 | Hardware Engineering | 31400 | [31400-hardware-engineering.json](./31400-hardware-engineering.json) |
 | Hardware Engineers | 32457 | [32457-hardware-engineers.json](./32457-hardware-engineers.json) |
+| Hardware Tycoon | 181235 | [181235-hardware-tycoon.json](./181235-hardware-tycoon.json) |
 | Hardway Party | 102197 | [102197-hardway-party.json](./102197-hardway-party.json) |
 | Hardwood Backgammon | 20501 | [20501-hardwood-backgammon.json](./20501-hardwood-backgammon.json) |
 | Hardwood Hearts | 20507 | [20507-hardwood-hearts.json](./20507-hardwood-hearts.json) |
@@ -1793,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic Syndrome | 206354 | [206354-heroic-syndrome.json](./206354-heroic-syndrome.json) |
 | Heroine Dream | 61566 | [61566-heroine-dream.json](./61566-heroine-dream.json) |
 | Heroine Dream 2 | 61565 | [61565-heroine-dream-2.json](./61565-heroine-dream-2.json) |
+| Heroine Dusk | 181260 | [181260-heroine-dusk.json](./181260-heroine-dusk.json) |
 | Heroines of Swords & Spells | 130129 | [130129-heroines-of-swords-and-spells.json](./130129-heroines-of-swords-and-spells.json) |
 | Heroish | 207215 | [207215-heroish.json](./207215-heroish.json) |
 | Heroism | 155055 | [155055-heroism.json](./155055-heroism.json) |
@@ -1862,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexaverse Adventures | 249252 | [249252-hexaverse-adventures.json](./249252-hexaverse-adventures.json) |
 | HexaWars | 260151 | [260151-hexawars.json](./260151-hexawars.json) |
 | Hexaword | 386725 | [386725-hexaword.json](./386725-hexaword.json) |
+| HexCasters | 181250 | [181250-hexcasters.json](./181250-hexcasters.json) |
 | Hexceed: Cogitare Pack | 224231 | [224231-hexceed-cogitare-pack.json](./224231-hexceed-cogitare-pack.json) |
 | Hexceed: Exsupero Pack | 224229 | [224229-hexceed-exsupero-pack.json](./224229-hexceed-exsupero-pack.json) |
 | Hexceed: Incipiam | 224228 | [224228-hexceed-incipiam.json](./224228-hexceed-incipiam.json) |
