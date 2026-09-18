@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
 | AI2U: With You 'Til The End | 293905 | [293905-ai2u-with-you-til-the-end.json](./293905-ai2u-with-you-til-the-end.json) |
 | AiCaterine | 259248 | [259248-aicaterine.json](./259248-aicaterine.json) |
+| Aida's Bizarre Halloween | 216348 | [216348-aidas-bizarre-halloween.json](./216348-aidas-bizarre-halloween.json) |
 | AIDS Awareness | 260803 | [260803-aids-awareness.json](./260803-aids-awareness.json) |
 | Aidsmoji: The Forbidden Fruit | 86307 | [86307-aidsmoji-the-forbidden-fruit.json](./86307-aidsmoji-the-forbidden-fruit.json) |
 | Aidyn Chronicles: The First Mage | 2850 | [2850-aidyn-chronicles-the-first-mage.json](./2850-aidyn-chronicles-the-first-mage.json) |
@@ -2184,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal World: Big Cats | 269555 | [269555-animal-world-big-cats.json](./269555-animal-world-big-cats.json) |
 | Animal Zodiac | 298880 | [298880-animal-zodiac.json](./298880-animal-zodiac.json) |
 | Animal Zoo: The Forgotten Land | 314879 | [314879-animal-zoo-the-forgotten-land.json](./314879-animal-zoo-the-forgotten-land.json) |
+| Animalia | 216337 | [216337-animalia.json](./216337-animalia.json) |
 | Animalia Survival | 167832 | [167832-animalia-survival.json](./167832-animalia-survival.json) |
 | Animalia Survival: Haloween Pack | 263051 | [263051-animalia-survival-haloween-pack.json](./263051-animalia-survival-haloween-pack.json) |
 | Animallica | 43361 | [43361-animallica.json](./43361-animallica.json) |
@@ -3617,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed III: Liberation | 3195 | [3195-assassins-creed-iii-liberation.json](./3195-assassins-creed-iii-liberation.json) |
 | Assassin's Creed IV Black Flag: Aveline | 26095 | [26095-assassins-creed-iv-black-flag-aveline.json](./26095-assassins-creed-iv-black-flag-aveline.json) |
 | Assassin's Creed IV: Black Flag - Buccaneer Edition | 89872 | [89872-assassins-creed-iv-black-flag-buccaneer-edition.json](./89872-assassins-creed-iv-black-flag-buccaneer-edition.json) |
+| Assassin's Creed Jade | 216319 | [216319-assassins-creed-jade.json](./216319-assassins-creed-jade.json) |
 | Assassin's Creed Mirage & Assassin's Creed Valhalla Bundle | 271474 | [271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json](./271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json) |
 | Assassin's Creed Mirage Master Assassin Upgrade Bundle 2 | 360574 | [360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json](./360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json) |
 | Assassin's Creed Mirage: Deluxe Pack | 271290 | [271290-assassins-creed-mirage-deluxe-pack.json](./271290-assassins-creed-mirage-deluxe-pack.json) |
@@ -3638,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: Dawn of Ragnarök | 185706 | [185706-assassins-creed-valhalla-dawn-of-ragnarok.json](./185706-assassins-creed-valhalla-dawn-of-ragnarok.json) |
 | Assassin's Creed Valhalla: River Raids | 228704 | [228704-assassins-creed-valhalla-river-raids.json](./228704-assassins-creed-valhalla-river-raids.json) |
 | Assassin's Creed: Brotherhood - Animus Project Update 2.0 | 405514 | [405514-assassins-creed-brotherhood-animus-project-update-2-0.json](./405514-assassins-creed-brotherhood-animus-project-update-2-0.json) |
+| Assassin's Creed: Codename Hexe | 216321 | [216321-assassins-creed-codename-hexe.json](./216321-assassins-creed-codename-hexe.json) |
 | Assassin's Creed: Codename Invictus | 288321 | [288321-assassins-creed-codename-invictus.json](./288321-assassins-creed-codename-invictus.json) |
 | Assassin's Creed: Ezio Trilogy | 22754 | [22754-assassins-creed-ezio-trilogy.json](./22754-assassins-creed-ezio-trilogy.json) |
 | Assassin's Creed: Freedom Cry | 3775 | [3775-assassins-creed-freedom-cry.json](./3775-assassins-creed-freedom-cry.json) |
@@ -4064,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atrophia: Diseased Lands | 401026 | [401026-atrophia-diseased-lands.json](./401026-atrophia-diseased-lands.json) |
 | Atropos | 326240 | [326240-atropos.json](./326240-atropos.json) |
 | ATSS Retribution II | 224100 | [224100-atss-retribution-ii.json](./224100-atss-retribution-ii.json) |
+| Atsumete! Banki-chan | 216353 | [216353-atsumete-banki-chan.json](./216353-atsumete-banki-chan.json) |
 | Attack Animal Gakuen | 48601 | [48601-attack-animal-gakuen.json](./48601-attack-animal-gakuen.json) |
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
 | Attack Force | 143056 | [143056-attack-force.json](./143056-attack-force.json) |
@@ -4238,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn Hike | 257431 | [257431-autumn-hike.json](./257431-autumn-hike.json) |
 | Autumn Isle | 362352 | [362352-autumn-isle.json](./362352-autumn-isle.json) |
 | Autumn Leaves | 109731 | [109731-autumn-leaves.json](./109731-autumn-leaves.json) |
+| Autumn Leaves | 216345 | [216345-autumn-leaves.json](./216345-autumn-leaves.json) |
 | Autumn Night 3D Shooter | 29723 | [29723-autumn-night-3d-shooter.json](./29723-autumn-night-3d-shooter.json) |
 | Autumn Walk | 63883 | [63883-autumn-walk.json](./63883-autumn-walk.json) |
 | Autumn with the Shiba Inu | 236292 | [236292-autumn-with-the-shiba-inu.json](./236292-autumn-with-the-shiba-inu.json) |
