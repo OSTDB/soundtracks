@@ -3456,6 +3456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Runner | 49954 | [49954-portal-runner.json](./49954-portal-runner.json) |
 | Portal Shot Gun Teleport | 290436 | [290436-portal-shot-gun-teleport.json](./290436-portal-shot-gun-teleport.json) |
 | Portal Together | 410208 | [410208-portal-together.json](./410208-portal-together.json) |
+| Portal Unity | 219160 | [219160-portal-unity.json](./219160-portal-unity.json) |
 | Portal Versus | 229179 | [229179-portal-versus.json](./229179-portal-versus.json) |
 | Portal Walker | 59954 | [59954-portal-walker.json](./59954-portal-walker.json) |
 | Portal War | 221752 | [221752-portal-war.json](./221752-portal-war.json) |
@@ -3467,6 +3468,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal: Google Translate Edition | 313478 | [313478-portal-google-translate-edition.json](./313478-portal-google-translate-edition.json) |
 | Portal: Lost in Aperture | 322171 | [322171-portal-lost-in-aperture.json](./322171-portal-lost-in-aperture.json) |
 | Portal: Prelude | 136390 | [136390-portal-prelude.json](./136390-portal-prelude.json) |
+| Portal: Project Beta | 219158 | [219158-portal-project-beta.json](./219158-portal-project-beta.json) |
+| Portal: Prospekt | 219159 | [219159-portal-prospekt.json](./219159-portal-prospekt.json) |
 | Portal: Singularity Collapse | 322172 | [322172-portal-singularity-collapse.json](./322172-portal-singularity-collapse.json) |
 | Portal: Still Alive For PC | 136389 | [136389-portal-still-alive-for-pc.json](./136389-portal-still-alive-for-pc.json) |
 | Portal: System Failure | 322169 | [322169-portal-system-failure.json](./322169-portal-system-failure.json) |
