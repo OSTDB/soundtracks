@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keystone Library | 226428 | [226428-keystone-library.json](./226428-keystone-library.json) |
 | KeyWords | 72079 | [72079-keywords.json](./72079-keywords.json) |
 | KFC: Match Out the Yummies | 378157 | [378157-kfc-match-out-the-yummies.json](./378157-kfc-match-out-the-yummies.json) |
+| KFZ | 219663 | [219663-kfz.json](./219663-kfz.json) |
 | Khan: Myth of the Wind | 145603 | [145603-khan-myth-of-the-wind.json](./145603-khan-myth-of-the-wind.json) |
 | Khatyrka: Prelude | 229967 | [229967-khatyrka-prelude.json](./229967-khatyrka-prelude.json) |
 | Khemia | 136460 | [136460-khemia.json](./136460-khemia.json) |
