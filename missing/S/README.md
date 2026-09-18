@@ -1433,7 +1433,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Flipper | 308409 | [308409-sega-flipper.json](./308409-sega-flipper.json) |
 | Sega Genesis Classic Collection: Gold Edition | 51261 | [51261-sega-genesis-classic-collection-gold-edition.json](./51261-sega-genesis-classic-collection-gold-edition.json) |
 | Sega Genesis Mini 2 | 215742 | [215742-sega-genesis-mini-2.json](./215742-sega-genesis-mini-2.json) |
+| Sega Genesis Ultimate Portable Game Player | 202787 | [202787-sega-genesis-ultimate-portable-game-player.json](./202787-sega-genesis-ultimate-portable-game-player.json) |
 | Sega GT | 28838 | [28838-sega-gt.json](./28838-sega-gt.json) |
+| Sega Mega Drive Portable Video Game Player | 202781 | [202781-sega-mega-drive-portable-video-game-player.json](./202781-sega-mega-drive-portable-video-game-player.json) |
+| Sega Mega Drive Portable Video Game Player: Streets of Rage Special Edition | 202782 | [202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json](./202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json) |
 | Sega Rally 2 | 1572 | [1572-sega-rally-2.json](./1572-sega-rally-2.json) |
 | Sega Rally Championship Plus | 374706 | [374706-sega-rally-championship-plus.json](./374706-sega-rally-championship-plus.json) |
 | Sega Rally Championship Plus NetLink Edition | 374707 | [374707-sega-rally-championship-plus-netlink-edition.json](./374707-sega-rally-championship-plus-netlink-edition.json) |
@@ -5779,6 +5782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Riddle: Spaceship Puzzle | 248645 | [248645-space-riddle-spaceship-puzzle.json](./248645-space-riddle-spaceship-puzzle.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
 | Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
+| Space Run | 202768 | [202768-space-run.json](./202768-space-run.json) |
 | Space runner | 27903 | [27903-space-runner.json](./27903-space-runner.json) |
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
 | Space Science Investigations | 215211 | [215211-space-science-investigations.json](./215211-space-science-investigations.json) |
@@ -7115,6 +7119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Force Unleashed | 197926 | [197926-star-wars-the-force-unleashed.json](./197926-star-wars-the-force-unleashed.json) |
 | Star Wars: The Old Republic | 114 | [114-star-wars-the-old-republic.json](./114-star-wars-the-old-republic.json) |
 | Star Wars: The Old Republic - Knights of the Fallen Empire | 11178 | [11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json](./11178-star-wars-the-old-republic-knights-of-the-fallen-empire.json) |
+| Star Wars: The Old Republic - Legacy of the Sith | 202780 | [202780-star-wars-the-old-republic-legacy-of-the-sith.json](./202780-star-wars-the-old-republic-legacy-of-the-sith.json) |
 | Star Wars: The Return of the Jedi | 219022 | [219022-star-wars-the-return-of-the-jedi.json](./219022-star-wars-the-return-of-the-jedi.json) |
 | Star Wars: TIE Fighter - Defender of the Empire | 167 | [167-star-wars-tie-fighter-defender-of-the-empire.json](./167-star-wars-tie-fighter-defender-of-the-empire.json) |
 | Star Wars: Tiny Death Star | 39245 | [39245-star-wars-tiny-death-star.json](./39245-star-wars-tiny-death-star.json) |
