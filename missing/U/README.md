@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO: The Ranch | 248886 | [248886-ufo-the-ranch.json](./248886-ufo-the-ranch.json) |
 | UFO2 Extraterrestrials: Shadows over Earth | 65459 | [65459-ufo2-extraterrestrials-shadows-over-earth.json](./65459-ufo2-extraterrestrials-shadows-over-earth.json) |
 | UFOs Love Cows | 60513 | [60513-ufos-love-cows.json](./60513-ufos-love-cows.json) |
+| UFS League | 207883 | [207883-ufs-league.json](./207883-ufs-league.json) |
 | Ug! Caveman Game | 198528 | [198528-ug-caveman-game.json](./198528-ug-caveman-game.json) |
 | Ugoku Sushi Bar | 395584 | [395584-ugoku-sushi-bar.json](./395584-ugoku-sushi-bar.json) |
 | Uh Oh Calico! | 273411 | [273411-uh-oh-calico.json](./273411-uh-oh-calico.json) |
@@ -672,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Chaos | 40726 | [40726-universal-chaos.json](./40726-universal-chaos.json) |
 | Universal Combat | 70975 | [70975-universal-combat.json](./70975-universal-combat.json) |
 | Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
+| Universal Flight Simulator | 207890 | [207890-universal-flight-simulator.json](./207890-universal-flight-simulator.json) |
 | Universal Hologram | 359525 | [359525-universal-hologram.json](./359525-universal-hologram.json) |
 | Universal Nuts | 91955 | [91955-universal-nuts.json](./91955-universal-nuts.json) |
 | Universal Power | 276154 | [276154-universal-power.json](./276154-universal-power.json) |
