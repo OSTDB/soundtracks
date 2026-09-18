@@ -3660,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoudingMan: Expansion Packs | 288899 | [288899-doudingman-expansion-packs.json](./288899-doudingman-expansion-packs.json) |
 | Doug's Nightmare | 236397 | [236397-dougs-nightmare.json](./236397-dougs-nightmare.json) |
 | Douga de Kiku Ano Kyoku no Rhythm Game | 301980 | [301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json](./301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json) |
+| Doughball Descent | 226817 | [226817-doughball-descent.json](./226817-doughball-descent.json) |
 | Doughbee | 258727 | [258727-doughbee.json](./258727-doughbee.json) |
 | Doughlings Bundle | 196810 | [196810-doughlings-bundle.json](./196810-doughlings-bundle.json) |
 | Douglas Rockmoor | 69305 | [69305-douglas-rockmoor.json](./69305-douglas-rockmoor.json) |
@@ -3934,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Hop | 272396 | [272396-dragon-hop.json](./272396-dragon-hop.json) |
 | Dragon Hunt | 69236 | [69236-dragon-hunt.json](./69236-dragon-hunt.json) |
 | Dragon Hunter : Sniper Choice | 90664 | [90664-dragon-hunter-sniper-choice.json](./90664-dragon-hunter-sniper-choice.json) |
+| Dragon Inn | 226818 | [226818-dragon-inn.json](./226818-dragon-inn.json) |
 | Dragon Is Dead | 289444 | [289444-dragon-is-dead.json](./289444-dragon-is-dead.json) |
 | Dragon Island Blue | 96061 | [96061-dragon-island-blue.json](./96061-dragon-island-blue.json) |
 | Dragon Jump | 348264 | [348264-dragon-jump.json](./348264-dragon-jump.json) |
@@ -4551,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Way to Home | 266795 | [266795-drunken-way-to-home.json](./266795-drunken-way-to-home.json) |
 | Drunken Wolf | 358880 | [358880-drunken-wolf.json](./358880-drunken-wolf.json) |
 | Drunkknight | 195689 | [195689-drunkknight.json](./195689-drunkknight.json) |
+| Drunkle Ted's Wet and Wreckless | 226819 | [226819-drunkle-teds-wet-and-wreckless.json](./226819-drunkle-teds-wet-and-wreckless.json) |
 | Drunkonauts | 375201 | [375201-drunkonauts.json](./375201-drunkonauts.json) |
 | Druonio | 177013 | [177013-druonio.json](./177013-druonio.json) |
 | Dry | 202356 | [202356-dry.json](./202356-dry.json) |
@@ -4910,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
 | Dungeons and Dragons: Daggerdale | 15127 | [15127-dungeons-and-dragons-daggerdale.json](./15127-dungeons-and-dragons-daggerdale.json) |
 | Dungeons and Monsters | 268751 | [268751-dungeons-and-monsters.json](./268751-dungeons-and-monsters.json) |
+| Dungeons and Myths | 226816 | [226816-dungeons-and-myths.json](./226816-dungeons-and-myths.json) |
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
 | Dungeons of Aledorn | 60494 | [60494-dungeons-of-aledorn.json](./60494-dungeons-of-aledorn.json) |
 | Dungeons of Avalon II - The Island of Darkness | 19476 | [19476-dungeons-of-avalon-ii-the-island-of-darkness.json](./19476-dungeons-of-avalon-ii-the-island-of-darkness.json) |
