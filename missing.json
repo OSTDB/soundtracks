@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T12:02:53.498Z",
-  "total_missing": 87321,
+  "generated_at": "2026-09-18T12:17:29.385Z",
+  "total_missing": 87371,
   "games": [
     {
       "igdb_id": 273453,
@@ -4506,6 +4506,11 @@
       "igdb_id": 367479,
       "game_name": "A Place Far Away",
       "file": "missing/A/367479-a-place-far-away.json"
+    },
+    {
+      "igdb_id": 206817,
+      "game_name": "A Plague Tale: Requiem - Cloud Version",
+      "file": "missing/A/206817-a-plague-tale-requiem-cloud-version.json"
     },
     {
       "igdb_id": 63845,
@@ -203878,6 +203883,11 @@
       "file": "missing/L/350903-little-nightmares-enhanced-edition.json"
     },
     {
+      "igdb_id": 206809,
+      "game_name": "Little Noah: Scion of Paradise",
+      "file": "missing/L/206809-little-noah-scion-of-paradise.json"
+    },
+    {
       "igdb_id": 223577,
       "game_name": "Little Noah: Scion of Paradise - Avatar, Lilliput, and Accessory Pack",
       "file": "missing/L/223577-little-noah-scion-of-paradise-avatar-lilliput-and-accessory-pack.json"
@@ -209781,6 +209791,11 @@
       "igdb_id": 34526,
       "game_name": "MacGuffin",
       "file": "missing/M/34526-macguffin.json"
+    },
+    {
+      "igdb_id": 206794,
+      "game_name": "Mach's noch einmal, Sven",
+      "file": "missing/M/206794-machs-noch-einmal-sven.json"
     },
     {
       "igdb_id": 279747,
@@ -237048,6 +237063,11 @@
       "file": "missing/M/317442-mx-dirt-bike-unlimited-bike-experience.json"
     },
     {
+      "igdb_id": 206779,
+      "game_name": "MX vs. ATV All Out: 2020 Pro Nationals Edition",
+      "file": "missing/M/206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json"
+    },
+    {
       "igdb_id": 287113,
       "game_name": "MX vs. ATV: Legends - 2023 Track Pass",
       "file": "missing/M/287113-mx-vs-atv-legends-2023-track-pass.json"
@@ -237323,6 +237343,11 @@
       "file": "missing/M/94712-my-chinese-coach.json"
     },
     {
+      "igdb_id": 206767,
+      "game_name": "My City",
+      "file": "missing/M/206767-my-city.json"
+    },
+    {
       "igdb_id": 105926,
       "game_name": "My City - Entertainment Tycoon",
       "file": "missing/M/105926-my-city-entertainment-tycoon.json"
@@ -237508,6 +237533,11 @@
       "file": "missing/M/212806-my-dream-is-to-be-a-model-not-a-maid.json"
     },
     {
+      "igdb_id": 206768,
+      "game_name": "My Dream Job: Babysitter",
+      "file": "missing/M/206768-my-dream-job-babysitter.json"
+    },
+    {
       "igdb_id": 178684,
       "game_name": "My Dream Job: How I Survived Job Hunting in Animation",
       "file": "missing/M/178684-my-dream-job-how-i-survived-job-hunting-in-animation.json"
@@ -237613,6 +237643,11 @@
       "file": "missing/M/313488-my-first-date-rpg-oriana-story-two.json"
     },
     {
+      "igdb_id": 206769,
+      "game_name": "My First Dollhouse",
+      "file": "missing/M/206769-my-first-dollhouse.json"
+    },
+    {
       "igdb_id": 213450,
       "game_name": "My First Femboy Date",
       "file": "missing/M/213450-my-first-femboy-date.json"
@@ -237653,6 +237688,11 @@
       "file": "missing/M/266888-my-flower.json"
     },
     {
+      "igdb_id": 206770,
+      "game_name": "My Football Game",
+      "file": "missing/M/206770-my-football-game.json"
+    },
+    {
       "igdb_id": 205818,
       "game_name": "My Foxy Girlfriend",
       "file": "missing/M/205818-my-foxy-girlfriend.json"
@@ -237661,6 +237701,11 @@
       "igdb_id": 398323,
       "game_name": "My Friend Barrington",
       "file": "missing/M/398323-my-friend-barrington.json"
+    },
+    {
+      "igdb_id": 206771,
+      "game_name": "My Friend Koo",
+      "file": "missing/M/206771-my-friend-koo.json"
     },
     {
       "igdb_id": 214721,
@@ -237748,6 +237793,11 @@
       "file": "missing/M/114406-my-goddess-of-love.json"
     },
     {
+      "igdb_id": 206772,
+      "game_name": "My Golf Game featuring Ernie Els",
+      "file": "missing/M/206772-my-golf-game-featuring-ernie-els.json"
+    },
+    {
       "igdb_id": 236378,
       "game_name": "My Grandparents' Christmas Mystery",
       "file": "missing/M/236378-my-grandparents-christmas-mystery.json"
@@ -237828,6 +237878,11 @@
       "file": "missing/M/259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json"
     },
     {
+      "igdb_id": 206773,
+      "game_name": "My Hero: Doctor",
+      "file": "missing/M/206773-my-hero-doctor.json"
+    },
+    {
       "igdb_id": 232544,
       "game_name": "My Hero: Tiny Ninja",
       "file": "missing/M/232544-my-hero-tiny-ninja.json"
@@ -237881,6 +237936,16 @@
       "igdb_id": 369656,
       "game_name": "My Hooptie",
       "file": "missing/M/369656-my-hooptie.json"
+    },
+    {
+      "igdb_id": 206774,
+      "game_name": "My Horse Farm",
+      "file": "missing/M/206774-my-horse-farm.json"
+    },
+    {
+      "igdb_id": 206775,
+      "game_name": "My Horse Farm: Welcome to Trotterville",
+      "file": "missing/M/206775-my-horse-farm-welcome-to-trotterville.json"
     },
     {
       "igdb_id": 300847,
@@ -238091,6 +238156,11 @@
       "igdb_id": 341351,
       "game_name": "My Little MILF",
       "file": "missing/M/341351-my-little-milf.json"
+    },
+    {
+      "igdb_id": 206776,
+      "game_name": "My Little Pony",
+      "file": "missing/M/206776-my-little-pony.json"
     },
     {
       "igdb_id": 49389,
@@ -240568,6 +240638,11 @@
       "file": "missing/N/39986-namco-museum-vol-5.json"
     },
     {
+      "igdb_id": 206782,
+      "game_name": "Namco Vintage",
+      "file": "missing/N/206782-namco-vintage.json"
+    },
+    {
       "igdb_id": 94721,
       "game_name": "namCollection",
       "file": "missing/N/94721-namcollection.json"
@@ -240698,6 +240773,11 @@
       "file": "missing/N/10586-nancy-drew-the-haunted-carousel.json"
     },
     {
+      "igdb_id": 206784,
+      "game_name": "Nancy Drew: The Model Mysteries",
+      "file": "missing/N/206784-nancy-drew-the-model-mysteries.json"
+    },
+    {
       "igdb_id": 10587,
       "game_name": "Nancy Drew: Tomb of the Lost Queen",
       "file": "missing/N/10587-nancy-drew-tomb-of-the-lost-queen.json"
@@ -240741,6 +240821,11 @@
       "igdb_id": 41401,
       "game_name": "Nankin no Adventure",
       "file": "missing/N/41401-nankin-no-adventure.json"
+    },
+    {
+      "igdb_id": 206783,
+      "game_name": "Nanny 911",
+      "file": "missing/N/206783-nanny-911.json"
     },
     {
       "igdb_id": 21075,
@@ -240976,6 +241061,11 @@
       "igdb_id": 210086,
       "game_name": "Nara: Facing Fire",
       "file": "missing/N/210086-nara-facing-fire.json"
+    },
+    {
+      "igdb_id": 206781,
+      "game_name": "Naraba: The Labyrinth of Light",
+      "file": "missing/N/206781-naraba-the-labyrinth-of-light.json"
     },
     {
       "igdb_id": 251612,
@@ -261871,6 +261961,11 @@
       "igdb_id": 17997,
       "game_name": "Panzer Battles",
       "file": "missing/P/17997-panzer-battles.json"
+    },
+    {
+      "igdb_id": 206791,
+      "game_name": "Panzer Campaigns Budapest '45",
+      "file": "missing/P/206791-panzer-campaigns-budapest-45.json"
     },
     {
       "igdb_id": 124733,
@@ -384048,6 +384143,11 @@
       "file": "missing/T/53787-the-typing-of-the-dead-overkill-collection.json"
     },
     {
+      "igdb_id": 206777,
+      "game_name": "The Ugly Duckling",
+      "file": "missing/T/206777-the-ugly-duckling.json"
+    },
+    {
       "igdb_id": 228078,
       "game_name": "The Ugly Ducling",
       "file": "missing/T/228078-the-ugly-ducling.json"
@@ -384071,6 +384171,11 @@
       "igdb_id": 82811,
       "game_name": "The Ultimate Hunter Falls Prey to a Monster Girl Level Draining Reverse R*P*G",
       "file": "missing/T/82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json"
+    },
+    {
+      "igdb_id": 206778,
+      "game_name": "The Ultimate Might and Magic Archives",
+      "file": "missing/T/206778-the-ultimate-might-and-magic-archives.json"
     },
     {
       "igdb_id": 169922,
@@ -385713,14 +385818,79 @@
       "file": "missing/T/53794-thehunter-call-of-the-wild-atv-saber-4x4.json"
     },
     {
+      "igdb_id": 206820,
+      "game_name": "TheHunter: Call of the Wild - Backpacks",
+      "file": "missing/T/206820-thehunter-call-of-the-wild-backpacks.json"
+    },
+    {
+      "igdb_id": 206823,
+      "game_name": "TheHunter: Call of the Wild - Bearclaw Lite Compound Bow",
+      "file": "missing/T/206823-thehunter-call-of-the-wild-bearclaw-lite-compound-bow.json"
+    },
+    {
+      "igdb_id": 206795,
+      "game_name": "TheHunter: Call of the Wild - Bloodhound",
+      "file": "missing/T/206795-thehunter-call-of-the-wild-bloodhound.json"
+    },
+    {
+      "igdb_id": 206814,
+      "game_name": "TheHunter: Call of the Wild - Duck and Cover Pack",
+      "file": "missing/T/206814-thehunter-call-of-the-wild-duck-and-cover-pack.json"
+    },
+    {
+      "igdb_id": 206822,
+      "game_name": "TheHunter: Call of the Wild - Facing the Wild 1",
+      "file": "missing/T/206822-thehunter-call-of-the-wild-facing-the-wild-1.json"
+    },
+    {
+      "igdb_id": 206796,
+      "game_name": "TheHunter: Call of the Wild - Free Species: European Rabbit",
+      "file": "missing/T/206796-thehunter-call-of-the-wild-free-species-european-rabbit.json"
+    },
+    {
+      "igdb_id": 206799,
+      "game_name": "TheHunter: Call of the Wild - High-Tech Hunting Pack",
+      "file": "missing/T/206799-thehunter-call-of-the-wild-high-tech-hunting-pack.json"
+    },
+    {
+      "igdb_id": 206793,
+      "game_name": "TheHunter: Call of the Wild - Modern Rifle Pack",
+      "file": "missing/T/206793-thehunter-call-of-the-wild-modern-rifle-pack.json"
+    },
+    {
       "igdb_id": 227336,
       "game_name": "TheHunter: Call of the Wild - New England Mountains",
       "file": "missing/T/227336-thehunter-call-of-the-wild-new-england-mountains.json"
     },
     {
+      "igdb_id": 206824,
+      "game_name": "TheHunter: Call of the Wild - New Species 2018",
+      "file": "missing/T/206824-thehunter-call-of-the-wild-new-species-2018.json"
+    },
+    {
+      "igdb_id": 206825,
+      "game_name": "TheHunter: Call of the Wild - New Species 2019",
+      "file": "missing/T/206825-thehunter-call-of-the-wild-new-species-2019.json"
+    },
+    {
       "igdb_id": 271466,
       "game_name": "TheHunter: Call of the Wild - Reserve Cosmetics Bundle 1",
       "file": "missing/T/271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json"
+    },
+    {
+      "igdb_id": 206798,
+      "game_name": "TheHunter: Call of the Wild - Saseka Safari Trophy Lodge",
+      "file": "missing/T/206798-thehunter-call-of-the-wild-saseka-safari-trophy-lodge.json"
+    },
+    {
+      "igdb_id": 206821,
+      "game_name": "TheHunter: Call of the Wild - Shooting Range",
+      "file": "missing/T/206821-thehunter-call-of-the-wild-shooting-range.json"
+    },
+    {
+      "igdb_id": 206797,
+      "game_name": "TheHunter: Call of the Wild - Smoking Barrels Weapon Pack",
+      "file": "missing/T/206797-thehunter-call-of-the-wild-smoking-barrels-weapon-pack.json"
     },
     {
       "igdb_id": 318441,
@@ -385741,6 +385911,41 @@
       "igdb_id": 280231,
       "game_name": "TheHunter: Call of the Wild - Traveler's Cosmetic Bundle",
       "file": "missing/T/280231-thehunter-call-of-the-wild-travelers-cosmetic-bundle.json"
+    },
+    {
+      "igdb_id": 206801,
+      "game_name": "TheHunter: Call of the Wild - Treestand & Tripod Pack",
+      "file": "missing/T/206801-thehunter-call-of-the-wild-treestand-and-tripod-pack.json"
+    },
+    {
+      "igdb_id": 206803,
+      "game_name": "TheHunter: Call of the Wild - Trophy Lodge Spring Creek Manor",
+      "file": "missing/T/206803-thehunter-call-of-the-wild-trophy-lodge-spring-creek-manor.json"
+    },
+    {
+      "igdb_id": 206802,
+      "game_name": "TheHunter: Call of the Wild - TruRACS",
+      "file": "missing/T/206802-thehunter-call-of-the-wild-truracs.json"
+    },
+    {
+      "igdb_id": 206819,
+      "game_name": "TheHunter: Call of the Wild - Weapon Pack 1",
+      "file": "missing/T/206819-thehunter-call-of-the-wild-weapon-pack-1.json"
+    },
+    {
+      "igdb_id": 206804,
+      "game_name": "TheHunter: Call of the Wild - Weapon Pack 2",
+      "file": "missing/T/206804-thehunter-call-of-the-wild-weapon-pack-2.json"
+    },
+    {
+      "igdb_id": 206800,
+      "game_name": "TheHunter: Call of the Wild - Weapon Pack 3",
+      "file": "missing/T/206800-thehunter-call-of-the-wild-weapon-pack-3.json"
+    },
+    {
+      "igdb_id": 206816,
+      "game_name": "TheHunter: Call of the Wild - Wild Goose Chase Gear",
+      "file": "missing/T/206816-thehunter-call-of-the-wild-wild-goose-chase-gear.json"
     },
     {
       "igdb_id": 250993,
@@ -387413,6 +387618,11 @@
       "file": "missing/T/118985-thundergod.json"
     },
     {
+      "igdb_id": 206786,
+      "game_name": "ThunderGun: The Cybwar Mission",
+      "file": "missing/T/206786-thundergun-the-cybwar-mission.json"
+    },
+    {
       "igdb_id": 12913,
       "game_name": "Thunderhawk",
       "file": "missing/T/12913-thunderhawk.json"
@@ -387623,6 +387833,11 @@
       "file": "missing/T/276727-tic-toc-shoc-for-playdate.json"
     },
     {
+      "igdb_id": 206787,
+      "game_name": "Tic-a-Tac Royale",
+      "file": "missing/T/206787-tic-a-tac-royale.json"
+    },
+    {
       "igdb_id": 180748,
       "game_name": "Tic-Tac-Matrix",
       "file": "missing/T/180748-tic-tac-matrix.json"
@@ -387823,6 +388038,11 @@
       "file": "missing/T/399091-tides-of-tomorrow-delta-agent-pack.json"
     },
     {
+      "igdb_id": 206790,
+      "game_name": "Tides of War",
+      "file": "missing/T/206790-tides-of-war.json"
+    },
+    {
       "igdb_id": 412273,
       "game_name": "Tidewatch",
       "file": "missing/T/412273-tidewatch.json"
@@ -387901,6 +388121,11 @@
       "igdb_id": 373625,
       "game_name": "Tiger Casino & Slot Game",
       "file": "missing/T/373625-tiger-casino-and-slot-game.json"
+    },
+    {
+      "igdb_id": 206789,
+      "game_name": "Tiger Eye Part I: Curse of the Riddle Box",
+      "file": "missing/T/206789-tiger-eye-part-i-curse-of-the-riddle-box.json"
     },
     {
       "igdb_id": 173757,
@@ -389768,6 +389993,11 @@
       "file": "missing/T/51234-tiger-woods-pga-tour-2008.json"
     },
     {
+      "igdb_id": 206788,
+      "game_name": "Tiger Woods PGA Tour Golf",
+      "file": "missing/T/206788-tiger-woods-pga-tour-golf.json"
+    },
+    {
       "igdb_id": 209036,
       "game_name": "Tigger's Family Tree 3D Adventure",
       "file": "missing/T/209036-tiggers-family-tree-3d-adventure.json"
@@ -391508,6 +391738,11 @@
       "file": "missing/T/227481-tizi-town-airport-adventure.json"
     },
     {
+      "igdb_id": 206780,
+      "game_name": "TJ's Reel Extreme CD Room",
+      "file": "missing/T/206780-tjs-reel-extreme-cd-room.json"
+    },
+    {
       "igdb_id": 186335,
       "game_name": "Tkium Exclusion Area",
       "file": "missing/T/186335-tkium-exclusion-area.json"
@@ -393071,6 +393306,11 @@
       "igdb_id": 228100,
       "game_name": "Tom Steal the Meal",
       "file": "missing/T/228100-tom-steal-the-meal.json"
+    },
+    {
+      "igdb_id": 206766,
+      "game_name": "Tom Thumb",
+      "file": "missing/T/206766-tom-thumb.json"
     },
     {
       "igdb_id": 26474,
@@ -402406,6 +402646,11 @@
       "igdb_id": 282706,
       "game_name": "Tsuri Sensei 2",
       "file": "missing/T/282706-tsuri-sensei-2.json"
+    },
+    {
+      "igdb_id": 206813,
+      "game_name": "Tsuri Spirits: Tsutte Asoberu Suizokukan",
+      "file": "missing/T/206813-tsuri-spirits-tsutte-asoberu-suizokukan.json"
     },
     {
       "igdb_id": 37779,
@@ -432336,6 +432581,11 @@
       "igdb_id": 206128,
       "game_name": "Ys",
       "file": "missing/Y/206128-ys.json"
+    },
+    {
+      "igdb_id": 206826,
+      "game_name": "Ys",
+      "file": "missing/Y/206826-ys.json"
     },
     {
       "igdb_id": 288377,
