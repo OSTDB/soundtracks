@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nelda Nockbladder's Anatomy Lesson | 73284 | [73284-nelda-nockbladders-anatomy-lesson.json](./73284-nelda-nockbladders-anatomy-lesson.json) |
 | Nell & the Festival of Spooks | 178569 | [178569-nell-and-the-festival-of-spooks.json](./178569-nell-and-the-festival-of-spooks.json) |
 | Nelli the Seer | 353898 | [353898-nelli-the-seer.json](./353898-nelli-the-seer.json) |
+| Nello in Antwerp | 190093 | [190093-nello-in-antwerp.json](./190093-nello-in-antwerp.json) |
 | Nelly Cootalot: Spoonbeaks Ahoy! HD | 90001 | [90001-nelly-cootalot-spoonbeaks-ahoy-hd.json](./90001-nelly-cootalot-spoonbeaks-ahoy-hd.json) |
 | Nelo | 25534 | [25534-nelo.json](./25534-nelo.json) |
 | Nelson and the Magic Cauldron | 110283 | [110283-nelson-and-the-magic-cauldron.json](./110283-nelson-and-the-magic-cauldron.json) |
