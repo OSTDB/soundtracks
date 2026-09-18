@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear.Club Unlimited: Super Cars Pack | 238212 | [238212-gear-club-unlimited-super-cars-pack.json](./238212-gear-club-unlimited-super-cars-pack.json) |
 | Gearbits | 258457 | [258457-gearbits.json](./258457-gearbits.json) |
 | Gearguns: Tank Offensive | 31375 | [31375-gearguns-tank-offensive.json](./31375-gearguns-tank-offensive.json) |
+| GearHead: Arena | 181230 | [181230-gearhead-arena.json](./181230-gearhead-arena.json) |
 | Gearlock: Episode 1 | 381719 | [381719-gearlock-episode-1.json](./381719-gearlock-episode-1.json) |
 | Gears Forever | 297511 | [297511-gears-forever.json](./297511-gears-forever.json) |
 | Gears of Babies: Browser | 261258 | [261258-gears-of-babies-browser.json](./261258-gears-of-babies-browser.json) |
@@ -901,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geophobia | 271307 | [271307-geophobia.json](./271307-geophobia.json) |
 | Geopoesis: Eos | 197782 | [197782-geopoesis-eos.json](./197782-geopoesis-eos.json) |
 | Geopogo Cities | 393468 | [393468-geopogo-cities.json](./393468-geopogo-cities.json) |
+| Geopolitics | 181229 | [181229-geopolitics.json](./181229-geopolitics.json) |
 | Geopolitique 1990 | 24915 | [24915-geopolitique-1990.json](./24915-geopolitique-1990.json) |
 | GeoQuiz | 143015 | [143015-geoquiz.json](./143015-geoquiz.json) |
 | George and the Printer | 179672 | [179672-george-and-the-printer.json](./179672-george-and-the-printer.json) |
