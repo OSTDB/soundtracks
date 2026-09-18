@@ -4492,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters Love Candy | 63852 | [63852-monsters-love-candy.json](./63852-monsters-love-candy.json) |
 | Monsters of Kanji 2 | 124205 | [124205-monsters-of-kanji-2.json](./124205-monsters-of-kanji-2.json) |
 | Monsters of Seabrook | 224653 | [224653-monsters-of-seabrook.json](./224653-monsters-of-seabrook.json) |
+| Monsters University: Hide and Sneak | 205615 | [205615-monsters-university-hide-and-sneak.json](./205615-monsters-university-hide-and-sneak.json) |
 | Monsters vs. Aliens | 5021 | [5021-monsters-vs-aliens.json](./5021-monsters-vs-aliens.json) |
 | Monsters, Briefcase and Road | 159831 | [159831-monsters-briefcase-and-road.json](./159831-monsters-briefcase-and-road.json) |
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
@@ -5271,6 +5272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplayer RPG | 307737 | [307737-multiplayer-rpg.json](./307737-multiplayer-rpg.json) |
 | Multiplayer Spiders | 296362 | [296362-multiplayer-spiders.json](./296362-multiplayer-spiders.json) |
 | Multiplayer Survivors | 307738 | [307738-multiplayer-survivors.json](./307738-multiplayer-survivors.json) |
+| Multiplayer.Golf | 205657 | [205657-multiplayer-golf.json](./205657-multiplayer-golf.json) |
 | Multiplication Dragons | 103545 | [103545-multiplication-dragons.json](./103545-multiplication-dragons.json) |
 | Multiplication Mayhem | 277280 | [277280-multiplication-mayhem.json](./277280-multiplication-mayhem.json) |
 | Multirotor Sim 2 | 81234 | [81234-multirotor-sim-2.json](./81234-multirotor-sim-2.json) |
@@ -5724,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony World | 221943 | [221943-my-little-pony-world.json](./221943-my-little-pony-world.json) |
 | My Little Pony: A Zephyr Heights Mystery | 290839 | [290839-my-little-pony-a-zephyr-heights-mystery.json](./290839-my-little-pony-a-zephyr-heights-mystery.json) |
 | My Little Pony: Best Friends Ball | 124742 | [124742-my-little-pony-best-friends-ball.json](./124742-my-little-pony-best-friends-ball.json) |
+| My Little Pony: Dr. Discord's Conquest | 205660 | [205660-my-little-pony-dr-discords-conquest.json](./205660-my-little-pony-dr-discords-conquest.json) |
 | My Little Pony: Fighting is Magic | 137023 | [137023-my-little-pony-fighting-is-magic.json](./137023-my-little-pony-fighting-is-magic.json) |
 | My Little Pony: Fighting is Magic - Tribute Edition | 146263 | [146263-my-little-pony-fighting-is-magic-tribute-edition.json](./146263-my-little-pony-fighting-is-magic-tribute-edition.json) |
 | My Little Pony: Grand Puzzleventure | 220097 | [220097-my-little-pony-grand-puzzleventure.json](./220097-my-little-pony-grand-puzzleventure.json) |
