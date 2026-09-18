@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
 | Random Quest : First Person RPG | 103505 | [103505-random-quest-first-person-rpg.json](./103505-random-quest-first-person-rpg.json) |
 | Random Thing Game | 236278 | [236278-random-thing-game.json](./236278-random-thing-game.json) |
+| Randomish | 217400 | [217400-randomish.json](./217400-randomish.json) |
 | Randomlands | 156602 | [156602-randomlands.json](./156602-randomlands.json) |
 | Randotura | 325694 | [325694-randotura.json](./325694-randotura.json) |
 | Randungeon | 326073 | [326073-randungeon.json](./326073-randungeon.json) |
