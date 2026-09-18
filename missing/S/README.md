@@ -9350,6 +9350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen OG Saga: Masou Kishin F - Coffin of the End | 61553 | [61553-super-robot-taisen-og-saga-masou-kishin-f-coffin-of-the-end.json](./61553-super-robot-taisen-og-saga-masou-kishin-f-coffin-of-the-end.json) |
 | Super Robot Taisen OG Saga: Masou Kishin II - Revelation of Evil God | 65453 | [65453-super-robot-taisen-og-saga-masou-kishin-ii-revelation-of-evil-god.json](./65453-super-robot-taisen-og-saga-masou-kishin-ii-revelation-of-evil-god.json) |
 | Super Robot Taisen OG: Dark Prison | 144283 | [144283-super-robot-taisen-og-dark-prison.json](./144283-super-robot-taisen-og-dark-prison.json) |
+| Super Robot Taisen OG: Infinite Battle | 214614 | [214614-super-robot-taisen-og-infinite-battle.json](./214614-super-robot-taisen-og-infinite-battle.json) |
 | Super Robot Taisen T | 112431 | [112431-super-robot-taisen-t.json](./112431-super-robot-taisen-t.json) |
 | Super Robot Taisen Z | 79342 | [79342-super-robot-taisen-z.json](./79342-super-robot-taisen-z.json) |
 | Super Robot Taisen Z: Special Disc | 182490 | [182490-super-robot-taisen-z-special-disc.json](./182490-super-robot-taisen-z-special-disc.json) |
