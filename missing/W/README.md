@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Washed Up! | 104040 | [104040-washed-up.json](./104040-washed-up.json) |
 | Washeteria | 353965 | [353965-washeteria.json](./353965-washeteria.json) |
 | Wasm4nia | 307615 | [307615-wasm4nia.json](./307615-wasm4nia.json) |
+| Wassie Tale | 207377 | [207377-wassie-tale.json](./207377-wassie-tale.json) |
 | Waste | 200703 | [200703-waste.json](./200703-waste.json) |
 | Waste Cleaner | 61614 | [61614-waste-cleaner.json](./61614-waste-cleaner.json) |
 | Waste in Space | 248651 | [248651-waste-in-space.json](./248651-waste-in-space.json) |
@@ -2428,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Goes to Hell | 216820 | [216820-worm-goes-to-hell.json](./216820-worm-goes-to-hell.json) |
 | Worm Nom Nom | 182978 | [182978-worm-nom-nom.json](./182978-worm-nom-nom.json) |
 | Worm Odyssey | 275914 | [275914-worm-odyssey.json](./275914-worm-odyssey.json) |
+| Worm Runner | 207354 | [207354-worm-runner.json](./207354-worm-runner.json) |
 | Worm Visitor | 210645 | [210645-worm-visitor.json](./210645-worm-visitor.json) |
 | Worm War: Greengrocer | 290420 | [290420-worm-war-greengrocer.json](./290420-worm-war-greengrocer.json) |
 | Wormatozoa | 190722 | [190722-wormatozoa.json](./190722-wormatozoa.json) |
