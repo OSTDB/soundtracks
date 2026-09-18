@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beacon's Bluff | 240796 | [240796-beacons-bluff.json](./240796-beacons-bluff.json) |
 | Beaconfall | 411001 | [411001-beaconfall.json](./411001-beaconfall.json) |
 | Bead | 90636 | [90636-bead.json](./90636-bead.json) |
+| Beam Cat | 224666 | [224666-beam-cat.json](./224666-beam-cat.json) |
 | Beam Driver | 360048 | [360048-beam-driver.json](./360048-beam-driver.json) |
 | Beam Invader | 255363 | [255363-beam-invader.json](./255363-beam-invader.json) |
 | Beam Moto Driver Playground | 368027 | [368027-beam-moto-driver-playground.json](./368027-beam-moto-driver-playground.json) |
@@ -3102,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Bunny: The Game | 144358 | [144358-bloody-bunny-the-game.json](./144358-bloody-bunny-the-game.json) |
 | Bloody Cleanup | 326785 | [326785-bloody-cleanup.json](./326785-bloody-cleanup.json) |
 | Bloody Doctor | 249866 | [249866-bloody-doctor.json](./249866-bloody-doctor.json) |
+| Bloody Downsizing | 224665 | [224665-bloody-downsizing.json](./224665-bloody-downsizing.json) |
 | Bloody Faerie | 89948 | [89948-bloody-faerie.json](./89948-bloody-faerie.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
