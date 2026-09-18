@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Underpants: Epic Choice-o-rama | 256837 | [256837-captain-underpants-epic-choice-o-rama.json](./256837-captain-underpants-epic-choice-o-rama.json) |
 | Captain Wayne: Vacation Desperation | 241378 | [241378-captain-wayne-vacation-desperation.json](./241378-captain-wayne-vacation-desperation.json) |
 | Captain Willie | 285033 | [285033-captain-willie.json](./285033-captain-willie.json) |
+| Captive | 196698 | [196698-captive.json](./196698-captive.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
 | Capture Corps: Archipelago | 217867 | [217867-capture-corps-archipelago.json](./217867-capture-corps-archipelago.json) |
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
@@ -600,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Games Mega Collection | 104032 | [104032-card-games-mega-collection.json](./104032-card-games-mega-collection.json) |
 | Card Gauntlet | 335363 | [335363-card-gauntlet.json](./335363-card-gauntlet.json) |
 | Card Girl Army | 195205 | [195205-card-girl-army.json](./195205-card-girl-army.json) |
+| Card Girl Army II | 196692 | [196692-card-girl-army-ii.json](./196692-card-girl-army-ii.json) |
 | Card Hunter | 17231 | [17231-card-hunter.json](./17231-card-hunter.json) |
 | Card Lords | 251203 | [251203-card-lords.json](./251203-card-lords.json) |
 | Card Princess | 335330 | [335330-card-princess.json](./335330-card-princess.json) |
@@ -1143,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catalyst | 352260 | [352260-catalyst.json](./352260-catalyst.json) |
 | Catan | 175914 | [175914-catan.json](./175914-catan.json) |
 | Catan | 19435 | [19435-catan.json](./19435-catan.json) |
+| Catan | 196701 | [196701-catan.json](./196701-catan.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
 | Catan: Console Edition - Complete Collection | 303803 | [303803-catan-console-edition-complete-collection.json](./303803-catan-console-edition-complete-collection.json) |
 | Catan: Console Edition - Super Deluxe | 257426 | [257426-catan-console-edition-super-deluxe.json](./257426-catan-console-edition-super-deluxe.json) |
@@ -1572,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chance at Life | 203530 | [203530-chance-at-life.json](./203530-chance-at-life.json) |
 | Chance of the Dead | 166691 | [166691-chance-of-the-dead.json](./166691-chance-of-the-dead.json) |
 | Chang'an: The capital of Tang Dynasty | 147403 | [147403-changan-the-capital-of-tang-dynasty.json](./147403-changan-the-capital-of-tang-dynasty.json) |
+| Changa | 196713 | [196713-changa.json](./196713-changa.json) |
 | Change | 229674 | [229674-change.json](./229674-change.json) |
 | Change: A Homeless Survival Experience - Living City Expansion | 199664 | [199664-change-a-homeless-survival-experience-living-city-expansion.json](./199664-change-a-homeless-survival-experience-living-city-expansion.json) |
 | Changelog | 360569 | [360569-changelog.json](./360569-changelog.json) |
@@ -5466,6 +5470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious Cases | 116470 | [116470-curious-cases.json](./116470-curious-cases.json) |
 | Curious Expedition | 19319 | [19319-curious-expedition.json](./19319-curious-expedition.json) |
 | Curious Expedition 2 Bundle | 218688 | [218688-curious-expedition-2-bundle.json](./218688-curious-expedition-2-bundle.json) |
+| Curley Laboratory | 196691 | [196691-curley-laboratory.json](./196691-curley-laboratory.json) |
 | Curling on Line | 166769 | [166769-curling-on-line.json](./166769-curling-on-line.json) |
 | Curling World Cup | 98983 | [98983-curling-world-cup.json](./98983-curling-world-cup.json) |
 | Current | 358392 | [358392-current.json](./358392-current.json) |
