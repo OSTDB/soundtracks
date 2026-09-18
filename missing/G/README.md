@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Loader | 324304 | [324304-galactic-loader.json](./324304-galactic-loader.json) |
 | Galactic Lords | 75174 | [75174-galactic-lords.json](./75174-galactic-lords.json) |
 | Galactic Missile Defense | 34807 | [34807-galactic-missile-defense.json](./34807-galactic-missile-defense.json) |
+| Galactic Nemesis | 197252 | [197252-galactic-nemesis.json](./197252-galactic-nemesis.json) |
 | Galactic Orbital Death Sport | 75190 | [75190-galactic-orbital-death-sport.json](./75190-galactic-orbital-death-sport.json) |
 | Galactic Overlord | 352259 | [352259-galactic-overlord.json](./352259-galactic-overlord.json) |
 | Galactic Pioneer | 208049 | [208049-galactic-pioneer.json](./208049-galactic-pioneer.json) |
