@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oppaidius Tropical Cruise! | 126641 | [126641-oppaidius-tropical-cruise.json](./126641-oppaidius-tropical-cruise.json) |
 | Oppidum | 256927 | [256927-oppidum.json](./256927-oppidum.json) |
 | Opposite Day 2 | 329173 | [329173-opposite-day-2.json](./329173-opposite-day-2.json) |
+| Opposites | 202775 | [202775-opposites.json](./202775-opposites.json) |
 | Opposyte | 258459 | [258459-opposyte.json](./258459-opposyte.json) |
 | Opps! They Love Me Way Too Much! | 292163 | [292163-opps-they-love-me-way-too-much.json](./292163-opps-they-love-me-way-too-much.json) |
 | Opscam | 337156 | [337156-opscam.json](./337156-opscam.json) |
