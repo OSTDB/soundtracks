@@ -2984,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Slender-Man | 64425 | [64425-house-of-slender-man.json](./64425-house-of-slender-man.json) |
 | House of Terror VR | 23336 | [23336-house-of-terror-vr.json](./23336-house-of-terror-vr.json) |
 | House of the Golden Mask | 378175 | [378175-house-of-the-golden-mask.json](./378175-house-of-the-golden-mask.json) |
+| House of the Soul | 234198 | [234198-house-of-the-soul.json](./234198-house-of-the-soul.json) |
 | House of Usher | 25721 | [25721-house-of-usher.json](./25721-house-of-usher.json) |
 | House of Wonders: Kitty Kat Wedding | 53195 | [53195-house-of-wonders-kitty-kat-wedding.json](./53195-house-of-wonders-kitty-kat-wedding.json) |
 | House on [Redacted] Street | 352197 | [352197-house-on-redacted-street.json](./352197-house-on-redacted-street.json) |
