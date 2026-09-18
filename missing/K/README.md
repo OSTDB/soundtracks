@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindaichi Shounen no Jikenbo: 10-nenme no Shoutaijou | 228581 | [228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json](./228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json) |
 | Kindaichi Shounen no Jikenbo: Akuma no Satsujin Koukai | 122979 | [122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json](./122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json) |
 | Kindan no Jikobukken | 260690 | [260690-kindan-no-jikobukken.json](./260690-kindan-no-jikobukken.json) |
+| Kindergarten | 215760 | [215760-kindergarten.json](./215760-kindergarten.json) |
 | KindergarTen 3: The Basement | 290696 | [290696-kindergarten-3-the-basement.json](./290696-kindergarten-3-the-basement.json) |
 | Kindergarten: Buddy Edition | 232999 | [232999-kindergarten-buddy-edition.json](./232999-kindergarten-buddy-edition.json) |
 | Kindled Cavern | 29816 | [29816-kindled-cavern.json](./29816-kindled-cavern.json) |
@@ -1654,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuukiyomi: Consider It! Online | 187529 | [187529-kuukiyomi-consider-it-online.json](./187529-kuukiyomi-consider-it-online.json) |
 | Kuusou Kagaku Sekai Gulliver Boy | 81278 | [81278-kuusou-kagaku-sekai-gulliver-boy.json](./81278-kuusou-kagaku-sekai-gulliver-boy.json) |
 | Kuusou Sakaba: A Great Banquet Of Liars | 288361 | [288361-kuusou-sakaba-a-great-banquet-of-liars.json](./288361-kuusou-sakaba-a-great-banquet-of-liars.json) |
+| Kuzgakai's Dungeon | 215794 | [215794-kuzgakais-dungeon.json](./215794-kuzgakais-dungeon.json) |
 | Kwaan | 36092 | [36092-kwaan.json](./36092-kwaan.json) |
 | Kwalasha | 349870 | [349870-kwalasha.json](./349870-kwalasha.json) |
 | Kwark | 270137 | [270137-kwark.json](./270137-kwark.json) |
