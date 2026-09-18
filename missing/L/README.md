@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light of the Past | 199480 | [199480-light-of-the-past.json](./199480-light-of-the-past.json) |
 | Light of Veilendor | 261779 | [261779-light-of-veilendor.json](./261779-light-of-veilendor.json) |
 | Light on Earth | 383971 | [383971-light-on-earth.json](./383971-light-on-earth.json) |
+| Light Paradox | 190068 | [190068-light-paradox.json](./190068-light-paradox.json) |
 | Light Rider | 108427 | [108427-light-rider.json](./108427-light-rider.json) |
 | Light Speed Adventures | 330518 | [330518-light-speed-adventures.json](./330518-light-speed-adventures.json) |
 | Light Strike Array | 76583 | [76583-light-strike-array.json](./76583-light-strike-array.json) |
@@ -2192,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Dark Castle | 35761 | [35761-lord-of-the-dark-castle.json](./35761-lord-of-the-dark-castle.json) |
 | Lord of the Other World | 174815 | [174815-lord-of-the-other-world.json](./174815-lord-of-the-other-world.json) |
 | Lord of the Race | 260656 | [260656-lord-of-the-race.json](./260656-lord-of-the-race.json) |
+| Lord of the Rings: Warrior of Middle Earth | 190102 | [190102-lord-of-the-rings-warrior-of-middle-earth.json](./190102-lord-of-the-rings-warrior-of-middle-earth.json) |
 | Lord of the Shades | 72031 | [72031-lord-of-the-shades.json](./72031-lord-of-the-shades.json) |
 | Lord of the Sword | 46671 | [46671-lord-of-the-sword.json](./46671-lord-of-the-sword.json) |
 | Lord of the Сlick | 207815 | [207815-lord-of-the-lick.json](./207815-lord-of-the-lick.json) |
@@ -2209,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Kingdoms | 96662 | [96662-lords-of-kingdoms.json](./96662-lords-of-kingdoms.json) |
 | Lords of Magic | 51397 | [51397-lords-of-magic.json](./51397-lords-of-magic.json) |
 | Lords of Ravage | 204714 | [204714-lords-of-ravage.json](./204714-lords-of-ravage.json) |
+| Lords of Solgrund | 190090 | [190090-lords-of-solgrund.json](./190090-lords-of-solgrund.json) |
 | Lords of Strife | 99648 | [99648-lords-of-strife.json](./99648-lords-of-strife.json) |
 | Lords of the Chaos | 263478 | [263478-lords-of-the-chaos.json](./263478-lords-of-the-chaos.json) |
 | Lords of the Fallen: Deluxe Edition | 250427 | [250427-lords-of-the-fallen-deluxe-edition.json](./250427-lords-of-the-fallen-deluxe-edition.json) |
@@ -2648,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luckrot | 351706 | [351706-luckrot.json](./351706-luckrot.json) |
 | Lucky day | 166750 | [166750-lucky-day.json](./166750-lucky-day.json) |
 | Lucky Dog 1 | 147444 | [147444-lucky-dog-1.json](./147444-lucky-dog-1.json) |
+| Lucky Fish Bread | 190081 | [190081-lucky-fish-bread.json](./190081-lucky-fish-bread.json) |
 | Lucky Gem | 195607 | [195607-lucky-gem.json](./195607-lucky-gem.json) |
 | Lucky Gem | 262484 | [262484-lucky-gem.json](./262484-lucky-gem.json) |
 | Lucky Gem Casino | 323158 | [323158-lucky-gem-casino.json](./323158-lucky-gem-casino.json) |
@@ -2678,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Star: Ryouou Gakuen Outousai | 72617 | [72617-lucky-star-ryouou-gakuen-outousai.json](./72617-lucky-star-ryouou-gakuen-outousai.json) |
 | Lucky Stars 2 | 89722 | [89722-lucky-stars-2.json](./89722-lucky-stars-2.json) |
 | Lucky Stars Video Slots | 175990 | [175990-lucky-stars-video-slots.json](./175990-lucky-stars-video-slots.json) |
+| Lucky Tlhalerwa: Super Incursion | 190059 | [190059-lucky-tlhalerwa-super-incursion.json](./190059-lucky-tlhalerwa-super-incursion.json) |
 | Lucky Tower | 219067 | [219067-lucky-tower.json](./219067-lucky-tower.json) |
 | LuckyWheel | 326276 | [326276-luckywheel.json](./326276-luckywheel.json) |
 | Luctus | 263781 | [263781-luctus.json](./263781-luctus.json) |
