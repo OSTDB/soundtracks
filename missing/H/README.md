@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsuyuki Sakura: White Graduation | 259616 | [259616-hatsuyuki-sakura-white-graduation.json](./259616-hatsuyuki-sakura-white-graduation.json) |
 | Hattrick | 270408 | [270408-hattrick.json](./270408-hattrick.json) |
 | Hatup | 204093 | [204093-hatup.json](./204093-hatup.json) |
+| Haulin' Oats | 192829 | [192829-haulin-oats.json](./192829-haulin-oats.json) |
 | Haunt | 383487 | [383487-haunt.json](./383487-haunt.json) |
 | Haunt Monster | 237040 | [237040-haunt-monster.json](./237040-haunt-monster.json) |
 | Haunted | 16799 | [16799-haunted.json](./16799-haunted.json) |
@@ -970,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartland Deluxe | 73756 | [73756-heartland-deluxe.json](./73756-heartland-deluxe.json) |
 | Heartless | 219824 | [219824-heartless.json](./219824-heartless.json) |
 | Heartless | 339834 | [339834-heartless.json](./339834-heartless.json) |
+| Heartless & Dreadful: Return by 72 hours | 192844 | [192844-heartless-and-dreadful-return-by-72-hours.json](./192844-heartless-and-dreadful-return-by-72-hours.json) |
 | Heartless Angel | 181935 | [181935-heartless-angel.json](./181935-heartless-angel.json) |
 | HeartLinks: A Puzzle Called Love | 153940 | [153940-heartlinks-a-puzzle-called-love.json](./153940-heartlinks-a-puzzle-called-love.json) |
 | Heartomics: Nokori | 33152 | [33152-heartomics-nokori.json](./33152-heartomics-nokori.json) |
@@ -1109,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helena: Cloud District | 416638 | [416638-helena-cloud-district.json](./416638-helena-cloud-district.json) |
 | Hélène est dans mon Ventre. | 310037 | [310037-helene-est-dans-mon-ventre.json](./310037-helene-est-dans-mon-ventre.json) |
 | Helenenkapelle VR | 296900 | [296900-helenenkapelle-vr.json](./296900-helenenkapelle-vr.json) |
+| Helga the Viking Warrior | 192817 | [192817-helga-the-viking-warrior.json](./192817-helga-the-viking-warrior.json) |
 | Helga the Viking Warrior 5: Dawn of Doom | 318609 | [318609-helga-the-viking-warrior-5-dawn-of-doom.json](./318609-helga-the-viking-warrior-5-dawn-of-doom.json) |
 | Helga the Viking Warrior 8: Valhalla's Last War | 417509 | [417509-helga-the-viking-warrior-8-valhallas-last-war.json](./417509-helga-the-viking-warrior-8-valhallas-last-war.json) |
 | Heli Commando in Hell | 124752 | [124752-heli-commando-in-hell.json](./124752-heli-commando-in-hell.json) |
@@ -2056,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Through Time: Viking Tales | 154516 | [154516-hidden-through-time-viking-tales.json](./154516-hidden-through-time-viking-tales.json) |
 | Hidden Tomatoes | 326783 | [326783-hidden-tomatoes.json](./326783-hidden-tomatoes.json) |
 | Hidden Watch | 104121 | [104121-hidden-watch.json](./104121-hidden-watch.json) |
+| Hidden Western | 192819 | [192819-hidden-western.json](./192819-hidden-western.json) |
 | Hidden Western Top-Down 3D | 277827 | [277827-hidden-western-top-down-3d.json](./277827-hidden-western-top-down-3d.json) |
 | Hidden Words | 170534 | [170534-hidden-words.json](./170534-hidden-words.json) |
 | Hidden Words and Pictures Game | 108490 | [108490-hidden-words-and-pictures-game.json](./108490-hidden-words-and-pictures-game.json) |
@@ -3135,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoverboard Hero | 237381 | [237381-hoverboard-hero.json](./237381-hoverboard-hero.json) |
 | Hovercars 3077: Underground racing | 192436 | [192436-hovercars-3077-underground-racing.json](./192436-hovercars-3077-underground-racing.json) |
 | Hovercraft Race 3D | 26691 | [26691-hovercraft-race-3d.json](./26691-hovercraft-race-3d.json) |
+| Hovercraft Racing | 192836 | [192836-hovercraft-racing.json](./192836-hovercraft-racing.json) |
 | Hovercraft: Build Fly Retry | 105896 | [105896-hovercraft-build-fly-retry.json](./105896-hovercraft-build-fly-retry.json) |
 | HoverGrease 2 | 330535 | [330535-hovergrease-2.json](./330535-hovergrease-2.json) |
 | Hovershift | 117695 | [117695-hovershift.json](./117695-hovershift.json) |
