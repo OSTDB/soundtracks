@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date or Destiny: Kiss or Miss | 348880 | [348880-date-or-destiny-kiss-or-miss.json](./348880-date-or-destiny-kiss-or-miss.json) |
 | Date or Die | 56508 | [56508-date-or-die.json](./56508-date-or-die.json) |
 | Date the Difference | 392299 | [392299-date-the-difference.json](./392299-date-the-difference.json) |
+| Date Us, You Won't | 215229 | [215229-date-us-you-wont.json](./215229-date-us-you-wont.json) |
 | Date with Detective Wolf | 303276 | [303276-date-with-detective-wolf.json](./303276-date-with-detective-wolf.json) |
 | Date with Falco | 339267 | [339267-date-with-falco.json](./339267-date-with-falco.json) |
 | Date with Foxgirl | 250007 | [250007-date-with-foxgirl.json](./250007-date-with-foxgirl.json) |
