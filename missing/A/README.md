@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Gardens | 344366 | [344366-amazing-gardens.json](./344366-amazing-gardens.json) |
 | Amazing Jewel Switch | 240196 | [240196-amazing-jewel-switch.json](./240196-amazing-jewel-switch.json) |
 | Amazing Lab! Science Experiments Quiz | 399607 | [399607-amazing-lab-science-experiments-quiz.json](./399607-amazing-lab-science-experiments-quiz.json) |
+| Amazing Love: Cupid's Arrows | 232570 | [232570-amazing-love-cupids-arrows.json](./232570-amazing-love-cupids-arrows.json) |
 | Amazing Maze | 18115 | [18115-amazing-maze.json](./18115-amazing-maze.json) |
 | Amazing Penguin | 7753 | [7753-amazing-penguin.json](./7753-amazing-penguin.json) |
 | Amazing Penguin DX | 279579 | [279579-amazing-penguin-dx.json](./279579-amazing-penguin-dx.json) |
@@ -2130,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal School 1st Grade Games | 241356 | [241356-animal-school-1st-grade-games.json](./241356-animal-school-1st-grade-games.json) |
 | Animal School Simulator | 297646 | [297646-animal-school-simulator.json](./297646-animal-school-simulator.json) |
 | Animal Shelter Simulator | 130134 | [130134-animal-shelter-simulator.json](./130134-animal-shelter-simulator.json) |
+| Animal Shelter Simulator: Horse Shelter DLC | 232523 | [232523-animal-shelter-simulator-horse-shelter-dlc.json](./232523-animal-shelter-simulator-horse-shelter-dlc.json) |
 | Animal Shelter Simulator: Puppies & Kittens | 209661 | [209661-animal-shelter-simulator-puppies-and-kittens.json](./209661-animal-shelter-simulator-puppies-and-kittens.json) |
 | Animal Smash | 365068 | [365068-animal-smash.json](./365068-animal-smash.json) |
 | Animal Soccer World | 43355 | [43355-animal-soccer-world.json](./43355-animal-soccer-world.json) |
