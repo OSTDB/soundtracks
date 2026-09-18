@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T08:32:49.989Z",
-  "total_missing": 86621,
+  "generated_at": "2026-09-18T08:47:26.080Z",
+  "total_missing": 86671,
   "games": [
     {
       "igdb_id": 273453,
@@ -33943,6 +33943,11 @@
       "file": "missing/B/56914-beautiful-desolation.json"
     },
     {
+      "igdb_id": 214574,
+      "game_name": "Beautiful Escape: Dungeoneer",
+      "file": "missing/B/214574-beautiful-escape-dungeoneer.json"
+    },
+    {
       "igdb_id": 246112,
       "game_name": "Beautiful Indie Worlds Bundle",
       "file": "missing/B/246112-beautiful-indie-worlds-bundle.json"
@@ -49176,6 +49181,11 @@
       "igdb_id": 104593,
       "game_name": "Build-A-Bear Workshop: Bear Valley",
       "file": "missing/B/104593-build-a-bear-workshop-bear-valley.json"
+    },
+    {
+      "igdb_id": 214613,
+      "game_name": "Build-A-Bearville",
+      "file": "missing/B/214613-build-a-bearville.json"
     },
     {
       "igdb_id": 232655,
@@ -93643,6 +93653,11 @@
       "file": "missing/D/49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json"
     },
     {
+      "igdb_id": 214616,
+      "game_name": "Disney's Animated Storybook: The Lion King",
+      "file": "missing/D/214616-disneys-animated-storybook-the-lion-king.json"
+    },
+    {
       "igdb_id": 239203,
       "game_name": "Disney's Animated Storybook: Toy Story",
       "file": "missing/D/239203-disneys-animated-storybook-toy-story.json"
@@ -124688,6 +124703,11 @@
       "file": "missing/F/262351-finger-maniac.json"
     },
     {
+      "igdb_id": 214568,
+      "game_name": "Finger on the Roof! Go! Rooftop Runner!",
+      "file": "missing/F/214568-finger-on-the-roof-go-rooftop-runner.json"
+    },
+    {
       "igdb_id": 378802,
       "game_name": "Finger Punch",
       "file": "missing/F/378802-finger-punch.json"
@@ -130793,6 +130813,11 @@
       "file": "missing/F/209709-forevolution.json"
     },
     {
+      "igdb_id": 214608,
+      "game_name": "ForeVR Cornhole",
+      "file": "missing/F/214608-forevr-cornhole.json"
+    },
+    {
       "igdb_id": 291458,
       "game_name": "Forg Feast Frenzy",
       "file": "missing/F/291458-forg-feast-frenzy.json"
@@ -133646,6 +133671,11 @@
       "igdb_id": 163473,
       "game_name": "Friday the 13th: Killer Puzzle - Toxic Jason",
       "file": "missing/F/163473-friday-the-13th-killer-puzzle-toxic-jason.json"
+    },
+    {
+      "igdb_id": 214609,
+      "game_name": "Friday the 13th: Return to Camp Blood Demake",
+      "file": "missing/F/214609-friday-the-13th-return-to-camp-blood-demake.json"
     },
     {
       "igdb_id": 224244,
@@ -165368,6 +165398,11 @@
       "file": "missing/H/10225-hook.json"
     },
     {
+      "igdb_id": 214611,
+      "game_name": "Hook",
+      "file": "missing/H/214611-hook.json"
+    },
+    {
       "igdb_id": 78145,
       "game_name": "Hook",
       "file": "missing/H/78145-hook.json"
@@ -185873,6 +185908,11 @@
       "file": "missing/K/246107-kaitou-elf-liely.json"
     },
     {
+      "igdb_id": 214573,
+      "game_name": "Kaitou Rousseau",
+      "file": "missing/K/214573-kaitou-rousseau.json"
+    },
+    {
       "igdb_id": 45273,
       "game_name": "Kaitou Saint Tail",
       "file": "missing/K/45273-kaitou-saint-tail.json"
@@ -187181,6 +187221,11 @@
       "igdb_id": 218726,
       "game_name": "Kattish",
       "file": "missing/K/218726-kattish.json"
+    },
+    {
+      "igdb_id": 214618,
+      "game_name": "Kattobi Tune",
+      "file": "missing/K/214618-kattobi-tune.json"
     },
     {
       "igdb_id": 63296,
@@ -191956,6 +192001,16 @@
       "igdb_id": 182498,
       "game_name": "Knockout City: Season 4 - Alien Invaders",
       "file": "missing/K/182498-knockout-city-season-4-alien-invaders.json"
+    },
+    {
+      "igdb_id": 214606,
+      "game_name": "Knockout City: Season 6 - City of Tomorrow",
+      "file": "missing/K/214606-knockout-city-season-6-city-of-tomorrow.json"
+    },
+    {
+      "igdb_id": 214607,
+      "game_name": "Knockout City: Season 7 - Mutant Mutiny",
+      "file": "missing/K/214607-knockout-city-season-7-mutant-mutiny.json"
     },
     {
       "igdb_id": 32859,
@@ -253988,6 +254043,11 @@
       "file": "missing/O/58804-open-bar.json"
     },
     {
+      "igdb_id": 214622,
+      "game_name": "Open Day",
+      "file": "missing/O/214622-open-day.json"
+    },
+    {
       "igdb_id": 214177,
       "game_name": "Open Door",
       "file": "missing/O/214177-open-door.json"
@@ -257226,6 +257286,11 @@
       "igdb_id": 413044,
       "game_name": "Overbooked",
       "file": "missing/O/413044-overbooked.json"
+    },
+    {
+      "igdb_id": 214604,
+      "game_name": "Overboss",
+      "file": "missing/O/214604-overboss.json"
     },
     {
       "igdb_id": 373530,
@@ -274828,6 +274893,11 @@
       "file": "missing/P/319397-popslinger-vol-2-loveless.json"
     },
     {
+      "igdb_id": 214620,
+      "game_name": "Poptile",
+      "file": "missing/P/214620-poptile.json"
+    },
+    {
       "igdb_id": 103523,
       "game_name": "Poptropica Worlds",
       "file": "missing/P/103523-poptropica-worlds.json"
@@ -286328,6 +286398,11 @@
       "file": "missing/R/270942-railway-islands-2.json"
     },
     {
+      "igdb_id": 214615,
+      "game_name": "Railway Operation Simulator",
+      "file": "missing/R/214615-railway-operation-simulator.json"
+    },
+    {
       "igdb_id": 136479,
       "game_name": "Railworks 3: Train Simulator 2012 - Bristol to Avonmouth",
       "file": "missing/R/136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json"
@@ -291086,6 +291161,11 @@
       "igdb_id": 144271,
       "game_name": "Reimagine: The Game",
       "file": "missing/R/144271-reimagine-the-game.json"
+    },
+    {
+      "igdb_id": 214585,
+      "game_name": "Reimu ha Nandaka Totemo Nemui",
+      "file": "missing/R/214585-reimu-ha-nandaka-totemo-nemui.json"
     },
     {
       "igdb_id": 153410,
@@ -349608,6 +349688,11 @@
       "file": "missing/S/144283-super-robot-taisen-og-dark-prison.json"
     },
     {
+      "igdb_id": 214614,
+      "game_name": "Super Robot Taisen OG: Infinite Battle",
+      "file": "missing/S/214614-super-robot-taisen-og-infinite-battle.json"
+    },
+    {
       "igdb_id": 112431,
       "game_name": "Super Robot Taisen T",
       "file": "missing/S/112431-super-robot-taisen-t.json"
@@ -400533,6 +400618,11 @@
       "file": "missing/T/255960-twist-and-turn.json"
     },
     {
+      "igdb_id": 214627,
+      "game_name": "Twist 02: Baruklinting",
+      "file": "missing/T/214627-twist-02-baruklinting.json"
+    },
+    {
       "igdb_id": 342730,
       "game_name": "Twist It",
       "file": "missing/T/342730-twist-it.json"
@@ -400546,6 +400636,16 @@
       "igdb_id": 28926,
       "game_name": "Twist of Destiny",
       "file": "missing/T/28926-twist-of-destiny.json"
+    },
+    {
+      "igdb_id": 214626,
+      "game_name": "Twist: 01 Timun Mas",
+      "file": "missing/T/214626-twist-01-timun-mas.json"
+    },
+    {
+      "igdb_id": 214625,
+      "game_name": "Twist: Majapahit",
+      "file": "missing/T/214625-twist-majapahit.json"
     },
     {
       "igdb_id": 182526,
@@ -406888,6 +406988,11 @@
       "file": "missing/V/382294-valenium.json"
     },
     {
+      "igdb_id": 214567,
+      "game_name": "Valentine Candy: Break Head to Head",
+      "file": "missing/V/214567-valentine-candy-break-head-to-head.json"
+    },
+    {
       "igdb_id": 400903,
       "game_name": "Valentine's Day Bikini Femdom",
       "file": "missing/V/400903-valentines-day-bikini-femdom.json"
@@ -410843,6 +410948,11 @@
       "file": "missing/V/334205-vmx.json"
     },
     {
+      "igdb_id": 214623,
+      "game_name": "VN Dating Sims: Masa SMA",
+      "file": "missing/V/214623-vn-dating-sims-masa-sma.json"
+    },
+    {
       "igdb_id": 307292,
       "game_name": "Vnm",
       "file": "missing/V/307292-vnm.json"
@@ -412248,6 +412358,16 @@
       "file": "missing/V/18307-vs.json"
     },
     {
+      "igdb_id": 214582,
+      "game_name": "Vs. Babel no Tou",
+      "file": "missing/V/214582-vs-babel-no-tou.json"
+    },
+    {
+      "igdb_id": 214575,
+      "game_name": "Vs. Battle City",
+      "file": "missing/V/214575-vs-battle-city.json"
+    },
+    {
       "igdb_id": 37771,
       "game_name": "Vs. Collection",
       "file": "missing/V/37771-vs-collection.json"
@@ -412258,9 +412378,39 @@
       "file": "missing/V/94172-vs-duck-hunt.json"
     },
     {
+      "igdb_id": 214588,
+      "game_name": "Vs. Family Tennis",
+      "file": "missing/V/214588-vs-family-tennis.json"
+    },
+    {
+      "igdb_id": 214596,
+      "game_name": "Vs. Football",
+      "file": "missing/V/214596-vs-football.json"
+    },
+    {
       "igdb_id": 246485,
       "game_name": "Vs. Football",
       "file": "missing/V/246485-vs-football.json"
+    },
+    {
+      "igdb_id": 214578,
+      "game_name": "Vs. Gradius",
+      "file": "missing/V/214578-vs-gradius.json"
+    },
+    {
+      "igdb_id": 214599,
+      "game_name": "Vs. Great Tennis",
+      "file": "missing/V/214599-vs-great-tennis.json"
+    },
+    {
+      "igdb_id": 214598,
+      "game_name": "Vs. Head to Head Baseball",
+      "file": "missing/V/214598-vs-head-to-head-baseball.json"
+    },
+    {
+      "igdb_id": 214597,
+      "game_name": "Vs. Helifighter",
+      "file": "missing/V/214597-vs-helifighter.json"
     },
     {
       "igdb_id": 169999,
@@ -412271,6 +412421,41 @@
       "igdb_id": 168330,
       "game_name": "Vs. Ladies Golf",
       "file": "missing/V/168330-vs-ladies-golf.json"
+    },
+    {
+      "igdb_id": 214600,
+      "game_name": "Vs. Lionex",
+      "file": "missing/V/214600-vs-lionex.json"
+    },
+    {
+      "igdb_id": 214601,
+      "game_name": "Vs. Madoola no Tsubasa",
+      "file": "missing/V/214601-vs-madoola-no-tsubasa.json"
+    },
+    {
+      "igdb_id": 214584,
+      "game_name": "Vs. Mighty Bomb Jack",
+      "file": "missing/V/214584-vs-mighty-bomb-jack.json"
+    },
+    {
+      "igdb_id": 214594,
+      "game_name": "Vs. Motocross",
+      "file": "missing/V/214594-vs-motocross.json"
+    },
+    {
+      "igdb_id": 214577,
+      "game_name": "Vs. Ninja JaJaMaru-kun",
+      "file": "missing/V/214577-vs-ninja-jajamaru-kun.json"
+    },
+    {
+      "igdb_id": 214595,
+      "game_name": "Vs. Nintendo 500",
+      "file": "missing/V/214595-vs-nintendo-500.json"
+    },
+    {
+      "igdb_id": 214593,
+      "game_name": "Vs. Platoon",
+      "file": "missing/V/214593-vs-platoon.json"
     },
     {
       "igdb_id": 215749,
@@ -412293,9 +412478,39 @@
       "file": "missing/V/311143-vs-self.json"
     },
     {
+      "igdb_id": 214576,
+      "game_name": "Vs. Star Luster",
+      "file": "missing/V/214576-vs-star-luster.json"
+    },
+    {
+      "igdb_id": 214579,
+      "game_name": "Vs. Super Chinese",
+      "file": "missing/V/214579-vs-super-chinese.json"
+    },
+    {
       "igdb_id": 92342,
       "game_name": "Vs. Super Mario Bros.",
       "file": "missing/V/92342-vs-super-mario-bros.json"
+    },
+    {
+      "igdb_id": 214580,
+      "game_name": "Vs. Super Xevious: Gamp no Nazo",
+      "file": "missing/V/214580-vs-super-xevious-gamp-no-nazo.json"
+    },
+    {
+      "igdb_id": 214591,
+      "game_name": "Vs. The Quest of Ki",
+      "file": "missing/V/214591-vs-the-quest-of-ki.json"
+    },
+    {
+      "igdb_id": 214589,
+      "game_name": "Vs. Top Gun",
+      "file": "missing/V/214589-vs-top-gun.json"
+    },
+    {
+      "igdb_id": 214602,
+      "game_name": "Vs. Toukaidou Gojuusan-tsugi",
+      "file": "missing/V/214602-vs-toukaidou-gojuusan-tsugi.json"
     },
     {
       "igdb_id": 308397,
@@ -412308,9 +412523,24 @@
       "file": "missing/V/169998-vs-urban-champion.json"
     },
     {
+      "igdb_id": 214583,
+      "game_name": "Vs. Valkyrie no Bouken: Toki no Kagi Densetsu",
+      "file": "missing/V/214583-vs-valkyrie-no-bouken-toki-no-kagi-densetsu.json"
+    },
+    {
       "igdb_id": 302648,
       "game_name": "Vs. Vemny & Friends",
       "file": "missing/V/302648-vs-vemny-and-friends.json"
+    },
+    {
+      "igdb_id": 214587,
+      "game_name": "Vs. Volleyball",
+      "file": "missing/V/214587-vs-volleyball.json"
+    },
+    {
+      "igdb_id": 214592,
+      "game_name": "Vs. Vulcan Venture",
+      "file": "missing/V/214592-vs-vulcan-venture.json"
     },
     {
       "igdb_id": 248110,
@@ -431391,6 +431621,26 @@
       "igdb_id": 214501,
       "game_name": "ZJ the Ball Challenge: Level 4C",
       "file": "missing/Z/214501-zj-the-ball-challenge-level-4c.json"
+    },
+    {
+      "igdb_id": 214569,
+      "game_name": "ZJ the Ball: Level 2",
+      "file": "missing/Z/214569-zj-the-ball-level-2.json"
+    },
+    {
+      "igdb_id": 214570,
+      "game_name": "ZJ the Ball: Level 3",
+      "file": "missing/Z/214570-zj-the-ball-level-3.json"
+    },
+    {
+      "igdb_id": 214571,
+      "game_name": "ZJ the Ball: Level 4",
+      "file": "missing/Z/214571-zj-the-ball-level-4.json"
+    },
+    {
+      "igdb_id": 214572,
+      "game_name": "ZJ the Ball: Level 5",
+      "file": "missing/Z/214572-zj-the-ball-level-5.json"
     },
     {
       "igdb_id": 229078,
