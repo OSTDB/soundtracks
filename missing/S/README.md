@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandvich Maker | 294431 | [294431-sandvich-maker.json](./294431-sandvich-maker.json) |
 | Sandwich | 352206 | [352206-sandwich.json](./352206-sandwich.json) |
 | Sandwich Quest | 387531 | [387531-sandwich-quest.json](./387531-sandwich-quest.json) |
+| Sandwich Runner | 193845 | [193845-sandwich-runner.json](./193845-sandwich-runner.json) |
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
 | Sang-Froid: Tales of Werewolves | 5446 | [5446-sang-froid-tales-of-werewolves.json](./5446-sang-froid-tales-of-werewolves.json) |
 | Sangoku Heroes | 69253 | [69253-sangoku-heroes.json](./69253-sangoku-heroes.json) |
@@ -519,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanity Break | 369013 | [369013-sanity-break.json](./369013-sanity-break.json) |
 | Sanity of Morris | 137638 | [137638-sanity-of-morris.json](./137638-sanity-of-morris.json) |
 | Sanity Protocol | 355029 | [355029-sanity-protocol.json](./355029-sanity-protocol.json) |
+| Sankai: Another World | 193868 | [193868-sankai-another-world.json](./193868-sankai-another-world.json) |
 | Sankhara | 156130 | [156130-sankhara.json](./156130-sankhara.json) |
 | Sankokushi Blast: Shounen Heroes | 220322 | [220322-sankokushi-blast-shounen-heroes.json](./220322-sankokushi-blast-shounen-heroes.json) |
 | Sanou Kaihatsu Series 1 Zukei Ninshiki | 303760 | [303760-sanou-kaihatsu-series-1-zukei-ninshiki.json](./303760-sanou-kaihatsu-series-1-zukei-ninshiki.json) |
@@ -653,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saurian | 19384 | [19384-saurian.json](./19384-saurian.json) |
 | Sausage Cat | 320774 | [320774-sausage-cat.json](./320774-sausage-cat.json) |
 | Sausage Fiesta | 153363 | [153363-sausage-fiesta.json](./153363-sausage-fiesta.json) |
+| Sausage Legend 2 | 193877 | [193877-sausage-legend-2.json](./193877-sausage-legend-2.json) |
 | Sausage Legend: Arena | 303800 | [303800-sausage-legend-arena.json](./303800-sausage-legend-arena.json) |
 | Sausage vs. Vegetable | 270097 | [270097-sausage-vs-vegetable.json](./270097-sausage-vs-vegetable.json) |
 | Sausage Wars: Burning Death | 247591 | [247591-sausage-wars-burning-death.json](./247591-sausage-wars-burning-death.json) |
@@ -3226,6 +3229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulation 9 | 408733 | [408733-simulation-9.json](./408733-simulation-9.json) |
 | Simulation Pro Yakyuu | 38301 | [38301-simulation-pro-yakyuu.json](./38301-simulation-pro-yakyuu.json) |
 | Simulation Training Room: Massacre | 295545 | [295545-simulation-training-room-massacre.json](./295545-simulation-training-room-massacre.json) |
+| Simulator of НЗllo Neighbor | 193852 | [193852-simulator-of-llo-neighbor.json](./193852-simulator-of-llo-neighbor.json) |
 | Simulator Simulator | 128586 | [128586-simulator-simulator.json](./128586-simulator-simulator.json) |
 | Simulator Z | 277838 | [277838-simulator-z.json](./277838-simulator-z.json) |
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
@@ -4181,6 +4185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smith's Chronicles | 358868 | [358868-smiths-chronicles.json](./358868-smiths-chronicles.json) |
 | Smithereens! | 22412 | [22412-smithereens.json](./22412-smithereens.json) |
 | Smithing Master | 297615 | [297615-smithing-master.json](./297615-smithing-master.json) |
+| SmithStory II | 193879 | [193879-smithstory-ii.json](./193879-smithstory-ii.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
 | Smoke Break! | 344359 | [344359-smoke-break.json](./344359-smoke-break.json) |
 | Smoked Fish And Cabbage 3 | 328046 | [328046-smoked-fish-and-cabbage-3.json](./328046-smoked-fish-and-cabbage-3.json) |
@@ -4685,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Plexus | 40754 | [40754-solar-plexus.json](./40754-solar-plexus.json) |
 | Solar Purge | 109698 | [109698-solar-purge.json](./109698-solar-purge.json) |
 | Solar Rally | 262469 | [262469-solar-rally.json](./262469-solar-rally.json) |
+| Solar Revival | 193892 | [193892-solar-revival.json](./193892-solar-revival.json) |
 | Solar Rogue | 133421 | [133421-solar-rogue.json](./133421-solar-rogue.json) |
 | Solar Striker | 48940 | [48940-solar-striker.json](./48940-solar-striker.json) |
 | Solar Struggle | 17984 | [17984-solar-struggle.json](./17984-solar-struggle.json) |
@@ -5465,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Thief: A Wizard's Lizard 2 | 58771 | [58771-soul-thief-a-wizards-lizard-2.json](./58771-soul-thief-a-wizards-lizard-2.json) |
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
 | Soul Wizards & Rogulite | 290933 | [290933-soul-wizards-and-rogulite.json](./290933-soul-wizards-and-rogulite.json) |
+| Soul Worker Rush | 193850 | [193850-soul-worker-rush.json](./193850-soul-worker-rush.json) |
 | Soul's Spectrum | 232974 | [232974-souls-spectrum.json](./232974-souls-spectrum.json) |
 | Soul's Spectrum: Awakening | 267110 | [267110-souls-spectrum-awakening.json](./267110-souls-spectrum-awakening.json) |
 | Soulash 2 | 249194 | [249194-soulash-2.json](./249194-soulash-2.json) |
@@ -8695,6 +8702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner Symbols | 316802 | [316802-summoner-symbols.json](./316802-summoner-symbols.json) |
 | Summoner's Gambit | 353894 | [353894-summoners-gambit.json](./353894-summoners-gambit.json) |
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
+| Summoners Era: Arena of Heroes | 193888 | [193888-summoners-era-arena-of-heroes.json](./193888-summoners-era-arena-of-heroes.json) |
 | Summoners War: Chronicles - Adventure Starter Package | 274988 | [274988-summoners-war-chronicles-adventure-starter-package.json](./274988-summoners-war-chronicles-adventure-starter-package.json) |
 | Summoners War: Chronicles - Adventure Support Package | 274987 | [274987-summoners-war-chronicles-adventure-support-package.json](./274987-summoners-war-chronicles-adventure-support-package.json) |
 | Summoning Pixel Dungeon | 176998 | [176998-summoning-pixel-dungeon.json](./176998-summoning-pixel-dungeon.json) |
