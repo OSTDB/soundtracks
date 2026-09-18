@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Secrets Mystery Files | 399627 | [399627-dark-secrets-mystery-files.json](./399627-dark-secrets-mystery-files.json) |
 | Dark Seeker | 151698 | [151698-dark-seeker.json](./151698-dark-seeker.json) |
 | Dark Sentinel | 391739 | [391739-dark-sentinel.json](./391739-dark-sentinel.json) |
+| Dark Shrine | 230916 | [230916-dark-shrine.json](./230916-dark-shrine.json) |
 | Dark Side of Fate | 155083 | [155083-dark-side-of-fate.json](./155083-dark-side-of-fate.json) |
 | Dark Side of War | 150599 | [150599-dark-side-of-war.json](./150599-dark-side-of-war.json) |
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
@@ -1261,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | December 3rd | 392758 | [392758-december-3rd.json](./392758-december-3rd.json) |
 | Decent Into Sector 32 | 165641 | [165641-decent-into-sector-32.json](./165641-decent-into-sector-32.json) |
 | Deceptiive Love Ballad The Blasphemer | 386840 | [386840-deceptiive-love-ballad-the-blasphemer.json](./386840-deceptiive-love-ballad-the-blasphemer.json) |
+| Deceptus Map Pack + Bonus Items | 230934 | [230934-deceptus-map-pack-bonus-items.json](./230934-deceptus-map-pack-bonus-items.json) |
 | Decide in 5 Seconds: Who Is the Culprit? | 409665 | [409665-decide-in-5-seconds-who-is-the-culprit.json](./409665-decide-in-5-seconds-who-is-the-culprit.json) |
 | Decimated | 206358 | [206358-decimated.json](./206358-decimated.json) |
 | Decision | 299762 | [299762-decision.json](./299762-decision.json) |
