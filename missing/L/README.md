@@ -1644,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Lovers 2nd. Yui | 108968 | [108968-little-lovers-2nd-yui.json](./108968-little-lovers-2nd-yui.json) |
 | Little Lures | 361225 | [361225-little-lures.json](./361225-little-lures.json) |
 | Little Mage | 116355 | [116355-little-mage.json](./116355-little-mage.json) |
+| Little Mage Adventure | 224112 | [224112-little-mage-adventure.json](./224112-little-mage-adventure.json) |
 | Little Magic | 267646 | [267646-little-magic.json](./267646-little-magic.json) |
 | Little Magic | 38383 | [38383-little-magic.json](./38383-little-magic.json) |
 | Little Magic | 81331 | [81331-little-magic.json](./81331-little-magic.json) |
