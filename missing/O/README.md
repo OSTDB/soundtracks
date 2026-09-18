@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Jigsaw Puzzle - Work Environment | 89284 | [89284-office-jigsaw-puzzle-work-environment.json](./89284-office-jigsaw-puzzle-work-environment.json) |
 | Office Ladies | 411727 | [411727-office-ladies.json](./411727-office-ladies.json) |
 | Office Love Affair | 157708 | [157708-office-love-affair.json](./157708-office-love-affair.json) |
+| Office Madness 2: Corporation | 200026 | [200026-office-madness-2-corporation.json](./200026-office-madness-2-corporation.json) |
 | Office Management 101 | 60585 | [60585-office-management-101.json](./60585-office-management-101.json) |
 | Office Nightmare: Chapter 1 | 275131 | [275131-office-nightmare-chapter-1.json](./275131-office-nightmare-chapter-1.json) |
 | Office Novice | 180851 | [180851-office-novice.json](./180851-office-novice.json) |
@@ -389,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okaeri! Chibi-Robo! Happy Richie Oosouji | 47773 | [47773-okaeri-chibi-robo-happy-richie-oosouji.json](./47773-okaeri-chibi-robo-happy-richie-oosouji.json) |
 | Okage: Shadow King | 43614 | [43614-okage-shadow-king.json](./43614-okage-shadow-king.json) |
 | Okayu Nyumu! | 320166 | [320166-okayu-nyumu.json](./320166-okayu-nyumu.json) |
+| Okhlos: Sigma | 200038 | [200038-okhlos-sigma.json](./200038-okhlos-sigma.json) |
 | Okhotsk ni Kiyu: Hokkaido Rensa Satsujin | 206132 | [206132-okhotsk-ni-kiyu-hokkaido-rensa-satsujin.json](./206132-okhotsk-ni-kiyu-hokkaido-rensa-satsujin.json) |
 | Okie Dokie | 40776 | [40776-okie-dokie.json](./40776-okie-dokie.json) |
 | Okinawa Journal | 372458 | [372458-okinawa-journal.json](./372458-okinawa-journal.json) |
