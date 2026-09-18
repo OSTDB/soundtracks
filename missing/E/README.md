@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementary Arithmetic Game | 113021 | [113021-elementary-arithmetic-game.json](./113021-elementary-arithmetic-game.json) |
 | Elementary My Dear Majesty! | 35902 | [35902-elementary-my-dear-majesty.json](./35902-elementary-my-dear-majesty.json) |
 | Elementers | 304888 | [304888-elementers.json](./304888-elementers.json) |
+| ElementForger | 220751 | [220751-elementforger.json](./220751-elementforger.json) |
 | Elementis | 138737 | [138737-elementis.json](./138737-elementis.json) |
 | Elementis TD | 411721 | [411721-elementis-td.json](./411721-elementis-td.json) |
 | Elementium | 83562 | [83562-elementium.json](./83562-elementium.json) |
