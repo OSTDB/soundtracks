@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Trees: The Puzzle House | 285920 | [285920-her-trees-the-puzzle-house.json](./285920-her-trees-the-puzzle-house.json) |
 | Her3 : The Light of Paradise Regained | 393461 | [393461-her3-the-light-of-paradise-regained.json](./393461-her3-the-light-of-paradise-regained.json) |
 | Heracles no Eikou II: Titan no Metsubou | 48619 | [48619-heracles-no-eikou-ii-titan-no-metsubou.json](./48619-heracles-no-eikou-ii-titan-no-metsubou.json) |
+| Herald of Havoc | 211276 | [211276-herald-of-havoc.json](./211276-herald-of-havoc.json) |
 | Herald: The Interactive Period Drama - Complete Edition | 226443 | [226443-herald-the-interactive-period-drama-complete-edition.json](./226443-herald-the-interactive-period-drama-complete-edition.json) |
 | Heralds of the Avirentes: Ch. 1 - Wings of Change | 244474 | [244474-heralds-of-the-avirentes-ch-1-wings-of-change.json](./244474-heralds-of-the-avirentes-ch-1-wings-of-change.json) |
 | Heralds of The Order | 108466 | [108466-heralds-of-the-order.json](./108466-heralds-of-the-order.json) |
@@ -2786,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hormones of the Dead | 405601 | [405601-hormones-of-the-dead.json](./405601-hormones-of-the-dead.json) |
 | Horn and Shields | 319959 | [319959-horn-and-shields.json](./319959-horn-and-shields.json) |
 | Horn of Balance | 296912 | [296912-horn-of-balance.json](./296912-horn-of-balance.json) |
+| Horns of Justice | 211290 | [211290-horns-of-justice.json](./211290-horns-of-justice.json) |
 | Horny Clinic | 226188 | [226188-horny-clinic.json](./226188-horny-clinic.json) |
 | Horny Dungeon | 272285 | [272285-horny-dungeon.json](./272285-horny-dungeon.json) |
 | Horny Girls Hentai | 161327 | [161327-horny-girls-hentai.json](./161327-horny-girls-hentai.json) |
