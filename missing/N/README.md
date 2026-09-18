@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neaten Up! | 385592 | [385592-neaten-up.json](./385592-neaten-up.json) |
 | Neath | 380409 | [380409-neath.json](./380409-neath.json) |
 | Neave 2 | 212886 | [212886-neave-2.json](./212886-neave-2.json) |
+| Nebo | 182927 | [182927-nebo.json](./182927-nebo.json) |
 | Nebuchadnezzar | 126806 | [126806-nebuchadnezzar.json](./126806-nebuchadnezzar.json) |
 | Nebula | 197412 | [197412-nebula.json](./197412-nebula.json) |
 | Nebula | 329118 | [329118-nebula.json](./329118-nebula.json) |
@@ -760,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Orbit | 382772 | [382772-neon-orbit.json](./382772-neon-orbit.json) |
 | Neon Outlast | 195787 | [195787-neon-outlast.json](./195787-neon-outlast.json) |
 | Neon Parkour 2 | 253614 | [253614-neon-parkour-2.json](./253614-neon-parkour-2.json) |
+| Neon Race | 182946 | [182946-neon-race.json](./182946-neon-race.json) |
 | Neon Race | 286644 | [286644-neon-race.json](./286644-neon-race.json) |
 | Neon Race 2 | 286645 | [286645-neon-race-2.json](./286645-neon-race-2.json) |
 | Neon Racer | 192464 | [192464-neon-racer.json](./192464-neon-racer.json) |
@@ -1999,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostradamus no Daiyogen | 385708 | [385708-nostradamus-no-daiyogen.json](./385708-nostradamus-no-daiyogen.json) |
 | Nostromo's Run | 274197 | [274197-nostromos-run.json](./274197-nostromos-run.json) |
 | Nosy | 205112 | [205112-nosy.json](./205112-nosy.json) |
+| Not 4 Usual Games | 182912 | [182912-not-4-usual-games.json](./182912-not-4-usual-games.json) |
 | Not a Customer | 406711 | [406711-not-a-customer.json](./406711-not-a-customer.json) |
 | Not A Fake Game | 366868 | [366868-not-a-fake-game.json](./366868-not-a-fake-game.json) |
 | Not a Hero - Me, Myself & Bunnylord | 140548 | [140548-not-a-hero-me-myself-and-bunnylord.json](./140548-not-a-hero-me-myself-and-bunnylord.json) |
