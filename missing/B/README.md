@@ -1678,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedrock Snowball Bash Game | 143682 | [143682-bedrock-snowball-bash-game.json](./143682-bedrock-snowball-bash-game.json) |
 | Bedroom Battlegrounds | 288231 | [288231-bedroom-battlegrounds.json](./288231-bedroom-battlegrounds.json) |
 | Bedrooms | 342732 | [342732-bedrooms.json](./342732-bedrooms.json) |
+| Bedtime | 182911 | [182911-bedtime.json](./182911-bedtime.json) |
 | Bedtime Horror Stories | 220647 | [220647-bedtime-horror-stories.json](./220647-bedtime-horror-stories.json) |
 | Bedtime Stories | 371963 | [371963-bedtime-stories.json](./371963-bedtime-stories.json) |
 | Bedtime Story: Saint | 338208 | [338208-bedtime-story-saint.json](./338208-bedtime-story-saint.json) |
