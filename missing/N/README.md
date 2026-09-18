@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekobabaa: Melonbooks Omake Tokubetsu-hen | 212253 | [212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json](./212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json) |
 | Nekoglai Simulator | 193409 | [193409-nekoglai-simulator.json](./193409-nekoglai-simulator.json) |
 | Nekoman | 97829 | [97829-nekoman.json](./97829-nekoman.json) |
+| Nekomancy | 213440 | [213440-nekomancy.json](./213440-nekomancy.json) |
 | Nekome: Nazi Hunter | 388249 | [388249-nekome-nazi-hunter.json](./388249-nekome-nazi-hunter.json) |
 | Nekomin Kittens Invasion | 351725 | [351725-nekomin-kittens-invasion.json](./351725-nekomin-kittens-invasion.json) |
 | Nekopara Extra | 106416 | [106416-nekopara-extra.json](./106416-nekopara-extra.json) |
@@ -1490,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Story: Akio's Tale | 102743 | [102743-ninja-story-akios-tale.json](./102743-ninja-story-akios-tale.json) |
 | Ninja Tag | 59996 | [59996-ninja-tag.json](./59996-ninja-tag.json) |
 | Ninja TD | 200189 | [200189-ninja-td.json](./200189-ninja-td.json) |
+| Ninja Thea | 213441 | [213441-ninja-thea.json](./213441-ninja-thea.json) |
 | Ninja Throw HD | 20647 | [20647-ninja-throw-hd.json](./20647-ninja-throw-hd.json) |
 | Ninja Torappu | 62192 | [62192-ninja-torappu.json](./62192-ninja-torappu.json) |
 | Ninja Toy Warrior - Legendary Ninja Fight | 100935 | [100935-ninja-toy-warrior-legendary-ninja-fight.json](./100935-ninja-toy-warrior-legendary-ninja-fight.json) |
