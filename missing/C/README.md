@@ -2130,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choppy Cuts | 349383 | [349383-choppy-cuts.json](./349383-choppy-cuts.json) |
 | Chordosis | 266874 | [266874-chordosis.json](./266874-chordosis.json) |
 | Chords Enchanter | 292685 | [292685-chords-enchanter.json](./292685-chords-enchanter.json) |
+| Chorizo | 217409 | [217409-chorizo.json](./217409-chorizo.json) |
 | Choro Q | 245031 | [245031-choro-q.json](./245031-choro-q.json) |
 | Choro Q | 69796 | [69796-choro-q.json](./69796-choro-q.json) |
 | Choro Q 3 | 97364 | [97364-choro-q-3.json](./97364-choro-q-3.json) |
@@ -2706,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay Soldiers | 237520 | [237520-clay-soldiers.json](./237520-clay-soldiers.json) |
 | Clayborn Idle | 382301 | [382301-clayborn-idle.json](./382301-clayborn-idle.json) |
 | Clayers | 348326 | [348326-clayers.json](./348326-clayers.json) |
+| ClayTown Horror | 217403 | [217403-claytown-horror.json](./217403-claytown-horror.json) |
 | Clean City Project | 292521 | [292521-clean-city-project.json](./292521-clean-city-project.json) |
 | Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
 | Clean Freak! Perfect Cook! | 365166 | [365166-clean-freak-perfect-cook.json](./365166-clean-freak-perfect-cook.json) |
@@ -3075,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee, Plis | 257964 | [257964-coffee-plis.json](./257964-coffee-plis.json) |
 | Coffee/Break: Ocean Grey | 141796 | [141796-coffee-break-ocean-grey.json](./141796-coffee-break-ocean-grey.json) |
 | CoffeeBiz Tycoon | 111027 | [111027-coffeebiz-tycoon.json](./111027-coffeebiz-tycoon.json) |
+| Coffeehouse | 217374 | [217374-coffeehouse.json](./217374-coffeehouse.json) |
 | Coffeetime Crosswords | 74409 | [74409-coffeetime-crosswords.json](./74409-coffeetime-crosswords.json) |
 | Coffie Simulator | 345613 | [345613-coffie-simulator.json](./345613-coffie-simulator.json) |
 | Coffin Counseling | 179704 | [179704-coffin-counseling.json](./179704-coffin-counseling.json) |
@@ -3688,6 +3691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connection reHaunted | 146822 | [146822-connection-rehaunted.json](./146822-connection-rehaunted.json) |
 | Connections | 315093 | [315093-connections.json](./315093-connections.json) |
 | Connectris | 79232 | [79232-connectris.json](./79232-connectris.json) |
+| Conniption: Paranoia | 217392 | [217392-conniption-paranoia.json](./217392-conniption-paranoia.json) |
 | Connor | 218145 | [218145-connor.json](./218145-connor.json) |
 | Conquer Lands | 372464 | [372464-conquer-lands.json](./372464-conquer-lands.json) |
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
@@ -4787,6 +4791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc Legend of the Gobbos | 315020 | [315020-croc-legend-of-the-gobbos.json](./315020-croc-legend-of-the-gobbos.json) |
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
 | Crocodile Blood: The Final Moments of Kurumizawa Keiko | 394154 | [394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json](./394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json) |
+| Crocodile Transformator | 217388 | [217388-crocodile-transformator.json](./217388-crocodile-transformator.json) |
 | Crocro Adventure | 96341 | [96341-crocro-adventure.json](./96341-crocro-adventure.json) |
 | Crocs World Construction Kit 2 | 253986 | [253986-crocs-world-construction-kit-2.json](./253986-crocs-world-construction-kit-2.json) |
 | Croixleur Sigma: Deluxe Edition | 131689 | [131689-croixleur-sigma-deluxe-edition.json](./131689-croixleur-sigma-deluxe-edition.json) |
@@ -5018,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crying Pony | 245950 | [245950-crying-pony.json](./245950-crying-pony.json) |
 | Crymachina | 240141 | [240141-crymachina.json](./240141-crymachina.json) |
 | Cryo | 374688 | [374688-cryo.json](./374688-cryo.json) |
+| Cryogenesis | 217413 | [217413-cryogenesis.json](./217413-cryogenesis.json) |
 | Cryogenics | 221846 | [221846-cryogenics.json](./221846-cryogenics.json) |
 | Cryohazard | 219151 | [219151-cryohazard.json](./219151-cryohazard.json) |
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
