@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Mountaineer's Hotel | 14851 | [14851-dead-mountaineers-hotel.json](./14851-dead-mountaineers-hotel.json) |
 | Dead Nation | 2134 | [2134-dead-nation.json](./2134-dead-nation.json) |
 | Dead Nation: Road to Devastation | 20336 | [20336-dead-nation-road-to-devastation.json](./20336-dead-nation-road-to-devastation.json) |
+| Dead No-Head | 187404 | [187404-dead-no-head.json](./187404-dead-no-head.json) |
 | Dead of Day | 244894 | [244894-dead-of-day.json](./244894-dead-of-day.json) |
 | Dead of Night | 224113 | [224113-dead-of-night.json](./224113-dead-of-night.json) |
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
@@ -4704,6 +4705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druid | 13613 | [13613-druid.json](./13613-druid.json) |
 | Druid | 305921 | [305921-druid.json](./305921-druid.json) |
 | Druid's Tale: Crystal Cave | 61653 | [61653-druids-tale-crystal-cave.json](./61653-druids-tale-crystal-cave.json) |
+| Drum Box | 187360 | [187360-drum-box.json](./187360-drum-box.json) |
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
