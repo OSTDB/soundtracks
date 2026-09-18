@@ -7111,18 +7111,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: DroidWorks | 95480 | [95480-star-wars-droidworks.json](./95480-star-wars-droidworks.json) |
 | Star Wars: Empire at War | 144 | [144-star-wars-empire-at-war.json](./144-star-wars-empire-at-war.json) |
 | Star Wars: Episode I - Battle for Naboo | 156 | [156-star-wars-episode-i-battle-for-naboo.json](./156-star-wars-episode-i-battle-for-naboo.json) |
+| Star Wars: Episode I - Battle Tank Attack | 198920 | [198920-star-wars-episode-i-battle-tank-attack.json](./198920-star-wars-episode-i-battle-tank-attack.json) |
+| Star Wars: Episode I - Electronic Sith Infiltrator Pen Game | 198921 | [198921-star-wars-episode-i-electronic-sith-infiltrator-pen-game.json](./198921-star-wars-episode-i-electronic-sith-infiltrator-pen-game.json) |
+| Star Wars: Episode I - Naboo Defense | 198914 | [198914-star-wars-episode-i-naboo-defense.json](./198914-star-wars-episode-i-naboo-defense.json) |
+| Star Wars: Episode I - Naboo Escape | 198913 | [198913-star-wars-episode-i-naboo-escape.json](./198913-star-wars-episode-i-naboo-escape.json) |
+| Star Wars: Episode I - Podrace Challenge Game | 198915 | [198915-star-wars-episode-i-podrace-challenge-game.json](./198915-star-wars-episode-i-podrace-challenge-game.json) |
+| Star Wars: Episode I - Underwater Race to Theed | 198916 | [198916-star-wars-episode-i-underwater-race-to-theed.json](./198916-star-wars-episode-i-underwater-race-to-theed.json) |
+| Star Wars: Episode II - Anakin Skywalker’s Lightsaber Duel | 198917 | [198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json](./198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json) |
 | Star Wars: Episode III - Revenge of the Sith | 166484 | [166484-star-wars-episode-iii-revenge-of-the-sith.json](./166484-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Force Commander | 159 | [159-star-wars-force-commander.json](./159-star-wars-force-commander.json) |
+| Star Wars: Galactic Battle | 198918 | [198918-star-wars-galactic-battle.json](./198918-star-wars-galactic-battle.json) |
 | Star Wars: Galactic Battlegrounds Saga | 35596 | [35596-star-wars-galactic-battlegrounds-saga.json](./35596-star-wars-galactic-battlegrounds-saga.json) |
 | Star Wars: Heritage Pack | 200175 | [200175-star-wars-heritage-pack.json](./200175-star-wars-heritage-pack.json) |
 | Star Wars: Heritage Pack | 247756 | [247756-star-wars-heritage-pack.json](./247756-star-wars-heritage-pack.json) |
 | Star Wars: Hunters - Frosty Nerf Herder Cosmetic Pack | 328991 | [328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json](./328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json) |
 | Star Wars: Hunters - Season 4: Survival Instinct | 347673 | [347673-star-wars-hunters-season-4-survival-instinct.json](./347673-star-wars-hunters-season-4-survival-instinct.json) |
 | Star Wars: Hunters - Season 5: Scum & Villainy | 347677 | [347677-star-wars-hunters-season-5-scum-and-villainy.json](./347677-star-wars-hunters-season-5-scum-and-villainy.json) |
+| Star Wars: Imperial Assault | 198919 | [198919-star-wars-imperial-assault.json](./198919-star-wars-imperial-assault.json) |
 | Star Wars: Imperial Assault | 199015 | [199015-star-wars-imperial-assault.json](./199015-star-wars-imperial-assault.json) |
 | Star Wars: Jedi Adventure | 62669 | [62669-star-wars-jedi-adventure.json](./62669-star-wars-jedi-adventure.json) |
 | Star Wars: Jedi Knight Collection | 54401 | [54401-star-wars-jedi-knight-collection.json](./54401-star-wars-jedi-knight-collection.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
+| Star Wars: Millenium Falcon Challenge | 198922 | [198922-star-wars-millenium-falcon-challenge.json](./198922-star-wars-millenium-falcon-challenge.json) |
 | Star Wars: Outpost | 75087 | [75087-star-wars-outpost.json](./75087-star-wars-outpost.json) |
 | Star Wars: Pit Droids | 13483 | [13483-star-wars-pit-droids.json](./13483-star-wars-pit-droids.json) |
 | Star Wars: Project Stardust | 137006 | [137006-star-wars-project-stardust.json](./137006-star-wars-project-stardust.json) |
@@ -7131,6 +7141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Rebel Assault I + II | 33161 | [33161-star-wars-rebel-assault-i-ii.json](./33161-star-wars-rebel-assault-i-ii.json) |
 | Star Wars: Rebel Assault II - The Hidden Empire | 300715 | [300715-star-wars-rebel-assault-ii-the-hidden-empire.json](./300715-star-wars-rebel-assault-ii-the-hidden-empire.json) |
 | Star Wars: Rebel Forces | 199016 | [199016-star-wars-rebel-forces.json](./199016-star-wars-rebel-forces.json) |
+| Star Wars: Rebel Forces Laser Game | 198925 | [198925-star-wars-rebel-forces-laser-game.json](./198925-star-wars-rebel-forces-laser-game.json) |
 | Star Wars: Return of the Jedi - Death Star Battle | 10204 | [10204-star-wars-return-of-the-jedi-death-star-battle.json](./10204-star-wars-return-of-the-jedi-death-star-battle.json) |
 | Star Wars: Rogue Leaders - Rogue Squadron Wii | 261815 | [261815-star-wars-rogue-leaders-rogue-squadron-wii.json](./261815-star-wars-rogue-leaders-rogue-squadron-wii.json) |
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
@@ -8070,6 +8081,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
 | Street Fighter Battle Combination | 55065 | [55065-street-fighter-battle-combination.json](./55065-street-fighter-battle-combination.json) |
 | Street Fighter EX | 39319 | [39319-street-fighter-ex.json](./39319-street-fighter-ex.json) |
+| Street Fighter II | 198927 | [198927-street-fighter-ii.json](./198927-street-fighter-ii.json) |
+| Street Fighter II | 198928 | [198928-street-fighter-ii.json](./198928-street-fighter-ii.json) |
 | Street Fighter II | 321621 | [321621-street-fighter-ii.json](./321621-street-fighter-ii.json) |
 | Street Fighter II | 321622 | [321622-street-fighter-ii.json](./321622-street-fighter-ii.json) |
 | Street Fighter II Uno | 55063 | [55063-street-fighter-ii-uno.json](./55063-street-fighter-ii-uno.json) |
@@ -8161,6 +8174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strexy Slayers | 276167 | [276167-strexy-slayers.json](./276167-strexy-slayers.json) |
 | Striatum | 342647 | [342647-striatum.json](./342647-striatum.json) |
 | Striden | 237059 | [237059-striden.json](./237059-striden.json) |
+| Strider | 198929 | [198929-strider.json](./198929-strider.json) |
 | Strider Mountain | 222415 | [222415-strider-mountain.json](./222415-strider-mountain.json) |
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
 | Strike at Night | 349835 | [349835-strike-at-night.json](./349835-strike-at-night.json) |
@@ -8512,6 +8526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Madness | 406178 | [406178-sugar-madness.json](./406178-sugar-madness.json) |
 | Sugar Mess: Let's Play Jolly Battle | 263752 | [263752-sugar-mess-lets-play-jolly-battle.json](./263752-sugar-mess-lets-play-jolly-battle.json) |
 | Sugar Overdrive | 332985 | [332985-sugar-overdrive.json](./332985-sugar-overdrive.json) |
+| Sugar Ray Leonard: Talking Boxing | 198930 | [198930-sugar-ray-leonard-talking-boxing.json](./198930-sugar-ray-leonard-talking-boxing.json) |
 | Sugar Rush | 58209 | [58209-sugar-rush.json](./58209-sugar-rush.json) |
 | Sugar Siege | 338270 | [338270-sugar-siege.json](./338270-sugar-siege.json) |
 | Sugar Style | 141795 | [141795-sugar-style.json](./141795-sugar-style.json) |
@@ -8909,6 +8924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Donuts! | 175412 | [175412-super-donuts.json](./175412-super-donuts.json) |
 | Super Doom TV | 299449 | [299449-super-doom-tv.json](./299449-super-doom-tv.json) |
 | Super Doopliss World | 323360 | [323360-super-doopliss-world.json](./323360-super-doopliss-world.json) |
+| Super Double Dragon | 198931 | [198931-super-double-dragon.json](./198931-super-double-dragon.json) |
 | Super Dram World | 132857 | [132857-super-dram-world.json](./132857-super-dram-world.json) |
 | Super Dram World 2 | 132858 | [132858-super-dram-world-2.json](./132858-super-dram-world-2.json) |
 | Super Dream Dasher | 172189 | [172189-super-dream-dasher.json](./172189-super-dream-dasher.json) |
@@ -9613,7 +9629,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stickman Golf 3 | 58223 | [58223-super-stickman-golf-3.json](./58223-super-stickman-golf-3.json) |
 | Super Street Fighter II | 322188 | [322188-super-street-fighter-ii.json](./322188-super-street-fighter-ii.json) |
 | Super Street Fighter II Turbo Pinball FX | 55062 | [55062-super-street-fighter-ii-turbo-pinball-fx.json](./55062-super-street-fighter-ii-turbo-pinball-fx.json) |
+| Super Street Fighter II: The New Challengers | 198933 | [198933-super-street-fighter-ii-the-new-challengers.json](./198933-super-street-fighter-ii-the-new-challengers.json) |
 | Super Street Fighter II: The New Challengers | 322210 | [322210-super-street-fighter-ii-the-new-challengers.json](./322210-super-street-fighter-ii-the-new-challengers.json) |
+| Super Street Fighter II: The New Challengers - Tiger Barcodzz | 198934 | [198934-super-street-fighter-ii-the-new-challengers-tiger-barcodzz.json](./198934-super-street-fighter-ii-the-new-challengers-tiger-barcodzz.json) |
 | Super Strip Fighter IV | 66653 | [66653-super-strip-fighter-iv.json](./66653-super-strip-fighter-iv.json) |
 | Super Strong Hero | 188005 | [188005-super-strong-hero.json](./188005-super-strong-hero.json) |
 | Super Strong Warriors | 64922 | [64922-super-strong-warriors.json](./64922-super-strong-warriors.json) |
@@ -10031,6 +10049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Gas Visits the United States of America | 65517 | [65517-swamp-gas-visits-the-united-states-of-america.json](./65517-swamp-gas-visits-the-united-states-of-america.json) |
 | Swamp Hunt | 208347 | [208347-swamp-hunt.json](./208347-swamp-hunt.json) |
 | Swamp Sim | 345586 | [345586-swamp-sim.json](./345586-swamp-sim.json) |
+| Swamp Thing | 198935 | [198935-swamp-thing.json](./198935-swamp-thing.json) |
 | Swamp Thing | 365685 | [365685-swamp-thing.json](./365685-swamp-thing.json) |
 | Swamped! | 309525 | [309525-swamped.json](./309525-swamped.json) |
 | Swampify | 305753 | [305753-swampify.json](./305753-swampify.json) |
