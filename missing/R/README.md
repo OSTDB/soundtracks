@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakshasa | 318411 | [318411-rakshasa.json](./318411-rakshasa.json) |
 | Rakshasa | 384678 | [384678-rakshasa.json](./384678-rakshasa.json) |
 | Rakuen | 28544 | [28544-rakuen.json](./28544-rakuen.json) |
+| Rakugaki Kingdom | 221245 | [221245-rakugaki-kingdom.json](./221245-rakugaki-kingdom.json) |
 | Rally | 197381 | [197381-rally.json](./197381-rally.json) |
 | Rally Arcade Classics | 319408 | [319408-rally-arcade-classics.json](./319408-rally-arcade-classics.json) |
 | Rally Bike | 282119 | [282119-rally-bike.json](./282119-rally-bike.json) |
@@ -3483,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruptured Floor | 416635 | [416635-ruptured-floor.json](./416635-ruptured-floor.json) |
 | Rupupu Cube: Lup Salad | 66137 | [66137-rupupu-cube-lup-salad.json](./66137-rupupu-cube-lup-salad.json) |
 | Rural Nightmare | 272007 | [272007-rural-nightmare.json](./272007-rural-nightmare.json) |
+| Ruriiro Days: Heavenly Blue | 221242 | [221242-ruriiro-days-heavenly-blue.json](./221242-ruriiro-days-heavenly-blue.json) |
 | Ruruli Ra Rura | 45950 | [45950-ruruli-ra-rura.json](./45950-ruruli-ra-rura.json) |
 | Rush | 131541 | [131541-rush.json](./131541-rush.json) |
 | Rush | 272586 | [272586-rush.json](./272586-rush.json) |
