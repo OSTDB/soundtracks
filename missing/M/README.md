@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madhouse13 | 204553 | [204553-madhouse13.json](./204553-madhouse13.json) |
 | Madievals | 120378 | [120378-madievals.json](./120378-madievals.json) |
 | Madison VR | 252791 | [252791-madison-vr.json](./252791-madison-vr.json) |
+| Madison: Possessed Edition | 198392 | [198392-madison-possessed-edition.json](./198392-madison-possessed-edition.json) |
 | Madland | 121598 | [121598-madland.json](./121598-madland.json) |
 | Madman | 272280 | [272280-madman.json](./272280-madman.json) |
 | Madness | 309846 | [309846-madness.json](./309846-madness.json) |
@@ -1434,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask of Sanity | 121696 | [121696-mask-of-sanity.json](./121696-mask-of-sanity.json) |
 | Mask of the Plague Doctor | 129712 | [129712-mask-of-the-plague-doctor.json](./129712-mask-of-the-plague-doctor.json) |
 | Mask Quest | 236934 | [236934-mask-quest.json](./236934-mask-quest.json) |
+| Mask Two Two | 198378 | [198378-mask-two-two.json](./198378-mask-two-two.json) |
 | Mask: Beyond Lies | 255988 | [255988-mask-beyond-lies.json](./255988-mask-beyond-lies.json) |
 | Maskarable | 315108 | [315108-maskarable.json](./315108-maskarable.json) |
 | Masked | 120940 | [120940-masked.json](./120940-masked.json) |
@@ -3853,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitla | 373657 | [373657-mitla.json](./373657-mitla.json) |
 | Mitos.is: The Game | 34786 | [34786-mitos-is-the-game.json](./34786-mitos-is-the-game.json) |
 | Mitrasphere | 146911 | [146911-mitrasphere.json](./146911-mitrasphere.json) |
+| MITS: Monsters in the Shadows | 198376 | [198376-mits-monsters-in-the-shadows.json](./198376-mits-monsters-in-the-shadows.json) |
 | Mitsuge! Megami-sama | 329951 | [329951-mitsuge-megami-sama.json](./329951-mitsuge-megami-sama.json) |
 | Mitsume ga Tooru | 202919 | [202919-mitsume-ga-tooru.json](./202919-mitsume-ga-tooru.json) |
 | Mitsumete Knight | 92966 | [92966-mitsumete-knight.json](./92966-mitsumete-knight.json) |
@@ -4731,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morris Cave | 213448 | [213448-morris-cave.json](./213448-morris-cave.json) |
 | Morrok | 250974 | [250974-morrok.json](./250974-morrok.json) |
 | Morrow | 220844 | [220844-morrow.json](./220844-morrow.json) |
+| Morse | 198337 | [198337-morse.json](./198337-morse.json) |
 | Morse Shingou de Ai wo Tsutae yo. | 367396 | [367396-morse-shingou-de-ai-wo-tsutae-yo.json](./367396-morse-shingou-de-ai-wo-tsutae-yo.json) |
 | Morse vs. Horse | 344340 | [344340-morse-vs-horse.json](./344340-morse-vs-horse.json) |
 | Mortadelo y Filemón II: Safari Callejero | 98975 | [98975-mortadelo-y-filemon-ii-safari-callejero.json](./98975-mortadelo-y-filemon-ii-safari-callejero.json) |
