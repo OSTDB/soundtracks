@@ -3014,6 +3014,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyakuten Hanafuda | 256331 | [256331-gyakuten-hanafuda.json](./256331-gyakuten-hanafuda.json) |
 | Gyakuten Othellonia | 220312 | [220312-gyakuten-othellonia.json](./220312-gyakuten-othellonia.json) |
 | Gyakuten Puzzle Irekaeru Gyakuten | 256345 | [256345-gyakuten-puzzle-irekaeru-gyakuten.json](./256345-gyakuten-puzzle-irekaeru-gyakuten.json) |
+| Gyakuten Saiban | 221283 | [221283-gyakuten-saiban.json](./221283-gyakuten-saiban.json) |
+| Gyakuten Saiban 2 | 221289 | [221289-gyakuten-saiban-2.json](./221289-gyakuten-saiban-2.json) |
+| Gyakuten Saiban 3 | 221290 | [221290-gyakuten-saiban-3.json](./221290-gyakuten-saiban-3.json) |
 | Gyakuten Saiban Poker | 256342 | [256342-gyakuten-saiban-poker.json](./256342-gyakuten-saiban-poker.json) |
 | Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396943 | [396943-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396943-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
 | Gyaruko-chan-tachi to Shippori Onsen Ryokou: Ichaicha Shimakuri Ippaku Futsuka no Tabi | 396940 | [396940-gyaruko-chan-tachi-to-shippori-onsen-ryokou-ichaicha-shimakuri-ippaku-futsuka-no-tabi.json](./396940-gyaruko-chan-tachi-to-shippori-onsen-ryokou-ichaicha-shimakuri-ippaku-futsuka-no-tabi.json) |
