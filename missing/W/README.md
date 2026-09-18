@@ -181,6 +181,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanba Warriors: Character Pack 1 | 170992 | [170992-wanba-warriors-character-pack-1.json](./170992-wanba-warriors-character-pack-1.json) |
 | Wanba Warriors: Character Pack 2 | 170994 | [170994-wanba-warriors-character-pack-2.json](./170994-wanba-warriors-character-pack-2.json) |
 | Wanba Warriors: Character Pack 3 | 170993 | [170993-wanba-warriors-character-pack-3.json](./170993-wanba-warriors-character-pack-3.json) |
+| Wand of Fortune 2 FD: Kimi ni Sasageru Epilogue | 219130 | [219130-wand-of-fortune-2-fd-kimi-ni-sasageru-epilogue.json](./219130-wand-of-fortune-2-fd-kimi-ni-sasageru-epilogue.json) |
+| Wand of Fortune 2: Jikuu ni Shizumu Mokushiroku | 219129 | [219129-wand-of-fortune-2-jikuu-ni-shizumu-mokushiroku.json](./219129-wand-of-fortune-2-jikuu-ni-shizumu-mokushiroku.json) |
 | Wander Wonder | 237514 | [237514-wander-wonder.json](./237514-wander-wonder.json) |
 | Wanderer | 185082 | [185082-wanderer.json](./185082-wanderer.json) |
 | Wanderer | 205582 | [205582-wanderer.json](./205582-wanderer.json) |
@@ -870,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Hat Fight | 201804 | [201804-weird-hat-fight.json](./201804-weird-hat-fight.json) |
 | Weird Pizza Dreams | 323344 | [323344-weird-pizza-dreams.json](./323344-weird-pizza-dreams.json) |
 | Weird Rituals in the Ancient Temples | 98403 | [98403-weird-rituals-in-the-ancient-temples.json](./98403-weird-rituals-in-the-ancient-temples.json) |
+| Weird RPG | 219144 | [219144-weird-rpg.json](./219144-weird-rpg.json) |
 | Weird Store | 252135 | [252135-weird-store.json](./252135-weird-store.json) |
 | Weird Water World | 409629 | [409629-weird-water-world.json](./409629-weird-water-world.json) |
 | Weird: Truth is Stranger than Fiction | 69217 | [69217-weird-truth-is-stranger-than-fiction.json](./69217-weird-truth-is-stranger-than-fiction.json) |
@@ -1691,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish You All the Best | 402934 | [402934-wish-you-all-the-best.json](./402934-wish-you-all-the-best.json) |
 | Wish You Happiness | 310043 | [310043-wish-you-happiness.json](./310043-wish-you-happiness.json) |
 | Wishbind | 254578 | [254578-wishbind.json](./254578-wishbind.json) |
+| Wishbone: Activity Zone | 219142 | [219142-wishbone-activity-zone.json](./219142-wishbone-activity-zone.json) |
 | Wishes In Pen: Chrysanthemums in August - Otome Visual Novel | 107892 | [107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json](./107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json) |
 | Wishful Thinking | 229678 | [229678-wishful-thinking.json](./229678-wishful-thinking.json) |
 | Wishing Well | 130861 | [130861-wishing-well.json](./130861-wishing-well.json) |
