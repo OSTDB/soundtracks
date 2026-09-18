@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Night VR | 153370 | [153370-hard-night-vr.json](./153370-hard-night-vr.json) |
 | Hard Racing | 252160 | [252160-hard-racing.json](./252160-hard-racing.json) |
 | Hard Racing: Stunt Car Driving | 283264 | [283264-hard-racing-stunt-car-driving.json](./283264-hard-racing-stunt-car-driving.json) |
+| Hard Relay Mario | 219117 | [219117-hard-relay-mario.json](./219117-hard-relay-mario.json) |
 | Hard Rock Pinball | 133434 | [133434-hard-rock-pinball.json](./133434-hard-rock-pinball.json) |
 | Hard Survivor | 232973 | [232973-hard-survivor.json](./232973-hard-survivor.json) |
 | Hard Time III | 310923 | [310923-hard-time-iii.json](./310923-hard-time-iii.json) |
@@ -615,6 +616,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haru he to Tsuzuku Oka | 388003 | [388003-haru-he-to-tsuzuku-oka.json](./388003-haru-he-to-tsuzuku-oka.json) |
 | Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
 | Harukanaru Toki no Naka de 3 Ultimate | 136461 | [136461-harukanaru-toki-no-naka-de-3-ultimate.json](./136461-harukanaru-toki-no-naka-de-3-ultimate.json) |
+| Harukanaru Toki no Naka De 3: Izayoiki | 219154 | [219154-harukanaru-toki-no-naka-de-3-izayoiki.json](./219154-harukanaru-toki-no-naka-de-3-izayoiki.json) |
+| Harukanaru Toki no Naka De 3: Unmei no Labyrinth Aizouban | 219155 | [219155-harukanaru-toki-no-naka-de-3-unmei-no-labyrinth-aizouban.json](./219155-harukanaru-toki-no-naka-de-3-unmei-no-labyrinth-aizouban.json) |
 | Harukanaru Toki no Naka de 5 | 60503 | [60503-harukanaru-toki-no-naka-de-5.json](./60503-harukanaru-toki-no-naka-de-5.json) |
 | Harukanaru Toki no Naka de: Banjyou Yuugi | 137002 | [137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json](./137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json) |
 | Harukanaru Toki no Naka de: Hachiyoushou | 137003 | [137003-harukanaru-toki-no-naka-de-hachiyoushou.json](./137003-harukanaru-toki-no-naka-de-hachiyoushou.json) |
@@ -3369,11 +3372,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
 | Hv Rebellion | 184568 | [184568-hv-rebellion.json](./184568-hv-rebellion.json) |
 | HVRGun | 29707 | [29707-hvrgun.json](./29707-hvrgun.json) |
+| Hwajilguji | 219147 | [219147-hwajilguji.json](./219147-hwajilguji.json) |
 | Hyacinth | 225747 | [225747-hyacinth.json](./225747-hyacinth.json) |
 | Hyacinthus | 120942 | [120942-hyacinthus.json](./120942-hyacinthus.json) |
 | Hyakkano: 100 Girlfriends | 408167 | [408167-hyakkano-100-girlfriends.json](./408167-hyakkano-100-girlfriends.json) |
 | Hyakki Yako Survivor | 331332 | [331332-hyakki-yako-survivor.json](./331332-hyakki-yako-survivor.json) |
 | Hyakki Yako: OH&S | 259289 | [259289-hyakki-yako-oh-and-s.json](./259289-hyakki-yako-oh-and-s.json) |
+| Hyakki Yakou: Kaidan Romance | 219136 | [219136-hyakki-yakou-kaidan-romance.json](./219136-hyakki-yakou-kaidan-romance.json) |
 | Hyaku Monogatari: Kaidan Romance | 59422 | [59422-hyaku-monogatari-kaidan-romance.json](./59422-hyaku-monogatari-kaidan-romance.json) |
 | Hyakusen Renma: Kyousha no Sengoku | 216221 | [216221-hyakusen-renma-kyousha-no-sengoku.json](./216221-hyakusen-renma-kyousha-no-sengoku.json) |
 | Hybrid | 53164 | [53164-hybrid.json](./53164-hybrid.json) |
