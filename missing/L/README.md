@@ -2350,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Louie Lucha | 246113 | [246113-louie-lucha.json](./246113-louie-lucha.json) |
 | Louis Charles in the Louvre | 360640 | [360640-louis-charles-in-the-louvre.json](./360640-louis-charles-in-the-louvre.json) |
 | Louloudi Asteri: Save the Solar System | 251004 | [251004-louloudi-asteri-save-the-solar-system.json](./251004-louloudi-asteri-save-the-solar-system.json) |
+| Louny Balloony | 217378 | [217378-louny-balloony.json](./217378-louny-balloony.json) |
 | Lovanium: The Rising Suns | 265633 | [265633-lovanium-the-rising-suns.json](./265633-lovanium-the-rising-suns.json) |
 | Love 2 Torokko | 143667 | [143667-love-2-torokko.json](./143667-love-2-torokko.json) |
 | Love Accident | 186829 | [186829-love-accident.json](./186829-love-accident.json) |
@@ -2485,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Lisa 3D | 80608 | [80608-lovely-lisa-3d.json](./80608-lovely-lisa-3d.json) |
 | Lovely Lodgings: Autumn Edition | 402310 | [402310-lovely-lodgings-autumn-edition.json](./402310-lovely-lodgings-autumn-edition.json) |
 | Lovely Magicals! | 364486 | [364486-lovely-magicals.json](./364486-lovely-magicals.json) |
+| Lovely Plains | 217402 | [217402-lovely-plains.json](./217402-lovely-plains.json) |
 | Lovely Planet | 14326 | [14326-lovely-planet.json](./14326-lovely-planet.json) |
 | Lovely Planet Remix | 165030 | [165030-lovely-planet-remix.json](./165030-lovely-planet-remix.json) |
 | Lovely Pop 2-in-1: Jan Jan Koi Shimasho | 130300 | [130300-lovely-pop-2-in-1-jan-jan-koi-shimasho.json](./130300-lovely-pop-2-in-1-jan-jan-koi-shimasho.json) |
@@ -2572,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Gem | 262484 | [262484-lucky-gem.json](./262484-lucky-gem.json) |
 | Lucky Gem Casino | 323158 | [323158-lucky-gem-casino.json](./323158-lucky-gem-casino.json) |
 | Lucky Hand: Roguelike Deck Builder | 347780 | [347780-lucky-hand-roguelike-deck-builder.json](./347780-lucky-hand-roguelike-deck-builder.json) |
+| Lucky Heroes | 217370 | [217370-lucky-heroes.json](./217370-lucky-heroes.json) |
 | Lucky Island | 224742 | [224742-lucky-island.json](./224742-lucky-island.json) |
 | Lucky Lawn Mower | 359413 | [359413-lucky-lawn-mower.json](./359413-lucky-lawn-mower.json) |
 | Lucky Luke Shoot & Hit | 197849 | [197849-lucky-luke-shoot-and-hit.json](./197849-lucky-luke-shoot-and-hit.json) |
