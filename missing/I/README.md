@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Arcade Tycoon | 214171 | [214171-idle-arcade-tycoon.json](./214171-idle-arcade-tycoon.json) |
 | Idle Awakening: Mages Path | 346654 | [346654-idle-awakening-mages-path.json](./346654-idle-awakening-mages-path.json) |
 | Idle Bank | 193987 | [193987-idle-bank.json](./193987-idle-bank.json) |
+| Idle Banshee Alliance | 230947 | [230947-idle-banshee-alliance.json](./230947-idle-banshee-alliance.json) |
 | Idle Battle Royale | 124760 | [124760-idle-battle-royale.json](./124760-idle-battle-royale.json) |
 | Idle Battle RPG | 295767 | [295767-idle-battle-rpg.json](./295767-idle-battle-rpg.json) |
 | Idle Battler | 393620 | [393620-idle-battler.json](./393620-idle-battler.json) |
@@ -775,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Ashes | 329377 | [329377-in-ashes.json](./329377-in-ashes.json) |
 | In Between | 151116 | [151116-in-between.json](./151116-in-between.json) |
 | In Bred With Rednex | 66088 | [66088-in-bred-with-rednex.json](./66088-in-bred-with-rednex.json) |
+| In Cell | 230928 | [230928-in-cell.json](./230928-in-cell.json) |
 | In Cold Blood | 9680 | [9680-in-cold-blood.json](./9680-in-cold-blood.json) |
 | In Corporeal | 287220 | [287220-in-corporeal.json](./287220-in-corporeal.json) |
 | In Darkness | 83570 | [83570-in-darkness.json](./83570-in-darkness.json) |
