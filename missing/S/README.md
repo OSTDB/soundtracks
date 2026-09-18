@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Maiden | 212269 | [212269-samurai-maiden.json](./212269-samurai-maiden.json) |
 | Samurai of Hyuga Book 5: Side Stories 11-20 | 213461 | [213461-samurai-of-hyuga-book-5-side-stories-11-20.json](./213461-samurai-of-hyuga-book-5-side-stories-11-20.json) |
 | Samurai Pizza Cats: Blast from the Past! | 332394 | [332394-samurai-pizza-cats-blast-from-the-past.json](./332394-samurai-pizza-cats-blast-from-the-past.json) |
+| Samurai Reflexion | 187980 | [187980-samurai-reflexion.json](./187980-samurai-reflexion.json) |
 | Samurai Revenge | 307606 | [307606-samurai-revenge.json](./307606-samurai-revenge.json) |
 | Samurai Revenge 2 | 241509 | [241509-samurai-revenge-2.json](./241509-samurai-revenge-2.json) |
 | Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
@@ -5626,6 +5627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bar at the End of the Galaxy | 171005 | [171005-space-bar-at-the-end-of-the-galaxy.json](./171005-space-bar-at-the-end-of-the-galaxy.json) |
 | Space Battle | 328486 | [328486-space-battle.json](./328486-space-battle.json) |
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
+| Space Battlefield | 187979 | [187979-space-battlefield.json](./187979-space-battlefield.json) |
 | Space Beastz | 195078 | [195078-space-beastz.json](./195078-space-beastz.json) |
 | Space Beret | 30794 | [30794-space-beret.json](./30794-space-beret.json) |
 | Space Berserker | 82929 | [82929-space-berserker.json](./82929-space-berserker.json) |
@@ -5687,6 +5689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Engineers 2 | 326578 | [326578-space-engineers-2.json](./326578-space-engineers-2.json) |
 | Space Engineers: Automatons | 247778 | [247778-space-engineers-automatons.json](./247778-space-engineers-automatons.json) |
 | Space Engineers: Signal Pack | 310403 | [310403-space-engineers-signal-pack.json](./310403-space-engineers-signal-pack.json) |
+| Space Engineers: Ultimate Edition 2021 | 187967 | [187967-space-engineers-ultimate-edition-2021.json](./187967-space-engineers-ultimate-edition-2021.json) |
 | Space Engineers: Ultimate Edition 2024 | 331850 | [331850-space-engineers-ultimate-edition-2024.json](./331850-space-engineers-ultimate-edition-2024.json) |
 | Space Escape | 89978 | [89978-space-escape.json](./89978-space-escape.json) |
 | Space Escape Obstacles | 202960 | [202960-space-escape-obstacles.json](./202960-space-escape-obstacles.json) |
@@ -6435,6 +6438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Metropolis | 54392 | [54392-spirits-of-metropolis.json](./54392-spirits-of-metropolis.json) |
 | Spirits of Mystery: Chains of Promise - Collector's Edition | 110346 | [110346-spirits-of-mystery-chains-of-promise-collectors-edition.json](./110346-spirits-of-mystery-chains-of-promise-collectors-edition.json) |
 | Spirits of Mystery: Family Lies | 102790 | [102790-spirits-of-mystery-family-lies.json](./102790-spirits-of-mystery-family-lies.json) |
+| Spirits of Mystery: The Moon Crystal | 187959 | [187959-spirits-of-mystery-the-moon-crystal.json](./187959-spirits-of-mystery-the-moon-crystal.json) |
 | Spirits of the Silicium Forest | 237049 | [237049-spirits-of-the-silicium-forest.json](./237049-spirits-of-the-silicium-forest.json) |
 | Spirits of Yendor | 216879 | [216879-spirits-of-yendor.json](./216879-spirits-of-yendor.json) |
 | Spirits' Forest | 383366 | [383366-spirits-forest.json](./383366-spirits-forest.json) |
@@ -8049,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
 | Strange Horizons | 384499 | [384499-strange-horizons.json](./384499-strange-horizons.json) |
 | Strange Horticulture | 186597 | [186597-strange-horticulture.json](./186597-strange-horticulture.json) |
+| Strange Investigations: Becoming | 187952 | [187952-strange-investigations-becoming.json](./187952-strange-investigations-becoming.json) |
 | Strange Investigations: Truth Will Out - Collector's Edition | 356764 | [356764-strange-investigations-truth-will-out-collectors-edition.json](./356764-strange-investigations-truth-will-out-collectors-edition.json) |
 | Strange Memo | 201842 | [201842-strange-memo.json](./201842-strange-memo.json) |
 | Strange New Tides | 339660 | [339660-strange-new-tides.json](./339660-strange-new-tides.json) |
@@ -10338,6 +10343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swiss Family Robinson | 7732 | [7732-swiss-family-robinson.json](./7732-swiss-family-robinson.json) |
 | Switch 'N' Shoot | 32171 | [32171-switch-n-shoot.json](./32171-switch-n-shoot.json) |
 | Switch Blasters | 402902 | [402902-switch-blasters.json](./402902-switch-blasters.json) |
+| Switch Colors+ | 187984 | [187984-switch-colors.json](./187984-switch-colors.json) |
 | Switch Dash Game | 262069 | [262069-switch-dash-game.json](./262069-switch-dash-game.json) |
 | Switch Galaxy Ultra | 35517 | [35517-switch-galaxy-ultra.json](./35517-switch-galaxy-ultra.json) |
 | Switch It | 152896 | [152896-switch-it.json](./152896-switch-it.json) |
