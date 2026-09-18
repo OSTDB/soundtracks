@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical | 83530 | [83530-tactical.json](./83530-tactical.json) |
 | Tactical AR | 74366 | [74366-tactical-ar.json](./74366-tactical-ar.json) |
 | Tactical Armor Custom Gasaraki | 43904 | [43904-tactical-armor-custom-gasaraki.json](./43904-tactical-armor-custom-gasaraki.json) |
+| Tactical Assassin | 234160 | [234160-tactical-assassin.json](./234160-tactical-assassin.json) |
 | Tactical Assassin 2 | 280210 | [280210-tactical-assassin-2.json](./280210-tactical-assassin-2.json) |
 | Tactical Breach Wizards: Special Edition | 396407 | [396407-tactical-breach-wizards-special-edition.json](./396407-tactical-breach-wizards-special-edition.json) |
 | Tactical Mind | 82788 | [82788-tactical-mind.json](./82788-tactical-mind.json) |
@@ -578,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangram Attack | 85423 | [85423-tangram-attack.json](./85423-tangram-attack.json) |
 | Tangram Puzzle: Shape Puzzle | 237625 | [237625-tangram-puzzle-shape-puzzle.json](./237625-tangram-puzzle-shape-puzzle.json) |
 | Tangram Style | 85422 | [85422-tangram-style.json](./85422-tangram-style.json) |
+| Tangrams | 234157 | [234157-tangrams.json](./234157-tangrams.json) |
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
 | Tanigawa Kouji no Shogi Shinan II: Meijin he no Michi | 41382 | [41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json](./41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json) |
 | TaniNani | 127185 | [127185-taninani.json](./127185-taninani.json) |
@@ -1328,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrible Clicking Game | 215391 | [215391-terrible-clicking-game.json](./215391-terrible-clicking-game.json) |
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
+| Territory War 3 | 234156 | [234156-territory-war-3.json](./234156-territory-war-3.json) |
 | Terror Diversion | 318013 | [318013-terror-diversion.json](./318013-terror-diversion.json) |
 | Terror Mod Ultraultimatum HD | 330547 | [330547-terror-mod-ultraultimatum-hd.json](./330547-terror-mod-ultraultimatum-hd.json) |
 | Terror of the Catacombs | 11046 | [11046-terror-of-the-catacombs.json](./11046-terror-of-the-catacombs.json) |
@@ -4506,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
 | The Serf's Tale | 72640 | [72640-the-serfs-tale.json](./72640-the-serfs-tale.json) |
 | The Serial Adventures of Dick Jack BB! | 176441 | [176441-the-serial-adventures-of-dick-jack-bb.json](./176441-the-serial-adventures-of-dick-jack-bb.json) |
+| The Serpent | 234184 | [234184-the-serpent.json](./234184-the-serpent.json) |
 | The Server | 405527 | [405527-the-server.json](./405527-the-server.json) |
 | The Settlers 7: Paths to a Kingdom - Conquest: The Empire Expansion | 225912 | [225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json](./225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json) |
 | The Settlers 7: Paths to a Kingdom - Gold Edition | 27863 | [27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json](./27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json) |
@@ -7106,6 +7110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
 | Top Duck | 280930 | [280930-top-duck.json](./280930-top-duck.json) |
+| Top Flight Turtle | 234171 | [234171-top-flight-turtle.json](./234171-top-flight-turtle.json) |
 | Top Gear | 27461 | [27461-top-gear.json](./27461-top-gear.json) |
 | Top Gear GT Championship | 49342 | [49342-top-gear-gt-championship.json](./49342-top-gear-gt-championship.json) |
 | Top Gear Rally | 3617 | [3617-top-gear-rally.json](./3617-top-gear-rally.json) |
