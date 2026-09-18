@@ -2464,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension X | 246067 | [246067-dimension-x.json](./246067-dimension-x.json) |
 | Dimensional Dexterity | 252179 | [252179-dimensional-dexterity.json](./252179-dimensional-dexterity.json) |
 | Dimensional Double Shift | 317856 | [317856-dimensional-double-shift.json](./317856-dimensional-double-shift.json) |
+| Dimensional Gears | 214047 | [214047-dimensional-gears.json](./214047-dimensional-gears.json) |
 | Dimensional Illusion | 324879 | [324879-dimensional-illusion.json](./324879-dimensional-illusion.json) |
 | Dimensional Rift | 29746 | [29746-dimensional-rift.json](./29746-dimensional-rift.json) |
 | Dimensional Shift Awakening | 277268 | [277268-dimensional-shift-awakening.json](./277268-dimensional-shift-awakening.json) |
@@ -4000,6 +4001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Mania | 241469 | [241469-dragon-mania.json](./241469-dragon-mania.json) |
 | Dragon Marked for Death: Advanced Attackers | 147998 | [147998-dragon-marked-for-death-advanced-attackers.json](./147998-dragon-marked-for-death-advanced-attackers.json) |
 | Dragon Master | 209127 | [209127-dragon-master.json](./209127-dragon-master.json) |
+| Dragon Masters: War of Legends | 214030 | [214030-dragon-masters-war-of-legends.json](./214030-dragon-masters-war-of-legends.json) |
 | Dragon Merge Wind | 228112 | [228112-dragon-merge-wind.json](./228112-dragon-merge-wind.json) |
 | Dragon Mine | 211204 | [211204-dragon-mine.json](./211204-dragon-mine.json) |
 | Dragon Must Die | 215917 | [215917-dragon-must-die.json](./215917-dragon-must-die.json) |
@@ -4991,6 +4993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DungeonSlime | 195708 | [195708-dungeonslime.json](./195708-dungeonslime.json) |
 | DungeonTracks: In Charms Way | 184626 | [184626-dungeontracks-in-charms-way.json](./184626-dungeontracks-in-charms-way.json) |
 | Dungless 2 | 164512 | [164512-dungless-2.json](./164512-dungless-2.json) |
+| Dungman: The Dungeon Crawler | 214016 | [214016-dungman-the-dungeon-crawler.json](./214016-dungman-the-dungeon-crawler.json) |
 | Dunia: The North Wood | 254776 | [254776-dunia-the-north-wood.json](./254776-dunia-the-north-wood.json) |
 | Dunidle Idle RPG | 227477 | [227477-dunidle-idle-rpg.json](./227477-dunidle-idle-rpg.json) |
 | Dunk Cookies | 382760 | [382760-dunk-cookies.json](./382760-dunk-cookies.json) |
