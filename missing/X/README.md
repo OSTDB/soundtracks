@@ -53,6 +53,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Aerosoft - Society Islands XP: Tahiti & Windward Islands | 289892 | [289892-x-plane-11-aerosoft-society-islands-xp-tahiti-and-windward-islands.json](./289892-x-plane-11-aerosoft-society-islands-xp-tahiti-and-windward-islands.json) |
 | X-Plane 11: Aerosoft Seychelles XP | 168367 | [168367-x-plane-11-aerosoft-seychelles-xp.json](./168367-x-plane-11-aerosoft-seychelles-xp.json) |
 | X-Plane 12 Global Scenery: Asia | 220637 | [220637-x-plane-12-global-scenery-asia.json](./220637-x-plane-12-global-scenery-asia.json) |
+| X-Plane 12 Global Scenery: Australia, Oceania, Pacific | 220725 | [220725-x-plane-12-global-scenery-australia-oceania-pacific.json](./220725-x-plane-12-global-scenery-australia-oceania-pacific.json) |
+| X-Plane 12 Global Scenery: Europe | 220726 | [220726-x-plane-12-global-scenery-europe.json](./220726-x-plane-12-global-scenery-europe.json) |
+| X-Plane 12 Global Scenery: North America | 220727 | [220727-x-plane-12-global-scenery-north-america.json](./220727-x-plane-12-global-scenery-north-america.json) |
+| X-Plane 12 Global Scenery: South America | 220728 | [220728-x-plane-12-global-scenery-south-america.json](./220728-x-plane-12-global-scenery-south-america.json) |
 | X-Plane 12: Aerosoft - Airport Marseille | 252227 | [252227-x-plane-12-aerosoft-airport-marseille.json](./252227-x-plane-12-aerosoft-airport-marseille.json) |
 | X-Plane 12: Aerosoft - Airport Menorca | 266303 | [266303-x-plane-12-aerosoft-airport-menorca.json](./266303-x-plane-12-aerosoft-airport-menorca.json) |
 | X-Plane 12: Aerosoft - Society Islands XP: Tahiti & Windward Islands | 289881 | [289881-x-plane-12-aerosoft-society-islands-xp-tahiti-and-windward-islands.json](./289881-x-plane-12-aerosoft-society-islands-xp-tahiti-and-windward-islands.json) |
@@ -61,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 9 | 51270 | [51270-x-plane-9.json](./51270-x-plane-9.json) |
 | X-Plane Flight Simulator | 196325 | [196325-x-plane-flight-simulator.json](./196325-x-plane-flight-simulator.json) |
 | X-Plane: Starship | 255743 | [255743-x-plane-starship.json](./255743-x-plane-starship.json) |
+| X-Racer | 220730 | [220730-x-racer.json](./220730-x-racer.json) |
 | X-Racing | 220633 | [220633-x-racing.json](./220633-x-racing.json) |
 | X-Ray & Dilligas | 144319 | [144319-x-ray-and-dilligas.json](./144319-x-ray-and-dilligas.json) |
 | X-Ray Ball: Winter Storm | 62159 | [62159-x-ray-ball-winter-storm.json](./62159-x-ray-ball-winter-storm.json) |
@@ -76,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X4: Foundations - Collector's Edition | 124803 | [124803-x4-foundations-collectors-edition.json](./124803-x4-foundations-collectors-edition.json) |
 | X4: Foundations - Tides of Avarice | 186900 | [186900-x4-foundations-tides-of-avarice.json](./186900-x4-foundations-tides-of-avarice.json) |
 | X4: Split Vendetta | 124814 | [124814-x4-split-vendetta.json](./124814-x4-split-vendetta.json) |
+| X8 | 220724 | [220724-x8.json](./220724-x8.json) |
 | Xadom | 294729 | [294729-xadom.json](./294729-xadom.json) |
 | Xain'd Sleena: Soldier of Light | 12854 | [12854-xaind-sleena-soldier-of-light.json](./12854-xaind-sleena-soldier-of-light.json) |
 | Xak I + II | 42006 | [42006-xak-i-ii.json](./42006-xak-i-ii.json) |
@@ -219,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XP8 | 15569 | [15569-xp8.json](./15569-xp8.json) |
 | Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
 | Xploit.Zero | 380561 | [380561-xploit-zero.json](./380561-xploit-zero.json) |
+| Xplorasi3d 2.0 | 220729 | [220729-xplorasi3d-2-0.json](./220729-xplorasi3d-2-0.json) |
 | Xplosive Raccoon | 283861 | [283861-xplosive-raccoon.json](./283861-xplosive-raccoon.json) |
 | Xposed Switched | 232562 | [232562-xposed-switched.json](./232562-xposed-switched.json) |
 | XR-35 | 55210 | [55210-xr-35.json](./55210-xr-35.json) |
