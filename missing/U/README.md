@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umihara Kawase BaZooKa! | 122352 | [122352-umihara-kawase-bazooka.json](./122352-umihara-kawase-bazooka.json) |
 | Umihara Kawase Fresh! | 108155 | [108155-umihara-kawase-fresh.json](./108155-umihara-kawase-fresh.json) |
 | Umihara Kawase Uku | 276489 | [276489-umihara-kawase-uku.json](./276489-umihara-kawase-uku.json) |
+| Umihara Kawase: Christmas Community Challenge | 215201 | [215201-umihara-kawase-christmas-community-challenge.json](./215201-umihara-kawase-christmas-community-challenge.json) |
 | Umihara Kawase: Shun - Second Edition | 78719 | [78719-umihara-kawase-shun-second-edition.json](./78719-umihara-kawase-shun-second-edition.json) |
 | Umineko no Naku Koro ni Chiru | 51267 | [51267-umineko-no-naku-koro-ni-chiru.json](./51267-umineko-no-naku-koro-ni-chiru.json) |
 | Umineko no Naku Koro ni Chiru: Episode 6 - Dawn of the Golden Witch | 79846 | [79846-umineko-no-naku-koro-ni-chiru-episode-6-dawn-of-the-golden-witch.json](./79846-umineko-no-naku-koro-ni-chiru-episode-6-dawn-of-the-golden-witch.json) |
@@ -357,6 +358,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko When They Cry: Episode 7 - Requiem of the Golden Witch | 272316 | [272316-umineko-when-they-cry-episode-7-requiem-of-the-golden-witch.json](./272316-umineko-when-they-cry-episode-7-requiem-of-the-golden-witch.json) |
 | Umineko When They Cry: Episode 8 - Twilight of the Golden Witch | 272318 | [272318-umineko-when-they-cry-episode-8-twilight-of-the-golden-witch.json](./272318-umineko-when-they-cry-episode-8-twilight-of-the-golden-witch.json) |
 | Umineko: Ougon Musou Kyoku - Cross | 79850 | [79850-umineko-ougon-musou-kyoku-cross.json](./79850-umineko-ougon-musou-kyoku-cross.json) |
+| Umokay 64DS | 215203 | [215203-umokay-64ds.json](./215203-umokay-64ds.json) |
+| Umokay 64DS 2 | 215205 | [215205-umokay-64ds-2.json](./215205-umokay-64ds-2.json) |
+| Umokay 64DS 3: Travel in Time | 215206 | [215206-umokay-64ds-3-travel-in-time.json](./215206-umokay-64ds-3-travel-in-time.json) |
+| Umokay 64DS 4: The IceFire War | 215207 | [215207-umokay-64ds-4-the-icefire-war.json](./215207-umokay-64ds-4-the-icefire-war.json) |
+| Umokay 64DS 5: Eternal Night | 215208 | [215208-umokay-64ds-5-eternal-night.json](./215208-umokay-64ds-5-eternal-night.json) |
 | Umokay 64DS 6: Wrath of the Blood Eye | 270372 | [270372-umokay-64ds-6-wrath-of-the-blood-eye.json](./270372-umokay-64ds-6-wrath-of-the-blood-eye.json) |
 | Umokay 64DS 7: The Rise of a God! | 270373 | [270373-umokay-64ds-7-the-rise-of-a-god.json](./270373-umokay-64ds-7-the-rise-of-a-god.json) |
 | Umokay 64DS 8: The End is Near... | 270374 | [270374-umokay-64ds-8-the-end-is-near.json](./270374-umokay-64ds-8-the-end-is-near.json) |
