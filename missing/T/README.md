@@ -3127,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horizon | 138184 | [138184-the-horizon.json](./138184-the-horizon.json) |
 | The Horrible Inside | 297817 | [297817-the-horrible-inside.json](./297817-the-horrible-inside.json) |
 | The Horror at Highrook | 295380 | [295380-the-horror-at-highrook.json](./295380-the-horror-at-highrook.json) |
+| The Horror of Oz | 208440 | [208440-the-horror-of-oz.json](./208440-the-horror-of-oz.json) |
 | The Horror Within | 255712 | [255712-the-horror-within.json](./255712-the-horror-within.json) |
 | The Horrorscope: Fatal Awakening | 166773 | [166773-the-horrorscope-fatal-awakening.json](./166773-the-horrorscope-fatal-awakening.json) |
 | The Horse Lord | 13727 | [13727-the-horse-lord.json](./13727-the-horse-lord.json) |
