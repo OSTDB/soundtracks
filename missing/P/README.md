@@ -1281,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perman World | 346040 | [346040-perman-world.json](./346040-perman-world.json) |
 | Permanence TD | 195256 | [195256-permanence-td.json](./195256-permanence-td.json) |
 | Permanent Daylight | 62194 | [62194-permanent-daylight.json](./62194-permanent-daylight.json) |
+| Permanent Sleep | 220742 | [220742-permanent-sleep.json](./220742-permanent-sleep.json) |
 | Permission VR | 108425 | [108425-permission-vr.json](./108425-permission-vr.json) |
 | Peropero Candy: You no Shou | 373030 | [373030-peropero-candy-you-no-shou.json](./373030-peropero-candy-you-no-shou.json) |
 | Perpession | 334506 | [334506-perpession.json](./334506-perpession.json) |
