@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La-Mulana | 7936 | [7936-la-mulana.json](./7936-la-mulana.json) |
 | La-Mulana & La-Mulana 2 | 130905 | [130905-la-mulana-and-la-mulana-2.json](./130905-la-mulana-and-la-mulana-2.json) |
 | La-Mulana 2: The Tower of Oannes | 188630 | [188630-la-mulana-2-the-tower-of-oannes.json](./188630-la-mulana-2-the-tower-of-oannes.json) |
+| Lab | 199511 | [199511-lab.json](./199511-lab.json) |
 | Lab 77 | 319988 | [319988-lab-77.json](./319988-lab-77.json) |
 | Lab Crisis | 205580 | [205580-lab-crisis.json](./205580-lab-crisis.json) |
 | Lab Escape! | 299450 | [299450-lab-escape.json](./299450-lab-escape.json) |
@@ -354,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Dawn | 236847 | [236847-last-dawn.json](./236847-last-dawn.json) |
 | Last Day | 224026 | [224026-last-day.json](./224026-last-day.json) |
 | Last Day of June | 36543 | [36543-last-day-of-june.json](./36543-last-day-of-june.json) |
+| Last Day: Zombie Survival VR | 199484 | [199484-last-day-zombie-survival-vr.json](./199484-last-day-zombie-survival-vr.json) |
 | Last Days | 30773 | [30773-last-days.json](./30773-last-days.json) |
 | Last Days of Future | 226446 | [226446-last-days-of-future.json](./226446-last-days-of-future.json) |
 | Last Days of Spring 2: Deluxe Edition | 53264 | [53264-last-days-of-spring-2-deluxe-edition.json](./53264-last-days-of-spring-2-deluxe-edition.json) |
@@ -908,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Force Awakens - The Empire Strikes Back Character Pack | 169925 | [169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json](./169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json) |
 | LEGO Star Wars: The Force Awakens - The Phantom Limb | 138163 | [138163-lego-star-wars-the-force-awakens-the-phantom-limb.json](./138163-lego-star-wars-the-force-awakens-the-phantom-limb.json) |
 | LEGO Star Wars: The Skywalker Saga - Classic Character Edition | 139937 | [139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json](./139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json) |
+| LEGO Star Wars: The Skywalker Saga - Classic Character Pack | 199517 | [199517-lego-star-wars-the-skywalker-saga-classic-character-pack.json](./199517-lego-star-wars-the-skywalker-saga-classic-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - Solo: A Star Wars Story - Character Pack | 201138 | [201138-lego-star-wars-the-skywalker-saga-solo-a-star-wars-story-character-pack.json](./201138-lego-star-wars-the-skywalker-saga-solo-a-star-wars-story-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - The Bad Batch Character Pack | 201129 | [201129-lego-star-wars-the-skywalker-saga-the-bad-batch-character-pack.json](./201129-lego-star-wars-the-skywalker-saga-the-bad-batch-character-pack.json) |
 | LEGO Star Wars: The Skywalker Saga - The Mandalorian: Season 1 - Character Pack | 201137 | [201137-lego-star-wars-the-skywalker-saga-the-mandalorian-season-1-character-pack.json](./201137-lego-star-wars-the-skywalker-saga-the-mandalorian-season-1-character-pack.json) |
@@ -1150,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters to the Metro | 182548 | [182548-letters-to-the-metro.json](./182548-letters-to-the-metro.json) |
 | LettersFall 110% | 392794 | [392794-lettersfall-110.json](./392794-lettersfall-110.json) |
 | Lettuce Fish | 404977 | [404977-lettuce-fish.json](./404977-lettuce-fish.json) |
+| Letux Game | 199469 | [199469-letux-game.json](./199469-letux-game.json) |
 | Levantar La Botella | 364512 | [364512-levantar-la-botella.json](./364512-levantar-la-botella.json) |
 | Level | 326614 | [326614-level.json](./326614-level.json) |
 | Level Squared | 82890 | [82890-level-squared.json](./82890-level-squared.json) |
@@ -1168,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leviathan | 229696 | [229696-leviathan.json](./229696-leviathan.json) |
 | Leviathan | 341320 | [341320-leviathan.json](./341320-leviathan.json) |
 | Leviathan: The Cargo | 34262 | [34262-leviathan-the-cargo.json](./34262-leviathan-the-cargo.json) |
+| Leviathan's Sword | 199478 | [199478-leviathans-sword.json](./199478-leviathans-sword.json) |
 | Lewd Anime Racing | 235725 | [235725-lewd-anime-racing.json](./235725-lewd-anime-racing.json) |
 | Lewd Delivery | 235352 | [235352-lewd-delivery.json](./235352-lewd-delivery.json) |
 | Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
@@ -1316,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Bearers | 111032 | [111032-light-bearers.json](./111032-light-bearers.json) |
 | Light Bearers 2 | 303629 | [303629-light-bearers-2.json](./303629-light-bearers-2.json) |
 | Light Box | 295903 | [295903-light-box.json](./295903-light-box.json) |
+| Light Bringer | 199516 | [199516-light-bringer.json](./199516-light-bringer.json) |
 | Light Catcher | 100226 | [100226-light-catcher.json](./100226-light-catcher.json) |
 | Light De Deux | 338264 | [338264-light-de-deux.json](./338264-light-de-deux.json) |
 | Light Fall | 36620 | [36620-light-fall.json](./36620-light-fall.json) |
@@ -1335,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light of Reversing Destiny | 344362 | [344362-light-of-reversing-destiny.json](./344362-light-of-reversing-destiny.json) |
 | Light of the Eternal Night | 358922 | [358922-light-of-the-eternal-night.json](./358922-light-of-the-eternal-night.json) |
 | Light of the Locked World | 119762 | [119762-light-of-the-locked-world.json](./119762-light-of-the-locked-world.json) |
+| Light of the Past | 199480 | [199480-light-of-the-past.json](./199480-light-of-the-past.json) |
 | Light of Veilendor | 261779 | [261779-light-of-veilendor.json](./261779-light-of-veilendor.json) |
 | Light on Earth | 383971 | [383971-light-on-earth.json](./383971-light-on-earth.json) |
 | Light Rider | 108427 | [108427-light-rider.json](./108427-light-rider.json) |
