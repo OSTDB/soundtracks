@@ -1000,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techwars Global Conflict: Demigod Legacy Edition | 188028 | [188028-techwars-global-conflict-demigod-legacy-edition.json](./188028-techwars-global-conflict-demigod-legacy-edition.json) |
 | Techwars Global Conflict: Heroic Edition | 188019 | [188019-techwars-global-conflict-heroic-edition.json](./188019-techwars-global-conflict-heroic-edition.json) |
 | Techwars Global Conflict: The Last Emperor From Hell Edition | 188045 | [188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json](./188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json) |
+| Tecmo Bowl | 198937 | [198937-tecmo-bowl.json](./198937-tecmo-bowl.json) |
 | Tecmo Bowl: Kickoff | 264889 | [264889-tecmo-bowl-kickoff.json](./264889-tecmo-bowl-kickoff.json) |
 | Tecmo Stackers | 43939 | [43939-tecmo-stackers.json](./43939-tecmo-stackers.json) |
 | Tecmo Super Bowl | 237471 | [237471-tecmo-super-bowl.json](./237471-tecmo-super-bowl.json) |
@@ -1031,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles II: The Arcade Game | 3816 | [3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json](./3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json) |
 | Teenage Mutant Ninja Turtles: Arcade Attack | 21156 | [21156-teenage-mutant-ninja-turtles-arcade-attack.json](./21156-teenage-mutant-ninja-turtles-arcade-attack.json) |
 | Teenage Mutant Ninja Turtles: Brothers Unite | 61238 | [61238-teenage-mutant-ninja-turtles-brothers-unite.json](./61238-teenage-mutant-ninja-turtles-brothers-unite.json) |
+| Teenage Mutant Ninja Turtles: Dimension X Assault | 198938 | [198938-teenage-mutant-ninja-turtles-dimension-x-assault.json](./198938-teenage-mutant-ninja-turtles-dimension-x-assault.json) |
 | Teenage Mutant Ninja Turtles: Empire City | 345542 | [345542-teenage-mutant-ninja-turtles-empire-city.json](./345542-teenage-mutant-ninja-turtles-empire-city.json) |
 | Teenage Mutant Ninja Turtles: Mutants & Monsters Mayhem | 146239 | [146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json](./146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - Deluxe Edition | 323945 | [323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json](./323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json) |
@@ -1139,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temp Zero | 196258 | [196258-temp-zero.json](./196258-temp-zero.json) |
 | Tempaux | 354525 | [354525-tempaux.json](./354525-tempaux.json) |
 | Tempest | 143034 | [143034-tempest.json](./143034-tempest.json) |
+| Tempest | 198939 | [198939-tempest.json](./198939-tempest.json) |
 | Tempest 3000 | 51181 | [51181-tempest-3000.json](./51181-tempest-3000.json) |
 | Tempest 4000 | 54565 | [54565-tempest-4000.json](./54565-tempest-4000.json) |
 | Tempest Rising: The Vetis Wrath | 410968 | [410968-tempest-rising-the-vetis-wrath.json](./410968-tempest-rising-the-vetis-wrath.json) |
@@ -5125,6 +5128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tennis Master | 215247 | [215247-the-tennis-master.json](./215247-the-tennis-master.json) |
 | The Tensor | 318401 | [318401-the-tensor.json](./318401-the-tensor.json) |
 | The Tenth Minute | 400243 | [400243-the-tenth-minute.json](./400243-the-tenth-minute.json) |
+| The Terminator | 198940 | [198940-the-terminator.json](./198940-the-terminator.json) |
 | The Terminator | 4372 | [4372-the-terminator.json](./4372-the-terminator.json) |
 | The Terminator | 7688 | [7688-the-terminator.json](./7688-the-terminator.json) |
 | The Terminator 2029: Deluxe CD Edition | 358341 | [358341-the-terminator-2029-deluxe-cd-edition.json](./358341-the-terminator-2029-deluxe-cd-edition.json) |
@@ -6623,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tim 7: The Lost Traveller | 321374 | [321374-tim-7-the-lost-traveller.json](./321374-tim-7-the-lost-traveller.json) |
 | Tim 7: The Memories From Nowhere | 321366 | [321366-tim-7-the-memories-from-nowhere.json](./321366-tim-7-the-memories-from-nowhere.json) |
 | Tim and Tom: A Bulloon that Fell from the Sky | 175362 | [175362-tim-and-tom-a-bulloon-that-fell-from-the-sky.json](./175362-tim-and-tom-a-bulloon-that-fell-from-the-sky.json) |
+| Tim Burton's The Nightmare Before Christmas | 198942 | [198942-tim-burtons-the-nightmare-before-christmas.json](./198942-tim-burtons-the-nightmare-before-christmas.json) |
 | Tim's Birthday | 150126 | [150126-tims-birthday.json](./150126-tims-birthday.json) |
 | Timber Jump VR | 149589 | [149589-timber-jump-vr.json](./149589-timber-jump-vr.json) |
 | Timber Slash | 108473 | [108473-timber-slash.json](./108473-timber-slash.json) |
@@ -6843,6 +6848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Terraces | 311476 | [311476-tiny-terraces.json](./311476-tiny-terraces.json) |
 | Tiny Tina's Wonderlands | 152061 | [152061-tiny-tinas-wonderlands.json](./152061-tiny-tinas-wonderlands.json) |
 | Tiny Tina's Wonderlands: Next Level Edition | 170024 | [170024-tiny-tinas-wonderlands-next-level-edition.json](./170024-tiny-tinas-wonderlands-next-level-edition.json) |
+| Tiny Toon Adventures | 198943 | [198943-tiny-toon-adventures.json](./198943-tiny-toon-adventures.json) |
 | Tiny Toon Adventures: Buster Busts Loose! | 8050 | [8050-tiny-toon-adventures-buster-busts-loose.json](./8050-tiny-toon-adventures-buster-busts-loose.json) |
 | Tiny Toon Adventures: Buster's Hidden Treasure | 8049 | [8049-tiny-toon-adventures-busters-hidden-treasure.json](./8049-tiny-toon-adventures-busters-hidden-treasure.json) |
 | Tiny Toon Adventures: Defenders of the Universe | 206214 | [206214-tiny-toon-adventures-defenders-of-the-universe.json](./206214-tiny-toon-adventures-defenders-of-the-universe.json) |
@@ -6878,6 +6884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tirkiss ~Princess Shade~ | 60530 | [60530-tirkiss-princess-shade.json](./60530-tirkiss-princess-shade.json) |
 | Tisuland | 382747 | [382747-tisuland.json](./382747-tisuland.json) |
 | Tit Tap Tingle | 135801 | [135801-tit-tap-tingle.json](./135801-tit-tap-tingle.json) |
+| Titan A.E. | 198944 | [198944-titan-a-e.json](./198944-titan-a-e.json) |
 | Titan Attacks! | 11460 | [11460-titan-attacks.json](./11460-titan-attacks.json) |
 | Titan Quest Gold | 177057 | [177057-titan-quest-gold.json](./177057-titan-quest-gold.json) |
 | Titan Quest: Gold Edition | 51386 | [51386-titan-quest-gold-edition.json](./51386-titan-quest-gold-edition.json) |
@@ -8435,6 +8442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers Age of Extinction | 38969 | [38969-transformers-age-of-extinction.json](./38969-transformers-age-of-extinction.json) |
 | Transformers Beyond Reality | 215213 | [215213-transformers-beyond-reality.json](./215213-transformers-beyond-reality.json) |
 | Transformers G1 Awakening | 315069 | [315069-transformers-g1-awakening.json](./315069-transformers-g1-awakening.json) |
+| Transformers Generation 2 | 198946 | [198946-transformers-generation-2.json](./198946-transformers-generation-2.json) |
 | Transformers Rescue Bots: Race to the Rescue | 137611 | [137611-transformers-rescue-bots-race-to-the-rescue.json](./137611-transformers-rescue-bots-race-to-the-rescue.json) |
 | Transformers Tatakai | 70938 | [70938-transformers-tatakai.json](./70938-transformers-tatakai.json) |
 | Transformers: Battle Masters | 70993 | [70993-transformers-battle-masters.json](./70993-transformers-battle-masters.json) |
@@ -9136,6 +9144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tubular Rift | 75175 | [75175-tubular-rift.json](./75175-tubular-rift.json) |
 | Tuby Bird | 40736 | [40736-tuby-bird.json](./40736-tuby-bird.json) |
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
+| Tug of Words | 198947 | [198947-tug-of-words.json](./198947-tug-of-words.json) |
 | Tui Shou: Sokoban | 372023 | [372023-tui-shou-sokoban.json](./372023-tui-shou-sokoban.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
 | Tukiyono | 205668 | [205668-tukiyono.json](./205668-tukiyono.json) |
