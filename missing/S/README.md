@@ -3259,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin-Cay | 162433 | [162433-sin-cay.json](./162433-sin-cay.json) |
 | SiN: Wages of Sin | 8717 | [8717-sin-wages-of-sin.json](./8717-sin-wages-of-sin.json) |
 | Sin.exe | 345483 | [345483-sin-exe.json](./345483-sin-exe.json) |
+| Sina | 185008 | [185008-sina.json](./185008-sina.json) |
 | Sinbad - In Search of Magic Ginger | 54359 | [54359-sinbad-in-search-of-magic-ginger.json](./54359-sinbad-in-search-of-magic-ginger.json) |
 | Sinbad & the Golden Ship | 71509 | [71509-sinbad-and-the-golden-ship.json](./71509-sinbad-and-the-golden-ship.json) |
 | Since 1935 | 367962 | [367962-since-1935.json](./367962-since-1935.json) |
@@ -7715,6 +7716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steeplejack | 383968 | [383968-steeplejack.json](./383968-steeplejack.json) |
 | Steezelpunk | 391722 | [391722-steezelpunk.json](./391722-steezelpunk.json) |
 | Stefanos Sizzilin Pizza Pie | 103481 | [103481-stefanos-sizzilin-pizza-pie.json](./103481-stefanos-sizzilin-pizza-pie.json) |
+| Stegosaurs | 185028 | [185028-stegosaurs.json](./185028-stegosaurs.json) |
 | Steinkraft | 320162 | [320162-steinkraft.json](./320162-steinkraft.json) |
 | Steins;Gate Double Pack | 141877 | [141877-steins-gate-double-pack.json](./141877-steins-gate-double-pack.json) |
 | Steins;Gate: El Psy Kongroo Edition | 89914 | [89914-steins-gate-el-psy-kongroo-edition.json](./89914-steins-gate-el-psy-kongroo-edition.json) |
@@ -7799,6 +7801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StepX | 67915 | [67915-stepx.json](./67915-stepx.json) |
 | Steredenn | 14146 | [14146-steredenn.json](./14146-steredenn.json) |
 | StereoPaint | 192425 | [192425-stereopaint.json](./192425-stereopaint.json) |
+| Stereophyta | 185004 | [185004-stereophyta.json](./185004-stereophyta.json) |
 | Stern Pinball Arcade | 30288 | [30288-stern-pinball-arcade.json](./30288-stern-pinball-arcade.json) |
 | Steve Davis Snooker | 45323 | [45323-steve-davis-snooker.json](./45323-steve-davis-snooker.json) |
 | Steve Magal: Fists of Brutal Truth | 341888 | [341888-steve-magal-fists-of-brutal-truth.json](./341888-steve-magal-fists-of-brutal-truth.json) |
