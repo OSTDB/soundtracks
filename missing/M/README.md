@@ -3252,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Memory | 278412 | [278412-mine-memory.json](./278412-mine-memory.json) |
 | Mine of My Mind | 389970 | [389970-mine-of-my-mind.json](./389970-mine-of-my-mind.json) |
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
+| Mine Seeker | 225731 | [225731-mine-seeker.json](./225731-mine-seeker.json) |
 | Mine Seeker | 89965 | [89965-mine-seeker.json](./89965-mine-seeker.json) |
 | Mine Shaft | 241965 | [241965-mine-shaft.json](./241965-mine-shaft.json) |
 | Mine Storm II | 41987 | [41987-mine-storm-ii.json](./41987-mine-storm-ii.json) |
