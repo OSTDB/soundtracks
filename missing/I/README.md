@@ -1634,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Danger | 101065 | [101065-iron-danger.json](./101065-iron-danger.json) |
 | Iron Diamond | 236300 | [236300-iron-diamond.json](./236300-iron-diamond.json) |
 | Iron Emblem | 215765 | [215765-iron-emblem.json](./215765-iron-emblem.json) |
+| Iron Evil | 203970 | [203970-iron-evil.json](./203970-iron-evil.json) |
 | Iron Force | 343855 | [343855-iron-force.json](./343855-iron-force.json) |
 | Iron Force 2 | 243706 | [243706-iron-force-2.json](./243706-iron-force-2.json) |
 | Iron Front: Liberation 1944 - Gold Edition | 53237 | [53237-iron-front-liberation-1944-gold-edition.json](./53237-iron-front-liberation-1944-gold-edition.json) |
