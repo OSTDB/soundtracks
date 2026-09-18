@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops II - Nuketown 2025 | 295256 | [295256-call-of-duty-black-ops-ii-nuketown-2025.json](./295256-call-of-duty-black-ops-ii-nuketown-2025.json) |
 | Call of Duty: Black Ops II - Nuketown Zombies | 295255 | [295255-call-of-duty-black-ops-ii-nuketown-zombies.json](./295255-call-of-duty-black-ops-ii-nuketown-zombies.json) |
 | Call of Duty: Black Ops III - Awakening | 19948 | [19948-call-of-duty-black-ops-iii-awakening.json](./19948-call-of-duty-black-ops-iii-awakening.json) |
+| Call of Duty: Black Ops III - Game of the Year Edition | 202222 | [202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json](./202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json) |
 | Call of Duty: Black Ops Mobile | 135300 | [135300-call-of-duty-black-ops-mobile.json](./135300-call-of-duty-black-ops-mobile.json) |
 | Call of Duty: Endowment (C.O.D.E.) Warrior Pack | 276273 | [276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json](./276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json) |
 | Call of Duty: Future Warfare | 294871 | [294871-call-of-duty-future-warfare.json](./294871-call-of-duty-future-warfare.json) |
@@ -2477,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Stance | 392123 | [392123-circuit-stance.json](./392123-circuit-stance.json) |
 | Circuit USA | 281556 | [281556-circuit-usa.json](./281556-circuit-usa.json) |
 | Circuit: Demolition Derby 2 | 82147 | [82147-circuit-demolition-derby-2.json](./82147-circuit-demolition-derby-2.json) |
+| Circuitdream.exe | 202242 | [202242-circuitdream-exe.json](./202242-circuitdream-exe.json) |
 | Circuitous | 90658 | [90658-circuitous.json](./90658-circuitous.json) |
 | Circular | 169466 | [169466-circular.json](./169466-circular.json) |
 | Circular | 205092 | [205092-circular.json](./205092-circular.json) |
@@ -3992,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corah | 237636 | [237636-corah.json](./237636-corah.json) |
 | Coral Island | 143061 | [143061-coral-island.json](./143061-coral-island.json) |
 | Coraline | 210273 | [210273-coraline.json](./210273-coraline.json) |
+| Corallo | 202243 | [202243-corallo.json](./202243-corallo.json) |
 | Corbel | 322609 | [322609-corbel.json](./322609-corbel.json) |
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
 | Cordelia | 248044 | [248044-cordelia.json](./248044-cordelia.json) |
@@ -5745,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclone Circus: Power Sail Racing | 72112 | [72112-cyclone-circus-power-sail-racing.json](./72112-cyclone-circus-power-sail-racing.json) |
 | Cyclopean II: The Dreamlands | 369652 | [369652-cyclopean-ii-the-dreamlands.json](./369652-cyclopean-ii-the-dreamlands.json) |
 | Cyclopvania | 206145 | [206145-cyclopvania.json](./206145-cyclopvania.json) |
+| Cyclothymic | 202244 | [202244-cyclothymic.json](./202244-cyclothymic.json) |
 | Cydonia | 256838 | [256838-cydonia.json](./256838-cydonia.json) |
 | Cygnus IV | 263597 | [263597-cygnus-iv.json](./263597-cygnus-iv.json) |
 | Cylinder: Puzzles Returned | 63898 | [63898-cylinder-puzzles-returned.json](./63898-cylinder-puzzles-returned.json) |
