@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Room You Can't Exit Unless You Find the Numbers | 311643 | [311643-a-room-you-cant-exit-unless-you-find-the-numbers.json](./311643-a-room-you-cant-exit-unless-you-find-the-numbers.json) |
 | A Rose in the Twilight | 52042 | [52042-a-rose-in-the-twilight.json](./52042-a-rose-in-the-twilight.json) |
 | A Rose in the Twilight: Digital Bloodlust Edition | 52564 | [52564-a-rose-in-the-twilight-digital-bloodlust-edition.json](./52564-a-rose-in-the-twilight-digital-bloodlust-edition.json) |
+| A Rum Tale | 230384 | [230384-a-rum-tale.json](./230384-a-rum-tale.json) |
 | A Sandwich, A Leash, and A Storm | 337701 | [337701-a-sandwich-a-leash-and-a-storm.json](./337701-a-sandwich-a-leash-and-a-storm.json) |
 | A Second Chance | 201290 | [201290-a-second-chance.json](./201290-a-second-chance.json) |
 | A Second Mario Bros. X Thing: Analog Funk | 304212 | [304212-a-second-mario-bros-x-thing-analog-funk.json](./304212-a-second-mario-bros-x-thing-analog-funk.json) |
@@ -2789,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Emeraldia | 298583 | [298583-arcade-archives-emeraldia.json](./298583-arcade-archives-emeraldia.json) |
 | Arcade Archives: Finalizer Super Transformation | 315828 | [315828-arcade-archives-finalizer-super-transformation.json](./315828-arcade-archives-finalizer-super-transformation.json) |
 | Arcade Archives: Galactic Warriors | 378778 | [378778-arcade-archives-galactic-warriors.json](./378778-arcade-archives-galactic-warriors.json) |
+| Arcade Archives: Galaga | 230364 | [230364-arcade-archives-galaga.json](./230364-arcade-archives-galaga.json) |
 | Arcade Archives: Gemini Wing | 146343 | [146343-arcade-archives-gemini-wing.json](./146343-arcade-archives-gemini-wing.json) |
 | Arcade Archives: Gradius II | 99541 | [99541-arcade-archives-gradius-ii.json](./99541-arcade-archives-gradius-ii.json) |
 | Arcade Archives: Growl | 259232 | [259232-arcade-archives-growl.json](./259232-arcade-archives-growl.json) |
@@ -3154,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark's Wonder Dungeon | 321588 | [321588-arks-wonder-dungeon.json](./321588-arks-wonder-dungeon.json) |
 | Arkady Survive | 117658 | [117658-arkady-survive.json](./117658-arkady-survive.json) |
 | Arkaia: The Enigmatic Isle | 68606 | [68606-arkaia-the-enigmatic-isle.json](./68606-arkaia-the-enigmatic-isle.json) |
+| Arkaik: Tales of Sarina | 230380 | [230380-arkaik-tales-of-sarina.json](./230380-arkaik-tales-of-sarina.json) |
 | Arkana Senki Ludo | 166163 | [166163-arkana-senki-ludo.json](./166163-arkana-senki-ludo.json) |
 | Arkanoid 2000 | 80599 | [80599-arkanoid-2000.json](./80599-arkanoid-2000.json) |
 | Arkanoid Returns | 13685 | [13685-arkanoid-returns.json](./13685-arkanoid-returns.json) |
