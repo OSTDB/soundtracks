@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warship | 377150 | [377150-warship.json](./377150-warship.json) |
 | Warship Battle Commander | 356715 | [356715-warship-battle-commander.json](./356715-warship-battle-commander.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
+| Warsino | 232539 | [232539-warsino.json](./232539-warsino.json) |
 | Warspace | 242065 | [242065-warspace.json](./242065-warspace.json) |
 | Warspace 2 | 158652 | [158652-warspace-2.json](./158652-warspace-2.json) |
 | Warspear Online | 87077 | [87077-warspear-online.json](./87077-warspear-online.json) |
