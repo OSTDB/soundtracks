@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai II: Dragon's Eye | 406086 | [406086-shanghai-ii-dragons-eye.json](./406086-shanghai-ii-dragons-eye.json) |
 | Shanghai II: Dragon's Eye | 406087 | [406087-shanghai-ii-dragons-eye.json](./406087-shanghai-ii-dragons-eye.json) |
 | Shanghai Karate | 47216 | [47216-shanghai-karate.json](./47216-shanghai-karate.json) |
+| Shanghai Mahjong | 205088 | [205088-shanghai-mahjong.json](./205088-shanghai-mahjong.json) |
 | Shanghai Wii | 84853 | [84853-shanghai-wii.json](./84853-shanghai-wii.json) |
 | Shanghai: Dynasty | 343909 | [343909-shanghai-dynasty.json](./343909-shanghai-dynasty.json) |
 | Shanghai: Dynasty | 343910 | [343910-shanghai-dynasty.json](./343910-shanghai-dynasty.json) |
@@ -2915,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigma-X | 256914 | [256914-sigma-x.json](./256914-sigma-x.json) |
 | Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
 | Sign of the Sun | 69878 | [69878-sign-of-the-sun.json](./69878-sign-of-the-sun.json) |
+| Signal | 205094 | [205094-signal.json](./205094-signal.json) |
 | Signal | 329155 | [329155-signal.json](./329155-signal.json) |
 | Signal Creek | 339922 | [339922-signal-creek.json](./339922-signal-creek.json) |
 | Signal Garden | 400311 | [400311-signal-garden.json](./400311-signal-garden.json) |
@@ -4407,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Kids Plus | 72103 | [72103-snowboard-kids-plus.json](./72103-snowboard-kids-plus.json) |
 | Snowboard Legends | 322988 | [322988-snowboard-legends.json](./322988-snowboard-legends.json) |
 | Snowboard Madness | 325274 | [325274-snowboard-madness.json](./325274-snowboard-madness.json) |
+| Snowboard Park 2004 Season Pass | 205119 | [205119-snowboard-park-2004-season-pass.json](./205119-snowboard-park-2004-season-pass.json) |
 | Snowboard Party World Tour Pro | 88189 | [88189-snowboard-party-world-tour-pro.json](./88189-snowboard-party-world-tour-pro.json) |
 | Snowboarder MP | 247189 | [247189-snowboarder-mp.json](./247189-snowboarder-mp.json) |
 | Snowboarder XS | 325285 | [325285-snowboarder-xs.json](./325285-snowboarder-xs.json) |
@@ -5705,6 +5708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Marshals Collection | 327207 | [327207-space-marshals-collection.json](./327207-space-marshals-collection.json) |
 | Space Mash | 366877 | [366877-space-mash.json](./366877-space-mash.json) |
 | Space Maze | 345522 | [345522-space-maze.json](./345522-space-maze.json) |
+| Space Mech Pilot: The Universe Drive | 205125 | [205125-space-mech-pilot-the-universe-drive.json](./205125-space-mech-pilot-the-universe-drive.json) |
 | Space Mechanic Simulator | 90650 | [90650-space-mechanic-simulator.json](./90650-space-mechanic-simulator.json) |
 | Space Memory TDG | 412970 | [412970-space-memory-tdg.json](./412970-space-memory-tdg.json) |
 | Space Memory: Dogs | 357864 | [357864-space-memory-dogs.json](./357864-space-memory-dogs.json) |
