@@ -2049,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evoids | 331434 | [331434-evoids.json](./331434-evoids.json) |
 | Evoker's Gambit | 333361 | [333361-evokers-gambit.json](./333361-evokers-gambit.json) |
 | EvoLife | 323744 | [323744-evolife.json](./323744-evolife.json) |
+| Evolings | 181255 | [181255-evolings.json](./181255-evolings.json) |
 | Evolit | 346152 | [346152-evolit.json](./346152-evolit.json) |
 | Evolized | 353371 | [353371-evolized.json](./353371-evolized.json) |
 | Evolution | 178006 | [178006-evolution.json](./178006-evolution.json) |
