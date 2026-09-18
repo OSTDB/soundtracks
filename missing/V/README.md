@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanishing Realms | 18694 | [18694-vanishing-realms.json](./18694-vanishing-realms.json) |
 | Vanishing Realms: The Sundered Rift | 167244 | [167244-vanishing-realms-the-sundered-rift.json](./167244-vanishing-realms-the-sundered-rift.json) |
 | Vanity | 273650 | [273650-vanity.json](./273650-vanity.json) |
+| Vanquish | 220716 | [220716-vanquish.json](./220716-vanquish.json) |
 | Vanquish | 3218 | [3218-vanquish.json](./3218-vanquish.json) |
 | Vanquish Evil | 349317 | [349317-vanquish-evil.json](./349317-vanquish-evil.json) |
 | Vantage Master Portable | 196855 | [196855-vantage-master-portable.json](./196855-vantage-master-portable.json) |
@@ -759,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Rehab Art 4 Health | 172181 | [172181-virtual-rehab-art-4-health.json](./172181-virtual-rehab-art-4-health.json) |
 | Virtual Resort: Spring Break | 205978 | [205978-virtual-resort-spring-break.json](./205978-virtual-resort-spring-break.json) |
 | Virtual Rides 3: Northstar | 273396 | [273396-virtual-rides-3-northstar.json](./273396-virtual-rides-3-northstar.json) |
+| Virtual Sailor NG | 220717 | [220717-virtual-sailor-ng.json](./220717-virtual-sailor-ng.json) |
 | Virtual Soccer | 46005 | [46005-virtual-soccer.json](./46005-virtual-soccer.json) |
 | Virtual Surgeon: Open Heart | 69239 | [69239-virtual-surgeon-open-heart.json](./69239-virtual-surgeon-open-heart.json) |
 | Virtual Table Tennis Ping Pong | 104622 | [104622-virtual-table-tennis-ping-pong.json](./104622-virtual-table-tennis-ping-pong.json) |
