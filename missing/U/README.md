@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbral Omen | 212837 | [212837-umbral-omen.json](./212837-umbral-omen.json) |
 | Umbraseal | 120928 | [120928-umbraseal.json](./120928-umbraseal.json) |
 | Umbrella Corps | 12530 | [12530-umbrella-corps.json](./12530-umbrella-corps.json) |
+| Umbrella Escape | 230915 | [230915-umbrella-escape.json](./230915-umbrella-escape.json) |
 | Umezawa Yukari no Taikyoku Igo - Heisei Kiin II | 286087 | [286087-umezawa-yukari-no-taikyoku-igo-heisei-kiin-ii.json](./286087-umezawa-yukari-no-taikyoku-igo-heisei-kiin-ii.json) |
 | Umfend | 111034 | [111034-umfend.json](./111034-umfend.json) |
 | Umi no Nushi Tsuri | 37774 | [37774-umi-no-nushi-tsuri.json](./37774-umi-no-nushi-tsuri.json) |
