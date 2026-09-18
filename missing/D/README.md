@@ -2565,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diptych: The Great War | 199135 | [199135-diptych-the-great-war.json](./199135-diptych-the-great-war.json) |
 | Dirappen Restoration | 265700 | [265700-dirappen-restoration.json](./265700-dirappen-restoration.json) |
 | Dire Echo | 376541 | [376541-dire-echo.json](./376541-dire-echo.json) |
+| Dire Vengeance: Deluxe | 223570 | [223570-dire-vengeance-deluxe.json](./223570-dire-vengeance-deluxe.json) |
 | Direct | 70706 | [70706-direct.json](./70706-direct.json) |
 | Direct-X | 292146 | [292146-direct-x.json](./292146-direct-x.json) |
 | Direction! Level Up! | 306359 | [306359-direction-level-up.json](./306359-direction-level-up.json) |
@@ -3894,6 +3895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Strongest Warrior | 174895 | [174895-dragon-ball-strongest-warrior.json](./174895-dragon-ball-strongest-warrior.json) |
 | Dragon Ball: The Breakers - Season 6 | 307756 | [307756-dragon-ball-the-breakers-season-6.json](./307756-dragon-ball-the-breakers-season-6.json) |
 | Dragon Ball: Xenoverse - Day One Edition | 363936 | [363936-dragon-ball-xenoverse-day-one-edition.json](./363936-dragon-ball-xenoverse-day-one-edition.json) |
+| Dragon Ball: Xenoverse 2 - Conton City Vote Pack | 223592 | [223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json](./223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json) |
 | Dragon Ball: Xenoverse 2 - Extra Pass | 117657 | [117657-dragon-ball-xenoverse-2-extra-pass.json](./117657-dragon-ball-xenoverse-2-extra-pass.json) |
 | Dragon Ball: Xenoverse 2 - Super Edition | 200692 | [200692-dragon-ball-xenoverse-2-super-edition.json](./200692-dragon-ball-xenoverse-2-super-edition.json) |
 | Dragon Ball: Xenoverse 2 - Super Pass | 117656 | [117656-dragon-ball-xenoverse-2-super-pass.json](./117656-dragon-ball-xenoverse-2-super-pass.json) |
