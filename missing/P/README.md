@@ -1515,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Philomel | 341582 | [341582-philomel.json](./341582-philomel.json) |
 | Philosoma | 20638 | [20638-philosoma.json](./20638-philosoma.json) |
 | Phineas & Ferb: Day of Doofensmirtz | 42667 | [42667-phineas-and-ferb-day-of-doofensmirtz.json](./42667-phineas-and-ferb-day-of-doofensmirtz.json) |
+| Phineas and Ferb | 230397 | [230397-phineas-and-ferb.json](./230397-phineas-and-ferb.json) |
 | Phineas and Ferb Arcade | 361713 | [361713-phineas-and-ferb-arcade.json](./361713-phineas-and-ferb-arcade.json) |
 | Phineas and Ferb: Quest for Cool Stuff | 5318 | [5318-phineas-and-ferb-quest-for-cool-stuff.json](./5318-phineas-and-ferb-quest-for-cool-stuff.json) |
 | Phlegethon | 187520 | [187520-phlegethon.json](./187520-phlegethon.json) |
@@ -2138,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pix3D | 84819 | [84819-pix3d.json](./84819-pix3d.json) |
 | Pixadom | 317582 | [317582-pixadom.json](./317582-pixadom.json) |
 | Pixapple Adventure | 388011 | [388011-pixapple-adventure.json](./388011-pixapple-adventure.json) |
+| Pixar Pals | 230398 | [230398-pixar-pals.json](./230398-pixar-pals.json) |
 | PixArk: Jade Elegance - A Theatrical Odyssey in the East | 291059 | [291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json](./291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json) |
 | Pixasso 2 | 165703 | [165703-pixasso-2.json](./165703-pixasso-2.json) |
 | Pixel Adventure: Exploration | 96005 | [96005-pixel-adventure-exploration.json](./96005-pixel-adventure-exploration.json) |
@@ -2439,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane Racer | 230296 | [230296-plane-racer.json](./230296-plane-racer.json) |
 | Planes | 262093 | [262093-planes.json](./262093-planes.json) |
 | Planes Combat | 278150 | [278150-planes-combat.json](./278150-planes-combat.json) |
+| Planes: Interactive Storybook | 230399 | [230399-planes-interactive-storybook.json](./230399-planes-interactive-storybook.json) |
 | Planes.io | 194038 | [194038-planes-io.json](./194038-planes-io.json) |
 | Planet Alpha | 28070 | [28070-planet-alpha.json](./28070-planet-alpha.json) |
 | Planet Assault | 89936 | [89936-planet-assault.json](./89936-planet-assault.json) |
@@ -4655,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Pinball 2.0 Redux | 51881 | [51881-pure-pinball-2-0-redux.json](./51881-pure-pinball-2-0-redux.json) |
 | Pure Song Garden! | 194575 | [194575-pure-song-garden.json](./194575-pure-song-garden.json) |
 | Pure Stat College Basketball | 47212 | [47212-pure-stat-college-basketball.json](./47212-pure-stat-college-basketball.json) |
+| Pure White Chord | 230386 | [230386-pure-white-chord.json](./230386-pure-white-chord.json) |
 | Pure Yome | 415141 | [415141-pure-yome.json](./415141-pure-yome.json) |
 | PureSim Baseball 2005 | 23784 | [23784-puresim-baseball-2005.json](./23784-puresim-baseball-2005.json) |
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
