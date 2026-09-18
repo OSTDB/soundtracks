@@ -976,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: United in Stormwind | 387381 | [387381-hearthstone-united-in-stormwind.json](./387381-hearthstone-united-in-stormwind.json) |
 | Heartland | 23046 | [23046-heartland.json](./23046-heartland.json) |
 | Heartland Deluxe | 73756 | [73756-heartland-deluxe.json](./73756-heartland-deluxe.json) |
+| Heartless | 183969 | [183969-heartless.json](./183969-heartless.json) |
 | Heartless | 219824 | [219824-heartless.json](./219824-heartless.json) |
 | Heartless | 339834 | [339834-heartless.json](./339834-heartless.json) |
 | Heartless & Dreadful: Return by 72 hours | 192844 | [192844-heartless-and-dreadful-return-by-72-hours.json](./192844-heartless-and-dreadful-return-by-72-hours.json) |
@@ -2094,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiddenverse: Divided Kingdom | 223140 | [223140-hiddenverse-divided-kingdom.json](./223140-hiddenverse-divided-kingdom.json) |
 | Hiddenverse: Ominous Opus | 156677 | [156677-hiddenverse-ominous-opus.json](./156677-hiddenverse-ominous-opus.json) |
 | Hiddenverse: The Iron Tower | 209652 | [209652-hiddenverse-the-iron-tower.json](./209652-hiddenverse-the-iron-tower.json) |
+| Hide | 183997 | [183997-hide.json](./183997-hide.json) |
 | Hide 'n Heist | 346160 | [346160-hide-n-heist.json](./346160-hide-n-heist.json) |
 | Hide & Chick | 206196 | [206196-hide-and-chick.json](./206196-hide-and-chick.json) |
 | Hide & Seek World | 188552 | [188552-hide-and-seek-world.json](./188552-hide-and-seek-world.json) |
@@ -2794,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Top | 289472 | [289472-hop-top.json](./289472-hop-top.json) |
 | Hop: The Movie | 254792 | [254792-hop-the-movie.json](./254792-hop-the-movie.json) |
 | Hop'N'Hoard | 394846 | [394846-hopnhoard.json](./394846-hopnhoard.json) |
+| Hopa: Mini test Quest | 183999 | [183999-hopa-mini-test-quest.json](./183999-hopa-mini-test-quest.json) |
 | HopDodge | 200149 | [200149-hopdodge.json](./200149-hopdodge.json) |
 | Hope | 312738 | [312738-hope.json](./312738-hope.json) |
 | Hope 01 | 398473 | [398473-hope-01.json](./398473-hope-01.json) |
