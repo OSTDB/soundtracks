@@ -2926,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Foretold: Exordium | 267675 | [267675-the-foretold-exordium.json](./267675-the-foretold-exordium.json) |
 | The Forever Labyrinth | 285049 | [285049-the-forever-labyrinth.json](./285049-the-forever-labyrinth.json) |
 | The Forever Moon | 165023 | [165023-the-forever-moon.json](./165023-the-forever-moon.json) |
+| The Foreverlands | 181234 | [181234-the-foreverlands.json](./181234-the-foreverlands.json) |
 | The Forgers | 352186 | [352186-the-forgers.json](./352186-the-forgers.json) |
 | The Forgotten Empire | 191164 | [191164-the-forgotten-empire.json](./191164-the-forgotten-empire.json) |
 | The Forgotten Fairy Tales: The Spectra World | 100153 | [100153-the-forgotten-fairy-tales-the-spectra-world.json](./100153-the-forgotten-fairy-tales-the-spectra-world.json) |
@@ -5209,6 +5210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Temple | 292549 | [292549-the-temple.json](./292549-the-temple.json) |
 | The Temple of Elemental Evil | 381153 | [381153-the-temple-of-elemental-evil.json](./381153-the-temple-of-elemental-evil.json) |
 | The Temple of No | 19699 | [19699-the-temple-of-no.json](./19699-the-temple-of-no.json) |
+| The Temple of Torment | 181257 | [181257-the-temple-of-torment.json](./181257-the-temple-of-torment.json) |
 | The Tempura Samurai | 64435 | [64435-the-tempura-samurai.json](./64435-the-tempura-samurai.json) |
 | The Tenants | 115012 | [115012-the-tenants.json](./115012-the-tenants.json) |
 | The Tennis & The Snowboard | 203393 | [203393-the-tennis-and-the-snowboard.json](./203393-the-tennis-and-the-snowboard.json) |
@@ -5720,6 +5722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher 3: Enhanced Edition - Redux | 283715 | [283715-the-witcher-3-enhanced-edition-redux.json](./283715-the-witcher-3-enhanced-edition-redux.json) |
 | The Witcher 3: Wild Hunt - Collector's Edition | 44549 | [44549-the-witcher-3-wild-hunt-collectors-edition.json](./44549-the-witcher-3-wild-hunt-collectors-edition.json) |
 | The Witches Pond | 277823 | [277823-the-witches-pond.json](./277823-the-witches-pond.json) |
+| The Wizard | 181239 | [181239-the-wizard.json](./181239-the-wizard.json) |
 | The Wizard and The Slug | 139400 | [139400-the-wizard-and-the-slug.json](./139400-the-wizard-and-the-slug.json) |
 | The Wizard Game | 149092 | [149092-the-wizard-game.json](./149092-the-wizard-game.json) |
 | The Wizard Needs Food, Badly! | 330717 | [330717-the-wizard-needs-food-badly.json](./330717-the-wizard-needs-food-badly.json) |
@@ -5934,6 +5937,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Hunger 3: Rude Awakening | 268006 | [268006-they-hunger-3-rude-awakening.json](./268006-they-hunger-3-rude-awakening.json) |
 | They Hunger: Episode 1 | 268004 | [268004-they-hunger-episode-1.json](./268004-they-hunger-episode-1.json) |
 | They Linger | 259588 | [259588-they-linger.json](./259588-they-linger.json) |
+| They Look Strange and Have to Die | 181233 | [181233-they-look-strange-and-have-to-die.json](./181233-they-look-strange-and-have-to-die.json) |
+| They Started It | 181224 | [181224-they-started-it.json](./181224-they-started-it.json) |
 | They That Feast | 113036 | [113036-they-that-feast.json](./113036-they-that-feast.json) |
 | They Walk Beyond | 386303 | [386303-they-walk-beyond.json](./386303-they-walk-beyond.json) |
 | They Watch From the Walls | 181930 | [181930-they-watch-from-the-walls.json](./181930-they-watch-from-the-walls.json) |
@@ -6958,6 +6963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Brains | 7649 | [7649-tiny-brains.json](./7649-tiny-brains.json) |
 | Tiny Bunny | 131653 | [131653-tiny-bunny.json](./131653-tiny-bunny.json) |
 | Tiny Candy Guardian | 264034 | [264034-tiny-candy-guardian.json](./264034-tiny-candy-guardian.json) |
+| Tiny Card Battle | 181249 | [181249-tiny-card-battle.json](./181249-tiny-card-battle.json) |
 | Tiny Chills: Not From Ear | 395024 | [395024-tiny-chills-not-from-ear.json](./395024-tiny-chills-not-from-ear.json) |
 | Tiny Clusters | 177477 | [177477-tiny-clusters.json](./177477-tiny-clusters.json) |
 | Tiny Combat Arena | 154015 | [154015-tiny-combat-arena.json](./154015-tiny-combat-arena.json) |
@@ -7004,6 +7010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Robots: Portal Escape | 297201 | [297201-tiny-robots-portal-escape.json](./297201-tiny-robots-portal-escape.json) |
 | Tiny Shadows Interwoven Hearts | 374078 | [374078-tiny-shadows-interwoven-hearts.json](./374078-tiny-shadows-interwoven-hearts.json) |
 | Tiny Shop | 365094 | [365094-tiny-shop.json](./365094-tiny-shop.json) |
+| Tiny Sim | 181223 | [181223-tiny-sim.json](./181223-tiny-sim.json) |
 | Tiny Starfighters | 317413 | [317413-tiny-starfighters.json](./317413-tiny-starfighters.json) |
 | Tiny Striker | 23408 | [23408-tiny-striker.json](./23408-tiny-striker.json) |
 | Tiny Tactics | 210879 | [210879-tiny-tactics.json](./210879-tiny-tactics.json) |
