@@ -1691,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironborne | 391038 | [391038-ironborne.json](./391038-ironborne.json) |
 | Ironclads 2: Caroline Islands War 1885 | 51941 | [51941-ironclads-2-caroline-islands-war-1885.json](./51941-ironclads-2-caroline-islands-war-1885.json) |
 | IronFall: Invasion | 8610 | [8610-ironfall-invasion.json](./8610-ironfall-invasion.json) |
+| Irongate Arena | 189034 | [189034-irongate-arena.json](./189034-irongate-arena.json) |
 | Ironguard | 32973 | [32973-ironguard.json](./32973-ironguard.json) |
 | Ironheart | 131615 | [131615-ironheart.json](./131615-ironheart.json) |
 | Ironheart: Cardia | 291466 | [291466-ironheart-cardia.json](./291466-ironheart-cardia.json) |
