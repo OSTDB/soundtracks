@@ -1669,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overboard | 122430 | [122430-overboard.json](./122430-overboard.json) |
 | Overbooked | 413044 | [413044-overbooked.json](./413044-overbooked.json) |
 | Overboss | 214604 | [214604-overboss.json](./214604-overboss.json) |
+| Overcast and Light Rain | 185011 | [185011-overcast-and-light-rain.json](./185011-overcast-and-light-rain.json) |
 | Overcat | 373530 | [373530-overcat.json](./373530-overcat.json) |
 | Overcrowded | 185147 | [185147-overcrowded.json](./185147-overcrowded.json) |
 | Overcrowded: Tycoon | 200743 | [200743-overcrowded-tycoon.json](./200743-overcrowded-tycoon.json) |
