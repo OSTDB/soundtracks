@@ -1691,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matter | 80601 | [80601-matter.json](./80601-matter.json) |
 | Matthias Sammer Soccer | 49101 | [49101-matthias-sammer-soccer.json](./49101-matthias-sammer-soccer.json) |
 | Matts Project Z Endless | 149581 | [149581-matts-project-z-endless.json](./149581-matts-project-z-endless.json) |
+| Maudelyn's Quest | 186189 | [186189-maudelyns-quest.json](./186189-maudelyns-quest.json) |
 | Mauled | 239681 | [239681-mauled.json](./239681-mauled.json) |
 | Maumau and the Labyrinth | 330860 | [330860-maumau-and-the-labyrinth.json](./330860-maumau-and-the-labyrinth.json) |
 | Mausoleosis | 302951 | [302951-mausoleosis.json](./302951-mausoleosis.json) |
@@ -4930,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motamo | 361768 | [361768-motamo.json](./361768-motamo.json) |
 | Motarium | 393480 | [393480-motarium.json](./393480-motarium.json) |
 | MOTAS: Magnum Opus - The Alchemist's Shadow | 313281 | [313281-motas-magnum-opus-the-alchemists-shadow.json](./313281-motas-magnum-opus-the-alchemists-shadow.json) |
+| Motel 666 | 186165 | [186165-motel-666.json](./186165-motel-666.json) |
 | Motel Snooze | 135800 | [135800-motel-snooze.json](./135800-motel-snooze.json) |
 | MoteMancer | 338704 | [338704-motemancer.json](./338704-motemancer.json) |
 | Moth Ma'am | 355015 | [355015-moth-maam.json](./355015-moth-maam.json) |
