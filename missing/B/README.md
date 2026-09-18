@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bassing Beat | 285997 | [285997-bassing-beat.json](./285997-bassing-beat.json) |
 | Bassing Beat 2 | 285998 | [285998-bassing-beat-2.json](./285998-bassing-beat-2.json) |
 | Bassmaster Fishing 2022 | 169996 | [169996-bassmaster-fishing-2022.json](./169996-bassmaster-fishing-2022.json) |
+| Bassmaster Fishing 2022: Classic Edition | 227354 | [227354-bassmaster-fishing-2022-classic-edition.json](./227354-bassmaster-fishing-2022-classic-edition.json) |
 | Bassmaster Fishing 2022: Elite Fishing Equipment Pack | 225081 | [225081-bassmaster-fishing-2022-elite-fishing-equipment-pack.json](./225081-bassmaster-fishing-2022-elite-fishing-equipment-pack.json) |
 | Bassmaster Fishing 2022: Lake Hartwell | 193438 | [193438-bassmaster-fishing-2022-lake-hartwell.json](./193438-bassmaster-fishing-2022-lake-hartwell.json) |
 | Bassmaster Fishing 2022: Predator Equipment Pack | 225082 | [225082-bassmaster-fishing-2022-predator-equipment-pack.json](./225082-bassmaster-fishing-2022-predator-equipment-pack.json) |
@@ -2048,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Cup Cricket | 22337 | [22337-big-cup-cricket.json](./22337-big-cup-cricket.json) |
 | Big D Randy | 276269 | [276269-big-d-randy.json](./276269-big-d-randy.json) |
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
+| Big Entrepreneur | 227373 | [227373-big-entrepreneur.json](./227373-big-entrepreneur.json) |
 | Big Farm Story | 138727 | [138727-big-farm-story.json](./138727-big-farm-story.json) |
 | Big Farm Story: Asian Package | 225069 | [225069-big-farm-story-asian-package.json](./225069-big-farm-story-asian-package.json) |
 | Big Farm Story: Peaceful Nature Pack | 225070 | [225070-big-farm-story-peaceful-nature-pack.json](./225070-big-farm-story-peaceful-nature-pack.json) |
