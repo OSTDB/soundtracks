@@ -3243,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blurry Shopping | 381098 | [381098-blurry-shopping.json](./381098-blurry-shopping.json) |
 | Blyte | 358867 | [358867-blyte.json](./358867-blyte.json) |
 | Blyx | 272859 | [272859-blyx.json](./272859-blyx.json) |
+| BMP Puzzle | 217997 | [217997-bmp-puzzle.json](./217997-bmp-puzzle.json) |
 | BMX Backflip King | 255173 | [255173-bmx-backflip-king.json](./255173-bmx-backflip-king.json) |
 | BMX Challenge | 220189 | [220189-bmx-challenge.json](./220189-bmx-challenge.json) |
 | BMX Pipe | 102770 | [102770-bmx-pipe.json](./102770-bmx-pipe.json) |
