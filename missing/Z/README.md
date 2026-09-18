@@ -304,6 +304,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZJ the Ball Challenge: Level 2C | 214511 | [214511-zj-the-ball-challenge-level-2c.json](./214511-zj-the-ball-challenge-level-2c.json) |
 | ZJ the Ball Challenge: Level 3C | 214502 | [214502-zj-the-ball-challenge-level-3c.json](./214502-zj-the-ball-challenge-level-3c.json) |
 | ZJ the Ball Challenge: Level 4C | 214501 | [214501-zj-the-ball-challenge-level-4c.json](./214501-zj-the-ball-challenge-level-4c.json) |
+| ZJ the Ball: Level 2 | 214569 | [214569-zj-the-ball-level-2.json](./214569-zj-the-ball-level-2.json) |
+| ZJ the Ball: Level 3 | 214570 | [214570-zj-the-ball-level-3.json](./214570-zj-the-ball-level-3.json) |
+| ZJ the Ball: Level 4 | 214571 | [214571-zj-the-ball-level-4.json](./214571-zj-the-ball-level-4.json) |
+| ZJ the Ball: Level 5 | 214572 | [214572-zj-the-ball-level-5.json](./214572-zj-the-ball-level-5.json) |
 | ZJ the Ball: Special | 229078 | [229078-zj-the-ball-special.json](./229078-zj-the-ball-special.json) |
 | Zjawa: Bloodstained Soul | 374587 | [374587-zjawa-bloodstained-soul.json](./374587-zjawa-bloodstained-soul.json) |
 | Zlalox | 302949 | [302949-zlalox.json](./302949-zlalox.json) |
