@@ -2453,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Parking | 115057 | [115057-pizza-parking.json](./115057-pizza-parking.json) |
 | Pizza Pony | 180852 | [180852-pizza-pony.json](./180852-pizza-pony.json) |
 | Pizza Rogue: P.P.M.P.D.E.S. | 334218 | [334218-pizza-rogue-p-p-m-p-d-e-s.json](./334218-pizza-rogue-p-p-m-p-d-e-s.json) |
+| Pizza Run | 200582 | [200582-pizza-run.json](./200582-pizza-run.json) |
 | Pizza Simulator Together | 326382 | [326382-pizza-simulator-together.json](./326382-pizza-simulator-together.json) |
 | Pizza Syndicate | 373071 | [373071-pizza-syndicate.json](./373071-pizza-syndicate.json) |
 | Pizza the Pie | 175357 | [175357-pizza-the-pie.json](./175357-pizza-the-pie.json) |
