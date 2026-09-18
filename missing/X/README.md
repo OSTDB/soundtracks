@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xander the Monster Morpher: Universe Breaker | 120983 | [120983-xander-the-monster-morpher-universe-breaker.json](./120983-xander-the-monster-morpher-universe-breaker.json) |
 | Xander: 7-Shot | 337108 | [337108-xander-7-shot.json](./337108-xander-7-shot.json) |
 | Xango Tango | 205820 | [205820-xango-tango.json](./205820-xango-tango.json) |
+| Xanniban | 231495 | [231495-xanniban.json](./231495-xanniban.json) |
 | Xanthaphobia | 266789 | [266789-xanthaphobia.json](./266789-xanthaphobia.json) |
 | Xanthiom Zero | 240815 | [240815-xanthiom-zero.json](./240815-xanthiom-zero.json) |
 | Xargon Remake Ep.3 | 253436 | [253436-xargon-remake-ep-3.json](./253436-xargon-remake-ep-3.json) |
