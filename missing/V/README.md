@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vai Juliette! | 248758 | [248758-vai-juliette.json](./248758-vai-juliette.json) |
 | Vain Dream | 238483 | [238483-vain-dream.json](./238483-vain-dream.json) |
 | Vain Dream II | 238484 | [238484-vain-dream-ii.json](./238484-vain-dream-ii.json) |
+| Vain Empires | 216334 | [216334-vain-empires.json](./216334-vain-empires.json) |
 | Vain Uprising | 331322 | [331322-vain-uprising.json](./331322-vain-uprising.json) |
 | Val d'Isère Ski Park Manager | 64920 | [64920-val-disere-ski-park-manager.json](./64920-val-disere-ski-park-manager.json) |
 | Val d'Isère Ski Park Manager: Edition 2003 | 64919 | [64919-val-disere-ski-park-manager-edition-2003.json](./64919-val-disere-ski-park-manager-edition-2003.json) |
@@ -349,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Infinite | 277301 | [277301-vegas-infinite.json](./277301-vegas-infinite.json) |
 | Vegas Stakes | 38410 | [38410-vegas-stakes.json](./38410-vegas-stakes.json) |
 | Vegas Stakes | 85469 | [85469-vegas-stakes.json](./85469-vegas-stakes.json) |
+| Vegetable Valley Nightmare | 216303 | [216303-vegetable-valley-nightmare.json](./216303-vegetable-valley-nightmare.json) |
 | Vegetarian Alliance | 119683 | [119683-vegetarian-alliance.json](./119683-vegetarian-alliance.json) |
 | Veggie Eggs | 373561 | [373561-veggie-eggs.json](./373561-veggie-eggs.json) |
 | Veggie Killer | 86334 | [86334-veggie-killer.json](./86334-veggie-killer.json) |
