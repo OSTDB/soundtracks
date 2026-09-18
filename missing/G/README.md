@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gatekeeper: Supporter Pack | 310401 | [310401-gatekeeper-supporter-pack.json](./310401-gatekeeper-supporter-pack.json) |
 | GatePass | 319987 | [319987-gatepass.json](./319987-gatepass.json) |
 | Gates of Andaron | 209594 | [209594-gates-of-andaron.json](./209594-gates-of-andaron.json) |
+| Gates of Devoroth | 211288 | [211288-gates-of-devoroth.json](./211288-gates-of-devoroth.json) |
 | Gates of Mirnah | 148998 | [148998-gates-of-mirnah.json](./148998-gates-of-mirnah.json) |
 | Gates of Nowhere | 50892 | [50892-gates-of-nowhere.json](./50892-gates-of-nowhere.json) |
 | Gates of Yomi | 274480 | [274480-gates-of-yomi.json](./274480-gates-of-yomi.json) |
@@ -1057,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostkeeper | 210859 | [210859-ghostkeeper.json](./210859-ghostkeeper.json) |
 | Ghostly Garden | 146853 | [146853-ghostly-garden.json](./146853-ghostly-garden.json) |
 | Ghostly Matter | 89650 | [89650-ghostly-matter.json](./89650-ghostly-matter.json) |
+| Ghostly Moans | 211252 | [211252-ghostly-moans.json](./211252-ghostly-moans.json) |
 | Ghostly Simulator: Your Neighboring Ghost Story Collection | 407411 | [407411-ghostly-simulator-your-neighboring-ghost-story-collection.json](./407411-ghostly-simulator-your-neighboring-ghost-story-collection.json) |
 | GhosTrick-The Sacred War of Light vs. Shadow | 374075 | [374075-ghostrick-the-sacred-war-of-light-vs-shadow.json](./374075-ghostrick-the-sacred-war-of-light-vs-shadow.json) |
 | Ghostrunner II | 250617 | [250617-ghostrunner-ii.json](./250617-ghostrunner-ii.json) |
