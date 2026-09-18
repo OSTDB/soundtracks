@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magman | 311271 | [311271-magman.json](./311271-magman.json) |
 | MagMaze | 240214 | [240214-magmaze.json](./240214-magmaze.json) |
 | Magna Braban: Henreki no Yuusha | 38374 | [38374-magna-braban-henreki-no-yuusha.json](./38374-magna-braban-henreki-no-yuusha.json) |
+| Magna Driver | 181759 | [181759-magna-driver.json](./181759-magna-driver.json) |
 | Magna Fortuna | 171590 | [171590-magna-fortuna.json](./171590-magna-fortuna.json) |
 | Magna Regna | 211926 | [211926-magna-regna.json](./211926-magna-regna.json) |
 | Magnat | 365757 | [365757-magnat.json](./365757-magnat.json) |
@@ -2095,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Media Band | 209533 | [209533-meet-media-band.json](./209533-meet-media-band.json) |
 | Meet My Teacher | 289873 | [289873-meet-my-teacher.json](./289873-meet-my-teacher.json) |
 | Meet Santa | 326969 | [326969-meet-santa.json](./326969-meet-santa.json) |
+| Meet the Girls | 181801 | [181801-meet-the-girls.json](./181801-meet-the-girls.json) |
 | Meet the Letters Flashcards: Lowercase | 101569 | [101569-meet-the-letters-flashcards-lowercase.json](./101569-meet-the-letters-flashcards-lowercase.json) |
 | Meet the Myths: An Ormhildur the Brave Game | 331126 | [331126-meet-the-myths-an-ormhildur-the-brave-game.json](./331126-meet-the-myths-an-ormhildur-the-brave-game.json) |
 | Meet the Rookie | 310924 | [310924-meet-the-rookie.json](./310924-meet-the-rookie.json) |
