@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saihate Station: Twilight Railway | 337103 | [337103-saihate-station-twilight-railway.json](./337103-saihate-station-twilight-railway.json) |
 | Saikin MMO | 306083 | [306083-saikin-mmo.json](./306083-saikin-mmo.json) |
 | Saikko-nee to Death Game | 301025 | [301025-saikko-nee-to-death-game.json](./301025-saikko-nee-to-death-game.json) |
+| Saikyo no Mahjong: 100 Mannin no Tame no Mahjong Dojo | 222373 | [222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json](./222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json) |
 | Saikyo Robots | 251824 | [251824-saikyo-robots.json](./251824-saikyo-robots.json) |
 | Saikyou Ginsei Gomoku Narabe | 83474 | [83474-saikyou-ginsei-gomoku-narabe.json](./83474-saikyou-ginsei-gomoku-narabe.json) |
 | Saikyou Ginsei Mahjong | 83473 | [83473-saikyou-ginsei-mahjong.json](./83473-saikyou-ginsei-mahjong.json) |
@@ -2668,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoulder-Mounted Space Program | 373533 | [373533-shoulder-mounted-space-program.json](./373533-shoulder-mounted-space-program.json) |
 | Shouldermen | 293651 | [293651-shouldermen.json](./293651-shouldermen.json) |
 | Shoulders of Giants: Ultimate | 309111 | [309111-shoulders-of-giants-ultimate.json](./309111-shoulders-of-giants-ultimate.json) |
+| Shounen Ashibe: Go! Go! Goma-chan - Cute na Goma-chi Ippai Puzzle | 222404 | [222404-shounen-ashibe-go-go-goma-chan-cute-na-goma-chi-ippai-puzzle.json](./222404-shounen-ashibe-go-go-goma-chan-cute-na-goma-chi-ippai-puzzle.json) |
 | Shounen Ashibe: Goma-chan no Yuuenchi Daibouken | 42542 | [42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json](./42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json) |
 | Shounen Tantei-dan to Oka no Ue no Kimyou na Karakuri Yashiki | 251623 | [251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json](./251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json) |
 | Shout Seven | 159245 | [159245-shout-seven.json](./159245-shout-seven.json) |
@@ -7035,6 +7037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarDroneVR | 105983 | [105983-stardronevr.json](./105983-stardronevr.json) |
 | Stardrytch | 172136 | [172136-stardrytch.json](./172136-stardrytch.json) |
 | Stardust | 318797 | [318797-stardust.json](./318797-stardust.json) |
+| Stardust League | 222391 | [222391-stardust-league.json](./222391-stardust-league.json) |
 | Stardust Odyssey | 122994 | [122994-stardust-odyssey.json](./122994-stardust-odyssey.json) |
 | Stardust Sandbox | 393604 | [393604-stardust-sandbox.json](./393604-stardust-sandbox.json) |
 | Stardust Valkyries | 215712 | [215712-stardust-valkyries.json](./215712-stardust-valkyries.json) |
@@ -7961,6 +7964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strexy Slayers | 276167 | [276167-strexy-slayers.json](./276167-strexy-slayers.json) |
 | Striatum | 342647 | [342647-striatum.json](./342647-striatum.json) |
 | Striden | 237059 | [237059-striden.json](./237059-striden.json) |
+| Strider Mountain | 222415 | [222415-strider-mountain.json](./222415-strider-mountain.json) |
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
 | Strike at Night | 349835 | [349835-strike-at-night.json](./349835-strike-at-night.json) |
 | Strike Back | 279097 | [279097-strike-back.json](./279097-strike-back.json) |
@@ -8326,6 +8330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suguri | 80489 | [80489-suguri.json](./80489-suguri.json) |
 | Suho Defense | 339650 | [339650-suho-defense.json](./339650-suho-defense.json) |
 | SuiCats | 272583 | [272583-suicats.json](./272583-suicats.json) |
+| Suichara: Sweets Chara Mode - Sweets Gakkou he Youkoso! | 222401 | [222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json](./222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json) |
 | Suicide Adventures | 61613 | [61613-suicide-adventures.json](./61613-suicide-adventures.json) |
 | Suicide For Him | 153966 | [153966-suicide-for-him.json](./153966-suicide-for-him.json) |
 | Suicide Guy: Sleepin' Deeply | 102917 | [102917-suicide-guy-sleepin-deeply.json](./102917-suicide-guy-sleepin-deeply.json) |
