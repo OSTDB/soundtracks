@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
 | Fantasic Cube | 129763 | [129763-fantasic-cube.json](./129763-fantasic-cube.json) |
 | Fantasization | 68593 | [68593-fantasization.json](./68593-fantasization.json) |
+| Fantasteroids | 218588 | [218588-fantasteroids.json](./218588-fantasteroids.json) |
 | Fantastic 4 | 3914 | [3914-fantastic-4.json](./3914-fantastic-4.json) |
 | Fantastic 4 in a Row HD | 70407 | [70407-fantastic-4-in-a-row-hd.json](./70407-fantastic-4-in-a-row-hd.json) |
 | Fantastic Dizzy | 12089 | [12089-fantastic-dizzy.json](./12089-fantastic-dizzy.json) |
@@ -954,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feast: Book One - Family Ties | 137036 | [137036-feast-book-one-family-ties.json](./137036-feast-book-one-family-ties.json) |
 | FeastTower | 277298 | [277298-feasttower.json](./277298-feasttower.json) |
 | Feather | 107222 | [107222-feather.json](./107222-feather.json) |
+| Feather Park | 218569 | [218569-feather-park.json](./218569-feather-park.json) |
 | Featherbound | 294269 | [294269-featherbound.json](./294269-featherbound.json) |
 | Featherfall | 125367 | [125367-featherfall.json](./125367-featherfall.json) |
 | Featherfall | 129442 | [129442-featherfall.json](./129442-featherfall.json) |
@@ -3407,10 +3409,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrogFlop | 313295 | [313295-frogflop.json](./313295-frogflop.json) |
 | Froggee | 93020 | [93020-froggee.json](./93020-froggee.json) |
 | Frogger | 218439 | [218439-frogger.json](./218439-frogger.json) |
+| Frogger | 218554 | [218554-frogger.json](./218554-frogger.json) |
+| Frogger | 218557 | [218557-frogger.json](./218557-frogger.json) |
+| Frogger | 218558 | [218558-frogger.json](./218558-frogger.json) |
+| Frogger | 218559 | [218559-frogger.json](./218559-frogger.json) |
+| Frogger | 218560 | [218560-frogger.json](./218560-frogger.json) |
+| Frogger | 218561 | [218561-frogger.json](./218561-frogger.json) |
+| Frogger | 218566 | [218566-frogger.json](./218566-frogger.json) |
+| Frogger | 218567 | [218567-frogger.json](./218567-frogger.json) |
+| Frogger | 218568 | [218568-frogger.json](./218568-frogger.json) |
+| Frogger | 218571 | [218571-frogger.json](./218571-frogger.json) |
+| Frogger | 218572 | [218572-frogger.json](./218572-frogger.json) |
+| Frogger | 218573 | [218573-frogger.json](./218573-frogger.json) |
+| Frogger | 218574 | [218574-frogger.json](./218574-frogger.json) |
+| Frogger | 218576 | [218576-frogger.json](./218576-frogger.json) |
+| Frogger | 218577 | [218577-frogger.json](./218577-frogger.json) |
+| Frogger | 218578 | [218578-frogger.json](./218578-frogger.json) |
+| Frogger | 218579 | [218579-frogger.json](./218579-frogger.json) |
+| Frogger | 218580 | [218580-frogger.json](./218580-frogger.json) |
+| Frogger | 218581 | [218581-frogger.json](./218581-frogger.json) |
+| Frogger | 218590 | [218590-frogger.json](./218590-frogger.json) |
+| Frogger | 218591 | [218591-frogger.json](./218591-frogger.json) |
 | Frogger | 240485 | [240485-frogger.json](./240485-frogger.json) |
 | Frogger | 246398 | [246398-frogger.json](./246398-frogger.json) |
 | Frogger | 282741 | [282741-frogger.json](./282741-frogger.json) |
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
+| Frogger Evolution | 218547 | [218547-frogger-evolution.json](./218547-frogger-evolution.json) |
 | Frogger II: ThreeeDeep! | 11464 | [11464-frogger-ii-threeedeep.json](./11464-frogger-ii-threeedeep.json) |
 | Frogger Returns | 11484 | [11484-frogger-returns.json](./11484-frogger-returns.json) |
 | Frogger: The Great Quest | 11467 | [11467-frogger-the-great-quest.json](./11467-frogger-the-great-quest.json) |
