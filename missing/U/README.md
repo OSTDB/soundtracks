@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld Unfinished Business 1: Recruiting Demon Smalls | 252207 | [252207-underworld-unfinished-business-1-recruiting-demon-smalls.json](./252207-underworld-unfinished-business-1-recruiting-demon-smalls.json) |
 | Underworld Unfinished Business 2: Ghost Train at Castle Orr | 252218 | [252218-underworld-unfinished-business-2-ghost-train-at-castle-orr.json](./252218-underworld-unfinished-business-2-ghost-train-at-castle-orr.json) |
 | Underwurlde | 14588 | [14588-underwurlde.json](./14588-underwurlde.json) |
+| Undetected | 193334 | [193334-undetected.json](./193334-undetected.json) |
 | Undisputed | 146957 | [146957-undisputed.json](./146957-undisputed.json) |
 | Undisputed: Deluxe WBC Edition | 325656 | [325656-undisputed-deluxe-wbc-edition.json](./325656-undisputed-deluxe-wbc-edition.json) |
 | Undockable | 361782 | [361782-undockable.json](./361782-undockable.json) |
