@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Town | 278965 | [278965-odd-town.json](./278965-odd-town.json) |
 | Odd-mensional | 184117 | [184117-odd-mensional.json](./184117-odd-mensional.json) |
 | Odd\|\|Even | 33196 | [33196-odd-even.json](./33196-odd-even.json) |
+| Oddada | 204518 | [204518-oddada.json](./204518-oddada.json) |
 | Oddballz: Your Wacky Computer Petz | 78013 | [78013-oddballz-your-wacky-computer-petz.json](./78013-oddballz-your-wacky-computer-petz.json) |
 | Oddhop | 174368 | [174368-oddhop.json](./174368-oddhop.json) |
 | Oddinary Farm | 392291 | [392291-oddinary-farm.json](./392291-oddinary-farm.json) |
@@ -449,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ollam House | 128628 | [128628-ollam-house.json](./128628-ollam-house.json) |
 | Olli & Lissa 3: The Candlelight Adventure | 70920 | [70920-olli-and-lissa-3-the-candlelight-adventure.json](./70920-olli-and-lissa-3-the-candlelight-adventure.json) |
 | Ollie Ollie Oxen Free | 60010 | [60010-ollie-ollie-oxen-free.json](./60010-ollie-ollie-oxen-free.json) |
+| Olliefrog Toad Skater | 204522 | [204522-olliefrog-toad-skater.json](./204522-olliefrog-toad-skater.json) |
 | OlliOlli World: Close Encounter Skate Deck | 353282 | [353282-olliolli-world-close-encounter-skate-deck.json](./353282-olliolli-world-close-encounter-skate-deck.json) |
 | OlliOlli World: Expansion Pass | 293734 | [293734-olliolli-world-expansion-pass.json](./293734-olliolli-world-expansion-pass.json) |
 | OlliOlli World: Void Riders | 205034 | [205034-olliolli-world-void-riders.json](./205034-olliolli-world-void-riders.json) |
