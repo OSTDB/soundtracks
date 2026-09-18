@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
 | Genba no Kizuna | 235738 | [235738-genba-no-kizuna.json](./235738-genba-no-kizuna.json) |
 | Genbu's Favour | 322556 | [322556-genbus-favour.json](./322556-genbus-favour.json) |
+| Gendai Daisenryaku: Ultimate War | 231510 | [231510-gendai-daisenryaku-ultimate-war.json](./231510-gendai-daisenryaku-ultimate-war.json) |
 | Gender Dysphoria | 177502 | [177502-gender-dysphoria.json](./177502-gender-dysphoria.json) |
 | Genderman | 391600 | [391600-genderman.json](./391600-genderman.json) |
 | Gene | 35898 | [35898-gene.json](./35898-gene.json) |
@@ -1958,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
 | Graceful Flying Vehicle | 368548 | [368548-graceful-flying-vehicle.json](./368548-graceful-flying-vehicle.json) |
+| Graceward: Complete Edition | 231490 | [231490-graceward-complete-edition.json](./231490-graceward-complete-edition.json) |
 | Gracia | 301844 | [301844-gracia.json](./301844-gracia.json) |
 | Grackon's Curse | 117020 | [117020-grackons-curse.json](./117020-grackons-curse.json) |
 | Grade Sword | 245883 | [245883-grade-sword.json](./245883-grade-sword.json) |
@@ -2657,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess the Movie :- Funnier One | 23903 | [23903-guess-the-movie-funnier-one.json](./23903-guess-the-movie-funnier-one.json) |
 | Guess Where You Are | 320164 | [320164-guess-where-you-are.json](./320164-guess-where-you-are.json) |
 | Guessed It! | 408027 | [408027-guessed-it.json](./408027-guessed-it.json) |
+| Guessmoji | 231463 | [231463-guessmoji.json](./231463-guessmoji.json) |
 | Guest House | 313349 | [313349-guest-house.json](./313349-guest-house.json) |
 | Guest Rush | 342728 | [342728-guest-rush.json](./342728-guest-rush.json) |
 | Gui Chu Da Mao Xian | 369566 | [369566-gui-chu-da-mao-xian.json](./369566-gui-chu-da-mao-xian.json) |
