@@ -2843,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formic Fortress | 405590 | [405590-formic-fortress.json](./405590-formic-fortress.json) |
 | Formino | 175411 | [175411-formino.json](./175411-formino.json) |
 | Formless Star | 343872 | [343872-formless-star.json](./343872-formless-star.json) |
+| Formula 1 | 217961 | [217961-formula-1.json](./217961-formula-1.json) |
 | Formula 1 Simulator | 12998 | [12998-formula-1-simulator.json](./12998-formula-1-simulator.json) |
 | Formula 11 Mini Racing | 411563 | [411563-formula-11-mini-racing.json](./411563-formula-11-mini-racing.json) |
 | Formula 2D: Steer To Persevere | 212833 | [212833-formula-2d-steer-to-persevere.json](./212833-formula-2d-steer-to-persevere.json) |
@@ -3775,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FunPack: Mums | 177052 | [177052-funpack-mums.json](./177052-funpack-mums.json) |
 | Funset Studios | 269018 | [269018-funset-studios.json](./269018-funset-studios.json) |
 | Funtagy of Doskebe | 82907 | [82907-funtagy-of-doskebe.json](./82907-funtagy-of-doskebe.json) |
+| Funtime Furby | 217958 | [217958-funtime-furby.json](./217958-funtime-furby.json) |
 | Funtography: A Gameboy Cameradventure | 265229 | [265229-funtography-a-gameboy-cameradventure.json](./265229-funtography-a-gameboy-cameradventure.json) |
 | Funtoon's World | 51964 | [51964-funtoons-world.json](./51964-funtoons-world.json) |
 | FunTown Mahjong | 77280 | [77280-funtown-mahjong.json](./77280-funtown-mahjong.json) |
@@ -3908,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futari ha Pretty Cure Splash Star: Panpaka Game de Zekkou-chou! | 168329 | [168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json](./168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
 | Fútbol | 86007 | [86007-futbol.json](./86007-futbol.json) |
+| Fútbol Club Barcelona | 217959 | [217959-futbol-club-barcelona.json](./217959-futbol-club-barcelona.json) |
 | Futebol | 92984 | [92984-futebol.json](./92984-futebol.json) |
 | Futilitris | 138152 | [138152-futilitris.json](./138152-futilitris.json) |
 | Futuclass: Hydrogen & Oxygen | 170492 | [170492-futuclass-hydrogen-and-oxygen.json](./170492-futuclass-hydrogen-and-oxygen.json) |
