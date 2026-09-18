@@ -1526,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Chronicles HD Collection | 21068 | [21068-resident-evil-chronicles-hd-collection.json](./21068-resident-evil-chronicles-hd-collection.json) |
 | Resident Evil: Cold Blood | 222311 | [222311-resident-evil-cold-blood.json](./222311-resident-evil-cold-blood.json) |
 | Resident Evil: Deadly Silence | 20456 | [20456-resident-evil-deadly-silence.json](./20456-resident-evil-deadly-silence.json) |
+| Resident Evil: During the Storm | 216349 | [216349-resident-evil-during-the-storm.json](./216349-resident-evil-during-the-storm.json) |
 | Resident Evil: Grim Beginnings | 298036 | [298036-resident-evil-grim-beginnings.json](./298036-resident-evil-grim-beginnings.json) |
 | Resident Evil: Mortal Night | 185684 | [185684-resident-evil-mortal-night.json](./185684-resident-evil-mortal-night.json) |
 | Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 1 | 143001 | [143001-resident-evil-operation-raccoon-city-echo-six-expansion-pack-1.json](./143001-resident-evil-operation-raccoon-city-echo-six-expansion-pack-1.json) |
@@ -3607,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RWSD | 352286 | [352286-rwsd.json](./352286-rwsd.json) |
 | RX10-40 | 324312 | [324312-rx10-40.json](./324312-rx10-40.json) |
 | RXN: Raijin | 77386 | [77386-rxn-raijin.json](./77386-rxn-raijin.json) |
+| Ryan Veeder's Authentic Fly Fishing | 216330 | [216330-ryan-veeders-authentic-fly-fishing.json](./216330-ryan-veeders-authentic-fly-fishing.json) |
 | Ryan's Pack | 131602 | [131602-ryans-pack.json](./131602-ryans-pack.json) |
 | Ryan's Rescue Squad | 185704 | [185704-ryans-rescue-squad.json](./185704-ryans-rescue-squad.json) |
 | RYB | 17993 | [17993-ryb.json](./17993-ryb.json) |
