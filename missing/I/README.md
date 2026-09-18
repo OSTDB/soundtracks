@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islanders: New Shores | 333961 | [333961-islanders-new-shores.json](./333961-islanders-new-shores.json) |
 | Islanders: VR Edition | 260703 | [260703-islanders-vr-edition.json](./260703-islanders-vr-edition.json) |
 | Islandia | 92478 | [92478-islandia.json](./92478-islandia.json) |
+| IslandPop Photo | 185553 | [185553-islandpop-photo.json](./185553-islandpop-photo.json) |
 | Islands and Ships logic puzzle | 232048 | [232048-islands-and-ships-logic-puzzle.json](./232048-islands-and-ships-logic-puzzle.json) |
 | Islands of Insight | 212652 | [212652-islands-of-insight.json](./212652-islands-of-insight.json) |
 | Islands of Wakfu | 22947 | [22947-islands-of-wakfu.json](./22947-islands-of-wakfu.json) |
