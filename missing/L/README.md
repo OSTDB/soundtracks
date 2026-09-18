@@ -2210,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Epic | 150168 | [150168-lost-epic.json](./150168-lost-epic.json) |
 | Lost Everything: Chapter 1 | 299161 | [299161-lost-everything-chapter-1.json](./299161-lost-everything-chapter-1.json) |
 | Lost Existence | 126912 | [126912-lost-existence.json](./126912-lost-existence.json) |
+| Lost Fleet | 218589 | [218589-lost-fleet.json](./218589-lost-fleet.json) |
 | Lost For Swords | 274511 | [274511-lost-for-swords.json](./274511-lost-for-swords.json) |
 | Lost Forest | 256920 | [256920-lost-forest.json](./256920-lost-forest.json) |
 | Lost Friends | 393621 | [393621-lost-friends.json](./393621-lost-friends.json) |
