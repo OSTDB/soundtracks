@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiniwar | 312750 | [312750-infiniwar.json](./312750-infiniwar.json) |
 | Infinos Exa | 316072 | [316072-infinos-exa.json](./316072-infinos-exa.json) |
 | Inflate Me to the Moon | 177494 | [177494-inflate-me-to-the-moon.json](./177494-inflate-me-to-the-moon.json) |
+| Inflation RPG | 208481 | [208481-inflation-rpg.json](./208481-inflation-rpg.json) |
 | Inflorescences | 249217 | [249217-inflorescences.json](./249217-inflorescences.json) |
 | Influence | 210032 | [210032-influence.json](./210032-influence.json) |
 | Influenced | 179675 | [179675-influenced.json](./179675-influenced.json) |
