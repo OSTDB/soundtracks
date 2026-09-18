@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink & Paper: DoodleCut - Space DLC | 385180 | [385180-ink-and-paper-doodlecut-space-dlc.json](./385180-ink-and-paper-doodlecut-space-dlc.json) |
 | Ink Adventure | 335327 | [335327-ink-adventure.json](./335327-ink-adventure.json) |
 | Ink and Intrigue | 340753 | [340753-ink-and-intrigue.json](./340753-ink-and-intrigue.json) |
+| Ink and Paper: Wandering | 190071 | [190071-ink-and-paper-wandering.json](./190071-ink-and-paper-wandering.json) |
 | Ink Hero | 335331 | [335331-ink-hero.json](./335331-ink-hero.json) |
 | Ink of Fate | 278970 | [278970-ink-of-fate.json](./278970-ink-of-fate.json) |
 | Ink Paper Minesweeper: L'animal dans la décoration Free Pack | 336346 | [336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json](./336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json) |
@@ -1887,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Sucks to Be Us | 397062 | [397062-it-sucks-to-be-us.json](./397062-it-sucks-to-be-us.json) |
 | It sucks, y'know | 302661 | [302661-it-sucks-yknow.json](./302661-it-sucks-yknow.json) |
 | It Takes Many | 370188 | [370188-it-takes-many.json](./370188-it-takes-many.json) |
+| It Takes Two Girls | 190073 | [190073-it-takes-two-girls.json](./190073-it-takes-two-girls.json) |
 | It Takes Two to Tangle | 321129 | [321129-it-takes-two-to-tangle.json](./321129-it-takes-two-to-tangle.json) |
 | It Was You | 333019 | [333019-it-was-you.json](./333019-it-was-you.json) |
 | It Will Find You | 124207 | [124207-it-will-find-you.json](./124207-it-will-find-you.json) |
