@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-Grav: Clash | 263222 | [263222-z-grav-clash.json](./263222-z-grav-clash.json) |
 | Z-MMO | 55919 | [55919-z-mmo.json](./55919-z-mmo.json) |
 | Z-Rush Survival | 191818 | [191818-z-rush-survival.json](./191818-z-rush-survival.json) |
+| Z-Warp | 192278 | [192278-z-warp.json](./192278-z-warp.json) |
 | Z: Escape | 99647 | [99647-z-escape.json](./99647-z-escape.json) |
 | Z: Steel Soldiers | 3276 | [3276-z-steel-soldiers.json](./3276-z-steel-soldiers.json) |
 | Z.A.T.O.: I Love the World and Everything In It | 376847 | [376847-z-a-t-o-i-love-the-world-and-everything-in-it.json](./376847-z-a-t-o-i-love-the-world-and-everything-in-it.json) |
@@ -384,9 +385,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Builder Defense | 111211 | [111211-zombie-builder-defense.json](./111211-zombie-builder-defense.json) |
 | Zombie Builder Defense 2 | 239766 | [239766-zombie-builder-defense-2.json](./239766-zombie-builder-defense-2.json) |
 | Zombie Buster VR | 28886 | [28886-zombie-buster-vr.json](./28886-zombie-buster-vr.json) |
+| Zombie City | 192275 | [192275-zombie-city.json](./192275-zombie-city.json) |
 | Zombie City | 377132 | [377132-zombie-city.json](./377132-zombie-city.json) |
 | Zombie Clicker Defense | 83526 | [83526-zombie-clicker-defense.json](./83526-zombie-clicker-defense.json) |
 | Zombie Crisis | 292119 | [292119-zombie-crisis.json](./292119-zombie-crisis.json) |
+| Zombie Crush Driver | 192283 | [192283-zombie-crush-driver.json](./192283-zombie-crush-driver.json) |
 | Zombie Dash | 377133 | [377133-zombie-dash.json](./377133-zombie-dash.json) |
 | Zombie Dead Smasher Shooter: Premium Edition | 283163 | [283163-zombie-dead-smasher-shooter-premium-edition.json](./283163-zombie-dead-smasher-shooter-premium-edition.json) |
 | Zombie Defense: Emerald Edition | 400206 | [400206-zombie-defense-emerald-edition.json](./400206-zombie-defense-emerald-edition.json) |
