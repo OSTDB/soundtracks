@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Americas Greatest Games | 206113 | [206113-americas-greatest-games.json](./206113-americas-greatest-games.json) |
 | Americas Tower Simulator | 224756 | [224756-americas-tower-simulator.json](./224756-americas-tower-simulator.json) |
 | Amerzone: The Explorer's Legacy - Limited Edition | 292145 | [292145-amerzone-the-explorers-legacy-limited-edition.json](./292145-amerzone-the-explorers-legacy-limited-edition.json) |
+| Amethyst Hearth | 194410 | [194410-amethyst-hearth.json](./194410-amethyst-hearth.json) |
 | Ametrine Dreams | 382192 | [382192-ametrine-dreams.json](./382192-ametrine-dreams.json) |
 | AMF Bowling | 206115 | [206115-amf-bowling.json](./206115-amf-bowling.json) |
 | AMF Bowling 2004 | 5723 | [5723-amf-bowling-2004.json](./5723-amf-bowling-2004.json) |
