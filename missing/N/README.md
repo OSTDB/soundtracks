@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko-sama no Kominka kara no Dasshutsu | 260689 | [260689-neko-sama-no-kominka-kara-no-dasshutsu.json](./260689-neko-sama-no-kominka-kara-no-dasshutsu.json) |
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
 | Nekobabaa: Melonbooks Omake Tokubetsu-hen | 212253 | [212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json](./212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json) |
+| NekoChan Hero Collection | 210754 | [210754-nekochan-hero-collection.json](./210754-nekochan-hero-collection.json) |
 | Nekoglai Simulator | 193409 | [193409-nekoglai-simulator.json](./193409-nekoglai-simulator.json) |
 | Nekoman | 97829 | [97829-nekoman.json](./97829-nekoman.json) |
 | Nekomancy | 213440 | [213440-nekomancy.json](./213440-nekomancy.json) |
@@ -1481,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Rabbit | 214491 | [214491-ninja-rabbit.json](./214491-ninja-rabbit.json) |
 | Ninja Remix 16 | 59986 | [59986-ninja-remix-16.json](./59986-ninja-remix-16.json) |
 | Ninja Rinseout | 323358 | [323358-ninja-rinseout.json](./323358-ninja-rinseout.json) |
+| Ninja Run | 210750 | [210750-ninja-run.json](./210750-ninja-run.json) |
 | Ninja Runner | 233234 | [233234-ninja-runner.json](./233234-ninja-runner.json) |
 | Ninja Savior | 268496 | [268496-ninja-savior.json](./268496-ninja-savior.json) |
 | Ninja Senki | 92465 | [92465-ninja-senki.json](./92465-ninja-senki.json) |
@@ -1794,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noel the Mortal Fate: Season Final Part 2 | 259092 | [259092-noel-the-mortal-fate-season-final-part-2.json](./259092-noel-the-mortal-fate-season-final-part-2.json) |
 | Noel's Hope | 113703 | [113703-noels-hope.json](./113703-noels-hope.json) |
 | Noelia | 325085 | [325085-noelia.json](./325085-noelia.json) |
+| Noelle Does Her Best! | 210717 | [210717-noelle-does-her-best.json](./210717-noelle-does-her-best.json) |
 | Noema | 403695 | [403695-noema.json](./403695-noema.json) |
 | Nofland Story | 220304 | [220304-nofland-story.json](./220304-nofland-story.json) |
 | Nofsky Zombies | 235838 | [235838-nofsky-zombies.json](./235838-nofsky-zombies.json) |
