@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cafe at the End of the World | 389588 | [389588-a-cafe-at-the-end-of-the-world.json](./389588-a-cafe-at-the-end-of-the-world.json) |
 | A Café Couple's Joyful Life of Resistance | 343239 | [343239-a-cafe-couples-joyful-life-of-resistance.json](./343239-a-cafe-couples-joyful-life-of-resistance.json) |
 | A Cairn Tale | 251001 | [251001-a-cairn-tale.json](./251001-a-cairn-tale.json) |
+| A Car That Turns | 205084 | [205084-a-car-that-turns.json](./205084-a-car-that-turns.json) |
 | A Case for Cap & Co | 242642 | [242642-a-case-for-cap-and-co.json](./242642-a-case-for-cap-and-co.json) |
 | A Cat & His Boy | 295390 | [295390-a-cat-and-his-boy.json](./295390-a-cat-and-his-boy.json) |
 | A Cat Cafe Story | 183047 | [183047-a-cat-cafe-story.json](./183047-a-cat-cafe-story.json) |
@@ -1209,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Jigsaw: Wonderland 2 | 102816 | [102816-alices-jigsaw-wonderland-2.json](./102816-alices-jigsaw-wonderland-2.json) |
 | Alice's Jigsaw: Wonderland Chronicles | 286516 | [286516-alices-jigsaw-wonderland-chronicles.json](./286516-alices-jigsaw-wonderland-chronicles.json) |
 | Alice's Jigsaw: Wonderland Chronicles 2 | 286517 | [286517-alices-jigsaw-wonderland-chronicles-2.json](./286517-alices-jigsaw-wonderland-chronicles-2.json) |
+| Alice's Magical Mahjong | 205118 | [205118-alices-magical-mahjong.json](./205118-alices-magical-mahjong.json) |
 | Alice's Mergeland Adventure | 220223 | [220223-alices-mergeland-adventure.json](./220223-alices-mergeland-adventure.json) |
 | Alice's Warped Wonderland | 145633 | [145633-alices-warped-wonderland.json](./145633-alices-warped-wonderland.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
@@ -1324,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliex | 14244 | [14244-aliex.json](./14244-aliex.json) |
 | Alight: Lunar Survival | 215780 | [215780-alight-lunar-survival.json](./215780-alight-lunar-survival.json) |
 | Align 12 | 242662 | [242662-align-12.json](./242662-align-12.json) |
+| Aligned | 205115 | [205115-aligned.json](./205115-aligned.json) |
 | Alik: Gry i zabawy | 188569 | [188569-alik-gry-i-zabawy.json](./188569-alik-gry-i-zabawy.json) |
 | Alik: Juz Ide Do Szkoly | 188561 | [188561-alik-juz-ide-do-szkoly.json](./188561-alik-juz-ide-do-szkoly.json) |
 | Aline | 127978 | [127978-aline.json](./127978-aline.json) |
@@ -1357,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Contact Lost | 68590 | [68590-all-contact-lost.json](./68590-all-contact-lost.json) |
 | All Cossacks and American Conquest | 144965 | [144965-all-cossacks-and-american-conquest.json](./144965-all-cossacks-and-american-conquest.json) |
 | All Doe's Life | 301283 | [301283-all-does-life.json](./301283-all-does-life.json) |
+| All Dogs Go to Heaven: Activity Center | 205117 | [205117-all-dogs-go-to-heaven-activity-center.json](./205117-all-dogs-go-to-heaven-activity-center.json) |
 | All Dream Long A Flower Storm | 164999 | [164999-all-dream-long-a-flower-storm.json](./164999-all-dream-long-a-flower-storm.json) |
 | All Elite Wresting: Fight Forever - Giant Swing in the Ring | 287119 | [287119-all-elite-wresting-fight-forever-giant-swing-in-the-ring.json](./287119-all-elite-wresting-fight-forever-giant-swing-in-the-ring.json) |
 | All Elite Wrestling: Fight Forever - Elite Beats and Stampede Expansion | 301012 | [301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json](./301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json) |
@@ -1438,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Will Fall | 328273 | [328273-all-will-fall.json](./328273-all-will-fall.json) |
 | All Your Creeps | 65438 | [65438-all-your-creeps.json](./65438-all-your-creeps.json) |
 | All Zombies Must Die! | 9971 | [9971-all-zombies-must-die.json](./9971-all-zombies-must-die.json) |
+| All-American College Football | 205116 | [205116-all-american-college-football.json](./205116-all-american-college-football.json) |
 | All-in-One Mahjong 2 | 89225 | [89225-all-in-one-mahjong-2.json](./89225-all-in-one-mahjong-2.json) |
 | All-Mountain Hucker | 283908 | [283908-all-mountain-hucker.json](./283908-all-mountain-hucker.json) |
 | All-Pro Football 2K8 | 5481 | [5481-all-pro-football-2k8.json](./5481-all-pro-football-2k8.json) |
@@ -3318,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Brigade | 109035 | [109035-armored-brigade.json](./109035-armored-brigade.json) |
 | Armored Brigade Nation Pack: France - Belgium | 155059 | [155059-armored-brigade-nation-pack-france-belgium.json](./155059-armored-brigade-nation-pack-france-belgium.json) |
 | Armored Brigade Nation Pack: Italy - Yugoslavia | 155058 | [155058-armored-brigade-nation-pack-italy-yugoslavia.json](./155058-armored-brigade-nation-pack-italy-yugoslavia.json) |
+| Armored Combat Tank Warfare Online | 205083 | [205083-armored-combat-tank-warfare-online.json](./205083-armored-combat-tank-warfare-online.json) |
 | Armored Core 2 | 31719 | [31719-armored-core-2.json](./31719-armored-core-2.json) |
 | Armored Core 2: Another Age | 46029 | [46029-armored-core-2-another-age.json](./46029-armored-core-2-another-age.json) |
 | Armored Core 4 | 5491 | [5491-armored-core-4.json](./5491-armored-core-4.json) |
@@ -3921,6 +3927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
 | AstroRunner | 272858 | [272858-astrorunner.json](./272858-astrorunner.json) |
 | Astroswarm | 276701 | [276701-astroswarm.json](./276701-astroswarm.json) |
+| Astrosweeper Mini | 205105 | [205105-astrosweeper-mini.json](./205105-astrosweeper-mini.json) |
 | Astrotester | 258016 | [258016-astrotester.json](./258016-astrotester.json) |
 | Astrotit | 93074 | [93074-astrotit.json](./93074-astrotit.json) |
 | Astround | 342049 | [342049-astround.json](./342049-astround.json) |
