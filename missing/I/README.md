@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Cat | 303244 | [303244-i-am-cat.json](./303244-i-am-cat.json) |
 | I Am Coin | 388739 | [388739-i-am-coin.json](./388739-i-am-coin.json) |
 | I am Dave | 255716 | [255716-i-am-dave.json](./255716-i-am-dave.json) |
+| I Am Die | 217381 | [217381-i-am-die.json](./217381-i-am-die.json) |
 | I Am Dog | 296918 | [296918-i-am-dog.json](./296918-i-am-dog.json) |
 | I am Dog(s) | 182512 | [182512-i-am-dog-s.json](./182512-i-am-dog-s.json) |
 | I Am Fish | 125431 | [125431-i-am-fish.json](./125431-i-am-fish.json) |
@@ -1839,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Lives Within | 300413 | [300413-it-lives-within.json](./300413-it-lives-within.json) |
 | It Lurks Below | 85662 | [85662-it-lurks-below.json](./85662-it-lurks-below.json) |
 | It Pays to Be a Winner | 122410 | [122410-it-pays-to-be-a-winner.json](./122410-it-pays-to-be-a-winner.json) |
+| It Sleeps Below the Haar | 217396 | [217396-it-sleeps-below-the-haar.json](./217396-it-sleeps-below-the-haar.json) |
 | IT Specialist Simulator | 346606 | [346606-it-specialist-simulator.json](./346606-it-specialist-simulator.json) |
 | It sucks to be a succulent | 179668 | [179668-it-sucks-to-be-a-succulent.json](./179668-it-sucks-to-be-a-succulent.json) |
 | It Sucks to Be Us | 397062 | [397062-it-sucks-to-be-us.json](./397062-it-sucks-to-be-us.json) |
