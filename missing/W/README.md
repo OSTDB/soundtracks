@@ -2162,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordban | 319358 | [319358-wordban.json](./319358-wordban.json) |
 | Wordbase | 86060 | [86060-wordbase.json](./86060-wordbase.json) |
 | WordBrain | 58214 | [58214-wordbrain.json](./58214-wordbrain.json) |
+| Wordbreaker by Powgi | 196176 | [196176-wordbreaker-by-powgi.json](./196176-wordbreaker-by-powgi.json) |
 | WordCrasher | 87702 | [87702-wordcrasher.json](./87702-wordcrasher.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
 | WordHive | 411569 | [411569-wordhive.json](./411569-wordhive.json) |
@@ -2459,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Goes to Hell | 216820 | [216820-worm-goes-to-hell.json](./216820-worm-goes-to-hell.json) |
 | Worm Nom Nom | 182978 | [182978-worm-nom-nom.json](./182978-worm-nom-nom.json) |
 | Worm Odyssey | 275914 | [275914-worm-odyssey.json](./275914-worm-odyssey.json) |
+| Worm Run | 196173 | [196173-worm-run.json](./196173-worm-run.json) |
 | Worm Runner | 207354 | [207354-worm-runner.json](./207354-worm-runner.json) |
 | Worm Visitor | 210645 | [210645-worm-visitor.json](./210645-worm-visitor.json) |
 | Worm War: Greengrocer | 290420 | [290420-worm-war-greengrocer.json](./290420-worm-war-greengrocer.json) |
@@ -2484,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms: The Revolution Collection | 44577 | [44577-worms-the-revolution-collection.json](./44577-worms-the-revolution-collection.json) |
 | Worms: Ultimate Mayhem - Customization Pack | 225090 | [225090-worms-ultimate-mayhem-customization-pack.json](./225090-worms-ultimate-mayhem-customization-pack.json) |
 | Wormswarm | 275344 | [275344-wormswarm.json](./275344-wormswarm.json) |
+| Wormventures: Barrier 51 | 196132 | [196132-wormventures-barrier-51.json](./196132-wormventures-barrier-51.json) |
 | WormWar | 107121 | [107121-wormwar.json](./107121-wormwar.json) |
 | Wormwood | 216819 | [216819-wormwood.json](./216819-wormwood.json) |
 | Wormwood | 274728 | [274728-wormwood.json](./274728-wormwood.json) |
