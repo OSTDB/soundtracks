@@ -2970,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Colosseum Double Battle Card e+: 13-P002 - Snatch-dan no Gaku | 355523 | [355523-pokemon-colosseum-double-battle-card-e-13-p002-snatch-dan-no-gaku.json](./355523-pokemon-colosseum-double-battle-card-e-13-p002-snatch-dan-no-gaku.json) |
 | Pokémon Cross Stadium | 281394 | [281394-pokemon-cross-stadium.json](./281394-pokemon-cross-stadium.json) |
 | Pokémon Crystal 251 | 312377 | [312377-pokemon-crystal-251.json](./312377-pokemon-crystal-251.json) |
+| Pokémon Crystal Kaizo | 210705 | [210705-pokemon-crystal-kaizo.json](./210705-pokemon-crystal-kaizo.json) |
 | Pokémon Cyan | 129814 | [129814-pokemon-cyan.json](./129814-pokemon-cyan.json) |
 | Pokémon Daybreak | 241389 | [241389-pokemon-daybreak.json](./241389-pokemon-daybreak.json) |
 | Pokemon Daycare | 264130 | [264130-pokemon-daycare.json](./264130-pokemon-daycare.json) |
@@ -4473,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
 | Proto_1987_01_IT | 339817 | [339817-proto-1987-01-it.json](./339817-proto-1987-01-it.json) |
 | ProtoBound | 333099 | [333099-protobound.json](./333099-protobound.json) |
+| Protocol Aftertime | 210751 | [210751-protocol-aftertime.json](./210751-protocol-aftertime.json) |
 | Protocol Bound | 410964 | [410964-protocol-bound.json](./410964-protocol-bound.json) |
 | Protocol Endfall | 159834 | [159834-protocol-endfall.json](./159834-protocol-endfall.json) |
 | Protocol Last Life | 112369 | [112369-protocol-last-life.json](./112369-protocol-last-life.json) |
