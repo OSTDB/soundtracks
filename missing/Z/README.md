@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
 | Zero Lilium Bloom | 245871 | [245871-zero-lilium-bloom.json](./245871-zero-lilium-bloom.json) |
 | Zero Losses | 204544 | [204544-zero-losses.json](./204544-zero-losses.json) |
+| Zero Memory | 185532 | [185532-zero-memory.json](./185532-zero-memory.json) |
 | Zero no Tsukaima: Ko-akuma to Harukaze no Concerto | 72685 | [72685-zero-no-tsukaima-ko-akuma-to-harukaze-no-concerto.json](./72685-zero-no-tsukaima-ko-akuma-to-harukaze-no-concerto.json) |
 | Zero no Tsukaima: Muma ga Tsumugu Yokaze no Gensoukyoku | 72642 | [72642-zero-no-tsukaima-muma-ga-tsumugu-yokaze-no-gensoukyoku.json](./72642-zero-no-tsukaima-muma-ga-tsumugu-yokaze-no-gensoukyoku.json) |
 | Zero Ops | 213626 | [213626-zero-ops.json](./213626-zero-ops.json) |
