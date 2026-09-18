@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
 | Nabi | 320551 | [320551-nabi.json](./320551-nabi.json) |
 | Nabokos | 185140 | [185140-nabokos.json](./185140-nabokos.json) |
+| Nachkriegsratten Punk-Rock Puzzle | 203300 | [203300-nachkriegsratten-punk-rock-puzzle.json](./203300-nachkriegsratten-punk-rock-puzzle.json) |
 | Nacho Trave vs. Joako Tronico | 323357 | [323357-nacho-trave-vs-joako-tronico.json](./323357-nacho-trave-vs-joako-tronico.json) |
 | NachoCado | 246084 | [246084-nachocado.json](./246084-nachocado.json) |
 | Nack the Weasel | 330721 | [330721-nack-the-weasel.json](./330721-nack-the-weasel.json) |
@@ -1621,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitrous Fury | 385085 | [385085-nitrous-fury.json](./385085-nitrous-fury.json) |
 | Niva | 341480 | [341480-niva.json](./341480-niva.json) |
 | Niva | 97303 | [97303-niva.json](./97303-niva.json) |
+| Nivalis Nights | 203301 | [203301-nivalis-nights.json](./203301-nivalis-nights.json) |
 | Nivoz Running Canned | 244249 | [244249-nivoz-running-canned.json](./244249-nivoz-running-canned.json) |
 | Nixie | 267690 | [267690-nixie.json](./267690-nixie.json) |
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
@@ -2088,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Corps | 187519 | [187519-nuclear-corps.json](./187519-nuclear-corps.json) |
 | Nuclear Creatures | 288338 | [288338-nuclear-creatures.json](./288338-nuclear-creatures.json) |
 | Nuclear Day | 223996 | [223996-nuclear-day.json](./223996-nuclear-day.json) |
+| Nuclear Empire | 203296 | [203296-nuclear-empire.json](./203296-nuclear-empire.json) |
 | Nuclear Engineer Tycoon | 414331 | [414331-nuclear-engineer-tycoon.json](./414331-nuclear-engineer-tycoon.json) |
 | Nuclear Gladiators 3000 | 273447 | [273447-nuclear-gladiators-3000.json](./273447-nuclear-gladiators-3000.json) |
 | Nuclear Inc 2 | 100862 | [100862-nuclear-inc-2.json](./100862-nuclear-inc-2.json) |
