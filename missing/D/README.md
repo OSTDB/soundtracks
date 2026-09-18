@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil in the Details | 103959 | [103959-devil-in-the-details.json](./103959-devil-in-the-details.json) |
 | Devil in the Pines | 67598 | [67598-devil-in-the-pines.json](./67598-devil-in-the-pines.json) |
 | Devil Jam | 291855 | [291855-devil-jam.json](./291855-devil-jam.json) |
+| Devil Legion: Battle war | 193889 | [193889-devil-legion-battle-war.json](./193889-devil-legion-battle-war.json) |
 | Devil Mail | 318758 | [318758-devil-mail.json](./318758-devil-mail.json) |
 | Devil May Cry | 302712 | [302712-devil-may-cry.json](./302712-devil-may-cry.json) |
 | Devil May Cry 2 | 135 | [135-devil-may-cry-2.json](./135-devil-may-cry-2.json) |
@@ -5052,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Vending Machines | 322170 | [322170-dungeon-vending-machines.json](./322170-dungeon-vending-machines.json) |
 | Dungeon Vixens: A Tale of Temptation | 278985 | [278985-dungeon-vixens-a-tale-of-temptation.json](./278985-dungeon-vixens-a-tale-of-temptation.json) |
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
+| Dungeon Ward | 193851 | [193851-dungeon-ward.json](./193851-dungeon-ward.json) |
 | Dungeon Watchers | 319213 | [319213-dungeon-watchers.json](./319213-dungeon-watchers.json) |
 | Dungeon Weiqi | 348843 | [348843-dungeon-weiqi.json](./348843-dungeon-weiqi.json) |
 | Dungeon Within | 400992 | [400992-dungeon-within.json](./400992-dungeon-within.json) |
