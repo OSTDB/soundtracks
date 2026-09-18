@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salmon Run | 69800 | [69800-salmon-run.json](./69800-salmon-run.json) |
 | Salomónico | 304219 | [304219-salomonico.json](./304219-salomonico.json) |
 | Saloon Showdown VR | 68591 | [68591-saloon-showdown-vr.json](./68591-saloon-showdown-vr.json) |
+| Saloon Simulator | 211782 | [211782-saloon-simulator.json](./211782-saloon-simulator.json) |
 | Saloon VR | 118356 | [118356-saloon-vr.json](./118356-saloon-vr.json) |
 | Salt | 171556 | [171556-salt.json](./171556-salt.json) |
 | Salt 2: Shores of Gold | 151169 | [151169-salt-2-shores-of-gold.json](./151169-salt-2-shores-of-gold.json) |
@@ -1233,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasonal Affectiveness Disorder | 260789 | [260789-seasonal-affectiveness-disorder.json](./260789-seasonal-affectiveness-disorder.json) |
 | Seasonaut | 384671 | [384671-seasonaut.json](./384671-seasonaut.json) |
 | Seasons of Chiba | 351636 | [351636-seasons-of-chiba.json](./351636-seasons-of-chiba.json) |
+| Seasons of Courage | 211786 | [211786-seasons-of-courage.json](./211786-seasons-of-courage.json) |
 | Seasons of Solitude | 358366 | [358366-seasons-of-solitude.json](./358366-seasons-of-solitude.json) |
 | Seasons of War | 58746 | [58746-seasons-of-war.json](./58746-seasons-of-war.json) |
 | Seasons Pairs | 96030 | [96030-seasons-pairs.json](./96030-seasons-pairs.json) |
@@ -5969,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Invaders | 45311 | [45311-spectral-invaders.json](./45311-spectral-invaders.json) |
 | Spectral Keep | 258557 | [258557-spectral-keep.json](./258557-spectral-keep.json) |
 | Spectral Shades: Fragments | 191199 | [191199-spectral-shades-fragments.json](./191199-spectral-shades-fragments.json) |
+| Spectral Showdown | 211799 | [211799-spectral-showdown.json](./211799-spectral-showdown.json) |
 | Spectral Souls: Resurrection of the Ethereal Empires | 44519 | [44519-spectral-souls-resurrection-of-the-ethereal-empires.json](./44519-spectral-souls-resurrection-of-the-ethereal-empires.json) |
 | Spectral Survivor | 307581 | [307581-spectral-survivor.json](./307581-spectral-survivor.json) |
 | SpectralClimb | 271281 | [271281-spectralclimb.json](./271281-spectralclimb.json) |
@@ -7517,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Outpost Commander | 292325 | [292325-stellar-outpost-commander.json](./292325-stellar-outpost-commander.json) |
 | Stellar Overload | 25570 | [25570-stellar-overload.json](./25570-stellar-overload.json) |
 | Stellar Poetry | 333954 | [333954-stellar-poetry.json](./333954-stellar-poetry.json) |
+| Stellar Propeller | 211788 | [211788-stellar-propeller.json](./211788-stellar-propeller.json) |
 | Stellar Renegades | 179699 | [179699-stellar-renegades.json](./179699-stellar-renegades.json) |
 | Stellar Return | 311275 | [311275-stellar-return.json](./311275-stellar-return.json) |
 | Stellar Scrapm'n | 369009 | [369009-stellar-scrapmn.json](./369009-stellar-scrapmn.json) |
@@ -8210,6 +8214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stylist Girl: Sunny Edition | 317242 | [317242-stylist-girl-sunny-edition.json](./317242-stylist-girl-sunny-edition.json) |
 | Styx VR DrumSim | 130296 | [130296-styx-vr-drumsim.json](./130296-styx-vr-drumsim.json) |
 | Su Hack | 111002 | [111002-su-hack.json](./111002-su-hack.json) |
+| SU the Son of Gaia | 211795 | [211795-su-the-son-of-gaia.json](./211795-su-the-son-of-gaia.json) |
 | Su-27 Flanker | 22621 | [22621-su-27-flanker.json](./22621-su-27-flanker.json) |
 | Sub Battle Simulator | 37162 | [37162-sub-battle-simulator.json](./37162-sub-battle-simulator.json) |
 | Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
