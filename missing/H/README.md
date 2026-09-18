@@ -120,6 +120,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki: Kyoto Winds - Winds Treasure Box | 168905 | [168905-hakuoki-kyoto-winds-winds-treasure-box.json](./168905-hakuoki-kyoto-winds-winds-treasure-box.json) |
 | Hakuoki: Stories of the Shinsengumi | 44565 | [44565-hakuoki-stories-of-the-shinsengumi.json](./44565-hakuoki-stories-of-the-shinsengumi.json) |
 | Hakuoki: Warriors of the Shinsengumi | 44525 | [44525-hakuoki-warriors-of-the-shinsengumi.json](./44525-hakuoki-warriors-of-the-shinsengumi.json) |
+| Hakurei Frontier | 225725 | [225725-hakurei-frontier.json](./225725-hakurei-frontier.json) |
+| Hakurei Frontier Spell Strive | 225728 | [225728-hakurei-frontier-spell-strive.json](./225728-hakurei-frontier-spell-strive.json) |
 | Halcyon Days | 274472 | [274472-halcyon-days.json](./274472-halcyon-days.json) |
 | Halcyon: The WaveBorn | 259053 | [259053-halcyon-the-waveborn.json](./259053-halcyon-the-waveborn.json) |
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
@@ -3334,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
 | Hv Rebellion | 184568 | [184568-hv-rebellion.json](./184568-hv-rebellion.json) |
 | HVRGun | 29707 | [29707-hvrgun.json](./29707-hvrgun.json) |
+| Hyacinth | 225747 | [225747-hyacinth.json](./225747-hyacinth.json) |
 | Hyacinthus | 120942 | [120942-hyacinthus.json](./120942-hyacinthus.json) |
 | Hyakkano: 100 Girlfriends | 408167 | [408167-hyakkano-100-girlfriends.json](./408167-hyakkano-100-girlfriends.json) |
 | Hyakki Yako Survivor | 331332 | [331332-hyakki-yako-survivor.json](./331332-hyakki-yako-survivor.json) |
