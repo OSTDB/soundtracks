@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Hope Redemption | 34439 | [34439-lands-of-hope-redemption.json](./34439-lands-of-hope-redemption.json) |
 | Lands of Languages | 299151 | [299151-lands-of-languages.json](./299151-lands-of-languages.json) |
 | Lands of Peace: Legends - Chapter 1 | 168864 | [168864-lands-of-peace-legends-chapter-1.json](./168864-lands-of-peace-legends-chapter-1.json) |
+| Lands of Rage | 211821 | [211821-lands-of-rage.json](./211821-lands-of-rage.json) |
 | Landscaper Simulator | 406691 | [406691-landscaper-simulator.json](./406691-landscaper-simulator.json) |
 | Landshay: Event Night | 186348 | [186348-landshay-event-night.json](./186348-landshay-event-night.json) |
 | Lane of the Eternal Night | 406207 | [406207-lane-of-the-eternal-night.json](./406207-lane-of-the-eternal-night.json) |
@@ -1157,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewd Delivery | 235352 | [235352-lewd-delivery.json](./235352-lewd-delivery.json) |
 | Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
 | Lewdle | 197867 | [197867-lewdle.json](./197867-lewdle.json) |
+| Lewis & Clark Expedition | 211781 | [211781-lewis-and-clark-expedition.json](./211781-lewis-and-clark-expedition.json) |
 | Lewis Quest | 337085 | [337085-lewis-quest.json](./337085-lewis-quest.json) |
 | Lexibble | 305344 | [305344-lexibble.json](./305344-lexibble.json) |
 | Lexicon | 287757 | [287757-lexicon.json](./287757-lexicon.json) |
@@ -1313,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light of Atlantis | 253915 | [253915-light-of-atlantis.json](./253915-light-of-atlantis.json) |
 | Light Of Chaos | 304361 | [304361-light-of-chaos.json](./304361-light-of-chaos.json) |
 | Light of Gallery | 115596 | [115596-light-of-gallery.json](./115596-light-of-gallery.json) |
+| Light of Life | 211818 | [211818-light-of-life.json](./211818-light-of-life.json) |
 | Light of Motiram | 323536 | [323536-light-of-motiram.json](./323536-light-of-motiram.json) |
 | Light of Reversing Destiny | 344362 | [344362-light-of-reversing-destiny.json](./344362-light-of-reversing-destiny.json) |
 | Light of the Eternal Night | 358922 | [358922-light-of-the-eternal-night.json](./358922-light-of-the-eternal-night.json) |
@@ -1906,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked in a Room While: Visiting an Old Castle | 288922 | [288922-locked-in-a-room-while-visiting-an-old-castle.json](./288922-locked-in-a-room-while-visiting-an-old-castle.json) |
 | Locked in Love: The Office | 407465 | [407465-locked-in-love-the-office.json](./407465-locked-in-love-the-office.json) |
 | Locked Together | 405617 | [405617-locked-together.json](./405617-locked-together.json) |
+| Lockes the Thief | 211793 | [211793-lockes-the-thief.json](./211793-lockes-the-thief.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
 | LOCO Online | 361771 | [361771-loco-online.json](./361771-loco-online.json) |
 | Loco-Coconuts | 246495 | [246495-loco-coconuts.json](./246495-loco-coconuts.json) |
@@ -2091,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Box Simulator: Crimson Fire | 232983 | [232983-loot-box-simulator-crimson-fire.json](./232983-loot-box-simulator-crimson-fire.json) |
 | Loot Box Simulator: Heroes of the Dark Age | 232984 | [232984-loot-box-simulator-heroes-of-the-dark-age.json](./232984-loot-box-simulator-heroes-of-the-dark-age.json) |
 | Loot Box Simulator: RPG Anime Girls | 216225 | [216225-loot-box-simulator-rpg-anime-girls.json](./216225-loot-box-simulator-rpg-anime-girls.json) |
+| Loot Express Delivery Service | 211824 | [211824-loot-express-delivery-service.json](./211824-loot-express-delivery-service.json) |
 | Loot Goblin Inc. | 337672 | [337672-loot-goblin-inc.json](./337672-loot-goblin-inc.json) |
 | Loot Goblin: An Idle Adventure | 389592 | [389592-loot-goblin-an-idle-adventure.json](./389592-loot-goblin-an-idle-adventure.json) |
 | Loot Legends: Robots vs Aliens | 174868 | [174868-loot-legends-robots-vs-aliens.json](./174868-loot-legends-robots-vs-aliens.json) |
@@ -2669,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lulu's Temple | 195696 | [195696-lulus-temple.json](./195696-lulus-temple.json) |
 | LumaWorlds | 411677 | [411677-lumaworlds.json](./411677-lumaworlds.json) |
 | Lumba: Redux | 210890 | [210890-lumba-redux.json](./210890-lumba-redux.json) |
+| Lumbah Jump | 211789 | [211789-lumbah-jump.json](./211789-lumbah-jump.json) |
 | Lumber and Plunder | 365748 | [365748-lumber-and-plunder.json](./365748-lumber-and-plunder.json) |
 | Lumber Inc Tycoon | 255759 | [255759-lumber-inc-tycoon.json](./255759-lumber-inc-tycoon.json) |
 | Lumber King | 54474 | [54474-lumber-king.json](./54474-lumber-king.json) |
