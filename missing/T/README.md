@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Climate Trail | 122332 | [122332-the-climate-trail.json](./122332-the-climate-trail.json) |
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
 | The Clockwork Labyrinth | 166704 | [166704-the-clockwork-labyrinth.json](./166704-the-clockwork-labyrinth.json) |
+| The Closed Circle | 226313 | [226313-the-closed-circle.json](./226313-the-closed-circle.json) |
 | The Clotted Island | 128591 | [128591-the-clotted-island.json](./128591-the-clotted-island.json) |
 | The Cloudberry Abyss | 402998 | [402998-the-cloudberry-abyss.json](./402998-the-cloudberry-abyss.json) |
 | The Clown | 260975 | [260975-the-clown.json](./260975-the-clown.json) |
@@ -4471,6 +4472,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ruins of Machi Itcza | 182520 | [182520-the-ruins-of-machi-itcza.json](./182520-the-ruins-of-machi-itcza.json) |
 | The Ruins of the Lost Kingdom: Chronicle | 77960 | [77960-the-ruins-of-the-lost-kingdom-chronicle.json](./77960-the-ruins-of-the-lost-kingdom-chronicle.json) |
 | The Rules | 224762 | [224762-the-rules.json](./224762-the-rules.json) |
+| The Rumble Fish | 226310 | [226310-the-rumble-fish.json](./226310-the-rumble-fish.json) |
+| The Rumble Fish 2: Additional Character - Beatrice | 226309 | [226309-the-rumble-fish-2-additional-character-beatrice.json](./226309-the-rumble-fish-2-additional-character-beatrice.json) |
 | The Rumble Fish 2: Collector's Edition | 222947 | [222947-the-rumble-fish-2-collectors-edition.json](./222947-the-rumble-fish-2-collectors-edition.json) |
 | The Rumble Fish 2: Deluxe Edition | 251601 | [251601-the-rumble-fish-2-deluxe-edition.json](./251601-the-rumble-fish-2-deluxe-edition.json) |
 | The Rumble Fish: Complete Pack | 336932 | [336932-the-rumble-fish-complete-pack.json](./336932-the-rumble-fish-complete-pack.json) |
@@ -5473,6 +5476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wonderful 101: Remastered - The Wonderful One: After School Hero - Part 1 | 250349 | [250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json](./250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json) |
 | The Wonderful End of the World | 14905 | [14905-the-wonderful-end-of-the-world.json](./14905-the-wonderful-end-of-the-world.json) |
 | The Wonders of the Animal Kingdom | 14256 | [14256-the-wonders-of-the-animal-kingdom.json](./14256-the-wonders-of-the-animal-kingdom.json) |
+| The Wood Story | 226306 | [226306-the-wood-story.json](./226306-the-wood-story.json) |
 | The Woods: VR Escape the Room | 114975 | [114975-the-woods-vr-escape-the-room.json](./114975-the-woods-vr-escape-the-room.json) |
 | The Word is Not the Thing | 74468 | [74468-the-word-is-not-the-thing.json](./74468-the-word-is-not-the-thing.json) |
 | The World 3: Rise of Demon | 91965 | [91965-the-world-3-rise-of-demon.json](./91965-the-world-3-rise-of-demon.json) |
@@ -8478,6 +8482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangle Strategy | 318779 | [318779-triangle-strategy.json](./318779-triangle-strategy.json) |
 | Triangle Wing XXXX | 133461 | [133461-triangle-wing-xxxx.json](./133461-triangle-wing-xxxx.json) |
 | TrianGo | 130898 | [130898-triango.json](./130898-triango.json) |
+| Triangulate | 226307 | [226307-triangulate.json](./226307-triangulate.json) |
 | Triarchy | 377667 | [377667-triarchy.json](./377667-triarchy.json) |
 | Tribal Pass | 32646 | [32646-tribal-pass.json](./32646-tribal-pass.json) |
 | Tribal Trouble | 64958 | [64958-tribal-trouble.json](./64958-tribal-trouble.json) |
