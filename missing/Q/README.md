@@ -91,15 +91,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake II: Colossus | 200673 | [200673-quake-ii-colossus.json](./200673-quake-ii-colossus.json) |
 | Quake II: Quad Damage | 46628 | [46628-quake-ii-quad-damage.json](./46628-quake-ii-quad-damage.json) |
 | Quake III: Revolution | 43673 | [43673-quake-iii-revolution.json](./43673-quake-iii-revolution.json) |
+| Quake: A Roman Wilderness of Pain | 196709 | [196709-quake-a-roman-wilderness-of-pain.json](./196709-quake-a-roman-wilderness-of-pain.json) |
 | Quake: Alkaline Jam | 196802 | [196802-quake-alkaline-jam.json](./196802-quake-alkaline-jam.json) |
 | Quake: Autumn Haunting | 202931 | [202931-quake-autumn-haunting.json](./202931-quake-autumn-haunting.json) |
 | Quake: Contract Revoked | 280187 | [280187-quake-contract-revoked.json](./280187-quake-contract-revoked.json) |
 | Quake: Death's Dominion | 202932 | [202932-quake-deaths-dominion.json](./202932-quake-deaths-dominion.json) |
+| Quake: Five Rivers Land | 196706 | [196706-quake-five-rivers-land.json](./196706-quake-five-rivers-land.json) |
 | Quake: January Jump Jam | 202930 | [202930-quake-january-jump-jam.json](./202930-quake-january-jump-jam.json) |
 | Quake: January Jump Jam 2 | 202928 | [202928-quake-january-jump-jam-2.json](./202928-quake-january-jump-jam-2.json) |
 | Quake: Mission Pack 1 - Scourge of Armagon | 15760 | [15760-quake-mission-pack-1-scourge-of-armagon.json](./15760-quake-mission-pack-1-scourge-of-armagon.json) |
 | Quake: Realms of Tiddles | 202929 | [202929-quake-realms-of-tiddles.json](./202929-quake-realms-of-tiddles.json) |
+| Quake: Retro Jam Egyptian | 196725 | [196725-quake-retro-jam-egyptian.json](./196725-quake-retro-jam-egyptian.json) |
+| Quake: Retro Jam Windtunnel | 196726 | [196726-quake-retro-jam-windtunnel.json](./196726-quake-retro-jam-windtunnel.json) |
 | Quake: Sewer Jam | 196799 | [196799-quake-sewer-jam.json](./196799-quake-sewer-jam.json) |
+| Quake: The Final Descent | 196723 | [196723-quake-the-final-descent.json](./196723-quake-the-final-descent.json) |
 | Quake: The Offering | 46627 | [46627-quake-the-offering.json](./46627-quake-the-offering.json) |
 | Quake: The Punishment Due | 280188 | [280188-quake-the-punishment-due.json](./280188-quake-the-punishment-due.json) |
 | Quake: Underdark Overbright & Copper | 199075 | [199075-quake-underdark-overbright-and-copper.json](./199075-quake-underdark-overbright-and-copper.json) |
