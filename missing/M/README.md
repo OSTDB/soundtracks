@@ -3569,6 +3569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Squirrel Club | 339110 | [339110-miracle-squirrel-club.json](./339110-miracle-squirrel-club.json) |
 | Miracle Sweeper | 235492 | [235492-miracle-sweeper.json](./235492-miracle-sweeper.json) |
 | Miracle Tunes! Game de Tune Up! Da Pun! | 222544 | [222544-miracle-tunes-game-de-tune-up-da-pun.json](./222544-miracle-tunes-game-de-tune-up-da-pun.json) |
+| Miraculous: Rise of the Sphinx - Ultimate Edition | 223565 | [223565-miraculous-rise-of-the-sphinx-ultimate-edition.json](./223565-miraculous-rise-of-the-sphinx-ultimate-edition.json) |
 | Mirador | 116939 | [116939-mirador.json](./116939-mirador.json) |
 | Mirage | 247761 | [247761-mirage.json](./247761-mirage.json) |
 | Mirage | 371353 | [371353-mirage.json](./371353-mirage.json) |
@@ -4251,6 +4252,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise: Bonus Update | 252384 | [252384-monster-hunter-rise-bonus-update.json](./252384-monster-hunter-rise-bonus-update.json) |
 | Monster Hunter Rise: Collector's Edition | 139971 | [139971-monster-hunter-rise-collectors-edition.json](./139971-monster-hunter-rise-collectors-edition.json) |
 | Monster Hunter Rise: Deluxe Edition | 139943 | [139943-monster-hunter-rise-deluxe-edition.json](./139943-monster-hunter-rise-deluxe-edition.json) |
+| Monster Hunter Rise: DLC Pack 5 | 223591 | [223591-monster-hunter-rise-dlc-pack-5.json](./223591-monster-hunter-rise-dlc-pack-5.json) |
+| Monster Hunter Rise: DLC Pack 6 | 223578 | [223578-monster-hunter-rise-dlc-pack-6.json](./223578-monster-hunter-rise-dlc-pack-6.json) |
 | Monster Hunter Rise: Sunbreak | 172425 | [172425-monster-hunter-rise-sunbreak.json](./172425-monster-hunter-rise-sunbreak.json) |
 | Monster Hunter Rise: Title Update 1 | 252379 | [252379-monster-hunter-rise-title-update-1.json](./252379-monster-hunter-rise-title-update-1.json) |
 | Monster Hunter Rise: Title Update 2 | 252380 | [252380-monster-hunter-rise-title-update-2.json](./252380-monster-hunter-rise-title-update-2.json) |
@@ -4296,6 +4299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Showdown: Season Pass | 316275 | [316275-monster-jam-showdown-season-pass.json](./316275-monster-jam-showdown-season-pass.json) |
 | Monster Jam Showdown: The Odd Couple | 308822 | [308822-monster-jam-showdown-the-odd-couple.json](./308822-monster-jam-showdown-the-odd-couple.json) |
 | Monster Jam Showdown: Yeti | 332228 | [332228-monster-jam-showdown-yeti.json](./332228-monster-jam-showdown-yeti.json) |
+| Monster Jam Steel Titans 2: Inverse Truck Pack | 223548 | [223548-monster-jam-steel-titans-2-inverse-truck-pack.json](./223548-monster-jam-steel-titans-2-inverse-truck-pack.json) |
 | Monster Knockout | 224755 | [224755-monster-knockout.json](./224755-monster-knockout.json) |
 | Monster Knockout: Bounce DLC | 361774 | [361774-monster-knockout-bounce-dlc.json](./361774-monster-knockout-bounce-dlc.json) |
 | Monster Knockout: Idle DLC | 361773 | [361773-monster-knockout-idle-dlc.json](./361773-monster-knockout-idle-dlc.json) |
@@ -5611,6 +5615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Work: Garage | 89180 | [89180-my-little-work-garage.json](./89180-my-little-work-garage.json) |
 | My Love for You is Evermore | 254570 | [254570-my-love-for-you-is-evermore.json](./254570-my-love-for-you-is-evermore.json) |
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
+| My Lovely Family Bundle | 223563 | [223563-my-lovely-family-bundle.json](./223563-my-lovely-family-bundle.json) |
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
 | My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
