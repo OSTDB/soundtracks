@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Runes | 192378 | [192378-search-all-runes.json](./192378-search-all-runes.json) |
 | Search All: Snails | 279114 | [279114-search-all-snails.json](./279114-search-all-snails.json) |
 | Search All: Spiders | 192376 | [192376-search-all-spiders.json](./192376-search-all-spiders.json) |
+| Search All: Steampunk | 182365 | [182365-search-all-steampunk.json](./182365-search-all-steampunk.json) |
 | Search All: Sushi | 187440 | [187440-search-all-sushi.json](./187440-search-all-sushi.json) |
 | Search All: UFO | 249800 | [249800-search-all-ufo.json](./249800-search-all-ufo.json) |
 | Search and Rescue: Snowman From Outer Space | 301271 | [301271-search-and-rescue-snowman-from-outer-space.json](./301271-search-and-rescue-snowman-from-outer-space.json) |
@@ -3282,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sine Die | 256856 | [256856-sine-die.json](./256856-sine-die.json) |
 | Sine Mora | 10832 | [10832-sine-mora.json](./10832-sine-mora.json) |
 | Sinew | 369587 | [369587-sinew.json](./369587-sinew.json) |
+| Sinfeld Remastered | 182338 | [182338-sinfeld-remastered.json](./182338-sinfeld-remastered.json) |
 | Sinful Discharge | 268459 | [268459-sinful-discharge.json](./268459-sinful-discharge.json) |
 | Sing 4: The Hits Edition | 50602 | [50602-sing-4-the-hits-edition.json](./50602-sing-4-the-hits-edition.json) |
 | Singalongsong | 302932 | [302932-singalongsong.json](./302932-singalongsong.json) |
@@ -4307,6 +4309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Crossing | 306382 | [306382-snake-crossing.json](./306382-snake-crossing.json) |
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
 | Snake Flow | 37061 | [37061-snake-flow.json](./37061-snake-flow.json) |
+| Snake Force | 182382 | [182382-snake-force.json](./182382-snake-force.json) |
 | Snake Game | 95375 | [95375-snake-game.json](./95375-snake-game.json) |
 | Snake Game Ultra Core | 368476 | [368476-snake-game-ultra-core.json](./368476-snake-game-ultra-core.json) |
 | Snake II | 10141 | [10141-snake-ii.json](./10141-snake-ii.json) |
@@ -4906,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something's Wrong With Sunny Day Jack | 207314 | [207314-somethings-wrong-with-sunny-day-jack.json](./207314-somethings-wrong-with-sunny-day-jack.json) |
 | Sometimes: Success Requires Sacrifice | 35712 | [35712-sometimes-success-requires-sacrifice.json](./35712-sometimes-success-requires-sacrifice.json) |
 | Somewhere | 324306 | [324306-somewhere.json](./324306-somewhere.json) |
+| Somewhere in a Clay Nowhere | 182371 | [182371-somewhere-in-a-clay-nowhere.json](./182371-somewhere-in-a-clay-nowhere.json) |
 | Somewhere in Space... | 178644 | [178644-somewhere-in-space.json](./178644-somewhere-in-space.json) |
 | Somewhere in Time and Space | 347720 | [347720-somewhere-in-time-and-space.json](./347720-somewhere-in-time-and-space.json) |
 | Somewhere inside | 125085 | [125085-somewhere-inside.json](./125085-somewhere-inside.json) |
@@ -5817,6 +5821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Leprechaun | 75029 | [75029-space-leprechaun.json](./75029-space-leprechaun.json) |
 | Space Lift Danger Panic! | 147982 | [147982-space-lift-danger-panic.json](./147982-space-lift-danger-panic.json) |
 | Space Lines | 246085 | [246085-space-lines.json](./246085-space-lines.json) |
+| Space Lords | 182390 | [182390-space-lords.json](./182390-space-lords.json) |
 | Space Love Delta | 134638 | [134638-space-love-delta.json](./134638-space-love-delta.json) |
 | Space M+A+X | 37157 | [37157-space-m-a-x.json](./37157-space-m-a-x.json) |
 | Space Mages | 381644 | [381644-space-mages.json](./381644-space-mages.json) |
@@ -10657,6 +10662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Intrusion | 169367 | [169367-system-intrusion.json](./169367-system-intrusion.json) |
 | System Mania | 54423 | [54423-system-mania.json](./54423-system-mania.json) |
 | System Override | 277604 | [277604-system-override.json](./277604-system-override.json) |
+| System Purge | 182381 | [182381-system-purge.json](./182381-system-purge.json) |
 | System Reject | 321959 | [321959-system-reject.json](./321959-system-reject.json) |
 | System Shock: Rewired | 353370 | [353370-system-shock-rewired.json](./353370-system-shock-rewired.json) |
 | System32 | 167763 | [167763-system32.json](./167763-system32.json) |
