@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T03:02:43.649Z",
-  "total_missing": 85521,
+  "generated_at": "2026-09-18T03:17:25.765Z",
+  "total_missing": 85571,
   "games": [
     {
       "igdb_id": 273453,
@@ -35813,6 +35813,11 @@
       "file": "missing/B/33191-big-buck-hunter-arcade.json"
     },
     {
+      "igdb_id": 226810,
+      "game_name": "Big Buck Hunter Arcade: Elk Adventure Pack",
+      "file": "missing/B/226810-big-buck-hunter-arcade-elk-adventure-pack.json"
+    },
+    {
       "igdb_id": 328254,
       "game_name": "Big Buck Hunter Pro Adventure",
       "file": "missing/B/328254-big-buck-hunter-pro-adventure.json"
@@ -69188,6 +69193,16 @@
       "file": "missing/C/354484-construction-action-player-f-48-apricorn-maker.json"
     },
     {
+      "igdb_id": 226839,
+      "game_name": "Constructor: Building Pack 1 - World Tenant Buildings",
+      "file": "missing/C/226839-constructor-building-pack-1-world-tenant-buildings.json"
+    },
+    {
+      "igdb_id": 226840,
+      "game_name": "Constructor: Building Pack 2 Made in America",
+      "file": "missing/C/226840-constructor-building-pack-2-made-in-america.json"
+    },
+    {
       "igdb_id": 280350,
       "game_name": "Consult Me Before Opening A Snack Shop",
       "file": "missing/C/280350-consult-me-before-opening-a-snack-shop.json"
@@ -72173,6 +72188,11 @@
       "file": "missing/C/415157-craggfall.json"
     },
     {
+      "igdb_id": 226833,
+      "game_name": "CraMagear",
+      "file": "missing/C/226833-cramagear.json"
+    },
+    {
       "igdb_id": 186846,
       "game_name": "Cramit's Keep",
       "file": "missing/C/186846-cramits-keep.json"
@@ -72486,6 +72506,11 @@
       "igdb_id": 129703,
       "game_name": "Crash the Game",
       "file": "missing/C/129703-crash-the-game.json"
+    },
+    {
+      "igdb_id": 226834,
+      "game_name": "Crash Time: Undercover",
+      "file": "missing/C/226834-crash-time-undercover.json"
     },
     {
       "igdb_id": 210234,
@@ -74563,6 +74588,11 @@
       "file": "missing/C/331997-crossout-phantom.json"
     },
     {
+      "igdb_id": 226820,
+      "game_name": "Crossout: Arsonist Pack",
+      "file": "missing/C/226820-crossout-arsonist-pack.json"
+    },
+    {
       "igdb_id": 243105,
       "game_name": "Crossout: Biter Starter Pack",
       "file": "missing/C/243105-crossout-biter-starter-pack.json"
@@ -74573,9 +74603,29 @@
       "file": "missing/C/331995-crossout-bone-hunter.json"
     },
     {
+      "igdb_id": 226821,
+      "game_name": "Crossout: Born Free Pack",
+      "file": "missing/C/226821-crossout-born-free-pack.json"
+    },
+    {
       "igdb_id": 243104,
       "game_name": "Crossout: Cleaner Starter Pack",
       "file": "missing/C/243104-crossout-cleaner-starter-pack.json"
+    },
+    {
+      "igdb_id": 226822,
+      "game_name": "Crossout: Corrida Pack",
+      "file": "missing/C/226822-crossout-corrida-pack.json"
+    },
+    {
+      "igdb_id": 226823,
+      "game_name": "Crossout: Day of the Dead Pack",
+      "file": "missing/C/226823-crossout-day-of-the-dead-pack.json"
+    },
+    {
+      "igdb_id": 226824,
+      "game_name": "Crossout: Drive Pack",
+      "file": "missing/C/226824-crossout-drive-pack.json"
     },
     {
       "igdb_id": 293760,
@@ -74583,9 +74633,34 @@
       "file": "missing/C/293760-crossout-electric-beetle.json"
     },
     {
+      "igdb_id": 226825,
+      "game_name": "Crossout: Family Holiday Pack",
+      "file": "missing/C/226825-crossout-family-holiday-pack.json"
+    },
+    {
       "igdb_id": 331996,
       "game_name": "Crossout: Horsemen of Apocalypse - Famine",
       "file": "missing/C/331996-crossout-horsemen-of-apocalypse-famine.json"
+    },
+    {
+      "igdb_id": 226826,
+      "game_name": "Crossout: Insomnia Pack",
+      "file": "missing/C/226826-crossout-insomnia-pack.json"
+    },
+    {
+      "igdb_id": 226827,
+      "game_name": "Crossout: Iron Shield Pack",
+      "file": "missing/C/226827-crossout-iron-shield-pack.json"
+    },
+    {
+      "igdb_id": 226828,
+      "game_name": "Crossout: Pandemic Pack",
+      "file": "missing/C/226828-crossout-pandemic-pack.json"
+    },
+    {
+      "igdb_id": 226829,
+      "game_name": "Crossout: Polymorph pack",
+      "file": "missing/C/226829-crossout-polymorph-pack.json"
     },
     {
       "igdb_id": 298171,
@@ -74608,9 +74683,44 @@
       "file": "missing/C/235767-crossout-savior.json"
     },
     {
+      "igdb_id": 226830,
+      "game_name": "Crossout: Snake Bite Pack",
+      "file": "missing/C/226830-crossout-snake-bite-pack.json"
+    },
+    {
       "igdb_id": 293766,
       "game_name": "Crossout: Steel shield",
       "file": "missing/C/293766-crossout-steel-shield.json"
+    },
+    {
+      "igdb_id": 226831,
+      "game_name": "Crossout: The Inventor Pack",
+      "file": "missing/C/226831-crossout-the-inventor-pack.json"
+    },
+    {
+      "igdb_id": 226832,
+      "game_name": "Crossout: The Tramp Pack",
+      "file": "missing/C/226832-crossout-the-tramp-pack.json"
+    },
+    {
+      "igdb_id": 226835,
+      "game_name": "Crossout: Triad - The Keeper pack",
+      "file": "missing/C/226835-crossout-triad-the-keeper-pack.json"
+    },
+    {
+      "igdb_id": 226836,
+      "game_name": "Crossout: Valentine's day pack",
+      "file": "missing/C/226836-crossout-valentines-day-pack.json"
+    },
+    {
+      "igdb_id": 226837,
+      "game_name": "Crossout: Wasteland Warrior Pack",
+      "file": "missing/C/226837-crossout-wasteland-warrior-pack.json"
+    },
+    {
+      "igdb_id": 226838,
+      "game_name": "Crossout: Wholesale Recall Pack",
+      "file": "missing/C/226838-crossout-wholesale-recall-pack.json"
     },
     {
       "igdb_id": 379890,
@@ -96878,6 +96988,11 @@
       "file": "missing/D/301980-douga-de-kiku-ano-kyoku-no-rhythm-game.json"
     },
     {
+      "igdb_id": 226817,
+      "game_name": "Doughball Descent",
+      "file": "missing/D/226817-doughball-descent.json"
+    },
+    {
       "igdb_id": 258727,
       "game_name": "Doughbee",
       "file": "missing/D/258727-doughbee.json"
@@ -98246,6 +98361,11 @@
       "igdb_id": 90664,
       "game_name": "Dragon Hunter : Sniper Choice",
       "file": "missing/D/90664-dragon-hunter-sniper-choice.json"
+    },
+    {
+      "igdb_id": 226818,
+      "game_name": "Dragon Inn",
+      "file": "missing/D/226818-dragon-inn.json"
     },
     {
       "igdb_id": 289444,
@@ -101333,6 +101453,11 @@
       "file": "missing/D/195689-drunkknight.json"
     },
     {
+      "igdb_id": 226819,
+      "game_name": "Drunkle Ted's Wet and Wreckless",
+      "file": "missing/D/226819-drunkle-teds-wet-and-wreckless.json"
+    },
+    {
       "igdb_id": 375201,
       "game_name": "Drunkonauts",
       "file": "missing/D/375201-drunkonauts.json"
@@ -103128,6 +103253,11 @@
       "file": "missing/D/268751-dungeons-and-monsters.json"
     },
     {
+      "igdb_id": 226816,
+      "game_name": "Dungeons and Myths",
+      "file": "missing/D/226816-dungeons-and-myths.json"
+    },
+    {
       "igdb_id": 236516,
       "game_name": "Dungeons and Raids",
       "file": "missing/D/236516-dungeons-and-raids.json"
@@ -104473,6 +104603,21 @@
       "file": "missing/E/319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json"
     },
     {
+      "igdb_id": 226815,
+      "game_name": "Earth Defense Force: Insect Armageddon - Aerialist Munitions Package",
+      "file": "missing/E/226815-earth-defense-force-insect-armageddon-aerialist-munitions-package.json"
+    },
+    {
+      "igdb_id": 226814,
+      "game_name": "Earth Defense Force: Insect Armageddon - Tactician Advanced Tech Package",
+      "file": "missing/E/226814-earth-defense-force-insect-armageddon-tactician-advanced-tech-package.json"
+    },
+    {
+      "igdb_id": 226813,
+      "game_name": "Earth Defense Force: Insect Armageddon - Trooper Special Issue Enforcer Package",
+      "file": "missing/E/226813-earth-defense-force-insect-armageddon-trooper-special-issue-enforcer-package.json"
+    },
+    {
       "igdb_id": 139067,
       "game_name": "Earth Defense Force: World Brothers",
       "file": "missing/E/139067-earth-defense-force-world-brothers.json"
@@ -104636,6 +104781,11 @@
       "igdb_id": 84257,
       "game_name": "East Front II",
       "file": "missing/E/84257-east-front-ii.json"
+    },
+    {
+      "igdb_id": 226811,
+      "game_name": "East Wind",
+      "file": "missing/E/226811-east-wind.json"
     },
     {
       "igdb_id": 79304,
@@ -105091,6 +105241,11 @@
       "igdb_id": 303508,
       "game_name": "Echo of Prypiat",
       "file": "missing/E/303508-echo-of-prypiat.json"
+    },
+    {
+      "igdb_id": 226812,
+      "game_name": "Echo of the Last Light",
+      "file": "missing/E/226812-echo-of-the-last-light.json"
     },
     {
       "igdb_id": 404333,
@@ -113618,9 +113773,34 @@
       "file": "missing/E/268189-evil-elves-ii-the-return-of-the-christmas-presents.json"
     },
     {
+      "igdb_id": 226849,
+      "game_name": "Evil Genius 2: World Domination - Abomination Pack",
+      "file": "missing/E/226849-evil-genius-2-world-domination-abomination-pack.json"
+    },
+    {
+      "igdb_id": 226850,
+      "game_name": "Evil Genius 2: World Domination - Cabal Pack",
+      "file": "missing/E/226850-evil-genius-2-world-domination-cabal-pack.json"
+    },
+    {
       "igdb_id": 188025,
       "game_name": "Evil Genius 2: World Domination - Deluxe Edition",
       "file": "missing/E/188025-evil-genius-2-world-domination-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 226846,
+      "game_name": "Evil Genius 2: World Domination - In-Genius Items Pack",
+      "file": "missing/E/226846-evil-genius-2-world-domination-in-genius-items-pack.json"
+    },
+    {
+      "igdb_id": 226847,
+      "game_name": "Evil Genius 2: World Domination - Rise of the Valkyrie Pack",
+      "file": "missing/E/226847-evil-genius-2-world-domination-rise-of-the-valkyrie-pack.json"
+    },
+    {
+      "igdb_id": 226848,
+      "game_name": "Evil Genius 2: World Domination - Team Fortress 2: Pyro Pack",
+      "file": "missing/E/226848-evil-genius-2-world-domination-team-fortress-2-pyro-pack.json"
     },
     {
       "igdb_id": 51565,
@@ -115688,6 +115868,11 @@
       "file": "missing/F/198200-f1-22.json"
     },
     {
+      "igdb_id": 226843,
+      "game_name": "F1 22: Champions Content Bundle",
+      "file": "missing/F/226843-f1-22-champions-content-bundle.json"
+    },
+    {
       "igdb_id": 336964,
       "game_name": "F1 25",
       "file": "missing/F/336964-f1-25.json"
@@ -115836,6 +116021,16 @@
       "igdb_id": 7658,
       "game_name": "Fable Anniversary",
       "file": "missing/F/7658-fable-anniversary.json"
+    },
+    {
+      "igdb_id": 226844,
+      "game_name": "Fable Anniversary: Heroes and Villains Content Pack",
+      "file": "missing/F/226844-fable-anniversary-heroes-and-villains-content-pack.json"
+    },
+    {
+      "igdb_id": 226845,
+      "game_name": "Fable Anniversary: Scythe Content Pack",
+      "file": "missing/F/226845-fable-anniversary-scythe-content-pack.json"
     },
     {
       "igdb_id": 261883,
@@ -173803,6 +173998,11 @@
       "file": "missing/I/149090-inside-my-mind.json"
     },
     {
+      "igdb_id": 226851,
+      "game_name": "Inside My Mind 2",
+      "file": "missing/I/226851-inside-my-mind-2.json"
+    },
+    {
       "igdb_id": 53233,
       "game_name": "Inside My Radio - Deluxe",
       "file": "missing/I/53233-inside-my-radio-deluxe.json"
@@ -176228,6 +176428,11 @@
       "file": "missing/I/199657-island-of-aito.json"
     },
     {
+      "igdb_id": 226852,
+      "game_name": "Island of AIto: Life After Death",
+      "file": "missing/I/226852-island-of-aito-life-after-death.json"
+    },
+    {
       "igdb_id": 326801,
       "game_name": "Island of Despair",
       "file": "missing/I/326801-island-of-despair.json"
@@ -178028,6 +178233,11 @@
       "file": "missing/J/237375-jam-league-basketball.json"
     },
     {
+      "igdb_id": 226853,
+      "game_name": "Jam Scrapz Collection",
+      "file": "missing/J/226853-jam-scrapz-collection.json"
+    },
+    {
       "igdb_id": 75822,
       "game_name": "Jam Session VR",
       "file": "missing/J/75822-jam-session-vr.json"
@@ -178868,6 +179078,11 @@
       "file": "missing/J/161323-jendo-origins.json"
     },
     {
+      "igdb_id": 226854,
+      "game_name": "Jenni's Dong has got it Goin' On: The Jenni Trilogy",
+      "file": "missing/J/226854-jennis-dong-has-got-it-goin-on-the-jenni-trilogy.json"
+    },
+    {
       "igdb_id": 141256,
       "game_name": "Jennifer",
       "file": "missing/J/141256-jennifer.json"
@@ -179668,9 +179883,34 @@
       "file": "missing/J/357883-jigsaw-puzzle.json"
     },
     {
+      "igdb_id": 226855,
+      "game_name": "Jigsaw Puzzle Dreams: Idyllic Pack",
+      "file": "missing/J/226855-jigsaw-puzzle-dreams-idyllic-pack.json"
+    },
+    {
+      "igdb_id": 226856,
+      "game_name": "Jigsaw Puzzle Dreams: Radiant Pack",
+      "file": "missing/J/226856-jigsaw-puzzle-dreams-radiant-pack.json"
+    },
+    {
+      "igdb_id": 226857,
+      "game_name": "Jigsaw Puzzle Dreams: Scenic Pack",
+      "file": "missing/J/226857-jigsaw-puzzle-dreams-scenic-pack.json"
+    },
+    {
+      "igdb_id": 226858,
+      "game_name": "Jigsaw Puzzle Dreams: Serene Pack",
+      "file": "missing/J/226858-jigsaw-puzzle-dreams-serene-pack.json"
+    },
+    {
       "igdb_id": 288900,
       "game_name": "Jigsaw Puzzle Dreams: Stickers and More! Supporter Pack",
       "file": "missing/J/288900-jigsaw-puzzle-dreams-stickers-and-more-supporter-pack.json"
+    },
+    {
+      "igdb_id": 226859,
+      "game_name": "Jigsaw Puzzle Dreams: Tranquil Pack",
+      "file": "missing/J/226859-jigsaw-puzzle-dreams-tranquil-pack.json"
     },
     {
       "igdb_id": 263223,
@@ -265883,9 +266123,19 @@
       "file": "missing/P/293071-pixel-puzzles-ultimate-jigsaw-variety-pack-23.json"
     },
     {
+      "igdb_id": 226860,
+      "game_name": "Pixel Puzzles Ultimate: Animals",
+      "file": "missing/P/226860-pixel-puzzles-ultimate-animals.json"
+    },
+    {
       "igdb_id": 357884,
       "game_name": "Pixel Puzzles Ultimate: Bioframe",
       "file": "missing/P/357884-pixel-puzzles-ultimate-bioframe.json"
+    },
+    {
+      "igdb_id": 226861,
+      "game_name": "Pixel Puzzles Ultimate: Cheregi",
+      "file": "missing/P/226861-pixel-puzzles-ultimate-cheregi.json"
     },
     {
       "igdb_id": 357885,
