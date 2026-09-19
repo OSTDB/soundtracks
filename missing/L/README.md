@@ -1482,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighthaze World | 197264 | [197264-lighthaze-world.json](./197264-lighthaze-world.json) |
 | Lighthockey | 34352 | [34352-lighthockey.json](./34352-lighthockey.json) |
 | Lighthouse | 267450 | [267450-lighthouse.json](./267450-lighthouse.json) |
+| Lighthouse Keeper | 143472 | [143472-lighthouse-keeper.json](./143472-lighthouse-keeper.json) |
 | Lighthouse of Guiding Flames | 120933 | [120933-lighthouse-of-guiding-flames.json](./120933-lighthouse-of-guiding-flames.json) |
 | Lighthouse of Madness | 158068 | [158068-lighthouse-of-madness.json](./158068-lighthouse-of-madness.json) |
 | Lighthouse of the Souls | 344966 | [344966-lighthouse-of-the-souls.json](./344966-lighthouse-of-the-souls.json) |
@@ -2217,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Night | 16941 | [16941-long-night.json](./16941-long-night.json) |
 | Long Road | 148914 | [148914-long-road.json](./148914-long-road.json) |
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
+| Long Time No See | 143477 | [143477-long-time-no-see.json](./143477-long-time-no-see.json) |
 | Longboard Stunts and Tricks | 99618 | [99618-longboard-stunts-and-tricks.json](./99618-longboard-stunts-and-tricks.json) |
 | Longbow Anthology | 70358 | [70358-longbow-anthology.json](./70358-longbow-anthology.json) |
 | LongCat | 123539 | [123539-longcat.json](./123539-longcat.json) |
