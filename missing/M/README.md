@@ -1605,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match It | 402993 | [402993-match-it.json](./402993-match-it.json) |
 | Match It Fast | 104091 | [104091-match-it-fast.json](./104091-match-it-fast.json) |
 | Match It Sexy | 260383 | [260383-match-it-sexy.json](./260383-match-it-sexy.json) |
+| Match It! | 173186 | [173186-match-it.json](./173186-match-it.json) |
 | Match Kill Survive | 309679 | [309679-match-kill-survive.json](./309679-match-kill-survive.json) |
 | Match Manor | 269094 | [269094-match-manor.json](./269094-match-manor.json) |
 | Match Morphosis | 381618 | [381618-match-morphosis.json](./381618-match-morphosis.json) |
@@ -1658,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Castle | 46643 | [46643-math-castle.json](./46643-math-castle.json) |
 | Math Challenge: Workout Brain | 240343 | [240343-math-challenge-workout-brain.json](./240343-math-challenge-workout-brain.json) |
 | Math City HD | 232178 | [232178-math-city-hd.json](./232178-math-city-hd.json) |
+| Math Classroom Challenge | 173144 | [173144-math-classroom-challenge.json](./173144-math-classroom-challenge.json) |
 | Math Combat Challenge | 55124 | [55124-math-combat-challenge.json](./55124-math-combat-challenge.json) |
 | Math Duel | 251043 | [251043-math-duel.json](./251043-math-duel.json) |
 | Math Evolve: A Fun Math Game | 175372 | [175372-math-evolve-a-fun-math-game.json](./175372-math-evolve-a-fun-math-game.json) |
@@ -1982,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 4: Clan 'Mech Pak | 78009 | [78009-mechwarrior-4-clan-mech-pak.json](./78009-mechwarrior-4-clan-mech-pak.json) |
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
 | MechWarrior 5: Mercenaries - Chaos Reign | 402396 | [402396-mechwarrior-5-mercenaries-chaos-reign.json](./402396-mechwarrior-5-mercenaries-chaos-reign.json) |
+| MechWarrior 5: Mercenaries - JumpShip Edition | 173169 | [173169-mechwarrior-5-mercenaries-jumpship-edition.json](./173169-mechwarrior-5-mercenaries-jumpship-edition.json) |
 | MechWarrior 5: Mercenaries - Shadow of Kerensky | 351086 | [351086-mechwarrior-5-mercenaries-shadow-of-kerensky.json](./351086-mechwarrior-5-mercenaries-shadow-of-kerensky.json) |
 | MechWarrior 5: Mercenaries - Solaris Showdown | 291597 | [291597-mechwarrior-5-mercenaries-solaris-showdown.json](./291597-mechwarrior-5-mercenaries-solaris-showdown.json) |
 | MechWarrior Online: Apache Legendary Mech Pack | 357326 | [357326-mechwarrior-online-apache-legendary-mech-pack.json](./357326-mechwarrior-online-apache-legendary-mech-pack.json) |
@@ -2866,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid FreezeFlame | 255382 | [255382-metroid-freezeflame.json](./255382-metroid-freezeflame.json) |
 | Metroid FreezeFlame 2: Twisted Dimensions | 255383 | [255383-metroid-freezeflame-2-twisted-dimensions.json](./255383-metroid-freezeflame-2-twisted-dimensions.json) |
 | Metroid Fusion: C.L.E.A.N. Station | 313328 | [313328-metroid-fusion-c-l-e-a-n-station.json](./313328-metroid-fusion-c-l-e-a-n-station.json) |
+| Metroid II DX | 173157 | [173157-metroid-ii-dx.json](./173157-metroid-ii-dx.json) |
 | Metroid II: Return of Samus | 1102 | [1102-metroid-ii-return-of-samus.json](./1102-metroid-ii-return-of-samus.json) |
 | Metroid Nebulus | 324078 | [324078-metroid-nebulus.json](./324078-metroid-nebulus.json) |
 | Metroid Planets | 166150 | [166150-metroid-planets.json](./166150-metroid-planets.json) |
@@ -3678,6 +3682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Merchant | 364518 | [364518-mining-merchant.json](./364518-mining-merchant.json) |
 | Mining Simulator | 241512 | [241512-mining-simulator.json](./241512-mining-simulator.json) |
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
+| Minion Masters + Mordar's Malediction DLC | 173163 | [173163-minion-masters-mordars-malediction-dlc.json](./173163-minion-masters-mordars-malediction-dlc.json) |
 | Minion Masters: Best Plan No Plan! | 330727 | [330727-minion-masters-best-plan-no-plan.json](./330727-minion-masters-best-plan-no-plan.json) |
 | Minion Masters: Charging Into Darkness | 330730 | [330730-minion-masters-charging-into-darkness.json](./330730-minion-masters-charging-into-darkness.json) |
 | Minion Masters: Crystal Conquest | 330738 | [330738-minion-masters-crystal-conquest.json](./330738-minion-masters-crystal-conquest.json) |
@@ -5151,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount Farewell | 221178 | [221178-mount-farewell.json](./221178-mount-farewell.json) |
 | Mount Lomyst | 369112 | [369112-mount-lomyst.json](./369112-mount-lomyst.json) |
 | Mountain 78 | 338212 | [338212-mountain-78.json](./338212-mountain-78.json) |
+| Mountain Bike Hill Climb Race: Real 2D Arcade Dirt Racing Games | 173137 | [173137-mountain-bike-hill-climb-race-real-2d-arcade-dirt-racing-games.json](./173137-mountain-bike-hill-climb-race-real-2d-arcade-dirt-racing-games.json) |
 | Mountain Biker | 116402 | [116402-mountain-biker.json](./116402-mountain-biker.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
 | Mountain Madness | 236387 | [236387-mountain-madness.json](./236387-mountain-madness.json) |
