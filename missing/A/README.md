@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abrakajumpa | 305944 | [305944-abrakajumpa.json](./305944-abrakajumpa.json) |
 | Abraxas | 293244 | [293244-abraxas.json](./293244-abraxas.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
+| Abriss: Build to Destroy | 163860 | [163860-abriss-build-to-destroy.json](./163860-abriss-build-to-destroy.json) |
 | Abrix the robot | 33018 | [33018-abrix-the-robot.json](./33018-abrix-the-robot.json) |
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
 | Absence: Verdict of Silence | 185002 | [185002-absence-verdict-of-silence.json](./185002-absence-verdict-of-silence.json) |
@@ -1364,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Invasion Tower Defense | 30829 | [30829-alien-invasion-tower-defense.json](./30829-alien-invasion-tower-defense.json) |
 | Alien Lander | 282113 | [282113-alien-lander.json](./282113-alien-lander.json) |
 | Alien Legion | 14243 | [14243-alien-legion.json](./14243-alien-legion.json) |
+| Alien Marauder | 163835 | [163835-alien-marauder.json](./163835-alien-marauder.json) |
 | Alien Nah'Topsy | 289888 | [289888-alien-nahtopsy.json](./289888-alien-nahtopsy.json) |
 | Alien Nations | 11259 | [11259-alien-nations.json](./11259-alien-nations.json) |
 | Alien Nations Mission Pack | 73810 | [73810-alien-nations-mission-pack.json](./73810-alien-nations-mission-pack.json) |
@@ -1540,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All The Colors That You Paint | 383376 | [383376-all-the-colors-that-you-paint.json](./383376-all-the-colors-that-you-paint.json) |
 | All the Delicate Duplicates | 26736 | [26736-all-the-delicate-duplicates.json](./26736-all-the-delicate-duplicates.json) |
 | All the Hidden Corners | 55875 | [55875-all-the-hidden-corners.json](./55875-all-the-hidden-corners.json) |
+| All the King's Men | 163856 | [163856-all-the-kings-men.json](./163856-all-the-kings-men.json) |
 | All the Mario | 358320 | [358320-all-the-mario.json](./358320-all-the-mario.json) |
 | All the Mods 10: To the Sky | 366322 | [366322-all-the-mods-10-to-the-sky.json](./366322-all-the-mods-10-to-the-sky.json) |
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
@@ -1805,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Drones | 76619 | [76619-amazing-drones.json](./76619-amazing-drones.json) |
 | Amazing Escape | 87714 | [87714-amazing-escape.json](./87714-amazing-escape.json) |
 | Amazing Facts World Culture True or False Quiz | 399608 | [399608-amazing-facts-world-culture-true-or-false-quiz.json](./399608-amazing-facts-world-culture-true-or-false-quiz.json) |
+| Amazing Fix | 163815 | [163815-amazing-fix.json](./163815-amazing-fix.json) |
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
 | Amazing Gardens | 344366 | [344366-amazing-gardens.json](./344366-amazing-gardens.json) |
 | Amazing Jewel Switch | 240196 | [240196-amazing-jewel-switch.json](./240196-amazing-jewel-switch.json) |
