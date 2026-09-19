@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellbender | 84176 | [84176-hellbender.json](./84176-hellbender.json) |
 | Hellblade: Senua's Sacrifice - VR Edition | 106107 | [106107-hellblade-senuas-sacrifice-vr-edition.json](./106107-hellblade-senuas-sacrifice-vr-edition.json) |
 | Hellblusser | 162410 | [162410-hellblusser.json](./162410-hellblusser.json) |
+| Hellborne | 148373 | [148373-hellborne.json](./148373-hellborne.json) |
 | Hellbound | 139990 | [139990-hellbound.json](./139990-hellbound.json) |
 | Hellboy: The Science of Evil | 7007 | [7007-hellboy-the-science-of-evil.json](./7007-hellboy-the-science-of-evil.json) |
 | Hellbrella | 345003 | [345003-hellbrella.json](./345003-hellbrella.json) |
@@ -1415,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help, I cast the wrong spell! | 180802 | [180802-help-i-cast-the-wrong-spell.json](./180802-help-i-cast-the-wrong-spell.json) |
 | Help! I've Been Cursed With A Bubble Butt | 337469 | [337469-help-ive-been-cursed-with-a-bubble-butt.json](./337469-help-ive-been-cursed-with-a-bubble-butt.json) |
 | Helping Hand | 365739 | [365739-helping-hand.json](./365739-helping-hand.json) |
+| Heltons Haunted Hotel | 148371 | [148371-heltons-haunted-hotel.json](./148371-heltons-haunted-hotel.json) |
 | Helwyr | 148551 | [148551-helwyr.json](./148551-helwyr.json) |
 | Hemophobia | 299160 | [299160-hemophobia.json](./299160-hemophobia.json) |
 | Hen, Chicks and Cats | 204428 | [204428-hen-chicks-and-cats.json](./204428-hen-chicks-and-cats.json) |
@@ -2982,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horn and Shields | 319959 | [319959-horn-and-shields.json](./319959-horn-and-shields.json) |
 | Horn of Balance | 296912 | [296912-horn-of-balance.json](./296912-horn-of-balance.json) |
 | Horns of Justice | 211290 | [211290-horns-of-justice.json](./211290-horns-of-justice.json) |
+| Horny Alice: Gothic Run | 148341 | [148341-horny-alice-gothic-run.json](./148341-horny-alice-gothic-run.json) |
 | Horny Clinic | 226188 | [226188-horny-clinic.json](./226188-horny-clinic.json) |
 | Horny Dungeon | 272285 | [272285-horny-dungeon.json](./272285-horny-dungeon.json) |
 | Horny Fantasy Girl Hentai | 149407 | [149407-horny-fantasy-girl-hentai.json](./149407-horny-fantasy-girl-hentai.json) |
@@ -3159,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Mechanix | 70991 | [70991-hot-wheels-mechanix.json](./70991-hot-wheels-mechanix.json) |
 | Hot Wheels: Stunt Track Challenge | 248755 | [248755-hot-wheels-stunt-track-challenge.json](./248755-hot-wheels-stunt-track-challenge.json) |
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
+| Hotch Kiss | 148358 | [148358-hotch-kiss.json](./148358-hotch-kiss.json) |
 | Hotch Kiss | 63302 | [63302-hotch-kiss.json](./63302-hotch-kiss.json) |
 | Hotdog Delivery Hotdog | 390621 | [390621-hotdog-delivery-hotdog.json](./390621-hotdog-delivery-hotdog.json) |
 | Hotdog Samurai | 246953 | [246953-hotdog-samurai.json](./246953-hotdog-samurai.json) |
