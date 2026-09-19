@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zgirls | 303227 | [303227-zgirls.json](./303227-zgirls.json) |
 | Zgirls II: Last One | 174892 | [174892-zgirls-ii-last-one.json](./174892-zgirls-ii-last-one.json) |
 | Zgr3d | 241657 | [241657-zgr3d.json](./241657-zgr3d.json) |
+| Zhànchǎng Yīngxióng Wùyǔ | 130192 | [130192-zhanchang-yingxiong-wuyu.json](./130192-zhanchang-yingxiong-wuyu.json) |
 | Zhànshén Qīpò | 130915 | [130915-zhanshen-qipo.json](./130915-zhanshen-qipo.json) |
 | Zhen: Shattered Legacy | 328614 | [328614-zhen-shattered-legacy.json](./328614-zhen-shattered-legacy.json) |
 | Zhēngtiān Fēngwǔ Zhuán | 84225 | [84225-zhengtian-fengwu-zhuan.json](./84225-zhengtian-fengwu-zhuan.json) |
@@ -416,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Crush Driver | 192283 | [192283-zombie-crush-driver.json](./192283-zombie-crush-driver.json) |
 | Zombie Dash | 377133 | [377133-zombie-dash.json](./377133-zombie-dash.json) |
 | Zombie Dead Smasher Shooter: Premium Edition | 283163 | [283163-zombie-dead-smasher-shooter-premium-edition.json](./283163-zombie-dead-smasher-shooter-premium-edition.json) |
+| Zombie Defense Shelter | 130195 | [130195-zombie-defense-shelter.json](./130195-zombie-defense-shelter.json) |
 | Zombie Defense: Emerald Edition | 400206 | [400206-zombie-defense-emerald-edition.json](./400206-zombie-defense-emerald-edition.json) |
 | Zombie Defense: Perfect Cut Edition | 284932 | [284932-zombie-defense-perfect-cut-edition.json](./284932-zombie-defense-perfect-cut-edition.json) |
 | Zombie Defense: Pew Pew Edition | 306518 | [306518-zombie-defense-pew-pew-edition.json](./306518-zombie-defense-pew-pew-edition.json) |
@@ -530,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Town Online | 101607 | [101607-zombie-town-online.json](./101607-zombie-town-online.json) |
 | Zombie Towns | 129216 | [129216-zombie-towns.json](./129216-zombie-towns.json) |
 | Zombie Trailer Park | 219045 | [219045-zombie-trailer-park.json](./219045-zombie-trailer-park.json) |
+| Zombie Variant | 130161 | [130161-zombie-variant.json](./130161-zombie-variant.json) |
 | Zombie Vegas | 190172 | [190172-zombie-vegas.json](./190172-zombie-vegas.json) |
 | Zombie Virus | 43266 | [43266-zombie-virus.json](./43266-zombie-virus.json) |
 | Zombie vs. Human | 177026 | [177026-zombie-vs-human.json](./177026-zombie-vs-human.json) |
