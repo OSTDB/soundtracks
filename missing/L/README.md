@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Maledizione dell'Uccello Serpente | 191225 | [191225-la-maledizione-delluccello-serpente.json](./191225-la-maledizione-delluccello-serpente.json) |
 | La Mansion Hoover | 323328 | [323328-la-mansion-hoover.json](./323328-la-mansion-hoover.json) |
 | La Mina | 252994 | [252994-la-mina.json](./252994-la-mina.json) |
+| LA Monsters | 154970 | [154970-la-monsters.json](./154970-la-monsters.json) |
 | La Nuit | 261807 | [261807-la-nuit.json](./261807-la-nuit.json) |
 | La Odisea del Fracaso | 323331 | [323331-la-odisea-del-fracaso.json](./323331-la-odisea-del-fracaso.json) |
 | La Odisea del Fracaso II | 323355 | [323355-la-odisea-del-fracaso-ii.json](./323355-la-odisea-del-fracaso-ii.json) |
