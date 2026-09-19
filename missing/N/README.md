@@ -1040,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. U | 2171 | [2171-new-super-mario-bros-u.json](./2171-new-super-mario-bros-u.json) |
 | New Super Mario Bros. Versus: Cubby's Character Mod | 243978 | [243978-new-super-mario-bros-versus-cubbys-character-mod.json](./243978-new-super-mario-bros-versus-cubbys-character-mod.json) |
 | New Super Mario Bros. Versus: Steve's Map Pack | 243976 | [243976-new-super-mario-bros-versus-steves-map-pack.json](./243976-new-super-mario-bros-versus-steves-map-pack.json) |
+| New Super Mario Bros. Wii Coin World | 132003 | [132003-new-super-mario-bros-wii-coin-world.json](./132003-new-super-mario-bros-wii-coin-world.json) |
 | New Super Mario Bros.: 1-Up Hunt! | 231648 | [231648-new-super-mario-bros-1-up-hunt.json](./231648-new-super-mario-bros-1-up-hunt.json) |
 | New Super Mario Kart | 250049 | [250049-new-super-mario-kart.json](./250049-new-super-mario-kart.json) |
 | New Super Mario Lost Worlds | 394349 | [394349-new-super-mario-lost-worlds.json](./394349-new-super-mario-lost-worlds.json) |
@@ -1380,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightin Cage | 351701 | [351701-nightin-cage.json](./351701-nightin-cage.json) |
 | Nightingale Downs | 74112 | [74112-nightingale-downs.json](./74112-nightingale-downs.json) |
 | Nightlatch: Haunted House | 414411 | [414411-nightlatch-haunted-house.json](./414411-nightlatch-haunted-house.json) |
+| Nightline | 132031 | [132031-nightline.json](./132031-nightline.json) |
 | Nightly Maintenance | 196852 | [196852-nightly-maintenance.json](./196852-nightly-maintenance.json) |
 | NightmAR Protocol | 158074 | [158074-nightmar-protocol.json](./158074-nightmar-protocol.json) |
 | Nightmare | 216987 | [216987-nightmare.json](./216987-nightmare.json) |
@@ -2061,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northern Song Dynasty | 304007 | [304007-northern-song-dynasty.json](./304007-northern-song-dynasty.json) |
 | Northern Tale 2 | 76647 | [76647-northern-tale-2.json](./76647-northern-tale-2.json) |
 | Northern Tale 3 | 105980 | [105980-northern-tale-3.json](./105980-northern-tale-3.json) |
+| Northern Tale 5: Revival | 132019 | [132019-northern-tale-5-revival.json](./132019-northern-tale-5-revival.json) |
 | Northern Tales | 114405 | [114405-northern-tales.json](./114405-northern-tales.json) |
 | Northgard: Cross of Vidar Expansion Pack | 230821 | [230821-northgard-cross-of-vidar-expansion-pack.json](./230821-northgard-cross-of-vidar-expansion-pack.json) |
 | Northgard: Dodsvagr, Clan of the Rat | 188083 | [188083-northgard-dodsvagr-clan-of-the-rat.json](./188083-northgard-dodsvagr-clan-of-the-rat.json) |
