@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanojo ha Ira-ira Jirai Girl | 251613 | [251613-kanojo-ha-ira-ira-jirai-girl.json](./251613-kanojo-ha-ira-ira-jirai-girl.json) |
 | Kanojo to Ore to Koibito to. | 194609 | [194609-kanojo-to-ore-to-koibito-to.json](./194609-kanojo-to-ore-to-koibito-to.json) |
 | Kanojo xx Switch | 156614 | [156614-kanojo-xx-switch.json](./156614-kanojo-xx-switch.json) |
+| Kansensei Nightmare | 151532 | [151532-kansensei-nightmare.json](./151532-kansensei-nightmare.json) |
 | Kanye Zone | 274745 | [274745-kanye-zone.json](./274745-kanye-zone.json) |
 | Kanyu: Sword Tomb | 224033 | [224033-kanyu-sword-tomb.json](./224033-kanyu-sword-tomb.json) |
 | Kanzen Chuukei Pro Yakyuu Greatest Nine | 272901 | [272901-kanzen-chuukei-pro-yakyuu-greatest-nine.json](./272901-kanzen-chuukei-pro-yakyuu-greatest-nine.json) |
@@ -1041,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kioh Gyoku | 123607 | [123607-kioh-gyoku.json](./123607-kioh-gyoku.json) |
 | Kioku | 309886 | [309886-kioku.json](./309886-kioku.json) |
 | Kioku Hanabi | 309356 | [309356-kioku-hanabi.json](./309356-kioku-hanabi.json) |
+| Kioku Shoujo | 151533 | [151533-kioku-shoujo.json](./151533-kioku-shoujo.json) |
 | Kip and Odosan | 236938 | [236938-kip-and-odosan.json](./236938-kip-and-odosan.json) |
 | Kipi Oppi | 403043 | [403043-kipi-oppi.json](./403043-kipi-oppi.json) |
 | Kipidon: We Will Always Love You | 337455 | [337455-kipidon-we-will-always-love-you.json](./337455-kipidon-we-will-always-love-you.json) |
