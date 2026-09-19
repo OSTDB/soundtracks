@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Not Crazy | 309866 | [309866-im-not-crazy.json](./309866-im-not-crazy.json) |
 | I'm Not Jelly | 186263 | [186263-im-not-jelly.json](./186263-im-not-jelly.json) |
 | I'm Not Sleepy | 295002 | [295002-im-not-sleepy.json](./295002-im-not-sleepy.json) |
+| I'm Oh, So Busy...:A Week with Yoshimi | 143527 | [143527-im-oh-so-busy-a-week-with-yoshimi.json](./143527-im-oh-so-busy-a-week-with-yoshimi.json) |
 | I'm on Cirno Duty | 206931 | [206931-im-on-cirno-duty.json](./206931-im-on-cirno-duty.json) |
 | I'm on Merrymaking Watch | 237948 | [237948-im-on-merrymaking-watch.json](./237948-im-on-merrymaking-watch.json) |
 | I'm on Observation Duty 4 | 184481 | [184481-im-on-observation-duty-4.json](./184481-im-on-observation-duty-4.json) |
