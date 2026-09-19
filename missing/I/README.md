@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Assault | 35631 | [35631-indie-assault.json](./35631-indie-assault.json) |
 | Indie Bungle 2: Breakout Indies | 414340 | [414340-indie-bungle-2-breakout-indies.json](./414340-indie-bungle-2-breakout-indies.json) |
 | Indie Darling Bundle Vol 2 | 147790 | [147790-indie-darling-bundle-vol-2.json](./147790-indie-darling-bundle-vol-2.json) |
+| Indie Darling Bundle Vol. 1 | 146693 | [146693-indie-darling-bundle-vol-1.json](./146693-indie-darling-bundle-vol-1.json) |
 | Indie Dream | 118975 | [118975-indie-dream.json](./118975-indie-dream.json) |
 | Indie Game Sim | 26552 | [26552-indie-game-sim.json](./26552-indie-game-sim.json) |
 | Indie Gems Bundle - Explosions Edition | 147802 | [147802-indie-gems-bundle-explosions-edition.json](./147802-indie-gems-bundle-explosions-edition.json) |
