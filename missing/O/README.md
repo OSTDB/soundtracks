@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Balls 2 | 103527 | [103527-oh-balls-2.json](./103527-oh-balls-2.json) |
 | Oh Boy Cheese | 106617 | [106617-oh-boy-cheese.json](./106617-oh-boy-cheese.json) |
 | Oh Boy Cheese Remastered | 341503 | [341503-oh-boy-cheese-remastered.json](./341503-oh-boy-cheese-remastered.json) |
+| Oh Crab! | 129573 | [129573-oh-crab.json](./129573-oh-crab.json) |
 | Oh Frog | 132242 | [132242-oh-frog.json](./132242-oh-frog.json) |
 | Oh Jeez, Oh No, My Rabbits Are Gone! | 127201 | [127201-oh-jeez-oh-no-my-rabbits-are-gone.json](./127201-oh-jeez-oh-no-my-rabbits-are-gone.json) |
 | Oh Jellies! | 398442 | [398442-oh-jellies.json](./398442-oh-jellies.json) |
