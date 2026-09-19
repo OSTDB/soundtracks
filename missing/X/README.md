@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenosaga I & II | 26805 | [26805-xenosaga-i-and-ii.json](./26805-xenosaga-i-and-ii.json) |
 | Xenosaga II to III: A Missing Year | 240497 | [240497-xenosaga-ii-to-iii-a-missing-year.json](./240497-xenosaga-ii-to-iii-a-missing-year.json) |
 | Xenosaga Pied Piper Recreation | 341010 | [341010-xenosaga-pied-piper-recreation.json](./341010-xenosaga-pied-piper-recreation.json) |
+| Xenoscape | 142886 | [142886-xenoscape.json](./142886-xenoscape.json) |
 | XenoShyft: Dreadmire | 170380 | [170380-xenoshyft-dreadmire.json](./170380-xenoshyft-dreadmire.json) |
 | XenoShyft: Forbidden Sciences | 170378 | [170378-xenoshyft-forbidden-sciences.json](./170378-xenoshyft-forbidden-sciences.json) |
 | XenoShyft: NorTec Elite | 170379 | [170379-xenoshyft-nortec-elite.json](./170379-xenoshyft-nortec-elite.json) |
