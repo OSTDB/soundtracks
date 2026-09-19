@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Days of Summer: Lost Alpha | 335653 | [335653-7-days-of-summer-lost-alpha.json](./335653-7-days-of-summer-lost-alpha.json) |
 | 7 Days to Die: The Desert Armor Set | 353298 | [353298-7-days-to-die-the-desert-armor-set.json](./353298-7-days-to-die-the-desert-armor-set.json) |
 | 7 Days to Die: The Marauder Armor Set | 353299 | [353299-7-days-to-die-the-marauder-armor-set.json](./353299-7-days-to-die-the-marauder-armor-set.json) |
+| 7 Girls War | 160238 | [160238-7-girls-war.json](./160238-7-girls-war.json) |
 | 7 Horizons | 210898 | [210898-7-horizons.json](./210898-7-horizons.json) |
 | 7 Invaders | 293240 | [293240-7-invaders.json](./293240-7-invaders.json) |
 | 7 Little Words | 115641 | [115641-7-little-words.json](./115641-7-little-words.json) |
