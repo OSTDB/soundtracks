@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Hazard | 166776 | [166776-zombie-hazard.json](./166776-zombie-hazard.json) |
 | Zombie Hell: Infected City | 216814 | [216814-zombie-hell-infected-city.json](./216814-zombie-hell-infected-city.json) |
 | Zombie Highway | 201839 | [201839-zombie-highway.json](./201839-zombie-highway.json) |
+| Zombie Hill Race | 147265 | [147265-zombie-hill-race.json](./147265-zombie-hill-race.json) |
 | Zombie Hobby VR | 41950 | [41950-zombie-hobby-vr.json](./41950-zombie-hobby-vr.json) |
 | Zombie Hunter | 220741 | [220741-zombie-hunter.json](./220741-zombie-hunter.json) |
 | Zombie Hunter | 377130 | [377130-zombie-hunter.json](./377130-zombie-hunter.json) |
@@ -529,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie War | 187378 | [187378-zombie-war.json](./187378-zombie-war.json) |
 | Zombie Watch Part II | 241629 | [241629-zombie-watch-part-ii.json](./241629-zombie-watch-part-ii.json) |
 | Zombie Zombie | 316091 | [316091-zombie-zombie.json](./316091-zombie-zombie.json) |
+| Zombie's Cool | 147261 | [147261-zombies-cool.json](./147261-zombies-cool.json) |
 | Zombie's Cool 2 | 222338 | [222338-zombies-cool-2.json](./222338-zombies-cool-2.json) |
 | Zombieeee! | 151718 | [151718-zombieeee.json](./151718-zombieeee.json) |
 | ZombieFight VR | 30061 | [30061-zombiefight-vr.json](./30061-zombiefight-vr.json) |
@@ -552,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies. | 95370 | [95370-zombies.json](./95370-zombies.json) |
 | Zombies.io | 130359 | [130359-zombies-io.json](./130359-zombies-io.json) |
 | ZombieSquad | 216475 | [216475-zombiesquad.json](./216475-zombiesquad.json) |
+| ZombieVital DG | 147267 | [147267-zombievital-dg.json](./147267-zombievital-dg.json) |
 | ZombieZoid Zenith | 34435 | [34435-zombiezoid-zenith.json](./34435-zombiezoid-zenith.json) |
 | Zombiezz | 268453 | [268453-zombiezz.json](./268453-zombiezz.json) |
 | Zombified: The Text Adventure Game of the Zombie Plague Apocalypse! | 87259 | [87259-zombified-the-text-adventure-game-of-the-zombie-plague-apocalypse.json](./87259-zombified-the-text-adventure-game-of-the-zombie-plague-apocalypse.json) |
@@ -644,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zort 9 | 274227 | [274227-zort-9.json](./274227-zort-9.json) |
 | Zory | 383381 | [383381-zory.json](./383381-zory.json) |
 | Zotenhold | 236498 | [236498-zotenhold.json](./236498-zotenhold.json) |
+| Zotrix Starglider | 147263 | [147263-zotrix-starglider.json](./147263-zotrix-starglider.json) |
 | Zotto suru Kowai Toshi Densetsu | 252406 | [252406-zotto-suru-kowai-toshi-densetsu.json](./252406-zotto-suru-kowai-toshi-densetsu.json) |
 | Zozo and the Lost Dreams | 369087 | [369087-zozo-and-the-lost-dreams.json](./369087-zozo-and-the-lost-dreams.json) |
 | ZP2KX: Zombies and Pterodactyls 20XX | 79927 | [79927-zp2kx-zombies-and-pterodactyls-20xx.json](./79927-zp2kx-zombies-and-pterodactyls-20xx.json) |
