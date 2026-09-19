@@ -2459,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive Jump | 20874 | [20874-hive-jump.json](./20874-hive-jump.json) |
 | Hive Jump 2: Survivors | 264591 | [264591-hive-jump-2-survivors.json](./264591-hive-jump-2-survivors.json) |
 | Hive Quest | 104030 | [104030-hive-quest.json](./104030-hive-quest.json) |
+| Hive Slayer | 160235 | [160235-hive-slayer.json](./160235-hive-slayer.json) |
 | Hive Spy Remi: Mind Control Madness | 223458 | [223458-hive-spy-remi-mind-control-madness.json](./223458-hive-spy-remi-mind-control-madness.json) |
 | Hive Time | 124254 | [124254-hive-time.json](./124254-hive-time.json) |
 | Hivefront TD | 379857 | [379857-hivefront-td.json](./379857-hivefront-td.json) |
