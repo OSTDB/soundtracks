@@ -1249,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Pirates | 196792 | [196792-battle-pirates.json](./196792-battle-pirates.json) |
 | Battle Pixel's Survival | 76680 | [76680-battle-pixels-survival.json](./76680-battle-pixels-survival.json) |
 | Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
+| Battle Polygon | 129022 | [129022-battle-polygon.json](./129022-battle-polygon.json) |
 | Battle Princess Madelyn: Royal Edition | 147930 | [147930-battle-princess-madelyn-royal-edition.json](./147930-battle-princess-madelyn-royal-edition.json) |
 | Battle Puzzle 2048: Wicked Witches | 370801 | [370801-battle-puzzle-2048-wicked-witches.json](./370801-battle-puzzle-2048-wicked-witches.json) |
 | Battle Racing Stars | 138719 | [138719-battle-racing-stars.json](./138719-battle-racing-stars.json) |
@@ -3909,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boosted | 264053 | [264053-boosted.json](./264053-boosted.json) |
 | Boosted Survivors | 314666 | [314666-boosted-survivors.json](./314666-boosted-survivors.json) |
 | Booster Racers | 303105 | [303105-booster-racers.json](./303105-booster-racers.json) |
+| Boot : Game Dev Sim | 129034 | [129034-boot-game-dev-sim.json](./129034-boot-game-dev-sim.json) |
 | Boot Camp Endless Runner | 223497 | [223497-boot-camp-endless-runner.json](./223497-boot-camp-endless-runner.json) |
 | Boot Hill Heroes 2 | 60561 | [60561-boot-hill-heroes-2.json](./60561-boot-hill-heroes-2.json) |
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
@@ -4298,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Tester: Mind Trick Quiz 2 | 301839 | [301839-brain-tester-mind-trick-quiz-2.json](./301839-brain-tester-mind-trick-quiz-2.json) |
 | Brain Urge | 278556 | [278556-brain-urge.json](./278556-brain-urge.json) |
 | Brain Vomits Garden | 203897 | [203897-brain-vomits-garden.json](./203897-brain-vomits-garden.json) |
+| Brain vs Zombies | 128993 | [128993-brain-vs-zombies.json](./128993-brain-vs-zombies.json) |
 | Brain Wars | 83580 | [83580-brain-wars.json](./83580-brain-wars.json) |
 | Brain You Later | 135677 | [135677-brain-you-later.json](./135677-brain-you-later.json) |
 | BrainBread | 138773 | [138773-brainbread.json](./138773-brainbread.json) |
@@ -4704,6 +4707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Robot | 152840 | [152840-broken-robot.json](./152840-broken-robot.json) |
 | Broken Shell | 304374 | [304374-broken-shell.json](./304374-broken-shell.json) |
 | Broken Spell | 122422 | [122422-broken-spell.json](./122422-broken-spell.json) |
+| Broken Spell 2 | 129009 | [129009-broken-spell-2.json](./129009-broken-spell-2.json) |
 | Broken Spirit | 371256 | [371256-broken-spirit.json](./371256-broken-spirit.json) |
 | Broken Sword 5: The Serpent's Curse | 2924 | [2924-broken-sword-5-the-serpents-curse.json](./2924-broken-sword-5-the-serpents-curse.json) |
 | Broken Sword: Parzival’s Stone | 262650 | [262650-broken-sword-parzival-s-stone.json](./262650-broken-sword-parzival-s-stone.json) |
