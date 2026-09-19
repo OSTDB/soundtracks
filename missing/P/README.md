@@ -2252,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PISTA Motorsport | 251855 | [251855-pista-motorsport.json](./251855-pista-motorsport.json) |
 | Pistols at Dawn | 92502 | [92502-pistols-at-dawn.json](./92502-pistols-at-dawn.json) |
 | Pit of 100 Wonders | 394348 | [394348-pit-of-100-wonders.json](./394348-pit-of-100-wonders.json) |
+| Pit of Ascension | 155986 | [155986-pit-of-ascension.json](./155986-pit-of-ascension.json) |
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
 | Pit Pioneers | 391153 | [391153-pit-pioneers.json](./391153-pit-pioneers.json) |
 | Pit Stop Racing: Club Vs. Club | 251662 | [251662-pit-stop-racing-club-vs-club.json](./251662-pit-stop-racing-club-vs-club.json) |
@@ -3758,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poultry Party | 341558 | [341558-poultry-party.json](./341558-poultry-party.json) |
 | Pour Boy and the Nitro Necromancer | 400895 | [400895-pour-boy-and-the-nitro-necromancer.json](./400895-pour-boy-and-the-nitro-necromancer.json) |
 | Pour Quelques Bonbons... | 320994 | [320994-pour-quelques-bonbons.json](./320994-pour-quelques-bonbons.json) |
+| Pour There | 155994 | [155994-pour-there.json](./155994-pour-there.json) |
 | Pouring Pints | 412271 | [412271-pouring-pints.json](./412271-pouring-pints.json) |
 | Poverty is a Choice | 106610 | [106610-poverty-is-a-choice.json](./106610-poverty-is-a-choice.json) |
 | Pow 2 | 241074 | [241074-pow-2.json](./241074-pow-2.json) |
