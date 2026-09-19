@@ -4774,15 +4774,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruxólico | 251700 | [251700-bruxolico.json](./251700-bruxolico.json) |
 | BrVR: Backrooms Virtual Reality | 199583 | [199583-brvr-backrooms-virtual-reality.json](./199583-brvr-backrooms-virtual-reality.json) |
 | Bryan's Indie Collection | 355577 | [355577-bryans-indie-collection.json](./355577-bryans-indie-collection.json) |
+| BS Bokujou Monogatari | 134429 | [134429-bs-bokujou-monogatari.json](./134429-bs-bokujou-monogatari.json) |
+| BS Dragon Quest | 134416 | [134416-bs-dragon-quest.json](./134416-bs-dragon-quest.json) |
 | BS F-Zero Grand Prix 2 | 151577 | [151577-bs-f-zero-grand-prix-2.json](./151577-bs-f-zero-grand-prix-2.json) |
 | BS F-Zero Grand Prix 2: Practice | 38348 | [38348-bs-f-zero-grand-prix-2-practice.json](./38348-bs-f-zero-grand-prix-2-practice.json) |
 | BS Fire Emblem: Archanea Saga | 178586 | [178586-bs-fire-emblem-archanea-saga.json](./178586-bs-fire-emblem-archanea-saga.json) |
+| BS Fuurai no Shiren: Surara wo Sukue | 134430 | [134430-bs-fuurai-no-shiren-surara-wo-sukue.json](./134430-bs-fuurai-no-shiren-surara-wo-sukue.json) |
 | BS Hacker: Zero Expansions | 78052 | [78052-bs-hacker-zero-expansions.json](./78052-bs-hacker-zero-expansions.json) |
 | BS Ihatovo Monogatari | 150170 | [150170-bs-ihatovo-monogatari.json](./150170-bs-ihatovo-monogatari.json) |
+| BS Marvelous: Camp Arnold | 134431 | [134431-bs-marvelous-camp-arnold.json](./134431-bs-marvelous-camp-arnold.json) |
+| BS Marvelous: Time Athletic | 134432 | [134432-bs-marvelous-time-athletic.json](./134432-bs-marvelous-time-athletic.json) |
+| BS Parlor! Parlor! | 134433 | [134433-bs-parlor-parlor.json](./134433-bs-parlor-parlor.json) |
+| BS Shin Onigashima | 134434 | [134434-bs-shin-onigashima.json](./134434-bs-shin-onigashima.json) |
+| BS SimCity: Machi Tsukuri Taikai | 134435 | [134435-bs-simcity-machi-tsukuri-taikai.json](./134435-bs-simcity-machi-tsukuri-taikai.json) |
 | BS SimCity: Machi Tsukuri Taikai - Scenario 1 | 179711 | [179711-bs-simcity-machi-tsukuri-taikai-scenario-1.json](./179711-bs-simcity-machi-tsukuri-taikai-scenario-1.json) |
 | BS SimCity: Machi Tsukuri Taikai - Scenario 2 | 179712 | [179712-bs-simcity-machi-tsukuri-taikai-scenario-2.json](./179712-bs-simcity-machi-tsukuri-taikai-scenario-2.json) |
 | BS SimCity: Machi Tsukuri Taikai - Scenario 3 | 179713 | [179713-bs-simcity-machi-tsukuri-taikai-scenario-3.json](./179713-bs-simcity-machi-tsukuri-taikai-scenario-3.json) |
 | BS SimCity: Machi Tsukuri Taikai - Scenario 4 | 179714 | [179714-bs-simcity-machi-tsukuri-taikai-scenario-4.json](./179714-bs-simcity-machi-tsukuri-taikai-scenario-4.json) |
+| BS Spriggan Powered | 134462 | [134462-bs-spriggan-powered.json](./134462-bs-spriggan-powered.json) |
 | BS Super Aleste | 266871 | [266871-bs-super-aleste.json](./266871-bs-super-aleste.json) |
 | BS Super Mario Collection: Dai-1-shuu | 179729 | [179729-bs-super-mario-collection-dai-1-shuu.json](./179729-bs-super-mario-collection-dai-1-shuu.json) |
 | BS Super Mario Collection: Dai-2-shuu | 179730 | [179730-bs-super-mario-collection-dai-2-shuu.json](./179730-bs-super-mario-collection-dai-2-shuu.json) |
