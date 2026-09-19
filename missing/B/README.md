@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baron Baldric: A Grave Adventure | 14287 | [14287-baron-baldric-a-grave-adventure.json](./14287-baron-baldric-a-grave-adventure.json) |
 | Baron of Blood | 159153 | [159153-baron-of-blood.json](./159153-baron-of-blood.json) |
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
+| Baroque | 147807 | [147807-baroque.json](./147807-baroque.json) |
 | Barp Online | 379959 | [379959-barp-online.json](./379959-barp-online.json) |
 | Barrage | 146228 | [146228-barrage.json](./146228-barrage.json) |
 | Barrage | 196818 | [196818-barrage.json](./196818-barrage.json) |
@@ -2846,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Bots | 194022 | [194022-blast-bots.json](./194022-blast-bots.json) |
 | Blast Dash | 411571 | [411571-blast-dash.json](./411571-blast-dash.json) |
 | Blast Droids | 172025 | [172025-blast-droids.json](./172025-blast-droids.json) |
+| Blast Ensemble | 147809 | [147809-blast-ensemble.json](./147809-blast-ensemble.json) |
 | Blast Flock | 181216 | [181216-blast-flock.json](./181216-blast-flock.json) |
 | Blast Force | 123616 | [123616-blast-force.json](./123616-blast-force.json) |
 | Blast It | 245549 | [245549-blast-it.json](./245549-blast-it.json) |
