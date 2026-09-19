@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gale of Windoria | 208021 | [208021-gale-of-windoria.json](./208021-gale-of-windoria.json) |
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
 | Galerians: Limited Edition | 146856 | [146856-galerians-limited-edition.json](./146856-galerians-limited-edition.json) |
+| Galf | 131401 | [131401-galf.json](./131401-galf.json) |
 | Galga | 227882 | [227882-galga.json](./227882-galga.json) |
 | Galidor: Defenders of the Outer Dimension | 316808 | [316808-galidor-defenders-of-the-outer-dimension.json](./316808-galidor-defenders-of-the-outer-dimension.json) |
 | Galimulator | 89971 | [89971-galimulator.json](./89971-galimulator.json) |
@@ -3189,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunshot Arcade | 407339 | [407339-gunshot-arcade.json](./407339-gunshot-arcade.json) |
 | GunShy | 229376 | [229376-gunshy.json](./229376-gunshy.json) |
 | Gunsim | 327208 | [327208-gunsim.json](./327208-gunsim.json) |
+| Gunslinger | 131389 | [131389-gunslinger.json](./131389-gunslinger.json) |
 | Gunslinger | 81337 | [81337-gunslinger.json](./81337-gunslinger.json) |
 | Gunslinger Collection | 37120 | [37120-gunslinger-collection.json](./37120-gunslinger-collection.json) |
 | Gunslinger Girl Volume I | 43268 | [43268-gunslinger-girl-volume-i.json](./43268-gunslinger-girl-volume-i.json) |
