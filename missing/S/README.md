@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SDST: Deluxe | 168904 | [168904-sdst-deluxe.json](./168904-sdst-deluxe.json) |
 | SE3 Protocol: Last Drop | 415877 | [415877-se3-protocol-last-drop.json](./415877-se3-protocol-last-drop.json) |
 | Sea Battle Minimal | 192947 | [192947-sea-battle-minimal.json](./192947-sea-battle-minimal.json) |
+| Sea Battle: Annihilation | 144816 | [144816-sea-battle-annihilation.json](./144816-sea-battle-annihilation.json) |
 | Sea Bubble Burst | 205833 | [205833-sea-bubble-burst.json](./205833-sea-bubble-burst.json) |
 | Sea Chronicles | 249879 | [249879-sea-chronicles.json](./249879-sea-chronicles.json) |
 | Sea Creatures | 112373 | [112373-sea-creatures.json](./112373-sea-creatures.json) |
@@ -1233,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea-Doo Hydrocross | 264853 | [264853-sea-doo-hydrocross.json](./264853-sea-doo-hydrocross.json) |
 | Seabed Frog | 211956 | [211956-seabed-frog.json](./211956-seabed-frog.json) |
 | SeaBlade | 47320 | [47320-seablade.json](./47320-seablade.json) |
+| Seablip | 144811 | [144811-seablip.json](./144811-seablip.json) |
 | Seaborn | 176450 | [176450-seaborn.json](./176450-seaborn.json) |
 | SeaCret 1 | 352464 | [352464-seacret-1.json](./352464-seacret-1.json) |
 | Seafarer's Gambit | 329172 | [329172-seafarers-gambit.json](./329172-seafarers-gambit.json) |
@@ -4083,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimeward | 373084 | [373084-slimeward.json](./373084-slimeward.json) |
 | Slimey Champions | 166770 | [166770-slimey-champions.json](./166770-slimey-champions.json) |
 | Slimey Climbey Chambers | 314462 | [314462-slimey-climbey-chambers.json](./314462-slimey-climbey-chambers.json) |
+| Slimey, Jump! | 144787 | [144787-slimey-jump.json](./144787-slimey-jump.json) |
 | Slimoid | 185608 | [185608-slimoid.json](./185608-slimoid.json) |
 | Slimy | 181321 | [181321-slimy.json](./181321-slimy.json) |
 | Slimy Snail Ride | 106571 | [106571-slimy-snail-ride.json](./106571-slimy-snail-ride.json) |
@@ -5763,6 +5766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park | 198486 | [198486-south-park.json](./198486-south-park.json) |
 | South Park Let's Go Tower Defense Play! | 1260 | [1260-south-park-lets-go-tower-defense-play.json](./1260-south-park-lets-go-tower-defense-play.json) |
 | South Park Rally | 1259 | [1259-south-park-rally.json](./1259-south-park-rally.json) |
+| South Park: Cartman's Authoritah | 144780 | [144780-south-park-cartmans-authoritah.json](./144780-south-park-cartmans-authoritah.json) |
 | South Park: Snow Day! | 261145 | [261145-south-park-snow-day.json](./261145-south-park-snow-day.json) |
 | South Park: Snow Day! - 420 Pack | 298710 | [298710-south-park-snow-day-420-pack.json](./298710-south-park-snow-day-420-pack.json) |
 | South Park: Snow Day! - Bigger, Longer & Uncut Anniversary Pack | 316256 | [316256-south-park-snow-day-bigger-longer-and-uncut-anniversary-pack.json](./316256-south-park-snow-day-bigger-longer-and-uncut-anniversary-pack.json) |
