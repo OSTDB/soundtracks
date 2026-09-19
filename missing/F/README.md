@@ -2381,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floaty Fighters | 123041 | [123041-floaty-fighters.json](./123041-floaty-fighters.json) |
 | FloCity | 244260 | [244260-flocity.json](./244260-flocity.json) |
 | Flock Frenzy | 386259 | [386259-flock-frenzy.json](./386259-flock-frenzy.json) |
+| Flocks | 174193 | [174193-flocks.json](./174193-flocks.json) |
 | Flood | 12104 | [12104-flood.json](./12104-flood.json) |
 | Flood | 320187 | [320187-flood.json](./320187-flood.json) |
 | Flood Descendance | 355024 | [355024-flood-descendance.json](./355024-flood-descendance.json) |
