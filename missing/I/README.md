@@ -1137,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Energy | 362908 | [362908-infinite-energy.json](./362908-infinite-energy.json) |
 | Infinite Forest Idle | 277433 | [277433-infinite-forest-idle.json](./277433-infinite-forest-idle.json) |
 | Infinite Golf 2 | 153825 | [153825-infinite-golf-2.json](./153825-infinite-golf-2.json) |
+| Infinite Guitars | 133239 | [133239-infinite-guitars.json](./133239-infinite-guitars.json) |
 | Infinite Incantation | 236854 | [236854-infinite-incantation.json](./236854-infinite-incantation.json) |
 | Infinite Inside | 306748 | [306748-infinite-inside.json](./306748-infinite-inside.json) |
 | Infinite Jigsaw Puzzle | 94222 | [94222-infinite-jigsaw-puzzle.json](./94222-infinite-jigsaw-puzzle.json) |
