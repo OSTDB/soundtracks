@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Mushrooms: The Front Yard - Background | 324475 | [324475-land-of-mushrooms-the-front-yard-background.json](./324475-land-of-mushrooms-the-front-yard-background.json) |
 | Land of Nod | 208439 | [208439-land-of-nod.json](./208439-land-of-nod.json) |
 | Land of Puzzles: Elven Princess | 109767 | [109767-land-of-puzzles-elven-princess.json](./109767-land-of-puzzles-elven-princess.json) |
+| Land of Runes | 175801 | [175801-land-of-runes.json](./175801-land-of-runes.json) |
 | Land of the Dead: Road to Fiddler's Green | 5900 | [5900-land-of-the-dead-road-to-fiddlers-green.json](./5900-land-of-the-dead-road-to-fiddlers-green.json) |
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
 | Land of Viewers | 204095 | [204095-land-of-viewers.json](./204095-land-of-viewers.json) |
@@ -616,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaf Clicker: Grow Your Green Thumb! | 340908 | [340908-leaf-clicker-grow-your-green-thumb.json](./340908-leaf-clicker-grow-your-green-thumb.json) |
 | Leaf Me Alone | 408086 | [408086-leaf-me-alone.json](./408086-leaf-me-alone.json) |
 | Leaf on Wind | 149087 | [149087-leaf-on-wind.json](./149087-leaf-on-wind.json) |
+| Leaf Tree | 175791 | [175791-leaf-tree.json](./175791-leaf-tree.json) |
 | Leafing Home | 333006 | [333006-leafing-home.json](./333006-leafing-home.json) |
 | Leaftaker | 411043 | [411043-leaftaker.json](./411043-leaftaker.json) |
 | Leafy Trails Collection | 294838 | [294838-leafy-trails-collection.json](./294838-leafy-trails-collection.json) |
