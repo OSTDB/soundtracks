@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nameless Kaizo World | 267914 | [267914-nameless-kaizo-world.json](./267914-nameless-kaizo-world.json) |
 | Nameless Kaizo World Light | 267915 | [267915-nameless-kaizo-world-light.json](./267915-nameless-kaizo-world-light.json) |
 | Nameless Shells | 267916 | [267916-nameless-shells.json](./267916-nameless-shells.json) |
+| Nami | 169846 | [169846-nami.json](./169846-nami.json) |
 | Nampa Forest | 104626 | [104626-nampa-forest.json](./104626-nampa-forest.json) |
 | Namtir Raiders | 319589 | [319589-namtir-raiders.json](./319589-namtir-raiders.json) |
 | Nana | 201771 | [201771-nana.json](./201771-nana.json) |
@@ -1872,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noelle Does Her Best! | 210717 | [210717-noelle-does-her-best.json](./210717-noelle-does-her-best.json) |
 | Noema | 403695 | [403695-noema.json](./403695-noema.json) |
 | Nofland Story | 220304 | [220304-nofland-story.json](./220304-nofland-story.json) |
+| Nofrills Solitaire | 169875 | [169875-nofrills-solitaire.json](./169875-nofrills-solitaire.json) |
 | Nofsky Zombies | 235838 | [235838-nofsky-zombies.json](./235838-nofsky-zombies.json) |
 | Noga | 264703 | [264703-noga.json](./264703-noga.json) |
 | Nogard | 94729 | [94729-nogard.json](./94729-nogard.json) |
