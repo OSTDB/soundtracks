@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Afternoon | 166734 | [166734-fading-afternoon.json](./166734-fading-afternoon.json) |
 | Fading Earth | 260704 | [260704-fading-earth.json](./260704-fading-earth.json) |
 | Fading Echoes | 291213 | [291213-fading-echoes.json](./291213-fading-echoes.json) |
+| Fading Existence | 179029 | [179029-fading-existence.json](./179029-fading-existence.json) |
 | Fading Haven | 402260 | [402260-fading-haven.json](./402260-fading-haven.json) |
 | Fading Hearts | 16778 | [16778-fading-hearts.json](./16778-fading-hearts.json) |
 | Fading Skies | 291768 | [291768-fading-skies.json](./291768-fading-skies.json) |
@@ -1501,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Guardian 2 | 197348 | [197348-final-guardian-2.json](./197348-final-guardian-2.json) |
 | Final Gun | 241517 | [241517-final-gun.json](./241517-final-gun.json) |
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
+| Final Inferno | 179068 | [179068-final-inferno.json](./179068-final-inferno.json) |
 | Final Judgment - Damnation Day | 110302 | [110302-final-judgment-damnation-day.json](./110302-final-judgment-damnation-day.json) |
 | Final Justice | 266892 | [266892-final-justice.json](./266892-final-justice.json) |
 | Final Legacy | 25697 | [25697-final-legacy.json](./25697-final-legacy.json) |
