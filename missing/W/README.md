@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winterclaw | 291095 | [291095-winterclaw.json](./291095-winterclaw.json) |
 | Winterfall | 308238 | [308238-winterfall.json](./308238-winterfall.json) |
 | Winterfest | 323923 | [323923-winterfest.json](./323923-winterfest.json) |
+| Winterfeud | 129584 | [129584-winterfeud.json](./129584-winterfeud.json) |
 | Winterland Solitaire | 386137 | [386137-winterland-solitaire.json](./386137-winterland-solitaire.json) |
 | Winterland Solitaire 2 | 386132 | [386132-winterland-solitaire-2.json](./386132-winterland-solitaire-2.json) |
 | Winterland Solitaire 3 | 415966 | [415966-winterland-solitaire-3.json](./415966-winterland-solitaire-3.json) |
