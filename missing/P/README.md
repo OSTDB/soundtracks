@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peddlers Between Pulsars | 349399 | [349399-peddlers-between-pulsars.json](./349399-peddlers-between-pulsars.json) |
 | Pedro | 314289 | [314289-pedro.json](./314289-pedro.json) |
 | Pedro | 52008 | [52008-pedro.json](./52008-pedro.json) |
+| Pedro's Adventures in Spanish | 159161 | [159161-pedros-adventures-in-spanish.json](./159161-pedros-adventures-in-spanish.json) |
 | Pee War! | 163861 | [163861-pee-war.json](./163861-pee-war.json) |
 | Peek a Rabbit! | 395666 | [395666-peek-a-rabbit.json](./395666-peek-a-rabbit.json) |
 | Peek-A-Mimic Christmas Castle | 326261 | [326261-peek-a-mimic-christmas-castle.json](./326261-peek-a-mimic-christmas-castle.json) |
@@ -1523,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pew Pew Zombies | 88300 | [88300-pew-pew-zombies.json](./88300-pew-pew-zombies.json) |
 | PewDiePie: Legend of the Brofist | 15182 | [15182-pewdiepie-legend-of-the-brofist.json](./15182-pewdiepie-legend-of-the-brofist.json) |
 | PewDiePie's Paradise Island | 200637 | [200637-pewdiepies-paradise-island.json](./200637-pewdiepies-paradise-island.json) |
+| PewDuckPie: On the Run | 159178 | [159178-pewduckpie-on-the-run.json](./159178-pewduckpie-on-the-run.json) |
 | PewPew 2 | 140606 | [140606-pewpew-2.json](./140606-pewpew-2.json) |
 | Pewt 'em Up! | 203561 | [203561-pewt-em-up.json](./203561-pewt-em-up.json) |
 | Pferd & Pony - Mein Pferdehof | 125959 | [125959-pferd-and-pony-mein-pferdehof.json](./125959-pferd-and-pony-mein-pferdehof.json) |
@@ -1631,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phmlspd | 223132 | [223132-phmlspd.json](./223132-phmlspd.json) |
 | Phobia | 202320 | [202320-phobia.json](./202320-phobia.json) |
 | Phobia | 205114 | [205114-phobia.json](./205114-phobia.json) |
+| Phobia 1.5 | 159179 | [159179-phobia-1-5.json](./159179-phobia-1-5.json) |
 | PhoboPhobia | 306479 | [306479-phobophobia.json](./306479-phobophobia.json) |
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
 | Phobos Down | 285462 | [285462-phobos-down.json](./285462-phobos-down.json) |
