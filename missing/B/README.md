@@ -3791,6 +3791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom! | 251582 | [251582-boom.json](./251582-boom.json) |
 | Boom! Boom! | 115691 | [115691-boom-boom.json](./115691-boom-boom.json) |
 | Boom! Tanks | 62778 | [62778-boom-tanks.json](./62778-boom-tanks.json) |
+| Boom! VR | 158069 | [158069-boom-vr.json](./158069-boom-vr.json) |
 | Boomblastica | 65520 | [65520-boomblastica.json](./65520-boomblastica.json) |
 | BoomBox | 143046 | [143046-boombox.json](./143046-boombox.json) |
 | Boomby | 179147 | [179147-boomby.json](./179147-boomby.json) |
@@ -4602,11 +4603,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Sword: The Shadow of the Templars | 206502 | [206502-broken-sword-the-shadow-of-the-templars.json](./206502-broken-sword-the-shadow-of-the-templars.json) |
 | Broken Sword: The Shadow of the Templars | 206503 | [206503-broken-sword-the-shadow-of-the-templars.json](./206503-broken-sword-the-shadow-of-the-templars.json) |
 | Broken System | 236007 | [236007-broken-system.json](./236007-broken-system.json) |
+| Broken Thorns: West Gate | 158058 | [158058-broken-thorns-west-gate.json](./158058-broken-thorns-west-gate.json) |
 | Broken Ties | 96684 | [96684-broken-ties.json](./96684-broken-ties.json) |
 | Broken Universe + Brawl Chess | 231362 | [231362-broken-universe-brawl-chess.json](./231362-broken-universe-brawl-chess.json) |
 | Broken Voyage | 405471 | [405471-broken-voyage.json](./405471-broken-voyage.json) |
 | Broken War | 309136 | [309136-broken-war.json](./309136-broken-war.json) |
 | BrokenLore: Don't Lie | 370708 | [370708-brokenlore-dont-lie.json](./370708-brokenlore-dont-lie.json) |
+| Bromeliad | 158053 | [158053-bromeliad.json](./158053-bromeliad.json) |
 | BROMS: Battle Royale Management Simulator | 410877 | [410877-broms-battle-royale-management-simulator.json](./410877-broms-battle-royale-management-simulator.json) |
 | Bronk's Jungle Adventure | 143679 | [143679-bronks-jungle-adventure.json](./143679-bronks-jungle-adventure.json) |
 | Bronkie the Bronchiasaurus | 42624 | [42624-bronkie-the-bronchiasaurus.json](./42624-bronkie-the-bronchiasaurus.json) |
