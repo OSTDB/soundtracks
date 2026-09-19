@@ -2978,6 +2978,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click! | 94731 | [94731-click.json](./94731-click.json) |
 | Clickart | 255146 | [255146-clickart.json](./255146-clickart.json) |
 | ClickBit | 76644 | [76644-clickbit.json](./76644-clickbit.json) |
+| Clickbox | 132022 | [132022-clickbox.json](./132022-clickbox.json) |
+| Clickbox | 132023 | [132023-clickbox.json](./132023-clickbox.json) |
 | ClickCells: CPU Girls | 385040 | [385040-clickcells-cpu-girls.json](./385040-clickcells-cpu-girls.json) |
 | ClickCells: Summer | 173834 | [173834-clickcells-summer.json](./173834-clickcells-summer.json) |
 | ClickCells: Winter Lady | 168213 | [168213-clickcells-winter-lady.json](./168213-clickcells-winter-lady.json) |
@@ -3876,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Foreign Exchange | 282121 | [282121-computer-foreign-exchange.json](./282121-computer-foreign-exchange.json) |
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
 | Computer Othello | 242573 | [242573-computer-othello.json](./242573-computer-othello.json) |
+| Computer Physics Simulator 2020 | 132008 | [132008-computer-physics-simulator-2020.json](./132008-computer-physics-simulator-2020.json) |
 | Computer Repair Shop | 256284 | [256284-computer-repair-shop.json](./256284-computer-repair-shop.json) |
 | Computer Space | 11245 | [11245-computer-space.json](./11245-computer-space.json) |
 | Computer Store Simulator | 382744 | [382744-computer-store-simulator.json](./382744-computer-store-simulator.json) |
