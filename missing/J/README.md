@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the Center of the Earth: Gold Edition | 81425 | [81425-journey-to-the-center-of-the-earth-gold-edition.json](./81425-journey-to-the-center-of-the-earth-gold-edition.json) |
 | Journey to the Center of the Moon | 53246 | [53246-journey-to-the-center-of-the-moon.json](./53246-journey-to-the-center-of-the-moon.json) |
 | Journey to the Centre of Nirn | 314286 | [314286-journey-to-the-centre-of-nirn.json](./314286-journey-to-the-centre-of-nirn.json) |
+| Journey to the Savage Planet: Employee of the Month Edition | 143481 | [143481-journey-to-the-savage-planet-employee-of-the-month-edition.json](./143481-journey-to-the-savage-planet-employee-of-the-month-edition.json) |
 | Journey to the West | 274550 | [274550-journey-to-the-west.json](./274550-journey-to-the-west.json) |
 | Journey to the West: A Super Mario Bros. ROM Hack | 198467 | [198467-journey-to-the-west-a-super-mario-bros-rom-hack.json](./198467-journey-to-the-west-a-super-mario-bros-rom-hack.json) |
 | Journey to the West: Blade Souls | 286135 | [286135-journey-to-the-west-blade-souls.json](./286135-journey-to-the-west-blade-souls.json) |
