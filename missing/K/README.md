@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitari and Kimoshi | 223431 | [223431-kitari-and-kimoshi.json](./223431-kitari-and-kimoshi.json) |
 | Kitaria Fables | 144542 | [144542-kitaria-fables.json](./144542-kitaria-fables.json) |
 | Kitaria Fables: Deluxe Edition | 166686 | [166686-kitaria-fables-deluxe-edition.json](./166686-kitaria-fables-deluxe-edition.json) |
+| Kitaria Fables: Digital Deluxe Edition | 167180 | [167180-kitaria-fables-digital-deluxe-edition.json](./167180-kitaria-fables-digital-deluxe-edition.json) |
 | Kitaria Heroes: Force Bender | 38961 | [38961-kitaria-heroes-force-bender.json](./38961-kitaria-heroes-force-bender.json) |
 | Kitbashers United | 307735 | [307735-kitbashers-united.json](./307735-kitbashers-united.json) |
 | Kitchen | 218719 | [218719-kitchen.json](./218719-kitchen.json) |
@@ -1487,11 +1488,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Aozora ni Yakusoku wo: Te no Hira no Rakuen | 324676 | [324676-kono-aozora-ni-yakusoku-wo-te-no-hira-no-rakuen.json](./324676-kono-aozora-ni-yakusoku-wo-te-no-hira-no-rakuen.json) |
 | Kono Koi, Seishun ni Yori. | 194585 | [194585-kono-koi-seishun-ni-yori.json](./194585-kono-koi-seishun-ni-yori.json) |
 | Kono Subarashii Sekai ni Shukufuku o! Fantasutikku Deizu | 131568 | [131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json](./131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json) |
+| Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi! Plus: Limited Edition | 167155 | [167155-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-limited-edition.json](./167155-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-plus-limited-edition.json) |
+| Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi!: Limited Edition | 167152 | [167152-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-limited-edition.json](./167152-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-limited-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo!: Kono Yokubukai Game ni Shinpan wo! | 112301 | [112301-kono-subarashii-sekai-ni-shukufuku-wo-kono-yokubukai-game-ni-shinpan-wo.json](./112301-kono-subarashii-sekai-ni-shukufuku-wo-kono-yokubukai-game-ni-shinpan-wo.json) |
 | Kono Warui Koneko-chan-me! | 202228 | [202228-kono-warui-koneko-chan-me.json](./202228-kono-warui-koneko-chan-me.json) |
 | Konohana 4: Yami wo Harau Inori | 213933 | [213933-konohana-4-yami-wo-harau-inori.json](./213933-konohana-4-yami-wo-harau-inori.json) |
 | KonoSuba: Fantastic Days! | 138261 | [138261-konosuba-fantastic-days.json](./138261-konosuba-fantastic-days.json) |
 | KonoSuba: God's Blessing on this Wonderful World! Judgment on this Greedy Game! | 34218 | [34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json](./34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json) |
+| KonoSuba: God’s Blessing on this Wonderful World! Love for this Tempting Attire - Limited Edition | 167137 | [167137-konosuba-god-s-blessing-on-this-wonderful-world-love-for-this-tempting-attire-limited-edition.json](./167137-konosuba-god-s-blessing-on-this-wonderful-world-love-for-this-tempting-attire-limited-edition.json) |
 | Konrad's Kittens | 31830 | [31830-konrads-kittens.json](./31830-konrads-kittens.json) |
 | Kooky Kids Fort Defense | 255958 | [255958-kooky-kids-fort-defense.json](./255958-kooky-kids-fort-defense.json) |
 | Kool-Aid Man | 5676 | [5676-kool-aid-man.json](./5676-kool-aid-man.json) |
