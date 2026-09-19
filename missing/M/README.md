@@ -1733,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Craft 2: New World HD | 96703 | [96703-max-craft-2-new-world-hd.json](./96703-max-craft-2-new-world-hd.json) |
 | Max Cross | 413621 | [413621-max-cross.json](./413621-max-cross.json) |
 | Max Downforce | 182948 | [182948-max-downforce.json](./182948-max-downforce.json) |
+| Max Gentlemen: Animal Pack | 170384 | [170384-max-gentlemen-animal-pack.json](./170384-max-gentlemen-animal-pack.json) |
 | Max in Ghostpix | 395013 | [395013-max-in-ghostpix.json](./395013-max-in-ghostpix.json) |
 | Max Magic | 45914 | [45914-max-magic.json](./45914-max-magic.json) |
 | Max Mix Game | 46669 | [46669-max-mix-game.json](./46669-max-mix-game.json) |
@@ -2341,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megdan | 298549 | [298549-megdan.json](./298549-megdan.json) |
 | Megurine Luka no Jikenbo | 264358 | [264358-megurine-luka-no-jikenbo.json](./264358-megurine-luka-no-jikenbo.json) |
 | Mei Paranormies 2 | 410236 | [410236-mei-paranormies-2.json](./410236-mei-paranormies-2.json) |
+| Mei Qi: Season 6 | 170375 | [170375-mei-qi-season-6.json](./170375-mei-qi-season-6.json) |
 | MeiaUm: Escaping the Pix | 329373 | [329373-meiaum-escaping-the-pix.json](./329373-meiaum-escaping-the-pix.json) |
 | Meiji Tokyo Renka | 136445 | [136445-meiji-tokyo-renka.json](./136445-meiji-tokyo-renka.json) |
 | Meiji Tokyo Renka Full Moon | 136447 | [136447-meiji-tokyo-renka-full-moon.json](./136447-meiji-tokyo-renka-full-moon.json) |
