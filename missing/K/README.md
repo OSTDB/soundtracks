@@ -1016,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings of Battleground | 231928 | [231928-kings-of-battleground.json](./231928-kings-of-battleground.json) |
 | Kings of Chaos | 402314 | [402314-kings-of-chaos.json](./402314-kings-of-chaos.json) |
 | Kings of Leon Revenge | 66041 | [66041-kings-of-leon-revenge.json](./66041-kings-of-leon-revenge.json) |
+| Kings of Paradise | 147307 | [147307-kings-of-paradise.json](./147307-kings-of-paradise.json) |
 | Kings of the Realm | 344914 | [344914-kings-of-the-realm.json](./344914-kings-of-the-realm.json) |
 | Kings Shire | 237073 | [237073-kings-shire.json](./237073-kings-shire.json) |
 | Kings under the hill | 31390 | [31390-kings-under-the-hill.json](./31390-kings-under-the-hill.json) |
