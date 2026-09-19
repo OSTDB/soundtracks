@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Voz do Operário | 276740 | [276740-a-voz-do-operario.json](./276740-a-voz-do-operario.json) |
 | A Walk In A Field | 179656 | [179656-a-walk-in-a-field.json](./179656-a-walk-in-a-field.json) |
 | A Walk in the Park | 309331 | [309331-a-walk-in-the-park.json](./309331-a-walk-in-the-park.json) |
+| A Walk Through Echoes | 159708 | [159708-a-walk-through-echoes.json](./159708-a-walk-through-echoes.json) |
 | A Walk With Yiayia | 151184 | [151184-a-walk-with-yiayia.json](./151184-a-walk-with-yiayia.json) |
 | A War On Christmas: Part 2 | 279773 | [279773-a-war-on-christmas-part-2.json](./279773-a-war-on-christmas-part-2.json) |
 | A Warmer Shade of Summer | 151192 | [151192-a-warmer-shade-of-summer.json](./151192-a-warmer-shade-of-summer.json) |
@@ -854,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Solitaire: Lovely Ladies | 304006 | [304006-ai-solitaire-lovely-ladies.json](./304006-ai-solitaire-lovely-ladies.json) |
 | AI Unbound | 245865 | [245865-ai-unbound.json](./245865-ai-unbound.json) |
 | AI War 2 | 25648 | [25648-ai-war-2.json](./25648-ai-war-2.json) |
+| AI War 2: Titan Edition | 159700 | [159700-ai-war-2-titan-edition.json](./159700-ai-war-2-titan-edition.json) |
 | AI War 2: Zenith Onslaught | 154490 | [154490-ai-war-2-zenith-onslaught.json](./154490-ai-war-2-zenith-onslaught.json) |
 | AI War: Ancient Shadows | 8888 | [8888-ai-war-ancient-shadows.json](./8888-ai-war-ancient-shadows.json) |
 | AI Wars: The Awakening | 71500 | [71500-ai-wars-the-awakening.json](./71500-ai-wars-the-awakening.json) |
