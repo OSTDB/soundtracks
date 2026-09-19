@@ -1007,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BassMasters 2000 | 3420 | [3420-bassmasters-2000.json](./3420-bassmasters-2000.json) |
 | Basterd Blitz | 276703 | [276703-basterd-blitz.json](./276703-basterd-blitz.json) |
 | Bastion of Beginnings | 297783 | [297783-bastion-of-beginnings.json](./297783-bastion-of-beginnings.json) |
+| Bat | 152136 | [152136-bat.json](./152136-bat.json) |
 | Bat Blast! | 275880 | [275880-bat-blast.json](./275880-bat-blast.json) |
 | Bat Blitz | 248323 | [248323-bat-blitz.json](./248323-bat-blitz.json) |
 | Bat Cage | 319570 | [319570-bat-cage.json](./319570-bat-cage.json) |
@@ -2452,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Mania 3D Christmas | 62258 | [62258-bird-mania-3d-christmas.json](./62258-bird-mania-3d-christmas.json) |
 | Bird Memory | 112374 | [112374-bird-memory.json](./112374-bird-memory.json) |
 | Bird of Paradise | 265728 | [265728-bird-of-paradise.json](./265728-bird-of-paradise.json) |
+| Bird Problems | 152178 | [152178-bird-problems.json](./152178-bird-problems.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
 | Bird Simulator | 127330 | [127330-bird-simulator.json](./127330-bird-simulator.json) |
 | Bird Sort: Color Puzzle | 245332 | [245332-bird-sort-color-puzzle.json](./245332-bird-sort-color-puzzle.json) |
@@ -4948,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Inferno | 368494 | [368494-bullet-inferno.json](./368494-bullet-inferno.json) |
 | Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
 | Bullet Rain | 302357 | [302357-bullet-rain.json](./302357-bullet-rain.json) |
+| Bullet Runner | 152156 | [152156-bullet-runner.json](./152156-bullet-runner.json) |
 | Bullet Runner: The First Slaughter | 241948 | [241948-bullet-runner-the-first-slaughter.json](./241948-bullet-runner-the-first-slaughter.json) |
 | Bullet Sorceress: Shooting Action Carnage | 146865 | [146865-bullet-sorceress-shooting-action-carnage.json](./146865-bullet-sorceress-shooting-action-carnage.json) |
 | Bullet Soul | 27677 | [27677-bullet-soul.json](./27677-bullet-soul.json) |
