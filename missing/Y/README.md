@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukiusa | 277270 | [277270-yukiusa.json](./277270-yukiusa.json) |
 | Yukkuri Diary | 373010 | [373010-yukkuri-diary.json](./373010-yukkuri-diary.json) |
 | Yukkuri Labo: Touhou Yukkuri no Ragdoll Simulator Game | 220302 | [220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json](./220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json) |
+| Yukkuri Tanoshimi Taijin no Jigsaw Puzzle DS: Watase Seizou - Love Umi to Blue | 133811 | [133811-yukkuri-tanoshimi-taijin-no-jigsaw-puzzle-ds-watase-seizou-love-umi-to-blue.json](./133811-yukkuri-tanoshimi-taijin-no-jigsaw-puzzle-ds-watase-seizou-love-umi-to-blue.json) |
 | Yukkuri Tanoshimu Otona no Jigsaw Puzzle DS: Sekai no Meiga 1 - Renaissance, Baroque no Kyoshou | 124160 | [124160-yukkuri-tanoshimu-otona-no-jigsaw-puzzle-ds-sekai-no-meiga-1-renaissance-baroque-no-kyoshou.json](./124160-yukkuri-tanoshimu-otona-no-jigsaw-puzzle-ds-sekai-no-meiga-1-renaissance-baroque-no-kyoshou.json) |
 | Yukkuri Tanoshimu Otona no Jigsaw Puzzle DS: Sekai no Meiga 2 - Inshou-ha, Kouki Inshou-ha no Kyoshou | 124161 | [124161-yukkuri-tanoshimu-otona-no-jigsaw-puzzle-ds-sekai-no-meiga-2-inshou-ha-kouki-inshou-ha-no-kyoshou.json](./124161-yukkuri-tanoshimu-otona-no-jigsaw-puzzle-ds-sekai-no-meiga-2-inshou-ha-kouki-inshou-ha-no-kyoshou.json) |
 | Yukkuri Tap Coin Idle Game for Touhou | 297645 | [297645-yukkuri-tap-coin-idle-game-for-touhou.json](./297645-yukkuri-tap-coin-idle-game-for-touhou.json) |
