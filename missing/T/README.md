@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technician Ted | 84242 | [84242-technician-ted.json](./84242-technician-ted.json) |
 | Technictix | 69252 | [69252-technictix.json](./69252-technictix.json) |
 | Techno BB | 59397 | [59397-techno-bb.json](./59397-techno-bb.json) |
+| Techno Cop | 132021 | [132021-techno-cop.json](./132021-techno-cop.json) |
 | Techno Prank | 345553 | [345553-techno-prank.json](./345553-techno-prank.json) |
 | Techno Tanks | 146223 | [146223-techno-tanks.json](./146223-techno-tanks.json) |
 | Techno: The Gamma Project | 331976 | [331976-techno-the-gamma-project.json](./331976-techno-the-gamma-project.json) |
@@ -6232,6 +6233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thieves World | 297467 | [297467-thieves-world.json](./297467-thieves-world.json) |
 | Thin Threads | 332415 | [332415-thin-threads.json](./332415-thin-threads.json) |
 | Thing Thing 2 | 92452 | [92452-thing-thing-2.json](./92452-thing-thing-2.json) |
+| Thing Thing Collection | 131991 | [131991-thing-thing-collection.json](./131991-thing-thing-collection.json) |
 | Thing-Thing | 92455 | [92455-thing-thing.json](./92455-thing-thing.json) |
 | Thing-Thing 3 | 92453 | [92453-thing-thing-3.json](./92453-thing-thing-3.json) |
 | Thing-Thing 4 | 92454 | [92454-thing-thing-4.json](./92454-thing-thing-4.json) |
@@ -6482,6 +6484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thursday | 330718 | [330718-thursday.json](./330718-thursday.json) |
 | Thursday Nite Thunkin' | 260176 | [260176-thursday-nite-thunkin.json](./260176-thursday-nite-thunkin.json) |
 | Thwackity Puttz | 197227 | [197227-thwackity-puttz.json](./197227-thwackity-puttz.json) |
+| Thy Dungeonman | 132037 | [132037-thy-dungeonman.json](./132037-thy-dungeonman.json) |
 | Thy Dungeonman 1 & 2 for Playdate | 262461 | [262461-thy-dungeonman-1-and-2-for-playdate.json](./262461-thy-dungeonman-1-and-2-for-playdate.json) |
 | Thy Dungeonman 3 | 135847 | [135847-thy-dungeonman-3.json](./135847-thy-dungeonman-3.json) |
 | Thy Dungeonman II | 135846 | [135846-thy-dungeonman-ii.json](./135846-thy-dungeonman-ii.json) |
@@ -7220,6 +7223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Handlers | 253388 | [253388-time-handlers.json](./253388-time-handlers.json) |
 | Time Heist | 180753 | [180753-time-heist.json](./180753-time-heist.json) |
 | Time Hoppers: The Silk Road | 231374 | [231374-time-hoppers-the-silk-road.json](./231374-time-hoppers-the-silk-road.json) |
+| Time Hunters | 132041 | [132041-time-hunters.json](./132041-time-hunters.json) |
 | Time Is Honey | 285968 | [285968-time-is-honey.json](./285968-time-is-honey.json) |
 | Time is Life | 306345 | [306345-time-is-life.json](./306345-time-is-life.json) |
 | Time is Solid Here | 197960 | [197960-time-is-solid-here.json](./197960-time-is-solid-here.json) |
@@ -7650,6 +7654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together: A Wish No One Remembers | 130967 | [130967-together-a-wish-no-one-remembers.json](./130967-together-a-wish-no-one-remembers.json) |
 | Togum | 225182 | [225182-togum.json](./225182-togum.json) |
 | ToHeart | 303230 | [303230-toheart.json](./303230-toheart.json) |
+| ToHeart2 | 132039 | [132039-toheart2.json](./132039-toheart2.json) |
 | Tohotopia | 391609 | [391609-tohotopia.json](./391609-tohotopia.json) |
 | Toil & Trubble | 404933 | [404933-toil-and-trubble.json](./404933-toil-and-trubble.json) |
 | Toilet 8 | 378306 | [378306-toilet-8.json](./378306-toilet-8.json) |
