@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laranja! | 391059 | [391059-laranja.json](./391059-laranja.json) |
 | Larcenauts | 149018 | [149018-larcenauts.json](./149018-larcenauts.json) |
 | Larentia | 330748 | [330748-larentia.json](./330748-larentia.json) |
+| Larger Than Light | 157017 | [157017-larger-than-light.json](./157017-larger-than-light.json) |
 | Largo | 292285 | [292285-largo.json](./292285-largo.json) |
 | Largo Winch: Empire Under Threat | 3971 | [3971-largo-winch-empire-under-threat.json](./3971-largo-winch-empire-under-threat.json) |
 | Larn | 2889 | [2889-larn.json](./2889-larn.json) |
@@ -701,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lee Carvallo's Putting Challenge | 180781 | [180781-lee-carvallos-putting-challenge.json](./180781-lee-carvallos-putting-challenge.json) |
 | Lee Carvallo's Putting Challenge 2 | 308411 | [308411-lee-carvallos-putting-challenge-2.json](./308411-lee-carvallos-putting-challenge-2.json) |
 | Leek Factory Tycoon | 297613 | [297613-leek-factory-tycoon.json](./297613-leek-factory-tycoon.json) |
+| Leenie Boog | 157025 | [157025-leenie-boog.json](./157025-leenie-boog.json) |
 | Left = Lose | 178622 | [178622-left-lose.json](./178622-left-lose.json) |
 | Left 2 Dating | 207809 | [207809-left-2-dating.json](./207809-left-2-dating.json) |
 | Left 4 Dead 2 Beta Pack | 358317 | [358317-left-4-dead-2-beta-pack.json](./358317-left-4-dead-2-beta-pack.json) |
@@ -2197,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Longleaf Valley | 248097 | [248097-longleaf-valley.json](./248097-longleaf-valley.json) |
 | Lonley, Lustful, Arrogant, Hateful | 172726 | [172726-lonley-lustful-arrogant-hateful.json](./172726-lonley-lustful-arrogant-hateful.json) |
 | LonQ! Highland in DS: Puu Puu Seijin Arawaru!! Shukketsu Dai-service! Onara no Saiten SP | 269826 | [269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json](./269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json) |
+| Loofy | 157010 | [157010-loofy.json](./157010-loofy.json) |
 | Look At Me | 285564 | [285564-look-at-me.json](./285564-look-at-me.json) |
 | Look Closer! | 300405 | [300405-look-closer.json](./300405-look-closer.json) |
 | Look Find Find | 219671 | [219671-look-find-find.json](./219671-look-find-find.json) |
