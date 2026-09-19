@@ -1507,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean | 370205 | [370205-bean.json](./370205-bean.json) |
 | Bean Battle Brawl | 338199 | [338199-bean-battle-brawl.json](./338199-bean-battle-brawl.json) |
 | Bean Battles | 106556 | [106556-bean-battles.json](./106556-bean-battles.json) |
+| Bean Climb | 138576 | [138576-bean-climb.json](./138576-bean-climb.json) |
 | Bean Story | 203904 | [203904-bean-story.json](./203904-bean-story.json) |
 | Bean There Won That | 311497 | [311497-bean-there-won-that.json](./311497-bean-there-won-that.json) |
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
@@ -3019,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blips | 320157 | [320157-blips.json](./320157-blips.json) |
 | Blipz | 189050 | [189050-blipz.json](./189050-blipz.json) |
 | Bliss | 148891 | [148891-bliss.json](./148891-bliss.json) |
+| Blit Seige | 138615 | [138615-blit-seige.json](./138615-blit-seige.json) |
 | Blithe | 177528 | [177528-blithe.json](./177528-blithe.json) |
 | Blitz & Blaze | 265775 | [265775-blitz-and-blaze.json](./265775-blitz-and-blaze.json) |
 | Blitz Breaker | 17457 | [17457-blitz-breaker.json](./17457-blitz-breaker.json) |
@@ -3044,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blix & Chocolate Mine | 145031 | [145031-blix-and-chocolate-mine.json](./145031-blix-and-chocolate-mine.json) |
 | Blizzard Blowout 64 | 177563 | [177563-blizzard-blowout-64.json](./177563-blizzard-blowout-64.json) |
 | Blizzard World | 175276 | [175276-blizzard-world.json](./175276-blizzard-world.json) |
+| Bloat | 138620 | [138620-bloat.json](./138620-bloat.json) |
 | Blob | 14319 | [14319-blob.json](./14319-blob.json) |
 | Blob Attack | 338812 | [338812-blob-attack.json](./338812-blob-attack.json) |
 | Blob Command | 265668 | [265668-blob-command.json](./265668-blob-command.json) |
@@ -3478,6 +3481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX Simulator | 11973 | [11973-bmx-simulator.json](./11973-bmx-simulator.json) |
 | BMX Simulator II: Dirt Biking | 47220 | [47220-bmx-simulator-ii-dirt-biking.json](./47220-bmx-simulator-ii-dirt-biking.json) |
 | BMX Trick Racer | 49313 | [49313-bmx-trick-racer.json](./49313-bmx-trick-racer.json) |
+| BMX: The Game | 138610 | [138610-bmx-the-game.json](./138610-bmx-the-game.json) |
 | Bō: Path of the Teal Lotus - Tanuki Kabuki | 335294 | [335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json](./335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json) |
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
 | BOAA: Baako | 138222 | [138222-boaa-baako.json](./138222-boaa-baako.json) |
@@ -4399,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlhalla: Winter Championship 2018 Pack | 342625 | [342625-brawlhalla-winter-championship-2018-pack.json](./342625-brawlhalla-winter-championship-2018-pack.json) |
 | Brawlin' Sailor | 201288 | [201288-brawlin-sailor.json](./201288-brawlin-sailor.json) |
 | Brazen Blaze | 265663 | [265663-brazen-blaze.json](./265663-brazen-blaze.json) |
+| Braziball | 138587 | [138587-braziball.json](./138587-braziball.json) |
 | Brazil Fencing Club VR | 275100 | [275100-brazil-fencing-club-vr.json](./275100-brazil-fencing-club-vr.json) |
 | Brazzers: The Game | 200634 | [200634-brazzers-the-game.json](./200634-brazzers-the-game.json) |
 | Breach | 135167 | [135167-breach.json](./135167-breach.json) |
