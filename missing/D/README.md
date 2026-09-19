@@ -3887,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Trouble | 215928 | [215928-double-trouble.json](./215928-double-trouble.json) |
 | Double Trouble | 267470 | [267470-double-trouble.json](./267470-double-trouble.json) |
 | Double View | 250432 | [250432-double-view.json](./250432-double-view.json) |
+| Double World. Cave Song Castle | 163836 | [163836-double-world-cave-song-castle.json](./163836-double-world-cave-song-castle.json) |
 | Double Zags | 175266 | [175266-double-zags.json](./175266-double-zags.json) |
 | Double-Entry Bookkeeping Simulator | 188549 | [188549-double-entry-bookkeeping-simulator.json](./188549-double-entry-bookkeeping-simulator.json) |
 | DoubleShake | 142481 | [142481-doubleshake.json](./142481-doubleshake.json) |
