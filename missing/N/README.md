@@ -1620,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninku Dai-ni-Tama: Ninku Sensou-hen | 60537 | [60537-ninku-dai-ni-tama-ninku-sensou-hen.json](./60537-ninku-dai-ni-tama-ninku-sensou-hen.json) |
 | Ninku Gaiden: Hiroyuki Daikatsugeki | 45254 | [45254-ninku-gaiden-hiroyuki-daikatsugeki.json](./45254-ninku-gaiden-hiroyuki-daikatsugeki.json) |
 | Ninku: Tsuyokina Yatsura no Daigekitotsu! | 60536 | [60536-ninku-tsuyokina-yatsura-no-daigekitotsu.json](./60536-ninku-tsuyokina-yatsura-no-daigekitotsu.json) |
+| NinMaki | 149942 | [149942-ninmaki.json](./149942-ninmaki.json) |
 | NinNinDays2 | 192399 | [192399-ninnindays2.json](./192399-ninnindays2.json) |
 | Ninpek | 317577 | [317577-ninpek.json](./317577-ninpek.json) |
 | Ninpen Manmaru | 62714 | [62714-ninpen-manmaru.json](./62714-ninpen-manmaru.json) |
@@ -1828,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noble Fates | 183602 | [183602-noble-fates.json](./183602-noble-fates.json) |
 | Noble Knight | 263191 | [263191-noble-knight.json](./263191-noble-knight.json) |
 | Noble's Life: Kingdom Reborn | 173301 | [173301-nobles-life-kingdom-reborn.json](./173301-nobles-life-kingdom-reborn.json) |
+| NobleEscape | 149953 | [149953-nobleescape.json](./149953-nobleescape.json) |
 | Nobodies: After Death | 190162 | [190162-nobodies-after-death.json](./190162-nobodies-after-death.json) |
 | Nobody's Home | 179732 | [179732-nobodys-home.json](./179732-nobodys-home.json) |
 | Nobody's Left | 250949 | [250949-nobodys-left.json](./250949-nobodys-left.json) |
