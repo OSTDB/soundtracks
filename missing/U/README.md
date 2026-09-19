@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertunnel | 236369 | [236369-undertunnel.json](./236369-undertunnel.json) |
 | Undervault | 129771 | [129771-undervault.json](./129771-undervault.json) |
 | Underverse Battles | 261870 | [261870-underverse-battles.json](./261870-underverse-battles.json) |
+| Underwater | 148361 | [148361-underwater.json](./148361-underwater.json) |
 | Underwater Affect | 113000 | [113000-underwater-affect.json](./113000-underwater-affect.json) |
 | Underwater and Seafaring Duo | 271827 | [271827-underwater-and-seafaring-duo.json](./271827-underwater-and-seafaring-duo.json) |
 | Underwater Diving | 224547 | [224547-underwater-diving.json](./224547-underwater-diving.json) |
