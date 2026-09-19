@@ -316,7 +316,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeda Shingen | 37729 | [37729-takeda-shingen.json](./37729-takeda-shingen.json) |
 | Takeda Shingen | 81334 | [81334-takeda-shingen.json](./81334-takeda-shingen.json) |
 | TakeDogs | 337715 | [337715-takedogs.json](./337715-takedogs.json) |
+| Takedown: Extermination | 141641 | [141641-takedown-extermination.json](./141641-takedown-extermination.json) |
+| Takedown: Project Lawson | 141640 | [141640-takedown-project-lawson.json](./141640-takedown-project-lawson.json) |
 | Takedown: Red Sabre | 2937 | [2937-takedown-red-sabre.json](./2937-takedown-red-sabre.json) |
+| Takedown: The Introduction | 141639 | [141639-takedown-the-introduction.json](./141639-takedown-the-introduction.json) |
 | Takedown! | 94191 | [94191-takedown.json](./94191-takedown.json) |
 | Takemiya Masaki Kudan no Igo Taishou | 37794 | [37794-takemiya-masaki-kudan-no-igo-taishou.json](./37794-takemiya-masaki-kudan-no-igo-taishou.json) |
 | Taken Soul | 273400 | [273400-taken-soul.json](./273400-taken-soul.json) |
@@ -546,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Tom Cat 2 | 214779 | [214779-talking-tom-cat-2.json](./214779-talking-tom-cat-2.json) |
 | Talking Tom Time Rush | 232034 | [232034-talking-tom-time-rush.json](./232034-talking-tom-time-rush.json) |
 | TalkTics: Double Served | 303793 | [303793-talktics-double-served.json](./303793-talktics-double-served.json) |
+| Tall Bagel | 141626 | [141626-tall-bagel.json](./141626-tall-bagel.json) |
 | Tall Man Run | 208953 | [208953-tall-man-run.json](./208953-tall-man-run.json) |
 | Tall Ships: Age of Sail | 256537 | [256537-tall-ships-age-of-sail.json](./256537-tall-ships-age-of-sail.json) |
 | Tallawa Game Nights | 415894 | [415894-tallawa-game-nights.json](./415894-tallawa-game-nights.json) |
@@ -3061,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fox of Capistrano | 407404 | [407404-the-fox-of-capistrano.json](./407404-the-fox-of-capistrano.json) |
 | The Fragment | 120369 | [120369-the-fragment.json](./120369-the-fragment.json) |
 | The Freddy Files | 277284 | [277284-the-freddy-files.json](./277284-the-freddy-files.json) |
+| The Fridge is Red | 141660 | [141660-the-fridge-is-red.json](./141660-the-fridge-is-red.json) |
 | The Friends of Ringo Ishikawa: Special Edition | 406100 | [406100-the-friends-of-ringo-ishikawa-special-edition.json](./406100-the-friends-of-ringo-ishikawa-special-edition.json) |
 | The Frightening Nightmare of Little Eddy | 184996 | [184996-the-frightening-nightmare-of-little-eddy.json](./184996-the-frightening-nightmare-of-little-eddy.json) |
 | The Frog Game Amazing Simulator | 100861 | [100861-the-frog-game-amazing-simulator.json](./100861-the-frog-game-amazing-simulator.json) |
@@ -6225,6 +6230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Is Not For You | 417522 | [417522-this-is-not-for-you.json](./417522-this-is-not-for-you.json) |
 | This is Pool | 109584 | [109584-this-is-pool.json](./109584-this-is-pool.json) |
 | This Is Snooker: Pool Deluxe Edition | 117022 | [117022-this-is-snooker-pool-deluxe-edition.json](./117022-this-is-snooker-pool-deluxe-edition.json) |
+| This is the Only Level 3 | 141673 | [141673-this-is-the-only-level-3.json](./141673-this-is-the-only-level-3.json) |
 | This is Timmy | 189171 | [189171-this-is-timmy.json](./189171-this-is-timmy.json) |
 | This is Vegas | 14521 | [14521-this-is-vegas.json](./14521-this-is-vegas.json) |
 | This Is Where I Want To Die | 378205 | [378205-this-is-where-i-want-to-die.json](./378205-this-is-where-i-want-to-die.json) |
