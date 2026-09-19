@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cape Fathom | 310764 | [310764-cape-fathom.json](./310764-cape-fathom.json) |
 | Cape Hideous | 320532 | [320532-cape-hideous.json](./320532-cape-hideous.json) |
 | Cape's Escape Game 3rd Room | 165615 | [165615-capes-escape-game-3rd-room.json](./165615-capes-escape-game-3rd-room.json) |
+| Cape's Escape Game 4th Room | 173142 | [173142-capes-escape-game-4th-room.json](./173142-capes-escape-game-4th-room.json) |
 | Capelord: Bounty Hunters | 190718 | [190718-capelord-bounty-hunters.json](./190718-capelord-bounty-hunters.json) |
 | Capes: Supporter Pack | 304362 | [304362-capes-supporter-pack.json](./304362-capes-supporter-pack.json) |
 | Caphaclus Recommence | 207369 | [207369-caphaclus-recommence.json](./207369-caphaclus-recommence.json) |
@@ -5647,6 +5648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cururu: Whispers of the Forest | 383951 | [383951-cururu-whispers-of-the-forest.json](./383951-cururu-whispers-of-the-forest.json) |
 | Curve Fever | 63259 | [63259-curve-fever.json](./63259-curve-fever.json) |
 | Curved Space | 137680 | [137680-curved-space.json](./137680-curved-space.json) |
+| Curving Over It with Evgeny Podoynikov | 173179 | [173179-curving-over-it-with-evgeny-podoynikov.json](./173179-curving-over-it-with-evgeny-podoynikov.json) |
 | Custer's Revenge | 8529 | [8529-custers-revenge.json](./8529-custers-revenge.json) |
 | Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
 | Custodial | 179742 | [179742-custodial.json](./179742-custodial.json) |
