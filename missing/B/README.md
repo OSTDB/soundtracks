@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B Senjou no Alice: Alice on Borderlines | 230517 | [230517-b-senjou-no-alice-alice-on-borderlines.json](./230517-b-senjou-no-alice-alice-on-borderlines.json) |
 | B Team: Metal Cartoon Squad | 21252 | [21252-b-team-metal-cartoon-squad.json](./21252-b-team-metal-cartoon-squad.json) |
 | B u r n t | 181392 | [181392-b-u-r-n-t.json](./181392-b-u-r-n-t.json) |
+| B-e-e-t-l-e | 178507 | [178507-b-e-e-t-l-e.json](./178507-b-e-e-t-l-e.json) |
 | B-e-e-t-l-e: Be right back! | 366937 | [366937-b-e-e-t-l-e-be-right-back.json](./366937-b-e-e-t-l-e-be-right-back.json) |
 | B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
@@ -3271,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blopper | 287236 | [287236-blopper.json](./287236-blopper.json) |
 | Blorks: The Quest for Magnesium | 149561 | [149561-blorks-the-quest-for-magnesium.json](./149561-blorks-the-quest-for-magnesium.json) |
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
+| Blossom | 178530 | [178530-blossom.json](./178530-blossom.json) |
 | Blossom | 388708 | [388708-blossom.json](./388708-blossom.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
 | Blow Away | 244885 | [244885-blow-away.json](./244885-blow-away.json) |
@@ -4379,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brian Lara Cricket | 94848 | [94848-brian-lara-cricket.json](./94848-brian-lara-cricket.json) |
 | Brian: The Novice Barbarian | 58825 | [58825-brian-the-novice-barbarian.json](./58825-brian-the-novice-barbarian.json) |
 | Brian's Redemption | 350450 | [350450-brians-redemption.json](./350450-brians-redemption.json) |
+| Bric-a-Brac Shop | 178513 | [178513-bric-a-brac-shop.json](./178513-bric-a-brac-shop.json) |
 | Brick | 356655 | [356655-brick.json](./356655-brick.json) |
 | Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
