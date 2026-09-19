@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Elonai | 302490 | [302490-dear-elonai.json](./302490-dear-elonai.json) |
 | Dear Esteban | 63266 | [63266-dear-esteban.json](./63266-dear-esteban.json) |
 | Dear Esther | 3082 | [3082-dear-esther.json](./3082-dear-esther.json) |
+| Dear Future | 144791 | [144791-dear-future.json](./144791-dear-future.json) |
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
 | Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen! | 204480 | [204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json](./204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json) |
 | Dear Mom: My Letter to You | 164965 | [164965-dear-mom-my-letter-to-you.json](./164965-dear-mom-my-letter-to-you.json) |
@@ -3253,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DodgeKing | 213989 | [213989-dodgeking.json](./213989-dodgeking.json) |
 | DodgerBall | 59415 | [59415-dodgerball.json](./59415-dodgerball.json) |
 | Dodgerman | 113645 | [113645-dodgerman.json](./113645-dodgerman.json) |
+| DodgeSaw | 144803 | [144803-dodgesaw.json](./144803-dodgesaw.json) |
 | Dodgy Deliveries | 295796 | [295796-dodgy-deliveries.json](./295796-dodgy-deliveries.json) |
 | Dodgy Geezers | 13598 | [13598-dodgy-geezers.json](./13598-dodgy-geezers.json) |
 | Dodgy Rocks | 133988 | [133988-dodgy-rocks.json](./133988-dodgy-rocks.json) |
@@ -4150,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Budokai AF | 180246 | [180246-dragon-ball-budokai-af.json](./180246-dragon-ball-budokai-af.json) |
 | Dragon Ball Devolution | 159246 | [159246-dragon-ball-devolution.json](./159246-dragon-ball-devolution.json) |
 | Dragon Ball FighterZ | 36911 | [36911-dragon-ball-fighterz.json](./36911-dragon-ball-fighterz.json) |
+| Dragon Ball FighterZ and Dragon Ball Xenoverse 2 Double Pack | 144760 | [144760-dragon-ball-fighterz-and-dragon-ball-xenoverse-2-double-pack.json](./144760-dragon-ball-fighterz-and-dragon-ball-xenoverse-2-double-pack.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack | 366823 | [366823-dragon-ball-fighterz-commentator-voice-pack.json](./366823-dragon-ball-fighterz-commentator-voice-pack.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack 2 | 366820 | [366820-dragon-ball-fighterz-commentator-voice-pack-2.json](./366820-dragon-ball-fighterz-commentator-voice-pack-2.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack 3 | 366821 | [366821-dragon-ball-fighterz-commentator-voice-pack-3.json](./366821-dragon-ball-fighterz-commentator-voice-pack-3.json) |
