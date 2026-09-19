@@ -2070,7 +2070,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle of the Sphinx | 174286 | [174286-riddle-of-the-sphinx.json](./174286-riddle-of-the-sphinx.json) |
 | Riddle of the Sphinx: Moonlight Exploration | 169930 | [169930-riddle-of-the-sphinx-moonlight-exploration.json](./169930-riddle-of-the-sphinx-moonlight-exploration.json) |
 | Riddle School | 56438 | [56438-riddle-school.json](./56438-riddle-school.json) |
+| Riddle School 5 | 180138 | [180138-riddle-school-5.json](./180138-riddle-school-5.json) |
+| Riddle School 5: Legacy Edition | 180139 | [180139-riddle-school-5-legacy-edition.json](./180139-riddle-school-5-legacy-edition.json) |
 | Riddle Tower: Halloween DLC | 318433 | [318433-riddle-tower-halloween-dlc.json](./318433-riddle-tower-halloween-dlc.json) |
+| Riddle Transfer | 180140 | [180140-riddle-transfer.json](./180140-riddle-transfer.json) |
+| Riddle Transfer 2 | 180142 | [180142-riddle-transfer-2.json](./180142-riddle-transfer-2.json) |
+| Riddle Transfer 2: Legacy Edition | 180143 | [180143-riddle-transfer-2-legacy-edition.json](./180143-riddle-transfer-2-legacy-edition.json) |
+| Riddle Transfer: Legacy Edition | 180141 | [180141-riddle-transfer-legacy-edition.json](./180141-riddle-transfer-legacy-edition.json) |
 | Riddle! | 102136 | [102136-riddle.json](./102136-riddle.json) |
 | Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
 | Riddles of the Owls Kingdom | 105370 | [105370-riddles-of-the-owls-kingdom.json](./105370-riddles-of-the-owls-kingdom.json) |
