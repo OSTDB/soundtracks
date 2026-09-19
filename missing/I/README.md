@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Age | 192943 | [192943-iron-age.json](./192943-iron-age.json) |
 | Iron Armada | 29711 | [29711-iron-armada.json](./29711-iron-armada.json) |
 | Iron Armor Storm | 252220 | [252220-iron-armor-storm.json](./252220-iron-armor-storm.json) |
+| Iron Assault | 142247 | [142247-iron-assault.json](./142247-iron-assault.json) |
 | Iron Ball Ride | 174184 | [174184-iron-ball-ride.json](./174184-iron-ball-ride.json) |
 | Iron Bramble | 401010 | [401010-iron-bramble.json](./401010-iron-bramble.json) |
 | Iron Cauldron: Guess the Colorblock | 340762 | [340762-iron-cauldron-guess-the-colorblock.json](./340762-iron-cauldron-guess-the-colorblock.json) |
