@@ -1619,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DekaBlox Arena | 104001 | [104001-dekablox-arena.json](./104001-dekablox-arena.json) |
 | Dekisugi Tingle Pack | 100169 | [100169-dekisugi-tingle-pack.json](./100169-dekisugi-tingle-pack.json) |
 | Dekoboko Densetsu: Hashiru Wagamanma | 145674 | [145674-dekoboko-densetsu-hashiru-wagamanma.json](./145674-dekoboko-densetsu-hashiru-wagamanma.json) |
+| Delares | 154383 | [154383-delares.json](./154383-delares.json) |
 | Delaware St. John: Volume 1 - The Curse of Midnight Manor / Volume 2: The Town with No Name | 93050 | [93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json](./93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json) |
 | Delay | 90643 | [90643-delay.json](./90643-delay.json) |
 | DelayedSun | 127239 | [127239-delayedsun.json](./127239-delayedsun.json) |
