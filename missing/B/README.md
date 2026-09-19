@@ -1453,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Lost | 369099 | [369099-be-lost.json](./369099-be-lost.json) |
 | Be Nunner | 391051 | [391051-be-nunner.json](./391051-be-nunner.json) |
 | Be Quiet!: Act One | 170421 | [170421-be-quiet-act-one.json](./170421-be-quiet-act-one.json) |
+| Be Richest! | 140984 | [140984-be-richest.json](./140984-be-richest.json) |
 | Be the One | 154387 | [154387-be-the-one.json](./154387-be-the-one.json) |
 | Be the Ruler: Britannia | 112987 | [112987-be-the-ruler-britannia.json](./112987-be-the-ruler-britannia.json) |
 | BE Witches | 157163 | [157163-be-witches.json](./157163-be-witches.json) |
@@ -2310,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billion Bounces | 382334 | [382334-billion-bounces.json](./382334-billion-bounces.json) |
 | Billion Egg Farm | 407445 | [407445-billion-egg-farm.json](./407445-billion-egg-farm.json) |
 | Billion Road | 109474 | [109474-billion-road.json](./109474-billion-road.json) |
+| Billionaire Banshee | 141026 | [141026-billionaire-banshee.json](./141026-billionaire-banshee.json) |
 | Billionaire Life Simulator | 411583 | [411583-billionaire-life-simulator.json](./411583-billionaire-life-simulator.json) |
 | Billionworlds : Kingdoms | 153437 | [153437-billionworlds-kingdoms.json](./153437-billionworlds-kingdoms.json) |
 | Billund | 241499 | [241499-billund.json](./241499-billund.json) |
@@ -3488,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Adventure | 99635 | [99635-boat-adventure.json](./99635-boat-adventure.json) |
 | Boat Crew | 167803 | [167803-boat-crew.json](./167803-boat-crew.json) |
 | Boat House | 313352 | [313352-boat-house.json](./313352-boat-house.json) |
+| Boat Prom | 141015 | [141015-boat-prom.json](./141015-boat-prom.json) |
 | Boat Rescue Simulator Mobile | 228116 | [228116-boat-rescue-simulator-mobile.json](./228116-boat-rescue-simulator-mobile.json) |
 | Boat Simulator | 231082 | [231082-boat-simulator.json](./231082-boat-simulator.json) |
 | Boat Train | 227867 | [227867-boat-train.json](./227867-boat-train.json) |
@@ -4449,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Clouds and Blooming Light | 227962 | [227962-breaking-clouds-and-blooming-light.json](./227962-breaking-clouds-and-blooming-light.json) |
 | Breaking earth | 165688 | [165688-breaking-earth.json](./165688-breaking-earth.json) |
 | Breaking Enigma | 213630 | [213630-breaking-enigma.json](./213630-breaking-enigma.json) |
+| Breaking Gates | 141008 | [141008-breaking-gates.json](./141008-breaking-gates.json) |
 | Breaking Good | 51968 | [51968-breaking-good.json](./51968-breaking-good.json) |
 | Breaking Wheel | 30857 | [30857-breaking-wheel.json](./30857-breaking-wheel.json) |
 | Breakline | 147279 | [147279-breakline.json](./147279-breakline.json) |
@@ -4901,6 +4905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Drop! | 200055 | [200055-bug-drop.json](./200055-bug-drop.json) |
 | Bug Hunter | 317575 | [317575-bug-hunter.json](./317575-bug-hunter.json) |
 | Bug Killers | 51958 | [51958-bug-killers.json](./51958-bug-killers.json) |
+| Bug Mania | 140985 | [140985-bug-mania.json](./140985-bug-mania.json) |
 | Bug N Out | 32962 | [32962-bug-n-out.json](./32962-bug-n-out.json) |
 | Bug Off! | 55884 | [55884-bug-off.json](./55884-bug-off.json) |
 | Bug Quest | 287641 | [287641-bug-quest.json](./287641-bug-quest.json) |
