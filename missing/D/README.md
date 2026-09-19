@@ -1105,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadline Escape | 356726 | [356726-deadline-escape.json](./356726-deadline-escape.json) |
 | Deadline of the Dead | 185074 | [185074-deadline-of-the-dead.json](./185074-deadline-of-the-dead.json) |
 | Deadlings: Rotten Edition | 26822 | [26822-deadlings-rotten-edition.json](./26822-deadlings-rotten-edition.json) |
+| DeadLock | 166073 | [166073-deadlock.json](./166073-deadlock.json) |
 | Deadlocked | 197796 | [197796-deadlocked.json](./197796-deadlocked.json) |
 | Deadly Contagion | 275130 | [275130-deadly-contagion.json](./275130-deadly-contagion.json) |
 | Deadly Danger Dungeon | 323742 | [323742-deadly-danger-dungeon.json](./323742-deadly-danger-dungeon.json) |
@@ -2239,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Dare | 8798 | [8798-devils-dare.json](./8798-devils-dare.json) |
 | Devil's Deck: Astray Destiny | 207370 | [207370-devils-deck-astray-destiny.json](./207370-devils-deck-astray-destiny.json) |
 | Devil's Food | 301952 | [301952-devils-food.json](./301952-devils-food.json) |
+| Devil's Gold | 166056 | [166056-devils-gold.json](./166056-devils-gold.json) |
 | Devil's Hideout | 285016 | [285016-devils-hideout.json](./285016-devils-hideout.json) |
 | Devil's Island | 313102 | [313102-devils-island.json](./313102-devils-island.json) |
 | Devil's Island Pinball | 70331 | [70331-devils-island-pinball.json](./70331-devils-island-pinball.json) |
