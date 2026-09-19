@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Pokies-CPC | 360590 | [360590-casino-pokies-cpc.json](./360590-casino-pokies-cpc.json) |
 | Casino Roulette Royal | 166682 | [166682-casino-roulette-royal.json](./166682-casino-roulette-royal.json) |
 | Casino World | 303087 | [303087-casino-world.json](./303087-casino-world.json) |
+| Casinolife Poker | 139239 | [139239-casinolife-poker.json](./139239-casinolife-poker.json) |
 | CasinoRPG | 82057 | [82057-casinorpg.json](./82057-casinorpg.json) |
 | Casio Handheld Games CG-5X emulator for ZX Spectrum | 279735 | [279735-casio-handheld-games-cg-5x-emulator-for-zx-spectrum.json](./279735-casio-handheld-games-cg-5x-emulator-for-zx-spectrum.json) |
 | Casos Extravagantes Poco Complicados | 151531 | [151531-casos-extravagantes-poco-complicados.json](./151531-casos-extravagantes-poco-complicados.json) |
@@ -1071,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
 | CastleVille Legends | 38906 | [38906-castleville-legends.json](./38906-castleville-legends.json) |
 | Castleyard | 312757 | [312757-castleyard.json](./312757-castleyard.json) |
+| Castrol Honda: World Superbike Team - Superbike Racing | 139243 | [139243-castrol-honda-world-superbike-team-superbike-racing.json](./139243-castrol-honda-world-superbike-team-superbike-racing.json) |
 | Casual Commando | 157714 | [157714-casual-commando.json](./157714-casual-commando.json) |
 | Casual Crusade | 267355 | [267355-casual-crusade.json](./267355-casual-crusade.json) |
 | Casual Desktop Game | 301412 | [301412-casual-desktop-game.json](./301412-casual-desktop-game.json) |
@@ -3234,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Zodiac | 251853 | [251853-code-zodiac.json](./251853-code-zodiac.json) |
 | Code_18 | 18072 | [18072-code-18.json](./18072-code-18.json) |
 | Code, Solve, Revolt! | 265387 | [265387-code-solve-revolt.json](./265387-code-solve-revolt.json) |
+| Code: D-Blood | 139222 | [139222-code-d-blood.json](./139222-code-d-blood.json) |
 | Code: Dead Ends | 254612 | [254612-code-dead-ends.json](./254612-code-dead-ends.json) |
 | Code: Europe | 73848 | [73848-code-europe.json](./73848-code-europe.json) |
 | Code: Realize - Future Blessings | 41821 | [41821-code-realize-future-blessings.json](./41821-code-realize-future-blessings.json) |
@@ -3250,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codemount | 301436 | [301436-codemount.json](./301436-codemount.json) |
 | Codename Kids Next Door: Operation B.E.S.T. | 342736 | [342736-codename-kids-next-door-operation-b-e-s-t.json](./342736-codename-kids-next-door-operation-b-e-s-t.json) |
 | Codename Kids Next Door: Tummy Trouble | 349934 | [349934-codename-kids-next-door-tummy-trouble.json](./349934-codename-kids-next-door-tummy-trouble.json) |
+| Codename Mallow | 139251 | [139251-codename-mallow.json](./139251-codename-mallow.json) |
 | Codename Nemesis | 113646 | [113646-codename-nemesis.json](./113646-codename-nemesis.json) |
 | Codename Prodigy | 156020 | [156020-codename-prodigy.json](./156020-codename-prodigy.json) |
 | Codename: God | 305947 | [305947-codename-god.json](./305947-codename-god.json) |
@@ -5820,6 +5824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Mech Wars: EDF Collab Edition | 268007 | [268007-custom-mech-wars-edf-collab-edition.json](./268007-custom-mech-wars-edf-collab-edition.json) |
 | Custom Mech Wars: Ultimate Edition | 268008 | [268008-custom-mech-wars-ultimate-edition.json](./268008-custom-mech-wars-ultimate-edition.json) |
 | Custom Monsters | 222498 | [222498-custom-monsters.json](./222498-custom-monsters.json) |
+| Custom Order Maid 3D2 | 139227 | [139227-custom-order-maid-3d2.json](./139227-custom-order-maid-3d2.json) |
 | Custom Order Maid 3D2: It's a Night Magic Beauty Hair Set SP All in One Pack | 291054 | [291054-custom-order-maid-3d2-its-a-night-magic-beauty-hair-set-sp-all-in-one-pack.json](./291054-custom-order-maid-3d2-its-a-night-magic-beauty-hair-set-sp-all-in-one-pack.json) |
 | Custom Order Maid 3D2: It's a Night Magic Dancing Night, Merry Night All in Pack | 280319 | [280319-custom-order-maid-3d2-its-a-night-magic-dancing-night-merry-night-all-in-pack.json](./280319-custom-order-maid-3d2-its-a-night-magic-dancing-night-merry-night-all-in-pack.json) |
 | Custom Order Maid 3D2: It's a Night Magic the Arrival of Spring All In Pack | 298043 | [298043-custom-order-maid-3d2-its-a-night-magic-the-arrival-of-spring-all-in-pack.json](./298043-custom-order-maid-3d2-its-a-night-magic-the-arrival-of-spring-all-in-pack.json) |
