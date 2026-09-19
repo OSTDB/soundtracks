@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness of the Science | 346156 | [346156-madness-of-the-science.json](./346156-madness-of-the-science.json) |
 | Madness Starts Young | 386873 | [386873-madness-starts-young.json](./386873-madness-starts-young.json) |
 | MadnessMadnessMadness | 283738 | [283738-madnessmadnessmadness.json](./283738-madnessmadnessmadness.json) |
+| Mado no Naka no Saki ni Aru Mono | 152115 | [152115-mado-no-naka-no-saki-ni-aru-mono.json](./152115-mado-no-naka-no-saki-ni-aru-mono.json) |
 | Madojeongi: Secret of Elysium | 252163 | [252163-madojeongi-secret-of-elysium.json](./252163-madojeongi-secret-of-elysium.json) |
 | Madonna Simulator | 176379 | [176379-madonna-simulator.json](./176379-madonna-simulator.json) |
 | Madotsuki's Closet | 145675 | [145675-madotsukis-closet.json](./145675-madotsukis-closet.json) |
@@ -815,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manaforge | 129730 | [129730-manaforge.json](./129730-manaforge.json) |
 | Managate | 392150 | [392150-managate.json](./392150-managate.json) |
 | Management in Space | 400849 | [400849-management-in-space.json](./400849-management-in-space.json) |
+| ManagerLeague | 152113 | [152113-managerleague.json](./152113-managerleague.json) |
 | Manahex | 291598 | [291598-manahex.json](./291598-manahex.json) |
 | Manascape | 257933 | [257933-manascape.json](./257933-manascape.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
@@ -2506,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorise: Creation | 112969 | [112969-memorise-creation.json](./112969-memorise-creation.json) |
 | Memorize the Evidence: 1-Minute Memory Mystery | 409540 | [409540-memorize-the-evidence-1-minute-memory-mystery.json](./409540-memorize-the-evidence-1-minute-memory-mystery.json) |
 | Memorrha | 109573 | [109573-memorrha.json](./109573-memorrha.json) |
+| Memory | 152143 | [152143-memory.json](./152143-memory.json) |
 | Memory | 219288 | [219288-memory.json](./219288-memory.json) |
 | Memory | 383929 | [383929-memory.json](./383929-memory.json) |
 | Memory Chase | 243811 | [243811-memory-chase.json](./243811-memory-chase.json) |
@@ -5004,6 +5007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Shell: Complete Edition | 229693 | [229693-mortal-shell-complete-edition.json](./229693-mortal-shell-complete-edition.json) |
 | Mortal Shell: Enhanced Edition - Game of the Year Edition | 201782 | [201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json](./201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json) |
 | Mortal Shell: Rotten Autumn | 229714 | [229714-mortal-shell-rotten-autumn.json](./229714-mortal-shell-rotten-autumn.json) |
+| Mortal Shell: The Virtuous Cycle | 152119 | [152119-mortal-shell-the-virtuous-cycle.json](./152119-mortal-shell-the-virtuous-cycle.json) |
 | Mortal Trap Dungeon | 378282 | [378282-mortal-trap-dungeon.json](./378282-mortal-trap-dungeon.json) |
 | Mortal Void | 336628 | [336628-mortal-void.json](./336628-mortal-void.json) |
 | Mortal Weapon | 74333 | [74333-mortal-weapon.json](./74333-mortal-weapon.json) |
@@ -5777,6 +5781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My brother lives in a canyon | 152725 | [152725-my-brother-lives-in-a-canyon.json](./152725-my-brother-lives-in-a-canyon.json) |
 | My Brother the Sacrifice | 123643 | [123643-my-brother-the-sacrifice.json](./123643-my-brother-the-sacrifice.json) |
 | My Bullied Bride | 112950 | [112950-my-bullied-bride.json](./112950-my-bullied-bride.json) |
+| My Business | 152154 | [152154-my-business.json](./152154-my-business.json) |
 | My Butler | 32274 | [32274-my-butler.json](./32274-my-butler.json) |
 | My Cake Shop HD | 104607 | [104607-my-cake-shop-hd.json](./104607-my-cake-shop-hd.json) |
 | My Cannibal Family | 404918 | [404918-my-cannibal-family.json](./404918-my-cannibal-family.json) |
