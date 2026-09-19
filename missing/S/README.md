@@ -4632,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soar | 306951 | [306951-soar.json](./306951-soar.json) |
 | Soar Up The Charts | 310068 | [310068-soar-up-the-charts.json](./310068-soar-up-the-charts.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
+| Soccer | 172594 | [172594-soccer.json](./172594-soccer.json) |
 | Soccer | 217962 | [217962-soccer.json](./217962-soccer.json) |
 | Soccer | 245406 | [245406-soccer.json](./245406-soccer.json) |
 | Soccer | 245407 | [245407-soccer.json](./245407-soccer.json) |
@@ -8235,6 +8236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry | 339658 | [339658-strawberry.json](./339658-strawberry.json) |
 | Strawberry Blasted Sky Glide | 143681 | [143681-strawberry-blasted-sky-glide.json](./143681-strawberry-blasted-sky-glide.json) |
 | Strawberry Chocolate | 367495 | [367495-strawberry-chocolate.json](./367495-strawberry-chocolate.json) |
+| Strawberry Nauts: Complete Limited Edition | 172586 | [172586-strawberry-nauts-complete-limited-edition.json](./172586-strawberry-nauts-complete-limited-edition.json) |
 | Strawberry Note 3 | 343324 | [343324-strawberry-note-3.json](./343324-strawberry-note-3.json) |
 | Strawberry Park | 312732 | [312732-strawberry-park.json](./312732-strawberry-park.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
@@ -8871,6 +8873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Games II | 297508 | [297508-summer-games-ii.json](./297508-summer-games-ii.json) |
 | Summer Horrordays | 177492 | [177492-summer-horrordays.json](./177492-summer-horrordays.json) |
 | Summer in Mara + Deiland Bundle | 188018 | [188018-summer-in-mara-deiland-bundle.json](./188018-summer-in-mara-deiland-bundle.json) |
+| Summer In Mara: Collector's Edition | 172589 | [172589-summer-in-mara-collectors-edition.json](./172589-summer-in-mara-collectors-edition.json) |
 | Summer In Memoria | 196784 | [196784-summer-in-memoria.json](./196784-summer-in-memoria.json) |
 | Summer In The City | 356733 | [356733-summer-in-the-city.json](./356733-summer-in-the-city.json) |
 | Summer Lesson: Chisato Shinjo - Shichiyou no Etude | 219030 | [219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json](./219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json) |
