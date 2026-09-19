@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Jump Ninja | 195603 | [195603-wall-jump-ninja.json](./195603-wall-jump-ninja.json) |
 | Wall Kickers | 107245 | [107245-wall-kickers.json](./107245-wall-kickers.json) |
 | Wall Ninja | 139434 | [139434-wall-ninja.json](./139434-wall-ninja.json) |
+| Wall of Insanity | 165541 | [165541-wall-of-insanity.json](./165541-wall-of-insanity.json) |
 | Wall Shooter | 244864 | [244864-wall-shooter.json](./244864-wall-shooter.json) |
 | Wall Simulator 2017 | 53882 | [53882-wall-simulator-2017.json](./53882-wall-simulator-2017.json) |
 | Wall Street Raider | 186757 | [186757-wall-street-raider.json](./186757-wall-street-raider.json) |
@@ -1791,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishing Well | 130861 | [130861-wishing-well.json](./130861-wishing-well.json) |
 | Wishing Well Hotel | 386107 | [386107-wishing-well-hotel.json](./386107-wishing-well-hotel.json) |
 | Wishseeker | 415089 | [415089-wishseeker.json](./415089-wishseeker.json) |
+| Wisly and the Chickens! | 165508 | [165508-wisly-and-the-chickens.json](./165508-wisly-and-the-chickens.json) |
 | Wisp Child | 265257 | [265257-wisp-child.json](./265257-wisp-child.json) |
 | Wisps of the Elements | 312544 | [312544-wisps-of-the-elements.json](./312544-wisps-of-the-elements.json) |
 | Wisps: The Redeeming | 2961 | [2961-wisps-the-redeeming.json](./2961-wisps-the-redeeming.json) |
@@ -2284,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Conqueror 3D | 85497 | [85497-world-conqueror-3d.json](./85497-world-conqueror-3d.json) |
 | World Conqueror X | 89152 | [89152-world-conqueror-x.json](./89152-world-conqueror-x.json) |
 | World Court Tennis | 37732 | [37732-world-court-tennis.json](./37732-world-court-tennis.json) |
+| World Cricket Championship 2 | 165526 | [165526-world-cricket-championship-2.json](./165526-world-cricket-championship-2.json) |
 | World Cruise Story | 65518 | [65518-world-cruise-story.json](./65518-world-cruise-story.json) |
 | World Cup Carnival | 69817 | [69817-world-cup-carnival.json](./69817-world-cup-carnival.json) |
 | World Cup of Pool | 47963 | [47963-world-cup-of-pool.json](./47963-world-cup-of-pool.json) |
