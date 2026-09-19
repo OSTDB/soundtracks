@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T03:32:39.848Z",
-  "total_missing": 90421,
+  "generated_at": "2026-09-19T03:47:34.162Z",
+  "total_missing": 90471,
   "games": [
     {
       "igdb_id": 176875,
@@ -21558,6 +21558,11 @@
       "file": "missing/A/248104-arrow-war.json"
     },
     {
+      "igdb_id": 172599,
+      "game_name": "ArrowBall",
+      "file": "missing/A/172599-arrowball.json"
+    },
+    {
       "igdb_id": 389463,
       "game_name": "Arrowman",
       "file": "missing/A/389463-arrowman.json"
@@ -24046,6 +24051,11 @@
       "igdb_id": 7759,
       "game_name": "Astro Rabby",
       "file": "missing/A/7759-astro-rabby.json"
+    },
+    {
+      "igdb_id": 172593,
+      "game_name": "Astro Race",
+      "file": "missing/A/172593-astro-race.json"
     },
     {
       "igdb_id": 37176,
@@ -52673,6 +52683,11 @@
       "file": "missing/B/317456-burned-out.json"
     },
     {
+      "igdb_id": 172601,
+      "game_name": "Burnin' Rubber",
+      "file": "missing/B/172601-burnin-rubber.json"
+    },
+    {
       "igdb_id": 320749,
       "game_name": "Burnin' Rubber 6",
       "file": "missing/B/320749-burnin-rubber-6.json"
@@ -76723,6 +76738,11 @@
       "file": "missing/C/329598-crashed.json"
     },
     {
+      "igdb_id": 172598,
+      "game_name": "Crashing Race",
+      "file": "missing/C/172598-crashing-race.json"
+    },
+    {
       "igdb_id": 144349,
       "game_name": "Crashland",
       "file": "missing/C/144349-crashland.json"
@@ -86891,6 +86911,11 @@
       "igdb_id": 84178,
       "game_name": "Davidic Matchup",
       "file": "missing/D/84178-davidic-matchup.json"
+    },
+    {
+      "igdb_id": 172597,
+      "game_name": "Davis Cup",
+      "file": "missing/D/172597-davis-cup.json"
     },
     {
       "igdb_id": 340942,
@@ -131258,6 +131283,11 @@
       "file": "missing/F/176509-fiscal-jesters.json"
     },
     {
+      "igdb_id": 172600,
+      "game_name": "Fisco 400",
+      "file": "missing/F/172600-fisco-400.json"
+    },
+    {
       "igdb_id": 293223,
       "game_name": "Fish",
       "file": "missing/F/293223-fish.json"
@@ -145983,9 +146013,19 @@
       "file": "missing/G/90552-gear-up-premium.json"
     },
     {
+      "igdb_id": 172590,
+      "game_name": "Gear.Club Unlimited 2: Definitive Edition",
+      "file": "missing/G/172590-gear-club-unlimited-2-definitive-edition.json"
+    },
+    {
       "igdb_id": 139963,
       "game_name": "Gear.Club Unlimited 2: Tracks Edition",
       "file": "missing/G/139963-gear-club-unlimited-2-tracks-edition.json"
+    },
+    {
+      "igdb_id": 172591,
+      "game_name": "Gear.Club Unlimited 2: Ultimate Edition",
+      "file": "missing/G/172591-gear-club-unlimited-2-ultimate-edition.json"
     },
     {
       "igdb_id": 381154,
@@ -149246,6 +149286,16 @@
       "igdb_id": 221191,
       "game_name": "Glass Hearts",
       "file": "missing/G/221191-glass-hearts.json"
+    },
+    {
+      "igdb_id": 172587,
+      "game_name": "Glass Hime to Kagami no Juusha",
+      "file": "missing/G/172587-glass-hime-to-kagami-no-juusha.json"
+    },
+    {
+      "igdb_id": 172588,
+      "game_name": "Glass Hime to Kagami no Juusha: Limited Edition",
+      "file": "missing/G/172588-glass-hime-to-kagami-no-juusha-limited-edition.json"
     },
     {
       "igdb_id": 322604,
@@ -175616,6 +175666,11 @@
       "igdb_id": 20808,
       "game_name": "Hungry Giraffe",
       "file": "missing/H/20808-hungry-giraffe.json"
+    },
+    {
+      "igdb_id": 172603,
+      "game_name": "Hungry Hearts Diner 2: Moonlit Memories",
+      "file": "missing/H/172603-hungry-hearts-diner-2-moonlit-memories.json"
     },
     {
       "igdb_id": 12954,
@@ -206623,9 +206678,174 @@
       "file": "missing/L/11077-lego-dimensions.json"
     },
     {
+      "igdb_id": 172614,
+      "game_name": "LEGO Dimensions: Adventure Time Fun Pack",
+      "file": "missing/L/172614-lego-dimensions-adventure-time-fun-pack.json"
+    },
+    {
+      "igdb_id": 172619,
+      "game_name": "LEGO Dimensions: Adventure Time Team Pack",
+      "file": "missing/L/172619-lego-dimensions-adventure-time-team-pack.json"
+    },
+    {
+      "igdb_id": 172581,
+      "game_name": "LEGO Dimensions: Aquaman Fun Pack",
+      "file": "missing/L/172581-lego-dimensions-aquaman-fun-pack.json"
+    },
+    {
+      "igdb_id": 172577,
+      "game_name": "LEGO Dimensions: B.A. Baracus (The A-Team) Fun Pack",
+      "file": "missing/L/172577-lego-dimensions-b-a-baracus-the-a-team-fun-pack.json"
+    },
+    {
+      "igdb_id": 172616,
+      "game_name": "LEGO Dimensions: Bad Cop Fun Pack",
+      "file": "missing/L/172616-lego-dimensions-bad-cop-fun-pack.json"
+    },
+    {
+      "igdb_id": 172617,
+      "game_name": "LEGO Dimensions: Bart Simpson Fun Pack",
+      "file": "missing/L/172617-lego-dimensions-bart-simpson-fun-pack.json"
+    },
+    {
+      "igdb_id": 172585,
+      "game_name": "LEGO Dimensions: Beetlejuice Fun Pack",
+      "file": "missing/L/172585-lego-dimensions-beetlejuice-fun-pack.json"
+    },
+    {
+      "igdb_id": 172606,
+      "game_name": "LEGO Dimensions: Doctor Who Level Pack",
+      "file": "missing/L/172606-lego-dimensions-doctor-who-level-pack.json"
+    },
+    {
+      "igdb_id": 172608,
+      "game_name": "LEGO Dimensions: Eris - Legends of Chima: Fun Pack",
+      "file": "missing/L/172608-lego-dimensions-eris-legends-of-chima-fun-pack.json"
+    },
+    {
+      "igdb_id": 172625,
+      "game_name": "LEGO Dimensions: Excalibur Batman Fun Pack",
+      "file": "missing/L/172625-lego-dimensions-excalibur-batman-fun-pack.json"
+    },
+    {
+      "igdb_id": 172578,
+      "game_name": "LEGO Dimensions: Fantastic Beasts and Where to Find Them Story Pack",
+      "file": "missing/L/172578-lego-dimensions-fantastic-beasts-and-where-to-find-them-story-pack.json"
+    },
+    {
+      "igdb_id": 172618,
+      "game_name": "LEGO Dimensions: Finn the Human Level Pack",
+      "file": "missing/L/172618-lego-dimensions-finn-the-human-level-pack.json"
+    },
+    {
+      "igdb_id": 172605,
+      "game_name": "LEGO Dimensions: Gollum Fun Pack",
+      "file": "missing/L/172605-lego-dimensions-gollum-fun-pack.json"
+    },
+    {
+      "igdb_id": 172622,
+      "game_name": "LEGO Dimensions: Green Arrow Polybag",
+      "file": "missing/L/172622-lego-dimensions-green-arrow-polybag.json"
+    },
+    {
+      "igdb_id": 172615,
+      "game_name": "LEGO Dimensions: Harry Potter and Lord Voldemort Team Pack",
+      "file": "missing/L/172615-lego-dimensions-harry-potter-and-lord-voldemort-team-pack.json"
+    },
+    {
+      "igdb_id": 172579,
+      "game_name": "LEGO Dimensions: Homer Simpson Level Pack",
+      "file": "missing/L/172579-lego-dimensions-homer-simpson-level-pack.json"
+    },
+    {
+      "igdb_id": 172624,
+      "game_name": "LEGO Dimensions: Krusty the Clown Fun Pack",
+      "file": "missing/L/172624-lego-dimensions-krusty-the-clown-fun-pack.json"
+    },
+    {
+      "igdb_id": 172623,
+      "game_name": "LEGO Dimensions: Laval - Legends of Chima: Fun Pack",
+      "file": "missing/L/172623-lego-dimensions-laval-legends-of-chima-fun-pack.json"
+    },
+    {
+      "igdb_id": 172583,
+      "game_name": "LEGO Dimensions: Lego City Fun Pack",
+      "file": "missing/L/172583-lego-dimensions-lego-city-fun-pack.json"
+    },
+    {
+      "igdb_id": 172604,
+      "game_name": "LEGO Dimensions: Legolas Fun Pack",
+      "file": "missing/L/172604-lego-dimensions-legolas-fun-pack.json"
+    },
+    {
+      "igdb_id": 172609,
+      "game_name": "LEGO Dimensions: Lloyd Fun Pack",
+      "file": "missing/L/172609-lego-dimensions-lloyd-fun-pack.json"
+    },
+    {
+      "igdb_id": 172580,
+      "game_name": "LEGO Dimensions: Midway Arcade Level Pack",
+      "file": "missing/L/172580-lego-dimensions-midway-arcade-level-pack.json"
+    },
+    {
+      "igdb_id": 172582,
+      "game_name": "LEGO Dimensions: Mission - Impossible Level Pack",
+      "file": "missing/L/172582-lego-dimensions-mission-impossible-level-pack.json"
+    },
+    {
+      "igdb_id": 172612,
+      "game_name": "LEGO Dimensions: Ninjago Team Pack",
+      "file": "missing/L/172612-lego-dimensions-ninjago-team-pack.json"
+    },
+    {
+      "igdb_id": 172611,
+      "game_name": "LEGO Dimensions: Nya Fun Pack",
+      "file": "missing/L/172611-lego-dimensions-nya-fun-pack.json"
+    },
+    {
+      "igdb_id": 172584,
+      "game_name": "LEGO Dimensions: Scooby-Doo Team Pack",
+      "file": "missing/L/172584-lego-dimensions-scooby-doo-team-pack.json"
+    },
+    {
+      "igdb_id": 172602,
+      "game_name": "LEGO Dimensions: Sensei Wu Fun Pack",
+      "file": "missing/L/172602-lego-dimensions-sensei-wu-fun-pack.json"
+    },
+    {
+      "igdb_id": 172607,
+      "game_name": "LEGO Dimensions: Starfire (Teen Titans Go!) Fun Pack",
+      "file": "missing/L/172607-lego-dimensions-starfire-teen-titans-go-fun-pack.json"
+    },
+    {
+      "igdb_id": 172621,
+      "game_name": "LEGO Dimensions: Supergirl Polybag",
+      "file": "missing/L/172621-lego-dimensions-supergirl-polybag.json"
+    },
+    {
       "igdb_id": 23378,
       "game_name": "LEGO Dimensions: Superman Fun Pack",
       "file": "missing/L/23378-lego-dimensions-superman-fun-pack.json"
+    },
+    {
+      "igdb_id": 172613,
+      "game_name": "LEGO Dimensions: The Joker and Harley Quinn Team Pack",
+      "file": "missing/L/172613-lego-dimensions-the-joker-and-harley-quinn-team-pack.json"
+    },
+    {
+      "igdb_id": 172620,
+      "game_name": "LEGO Dimensions: Unikitty Fun Pack",
+      "file": "missing/L/172620-lego-dimensions-unikitty-fun-pack.json"
+    },
+    {
+      "igdb_id": 172626,
+      "game_name": "LEGO Dimensions: Wonder Woman Fun Pack",
+      "file": "missing/L/172626-lego-dimensions-wonder-woman-fun-pack.json"
+    },
+    {
+      "igdb_id": 172610,
+      "game_name": "LEGO Dimensions: Zane Fun Pack",
+      "file": "missing/L/172610-lego-dimensions-zane-fun-pack.json"
     },
     {
       "igdb_id": 315367,
@@ -228346,6 +228566,11 @@
       "igdb_id": 352838,
       "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - 001: Cannon",
       "file": "missing/M/352838-megaman-nt-warrior-advanced-pet-battle-chip-001-cannon.json"
+    },
+    {
+      "igdb_id": 172595,
+      "game_name": "Megaman Sprite Christmas",
+      "file": "missing/M/172595-megaman-sprite-christmas.json"
     },
     {
       "igdb_id": 320359,
@@ -266376,6 +266601,11 @@
       "igdb_id": 183516,
       "game_name": "Orkicidium",
       "file": "missing/O/183516-orkicidium.json"
+    },
+    {
+      "igdb_id": 172596,
+      "game_name": "Orla Frøsnapper",
+      "file": "missing/O/172596-orla-fr-snapper.json"
     },
     {
       "igdb_id": 292691,
@@ -339123,6 +339353,11 @@
       "file": "missing/S/329012-sobreviva-ziggy.json"
     },
     {
+      "igdb_id": 172594,
+      "game_name": "Soccer",
+      "file": "missing/S/172594-soccer.json"
+    },
+    {
       "igdb_id": 217962,
       "game_name": "Soccer",
       "file": "missing/S/217962-soccer.json"
@@ -357138,6 +357373,11 @@
       "file": "missing/S/367495-strawberry-chocolate.json"
     },
     {
+      "igdb_id": 172586,
+      "game_name": "Strawberry Nauts: Complete Limited Edition",
+      "file": "missing/S/172586-strawberry-nauts-complete-limited-edition.json"
+    },
+    {
       "igdb_id": 343324,
       "game_name": "Strawberry Note 3",
       "file": "missing/S/343324-strawberry-note-3.json"
@@ -360316,6 +360556,11 @@
       "igdb_id": 188018,
       "game_name": "Summer in Mara + Deiland Bundle",
       "file": "missing/S/188018-summer-in-mara-deiland-bundle.json"
+    },
+    {
+      "igdb_id": 172589,
+      "game_name": "Summer In Mara: Collector's Edition",
+      "file": "missing/S/172589-summer-in-mara-collectors-edition.json"
     },
     {
       "igdb_id": 196784,
@@ -392776,6 +393021,11 @@
       "igdb_id": 53771,
       "game_name": "The Raven: Legacy of a Master Thief - Digital Deluxe Edition",
       "file": "missing/T/53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 172592,
+      "game_name": "The Raven: Legacy of a Master Thief - Episode 2",
+      "file": "missing/T/172592-the-raven-legacy-of-a-master-thief-episode-2.json"
     },
     {
       "igdb_id": 130849,
