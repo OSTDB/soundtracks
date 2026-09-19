@@ -2273,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
 | Gravel Gang | 243791 | [243791-gravel-gang.json](./243791-gravel-gang.json) |
 | Gravel: Armored Operation | 167805 | [167805-gravel-armored-operation.json](./167805-gravel-armored-operation.json) |
+| Gravel: King of Buggies | 172061 | [172061-gravel-king-of-buggies.json](./172061-gravel-king-of-buggies.json) |
 | Gravelmon | 359996 | [359996-gravelmon.json](./359996-gravelmon.json) |
 | Gravels of Endless War | 149565 | [149565-gravels-of-endless-war.json](./149565-gravels-of-endless-war.json) |
 | Graven: Deluxe Edition | 336046 | [336046-graven-deluxe-edition.json](./336046-graven-deluxe-edition.json) |
