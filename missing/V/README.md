@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla: Before the War | 12809 | [12809-valhalla-before-the-war.json](./12809-valhalla-before-the-war.json) |
 | Valhyre: The Aftermath | 67293 | [67293-valhyre-the-aftermath.json](./67293-valhyre-the-aftermath.json) |
 | Vali Victorian | 150618 | [150618-vali-victorian.json](./150618-vali-victorian.json) |
+| Valiant | 136848 | [136848-valiant.json](./136848-valiant.json) |
 | Valiant Rooster | 262413 | [262413-valiant-rooster.json](./262413-valiant-rooster.json) |
 | Valiant: Or, Val's guide to having a broken vag | 249441 | [249441-valiant-or-vals-guide-to-having-a-broken-vag.json](./249441-valiant-or-vals-guide-to-having-a-broken-vag.json) |
 | Valient Worlds: Adventure of Falken | 338578 | [338578-valient-worlds-adventure-of-falken.json](./338578-valient-worlds-adventure-of-falken.json) |
