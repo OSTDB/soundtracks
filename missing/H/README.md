@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Bipboop | 275330 | [275330-help-bipboop.json](./275330-help-bipboop.json) |
 | Help Center | 402401 | [402401-help-center.json](./402401-help-center.json) |
 | Help Furby Dodge the Balls | 365776 | [365776-help-furby-dodge-the-balls.json](./365776-help-furby-dodge-the-balls.json) |
+| Help Hurt Hopp | 148934 | [148934-help-hurt-hopp.json](./148934-help-hurt-hopp.json) |
 | Help me Braveman! | 212484 | [212484-help-me-braveman.json](./212484-help-me-braveman.json) |
 | Help Me Escape! The Puzzle Maker's Office | 108438 | [108438-help-me-escape-the-puzzle-makers-office.json](./108438-help-me-escape-the-puzzle-makers-office.json) |
 | Help me please | 155977 | [155977-help-me-please.json](./155977-help-me-please.json) |
@@ -3673,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Dimensional Basement Crawler | 177944 | [177944-hyper-dimensional-basement-crawler.json](./177944-hyper-dimensional-basement-crawler.json) |
 | Hyper Drive: The Insane Gravity Race | 51598 | [51598-hyper-drive-the-insane-gravity-race.json](./51598-hyper-drive-the-insane-gravity-race.json) |
 | Hyper Drone X | 195731 | [195731-hyper-drone-x.json](./195731-hyper-drone-x.json) |
+| Hyper Echelon | 148923 | [148923-hyper-echelon.json](./148923-hyper-echelon.json) |
 | Hyper Fighting | 195212 | [195212-hyper-fighting.json](./195212-hyper-fighting.json) |
 | Hyper Force | 40811 | [40811-hyper-force.json](./40811-hyper-force.json) |
 | Hyper Frenzy | 152828 | [152828-hyper-frenzy.json](./152828-hyper-frenzy.json) |
