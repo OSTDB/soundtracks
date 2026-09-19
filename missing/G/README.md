@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Adventures | 377588 | [377588-galactic-adventures.json](./377588-galactic-adventures.json) |
 | Galactic Assault Squad | 196696 | [196696-galactic-assault-squad.json](./196696-galactic-assault-squad.json) |
 | Galactic Assault: Prisoner of Power | 9375 | [9375-galactic-assault-prisoner-of-power.json](./9375-galactic-assault-prisoner-of-power.json) |
+| Galactic Asteroids Patrol | 127086 | [127086-galactic-asteroids-patrol.json](./127086-galactic-asteroids-patrol.json) |
 | Galactic Attack | 24897 | [24897-galactic-attack.json](./24897-galactic-attack.json) |
 | Galactic Attack | 81439 | [81439-galactic-attack.json](./81439-galactic-attack.json) |
 | Galactic Bar Fight VR | 198447 | [198447-galactic-bar-fight-vr.json](./198447-galactic-bar-fight-vr.json) |
@@ -384,6 +385,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Of Thrall'an | 321365 | [321365-game-of-thrallan.json](./321365-game-of-thrallan.json) |
 | Game of Throne | 179199 | [179199-game-of-throne.json](./179199-game-of-throne.json) |
 | Game of Thrones: A Telltale Games Series - Episode 1: Iron From Ice | 127067 | [127067-game-of-thrones-a-telltale-games-series-episode-1-iron-from-ice.json](./127067-game-of-thrones-a-telltale-games-series-episode-1-iron-from-ice.json) |
+| Game of Thrones: A Telltale Games Series - Episode 2: The Lost Lords | 127068 | [127068-game-of-thrones-a-telltale-games-series-episode-2-the-lost-lords.json](./127068-game-of-thrones-a-telltale-games-series-episode-2-the-lost-lords.json) |
+| Game of Thrones: A Telltale Games Series - Episode 3: The Sword in the Darkness | 127069 | [127069-game-of-thrones-a-telltale-games-series-episode-3-the-sword-in-the-darkness.json](./127069-game-of-thrones-a-telltale-games-series-episode-3-the-sword-in-the-darkness.json) |
+| Game of Thrones: A Telltale Games Series - Episode 4: Sons of Winter | 127070 | [127070-game-of-thrones-a-telltale-games-series-episode-4-sons-of-winter.json](./127070-game-of-thrones-a-telltale-games-series-episode-4-sons-of-winter.json) |
+| Game of Thrones: A Telltale Games Series - Episode 5: A Nest of Vipers | 127071 | [127071-game-of-thrones-a-telltale-games-series-episode-5-a-nest-of-vipers.json](./127071-game-of-thrones-a-telltale-games-series-episode-5-a-nest-of-vipers.json) |
+| Game of Thrones: A Telltale Games Series - Episode 6: The Ice Dragon | 127072 | [127072-game-of-thrones-a-telltale-games-series-episode-6-the-ice-dragon.json](./127072-game-of-thrones-a-telltale-games-series-episode-6-the-ice-dragon.json) |
 | Game of Thrones: Beyond the Wall - Blood Bound | 171636 | [171636-game-of-thrones-beyond-the-wall-blood-bound.json](./171636-game-of-thrones-beyond-the-wall-blood-bound.json) |
 | Game of Thrones: Seven Kingdoms | 110315 | [110315-game-of-thrones-seven-kingdoms.json](./110315-game-of-thrones-seven-kingdoms.json) |
 | Game Over Gopher | 336924 | [336924-game-over-gopher.json](./336924-game-over-gopher.json) |
@@ -477,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Neo Poke-Kun | 43970 | [43970-ganbare-neo-poke-kun.json](./43970-ganbare-neo-poke-kun.json) |
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
 | Gang Man Shooter | 351691 | [351691-gang-man-shooter.json](./351691-gang-man-shooter.json) |
+| Gang of Four | 127053 | [127053-gang-of-four.json](./127053-gang-of-four.json) |
 | Gangnam City Deluxe | 242207 | [242207-gangnam-city-deluxe.json](./242207-gangnam-city-deluxe.json) |
 | Gangs of Asia | 360068 | [360068-gangs-of-asia.json](./360068-gangs-of-asia.json) |
 | Gangs on New York | 345581 | [345581-gangs-on-new-york.json](./345581-gangs-on-new-york.json) |
@@ -3158,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunOre | 350511 | [350511-gunore.json](./350511-gunore.json) |
 | Gunparade March | 64893 | [64893-gunparade-march.json](./64893-gunparade-march.json) |
 | Gunparade Orchestra: Ao no Shou | 64891 | [64891-gunparade-orchestra-ao-no-shou.json](./64891-gunparade-orchestra-ao-no-shou.json) |
+| Gunpey | 127045 | [127045-gunpey.json](./127045-gunpey.json) |
 | Gunple: Gunman's Proof | 42590 | [42590-gunple-gunmans-proof.json](./42590-gunple-gunmans-proof.json) |
 | Gunpoint | 3242 | [3242-gunpoint.json](./3242-gunpoint.json) |
 | Gunpoint Gambit | 391036 | [391036-gunpoint-gambit.json](./391036-gunpoint-gambit.json) |
@@ -3173,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns 30 | 198476 | [198476-guns-30.json](./198476-guns-30.json) |
 | Guns 4 Hire | 117728 | [117728-guns-4-hire.json](./117728-guns-4-hire.json) |
 | Guns and Blood: 2D Zombie Shooter | 96025 | [96025-guns-and-blood-2d-zombie-shooter.json](./96025-guns-and-blood-2d-zombie-shooter.json) |
+| Guns and Braps | 127027 | [127027-guns-and-braps.json](./127027-guns-and-braps.json) |
 | Guns and Grapples | 152363 | [152363-guns-and-grapples.json](./152363-guns-and-grapples.json) |
 | Guns and Spurs 2 | 174869 | [174869-guns-and-spurs-2.json](./174869-guns-and-spurs-2.json) |
 | Guns and Waifus | 157209 | [157209-guns-and-waifus.json](./157209-guns-and-waifus.json) |
