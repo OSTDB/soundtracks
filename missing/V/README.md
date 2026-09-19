@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoidOut Parkour | 155660 | [155660-voidout-parkour.json](./155660-voidout-parkour.json) |
 | Voidrun | 232011 | [232011-voidrun.json](./232011-voidrun.json) |
 | Voids Vigil | 282024 | [282024-voids-vigil.json](./282024-voids-vigil.json) |
+| Voidspeed Outlaw | 157026 | [157026-voidspeed-outlaw.json](./157026-voidspeed-outlaw.json) |
 | Voidwalkers: Astora's Darkness | 170939 | [170939-voidwalkers-astoras-darkness.json](./170939-voidwalkers-astoras-darkness.json) |
 | Voidwalkers: Soul Hunters | 170931 | [170931-voidwalkers-soul-hunters.json](./170931-voidwalkers-soul-hunters.json) |
 | Voidwalkers: The Gates of Hell - Hell's Dungeon | 205036 | [205036-voidwalkers-the-gates-of-hell-hells-dungeon.json](./205036-voidwalkers-the-gates-of-hell-hells-dungeon.json) |
@@ -1123,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Aquarium Miyabi | 29828 | [29828-vr-aquarium-miyabi.json](./29828-vr-aquarium-miyabi.json) |
 | VR AstroSmash | 157533 | [157533-vr-astrosmash.json](./157533-vr-astrosmash.json) |
 | VR Async Balls | 186832 | [186832-vr-async-balls.json](./186832-vr-async-balls.json) |
+| VR Atlantis Search: with Deep Diving | 157008 | [157008-vr-atlantis-search-with-deep-diving.json](./157008-vr-atlantis-search-with-deep-diving.json) |
 | VR Baseball - Home Run Competition | 33105 | [33105-vr-baseball-home-run-competition.json](./33105-vr-baseball-home-run-competition.json) |
 | VR Baseball '97 | 20819 | [20819-vr-baseball-97.json](./20819-vr-baseball-97.json) |
 | VR Basketball Sweetie | 384516 | [384516-vr-basketball-sweetie.json](./384516-vr-basketball-sweetie.json) |
