@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samidare | 126040 | [126040-samidare.json](./126040-samidare.json) |
 | Sammi's Quest vol.1: The Wandering Ogres | 104628 | [104628-sammis-quest-vol-1-the-wandering-ogres.json](./104628-sammis-quest-vol-1-the-wandering-ogres.json) |
 | Sammy Lightfoot | 23885 | [23885-sammy-lightfoot.json](./23885-sammy-lightfoot.json) |
+| Samochodowy Wojownik | 150529 | [150529-samochodowy-wojownik.json](./150529-samochodowy-wojownik.json) |
 | Samorost 1 | 148352 | [148352-samorost-1.json](./148352-samorost-1.json) |
 | Samorost 3 | 15537 | [15537-samorost-3.json](./15537-samorost-3.json) |
 | Samosbor 2D | 120986 | [120986-samosbor-2d.json](./120986-samosbor-2d.json) |
@@ -3161,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Blade of Gods' End | 301602 | [301602-silver-blade-of-gods-end.json](./301602-silver-blade-of-gods-end.json) |
 | Silver Blue | 152734 | [152734-silver-blue.json](./152734-silver-blue.json) |
 | Silver Box Classics | 241957 | [241957-silver-box-classics.json](./241957-silver-box-classics.json) |
+| Silver Cats | 150495 | [150495-silver-cats.json](./150495-silver-cats.json) |
 | Silver Creek Falls: Chapter 3 | 33534 | [33534-silver-creek-falls-chapter-3.json](./33534-silver-creek-falls-chapter-3.json) |
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
 | Silver Falls: Guardians And Metal Exterminators S | 283722 | [283722-silver-falls-guardians-and-metal-exterminators-s.json](./283722-silver-falls-guardians-and-metal-exterminators-s.json) |
@@ -6151,6 +6153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship Hunters | 184512 | [184512-spaceship-hunters.json](./184512-spaceship-hunters.json) |
 | Spaceship Tactics | 338269 | [338269-spaceship-tactics.json](./338269-spaceship-tactics.json) |
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
+| Spaceslingers | 150489 | [150489-spaceslingers.json](./150489-spaceslingers.json) |
 | SpaceSlog | 197908 | [197908-spaceslog.json](./197908-spaceslog.json) |
 | SpaceSoldier3D | 320160 | [320160-spacesoldier3d.json](./320160-spacesoldier3d.json) |
 | Spacesona | 323552 | [323552-spacesona.json](./323552-spacesona.json) |
@@ -7380,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Collection | 54400 | [54400-star-wars-collection.json](./54400-star-wars-collection.json) |
 | Star Wars Episode I: The Phantom Menace | 158 | [158-star-wars-episode-i-the-phantom-menace.json](./158-star-wars-episode-i-the-phantom-menace.json) |
 | Star Wars Galaxies Trading Card Games : Champions of the Force | 72636 | [72636-star-wars-galaxies-trading-card-games-champions-of-the-force.json](./72636-star-wars-galaxies-trading-card-games-champions-of-the-force.json) |
+| Star Wars Galaxies: The Complete Online Adventures | 150523 | [150523-star-wars-galaxies-the-complete-online-adventures.json](./150523-star-wars-galaxies-the-complete-online-adventures.json) |
 | Star Wars Genesis | 400347 | [400347-star-wars-genesis.json](./400347-star-wars-genesis.json) |
 | Star Wars Jedi: Survivor - Deluxe Edition | 227942 | [227942-star-wars-jedi-survivor-deluxe-edition.json](./227942-star-wars-jedi-survivor-deluxe-edition.json) |
 | Star Wars Math: Jabba's Game Galaxy | 73254 | [73254-star-wars-math-jabbas-game-galaxy.json](./73254-star-wars-math-jabbas-game-galaxy.json) |
@@ -7826,6 +7830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staxel | 37294 | [37294-staxel.json](./37294-staxel.json) |
 | Staxter | 186167 | [186167-staxter.json](./186167-staxter.json) |
 | Stay | 348238 | [348238-stay.json](./348238-stay.json) |
+| STAY | 150507 | [150507-stay.json](./150507-stay.json) |
 | Stay Alive | 197373 | [197373-stay-alive.json](./197373-stay-alive.json) |
 | Stay Alive | 258444 | [258444-stay-alive.json](./258444-stay-alive.json) |
 | Stay Alive | 339667 | [339667-stay-alive.json](./339667-stay-alive.json) |
@@ -8663,6 +8668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strongloween: The Escape | 192424 | [192424-strongloween-the-escape.json](./192424-strongloween-the-escape.json) |
 | Strontium Dog and the Death Gauntlet | 313333 | [313333-strontium-dog-and-the-death-gauntlet.json](./313333-strontium-dog-and-the-death-gauntlet.json) |
 | Strontium Dog: The Killing | 38924 | [38924-strontium-dog-the-killing.json](./38924-strontium-dog-the-killing.json) |
+| Structura | 150504 | [150504-structura.json](./150504-structura.json) |
 | Structus | 192324 | [192324-structus.json](./192324-structus.json) |
 | Struggle for the Iliac Bay | 356168 | [356168-struggle-for-the-iliac-bay.json](./356168-struggle-for-the-iliac-bay.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
@@ -10369,6 +10375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive in a little bit | 117698 | [117698-survive-in-a-little-bit.json](./117698-survive-in-a-little-bit.json) |
 | Survive in Angaria | 90125 | [90125-survive-in-angaria.json](./90125-survive-in-angaria.json) |
 | Survive Into Night | 155504 | [155504-survive-into-night.json](./155504-survive-into-night.json) |
+| Survive Isolation | 150503 | [150503-survive-isolation.json](./150503-survive-isolation.json) |
 | Survive or Thrive | 148521 | [148521-survive-or-thrive.json](./148521-survive-or-thrive.json) |
 | Survive Ten Days | 306094 | [306094-survive-ten-days.json](./306094-survive-ten-days.json) |
 | Survive the Apocalypse | 404208 | [404208-survive-the-apocalypse.json](./404208-survive-the-apocalypse.json) |
