@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tag Hop | 153413 | [153413-tag-hop.json](./153413-tag-hop.json) |
 | Tag League | 366328 | [366328-tag-league.json](./366328-tag-league.json) |
 | Tag of Driving | 384651 | [384651-tag-of-driving.json](./384651-tag-of-driving.json) |
+| Tag Royale | 166600 | [166600-tag-royale.json](./166600-tag-royale.json) |
 | Tag War VR | 336904 | [336904-tag-war-vr.json](./336904-tag-war-vr.json) |
 | Tag.Io | 129726 | [129726-tag-io.json](./129726-tag-io.json) |
 | TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
@@ -1258,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengai Makyou: Daiyon no Mokushiroku - The Apocalypse IV | 80577 | [80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json](./80577-tengai-makyou-daiyon-no-mokushiroku-the-apocalypse-iv.json) |
 | Tengai Makyou: Dennou Karakuri Kakutou-den | 45952 | [45952-tengai-makyou-dennou-karakuri-kakutou-den.json](./45952-tengai-makyou-dennou-karakuri-kakutou-den.json) |
 | Tengai Makyou: Fuun Kabuki-den | 71530 | [71530-tengai-makyou-fuun-kabuki-den.json](./71530-tengai-makyou-fuun-kabuki-den.json) |
+| Tengin Music Engine | 166625 | [166625-tengin-music-engine.json](./166625-tengin-music-engine.json) |
 | Tengu Halloween | 403038 | [403038-tengu-halloween.json](./403038-tengu-halloween.json) |
 | Tengu no Kassha: Shoot and Embodiment! | 342037 | [342037-tengu-no-kassha-shoot-and-embodiment.json](./342037-tengu-no-kassha-shoot-and-embodiment.json) |
 | Tenioha! feat. Mami | 263741 | [263741-tenioha-feat-mami.json](./263741-tenioha-feat-mami.json) |
@@ -2384,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crown of Wu | 198497 | [198497-the-crown-of-wu.json](./198497-the-crown-of-wu.json) |
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
 | The Cruel Dreamer Marchosias | 187393 | [187393-the-cruel-dreamer-marchosias.json](./187393-the-cruel-dreamer-marchosias.json) |
+| The Cruel kings | 166629 | [166629-the-cruel-kings.json](./166629-the-cruel-kings.json) |
 | The Crust: Supporter Pack | 400874 | [400874-the-crust-supporter-pack.json](./400874-the-crust-supporter-pack.json) |
 | The Crypt Terror | 231516 | [231516-the-crypt-terror.json](./231516-the-crypt-terror.json) |
 | The Cryptokiller | 376542 | [376542-the-cryptokiller.json](./376542-the-cryptokiller.json) |
@@ -5876,6 +5879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatre of Death | 15483 | [15483-theatre-of-death.json](./15483-theatre-of-death.json) |
 | Theatre of The Absurd | 17367 | [17367-theatre-of-the-absurd.json](./17367-theatre-of-the-absurd.json) |
 | Theatre of the Absurd: A Scarlet Frost Mystery | 53792 | [53792-theatre-of-the-absurd-a-scarlet-frost-mystery.json](./53792-theatre-of-the-absurd-a-scarlet-frost-mystery.json) |
+| Theatre of War | 166632 | [166632-theatre-of-war.json](./166632-theatre-of-war.json) |
 | Theatre of War | 9857 | [9857-theatre-of-war.json](./9857-theatre-of-war.json) |
 | Theatre of War 2: Africa 1943 | 9858 | [9858-theatre-of-war-2-africa-1943.json](./9858-theatre-of-war-2-africa-1943.json) |
 | Theatre of War 2: Africa 1943 - Centauro | 10954 | [10954-theatre-of-war-2-africa-1943-centauro.json](./10954-theatre-of-war-2-africa-1943-centauro.json) |
@@ -6162,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Glyph Tiles | 256307 | [256307-three-glyph-tiles.json](./256307-three-glyph-tiles.json) |
 | Three Goblin Wobblin' | 267076 | [267076-three-goblin-wobblin.json](./267076-three-goblin-wobblin.json) |
 | Three Hoops | 233076 | [233076-three-hoops.json](./233076-three-hoops.json) |
+| Three Kingdom: The Journey | 166618 | [166618-three-kingdom-the-journey.json](./166618-three-kingdom-the-journey.json) |
 | Three Kingdom: Zhang Jiao Revival | 374060 | [374060-three-kingdom-zhang-jiao-revival.json](./374060-three-kingdom-zhang-jiao-revival.json) |
 | Three Kingdoms 2025 | 368017 | [368017-three-kingdoms-2025.json](./368017-three-kingdoms-2025.json) |
 | Three Kingdoms 21 | 149094 | [149094-three-kingdoms-21.json](./149094-three-kingdoms-21.json) |
@@ -8162,6 +8167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
 | Tower Stack | 258031 | [258031-tower-stack.json](./258031-tower-stack.json) |
 | Tower Stack | 265743 | [265743-tower-stack.json](./265743-tower-stack.json) |
+| Tower Stacker | 166613 | [166613-tower-stacker.json](./166613-tower-stacker.json) |
 | Tower Survivor | 238616 | [238616-tower-survivor.json](./238616-tower-survivor.json) |
 | Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
@@ -8206,6 +8212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers | 271222 | [271222-towers.json](./271222-towers.json) |
 | Towers & Goblins: The Last Stand | 290912 | [290912-towers-and-goblins-the-last-stand.json](./290912-towers-and-goblins-the-last-stand.json) |
 | Towers Heritage | 372465 | [372465-towers-heritage.json](./372465-towers-heritage.json) |
+| Towers Inc. | 166607 | [166607-towers-inc.json](./166607-towers-inc.json) |
 | Towers of Mergethorne | 362818 | [362818-towers-of-mergethorne.json](./362818-towers-of-mergethorne.json) |
 | Towers of Scale | 381624 | [381624-towers-of-scale.json](./381624-towers-of-scale.json) |
 | Towers of Thana | 238595 | [238595-towers-of-thana.json](./238595-towers-of-thana.json) |
@@ -9801,6 +9808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Heads of the Coin | 86082 | [86082-two-heads-of-the-coin.json](./86082-two-heads-of-the-coin.json) |
 | Two Hoops | 234317 | [234317-two-hoops.json](./234317-two-hoops.json) |
 | Two Hour Escape Mystery: A Puzzling Voyage | 272902 | [272902-two-hour-escape-mystery-a-puzzling-voyage.json](./272902-two-hour-escape-mystery-a-puzzling-voyage.json) |
+| Two Hundred Ways | 166636 | [166636-two-hundred-ways.json](./166636-two-hundred-ways.json) |
 | Two Identical | 207406 | [207406-two-identical.json](./207406-two-identical.json) |
 | Two Kiss with Two Men | 303272 | [303272-two-kiss-with-two-men.json](./303272-two-kiss-with-two-men.json) |
 | Two Lane | 270776 | [270776-two-lane.json](./270776-two-lane.json) |
