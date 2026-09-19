@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #Drive | 147262 | [147262-drive.json](./147262-drive.json) |
 | #Halloween, Super Puzzles Dream | 147438 | [147438-halloween-super-puzzles-dream.json](./147438-halloween-super-puzzles-dream.json) |
 | #IDARB | 9888 | [9888-idarb.json](./9888-idarb.json) |
+| #NoLimitFantasy, Super Puzzles Dream | 146680 | [146680-nolimitfantasy-super-puzzles-dream.json](./146680-nolimitfantasy-super-puzzles-dream.json) |
 | #OneRoom | 106639 | [106639-oneroom.json](./106639-oneroom.json) |
 | #SelfieTennis | 34683 | [34683-selfietennis.json](./34683-selfietennis.json) |
 | #Wish travel, Super Puzzles Dream | 147423 | [147423-wish-travel-super-puzzles-dream.json](./147423-wish-travel-super-puzzles-dream.json) |
