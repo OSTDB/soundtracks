@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintboss - Car Painting VR | 75909 | [75909-paintboss-car-painting-vr.json](./75909-paintboss-car-painting-vr.json) |
 | Paintbrush Warrior | 339130 | [339130-paintbrush-warrior.json](./339130-paintbrush-warrior.json) |
 | Paintcan Panic | 357352 | [357352-paintcan-panic.json](./357352-paintcan-panic.json) |
+| Painted Heart | 151581 | [151581-painted-heart.json](./151581-painted-heart.json) |
 | Painted Kingdoms | 392796 | [392796-painted-kingdoms.json](./392796-painted-kingdoms.json) |
 | Painted Legend | 31896 | [31896-painted-legend.json](./31896-painted-legend.json) |
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
@@ -652,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Roulette | 365084 | [365084-paranormal-roulette.json](./365084-paranormal-roulette.json) |
 | Paranormal Simulator | 199591 | [199591-paranormal-simulator.json](./199591-paranormal-simulator.json) |
 | Paranormal Snap Shot | 323928 | [323928-paranormal-snap-shot.json](./323928-paranormal-snap-shot.json) |
+| Paranormal Syndrome 3 | 151527 | [151527-paranormal-syndrome-3.json](./151527-paranormal-syndrome-3.json) |
 | Paranormal Territory 2 | 91974 | [91974-paranormal-territory-2.json](./91974-paranormal-territory-2.json) |
 | Paranormal Torment | 345546 | [345546-paranormal-torment.json](./345546-paranormal-torment.json) |
 | Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
@@ -2858,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Stop Crying: Terrible Twos | 337110 | [337110-please-stop-crying-terrible-twos.json](./337110-please-stop-crying-terrible-twos.json) |
 | Please Subscribe | 190078 | [190078-please-subscribe.json](./190078-please-subscribe.json) |
 | Please, Don't Touch Anything | 9327 | [9327-please-dont-touch-anything.json](./9327-please-dont-touch-anything.json) |
+| Please, Don't Touch Anything: Classic | 151565 | [151565-please-dont-touch-anything-classic.json](./151565-please-dont-touch-anything-classic.json) |
 | Please!! I want to Beg the Voluptuous Koume-chan into Consent! | 82824 | [82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json](./82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json) |
 | Pleasure Kingdom | 190075 | [190075-pleasure-kingdom.json](./190075-pleasure-kingdom.json) |
 | Pleasure Puzzle:Workshop - Part 1 | 163468 | [163468-pleasure-puzzle-workshop-part-1.json](./163468-pleasure-puzzle-workshop-part-1.json) |
