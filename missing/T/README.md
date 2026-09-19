@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Odyssey | 277406 | [277406-temporal-odyssey.json](./277406-temporal-odyssey.json) |
 | Temporal Purge: Z | 154378 | [154378-temporal-purge-z.json](./154378-temporal-purge-z.json) |
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
+| Tempres | 142881 | [142881-tempres.json](./142881-tempres.json) |
 | Temptations X: Darkest Fantasy | 149408 | [149408-temptations-x-darkest-fantasy.json](./149408-temptations-x-darkest-fantasy.json) |
 | Tempter | 309887 | [309887-tempter.json](./309887-tempter.json) |
 | Tempus | 377168 | [377168-tempus.json](./377168-tempus.json) |
@@ -1357,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi-tachi no Gogo III: Bangai-hen | 270791 | [270791-tenshi-tachi-no-gogo-iii-bangai-hen.json](./270791-tenshi-tachi-no-gogo-iii-bangai-hen.json) |
 | Tenshoku Maou | 381693 | [381693-tenshoku-maou.json](./381693-tenshoku-maou.json) |
 | Tensou Sentai Goseiger Super Battle Daishuugou! | 327603 | [327603-tensou-sentai-goseiger-super-battle-daishuugou.json](./327603-tensou-sentai-goseiger-super-battle-daishuugou.json) |
+| Tensura: King of Monsters | 142849 | [142849-tensura-king-of-monsters.json](./142849-tensura-king-of-monsters.json) |
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim - The Myth & Legend of Marauder Shields | 267065 | [267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json](./267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json) |
 | Tentacles Party With Nuns Chibi Stickers | 337653 | [337653-tentacles-party-with-nuns-chibi-stickers.json](./337653-tentacles-party-with-nuns-chibi-stickers.json) |
 | Tentacuddle | 294159 | [294159-tentacuddle.json](./294159-tentacuddle.json) |
@@ -2152,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
 | The Broken Vow | 322173 | [322173-the-broken-vow.json](./322173-the-broken-vow.json) |
 | The Brothers Hotel | 333084 | [333084-the-brothers-hotel.json](./333084-the-brothers-hotel.json) |
+| The Browning Elk Hunter | 142897 | [142897-the-browning-elk-hunter.json](./142897-the-browning-elk-hunter.json) |
 | The Brutalist Volumes | 275316 | [275316-the-brutalist-volumes.json](./275316-the-brutalist-volumes.json) |
 | The Bubonicz | 384061 | [384061-the-bubonicz.json](./384061-the-bubonicz.json) |
 | The Bucketlist Tourist | 306357 | [306357-the-bucketlist-tourist.json](./306357-the-bucketlist-tourist.json) |
@@ -2230,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cat Maze | 218709 | [218709-the-cat-maze.json](./218709-the-cat-maze.json) |
 | The Cat Scheduled Oil Sampling Game | 281379 | [281379-the-cat-scheduled-oil-sampling-game.json](./281379-the-cat-scheduled-oil-sampling-game.json) |
 | The Cat That Got the Milk | 283742 | [283742-the-cat-that-got-the-milk.json](./283742-the-cat-that-got-the-milk.json) |
+| The Catacombs of Solaris Revisited | 142873 | [142873-the-catacombs-of-solaris-revisited.json](./142873-the-catacombs-of-solaris-revisited.json) |
 | The Catalyst Acolyte Tower Defense | 311150 | [311150-the-catalyst-acolyte-tower-defense.json](./311150-the-catalyst-acolyte-tower-defense.json) |
 | The Catch: Carp & Coarse - Collector's Edition | 141891 | [141891-the-catch-carp-and-coarse-collectors-edition.json](./141891-the-catch-carp-and-coarse-collectors-edition.json) |
 | The Catch: Carp & Coarse - Deluxe Edition | 233014 | [233014-the-catch-carp-and-coarse-deluxe-edition.json](./233014-the-catch-carp-and-coarse-deluxe-edition.json) |
@@ -9545,6 +9549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip's Voyage: Gem Rush | 309122 | [309122-trips-voyage-gem-rush.json](./309122-trips-voyage-gem-rush.json) |
 | TriPeaks | 282148 | [282148-tripeaks.json](./282148-tripeaks.json) |
 | TriPeaks Solitaire: Card Game | 89185 | [89185-tripeaks-solitaire-card-game.json](./89185-tripeaks-solitaire-card-game.json) |
+| Tripgate | 142866 | [142866-tripgate.json](./142866-tripgate.json) |
 | Triphammer | 378920 | [378920-triphammer.json](./378920-triphammer.json) |
 | Triple | 152146 | [152146-triple.json](./152146-triple.json) |
 | Triple | 277861 | [277861-triple.json](./277861-triple.json) |
