@@ -2115,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IWL: Interstellar Wrestling League - 053: Mod - Atlury | 363435 | [363435-iwl-interstellar-wrestling-league-053-mod-atlury.json](./363435-iwl-interstellar-wrestling-league-053-mod-atlury.json) |
 | IWL: Interstellar Wrestling League - 054: Mod - Tria Pan 3 | 363436 | [363436-iwl-interstellar-wrestling-league-054-mod-tria-pan-3.json](./363436-iwl-interstellar-wrestling-league-054-mod-tria-pan-3.json) |
 | IWO: Bloodbath in the Bonins | 32979 | [32979-iwo-bloodbath-in-the-bonins.json](./32979-iwo-bloodbath-in-the-bonins.json) |
+| IwoCon 2021 | 141005 | [141005-iwocon-2021.json](./141005-iwocon-2021.json) |
 | Ixion | 152258 | [152258-ixion.json](./152258-ixion.json) |
 | Ixion Saga | 152292 | [152292-ixion-saga.json](./152292-ixion-saga.json) |
 | Iz | 292515 | [292515-iz.json](./292515-iz.json) |
