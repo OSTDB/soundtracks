@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Pro Basketball GM | 228122 | [228122-ultimate-pro-basketball-gm.json](./228122-ultimate-pro-basketball-gm.json) |
 | Ultimate Protector | 215679 | [215679-ultimate-protector.json](./215679-ultimate-protector.json) |
 | Ultimate Racing 2D | 99538 | [99538-ultimate-racing-2d.json](./99538-ultimate-racing-2d.json) |
+| Ultimate Racing 2D 2 | 164891 | [164891-ultimate-racing-2d-2.json](./164891-ultimate-racing-2d-2.json) |
 | Ultimate Ragdoll Game | 329183 | [329183-ultimate-ragdoll-game.json](./329183-ultimate-ragdoll-game.json) |
 | Ultimate Ride | 95444 | [95444-ultimate-ride.json](./95444-ultimate-ride.json) |
 | Ultimate Rivals: The Court | 150098 | [150098-ultimate-rivals-the-court.json](./150098-ultimate-rivals-the-court.json) |
@@ -520,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underhero | 36652 | [36652-underhero.json](./36652-underhero.json) |
 | Underkeep | 389458 | [389458-underkeep.json](./389458-underkeep.json) |
 | Underlab | 262667 | [262667-underlab.json](./262667-underlab.json) |
+| Underland Ambush | 164884 | [164884-underland-ambush.json](./164884-underland-ambush.json) |
 | Underland: The Climb | 157713 | [157713-underland-the-climb.json](./157713-underland-the-climb.json) |
 | Underlight | 112974 | [112974-underlight.json](./112974-underlight.json) |
 | Underliner | 199497 | [199497-underliner.json](./199497-underliner.json) |
