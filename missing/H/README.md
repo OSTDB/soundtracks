@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Bird | 312034 | [312034-happy-bird.json](./312034-happy-bird.json) |
 | Happy Bird Day | 275726 | [275726-happy-bird-day.json](./275726-happy-bird-day.json) |
+| Happy Birthday | 151574 | [151574-happy-birthday.json](./151574-happy-birthday.json) |
 | Happy Birthday Pavera | 268011 | [268011-happy-birthday-pavera.json](./268011-happy-birthday-pavera.json) |
 | Happy Birthdays | 86771 | [86771-happy-birthdays.json](./86771-happy-birthdays.json) |
 | Happy Bones | 169394 | [169394-happy-bones.json](./169394-happy-bones.json) |
@@ -2168,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Secret Treasure of the Ages | 32874 | [32874-hide-and-secret-treasure-of-the-ages.json](./32874-hide-and-secret-treasure-of-the-ages.json) |
 | Hide and Secret: Pharaoh's Quest | 88264 | [88264-hide-and-secret-pharaohs-quest.json](./88264-hide-and-secret-pharaohs-quest.json) |
 | Hide and Seek | 275354 | [275354-hide-and-seek.json](./275354-hide-and-seek.json) |
+| Hide and Seek: Story of Dorothy | 151578 | [151578-hide-and-seek-story-of-dorothy.json](./151578-hide-and-seek-story-of-dorothy.json) |
 | Hide and Seek: Toilet Monster | 273949 | [273949-hide-and-seek-toilet-monster.json](./273949-hide-and-seek-toilet-monster.json) |
 | Hide and Sink | 410928 | [410928-hide-and-sink.json](./410928-hide-and-sink.json) |
 | Hide The Corpse | 306936 | [306936-hide-the-corpse.json](./306936-hide-the-corpse.json) |
