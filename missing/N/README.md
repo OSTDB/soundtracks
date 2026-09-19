@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night at the Office | 201791 | [201791-night-at-the-office.json](./201791-night-at-the-office.json) |
 | Night at the Office | 327806 | [327806-night-at-the-office.json](./327806-night-at-the-office.json) |
 | Night Bars | 233204 | [233204-night-bars.json](./233204-night-bars.json) |
+| Night Blade | 146122 | [146122-night-blade.json](./146122-night-blade.json) |
 | Night Bus | 294257 | [294257-night-bus.json](./294257-night-bus.json) |
 | Night Cafe | 281422 | [281422-night-cafe.json](./281422-night-cafe.json) |
 | Night Call: Deluxe Edition | 124794 | [124794-night-call-deluxe-edition.json](./124794-night-call-deluxe-edition.json) |
@@ -1512,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Battle | 204488 | [204488-ninja-battle.json](./204488-ninja-battle.json) |
 | Ninja Battle Heroes | 24564 | [24564-ninja-battle-heroes.json](./24564-ninja-battle-heroes.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
+| Ninja Brigade feat. Jonah Weingarten | 146101 | [146101-ninja-brigade-feat-jonah-weingarten.json](./146101-ninja-brigade-feat-jonah-weingarten.json) |
 | Ninja Bullets | 25755 | [25755-ninja-bullets.json](./25755-ninja-bullets.json) |
 | Ninja Cats vs Samurai Dogs | 16795 | [16795-ninja-cats-vs-samurai-dogs.json](./16795-ninja-cats-vs-samurai-dogs.json) |
 | Ninja Cats: Tactics | 361799 | [361799-ninja-cats-tactics.json](./361799-ninja-cats-tactics.json) |
