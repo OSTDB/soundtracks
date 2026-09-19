@@ -7684,6 +7684,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Took: The Immortal Hero | 329365 | [329365-took-the-immortal-hero.json](./329365-took-the-immortal-hero.json) |
 | Tool Land | 391747 | [391747-tool-land.json](./391747-tool-land.json) |
 | Toolbox Tycoon | 362826 | [362826-toolbox-tycoon.json](./362826-toolbox-tycoon.json) |
+| Tools Up! Garden Party: Episode 2 - Tunnel Vision | 169281 | [169281-tools-up-garden-party-episode-2-tunnel-vision.json](./169281-tools-up-garden-party-episode-2-tunnel-vision.json) |
+| Tools Up! Garden Party: Episode 3 - Home Sweet Home | 169279 | [169279-tools-up-garden-party-episode-3-home-sweet-home.json](./169279-tools-up-garden-party-episode-3-home-sweet-home.json) |
 | Tools Up! Garden Party: Season Pass | 202935 | [202935-tools-up-garden-party-season-pass.json](./202935-tools-up-garden-party-season-pass.json) |
 | Toon Car: The Great Race | 206758 | [206758-toon-car-the-great-race.json](./206758-toon-car-the-great-race.json) |
 | Toon Puzzle Island | 233083 | [233083-toon-puzzle-island.json](./233083-toon-puzzle-island.json) |
@@ -8381,13 +8383,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train of Afterlife | 35939 | [35939-train-of-afterlife.json](./35939-train-of-afterlife.json) |
 | Train Sim World | 105877 | [105877-train-sim-world.json](./105877-train-sim-world.json) |
 | Train Sim World 2 | 136868 | [136868-train-sim-world-2.json](./136868-train-sim-world-2.json) |
+| Train Sim World 2: BR Class 20 'Chopper' Loco | 168737 | [168737-train-sim-world-2-br-class-20-chopper-loco.json](./168737-train-sim-world-2-br-class-20-chopper-loco.json) |
+| Train Sim World 2: BR Class 31 Loco | 168732 | [168732-train-sim-world-2-br-class-31-loco.json](./168732-train-sim-world-2-br-class-31-loco.json) |
 | Train Sim World 2: BR Class 313 | 205574 | [205574-train-sim-world-2-br-class-313.json](./205574-train-sim-world-2-br-class-313.json) |
+| Train Sim World 2: BR Class 33 Loco | 168736 | [168736-train-sim-world-2-br-class-33-loco.json](./168736-train-sim-world-2-br-class-33-loco.json) |
 | Train Sim World 2: BR Heavy Freight Pack | 227329 | [227329-train-sim-world-2-br-heavy-freight-pack.json](./227329-train-sim-world-2-br-heavy-freight-pack.json) |
+| Train Sim World 2: BR Heavy Freight Pack Loco | 168730 | [168730-train-sim-world-2-br-heavy-freight-pack-loco.json](./168730-train-sim-world-2-br-heavy-freight-pack-loco.json) |
+| Train Sim World 2: Cane Creek: Thompson - Potash Route | 168729 | [168729-train-sim-world-2-cane-creek-thompson-potash-route.json](./168729-train-sim-world-2-cane-creek-thompson-potash-route.json) |
 | Train Sim World 2: Collector's Edition | 139931 | [139931-train-sim-world-2-collectors-edition.json](./139931-train-sim-world-2-collectors-edition.json) |
+| Train Sim World 2: CSX C40-8W Loco | 168735 | [168735-train-sim-world-2-csx-c40-8w-loco.json](./168735-train-sim-world-2-csx-c40-8w-loco.json) |
+| Train Sim World 2: DB BR 101 Loco | 168731 | [168731-train-sim-world-2-db-br-101-loco.json](./168731-train-sim-world-2-db-br-101-loco.json) |
 | Train Sim World 2: DB BR 182 Loco Add-On | 167301 | [167301-train-sim-world-2-db-br-182-loco-add-on.json](./167301-train-sim-world-2-db-br-182-loco-add-on.json) |
+| Train Sim World 2: DB BR 204 Loco | 168734 | [168734-train-sim-world-2-db-br-204-loco.json](./168734-train-sim-world-2-db-br-204-loco.json) |
+| Train Sim World 2: DB BR 363 Loco | 168733 | [168733-train-sim-world-2-db-br-363-loco.json](./168733-train-sim-world-2-db-br-363-loco.json) |
 | Train Sim World 2: Great Western Express | 227328 | [227328-train-sim-world-2-great-western-express.json](./227328-train-sim-world-2-great-western-express.json) |
 | Train Sim World 2: Harlem Line - Grand Central Terminal: North White Plains Route | 195778 | [195778-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains-route.json](./195778-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains-route.json) |
 | Train Sim World 2: Hauptstrecke Hamburg - Lübeck Route Add-On | 147456 | [147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json](./147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json) |
+| Train Sim World 2: LIRR M3 EMU Loco | 168738 | [168738-train-sim-world-2-lirr-m3-emu-loco.json](./168738-train-sim-world-2-lirr-m3-emu-loco.json) |
 | Train Sim World 2: Long Island Rail Road: New York - Hicksville | 227327 | [227327-train-sim-world-2-long-island-rail-road-new-york-hicksville.json](./227327-train-sim-world-2-long-island-rail-road-new-york-hicksville.json) |
 | Train Sim World 2: Main Spessart Bahn | 227326 | [227326-train-sim-world-2-main-spessart-bahn.json](./227326-train-sim-world-2-main-spessart-bahn.json) |
 | Train Sim World 2: New Journeys CSX SD40 | 227325 | [227325-train-sim-world-2-new-journeys-csx-sd40.json](./227325-train-sim-world-2-new-journeys-csx-sd40.json) |
