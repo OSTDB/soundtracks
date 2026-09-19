@@ -3236,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might of Fate | 406130 | [406130-might-of-fate.json](./406130-might-of-fate.json) |
 | Mightreya | 314489 | [314489-mightreya.json](./314489-mightreya.json) |
 | Mighty Aphid | 135156 | [135156-mighty-aphid.json](./135156-mighty-aphid.json) |
+| Mighty Chameleon Brothers | 155469 | [155469-mighty-chameleon-brothers.json](./155469-mighty-chameleon-brothers.json) |
 | Mighty Flip Champs! DX | 44522 | [44522-mighty-flip-champs-dx.json](./44522-mighty-flip-champs-dx.json) |
 | Mighty forest | 139364 | [139364-mighty-forest.json](./139364-mighty-forest.json) |
 | Mighty Gunvolt | 28950 | [28950-mighty-gunvolt.json](./28950-mighty-gunvolt.json) |
@@ -3649,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Reaper | 307122 | [307122-mini-reaper.json](./307122-mini-reaper.json) |
 | Mini Rogue | 144376 | [144376-mini-rogue.json](./144376-mini-rogue.json) |
 | Mini Royale | 201020 | [201020-mini-royale.json](./201020-mini-royale.json) |
+| Mini Ship Wars | 155468 | [155468-mini-ship-wars.json](./155468-mini-ship-wars.json) |
 | Mini Speedy Racers | 240212 | [240212-mini-speedy-racers.json](./240212-mini-speedy-racers.json) |
 | Mini Star Quest | 344948 | [344948-mini-star-quest.json](./344948-mini-star-quest.json) |
 | Mini Stasol | 366918 | [366918-mini-stasol.json](./366918-mini-stasol.json) |
@@ -4025,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizz Survival | 243767 | [243767-mizz-survival.json](./243767-mizz-survival.json) |
 | MJ | 130945 | [130945-mj.json](./130945-mj.json) |
 | MK-Ultra Tower Defense | 312766 | [312766-mk-ultra-tower-defense.json](./312766-mk-ultra-tower-defense.json) |
+| MK5 Mortal Kombat: Sub-Zero | 155515 | [155515-mk5-mortal-kombat-sub-zero.json](./155515-mk5-mortal-kombat-sub-zero.json) |
 | Mk50TWL Vehicle Battler Custom Slider | 407420 | [407420-mk50twl-vehicle-battler-custom-slider.json](./407420-mk50twl-vehicle-battler-custom-slider.json) |
 | MKL The Game | 331866 | [331866-mkl-the-game.json](./331866-mkl-the-game.json) |
 | MLB 07: The Show | 7369 | [7369-mlb-07-the-show.json](./7369-mlb-07-the-show.json) |
