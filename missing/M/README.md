@@ -2536,6 +2536,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men in Black II: Alien Escape | 4003 | [4003-men-in-black-ii-alien-escape.json](./4003-men-in-black-ii-alien-escape.json) |
 | Men in Black: Most Wanted | 380570 | [380570-men-in-black-most-wanted.json](./380570-men-in-black-most-wanted.json) |
 | Men in Black: The Game | 12898 | [12898-men-in-black-the-game.json](./12898-men-in-black-the-game.json) |
+| Men of War: Assault Squad 2 - Airborne | 168218 | [168218-men-of-war-assault-squad-2-airborne.json](./168218-men-of-war-assault-squad-2-airborne.json) |
+| Men of War: Assault Squad 2 - Ostfront Veteranen | 168217 | [168217-men-of-war-assault-squad-2-ostfront-veteranen.json](./168217-men-of-war-assault-squad-2-ostfront-veteranen.json) |
 | Men's Room Mayhem | 52590 | [52590-mens-room-mayhem.json](./52590-mens-room-mayhem.json) |
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
 | Menacetide | 386238 | [386238-menacetide.json](./386238-menacetide.json) |
@@ -3748,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mio no Mystery Adventure | 137627 | [137627-mio-no-mystery-adventure.json](./137627-mio-no-mystery-adventure.json) |
 | Mion and the Cursed Killer Hamster | 224576 | [224576-mion-and-the-cursed-killer-hamster.json](./224576-mion-and-the-cursed-killer-hamster.json) |
 | Mir | 363939 | [363939-mir.json](./363939-mir.json) |
+| Mira and the Mysteries of Alchemy | 168222 | [168222-mira-and-the-mysteries-of-alchemy.json](./168222-mira-and-the-mysteries-of-alchemy.json) |
 | Mira: A Bird's Flight | 208462 | [208462-mira-a-birds-flight.json](./208462-mira-a-birds-flight.json) |
 | Mira's Mirage Mirror | 361691 | [361691-miras-mirage-mirror.json](./361691-miras-mirage-mirror.json) |
 | Miracle Chou Party Plus: Sanae to Tenshi no Gensou Labyrinth | 206955 | [206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json](./206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json) |
@@ -4600,6 +4603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Run: Downfall of the Empire | 258524 | [258524-monster-run-downfall-of-the-empire.json](./258524-monster-run-downfall-of-the-empire.json) |
 | Monster Saga | 362269 | [362269-monster-saga.json](./362269-monster-saga.json) |
 | Monster Salon Manager | 362366 | [362366-monster-salon-manager.json](./362366-monster-salon-manager.json) |
+| Monster Seek | 168219 | [168219-monster-seek.json](./168219-monster-seek.json) |
 | Monster shooter | 108951 | [108951-monster-shooter.json](./108951-monster-shooter.json) |
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
 | Monster Slayer: Motion Edition | 363413 | [363413-monster-slayer-motion-edition.json](./363413-monster-slayer-motion-edition.json) |
@@ -5853,6 +5857,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Academia: The Strongest Hero | 146301 | [146301-my-hero-academia-the-strongest-hero.json](./146301-my-hero-academia-the-strongest-hero.json) |
 | My Hero and the King | 63265 | [63265-my-hero-and-the-king.json](./63265-my-hero-and-the-king.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
+| My Hero One's Justice 2: DLC Pack 1 - Hawks | 168260 | [168260-my-hero-ones-justice-2-dlc-pack-1-hawks.json](./168260-my-hero-ones-justice-2-dlc-pack-1-hawks.json) |
+| My Hero One's Justice 2: DLC Pack 2 - Mei Hatsume | 168259 | [168259-my-hero-ones-justice-2-dlc-pack-2-mei-hatsume.json](./168259-my-hero-ones-justice-2-dlc-pack-2-mei-hatsume.json) |
+| My Hero One's Justice 2: DLC Pack 3 - Itsuka Kendo | 168258 | [168258-my-hero-ones-justice-2-dlc-pack-3-itsuka-kendo.json](./168258-my-hero-ones-justice-2-dlc-pack-3-itsuka-kendo.json) |
+| My Hero One's Justice 2: DLC Pack 4 - Tetsutetsu Tetsutetsu | 168261 | [168261-my-hero-ones-justice-2-dlc-pack-4-tetsutetsu-tetsutetsu.json](./168261-my-hero-ones-justice-2-dlc-pack-4-tetsutetsu-tetsutetsu.json) |
+| My Hero One's Justice 2: DLC Pack 5 - Gentle & La Brava | 168257 | [168257-my-hero-ones-justice-2-dlc-pack-5-gentle-and-la-brava.json](./168257-my-hero-ones-justice-2-dlc-pack-5-gentle-and-la-brava.json) |
+| My Hero One's Justice: Additional Mission - Gale | 168256 | [168256-my-hero-ones-justice-additional-mission-gale.json](./168256-my-hero-ones-justice-additional-mission-gale.json) |
+| My Hero One's Justice: Mission - Above and Beyond Endeavor | 168253 | [168253-my-hero-ones-justice-mission-above-and-beyond-endeavor.json](./168253-my-hero-ones-justice-mission-above-and-beyond-endeavor.json) |
+| My Hero One's Justice: Mission - O.F.A Deku Shoot Style | 168254 | [168254-my-hero-ones-justice-mission-o-f-a-deku-shoot-style.json](./168254-my-hero-ones-justice-mission-o-f-a-deku-shoot-style.json) |
+| My Hero One's Justice: Playable Character - Inasa Yoarashi | 168255 | [168255-my-hero-ones-justice-playable-character-inasa-yoarashi.json](./168255-my-hero-ones-justice-playable-character-inasa-yoarashi.json) |
+| My Hero One's Justice: Playable Character - Pro Hero Endeavor | 168252 | [168252-my-hero-ones-justice-playable-character-pro-hero-endeavor.json](./168252-my-hero-ones-justice-playable-character-pro-hero-endeavor.json) |
 | My Hero: Doctor | 206773 | [206773-my-hero-doctor.json](./206773-my-hero-doctor.json) |
 | My Hero: Tiny Ninja | 232544 | [232544-my-hero-tiny-ninja.json](./232544-my-hero-tiny-ninja.json) |
 | My Heroes: SEA | 142426 | [142426-my-heroes-sea.json](./142426-my-heroes-sea.json) |
@@ -6243,6 +6257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: The Secret of Watch Hill | 187957 | [187957-mystery-trackers-the-secret-of-watch-hill.json](./187957-mystery-trackers-the-secret-of-watch-hill.json) |
 | Mystery Trackers: The Shrouded Village | 416698 | [416698-mystery-trackers-the-shrouded-village.json](./416698-mystery-trackers-the-shrouded-village.json) |
 | Mystery Trackers: Train to Hellswich | 187965 | [187965-mystery-trackers-train-to-hellswich.json](./187965-mystery-trackers-train-to-hellswich.json) |
+| Mystery Trackers: Train to Hellswich - Collector's Edition | 169278 | [169278-mystery-trackers-train-to-hellswich-collectors-edition.json](./169278-mystery-trackers-train-to-hellswich-collectors-edition.json) |
 | Mystery Voyage | 229777 | [229777-mystery-voyage.json](./229777-mystery-voyage.json) |
 | Mystery: London | 146926 | [146926-mystery-london.json](./146926-mystery-london.json) |
 | MysteryScrolls | 319193 | [319193-mysteryscrolls.json](./319193-mysteryscrolls.json) |
