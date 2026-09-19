@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samochodowy Wojownik | 150529 | [150529-samochodowy-wojownik.json](./150529-samochodowy-wojownik.json) |
 | Samorost 1 | 148352 | [148352-samorost-1.json](./148352-samorost-1.json) |
 | Samorost 3 | 15537 | [15537-samorost-3.json](./15537-samorost-3.json) |
+| Samosbor | 130179 | [130179-samosbor.json](./130179-samosbor.json) |
 | Samosbor 2D | 120986 | [120986-samosbor-2d.json](./120986-samosbor-2d.json) |
 | Samozbor ID:Heaven | 129231 | [129231-samozbor-id-heaven.json](./129231-samozbor-id-heaven.json) |
 | Sampling | 107874 | [107874-sampling.json](./107874-sampling.json) |
@@ -3659,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton King | 163962 | [163962-skeleton-king.json](./163962-skeleton-king.json) |
 | Skeleton Troubles | 166707 | [166707-skeleton-troubles.json](./166707-skeleton-troubles.json) |
 | Skeleton vs zombies | 127363 | [127363-skeleton-vs-zombies.json](./127363-skeleton-vs-zombies.json) |
+| Skeleton Warrior | 130198 | [130198-skeleton-warrior.json](./130198-skeleton-warrior.json) |
 | Skeleton Warriors | 8084 | [8084-skeleton-warriors.json](./8084-skeleton-warriors.json) |
 | Skeletons Uprising | 265153 | [265153-skeletons-uprising.json](./265153-skeletons-uprising.json) |
 | Skeletris | 134701 | [134701-skeletris.json](./134701-skeletris.json) |
@@ -4120,6 +4122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Killer | 163910 | [163910-slime-killer.json](./163910-slime-killer.json) |
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
 | Slime Legion | 242238 | [242238-slime-legion.json](./242238-slime-legion.json) |
+| Slime LOL | 130177 | [130177-slime-lol.json](./130177-slime-lol.json) |
 | Slime Maker Factory: Fun Play | 106522 | [106522-slime-maker-factory-fun-play.json](./106522-slime-maker-factory-fun-play.json) |
 | Slime Management | 357349 | [357349-slime-management.json](./357349-slime-management.json) |
 | Slime on Hole | 185619 | [185619-slime-on-hole.json](./185619-slime-on-hole.json) |
@@ -5594,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SonKnuck Adventure 3 | 326805 | [326805-sonknuck-adventure-3.json](./326805-sonknuck-adventure-3.json) |
 | SonKnuck RPG | 330337 | [330337-sonknuck-rpg.json](./330337-sonknuck-rpg.json) |
 | Sonny Legacy Collection | 299891 | [299891-sonny-legacy-collection.json](./299891-sonny-legacy-collection.json) |
+| Sono | 130184 | [130184-sono.json](./130184-sono.json) |
 | Sono Hanabira ni Kuchizuke o: Amakute Hoshikute Torokeru Chuu | 12218 | [12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json](./12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json) |
 | Sono Hanabira ni Kuchizuke o: Kuchibiru to Kiss de Tsubuyaite | 12217 | [12217-sono-hanabira-ni-kuchizuke-o-kuchibiru-to-kiss-de-tsubuyaite.json](./12217-sono-hanabira-ni-kuchizuke-o-kuchibiru-to-kiss-de-tsubuyaite.json) |
 | Sono Hanabira ni Kuchizuke o: Tenshi-tachi no Yakusoku | 12274 | [12274-sono-hanabira-ni-kuchizuke-o-tenshi-tachi-no-yakusoku.json](./12274-sono-hanabira-ni-kuchizuke-o-tenshi-tachi-no-yakusoku.json) |
@@ -6566,6 +6570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellisimo | 400896 | [400896-spellisimo.json](./400896-spellisimo.json) |
 | Spellloom | 337487 | [337487-spellloom.json](./337487-spellloom.json) |
 | Spellmasons | 215714 | [215714-spellmasons.json](./215714-spellmasons.json) |
+| SpellMaster: The Saga | 130158 | [130158-spellmaster-the-saga.json](./130158-spellmaster-the-saga.json) |
 | Spellomancer | 335343 | [335343-spellomancer.json](./335343-spellomancer.json) |
 | Spells & Secrets | 198494 | [198494-spells-and-secrets.json](./198494-spells-and-secrets.json) |
 | Spells For Sad Goths With Shitty Parents | 176921 | [176921-spells-for-sad-goths-with-shitty-parents.json](./176921-spells-for-sad-goths-with-shitty-parents.json) |
@@ -10276,6 +10281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tokusatsu Taisen 2001 | 43905 | [43905-super-tokusatsu-taisen-2001.json](./43905-super-tokusatsu-taisen-2001.json) |
 | Super Tony Land | 81210 | [81210-super-tony-land.json](./81210-super-tony-land.json) |
 | Super Toss the Turtle | 57104 | [57104-super-toss-the-turtle.json](./57104-super-toss-the-turtle.json) |
+| Super Toxicboy | 130165 | [130165-super-toxicboy.json](./130165-super-toxicboy.json) |
 | Super Toy Cars 1 & 2 Bundle | 208579 | [208579-super-toy-cars-1-and-2-bundle.json](./208579-super-toy-cars-1-and-2-bundle.json) |
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
 | Super Toy Cars Offroad | 173959 | [173959-super-toy-cars-offroad.json](./173959-super-toy-cars-offroad.json) |
