@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Slugfest | 130874 | [130874-naruto-slugfest.json](./130874-naruto-slugfest.json) |
 | Naruto: The Broken Bond | 7102 | [7102-naruto-the-broken-bond.json](./7102-naruto-the-broken-bond.json) |
 | Naruto: Ultimate Ninja Storm - Limited Edition | 44661 | [44661-naruto-ultimate-ninja-storm-limited-edition.json](./44661-naruto-ultimate-ninja-storm-limited-edition.json) |
+| Narvas | 164895 | [164895-narvas.json](./164895-narvas.json) |
 | NASCAR '15 | 44560 | [44560-nascar-15.json](./44560-nascar-15.json) |
 | Nascar 06 Mobile | 210106 | [210106-nascar-06-mobile.json](./210106-nascar-06-mobile.json) |
 | NASCAR 26 | 412990 | [412990-nascar-26.json](./412990-nascar-26.json) |
@@ -921,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeverGoingHome | 298064 | [298064-nevergoinghome.json](./298064-nevergoinghome.json) |
 | NeverGone | 39003 | [39003-nevergone.json](./39003-nevergone.json) |
 | Nevergrind | 60487 | [60487-nevergrind.json](./60487-nevergrind.json) |
+| Nevergrind Online | 164904 | [164904-nevergrind-online.json](./164904-nevergrind-online.json) |
 | NeverHome: Tower of Vanity | 349838 | [349838-neverhome-tower-of-vanity.json](./349838-neverhome-tower-of-vanity.json) |
 | Neverinth: The Never Ending Labyrinth | 117493 | [117493-neverinth-the-never-ending-labyrinth.json](./117493-neverinth-the-never-ending-labyrinth.json) |
 | Neverland | 216990 | [216990-neverland.json](./216990-neverland.json) |
@@ -1734,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Heroes III: Day 1 Edition | 198394 | [198394-no-more-heroes-iii-day-1-edition.json](./198394-no-more-heroes-iii-day-1-edition.json) |
 | No More Heroes: Naomi Hook | 355548 | [355548-no-more-heroes-naomi-hook.json](./355548-no-more-heroes-naomi-hook.json) |
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
+| No More Inputs | 164913 | [164913-no-more-inputs.json](./164913-no-more-inputs.json) |
 | No Offence, But | 126581 | [126581-no-offence-but.json](./126581-no-offence-but.json) |
 | No One Lives in Heaven: Digital Deluxe Edition | 167182 | [167182-no-one-lives-in-heaven-digital-deluxe-edition.json](./167182-no-one-lives-in-heaven-digital-deluxe-edition.json) |
 | No One's Island | 368553 | [368553-no-ones-island.json](./368553-no-ones-island.json) |
