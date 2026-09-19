@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 5 | 357870 | [357870-bear-vs-wolf-jigsaw-puzzle-expansion-pack-5.json](./357870-bear-vs-wolf-jigsaw-puzzle-expansion-pack-5.json) |
 | Bear With Me: The Complete Collection | 116990 | [116990-bear-with-me-the-complete-collection.json](./116990-bear-with-me-the-complete-collection.json) |
 | Bear With Me: The Lost Robots | 117105 | [117105-bear-with-me-the-lost-robots.json](./117105-bear-with-me-the-lost-robots.json) |
+| Bear, Vodka, Balalaika: Cyberpunk | 168768 | [168768-bear-vodka-balalaika-cyberpunk.json](./168768-bear-vodka-balalaika-cyberpunk.json) |
 | Bear's Restaurant | 151754 | [151754-bears-restaurant.json](./151754-bears-restaurant.json) |
 | Bearded Dragons | 133475 | [133475-bearded-dragons.json](./133475-bearded-dragons.json) |
 | Beards vs. Claws | 399695 | [399695-beards-vs-claws.json](./399695-beards-vs-claws.json) |
