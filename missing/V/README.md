@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Table Tennis Ping Pong | 104622 | [104622-virtual-table-tennis-ping-pong.json](./104622-virtual-table-tennis-ping-pong.json) |
 | Virtual Temple: Order of the Golden Dawn | 51919 | [51919-virtual-temple-order-of-the-golden-dawn.json](./51919-virtual-temple-order-of-the-golden-dawn.json) |
 | Virtual Towers Online | 112273 | [112273-virtual-towers-online.json](./112273-virtual-towers-online.json) |
+| Virtual Viking | 133216 | [133216-virtual-viking.json](./133216-virtual-viking.json) |
 | Virtual Villagers 2: The Lost Children for iPad | 108474 | [108474-virtual-villagers-2-the-lost-children-for-ipad.json](./108474-virtual-villagers-2-the-lost-children-for-ipad.json) |
 | Virtual Villagers Origins 2 | 110988 | [110988-virtual-villagers-origins-2.json](./110988-virtual-villagers-origins-2.json) |
 | Virtual Walk English 1: Travel-hen | 230507 | [230507-virtual-walk-english-1-travel-hen.json](./230507-virtual-walk-english-1-travel-hen.json) |
