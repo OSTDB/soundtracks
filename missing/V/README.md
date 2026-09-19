@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertical Dash | 59438 | [59438-vertical-dash.json](./59438-vertical-dash.json) |
 | Vertical Quest | 249209 | [249209-vertical-quest.json](./249209-vertical-quest.json) |
 | Vertical Ramp Impossible 3D | 100894 | [100894-vertical-ramp-impossible-3d.json](./100894-vertical-ramp-impossible-3d.json) |
+| Vertical Slice | 144755 | [144755-vertical-slice.json](./144755-vertical-slice.json) |
 | Verticality | 306971 | [306971-verticality.json](./306971-verticality.json) |
 | Vertig8 | 303071 | [303071-vertig8.json](./303071-vertig8.json) |
 | Vertigo | 171501 | [171501-vertigo.json](./171501-vertigo.json) |
