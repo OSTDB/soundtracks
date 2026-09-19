@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Grand Prix | 180262 | [180262-dance-dance-revolution-grand-prix.json](./180262-dance-dance-revolution-grand-prix.json) |
 | Dance Dance Revolution Mario Mix | 3680 | [3680-dance-dance-revolution-mario-mix.json](./3680-dance-dance-revolution-mario-mix.json) |
 | Dance Dance Revolution Mario Mix 2 | 201163 | [201163-dance-dance-revolution-mario-mix-2.json](./201163-dance-dance-revolution-mario-mix-2.json) |
+| Dance Dance Revolution Party Collection | 139244 | [139244-dance-dance-revolution-party-collection.json](./139244-dance-dance-revolution-party-collection.json) |
 | Dance Dance Revolution STR!KE | 128003 | [128003-dance-dance-revolution-str-ke.json](./128003-dance-dance-revolution-str-ke.json) |
 | Dance Dance Revolution Supernova 2 | 6780 | [6780-dance-dance-revolution-supernova-2.json](./6780-dance-dance-revolution-supernova-2.json) |
 | Dance Dance Revolution Ultramix 3 | 5801 | [5801-dance-dance-revolution-ultramix-3.json](./5801-dance-dance-revolution-ultramix-3.json) |
