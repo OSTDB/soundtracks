@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Survivor | 89997 | [89997-last-survivor.json](./89997-last-survivor.json) |
 | Last Survivors | 255964 | [255964-last-survivors.json](./255964-last-survivors.json) |
 | Last Term, First Love | 391734 | [391734-last-term-first-love.json](./391734-last-term-first-love.json) |
+| Last Train Home | 131385 | [131385-last-train-home.json](./131385-last-train-home.json) |
 | Last Ultima | 269088 | [269088-last-ultima.json](./269088-last-ultima.json) |
 | Last Viking: God of Valhalla | 214031 | [214031-last-viking-god-of-valhalla.json](./214031-last-viking-god-of-valhalla.json) |
 | Last Viking: Ragnarok Loop | 291485 | [291485-last-viking-ragnarok-loop.json](./291485-last-viking-ragnarok-loop.json) |
@@ -1976,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Portrait Maker | 101497 | [101497-live-portrait-maker.json](./101497-live-portrait-maker.json) |
 | Live Rise!!: 4K Fever | 413072 | [413072-live-rise-4k-fever.json](./413072-live-rise-4k-fever.json) |
 | Live Shiver | 264709 | [264709-live-shiver.json](./264709-live-shiver.json) |
+| LiveGame.Show | 131349 | [131349-livegame-show.json](./131349-livegame-show.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
 | Lives so Sweet | 124199 | [124199-lives-so-sweet.json](./124199-lives-so-sweet.json) |
 | LiveStream | 394170 | [394170-livestream.json](./394170-livestream.json) |
@@ -2849,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Luke: Western Fever | 43886 | [43886-lucky-luke-western-fever.json](./43886-lucky-luke-western-fever.json) |
 | Lucky Luna | 204452 | [204452-lucky-luna.json](./204452-lucky-luna.json) |
 | Lucky Morolian | 259827 | [259827-lucky-morolian.json](./259827-lucky-morolian.json) |
+| Lucky Night: Poker Games | 131357 | [131357-lucky-night-poker-games.json](./131357-lucky-night-poker-games.json) |
 | Lucky One | 273973 | [273973-lucky-one.json](./273973-lucky-one.json) |
 | Lucky Paradox | 239300 | [239300-lucky-paradox.json](./239300-lucky-paradox.json) |
 | Lucky Pikinini: Zombie Rampage | 325870 | [325870-lucky-pikinini-zombie-rampage.json](./325870-lucky-pikinini-zombie-rampage.json) |
