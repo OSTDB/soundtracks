@@ -44,6 +44,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TableSoccer | 339092 | [339092-tablesoccer.json](./339092-tablesoccer.json) |
 | Tabletop Baseball | 412396 | [412396-tabletop-baseball.json](./412396-tabletop-baseball.json) |
 | Tabletop Gallery | 85419 | [85419-tabletop-gallery.json](./85419-tabletop-gallery.json) |
+| Tabletop Simulator: Down in Flames - Locked-On | 161264 | [161264-tabletop-simulator-down-in-flames-locked-on.json](./161264-tabletop-simulator-down-in-flames-locked-on.json) |
+| Tabletop Simulator: Draco Magi | 161270 | [161270-tabletop-simulator-draco-magi.json](./161270-tabletop-simulator-draco-magi.json) |
+| Tabletop Simulator: Scythe | 161271 | [161271-tabletop-simulator-scythe.json](./161271-tabletop-simulator-scythe.json) |
+| Tabletop Simulator: Superfight | 161266 | [161266-tabletop-simulator-superfight.json](./161266-tabletop-simulator-superfight.json) |
+| Tabletop Simulator: The Red Dragon Inn - Battle For Greyport | 161268 | [161268-tabletop-simulator-the-red-dragon-inn-battle-for-greyport.json](./161268-tabletop-simulator-the-red-dragon-inn-battle-for-greyport.json) |
+| Tabletop Simulator: Tiny Epic Galaxies | 161269 | [161269-tabletop-simulator-tiny-epic-galaxies.json](./161269-tabletop-simulator-tiny-epic-galaxies.json) |
+| Tabletop Simulator: Tortuga 1667 | 161263 | [161263-tabletop-simulator-tortuga-1667.json](./161263-tabletop-simulator-tortuga-1667.json) |
+| Tabletop Simulator: Xia - Legends of a Drift System | 161265 | [161265-tabletop-simulator-xia-legends-of-a-drift-system.json](./161265-tabletop-simulator-xia-legends-of-a-drift-system.json) |
+| Tabletop Simulator: Zombicide | 161267 | [161267-tabletop-simulator-zombicide.json](./161267-tabletop-simulator-zombicide.json) |
 | TableTop Soccer | 33239 | [33239-tabletop-soccer.json](./33239-tabletop-soccer.json) |
 | Tabletopia: Altiplano | 162874 | [162874-tabletopia-altiplano.json](./162874-tabletopia-altiplano.json) |
 | Tabletopia: Aquanauts | 162891 | [162891-tabletopia-aquanauts.json](./162891-tabletopia-aquanauts.json) |
