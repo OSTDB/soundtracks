@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellie's Farm 4: Guardians of the Wild - Collector's Edition | 356104 | [356104-ellies-farm-4-guardians-of-the-wild-collectors-edition.json](./356104-ellies-farm-4-guardians-of-the-wild-collectors-edition.json) |
 | Ellie's Farm 5: Long Journey - Collector's Edition | 356102 | [356102-ellies-farm-5-long-journey-collectors-edition.json](./356102-ellies-farm-5-long-journey-collectors-edition.json) |
 | Ellie's Farm: Forest Fires - Collector's Edition | 356105 | [356105-ellies-farm-forest-fires-collectors-edition.json](./356105-ellies-farm-forest-fires-collectors-edition.json) |
+| Ellie's Travel Diary | 149949 | [149949-ellies-travel-diary.json](./149949-ellies-travel-diary.json) |
 | Ellingby House | 351026 | [351026-ellingby-house.json](./351026-ellingby-house.json) |
 | Elliot and the Musical Journey | 133415 | [133415-elliot-and-the-musical-journey.json](./133415-elliot-and-the-musical-journey.json) |
 | Ellipsis | 19862 | [19862-ellipsis.json](./19862-ellipsis.json) |
@@ -1020,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encroacher: Snakes | 413004 | [413004-encroacher-snakes.json](./413004-encroacher-snakes.json) |
 | Encrypted | 184063 | [184063-encrypted.json](./184063-encrypted.json) |
 | Encrypted_Nightmares | 340946 | [340946-encrypted-nightmares.json](./340946-encrypted-nightmares.json) |
+| Encycle | 149937 | [149937-encycle.json](./149937-encycle.json) |
 | Encyclopedia Explosica | 185617 | [185617-encyclopedia-explosica.json](./185617-encyclopedia-explosica.json) |
 | End Matter | 175265 | [175265-end-matter.json](./175265-end-matter.json) |
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
@@ -1523,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Moonbase Alpha | 330177 | [330177-escape-from-moonbase-alpha.json](./330177-escape-from-moonbase-alpha.json) |
 | Escape from Mutation Station | 320729 | [320729-escape-from-mutation-station.json](./320729-escape-from-mutation-station.json) |
 | Escape from Nalaxion | 260158 | [260158-escape-from-nalaxion.json](./260158-escape-from-nalaxion.json) |
+| Escape from Naraka | 149961 | [149961-escape-from-naraka.json](./149961-escape-from-naraka.json) |
 | Escape from Puzzlegate | 34373 | [34373-escape-from-puzzlegate.json](./34373-escape-from-puzzlegate.json) |
 | Escape From Roswell | 225901 | [225901-escape-from-roswell.json](./225901-escape-from-roswell.json) |
 | Escape From Ruby Castle | 149034 | [149034-escape-from-ruby-castle.json](./149034-escape-from-ruby-castle.json) |
@@ -1865,11 +1868,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Common Sense Content Pack | 227350 | [227350-europa-universalis-iv-common-sense-content-pack.json](./227350-europa-universalis-iv-common-sense-content-pack.json) |
 | Europa Universalis IV: Conquest of Paradise | 19299 | [19299-europa-universalis-iv-conquest-of-paradise.json](./19299-europa-universalis-iv-conquest-of-paradise.json) |
 | Europa Universalis IV: Cradle of Civilization Content Pack | 227349 | [227349-europa-universalis-iv-cradle-of-civilization-content-pack.json](./227349-europa-universalis-iv-cradle-of-civilization-content-pack.json) |
+| Europa Universalis IV: Dharma | 149956 | [149956-europa-universalis-iv-dharma.json](./149956-europa-universalis-iv-dharma.json) |
 | Europa Universalis IV: Dharma Content Pack | 227342 | [227342-europa-universalis-iv-dharma-content-pack.json](./227342-europa-universalis-iv-dharma-content-pack.json) |
 | Europa Universalis IV: Domination | 240892 | [240892-europa-universalis-iv-domination.json](./240892-europa-universalis-iv-domination.json) |
 | Europa Universalis IV: El Dorado Content Pack | 227343 | [227343-europa-universalis-iv-el-dorado-content-pack.json](./227343-europa-universalis-iv-el-dorado-content-pack.json) |
 | Europa Universalis IV: Emperor Content Pack | 227344 | [227344-europa-universalis-iv-emperor-content-pack.json](./227344-europa-universalis-iv-emperor-content-pack.json) |
 | Europa Universalis IV: Golden Century - Immersion Pack | 169310 | [169310-europa-universalis-iv-golden-century-immersion-pack.json](./169310-europa-universalis-iv-golden-century-immersion-pack.json) |
+| Europa Universalis IV: Leviathan | 149954 | [149954-europa-universalis-iv-leviathan.json](./149954-europa-universalis-iv-leviathan.json) |
 | Europa Universalis IV: Lions of the North | 215925 | [215925-europa-universalis-iv-lions-of-the-north.json](./215925-europa-universalis-iv-lions-of-the-north.json) |
 | Europa Universalis IV: Mandate of Heaven Content Pack | 227345 | [227345-europa-universalis-iv-mandate-of-heaven-content-pack.json](./227345-europa-universalis-iv-mandate-of-heaven-content-pack.json) |
 | Europa Universalis IV: Mare Nostrum Content Pack | 227346 | [227346-europa-universalis-iv-mare-nostrum-content-pack.json](./227346-europa-universalis-iv-mare-nostrum-content-pack.json) |
