@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Man Standing Coop: A Doom 3 Coop Mod | 301959 | [301959-last-man-standing-coop-a-doom-3-coop-mod.json](./301959-last-man-standing-coop-a-doom-3-coop-mod.json) |
 | Last Meal | 125999 | [125999-last-meal.json](./125999-last-meal.json) |
 | Last Memories | 236385 | [236385-last-memories.json](./236385-last-memories.json) |
+| Last Minute Love | 177908 | [177908-last-minute-love.json](./177908-last-minute-love.json) |
 | Last Minute Shopping | 278544 | [278544-last-minute-shopping.json](./278544-last-minute-shopping.json) |
 | Last Moon | 120387 | [120387-last-moon.json](./120387-last-moon.json) |
 | Last Mortem | 149515 | [149515-last-mortem.json](./149515-last-mortem.json) |
@@ -673,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learnmoor: Kids Academy | 394350 | [394350-learnmoor-kids-academy.json](./394350-learnmoor-kids-academy.json) |
 | Leas: City of the Sun | 334477 | [334477-leas-city-of-the-sun.json](./334477-leas-city-of-the-sun.json) |
 | Leather Goddesses of Phobos | 12174 | [12174-leather-goddesses-of-phobos.json](./12174-leather-goddesses-of-phobos.json) |
+| Leave Me Alone! | 177953 | [177953-leave-me-alone.json](./177953-leave-me-alone.json) |
 | Leaves 3 | 394892 | [394892-leaves-3.json](./394892-leaves-3.json) |
 | Leaves: The Journey | 30063 | [30063-leaves-the-journey.json](./30063-leaves-the-journey.json) |
 | Leaving L.A. | 273138 | [273138-leaving-l-a.json](./273138-leaving-l-a.json) |
@@ -1711,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Kitty, Big City: Picture Purrfect | 360076 | [360076-little-kitty-big-city-picture-purrfect.json](./360076-little-kitty-big-city-picture-purrfect.json) |
 | Little Kong: Jungle Fun | 219285 | [219285-little-kong-jungle-fun.json](./219285-little-kong-jungle-fun.json) |
 | Little Lamb | 262429 | [262429-little-lamb.json](./262429-little-lamb.json) |
+| Little Lands | 177932 | [177932-little-lands.json](./177932-little-lands.json) |
 | Little Laps | 349326 | [349326-little-laps.json](./349326-little-laps.json) |
 | Little League World Series Baseball 2008 | 47953 | [47953-little-league-world-series-baseball-2008.json](./47953-little-league-world-series-baseball-2008.json) |
 | Little League World Series Baseball 2010 | 66621 | [66621-little-league-world-series-baseball-2010.json](./66621-little-league-world-series-baseball-2010.json) |
@@ -2127,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking for Aliens: Collector's Edition | 247510 | [247510-looking-for-aliens-collectors-edition.json](./247510-looking-for-aliens-collectors-edition.json) |
 | Looking For Cats In a Badly Drawn Forest: Extra Content | 292678 | [292678-looking-for-cats-in-a-badly-drawn-forest-extra-content.json](./292678-looking-for-cats-in-a-badly-drawn-forest-extra-content.json) |
 | Looking for Something | 316653 | [316653-looking-for-something.json](./316653-looking-for-something.json) |
+| Lookouts | 177910 | [177910-lookouts.json](./177910-lookouts.json) |
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
 | Looney Tunes World of Mayhem | 97314 | [97314-looney-tunes-world-of-mayhem.json](./97314-looney-tunes-world-of-mayhem.json) |
 | Looney Tunes: Acme Antics | 137000 | [137000-looney-tunes-acme-antics.json](./137000-looney-tunes-acme-antics.json) |
@@ -2303,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Egg: The Hard Boiled | 330317 | [330317-lost-egg-the-hard-boiled.json](./330317-lost-egg-the-hard-boiled.json) |
 | Lost Eidolons: Digital Deluxe | 227358 | [227358-lost-eidolons-digital-deluxe.json](./227358-lost-eidolons-digital-deluxe.json) |
 | Lost Epic | 150168 | [150168-lost-epic.json](./150168-lost-epic.json) |
+| Lost Ethereal | 177930 | [177930-lost-ethereal.json](./177930-lost-ethereal.json) |
 | Lost Everything: Chapter 1 | 299161 | [299161-lost-everything-chapter-1.json](./299161-lost-everything-chapter-1.json) |
 | Lost Existence | 126912 | [126912-lost-existence.json](./126912-lost-existence.json) |
 | Lost Fleet | 218589 | [218589-lost-fleet.json](./218589-lost-fleet.json) |
