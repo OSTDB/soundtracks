@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaga-33 | 22334 | [22334-zaga-33.json](./22334-zaga-33.json) |
 | Zagadki Tigrenka Usika | 188599 | [188599-zagadki-tigrenka-usika.json](./188599-zagadki-tigrenka-usika.json) |
 | Zagan Must Be Rescued | 163907 | [163907-zagan-must-be-rescued.json](./163907-zagan-must-be-rescued.json) |
+| Zagerrrr | 176366 | [176366-zagerrrr.json](./176366-zagerrrr.json) |
 | Zahak | 287676 | [287676-zahak.json](./287676-zahak.json) |
 | Zahmahrel | 365773 | [365773-zahmahrel.json](./365773-zahmahrel.json) |
 | Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kyouryoku: Kanken DS Training | 123032 | [123032-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kyouryoku-kanken-ds-training.json](./123032-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kyouryoku-kanken-ds-training.json) |
