@@ -3843,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double View | 250432 | [250432-double-view.json](./250432-double-view.json) |
 | Double-Entry Bookkeeping Simulator | 188549 | [188549-double-entry-bookkeeping-simulator.json](./188549-double-entry-bookkeeping-simulator.json) |
 | DoubleShake | 142481 | [142481-doubleshake.json](./142481-doubleshake.json) |
+| Doubts | 179613 | [179613-doubts.json](./179613-doubts.json) |
 | Doubutsu no Mori Card e+: Series 1 | 356647 | [356647-doubutsu-no-mori-card-e-series-1.json](./356647-doubutsu-no-mori-card-e-series-1.json) |
 | Doubutsu no Mori+ Card-e: Series 1 | 356635 | [356635-doubutsu-no-mori-card-e-series-1.json](./356635-doubutsu-no-mori-card-e-series-1.json) |
 | Doubutsu no Mori+: Super Mario Bros | 360585 | [360585-doubutsu-no-mori-super-mario-bros.json](./360585-doubutsu-no-mori-super-mario-bros.json) |
@@ -4289,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonScales 7: A Heart of Dark Flames | 197416 | [197416-dragonscales-7-a-heart-of-dark-flames.json](./197416-dragonscales-7-a-heart-of-dark-flames.json) |
 | DragonScales: Chambers of The Dragon Whisperer | 55854 | [55854-dragonscales-chambers-of-the-dragon-whisperer.json](./55854-dragonscales-chambers-of-the-dragon-whisperer.json) |
 | Dragonscapes Adventure | 219830 | [219830-dragonscapes-adventure.json](./219830-dragonscapes-adventure.json) |
+| DragonScriber | 179575 | [179575-dragonscriber.json](./179575-dragonscriber.json) |
 | DragonSpear EX | 200164 | [200164-dragonspear-ex.json](./200164-dragonspear-ex.json) |
 | Dragonsphere | 2487 | [2487-dragonsphere.json](./2487-dragonsphere.json) |
 | DragonSwings | 184636 | [184636-dragonswings.json](./184636-dragonswings.json) |
