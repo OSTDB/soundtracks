@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Room: Prisoner's Dilemma | 304353 | [304353-one-room-prisoners-dilemma.json](./304353-one-room-prisoners-dilemma.json) |
 | One Rotten Oath | 358376 | [358376-one-rotten-oath.json](./358376-one-rotten-oath.json) |
 | One S'More | 258706 | [258706-one-smore.json](./258706-one-smore.json) |
+| One Shell Straight to Hell: X Layers of Fear | 170374 | [170374-one-shell-straight-to-hell-x-layers-of-fear.json](./170374-one-shell-straight-to-hell-x-layers-of-fear.json) |
 | One Shot | 179111 | [179111-one-shot.json](./179111-one-shot.json) |
 | One Shot Challenge | 234742 | [234742-one-shot-challenge.json](./234742-one-shot-challenge.json) |
 | One Shot Challenge | 390665 | [390665-one-shot-challenge.json](./390665-one-shot-challenge.json) |
