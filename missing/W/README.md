@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With Loneliness | 116932 | [116932-with-loneliness.json](./116932-with-loneliness.json) |
 | With My Buddy | 339826 | [339826-with-my-buddy.json](./339826-with-my-buddy.json) |
 | With Seven Cats | 184118 | [184118-with-seven-cats.json](./184118-with-seven-cats.json) |
+| With the Addition of Markiplier | 159181 | [159181-with-the-addition-of-markiplier.json](./159181-with-the-addition-of-markiplier.json) |
 | With The Fire And Sword | 330885 | [330885-with-the-fire-and-sword.json](./330885-with-the-fire-and-sword.json) |
 | With You | 188710 | [188710-with-you.json](./188710-with-you.json) |
 | Witherbloom | 291447 | [291447-witherbloom.json](./291447-witherbloom.json) |
