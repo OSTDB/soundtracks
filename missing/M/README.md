@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop | 71552 | [71552-magical-drop.json](./71552-magical-drop.json) |
 | Magical Drop III: Toretate Zoukangou! | 171031 | [171031-magical-drop-iii-toretate-zoukangou.json](./171031-magical-drop-iii-toretate-zoukangou.json) |
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
+| Magical Girl | 158086 | [158086-magical-girl.json](./158086-magical-girl.json) |
 | Magical Girl Konoha | 261828 | [261828-magical-girl-konoha.json](./261828-magical-girl-konoha.json) |
 | Magical Girl Leaky Sara | 58810 | [58810-magical-girl-leaky-sara.json](./58810-magical-girl-leaky-sara.json) |
 | Magical Girl Momo | 82820 | [82820-magical-girl-momo.json](./82820-magical-girl-momo.json) |
@@ -3199,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Souls | 365083 | [365083-midnight-souls.json](./365083-midnight-souls.json) |
 | Midnight Special | 319815 | [319815-midnight-special.json](./319815-midnight-special.json) |
 | Midnight Spooks: The Thing in the Basement | 311482 | [311482-midnight-spooks-the-thing-in-the-basement.json](./311482-midnight-spooks-the-thing-in-the-basement.json) |
+| Midnight Stories 2 | 158067 | [158067-midnight-stories-2.json](./158067-midnight-stories-2.json) |
 | Midnight Stranger | 143102 | [143102-midnight-stranger.json](./143102-midnight-stranger.json) |
 | Midnight Swamp | 318198 | [318198-midnight-swamp.json](./318198-midnight-swamp.json) |
 | Midnight Terrors | 395705 | [395705-midnight-terrors.json](./395705-midnight-terrors.json) |
