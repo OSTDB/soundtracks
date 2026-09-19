@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oswald | 130892 | [130892-oswald.json](./130892-oswald.json) |
 | Oswald's Supermarket | 299781 | [299781-oswalds-supermarket.json](./299781-oswalds-supermarket.json) |
 | Osyaberi! Horijyo! Gekihori: Anna Holinski Saves the Universe, Alright?! | 222425 | [222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json](./222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json) |
+| Osyaberi! Puzzle Chigatan: Spot the Differences with Everyone | 147824 | [147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json](./147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json) |
 | Otaku Miracles | 333067 | [333067-otaku-miracles.json](./333067-otaku-miracles.json) |
 | Otaku's Adventure: The World Just Keeps Turning | 299119 | [299119-otakus-adventure-the-world-just-keeps-turning.json](./299119-otakus-adventure-the-world-just-keeps-turning.json) |
 | Otaku's Rage: Waifu Strikes Back | 144368 | [144368-otakus-rage-waifu-strikes-back.json](./144368-otakus-rage-waifu-strikes-back.json) |
