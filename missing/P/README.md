@@ -4335,6 +4335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Foosball | 63831 | [63831-pro-foosball.json](./63831-pro-foosball.json) |
 | Pro Football | 289866 | [289866-pro-football.json](./289866-pro-football.json) |
 | Pro Gamer Tycoon | 103471 | [103471-pro-gamer-tycoon.json](./103471-pro-gamer-tycoon.json) |
+| Pro Gymnast Simulator | 128347 | [128347-pro-gymnast-simulator.json](./128347-pro-gymnast-simulator.json) |
 | Pro Gymnast Simulator + Brawl Chess | 219051 | [219051-pro-gymnast-simulator-brawl-chess.json](./219051-pro-gymnast-simulator-brawl-chess.json) |
 | Pro Gymnast Simulator + Clumsy Rush | 218456 | [218456-pro-gymnast-simulator-clumsy-rush.json](./218456-pro-gymnast-simulator-clumsy-rush.json) |
 | Pro Gymnast Simulator + Cyber Protocol | 218501 | [218501-pro-gymnast-simulator-cyber-protocol.json](./218501-pro-gymnast-simulator-cyber-protocol.json) |
