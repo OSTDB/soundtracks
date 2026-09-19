@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanostray 2 | 20992 | [20992-nanostray-2.json](./20992-nanostray-2.json) |
 | Nanoswarm | 110971 | [110971-nanoswarm.json](./110971-nanoswarm.json) |
 | Nanotale: Typing Chronicles | 112378 | [112378-nanotale-typing-chronicles.json](./112378-nanotale-typing-chronicles.json) |
+| NanoTech | 128409 | [128409-nanotech.json](./128409-nanotech.json) |
 | Nanotris | 33064 | [33064-nanotris.json](./33064-nanotris.json) |
 | Nanoui | 89972 | [89972-nanoui.json](./89972-nanoui.json) |
 | Nanovoid | 244908 | [244908-nanovoid.json](./244908-nanovoid.json) |
@@ -641,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Times: Purrfect Shapes | 369629 | [369629-neko-times-purrfect-shapes.json](./369629-neko-times-purrfect-shapes.json) |
 | Neko Tissue | 370105 | [370105-neko-tissue.json](./370105-neko-tissue.json) |
 | Neko to Sakana | 188601 | [188601-neko-to-sakana.json](./188601-neko-to-sakana.json) |
+| Neko Zamurai | 128364 | [128364-neko-zamurai.json](./128364-neko-zamurai.json) |
 | Neko-Nin ExHeart 3 | 126911 | [126911-neko-nin-exheart-3.json](./126911-neko-nin-exheart-3.json) |
 | Neko-sama no Karaguri: Garden kara no Dasshutsu | 240231 | [240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json](./240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json) |
 | Neko-sama no Kominka kara no Dasshutsu | 260689 | [260689-neko-sama-no-kominka-kara-no-dasshutsu.json](./260689-neko-sama-no-kominka-kara-no-dasshutsu.json) |
@@ -1176,6 +1178,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 10 | 953 | [953-nhl-10.json](./953-nhl-10.json) |
 | NHL 18 | 36847 | [36847-nhl-18.json](./36847-nhl-18.json) |
 | NHL 19: Ultimate Edition | 61636 | [61636-nhl-19-ultimate-edition.json](./61636-nhl-19-ultimate-edition.json) |
+| NHL 20: Deluxe Edition | 128387 | [128387-nhl-20-deluxe-edition.json](./128387-nhl-20-deluxe-edition.json) |
+| NHL 20: Ultimate Edition | 128388 | [128388-nhl-20-ultimate-edition.json](./128388-nhl-20-ultimate-edition.json) |
 | NHL 2000 | 813 | [813-nhl-2000.json](./813-nhl-2000.json) |
 | NHL 2001 | 814 | [814-nhl-2001.json](./814-nhl-2001.json) |
 | NHL 2002 | 815 | [815-nhl-2002.json](./815-nhl-2002.json) |
@@ -1243,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Kart Racers 3: Slime Speedway Turbo Pack | 263234 | [263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json](./263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json) |
 | Nickelodeon Kids Bundle | 286512 | [286512-nickelodeon-kids-bundle.json](./286512-nickelodeon-kids-bundle.json) |
 | Nickelodeon Nick O Matic Design Factory | 210031 | [210031-nickelodeon-nick-o-matic-design-factory.json](./210031-nickelodeon-nick-o-matic-design-factory.json) |
+| Nickelodeon Pixel Town | 128374 | [128374-nickelodeon-pixel-town.json](./128374-nickelodeon-pixel-town.json) |
 | Nicktoons | 220098 | [220098-nicktoons.json](./220098-nicktoons.json) |
 | Nicktoons Nick Tunes | 210028 | [210028-nicktoons-nick-tunes.json](./210028-nicktoons-nick-tunes.json) |
 | Nicktoons Racing | 248732 | [248732-nicktoons-racing.json](./248732-nicktoons-racing.json) |
