@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Dungeon Game | 333018 | [333018-random-dungeon-game.json](./333018-random-dungeon-game.json) |
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
 | Random Quest : First Person RPG | 103505 | [103505-random-quest-first-person-rpg.json](./103505-random-quest-first-person-rpg.json) |
+| Random Racing | 159124 | [159124-random-racing.json](./159124-random-racing.json) |
 | Random Thing Game | 236278 | [236278-random-thing-game.json](./236278-random-thing-game.json) |
 | Randomish | 217400 | [217400-randomish.json](./217400-randomish.json) |
 | Randomlands | 156602 | [156602-randomlands.json](./156602-randomlands.json) |
@@ -1563,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repton 3 | 37074 | [37074-repton-3.json](./37074-repton-3.json) |
 | Repton Mania | 94257 | [94257-repton-mania.json](./94257-repton-mania.json) |
 | Republic at War | 377612 | [377612-republic-at-war.json](./377612-republic-at-war.json) |
+| République VR | 159154 | [159154-republique-vr.json](./159154-republique-vr.json) |
 | Republique: Anniversary Edition | 152324 | [152324-republique-anniversary-edition.json](./152324-republique-anniversary-edition.json) |
 | République: Episode 1- Exordium | 127126 | [127126-republique-episode-1-exordium.json](./127126-republique-episode-1-exordium.json) |
 | République: Episode 3 - Ones and Zeroes | 127128 | [127128-republique-episode-3-ones-and-zeroes.json](./127128-republique-episode-3-ones-and-zeroes.json) |
@@ -3680,6 +3682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeyana | 32935 | [32935-runeyana.json](./32935-runeyana.json) |
 | Runi's Math Castle | 306337 | [306337-runis-math-castle.json](./306337-runis-math-castle.json) |
 | Runic Curse | 207851 | [207851-runic-curse.json](./207851-runic-curse.json) |
+| Runic Relay: The Trials | 159121 | [159121-runic-relay-the-trials.json](./159121-runic-relay-the-trials.json) |
 | Runic Rogues | 413052 | [413052-runic-rogues.json](./413052-runic-rogues.json) |
 | Runic Survivor | 215909 | [215909-runic-survivor.json](./215909-runic-survivor.json) |
 | Runic Warrens | 271745 | [271745-runic-warrens.json](./271745-runic-warrens.json) |
