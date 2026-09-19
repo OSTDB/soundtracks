@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T07:17:39.704Z",
-  "total_missing": 91171,
+  "generated_at": "2026-09-19T07:32:28.293Z",
+  "total_missing": 91221,
   "games": [
     {
       "igdb_id": 176875,
@@ -41408,6 +41408,21 @@
       "file": "missing/B/127233-blackthorn-arena.json"
     },
     {
+      "igdb_id": 164333,
+      "game_name": "Blackthorn Arena: Gods of War",
+      "file": "missing/B/164333-blackthorn-arena-gods-of-war.json"
+    },
+    {
+      "igdb_id": 164335,
+      "game_name": "Blackthorn Arena: Path of Kiren",
+      "file": "missing/B/164335-blackthorn-arena-path-of-kiren.json"
+    },
+    {
+      "igdb_id": 164334,
+      "game_name": "Blackthorn Arena: The Roar from the North",
+      "file": "missing/B/164334-blackthorn-arena-the-roar-from-the-north.json"
+    },
+    {
       "igdb_id": 362326,
       "game_name": "Blackthorn Witch",
       "file": "missing/B/362326-blackthorn-witch.json"
@@ -50421,6 +50436,11 @@
       "igdb_id": 17918,
       "game_name": "Brink of Consciousness: The Lonely Hearts Murders",
       "file": "missing/B/17918-brink-of-consciousness-the-lonely-hearts-murders.json"
+    },
+    {
+      "igdb_id": 164366,
+      "game_name": "Brink: Agents of Change",
+      "file": "missing/B/164366-brink-agents-of-change.json"
     },
     {
       "igdb_id": 87105,
@@ -77846,6 +77866,51 @@
       "igdb_id": 197893,
       "game_name": "Crazy Machines 2",
       "file": "missing/C/197893-crazy-machines-2.json"
+    },
+    {
+      "igdb_id": 164367,
+      "game_name": "Crazy Machines 2: Anniversary DLC",
+      "file": "missing/C/164367-crazy-machines-2-anniversary-dlc.json"
+    },
+    {
+      "igdb_id": 164373,
+      "game_name": "Crazy Machines 2: Back to the Shop Add-On",
+      "file": "missing/C/164373-crazy-machines-2-back-to-the-shop-add-on.json"
+    },
+    {
+      "igdb_id": 164368,
+      "game_name": "Crazy Machines 2: Halloween",
+      "file": "missing/C/164368-crazy-machines-2-halloween.json"
+    },
+    {
+      "igdb_id": 164372,
+      "game_name": "Crazy Machines 2: Happy New Year DLC",
+      "file": "missing/C/164372-crazy-machines-2-happy-new-year-dlc.json"
+    },
+    {
+      "igdb_id": 164371,
+      "game_name": "Crazy Machines 2: Invaders from Space",
+      "file": "missing/C/164371-crazy-machines-2-invaders-from-space.json"
+    },
+    {
+      "igdb_id": 164369,
+      "game_name": "Crazy Machines 2: Invaders From Space, 2nd Wave DLC",
+      "file": "missing/C/164369-crazy-machines-2-invaders-from-space-2nd-wave-dlc.json"
+    },
+    {
+      "igdb_id": 164375,
+      "game_name": "Crazy Machines 2: Liquid Force Add-on",
+      "file": "missing/C/164375-crazy-machines-2-liquid-force-add-on.json"
+    },
+    {
+      "igdb_id": 164370,
+      "game_name": "Crazy Machines 2: Pirates",
+      "file": "missing/C/164370-crazy-machines-2-pirates.json"
+    },
+    {
+      "igdb_id": 164374,
+      "game_name": "Crazy Machines 2: Time Travel Add-On",
+      "file": "missing/C/164374-crazy-machines-2-time-travel-add-on.json"
     },
     {
       "igdb_id": 111042,
@@ -109348,9 +109413,104 @@
       "file": "missing/D/90701-dungeon-defenders-ii-heartwarming-bundle.json"
     },
     {
+      "igdb_id": 164356,
+      "game_name": "Dungeon Defenders: Anniversary Pack",
+      "file": "missing/D/164356-dungeon-defenders-anniversary-pack.json"
+    },
+    {
+      "igdb_id": 164351,
+      "game_name": "Dungeon Defenders: Assault Mission Pack",
+      "file": "missing/D/164351-dungeon-defenders-assault-mission-pack.json"
+    },
+    {
+      "igdb_id": 164362,
+      "game_name": "Dungeon Defenders: Barbarian Hero DLC",
+      "file": "missing/D/164362-dungeon-defenders-barbarian-hero-dlc.json"
+    },
+    {
+      "igdb_id": 164360,
+      "game_name": "Dungeon Defenders: City in the Cliffs Mission Pack",
+      "file": "missing/D/164360-dungeon-defenders-city-in-the-cliffs-mission-pack.json"
+    },
+    {
+      "igdb_id": 164347,
+      "game_name": "Dungeon Defenders: Etherian Festival of Love",
+      "file": "missing/D/164347-dungeon-defenders-etherian-festival-of-love.json"
+    },
+    {
+      "igdb_id": 164359,
+      "game_name": "Dungeon Defenders: Etherian Holiday Extravaganza",
+      "file": "missing/D/164359-dungeon-defenders-etherian-holiday-extravaganza.json"
+    },
+    {
+      "igdb_id": 164345,
+      "game_name": "Dungeon Defenders: Halloween Mission Pack",
+      "file": "missing/D/164345-dungeon-defenders-halloween-mission-pack.json"
+    },
+    {
+      "igdb_id": 164354,
+      "game_name": "Dungeon Defenders: Jester Hero DLC",
+      "file": "missing/D/164354-dungeon-defenders-jester-hero-dlc.json"
+    },
+    {
+      "igdb_id": 164361,
+      "game_name": "Dungeon Defenders: Karathiki Jungle Mission Pack",
+      "file": "missing/D/164361-dungeon-defenders-karathiki-jungle-mission-pack.json"
+    },
+    {
+      "igdb_id": 164344,
+      "game_name": "Dungeon Defenders: New Heroes DLC",
+      "file": "missing/D/164344-dungeon-defenders-new-heroes-dlc.json"
+    },
+    {
+      "igdb_id": 164358,
+      "game_name": "Dungeon Defenders: President's Day Surprise",
+      "file": "missing/D/164358-dungeon-defenders-presidents-day-surprise.json"
+    },
+    {
+      "igdb_id": 164350,
+      "game_name": "Dungeon Defenders: Quest for the Lost Eternia Shards Part 1",
+      "file": "missing/D/164350-dungeon-defenders-quest-for-the-lost-eternia-shards-part-1.json"
+    },
+    {
+      "igdb_id": 164348,
+      "game_name": "Dungeon Defenders: Quest for the Lost Eternia Shards Part 2",
+      "file": "missing/D/164348-dungeon-defenders-quest-for-the-lost-eternia-shards-part-2.json"
+    },
+    {
+      "igdb_id": 164352,
+      "game_name": "Dungeon Defenders: Quest for the Lost Eternia Shards Part 3",
+      "file": "missing/D/164352-dungeon-defenders-quest-for-the-lost-eternia-shards-part-3.json"
+    },
+    {
+      "igdb_id": 164353,
+      "game_name": "Dungeon Defenders: Quest for the Lost Eternia Shards Part 4",
+      "file": "missing/D/164353-dungeon-defenders-quest-for-the-lost-eternia-shards-part-4.json"
+    },
+    {
+      "igdb_id": 164355,
+      "game_name": "Dungeon Defenders: Series EV Hero DLC",
+      "file": "missing/D/164355-dungeon-defenders-series-ev-hero-dlc.json"
+    },
+    {
+      "igdb_id": 164349,
+      "game_name": "Dungeon Defenders: Summoner Hero DLC",
+      "file": "missing/D/164349-dungeon-defenders-summoner-hero-dlc.json"
+    },
+    {
+      "igdb_id": 164357,
+      "game_name": "Dungeon Defenders: The Great Turkey Hunt! Mission & Costumes",
+      "file": "missing/D/164357-dungeon-defenders-the-great-turkey-hunt-mission-and-costumes.json"
+    },
+    {
       "igdb_id": 364559,
       "game_name": "Dungeon Defenders: Warden Hero DLC",
       "file": "missing/D/364559-dungeon-defenders-warden-hero-dlc.json"
+    },
+    {
+      "igdb_id": 164346,
+      "game_name": "Dungeon Defenders: Warping Core Challenge Mission Pack",
+      "file": "missing/D/164346-dungeon-defenders-warping-core-challenge-mission-pack.json"
     },
     {
       "igdb_id": 151135,
@@ -147763,6 +147923,11 @@
       "file": "missing/G/79899-gemstone-iv.json"
     },
     {
+      "igdb_id": 164377,
+      "game_name": "Gemstone Legends",
+      "file": "missing/G/164377-gemstone-legends.json"
+    },
+    {
       "igdb_id": 274028,
       "game_name": "Gemstone Puzzle Fury",
       "file": "missing/G/274028-gemstone-puzzle-fury.json"
@@ -155381,6 +155546,36 @@
       "igdb_id": 119748,
       "game_name": "Gratuitous Animal Massacre",
       "file": "missing/G/119748-gratuitous-animal-massacre.json"
+    },
+    {
+      "igdb_id": 164341,
+      "game_name": "Gratuitous Space Battles: Galactic Conquest",
+      "file": "missing/G/164341-gratuitous-space-battles-galactic-conquest.json"
+    },
+    {
+      "igdb_id": 164339,
+      "game_name": "Gratuitous Space Battles: The Nomads",
+      "file": "missing/G/164339-gratuitous-space-battles-the-nomads.json"
+    },
+    {
+      "igdb_id": 164342,
+      "game_name": "Gratuitous Space Battles: The Order",
+      "file": "missing/G/164342-gratuitous-space-battles-the-order.json"
+    },
+    {
+      "igdb_id": 164340,
+      "game_name": "Gratuitous Space Battles: The Outcasts",
+      "file": "missing/G/164340-gratuitous-space-battles-the-outcasts.json"
+    },
+    {
+      "igdb_id": 164343,
+      "game_name": "Gratuitous Space Battles: The Swarm",
+      "file": "missing/G/164343-gratuitous-space-battles-the-swarm.json"
+    },
+    {
+      "igdb_id": 164338,
+      "game_name": "Gratuitous Space Battles: The Tribe",
+      "file": "missing/G/164338-gratuitous-space-battles-the-tribe.json"
     },
     {
       "igdb_id": 16334,
@@ -167906,6 +168101,11 @@
       "igdb_id": 147408,
       "game_name": "Hentai VR 3",
       "file": "missing/H/147408-hentai-vr-3.json"
+    },
+    {
+      "igdb_id": 164376,
+      "game_name": "Hentai vs. Furries",
+      "file": "missing/H/164376-hentai-vs-furries.json"
     },
     {
       "igdb_id": 161388,
@@ -222141,6 +222341,11 @@
       "igdb_id": 331676,
       "game_name": "Maimai DX Plus",
       "file": "missing/M/331676-maimai-dx-plus.json"
+    },
+    {
+      "igdb_id": 164382,
+      "game_name": "Maimai DX Splash",
+      "file": "missing/M/164382-maimai-dx-splash.json"
     },
     {
       "igdb_id": 167282,
@@ -350033,6 +350238,11 @@
       "file": "missing/S/176361-spectrolite.json"
     },
     {
+      "igdb_id": 164383,
+      "game_name": "Spectromancer: Gathering of Power",
+      "file": "missing/S/164383-spectromancer-gathering-of-power.json"
+    },
+    {
       "igdb_id": 96663,
       "game_name": "Spectrubes Infinity",
       "file": "missing/S/96663-spectrubes-infinity.json"
@@ -393553,6 +393763,21 @@
       "file": "missing/T/183476-the-matter-at-hand.json"
     },
     {
+      "igdb_id": 164365,
+      "game_name": "The Maw: Brute Force",
+      "file": "missing/T/164365-the-maw-brute-force.json"
+    },
+    {
+      "igdb_id": 164363,
+      "game_name": "The Maw: River Redirect",
+      "file": "missing/T/164363-the-maw-river-redirect.json"
+    },
+    {
+      "igdb_id": 164364,
+      "game_name": "The Maw: Speeder Lane",
+      "file": "missing/T/164364-the-maw-speeder-lane.json"
+    },
+    {
       "igdb_id": 107158,
       "game_name": "The Maze",
       "file": "missing/T/107158-the-maze.json"
@@ -398381,6 +398606,11 @@
       "igdb_id": 331116,
       "game_name": "The Soldier and the Golden Princess",
       "file": "missing/T/331116-the-soldier-and-the-golden-princess.json"
+    },
+    {
+      "igdb_id": 164336,
+      "game_name": "The Soldiers Factory",
+      "file": "missing/T/164336-the-soldiers-factory.json"
     },
     {
       "igdb_id": 243808,
@@ -439728,6 +439958,11 @@
       "file": "missing/W/90182-whats-the-difference-spot-it.json"
     },
     {
+      "igdb_id": 164337,
+      "game_name": "What's the Matter?",
+      "file": "missing/W/164337-whats-the-matter.json"
+    },
+    {
       "igdb_id": 312200,
       "game_name": "What's the Point?",
       "file": "missing/W/312200-whats-the-point.json"
@@ -446858,9 +447093,24 @@
       "file": "missing/W/1017-worms-reloaded.json"
     },
     {
+      "igdb_id": 164379,
+      "game_name": "Worms Reloaded: Forts Pack",
+      "file": "missing/W/164379-worms-reloaded-forts-pack.json"
+    },
+    {
       "igdb_id": 163430,
       "game_name": "Worms Reloaded: Puzzle Pack",
       "file": "missing/W/163430-worms-reloaded-puzzle-pack.json"
+    },
+    {
+      "igdb_id": 164380,
+      "game_name": "Worms Reloaded: Retro Pack",
+      "file": "missing/W/164380-worms-reloaded-retro-pack.json"
+    },
+    {
+      "igdb_id": 164381,
+      "game_name": "Worms Reloaded: Time Attack Pack",
+      "file": "missing/W/164381-worms-reloaded-time-attack-pack.json"
     },
     {
       "igdb_id": 225085,
