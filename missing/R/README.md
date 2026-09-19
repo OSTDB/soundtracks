@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Journey: Nitro | 219176 | [219176-race-journey-nitro.json](./219176-race-journey-nitro.json) |
 | Race Manager | 264630 | [264630-race-manager.json](./264630-race-manager.json) |
 | Race Max Pro | 392152 | [392152-race-max-pro.json](./392152-race-max-pro.json) |
+| Race me now | 154385 | [154385-race-me-now.json](./154385-race-me-now.json) |
 | Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
 | Race Race Racer | 126996 | [126996-race-race-racer.json](./126996-race-race-racer.json) |
 | Race the Sun | 7876 | [7876-race-the-sun.json](./7876-race-the-sun.json) |
@@ -527,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Range is HOT! | 146230 | [146230-range-is-hot.json](./146230-range-is-hot.json) |
 | Range Royale | 108426 | [108426-range-royale.json](./108426-range-royale.json) |
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
+| Ranger vs. Drones | 154364 | [154364-ranger-vs-drones.json](./154364-ranger-vs-drones.json) |
 | Ranger vs. Space Mutants | 101623 | [101623-ranger-vs-space-mutants.json](./101623-ranger-vs-space-mutants.json) |
 | Rangers | 138744 | [138744-rangers.json](./138744-rangers.json) |
 | Rangers Football Coach Season 2001-2002 | 59385 | [59385-rangers-football-coach-season-2001-2002.json](./59385-rangers-football-coach-season-2001-2002.json) |
@@ -1029,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebungered!! That Time I Got Reincarnated As A Bunger! | 405474 | [405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json](./405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json) |
 | Rec: Beyond The Lens | 255957 | [255957-rec-beyond-the-lens.json](./255957-rec-beyond-the-lens.json) |
 | Recalcitrant | 326273 | [326273-recalcitrant.json](./326273-recalcitrant.json) |
+| Recall | 154397 | [154397-recall.json](./154397-recall.json) |
 | ReCast FF3: War of the Magitek | 339255 | [339255-recast-ff3-war-of-the-magitek.json](./339255-recast-ff3-war-of-the-magitek.json) |
 | Recesses | 317409 | [317409-recesses.json](./317409-recesses.json) |
 | Recharge Complete | 75171 | [75171-recharge-complete.json](./75171-recharge-complete.json) |
@@ -1493,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants | 168318 | [168318-remnants.json](./168318-remnants.json) |
 | Remnants of Flesh | 322608 | [322608-remnants-of-flesh.json](./322608-remnants-of-flesh.json) |
 | Remnants of Naezith | 29520 | [29520-remnants-of-naezith.json](./29520-remnants-of-naezith.json) |
+| Remnants of the Rift | 154369 | [154369-remnants-of-the-rift.json](./154369-remnants-of-the-rift.json) |
 | Remnants of Yore | 342654 | [342654-remnants-of-yore.json](./342654-remnants-of-yore.json) |
 | Remote Control | 388921 | [388921-remote-control.json](./388921-remote-control.json) |
 | Remote Knights Online | 153401 | [153401-remote-knights-online.json](./153401-remote-knights-online.json) |
