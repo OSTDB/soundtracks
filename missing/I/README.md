@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Increlution | 158719 | [158719-increlution.json](./158719-increlution.json) |
 | Incremental Epic Breakers | 163968 | [163968-incremental-epic-breakers.json](./163968-incremental-epic-breakers.json) |
 | Incremental Epic Breakers: Automation Pack | 171032 | [171032-incremental-epic-breakers-automation-pack.json](./171032-incremental-epic-breakers-automation-pack.json) |
+| Incremental Epic Hero | 158043 | [158043-incremental-epic-hero.json](./158043-incremental-epic-hero.json) |
 | Incremental Epic Hero 2 | 197398 | [197398-incremental-epic-hero-2.json](./197398-incremental-epic-hero-2.json) |
 | Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
 | Incubus | 200567 | [200567-incubus.json](./200567-incubus.json) |
@@ -1324,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insatiable Creatures | 184594 | [184594-insatiable-creatures.json](./184594-insatiable-creatures.json) |
 | Inscryption: Kaycee's Mod | 186306 | [186306-inscryption-kaycees-mod.json](./186306-inscryption-kaycees-mod.json) |
 | Inseco | 415084 | [415084-inseco.json](./415084-inseco.json) |
+| Insect: Bombardier beetle | 158075 | [158075-insect-bombardier-beetle.json](./158075-insect-bombardier-beetle.json) |
 | Insectarium Alternative March | 320173 | [320173-insectarium-alternative-march.json](./320173-insectarium-alternative-march.json) |
 | Insectile | 339819 | [339819-insectile.json](./339819-insectile.json) |
 | Insectipede | 119764 | [119764-insectipede.json](./119764-insectipede.json) |
