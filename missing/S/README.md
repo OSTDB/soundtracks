@@ -5880,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Engineers: Ultimate Edition 2024 | 331850 | [331850-space-engineers-ultimate-edition-2024.json](./331850-space-engineers-ultimate-edition-2024.json) |
 | Space Escape | 89978 | [89978-space-escape.json](./89978-space-escape.json) |
 | Space Escape Obstacles | 202960 | [202960-space-escape-obstacles.json](./202960-space-escape-obstacles.json) |
+| Space Expedition | 146100 | [146100-space-expedition.json](./146100-space-expedition.json) |
 | Space Extractor: Galactic Alien Insect Control Invasion | 284492 | [284492-space-extractor-galactic-alien-insect-control-invasion.json](./284492-space-extractor-galactic-alien-insect-control-invasion.json) |
 | Space Fantasy Zone | 42007 | [42007-space-fantasy-zone.json](./42007-space-fantasy-zone.json) |
 | Space Farmers 2 | 169870 | [169870-space-farmers-2.json](./169870-space-farmers-2.json) |
@@ -10554,6 +10555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm Sweeper | 351604 | [351604-swarm-sweeper.json](./351604-swarm-sweeper.json) |
 | Swarm the City | 152391 | [152391-swarm-the-city.json](./152391-swarm-the-city.json) |
 | Swarm Universe | 34334 | [34334-swarm-universe.json](./34334-swarm-universe.json) |
+| Swarming Planet | 146099 | [146099-swarming-planet.json](./146099-swarming-planet.json) |
 | Swarmlake | 86468 | [86468-swarmlake.json](./86468-swarmlake.json) |
 | Swarmrider Omega | 67901 | [67901-swarmrider-omega.json](./67901-swarmrider-omega.json) |
 | Swarmsign | 304904 | [304904-swarmsign.json](./304904-swarmsign.json) |
