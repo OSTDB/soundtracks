@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generative Quest | 267414 | [267414-generative-quest.json](./267414-generative-quest.json) |
 | Generic Brazilian Favela Game with Generic Enemies 2003 | 264894 | [264894-generic-brazilian-favela-game-with-generic-enemies-2003.json](./264894-generic-brazilian-favela-game-with-generic-enemies-2003.json) |
 | Generic Fighter Maybe | 358350 | [358350-generic-fighter-maybe.json](./358350-generic-fighter-maybe.json) |
+| Generic nonbinary game | 176926 | [176926-generic-nonbinary-game.json](./176926-generic-nonbinary-game.json) |
 | Genesis | 127265 | [127265-genesis.json](./127265-genesis.json) |
 | Genesis | 381046 | [381046-genesis.json](./381046-genesis.json) |
 | Genesis | 381047 | [381047-genesis.json](./381047-genesis.json) |
@@ -2781,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess The Movie | 273111 | [273111-guess-the-movie.json](./273111-guess-the-movie.json) |
 | Guess the Movie :- Funnier One | 23903 | [23903-guess-the-movie-funnier-one.json](./23903-guess-the-movie-funnier-one.json) |
 | Guess Where You Are | 320164 | [320164-guess-where-you-are.json](./320164-guess-where-you-are.json) |
+| Guess Who? Fire Emblem: Three Houses Edition! | 176916 | [176916-guess-who-fire-emblem-three-houses-edition.json](./176916-guess-who-fire-emblem-three-houses-edition.json) |
 | Guessed It! | 408027 | [408027-guessed-it.json](./408027-guessed-it.json) |
 | Guessmoji | 231463 | [231463-guessmoji.json](./231463-guessmoji.json) |
 | Guest House | 313349 | [313349-guest-house.json](./313349-guest-house.json) |
