@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jin & Jan | 318182 | [318182-jin-and-jan.json](./318182-jin-and-jan.json) |
 | Jin Lin Love Story | 106563 | [106563-jin-lin-love-story.json](./106563-jin-lin-love-story.json) |
 | Jinchou | 337480 | [337480-jinchou.json](./337480-jinchou.json) |
+| Jing 'an District Copstories | 157043 | [157043-jing-an-district-copstories.json](./157043-jing-an-district-copstories.json) |
 | Jingle Cats | 63293 | [63293-jingle-cats.json](./63293-jingle-cats.json) |
 | Jingoku | 175829 | [175829-jingoku.json](./175829-jingoku.json) |
 | Jinja | 313500 | [313500-jinja.json](./313500-jinja.json) |
