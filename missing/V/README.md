@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertical Ramp Impossible 3D | 100894 | [100894-vertical-ramp-impossible-3d.json](./100894-vertical-ramp-impossible-3d.json) |
 | Verticality | 306971 | [306971-verticality.json](./306971-verticality.json) |
 | Vertig8 | 303071 | [303071-vertig8.json](./303071-vertig8.json) |
+| Vertigo | 171501 | [171501-vertigo.json](./171501-vertigo.json) |
 | Vertigo 2: Into the Aether | 325823 | [325823-vertigo-2-into-the-aether.json](./325823-vertigo-2-into-the-aether.json) |
 | Vertigrowl | 338571 | [338571-vertigrowl.json](./338571-vertigrowl.json) |
 | Very Bad Dreams | 269860 | [269860-very-bad-dreams.json](./269860-very-bad-dreams.json) |
@@ -565,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victim Doll | 239195 | [239195-victim-doll.json](./239195-victim-doll.json) |
 | Victim.exe | 335344 | [335344-victim-exe.json](./335344-victim-exe.json) |
 | Victim's Tongue | 397765 | [397765-victims-tongue.json](./397765-victims-tongue.json) |
+| Victor Banana | 171478 | [171478-victor-banana.json](./171478-victor-banana.json) |
 | Victordle | 388749 | [388749-victordle.json](./388749-victordle.json) |
 | Victoria 3: Trains Bonus Pack | 289852 | [289852-victoria-3-trains-bonus-pack.json](./289852-victoria-3-trains-bonus-pack.json) |
 | Victoria 3: Update 1.2 | 240900 | [240900-victoria-3-update-1-2.json](./240900-victoria-3-update-1-2.json) |
