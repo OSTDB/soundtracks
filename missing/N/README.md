@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Clerk | 376476 | [376476-night-clerk.json](./376476-night-clerk.json) |
 | Night Clerk | 389597 | [389597-night-clerk.json](./389597-night-clerk.json) |
 | Night Darkness | 166602 | [166602-night-darkness.json](./166602-night-darkness.json) |
+| Night Dreams | 147299 | [147299-night-dreams.json](./147299-night-dreams.json) |
 | Night Dreams | 207374 | [207374-night-dreams.json](./207374-night-dreams.json) |
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
 | Night Driver | 311116 | [311116-night-driver.json](./311116-night-driver.json) |
