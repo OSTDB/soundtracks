@@ -45,6 +45,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.A.L.K.E.R.: Wind of Time | 138799 | [138799-s-t-a-l-k-e-r-wind-of-time.json](./138799-s-t-a-l-k-e-r-wind-of-time.json) |
 | S.T.A.R.V.E. | 410263 | [410263-s-t-a-r-v-e.json](./410263-s-t-a-r-v-e.json) |
 | S.T.G: Strike Gunner | 39692 | [39692-s-t-g-strike-gunner.json](./39692-s-t-g-strike-gunner.json) |
+| S.U.M. Slay Uncool Monsters: Archer | 168247 | [168247-s-u-m-slay-uncool-monsters-archer.json](./168247-s-u-m-slay-uncool-monsters-archer.json) |
+| S.U.M. Slay Uncool Monsters: Assassin | 168248 | [168248-s-u-m-slay-uncool-monsters-assassin.json](./168248-s-u-m-slay-uncool-monsters-assassin.json) |
+| S.U.M. Slay Uncool Monsters: Paladin | 168250 | [168250-s-u-m-slay-uncool-monsters-paladin.json](./168250-s-u-m-slay-uncool-monsters-paladin.json) |
+| S.U.M. Slay Uncool Monsters: Rogue | 168251 | [168251-s-u-m-slay-uncool-monsters-rogue.json](./168251-s-u-m-slay-uncool-monsters-rogue.json) |
+| S.U.M. Slay Uncool Monsters: Wizard | 168249 | [168249-s-u-m-slay-uncool-monsters-wizard.json](./168249-s-u-m-slay-uncool-monsters-wizard.json) |
 | S4Game | 213463 | [213463-s4game.json](./213463-s4game.json) |
 | S7 Mexico | 218728 | [218728-s7-mexico.json](./218728-s7-mexico.json) |
 | Saadex: Perpetual Storm | 270933 | [270933-saadex-perpetual-storm.json](./270933-saadex-perpetual-storm.json) |
@@ -4752,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban | 47946 | [47946-sokoban.json](./47946-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
 | Sokoban World | 308565 | [308565-sokoban-world.json](./308565-sokoban-world.json) |
+| Sokoban: Bunny Tales | 168220 | [168220-sokoban-bunny-tales.json](./168220-sokoban-bunny-tales.json) |
 | Sokobear: Autumn | 219591 | [219591-sokobear-autumn.json](./219591-sokobear-autumn.json) |
 | Sokobear: Goo | 221161 | [221161-sokobear-goo.json](./221161-sokobear-goo.json) |
 | Sokobear: Spring | 219592 | [219592-sokobear-spring.json](./219592-sokobear-spring.json) |
