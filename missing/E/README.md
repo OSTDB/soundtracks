@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecumene Aztec | 253442 | [253442-ecumene-aztec.json](./253442-ecumene-aztec.json) |
 | ECW Anarchy Rulz | 72029 | [72029-ecw-anarchy-rulz.json](./72029-ecw-anarchy-rulz.json) |
 | ECW Hardcore Revolution | 3483 | [3483-ecw-hardcore-revolution.json](./3483-ecw-hardcore-revolution.json) |
+| Eczema Angel Orifice | 144107 | [144107-eczema-angel-orifice.json](./144107-eczema-angel-orifice.json) |
 | Ed & Edda: Grand Prix – Racing Champions | 346020 | [346020-ed-and-edda-grand-prix-racing-champions.json](./346020-ed-and-edda-grand-prix-racing-champions.json) |
 | Ed Chess | 93042 | [93042-ed-chess.json](./93042-ed-chess.json) |
 | Ed-0: Zombie Uprising | 195077 | [195077-ed-0-zombie-uprising.json](./195077-ed-0-zombie-uprising.json) |
@@ -348,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed, Edd n Eddy: Scam of the Century | 2817 | [2817-ed-edd-n-eddy-scam-of-the-century.json](./2817-ed-edd-n-eddy-scam-of-the-century.json) |
 | Ed, Edd n Eddy: The Mis-Edventures | 2722 | [2722-ed-edd-n-eddy-the-mis-edventures.json](./2722-ed-edd-n-eddy-the-mis-edventures.json) |
 | Ed, Edd n Eddy's Candy Machine Deluxe | 196798 | [196798-ed-edd-n-eddys-candy-machine-deluxe.json](./196798-ed-edd-n-eddys-candy-machine-deluxe.json) |
+| Edda Café | 144115 | [144115-edda-cafe.json](./144115-edda-cafe.json) |
 | Eddie's World | 250037 | [250037-eddies-world.json](./250037-eddies-world.json) |
 | EdelSuche | 265233 | [265233-edelsuche.json](./265233-edelsuche.json) |
 | Edelweiss Knights | 386867 | [386867-edelweiss-knights.json](./386867-edelweiss-knights.json) |
