@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badger Brawl | 177016 | [177016-badger-brawl.json](./177016-badger-brawl.json) |
 | BadLads | 131597 | [131597-badlads.json](./131597-badlads.json) |
 | Badland: Game of the Year Edition | 20042 | [20042-badland-game-of-the-year-edition.json](./20042-badland-game-of-the-year-edition.json) |
+| Badlanders | 140378 | [140378-badlanders.json](./140378-badlanders.json) |
 | Badlanders | 192286 | [192286-badlanders.json](./192286-badlanders.json) |
 | Badlands | 190719 | [190719-badlands.json](./190719-badlands.json) |
 | Badmad Robots | 294140 | [294140-badmad-robots.json](./294140-badmad-robots.json) |
@@ -2095,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Future: Fix the Time Arrows | 44588 | [44588-beyond-the-future-fix-the-time-arrows.json](./44588-beyond-the-future-fix-the-time-arrows.json) |
 | Beyond the Gate | 177428 | [177428-beyond-the-gate.json](./177428-beyond-the-gate.json) |
 | Beyond the Grove | 341905 | [341905-beyond-the-grove.json](./341905-beyond-the-grove.json) |
+| Beyond the Harbor | 140403 | [140403-beyond-the-harbor.json](./140403-beyond-the-harbor.json) |
 | Beyond the Harbor: R | 212251 | [212251-beyond-the-harbor-r.json](./212251-beyond-the-harbor-r.json) |
 | Beyond the Horizon | 51984 | [51984-beyond-the-horizon.json](./51984-beyond-the-horizon.json) |
 | Beyond the Ice Palace II | 297231 | [297231-beyond-the-ice-palace-ii.json](./297231-beyond-the-ice-palace-ii.json) |
@@ -3598,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bohrdom | 112947 | [112947-bohrdom.json](./112947-bohrdom.json) |
 | Boid | 17646 | [17646-boid.json](./17646-boid.json) |
 | Boing Boing Bros | 404976 | [404976-boing-boing-bros.json](./404976-boing-boing-bros.json) |
+| Boing Noir | 140356 | [140356-boing-noir.json](./140356-boing-noir.json) |
 | Boing Odyssey | 280889 | [280889-boing-odyssey.json](./280889-boing-odyssey.json) |
 | Boing! | 95472 | [95472-boing.json](./95472-boing.json) |
 | Boing! Docomodake DS | 21473 | [21473-boing-docomodake-ds.json](./21473-boing-docomodake-ds.json) |
@@ -4356,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Arena Shooter | 414385 | [414385-brawl-arena-shooter.json](./414385-brawl-arena-shooter.json) |
 | Brawl Boys | 234354 | [234354-brawl-boys.json](./234354-brawl-boys.json) |
 | Brawl Busters | 20714 | [20714-brawl-busters.json](./20714-brawl-busters.json) |
+| Brawl Chess | 140374 | [140374-brawl-chess.json](./140374-brawl-chess.json) |
 | Brawl Chess: Fantasy Edition | 274483 | [274483-brawl-chess-fantasy-edition.json](./274483-brawl-chess-fantasy-edition.json) |
 | Brawl Chess: Gambit + Cyber Protocol | 218453 | [218453-brawl-chess-gambit-cyber-protocol.json](./218453-brawl-chess-gambit-cyber-protocol.json) |
 | Brawl Party | 390117 | [390117-brawl-party.json](./390117-brawl-party.json) |
