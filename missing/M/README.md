@@ -2331,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megalo Malady | 395711 | [395711-megalo-malady.json](./395711-megalo-malady.json) |
 | Megalo Polis | 18114 | [18114-megalo-polis.json](./18114-megalo-polis.json) |
 | Megaloot | 274998 | [274998-megaloot.json](./274998-megaloot.json) |
+| Megalopolis SOS | 138004 | [138004-megalopolis-sos.json](./138004-megalopolis-sos.json) |
 | Megalothymia: Mokusei Zettai Bouei-ken - Heaven's Fall | 267657 | [267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json](./267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json) |
 | Megamagic: Wizards of the Neon Age | 25610 | [25610-megamagic-wizards-of-the-neon-age.json](./25610-megamagic-wizards-of-the-neon-age.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - 001: Cannon | 352838 | [352838-megaman-nt-warrior-advanced-pet-battle-chip-001-cannon.json](./352838-megaman-nt-warrior-advanced-pet-battle-chip-001-cannon.json) |
@@ -3306,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MightyBowOfGreenHills | 96761 | [96761-mightybowofgreenhills.json](./96761-mightybowofgreenhills.json) |
 | Miglorn | 304590 | [304590-miglorn.json](./304590-miglorn.json) |
 | Miguelshroom: First Day at School | 149593 | [149593-miguelshroom-first-day-at-school.json](./149593-miguelshroom-first-day-at-school.json) |
+| Migux | 138040 | [138040-migux.json](./138040-migux.json) |
 | Miitopia | 143620 | [143620-miitopia.json](./143620-miitopia.json) |
 | Mik | 262928 | [262928-mik.json](./262928-mik.json) |
 | Mika "Dumper" Spin | 91351 | [91351-mika-dumper-spin.json](./91351-mika-dumper-spin.json) |
@@ -5904,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My European Trucking Skills | 316856 | [316856-my-european-trucking-skills.json](./316856-my-european-trucking-skills.json) |
 | My Everyday Life at Insect Academy | 364529 | [364529-my-everyday-life-at-insect-academy.json](./364529-my-everyday-life-at-insect-academy.json) |
 | My evil magician boss suddenly loves me?! | 385053 | [385053-my-evil-magician-boss-suddenly-loves-me.json](./385053-my-evil-magician-boss-suddenly-loves-me.json) |
+| My Exercise | 138033 | [138033-my-exercise.json](./138033-my-exercise.json) |
 | My Eyes on You | 57694 | [57694-my-eyes-on-you.json](./57694-my-eyes-on-you.json) |
 | My Faithful and Loyal Wife Would Never Cheat on Me | 278413 | [278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json](./278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json) |
 | My Fake Boyfriend | 299457 | [299457-my-fake-boyfriend.json](./299457-my-fake-boyfriend.json) |
@@ -6348,6 +6351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: Cthulhu Mythos 2 | 251852 | [251852-mystery-solitaire-cthulhu-mythos-2.json](./251852-mystery-solitaire-cthulhu-mythos-2.json) |
 | Mystery Solitaire: Cthulhu Mythos 3 | 270966 | [270966-mystery-solitaire-cthulhu-mythos-3.json](./270966-mystery-solitaire-cthulhu-mythos-3.json) |
 | Mystery Solitaire: Grimm's Tales 2 | 122367 | [122367-mystery-solitaire-grimms-tales-2.json](./122367-mystery-solitaire-grimms-tales-2.json) |
+| Mystery Solitaire: The Black Raven | 138013 | [138013-mystery-solitaire-the-black-raven.json](./138013-mystery-solitaire-the-black-raven.json) |
 | Mystery Solitaire: The Black Raven 5 | 254756 | [254756-mystery-solitaire-the-black-raven-5.json](./254756-mystery-solitaire-the-black-raven-5.json) |
 | Mystery Solitaire: The Black Raven 6 | 341352 | [341352-mystery-solitaire-the-black-raven-6.json](./341352-mystery-solitaire-the-black-raven-6.json) |
 | Mystery Solving! BrainQuiz | 283278 | [283278-mystery-solving-brainquiz.json](./283278-mystery-solving-brainquiz.json) |
