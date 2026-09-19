@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy 1917 | 211724 | [211724-legacy-1917.json](./211724-legacy-1917.json) |
 | Legacy Battle heart 2 | 108505 | [108505-legacy-battle-heart-2.json](./108505-legacy-battle-heart-2.json) |
 | Legacy Bird | 128602 | [128602-legacy-bird.json](./128602-legacy-bird.json) |
+| Legacy Bites | 163852 | [163852-legacy-bites.json](./163852-legacy-bites.json) |
 | Legacy Code | 185034 | [185034-legacy-code.json](./185034-legacy-code.json) |
 | Legacy of Aeroja | 193480 | [193480-legacy-of-aeroja.json](./193480-legacy-of-aeroja.json) |
 | Legacy of Ancestors | 346589 | [346589-legacy-of-ancestors.json](./346589-legacy-of-ancestors.json) |
@@ -814,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Yashiyu 2 | 172773 | [172773-legend-of-yashiyu-2.json](./172773-legend-of-yashiyu-2.json) |
 | Legend of Yashiyu 3 | 173773 | [173773-legend-of-yashiyu-3.json](./173773-legend-of-yashiyu-3.json) |
 | Legend of Yashiyu 4 | 173774 | [173774-legend-of-yashiyu-4.json](./173774-legend-of-yashiyu-4.json) |
+| Legend of You | 163843 | [163843-legend-of-you.json](./163843-legend-of-you.json) |
 | Legend of Zelda: The Dual Mage | 323891 | [323891-legend-of-zelda-the-dual-mage.json](./323891-legend-of-zelda-the-dual-mage.json) |
 | Legendary | 7049 | [7049-legendary.json](./7049-legendary.json) |
 | Legendary Arcane 2 Universe | 129750 | [129750-legendary-arcane-2-universe.json](./129750-legendary-arcane-2-universe.json) |
@@ -1530,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilim Wants to Lv Up | 275138 | [275138-lilim-wants-to-lv-up.json](./275138-lilim-wants-to-lv-up.json) |
 | Lilith Hall | 266877 | [266877-lilith-hall.json](./266877-lilith-hall.json) |
 | Lilith Rising: Season 2 | 296929 | [296929-lilith-rising-season-2.json](./296929-lilith-rising-season-2.json) |
+| Lilith Was Dead | 163839 | [163839-lilith-was-dead.json](./163839-lilith-was-dead.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
 | Lilly And The Murder In A Dream | 303631 | [303631-lilly-and-the-murder-in-a-dream.json](./303631-lilly-and-the-murder-in-a-dream.json) |
 | Lilly Knight and the Three Cities of Lust | 127999 | [127999-lilly-knight-and-the-three-cities-of-lust.json](./127999-lilly-knight-and-the-three-cities-of-lust.json) |
