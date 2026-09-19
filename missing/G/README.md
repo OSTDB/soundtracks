@@ -1376,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Racer | 383936 | [383936-glitch-racer.json](./383936-glitch-racer.json) |
 | Glitch Strike | 134611 | [134611-glitch-strike.json](./134611-glitch-strike.json) |
 | Glitch Tower | 376453 | [376453-glitch-tower.json](./376453-glitch-tower.json) |
+| Glitch War | 138006 | [138006-glitch-war.json](./138006-glitch-war.json) |
 | Glitch World | 311251 | [311251-glitch-world.json](./311251-glitch-world.json) |
 | Glitched Lightning | 267463 | [267463-glitched-lightning.json](./267463-glitched-lightning.json) |
 | Glitched Out | 274482 | [274482-glitched-out.json](./274482-glitched-out.json) |
@@ -3249,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyakuten Saiban 2 | 221289 | [221289-gyakuten-saiban-2.json](./221289-gyakuten-saiban-2.json) |
 | Gyakuten Saiban 3 | 221290 | [221290-gyakuten-saiban-3.json](./221290-gyakuten-saiban-3.json) |
 | Gyakuten Saiban Poker | 256342 | [256342-gyakuten-saiban-poker.json](./256342-gyakuten-saiban-poker.json) |
+| Gyakuten!! Puzzle Ban-Chou | 138019 | [138019-gyakuten-puzzle-ban-chou.json](./138019-gyakuten-puzzle-ban-chou.json) |
 | Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396943 | [396943-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396943-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
 | Gyaruko-chan-tachi to Shippori Onsen Ryokou: Ichaicha Shimakuri Ippaku Futsuka no Tabi | 396940 | [396940-gyaruko-chan-tachi-to-shippori-onsen-ryokou-ichaicha-shimakuri-ippaku-futsuka-no-tabi.json](./396940-gyaruko-chan-tachi-to-shippori-onsen-ryokou-ichaicha-shimakuri-ippaku-futsuka-no-tabi.json) |
 | Gyaruzuma Sex: Hoka no Otoko ni Inwai Houshi Suru Ai Suru Tsuma | 159165 | [159165-gyaruzuma-sex-hoka-no-otoko-ni-inwai-houshi-suru-ai-suru-tsuma.json](./159165-gyaruzuma-sex-hoka-no-otoko-ni-inwai-houshi-suru-ai-suru-tsuma.json) |
