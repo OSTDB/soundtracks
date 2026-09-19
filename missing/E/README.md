@@ -2405,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Cycling | 330189 | [330189-extreme-cycling.json](./330189-extreme-cycling.json) |
 | Extreme Cycling Championship | 406796 | [406796-extreme-cycling-championship.json](./406796-extreme-cycling-championship.json) |
 | Extreme Dash | 262468 | [262468-extreme-dash.json](./262468-extreme-dash.json) |
+| Extreme Escape | 135660 | [135660-extreme-escape.json](./135660-extreme-escape.json) |
 | Extreme flight | 118411 | [118411-extreme-flight.json](./118411-extreme-flight.json) |
 | Extreme Formula Championship | 101592 | [101592-extreme-formula-championship.json](./101592-extreme-formula-championship.json) |
 | Extreme Ghostbusters: Code Ecto-1 | 129158 | [129158-extreme-ghostbusters-code-ecto-1.json](./129158-extreme-ghostbusters-code-ecto-1.json) |
