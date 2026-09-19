@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchi No Heya! | 403050 | [403050-uchi-no-heya.json](./403050-uchi-no-heya.json) |
 | Uchi Tore: Saitan 4-fun Kin Tore & Yuusansou Undou | 276469 | [276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json](./276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json) |
 | Uchu Mega Fight | 196791 | [196791-uchu-mega-fight.json](./196791-uchu-mega-fight.json) |
+| Uchusen: Ultimate Ploid Battle | 159709 | [159709-uchusen-ultimate-ploid-battle.json](./159709-uchusen-ultimate-ploid-battle.json) |
 | Ucieczka | 398338 | [398338-ucieczka.json](./398338-ucieczka.json) |
 | UCraft | 85462 | [85462-ucraft.json](./85462-ucraft.json) |
 | Ucube Avcıları | 268222 | [268222-ucube-avc-lar.json](./268222-ucube-avc-lar.json) |
