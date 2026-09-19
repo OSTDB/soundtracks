@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoku Sono Higurashi vs Touhou Universe 2 | 135659 | [135659-zoku-sono-higurashi-vs-touhou-universe-2.json](./135659-zoku-sono-higurashi-vs-touhou-universe-2.json) |
 | Zolana: Girl Galactic | 404943 | [404943-zolana-girl-galactic.json](./404943-zolana-girl-galactic.json) |
 | Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
+| Zom Nom | 127768 | [127768-zom-nom.json](./127768-zom-nom.json) |
 | Zombapocalypse | 25753 | [25753-zombapocalypse.json](./25753-zombapocalypse.json) |
 | Zombase | 377134 | [377134-zombase.json](./377134-zombase.json) |
 | Zombasite | 20460 | [20460-zombasite.json](./20460-zombasite.json) |
