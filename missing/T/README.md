@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Archipelago | 180765 | [180765-the-archipelago.json](./180765-the-archipelago.json) |
 | The Architects of the Universe: The Orbital Wars | 402294 | [402294-the-architects-of-the-universe-the-orbital-wars.json](./402294-the-architects-of-the-universe-the-orbital-wars.json) |
 | The Area Where You Can't Place Arrows | 185529 | [185529-the-area-where-you-cant-place-arrows.json](./185529-the-area-where-you-cant-place-arrows.json) |
+| The Arena Guy | 151029 | [151029-the-arena-guy.json](./151029-the-arena-guy.json) |
 | The Argument Solver | 289308 | [289308-the-argument-solver.json](./289308-the-argument-solver.json) |
 | The Ark | 390005 | [390005-the-ark.json](./390005-the-ark.json) |
 | The Arkane Collection | 331402 | [331402-the-arkane-collection.json](./331402-the-arkane-collection.json) |
@@ -2786,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Endless Express | 26669 | [26669-the-endless-express.json](./26669-the-endless-express.json) |
 | The Endless Journey | 81068 | [81068-the-endless-journey.json](./81068-the-endless-journey.json) |
 | The Endless Village | 401522 | [401522-the-endless-village.json](./401522-the-endless-village.json) |
+| The Enemy Below | 151010 | [151010-the-enemy-below.json](./151010-the-enemy-below.json) |
 | The Enforcer | 60493 | [60493-the-enforcer.json](./60493-the-enforcer.json) |
 | The Engraved Dispatch | 181366 | [181366-the-engraved-dispatch.json](./181366-the-engraved-dispatch.json) |
 | The Enigma Lounge | 380439 | [380439-the-enigma-lounge.json](./380439-the-enigma-lounge.json) |
@@ -5214,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Star Bowling DX | 386680 | [386680-the-star-bowling-dx.json](./386680-the-star-bowling-dx.json) |
 | The Starfire Soccer Challenge | 70383 | [70383-the-starfire-soccer-challenge.json](./70383-the-starfire-soccer-challenge.json) |
 | The Static | 408196 | [408196-the-static.json](./408196-the-static.json) |
+| The Station: Escape Room | 151011 | [151011-the-station-escape-room.json](./151011-the-station-escape-room.json) |
 | The Statue Got Me High | 358371 | [358371-the-statue-got-me-high.json](./358371-the-statue-got-me-high.json) |
 | The Stick and the Basket | 215786 | [215786-the-stick-and-the-basket.json](./215786-the-stick-and-the-basket.json) |
 | The Stickman | 341027 | [341027-the-stickman.json](./341027-the-stickman.json) |
@@ -10077,6 +10080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two & One Hundred Ways Bundle | 188020 | [188020-two-and-one-hundred-ways-bundle.json](./188020-two-and-one-hundred-ways-bundle.json) |
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
 | Two Brothers | 9440 | [9440-two-brothers.json](./9440-two-brothers.json) |
+| Two Coins | 151008 | [151008-two-coins.json](./151008-two-coins.json) |
 | Two Colours | 201712 | [201712-two-colours.json](./201712-two-colours.json) |
 | Two Days to the Race | 304179 | [304179-two-days-to-the-race.json](./304179-two-days-to-the-race.json) |
 | Two Die | 142501 | [142501-two-die.json](./142501-two-die.json) |
