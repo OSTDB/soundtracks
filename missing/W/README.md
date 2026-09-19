@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Midnight Maximum Tune 5DX+ | 315271 | [315271-wangan-midnight-maximum-tune-5dx.json](./315271-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 6 RR+ | 315272 | [315272-wangan-midnight-maximum-tune-6-rr.json](./315272-wangan-midnight-maximum-tune-6-rr.json) |
 | Wangan Trial | 182444 | [182444-wangan-trial.json](./182444-wangan-trial.json) |
+| Wángguó de Mófǎ Zhànzhēng | 163831 | [163831-wangguo-de-mofa-zhanzheng.json](./163831-wangguo-de-mofa-zhanzheng.json) |
 | Wani Wani Attack | 210896 | [210896-wani-wani-attack.json](./210896-wani-wani-attack.json) |
 | Wanking Simulator | 122993 | [122993-wanking-simulator.json](./122993-wanking-simulator.json) |
 | Wankuru | 242769 | [242769-wankuru.json](./242769-wankuru.json) |
