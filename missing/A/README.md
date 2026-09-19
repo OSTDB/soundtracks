@@ -1202,6 +1202,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aldro | 247747 | [247747-aldro.json](./247747-aldro.json) |
 | Aldroy: Chapter 1 | 133959 | [133959-aldroy-chapter-1.json](./133959-aldroy-chapter-1.json) |
 | Ale Abbey | 305173 | [305173-ale-abbey.json](./305173-ale-abbey.json) |
+| Alea Jacta Est: Birth of Rome | 169292 | [169292-alea-jacta-est-birth-of-rome.json](./169292-alea-jacta-est-birth-of-rome.json) |
+| Alea Jacta Est: Cantabrian Wars | 169291 | [169291-alea-jacta-est-cantabrian-wars.json](./169291-alea-jacta-est-cantabrian-wars.json) |
+| Alea Jacta Est: Parthian Wars | 169293 | [169293-alea-jacta-est-parthian-wars.json](./169293-alea-jacta-est-parthian-wars.json) |
+| Alea Jacta Est: Spartacus 73BC | 169290 | [169290-alea-jacta-est-spartacus-73bc.json](./169290-alea-jacta-est-spartacus-73bc.json) |
 | Alea Lacta Est | 300419 | [300419-alea-lacta-est.json](./300419-alea-lacta-est.json) |
 | Alehouse Tavern Simulator | 334489 | [334489-alehouse-tavern-simulator.json](./334489-alehouse-tavern-simulator.json) |
 | Alekhine's Gun | 15691 | [15691-alekhines-gun.json](./15691-alekhines-gun.json) |
@@ -1714,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always Together | 393647 | [393647-always-together.json](./393647-always-together.json) |
 | Alzara: Radiant Echoes | 300878 | [300878-alzara-radiant-echoes.json](./300878-alzara-radiant-echoes.json) |
 | Am I AI | 263573 | [263573-am-i-ai.json](./263573-am-i-ai.json) |
+| Am I Hero? | 169338 | [169338-am-i-hero.json](./169338-am-i-hero.json) |
 | Am I Live | 333075 | [333075-am-i-live.json](./333075-am-i-live.json) |
 | Am I Nima | 329692 | [329692-am-i-nima.json](./329692-am-i-nima.json) |
 | Am I Part of the Problem? | 182914 | [182914-am-i-part-of-the-problem.json](./182914-am-i-part-of-the-problem.json) |
@@ -1987,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Alien with a Magnet HD | 90682 | [90682-an-alien-with-a-magnet-hd.json](./90682-an-alien-with-a-magnet-hd.json) |
 | An Alt Girl for Skoof | 298835 | [298835-an-alt-girl-for-skoof.json](./298835-an-alt-girl-for-skoof.json) |
 | An Altered State | 400881 | [400881-an-altered-state.json](./400881-an-altered-state.json) |
+| An Amazing Wizard | 169313 | [169313-an-amazing-wizard.json](./169313-an-amazing-wizard.json) |
 | An Angel's Final Desire | 319005 | [319005-an-angels-final-desire.json](./319005-an-angels-final-desire.json) |
 | An Ankou | 250946 | [250946-an-ankou.json](./250946-an-ankou.json) |
 | An Aquatic Pokemon Tale | 323758 | [323758-an-aquatic-pokemon-tale.json](./323758-an-aquatic-pokemon-tale.json) |
@@ -2855,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Marbles: Ocean | 240804 | [240804-aqua-marbles-ocean.json](./240804-aqua-marbles-ocean.json) |
 | Aqua Moto Racing | 63835 | [63835-aqua-moto-racing.json](./63835-aqua-moto-racing.json) |
 | Aqua Moto Racing 2 | 63836 | [63836-aqua-moto-racing-2.json](./63836-aqua-moto-racing-2.json) |
+| Aqua Panic!: Heaven Pack | 169307 | [169307-aqua-panic-heaven-pack.json](./169307-aqua-panic-heaven-pack.json) |
 | Aqua Puzzle Adventures | 306527 | [306527-aqua-puzzle-adventures.json](./306527-aqua-puzzle-adventures.json) |
 | Aqua Racer | 293247 | [293247-aqua-racer.json](./293247-aqua-racer.json) |
 | Aqua Slug | 175837 | [175837-aqua-slug.json](./175837-aqua-slug.json) |
@@ -3404,6 +3411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Scorched Earth | 103514 | [103514-ark-scorched-earth.json](./103514-ark-scorched-earth.json) |
 | Ark: Scorched Earth Ascended | 294992 | [294992-ark-scorched-earth-ascended.json](./294992-ark-scorched-earth-ascended.json) |
 | Ark: Survival Ascended | 250509 | [250509-ark-survival-ascended.json](./250509-ark-survival-ascended.json) |
+| Ark: The Center | 169335 | [169335-ark-the-center.json](./169335-ark-the-center.json) |
 | Ark: The Center Ascended | 304378 | [304378-ark-the-center-ascended.json](./304378-ark-the-center-ascended.json) |
 | Ark: Ultimate Survivor Edition | 152344 | [152344-ark-ultimate-survivor-edition.json](./152344-ark-ultimate-survivor-edition.json) |
 | Ark's Wonder Dungeon | 321588 | [321588-arks-wonder-dungeon.json](./321588-arks-wonder-dungeon.json) |
@@ -4493,6 +4501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista 2: Hockenheimring Pack | 156164 | [156164-automobilista-2-hockenheimring-pack.json](./156164-automobilista-2-hockenheimring-pack.json) |
 | Automobilista 2: IMSA Track Pack | 352742 | [352742-automobilista-2-imsa-track-pack.json](./352742-automobilista-2-imsa-track-pack.json) |
 | Automobilista 2: Lamborghini Dream Pack Pt1 | 352740 | [352740-automobilista-2-lamborghini-dream-pack-pt1.json](./352740-automobilista-2-lamborghini-dream-pack-pt1.json) |
+| Automobilista 2: Racin' USA | 169333 | [169333-automobilista-2-racin-usa.json](./169333-automobilista-2-racin-usa.json) |
 | Automobilista 2: Racin' USA Pack Pt3 | 227517 | [227517-automobilista-2-racin-usa-pack-pt3.json](./227517-automobilista-2-racin-usa-pack-pt3.json) |
 | Automobilista 2: Spa-Francorchamps | 171084 | [171084-automobilista-2-spa-francorchamps.json](./171084-automobilista-2-spa-francorchamps.json) |
 | Automobilista: Brazilian Touring Car Classics | 171086 | [171086-automobilista-brazilian-touring-car-classics.json](./171086-automobilista-brazilian-touring-car-classics.json) |
