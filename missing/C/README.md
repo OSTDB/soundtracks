@@ -4973,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CriticalOrb | 290929 | [290929-criticalorb.json](./290929-criticalorb.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
 | Critter Café | 305075 | [305075-critter-cafe.json](./305075-critter-cafe.json) |
+| Critter Clicker | 169845 | [169845-critter-clicker.json](./169845-critter-clicker.json) |
 | Critter Combat | 241351 | [241351-critter-combat.json](./241351-critter-combat.json) |
 | Critter Cove | 136987 | [136987-critter-cove.json](./136987-critter-cove.json) |
 | Critter Crunch | 13188 | [13188-critter-crunch.json](./13188-critter-crunch.json) |
