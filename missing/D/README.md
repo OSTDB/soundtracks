@@ -2359,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Di Gi Charat Fantasy | 109070 | [109070-di-gi-charat-fantasy.json](./109070-di-gi-charat-fantasy.json) |
 | Di-Gata Defenders | 47956 | [47956-di-gata-defenders.json](./47956-di-gata-defenders.json) |
 | Di-Lithium Lift | 137482 | [137482-di-lithium-lift.json](./137482-di-lithium-lift.json) |
+| Di[c]E | 132619 | [132619-di-c-e.json](./132619-di-c-e.json) |
 | Dia | 182440 | [182440-dia.json](./182440-dia.json) |
 | Dia Horizon | 149966 | [149966-dia-horizon.json](./149966-dia-horizon.json) |
 | Diaball | 176485 | [176485-diaball.json](./176485-diaball.json) |
@@ -3481,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
 | Dolphin Olympics 2 | 159287 | [159287-dolphin-olympics-2.json](./159287-dolphin-olympics-2.json) |
 | Dolphy Dash | 104003 | [104003-dolphy-dash.json](./104003-dolphy-dash.json) |
+| Døm Rusalok | 132625 | [132625-d-m-rusalok.json](./132625-d-m-rusalok.json) |
 | Domain | 149957 | [149957-domain.json](./149957-domain.json) |
 | Domain Defense | 33197 | [33197-domain-defense.json](./33197-domain-defense.json) |
 | Domain Owner | 312203 | [312203-domain-owner.json](./312203-domain-owner.json) |
