@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From the Dark | 196285 | [196285-escape-from-the-dark.json](./196285-escape-from-the-dark.json) |
 | Escape From the Depth | 242050 | [242050-escape-from-the-depth.json](./242050-escape-from-the-depth.json) |
 | Escape From the Dragons | 111686 | [111686-escape-from-the-dragons.json](./111686-escape-from-the-dragons.json) |
+| Escape From the Grim | 129004 | [129004-escape-from-the-grim.json](./129004-escape-from-the-grim.json) |
 | Escape From the Hospital | 100742 | [100742-escape-from-the-hospital.json](./100742-escape-from-the-hospital.json) |
 | Escape From The Island | 283290 | [283290-escape-from-the-island.json](./283290-escape-from-the-island.json) |
 | Escape from the Lockdown: The Demon Fortress | 166061 | [166061-escape-from-the-lockdown-the-demon-fortress.json](./166061-escape-from-the-lockdown-the-demon-fortress.json) |
@@ -2277,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Together | 333662 | [333662-exit-together.json](./333662-exit-together.json) |
 | Exit Veil | 264054 | [264054-exit-veil.json](./264054-exit-veil.json) |
 | Exit Ways | 346652 | [346652-exit-ways.json](./346652-exit-ways.json) |
+| Exit: A Biodelic Adventure | 129020 | [129020-exit-a-biodelic-adventure.json](./129020-exit-a-biodelic-adventure.json) |
 | Exit: The Curse of Ophir | 174278 | [174278-exit-the-curse-of-ophir.json](./174278-exit-the-curse-of-ophir.json) |
 | Exit16: Byilhan Hotel | 305523 | [305523-exit16-byilhan-hotel.json](./305523-exit16-byilhan-hotel.json) |
 | Exiting the White Room | 310598 | [310598-exiting-the-white-room.json](./310598-exiting-the-white-room.json) |
