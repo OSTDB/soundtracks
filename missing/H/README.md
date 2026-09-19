@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamspater | 371342 | [371342-hamspater.json](./371342-hamspater.json) |
 | Hamster | 147481 | [147481-hamster.json](./147481-hamster.json) |
 | Hamster | 307295 | [307295-hamster.json](./307295-hamster.json) |
+| Hamster All-Stars | 144121 | [144121-hamster-all-stars.json](./144121-hamster-all-stars.json) |
 | Hamster Blitz! | 191821 | [191821-hamster-blitz.json](./191821-hamster-blitz.json) |
 | Hamster Bomba | 312028 | [312028-hamster-bomba.json](./312028-hamster-bomba.json) |
 | Hamster Clicker! | 340410 | [340410-hamster-clicker.json](./340410-hamster-clicker.json) |
@@ -2740,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Street: Dream House Sim | 90555 | [90555-home-street-dream-house-sim.json](./90555-home-street-dream-house-sim.json) |
 | Home Sweet Home | 346116 | [346116-home-sweet-home.json](./346116-home-sweet-home.json) |
 | Home Sweet Home: Online | 249814 | [249814-home-sweet-home-online.json](./249814-home-sweet-home-online.json) |
+| Home Sweet Home: Survive | 144132 | [144132-home-sweet-home-survive.json](./144132-home-sweet-home-survive.json) |
 | Home Sweet Homecoming | 135306 | [135306-home-sweet-homecoming.json](./135306-home-sweet-homecoming.json) |
 | Home Sweet RoN | 70370 | [70370-home-sweet-ron.json](./70370-home-sweet-ron.json) |
 | Home Tech VR | 29891 | [29891-home-tech-vr.json](./29891-home-tech-vr.json) |
@@ -2813,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honeycomb Hotel ZEN | 96056 | [96056-honeycomb-hotel-zen.json](./96056-honeycomb-hotel-zen.json) |
 | Honeypot | 215785 | [215785-honeypot.json](./215785-honeypot.json) |
 | HoneySun | 260407 | [260407-honeysun.json](./260407-honeysun.json) |
+| HoneyWorks Premium Live | 144101 | [144101-honeyworks-premium-live.json](./144101-honeyworks-premium-live.json) |
 | Hong Gildong-jeon | 145612 | [145612-hong-gildong-jeon.json](./145612-hong-gildong-jeon.json) |
 | Hong Gildong-jeon 2 | 297656 | [297656-hong-gildong-jeon-2.json](./297656-hong-gildong-jeon-2.json) |
 | Hong Kong | 47251 | [47251-hong-kong.json](./47251-hong-kong.json) |
@@ -3504,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humbug | 57637 | [57637-humbug.json](./57637-humbug.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
+| Humpty's Scramble | 144139 | [144139-humptys-scramble.json](./144139-humptys-scramble.json) |
 | Hundra | 92962 | [92962-hundra.json](./92962-hundra.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
 | Hundred Acre Wood | 249881 | [249881-hundred-acre-wood.json](./249881-hundred-acre-wood.json) |
