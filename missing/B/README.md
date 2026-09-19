@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balam and the Spirit Within | 201325 | [201325-balam-and-the-spirit-within.json](./201325-balam-and-the-spirit-within.json) |
 | Balance | 260772 | [260772-balance.json](./260772-balance.json) |
 | Balance | 297775 | [297775-balance.json](./297775-balance.json) |
+| Balance Ball | 150483 | [150483-balance-ball.json](./150483-balance-ball.json) |
 | Balance Balls | 262438 | [262438-balance-balls.json](./262438-balance-balls.json) |
 | Balance Balls 2 | 262442 | [262442-balance-balls-2.json](./262442-balance-balls-2.json) |
 | Balance of Kingdoms | 66144 | [66144-balance-of-kingdoms.json](./66144-balance-of-kingdoms.json) |
