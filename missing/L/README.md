@@ -2079,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked in Love: The Office | 407465 | [407465-locked-in-love-the-office.json](./407465-locked-in-love-the-office.json) |
 | Locked Inside: Rebirth | 177396 | [177396-locked-inside-rebirth.json](./177396-locked-inside-rebirth.json) |
 | Locked Together | 405617 | [405617-locked-together.json](./405617-locked-together.json) |
+| Locked-In | 146138 | [146138-locked-in.json](./146138-locked-in.json) |
 | Lockes the Thief | 211793 | [211793-lockes-the-thief.json](./211793-lockes-the-thief.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
 | LOCO Online | 361771 | [361771-loco-online.json](./361771-loco-online.json) |
