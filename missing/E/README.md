@@ -1356,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eri | 116282 | [116282-eri.json](./116282-eri.json) |
 | Eric and the Floaters | 45324 | [45324-eric-and-the-floaters.json](./45324-eric-and-the-floaters.json) |
 | Eric's All-in-1 Solitaire | 86728 | [86728-erics-all-in-1-solitaire.json](./86728-erics-all-in-1-solitaire.json) |
+| Eridu | 180684 | [180684-eridu.json](./180684-eridu.json) |
 | Eriguns | 202844 | [202844-eriguns.json](./202844-eriguns.json) |
 | Erik: Phantom of the Opera | 55082 | [55082-erik-phantom-of-the-opera.json](./55082-erik-phantom-of-the-opera.json) |
 | Erika America | 351008 | [351008-erika-america.json](./351008-erika-america.json) |
