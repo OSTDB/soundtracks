@@ -4829,6 +4829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Struggle | 17984 | [17984-solar-struggle.json](./17984-solar-struggle.json) |
 | Solar Survivors | 238766 | [238766-solar-survivors.json](./238766-solar-survivors.json) |
 | Solar Sweets | 311244 | [311244-solar-sweets.json](./311244-solar-sweets.json) |
+| Solar System Colonist | 161261 | [161261-solar-system-colonist.json](./161261-solar-system-colonist.json) |
 | Solar System Conflict | 35768 | [35768-solar-system-conflict.json](./35768-solar-system-conflict.json) |
 | Solar Systems For Kids | 257457 | [257457-solar-systems-for-kids.json](./257457-solar-systems-for-kids.json) |
 | Solar War | 35982 | [35982-solar-war.json](./35982-solar-war.json) |
@@ -7975,6 +7976,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StereoPaint | 192425 | [192425-stereopaint.json](./192425-stereopaint.json) |
 | Stereophyta | 185004 | [185004-stereophyta.json](./185004-stereophyta.json) |
 | Stern Pinball Arcade | 30288 | [30288-stern-pinball-arcade.json](./30288-stern-pinball-arcade.json) |
+| Stern Pinball Arcade: AC/DC | 161229 | [161229-stern-pinball-arcade-ac-dc.json](./161229-stern-pinball-arcade-ac-dc.json) |
+| Stern Pinball Arcade: Ghostbusters Premium | 161232 | [161232-stern-pinball-arcade-ghostbusters-premium.json](./161232-stern-pinball-arcade-ghostbusters-premium.json) |
+| Stern Pinball Arcade: Harley-Davidson | 161230 | [161230-stern-pinball-arcade-harley-davidson.json](./161230-stern-pinball-arcade-harley-davidson.json) |
+| Stern Pinball Arcade: High Roller Casino | 161233 | [161233-stern-pinball-arcade-high-roller-casino.json](./161233-stern-pinball-arcade-high-roller-casino.json) |
+| Stern Pinball Arcade: Last Action Hero | 161228 | [161228-stern-pinball-arcade-last-action-hero.json](./161228-stern-pinball-arcade-last-action-hero.json) |
+| Stern Pinball Arcade: Mary Shelley's Frankenstein | 161235 | [161235-stern-pinball-arcade-mary-shelleys-frankenstein.json](./161235-stern-pinball-arcade-mary-shelleys-frankenstein.json) |
+| Stern Pinball Arcade: Mustang | 161236 | [161236-stern-pinball-arcade-mustang.json](./161236-stern-pinball-arcade-mustang.json) |
+| Stern Pinball Arcade: Phantom of the Opera | 161227 | [161227-stern-pinball-arcade-phantom-of-the-opera.json](./161227-stern-pinball-arcade-phantom-of-the-opera.json) |
+| Stern Pinball Arcade: Ripley's Believe It or Not! | 161234 | [161234-stern-pinball-arcade-ripleys-believe-it-or-not.json](./161234-stern-pinball-arcade-ripleys-believe-it-or-not.json) |
+| Stern Pinball Arcade: Star Trek | 161231 | [161231-stern-pinball-arcade-star-trek.json](./161231-stern-pinball-arcade-star-trek.json) |
+| Stern Pinball Arcade: Starship Troopers | 161226 | [161226-stern-pinball-arcade-starship-troopers.json](./161226-stern-pinball-arcade-starship-troopers.json) |
 | Steve Davis Snooker | 45323 | [45323-steve-davis-snooker.json](./45323-steve-davis-snooker.json) |
 | Steve Magal: Fists of Brutal Truth | 341888 | [341888-steve-magal-fists-of-brutal-truth.json](./341888-steve-magal-fists-of-brutal-truth.json) |
 | Steve Reich’s Clapping Music | 312322 | [312322-steve-reich-s-clapping-music.json](./312322-steve-reich-s-clapping-music.json) |
@@ -10075,6 +10087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superfighters of Survival | 338292 | [338292-superfighters-of-survival.json](./338292-superfighters-of-survival.json) |
 | Superfly Santa Claus | 62212 | [62212-superfly-santa-claus.json](./62212-superfly-santa-claus.json) |
 | Superguy and Megaboy | 316615 | [316615-superguy-and-megaboy.json](./316615-superguy-and-megaboy.json) |
+| SuperHero | 161259 | [161259-superhero.json](./161259-superhero.json) |
 | Superhero Fight | 193333 | [193333-superhero-fight.json](./193333-superhero-fight.json) |
 | Superhero Girl Salon: Kids Makeup and Dressup Game | 88037 | [88037-superhero-girl-salon-kids-makeup-and-dressup-game.json](./88037-superhero-girl-salon-kids-makeup-and-dressup-game.json) |
 | Superhero Robot Merge Master | 214167 | [214167-superhero-robot-merge-master.json](./214167-superhero-robot-merge-master.json) |
