@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: Munch's Oddysee | 134025 | [134025-oddworld-munchs-oddysee.json](./134025-oddworld-munchs-oddysee.json) |
 | Oddworld: Munch's Oddysee HD | 51329 | [51329-oddworld-munchs-oddysee-hd.json](./51329-oddworld-munchs-oddysee-hd.json) |
 | Oddworld: New 'n' Tasty - Deluxe Edition | 132146 | [132146-oddworld-new-n-tasty-deluxe-edition.json](./132146-oddworld-new-n-tasty-deluxe-edition.json) |
+| Oddworld: Soulstorm - Day 1 Oddition | 146118 | [146118-oddworld-soulstorm-day-1-oddition.json](./146118-oddworld-soulstorm-day-1-oddition.json) |
 | Oddy's Lost and Found | 257071 | [257071-oddys-lost-and-found.json](./257071-oddys-lost-and-found.json) |
 | Ode of Resurrection | 315489 | [315489-ode-of-resurrection.json](./315489-ode-of-resurrection.json) |
 | Ode to a Moon | 111059 | [111059-ode-to-a-moon.json](./111059-ode-to-a-moon.json) |
@@ -922,8 +923,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onimusha: Dawn of Dreams | 11759 | [11759-onimusha-dawn-of-dreams.json](./11759-onimusha-dawn-of-dreams.json) |
 | Onimusha: Warlords | 107292 | [107292-onimusha-warlords.json](./107292-onimusha-warlords.json) |
 | Onimusha: Warlords - Genma Seal Box | 294703 | [294703-onimusha-warlords-genma-seal-box.json](./294703-onimusha-warlords-genma-seal-box.json) |
+| Oniria Crimes: Rounder Edition | 146142 | [146142-oniria-crimes-rounder-edition.json](./146142-oniria-crimes-rounder-edition.json) |
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
 | Onirica | 216347 | [216347-onirica.json](./216347-onirica.json) |
+| Onirike: Collector's Edition | 146124 | [146124-onirike-collectors-edition.json](./146124-onirike-collectors-edition.json) |
 | Onirim: Solitaire Card Game | 52282 | [52282-onirim-solitaire-card-game.json](./52282-onirim-solitaire-card-game.json) |
 | Onirogu | 181780 | [181780-onirogu.json](./181780-onirogu.json) |
 | Onironauta | 68601 | [68601-onironauta.json](./68601-onironauta.json) |
