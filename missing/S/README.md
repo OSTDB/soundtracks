@@ -3580,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skoof Fishing | 356663 | [356663-skoof-fishing.json](./356663-skoof-fishing.json) |
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
+| Skronchulonch: The Game of Shooting at an Orb | 176375 | [176375-skronchulonch-the-game-of-shooting-at-an-orb.json](./176375-skronchulonch-the-game-of-shooting-at-an-orb.json) |
 | Skrunkly gets a Meal Deal | 332984 | [332984-skrunkly-gets-a-meal-deal.json](./332984-skrunkly-gets-a-meal-deal.json) |
 | Skuf For Altushki | 368554 | [368554-skuf-for-altushki.json](./368554-skuf-for-altushki.json) |
 | Skuiggle | 202945 | [202945-skuiggle.json](./202945-skuiggle.json) |
@@ -4032,9 +4033,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slippy the Frog | 258027 | [258027-slippy-the-frog.json](./258027-slippy-the-frog.json) |
 | SlipSlop | 119736 | [119736-slipslop.json](./119736-slipslop.json) |
 | SlipSpeed | 132818 | [132818-slipspeed.json](./132818-slipspeed.json) |
+| Slipways | 176372 | [176372-slipways.json](./176372-slipways.json) |
 | Slit Your Wrists! | 234729 | [234729-slit-your-wrists.json](./234729-slit-your-wrists.json) |
 | Slither Realm | 388946 | [388946-slither-realm.json](./388946-slither-realm.json) |
 | Slither.io | 239311 | [239311-slither-io.json](./239311-slither-io.json) |
+| Slitherin' | 176363 | [176363-slitherin.json](./176363-slitherin.json) |
 | Slitherine's Legion | 200109 | [200109-slitherines-legion.json](./200109-slitherines-legion.json) |
 | Slitherise | 318967 | [318967-slitherise.json](./318967-slitherise.json) |
 | Slitterhead: Deluxe Edition | 331846 | [331846-slitterhead-deluxe-edition.json](./331846-slitterhead-deluxe-edition.json) |
@@ -4137,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Bird Forest | 417498 | [417498-small-bird-forest.json](./417498-small-bird-forest.json) |
 | Small Buttons | 96768 | [96768-small-buttons.json](./96768-small-buttons.json) |
 | Small Cell | 224657 | [224657-small-cell.json](./224657-small-cell.json) |
+| Small Islands | 176339 | [176339-small-islands.json](./176339-small-islands.json) |
 | Small Kingdoms | 262959 | [262959-small-kingdoms.json](./262959-small-kingdoms.json) |
 | Small Nights | 253397 | [253397-small-nights.json](./253397-small-nights.json) |
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
@@ -4419,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Kitten | 156650 | [156650-sneaky-kitten.json](./156650-sneaky-kitten.json) |
 | Sneaky Peeky | 264625 | [264625-sneaky-peeky.json](./264625-sneaky-peeky.json) |
 | Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
+| Sneaky Stealy | 176359 | [176359-sneaky-stealy.json](./176359-sneaky-stealy.json) |
 | Sneezeman | 189099 | [189099-sneezeman.json](./189099-sneezeman.json) |
 | Sneezies HD | 21748 | [21748-sneezies-hd.json](./21748-sneezies-hd.json) |
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
@@ -6180,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
+| Spectrolite | 176361 | [176361-spectrolite.json](./176361-spectrolite.json) |
 | Spectrubes Infinity | 96663 | [96663-spectrubes-infinity.json](./96663-spectrubes-infinity.json) |
 | Spectrum | 260129 | [260129-spectrum.json](./260129-spectrum.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
@@ -7743,6 +7749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel and Flesh | 174850 | [174850-steel-and-flesh.json](./174850-steel-and-flesh.json) |
 | Steel Artery: Train City Builder | 371311 | [371311-steel-artery-train-city-builder.json](./371311-steel-artery-train-city-builder.json) |
 | Steel Battalion: Heavy Armor | 8547 | [8547-steel-battalion-heavy-armor.json](./8547-steel-battalion-heavy-armor.json) |
+| Steel Civilizations | 176373 | [176373-steel-civilizations.json](./176373-steel-civilizations.json) |
 | Steel Commanders | 323191 | [323191-steel-commanders.json](./323191-steel-commanders.json) |
 | Steel Covenant | 339665 | [339665-steel-covenant.json](./339665-steel-covenant.json) |
 | Steel Division 2: Nemesis - Battle of Rimini | 143080 | [143080-steel-division-2-nemesis-battle-of-rimini.json](./143080-steel-division-2-nemesis-battle-of-rimini.json) |
@@ -7812,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Echoes: Brave Trial | 263746 | [263746-stellar-echoes-brave-trial.json](./263746-stellar-echoes-brave-trial.json) |
 | Stellar Echoes: Maze Shooter | 263748 | [263748-stellar-echoes-maze-shooter.json](./263748-stellar-echoes-maze-shooter.json) |
 | Stellar Echoes: Ultimate Challenge | 263749 | [263749-stellar-echoes-ultimate-challenge.json](./263749-stellar-echoes-ultimate-challenge.json) |
+| Stellar Expansion | 176368 | [176368-stellar-expansion.json](./176368-stellar-expansion.json) |
 | Stellar Freight: Echoes of the Void | 353977 | [353977-stellar-freight-echoes-of-the-void.json](./353977-stellar-freight-echoes-of-the-void.json) |
 | Stellar Initiative | 261784 | [261784-stellar-initiative.json](./261784-stellar-initiative.json) |
 | Stellar Insurgency | 239760 | [239760-stellar-insurgency.json](./239760-stellar-insurgency.json) |
@@ -7907,6 +7915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Tennis Tour | 261513 | [261513-stick-tennis-tour.json](./261513-stick-tennis-tour.json) |
 | Stick to the Plan | 234299 | [234299-stick-to-the-plan.json](./234299-stick-to-the-plan.json) |
 | Stick Up | 319949 | [319949-stick-up.json](./319949-stick-up.json) |
+| Stick Veterans | 176360 | [176360-stick-veterans.json](./176360-stick-veterans.json) |
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
 | Stick War: Saga | 233777 | [233777-stick-war-saga.json](./233777-stick-war-saga.json) |
 | Sticker Business | 356738 | [356738-sticker-business.json](./356738-sticker-business.json) |
