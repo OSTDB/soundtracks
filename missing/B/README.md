@@ -3126,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockudoku | 227479 | [227479-blockudoku.json](./227479-blockudoku.json) |
 | BlockUrbs | 338251 | [338251-blockurbs.json](./338251-blockurbs.json) |
 | Blockus' Adventures | 118344 | [118344-blockus-adventures.json](./118344-blockus-adventures.json) |
+| Blocky Ball | 151040 | [151040-blocky-ball.json](./151040-blocky-ball.json) |
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
 | Blocky Cars In Real World | 175332 | [175332-blocky-cars-in-real-world.json](./175332-blocky-cars-in-real-world.json) |
 | Blocky Dungeon | 203913 | [203913-blocky-dungeon.json](./203913-blocky-dungeon.json) |
@@ -4783,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Spinner | 144252 | [144252-bubble-spinner.json](./144252-bubble-spinner.json) |
 | Bubble Surge | 343858 | [343858-bubble-surge.json](./343858-bubble-surge.json) |
 | Bubble Tanks | 210285 | [210285-bubble-tanks.json](./210285-bubble-tanks.json) |
+| Bubble Tea: Game for Thinking and Imagination | 151024 | [151024-bubble-tea-game-for-thinking-and-imagination.json](./151024-bubble-tea-game-for-thinking-and-imagination.json) |
 | Bubble Tea: Game for Thinking and Imagination - Escape | 168246 | [168246-bubble-tea-game-for-thinking-and-imagination-escape.json](./168246-bubble-tea-game-for-thinking-and-imagination-escape.json) |
 | Bubble Tower 3D | 314478 | [314478-bubble-tower-3d.json](./314478-bubble-tower-3d.json) |
 | Bubble Troops | 236531 | [236531-bubble-troops.json](./236531-bubble-troops.json) |
