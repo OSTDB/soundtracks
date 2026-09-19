@@ -5093,7 +5093,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dealer | 179064 | [179064-dungeon-dealer.json](./179064-dungeon-dealer.json) |
 | Dungeon Deathball | 102922 | [102922-dungeon-deathball.json](./102922-dungeon-deathball.json) |
 | Dungeon Defenders II: Heartwarming Bundle | 90701 | [90701-dungeon-defenders-ii-heartwarming-bundle.json](./90701-dungeon-defenders-ii-heartwarming-bundle.json) |
+| Dungeon Defenders: Anniversary Pack | 164356 | [164356-dungeon-defenders-anniversary-pack.json](./164356-dungeon-defenders-anniversary-pack.json) |
+| Dungeon Defenders: Assault Mission Pack | 164351 | [164351-dungeon-defenders-assault-mission-pack.json](./164351-dungeon-defenders-assault-mission-pack.json) |
+| Dungeon Defenders: Barbarian Hero DLC | 164362 | [164362-dungeon-defenders-barbarian-hero-dlc.json](./164362-dungeon-defenders-barbarian-hero-dlc.json) |
+| Dungeon Defenders: City in the Cliffs Mission Pack | 164360 | [164360-dungeon-defenders-city-in-the-cliffs-mission-pack.json](./164360-dungeon-defenders-city-in-the-cliffs-mission-pack.json) |
+| Dungeon Defenders: Etherian Festival of Love | 164347 | [164347-dungeon-defenders-etherian-festival-of-love.json](./164347-dungeon-defenders-etherian-festival-of-love.json) |
+| Dungeon Defenders: Etherian Holiday Extravaganza | 164359 | [164359-dungeon-defenders-etherian-holiday-extravaganza.json](./164359-dungeon-defenders-etherian-holiday-extravaganza.json) |
+| Dungeon Defenders: Halloween Mission Pack | 164345 | [164345-dungeon-defenders-halloween-mission-pack.json](./164345-dungeon-defenders-halloween-mission-pack.json) |
+| Dungeon Defenders: Jester Hero DLC | 164354 | [164354-dungeon-defenders-jester-hero-dlc.json](./164354-dungeon-defenders-jester-hero-dlc.json) |
+| Dungeon Defenders: Karathiki Jungle Mission Pack | 164361 | [164361-dungeon-defenders-karathiki-jungle-mission-pack.json](./164361-dungeon-defenders-karathiki-jungle-mission-pack.json) |
+| Dungeon Defenders: New Heroes DLC | 164344 | [164344-dungeon-defenders-new-heroes-dlc.json](./164344-dungeon-defenders-new-heroes-dlc.json) |
+| Dungeon Defenders: President's Day Surprise | 164358 | [164358-dungeon-defenders-presidents-day-surprise.json](./164358-dungeon-defenders-presidents-day-surprise.json) |
+| Dungeon Defenders: Quest for the Lost Eternia Shards Part 1 | 164350 | [164350-dungeon-defenders-quest-for-the-lost-eternia-shards-part-1.json](./164350-dungeon-defenders-quest-for-the-lost-eternia-shards-part-1.json) |
+| Dungeon Defenders: Quest for the Lost Eternia Shards Part 2 | 164348 | [164348-dungeon-defenders-quest-for-the-lost-eternia-shards-part-2.json](./164348-dungeon-defenders-quest-for-the-lost-eternia-shards-part-2.json) |
+| Dungeon Defenders: Quest for the Lost Eternia Shards Part 3 | 164352 | [164352-dungeon-defenders-quest-for-the-lost-eternia-shards-part-3.json](./164352-dungeon-defenders-quest-for-the-lost-eternia-shards-part-3.json) |
+| Dungeon Defenders: Quest for the Lost Eternia Shards Part 4 | 164353 | [164353-dungeon-defenders-quest-for-the-lost-eternia-shards-part-4.json](./164353-dungeon-defenders-quest-for-the-lost-eternia-shards-part-4.json) |
+| Dungeon Defenders: Series EV Hero DLC | 164355 | [164355-dungeon-defenders-series-ev-hero-dlc.json](./164355-dungeon-defenders-series-ev-hero-dlc.json) |
+| Dungeon Defenders: Summoner Hero DLC | 164349 | [164349-dungeon-defenders-summoner-hero-dlc.json](./164349-dungeon-defenders-summoner-hero-dlc.json) |
+| Dungeon Defenders: The Great Turkey Hunt! Mission & Costumes | 164357 | [164357-dungeon-defenders-the-great-turkey-hunt-mission-and-costumes.json](./164357-dungeon-defenders-the-great-turkey-hunt-mission-and-costumes.json) |
 | Dungeon Defenders: Warden Hero DLC | 364559 | [364559-dungeon-defenders-warden-hero-dlc.json](./364559-dungeon-defenders-warden-hero-dlc.json) |
+| Dungeon Defenders: Warping Core Challenge Mission Pack | 164346 | [164346-dungeon-defenders-warping-core-challenge-mission-pack.json](./164346-dungeon-defenders-warping-core-challenge-mission-pack.json) |
 | Dungeon Delver | 151135 | [151135-dungeon-delver.json](./151135-dungeon-delver.json) |
 | Dungeon Delvers | 201671 | [201671-dungeon-delvers.json](./201671-dungeon-delvers.json) |
 | Dungeon Digger | 304001 | [304001-dungeon-digger.json](./304001-dungeon-digger.json) |
