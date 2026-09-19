@@ -1055,7 +1055,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Knight | 126901 | [126901-endless-knight.json](./126901-endless-knight.json) |
 | Endless Legend 2 | 329138 | [329138-endless-legend-2.json](./329138-endless-legend-2.json) |
 | Endless Legend: Definitive Edition | 343851 | [343851-endless-legend-definitive-edition.json](./343851-endless-legend-definitive-edition.json) |
+| Endless Legend: Echoes of Auriga | 168765 | [168765-endless-legend-echoes-of-auriga.json](./168765-endless-legend-echoes-of-auriga.json) |
+| Endless Legend: Forgotten Love Add-on | 168766 | [168766-endless-legend-forgotten-love-add-on.json](./168766-endless-legend-forgotten-love-add-on.json) |
 | Endless Legend: Tempest | 24933 | [24933-endless-legend-tempest.json](./24933-endless-legend-tempest.json) |
+| Endless Legend: The Lost Tales | 168767 | [168767-endless-legend-the-lost-tales.json](./168767-endless-legend-the-lost-tales.json) |
 | Endless Love | 152933 | [152933-endless-love.json](./152933-endless-love.json) |
 | Endless Martian Pit | 185692 | [185692-endless-martian-pit.json](./185692-endless-martian-pit.json) |
 | Endless Memories | 126265 | [126265-endless-memories.json](./126265-endless-memories.json) |
