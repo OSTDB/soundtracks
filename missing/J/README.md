@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junklands | 284897 | [284897-junklands.json](./284897-junklands.json) |
 | Junkman Simulator | 153971 | [153971-junkman-simulator.json](./153971-junkman-simulator.json) |
 | Junko | 286124 | [286124-junko.json](./286124-junko.json) |
+| Junkworld | 174745 | [174745-junkworld.json](./174745-junkworld.json) |
 | Junkyard Apocalypse | 243943 | [243943-junkyard-apocalypse.json](./243943-junkyard-apocalypse.json) |
 | Junkyard Builder Simulator | 174883 | [174883-junkyard-builder-simulator.json](./174883-junkyard-builder-simulator.json) |
 | Junkyard Builder Simulator | 390537 | [390537-junkyard-builder-simulator.json](./390537-junkyard-builder-simulator.json) |
