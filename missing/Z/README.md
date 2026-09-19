@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Shot | 285581 | [285581-zombie-shot.json](./285581-zombie-shot.json) |
 | Zombie Slapper | 220648 | [220648-zombie-slapper.json](./220648-zombie-slapper.json) |
 | Zombie Slayer | 166713 | [166713-zombie-slayer.json](./166713-zombie-slayer.json) |
+| Zombie Slayers | 129031 | [129031-zombie-slayers.json](./129031-zombie-slayers.json) |
 | Zombie Smash: Road Kill | 167675 | [167675-zombie-smash-road-kill.json](./167675-zombie-smash-road-kill.json) |
 | Zombie Smash! Basketball | 261355 | [261355-zombie-smash-basketball.json](./261355-zombie-smash-basketball.json) |
 | Zombie Smashers X2: Punx and Skins | 70923 | [70923-zombie-smashers-x2-punx-and-skins.json](./70923-zombie-smashers-x2-punx-and-skins.json) |
@@ -671,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zueirama | 110641 | [110641-zueirama.json](./110641-zueirama.json) |
 | Zug in Sicht | 383972 | [383972-zug-in-sicht.json](./383972-zug-in-sicht.json) |
 | Zugya | 264070 | [264070-zugya.json](./264070-zugya.json) |
+| Zulup | 129021 | [129021-zulup.json](./129021-zulup.json) |
 | Zuma Girls | 369564 | [369564-zuma-girls.json](./369564-zuma-girls.json) |
 | Zumania: Magic Casual Puzzle | 175813 | [175813-zumania-magic-casual-puzzle.json](./175813-zumania-magic-casual-puzzle.json) |
 | Zumba Fitness 2 | 5306 | [5306-zumba-fitness-2.json](./5306-zumba-fitness-2.json) |
