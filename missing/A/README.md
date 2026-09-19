@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ageless Machine: Cup of Tea | 180716 | [180716-ageless-machine-cup-of-tea.json](./180716-ageless-machine-cup-of-tea.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
+| Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
 | Agonize | 187402 | [187402-agonize.json](./187402-agonize.json) |
@@ -1111,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akapulka: The Rainbow | 201666 | [201666-akapulka-the-rainbow.json](./201666-akapulka-the-rainbow.json) |
 | Akari by Nikoli | 84869 | [84869-akari-by-nikoli.json](./84869-akari-by-nikoli.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
+| Akatori | 140375 | [140375-akatori.json](./140375-akatori.json) |
 | Akatsuki no Amaneka to Aoi Kyojin: Pashiate Bunmei Kenkyuukai Koubouki | 67296 | [67296-akatsuki-no-amaneka-to-aoi-kyojin-pashiate-bunmei-kenkyuukai-koubouki.json](./67296-akatsuki-no-amaneka-to-aoi-kyojin-pashiate-bunmei-kenkyuukai-koubouki.json) |
 | Akatsuki no Bizantira | 228703 | [228703-akatsuki-no-bizantira.json](./228703-akatsuki-no-bizantira.json) |
 | Akatsuki no Goei | 202951 | [202951-akatsuki-no-goei.json](./202951-akatsuki-no-goei.json) |
@@ -1335,6 +1337,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Wonderland | 175929 | [175929-alice-in-wonderland.json](./175929-alice-in-wonderland.json) |
 | Alice in Wonderland | 196846 | [196846-alice-in-wonderland.json](./196846-alice-in-wonderland.json) |
 | Alice in Wonderland: Magical Labyrinth | 328575 | [328575-alice-in-wonderland-magical-labyrinth.json](./328575-alice-in-wonderland-magical-labyrinth.json) |
+| Alice is Dead: Episode 1 | 140361 | [140361-alice-is-dead-episode-1.json](./140361-alice-is-dead-episode-1.json) |
+| Alice is Dead: Episode 2 | 140362 | [140362-alice-is-dead-episode-2.json](./140362-alice-is-dead-episode-2.json) |
+| Alice is Dead: Episode 3 | 140363 | [140363-alice-is-dead-episode-3.json](./140363-alice-is-dead-episode-3.json) |
 | Alice Landing | 390651 | [390651-alice-landing.json](./390651-alice-landing.json) |
 | Alice Mesmerizing Episodes of Neurosis: AMEN | 328218 | [328218-alice-mesmerizing-episodes-of-neurosis-amen.json](./328218-alice-mesmerizing-episodes-of-neurosis-amen.json) |
 | Alice Order | 219815 | [219815-alice-order.json](./219815-alice-order.json) |
@@ -4142,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Codec | 336546 | [336546-astral-codec.json](./336546-astral-codec.json) |
 | Astral Divide | 277816 | [277816-astral-divide.json](./277816-astral-divide.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
+| Astral Equilibrium | 140358 | [140358-astral-equilibrium.json](./140358-astral-equilibrium.json) |
 | Astral Green | 184079 | [184079-astral-green.json](./184079-astral-green.json) |
 | Astral Masters | 140983 | [140983-astral-masters.json](./140983-astral-masters.json) |
 | Astral Maze: Escape the Horror | 304677 | [304677-astral-maze-escape-the-horror.json](./304677-astral-maze-escape-the-horror.json) |
