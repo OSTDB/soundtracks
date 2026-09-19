@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameOn! | 348239 | [348239-gameon.json](./348239-gameon.json) |
 | GamePack 2 | 122308 | [122308-gamepack-2.json](./122308-gamepack-2.json) |
 | GamePigeon | 229787 | [229787-gamepigeon.json](./229787-gamepigeon.json) |
+| Gamer Den | 177928 | [177928-gamer-den.json](./177928-gamer-den.json) |
 | Gamer Girls 2 | 162842 | [162842-gamer-girls-2.json](./162842-gamer-girls-2.json) |
 | Gamer Girls: Futanari | 210858 | [210858-gamer-girls-futanari.json](./210858-gamer-girls-futanari.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
