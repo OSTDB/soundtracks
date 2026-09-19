@@ -6063,7 +6063,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceland: Cooperative | 170524 | [170524-spaceland-cooperative.json](./170524-spaceland-cooperative.json) |
 | Spaceland: Frontier | 195785 | [195785-spaceland-frontier.json](./195785-spaceland-frontier.json) |
 | Spaceland: Sci-Fi Indie Tactics | 117052 | [117052-spaceland-sci-fi-indie-tactics.json](./117052-spaceland-sci-fi-indie-tactics.json) |
+| Spacelords: Aneska Deluxe Character Pack | 169318 | [169318-spacelords-aneska-deluxe-character-pack.json](./169318-spacelords-aneska-deluxe-character-pack.json) |
+| Spacelords: Schneider Deluxe Character Pack | 169317 | [169317-spacelords-schneider-deluxe-character-pack.json](./169317-spacelords-schneider-deluxe-character-pack.json) |
+| Spacelords: Sööma Deluxe Character Pack | 169302 | [169302-spacelords-sooma-deluxe-character-pack.json](./169302-spacelords-sooma-deluxe-character-pack.json) |
 | Spacelords: the unofficial visual novel | 183054 | [183054-spacelords-the-unofficial-visual-novel.json](./183054-spacelords-the-unofficial-visual-novel.json) |
+| Spacelords: Valeria Deluxe Character Pack | 169304 | [169304-spacelords-valeria-deluxe-character-pack.json](./169304-spacelords-valeria-deluxe-character-pack.json) |
 | Spaceman | 309854 | [309854-spaceman.json](./309854-spaceman.json) |
 | Spaceman Defender | 120371 | [120371-spaceman-defender.json](./120371-spaceman-defender.json) |
 | Spaceman Memories | 250972 | [250972-spaceman-memories.json](./250972-spaceman-memories.json) |
@@ -8374,6 +8378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
 | Street Fighter Zero 3 | 242649 | [242649-street-fighter-zero-3.json](./242649-street-fighter-zero-3.json) |
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
+| Street Football | 169301 | [169301-street-football.json](./169301-street-football.json) |
 | Street Football 2 | 268209 | [268209-street-football-2.json](./268209-street-football-2.json) |
 | Street Gang Football | 331343 | [331343-street-gang-football.json](./331343-street-gang-football.json) |
 | Street Heroes | 107814 | [107814-street-heroes.json](./107814-street-heroes.json) |
@@ -8479,6 +8484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strinova | 260136 | [260136-strinova.json](./260136-strinova.json) |
 | Strinova Mobile | 350533 | [350533-strinova-mobile.json](./350533-strinova-mobile.json) |
 | Strip 4: Classmate Study | 130057 | [130057-strip-4-classmate-study.json](./130057-strip-4-classmate-study.json) |
+| Strip Black Jack: Hot Gym | 169297 | [169297-strip-black-jack-hot-gym.json](./169297-strip-black-jack-hot-gym.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
 | Strip Fighter IV | 66652 | [66652-strip-fighter-iv.json](./66652-strip-fighter-iv.json) |
