@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yard of the Dead | 268765 | [268765-yard-of-the-dead.json](./268765-yard-of-the-dead.json) |
 | Yard Resistance | 322162 | [322162-yard-resistance.json](./322162-yard-resistance.json) |
 | Yareba de Kiru! The Micro Step: Gijutsu de Oboeru Eitango | 124151 | [124151-yareba-de-kiru-the-micro-step-gijutsu-de-oboeru-eitango.json](./124151-yareba-de-kiru-the-micro-step-gijutsu-de-oboeru-eitango.json) |
+| YARG | 144814 | [144814-yarg.json](./144814-yarg.json) |
 | YARG | 245335 | [245335-yarg.json](./245335-yarg.json) |
 | Yarn | 166614 | [166614-yarn.json](./166614-yarn.json) |
 | Yarudora Series Vol. 1: Double Cast | 79353 | [79353-yarudora-series-vol-1-double-cast.json](./79353-yarudora-series-vol-1-double-cast.json) |
@@ -309,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Can Pet the Dog VR | 158704 | [158704-you-can-pet-the-dog-vr.json](./158704-you-can-pet-the-dog-vr.json) |
 | You Can Talk to People | 184072 | [184072-you-can-talk-to-people.json](./184072-you-can-talk-to-people.json) |
 | You Can't Save Her | 320410 | [320410-you-cant-save-her.json](./320410-you-cant-save-her.json) |
+| You Don't Know Jack | 144785 | [144785-you-dont-know-jack.json](./144785-you-dont-know-jack.json) |
 | You Don't Know Jack | 5304 | [5304-you-dont-know-jack.json](./5304-you-dont-know-jack.json) |
 | You Don't Know Jack Movies | 16785 | [16785-you-dont-know-jack-movies.json](./16785-you-dont-know-jack-movies.json) |
 | You Don't Know Jack Television | 16787 | [16787-you-dont-know-jack-television.json](./16787-you-dont-know-jack-television.json) |
@@ -316,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Don't Know Jack Vol. 6: The Lost Gold | 16789 | [16789-you-dont-know-jack-vol-6-the-lost-gold.json](./16789-you-dont-know-jack-vol-6-the-lost-gold.json) |
 | You Don't Know Jack: Jumbo | 205804 | [205804-you-dont-know-jack-jumbo.json](./205804-you-dont-know-jack-jumbo.json) |
 | You Don't Know Jack: Mock 2 | 77326 | [77326-you-dont-know-jack-mock-2.json](./77326-you-dont-know-jack-mock-2.json) |
+| You Don't Know Jack: Question Pack | 144792 | [144792-you-dont-know-jack-question-pack.json](./144792-you-dont-know-jack-question-pack.json) |
 | You Don't Know Jack: The In-Your-Face (Book) Trivia Game | 297611 | [297611-you-dont-know-jack-the-in-your-face-book-trivia-game.json](./297611-you-dont-know-jack-the-in-your-face-book-trivia-game.json) |
 | You Don't Know Jack: The Irreverent Collection | 205803 | [205803-you-dont-know-jack-the-irreverent-collection.json](./205803-you-dont-know-jack-the-irreverent-collection.json) |
 | You Don't Know Jack: The NetShow | 391588 | [391588-you-dont-know-jack-the-netshow.json](./391588-you-dont-know-jack-the-netshow.json) |
