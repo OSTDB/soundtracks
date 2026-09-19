@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint | 260171 | [260171-paint.json](./260171-paint.json) |
 | Paint Ball | 397656 | [397656-paint-ball.json](./397656-paint-ball.json) |
 | Paint Boy | 328591 | [328591-paint-boy.json](./328591-paint-boy.json) |
+| Paint By Numbers | 148346 | [148346-paint-by-numbers.json](./148346-paint-by-numbers.json) |
 | Paint By Numbers: 8-Bit World Ep. 10 | 305506 | [305506-paint-by-numbers-8-bit-world-ep-10.json](./305506-paint-by-numbers-8-bit-world-ep-10.json) |
 | Paint By Numbers: 8-Bit World Ep. 11 | 305503 | [305503-paint-by-numbers-8-bit-world-ep-11.json](./305503-paint-by-numbers-8-bit-world-ep-11.json) |
 | Paint By Numbers: 8-Bit World Ep. 12 | 305507 | [305507-paint-by-numbers-8-bit-world-ep-12.json](./305507-paint-by-numbers-8-bit-world-ep-12.json) |
@@ -1437,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Personal Space | 221835 | [221835-personal-space.json](./221835-personal-space.json) |
 | Personal Valley | 185522 | [185522-personal-valley.json](./185522-personal-valley.json) |
 | Personality Dating Sim | 157118 | [157118-personality-dating-sim.json](./157118-personality-dating-sim.json) |
+| Perspective | 148362 | [148362-perspective.json](./148362-perspective.json) |
 | Perspectives: Aleppo-Helsinki | 75160 | [75160-perspectives-aleppo-helsinki.json](./75160-perspectives-aleppo-helsinki.json) |
 | Perspectives: Paradise | 115007 | [115007-perspectives-paradise.json](./115007-perspectives-paradise.json) |
 | Perspectre | 395692 | [395692-perspectre.json](./395692-perspectre.json) |
