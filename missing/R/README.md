@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealDoom | 291986 | [291986-realdoom.json](./291986-realdoom.json) |
 | RealFlight 8 | 90068 | [90068-realflight-8.json](./90068-realflight-8.json) |
 | RealFlight Evolution: E-flite Beechcraft D18 1.5m | 356713 | [356713-realflight-evolution-e-flite-beechcraft-d18-1-5m.json](./356713-realflight-evolution-e-flite-beechcraft-d18-1-5m.json) |
+| RealFlight Trainer Edition | 162755 | [162755-realflight-trainer-edition.json](./162755-realflight-trainer-edition.json) |
 | Realistic Tower Destruction | 131558 | [131558-realistic-tower-destruction.json](./131558-realistic-tower-destruction.json) |
 | Reality | 226976 | [226976-reality.json](./226976-reality.json) |
 | Reality | 353297 | [353297-reality.json](./353297-reality.json) |
@@ -2325,6 +2326,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise Of Dune | 327212 | [327212-rise-of-dune.json](./327212-rise-of-dune.json) |
 | Rise of Elements | 334724 | [334724-rise-of-elements.json](./334724-rise-of-elements.json) |
 | Rise of Empire: King's Landing | 100853 | [100853-rise-of-empire-kings-landing.json](./100853-rise-of-empire-kings-landing.json) |
+| Rise of Flight United: Battle of Saint-Mihiel | 162751 | [162751-rise-of-flight-united-battle-of-saint-mihiel.json](./162751-rise-of-flight-united-battle-of-saint-mihiel.json) |
+| Rise of Flight United: ILYA Muromets | 162752 | [162752-rise-of-flight-united-ilya-muromets.json](./162752-rise-of-flight-united-ilya-muromets.json) |
+| Rise of Flight United: Legendary Bombers | 162753 | [162753-rise-of-flight-united-legendary-bombers.json](./162753-rise-of-flight-united-legendary-bombers.json) |
 | Rise of Flight: Furious Wings | 156173 | [156173-rise-of-flight-furious-wings.json](./156173-rise-of-flight-furious-wings.json) |
 | Rise of Flight: The First Great Air War | 21108 | [21108-rise-of-flight-the-first-great-air-war.json](./21108-rise-of-flight-the-first-great-air-war.json) |
 | Rise of Fox Hero | 211753 | [211753-rise-of-fox-hero.json](./211753-rise-of-fox-hero.json) |
