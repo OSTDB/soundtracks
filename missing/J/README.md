@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jan Sangoku Musou | 64360 | [64360-jan-sangoku-musou.json](./64360-jan-sangoku-musou.json) |
 | JanduSoft Games Bundle Vol. 1 | 247493 | [247493-jandusoft-games-bundle-vol-1.json](./247493-jandusoft-games-bundle-vol-1.json) |
 | Jane Angel 2: Fallen Heaven | 156606 | [156606-jane-angel-2-fallen-heaven.json](./156606-jane-angel-2-fallen-heaven.json) |
+| Jane Skriff | 138611 | [138611-jane-skriff.json](./138611-jane-skriff.json) |
 | Jane the Office Slut | 217988 | [217988-jane-the-office-slut.json](./217988-jane-the-office-slut.json) |
 | Jane's Advance Strike Fighters | 25531 | [25531-janes-advance-strike-fighters.json](./25531-janes-advance-strike-fighters.json) |
 | Jane's Combat Simulations: Advanced Tactical Fighters | 78026 | [78026-janes-combat-simulations-advanced-tactical-fighters.json](./78026-janes-combat-simulations-advanced-tactical-fighters.json) |
