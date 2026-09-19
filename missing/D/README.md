@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon x Machina: Titanic Scion - Free Reclaimer Outfit | 375262 | [375262-daemon-x-machina-titanic-scion-free-reclaimer-outfit.json](./375262-daemon-x-machina-titanic-scion-free-reclaimer-outfit.json) |
 | Daemon x Machina: Titanic Scion - Into the Abyss | 375177 | [375177-daemon-x-machina-titanic-scion-into-the-abyss.json](./375177-daemon-x-machina-titanic-scion-into-the-abyss.json) |
 | Daemon x Machina: Titanic Scion - Reclaimers Outfit Set | 375261 | [375261-daemon-x-machina-titanic-scion-reclaimers-outfit-set.json](./375261-daemon-x-machina-titanic-scion-reclaimers-outfit-set.json) |
+| Daemonic Runner | 127779 | [127779-daemonic-runner.json](./127779-daemonic-runner.json) |
 | Daemonical | 96233 | [96233-daemonical.json](./96233-daemonical.json) |
 | Daemonologie | 179677 | [179677-daemonologie.json](./179677-daemonologie.json) |
 | Daemonologie | 313586 | [313586-daemonologie.json](./313586-daemonologie.json) |
@@ -1446,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeds Were Done 2: Project Ascend | 414425 | [414425-deeds-were-done-2-project-ascend.json](./414425-deeds-were-done-2-project-ascend.json) |
 | Deeeep.io | 79267 | [79267-deeeep-io.json](./79267-deeeep-io.json) |
 | Deeeer Simulator: Shikanoko Dance | 331960 | [331960-deeeer-simulator-shikanoko-dance.json](./331960-deeeer-simulator-shikanoko-dance.json) |
+| Deemo II | 127797 | [127797-deemo-ii.json](./127797-deemo-ii.json) |
 | Deemo: The Last Recital | 26996 | [26996-deemo-the-last-recital.json](./26996-deemo-the-last-recital.json) |
 | Deep | 184605 | [184605-deep.json](./184605-deep.json) |
 | Deep Alchemy Dungeon | 207500 | [207500-deep-alchemy-dungeon.json](./207500-deep-alchemy-dungeon.json) |
@@ -2183,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
 | Destruction Rocks | 186192 | [186192-destruction-rocks.json](./186192-destruction-rocks.json) |
 | Destruction Simulator | 311455 | [311455-destruction-simulator.json](./311455-destruction-simulator.json) |
+| Destructivator 2 | 127778 | [127778-destructivator-2.json](./127778-destructivator-2.json) |
 | Destructive Contraptions | 156022 | [156022-destructive-contraptions.json](./156022-destructive-contraptions.json) |
 | Destructo | 171483 | [171483-destructo.json](./171483-destructo.json) |
 | DestructoPod | 119710 | [119710-destructopod.json](./119710-destructopod.json) |
@@ -4191,6 +4194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Fight | 208981 | [208981-drag-fight.json](./208981-drag-fight.json) |
 | Drag Journey | 215113 | [215113-drag-journey.json](./215113-drag-journey.json) |
 | Drag Me Home | 67273 | [67273-drag-me-home.json](./67273-drag-me-home.json) |
+| Drag n Merge Numbers | 127788 | [127788-drag-n-merge-numbers.json](./127788-drag-n-merge-numbers.json) |
 | Drag Race | 18104 | [18104-drag-race.json](./18104-drag-race.json) |
 | Drag Race: Reaction Trainer | 87257 | [87257-drag-race-reaction-trainer.json](./87257-drag-race-reaction-trainer.json) |
 | Drag Racer: Pro Tuner | 63250 | [63250-drag-racer-pro-tuner.json](./63250-drag-racer-pro-tuner.json) |
@@ -4932,6 +4936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dronihilation VR | 67928 | [67928-dronihilation-vr.json](./67928-dronihilation-vr.json) |
 | Drop & Smash | 227483 | [227483-drop-and-smash.json](./227483-drop-and-smash.json) |
 | Drop Boy | 183435 | [183435-drop-boy.json](./183435-drop-boy.json) |
+| Drop Cat | 127769 | [127769-drop-cat.json](./127769-drop-cat.json) |
 | Drop Cooking | 311478 | [311478-drop-cooking.json](./311478-drop-cooking.json) |
 | Drop Duchy | 317865 | [317865-drop-duchy.json](./317865-drop-duchy.json) |
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
