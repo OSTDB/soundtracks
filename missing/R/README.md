@@ -2366,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RIP 2: Strike Back | 28922 | [28922-rip-2-strike-back.json](./28922-rip-2-strike-back.json) |
 | RIP 3: The Last Hero | 28923 | [28923-rip-3-the-last-hero.json](./28923-rip-3-the-last-hero.json) |
 | RIP Party | 375806 | [375806-rip-party.json](./375806-rip-party.json) |
+| Rip them Off | 136851 | [136851-rip-them-off.json](./136851-rip-them-off.json) |
 | RIP Trilogy | 27790 | [27790-rip-trilogy.json](./27790-rip-trilogy.json) |
 | Rip Van Bubsy | 269835 | [269835-rip-van-bubsy.json](./269835-rip-van-bubsy.json) |
 | RIP: Ridiculously Injury Prone | 253443 | [253443-rip-ridiculously-injury-prone.json](./253443-rip-ridiculously-injury-prone.json) |
