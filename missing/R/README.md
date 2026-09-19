@@ -1359,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reggor F. | 361722 | [361722-reggor-f.json](./361722-reggor-f.json) |
 | Regiments: Winds of Change | 270935 | [270935-regiments-winds-of-change.json](./270935-regiments-winds-of-change.json) |
 | Reginald Does His Thang | 74375 | [74375-reginald-does-his-thang.json](./74375-reginald-does-his-thang.json) |
+| Reginald's Death Arena | 156025 | [156025-reginalds-death-arena.json](./156025-reginalds-death-arena.json) |
 | Regions of Ruin | 61884 | [61884-regions-of-ruin.json](./61884-regions-of-ruin.json) |
 | Regular Friday Night | 298719 | [298719-regular-friday-night.json](./298719-regular-friday-night.json) |
 | Regular Ordinary Boy | 51166 | [51166-regular-ordinary-boy.json](./51166-regular-ordinary-boy.json) |
@@ -3344,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Round My Corners | 301241 | [301241-round-my-corners.json](./301241-round-my-corners.json) |
 | Round The U-Bend | 271306 | [271306-round-the-u-bend.json](./271306-round-the-u-bend.json) |
 | Round Trip | 244280 | [244280-round-trip.json](./244280-round-trip.json) |
+| Rounded | 156011 | [156011-rounded.json](./156011-rounded.json) |
 | Rounded Hills | 145654 | [145654-rounded-hills.json](./145654-rounded-hills.json) |
 | Rounders | 220746 | [220746-rounders.json](./220746-rounders.json) |
 | Rounders (Arena) | 98991 | [98991-rounders-arena.json](./98991-rounders-arena.json) |
