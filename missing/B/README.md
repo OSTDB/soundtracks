@@ -1620,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Clock | 196261 | [196261-beat-the-clock.json](./196261-beat-the-clock.json) |
 | Beat the House 2 | 71503 | [71503-beat-the-house-2.json](./71503-beat-the-house-2.json) |
 | Beat the Markets | 348262 | [348262-beat-the-markets.json](./348262-beat-the-markets.json) |
+| Beat the Moles | 157023 | [157023-beat-the-moles.json](./157023-beat-the-moles.json) |
 | Beat Them All | 166676 | [166676-beat-them-all.json](./166676-beat-them-all.json) |
 | Beat Them Up: Box Simulator | 234626 | [234626-beat-them-up-box-simulator.json](./234626-beat-them-up-box-simulator.json) |
 | Beat Them Up: Street Fight Band Simulator | 251598 | [251598-beat-them-up-street-fight-band-simulator.json](./251598-beat-them-up-street-fight-band-simulator.json) |
@@ -3259,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodline Champions: Warrior Pack | 27656 | [27656-bloodline-champions-warrior-pack.json](./27656-bloodline-champions-warrior-pack.json) |
 | Bloodlines: The Alexa Holmes Chronicles | 65529 | [65529-bloodlines-the-alexa-holmes-chronicles.json](./65529-bloodlines-the-alexa-holmes-chronicles.json) |
 | Bloodlust | 338255 | [338255-bloodlust.json](./338255-bloodlust.json) |
+| Bloodlust Online | 157015 | [157015-bloodlust-online.json](./157015-bloodlust-online.json) |
 | BloodMoon | 267484 | [267484-bloodmoon.json](./267484-bloodmoon.json) |
 | Bloodpath | 329922 | [329922-bloodpath.json](./329922-bloodpath.json) |
 | BloodRayne: Definitive Collection | 400996 | [400996-bloodrayne-definitive-collection.json](./400996-bloodrayne-definitive-collection.json) |
