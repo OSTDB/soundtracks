@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waku-waku Ultraman Racing | 252170 | [252170-waku-waku-ultraman-racing.json](./252170-waku-waku-ultraman-racing.json) |
 | Wakugumi: Monochrome Puzzle | 85479 | [85479-wakugumi-monochrome-puzzle.json](./85479-wakugumi-monochrome-puzzle.json) |
 | Wakusei | 301428 | [301428-wakusei.json](./301428-wakusei.json) |
+| Walden Horde | 159746 | [159746-walden-horde.json](./159746-walden-horde.json) |
 | Wales Interactive Publisher Bundle | 301564 | [301564-wales-interactive-publisher-bundle.json](./301564-wales-interactive-publisher-bundle.json) |
 | Walfie's Nonograms | 389599 | [389599-walfies-nonograms.json](./389599-walfies-nonograms.json) |
 | Waligie 3: On Mars | 318032 | [318032-waligie-3-on-mars.json](./318032-waligie-3-on-mars.json) |
@@ -1830,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Apocalyptic Journey | 391717 | [391717-witchs-apocalyptic-journey.json](./391717-witchs-apocalyptic-journey.json) |
 | Witch's Heart: Bonus Stage | 252721 | [252721-witchs-heart-bonus-stage.json](./252721-witchs-heart-bonus-stage.json) |
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
+| Witchaven I & II Bundle | 159696 | [159696-witchaven-i-and-ii-bundle.json](./159696-witchaven-i-and-ii-bundle.json) |
 | Witchbeat | 179618 | [179618-witchbeat.json](./179618-witchbeat.json) |
 | Witchblood | 129238 | [129238-witchblood.json](./129238-witchblood.json) |
 | Witchblood | 413640 | [413640-witchblood.json](./413640-witchblood.json) |
