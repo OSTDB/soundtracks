@@ -2406,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme QTE | 151747 | [151747-extreme-qte.json](./151747-extreme-qte.json) |
 | Extreme Rally Raid | 278523 | [278523-extreme-rally-raid.json](./278523-extreme-rally-raid.json) |
 | Extreme Riding 2 | 278155 | [278155-extreme-riding-2.json](./278155-extreme-riding-2.json) |
+| Extreme Riverboat Racing | 146733 | [146733-extreme-riverboat-racing.json](./146733-extreme-riverboat-racing.json) |
 | Extreme Roads USA | 16962 | [16962-extreme-roads-usa.json](./16962-extreme-roads-usa.json) |
 | Extreme Skater | 200200 | [200200-extreme-skater.json](./200200-extreme-skater.json) |
 | Extreme Snowboard | 228110 | [228110-extreme-snowboard.json](./228110-extreme-snowboard.json) |
