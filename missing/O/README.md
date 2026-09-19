@@ -938,6 +938,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Faces Remain | 382917 | [382917-only-faces-remain.json](./382917-only-faces-remain.json) |
 | Only Fortress | 266277 | [266277-only-fortress.json](./266277-only-fortress.json) |
 | Only Girl in High School | 223998 | [223998-only-girl-in-high-school.json](./223998-only-girl-in-high-school.json) |
+| Only Hope: Episode 1 | 170917 | [170917-only-hope-episode-1.json](./170917-only-hope-episode-1.json) |
+| Only Hope: Episode 2 | 170919 | [170919-only-hope-episode-2.json](./170919-only-hope-episode-2.json) |
+| Only Hope: Episode 3 | 170921 | [170921-only-hope-episode-3.json](./170921-only-hope-episode-3.json) |
+| Only Hope: Episode 4 | 170916 | [170916-only-hope-episode-4.json](./170916-only-hope-episode-4.json) |
+| Only Hope: Episode 5 | 170920 | [170920-only-hope-episode-5.json](./170920-only-hope-episode-5.json) |
+| Only Hope: Episode 6 | 170922 | [170922-only-hope-episode-6.json](./170922-only-hope-episode-6.json) |
+| Only Hope: Episode 7 | 170918 | [170918-only-hope-episode-7.json](./170918-only-hope-episode-7.json) |
 | Only Jump | 413644 | [413644-only-jump.json](./413644-only-jump.json) |
 | Only Jump! | 260756 | [260756-only-jump.json](./260756-only-jump.json) |
 | Only Kitty Cat Up | 395669 | [395669-only-kitty-cat-up.json](./395669-only-kitty-cat-up.json) |
