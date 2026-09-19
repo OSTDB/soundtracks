@@ -731,6 +731,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsukoi Master Up | 329945 | [329945-hatsukoi-master-up.json](./329945-hatsukoi-master-up.json) |
 | Hatsune Miku Amiguru Jump | 228454 | [228454-hatsune-miku-amiguru-jump.json](./228454-hatsune-miku-amiguru-jump.json) |
 | Hatsune Miku Jigsaw Puzzle | 194617 | [194617-hatsune-miku-jigsaw-puzzle.json](./194617-hatsune-miku-jigsaw-puzzle.json) |
+| Hatsune Miku Logic Paint | 144758 | [144758-hatsune-miku-logic-paint.json](./144758-hatsune-miku-logic-paint.json) |
+| Hatsune Miku Logic Paint S | 144759 | [144759-hatsune-miku-logic-paint-s.json](./144759-hatsune-miku-logic-paint-s.json) |
 | Hatsune Miku VR | 89847 | [89847-hatsune-miku-vr.json](./89847-hatsune-miku-vr.json) |
 | Hatsune Miku VR: 5 Songs pack 1 | 223587 | [223587-hatsune-miku-vr-5-songs-pack-1.json](./223587-hatsune-miku-vr-5-songs-pack-1.json) |
 | Hatsune Miku VR: 5 Songs pack 2 | 223589 | [223589-hatsune-miku-vr-5-songs-pack-2.json](./223589-hatsune-miku-vr-5-songs-pack-2.json) |
@@ -1110,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Nova | 5392 | [5392-heavy-nova.json](./5392-heavy-nova.json) |
 | Heavy Rain & Beyond: Two Souls - Collection | 44547 | [44547-heavy-rain-and-beyond-two-souls-collection.json](./44547-heavy-rain-and-beyond-two-souls-collection.json) |
 | Heavy Rain: Director's Cut | 45279 | [45279-heavy-rain-directors-cut.json](./45279-heavy-rain-directors-cut.json) |
+| Heavy Rain: Move Edition | 144777 | [144777-heavy-rain-move-edition.json](./144777-heavy-rain-move-edition.json) |
 | Heavy Rain: Special Edition | 103386 | [103386-heavy-rain-special-edition.json](./103386-heavy-rain-special-edition.json) |
 | Heavy Recoil: Convoy Chaser | 183461 | [183461-heavy-recoil-convoy-chaser.json](./183461-heavy-recoil-convoy-chaser.json) |
 | Heavy Rockets | 237952 | [237952-heavy-rockets.json](./237952-heavy-rockets.json) |
@@ -1725,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Must Die. Again | 127334 | [127334-hero-must-die-again.json](./127334-hero-must-die-again.json) |
 | Hero of Fate: Darkness Land | 292647 | [292647-hero-of-fate-darkness-land.json](./292647-hero-of-fate-darkness-land.json) |
 | Hero of Law | 351679 | [351679-hero-of-law.json](./351679-hero-of-law.json) |
+| Hero of Not Our Time | 144818 | [144818-hero-of-not-our-time.json](./144818-hero-of-not-our-time.json) |
 | Hero of the Kingdom Collection | 53187 | [53187-hero-of-the-kingdom-collection.json](./53187-hero-of-the-kingdom-collection.json) |
 | Hero or Foe | 173232 | [173232-hero-or-foe.json](./173232-hero-or-foe.json) |
 | Hero Pack | 340466 | [340466-hero-pack.json](./340466-hero-pack.json) |
@@ -2467,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
 | Hitman Absolution: Elite Edition | 53210 | [53210-hitman-absolution-elite-edition.json](./53210-hitman-absolution-elite-edition.json) |
 | Hitman Reborn! | 174722 | [174722-hitman-reborn.json](./174722-hitman-reborn.json) |
+| Hitman Sniper: The Shadows | 144772 | [144772-hitman-sniper-the-shadows.json](./144772-hitman-sniper-the-shadows.json) |
 | Hitman World of Assassination | 233571 | [233571-hitman-world-of-assassination.json](./233571-hitman-world-of-assassination.json) |
 | Hitman World of Assassination: 25th Anniversary Edition | 347699 | [347699-hitman-world-of-assassination-25th-anniversary-edition.json](./347699-hitman-world-of-assassination-25th-anniversary-edition.json) |
 | Hitman World of Assassination: Bruce Lee | 370132 | [370132-hitman-world-of-assassination-bruce-lee.json](./370132-hitman-world-of-assassination-bruce-lee.json) |
@@ -2619,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow | 186257 | [186257-hollow.json](./186257-hollow.json) |
 | Hollow Bequest | 386714 | [386714-hollow-bequest.json](./386714-hollow-bequest.json) |
 | Hollow Bliss | 90569 | [90569-hollow-bliss.json](./90569-hollow-bliss.json) |
+| Hollow Ghost | 144779 | [144779-hollow-ghost.json](./144779-hollow-ghost.json) |
 | Hollow Halls | 29905 | [29905-hollow-halls.json](./29905-hollow-halls.json) |
 | Hollow Hide | 414422 | [414422-hollow-hide.json](./414422-hollow-hide.json) |
 | Hollow Hills National Park | 402287 | [402287-hollow-hills-national-park.json](./402287-hollow-hills-national-park.json) |
