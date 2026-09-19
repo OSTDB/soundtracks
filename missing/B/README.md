@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
 | Battle Mages | 17427 | [17427-battle-mages.json](./17427-battle-mages.json) |
 | Battle Magi | 402899 | [402899-battle-magi.json](./402899-battle-magi.json) |
+| Battle Masters | 176871 | [176871-battle-masters.json](./176871-battle-masters.json) |
 | Battle Mons | 413073 | [413073-battle-mons.json](./413073-battle-mons.json) |
 | Battle Mutants | 383957 | [383957-battle-mutants.json](./383957-battle-mutants.json) |
 | Battle Mythic Maidens Arena | 351089 | [351089-battle-mythic-maidens-arena.json](./351089-battle-mythic-maidens-arena.json) |
@@ -1754,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind Closed Doors 4: Balrog's Day Out | 58846 | [58846-behind-closed-doors-4-balrogs-day-out.json](./58846-behind-closed-doors-4-balrogs-day-out.json) |
 | Behind Enemy Line | 156167 | [156167-behind-enemy-line.json](./156167-behind-enemy-line.json) |
 | Behind Nowhere | 105403 | [105403-behind-nowhere.json](./105403-behind-nowhere.json) |
+| Behind the Beyond | 176908 | [176908-behind-the-beyond.json](./176908-behind-the-beyond.json) |
 | Behind the Beyond: Ulti | 277979 | [277979-behind-the-beyond-ulti.json](./277979-behind-the-beyond-ulti.json) |
 | Behind the Horizon: The Desert | 195239 | [195239-behind-the-horizon-the-desert.json](./195239-behind-the-horizon-the-desert.json) |
 | Behind the Hydra's Eyes | 374585 | [374585-behind-the-hydras-eyes.json](./374585-behind-the-hydras-eyes.json) |
@@ -4501,6 +4503,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broadside Bets | 401617 | [401617-broadside-bets.json](./401617-broadside-bets.json) |
 | Brobot | 159866 | [159866-brobot.json](./159866-brobot.json) |
 | Brocante Game: Blister Hunter | 263020 | [263020-brocante-game-blister-hunter.json](./263020-brocante-game-blister-hunter.json) |
+| Broccoli Quest | 176873 | [176873-broccoli-quest.json](./176873-broccoli-quest.json) |
+| Broccoli Quest II: The Dark Sacrament | 176874 | [176874-broccoli-quest-ii-the-dark-sacrament.json](./176874-broccoli-quest-ii-the-dark-sacrament.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
 | Brok: Natal Tail, A New Christmas | 325648 | [325648-brok-natal-tail-a-new-christmas.json](./325648-brok-natal-tail-a-new-christmas.json) |
 | Broke Brodie | 362856 | [362856-broke-brodie.json](./362856-broke-brodie.json) |
