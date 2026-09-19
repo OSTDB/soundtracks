@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tower: Tap Defense | 255735 | [255735-magic-tower-tap-defense.json](./255735-magic-tower-tap-defense.json) |
 | Magic Trap | 255143 | [255143-magic-trap.json](./255143-magic-trap.json) |
 | Magic Trap | 303642 | [303642-magic-trap.json](./303642-magic-trap.json) |
+| Magic Traps | 144135 | [144135-magic-traps.json](./144135-magic-traps.json) |
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
 | Magic Venue | 303647 | [303647-magic-venue.json](./303647-magic-venue.json) |
 | Magic Wand | 311811 | [311811-magic-wand.json](./311811-magic-wand.json) |
@@ -3506,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
 | Minecraft Earth | 118711 | [118711-minecraft-earth.json](./118711-minecraft-earth.json) |
 | Minecraft Education | 28407 | [28407-minecraft-education.json](./28407-minecraft-education.json) |
+| Minecraft Lovehunt | 144111 | [144111-minecraft-lovehunt.json](./144111-minecraft-lovehunt.json) |
 | Minecraft Matcha Flavoured | 411659 | [411659-minecraft-matcha-flavoured.json](./411659-minecraft-matcha-flavoured.json) |
 | Minecraft PSP | 327850 | [327850-minecraft-psp.json](./327850-minecraft-psp.json) |
 | Minecraft Triple Bundle | 334490 | [334490-minecraft-triple-bundle.json](./334490-minecraft-triple-bundle.json) |
@@ -4653,6 +4655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom 3: Monster Roadtrip - Hitchhiker Pack: Vicky & Brian | 241967 | [241967-monster-prom-3-monster-roadtrip-hitchhiker-pack-vicky-and-brian.json](./241967-monster-prom-3-monster-roadtrip-hitchhiker-pack-vicky-and-brian.json) |
 | Monster Prom 3: Monster Roadtrip x Cult of the Lamb | 272830 | [272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json](./272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json) |
 | Monster Prom 4: Monster Con | 307329 | [307329-monster-prom-4-monster-con.json](./307329-monster-prom-4-monster-con.json) |
+| Monster Prom: Hotseat Edition | 144089 | [144089-monster-prom-hotseat-edition.json](./144089-monster-prom-hotseat-edition.json) |
 | Monster Prom: Second Term | 155070 | [155070-monster-prom-second-term.json](./155070-monster-prom-second-term.json) |
 | Monster Radar | 94189 | [94189-monster-radar.json](./94189-monster-radar.json) |
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
