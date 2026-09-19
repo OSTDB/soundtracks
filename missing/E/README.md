@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Mountain | 234058 | [234058-endless-mountain.json](./234058-endless-mountain.json) |
 | Endless Nightmare | 193996 | [193996-endless-nightmare.json](./193996-endless-nightmare.json) |
 | Endless Nightmare: Shrine | 200737 | [200737-endless-nightmare-shrine.json](./200737-endless-nightmare-shrine.json) |
+| Endless Nightmare: Weird Hospital | 174767 | [174767-endless-nightmare-weird-hospital.json](./174767-endless-nightmare-weird-hospital.json) |
 | Endless Nights: Zombie Apocalypse | 244253 | [244253-endless-nights-zombie-apocalypse.json](./244253-endless-nights-zombie-apocalypse.json) |
 | Endless Ocean | 289872 | [289872-endless-ocean.json](./289872-endless-ocean.json) |
 | Endless Ocean: Luminous | 287856 | [287856-endless-ocean-luminous.json](./287856-endless-ocean-luminous.json) |
