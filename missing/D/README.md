@@ -4968,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumpy: Going Elephants! | 229806 | [229806-dumpy-going-elephants.json](./229806-dumpy-going-elephants.json) |
 | Dùn | 367443 | [367443-dun.json](./367443-dun.json) |
 | Dun Dam: Dungeons & Dam | 69298 | [69298-dun-dam-dungeons-and-dam.json](./69298-dun-dam-dungeons-and-dam.json) |
+| Dunc's Algomusic | 177441 | [177441-duncs-algomusic.json](./177441-duncs-algomusic.json) |
 | Duncade | 217305 | [217305-duncade.json](./217305-duncade.json) |
 | Duncan and Katy | 61112 | [61112-duncan-and-katy.json](./61112-duncan-and-katy.json) |
 | Dunchess | 269267 | [269267-dunchess.json](./269267-dunchess.json) |
