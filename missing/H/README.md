@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Crisis | 346019 | [346019-hard-crisis.json](./346019-hard-crisis.json) |
 | Hard Days | 267087 | [267087-hard-days.json](./267087-hard-days.json) |
 | Hard Drive | 381627 | [381627-hard-drive.json](./381627-hard-drive.json) |
+| Hard Driver | 151033 | [151033-hard-driver.json](./151033-hard-driver.json) |
 | Hard Drivin' II: Drive Harder | 12135 | [12135-hard-drivin-ii-drive-harder.json](./12135-hard-drivin-ii-drive-harder.json) |
 | Hard Glide | 189186 | [189186-hard-glide.json](./189186-hard-glide.json) |
 | Hard Hat Mack | 13871 | [13871-hard-hat-mack.json](./13871-hard-hat-mack.json) |
@@ -605,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harley Davidson: Race Across America | 49926 | [49926-harley-davidson-race-across-america.json](./49926-harley-davidson-race-across-america.json) |
 | Harley Pasternak's Hollywood Workout | 50963 | [50963-harley-pasternaks-hollywood-workout.json](./50963-harley-pasternaks-hollywood-workout.json) |
 | Harley-Davidson: The Road to Sturgis | 12137 | [12137-harley-davidson-the-road-to-sturgis.json](./12137-harley-davidson-the-road-to-sturgis.json) |
+| Harlow | 151023 | [151023-harlow.json](./151023-harlow.json) |
 | Harmagedon | 340416 | [340416-harmagedon.json](./340416-harmagedon.json) |
 | HarmoKnight | 18156 | [18156-harmoknight.json](./18156-harmoknight.json) |
 | Harmoni | 296903 | [296903-harmoni.json](./296903-harmoni.json) |
@@ -3065,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Host Master and the Conquest of Humor | 62186 | [62186-host-master-and-the-conquest-of-humor.json](./62186-host-master-and-the-conquest-of-humor.json) |
 | Host Master Deux: Quest for Identity | 62185 | [62185-host-master-deux-quest-for-identity.json](./62185-host-master-deux-quest-for-identity.json) |
 | Hostage Heart | 417565 | [417565-hostage-heart.json](./417565-hostage-heart.json) |
+| Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
 | Hostyle | 397700 | [397700-hostyle.json](./397700-hostyle.json) |
 | Hot & Hentai: Beach Yui | 324490 | [324490-hot-and-hentai-beach-yui.json](./324490-hot-and-hentai-beach-yui.json) |
 | Hot & Hentai: Gamer Etsuko | 324491 | [324491-hot-and-hentai-gamer-etsuko.json](./324491-hot-and-hentai-gamer-etsuko.json) |
@@ -3161,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Hysteria! | 316261 | [316261-hotel-hysteria.json](./316261-hotel-hysteria.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
 | Hotel Island: Paradise Story! | 88318 | [88318-hotel-island-paradise-story.json](./88318-hotel-island-paradise-story.json) |
+| Hotel Life: A Resort Simulator | 151044 | [151044-hotel-life-a-resort-simulator.json](./151044-hotel-life-a-resort-simulator.json) |
 | Hotel Manager Simulator | 199498 | [199498-hotel-manager-simulator.json](./199498-hotel-manager-simulator.json) |
 | Hotel Mario | 8535 | [8535-hotel-mario.json](./8535-hotel-mario.json) |
 | Hotel Mario II | 269846 | [269846-hotel-mario-ii.json](./269846-hotel-mario-ii.json) |
