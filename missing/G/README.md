@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.H.O.S.T. Chronicles: Phantom of the Faire | 209598 | [209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json](./209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json) |
 | G.I. Joe: Operation Blackout - Digital Deluxe | 173160 | [173160-g-i-joe-operation-blackout-digital-deluxe.json](./173160-g-i-joe-operation-blackout-digital-deluxe.json) |
 | G.I. Joe: War on Cobra | 138573 | [138573-g-i-joe-war-on-cobra.json](./138573-g-i-joe-war-on-cobra.json) |
+| G.O.H - The God of Highschool | 137442 | [137442-g-o-h-the-god-of-highschool.json](./137442-g-o-h-the-god-of-highschool.json) |
 | G.O.P.O.T.A 2 | 291756 | [291756-g-o-p-o-t-a-2.json](./291756-g-o-p-o-t-a-2.json) |
 | G1 Jockey 2 | 55170 | [55170-g1-jockey-2.json](./55170-g1-jockey-2.json) |
 | G1 Jockey 2000 | 55171 | [55171-g1-jockey-2000.json](./55171-g1-jockey-2000.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Tennis League | 240782 | [240782-girls-tennis-league.json](./240782-girls-tennis-league.json) |
 | Girls und Panzer: Dream Tank Match - Premium Edition | 166182 | [166182-girls-und-panzer-dream-tank-match-premium-edition.json](./166182-girls-und-panzer-dream-tank-match-premium-edition.json) |
 | Girls VR | 109708 | [109708-girls-vr.json](./109708-girls-vr.json) |
+| Girls x Battle 2 | 137467 | [137467-girls-x-battle-2.json](./137467-girls-x-battle-2.json) |
 | Girls X Battle: GXB Global | 104098 | [104098-girls-x-battle-gxb-global.json](./104098-girls-x-battle-gxb-global.json) |
 | Girls, I Just Want to Get Paid! | 378284 | [378284-girls-i-just-want-to-get-paid.json](./378284-girls-i-just-want-to-get-paid.json) |
 | Girls! Girls! Girls!? | 219796 | [219796-girls-girls-girls.json](./219796-girls-girls-girls.json) |
@@ -1490,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Ranger | 15492 | [15492-gnome-ranger.json](./15492-gnome-ranger.json) |
 | Gnomecart Havoc | 319006 | [319006-gnomecart-havoc.json](./319006-gnomecart-havoc.json) |
 | Gnomes | 37182 | [37182-gnomes.json](./37182-gnomes.json) |
+| Gnomes And Co: The Art of the Build | 137460 | [137460-gnomes-and-co-the-art-of-the-build.json](./137460-gnomes-and-co-the-art-of-the-build.json) |
 | Gnomes and Knights | 317434 | [317434-gnomes-and-knights.json](./317434-gnomes-and-knights.json) |
 | Gnomes Garden Lost King | 102882 | [102882-gnomes-garden-lost-king.json](./102882-gnomes-garden-lost-king.json) |
 | Gnomes Garden: Black Stones | 360576 | [360576-gnomes-garden-black-stones.json](./360576-gnomes-garden-black-stones.json) |
@@ -2913,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guidus | 220202 | [220202-guidus.json](./220202-guidus.json) |
 | Guild Commander | 36097 | [36097-guild-commander.json](./36097-guild-commander.json) |
 | Guild Masters | 110317 | [110317-guild-masters.json](./110317-guild-masters.json) |
+| Guild of Darksteel | 137461 | [137461-guild-of-darksteel.json](./137461-guild-of-darksteel.json) |
 | Guild of Greats | 137024 | [137024-guild-of-greats.json](./137024-guild-of-greats.json) |
 | Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
 | Guild Receptionist: Good Luck | 339103 | [339103-guild-receptionist-good-luck.json](./339103-guild-receptionist-good-luck.json) |
@@ -3230,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutasaga | 257439 | [257439-gutasaga.json](./257439-gutasaga.json) |
 | Gute Zeiten Schlechte Zeiten Quiz | 281539 | [281539-gute-zeiten-schlechte-zeiten-quiz.json](./281539-gute-zeiten-schlechte-zeiten-quiz.json) |
 | Gütertrennung | 86017 | [86017-gutertrennung.json](./86017-gutertrennung.json) |
+| Guts 'N Goals: Preseason | 137484 | [137484-guts-n-goals-preseason.json](./137484-guts-n-goals-preseason.json) |
 | Guts and Syringes | 94766 | [94766-guts-and-syringes.json](./94766-guts-and-syringes.json) |
 | Guts'n | 40183 | [40183-gutsn.json](./40183-gutsn.json) |
 | Gutter: The Perished | 296902 | [296902-gutter-the-perished.json](./296902-gutter-the-perished.json) |
