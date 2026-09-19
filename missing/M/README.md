@@ -5931,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My European Trucking Skills | 316856 | [316856-my-european-trucking-skills.json](./316856-my-european-trucking-skills.json) |
 | My Everyday Life at Insect Academy | 364529 | [364529-my-everyday-life-at-insect-academy.json](./364529-my-everyday-life-at-insect-academy.json) |
 | My evil magician boss suddenly loves me?! | 385053 | [385053-my-evil-magician-boss-suddenly-loves-me.json](./385053-my-evil-magician-boss-suddenly-loves-me.json) |
+| My Ex is a Ghost | 132612 | [132612-my-ex-is-a-ghost.json](./132612-my-ex-is-a-ghost.json) |
 | My Exercise | 138033 | [138033-my-exercise.json](./138033-my-exercise.json) |
 | My Eyes on You | 57694 | [57694-my-eyes-on-you.json](./57694-my-eyes-on-you.json) |
 | My Faithful and Loyal Wife Would Never Cheat on Me | 278413 | [278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json](./278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json) |
