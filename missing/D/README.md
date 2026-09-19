@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Datascape | 96128 | [96128-datascape.json](./96128-datascape.json) |
 | Date A Live: Rio Reincarnation | 87742 | [87742-date-a-live-rio-reincarnation.json](./87742-date-a-live-rio-reincarnation.json) |
 | Date A Live: Rio Reincarnation HD - Limited Edition | 96104 | [96104-date-a-live-rio-reincarnation-hd-limited-edition.json](./96104-date-a-live-rio-reincarnation-hd-limited-edition.json) |
+| Date Night | 179077 | [179077-date-night.json](./179077-date-night.json) |
 | Date Night Bowling | 137109 | [137109-date-night-bowling.json](./137109-date-night-bowling.json) |
 | Date Nite | 336598 | [336598-date-nite.json](./336598-date-nite.json) |
 | Date or Destiny: Kiss or Miss | 348880 | [348880-date-or-destiny-kiss-or-miss.json](./348880-date-or-destiny-kiss-or-miss.json) |
@@ -1551,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deff | 133973 | [133973-deff.json](./133973-deff.json) |
 | Defiance 2050 | 89554 | [89554-defiance-2050.json](./89554-defiance-2050.json) |
 | Deficiency | 278161 | [278161-deficiency.json](./278161-deficiency.json) |
+| Deficit | 179073 | [179073-deficit.json](./179073-deficit.json) |
 | Deficit | 327818 | [327818-deficit.json](./327818-deficit.json) |
 | Defiled | 213032 | [213032-defiled.json](./213032-defiled.json) |
 | Definitely Not a Cult | 408807 | [408807-definitely-not-a-cult.json](./408807-definitely-not-a-cult.json) |
@@ -5026,6 +5028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Crusher: Soul Hunters | 142999 | [142999-dungeon-crusher-soul-hunters.json](./142999-dungeon-crusher-soul-hunters.json) |
 | Dungeon Dad | 191832 | [191832-dungeon-dad.json](./191832-dungeon-dad.json) |
 | Dungeon Danger Traps 2 | 372543 | [372543-dungeon-danger-traps-2.json](./372543-dungeon-danger-traps-2.json) |
+| Dungeon Dealer | 179064 | [179064-dungeon-dealer.json](./179064-dungeon-dealer.json) |
 | Dungeon Deathball | 102922 | [102922-dungeon-deathball.json](./102922-dungeon-deathball.json) |
 | Dungeon Defenders II: Heartwarming Bundle | 90701 | [90701-dungeon-defenders-ii-heartwarming-bundle.json](./90701-dungeon-defenders-ii-heartwarming-bundle.json) |
 | Dungeon Defenders: Warden Hero DLC | 364559 | [364559-dungeon-defenders-warden-hero-dlc.json](./364559-dungeon-defenders-warden-hero-dlc.json) |
