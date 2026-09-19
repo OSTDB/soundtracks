@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unmanned helicopter | 105365 | [105365-unmanned-helicopter.json](./105365-unmanned-helicopter.json) |
 | UnMarked | 185078 | [185078-unmarked.json](./185078-unmarked.json) |
 | Unmatch | 58805 | [58805-unmatch.json](./58805-unmatch.json) |
+| Unmatched: Digital Edition | 171477 | [171477-unmatched-digital-edition.json](./171477-unmatched-digital-edition.json) |
 | Unmatched: Digital Edition - Bigfoot | 248717 | [248717-unmatched-digital-edition-bigfoot.json](./248717-unmatched-digital-edition-bigfoot.json) |
 | Unmatched: Digital Edition - Dracula | 248706 | [248706-unmatched-digital-edition-dracula.json](./248706-unmatched-digital-edition-dracula.json) |
 | Unmatched: Digital Edition - Robin Hood | 248726 | [248726-unmatched-digital-edition-robin-hood.json](./248726-unmatched-digital-edition-robin-hood.json) |
