@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force: World Brothers 2 - Extra Mission Pack: Robo Saurous vs. The Mecharmy | 325434 | [325434-earth-defense-force-world-brothers-2-extra-mission-pack-robo-saurous-vs-the-mecharmy.json](./325434-earth-defense-force-world-brothers-2-extra-mission-pack-robo-saurous-vs-the-mecharmy.json) |
 | Earth Defense Force: World Brothers 2 - Humanity Dominates!? Air Raider (EDF6) Up & Coming: Reskin | 325433 | [325433-earth-defense-force-world-brothers-2-humanity-dominates-air-raider-edf6-up-and-coming-reskin.json](./325433-earth-defense-force-world-brothers-2-humanity-dominates-air-raider-edf6-up-and-coming-reskin.json) |
 | Earth Invasion | 72085 | [72085-earth-invasion.json](./72085-earth-invasion.json) |
+| Earth Marines | 153862 | [153862-earth-marines.json](./153862-earth-marines.json) |
 | Earth Saver | 59386 | [59386-earth-saver.json](./59386-earth-saver.json) |
 | Earth Saves Our Love | 267392 | [267392-earth-saves-our-love.json](./267392-earth-saves-our-love.json) |
 | Earth Science | 159176 | [159176-earth-science.json](./159176-earth-science.json) |
@@ -693,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ElePass: Only Elephants Can Unlock the Passcode | 317855 | [317855-elepass-only-elephants-can-unlock-the-passcode.json](./317855-elepass-only-elephants-can-unlock-the-passcode.json) |
 | Elephant Hunter Hunter | 133991 | [133991-elephant-hunter-hunter.json](./133991-elephant-hunter-hunter.json) |
 | Elephant Rave | 276834 | [276834-elephant-rave.json](./276834-elephant-rave.json) |
+| Elerena | 153855 | [153855-elerena.json](./153855-elerena.json) |
 | Elestrals | 261897 | [261897-elestrals.json](./261897-elestrals.json) |
 | Elestrals Awakened | 376549 | [376549-elestrals-awakened.json](./376549-elestrals-awakened.json) |
 | Elestrals Clash! | 356622 | [356622-elestrals-clash.json](./356622-elestrals-clash.json) |
@@ -786,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elsword | 115692 | [115692-elsword.json](./115692-elsword.json) |
 | Elumin | 295811 | [295811-elumin.json](./295811-elumin.json) |
 | Elusive | 336540 | [336540-elusive.json](./336540-elusive.json) |
+| Eluxia Enigma | 153847 | [153847-eluxia-enigma.json](./153847-eluxia-enigma.json) |
 | Elva the Eco Dragon | 187503 | [187503-elva-the-eco-dragon.json](./187503-elva-the-eco-dragon.json) |
 | Elvandia Story | 43276 | [43276-elvandia-story.json](./43276-elvandia-story.json) |
 | Elven Battlegrounds | 235457 | [235457-elven-battlegrounds.json](./235457-elven-battlegrounds.json) |
@@ -2400,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
 | Extremely Realistic Siege Warfare Simulator | 130957 | [130957-extremely-realistic-siege-warfare-simulator.json](./130957-extremely-realistic-siege-warfare-simulator.json) |
+| Exvelten | 153857 | [153857-exvelten.json](./153857-exvelten.json) |
 | Exzeal | 32926 | [32926-exzeal.json](./32926-exzeal.json) |
 | Exzore: The Rising | 42666 | [42666-exzore-the-rising.json](./42666-exzore-the-rising.json) |
 | Exсive A-1000 | 113714 | [113714-ex-ive-a-1000.json](./113714-ex-ive-a-1000.json) |
