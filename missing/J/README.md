@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Classics | 188116 | [188116-jigsaw-classics.json](./188116-jigsaw-classics.json) |
 | Jigsaw Fun 3-in-1 Collection | 197341 | [197341-jigsaw-fun-3-in-1-collection.json](./197341-jigsaw-fun-3-in-1-collection.json) |
 | Jigsaw Fun: 3-in-1 Collection | 196259 | [196259-jigsaw-fun-3-in-1-collection.json](./196259-jigsaw-fun-3-in-1-collection.json) |
+| Jigsaw Fun: Amazing Animals | 175814 | [175814-jigsaw-fun-amazing-animals.json](./175814-jigsaw-fun-amazing-animals.json) |
 | Jigsaw Fun: Wonderful Nature | 187497 | [187497-jigsaw-fun-wonderful-nature.json](./187497-jigsaw-fun-wonderful-nature.json) |
 | Jigsaw Game 05/06 | 345498 | [345498-jigsaw-game-05-06.json](./345498-jigsaw-game-05-06.json) |
 | Jigsaw Ice Princess | 271272 | [271272-jigsaw-ice-princess.json](./271272-jigsaw-ice-princess.json) |
@@ -595,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jin Lin Love Story | 106563 | [106563-jin-lin-love-story.json](./106563-jin-lin-love-story.json) |
 | Jinchou | 337480 | [337480-jinchou.json](./337480-jinchou.json) |
 | Jingle Cats | 63293 | [63293-jingle-cats.json](./63293-jingle-cats.json) |
+| Jingoku | 175829 | [175829-jingoku.json](./175829-jingoku.json) |
 | Jinja | 313500 | [313500-jinja.json](./313500-jinja.json) |
 | Jinki Resurrection | 141177 | [141177-jinki-resurrection.json](./141177-jinki-resurrection.json) |
 | Jinki Resurrection: Limited Edition | 141189 | [141189-jinki-resurrection-limited-edition.json](./141189-jinki-resurrection-limited-edition.json) |
