@@ -777,15 +777,36 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Sim 25: Drive Tractors, Combine, Trucks | 329568 | [329568-farming-sim-25-drive-tractors-combine-trucks.json](./329568-farming-sim-25-drive-tractors-combine-trucks.json) |
 | Farming Simulator | 81357 | [81357-farming-simulator.json](./81357-farming-simulator.json) |
 | Farming Simulator 15 | 9499 | [9499-farming-simulator-15.json](./9499-farming-simulator-15.json) |
+| Farming Simulator 15: Holmer | 166091 | [166091-farming-simulator-15-holmer.json](./166091-farming-simulator-15-holmer.json) |
+| Farming Simulator 15: JCB | 166084 | [166084-farming-simulator-15-jcb.json](./166084-farming-simulator-15-jcb.json) |
+| Farming Simulator 15: New Holland Pack | 166083 | [166083-farming-simulator-15-new-holland-pack.json](./166083-farming-simulator-15-new-holland-pack.json) |
 | Farming Simulator 17 big bud pack | 110336 | [110336-farming-simulator-17-big-bud-pack.json](./110336-farming-simulator-17-big-bud-pack.json) |
+| Farming Simulator 17: KUHN Equipment Pack | 166090 | [166090-farming-simulator-17-kuhn-equipment-pack.json](./166090-farming-simulator-17-kuhn-equipment-pack.json) |
 | Farming Simulator 17: Platinum Expansion | 24785 | [24785-farming-simulator-17-platinum-expansion.json](./24785-farming-simulator-17-platinum-expansion.json) |
+| Farming Simulator 19: Alpine Farming Expansion | 166102 | [166102-farming-simulator-19-alpine-farming-expansion.json](./166102-farming-simulator-19-alpine-farming-expansion.json) |
 | Farming Simulator 19: Ambassador Edition | 202420 | [202420-farming-simulator-19-ambassador-edition.json](./202420-farming-simulator-19-ambassador-edition.json) |
+| Farming Simulator 19: Anderson Group Equipment Pack | 166098 | [166098-farming-simulator-19-anderson-group-equipment-pack.json](./166098-farming-simulator-19-anderson-group-equipment-pack.json) |
+| Farming Simulator 19: Bourgault DLC | 166099 | [166099-farming-simulator-19-bourgault-dlc.json](./166099-farming-simulator-19-bourgault-dlc.json) |
+| Farming Simulator 19: Grimme Equipment Pack | 166101 | [166101-farming-simulator-19-grimme-equipment-pack.json](./166101-farming-simulator-19-grimme-equipment-pack.json) |
+| Farming Simulator 19: Holmer Terra Variant DLC | 166100 | [166100-farming-simulator-19-holmer-terra-variant-dlc.json](./166100-farming-simulator-19-holmer-terra-variant-dlc.json) |
+| Farming Simulator 19: John Deere Cotton DLC | 166105 | [166105-farming-simulator-19-john-deere-cotton-dlc.json](./166105-farming-simulator-19-john-deere-cotton-dlc.json) |
 | Farming Simulator 19: Platinum Edition | 121755 | [121755-farming-simulator-19-platinum-edition.json](./121755-farming-simulator-19-platinum-edition.json) |
 | Farming Simulator 19: Platinum Expansion | 227361 | [227361-farming-simulator-19-platinum-expansion.json](./227361-farming-simulator-19-platinum-expansion.json) |
 | Farming Simulator 19: Premium Edition | 139999 | [139999-farming-simulator-19-premium-edition.json](./139999-farming-simulator-19-premium-edition.json) |
+| Farming Simulator 19: Rottne DLC | 166104 | [166104-farming-simulator-19-rottne-dlc.json](./166104-farming-simulator-19-rottne-dlc.json) |
 | Farming Simulator 2008 2 | 183965 | [183965-farming-simulator-2008-2.json](./183965-farming-simulator-2008-2.json) |
 | Farming Simulator 2011 | 3176 | [3176-farming-simulator-2011.json](./3176-farming-simulator-2011.json) |
+| Farming Simulator 2011: Classics | 166086 | [166086-farming-simulator-2011-classics.json](./166086-farming-simulator-2011-classics.json) |
+| Farming Simulator 2011: Equipment Pack 1 | 166087 | [166087-farming-simulator-2011-equipment-pack-1.json](./166087-farming-simulator-2011-equipment-pack-1.json) |
+| Farming Simulator 2011: Equipment Pack 2 | 166088 | [166088-farming-simulator-2011-equipment-pack-2.json](./166088-farming-simulator-2011-equipment-pack-2.json) |
+| Farming Simulator 2011: Equipment Pack 3 | 166089 | [166089-farming-simulator-2011-equipment-pack-3.json](./166089-farming-simulator-2011-equipment-pack-3.json) |
 | Farming Simulator 2013 | 3180 | [3180-farming-simulator-2013.json](./3180-farming-simulator-2013.json) |
+| Farming Simulator 2013: Classics | 166095 | [166095-farming-simulator-2013-classics.json](./166095-farming-simulator-2013-classics.json) |
+| Farming Simulator 2013: Lindner Unitrac | 166093 | [166093-farming-simulator-2013-lindner-unitrac.json](./166093-farming-simulator-2013-lindner-unitrac.json) |
+| Farming Simulator 2013: Marshall Trailers | 166097 | [166097-farming-simulator-2013-marshall-trailers.json](./166097-farming-simulator-2013-marshall-trailers.json) |
+| Farming Simulator 2013: Official Expansion | 166094 | [166094-farming-simulator-2013-official-expansion.json](./166094-farming-simulator-2013-official-expansion.json) |
+| Farming Simulator 2013: Ursus | 166096 | [166096-farming-simulator-2013-ursus.json](./166096-farming-simulator-2013-ursus.json) |
+| Farming Simulator 2013: Väderstad | 166092 | [166092-farming-simulator-2013-vaderstad.json](./166092-farming-simulator-2013-vaderstad.json) |
 | Farming Simulator 22: Case IH Farmall Anniversary Pack | 276271 | [276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json](./276271-farming-simulator-22-case-ih-farmall-anniversary-pack.json) |
 | Farming Simulator 22: Farm Production Pack | 296643 | [296643-farming-simulator-22-farm-production-pack.json](./296643-farming-simulator-22-farm-production-pack.json) |
 | Farming Simulator 22: Pumps n' Hoses Pack | 210271 | [210271-farming-simulator-22-pumps-n-hoses-pack.json](./210271-farming-simulator-22-pumps-n-hoses-pack.json) |
