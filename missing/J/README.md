@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Christian 2 | 195141 | [195141-john-christian-2.json](./195141-john-christian-2.json) |
 | John Deere American Farmer: Deluxe Edition | 210132 | [210132-john-deere-american-farmer-deluxe-edition.json](./210132-john-deere-american-farmer-deluxe-edition.json) |
 | John Deere: Busy Days in Deerfield Valley | 210131 | [210131-john-deere-busy-days-in-deerfield-valley.json](./210131-john-deere-busy-days-in-deerfield-valley.json) |
+| John Deere: Drive Green | 139805 | [139805-john-deere-drive-green.json](./139805-john-deere-drive-green.json) |
 | John Deere: North American Farmer | 210130 | [210130-john-deere-north-american-farmer.json](./210130-john-deere-north-american-farmer.json) |
 | John Gleep | 410343 | [410343-john-gleep.json](./410343-john-gleep.json) |
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
