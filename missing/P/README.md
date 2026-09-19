@@ -4660,6 +4660,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: The MIR Incident | 204062 | [204062-project-the-mir-incident.json](./204062-project-the-mir-incident.json) |
 | Project: Unity | 275572 | [275572-project-unity.json](./275572-project-unity.json) |
 | Project: Waterfall | 224783 | [224783-project-waterfall.json](./224783-project-waterfall.json) |
+| Project: X Insurrection | 147292 | [147292-project-x-insurrection.json](./147292-project-x-insurrection.json) |
+| Project: Youtuber | 147301 | [147301-project-youtuber.json](./147301-project-youtuber.json) |
 | Project:Pong | 149440 | [149440-project-pong.json](./149440-project-pong.json) |
 | Projection Remains | 182514 | [182514-projection-remains.json](./182514-projection-remains.json) |
 | ProjectL | 63241 | [63241-projectl.json](./63241-projectl.json) |
