@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | General's Son | 48579 | [48579-generals-son.json](./48579-generals-son.json) |
 | Generality | 205068 | [205068-generality.json](./205068-generality.json) |
 | GeneRally | 19280 | [19280-generally.json](./19280-generally.json) |
+| Generals | 141672 | [141672-generals.json](./141672-generals.json) |
 | Generation Exile | 305182 | [305182-generation-exile.json](./305182-generation-exile.json) |
 | Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
 | Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
