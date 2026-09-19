@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawks of Bruyland | 329961 | [329961-hawks-of-bruyland.json](./329961-hawks-of-bruyland.json) |
 | Hawthorn | 319345 | [319345-hawthorn.json](./319345-hawthorn.json) |
 | Haxware Comgam | 219816 | [219816-haxware-comgam.json](./219816-haxware-comgam.json) |
+| Hay Day Pop | 165527 | [165527-hay-day-pop.json](./165527-hay-day-pop.json) |
 | Hayai | 200715 | [200715-hayai.json](./200715-hayai.json) |
 | Hayama Reiko no Date de Blackjack | 41349 | [41349-hayama-reiko-no-date-de-blackjack.json](./41349-hayama-reiko-no-date-de-blackjack.json) |
 | Hayami-Chan | 199033 | [199033-hayami-chan.json](./199033-hayami-chan.json) |
@@ -1433,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Clicker: Valentine Is Streaming | 389612 | [389612-hentai-clicker-valentine-is-streaming.json](./389612-hentai-clicker-valentine-is-streaming.json) |
 | Hentai Clicker: Yumi Is Streaming | 389618 | [389618-hentai-clicker-yumi-is-streaming.json](./389618-hentai-clicker-yumi-is-streaming.json) |
 | Hentai Crush | 136424 | [136424-hentai-crush.json](./136424-hentai-crush.json) |
+| Hentai Darts | 165529 | [165529-hentai-darts.json](./165529-hentai-darts.json) |
 | Hentai Dating Stories: Brazil - Best Stories 1 | 308788 | [308788-hentai-dating-stories-brazil-best-stories-1.json](./308788-hentai-dating-stories-brazil-best-stories-1.json) |
 | Hentai Dating Stories: Brazil - Best Stories 2 | 308787 | [308787-hentai-dating-stories-brazil-best-stories-2.json](./308787-hentai-dating-stories-brazil-best-stories-2.json) |
 | Hentai Dating Stories: Brazil - Best Stories 3 | 308786 | [308786-hentai-dating-stories-brazil-best-stories-3.json](./308786-hentai-dating-stories-brazil-best-stories-3.json) |
@@ -1802,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Rise Trilogy | 53192 | [53192-heroes-rise-trilogy.json](./53192-heroes-rise-trilogy.json) |
 | Heroes Sky Legends | 336371 | [336371-heroes-sky-legends.json](./336371-heroes-sky-legends.json) |
 | Heroes Stand Tall: M.E.T.A | 302116 | [302116-heroes-stand-tall-m-e-t-a.json](./302116-heroes-stand-tall-m-e-t-a.json) |
+| Heroes Strike | 165555 | [165555-heroes-strike.json](./165555-heroes-strike.json) |
 | Heroes Tactics | 37054 | [37054-heroes-tactics.json](./37054-heroes-tactics.json) |
 | Heroes Together VR | 380567 | [380567-heroes-together-vr.json](./380567-heroes-together-vr.json) |
 | Heroes Unhinged | 343356 | [343356-heroes-unhinged.json](./343356-heroes-unhinged.json) |
