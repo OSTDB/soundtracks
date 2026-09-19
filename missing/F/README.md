@@ -3945,6 +3945,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funeral for the Sun | 385063 | [385063-funeral-for-the-sun.json](./385063-funeral-for-the-sun.json) |
 | Funeral Toll | 272837 | [272837-funeral-toll.json](./272837-funeral-toll.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
+| Funfair Ride Simulator 3: Ride Pack 2 | 162273 | [162273-funfair-ride-simulator-3-ride-pack-2.json](./162273-funfair-ride-simulator-3-ride-pack-2.json) |
+| Funfair Ride Simulator 3: Ride Pack 3 | 162272 | [162272-funfair-ride-simulator-3-ride-pack-3.json](./162272-funfair-ride-simulator-3-ride-pack-3.json) |
+| Funfair Ride Simulator 3: Ride Pack 4 | 162271 | [162271-funfair-ride-simulator-3-ride-pack-4.json](./162271-funfair-ride-simulator-3-ride-pack-4.json) |
+| Funfair Ride Simulator 3: Ride Pack 5 | 162269 | [162269-funfair-ride-simulator-3-ride-pack-5.json](./162269-funfair-ride-simulator-3-ride-pack-5.json) |
+| Funfair Ride Simulator 3: Ride Pack 6 | 162270 | [162270-funfair-ride-simulator-3-ride-pack-6.json](./162270-funfair-ride-simulator-3-ride-pack-6.json) |
 | Funfair Tycoon | 397775 | [397775-funfair-tycoon.json](./397775-funfair-tycoon.json) |
 | Fungal Colony Sim 2 | 365139 | [365139-fungal-colony-sim-2.json](./365139-fungal-colony-sim-2.json) |
 | Fungal Colony Simulator | 257690 | [257690-fungal-colony-simulator.json](./257690-fungal-colony-simulator.json) |
