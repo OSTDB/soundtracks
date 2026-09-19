@@ -3208,6 +3208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Green Room Experiment: Episode 3 | 290011 | [290011-the-green-room-experiment-episode-3.json](./290011-the-green-room-experiment-episode-3.json) |
 | The Greenskins | 74374 | [74374-the-greenskins.json](./74374-the-greenskins.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
+| The Grim Ending | 148919 | [148919-the-grim-ending.json](./148919-the-grim-ending.json) |
 | The Grim Outpost | 271323 | [271323-the-grim-outpost.json](./271323-the-grim-outpost.json) |
 | The Grinding of Teeth | 271852 | [271852-the-grinding-of-teeth.json](./271852-the-grinding-of-teeth.json) |
 | The Grizzled: Armistice Digital | 215744 | [215744-the-grizzled-armistice-digital.json](./215744-the-grizzled-armistice-digital.json) |
@@ -3223,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guild 2: Renaissance | 11620 | [11620-the-guild-2-renaissance.json](./11620-the-guild-2-renaissance.json) |
 | The Guild of Thieves | 12126 | [12126-the-guild-of-thieves.json](./12126-the-guild-of-thieves.json) |
 | The Gurgling | 381594 | [381594-the-gurgling.json](./381594-the-gurgling.json) |
+| The Gurion Mountains | 148915 | [148915-the-gurion-mountains.json](./148915-the-gurion-mountains.json) |
 | The Hacker | 13724 | [13724-the-hacker.json](./13724-the-hacker.json) |
 | The Hacker 2.0 | 234051 | [234051-the-hacker-2-0.json](./234051-the-hacker-2-0.json) |
 | The Halloween Story | 219170 | [219170-the-halloween-story.json](./219170-the-halloween-story.json) |
@@ -5836,6 +5838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The White Room | 309856 | [309856-the-white-room.json](./309856-the-white-room.json) |
 | The Whitetail Incident | 159280 | [159280-the-whitetail-incident.json](./159280-the-whitetail-incident.json) |
 | The Whole World is in Check | 185017 | [185017-the-whole-world-is-in-check.json](./185017-the-whole-world-is-in-check.json) |
+| The Wicked Days | 148907 | [148907-the-wicked-days.json](./148907-the-wicked-days.json) |
 | The Wickie | 157131 | [157131-the-wickie.json](./157131-the-wickie.json) |
 | The Widow's Shadow | 271212 | [271212-the-widows-shadow.json](./271212-the-widows-shadow.json) |
 | The Wiggles: Wiggle Bay | 206228 | [206228-the-wiggles-wiggle-bay.json](./206228-the-wiggles-wiggle-bay.json) |
@@ -5861,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wire | 31955 | [31955-the-wire.json](./31955-the-wire.json) |
 | The Wish | 181937 | [181937-the-wish.json](./181937-the-wish.json) |
 | The Wishing Flower | 225761 | [225761-the-wishing-flower.json](./225761-the-wishing-flower.json) |
+| The Wishing Stone | 148901 | [148901-the-wishing-stone.json](./148901-the-wishing-stone.json) |
 | The Witch and Her Assistant | 183460 | [183460-the-witch-and-her-assistant.json](./183460-the-witch-and-her-assistant.json) |
 | The Witch and the Hundred Knight 2 | 24909 | [24909-the-witch-and-the-hundred-knight-2.json](./24909-the-witch-and-the-hundred-knight-2.json) |
 | The Witch and the Lost Babies | 389585 | [389585-the-witch-and-the-lost-babies.json](./389585-the-witch-and-the-lost-babies.json) |
@@ -7041,6 +7045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Tiki Hop | 209672 | [209672-tiki-tiki-hop.json](./209672-tiki-tiki-hop.json) |
 | Tiki Towers | 79912 | [79912-tiki-towers.json](./79912-tiki-towers.json) |
 | Tiki: The Masked Journey | 163850 | [163850-tiki-the-masked-journey.json](./163850-tiki-the-masked-journey.json) |
+| Tikutaku Concert | 148936 | [148936-tikutaku-concert.json](./148936-tikutaku-concert.json) |
 | Tilde and the 9 Mystical Glorbos | 394834 | [394834-tilde-and-the-9-mystical-glorbos.json](./394834-tilde-and-the-9-mystical-glorbos.json) |
 | Tile Cities 2 | 325630 | [325630-tile-cities-2.json](./325630-tile-cities-2.json) |
 | Tile Connect: Onet Match | 171473 | [171473-tile-connect-onet-match.json](./171473-tile-connect-onet-match.json) |
@@ -9421,6 +9426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick or Treat Halloween Solitaire | 386125 | [386125-trick-or-treat-halloween-solitaire.json](./386125-trick-or-treat-halloween-solitaire.json) |
 | Trick the Ninjalinos | 359438 | [359438-trick-the-ninjalinos.json](./359438-trick-the-ninjalinos.json) |
 | Trick x Trick | 386689 | [386689-trick-x-trick.json](./386689-trick-x-trick.json) |
+| Trickery&Strategy | 148905 | [148905-trickery-and-strategy.json](./148905-trickery-and-strategy.json) |
 | Trickier Wii | 394343 | [394343-trickier-wii.json](./394343-trickier-wii.json) |
 | Tricking 0 | 195187 | [195187-tricking-0.json](./195187-tricking-0.json) |
 | TrickShot | 147406 | [147406-trickshot.json](./147406-trickshot.json) |
