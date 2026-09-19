@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peace Maker VR | 200717 | [200717-peace-maker-vr.json](./200717-peace-maker-vr.json) |
 | Peace of Evil | 118395 | [118395-peace-of-evil.json](./118395-peace-of-evil.json) |
 | Peace Park | 262352 | [262352-peace-park.json](./262352-peace-park.json) |
+| Peace, Death! 2 | 158078 | [158078-peace-death-2.json](./158078-peace-death-2.json) |
 | Peacebringer | 338750 | [338750-peacebringer.json](./338750-peacebringer.json) |
 | Peaceful Dog Escape | 231923 | [231923-peaceful-dog-escape.json](./231923-peaceful-dog-escape.json) |
 | Peaceful Fishing Story | 390502 | [390502-peaceful-fishing-story.json](./390502-peaceful-fishing-story.json) |
@@ -1256,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PentaBlox | 188581 | [188581-pentablox.json](./188581-pentablox.json) |
 | Pentacore | 211187 | [211187-pentacore.json](./211187-pentacore.json) |
 | Pentaloop | 346671 | [346671-pentaloop.json](./346671-pentaloop.json) |
+| Pentaquin: Deeds of Twilight | 158052 | [158052-pentaquin-deeds-of-twilight.json](./158052-pentaquin-deeds-of-twilight.json) |
 | Pentari: First Light | 72034 | [72034-pentari-first-light.json](./72034-pentari-first-light.json) |
 | PentaZorg | 278143 | [278143-pentazorg.json](./278143-pentazorg.json) |
 | Penthos | 178070 | [178070-penthos.json](./178070-penthos.json) |
@@ -2628,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Fights | 239323 | [239323-planet-fights.json](./239323-planet-fights.json) |
 | Planet Finder | 362299 | [362299-planet-finder.json](./362299-planet-finder.json) |
 | Planet Flipper | 394893 | [394893-planet-flipper.json](./394893-planet-flipper.json) |
+| Planet Hop | 158082 | [158082-planet-hop.json](./158082-planet-hop.json) |
 | Planet Hotpot | 173241 | [173241-planet-hotpot.json](./173241-planet-hotpot.json) |
 | Planet Invasion | 70954 | [70954-planet-invasion.json](./70954-planet-invasion.json) |
 | Planet Iridium | 260172 | [260172-planet-iridium.json](./260172-planet-iridium.json) |
@@ -2665,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoo: Europe Pack | 191245 | [191245-planet-zoo-europe-pack.json](./191245-planet-zoo-europe-pack.json) |
 | Planet Zoo: Zookeepers Animal Pack | 336614 | [336614-planet-zoo-zookeepers-animal-pack.json](./336614-planet-zoo-zookeepers-animal-pack.json) |
 | Planet's Core | 112302 | [112302-planets-core.json](./112302-planets-core.json) |
+| Planeta | 158054 | [158054-planeta.json](./158054-planeta.json) |
 | Planetary Annihilation: Titans | 18962 | [18962-planetary-annihilation-titans.json](./18962-planetary-annihilation-titans.json) |
 | Planetary Defense Force | 129787 | [129787-planetary-defense-force.json](./129787-planetary-defense-force.json) |
 | Planetary Escape: An Audiogame | 181380 | [181380-planetary-escape-an-audiogame.json](./181380-planetary-escape-an-audiogame.json) |
@@ -3596,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porgy | 318416 | [318416-porgy.json](./318416-porgy.json) |
 | Porkerpillar | 89209 | [89209-porkerpillar.json](./89209-porkerpillar.json) |
 | Porno Empire | 270786 | [270786-porno-empire.json](./270786-porno-empire.json) |
+| Pornocrates | 158065 | [158065-pornocrates.json](./158065-pornocrates.json) |
 | Porntris | 299467 | [299467-porntris.json](./299467-porntris.json) |
 | Porpetha | 249882 | [249882-porpetha.json](./249882-porpetha.json) |
 | Porradaria Upgrade | 91973 | [91973-porradaria-upgrade.json](./91973-porradaria-upgrade.json) |
@@ -3860,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poxel.io | 349951 | [349951-poxel-io.json](./349951-poxel-io.json) |
 | Poy Poy | 45092 | [45092-poy-poy.json](./45092-poy-poy.json) |
 | Pozzo Jello Crusade | 31807 | [31807-pozzo-jello-crusade.json](./31807-pozzo-jello-crusade.json) |
+| PP Puncher | 158084 | [158084-pp-puncher.json](./158084-pp-puncher.json) |
 | PP: Pathetic Predator | 364479 | [364479-pp-pathetic-predator.json](./364479-pp-pathetic-predator.json) |
 | Ppoi: Hitonatsu no Keiken | 203373 | [203373-ppoi-hitonatsu-no-keiken.json](./203373-ppoi-hitonatsu-no-keiken.json) |
 | PPP | 259093 | [259093-ppp.json](./259093-ppp.json) |
@@ -4719,6 +4725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proun+ A Journey Through Modern Art | 246968 | [246968-proun-a-journey-through-modern-art.json](./246968-proun-a-journey-through-modern-art.json) |
 | Prove It and Move It | 312717 | [312717-prove-it-and-move-it.json](./312717-prove-it-and-move-it.json) |
 | Prove You're Human | 397804 | [397804-prove-youre-human.json](./397804-prove-youre-human.json) |
+| Proven: A Math RPG | 158059 | [158059-proven-a-math-rpg.json](./158059-proven-a-math-rpg.json) |
 | Proviant | 90618 | [90618-proviant.json](./90618-proviant.json) |
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
 | Provider | 164919 | [164919-provider.json](./164919-provider.json) |
