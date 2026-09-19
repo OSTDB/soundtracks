@@ -1199,6 +1199,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teletubes: Electronic Pet | 314644 | [314644-teletubes-electronic-pet.json](./314644-teletubes-electronic-pet.json) |
 | Telf AG | 287781 | [287781-telf-ag.json](./287781-telf-ag.json) |
 | Tell a Demon | 51599 | [51599-tell-a-demon.json](./51599-tell-a-demon.json) |
+| Tell Me Why: Chapter One - Homecoming | 141012 | [141012-tell-me-why-chapter-one-homecoming.json](./141012-tell-me-why-chapter-one-homecoming.json) |
+| Tell Me Why: Chapter Three - Inheritance | 141014 | [141014-tell-me-why-chapter-three-inheritance.json](./141014-tell-me-why-chapter-three-inheritance.json) |
+| Tell Me Why: Chapter Two - Family Secrets | 141013 | [141013-tell-me-why-chapter-two-family-secrets.json](./141013-tell-me-why-chapter-two-family-secrets.json) |
 | Tell Me Your Story: Complete + | 328825 | [328825-tell-me-your-story-complete.json](./328825-tell-me-your-story-complete.json) |
 | Tell Me Your Story: Porcelain Puzzle 1 | 324485 | [324485-tell-me-your-story-porcelain-puzzle-1.json](./324485-tell-me-your-story-porcelain-puzzle-1.json) |
 | Tell Me Your Story: Porcelain Puzzle 2 | 324486 | [324486-tell-me-your-story-porcelain-puzzle-2.json](./324486-tell-me-your-story-porcelain-puzzle-2.json) |
@@ -3013,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Floor Is Really Cheap Lava | 115042 | [115042-the-floor-is-really-cheap-lava.json](./115042-the-floor-is-really-cheap-lava.json) |
 | The Flow | 140544 | [140544-the-flow.json](./140544-the-flow.json) |
 | The Flower | 361747 | [361747-the-flower.json](./361747-the-flower.json) |
+| The Flowers of Robert Mapplethorpe | 141004 | [141004-the-flowers-of-robert-mapplethorpe.json](./141004-the-flowers-of-robert-mapplethorpe.json) |
 | The Flowertest | 341003 | [341003-the-flowertest.json](./341003-the-flowertest.json) |
 | The Flute | 233094 | [233094-the-flute.json](./233094-the-flute.json) |
 | The Flying Feathers | 247768 | [247768-the-flying-feathers.json](./247768-the-flying-feathers.json) |
@@ -4341,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mulldoon Murders | 60029 | [60029-the-mulldoon-murders.json](./60029-the-mulldoon-murders.json) |
 | The Multi-Medium | 216996 | [216996-the-multi-medium.json](./216996-the-multi-medium.json) |
 | The Multiverse Trilogy | 289978 | [289978-the-multiverse-trilogy.json](./289978-the-multiverse-trilogy.json) |
+| The Mummy | 140987 | [140987-the-mummy.json](./140987-the-mummy.json) |
 | The Mummy | 281548 | [281548-the-mummy.json](./281548-the-mummy.json) |
 | The Mummy | 49323 | [49323-the-mummy.json](./49323-the-mummy.json) |
 | The Mummy Pharaoh | 110381 | [110381-the-mummy-pharaoh.json](./110381-the-mummy-pharaoh.json) |
@@ -5476,6 +5481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tiny Bang Story HD | 100154 | [100154-the-tiny-bang-story-hd.json](./100154-the-tiny-bang-story-hd.json) |
 | The Tiny Tale 2 | 35975 | [35975-the-tiny-tale-2.json](./35975-the-tiny-tale-2.json) |
 | The Tiny Train Driver | 179591 | [179591-the-tiny-train-driver.json](./179591-the-tiny-train-driver.json) |
+| The Titan's Grave | 141032 | [141032-the-titans-grave.json](./141032-the-titans-grave.json) |
 | The Tolerance Group | 408940 | [408940-the-tolerance-group.json](./408940-the-tolerance-group.json) |
 | The Tomatoes are OK | 184993 | [184993-the-tomatoes-are-ok.json](./184993-the-tomatoes-are-ok.json) |
 | The Tomorrow Children: Phoenix Edition | 205261 | [205261-the-tomorrow-children-phoenix-edition.json](./205261-the-tomorrow-children-phoenix-edition.json) |
@@ -5999,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zvengers: Infinity Defense | 328472 | [328472-the-zvengers-infinity-defense.json](./328472-the-zvengers-infinity-defense.json) |
 | The Zwuggels: Beach Holidays | 51555 | [51555-the-zwuggels-beach-holidays.json](./51555-the-zwuggels-beach-holidays.json) |
 | The Zyrdain Sands | 390100 | [390100-the-zyrdain-sands.json](./390100-the-zyrdain-sands.json) |
+| The_Otherside | 141027 | [141027-the-otherside.json](./141027-the-otherside.json) |
 | The_Painther | 410884 | [410884-the-painther.json](./410884-the-painther.json) |
 | The.Thend.End | 112992 | [112992-the-thend-end.json](./112992-the-thend-end.json) |
 | Thea Bundle | 192306 | [192306-thea-bundle.json](./192306-thea-bundle.json) |
@@ -9765,6 +9772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi | 82136 | [82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json](./82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json) |
 | Trump Collection GB | 82137 | [82137-trump-collection-gb.json](./82137-trump-collection-gb.json) |
 | Trump Jigsaw | 339283 | [339283-trump-jigsaw.json](./339283-trump-jigsaw.json) |
+| Trump vs Biden: Infinity war | 141035 | [141035-trump-vs-biden-infinity-war.json](./141035-trump-vs-biden-infinity-war.json) |
 | Trump vs Harris Clicker | 369646 | [369646-trump-vs-harris-clicker.json](./369646-trump-vs-harris-clicker.json) |
 | Trump! Jump | 256262 | [256262-trump-jump.json](./256262-trump-jump.json) |
 | Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
