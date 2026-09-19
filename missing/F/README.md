@@ -1631,6 +1631,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finder Love: Hoshino Aki - Nangoku Trouble Rendezvous | 196715 | [196715-finder-love-hoshino-aki-nangoku-trouble-rendezvous.json](./196715-finder-love-hoshino-aki-nangoku-trouble-rendezvous.json) |
 | Finder Love: Kudo Risa - First Shoot ha Kimi to | 196717 | [196717-finder-love-kudo-risa-first-shoot-ha-kimi-to.json](./196717-finder-love-kudo-risa-first-shoot-ha-kimi-to.json) |
 | Finders Reapers | 124210 | [124210-finders-reapers.json](./124210-finders-reapers.json) |
+| Finders Reapers: Attack & Defend Character Pack | 155505 | [155505-finders-reapers-attack-and-defend-character-pack.json](./155505-finders-reapers-attack-and-defend-character-pack.json) |
+| Finders Reapers: Evil & Nasty Character Pack | 155506 | [155506-finders-reapers-evil-and-nasty-character-pack.json](./155506-finders-reapers-evil-and-nasty-character-pack.json) |
+| Finders Reapers: Legends & Sports Character Pack | 155507 | [155507-finders-reapers-legends-and-sports-character-pack.json](./155507-finders-reapers-legends-and-sports-character-pack.json) |
+| Finders Reapers: Super Crazy Character Pack | 155508 | [155508-finders-reapers-super-crazy-character-pack.json](./155508-finders-reapers-super-crazy-character-pack.json) |
 | Finders, Keepers | 139457 | [139457-finders-keepers.json](./139457-finders-keepers.json) |
 | Finding Alex | 344379 | [344379-finding-alex.json](./344379-finding-alex.json) |
 | Finding America: New England | 273665 | [273665-finding-america-new-england.json](./273665-finding-america-new-england.json) |
