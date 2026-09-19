@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Os Trapalhões apresentam Didi na Mina Encantada! | 262416 | [262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json](./262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json) |
 | OS:Path | 97084 | [97084-os-path.json](./97084-os-path.json) |
 | Osaka's Dream | 325667 | [325667-osakas-dream.json](./325667-osakas-dream.json) |
+| Osakabe | 159144 | [159144-osakabe.json](./159144-osakabe.json) |
 | Osananajimi Ojou-sama to H de Himitsu na Dousei Seikatsu | 396903 | [396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json](./396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json) |
 | Osawari Hockey Enko-chan | 235769 | [235769-osawari-hockey-enko-chan.json](./235769-osawari-hockey-enko-chan.json) |
 | Oscar der Ballonfahrer taucht unter | 86031 | [86031-oscar-der-ballonfahrer-taucht-unter.json](./86031-oscar-der-ballonfahrer-taucht-unter.json) |
