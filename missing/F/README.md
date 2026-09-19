@@ -223,6 +223,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail Online | 59427 | [59427-fairy-tail-online.json](./59427-fairy-tail-online.json) |
 | Fairy Tail: Additional Dungeon - Rift in Time and Space | 238053 | [238053-fairy-tail-additional-dungeon-rift-in-time-and-space.json](./238053-fairy-tail-additional-dungeon-rift-in-time-and-space.json) |
 | Fairy Tail: Beach Volleyball Havoc | 313127 | [313127-fairy-tail-beach-volleyball-havoc.json](./313127-fairy-tail-beach-volleyball-havoc.json) |
+| Fairy Tail: Brave Guild | 144100 | [144100-fairy-tail-brave-guild.json](./144100-fairy-tail-brave-guild.json) |
+| Fairy Tail: Brave Saga | 144095 | [144095-fairy-tail-brave-saga.json](./144095-fairy-tail-brave-saga.json) |
+| Fairy Tail: DiceMagic | 144096 | [144096-fairy-tail-dicemagic.json](./144096-fairy-tail-dicemagic.json) |
 | Fairy Tail: Dungeons | 313123 | [313123-fairy-tail-dungeons.json](./313123-fairy-tail-dungeons.json) |
 | Fairy Tail: Forces Unite! | 193970 | [193970-fairy-tail-forces-unite.json](./193970-fairy-tail-forces-unite.json) |
 | Fairy Tail: Guild Masters | 193873 | [193873-fairy-tail-guild-masters.json](./193873-fairy-tail-guild-masters.json) |
@@ -2482,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy Disks from Hell | 236946 | [236946-floppy-disks-from-hell.json](./236946-floppy-disks-from-hell.json) |
 | Floppy Fish | 402997 | [402997-floppy-fish.json](./402997-floppy-fish.json) |
 | Floppy Knights: Version 2.0 | 230299 | [230299-floppy-knights-version-2-0.json](./230299-floppy-knights-version-2-0.json) |
+| Floppy Minecraft | 144104 | [144104-floppy-minecraft.json](./144104-floppy-minecraft.json) |
 | Flora and the Darkness | 175906 | [175906-flora-and-the-darkness.json](./175906-flora-and-the-darkness.json) |
 | Flora Learns to Sing! | 321332 | [321332-flora-learns-to-sing.json](./321332-flora-learns-to-sing.json) |
 | Floraison | 415869 | [415869-floraison.json](./415869-floraison.json) |
