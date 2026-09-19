@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Time III | 310923 | [310923-hard-time-iii.json](./310923-hard-time-iii.json) |
 | Hard Times at Sequoia State Park | 192388 | [192388-hard-times-at-sequoia-state-park.json](./192388-hard-times-at-sequoia-state-park.json) |
 | Hard to be a God | 20779 | [20779-hard-to-be-a-god.json](./20779-hard-to-be-a-god.json) |
+| Hard Vacuum | 132627 | [132627-hard-vacuum.json](./132627-hard-vacuum.json) |
 | Hard West | 7675 | [7675-hard-west.json](./7675-hard-west.json) |
 | Hard West 2 | 116014 | [116014-hard-west-2.json](./116014-hard-west-2.json) |
 | Hard West: Complete Edition | 53173 | [53173-hard-west-complete-edition.json](./53173-hard-west-complete-edition.json) |
@@ -775,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted | 16799 | [16799-haunted.json](./16799-haunted.json) |
 | Haunted | 377571 | [377571-haunted.json](./377571-haunted.json) |
 | Haunted Abbey | 13725 | [13725-haunted-abbey.json](./13725-haunted-abbey.json) |
+| Haunted by Evil | 132663 | [132663-haunted-by-evil.json](./132663-haunted-by-evil.json) |
 | Haunted Cities Volume 4 | 140618 | [140618-haunted-cities-volume-4.json](./140618-haunted-cities-volume-4.json) |
 | Haunted Dungeons: Hyakki Castle | 110831 | [110831-haunted-dungeons-hyakki-castle.json](./110831-haunted-dungeons-hyakki-castle.json) |
 | Haunted Escape: Wrath of Victoria | 62759 | [62759-haunted-escape-wrath-of-victoria.json](./62759-haunted-escape-wrath-of-victoria.json) |
@@ -1396,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Sunshine | 335658 | [335658-hello-sunshine.json](./335658-hello-sunshine.json) |
 | Hello Tale | 224103 | [224103-hello-tale.json](./224103-hello-tale.json) |
 | Hello Teacher | 154367 | [154367-hello-teacher.json](./154367-hello-teacher.json) |
+| Hello World | 132633 | [132633-hello-world.json](./132633-hello-world.json) |
 | Hello World | 367420 | [367420-hello-world.json](./367420-hello-world.json) |
 | Hello World | 392767 | [392767-hello-world.json](./392767-hello-world.json) |
 | Hello, Fucking World! | 219827 | [219827-hello-fucking-world.json](./219827-hello-fucking-world.json) |
@@ -2080,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cursed Crypt | 323930 | [323930-hidden-cursed-crypt.json](./323930-hidden-cursed-crypt.json) |
 | Hidden Dose | 184598 | [184598-hidden-dose.json](./184598-hidden-dose.json) |
 | Hidden Dragon: Legend | 45095 | [45095-hidden-dragon-legend.json](./45095-hidden-dragon-legend.json) |
+| Hidden Dream | 132615 | [132615-hidden-dream.json](./132615-hidden-dream.json) |
 | Hidden Dungeon Top-Down 3D | 222935 | [222935-hidden-dungeon-top-down-3d.json](./222935-hidden-dungeon-top-down-3d.json) |
 | Hidden Epee | 248116 | [248116-hidden-epee.json](./248116-hidden-epee.json) |
 | Hidden Expedition: Crown of Solomon | 140034 | [140034-hidden-expedition-crown-of-solomon.json](./140034-hidden-expedition-crown-of-solomon.json) |
@@ -2942,6 +2946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoop Dynasty: Rise of a Legend | 411682 | [411682-hoop-dynasty-rise-of-a-legend.json](./411682-hoop-dynasty-rise-of-a-legend.json) |
 | Hoop Fever | 90691 | [90691-hoop-fever.json](./90691-hoop-fever.json) |
 | Hoop Land | 250996 | [250996-hoop-land.json](./250996-hoop-land.json) |
+| Hooplord | 132611 | [132611-hooplord.json](./132611-hooplord.json) |
 | Hoops Madness | 140354 | [140354-hoops-madness.json](./140354-hoops-madness.json) |
 | Hoops: Shut Up and Jam | 245294 | [245294-hoops-shut-up-and-jam.json](./245294-hoops-shut-up-and-jam.json) |
 | Hoops: Shut Up and Jam 2 | 245293 | [245293-hoops-shut-up-and-jam-2.json](./245293-hoops-shut-up-and-jam-2.json) |
