@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uprising: Join or Die | 32768 | [32768-uprising-join-or-die.json](./32768-uprising-join-or-die.json) |
 | Uprising44: The Silent Shadows | 92480 | [92480-uprising44-the-silent-shadows.json](./92480-uprising44-the-silent-shadows.json) |
 | Uprk.cz | 161891 | [161891-uprk-cz.json](./161891-uprk-cz.json) |
+| Uproar | 153863 | [153863-uproar.json](./153863-uproar.json) |
 | Uproot: Lost Leaf | 226752 | [226752-uproot-lost-leaf.json](./226752-uproot-lost-leaf.json) |
 | UpRooted | 224553 | [224553-uprooted.json](./224553-uprooted.json) |
 | Uprush | 266239 | [266239-uprush.json](./266239-uprush.json) |
