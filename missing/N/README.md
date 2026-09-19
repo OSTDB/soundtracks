@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nucleuz Underground | 309369 | [309369-nucleuz-underground.json](./309369-nucleuz-underground.json) |
 | Nude and Afraid: 11 Day Challenge | 270962 | [270962-nude-and-afraid-11-day-challenge.json](./270962-nude-and-afraid-11-day-challenge.json) |
 | Nudel Tag | 270113 | [270113-nudel-tag.json](./270113-nudel-tag.json) |
+| Nudist Beach Survival Simulator 2 | 171465 | [171465-nudist-beach-survival-simulator-2.json](./171465-nudist-beach-survival-simulator-2.json) |
 | Nugatory | 399690 | [399690-nugatory.json](./399690-nugatory.json) |
 | Nugget & Penny: Adventure Machine | 121604 | [121604-nugget-and-penny-adventure-machine.json](./121604-nugget-and-penny-adventure-machine.json) |
 | NugQuest | 341488 | [341488-nugquest.json](./341488-nugquest.json) |
