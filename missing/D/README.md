@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Circuit | 382327 | [382327-dead-circuit.json](./382327-dead-circuit.json) |
 | Dead City | 244380 | [244380-dead-city.json](./244380-dead-city.json) |
 | Dead City | 317824 | [317824-dead-city.json](./317824-dead-city.json) |
+| Dead Covid-19 in space | 150525 | [150525-dead-covid-19-in-space.json](./150525-dead-covid-19-in-space.json) |
 | Dead Cubes | 129755 | [129755-dead-cubes.json](./129755-dead-cubes.json) |
 | Dead Dawn | 193958 | [193958-dead-dawn.json](./193958-dead-dawn.json) |
 | Dead District: Survival | 209479 | [209479-dead-district-survival.json](./209479-dead-district-survival.json) |
@@ -1177,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deal or No Deal: Secret Vault Games | 209006 | [209006-deal-or-no-deal-secret-vault-games.json](./209006-deal-or-no-deal-secret-vault-games.json) |
 | Deal With the Devil Chapter: 2 - From Tuonela to Hell | 350487 | [350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json](./350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json) |
 | Dealer's Life | 114063 | [114063-dealers-life.json](./114063-dealers-life.json) |
+| Dear Althea | 150488 | [150488-dear-althea.json](./150488-dear-althea.json) |
 | Dear Blue | 297470 | [297470-dear-blue.json](./297470-dear-blue.json) |
 | Dear Brother | 158562 | [158562-dear-brother.json](./158562-dear-brother.json) |
 | Dear Diary | 297233 | [297233-dear-diary.json](./297233-dear-diary.json) |
