@@ -3112,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blokoto | 346585 | [346585-blokoto.json](./346585-blokoto.json) |
 | Bloku! | 259541 | [259541-bloku.json](./259541-bloku.json) |
 | Blomst | 181911 | [181911-blomst.json](./181911-blomst.json) |
+| Blon | 167682 | [167682-blon.json](./167682-blon.json) |
 | Blonde Driver | 96435 | [96435-blonde-driver.json](./96435-blonde-driver.json) |
 | Blonde Justice | 37198 | [37198-blonde-justice.json](./37198-blonde-justice.json) |
 | Blonsters | 304877 | [304877-blonsters.json](./304877-blonsters.json) |
