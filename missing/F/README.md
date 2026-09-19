@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm and Fix Simulator | 244785 | [244785-farm-and-fix-simulator.json](./244785-farm-and-fix-simulator.json) |
 | Farm Animals - Activity Book | 96059 | [96059-farm-animals-activity-book.json](./96059-farm-animals-activity-book.json) |
 | Farm Boy | 92507 | [92507-farm-boy.json](./92507-farm-boy.json) |
+| Farm Builder | 147255 | [147255-farm-builder.json](./147255-farm-builder.json) |
 | Farm Chores | 304901 | [304901-farm-chores.json](./304901-farm-chores.json) |
 | Farm Day 2023 | 241393 | [241393-farm-day-2023.json](./241393-farm-day-2023.json) |
 | Farm Day Simulator 2024 | 283728 | [283728-farm-day-simulator-2024.json](./283728-farm-day-simulator-2024.json) |
@@ -1351,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight or Die | 29974 | [29974-fight-or-die.json](./29974-fight-or-die.json) |
 | Fight or Flight | 113046 | [113046-fight-or-flight.json](./113046-fight-or-flight.json) |
 | Fight or Flight VR | 272266 | [272266-fight-or-flight-vr.json](./272266-fight-or-flight-vr.json) |
+| Fight Party | 147248 | [147248-fight-party.json](./147248-fight-party.json) |
 | Fight Plane | 235471 | [235471-fight-plane.json](./235471-fight-plane.json) |
 | Fight Poker | 404832 | [404832-fight-poker.json](./404832-fight-poker.json) |
 | Fight Sparring VR | 41951 | [41951-fight-sparring-vr.json](./41951-fight-sparring-vr.json) |
@@ -2780,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Club Management 2023 | 214062 | [214062-football-club-management-2023.json](./214062-football-club-management-2023.json) |
 | Football Club Simulator - FCS | 36247 | [36247-football-club-simulator-fcs.json](./36247-football-club-simulator-fcs.json) |
 | Football Crazy Challenge | 84258 | [84258-football-crazy-challenge.json](./84258-football-crazy-challenge.json) |
+| Football Cup 2021 | 147253 | [147253-football-cup-2021.json](./147253-football-cup-2021.json) |
 | Football Director 2017 | 200160 | [200160-football-director-2017.json](./200160-football-director-2017.json) |
 | Football Director 2019 | 112986 | [112986-football-director-2019.json](./112986-football-director-2019.json) |
 | Football Frenzy | 39649 | [39649-football-frenzy.json](./39649-football-frenzy.json) |
