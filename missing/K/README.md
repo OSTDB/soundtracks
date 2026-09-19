@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabaneri of the Iron Fortress: Ran - Hajimaru Michiato | 89983 | [89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json](./89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json) |
 | Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
 | Kaboom Swing | 179151 | [179151-kaboom-swing.json](./179151-kaboom-swing.json) |
+| Kaboom! | 172030 | [172030-kaboom.json](./172030-kaboom.json) |
 | Kabuki-chou Reach Mahjong: Toupuusen | 42630 | [42630-kabuki-chou-reach-mahjong-toupuusen.json](./42630-kabuki-chou-reach-mahjong-toupuusen.json) |
 | Kabuto | 239776 | [239776-kabuto.json](./239776-kabuto.json) |
 | Kabuto Kuwagata | 242093 | [242093-kabuto-kuwagata.json](./242093-kabuto-kuwagata.json) |
@@ -258,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Combat | 13732 | [13732-karate-combat.json](./13732-karate-combat.json) |
 | Karate Hero | 234318 | [234318-karate-hero.json](./234318-karate-hero.json) |
 | Karate Krab | 76650 | [76650-karate-krab.json](./76650-karate-krab.json) |
+| Karate Krab: Karate Krab In Space | 172051 | [172051-karate-krab-karate-krab-in-space.json](./172051-karate-krab-karate-krab-in-space.json) |
 | Karate Krab: Red Sea | 167248 | [167248-karate-krab-red-sea.json](./167248-karate-krab-red-sea.json) |
 | Karate Phants: Gloves of Glory | 68633 | [68633-karate-phants-gloves-of-glory.json](./68633-karate-phants-gloves-of-glory.json) |
 | Karate Survivor | 307796 | [307796-karate-survivor.json](./307796-karate-survivor.json) |
@@ -382,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawanakajima Ibunroku | 255106 | [255106-kawanakajima-ibunroku.json](./255106-kawanakajima-ibunroku.json) |
 | Kawasaki Jet Ski Watercraft | 78659 | [78659-kawasaki-jet-ski-watercraft.json](./78659-kawasaki-jet-ski-watercraft.json) |
 | Kawkab ELashkef | 401494 | [401494-kawkab-elashkef.json](./401494-kawkab-elashkef.json) |
+| Kaya Joshi: Magical Detective | 172011 | [172011-kaya-joshi-magical-detective.json](./172011-kaya-joshi-magical-detective.json) |
 | Kaya The Dog | 381595 | [381595-kaya-the-dog.json](./381595-kaya-the-dog.json) |
 | Kaya's Prophecy | 317866 | [317866-kayas-prophecy.json](./317866-kayas-prophecy.json) |
 | Kayak Photography Sim | 415109 | [415109-kayak-photography-sim.json](./415109-kayak-photography-sim.json) |
