@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Answer | 30062 | [30062-last-answer.json](./30062-last-answer.json) |
 | Last Bible III | 38354 | [38354-last-bible-iii.json](./38354-last-bible-iii.json) |
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
+| Last Blossom | 148337 | [148337-last-blossom.json](./148337-last-blossom.json) |
 | Last Bone | 406785 | [406785-last-bone.json](./406785-last-bone.json) |
 | Last Box Standing May Go On | 336625 | [336625-last-box-standing-may-go-on.json](./336625-last-box-standing-may-go-on.json) |
 | Last Breath | 373619 | [373619-last-breath.json](./373619-last-breath.json) |
