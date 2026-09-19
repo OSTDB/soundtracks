@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Princess: Marl Oukoku no Ningyou Hime 2 | 43903 | [43903-little-princess-marl-oukoku-no-ningyou-hime-2.json](./43903-little-princess-marl-oukoku-no-ningyou-hime-2.json) |
 | Little Rats' Big Top | 180804 | [180804-little-rats-big-top.json](./180804-little-rats-big-top.json) |
 | Little Re-collector | 369059 | [369059-little-re-collector.json](./369059-little-re-collector.json) |
+| Little Red Ball | 176384 | [176384-little-red-ball.json](./176384-little-red-ball.json) |
 | Little Red in the Woods | 364493 | [364493-little-red-in-the-woods.json](./364493-little-red-in-the-woods.json) |
 | Little Red Riding Hood A | 225313 | [225313-little-red-riding-hood-a.json](./225313-little-red-riding-hood-a.json) |
 | Little Red Riding Hood B | 225312 | [225312-little-red-riding-hood-b.json](./225312-little-red-riding-hood-b.json) |
