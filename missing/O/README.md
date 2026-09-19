@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onside Soccer | 37125 | [37125-onside-soccer.json](./37125-onside-soccer.json) |
 | Onslaught | 341510 | [341510-onslaught.json](./341510-onslaught.json) |
 | Onslaught | 69201 | [69201-onslaught.json](./69201-onslaught.json) |
+| OnSlaught | 163293 | [163293-onslaught.json](./163293-onslaught.json) |
 | Onslaught on the Solar Frontier | 306369 | [306369-onslaught-on-the-solar-frontier.json](./306369-onslaught-on-the-solar-frontier.json) |
 | OnSpace | 111076 | [111076-onspace.json](./111076-onspace.json) |
 | Ontranto | 277955 | [277955-ontranto.json](./277955-ontranto.json) |
