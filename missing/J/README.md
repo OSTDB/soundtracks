@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Two | 299732 | [299732-just-two.json](./299732-just-two.json) |
 | Just Walk | 303603 | [303603-just-walk.json](./303603-just-walk.json) |
 | Just You | 303602 | [303602-just-you.json](./303602-just-you.json) |
+| Just-A-Crush | 177911 | [177911-just-a-crush.json](./177911-just-a-crush.json) |
 | Just. Press. The Button. | 396911 | [396911-just-press-the-button.json](./396911-just-press-the-button.json) |
 | JustBox | 340782 | [340782-justbox.json](./340782-justbox.json) |
 | JustHammers | 341865 | [341865-justhammers.json](./341865-justhammers.json) |
