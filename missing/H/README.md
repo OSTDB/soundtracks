@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker | 12131 | [12131-hacker.json](./12131-hacker.json) |
 | Hacker Ball | 185128 | [185128-hacker-ball.json](./185128-hacker-ball.json) |
 | Hacker Evolution Duality: Hacker Bootcamp | 171565 | [171565-hacker-evolution-duality-hacker-bootcamp.json](./171565-hacker-evolution-duality-hacker-bootcamp.json) |
+| Hacker Evolution Duality: Hardcore Package Part 1 | 169309 | [169309-hacker-evolution-duality-hardcore-package-part-1.json](./169309-hacker-evolution-duality-hardcore-package-part-1.json) |
 | Hacker Evolution Duality: Inception Part 2 | 171633 | [171633-hacker-evolution-duality-inception-part-2.json](./171633-hacker-evolution-duality-inception-part-2.json) |
 | Hacker II: The Doomsday Papers | 12133 | [12133-hacker-ii-the-doomsday-papers.json](./12133-hacker-ii-the-doomsday-papers.json) |
 | Hacking Into Erebus | 412415 | [412415-hacking-into-erebus.json](./412415-hacking-into-erebus.json) |
