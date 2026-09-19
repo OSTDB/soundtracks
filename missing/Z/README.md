@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhōnghuá Fùjiǎ Sānguó | 161903 | [161903-zhonghua-fujia-sanguo.json](./161903-zhonghua-fujia-sanguo.json) |
 | Zhu Zhu Pets | 9168 | [9168-zhu-zhu-pets.json](./9168-zhu-zhu-pets.json) |
 | Zhust: The Illusion Soul | 40463 | [40463-zhust-the-illusion-soul.json](./40463-zhust-the-illusion-soul.json) |
+| Zhūtiān Jì | 157534 | [157534-zhutian-ji.json](./157534-zhutian-ji.json) |
 | ZI Survival | 220735 | [220735-zi-survival.json](./220735-zi-survival.json) |
 | Zì Xī Cú Dōng | 163846 | [163846-zi-xi-cu-dong.json](./163846-zi-xi-cu-dong.json) |
 | Ziba | 22360 | [22360-ziba.json](./22360-ziba.json) |
