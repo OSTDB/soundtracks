@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice & Marisa | 270382 | [270382-alice-and-marisa.json](./270382-alice-and-marisa.json) |
 | Alice and Smith: Complete Library | 52589 | [52589-alice-and-smith-complete-library.json](./52589-alice-and-smith-complete-library.json) |
 | Alice and the Magical Islands | 371312 | [371312-alice-and-the-magical-islands.json](./371312-alice-and-the-magical-islands.json) |
+| Alice and You in the planet of numbers | 144141 | [144141-alice-and-you-in-the-planet-of-numbers.json](./144141-alice-and-you-in-the-planet-of-numbers.json) |
 | Alice Closet | 159283 | [159283-alice-closet.json](./159283-alice-closet.json) |
 | Alice Gear Aegis CS: Concerto of Simulatrix | 198385 | [198385-alice-gear-aegis-cs-concerto-of-simulatrix.json](./198385-alice-gear-aegis-cs-concerto-of-simulatrix.json) |
 | Alice Gear Aegis CS: Concerto of Simulatrix - Limited Edition | 198386 | [198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json](./198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json) |
