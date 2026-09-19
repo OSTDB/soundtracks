@@ -5668,6 +5668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Traveller and the Mountain | 178570 | [178570-the-traveller-and-the-mountain.json](./178570-the-traveller-and-the-mountain.json) |
 | The Traveller: Vanilla Version | 280201 | [280201-the-traveller-vanilla-version.json](./280201-the-traveller-vanilla-version.json) |
 | The Travelling Salesfrog Problem | 229073 | [229073-the-travelling-salesfrog-problem.json](./229073-the-travelling-salesfrog-problem.json) |
+| The Travelyan Home | 133225 | [133225-the-travelyan-home.json](./133225-the-travelyan-home.json) |
 | The Treasure of Civilization | 153422 | [153422-the-treasure-of-civilization.json](./153422-the-treasure-of-civilization.json) |
 | The Treasure Seekers of Lady Luck | 83596 | [83596-the-treasure-seekers-of-lady-luck.json](./83596-the-treasure-seekers-of-lady-luck.json) |
 | The Treasures of Hotei | 96071 | [96071-the-treasures-of-hotei.json](./96071-the-treasures-of-hotei.json) |
@@ -7237,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
 | Time Raiders | 252232 | [252232-time-raiders.json](./252232-time-raiders.json) |
 | Time Ramesside | 9050 | [9050-time-ramesside.json](./9050-time-ramesside.json) |
+| Time Rift | 133222 | [133222-time-rift.json](./133222-time-rift.json) |
 | Time Scanner | 12865 | [12865-time-scanner.json](./12865-time-scanner.json) |
 | Time Secret | 91457 | [91457-time-secret.json](./91457-time-secret.json) |
 | Time Secret 2: Time Tunnel | 91458 | [91458-time-secret-2-time-tunnel.json](./91458-time-secret-2-time-tunnel.json) |
@@ -7275,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timekeepers Expansion | 210702 | [210702-timekeepers-expansion.json](./210702-timekeepers-expansion.json) |
 | Timelake: Time Travel Tactics | 327841 | [327841-timelake-time-travel-tactics.json](./327841-timelake-time-travel-tactics.json) |
 | Timeless | 119751 | [119751-timeless.json](./119751-timeless.json) |
+| Timeless Paradox VR | 133200 | [133200-timeless-paradox-vr.json](./133200-timeless-paradox-vr.json) |
 | Timeless Solitaire Collection | 372476 | [372476-timeless-solitaire-collection.json](./372476-timeless-solitaire-collection.json) |
 | Timeless Valley | 333593 | [333593-timeless-valley.json](./333593-timeless-valley.json) |
 | Timeless: The Forgotten Town | 44597 | [44597-timeless-the-forgotten-town.json](./44597-timeless-the-forgotten-town.json) |
@@ -9490,6 +9493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial by Chat | 414332 | [414332-trial-by-chat.json](./414332-trial-by-chat.json) |
 | Trial of Ariah | 372469 | [372469-trial-of-ariah.json](./372469-trial-of-ariah.json) |
 | Trial of Greed | 353971 | [353971-trial-of-greed.json](./353971-trial-of-greed.json) |
+| Trial of the Gods: Siralim CCG | 133195 | [133195-trial-of-the-gods-siralim-ccg.json](./133195-trial-of-the-gods-siralim-ccg.json) |
 | Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
 | Trial Xtreme 4 Remastered | 208035 | [208035-trial-xtreme-4-remastered.json](./208035-trial-xtreme-4-remastered.json) |
 | Trials 2 | 140577 | [140577-trials-2.json](./140577-trials-2.json) |
@@ -9609,6 +9613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity Trigger | 202850 | [202850-trinity-trigger.json](./202850-trinity-trigger.json) |
 | Trinity Trigger: Day 1 Edition | 221947 | [221947-trinity-trigger-day-1-edition.json](./221947-trinity-trigger-day-1-edition.json) |
 | Trinity Universe | 7474 | [7474-trinity-universe.json](./7474-trinity-universe.json) |
+| Trinity x Calamity: Midara na Shitsuke to Owaru Sekai | 133245 | [133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json](./133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json) |
 | Trinkets | 355078 | [355078-trinkets.json](./355078-trinkets.json) |
 | Trinoline | 116366 | [116366-trinoline.json](./116366-trinoline.json) |
 | Trinoline: Genesis | 98374 | [98374-trinoline-genesis.json](./98374-trinoline-genesis.json) |
