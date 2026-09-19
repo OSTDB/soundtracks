@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel's Avengers: Classic Captain Marvel Pack | 137663 | [137663-lego-marvels-avengers-classic-captain-marvel-pack.json](./137663-lego-marvels-avengers-classic-captain-marvel-pack.json) |
 | LEGO Marvel's Avengers: Deluxe Edition | 53270 | [53270-lego-marvels-avengers-deluxe-edition.json](./53270-lego-marvels-avengers-deluxe-edition.json) |
 | LEGO Marvel's Avengers: Marvel's Agents of S.H.I.E.L.D. Pack | 137633 | [137633-lego-marvels-avengers-marvels-agents-of-s-h-i-e-l-d-pack.json](./137633-lego-marvels-avengers-marvels-agents-of-s-h-i-e-l-d-pack.json) |
+| LEGO Marvel's Avengers: Marvel's Ant-Man Pack | 138034 | [138034-lego-marvels-avengers-marvels-ant-man-pack.json](./138034-lego-marvels-avengers-marvels-ant-man-pack.json) |
 | LEGO Marvel's Avengers: Marvel's Captain America - Civil War Character Pack | 168780 | [168780-lego-marvels-avengers-marvels-captain-america-civil-war-character-pack.json](./168780-lego-marvels-avengers-marvels-captain-america-civil-war-character-pack.json) |
 | LEGO Marvel's Avengers: Spider-Man Character Pack | 168779 | [168779-lego-marvels-avengers-spider-man-character-pack.json](./168779-lego-marvels-avengers-spider-man-character-pack.json) |
 | Lego Merlok 2.0 Version 4.0.0 | 345593 | [345593-lego-merlok-2-0-version-4-0-0.json](./345593-lego-merlok-2-0-version-4-0-0.json) |
@@ -1337,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Librerama | 176992 | [176992-librerama.json](./176992-librerama.json) |
 | Libritopia: Librarian Simulator | 326949 | [326949-libritopia-librarian-simulator.json](./326949-libritopia-librarian-simulator.json) |
 | Libros de Chilam Balam | 188075 | [188075-libros-de-chilam-balam.json](./188075-libros-de-chilam-balam.json) |
+| Libtard: The Satire Game | 138026 | [138026-libtard-the-satire-game.json](./138026-libtard-the-satire-game.json) |
 | Licca-chan ni Naritai! | 58848 | [58848-licca-chan-ni-naritai.json](./58848-licca-chan-ni-naritai.json) |
 | Lich Legend | 159238 | [159238-lich-legend.json](./159238-lich-legend.json) |
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
