@@ -1421,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Shop Snacks: Expansion Pack 1 | 237981 | [237981-pet-shop-snacks-expansion-pack-1.json](./237981-pet-shop-snacks-expansion-pack-1.json) |
 | Pet Shop Snacks: Expansion Pack 2 | 237982 | [237982-pet-shop-snacks-expansion-pack-2.json](./237982-pet-shop-snacks-expansion-pack-2.json) |
 | Pet Show Craze | 177041 | [177041-pet-show-craze.json](./177041-pet-show-craze.json) |
+| Pet the Dog? | 179587 | [179587-pet-the-dog.json](./179587-pet-the-dog.json) |
 | Pet Tycoon | 209158 | [209158-pet-tycoon.json](./209158-pet-tycoon.json) |
 | Pet Vet 3D: Animal Hospital | 81435 | [81435-pet-vet-3d-animal-hospital.json](./81435-pet-vet-3d-animal-hospital.json) |
 | Pet'n'Run | 325833 | [325833-petnrun.json](./325833-petnrun.json) |
@@ -1597,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobos Down | 285462 | [285462-phobos-down.json](./285462-phobos-down.json) |
 | Phobos Vector Prime: The First Ring | 111057 | [111057-phobos-vector-prime-the-first-ring.json](./111057-phobos-vector-prime-the-first-ring.json) |
 | Phocas Island 2 | 256859 | [256859-phocas-island-2.json](./256859-phocas-island-2.json) |
+| Phoebe Bridgers Song Crafter | 179607 | [179607-phoebe-bridgers-song-crafter.json](./179607-phoebe-bridgers-song-crafter.json) |
 | Phoebe Flingle Finger | 183569 | [183569-phoebe-flingle-finger.json](./183569-phoebe-flingle-finger.json) |
 | Phoenix | 55015 | [55015-phoenix.json](./55015-phoenix.json) |
 | Phoenix | 71477 | [71477-phoenix.json](./71477-phoenix.json) |
@@ -2063,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping | 307600 | [307600-ping.json](./307600-ping.json) |
 | Ping | 90641 | [90641-ping.json](./90641-ping.json) |
 | Ping & Pong | 400909 | [400909-ping-and-pong.json](./400909-ping-and-pong.json) |
+| Ping Bomb | 179593 | [179593-ping-bomb.json](./179593-ping-bomb.json) |
 | Ping Of Death: Odyssey Live | 375862 | [375862-ping-of-death-odyssey-live.json](./375862-ping-of-death-odyssey-live.json) |
 | Ping Pong | 247006 | [247006-ping-pong.json](./247006-ping-pong.json) |
 | Ping Pong Space | 130965 | [130965-ping-pong-space.json](./130965-ping-pong-space.json) |
@@ -2166,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Twist | 415971 | [415971-pirate-twist.json](./415971-pirate-twist.json) |
 | Pirate's Den Renovator | 211185 | [211185-pirates-den-renovator.json](./211185-pirates-den-renovator.json) |
 | Pirate's Solitaire | 195715 | [195715-pirates-solitaire.json](./195715-pirates-solitaire.json) |
+| Pirated Code | 179612 | [179612-pirated-code.json](./179612-pirated-code.json) |
 | Pirateer: High Seas | 253575 | [253575-pirateer-high-seas.json](./253575-pirateer-high-seas.json) |
 | Piratepoly Gold: Caribbean Treasure | 218723 | [218723-piratepoly-gold-caribbean-treasure.json](./218723-piratepoly-gold-caribbean-treasure.json) |
 | Pirates | 197378 | [197378-pirates.json](./197378-pirates.json) |
@@ -4404,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Playtime: Phase 3 - Forsaken | 271727 | [271727-project-playtime-phase-3-forsaken.json](./271727-project-playtime-phase-3-forsaken.json) |
 | Project Possession | 211950 | [211950-project-possession.json](./211950-project-possession.json) |
 | Project Prison | 157190 | [157190-project-prison.json](./157190-project-prison.json) |
+| Project Ptocheia | 179573 | [179573-project-ptocheia.json](./179573-project-ptocheia.json) |
 | Project R | 220661 | [220661-project-r.json](./220661-project-r.json) |
 | Project R | 313104 | [313104-project-r.json](./313104-project-r.json) |
 | Project Ragtag | 75120 | [75120-project-ragtag.json](./75120-project-ragtag.json) |
@@ -4662,6 +4667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
 | Psychic Storm | 280322 | [280322-psychic-storm.json](./280322-psychic-storm.json) |
+| Psycho | 179574 | [179574-psycho.json](./179574-psycho.json) |
 | Psycho Dream | 42420 | [42420-psycho-dream.json](./42420-psycho-dream.json) |
 | Psycho Fear | 239734 | [239734-psycho-fear.json](./239734-psycho-fear.json) |
 | Psycho Pigs | 59949 | [59949-psycho-pigs.json](./59949-psycho-pigs.json) |
