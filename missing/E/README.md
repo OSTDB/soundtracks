@@ -1945,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Zenith - Quadrant 3 | 329917 | [329917-eve-online-zenith-quadrant-3.json](./329917-eve-online-zenith-quadrant-3.json) |
 | EVE Vanguard | 277846 | [277846-eve-vanguard.json](./277846-eve-vanguard.json) |
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
+| Even in Arcadia | 135022 | [135022-even-in-arcadia.json](./135022-even-in-arcadia.json) |
 | Even in Arcadia, There I Am | 136421 | [136421-even-in-arcadia-there-i-am.json](./136421-even-in-arcadia-there-i-am.json) |
 | Even Lovers Drown | 408772 | [408772-even-lovers-drown.json](./408772-even-lovers-drown.json) |
 | Even the Stars | 136865 | [136865-even-the-stars.json](./136865-even-the-stars.json) |
@@ -2417,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Landings Pro | 86898 | [86898-extreme-landings-pro.json](./86898-extreme-landings-pro.json) |
 | Extreme Makeover: Home Edition | 262061 | [262061-extreme-makeover-home-edition.json](./262061-extreme-makeover-home-edition.json) |
 | Extreme Match | 105861 | [105861-extreme-match.json](./105861-extreme-match.json) |
+| Extreme Mining | 135035 | [135035-extreme-mining.json](./135035-extreme-mining.json) |
 | Extreme Offroad Racing | 320540 | [320540-extreme-offroad-racing.json](./320540-extreme-offroad-racing.json) |
 | Extreme Overtake | 323528 | [323528-extreme-overtake.json](./323528-extreme-overtake.json) |
 | Extreme Pamplona | 139232 | [139232-extreme-pamplona.json](./139232-extreme-pamplona.json) |
