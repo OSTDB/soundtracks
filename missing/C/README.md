@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cahier de Vacances pour Adultes | 269673 | [269673-cahier-de-vacances-pour-adultes.json](./269673-cahier-de-vacances-pour-adultes.json) |
 | Cahier de Vacances pour Adultes 2 | 269674 | [269674-cahier-de-vacances-pour-adultes-2.json](./269674-cahier-de-vacances-pour-adultes-2.json) |
 | Cahors Sunset | 35956 | [35956-cahors-sunset.json](./35956-cahors-sunset.json) |
+| Cai Cai Balão | 147296 | [147296-cai-cai-balao.json](./147296-cai-cai-balao.json) |
 | Caillou: Four Seasons of Fun | 137020 | [137020-caillou-four-seasons-of-fun.json](./137020-caillou-four-seasons-of-fun.json) |
 | Cain x Nica | 304609 | [304609-cain-x-nica.json](./304609-cain-x-nica.json) |
 | Cairn | 178665 | [178665-cairn.json](./178665-cairn.json) |
