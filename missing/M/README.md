@@ -4489,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Energy Supercross: The Official Videogame 3 - Monster Energy Cup | 170945 | [170945-monster-energy-supercross-the-official-videogame-3-monster-energy-cup.json](./170945-monster-energy-supercross-the-official-videogame-3-monster-energy-cup.json) |
 | Monster Energy Supercross: The Official Videogame 4 - 2Stroke Bikes Pack (125) | 170942 | [170942-monster-energy-supercross-the-official-videogame-4-2stroke-bikes-pack-125.json](./170942-monster-energy-supercross-the-official-videogame-4-2stroke-bikes-pack-125.json) |
 | Monster Energy Supercross: The Official Videogame 4 - Historical Monster Energy Cup 2011 | 170943 | [170943-monster-energy-supercross-the-official-videogame-4-historical-monster-energy-cup-2011.json](./170943-monster-energy-supercross-the-official-videogame-4-historical-monster-energy-cup-2011.json) |
+| Monster Evo | 154975 | [154975-monster-evo.json](./154975-monster-evo.json) |
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
 | Monster Feeder | 344917 | [344917-monster-feeder.json](./344917-monster-feeder.json) |
 | Monster Fishing 2018 | 102766 | [102766-monster-fishing-2018.json](./102766-monster-fishing-2018.json) |
@@ -5690,8 +5691,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Crisis | 320539 | [320539-mutant-crisis.json](./320539-mutant-crisis.json) |
 | Mutant Fighting Cup | 234193 | [234193-mutant-fighting-cup.json](./234193-mutant-fighting-cup.json) |
 | Mutant Football League 2 | 296351 | [296351-mutant-football-league-2.json](./296351-mutant-football-league-2.json) |
+| Mutant Football League: Brawltimore Razors | 154931 | [154931-mutant-football-league-brawltimore-razors.json](./154931-mutant-football-league-brawltimore-razors.json) |
 | Mutant Football League: Complete Bundle | 271469 | [271469-mutant-football-league-complete-bundle.json](./271469-mutant-football-league-complete-bundle.json) |
+| Mutant Football League: Dynasty Edition - Purple Oil Pack | 154927 | [154927-mutant-football-league-dynasty-edition-purple-oil-pack.json](./154927-mutant-football-league-dynasty-edition-purple-oil-pack.json) |
 | Mutant Football League: Dynasty Edition DLC Pack | 118973 | [118973-mutant-football-league-dynasty-edition-dlc-pack.json](./118973-mutant-football-league-dynasty-edition-dlc-pack.json) |
+| Mutant Football League: Gnashville Lycans | 154929 | [154929-mutant-football-league-gnashville-lycans.json](./154929-mutant-football-league-gnashville-lycans.json) |
+| Mutant Football League: LA Power Pack | 154926 | [154926-mutant-football-league-la-power-pack.json](./154926-mutant-football-league-la-power-pack.json) |
+| Mutant Football League: Sin Fransicko Forty Nightmares | 154928 | [154928-mutant-football-league-sin-fransicko-forty-nightmares.json](./154928-mutant-football-league-sin-fransicko-forty-nightmares.json) |
+| Mutant Football League: Snuffalo Thrills | 154930 | [154930-mutant-football-league-snuffalo-thrills.json](./154930-mutant-football-league-snuffalo-thrills.json) |
+| Mutant Football League: Terror Bay Mutantneers | 154932 | [154932-mutant-football-league-terror-bay-mutantneers.json](./154932-mutant-football-league-terror-bay-mutantneers.json) |
 | Mutant Herd | 292827 | [292827-mutant-herd.json](./292827-mutant-herd.json) |
 | Mutant Karate Canary | 214156 | [214156-mutant-karate-canary.json](./214156-mutant-karate-canary.json) |
 | Mutant Monty | 66711 | [66711-mutant-monty.json](./66711-mutant-monty.json) |
