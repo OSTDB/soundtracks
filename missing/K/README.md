@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kosmik Pirate | 300032 | [300032-kosmik-pirate.json](./300032-kosmik-pirate.json) |
 | Kosmo Azs | 257922 | [257922-kosmo-azs.json](./257922-kosmo-azs.json) |
 | Kosmo Skirmish | 291771 | [291771-kosmo-skirmish.json](./291771-kosmo-skirmish.json) |
+| Kosmonavtes: Escape Reality | 155983 | [155983-kosmonavtes-escape-reality.json](./155983-kosmonavtes-escape-reality.json) |
 | Kosmos: The Discovery of Nature | 276194 | [276194-kosmos-the-discovery-of-nature.json](./276194-kosmos-the-discovery-of-nature.json) |
 | Kosmosis | 382345 | [382345-kosmosis.json](./382345-kosmosis.json) |
 | KosmoSquad | 154561 | [154561-kosmosquad.json](./154561-kosmosquad.json) |
