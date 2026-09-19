@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Go | 262380 | [262380-racing-go.json](./262380-racing-go.json) |
 | Racing Heroes | 197338 | [197338-racing-heroes.json](./197338-racing-heroes.json) |
 | Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
+| Racing Legends | 174214 | [174214-racing-legends.json](./174214-racing-legends.json) |
 | Racing Manager 2014 | 9419 | [9419-racing-manager-2014.json](./9419-racing-manager-2014.json) |
 | Racing Pitch | 70955 | [70955-racing-pitch.json](./70955-racing-pitch.json) |
 | Racing Rivals | 38904 | [38904-racing-rivals.json](./38904-racing-rivals.json) |
@@ -304,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Estate | 387367 | [387367-rail-estate.json](./387367-rail-estate.json) |
 | Rail Gunner | 263567 | [263567-rail-gunner.json](./263567-rail-gunner.json) |
 | Rail Heist | 318410 | [318410-rail-heist.json](./318410-rail-heist.json) |
+| Rail Racing | 174215 | [174215-rail-racing.json](./174215-rail-racing.json) |
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
 | Rail Theory | 28773 | [28773-rail-theory.json](./28773-rail-theory.json) |
 | Railbreak: 90s Throwback Collection | 335102 | [335102-railbreak-90s-throwback-collection.json](./335102-railbreak-90s-throwback-collection.json) |
@@ -542,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Ascent | 413663 | [413663-rapid-ascent.json](./413663-rapid-ascent.json) |
 | Rapid Assault | 62137 | [62137-rapid-assault.json](./62137-rapid-assault.json) |
 | Rapid Deployment Force: Global Conflict | 46606 | [46606-rapid-deployment-force-global-conflict.json](./46606-rapid-deployment-force-global-conflict.json) |
+| Rapid Magic Arcane Crystals | 174210 | [174210-rapid-magic-arcane-crystals.json](./174210-rapid-magic-arcane-crystals.json) |
 | Rapid Reload | 45013 | [45013-rapid-reload.json](./45013-rapid-reload.json) |
 | Rapid Retort | 211186 | [211186-rapid-retort.json](./211186-rapid-retort.json) |
 | Rapid River | 65471 | [65471-rapid-river.json](./65471-rapid-river.json) |
@@ -1532,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replica Club Route D | 404249 | [404249-replica-club-route-d.json](./404249-replica-club-route-d.json) |
 | Replica Island | 61625 | [61625-replica-island.json](./61625-replica-island.json) |
 | Replica: Atomic Punk | 61045 | [61045-replica-atomic-punk.json](./61045-replica-atomic-punk.json) |
+| Replica: Temporary Safety | 174218 | [174218-replica-temporary-safety.json](./174218-replica-temporary-safety.json) |
 | Replicart | 41390 | [41390-replicart.json](./41390-replicart.json) |
 | Replics | 129765 | [129765-replics.json](./129765-replics.json) |
 | Replik Survivors | 266296 | [266296-replik-survivors.json](./266296-replik-survivors.json) |
@@ -2448,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River City: Knights of Justice | 36549 | [36549-river-city-knights-of-justice.json](./36549-river-city-knights-of-justice.json) |
 | River Crossing IQ - Trivia Quiz | 117749 | [117749-river-crossing-iq-trivia-quiz.json](./117749-river-crossing-iq-trivia-quiz.json) |
 | River King: A Wonderful Journey | 20518 | [20518-river-king-a-wonderful-journey.json](./20518-river-king-a-wonderful-journey.json) |
+| River Legends | 174206 | [174206-river-legends.json](./174206-river-legends.json) |
 | River Raid 3D | 204070 | [204070-river-raid-3d.json](./204070-river-raid-3d.json) |
 | River Rescue | 23897 | [23897-river-rescue.json](./23897-river-rescue.json) |
 | River Runners | 384510 | [384510-river-runners.json](./384510-river-runners.json) |
@@ -2736,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Frog | 277949 | [277949-rocket-frog.json](./277949-rocket-frog.json) |
 | Rocket Hat | 329397 | [329397-rocket-hat.json](./329397-rocket-hat.json) |
 | Rocket Horizon | 256928 | [256928-rocket-horizon.json](./256928-rocket-horizon.json) |
+| Rocket Joust | 174183 | [174183-rocket-joust.json](./174183-rocket-joust.json) |
 | Rocket Jump Race | 273653 | [273653-rocket-jump-race.json](./273653-rocket-jump-race.json) |
 | Rocket Jumping Sounds Dangerous | 179131 | [179131-rocket-jumping-sounds-dangerous.json](./179131-rocket-jumping-sounds-dangerous.json) |
 | Rocket Knight Adventures: Re-Sparked | 283095 | [283095-rocket-knight-adventures-re-sparked.json](./283095-rocket-knight-adventures-re-sparked.json) |
