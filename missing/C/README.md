@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Go Fast | 206121 | [206121-car-go-fast.json](./206121-car-go-fast.json) |
 | Car Guy Soundboard | 323375 | [323375-car-guy-soundboard.json](./323375-car-guy-soundboard.json) |
 | Car Jamboree | 40232 | [40232-car-jamboree.json](./40232-car-jamboree.json) |
+| Car Jump | 164912 | [164912-car-jump.json](./164912-car-jump.json) |
 | Car Mechanic Flipper | 113661 | [113661-car-mechanic-flipper.json](./113661-car-mechanic-flipper.json) |
 | Car Mechanic Manager | 34569 | [34569-car-mechanic-manager.json](./34569-car-mechanic-manager.json) |
 | Car Mechanic Pinball | 219301 | [219301-car-mechanic-pinball.json](./219301-car-mechanic-pinball.json) |
@@ -3928,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construct&Conquer: The Levant in the 12th Century | 291056 | [291056-construct-and-conquer-the-levant-in-the-12th-century.json](./291056-construct-and-conquer-the-levant-in-the-12th-century.json) |
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
 | Construction Machines Sim | 201141 | [201141-construction-machines-sim.json](./201141-construction-machines-sim.json) |
+| Construction Playground | 164903 | [164903-construction-playground.json](./164903-construction-playground.json) |
 | Construction Ramp Jumping | 212358 | [212358-construction-ramp-jumping.json](./212358-construction-ramp-jumping.json) |
 | Construction Simulator 2 | 87338 | [87338-construction-simulator-2.json](./87338-construction-simulator-2.json) |
 | Construction Simulator 2+3 | 139934 | [139934-construction-simulator-2-3.json](./139934-construction-simulator-2-3.json) |
@@ -5499,6 +5501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubix Classic | 67981 | [67981-cubix-classic.json](./67981-cubix-classic.json) |
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
 | Cubix: Robots For Everyone - Race 'N Robots | 49897 | [49897-cubix-robots-for-everyone-race-n-robots.json](./49897-cubix-robots-for-everyone-race-n-robots.json) |
+| Cubiya | 164881 | [164881-cubiya.json](./164881-cubiya.json) |
 | Cuboid | 23024 | [23024-cuboid.json](./23024-cuboid.json) |
 | Cubosphere | 238065 | [238065-cubosphere.json](./238065-cubosphere.json) |
 | Cubot | 36000 | [36000-cubot.json](./36000-cubot.json) |
