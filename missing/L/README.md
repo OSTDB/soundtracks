@@ -2534,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Louny Balloony | 217378 | [217378-louny-balloony.json](./217378-louny-balloony.json) |
 | Lovanium: The Rising Suns | 265633 | [265633-lovanium-the-rising-suns.json](./265633-lovanium-the-rising-suns.json) |
 | Love 2 Torokko | 143667 | [143667-love-2-torokko.json](./143667-love-2-torokko.json) |
+| Love 3 | 161222 | [161222-love-3.json](./161222-love-3.json) |
 | Love Accident | 186829 | [186829-love-accident.json](./186829-love-accident.json) |
 | Love Affairs | 303785 | [303785-love-affairs.json](./303785-love-affairs.json) |
 | Love Always Runs Away | 362885 | [362885-love-always-runs-away.json](./362885-love-always-runs-away.json) |
