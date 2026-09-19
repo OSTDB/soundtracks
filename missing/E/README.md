@@ -2422,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye Transplant : ER Emergency Hospital | 100855 | [100855-eye-transplant-er-emergency-hospital.json](./100855-eye-transplant-er-emergency-hospital.json) |
 | Eye-tai: Kompeito-hen | 202764 | [202764-eye-tai-kompeito-hen.json](./202764-eye-tai-kompeito-hen.json) |
 | Eye-Witness | 271994 | [271994-eye-witness.json](./271994-eye-witness.json) |
+| Eye, caramba! | 151032 | [151032-eye-caramba.json](./151032-eye-caramba.json) |
 | Eye2Eye | 277421 | [277421-eye2eye.json](./277421-eye2eye.json) |
 | eyEar | 181390 | [181390-eyear.json](./181390-eyear.json) |
 | Eyeb | 149044 | [149044-eyeb.json](./149044-eyeb.json) |
