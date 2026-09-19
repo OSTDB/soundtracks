@@ -2885,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClickBit | 76644 | [76644-clickbit.json](./76644-clickbit.json) |
 | ClickCells: CPU Girls | 385040 | [385040-clickcells-cpu-girls.json](./385040-clickcells-cpu-girls.json) |
 | ClickCells: Summer | 173834 | [173834-clickcells-summer.json](./173834-clickcells-summer.json) |
+| ClickCells: Winter Lady | 168213 | [168213-clickcells-winter-lady.json](./168213-clickcells-winter-lady.json) |
 | ClickCrafter | 413740 | [413740-clickcrafter.json](./413740-clickcrafter.json) |
 | ClickDragType | 320170 | [320170-clickdragtype.json](./320170-clickdragtype.json) |
 | Clickenzee | 84270 | [84270-clickenzee.json](./84270-clickenzee.json) |
