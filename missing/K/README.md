@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kara no Oukoku | 380433 | [380433-kara-no-oukoku.json](./380433-kara-no-oukoku.json) |
 | Kara's Darkness Chapter 1 | 102154 | [102154-karas-darkness-chapter-1.json](./102154-karas-darkness-chapter-1.json) |
 | KaraDedeler 1989 | 165712 | [165712-karadedeler-1989.json](./165712-karadedeler-1989.json) |
+| Karakai Simuation Game | 133248 | [133248-karakai-simuation-game.json](./133248-karakai-simuation-game.json) |
 | Karakia Shooter | 158139 | [158139-karakia-shooter.json](./158139-karakia-shooter.json) |
 | Karakuri Kengou Den Musashi Lord | 65436 | [65436-karakuri-kengou-den-musashi-lord.json](./65436-karakuri-kengou-den-musashi-lord.json) |
 | Karakuri Kengou-den: Musashi Road - Harikiri Daishuugyou! | 346027 | [346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json](./346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json) |
@@ -994,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Two Crowns: Norse Lands | 175663 | [175663-kingdom-two-crowns-norse-lands.json](./175663-kingdom-two-crowns-norse-lands.json) |
 | Kingdom Under Fire: A War of Heroes | 18112 | [18112-kingdom-under-fire-a-war-of-heroes.json](./18112-kingdom-under-fire-a-war-of-heroes.json) |
 | Kingdom Under Fire: Gold | 135820 | [135820-kingdom-under-fire-gold.json](./135820-kingdom-under-fire-gold.json) |
+| Kingdom vs Zombies | 133204 | [133204-kingdom-vs-zombies.json](./133204-kingdom-vs-zombies.json) |
 | Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
 | Kingdom Winds | 224031 | [224031-kingdom-winds.json](./224031-kingdom-winds.json) |
 | Kingdom: Classic | 13686 | [13686-kingdom-classic.json](./13686-kingdom-classic.json) |
@@ -1398,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knock-knock | 13153 | [13153-knock-knock.json](./13153-knock-knock.json) |
 | Knock'Em Out | 224637 | [224637-knockem-out.json](./224637-knockem-out.json) |
 | Knockback Knockout | 226452 | [226452-knockback-knockout.json](./226452-knockback-knockout.json) |
+| Knockback: The Awakening | 133240 | [133240-knockback-the-awakening.json](./133240-knockback-the-awakening.json) |
 | Knockbots | 212291 | [212291-knockbots.json](./212291-knockbots.json) |
 | KnockDown | 158040 | [158040-knockdown.json](./158040-knockdown.json) |
 | Knocking Up My Nympho Neighbors | 235828 | [235828-knocking-up-my-nympho-neighbors.json](./235828-knocking-up-my-nympho-neighbors.json) |
