@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Adventure | 282715 | [282715-elf-adventure.json](./282715-elf-adventure.json) |
 | Elf Epizode One | 114356 | [114356-elf-epizode-one.json](./114356-elf-epizode-one.json) |
 | Elf Girl Pinball | 212891 | [212891-elf-girl-pinball.json](./212891-elf-girl-pinball.json) |
+| Elf-Mail | 178524 | [178524-elf-mail.json](./178524-elf-mail.json) |
 | Elfenwelt | 73243 | [73243-elfenwelt.json](./73243-elfenwelt.json) |
 | Elfie | 304867 | [304867-elfie.json](./304867-elfie.json) |
 | Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
