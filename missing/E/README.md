@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Rivers II: New Horizons - Collector's Edition | 250355 | [250355-elven-rivers-ii-new-horizons-collectors-edition.json](./250355-elven-rivers-ii-new-horizons-collectors-edition.json) |
 | Elven Rivers VI: Guardians of Hope - Collector's Edition | 358406 | [358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json](./358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json) |
 | Elven Rivers: The Forgotten Lands - Collector's Edition | 239643 | [239643-elven-rivers-the-forgotten-lands-collectors-edition.json](./239643-elven-rivers-the-forgotten-lands-collectors-edition.json) |
+| Elven Truth | 149434 | [149434-elven-truth.json](./149434-elven-truth.json) |
 | Elven Warrior | 13634 | [13634-elven-warrior.json](./13634-elven-warrior.json) |
 | ElvenEscape | 203945 | [203945-elvenescape.json](./203945-elvenescape.json) |
 | Elves | 295940 | [295940-elves.json](./295940-elves.json) |
@@ -2225,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exipath | 400900 | [400900-exipath.json](./400900-exipath.json) |
 | Exist | 212488 | [212488-exist.json](./212488-exist.json) |
 | Existence | 113056 | [113056-existence.json](./113056-existence.json) |
+| Existensis | 149445 | [149445-existensis.json](./149445-existensis.json) |
 | Existentia | 31805 | [31805-existentia.json](./31805-existentia.json) |
 | Existential | 193503 | [193503-existential.json](./193503-existential.json) |
 | Exit 13 Gallery Escape | 291243 | [291243-exit-13-gallery-escape.json](./291243-exit-13-gallery-escape.json) |
