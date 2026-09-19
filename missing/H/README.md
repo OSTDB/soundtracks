@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Harry in Zombie Wars | 93057 | [93057-halloween-harry-in-zombie-wars.json](./93057-halloween-harry-in-zombie-wars.json) |
 | Halloween Horror | 322781 | [322781-halloween-horror.json](./322781-halloween-horror.json) |
 | Halloween in Hollywood | 234043 | [234043-halloween-in-hollywood.json](./234043-halloween-in-hollywood.json) |
+| Halloween is Crazy as Hell | 172026 | [172026-halloween-is-crazy-as-hell.json](./172026-halloween-is-crazy-as-hell.json) |
 | Halloween Jigsaw Puzzles: Puzzle Game for Kids & Toddlers | 187359 | [187359-halloween-jigsaw-puzzles-puzzle-game-for-kids-and-toddlers.json](./187359-halloween-jigsaw-puzzles-puzzle-game-for-kids-and-toddlers.json) |
 | Halloween Madness | 75118 | [75118-halloween-madness.json](./75118-halloween-madness.json) |
 | Halloween Mysteries | 30806 | [30806-halloween-mysteries.json](./30806-halloween-mysteries.json) |
@@ -1768,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic III: The Shadow of Death | 366 | [366-heroes-of-might-and-magic-iii-the-shadow-of-death.json](./366-heroes-of-might-and-magic-iii-the-shadow-of-death.json) |
 | Heroes of Might and Magic IV: Winds of War | 369 | [369-heroes-of-might-and-magic-iv-winds-of-war.json](./369-heroes-of-might-and-magic-iv-winds-of-war.json) |
 | Heroes of Normandie: Bulletproof Edition | 53190 | [53190-heroes-of-normandie-bulletproof-edition.json](./53190-heroes-of-normandie-bulletproof-edition.json) |
+| Heroes of Normandie: US Rangers | 172010 | [172010-heroes-of-normandie-us-rangers.json](./172010-heroes-of-normandie-us-rangers.json) |
 | Heroes of Rome: Dangerous Roads | 195722 | [195722-heroes-of-rome-dangerous-roads.json](./195722-heroes-of-rome-dangerous-roads.json) |
 | Heroes of Scene | 35623 | [35623-heroes-of-scene.json](./35623-heroes-of-scene.json) |
 | Heroes of Science and Fiction | 219606 | [219606-heroes-of-science-and-fiction.json](./219606-heroes-of-science-and-fiction.json) |
@@ -2422,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitstream | 268454 | [268454-hitstream.json](./268454-hitstream.json) |
 | Hituzibuster | 229371 | [229371-hituzibuster.json](./229371-hituzibuster.json) |
 | Hivaneph: The Legend of Elles | 335372 | [335372-hivaneph-the-legend-of-elles.json](./335372-hivaneph-the-legend-of-elles.json) |
+| Hive | 172032 | [172032-hive.json](./172032-hive.json) |
 | Hive | 5604 | [5604-hive.json](./5604-hive.json) |
 | Hive and Seek | 304176 | [304176-hive-and-seek.json](./304176-hive-and-seek.json) |
 | Hive Defender | 190193 | [190193-hive-defender.json](./190193-hive-defender.json) |
