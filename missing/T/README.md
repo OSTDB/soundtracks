@@ -1400,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Avoider | 278508 | [278508-terra-avoider.json](./278508-terra-avoider.json) |
 | Terra Cresta II | 37728 | [37728-terra-cresta-ii.json](./37728-terra-cresta-ii.json) |
 | Terra Farmers | 54428 | [54428-terra-farmers.json](./54428-terra-farmers.json) |
+| Terra Firma | 155509 | [155509-terra-firma.json](./155509-terra-firma.json) |
 | Terra Flame | 197265 | [197265-terra-flame.json](./197265-terra-flame.json) |
 | Terra Nil | 152424 | [152424-terra-nil.json](./152424-terra-nil.json) |
 | Terra Nil: Deluxe Edition | 243138 | [243138-terra-nil-deluxe-edition.json](./243138-terra-nil-deluxe-edition.json) |
@@ -4061,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Mythologies | 17022 | [17022-the-lost-mythologies.json](./17022-the-lost-mythologies.json) |
 | The Lost Painter | 386120 | [386120-the-lost-painter.json](./386120-the-lost-painter.json) |
 | The Lost Ride | 46560 | [46560-the-lost-ride.json](./46560-the-lost-ride.json) |
+| The Lost Robot: Jigsaw Puzzle Stories | 155470 | [155470-the-lost-robot-jigsaw-puzzle-stories.json](./155470-the-lost-robot-jigsaw-puzzle-stories.json) |
 | The Lost Sheep | 238528 | [238528-the-lost-sheep.json](./238528-the-lost-sheep.json) |
 | The Lost Ship | 61102 | [61102-the-lost-ship.json](./61102-the-lost-ship.json) |
 | The Lost Shrine: Escape Room | 149606 | [149606-the-lost-shrine-escape-room.json](./149606-the-lost-shrine-escape-room.json) |
