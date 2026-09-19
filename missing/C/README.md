@@ -5904,6 +5904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberdyne Warrior | 47234 | [47234-cyberdyne-warrior.json](./47234-cyberdyne-warrior.json) |
 | Cyberference | 244490 | [244490-cyberference.json](./244490-cyberference.json) |
 | Cyberflow | 61679 | [61679-cyberflow.json](./61679-cyberflow.json) |
+| Cybergeist | 156537 | [156537-cybergeist.json](./156537-cybergeist.json) |
 | CyberGlide VR | 120319 | [120319-cyberglide-vr.json](./120319-cyberglide-vr.json) |
 | CyberHeroes Arena DX | 235300 | [235300-cyberheroes-arena-dx.json](./235300-cyberheroes-arena-dx.json) |
 | Cyberhold | 186156 | [186156-cyberhold.json](./186156-cyberhold.json) |
