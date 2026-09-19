@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalimat Karash | 314637 | [314637-kalimat-karash.json](./314637-kalimat-karash.json) |
 | Kalimba: The Dark Void - Solo | 170377 | [170377-kalimba-the-dark-void-solo.json](./170377-kalimba-the-dark-void-solo.json) |
 | Kalis Car Game | 277004 | [277004-kalis-car-game.json](./277004-kalis-car-game.json) |
+| Kalling Kingdom | 130731 | [130731-kalling-kingdom.json](./130731-kalling-kingdom.json) |
 | Kalpa | 170466 | [170466-kalpa.json](./170466-kalpa.json) |
 | Kalpa: Cosmic Symphony | 292295 | [292295-kalpa-cosmic-symphony.json](./292295-kalpa-cosmic-symphony.json) |
 | Kalpa: Cosmic Symphony - Camellia Pack | 397712 | [397712-kalpa-cosmic-symphony-camellia-pack.json](./397712-kalpa-cosmic-symphony-camellia-pack.json) |
@@ -175,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamikaze Saucers | 40733 | [40733-kamikaze-saucers.json](./40733-kamikaze-saucers.json) |
 | Kamikazo VR | 82142 | [82142-kamikazo-vr.json](./82142-kamikazo-vr.json) |
 | Kamiko | 28015 | [28015-kamiko.json](./28015-kamiko.json) |
+| Kamikuishiki-mura Monogatari | 130768 | [130768-kamikuishiki-mura-monogatari.json](./130768-kamikuishiki-mura-monogatari.json) |
 | Kaminariko Konpeki no Akira | 221246 | [221246-kaminariko-konpeki-no-akira.json](./221246-kaminariko-konpeki-no-akira.json) |
 | Kamiori | 104647 | [104647-kamiori.json](./104647-kamiori.json) |
 | Kamisama no Hitsugi | 328215 | [328215-kamisama-no-hitsugi.json](./328215-kamisama-no-hitsugi.json) |
@@ -389,7 +391,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Girls: Busty Bear | 378810 | [378810-kawaii-girls-busty-bear.json](./378810-kawaii-girls-busty-bear.json) |
 | Kawaii Hentai Girls 2 | 203553 | [203553-kawaii-hentai-girls-2.json](./203553-kawaii-hentai-girls-2.json) |
 | Kawaii Islands | 176880 | [176880-kawaii-islands.json](./176880-kawaii-islands.json) |
+| Kawaii Koneko 3D | 130729 | [130729-kawaii-koneko-3d.json](./130729-kawaii-koneko-3d.json) |
 | Kawaii Koneko DS 2 | 68005 | [68005-kawaii-koneko-ds-2.json](./68005-kawaii-koneko-ds-2.json) |
+| Kawaii Koneko DS 3 | 130728 | [130728-kawaii-koneko-ds-3.json](./130728-kawaii-koneko-ds-3.json) |
 | Kawaii Memory | 158138 | [158138-kawaii-memory.json](./158138-kawaii-memory.json) |
 | Kawaii Pet Shop Monogatari | 228580 | [228580-kawaii-pet-shop-monogatari.json](./228580-kawaii-pet-shop-monogatari.json) |
 | Kawaii Pet to Kurasou! Wan Nyan & Mini Mini Animal | 222402 | [222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json](./222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json) |
@@ -1722,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kukumushi Virtual Pet | 189134 | [189134-kukumushi-virtual-pet.json](./189134-kukumushi-virtual-pet.json) |
 | Kula | 164992 | [164992-kula.json](./164992-kula.json) |
 | Kulebra and the Souls of Limbo | 204533 | [204533-kulebra-and-the-souls-of-limbo.json](./204533-kulebra-and-the-souls-of-limbo.json) |
+| Kuma no Pooh-San: 100 Acre no Mori no Cooking Book | 130752 | [130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json](./130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json) |
 | Kuma Sushi Bar | 200745 | [200745-kuma-sushi-bar.json](./200745-kuma-sushi-bar.json) |
 | Kumamaru Adventure | 297638 | [297638-kumamaru-adventure.json](./297638-kumamaru-adventure.json) |
 | Kumamon Run | 283275 | [283275-kumamon-run.json](./283275-kumamon-run.json) |
