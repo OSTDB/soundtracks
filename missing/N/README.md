@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naemo | 385216 | [385216-naemo.json](./385216-naemo.json) |
 | Nagai | 386265 | [386265-nagai.json](./386265-nagai.json) |
 | Nagaisan | 316995 | [316995-nagaisan.json](./316995-nagaisan.json) |
+| Nagamaki Grind | 180689 | [180689-nagamaki-grind.json](./180689-nagamaki-grind.json) |
 | Nagayami Nights | 286128 | [286128-nagayami-nights.json](./286128-nagayami-nights.json) |
 | Naheulbeuk's Dungeon Master | 252851 | [252851-naheulbeuks-dungeon-master.json](./252851-naheulbeuks-dungeon-master.json) |
 | Naheulbeuk's Dungeon Master: Steward Edition | 277029 | [277029-naheulbeuks-dungeon-master-steward-edition.json](./277029-naheulbeuks-dungeon-master-steward-edition.json) |
