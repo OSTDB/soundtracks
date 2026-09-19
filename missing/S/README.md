@@ -2049,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Tower: Abyss | 9503 | [9503-shadow-tower-abyss.json](./9503-shadow-tower-abyss.json) |
 | Shadow Vamp | 102737 | [102737-shadow-vamp.json](./102737-shadow-vamp.json) |
 | Shadow Walker | 252726 | [252726-shadow-walker.json](./252726-shadow-walker.json) |
+| Shadow Walls | 149933 | [149933-shadow-walls.json](./149933-shadow-walls.json) |
 | Shadow Warren | 356631 | [356631-shadow-warren.json](./356631-shadow-warren.json) |
 | Shadow Warrior | 6057 | [6057-shadow-warrior.json](./6057-shadow-warrior.json) |
 | Shadow Warrior 2 Deluxe | 51915 | [51915-shadow-warrior-2-deluxe.json](./51915-shadow-warrior-2-deluxe.json) |
@@ -4238,6 +4239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Bomber | 247035 | [247035-smart-bomber.json](./247035-smart-bomber.json) |
 | Smart Boy's Gameroom II | 208958 | [208958-smart-boys-gameroom-ii.json](./208958-smart-boys-gameroom-ii.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
+| Smart Fart | 149938 | [149938-smart-fart.json](./149938-smart-fart.json) |
 | Smart Frog | 246480 | [246480-smart-frog.json](./246480-smart-frog.json) |
 | Smart Frog | 358941 | [358941-smart-frog.json](./358941-smart-frog.json) |
 | Smart Games Puzzle Challenge 2 | 73256 | [73256-smart-games-puzzle-challenge-2.json](./73256-smart-games-puzzle-challenge-2.json) |
@@ -4876,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Warden | 101603 | [101603-solar-warden.json](./101603-solar-warden.json) |
 | Solares | 291990 | [291990-solares.json](./291990-solares.json) |
 | Solarfall | 271484 | [271484-solarfall.json](./271484-solarfall.json) |
+| Solargene | 149928 | [149928-solargene.json](./149928-solargene.json) |
 | Solarian II | 229811 | [229811-solarian-ii.json](./229811-solarian-ii.json) |
 | Solaright | 28934 | [28934-solaright.json](./28934-solaright.json) |
 | Solaris 1.0.4. | 93000 | [93000-solaris-1-0-4.json](./93000-solaris-1-0-4.json) |
@@ -8870,6 +8873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Companion | 103543 | [103543-sudoku-companion.json](./103543-sudoku-companion.json) |
 | Sudoku Constellation | 292281 | [292281-sudoku-constellation.json](./292281-sudoku-constellation.json) |
 | Sudoku Deluxe | 86733 | [86733-sudoku-deluxe.json](./86733-sudoku-deluxe.json) |
+| Sudoku Dreams | 149919 | [149919-sudoku-dreams.json](./149919-sudoku-dreams.json) |
 | Sudoku for Kids | 268481 | [268481-sudoku-for-kids.json](./268481-sudoku-for-kids.json) |
 | Sudoku for Kids | 67237 | [67237-sudoku-for-kids.json](./67237-sudoku-for-kids.json) |
 | Sudoku G1 | 266910 | [266910-sudoku-g1.json](./266910-sudoku-g1.json) |
@@ -10246,6 +10250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstition BlackCat | 330331 | [330331-superstition-blackcat.json](./330331-superstition-blackcat.json) |
 | Superstore | 328482 | [328482-superstore.json](./328482-superstore.json) |
 | SuperSuperMarket! | 302364 | [302364-supersupermarket.json](./302364-supersupermarket.json) |
+| SuperTanks | 149939 | [149939-supertanks.json](./149939-supertanks.json) |
 | SuperTotalCarnage! | 230356 | [230356-supertotalcarnage.json](./230356-supertotalcarnage.json) |
 | SuperTrucks Offroad Racing | 237384 | [237384-supertrucks-offroad-racing.json](./237384-supertrucks-offroad-racing.json) |
 | SuperTux Wii | 205620 | [205620-supertux-wii.json](./205620-supertux-wii.json) |
