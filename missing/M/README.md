@@ -3612,6 +3612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Guns | 55846 | [55846-mini-guns.json](./55846-mini-guns.json) |
 | Mini Island Challenge Bundle | 147426 | [147426-mini-island-challenge-bundle.json](./147426-mini-island-challenge-bundle.json) |
 | Mini Island: Aroma | 192371 | [192371-mini-island-aroma.json](./192371-mini-island-aroma.json) |
+| Mini Island: Autumn | 166601 | [166601-mini-island-autumn.json](./166601-mini-island-autumn.json) |
 | Mini Jumper | 163990 | [163990-mini-jumper.json](./163990-mini-jumper.json) |
 | Mini Leap | 209707 | [209707-mini-leap.json](./209707-mini-leap.json) |
 | Mini Lucy | 403705 | [403705-mini-lucy.json](./403705-mini-lucy.json) |
