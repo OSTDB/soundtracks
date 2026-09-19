@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T12:32:37.272Z",
-  "total_missing": 92221,
+  "generated_at": "2026-09-19T12:47:11.896Z",
+  "total_missing": 92271,
   "games": [
     {
       "igdb_id": 176875,
@@ -193086,6 +193086,11 @@
       "igdb_id": 153397,
       "game_name": "Jewel Match Atlantis Solitaire 2",
       "file": "missing/J/153397-jewel-match-atlantis-solitaire-2.json"
+    },
+    {
+      "igdb_id": 153292,
+      "game_name": "Jewel Match Atlantis Solitaire 2: Collector's Edition",
+      "file": "missing/J/153292-jewel-match-atlantis-solitaire-2-collectors-edition.json"
     },
     {
       "igdb_id": 381596,
@@ -420993,6 +420998,36 @@
       "file": "missing/T/11015-trainz-railroad-simulator-2007.json"
     },
     {
+      "igdb_id": 153270,
+      "game_name": "Trainz Railroad Simulator 2019: Amtrak P42DC - Phase III",
+      "file": "missing/T/153270-trainz-railroad-simulator-2019-amtrak-p42dc-phase-iii.json"
+    },
+    {
+      "igdb_id": 153259,
+      "game_name": "Trainz Railroad Simulator 2019: Avmz Intercity 71",
+      "file": "missing/T/153259-trainz-railroad-simulator-2019-avmz-intercity-71.json"
+    },
+    {
+      "igdb_id": 153255,
+      "game_name": "Trainz Railroad Simulator 2019: Blue Comet",
+      "file": "missing/T/153255-trainz-railroad-simulator-2019-blue-comet.json"
+    },
+    {
+      "igdb_id": 153287,
+      "game_name": "Trainz Railroad Simulator 2019: British Rail Class 70 - Colas Rail",
+      "file": "missing/T/153287-trainz-railroad-simulator-2019-british-rail-class-70-colas-rail.json"
+    },
+    {
+      "igdb_id": 153280,
+      "game_name": "Trainz Railroad Simulator 2019: Canadian Rocky Mountains - Rogers Pass",
+      "file": "missing/T/153280-trainz-railroad-simulator-2019-canadian-rocky-mountains-rogers-pass.json"
+    },
+    {
+      "igdb_id": 153288,
+      "game_name": "Trainz Railroad Simulator 2019: Canadian Rocky Mountains Viktor Lake to Ross Peak and Glacier",
+      "file": "missing/T/153288-trainz-railroad-simulator-2019-canadian-rocky-mountains-viktor-lake-to-ross-peak-and-glacier.json"
+    },
+    {
       "igdb_id": 276318,
       "game_name": "Trainz Railroad Simulator 2019: CD Bmto292 109",
       "file": "missing/T/276318-trainz-railroad-simulator-2019-cd-bmto292-109.json"
@@ -421043,14 +421078,79 @@
       "file": "missing/T/292665-trainz-railroad-simulator-2019-cfr-modernised-doubledecker-pack-no-2.json"
     },
     {
+      "igdb_id": 153275,
+      "game_name": "Trainz Railroad Simulator 2019: Chicago North Western GE Dash 9 44CW",
+      "file": "missing/T/153275-trainz-railroad-simulator-2019-chicago-north-western-ge-dash-9-44cw.json"
+    },
+    {
+      "igdb_id": 153261,
+      "game_name": "Trainz Railroad Simulator 2019: CN GP9 Phase I & II",
+      "file": "missing/T/153261-trainz-railroad-simulator-2019-cn-gp9-phase-i-and-ii.json"
+    },
+    {
+      "igdb_id": 153279,
+      "game_name": "Trainz Railroad Simulator 2019: CO17-1171 Russian Loco and Tender",
+      "file": "missing/T/153279-trainz-railroad-simulator-2019-co17-1171-russian-loco-and-tender.json"
+    },
+    {
+      "igdb_id": 153286,
+      "game_name": "Trainz Railroad Simulator 2019: CO17-1374 Russian Loco and Tender",
+      "file": "missing/T/153286-trainz-railroad-simulator-2019-co17-1374-russian-loco-and-tender.json"
+    },
+    {
+      "igdb_id": 153256,
+      "game_name": "Trainz Railroad Simulator 2019: CO17-1471 Russian Loco and Tender",
+      "file": "missing/T/153256-trainz-railroad-simulator-2019-co17-1471-russian-loco-and-tender.json"
+    },
+    {
+      "igdb_id": 153253,
+      "game_name": "Trainz Railroad Simulator 2019: CO17-3173 Russian Loco and Tender",
+      "file": "missing/T/153253-trainz-railroad-simulator-2019-co17-3173-russian-loco-and-tender.json"
+    },
+    {
+      "igdb_id": 153281,
+      "game_name": "Trainz Railroad Simulator 2019: CO17-4171 Russian Loco and Tender",
+      "file": "missing/T/153281-trainz-railroad-simulator-2019-co17-4171-russian-loco-and-tender.json"
+    },
+    {
+      "igdb_id": 153271,
+      "game_name": "Trainz Railroad Simulator 2019: CO17-4173 Russian Loco and Tender",
+      "file": "missing/T/153271-trainz-railroad-simulator-2019-co17-4173-russian-loco-and-tender.json"
+    },
+    {
+      "igdb_id": 153284,
+      "game_name": "Trainz Railroad Simulator 2019: CO17-4373 Russian Loco and Tender",
+      "file": "missing/T/153284-trainz-railroad-simulator-2019-co17-4373-russian-loco-and-tender.json"
+    },
+    {
       "igdb_id": 276316,
       "game_name": "Trainz Railroad Simulator 2019: CSD Bap 117",
       "file": "missing/T/276316-trainz-railroad-simulator-2019-csd-bap-117.json"
     },
     {
+      "igdb_id": 153257,
+      "game_name": "Trainz Railroad Simulator 2019: CSX EMD SD60",
+      "file": "missing/T/153257-trainz-railroad-simulator-2019-csx-emd-sd60.json"
+    },
+    {
+      "igdb_id": 153289,
+      "game_name": "Trainz Railroad Simulator 2019: CSX Transportation GE B30-7",
+      "file": "missing/T/153289-trainz-railroad-simulator-2019-csx-transportation-ge-b30-7.json"
+    },
+    {
       "igdb_id": 190711,
       "game_name": "Trainz Railroad Simulator 2019: DB DBmu748 080",
       "file": "missing/T/190711-trainz-railroad-simulator-2019-db-dbmu748-080.json"
+    },
+    {
+      "igdb_id": 153290,
+      "game_name": "Trainz Railroad Simulator 2019: DBuz 747 Passenger Cars",
+      "file": "missing/T/153290-trainz-railroad-simulator-2019-dbuz-747-passenger-cars.json"
+    },
+    {
+      "igdb_id": 153258,
+      "game_name": "Trainz Railroad Simulator 2019: DIC-Reefer (Mechanical Refrigerator)",
+      "file": "missing/T/153258-trainz-railroad-simulator-2019-dic-reefer-mechanical-refrigerator.json"
     },
     {
       "igdb_id": 190713,
@@ -421063,9 +421163,34 @@
       "file": "missing/T/227284-trainz-railroad-simulator-2019-dr-db-dbmtrue-dbmu748-pack.json"
     },
     {
+      "igdb_id": 153266,
+      "game_name": "Trainz Railroad Simulator 2019: EMD SD40-2 - Maersk",
+      "file": "missing/T/153266-trainz-railroad-simulator-2019-emd-sd40-2-maersk.json"
+    },
+    {
       "igdb_id": 167780,
       "game_name": "Trainz Railroad Simulator 2019: ETR 1000 - Frecciarossa",
       "file": "missing/T/167780-trainz-railroad-simulator-2019-etr-1000-frecciarossa.json"
+    },
+    {
+      "igdb_id": 153276,
+      "game_name": "Trainz Railroad Simulator 2019: Japan - Model Trainz",
+      "file": "missing/T/153276-trainz-railroad-simulator-2019-japan-model-trainz.json"
+    },
+    {
+      "igdb_id": 153263,
+      "game_name": "Trainz Railroad Simulator 2019: JR Rolling Stock Pack TRS19",
+      "file": "missing/T/153263-trainz-railroad-simulator-2019-jr-rolling-stock-pack-trs19.json"
+    },
+    {
+      "igdb_id": 153272,
+      "game_name": "Trainz Railroad Simulator 2019: Leadville Subdivision",
+      "file": "missing/T/153272-trainz-railroad-simulator-2019-leadville-subdivision.json"
+    },
+    {
+      "igdb_id": 153282,
+      "game_name": "Trainz Railroad Simulator 2019: Legacy of the Burlington Northern II",
+      "file": "missing/T/153282-trainz-railroad-simulator-2019-legacy-of-the-burlington-northern-ii.json"
     },
     {
       "igdb_id": 190712,
@@ -421078,6 +421203,11 @@
       "file": "missing/T/190709-trainz-railroad-simulator-2019-model-trainz-new-south-wales-region.json"
     },
     {
+      "igdb_id": 153273,
+      "game_name": "Trainz Railroad Simulator 2019: Newcastle Shunter",
+      "file": "missing/T/153273-trainz-railroad-simulator-2019-newcastle-shunter.json"
+    },
+    {
       "igdb_id": 284915,
       "game_name": "Trainz Railroad Simulator 2019: NR Class Locomotive - JBR Indian Pacific Pack",
       "file": "missing/T/284915-trainz-railroad-simulator-2019-nr-class-locomotive-jbr-indian-pacific-pack.json"
@@ -421086,6 +421216,11 @@
       "igdb_id": 256376,
       "game_name": "Trainz Railroad Simulator 2019: NR Class Locomotive - National Rail Mega Pack",
       "file": "missing/T/256376-trainz-railroad-simulator-2019-nr-class-locomotive-national-rail-mega-pack.json"
+    },
+    {
+      "igdb_id": 153268,
+      "game_name": "Trainz Railroad Simulator 2019: NS SD60E - 6920 Veterans Unit",
+      "file": "missing/T/153268-trainz-railroad-simulator-2019-ns-sd60e-6920-veterans-unit.json"
     },
     {
       "igdb_id": 167781,
@@ -421148,6 +421283,11 @@
       "file": "missing/T/237947-trainz-railroad-simulator-2019-pro-train-db-dr-auxiliary-train.json"
     },
     {
+      "igdb_id": 153267,
+      "game_name": "Trainz Railroad Simulator 2019: QJ Steam Locomotive",
+      "file": "missing/T/153267-trainz-railroad-simulator-2019-qj-steam-locomotive.json"
+    },
+    {
       "igdb_id": 213409,
       "game_name": "Trainz Railroad Simulator 2019: QR National GE C44aci",
       "file": "missing/T/213409-trainz-railroad-simulator-2019-qr-national-ge-c44aci.json"
@@ -421158,9 +421298,29 @@
       "file": "missing/T/227285-trainz-railroad-simulator-2019-qube-ge-c44aci-pack.json"
     },
     {
+      "igdb_id": 153274,
+      "game_name": "Trainz Railroad Simulator 2019: Rheingold 1962",
+      "file": "missing/T/153274-trainz-railroad-simulator-2019-rheingold-1962.json"
+    },
+    {
       "igdb_id": 190716,
       "game_name": "Trainz Railroad Simulator 2019: Rodnye Prostory Route",
       "file": "missing/T/190716-trainz-railroad-simulator-2019-rodnye-prostory-route.json"
+    },
+    {
+      "igdb_id": 153254,
+      "game_name": "Trainz Railroad Simulator 2019: Sebino Lake, Italy",
+      "file": "missing/T/153254-trainz-railroad-simulator-2019-sebino-lake-italy.json"
+    },
+    {
+      "igdb_id": 153285,
+      "game_name": "Trainz Railroad Simulator 2019: SNCF - AGC Languedoc",
+      "file": "missing/T/153285-trainz-railroad-simulator-2019-sncf-agc-languedoc.json"
+    },
+    {
+      "igdb_id": 153262,
+      "game_name": "Trainz Railroad Simulator 2019: Southern Pacific AC4400CW 100-299",
+      "file": "missing/T/153262-trainz-railroad-simulator-2019-southern-pacific-ac4400cw-100-299.json"
     },
     {
       "igdb_id": 227286,
@@ -421178,9 +421338,49 @@
       "file": "missing/T/190715-trainz-railroad-simulator-2019-switch-model-railroad-trs19.json"
     },
     {
+      "igdb_id": 153269,
+      "game_name": "Trainz Railroad Simulator 2019: The Broadway Limited",
+      "file": "missing/T/153269-trainz-railroad-simulator-2019-the-broadway-limited.json"
+    },
+    {
       "igdb_id": 230938,
       "game_name": "Trainz Railroad Simulator 2019: The Indian Pacific",
       "file": "missing/T/230938-trainz-railroad-simulator-2019-the-indian-pacific.json"
+    },
+    {
+      "igdb_id": 153264,
+      "game_name": "Trainz Railroad Simulator 2019: The Innter Kohn Necktion Railroad",
+      "file": "missing/T/153264-trainz-railroad-simulator-2019-the-innter-kohn-necktion-railroad.json"
+    },
+    {
+      "igdb_id": 153277,
+      "game_name": "Trainz Railroad Simulator 2019: Trainz Route - Rostovsky Uzel",
+      "file": "missing/T/153277-trainz-railroad-simulator-2019-trainz-route-rostovsky-uzel.json"
+    },
+    {
+      "igdb_id": 153283,
+      "game_name": "Trainz Railroad Simulator 2019: Union Pacific GE C40-8",
+      "file": "missing/T/153283-trainz-railroad-simulator-2019-union-pacific-ge-c40-8.json"
+    },
+    {
+      "igdb_id": 153278,
+      "game_name": "Trainz Railroad Simulator 2019: US ATC Class S 160 Steam",
+      "file": "missing/T/153278-trainz-railroad-simulator-2019-us-atc-class-s-160-steam.json"
+    },
+    {
+      "igdb_id": 153291,
+      "game_name": "Trainz Railroad Simulator 2019: Victorian Railways D1 Class (Type 4 - Newport) Black",
+      "file": "missing/T/153291-trainz-railroad-simulator-2019-victorian-railways-d1-class-type-4-newport-black.json"
+    },
+    {
+      "igdb_id": 153260,
+      "game_name": "Trainz Railroad Simulator 2019: Victorian Railways Type 4 DD Class Pack - Canadian Red",
+      "file": "missing/T/153260-trainz-railroad-simulator-2019-victorian-railways-type-4-dd-class-pack-canadian-red.json"
+    },
+    {
+      "igdb_id": 153265,
+      "game_name": "Trainz Railroad Simulator 2019: Victorian Railways V Class 2 Tone Green",
+      "file": "missing/T/153265-trainz-railroad-simulator-2019-victorian-railways-v-class-2-tone-green.json"
     },
     {
       "igdb_id": 190707,
@@ -421366,6 +421566,56 @@
       "igdb_id": 156169,
       "game_name": "Trainz: A New Era - Aerotrain",
       "file": "missing/T/156169-trainz-a-new-era-aerotrain.json"
+    },
+    {
+      "igdb_id": 153302,
+      "game_name": "Trainz: A New Era - Route: Bea-Dawe Model Railway",
+      "file": "missing/T/153302-trainz-a-new-era-route-bea-dawe-model-railway.json"
+    },
+    {
+      "igdb_id": 153294,
+      "game_name": "Trainz: A New Era - Route: Beavermouth to Ottertail",
+      "file": "missing/T/153294-trainz-a-new-era-route-beavermouth-to-ottertail.json"
+    },
+    {
+      "igdb_id": 153296,
+      "game_name": "Trainz: A New Era - Route: Brazemore Yard",
+      "file": "missing/T/153296-trainz-a-new-era-route-brazemore-yard.json"
+    },
+    {
+      "igdb_id": 153293,
+      "game_name": "Trainz: A New Era - Route: Canadian Rocky Mountains - Columbia River Basin",
+      "file": "missing/T/153293-trainz-a-new-era-route-canadian-rocky-mountains-columbia-river-basin.json"
+    },
+    {
+      "igdb_id": 153295,
+      "game_name": "Trainz: A New Era - Route: Cornish Mainline & Branches",
+      "file": "missing/T/153295-trainz-a-new-era-route-cornish-mainline-and-branches.json"
+    },
+    {
+      "igdb_id": 153298,
+      "game_name": "Trainz: A New Era - Route: Franklin Avenue Industrial",
+      "file": "missing/T/153298-trainz-a-new-era-route-franklin-avenue-industrial.json"
+    },
+    {
+      "igdb_id": 153297,
+      "game_name": "Trainz: A New Era - Route: Japan - Model Trainz",
+      "file": "missing/T/153297-trainz-a-new-era-route-japan-model-trainz.json"
+    },
+    {
+      "igdb_id": 153301,
+      "game_name": "Trainz: A New Era - Route: Mojave Sub Division",
+      "file": "missing/T/153301-trainz-a-new-era-route-mojave-sub-division.json"
+    },
+    {
+      "igdb_id": 153299,
+      "game_name": "Trainz: A New Era - Route: Rostovsky Uzel",
+      "file": "missing/T/153299-trainz-a-new-era-route-rostovsky-uzel.json"
+    },
+    {
+      "igdb_id": 153300,
+      "game_name": "Trainz: A New Era - Route: The Shorts and Kerl Traction Railroad",
+      "file": "missing/T/153300-trainz-a-new-era-route-the-shorts-and-kerl-traction-railroad.json"
     },
     {
       "igdb_id": 27895,
