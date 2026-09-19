@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Future: The Game - Episode 4: Double Visions | 78252 | [78252-back-to-the-future-the-game-episode-4-double-visions.json](./78252-back-to-the-future-the-game-episode-4-double-visions.json) |
 | Back to the Rooms | 320563 | [320563-back-to-the-rooms.json](./320563-back-to-the-rooms.json) |
 | Backbeat and Hexagroove: Music Strategy Bundle | 242074 | [242074-backbeat-and-hexagroove-music-strategy-bundle.json](./242074-backbeat-and-hexagroove-music-strategy-bundle.json) |
+| Backbone: Artifact Edition | 159697 | [159697-backbone-artifact-edition.json](./159697-backbone-artifact-edition.json) |
 | Backbreaker Vengeance | 22942 | [22942-backbreaker-vengeance.json](./22942-backbreaker-vengeance.json) |
 | Backdraft | 255080 | [255080-backdraft.json](./255080-backdraft.json) |
 | Backfire | 28865 | [28865-backfire.json](./28865-backfire.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Escape: Dungeoneer | 214574 | [214574-beautiful-escape-dungeoneer.json](./214574-beautiful-escape-dungeoneer.json) |
 | Beautiful Indie Worlds Bundle | 246112 | [246112-beautiful-indie-worlds-bundle.json](./246112-beautiful-indie-worlds-bundle.json) |
 | Beautiful Japanese Scenery: Animated Jigsaws | 31695 | [31695-beautiful-japanese-scenery-animated-jigsaws.json](./31695-beautiful-japanese-scenery-animated-jigsaws.json) |
+| Beautiful Mystic Defenders | 159748 | [159748-beautiful-mystic-defenders.json](./159748-beautiful-mystic-defenders.json) |
 | Beautiful Sakura: Surfing Club | 265240 | [265240-beautiful-sakura-surfing-club.json](./265240-beautiful-sakura-surfing-club.json) |
 | Beautiful Warrior Hibiki's Captive Violation Days | 82828 | [82828-beautiful-warrior-hibikis-captive-violation-days.json](./82828-beautiful-warrior-hibikis-captive-violation-days.json) |
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
@@ -4541,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brinefall | 190220 | [190220-brinefall.json](./190220-brinefall.json) |
 | Bring Death | 211217 | [211217-bring-death.json](./211217-bring-death.json) |
 | Bring Honey Home | 150635 | [150635-bring-honey-home.json](./150635-bring-honey-home.json) |
+| Bring me a man, Santa | 159727 | [159727-bring-me-a-man-santa.json](./159727-bring-me-a-man-santa.json) |
 | Bring Me Down | 241350 | [241350-bring-me-down.json](./241350-bring-me-down.json) |
 | Bringris | 174191 | [174191-bringris.json](./174191-bringris.json) |
 | Brink of Consciousness: The Lonely Hearts Murders | 17918 | [17918-brink-of-consciousness-the-lonely-hearts-murders.json](./17918-brink-of-consciousness-the-lonely-hearts-murders.json) |
