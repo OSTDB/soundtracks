@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canada Break: Head to Head | 209618 | [209618-canada-break-head-to-head.json](./209618-canada-break-head-to-head.json) |
 | Canal Control | 243702 | [243702-canal-control.json](./243702-canal-control.json) |
 | Canal Towns | 197335 | [197335-canal-towns.json](./197335-canal-towns.json) |
+| Candance Kane's Candy Factory | 137475 | [137475-candance-kanes-candy-factory.json](./137475-candance-kanes-candy-factory.json) |
 | Candelabra Estoscerro | 143077 | [143077-candelabra-estoscerro.json](./143077-candelabra-estoscerro.json) |
 | Candice DeBebe's Incredibly Trick Lifestyle | 33246 | [33246-candice-debebes-incredibly-trick-lifestyle.json](./33246-candice-debebes-incredibly-trick-lifestyle.json) |
 | Candice DeBebe's Scandalous Secrets | 110931 | [110931-candice-debebes-scandalous-secrets.json](./110931-candice-debebes-scandalous-secrets.json) |
@@ -511,12 +512,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Knick Knack | 210641 | [210641-captain-knick-knack.json](./210641-captain-knick-knack.json) |
 | Captain MaCaw | 110165 | [110165-captain-macaw.json](./110165-captain-macaw.json) |
 | Captain MaCaw 2 | 238594 | [238594-captain-macaw-2.json](./238594-captain-macaw-2.json) |
+| Captain Mayo | 137491 | [137491-captain-mayo.json](./137491-captain-mayo.json) |
 | Captain McSpacebiff | 301981 | [301981-captain-mcspacebiff.json](./301981-captain-mcspacebiff.json) |
 | Captain Meow | 239672 | [239672-captain-meow.json](./239672-captain-meow.json) |
 | Captain Midnight | 325715 | [325715-captain-midnight.json](./325715-captain-midnight.json) |
 | Captain Morgane and the Golden Turtle | 6654 | [6654-captain-morgane-and-the-golden-turtle.json](./6654-captain-morgane-and-the-golden-turtle.json) |
 | Captain of Industry: Trains Expansion | 388973 | [388973-captain-of-industry-trains-expansion.json](./388973-captain-of-industry-trains-expansion.json) |
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
+| Captain Pegleg | 137452 | [137452-captain-pegleg.json](./137452-captain-pegleg.json) |
 | Captain Planet | 69790 | [69790-captain-planet.json](./69790-captain-planet.json) |
 | Captain Puff MacFly | 361728 | [361728-captain-puff-macfly.json](./361728-captain-puff-macfly.json) |
 | Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
@@ -2370,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Rhythm | 158219 | [158219-christmas-rhythm.json](./158219-christmas-rhythm.json) |
 | Christmas Rocket Pudding | 276851 | [276851-christmas-rocket-pudding.json](./276851-christmas-rocket-pudding.json) |
 | Christmas Runner | 276697 | [276697-christmas-runner.json](./276697-christmas-runner.json) |
+| Christmas Shopper Simulator | 137466 | [137466-christmas-shopper-simulator.json](./137466-christmas-shopper-simulator.json) |
 | Christmas Stories: A Little Prince - Collector's Edition | 417587 | [417587-christmas-stories-a-little-prince-collectors-edition.json](./417587-christmas-stories-a-little-prince-collectors-edition.json) |
 | Christmas Stories: Alice's Adventures | 187978 | [187978-christmas-stories-alices-adventures.json](./187978-christmas-stories-alices-adventures.json) |
 | Christmas Stories: Nutcracker - Collector's Edition | 30202 | [30202-christmas-stories-nutcracker-collectors-edition.json](./30202-christmas-stories-nutcracker-collectors-edition.json) |
@@ -4499,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countin' Stars | 368496 | [368496-countin-stars.json](./368496-countin-stars.json) |
 | Counting on Frank | 71523 | [71523-counting-on-frank.json](./71523-counting-on-frank.json) |
 | Countless Rooms of Death | 35945 | [35945-countless-rooms-of-death.json](./35945-countless-rooms-of-death.json) |
+| Countries of the World | 137489 | [137489-countries-of-the-world.json](./137489-countries-of-the-world.json) |
 | Country Architect | 376445 | [376445-country-architect.json](./376445-country-architect.json) |
 | Country Girl Keiko | 117867 | [117867-country-girl-keiko.json](./117867-country-girl-keiko.json) |
 | Country Hopper | 398412 | [398412-country-hopper.json](./398412-country-hopper.json) |
