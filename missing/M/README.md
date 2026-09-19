@@ -1232,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party 4 | 231603 | [231603-mario-party-4.json](./231603-mario-party-4.json) |
 | Mario Party 7 | 2334 | [2334-mario-party-7.json](./2334-mario-party-7.json) |
 | Mario Party 7 Bon Voyage | 231602 | [231602-mario-party-7-bon-voyage.json](./231602-mario-party-7-bon-voyage.json) |
+| Mario Party: Fushigi no Koro-koro Catcher 2 | 132044 | [132044-mario-party-fushigi-no-koro-koro-catcher-2.json](./132044-mario-party-fushigi-no-koro-koro-catcher-2.json) |
 | Mario Party: Star Rush | 19599 | [19599-mario-party-star-rush.json](./19599-mario-party-star-rush.json) |
 | Mario Pinball Land | 6503 | [6503-mario-pinball-land.json](./6503-mario-pinball-land.json) |
 | Mario Power Tennis | 84700 | [84700-mario-power-tennis.json](./84700-mario-power-tennis.json) |
@@ -1249,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Tennis: Power Tour | 6504 | [6504-mario-tennis-power-tour.json](./6504-mario-tennis-power-tour.json) |
 | Mario Tennis: Power Tour - Bicep Pump | 231624 | [231624-mario-tennis-power-tour-bicep-pump.json](./231624-mario-tennis-power-tour-bicep-pump.json) |
 | Mario Tennis: Ultra Smash | 11220 | [11220-mario-tennis-ultra-smash.json](./11220-mario-tennis-ultra-smash.json) |
+| Mario Undoukai | 132029 | [132029-mario-undoukai.json](./132029-mario-undoukai.json) |
 | Mario vs. Airman | 219121 | [219121-mario-vs-airman.json](./219121-mario-vs-airman.json) |
 | Mario vs. Donkey Kong 2: March of the Minis - Cannon Kaos | 231640 | [231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json](./231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json) |
 | Mario vs. Donkey Kong Card e+ | 220855 | [220855-mario-vs-donkey-kong-card-e.json](./220855-mario-vs-donkey-kong-card-e.json) |
@@ -2260,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Legends 3 Project | 78003 | [78003-mega-man-legends-3-project.json](./78003-mega-man-legends-3-project.json) |
 | Mega Man Network Transmission | 1766 | [1766-mega-man-network-transmission.json](./1766-mega-man-network-transmission.json) |
 | Mega Man NT Warrior: Battle Chip - WideShot1 | 352839 | [352839-mega-man-nt-warrior-battle-chip-wideshot1.json](./352839-mega-man-nt-warrior-battle-chip-wideshot1.json) |
+| Mega Man Perfect Blue | 132024 | [132024-mega-man-perfect-blue.json](./132024-mega-man-perfect-blue.json) |
 | Mega Man Star Force 2: Zerker x Ninja | 1785 | [1785-mega-man-star-force-2-zerker-x-ninja.json](./1785-mega-man-star-force-2-zerker-x-ninja.json) |
 | Mega Man Star Force 3: Black Ace | 1786 | [1786-mega-man-star-force-3-black-ace.json](./1786-mega-man-star-force-3-black-ace.json) |
 | Mega Man Star Force 3: Red Joker | 1787 | [1787-mega-man-star-force-3-red-joker.json](./1787-mega-man-star-force-3-red-joker.json) |
@@ -2890,6 +2893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamorph | 345519 | [345519-metamorph.json](./345519-metamorph.json) |
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
 | Metamorphosis | 115657 | [115657-metamorphosis.json](./115657-metamorphosis.json) |
+| Metamorphosis | 131990 | [131990-metamorphosis.json](./131990-metamorphosis.json) |
 | Metanoia | 322564 | [322564-metanoia.json](./322564-metanoia.json) |
 | MetaOps | 186241 | [186241-metaops.json](./186241-metaops.json) |
 | Metaphobia | 127907 | [127907-metaphobia.json](./127907-metaphobia.json) |
@@ -5170,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother's Home | 320534 | [320534-mothers-home.json](./320534-mothers-home.json) |
 | Motherbird: The Dark One | 239922 | [239922-motherbird-the-dark-one.json](./239922-motherbird-the-dark-one.json) |
 | Motherbored | 293623 | [293623-motherbored.json](./293623-motherbored.json) |
+| Motherflakker | 132018 | [132018-motherflakker.json](./132018-motherflakker.json) |
 | Motherfunkin | 315105 | [315105-motherfunkin.json](./315105-motherfunkin.json) |
 | Motherland | 229702 | [229702-motherland.json](./229702-motherland.json) |
 | Motherload: Goldium Edition | 186345 | [186345-motherload-goldium-edition.json](./186345-motherload-goldium-edition.json) |
@@ -5772,6 +5777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MusicVR Episode 1: Tr3s Lunas | 70978 | [70978-musicvr-episode-1-tr3s-lunas.json](./70978-musicvr-episode-1-tr3s-lunas.json) |
 | MusicVR Episode 2: Maestro | 71447 | [71447-musicvr-episode-2-maestro.json](./71447-musicvr-episode-2-maestro.json) |
 | Musix | 138596 | [138596-musix.json](./138596-musix.json) |
+| Musket & Pike: Seven Years War | 132004 | [132004-musket-and-pike-seven-years-war.json](./132004-musket-and-pike-seven-years-war.json) |
 | Musketeer | 365793 | [365793-musketeer.json](./365793-musketeer.json) |
 | Musketeer Growth | 208967 | [208967-musketeer-growth.json](./208967-musketeer-growth.json) |
 | Must Flee | 223434 | [223434-must-flee.json](./223434-must-flee.json) |
