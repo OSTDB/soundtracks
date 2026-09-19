@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacman Cube | 230500 | [230500-pacman-cube.json](./230500-pacman-cube.json) |
 | Pacman2 | 62686 | [62686-pacman2.json](./62686-pacman2.json) |
 | PacMania II | 245391 | [245391-pacmania-ii.json](./245391-pacmania-ii.json) |
+| Paco | 149422 | [149422-paco.json](./149422-paco.json) |
 | Pacremental | 398410 | [398410-pacremental.json](./398410-pacremental.json) |
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
 | Paddle Battle | 172781 | [172781-paddle-battle.json](./172781-paddle-battle.json) |
@@ -4650,6 +4651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: The MIR Incident | 204062 | [204062-project-the-mir-incident.json](./204062-project-the-mir-incident.json) |
 | Project: Unity | 275572 | [275572-project-unity.json](./275572-project-unity.json) |
 | Project: Waterfall | 224783 | [224783-project-waterfall.json](./224783-project-waterfall.json) |
+| Project:Pong | 149440 | [149440-project-pong.json](./149440-project-pong.json) |
 | Projection Remains | 182514 | [182514-projection-remains.json](./182514-projection-remains.json) |
 | ProjectL | 63241 | [63241-projectl.json](./63241-projectl.json) |
 | ProjectNimbus | 100205 | [100205-projectnimbus.json](./100205-projectnimbus.json) |
@@ -4901,6 +4903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
 | Pulse | 392257 | [392257-pulse.json](./392257-pulse.json) |
 | Pulse Cage Episode 1 | 25629 | [25629-pulse-cage-episode-1.json](./25629-pulse-cage-episode-1.json) |
+| Pulse Jumper | 149442 | [149442-pulse-jumper.json](./149442-pulse-jumper.json) |
 | Pulse of Love | 258719 | [258719-pulse-of-love.json](./258719-pulse-of-love.json) |
 | Pulse Online | 288333 | [288333-pulse-online.json](./288333-pulse-online.json) |
 | Pulse Phobia | 342133 | [342133-pulse-phobia.json](./342133-pulse-phobia.json) |
@@ -5179,6 +5182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Journey | 265708 | [265708-puzzle-journey.json](./265708-puzzle-journey.json) |
 | Puzzle Journey | 287783 | [287783-puzzle-journey.json](./287783-puzzle-journey.json) |
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
+| Puzzle Light | 149455 | [149455-puzzle-light.json](./149455-puzzle-light.json) |
 | Puzzle Light: Rotate | 152763 | [152763-puzzle-light-rotate.json](./152763-puzzle-light-rotate.json) |
 | Puzzle Lights and Mushrooms 1000 | 334103 | [334103-puzzle-lights-and-mushrooms-1000.json](./334103-puzzle-lights-and-mushrooms-1000.json) |
 | Puzzle Maker | 291238 | [291238-puzzle-maker.json](./291238-puzzle-maker.json) |
