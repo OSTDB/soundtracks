@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Dash: Invasion of Greed | 288919 | [288919-paper-dash-invasion-of-greed.json](./288919-paper-dash-invasion-of-greed.json) |
 | Paper Department | 374156 | [374156-paper-department.json](./374156-paper-department.json) |
 | Paper Depths | 367489 | [367489-paper-depths.json](./367489-paper-depths.json) |
+| Paper Dolls 2: Escape | 170424 | [170424-paper-dolls-2-escape.json](./170424-paper-dolls-2-escape.json) |
 | Paper Drifter | 236826 | [236826-paper-drifter.json](./236826-paper-drifter.json) |
 | Paper Dungeons Crawler | 95573 | [95573-paper-dungeons-crawler.json](./95573-paper-dungeons-crawler.json) |
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
@@ -3930,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls Four Kings Solitaire | 195797 | [195797-pretty-girls-four-kings-solitaire.json](./195797-pretty-girls-four-kings-solitaire.json) |
 | Pretty Girls Game Collection 4 | 342770 | [342770-pretty-girls-game-collection-4.json](./342770-pretty-girls-game-collection-4.json) |
 | Pretty Girls Mahjong Solitaire | 34716 | [34716-pretty-girls-mahjong-solitaire.json](./34716-pretty-girls-mahjong-solitaire.json) |
+| Pretty Girls Mahjong Solitaire: Blue | 170376 | [170376-pretty-girls-mahjong-solitaire-blue.json](./170376-pretty-girls-mahjong-solitaire-blue.json) |
 | Pretty Girls Panic! | 30181 | [30181-pretty-girls-panic.json](./30181-pretty-girls-panic.json) |
 | Pretty Girls Rivers | 192279 | [192279-pretty-girls-rivers.json](./192279-pretty-girls-rivers.json) |
 | Pretty girls teach beefy guys | 161329 | [161329-pretty-girls-teach-beefy-guys.json](./161329-pretty-girls-teach-beefy-guys.json) |
