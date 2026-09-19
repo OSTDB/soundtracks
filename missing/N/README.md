@@ -1427,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Nikkan Berutomo Club | 64904 | [64904-nikkan-berutomo-club.json](./64904-nikkan-berutomo-club.json) |
 | Niko | 410351 | [410351-niko.json](./410351-niko.json) |
+| Niko and the Cubic Curse | 169339 | [169339-niko-and-the-cubic-curse.json](./169339-niko-and-the-cubic-curse.json) |
 | Niko Niko Pun | 42057 | [42057-niko-niko-pun.json](./42057-niko-niko-pun.json) |
 | Niko: Through the Dream | 17323 | [17323-niko-through-the-dream.json](./17323-niko-through-the-dream.json) |
 | Nikolai's Knights | 205127 | [205127-nikolais-knights.json](./205127-nikolais-knights.json) |
