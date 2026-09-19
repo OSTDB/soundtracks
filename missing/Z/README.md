@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zegapain NOT | 68015 | [68015-zegapain-not.json](./68015-zegapain-not.json) |
 | Zegapain XOR | 68017 | [68017-zegapain-xor.json](./68017-zegapain-xor.json) |
 | Zehlar | 258023 | [258023-zehlar.json](./258023-zehlar.json) |
+| Zeitgeist | 178539 | [178539-zeitgeist.json](./178539-zeitgeist.json) |
 | Zekkyo Senshi Sakebrain | 72648 | [72648-zekkyo-senshi-sakebrain.json](./72648-zekkyo-senshi-sakebrain.json) |
 | Zelda | 152362 | [152362-zelda.json](./152362-zelda.json) |
 | Zelda 64: Recompiled | 300982 | [300982-zelda-64-recompiled.json](./300982-zelda-64-recompiled.json) |
