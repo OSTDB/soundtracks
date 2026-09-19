@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interceptor | 192153 | [192153-interceptor.json](./192153-interceptor.json) |
 | Intercity Truck Simulator | 100814 | [100814-intercity-truck-simulator.json](./100814-intercity-truck-simulator.json) |
 | Intercolonies | 319352 | [319352-intercolonies.json](./319352-intercolonies.json) |
+| Intercontinental | 131383 | [131383-intercontinental.json](./131383-intercontinental.json) |
 | Interdictor Pilot | 342035 | [342035-interdictor-pilot.json](./342035-interdictor-pilot.json) |
 | Interesting Kaizo World | 215768 | [215768-interesting-kaizo-world.json](./215768-interesting-kaizo-world.json) |
 | Interference | 56447 | [56447-interference.json](./56447-interference.json) |
