@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider: Memory of Heroez | 137453 | [137453-kamen-rider-memory-of-heroez.json](./137453-kamen-rider-memory-of-heroez.json) |
 | Kamen Rider: Super Climax Heroes | 62705 | [62705-kamen-rider-super-climax-heroes.json](./62705-kamen-rider-super-climax-heroes.json) |
 | Kameo: Elements of Power | 7029 | [7029-kameo-elements-of-power.json](./7029-kameo-elements-of-power.json) |
+| Kamer | 129567 | [129567-kamer.json](./129567-kamer.json) |
 | Kami and Miko | 370148 | [370148-kami-and-miko.json](./370148-kami-and-miko.json) |
 | Kami Kamera | 341881 | [341881-kami-kamera.json](./341881-kami-kamera.json) |
 | Kami Mahou | 188509 | [188509-kami-mahou.json](./188509-kami-mahou.json) |
@@ -907,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Monsters | 6800 | [6800-king-of-the-monsters.json](./6800-king-of-the-monsters.json) |
 | King of the Mountain: Premium | 174324 | [174324-king-of-the-mountain-premium.json](./174324-king-of-the-mountain-premium.json) |
 | King of the Pit | 165647 | [165647-king-of-the-pit.json](./165647-king-of-the-pit.json) |
+| King of the Sandcastle | 129566 | [129566-king-of-the-sandcastle.json](./129566-king-of-the-sandcastle.json) |
 | King of Unblock | 101524 | [101524-king-of-unblock.json](./101524-king-of-unblock.json) |
 | King of Wildlings | 27810 | [27810-king-of-wildlings.json](./27810-king-of-wildlings.json) |
 | King Randall's Party | 107800 | [107800-king-randalls-party.json](./107800-king-randalls-party.json) |
@@ -1808,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kusarihime: Euthanasia | 138804 | [138804-kusarihime-euthanasia.json](./138804-kusarihime-euthanasia.json) |
 | Kusarihime: Jamais Vu | 331686 | [331686-kusarihime-jamais-vu.json](./331686-kusarihime-jamais-vu.json) |
 | Kusok | 261533 | [261533-kusok.json](./261533-kusok.json) |
+| Kutsushita Nyanko: Kutsushita o Haita Neko to Kurashi Hajime Mashita | 130723 | [130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json](./130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json) |
 | Kuukiyomi 4: Consider It - Nintendo Switch 2 Edition | 378813 | [378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json](./378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json) |
 | Kuukiyomi: Consider It! Online | 187529 | [187529-kuukiyomi-consider-it-online.json](./187529-kuukiyomi-consider-it-online.json) |
 | Kuusou Kagaku Sekai Gulliver Boy | 81278 | [81278-kuusou-kagaku-sekai-gulliver-boy.json](./81278-kuusou-kagaku-sekai-gulliver-boy.json) |
