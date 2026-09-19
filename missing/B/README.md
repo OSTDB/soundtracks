@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball and Trap | 100739 | [100739-ball-and-trap.json](./100739-ball-and-trap.json) |
 | Ball at Work: The Ultimate Speedrun Platformer! | 171570 | [171570-ball-at-work-the-ultimate-speedrun-platformer.json](./171570-ball-at-work-the-ultimate-speedrun-platformer.json) |
 | Ball Blast: Platinum Edition | 395674 | [395674-ball-blast-platinum-edition.json](./395674-ball-blast-platinum-edition.json) |
+| Ball Bounce Maze | 166611 | [166611-ball-bounce-maze.json](./166611-ball-bounce-maze.json) |
 | Ball Breaker 3D | 78036 | [78036-ball-breaker-3d.json](./78036-ball-breaker-3d.json) |
 | Ball Drop | 243703 | [243703-ball-drop.json](./243703-ball-drop.json) |
 | Ball Drop | 338188 | [338188-ball-drop.json](./338188-ball-drop.json) |
