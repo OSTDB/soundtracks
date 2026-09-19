@@ -2624,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Frogs | 301991 | [301991-flying-frogs.json](./301991-flying-frogs.json) |
 | Flying Guys | 361741 | [361741-flying-guys.json](./361741-flying-guys.json) |
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
+| Flying Islands Games Bundle | 147812 | [147812-flying-islands-games-bundle.json](./147812-flying-islands-games-bundle.json) |
 | Flying Kick | 181237 | [181237-flying-kick.json](./181237-flying-kick.json) |
 | Flying Motorcycle Simulator Pro | 87258 | [87258-flying-motorcycle-simulator-pro.json](./87258-flying-motorcycle-simulator-pro.json) |
 | Flying Propeller | 161777 | [161777-flying-propeller.json](./161777-flying-propeller.json) |
