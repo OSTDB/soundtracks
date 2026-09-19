@@ -3632,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonds of Unity | 249221 | [249221-bonds-of-unity.json](./249221-bonds-of-unity.json) |
 | Bondstones | 302696 | [302696-bondstones.json](./302696-bondstones.json) |
 | Bone and Arrow | 293108 | [293108-bone-and-arrow.json](./293108-bone-and-arrow.json) |
+| Bone App the Teeth | 179076 | [179076-bone-app-the-teeth.json](./179076-bone-app-the-teeth.json) |
 | Bone Boy | 246952 | [246952-bone-boy.json](./246952-bone-boy.json) |
 | Bone Mayhem | 146877 | [146877-bone-mayhem.json](./146877-bone-mayhem.json) |
 | Bone Stuff | 407338 | [407338-bone-stuff.json](./407338-bone-stuff.json) |
