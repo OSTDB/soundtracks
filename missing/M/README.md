@@ -5678,6 +5678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Survivors | 382324 | [382324-mutant-survivors.json](./382324-mutant-survivors.json) |
 | Mutants & Zombies | 278532 | [278532-mutants-and-zombies.json](./278532-mutants-and-zombies.json) |
 | Mutants Ate My Carrots | 273401 | [273401-mutants-ate-my-carrots.json](./273401-mutants-ate-my-carrots.json) |
+| Mutants from the Deep | 165545 | [165545-mutants-from-the-deep.json](./165545-mutants-from-the-deep.json) |
 | Mutants Of Mist | 285964 | [285964-mutants-of-mist.json](./285964-mutants-of-mist.json) |
 | Mutants: Genesis | 220144 | [220144-mutants-genesis.json](./220144-mutants-genesis.json) |
 | Mutate! Fight! Purr! | 381640 | [381640-mutate-fight-purr.json](./381640-mutate-fight-purr.json) |
