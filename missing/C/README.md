@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candelabra Estoscerro | 143077 | [143077-candelabra-estoscerro.json](./143077-candelabra-estoscerro.json) |
 | Candice DeBebe's Incredibly Trick Lifestyle | 33246 | [33246-candice-debebes-incredibly-trick-lifestyle.json](./33246-candice-debebes-incredibly-trick-lifestyle.json) |
 | Candice DeBebe's Scandalous Secrets | 110931 | [110931-candice-debebes-scandalous-secrets.json](./110931-candice-debebes-scandalous-secrets.json) |
+| Candied Violets | 178527 | [178527-candied-violets.json](./178527-candied-violets.json) |
 | Candivity: Platinum Edition | 385194 | [385194-candivity-platinum-edition.json](./385194-candivity-platinum-edition.json) |
 | Candivity: Snow & Sand Edition | 400197 | [400197-candivity-snow-and-sand-edition.json](./400197-candivity-snow-and-sand-edition.json) |
 | Candle Flame in the Wind | 284327 | [284327-candle-flame-in-the-wind.json](./284327-candle-flame-in-the-wind.json) |
@@ -2492,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
 | Cinnabunny | 295008 | [295008-cinnabunny.json](./295008-cinnabunny.json) |
 | Cinnamoroll: Ohanashi Shiyo!: Kirakira de Kore Cafe | 240908 | [240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json](./240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json) |
+| Cipher | 178494 | [178494-cipher.json](./178494-cipher.json) |
 | CipherCraft: Cyber Guardian Introduction | 278690 | [278690-ciphercraft-cyber-guardian-introduction.json](./278690-ciphercraft-cyber-guardian-introduction.json) |
 | Circa | 94170 | [94170-circa.json](./94170-circa.json) |
 | Circadial | 328645 | [328645-circadial.json](./328645-circadial.json) |
