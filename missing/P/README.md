@@ -1690,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney – Presumption of Guilt | 374129 | [374129-phoenix-wright-ace-attorney-presumption-of-guilt.json](./374129-phoenix-wright-ace-attorney-presumption-of-guilt.json) |
 | Phoenix Wright: Ace Attorney Trilogy - E-Capcom Limited Edition | 205266 | [205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json](./205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json) |
 | Phoenix Wright: Comeback & Turnabout | 305194 | [305194-phoenix-wright-comeback-and-turnabout.json](./305194-phoenix-wright-comeback-and-turnabout.json) |
+| Phoenix Wright: Conflict of Interest | 143511 | [143511-phoenix-wright-conflict-of-interest.json](./143511-phoenix-wright-conflict-of-interest.json) |
 | Phoenix Wright: Hidden Traces | 305192 | [305192-phoenix-wright-hidden-traces.json](./305192-phoenix-wright-hidden-traces.json) |
 | Phoenix Wright: Legends of Liability | 305185 | [305185-phoenix-wright-legends-of-liability.json](./305185-phoenix-wright-legends-of-liability.json) |
 | Phoenix Wright: Oppressing Officials | 323907 | [323907-phoenix-wright-oppressing-officials.json](./323907-phoenix-wright-oppressing-officials.json) |
@@ -2163,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Hour | 34288 | [34288-pink-hour.json](./34288-pink-hour.json) |
 | Pink Marmalade | 184627 | [184627-pink-marmalade.json](./184627-pink-marmalade.json) |
 | Pink Rage Otome | 51569 | [51569-pink-rage-otome.json](./51569-pink-rage-otome.json) |
+| Pink River | 143471 | [143471-pink-river.json](./143471-pink-river.json) |
 | Pink World | 388950 | [388950-pink-world.json](./388950-pink-world.json) |
 | Pink World 2 | 388952 | [388952-pink-world-2.json](./388952-pink-world-2.json) |
 | Pink World 3 | 388953 | [388953-pink-world-3.json](./388953-pink-world-3.json) |
@@ -2408,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
 | Pixel Paint: Premium Edition | 241395 | [241395-pixel-paint-premium-edition.json](./241395-pixel-paint-premium-edition.json) |
 | Pixel Poops | 157054 | [157054-pixel-poops.json](./157054-pixel-poops.json) |
+| Pixel Poops: Number Two | 143480 | [143480-pixel-poops-number-two.json](./143480-pixel-poops-number-two.json) |
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
 | Pixel Push Football | 240868 | [240868-pixel-push-football.json](./240868-pixel-push-football.json) |
 | Pixel Puzzle Makeout League | 121603 | [121603-pixel-puzzle-makeout-league.json](./121603-pixel-puzzle-makeout-league.json) |
