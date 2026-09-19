@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farafalla | 225285 | [225285-farafalla.json](./225285-farafalla.json) |
 | Faraway | 325275 | [325275-faraway.json](./325275-faraway.json) |
 | Faraway 4: Ancient Escape | 115052 | [115052-faraway-4-ancient-escape.json](./115052-faraway-4-ancient-escape.json) |
+| Faraway 6: Galactic Escape | 140391 | [140391-faraway-6-galactic-escape.json](./140391-faraway-6-galactic-escape.json) |
 | Faraway Feathers | 388759 | [388759-faraway-feathers.json](./388759-faraway-feathers.json) |
 | Faraway Islands | 29885 | [29885-faraway-islands.json](./29885-faraway-islands.json) |
 | Faraway Story | 125409 | [125409-faraway-story.json](./125409-faraway-story.json) |
@@ -3204,9 +3205,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forwards Compatible | 271742 | [271742-forwards-compatible.json](./271742-forwards-compatible.json) |
 | Forza Horizon - December IGN Car Pack | 132825 | [132825-forza-horizon-december-ign-car-pack.json](./132825-forza-horizon-december-ign-car-pack.json) |
 | Forza Horizon 2 Presents Fast & Furious | 74159 | [74159-forza-horizon-2-presents-fast-and-furious.json](./74159-forza-horizon-2-presents-fast-and-furious.json) |
+| Forza Horizon 3: Hoonigan Car Pack | 140380 | [140380-forza-horizon-3-hoonigan-car-pack.json](./140380-forza-horizon-3-hoonigan-car-pack.json) |
+| Forza Horizon 3: Motorsports All-Stars Car Pack | 140366 | [140366-forza-horizon-3-motorsports-all-stars-car-pack.json](./140366-forza-horizon-3-motorsports-all-stars-car-pack.json) |
+| Forza Horizon 3: Mountain Dew Car Pack | 140368 | [140368-forza-horizon-3-mountain-dew-car-pack.json](./140368-forza-horizon-3-mountain-dew-car-pack.json) |
 | Forza Horizon 3: Platinum plus Expansions Bundle | 201179 | [201179-forza-horizon-3-platinum-plus-expansions-bundle.json](./201179-forza-horizon-3-platinum-plus-expansions-bundle.json) |
+| Forza Horizon 3: Porsche Car Pack | 140367 | [140367-forza-horizon-3-porsche-car-pack.json](./140367-forza-horizon-3-porsche-car-pack.json) |
 | Forza Horizon 4: Car Pass | 365709 | [365709-forza-horizon-4-car-pass.json](./365709-forza-horizon-4-car-pass.json) |
 | Forza Horizon 4: Expansions Bundle | 136391 | [136391-forza-horizon-4-expansions-bundle.json](./136391-forza-horizon-4-expansions-bundle.json) |
+| Forza Horizon 4: Mitsubishi Motors Car Pack | 140365 | [140365-forza-horizon-4-mitsubishi-motors-car-pack.json](./140365-forza-horizon-4-mitsubishi-motors-car-pack.json) |
 | Forza Horizon 4: Welcome Pack | 365712 | [365712-forza-horizon-4-welcome-pack.json](./365712-forza-horizon-4-welcome-pack.json) |
 | Forza Horizon 5 Nissan Heritage Car Pack | 361777 | [361777-forza-horizon-5-nissan-heritage-car-pack.json](./361777-forza-horizon-5-nissan-heritage-car-pack.json) |
 | Forza Horizon 5 Universal Icons Car Pack | 361779 | [361779-forza-horizon-5-universal-icons-car-pack.json](./361779-forza-horizon-5-universal-icons-car-pack.json) |
@@ -3514,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeland | 316098 | [316098-freeland.json](./316098-freeland.json) |
 | Freeline! | 404923 | [404923-freeline.json](./404923-freeline.json) |
 | Freeman | 253604 | [253604-freeman.json](./253604-freeman.json) |
+| Freerice | 140371 | [140371-freerice.json](./140371-freerice.json) |
 | Freeride | 204514 | [204514-freeride.json](./204514-freeride.json) |
 | FreeRunners | 156617 | [156617-freerunners.json](./156617-freerunners.json) |
 | Freespace 2 | 722 | [722-freespace-2.json](./722-freespace-2.json) |
