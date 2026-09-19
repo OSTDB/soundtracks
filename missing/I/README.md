@@ -1877,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of Hearts | 373514 | [373514-island-of-hearts.json](./373514-island-of-hearts.json) |
 | Island of Lust | 191220 | [191220-island-of-lust.json](./191220-island-of-lust.json) |
 | Island of Mine | 273959 | [273959-island-of-mine.json](./273959-island-of-mine.json) |
+| Island of the Ancients | 154368 | [154368-island-of-the-ancients.json](./154368-island-of-the-ancients.json) |
 | Island Paradise | 296939 | [296939-island-paradise.json](./296939-island-paradise.json) |
 | Island Peril | 57673 | [57673-island-peril.json](./57673-island-peril.json) |
 | Island Racer | 30039 | [30039-island-racer.json](./30039-island-racer.json) |
