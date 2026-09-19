@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abh | 173184 | [173184-abh.json](./173184-abh.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
 | Abide With Me | 179614 | [179614-abide-with-me.json](./179614-abide-with-me.json) |
+| Abiko the Miko | 158042 | [158042-abiko-the-miko.json](./158042-abiko-the-miko.json) |
 | Ability Draft | 109031 | [109031-ability-draft.json](./109031-ability-draft.json) |
 | Abiotic Factor | 219126 | [219126-abiotic-factor.json](./219126-abiotic-factor.json) |
 | Abismo | 380389 | [380389-abismo.json](./380389-abismo.json) |
@@ -848,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
 | Ahegal Seasons | 203381 | [203381-ahegal-seasons.json](./203381-ahegal-seasons.json) |
+| AHH!!! MazeZing | 158046 | [158046-ahh-mazezing.json](./158046-ahh-mazezing.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
@@ -2504,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annelids | 57118 | [57118-annelids.json](./57118-annelids.json) |
 | Annexation | 404838 | [404838-annexation.json](./404838-annexation.json) |
 | Annie and the AI | 223489 | [223489-annie-and-the-ai.json](./223489-annie-and-the-ai.json) |
+| Annie and the Shadow Palace | 158071 | [158071-annie-and-the-shadow-palace.json](./158071-annie-and-the-shadow-palace.json) |
 | Annie Android: Automated Affection | 165510 | [165510-annie-android-automated-affection.json](./165510-annie-android-automated-affection.json) |
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
 | Annihilation: Space Tycoon | 255794 | [255794-annihilation-space-tycoon.json](./255794-annihilation-space-tycoon.json) |
@@ -3256,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archen Broom Game | 402366 | [402366-archen-broom-game.json](./402366-archen-broom-game.json) |
 | Archenemy: Lunafall | 216472 | [216472-archenemy-lunafall.json](./216472-archenemy-lunafall.json) |
 | Archeon CD-i Quiz | 217996 | [217996-archeon-cd-i-quiz.json](./217996-archeon-cd-i-quiz.json) |
+| Archer boy | 158076 | [158076-archer-boy.json](./158076-archer-boy.json) |
 | Archer Guardian VR : The Chapter Zero | 30770 | [30770-archer-guardian-vr-the-chapter-zero.json](./30770-archer-guardian-vr-the-chapter-zero.json) |
 | Archer Maclean's 3D Pool | 248632 | [248632-archer-macleans-3d-pool.json](./248632-archer-macleans-3d-pool.json) |
 | Archer Maclean's 3D Pool | 49315 | [49315-archer-macleans-3d-pool.json](./49315-archer-macleans-3d-pool.json) |
