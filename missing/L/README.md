@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Rage | 262966 | [262966-labyrinth-of-rage.json](./262966-labyrinth-of-rage.json) |
 | Labyrinth of the Witch DX | 217538 | [217538-labyrinth-of-the-witch-dx.json](./217538-labyrinth-of-the-witch-dx.json) |
 | Labyrinth of Touhou | 63855 | [63855-labyrinth-of-touhou.json](./63855-labyrinth-of-touhou.json) |
+| Labyrinth of Touhou: Gensoukyo and the Heaven Piercing Tree | 166080 | [166080-labyrinth-of-touhou-gensoukyo-and-the-heaven-piercing-tree.json](./166080-labyrinth-of-touhou-gensoukyo-and-the-heaven-piercing-tree.json) |
 | Labyrinth of Zangetsu: Adventure Academia - The Fractured Continent Collab: Additional Characters Pack | 246643 | [246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json](./246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json) |
 | Labyrinth of Zangetsu: Akiba's Beat Collaboration - Additional Characters Pack | 246642 | [246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json](./246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json) |
 | Labyrinth of Zangetsu: Akiba's Trip Collaboration - Additional Characters Pack | 246641 | [246641-labyrinth-of-zangetsu-akibas-trip-collaboration-additional-characters-pack.json](./246641-labyrinth-of-zangetsu-akibas-trip-collaboration-additional-characters-pack.json) |
