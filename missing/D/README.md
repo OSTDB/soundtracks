@@ -2043,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Standing Card Plates | 394346 | [394346-desktop-standing-card-plates.json](./394346-desktop-standing-card-plates.json) |
 | Desktop Survivors 98 | 325702 | [325702-desktop-survivors-98.json](./325702-desktop-survivors-98.json) |
 | Desktop Tourney World | 282011 | [282011-desktop-tourney-world.json](./282011-desktop-tourney-world.json) |
+| Desktop Volleyball | 147834 | [147834-desktop-volleyball.json](./147834-desktop-volleyball.json) |
 | Desktop Waifu | 377572 | [377572-desktop-waifu.json](./377572-desktop-waifu.json) |
 | Desktop Wooden Fish | 350405 | [350405-desktop-wooden-fish.json](./350405-desktop-wooden-fish.json) |
 | Desktopia: End of the Road | 232453 | [232453-desktopia-end-of-the-road.json](./232453-desktopia-end-of-the-road.json) |
@@ -2207,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detra | 345560 | [345560-detra.json](./345560-detra.json) |
 | Detritus | 192392 | [192392-detritus.json](./192392-detritus.json) |
 | Detuned | 239317 | [239317-detuned.json](./239317-detuned.json) |
+| Deuces Wild: Video Poker | 147833 | [147833-deuces-wild-video-poker.json](./147833-deuces-wild-video-poker.json) |
 | Deus | 10858 | [10858-deus.json](./10858-deus.json) |
 | Deus Cult | 298299 | [298299-deus-cult.json](./298299-deus-cult.json) |
 | Deus Ex Machina | 130344 | [130344-deus-ex-machina.json](./130344-deus-ex-machina.json) |
@@ -3299,10 +3301,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doge Jump | 62678 | [62678-doge-jump.json](./62678-doge-jump.json) |
 | Dogenstein | 335369 | [335369-dogenstein.json](./335369-dogenstein.json) |
 | DogeRift | 227965 | [227965-dogerift.json](./227965-dogerift.json) |
+| Dogfight | 147831 | [147831-dogfight.json](./147831-dogfight.json) |
 | Dogfight 2187 | 13599 | [13599-dogfight-2187.json](./13599-dogfight-2187.json) |
 | Dogfight: Battle in the Skies | 65464 | [65464-dogfight-battle-in-the-skies.json](./65464-dogfight-battle-in-the-skies.json) |
 | Dogfighter: WW2 | 219033 | [219033-dogfighter-ww2.json](./219033-dogfighter-ww2.json) |
 | Dogforce: Seasons | 179161 | [179161-dogforce-seasons.json](./179161-dogforce-seasons.json) |
+| Doggie Ninja: The Burning Strikers | 147785 | [147785-doggie-ninja-the-burning-strikers.json](./147785-doggie-ninja-the-burning-strikers.json) |
 | Doggo | 287098 | [287098-doggo.json](./287098-doggo.json) |
 | Doggo Dungeon | 174270 | [174270-doggo-dungeon.json](./174270-doggo-dungeon.json) |
 | Doggo Quest | 151047 | [151047-doggo-quest.json](./151047-doggo-quest.json) |
@@ -3684,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Escape | 338011 | [338011-doodle-escape.json](./338011-doodle-escape.json) |
 | Doodle Factory | 295801 | [295801-doodle-factory.json](./295801-doodle-factory.json) |
 | Doodle Farm: Breeds and Beasts | 375303 | [375303-doodle-farm-breeds-and-beasts.json](./375303-doodle-farm-breeds-and-beasts.json) |
+| Doodle Games Bundle | 147800 | [147800-doodle-games-bundle.json](./147800-doodle-games-bundle.json) |
 | Doodle God | 18528 | [18528-doodle-god.json](./18528-doodle-god.json) |
 | Doodle God Bundle | 119072 | [119072-doodle-god-bundle.json](./119072-doodle-god-bundle.json) |
 | Doodle God: Alchemy Jam | 80911 | [80911-doodle-god-alchemy-jam.json](./80911-doodle-god-alchemy-jam.json) |
@@ -3902,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon | 201319 | [201319-double-dragon.json](./201319-double-dragon.json) |
 | Double Dragon | 201322 | [201322-double-dragon.json](./201322-double-dragon.json) |
 | Double Dragon | 281501 | [281501-double-dragon.json](./281501-double-dragon.json) |
+| Double Dragon & Kunio-kun: Retro Brawler Bundle | 147789 | [147789-double-dragon-and-kunio-kun-retro-brawler-bundle.json](./147789-double-dragon-and-kunio-kun-retro-brawler-bundle.json) |
 | Double Dragon 3: The Arcade Game | 46277 | [46277-double-dragon-3-the-arcade-game.json](./46277-double-dragon-3-the-arcade-game.json) |
 | Double Dragon 3: The Rosetta Stone | 10194 | [10194-double-dragon-3-the-rosetta-stone.json](./10194-double-dragon-3-the-rosetta-stone.json) |
 | Double Dragon 3: The Rosetta Stone | 281515 | [281515-double-dragon-3-the-rosetta-stone.json](./281515-double-dragon-3-the-rosetta-stone.json) |
@@ -4498,6 +4504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadtome | 349884 | [349884-dreadtome.json](./349884-dreadtome.json) |
 | Dreadway | 321577 | [321577-dreadway.json](./321577-dreadway.json) |
 | DreadWood | 184110 | [184110-dreadwood.json](./184110-dreadwood.json) |
+| Dream | 147828 | [147828-dream.json](./147828-dream.json) |
 | Dream "ID" Journey | 292860 | [292860-dream-id-journey.json](./292860-dream-id-journey.json) |
 | Dream 64 | 244999 | [244999-dream-64.json](./244999-dream-64.json) |
 | Dream Addict | 303491 | [303491-dream-addict.json](./303491-dream-addict.json) |
@@ -4621,6 +4628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland Farm | 317223 | [317223-dreamland-farm.json](./317223-dreamland-farm.json) |
 | Dreamland Farm: Stone Fence and Tiles | 324477 | [324477-dreamland-farm-stone-fence-and-tiles.json](./324477-dreamland-farm-stone-fence-and-tiles.json) |
 | Dreamland: Village Life | 208446 | [208446-dreamland-village-life.json](./208446-dreamland-village-life.json) |
+| Dreamlander | 147805 | [147805-dreamlander.json](./147805-dreamlander.json) |
 | Dreamless | 320135 | [320135-dreamless.json](./320135-dreamless.json) |
 | Dreamless Girl: Deluxe Edtion Plus | 335097 | [335097-dreamless-girl-deluxe-edtion-plus.json](./335097-dreamless-girl-deluxe-edtion-plus.json) |
 | Dreamless: The Madness from the Sea | 146846 | [146846-dreamless-the-madness-from-the-sea.json](./146846-dreamless-the-madness-from-the-sea.json) |
