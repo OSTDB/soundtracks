@@ -1181,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittenrock Cats - A Hidden Object Game | 287657 | [287657-kittenrock-cats-a-hidden-object-game.json](./287657-kittenrock-cats-a-hidden-object-game.json) |
 | Kittens of Fear | 155664 | [155664-kittens-of-fear.json](./155664-kittens-of-fear.json) |
 | Kittens with Cannons | 179122 | [179122-kittens-with-cannons.json](./179122-kittens-with-cannons.json) |
+| Kittens' Maze | 149950 | [149950-kittens-maze.json](./149950-kittens-maze.json) |
 | Kittentegy | 303613 | [303613-kittentegy.json](./303613-kittentegy.json) |
 | Kitty & Friends: Blast of Fun | 239886 | [239886-kitty-and-friends-blast-of-fun.json](./239886-kitty-and-friends-blast-of-fun.json) |
 | Kitty Collapse | 303614 | [303614-kitty-collapse.json](./303614-kitty-collapse.json) |
