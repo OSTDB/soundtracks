@@ -1161,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pecaminosa: Collector's Edition | 146141 | [146141-pecaminosa-collectors-edition.json](./146141-pecaminosa-collectors-edition.json) |
 | Peccator-It's Not Over Yet | 180104 | [180104-peccator-its-not-over-yet.json](./180104-peccator-its-not-over-yet.json) |
 | Pecker | 244272 | [244272-pecker.json](./244272-pecker.json) |
+| Peckin' Pixels | 135692 | [135692-peckin-pixels.json](./135692-peckin-pixels.json) |
 | Pecky Clicker | 391192 | [391192-pecky-clicker.json](./391192-pecky-clicker.json) |
 | Peculiar Fables: The Werebed | 186731 | [186731-peculiar-fables-the-werebed.json](./186731-peculiar-fables-the-werebed.json) |
 | Pedal Rebel VR | 280750 | [280750-pedal-rebel-vr.json](./280750-pedal-rebel-vr.json) |
@@ -2912,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plentypede | 192828 | [192828-plentypede.json](./192828-plentypede.json) |
 | Pleonexia | 246119 | [246119-pleonexia.json](./246119-pleonexia.json) |
 | Plerbtonia | 320174 | [320174-plerbtonia.json](./320174-plerbtonia.json) |
+| Pleroma | 135687 | [135687-pleroma.json](./135687-pleroma.json) |
 | Plicplic | 261324 | [261324-plicplic.json](./261324-plicplic.json) |
 | Plinbo | 372560 | [372560-plinbo.json](./372560-plinbo.json) |
 | Plinio Needs a Hand | 291089 | [291089-plinio-needs-a-hand.json](./291089-plinio-needs-a-hand.json) |
@@ -3780,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Vs. Potato | 341560 | [341560-potato-vs-potato.json](./341560-potato-vs-potato.json) |
 | Potion Commotion | 130128 | [130128-potion-commotion.json](./130128-potion-commotion.json) |
 | Potion Commotion | 246494 | [246494-potion-commotion.json](./246494-potion-commotion.json) |
+| Potion Commotion: Heart Edition | 135697 | [135697-potion-commotion-heart-edition.json](./135697-potion-commotion-heart-edition.json) |
 | Potion Craft | 142941 | [142941-potion-craft.json](./142941-potion-craft.json) |
 | Potion Explosion | 86850 | [86850-potion-explosion.json](./86850-potion-explosion.json) |
 | Potion Explosion: The Fifth Ingredient | 171463 | [171463-potion-explosion-the-fifth-ingredient.json](./171463-potion-explosion-the-fifth-ingredient.json) |
@@ -5103,6 +5106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push the Button to Win! | 241487 | [241487-push-the-button-to-win.json](./241487-push-the-button-to-win.json) |
 | Push the Circles Extreme | 96036 | [96036-push-the-circles-extreme.json](./96036-push-the-circles-extreme.json) |
 | Push the Crate | 147991 | [147991-push-the-crate.json](./147991-push-the-crate.json) |
+| Push the Crate 2 | 135657 | [135657-push-the-crate-2.json](./135657-push-the-crate-2.json) |
 | Push the Sheep | 193463 | [193463-push-the-sheep.json](./193463-push-the-sheep.json) |
 | Push the square | 375846 | [375846-push-the-square.json](./375846-push-the-square.json) |
 | Push The Squares | 262076 | [262076-push-the-squares.json](./262076-push-the-squares.json) |
