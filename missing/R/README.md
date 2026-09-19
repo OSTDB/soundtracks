@@ -512,12 +512,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramshackle | 374162 | [374162-ramshackle.json](./374162-ramshackle.json) |
 | Rana Neida | 303070 | [303070-rana-neida.json](./303070-rana-neida.json) |
 | Rana Rama | 30805 | [30805-rana-rama.json](./30805-rana-rama.json) |
+| Rance 4.1: Okusuri Koujou wo Sukue! | 132638 | [132638-rance-4-1-okusuri-koujou-wo-sukue.json](./132638-rance-4-1-okusuri-koujou-wo-sukue.json) |
+| Rance 4.2: Angel-gumi | 132639 | [132639-rance-4-2-angel-gumi.json](./132639-rance-4-2-angel-gumi.json) |
+| Rance 5D: The Lonely Girl | 132655 | [132655-rance-5d-the-lonely-girl.json](./132655-rance-5d-the-lonely-girl.json) |
 | Rance 5D: The Lonely Girl + Rance VI: Collapse of Zeth | 129133 | [129133-rance-5d-the-lonely-girl-rance-vi-collapse-of-zeth.json](./129133-rance-5d-the-lonely-girl-rance-vi-collapse-of-zeth.json) |
 | Rance II: Hangyaku no Shoujo-tachi | 57642 | [57642-rance-ii-hangyaku-no-shoujo-tachi.json](./57642-rance-ii-hangyaku-no-shoujo-tachi.json) |
 | Rance III: Leazas Kanraku | 41406 | [41406-rance-iii-leazas-kanraku.json](./41406-rance-iii-leazas-kanraku.json) |
 | Rance IV: Kyoudan no Isan | 41405 | [41405-rance-iv-kyoudan-no-isan.json](./41405-rance-iv-kyoudan-no-isan.json) |
 | Rance Quest Magnum | 137669 | [137669-rance-quest-magnum.json](./137669-rance-quest-magnum.json) |
 | Rance VI Sonogo | 329187 | [329187-rance-vi-sonogo.json](./329187-rance-vi-sonogo.json) |
+| Rance VI: Collapse of Zeth | 132656 | [132656-rance-vi-collapse-of-zeth.json](./132656-rance-vi-collapse-of-zeth.json) |
 | Ranch Mayhem | 298049 | [298049-ranch-mayhem.json](./298049-ranch-mayhem.json) |
 | Ranch Store Simulator | 333012 | [333012-ranch-store-simulator.json](./333012-ranch-store-simulator.json) |
 | Rancid | 124234 | [124234-rancid.json](./124234-rancid.json) |
@@ -986,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealPlay Pool | 21366 | [21366-realplay-pool.json](./21366-realplay-pool.json) |
 | RealPlay Racing | 21368 | [21368-realplay-racing.json](./21368-realplay-racing.json) |
 | Realpolitiks 3: Earth and Beyond | 309890 | [309890-realpolitiks-3-earth-and-beyond.json](./309890-realpolitiks-3-earth-and-beyond.json) |
+| Realpolitiks II | 132618 | [132618-realpolitiks-ii.json](./132618-realpolitiks-ii.json) |
 | Realpolitiks Mobile | 97304 | [97304-realpolitiks-mobile.json](./97304-realpolitiks-mobile.json) |
 | Realpolitiks: New Power | 116997 | [116997-realpolitiks-new-power.json](./116997-realpolitiks-new-power.json) |
 | Realtor | 273445 | [273445-realtor.json](./273445-realtor.json) |
@@ -1366,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections of Life: Sleep's Embrace - Collector's Edition | 362842 | [362842-reflections-of-life-sleeps-embrace-collectors-edition.json](./362842-reflections-of-life-sleeps-embrace-collectors-edition.json) |
 | Reflections of Life: Spindle of Fate | 244479 | [244479-reflections-of-life-spindle-of-fate.json](./244479-reflections-of-life-spindle-of-fate.json) |
 | Reflections of Life: The Shattered Timeline - Collector's Edition | 307752 | [307752-reflections-of-life-the-shattered-timeline-collectors-edition.json](./307752-reflections-of-life-the-shattered-timeline-collectors-edition.json) |
+| Reflections of Life: Utopia - Collector's Edition | 132632 | [132632-reflections-of-life-utopia-collectors-edition.json](./132632-reflections-of-life-utopia-collectors-edition.json) |
 | Reflections Path | 211951 | [211951-reflections-path.json](./211951-reflections-path.json) |
 | Reflections: Dreams and Reality | 115625 | [115625-reflections-dreams-and-reality.json](./115625-reflections-dreams-and-reality.json) |
 | Reflector Satellites | 317411 | [317411-reflector-satellites.json](./317411-reflector-satellites.json) |
@@ -2764,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotic Worlds | 146692 | [146692-robotic-worlds.json](./146692-robotic-worlds.json) |
 | Robotica | 211292 | [211292-robotica.json](./211292-robotica.json) |
 | Robotics;Notes | 7162 | [7162-robotics-notes.json](./7162-robotics-notes.json) |
+| Robotics;Notes Double Pack | 132650 | [132650-robotics-notes-double-pack.json](./132650-robotics-notes-double-pack.json) |
 | Roboto | 232573 | [232573-roboto.json](./232573-roboto.json) |
 | Robotragedy | 171546 | [171546-robotragedy.json](./171546-robotragedy.json) |
 | Robotragedy 2: Countdown to Doomsday | 171548 | [171548-robotragedy-2-countdown-to-doomsday.json](./171548-robotragedy-2-countdown-to-doomsday.json) |
@@ -3119,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollercoaster Creator | 337202 | [337202-rollercoaster-creator.json](./337202-rollercoaster-creator.json) |
 | Rollercoaster Dreams | 26784 | [26784-rollercoaster-dreams.json](./26784-rollercoaster-dreams.json) |
 | RollerCoaster Legends II: Thor's Hammer | 102340 | [102340-rollercoaster-legends-ii-thors-hammer.json](./102340-rollercoaster-legends-ii-thors-hammer.json) |
+| Rollercoaster Mechanic | 132624 | [132624-rollercoaster-mechanic.json](./132624-rollercoaster-mechanic.json) |
 | RollerCoaster Tycoon | 254 | [254-rollercoaster-tycoon.json](./254-rollercoaster-tycoon.json) |
 | RollerCoaster Tycoon 3: Gold | 257414 | [257414-rollercoaster-tycoon-3-gold.json](./257414-rollercoaster-tycoon-3-gold.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
