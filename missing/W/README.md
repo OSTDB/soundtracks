@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warship | 377150 | [377150-warship.json](./377150-warship.json) |
 | Warship Battle Commander | 356715 | [356715-warship-battle-commander.json](./356715-warship-battle-commander.json) |
 | Warships Final Battle | 230910 | [230910-warships-final-battle.json](./230910-warships-final-battle.json) |
+| Warshmallows | 132613 | [132613-warshmallows.json](./132613-warshmallows.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
 | Warsino | 232539 | [232539-warsino.json](./232539-warsino.json) |
 | Warspace | 242065 | [242065-warspace.json](./242065-warspace.json) |
