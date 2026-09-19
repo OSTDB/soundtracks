@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Fossils | 62148 | [62148-fantastic-fossils.json](./62148-fantastic-fossils.json) |
 | Fantastic Four: Rise of the Silver Surfer | 197930 | [197930-fantastic-four-rise-of-the-silver-surfer.json](./197930-fantastic-four-rise-of-the-silver-surfer.json) |
 | Fantastic Frolic | 301260 | [301260-fantastic-frolic.json](./301260-fantastic-frolic.json) |
+| Fantastic Honey | 154400 | [154400-fantastic-honey.json](./154400-fantastic-honey.json) |
 | Fantastic Journey | 38391 | [38391-fantastic-journey.json](./38391-fantastic-journey.json) |
 | Fantastic Kingdom | 120421 | [120421-fantastic-kingdom.json](./120421-fantastic-kingdom.json) |
 | Fantasy & Blade | 119021 | [119021-fantasy-and-blade.json](./119021-fantasy-and-blade.json) |
@@ -590,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Life Link! | 138174 | [138174-fantasy-life-link.json](./138174-fantasy-life-link.json) |
 | Fantasy Life Online | 26609 | [26609-fantasy-life-online.json](./26609-fantasy-life-online.json) |
 | Fantasy Life: Origin Island | 225737 | [225737-fantasy-life-origin-island.json](./225737-fantasy-life-origin-island.json) |
+| Fantasy Mahjong Connect | 154357 | [154357-fantasy-mahjong-connect.json](./154357-fantasy-mahjong-connect.json) |
 | Fantasy Maiden Wars: Scarlet | 138718 | [138718-fantasy-maiden-wars-scarlet.json](./138718-fantasy-maiden-wars-scarlet.json) |
 | Fantasy Monster Hunt | 346683 | [346683-fantasy-monster-hunt.json](./346683-fantasy-monster-hunt.json) |
 | Fantasy Mosaics 2 | 100733 | [100733-fantasy-mosaics-2.json](./100733-fantasy-mosaics-2.json) |
@@ -1317,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight 4 Flight | 98468 | [98468-fight-4-flight.json](./98468-fight-4-flight.json) |
 | Fight Angels | 125977 | [125977-fight-angels.json](./125977-fight-angels.json) |
 | Fight Ball VR | 120924 | [120924-fight-ball-vr.json](./120924-fight-ball-vr.json) |
+| Fight Bots | 154361 | [154361-fight-bots.json](./154361-fight-bots.json) |
 | Fight Buddy Mobile | 200738 | [200738-fight-buddy-mobile.json](./200738-fight-buddy-mobile.json) |
 | Fight Club: Join us if you can | 231058 | [231058-fight-club-join-us-if-you-can.json](./231058-fight-club-join-us-if-you-can.json) |
 | Fight Crab | 90231 | [90231-fight-crab.json](./90231-fight-crab.json) |
@@ -1697,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire All Weapons | 257973 | [257973-fire-all-weapons.json](./257973-fire-all-weapons.json) |
 | Fire and Ashes | 339624 | [339624-fire-and-ashes.json](./339624-fire-and-ashes.json) |
 | Fire and Brim Co. | 258708 | [258708-fire-and-brim-co.json](./258708-fire-and-brim-co.json) |
+| Fire and Dungeon | 154398 | [154398-fire-and-dungeon.json](./154398-fire-and-dungeon.json) |
 | Fire and Rescue | 287760 | [287760-fire-and-rescue.json](./287760-fire-and-rescue.json) |
 | Fire Ant | 93077 | [93077-fire-ant.json](./93077-fire-ant.json) |
 | Fire Ball | 161775 | [161775-fire-ball.json](./161775-fire-ball.json) |
