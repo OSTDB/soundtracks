@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saving Princess | 358859 | [358859-saving-princess.json](./358859-saving-princess.json) |
 | Saving Private Sheep | 54349 | [54349-saving-private-sheep.json](./54349-saving-private-sheep.json) |
 | Saving Private Sheep 2 | 54348 | [54348-saving-private-sheep-2.json](./54348-saving-private-sheep-2.json) |
+| Saving Punyville | 157032 | [157032-saving-punyville.json](./157032-saving-punyville.json) |
 | Saving You From Yourself | 133467 | [133467-saving-you-from-yourself.json](./133467-saving-you-from-yourself.json) |
 | Savior | 121034 | [121034-savior.json](./121034-savior.json) |
 | Saviors | 36264 | [36264-saviors.json](./36264-saviors.json) |
@@ -2347,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Island | 373072 | [373072-sheep-island.json](./373072-sheep-island.json) |
 | Sheep Launcher 2 | 233524 | [233524-sheep-launcher-2.json](./233524-sheep-launcher-2.json) |
 | Sheep Legion - turn-based tactical RPG game | 174321 | [174321-sheep-legion-turn-based-tactical-rpg-game.json](./174321-sheep-legion-turn-based-tactical-rpg-game.json) |
+| Sheep Love | 157007 | [157007-sheep-love.json](./157007-sheep-love.json) |
 | Sheep Monologue | 383506 | [383506-sheep-monologue.json](./383506-sheep-monologue.json) |
 | Sheep Quest | 340379 | [340379-sheep-quest.json](./340379-sheep-quest.json) |
 | Sheep's Symphony | 294455 | [294455-sheeps-symphony.json](./294455-sheeps-symphony.json) |
@@ -3282,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple DS Series Vol. 26: The Quiz 30,000-Mon | 203408 | [203408-simple-ds-series-vol-26-the-quiz-30-000-mon.json](./203408-simple-ds-series-vol-26-the-quiz-30-000-mon.json) |
 | Simple DS Series Vol. 28: The Illust Puzzle & Suuji Puzzle 2 | 203410 | [203410-simple-ds-series-vol-28-the-illust-puzzle-and-suuji-puzzle-2.json](./203410-simple-ds-series-vol-28-the-illust-puzzle-and-suuji-puzzle-2.json) |
 | Simple DS Series Vol. 9: Atama ga Yoku Naru - The Me no Training | 203403 | [203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json](./203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json) |
+| Simple Fear | 157046 | [157046-simple-fear.json](./157046-simple-fear.json) |
 | Simple FPS Aim Trainer | 182502 | [182502-simple-fps-aim-trainer.json](./182502-simple-fps-aim-trainer.json) |
 | Simple FPS Platformer | 347268 | [347268-simple-fps-platformer.json](./347268-simple-fps-platformer.json) |
 | Simple Game | 121602 | [121602-simple-game.json](./121602-simple-game.json) |
@@ -6427,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunkery | 374726 | [374726-spelunkery.json](./374726-spelunkery.json) |
 | Sperm Into Labia | 310742 | [310742-sperm-into-labia.json](./310742-sperm-into-labia.json) |
 | Sperma | 232698 | [232698-sperma.json](./232698-sperma.json) |
+| SpermDash | 157009 | [157009-spermdash.json](./157009-spermdash.json) |
 | Spermicide | 191083 | [191083-spermicide.json](./191083-spermicide.json) |
 | Spermula 1 | 131598 | [131598-spermula-1.json](./131598-spermula-1.json) |
 | SPGP Super Polygon Grand Prix | 274542 | [274542-spgp-super-polygon-grand-prix.json](./274542-spgp-super-polygon-grand-prix.json) |
@@ -6732,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Shooter 3D | 186802 | [186802-spooky-shooter-3d.json](./186802-spooky-shooter-3d.json) |
 | Spooky Shopping Tour! | 301966 | [301966-spooky-shopping-tour.json](./301966-spooky-shopping-tour.json) |
 | Spooky Solitaire: Halloween | 386149 | [386149-spooky-solitaire-halloween.json](./386149-spooky-solitaire-halloween.json) |
+| Spooky Speedrun | 157048 | [157048-spooky-speedrun.json](./157048-spooky-speedrun.json) |
 | Spooky Spins Returns: Crazy Cash Edition - Slots | 276172 | [276172-spooky-spins-returns-crazy-cash-edition-slots.json](./276172-spooky-spins-returns-crazy-cash-edition-slots.json) |
 | Spooky Survivors | 333640 | [333640-spooky-survivors.json](./333640-spooky-survivors.json) |
 | Spooky Town | 272565 | [272565-spooky-town.json](./272565-spooky-town.json) |
@@ -9268,6 +9273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Crazy Guitar Maniac Deluxe 2 | 262447 | [262447-super-crazy-guitar-maniac-deluxe-2.json](./262447-super-crazy-guitar-maniac-deluxe-2.json) |
 | Super Crazy Guitar Maniac Deluxe 3 | 262472 | [262472-super-crazy-guitar-maniac-deluxe-3.json](./262472-super-crazy-guitar-maniac-deluxe-3.json) |
 | Super Crazy Guitar Maniac Deluxe 4 | 262475 | [262475-super-crazy-guitar-maniac-deluxe-4.json](./262475-super-crazy-guitar-maniac-deluxe-4.json) |
+| Super Crazy Nynja | 157031 | [157031-super-crazy-nynja.json](./157031-super-crazy-nynja.json) |
 | Super Cream 64: The Grand Finale | 214764 | [214764-super-cream-64-the-grand-finale.json](./214764-super-cream-64-the-grand-finale.json) |
 | Super Creme World | 267920 | [267920-super-creme-world.json](./267920-super-creme-world.json) |
 | Super Cross Kings | 54412 | [54412-super-cross-kings.json](./54412-super-cross-kings.json) |
@@ -9845,6 +9851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pork | 182921 | [182921-super-pork.json](./182921-super-pork.json) |
 | Super Portal 64 | 159277 | [159277-super-portal-64.json](./159277-super-portal-64.json) |
 | Super POTUS Trump | 51591 | [51591-super-potus-trump.json](./51591-super-potus-trump.json) |
+| Super Power: Rising of A.I. | 157016 | [157016-super-power-rising-of-a-i.json](./157016-super-power-rising-of-a-i.json) |
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
 | Super Punch-Out!! | 9152 | [9152-super-punch-out.json](./9152-super-punch-out.json) |
 | Super Putty | 39039 | [39039-super-putty.json](./39039-super-putty.json) |
