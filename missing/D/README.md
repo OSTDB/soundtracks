@@ -3142,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DKC New Competition Cartridge | 219079 | [219079-dkc-new-competition-cartridge.json](./219079-dkc-new-competition-cartridge.json) |
 | Dkls | 173276 | [173276-dkls.json](./173276-dkls.json) |
 | DLC Quest | 3004 | [3004-dlc-quest.json](./3004-dlc-quest.json) |
+| dlroW oiraM repuS | 145481 | [145481-dlrow-oiram-repus.json](./145481-dlrow-oiram-repus.json) |
 | DM with Me | 413691 | [413691-dm-with-me.json](./413691-dm-with-me.json) |
 | DMB | 282678 | [282678-dmb.json](./282678-dmb.json) |
 | DMBX 2: Mountain Bike and BMX | 232159 | [232159-dmbx-2-mountain-bike-and-bmx.json](./232159-dmbx-2-mountain-bike-and-bmx.json) |
@@ -4296,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest III HD-2D Remake | 149980 | [149980-dragon-quest-iii-hd-2d-remake.json](./149980-dragon-quest-iii-hd-2d-remake.json) |
 | Dragon Quest III: The Seeds of Salvation | 1814 | [1814-dragon-quest-iii-the-seeds-of-salvation.json](./1814-dragon-quest-iii-the-seeds-of-salvation.json) |
 | Dragon Quest IV: Chapters of the Chosen | 216304 | [216304-dragon-quest-iv-chapters-of-the-chosen.json](./216304-dragon-quest-iv-chapters-of-the-chosen.json) |
+| Dragon Quest IV: Michibikareshi Mono-tachi | 145467 | [145467-dragon-quest-iv-michibikareshi-mono-tachi.json](./145467-dragon-quest-iv-michibikareshi-mono-tachi.json) |
 | Dragon Quest IV: Michibikareshi Mono-tachi | 271211 | [271211-dragon-quest-iv-michibikareshi-mono-tachi.json](./271211-dragon-quest-iv-michibikareshi-mono-tachi.json) |
 | Dragon Quest Keshi Keshi | 194015 | [194015-dragon-quest-keshi-keshi.json](./194015-dragon-quest-keshi-keshi.json) |
 | Dragon Quest Monster Super Light | 80598 | [80598-dragon-quest-monster-super-light.json](./80598-dragon-quest-monster-super-light.json) |
@@ -4673,6 +4675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamtone | 310960 | [310960-dreamtone.json](./310960-dreamtone.json) |
 | Dreamvibe | 192276 | [192276-dreamvibe.json](./192276-dreamvibe.json) |
 | Dreamwalker | 333021 | [333021-dreamwalker.json](./333021-dreamwalker.json) |
+| DreamWatcher | 145430 | [145430-dreamwatcher.json](./145430-dreamwatcher.json) |
 | Dreamwater | 252385 | [252385-dreamwater.json](./252385-dreamwater.json) |
 | Dreamweb | 2489 | [2489-dreamweb.json](./2489-dreamweb.json) |
 | Dreamwillow | 184661 | [184661-dreamwillow.json](./184661-dreamwillow.json) |
