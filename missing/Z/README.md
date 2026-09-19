@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenith Hunter | 107816 | [107816-zenith-hunter.json](./107816-zenith-hunter.json) |
 | Zenith Realms | 367513 | [367513-zenith-realms.json](./367513-zenith-realms.json) |
 | Zenith Trace | 379879 | [379879-zenith-trace.json](./379879-zenith-trace.json) |
+| Zenith: The Last City | 145452 | [145452-zenith-the-last-city.json](./145452-zenith-the-last-city.json) |
 | Zenko: A Fox's Tale | 152848 | [152848-zenko-a-foxs-tale.json](./152848-zenko-a-foxs-tale.json) |
 | Zenless Zone Zero: Update 1.1 - Undercover R&B | 316048 | [316048-zenless-zone-zero-update-1-1-undercover-r-and-b.json](./316048-zenless-zone-zero-update-1-1-undercover-r-and-b.json) |
 | Zenless Zone Zero: Update 1.5 - Astra-nomical Moment | 327812 | [327812-zenless-zone-zero-update-1-5-astra-nomical-moment.json](./327812-zenless-zone-zero-update-1-5-astra-nomical-moment.json) |
