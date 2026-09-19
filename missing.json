@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T05:17:37.739Z",
-  "total_missing": 90763,
+  "generated_at": "2026-09-19T05:32:36.768Z",
+  "total_missing": 90821,
   "games": [
     {
       "igdb_id": 176875,
@@ -9751,6 +9751,11 @@
       "igdb_id": 169291,
       "game_name": "Alea Jacta Est: Cantabrian Wars",
       "file": "missing/A/169291-alea-jacta-est-cantabrian-wars.json"
+    },
+    {
+      "igdb_id": 169289,
+      "game_name": "Alea Jacta Est: Hannibal Terror of Rome",
+      "file": "missing/A/169289-alea-jacta-est-hannibal-terror-of-rome.json"
     },
     {
       "igdb_id": 169293,
@@ -35056,6 +35061,11 @@
       "igdb_id": 117105,
       "game_name": "Bear With Me: The Lost Robots",
       "file": "missing/B/117105-bear-with-me-the-lost-robots.json"
+    },
+    {
+      "igdb_id": 168768,
+      "game_name": "Bear, Vodka, Balalaika: Cyberpunk",
+      "file": "missing/B/168768-bear-vodka-balalaika-cyberpunk.json"
     },
     {
       "igdb_id": 151754,
@@ -104153,9 +104163,29 @@
       "file": "missing/D/223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json"
     },
     {
+      "igdb_id": 168747,
+      "game_name": "Dragon Ball: Xenoverse 2 - Extra DLC Pack 1",
+      "file": "missing/D/168747-dragon-ball-xenoverse-2-extra-dlc-pack-1.json"
+    },
+    {
+      "igdb_id": 168748,
+      "game_name": "Dragon Ball: Xenoverse 2 - Extra DLC Pack 2",
+      "file": "missing/D/168748-dragon-ball-xenoverse-2-extra-dlc-pack-2.json"
+    },
+    {
+      "igdb_id": 168749,
+      "game_name": "Dragon Ball: Xenoverse 2 - Extra DLC Pack 4",
+      "file": "missing/D/168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json"
+    },
+    {
       "igdb_id": 117657,
       "game_name": "Dragon Ball: Xenoverse 2 - Extra Pass",
       "file": "missing/D/117657-dragon-ball-xenoverse-2-extra-pass.json"
+    },
+    {
+      "igdb_id": 168741,
+      "game_name": "Dragon Ball: Xenoverse 2 - Legendary Pack 1",
+      "file": "missing/D/168741-dragon-ball-xenoverse-2-legendary-pack-1.json"
     },
     {
       "igdb_id": 200692,
@@ -104163,9 +104193,34 @@
       "file": "missing/D/200692-dragon-ball-xenoverse-2-super-edition.json"
     },
     {
+      "igdb_id": 168743,
+      "game_name": "Dragon Ball: Xenoverse 2 - Super Pack 1",
+      "file": "missing/D/168743-dragon-ball-xenoverse-2-super-pack-1.json"
+    },
+    {
+      "igdb_id": 168744,
+      "game_name": "Dragon Ball: Xenoverse 2 - Super Pack 2",
+      "file": "missing/D/168744-dragon-ball-xenoverse-2-super-pack-2.json"
+    },
+    {
+      "igdb_id": 168745,
+      "game_name": "Dragon Ball: Xenoverse 2 - Super Pack 3",
+      "file": "missing/D/168745-dragon-ball-xenoverse-2-super-pack-3.json"
+    },
+    {
+      "igdb_id": 168746,
+      "game_name": "Dragon Ball: Xenoverse 2 - Super Pack 4",
+      "file": "missing/D/168746-dragon-ball-xenoverse-2-super-pack-4.json"
+    },
+    {
       "igdb_id": 117656,
       "game_name": "Dragon Ball: Xenoverse 2 - Super Pass",
       "file": "missing/D/117656-dragon-ball-xenoverse-2-super-pass.json"
+    },
+    {
+      "igdb_id": 168742,
+      "game_name": "Dragon Ball: Xenoverse 2 - Ultra Pack 1",
+      "file": "missing/D/168742-dragon-ball-xenoverse-2-ultra-pack-1.json"
     },
     {
       "igdb_id": 271831,
@@ -115843,9 +115898,24 @@
       "file": "missing/E/343851-endless-legend-definitive-edition.json"
     },
     {
+      "igdb_id": 168765,
+      "game_name": "Endless Legend: Echoes of Auriga",
+      "file": "missing/E/168765-endless-legend-echoes-of-auriga.json"
+    },
+    {
+      "igdb_id": 168766,
+      "game_name": "Endless Legend: Forgotten Love Add-on",
+      "file": "missing/E/168766-endless-legend-forgotten-love-add-on.json"
+    },
+    {
       "igdb_id": 24933,
       "game_name": "Endless Legend: Tempest",
       "file": "missing/E/24933-endless-legend-tempest.json"
+    },
+    {
+      "igdb_id": 168767,
+      "game_name": "Endless Legend: The Lost Tales",
+      "file": "missing/E/168767-endless-legend-the-lost-tales.json"
     },
     {
       "igdb_id": 152933,
@@ -150203,6 +150273,11 @@
       "file": "missing/G/197770-gloom-digital-edition.json"
     },
     {
+      "igdb_id": 168770,
+      "game_name": "Gloom: Unhappy Homes",
+      "file": "missing/G/168770-gloom-unhappy-homes.json"
+    },
+    {
       "igdb_id": 106803,
       "game_name": "Gloomhaven",
       "file": "missing/G/106803-gloomhaven.json"
@@ -167661,6 +167736,11 @@
       "igdb_id": 224234,
       "game_name": "Hero Siege: Companion Bundle",
       "file": "missing/H/224234-hero-siege-companion-bundle.json"
+    },
+    {
+      "igdb_id": 168769,
+      "game_name": "Hero Siege: Wrath of Mevius",
+      "file": "missing/H/168769-hero-siege-wrath-of-mevius.json"
     },
     {
       "igdb_id": 113655,
@@ -188723,6 +188803,26 @@
       "file": "missing/J/36036-jagged-alliance-online-reloaded.json"
     },
     {
+      "igdb_id": 168753,
+      "game_name": "Jagged Alliance Online: Reloaded - Echo",
+      "file": "missing/J/168753-jagged-alliance-online-reloaded-echo.json"
+    },
+    {
+      "igdb_id": 168751,
+      "game_name": "Jagged Alliance Online: Reloaded - Ivan",
+      "file": "missing/J/168751-jagged-alliance-online-reloaded-ivan.json"
+    },
+    {
+      "igdb_id": 168750,
+      "game_name": "Jagged Alliance Online: Reloaded - Raven",
+      "file": "missing/J/168750-jagged-alliance-online-reloaded-raven.json"
+    },
+    {
+      "igdb_id": 168752,
+      "game_name": "Jagged Alliance Online: Reloaded - Shadow",
+      "file": "missing/J/168752-jagged-alliance-online-reloaded-shadow.json"
+    },
+    {
       "igdb_id": 1008,
       "game_name": "Jagged Alliance: Back in Action",
       "file": "missing/J/1008-jagged-alliance-back-in-action.json"
@@ -207703,9 +207803,24 @@
       "file": "missing/L/89924-lego-lord-of-the-rings-elrond-edition.json"
     },
     {
+      "igdb_id": 168785,
+      "game_name": "LEGO Marvel Super Heroes 2: Agents of Atlas Character Pack",
+      "file": "missing/L/168785-lego-marvel-super-heroes-2-agents-of-atlas-character-pack.json"
+    },
+    {
       "igdb_id": 168368,
       "game_name": "LEGO Marvel Super Heroes 2: Champions Character Pack",
       "file": "missing/L/168368-lego-marvel-super-heroes-2-champions-character-pack.json"
+    },
+    {
+      "igdb_id": 168781,
+      "game_name": "LEGO Marvel Super Heroes 2: Classic Guardians of the Galaxy Character Pack",
+      "file": "missing/L/168781-lego-marvel-super-heroes-2-classic-guardians-of-the-galaxy-character-pack.json"
+    },
+    {
+      "igdb_id": 168783,
+      "game_name": "LEGO Marvel Super Heroes 2: Marvel's Ant-Man and the Wasp Level and Character Pack",
+      "file": "missing/L/168783-lego-marvel-super-heroes-2-marvels-ant-man-and-the-wasp-level-and-character-pack.json"
     },
     {
       "igdb_id": 89899,
@@ -207726,6 +207841,16 @@
       "igdb_id": 137633,
       "game_name": "LEGO Marvel's Avengers: Marvel's Agents of S.H.I.E.L.D. Pack",
       "file": "missing/L/137633-lego-marvels-avengers-marvels-agents-of-s-h-i-e-l-d-pack.json"
+    },
+    {
+      "igdb_id": 168780,
+      "game_name": "LEGO Marvel's Avengers: Marvel's Captain America - Civil War Character Pack",
+      "file": "missing/L/168780-lego-marvels-avengers-marvels-captain-america-civil-war-character-pack.json"
+    },
+    {
+      "igdb_id": 168779,
+      "game_name": "LEGO Marvel's Avengers: Spider-Man Character Pack",
+      "file": "missing/L/168779-lego-marvels-avengers-spider-man-character-pack.json"
     },
     {
       "igdb_id": 345593,
@@ -207876,6 +208001,21 @@
       "igdb_id": 250613,
       "game_name": "LEGO Supersonic RC",
       "file": "missing/L/250613-lego-supersonic-rc.json"
+    },
+    {
+      "igdb_id": 168771,
+      "game_name": "LEGO The Hobbit: Side Quest Character Pack",
+      "file": "missing/L/168771-lego-the-hobbit-side-quest-character-pack.json"
+    },
+    {
+      "igdb_id": 168773,
+      "game_name": "LEGO The Hobbit: The Battle Pack",
+      "file": "missing/L/168773-lego-the-hobbit-the-battle-pack.json"
+    },
+    {
+      "igdb_id": 168772,
+      "game_name": "LEGO The Hobbit: The Big Little Character Pack",
+      "file": "missing/L/168772-lego-the-hobbit-the-big-little-character-pack.json"
     },
     {
       "igdb_id": 139957,
@@ -249158,6 +249298,11 @@
       "file": "missing/M/187965-mystery-trackers-train-to-hellswich.json"
     },
     {
+      "igdb_id": 169278,
+      "game_name": "Mystery Trackers: Train to Hellswich - Collector's Edition",
+      "file": "missing/M/169278-mystery-trackers-train-to-hellswich-collectors-edition.json"
+    },
+    {
       "igdb_id": 229777,
       "game_name": "Mystery Voyage",
       "file": "missing/M/229777-mystery-voyage.json"
@@ -289408,9 +289553,49 @@
       "file": "missing/P/118272-predator-hunting-grounds.json"
     },
     {
+      "igdb_id": 168758,
+      "game_name": "Predator: Hunting Grounds - City Hunter Predator",
+      "file": "missing/P/168758-predator-hunting-grounds-city-hunter-predator.json"
+    },
+    {
+      "igdb_id": 168764,
+      "game_name": "Predator: Hunting Grounds - Dante \"Beast Mode\" Jefferson",
+      "file": "missing/P/168764-predator-hunting-grounds-dante-beast-mode-jefferson.json"
+    },
+    {
+      "igdb_id": 168762,
+      "game_name": "Predator: Hunting Grounds - Dutch '87",
+      "file": "missing/P/168762-predator-hunting-grounds-dutch-87.json"
+    },
+    {
+      "igdb_id": 168759,
+      "game_name": "Predator: Hunting Grounds - Dutch 2025 DLC Pack",
+      "file": "missing/P/168759-predator-hunting-grounds-dutch-2025-dlc-pack.json"
+    },
+    {
+      "igdb_id": 168760,
+      "game_name": "Predator: Hunting Grounds - Isabelle Fireteam DLC Pack",
+      "file": "missing/P/168760-predator-hunting-grounds-isabelle-fireteam-dlc-pack.json"
+    },
+    {
       "igdb_id": 331853,
       "game_name": "Predator: Hunting Grounds - Jungle Edition",
       "file": "missing/P/331853-predator-hunting-grounds-jungle-edition.json"
+    },
+    {
+      "igdb_id": 168757,
+      "game_name": "Predator: Hunting Grounds - Samurai Predator",
+      "file": "missing/P/168757-predator-hunting-grounds-samurai-predator.json"
+    },
+    {
+      "igdb_id": 168763,
+      "game_name": "Predator: Hunting Grounds - Valkyrie Predator DLC Pack",
+      "file": "missing/P/168763-predator-hunting-grounds-valkyrie-predator-dlc-pack.json"
+    },
+    {
+      "igdb_id": 168761,
+      "game_name": "Predator: Hunting Grounds - Viking Predator",
+      "file": "missing/P/168761-predator-hunting-grounds-viking-predator.json"
     },
     {
       "igdb_id": 320763,
@@ -294676,6 +294861,11 @@
       "igdb_id": 368048,
       "game_name": "Pure Love",
       "file": "missing/P/368048-pure-love.json"
+    },
+    {
+      "igdb_id": 169288,
+      "game_name": "Pure Metal: Feature 1",
+      "file": "missing/P/169288-pure-metal-feature-1.json"
     },
     {
       "igdb_id": 188100,
@@ -314713,6 +314903,11 @@
       "file": "missing/R/65829-rover-builder.json"
     },
     {
+      "igdb_id": 168754,
+      "game_name": "Rover Mechanic Challenge: ERC Competition",
+      "file": "missing/R/168754-rover-mechanic-challenge-erc-competition.json"
+    },
+    {
       "igdb_id": 170991,
       "game_name": "Rover Mechanic Simulator: Perseverance Rover",
       "file": "missing/R/170991-rover-mechanic-simulator-perseverance-rover.json"
@@ -325071,6 +325266,16 @@
       "igdb_id": 295928,
       "game_name": "Sen no Inori no Paradox",
       "file": "missing/S/295928-sen-no-inori-no-paradox.json"
+    },
+    {
+      "igdb_id": 168755,
+      "game_name": "Senalux: Level Pack 3",
+      "file": "missing/S/168755-senalux-level-pack-3.json"
+    },
+    {
+      "igdb_id": 168756,
+      "game_name": "Senalux: Level Pack 4",
+      "file": "missing/S/168756-senalux-level-pack-4.json"
     },
     {
       "igdb_id": 277833,
@@ -353173,6 +353378,16 @@
       "file": "missing/S/94816-star-renegades.json"
     },
     {
+      "igdb_id": 169276,
+      "game_name": "Star Renegades: Enter the Dragoon",
+      "file": "missing/S/169276-star-renegades-enter-the-dragoon.json"
+    },
+    {
+      "igdb_id": 169277,
+      "game_name": "Star Renegades: The Imperium Strikes Back",
+      "file": "missing/S/169277-star-renegades-the-imperium-strikes-back.json"
+    },
+    {
       "igdb_id": 166215,
       "game_name": "Star Renegades: Total Lunarcy",
       "file": "missing/S/166215-star-renegades-total-lunarcy.json"
@@ -356271,6 +356486,11 @@
       "igdb_id": 43341,
       "game_name": "Steel Dragon Ex",
       "file": "missing/S/43341-steel-dragon-ex.json"
+    },
+    {
+      "igdb_id": 169287,
+      "game_name": "Steel Eagle: Cave Mission",
+      "file": "missing/S/169287-steel-eagle-cave-mission.json"
     },
     {
       "igdb_id": 49383,
@@ -409623,6 +409843,16 @@
       "file": "missing/T/362826-toolbox-tycoon.json"
     },
     {
+      "igdb_id": 169281,
+      "game_name": "Tools Up! Garden Party: Episode 2 - Tunnel Vision",
+      "file": "missing/T/169281-tools-up-garden-party-episode-2-tunnel-vision.json"
+    },
+    {
+      "igdb_id": 169279,
+      "game_name": "Tools Up! Garden Party: Episode 3 - Home Sweet Home",
+      "file": "missing/T/169279-tools-up-garden-party-episode-3-home-sweet-home.json"
+    },
+    {
       "igdb_id": 202935,
       "game_name": "Tools Up! Garden Party: Season Pass",
       "file": "missing/T/202935-tools-up-garden-party-season-pass.json"
@@ -413108,9 +413338,24 @@
       "file": "missing/T/136868-train-sim-world-2.json"
     },
     {
+      "igdb_id": 168737,
+      "game_name": "Train Sim World 2: BR Class 20 'Chopper' Loco",
+      "file": "missing/T/168737-train-sim-world-2-br-class-20-chopper-loco.json"
+    },
+    {
+      "igdb_id": 168732,
+      "game_name": "Train Sim World 2: BR Class 31 Loco",
+      "file": "missing/T/168732-train-sim-world-2-br-class-31-loco.json"
+    },
+    {
       "igdb_id": 205574,
       "game_name": "Train Sim World 2: BR Class 313",
       "file": "missing/T/205574-train-sim-world-2-br-class-313.json"
+    },
+    {
+      "igdb_id": 168736,
+      "game_name": "Train Sim World 2: BR Class 33 Loco",
+      "file": "missing/T/168736-train-sim-world-2-br-class-33-loco.json"
     },
     {
       "igdb_id": 227329,
@@ -413118,14 +413363,44 @@
       "file": "missing/T/227329-train-sim-world-2-br-heavy-freight-pack.json"
     },
     {
+      "igdb_id": 168730,
+      "game_name": "Train Sim World 2: BR Heavy Freight Pack Loco",
+      "file": "missing/T/168730-train-sim-world-2-br-heavy-freight-pack-loco.json"
+    },
+    {
+      "igdb_id": 168729,
+      "game_name": "Train Sim World 2: Cane Creek: Thompson - Potash Route",
+      "file": "missing/T/168729-train-sim-world-2-cane-creek-thompson-potash-route.json"
+    },
+    {
       "igdb_id": 139931,
       "game_name": "Train Sim World 2: Collector's Edition",
       "file": "missing/T/139931-train-sim-world-2-collectors-edition.json"
     },
     {
+      "igdb_id": 168735,
+      "game_name": "Train Sim World 2: CSX C40-8W Loco",
+      "file": "missing/T/168735-train-sim-world-2-csx-c40-8w-loco.json"
+    },
+    {
+      "igdb_id": 168731,
+      "game_name": "Train Sim World 2: DB BR 101 Loco",
+      "file": "missing/T/168731-train-sim-world-2-db-br-101-loco.json"
+    },
+    {
       "igdb_id": 167301,
       "game_name": "Train Sim World 2: DB BR 182 Loco Add-On",
       "file": "missing/T/167301-train-sim-world-2-db-br-182-loco-add-on.json"
+    },
+    {
+      "igdb_id": 168734,
+      "game_name": "Train Sim World 2: DB BR 204 Loco",
+      "file": "missing/T/168734-train-sim-world-2-db-br-204-loco.json"
+    },
+    {
+      "igdb_id": 168733,
+      "game_name": "Train Sim World 2: DB BR 363 Loco",
+      "file": "missing/T/168733-train-sim-world-2-db-br-363-loco.json"
     },
     {
       "igdb_id": 227328,
@@ -413141,6 +413416,11 @@
       "igdb_id": 147456,
       "game_name": "Train Sim World 2: Hauptstrecke Hamburg - Lübeck Route Add-On",
       "file": "missing/T/147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json"
+    },
+    {
+      "igdb_id": 168738,
+      "game_name": "Train Sim World 2: LIRR M3 EMU Loco",
+      "file": "missing/T/168738-train-sim-world-2-lirr-m3-emu-loco.json"
     },
     {
       "igdb_id": 227327,
@@ -445146,6 +445426,16 @@
       "igdb_id": 3089,
       "game_name": "WRC 4 FIA World Rally Championship",
       "file": "missing/W/3089-wrc-4-fia-world-rally-championship.json"
+    },
+    {
+      "igdb_id": 168739,
+      "game_name": "WRC 5: WRC - eSports Pack 1",
+      "file": "missing/W/168739-wrc-5-wrc-esports-pack-1.json"
+    },
+    {
+      "igdb_id": 168740,
+      "game_name": "WRC 5: WRC - eSports Pack 2",
+      "file": "missing/W/168740-wrc-5-wrc-esports-pack-2.json"
     },
     {
       "igdb_id": 216231,
