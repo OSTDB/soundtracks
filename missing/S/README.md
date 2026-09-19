@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scars of Summer: After | 381696 | [381696-scars-of-summer-after.json](./381696-scars-of-summer-after.json) |
 | Scary 8 Bits | 404207 | [404207-scary-8-bits.json](./404207-scary-8-bits.json) |
 | Scary Bucketman | 319950 | [319950-scary-bucketman.json](./319950-scary-bucketman.json) |
+| Scary Buddies | 167717 | [167717-scary-buddies.json](./167717-scary-buddies.json) |
 | Scary Doll: Twin Sister | 303094 | [303094-scary-doll-twin-sister.json](./303094-scary-doll-twin-sister.json) |
 | Scary Game | 356148 | [356148-scary-game.json](./356148-scary-game.json) |
 | Scary Goat 2017 | 89987 | [89987-scary-goat-2017.json](./89987-scary-goat-2017.json) |
@@ -990,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scourge of War: Waterloo - Ligny | 171038 | [171038-scourge-of-war-waterloo-ligny.json](./171038-scourge-of-war-waterloo-ligny.json) |
 | Scourge of War: Waterloo - Quatre Bras | 171039 | [171039-scourge-of-war-waterloo-quatre-bras.json](./171039-scourge-of-war-waterloo-quatre-bras.json) |
 | Scourge of War: Waterloo - Wavre | 171040 | [171040-scourge-of-war-waterloo-wavre.json](./171040-scourge-of-war-waterloo-wavre.json) |
+| Scourge Outbreak: Blindside | 167710 | [167710-scourge-outbreak-blindside.json](./167710-scourge-outbreak-blindside.json) |
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
 | Scouts Out | 413034 | [413034-scouts-out.json](./413034-scouts-out.json) |
 | SCP 173 - Nightshift Survival Breach Containment | 102739 | [102739-scp-173-nightshift-survival-breach-containment.json](./102739-scp-173-nightshift-survival-breach-containment.json) |
@@ -1186,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Brave: Aidan Adventure | 270125 | [270125-sea-of-brave-aidan-adventure.json](./270125-sea-of-brave-aidan-adventure.json) |
 | Sea of Brave: Beast Island | 303082 | [303082-sea-of-brave-beast-island.json](./303082-sea-of-brave-beast-island.json) |
 | Sea of Change | 302373 | [302373-sea-of-change.json](./302373-sea-of-change.json) |
+| Sea of Dawn | 167674 | [167674-sea-of-dawn.json](./167674-sea-of-dawn.json) |
 | Sea of Giants: Monument Island | 96046 | [96046-sea-of-giants-monument-island.json](./96046-sea-of-giants-monument-island.json) |
 | Sea of Lies: Burning Coast | 98434 | [98434-sea-of-lies-burning-coast.json](./98434-sea-of-lies-burning-coast.json) |
 | Sea of Lies: Burning Coast - Collector's Edition | 83554 | [83554-sea-of-lies-burning-coast-collectors-edition.json](./83554-sea-of-lies-burning-coast-collectors-edition.json) |
