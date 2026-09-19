@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Comes After | 142382 | [142382-what-comes-after.json](./142382-what-comes-after.json) |
 | What Comes Next | 332974 | [332974-what-comes-next.json](./332974-what-comes-next.json) |
 | What da Yak | 214758 | [214758-what-da-yak.json](./214758-what-da-yak.json) |
+| What do I want? | 178498 | [178498-what-do-i-want.json](./178498-what-do-i-want.json) |
 | What Do You Know? | 234723 | [234723-what-do-you-know.json](./234723-what-do-you-know.json) |
 | What Goes Pumpkin the Night | 186181 | [186181-what-goes-pumpkin-the-night.json](./186181-what-goes-pumpkin-the-night.json) |
 | What Happened: Through Worlds | 314856 | [314856-what-happened-through-worlds.json](./314856-what-happened-through-worlds.json) |
@@ -1942,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woke or Nah | 355532 | [355532-woke-or-nah.json](./355532-woke-or-nah.json) |
 | Woke Quest | 415914 | [415914-woke-quest.json](./415914-woke-quest.json) |
 | Wolf | 9573 | [9573-wolf.json](./9573-wolf.json) |
+| Wolf & Eggs! | 178532 | [178532-wolf-and-eggs.json](./178532-wolf-and-eggs.json) |
 | Wolf & Pigs | 127197 | [127197-wolf-and-pigs.json](./127197-wolf-and-pigs.json) |
 | Wolf & Rabbit | 90027 | [90027-wolf-and-rabbit.json](./90027-wolf-and-rabbit.json) |
 | Wolf Adventures | 164518 | [164518-wolf-adventures.json](./164518-wolf-adventures.json) |
