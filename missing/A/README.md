@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ale Abbey | 305173 | [305173-ale-abbey.json](./305173-ale-abbey.json) |
 | Alea Jacta Est: Birth of Rome | 169292 | [169292-alea-jacta-est-birth-of-rome.json](./169292-alea-jacta-est-birth-of-rome.json) |
 | Alea Jacta Est: Cantabrian Wars | 169291 | [169291-alea-jacta-est-cantabrian-wars.json](./169291-alea-jacta-est-cantabrian-wars.json) |
+| Alea Jacta Est: Hannibal Terror of Rome | 169289 | [169289-alea-jacta-est-hannibal-terror-of-rome.json](./169289-alea-jacta-est-hannibal-terror-of-rome.json) |
 | Alea Jacta Est: Parthian Wars | 169293 | [169293-alea-jacta-est-parthian-wars.json](./169293-alea-jacta-est-parthian-wars.json) |
 | Alea Jacta Est: Spartacus 73BC | 169290 | [169290-alea-jacta-est-spartacus-73bc.json](./169290-alea-jacta-est-spartacus-73bc.json) |
 | Alea Lacta Est | 300419 | [300419-alea-lacta-est.json](./300419-alea-lacta-est.json) |
@@ -3892,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Shadows | 331306 | [331306-assassins-shadows.json](./331306-assassins-shadows.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
 | Assassins Unleashed: The Apocalypse | 296492 | [296492-assassins-unleashed-the-apocalypse.json](./296492-assassins-unleashed-the-apocalypse.json) |
+| Assau!t | 168221 | [168221-assau-t.json](./168221-assau-t.json) |
 | Assault at Wounded Ankle | 350993 | [350993-assault-at-wounded-ankle.json](./350993-assault-at-wounded-ankle.json) |
 | Assault Bandit | 240347 | [240347-assault-bandit.json](./240347-assault-bandit.json) |
 | Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
