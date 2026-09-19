@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Secret Realm Survivor Roguelike | 366293 | [366293-hero-secret-realm-survivor-roguelike.json](./366293-hero-secret-realm-survivor-roguelike.json) |
 | Hero Siege Complete | 53188 | [53188-hero-siege-complete.json](./53188-hero-siege-complete.json) |
 | Hero Siege: Companion Bundle | 224234 | [224234-hero-siege-companion-bundle.json](./224234-hero-siege-companion-bundle.json) |
+| Hero Siege: Wrath of Mevius | 168769 | [168769-hero-siege-wrath-of-mevius.json](./168769-hero-siege-wrath-of-mevius.json) |
 | Hero Staff | 113655 | [113655-hero-staff.json](./113655-hero-staff.json) |
 | Hero Stickman | 346653 | [346653-hero-stickman.json](./346653-hero-stickman.json) |
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
