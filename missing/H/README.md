@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannah Montana: One in a Million | 220093 | [220093-hannah-montana-one-in-a-million.json](./220093-hannah-montana-one-in-a-million.json) |
 | Hannah Montana: Pop Star Exclusive | 79855 | [79855-hannah-montana-pop-star-exclusive.json](./79855-hannah-montana-pop-star-exclusive.json) |
 | Hannibal | 405536 | [405536-hannibal.json](./405536-hannibal.json) |
+| Hannibal: Rome and Carthage in the Second Punic War | 129583 | [129583-hannibal-rome-and-carthage-in-the-second-punic-war.json](./129583-hannibal-rome-and-carthage-in-the-second-punic-war.json) |
 | Hanno | 289870 | [289870-hanno.json](./289870-hanno.json) |
 | Hannya Bullet Hell | 151671 | [151671-hannya-bullet-hell.json](./151671-hannya-bullet-hell.json) |
 | Hanoi Puzzles: Flip Match | 159810 | [159810-hanoi-puzzles-flip-match.json](./159810-hanoi-puzzles-flip-match.json) |
@@ -894,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayate no Gotoku! Ojousama Produce Daisakusen Boku Iro ni Somare! | 72684 | [72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json](./72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json) |
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
 | Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
+| Haypi Monster 3 | 129610 | [129610-haypi-monster-3.json](./129610-haypi-monster-3.json) |
 | Haywire | 180825 | [180825-haywire.json](./180825-haywire.json) |
 | Haywire Hospital | 233639 | [233639-haywire-hospital.json](./233639-haywire-hospital.json) |
 | Hazar | 384068 | [384068-hazar.json](./384068-hazar.json) |
@@ -2595,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Player VR | 117837 | [117837-hockey-player-vr.json](./117837-hockey-player-vr.json) |
 | Hockey Super Squad | 321537 | [321537-hockey-super-squad.json](./321537-hockey-super-squad.json) |
 | Hockey: Strategy of Success | 115690 | [115690-hockey-strategy-of-success.json](./115690-hockey-strategy-of-success.json) |
+| Hoco Poco | 129577 | [129577-hoco-poco.json](./129577-hoco-poco.json) |
 | Hocus 2 | 149537 | [149537-hocus-2.json](./149537-hocus-2.json) |
 | Hocus Pocus Prince | 183563 | [183563-hocus-pocus-prince.json](./183563-hocus-pocus-prince.json) |
 | HocusDOOM | 201232 | [201232-hocusdoom.json](./201232-hocusdoom.json) |
@@ -2996,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopepunk City | 255098 | [255098-hopepunk-city.json](./255098-hopepunk-city.json) |
 | Hopfall | 370126 | [370126-hopfall.json](./370126-hopfall.json) |
 | Hoplichess | 156013 | [156013-hoplichess.json](./156013-hoplichess.json) |
+| Hoppa | 129574 | [129574-hoppa.json](./129574-hoppa.json) |
 | Hoppe Chan: Punitto Shibotte Daibouken! | 222538 | [222538-hoppe-chan-punitto-shibotte-daibouken.json](./222538-hoppe-chan-punitto-shibotte-daibouken.json) |
 | Hoppe-chan Minna de Odekake! Waku-waku Hoppe Land!! | 222296 | [222296-hoppe-chan-minna-de-odekake-waku-waku-hoppe-land.json](./222296-hoppe-chan-minna-de-odekake-waku-waku-hoppe-land.json) |
 | Hopper | 13726 | [13726-hopper.json](./13726-hopper.json) |
@@ -3703,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Husky's Adventures | 152733 | [152733-huskys-adventures.json](./152733-huskys-adventures.json) |
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
+| Huts | 129575 | [129575-huts.json](./129575-huts.json) |
 | Hv Rebellion | 184568 | [184568-hv-rebellion.json](./184568-hv-rebellion.json) |
 | HVRGun | 29707 | [29707-hvrgun.json](./29707-hvrgun.json) |
 | Hwajilguji | 219147 | [219147-hwajilguji.json](./219147-hwajilguji.json) |
