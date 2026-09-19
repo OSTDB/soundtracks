@@ -2963,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forever Labyrinth | 285049 | [285049-the-forever-labyrinth.json](./285049-the-forever-labyrinth.json) |
 | The Forever Moon | 165023 | [165023-the-forever-moon.json](./165023-the-forever-moon.json) |
 | The Foreverlands | 181234 | [181234-the-foreverlands.json](./181234-the-foreverlands.json) |
+| The Forger | 166060 | [166060-the-forger.json](./166060-the-forger.json) |
 | The Forgers | 352186 | [352186-the-forgers.json](./352186-the-forgers.json) |
 | The Forgotten City: Cloud Version | 173145 | [173145-the-forgotten-city-cloud-version.json](./173145-the-forgotten-city-cloud-version.json) |
 | The Forgotten City: Digital Collector's Edition | 167179 | [167179-the-forgotten-city-digital-collectors-edition.json](./167179-the-forgotten-city-digital-collectors-edition.json) |
@@ -6846,6 +6847,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Winter Assault MP006 | 160369 | [160369-tiger-tank-59-i-winter-assault-mp006.json](./160369-tiger-tank-59-i-winter-assault-mp006.json) |
 | Tiger Tank 59 I: Winter Assault MP019 | 160355 | [160355-tiger-tank-59-i-winter-assault-mp019.json](./160355-tiger-tank-59-i-winter-assault-mp019.json) |
 | Tiger Tank 59 I: Winter Assault MP024 | 160359 | [160359-tiger-tank-59-i-winter-assault-mp024.json](./160359-tiger-tank-59-i-winter-assault-mp024.json) |
+| Tiger Tank 59 I: Winter Assault MP051 | 166108 | [166108-tiger-tank-59-i-winter-assault-mp051.json](./166108-tiger-tank-59-i-winter-assault-mp051.json) |
+| Tiger Tank 59 I: Winter Assault MP052 | 166106 | [166106-tiger-tank-59-i-winter-assault-mp052.json](./166106-tiger-tank-59-i-winter-assault-mp052.json) |
+| Tiger Tank 59 I: Winter Assault MP053 | 166107 | [166107-tiger-tank-59-i-winter-assault-mp053.json](./166107-tiger-tank-59-i-winter-assault-mp053.json) |
+| Tiger Tank 59 I: Winter Assault MP058 | 166109 | [166109-tiger-tank-59-i-winter-assault-mp058.json](./166109-tiger-tank-59-i-winter-assault-mp058.json) |
 | Tiger Tank 59 I: Winter Assault MP062 | 173761 | [173761-tiger-tank-59-i-winter-assault-mp062.json](./173761-tiger-tank-59-i-winter-assault-mp062.json) |
 | Tiger Tank 59 I: Winter Assault MP066 | 173764 | [173764-tiger-tank-59-i-winter-assault-mp066.json](./173764-tiger-tank-59-i-winter-assault-mp066.json) |
 | Tiger Tank 59 I: Winter Assault MP072 | 173765 | [173765-tiger-tank-59-i-winter-assault-mp072.json](./173765-tiger-tank-59-i-winter-assault-mp072.json) |
