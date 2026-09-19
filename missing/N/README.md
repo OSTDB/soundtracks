@@ -553,6 +553,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Carbon - Own the City | 248119 | [248119-need-for-speed-carbon-own-the-city.json](./248119-need-for-speed-carbon-own-the-city.json) |
 | Need for Speed: Carbon - Own the City | 248120 | [248120-need-for-speed-carbon-own-the-city.json](./248120-need-for-speed-carbon-own-the-city.json) |
 | Need for Speed: Heat | 119161 | [119161-need-for-speed-heat.json](./119161-need-for-speed-heat.json) |
+| Need for Speed: Heat - McLaren F1 Black Market Delivery | 140381 | [140381-need-for-speed-heat-mclaren-f1-black-market-delivery.json](./140381-need-for-speed-heat-mclaren-f1-black-market-delivery.json) |
+| Need for Speed: Heat - Red Bull Nissan 370Z | 140382 | [140382-need-for-speed-heat-red-bull-nissan-370z.json](./140382-need-for-speed-heat-red-bull-nissan-370z.json) |
 | Need for Speed: High Stakes | 93 | [93-need-for-speed-high-stakes.json](./93-need-for-speed-high-stakes.json) |
 | Need for Speed: Hot Pursuit | 264364 | [264364-need-for-speed-hot-pursuit.json](./264364-need-for-speed-hot-pursuit.json) |
 | Need for speed: Mobile | 322164 | [322164-need-for-speed-mobile.json](./322164-need-for-speed-mobile.json) |
@@ -2095,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Alone | 184094 | [184094-not-alone.json](./184094-not-alone.json) |
 | Not Alone | 223040 | [223040-not-alone.json](./223040-not-alone.json) |
 | Not an Aim Trainer | 305776 | [305776-not-an-aim-trainer.json](./305776-not-an-aim-trainer.json) |
+| Not Another Weekend | 140388 | [140388-not-another-weekend.json](./140388-not-another-weekend.json) |
 | Not Dead Yet | 143500 | [143500-not-dead-yet.json](./143500-not-dead-yet.json) |
 | Not Enough Time | 322943 | [322943-not-enough-time.json](./322943-not-enough-time.json) |
 | Not Everything is Flammable | 223675 | [223675-not-everything-is-flammable.json](./223675-not-everything-is-flammable.json) |
