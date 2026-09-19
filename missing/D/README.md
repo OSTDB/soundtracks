@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Golf Adventure 2 VR | 148481 | [148481-disc-golf-adventure-2-vr.json](./148481-disc-golf-adventure-2-vr.json) |
 | Disc Golf Rival | 221377 | [221377-disc-golf-rival.json](./221377-disc-golf-rival.json) |
 | Disc Golf to Go | 175399 | [175399-disc-golf-to-go.json](./175399-disc-golf-to-go.json) |
+| Disc Ninja | 164886 | [164886-disc-ninja.json](./164886-disc-ninja.json) |
 | Disc Party | 134081 | [134081-disc-party.json](./134081-disc-party.json) |
 | Disc Room | 131614 | [131614-disc-room.json](./131614-disc-room.json) |
 | Disc Saga Extra Edition: The Tower of Muda | 238086 | [238086-disc-saga-extra-edition-the-tower-of-muda.json](./238086-disc-saga-extra-edition-the-tower-of-muda.json) |
@@ -4775,6 +4776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droplet Shuffle | 61057 | [61057-droplet-shuffle.json](./61057-droplet-shuffle.json) |
 | Dropoff | 410269 | [410269-dropoff.json](./410269-dropoff.json) |
 | Dropped into the Modern World: Surviving the Red-Light District | 311623 | [311623-dropped-into-the-modern-world-surviving-the-red-light-district.json](./311623-dropped-into-the-modern-world-surviving-the-red-light-district.json) |
+| Droptch | 164920 | [164920-droptch.json](./164920-droptch.json) |
 | DropZap | 174182 | [174182-dropzap.json](./174182-dropzap.json) |
 | Dropzone | 30116 | [30116-dropzone.json](./30116-dropzone.json) |
 | Dropzone | 369616 | [369616-dropzone.json](./369616-dropzone.json) |
