@@ -3664,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Motor Racing X | 126194 | [126194-mini-motor-racing-x.json](./126194-mini-motor-racing-x.json) |
 | Mini Motor Racing X: Digital Deluxe Edition | 132167 | [132167-mini-motor-racing-x-digital-deluxe-edition.json](./132167-mini-motor-racing-x-digital-deluxe-edition.json) |
 | Mini Pipes | 195147 | [195147-mini-pipes.json](./195147-mini-pipes.json) |
+| Mini Puzzle Balls | 147784 | [147784-mini-puzzle-balls.json](./147784-mini-puzzle-balls.json) |
 | Mini Quests | 207852 | [207852-mini-quests.json](./207852-mini-quests.json) |
 | Mini Racer Car Shop Simulator | 326386 | [326386-mini-racer-car-shop-simulator.json](./326386-mini-racer-car-shop-simulator.json) |
 | Mini Racing: Mini Cars Curling | 233755 | [233755-mini-racing-mini-cars-curling.json](./233755-mini-racing-mini-cars-curling.json) |
@@ -5946,6 +5947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Home Town | 166144 | [166144-my-home-town.json](./166144-my-home-town.json) |
 | My Home VR | 127206 | [127206-my-home-vr.json](./127206-my-home-vr.json) |
 | My Hooptie | 369656 | [369656-my-hooptie.json](./369656-my-hooptie.json) |
+| My Horse 3D: Best Friends | 147823 | [147823-my-horse-3d-best-friends.json](./147823-my-horse-3d-best-friends.json) |
 | My Horse Farm | 206774 | [206774-my-horse-farm.json](./206774-my-horse-farm.json) |
 | My Horse Farm: Welcome to Trotterville | 206775 | [206775-my-horse-farm-welcome-to-trotterville.json](./206775-my-horse-farm-welcome-to-trotterville.json) |
 | My Horse Stories | 300847 | [300847-my-horse-stories.json](./300847-my-horse-stories.json) |
