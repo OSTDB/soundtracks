@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Flight Administrator Simulator & Air Traffic-Sky Airplane Sim Plane | 220873 | [220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json](./220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json) |
 | Airport Inspector | 382320 | [382320-airport-inspector.json](./382320-airport-inspector.json) |
 | Airport Madness Collection | 52566 | [52566-airport-madness-collection.json](./52566-airport-madness-collection.json) |
+| Airport Mania: First Flight HD | 175282 | [175282-airport-mania-first-flight-hd.json](./175282-airport-mania-first-flight-hd.json) |
 | Airport Master | 29649 | [29649-airport-master.json](./29649-airport-master.json) |
 | Airport Run | 268016 | [268016-airport-run.json](./268016-airport-run.json) |
 | Airport Security Sucks! | 397694 | [397694-airport-security-sucks.json](./397694-airport-security-sucks.json) |
@@ -3979,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Etherium | 61027 | [61027-astra-etherium.json](./61027-astra-etherium.json) |
 | Astra GalaxyX | 399615 | [399615-astra-galaxyx.json](./399615-astra-galaxyx.json) |
 | Astra Intra | 258001 | [258001-astra-intra.json](./258001-astra-intra.json) |
+| Astra Itinera | 175262 | [175262-astra-itinera.json](./175262-astra-itinera.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
 | Astra Quest | 347718 | [347718-astra-quest.json](./347718-astra-quest.json) |
 | Astra Sentinel | 392126 | [392126-astra-sentinel.json](./392126-astra-sentinel.json) |
