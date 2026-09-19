@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Mini Micro Adventures | 331311 | [331311-marios-mini-micro-adventures.json](./331311-marios-mini-micro-adventures.json) |
 | Mario's Mission Earth | 195733 | [195733-marios-mission-earth.json](./195733-marios-mission-earth.json) |
 | Mario's Modules | 388945 | [388945-marios-modules.json](./388945-marios-modules.json) |
+| Mario's Mystery Meat | 174730 | [174730-marios-mystery-meat.json](./174730-marios-mystery-meat.json) |
 | Mario's Picross | 71976 | [71976-marios-picross.json](./71976-marios-picross.json) |
 | Mario's Pride: Mini Quest | 254516 | [254516-marios-pride-mini-quest.json](./254516-marios-pride-mini-quest.json) |
 | Mario's Rules: Variety on 3 | 323748 | [323748-marios-rules-variety-on-3.json](./323748-marios-rules-variety-on-3.json) |
@@ -2453,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorial Pillage | 183462 | [183462-memorial-pillage.json](./183462-memorial-pillage.json) |
 | Memorial Series: Sunsoft vol. 1 | 79347 | [79347-memorial-series-sunsoft-vol-1.json](./79347-memorial-series-sunsoft-vol-1.json) |
 | Memoriedit | 373521 | [373521-memoriedit.json](./373521-memoriedit.json) |
+| Memories | 174752 | [174752-memories.json](./174752-memories.json) |
 | Memories | 269566 | [269566-memories.json](./269566-memories.json) |
 | Memories From Beyond a Coral Sea | 243382 | [243382-memories-from-beyond-a-coral-sea.json](./243382-memories-from-beyond-a-coral-sea.json) |
 | Memories in Late Summer | 109688 | [109688-memories-in-late-summer.json](./109688-memories-in-late-summer.json) |
@@ -5322,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Whiskers Bubbles | 385088 | [385088-mr-whiskers-bubbles.json](./385088-mr-whiskers-bubbles.json) |
 | Mr. Wings | 255714 | [255714-mr-wings.json](./255714-mr-wings.json) |
 | Mr.Addon in Sulpicius Gallus M | 187384 | [187384-mr-addon-in-sulpicius-gallus-m.json](./187384-mr-addon-in-sulpicius-gallus-m.json) |
+| MR.KungFu | 174737 | [174737-mr-kungfu.json](./174737-mr-kungfu.json) |
 | Mr.Mine | 157130 | [157130-mr-mine.json](./157130-mr-mine.json) |
 | Mr.Ninja!! Fever | 248283 | [248283-mr-ninja-fever.json](./248283-mr-ninja-fever.json) |
 | Mr.T Survival | 249295 | [249295-mr-t-survival.json](./249295-mr-t-survival.json) |
