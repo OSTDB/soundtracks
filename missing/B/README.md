@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B Senjou no Alice: Alice on Borderlines | 230517 | [230517-b-senjou-no-alice-alice-on-borderlines.json](./230517-b-senjou-no-alice-alice-on-borderlines.json) |
 | B Team: Metal Cartoon Squad | 21252 | [21252-b-team-metal-cartoon-squad.json](./21252-b-team-metal-cartoon-squad.json) |
 | B u r n t | 181392 | [181392-b-u-r-n-t.json](./181392-b-u-r-n-t.json) |
+| B-Cubed | 159169 | [159169-b-cubed.json](./159169-b-cubed.json) |
 | B-e-e-t-l-e | 178507 | [178507-b-e-e-t-l-e.json](./178507-b-e-e-t-l-e.json) |
 | B-e-e-t-l-e: Be right back! | 366937 | [366937-b-e-e-t-l-e-be-right-back.json](./366937-b-e-e-t-l-e-be-right-back.json) |
 | B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
@@ -840,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BaroMaro | 304689 | [304689-baromaro.json](./304689-baromaro.json) |
 | Baron | 283906 | [283906-baron.json](./283906-baron.json) |
 | Baron Baldric: A Grave Adventure | 14287 | [14287-baron-baldric-a-grave-adventure.json](./14287-baron-baldric-a-grave-adventure.json) |
+| Baron of Blood | 159153 | [159153-baron-of-blood.json](./159153-baron-of-blood.json) |
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
 | Barp Online | 379959 | [379959-barp-online.json](./379959-barp-online.json) |
 | Barrage | 146228 | [146228-barrage.json](./146228-barrage.json) |
@@ -901,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 7580 | [7580-baseball.json](./7580-baseball.json) |
 | Baseball 101 | 230839 | [230839-baseball-101.json](./230839-baseball-101.json) |
 | Baseball 3DS | 21150 | [21150-baseball-3ds.json](./21150-baseball-3ds.json) |
+| Baseball 9 | 159122 | [159122-baseball-9.json](./159122-baseball-9.json) |
 | Baseball Bout: Otterrific Arcade | 214517 | [214517-baseball-bout-otterrific-arcade.json](./214517-baseball-bout-otterrific-arcade.json) |
 | Baseball Boy! | 87059 | [87059-baseball-boy.json](./87059-baseball-boy.json) |
 | Baseball Champion League 2019 | 220204 | [220204-baseball-champion-league-2019.json](./220204-baseball-champion-league-2019.json) |
