@@ -3874,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Hearts: Crimson Cruise | 416625 | [416625-missing-hearts-crimson-cruise.json](./416625-missing-hearts-crimson-cruise.json) |
 | Missing Heroes | 224003 | [224003-missing-heroes.json](./224003-missing-heroes.json) |
 | Missing In Action | 40806 | [40806-missing-in-action.json](./40806-missing-in-action.json) |
+| Missing Information | 169325 | [169325-missing-information.json](./169325-missing-information.json) |
 | Missing Kitty | 258724 | [258724-missing-kitty.json](./258724-missing-kitty.json) |
 | Missing Memories | 257088 | [257088-missing-memories.json](./257088-missing-memories.json) |
 | Missing Mildred | 189190 | [189190-missing-mildred.json](./189190-missing-mildred.json) |
@@ -4602,6 +4603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster shooter | 108951 | [108951-monster-shooter.json](./108951-monster-shooter.json) |
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
 | Monster Slayer: Motion Edition | 363413 | [363413-monster-slayer-motion-edition.json](./363413-monster-slayer-motion-edition.json) |
+| Monster Slayers: Fire and Steel | 169330 | [169330-monster-slayers-fire-and-steel.json](./169330-monster-slayers-fire-and-steel.json) |
 | Monster Smoosh | 412307 | [412307-monster-smoosh.json](./412307-monster-smoosh.json) |
 | Monster Spa Center Simulator | 353974 | [353974-monster-spa-center-simulator.json](./353974-monster-spa-center-simulator.json) |
 | Monster Squad | 311649 | [311649-monster-squad.json](./311649-monster-squad.json) |
