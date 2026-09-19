@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshi to Hanaseru! Hangul Kiso Phrase | 276468 | [276468-oshi-to-hanaseru-hangul-kiso-phrase.json](./276468-oshi-to-hanaseru-hangul-kiso-phrase.json) |
 | Oshidashi Zintrick | 130369 | [130369-oshidashi-zintrick.json](./130369-oshidashi-zintrick.json) |
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
+| Oshioki Kirai! 2 | 130769 | [130769-oshioki-kirai-2.json](./130769-oshioki-kirai-2.json) |
 | Oshirikko Venus | 194580 | [194580-oshirikko-venus.json](./194580-oshirikko-venus.json) |
 | Oshirikko Venus 2 | 194581 | [194581-oshirikko-venus-2.json](./194581-oshirikko-venus-2.json) |
 | Oshiya! Push! | 185518 | [185518-oshiya-push.json](./185518-oshiya-push.json) |
