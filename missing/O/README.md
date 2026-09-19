@@ -1395,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otome ga Musubu Tsukiyo no Kirameki | 194593 | [194593-otome-ga-musubu-tsukiyo-no-kirameki.json](./194593-otome-ga-musubu-tsukiyo-no-kirameki.json) |
 | Otome no Himitsu | 188526 | [188526-otome-no-himitsu.json](./188526-otome-no-himitsu.json) |
 | Otome Senki | 304733 | [304733-otome-senki.json](./304733-otome-senki.json) |
+| Otome the Exorcist | 158045 | [158045-otome-the-exorcist.json](./158045-otome-the-exorcist.json) |
 | Otona no Gal Jan Kimi ni Hane Man | 248628 | [248628-otona-no-gal-jan-kimi-ni-hane-man.json](./248628-otona-no-gal-jan-kimi-ni-hane-man.json) |
 | Otona no Joushikiryoku Training DS | 68029 | [68029-otona-no-joushikiryoku-training-ds.json](./68029-otona-no-joushikiryoku-training-ds.json) |
 | Otonari Koi Sensou! | 194547 | [194547-otonari-koi-sensou.json](./194547-otonari-koi-sensou.json) |
