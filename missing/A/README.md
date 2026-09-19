@@ -2716,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antlions Everywhere | 268034 | [268034-antlions-everywhere.json](./268034-antlions-everywhere.json) |
 | Antonball Deluxe | 139595 | [139595-antonball-deluxe.json](./139595-antonball-deluxe.json) |
 | Antonball Deluxe Lite | 153463 | [153463-antonball-deluxe-lite.json](./153463-antonball-deluxe-lite.json) |
+| Antonball Deluxe: Better Than Nothing | 155519 | [155519-antonball-deluxe-better-than-nothing.json](./155519-antonball-deluxe-better-than-nothing.json) |
 | Antonblast | 201752 | [201752-antonblast.json](./201752-antonblast.json) |
 | Antonblast 64 | 375976 | [375976-antonblast-64.json](./375976-antonblast-64.json) |
 | AntQueen 3D | 117642 | [117642-antqueen-3d.json](./117642-antqueen-3d.json) |
