@@ -2730,6 +2730,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackSteel | 105301 | [105301-blacksteel.json](./105301-blacksteel.json) |
 | Blacktail | 152129 | [152129-blacktail.json](./152129-blacktail.json) |
 | Blackthorn Arena | 127233 | [127233-blackthorn-arena.json](./127233-blackthorn-arena.json) |
+| Blackthorn Arena: Gods of War | 164333 | [164333-blackthorn-arena-gods-of-war.json](./164333-blackthorn-arena-gods-of-war.json) |
+| Blackthorn Arena: Path of Kiren | 164335 | [164335-blackthorn-arena-path-of-kiren.json](./164335-blackthorn-arena-path-of-kiren.json) |
+| Blackthorn Arena: The Roar from the North | 164334 | [164334-blackthorn-arena-the-roar-from-the-north.json](./164334-blackthorn-arena-the-roar-from-the-north.json) |
 | Blackthorn Witch | 362326 | [362326-blackthorn-witch.json](./362326-blackthorn-witch.json) |
 | BlackThorne Keep: Chronicles | 159262 | [159262-blackthorne-keep-chronicles.json](./159262-blackthorne-keep-chronicles.json) |
 | Blacktop Hustle | 365741 | [365741-blacktop-hustle.json](./365741-blacktop-hustle.json) |
@@ -4533,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring Me Down | 241350 | [241350-bring-me-down.json](./241350-bring-me-down.json) |
 | Bringris | 174191 | [174191-bringris.json](./174191-bringris.json) |
 | Brink of Consciousness: The Lonely Hearts Murders | 17918 | [17918-brink-of-consciousness-the-lonely-hearts-murders.json](./17918-brink-of-consciousness-the-lonely-hearts-murders.json) |
+| Brink: Agents of Change | 164366 | [164366-brink-agents-of-change.json](./164366-brink-agents-of-change.json) |
 | Briquette Sprite | 87105 | [87105-briquette-sprite.json](./87105-briquette-sprite.json) |
 | Brisk Square | 151178 | [151178-brisk-square.json](./151178-brisk-square.json) |
 | Bristle and the Artificial Invasion | 316102 | [316102-bristle-and-the-artificial-invasion.json](./316102-bristle-and-the-artificial-invasion.json) |
