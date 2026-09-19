@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M. Stain | 356108 | [356108-m-stain.json](./356108-m-stain.json) |
 | M.A.C.H | 44508 | [44508-m-a-c-h.json](./44508-m-a-c-h.json) |
 | M.A.C.S. | 90645 | [90645-m-a-c-s.json](./90645-m-a-c-s.json) |
+| M.A.I.D.s | 148360 | [148360-m-a-i-d-s.json](./148360-m-a-i-d-s.json) |
 | M.A.L.M.O: Scorched Earth | 358346 | [358346-m-a-l-m-o-scorched-earth.json](./358346-m-a-l-m-o-scorched-earth.json) |
 | M.A.Y.A | 397827 | [397827-m-a-y-a.json](./397827-m-a-y-a.json) |
 | M.C Kids | 2718 | [2718-m-c-kids.json](./2718-m-c-kids.json) |
@@ -3618,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mìngyùn de Yǐndǎozhě: Chuánshuō Bǎoshí | 394195 | [394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json](./394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json) |
 | Mini AirHockey | 405473 | [405473-mini-airhockey.json](./405473-mini-airhockey.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
+| Mini Car Racing | 148355 | [148355-mini-car-racing.json](./148355-mini-car-racing.json) |
 | Mini City: Mayhem | 319363 | [319363-mini-city-mayhem.json](./319363-mini-city-mayhem.json) |
 | Mini Cozy Room: Lo-Fi | 338702 | [338702-mini-cozy-room-lo-fi.json](./338702-mini-cozy-room-lo-fi.json) |
 | Mini Crafty | 147392 | [147392-mini-crafty.json](./147392-mini-crafty.json) |
@@ -6015,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
 | My Lovely Family Bundle | 223563 | [223563-my-lovely-family-bundle.json](./223563-my-lovely-family-bundle.json) |
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
+| My Lovely Noblewomen | 148339 | [148339-my-lovely-noblewomen.json](./148339-my-lovely-noblewomen.json) |
 | My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
