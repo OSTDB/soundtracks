@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Luisa Llama | 239078 | [239078-legends-of-luisa-llama.json](./239078-legends-of-luisa-llama.json) |
 | Legends of Lunia | 193974 | [193974-legends-of-lunia.json](./193974-legends-of-lunia.json) |
 | Legends of Mathmatica 2: Under the Shadow of Certainty | 193417 | [193417-legends-of-mathmatica-2-under-the-shadow-of-certainty.json](./193417-legends-of-mathmatica-2-under-the-shadow-of-certainty.json) |
+| Legends of Murder Collection | 173181 | [173181-legends-of-murder-collection.json](./173181-legends-of-murder-collection.json) |
 | Legends of Norrath | 51219 | [51219-legends-of-norrath.json](./51219-legends-of-norrath.json) |
 | Legends of Oz: Dorothy's Return | 57055 | [57055-legends-of-oz-dorothys-return.json](./57055-legends-of-oz-dorothys-return.json) |
 | Legends of Seven Seas | 221406 | [221406-legends-of-seven-seas.json](./221406-legends-of-seven-seas.json) |
@@ -1676,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Cheese Works | 263193 | [263193-little-cheese-works.json](./263193-little-cheese-works.json) |
 | Little Chick | 157165 | [157165-little-chick.json](./157165-little-chick.json) |
 | Little Children's Educational Swanky Puzzles Game | 97308 | [97308-little-childrens-educational-swanky-puzzles-game.json](./97308-little-childrens-educational-swanky-puzzles-game.json) |
+| Little Christmas Adventure | 173166 | [173166-little-christmas-adventure.json](./173166-little-christmas-adventure.json) |
 | Little Christmas Workshop | 382306 | [382306-little-christmas-workshop.json](./382306-little-christmas-workshop.json) |
 | Little Cities | 201654 | [201654-little-cities.json](./201654-little-cities.json) |
 | Little City | 9544 | [9544-little-city.json](./9544-little-city.json) |
@@ -2387,6 +2389,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Isle | 269320 | [269320-lost-isle.json](./269320-lost-isle.json) |
 | Lost Judgment | 146851 | [146851-lost-judgment.json](./146851-lost-judgment.json) |
 | Lost Judgment: Detective Essentials Pack | 264067 | [264067-lost-judgment-detective-essentials-pack.json](./264067-lost-judgment-detective-essentials-pack.json) |
+| Lost Judgment: Digital Deluxe Edition | 173165 | [173165-lost-judgment-digital-deluxe-edition.json](./173165-lost-judgment-digital-deluxe-edition.json) |
+| Lost Judgment: Digital Ultimate Edition | 173164 | [173164-lost-judgment-digital-ultimate-edition.json](./173164-lost-judgment-digital-ultimate-edition.json) |
 | Lost Judgment: School Stories Expansion Pack | 264071 | [264071-lost-judgment-school-stories-expansion-pack.json](./264071-lost-judgment-school-stories-expansion-pack.json) |
 | Lost Key: The Path of Illumination | 318763 | [318763-lost-key-the-path-of-illumination.json](./318763-lost-key-the-path-of-illumination.json) |
 | Lost Kingdoms | 3981 | [3981-lost-kingdoms.json](./3981-lost-kingdoms.json) |
@@ -2748,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo Online | 89583 | [89583-ludo-online.json](./89583-ludo-online.json) |
 | Ludo Saga | 240349 | [240349-ludo-saga.json](./240349-ludo-saga.json) |
 | Ludo Ultimate Online Dice Game | 91343 | [91343-ludo-ultimate-online-dice-game.json](./91343-ludo-ultimate-online-dice-game.json) |
+| Ludo XXL | 173136 | [173136-ludo-xxl.json](./173136-ludo-xxl.json) |
 | Ludo XXL 2 | 362369 | [362369-ludo-xxl-2.json](./362369-ludo-xxl-2.json) |
 | Ludomalica | 392278 | [392278-ludomalica.json](./392278-ludomalica.json) |
 | Ludu | 26491 | [26491-ludu.json](./26491-ludu.json) |
