@@ -1937,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Tank | 79228 | [79228-fish-tank.json](./79228-fish-tank.json) |
 | Fish Tank Live | 230849 | [230849-fish-tank-live.json](./230849-fish-tank-live.json) |
 | Fish Tank Simulator | 383958 | [383958-fish-tank-simulator.json](./383958-fish-tank-simulator.json) |
+| Fish Tanks | 144795 | [144795-fish-tanks.json](./144795-fish-tanks.json) |
 | Fish the Detective! | 219675 | [219675-fish-the-detective.json](./219675-fish-the-detective.json) |
 | Fish Upon a Star | 112287 | [112287-fish-upon-a-star.json](./112287-fish-upon-a-star.json) |
 | Fish War | 247024 | [247024-fish-war.json](./247024-fish-war.json) |
