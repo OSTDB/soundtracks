@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Mining Marvelous Martian Minerals | 363934 | [363934-mecha-mining-marvelous-martian-minerals.json](./363934-mecha-mining-marvelous-martian-minerals.json) |
 | Mecha Ritz: Steel Rondo 2.0 | 229042 | [229042-mecha-ritz-steel-rondo-2-0.json](./229042-mecha-ritz-steel-rondo-2-0.json) |
 | Mecha Storm | 102747 | [102747-mecha-storm.json](./102747-mecha-storm.json) |
+| Mecha Tactics | 154392 | [154392-mecha-tactics.json](./154392-mecha-tactics.json) |
 | Mecha's Negotiations | 363915 | [363915-mechas-negotiations.json](./363915-mechas-negotiations.json) |
 | Mechabellum | 240897 | [240897-mechabellum.json](./240897-mechabellum.json) |
 | MechaBlight | 390625 | [390625-mechablight.json](./390625-mechablight.json) |
@@ -6318,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Guardians Slide | 295368 | [295368-mystic-guardians-slide.json](./295368-mystic-guardians-slide.json) |
 | Mystic Gunner | 175351 | [175351-mystic-gunner.json](./175351-mystic-gunner.json) |
 | Mystic Inn | 84272 | [84272-mystic-inn.json](./84272-mystic-inn.json) |
+| Mystic Isles | 154391 | [154391-mystic-isles.json](./154391-mystic-isles.json) |
 | Mystic Kingdoms | 328456 | [328456-mystic-kingdoms.json](./328456-mystic-kingdoms.json) |
 | Mystic Labyrinth | 295408 | [295408-mystic-labyrinth.json](./295408-mystic-labyrinth.json) |
 | Mystic Land: The search for Maphaldo | 270967 | [270967-mystic-land-the-search-for-maphaldo.json](./270967-mystic-land-the-search-for-maphaldo.json) |
