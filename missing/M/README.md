@@ -2281,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megalothymia: Mokusei Zettai Bouei-ken - Heaven's Fall | 267657 | [267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json](./267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json) |
 | Megamagic: Wizards of the Neon Age | 25610 | [25610-megamagic-wizards-of-the-neon-age.json](./25610-megamagic-wizards-of-the-neon-age.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - 001: Cannon | 352838 | [352838-megaman-nt-warrior-advanced-pet-battle-chip-001-cannon.json](./352838-megaman-nt-warrior-advanced-pet-battle-chip-001-cannon.json) |
+| Megaman Sprite Christmas | 172595 | [172595-megaman-sprite-christmas.json](./172595-megaman-sprite-christmas.json) |
 | MegaMan Super Charged | 320359 | [320359-megaman-super-charged.json](./320359-megaman-super-charged.json) |
 | Megaman Triple Threat | 326813 | [326813-megaman-triple-threat.json](./326813-megaman-triple-threat.json) |
 | Megaman X in Sonic Blasting Adventure | 265221 | [265221-megaman-x-in-sonic-blasting-adventure.json](./265221-megaman-x-in-sonic-blasting-adventure.json) |
