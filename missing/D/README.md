@@ -502,6 +502,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Romance: Vampire Origins - Collector's Edition | 209716 | [209716-dark-romance-vampire-origins-collectors-edition.json](./209716-dark-romance-vampire-origins-collectors-edition.json) |
 | Dark Room | 356630 | [356630-dark-room.json](./356630-dark-room.json) |
 | Dark Rooms | 240346 | [240346-dark-rooms.json](./240346-dark-rooms.json) |
+| Dark Rose Valkyrie: Limited Edition | 167148 | [167148-dark-rose-valkyrie-limited-edition.json](./167148-dark-rose-valkyrie-limited-edition.json) |
+| Dark Rose Valkyrie: Limited Edition Famitsu DX Pack | 167147 | [167147-dark-rose-valkyrie-limited-edition-famitsu-dx-pack.json](./167147-dark-rose-valkyrie-limited-edition-famitsu-dx-pack.json) |
 | Dark Rune | 239755 | [239755-dark-rune.json](./239755-dark-rune.json) |
 | Dark Sanctum | 290909 | [290909-dark-sanctum.json](./290909-dark-sanctum.json) |
 | Dark Sauce | 113693 | [113693-dark-sauce.json](./113693-dark-sauce.json) |
@@ -1232,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
 | Death Machine | 285004 | [285004-death-machine.json](./285004-death-machine.json) |
 | Death March | 365791 | [365791-death-march.json](./365791-death-march.json) |
+| Death Mark: Experience Selection | 167142 | [167142-death-mark-experience-selection.json](./167142-death-mark-experience-selection.json) |
 | Death Mask | 359982 | [359982-death-mask.json](./359982-death-mask.json) |
 | Death Match | 416694 | [416694-death-match.json](./416694-death-match.json) |
 | Death Maze | 109613 | [109613-death-maze.json](./109613-death-maze.json) |
@@ -1970,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Things | 203954 | [203954-desert-things.json](./203954-desert-things.json) |
 | Desert Thunder | 358380 | [358380-desert-thunder.json](./358380-desert-thunder.json) |
 | Desert Tycoon | 256251 | [256251-desert-tycoon.json](./256251-desert-tycoon.json) |
+| Desert War | 167163 | [167163-desert-war.json](./167163-desert-war.json) |
 | Deserted Island | 138823 | [138823-deserted-island.json](./138823-deserted-island.json) |
 | Deserter | 323940 | [323940-deserter.json](./323940-deserter.json) |
 | Deserter Simulator | 34791 | [34791-deserter-simulator.json](./34791-deserter-simulator.json) |
@@ -3939,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
 | DPS Idle 2 | 253970 | [253970-dps-idle-2.json](./253970-dps-idle-2.json) |
 | Dr Livesey Rom and Death Edition | 224897 | [224897-dr-livesey-rom-and-death-edition.json](./224897-dr-livesey-rom-and-death-edition.json) |
+| Dr Livingstone, I Presume?: Digital Deluxe Edition | 167178 | [167178-dr-livingstone-i-presume-digital-deluxe-edition.json](./167178-dr-livingstone-i-presume-digital-deluxe-edition.json) |
 | Dr Nakamoto's Digital Eggs | 200039 | [200039-dr-nakamotos-digital-eggs.json](./200039-dr-nakamotos-digital-eggs.json) |
 | Dr Scrime's Spook School | 13607 | [13607-dr-scrimes-spook-school.json](./13607-dr-scrimes-spook-school.json) |
 | Dr Smart Space Encyclopedia | 242046 | [242046-dr-smart-space-encyclopedia.json](./242046-dr-smart-space-encyclopedia.json) |
@@ -4293,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon x Dragon: Complete Version | 292130 | [292130-dragon-x-dragon-complete-version.json](./292130-dragon-x-dragon-complete-version.json) |
 | Dragon's Bane | 148541 | [148541-dragons-bane.json](./148541-dragons-bane.json) |
 | Dragon's Crown Pro | 68283 | [68283-dragons-crown-pro.json](./68283-dragons-crown-pro.json) |
+| Dragon's Crown Pro: Royal Package | 167136 | [167136-dragons-crown-pro-royal-package.json](./167136-dragons-crown-pro-royal-package.json) |
 | Dragon's Dogma II: Dark Arisen | 408164 | [408164-dragons-dogma-ii-dark-arisen.json](./408164-dragons-dogma-ii-dark-arisen.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
 | Dragon's Dogma Quest | 63310 | [63310-dragons-dogma-quest.json](./63310-dragons-dogma-quest.json) |
