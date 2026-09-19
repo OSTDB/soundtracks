@@ -890,7 +890,40 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO DC Super-Villains: Deluxe Edition | 118955 | [118955-lego-dc-super-villains-deluxe-edition.json](./118955-lego-dc-super-villains-deluxe-edition.json) |
 | LEGO DC Super-Villains: Shazam! Movie Level Pack 1 & 2 | 207906 | [207906-lego-dc-super-villains-shazam-movie-level-pack-1-and-2.json](./207906-lego-dc-super-villains-shazam-movie-level-pack-1-and-2.json) |
 | LEGO Dimensions | 11077 | [11077-lego-dimensions.json](./11077-lego-dimensions.json) |
+| LEGO Dimensions: Adventure Time Fun Pack | 172614 | [172614-lego-dimensions-adventure-time-fun-pack.json](./172614-lego-dimensions-adventure-time-fun-pack.json) |
+| LEGO Dimensions: Adventure Time Team Pack | 172619 | [172619-lego-dimensions-adventure-time-team-pack.json](./172619-lego-dimensions-adventure-time-team-pack.json) |
+| LEGO Dimensions: Aquaman Fun Pack | 172581 | [172581-lego-dimensions-aquaman-fun-pack.json](./172581-lego-dimensions-aquaman-fun-pack.json) |
+| LEGO Dimensions: B.A. Baracus (The A-Team) Fun Pack | 172577 | [172577-lego-dimensions-b-a-baracus-the-a-team-fun-pack.json](./172577-lego-dimensions-b-a-baracus-the-a-team-fun-pack.json) |
+| LEGO Dimensions: Bad Cop Fun Pack | 172616 | [172616-lego-dimensions-bad-cop-fun-pack.json](./172616-lego-dimensions-bad-cop-fun-pack.json) |
+| LEGO Dimensions: Bart Simpson Fun Pack | 172617 | [172617-lego-dimensions-bart-simpson-fun-pack.json](./172617-lego-dimensions-bart-simpson-fun-pack.json) |
+| LEGO Dimensions: Beetlejuice Fun Pack | 172585 | [172585-lego-dimensions-beetlejuice-fun-pack.json](./172585-lego-dimensions-beetlejuice-fun-pack.json) |
+| LEGO Dimensions: Doctor Who Level Pack | 172606 | [172606-lego-dimensions-doctor-who-level-pack.json](./172606-lego-dimensions-doctor-who-level-pack.json) |
+| LEGO Dimensions: Eris - Legends of Chima: Fun Pack | 172608 | [172608-lego-dimensions-eris-legends-of-chima-fun-pack.json](./172608-lego-dimensions-eris-legends-of-chima-fun-pack.json) |
+| LEGO Dimensions: Excalibur Batman Fun Pack | 172625 | [172625-lego-dimensions-excalibur-batman-fun-pack.json](./172625-lego-dimensions-excalibur-batman-fun-pack.json) |
+| LEGO Dimensions: Fantastic Beasts and Where to Find Them Story Pack | 172578 | [172578-lego-dimensions-fantastic-beasts-and-where-to-find-them-story-pack.json](./172578-lego-dimensions-fantastic-beasts-and-where-to-find-them-story-pack.json) |
+| LEGO Dimensions: Finn the Human Level Pack | 172618 | [172618-lego-dimensions-finn-the-human-level-pack.json](./172618-lego-dimensions-finn-the-human-level-pack.json) |
+| LEGO Dimensions: Gollum Fun Pack | 172605 | [172605-lego-dimensions-gollum-fun-pack.json](./172605-lego-dimensions-gollum-fun-pack.json) |
+| LEGO Dimensions: Green Arrow Polybag | 172622 | [172622-lego-dimensions-green-arrow-polybag.json](./172622-lego-dimensions-green-arrow-polybag.json) |
+| LEGO Dimensions: Harry Potter and Lord Voldemort Team Pack | 172615 | [172615-lego-dimensions-harry-potter-and-lord-voldemort-team-pack.json](./172615-lego-dimensions-harry-potter-and-lord-voldemort-team-pack.json) |
+| LEGO Dimensions: Homer Simpson Level Pack | 172579 | [172579-lego-dimensions-homer-simpson-level-pack.json](./172579-lego-dimensions-homer-simpson-level-pack.json) |
+| LEGO Dimensions: Krusty the Clown Fun Pack | 172624 | [172624-lego-dimensions-krusty-the-clown-fun-pack.json](./172624-lego-dimensions-krusty-the-clown-fun-pack.json) |
+| LEGO Dimensions: Laval - Legends of Chima: Fun Pack | 172623 | [172623-lego-dimensions-laval-legends-of-chima-fun-pack.json](./172623-lego-dimensions-laval-legends-of-chima-fun-pack.json) |
+| LEGO Dimensions: Lego City Fun Pack | 172583 | [172583-lego-dimensions-lego-city-fun-pack.json](./172583-lego-dimensions-lego-city-fun-pack.json) |
+| LEGO Dimensions: Legolas Fun Pack | 172604 | [172604-lego-dimensions-legolas-fun-pack.json](./172604-lego-dimensions-legolas-fun-pack.json) |
+| LEGO Dimensions: Lloyd Fun Pack | 172609 | [172609-lego-dimensions-lloyd-fun-pack.json](./172609-lego-dimensions-lloyd-fun-pack.json) |
+| LEGO Dimensions: Midway Arcade Level Pack | 172580 | [172580-lego-dimensions-midway-arcade-level-pack.json](./172580-lego-dimensions-midway-arcade-level-pack.json) |
+| LEGO Dimensions: Mission - Impossible Level Pack | 172582 | [172582-lego-dimensions-mission-impossible-level-pack.json](./172582-lego-dimensions-mission-impossible-level-pack.json) |
+| LEGO Dimensions: Ninjago Team Pack | 172612 | [172612-lego-dimensions-ninjago-team-pack.json](./172612-lego-dimensions-ninjago-team-pack.json) |
+| LEGO Dimensions: Nya Fun Pack | 172611 | [172611-lego-dimensions-nya-fun-pack.json](./172611-lego-dimensions-nya-fun-pack.json) |
+| LEGO Dimensions: Scooby-Doo Team Pack | 172584 | [172584-lego-dimensions-scooby-doo-team-pack.json](./172584-lego-dimensions-scooby-doo-team-pack.json) |
+| LEGO Dimensions: Sensei Wu Fun Pack | 172602 | [172602-lego-dimensions-sensei-wu-fun-pack.json](./172602-lego-dimensions-sensei-wu-fun-pack.json) |
+| LEGO Dimensions: Starfire (Teen Titans Go!) Fun Pack | 172607 | [172607-lego-dimensions-starfire-teen-titans-go-fun-pack.json](./172607-lego-dimensions-starfire-teen-titans-go-fun-pack.json) |
+| LEGO Dimensions: Supergirl Polybag | 172621 | [172621-lego-dimensions-supergirl-polybag.json](./172621-lego-dimensions-supergirl-polybag.json) |
 | LEGO Dimensions: Superman Fun Pack | 23378 | [23378-lego-dimensions-superman-fun-pack.json](./23378-lego-dimensions-superman-fun-pack.json) |
+| LEGO Dimensions: The Joker and Harley Quinn Team Pack | 172613 | [172613-lego-dimensions-the-joker-and-harley-quinn-team-pack.json](./172613-lego-dimensions-the-joker-and-harley-quinn-team-pack.json) |
+| LEGO Dimensions: Unikitty Fun Pack | 172620 | [172620-lego-dimensions-unikitty-fun-pack.json](./172620-lego-dimensions-unikitty-fun-pack.json) |
+| LEGO Dimensions: Wonder Woman Fun Pack | 172626 | [172626-lego-dimensions-wonder-woman-fun-pack.json](./172626-lego-dimensions-wonder-woman-fun-pack.json) |
+| LEGO Dimensions: Zane Fun Pack | 172610 | [172610-lego-dimensions-zane-fun-pack.json](./172610-lego-dimensions-zane-fun-pack.json) |
 | LEGO Harry Potter Collection | 315367 | [315367-lego-harry-potter-collection.json](./315367-lego-harry-potter-collection.json) |
 | Lego Harry Potter Years 5-7: Character pack | 255376 | [255376-lego-harry-potter-years-5-7-character-pack.json](./255376-lego-harry-potter-years-5-7-character-pack.json) |
 | LEGO Harry Potter: Years 1-4 | 3149 | [3149-lego-harry-potter-years-1-4.json](./3149-lego-harry-potter-years-1-4.json) |
