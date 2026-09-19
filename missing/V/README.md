@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegetarian Alliance | 119683 | [119683-vegetarian-alliance.json](./119683-vegetarian-alliance.json) |
 | Veggie Eggs | 373561 | [373561-veggie-eggs.json](./373561-veggie-eggs.json) |
 | Veggie Killer | 86334 | [86334-veggie-killer.json](./86334-veggie-killer.json) |
+| Veggie Killer Remastered | 127093 | [127093-veggie-killer-remastered.json](./127093-veggie-killer-remastered.json) |
 | Veggie Menace | 203926 | [203926-veggie-menace.json](./203926-veggie-menace.json) |
 | Veggie Tales 3D | 269838 | [269838-veggie-tales-3d.json](./269838-veggie-tales-3d.json) |
 | VeggieTales: LarryBoy and the Bad Apple | 248629 | [248629-veggietales-larryboy-and-the-bad-apple.json](./248629-veggietales-larryboy-and-the-bad-apple.json) |
