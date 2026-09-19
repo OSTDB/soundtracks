@@ -3746,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobs Saga | 89322 | [89322-boobs-saga.json](./89322-boobs-saga.json) |
 | Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
+| Boog Adventure | 155472 | [155472-boog-adventure.json](./155472-boog-adventure.json) |
 | Boogaloopers | 62752 | [62752-boogaloopers.json](./62752-boogaloopers.json) |
 | Boogerman | 242091 | [242091-boogerman.json](./242091-boogerman.json) |
 | Boogerman II: The Final Adventure | 242092 | [242092-boogerman-ii-the-final-adventure.json](./242092-boogerman-ii-the-final-adventure.json) |
