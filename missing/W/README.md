@@ -1043,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack-A-Friend | 85486 | [85486-whack-a-friend.json](./85486-whack-a-friend.json) |
 | Whack-a-Mole | 288363 | [288363-whack-a-mole.json](./288363-whack-a-mole.json) |
 | Whack-A-Monster | 410919 | [410919-whack-a-monster.json](./410919-whack-a-monster.json) |
+| WhackAKyouka | 164870 | [164870-whackakyouka.json](./164870-whackakyouka.json) |
 | Whacked! | 377148 | [377148-whacked.json](./377148-whacked.json) |
 | Whacky Ball | 243712 | [243712-whacky-ball.json](./243712-whacky-ball.json) |
 | Whacky Park | 216796 | [216796-whacky-park.json](./216796-whacky-park.json) |
