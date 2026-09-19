@@ -3453,6 +3453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister's Dream | 202330 | [202330-sisters-dream.json](./202330-sisters-dream.json) |
 | Sisters of Sweetwater | 225091 | [225091-sisters-of-sweetwater.json](./225091-sisters-of-sweetwater.json) |
 | Sisters Possession 1 | 195120 | [195120-sisters-possession-1.json](./195120-sisters-possession-1.json) |
+| Sisters Royale: Five Stars Under Fire - Ode | 161756 | [161756-sisters-royale-five-stars-under-fire-ode.json](./161756-sisters-royale-five-stars-under-fire-ode.json) |
 | Sisters Secrecy: Arcanum Bloodlines | 54360 | [54360-sisters-secrecy-arcanum-bloodlines.json](./54360-sisters-secrecy-arcanum-bloodlines.json) |
 | Sisters Secrecy: Arcanum Bloodlines - Collector's Edition | 54361 | [54361-sisters-secrecy-arcanum-bloodlines-collectors-edition.json](./54361-sisters-secrecy-arcanum-bloodlines-collectors-edition.json) |
 | Sisyphe's Backspace | 347270 | [347270-sisyphes-backspace.json](./347270-sisyphes-backspace.json) |
