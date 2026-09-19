@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires and Werewolves | 226739 | [226739-vampires-and-werewolves.json](./226739-vampires-and-werewolves.json) |
 | Vampires: Bloodlust | 68009 | [68009-vampires-bloodlust.json](./68009-vampires-bloodlust.json) |
 | Vampires' Melody | 169435 | [169435-vampires-melody.json](./169435-vampires-melody.json) |
+| Vampireville: haunted castle adventure | 175295 | [175295-vampireville-haunted-castle-adventure.json](./175295-vampireville-haunted-castle-adventure.json) |
 | Vampiric Tower | 69853 | [69853-vampiric-tower.json](./69853-vampiric-tower.json) |
 | Vamps For the Memories | 192422 | [192422-vamps-for-the-memories.json](./192422-vamps-for-the-memories.json) |
 | Vamps-Imulator | 251817 | [251817-vamps-imulator.json](./251817-vamps-imulator.json) |
