@@ -2251,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploding Fist | 48584 | [48584-exploding-fist.json](./48584-exploding-fist.json) |
 | Exploding Kittens | 88938 | [88938-exploding-kittens.json](./88938-exploding-kittens.json) |
 | Explomania | 81033 | [81033-explomania.json](./81033-explomania.json) |
+| Explore Inc | 179030 | [179030-explore-inc.json](./179030-explore-inc.json) |
 | Explore Jam 1 | 275319 | [275319-explore-jam-1.json](./275319-explore-jam-1.json) |
 | Explore Jam 2 | 275322 | [275322-explore-jam-2.json](./275322-explore-jam-2.json) |
 | Explore Jam 3 | 275318 | [275318-explore-jam-3.json](./275318-explore-jam-3.json) |
