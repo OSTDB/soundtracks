@@ -1097,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Babes: Lightning | 309649 | [309649-battle-babes-lightning.json](./309649-battle-babes-lightning.json) |
 | Battle Balls | 166160 | [166160-battle-balls.json](./166160-battle-balls.json) |
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
+| Battle Bears 1: Zombies | 171453 | [171453-battle-bears-1-zombies.json](./171453-battle-bears-1-zombies.json) |
 | Battle Bears Pro | 61668 | [61668-battle-bears-pro.json](./61668-battle-bears-pro.json) |
 | Battle Bears: Zombies AR | 89200 | [89200-battle-bears-zombies-ar.json](./89200-battle-bears-zombies-ar.json) |
 | Battle Bits | 333392 | [333392-battle-bits.json](./333392-battle-bits.json) |
@@ -1353,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battles in Time | 69826 | [69826-battles-in-time.json](./69826-battles-in-time.json) |
 | Battles of Cardista | 356653 | [356653-battles-of-cardista.json](./356653-battles-of-cardista.json) |
 | Battles of the Ancient World III | 197344 | [197344-battles-of-the-ancient-world-iii.json](./197344-battles-of-the-ancient-world-iii.json) |
+| Battlescar: Punk Was Invented By Girls | 171452 | [171452-battlescar-punk-was-invented-by-girls.json](./171452-battlescar-punk-was-invented-by-girls.json) |
 | Battleship | 267406 | [267406-battleship.json](./267406-battleship.json) |
 | Battleship | 285030 | [285030-battleship.json](./285030-battleship.json) |
 | Battleship | 317631 | [317631-battleship.json](./317631-battleship.json) |
@@ -3030,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Rush 3 | 369015 | [369015-block-rush-3.json](./369015-block-rush-3.json) |
 | Block Shock: The Last Chance | 14321 | [14321-block-shock-the-last-chance.json](./14321-block-shock-the-last-chance.json) |
 | Block Slender-Man 3D: Lucky Survivor - Worldwide Multiplayer Edition | 327592 | [327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json](./327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json) |
+| Block Smash | 171489 | [171489-block-smash.json](./171489-block-smash.json) |
 | Block Smash | 58834 | [58834-block-smash.json](./58834-block-smash.json) |
 | Block Smasher: 3D Arcade Action Reaction Brick Breaker Game | 90667 | [90667-block-smasher-3d-arcade-action-reaction-brick-breaker-game.json](./90667-block-smasher-3d-arcade-action-reaction-brick-breaker-game.json) |
 | Block Sprawl | 406673 | [406673-block-sprawl.json](./406673-block-sprawl.json) |
@@ -3593,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombball | 301584 | [301584-bombball.json](./301584-bombball.json) |
 | Bombe | 230363 | [230363-bombe.json](./230363-bombe.json) |
 | Bombeiro Mascarado | 183966 | [183966-bombeiro-mascarado.json](./183966-bombeiro-mascarado.json) |
+| Bomber | 171464 | [171464-bomber.json](./171464-bomber.json) |
 | Bomber | 249775 | [249775-bomber.json](./249775-bomber.json) |
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
