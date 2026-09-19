@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malleus Maleficarum: The Witch of San Ignacio | 318794 | [318794-malleus-maleficarum-the-witch-of-san-ignacio.json](./318794-malleus-maleficarum-the-witch-of-san-ignacio.json) |
 | Malody V | 190191 | [190191-malody-v.json](./190191-malody-v.json) |
 | Malon & The Legend of Zelda: Master of Time | 400991 | [400991-malon-and-the-legend-of-zelda-master-of-time.json](./400991-malon-and-the-legend-of-zelda-master-of-time.json) |
+| Malone In Nightmares | 159737 | [159737-malone-in-nightmares.json](./159737-malone-in-nightmares.json) |
 | Malstrum's Mansion | 254509 | [254509-malstrums-mansion.json](./254509-malstrums-mansion.json) |
 | Malta Storm | 72083 | [72083-malta-storm.json](./72083-malta-storm.json) |
 | Malum Escape | 311500 | [311500-malum-escape.json](./311500-malum-escape.json) |
@@ -820,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
 | Mancy | 381611 | [381611-mancy.json](./381611-mancy.json) |
 | Manda no Yume | 201780 | [201780-manda-no-yume.json](./201780-manda-no-yume.json) |
+| Mandacaru | 159711 | [159711-mandacaru.json](./159711-mandacaru.json) |
 | Mandate Order | 374619 | [374619-mandate-order.json](./374619-mandate-order.json) |
 | Mandela Effect Brain Test | 306694 | [306694-mandela-effect-brain-test.json](./306694-mandela-effect-brain-test.json) |
 | Mandeshire | 173274 | [173274-mandeshire.json](./173274-mandeshire.json) |
@@ -1269,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark-I: Mission Pilot | 156632 | [156632-mark-i-mission-pilot.json](./156632-mark-i-mission-pilot.json) |
 | Mark's Life | 150089 | [150089-marks-life.json](./150089-marks-life.json) |
 | Mark's Magnificent Marble Maze | 199515 | [199515-marks-magnificent-marble-maze.json](./199515-marks-magnificent-marble-maze.json) |
+| Markerboard Jungle: Frogs | 159747 | [159747-markerboard-jungle-frogs.json](./159747-markerboard-jungle-frogs.json) |
 | Market Chain 98 | 405540 | [405540-market-chain-98.json](./405540-market-chain-98.json) |
 | Market Dominion | 114393 | [114393-market-dominion.json](./114393-market-dominion.json) |
 | Market Dominion: Global Rivalry | 170987 | [170987-market-dominion-global-rivalry.json](./170987-market-dominion-global-rivalry.json) |
