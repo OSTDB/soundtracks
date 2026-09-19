@@ -3712,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dopamix | 222327 | [222327-dopamix.json](./222327-dopamix.json) |
 | Dope Wars Mean Streets | 294287 | [294287-dope-wars-mean-streets.json](./294287-dope-wars-mean-streets.json) |
 | DopeMine Arena | 194556 | [194556-dopemine-arena.json](./194556-dopemine-arena.json) |
+| Doppelganger | 180112 | [180112-doppelganger.json](./180112-doppelganger.json) |
 | Doppelgänger | 275029 | [275029-doppelganger.json](./275029-doppelganger.json) |
 | Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
 | Doppelscape | 288228 | [288228-doppelscape.json](./288228-doppelscape.json) |
@@ -4787,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dry Erase: Infinite VR Whiteboard | 51559 | [51559-dry-erase-infinite-vr-whiteboard.json](./51559-dry-erase-infinite-vr-whiteboard.json) |
 | Dry Path | 181808 | [181808-dry-path.json](./181808-dry-path.json) |
 | Drybreed | 180715 | [180715-drybreed.json](./180715-drybreed.json) |
+| Drynk: Board and Drinking Game | 180146 | [180146-drynk-board-and-drinking-game.json](./180146-drynk-board-and-drinking-game.json) |
 | DS de Classic Kiite Mimasenka | 269551 | [269551-ds-de-classic-kiite-mimasenka.json](./269551-ds-de-classic-kiite-mimasenka.json) |
 | DS Kageyama Method: Dennou Hanpuku - Chiri, Rekishi, Koumin: Maru x Maru Shakai-ka | 269576 | [269576-ds-kageyama-method-dennou-hanpuku-chiri-rekishi-koumin-maru-x-maru-shakai-ka.json](./269576-ds-kageyama-method-dennou-hanpuku-chiri-rekishi-koumin-maru-x-maru-shakai-ka.json) |
 | DS Kageyama Method: Dennou Hanpuku - Masu x Masu Hyaku Masu Keisan | 269578 | [269578-ds-kageyama-method-dennou-hanpuku-masu-x-masu-hyaku-masu-keisan.json](./269578-ds-kageyama-method-dennou-hanpuku-masu-x-masu-hyaku-masu-keisan.json) |
@@ -5290,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarves: Build and survive | 166189 | [166189-dwarves-build-and-survive.json](./166189-dwarves-build-and-survive.json) |
 | Dwarves: Idle Battles | 413753 | [413753-dwarves-idle-battles.json](./413753-dwarves-idle-battles.json) |
 | DweeMixed: Thwee Pack | 187477 | [187477-dweemixed-thwee-pack.json](./187477-dweemixed-thwee-pack.json) |
+| Dweep | 180148 | [180148-dweep.json](./180148-dweep.json) |
 | Dwell | 394155 | [394155-dwell.json](./394155-dwell.json) |
 | Dwelling | 309365 | [309365-dwelling.json](./309365-dwelling.json) |
 | Dwoemer of the Drill Faced Goddess | 377597 | [377597-dwoemer-of-the-drill-faced-goddess.json](./377597-dwoemer-of-the-drill-faced-goddess.json) |
