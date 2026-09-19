@@ -1760,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Star Saver | 7745 | [7745-the-adventures-of-star-saver.json](./7745-the-adventures-of-star-saver.json) |
 | The Adventures of The Black Hawk | 274575 | [274575-the-adventures-of-the-black-hawk.json](./274575-the-adventures-of-the-black-hawk.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 42588 | [42588-the-adventures-of-tintin-prisoners-of-the-sun.json](./42588-the-adventures-of-tintin-prisoners-of-the-sun.json) |
+| The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
 | The Afterlife Cafe | 367948 | [367948-the-afterlife-cafe.json](./367948-the-afterlife-cafe.json) |
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
 | The Age of Navigation: Commemorative Edition | 196133 | [196133-the-age-of-navigation-commemorative-edition.json](./196133-the-age-of-navigation-commemorative-edition.json) |
@@ -2315,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma 3: Bloodlines - Deluxe Edition | 401674 | [401674-the-coma-3-bloodlines-deluxe-edition.json](./401674-the-coma-3-bloodlines-deluxe-edition.json) |
 | The Coma 3: Bloodlines - Overaction Skin | 401670 | [401670-the-coma-3-bloodlines-overaction-skin.json](./401670-the-coma-3-bloodlines-overaction-skin.json) |
 | The Coma 3: Bloodlines - Overly Attractive Teacher Skin | 401681 | [401681-the-coma-3-bloodlines-overly-attractive-teacher-skin.json](./401681-the-coma-3-bloodlines-overly-attractive-teacher-skin.json) |
+| The Coma: Back to School Bundle | 154967 | [154967-the-coma-back-to-school-bundle.json](./154967-the-coma-back-to-school-bundle.json) |
 | The Coma: Recut - Limited Edition | 166241 | [166241-the-coma-recut-limited-edition.json](./166241-the-coma-recut-limited-edition.json) |
 | The Coma: Triple Threat Bundle | 338010 | [338010-the-coma-triple-threat-bundle.json](./338010-the-coma-triple-threat-bundle.json) |
 | The Combatribes | 337198 | [337198-the-combatribes.json](./337198-the-combatribes.json) |
@@ -2803,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eternal Woods | 414427 | [414427-the-eternal-woods.json](./414427-the-eternal-woods.json) |
 | The Eventide | 411687 | [411687-the-eventide.json](./411687-the-eventide.json) |
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
+| The Evil Within Bundle | 154961 | [154961-the-evil-within-bundle.json](./154961-the-evil-within-bundle.json) |
 | The Exaggerated Epoch of Edward O'Hare | 147378 | [147378-the-exaggerated-epoch-of-edward-ohare.json](./147378-the-exaggerated-epoch-of-edward-ohare.json) |
 | The eXceed Collection | 64895 | [64895-the-exceed-collection.json](./64895-the-exceed-collection.json) |
 | The Exchange Student: Episode 2 - Point Club | 72024 | [72024-the-exchange-student-episode-2-point-club.json](./72024-the-exchange-student-episode-2-point-club.json) |
@@ -5842,6 +5845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher 2: Assassins of Kings - Enhanced Edition | 20740 | [20740-the-witcher-2-assassins-of-kings-enhanced-edition.json](./20740-the-witcher-2-assassins-of-kings-enhanced-edition.json) |
 | The Witcher 3: Enhanced Edition - Redux | 283715 | [283715-the-witcher-3-enhanced-edition-redux.json](./283715-the-witcher-3-enhanced-edition-redux.json) |
 | The Witcher 3: Wild Hunt - Collector's Edition | 44549 | [44549-the-witcher-3-wild-hunt-collectors-edition.json](./44549-the-witcher-3-wild-hunt-collectors-edition.json) |
+| The Witcher Franchise Bundle | 154960 | [154960-the-witcher-franchise-bundle.json](./154960-the-witcher-franchise-bundle.json) |
 | The Witches Pond | 277823 | [277823-the-witches-pond.json](./277823-the-witches-pond.json) |
 | The Wizard | 181239 | [181239-the-wizard.json](./181239-the-wizard.json) |
 | The Wizard and The Slug | 139400 | [139400-the-wizard-and-the-slug.json](./139400-the-wizard-and-the-slug.json) |
