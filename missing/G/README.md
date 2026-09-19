@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.G Series: Tetsubou | 91391 | [91391-g-g-series-tetsubou.json](./91391-g-g-series-tetsubou.json) |
 | G.H.O.S.T. Chronicles: Phantom of the Faire | 209598 | [209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json](./209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json) |
 | G.I. Joe: Operation Blackout - Digital Deluxe | 173160 | [173160-g-i-joe-operation-blackout-digital-deluxe.json](./173160-g-i-joe-operation-blackout-digital-deluxe.json) |
+| G.I. Joe: War on Cobra | 138573 | [138573-g-i-joe-war-on-cobra.json](./138573-g-i-joe-war-on-cobra.json) |
 | G.O.P.O.T.A 2 | 291756 | [291756-g-o-p-o-t-a-2.json](./291756-g-o-p-o-t-a-2.json) |
 | G1 Jockey 2 | 55170 | [55170-g1-jockey-2.json](./55170-g1-jockey-2.json) |
 | G1 Jockey 2000 | 55171 | [55171-g1-jockey-2000.json](./55171-g1-jockey-2000.json) |
@@ -1236,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginseng King | 116356 | [116356-ginseng-king.json](./116356-ginseng-king.json) |
 | Ginsha | 249208 | [249208-ginsha.json](./249208-ginsha.json) |
 | Gipsy King | 175423 | [175423-gipsy-king.json](./175423-gipsy-king.json) |
+| Girabox | 138621 | [138621-girabox.json](./138621-girabox.json) |
 | Giraffe Town | 109783 | [109783-giraffe-town.json](./109783-giraffe-town.json) |
 | Girauden Strike Force | 156535 | [156535-girauden-strike-force.json](./156535-girauden-strike-force.json) |
 | Girbal | 219795 | [219795-girbal.json](./219795-girbal.json) |
@@ -3007,6 +3009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gummy Slide | 251236 | [251236-gummy-slide.json](./251236-gummy-slide.json) |
 | Gumnaam | 215353 | [215353-gumnaam.json](./215353-gumnaam.json) |
 | Gump Jump | 209647 | [209647-gump-jump.json](./209647-gump-jump.json) |
+| Gumslinger | 138594 | [138594-gumslinger.json](./138594-gumslinger.json) |
 | Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
 | Gun Blood Cowboy Duel | 103506 | [103506-gun-blood-cowboy-duel.json](./103506-gun-blood-cowboy-duel.json) |
 | Gun Breaker | 227258 | [227258-gun-breaker.json](./227258-gun-breaker.json) |
