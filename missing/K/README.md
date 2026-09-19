@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Floor III: Rearmament | 370716 | [370716-killing-floor-iii-rearmament.json](./370716-killing-floor-iii-rearmament.json) |
 | Killing Floor: Calamity | 51176 | [51176-killing-floor-calamity.json](./51176-killing-floor-calamity.json) |
 | Killing Floor: Double Feature | 116387 | [116387-killing-floor-double-feature.json](./116387-killing-floor-double-feature.json) |
+| Killing Floor: PostMortem Character Pack | 161759 | [161759-killing-floor-postmortem-character-pack.json](./161759-killing-floor-postmortem-character-pack.json) |
 | Killing Kiss | 191905 | [191905-killing-kiss.json](./191905-killing-kiss.json) |
 | Killing Machine Loves Slime Prince | 300694 | [300694-killing-machine-loves-slime-prince.json](./300694-killing-machine-loves-slime-prince.json) |
 | Killing Room | 25254 | [25254-killing-room.json](./25254-killing-room.json) |
