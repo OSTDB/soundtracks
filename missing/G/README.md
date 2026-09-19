@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gliont Lights | 388260 | [388260-gliont-lights.json](./388260-gliont-lights.json) |
 | Glitch | 232137 | [232137-glitch.json](./232137-glitch.json) |
 | Glitch | 92479 | [92479-glitch.json](./92479-glitch.json) |
+| Glitch Assassin | 156023 | [156023-glitch-assassin.json](./156023-glitch-assassin.json) |
 | Glitch Boy | 25757 | [25757-glitch-boy.json](./25757-glitch-boy.json) |
 | Glitch Busters: Stuck on You | 204444 | [204444-glitch-busters-stuck-on-you.json](./204444-glitch-busters-stuck-on-you.json) |
 | Glitch Daddy | 277009 | [277009-glitch-daddy.json](./277009-glitch-daddy.json) |
@@ -1611,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobs of Games | 49928 | [49928-gobs-of-games.json](./49928-gobs-of-games.json) |
 | Gobsmacked! | 358864 | [358864-gobsmacked.json](./358864-gobsmacked.json) |
 | Gobstruck | 398411 | [398411-gobstruck.json](./398411-gobstruck.json) |
+| GOC Royale | 156002 | [156002-goc-royale.json](./156002-goc-royale.json) |
 | Gochi-Show! | 31730 | [31730-gochi-show.json](./31730-gochi-show.json) |
 | God bless, or Goddess | 358972 | [358972-god-bless-or-goddess.json](./358972-god-bless-or-goddess.json) |
 | God Busters: Who watches the Watchers? | 232460 | [232460-god-busters-who-watches-the-watchers.json](./232460-god-busters-who-watches-the-watchers.json) |
@@ -2927,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulf of Aden - Task Force Somalia | 34370 | [34370-gulf-of-aden-task-force-somalia.json](./34370-gulf-of-aden-task-force-somalia.json) |
 | Gull Kebap VR | 104058 | [104058-gull-kebap-vr.json](./104058-gull-kebap-vr.json) |
 | Gulman 3D | 199059 | [199059-gulman-3d.json](./199059-gulman-3d.json) |
+| Gǔlóng Chuánshuō | 155990 | [155990-gulong-chuanshuo.json](./155990-gulong-chuanshuo.json) |
 | Gǔlóng Fēngyún Lù | 413005 | [413005-gulong-fengyun-lu.json](./413005-gulong-fengyun-lu.json) |
 | Gulper.Io | 191708 | [191708-gulper-io.json](./191708-gulper-io.json) |
 | Gulu | 48011 | [48011-gulu.json](./48011-gulu.json) |
