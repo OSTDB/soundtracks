@@ -2664,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground of Aces | 249885 | [249885-ground-of-aces.json](./249885-ground-of-aces.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | Ground Zero: Texas | 5390 | [5390-ground-zero-texas.json](./5390-ground-zero-texas.json) |
+| Ground-Unbound | 175793 | [175793-ground-unbound.json](./175793-ground-unbound.json) |
 | GroundBreaker | 375848 | [375848-groundbreaker.json](./375848-groundbreaker.json) |
 | Grounded 2: Beat the Heat | 398431 | [398431-grounded-2-beat-the-heat.json](./398431-grounded-2-beat-the-heat.json) |
 | Grounded 2: Into the Abyss | 413063 | [413063-grounded-2-into-the-abyss.json](./413063-grounded-2-into-the-abyss.json) |
@@ -2678,7 +2679,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Big (or Go Home) | 141221 | [141221-grow-big-or-go-home.json](./141221-grow-big-or-go-home.json) |
 | Grow Golf | 394884 | [394884-grow-golf.json](./394884-grow-golf.json) |
 | Grow Home & Grow Up | 354503 | [354503-grow-home-and-grow-up.json](./354503-grow-home-and-grow-up.json) |
+| Grow Recovery | 175835 | [175835-grow-recovery.json](./175835-grow-recovery.json) |
+| Grow RPG | 175831 | [175831-grow-rpg.json](./175831-grow-rpg.json) |
+| Grow Tower | 175830 | [175830-grow-tower.json](./175830-grow-tower.json) |
 | Grow Up | 19552 | [19552-grow-up.json](./19552-grow-up.json) |
+| Grow Valley | 175833 | [175833-grow-valley.json](./175833-grow-valley.json) |
+| Grow Ver. 2 | 175834 | [175834-grow-ver-2.json](./175834-grow-ver-2.json) |
 | Grow Your Guarden | 263794 | [263794-grow-your-guarden.json](./263794-grow-your-guarden.json) |
 | Grow: Song of the Evertree | 151673 | [151673-grow-song-of-the-evertree.json](./151673-grow-song-of-the-evertree.json) |
 | Growbots: Battle Academy | 161386 | [161386-growbots-battle-academy.json](./161386-growbots-battle-academy.json) |
