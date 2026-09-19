@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #2 | 294734 | [294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json](./294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json) |
 | Hatsune Miku: Project Diva Future Tone | 25821 | [25821-hatsune-miku-project-diva-future-tone.json](./25821-hatsune-miku-project-diva-future-tone.json) |
 | Hatsune Miku: Project Diva Future Tone DX | 117659 | [117659-hatsune-miku-project-diva-future-tone-dx.json](./117659-hatsune-miku-project-diva-future-tone-dx.json) |
+| Hatsune Miku: Project Diva Mega Mix - 10th Anniversary Collection | 136283 | [136283-hatsune-miku-project-diva-mega-mix-10th-anniversary-collection.json](./136283-hatsune-miku-project-diva-mega-mix-10th-anniversary-collection.json) |
 | Hatsune Miku: Roller Skating Music | 199044 | [199044-hatsune-miku-roller-skating-music.json](./199044-hatsune-miku-roller-skating-music.json) |
 | Hatsune Miku: Tap Wonder | 138178 | [138178-hatsune-miku-tap-wonder.json](./138178-hatsune-miku-tap-wonder.json) |
 | Hatsuyuki Sakura: White Graduation | 259616 | [259616-hatsuyuki-sakura-white-graduation.json](./259616-hatsuyuki-sakura-white-graduation.json) |
