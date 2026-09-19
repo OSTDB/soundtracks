@@ -1860,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Epoch | 203528 | [203528-witch-epoch.json](./203528-witch-epoch.json) |
 | Witch Halloween | 127913 | [127913-witch-halloween.json](./127913-witch-halloween.json) |
 | Witch House Mixtape | 271187 | [271187-witch-house-mixtape.json](./271187-witch-house-mixtape.json) |
+| Witch Hunt | 134420 | [134420-witch-hunt.json](./134420-witch-hunt.json) |
 | Witch Hunt | 210283 | [210283-witch-hunt.json](./210283-witch-hunt.json) |
 | Witch Hunter | 218158 | [218158-witch-hunter.json](./218158-witch-hunter.json) |
 | Witch Hunters: Full Moon Ceremony - Collector's Edition | 74350 | [74350-witch-hunters-full-moon-ceremony-collectors-edition.json](./74350-witch-hunters-full-moon-ceremony-collectors-edition.json) |
