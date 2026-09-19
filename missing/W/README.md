@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Fantasy | 220750 | [220750-west-fantasy.json](./220750-west-fantasy.json) |
 | West Game | 199076 | [199076-west-game.json](./199076-west-game.json) |
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
+| West of Dead: Path of the Crow Edition | 154954 | [154954-west-of-dead-path-of-the-crow-edition.json](./154954-west-of-dead-path-of-the-crow-edition.json) |
 | West Ride | 256334 | [256334-west-ride.json](./256334-west-ride.json) |
 | West Sweety | 127019 | [127019-west-sweety.json](./127019-west-sweety.json) |
 | West Water | 196822 | [196822-west-water.json](./196822-west-water.json) |
@@ -1699,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
 | Wings Through Time | 174731 | [174731-wings-through-time.json](./174731-wings-through-time.json) |
 | Wings VR | 211221 | [211221-wings-vr.json](./211221-wings-vr.json) |
+| Wings: Emulated Amiga Edition | 154945 | [154945-wings-emulated-amiga-edition.json](./154945-wings-emulated-amiga-edition.json) |
 | Wings! Remastered Edition | 8801 | [8801-wings-remastered-edition.json](./8801-wings-remastered-edition.json) |
 | Wingspan + European Expansion + Oceania Expansion | 275894 | [275894-wingspan-european-expansion-oceania-expansion.json](./275894-wingspan-european-expansion-oceania-expansion.json) |
 | Wingspan + European Expansion + Oceania Expansion + Seasonal Decorative Pack | 275895 | [275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
@@ -2011,6 +2013,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein 3D: Coffee Break | 308974 | [308974-wolfenstein-3d-coffee-break.json](./308974-wolfenstein-3d-coffee-break.json) |
 | Wolfenstein 3D: Second Encounter | 306961 | [306961-wolfenstein-3d-second-encounter.json](./306961-wolfenstein-3d-second-encounter.json) |
 | Wolfenstein 3D: Third Encounter | 306963 | [306963-wolfenstein-3d-third-encounter.json](./306963-wolfenstein-3d-third-encounter.json) |
+| Wolfenstein II: The Freedom Chronicles - Episode 1 | 154940 | [154940-wolfenstein-ii-the-freedom-chronicles-episode-1.json](./154940-wolfenstein-ii-the-freedom-chronicles-episode-1.json) |
+| Wolfenstein II: The Freedom Chronicles - Episode 2 | 154939 | [154939-wolfenstein-ii-the-freedom-chronicles-episode-2.json](./154939-wolfenstein-ii-the-freedom-chronicles-episode-2.json) |
+| Wolfenstein II: The Freedom Chronicles - Episode 3 | 154938 | [154938-wolfenstein-ii-the-freedom-chronicles-episode-3.json](./154938-wolfenstein-ii-the-freedom-chronicles-episode-3.json) |
 | Wolfenstein II: The Freedom Chronicles - Season Pass | 75847 | [75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json](./75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json) |
 | Wolfenstein II: The New Colossus - The Amazing Deeds of Captain Wilkins | 75846 | [75846-wolfenstein-ii-the-new-colossus-the-amazing-deeds-of-captain-wilkins.json](./75846-wolfenstein-ii-the-new-colossus-the-amazing-deeds-of-captain-wilkins.json) |
 | Wolfenstein II: The New Colossus - The Diaries of Agent Silent Death | 75845 | [75845-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death.json](./75845-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death.json) |
