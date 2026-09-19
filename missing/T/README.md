@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Black Death | 178068 | [178068-tales-of-the-black-death.json](./178068-tales-of-the-black-death.json) |
 | Tales of the Cryptozoo | 361233 | [361233-tales-of-the-cryptozoo.json](./361233-tales-of-the-cryptozoo.json) |
 | Tales of the Death | 204112 | [204112-tales-of-the-death.json](./204112-tales-of-the-death.json) |
+| Tales of the Deck | 128998 | [128998-tales-of-the-deck.json](./128998-tales-of-the-deck.json) |
 | Tales of the Drunken Paladin | 191811 | [191811-tales-of-the-drunken-paladin.json](./191811-tales-of-the-drunken-paladin.json) |
 | Tales of the Elements: 2nd Chapter | 168848 | [168848-tales-of-the-elements-2nd-chapter.json](./168848-tales-of-the-elements-2nd-chapter.json) |
 | Tales of the Magic Ball | 239747 | [239747-tales-of-the-magic-ball.json](./239747-tales-of-the-magic-ball.json) |
@@ -3135,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game Paradise: Cruisin Mix - Limited Edition | 167151 | [167151-the-game-paradise-cruisin-mix-limited-edition.json](./167151-the-game-paradise-cruisin-mix-limited-edition.json) |
 | The Game That Takes Place on a Cruise Ship | 408818 | [408818-the-game-that-takes-place-on-a-cruise-ship.json](./408818-the-game-that-takes-place-on-a-cruise-ship.json) |
 | The Game That Was Stolen From Me at Indiecade2019 | 396233 | [396233-the-game-that-was-stolen-from-me-at-indiecade2019.json](./396233-the-game-that-was-stolen-from-me-at-indiecade2019.json) |
+| The Game We All Have to Play | 129011 | [129011-the-game-we-all-have-to-play.json](./129011-the-game-we-all-have-to-play.json) |
 | The Game: The Game | 393488 | [393488-the-game-the-game.json](./393488-the-game-the-game.json) |
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
 | The Gap | 151120 | [151120-the-gap.json](./151120-the-gap.json) |
@@ -4278,6 +4280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Medium: Deluxe Edition | 154537 | [154537-the-medium-deluxe-edition.json](./154537-the-medium-deluxe-edition.json) |
 | The Meek Mirtho | 385589 | [385589-the-meek-mirtho.json](./385589-the-meek-mirtho.json) |
 | The Mega FMV Bundle | 243800 | [243800-the-mega-fmv-bundle.json](./243800-the-mega-fmv-bundle.json) |
+| The Meldstorm | 129002 | [129002-the-meldstorm.json](./129002-the-meldstorm.json) |
 | The Membrane | 403012 | [403012-the-membrane.json](./403012-the-membrane.json) |
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
 | The Memory Library | 414404 | [414404-the-memory-library.json](./414404-the-memory-library.json) |
@@ -5292,6 +5295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirit Lift | 217312 | [217312-the-spirit-lift.json](./217312-the-spirit-lift.json) |
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
 | The Spiriting Away of Saooni Village | 373094 | [373094-the-spiriting-away-of-saooni-village.json](./373094-the-spiriting-away-of-saooni-village.json) |
+| The Spirits of Kelley Family | 129026 | [129026-the-spirits-of-kelley-family.json](./129026-the-spirits-of-kelley-family.json) |
 | The SpongeBob SquarePants Movie | 210725 | [210725-the-spongebob-squarepants-movie.json](./210725-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie 3D | 135811 | [135811-the-spongebob-squarepants-movie-3d.json](./135811-the-spongebob-squarepants-movie-3d.json) |
 | The Spooky Island | 394167 | [394167-the-spooky-island.json](./394167-the-spooky-island.json) |
@@ -7230,6 +7234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Gentlemen, Please! and Ben There, Dan That! Special Edition Double Pack | 27846 | [27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json](./27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json) |
 | Time Glitch | 278506 | [278506-time-glitch.json](./278506-time-glitch.json) |
 | Time Golf Squad | 31863 | [31863-time-golf-squad.json](./31863-time-golf-squad.json) |
+| Time Hacker | 129013 | [129013-time-hacker.json](./129013-time-hacker.json) |
 | Time Handlers | 253388 | [253388-time-handlers.json](./253388-time-handlers.json) |
 | Time Heist | 180753 | [180753-time-heist.json](./180753-time-heist.json) |
 | Time Hoppers: The Silk Road | 231374 | [231374-time-hoppers-the-silk-road.json](./231374-time-hoppers-the-silk-road.json) |
@@ -8987,6 +8992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: UK Military Wagon Pack | 162338 | [162338-train-simulator-uk-military-wagon-pack.json](./162338-train-simulator-uk-military-wagon-pack.json) |
 | Train Station Renovation | 108347 | [108347-train-station-renovation.json](./108347-train-station-renovation.json) |
 | Train Station Renovation: Germany | 195217 | [195217-train-station-renovation-germany.json](./195217-train-station-renovation-germany.json) |
+| Train Story | 128986 | [128986-train-story.json](./128986-train-story.json) |
 | Train to Amber Coast | 179666 | [179666-train-to-amber-coast.json](./179666-train-to-amber-coast.json) |
 | Train to Hong Kong | 324323 | [324323-train-to-hong-kong.json](./324323-train-to-hong-kong.json) |
 | Train Toremaru: Connect & Solve | 159159 | [159159-train-toremaru-connect-and-solve.json](./159159-train-toremaru-connect-and-solve.json) |
