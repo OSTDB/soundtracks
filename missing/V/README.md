@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Videomation | 18309 | [18309-videomation.json](./18309-videomation.json) |
 | Videophobia | 327615 | [327615-videophobia.json](./327615-videophobia.json) |
 | Videoverse | 213618 | [213618-videoverse.json](./213618-videoverse.json) |
+| Vie: Itsuka no Natsu no Hi. | 131377 | [131377-vie-itsuka-no-natsu-no-hi.json](./131377-vie-itsuka-no-natsu-no-hi.json) |
 | Vier op een rij | 92991 | [92991-vier-op-een-rij.json](./92991-vier-op-een-rij.json) |
 | Vietcong | 101613 | [101613-vietcong.json](./101613-vietcong.json) |
 | Vietnam '65 | 36116 | [36116-vietnam-65.json](./36116-vietnam-65.json) |
@@ -866,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Remedium | 216858 | [216858-virus-remedium.json](./216858-virus-remedium.json) |
 | Virus: The Battle Field | 177034 | [177034-virus-the-battle-field.json](./177034-virus-the-battle-field.json) |
 | Virus: The Outbreak | 147478 | [147478-virus-the-outbreak.json](./147478-virus-the-outbreak.json) |
+| Virus.exe | 131409 | [131409-virus-exe.json](./131409-virus-exe.json) |
 | ViruStream | 331878 | [331878-virustream.json](./331878-virustream.json) |
 | Virusum | 210860 | [210860-virusum.json](./210860-virusum.json) |
 | Viruzzerk | 245296 | [245296-viruzzerk.json](./245296-viruzzerk.json) |
