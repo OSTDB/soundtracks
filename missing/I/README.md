@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Believe in Capybara Supremacy! | 250992 | [250992-i-believe-in-capybara-supremacy.json](./250992-i-believe-in-capybara-supremacy.json) |
 | I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
 | I Can Destroy Everything!!! | 274739 | [274739-i-can-destroy-everything.json](./274739-i-can-destroy-everything.json) |
+| I Can Hold My Breath Forever | 139813 | [139813-i-can-hold-my-breath-forever.json](./139813-i-can-hold-my-breath-forever.json) |
 | I Can Human | 211827 | [211827-i-can-human.json](./211827-i-can-human.json) |
 | I Can Save This! | 326612 | [326612-i-can-save-this.json](./326612-i-can-save-this.json) |
 | I Can Transform | 265740 | [265740-i-can-transform.json](./265740-i-can-transform.json) |
@@ -1261,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice 2: Reverse Flash | 323387 | [323387-injustice-2-reverse-flash.json](./323387-injustice-2-reverse-flash.json) |
 | Injustice 2: Starfire | 165038 | [165038-injustice-2-starfire.json](./165038-injustice-2-starfire.json) |
 | Injustice 2: The Atom | 165044 | [165044-injustice-2-the-atom.json](./165044-injustice-2-the-atom.json) |
+| Injustice 3 | 139807 | [139807-injustice-3.json](./139807-injustice-3.json) |
 | Injustice: Containment Suit Doomsday | 305201 | [305201-injustice-containment-suit-doomsday.json](./305201-injustice-containment-suit-doomsday.json) |
 | Injustice: Gods Among Us | 77354 | [77354-injustice-gods-among-us.json](./77354-injustice-gods-among-us.json) |
 | Injustice: Gods Among Us - Special Edition | 212252 | [212252-injustice-gods-among-us-special-edition.json](./212252-injustice-gods-among-us-special-edition.json) |
