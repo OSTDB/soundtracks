@@ -2083,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Divinity | 9781 | [9781-beyond-divinity.json](./9781-beyond-divinity.json) |
 | Beyond El Dorado | 58841 | [58841-beyond-el-dorado.json](./58841-beyond-el-dorado.json) |
 | Beyond Enemy Lines: Operation Arctic Hawk | 115599 | [115599-beyond-enemy-lines-operation-arctic-hawk.json](./115599-beyond-enemy-lines-operation-arctic-hawk.json) |
+| Beyond Enemy Lines: Remastered Edition | 132608 | [132608-beyond-enemy-lines-remastered-edition.json](./132608-beyond-enemy-lines-remastered-edition.json) |
 | Beyond Flesh and Blood Episode 1 | 34740 | [34740-beyond-flesh-and-blood-episode-1.json](./34740-beyond-flesh-and-blood-episode-1.json) |
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
 | Beyond Horizon: The Astral Expedition | 311112 | [311112-beyond-horizon-the-astral-expedition.json](./311112-beyond-horizon-the-astral-expedition.json) |
@@ -4753,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
 | Brutal Doom: Ali Jr's Challenge | 199067 | [199067-brutal-doom-ali-jrs-challenge.json](./199067-brutal-doom-ali-jrs-challenge.json) |
 | Brutal Mario | 132862 | [132862-brutal-mario.json](./132862-brutal-mario.json) |
+| Brutal Rage | 132657 | [132657-brutal-rage.json](./132657-brutal-rage.json) |
 | Brutal Runner | 81049 | [81049-brutal-runner.json](./81049-brutal-runner.json) |
 | Brutal Scales | 119704 | [119704-brutal-scales.json](./119704-brutal-scales.json) |
 | Brutal Sports Football | 40814 | [40814-brutal-sports-football.json](./40814-brutal-sports-football.json) |
