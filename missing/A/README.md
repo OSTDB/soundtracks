@@ -960,7 +960,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
 | Aircraft Carrier Survival | 139380 | [139380-aircraft-carrier-survival.json](./139380-aircraft-carrier-survival.json) |
 | Aircraft Pushback Simulator | 234744 | [234744-aircraft-pushback-simulator.json](./234744-aircraft-pushback-simulator.json) |
+| Aircraft War: Car Wars | 170954 | [170954-aircraft-war-car-wars.json](./170954-aircraft-war-car-wars.json) |
+| Aircraft War: Dragon Wars | 170953 | [170953-aircraft-war-dragon-wars.json](./170953-aircraft-war-dragon-wars.json) |
+| Aircraft War: Extra Level Pack 1 | 170950 | [170950-aircraft-war-extra-level-pack-1.json](./170950-aircraft-war-extra-level-pack-1.json) |
 | Aircraft War: Extra Level Pack 2 | 263196 | [263196-aircraft-war-extra-level-pack-2.json](./263196-aircraft-war-extra-level-pack-2.json) |
+| Aircraft War: Shape Wars | 170951 | [170951-aircraft-war-shape-wars.json](./170951-aircraft-war-shape-wars.json) |
+| Aircraft War: Tank Wars | 170952 | [170952-aircraft-war-tank-wars.json](./170952-aircraft-war-tank-wars.json) |
 | Aircraft Wars | 341580 | [341580-aircraft-wars.json](./341580-aircraft-wars.json) |
 | Aircrafter | 379858 | [379858-aircrafter.json](./379858-aircrafter.json) |
 | Airdrift | 203867 | [203867-airdrift.json](./203867-airdrift.json) |
@@ -2873,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquapolis SOS | 267398 | [267398-aquapolis-sos.json](./267398-aquapolis-sos.json) |
 | Aquaria | 297464 | [297464-aquaria.json](./297464-aquaria.json) |
 | Aquaris | 109044 | [109044-aquaris.json](./109044-aquaris.json) |
+| Aquarist: My First Job | 170934 | [170934-aquarist-my-first-job.json](./170934-aquarist-my-first-job.json) |
 | Aquarium Anomaly | 414410 | [414410-aquarium-anomaly.json](./414410-aquarium-anomaly.json) |
 | Aquarium Designer | 159879 | [159879-aquarium-designer.json](./159879-aquarium-designer.json) |
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
@@ -3506,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arms Devicer S!! | 82895 | [82895-arms-devicer-s.json](./82895-arms-devicer-s.json) |
 | Arms Race: TCWE | 29691 | [29691-arms-race-tcwe.json](./29691-arms-race-tcwe.json) |
 | Arms Race: TCWE - Industrialization | 172191 | [172191-arms-race-tcwe-industrialization.json](./172191-arms-race-tcwe-industrialization.json) |
+| Arms Race: TCWE - Politics | 170914 | [170914-arms-race-tcwe-politics.json](./170914-arms-race-tcwe-politics.json) |
 | Arms Trade Tycoon: Tanks | 190232 | [190232-arms-trade-tycoon-tanks.json](./190232-arms-trade-tycoon-tanks.json) |
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
 | Army Defender | 66994 | [66994-army-defender.json](./66994-army-defender.json) |
