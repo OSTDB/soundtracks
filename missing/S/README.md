@@ -4629,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow World | 176972 | [176972-snow-world.json](./176972-snow-world.json) |
 | Snow! | 180771 | [180771-snow.json](./180771-snow.json) |
 | Snow! | 376566 | [376566-snow.json](./376566-snow.json) |
+| Snowball | 147827 | [147827-snowball.json](./147827-snowball.json) |
 | SnowBall Champions | 239632 | [239632-snowball-champions.json](./239632-snowball-champions.json) |
 | Snowball Fall Down | 208622 | [208622-snowball-fall-down.json](./208622-snowball-fall-down.json) |
 | Snowball Fight | 397795 | [397795-snowball-fight.json](./397795-snowball-fight.json) |
@@ -4944,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Dash | 255169 | [255169-solitaire-dash.json](./255169-solitaire-dash.json) |
 | Solitaire de Kenshou | 220325 | [220325-solitaire-de-kenshou.json](./220325-solitaire-de-kenshou.json) |
 | Solitaire Deck | 406122 | [406122-solitaire-deck.json](./406122-solitaire-deck.json) |
+| Solitaire Deluxe Bundle: 3 in 1 | 147801 | [147801-solitaire-deluxe-bundle-3-in-1.json](./147801-solitaire-deluxe-bundle-3-in-1.json) |
 | Solitaire Dozen Gold | 146916 | [146916-solitaire-dozen-gold.json](./146916-solitaire-dozen-gold.json) |
 | Solitaire Grand Harvest | 321601 | [321601-solitaire-grand-harvest.json](./321601-solitaire-grand-harvest.json) |
 | Solitaire Halloween Story | 156089 | [156089-solitaire-halloween-story.json](./156089-solitaire-halloween-story.json) |
