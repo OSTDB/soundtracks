@@ -1360,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peril | 177036 | [177036-peril.json](./177036-peril.json) |
 | Peril | 197786 | [197786-peril.json](./197786-peril.json) |
 | Peril in the Agency | 365061 | [365061-peril-in-the-agency.json](./365061-peril-in-the-agency.json) |
+| Perilous Warp | 140357 | [140357-perilous-warp.json](./140357-perilous-warp.json) |
 | Perils of Man | 17998 | [17998-perils-of-man.json](./17998-perils-of-man.json) |
 | Perimeter | 397689 | [397689-perimeter.json](./397689-perimeter.json) |
 | Period. The Game | 140546 | [140546-period-the-game.json](./140546-period-the-game.json) |
@@ -1498,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Pan | 95405 | [95405-peter-pan.json](./95405-peter-pan.json) |
 | Peter Pan: A Story Painting Adventure | 327871 | [327871-peter-pan-a-story-painting-adventure.json](./327871-peter-pan-a-story-painting-adventure.json) |
 | Peter Pan: The Motion Picture Event | 49317 | [49317-peter-pan-the-motion-picture-event.json](./49317-peter-pan-the-motion-picture-event.json) |
+| Peter Paper | 140379 | [140379-peter-paper.json](./140379-peter-paper.json) |
 | Peter Rabbit Maze Mischief | 88192 | [88192-peter-rabbit-maze-mischief.json](./88192-peter-rabbit-maze-mischief.json) |
 | Peter Shilton's Handball Maradona! | 73836 | [73836-peter-shiltons-handball-maradona.json](./73836-peter-shiltons-handball-maradona.json) |
 | Peter's Apostles | 351609 | [351609-peters-apostles.json](./351609-peters-apostles.json) |
@@ -5139,6 +5141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzz Loop 2 | 39669 | [39669-puzz-loop-2.json](./39669-puzz-loop-2.json) |
 | Puzz LR | 150632 | [150632-puzz-lr.json](./150632-puzz-lr.json) |
 | Puzz'l | 229803 | [229803-puzzl.json](./229803-puzzl.json) |
+| Puzzel Nite | 140397 | [140397-puzzel-nite.json](./140397-puzzel-nite.json) |
 | Puzzl9 | 178650 | [178650-puzzl9.json](./178650-puzzl9.json) |
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
 | Puzzle & Dragons | 8590 | [8590-puzzle-and-dragons.json](./8590-puzzle-and-dragons.json) |
