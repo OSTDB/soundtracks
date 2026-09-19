@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instruments of Peace | 358938 | [358938-instruments-of-peace.json](./358938-instruments-of-peace.json) |
 | Instruments of Power | 395696 | [395696-instruments-of-power.json](./395696-instruments-of-power.json) |
 | Insufficient Adjectives | 134621 | [134621-insufficient-adjectives.json](./134621-insufficient-adjectives.json) |
+| Insula: Bounty Royale | 149959 | [149959-insula-bounty-royale.json](./149959-insula-bounty-royale.json) |
 | Insulted | 229676 | [229676-insulted.json](./229676-insulted.json) |
 | Insurgence: Chains of Renegade - Remastered | 240768 | [240768-insurgence-chains-of-renegade-remastered.json](./240768-insurgence-chains-of-renegade-remastered.json) |
 | Insurgence: Last Wishes | 235184 | [235184-insurgence-last-wishes.json](./235184-insurgence-last-wishes.json) |
