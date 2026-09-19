@@ -2268,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega-Corp | 45345 | [45345-mega-corp.json](./45345-mega-corp.json) |
 | MegaAri | 205788 | [205788-megaari.json](./205788-megaari.json) |
 | Megabat | 253913 | [253913-megabat.json](./253913-megabat.json) |
+| MegaBattle | 158561 | [158561-megabattle.json](./158561-megabattle.json) |
 | Megabonk | 327405 | [327405-megabonk.json](./327405-megabonk.json) |
 | Megabonk Smash | 376471 | [376471-megabonk-smash.json](./376471-megabonk-smash.json) |
 | Megachess | 345590 | [345590-megachess.json](./345590-megachess.json) |
@@ -3190,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Racer | 290523 | [290523-midnight-racer.json](./290523-midnight-racer.json) |
 | Midnight Ramen | 273456 | [273456-midnight-ramen.json](./273456-midnight-ramen.json) |
 | Midnight Ramen Shop | 390098 | [390098-midnight-ramen-shop.json](./390098-midnight-ramen-shop.json) |
+| Midnight Renegade | 158554 | [158554-midnight-renegade.json](./158554-midnight-renegade.json) |
 | Midnight Report | 207371 | [207371-midnight-report.json](./207371-midnight-report.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
 | Midnight Shifts with Femboy | 400315 | [400315-midnight-shifts-with-femboy.json](./400315-midnight-shifts-with-femboy.json) |
@@ -6124,6 +6126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Unusual Feline Friend | 259014 | [259014-my-unusual-feline-friend.json](./259014-my-unusual-feline-friend.json) |
 | My Valiant Purpose | 278384 | [278384-my-valiant-purpose.json](./278384-my-valiant-purpose.json) |
 | My Very Hungry Caterpillar | 321784 | [321784-my-very-hungry-caterpillar.json](./321784-my-very-hungry-caterpillar.json) |
+| My Very Own Lair | 158563 | [158563-my-very-own-lair.json](./158563-my-very-own-lair.json) |
 | My Vineyard | 92440 | [92440-my-vineyard.json](./92440-my-vineyard.json) |
 | My Virtual Friend | 330534 | [330534-my-virtual-friend.json](./330534-my-virtual-friend.json) |
 | My Virtual Pet Louie the Pug | 250019 | [250019-my-virtual-pet-louie-the-pug.json](./250019-my-virtual-pet-louie-the-pug.json) |
