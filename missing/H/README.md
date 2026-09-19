@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hairstyle | 104597 | [104597-hairstyle.json](./104597-hairstyle.json) |
 | Haisonmeguri | 207523 | [207523-haisonmeguri.json](./207523-haisonmeguri.json) |
 | Haitenai RPG | 211725 | [211725-haitenai-rpg.json](./211725-haitenai-rpg.json) |
+| Haitoku Silene | 157058 | [157058-haitoku-silene.json](./157058-haitoku-silene.json) |
 | Haiyuuenchi no Memento Memoria | 259056 | [259056-haiyuuenchi-no-memento-memoria.json](./259056-haiyuuenchi-no-memento-memoria.json) |
 | Hajiite! Block Rush | 344482 | [344482-hajiite-block-rush.json](./344482-hajiite-block-rush.json) |
 | Hajikise! | 265155 | [265155-hajikise.json](./265155-hajikise.json) |
@@ -961,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart de Roommate | 84234 | [84234-heart-de-roommate.json](./84234-heart-de-roommate.json) |
 | Heart Fragment | 131599 | [131599-heart-fragment.json](./131599-heart-fragment.json) |
 | Heart Fragment: Book One - Fantasy Fragments | 245032 | [245032-heart-fragment-book-one-fantasy-fragments.json](./245032-heart-fragment-book-one-fantasy-fragments.json) |
+| Heart in the Cell: Rebirth | 157020 | [157020-heart-in-the-cell-rebirth.json](./157020-heart-in-the-cell-rebirth.json) |
 | Heart is Muscle | 181933 | [181933-heart-is-muscle.json](./181933-heart-is-muscle.json) |
 | Heart Keeper | 342634 | [342634-heart-keeper.json](./342634-heart-keeper.json) |
 | Heart of a Warrior | 190072 | [190072-heart-of-a-warrior.json](./190072-heart-of-a-warrior.json) |
@@ -2662,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Shoot | 292514 | [292514-holy-shoot.json](./292514-holy-shoot.json) |
 | Holy Shot | 325271 | [325271-holy-shot.json](./325271-holy-shot.json) |
 | Holy SIsters 3D | 369661 | [369661-holy-sisters-3d.json](./369661-holy-sisters-3d.json) |
+| Holy Stick! | 157037 | [157037-holy-stick.json](./157037-holy-stick.json) |
 | Holy Umbrella: Dondera no Mubou!! | 38386 | [38386-holy-umbrella-dondera-no-mubou.json](./38386-holy-umbrella-dondera-no-mubou.json) |
 | Holy War | 273484 | [273484-holy-war.json](./273484-holy-war.json) |
 | Holyday City: Reloaded | 76536 | [76536-holyday-city-reloaded.json](./76536-holyday-city-reloaded.json) |
