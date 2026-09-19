@@ -4403,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Programmer Dungeon Knightress | 199566 | [199566-programmer-dungeon-knightress.json](./199566-programmer-dungeon-knightress.json) |
 | Progress | 40171 | [40171-progress.json](./40171-progress.json) |
 | Progress Bar Deluxe | 371861 | [371861-progress-bar-deluxe.json](./371861-progress-bar-deluxe.json) |
+| Progress Bar Simulator DLC - H.O.R.S.E. 1st | 141662 | [141662-progress-bar-simulator-dlc-h-o-r-s-e-1st.json](./141662-progress-bar-simulator-dlc-h-o-r-s-e-1st.json) |
 | Progress Orders | 328491 | [328491-progress-orders.json](./328491-progress-orders.json) |
 | Progressbar Popup Fighter | 250015 | [250015-progressbar-popup-fighter.json](./250015-progressbar-popup-fighter.json) |
 | Progs_dump | 300705 | [300705-progs-dump.json](./300705-progs-dump.json) |
@@ -5101,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puss in Boots: Purrfect Adventures | 298578 | [298578-puss-in-boots-purrfect-adventures.json](./298578-puss-in-boots-purrfect-adventures.json) |
 | Pussies Wrestling Dicks | 211928 | [211928-pussies-wrestling-dicks.json](./211928-pussies-wrestling-dicks.json) |
 | Pussy Kingdom: Queen of Passion | 278393 | [278393-pussy-kingdom-queen-of-passion.json](./278393-pussy-kingdom-queen-of-passion.json) |
+| Pussy Puzzle: Over 9000 | 141661 | [141661-pussy-puzzle-over-9000.json](./141661-pussy-puzzle-over-9000.json) |
 | Puszka Pandory | 93586 | [93586-puszka-pandory.json](./93586-puszka-pandory.json) |
 | Put Out the Fire | 366882 | [366882-put-out-the-fire.json](./366882-put-out-the-fire.json) |
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
