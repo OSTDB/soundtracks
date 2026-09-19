@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neave 2 | 212886 | [212886-neave-2.json](./212886-neave-2.json) |
 | Nebo | 182927 | [182927-nebo.json](./182927-nebo.json) |
 | Nebs | 159183 | [159183-nebs.json](./159183-nebs.json) |
+| Nebs 'n Debs | 134460 | [134460-nebs-n-debs.json](./134460-nebs-n-debs.json) |
 | Nebuchadnezzar | 126806 | [126806-nebuchadnezzar.json](./126806-nebuchadnezzar.json) |
 | Nebula | 197412 | [197412-nebula.json](./197412-nebula.json) |
 | Nebula | 329118 | [329118-nebula.json](./329118-nebula.json) |
