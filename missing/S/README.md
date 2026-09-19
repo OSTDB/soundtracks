@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Love Temple | 368534 | [368534-secret-love-temple.json](./368534-secret-love-temple.json) |
 | Secret Manga Girlfriend | 252803 | [252803-secret-manga-girlfriend.json](./252803-secret-manga-girlfriend.json) |
 | Secret Maryo Chronicles | 134076 | [134076-secret-maryo-chronicles.json](./134076-secret-maryo-chronicles.json) |
+| Secret Mission Escape Room | 162248 | [162248-secret-mission-escape-room.json](./162248-secret-mission-escape-room.json) |
 | Secret Mission: Produce For President | 171475 | [171475-secret-mission-produce-for-president.json](./171475-secret-mission-produce-for-president.json) |
 | Secret Mission: The Forgotten Island | 186808 | [186808-secret-mission-the-forgotten-island.json](./186808-secret-mission-the-forgotten-island.json) |
 | Secret Mode's Cozy Collection | 328500 | [328500-secret-modes-cozy-collection.json](./328500-secret-modes-cozy-collection.json) |
@@ -8236,6 +8237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strand | 320715 | [320715-strand.json](./320715-strand.json) |
 | Stranded | 337676 | [337676-stranded.json](./337676-stranded.json) |
 | Stranded at Sea | 365737 | [365737-stranded-at-sea.json](./365737-stranded-at-sea.json) |
+| Stranded B | 162257 | [162257-stranded-b.json](./162257-stranded-b.json) |
 | Stranded Engineers | 273398 | [273398-stranded-engineers.json](./273398-stranded-engineers.json) |
 | Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
 | Stranded Nightmare | 207367 | [207367-stranded-nightmare.json](./207367-stranded-nightmare.json) |
@@ -8311,6 +8313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry | 339658 | [339658-strawberry.json](./339658-strawberry.json) |
 | Strawberry Blasted Sky Glide | 143681 | [143681-strawberry-blasted-sky-glide.json](./143681-strawberry-blasted-sky-glide.json) |
 | Strawberry Chocolate | 367495 | [367495-strawberry-chocolate.json](./367495-strawberry-chocolate.json) |
+| Strawberry Chocolate: Miner 8AD 4SS | 162253 | [162253-strawberry-chocolate-miner-8ad-4ss.json](./162253-strawberry-chocolate-miner-8ad-4ss.json) |
 | Strawberry Nauts: Complete Limited Edition | 172586 | [172586-strawberry-nauts-complete-limited-edition.json](./172586-strawberry-nauts-complete-limited-edition.json) |
 | Strawberry Note 3 | 343324 | [343324-strawberry-note-3.json](./343324-strawberry-note-3.json) |
 | Strawberry Park | 312732 | [312732-strawberry-park.json](./312732-strawberry-park.json) |
@@ -8440,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Level: Windows Edition | 101624 | [101624-street-level-windows-edition.json](./101624-street-level-windows-edition.json) |
 | Street Master | 45987 | [45987-street-master.json](./45987-street-master.json) |
 | Street of the Cats | 293631 | [293631-street-of-the-cats.json](./293631-street-of-the-cats.json) |
+| Street Outlaws 2: Winner Takes All | 162246 | [162246-street-outlaws-2-winner-takes-all.json](./162246-street-outlaws-2-winner-takes-all.json) |
 | Street Outlaws 2: Winner Takes All - Digital Deluxe Edition | 173797 | [173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json](./173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json) |
 | Street Paint Playground | 217991 | [217991-street-paint-playground.json](./217991-street-paint-playground.json) |
 | Street Racer X Ace of Love | 206198 | [206198-street-racer-x-ace-of-love.json](./206198-street-racer-x-ace-of-love.json) |
