@@ -719,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
 | One Goal Spirit | 80493 | [80493-one-goal-spirit.json](./80493-one-goal-spirit.json) |
 | One Hell of a Ride | 218562 | [218562-one-hell-of-a-ride.json](./218562-one-hell-of-a-ride.json) |
+| One Hell of a Trip | 151553 | [151553-one-hell-of-a-trip.json](./151553-one-hell-of-a-trip.json) |
 | One Hell of a Turnabout | 310419 | [310419-one-hell-of-a-turnabout.json](./310419-one-hell-of-a-turnabout.json) |
 | One Hit Cowboy | 233097 | [233097-one-hit-cowboy.json](./233097-one-hit-cowboy.json) |
 | One Hour And A Straight Line | 278986 | [278986-one-hour-and-a-straight-line.json](./278986-one-hour-and-a-straight-line.json) |
@@ -909,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ongeki Bright Memory Act.3 | 335954 | [335954-ongeki-bright-memory-act-3.json](./335954-ongeki-bright-memory-act-3.json) |
 | Oni | 365784 | [365784-oni.json](./365784-oni.json) |
 | Oni Ama: Watashi ni Amaete, Onii-chan | 145052 | [145052-oni-ama-watashi-ni-amaete-onii-chan.json](./145052-oni-ama-watashi-ni-amaete-onii-chan.json) |
+| Oni Asobi | 151529 | [151529-oni-asobi.json](./151529-oni-asobi.json) |
 | Onigami | 184562 | [184562-onigami.json](./184562-onigami.json) |
 | Onigashima: Awakening | 406103 | [406103-onigashima-awakening.json](./406103-onigashima-awakening.json) |
 | Onii-Chan | 89968 | [89968-onii-chan.json](./89968-onii-chan.json) |
