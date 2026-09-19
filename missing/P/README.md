@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmagoria | 221 | [221-phantasmagoria.json](./221-phantasmagoria.json) |
 | Phantasmat: The Dread of Oakville | 101551 | [101551-phantasmat-the-dread-of-oakville.json](./101551-phantasmat-the-dread-of-oakville.json) |
 | Phantasy Series Reference Opus | 285442 | [285442-phantasy-series-reference-opus.json](./285442-phantasy-series-reference-opus.json) |
+| Phantasy Star Classics | 136870 | [136870-phantasy-star-classics.json](./136870-phantasy-star-classics.json) |
 | Phantasy Star Nova | 42674 | [42674-phantasy-star-nova.json](./42674-phantasy-star-nova.json) |
 | Phantasy Star Online 2 -Ragol Edition- | 132155 | [132155-phantasy-star-online-2-ragol-edition.json](./132155-phantasy-star-online-2-ragol-edition.json) |
 | Phantasy Star Online 2 New Genesis: Limited Edition | 146336 | [146336-phantasy-star-online-2-new-genesis-limited-edition.json](./146336-phantasy-star-online-2-new-genesis-limited-edition.json) |
@@ -3185,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Feuergrün Edition | 205126 | [205126-pokemon-feuergrun-edition.json](./205126-pokemon-feuergrun-edition.json) |
 | Pokémon Fire Ash | 135871 | [135871-pokemon-fire-ash.json](./135871-pokemon-fire-ash.json) |
 | Pokemon FireRed and LeafGreen+ | 288206 | [288206-pokemon-firered-and-leafgreen.json](./288206-pokemon-firered-and-leafgreen.json) |
+| Pokémon Fool's Gold | 136877 | [136877-pokemon-fools-gold.json](./136877-pokemon-fools-gold.json) |
 | Pokémon FR Advanced Challenge | 136412 | [136412-pokemon-fr-advanced-challenge.json](./136412-pokemon-fr-advanced-challenge.json) |
 | Pokémon Fushigi no Dungeon: Ikuzo! Arashi no Boukendan | 103512 | [103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json](./103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json) |
 | Pokémon Fushigi no Dungeon: Mezase! Hikari no Boukendan | 103513 | [103513-pokemon-fushigi-no-dungeon-mezase-hikari-no-boukendan.json](./103513-pokemon-fushigi-no-dungeon-mezase-hikari-no-boukendan.json) |
@@ -4823,6 +4825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psi-Warrior | 26466 | [26466-psi-warrior.json](./26466-psi-warrior.json) |
 | Psicose? | 129235 | [129235-psicose.json](./129235-psicose.json) |
 | Psikyo Collection Vol. 2 | 112290 | [112290-psikyo-collection-vol-2.json](./112290-psikyo-collection-vol-2.json) |
+| Psikyo Shooting Library Vol. 1 | 136837 | [136837-psikyo-shooting-library-vol-1.json](./136837-psikyo-shooting-library-vol-1.json) |
 | Psikyo Shooting Stars Bravo | 121652 | [121652-psikyo-shooting-stars-bravo.json](./121652-psikyo-shooting-stars-bravo.json) |
 | Psionic Sentry: Infinite | 276191 | [276191-psionic-sentry-infinite.json](./276191-psionic-sentry-infinite.json) |
 | PSN Protector | 320978 | [320978-psn-protector.json](./320978-psn-protector.json) |
