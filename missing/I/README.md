@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inquisitor's Heart and Soul | 191205 | [191205-inquisitors-heart-and-soul.json](./191205-inquisitors-heart-and-soul.json) |
 | InRun | 256554 | [256554-inrun.json](./256554-inrun.json) |
 | Insane | 291583 | [291583-insane.json](./291583-insane.json) |
+| Insane Aquarium Deluxe | 174746 | [174746-insane-aquarium-deluxe.json](./174746-insane-aquarium-deluxe.json) |
 | Insane Creations | 149528 | [149528-insane-creations.json](./149528-insane-creations.json) |
 | Insanias | 250950 | [250950-insanias.json](./250950-insanias.json) |
 | Insaniquarium! | 334696 | [334696-insaniquarium.json](./334696-insaniquarium.json) |
