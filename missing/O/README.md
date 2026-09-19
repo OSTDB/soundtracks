@@ -1180,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb Tower | 331951 | [331951-orb-tower.json](./331951-orb-tower.json) |
 | Orb's Betrayal | 271732 | [271732-orbs-betrayal.json](./271732-orbs-betrayal.json) |
 | Orbatak | 217881 | [217881-orbatak.json](./217881-orbatak.json) |
+| Orbatron | 149955 | [149955-orbatron.json](./149955-orbatron.json) |
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
 | Orbifall | 379875 | [379875-orbifall.json](./379875-orbifall.json) |
 | Orbit Drop | 120339 | [120339-orbit-drop.json](./120339-orbit-drop.json) |
