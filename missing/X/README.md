@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X.E.T. Xen Exploration Team | 222306 | [222306-x-e-t-xen-exploration-team.json](./222306-x-e-t-xen-exploration-team.json) |
 | X'Treme Roller | 205814 | [205814-xtreme-roller.json](./205814-xtreme-roller.json) |
 | X2 Blocks | 220197 | [220197-x2-blocks.json](./220197-x2-blocks.json) |
+| X3: Farnham's Legacy | 145483 | [145483-x3-farnhams-legacy.json](./145483-x3-farnhams-legacy.json) |
 | X3: Terran Conflict | 9320 | [9320-x3-terran-conflict.json](./9320-x3-terran-conflict.json) |
 | X4: Foundations - Collector's Edition | 124803 | [124803-x4-foundations-collectors-edition.json](./124803-x4-foundations-collectors-edition.json) |
 | X4: Foundations - Tides of Avarice | 186900 | [186900-x4-foundations-tides-of-avarice.json](./186900-x4-foundations-tides-of-avarice.json) |
