@@ -3756,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombing Quest | 129796 | [129796-bombing-quest.json](./129796-bombing-quest.json) |
 | Bombing Wonderful | 228712 | [228712-bombing-wonderful.json](./228712-bombing-wonderful.json) |
 | Bombing!!: A Graffiti Sandbox | 144933 | [144933-bombing-a-graffiti-sandbox.json](./144933-bombing-a-graffiti-sandbox.json) |
+| Bombini | 129579 | [129579-bombini.json](./129579-bombini.json) |
 | Bombo | 293252 | [293252-bombo.json](./293252-bombo.json) |
 | Bombo Rumble | 239683 | [239683-bombo-rumble.json](./239683-bombo-rumble.json) |
 | Bomboban | 386102 | [386102-bomboban.json](./386102-bomboban.json) |
@@ -4015,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Botanical Chronicle | 266287 | [266287-botanical-chronicle.json](./266287-botanical-chronicle.json) |
 | Botanical TD | 214163 | [214163-botanical-td.json](./214163-botanical-td.json) |
 | Botanicula: Collector's Edition | 186881 | [186881-botanicula-collectors-edition.json](./186881-botanicula-collectors-edition.json) |
+| Botanik | 129569 | [129569-botanik.json](./129569-botanik.json) |
 | Botaniki | 229673 | [229673-botaniki.json](./229673-botaniki.json) |
 | Boti: Byteland Overclocked | 221164 | [221164-boti-byteland-overclocked.json](./221164-boti-byteland-overclocked.json) |
 | Boti: Byteland Overclocked - Bit Racing | 327814 | [327814-boti-byteland-overclocked-bit-racing.json](./327814-boti-byteland-overclocked-bit-racing.json) |
