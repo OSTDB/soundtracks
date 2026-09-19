@@ -1605,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Rend | 379862 | [379862-phantom-rend.json](./379862-phantom-rend.json) |
 | Phantom Rift | 174351 | [174351-phantom-rift.json](./174351-phantom-rift.json) |
 | Phantom Rose | 117605 | [117605-phantom-rose.json](./117605-phantom-rose.json) |
+| Phantom Rose Scarlet | 144106 | [144106-phantom-rose-scarlet.json](./144106-phantom-rose-scarlet.json) |
 | Phantom Shift | 307598 | [307598-phantom-shift.json](./307598-phantom-shift.json) |
 | Phantom Sol | 125437 | [125437-phantom-sol.json](./125437-phantom-sol.json) |
 | Phantom Tank | 321993 | [321993-phantom-tank.json](./321993-phantom-tank.json) |
@@ -1896,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieces of Cake | 181256 | [181256-pieces-of-cake.json](./181256-pieces-of-cake.json) |
 | Pieces of Eight | 96677 | [96677-pieces-of-eight.json](./96677-pieces-of-eight.json) |
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
+| Pien | 144144 | [144144-pien.json](./144144-pien.json) |
 | Pierhead Arcade 2 | 188081 | [188081-pierhead-arcade-2.json](./188081-pierhead-arcade-2.json) |
 | Pierre le Chef is... Out to Lunch | 39042 | [39042-pierre-le-chef-is-out-to-lunch.json](./39042-pierre-le-chef-is-out-to-lunch.json) |
 | Pif Paf | 105323 | [105323-pif-paf.json](./105323-pif-paf.json) |
@@ -4424,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Breach Online | 208965 | [208965-project-breach-online.json](./208965-project-breach-online.json) |
 | Project Bridge | 187432 | [187432-project-bridge.json](./187432-project-bridge.json) |
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
+| Project Canopy | 144090 | [144090-project-canopy.json](./144090-project-canopy.json) |
 | Project Carrot | 335324 | [335324-project-carrot.json](./335324-project-carrot.json) |
 | Project Cars: Digital Edition | 218478 | [218478-project-cars-digital-edition.json](./218478-project-cars-digital-edition.json) |
 | Project CARS: Logitech Livery Pack | 353279 | [353279-project-cars-logitech-livery-pack.json](./353279-project-cars-logitech-livery-pack.json) |
@@ -5152,6 +5155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bowling | 158143 | [158143-puzzle-bowling.json](./158143-puzzle-bowling.json) |
 | Puzzle Box | 166072 | [166072-puzzle-box.json](./166072-puzzle-box.json) |
 | Puzzle Box Maker | 84795 | [84795-puzzle-box-maker.json](./84795-puzzle-box-maker.json) |
+| Puzzle Box Palace | 144124 | [144124-puzzle-box-palace.json](./144124-puzzle-box-palace.json) |
 | Puzzle Box-Puzzles All In One | 104608 | [104608-puzzle-box-puzzles-all-in-one.json](./104608-puzzle-box-puzzles-all-in-one.json) |
 | Puzzle Boys | 41393 | [41393-puzzle-boys.json](./41393-puzzle-boys.json) |
 | Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks | 335104 | [335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json](./335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json) |
