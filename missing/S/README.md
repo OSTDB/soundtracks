@@ -7726,6 +7726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station 228 | 75786 | [75786-station-228.json](./75786-station-228.json) |
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
+| Station Commander | 166074 | [166074-station-commander.json](./166074-station-commander.json) |
 | Station Commander | 76654 | [76654-station-commander.json](./76654-station-commander.json) |
 | Station Master | 183550 | [183550-station-master.json](./183550-station-master.json) |
 | Station Memories | 216220 | [216220-station-memories.json](./216220-station-memories.json) |
@@ -10156,6 +10157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
 | Surface: Return to Another World | 91346 | [91346-surface-return-to-another-world.json](./91346-surface-return-to-another-world.json) |
 | Surface: The Noise She Couldn't Make | 139919 | [139919-surface-the-noise-she-couldnt-make.json](./139919-surface-the-noise-she-couldnt-make.json) |
+| Surface: Virtual Detective - Collector's Edition | 166076 | [166076-surface-virtual-detective-collectors-edition.json](./166076-surface-virtual-detective-collectors-edition.json) |
 | Surfacer+ | 85529 | [85529-surfacer.json](./85529-surfacer.json) |
 | Surferboy | 346044 | [346044-surferboy.json](./346044-surferboy.json) |
 | Surfin' Sam: Attack of the Aqualites | 85416 | [85416-surfin-sam-attack-of-the-aqualites.json](./85416-surfin-sam-attack-of-the-aqualites.json) |
