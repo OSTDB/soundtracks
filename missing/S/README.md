@@ -1653,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serene Asylum | 172740 | [172740-serene-asylum.json](./172740-serene-asylum.json) |
 | Serenity | 313862 | [313862-serenity.json](./313862-serenity.json) |
 | Serenity | 392294 | [392294-serenity.json](./392294-serenity.json) |
+| Serenity at Dusk | 179056 | [179056-serenity-at-dusk.json](./179056-serenity-at-dusk.json) |
 | Seres | 207382 | [207382-seres.json](./207382-seres.json) |
 | Serflings | 210632 | [210632-serflings.json](./210632-serflings.json) |
 | Serial Cleaner | 19450 | [19450-serial-cleaner.json](./19450-serial-cleaner.json) |
@@ -5654,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sowon : The Toy Wonderland | 298579 | [298579-sowon-the-toy-wonderland.json](./298579-sowon-the-toy-wonderland.json) |
 | SP-Light | 291452 | [291452-sp-light.json](./291452-sp-light.json) |
 | Sp:In | 242788 | [242788-sp-in.json](./242788-sp-in.json) |
+| Spaaace! | 179052 | [179052-spaaace.json](./179052-spaaace.json) |
 | Spac Cop, Sereth | 97843 | [97843-spac-cop-sereth.json](./97843-spac-cop-sereth.json) |
 | Space | 213452 | [213452-space.json](./213452-space.json) |
 | Space 2: Breakthrough Gaming Arcade | 145669 | [145669-space-2-breakthrough-gaming-arcade.json](./145669-space-2-breakthrough-gaming-arcade.json) |
@@ -6024,6 +6026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacestation Pheta | 344477 | [344477-spacestation-pheta.json](./344477-spacestation-pheta.json) |
 | Spacetron | 258469 | [258469-spacetron.json](./258469-spacetron.json) |
 | Spacetronic | 270683 | [270683-spacetronic.json](./270683-spacetronic.json) |
+| Spacetug | 179028 | [179028-spacetug.json](./179028-spacetug.json) |
 | SpaceVenture | 63497 | [63497-spaceventure.json](./63497-spaceventure.json) |
 | Spacewar | 181938 | [181938-spacewar.json](./181938-spacewar.json) |
 | Spaceward Ho! | 47296 | [47296-spaceward-ho.json](./47296-spaceward-ho.json) |
