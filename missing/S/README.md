@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai de Ichiban Kimi ga Suki! | 270691 | [270691-sekai-de-ichiban-kimi-ga-suki.json](./270691-sekai-de-ichiban-kimi-ga-suki.json) |
 | Sekai no Chuushin de Mawaru | 260687 | [260687-sekai-no-chuushin-de-mawaru.json](./260687-sekai-no-chuushin-de-mawaru.json) |
 | Sekai no Gohan Shaberu! DS O-Ryouri Navi | 81255 | [81255-sekai-no-gohan-shaberu-ds-o-ryouri-navi.json](./81255-sekai-no-gohan-shaberu-ds-o-ryouri-navi.json) |
+| Sekai no Hate Made Itte Q! Chinjuu Hunter Imoto no Daibouken | 133797 | [133797-sekai-no-hate-made-itte-q-chinjuu-hunter-imoto-no-daibouken.json](./133797-sekai-no-hate-made-itte-q-chinjuu-hunter-imoto-no-daibouken.json) |
 | Sekai Saikyou Ginsei Igo | 107136 | [107136-sekai-saikyou-ginsei-igo.json](./107136-sekai-saikyou-ginsei-igo.json) |
 | Sekai Saikyou Ginsei Igo 3 | 347157 | [347157-sekai-saikyou-ginsei-igo-3.json](./347157-sekai-saikyou-ginsei-igo-3.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
@@ -2487,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiba Mekuri | 158726 | [158726-shiba-mekuri.json](./158726-shiba-mekuri.json) |
 | Shibainu: VR Katana Simulator | 197408 | [197408-shibainu-vr-katana-simulator.json](./197408-shibainu-vr-katana-simulator.json) |
 | Shibui Coliseum | 120985 | [120985-shibui-coliseum.json](./120985-shibui-coliseum.json) |
+| Shibuya Grandmaster | 133825 | [133825-shibuya-grandmaster.json](./133825-shibuya-grandmaster.json) |
 | Shibuya Scramble Stories | 351642 | [351642-shibuya-scramble-stories.json](./351642-shibuya-scramble-stories.json) |
 | Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen | 229700 | [229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json](./229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json) |
 | Shield Arena | 412958 | [412958-shield-arena.json](./412958-shield-arena.json) |
@@ -6368,6 +6370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Specimen #08 | 262963 | [262963-specimen-08.json](./262963-specimen-08.json) |
 | Specimen #14 | 263006 | [263006-specimen-14.json](./263006-specimen-14.json) |
 | Specimen 15 | 263009 | [263009-specimen-15.json](./263009-specimen-15.json) |
+| Specimen 42 | 133829 | [133829-specimen-42.json](./133829-specimen-42.json) |
 | Specshong | 398459 | [398459-specshong.json](./398459-specshong.json) |
 | Spectacle | 280338 | [280338-spectacle.json](./280338-spectacle.json) |
 | Spectacular Sparky | 165613 | [165613-spectacular-sparky.json](./165613-spectacular-sparky.json) |
@@ -6706,6 +6709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Cleaning | 151717 | [151717-spirit-cleaning.json](./151717-spirit-cleaning.json) |
 | Spirit Drop | 334746 | [334746-spirit-drop.json](./334746-spirit-drop.json) |
 | Spirit Eyes | 211188 | [211188-spirit-eyes.json](./211188-spirit-eyes.json) |
+| Spirit Hunter: Death Mark II | 133814 | [133814-spirit-hunter-death-mark-ii.json](./133814-spirit-hunter-death-mark-ii.json) |
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
 | Spirit Legends: Finding Balance - Collector's Edition | 338707 | [338707-spirit-legends-finding-balance-collectors-edition.json](./338707-spirit-legends-finding-balance-collectors-edition.json) |
 | Spirit Legends: Solar Eclipse - Collector's Edition | 338706 | [338706-spirit-legends-solar-eclipse-collectors-edition.json](./338706-spirit-legends-solar-eclipse-collectors-edition.json) |
@@ -7902,6 +7906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Decay 2: Curveball Update | 266858 | [266858-state-of-decay-2-curveball-update.json](./266858-state-of-decay-2-curveball-update.json) |
 | State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
 | State of Mind | 20123 | [20123-state-of-mind.json](./20123-state-of-mind.json) |
+| State of Survival | 133783 | [133783-state-of-survival.json](./133783-state-of-survival.json) |
 | State of War | 94231 | [94231-state-of-war.json](./94231-state-of-war.json) |
 | State of War 2: Arcon | 64986 | [64986-state-of-war-2-arcon.json](./64986-state-of-war-2-arcon.json) |
 | State Your Business | 336620 | [336620-state-your-business.json](./336620-state-your-business.json) |
@@ -9339,6 +9344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ate in Wonderland | 195192 | [195192-super-ate-in-wonderland.json](./195192-super-ate-in-wonderland.json) |
 | Super Auto Pets | 146641 | [146641-super-auto-pets.json](./146641-super-auto-pets.json) |
 | Super Auto Racing | 245581 | [245581-super-auto-racing.json](./245581-super-auto-racing.json) |
+| Super Auto Salon: Custom Car Contest | 133782 | [133782-super-auto-salon-custom-car-contest.json](./133782-super-auto-salon-custom-car-contest.json) |
 | Super Bad Hero | 296504 | [296504-super-bad-hero.json](./296504-super-bad-hero.json) |
 | Super Ball Arena | 215707 | [215707-super-ball-arena.json](./215707-super-ball-arena.json) |
 | Super Baseball | 81283 | [81283-super-baseball.json](./81283-super-baseball.json) |
