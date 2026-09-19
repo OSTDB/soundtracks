@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tahn | 126046 | [126046-tahn.json](./126046-tahn.json) |
 | Tahoe Dragon: The Beginning | 220861 | [220861-tahoe-dragon-the-beginning.json](./220861-tahoe-dragon-the-beginning.json) |
 | Taiga | 199514 | [199514-taiga.json](./199514-taiga.json) |
+| Taigenchi: The Eternal Eclipse | 177926 | [177926-taigenchi-the-eternal-eclipse.json](./177926-taigenchi-the-eternal-eclipse.json) |
 | Tàigǔ Qíngyuán zhī Qīngyún Jiànxiá Chuánqí | 161897 | [161897-taigu-qingyuan-zhi-qingyun-jianxia-chuanqi.json](./161897-taigu-qingyuan-zhi-qingyun-jianxia-chuanqi.json) |
 | Taiheiki | 184472 | [184472-taiheiki.json](./184472-taiheiki.json) |
 | Taiheiyou no Arashi: Koukoku no Kouhai Koko ni Ari, 1942 Senkan Yamato Hankou no Kouhou | 245034 | [245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json](./245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json) |
@@ -321,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takume | 136420 | [136420-takume.json](./136420-takume.json) |
 | Takumi 3 | 220193 | [220193-takumi-3.json](./220193-takumi-3.json) |
 | TAL: Arctic 2 | 106625 | [106625-tal-arctic-2.json](./106625-tal-arctic-2.json) |
+| Tale of Avamphil | 177925 | [177925-tale-of-avamphil.json](./177925-tale-of-avamphil.json) |
 | Tale of Exorcists | 375313 | [375313-tale-of-exorcists.json](./375313-tale-of-exorcists.json) |
 | Tale of Honor | 274041 | [274041-tale-of-honor.json](./274041-tale-of-honor.json) |
 | Tale of Jade Li Guang | 151740 | [151740-tale-of-jade-li-guang.json](./151740-tale-of-jade-li-guang.json) |
@@ -3259,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House Unrest | 392166 | [392166-the-house-unrest.json](./392166-the-house-unrest.json) |
 | The House Where They Dwell | 192389 | [192389-the-house-where-they-dwell.json](./192389-the-house-where-they-dwell.json) |
 | The Howler | 11838 | [11838-the-howler.json](./11838-the-howler.json) |
+| The Human Heart | 177913 | [177913-the-human-heart.json](./177913-the-human-heart.json) |
 | The Humans 2: Jurassic Levels | 39032 | [39032-the-humans-2-jurassic-levels.json](./39032-the-humans-2-jurassic-levels.json) |
 | The Hundred Line: Last Defense Academy - Digital Deluxe Edition | 338007 | [338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json](./338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json) |
 | The Hundred Line: Last Defense Academy - Nintendo Switch Version with Sleeve | 385732 | [385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json](./385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json) |
@@ -4380,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outlast Trials: World of Heavyweights Pack | 366839 | [366839-the-outlast-trials-world-of-heavyweights-pack.json](./366839-the-outlast-trials-world-of-heavyweights-pack.json) |
 | The Outlaw and the Newcomer | 216998 | [216998-the-outlaw-and-the-newcomer.json](./216998-the-outlaw-and-the-newcomer.json) |
 | The Outskirts | 412394 | [412394-the-outskirts.json](./412394-the-outskirts.json) |
+| The Owl-Woman Oracle | 177929 | [177929-the-owl-woman-oracle.json](./177929-the-owl-woman-oracle.json) |
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
 | The Pack | 113678 | [113678-the-pack.json](./113678-the-pack.json) |
 | The Packages | 212916 | [212916-the-packages.json](./212916-the-packages.json) |
@@ -4524,6 +4528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Purgatory and the Stolen Souls | 239285 | [239285-the-purgatory-and-the-stolen-souls.json](./239285-the-purgatory-and-the-stolen-souls.json) |
 | The Purge Club: Kyuusai! Shukusei Circle | 300843 | [300843-the-purge-club-kyuusai-shukusei-circle.json](./300843-the-purge-club-kyuusai-shukusei-circle.json) |
 | The Purple Hike | 413608 | [413608-the-purple-hike.json](./413608-the-purple-hike.json) |
+| The Purrfect Valentine | 177957 | [177957-the-purrfect-valentine.json](./177957-the-purrfect-valentine.json) |
 | The Purring Quest | 14566 | [14566-the-purring-quest.json](./14566-the-purring-quest.json) |
 | The Putrid Pumps | 271203 | [271203-the-putrid-pumps.json](./271203-the-putrid-pumps.json) |
 | The Puzzle Maker: Cebba's Odyssey | 275112 | [275112-the-puzzle-maker-cebbas-odyssey.json](./275112-the-puzzle-maker-cebbas-odyssey.json) |
