@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Past Apparitions | 383499 | [383499-past-apparitions.json](./383499-past-apparitions.json) |
 | Past Fate | 123029 | [123029-past-fate.json](./123029-past-fate.json) |
 | Past Synergy | 195079 | [195079-past-synergy.json](./195079-past-synergy.json) |
+| Pasta Master | 160263 | [160263-pasta-master.json](./160263-pasta-master.json) |
 | Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
 | Pastel Lime | 210633 | [210633-pastel-lime.json](./210633-pastel-lime.json) |
 | Pastor | 411604 | [411604-pastor.json](./411604-pastor.json) |
@@ -3557,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popmundo | 307602 | [307602-popmundo.json](./307602-popmundo.json) |
 | Popo & Rob | 341561 | [341561-popo-and-rob.json](./341561-popo-and-rob.json) |
 | PoPoLoCrois Monogatari: Narcia no Namida to Yousei no Fue | 82802 | [82802-popolocrois-monogatari-narcia-no-namida-to-yousei-no-fue.json](./82802-popolocrois-monogatari-narcia-no-namida-to-yousei-no-fue.json) |
+| Popop! | 160245 | [160245-popop.json](./160245-popop.json) |
 | Popoposan | 329555 | [329555-popoposan.json](./329555-popoposan.json) |
 | PoPoRoGue | 79937 | [79937-poporogue.json](./79937-poporogue.json) |
 | Poppet Quest | 358933 | [358933-poppet-quest.json](./358933-poppet-quest.json) |
