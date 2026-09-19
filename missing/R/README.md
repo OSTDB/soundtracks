@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok: Fallen Legends | 227932 | [227932-ragnarok-fallen-legends.json](./227932-ragnarok-fallen-legends.json) |
 | Ragnarok: Labyrinth | 197375 | [197375-ragnarok-labyrinth.json](./197375-ragnarok-labyrinth.json) |
 | Ragnarok: War of Gods | 323174 | [323174-ragnarok-war-of-gods.json](./323174-ragnarok-war-of-gods.json) |
+| Ragnarra: Might of Muskets | 163841 | [163841-ragnarra-might-of-muskets.json](./163841-ragnarra-might-of-muskets.json) |
 | Ragozin on Moon | 156691 | [156691-ragozin-on-moon.json](./156691-ragozin-on-moon.json) |
 | Rags to Liches | 304175 | [304175-rags-to-liches.json](./304175-rags-to-liches.json) |
 | Ragtag Heroes | 211765 | [211765-ragtag-heroes.json](./211765-ragtag-heroes.json) |
@@ -2988,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Role in the Hole | 20595 | [20595-role-in-the-hole.json](./20595-role-in-the-hole.json) |
 | Role Player: Ikura Shimai no Nenmaku Portrait - Gurigucha Live | 413743 | [413743-role-player-ikura-shimai-no-nenmaku-portrait-gurigucha-live.json](./413743-role-player-ikura-shimai-no-nenmaku-portrait-gurigucha-live.json) |
 | Role Player: Okayu Shimai no Nenmaku Portrait - Gurigucha Live | 413742 | [413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json](./413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json) |
+| Rolf | 163833 | [163833-rolf.json](./163833-rolf.json) |
 | Roll | 147455 | [147455-roll.json](./147455-roll.json) |
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
 | Roll Ball Adventures | 188668 | [188668-roll-ball-adventures.json](./188668-roll-ball-adventures.json) |
