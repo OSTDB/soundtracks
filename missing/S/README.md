@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Seiya: Legends of Justice | 209634 | [209634-saint-seiya-legends-of-justice.json](./209634-saint-seiya-legends-of-justice.json) |
 | Saint Seiya: Ougon Densetsu | 48655 | [48655-saint-seiya-ougon-densetsu.json](./48655-saint-seiya-ougon-densetsu.json) |
 | Saint Seiya: Ougon Densetsu - Kanketsu-hen | 48654 | [48654-saint-seiya-ougon-densetsu-kanketsu-hen.json](./48654-saint-seiya-ougon-densetsu-kanketsu-hen.json) |
+| Saint Seiya: Rising Cosmo | 139221 | [139221-saint-seiya-rising-cosmo.json](./139221-saint-seiya-rising-cosmo.json) |
 | Saint Warner's Angels | 239768 | [239768-saint-warners-angels.json](./239768-saint-warners-angels.json) |
 | Sainte-Vibrisse | 322191 | [322191-sainte-vibrisse.json](./322191-sainte-vibrisse.json) |
 | Saintess of the Golden Bow | 327401 | [327401-saintess-of-the-golden-bow.json](./327401-saintess-of-the-golden-bow.json) |
@@ -2189,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaman King: Master of Spirits | 6590 | [6590-shaman-king-master-of-spirits.json](./6590-shaman-king-master-of-spirits.json) |
 | Shaman Odyssey: Tropic Adventure | 10821 | [10821-shaman-odyssey-tropic-adventure.json](./10821-shaman-odyssey-tropic-adventure.json) |
 | Shaman: Spirithunter | 110281 | [110281-shaman-spirithunter.json](./110281-shaman-spirithunter.json) |
+| Shambles | 139259 | [139259-shambles.json](./139259-shambles.json) |
 | Shame Legacy | 241959 | [241959-shame-legacy.json](./241959-shame-legacy.json) |
 | Shameless Afterparty | 340382 | [340382-shameless-afterparty.json](./340382-shameless-afterparty.json) |
 | Shamus: Case II | 23889 | [23889-shamus-case-ii.json](./23889-shamus-case-ii.json) |
@@ -4385,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoking Snakes | 197952 | [197952-smoking-snakes.json](./197952-smoking-snakes.json) |
 | Smoky White | 326777 | [326777-smoky-white.json](./326777-smoky-white.json) |
 | Smol Adventure | 353893 | [353893-smol-adventure.json](./353893-smol-adventure.json) |
+| Smol Birb | 139262 | [139262-smol-birb.json](./139262-smol-birb.json) |
 | Smol Gods | 332407 | [332407-smol-gods.json](./332407-smol-gods.json) |
 | Smol Kobold Garden | 340933 | [340933-smol-kobold-garden.json](./340933-smol-kobold-garden.json) |
 | Smol Snek | 281526 | [281526-smol-snek.json](./281526-smol-snek.json) |
@@ -8682,6 +8685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | String Rush | 173236 | [173236-string-rush.json](./173236-string-rush.json) |
 | String Theory | 294149 | [294149-string-theory.json](./294149-string-theory.json) |
 | String.io | 108445 | [108445-string-io.json](./108445-string-io.json) |
+| Strings Theory | 139218 | [139218-strings-theory.json](./139218-strings-theory.json) |
 | Strinova | 260136 | [260136-strinova.json](./260136-strinova.json) |
 | Strinova Mobile | 350533 | [350533-strinova-mobile.json](./350533-strinova-mobile.json) |
 | Strip 4: Classmate Study | 130057 | [130057-strip-4-classmate-study.json](./130057-strip-4-classmate-study.json) |
@@ -9335,6 +9339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bunny Woman | 403663 | [403663-super-bunny-woman.json](./403663-super-bunny-woman.json) |
 | Super Buzzy: Star of Eternity | 323902 | [323902-super-buzzy-star-of-eternity.json](./323902-super-buzzy-star-of-eternity.json) |
 | Super Cabbage Kabumi | 352187 | [352187-super-cabbage-kabumi.json](./352187-super-cabbage-kabumi.json) |
+| Super Cable Boy | 139217 | [139217-super-cable-boy.json](./139217-super-cable-boy.json) |
 | Super Caesars Palace | 9622 | [9622-super-caesars-palace.json](./9622-super-caesars-palace.json) |
 | Super Cakeboy | 240816 | [240816-super-cakeboy.json](./240816-super-cakeboy.json) |
 | Super Calm Bros. 3 | 214718 | [214718-super-calm-bros-3.json](./214718-super-calm-bros-3.json) |
@@ -9978,6 +9983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puyo Puyo Tsuu Remix | 42544 | [42544-super-puyo-puyo-tsuu-remix.json](./42544-super-puyo-puyo-tsuu-remix.json) |
 | Super Puzzle Cross | 236253 | [236253-super-puzzle-cross.json](./236253-super-puzzle-cross.json) |
 | Super Puzzle Fighter II Turbo | 20803 | [20803-super-puzzle-fighter-ii-turbo.json](./20803-super-puzzle-fighter-ii-turbo.json) |
+| Super Puzzle Pack | 139238 | [139238-super-puzzle-pack.json](./139238-super-puzzle-pack.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
 | Super R.B.I. Baseball | 5332 | [5332-super-r-b-i-baseball.json](./5332-super-r-b-i-baseball.json) |
@@ -10779,6 +10785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword and Spirit | 158175 | [158175-sword-and-spirit.json](./158175-sword-and-spirit.json) |
 | Sword Art Online VR: Lovely Honey Days | 102088 | [102088-sword-art-online-vr-lovely-honey-days.json](./102088-sword-art-online-vr-lovely-honey-days.json) |
 | Sword Art Online: Alicization Lycoris - Deluxe Edition | 166157 | [166157-sword-art-online-alicization-lycoris-deluxe-edition.json](./166157-sword-art-online-alicization-lycoris-deluxe-edition.json) |
+| Sword Art Online: Alicization Lycoris - Myosotis | 139224 | [139224-sword-art-online-alicization-lycoris-myosotis.json](./139224-sword-art-online-alicization-lycoris-myosotis.json) |
 | Sword Art Online: Alicization Rising Steel | 125818 | [125818-sword-art-online-alicization-rising-steel.json](./125818-sword-art-online-alicization-rising-steel.json) |
 | Sword Art Online: Fractured Daydream | 287852 | [287852-sword-art-online-fractured-daydream.json](./287852-sword-art-online-fractured-daydream.json) |
 | Sword Art Online: Fractured Daydream - Character Pass Vol. 1 | 324479 | [324479-sword-art-online-fractured-daydream-character-pass-vol-1.json](./324479-sword-art-online-fractured-daydream-character-pass-vol-1.json) |
