@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T05:02:41.432Z",
-  "total_missing": 90721,
+  "generated_at": "2026-09-19T05:17:37.739Z",
+  "total_missing": 90763,
   "games": [
     {
       "igdb_id": 176875,
@@ -9743,6 +9743,26 @@
       "file": "missing/A/305173-ale-abbey.json"
     },
     {
+      "igdb_id": 169292,
+      "game_name": "Alea Jacta Est: Birth of Rome",
+      "file": "missing/A/169292-alea-jacta-est-birth-of-rome.json"
+    },
+    {
+      "igdb_id": 169291,
+      "game_name": "Alea Jacta Est: Cantabrian Wars",
+      "file": "missing/A/169291-alea-jacta-est-cantabrian-wars.json"
+    },
+    {
+      "igdb_id": 169293,
+      "game_name": "Alea Jacta Est: Parthian Wars",
+      "file": "missing/A/169293-alea-jacta-est-parthian-wars.json"
+    },
+    {
+      "igdb_id": 169290,
+      "game_name": "Alea Jacta Est: Spartacus 73BC",
+      "file": "missing/A/169290-alea-jacta-est-spartacus-73bc.json"
+    },
+    {
       "igdb_id": 300419,
       "game_name": "Alea Lacta Est",
       "file": "missing/A/300419-alea-lacta-est.json"
@@ -12308,6 +12328,11 @@
       "file": "missing/A/263573-am-i-ai.json"
     },
     {
+      "igdb_id": 169338,
+      "game_name": "Am I Hero?",
+      "file": "missing/A/169338-am-i-hero.json"
+    },
+    {
       "igdb_id": 333075,
       "game_name": "Am I Live",
       "file": "missing/A/333075-am-i-live.json"
@@ -13671,6 +13696,11 @@
       "igdb_id": 400881,
       "game_name": "An Altered State",
       "file": "missing/A/400881-an-altered-state.json"
+    },
+    {
+      "igdb_id": 169313,
+      "game_name": "An Amazing Wizard",
+      "file": "missing/A/169313-an-amazing-wizard.json"
     },
     {
       "igdb_id": 319005,
@@ -18033,6 +18063,11 @@
       "file": "missing/A/63836-aqua-moto-racing-2.json"
     },
     {
+      "igdb_id": 169307,
+      "game_name": "Aqua Panic!: Heaven Pack",
+      "file": "missing/A/169307-aqua-panic-heaven-pack.json"
+    },
+    {
       "igdb_id": 306527,
       "game_name": "Aqua Puzzle Adventures",
       "file": "missing/A/306527-aqua-puzzle-adventures.json"
@@ -20786,6 +20821,11 @@
       "igdb_id": 250509,
       "game_name": "Ark: Survival Ascended",
       "file": "missing/A/250509-ark-survival-ascended.json"
+    },
+    {
+      "igdb_id": 169335,
+      "game_name": "Ark: The Center",
+      "file": "missing/A/169335-ark-the-center.json"
     },
     {
       "igdb_id": 304378,
@@ -26236,6 +26276,11 @@
       "igdb_id": 352740,
       "game_name": "Automobilista 2: Lamborghini Dream Pack Pt1",
       "file": "missing/A/352740-automobilista-2-lamborghini-dream-pack-pt1.json"
+    },
+    {
+      "igdb_id": 169333,
+      "game_name": "Automobilista 2: Racin' USA",
+      "file": "missing/A/169333-automobilista-2-racin-usa.json"
     },
     {
       "igdb_id": 227517,
@@ -44523,6 +44568,11 @@
       "file": "missing/B/138222-boaa-baako.json"
     },
     {
+      "igdb_id": 169314,
+      "game_name": "Board Fight",
+      "file": "missing/B/169314-board-fight.json"
+    },
+    {
       "igdb_id": 100743,
       "game_name": "Board Game Collection",
       "file": "missing/B/100743-board-game-collection.json"
@@ -62246,6 +62296,11 @@
       "igdb_id": 166692,
       "game_name": "Charlie Foxtrot & The Galaxy of Tomorrow",
       "file": "missing/C/166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json"
+    },
+    {
+      "igdb_id": 169327,
+      "game_name": "Charlie II: Expansion Pack",
+      "file": "missing/C/169327-charlie-ii-expansion-pack.json"
     },
     {
       "igdb_id": 19914,
@@ -81198,6 +81253,11 @@
       "file": "missing/C/207824-cubiscape.json"
     },
     {
+      "igdb_id": 169308,
+      "game_name": "Cubiscape 2: First Expansion Pack",
+      "file": "missing/C/169308-cubiscape-2-first-expansion-pack.json"
+    },
+    {
       "igdb_id": 204472,
       "game_name": "Cubit",
       "file": "missing/C/204472-cubit.json"
@@ -94528,6 +94588,11 @@
       "file": "missing/D/218390-devil-may-cry-3-dantes-awakening-special-edition.json"
     },
     {
+      "igdb_id": 169336,
+      "game_name": "Devil May Cry 5: Playable Character - Vergil",
+      "file": "missing/D/169336-devil-may-cry-5-playable-character-vergil.json"
+    },
+    {
       "igdb_id": 20734,
       "game_name": "Devil May Cry HD Collection",
       "file": "missing/D/20734-devil-may-cry-hd-collection.json"
@@ -96378,6 +96443,11 @@
       "file": "missing/D/97040-diner-bros.json"
     },
     {
+      "igdb_id": 169300,
+      "game_name": "Diner Bros: Sushi Bros",
+      "file": "missing/D/169300-diner-bros-sushi-bros.json"
+    },
+    {
       "igdb_id": 78690,
       "game_name": "Diner Dash 2: Restaurant Rescue",
       "file": "missing/D/78690-diner-dash-2-restaurant-rescue.json"
@@ -96776,6 +96846,11 @@
       "igdb_id": 105967,
       "game_name": "Dinosaur Games Simulator 2018",
       "file": "missing/D/105967-dinosaur-games-simulator-2018.json"
+    },
+    {
+      "igdb_id": 169320,
+      "game_name": "Dinosaur Hunt: Vampires, Gargoyles, Mutants Hunter Expansion Pack",
+      "file": "missing/D/169320-dinosaur-hunt-vampires-gargoyles-mutants-hunter-expansion-pack.json"
     },
     {
       "igdb_id": 98984,
@@ -109543,6 +109618,11 @@
       "file": "missing/D/172164-dungeons-of-dredmor-conquest-of-the-wizardlands.json"
     },
     {
+      "igdb_id": 169334,
+      "game_name": "Dungeons of Dredmor: You Have to Name the Expansion Pack",
+      "file": "missing/D/169334-dungeons-of-dredmor-you-have-to-name-the-expansion-pack.json"
+    },
+    {
       "igdb_id": 380425,
       "game_name": "Dungeons of Dusk",
       "file": "missing/D/380425-dungeons-of-dusk.json"
@@ -112156,6 +112236,11 @@
       "igdb_id": 203944,
       "game_name": "Eden Remains: Arrival",
       "file": "missing/E/203944-eden-remains-arrival.json"
+    },
+    {
+      "igdb_id": 169326,
+      "game_name": "Eden Rising: Ascendant Expansion",
+      "file": "missing/E/169326-eden-rising-ascendant-expansion.json"
     },
     {
       "igdb_id": 14377,
@@ -115081,6 +115166,11 @@
       "igdb_id": 60553,
       "game_name": "Empires & Allies",
       "file": "missing/E/60553-empires-and-allies.json"
+    },
+    {
+      "igdb_id": 169311,
+      "game_name": "Empires Apart: Chinese Civilization Pack",
+      "file": "missing/E/169311-empires-apart-chinese-civilization-pack.json"
     },
     {
       "igdb_id": 100215,
@@ -119573,6 +119663,11 @@
       "file": "missing/E/227344-europa-universalis-iv-emperor-content-pack.json"
     },
     {
+      "igdb_id": 169310,
+      "game_name": "Europa Universalis IV: Golden Century - Immersion Pack",
+      "file": "missing/E/169310-europa-universalis-iv-golden-century-immersion-pack.json"
+    },
+    {
       "igdb_id": 215925,
       "game_name": "Europa Universalis IV: Lions of the North",
       "file": "missing/E/215925-europa-universalis-iv-lions-of-the-north.json"
@@ -119601,6 +119696,11 @@
       "igdb_id": 227347,
       "game_name": "Europa Universalis IV: Rights of Man Content Pack",
       "file": "missing/E/227347-europa-universalis-iv-rights-of-man-content-pack.json"
+    },
+    {
+      "igdb_id": 169303,
+      "game_name": "Europa Universalis IV: Rule Britannia - Immersion Pack",
+      "file": "missing/E/169303-europa-universalis-iv-rule-britannia-immersion-pack.json"
     },
     {
       "igdb_id": 227861,
@@ -125496,6 +125596,11 @@
       "igdb_id": 45111,
       "game_name": "Fantasy Strike",
       "file": "missing/F/45111-fantasy-strike.json"
+    },
+    {
+      "igdb_id": 169312,
+      "game_name": "Fantasy Strike: Core Pack",
+      "file": "missing/F/169312-fantasy-strike-core-pack.json"
     },
     {
       "igdb_id": 147402,
@@ -142386,6 +142491,11 @@
       "igdb_id": 402351,
       "game_name": "Furniture Assembler Simulator",
       "file": "missing/F/402351-furniture-assembler-simulator.json"
+    },
+    {
+      "igdb_id": 169296,
+      "game_name": "Furries & Scalies & Bears Oh My! 2: Return to Kale Bay",
+      "file": "missing/F/169296-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay.json"
     },
     {
       "igdb_id": 254146,
@@ -159356,6 +159466,11 @@
       "igdb_id": 171565,
       "game_name": "Hacker Evolution Duality: Hacker Bootcamp",
       "file": "missing/H/171565-hacker-evolution-duality-hacker-bootcamp.json"
+    },
+    {
+      "igdb_id": 169309,
+      "game_name": "Hacker Evolution Duality: Hardcore Package Part 1",
+      "file": "missing/H/169309-hacker-evolution-duality-hardcore-package-part-1.json"
     },
     {
       "igdb_id": 171633,
@@ -185511,6 +185626,11 @@
       "igdb_id": 46604,
       "game_name": "Inu Dai Suki!",
       "file": "missing/I/46604-inu-dai-suki.json"
+    },
+    {
+      "igdb_id": 169323,
+      "game_name": "Inu no Osanpo",
+      "file": "missing/I/169323-inu-no-osanpo.json"
     },
     {
       "igdb_id": 174825,
@@ -217788,6 +217908,11 @@
       "file": "missing/L/105107-lynne.json"
     },
     {
+      "igdb_id": 169337,
+      "game_name": "LyokoVR",
+      "file": "missing/L/169337-lyokovr.json"
+    },
+    {
       "igdb_id": 115682,
       "game_name": "Lyratha: Labyrinth - Survival Escape",
       "file": "missing/L/115682-lyratha-labyrinth-survival-escape.json"
@@ -237188,6 +237313,11 @@
       "file": "missing/M/40806-missing-in-action.json"
     },
     {
+      "igdb_id": 169325,
+      "game_name": "Missing Information",
+      "file": "missing/M/169325-missing-information.json"
+    },
+    {
       "igdb_id": 258724,
       "game_name": "Missing Kitty",
       "file": "missing/M/258724-missing-kitty.json"
@@ -240826,6 +240956,11 @@
       "igdb_id": 363413,
       "game_name": "Monster Slayer: Motion Edition",
       "file": "missing/M/363413-monster-slayer-motion-edition.json"
+    },
+    {
+      "igdb_id": 169330,
+      "game_name": "Monster Slayers: Fire and Steel",
+      "file": "missing/M/169330-monster-slayers-fire-and-steel.json"
     },
     {
       "igdb_id": 412307,
@@ -256681,6 +256816,11 @@
       "igdb_id": 410351,
       "game_name": "Niko",
       "file": "missing/N/410351-niko.json"
+    },
+    {
+      "igdb_id": 169339,
+      "game_name": "Niko and the Cubic Curse",
+      "file": "missing/N/169339-niko-and-the-cubic-curse.json"
     },
     {
       "igdb_id": 42057,
@@ -291016,6 +291156,11 @@
       "igdb_id": 258026,
       "game_name": "Pro Philosopher 2: Governments & Grievances",
       "file": "missing/P/258026-pro-philosopher-2-governments-and-grievances.json"
+    },
+    {
+      "igdb_id": 169332,
+      "game_name": "Pro Pilkki",
+      "file": "missing/P/169332-pro-pilkki.json"
     },
     {
       "igdb_id": 93597,
@@ -347438,9 +347583,29 @@
       "file": "missing/S/117052-spaceland-sci-fi-indie-tactics.json"
     },
     {
+      "igdb_id": 169318,
+      "game_name": "Spacelords: Aneska Deluxe Character Pack",
+      "file": "missing/S/169318-spacelords-aneska-deluxe-character-pack.json"
+    },
+    {
+      "igdb_id": 169317,
+      "game_name": "Spacelords: Schneider Deluxe Character Pack",
+      "file": "missing/S/169317-spacelords-schneider-deluxe-character-pack.json"
+    },
+    {
+      "igdb_id": 169302,
+      "game_name": "Spacelords: Sööma Deluxe Character Pack",
+      "file": "missing/S/169302-spacelords-sooma-deluxe-character-pack.json"
+    },
+    {
       "igdb_id": 183054,
       "game_name": "Spacelords: the unofficial visual novel",
       "file": "missing/S/183054-spacelords-the-unofficial-visual-novel.json"
+    },
+    {
+      "igdb_id": 169304,
+      "game_name": "Spacelords: Valeria Deluxe Character Pack",
+      "file": "missing/S/169304-spacelords-valeria-deluxe-character-pack.json"
     },
     {
       "igdb_id": 309854,
@@ -358993,6 +359158,11 @@
       "file": "missing/S/142490-street-fighter-duel.json"
     },
     {
+      "igdb_id": 169301,
+      "game_name": "Street Football",
+      "file": "missing/S/169301-street-football.json"
+    },
+    {
       "igdb_id": 268209,
       "game_name": "Street Football 2",
       "file": "missing/S/268209-street-football-2.json"
@@ -359516,6 +359686,11 @@
       "igdb_id": 130057,
       "game_name": "Strip 4: Classmate Study",
       "file": "missing/S/130057-strip-4-classmate-study.json"
+    },
+    {
+      "igdb_id": 169297,
+      "game_name": "Strip Black Jack: Hot Gym",
+      "file": "missing/S/169297-strip-black-jack-hot-gym.json"
     },
     {
       "igdb_id": 109695,
@@ -388198,6 +388373,11 @@
       "file": "missing/T/18186-the-journey-bobs-story.json"
     },
     {
+      "igdb_id": 169299,
+      "game_name": "The Journey: Episode 1 - Whatever This Is",
+      "file": "missing/T/169299-the-journey-episode-1-whatever-this-is.json"
+    },
+    {
       "igdb_id": 9517,
       "game_name": "The Journeyman Project",
       "file": "missing/T/9517-the-journeyman-project.json"
@@ -390833,6 +391013,11 @@
       "file": "missing/T/275924-the-lord-of-the-rings-online-minas-morgul.json"
     },
     {
+      "igdb_id": 169321,
+      "game_name": "The Lord of the Rings Online: Quad Pack",
+      "file": "missing/T/169321-the-lord-of-the-rings-online-quad-pack.json"
+    },
+    {
       "igdb_id": 384536,
       "game_name": "The Lord of the Rings Online: Quest Pack: Legacy of the Necromancer",
       "file": "missing/T/384536-the-lord-of-the-rings-online-quest-pack-legacy-of-the-necromancer.json"
@@ -393456,6 +393641,11 @@
       "igdb_id": 178528,
       "game_name": "The Pirate Mermaid",
       "file": "missing/T/178528-the-pirate-mermaid.json"
+    },
+    {
+      "igdb_id": 169331,
+      "game_name": "The Pirate's Fate: Prisoner of Destiny",
+      "file": "missing/T/169331-the-pirates-fate-prisoner-of-destiny.json"
     },
     {
       "igdb_id": 188037,
@@ -410828,6 +411018,11 @@
       "file": "missing/T/170959-touhou-blooming-chaos-2-chara-pack-3.json"
     },
     {
+      "igdb_id": 169324,
+      "game_name": "Touhou Blooming Chaos 2: Chara Pack Special - Mystia Lorelei",
+      "file": "missing/T/169324-touhou-blooming-chaos-2-chara-pack-special-mystia-lorelei.json"
+    },
+    {
       "igdb_id": 111052,
       "game_name": "Touhou Cannonball",
       "file": "missing/T/111052-touhou-cannonball.json"
@@ -419491,6 +419686,11 @@
       "igdb_id": 192299,
       "game_name": "Twin Circle",
       "file": "missing/T/192299-twin-circle.json"
+    },
+    {
+      "igdb_id": 169315,
+      "game_name": "Twin Coves",
+      "file": "missing/T/169315-twin-coves.json"
     },
     {
       "igdb_id": 159356,
@@ -433076,6 +433276,11 @@
       "igdb_id": 336914,
       "game_name": "Wanderlust",
       "file": "missing/W/336914-wanderlust.json"
+    },
+    {
+      "igdb_id": 169295,
+      "game_name": "WanderLust",
+      "file": "missing/W/169295-wanderlust.json"
     },
     {
       "igdb_id": 187947,
@@ -448251,6 +448456,11 @@
       "igdb_id": 289877,
       "game_name": "Yomi 2: Renegades",
       "file": "missing/Y/289877-yomi-2-renegades.json"
+    },
+    {
+      "igdb_id": 169329,
+      "game_name": "Yomi: Expansion Characters",
+      "file": "missing/Y/169329-yomi-expansion-characters.json"
     },
     {
       "igdb_id": 55857,
