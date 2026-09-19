@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
 | Tantrum 2 | 274221 | [274221-tantrum-2.json](./274221-tantrum-2.json) |
 | Tanuki No Tabi | 307133 | [307133-tanuki-no-tabi.json](./307133-tanuki-no-tabi.json) |
+| Tanuki Sunset Classic | 178502 | [178502-tanuki-sunset-classic.json](./178502-tanuki-sunset-classic.json) |
 | Tanuki Tales | 307160 | [307160-tanuki-tales.json](./307160-tanuki-tales.json) |
 | Tanuki Thief | 307135 | [307135-tanuki-thief.json](./307135-tanuki-thief.json) |
 | Tanuki: Pon's Summer | 317817 | [317817-tanuki-pons-summer.json](./317817-tanuki-pons-summer.json) |
@@ -1224,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tender | 179112 | [179112-tender.json](./179112-tender.json) |
 | Tender Frame Cocoon: //Rhapsody of Cross-Pollination | 306683 | [306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json](./306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json) |
 | Tender Frog House | 144240 | [144240-tender-frog-house.json](./144240-tender-frog-house.json) |
+| Tender Love and Care: A Leorio Dating Sim! | 178531 | [178531-tender-love-and-care-a-leorio-dating-sim.json](./178531-tender-love-and-care-a-leorio-dating-sim.json) |
 | Tender Root | 235213 | [235213-tender-root.json](./235213-tender-root.json) |
 | Tendo Blade | 202973 | [202973-tendo-blade.json](./202973-tendo-blade.json) |
 | Tendryll | 211232 | [211232-tendryll.json](./211232-tendryll.json) |
@@ -1946,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beginning of the End (part 1) | 262428 | [262428-the-beginning-of-the-end-part-1.json](./262428-the-beginning-of-the-end-part-1.json) |
 | The Bells' Arietta | 313334 | [313334-the-bells-arietta.json](./313334-the-bells-arietta.json) |
 | The Bend | 172719 | [172719-the-bend.json](./172719-the-bend.json) |
+| The Bends | 178538 | [178538-the-bends.json](./178538-the-bends.json) |
 | The Benjamins | 169382 | [169382-the-benjamins.json](./169382-the-benjamins.json) |
 | The Berenstain Bears and the Spooky Old Tree | 49311 | [49311-the-berenstain-bears-and-the-spooky-old-tree.json](./49311-the-berenstain-bears-and-the-spooky-old-tree.json) |
 | The Berenstain Bears: Learning At Home, Volume One | 71548 | [71548-the-berenstain-bears-learning-at-home-volume-one.json](./71548-the-berenstain-bears-learning-at-home-volume-one.json) |
@@ -3392,6 +3395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journal of Ambrose Brant | 401025 | [401025-the-journal-of-ambrose-brant.json](./401025-the-journal-of-ambrose-brant.json) |
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
 | The Journey Down: Chapter One | 9048 | [9048-the-journey-down-chapter-one.json](./9048-the-journey-down-chapter-one.json) |
+| The Journey Home | 178529 | [178529-the-journey-home.json](./178529-the-journey-home.json) |
 | The Journey into the Virtual Void | 312167 | [312167-the-journey-into-the-virtual-void.json](./312167-the-journey-into-the-virtual-void.json) |
 | The Journey of AutUmn | 164996 | [164996-the-journey-of-autumn.json](./164996-the-journey-of-autumn.json) |
 | The Journey of Elisa | 280916 | [280916-the-journey-of-elisa.json](./280916-the-journey-of-elisa.json) |
@@ -4443,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pilgrimage | 56436 | [56436-the-pilgrimage.json](./56436-the-pilgrimage.json) |
 | The Pillagers of Raillore | 137096 | [137096-the-pillagers-of-raillore.json](./137096-the-pillagers-of-raillore.json) |
 | The Pink Panther | 218447 | [218447-the-pink-panther.json](./218447-the-pink-panther.json) |
+| The Pirate Mermaid | 178528 | [178528-the-pirate-mermaid.json](./178528-the-pirate-mermaid.json) |
 | The Pirates Kill | 188037 | [188037-the-pirates-kill.json](./188037-the-pirates-kill.json) |
 | The Pirates of Dark Water | 342059 | [342059-the-pirates-of-dark-water.json](./342059-the-pirates-of-dark-water.json) |
 | The Pirates of Dark Water | 8104 | [8104-the-pirates-of-dark-water.json](./8104-the-pirates-of-dark-water.json) |
@@ -6047,6 +6052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Rain Will Never End | 169462 | [169462-this-rain-will-never-end.json](./169462-this-rain-will-never-end.json) |
 | This Short Indie Game Made Me Miss My Friends: Rainy Plays Lonely Game Livestream | 403029 | [403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json](./403029-this-short-indie-game-made-me-miss-my-friends-rainy-plays-lonely-game-livestream.json) |
 | This Thing of Ours | 214162 | [214162-this-thing-of-ours.json](./214162-this-thing-of-ours.json) |
+| This Trip: Hunted in Forest | 178520 | [178520-this-trip-hunted-in-forest.json](./178520-this-trip-hunted-in-forest.json) |
 | This War of Mine: Complete Edition | 111817 | [111817-this-war-of-mine-complete-edition.json](./111817-this-war-of-mine-complete-edition.json) |
 | This War of Mine: Stories - Father's Promise | 75871 | [75871-this-war-of-mine-stories-fathers-promise.json](./75871-this-war-of-mine-stories-fathers-promise.json) |
 | This War of Mine: Stories - Season Pass | 75872 | [75872-this-war-of-mine-stories-season-pass.json](./75872-this-war-of-mine-stories-season-pass.json) |
@@ -9649,6 +9655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Doors | 305928 | [305928-two-doors.json](./305928-two-doors.json) |
 | Two Eyes: Nonogram | 292820 | [292820-two-eyes-nonogram.json](./292820-two-eyes-nonogram.json) |
 | Two Faced | 300719 | [300719-two-faced.json](./300719-two-faced.json) |
+| Two Girls Make a Game | 178536 | [178536-two-girls-make-a-game.json](./178536-two-girls-make-a-game.json) |
 | Two Guns | 117680 | [117680-two-guns.json](./117680-two-guns.json) |
 | Two Heads of the Coin | 86082 | [86082-two-heads-of-the-coin.json](./86082-two-heads-of-the-coin.json) |
 | Two Hoops | 234317 | [234317-two-hoops.json](./234317-two-hoops.json) |
