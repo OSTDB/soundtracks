@@ -1218,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klikwerk | 225282 | [225282-klikwerk.json](./225282-klikwerk.json) |
 | Klitorax | 221173 | [221173-klitorax.json](./221173-klitorax.json) |
 | Klondike | 281555 | [281555-klondike.json](./281555-klondike.json) |
+| Klondike Re-Imagined | 170940 | [170940-klondike-re-imagined.json](./170940-klondike-re-imagined.json) |
 | Klondike Solitaire 2018 | 89235 | [89235-klondike-solitaire-2018.json](./89235-klondike-solitaire-2018.json) |
 | Klondike Solitaire Gold | 146914 | [146914-klondike-solitaire-gold.json](./146914-klondike-solitaire-gold.json) |
 | Klonoa 2: Lunatea's Veil | 272023 | [272023-klonoa-2-lunateas-veil.json](./272023-klonoa-2-lunateas-veil.json) |
