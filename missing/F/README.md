@@ -3055,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Apocalypse | 13850 | [13850-fort-apocalypse.json](./13850-fort-apocalypse.json) |
 | Fort Apocalypse II | 47202 | [47202-fort-apocalypse-ii.json](./47202-fort-apocalypse-ii.json) |
 | Fort Commander: King's Gambit | 209563 | [209563-fort-commander-kings-gambit.json](./209563-fort-commander-kings-gambit.json) |
+| Fort Craft | 160226 | [160226-fort-craft.json](./160226-fort-craft.json) |
 | Fort Driant | 271753 | [271753-fort-driant.json](./271753-fort-driant.json) |
 | Fort Flow | 207408 | [207408-fort-flow.json](./207408-fort-flow.json) |
 | Fort Loop | 183015 | [183015-fort-loop.json](./183015-fort-loop.json) |
@@ -3440,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freelance Dead | 390663 | [390663-freelance-dead.json](./390663-freelance-dead.json) |
 | Freelance Simulator: Game Developer Edition | 100874 | [100874-freelance-simulator-game-developer-edition.json](./100874-freelance-simulator-game-developer-edition.json) |
 | Freelance Trucker: Insurance Fraud Edition | 150644 | [150644-freelance-trucker-insurance-fraud-edition.json](./150644-freelance-trucker-insurance-fraud-edition.json) |
+| Freelancer Life Simulator | 160260 | [160260-freelancer-life-simulator.json](./160260-freelancer-life-simulator.json) |
 | Freelancer Simulator 2 | 135308 | [135308-freelancer-simulator-2.json](./135308-freelancer-simulator-2.json) |
 | Freelancer: HD Edition | 269642 | [269642-freelancer-hd-edition.json](./269642-freelancer-hd-edition.json) |
 | Freelancers: Rogue Skies | 372528 | [372528-freelancers-rogue-skies.json](./372528-freelancers-rogue-skies.json) |
