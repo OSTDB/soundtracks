@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Pico Dungeon! | 329006 | [329006-pico-pico-dungeon.json](./329006-pico-pico-dungeon.json) |
 | Pico Pico MicroMix | 182992 | [182992-pico-pico-micromix.json](./182992-pico-pico-micromix.json) |
 | Pico Pirates | 184068 | [184068-pico-pirates.json](./184068-pico-pirates.json) |
+| Pico Snail! Dream Castle | 152748 | [152748-pico-snail-dream-castle.json](./152748-pico-snail-dream-castle.json) |
 | Pico Sonic | 181240 | [181240-pico-sonic.json](./181240-pico-sonic.json) |
 | Pico Tanks: Multiplayer Mayhem | 130379 | [130379-pico-tanks-multiplayer-mayhem.json](./130379-pico-tanks-multiplayer-mayhem.json) |
 | Pico vs. Bear | 331683 | [331683-pico-vs-bear.json](./331683-pico-vs-bear.json) |
@@ -5163,6 +5164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Journey | 265708 | [265708-puzzle-journey.json](./265708-puzzle-journey.json) |
 | Puzzle Journey | 287783 | [287783-puzzle-journey.json](./287783-puzzle-journey.json) |
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
+| Puzzle Light: Rotate | 152763 | [152763-puzzle-light-rotate.json](./152763-puzzle-light-rotate.json) |
 | Puzzle Lights and Mushrooms 1000 | 334103 | [334103-puzzle-lights-and-mushrooms-1000.json](./334103-puzzle-lights-and-mushrooms-1000.json) |
 | Puzzle Maker | 291238 | [291238-puzzle-maker.json](./291238-puzzle-maker.json) |
 | Puzzle Master | 49951 | [49951-puzzle-master.json](./49951-puzzle-master.json) |
