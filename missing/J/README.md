@@ -1200,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Move On! | 329005 | [329005-just-move-on.json](./329005-just-move-on.json) |
 | Just One | 231354 | [231354-just-one.json](./231354-just-one.json) |
 | Just One More Spell | 387544 | [387544-just-one-more-spell.json](./387544-just-one-more-spell.json) |
+| Just one, must choose | 135050 | [135050-just-one-must-choose.json](./135050-just-one-must-choose.json) |
 | Just Passing | 176344 | [176344-just-passing.json](./176344-just-passing.json) |
 | Just Plumbers in Hallowville | 287622 | [287622-just-plumbers-in-hallowville.json](./287622-just-plumbers-in-hallowville.json) |
 | Just Pool | 411711 | [411711-just-pool.json](./411711-just-pool.json) |
