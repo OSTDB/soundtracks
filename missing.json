@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T18:17:40.210Z",
-  "total_missing": 93371,
+  "generated_at": "2026-09-19T18:32:35.648Z",
+  "total_missing": 93421,
   "games": [
     {
       "igdb_id": 176875,
@@ -36881,6 +36881,11 @@
       "igdb_id": 159847,
       "game_name": "Beckoned",
       "file": "missing/B/159847-beckoned.json"
+    },
+    {
+      "igdb_id": 139817,
+      "game_name": "Become a Great Artist in Just 10 Seconds",
+      "file": "missing/B/139817-become-a-great-artist-in-just-10-seconds.json"
     },
     {
       "igdb_id": 205244,
@@ -74238,6 +74243,11 @@
       "file": "missing/C/654-company-of-heroes.json"
     },
     {
+      "igdb_id": 139845,
+      "game_name": "Company of Heroes 2: All Out War Edition",
+      "file": "missing/C/139845-company-of-heroes-2-all-out-war-edition.json"
+    },
+    {
       "igdb_id": 145682,
       "game_name": "Company of Heroes 2: Complete Collection",
       "file": "missing/C/145682-company-of-heroes-2-complete-collection.json"
@@ -76101,6 +76111,11 @@
       "igdb_id": 176449,
       "game_name": "Cooking With Cthulhu",
       "file": "missing/C/176449-cooking-with-cthulhu.json"
+    },
+    {
+      "igdb_id": 139814,
+      "game_name": "Cooking, for lovers",
+      "file": "missing/C/139814-cooking-for-lovers.json"
     },
     {
       "igdb_id": 235239,
@@ -87848,6 +87863,11 @@
       "file": "missing/D/29811-dark-dimensions-city-of-fog-collectors-edition.json"
     },
     {
+      "igdb_id": 139789,
+      "game_name": "Dark Dimensions: Wax Beauty",
+      "file": "missing/D/139789-dark-dimensions-wax-beauty.json"
+    },
+    {
       "igdb_id": 168324,
       "game_name": "Dark Disciples II",
       "file": "missing/D/168324-dark-disciples-ii.json"
@@ -88113,6 +88133,11 @@
       "file": "missing/D/63303-dark-parables-curse-of-briar-rose.json"
     },
     {
+      "igdb_id": 139790,
+      "game_name": "Dark Parables: Goldilocks and the Fallen Star",
+      "file": "missing/D/139790-dark-parables-goldilocks-and-the-fallen-star.json"
+    },
+    {
       "igdb_id": 61593,
       "game_name": "Dark Parables: Goldilocks and the Fallen Star - Collector's Edition",
       "file": "missing/D/61593-dark-parables-goldilocks-and-the-fallen-star-collectors-edition.json"
@@ -88123,9 +88148,29 @@
       "file": "missing/D/29809-dark-parables-jack-and-the-sky-kingdom-collectors-edition.json"
     },
     {
+      "igdb_id": 139791,
+      "game_name": "Dark Parables: Portrait of the Stained Princess",
+      "file": "missing/D/139791-dark-parables-portrait-of-the-stained-princess.json"
+    },
+    {
+      "igdb_id": 139792,
+      "game_name": "Dark Parables: Requiem for the Forgotten Shadow",
+      "file": "missing/D/139792-dark-parables-requiem-for-the-forgotten-shadow.json"
+    },
+    {
       "igdb_id": 123634,
       "game_name": "Dark Parables: Return of the Salt Princess",
       "file": "missing/D/123634-dark-parables-return-of-the-salt-princess.json"
+    },
+    {
+      "igdb_id": 139793,
+      "game_name": "Dark Parables: Rise of the Snow Queen",
+      "file": "missing/D/139793-dark-parables-rise-of-the-snow-queen.json"
+    },
+    {
+      "igdb_id": 139794,
+      "game_name": "Dark Parables: The Final Cinderella",
+      "file": "missing/D/139794-dark-parables-the-final-cinderella.json"
     },
     {
       "igdb_id": 33232,
@@ -88141,6 +88186,16 @@
       "igdb_id": 111694,
       "game_name": "Dark Parables: The Match Girl's Lost Paradise - Collector's Edition",
       "file": "missing/D/111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json"
+    },
+    {
+      "igdb_id": 139795,
+      "game_name": "Dark Parables: The Swan Princess and The Dire Tree",
+      "file": "missing/D/139795-dark-parables-the-swan-princess-and-the-dire-tree.json"
+    },
+    {
+      "igdb_id": 139796,
+      "game_name": "Dark Parables: The Thief and the Tinderbox",
+      "file": "missing/D/139796-dark-parables-the-thief-and-the-tinderbox.json"
     },
     {
       "igdb_id": 211817,
@@ -88203,6 +88258,11 @@
       "file": "missing/D/127398-dark-raider.json"
     },
     {
+      "igdb_id": 139797,
+      "game_name": "Dark Realm: Queen of Flames",
+      "file": "missing/D/139797-dark-realm-queen-of-flames.json"
+    },
+    {
       "igdb_id": 88309,
       "game_name": "Dark Realm: Queen of Flames - Collector's Edition HD",
       "file": "missing/D/88309-dark-realm-queen-of-flames-collectors-edition-hd.json"
@@ -88216,6 +88276,11 @@
       "igdb_id": 310577,
       "game_name": "Dark Ride Escape",
       "file": "missing/D/310577-dark-ride-escape.json"
+    },
+    {
+      "igdb_id": 139798,
+      "game_name": "Dark Romance: Ashville",
+      "file": "missing/D/139798-dark-romance-ashville.json"
     },
     {
       "igdb_id": 101486,
@@ -96201,6 +96266,11 @@
       "igdb_id": 134830,
       "game_name": "Destiny 2: Beyond Light",
       "file": "missing/D/134830-destiny-2-beyond-light.json"
+    },
+    {
+      "igdb_id": 139825,
+      "game_name": "Destiny 2: Beyond Light - Deluxe Edition",
+      "file": "missing/D/139825-destiny-2-beyond-light-deluxe-edition.json"
     },
     {
       "igdb_id": 140978,
@@ -107958,6 +108028,11 @@
       "file": "missing/D/11663-drakengard-2.json"
     },
     {
+      "igdb_id": 139804,
+      "game_name": "Drakens Värld",
+      "file": "missing/D/139804-drakens-varld.json"
+    },
+    {
       "igdb_id": 8769,
       "game_name": "Drakensang: The River of Time",
       "file": "missing/D/8769-drakensang-the-river-of-time.json"
@@ -116431,6 +116506,11 @@
       "igdb_id": 346604,
       "game_name": "Eldorion: Guardians of the Crystals",
       "file": "missing/E/346604-eldorion-guardians-of-the-crystals.json"
+    },
+    {
+      "igdb_id": 139836,
+      "game_name": "Eldrador Creatures",
+      "file": "missing/E/139836-eldrador-creatures.json"
     },
     {
       "igdb_id": 397671,
@@ -146683,6 +146763,11 @@
       "file": "missing/F/381030-fuse.json"
     },
     {
+      "igdb_id": 139827,
+      "game_name": "Fuser: VIP Edition",
+      "file": "missing/F/139827-fuser-vip-edition.json"
+    },
+    {
       "igdb_id": 366292,
       "game_name": "FuSha: Overnight Stay",
       "file": "missing/F/366292-fusha-overnight-stay.json"
@@ -149141,6 +149226,11 @@
       "igdb_id": 266298,
       "game_name": "Game Time Glizzys",
       "file": "missing/G/266298-game-time-glizzys.json"
+    },
+    {
+      "igdb_id": 139818,
+      "game_name": "Game Title",
+      "file": "missing/G/139818-game-title.json"
     },
     {
       "igdb_id": 143097,
@@ -169518,6 +169608,11 @@
       "file": "missing/H/249472-helivr-simulator.json"
     },
     {
+      "igdb_id": 139802,
+      "game_name": "Helix",
+      "file": "missing/H/139802-helix.json"
+    },
+    {
       "igdb_id": 147373,
       "game_name": "Helix",
       "file": "missing/H/147373-helix.json"
@@ -170471,6 +170566,11 @@
       "igdb_id": 228448,
       "game_name": "Hellpit",
       "file": "missing/H/228448-hellpit.json"
+    },
+    {
+      "igdb_id": 139838,
+      "game_name": "Hellpoint: Signature Edition",
+      "file": "missing/H/139838-hellpoint-signature-edition.json"
     },
     {
       "igdb_id": 209688,
@@ -177013,6 +177113,11 @@
       "file": "missing/H/124836-holy-potatoes-a-weapon-shop-spud-tales-journey-to-olympus.json"
     },
     {
+      "igdb_id": 139833,
+      "game_name": "Holy Potatoes! Compedium: Badge Edition",
+      "file": "missing/H/139833-holy-potatoes-compedium-badge-edition.json"
+    },
+    {
       "igdb_id": 137674,
       "game_name": "Holy Potatoes! Compendium",
       "file": "missing/H/137674-holy-potatoes-compendium.json"
@@ -179256,6 +179361,11 @@
       "igdb_id": 74454,
       "game_name": "Hot Pool",
       "file": "missing/H/74454-hot-pool.json"
+    },
+    {
+      "igdb_id": 139811,
+      "game_name": "Hot Pot For One",
+      "file": "missing/H/139811-hot-pot-for-one.json"
     },
     {
       "igdb_id": 246461,
@@ -183011,6 +183121,11 @@
       "igdb_id": 274739,
       "game_name": "I Can Destroy Everything!!!",
       "file": "missing/I/274739-i-can-destroy-everything.json"
+    },
+    {
+      "igdb_id": 139813,
+      "game_name": "I Can Hold My Breath Forever",
+      "file": "missing/I/139813-i-can-hold-my-breath-forever.json"
     },
     {
       "igdb_id": 211827,
@@ -189036,6 +189151,11 @@
       "igdb_id": 165044,
       "game_name": "Injustice 2: The Atom",
       "file": "missing/I/165044-injustice-2-the-atom.json"
+    },
+    {
+      "igdb_id": 139807,
+      "game_name": "Injustice 3",
+      "file": "missing/I/139807-injustice-3.json"
     },
     {
       "igdb_id": 305201,
@@ -196801,6 +196921,11 @@
       "igdb_id": 210131,
       "game_name": "John Deere: Busy Days in Deerfield Valley",
       "file": "missing/J/210131-john-deere-busy-days-in-deerfield-valley.json"
+    },
+    {
+      "igdb_id": 139805,
+      "game_name": "John Deere: Drive Green",
+      "file": "missing/J/139805-john-deere-drive-green.json"
     },
     {
       "igdb_id": 210130,
@@ -211583,6 +211708,11 @@
       "file": "missing/L/11257-lbx-little-battlers-experience.json"
     },
     {
+      "igdb_id": 139815,
+      "game_name": "LCD Dem",
+      "file": "missing/L/139815-lcd-dem.json"
+    },
+    {
       "igdb_id": 180784,
       "game_name": "LCD Dream Escalator",
       "file": "missing/L/180784-lcd-dream-escalator.json"
@@ -215678,6 +215808,11 @@
       "file": "missing/L/302109-lifting-unlimited.json"
     },
     {
+      "igdb_id": 139829,
+      "game_name": "Liftoff: Drone Racing - Deluxe Edition",
+      "file": "missing/L/139829-liftoff-drone-racing-deluxe-edition.json"
+    },
+    {
       "igdb_id": 204495,
       "game_name": "Light 'em Up",
       "file": "missing/L/204495-light-em-up.json"
@@ -217808,6 +217943,11 @@
       "file": "missing/L/213609-little-nemo-the-clown.json"
     },
     {
+      "igdb_id": 139821,
+      "game_name": "Little Nightmares II: Day 1 Edition",
+      "file": "missing/L/139821-little-nightmares-ii-day-1-edition.json"
+    },
+    {
       "igdb_id": 154511,
       "game_name": "Little Nightmares II: Deluxe Edition",
       "file": "missing/L/154511-little-nightmares-ii-deluxe-edition.json"
@@ -217816,6 +217956,11 @@
       "igdb_id": 323947,
       "game_name": "Little Nightmares II: Enhanced Edition",
       "file": "missing/L/323947-little-nightmares-ii-enhanced-edition.json"
+    },
+    {
+      "igdb_id": 139822,
+      "game_name": "Little Nightmares II: TV Edition",
+      "file": "missing/L/139822-little-nightmares-ii-tv-edition.json"
     },
     {
       "igdb_id": 370223,
@@ -254998,6 +255143,11 @@
       "file": "missing/M/170028-my-universe-my-baby-new-edition.json"
     },
     {
+      "igdb_id": 139835,
+      "game_name": "My Universe: Pet Clinic - Cats & Dogs",
+      "file": "missing/M/139835-my-universe-pet-clinic-cats-and-dogs.json"
+    },
+    {
       "igdb_id": 221949,
       "game_name": "My Universe: Pets Edition",
       "file": "missing/M/221949-my-universe-pets-edition.json"
@@ -260693,6 +260843,11 @@
       "file": "missing/N/358862-netdive.json"
     },
     {
+      "igdb_id": 139844,
+      "game_name": "NetGunner",
+      "file": "missing/N/139844-netgunner.json"
+    },
+    {
       "igdb_id": 207850,
       "game_name": "NetHack",
       "file": "missing/N/207850-nethack.json"
@@ -261101,6 +261256,11 @@
       "igdb_id": 133261,
       "game_name": "Neversong",
       "file": "missing/N/133261-neversong.json"
+    },
+    {
+      "igdb_id": 139840,
+      "game_name": "Neversong: Collector's Edition",
+      "file": "missing/N/139840-neversong-collectors-edition.json"
     },
     {
       "igdb_id": 225878,
@@ -277438,6 +277598,11 @@
       "file": "missing/P/180798-p-t-bone-ums-fabulous-tightrope-of-terror.json"
     },
     {
+      "igdb_id": 139803,
+      "game_name": "P1 Select",
+      "file": "missing/P/139803-p1-select.json"
+    },
+    {
       "igdb_id": 186851,
       "game_name": "P1441vr",
       "file": "missing/P/186851-p1441vr.json"
@@ -278656,6 +278821,11 @@
       "igdb_id": 360597,
       "game_name": "Paleo Pines: Trick or Treat DLC",
       "file": "missing/P/360597-paleo-pines-trick-or-treat-dlc.json"
+    },
+    {
+      "igdb_id": 139820,
+      "game_name": "Paleo: Rising Town",
+      "file": "missing/P/139820-paleo-rising-town.json"
     },
     {
       "igdb_id": 62668,
@@ -296018,6 +296188,11 @@
       "file": "missing/P/294161-post-soviet-strike-chernobyl-legacy.json"
     },
     {
+      "igdb_id": 139809,
+      "game_name": "Post-Future Vagabond",
+      "file": "missing/P/139809-post-future-vagabond.json"
+    },
+    {
       "igdb_id": 186177,
       "game_name": "Post-Shift",
       "file": "missing/P/186177-post-shift.json"
@@ -305756,6 +305931,11 @@
       "igdb_id": 31938,
       "game_name": "Quip Anomaly",
       "file": "missing/Q/31938-quip-anomaly.json"
+    },
+    {
+      "igdb_id": 139801,
+      "game_name": "Quirk",
+      "file": "missing/Q/139801-quirk.json"
     },
     {
       "igdb_id": 179167,
@@ -317098,6 +317278,16 @@
       "file": "missing/R/263515-riders-republic-complete-edition.json"
     },
     {
+      "igdb_id": 139834,
+      "game_name": "Riders Republic: Gold Edition",
+      "file": "missing/R/139834-riders-republic-gold-edition.json"
+    },
+    {
+      "igdb_id": 139839,
+      "game_name": "Riders Republic: Limited Edition",
+      "file": "missing/R/139839-riders-republic-limited-edition.json"
+    },
+    {
       "igdb_id": 263516,
       "game_name": "Riders Republic: Skate Edition",
       "file": "missing/R/263516-riders-republic-skate-edition.json"
@@ -327023,9 +327213,19 @@
       "file": "missing/S/359480-sakuna-hinuka-junreitan.json"
     },
     {
+      "igdb_id": 139843,
+      "game_name": "Sakuna: Of Rice and Ruin - Collector's Edition",
+      "file": "missing/S/139843-sakuna-of-rice-and-ruin-collectors-edition.json"
+    },
+    {
       "igdb_id": 139978,
       "game_name": "Sakuna: Of Rice and Ruin - Divine Edition",
       "file": "missing/S/139978-sakuna-of-rice-and-ruin-divine-edition.json"
+    },
+    {
+      "igdb_id": 139830,
+      "game_name": "Sakuna: Of Rice and Ruin - Golden Harvest Limited Edition",
+      "file": "missing/S/139830-sakuna-of-rice-and-ruin-golden-harvest-limited-edition.json"
     },
     {
       "igdb_id": 363980,
@@ -368713,6 +368913,11 @@
       "file": "missing/S/217991-street-paint-playground.json"
     },
     {
+      "igdb_id": 139819,
+      "game_name": "Street Racer Underground",
+      "file": "missing/S/139819-street-racer-underground.json"
+    },
+    {
       "igdb_id": 206198,
       "game_name": "Street Racer X Ace of Love",
       "file": "missing/S/206198-street-racer-x-ace-of-love.json"
@@ -391908,6 +392113,11 @@
       "file": "missing/T/149542-the-call-centre.json"
     },
     {
+      "igdb_id": 139812,
+      "game_name": "The Call of Karen",
+      "file": "missing/T/139812-the-call-of-karen.json"
+    },
+    {
       "igdb_id": 200639,
       "game_name": "The Call of Krul'ar",
       "file": "missing/T/200639-the-call-of-krular.json"
@@ -406458,6 +406668,11 @@
       "file": "missing/T/296899-the-sims-4-party-essentials-kit.json"
     },
     {
+      "igdb_id": 139823,
+      "game_name": "The Sims 4: Plus Journey to Batuu Bundle",
+      "file": "missing/T/139823-the-sims-4-plus-journey-to-batuu-bundle.json"
+    },
+    {
       "igdb_id": 265704,
       "game_name": "The Sims 4: Poolside Splash Kit",
       "file": "missing/T/265704-the-sims-4-poolside-splash-kit.json"
@@ -407621,6 +407836,11 @@
       "igdb_id": 11590,
       "game_name": "The Surge",
       "file": "missing/T/11590-the-surge.json"
+    },
+    {
+      "igdb_id": 139824,
+      "game_name": "The Surge 1 & 2: Dual Pack",
+      "file": "missing/T/139824-the-surge-1-and-2-dual-pack.json"
     },
     {
       "igdb_id": 202217,
@@ -409926,6 +410146,11 @@
       "igdb_id": 25642,
       "game_name": "The Walking Dead: March to War",
       "file": "missing/T/25642-the-walking-dead-march-to-war.json"
+    },
+    {
+      "igdb_id": 139842,
+      "game_name": "The Walking Dead: Onslaught - Survivors Edition",
+      "file": "missing/T/139842-the-walking-dead-onslaught-survivors-edition.json"
     },
     {
       "igdb_id": 139956,
@@ -421501,6 +421726,11 @@
       "igdb_id": 83516,
       "game_name": "Total War: Shogun 2 - The Ikko Ikki Clan Pack",
       "file": "missing/T/83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json"
+    },
+    {
+      "igdb_id": 139841,
+      "game_name": "Total War: Three Kingdoms - Royal Edition",
+      "file": "missing/T/139841-total-war-three-kingdoms-royal-edition.json"
     },
     {
       "igdb_id": 201149,
@@ -440543,6 +440773,11 @@
       "file": "missing/V/158673-vesper-ether-saga.json"
     },
     {
+      "igdb_id": 139808,
+      "game_name": "Vesper.5",
+      "file": "missing/V/139808-vesper-5.json"
+    },
+    {
       "igdb_id": 408878,
       "game_name": "Vespera",
       "file": "missing/V/408878-vespera.json"
@@ -452083,6 +452318,11 @@
       "file": "missing/W/228734-wild-hearts-karakuri-edition.json"
     },
     {
+      "igdb_id": 139810,
+      "game_name": "Wild Honesty: A Party Game for Deeper Conversations",
+      "file": "missing/W/139810-wild-honesty-a-party-game-for-deeper-conversations.json"
+    },
+    {
       "igdb_id": 333111,
       "game_name": "Wild Horizon: Edge of Survival",
       "file": "missing/W/333111-wild-horizon-edge-of-survival.json"
@@ -452681,6 +452921,11 @@
       "igdb_id": 225627,
       "game_name": "Willy Crash Mini",
       "file": "missing/W/225627-willy-crash-mini.json"
+    },
+    {
+      "igdb_id": 139831,
+      "game_name": "Willy Jetman: Astromonkey's Revenge - Sweeper's Edition",
+      "file": "missing/W/139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json"
     },
     {
       "igdb_id": 77494,
@@ -458201,6 +458446,11 @@
       "igdb_id": 220132,
       "game_name": "WWE",
       "file": "missing/W/220132-wwe.json"
+    },
+    {
+      "igdb_id": 139826,
+      "game_name": "WWE 2K Battlegrounds: Digital Deluxe Edition",
+      "file": "missing/W/139826-wwe-2k-battlegrounds-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 168353,
