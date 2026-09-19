@@ -1173,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peglin | 133512 | [133512-peglin.json](./133512-peglin.json) |
 | Peh Pai | 91361 | [91361-peh-pai.json](./91361-peh-pai.json) |
 | Pèi'ěrluó Dàlù Jìshì: -Being | 394191 | [394191-peierluo-dalu-jishi-being.json](./394191-peierluo-dalu-jishi-being.json) |
+| Pejes vs. Zombies | 158578 | [158578-pejes-vs-zombies.json](./158578-pejes-vs-zombies.json) |
 | Peki Manor | 212464 | [212464-peki-manor.json](./212464-peki-manor.json) |
 | Pekin Express - La Route de l'Himalaya | 145698 | [145698-pekin-express-la-route-de-lhimalaya.json](./145698-pekin-express-la-route-de-lhimalaya.json) |
 | Pekka Kana 2 | 94449 | [94449-pekka-kana-2.json](./94449-pekka-kana-2.json) |
@@ -3288,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokey Ball | 325665 | [325665-pokey-ball.json](./325665-pokey-ball.json) |
 | Pokini Kagura | 284896 | [284896-pokini-kagura.json](./284896-pokini-kagura.json) |
 | Pokipet | 250436 | [250436-pokipet.json](./250436-pokipet.json) |
+| Pokitaire | 158580 | [158580-pokitaire.json](./158580-pokitaire.json) |
 | Pokkén Tournament DX: Battle Pack | 237933 | [237933-pokken-tournament-dx-battle-pack.json](./237933-pokken-tournament-dx-battle-pack.json) |
 | Pokkén Tournament: Update Ver.C07 | 300366 | [300366-pokken-tournament-update-ver-c07.json](./300366-pokken-tournament-update-ver-c07.json) |
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
