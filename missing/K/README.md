@@ -1311,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Retreat | 132512 | [132512-knights-retreat.json](./132512-knights-retreat.json) |
 | Knight's Rush | 23923 | [23923-knights-rush.json](./23923-knights-rush.json) |
 | Knightcore Kingdom | 227514 | [227514-knightcore-kingdom.json](./227514-knightcore-kingdom.json) |
+| Knightczech: The beginning | 145446 | [145446-knightczech-the-beginning.json](./145446-knightczech-the-beginning.json) |
 | Knightess | 262943 | [262943-knightess.json](./262943-knightess.json) |
 | Knightfall 2 | 128659 | [128659-knightfall-2.json](./128659-knightfall-2.json) |
 | Knightfall Showdown | 322969 | [322969-knightfall-showdown.json](./322969-knightfall-showdown.json) |
@@ -1651,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krusty's Fun House | 307110 | [307110-krustys-fun-house.json](./307110-krustys-fun-house.json) |
 | Kryftolike | 176994 | [176994-kryftolike.json](./176994-kryftolike.json) |
 | KryptCrawler | 51521 | [51521-kryptcrawler.json](./51521-kryptcrawler.json) |
+| Krystal Kart AR | 145438 | [145438-krystal-kart-ar.json](./145438-krystal-kart-ar.json) |
 | Kryzta | 199113 | [199113-kryzta.json](./199113-kryzta.json) |
 | Krzyżacy: The Knights of the Cross - Character Pack (Western Style) | 257065 | [257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json](./257065-krzyzacy-the-knights-of-the-cross-character-pack-western-style.json) |
 | Krzyżacy: The Knights of the Cross - Shining Stars | 289320 | [289320-krzyzacy-the-knights-of-the-cross-shining-stars.json](./289320-krzyzacy-the-knights-of-the-cross-shining-stars.json) |
@@ -1690,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kumamon Run | 283275 | [283275-kumamon-run.json](./283275-kumamon-run.json) |
 | Kumari Samsara: The Living Goddess | 402909 | [402909-kumari-samsara-the-living-goddess.json](./402909-kumari-samsara-the-living-goddess.json) |
 | Kumi-Daiko Beatoff | 274546 | [274546-kumi-daiko-beatoff.json](./274546-kumi-daiko-beatoff.json) |
+| Kumi-Daiko Beatoff 64 | 145458 | [145458-kumi-daiko-beatoff-64.json](./145458-kumi-daiko-beatoff-64.json) |
 | Kumitate Battle: Kuttu Ketto | 70995 | [70995-kumitate-battle-kuttu-ketto.json](./70995-kumitate-battle-kuttu-ketto.json) |
 | Kumo | 120930 | [120930-kumo.json](./120930-kumo.json) |
 | Kumoon: Ballistic Physics Puzzle | 19029 | [19029-kumoon-ballistic-physics-puzzle.json](./19029-kumoon-ballistic-physics-puzzle.json) |
