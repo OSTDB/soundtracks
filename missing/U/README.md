@@ -214,6 +214,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Spider-Man in the Villain Round-Up | 220114 | [220114-ultimate-spider-man-in-the-villain-round-up.json](./220114-ultimate-spider-man-in-the-villain-round-up.json) |
 | Ultimate Spider-Man: Limited Edition | 381722 | [381722-ultimate-spider-man-limited-edition.json](./381722-ultimate-spider-man-limited-edition.json) |
 | Ultimate Starfighter | 201245 | [201245-ultimate-starfighter.json](./201245-ultimate-starfighter.json) |
+| Ultimate Sudoku Collection: Basic Diagonal Pack | 163324 | [163324-ultimate-sudoku-collection-basic-diagonal-pack.json](./163324-ultimate-sudoku-collection-basic-diagonal-pack.json) |
+| Ultimate Sudoku Collection: Basic Pack | 163316 | [163316-ultimate-sudoku-collection-basic-pack.json](./163316-ultimate-sudoku-collection-basic-pack.json) |
+| Ultimate Sudoku Collection: Cross Pack | 163320 | [163320-ultimate-sudoku-collection-cross-pack.json](./163320-ultimate-sudoku-collection-cross-pack.json) |
+| Ultimate Sudoku Collection: Gattai-3 Diagonal Pack | 163315 | [163315-ultimate-sudoku-collection-gattai-3-diagonal-pack.json](./163315-ultimate-sudoku-collection-gattai-3-diagonal-pack.json) |
+| Ultimate Sudoku Collection: Samurai Advanced Pack | 163318 | [163318-ultimate-sudoku-collection-samurai-advanced-pack.json](./163318-ultimate-sudoku-collection-samurai-advanced-pack.json) |
+| Ultimate Sudoku Collection: Samurai Anti Diagonal Pack | 163317 | [163317-ultimate-sudoku-collection-samurai-anti-diagonal-pack.json](./163317-ultimate-sudoku-collection-samurai-anti-diagonal-pack.json) |
+| Ultimate Sudoku Collection: Samurai Beginner Pack | 163322 | [163322-ultimate-sudoku-collection-samurai-beginner-pack.json](./163322-ultimate-sudoku-collection-samurai-beginner-pack.json) |
+| Ultimate Sudoku Collection: Samurai Expert Pack | 163323 | [163323-ultimate-sudoku-collection-samurai-expert-pack.json](./163323-ultimate-sudoku-collection-samurai-expert-pack.json) |
+| Ultimate Sudoku Collection: Sohei Pack | 163321 | [163321-ultimate-sudoku-collection-sohei-pack.json](./163321-ultimate-sudoku-collection-sohei-pack.json) |
+| Ultimate Sudoku Collection: Tight-Fit-6 Pack | 163319 | [163319-ultimate-sudoku-collection-tight-fit-6-pack.json](./163319-ultimate-sudoku-collection-tight-fit-6-pack.json) |
 | Ultimate Summer Boat | 51982 | [51982-ultimate-summer-boat.json](./51982-ultimate-summer-boat.json) |
 | Ultimate Super Bean | 414299 | [414299-ultimate-super-bean.json](./414299-ultimate-super-bean.json) |
 | Ultimate Tag | 190158 | [190158-ultimate-tag.json](./190158-ultimate-tag.json) |
