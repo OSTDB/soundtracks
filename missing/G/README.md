@@ -809,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gênio Quiz BBB 21 | 241943 | [241943-genio-quiz-bbb-21.json](./241943-genio-quiz-bbb-21.json) |
 | Gênio Quiz Poke 2 | 241969 | [241969-genio-quiz-poke-2.json](./241969-genio-quiz-poke-2.json) |
 | Genital Jousting | 18387 | [18387-genital-jousting.json](./18387-genital-jousting.json) |
+| Genius Killer | 174749 | [174749-genius-killer.json](./174749-genius-killer.json) |
 | Genius Quiz | 240245 | [240245-genius-quiz.json](./240245-genius-quiz.json) |
 | Genius Quiz 1 | 240246 | [240246-genius-quiz-1.json](./240246-genius-quiz-1.json) |
 | Genius Quiz 10 | 241642 | [241642-genius-quiz-10.json](./241642-genius-quiz-10.json) |
@@ -1133,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giagachan | 218132 | [218132-giagachan.json](./218132-giagachan.json) |
 | Giana Sisters | 213394 | [213394-giana-sisters.json](./213394-giana-sisters.json) |
 | Giana Sisters: Twisted Dreams - Rise of the Owlverlord | 53080 | [53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json](./53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json) |
+| Giant and Me | 174757 | [174757-giant-and-me.json](./174757-giant-and-me.json) |
 | Giant Life | 118342 | [118342-giant-life.json](./118342-giant-life.json) |
 | Giant Machines 2017 | 24684 | [24684-giant-machines-2017.json](./24684-giant-machines-2017.json) |
 | Giant Mario Bros. | 198472 | [198472-giant-mario-bros.json](./198472-giant-mario-bros.json) |
@@ -1272,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls' Fashion Shoot | 79894 | [79894-girls-fashion-shoot.json](./79894-girls-fashion-shoot.json) |
 | Girls' Film Club! | 410245 | [410245-girls-film-club.json](./410245-girls-film-club.json) |
 | Girls' Frontline | 58075 | [58075-girls-frontline.json](./58075-girls-frontline.json) |
+| Girls' Frontline: Glitch | 174748 | [174748-girls-frontline-glitch.json](./174748-girls-frontline-glitch.json) |
 | Girls' Frontline: The Lunasia Covenant | 400303 | [400303-girls-frontline-the-lunasia-covenant.json](./400303-girls-frontline-the-lunasia-covenant.json) |
 | Girls' RPG: Cinderella Life | 92477 | [92477-girls-rpg-cinderella-life.json](./92477-girls-rpg-cinderella-life.json) |
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
@@ -1462,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Ballistic | 152306 | [152306-go-ballistic.json](./152306-go-ballistic.json) |
 | Go Bananas | 269016 | [269016-go-bananas.json](./269016-go-bananas.json) |
 | Go Bear Go! | 327830 | [327830-go-bear-go.json](./327830-go-bear-go.json) |
+| Go Bhop | 174751 | [174751-go-bhop.json](./174751-go-bhop.json) |
 | Go Big | 394220 | [394220-go-big.json](./394220-go-big.json) |
 | Go Carts | 297473 | [297473-go-carts.json](./297473-go-carts.json) |
 | Go Deep Or Go Home | 285484 | [285484-go-deep-or-go-home.json](./285484-go-deep-or-go-home.json) |
@@ -1623,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God's League | 341477 | [341477-gods-league.json](./341477-gods-league.json) |
 | God's Playing Field | 210663 | [210663-gods-playing-field.json](./210663-gods-playing-field.json) |
 | God's Trigger: O.M.G. Edition | 154548 | [154548-gods-trigger-o-m-g-edition.json](./154548-gods-trigger-o-m-g-edition.json) |
+| God5 | 174763 | [174763-god5.json](./174763-god5.json) |
 | Godbeast Mk.II | 191219 | [191219-godbeast-mk-ii.json](./191219-godbeast-mk-ii.json) |
 | Goddess Connect | 310203 | [310203-goddess-connect.json](./310203-goddess-connect.json) |
 | Goddess Detective 2 | 255125 | [255125-goddess-detective-2.json](./255125-goddess-detective-2.json) |
@@ -1651,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Almagest | 214514 | [214514-gods-of-almagest.json](./214514-gods-of-almagest.json) |
 | Gods of Angling | 396215 | [396215-gods-of-angling.json](./396215-gods-of-angling.json) |
 | Gods of Defense | 219798 | [219798-gods-of-defense.json](./219798-gods-of-defense.json) |
+| Gods of Egypt: Secrets of the Lost Kingdom | 174747 | [174747-gods-of-egypt-secrets-of-the-lost-kingdom.json](./174747-gods-of-egypt-secrets-of-the-lost-kingdom.json) |
 | Gods of Havoc: Fall to Earth | 120967 | [120967-gods-of-havoc-fall-to-earth.json](./120967-gods-of-havoc-fall-to-earth.json) |
 | Gods of Hellas VR | 190168 | [190168-gods-of-hellas-vr.json](./190168-gods-of-hellas-vr.json) |
 | Gods Remastered | 112099 | [112099-gods-remastered.json](./112099-gods-remastered.json) |
@@ -2197,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Vegas Casino | 401559 | [401559-grand-vegas-casino.json](./401559-grand-vegas-casino.json) |
 | Grand War 2 | 247204 | [247204-grand-war-2.json](./247204-grand-war-2.json) |
 | Grand War: Rome | 244335 | [244335-grand-war-rome.json](./244335-grand-war-rome.json) |
+| Grand Wars: Mafia City | 174725 | [174725-grand-wars-mafia-city.json](./174725-grand-wars-mafia-city.json) |
 | Grande Fratello: Il Gioco | 300371 | [300371-grande-fratello-il-gioco.json](./300371-grande-fratello-il-gioco.json) |
 | Grander Musashi RV | 228555 | [228555-grander-musashi-rv.json](./228555-grander-musashi-rv.json) |
 | Grandfather | 417497 | [417497-grandfather.json](./417497-grandfather.json) |
