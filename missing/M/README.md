@@ -2518,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Mastermind | 61068 | [61068-memory-mastermind.json](./61068-memory-mastermind.json) |
 | Memory Match Saga: Expansion Pack 1 | 167320 | [167320-memory-match-saga-expansion-pack-1.json](./167320-memory-match-saga-expansion-pack-1.json) |
 | Memory Match Saga: Expansion Pack 10 | 167329 | [167329-memory-match-saga-expansion-pack-10.json](./167329-memory-match-saga-expansion-pack-10.json) |
+| Memory Match Saga: Expansion Pack 11 | 157558 | [157558-memory-match-saga-expansion-pack-11.json](./157558-memory-match-saga-expansion-pack-11.json) |
 | Memory Match Saga: Expansion Pack 12 | 167330 | [167330-memory-match-saga-expansion-pack-12.json](./167330-memory-match-saga-expansion-pack-12.json) |
 | Memory Match Saga: Expansion Pack 2 | 167321 | [167321-memory-match-saga-expansion-pack-2.json](./167321-memory-match-saga-expansion-pack-2.json) |
 | Memory Match Saga: Expansion Pack 3 | 167322 | [167322-memory-match-saga-expansion-pack-3.json](./167322-memory-match-saga-expansion-pack-3.json) |
@@ -5222,6 +5223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse People | 207409 | [207409-mouse-people.json](./207409-mouse-people.json) |
 | Mouse Trap | 248053 | [248053-mouse-trap.json](./248053-mouse-trap.json) |
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
+| MouseBot: Escape from CatLab | 157532 | [157532-mousebot-escape-from-catlab.json](./157532-mousebot-escape-from-catlab.json) |
 | Mouselash | 320407 | [320407-mouselash.json](./320407-mouselash.json) |
 | Mouseman: Point-and-Click RPG Adventure - Chapter 1 | 383353 | [383353-mouseman-point-and-click-rpg-adventure-chapter-1.json](./383353-mouseman-point-and-click-rpg-adventure-chapter-1.json) |
 | Mousement | 388727 | [388727-mousement.json](./388727-mousement.json) |
