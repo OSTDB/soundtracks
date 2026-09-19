@@ -2571,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Time Machine: Newton | 339937 | [339937-meow-time-machine-newton.json](./339937-meow-time-machine-newton.json) |
 | Meow Tower: Nonogram | 221399 | [221399-meow-tower-nonogram.json](./221399-meow-tower-nonogram.json) |
 | Meow Weight Loss Diary | 352227 | [352227-meow-weight-loss-diary.json](./352227-meow-weight-loss-diary.json) |
+| Meow'n'Dash | 172008 | [172008-meowndash.json](./172008-meowndash.json) |
 | Meower's Quest: Jasper's Tale | 104025 | [104025-meowers-quest-jaspers-tale.json](./104025-meowers-quest-jaspers-tale.json) |
 | MeowFactory | 403691 | [403691-meowfactory.json](./403691-meowfactory.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
@@ -2613,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge 5: 10x10 Color | 233518 | [233518-merge-5-10x10-color.json](./233518-merge-5-10x10-color.json) |
 | Merge AirPlane | 227501 | [227501-merge-airplane.json](./227501-merge-airplane.json) |
 | Merge Bistro | 248103 | [248103-merge-bistro.json](./248103-merge-bistro.json) |
+| Merge Chess | 172007 | [172007-merge-chess.json](./172007-merge-chess.json) |
 | Merge Circle | 262342 | [262342-merge-circle.json](./262342-merge-circle.json) |
 | Merge Circus | 285472 | [285472-merge-circus.json](./285472-merge-circus.json) |
 | Merge Clash | 202230 | [202230-merge-clash.json](./202230-merge-clash.json) |
@@ -3817,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miskal | 237519 | [237519-miskal.json](./237519-miskal.json) |
 | Miskatonic | 389973 | [389973-miskatonic.json](./389973-miskatonic.json) |
 | Miskatonic University | 258007 | [258007-miskatonic-university.json](./258007-miskatonic-university.json) |
+| Misplaced | 172050 | [172050-misplaced.json](./172050-misplaced.json) |
 | Misplaced | 300034 | [300034-misplaced.json](./300034-misplaced.json) |
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
 | Miss Bullard's School for Former Ladies | 184058 | [184058-miss-bullards-school-for-former-ladies.json](./184058-miss-bullards-school-for-former-ladies.json) |
