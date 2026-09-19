@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaizo Block | 267455 | [267455-kaizo-block.json](./267455-kaizo-block.json) |
 | Kaizo Mario Galaxy | 249454 | [249454-kaizo-mario-galaxy.json](./249454-kaizo-mario-galaxy.json) |
 | Kaizo Mario Galaxy: Rebalanced | 262668 | [262668-kaizo-mario-galaxy-rebalanced.json](./262668-kaizo-mario-galaxy-rebalanced.json) |
+| Kaizo Mario World | 132654 | [132654-kaizo-mario-world.json](./132654-kaizo-mario-world.json) |
 | Kaizou Choujin Schbibinman | 42052 | [42052-kaizou-choujin-schbibinman.json](./42052-kaizou-choujin-schbibinman.json) |
 | Kajiri Kamui Kagura | 63822 | [63822-kajiri-kamui-kagura.json](./63822-kajiri-kamui-kagura.json) |
 | Kajko i Kokosz | 93588 | [93588-kajko-i-kokosz.json](./93588-kajko-i-kokosz.json) |
