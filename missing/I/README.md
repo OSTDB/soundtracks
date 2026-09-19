@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imago | 97864 | [97864-imago.json](./97864-imago.json) |
 | iMahjong - Mahjong Pairs | 90041 | [90041-imahjong-mahjong-pairs.json](./90041-imahjong-mahjong-pairs.json) |
 | iMake IcePops | 101554 | [101554-imake-icepops.json](./101554-imake-icepops.json) |
+| Imasugu Tsukaeru Mamechishiki Quiz Zatsugaku Ou DS | 133799 | [133799-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou-ds.json](./133799-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou-ds.json) |
 | Imaze.exe 2 | 113052 | [113052-imaze-exe-2.json](./113052-imaze-exe-2.json) |
 | Imbalance | 197260 | [197260-imbalance.json](./197260-imbalance.json) |
 | Imhotep | 47248 | [47248-imhotep.json](./47248-imhotep.json) |
