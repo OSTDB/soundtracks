@@ -1761,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Servant of the Lake | 350179 | [350179-servant-of-the-lake.json](./350179-servant-of-the-lake.json) |
 | Serve & Volley | 94267 | [94267-serve-and-volley.json](./94267-serve-and-volley.json) |
 | Serve The Cups | 276176 | [276176-serve-the-cups.json](./276176-serve-the-cups.json) |
+| Served | 135037 | [135037-served.json](./135037-served.json) |
 | Served in Yong'an | 266474 | [266474-served-in-yongan.json](./266474-served-in-yongan.json) |
 | Served! A Gourmet Race | 104684 | [104684-served-a-gourmet-race.json](./104684-served-a-gourmet-race.json) |
 | Server is Down | 138751 | [138751-server-is-down.json](./138751-server-is-down.json) |
@@ -5087,6 +5088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sombrero: Spaghetti Western Mayhem | 20758 | [20758-sombrero-spaghetti-western-mayhem.json](./20758-sombrero-spaghetti-western-mayhem.json) |
 | Some Assembly Required | 293380 | [293380-some-assembly-required.json](./293380-some-assembly-required.json) |
 | Some Assembly Required | 343827 | [343827-some-assembly-required.json](./343827-some-assembly-required.json) |
+| Some Like It Hot: Chapter 0 | 135051 | [135051-some-like-it-hot-chapter-0.json](./135051-some-like-it-hot-chapter-0.json) |
 | Some Old Stuff | 147300 | [147300-some-old-stuff.json](./147300-some-old-stuff.json) |
 | Some Peace of Mind | 144108 | [144108-some-peace-of-mind.json](./144108-some-peace-of-mind.json) |
 | Some Peace of Mind | 22361 | [22361-some-peace-of-mind.json](./22361-some-peace-of-mind.json) |
@@ -6193,6 +6195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space-Rat Xplode! | 54385 | [54385-space-rat-xplode.json](./54385-space-rat-xplode.json) |
 | Space/Mech/Pilot | 139924 | [139924-space-mech-pilot.json](./139924-space-mech-pilot.json) |
 | Spacebar | 344361 | [344361-spacebar.json](./344361-spacebar.json) |
+| Spacebeef | 135059 | [135059-spacebeef.json](./135059-spacebeef.json) |
 | SpaceBlocc | 193499 | [193499-spaceblocc.json](./193499-spaceblocc.json) |
 | SpaceBones | 353865 | [353865-spacebones.json](./353865-spacebones.json) |
 | Spaceborne Fighters | 392141 | [392141-spaceborne-fighters.json](./392141-spaceborne-fighters.json) |
@@ -7302,6 +7305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Dust: A Journey Through Space | 161349 | [161349-star-dust-a-journey-through-space.json](./161349-star-dust-a-journey-through-space.json) |
 | Star Dust: The Book of Earth (VR) | 29931 | [29931-star-dust-the-book-of-earth-vr.json](./29931-star-dust-the-book-of-earth-vr.json) |
 | Star Equestrian | 242225 | [242225-star-equestrian.json](./242225-star-equestrian.json) |
+| Star Escape | 135052 | [135052-star-escape.json](./135052-star-escape.json) |
 | Star Evil | 243936 | [243936-star-evil.json](./243936-star-evil.json) |
 | Star Exodus | 217306 | [217306-star-exodus.json](./217306-star-exodus.json) |
 | Star Fiction | 348276 | [348276-star-fiction.json](./348276-star-fiction.json) |
