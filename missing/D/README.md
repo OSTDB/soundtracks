@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damned Cold | 30775 | [30775-damned-cold.json](./30775-damned-cold.json) |
 | Damned Daniel | 111239 | [111239-damned-daniel.json](./111239-damned-daniel.json) |
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
+| Damnview Stories: No Vacancy | 146092 | [146092-damnview-stories-no-vacancy.json](./146092-damnview-stories-no-vacancy.json) |
 | Damnview: Built From Nothing | 107269 | [107269-damnview-built-from-nothing.json](./107269-damnview-built-from-nothing.json) |
 | Damocles | 15501 | [15501-damocles.json](./15501-damocles.json) |
 | Damocles Gaze | 172666 | [172666-damocles-gaze.json](./172666-damocles-gaze.json) |
@@ -2766,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt 3: Colin McRae Vision Charity Pack | 234913 | [234913-dirt-3-colin-mcrae-vision-charity-pack.json](./234913-dirt-3-colin-mcrae-vision-charity-pack.json) |
 | Dirt 3: Complete Edition | 47381 | [47381-dirt-3-complete-edition.json](./47381-dirt-3-complete-edition.json) |
 | Dirt 3: Horn Pack | 234918 | [234918-dirt-3-horn-pack.json](./234918-dirt-3-horn-pack.json) |
+| Dirt 5: Ford Raptor Edition | 146133 | [146133-dirt-5-ford-raptor-edition.json](./146133-dirt-5-ford-raptor-edition.json) |
 | Dirt 5: Limited Edition | 139955 | [139955-dirt-5-limited-edition.json](./139955-dirt-5-limited-edition.json) |
 | Dirt 5: Wild Spirits Content Pack | 292027 | [292027-dirt-5-wild-spirits-content-pack.json](./292027-dirt-5-wild-spirits-content-pack.json) |
 | Dirt And Flo | 278691 | [278691-dirt-and-flo.json](./278691-dirt-and-flo.json) |
@@ -2807,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Golf Adventure 2 VR | 148481 | [148481-disc-golf-adventure-2-vr.json](./148481-disc-golf-adventure-2-vr.json) |
 | Disc Golf Rival | 221377 | [221377-disc-golf-rival.json](./221377-disc-golf-rival.json) |
 | Disc Golf to Go | 175399 | [175399-disc-golf-to-go.json](./175399-disc-golf-to-go.json) |
+| Disc Golf Valley | 146108 | [146108-disc-golf-valley.json](./146108-disc-golf-valley.json) |
 | Disc Ninja | 164886 | [164886-disc-ninja.json](./164886-disc-ninja.json) |
 | Disc Party | 134081 | [134081-disc-party.json](./134081-disc-party.json) |
 | Disc Room | 131614 | [131614-disc-room.json](./131614-disc-room.json) |
