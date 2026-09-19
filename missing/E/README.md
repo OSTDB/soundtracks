@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End State | 77337 | [77337-end-state.json](./77337-end-state.json) |
 | End the Endless | 338716 | [338716-end-the-endless.json](./338716-end-the-endless.json) |
 | End Them, Soldier! | 347690 | [347690-end-them-soldier.json](./347690-end-them-soldier.json) |
+| End War RTS 2 | 160234 | [160234-end-war-rts-2.json](./160234-end-war-rts-2.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
 | Ender Theater | 333381 | [333381-ender-theater.json](./333381-ender-theater.json) |
@@ -1109,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Wave | 75068 | [75068-endless-wave.json](./75068-endless-wave.json) |
 | Endless Zombie Tower | 151172 | [151172-endless-zombie-tower.json](./151172-endless-zombie-tower.json) |
 | Endless Zone | 140043 | [140043-endless-zone.json](./140043-endless-zone.json) |
+| endlessCorona | 160241 | [160241-endlesscorona.json](./160241-endlesscorona.json) |
 | EndlessHell | 117046 | [117046-endlesshell.json](./117046-endlesshell.json) |
 | Endlessly | 245312 | [245312-endlessly.json](./245312-endlessly.json) |
 | EndlessRunner | 269100 | [269100-endlessrunner.json](./269100-endlessrunner.json) |
