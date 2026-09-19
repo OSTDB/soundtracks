@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majestic | 94676 | [94676-majestic.json](./94676-majestic.json) |
 | Majestic Hero Pin | 205026 | [205026-majestic-hero-pin.json](./205026-majestic-hero-pin.json) |
 | Majestic Majolical vol. 1 | 240523 | [240523-majestic-majolical-vol-1.json](./240523-majestic-majolical-vol-1.json) |
+| Majestic: Special Edition | 137479 | [137479-majestic-special-edition.json](./137479-majestic-special-edition.json) |
 | Majestic: The Card Game | 109071 | [109071-majestic-the-card-game.json](./109071-majestic-the-card-game.json) |
 | Majesty 2 Collection | 30147 | [30147-majesty-2-collection.json](./30147-majesty-2-collection.json) |
 | Majesty: Northern Kingdom | 224015 | [224015-majesty-northern-kingdom.json](./224015-majesty-northern-kingdom.json) |
@@ -4454,6 +4455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkeys & Typewriters! | 319798 | [319798-monkeys-and-typewriters.json](./319798-monkeys-and-typewriters.json) |
 | Monkeys to the Moon | 57097 | [57097-monkeys-to-the-moon.json](./57097-monkeys-to-the-moon.json) |
 | Monkeys With Guns | 177414 | [177414-monkeys-with-guns.json](./177414-monkeys-with-guns.json) |
+| Monkeytype | 137456 | [137456-monkeytype.json](./137456-monkeytype.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
 | Mono Grav | 185110 | [185110-mono-grav.json](./185110-mono-grav.json) |
 | Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
