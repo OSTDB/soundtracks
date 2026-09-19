@@ -7051,6 +7051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalin vs. Martians | 8543 | [8543-stalin-vs-martians.json](./8543-stalin-vs-martians.json) |
 | Stalin vs. Martians 4 | 117736 | [117736-stalin-vs-martians-4.json](./117736-stalin-vs-martians-4.json) |
 | Stalk the Giant | 249788 | [249788-stalk-the-giant.json](./249788-stalk-the-giant.json) |
+| Stalked | 163313 | [163313-stalked.json](./163313-stalked.json) |
 | Stalker Defender Bunker 3D | 89238 | [89238-stalker-defender-bunker-3d.json](./89238-stalker-defender-bunker-3d.json) |
 | Stalker Together | 327831 | [327831-stalker-together.json](./327831-stalker-together.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
@@ -7205,6 +7206,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Raiders | 2217 | [2217-star-raiders.json](./2217-star-raiders.json) |
 | Star Rank Boxing | 57664 | [57664-star-rank-boxing.json](./57664-star-rank-boxing.json) |
 | Star Rank Boxing II | 69871 | [69871-star-rank-boxing-ii.json](./69871-star-rank-boxing-ii.json) |
+| Star Realms: Bases and Battleships | 163284 | [163284-star-realms-bases-and-battleships.json](./163284-star-realms-bases-and-battleships.json) |
+| Star Realms: Colony Wars | 163288 | [163288-star-realms-colony-wars.json](./163288-star-realms-colony-wars.json) |
+| Star Realms: Command | 163290 | [163290-star-realms-command.json](./163290-star-realms-command.json) |
+| Star Realms: Command Decks | 163279 | [163279-star-realms-command-decks.json](./163279-star-realms-command-decks.json) |
+| Star Realms: Cosmic Gambit | 163283 | [163283-star-realms-cosmic-gambit.json](./163283-star-realms-cosmic-gambit.json) |
+| Star Realms: Fleets and Fortresses | 163280 | [163280-star-realms-fleets-and-fortresses.json](./163280-star-realms-fleets-and-fortresses.json) |
+| Star Realms: Frontiers | 163282 | [163282-star-realms-frontiers.json](./163282-star-realms-frontiers.json) |
+| Star Realms: Frontiers Events | 163287 | [163287-star-realms-frontiers-events.json](./163287-star-realms-frontiers-events.json) |
+| Star Realms: Frontiers Promos | 163286 | [163286-star-realms-frontiers-promos.json](./163286-star-realms-frontiers-promos.json) |
+| Star Realms: Full Version | 163277 | [163277-star-realms-full-version.json](./163277-star-realms-full-version.json) |
+| Star Realms: Heroes | 163278 | [163278-star-realms-heroes.json](./163278-star-realms-heroes.json) |
+| Star Realms: Stellar Allies | 163285 | [163285-star-realms-stellar-allies.json](./163285-star-realms-stellar-allies.json) |
+| Star Realms: United - Assault | 163289 | [163289-star-realms-united-assault.json](./163289-star-realms-united-assault.json) |
+| Star Realms: United - Heroes | 163281 | [163281-star-realms-united-heroes.json](./163281-star-realms-united-heroes.json) |
+| Star Realms: United - Missions | 163291 | [163291-star-realms-united-missions.json](./163291-star-realms-united-missions.json) |
 | Star Renegades | 94816 | [94816-star-renegades.json](./94816-star-renegades.json) |
 | Star Renegades: Enter the Dragoon | 169276 | [169276-star-renegades-enter-the-dragoon.json](./169276-star-renegades-enter-the-dragoon.json) |
 | Star Renegades: The Imperium Strikes Back | 169277 | [169277-star-renegades-the-imperium-strikes-back.json](./169277-star-renegades-the-imperium-strikes-back.json) |
