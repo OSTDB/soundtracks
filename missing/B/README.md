@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Relay | 108471 | [108471-ball-relay.json](./108471-ball-relay.json) |
 | Ball Rush 3 | 402296 | [402296-ball-rush-3.json](./402296-ball-rush-3.json) |
 | Ball Shoot Aim Challenge | 334085 | [334085-ball-shoot-aim-challenge.json](./334085-ball-shoot-aim-challenge.json) |
+| Ball Sort Puzzle | 180152 | [180152-ball-sort-puzzle.json](./180152-ball-sort-puzzle.json) |
 | Ball Torture | 205242 | [205242-ball-torture.json](./205242-ball-torture.json) |
 | Ball Turn | 105402 | [105402-ball-turn.json](./105402-ball-turn.json) |
 | Ball vs Block | 186185 | [186185-ball-vs-block.json](./186185-ball-vs-block.json) |
@@ -2668,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
 | Blackjack Roulette | 380530 | [380530-blackjack-roulette.json](./380530-blackjack-roulette.json) |
 | Blackjack Simulator 2024 | 266297 | [266297-blackjack-simulator-2024.json](./266297-blackjack-simulator-2024.json) |
+| Blackjack story | 180119 | [180119-blackjack-story.json](./180119-blackjack-story.json) |
 | Blackjack Tavern | 325071 | [325071-blackjack-tavern.json](./325071-blackjack-tavern.json) |
 | Blackjack Wars | 372984 | [372984-blackjack-wars.json](./372984-blackjack-wars.json) |
 | BlackJack: Daily 21 Points | 87143 | [87143-blackjack-daily-21-points.json](./87143-blackjack-daily-21-points.json) |
@@ -4381,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker Infinity | 305932 | [305932-brick-breaker-infinity.json](./305932-brick-breaker-infinity.json) |
 | Brick Breaker Premium | 104081 | [104081-brick-breaker-premium.json](./104081-brick-breaker-premium.json) |
 | Brick Breaker Unicorn | 151199 | [151199-brick-breaker-unicorn.json](./151199-brick-breaker-unicorn.json) |
+| Brick Breaker X: Deluxe | 180130 | [180130-brick-breaker-x-deluxe.json](./180130-brick-breaker-x-deluxe.json) |
 | Brick Breaker: Infinity | 331353 | [331353-brick-breaker-infinity.json](./331353-brick-breaker-infinity.json) |
 | Brick Breaker: Space Outlaw | 140555 | [140555-brick-breaker-space-outlaw.json](./140555-brick-breaker-space-outlaw.json) |
 | Brick Buddies | 272274 | [272274-brick-buddies.json](./272274-brick-buddies.json) |
