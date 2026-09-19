@@ -1503,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Puzzlegate | 34373 | [34373-escape-from-puzzlegate.json](./34373-escape-from-puzzlegate.json) |
 | Escape From Roswell | 225901 | [225901-escape-from-roswell.json](./225901-escape-from-roswell.json) |
 | Escape From Ruby Castle | 149034 | [149034-escape-from-ruby-castle.json](./149034-escape-from-ruby-castle.json) |
+| Escape From School | 167681 | [167681-escape-from-school.json](./167681-escape-from-school.json) |
 | Escape From School: F.E.L.I.K | 235472 | [235472-escape-from-school-f-e-l-i-k.json](./235472-escape-from-school-f-e-l-i-k.json) |
 | Escape from Scientology Land | 237493 | [237493-escape-from-scientology-land.json](./237493-escape-from-scientology-land.json) |
 | Escape from Sin City | 101498 | [101498-escape-from-sin-city.json](./101498-escape-from-sin-city.json) |
