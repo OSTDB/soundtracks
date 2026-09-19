@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Slug's Dream | 238589 | [238589-a-slugs-dream.json](./238589-a-slugs-dream.json) |
 | A Smoker's Story | 312731 | [312731-a-smokers-story.json](./312731-a-smokers-story.json) |
 | A Snake's Tale | 43140 | [43140-a-snakes-tale.json](./43140-a-snakes-tale.json) |
+| A Sold House | 133785 | [133785-a-sold-house.json](./133785-a-sold-house.json) |
 | A Soldier's Struggle | 385712 | [385712-a-soldiers-struggle.json](./385712-a-soldiers-struggle.json) |
 | A Soup of Mind | 382278 | [382278-a-soup-of-mind.json](./382278-a-soup-of-mind.json) |
 | A Spider to A Fly | 280336 | [280336-a-spider-to-a-fly.json](./280336-a-spider-to-a-fly.json) |
@@ -1513,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Alone on a Small Island | 185013 | [185013-all-alone-on-a-small-island.json](./185013-all-alone-on-a-small-island.json) |
 | All Ashes and Illusions | 173825 | [173825-all-ashes-and-illusions.json](./173825-all-ashes-and-illusions.json) |
 | All Aspect Warfare | 16065 | [16065-all-aspect-warfare.json](./16065-all-aspect-warfare.json) |
+| All Bears Love Honey | 133818 | [133818-all-bears-love-honey.json](./133818-all-bears-love-honey.json) |
 | All Black | 356686 | [356686-all-black.json](./356686-all-black.json) |
 | All Chess | 259050 | [259050-all-chess.json](./259050-all-chess.json) |
 | All City King | 293081 | [293081-all-city-king.json](./293081-all-city-king.json) |
@@ -1988,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Volvo Construction Equipment | 353404 | [353404-american-truck-simulator-volvo-construction-equipment.json](./353404-american-truck-simulator-volvo-construction-equipment.json) |
 | American Truck Simulator: Western Star 57X | 211406 | [211406-american-truck-simulator-western-star-57x.json](./211406-american-truck-simulator-western-star-57x.json) |
 | American Truck Simulator: Wheel Tuning Pack | 353402 | [353402-american-truck-simulator-wheel-tuning-pack.json](./353402-american-truck-simulator-wheel-tuning-pack.json) |
+| American Truck Traffic Racer: Highway Racing | 133816 | [133816-american-truck-traffic-racer-highway-racing.json](./133816-american-truck-traffic-racer-highway-racing.json) |
 | American Trucker: The Simulation | 52581 | [52581-american-trucker-the-simulation.json](./52581-american-trucker-the-simulation.json) |
 | American Zombie: Election Year | 130325 | [130325-american-zombie-election-year.json](./130325-american-zombie-election-year.json) |
 | Americas Greatest Games | 206113 | [206113-americas-greatest-games.json](./206113-americas-greatest-games.json) |
@@ -2034,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amoeboid | 233213 | [233213-amoeboid.json](./233213-amoeboid.json) |
 | Amogus TD 2: Defense of the Sus | 254757 | [254757-amogus-td-2-defense-of-the-sus.json](./254757-amogus-td-2-defense-of-the-sus.json) |
 | Amok | 95404 | [95404-amok.json](./95404-amok.json) |
+| Among Ripples: Shallow Waters | 133793 | [133793-among-ripples-shallow-waters.json](./133793-among-ripples-shallow-waters.json) |
 | Among School Girls | 165006 | [165006-among-school-girls.json](./165006-among-school-girls.json) |
 | Among Stars | 211405 | [211405-among-stars.json](./211405-among-stars.json) |
 | Among the Monolyths | 180786 | [180786-among-the-monolyths.json](./180786-among-the-monolyths.json) |
@@ -2404,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Puzzle: Preschool Learning Game for Kids and Toddlers | 165618 | [165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json](./165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json) |
 | Animal Rescue | 169407 | [169407-animal-rescue.json](./169407-animal-rescue.json) |
 | Animal Rescuer | 139419 | [139419-animal-rescuer.json](./139419-animal-rescuer.json) |
+| Animal Restaurant | 133792 | [133792-animal-restaurant.json](./133792-animal-restaurant.json) |
 | Animal Rivals | 28915 | [28915-animal-rivals.json](./28915-animal-rivals.json) |
 | Animal Rivals: Nintendo Switch Edition | 105904 | [105904-animal-rivals-nintendo-switch-edition.json](./105904-animal-rivals-nintendo-switch-edition.json) |
 | Animal Run for Kids | 381703 | [381703-animal-run-for-kids.json](./381703-animal-run-for-kids.json) |
@@ -2527,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animentals | 387361 | [387361-animentals.json](./387361-animentals.json) |
 | Animetic Story Game 1: Cardcaptor Sakura | 132867 | [132867-animetic-story-game-1-cardcaptor-sakura.json](./132867-animetic-story-game-1-cardcaptor-sakura.json) |
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
+| Animosity's Duel | 133800 | [133800-animositys-duel.json](./133800-animositys-duel.json) |
 | AnimuJump | 238628 | [238628-animujump.json](./238628-animujump.json) |
 | Aniquilation | 132152 | [132152-aniquilation.json](./132152-aniquilation.json) |
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
@@ -3046,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arachnid | 83489 | [83489-arachnid.json](./83489-arachnid.json) |
 | Arachnoid | 23886 | [23886-arachnoid.json](./23886-arachnoid.json) |
 | Aracnidium | 193462 | [193462-aracnidium.json](./193462-aracnidium.json) |
+| Arae: Requiem of a Lonely Spirit | 133784 | [133784-arae-requiem-of-a-lonely-spirit.json](./133784-arae-requiem-of-a-lonely-spirit.json) |
 | Aragami | 18853 | [18853-aragami.json](./18853-aragami.json) |
 | Aragami: Nightfall | 96020 | [96020-aragami-nightfall.json](./96020-aragami-nightfall.json) |
 | Araignees | 184529 | [184529-araignees.json](./184529-araignees.json) |
@@ -3395,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Zone | 210639 | [210639-arctic-zone.json](./210639-arctic-zone.json) |
 | Arctic's Adventure | 264704 | [264704-arctics-adventure.json](./264704-arctics-adventure.json) |
 | Arctis | 334663 | [334663-arctis.json](./334663-arctis.json) |
+| Arcus Chroma | 133786 | [133786-arcus-chroma.json](./133786-arcus-chroma.json) |
 | Ardarium | 168331 | [168331-ardarium.json](./168331-ardarium.json) |
 | Ardem | 260389 | [260389-ardem.json](./260389-ardem.json) |
 | Ardency: Heart of the Rebellion | 297788 | [297788-ardency-heart-of-the-rebellion.json](./297788-ardency-heart-of-the-rebellion.json) |
