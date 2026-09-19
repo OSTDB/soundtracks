@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rasmus Klump: og hans Venner Leger og Lærer | 286122 | [286122-rasmus-klump-og-hans-venner-leger-og-l-rer.json](./286122-rasmus-klump-og-hans-venner-leger-og-l-rer.json) |
 | Rasmus Klump: Som Landpost | 286119 | [286119-rasmus-klump-som-landpost.json](./286119-rasmus-klump-som-landpost.json) |
 | Raspberry | 314249 | [314249-raspberry.json](./314249-raspberry.json) |
+| Raspberry Coast | 157040 | [157040-raspberry-coast.json](./157040-raspberry-coast.json) |
 | Raster | 270175 | [270175-raster.json](./270175-raster.json) |
 | Raster Blaster | 24879 | [24879-raster-blaster.json](./24879-raster-blaster.json) |
 | Raster Fahndung | 92992 | [92992-raster-fahndung.json](./92992-raster-fahndung.json) |
@@ -2247,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Right and Down and Dice | 238600 | [238600-right-and-down-and-dice.json](./238600-right-and-down-and-dice.json) |
 | Right and Down Double Bundle | 294855 | [294855-right-and-down-double-bundle.json](./294855-right-and-down-double-bundle.json) |
 | Right Swipes: Blast Date | 200735 | [200735-right-swipes-blast-date.json](./200735-right-swipes-blast-date.json) |
+| Right Way | 157047 | [157047-right-way.json](./157047-right-way.json) |
 | Righteous Kill | 209161 | [209161-righteous-kill.json](./209161-righteous-kill.json) |
 | Rights of Progression | 229921 | [229921-rights-of-progression.json](./229921-rights-of-progression.json) |
 | Rigid Memory | 205107 | [205107-rigid-memory.json](./205107-rigid-memory.json) |
@@ -3314,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotorsim: Helicopter Simulator | 348878 | [348878-rotorsim-helicopter-simulator.json](./348878-rotorsim-helicopter-simulator.json) |
 | Rotschwert | 333660 | [333660-rotschwert.json](./333660-rotschwert.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
+| Rotten Tide | 157055 | [157055-rotten-tide.json](./157055-rotten-tide.json) |
 | Rottenroots | 322766 | [322766-rottenroots.json](./322766-rottenroots.json) |
 | Rotting Crescendo | 136441 | [136441-rotting-crescendo.json](./136441-rotting-crescendo.json) |
 | Rotting Grief | 415068 | [415068-rotting-grief.json](./415068-rotting-grief.json) |
