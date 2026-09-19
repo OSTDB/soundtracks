@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Every Day | 292167 | [292167-parkour-every-day.json](./292167-parkour-every-day.json) |
 | Parkour Flight | 86876 | [86876-parkour-flight.json](./86876-parkour-flight.json) |
 | Parkour Game 2 | 270957 | [270957-parkour-game-2.json](./270957-parkour-game-2.json) |
+| Parkour Go | 146713 | [146713-parkour-go.json](./146713-parkour-go.json) |
 | Parkour Jump Adventure | 245914 | [245914-parkour-jump-adventure.json](./245914-parkour-jump-adventure.json) |
 | Parkour Master | 145024 | [145024-parkour-master.json](./145024-parkour-master.json) |
 | Parkour Obby: Ice Escape | 415064 | [415064-parkour-obby-ice-escape.json](./415064-parkour-obby-ice-escape.json) |
@@ -2026,6 +2027,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Star Trek - The Next Generation | 349340 | [349340-pinball-arcade-star-trek-the-next-generation.json](./349340-pinball-arcade-star-trek-the-next-generation.json) |
 | Pinball Arcade: Swords of Fury | 353270 | [353270-pinball-arcade-swords-of-fury.json](./353270-pinball-arcade-swords-of-fury.json) |
 | Pinball Arcade: Whirlwind | 353269 | [353269-pinball-arcade-whirlwind.json](./353269-pinball-arcade-whirlwind.json) |
+| Pinball Breaker 3 | 146686 | [146686-pinball-breaker-3.json](./146686-pinball-breaker-3.json) |
+| Pinball Breaker 4 | 146685 | [146685-pinball-breaker-4.json](./146685-pinball-breaker-4.json) |
 | Pinball Breeze | 354432 | [354432-pinball-breeze.json](./354432-pinball-breeze.json) |
 | Pinball Challenge Deluxe | 49361 | [49361-pinball-challenge-deluxe.json](./49361-pinball-challenge-deluxe.json) |
 | Pinball Deluxe | 260802 | [260802-pinball-deluxe.json](./260802-pinball-deluxe.json) |
@@ -3296,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Clicker | 341566 | [341566-poker-clicker.json](./341566-poker-clicker.json) |
 | Poker Club | 138204 | [138204-poker-club.json](./138204-poker-club.json) |
 | Poker Club: Gold Edition | 277568 | [277568-poker-club-gold-edition.json](./277568-poker-club-gold-edition.json) |
+| Poker Drop | 146691 | [146691-poker-drop.json](./146691-poker-drop.json) |
 | Poker Dungeon: Joker's Madness | 310747 | [310747-poker-dungeon-jokers-madness.json](./310747-poker-dungeon-jokers-madness.json) |
 | Poker for Dummies | 64983 | [64983-poker-for-dummies.json](./64983-poker-for-dummies.json) |
 | Poker Hands | 147993 | [147993-poker-hands.json](./147993-poker-hands.json) |
