@@ -1810,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PictoImage | 84824 | [84824-pictoimage.json](./84824-pictoimage.json) |
 | PictoPull | 212811 | [212811-pictopull.json](./212811-pictopull.json) |
 | Pictorbit | 414358 | [414358-pictorbit.json](./414358-pictorbit.json) |
+| Pictos | 175277 | [175277-pictos.json](./175277-pictos.json) |
 | Pictoword: Fun Word Pics Games | 87361 | [87361-pictoword-fun-word-pics-games.json](./87361-pictoword-fun-word-pics-games.json) |
 | Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
@@ -2295,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Fireplace | 134645 | [134645-pixel-fireplace.json](./134645-pixel-fireplace.json) |
 | Pixel Fish | 114342 | [114342-pixel-fish.json](./114342-pixel-fish.json) |
 | Pixel Fish | 310755 | [310755-pixel-fish.json](./310755-pixel-fish.json) |
+| Pixel Force 2 | 175278 | [175278-pixel-force-2.json](./175278-pixel-force-2.json) |
 | Pixel Forest | 108489 | [108489-pixel-forest.json](./108489-pixel-forest.json) |
 | Pixel Fruit Platform | 388237 | [388237-pixel-fruit-platform.json](./388237-pixel-fruit-platform.json) |
 | Pixel Galaxy | 24615 | [24615-pixel-galaxy.json](./24615-pixel-galaxy.json) |
