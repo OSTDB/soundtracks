@@ -3558,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkateNationXL | 272579 | [272579-skatenationxl.json](./272579-skatenationxl.json) |
 | Skater XL: Tampa Pro 2022 Gear Pack For Charity | 225094 | [225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json](./225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json) |
 | SkateRide | 180776 | [180776-skateride.json](./180776-skateride.json) |
+| Skautfold: Moonless Knight | 152142 | [152142-skautfold-moonless-knight.json](./152142-skautfold-moonless-knight.json) |
 | Skautfold: Shrouded in Sanity | 19481 | [19481-skautfold-shrouded-in-sanity.json](./19481-skautfold-shrouded-in-sanity.json) |
 | Skaza | 141159 | [141159-skaza.json](./141159-skaza.json) |
 | Skeal | 185682 | [185682-skeal.json](./185682-skeal.json) |
@@ -4027,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Garden | 104661 | [104661-slime-garden.json](./104661-slime-garden.json) |
 | Slime Guy | 348881 | [348881-slime-guy.json](./348881-slime-guy.json) |
 | Slime Hero | 216890 | [216890-slime-hero.json](./216890-slime-hero.json) |
+| Slime Heroes | 152171 | [152171-slime-heroes.json](./152171-slime-heroes.json) |
 | Slime Jumper | 34316 | [34316-slime-jumper.json](./34316-slime-jumper.json) |
 | Slime Killer | 163910 | [163910-slime-killer.json](./163910-slime-killer.json) |
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
@@ -7111,6 +7113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stamps ‘n Papers | 346694 | [346694-stamps-n-papers.json](./346694-stamps-n-papers.json) |
 | Stan | 326277 | [326277-stan.json](./326277-stan.json) |
 | StanÇact: Sexy Tenacious Girls | 264621 | [264621-stancact-sexy-tenacious-girls.json](./264621-stancact-sexy-tenacious-girls.json) |
+| Stand 'em Up | 152153 | [152153-stand-em-up.json](./152153-stand-em-up.json) |
 | Stand My Heroes | 197377 | [197377-stand-my-heroes.json](./197377-stand-my-heroes.json) |
 | Stand O'Food | 66976 | [66976-stand-ofood.json](./66976-stand-ofood.json) |
 | Stand O'Food 3 | 87189 | [87189-stand-ofood-3.json](./87189-stand-ofood-3.json) |
@@ -10276,6 +10279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: The Noise She Couldn't Make | 139919 | [139919-surface-the-noise-she-couldnt-make.json](./139919-surface-the-noise-she-couldnt-make.json) |
 | Surface: Virtual Detective - Collector's Edition | 166076 | [166076-surface-virtual-detective-collectors-edition.json](./166076-surface-virtual-detective-collectors-edition.json) |
 | Surfacer+ | 85529 | [85529-surfacer.json](./85529-surfacer.json) |
+| Surfacing | 152116 | [152116-surfacing.json](./152116-surfacing.json) |
 | Surferboy | 346044 | [346044-surferboy.json](./346044-surferboy.json) |
 | Surfin' Sam: Attack of the Aqualites | 85416 | [85416-surfin-sam-attack-of-the-aqualites.json](./85416-surfin-sam-attack-of-the-aqualites.json) |
 | Surfing H3O | 43344 | [43344-surfing-h3o.json](./43344-surfing-h3o.json) |
@@ -10329,6 +10333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Gladiator: Blades of the Coliseum | 322978 | [322978-survival-gladiator-blades-of-the-coliseum.json](./322978-survival-gladiator-blades-of-the-coliseum.json) |
 | Survival Hold Your Self | 342077 | [342077-survival-hold-your-self.json](./342077-survival-hold-your-self.json) |
 | Survival Island | 201672 | [201672-survival-island.json](./201672-survival-island.json) |
+| Survival Machine | 152121 | [152121-survival-machine.json](./152121-survival-machine.json) |
 | Survival Nation | 228586 | [228586-survival-nation.json](./228586-survival-nation.json) |
 | Survival Nation: Lost Horizon | 259619 | [259619-survival-nation-lost-horizon.json](./259619-survival-nation-lost-horizon.json) |
 | Survival Nexus | 266784 | [266784-survival-nexus.json](./266784-survival-nexus.json) |
