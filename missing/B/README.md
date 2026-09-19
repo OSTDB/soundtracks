@@ -2067,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Kingdom 2 | 294737 | [294737-beyond-the-kingdom-2.json](./294737-beyond-the-kingdom-2.json) |
 | Beyond the Kingdom 2: Collector's Edition | 341042 | [341042-beyond-the-kingdom-2-collectors-edition.json](./341042-beyond-the-kingdom-2-collectors-edition.json) |
 | Beyond the Kingdom: Collector's Edition | 341041 | [341041-beyond-the-kingdom-collectors-edition.json](./341041-beyond-the-kingdom-collectors-edition.json) |
+| Beyond the Phone Screen | 169886 | [169886-beyond-the-phone-screen.json](./169886-beyond-the-phone-screen.json) |
 | Beyond the Rust | 362895 | [362895-beyond-the-rust.json](./362895-beyond-the-rust.json) |
 | Beyond the Sideline Football | 62223 | [62223-beyond-the-sideline-football.json](./62223-beyond-the-sideline-football.json) |
 | Beyond the Stars VR | 119721 | [119721-beyond-the-stars-vr.json](./119721-beyond-the-stars-vr.json) |
@@ -5216,6 +5217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buy Low Sell High | 109707 | [109707-buy-low-sell-high.json](./109707-buy-low-sell-high.json) |
 | Buy Me Some Soup | 188682 | [188682-buy-me-some-soup.json](./188682-buy-me-some-soup.json) |
 | Buy Sell | 374158 | [374158-buy-sell.json](./374158-buy-sell.json) |
+| Buyhads | 169872 | [169872-buyhads.json](./169872-buyhads.json) |
 | Buying Tomato | 394869 | [394869-buying-tomato.json](./394869-buying-tomato.json) |
 | Buzz | 232552 | [232552-buzz.json](./232552-buzz.json) |
 | Buzz Cut Simulation | 277313 | [277313-buzz-cut-simulation.json](./277313-buzz-cut-simulation.json) |
