@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #NoLimitFantasy, Super Puzzles Dream | 146680 | [146680-nolimitfantasy-super-puzzles-dream.json](./146680-nolimitfantasy-super-puzzles-dream.json) |
 | #OneRoom | 106639 | [106639-oneroom.json](./106639-oneroom.json) |
 | #SelfieTennis | 34683 | [34683-selfietennis.json](./34683-selfietennis.json) |
+| #SinucaAttack | 143494 | [143494-sinucaattack.json](./143494-sinucaattack.json) |
 | #Wish travel, Super Puzzles Dream | 147423 | [147423-wish-travel-super-puzzles-dream.json](./147423-wish-travel-super-puzzles-dream.json) |
 | #womenUp, Super Puzzles Dream | 147437 | [147437-womenup-super-puzzles-dream.json](./147437-womenup-super-puzzles-dream.json) |
 | ^_^ | 165499 | [165499-.json](./165499-.json) |
@@ -241,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10KoyaNI | 382189 | [382189-10koyani.json](./382189-10koyani.json) |
 | 10mg Collection | 141158 | [141158-10mg-collection.json](./141158-10mg-collection.json) |
 | 10Minutes | 258997 | [258997-10minutes.json](./258997-10minutes.json) |
+| 10SII | 143489 | [143489-10sii.json](./143489-10sii.json) |
 | 11 Trials of Raz | 379454 | [379454-11-trials-of-raz.json](./379454-11-trials-of-raz.json) |
 | 110 Hurdles | 247052 | [247052-110-hurdles.json](./247052-110-hurdles.json) |
 | 1112: Episode 01 | 213381 | [213381-1112-episode-01.json](./213381-1112-episode-01.json) |
