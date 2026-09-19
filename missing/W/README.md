@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet-Dry World | 308233 | [308233-wet-dry-world.json](./308233-wet-dry-world.json) |
 | WetBread | 222934 | [222934-wetbread.json](./222934-wetbread.json) |
 | Wettop | 358871 | [358871-wettop.json](./358871-wettop.json) |
+| Wetware | 142259 | [142259-wetware.json](./142259-wetware.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
 | WG Mega | 270661 | [270661-wg-mega.json](./270661-wg-mega.json) |
 | WGT Baseball | 64370 | [64370-wgt-baseball.json](./64370-wgt-baseball.json) |
