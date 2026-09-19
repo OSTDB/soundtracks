@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Pumpkin Brawl | 317447 | [317447-halloween-pumpkin-brawl.json](./317447-halloween-pumpkin-brawl.json) |
 | Halloween Pumpkin Story | 74380 | [74380-halloween-pumpkin-story.json](./74380-halloween-pumpkin-story.json) |
 | Halloween Secrets: The Blood Vow - Collector's Edition | 362829 | [362829-halloween-secrets-the-blood-vow-collectors-edition.json](./362829-halloween-secrets-the-blood-vow-collectors-edition.json) |
+| Halloween Sex Party | 175794 | [175794-halloween-sex-party.json](./175794-halloween-sex-party.json) |
 | Halloween Shooter | 222395 | [222395-halloween-shooter.json](./222395-halloween-shooter.json) |
 | Halloween Sinister Trivia | 274488 | [274488-halloween-sinister-trivia.json](./274488-halloween-sinister-trivia.json) |
 | Halloween Stories: Horror Movie | 187953 | [187953-halloween-stories-horror-movie.json](./187953-halloween-stories-horror-movie.json) |
@@ -3267,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howard the Duck: Adventure on Volcano Island | 28853 | [28853-howard-the-duck-adventure-on-volcano-island.json](./28853-howard-the-duck-adventure-on-volcano-island.json) |
 | Howdy, Jacob! | 148512 | [148512-howdy-jacob.json](./148512-howdy-jacob.json) |
 | Howl of Iron | 230926 | [230926-howl-of-iron.json](./230926-howl-of-iron.json) |
+| Howling Village: Echoes | 175810 | [175810-howling-village-echoes.json](./175810-howling-village-echoes.json) |
 | HowLongToBeat: The Game | 362903 | [362903-howlongtobeat-the-game.json](./362903-howlongtobeat-the-game.json) |
 | Hoyle Card Games | 77395 | [77395-hoyle-card-games.json](./77395-hoyle-card-games.json) |
 | Hoyle Card Games | 87746 | [87746-hoyle-card-games.json](./87746-hoyle-card-games.json) |
