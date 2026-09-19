@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai's Way | 295396 | [295396-samurais-way.json](./295396-samurais-way.json) |
 | Samurai's Zenith: Shifting of the Guard | 224664 | [224664-samurais-zenith-shifting-of-the-guard.json](./224664-samurais-zenith-shifting-of-the-guard.json) |
 | SamuraiRising | 170019 | [170019-samurairising.json](./170019-samurairising.json) |
+| SamuraiZero | 171474 | [171474-samuraizero.json](./171474-samuraizero.json) |
 | Samurise | 330741 | [330741-samurise.json](./330741-samurise.json) |
 | Samus Goes to the Fridge to Get a Glass of Milk | 226402 | [226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json](./226402-samus-goes-to-the-fridge-to-get-a-glass-of-milk.json) |
 | Samus Goes to the Fridge to Get a Glass of Milk II | 226403 | [226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json](./226403-samus-goes-to-the-fridge-to-get-a-glass-of-milk-ii.json) |
@@ -1338,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Love Temple | 368534 | [368534-secret-love-temple.json](./368534-secret-love-temple.json) |
 | Secret Manga Girlfriend | 252803 | [252803-secret-manga-girlfriend.json](./252803-secret-manga-girlfriend.json) |
 | Secret Maryo Chronicles | 134076 | [134076-secret-maryo-chronicles.json](./134076-secret-maryo-chronicles.json) |
+| Secret Mission: Produce For President | 171475 | [171475-secret-mission-produce-for-president.json](./171475-secret-mission-produce-for-president.json) |
 | Secret Mission: The Forgotten Island | 186808 | [186808-secret-mission-the-forgotten-island.json](./186808-secret-mission-the-forgotten-island.json) |
 | Secret Mode's Cozy Collection | 328500 | [328500-secret-modes-cozy-collection.json](./328500-secret-modes-cozy-collection.json) |
 | Secret Mysteries in London | 84900 | [84900-secret-mysteries-in-london.json](./84900-secret-mysteries-in-london.json) |
@@ -2996,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigma-X | 256914 | [256914-sigma-x.json](./256914-sigma-x.json) |
 | Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
 | Sign of the Sun | 69878 | [69878-sign-of-the-sun.json](./69878-sign-of-the-sun.json) |
+| Signal | 171482 | [171482-signal.json](./171482-signal.json) |
 | Signal | 205094 | [205094-signal.json](./205094-signal.json) |
 | Signal | 329155 | [329155-signal.json](./329155-signal.json) |
 | Signal Creek | 339922 | [339922-signal-creek.json](./339922-signal-creek.json) |
