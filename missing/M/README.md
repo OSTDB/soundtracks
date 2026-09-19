@@ -4292,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moeboid | 77352 | [77352-moeboid.json](./77352-moeboid.json) |
 | Moekasu | 321540 | [321540-moekasu.json](./321540-moekasu.json) |
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
+| Moeras | 129565 | [129565-moeras.json](./129565-moeras.json) |
 | Moero 7!! Judo Warriors | 59994 | [59994-moero-7-judo-warriors.json](./59994-moero-7-judo-warriors.json) |
 | Moero Chronicle | 36869 | [36869-moero-chronicle.json](./36869-moero-chronicle.json) |
 | Moero Chronicle Hyper | 114421 | [114421-moero-chronicle-hyper.json](./114421-moero-chronicle-hyper.json) |
