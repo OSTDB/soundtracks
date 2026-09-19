@@ -3881,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice It! | 147957 | [147957-slice-it.json](./147957-slice-it.json) |
 | Slice N' Hook | 67335 | [67335-slice-n-hook.json](./67335-slice-n-hook.json) |
 | Slice of Life Fantasy | 191192 | [191192-slice-of-life-fantasy.json](./191192-slice-of-life-fantasy.json) |
+| Slice of Scythe | 179601 | [179601-slice-of-scythe.json](./179601-slice-of-scythe.json) |
 | Slice Surge | 366327 | [366327-slice-surge.json](./366327-slice-surge.json) |
 | Slice the Ice | 75779 | [75779-slice-the-ice.json](./75779-slice-the-ice.json) |
 | Slice To Meet You | 409583 | [409583-slice-to-meet-you.json](./409583-slice-to-meet-you.json) |
