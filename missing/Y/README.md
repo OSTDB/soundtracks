@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yard Resistance | 322162 | [322162-yard-resistance.json](./322162-yard-resistance.json) |
 | Yareba de Kiru! The Micro Step: Gijutsu de Oboeru Eitango | 124151 | [124151-yareba-de-kiru-the-micro-step-gijutsu-de-oboeru-eitango.json](./124151-yareba-de-kiru-the-micro-step-gijutsu-de-oboeru-eitango.json) |
 | YARG | 245335 | [245335-yarg.json](./245335-yarg.json) |
+| Yarn | 166614 | [166614-yarn.json](./166614-yarn.json) |
 | Yarudora Series Vol. 1: Double Cast | 79353 | [79353-yarudora-series-vol-1-double-cast.json](./79353-yarudora-series-vol-1-double-cast.json) |
 | Yarudora Series Vol. 3: Sampaguita | 79349 | [79349-yarudora-series-vol-3-sampaguita.json](./79349-yarudora-series-vol-3-sampaguita.json) |
 | Yarudora Series Vol. 4: Yukiwari no Hana | 79348 | [79348-yarudora-series-vol-4-yukiwari-no-hana.json](./79348-yarudora-series-vol-4-yukiwari-no-hana.json) |
@@ -329,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Make The Game | 377138 | [377138-you-make-the-game.json](./377138-you-make-the-game.json) |
 | You May | 229709 | [229709-you-may.json](./229709-you-may.json) |
 | Yóu Mèng Zhèng: Dreamfarer | 394196 | [394196-you-meng-zheng-dreamfarer.json](./394196-you-meng-zheng-dreamfarer.json) |
+| You Must | 166604 | [166604-you-must.json](./166604-you-must.json) |
 | You Must Become A Lich | 248653 | [248653-you-must-become-a-lich.json](./248653-you-must-become-a-lich.json) |
 | You Must Build A Ship | 185589 | [185589-you-must-build-a-ship.json](./185589-you-must-build-a-ship.json) |
 | You Must Escape | 343870 | [343870-you-must-escape.json](./343870-you-must-escape.json) |
@@ -626,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuushi no Monshou: Deep Dungeon | 41326 | [41326-yuushi-no-monshou-deep-dungeon.json](./41326-yuushi-no-monshou-deep-dungeon.json) |
 | Yuuto Ichika Gets DMCA'd | 195074 | [195074-yuuto-ichika-gets-dmcad.json](./195074-yuuto-ichika-gets-dmcad.json) |
 | Yuuyu no Quiz de Go! Go! | 37750 | [37750-yuuyu-no-quiz-de-go-go.json](./37750-yuuyu-no-quiz-de-go-go.json) |
+| YuuYuu Jiteki no Yuukarin | 166626 | [166626-yuuyuu-jiteki-no-yuukarin.json](./166626-yuuyuu-jiteki-no-yuukarin.json) |
 | YuYu Hakusho | 60531 | [60531-yuyu-hakusho.json](./60531-yuyu-hakusho.json) |
 | YuYu Hakusho Dai-yon-dan: Makai Touitsu-hen | 60559 | [60559-yuyu-hakusho-dai-yon-dan-makai-touitsu-hen.json](./60559-yuyu-hakusho-dai-yon-dan-makai-touitsu-hen.json) |
 | YuYu Hakusho Final: Makai Saikyou Retsuden | 79844 | [79844-yuyu-hakusho-final-makai-saikyou-retsuden.json](./79844-yuyu-hakusho-final-makai-saikyou-retsuden.json) |
