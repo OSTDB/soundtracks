@@ -3853,7 +3853,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predator | 15345 | [15345-predator.json](./15345-predator.json) |
 | Predator | 74422 | [74422-predator.json](./74422-predator.json) |
 | Predator: Hunting Grounds | 118272 | [118272-predator-hunting-grounds.json](./118272-predator-hunting-grounds.json) |
+| Predator: Hunting Grounds - City Hunter Predator | 168758 | [168758-predator-hunting-grounds-city-hunter-predator.json](./168758-predator-hunting-grounds-city-hunter-predator.json) |
+| Predator: Hunting Grounds - Dante "Beast Mode" Jefferson | 168764 | [168764-predator-hunting-grounds-dante-beast-mode-jefferson.json](./168764-predator-hunting-grounds-dante-beast-mode-jefferson.json) |
+| Predator: Hunting Grounds - Dutch '87 | 168762 | [168762-predator-hunting-grounds-dutch-87.json](./168762-predator-hunting-grounds-dutch-87.json) |
+| Predator: Hunting Grounds - Dutch 2025 DLC Pack | 168759 | [168759-predator-hunting-grounds-dutch-2025-dlc-pack.json](./168759-predator-hunting-grounds-dutch-2025-dlc-pack.json) |
+| Predator: Hunting Grounds - Isabelle Fireteam DLC Pack | 168760 | [168760-predator-hunting-grounds-isabelle-fireteam-dlc-pack.json](./168760-predator-hunting-grounds-isabelle-fireteam-dlc-pack.json) |
 | Predator: Hunting Grounds - Jungle Edition | 331853 | [331853-predator-hunting-grounds-jungle-edition.json](./331853-predator-hunting-grounds-jungle-edition.json) |
+| Predator: Hunting Grounds - Samurai Predator | 168757 | [168757-predator-hunting-grounds-samurai-predator.json](./168757-predator-hunting-grounds-samurai-predator.json) |
+| Predator: Hunting Grounds - Valkyrie Predator DLC Pack | 168763 | [168763-predator-hunting-grounds-valkyrie-predator-dlc-pack.json](./168763-predator-hunting-grounds-valkyrie-predator-dlc-pack.json) |
+| Predator: Hunting Grounds - Viking Predator | 168761 | [168761-predator-hunting-grounds-viking-predator.json](./168761-predator-hunting-grounds-viking-predator.json) |
 | Predator: Hunting Grounds - Yautja Edition | 320763 | [320763-predator-hunting-grounds-yautja-edition.json](./320763-predator-hunting-grounds-yautja-edition.json) |
 | Predatory Islands | 251832 | [251832-predatory-islands.json](./251832-predatory-islands.json) |
 | Predefined | 253585 | [253585-predefined.json](./253585-predefined.json) |
@@ -4907,6 +4915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Hentai: Moments | 385081 | [385081-pure-hentai-moments.json](./385081-pure-hentai-moments.json) |
 | Pure Hold'em | 17840 | [17840-pure-holdem.json](./17840-pure-holdem.json) |
 | Pure Love | 368048 | [368048-pure-love.json](./368048-pure-love.json) |
+| Pure Metal: Feature 1 | 169288 | [169288-pure-metal-feature-1.json](./169288-pure-metal-feature-1.json) |
 | Pure Mini Golf | 188100 | [188100-pure-mini-golf.json](./188100-pure-mini-golf.json) |
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
 | Pure Pinball 2.0 Redux | 51881 | [51881-pure-pinball-2-0-redux.json](./51881-pure-pinball-2-0-redux.json) |
