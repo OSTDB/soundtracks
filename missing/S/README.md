@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor Fuku Bishoujo Zukan Vol. 6 | 41384 | [41384-sailor-fuku-bishoujo-zukan-vol-6.json](./41384-sailor-fuku-bishoujo-zukan-vol-6.json) |
 | Sailor Fuku to Femme Fatale | 293941 | [293941-sailor-fuku-to-femme-fatale.json](./293941-sailor-fuku-to-femme-fatale.json) |
 | Sailor Moon | 38280 | [38280-sailor-moon.json](./38280-sailor-moon.json) |
+| Sailor Moon Fighter S | 140404 | [140404-sailor-moon-fighter-s.json](./140404-sailor-moon-fighter-s.json) |
 | Sailor Moon RevengeX | 279589 | [279589-sailor-moon-revengex.json](./279589-sailor-moon-revengex.json) |
 | Sailor Moon S: Kotaete Moon Call! | 230284 | [230284-sailor-moon-s-kotaete-moon-call.json](./230284-sailor-moon-s-kotaete-moon-call.json) |
 | Sailor Zombie: AKB48 Arcade Edition | 360054 | [360054-sailor-zombie-akb48-arcade-edition.json](./360054-sailor-zombie-akb48-arcade-edition.json) |
@@ -1496,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Series Vol. 33: Fantasy Zone Complete Collection | 64899 | [64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json](./64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json) |
 | Sega Ages 2500 Vol. 10: After Burner II | 64900 | [64900-sega-ages-2500-vol-10-after-burner-ii.json](./64900-sega-ages-2500-vol-10-after-burner-ii.json) |
 | Sega Ages 2500 Vol. 15: Decathlete Collection | 98926 | [98926-sega-ages-2500-vol-15-decathlete-collection.json](./98926-sega-ages-2500-vol-15-decathlete-collection.json) |
+| Sega Ages 2500 Vol. 20: Space Harrier Complete Collection | 140407 | [140407-sega-ages-2500-vol-20-space-harrier-complete-collection.json](./140407-sega-ages-2500-vol-20-space-harrier-complete-collection.json) |
 | Sega Ages 2500 Vol. 23: Sega Memorial Selection | 69883 | [69883-sega-ages-2500-vol-23-sega-memorial-selection.json](./69883-sega-ages-2500-vol-23-sega-memorial-selection.json) |
 | Sega Ages 2500 Vol. 28: Tetris Collection | 64898 | [64898-sega-ages-2500-vol-28-tetris-collection.json](./64898-sega-ages-2500-vol-28-tetris-collection.json) |
 | Sega Ages 2500 Vol. 29: Monster World Complete Collection | 78047 | [78047-sega-ages-2500-vol-29-monster-world-complete-collection.json](./78047-sega-ages-2500-vol-29-monster-world-complete-collection.json) |
@@ -3448,6 +3450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Remains | 372020 | [372020-sinister-remains.json](./372020-sinister-remains.json) |
 | Sinister Zombies | 95604 | [95604-sinister-zombies.json](./95604-sinister-zombies.json) |
 | Sinistrous | 153423 | [153423-sinistrous.json](./153423-sinistrous.json) |
+| Sink Again | 140383 | [140383-sink-again.json](./140383-sink-again.json) |
 | Sink and Score | 373658 | [373658-sink-and-score.json](./373658-sink-and-score.json) |
 | Sink Sub Pro | 379984 | [379984-sink-sub-pro.json](./379984-sink-sub-pro.json) |
 | Sink the Fish: Spy Kit | 282542 | [282542-sink-the-fish-spy-kit.json](./282542-sink-the-fish-spy-kit.json) |
@@ -4272,6 +4275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Games Puzzle Challenge 2 | 73256 | [73256-smart-games-puzzle-challenge-2.json](./73256-smart-games-puzzle-challenge-2.json) |
 | Smart Girl's Playhouse Mini | 21011 | [21011-smart-girls-playhouse-mini.json](./21011-smart-girls-playhouse-mini.json) |
 | Smart Moves Bundle | 218459 | [218459-smart-moves-bundle.json](./218459-smart-moves-bundle.json) |
+| Smart Puzzles Collection | 140398 | [140398-smart-puzzles-collection.json](./140398-smart-puzzles-collection.json) |
 | Smart Technology | 230266 | [230266-smart-technology.json](./230266-smart-technology.json) |
 | Smart Technology 2 | 230267 | [230267-smart-technology-2.json](./230267-smart-technology-2.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
@@ -5472,6 +5476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Unleashed | 133943 | [133943-sonic-unleashed.json](./133943-sonic-unleashed.json) |
 | Sonic Uprising | 318630 | [318630-sonic-uprising.json](./318630-sonic-uprising.json) |
 | Sonic Vex | 330520 | [330520-sonic-vex.json](./330520-sonic-vex.json) |
+| Sonic VS. Darkness: True Nightmare Revived | 140402 | [140402-sonic-vs-darkness-true-nightmare-revived.json](./140402-sonic-vs-darkness-true-nightmare-revived.json) |
 | Sonic Whirlwind | 326816 | [326816-sonic-whirlwind.json](./326816-sonic-whirlwind.json) |
 | Sonic Wild | 317612 | [317612-sonic-wild.json](./317612-sonic-wild.json) |
 | Sonic Wings Limited | 39693 | [39693-sonic-wings-limited.json](./39693-sonic-wings-limited.json) |
