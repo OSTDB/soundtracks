@@ -2800,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Sonic in Sonic the Hedgehog 2 | 129186 | [129186-metal-sonic-in-sonic-the-hedgehog-2.json](./129186-metal-sonic-in-sonic-the-hedgehog-2.json) |
 | Metal Sonic Rebooted | 129168 | [129168-metal-sonic-rebooted.json](./129168-metal-sonic-rebooted.json) |
 | Metal Suits: Counter-Attack | 217505 | [217505-metal-suits-counter-attack.json](./217505-metal-suits-counter-attack.json) |
+| Metal Swarm Infinity | 167680 | [167680-metal-swarm-infinity.json](./167680-metal-swarm-infinity.json) |
 | Metal Torrent | 67703 | [67703-metal-torrent.json](./67703-metal-torrent.json) |
 | Metal Walker | 49872 | [49872-metal-walker.json](./49872-metal-walker.json) |
 | Metal World: Street Scraps | 201145 | [201145-metal-world-street-scraps.json](./201145-metal-world-street-scraps.json) |
