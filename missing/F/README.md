@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Fire | 25616 | [25616-field-of-fire.json](./25616-field-of-fire.json) |
 | Field of Glory II | 65835 | [65835-field-of-glory-ii.json](./65835-field-of-glory-ii.json) |
 | Field of Glory II: Age of Belisarius | 124785 | [124785-field-of-glory-ii-age-of-belisarius.json](./124785-field-of-glory-ii-age-of-belisarius.json) |
+| Field of Glory II: Medieval - Reconquista | 148343 | [148343-field-of-glory-ii-medieval-reconquista.json](./148343-field-of-glory-ii-medieval-reconquista.json) |
 | Field of Glory II: Medieval - Storm of Arrows | 186898 | [186898-field-of-glory-ii-medieval-storm-of-arrows.json](./186898-field-of-glory-ii-medieval-storm-of-arrows.json) |
 | Field of Glory II: Medieval - Swords and Scimitars | 171617 | [171617-field-of-glory-ii-medieval-swords-and-scimitars.json](./171617-field-of-glory-ii-medieval-swords-and-scimitars.json) |
 | Field of Glory II: Rise of Persia | 124818 | [124818-field-of-glory-ii-rise-of-persia.json](./124818-field-of-glory-ii-rise-of-persia.json) |
@@ -2714,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fomalhaut Flowers | 159714 | [159714-fomalhaut-flowers.json](./159714-fomalhaut-flowers.json) |
 | Fono | 161336 | [161336-fono.json](./161336-fono.json) |
 | Fooaaahh! | 182451 | [182451-fooaaahh.json](./182451-fooaaahh.json) |
+| Food and Girls | 148363 | [148363-food-and-girls.json](./148363-food-and-girls.json) |
 | Food And Hotel Simulator Bundle: Road Cafe & Motel Business & Street Food | 399634 | [399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json](./399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json) |
 | Food Chain | 209464 | [209464-food-chain.json](./209464-food-chain.json) |
 | Food Chain | 369644 | [369644-food-chain.json](./369644-food-chain.json) |
@@ -2870,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For What Will Come | 213010 | [213010-for-what-will-come.json](./213010-for-what-will-come.json) |
 | For Whom The Bell Tolls | 260792 | [260792-for-whom-the-bell-tolls.json](./260792-for-whom-the-bell-tolls.json) |
 | For Whom the Stars Shine | 305918 | [305918-for-whom-the-stars-shine.json](./305918-for-whom-the-stars-shine.json) |
+| Forays into Norrendrin | 148391 | [148391-forays-into-norrendrin.json](./148391-forays-into-norrendrin.json) |
 | Forbidden City Journey | 240778 | [240778-forbidden-city-journey.json](./240778-forbidden-city-journey.json) |
 | Forbidden Compass | 404206 | [404206-forbidden-compass.json](./404206-forbidden-compass.json) |
 | Forbidden Dojo | 239737 | [239737-forbidden-dojo.json](./239737-forbidden-dojo.json) |
@@ -2961,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreverhood | 265739 | [265739-foreverhood.json](./265739-foreverhood.json) |
 | Foreverred | 142484 | [142484-foreverred.json](./142484-foreverred.json) |
 | Forevolution | 209709 | [209709-forevolution.json](./209709-forevolution.json) |
+| ForeVR Bowl | 148381 | [148381-forevr-bowl.json](./148381-forevr-bowl.json) |
 | ForeVR Cornhole | 214608 | [214608-forevr-cornhole.json](./214608-forevr-cornhole.json) |
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
 | Forge & Fortune | 264701 | [264701-forge-and-fortune.json](./264701-forge-and-fortune.json) |
@@ -3253,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Ways | 129702 | [129702-four-ways.json](./129702-four-ways.json) |
 | Four Ways: Block Puzzle | 131554 | [131554-four-ways-block-puzzle.json](./131554-four-ways-block-puzzle.json) |
 | Four Winds Mah Jong | 92985 | [92985-four-winds-mah-jong.json](./92985-four-winds-mah-jong.json) |
+| Four-Sight | 148359 | [148359-four-sight.json](./148359-four-sight.json) |
 | FourChords Guitar Karaoke | 26861 | [26861-fourchords-guitar-karaoke.json](./26861-fourchords-guitar-karaoke.json) |
 | Fourfit | 92983 | [92983-fourfit.json](./92983-fourfit.json) |
 | FourFourTwo Touchline Passion | 68711 | [68711-fourfourtwo-touchline-passion.json](./68711-fourfourtwo-touchline-passion.json) |
