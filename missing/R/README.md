@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Station | 132772 | [132772-radio-station.json](./132772-radio-station.json) |
 | Radio Violence | 110987 | [110987-radio-violence.json](./110987-radio-violence.json) |
 | Radio Viscera | 153438 | [153438-radio-viscera.json](./153438-radio-viscera.json) |
+| Radio.Signal | 176910 | [176910-radio-signal.json](./176910-radio-signal.json) |
 | Radioactive | 29757 | [29757-radioactive.json](./29757-radioactive.json) |
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
 | RadioWave | 301273 | [301273-radiowave.json](./301273-radiowave.json) |
@@ -720,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Ultimate | 193323 | [193323-rayman-ultimate.json](./193323-rayman-ultimate.json) |
 | RaynGames | 355087 | [355087-rayngames.json](./355087-rayngames.json) |
 | RayStorm | 45089 | [45089-raystorm.json](./45089-raystorm.json) |
+| Rayze | 176902 | [176902-rayze.json](./176902-rayze.json) |
 | Raze 2070 | 151193 | [151193-raze-2070.json](./151193-raze-2070.json) |
 | Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
@@ -3486,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuinsCity_VR | 30930 | [30930-ruinscity-vr.json](./30930-ruinscity-vr.json) |
 | Ruinsmagus: Complete | 265713 | [265713-ruinsmagus-complete.json](./265713-ruinsmagus-complete.json) |
 | Ruinsmagus: The Warrior and the Tailor | 265762 | [265762-ruinsmagus-the-warrior-and-the-tailor.json](./265762-ruinsmagus-the-warrior-and-the-tailor.json) |
+| Ruka | 176899 | [176899-ruka.json](./176899-ruka.json) |
 | Ruku's Heart Balloon | 222400 | [222400-rukus-heart-balloon.json](./222400-rukus-heart-balloon.json) |
 | Rule No. 2 | 199562 | [199562-rule-no-2.json](./199562-rule-no-2.json) |
 | Rule the Waves | 59943 | [59943-rule-the-waves.json](./59943-rule-the-waves.json) |
