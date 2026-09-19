@@ -2148,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nouen Hokkoriina | 335107 | [335107-nouen-hokkoriina.json](./335107-nouen-hokkoriina.json) |
 | Noukk | 197757 | [197757-noukk.json](./197757-noukk.json) |
 | Noumisou Journey | 274557 | [274557-noumisou-journey.json](./274557-noumisou-journey.json) |
+| Nour: Play with Your Food | 138619 | [138619-nour-play-with-your-food.json](./138619-nour-play-with-your-food.json) |
 | Nous | 142387 | [142387-nous.json](./142387-nous.json) |
 | Nous | 231094 | [231094-nous.json](./231094-nous.json) |
 | Nova Antarctica | 213605 | [213605-nova-antarctica.json](./213605-nova-antarctica.json) |
