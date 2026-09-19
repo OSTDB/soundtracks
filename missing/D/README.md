@@ -2841,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea Infinite | 21742 | [21742-disgaea-infinite.json](./21742-disgaea-infinite.json) |
 | Disgrace: When Our Beautiful World Disappears | 377707 | [377707-disgrace-when-our-beautiful-world-disappears.json](./377707-disgrace-when-our-beautiful-world-disappears.json) |
 | Disgraced Swordswoman Battle | 134605 | [134605-disgraced-swordswoman-battle.json](./134605-disgraced-swordswoman-battle.json) |
+| Disgraced: Trailblazer | 161730 | [161730-disgraced-trailblazer.json](./161730-disgraced-trailblazer.json) |
 | Disguised Blessing | 332991 | [332991-disguised-blessing.json](./332991-disguised-blessing.json) |
 | Dish Up Fruit | 302344 | [302344-dish-up-fruit.json](./302344-dish-up-fruit.json) |
 | Disharmonia | 199493 | [199493-disharmonia.json](./199493-disharmonia.json) |
@@ -3030,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divided | 94762 | [94762-divided.json](./94762-divided.json) |
 | Divided Kingdoms | 158206 | [158206-divided-kingdoms.json](./158206-divided-kingdoms.json) |
 | Divination | 339102 | [339102-divination.json](./339102-divination.json) |
+| Divine Ascent: Map Pack | 161752 | [161752-divine-ascent-map-pack.json](./161752-divine-ascent-map-pack.json) |
 | Divine Business: Fantasy Trading Simulator | 113744 | [113744-divine-business-fantasy-trading-simulator.json](./113744-divine-business-fantasy-trading-simulator.json) |
 | Divine D.I.V.A. | 117684 | [117684-divine-d-i-v-a.json](./117684-divine-d-i-v-a.json) |
 | Divine Doubt | 278707 | [278707-divine-doubt.json](./278707-divine-doubt.json) |
@@ -5371,6 +5373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarfs & Witch | 346088 | [346088-dwarfs-and-witch.json](./346088-dwarfs-and-witch.json) |
 | Dwarfs Descent | 350420 | [350420-dwarfs-descent.json](./350420-dwarfs-descent.json) |
 | Dwarfs F2P | 90631 | [90631-dwarfs-f2p.json](./90631-dwarfs-f2p.json) |
+| Dwarfs F2P: Skirmish Pack | 161779 | [161779-dwarfs-f2p-skirmish-pack.json](./161779-dwarfs-f2p-skirmish-pack.json) |
 | Dwarfs Fight | 224663 | [224663-dwarfs-fight.json](./224663-dwarfs-fight.json) |
 | Dwarrows | 25229 | [25229-dwarrows.json](./25229-dwarrows.json) |
 | Dwarven Alchemist | 382332 | [382332-dwarven-alchemist.json](./382332-dwarven-alchemist.json) |
