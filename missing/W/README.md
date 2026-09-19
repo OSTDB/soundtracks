@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Dance | 20580 | [20580-we-dance.json](./20580-we-dance.json) |
 | We don't die here | 212281 | [212281-we-dont-die-here.json](./212281-we-dont-die-here.json) |
 | We Dream Standing Up | 228097 | [228097-we-dream-standing-up.json](./228097-we-dream-standing-up.json) |
+| We Got Another Year | 177918 | [177918-we-got-another-year.json](./177918-we-got-another-year.json) |
 | We Gotta Go | 375823 | [375823-we-gotta-go.json](./375823-we-gotta-go.json) |
 | We Grew Up in War | 318776 | [318776-we-grew-up-in-war.json](./318776-we-grew-up-in-war.json) |
 | We Happy Restaurant | 319241 | [319241-we-happy-restaurant.json](./319241-we-happy-restaurant.json) |
@@ -1218,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Fuck is Richard? | 62777 | [62777-where-the-fuck-is-richard.json](./62777-where-the-fuck-is-richard.json) |
 | Where the Wild Things Are | 5278 | [5278-where-the-wild-things-are.json](./5278-where-the-wild-things-are.json) |
 | Where They Wait | 342081 | [342081-where-they-wait.json](./342081-where-they-wait.json) |
+| Where To? | 177937 | [177937-where-to.json](./177937-where-to.json) |
 | Where's an Egg? | 135870 | [135870-wheres-an-egg.json](./135870-wheres-an-egg.json) |
 | Where's Baby | 107932 | [107932-wheres-baby.json](./107932-wheres-baby.json) |
 | Where's Fido? | 278995 | [278995-wheres-fido.json](./278995-wheres-fido.json) |
