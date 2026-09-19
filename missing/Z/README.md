@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Age 3: Dead City | 312905 | [312905-zombie-age-3-dead-city.json](./312905-zombie-age-3-dead-city.json) |
 | Zombie Anarchy | 57088 | [57088-zombie-anarchy.json](./57088-zombie-anarchy.json) |
 | Zombie Ants VR | 250003 | [250003-zombie-ants-vr.json](./250003-zombie-ants-vr.json) |
+| Zombie Apocalypse | 147819 | [147819-zombie-apocalypse.json](./147819-zombie-apocalypse.json) |
 | Zombie Apocalypse 2021 | 154381 | [154381-zombie-apocalypse-2021.json](./154381-zombie-apocalypse-2021.json) |
 | Zombie Apocalypse Survivor | 99616 | [99616-zombie-apocalypse-survivor.json](./99616-zombie-apocalypse-survivor.json) |
 | Zombie Apocalypse: Escape the Undead City | 32359 | [32359-zombie-apocalypse-escape-the-undead-city.json](./32359-zombie-apocalypse-escape-the-undead-city.json) |
