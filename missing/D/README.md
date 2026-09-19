@@ -1542,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeepLight | 413729 | [413729-deeplight.json](./413729-deeplight.json) |
 | Deeply | 390113 | [390113-deeply.json](./390113-deeply.json) |
 | Deepmess | 285015 | [285015-deepmess.json](./285015-deepmess.json) |
+| Deepsea Salvor | 128375 | [128375-deepsea-salvor.json](./128375-deepsea-salvor.json) |
 | DeepSea Serenity: VR Underwater Trip | 288786 | [288786-deepsea-serenity-vr-underwater-trip.json](./288786-deepsea-serenity-vr-underwater-trip.json) |
 | DeepTrouble | 57629 | [57629-deeptrouble.json](./57629-deeptrouble.json) |
 | Deepward | 410958 | [410958-deepward.json](./410958-deepward.json) |
