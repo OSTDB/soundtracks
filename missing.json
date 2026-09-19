@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T15:02:34.417Z",
-  "total_missing": 92721,
+  "generated_at": "2026-09-19T15:17:41.686Z",
+  "total_missing": 92771,
   "games": [
     {
       "igdb_id": 176875,
@@ -2118,6 +2118,11 @@
       "file": "missing/0-9/52545-2dark-deluxe-edition.json"
     },
     {
+      "igdb_id": 147818,
+      "game_name": "2in1: Application Driver and Serial Killer / Sniper",
+      "file": "missing/0-9/147818-2in1-application-driver-and-serial-killer-sniper.json"
+    },
+    {
       "igdb_id": 319564,
       "game_name": "2K Games Pack",
       "file": "missing/0-9/319564-2k-games-pack.json"
@@ -3011,6 +3016,11 @@
       "igdb_id": 320371,
       "game_name": "4x4 Adventure Rocky Pathways",
       "file": "missing/0-9/320371-4x4-adventure-rocky-pathways.json"
+    },
+    {
+      "igdb_id": 147816,
+      "game_name": "4x4 Dirt Track",
+      "file": "missing/0-9/147816-4x4-dirt-track.json"
     },
     {
       "igdb_id": 89197,
@@ -3911,6 +3921,11 @@
       "igdb_id": 379457,
       "game_name": "A Cat named Gossamergoober",
       "file": "missing/A/379457-a-cat-named-gossamergoober.json"
+    },
+    {
+      "igdb_id": 147792,
+      "game_name": "A Ch'ti Bundle",
+      "file": "missing/A/147792-a-chti-bundle.json"
     },
     {
       "igdb_id": 379464,
@@ -17258,6 +17273,11 @@
       "file": "missing/A/173255-anti-franks-wrath.json"
     },
     {
+      "igdb_id": 147791,
+      "game_name": "Anti Hero Bundle",
+      "file": "missing/A/147791-anti-hero-bundle.json"
+    },
+    {
       "igdb_id": 116342,
       "game_name": "Anti Terrorist Rush 2",
       "file": "missing/A/116342-anti-terrorist-rush-2.json"
@@ -27878,6 +27898,11 @@
       "file": "missing/A/208034-ayakashi-rumble.json"
     },
     {
+      "igdb_id": 147817,
+      "game_name": "Ayakashi: Romance Reborn Dawn Chapter & Twilight Chapter",
+      "file": "missing/A/147817-ayakashi-romance-reborn-dawn-chapter-and-twilight-chapter.json"
+    },
+    {
       "igdb_id": 56521,
       "game_name": "Ayakashibito: Genyou Ibunroku",
       "file": "missing/A/56521-ayakashibito-genyou-ibunroku.json"
@@ -32376,6 +32401,11 @@
       "igdb_id": 154520,
       "game_name": "Barony: Legends & Pariahs",
       "file": "missing/B/154520-barony-legends-and-pariahs.json"
+    },
+    {
+      "igdb_id": 147807,
+      "game_name": "Baroque",
+      "file": "missing/B/147807-baroque.json"
     },
     {
       "igdb_id": 379959,
@@ -42376,6 +42406,11 @@
       "igdb_id": 172025,
       "game_name": "Blast Droids",
       "file": "missing/B/172025-blast-droids.json"
+    },
+    {
+      "igdb_id": 147809,
+      "game_name": "Blast Ensemble",
+      "file": "missing/B/147809-blast-ensemble.json"
     },
     {
       "igdb_id": 181216,
@@ -76928,6 +76963,11 @@
       "file": "missing/C/196811-cotton-games-new-game-bundle.json"
     },
     {
+      "igdb_id": 147796,
+      "game_name": "Couch Co-Op Bundle Vol. 2",
+      "file": "missing/C/147796-couch-co-op-bundle-vol-2.json"
+    },
+    {
       "igdb_id": 243795,
       "game_name": "Couch Co-Op: Urban Flow + Knights & Guns",
       "file": "missing/C/243795-couch-co-op-urban-flow-knights-and-guns.json"
@@ -95323,6 +95363,11 @@
       "file": "missing/D/282011-desktop-tourney-world.json"
     },
     {
+      "igdb_id": 147834,
+      "game_name": "Desktop Volleyball",
+      "file": "missing/D/147834-desktop-volleyball.json"
+    },
+    {
       "igdb_id": 377572,
       "game_name": "Desktop Waifu",
       "file": "missing/D/377572-desktop-waifu.json"
@@ -96141,6 +96186,11 @@
       "igdb_id": 239317,
       "game_name": "Detuned",
       "file": "missing/D/239317-detuned.json"
+    },
+    {
+      "igdb_id": 147833,
+      "game_name": "Deuces Wild: Video Poker",
+      "file": "missing/D/147833-deuces-wild-video-poker.json"
     },
     {
       "igdb_id": 10858,
@@ -101603,6 +101653,11 @@
       "file": "missing/D/227965-dogerift.json"
     },
     {
+      "igdb_id": 147831,
+      "game_name": "Dogfight",
+      "file": "missing/D/147831-dogfight.json"
+    },
+    {
       "igdb_id": 13599,
       "game_name": "Dogfight 2187",
       "file": "missing/D/13599-dogfight-2187.json"
@@ -101621,6 +101676,11 @@
       "igdb_id": 179161,
       "game_name": "Dogforce: Seasons",
       "file": "missing/D/179161-dogforce-seasons.json"
+    },
+    {
+      "igdb_id": 147785,
+      "game_name": "Doggie Ninja: The Burning Strikers",
+      "file": "missing/D/147785-doggie-ninja-the-burning-strikers.json"
     },
     {
       "igdb_id": 287098,
@@ -103528,6 +103588,11 @@
       "file": "missing/D/375303-doodle-farm-breeds-and-beasts.json"
     },
     {
+      "igdb_id": 147800,
+      "game_name": "Doodle Games Bundle",
+      "file": "missing/D/147800-doodle-games-bundle.json"
+    },
+    {
       "igdb_id": 18528,
       "game_name": "Doodle God",
       "file": "missing/D/18528-doodle-god.json"
@@ -104616,6 +104681,11 @@
       "igdb_id": 281501,
       "game_name": "Double Dragon",
       "file": "missing/D/281501-double-dragon.json"
+    },
+    {
+      "igdb_id": 147789,
+      "game_name": "Double Dragon & Kunio-kun: Retro Brawler Bundle",
+      "file": "missing/D/147789-double-dragon-and-kunio-kun-retro-brawler-bundle.json"
     },
     {
       "igdb_id": 46277,
@@ -107598,6 +107668,11 @@
       "file": "missing/D/184110-dreadwood.json"
     },
     {
+      "igdb_id": 147828,
+      "game_name": "Dream",
+      "file": "missing/D/147828-dream.json"
+    },
+    {
       "igdb_id": 292860,
       "game_name": "Dream \"ID\" Journey",
       "file": "missing/D/292860-dream-id-journey.json"
@@ -108211,6 +108286,11 @@
       "igdb_id": 208446,
       "game_name": "Dreamland: Village Life",
       "file": "missing/D/208446-dreamland-village-life.json"
+    },
+    {
+      "igdb_id": 147805,
+      "game_name": "Dreamlander",
+      "file": "missing/D/147805-dreamlander.json"
     },
     {
       "igdb_id": 320135,
@@ -138113,6 +138193,11 @@
       "file": "missing/F/164504-flying-hero-vr.json"
     },
     {
+      "igdb_id": 147812,
+      "game_name": "Flying Islands Games Bundle",
+      "file": "missing/F/147812-flying-islands-games-bundle.json"
+    },
+    {
       "igdb_id": 181237,
       "game_name": "Flying Kick",
       "file": "missing/F/181237-flying-kick.json"
@@ -155341,6 +155426,11 @@
       "igdb_id": 131528,
       "game_name": "Golf",
       "file": "missing/G/131528-golf.json"
+    },
+    {
+      "igdb_id": 147820,
+      "game_name": "Golf",
+      "file": "missing/G/147820-golf.json"
     },
     {
       "igdb_id": 282126,
@@ -177363,6 +177453,11 @@
       "file": "missing/H/214528-horror-break-head-to-head.json"
     },
     {
+      "igdb_id": 147795,
+      "game_name": "Horror Bundle Vol. 1",
+      "file": "missing/H/147795-horror-bundle-vol-1.json"
+    },
+    {
       "igdb_id": 247584,
       "game_name": "Horror Bundle: 3 in 1",
       "file": "missing/H/247584-horror-bundle-3-in-1.json"
@@ -186318,6 +186413,11 @@
       "file": "missing/I/414340-indie-bungle-2-breakout-indies.json"
     },
     {
+      "igdb_id": 147790,
+      "game_name": "Indie Darling Bundle Vol 2",
+      "file": "missing/I/147790-indie-darling-bundle-vol-2.json"
+    },
+    {
       "igdb_id": 118975,
       "game_name": "Indie Dream",
       "file": "missing/I/118975-indie-dream.json"
@@ -186326,6 +186426,16 @@
       "igdb_id": 26552,
       "game_name": "Indie Game Sim",
       "file": "missing/I/26552-indie-game-sim.json"
+    },
+    {
+      "igdb_id": 147802,
+      "game_name": "Indie Gems Bundle - Explosions Edition",
+      "file": "missing/I/147802-indie-gems-bundle-explosions-edition.json"
+    },
+    {
+      "igdb_id": 147794,
+      "game_name": "Indie Gems Bundle - Nonograms edition",
+      "file": "missing/I/147794-indie-gems-bundle-nonograms-edition.json"
     },
     {
       "igdb_id": 129805,
@@ -195453,6 +195563,11 @@
       "file": "missing/J/119738-johns-wizard-dungeon.json"
     },
     {
+      "igdb_id": 147821,
+      "game_name": "Johnny Bonasera: Full Season",
+      "file": "missing/J/147821-johnny-bonasera-full-season.json"
+    },
+    {
       "igdb_id": 188651,
       "game_name": "Johnny Boy: Red Moon's Kiss",
       "file": "missing/J/188651-johnny-boy-red-moons-kiss.json"
@@ -198416,6 +198531,11 @@
       "igdb_id": 286009,
       "game_name": "Kaiju Cracking Corp",
       "file": "missing/K/286009-kaiju-cracking-corp.json"
+    },
+    {
+      "igdb_id": 147814,
+      "game_name": "Kaiju Crush",
+      "file": "missing/K/147814-kaiju-crush.json"
     },
     {
       "igdb_id": 334192,
@@ -203663,6 +203783,11 @@
       "file": "missing/K/148357-kiss-ato.json"
     },
     {
+      "igdb_id": 147806,
+      "game_name": "Kiss Bell",
+      "file": "missing/K/147806-kiss-bell.json"
+    },
+    {
       "igdb_id": 235477,
       "game_name": "Kiss Effect",
       "file": "missing/K/235477-kiss-effect.json"
@@ -207866,6 +207991,11 @@
       "igdb_id": 146335,
       "game_name": "Laid-Back Camp: Have a nice day! - Limited Edition",
       "file": "missing/L/146335-laid-back-camp-have-a-nice-day-limited-edition.json"
+    },
+    {
+      "igdb_id": 147813,
+      "game_name": "Laid-Back Camp: Virtual - Fumoto Campsite",
+      "file": "missing/L/147813-laid-back-camp-virtual-fumoto-campsite.json"
     },
     {
       "igdb_id": 143719,
@@ -214881,6 +215011,11 @@
       "igdb_id": 115038,
       "game_name": "Lily of the Hollow",
       "file": "missing/L/115038-lily-of-the-hollow.json"
+    },
+    {
+      "igdb_id": 147829,
+      "game_name": "Lily of the Hollow: Resurrection",
+      "file": "missing/L/147829-lily-of-the-hollow-resurrection.json"
     },
     {
       "igdb_id": 338543,
@@ -240683,6 +240818,11 @@
       "file": "missing/M/195147-mini-pipes.json"
     },
     {
+      "igdb_id": 147784,
+      "game_name": "Mini Puzzle Balls",
+      "file": "missing/M/147784-mini-puzzle-balls.json"
+    },
+    {
       "igdb_id": 207852,
       "game_name": "Mini Quests",
       "file": "missing/M/207852-mini-quests.json"
@@ -252091,6 +252231,11 @@
       "igdb_id": 369656,
       "game_name": "My Hooptie",
       "file": "missing/M/369656-my-hooptie.json"
+    },
+    {
+      "igdb_id": 147823,
+      "game_name": "My Horse 3D: Best Friends",
+      "file": "missing/M/147823-my-horse-3d-best-friends.json"
     },
     {
       "igdb_id": 206774,
@@ -273103,6 +273248,11 @@
       "file": "missing/O/222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json"
     },
     {
+      "igdb_id": 147824,
+      "game_name": "Osyaberi! Puzzle Chigatan: Spot the Differences with Everyone",
+      "file": "missing/O/147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json"
+    },
+    {
       "igdb_id": 333067,
       "game_name": "Otaku Miracles",
       "file": "missing/O/333067-otaku-miracles.json"
@@ -276606,6 +276756,11 @@
       "igdb_id": 339925,
       "game_name": "Pako 4",
       "file": "missing/P/339925-pako-4.json"
+    },
+    {
+      "igdb_id": 147830,
+      "game_name": "Pako Caravan",
+      "file": "missing/P/147830-pako-caravan.json"
     },
     {
       "igdb_id": 212448,
@@ -281388,6 +281543,11 @@
       "file": "missing/P/63729-pembrey.json"
     },
     {
+      "igdb_id": 147799,
+      "game_name": "Pen and Paper Games Bundle",
+      "file": "missing/P/147799-pen-and-paper-games-bundle.json"
+    },
+    {
       "igdb_id": 233760,
       "game_name": "Pen Fight",
       "file": "missing/P/233760-pen-fight.json"
@@ -284383,6 +284543,11 @@
       "file": "missing/P/321125-pick-me-pick-me.json"
     },
     {
+      "igdb_id": 147822,
+      "game_name": "Pick me up! Rescue Rangers",
+      "file": "missing/P/147822-pick-me-up-rescue-rangers.json"
+    },
+    {
       "igdb_id": 349293,
       "game_name": "Pick me! Visual Novel",
       "file": "missing/P/349293-pick-me-visual-novel.json"
@@ -284736,6 +284901,11 @@
       "igdb_id": 114419,
       "game_name": "Piczle Colors",
       "file": "missing/P/114419-piczle-colors.json"
+    },
+    {
+      "igdb_id": 147788,
+      "game_name": "Piczle Lines DX Bundle",
+      "file": "missing/P/147788-piczle-lines-dx-bundle.json"
     },
     {
       "igdb_id": 145690,
@@ -294528,6 +294698,16 @@
       "file": "missing/P/295558-power-quest-survivors.json"
     },
     {
+      "igdb_id": 147786,
+      "game_name": "Power Racing Bundle",
+      "file": "missing/P/147786-power-racing-bundle.json"
+    },
+    {
+      "igdb_id": 147787,
+      "game_name": "Power Racing Bundle 2",
+      "file": "missing/P/147787-power-racing-bundle-2.json"
+    },
+    {
       "igdb_id": 152353,
       "game_name": "Power Racing Bundle 3",
       "file": "missing/P/152353-power-racing-bundle-3.json"
@@ -301103,6 +301283,11 @@
       "file": "missing/P/335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json"
     },
     {
+      "igdb_id": 147804,
+      "game_name": "Puzzle Bundle: 3 in 1",
+      "file": "missing/P/147804-puzzle-bundle-3-in-1.json"
+    },
+    {
       "igdb_id": 223561,
       "game_name": "Puzzle by Nikoli S Akari",
       "file": "missing/P/223561-puzzle-by-nikoli-s-akari.json"
@@ -305478,6 +305663,11 @@
       "file": "missing/R/318410-rail-heist.json"
     },
     {
+      "igdb_id": 147810,
+      "game_name": "Rail of Möbius",
+      "file": "missing/R/147810-rail-of-mobius.json"
+    },
+    {
       "igdb_id": 174215,
       "game_name": "Rail Racing",
       "file": "missing/R/174215-rail-racing.json"
@@ -308986,6 +309176,11 @@
       "igdb_id": 297616,
       "game_name": "Rebirth of Myths: Dragonborn",
       "file": "missing/R/297616-rebirth-of-myths-dragonborn.json"
+    },
+    {
+      "igdb_id": 147808,
+      "game_name": "Rebirth RC",
+      "file": "missing/R/147808-rebirth-rc.json"
     },
     {
       "igdb_id": 189122,
@@ -317628,6 +317823,21 @@
       "file": "missing/R/265215-rocher-no-nagai-yoru.json"
     },
     {
+      "igdb_id": 147793,
+      "game_name": "Rock 'N Racing Bundle Grand Prix & Rally",
+      "file": "missing/R/147793-rock-n-racing-bundle-grand-prix-and-rally.json"
+    },
+    {
+      "igdb_id": 147797,
+      "game_name": "Rock 'N Racing Bundle Off Road & Grand Prix",
+      "file": "missing/R/147797-rock-n-racing-bundle-off-road-and-grand-prix.json"
+    },
+    {
+      "igdb_id": 147798,
+      "game_name": "Rock 'N Racing Bundle Off Road & Rally",
+      "file": "missing/R/147798-rock-n-racing-bundle-off-road-and-rally.json"
+    },
+    {
       "igdb_id": 90647,
       "game_name": "Rock 'N Roll",
       "file": "missing/R/90647-rock-n-roll.json"
@@ -319661,6 +319871,11 @@
       "igdb_id": 164502,
       "game_name": "Romance of the Three Kingdoms XIII: Zhuge Liang's Northern Campaign Event Set",
       "file": "missing/R/164502-romance-of-the-three-kingdoms-xiii-zhuge-liangs-northern-campaign-event-set.json"
+    },
+    {
+      "igdb_id": 147803,
+      "game_name": "Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack Bundle",
+      "file": "missing/R/147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json"
     },
     {
       "igdb_id": 164500,
@@ -346603,6 +346818,11 @@
       "file": "missing/S/376566-snow.json"
     },
     {
+      "igdb_id": 147827,
+      "game_name": "Snowball",
+      "file": "missing/S/147827-snowball.json"
+    },
+    {
       "igdb_id": 239632,
       "game_name": "SnowBall Champions",
       "file": "missing/S/239632-snowball-champions.json"
@@ -348176,6 +348396,11 @@
       "igdb_id": 406122,
       "game_name": "Solitaire Deck",
       "file": "missing/S/406122-solitaire-deck.json"
+    },
+    {
+      "igdb_id": 147801,
+      "game_name": "Solitaire Deluxe Bundle: 3 in 1",
+      "file": "missing/S/147801-solitaire-deluxe-bundle-3-in-1.json"
     },
     {
       "igdb_id": 146916,
@@ -381623,6 +381848,11 @@
       "file": "missing/T/119790-tank-nova.json"
     },
     {
+      "igdb_id": 147811,
+      "game_name": "Tank Onslaught",
+      "file": "missing/T/147811-tank-onslaught.json"
+    },
+    {
       "igdb_id": 61065,
       "game_name": "Tank Riders",
       "file": "missing/T/61065-tank-riders.json"
@@ -407236,6 +407466,11 @@
       "igdb_id": 239539,
       "game_name": "The Warfstache Clicker",
       "file": "missing/T/239539-the-warfstache-clicker.json"
+    },
+    {
+      "igdb_id": 147832,
+      "game_name": "The Warlock of Firetop Mountain: Goblin Scourge Edition!",
+      "file": "missing/T/147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json"
     },
     {
       "igdb_id": 351641,
@@ -435443,6 +435678,11 @@
       "file": "missing/V/212914-valete-vos-viatores.json"
     },
     {
+      "igdb_id": 147826,
+      "game_name": "Valfaris & Slain Double Pack",
+      "file": "missing/V/147826-valfaris-and-slain-double-pack.json"
+    },
+    {
       "igdb_id": 154523,
       "game_name": "Valfaris: Digital Deluxe Edition",
       "file": "missing/V/154523-valfaris-digital-deluxe-edition.json"
@@ -457543,6 +457783,11 @@
       "file": "missing/Y/242571-yello-adventures.json"
     },
     {
+      "igdb_id": 147815,
+      "game_name": "Yellow Fins",
+      "file": "missing/Y/147815-yellow-fins.json"
+    },
+    {
       "igdb_id": 89574,
       "game_name": "Yellow Fins HD",
       "file": "missing/Y/89574-yellow-fins-hd.json"
@@ -462046,6 +462291,11 @@
       "igdb_id": 250003,
       "game_name": "Zombie Ants VR",
       "file": "missing/Z/250003-zombie-ants-vr.json"
+    },
+    {
+      "igdb_id": 147819,
+      "game_name": "Zombie Apocalypse",
+      "file": "missing/Z/147819-zombie-apocalypse.json"
     },
     {
       "igdb_id": 154381,
