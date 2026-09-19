@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xuan-Yuan Sword | 93064 | [93064-xuan-yuan-sword.json](./93064-xuan-yuan-sword.json) |
 | Xuan-Yuan Sword 5: A Sword Above the Clouds and the Sentiments of the World of Shanhai | 78050 | [78050-xuan-yuan-sword-5-a-sword-above-the-clouds-and-the-sentiments-of-the-world-of-shanhai.json](./78050-xuan-yuan-sword-5-a-sword-above-the-clouds-and-the-sentiments-of-the-world-of-shanhai.json) |
 | Xuan-Yuan Sword 6: The Phoenix Soars in the Sky among Millennial Clouds | 126039 | [126039-xuan-yuan-sword-6-the-phoenix-soars-in-the-sky-among-millennial-clouds.json](./126039-xuan-yuan-sword-6-the-phoenix-soars-in-the-sky-among-millennial-clouds.json) |
+| Xuan-Yuan Sword VII: Limited Edition | 167135 | [167135-xuan-yuan-sword-vii-limited-edition.json](./167135-xuan-yuan-sword-vii-limited-edition.json) |
 | Xuan-Yuan Sword: Dance of the Maple Leaves | 78056 | [78056-xuan-yuan-sword-dance-of-the-maple-leaves.json](./78056-xuan-yuan-sword-dance-of-the-maple-leaves.json) |
 | Xuan-Yuan Sword: Mists Beyond the Mountains | 336910 | [336910-xuan-yuan-sword-mists-beyond-the-mountains.json](./336910-xuan-yuan-sword-mists-beyond-the-mountains.json) |
 | Xuan-Yuan Sword: Mists Beyond the Mountains -1999 Origin Version | 336911 | [336911-xuan-yuan-sword-mists-beyond-the-mountains-1999-origin-version.json](./336911-xuan-yuan-sword-mists-beyond-the-mountains-1999-origin-version.json) |
