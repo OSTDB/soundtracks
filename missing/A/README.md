@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absin | 165505 | [165505-absin.json](./165505-absin.json) |
 | Absinth | 68905 | [68905-absinth.json](./68905-absinth.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
+| Absolute Alchemical Potion | 158555 | [158555-absolute-alchemical-potion.json](./158555-absolute-alchemical-potion.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
@@ -2842,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo 13 | 199021 | [199021-apollo-13.json](./199021-apollo-13.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
 | Apollo LM | 174288 | [174288-apollo-lm.json](./174288-apollo-lm.json) |
+| Apollo Lunar Mission | 158571 | [158571-apollo-lunar-mission.json](./158571-apollo-lunar-mission.json) |
 | Apophis | 136490 | [136490-apophis.json](./136490-apophis.json) |
 | Apopia: Sugar Coated Tale | 392258 | [392258-apopia-sugar-coated-tale.json](./392258-apopia-sugar-coated-tale.json) |
 | Apoptosis | 383386 | [383386-apoptosis.json](./383386-apoptosis.json) |
@@ -4691,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening Automata | 174766 | [174766-awakening-automata.json](./174766-awakening-automata.json) |
 | Awakening of Heroes | 61561 | [61561-awakening-of-heroes.json](./61561-awakening-of-heroes.json) |
 | Awakening Sarah | 255727 | [255727-awakening-sarah.json](./255727-awakening-sarah.json) |
+| Awakening the Light | 158553 | [158553-awakening-the-light.json](./158553-awakening-the-light.json) |
 | Awakening: The Dreamless Castle | 66087 | [66087-awakening-the-dreamless-castle.json](./66087-awakening-the-dreamless-castle.json) |
 | Awakening: The Redleaf Forest & Awakening: The Golden Age | 201814 | [201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json](./201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json) |
 | Awakening: The Skyward Castle | 63287 | [63287-awakening-the-skyward-castle.json](./63287-awakening-the-skyward-castle.json) |
@@ -4740,6 +4743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axial Disc 2 | 217408 | [217408-axial-disc-2.json](./217408-axial-disc-2.json) |
 | Axie Infinity | 109024 | [109024-axie-infinity.json](./109024-axie-infinity.json) |
 | Axiom | 234347 | [234347-axiom.json](./234347-axiom.json) |
+| Axiom Alternative | 158589 | [158589-axiom-alternative.json](./158589-axiom-alternative.json) |
 | Axiom of Echoes: Proof Refactor | 408045 | [408045-axiom-of-echoes-proof-refactor.json](./408045-axiom-of-echoes-proof-refactor.json) |
 | Axiom Verge 1 & 2 Double Pack | 172714 | [172714-axiom-verge-1-and-2-double-pack.json](./172714-axiom-verge-1-and-2-double-pack.json) |
 | Axiom Verge: Multiverse Edition | 75864 | [75864-axiom-verge-multiverse-edition.json](./75864-axiom-verge-multiverse-edition.json) |
