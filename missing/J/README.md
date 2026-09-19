@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumbline 2 | 86729 | [86729-jumbline-2.json](./86729-jumbline-2.json) |
 | Jumbo Pumbo | 341471 | [341471-jumbo-pumbo.json](./341471-jumbo-pumbo.json) |
 | Jumfrog | 318762 | [318762-jumfrog.json](./318762-jumfrog.json) |
+| Jump | 152140 | [152140-jump.json](./152140-jump.json) |
 | Jump | 272304 | [272304-jump.json](./272304-jump.json) |
 | Jump 1/2 | 215761 | [215761-jump-1-2.json](./215761-jump-1-2.json) |
 | Jump Among Stars | 211828 | [211828-jump-among-stars.json](./211828-jump-among-stars.json) |
