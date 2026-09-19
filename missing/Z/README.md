@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zekkyo Senshi Sakebrain | 72648 | [72648-zekkyo-senshi-sakebrain.json](./72648-zekkyo-senshi-sakebrain.json) |
 | Zelda | 152362 | [152362-zelda.json](./152362-zelda.json) |
 | Zelda 1 / Metroid 1 Combo Randomizer | 152749 | [152749-zelda-1-metroid-1-combo-randomizer.json](./152749-zelda-1-metroid-1-combo-randomizer.json) |
+| Zelda 64: Dawn & Dusk | 132646 | [132646-zelda-64-dawn-and-dusk.json](./132646-zelda-64-dawn-and-dusk.json) |
 | Zelda 64: Recompiled | 300982 | [300982-zelda-64-recompiled.json](./300982-zelda-64-recompiled.json) |
 | Zelda II: Boss Endurance | 280757 | [280757-zelda-ii-boss-endurance.json](./280757-zelda-ii-boss-endurance.json) |
 | Zelda II: Paracosm | 305342 | [305342-zelda-ii-paracosm.json](./305342-zelda-ii-paracosm.json) |
