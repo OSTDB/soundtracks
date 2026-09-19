@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.I.S.K. | 55184 | [55184-r-i-s-k.json](./55184-r-i-s-k.json) |
 | R.O.V.E.R. | 401624 | [401624-r-o-v-e-r.json](./401624-r-o-v-e-r.json) |
 | R.P.G | 234326 | [234326-r-p-g.json](./234326-r-p-g.json) |
+| R.T.O. Tales of the Dark Lands: Deluxe Edition | 157560 | [157560-r-t-o-tales-of-the-dark-lands-deluxe-edition.json](./157560-r-t-o-tales-of-the-dark-lands-deluxe-edition.json) |
 | R.U.R.U.R.: Petit Prince | 59363 | [59363-r-u-r-u-r-petit-prince.json](./59363-r-u-r-u-r-petit-prince.json) |
 | R/A\W | 341548 | [341548-r-a-w.json](./341548-r-a-w.json) |
 | R/C Sports: Copter Challenge | 202927 | [202927-r-c-sports-copter-challenge.json](./202927-r-c-sports-copter-challenge.json) |
@@ -1310,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refind Self: The Personality Test Game | 265960 | [265960-refind-self-the-personality-test-game.json](./265960-refind-self-the-personality-test-game.json) |
 | Refinery | 225633 | [225633-refinery.json](./225633-refinery.json) |
 | Reflect World | 41391 | [41391-reflect-world.json](./41391-reflect-world.json) |
+| Reflect-on | 157569 | [157569-reflect-on.json](./157569-reflect-on.json) |
 | Reflected | 163398 | [163398-reflected.json](./163398-reflected.json) |
 | Reflectile | 247546 | [247546-reflectile.json](./247546-reflectile.json) |
 | Reflection | 201694 | [201694-reflection.json](./201694-reflection.json) |
@@ -3729,6 +3731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rupupu Cube: Lup Salad | 66137 | [66137-rupupu-cube-lup-salad.json](./66137-rupupu-cube-lup-salad.json) |
 | Rural Nightmare | 272007 | [272007-rural-nightmare.json](./272007-rural-nightmare.json) |
 | Ruriiro Days: Heavenly Blue | 221242 | [221242-ruriiro-days-heavenly-blue.json](./221242-ruriiro-days-heavenly-blue.json) |
+| Rurizakura | 157566 | [157566-rurizakura.json](./157566-rurizakura.json) |
 | Ruruli Ra Rura | 45950 | [45950-ruruli-ra-rura.json](./45950-ruruli-ra-rura.json) |
 | Rush | 131541 | [131541-rush.json](./131541-rush.json) |
 | Rush | 200584 | [200584-rush.json](./200584-rush.json) |
