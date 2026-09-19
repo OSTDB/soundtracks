@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Love: Bitter Awakening | 187951 | [187951-immortal-love-bitter-awakening.json](./187951-immortal-love-bitter-awakening.json) |
 | Immortal Love: Letter from the Past | 53222 | [53222-immortal-love-letter-from-the-past.json](./53222-immortal-love-letter-from-the-past.json) |
 | Immortal Love: Sparkle of Talent | 187956 | [187956-immortal-love-sparkle-of-talent.json](./187956-immortal-love-sparkle-of-talent.json) |
+| Immortal Love: Stone Beauty - Collector's Edition | 130156 | [130156-immortal-love-stone-beauty-collectors-edition.json](./130156-immortal-love-stone-beauty-collectors-edition.json) |
 | Immortal Magus | 344360 | [344360-immortal-magus.json](./344360-immortal-magus.json) |
 | Immortal Realms: Vampire Wars | 119258 | [119258-immortal-realms-vampire-wars.json](./119258-immortal-realms-vampire-wars.json) |
 | Immortal Realms: Vampire Wars - Fangs and Bones | 238480 | [238480-immortal-realms-vampire-wars-fangs-and-bones.json](./238480-immortal-realms-vampire-wars-fangs-and-bones.json) |
@@ -1074,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infection Crisis: Fight For Life | 270134 | [270134-infection-crisis-fight-for-life.json](./270134-infection-crisis-fight-for-life.json) |
 | Infection Inspection | 368026 | [368026-infection-inspection.json](./368026-infection-inspection.json) |
 | Infection of the dead | 107274 | [107274-infection-of-the-dead.json](./107274-infection-of-the-dead.json) |
+| Infection Outbreak | 130174 | [130174-infection-outbreak.json](./130174-infection-outbreak.json) |
 | Infection X | 260417 | [260417-infection-x.json](./260417-infection-x.json) |
 | Infection: Board Game | 147906 | [147906-infection-board-game.json](./147906-infection-board-game.json) |
 | Infecto | 89934 | [89934-infecto.json](./89934-infecto.json) |
@@ -1105,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernum Bound | 337094 | [337094-infernum-bound.json](./337094-infernum-bound.json) |
 | Infestation | 9119 | [9119-infestation.json](./9119-infestation.json) |
 | Infestation | 9486 | [9486-infestation.json](./9486-infestation.json) |
+| Infestation: Battle Royale | 130205 | [130205-infestation-battle-royale.json](./130205-infestation-battle-royale.json) |
 | Infestation: Origins | 281398 | [281398-infestation-origins.json](./281398-infestation-origins.json) |
 | Infested Planet: Planetary Campaign | 53231 | [53231-infested-planet-planetary-campaign.json](./53231-infested-planet-planetary-campaign.json) |
 | Infested: Space Colony | 148929 | [148929-infested-space-colony.json](./148929-infested-space-colony.json) |
