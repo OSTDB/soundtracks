@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrity Slot Machine | 242550 | [242550-celebrity-slot-machine.json](./242550-celebrity-slot-machine.json) |
 | Celestarium | 226300 | [226300-celestarium.json](./226300-celestarium.json) |
 | Celeste Classic | 215762 | [215762-celeste-classic.json](./215762-celeste-classic.json) |
+| Celeste Classic 2: Lani's Trek | 142841 | [142841-celeste-classic-2-lanis-trek.json](./142841-celeste-classic-2-lanis-trek.json) |
 | Celeste Fusion Collab | 358282 | [358282-celeste-fusion-collab.json](./358282-celeste-fusion-collab.json) |
 | Celestia | 183432 | [183432-celestia.json](./183432-celestia.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
@@ -2093,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Fishing | 337457 | [337457-chill-fishing.json](./337457-chill-fishing.json) |
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
 | Chill Out | 413050 | [413050-chill-out.json](./413050-chill-out.json) |
+| Chill Panda | 142837 | [142837-chill-panda.json](./142837-chill-panda.json) |
 | Chill Pill | 185513 | [185513-chill-pill.json](./185513-chill-pill.json) |
 | Chill Planet | 376595 | [376595-chill-planet.json](./376595-chill-planet.json) |
 | Chill Seekers | 267108 | [267108-chill-seekers.json](./267108-chill-seekers.json) |
@@ -4902,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creative Kill Chamber | 235240 | [235240-creative-kill-chamber.json](./235240-creative-kill-chamber.json) |
 | Creative Kill Chamber 2 | 316092 | [316092-creative-kill-chamber-2.json](./316092-creative-kill-chamber-2.json) |
 | Creative Reader: The Jungle Book | 327870 | [327870-creative-reader-the-jungle-book.json](./327870-creative-reader-the-jungle-book.json) |
+| Creative Runner | 142870 | [142870-creative-runner.json](./142870-creative-runner.json) |
 | Creativerse | 17112 | [17112-creativerse.json](./17112-creativerse.json) |
 | Creator of Another World | 294167 | [294167-creator-of-another-world.json](./294167-creator-of-another-world.json) |
 | Creator's Asteroid | 191191 | [191191-creators-asteroid.json](./191191-creators-asteroid.json) |
@@ -5890,6 +5893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyan's Snow House | 289446 | [289446-cyans-snow-house.json](./289446-cyans-snow-house.json) |
 | Cyanide & Happiness: Freakpocalypse - Episode 1 | 147983 | [147983-cyanide-and-happiness-freakpocalypse-episode-1.json](./147983-cyanide-and-happiness-freakpocalypse-episode-1.json) |
 | CybArena | 326244 | [326244-cybarena.json](./326244-cybarena.json) |
+| Cybel | 142887 | [142887-cybel.json](./142887-cybel.json) |
 | Cyber | 185031 | [185031-cyber.json](./185031-cyber.json) |
 | Cyber Agent | 132200 | [132200-cyber-agent.json](./132200-cyber-agent.json) |
 | Cyber Attack | 157205 | [157205-cyber-attack.json](./157205-cyber-attack.json) |
