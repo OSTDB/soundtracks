@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle.io | 240338 | [240338-beetle-io.json](./240338-beetle-io.json) |
 | Beetlenaut | 62197 | [62197-beetlenaut.json](./62197-beetlenaut.json) |
 | BeetleQuest 2023 | 271289 | [271289-beetlequest-2023.json](./271289-beetlequest-2023.json) |
+| Beetles | 163819 | [163819-beetles.json](./163819-beetles.json) |
 | Befabled | 183477 | [183477-befabled.json](./183477-befabled.json) |
 | Before | 380013 | [380013-before.json](./380013-before.json) |
 | Before Exit: Gas Station - Daylight DLC | 378305 | [378305-before-exit-gas-station-daylight-dlc.json](./378305-before-exit-gas-station-daylight-dlc.json) |
@@ -2057,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Chiron Gate | 205085 | [205085-beyond-the-chiron-gate.json](./205085-beyond-the-chiron-gate.json) |
 | Beyond the Curtain | 392280 | [392280-beyond-the-curtain.json](./392280-beyond-the-curtain.json) |
 | Beyond the Deep | 225259 | [225259-beyond-the-deep.json](./225259-beyond-the-deep.json) |
+| Beyond the Diorama: Caribou World | 163810 | [163810-beyond-the-diorama-caribou-world.json](./163810-beyond-the-diorama-caribou-world.json) |
 | Beyond the Doors | 380009 | [380009-beyond-the-doors.json](./380009-beyond-the-doors.json) |
 | Beyond the Evil | 161365 | [161365-beyond-the-evil.json](./161365-beyond-the-evil.json) |
 | Beyond the Eyes | 392264 | [392264-beyond-the-eyes.json](./392264-beyond-the-eyes.json) |
@@ -2119,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bienvenue à la cosy académie | 129135 | [129135-bienvenue-a-la-cosy-academie.json](./129135-bienvenue-a-la-cosy-academie.json) |
 | Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
 | Bifrost: Heroes of Midgard | 197340 | [197340-bifrost-heroes-of-midgard.json](./197340-bifrost-heroes-of-midgard.json) |
+| Big Adventure of Fighting Chicken | 163848 | [163848-big-adventure-of-fighting-chicken.json](./163848-big-adventure-of-fighting-chicken.json) |
 | Big Adventure: Trip to Europe | 237359 | [237359-big-adventure-trip-to-europe.json](./237359-big-adventure-trip-to-europe.json) |
 | Big Adventure: Trip to Europe 10 - Collector's Edition | 338699 | [338699-big-adventure-trip-to-europe-10-collectors-edition.json](./338699-big-adventure-trip-to-europe-10-collectors-edition.json) |
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
@@ -2513,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Pit | 176429 | [176429-bit-pit.json](./176429-bit-pit.json) |
 | Bit-Cremental: Fishistry | 325629 | [325629-bit-cremental-fishistry.json](./325629-bit-cremental-fishistry.json) |
 | Bit.Trip Core | 15280 | [15280-bit-trip-core.json](./15280-bit-trip-core.json) |
+| BitBattle | 163809 | [163809-bitbattle.json](./163809-bitbattle.json) |
 | BitBreaker | 97927 | [97927-bitbreaker.json](./97927-bitbreaker.json) |
 | BitBug | 181315 | [181315-bitbug.json](./181315-bitbug.json) |
 | Bitch Hell | 197891 | [197891-bitch-hell.json](./197891-bitch-hell.json) |
@@ -3795,6 +3799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomy the Cat | 58784 | [58784-boomy-the-cat.json](./58784-boomy-the-cat.json) |
 | Boon Blast | 86779 | [86779-boon-blast.json](./86779-boon-blast.json) |
 | Boon Boon | 119691 | [119691-boon-boon.json](./119691-boon-boon.json) |
+| Booooooooooooooounce | 163817 | [163817-booooooooooooooounce.json](./163817-booooooooooooooounce.json) |
 | Booox | 410222 | [410222-booox.json](./410222-booox.json) |
 | Boopa Zap | 93550 | [93550-boopa-zap.json](./93550-boopa-zap.json) |
 | Booper, Get Home! | 38949 | [38949-booper-get-home.json](./38949-booper-get-home.json) |
