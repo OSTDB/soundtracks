@@ -2516,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Quickie | 310754 | [310754-memory-quickie.json](./310754-memory-quickie.json) |
 | Memory Recoil | 338793 | [338793-memory-recoil.json](./338793-memory-recoil.json) |
 | Memory Shake | 341465 | [341465-memory-shake.json](./341465-memory-shake.json) |
+| Memory Stamps | 174223 | [174223-memory-stamps.json](./174223-memory-stamps.json) |
 | Memory Train | 412986 | [412986-memory-train.json](./412986-memory-train.json) |
 | Memory Wonderland: Bond | 259083 | [259083-memory-wonderland-bond.json](./259083-memory-wonderland-bond.json) |
 | Memory: Unlocked | 264124 | [264124-memory-unlocked.json](./264124-memory-unlocked.json) |
