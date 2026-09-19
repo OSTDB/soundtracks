@@ -4590,6 +4590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project; Virai: Doomer's Life Escape | 342758 | [342758-project-virai-doomers-life-escape.json](./342758-project-virai-doomers-life-escape.json) |
 | Project: Aftershock | 390126 | [390126-project-aftershock.json](./390126-project-aftershock.json) |
 | Project: Another Use - Graftage | 374080 | [374080-project-another-use-graftage.json](./374080-project-another-use-graftage.json) |
+| Project: Aurora | 155503 | [155503-project-aurora.json](./155503-project-aurora.json) |
 | Project: Bits | 29741 | [29741-project-bits.json](./29741-project-bits.json) |
 | Project: Catalepsy | 395571 | [395571-project-catalepsy.json](./395571-project-catalepsy.json) |
 | Project: Dream | 220658 | [220658-project-dream.json](./220658-project-dream.json) |
