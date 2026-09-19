@@ -3410,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minebuilder | 86893 | [86893-minebuilder.json](./86893-minebuilder.json) |
 | MineCart - 3D Mine Cart Game for MineCraft | 86692 | [86692-minecart-3d-mine-cart-game-for-minecraft.json](./86692-minecart-3d-mine-cart-game-for-minecraft.json) |
 | Minecart Madness | 188687 | [188687-minecart-madness.json](./188687-minecart-madness.json) |
+| MineClicker | 180121 | [180121-mineclicker.json](./180121-mineclicker.json) |
 | Minecraft 4k | 238607 | [238607-minecraft-4k.json](./238607-minecraft-4k.json) |
 | Minecraft Blast | 377668 | [377668-minecraft-blast.json](./377668-minecraft-blast.json) |
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
@@ -3501,6 +3502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner 2049er | 345480 | [345480-miner-2049er.json](./345480-miner-2049er.json) |
 | Miner Clicker | 291477 | [291477-miner-clicker.json](./291477-miner-clicker.json) |
 | Miner Man | 391215 | [391215-miner-man.json](./391215-miner-man.json) |
+| Miner Problem | 180117 | [180117-miner-problem.json](./180117-miner-problem.json) |
 | Miner Rogue | 290391 | [290391-miner-rogue.json](./290391-miner-rogue.json) |
 | Miner Rush | 201799 | [201799-miner-rush.json](./201799-miner-rush.json) |
 | Miner Ultra Rag Smash | 163918 | [163918-miner-ultra-rag-smash.json](./163918-miner-ultra-rag-smash.json) |
