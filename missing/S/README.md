@@ -4632,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow! | 180771 | [180771-snow.json](./180771-snow.json) |
 | Snow! | 376566 | [376566-snow.json](./376566-snow.json) |
 | Snowball | 147827 | [147827-snowball.json](./147827-snowball.json) |
+| Snowball Bustout | 146737 | [146737-snowball-bustout.json](./146737-snowball-bustout.json) |
 | SnowBall Champions | 239632 | [239632-snowball-champions.json](./239632-snowball-champions.json) |
 | Snowball Fall Down | 208622 | [208622-snowball-fall-down.json](./208622-snowball-fall-down.json) |
 | Snowball Fight | 397795 | [397795-snowball-fight.json](./397795-snowball-fight.json) |
@@ -8823,6 +8824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subwar 2050 | 39038 | [39038-subwar-2050.json](./39038-subwar-2050.json) |
 | Subwar 2050 Complete | 51935 | [51935-subwar-2050-complete.json](./51935-subwar-2050-complete.json) |
 | Subway Adventure | 135861 | [135861-subway-adventure.json](./135861-subway-adventure.json) |
+| Subway Clash 2 | 146715 | [146715-subway-clash-2.json](./146715-subway-clash-2.json) |
 | Subway Exorcist Girl | 329389 | [329389-subway-exorcist-girl.json](./329389-subway-exorcist-girl.json) |
 | Subway Invasion | 353969 | [353969-subway-invasion.json](./353969-subway-invasion.json) |
 | Subway Midnight | 175934 | [175934-subway-midnight.json](./175934-subway-midnight.json) |
@@ -10080,6 +10082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Squad: Super Pack | 155467 | [155467-super-squad-super-pack.json](./155467-super-squad-super-pack.json) |
 | Super Stacey World | 223025 | [223025-super-stacey-world.json](./223025-super-stacey-world.json) |
 | Super Star | 32027 | [32027-super-star.json](./32027-super-star.json) |
+| Super Star Car | 146714 | [146714-super-star-car.json](./146714-super-star-car.json) |
 | Super Star Panda | 80950 | [80950-super-star-panda.json](./80950-super-star-panda.json) |
 | Super Star Path | 19981 | [19981-super-star-path.json](./19981-super-star-path.json) |
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
