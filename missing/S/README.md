@@ -4907,6 +4907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sok-Worlds | 132036 | [132036-sok-worlds.json](./132036-sok-worlds.json) |
 | Sokfest | 240314 | [240314-sokfest.json](./240314-sokfest.json) |
 | Sokko Seitokai: Sonic Council | 165073 | [165073-sokko-seitokai-sonic-council.json](./165073-sokko-seitokai-sonic-council.json) |
+| Soko Loco | 129576 | [129576-soko-loco.json](./129576-soko-loco.json) |
 | Soko-Ban | 11763 | [11763-soko-ban.json](./11763-soko-ban.json) |
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
 | Sokoban | 47946 | [47946-sokoban.json](./47946-sokoban.json) |
@@ -6628,6 +6629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Kong | 40737 | [40737-spider-kong.json](./40737-spider-kong.json) |
 | Spider Lander | 111723 | [111723-spider-lander.json](./111723-spider-lander.json) |
 | Spider Matrix | 408780 | [408780-spider-matrix.json](./408780-spider-matrix.json) |
+| Spider Ponds | 129571 | [129571-spider-ponds.json](./129571-spider-ponds.json) |
 | Spider Riders: Battle for Arachna | 316801 | [316801-spider-riders-battle-for-arachna.json](./316801-spider-riders-battle-for-arachna.json) |
 | Spider Roulette | 386694 | [386694-spider-roulette.json](./386694-spider-roulette.json) |
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
@@ -8528,6 +8530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
 | Strategic Command WWII: War in the Pacific | 292538 | [292538-strategic-command-wwii-war-in-the-pacific.json](./292538-strategic-command-wwii-war-in-the-pacific.json) |
 | Strategic Command: European Theater | 51892 | [51892-strategic-command-european-theater.json](./51892-strategic-command-european-theater.json) |
+| Strategic Command: World War I | 129592 | [129592-strategic-command-world-war-i.json](./129592-strategic-command-world-war-i.json) |
 | Strategic Command: World War I - Empires in Turmoil | 262929 | [262929-strategic-command-world-war-i-empires-in-turmoil.json](./262929-strategic-command-world-war-i-empires-in-turmoil.json) |
 | Strategic Mind: Fight for Dominance | 257425 | [257425-strategic-mind-fight-for-dominance.json](./257425-strategic-mind-fight-for-dominance.json) |
 | Strategic Simulations: Commander's Collection | 73779 | [73779-strategic-simulations-commanders-collection.json](./73779-strategic-simulations-commanders-collection.json) |
