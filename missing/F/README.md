@@ -2428,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flixy Cats | 165034 | [165034-flixy-cats.json](./165034-flixy-cats.json) |
 | Floain Plus | 375978 | [375978-floain-plus.json](./375978-floain-plus.json) |
 | Float: Champions | 257948 | [257948-float-champions.json](./257948-float-champions.json) |
+| Floathink | 149936 | [149936-floathink.json](./149936-floathink.json) |
 | Floating Cloud God Saves the Pilgrims in HD! | 84154 | [84154-floating-cloud-god-saves-the-pilgrims-in-hd.json](./84154-floating-cloud-god-saves-the-pilgrims-in-hd.json) |
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
 | Floating Girl | 147391 | [147391-floating-girl.json](./147391-floating-girl.json) |
@@ -3136,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Season 1 | 256925 | [256925-fortnite-season-1.json](./256925-fortnite-season-1.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
 | FortOfTheNight | 105341 | [105341-fortofthenight.json](./105341-fortofthenight.json) |
+| Fortoresse | 149922 | [149922-fortoresse.json](./149922-fortoresse.json) |
 | Fortress | 13715 | [13715-fortress.json](./13715-fortress.json) |
 | Fortress | 313492 | [313492-fortress.json](./313492-fortress.json) |
 | Fortress | 319195 | [319195-fortress.json](./319195-fortress.json) |
