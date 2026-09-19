@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qub | 362305 | [362305-qub.json](./362305-qub.json) |
 | QubeTown | 114414 | [114414-qubetown.json](./114414-qubetown.json) |
 | Qubicks | 346599 | [346599-qubicks.json](./346599-qubicks.json) |
+| Qubie: Invader of Worlds | 169865 | [169865-qubie-invader-of-worlds.json](./169865-qubie-invader-of-worlds.json) |
 | Qubit's Quest | 283762 | [283762-qubits-quest.json](./283762-qubits-quest.json) |
 | Qublyne Dungeons | 226435 | [226435-qublyne-dungeons.json](./226435-qublyne-dungeons.json) |
 | QUByte Classics: Beat 'Em Up Collection | 353981 | [353981-qubyte-classics-beat-em-up-collection.json](./353981-qubyte-classics-beat-em-up-collection.json) |
