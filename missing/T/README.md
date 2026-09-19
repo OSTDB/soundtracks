@@ -4332,6 +4332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Neverwhere Tales : Book 1 | 275692 | [275692-the-neverwhere-tales-book-1.json](./275692-the-neverwhere-tales-book-1.json) |
 | The New Addams Family | 5345 | [5345-the-new-addams-family.json](./5345-the-new-addams-family.json) |
 | The New California | 61649 | [61649-the-new-california.json](./61649-the-new-california.json) |
+| The New Earth | 157540 | [157540-the-new-earth.json](./157540-the-new-earth.json) |
 | The New Order: Last Days of Europe | 194463 | [194463-the-new-order-last-days-of-europe.json](./194463-the-new-order-last-days-of-europe.json) |
 | The New Resistance | 196234 | [196234-the-new-resistance.json](./196234-the-new-resistance.json) |
 | The New Sheriff | 316796 | [316796-the-new-sheriff.json](./316796-the-new-sheriff.json) |
@@ -6210,6 +6211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms Front | 339098 | [339098-three-kingdoms-front.json](./339098-three-kingdoms-front.json) |
 | Three Kingdoms Heroes | 324871 | [324871-three-kingdoms-heroes.json](./324871-three-kingdoms-heroes.json) |
 | Three Kingdoms VR - Jade Knight | 75820 | [75820-three-kingdoms-vr-jade-knight.json](./75820-three-kingdoms-vr-jade-knight.json) |
+| Three Kingdoms Written Words | 157538 | [157538-three-kingdoms-written-words.json](./157538-three-kingdoms-written-words.json) |
 | Three Kingdoms: Bond | 402358 | [402358-three-kingdoms-bond.json](./402358-three-kingdoms-bond.json) |
 | Three Kingdoms: Hero Wars | 208053 | [208053-three-kingdoms-hero-wars.json](./208053-three-kingdoms-hero-wars.json) |
 | Three Kingdoms: Legends of Heroes | 108406 | [108406-three-kingdoms-legends-of-heroes.json](./108406-three-kingdoms-legends-of-heroes.json) |
@@ -8011,6 +8013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer - Realm of the Wood Elves | 26423 | [26423-total-war-warhammer-realm-of-the-wood-elves.json](./26423-total-war-warhammer-realm-of-the-wood-elves.json) |
 | Total War: Warhammer - Wurrzag | 81295 | [81295-total-war-warhammer-wurrzag.json](./81295-total-war-warhammer-wurrzag.json) |
 | Total War: Warhammer II - Curse of the Vampire Coast | 110863 | [110863-total-war-warhammer-ii-curse-of-the-vampire-coast.json](./110863-total-war-warhammer-ii-curse-of-the-vampire-coast.json) |
+| Total War: Warhammer II - Thorek Ironbrow | 157543 | [157543-total-war-warhammer-ii-thorek-ironbrow.json](./157543-total-war-warhammer-ii-thorek-ironbrow.json) |
 | Total War: Warhammer II - Tretch Craventail | 167825 | [167825-total-war-warhammer-ii-tretch-craventail.json](./167825-total-war-warhammer-ii-tretch-craventail.json) |
 | Total War: Warhammer III - Ogre Kingdoms | 194428 | [194428-total-war-warhammer-iii-ogre-kingdoms.json](./194428-total-war-warhammer-iii-ogre-kingdoms.json) |
 | Total War: Warhammer III - Shadows of Change | 251223 | [251223-total-war-warhammer-iii-shadows-of-change.json](./251223-total-war-warhammer-iii-shadows-of-change.json) |
