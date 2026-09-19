@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takume | 136420 | [136420-takume.json](./136420-takume.json) |
 | Takumi 3 | 220193 | [220193-takumi-3.json](./220193-takumi-3.json) |
 | TAL: Arctic 2 | 106625 | [106625-tal-arctic-2.json](./106625-tal-arctic-2.json) |
+| Tale of an Apocalypse | 157014 | [157014-tale-of-an-apocalypse.json](./157014-tale-of-an-apocalypse.json) |
 | Tale of Avamphil | 177925 | [177925-tale-of-avamphil.json](./177925-tale-of-avamphil.json) |
 | Tale of Exorcists | 375313 | [375313-tale-of-exorcists.json](./375313-tale-of-exorcists.json) |
 | Tale of Honor | 274041 | [274041-tale-of-honor.json](./274041-tale-of-honor.json) |
@@ -1418,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraGenesis - Space Settlers | 102730 | [102730-terragenesis-space-settlers.json](./102730-terragenesis-space-settlers.json) |
 | Terrahawks: The Battlehawk | 385725 | [385725-terrahawks-the-battlehawk.json](./385725-terrahawks-the-battlehawk.json) |
 | Terrain Defender | 402381 | [402381-terrain-defender.json](./402381-terrain-defender.json) |
+| TerraMartis4x | 157050 | [157050-terramartis4x.json](./157050-terramartis4x.json) |
 | Terranigma | 9633 | [9633-terranigma.json](./9633-terranigma.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
 | Terraria 2 | 3021 | [3021-terraria-2.json](./3021-terraria-2.json) |
@@ -8025,6 +8027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Baseball | 127163 | [127163-totally-baseball.json](./127163-totally-baseball.json) |
 | Totally Jet | 246488 | [246488-totally-jet.json](./246488-totally-jet.json) |
 | Totally Normal Day | 304759 | [304759-totally-normal-day.json](./304759-totally-normal-day.json) |
+| Totally Normal Journey: The Interactive Musical | 157021 | [157021-totally-normal-journey-the-interactive-musical.json](./157021-totally-normal-journey-the-interactive-musical.json) |
 | Totally Rad Metal Detector League | 220714 | [220714-totally-rad-metal-detector-league.json](./220714-totally-rad-metal-detector-league.json) |
 | Totally Realistic Unicorn Buffalo Simulator | 142463 | [142463-totally-realistic-unicorn-buffalo-simulator.json](./142463-totally-realistic-unicorn-buffalo-simulator.json) |
 | Totally Reliable Adventure Party | 160243 | [160243-totally-reliable-adventure-party.json](./160243-totally-reliable-adventure-party.json) |
