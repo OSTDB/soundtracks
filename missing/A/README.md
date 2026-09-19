@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ajnabee: The Unknown | 389975 | [389975-ajnabee-the-unknown.json](./389975-ajnabee-the-unknown.json) |
 | Aka | 159823 | [159823-aka.json](./159823-aka.json) |
 | Aka Manto | 121558 | [121558-aka-manto.json](./121558-aka-manto.json) |
+| Aka no Sekai | 151528 | [151528-aka-no-sekai.json](./151528-aka-no-sekai.json) |
 | Akagawa Jirou no Yuurei Ressha | 48606 | [48606-akagawa-jirou-no-yuurei-ressha.json](./48606-akagawa-jirou-no-yuurei-ressha.json) |
 | Akai Corridor | 316282 | [316282-akai-corridor.json](./316282-akai-corridor.json) |
 | Akai Katana Shin | 78617 | [78617-akai-katana-shin.json](./78617-akai-katana-shin.json) |
@@ -2748,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anything Simulator | 391181 | [391181-anything-simulator.json](./391181-anything-simulator.json) |
 | Anytime Pool | 65488 | [65488-anytime-pool.json](./65488-anytime-pool.json) |
 | AnyWay! | 102412 | [102412-anyway.json](./102412-anyway.json) |
+| AnyWay!: Challenge #1 | 151558 | [151558-anyway-challenge-1.json](./151558-anyway-challenge-1.json) |
 | Anywhere You've Been | 178601 | [178601-anywhere-youve-been.json](./178601-anywhere-youve-been.json) |
 | Anzeigenhauptmeister Simulator | 292510 | [292510-anzeigenhauptmeister-simulator.json](./292510-anzeigenhauptmeister-simulator.json) |
 | Anzu | 325056 | [325056-anzu.json](./325056-anzu.json) |
@@ -3925,6 +3927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed II: White Edition | 308957 | [308957-assassins-creed-ii-white-edition.json](./308957-assassins-creed-ii-white-edition.json) |
 | Assassin's Creed III: Benedict Arnold | 261996 | [261996-assassins-creed-iii-benedict-arnold.json](./261996-assassins-creed-iii-benedict-arnold.json) |
 | Assassin's Creed III: Liberation | 3195 | [3195-assassins-creed-iii-liberation.json](./3195-assassins-creed-iii-liberation.json) |
+| Assassin's Creed III: The Battle Hardened Pack | 151548 | [151548-assassins-creed-iii-the-battle-hardened-pack.json](./151548-assassins-creed-iii-the-battle-hardened-pack.json) |
 | Assassin's Creed IV Black Flag: Aveline | 26095 | [26095-assassins-creed-iv-black-flag-aveline.json](./26095-assassins-creed-iv-black-flag-aveline.json) |
 | Assassin's Creed IV: Black Flag - Buccaneer Edition | 89872 | [89872-assassins-creed-iv-black-flag-buccaneer-edition.json](./89872-assassins-creed-iv-black-flag-buccaneer-edition.json) |
 | Assassin's Creed Jade | 216319 | [216319-assassins-creed-jade.json](./216319-assassins-creed-jade.json) |
@@ -3942,6 +3945,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Revelations: Special Edition | 268735 | [268735-assassins-creed-revelations-special-edition.json](./268735-assassins-creed-revelations-special-edition.json) |
 | Assassin's Creed Revelations: The Ancestors Character Pack | 167241 | [167241-assassins-creed-revelations-the-ancestors-character-pack.json](./167241-assassins-creed-revelations-the-ancestors-character-pack.json) |
 | Assassin's Creed Revelations: The Lost Archive | 8217 | [8217-assassins-creed-revelations-the-lost-archive.json](./8217-assassins-creed-revelations-the-lost-archive.json) |
+| Assassin’s Creed Rogue: Templar Legacy Pack | 151547 | [151547-assassin-s-creed-rogue-templar-legacy-pack.json](./151547-assassin-s-creed-rogue-templar-legacy-pack.json) |
+| Assassin's Creed Rogue: Time Saver - Activities Pack | 151550 | [151550-assassins-creed-rogue-time-saver-activities-pack.json](./151550-assassins-creed-rogue-time-saver-activities-pack.json) |
+| Assassin’s Creed Rogue: Time Saver - Collectibles Pack | 151546 | [151546-assassin-s-creed-rogue-time-saver-collectibles-pack.json](./151546-assassin-s-creed-rogue-time-saver-collectibles-pack.json) |
 | Assassin's Creed Shadows: Thrown to the Dogs | 301432 | [301432-assassins-creed-shadows-thrown-to-the-dogs.json](./301432-assassins-creed-shadows-thrown-to-the-dogs.json) |
 | Assassin's Creed Syndicate: The Dreadful Crimes | 109432 | [109432-assassins-creed-syndicate-the-dreadful-crimes.json](./109432-assassins-creed-syndicate-the-dreadful-crimes.json) |
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
