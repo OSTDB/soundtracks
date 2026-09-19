@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
 | Paws of Fury | 181342 | [181342-paws-of-fury.json](./181342-paws-of-fury.json) |
 | Paws: A Shelter 2 Game | 17007 | [17007-paws-a-shelter-2-game.json](./17007-paws-a-shelter-2-game.json) |
+| Paws: A Shelter 2 Game - Pitter Patter Edition | 154943 | [154943-paws-a-shelter-2-game-pitter-patter-edition.json](./154943-paws-a-shelter-2-game-pitter-patter-edition.json) |
 | Pawsitive | 298873 | [298873-pawsitive.json](./298873-pawsitive.json) |
 | Pawsome Resort | 374711 | [374711-pawsome-resort.json](./374711-pawsome-resort.json) |
 | Pax | 274201 | [274201-pax.json](./274201-pax.json) |
