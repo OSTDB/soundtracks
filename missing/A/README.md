@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronautica Imperialis: Flight Command - Skulls Pack | 162754 | [162754-aeronautica-imperialis-flight-command-skulls-pack.json](./162754-aeronautica-imperialis-flight-command-skulls-pack.json) |
 | Aery: Ancient Empires | 283897 | [283897-aery-ancient-empires.json](./283897-aery-ancient-empires.json) |
 | Aery: Best of Bundle | 302512 | [302512-aery-best-of-bundle.json](./302512-aery-best-of-bundle.json) |
+| Aery: Calm Mind | 153831 | [153831-aery-calm-mind.json](./153831-aery-calm-mind.json) |
 | Aery: Calm Mind 4 | 263037 | [263037-aery-calm-mind-4.json](./263037-aery-calm-mind-4.json) |
 | Aery: Cyber City | 283896 | [283896-aery-cyber-city.json](./283896-aery-cyber-city.json) |
 | Aery: Midnight Hour | 288376 | [288376-aery-midnight-hour.json](./288376-aery-midnight-hour.json) |
@@ -2409,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals In The City | 293219 | [293219-animals-in-the-city.json](./293219-animals-in-the-city.json) |
 | Animals Transport Simulator | 201692 | [201692-animals-transport-simulator.json](./201692-animals-transport-simulator.json) |
 | Animals Transport Simulator | 219297 | [219297-animals-transport-simulator.json](./219297-animals-transport-simulator.json) |
+| AnimaLudo | 153823 | [153823-animaludo.json](./153823-animaludo.json) |
 | Animamundi: Dark Alchemist | 72665 | [72665-animamundi-dark-alchemist.json](./72665-animamundi-dark-alchemist.json) |
 | Animaniacs | 228407 | [228407-animaniacs.json](./228407-animaniacs.json) |
 | Animaniacs Game Pack | 78028 | [78028-animaniacs-game-pack.json](./78028-animaniacs-game-pack.json) |
@@ -3103,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rolling Thunder | 196174 | [196174-arcade-archives-rolling-thunder.json](./196174-arcade-archives-rolling-thunder.json) |
 | Arcade Archives: Rolling Thunder 2 | 251000 | [251000-arcade-archives-rolling-thunder-2.json](./251000-arcade-archives-rolling-thunder-2.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
+| Arcade Archives: Shingen Samurai-Fighter | 153832 | [153832-arcade-archives-shingen-samurai-fighter.json](./153832-arcade-archives-shingen-samurai-fighter.json) |
 | Arcade Archives: Silk Worm | 284928 | [284928-arcade-archives-silk-worm.json](./284928-arcade-archives-silk-worm.json) |
 | Arcade Archives: Sky Kid DX | 240220 | [240220-arcade-archives-sky-kid-dx.json](./240220-arcade-archives-sky-kid-dx.json) |
 | Arcade Archives: Soldier Girl Amazon | 99540 | [99540-arcade-archives-soldier-girl-amazon.json](./99540-arcade-archives-soldier-girl-amazon.json) |
@@ -4619,6 +4622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon Legends Solitaire 2 | 31720 | [31720-avalon-legends-solitaire-2.json](./31720-avalon-legends-solitaire-2.json) |
 | Avalon Lords | 137012 | [137012-avalon-lords.json](./137012-avalon-lords.json) |
 | Avalon Lords: Dawn Rises | 20464 | [20464-avalon-lords-dawn-rises.json](./20464-avalon-lords-dawn-rises.json) |
+| Avalon: Sacred Crusade | 153868 | [153868-avalon-sacred-crusade.json](./153868-avalon-sacred-crusade.json) |
 | Avalon: The Druids | 274229 | [274229-avalon-the-druids.json](./274229-avalon-the-druids.json) |
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
 | Avaria: Iron Rule | 399009 | [399009-avaria-iron-rule.json](./399009-avaria-iron-rule.json) |
