@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pebble's Bakery | 180714 | [180714-pebbles-bakery.json](./180714-pebbles-bakery.json) |
 | Pebbles Quest | 324337 | [324337-pebbles-quest.json](./324337-pebbles-quest.json) |
 | Pec-Men | 335693 | [335693-pec-men.json](./335693-pec-men.json) |
+| Peccator-It's Not Over Yet | 180104 | [180104-peccator-its-not-over-yet.json](./180104-peccator-its-not-over-yet.json) |
 | Pecker | 244272 | [244272-pecker.json](./244272-pecker.json) |
 | Pecky Clicker | 391192 | [391192-pecky-clicker.json](./391192-pecky-clicker.json) |
 | Peculiar Fables: The Werebed | 186731 | [186731-peculiar-fables-the-werebed.json](./186731-peculiar-fables-the-werebed.json) |
@@ -1730,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piccadilly's Puzzle Museum | 126015 | [126015-piccadillys-puzzle-museum.json](./126015-piccadillys-puzzle-museum.json) |
 | Piccross Adventure House | 102819 | [102819-piccross-adventure-house.json](./102819-piccross-adventure-house.json) |
 | Pichenette | 384530 | [384530-pichenette.json](./384530-pichenette.json) |
+| Pichon: The Bouncy Bird | 180107 | [180107-pichon-the-bouncy-bird.json](./180107-pichon-the-bouncy-bird.json) |
 | Pick 'n Pile | 40765 | [40765-pick-n-pile.json](./40765-pick-n-pile.json) |
 | Pick & Match | 87223 | [87223-pick-and-match.json](./87223-pick-and-match.json) |
 | Pick & Place | 402298 | [402298-pick-and-place.json](./402298-pick-and-place.json) |
@@ -2248,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Builder | 105962 | [105962-pixel-builder.json](./105962-pixel-builder.json) |
 | Pixel Cafe: Definitive Edition | 400200 | [400200-pixel-cafe-definitive-edition.json](./400200-pixel-cafe-definitive-edition.json) |
 | Pixel Cafe: Discovery Edition | 395682 | [395682-pixel-cafe-discovery-edition.json](./395682-pixel-cafe-discovery-edition.json) |
+| Pixel Card Crawl | 180120 | [180120-pixel-card-crawl.json](./180120-pixel-card-crawl.json) |
 | Pixel Caveman | 118435 | [118435-pixel-caveman.json](./118435-pixel-caveman.json) |
 | Pixel Collector | 312165 | [312165-pixel-collector.json](./312165-pixel-collector.json) |
 | Pixel Coloring Book Game | 106566 | [106566-pixel-coloring-book-game.json](./106566-pixel-coloring-book-game.json) |
