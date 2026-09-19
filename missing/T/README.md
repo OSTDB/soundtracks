@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Brothers Unite | 61238 | [61238-teenage-mutant-ninja-turtles-brothers-unite.json](./61238-teenage-mutant-ninja-turtles-brothers-unite.json) |
 | Teenage Mutant Ninja Turtles: Dimension X Assault | 198938 | [198938-teenage-mutant-ninja-turtles-dimension-x-assault.json](./198938-teenage-mutant-ninja-turtles-dimension-x-assault.json) |
 | Teenage Mutant Ninja Turtles: Empire City | 345542 | [345542-teenage-mutant-ninja-turtles-empire-city.json](./345542-teenage-mutant-ninja-turtles-empire-city.json) |
+| Teenage Mutant Ninja Turtles: Mutant Madness | 138015 | [138015-teenage-mutant-ninja-turtles-mutant-madness.json](./138015-teenage-mutant-ninja-turtles-mutant-madness.json) |
 | Teenage Mutant Ninja Turtles: Mutants & Monsters Mayhem | 146239 | [146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json](./146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - Deluxe Edition | 323945 | [323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json](./323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge | 144465 | [144465-teenage-mutant-ninja-turtles-shredders-revenge.json](./144465-teenage-mutant-ninja-turtles-shredders-revenge.json) |
@@ -7406,6 +7407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinyfolks | 197266 | [197266-tinyfolks.json](./197266-tinyfolks.json) |
 | TinyHoopers | 323964 | [323964-tinyhoopers.json](./323964-tinyhoopers.json) |
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
+| Tinyshot | 138048 | [138048-tinyshot.json](./138048-tinyshot.json) |
 | Tinytopia | 131947 | [131947-tinytopia.json](./131947-tinytopia.json) |
 | Tinyverse | 181362 | [181362-tinyverse.json](./181362-tinyverse.json) |
 | Tip Top Deluxe | 206219 | [206219-tip-top-deluxe.json](./206219-tip-top-deluxe.json) |
@@ -8091,6 +8093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toska | 339637 | [339637-toska.json](./339637-toska.json) |
 | Toss King | 226753 | [226753-toss-king.json](./226753-toss-king.json) |
 | Toss the Turtle | 131613 | [131613-toss-the-turtle.json](./131613-toss-the-turtle.json) |
+| Toss! | 138028 | [138028-toss.json](./138028-toss.json) |
 | Total Annihilation | 918 | [918-total-annihilation.json](./918-total-annihilation.json) |
 | Total Annihilation: Kingdoms | 11614 | [11614-total-annihilation-kingdoms.json](./11614-total-annihilation-kingdoms.json) |
 | Total Annihilation: The Core Contingency | 71462 | [71462-total-annihilation-the-core-contingency.json](./71462-total-annihilation-the-core-contingency.json) |
@@ -8177,6 +8180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totem Tribe Gold | 88100 | [88100-totem-tribe-gold.json](./88100-totem-tribe-gold.json) |
 | Totem Tribe II: Jotun | 9114 | [9114-totem-tribe-ii-jotun.json](./9114-totem-tribe-ii-jotun.json) |
 | TotemBall | 79930 | [79930-totemball.json](./79930-totemball.json) |
+| Totemic | 138037 | [138037-totemic.json](./138037-totemic.json) |
 | Totemlands | 213941 | [213941-totemlands.json](./213941-totemlands.json) |
 | Totems: Game of Conquest | 200188 | [200188-totems-game-of-conquest.json](./200188-totems-game-of-conquest.json) |
 | Toten | 233486 | [233486-toten.json](./233486-toten.json) |
@@ -8227,6 +8231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touge Max 2 | 66099 | [66099-touge-max-2.json](./66099-touge-max-2.json) |
 | Tough Story: Big Hell | 54457 | [54457-tough-story-big-hell.json](./54457-tough-story-big-hell.json) |
 | Tough Turf | 40259 | [40259-tough-turf.json](./40259-tough-turf.json) |
+| Touhou Baisyunyado: Soap of Royal Road | 138029 | [138029-touhou-baisyunyado-soap-of-royal-road.json](./138029-touhou-baisyunyado-soap-of-royal-road.json) |
 | Touhou Blooming Chaos 2: Chara Pack 3 | 170959 | [170959-touhou-blooming-chaos-2-chara-pack-3.json](./170959-touhou-blooming-chaos-2-chara-pack-3.json) |
 | Touhou Blooming Chaos 2: Chara Pack Special - Mystia Lorelei | 169324 | [169324-touhou-blooming-chaos-2-chara-pack-special-mystia-lorelei.json](./169324-touhou-blooming-chaos-2-chara-pack-special-mystia-lorelei.json) |
 | Touhou Cannonball | 111052 | [111052-touhou-cannonball.json](./111052-touhou-cannonball.json) |
@@ -9777,6 +9782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Disc Golf | 247586 | [247586-true-disc-golf.json](./247586-true-disc-golf.json) |
 | True Fantasy Live Online | 18106 | [18106-true-fantasy-live-online.json](./18106-true-fantasy-live-online.json) |
 | True Love For Her | 297042 | [297042-true-love-for-her.json](./297042-true-love-for-her.json) |
+| True Love Story 3 | 138012 | [138012-true-love-story-3.json](./138012-true-love-story-3.json) |
 | True or False 2 | 29717 | [29717-true-or-false-2.json](./29717-true-or-false-2.json) |
 | True Pinball | 9131 | [9131-true-pinball.json](./9131-true-pinball.json) |
 | True Reporter | 110292 | [110292-true-reporter.json](./110292-true-reporter.json) |
