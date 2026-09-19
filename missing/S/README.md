@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saber Fight VR | 127529 | [127529-saber-fight-vr.json](./127529-saber-fight-vr.json) |
 | Saber Punks | 152309 | [152309-saber-punks.json](./152309-saber-punks.json) |
 | Saber Ship | 213462 | [213462-saber-ship.json](./213462-saber-ship.json) |
+| Saber Style | 154974 | [154974-saber-style.json](./154974-saber-style.json) |
 | Saber Survivors | 328452 | [328452-saber-survivors.json](./328452-saber-survivors.json) |
 | Sable Maze: Forbidden Garden & Sable Maze: Twelve Fears | 201822 | [201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json](./201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json) |
 | Sable Maze: Norwich Caves - Collector's Edition | 74353 | [74353-sable-maze-norwich-caves-collectors-edition.json](./74353-sable-maze-norwich-caves-collectors-edition.json) |
@@ -1148,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
 | Scythe Shepard | 276717 | [276717-scythe-shepard.json](./276717-scythe-shepard.json) |
 | Scythe X | 137667 | [137667-scythe-x.json](./137667-scythe-x.json) |
+| Scythe: Digital Edition - Invaders from Afar | 154948 | [154948-scythe-digital-edition-invaders-from-afar.json](./154948-scythe-digital-edition-invaders-from-afar.json) |
 | SD F-1 Grand Prix | 38328 | [38328-sd-f-1-grand-prix.json](./38328-sd-f-1-grand-prix.json) |
 | SD Fighters | 39564 | [39564-sd-fighters.json](./39564-sd-fighters.json) |
 | SD Gundam Battle Alliance | 191403 | [191403-sd-gundam-battle-alliance.json](./191403-sd-gundam-battle-alliance.json) |
@@ -5986,6 +5988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Prevention Force | 179110 | [179110-space-prevention-force.json](./179110-space-prevention-force.json) |
 | Space Pricks | 248641 | [248641-space-pricks.json](./248641-space-pricks.json) |
 | Space Qube | 200022 | [200022-space-qube.json](./200022-space-qube.json) |
+| Space Quest 4+5+6 | 154934 | [154934-space-quest-4-5-6.json](./154934-space-quest-4-5-6.json) |
 | Space Quest II: Roger Wilco in Vohaul's Revenge | 84150 | [84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json](./84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json) |
 | Space Quiz | 74456 | [74456-space-quiz.json](./74456-space-quiz.json) |
 | Space Race | 361117 | [361117-space-race.json](./361117-space-race.json) |
@@ -8985,6 +8988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumikkogurashi the Movie Block Puzzle Game | 213635 | [213635-sumikkogurashi-the-movie-block-puzzle-game.json](./213635-sumikkogurashi-the-movie-block-puzzle-game.json) |
 | Sumire's Secret | 403603 | [403603-sumires-secret.json](./403603-sumires-secret.json) |
 | Summa Expeditionis | 216869 | [216869-summa-expeditionis.json](./216869-summa-expeditionis.json) |
+| Summer & Winter: Olympic Challenge | 154958 | [154958-summer-and-winter-olympic-challenge.json](./154958-summer-and-winter-olympic-challenge.json) |
 | Summer Adventurers: Mediterranean | 374062 | [374062-summer-adventurers-mediterranean.json](./374062-summer-adventurers-mediterranean.json) |
 | Summer After Ten Years: Steam Edition | 263753 | [263753-summer-after-ten-years-steam-edition.json](./263753-summer-after-ten-years-steam-edition.json) |
 | Summer at Marisol Bay | 183035 | [183035-summer-at-marisol-bay.json](./183035-summer-at-marisol-bay.json) |
@@ -10363,6 +10367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Mars: Below and Beyond | 165620 | [165620-surviving-mars-below-and-beyond.json](./165620-surviving-mars-below-and-beyond.json) |
 | Surviving Mars: Future Contemporary Cosmetic Pack | 227330 | [227330-surviving-mars-future-contemporary-cosmetic-pack.json](./227330-surviving-mars-future-contemporary-cosmetic-pack.json) |
 | Surviving Mars: In-Dome Buildings Pack | 215400 | [215400-surviving-mars-in-dome-buildings-pack.json](./215400-surviving-mars-in-dome-buildings-pack.json) |
+| Surviving Mars: Marsvision Song Contest | 154933 | [154933-surviving-mars-marsvision-song-contest.json](./154933-surviving-mars-marsvision-song-contest.json) |
 | Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
 | Surviving Skeleton Island | 262968 | [262968-surviving-skeleton-island.json](./262968-surviving-skeleton-island.json) |
 | Surviving the Aftermath: Day One Edition | 143041 | [143041-surviving-the-aftermath-day-one-edition.json](./143041-surviving-the-aftermath-day-one-edition.json) |
