@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up 1 Way | 371344 | [371344-up-1-way.json](./371344-up-1-way.json) |
 | Up All Night | 165064 | [165064-up-all-night.json](./165064-up-all-night.json) |
 | Up All Night: Rumination | 225305 | [225305-up-all-night-rumination.json](./225305-up-all-night-rumination.json) |
+| Up Down Z | 136235 | [136235-up-down-z.json](./136235-up-down-z.json) |
 | Up for Grabs | 268025 | [268025-up-for-grabs.json](./268025-up-for-grabs.json) |
 | Up or Fall | 343243 | [343243-up-or-fall.json](./343243-up-or-fall.json) |
 | Up or Out | 105317 | [105317-up-or-out.json](./105317-up-or-out.json) |
