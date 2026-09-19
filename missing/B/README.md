@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat Blast! | 275880 | [275880-bat-blast.json](./275880-bat-blast.json) |
 | Bat Blitz | 248323 | [248323-bat-blitz.json](./248323-bat-blitz.json) |
 | Bat Cage | 319570 | [319570-bat-cage.json](./319570-bat-cage.json) |
+| Bat Egg | 165556 | [165556-bat-egg.json](./165556-bat-egg.json) |
 | Bat Galaxy | 326779 | [326779-bat-galaxy.json](./326779-bat-galaxy.json) |
 | Bat Hero | 236388 | [236388-bat-hero.json](./236388-bat-hero.json) |
 | Bat Lizard Bonanza | 186176 | [186176-bat-lizard-bonanza.json](./186176-bat-lizard-bonanza.json) |
@@ -1463,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beachcomber | 388924 | [388924-beachcomber.json](./388924-beachcomber.json) |
 | Beachgirl Dreams | 337159 | [337159-beachgirl-dreams.json](./337159-beachgirl-dreams.json) |
 | Beachside Blitz | 353315 | [353315-beachside-blitz.json](./353315-beachside-blitz.json) |
+| Beacon | 165516 | [165516-beacon.json](./165516-beacon.json) |
 | Beacon | 18200 | [18200-beacon.json](./18200-beacon.json) |
 | Beacon | 242575 | [242575-beacon.json](./242575-beacon.json) |
 | Beacon of Hope | 346661 | [346661-beacon-of-hope.json](./346661-beacon-of-hope.json) |
@@ -1667,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty from Wisdom | 236372 | [236372-beauty-from-wisdom.json](./236372-beauty-from-wisdom.json) |
 | Beauty Jigsaw: Image Pack | 357874 | [357874-beauty-jigsaw-image-pack.json](./357874-beauty-jigsaw-image-pack.json) |
 | Beauty Lawyer Victoria 2 | 200058 | [200058-beauty-lawyer-victoria-2.json](./200058-beauty-lawyer-victoria-2.json) |
+| Beauty or the Beast | 165517 | [165517-beauty-or-the-beast.json](./165517-beauty-or-the-beast.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
 | Beauty vs. Zombie | 309844 | [309844-beauty-vs-zombie.json](./309844-beauty-vs-zombie.json) |
 | Beaver Creek | 360060 | [360060-beaver-creek.json](./360060-beaver-creek.json) |
@@ -2129,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bears Bad Advice: A Non-Biased Daily Fortune Teller | 126623 | [126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json](./126623-big-bears-bad-advice-a-non-biased-daily-fortune-teller.json) |
 | Big Bible Town | 326992 | [326992-big-bible-town.json](./326992-big-bible-town.json) |
 | Big Blue | 272857 | [272857-big-blue.json](./272857-big-blue.json) |
+| Big Blue World Domination | 165518 | [165518-big-blue-world-domination.json](./165518-big-blue-world-domination.json) |
 | Big Boo's Haunt | 308230 | [308230-big-boos-haunt.json](./308230-big-boos-haunt.json) |
 | Big Booty Adventures | 186312 | [186312-big-booty-adventures.json](./186312-big-booty-adventures.json) |
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
@@ -2626,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mesa: Classic | 283761 | [283761-black-mesa-classic.json](./283761-black-mesa-classic.json) |
 | Black Mirror: Thronglets | 339816 | [339816-black-mirror-thronglets.json](./339816-black-mirror-thronglets.json) |
 | Black Monday | 94217 | [94217-black-monday.json](./94217-black-monday.json) |
+| Black Morph | 165519 | [165519-black-morph.json](./165519-black-morph.json) |
 | Black My White | 334763 | [334763-black-my-white.json](./334763-black-my-white.json) |
 | Black My White Again | 334764 | [334764-black-my-white-again.json](./334764-black-my-white-again.json) |
 | Black Myth: Heaven | 339342 | [339342-black-myth-heaven.json](./339342-black-myth-heaven.json) |
@@ -3153,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Cube | 185549 | [185549-blood-cube.json](./185549-blood-cube.json) |
 | Blood Expedition | 384638 | [384638-blood-expedition.json](./384638-blood-expedition.json) |
 | Blood Field | 153932 | [153932-blood-field.json](./153932-blood-field.json) |
+| Blood for Poppies | 165531 | [165531-blood-for-poppies.json](./165531-blood-for-poppies.json) |
 | Blood for the Throne | 370202 | [370202-blood-for-the-throne.json](./370202-blood-for-the-throne.json) |
 | Blood Gazm | 248672 | [248672-blood-gazm.json](./248672-blood-gazm.json) |
 | Blood Gear | 42020 | [42020-blood-gear.json](./42020-blood-gear.json) |
@@ -3513,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense. - Line Wars | 137670 | [137670-bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-line-wars.json](./137670-bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-line-wars.json) |
 | Bog Man Has Had Enough | 271843 | [271843-bog-man-has-had-enough.json](./271843-bog-man-has-had-enough.json) |
 | Bog Racer | 239893 | [239893-bog-racer.json](./239893-bog-racer.json) |
+| Bog's Adventures in the Underworld | 165520 | [165520-bogs-adventures-in-the-underworld.json](./165520-bogs-adventures-in-the-underworld.json) |
 | Bogart | 243947 | [243947-bogart.json](./243947-bogart.json) |
 | Bogart 2: Return of Bogart | 243949 | [243949-bogart-2-return-of-bogart.json](./243949-bogart-2-return-of-bogart.json) |
 | Bogdanoff vs. Wojak Simulator | 182358 | [182358-bogdanoff-vs-wojak-simulator.json](./182358-bogdanoff-vs-wojak-simulator.json) |
@@ -4350,6 +4357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Time! | 29813 | [29813-break-time.json](./29813-break-time.json) |
 | Break Ultimate | 241614 | [241614-break-ultimate.json](./241614-break-ultimate.json) |
 | Break Up | 245545 | [245545-break-up.json](./245545-break-up.json) |
+| Breakage | 165521 | [165521-breakage.json](./165521-breakage.json) |
 | Breakaway Hockey League | 415167 | [415167-breakaway-hockey-league.json](./415167-breakaway-hockey-league.json) |
 | BreakBall: Time Travel | 146890 | [146890-breakball-time-travel.json](./146890-breakball-time-travel.json) |
 | Breakbeat Alley | 200048 | [200048-breakbeat-alley.json](./200048-breakbeat-alley.json) |
@@ -4766,6 +4774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubu Battle Royale | 402300 | [402300-bubu-battle-royale.json](./402300-bubu-battle-royale.json) |
 | Bubu Kong | 25007 | [25007-bubu-kong.json](./25007-bubu-kong.json) |
 | Buccaneer | 141845 | [141845-buccaneer.json](./141845-buccaneer.json) |
+| Buccaneer | 165522 | [165522-buccaneer.json](./165522-buccaneer.json) |
 | Buccaneer Blitz | 335990 | [335990-buccaneer-blitz.json](./335990-buccaneer-blitz.json) |
 | Buccaneer's Bounty | 69825 | [69825-buccaneers-bounty.json](./69825-buccaneers-bounty.json) |
 | Buccaneers Shipshape | 203899 | [203899-buccaneers-shipshape.json](./203899-buccaneers-shipshape.json) |
@@ -5117,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burst the Game | 28929 | [28929-burst-the-game.json](./28929-burst-the-game.json) |
 | Burtik | 96112 | [96112-burtik.json](./96112-burtik.json) |
 | Burujiru | 108997 | [108997-burujiru.json](./108997-burujiru.json) |
+| Bury Me in the Sand | 165523 | [165523-bury-me-in-the-sand.json](./165523-bury-me-in-the-sand.json) |
 | Bury Your Gays | 269864 | [269864-bury-your-gays.json](./269864-bury-your-gays.json) |
 | Bus & Taxi Driving Simulator | 86825 | [86825-bus-and-taxi-driving-simulator.json](./86825-bus-and-taxi-driving-simulator.json) |
 | Bus Bound | 348339 | [348339-bus-bound.json](./348339-bus-bound.json) |
@@ -5212,6 +5222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Dream | 322974 | [322974-butterfly-dream.json](./322974-butterfly-dream.json) |
 | Butterfly Garden | 69285 | [69285-butterfly-garden.json](./69285-butterfly-garden.json) |
 | Butterfly Sky | 233519 | [233519-butterfly-sky.json](./233519-butterfly-sky.json) |
+| Butterfly Soup 2 | 165549 | [165549-butterfly-soup-2.json](./165549-butterfly-soup-2.json) |
 | Butterfly: Rin | 119728 | [119728-butterfly-rin.json](./119728-butterfly-rin.json) |
 | Butterfly's Poison: Blood Chains - Fantasy Night Stories | 226207 | [226207-butterflys-poison-blood-chains-fantasy-night-stories.json](./226207-butterflys-poison-blood-chains-fantasy-night-stories.json) |
 | Butterfly//Circuit | 252234 | [252234-butterfly-circuit.json](./252234-butterfly-circuit.json) |
