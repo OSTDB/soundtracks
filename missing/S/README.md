@@ -5886,6 +5886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovereign Brain Empire | 333072 | [333072-sovereign-brain-empire.json](./333072-sovereign-brain-empire.json) |
 | Sovereign Reign | 276171 | [276171-sovereign-reign.json](./276171-sovereign-reign.json) |
 | Sovereign Tea | 159317 | [159317-sovereign-tea.json](./159317-sovereign-tea.json) |
+| Sovereign's Will | 129035 | [129035-sovereigns-will.json](./129035-sovereigns-will.json) |
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
 | Soviet Lunapark VR | 97018 | [97018-soviet-lunapark-vr.json](./97018-soviet-lunapark-vr.json) |
 | Soviet Souls | 118329 | [118329-soviet-souls.json](./118329-soviet-souls.json) |
@@ -8416,6 +8417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Angel | 400297 | [400297-storm-angel.json](./400297-storm-angel.json) |
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
 | Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
+| Storm Chasers: Tornado Islands | 128984 | [128984-storm-chasers-tornado-islands.json](./128984-storm-chasers-tornado-islands.json) |
 | Storm Chasing Sim 2025: Tornado Hunter | 374676 | [374676-storm-chasing-sim-2025-tornado-hunter.json](./374676-storm-chasing-sim-2025-tornado-hunter.json) |
 | Storm Generations | 99666 | [99666-storm-generations.json](./99666-storm-generations.json) |
 | Storm Horse Simulator | 357860 | [357860-storm-horse-simulator.json](./357860-storm-horse-simulator.json) |
