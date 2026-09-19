@@ -2868,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
 | Clean Freak! Perfect Cook! | 365166 | [365166-clean-freak-perfect-cook.json](./365166-clean-freak-perfect-cook.json) |
 | Clean My Carpet: ASMR Washing | 228451 | [228451-clean-my-carpet-asmr-washing.json](./228451-clean-my-carpet-asmr-washing.json) |
+| Clean Slate | 149454 | [149454-clean-slate.json](./149454-clean-slate.json) |
 | Clean Sweep | 18159 | [18159-clean-sweep.json](./18159-clean-sweep.json) |
 | Clean Sweep | 301287 | [301287-clean-sweep.json](./301287-clean-sweep.json) |
 | Clean The Sea! | 284820 | [284820-clean-the-sea.json](./284820-clean-the-sea.json) |
@@ -3082,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Backgammon | 270745 | [270745-club-backgammon.json](./270745-club-backgammon.json) |
 | Club Drive | 40804 | [40804-club-drive.json](./40804-club-drive.json) |
 | Club Goblin | 184642 | [184642-club-goblin.json](./184642-club-goblin.json) |
+| Club Hentai: Girls, Love, Sex | 149426 | [149426-club-hentai-girls-love-sex.json](./149426-club-hentai-girls-love-sex.json) |
 | Club Life Visual Novel | 197767 | [197767-club-life-visual-novel.json](./197767-club-life-visual-novel.json) |
 | Club Manager 2016 | 34337 | [34337-club-manager-2016.json](./34337-club-manager-2016.json) |
 | Club Manager 2017 | 31957 | [31957-club-manager-2017.json](./31957-club-manager-2017.json) |
@@ -3281,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin & Cauldron | 391618 | [391618-coin-and-cauldron.json](./391618-coin-and-cauldron.json) |
 | Coin Collection Challenge | 379904 | [379904-coin-collection-challenge.json](./379904-coin-collection-challenge.json) |
 | Coin Crypt | 14570 | [14570-coin-crypt.json](./14570-coin-crypt.json) |
+| Coin Dash | 149414 | [149414-coin-dash.json](./149414-coin-dash.json) |
 | Coin Drop | 58196 | [58196-coin-drop.json](./58196-coin-drop.json) |
 | Coin Exchange Craze | 275356 | [275356-coin-exchange-craze.json](./275356-coin-exchange-craze.json) |
 | Coin Factory | 312885 | [312885-coin-factory.json](./312885-coin-factory.json) |
@@ -4028,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consult Me Before Opening A Snack Shop | 280350 | [280350-consult-me-before-opening-a-snack-shop.json](./280350-consult-me-before-opening-a-snack-shop.json) |
 | Consume Thy Flesh: The Pumpkin Smashing Sim | 189137 | [189137-consume-thy-flesh-the-pumpkin-smashing-sim.json](./189137-consume-thy-flesh-the-pumpkin-smashing-sim.json) |
 | Consummate:Missing World | 51974 | [51974-consummate-missing-world.json](./51974-consummate-missing-world.json) |
+| Contact Me | 149447 | [149447-contact-me.json](./149447-contact-me.json) |
 | Containment Initiative: PC Standalone | 99583 | [99583-containment-initiative-pc-standalone.json](./99583-containment-initiative-pc-standalone.json) |
 | Containment Zone | 235749 | [235749-containment-zone.json](./235749-containment-zone.json) |
 | Contamination | 12986 | [12986-contamination.json](./12986-contamination.json) |
@@ -5881,6 +5885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
 | Cyber Factories | 156006 | [156006-cyber-factories.json](./156006-cyber-factories.json) |
 | Cyber Hearts Club | 311633 | [311633-cyber-hearts-club.json](./311633-cyber-hearts-club.json) |
+| Cyber Hentai | 149430 | [149430-cyber-hentai.json](./149430-cyber-hentai.json) |
 | Cyber​​ Honey | 193882 | [193882-cyber-honey.json](./193882-cyber-honey.json) |
 | Cyber Horror: Project S.Y.L.A. | 370110 | [370110-cyber-horror-project-s-y-l-a.json](./370110-cyber-horror-project-s-y-l-a.json) |
 | Cyber Internet Club Simulator | 296501 | [296501-cyber-internet-club-simulator.json](./296501-cyber-internet-club-simulator.json) |
