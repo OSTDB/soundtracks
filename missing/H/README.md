@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hemophobia | 299160 | [299160-hemophobia.json](./299160-hemophobia.json) |
 | Hen, Chicks and Cats | 204428 | [204428-hen-chicks-and-cats.json](./204428-hen-chicks-and-cats.json) |
 | Henbou no Bansan | 98439 | [98439-henbou-no-bansan.json](./98439-henbou-no-bansan.json) |
+| Hengband | 141020 | [141020-hengband.json](./141020-hengband.json) |
 | Henri | 222521 | [222521-henri.json](./222521-henri.json) |
 | Henry, What Have You Done? | 180751 | [180751-henry-what-have-you-done.json](./180751-henry-what-have-you-done.json) |
 | Henry's Adventure | 268188 | [268188-henrys-adventure.json](./268188-henrys-adventure.json) |
@@ -1534,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Hack-Her | 147452 | [147452-hentai-hack-her.json](./147452-hentai-hack-her.json) |
 | Hentai Hanako | 232445 | [232445-hentai-hanako.json](./232445-hentai-hanako.json) |
 | Hentai Harem | 367976 | [367976-hentai-harem.json](./367976-hentai-harem.json) |
+| Hentai Heroes | 141010 | [141010-hentai-heroes.json](./141010-hentai-heroes.json) |
 | Hentai Homewrecker | 297799 | [297799-hentai-homewrecker.json](./297799-hentai-homewrecker.json) |
 | Hentai Hospital | 371360 | [371360-hentai-hospital.json](./371360-hentai-hospital.json) |
 | Hentai House: Next Door | 403713 | [403713-hentai-house-next-door.json](./403713-hentai-house-next-door.json) |
@@ -3572,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt Asylum Together | 406702 | [406702-hunt-asylum-together.json](./406702-hunt-asylum-together.json) |
 | Hunt Down the Freeman | 89147 | [89147-hunt-down-the-freeman.json](./89147-hunt-down-the-freeman.json) |
 | Hunt for Junk | 205247 | [205247-hunt-for-junk.json](./205247-hunt-for-junk.json) |
+| Hunt for the Shadow Rider | 140992 | [140992-hunt-for-the-shadow-rider.json](./140992-hunt-for-the-shadow-rider.json) |
 | Hunt Hide Run | 296916 | [296916-hunt-hide-run.json](./296916-hunt-hide-run.json) |
 | Hunt Royale | 159347 | [159347-hunt-royale.json](./159347-hunt-royale.json) |
 | Hunt the Thailand Hidden | 119696 | [119696-hunt-the-thailand-hidden.json](./119696-hunt-the-thailand-hidden.json) |
