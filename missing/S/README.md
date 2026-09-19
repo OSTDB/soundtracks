@@ -8452,6 +8452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter II | 321621 | [321621-street-fighter-ii.json](./321621-street-fighter-ii.json) |
 | Street Fighter II | 321622 | [321622-street-fighter-ii.json](./321622-street-fighter-ii.json) |
 | Street Fighter II Uno | 55063 | [55063-street-fighter-ii-uno.json](./55063-street-fighter-ii-uno.json) |
+| Street Fighter II: Ryu vs. Sagat | 155516 | [155516-street-fighter-ii-ryu-vs-sagat.json](./155516-street-fighter-ii-ryu-vs-sagat.json) |
 | Street Fighter III 2nd Impact: Giant Attack | 6709 | [6709-street-fighter-iii-2nd-impact-giant-attack.json](./6709-street-fighter-iii-2nd-impact-giant-attack.json) |
 | Street Fighter III: 3rd Strike | 243237 | [243237-street-fighter-iii-3rd-strike.json](./243237-street-fighter-iii-3rd-strike.json) |
 | Street Fighter III: Double Impact | 45194 | [45194-street-fighter-iii-double-impact.json](./45194-street-fighter-iii-double-impact.json) |
@@ -8756,6 +8757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subsurface | 411732 | [411732-subsurface.json](./411732-subsurface.json) |
 | Subsurface Circular | 54780 | [54780-subsurface-circular.json](./54780-subsurface-circular.json) |
 | Subtension | 239670 | [239670-subtension.json](./239670-subtension.json) |
+| Subterrain: Mines of Titan | 155497 | [155497-subterrain-mines-of-titan.json](./155497-subterrain-mines-of-titan.json) |
 | Subterranea | 55205 | [55205-subterranea.json](./55205-subterranea.json) |
 | Subterranean Detectives Orin and Satori | 185591 | [185591-subterranean-detectives-orin-and-satori.json](./185591-subterranean-detectives-orin-and-satori.json) |
 | Subterranean Library | 271304 | [271304-subterranean-library.json](./271304-subterranean-library.json) |
@@ -10018,6 +10020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sprint | 217981 | [217981-super-sprint.json](./217981-super-sprint.json) |
 | Super Spy Agents 3D | 197879 | [197879-super-spy-agents-3d.json](./197879-super-spy-agents-3d.json) |
 | Super Spy Violet | 335252 | [335252-super-spy-violet.json](./335252-super-spy-violet.json) |
+| Super Squad: Super Pack | 155467 | [155467-super-squad-super-pack.json](./155467-super-squad-super-pack.json) |
 | Super Stacey World | 223025 | [223025-super-stacey-world.json](./223025-super-stacey-world.json) |
 | Super Star | 32027 | [32027-super-star.json](./32027-super-star.json) |
 | Super Star Panda | 80950 | [80950-super-star-panda.json](./80950-super-star-panda.json) |
@@ -10333,6 +10336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive Avalon | 158709 | [158709-survive-avalon.json](./158709-survive-avalon.json) |
 | Survive in a little bit | 117698 | [117698-survive-in-a-little-bit.json](./117698-survive-in-a-little-bit.json) |
 | Survive in Angaria | 90125 | [90125-survive-in-angaria.json](./90125-survive-in-angaria.json) |
+| Survive Into Night | 155504 | [155504-survive-into-night.json](./155504-survive-into-night.json) |
 | Survive or Thrive | 148521 | [148521-survive-or-thrive.json](./148521-survive-or-thrive.json) |
 | Survive Ten Days | 306094 | [306094-survive-ten-days.json](./306094-survive-ten-days.json) |
 | Survive the Apocalypse | 404208 | [404208-survive-the-apocalypse.json](./404208-survive-the-apocalypse.json) |
@@ -10862,6 +10866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Tokyo Machine - "Turbo" | 356171 | [356171-synth-riders-tokyo-machine-turbo.json](./356171-synth-riders-tokyo-machine-turbo.json) |
 | Synth War Tactics | 151188 | [151188-synth-war-tactics.json](./151188-synth-war-tactics.json) |
 | Synthaar | 304880 | [304880-synthaar.json](./304880-synthaar.json) |
+| Synthalgia: Retro Arcade Racing | 155513 | [155513-synthalgia-retro-arcade-racing.json](./155513-synthalgia-retro-arcade-racing.json) |
 | Synther | 99008 | [99008-synther.json](./99008-synther.json) |
 | Syntherapy | 139473 | [139473-syntherapy.json](./139473-syntherapy.json) |
 | Synthetic Dreams | 51977 | [51977-synthetic-dreams.json](./51977-synthetic-dreams.json) |
