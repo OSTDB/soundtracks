@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Gum | 374054 | [374054-we-are-gum.json](./374054-we-are-gum.json) |
 | We Are Illuminati | 120333 | [120333-we-are-illuminati.json](./120333-we-are-illuminati.json) |
 | We Are Infinity | 283744 | [283744-we-are-infinity.json](./283744-we-are-infinity.json) |
+| We Are Live | 157034 | [157034-we-are-live.json](./157034-we-are-live.json) |
 | We Are Prophet | 400864 | [400864-we-are-prophet.json](./400864-we-are-prophet.json) |
 | We Are So Cooked | 388939 | [388939-we-are-so-cooked.json](./388939-we-are-so-cooked.json) |
 | We Are Stardust | 299162 | [299162-we-are-stardust.json](./299162-we-are-stardust.json) |
@@ -1018,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westfall | 343252 | [343252-westfall.json](./343252-westfall.json) |
 | Westgrove | 240321 | [240321-westgrove.json](./240321-westgrove.json) |
 | WestHalla | 257681 | [257681-westhalla.json](./257681-westhalla.json) |
+| WestLand Adventure | 157051 | [157051-westland-adventure.json](./157051-westland-adventure.json) |
 | Westland Cowboy: Rodeo Rider | 259631 | [259631-westland-cowboy-rodeo-rider.json](./259631-westland-cowboy-rodeo-rider.json) |
 | Westland Survival: Albino Alligator | 383360 | [383360-westland-survival-albino-alligator.json](./383360-westland-survival-albino-alligator.json) |
 | Westland Survival: Uncle Gab’s Signet | 383362 | [383362-westland-survival-uncle-gab-s-signet.json](./383362-westland-survival-uncle-gab-s-signet.json) |
