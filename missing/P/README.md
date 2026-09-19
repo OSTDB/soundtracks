@@ -2611,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet After Us | 195613 | [195613-planet-after-us.json](./195613-planet-after-us.json) |
 | Planet Alpha | 28070 | [28070-planet-alpha.json](./28070-planet-alpha.json) |
 | Planet Assault | 89936 | [89936-planet-assault.json](./89936-planet-assault.json) |
+| Planet B24 | 154374 | [154374-planet-b24.json](./154374-planet-b24.json) |
 | Planet Ballet | 179051 | [179051-planet-ballet.json](./179051-planet-ballet.json) |
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
 | Planet Coaster 2: Bonus Ride Collection | 371960 | [371960-planet-coaster-2-bonus-ride-collection.json](./371960-planet-coaster-2-bonus-ride-collection.json) |
