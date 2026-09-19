@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Quest: The Hawaiian Islands | 61674 | [61674-vacation-quest-the-hawaiian-islands.json](./61674-vacation-quest-the-hawaiian-islands.json) |
 | Vacation Tycoon | 265651 | [265651-vacation-tycoon.json](./265651-vacation-tycoon.json) |
 | Vaccine Case | 237959 | [237959-vaccine-case.json](./237959-vaccine-case.json) |
+| Vaccine Delivery Simulator | 164883 | [164883-vaccine-delivery-simulator.json](./164883-vaccine-delivery-simulator.json) |
 | Vaccine Hunter | 144355 | [144355-vaccine-hunter.json](./144355-vaccine-hunter.json) |
 | Vaccine Rebirth | 236842 | [236842-vaccine-rebirth.json](./236842-vaccine-rebirth.json) |
 | Vacuum Ball | 192820 | [192820-vacuum-ball.json](./192820-vacuum-ball.json) |
@@ -332,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Madness | 62167 | [62167-vector-madness.json](./62167-vector-madness.json) |
 | Vector Pinball | 207825 | [207825-vector-pinball.json](./207825-vector-pinball.json) |
 | Vector Prospector | 141144 | [141144-vector-prospector.json](./141144-vector-prospector.json) |
+| Vector Race | 164900 | [164900-vector-race.json](./164900-vector-race.json) |
 | Vector Runners | 179128 | [179128-vector-runners.json](./179128-vector-runners.json) |
 | Vector the Crocodile in Sonic the Hedgehog | 198530 | [198530-vector-the-crocodile-in-sonic-the-hedgehog.json](./198530-vector-the-crocodile-in-sonic-the-hedgehog.json) |
 | Vector Vaders | 41983 | [41983-vector-vaders.json](./41983-vector-vaders.json) |
@@ -1083,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Horizon | 188631 | [188631-voxel-horizon.json](./188631-voxel-horizon.json) |
 | Voxel Pirates | 147474 | [147474-voxel-pirates.json](./147474-voxel-pirates.json) |
 | Voxel Playground | 380575 | [380575-voxel-playground.json](./380575-voxel-playground.json) |
+| Voxel Printer | 164890 | [164890-voxel-printer.json](./164890-voxel-printer.json) |
 | Voxel Scavenger | 124240 | [124240-voxel-scavenger.json](./124240-voxel-scavenger.json) |
 | Voxel Shooter | 406110 | [406110-voxel-shooter.json](./406110-voxel-shooter.json) |
 | Voxel World | 312559 | [312559-voxel-world.json](./312559-voxel-world.json) |
