@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Online 2 | 327624 | [327624-fantasy-online-2.json](./327624-fantasy-online-2.json) |
 | Fantasy Quest Realm Survival | 339923 | [339923-fantasy-quest-realm-survival.json](./339923-fantasy-quest-realm-survival.json) |
 | Fantasy Raiders | 104009 | [104009-fantasy-raiders.json](./104009-fantasy-raiders.json) |
+| Fantasy Realm TD | 133197 | [133197-fantasy-realm-td.json](./133197-fantasy-realm-td.json) |
 | Fantasy Rivals | 63299 | [63299-fantasy-rivals.json](./63299-fantasy-rivals.json) |
 | Fantasy Shop | 238492 | [238492-fantasy-shop.json](./238492-fantasy-shop.json) |
 | Fantasy Simulator KnightX | 297629 | [297629-fantasy-simulator-knightx.json](./297629-fantasy-simulator-knightx.json) |
