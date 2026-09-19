@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passenger Rush | 227956 | [227956-passenger-rush.json](./227956-passenger-rush.json) |
 | Passengers of Execution | 143743 | [143743-passengers-of-execution.json](./143743-passengers-of-execution.json) |
 | Passengers on the Wind II | 37173 | [37173-passengers-on-the-wind-ii.json](./37173-passengers-on-the-wind-ii.json) |
+| Passing By: A Tailwind Journey | 139265 | [139265-passing-by-a-tailwind-journey.json](./139265-passing-by-a-tailwind-journey.json) |
 | Passing Pineview Forest | 17988 | [17988-passing-pineview-forest.json](./17988-passing-pineview-forest.json) |
 | Passing Shot | 12839 | [12839-passing-shot.json](./12839-passing-shot.json) |
 | Passing Time | 64384 | [64384-passing-time.json](./64384-passing-time.json) |
@@ -1859,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross DS | 10617 | [10617-picross-ds.json](./10617-picross-ds.json) |
 | Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
+| Picross for a Cause | 139253 | [139253-picross-for-a-cause.json](./139253-picross-for-a-cause.json) |
 | Picross S Capcom Classics Edition | 378164 | [378164-picross-s-capcom-classics-edition.json](./378164-picross-s-capcom-classics-edition.json) |
 | Picross S Doraemon & F Characters Edition | 335349 | [335349-picross-s-doraemon-and-f-characters-edition.json](./335349-picross-s-doraemon-and-f-characters-edition.json) |
 | Picross S Konami Antiques Edition | 395594 | [395594-picross-s-konami-antiques-edition.json](./395594-picross-s-konami-antiques-edition.json) |
