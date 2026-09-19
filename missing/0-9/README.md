@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7° Continente | 397054 | [397054-7-continente.json](./397054-7-continente.json) |
 | 70 Seconds! Adventure | 121777 | [121777-70-seconds-adventure.json](./121777-70-seconds-adventure.json) |
 | 70s-style Robot Anime Geppy-X | 392917 | [392917-70s-style-robot-anime-geppy-x.json](./392917-70s-style-robot-anime-geppy-x.json) |
+| 723 | 180145 | [180145-723.json](./180145-723.json) |
 | 747 Flight Simulator | 15582 | [15582-747-flight-simulator.json](./15582-747-flight-simulator.json) |
 | 75 Demons | 353373 | [353373-75-demons.json](./353373-75-demons.json) |
 | 768^2 | 271238 | [271238-768-2.json](./271238-768-2.json) |
