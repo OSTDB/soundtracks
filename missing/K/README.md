@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Without Sword | 263587 | [263587-knight-without-sword.json](./263587-knight-without-sword.json) |
 | Knight-Blade: Howling of Kerberos | 324886 | [324886-knight-blade-howling-of-kerberos.json](./324886-knight-blade-howling-of-kerberos.json) |
 | Knight's Destiny | 149037 | [149037-knights-destiny.json](./149037-knights-destiny.json) |
+| Knight's Edge | 165534 | [165534-knights-edge.json](./165534-knights-edge.json) |
 | Knight's move | 112357 | [112357-knights-move.json](./112357-knights-move.json) |
 | Knight's Night! | 327829 | [327829-knights-night.json](./327829-knights-night.json) |
 | Knight's Path: The Tournament | 278138 | [278138-knights-path-the-tournament.json](./278138-knights-path-the-tournament.json) |
@@ -1393,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KoboldKare | 344381 | [344381-koboldkare.json](./344381-koboldkare.json) |
 | KochiKame: Ryo-san's Billion-yen Beat | 402892 | [402892-kochikame-ryo-sans-billion-yen-beat.json](./402892-kochikame-ryo-sans-billion-yen-beat.json) |
 | Kochira, Haha Naru Hoshi Yori | 152912 | [152912-kochira-haha-naru-hoshi-yori.json](./152912-kochira-haha-naru-hoshi-yori.json) |
+| Kochiya Sanae no Kamikaze to Tomo ni | 165524 | [165524-kochiya-sanae-no-kamikaze-to-tomo-ni.json](./165524-kochiya-sanae-no-kamikaze-to-tomo-ni.json) |
 | Kodama | 262067 | [262067-kodama.json](./262067-kodama.json) |
 | Kode Zero | 362252 | [362252-kode-zero.json](./362252-kode-zero.json) |
 | Kodoku no Yurikago | 260941 | [260941-kodoku-no-yurikago.json](./260941-kodoku-no-yurikago.json) |
