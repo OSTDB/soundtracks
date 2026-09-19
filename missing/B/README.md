@@ -1324,9 +1324,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield REDSEC | 371393 | [371393-battlefield-redsec.json](./371393-battlefield-redsec.json) |
 | Battlefield: Bad Company 2 - Specact Kit Upgrade | 27654 | [27654-battlefield-bad-company-2-specact-kit-upgrade.json](./27654-battlefield-bad-company-2-specact-kit-upgrade.json) |
 | Battlefield: Bad Company 2 Vietnam | 607 | [607-battlefield-bad-company-2-vietnam.json](./607-battlefield-bad-company-2-vietnam.json) |
+| Battlefleet Gothic: Armada - Complete Edition | 154950 | [154950-battlefleet-gothic-armada-complete-edition.json](./154950-battlefleet-gothic-armada-complete-edition.json) |
 | Battlefleet Gothic: Armada - Deluxe Edition | 186341 | [186341-battlefleet-gothic-armada-deluxe-edition.json](./186341-battlefleet-gothic-armada-deluxe-edition.json) |
 | Battlefleet Gothic: Armada - Space Marines | 52637 | [52637-battlefleet-gothic-armada-space-marines.json](./52637-battlefleet-gothic-armada-space-marines.json) |
 | Battlefleet Gothic: Armada - Tau Empire | 52636 | [52636-battlefleet-gothic-armada-tau-empire.json](./52636-battlefleet-gothic-armada-tau-empire.json) |
+| Battlefleet Gothic: Armada 2 - Complete Edition | 154949 | [154949-battlefleet-gothic-armada-2-complete-edition.json](./154949-battlefleet-gothic-armada-2-complete-edition.json) |
 | Battlefleet Gothic: Armada 2 - Deluxe Edition | 186340 | [186340-battlefleet-gothic-armada-2-deluxe-edition.json](./186340-battlefleet-gothic-armada-2-deluxe-edition.json) |
 | Battlefleet Gothic: Leviathan | 34371 | [34371-battlefleet-gothic-leviathan.json](./34371-battlefleet-gothic-leviathan.json) |
 | Battlefront Trench Warriors: Ops of Warfare | 283294 | [283294-battlefront-trench-warriors-ops-of-warfare.json](./283294-battlefront-trench-warriors-ops-of-warfare.json) |
