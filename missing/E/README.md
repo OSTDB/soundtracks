@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endzone: A World Apart - Complete Edition | 218504 | [218504-endzone-a-world-apart-complete-edition.json](./218504-endzone-a-world-apart-complete-edition.json) |
 | Endzone: A World Apart - Save the World Edition | 154952 | [154952-endzone-a-world-apart-save-the-world-edition.json](./154952-endzone-a-world-apart-save-the-world-edition.json) |
 | Endzone: A World Apart - Survivor Edition | 193533 | [193533-endzone-a-world-apart-survivor-edition.json](./193533-endzone-a-world-apart-survivor-edition.json) |
+| ENEFN | 132620 | [132620-enefn.json](./132620-enefn.json) |
 | Enemies: Gone Suburban | 239649 | [239649-enemies-gone-suburban.json](./239649-enemies-gone-suburban.json) |
 | Enemy | 36034 | [36034-enemy.json](./36034-enemy.json) |
 | Enemy Engaged 2 | 20372 | [20372-enemy-engaged-2.json](./20372-enemy-engaged-2.json) |
@@ -1589,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Her | 389589 | [389589-escape-her.json](./389589-escape-her.json) |
 | Escape if you can - Buried | 101499 | [101499-escape-if-you-can-buried.json](./101499-escape-if-you-can-buried.json) |
 | Escape Inc. | 310581 | [310581-escape-inc.json](./310581-escape-inc.json) |
+| Escape Initiative | 132659 | [132659-escape-initiative.json](./132659-escape-initiative.json) |
 | Escape Island | 290915 | [290915-escape-island.json](./290915-escape-island.json) |
 | Escape IV - Prison Break | 90665 | [90665-escape-iv-prison-break.json](./90665-escape-iv-prison-break.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
