@@ -2196,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meeting Her | 253909 | [253909-meeting-her.json](./253909-meeting-her.json) |
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
 | Meeuw | 135829 | [135829-meeuw.json](./135829-meeuw.json) |
+| MEFB | 130736 | [130736-mefb.json](./130736-mefb.json) |
 | MEG 9: Lost Echoes | 59944 | [59944-meg-9-lost-echoes.json](./59944-meg-9-lost-echoes.json) |
 | Mega 99Vidas | 274000 | [274000-mega-99vidas.json](./274000-mega-99vidas.json) |
 | Mega Babies | 209532 | [209532-mega-babies.json](./209532-mega-babies.json) |
@@ -4115,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 9 Innings | 304051 | [304051-mlb-9-innings.json](./304051-mlb-9-innings.json) |
 | MLB 9 Innings 23 | 243137 | [243137-mlb-9-innings-23.json](./243137-mlb-9-innings-23.json) |
 | MLB Bobblehead Pros | 20562 | [20562-mlb-bobblehead-pros.json](./20562-mlb-bobblehead-pros.json) |
+| MLB Champions | 130783 | [130783-mlb-champions.json](./130783-mlb-champions.json) |
 | MLB Front Office Manager | 7073 | [7073-mlb-front-office-manager.json](./7073-mlb-front-office-manager.json) |
 | MLB Home Run Derby 18 | 96055 | [96055-mlb-home-run-derby-18.json](./96055-mlb-home-run-derby-18.json) |
 | MLB Home Run Derby 2020 | 133805 | [133805-mlb-home-run-derby-2020.json](./133805-mlb-home-run-derby-2020.json) |
