@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Crumble | 235306 | [235306-castle-crumble.json](./235306-castle-crumble.json) |
 | Castle Defender | 273909 | [273909-castle-defender.json](./273909-castle-defender.json) |
 | Castle Dice | 200035 | [200035-castle-dice.json](./200035-castle-dice.json) |
+| Castle Elsinore | 146106 | [146106-castle-elsinore.json](./146106-castle-elsinore.json) |
 | Castle Evalon | 323931 | [323931-castle-evalon.json](./323931-castle-evalon.json) |
 | Castle Explorer | 79838 | [79838-castle-explorer.json](./79838-castle-explorer.json) |
 | Castle Fantasia: Erencia Senki - Plus Stories | 408777 | [408777-castle-fantasia-erencia-senki-plus-stories.json](./408777-castle-fantasia-erencia-senki-plus-stories.json) |
@@ -2155,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chitei Tairiku Orudoora | 41379 | [41379-chitei-tairiku-orudoora.json](./41379-chitei-tairiku-orudoora.json) |
 | Chitin | 335989 | [335989-chitin.json](./335989-chitin.json) |
 | ChivalBee and the Mycelium Menace | 388228 | [388228-chivalbee-and-the-mycelium-menace.json](./388228-chivalbee-and-the-mycelium-menace.json) |
+| Chivalry 2: Day One Edition | 146126 | [146126-chivalry-2-day-one-edition.json](./146126-chivalry-2-day-one-edition.json) |
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
 | Chiyo | 266815 | [266815-chiyo.json](./266815-chiyo.json) |
 | Chkn | 34021 | [34021-chkn.json](./34021-chkn.json) |
@@ -5231,6 +5233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowd Medieval City War | 236522 | [236522-crowd-medieval-city-war.json](./236522-crowd-medieval-city-war.json) |
 | Crowd Sign: Emission | 190080 | [190080-crowd-sign-emission.json](./190080-crowd-sign-emission.json) |
 | Crowded Dungeon Crawler | 182993 | [182993-crowded-dungeon-crawler.json](./182993-crowded-dungeon-crawler.json) |
+| Crown | 146111 | [146111-crown.json](./146111-crown.json) |
 | Crown Champion: Legends of the Arena | 31349 | [31349-crown-champion-legends-of-the-arena.json](./31349-crown-champion-legends-of-the-arena.json) |
 | Crown Chase | 412268 | [412268-crown-chase.json](./412268-crown-chase.json) |
 | Crown Claimer | 187528 | [187528-crown-claimer.json](./187528-crown-claimer.json) |
