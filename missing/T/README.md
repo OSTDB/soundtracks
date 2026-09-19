@@ -4610,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rats in the Walls | 271489 | [271489-the-rats-in-the-walls.json](./271489-the-rats-in-the-walls.json) |
 | The Raven and the Light | 406782 | [406782-the-raven-and-the-light.json](./406782-the-raven-and-the-light.json) |
 | The Raven: Legacy of a Master Thief - Digital Deluxe Edition | 53771 | [53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json](./53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json) |
+| The Raven: Legacy of a Master Thief - Episode 2 | 172592 | [172592-the-raven-legacy-of-a-master-thief-episode-2.json](./172592-the-raven-legacy-of-a-master-thief-episode-2.json) |
 | The Real Deal 2 | 130849 | [130849-the-real-deal-2.json](./130849-the-real-deal-2.json) |
 | The Real Ghostbusters | 12841 | [12841-the-real-ghostbusters.json](./12841-the-real-ghostbusters.json) |
 | The Real Texas: Cellpop Goes Out At Night | 51923 | [51923-the-real-texas-cellpop-goes-out-at-night.json](./51923-the-real-texas-cellpop-goes-out-at-night.json) |
