@@ -2378,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint Together | 300981 | [300981-pixel-paint-together.json](./300981-pixel-paint-together.json) |
 | Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
 | Pixel Paint: Premium Edition | 241395 | [241395-pixel-paint-premium-edition.json](./241395-pixel-paint-premium-edition.json) |
+| Pixel Poops | 157054 | [157054-pixel-poops.json](./157054-pixel-poops.json) |
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
 | Pixel Push Football | 240868 | [240868-pixel-push-football.json](./240868-pixel-push-football.json) |
 | Pixel Puzzle Makeout League | 121603 | [121603-pixel-puzzle-makeout-league.json](./121603-pixel-puzzle-makeout-league.json) |
@@ -5227,6 +5228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles for Smart: Birds | 110978 | [110978-puzzles-for-smart-birds.json](./110978-puzzles-for-smart-birds.json) |
 | Puzzles for smart: Cats | 104017 | [104017-puzzles-for-smart-cats.json](./104017-puzzles-for-smart-cats.json) |
 | Puzzles for smart: Dogs | 107848 | [107848-puzzles-for-smart-dogs.json](./107848-puzzles-for-smart-dogs.json) |
+| Puzzletronics Digital Infinite | 157039 | [157039-puzzletronics-digital-infinite.json](./157039-puzzletronics-digital-infinite.json) |
 | Puzzline | 224541 | [224541-puzzline.json](./224541-puzzline.json) |
 | Puzzling Peaks EXE | 158690 | [158690-puzzling-peaks-exe.json](./158690-puzzling-peaks-exe.json) |
 | Puzzling Places: All Puzzles of 2024 Bundle | 353878 | [353878-puzzling-places-all-puzzles-of-2024-bundle.json](./353878-puzzling-places-all-puzzles-of-2024-bundle.json) |
