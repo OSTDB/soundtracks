@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UltraNothing | 277832 | [277832-ultranothing.json](./277832-ultranothing.json) |
 | Ultrapool | 380523 | [380523-ultrapool.json](./380523-ultrapool.json) |
 | Ultrasecreto/Prólogo | 382239 | [382239-ultrasecreto-prologo.json](./382239-ultrasecreto-prologo.json) |
+| UltraStar WorldParty | 138582 | [138582-ultrastar-worldparty.json](./138582-ultrastar-worldparty.json) |
 | Ultrawings Flat | 113038 | [113038-ultrawings-flat.json](./113038-ultrawings-flat.json) |
 | Ultrazone | 268223 | [268223-ultrazone.json](./268223-ultrazone.json) |
 | Ultron | 57133 | [57133-ultron.json](./57133-ultron.json) |
