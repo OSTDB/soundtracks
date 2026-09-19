@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardnarok: Raid with Gods | 132232 | [132232-cardnarok-raid-with-gods.json](./132232-cardnarok-raid-with-gods.json) |
 | Cardpocalypse: Time Warp Edition | 154554 | [154554-cardpocalypse-time-warp-edition.json](./154554-cardpocalypse-time-warp-edition.json) |
 | Cards | 12918 | [12918-cards.json](./12918-cards.json) |
+| Cards & Crystals | 156007 | [156007-cards-and-crystals.json](./156007-cards-and-crystals.json) |
 | Cards and Castles | 35497 | [35497-cards-and-castles.json](./35497-cards-and-castles.json) |
 | Cards and Castles 2 | 178080 | [178080-cards-and-castles-2.json](./178080-cards-and-castles-2.json) |
 | Cards and Dungeons | 325114 | [325114-cards-and-dungeons.json](./325114-cards-and-dungeons.json) |
@@ -809,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Catcher | 382766 | [382766-carrot-catcher.json](./382766-carrot-catcher.json) |
 | Carrot Clicker | 281536 | [281536-carrot-clicker.json](./281536-carrot-clicker.json) |
 | Carrot Girl Adventures | 165678 | [165678-carrot-girl-adventures.json](./165678-carrot-girl-adventures.json) |
+| Carrot Heart | 155979 | [155979-carrot-heart.json](./155979-carrot-heart.json) |
 | Carrot Overload | 337099 | [337099-carrot-overload.json](./337099-carrot-overload.json) |
 | Carrot Paradise | 311243 | [311243-carrot-paradise.json](./311243-carrot-paradise.json) |
 | Carrot Slime 2 | 159125 | [159125-carrot-slime-2.json](./159125-carrot-slime-2.json) |
@@ -2999,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Shell | 246437 | [246437-close-shell.json](./246437-close-shell.json) |
 | Close to the Sun | 55027 | [55027-close-to-the-sun.json](./55027-close-to-the-sun.json) |
 | Close to You | 217874 | [217874-close-to-you.json](./217874-close-to-you.json) |
+| CloseCall | 155991 | [155991-closecall.json](./155991-closecall.json) |
 | Closed Circuit | 254175 | [254175-closed-circuit.json](./254175-closed-circuit.json) |
 | Closed World | 312202 | [312202-closed-world.json](./312202-closed-world.json) |
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
@@ -3206,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename Kids Next Door: Operation B.E.S.T. | 342736 | [342736-codename-kids-next-door-operation-b-e-s-t.json](./342736-codename-kids-next-door-operation-b-e-s-t.json) |
 | Codename Kids Next Door: Tummy Trouble | 349934 | [349934-codename-kids-next-door-tummy-trouble.json](./349934-codename-kids-next-door-tummy-trouble.json) |
 | Codename Nemesis | 113646 | [113646-codename-nemesis.json](./113646-codename-nemesis.json) |
+| Codename Prodigy | 156020 | [156020-codename-prodigy.json](./156020-codename-prodigy.json) |
 | Codename: God | 305947 | [305947-codename-god.json](./305947-codename-god.json) |
 | Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
 | Codename: Panzers - Cold War | 15762 | [15762-codename-panzers-cold-war.json](./15762-codename-panzers-cold-war.json) |
@@ -5846,6 +5850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
 | Cyber Dose | 252243 | [252243-cyber-dose.json](./252243-cyber-dose.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
+| Cyber Factories | 156006 | [156006-cyber-factories.json](./156006-cyber-factories.json) |
 | Cyber Hearts Club | 311633 | [311633-cyber-hearts-club.json](./311633-cyber-hearts-club.json) |
 | Cyber​​ Honey | 193882 | [193882-cyber-honey.json](./193882-cyber-honey.json) |
 | Cyber Horror: Project S.Y.L.A. | 370110 | [370110-cyber-horror-project-s-y-l-a.json](./370110-cyber-horror-project-s-y-l-a.json) |
@@ -5853,6 +5858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Knight II: Chikyuu Teikoku no Yabou | 42548 | [42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json](./42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json) |
 | Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
 | Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
+| Cyber Noah | 156015 | [156015-cyber-noah.json](./156015-cyber-noah.json) |
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
 | Cyber Rail | 267468 | [267468-cyber-rail.json](./267468-cyber-rail.json) |
@@ -6003,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyrtabor | 159271 | [159271-cyrtabor.json](./159271-cyrtabor.json) |
 | Cyrus II Chess | 12988 | [12988-cyrus-ii-chess.json](./12988-cyrus-ii-chess.json) |
 | Cyto | 17431 | [17431-cyto.json](./17431-cyto.json) |
+| Cytoclash | 155989 | [155989-cytoclash.json](./155989-cytoclash.json) |
 | Cytokine Storm | 408088 | [408088-cytokine-storm.json](./408088-cytokine-storm.json) |
 | Cytoplasm Madness | 180839 | [180839-cytoplasm-madness.json](./180839-cytoplasm-madness.json) |
 | Cytron Masters | 22489 | [22489-cytron-masters.json](./22489-cytron-masters.json) |
