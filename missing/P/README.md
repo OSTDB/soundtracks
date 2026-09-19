@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Up Above: Gold Label Edition | 311462 | [311462-paradise-up-above-gold-label-edition.json](./311462-paradise-up-above-gold-label-edition.json) |
 | Paradise XRPL | 321549 | [321549-paradise-xrpl.json](./321549-paradise-xrpl.json) |
 | Paradize Project | 208418 | [208418-paradize-project.json](./208418-paradize-project.json) |
+| Paradox | 164872 | [164872-paradox.json](./164872-paradox.json) |
 | Paradox Lost | 330161 | [330161-paradox-lost.json](./330161-paradox-lost.json) |
 | Paradox Metal | 264142 | [264142-paradox-metal.json](./264142-paradox-metal.json) |
 | Paradox of the Cryptomancers | 99622 | [99622-paradox-of-the-cryptomancers.json](./99622-paradox-of-the-cryptomancers.json) |
@@ -4706,6 +4707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prove You're Human | 397804 | [397804-prove-youre-human.json](./397804-prove-youre-human.json) |
 | Proviant | 90618 | [90618-proviant.json](./90618-proviant.json) |
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
+| Provider | 164919 | [164919-provider.json](./164919-provider.json) |
 | Provoron | 258977 | [258977-provoron.json](./258977-provoron.json) |
 | Prowler | 55085 | [55085-prowler.json](./55085-prowler.json) |
 | Proxima | 406840 | [406840-proxima.json](./406840-proxima.json) |
