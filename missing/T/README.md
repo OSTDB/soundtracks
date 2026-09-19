@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Nebezem RPG: Red Peril | 115609 | [115609-tales-of-nebezem-rpg-red-peril.json](./115609-tales-of-nebezem-rpg-red-peril.json) |
 | Tales of Nebezem: Elemental Link | 86749 | [86749-tales-of-nebezem-elemental-link.json](./86749-tales-of-nebezem-elemental-link.json) |
 | Tales of Phantasia: Cross Edition | 351694 | [351694-tales-of-phantasia-cross-edition.json](./351694-tales-of-phantasia-cross-edition.json) |
+| Tales of Phantasia: Full Voice Edition | 152164 | [152164-tales-of-phantasia-full-voice-edition.json](./152164-tales-of-phantasia-full-voice-edition.json) |
 | Tales of Rein Ravine | 319551 | [319551-tales-of-rein-ravine.json](./319551-tales-of-rein-ravine.json) |
 | Tales of Shadowland | 185644 | [185644-tales-of-shadowland.json](./185644-tales-of-shadowland.json) |
 | Tales of Sorrow: Strawsbrough Town | 114358 | [114358-tales-of-sorrow-strawsbrough-town.json](./114358-tales-of-sorrow-strawsbrough-town.json) |
@@ -803,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap-Tap Shots | 287090 | [287090-tap-tap-shots.json](./287090-tap-tap-shots.json) |
 | Tap! Dig! My Museum! | 197353 | [197353-tap-dig-my-museum.json](./197353-tap-dig-my-museum.json) |
 | TapColors | 89712 | [89712-tapcolors.json](./89712-tapcolors.json) |
+| Tape Recovery Simulator 96K | 152110 | [152110-tape-recovery-simulator-96k.json](./152110-tape-recovery-simulator-96k.json) |
 | Tape To Tape | 190280 | [190280-tape-to-tape.json](./190280-tape-to-tape.json) |
 | Tape Us Out | 332402 | [332402-tape-us-out.json](./332402-tape-us-out.json) |
 | Tapeçaria | 334711 | [334711-tapecaria.json](./334711-tapecaria.json) |
@@ -1448,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrible Clicking Game | 215391 | [215391-terrible-clicking-game.json](./215391-terrible-clicking-game.json) |
 | Terrible Teeth | 167156 | [167156-terrible-teeth.json](./167156-terrible-teeth.json) |
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
+| Territorial.io | 152149 | [152149-territorial-io.json](./152149-territorial-io.json) |
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
 | Territory War 3 | 234156 | [234156-territory-war-3.json](./234156-territory-war-3.json) |
 | Territory: Farming and Fighting | 230944 | [230944-territory-farming-and-fighting.json](./230944-territory-farming-and-fighting.json) |
@@ -1549,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Block Puzzle | 309098 | [309098-tetris-block-puzzle.json](./309098-tetris-block-puzzle.json) |
 | Tetris City | 330701 | [330701-tetris-city.json](./330701-tetris-city.json) |
 | Tetris Deluxe | 215383 | [215383-tetris-deluxe.json](./215383-tetris-deluxe.json) |
+| Tetris Diamond | 152167 | [152167-tetris-diamond.json](./152167-tetris-diamond.json) |
 | Tetris Dotbas | 324510 | [324510-tetris-dotbas.json](./324510-tetris-dotbas.json) |
 | Tetris DS | 18599 | [18599-tetris-ds.json](./18599-tetris-ds.json) |
 | Tetris DS | 238199 | [238199-tetris-ds.json](./238199-tetris-ds.json) |
@@ -3645,6 +3649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Child | 289998 | [289998-the-last-child.json](./289998-the-last-child.json) |
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
 | The Last Cosmonaut | 413594 | [413594-the-last-cosmonaut.json](./413594-the-last-cosmonaut.json) |
+| The Last Cove | 152155 | [152155-the-last-cove.json](./152155-the-last-cove.json) |
 | The Last Cowboy | 119784 | [119784-the-last-cowboy.json](./119784-the-last-cowboy.json) |
 | The Last Craftsman | 229937 | [229937-the-last-craftsman.json](./229937-the-last-craftsman.json) |
 | The Last Crown: Midnight Horror | 17206 | [17206-the-last-crown-midnight-horror.json](./17206-the-last-crown-midnight-horror.json) |
@@ -7688,6 +7693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division 2: Warlords of New York - Season 3: Concealed Agenda | 217530 | [217530-tom-clancys-the-division-2-warlords-of-new-york-season-3-concealed-agenda.json](./217530-tom-clancys-the-division-2-warlords-of-new-york-season-3-concealed-agenda.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 4: End of Watch | 217531 | [217531-tom-clancys-the-division-2-warlords-of-new-york-season-4-end-of-watch.json](./217531-tom-clancys-the-division-2-warlords-of-new-york-season-4-end-of-watch.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 9: Hidden Alliance | 217536 | [217536-tom-clancys-the-division-2-warlords-of-new-york-season-9-hidden-alliance.json](./217536-tom-clancys-the-division-2-warlords-of-new-york-season-9-hidden-alliance.json) |
+| Tom Clancy's The Division 2: Year 1 Pass | 152165 | [152165-tom-clancys-the-division-2-year-1-pass.json](./152165-tom-clancys-the-division-2-year-1-pass.json) |
 | Tom Clancy's The Division: Gold Edition | 53822 | [53822-tom-clancys-the-division-gold-edition.json](./53822-tom-clancys-the-division-gold-edition.json) |
 | Tom Clancy's The Division: Heartland | 146881 | [146881-tom-clancys-the-division-heartland.json](./146881-tom-clancys-the-division-heartland.json) |
 | Tom Clancy's The Division: Parade Pack | 242572 | [242572-tom-clancys-the-division-parade-pack.json](./242572-tom-clancys-the-division-parade-pack.json) |
@@ -9468,6 +9474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TriPeaks | 282148 | [282148-tripeaks.json](./282148-tripeaks.json) |
 | TriPeaks Solitaire: Card Game | 89185 | [89185-tripeaks-solitaire-card-game.json](./89185-tripeaks-solitaire-card-game.json) |
 | Triphammer | 378920 | [378920-triphammer.json](./378920-triphammer.json) |
+| Triple | 152146 | [152146-triple.json](./152146-triple.json) |
 | Triple | 277861 | [277861-triple.json](./277861-triple.json) |
 | Triple Action | 5709 | [5709-triple-action.json](./5709-triple-action.json) |
 | Triple Agent! | 75144 | [75144-triple-agent.json](./75144-triple-agent.json) |
