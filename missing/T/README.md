@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Driver Simulation 2025 | 328476 | [328476-taxi-driver-simulation-2025.json](./328476-taxi-driver-simulation-2025.json) |
 | Taxi Driver Simulator | 366222 | [366222-taxi-driver-simulator.json](./366222-taxi-driver-simulator.json) |
 | Taxi in the Rain | 150177 | [150177-taxi-in-the-rain.json](./150177-taxi-in-the-rain.json) |
+| Taxi Journey | 133832 | [133832-taxi-journey.json](./133832-taxi-journey.json) |
 | Taxi Life: A City Driving Simulator | 215898 | [215898-taxi-life-a-city-driving-simulator.json](./215898-taxi-life-a-city-driving-simulator.json) |
 | Taxi Life: Supporter Pack | 293400 | [293400-taxi-life-supporter-pack.json](./293400-taxi-life-supporter-pack.json) |
 | Taxi of Miracles | 229932 | [229932-taxi-of-miracles.json](./229932-taxi-of-miracles.json) |
@@ -1227,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest: Treasure Lands | 151542 | [151542-tempest-treasure-lands.json](./151542-tempest-treasure-lands.json) |
 | Tempete sur les Bermudes | 310966 | [310966-tempete-sur-les-bermudes.json](./310966-tempete-sur-les-bermudes.json) |
 | Templar | 324332 | [324332-templar.json](./324332-templar.json) |
+| Templars | 133833 | [133833-templars.json](./133833-templars.json) |
 | Temple Dash: Jungle Adventure | 218497 | [218497-temple-dash-jungle-adventure.json](./218497-temple-dash-jungle-adventure.json) |
 | Temple Knight Saga: Oath of the Knight's Sword | 267682 | [267682-temple-knight-saga-oath-of-the-knights-sword.json](./267682-temple-knight-saga-oath-of-the-knights-sword.json) |
 | Temple Maker 64 | 400852 | [400852-temple-maker-64.json](./400852-temple-maker-64.json) |
@@ -1280,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
 | Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
 | Ten++ | 374132 | [374132-ten.json](./374132-ten.json) |
+| Tenable | 133791 | [133791-tenable.json](./133791-tenable.json) |
 | Tenants | 129152 | [129152-tenants.json](./129152-tenants.json) |
 | Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
 | Tenchi wo Kurau: Sangokushi Gunyuuden | 37790 | [37790-tenchi-wo-kurau-sangokushi-gunyuuden.json](./37790-tenchi-wo-kurau-sangokushi-gunyuuden.json) |
@@ -2278,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chaput's Baby | 217992 | [217992-the-chaputs-baby.json](./217992-the-chaputs-baby.json) |
 | The Charity Shop | 333942 | [333942-the-charity-shop.json](./333942-the-charity-shop.json) |
 | The Charm of Love | 157158 | [157158-the-charm-of-love.json](./157158-the-charm-of-love.json) |
+| The Chase | 133821 | [133821-the-chase.json](./133821-the-chase.json) |
 | The Chase: Ultimate Edition | 138568 | [138568-the-chase-ultimate-edition.json](./138568-the-chase-ultimate-edition.json) |
 | The Chaste Full-Metal Maiden - Leiria | 124262 | [124262-the-chaste-full-metal-maiden-leiria.json](./124262-the-chaste-full-metal-maiden-leiria.json) |
 | The Cheese Chase: Pizza Madness | 319772 | [319772-the-cheese-chase-pizza-madness.json](./319772-the-cheese-chase-pizza-madness.json) |
@@ -3049,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Football Quiz | 219171 | [219171-the-football-quiz.json](./219171-the-football-quiz.json) |
 | The Forage | 102802 | [102802-the-forage.json](./102802-the-forage.json) |
 | The Forbidden Tomes of Olipos | 411648 | [411648-the-forbidden-tomes-of-olipos.json](./411648-the-forbidden-tomes-of-olipos.json) |
+| The Forest Below | 133827 | [133827-the-forest-below.json](./133827-the-forest-below.json) |
 | The Forest Cries | 185101 | [185101-the-forest-cries.json](./185101-the-forest-cries.json) |
 | The Forest Keeper | 370190 | [370190-the-forest-keeper.json](./370190-the-forest-keeper.json) |
 | The Forest of Doom | 231461 | [231461-the-forest-of-doom.json](./231461-the-forest-of-doom.json) |
