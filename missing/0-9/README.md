@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Owen | 134578 | [134578-2d-owen.json](./134578-2d-owen.json) |
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
 | 2Dark: Deluxe Edition | 52545 | [52545-2dark-deluxe-edition.json](./52545-2dark-deluxe-edition.json) |
+| 2in1: Application Driver and Serial Killer / Sniper | 147818 | [147818-2in1-application-driver-and-serial-killer-sniper.json](./147818-2in1-application-driver-and-serial-killer-sniper.json) |
 | 2K Games Pack | 319564 | [319564-2k-games-pack.json](./319564-2k-games-pack.json) |
 | 2K Shells | 328033 | [328033-2k-shells.json](./328033-2k-shells.json) |
 | 2K1X Subzero Heroes | 304215 | [304215-2k1x-subzero-heroes.json](./304215-2k1x-subzero-heroes.json) |
@@ -608,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4th Time's the Charm | 362913 | [362913-4th-times-the-charm.json](./362913-4th-times-the-charm.json) |
 | 4WD Wild Rally | 300005 | [300005-4wd-wild-rally.json](./300005-4wd-wild-rally.json) |
 | 4x4 Adventure Rocky Pathways | 320371 | [320371-4x4-adventure-rocky-pathways.json](./320371-4x4-adventure-rocky-pathways.json) |
+| 4x4 Dirt Track | 147816 | [147816-4x4-dirt-track.json](./147816-4x4-dirt-track.json) |
 | 4x4 Dirt Track Forest Driving | 89197 | [89197-4x4-dirt-track-forest-driving.json](./89197-4x4-dirt-track-forest-driving.json) |
 | 4x4 EVO 2 | 5715 | [5715-4x4-evo-2.json](./5715-4x4-evo-2.json) |
 | 4x4 Mania | 139436 | [139436-4x4-mania.json](./139436-4x4-mania.json) |
