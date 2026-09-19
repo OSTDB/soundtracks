@@ -3509,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindhack | 151735 | [151735-mindhack.json](./151735-mindhack.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
 | MindMessenger | 342156 | [342156-mindmessenger.json](./342156-mindmessenger.json) |
+| Minds of Nations | 128985 | [128985-minds-of-nations.json](./128985-minds-of-nations.json) |
 | MindScape: Verenna | 274760 | [274760-mindscape-verenna.json](./274760-mindscape-verenna.json) |
 | Mindset | 68616 | [68616-mindset.json](./68616-mindset.json) |
 | Mindseye Blacklisted | 400290 | [400290-mindseye-blacklisted.json](./400290-mindseye-blacklisted.json) |
