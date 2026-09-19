@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bog's Heart | 176963 | [176963-the-bogs-heart.json](./176963-the-bogs-heart.json) |
 | The Boggy Region | 260940 | [260940-the-boggy-region.json](./260940-the-boggy-region.json) |
 | The Bogtavern | 236259 | [236259-the-bogtavern.json](./236259-the-bogtavern.json) |
+| The Bolt Age | 165532 | [165532-the-bolt-age.json](./165532-the-bolt-age.json) |
 | The Bomb Project | 124139 | [124139-the-bomb-project.json](./124139-the-bomb-project.json) |
 | The Bombing Islands | 3457 | [3457-the-bombing-islands.json](./3457-the-bombing-islands.json) |
 | The Bond | 368010 | [368010-the-bond.json](./368010-the-bond.json) |
@@ -4978,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Golden Years Kit | 350998 | [350998-the-sims-4-golden-years-kit.json](./350998-the-sims-4-golden-years-kit.json) |
 | The Sims 4: Grange Mudroom Kit | 362301 | [362301-the-sims-4-grange-mudroom-kit.json](./362301-the-sims-4-grange-mudroom-kit.json) |
 | The Sims 4: High School Years | 207387 | [207387-the-sims-4-high-school-years.json](./207387-the-sims-4-high-school-years.json) |
+| The Sims 4: Industrial Loft Kit | 165538 | [165538-the-sims-4-industrial-loft-kit.json](./165538-the-sims-4-industrial-loft-kit.json) |
 | The Sims 4: Kids Room Stuff | 121023 | [121023-the-sims-4-kids-room-stuff.json](./121023-the-sims-4-kids-room-stuff.json) |
 | The Sims 4: Kitchen Clutter Kit | 350996 | [350996-the-sims-4-kitchen-clutter-kit.json](./350996-the-sims-4-kitchen-clutter-kit.json) |
 | The Sims 4: Lady Bridgerton's Masquerade Ball Fashion Kit | 404233 | [404233-the-sims-4-lady-bridgertons-masquerade-ball-fashion-kit.json](./404233-the-sims-4-lady-bridgertons-masquerade-ball-fashion-kit.json) |
