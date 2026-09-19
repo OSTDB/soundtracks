@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Titans | 230933 | [230933-world-of-titans.json](./230933-world-of-titans.json) |
 | World of Vasnar | 356190 | [356190-world-of-vasnar.json](./356190-world-of-vasnar.json) |
 | World of Warcraft Classic: Season of Discovery | 275175 | [275175-world-of-warcraft-classic-season-of-discovery.json](./275175-world-of-warcraft-classic-season-of-discovery.json) |
+| World of Warcraft: Cataclysm - Collector's Edition | 136266 | [136266-world-of-warcraft-cataclysm-collectors-edition.json](./136266-world-of-warcraft-cataclysm-collectors-edition.json) |
 | World of Warcraft: Collector's Edition | 136994 | [136994-world-of-warcraft-collectors-edition.json](./136994-world-of-warcraft-collectors-edition.json) |
 | World of Warcraft: Midnight - Curse of Ula'tek | 411703 | [411703-world-of-warcraft-midnight-curse-of-ulatek.json](./411703-world-of-warcraft-midnight-curse-of-ulatek.json) |
 | World of Warcraft: Mists of Pandaria | 1332 | [1332-world-of-warcraft-mists-of-pandaria.json](./1332-world-of-warcraft-mists-of-pandaria.json) |
@@ -2664,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 5: WRC - eSports Pack 1 | 168739 | [168739-wrc-5-wrc-esports-pack-1.json](./168739-wrc-5-wrc-esports-pack-1.json) |
 | WRC 5: WRC - eSports Pack 2 | 168740 | [168740-wrc-5-wrc-esports-pack-2.json](./168740-wrc-5-wrc-esports-pack-2.json) |
 | WRC 8: Deluxe Edition | 216231 | [216231-wrc-8-deluxe-edition.json](./216231-wrc-8-deluxe-edition.json) |
+| WRC 9: Deluxe Edition | 136246 | [136246-wrc-9-deluxe-edition.json](./136246-wrc-9-deluxe-edition.json) |
 | Wreckage | 265258 | [265258-wreckage.json](./265258-wreckage.json) |
 | Wrecked Crash Simulator | 114965 | [114965-wrecked-crash-simulator.json](./114965-wrecked-crash-simulator.json) |
 | Wrecked: A Psychedelic Adventure | 265952 | [265952-wrecked-a-psychedelic-adventure.json](./265952-wrecked-a-psychedelic-adventure.json) |
@@ -2688,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckout | 123576 | [123576-wreckout.json](./123576-wreckout.json) |
 | Wreckreation | 213241 | [213241-wreckreation.json](./213241-wreckreation.json) |
 | Wrekless | 304739 | [304739-wrekless.json](./304739-wrekless.json) |
+| WrenchFighter Turbo | 136234 | [136234-wrenchfighter-turbo.json](./136234-wrenchfighter-turbo.json) |
 | Wrestle Kingdom | 7251 | [7251-wrestle-kingdom.json](./7251-wrestle-kingdom.json) |
 | Wrestle Story | 244509 | [244509-wrestle-story.json](./244509-wrestle-story.json) |
 | Wrestledunk Sports | 153361 | [153361-wrestledunk-sports.json](./153361-wrestledunk-sports.json) |
@@ -2763,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K17: New Moves Pack | 168354 | [168354-wwe-2k17-new-moves-pack.json](./168354-wwe-2k17-new-moves-pack.json) |
 | WWE 2K17: Nxt Edition | 205827 | [205827-wwe-2k17-nxt-edition.json](./205827-wwe-2k17-nxt-edition.json) |
 | WWE 2K17: NXT Enhancement Pack | 168351 | [168351-wwe-2k17-nxt-enhancement-pack.json](./168351-wwe-2k17-nxt-enhancement-pack.json) |
+| WWE 2K20: SmackDown! 20th Anniversary Edition | 136276 | [136276-wwe-2k20-smackdown-20th-anniversary-edition.json](./136276-wwe-2k20-smackdown-20th-anniversary-edition.json) |
 | WWE 2K21 | 132815 | [132815-wwe-2k21.json](./132815-wwe-2k21.json) |
 | WWE 2K22: Deluxe Edition | 188127 | [188127-wwe-2k22-deluxe-edition.json](./188127-wwe-2k22-deluxe-edition.json) |
 | WWE 2K23 | 233028 | [233028-wwe-2k23.json](./233028-wwe-2k23.json) |
