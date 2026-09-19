@@ -653,7 +653,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Stadium Heisei-ban | 46605 | [46605-gear-stadium-heisei-ban.json](./46605-gear-stadium-heisei-ban.json) |
 | Gear Up Einstein! | 342137 | [342137-gear-up-einstein.json](./342137-gear-up-einstein.json) |
 | Gear Up: Premium | 90552 | [90552-gear-up-premium.json](./90552-gear-up-premium.json) |
+| Gear.Club Unlimited 2: Definitive Edition | 172590 | [172590-gear-club-unlimited-2-definitive-edition.json](./172590-gear-club-unlimited-2-definitive-edition.json) |
 | Gear.Club Unlimited 2: Tracks Edition | 139963 | [139963-gear-club-unlimited-2-tracks-edition.json](./139963-gear-club-unlimited-2-tracks-edition.json) |
+| Gear.Club Unlimited 2: Ultimate Edition | 172591 | [172591-gear-club-unlimited-2-ultimate-edition.json](./172591-gear-club-unlimited-2-ultimate-edition.json) |
 | Gear.Club Unlimited 3 | 381154 | [381154-gear-club-unlimited-3.json](./381154-gear-club-unlimited-3.json) |
 | Gear.Club Unlimited 3: Career Start Pack | 385185 | [385185-gear-club-unlimited-3-career-start-pack.json](./385185-gear-club-unlimited-3-career-start-pack.json) |
 | Gear.Club Unlimited 3: Customization Pack | 385184 | [385184-gear-club-unlimited-3-customization-pack.json](./385184-gear-club-unlimited-3-customization-pack.json) |
@@ -1306,6 +1308,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Cannons | 181772 | [181772-glass-cannons.json](./181772-glass-cannons.json) |
 | Glass Heart | 234199 | [234199-glass-heart.json](./234199-glass-heart.json) |
 | Glass Hearts | 221191 | [221191-glass-hearts.json](./221191-glass-hearts.json) |
+| Glass Hime to Kagami no Juusha | 172587 | [172587-glass-hime-to-kagami-no-juusha.json](./172587-glass-hime-to-kagami-no-juusha.json) |
+| Glass Hime to Kagami no Juusha: Limited Edition | 172588 | [172588-glass-hime-to-kagami-no-juusha-limited-edition.json](./172588-glass-hime-to-kagami-no-juusha-limited-edition.json) |
 | Glass Horizon | 322604 | [322604-glass-horizon.json](./322604-glass-horizon.json) |
 | Glass Joe's Punch Out!! | 360100 | [360100-glass-joes-punch-out.json](./360100-glass-joes-punch-out.json) |
 | Glass Masquerade 2: Illusions | 109763 | [109763-glass-masquerade-2-illusions.json](./109763-glass-masquerade-2-illusions.json) |
