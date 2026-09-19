@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parcel Problems | 239061 | [239061-parcel-problems.json](./239061-parcel-problems.json) |
 | Parcels and Pollen | 177503 | [177503-parcels-and-pollen.json](./177503-parcels-and-pollen.json) |
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
+| Parchisi Star Online | 138606 | [138606-parchisi-star-online.json](./138606-parchisi-star-online.json) |
 | pareidolia in █▄██▄▄ | 280796 | [280796-pareidolia-in.json](./280796-pareidolia-in.json) |
 | Parents vs. Kids | 226320 | [226320-parents-vs-kids.json](./226320-parents-vs-kids.json) |
 | Parfait Fan Box | 332428 | [332428-parfait-fan-box.json](./332428-parfait-fan-box.json) |
