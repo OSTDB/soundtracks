@@ -1561,6 +1561,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semu | 265123 | [265123-semu.json](./265123-semu.json) |
 | Sen no Hatou, Tsukisome no Kouki: Hana Akari | 374662 | [374662-sen-no-hatou-tsukisome-no-kouki-hana-akari.json](./374662-sen-no-hatou-tsukisome-no-kouki-hana-akari.json) |
 | Sen no Inori no Paradox | 295928 | [295928-sen-no-inori-no-paradox.json](./295928-sen-no-inori-no-paradox.json) |
+| Senalux: Level Pack 3 | 168755 | [168755-senalux-level-pack-3.json](./168755-senalux-level-pack-3.json) |
+| Senalux: Level Pack 4 | 168756 | [168756-senalux-level-pack-4.json](./168756-senalux-level-pack-4.json) |
 | Send It: The Game | 277833 | [277833-send-it-the-game.json](./277833-send-it-the-game.json) |
 | Senda Salvaje | 272301 | [272301-senda-salvaje.json](./272301-senda-salvaje.json) |
 | Sender Unknown: The Woods | 74404 | [74404-sender-unknown-the-woods.json](./74404-sender-unknown-the-woods.json) |
@@ -7181,6 +7183,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Rank Boxing | 57664 | [57664-star-rank-boxing.json](./57664-star-rank-boxing.json) |
 | Star Rank Boxing II | 69871 | [69871-star-rank-boxing-ii.json](./69871-star-rank-boxing-ii.json) |
 | Star Renegades | 94816 | [94816-star-renegades.json](./94816-star-renegades.json) |
+| Star Renegades: Enter the Dragoon | 169276 | [169276-star-renegades-enter-the-dragoon.json](./169276-star-renegades-enter-the-dragoon.json) |
+| Star Renegades: The Imperium Strikes Back | 169277 | [169277-star-renegades-the-imperium-strikes-back.json](./169277-star-renegades-the-imperium-strikes-back.json) |
 | Star Renegades: Total Lunarcy | 166215 | [166215-star-renegades-total-lunarcy.json](./166215-star-renegades-total-lunarcy.json) |
 | Star Revenge 0.5: The Unused Levels | 260807 | [260807-star-revenge-0-5-the-unused-levels.json](./260807-star-revenge-0-5-the-unused-levels.json) |
 | Star Revenge 1: Star Takeover | 132841 | [132841-star-revenge-1-star-takeover.json](./132841-star-revenge-1-star-takeover.json) |
@@ -7801,6 +7805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Division 2: Nemesis - Battle of Rimini | 143080 | [143080-steel-division-2-nemesis-battle-of-rimini.json](./143080-steel-division-2-nemesis-battle-of-rimini.json) |
 | Steel Division 2: Reinforcement Pack #14 - Aces | 318438 | [318438-steel-division-2-reinforcement-pack-14-aces.json](./318438-steel-division-2-reinforcement-pack-14-aces.json) |
 | Steel Dragon Ex | 43341 | [43341-steel-dragon-ex.json](./43341-steel-dragon-ex.json) |
+| Steel Eagle: Cave Mission | 169287 | [169287-steel-eagle-cave-mission.json](./169287-steel-eagle-cave-mission.json) |
 | Steel Empire | 49383 | [49383-steel-empire.json](./49383-steel-empire.json) |
 | Steel Flood | 275710 | [275710-steel-flood.json](./275710-steel-flood.json) |
 | Steel Force | 39670 | [39670-steel-force.json](./39670-steel-force.json) |
