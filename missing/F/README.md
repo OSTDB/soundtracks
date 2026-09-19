@@ -2414,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
 | Floating Girl | 147391 | [147391-floating-girl.json](./147391-floating-girl.json) |
 | Floating Life 2 | 216788 | [216788-floating-life-2.json](./216788-floating-life-2.json) |
+| Floating Life in Other-World | 156531 | [156531-floating-life-in-other-world.json](./156531-floating-life-in-other-world.json) |
 | Floating Life Record | 264663 | [264663-floating-life-record.json](./264663-floating-life-record.json) |
 | Floating Sandbox | 167707 | [167707-floating-sandbox.json](./167707-floating-sandbox.json) |
 | Floating with Spirits | 383368 | [383368-floating-with-spirits.json](./383368-floating-with-spirits.json) |
