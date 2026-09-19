@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Duelist | 215670 | [215670-wandering-duelist.json](./215670-wandering-duelist.json) |
 | Wandering Maung | 381682 | [381682-wandering-maung.json](./381682-wandering-maung.json) |
 | Wandering Planet: Prelude | 298599 | [298599-wandering-planet-prelude.json](./298599-wandering-planet-prelude.json) |
+| Wandering Trails: A Hiking Game | 152742 | [152742-wandering-trails-a-hiking-game.json](./152742-wandering-trails-a-hiking-game.json) |
 | Wandering Willows | 16073 | [16073-wandering-willows.json](./16073-wandering-willows.json) |
 | Wanderland | 30901 | [30901-wanderland.json](./30901-wanderland.json) |
 | Wanderlust | 336914 | [336914-wanderlust.json](./336914-wanderlust.json) |
@@ -772,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
 | Wayfarer Survival Mini-Game | 63288 | [63288-wayfarer-survival-mini-game.json](./63288-wayfarer-survival-mini-game.json) |
 | Wayfarers: Call of Osiris | 156012 | [156012-wayfarers-call-of-osiris.json](./156012-wayfarers-call-of-osiris.json) |
+| Wayfinder | 152746 | [152746-wayfinder.json](./152746-wayfinder.json) |
 | Wayfinder: Episode One | 381694 | [381694-wayfinder-episode-one.json](./381694-wayfinder-episode-one.json) |
 | Wayne Gretzky and Brett Hull Shootout Hockey | 198953 | [198953-wayne-gretzky-and-brett-hull-shootout-hockey.json](./198953-wayne-gretzky-and-brett-hull-shootout-hockey.json) |
 | Wayne Gretzky Hockey | 15509 | [15509-wayne-gretzky-hockey.json](./15509-wayne-gretzky-hockey.json) |
@@ -1520,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
 | Wild Seasons | 273383 | [273383-wild-seasons.json](./273383-wild-seasons.json) |
 | Wild Shape | 180311 | [180311-wild-shape.json](./180311-wild-shape.json) |
+| Wild Souls | 152740 | [152740-wild-souls.json](./152740-wild-souls.json) |
 | Wild Streets | 12827 | [12827-wild-streets.json](./12827-wild-streets.json) |
 | Wild Tactics | 304746 | [304746-wild-tactics.json](./304746-wild-tactics.json) |
 | Wild Terra 2: New Lands | 126619 | [126619-wild-terra-2-new-lands.json](./126619-wild-terra-2-new-lands.json) |
