@@ -2090,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Hand | 176435 | [176435-evil-hand.json](./176435-evil-hand.json) |
 | Evil Hunter Tycoon | 197357 | [197357-evil-hunter-tycoon.json](./197357-evil-hunter-tycoon.json) |
 | Evil Icebox | 149001 | [149001-evil-icebox.json](./149001-evil-icebox.json) |
+| Evil Manor | 137485 | [137485-evil-manor.json](./137485-evil-manor.json) |
 | Evil Maze 2 | 111637 | [111637-evil-maze-2.json](./111637-evil-maze-2.json) |
 | Evil Next Door | 217366 | [217366-evil-next-door.json](./217366-evil-next-door.json) |
 | Evil Night | 94718 | [94718-evil-night.json](./94718-evil-night.json) |
@@ -2471,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
 | Eyewitness Virtual Reality: Dinosaur Hunter | 198384 | [198384-eyewitness-virtual-reality-dinosaur-hunter.json](./198384-eyewitness-virtual-reality-dinosaur-hunter.json) |
 | EZ-Talk Shokyuuhen 1-6 Kan Set | 93596 | [93596-ez-talk-shokyuuhen-1-6-kan-set.json](./93596-ez-talk-shokyuuhen-1-6-kan-set.json) |
+| EZ2AC | 137440 | [137440-ez2ac.json](./137440-ez2ac.json) |
 | EZ2Dancer | 92487 | [92487-ez2dancer.json](./92487-ez2dancer.json) |
 | EZ2on Reboot: R | 144282 | [144282-ez2on-reboot-r.json](./144282-ez2on-reboot-r.json) |
 | EZ2on Reboot: R - DJMAX Collaboration DLC | 269015 | [269015-ez2on-reboot-r-djmax-collaboration-dlc.json](./269015-ez2on-reboot-r-djmax-collaboration-dlc.json) |
