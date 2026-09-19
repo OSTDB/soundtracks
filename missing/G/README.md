@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gluttony | 353979 | [353979-gluttony.json](./353979-gluttony.json) |
 | Glyder: Adventure Worlds | 66110 | [66110-glyder-adventure-worlds.json](./66110-glyder-adventure-worlds.json) |
 | Glyph | 388223 | [388223-glyph.json](./388223-glyph.json) |
+| Glyph VR | 151534 | [151534-glyph-vr.json](./151534-glyph-vr.json) |
 | Glypha III | 70919 | [70919-glypha-iii.json](./70919-glypha-iii.json) |
 | Glyphica: Typing Survival | 291596 | [291596-glyphica-typing-survival.json](./291596-glyphica-typing-survival.json) |
 | Glyphs of Gitzan | 300997 | [300997-glyphs-of-gitzan.json](./300997-glyphs-of-gitzan.json) |
@@ -1585,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Cleanup | 282692 | [282692-goblin-cleanup.json](./282692-goblin-cleanup.json) |
 | Goblin Company | 386855 | [386855-goblin-company.json](./386855-goblin-company.json) |
 | Goblin Dice and Cleave | 370140 | [370140-goblin-dice-and-cleave.json](./370140-goblin-dice-and-cleave.json) |
+| Goblin Dungeoneer | 151526 | [151526-goblin-dungeoneer.json](./151526-goblin-dungeoneer.json) |
 | Goblin God | 413069 | [413069-goblin-god.json](./413069-goblin-god.json) |
 | Goblin Goopmaxxing | 375840 | [375840-goblin-goopmaxxing.json](./375840-goblin-goopmaxxing.json) |
 | Goblin Quest: Escape! | 115648 | [115648-goblin-quest-escape.json](./115648-goblin-quest-escape.json) |
@@ -1918,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Boy | 229329 | [229329-good-boy.json](./229329-good-boy.json) |
 | Good Boy 2 | 229330 | [229330-good-boy-2.json](./229330-good-boy-2.json) |
 | Good Boy! | 99629 | [99629-good-boy.json](./99629-good-boy.json) |
+| Good Bye Rebeca | 151573 | [151573-good-bye-rebeca.json](./151573-good-bye-rebeca.json) |
 | Good Children Say Grace | 404251 | [404251-good-children-say-grace.json](./404251-good-children-say-grace.json) |
 | Good Company | 107754 | [107754-good-company.json](./107754-good-company.json) |
 | Good Doggo | 99627 | [99627-good-doggo.json](./99627-good-doggo.json) |
