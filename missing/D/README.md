@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | David Douillet Judo | 57609 | [57609-david-douillet-judo.json](./57609-david-douillet-judo.json) |
 | David Leadbetter's Greens | 71545 | [71545-david-leadbetters-greens.json](./71545-david-leadbetters-greens.json) |
 | Davidic Matchup | 84178 | [84178-davidic-matchup.json](./84178-davidic-matchup.json) |
+| Davis Cup | 172597 | [172597-davis-cup.json](./172597-davis-cup.json) |
 | Davis Haunted House | 340942 | [340942-davis-haunted-house.json](./340942-davis-haunted-house.json) |
 | Davy Jones Dating Simulator | 282710 | [282710-davy-jones-dating-simulator.json](./282710-davy-jones-dating-simulator.json) |
 | Davy Jones' Locker | 177024 | [177024-davy-jones-locker.json](./177024-davy-jones-locker.json) |
