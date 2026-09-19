@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fierce Tales: Feline Sight | 123637 | [123637-fierce-tales-feline-sight.json](./123637-fierce-tales-feline-sight.json) |
 | Fierce Tales: Feline Sight - Collector's Edition | 88198 | [88198-fierce-tales-feline-sight-collectors-edition.json](./88198-fierce-tales-feline-sight-collectors-edition.json) |
 | Fiesta | 51217 | [51217-fiesta.json](./51217-fiesta.json) |
+| Fiete Match | 175273 | [175273-fiete-match.json](./175273-fiete-match.json) |
 | Fiets-Together | 395014 | [395014-fiets-together.json](./395014-fiets-together.json) |
 | FIFA 09 | 240317 | [240317-fifa-09.json](./240317-fifa-09.json) |
 | FIFA 14 | 240422 | [240422-fifa-14.json](./240422-fifa-14.json) |
@@ -2323,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip! The Cartoon Strategy Game | 57086 | [57086-flip-the-cartoon-strategy-game.json](./57086-flip-the-cartoon-strategy-game.json) |
 | Flipbomb | 371348 | [371348-flipbomb.json](./371348-flipbomb.json) |
 | FlipBook | 315831 | [315831-flipbook.json](./315831-flipbook.json) |
+| FlipFlipDuck | 175268 | [175268-flipflipduck.json](./175268-flipflipduck.json) |
 | Flipinity | 256357 | [256357-flipinity.json](./256357-flipinity.json) |
 | Fliplomacy | 103399 | [103399-fliplomacy.json](./103399-fliplomacy.json) |
 | Flipnote Studio | 85636 | [85636-flipnote-studio.json](./85636-flipnote-studio.json) |
@@ -3694,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Defense | 234934 | [234934-frontline-defense.json](./234934-frontline-defense.json) |
 | Frontline Defense 2 | 234935 | [234935-frontline-defense-2.json](./234935-frontline-defense-2.json) |
 | Frontline Steel | 363921 | [363921-frontline-steel.json](./363921-frontline-steel.json) |
+| Frontline: The Longest Day | 175270 | [175270-frontline-the-longest-day.json](./175270-frontline-the-longest-day.json) |
 | Froojarspootz! The Cleaning Monster | 387513 | [387513-froojarspootz-the-cleaning-monster.json](./387513-froojarspootz-the-cleaning-monster.json) |
 | Froot Basket Valentine | 179720 | [179720-froot-basket-valentine.json](./179720-froot-basket-valentine.json) |
 | Frost Bite | 317454 | [317454-frost-bite.json](./317454-frost-bite.json) |
