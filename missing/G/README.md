@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get to the Top 2: Breakthrough Gaming Arcade | 200726 | [200726-get-to-the-top-2-breakthrough-gaming-arcade.json](./200726-get-to-the-top-2-breakthrough-gaming-arcade.json) |
 | Get to Work | 322280 | [322280-get-to-work.json](./322280-get-to-work.json) |
 | Get to Work, Succubus-Chan! | 169356 | [169356-get-to-work-succubus-chan.json](./169356-get-to-work-succubus-chan.json) |
+| Get Together | 144126 | [144126-get-together.json](./144126-get-together.json) |
 | Get Up and Dance | 23396 | [23396-get-up-and-dance.json](./23396-get-up-and-dance.json) |
 | Get X, Avoid Y | 128604 | [128604-get-x-avoid-y.json](./128604-get-x-avoid-y.json) |
 | Get Your Sheep Together | 195160 | [195160-get-your-sheep-together.json](./195160-get-your-sheep-together.json) |
@@ -2853,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Sword | 26627 | [26627-guardian-sword.json](./26627-guardian-sword.json) |
 | Guardian Tactics: Deck of the Chosen | 292543 | [292543-guardian-tactics-deck-of-the-chosen.json](./292543-guardian-tactics-deck-of-the-chosen.json) |
 | Guardian Tales | 133433 | [133433-guardian-tales.json](./133433-guardian-tales.json) |
+| Guardians Frontline | 144110 | [144110-guardians-frontline.json](./144110-guardians-frontline.json) |
 | Guardians of Altarris: The Sinless Blade | 322213 | [322213-guardians-of-altarris-the-sinless-blade.json](./322213-guardians-of-altarris-the-sinless-blade.json) |
 | Guardians of Cloudia | 150083 | [150083-guardians-of-cloudia.json](./150083-guardians-of-cloudia.json) |
 | Guardians Of Gaia: Guardians 8 | 266321 | [266321-guardians-of-gaia-guardians-8.json](./266321-guardians-of-gaia-guardians-8.json) |
