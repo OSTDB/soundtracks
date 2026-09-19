@@ -537,6 +537,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine Melancholia | 138730 | [138730-sanguine-melancholia.json](./138730-sanguine-melancholia.json) |
 | Sanguo | 113003 | [113003-sanguo.json](./113003-sanguo.json) |
 | Sānguó Qúnyīng Lù | 407319 | [407319-sanguo-qunying-lu.json](./407319-sanguo-qunying-lu.json) |
+| Sānguó Qúnyīng Zhuán | 143495 | [143495-sanguo-qunying-zhuan.json](./143495-sanguo-qunying-zhuan.json) |
+| Sānguó Qúnyīng Zhuán IV | 143505 | [143505-sanguo-qunying-zhuan-iv.json](./143505-sanguo-qunying-zhuan-iv.json) |
+| Sānguó Qúnyīng Zhuán V | 143513 | [143513-sanguo-qunying-zhuan-v.json](./143513-sanguo-qunying-zhuan-v.json) |
+| Sānguó Qúnyīng Zhuán VI | 143520 | [143520-sanguo-qunying-zhuan-vi.json](./143520-sanguo-qunying-zhuan-vi.json) |
 | Sanguo Qunyingzhuan VII | 81260 | [81260-sanguo-qunyingzhuan-vii.json](./81260-sanguo-qunyingzhuan-vii.json) |
 | Sānguó Yóuxiá Zhì | 83569 | [83569-sanguo-youxia-zhi.json](./83569-sanguo-youxia-zhi.json) |
 | Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
@@ -2462,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shibuya Scramble Stories | 351642 | [351642-shibuya-scramble-stories.json](./351642-shibuya-scramble-stories.json) |
 | Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen | 229700 | [229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json](./229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json) |
 | Shield Arena | 412958 | [412958-shield-arena.json](./412958-shield-arena.json) |
+| Shield Cat | 143478 | [143478-shield-cat.json](./143478-shield-cat.json) |
 | Shield Hero | 351630 | [351630-shield-hero.json](./351630-shield-hero.json) |
 | Shieldbound | 349406 | [349406-shieldbound.json](./349406-shieldbound.json) |
 | Shieldmaiden | 129709 | [129709-shieldmaiden.json](./129709-shieldmaiden.json) |
@@ -3515,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six & Six | 392759 | [392759-six-and-six.json](./392759-six-and-six.json) |
 | Six Ages 2: Lights Going Out | 245860 | [245860-six-ages-2-lights-going-out.json](./245860-six-ages-2-lights-going-out.json) |
 | Six Cabins in Serpent Ridge National Forest | 287221 | [287221-six-cabins-in-serpent-ridge-national-forest.json](./287221-six-cabins-in-serpent-ridge-national-forest.json) |
+| Six Days in Fallujah | 143482 | [143482-six-days-in-fallujah.json](./143482-six-days-in-fallujah.json) |
 | Six Degrees of Damnation | 118981 | [118981-six-degrees-of-damnation.json](./118981-six-degrees-of-damnation.json) |
 | Six F and Six 0 | 151660 | [151660-six-f-and-six-0.json](./151660-six-f-and-six-0.json) |
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
@@ -10768,6 +10774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Daughter | 35937 | [35937-sword-daughter.json](./35937-sword-daughter.json) |
 | Sword Fight | 289876 | [289876-sword-fight.json](./289876-sword-fight.json) |
 | Sword Fishing | 180718 | [180718-sword-fishing.json](./180718-sword-fishing.json) |
+| Sword Game | 143473 | [143473-sword-game.json](./143473-sword-game.json) |
 | Sword Girls | 64902 | [64902-sword-girls.json](./64902-sword-girls.json) |
 | Sword Hero | 346122 | [346122-sword-hero.json](./346122-sword-hero.json) |
 | Sword Maker | 191095 | [191095-sword-maker.json](./191095-sword-maker.json) |
