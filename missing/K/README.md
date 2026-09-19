@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiddie Coaster | 66045 | [66045-kiddie-coaster.json](./66045-kiddie-coaster.json) |
 | Kiddies Party Pack | 100174 | [100174-kiddies-party-pack.json](./100174-kiddies-party-pack.json) |
 | Kiddy Memory | 221264 | [221264-kiddy-memory.json](./221264-kiddy-memory.json) |
+| Kidgames | 131351 | [131351-kidgames.json](./131351-kidgames.json) |
 | Kidname: Iceboy | 323333 | [323333-kidname-iceboy.json](./323333-kidname-iceboy.json) |
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kidney Stone Clicker | 369630 | [369630-kidney-stone-clicker.json](./369630-kidney-stone-clicker.json) |
@@ -1554,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi!: Limited Edition | 167152 | [167152-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-limited-edition.json](./167152-kono-subarashii-sekai-ni-shukufuku-wo-kibou-no-meikyuu-to-tsudoishi-boukensha-tachi-limited-edition.json) |
 | Kono Subarashii Sekai ni Shukufuku wo!: Kono Yokubukai Game ni Shinpan wo! | 112301 | [112301-kono-subarashii-sekai-ni-shukufuku-wo-kono-yokubukai-game-ni-shinpan-wo.json](./112301-kono-subarashii-sekai-ni-shukufuku-wo-kono-yokubukai-game-ni-shinpan-wo.json) |
 | Kono Warui Koneko-chan-me! | 202228 | [202228-kono-warui-koneko-chan-me.json](./202228-kono-warui-koneko-chan-me.json) |
+| Konoha Challenge | 131378 | [131378-konoha-challenge.json](./131378-konoha-challenge.json) |
 | Konohana 4: Yami wo Harau Inori | 213933 | [213933-konohana-4-yami-wo-harau-inori.json](./213933-konohana-4-yami-wo-harau-inori.json) |
 | KonoSuba: Fantastic Days! | 138261 | [138261-konosuba-fantastic-days.json](./138261-konosuba-fantastic-days.json) |
 | KonoSuba: God's Blessing on this Wonderful World! Judgment on this Greedy Game! | 34218 | [34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json](./34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json) |
