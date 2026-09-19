@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Sakura: Limited Edition | 212330 | [212330-sakura-sakura-limited-edition.json](./212330-sakura-sakura-limited-edition.json) |
 | Sakura Santa | 34032 | [34032-sakura-santa.json](./34032-sakura-santa.json) |
 | Sakura School Simulator | 208944 | [208944-sakura-school-simulator.json](./208944-sakura-school-simulator.json) |
+| Sakura Stars | 132662 | [132662-sakura-stars.json](./132662-sakura-stars.json) |
 | Sakura Succubus 2 | 146837 | [146837-sakura-succubus-2.json](./146837-sakura-succubus-2.json) |
 | Sakura Succubus 3 | 152892 | [152892-sakura-succubus-3.json](./152892-sakura-succubus-3.json) |
 | Sakura Succubus 8 | 353952 | [353952-sakura-succubus-8.json](./353952-sakura-succubus-8.json) |
@@ -2405,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Quest | 340379 | [340379-sheep-quest.json](./340379-sheep-quest.json) |
 | Sheep's Symphony | 294455 | [294455-sheeps-symphony.json](./294455-sheeps-symphony.json) |
 | Sheepageddon | 108429 | [108429-sheepageddon.json](./108429-sheepageddon.json) |
+| Sheepdog Simulator | 132658 | [132658-sheepdog-simulator.json](./132658-sheepdog-simulator.json) |
 | Sheepdogs | 244878 | [244878-sheepdogs.json](./244878-sheepdogs.json) |
 | Sheepers | 315287 | [315287-sheepers.json](./315287-sheepers.json) |
 | Sheepherds! | 334710 | [334710-sheepherds.json](./334710-sheepherds.json) |
@@ -4349,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash N' Crash | 367455 | [367455-smash-n-crash.json](./367455-smash-n-crash.json) |
 | Smash Pixel Racing | 33154 | [33154-smash-pixel-racing.json](./33154-smash-pixel-racing.json) |
 | Smash Realm | 402941 | [402941-smash-realm.json](./402941-smash-realm.json) |
+| Smash Remix | 132637 | [132637-smash-remix.json](./132637-smash-remix.json) |
 | Smash Remix: Version 1.1.0 | 255783 | [255783-smash-remix-version-1-1-0.json](./255783-smash-remix-version-1-1-0.json) |
 | Smash Remix: Version 1.2.0 | 255784 | [255784-smash-remix-version-1-2-0.json](./255784-smash-remix-version-1-2-0.json) |
 | Smash Remix: Version 1.3.0 | 255786 | [255786-smash-remix-version-1-3-0.json](./255786-smash-remix-version-1-3-0.json) |
@@ -9726,10 +9729,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 Android Port | 307315 | [307315-super-mario-64-android-port.json](./307315-super-mario-64-android-port.json) |
 | Super Mario 64 Another Castle | 265238 | [265238-super-mario-64-another-castle.json](./265238-super-mario-64-another-castle.json) |
 | Super Mario 64 Chaos Edition | 132836 | [132836-super-mario-64-chaos-edition.json](./132836-super-mario-64-chaos-edition.json) |
+| Super Mario 64 Disk Version | 132644 | [132644-super-mario-64-disk-version.json](./132644-super-mario-64-disk-version.json) |
 | Super Mario 64 DOS Port | 307320 | [307320-super-mario-64-dos-port.json](./307320-super-mario-64-dos-port.json) |
 | Super Mario 64 EX Alo | 307321 | [307321-super-mario-64-ex-alo.json](./307321-super-mario-64-ex-alo.json) |
 | Super Mario 64 HD | 176900 | [176900-super-mario-64-hd.json](./176900-super-mario-64-hd.json) |
 | Super Mario 64 in Tomb Raider | 262677 | [262677-super-mario-64-in-tomb-raider.json](./262677-super-mario-64-in-tomb-raider.json) |
+| Super Mario 64 Land | 132609 | [132609-super-mario-64-land.json](./132609-super-mario-64-land.json) |
 | Super Mario 64 Maker | 135229 | [135229-super-mario-64-maker.json](./135229-super-mario-64-maker.json) |
 | Super Mario 64 Nintendo 3DS Port | 307314 | [307314-super-mario-64-nintendo-3ds-port.json](./307314-super-mario-64-nintendo-3ds-port.json) |
 | Super Mario 64 NX | 307317 | [307317-super-mario-64-nx.json](./307317-super-mario-64-nx.json) |
@@ -9858,6 +9863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Maker: Key Update! | 364580 | [364580-super-mario-maker-key-update.json](./364580-super-mario-maker-key-update.json) |
 | Super Mario MoonShine 64 | 198370 | [198370-super-mario-moonshine-64.json](./198370-super-mario-moonshine-64.json) |
 | Super Mario Nation | 381728 | [381728-super-mario-nation.json](./381728-super-mario-nation.json) |
+| Super Mario Odyssey 64 | 132640 | [132640-super-mario-odyssey-64.json](./132640-super-mario-odyssey-64.json) |
 | Super Mario Odyssey Safari | 250042 | [250042-super-mario-odyssey-safari.json](./250042-super-mario-odyssey-safari.json) |
 | Super Mario Odyssey: 2D Mario in 3D! | 247533 | [247533-super-mario-odyssey-2d-mario-in-3d.json](./247533-super-mario-odyssey-2d-mario-in-3d.json) |
 | Super Mario Odyssey: Bon-Bones Mountain | 246625 | [246625-super-mario-odyssey-bon-bones-mountain.json](./246625-super-mario-odyssey-bon-bones-mountain.json) |
