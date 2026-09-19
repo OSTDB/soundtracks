@@ -1845,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Twister | 191820 | [191820-maze-twister.json](./191820-maze-twister.json) |
 | Maze Walk VR - Virtual Reality Game Puzzle Apps | 88063 | [88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json](./88063-maze-walk-vr-virtual-reality-game-puzzle-apps.json) |
 | Maze Wars | 116316 | [116316-maze-wars.json](./116316-maze-wars.json) |
+| Maze Zen | 175296 | [175296-maze-zen.json](./175296-maze-zen.json) |
 | Maze: Path of Light | 322572 | [322572-maze-path-of-light.json](./322572-maze-path-of-light.json) |
 | Maze: Path of Light - Forest Edition | 362372 | [362372-maze-path-of-light-forest-edition.json](./362372-maze-path-of-light-forest-edition.json) |
 | Mazebert TD | 207848 | [207848-mazebert-td.json](./207848-mazebert-td.json) |
@@ -2043,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Combat: Age of Glory | 216354 | [216354-medieval-combat-age-of-glory.json](./216354-medieval-combat-age-of-glory.json) |
 | Medieval Conquest | 305948 | [305948-medieval-conquest.json](./305948-medieval-conquest.json) |
 | Medieval Defence | 235997 | [235997-medieval-defence.json](./235997-medieval-defence.json) |
+| Medieval Defenders HD | 175286 | [175286-medieval-defenders-hd.json](./175286-medieval-defenders-hd.json) |
 | Medieval Delivery | 263519 | [263519-medieval-delivery.json](./263519-medieval-delivery.json) |
 | Medieval Dungeon | 230952 | [230952-medieval-dungeon.json](./230952-medieval-dungeon.json) |
 | Medieval Dynasty: Echoes of Nature | 366852 | [366852-medieval-dynasty-echoes-of-nature.json](./366852-medieval-dynasty-echoes-of-nature.json) |
@@ -2105,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Me at the Apple Garden | 374608 | [374608-meet-me-at-the-apple-garden.json](./374608-meet-me-at-the-apple-garden.json) |
 | Meet Media Band | 209533 | [209533-meet-media-band.json](./209533-meet-media-band.json) |
 | Meet My Teacher | 289873 | [289873-meet-my-teacher.json](./289873-meet-my-teacher.json) |
+| Meet Santa | 175300 | [175300-meet-santa.json](./175300-meet-santa.json) |
 | Meet Santa | 326969 | [326969-meet-santa.json](./326969-meet-santa.json) |
 | Meet the Girls | 181801 | [181801-meet-the-girls.json](./181801-meet-the-girls.json) |
 | Meet the Letters Flashcards: Lowercase | 101569 | [101569-meet-the-letters-flashcards-lowercase.json](./101569-meet-the-letters-flashcards-lowercase.json) |
@@ -2544,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mentai Uncensored | 110608 | [110608-mentai-uncensored.json](./110608-mentai-uncensored.json) |
 | Mental | 130347 | [130347-mental.json](./130347-mental.json) |
 | Mental Harm | 235751 | [235751-mental-harm.json](./235751-mental-harm.json) |
+| Mental Hospital II HD | 175302 | [175302-mental-hospital-ii-hd.json](./175302-mental-hospital-ii-hd.json) |
 | Mental Hospital IV | 292817 | [292817-mental-hospital-iv.json](./292817-mental-hospital-iv.json) |
 | Mental Hospital V | 200030 | [200030-mental-hospital-v.json](./200030-mental-hospital-v.json) |
 | Mental Salvo | 311659 | [311659-mental-salvo.json](./311659-mental-salvo.json) |
@@ -2937,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michael Jackson: Baby Drop | 320979 | [320979-michael-jackson-baby-drop.json](./320979-michael-jackson-baby-drop.json) |
 | Michael Jackson's Moonwalker | 262508 | [262508-michael-jacksons-moonwalker.json](./262508-michael-jacksons-moonwalker.json) |
 | Michael Owen's WLS 2000 | 3407 | [3407-michael-owens-wls-2000.json](./3407-michael-owens-wls-2000.json) |
+| Michael Schacht's Web of Power Card Game: The Duel | 175293 | [175293-michael-schachts-web-of-power-card-game-the-duel.json](./175293-michael-schachts-web-of-power-card-game-the-duel.json) |
 | Michael's Dream Adventure | 378815 | [378815-michaels-dream-adventure.json](./378815-michaels-dream-adventure.json) |
 | Michel Futbol Master + Super Skills | 93076 | [93076-michel-futbol-master-super-skills.json](./93076-michel-futbol-master-super-skills.json) |
 | Michelle Kwan Fiqure Skating | 209518 | [209518-michelle-kwan-fiqure-skating.json](./209518-michelle-kwan-fiqure-skating.json) |
@@ -4001,6 +4006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMA Arena | 117047 | [117047-mma-arena.json](./117047-mma-arena.json) |
 | MMA Championship | 189178 | [189178-mma-championship.json](./189178-mma-championship.json) |
 | MMA Federation | 116394 | [116394-mma-federation.json](./116394-mma-federation.json) |
+| MMA Manager | 175306 | [175306-mma-manager.json](./175306-mma-manager.json) |
 | MMA Manager 2: Ultimate Fight | 174811 | [174811-mma-manager-2-ultimate-fight.json](./174811-mma-manager-2-ultimate-fight.json) |
 | MMM | 343815 | [343815-mmm.json](./343815-mmm.json) |
 | Mmm Fingers | 117752 | [117752-mmm-fingers.json](./117752-mmm-fingers.json) |
@@ -5032,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Championship 26 | 385089 | [385089-moto-championship-26.json](./385089-moto-championship-26.json) |
 | Moto Extreme | 70342 | [70342-moto-extreme.json](./70342-moto-extreme.json) |
 | Moto GP: Ultimate racing technology | 8268 | [8268-moto-gp-ultimate-racing-technology.json](./8268-moto-gp-ultimate-racing-technology.json) |
+| Moto Heyalda | 175288 | [175288-moto-heyalda.json](./175288-moto-heyalda.json) |
 | Moto Knight | 287203 | [287203-moto-knight.json](./287203-moto-knight.json) |
 | Moto Mania Dirt Bike Challenge | 102829 | [102829-moto-mania-dirt-bike-challenge.json](./102829-moto-mania-dirt-bike-challenge.json) |
 | Moto Mouse Stunt Mania | 193475 | [193475-moto-mouse-stunt-mania.json](./193475-moto-mouse-stunt-mania.json) |
@@ -6157,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Mine | 30134 | [30134-mystery-mine.json](./30134-mystery-mine.json) |
 | Mystery Museum | 146858 | [146858-mystery-museum.json](./146858-mystery-museum.json) |
 | Mystery of Camp Enigma | 147447 | [147447-mystery-of-camp-enigma.json](./147447-mystery-of-camp-enigma.json) |
+| Mystery of Fortune 3 | 175263 | [175263-mystery-of-fortune-3.json](./175263-mystery-of-fortune-3.json) |
 | Mystery of Gevaudan | 332448 | [332448-mystery-of-gevaudan.json](./332448-mystery-of-gevaudan.json) |
 | Mystery of Hidden Inheritance | 95581 | [95581-mystery-of-hidden-inheritance.json](./95581-mystery-of-hidden-inheritance.json) |
 | Mystery of Munroe Manor | 298865 | [298865-mystery-of-munroe-manor.json](./298865-mystery-of-munroe-manor.json) |
