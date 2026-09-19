@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady's Hentai Mosaic | 112981 | [112981-ladys-hentai-mosaic.json](./112981-ladys-hentai-mosaic.json) |
 | Ladybug dress up | 101588 | [101588-ladybug-dress-up.json](./101588-ladybug-dress-up.json) |
 | Ladybug Quest | 113753 | [113753-ladybug-quest.json](./113753-ladybug-quest.json) |
+| Ladylike | 152769 | [152769-ladylike.json](./152769-ladylike.json) |
 | Laf Pak | 279740 | [279740-laf-pak.json](./279740-laf-pak.json) |
 | Laf the game | 226204 | [226204-laf-the-game.json](./226204-laf-the-game.json) |
 | Laffy Taffy Long-Lasting 3D Pyramid Challenge | 373555 | [373555-laffy-taffy-long-lasting-3d-pyramid-challenge.json](./373555-laffy-taffy-long-lasting-3d-pyramid-challenge.json) |
