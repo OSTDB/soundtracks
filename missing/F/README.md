@@ -3438,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frayed | 292314 | [292314-frayed.json](./292314-frayed.json) |
 | Frayhem | 146723 | [146723-frayhem.json](./146723-frayhem.json) |
 | Frazzle Dazzle | 180710 | [180710-frazzle-dazzle.json](./180710-frazzle-dazzle.json) |
+| Freak Control | 137490 | [137490-freak-control.json](./137490-freak-control.json) |
 | Freak Factory | 265664 | [265664-freak-factory.json](./265664-freak-factory.json) |
 | Freaked Fleapit | 204437 | [204437-freaked-fleapit.json](./204437-freaked-fleapit.json) |
 | Freakfield 2042 | 195268 | [195268-freakfield-2042.json](./195268-freakfield-2042.json) |
