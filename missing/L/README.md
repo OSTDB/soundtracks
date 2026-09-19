@@ -1906,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Shadow | 381602 | [381602-little-shadow.json](./381602-little-shadow.json) |
 | Little Shaker: Summer Adventures | 237623 | [237623-little-shaker-summer-adventures.json](./237623-little-shaker-summer-adventures.json) |
 | Little Shop - World Traveler | 53277 | [53277-little-shop-world-traveler.json](./53277-little-shop-world-traveler.json) |
+| Little Shop of Junk | 128995 | [128995-little-shop-of-junk.json](./128995-little-shop-of-junk.json) |
 | Little Sick Girls: Kagami no Naka no Idol | 415135 | [415135-little-sick-girls-kagami-no-naka-no-idol.json](./415135-little-sick-girls-kagami-no-naka-no-idol.json) |
 | Little Sick Girls: Momo Mitsu ha Imouto no Kaori | 415137 | [415137-little-sick-girls-momo-mitsu-ha-imouto-no-kaori.json](./415137-little-sick-girls-momo-mitsu-ha-imouto-no-kaori.json) |
 | Little Sick Girls: Osananajimi no Koibito | 415134 | [415134-little-sick-girls-osananajimi-no-koibito.json](./415134-little-sick-girls-osananajimi-no-koibito.json) |
@@ -2901,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
 | Lufia: The Ruins of Lore | 1180 | [1180-lufia-the-ruins-of-lore.json](./1180-lufia-the-ruins-of-lore.json) |
 | Luft Gears | 377060 | [377060-luft-gears.json](./377060-luft-gears.json) |
+| Lufulus' Creatures | 129000 | [129000-lufulus-creatures.json](./129000-lufulus-creatures.json) |
 | Lug's Delightful Dioramas | 198463 | [198463-lugs-delightful-dioramas.json](./198463-lugs-delightful-dioramas.json) |
 | Lug's Delightful Dioramas PC | 378296 | [378296-lugs-delightful-dioramas-pc.json](./378296-lugs-delightful-dioramas-pc.json) |
 | Luge Crush 2018 | 87201 | [87201-luge-crush-2018.json](./87201-luge-crush-2018.json) |
