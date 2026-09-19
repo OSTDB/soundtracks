@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of the Woods | 102326 | [102326-heart-of-the-woods.json](./102326-heart-of-the-woods.json) |
 | Heart on Your Sleeve | 178533 | [178533-heart-on-your-sleeve.json](./178533-heart-on-your-sleeve.json) |
 | Heart Piano Tiles | 96697 | [96697-heart-piano-tiles.json](./96697-heart-piano-tiles.json) |
+| Heart Rocket | 177410 | [177410-heart-rocket.json](./177410-heart-rocket.json) |
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
 | Heart-Warming Deliveries | 345598 | [345598-heart-warming-deliveries.json](./345598-heart-warming-deliveries.json) |
 | Heart.HalfHalf | 260384 | [260384-heart-halfhalf.json](./260384-heart-halfhalf.json) |
@@ -2643,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home_0 | 325661 | [325661-home-0.json](./325661-home-0.json) |
 | Home: Boov Pop! | 344931 | [344931-home-boov-pop.json](./344931-home-boov-pop.json) |
 | Home: Mother | 305762 | [305762-home-mother.json](./305762-home-mother.json) |
+| Home's Embrace | 177403 | [177403-homes-embrace.json](./177403-homes-embrace.json) |
 | Homebound | 178519 | [178519-homebound.json](./178519-homebound.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
 | Homecoming | 271314 | [271314-homecoming.json](./271314-homecoming.json) |
@@ -3494,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Yankee | 55159 | [55159-hunting-yankee.json](./55159-hunting-yankee.json) |
 | Huntscape | 219692 | [219692-huntscape.json](./219692-huntscape.json) |
 | Huntsman Against Darkness | 408937 | [408937-huntsman-against-darkness.json](./408937-huntsman-against-darkness.json) |
+| Hupsi | 177436 | [177436-hupsi.json](./177436-hupsi.json) |
 | Hurdle Turtle 2 | 58264 | [58264-hurdle-turtle-2.json](./58264-hurdle-turtle-2.json) |
 | Hurdle Turtle Forever | 58262 | [58262-hurdle-turtle-forever.json](./58262-hurdle-turtle-forever.json) |
 | Hurdles | 192295 | [192295-hurdles.json](./192295-hurdles.json) |
@@ -3502,6 +3505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
 | Hush | 95475 | [95475-hush.json](./95475-hush.json) |
 | Hush Darling | 415099 | [415099-hush-darling.json](./415099-hush-darling.json) |
+| Hush Little Lily | 177395 | [177395-hush-little-lily.json](./177395-hush-little-lily.json) |
 | Hush: In Search of Dominic Ward | 116298 | [116298-hush-in-search-of-dominic-ward.json](./116298-hush-in-search-of-dominic-ward.json) |
 | Husk | 179682 | [179682-husk.json](./179682-husk.json) |
 | Husk | 18966 | [18966-husk.json](./18966-husk.json) |
