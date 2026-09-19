@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warehouse 30 | 403013 | [403013-warehouse-30.json](./403013-warehouse-30.json) |
 | Warehouse Bots | 298179 | [298179-warehouse-bots.json](./298179-warehouse-bots.json) |
 | Warehouse Manager Simulator | 294296 | [294296-warehouse-manager-simulator.json](./294296-warehouse-manager-simulator.json) |
+| Warehouse Simulator | 158597 | [158597-warehouse-simulator.json](./158597-warehouse-simulator.json) |
 | Warehouse Simulator | 377156 | [377156-warehouse-simulator.json](./377156-warehouse-simulator.json) |
 | Warehouse Simulator: Forklift Driver | 190070 | [190070-warehouse-simulator-forklift-driver.json](./190070-warehouse-simulator-forklift-driver.json) |
 | Warehuman | 201685 | [201685-warehuman.json](./201685-warehuman.json) |
@@ -1028,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westworld | 97841 | [97841-westworld.json](./97841-westworld.json) |
 | Wet Dreams | 229797 | [229797-wet-dreams.json](./229797-wet-dreams.json) |
 | Wet Girl | 114232 | [114232-wet-girl.json](./114232-wet-girl.json) |
+| Wet Nightmares | 158560 | [158560-wet-nightmares.json](./158560-wet-nightmares.json) |
 | Wet Waifu | 161367 | [161367-wet-waifu.json](./161367-wet-waifu.json) |
 | Wet Warfare | 109679 | [109679-wet-warfare.json](./109679-wet-warfare.json) |
 | Wet-Dry World | 308233 | [308233-wet-dry-world.json](./308233-wet-dry-world.json) |
@@ -1441,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked Little Witch | 353291 | [353291-wicked-little-witch.json](./353291-wicked-little-witch.json) |
 | Wicked Monsters Blast! HD Plus | 85482 | [85482-wicked-monsters-blast-hd-plus.json](./85482-wicked-monsters-blast-hd-plus.json) |
 | Wicked Plague | 324691 | [324691-wicked-plague.json](./324691-wicked-plague.json) |
+| Wicked Rails VR | 158567 | [158567-wicked-rails-vr.json](./158567-wicked-rails-vr.json) |
 | Wicked Surfing | 200674 | [200674-wicked-surfing.json](./200674-wicked-surfing.json) |
 | Wicked Willow | 137647 | [137647-wicked-willow.json](./137647-wicked-willow.json) |
 | Wicked World #1 | 197780 | [197780-wicked-world-1.json](./197780-wicked-world-1.json) |
