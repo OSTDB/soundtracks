@@ -2902,6 +2902,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blendoku | 259559 | [259559-blendoku.json](./259559-blendoku.json) |
 | Blendoku | 38914 | [38914-blendoku.json](./38914-blendoku.json) |
 | Blendy 2 Dolls Factory | 129758 | [129758-blendy-2-dolls-factory.json](./129758-blendy-2-dolls-factory.json) |
+| Bless Unleashed: Deluxe Founder's Pack | 166082 | [166082-bless-unleashed-deluxe-founders-pack.json](./166082-bless-unleashed-deluxe-founders-pack.json) |
+| Bless Unleashed: Exalted Founder's Pack | 166077 | [166077-bless-unleashed-exalted-founders-pack.json](./166077-bless-unleashed-exalted-founders-pack.json) |
 | Bless You Again | 334133 | [334133-bless-you-again.json](./334133-bless-you-again.json) |
 | Blessed Redux | 382201 | [382201-blessed-redux.json](./382201-blessed-redux.json) |
 | Blessing in the Darkness | 333059 | [333059-blessing-in-the-darkness.json](./333059-blessing-in-the-darkness.json) |
@@ -4440,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Kick | 40757 | [40757-brick-kick.json](./40757-brick-kick.json) |
 | Brick Mini Golf | 297249 | [297249-brick-mini-golf.json](./297249-brick-mini-golf.json) |
 | Brick Odyssey | 229332 | [229332-brick-odyssey.json](./229332-brick-odyssey.json) |
+| Brick People | 166071 | [166071-brick-people.json](./166071-brick-people.json) |
 | Brick Rigs | 30650 | [30650-brick-rigs.json](./30650-brick-rigs.json) |
 | Brick Thru | 89932 | [89932-brick-thru.json](./89932-brick-thru.json) |
 | Brick[BrickSmash]Smash | 128596 | [128596-brick-bricksmash-smash.json](./128596-brick-bricksmash-smash.json) |
