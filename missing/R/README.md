@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Empire: Complete Collection | 139950 | [139950-railway-empire-complete-collection.json](./139950-railway-empire-complete-collection.json) |
 | Railway Empire: DLC Bundle | 227357 | [227357-railway-empire-dlc-bundle.json](./227357-railway-empire-dlc-bundle.json) |
 | Railway Empire: Great Britain & Ireland | 124808 | [124808-railway-empire-great-britain-and-ireland.json](./124808-railway-empire-great-britain-and-ireland.json) |
+| Railway Empire: Japan | 154942 | [154942-railway-empire-japan.json](./154942-railway-empire-japan.json) |
 | Railway Empire: Nintendo Switch Edition | 126484 | [126484-railway-empire-nintendo-switch-edition.json](./126484-railway-empire-nintendo-switch-edition.json) |
 | Railway Empire: The Great Lakes | 124834 | [124834-railway-empire-the-great-lakes.json](./124834-railway-empire-the-great-lakes.json) |
 | Railway Inferno | 346095 | [346095-railway-inferno.json](./346095-railway-inferno.json) |
@@ -352,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain and Red Roses | 184057 | [184057-rain-and-red-roses.json](./184057-rain-and-red-roses.json) |
 | Rain Blood Chronicles: Mirage | 16548 | [16548-rain-blood-chronicles-mirage.json](./16548-rain-blood-chronicles-mirage.json) |
 | Rain Check | 319007 | [319007-rain-check.json](./319007-rain-check.json) |
+| Rain Games Steampunk Bundle | 154964 | [154964-rain-games-steampunk-bundle.json](./154964-rain-games-steampunk-bundle.json) |
 | Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
 | Rain of Arrows | 145594 | [145594-rain-of-arrows.json](./145594-rain-of-arrows.json) |
 | Rain of Pumpkins | 75071 | [75071-rain-of-pumpkins.json](./75071-rain-of-pumpkins.json) |
@@ -1792,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Snake Adventures | 107915 | [107915-retro-snake-adventures.json](./107915-retro-snake-adventures.json) |
 | Retro Sonic | 127903 | [127903-retro-sonic.json](./127903-retro-sonic.json) |
 | Retro Space Shooter | 75186 | [75186-retro-space-shooter.json](./75186-retro-space-shooter.json) |
+| Retro Sports Bundle | 154966 | [154966-retro-sports-bundle.json](./154966-retro-sports-bundle.json) |
 | Retro Style: Pixel Art Jigsaw Puzzles | 239063 | [239063-retro-style-pixel-art-jigsaw-puzzles.json](./239063-retro-style-pixel-art-jigsaw-puzzles.json) |
 | Retro Synthesis | 109715 | [109715-retro-synthesis.json](./109715-retro-synthesis.json) |
 | Retro Tanks | 130960 | [130960-retro-tanks.json](./130960-retro-tanks.json) |
@@ -2360,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Man | 50529 | [50529-rise-of-man.json](./50529-rise-of-man.json) |
 | Rise of Mavros | 149541 | [149541-rise-of-mavros.json](./149541-rise-of-mavros.json) |
 | Rise of Nations | 848 | [848-rise-of-nations.json](./848-rise-of-nations.json) |
+| Rise of Piracy | 154973 | [154973-rise-of-piracy.json](./154973-rise-of-piracy.json) |
 | Rise of Queendom | 255119 | [255119-rise-of-queendom.json](./255119-rise-of-queendom.json) |
 | Rise of Rana | 362359 | [362359-rise-of-rana.json](./362359-rise-of-rana.json) |
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
@@ -2810,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket of Whispers: Prologue | 107424 | [107424-rocket-of-whispers-prologue.json](./107424-rocket-of-whispers-prologue.json) |
 | Rocket Pinball | 245413 | [245413-rocket-pinball.json](./245413-rocket-pinball.json) |
 | Rocket Power: Zero Gravity Zone | 262089 | [262089-rocket-power-zero-gravity-zone.json](./262089-rocket-power-zero-gravity-zone.json) |
+| Rocket Ranger: Emulated Amiga Edition | 154944 | [154944-rocket-ranger-emulated-amiga-edition.json](./154944-rocket-ranger-emulated-amiga-edition.json) |
 | Rocket Riot | 20479 | [20479-rocket-riot.json](./20479-rocket-riot.json) |
 | Rocket Riot HD | 20646 | [20646-rocket-riot-hd.json](./20646-rocket-riot-hd.json) |
 | Rocket Road | 233528 | [233528-rocket-road.json](./233528-rocket-road.json) |
