@@ -527,6 +527,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law of Dispute | 295393 | [295393-law-of-dispute.json](./295393-law-of-dispute.json) |
 | Law School | 347220 | [347220-law-school.json](./347220-law-school.json) |
 | Lawbringer | 234195 | [234195-lawbringer.json](./234195-lawbringer.json) |
+| Lawless Lands: Grizzly Pet Pack | 167714 | [167714-lawless-lands-grizzly-pet-pack.json](./167714-lawless-lands-grizzly-pet-pack.json) |
+| Lawless Lands: Herding Hound | 167715 | [167715-lawless-lands-herding-hound.json](./167715-lawless-lands-herding-hound.json) |
+| Lawless Lands: Second Soul | 167713 | [167713-lawless-lands-second-soul.json](./167713-lawless-lands-second-soul.json) |
+| Lawless Lands: Smoking Sands | 167711 | [167711-lawless-lands-smoking-sands.json](./167711-lawless-lands-smoking-sands.json) |
+| Lawless Lands: Unrest | 167712 | [167712-lawless-lands-unrest.json](./167712-lawless-lands-unrest.json) |
 | Lawmage Academy | 125472 | [125472-lawmage-academy.json](./125472-lawmage-academy.json) |
 | Lawn & Order | 177021 | [177021-lawn-and-order.json](./177021-lawn-and-order.json) |
 | Lawn Mower Racing | 353956 | [353956-lawn-mower-racing.json](./353956-lawn-mower-racing.json) |
