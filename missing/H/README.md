@@ -2999,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrid Henry's Krazy Karts | 187451 | [187451-horrid-henrys-krazy-karts.json](./187451-horrid-henrys-krazy-karts.json) |
 | Horror Amusement Park | 249213 | [249213-horror-amusement-park.json](./249213-horror-amusement-park.json) |
 | Horror Break: Head to Head | 214528 | [214528-horror-break-head-to-head.json](./214528-horror-break-head-to-head.json) |
+| Horror Bundle Vol. 1 | 147795 | [147795-horror-bundle-vol-1.json](./147795-horror-bundle-vol-1.json) |
 | Horror Bundle: 3 in 1 | 247584 | [247584-horror-bundle-3-in-1.json](./247584-horror-bundle-3-in-1.json) |
 | Horror Cartridge Collection | 244897 | [244897-horror-cartridge-collection.json](./244897-horror-cartridge-collection.json) |
 | Horror Clash | 319969 | [319969-horror-clash.json](./319969-horror-clash.json) |
