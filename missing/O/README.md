@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddsparks: An Automation Adventure - Deluxe Upgrade | 403587 | [403587-oddsparks-an-automation-adventure-deluxe-upgrade.json](./403587-oddsparks-an-automation-adventure-deluxe-upgrade.json) |
 | Oddventure | 137646 | [137646-oddventure.json](./137646-oddventure.json) |
 | Oddworld Adventures 2 | 49865 | [49865-oddworld-adventures-2.json](./49865-oddworld-adventures-2.json) |
+| Oddworld Collection | 145454 | [145454-oddworld-collection.json](./145454-oddworld-collection.json) |
 | Oddworld: Abe's Exoddus | 1000 | [1000-oddworld-abes-exoddus.json](./1000-oddworld-abes-exoddus.json) |
 | Oddworld: Munch's Oddysee | 134025 | [134025-oddworld-munchs-oddysee.json](./134025-oddworld-munchs-oddysee.json) |
 | Oddworld: Munch's Oddysee HD | 51329 | [51329-oddworld-munchs-oddysee-hd.json](./51329-oddworld-munchs-oddysee-hd.json) |
@@ -534,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omerta Chinmoku no Okite: The Legacy | 287637 | [287637-omerta-chinmoku-no-okite-the-legacy.json](./287637-omerta-chinmoku-no-okite-the-legacy.json) |
 | Omerta: City of Gangsters - The Japanese Incentive | 9217 | [9217-omerta-city-of-gangsters-the-japanese-incentive.json](./9217-omerta-city-of-gangsters-the-japanese-incentive.json) |
 | Omertà: Mafia Novel | 373539 | [373539-omerta-mafia-novel.json](./373539-omerta-mafia-novel.json) |
+| OMFG: One Million Fatal Guns | 145435 | [145435-omfg-one-million-fatal-guns.json](./145435-omfg-one-million-fatal-guns.json) |
 | OMG HD Zombies! | 52643 | [52643-omg-hd-zombies.json](./52643-omg-hd-zombies.json) |
 | OMG Police: Car Chase TV Simulator | 147907 | [147907-omg-police-car-chase-tv-simulator.json](./147907-omg-police-car-chase-tv-simulator.json) |
 | OMG Words | 292541 | [292541-omg-words.json](./292541-omg-words.json) |
@@ -1183,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb Overload | 151146 | [151146-orb-overload.json](./151146-orb-overload.json) |
 | Orb Tower | 331951 | [331951-orb-tower.json](./331951-orb-tower.json) |
 | Orb's Betrayal | 271732 | [271732-orbs-betrayal.json](./271732-orbs-betrayal.json) |
+| Orbals | 145437 | [145437-orbals.json](./145437-orbals.json) |
 | Orbatak | 217881 | [217881-orbatak.json](./217881-orbatak.json) |
 | Orbatron | 149955 | [149955-orbatron.json](./149955-orbatron.json) |
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
