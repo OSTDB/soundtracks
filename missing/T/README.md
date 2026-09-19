@@ -2613,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dimension of Anaconda | 360101 | [360101-the-dimension-of-anaconda.json](./360101-the-dimension-of-anaconda.json) |
 | The Dinner Heist | 308561 | [308561-the-dinner-heist.json](./308561-the-dinner-heist.json) |
 | The Dino R | 233623 | [233623-the-dino-r.json](./233623-the-dino-r.json) |
+| The Dinosaurs Are Here | 152732 | [152732-the-dinosaurs-are-here.json](./152732-the-dinosaurs-are-here.json) |
 | The DioField Chronicle: Digital Deluxe Edition | 212339 | [212339-the-diofield-chronicle-digital-deluxe-edition.json](./212339-the-diofield-chronicle-digital-deluxe-edition.json) |
 | The Directed | 89253 | [89253-the-directed.json](./89253-the-directed.json) |
 | The Disappearance of the Mitchells | 134083 | [134083-the-disappearance-of-the-mitchells.json](./134083-the-disappearance-of-the-mitchells.json) |
@@ -3708,6 +3709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Pirate Adventure: Drake's Treasure | 169404 | [169404-the-last-pirate-adventure-drakes-treasure.json](./169404-the-last-pirate-adventure-drakes-treasure.json) |
 | The Last Plast | 302126 | [302126-the-last-plast.json](./302126-the-last-plast.json) |
 | The Last Player | 115469 | [115469-the-last-player.json](./115469-the-last-player.json) |
+| The Last Poem: The Trials of Poe | 152776 | [152776-the-last-poem-the-trials-of-poe.json](./152776-the-last-poem-the-trials-of-poe.json) |
 | The Last Queen in the Wizard Kingdom | 156184 | [156184-the-last-queen-in-the-wizard-kingdom.json](./156184-the-last-queen-in-the-wizard-kingdom.json) |
 | The Last Quest | 185158 | [185158-the-last-quest.json](./185158-the-last-quest.json) |
 | The Last Refuge | 324329 | [324329-the-last-refuge.json](./324329-the-last-refuge.json) |
@@ -4278,6 +4280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mother Deer | 330544 | [330544-the-mother-deer.json](./330544-the-mother-deer.json) |
 | The Motorcycle | 230956 | [230956-the-motorcycle.json](./230956-the-motorcycle.json) |
 | The Mountain | 372538 | [372538-the-mountain.json](./372538-the-mountain.json) |
+| The Mountain Hunting | 152757 | [152757-the-mountain-hunting.json](./152757-the-mountain-hunting.json) |
 | The Mountaineer | 262440 | [262440-the-mountaineer.json](./262440-the-mountaineer.json) |
 | The Mourne's | 207338 | [207338-the-mournes.json](./207338-the-mournes.json) |
 | The Mouse and The Cat | 247055 | [247055-the-mouse-and-the-cat.json](./247055-the-mouse-and-the-cat.json) |
@@ -4543,6 +4546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pillagers of Raillore | 137096 | [137096-the-pillagers-of-raillore.json](./137096-the-pillagers-of-raillore.json) |
 | The Pink Panther | 218447 | [218447-the-pink-panther.json](./218447-the-pink-panther.json) |
 | The Pioneers: Surviving Desolation | 171471 | [171471-the-pioneers-surviving-desolation.json](./171471-the-pioneers-surviving-desolation.json) |
+| The Pirate King | 152731 | [152731-the-pirate-king.json](./152731-the-pirate-king.json) |
 | The Pirate Mermaid | 178528 | [178528-the-pirate-mermaid.json](./178528-the-pirate-mermaid.json) |
 | The Pirate's Fate: Prisoner of Destiny | 169331 | [169331-the-pirates-fate-prisoner-of-destiny.json](./169331-the-pirates-fate-prisoner-of-destiny.json) |
 | The Pirates Kill | 188037 | [188037-the-pirates-kill.json](./188037-the-pirates-kill.json) |
@@ -7365,6 +7369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titty World | 334675 | [334675-titty-world.json](./334675-titty-world.json) |
 | Titus the Fox | 65798 | [65798-titus-the-fox.json](./65798-titus-the-fox.json) |
 | Tivits: Math Game | 108967 | [108967-tivits-math-game.json](./108967-tivits-math-game.json) |
+| Tizahl's Quest | 152738 | [152738-tizahls-quest.json](./152738-tizahls-quest.json) |
 | Tizi Town: Airport Adventure | 227481 | [227481-tizi-town-airport-adventure.json](./227481-tizi-town-airport-adventure.json) |
 | TJ's Reel Extreme CD Room | 206780 | [206780-tjs-reel-extreme-cd-room.json](./206780-tjs-reel-extreme-cd-room.json) |
 | Tkium Exclusion Area | 186335 | [186335-tkium-exclusion-area.json](./186335-tkium-exclusion-area.json) |
@@ -7525,6 +7530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Fight: Open World | 273945 | [273945-toilet-fight-open-world.json](./273945-toilet-fight-open-world.json) |
 | Toilet in Wonderland | 25015 | [25015-toilet-in-wonderland.json](./25015-toilet-in-wonderland.json) |
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
+| Toilet paper wants to be a basketball | 152735 | [152735-toilet-paper-wants-to-be-a-basketball.json](./152735-toilet-paper-wants-to-be-a-basketball.json) |
 | Toilet Run | 110488 | [110488-toilet-run.json](./110488-toilet-run.json) |
 | Toilet Zone | 304586 | [304586-toilet-zone.json](./304586-toilet-zone.json) |
 | Toilet Zone 2 | 337643 | [337643-toilet-zone-2.json](./337643-toilet-zone-2.json) |
