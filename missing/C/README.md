@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Aces | 42632 | [42632-carrier-aces.json](./42632-carrier-aces.json) |
 | Carrier Battles 4 Guadalcanal | 242201 | [242201-carrier-battles-4-guadalcanal.json](./242201-carrier-battles-4-guadalcanal.json) |
 | Carrier Battles 4 Guadalcanal: Advanced Fog of War in the Pacific | 170520 | [170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json](./170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json) |
+| Carrier Battles WW2: Admiral of the Fleet | 171481 | [171481-carrier-battles-ww2-admiral-of-the-fleet.json](./171481-carrier-battles-ww2-admiral-of-the-fleet.json) |
 | Carrier Command | 11992 | [11992-carrier-command.json](./11992-carrier-command.json) |
 | Carrier Deck | 40566 | [40566-carrier-deck.json](./40566-carrier-deck.json) |
 | Carrier Joe 2 | 207845 | [207845-carrier-joe-2.json](./207845-carrier-joe-2.json) |
@@ -870,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case Files: Behind Closed Doors | 273651 | [273651-case-files-behind-closed-doors.json](./273651-case-files-behind-closed-doors.json) |
 | Case Files: The Death of Paulette Williams | 213024 | [213024-case-files-the-death-of-paulette-williams.json](./213024-case-files-the-death-of-paulette-williams.json) |
 | Case Guardians | 277963 | [277963-case-guardians.json](./277963-case-guardians.json) |
+| Case Kovacs: Agent 228 | 171467 | [171467-case-kovacs-agent-228.json](./171467-case-kovacs-agent-228.json) |
 | Case Solved: The London Files | 392811 | [392811-case-solved-the-london-files.json](./392811-case-solved-the-london-files.json) |
 | Casebook Trilogy: Special Edition | 67277 | [67277-casebook-trilogy-special-edition.json](./67277-casebook-trilogy-special-edition.json) |
 | CaseCracker2 | 301425 | [301425-casecracker2.json](./301425-casecracker2.json) |
@@ -1357,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavequest | 2876 | [2876-cavequest.json](./2876-cavequest.json) |
 | Cavern | 272856 | [272856-cavern.json](./272856-cavern.json) |
 | Cavern Adventurers | 291983 | [291983-cavern-adventurers.json](./291983-cavern-adventurers.json) |
+| Cavern Commandos | 171458 | [171458-cavern-commandos.json](./171458-cavern-commandos.json) |
 | Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
 | Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
 | Cavernous Wastes | 55872 | [55872-cavernous-wastes.json](./55872-cavernous-wastes.json) |
@@ -2990,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudborn | 68714 | [68714-cloudborn.json](./68714-cloudborn.json) |
 | CloudBound | 31374 | [31374-cloudbound.json](./31374-cloudbound.json) |
 | Cloudbreaker | 355555 | [355555-cloudbreaker.json](./355555-cloudbreaker.json) |
+| Cloudbuilt: Defiance | 171497 | [171497-cloudbuilt-defiance.json](./171497-cloudbuilt-defiance.json) |
 | CloudCity VR | 50518 | [50518-cloudcity-vr.json](./50518-cloudcity-vr.json) |
 | Cloudheim | 330328 | [330328-cloudheim.json](./330328-cloudheim.json) |
 | Cloudlings | 404925 | [404925-cloudlings.json](./404925-cloudlings.json) |
