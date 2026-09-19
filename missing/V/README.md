@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vlad the Impaler | 17309 | [17309-vlad-the-impaler.json](./17309-vlad-the-impaler.json) |
 | Vladiators | 141831 | [141831-vladiators.json](./141831-vladiators.json) |
 | Vladimere's Lhore | 216497 | [216497-vladimeres-lhore.json](./216497-vladimeres-lhore.json) |
+| Vladimir 2021 | 156542 | [156542-vladimir-2021.json](./156542-vladimir-2021.json) |
 | Vlogger Go Viral | 102765 | [102765-vlogger-go-viral.json](./102765-vlogger-go-viral.json) |
 | VMod | 129164 | [129164-vmod.json](./129164-vmod.json) |
 | VMX | 334205 | [334205-vmx.json](./334205-vmx.json) |
