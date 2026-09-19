@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T11:47:27.726Z",
-  "total_missing": 92071,
+  "generated_at": "2026-09-19T12:02:36.504Z",
+  "total_missing": 92121,
   "games": [
     {
       "igdb_id": 176875,
@@ -5226,6 +5226,11 @@
       "igdb_id": 223494,
       "game_name": "A Week",
       "file": "missing/A/223494-a-week.json"
+    },
+    {
+      "igdb_id": 154976,
+      "game_name": "A Week in the Office: Under the Table",
+      "file": "missing/A/154976-a-week-in-the-office-under-the-table.json"
     },
     {
       "igdb_id": 201680,
@@ -34568,6 +34573,11 @@
       "file": "missing/B/607-battlefield-bad-company-2-vietnam.json"
     },
     {
+      "igdb_id": 154950,
+      "game_name": "Battlefleet Gothic: Armada - Complete Edition",
+      "file": "missing/B/154950-battlefleet-gothic-armada-complete-edition.json"
+    },
+    {
       "igdb_id": 186341,
       "game_name": "Battlefleet Gothic: Armada - Deluxe Edition",
       "file": "missing/B/186341-battlefleet-gothic-armada-deluxe-edition.json"
@@ -34581,6 +34591,11 @@
       "igdb_id": 52636,
       "game_name": "Battlefleet Gothic: Armada - Tau Empire",
       "file": "missing/B/52636-battlefleet-gothic-armada-tau-empire.json"
+    },
+    {
+      "igdb_id": 154949,
+      "game_name": "Battlefleet Gothic: Armada 2 - Complete Edition",
+      "file": "missing/B/154949-battlefleet-gothic-armada-2-complete-edition.json"
     },
     {
       "igdb_id": 186340,
@@ -77453,6 +77468,11 @@
       "file": "missing/C/151676-craft-the-mapcrafter-gathering-magic-words.json"
     },
     {
+      "igdb_id": 154959,
+      "game_name": "Craft the World: Heart of Evil",
+      "file": "missing/C/154959-craft-the-world-heart-of-evil.json"
+    },
+    {
       "igdb_id": 286536,
       "game_name": "Craft The World: Invasion",
       "file": "missing/C/286536-craft-the-world-invasion.json"
@@ -85353,6 +85373,11 @@
       "file": "missing/D/346038-dam-panic.json"
     },
     {
+      "igdb_id": 154977,
+      "game_name": "Dama Gallery",
+      "file": "missing/D/154977-dama-gallery.json"
+    },
+    {
       "igdb_id": 278713,
       "game_name": "Damaaz the Barbarian Warlock",
       "file": "missing/D/278713-damaaz-the-barbarian-warlock.json"
@@ -89048,6 +89073,11 @@
       "file": "missing/D/321336-dead-abyss.json"
     },
     {
+      "igdb_id": 154956,
+      "game_name": "Dead Age 1 + 2 Bundle",
+      "file": "missing/D/154956-dead-age-1-2-bundle.json"
+    },
+    {
       "igdb_id": 36781,
       "game_name": "Dead Alliance",
       "file": "missing/D/36781-dead-alliance.json"
@@ -89191,6 +89221,11 @@
       "igdb_id": 387498,
       "game_name": "Dead Cells: Return to Castlevania - Signature Edition",
       "file": "missing/D/387498-dead-cells-return-to-castlevania-signature-edition.json"
+    },
+    {
+      "igdb_id": 154957,
+      "game_name": "Dead Cells: The Fatal Seed Bundle",
+      "file": "missing/D/154957-dead-cells-the-fatal-seed-bundle.json"
     },
     {
       "igdb_id": 183128,
@@ -104733,6 +104768,11 @@
       "file": "missing/D/9090-dracula-4-the-shadow-of-the-dragon.json"
     },
     {
+      "igdb_id": 154936,
+      "game_name": "Dracula 4+5",
+      "file": "missing/D/154936-dracula-4-5.json"
+    },
+    {
       "igdb_id": 9094,
       "game_name": "Dracula 5: The Blood Legacy",
       "file": "missing/D/9094-dracula-5-the-blood-legacy.json"
@@ -107341,6 +107381,11 @@
       "igdb_id": 312588,
       "game_name": "DreamCatcher",
       "file": "missing/D/312588-dreamcatcher.json"
+    },
+    {
+      "igdb_id": 154972,
+      "game_name": "DreamCatcher: Reflections - Volume 1",
+      "file": "missing/D/154972-dreamcatcher-reflections-volume-1.json"
     },
     {
       "igdb_id": 202355,
@@ -114848,6 +114893,11 @@
       "file": "missing/E/266309-elders-grace-unchained.json"
     },
     {
+      "igdb_id": 154951,
+      "game_name": "Elderborn: Metal AF Edition",
+      "file": "missing/E/154951-elderborn-metal-af-edition.json"
+    },
+    {
       "igdb_id": 336591,
       "game_name": "Eldercraft: Mountaineers",
       "file": "missing/E/336591-eldercraft-mountaineers.json"
@@ -117641,6 +117691,11 @@
       "igdb_id": 218504,
       "game_name": "Endzone: A World Apart - Complete Edition",
       "file": "missing/E/218504-endzone-a-world-apart-complete-edition.json"
+    },
+    {
+      "igdb_id": 154952,
+      "game_name": "Endzone: A World Apart - Save the World Edition",
+      "file": "missing/E/154952-endzone-a-world-apart-save-the-world-edition.json"
     },
     {
       "igdb_id": 193533,
@@ -129688,6 +129743,16 @@
       "file": "missing/F/213478-fell-from-another-world.json"
     },
     {
+      "igdb_id": 154965,
+      "game_name": "Fell Seal DLC Bundle",
+      "file": "missing/F/154965-fell-seal-dlc-bundle.json"
+    },
+    {
+      "igdb_id": 154969,
+      "game_name": "Fell Seal: Arbiter's Mark - Missions and Monsters",
+      "file": "missing/F/154969-fell-seal-arbiters-mark-missions-and-monsters.json"
+    },
+    {
       "igdb_id": 408143,
       "game_name": "Fellas",
       "file": "missing/F/408143-fellas.json"
@@ -130331,6 +130396,11 @@
       "igdb_id": 112588,
       "game_name": "Field of Glory: Empires",
       "file": "missing/F/112588-field-of-glory-empires.json"
+    },
+    {
+      "igdb_id": 154941,
+      "game_name": "Field of Glory: Empires - Persia 550-330 BCE",
+      "file": "missing/F/154941-field-of-glory-empires-persia-550-330-bce.json"
     },
     {
       "igdb_id": 392145,
@@ -145753,6 +145823,11 @@
       "file": "missing/G/131610-galactic-center-vr.json"
     },
     {
+      "igdb_id": 154946,
+      "game_name": "Galactic Civilizations II: Ultimate Edition",
+      "file": "missing/G/154946-galactic-civilizations-ii-ultimate-edition.json"
+    },
+    {
       "igdb_id": 10345,
       "game_name": "Galactic Civilizations III",
       "file": "missing/G/10345-galactic-civilizations-iii.json"
@@ -153013,6 +153088,11 @@
       "file": "missing/G/287654-goblet-tower.json"
     },
     {
+      "igdb_id": 154937,
+      "game_name": "Gobliiins Pack",
+      "file": "missing/G/154937-gobliiins-pack.json"
+    },
+    {
       "igdb_id": 249288,
       "game_name": "Gobliiins5",
       "file": "missing/G/249288-gobliiins5.json"
@@ -154636,6 +154716,11 @@
       "igdb_id": 151142,
       "game_name": "Gonne Wrong",
       "file": "missing/G/151142-gonne-wrong.json"
+    },
+    {
+      "igdb_id": 154963,
+      "game_name": "Gonner2: Lose Your Head Bundle",
+      "file": "missing/G/154963-gonner2-lose-your-head-bundle.json"
     },
     {
       "igdb_id": 154552,
@@ -167151,6 +167236,11 @@
       "igdb_id": 238758,
       "game_name": "Heli-Cats",
       "file": "missing/H/238758-heli-cats.json"
+    },
+    {
+      "igdb_id": 154962,
+      "game_name": "Heli-Yeah! Bundle",
+      "file": "missing/H/154962-heli-yeah-bundle.json"
     },
     {
       "igdb_id": 287110,
@@ -201343,6 +201433,11 @@
       "file": "missing/K/307937-kings-knight-special.json"
     },
     {
+      "igdb_id": 154935,
+      "game_name": "King's Quest 4+5+6",
+      "file": "missing/K/154935-kings-quest-4-5-6.json"
+    },
+    {
       "igdb_id": 27852,
       "game_name": "King's Quest Collection",
       "file": "missing/K/27852-kings-quest-collection.json"
@@ -201691,6 +201786,11 @@
       "igdb_id": 226759,
       "game_name": "Kingdom: The Blood Pledge",
       "file": "missing/K/226759-kingdom-the-blood-pledge.json"
+    },
+    {
+      "igdb_id": 154953,
+      "game_name": "Kingdom: Two Crowns - Royal Edition",
+      "file": "missing/K/154953-kingdom-two-crowns-royal-edition.json"
     },
     {
       "igdb_id": 264038,
@@ -205886,6 +205986,11 @@
       "igdb_id": 252994,
       "game_name": "La Mina",
       "file": "missing/L/252994-la-mina.json"
+    },
+    {
+      "igdb_id": 154970,
+      "game_name": "LA Monsters",
+      "file": "missing/L/154970-la-monsters.json"
     },
     {
       "igdb_id": 261807,
@@ -243303,6 +243408,11 @@
       "file": "missing/M/170943-monster-energy-supercross-the-official-videogame-4-historical-monster-energy-cup-2011.json"
     },
     {
+      "igdb_id": 154975,
+      "game_name": "Monster Evo",
+      "file": "missing/M/154975-monster-evo.json"
+    },
+    {
       "igdb_id": 218156,
       "game_name": "Monster Fair",
       "file": "missing/M/218156-monster-fair.json"
@@ -249308,14 +249418,49 @@
       "file": "missing/M/296351-mutant-football-league-2.json"
     },
     {
+      "igdb_id": 154931,
+      "game_name": "Mutant Football League: Brawltimore Razors",
+      "file": "missing/M/154931-mutant-football-league-brawltimore-razors.json"
+    },
+    {
       "igdb_id": 271469,
       "game_name": "Mutant Football League: Complete Bundle",
       "file": "missing/M/271469-mutant-football-league-complete-bundle.json"
     },
     {
+      "igdb_id": 154927,
+      "game_name": "Mutant Football League: Dynasty Edition - Purple Oil Pack",
+      "file": "missing/M/154927-mutant-football-league-dynasty-edition-purple-oil-pack.json"
+    },
+    {
       "igdb_id": 118973,
       "game_name": "Mutant Football League: Dynasty Edition DLC Pack",
       "file": "missing/M/118973-mutant-football-league-dynasty-edition-dlc-pack.json"
+    },
+    {
+      "igdb_id": 154929,
+      "game_name": "Mutant Football League: Gnashville Lycans",
+      "file": "missing/M/154929-mutant-football-league-gnashville-lycans.json"
+    },
+    {
+      "igdb_id": 154926,
+      "game_name": "Mutant Football League: LA Power Pack",
+      "file": "missing/M/154926-mutant-football-league-la-power-pack.json"
+    },
+    {
+      "igdb_id": 154928,
+      "game_name": "Mutant Football League: Sin Fransicko Forty Nightmares",
+      "file": "missing/M/154928-mutant-football-league-sin-fransicko-forty-nightmares.json"
+    },
+    {
+      "igdb_id": 154930,
+      "game_name": "Mutant Football League: Snuffalo Thrills",
+      "file": "missing/M/154930-mutant-football-league-snuffalo-thrills.json"
+    },
+    {
+      "igdb_id": 154932,
+      "game_name": "Mutant Football League: Terror Bay Mutantneers",
+      "file": "missing/M/154932-mutant-football-league-terror-bay-mutantneers.json"
     },
     {
       "igdb_id": 292827,
@@ -258036,6 +258181,11 @@
       "igdb_id": 291610,
       "game_name": "New World",
       "file": "missing/N/291610-new-world.json"
+    },
+    {
+      "igdb_id": 154968,
+      "game_name": "New World Computing Bundle",
+      "file": "missing/N/154968-new-world-computing-bundle.json"
     },
     {
       "igdb_id": 114955,
@@ -278596,6 +278746,11 @@
       "igdb_id": 17007,
       "game_name": "Paws: A Shelter 2 Game",
       "file": "missing/P/17007-paws-a-shelter-2-game.json"
+    },
+    {
+      "igdb_id": 154943,
+      "game_name": "Paws: A Shelter 2 Game - Pitter Patter Edition",
+      "file": "missing/P/154943-paws-a-shelter-2-game-pitter-patter-edition.json"
     },
     {
       "igdb_id": 298873,
@@ -303628,6 +303783,11 @@
       "file": "missing/R/124808-railway-empire-great-britain-and-ireland.json"
     },
     {
+      "igdb_id": 154942,
+      "game_name": "Railway Empire: Japan",
+      "file": "missing/R/154942-railway-empire-japan.json"
+    },
+    {
       "igdb_id": 126484,
       "game_name": "Railway Empire: Nintendo Switch Edition",
       "file": "missing/R/126484-railway-empire-nintendo-switch-edition.json"
@@ -303686,6 +303846,11 @@
       "igdb_id": 319007,
       "game_name": "Rain Check",
       "file": "missing/R/319007-rain-check.json"
+    },
+    {
+      "igdb_id": 154964,
+      "game_name": "Rain Games Steampunk Bundle",
+      "file": "missing/R/154964-rain-games-steampunk-bundle.json"
     },
     {
       "igdb_id": 194611,
@@ -310888,6 +311053,11 @@
       "file": "missing/R/75186-retro-space-shooter.json"
     },
     {
+      "igdb_id": 154966,
+      "game_name": "Retro Sports Bundle",
+      "file": "missing/R/154966-retro-sports-bundle.json"
+    },
+    {
       "igdb_id": 239063,
       "game_name": "Retro Style: Pixel Art Jigsaw Puzzles",
       "file": "missing/R/239063-retro-style-pixel-art-jigsaw-puzzles.json"
@@ -313728,6 +313898,11 @@
       "file": "missing/R/848-rise-of-nations.json"
     },
     {
+      "igdb_id": 154973,
+      "game_name": "Rise of Piracy",
+      "file": "missing/R/154973-rise-of-piracy.json"
+    },
+    {
       "igdb_id": 255119,
       "game_name": "Rise of Queendom",
       "file": "missing/R/255119-rise-of-queendom.json"
@@ -315976,6 +316151,11 @@
       "igdb_id": 262089,
       "game_name": "Rocket Power: Zero Gravity Zone",
       "file": "missing/R/262089-rocket-power-zero-gravity-zone.json"
+    },
+    {
+      "igdb_id": 154944,
+      "game_name": "Rocket Ranger: Emulated Amiga Edition",
+      "file": "missing/R/154944-rocket-ranger-emulated-amiga-edition.json"
     },
     {
       "igdb_id": 20479,
@@ -321618,6 +321798,11 @@
       "file": "missing/S/213462-saber-ship.json"
     },
     {
+      "igdb_id": 154974,
+      "game_name": "Saber Style",
+      "file": "missing/S/154974-saber-style.json"
+    },
+    {
       "igdb_id": 328452,
       "game_name": "Saber Survivors",
       "file": "missing/S/328452-saber-survivors.json"
@@ -327051,6 +327236,11 @@
       "igdb_id": 137667,
       "game_name": "Scythe X",
       "file": "missing/S/137667-scythe-x.json"
+    },
+    {
+      "igdb_id": 154948,
+      "game_name": "Scythe: Digital Edition - Invaders from Afar",
+      "file": "missing/S/154948-scythe-digital-edition-invaders-from-afar.json"
     },
     {
       "igdb_id": 38328,
@@ -351243,6 +351433,11 @@
       "file": "missing/S/200022-space-qube.json"
     },
     {
+      "igdb_id": 154934,
+      "game_name": "Space Quest 4+5+6",
+      "file": "missing/S/154934-space-quest-4-5-6.json"
+    },
+    {
       "igdb_id": 84150,
       "game_name": "Space Quest II: Roger Wilco in Vohaul's Revenge",
       "file": "missing/S/84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json"
@@ -366238,6 +366433,11 @@
       "file": "missing/S/216869-summa-expeditionis.json"
     },
     {
+      "igdb_id": 154958,
+      "game_name": "Summer & Winter: Olympic Challenge",
+      "file": "missing/S/154958-summer-and-winter-olympic-challenge.json"
+    },
+    {
       "igdb_id": 374062,
       "game_name": "Summer Adventurers: Mediterranean",
       "file": "missing/S/374062-summer-adventurers-mediterranean.json"
@@ -373126,6 +373326,11 @@
       "igdb_id": 215400,
       "game_name": "Surviving Mars: In-Dome Buildings Pack",
       "file": "missing/S/215400-surviving-mars-in-dome-buildings-pack.json"
+    },
+    {
+      "igdb_id": 154933,
+      "game_name": "Surviving Mars: Marsvision Song Contest",
+      "file": "missing/S/154933-surviving-mars-marsvision-song-contest.json"
     },
     {
       "igdb_id": 118402,
@@ -384658,6 +384863,11 @@
       "file": "missing/T/42588-the-adventures-of-tintin-prisoners-of-the-sun.json"
     },
     {
+      "igdb_id": 154971,
+      "game_name": "The Adventures of Wolf and Hood: A Jigsaw Tale",
+      "file": "missing/T/154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json"
+    },
+    {
       "igdb_id": 367948,
       "game_name": "The Afterlife Cafe",
       "file": "missing/T/367948-the-afterlife-cafe.json"
@@ -387433,6 +387643,11 @@
       "file": "missing/T/401681-the-coma-3-bloodlines-overly-attractive-teacher-skin.json"
     },
     {
+      "igdb_id": 154967,
+      "game_name": "The Coma: Back to School Bundle",
+      "file": "missing/T/154967-the-coma-back-to-school-bundle.json"
+    },
+    {
       "igdb_id": 166241,
       "game_name": "The Coma: Recut - Limited Edition",
       "file": "missing/T/166241-the-coma-recut-limited-edition.json"
@@ -389871,6 +390086,11 @@
       "igdb_id": 209567,
       "game_name": "The Evidence",
       "file": "missing/T/209567-the-evidence.json"
+    },
+    {
+      "igdb_id": 154961,
+      "game_name": "The Evil Within Bundle",
+      "file": "missing/T/154961-the-evil-within-bundle.json"
     },
     {
       "igdb_id": 147378,
@@ -405066,6 +405286,11 @@
       "igdb_id": 44549,
       "game_name": "The Witcher 3: Wild Hunt - Collector's Edition",
       "file": "missing/T/44549-the-witcher-3-wild-hunt-collectors-edition.json"
+    },
+    {
+      "igdb_id": 154960,
+      "game_name": "The Witcher Franchise Bundle",
+      "file": "missing/T/154960-the-witcher-franchise-bundle.json"
     },
     {
       "igdb_id": 277823,
@@ -443388,6 +443613,11 @@
       "file": "missing/W/273670-west-hunt-halloween-pack2.json"
     },
     {
+      "igdb_id": 154954,
+      "game_name": "West of Dead: Path of the Crow Edition",
+      "file": "missing/W/154954-west-of-dead-path-of-the-crow-edition.json"
+    },
+    {
       "igdb_id": 256334,
       "game_name": "West Ride",
       "file": "missing/W/256334-west-ride.json"
@@ -446813,6 +447043,11 @@
       "file": "missing/W/211221-wings-vr.json"
     },
     {
+      "igdb_id": 154945,
+      "game_name": "Wings: Emulated Amiga Edition",
+      "file": "missing/W/154945-wings-emulated-amiga-edition.json"
+    },
+    {
       "igdb_id": 8801,
       "game_name": "Wings! Remastered Edition",
       "file": "missing/W/8801-wings-remastered-edition.json"
@@ -448371,6 +448606,21 @@
       "igdb_id": 306963,
       "game_name": "Wolfenstein 3D: Third Encounter",
       "file": "missing/W/306963-wolfenstein-3d-third-encounter.json"
+    },
+    {
+      "igdb_id": 154940,
+      "game_name": "Wolfenstein II: The Freedom Chronicles - Episode 1",
+      "file": "missing/W/154940-wolfenstein-ii-the-freedom-chronicles-episode-1.json"
+    },
+    {
+      "igdb_id": 154939,
+      "game_name": "Wolfenstein II: The Freedom Chronicles - Episode 2",
+      "file": "missing/W/154939-wolfenstein-ii-the-freedom-chronicles-episode-2.json"
+    },
+    {
+      "igdb_id": 154938,
+      "game_name": "Wolfenstein II: The Freedom Chronicles - Episode 3",
+      "file": "missing/W/154938-wolfenstein-ii-the-freedom-chronicles-episode-3.json"
     },
     {
       "igdb_id": 75847,
