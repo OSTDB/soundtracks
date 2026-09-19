@@ -1684,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restore | 397658 | [397658-restore.json](./397658-restore.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
 | Restoring the Past: The Beauty of Porcelain 3 | 382885 | [382885-restoring-the-past-the-beauty-of-porcelain-3.json](./382885-restoring-the-past-the-beauty-of-porcelain-3.json) |
+| ReStreamed | 179608 | [179608-restreamed.json](./179608-restreamed.json) |
 | Restricted Airspace | 186151 | [186151-restricted-airspace.json](./186151-restricted-airspace.json) |
 | Restricted Area | 169414 | [169414-restricted-area.json](./169414-restricted-area.json) |
 | Resttore | 285487 | [285487-resttore.json](./285487-resttore.json) |
@@ -2010,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Zone | 51283 | [51283-rhythm-zone.json](./51283-rhythm-zone.json) |
 | Rhythmcremental | 176462 | [176462-rhythmcremental.json](./176462-rhythmcremental.json) |
 | Rhythmetric | 364572 | [364572-rhythmetric.json](./364572-rhythmetric.json) |
+| RhythmPG | 179610 | [179610-rhythmpg.json](./179610-rhythmpg.json) |
 | Rhythmscapes | 317017 | [317017-rhythmscapes.json](./317017-rhythmscapes.json) |
 | RhythmSlinger | 154000 | [154000-rhythmslinger.json](./154000-rhythmslinger.json) |
 | RhythmStar | 230522 | [230522-rhythmstar.json](./230522-rhythmstar.json) |
