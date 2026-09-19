@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Records of Rota | 264021 | [264021-battle-records-of-rota.json](./264021-battle-records-of-rota.json) |
 | Battle Rift | 211428 | [211428-battle-rift.json](./211428-battle-rift.json) |
 | Battle Robot Damashii | 63833 | [63833-battle-robot-damashii.json](./63833-battle-robot-damashii.json) |
+| Battle Round | 127016 | [127016-battle-round.json](./127016-battle-round.json) |
 | Battle Royale Survival | 107811 | [107811-battle-royale-survival.json](./107811-battle-royale-survival.json) |
 | Battle Royale Tycoon | 103608 | [103608-battle-royale-tycoon.json](./103608-battle-royale-tycoon.json) |
 | Battle Royale with Cheese | 295529 | [295529-battle-royale-with-cheese.json](./295529-battle-royale-with-cheese.json) |
@@ -2002,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Friends Forever | 183442 | [183442-best-friends-forever.json](./183442-best-friends-forever.json) |
 | Best Garden | 135238 | [135238-best-garden.json](./135238-best-garden.json) |
 | Best Hero | 377573 | [377573-best-hero.json](./377573-best-hero.json) |
+| Best in the West | 127023 | [127023-best-in-the-west.json](./127023-best-in-the-west.json) |
 | Best Life Simulator | 110562 | [110562-best-life-simulator.json](./110562-best-life-simulator.json) |
 | Best of Arcade Games DS | 197897 | [197897-best-of-arcade-games-ds.json](./197897-best-of-arcade-games-ds.json) |
 | Best of Best | 39583 | [39583-best-of-best.json](./39583-best-of-best.json) |
@@ -3586,6 +3588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobrkur | 368551 | [368551-bobrkur.json](./368551-bobrkur.json) |
 | BobsleighX | 265718 | [265718-bobsleighx.json](./265718-bobsleighx.json) |
 | BobSP Series | 272000 | [272000-bobsp-series.json](./272000-bobsp-series.json) |
+| BOC | 127030 | [127030-boc.json](./127030-boc.json) |
 | Bocce VR | 119786 | [119786-bocce-vr.json](./119786-bocce-vr.json) |
 | Bocchi Kaihi | 227260 | [227260-bocchi-kaihi.json](./227260-bocchi-kaihi.json) |
 | Bocchi the Smash! | 263594 | [263594-bocchi-the-smash.json](./263594-bocchi-the-smash.json) |
@@ -4728,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronk's Jungle Adventure | 143679 | [143679-bronks-jungle-adventure.json](./143679-bronks-jungle-adventure.json) |
 | Bronkie the Bronchiasaurus | 42624 | [42624-bronkie-the-bronchiasaurus.json](./42624-bronkie-the-bronchiasaurus.json) |
 | Bronze Dragon: Conquest of Infinity | 122987 | [122987-bronze-dragon-conquest-of-infinity.json](./122987-bronze-dragon-conquest-of-infinity.json) |
+| Bronze Hoof | 127083 | [127083-bronze-hoof.json](./127083-bronze-hoof.json) |
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
 | Brookwood: Pocket Tactics | 329696 | [329696-brookwood-pocket-tactics.json](./329696-brookwood-pocket-tactics.json) |
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
