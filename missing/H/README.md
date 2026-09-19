@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai USSR | 340459 | [340459-hentai-ussr.json](./340459-hentai-ussr.json) |
 | Hentai Vivian | 265767 | [265767-hentai-vivian.json](./265767-hentai-vivian.json) |
 | Hentai VR 3 | 147408 | [147408-hentai-vr-3.json](./147408-hentai-vr-3.json) |
+| Hentai vs. Furries | 164376 | [164376-hentai-vs-furries.json](./164376-hentai-vs-furries.json) |
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
 | Hentai Waifu 101 | 156098 | [156098-hentai-waifu-101.json](./156098-hentai-waifu-101.json) |
 | Hentai Waifu II | 286497 | [286497-hentai-waifu-ii.json](./286497-hentai-waifu-ii.json) |
