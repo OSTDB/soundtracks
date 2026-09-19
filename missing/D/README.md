@@ -4125,9 +4125,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: The Breakers - Season 6 | 307756 | [307756-dragon-ball-the-breakers-season-6.json](./307756-dragon-ball-the-breakers-season-6.json) |
 | Dragon Ball: Xenoverse - Day One Edition | 363936 | [363936-dragon-ball-xenoverse-day-one-edition.json](./363936-dragon-ball-xenoverse-day-one-edition.json) |
 | Dragon Ball: Xenoverse 2 - Conton City Vote Pack | 223592 | [223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json](./223592-dragon-ball-xenoverse-2-conton-city-vote-pack.json) |
+| Dragon Ball: Xenoverse 2 - Extra DLC Pack 1 | 168747 | [168747-dragon-ball-xenoverse-2-extra-dlc-pack-1.json](./168747-dragon-ball-xenoverse-2-extra-dlc-pack-1.json) |
+| Dragon Ball: Xenoverse 2 - Extra DLC Pack 2 | 168748 | [168748-dragon-ball-xenoverse-2-extra-dlc-pack-2.json](./168748-dragon-ball-xenoverse-2-extra-dlc-pack-2.json) |
+| Dragon Ball: Xenoverse 2 - Extra DLC Pack 4 | 168749 | [168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json](./168749-dragon-ball-xenoverse-2-extra-dlc-pack-4.json) |
 | Dragon Ball: Xenoverse 2 - Extra Pass | 117657 | [117657-dragon-ball-xenoverse-2-extra-pass.json](./117657-dragon-ball-xenoverse-2-extra-pass.json) |
+| Dragon Ball: Xenoverse 2 - Legendary Pack 1 | 168741 | [168741-dragon-ball-xenoverse-2-legendary-pack-1.json](./168741-dragon-ball-xenoverse-2-legendary-pack-1.json) |
 | Dragon Ball: Xenoverse 2 - Super Edition | 200692 | [200692-dragon-ball-xenoverse-2-super-edition.json](./200692-dragon-ball-xenoverse-2-super-edition.json) |
+| Dragon Ball: Xenoverse 2 - Super Pack 1 | 168743 | [168743-dragon-ball-xenoverse-2-super-pack-1.json](./168743-dragon-ball-xenoverse-2-super-pack-1.json) |
+| Dragon Ball: Xenoverse 2 - Super Pack 2 | 168744 | [168744-dragon-ball-xenoverse-2-super-pack-2.json](./168744-dragon-ball-xenoverse-2-super-pack-2.json) |
+| Dragon Ball: Xenoverse 2 - Super Pack 3 | 168745 | [168745-dragon-ball-xenoverse-2-super-pack-3.json](./168745-dragon-ball-xenoverse-2-super-pack-3.json) |
+| Dragon Ball: Xenoverse 2 - Super Pack 4 | 168746 | [168746-dragon-ball-xenoverse-2-super-pack-4.json](./168746-dragon-ball-xenoverse-2-super-pack-4.json) |
 | Dragon Ball: Xenoverse 2 - Super Pass | 117656 | [117656-dragon-ball-xenoverse-2-super-pass.json](./117656-dragon-ball-xenoverse-2-super-pass.json) |
+| Dragon Ball: Xenoverse 2 - Ultra Pack 1 | 168742 | [168742-dragon-ball-xenoverse-2-ultra-pack-1.json](./168742-dragon-ball-xenoverse-2-ultra-pack-1.json) |
 | Dragon Ball: Xenoverse 2: Special Edition | 271831 | [271831-dragon-ball-xenoverse-2-special-edition.json](./271831-dragon-ball-xenoverse-2-special-edition.json) |
 | Dragon Battle | 102165 | [102165-dragon-battle.json](./102165-dragon-battle.json) |
 | Dragon Beat: Legend of Pinball | 73754 | [73754-dragon-beat-legend-of-pinball.json](./73754-dragon-beat-legend-of-pinball.json) |
