@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeuroCorp | 391735 | [391735-neurocorp.json](./391735-neurocorp.json) |
 | Neurocracy | 172662 | [172662-neurocracy.json](./172662-neurocracy.json) |
 | Neurocracy 2.049 | 257097 | [257097-neurocracy-2-049.json](./257097-neurocracy-2-049.json) |
+| NeuroHex: Hacking, Spying, Sabotage | 129029 | [129029-neurohex-hacking-spying-sabotage.json](./129029-neurohex-hacking-spying-sabotage.json) |
 | Neurokino Retrograde | 321120 | [321120-neurokino-retrograde.json](./321120-neurokino-retrograde.json) |
 | Neuromancer | 14485 | [14485-neuromancer.json](./14485-neuromancer.json) |
 | NeuroNet: Mendax Proxy | 147903 | [147903-neuronet-mendax-proxy.json](./147903-neuronet-mendax-proxy.json) |
