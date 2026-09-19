@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
 | Age of Heroes II: Underground Horror | 320973 | [320973-age-of-heroes-ii-underground-horror.json](./320973-age-of-heroes-ii-underground-horror.json) |
 | Age of Heroes: The Beginning | 187985 | [187985-age-of-heroes-the-beginning.json](./187985-age-of-heroes-the-beginning.json) |
+| Age of Sokoban | 152157 | [152157-age-of-sokoban.json](./152157-age-of-sokoban.json) |
 | Age of Time | 254542 | [254542-age-of-time.json](./254542-age-of-time.json) |
 | Age of Wonders 4: Empires & Ashes | 259051 | [259051-age-of-wonders-4-empires-and-ashes.json](./259051-age-of-wonders-4-empires-and-ashes.json) |
 | Age of Wonders 4: Expansion Pass | 293731 | [293731-age-of-wonders-4-expansion-pass.json](./293731-age-of-wonders-4-expansion-pass.json) |
@@ -1991,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ammossum | 275884 | [275884-ammossum.json](./275884-ammossum.json) |
 | Amnea 28: Dve Vechnosti | 272822 | [272822-amnea-28-dve-vechnosti.json](./272822-amnea-28-dve-vechnosti.json) |
 | Amnea28: Two Eternities | 291461 | [291461-amnea28-two-eternities.json](./291461-amnea28-two-eternities.json) |
+| Amneron's Legacy | 152152 | [152152-amnerons-legacy.json](./152152-amnerons-legacy.json) |
 | Amnesia Crowd | 62754 | [62754-amnesia-crowd.json](./62754-amnesia-crowd.json) |
 | Amnesia Later | 62753 | [62753-amnesia-later.json](./62753-amnesia-later.json) |
 | Amnesia World | 62755 | [62755-amnesia-world.json](./62755-amnesia-world.json) |
@@ -3702,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artemis Lutea: District Defender | 318766 | [318766-artemis-lutea-district-defender.json](./318766-artemis-lutea-district-defender.json) |
 | Artemis: Book One | 239288 | [239288-artemis-book-one.json](./239288-artemis-book-one.json) |
 | Artemishea | 150617 | [150617-artemishea.json](./150617-artemishea.json) |
+| Artery Gear: Fusion | 152111 | [152111-artery-gear-fusion.json](./152111-artery-gear-fusion.json) |
 | Arthur and the Invisibles | 200689 | [200689-arthur-and-the-invisibles.json](./200689-arthur-and-the-invisibles.json) |
 | Arthur and the Revenge of Maltazard | 51155 | [51155-arthur-and-the-revenge-of-maltazard.json](./51155-arthur-and-the-revenge-of-maltazard.json) |
 | Arthur Yahtzee: The Curse of Hell's Cheesecake | 217857 | [217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json](./217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json) |
@@ -4462,6 +4465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audica: Chvrches - "The Mother We Share" | 358947 | [358947-audica-chvrches-the-mother-we-share.json](./358947-audica-chvrches-the-mother-we-share.json) |
 | Audica: Maroon 5 ft. Christina Aguilera - "Moves Like Jagger" | 358944 | [358944-audica-maroon-5-ft-christina-aguilera-moves-like-jagger.json](./358944-audica-maroon-5-ft-christina-aguilera-moves-like-jagger.json) |
 | Audica: Nicki Minaj - "Starships" | 358943 | [358943-audica-nicki-minaj-starships.json](./358943-audica-nicki-minaj-starships.json) |
+| Audio Clash: Battle of the Bands | 152128 | [152128-audio-clash-battle-of-the-bands.json](./152128-audio-clash-battle-of-the-bands.json) |
 | Audio Drive 2 VR | 338181 | [338181-audio-drive-2-vr.json](./338181-audio-drive-2-vr.json) |
 | Audio Infection | 111669 | [111669-audio-infection.json](./111669-audio-infection.json) |
 | AudioQuake | 208927 | [208927-audioquake.json](./208927-audioquake.json) |
@@ -4683,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avocado | 311499 | [311499-avocado.json](./311499-avocado.json) |
 | Avocado Puzzle Quest | 211414 | [211414-avocado-puzzle-quest.json](./211414-avocado-puzzle-quest.json) |
 | AvoCuddle | 117839 | [117839-avocuddle.json](./117839-avocuddle.json) |
+| Avoid | 152135 | [152135-avoid.json](./152135-avoid.json) |
 | Avoid | 177406 | [177406-avoid.json](./177406-avoid.json) |
 | Avoid Ahoge | 179606 | [179606-avoid-ahoge.json](./179606-avoid-ahoge.json) |
 | Avoid the Awful Thing that Vaguely Resembles a Banana!! | 69312 | [69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json](./69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json) |
