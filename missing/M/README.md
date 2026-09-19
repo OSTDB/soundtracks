@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mama's Sleeping Angels | 321991 | [321991-mamas-sleeping-angels.json](./321991-mamas-sleeping-angels.json) |
 | MamaShroom | 255081 | [255081-mamashroom.json](./255081-mamashroom.json) |
 | Mambo a Go Go | 273975 | [273975-mambo-a-go-go.json](./273975-mambo-a-go-go.json) |
+| Mambo Wave | 142261 | [142261-mambo-wave.json](./142261-mambo-wave.json) |
 | Mamegoma 2: Uchi no Ko ga Ichiban! | 241032 | [241032-mamegoma-2-uchi-no-ko-ga-ichiban.json](./241032-mamegoma-2-uchi-no-ko-ga-ichiban.json) |
 | Mamegoma 3: Kawaii ga Ippai! | 241043 | [241043-mamegoma-3-kawaii-ga-ippai.json](./241043-mamegoma-3-kawaii-ga-ippai.json) |
 | Mamiya | 145621 | [145621-mamiya.json](./145621-mamiya.json) |
