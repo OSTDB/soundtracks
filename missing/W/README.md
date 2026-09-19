@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Willows | 16073 | [16073-wandering-willows.json](./16073-wandering-willows.json) |
 | Wanderland | 30901 | [30901-wanderland.json](./30901-wanderland.json) |
 | Wanderlust | 336914 | [336914-wanderlust.json](./336914-wanderlust.json) |
+| WanderLust | 169295 | [169295-wanderlust.json](./169295-wanderlust.json) |
 | Wanderlust: The Bermuda Secret | 187947 | [187947-wanderlust-the-bermuda-secret.json](./187947-wanderlust-the-bermuda-secret.json) |
 | Wanderlust: The Magnificent Journey | 346600 | [346600-wanderlust-the-magnificent-journey.json](./346600-wanderlust-the-magnificent-journey.json) |
 | Wandness | 298158 | [298158-wandness.json](./298158-wandness.json) |
