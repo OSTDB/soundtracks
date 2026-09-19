@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R no Shosai | 93531 | [93531-r-no-shosai.json](./93531-r-no-shosai.json) |
 | R Place Guesser | 198339 | [198339-r-place-guesser.json](./198339-r-place-guesser.json) |
 | R-Coil | 68792 | [68792-r-coil.json](./68792-r-coil.json) |
+| R-Naught | 151016 | [151016-r-naught.json](./151016-r-naught.json) |
 | R-Shark | 40254 | [40254-r-shark.json](./40254-r-shark.json) |
 | R-Type | 260765 | [260765-r-type.json](./260765-r-type.json) |
 | R-Type | 263373 | [263373-r-type.json](./263373-r-type.json) |
@@ -273,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Battle Offline: Extra Scenario 1 | 67953 | [67953-ragnarok-battle-offline-extra-scenario-1.json](./67953-ragnarok-battle-offline-extra-scenario-1.json) |
 | Ragnarok Battle Offline: Extra Scenario 2 | 67951 | [67951-ragnarok-battle-offline-extra-scenario-2.json](./67951-ragnarok-battle-offline-extra-scenario-2.json) |
 | Ragnarok Begins | 223978 | [223978-ragnarok-begins.json](./223978-ragnarok-begins.json) |
+| Ragnarok Chess | 151035 | [151035-ragnarok-chess.json](./151035-ragnarok-chess.json) |
 | Ragnarok Crush | 353877 | [353877-ragnarok-crush.json](./353877-ragnarok-crush.json) |
 | Ragnarok Idle Adventure Plus | 335646 | [335646-ragnarok-idle-adventure-plus.json](./335646-ragnarok-idle-adventure-plus.json) |
 | Ragnarok Journey | 43890 | [43890-ragnarok-journey.json](./43890-ragnarok-journey.json) |
@@ -624,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rations, Please! | 176970 | [176970-rations-please.json](./176970-rations-please.json) |
 | Ratman! | 321612 | [321612-ratman.json](./321612-ratman.json) |
 | Ratocalypse | 381137 | [381137-ratocalypse.json](./381137-ratocalypse.json) |
+| Ratomon | 151041 | [151041-ratomon.json](./151041-ratomon.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
 | Rats Invasion | 96673 | [96673-rats-invasion.json](./96673-rats-invasion.json) |
 | Rats Invasion 2 | 86889 | [86889-rats-invasion-2.json](./86889-rats-invasion-2.json) |
@@ -1272,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedMask | 266811 | [266811-redmask.json](./266811-redmask.json) |
 | RedMoonWorld | 411616 | [411616-redmoonworld.json](./411616-redmoonworld.json) |
 | Redneck Ed: Astro Monsters Show | 132230 | [132230-redneck-ed-astro-monsters-show.json](./132230-redneck-ed-astro-monsters-show.json) |
+| Redneck Party | 151026 | [151026-redneck-party.json](./151026-redneck-party.json) |
 | Redneck Rift | 207914 | [207914-redneck-rift.json](./207914-redneck-rift.json) |
 | Redout 2: Deluxe Edition | 205571 | [205571-redout-2-deluxe-edition.json](./205571-redout-2-deluxe-edition.json) |
 | Redout 2: Summer Pack | 224209 | [224209-redout-2-summer-pack.json](./224209-redout-2-summer-pack.json) |
@@ -3173,6 +3177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronald McDonalds | 255715 | [255715-ronald-mcdonalds.json](./255715-ronald-mcdonalds.json) |
 | Ronald Rubberduck | 47205 | [47205-ronald-rubberduck.json](./47205-ronald-rubberduck.json) |
 | Ronald's Revenge | 398437 | [398437-ronalds-revenge.json](./398437-ronalds-revenge.json) |
+| Ronald's Run | 151003 | [151003-ronalds-run.json](./151003-ronalds-run.json) |
 | Ronaldinho Campeonato Brasileiro 98 | 38302 | [38302-ronaldinho-campeonato-brasileiro-98.json](./38302-ronaldinho-campeonato-brasileiro-98.json) |
 | Ronaldinho Soccer 97 | 38293 | [38293-ronaldinho-soccer-97.json](./38293-ronaldinho-soccer-97.json) |
 | Ronaldo V-Football | 44836 | [44836-ronaldo-v-football.json](./44836-ronaldo-v-football.json) |
