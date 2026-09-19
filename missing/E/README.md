@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes: Season 1 - Greenhearth | 366902 | [366902-echoes-season-1-greenhearth.json](./366902-echoes-season-1-greenhearth.json) |
 | EchoEvade | 386295 | [386295-echoevade.json](./386295-echoevade.json) |
 | Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
+| Echostasis | 155512 | [155512-echostasis.json](./155512-echostasis.json) |
 | Echoveil: The Last Guest | 351708 | [351708-echoveil-the-last-guest.json](./351708-echoveil-the-last-guest.json) |
 | EchtegP | 254789 | [254789-echtegp.json](./254789-echtegp.json) |
 | Ecila | 257392 | [257392-ecila.json](./257392-ecila.json) |
@@ -1645,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escatpade | 374083 | [374083-escatpade.json](./374083-escatpade.json) |
 | Eschalism | 385574 | [385574-eschalism.json](./385574-eschalism.json) |
 | Eschatology | 273485 | [273485-eschatology.json](./273485-eschatology.json) |
+| Escherion | 155502 | [155502-escherion.json](./155502-escherion.json) |
 | Escoba Broom Cards Game | 331690 | [331690-escoba-broom-cards-game.json](./331690-escoba-broom-cards-game.json) |
 | Escort Alia | 241363 | [241363-escort-alia.json](./241363-escort-alia.json) |
 | Escort Commander | 80998 | [80998-escort-commander.json](./80998-escort-commander.json) |
