@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora: Kimi no Namae wo, Boku ha Shiru | 221825 | [221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json](./221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json) |
 | Pandora's Doom: Apocalypse Hotline | 333602 | [333602-pandoras-doom-apocalypse-hotline.json](./333602-pandoras-doom-apocalypse-hotline.json) |
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
+| Panel Attack | 167702 | [167702-panel-attack.json](./167702-panel-attack.json) |
 | Panel de Pon | 150107 | [150107-panel-de-pon.json](./150107-panel-de-pon.json) |
 | Panel de Pon | 84157 | [84157-panel-de-pon.json](./84157-panel-de-pon.json) |
 | Panel de Pon GB | 150108 | [150108-panel-de-pon-gb.json](./150108-panel-de-pon-gb.json) |
@@ -1010,6 +1011,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payback 2 | 212494 | [212494-payback-2.json](./212494-payback-2.json) |
 | Payback Showdown | 174876 | [174876-payback-showdown.json](./174876-payback-showdown.json) |
 | Paycheck: City RPG | 130383 | [130383-paycheck-city-rpg.json](./130383-paycheck-city-rpg.json) |
+| Payday 2: Armored Transport | 167696 | [167696-payday-2-armored-transport.json](./167696-payday-2-armored-transport.json) |
+| Payday 2: Border Crossing Heist | 167700 | [167700-payday-2-border-crossing-heist.json](./167700-payday-2-border-crossing-heist.json) |
+| Payday 2: Breakfast in Tijuana Heist | 167691 | [167691-payday-2-breakfast-in-tijuana-heist.json](./167691-payday-2-breakfast-in-tijuana-heist.json) |
+| Payday 2: Buluc's Mansion Heist | 167688 | [167688-payday-2-bulucs-mansion-heist.json](./167688-payday-2-bulucs-mansion-heist.json) |
 | Payday 2: Espionage Weapon Pack | 400334 | [400334-payday-2-espionage-weapon-pack.json](./400334-payday-2-espionage-weapon-pack.json) |
 | Payday 2: Gage Russian Weapon Pack | 156182 | [156182-payday-2-gage-russian-weapon-pack.json](./156182-payday-2-gage-russian-weapon-pack.json) |
 | Payday 2: Gage Sniper Pack | 225160 | [225160-payday-2-gage-sniper-pack.json](./225160-payday-2-gage-sniper-pack.json) |
@@ -1019,15 +1024,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: Golden Dagger Tailor Pack | 225165 | [225165-payday-2-golden-dagger-tailor-pack.json](./225165-payday-2-golden-dagger-tailor-pack.json) |
 | Payday 2: Guardians Tailor Pack | 225166 | [225166-payday-2-guardians-tailor-pack.json](./225166-payday-2-guardians-tailor-pack.json) |
 | Payday 2: High Octane Tailor Pack | 225167 | [225167-payday-2-high-octane-tailor-pack.json](./225167-payday-2-high-octane-tailor-pack.json) |
+| Payday 2: John Wick Heists | 167686 | [167686-payday-2-john-wick-heists.json](./167686-payday-2-john-wick-heists.json) |
 | Payday 2: McShay Weapon Pack | 225170 | [225170-payday-2-mcshay-weapon-pack.json](./225170-payday-2-mcshay-weapon-pack.json) |
 | Payday 2: Mega City Tailor Pack | 225171 | [225171-payday-2-mega-city-tailor-pack.json](./225171-payday-2-mega-city-tailor-pack.json) |
 | Payday 2: Mountain Master Heist | 196150 | [196150-payday-2-mountain-master-heist.json](./196150-payday-2-mountain-master-heist.json) |
+| Payday 2: San Martin Bank Heist | 167690 | [167690-payday-2-san-martin-bank-heist.json](./167690-payday-2-san-martin-bank-heist.json) |
+| Payday 2: Scarface Heist | 167698 | [167698-payday-2-scarface-heist.json](./167698-payday-2-scarface-heist.json) |
 | Payday 2: Sokol Character Pack | 225172 | [225172-payday-2-sokol-character-pack.json](./225172-payday-2-sokol-character-pack.json) |
 | Payday 2: Southbound Tailor Pack | 225174 | [225174-payday-2-southbound-tailor-pack.json](./225174-payday-2-southbound-tailor-pack.json) |
 | Payday 2: Sydney Character Pack | 225173 | [225173-payday-2-sydney-character-pack.json](./225173-payday-2-sydney-character-pack.json) |
+| Payday 2: The Alesso Heist | 167689 | [167689-payday-2-the-alesso-heist.json](./167689-payday-2-the-alesso-heist.json) |
 | Payday 2: The Biker Heist | 19613 | [19613-payday-2-the-biker-heist.json](./19613-payday-2-the-biker-heist.json) |
+| Payday 2: The Bomb Heists | 167692 | [167692-payday-2-the-bomb-heists.json](./167692-payday-2-the-bomb-heists.json) |
 | Payday 2: The Butcher's Western Pack | 225175 | [225175-payday-2-the-butchers-western-pack.json](./225175-payday-2-the-butchers-western-pack.json) |
+| Payday 2: The Charlie Santa Heist | 167684 | [167684-payday-2-the-charlie-santa-heist.json](./167684-payday-2-the-charlie-santa-heist.json) |
+| Payday 2: The Diamond Heist | 167685 | [167685-payday-2-the-diamond-heist.json](./167685-payday-2-the-diamond-heist.json) |
+| Payday 2: The Diamond Store Heist | 167695 | [167695-payday-2-the-diamond-store-heist.json](./167695-payday-2-the-diamond-store-heist.json) |
+| Payday 2: The Election Day Heist | 167697 | [167697-payday-2-the-election-day-heist.json](./167697-payday-2-the-election-day-heist.json) |
+| Payday 2: The Golden Grin Casino Heist | 167693 | [167693-payday-2-the-golden-grin-casino-heist.json](./167693-payday-2-the-golden-grin-casino-heist.json) |
 | Payday 2: The Overkill Pack | 225176 | [225176-payday-2-the-overkill-pack.json](./225176-payday-2-the-overkill-pack.json) |
+| Payday 2: The Point Break Heists | 167694 | [167694-payday-2-the-point-break-heists.json](./167694-payday-2-the-point-break-heists.json) |
+| Payday 2: The Shadow Raid Heist | 167687 | [167687-payday-2-the-shadow-raid-heist.json](./167687-payday-2-the-shadow-raid-heist.json) |
+| Payday 2: The Ukrainian Prisoner Heist | 167699 | [167699-payday-2-the-ukrainian-prisoner-heist.json](./167699-payday-2-the-ukrainian-prisoner-heist.json) |
 | Payday 2: Ultimate Edition | 37149 | [37149-payday-2-ultimate-edition.json](./37149-payday-2-ultimate-edition.json) |
 | Payday 2: Wolf Pack | 225169 | [225169-payday-2-wolf-pack.json](./225169-payday-2-wolf-pack.json) |
 | Payday 2: Yakuza Character Pack | 225168 | [225168-payday-2-yakuza-character-pack.json](./225168-payday-2-yakuza-character-pack.json) |
@@ -1045,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday: Crime War | 98080 | [98080-payday-crime-war.json](./98080-payday-crime-war.json) |
 | Payday: Don't Be a Hero | 329145 | [329145-payday-dont-be-a-hero.json](./329145-payday-dont-be-a-hero.json) |
 | Payday: The Heist - No Mercy | 240910 | [240910-payday-the-heist-no-mercy.json](./240910-payday-the-heist-no-mercy.json) |
+| Payday: The Heist - Wolfpack | 167701 | [167701-payday-the-heist-wolfpack.json](./167701-payday-the-heist-wolfpack.json) |
 | Payload | 175919 | [175919-payload.json](./175919-payload.json) |
 | PaymoneyWubby: The Game | 341588 | [341588-paymoneywubby-the-game.json](./341588-paymoneywubby-the-game.json) |
 | Payout: Shop Simulator | 309336 | [309336-payout-shop-simulator.json](./309336-payout-shop-simulator.json) |
