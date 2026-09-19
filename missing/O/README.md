@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other | 197274 | [197274-other.json](./197274-other.json) |
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
 | Other Submarine | 124143 | [124143-other-submarine.json](./124143-other-submarine.json) |
+| Other World | 154360 | [154360-other-world.json](./154360-other-world.json) |
 | Other World Survivors | 235742 | [235742-other-world-survivors.json](./235742-other-world-survivors.json) |
 | Otherlights | 275113 | [275113-otherlights.json](./275113-otherlights.json) |
 | Others | 117662 | [117662-others.json](./117662-others.json) |
