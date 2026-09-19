@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versus Vampire | 257923 | [257923-versus-vampire.json](./257923-versus-vampire.json) |
 | Versus. | 201700 | [201700-versus.json](./201700-versus.json) |
 | VertalStrike | 400892 | [400892-vertalstrike.json](./400892-vertalstrike.json) |
+| Vertex | 142255 | [142255-vertex.json](./142255-vertex.json) |
 | Vertex | 384677 | [384677-vertex.json](./384677-vertex.json) |
 | Vertiball | 86123 | [86123-vertiball.json](./86123-vertiball.json) |
 | Vertical Adventure: Jump, Die, Retry | 207857 | [207857-vertical-adventure-jump-die-retry.json](./207857-vertical-adventure-jump-die-retry.json) |
@@ -1077,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volunteer | 216850 | [216850-volunteer.json](./216850-volunteer.json) |
 | Volvalis | 200702 | [200702-volvalis.json](./200702-volvalis.json) |
 | Volvy’s Adventure: Reslimed | 323369 | [323369-volvy-s-adventure-reslimed.json](./323369-volvy-s-adventure-reslimed.json) |
+| Vomitoreum | 142271 | [142271-vomitoreum.json](./142271-vomitoreum.json) |
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
 | Voodoo Dolls | 319806 | [319806-voodoo-dolls.json](./319806-voodoo-dolls.json) |
 | Voodoo Nights | 77329 | [77329-voodoo-nights.json](./77329-voodoo-nights.json) |
