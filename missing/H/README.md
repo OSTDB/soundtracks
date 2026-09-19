@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heileen 1: Sail Away | 17441 | [17441-heileen-1-sail-away.json](./17441-heileen-1-sail-away.json) |
 | Heimdall | 5393 | [5393-heimdall.json](./5393-heimdall.json) |
 | Heimdallr | 174871 | [174871-heimdallr.json](./174871-heimdallr.json) |
+| Heir Obscure | 164918 | [164918-heir-obscure.json](./164918-heir-obscure.json) |
 | Heir of Darkness | 127250 | [127250-heir-of-darkness.json](./127250-heir-of-darkness.json) |
 | Heir to the Queen | 358915 | [358915-heir-to-the-queen.json](./358915-heir-to-the-queen.json) |
 | Heirs to the Throne | 69893 | [69893-heirs-to-the-throne.json](./69893-heirs-to-the-throne.json) |
@@ -1858,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex and Chill | 335365 | [335365-hex-and-chill.json](./335365-hex-and-chill.json) |
 | Hex For Hire | 182925 | [182925-hex-for-hire.json](./182925-hex-for-hire.json) |
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
+| Hex of the Lich | 164889 | [164889-hex-of-the-lich.json](./164889-hex-of-the-lich.json) |
 | Hex Pipe | 403665 | [403665-hex-pipe.json](./403665-hex-pipe.json) |
 | Hex Pool | 40172 | [40172-hex-pool.json](./40172-hex-pool.json) |
 | Hex Racer | 259061 | [259061-hex-racer.json](./259061-hex-racer.json) |
@@ -1905,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexcite: The Shapes of Victory | 49925 | [49925-hexcite-the-shapes-of-victory.json](./49925-hexcite-the-shapes-of-victory.json) |
 | Hexcodle | 313472 | [313472-hexcodle.json](./313472-hexcodle.json) |
 | Hexcrawl | 413606 | [413606-hexcrawl.json](./413606-hexcrawl.json) |
+| Hexdoku | 164902 | [164902-hexdoku.json](./164902-hexdoku.json) |
 | Hexed Pet Adventures | 393596 | [393596-hexed-pet-adventures.json](./393596-hexed-pet-adventures.json) |
 | Hexed Time | 356115 | [356115-hexed-time.json](./356115-hexed-time.json) |
 | Hexelectric | 119689 | [119689-hexelectric.json](./119689-hexelectric.json) |
@@ -3499,6 +3502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
 | Hunter Desert Simulator: Sniper Rifle | 409533 | [409533-hunter-desert-simulator-sniper-rifle.json](./409533-hunter-desert-simulator-sniper-rifle.json) |
 | Hunter Girls | 259065 | [259065-hunter-girls.json](./259065-hunter-girls.json) |
+| Hunter Hearts | 164873 | [164873-hunter-hearts.json](./164873-hunter-hearts.json) |
 | Hunter Hitman | 340494 | [340494-hunter-hitman.json](./340494-hunter-hitman.json) |
 | Hunter in the Lost Forest | 293202 | [293202-hunter-in-the-lost-forest.json](./293202-hunter-in-the-lost-forest.json) |
 | Hunter Island: Monsters & Dragons | 200113 | [200113-hunter-island-monsters-and-dragons.json](./200113-hunter-island-monsters-and-dragons.json) |
