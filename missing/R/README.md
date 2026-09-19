@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
 | Red Matter 2 | 198227 | [198227-red-matter-2.json](./198227-red-matter-2.json) |
 | Red Mercenary | 129127 | [129127-red-mercenary.json](./129127-red-mercenary.json) |
+| Red Mist | 131993 | [131993-red-mist.json](./131993-red-mist.json) |
 | Red Moon | 382317 | [382317-red-moon.json](./382317-red-moon.json) |
 | Red Moon: Lost Days | 192893 | [192893-red-moon-lost-days.json](./192893-red-moon-lost-days.json) |
 | Red Night | 318065 | [318065-red-night.json](./318065-red-night.json) |
@@ -2264,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Adventure | 153958 | [153958-rift-adventure.json](./153958-rift-adventure.json) |
 | Rift Breach | 232693 | [232693-rift-breach.json](./232693-rift-breach.json) |
 | Rift Fishing | 380422 | [380422-rift-fishing.json](./380422-rift-fishing.json) |
+| Rift Frigate | 132007 | [132007-rift-frigate.json](./132007-rift-frigate.json) |
 | Rift Investigations | 402992 | [402992-rift-investigations.json](./402992-rift-investigations.json) |
 | Rift Mobile | 38902 | [38902-rift-mobile.json](./38902-rift-mobile.json) |
 | Rift of the NecroDancer: Celeste - "Confronting Myself" | 352268 | [352268-rift-of-the-necrodancer-celeste-confronting-myself.json](./352268-rift-of-the-necrodancer-celeste-confronting-myself.json) |
