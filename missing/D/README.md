@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkHospital | 285009 | [285009-darkhospital.json](./285009-darkhospital.json) |
 | DarkHouse | 371887 | [371887-darkhouse.json](./371887-darkhouse.json) |
 | Darkion | 212813 | [212813-darkion.json](./212813-darkion.json) |
+| Darkland | 134439 | [134439-darkland.json](./134439-darkland.json) |
 | Darklands: Awakening | 164520 | [164520-darklands-awakening.json](./164520-darklands-awakening.json) |
 | Darklin Wars | 129769 | [129769-darklin-wars.json](./129769-darklin-wars.json) |
 | Darklord's Tower | 360021 | [360021-darklords-tower.json](./360021-darklords-tower.json) |
@@ -633,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness of the Coast | 195220 | [195220-darkness-of-the-coast.json](./195220-darkness-of-the-coast.json) |
 | Darkness Reborn | 28820 | [28820-darkness-reborn.json](./28820-darkness-reborn.json) |
 | Darkness Rises | 103411 | [103411-darkness-rises.json](./103411-darkness-rises.json) |
+| Darkness Trap: Purify Old Sins | 134440 | [134440-darkness-trap-purify-old-sins.json](./134440-darkness-trap-purify-old-sins.json) |
 | Darkness Within 2: The Dark Lineage - Director's Cut Edition | 36298 | [36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json](./36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json) |
 | DarkOrbit: Reloaded | 23808 | [23808-darkorbit-reloaded.json](./23808-darkorbit-reloaded.json) |
 | Darkout | 10108 | [10108-darkout.json](./10108-darkout.json) |
@@ -1289,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Note: Killer Within | 320363 | [320363-death-note-killer-within.json](./320363-death-note-killer-within.json) |
 | Death Note: Kira Game | 22388 | [22388-death-note-kira-game.json](./22388-death-note-kira-game.json) |
 | Death Note: Successors to L | 22389 | [22389-death-note-successors-to-l.json](./22389-death-note-successors-to-l.json) |
+| Death of a Lich | 134441 | [134441-death-of-a-lich.json](./134441-death-of-a-lich.json) |
 | Death of a Wish | 203297 | [203297-death-of-a-wish.json](./203297-death-of-a-wish.json) |
 | Death of desert | 115601 | [115601-death-of-desert.json](./115601-death-of-desert.json) |
 | Death of Eternity | 260212 | [260212-death-of-eternity.json](./260212-death-of-eternity.json) |
@@ -1870,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonspire | 381701 | [381701-demonspire.json](./381701-demonspire.json) |
 | Demonstar | 9117 | [9117-demonstar.json](./9117-demonstar.json) |
 | DemonStar: Original Missions | 272391 | [272391-demonstar-original-missions.json](./272391-demonstar-original-missions.json) |
+| DemonSteele | 134443 | [134443-demonsteele.json](./134443-demonsteele.json) |
 | DemonsTier | 61647 | [61647-demonstier.json](./61647-demonstier.json) |
 | Demonworld: Dark Armies | 73841 | [73841-demonworld-dark-armies.json](./73841-demonworld-dark-armies.json) |
 | Demos for Toby Fox | 141629 | [141629-demos-for-toby-fox.json](./141629-demos-for-toby-fox.json) |
@@ -3086,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distorted world | 157030 | [157030-distorted-world.json](./157030-distorted-world.json) |
 | Distortion Nation | 135048 | [135048-distortion-nation.json](./135048-distortion-nation.json) |
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
+| Distraint: Pocket Pixel Horror | 134442 | [134442-distraint-pocket-pixel-horror.json](./134442-distraint-pocket-pixel-horror.json) |
 | Distress | 202245 | [202245-distress.json](./202245-distress.json) |
 | Distress Signal | 178640 | [178640-distress-signal.json](./178640-distress-signal.json) |
 | Distress: A Choice-Driven Sci-Fi Adventure | 110970 | [110970-distress-a-choice-driven-sci-fi-adventure.json](./110970-distress-a-choice-driven-sci-fi-adventure.json) |
@@ -3755,6 +3760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Jump HD: Insanely Good! | 104106 | [104106-doodle-jump-hd-insanely-good.json](./104106-doodle-jump-hd-insanely-good.json) |
 | Doodle Kingdom | 27243 | [27243-doodle-kingdom.json](./27243-doodle-kingdom.json) |
 | Doodle Mafia: Crime City | 146741 | [146741-doodle-mafia-crime-city.json](./146741-doodle-mafia-crime-city.json) |
+| Doodle Sprint! | 134445 | [134445-doodle-sprint.json](./134445-doodle-sprint.json) |
 | Doodle TD 2 | 295800 | [295800-doodle-td-2.json](./295800-doodle-td-2.json) |
 | Doodle UFO | 246972 | [246972-doodle-ufo.json](./246972-doodle-ufo.json) |
 | Doodle War | 88102 | [88102-doodle-war.json](./88102-doodle-war.json) |
@@ -4084,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Kamasutra 2 | 336027 | [336027-dr-kamasutra-2.json](./336027-dr-kamasutra-2.json) |
 | Dr. Lunatic Supreme With Steam | 264664 | [264664-dr-lunatic-supreme-with-steam.json](./264664-dr-lunatic-supreme-with-steam.json) |
 | Dr. Mario 64 | 3475 | [3475-dr-mario-64.json](./3475-dr-mario-64.json) |
+| Dr. Mario BS Ban | 134437 | [134437-dr-mario-bs-ban.json](./134437-dr-mario-bs-ban.json) |
 | Dr. Mario Mania | 357345 | [357345-dr-mario-mania.json](./357345-dr-mario-mania.json) |
 | Dr. Mario World House Calls | 42602 | [42602-dr-mario-world-house-calls.json](./42602-dr-mario-world-house-calls.json) |
 | Dr. Mario World Redrawn | 132854 | [132854-dr-mario-world-redrawn.json](./132854-dr-mario-world-redrawn.json) |
@@ -4789,6 +4796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Zone | 76535 | [76535-drift-zone.json](./76535-drift-zone.json) |
 | Drift Zone 2 | 174845 | [174845-drift-zone-2.json](./174845-drift-zone-2.json) |
 | Drift: When Worlds Collide | 71505 | [71505-drift-when-worlds-collide.json](./71505-drift-when-worlds-collide.json) |
+| Drift'n'Drive | 134446 | [134446-driftndrive.json](./134446-driftndrive.json) |
 | Drift'n'Drive | 200025 | [200025-driftndrive.json](./200025-driftndrive.json) |
 | Drifted | 287227 | [287227-drifted.json](./287227-drifted.json) |
 | Driftence | 190130 | [190130-driftence.json](./190130-driftence.json) |
@@ -4923,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
 | Drowned Helicopter | 166695 | [166695-drowned-helicopter.json](./166695-drowned-helicopter.json) |
 | Drowning Cross | 119750 | [119750-drowning-cross.json](./119750-drowning-cross.json) |
+| Drowning In Problems | 134444 | [134444-drowning-in-problems.json](./134444-drowning-in-problems.json) |
 | Drowning Song of the Stagnant Sea | 370694 | [370694-drowning-song-of-the-stagnant-sea.json](./370694-drowning-song-of-the-stagnant-sea.json) |
 | Drowning, Drowning | 144234 | [144234-drowning-drowning.json](./144234-drowning-drowning.json) |
 | Drudge | 388738 | [388738-drudge.json](./388738-drudge.json) |
