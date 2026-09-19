@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savant: Ascent Remix | 261364 | [261364-savant-ascent-remix.json](./261364-savant-ascent-remix.json) |
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
+| Save daddy trump 2: The Final Triumph | 142234 | [142234-save-daddy-trump-2-the-final-triumph.json](./142234-save-daddy-trump-2-the-final-triumph.json) |
 | Save Daddy Trump 4: Maga 2024 | 301832 | [301832-save-daddy-trump-4-maga-2024.json](./301832-save-daddy-trump-4-maga-2024.json) |
 | Save Data | 153366 | [153366-save-data.json](./153366-save-data.json) |
 | Save Farty: The Trivia Game | 142838 | [142838-save-farty-the-trivia-game.json](./142838-save-farty-the-trivia-game.json) |
@@ -6581,6 +6582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: City Raid | 337120 | [337120-spider-man-city-raid.json](./337120-spider-man-city-raid.json) |
 | Spider-Man: Friend or Foe | 5180 | [5180-spider-man-friend-or-foe.json](./5180-spider-man-friend-or-foe.json) |
 | Spider-Man: Mysterio's Menace | 6605 | [6605-spider-man-mysterios-menace.json](./6605-spider-man-mysterios-menace.json) |
+| Spider-Man: Shattered Dimensions | 142254 | [142254-spider-man-shattered-dimensions.json](./142254-spider-man-shattered-dimensions.json) |
 | Spider-Man: The Video Game | 46761 | [46761-spider-man-the-video-game.json](./46761-spider-man-the-video-game.json) |
 | Spider-Man: Ultimate Power | 188550 | [188550-spider-man-ultimate-power.json](./188550-spider-man-ultimate-power.json) |
 | Spider-Sense Spider-Man and the Masked Menace | 220110 | [220110-spider-sense-spider-man-and-the-masked-menace.json](./220110-spider-sense-spider-man-and-the-masked-menace.json) |
@@ -8009,6 +8011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steins;Gate: Limited Edition | 42680 | [42680-steins-gate-limited-edition.json](./42680-steins-gate-limited-edition.json) |
 | Stelarace | 245851 | [245851-stelarace.json](./245851-stelarace.json) |
 | Stele | 339664 | [339664-stele.json](./339664-stele.json) |
+| Stella Arcana | 142257 | [142257-stella-arcana.json](./142257-stella-arcana.json) |
 | Stella Gladio | 326075 | [326075-stella-gladio.json](./326075-stella-gladio.json) |
 | Stella Glow | 11459 | [11459-stella-glow.json](./11459-stella-glow.json) |
 | Stella Nova | 407466 | [407466-stella-nova.json](./407466-stella-nova.json) |
@@ -8644,6 +8647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Squadron: Caracará | 31958 | [31958-strike-squadron-caracara.json](./31958-strike-squadron-caracara.json) |
 | Strike Suit Infinity | 9329 | [9329-strike-suit-infinity.json](./9329-strike-suit-infinity.json) |
 | Strike Suit Zero: Collectors Edition | 54407 | [54407-strike-suit-zero-collectors-edition.json](./54407-strike-suit-zero-collectors-edition.json) |
+| Strike Team Gladius | 142274 | [142274-strike-team-gladius.json](./142274-strike-team-gladius.json) |
 | Strike Team Online | 174838 | [174838-strike-team-online.json](./174838-strike-team-online.json) |
 | Strike the Planets! | 226765 | [226765-strike-the-planets.json](./226765-strike-the-planets.json) |
 | Strike Wing: Raptor Rising | 3148 | [3148-strike-wing-raptor-rising.json](./3148-strike-wing-raptor-rising.json) |
