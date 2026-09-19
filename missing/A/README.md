@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexandra Fortune: Mystery of the Lunar Archipelago | 177047 | [177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json](./177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json) |
 | AlexCity 1: Bank Heist | 272009 | [272009-alexcity-1-bank-heist.json](./272009-alexcity-1-bank-heist.json) |
 | AlexCity 1: Bank Heist | 272010 | [272010-alexcity-1-bank-heist.json](./272010-alexcity-1-bank-heist.json) |
+| Alexei Run | 155995 | [155995-alexei-run.json](./155995-alexei-run.json) |
 | Alexey's Winter: Night Adventure | 160232 | [160232-alexeys-winter-night-adventure.json](./160232-alexeys-winter-night-adventure.json) |
 | Alexi Lalas International Soccer | 43933 | [43933-alexi-lalas-international-soccer.json](./43933-alexi-lalas-international-soccer.json) |
 | Alexios the Protector | 235463 | [235463-alexios-the-protector.json](./235463-alexios-the-protector.json) |
@@ -2837,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypter | 378318 | [378318-apocalypter.json](./378318-apocalypter.json) |
 | Apocalyptic | 205656 | [205656-apocalyptic.json](./205656-apocalyptic.json) |
 | Apocalyptic Vibes | 189189 | [189189-apocalyptic-vibes.json](./189189-apocalyptic-vibes.json) |
+| Apocalyptic World | 155976 | [155976-apocalyptic-world.json](./155976-apocalyptic-world.json) |
 | ApocaShift | 346614 | [346614-apocashift.json](./346614-apocashift.json) |
 | Apoclone | 363427 | [363427-apoclone.json](./363427-apoclone.json) |
 | Apocolypse: Vel | 316830 | [316830-apocolypse-vel.json](./316830-apocolypse-vel.json) |
@@ -4094,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
 | Astral Zone | 380451 | [380451-astral-zone.json](./380451-astral-zone.json) |
 | AstralAir no Shiroki Towa Finale: Shiroki Hoshi no Yume | 137105 | [137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json](./137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json) |
+| Astralis | 156019 | [156019-astralis.json](./156019-astralis.json) |
 | Astralis: Dawnblades | 390107 | [390107-astralis-dawnblades.json](./390107-astralis-dawnblades.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astranded | 379990 | [379990-astranded.json](./379990-astranded.json) |
