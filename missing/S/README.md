@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Kongo | 79243 | [79243-safari-kongo.json](./79243-safari-kongo.json) |
 | Safari Puzzle Match | 319952 | [319952-safari-puzzle-match.json](./319952-safari-puzzle-match.json) |
 | Safari Quest | 84904 | [84904-safari-quest.json](./84904-safari-quest.json) |
+| Safari Zone | 158564 | [158564-safari-zone.json](./158564-safari-zone.json) |
 | Safari: I-Evolution | 239635 | [239635-safari-i-evolution.json](./239635-safari-i-evolution.json) |
 | Safe House | 392132 | [392132-safe-house.json](./392132-safe-house.json) |
 | Safe Journey | 175941 | [175941-safe-journey.json](./175941-safe-journey.json) |
@@ -1470,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seen on Screen | 225721 | [225721-seen-on-screen.json](./225721-seen-on-screen.json) |
 | Seers Isle | 86344 | [86344-seers-isle.json](./86344-seers-isle.json) |
 | SeeYou | 381606 | [381606-seeyou.json](./381606-seeyou.json) |
+| Sefir: Mafia Story | 158559 | [158559-sefir-mafia-story.json](./158559-sefir-mafia-story.json) |
 | Sefton Asylum | 396937 | [396937-sefton-asylum.json](./396937-sefton-asylum.json) |
 | Sega Ages 2500 Series Vol. 33: Fantasy Zone Complete Collection | 64899 | [64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json](./64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json) |
 | Sega Ages 2500 Vol. 10: After Burner II | 64900 | [64900-sega-ages-2500-vol-10-after-burner-ii.json](./64900-sega-ages-2500-vol-10-after-burner-ii.json) |
@@ -2920,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuten Order | 344468 | [344468-shuten-order.json](./344468-shuten-order.json) |
 | Shutokou Battle Gaiden: Super Technic Challenge | 208469 | [208469-shutokou-battle-gaiden-super-technic-challenge.json](./208469-shutokou-battle-gaiden-super-technic-challenge.json) |
 | Shutter | 244861 | [244861-shutter.json](./244861-shutter.json) |
+| Shutter 2 | 158547 | [158547-shutter-2.json](./158547-shutter-2.json) |
 | Shutter Chance Love | 72699 | [72699-shutter-chance-love.json](./72699-shutter-chance-love.json) |
 | Shutter Story | 358396 | [358396-shutter-story.json](./358396-shutter-story.json) |
 | Shutter Stroll | 134671 | [134671-shutter-stroll.json](./134671-shutter-stroll.json) |
@@ -3134,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Scribbles | 285965 | [285965-silly-scribbles.json](./285965-silly-scribbles.json) |
 | Silly Skateboarding | 180698 | [180698-silly-skateboarding.json](./180698-silly-skateboarding.json) |
 | Silly Sync | 379894 | [379894-silly-sync.json](./379894-silly-sync.json) |
+| Sillyfun Valley | 158577 | [158577-sillyfun-valley.json](./158577-sillyfun-valley.json) |
 | Silmar | 230258 | [230258-silmar.json](./230258-silmar.json) |
 | Silo | 348224 | [348224-silo.json](./348224-silo.json) |
 | Silva Saga | 48708 | [48708-silva-saga.json](./48708-silva-saga.json) |
@@ -9015,6 +9019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon, then build an invincible harem | 216870 | [216870-summon-then-build-an-invincible-harem.json](./216870-summon-then-build-an-invincible-harem.json) |
 | Summoned by a Magic Goddess | 206152 | [206152-summoned-by-a-magic-goddess.json](./206152-summoned-by-a-magic-goddess.json) |
 | Summoneer | 285556 | [285556-summoneer.json](./285556-summoneer.json) |
+| Summoner Apprentice | 158572 | [158572-summoner-apprentice.json](./158572-summoner-apprentice.json) |
 | Summoner Symbols | 316802 | [316802-summoner-symbols.json](./316802-summoner-symbols.json) |
 | Summoner's Gambit | 353894 | [353894-summoners-gambit.json](./353894-summoners-gambit.json) |
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
@@ -9748,6 +9753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Momotaro Dentetsu III | 38343 | [38343-super-momotaro-dentetsu-iii.json](./38343-super-momotaro-dentetsu-iii.json) |
 | Super Monkey Ball 2 | 2928 | [2928-super-monkey-ball-2.json](./2928-super-monkey-ball-2.json) |
 | Super Monkey Ball Stardust | 352178 | [352178-super-monkey-ball-stardust.json](./352178-super-monkey-ball-stardust.json) |
+| Super Monkey Ball: Banana Mania - Digital Deluxe Edition | 158584 | [158584-super-monkey-ball-banana-mania-digital-deluxe-edition.json](./158584-super-monkey-ball-banana-mania-digital-deluxe-edition.json) |
 | Super Monkey Ball: Banana Mania - Launch Edition | 323951 | [323951-super-monkey-ball-banana-mania-launch-edition.json](./323951-super-monkey-ball-banana-mania-launch-edition.json) |
 | Super Monkey Ball: Banana Rumble - Amy | 309079 | [309079-super-monkey-ball-banana-rumble-amy.json](./309079-super-monkey-ball-banana-rumble-amy.json) |
 | Super Monkey Ball: Banana Rumble - Crewmate | 330551 | [330551-super-monkey-ball-banana-rumble-crewmate.json](./330551-super-monkey-ball-banana-rumble-crewmate.json) |
