@@ -982,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Grimholt | 142252 | [142252-castle-grimholt.json](./142252-castle-grimholt.json) |
 | Castle Hassle | 59452 | [59452-castle-hassle.json](./59452-castle-hassle.json) |
 | Castle Hero | 327420 | [327420-castle-hero.json](./327420-castle-hero.json) |
+| Castle in the Darkness II | 127028 | [127028-castle-in-the-darkness-ii.json](./127028-castle-in-the-darkness-ii.json) |
 | Castle in the Sands | 404818 | [404818-castle-in-the-sands.json](./404818-castle-in-the-sands.json) |
 | Castle Itter: The Strangest Battle of WWII | 169423 | [169423-castle-itter-the-strangest-battle-of-wwii.json](./169423-castle-itter-the-strangest-battle-of-wwii.json) |
 | Castle Karthenfrost | 308385 | [308385-castle-karthenfrost.json](./308385-castle-karthenfrost.json) |
@@ -2293,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choplifter! | 343890 | [343890-choplifter.json](./343890-choplifter.json) |
 | Choplifter! | 343891 | [343891-choplifter.json](./343891-choplifter.json) |
 | Choplifter! | 343897 | [343897-choplifter.json](./343897-choplifter.json) |
+| Choppa: Rescue Rivals | 127077 | [127077-choppa-rescue-rivals.json](./127077-choppa-rescue-rivals.json) |
 | Chopper Attack | 3428 | [3428-chopper-attack.json](./3428-chopper-attack.json) |
 | Chopper Battle New Horizon | 75767 | [75767-chopper-battle-new-horizon.json](./75767-chopper-battle-new-horizon.json) |
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
@@ -2361,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Break - Breakout Game | 99571 | [99571-christmas-break-breakout-game.json](./99571-christmas-break-breakout-game.json) |
 | Christmas Break 2 Head to Head | 214050 | [214050-christmas-break-2-head-to-head.json](./214050-christmas-break-2-head-to-head.json) |
 | Christmas Bubble Shooter | 86716 | [86716-christmas-bubble-shooter.json](./86716-christmas-bubble-shooter.json) |
+| Christmas Cats Revenge | 127073 | [127073-christmas-cats-revenge.json](./127073-christmas-cats-revenge.json) |
 | Christmas Clash | 277601 | [277601-christmas-clash.json](./277601-christmas-clash.json) |
 | Christmas Clicker: Idle Gift Builder | 113001 | [113001-christmas-clicker-idle-gift-builder.json](./113001-christmas-clicker-idle-gift-builder.json) |
 | Christmas Country | 45938 | [45938-christmas-country.json](./45938-christmas-country.json) |
@@ -3198,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutter Puzzle Magazine: Vol. 16 No. 2 - Collector's Edition | 298695 | [298695-clutter-puzzle-magazine-vol-16-no-2-collectors-edition.json](./298695-clutter-puzzle-magazine-vol-16-no-2-collectors-edition.json) |
 | CMYP | 234603 | [234603-cmyp.json](./234603-cmyp.json) |
 | Co Operation: MultiTurn | 217500 | [217500-co-operation-multiturn.json](./217500-co-operation-multiturn.json) |
+| Co-Jump, Fly | 127090 | [127090-co-jump-fly.json](./127090-co-jump-fly.json) |
 | Co-op Frenzy: Spirit of the Island + Biped Bundle | 214053 | [214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json](./214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json) |
 | Co-op Kaiju Horror Cooking | 355090 | [355090-co-op-kaiju-horror-cooking.json](./355090-co-op-kaiju-horror-cooking.json) |
 | Co-Open | 146704 | [146704-co-open.json](./146704-co-open.json) |
@@ -4131,6 +4135,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Cooks | 403578 | [403578-contract-cooks.json](./403578-contract-cooks.json) |
 | Contract J.A.C.K. | 1336 | [1336-contract-j-a-c-k.json](./1336-contract-j-a-c-k.json) |
 | Contract Killer | 162258 | [162258-contract-killer.json](./162258-contract-killer.json) |
+| Contract Killer: Sniper | 127049 | [127049-contract-killer-sniper.json](./127049-contract-killer-sniper.json) |
+| Contract Killer: Zombies | 127050 | [127050-contract-killer-zombies.json](./127050-contract-killer-zombies.json) |
 | Contract Killers | 132218 | [132218-contract-killers.json](./132218-contract-killers.json) |
 | Contract Marriage | 303264 | [303264-contract-marriage.json](./303264-contract-marriage.json) |
 | Contract Revoked: The Lost Chapters | 271237 | [271237-contract-revoked-the-lost-chapters.json](./271237-contract-revoked-the-lost-chapters.json) |
@@ -4526,6 +4532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Shooter Strike Zone | 283283 | [283283-counter-shooter-strike-zone.json](./283283-counter-shooter-strike-zone.json) |
 | Counter Shot: Source | 277387 | [277387-counter-shot-source.json](./277387-counter-shot-source.json) |
 | Counter Snipe | 265672 | [265672-counter-snipe.json](./265672-counter-snipe.json) |
+| Counter Terrorism - Minesweeper | 127025 | [127025-counter-terrorism-minesweeper.json](./127025-counter-terrorism-minesweeper.json) |
 | Counter-Fall | 127746 | [127746-counter-fall.json](./127746-counter-fall.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
 | Counter-Strike: Source Offensive | 287621 | [287621-counter-strike-source-offensive.json](./287621-counter-strike-source-offensive.json) |
@@ -6113,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg City | 339359 | [339359-cyborg-city.json](./339359-cyborg-city.json) |
 | Cyborg Detonator | 32984 | [32984-cyborg-detonator.json](./32984-cyborg-detonator.json) |
 | Cyborg Lumberjack | 297083 | [297083-cyborg-lumberjack.json](./297083-cyborg-lumberjack.json) |
+| Cyborg Mechanic | 127017 | [127017-cyborg-mechanic.json](./127017-cyborg-mechanic.json) |
 | Cyborg Ninja vs. The Third Reich | 115585 | [115585-cyborg-ninja-vs-the-third-reich.json](./115585-cyborg-ninja-vs-the-third-reich.json) |
 | Cyborg-Prototype | 309646 | [309646-cyborg-prototype.json](./309646-cyborg-prototype.json) |
 | Cyborg: Rise | 311492 | [311492-cyborg-rise.json](./311492-cyborg-rise.json) |
