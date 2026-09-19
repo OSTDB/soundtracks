@@ -1293,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catnip & Coffee | 350529 | [350529-catnip-and-coffee.json](./350529-catnip-and-coffee.json) |
 | Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
 | Cato: Buttered Cat | 203934 | [203934-cato-buttered-cat.json](./203934-cato-buttered-cat.json) |
+| Catovania | 132629 | [132629-catovania.json](./132629-catovania.json) |
 | Catroom Drama: Case 2 | 183953 | [183953-catroom-drama-case-2.json](./183953-catroom-drama-case-2.json) |
 | CatRoots | 130334 | [130334-catroots.json](./130334-catroots.json) |
 | CatRunner 2022 | 299902 | [299902-catrunner-2022.json](./299902-catrunner-2022.json) |
@@ -1954,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess+ | 102828 | [102828-chess.json](./102828-chess.json) |
 | Chess88 | 92998 | [92998-chess88.json](./92998-chess88.json) |
 | Chessaria: The Tactical Adventure | 55247 | [55247-chessaria-the-tactical-adventure.json](./55247-chessaria-the-tactical-adventure.json) |
+| Chesscake | 132626 | [132626-chesscake.json](./132626-chesscake.json) |
 | Chesscape Room | 378891 | [378891-chesscape-room.json](./378891-chesscape-room.json) |
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
 | Chessie Chicken | 195611 | [195611-chessie-chicken.json](./195611-chessie-chicken.json) |
@@ -4221,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coolmath Games: The Game | 234707 | [234707-coolmath-games-the-game.json](./234707-coolmath-games-the-game.json) |
 | CoolPaintr VR | 104022 | [104022-coolpaintr-vr.json](./104022-coolpaintr-vr.json) |
 | CoolPaintr VR: Voxel | 270143 | [270143-coolpaintr-vr-voxel.json](./270143-coolpaintr-vr-voxel.json) |
+| Cooly Skunk | 132647 | [132647-cooly-skunk.json](./132647-cooly-skunk.json) |
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
 | Coop Tank War | 111008 | [111008-coop-tank-war.json](./111008-coop-tank-war.json) |
 | Coopbots | 272862 | [272862-coopbots.json](./272862-coopbots.json) |
@@ -4575,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid Chaos | 163821 | [163821-covid-chaos.json](./163821-covid-chaos.json) |
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
 | Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
+| Coward | 132664 | [132664-coward.json](./132664-coward.json) |
 | Cowardice | 199512 | [199512-cowardice.json](./199512-cowardice.json) |
 | Cowbots and Aliens | 31595 | [31595-cowbots-and-aliens.json](./31595-cowbots-and-aliens.json) |
 | Cowboy | 346053 | [346053-cowboy.json](./346053-cowboy.json) |
@@ -5938,6 +5942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutting Hedge | 176913 | [176913-cutting-hedge.json](./176913-cutting-hedge.json) |
 | Cuttlemania! | 159270 | [159270-cuttlemania.json](./159270-cuttlemania.json) |
 | Cuub | 278163 | [278163-cuub.json](./278163-cuub.json) |
+| Cuyo | 132617 | [132617-cuyo.json](./132617-cuyo.json) |
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
 | Cyadonia | 99658 | [99658-cyadonia.json](./99658-cyadonia.json) |
 | Cyan Avenger | 278999 | [278999-cyan-avenger.json](./278999-cyan-avenger.json) |
