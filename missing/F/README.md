@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefleet | 293743 | [293743-firefleet.json](./293743-firefleet.json) |
 | Fireflies | 108671 | [108671-fireflies.json](./108671-fireflies.json) |
 | Firefly | 55209 | [55209-firefly.json](./55209-firefly.json) |
+| FireFly | 169861 | [169861-firefly.json](./169861-firefly.json) |
 | FireFly | 381018 | [381018-firefly.json](./381018-firefly.json) |
 | Firefly Online Cortex | 35908 | [35908-firefly-online-cortex.json](./35908-firefly-online-cortex.json) |
 | Firefly Shelter | 404865 | [404865-firefly-shelter.json](./404865-firefly-shelter.json) |
@@ -3903,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun with Penis for Sex Motel | 288888 | [288888-fun-with-penis-for-sex-motel.json](./288888-fun-with-penis-for-sex-motel.json) |
 | Fun With the Fitzgeralds | 262946 | [262946-fun-with-the-fitzgeralds.json](./262946-fun-with-the-fitzgeralds.json) |
 | Fun Zone Omega | 386239 | [386239-fun-zone-omega.json](./386239-fun-zone-omega.json) |
+| Fun, Sun & Mishaps | 169887 | [169887-fun-sun-and-mishaps.json](./169887-fun-sun-and-mishaps.json) |
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
 | Funbag Fantasy 2 | 127948 | [127948-funbag-fantasy-2.json](./127948-funbag-fantasy-2.json) |
 | Funbag Fantasy 4: Brother Astor | 210718 | [210718-funbag-fantasy-4-brother-astor.json](./210718-funbag-fantasy-4-brother-astor.json) |
