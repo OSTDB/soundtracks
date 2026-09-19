@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Summoner | 38900 | [38900-dark-summoner.json](./38900-dark-summoner.json) |
 | Dark Sun | 278964 | [278964-dark-sun.json](./278964-dark-sun.json) |
 | Dark Sun: Shattered Lands | 2466 | [2466-dark-sun-shattered-lands.json](./2466-dark-sun-shattered-lands.json) |
+| Dark Survival | 152728 | [152728-dark-survival.json](./152728-dark-survival.json) |
 | Dark Sword: The Light of Ainn | 295409 | [295409-dark-sword-the-light-of-ainn.json](./295409-dark-sword-the-light-of-ainn.json) |
 | Dark Swords | 119044 | [119044-dark-swords.json](./119044-dark-swords.json) |
 | Dark Tales: Edgar Allan Poe's Lenore - Collector's Edition | 370676 | [370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json](./370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json) |
@@ -1570,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Grid 2: Enhanced VR Edition | 58745 | [58745-defense-grid-2-enhanced-vr-edition.json](./58745-defense-grid-2-enhanced-vr-edition.json) |
 | Defense Master | 284486 | [284486-defense-master.json](./284486-defense-master.json) |
 | Defense of the Ass | 141837 | [141837-defense-of-the-ass.json](./141837-defense-of-the-ass.json) |
+| Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
 | Defense Zone 2 | 17303 | [17303-defense-zone-2.json](./17303-defense-zone-2.json) |
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
 | Deff | 133973 | [133973-deff.json](./133973-deff.json) |
@@ -2371,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Deluge | 414294 | [414294-dice-deluge.json](./414294-dice-deluge.json) |
 | Dice Guy | 217006 | [217006-dice-guy.json](./217006-dice-guy.json) |
 | Dice King | 188016 | [188016-dice-king.json](./188016-dice-king.json) |
+| Dice Knight: Mystery of the Moirai | 152741 | [152741-dice-knight-mystery-of-the-moirai.json](./152741-dice-knight-mystery-of-the-moirai.json) |
 | Dice Legacy: Corrupted Fates | 196296 | [196296-dice-legacy-corrupted-fates.json](./196296-dice-legacy-corrupted-fates.json) |
 | Dice Life: Dice Game | 291618 | [291618-dice-life-dice-game.json](./291618-dice-life-dice-game.json) |
 | Dice Make 10! | 314860 | [314860-dice-make-10.json](./314860-dice-make-10.json) |
@@ -4186,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Blast: Crazy Action Super Hero Game | 159808 | [159808-dragon-blast-crazy-action-super-hero-game.json](./159808-dragon-blast-crazy-action-super-hero-game.json) |
 | Dragon Blaze | 39659 | [39659-dragon-blaze.json](./39659-dragon-blaze.json) |
 | Dragon Boy | 108995 | [108995-dragon-boy.json](./108995-dragon-boy.json) |
+| Dragon Break Classic Head to Head | 152755 | [152755-dragon-break-classic-head-to-head.json](./152755-dragon-break-classic-head-to-head.json) |
 | Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
 | Dragon Buster | 38035 | [38035-dragon-buster.json](./38035-dragon-buster.json) |
 | Dragon Castle | 346115 | [346115-dragon-castle.json](./346115-dragon-castle.json) |
