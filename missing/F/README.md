@@ -2511,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Escape | 363364 | [363364-flower-escape.json](./363364-flower-escape.json) |
 | Flower Flurry | 255129 | [255129-flower-flurry.json](./255129-flower-flurry.json) |
 | Flower Garden | 346057 | [346057-flower-garden.json](./346057-flower-garden.json) |
+| Flower Garden Tycoon | 146732 | [146732-flower-garden-tycoon.json](./146732-flower-garden-tycoon.json) |
 | Flower in the Snow: Resurrection | 164998 | [164998-flower-in-the-snow-resurrection.json](./164998-flower-in-the-snow-resurrection.json) |
 | Flower in Us | 263601 | [263601-flower-in-us.json](./263601-flower-in-us.json) |
 | Flower Lines | 69880 | [69880-flower-lines.json](./69880-flower-lines.json) |
@@ -2626,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Frogs | 301991 | [301991-flying-frogs.json](./301991-flying-frogs.json) |
 | Flying Guys | 361741 | [361741-flying-guys.json](./361741-flying-guys.json) |
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
+| Flying Hero X | 146684 | [146684-flying-hero-x.json](./146684-flying-hero-x.json) |
 | Flying Islands Games Bundle | 147812 | [147812-flying-islands-games-bundle.json](./147812-flying-islands-games-bundle.json) |
 | Flying Kick | 181237 | [181237-flying-kick.json](./181237-flying-kick.json) |
 | Flying Motorcycle Simulator Pro | 87258 | [87258-flying-motorcycle-simulator-pro.json](./87258-flying-motorcycle-simulator-pro.json) |
@@ -3248,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Horsemen | 232040 | [232040-four-horsemen.json](./232040-four-horsemen.json) |
 | Four Houses | 209564 | [209564-four-houses.json](./209564-four-houses.json) |
 | Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
+| Four in a Row | 146688 | [146688-four-in-a-row.json](./146688-four-in-a-row.json) |
 | Four in One | 210647 | [210647-four-in-one.json](./210647-four-in-one.json) |
 | Four Lights | 406727 | [406727-four-lights.json](./406727-four-lights.json) |
 | Four Lights: Erie Ever route | 278131 | [278131-four-lights-erie-ever-route.json](./278131-four-lights-erie-ever-route.json) |
@@ -3404,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fray | 381038 | [381038-fray.json](./381038-fray.json) |
 | Fray: Reloaded Edition | 16364 | [16364-fray-reloaded-edition.json](./16364-fray-reloaded-edition.json) |
 | Frayed | 292314 | [292314-frayed.json](./292314-frayed.json) |
+| Frayhem | 146723 | [146723-frayhem.json](./146723-frayhem.json) |
 | Frazzle Dazzle | 180710 | [180710-frazzle-dazzle.json](./180710-frazzle-dazzle.json) |
 | Freak Factory | 265664 | [265664-freak-factory.json](./265664-freak-factory.json) |
 | Freaked Fleapit | 204437 | [204437-freaked-fleapit.json](./204437-freaked-fleapit.json) |
@@ -3813,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Cortex | 16521 | [16521-frozen-cortex.json](./16521-frozen-cortex.json) |
 | Frozen Feathers | 362266 | [362266-frozen-feathers.json](./362266-frozen-feathers.json) |
 | Frozen Forward | 383967 | [383967-frozen-forward.json](./383967-frozen-forward.json) |
+| Frozen Friends | 146683 | [146683-frozen-friends.json](./146683-frozen-friends.json) |
 | Frozen Fruits | 307334 | [307334-frozen-fruits.json](./307334-frozen-fruits.json) |
 | Frozen Heart | 311460 | [311460-frozen-heart.json](./311460-frozen-heart.json) |
 | Frozen Honey ASMR: Sleek Edition | 306520 | [306520-frozen-honey-asmr-sleek-edition.json](./306520-frozen-honey-asmr-sleek-edition.json) |
