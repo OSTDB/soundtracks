@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
 | Eden Genesis | 280561 | [280561-eden-genesis.json](./280561-eden-genesis.json) |
 | Eden Remains: Arrival | 203944 | [203944-eden-remains-arrival.json](./203944-eden-remains-arrival.json) |
+| Eden Rising: Ascendant Expansion | 169326 | [169326-eden-rising-ascendant-expansion.json](./169326-eden-rising-ascendant-expansion.json) |
 | Eden Star | 14377 | [14377-eden-star.json](./14377-eden-star.json) |
 | Eden Tactics | 325448 | [325448-eden-tactics.json](./325448-eden-tactics.json) |
 | Eden Warrior | 303506 | [303506-eden-warrior.json](./303506-eden-warrior.json) |
@@ -919,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire: Total War - Special Forces Units & Bonus Content | 82087 | [82087-empire-total-war-special-forces-units-and-bonus-content.json](./82087-empire-total-war-special-forces-units-and-bonus-content.json) |
 | Empire! | 13640 | [13640-empire.json](./13640-empire.json) |
 | Empires & Allies | 60553 | [60553-empires-and-allies.json](./60553-empires-and-allies.json) |
+| Empires Apart: Chinese Civilization Pack | 169311 | [169311-empires-apart-chinese-civilization-pack.json](./169311-empires-apart-chinese-civilization-pack.json) |
 | Empires II: What Would You Risk for World Conquest? | 100215 | [100215-empires-ii-what-would-you-risk-for-world-conquest.json](./100215-empires-ii-what-would-you-risk-for-world-conquest.json) |
 | Empires of Creation | 34179 | [34179-empires-of-creation.json](./34179-empires-of-creation.json) |
 | Empires of Europe 1100 | 356158 | [356158-empires-of-europe-1100.json](./356158-empires-of-europe-1100.json) |
@@ -1817,12 +1819,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Domination | 240892 | [240892-europa-universalis-iv-domination.json](./240892-europa-universalis-iv-domination.json) |
 | Europa Universalis IV: El Dorado Content Pack | 227343 | [227343-europa-universalis-iv-el-dorado-content-pack.json](./227343-europa-universalis-iv-el-dorado-content-pack.json) |
 | Europa Universalis IV: Emperor Content Pack | 227344 | [227344-europa-universalis-iv-emperor-content-pack.json](./227344-europa-universalis-iv-emperor-content-pack.json) |
+| Europa Universalis IV: Golden Century - Immersion Pack | 169310 | [169310-europa-universalis-iv-golden-century-immersion-pack.json](./169310-europa-universalis-iv-golden-century-immersion-pack.json) |
 | Europa Universalis IV: Lions of the North | 215925 | [215925-europa-universalis-iv-lions-of-the-north.json](./215925-europa-universalis-iv-lions-of-the-north.json) |
 | Europa Universalis IV: Mandate of Heaven Content Pack | 227345 | [227345-europa-universalis-iv-mandate-of-heaven-content-pack.json](./227345-europa-universalis-iv-mandate-of-heaven-content-pack.json) |
 | Europa Universalis IV: Mare Nostrum Content Pack | 227346 | [227346-europa-universalis-iv-mare-nostrum-content-pack.json](./227346-europa-universalis-iv-mare-nostrum-content-pack.json) |
 | Europa Universalis IV: National Monuments II | 169976 | [169976-europa-universalis-iv-national-monuments-ii.json](./169976-europa-universalis-iv-national-monuments-ii.json) |
 | Europa Universalis IV: Res Publica | 19294 | [19294-europa-universalis-iv-res-publica.json](./19294-europa-universalis-iv-res-publica.json) |
 | Europa Universalis IV: Rights of Man Content Pack | 227347 | [227347-europa-universalis-iv-rights-of-man-content-pack.json](./227347-europa-universalis-iv-rights-of-man-content-pack.json) |
+| Europa Universalis IV: Rule Britannia - Immersion Pack | 169303 | [169303-europa-universalis-iv-rule-britannia-immersion-pack.json](./169303-europa-universalis-iv-rule-britannia-immersion-pack.json) |
 | Europa Universalis IV: Songs of Regency | 227861 | [227861-europa-universalis-iv-songs-of-regency.json](./227861-europa-universalis-iv-songs-of-regency.json) |
 | Europa Universalis IV: The Cossacks Content Pack | 227348 | [227348-europa-universalis-iv-the-cossacks-content-pack.json](./227348-europa-universalis-iv-the-cossacks-content-pack.json) |
 | Europa Universalis IV: Ultimate Sprite Pack | 284902 | [284902-europa-universalis-iv-ultimate-sprite-pack.json](./284902-europa-universalis-iv-ultimate-sprite-pack.json) |
