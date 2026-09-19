@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Bloodhunt | 152087 | [152087-vampire-the-masquerade-bloodhunt.json](./152087-vampire-the-masquerade-bloodhunt.json) |
 | Vampire: The Masquerade - Bloodlines 2 - Loose Cannon | 370209 | [370209-vampire-the-masquerade-bloodlines-2-loose-cannon.json](./370209-vampire-the-masquerade-bloodlines-2-loose-cannon.json) |
 | Vampire: The Masquerade - Bloodlines 2 - The Flower & the Flame | 370208 | [370208-vampire-the-masquerade-bloodlines-2-the-flower-and-the-flame.json](./370208-vampire-the-masquerade-bloodlines-2-the-flower-and-the-flame.json) |
+| Vampire: The Masquerade - Coteries of New York & Shadows of New York | 146128 | [146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json](./146128-vampire-the-masquerade-coteries-of-new-york-and-shadows-of-new-york.json) |
 | Vampire: The Masquerade - Night Road | 133401 | [133401-vampire-the-masquerade-night-road.json](./133401-vampire-the-masquerade-night-road.json) |
 | Vampire: The Masquerade - Parliament of Knives | 133402 | [133402-vampire-the-masquerade-parliament-of-knives.json](./133402-vampire-the-masquerade-parliament-of-knives.json) |
 | Vampire: The Masquerade - Parliament of Knives: What Stares Back | 216855 | [216855-vampire-the-masquerade-parliament-of-knives-what-stares-back.json](./216855-vampire-the-masquerade-parliament-of-knives-what-stares-back.json) |
