@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T08:32:28.213Z",
-  "total_missing": 91421,
+  "generated_at": "2026-09-19T08:47:35.427Z",
+  "total_missing": 91471,
   "games": [
     {
       "igdb_id": 176875,
@@ -4173,6 +4173,11 @@
       "file": "missing/A/357791-a-fathers-tale.json"
     },
     {
+      "igdb_id": 161748,
+      "game_name": "A Favor",
+      "file": "missing/A/161748-a-favor.json"
+    },
+    {
       "igdb_id": 104687,
       "game_name": "A Few Billion Square Tiles",
       "file": "missing/A/104687-a-few-billion-square-tiles.json"
@@ -4676,6 +4681,11 @@
       "igdb_id": 331291,
       "game_name": "A Night With: Succubus",
       "file": "missing/A/331291-a-night-with-succubus.json"
+    },
+    {
+      "igdb_id": 161738,
+      "game_name": "A Ninja in Training",
+      "file": "missing/A/161738-a-ninja-in-training.json"
     },
     {
       "igdb_id": 174207,
@@ -98243,6 +98253,11 @@
       "file": "missing/D/134605-disgraced-swordswoman-battle.json"
     },
     {
+      "igdb_id": 161730,
+      "game_name": "Disgraced: Trailblazer",
+      "file": "missing/D/161730-disgraced-trailblazer.json"
+    },
+    {
       "igdb_id": 332991,
       "game_name": "Disguised Blessing",
       "file": "missing/D/332991-disguised-blessing.json"
@@ -99186,6 +99201,11 @@
       "igdb_id": 339102,
       "game_name": "Divination",
       "file": "missing/D/339102-divination.json"
+    },
+    {
+      "igdb_id": 161752,
+      "game_name": "Divine Ascent: Map Pack",
+      "file": "missing/D/161752-divine-ascent-map-pack.json"
     },
     {
       "igdb_id": 113744,
@@ -110893,6 +110913,11 @@
       "file": "missing/D/90631-dwarfs-f2p.json"
     },
     {
+      "igdb_id": 161779,
+      "game_name": "Dwarfs F2P: Skirmish Pack",
+      "file": "missing/D/161779-dwarfs-f2p-skirmish-pack.json"
+    },
+    {
       "igdb_id": 224663,
       "game_name": "Dwarfs Fight",
       "file": "missing/D/224663-dwarfs-fight.json"
@@ -111846,6 +111871,11 @@
       "igdb_id": 168227,
       "game_name": "Earth Defense Force: World Brothers - Prowl Rider (EDF: IR), KR Prototype & Special Gear",
       "file": "missing/E/168227-earth-defense-force-world-brothers-prowl-rider-edf-ir-kr-prototype-and-special-gear.json"
+    },
+    {
+      "igdb_id": 161757,
+      "game_name": "Earth Defense Force: World Brothers - Riho Futaba, Merry Santa Costume",
+      "file": "missing/E/161757-earth-defense-force-world-brothers-riho-futaba-merry-santa-costume.json"
     },
     {
       "igdb_id": 168228,
@@ -125748,6 +125778,11 @@
       "file": "missing/F/335322-family-bible-quest.json"
     },
     {
+      "igdb_id": 161760,
+      "game_name": "Family Billiards",
+      "file": "missing/F/161760-family-billiards.json"
+    },
+    {
       "igdb_id": 82139,
       "game_name": "Family Card Games Fun Pack",
       "file": "missing/F/82139-family-card-games-fun-pack.json"
@@ -131893,6 +131928,11 @@
       "file": "missing/F/93077-fire-ant.json"
     },
     {
+      "igdb_id": 161775,
+      "game_name": "Fire Ball",
+      "file": "missing/F/161775-fire-ball.json"
+    },
+    {
       "igdb_id": 243935,
       "game_name": "Fire Breathers",
       "file": "missing/F/243935-fire-breathers.json"
@@ -136421,6 +136461,11 @@
       "igdb_id": 87258,
       "game_name": "Flying Motorcycle Simulator Pro",
       "file": "missing/F/87258-flying-motorcycle-simulator-pro.json"
+    },
+    {
+      "igdb_id": 161777,
+      "game_name": "Flying Propeller",
+      "file": "missing/F/161777-flying-propeller.json"
     },
     {
       "igdb_id": 358845,
@@ -199248,6 +199293,11 @@
       "file": "missing/K/116387-killing-floor-double-feature.json"
     },
     {
+      "igdb_id": 161759,
+      "game_name": "Killing Floor: PostMortem Character Pack",
+      "file": "missing/K/161759-killing-floor-postmortem-character-pack.json"
+    },
+    {
       "igdb_id": 191905,
       "game_name": "Killing Kiss",
       "file": "missing/K/191905-killing-kiss.json"
@@ -234728,6 +234778,11 @@
       "file": "missing/M/161822-microsoft-flight-simulator-x-steam-edition-cessna-c185f-skywagon.json"
     },
     {
+      "igdb_id": 161778,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Dangerous Approaches",
+      "file": "missing/M/161778-microsoft-flight-simulator-x-steam-edition-dangerous-approaches.json"
+    },
+    {
       "igdb_id": 161841,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Diamond DA40",
       "file": "missing/M/161841-microsoft-flight-simulator-x-steam-edition-diamond-da40.json"
@@ -261063,6 +261118,11 @@
       "file": "missing/N/349413-nonogram-masters-legacy-the-classic-pack.json"
     },
     {
+      "igdb_id": 161739,
+      "game_name": "Nonogram: Master's Legacy - The Greatest Pack",
+      "file": "missing/N/161739-nonogram-masters-legacy-the-greatest-pack.json"
+    },
+    {
       "igdb_id": 349415,
       "game_name": "Nonogram: Master's Legacy - The Speed Pack",
       "file": "missing/N/349415-nonogram-masters-legacy-the-speed-pack.json"
@@ -270066,6 +270126,11 @@
       "igdb_id": 164529,
       "game_name": "​Our Life: Beginnings & Always - Step 2 Expansion",
       "file": "missing/0-9/164529-our-life-beginnings-and-always-step-2-expansion.json"
+    },
+    {
+      "igdb_id": 161753,
+      "game_name": "​Our Life: Beginnings & Always - Step 3 Expansion",
+      "file": "missing/0-9/161753-our-life-beginnings-and-always-step-3-expansion.json"
     },
     {
       "igdb_id": 187392,
@@ -295671,6 +295736,11 @@
       "igdb_id": 316641,
       "game_name": "PsychoCudgel",
       "file": "missing/P/316641-psychocudgel.json"
+    },
+    {
+      "igdb_id": 161776,
+      "game_name": "Psychofunk",
+      "file": "missing/P/161776-psychofunk.json"
     },
     {
       "igdb_id": 264707,
@@ -336571,6 +336641,11 @@
       "igdb_id": 195120,
       "game_name": "Sisters Possession 1",
       "file": "missing/S/195120-sisters-possession-1.json"
+    },
+    {
+      "igdb_id": 161756,
+      "game_name": "Sisters Royale: Five Stars Under Fire - Ode",
+      "file": "missing/S/161756-sisters-royale-five-stars-under-fire-ode.json"
     },
     {
       "igdb_id": 54360,
@@ -380008,6 +380083,11 @@
       "file": "missing/T/167297-tennis-world-tour-2-champions-pack.json"
     },
     {
+      "igdb_id": 161755,
+      "game_name": "Tennis World Tour 2: Juan Martin Del Potro & Victoria Azarenka",
+      "file": "missing/T/161755-tennis-world-tour-2-juan-martin-del-potro-and-victoria-azarenka.json"
+    },
+    {
       "igdb_id": 167299,
       "game_name": "Tennis World Tour 2: Legends Pack",
       "file": "missing/T/167299-tennis-world-tour-2-legends-pack.json"
@@ -394691,6 +394771,11 @@
       "igdb_id": 273413,
       "game_name": "The Most Beautiful Room in the World",
       "file": "missing/T/273413-the-most-beautiful-room-in-the-world.json"
+    },
+    {
+      "igdb_id": 161758,
+      "game_name": "The Most Boring Life Ever",
+      "file": "missing/T/161758-the-most-boring-life-ever.json"
     },
     {
       "igdb_id": 205672,
@@ -413698,6 +413783,61 @@
       "file": "missing/T/86645-touhou-genso-wanderer-reloaded.json"
     },
     {
+      "igdb_id": 161746,
+      "game_name": "Touhou Genso Wanderer Reloaded: Alice Margatroid",
+      "file": "missing/T/161746-touhou-genso-wanderer-reloaded-alice-margatroid.json"
+    },
+    {
+      "igdb_id": 161749,
+      "game_name": "Touhou Genso Wanderer Reloaded: Cirno",
+      "file": "missing/T/161749-touhou-genso-wanderer-reloaded-cirno.json"
+    },
+    {
+      "igdb_id": 161742,
+      "game_name": "Touhou Genso Wanderer Reloaded: Daiyosei",
+      "file": "missing/T/161742-touhou-genso-wanderer-reloaded-daiyosei.json"
+    },
+    {
+      "igdb_id": 161744,
+      "game_name": "Touhou Genso Wanderer Reloaded: Kasen Ibaraki",
+      "file": "missing/T/161744-touhou-genso-wanderer-reloaded-kasen-ibaraki.json"
+    },
+    {
+      "igdb_id": 161740,
+      "game_name": "Touhou Genso Wanderer Reloaded: Kokoro Hata",
+      "file": "missing/T/161740-touhou-genso-wanderer-reloaded-kokoro-hata.json"
+    },
+    {
+      "igdb_id": 161745,
+      "game_name": "Touhou Genso Wanderer Reloaded: Rei'sen",
+      "file": "missing/T/161745-touhou-genso-wanderer-reloaded-reisen.json"
+    },
+    {
+      "igdb_id": 161743,
+      "game_name": "Touhou Genso Wanderer Reloaded: Sakuya Izayoi",
+      "file": "missing/T/161743-touhou-genso-wanderer-reloaded-sakuya-izayoi.json"
+    },
+    {
+      "igdb_id": 161751,
+      "game_name": "Touhou Genso Wanderer Reloaded: Satori Komeiji",
+      "file": "missing/T/161751-touhou-genso-wanderer-reloaded-satori-komeiji.json"
+    },
+    {
+      "igdb_id": 161747,
+      "game_name": "Touhou Genso Wanderer Reloaded: Suwako Moriya",
+      "file": "missing/T/161747-touhou-genso-wanderer-reloaded-suwako-moriya.json"
+    },
+    {
+      "igdb_id": 161750,
+      "game_name": "Touhou Genso Wanderer Reloaded: Tenshi Hinanawi",
+      "file": "missing/T/161750-touhou-genso-wanderer-reloaded-tenshi-hinanawi.json"
+    },
+    {
+      "igdb_id": 161741,
+      "game_name": "Touhou Genso Wanderer Reloaded: Utsuho Reiuji",
+      "file": "missing/T/161741-touhou-genso-wanderer-reloaded-utsuho-reiuji.json"
+    },
+    {
       "igdb_id": 289024,
       "game_name": "Touhou Genso Wanderer: Foresight",
       "file": "missing/T/289024-touhou-genso-wanderer-foresight.json"
@@ -415808,6 +415948,16 @@
       "file": "missing/T/168730-train-sim-world-2-br-heavy-freight-pack-loco.json"
     },
     {
+      "igdb_id": 161735,
+      "game_name": "Train Sim World 2: Caltrain MP15DC Diesel Switcher Loco",
+      "file": "missing/T/161735-train-sim-world-2-caltrain-mp15dc-diesel-switcher-loco.json"
+    },
+    {
+      "igdb_id": 161734,
+      "game_name": "Train Sim World 2: Caltrain MP36PH-3C 'Baby Bullet' Loco",
+      "file": "missing/T/161734-train-sim-world-2-caltrain-mp36ph-3c-baby-bullet-loco.json"
+    },
+    {
       "igdb_id": 168729,
       "game_name": "Train Sim World 2: Cane Creek: Thompson - Potash Route",
       "file": "missing/T/168729-train-sim-world-2-cane-creek-thompson-potash-route.json"
@@ -415891,6 +416041,16 @@
       "igdb_id": 162255,
       "game_name": "Train Sim World 2020: Amtrak SW1000R Loco",
       "file": "missing/T/162255-train-sim-world-2020-amtrak-sw1000r-loco.json"
+    },
+    {
+      "igdb_id": 161736,
+      "game_name": "Train Sim World 2020: Caltrain MP15DC Diesel Switcher Loco",
+      "file": "missing/T/161736-train-sim-world-2020-caltrain-mp15dc-diesel-switcher-loco.json"
+    },
+    {
+      "igdb_id": 161733,
+      "game_name": "Train Sim World 2020: Caltrain MP36PH-3C ‘Baby Bullet’ Loco",
+      "file": "missing/T/161733-train-sim-world-2020-caltrain-mp36ph-3c-baby-bullet-loco.json"
     },
     {
       "igdb_id": 237944,
@@ -416243,6 +416403,11 @@
       "file": "missing/T/169924-train-simulator-2021-0-4-0-saddletank-pack-1-add-on-loco.json"
     },
     {
+      "igdb_id": 161732,
+      "game_name": "Train Simulator 2021: Aerotrain Streamlined Train",
+      "file": "missing/T/161732-train-simulator-2021-aerotrain-streamlined-train.json"
+    },
+    {
       "igdb_id": 162260,
       "game_name": "Train Simulator 2021: Amtrak Acela Express EMU",
       "file": "missing/T/162260-train-simulator-2021-amtrak-acela-express-emu.json"
@@ -416361,6 +416526,11 @@
       "igdb_id": 162343,
       "game_name": "Train Simulator 2021: BR Sectors Class 56 Loco",
       "file": "missing/T/162343-train-simulator-2021-br-sectors-class-56-loco.json"
+    },
+    {
+      "igdb_id": 161773,
+      "game_name": "Train Simulator 2021: Chicago Racetrack Scenario Pack 01",
+      "file": "missing/T/161773-train-simulator-2021-chicago-racetrack-scenario-pack-01.json"
     },
     {
       "igdb_id": 162360,
@@ -416521,6 +416691,11 @@
       "igdb_id": 162372,
       "game_name": "Train Simulator 2021: LMS Stanier Class 8F Steam Loco",
       "file": "missing/T/162372-train-simulator-2021-lms-stanier-class-8f-steam-loco.json"
+    },
+    {
+      "igdb_id": 161731,
+      "game_name": "Train Simulator 2021: LNER Black Class A3 'Flying Scotsman' Loco",
+      "file": "missing/T/161731-train-simulator-2021-lner-black-class-a3-flying-scotsman-loco.json"
     },
     {
       "igdb_id": 162334,
@@ -417666,6 +417841,11 @@
       "igdb_id": 230954,
       "game_name": "Trainz Railroad Simulator 2022: The Indian Pacific",
       "file": "missing/T/230954-trainz-railroad-simulator-2022-the-indian-pacific.json"
+    },
+    {
+      "igdb_id": 161737,
+      "game_name": "Trainz Simulator 12: Aerotrain",
+      "file": "missing/T/161737-trainz-simulator-12-aerotrain.json"
     },
     {
       "igdb_id": 27898,
@@ -421846,6 +422026,11 @@
       "igdb_id": 184567,
       "game_name": "Turbotron",
       "file": "missing/T/184567-turbotron.json"
+    },
+    {
+      "igdb_id": 161754,
+      "game_name": "Turbulence: Airplane Survival Simulator",
+      "file": "missing/T/161754-turbulence-airplane-survival-simulator.json"
     },
     {
       "igdb_id": 172195,
@@ -434793,9 +434978,59 @@
       "file": "missing/V/235766-vranygrai.json"
     },
     {
+      "igdb_id": 161763,
+      "game_name": "VRC Pro: Deluxe Americas On-Road Tracks",
+      "file": "missing/V/161763-vrc-pro-deluxe-americas-on-road-tracks.json"
+    },
+    {
+      "igdb_id": 161764,
+      "game_name": "VRC Pro: Deluxe Asia On-Road Tracks",
+      "file": "missing/V/161764-vrc-pro-deluxe-asia-on-road-tracks.json"
+    },
+    {
+      "igdb_id": 161772,
+      "game_name": "VRC Pro: Deluxe Asia On-Road Tracks 2",
+      "file": "missing/V/161772-vrc-pro-deluxe-asia-on-road-tracks-2.json"
+    },
+    {
       "igdb_id": 162249,
       "game_name": "VRC Pro: Deluxe Cars",
       "file": "missing/V/162249-vrc-pro-deluxe-cars.json"
+    },
+    {
+      "igdb_id": 161768,
+      "game_name": "VRC Pro: Deluxe Electric On-Road Tracks",
+      "file": "missing/V/161768-vrc-pro-deluxe-electric-on-road-tracks.json"
+    },
+    {
+      "igdb_id": 161771,
+      "game_name": "VRC Pro: Deluxe European On-Road Tracks",
+      "file": "missing/V/161771-vrc-pro-deluxe-european-on-road-tracks.json"
+    },
+    {
+      "igdb_id": 161774,
+      "game_name": "VRC Pro: Deluxe Nitro On-Road Tracks",
+      "file": "missing/V/161774-vrc-pro-deluxe-nitro-on-road-tracks.json"
+    },
+    {
+      "igdb_id": 161767,
+      "game_name": "VRC Pro: Deluxe Off-Road Tracks",
+      "file": "missing/V/161767-vrc-pro-deluxe-off-road-tracks.json"
+    },
+    {
+      "igdb_id": 161762,
+      "game_name": "VRC Pro: Deluxe Off-Road Tracks 2",
+      "file": "missing/V/161762-vrc-pro-deluxe-off-road-tracks-2.json"
+    },
+    {
+      "igdb_id": 161766,
+      "game_name": "VRC Pro: Deluxe Off-Road Tracks 3",
+      "file": "missing/V/161766-vrc-pro-deluxe-off-road-tracks-3.json"
+    },
+    {
+      "igdb_id": 161765,
+      "game_name": "VRC Pro: Deluxe Off-Road Tracks 4",
+      "file": "missing/V/161765-vrc-pro-deluxe-off-road-tracks-4.json"
     },
     {
       "igdb_id": 162250,
@@ -434803,9 +435038,24 @@
       "file": "missing/V/162250-vrc-pro-gt3-chassis-and-components.json"
     },
     {
+      "igdb_id": 161769,
+      "game_name": "VRC Pro: Off-Road Track - Barco, Italy",
+      "file": "missing/V/161769-vrc-pro-off-road-track-barco-italy.json"
+    },
+    {
+      "igdb_id": 161770,
+      "game_name": "VRC Pro: Off-Road Track - Buggyland Fuencarral, Spain",
+      "file": "missing/V/161770-vrc-pro-off-road-track-buggyland-fuencarral-spain.json"
+    },
+    {
       "igdb_id": 162251,
       "game_name": "VRC Pro: Rally-X",
       "file": "missing/V/162251-vrc-pro-rally-x.json"
+    },
+    {
+      "igdb_id": 161761,
+      "game_name": "VRC Pro: Track Pack - Melzo Oval, Italy",
+      "file": "missing/V/161761-vrc-pro-track-pack-melzo-oval-italy.json"
     },
     {
       "igdb_id": 33150,
