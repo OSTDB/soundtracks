@@ -1947,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
 | Even in Arcadia, There I Am | 136421 | [136421-even-in-arcadia-there-i-am.json](./136421-even-in-arcadia-there-i-am.json) |
 | Even Lovers Drown | 408772 | [408772-even-lovers-drown.json](./408772-even-lovers-drown.json) |
+| Even the Stars | 136865 | [136865-even-the-stars.json](./136865-even-the-stars.json) |
 | Even20: The Interference of Parallels | 373096 | [373096-even20-the-interference-of-parallels.json](./373096-even20-the-interference-of-parallels.json) |
 | Evenfall | 362328 | [362328-evenfall.json](./362328-evenfall.json) |
 | Evening Star | 13647 | [13647-evening-star.json](./13647-evening-star.json) |
@@ -2431,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
 | Extremely Realistic Siege Warfare Simulator | 130957 | [130957-extremely-realistic-siege-warfare-simulator.json](./130957-extremely-realistic-siege-warfare-simulator.json) |
+| ExtremeTK | 136861 | [136861-extremetk.json](./136861-extremetk.json) |
 | Exvelten | 153857 | [153857-exvelten.json](./153857-exvelten.json) |
 | Exzeal | 32926 | [32926-exzeal.json](./32926-exzeal.json) |
 | Exzore: The Rising | 42666 | [42666-exzore-the-rising.json](./42666-exzore-the-rising.json) |
