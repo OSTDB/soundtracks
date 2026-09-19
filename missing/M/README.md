@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainichi no Mimikaki | 227954 | [227954-mainichi-no-mimikaki.json](./227954-mainichi-no-mimikaki.json) |
 | Mainly at Rest | 165669 | [165669-mainly-at-rest.json](./165669-mainly-at-rest.json) |
 | Maison Kanraku: The Second Climax | 59992 | [59992-maison-kanraku-the-second-climax.json](./59992-maison-kanraku-the-second-climax.json) |
+| Maitetsu: Pure Station - Special Luxury Version with Triple Suede Tapestry Limited Edition | 167158 | [167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json](./167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json) |
 | Maitetsu: Pure Station: Hachiroku Figure - Limited Edition | 212325 | [212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json](./212325-maitetsu-pure-station-hachiroku-figure-limited-edition.json) |
 | Maize | 19518 | [19518-maize.json](./19518-maize.json) |
 | Maize Mace Maze | 293075 | [293075-maize-mace-maze.json](./293075-maize-mace-maze.json) |
@@ -1323,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marsport | 45327 | [45327-marsport.json](./45327-marsport.json) |
 | Marsupilami: Hoobadventure - Tropical Edition | 152337 | [152337-marsupilami-hoobadventure-tropical-edition.json](./152337-marsupilami-hoobadventure-tropical-edition.json) |
 | Marswar TD | 169465 | [169465-marswar-td.json](./169465-marswar-td.json) |
+| Mart and Tetra | 167171 | [167171-mart-and-tetra.json](./167171-mart-and-tetra.json) |
 | Mart Master | 227372 | [227372-mart-master.json](./227372-mart-master.json) |
 | Mart Racer | 21060 | [21060-mart-racer.json](./21060-mart-racer.json) |
 | Martha | 144357 | [144357-martha.json](./144357-martha.json) |
@@ -2153,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Game Room 2 | 209531 | [209531-mega-game-room-2.json](./209531-mega-game-room-2.json) |
 | Mega Knight | 288367 | [288367-mega-knight.json](./288367-mega-knight.json) |
 | Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
+| Mega Man 11: Collector's Package | 167160 | [167160-mega-man-11-collectors-package.json](./167160-mega-man-11-collectors-package.json) |
 | Mega Man 2 Lite | 206149 | [206149-mega-man-2-lite.json](./206149-mega-man-2-lite.json) |
 | Mega Man 2 Randomizer | 324885 | [324885-mega-man-2-randomizer.json](./324885-mega-man-2-randomizer.json) |
 | Mega Man 2: The Power Fighters | 1725 | [1725-mega-man-2-the-power-fighters.json](./1725-mega-man-2-the-power-fighters.json) |
