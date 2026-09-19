@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Crazy Hearts | 98390 | [98390-hidden-object-crazy-hearts.json](./98390-hidden-object-crazy-hearts.json) |
 | Hidden Object: Crime in Penthouse Special Edition | 240340 | [240340-hidden-object-crime-in-penthouse-special-edition.json](./240340-hidden-object-crime-in-penthouse-special-edition.json) |
 | Hidden Object: Deck the Halls | 98385 | [98385-hidden-object-deck-the-halls.json](./98385-hidden-object-deck-the-halls.json) |
+| Hidden Object: Detective Holmes - Heirloom | 166622 | [166622-hidden-object-detective-holmes-heirloom.json](./166622-hidden-object-detective-holmes-heirloom.json) |
 | Hidden Object: Detective Wiltshire Kingdom, The Book is About 33 Knight | 200199 | [200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json](./200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json) |
 | Hidden Object: Dog Happy Life | 82160 | [82160-hidden-object-dog-happy-life.json](./82160-hidden-object-dog-happy-life.json) |
 | Hidden Object: Elemental Guardians | 98386 | [98386-hidden-object-elemental-guardians.json](./98386-hidden-object-elemental-guardians.json) |
