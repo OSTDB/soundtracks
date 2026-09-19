@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Racing Championship | 3495 | [3495-f1-racing-championship.json](./3495-f1-racing-championship.json) |
 | F1 Racing Championship 2 | 137653 | [137653-f1-racing-championship-2.json](./137653-f1-racing-championship-2.json) |
 | F1 ROC II: Race of Champions | 42572 | [42572-f1-roc-ii-race-of-champions.json](./42572-f1-roc-ii-race-of-champions.json) |
+| F1 Team Simulation: Project F | 128359 | [128359-f1-team-simulation-project-f.json](./128359-f1-team-simulation-project-f.json) |
 | F1 Tornado | 300877 | [300877-f1-tornado.json](./300877-f1-tornado.json) |
 | F1: World Championship Edition | 12083 | [12083-f1-world-championship-edition.json](./12083-f1-world-championship-edition.json) |
 | F15 Flight Simulator VR | 107129 | [107129-f15-flight-simulator-vr.json](./107129-f15-flight-simulator-vr.json) |
