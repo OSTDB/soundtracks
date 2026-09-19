@@ -1146,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hebereke's Popoon | 42610 | [42610-heberekes-popoon.json](./42610-heberekes-popoon.json) |
 | Hebi no Inochi | 288873 | [288873-hebi-no-inochi.json](./288873-hebi-no-inochi.json) |
 | Hecatomb | 398404 | [398404-hecatomb.json](./398404-hecatomb.json) |
+| Hecaton | 133231 | [133231-hecaton.json](./133231-hecaton.json) |
 | Hector The Cat: Treasure Hunter | 257437 | [257437-hector-the-cat-treasure-hunter.json](./257437-hector-the-cat-treasure-hunter.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
@@ -1433,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Hurt Hopp | 148934 | [148934-help-hurt-hopp.json](./148934-help-hurt-hopp.json) |
 | Help me Braveman! | 212484 | [212484-help-me-braveman.json](./212484-help-me-braveman.json) |
 | Help Me Escape! The Puzzle Maker's Office | 108438 | [108438-help-me-escape-the-puzzle-makers-office.json](./108438-help-me-escape-the-puzzle-makers-office.json) |
+| Help Me Now | 133221 | [133221-help-me-now.json](./133221-help-me-now.json) |
 | Help me please | 155977 | [155977-help-me-please.json](./155977-help-me-please.json) |
 | Help Me! | 154003 | [154003-help-me.json](./154003-help-me.json) |
 | Help Newton | 197228 | [197228-help-newton.json](./197228-help-newton.json) |
