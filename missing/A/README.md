@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Tycoon 2: Falcon Lines | 52568 | [52568-airline-tycoon-2-falcon-lines.json](./52568-airline-tycoon-2-falcon-lines.json) |
 | Airline Tycoon 2: Gold Edition | 52569 | [52569-airline-tycoon-2-gold-edition.json](./52569-airline-tycoon-2-gold-edition.json) |
 | Airline Tycoon Deluxe | 11086 | [11086-airline-tycoon-deluxe.json](./11086-airline-tycoon-deluxe.json) |
+| Airlock Arena: Profit or Perish | 149453 | [149453-airlock-arena-profit-or-perish.json](./149453-airlock-arena-profit-or-perish.json) |
 | AirMech | 1365 | [1365-airmech.json](./1365-airmech.json) |
 | Airplane Attack | 358847 | [358847-airplane-attack.json](./358847-airplane-attack.json) |
 | Airplane Flight Simulator | 251630 | [251630-airplane-flight-simulator.json](./251630-airplane-flight-simulator.json) |
@@ -4715,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avorion: Black Market | 172110 | [172110-avorion-black-market.json](./172110-avorion-black-market.json) |
 | Avorion: Into the Rift | 210867 | [210867-avorion-into-the-rift.json](./210867-avorion-into-the-rift.json) |
 | Avril | 373011 | [373011-avril.json](./373011-avril.json) |
+| Avrod | 149452 | [149452-avrod.json](./149452-avrod.json) |
 | Avventura nel Castello | 304177 | [304177-avventura-nel-castello.json](./304177-avventura-nel-castello.json) |
 | Avy, Fables of the Night | 269288 | [269288-avy-fables-of-the-night.json](./269288-avy-fables-of-the-night.json) |
 | AWA | 32877 | [32877-awa.json](./32877-awa.json) |
@@ -4760,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
 | Awful Mario World | 314897 | [314897-awful-mario-world.json](./314897-awful-mario-world.json) |
 | Awkward Date Hero | 109621 | [109621-awkward-date-hero.json](./109621-awkward-date-hero.json) |
+| Awkward Girls | 149421 | [149421-awkward-girls.json](./149421-awkward-girls.json) |
 | Awkward Goalie | 246962 | [246962-awkward-goalie.json](./246962-awkward-goalie.json) |
 | Awoken Madness | 271201 | [271201-awoken-madness.json](./271201-awoken-madness.json) |
 | Awoken: Chapter One of Reverie | 168849 | [168849-awoken-chapter-one-of-reverie.json](./168849-awoken-chapter-one-of-reverie.json) |
