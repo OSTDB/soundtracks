@@ -2640,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinoLife | 212909 | [212909-dinolife.json](./212909-dinolife.json) |
 | DinoMight Baseball | 209019 | [209019-dinomight-baseball.json](./209019-dinomight-baseball.json) |
 | Dinopunk: The Cacops Adventure | 273648 | [273648-dinopunk-the-cacops-adventure.json](./273648-dinopunk-the-cacops-adventure.json) |
+| DinoRPG | 176881 | [176881-dinorpg.json](./176881-dinorpg.json) |
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
 | Dinos Jump | 96754 | [96754-dinos-jump.json](./96754-dinos-jump.json) |
 | Dinosaur | 139988 | [139988-dinosaur.json](./139988-dinosaur.json) |
