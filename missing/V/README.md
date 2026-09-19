@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voltage Fighter Gowcaizer | 39590 | [39590-voltage-fighter-gowcaizer.json](./39590-voltage-fighter-gowcaizer.json) |
 | Voltaire: The Vegan Vampire | 203242 | [203242-voltaire-the-vegan-vampire.json](./203242-voltaire-the-vegan-vampire.json) |
 | Volted | 97025 | [97025-volted.json](./97025-volted.json) |
+| VolticPistol | 127801 | [127801-volticpistol.json](./127801-volticpistol.json) |
 | Voltorometer Recharged+ | 247512 | [247512-voltorometer-recharged.json](./247512-voltorometer-recharged.json) |
 | Voltron | 95400 | [95400-voltron.json](./95400-voltron.json) |
 | Volty's Quest | 181848 | [181848-voltys-quest.json](./181848-voltys-quest.json) |
