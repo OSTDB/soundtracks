@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Skirmish | 205059 | [205059-laser-skirmish.json](./205059-laser-skirmish.json) |
 | Laser Stallion Disco Junkie: One Hit | 115680 | [115680-laser-stallion-disco-junkie-one-hit.json](./115680-laser-stallion-disco-junkie-one-hit.json) |
 | Laser Tag Massacre | 329376 | [329376-laser-tag-massacre.json](./329376-laser-tag-massacre.json) |
+| Laser Z | 127081 | [127081-laser-z.json](./127081-laser-z.json) |
 | Laser! | 253011 | [253011-laser.json](./253011-laser.json) |
 | Laserbirds | 217986 | [217986-laserbirds.json](./217986-laserbirds.json) |
 | Laserboy | 182357 | [182357-laserboy.json](./182357-laserboy.json) |
@@ -1717,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LipTrip: My Boss is My Heat Suppressant | 271985 | [271985-liptrip-my-boss-is-my-heat-suppressant.json](./271985-liptrip-my-boss-is-my-heat-suppressant.json) |
 | Liquid Abyss: The Melted Jelly | 331883 | [331883-liquid-abyss-the-melted-jelly.json](./331883-liquid-abyss-the-melted-jelly.json) |
 | Liquid Light | 286001 | [286001-liquid-light.json](./286001-liquid-light.json) |
+| Liquid Space | 127078 | [127078-liquid-space.json](./127078-liquid-space.json) |
 | Liquid War | 51250 | [51250-liquid-war.json](./51250-liquid-war.json) |
 | Liquidators | 147297 | [147297-liquidators.json](./147297-liquidators.json) |
 | Liquidum: Secrets of the Deep | 310387 | [310387-liquidum-secrets-of-the-deep.json](./310387-liquidum-secrets-of-the-deep.json) |
