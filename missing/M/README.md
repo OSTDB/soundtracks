@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnificent-1 | 196137 | [196137-magnificent-1.json](./196137-magnificent-1.json) |
 | Magnir Saga Part 1 | 263227 | [263227-magnir-saga-part-1.json](./263227-magnir-saga-part-1.json) |
 | Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
+| Magnolia | 141031 | [141031-magnolia.json](./141031-magnolia.json) |
 | Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
 | Mago | 120365 | [120365-mago.json](./120365-mago.json) |
 | Magocracy | 70339 | [70339-magocracy.json](./70339-magocracy.json) |
@@ -1022,6 +1023,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Margot's Bepuzzled | 210042 | [210042-margots-bepuzzled.json](./210042-margots-bepuzzled.json) |
 | Margot's Word Brain | 47961 | [47961-margots-word-brain.json](./47961-margots-word-brain.json) |
 | Margrave Manor 3: The Curse of the Blacksmith's Heart | 210041 | [210041-margrave-manor-3-the-curse-of-the-blacksmiths-heart.json](./210041-margrave-manor-3-the-curse-of-the-blacksmiths-heart.json) |
+| Margrave: The Blacksmith's Daughter | 140989 | [140989-margrave-the-blacksmiths-daughter.json](./140989-margrave-the-blacksmiths-daughter.json) |
+| Margrave: The Blacksmith's Daughter Deluxe Edition | 140990 | [140990-margrave-the-blacksmiths-daughter-deluxe-edition.json](./140990-margrave-the-blacksmiths-daughter-deluxe-edition.json) |
 | Mari Is Home | 280180 | [280180-mari-is-home.json](./280180-mari-is-home.json) |
 | Mari's Magical Deliveries | 334204 | [334204-maris-magical-deliveries.json](./334204-maris-magical-deliveries.json) |
 | Maria | 308406 | [308406-maria.json](./308406-maria.json) |
@@ -2890,6 +2893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
 | Meteor Storm | 319587 | [319587-meteor-storm.json](./319587-meteor-storm.json) |
 | Meteor Storm | 379900 | [379900-meteor-storm.json](./379900-meteor-storm.json) |
+| Meteor Tensei | 141029 | [141029-meteor-tensei.json](./141029-meteor-tensei.json) |
 | Meteor World Actor: Badge & Dagger | 194451 | [194451-meteor-world-actor-badge-and-dagger.json](./194451-meteor-world-actor-badge-and-dagger.json) |
 | Meteorfall: Krumit's Tale | 98379 | [98379-meteorfall-krumits-tale.json](./98379-meteorfall-krumits-tale.json) |
 | Meteorfall: Krumit's Tale - Varfa the Ranger | 172169 | [172169-meteorfall-krumits-tale-varfa-the-ranger.json](./172169-meteorfall-krumits-tale-varfa-the-ranger.json) |
@@ -4202,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Museum | 305524 | [305524-modern-museum.json](./305524-modern-museum.json) |
 | Modern Naval Warfare | 186903 | [186903-modern-naval-warfare.json](./186903-modern-naval-warfare.json) |
 | Modern Road-Like | 104041 | [104041-modern-road-like.json](./104041-modern-road-like.json) |
+| Modern Towers | 140988 | [140988-modern-towers.json](./140988-modern-towers.json) |
 | Modern War | 100206 | [100206-modern-war.json](./100206-modern-war.json) |
 | Modern War Simulator: Advance Under Air Raid | 169448 | [169448-modern-war-simulator-advance-under-air-raid.json](./169448-modern-war-simulator-advance-under-air-raid.json) |
 | Modern Warships: Sea Battle Online | 174797 | [174797-modern-warships-sea-battle-online.json](./174797-modern-warships-sea-battle-online.json) |
@@ -5032,6 +5037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Brazil Pack | 304366 | [304366-mortal-kombat-x-brazil-pack.json](./304366-mortal-kombat-x-brazil-pack.json) |
 | Mortal Kombat X: Klassic Fatalities 1 | 339949 | [339949-mortal-kombat-x-klassic-fatalities-1.json](./339949-mortal-kombat-x-klassic-fatalities-1.json) |
 | Mortal Kombat X: Kold War Scorpion | 340201 | [340201-mortal-kombat-x-kold-war-scorpion.json](./340201-mortal-kombat-x-kold-war-scorpion.json) |
+| Mortal Kombat X: Special Edition | 140997 | [140997-mortal-kombat-x-special-edition.json](./140997-mortal-kombat-x-special-edition.json) |
 | Mortal Kombat: Kollector's Edition | 44559 | [44559-mortal-kombat-kollectors-edition.json](./44559-mortal-kombat-kollectors-edition.json) |
 | Mortal Kombat: Komplete Edition | 2977 | [2977-mortal-kombat-komplete-edition.json](./2977-mortal-kombat-komplete-edition.json) |
 | Mortal Kombat: Legacy Kollection | 347122 | [347122-mortal-kombat-legacy-kollection.json](./347122-mortal-kombat-legacy-kollection.json) |
@@ -5408,6 +5414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Mower | 236380 | [236380-mr-mower.json](./236380-mr-mower.json) |
 | Mr. Mueller's Grand Experiment | 284894 | [284894-mr-muellers-grand-experiment.json](./284894-mr-muellers-grand-experiment.json) |
 | Mr. Nutz: Hoppin' Mad | 39030 | [39030-mr-nutz-hoppin-mad.json](./39030-mr-nutz-hoppin-mad.json) |
+| Mr. Parkour | 141034 | [141034-mr-parkour.json](./141034-mr-parkour.json) |
 | Mr. Parkour 3 | 141153 | [141153-mr-parkour-3.json](./141153-mr-parkour-3.json) |
 | Mr. Pibb: The 3D Interactive Game | 123586 | [123586-mr-pibb-the-3d-interactive-game.json](./123586-mr-pibb-the-3d-interactive-game.json) |
 | Mr. Pogo | 341340 | [341340-mr-pogo.json](./341340-mr-pogo.json) |
