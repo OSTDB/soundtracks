@@ -1649,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Heist of the Century | 195206 | [195206-rescue-team-heist-of-the-century.json](./195206-rescue-team-heist-of-the-century.json) |
 | Rescue Team: Mineral of Miracles | 264631 | [264631-rescue-team-mineral-of-miracles.json](./264631-rescue-team-mineral-of-miracles.json) |
 | Rescue Team: Phantom Crisis - Collector's Edition | 417512 | [417512-rescue-team-phantom-crisis-collectors-edition.json](./417512-rescue-team-phantom-crisis-collectors-edition.json) |
+| Rescue Zone | 138616 | [138616-rescue-zone.json](./138616-rescue-zone.json) |
 | Research Station | 273140 | [273140-research-station.json](./273140-research-station.json) |
 | Researcher | 143476 | [143476-researcher.json](./143476-researcher.json) |
 | Resequenced | 96650 | [96650-resequenced.json](./96650-resequenced.json) |
@@ -2051,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
 | Rgby | 199473 | [199473-rgby.json](./199473-rgby.json) |
+| RGT Cycling | 138571 | [138571-rgt-cycling.json](./138571-rgt-cycling.json) |
 | RGX Showdown | 109588 | [109588-rgx-showdown.json](./109588-rgx-showdown.json) |
 | Rhapsody of Zephyr | 70961 | [70961-rhapsody-of-zephyr.json](./70961-rhapsody-of-zephyr.json) |
 | Rhapsody: Marl Kingdom Chronicles | 234121 | [234121-rhapsody-marl-kingdom-chronicles.json](./234121-rhapsody-marl-kingdom-chronicles.json) |
@@ -2978,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Dice | 217027 | [217027-rogue-dice.json](./217027-rogue-dice.json) |
 | Rogue Drone | 107163 | [107163-rogue-drone.json](./107163-rogue-drone.json) |
 | Rogue Dungeon | 188515 | [188515-rogue-dungeon.json](./188515-rogue-dungeon.json) |
+| Rogue Dungeons | 138581 | [138581-rogue-dungeons.json](./138581-rogue-dungeons.json) |
 | Rogue Fable II | 181247 | [181247-rogue-fable-ii.json](./181247-rogue-fable-ii.json) |
 | Rogue Flight | 318086 | [318086-rogue-flight.json](./318086-rogue-flight.json) |
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
@@ -3835,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush'n Attack | 90990 | [90990-rushn-attack.json](./90990-rushn-attack.json) |
 | Rushaway | 211790 | [211790-rushaway.json](./211790-rushaway.json) |
 | Rushcremental | 381635 | [381635-rushcremental.json](./381635-rushcremental.json) |
+| Rushdown Revolt | 138604 | [138604-rushdown-revolt.json](./138604-rushdown-revolt.json) |
 | Rushing Alice | 200116 | [200116-rushing-alice.json](./200116-rushing-alice.json) |
 | Rushing Beat X: Return of Brawl Brothers | 345566 | [345566-rushing-beat-x-return-of-brawl-brothers.json](./345566-rushing-beat-x-return-of-brawl-brothers.json) |
 | Rushing Heroes | 65472 | [65472-rushing-heroes.json](./65472-rushing-heroes.json) |
