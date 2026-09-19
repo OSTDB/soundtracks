@@ -1561,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
 | Wild West Rogue | 166609 | [166609-wild-west-rogue.json](./166609-wild-west-rogue.json) |
 | Wild West Supermarket Simulator | 345511 | [345511-wild-west-supermarket-simulator.json](./345511-wild-west-supermarket-simulator.json) |
+| Wild West Survival | 139212 | [139212-wild-west-survival.json](./139212-wild-west-survival.json) |
 | Wild West Survivors | 403721 | [403721-wild-west-survivors.json](./403721-wild-west-survivors.json) |
 | Wild West Tycoon Empire | 306515 | [306515-wild-west-tycoon-empire.json](./306515-wild-west-tycoon-empire.json) |
 | Wild West VR | 104075 | [104075-wild-west-vr.json](./104075-wild-west-vr.json) |
