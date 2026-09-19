@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gibbets 2 | 343809 | [343809-gibbets-2.json](./343809-gibbets-2.json) |
 | Gibbonacci | 410992 | [410992-gibbonacci.json](./410992-gibbonacci.json) |
 | Gibbous: A Cthulhu Adventure | 18841 | [18841-gibbous-a-cthulhu-adventure.json](./18841-gibbous-a-cthulhu-adventure.json) |
+| Gibo: Sayaka | 128363 | [128363-gibo-sayaka.json](./128363-gibo-sayaka.json) |
 | Gibz | 20404 | [20404-gibz.json](./20404-gibz.json) |
 | Giddy 3: The Retro Eggsperience | 62144 | [62144-giddy-3-the-retro-eggsperience.json](./62144-giddy-3-the-retro-eggsperience.json) |
 | Gido Gido: Kaiju Battle Party | 404214 | [404214-gido-gido-kaiju-battle-party.json](./404214-gido-gido-kaiju-battle-party.json) |
@@ -1835,6 +1836,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Memory 2 | 242103 | [242103-golden-memory-2.json](./242103-golden-memory-2.json) |
 | Golden Mine Pickaxe 2: Mummy Tombs | 195189 | [195189-golden-mine-pickaxe-2-mummy-tombs.json](./195189-golden-mine-pickaxe-2-mummy-tombs.json) |
 | Golden Moon | 158180 | [158180-golden-moon.json](./158180-golden-moon.json) |
+| Golden Nugget Casino | 128368 | [128368-golden-nugget-casino.json](./128368-golden-nugget-casino.json) |
+| Golden Nugget Casino DS | 128369 | [128369-golden-nugget-casino-ds.json](./128369-golden-nugget-casino-ds.json) |
 | Golden Oldies 1: Guardian and Invaders | 45928 | [45928-golden-oldies-1-guardian-and-invaders.json](./45928-golden-oldies-1-guardian-and-invaders.json) |
 | Golden Oldies 2: Blockbuster and Bughunt | 45927 | [45927-golden-oldies-2-blockbuster-and-bughunt.json](./45927-golden-oldies-2-blockbuster-and-bughunt.json) |
 | Golden Racing | 335958 | [335958-golden-racing.json](./335958-golden-racing.json) |
