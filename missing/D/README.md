@@ -1696,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delve | 361676 | [361676-delve.json](./361676-delve.json) |
 | Delve Deeper | 16204 | [16204-delve-deeper.json](./16204-delve-deeper.json) |
 | Delve Deeper: Gratis Grottos | 26640 | [26640-delve-deeper-gratis-grottos.json](./26640-delve-deeper-gratis-grottos.json) |
+| Delve Deeper: Treasures and Tunnels | 171487 | [171487-delve-deeper-treasures-and-tunnels.json](./171487-delve-deeper-treasures-and-tunnels.json) |
 | Delven | 250357 | [250357-delven.json](./250357-delven.json) |
 | Delverun | 416683 | [416683-delverun.json](./416683-delverun.json) |
 | Delving Deep | 226748 | [226748-delving-deep.json](./226748-delving-deep.json) |
@@ -2100,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
 | Destruction Rocks | 186192 | [186192-destruction-rocks.json](./186192-destruction-rocks.json) |
 | Destruction Simulator | 311455 | [311455-destruction-simulator.json](./311455-destruction-simulator.json) |
+| Destructo | 171483 | [171483-destructo.json](./171483-destructo.json) |
 | DestructoPod | 119710 | [119710-destructopod.json](./119710-destructopod.json) |
 | Detail Hunter | 322982 | [322982-detail-hunter.json](./322982-detail-hunter.json) |
 | DeTails | 355129 | [355129-details.json](./355129-details.json) |
@@ -2211,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry HD Collection | 20734 | [20734-devil-may-cry-hd-collection.json](./20734-devil-may-cry-hd-collection.json) |
 | Devil May Cry HD Collection & 4 Special Edition Bundle | 218517 | [218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json](./218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json) |
 | Devil of the Mirror | 182987 | [182987-devil-of-the-mirror.json](./182987-devil-of-the-mirror.json) |
+| Devil Slayer | 171461 | [171461-devil-slayer.json](./171461-devil-slayer.json) |
 | Devil Spire Falls | 341018 | [341018-devil-spire-falls.json](./341018-devil-spire-falls.json) |
 | Devil Stone | 110329 | [110329-devil-stone.json](./110329-devil-stone.json) |
 | Devil Tears | 175789 | [175789-devil-tears.json](./175789-devil-tears.json) |
@@ -2271,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dfiance | 323371 | [323371-dfiance.json](./323371-dfiance.json) |
 | DFP: Disappear From Polizia | 373098 | [373098-dfp-disappear-from-polizia.json](./373098-dfp-disappear-from-polizia.json) |
 | Dfragmente | 76555 | [76555-dfragmente.json](./76555-dfragmente.json) |
+| DGU: Death God University - Midterm Mania | 171457 | [171457-dgu-death-god-university-midterm-mania.json](./171457-dgu-death-god-university-midterm-mania.json) |
 | Dharma Dojo | 79948 | [79948-dharma-dojo.json](./79948-dharma-dojo.json) |
 | DHTML Lemmings | 352223 | [352223-dhtml-lemmings.json](./352223-dhtml-lemmings.json) |
 | Di Gi Charat Fantasy | 109070 | [109070-di-gi-charat-fantasy.json](./109070-di-gi-charat-fantasy.json) |
@@ -3816,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dots in line | 223180 | [223180-dots-in-line.json](./223180-dots-in-line.json) |
 | Dots of War | 241051 | [241051-dots-of-war.json](./241051-dots-of-war.json) |
 | Dots Pop : Sexy Hentai Girls | 113012 | [113012-dots-pop-sexy-hentai-girls.json](./113012-dots-pop-sexy-hentai-girls.json) |
+| Dots! | 171484 | [171484-dots.json](./171484-dots.json) |
 | DotSec | 329579 | [329579-dotsec.json](./329579-dotsec.json) |
 | Dotsubo-chan | 166146 | [166146-dotsubo-chan.json](./166146-dotsubo-chan.json) |
 | Dottania | 197232 | [197232-dottania.json](./197232-dottania.json) |
