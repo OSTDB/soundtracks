@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naraka Bladepoint: Playstation Plus Gift Pack S16 | 341001 | [341001-naraka-bladepoint-playstation-plus-gift-pack-s16.json](./341001-naraka-bladepoint-playstation-plus-gift-pack-s16.json) |
 | Narara Superboard: Hwansang Seoyugi | 145599 | [145599-narara-superboard-hwansang-seoyugi.json](./145599-narara-superboard-hwansang-seoyugi.json) |
 | Narava RPG | 277432 | [277432-narava-rpg.json](./277432-narava-rpg.json) |
+| Narborion 3: The Swamp of Thousand Paths | 175275 | [175275-narborion-3-the-swamp-of-thousand-paths.json](./175275-narborion-3-the-swamp-of-thousand-paths.json) |
 | Narborion by Night | 98479 | [98479-narborion-by-night.json](./98479-narborion-by-night.json) |
 | Narc | 307956 | [307956-narc.json](./307956-narc.json) |
 | Narc | 307957 | [307957-narc.json](./307957-narc.json) |
@@ -2249,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nutjitsu: Reforged | 52645 | [52645-nutjitsu-reforged.json](./52645-nutjitsu-reforged.json) |
 | NutritionZ | 374725 | [374725-nutritionz.json](./374725-nutritionz.json) |
 | Nuts & Bolts Puzzle | 265749 | [265749-nuts-and-bolts-puzzle.json](./265749-nuts-and-bolts-puzzle.json) |
+| Nuts Physics | 175272 | [175272-nuts-physics.json](./175272-nuts-physics.json) |
 | Nutty | 299170 | [299170-nutty.json](./299170-nutty.json) |
 | Nutty Noon | 240329 | [240329-nutty-noon.json](./240329-nutty-noon.json) |
 | Nutz Revenge | 302942 | [302942-nutz-revenge.json](./302942-nutz-revenge.json) |
