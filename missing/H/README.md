@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hashire Hebereke: EX | 325670 | [325670-hashire-hebereke-ex.json](./325670-hashire-hebereke-ex.json) |
 | Hashiriya Drifter | 186282 | [186282-hashiriya-drifter.json](./186282-hashiriya-drifter.json) |
 | Hashtag Dungeon | 35942 | [35942-hashtag-dungeon.json](./35942-hashtag-dungeon.json) |
+| Hasicontent | 135041 | [135041-hasicontent.json](./135041-hasicontent.json) |
 | HassleHeart | 35732 | [35732-hassleheart.json](./35732-hassleheart.json) |
 | Haste | 167266 | [167266-haste.json](./167266-haste.json) |
 | Haste | 221845 | [221845-haste.json](./221845-haste.json) |
@@ -917,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HDOS | 373557 | [373557-hdos.json](./373557-hdos.json) |
 | He Escaped | 270105 | [270105-he-escaped.json](./270105-he-escaped.json) |
 | He Followed Me | 399004 | [399004-he-followed-me.json](./399004-he-followed-me.json) |
+| He Plays the Piano | 135034 | [135034-he-plays-the-piano.json](./135034-he-plays-the-piano.json) |
 | He Sneaks | 301433 | [301433-he-sneaks.json](./301433-he-sneaks.json) |
 | He Was | 184060 | [184060-he-was.json](./184060-he-was.json) |
 | He Watches Me | 264342 | [264342-he-watches-me.json](./264342-he-watches-me.json) |
@@ -1773,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero World 2 | 329129 | [329129-hero-world-2.json](./329129-hero-world-2.json) |
 | Hero x Hero | 406780 | [406780-hero-x-hero.json](./406780-hero-x-hero.json) |
 | Hero Zex | 191254 | [191254-hero-zex.json](./191254-hero-zex.json) |
+| Hero-ing Addict | 135043 | [135043-hero-ing-addict.json](./135043-hero-ing-addict.json) |
 | Hero: Flood Rescue | 118428 | [118428-hero-flood-rescue.json](./118428-hero-flood-rescue.json) |
 | Hero's Advent | 361242 | [361242-heros-advent.json](./361242-heros-advent.json) |
 | Hero's Descent | 74363 | [74363-heros-descent.json](./74363-heros-descent.json) |
