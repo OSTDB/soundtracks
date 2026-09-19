@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlasting Tower | 335661 | [335661-everlasting-tower.json](./335661-everlasting-tower.json) |
 | Everlasting: Per Aspera Ad Terra | 112313 | [112313-everlasting-per-aspera-ad-terra.json](./112313-everlasting-per-aspera-ad-terra.json) |
 | Everlasting: Tomorrow | 303086 | [303086-everlasting-tomorrow.json](./303086-everlasting-tomorrow.json) |
+| Everless | 158073 | [158073-everless.json](./158073-everless.json) |
 | Everlife | 175808 | [175808-everlife.json](./175808-everlife.json) |
 | Everlife | 297506 | [297506-everlife.json](./297506-everlife.json) |
 | Everlife: Chapter 2 | 195736 | [195736-everlife-chapter-2.json](./195736-everlife-chapter-2.json) |
