@@ -4168,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FuryDough | 300675 | [300675-furydough.json](./300675-furydough.json) |
 | FuryFury | 234910 | [234910-furyfury.json](./234910-furyfury.json) |
 | Fuse | 381030 | [381030-fuse.json](./381030-fuse.json) |
+| Fuser: VIP Edition | 139827 | [139827-fuser-vip-edition.json](./139827-fuser-vip-edition.json) |
 | FuSha: Overnight Stay | 366292 | [366292-fusha-overnight-stay.json](./366292-fusha-overnight-stay.json) |
 | Fushigi Deka | 59442 | [59442-fushigi-deka.json](./59442-fushigi-deka.json) |
 | Fushigi Densha | 143636 | [143636-fushigi-densha.json](./143636-fushigi-densha.json) |
