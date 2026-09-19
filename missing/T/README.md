@@ -7256,6 +7256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Shop | 365094 | [365094-tiny-shop.json](./365094-tiny-shop.json) |
 | Tiny Sim | 181223 | [181223-tiny-sim.json](./181223-tiny-sim.json) |
 | Tiny Starfighters | 317413 | [317413-tiny-starfighters.json](./317413-tiny-starfighters.json) |
+| Tiny Strife | 158083 | [158083-tiny-strife.json](./158083-tiny-strife.json) |
 | Tiny Striker | 23408 | [23408-tiny-striker.json](./23408-tiny-striker.json) |
 | Tiny Tactics | 210879 | [210879-tiny-tactics.json](./210879-tiny-tactics.json) |
 | Tiny Tanks | 78904 | [78904-tiny-tanks.json](./78904-tiny-tanks.json) |
