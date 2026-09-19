@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peer to Peer | 306646 | [306646-peer-to-peer.json](./306646-peer-to-peer.json) |
 | Peerless Destiny | 294995 | [294995-peerless-destiny.json](./294995-peerless-destiny.json) |
 | PeeWee Purpdrank's Foenem Clicker | 403014 | [403014-peewee-purpdranks-foenem-clicker.json](./403014-peewee-purpdranks-foenem-clicker.json) |
+| Peg Solitaire | 171493 | [171493-peg-solitaire.json](./171493-peg-solitaire.json) |
 | Peg Solitaire | 57062 | [57062-peg-solitaire.json](./57062-peg-solitaire.json) |
 | Pega Game | 333614 | [333614-pega-game.json](./333614-pega-game.json) |
 | Pegafuerte el Terrible | 249479 | [249479-pegafuerte-el-terrible.json](./249479-pegafuerte-el-terrible.json) |
@@ -3674,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Commotion | 246494 | [246494-potion-commotion.json](./246494-potion-commotion.json) |
 | Potion Craft | 142941 | [142941-potion-craft.json](./142941-potion-craft.json) |
 | Potion Explosion | 86850 | [86850-potion-explosion.json](./86850-potion-explosion.json) |
+| Potion Explosion: The Fifth Ingredient | 171463 | [171463-potion-explosion-the-fifth-ingredient.json](./171463-potion-explosion-the-fifth-ingredient.json) |
 | Potion in Motion | 341559 | [341559-potion-in-motion.json](./341559-potion-in-motion.json) |
 | Potion Notions | 176993 | [176993-potion-notions.json](./176993-potion-notions.json) |
 | Potion Permit | 155706 | [155706-potion-permit.json](./155706-potion-permit.json) |
