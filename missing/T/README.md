@@ -6840,15 +6840,65 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Rainstorm MP090 | 160382 | [160382-tiger-tank-59-i-rainstorm-mp090.json](./160382-tiger-tank-59-i-rainstorm-mp090.json) |
 | Tiger Tank 59 I: Rainstorm MP093 | 160312 | [160312-tiger-tank-59-i-rainstorm-mp093.json](./160312-tiger-tank-59-i-rainstorm-mp093.json) |
 | Tiger Tank 59 I: Rainstorm MP099 | 160325 | [160325-tiger-tank-59-i-rainstorm-mp099.json](./160325-tiger-tank-59-i-rainstorm-mp099.json) |
+| Tiger Tank 59 I: Super Tank MP003 | 160740 | [160740-tiger-tank-59-i-super-tank-mp003.json](./160740-tiger-tank-59-i-super-tank-mp003.json) |
+| Tiger Tank 59 I: Super Tank MP005 | 160736 | [160736-tiger-tank-59-i-super-tank-mp005.json](./160736-tiger-tank-59-i-super-tank-mp005.json) |
+| Tiger Tank 59 I: Super Tank MP008 | 160744 | [160744-tiger-tank-59-i-super-tank-mp008.json](./160744-tiger-tank-59-i-super-tank-mp008.json) |
+| Tiger Tank 59 I: Super Tank MP010 | 160723 | [160723-tiger-tank-59-i-super-tank-mp010.json](./160723-tiger-tank-59-i-super-tank-mp010.json) |
 | Tiger Tank 59 I: Super Tank MP012 | 160403 | [160403-tiger-tank-59-i-super-tank-mp012.json](./160403-tiger-tank-59-i-super-tank-mp012.json) |
 | Tiger Tank 59 I: Super Tank MP013 | 160314 | [160314-tiger-tank-59-i-super-tank-mp013.json](./160314-tiger-tank-59-i-super-tank-mp013.json) |
+| Tiger Tank 59 I: Super Tank MP015 | 160724 | [160724-tiger-tank-59-i-super-tank-mp015.json](./160724-tiger-tank-59-i-super-tank-mp015.json) |
+| Tiger Tank 59 I: Super Tank MP016 | 160766 | [160766-tiger-tank-59-i-super-tank-mp016.json](./160766-tiger-tank-59-i-super-tank-mp016.json) |
+| Tiger Tank 59 I: Super Tank MP017 | 160733 | [160733-tiger-tank-59-i-super-tank-mp017.json](./160733-tiger-tank-59-i-super-tank-mp017.json) |
+| Tiger Tank 59 I: Super Tank MP020 | 160729 | [160729-tiger-tank-59-i-super-tank-mp020.json](./160729-tiger-tank-59-i-super-tank-mp020.json) |
+| Tiger Tank 59 I: Super Tank MP022 | 160765 | [160765-tiger-tank-59-i-super-tank-mp022.json](./160765-tiger-tank-59-i-super-tank-mp022.json) |
 | Tiger Tank 59 I: Super Tank MP023 | 160364 | [160364-tiger-tank-59-i-super-tank-mp023.json](./160364-tiger-tank-59-i-super-tank-mp023.json) |
+| Tiger Tank 59 I: Super Tank MP024 | 160745 | [160745-tiger-tank-59-i-super-tank-mp024.json](./160745-tiger-tank-59-i-super-tank-mp024.json) |
 | Tiger Tank 59 I: Super Tank MP025 | 160396 | [160396-tiger-tank-59-i-super-tank-mp025.json](./160396-tiger-tank-59-i-super-tank-mp025.json) |
 | Tiger Tank 59 I: Super Tank MP026 | 160310 | [160310-tiger-tank-59-i-super-tank-mp026.json](./160310-tiger-tank-59-i-super-tank-mp026.json) |
+| Tiger Tank 59 I: Super Tank MP027 | 160737 | [160737-tiger-tank-59-i-super-tank-mp027.json](./160737-tiger-tank-59-i-super-tank-mp027.json) |
+| Tiger Tank 59 I: Super Tank MP028 | 160734 | [160734-tiger-tank-59-i-super-tank-mp028.json](./160734-tiger-tank-59-i-super-tank-mp028.json) |
+| Tiger Tank 59 I: Super Tank MP033 | 160739 | [160739-tiger-tank-59-i-super-tank-mp033.json](./160739-tiger-tank-59-i-super-tank-mp033.json) |
+| Tiger Tank 59 I: Super Tank MP035 | 160738 | [160738-tiger-tank-59-i-super-tank-mp035.json](./160738-tiger-tank-59-i-super-tank-mp035.json) |
+| Tiger Tank 59 I: Super Tank MP036 | 160767 | [160767-tiger-tank-59-i-super-tank-mp036.json](./160767-tiger-tank-59-i-super-tank-mp036.json) |
+| Tiger Tank 59 I: Super Tank MP037 | 160741 | [160741-tiger-tank-59-i-super-tank-mp037.json](./160741-tiger-tank-59-i-super-tank-mp037.json) |
 | Tiger Tank 59 I: Super Tank MP038 | 160315 | [160315-tiger-tank-59-i-super-tank-mp038.json](./160315-tiger-tank-59-i-super-tank-mp038.json) |
+| Tiger Tank 59 I: Super Tank MP039 | 160746 | [160746-tiger-tank-59-i-super-tank-mp039.json](./160746-tiger-tank-59-i-super-tank-mp039.json) |
+| Tiger Tank 59 I: Super Tank MP040 | 160730 | [160730-tiger-tank-59-i-super-tank-mp040.json](./160730-tiger-tank-59-i-super-tank-mp040.json) |
+| Tiger Tank 59 I: Super Tank MP044 | 160751 | [160751-tiger-tank-59-i-super-tank-mp044.json](./160751-tiger-tank-59-i-super-tank-mp044.json) |
+| Tiger Tank 59 I: Super Tank MP045 | 160768 | [160768-tiger-tank-59-i-super-tank-mp045.json](./160768-tiger-tank-59-i-super-tank-mp045.json) |
+| Tiger Tank 59 I: Super Tank MP046 | 160732 | [160732-tiger-tank-59-i-super-tank-mp046.json](./160732-tiger-tank-59-i-super-tank-mp046.json) |
+| Tiger Tank 59 I: Super Tank MP047 | 160749 | [160749-tiger-tank-59-i-super-tank-mp047.json](./160749-tiger-tank-59-i-super-tank-mp047.json) |
+| Tiger Tank 59 I: Super Tank MP048 | 160755 | [160755-tiger-tank-59-i-super-tank-mp048.json](./160755-tiger-tank-59-i-super-tank-mp048.json) |
+| Tiger Tank 59 I: Super Tank MP050 | 160735 | [160735-tiger-tank-59-i-super-tank-mp050.json](./160735-tiger-tank-59-i-super-tank-mp050.json) |
+| Tiger Tank 59 I: Super Tank MP051 | 160727 | [160727-tiger-tank-59-i-super-tank-mp051.json](./160727-tiger-tank-59-i-super-tank-mp051.json) |
+| Tiger Tank 59 I: Super Tank MP052 | 160728 | [160728-tiger-tank-59-i-super-tank-mp052.json](./160728-tiger-tank-59-i-super-tank-mp052.json) |
+| Tiger Tank 59 I: Super Tank MP056 | 160769 | [160769-tiger-tank-59-i-super-tank-mp056.json](./160769-tiger-tank-59-i-super-tank-mp056.json) |
+| Tiger Tank 59 I: Super Tank MP058 | 160758 | [160758-tiger-tank-59-i-super-tank-mp058.json](./160758-tiger-tank-59-i-super-tank-mp058.json) |
+| Tiger Tank 59 I: Super Tank MP060 | 160748 | [160748-tiger-tank-59-i-super-tank-mp060.json](./160748-tiger-tank-59-i-super-tank-mp060.json) |
+| Tiger Tank 59 I: Super Tank MP061 | 160753 | [160753-tiger-tank-59-i-super-tank-mp061.json](./160753-tiger-tank-59-i-super-tank-mp061.json) |
 | Tiger Tank 59 I: Super Tank MP062 | 160401 | [160401-tiger-tank-59-i-super-tank-mp062.json](./160401-tiger-tank-59-i-super-tank-mp062.json) |
+| Tiger Tank 59 I: Super Tank MP066 | 160761 | [160761-tiger-tank-59-i-super-tank-mp066.json](./160761-tiger-tank-59-i-super-tank-mp066.json) |
+| Tiger Tank 59 I: Super Tank MP068 | 160726 | [160726-tiger-tank-59-i-super-tank-mp068.json](./160726-tiger-tank-59-i-super-tank-mp068.json) |
+| Tiger Tank 59 I: Super Tank MP071 | 160770 | [160770-tiger-tank-59-i-super-tank-mp071.json](./160770-tiger-tank-59-i-super-tank-mp071.json) |
 | Tiger Tank 59 I: Super Tank MP072 | 160342 | [160342-tiger-tank-59-i-super-tank-mp072.json](./160342-tiger-tank-59-i-super-tank-mp072.json) |
+| Tiger Tank 59 I: Super Tank MP073 | 160752 | [160752-tiger-tank-59-i-super-tank-mp073.json](./160752-tiger-tank-59-i-super-tank-mp073.json) |
+| Tiger Tank 59 I: Super Tank MP074 | 160721 | [160721-tiger-tank-59-i-super-tank-mp074.json](./160721-tiger-tank-59-i-super-tank-mp074.json) |
+| Tiger Tank 59 I: Super Tank MP075 | 160760 | [160760-tiger-tank-59-i-super-tank-mp075.json](./160760-tiger-tank-59-i-super-tank-mp075.json) |
+| Tiger Tank 59 I: Super Tank MP076 | 160747 | [160747-tiger-tank-59-i-super-tank-mp076.json](./160747-tiger-tank-59-i-super-tank-mp076.json) |
+| Tiger Tank 59 I: Super Tank MP077 | 160750 | [160750-tiger-tank-59-i-super-tank-mp077.json](./160750-tiger-tank-59-i-super-tank-mp077.json) |
+| Tiger Tank 59 I: Super Tank MP078 | 160762 | [160762-tiger-tank-59-i-super-tank-mp078.json](./160762-tiger-tank-59-i-super-tank-mp078.json) |
+| Tiger Tank 59 I: Super Tank MP080 | 160764 | [160764-tiger-tank-59-i-super-tank-mp080.json](./160764-tiger-tank-59-i-super-tank-mp080.json) |
+| Tiger Tank 59 I: Super Tank MP087 | 160759 | [160759-tiger-tank-59-i-super-tank-mp087.json](./160759-tiger-tank-59-i-super-tank-mp087.json) |
+| Tiger Tank 59 I: Super Tank MP088 | 160757 | [160757-tiger-tank-59-i-super-tank-mp088.json](./160757-tiger-tank-59-i-super-tank-mp088.json) |
+| Tiger Tank 59 I: Super Tank MP090 | 160763 | [160763-tiger-tank-59-i-super-tank-mp090.json](./160763-tiger-tank-59-i-super-tank-mp090.json) |
+| Tiger Tank 59 I: Super Tank MP091 | 160756 | [160756-tiger-tank-59-i-super-tank-mp091.json](./160756-tiger-tank-59-i-super-tank-mp091.json) |
+| Tiger Tank 59 I: Super Tank MP093 | 160731 | [160731-tiger-tank-59-i-super-tank-mp093.json](./160731-tiger-tank-59-i-super-tank-mp093.json) |
+| Tiger Tank 59 I: Super Tank MP094 | 160743 | [160743-tiger-tank-59-i-super-tank-mp094.json](./160743-tiger-tank-59-i-super-tank-mp094.json) |
+| Tiger Tank 59 I: Super Tank MP095 | 160754 | [160754-tiger-tank-59-i-super-tank-mp095.json](./160754-tiger-tank-59-i-super-tank-mp095.json) |
+| Tiger Tank 59 I: Super Tank MP096 | 160725 | [160725-tiger-tank-59-i-super-tank-mp096.json](./160725-tiger-tank-59-i-super-tank-mp096.json) |
+| Tiger Tank 59 I: Super Tank MP097 | 160722 | [160722-tiger-tank-59-i-super-tank-mp097.json](./160722-tiger-tank-59-i-super-tank-mp097.json) |
 | Tiger Tank 59 I: Super Tank MP098 | 160372 | [160372-tiger-tank-59-i-super-tank-mp098.json](./160372-tiger-tank-59-i-super-tank-mp098.json) |
+| Tiger Tank 59 I: Super Tank MP099 | 160742 | [160742-tiger-tank-59-i-super-tank-mp099.json](./160742-tiger-tank-59-i-super-tank-mp099.json) |
 | Tiger Tank 59 I: Volcano MP001 | 160322 | [160322-tiger-tank-59-i-volcano-mp001.json](./160322-tiger-tank-59-i-volcano-mp001.json) |
 | Tiger Tank 59 I: Volcano MP004 | 160377 | [160377-tiger-tank-59-i-volcano-mp004.json](./160377-tiger-tank-59-i-volcano-mp004.json) |
 | Tiger Tank 59 I: Volcano MP017 | 160337 | [160337-tiger-tank-59-i-volcano-mp017.json](./160337-tiger-tank-59-i-volcano-mp017.json) |
