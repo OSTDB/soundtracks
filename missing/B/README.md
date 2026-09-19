@@ -1677,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania III The Final | 61022 | [61022-beatmania-iii-the-final.json](./61022-beatmania-iii-the-final.json) |
 | Beatmania The Final | 135672 | [135672-beatmania-the-final.json](./135672-beatmania-the-final.json) |
 | BeatMotor | 192841 | [192841-beatmotor.json](./192841-beatmotor.json) |
+| Beatoraja | 130770 | [130770-beatoraja.json](./130770-beatoraja.json) |
 | BeatRider | 305789 | [305789-beatrider.json](./305789-beatrider.json) |
 | Beats Fever | 30173 | [30173-beats-fever.json](./30173-beats-fever.json) |
 | Beats of Fury | 127181 | [127181-beats-of-fury.json](./127181-beats-of-fury.json) |
@@ -4166,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowser's Lair Hockey | 231642 | [231642-bowsers-lair-hockey.json](./231642-bowsers-lair-hockey.json) |
 | Bowser's Valley | 268009 | [268009-bowsers-valley.json](./268009-bowsers-valley.json) |
 | Bowslinger | 33088 | [33088-bowslinger.json](./33088-bowslinger.json) |
+| Box | 130782 | [130782-box.json](./130782-box.json) |
 | Box #341 | 333631 | [333631-box-341.json](./333631-box-341.json) |
 | Box A Chocolate | 112285 | [112285-box-a-chocolate.json](./112285-box-a-chocolate.json) |
 | Box Align | 86312 | [86312-box-align.json](./86312-box-align.json) |
