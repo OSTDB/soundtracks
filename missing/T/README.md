@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarzan | 304200 | [304200-tarzan.json](./304200-tarzan.json) |
 | Tashikani | 298155 | [298155-tashikani.json](./298155-tashikani.json) |
 | Tashio Tempo | 403579 | [403579-tashio-tempo.json](./403579-tashio-tempo.json) |
+| Task Force | 145462 | [145462-task-force.json](./145462-task-force.json) |
 | Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
 | Task Force 9 | 261788 | [261788-task-force-9.json](./261788-task-force-9.json) |
 | Task Force Harrier | 40248 | [40248-task-force-harrier.json](./40248-task-force-harrier.json) |
@@ -1199,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telltale Batman Shadows Edition | 127560 | [127560-telltale-batman-shadows-edition.json](./127560-telltale-batman-shadows-edition.json) |
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
 | Telmari | 265615 | [265615-telmari.json](./265615-telmari.json) |
+| Telocation: Gemini | 145455 | [145455-telocation-gemini.json](./145455-telocation-gemini.json) |
 | Telomere | 148505 | [148505-telomere.json](./148505-telomere.json) |
 | Telos Legacy | 229187 | [229187-telos-legacy.json](./229187-telos-legacy.json) |
 | Telusfax | 229810 | [229810-telusfax.json](./229810-telusfax.json) |
@@ -3053,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frog Game Amazing Simulator | 100861 | [100861-the-frog-game-amazing-simulator.json](./100861-the-frog-game-amazing-simulator.json) |
 | The Frog’s Adventure | 401538 | [401538-the-frog-s-adventure.json](./401538-the-frog-s-adventure.json) |
 | The Frogman Show DS: Datte, Shouganai janai. | 287081 | [287081-the-frogman-show-ds-datte-shouganai-janai.json](./287081-the-frogman-show-ds-datte-shouganai-janai.json) |
+| The Frogs | 145444 | [145444-the-frogs.json](./145444-the-frogs.json) |
 | The Frontier | 30929 | [30929-the-frontier.json](./30929-the-frontier.json) |
 | The Frost | 28872 | [28872-the-frost.json](./28872-the-frost.json) |
 | The Frozen Shore | 231462 | [231462-the-frozen-shore.json](./231462-the-frozen-shore.json) |
@@ -5325,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sweetness that Returned | 385072 | [385072-the-sweetness-that-returned.json](./385072-the-sweetness-that-returned.json) |
 | The Swine | 137693 | [137693-the-swine.json](./137693-the-swine.json) |
 | The Switch-Worker | 184490 | [184490-the-switch-worker.json](./184490-the-switch-worker.json) |
+| The Swoop 64 | 145429 | [145429-the-swoop-64.json](./145429-the-swoop-64.json) |
 | The Sword of Ares for Quake | 196720 | [196720-the-sword-of-ares-for-quake.json](./196720-the-sword-of-ares-for-quake.json) |
 | The Sword of Hope | 10946 | [10946-the-sword-of-hope.json](./10946-the-sword-of-hope.json) |
 | The Sword of Hope II | 10947 | [10947-the-sword-of-hope-ii.json](./10947-the-sword-of-hope-ii.json) |
@@ -5948,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Yawhg | 3031 | [3031-the-yawhg.json](./3031-the-yawhg.json) |
 | The Year of the Carrot | 235758 | [235758-the-year-of-the-carrot.json](./235758-the-year-of-the-carrot.json) |
 | The Yellow Quiz | 114365 | [114365-the-yellow-quiz.json](./114365-the-yellow-quiz.json) |
+| The Yoshi Garden | 145477 | [145477-the-yoshi-garden.json](./145477-the-yoshi-garden.json) |
 | The You Quiz | 361757 | [361757-the-you-quiz.json](./361757-the-you-quiz.json) |
 | The You Testament | 59920 | [59920-the-you-testament.json](./59920-the-you-testament.json) |
 | The You Testament: The 2D Coming | 234312 | [234312-the-you-testament-the-2d-coming.json](./234312-the-you-testament-the-2d-coming.json) |
@@ -7366,6 +7371,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tipston Salvage | 184482 | [184482-tipston-salvage.json](./184482-tipston-salvage.json) |
 | TipTop | 136413 | [136413-tiptop.json](./136413-tiptop.json) |
 | TiQal | 21354 | [21354-tiqal.json](./21354-tiqal.json) |
+| Tir-nan-óg II: The Sign of Chaos | 145465 | [145465-tir-nan-og-ii-the-sign-of-chaos.json](./145465-tir-nan-og-ii-the-sign-of-chaos.json) |
+| Tir-nan-óg: Descendants of Danaan | 145464 | [145464-tir-nan-og-descendants-of-danaan.json](./145464-tir-nan-og-descendants-of-danaan.json) |
 | Tire Boy | 347680 | [347680-tire-boy.json](./347680-tire-boy.json) |
 | Tired of Being the Hero | 353294 | [353294-tired-of-being-the-hero.json](./353294-tired-of-being-the-hero.json) |
 | Tiredspace | 225717 | [225717-tiredspace.json](./225717-tiredspace.json) |
@@ -8313,6 +8320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toushin Gent | 319209 | [319209-toushin-gent.json](./319209-toushin-gent.json) |
 | Toushin Toshi Girls Gift RPG | 175943 | [175943-toushin-toshi-girls-gift-rpg.json](./175943-toushin-toshi-girls-gift-rpg.json) |
 | Tover | 24994 | [24994-tover.json](./24994-tover.json) |
+| Toverblade | 145473 | [145473-toverblade.json](./145473-toverblade.json) |
 | Tow Game | 348347 | [348347-tow-game.json](./348347-tow-game.json) |
 | Tow Truck | 104635 | [104635-tow-truck.json](./104635-tow-truck.json) |
 | Tow Truck: Max | 102137 | [102137-tow-truck-max.json](./102137-tow-truck-max.json) |
