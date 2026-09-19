@@ -3388,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Quest Collection | 32278 | [32278-police-quest-collection.json](./32278-police-quest-collection.json) |
 | Police Quest III: The Kindred | 1926 | [1926-police-quest-iii-the-kindred.json](./1926-police-quest-iii-the-kindred.json) |
 | Police Quest: SWAT 2 | 311 | [311-police-quest-swat-2.json](./311-police-quest-swat-2.json) |
+| Police Quest: SWAT Generation | 137478 | [137478-police-quest-swat-generation.json](./137478-police-quest-swat-generation.json) |
 | Police Rage | 223985 | [223985-police-rage.json](./223985-police-rage.json) |
 | Police Response VR: Disturbance | 130319 | [130319-police-response-vr-disturbance.json](./130319-police-response-vr-disturbance.json) |
 | Police Sentri | 165649 | [165649-police-sentri.json](./165649-police-sentri.json) |
