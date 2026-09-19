@@ -1160,8 +1160,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Factory | 230383 | [230383-letter-factory.json](./230383-letter-factory.json) |
 | Letter Factory Adventures: The Rainforest | 230385 | [230385-letter-factory-adventures-the-rainforest.json](./230385-letter-factory-adventures-the-rainforest.json) |
 | Letter Fall: Swipe Letters | 233105 | [233105-letter-fall-swipe-letters.json](./233105-letter-fall-swipe-letters.json) |
+| Letter Lattice | 174190 | [174190-letter-lattice.json](./174190-letter-lattice.json) |
 | Letter Lost | 343275 | [343275-letter-lost.json](./343275-letter-lost.json) |
 | Letter Quest: Grimm's Journey | 17942 | [17942-letter-quest-grimms-journey.json](./17942-letter-quest-grimms-journey.json) |
+| Letter Rooms | 174217 | [174217-letter-rooms.json](./174217-letter-rooms.json) |
 | Letter Snap: Term Challenge | 409537 | [409537-letter-snap-term-challenge.json](./409537-letter-snap-term-challenge.json) |
 | Letter Stack | 233106 | [233106-letter-stack.json](./233106-letter-stack.json) |
 | Letter to a Landlord | 309345 | [309345-letter-to-a-landlord.json](./309345-letter-to-a-landlord.json) |
@@ -1209,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewdle | 197867 | [197867-lewdle.json](./197867-lewdle.json) |
 | Lewis & Clark Expedition | 211781 | [211781-lewis-and-clark-expedition.json](./211781-lewis-and-clark-expedition.json) |
 | Lewis Quest | 337085 | [337085-lewis-quest.json](./337085-lewis-quest.json) |
+| Lexagrana | 174196 | [174196-lexagrana.json](./174196-lexagrana.json) |
 | Lexibble | 305344 | [305344-lexibble.json](./305344-lexibble.json) |
 | Lexicon | 287757 | [287757-lexicon.json](./287757-lexicon.json) |
 | Lexicontainer | 183527 | [183527-lexicontainer.json](./183527-lexicontainer.json) |
@@ -1377,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Paradox | 190068 | [190068-light-paradox.json](./190068-light-paradox.json) |
 | Light Rider | 108427 | [108427-light-rider.json](./108427-light-rider.json) |
 | Light Speed Adventures | 330518 | [330518-light-speed-adventures.json](./330518-light-speed-adventures.json) |
+| Light Speed Bike: Motor Cycle Rider Game Pro | 174201 | [174201-light-speed-bike-motor-cycle-rider-game-pro.json](./174201-light-speed-bike-motor-cycle-rider-game-pro.json) |
 | Light Strike Array | 76583 | [76583-light-strike-array.json](./76583-light-strike-array.json) |
 | Light Switch Simulator | 317591 | [317591-light-switch-simulator.json](./317591-light-switch-simulator.json) |
 | Light the Backrooms | 232441 | [232441-light-the-backrooms.json](./232441-light-the-backrooms.json) |
@@ -1549,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines - Best Puzzle Game | 87073 | [87073-lines-best-puzzle-game.json](./87073-lines-best-puzzle-game.json) |
 | Lines 3D | 140567 | [140567-lines-3d.json](./140567-lines-3d.json) |
 | Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
+| Lines on Sides | 174224 | [174224-lines-on-sides.json](./174224-lines-on-sides.json) |
 | Lines X Free | 107263 | [107263-lines-x-free.json](./107263-lines-x-free.json) |
 | Linesgo | 326092 | [326092-linesgo.json](./326092-linesgo.json) |
 | LineWars II | 69230 | [69230-linewars-ii.json](./69230-linewars-ii.json) |
@@ -2248,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Magic | 51397 | [51397-lords-of-magic.json](./51397-lords-of-magic.json) |
 | Lords of Ravage | 204714 | [204714-lords-of-ravage.json](./204714-lords-of-ravage.json) |
 | Lords of Solgrund | 190090 | [190090-lords-of-solgrund.json](./190090-lords-of-solgrund.json) |
+| Lords of Solitaire | 174194 | [174194-lords-of-solitaire.json](./174194-lords-of-solitaire.json) |
 | Lords of Strife | 99648 | [99648-lords-of-strife.json](./99648-lords-of-strife.json) |
 | Lords of the Chaos | 263478 | [263478-lords-of-the-chaos.json](./263478-lords-of-the-chaos.json) |
 | Lords of the Fallen: Deluxe Edition | 250427 | [250427-lords-of-the-fallen-deluxe-edition.json](./250427-lords-of-the-fallen-deluxe-edition.json) |
