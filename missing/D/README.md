@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius Cozmic Revelation | 139992 | [139992-darius-cozmic-revelation.json](./139992-darius-cozmic-revelation.json) |
 | Darius: Cozmic Revelation - Collector's Edition | 139993 | [139993-darius-cozmic-revelation-collectors-edition.json](./139993-darius-cozmic-revelation-collectors-edition.json) |
 | Dariusburst | 18193 | [18193-dariusburst.json](./18193-dariusburst.json) |
+| Dariusburst: Another Chronicle EX | 138014 | [138014-dariusburst-another-chronicle-ex.json](./138014-dariusburst-another-chronicle-ex.json) |
 | Dariusburst: Chronicle Saviours - Core + Taito & Sega Packs | 222397 | [222397-dariusburst-chronicle-saviours-core-taito-and-sega-packs.json](./222397-dariusburst-chronicle-saviours-core-taito-and-sega-packs.json) |
 | Dariusburst: Chronicle Saviours - Limited Edition | 44536 | [44536-dariusburst-chronicle-saviours-limited-edition.json](./44536-dariusburst-chronicle-saviours-limited-edition.json) |
 | Dariusburst: Second Prologue | 22340 | [22340-dariusburst-second-prologue.json](./22340-dariusburst-second-prologue.json) |
@@ -3409,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Monsters: Quest | 378792 | [378792-doki-monsters-quest.json](./378792-doki-monsters-quest.json) |
 | Doki Simp Club | 245885 | [245885-doki-simp-club.json](./245885-doki-simp-club.json) |
 | Doki x Doki Sasete!! | 202815 | [202815-doki-x-doki-sasete.json](./202815-doki-x-doki-sasete.json) |
+| Doki-doki Cooking Series 2: Gourmet Kitchen - Suteki na Obentou | 138030 | [138030-doki-doki-cooking-series-2-gourmet-kitchen-suteki-na-obentou.json](./138030-doki-doki-cooking-series-2-gourmet-kitchen-suteki-na-obentou.json) |
 | Doki-Doki Pretty League: Nekketsu Otome Seishunki | 306674 | [306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json](./306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json) |
 | Doki: Chapter 0 | 304217 | [304217-doki-chapter-0.json](./304217-doki-chapter-0.json) |
 | Doki! Doki! Yuuenchi: Crazy Land Daisakusen | 48663 | [48663-doki-doki-yuuenchi-crazy-land-daisakusen.json](./48663-doki-doki-yuuenchi-crazy-land-daisakusen.json) |
@@ -5256,6 +5258,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Legends 2 | 200179 | [200179-dungeon-legends-2.json](./200179-dungeon-legends-2.json) |
 | Dungeon Limbus | 142280 | [142280-dungeon-limbus.json](./142280-dungeon-limbus.json) |
 | Dungeon Lord | 134610 | [134610-dungeon-lord.json](./134610-dungeon-lord.json) |
+| Dungeon Lords MMXII | 138038 | [138038-dungeon-lords-mmxii.json](./138038-dungeon-lords-mmxii.json) |
+| Dungeon Lords: Collector's Edition | 138039 | [138039-dungeon-lords-collectors-edition.json](./138039-dungeon-lords-collectors-edition.json) |
 | Dungeon Lords: The Orb and the Oracle | 72614 | [72614-dungeon-lords-the-orb-and-the-oracle.json](./72614-dungeon-lords-the-orb-and-the-oracle.json) |
 | Dungeon Man | 277272 | [277272-dungeon-man.json](./277272-dungeon-man.json) |
 | Dungeon Mania | 252153 | [252153-dungeon-mania.json](./252153-dungeon-mania.json) |
@@ -5367,6 +5371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Guns | 158081 | [158081-dungeons-and-guns.json](./158081-dungeons-and-guns.json) |
 | Dungeons & Keyboards | 250953 | [250953-dungeons-and-keyboards.json](./250953-dungeons-and-keyboards.json) |
 | Dungeons & Warbands | 390685 | [390685-dungeons-and-warbands.json](./390685-dungeons-and-warbands.json) |
+| Dungeons 2: A Clash of Pumpkins | 138050 | [138050-dungeons-2-a-clash-of-pumpkins.json](./138050-dungeons-2-a-clash-of-pumpkins.json) |
 | Dungeons 3: Evil of the Caribbean | 124825 | [124825-dungeons-3-evil-of-the-caribbean.json](./124825-dungeons-3-evil-of-the-caribbean.json) |
 | Dungeons 4 | 215915 | [215915-dungeons-4.json](./215915-dungeons-4.json) |
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
@@ -5393,6 +5398,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Sundaria | 208473 | [208473-dungeons-of-sundaria.json](./208473-dungeons-of-sundaria.json) |
 | Dungeons of Voidria | 153941 | [153941-dungeons-of-voidria.json](./153941-dungeons-of-voidria.json) |
 | Dungeons, Dungeons and more... Dice? | 361724 | [361724-dungeons-dungeons-and-more-dice.json](./361724-dungeons-dungeons-and-more-dice.json) |
+| Dungeons: Game of the Year Edition | 138052 | [138052-dungeons-game-of-the-year-edition.json](./138052-dungeons-game-of-the-year-edition.json) |
+| Dungeons: Map Pack | 138049 | [138049-dungeons-map-pack.json](./138049-dungeons-map-pack.json) |
 | Dungeons: The Dark Lord | 8850 | [8850-dungeons-the-dark-lord.json](./8850-dungeons-the-dark-lord.json) |
 | DungeonSlime | 195708 | [195708-dungeonslime.json](./195708-dungeonslime.json) |
 | DungeonTracks: In Charms Way | 184626 | [184626-dungeontracks-in-charms-way.json](./184626-dungeontracks-in-charms-way.json) |
