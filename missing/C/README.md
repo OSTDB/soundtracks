@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castleclysm TD | 200066 | [200066-castleclysm-td.json](./200066-castleclysm-td.json) |
 | CastleClysmic | 179153 | [179153-castleclysmic.json](./179153-castleclysmic.json) |
 | CastleDefense: RaiseArcher | 239141 | [239141-castledefense-raisearcher.json](./239141-castledefense-raisearcher.json) |
+| Castlehold | 144146 | [144146-castlehold.json](./144146-castlehold.json) |
 | CastleOn | 353881 | [353881-castleon.json](./353881-castleon.json) |
 | Castlepoint | 189036 | [189036-castlepoint.json](./189036-castlepoint.json) |
 | Castlequest | 48070 | [48070-castlequest.json](./48070-castlequest.json) |
@@ -1087,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Box Paradox | 185679 | [185679-cat-box-paradox.json](./185679-cat-box-paradox.json) |
 | Cat Break Head to Head | 226315 | [226315-cat-break-head-to-head.json](./226315-cat-break-head-to-head.json) |
 | Cat Burglar | 256835 | [256835-cat-burglar.json](./256835-cat-burglar.json) |
+| Cat Busters: Collections | 144120 | [144120-cat-busters-collections.json](./144120-cat-busters-collections.json) |
 | Cat Cafe 101 | 243115 | [243115-cat-cafe-101.json](./243115-cat-cafe-101.json) |
 | Cat Cafe Simulator | 301266 | [301266-cat-cafe-simulator.json](./301266-cat-cafe-simulator.json) |
 | Cat Cafe: Dessert Panic | 241991 | [241991-cat-cafe-dessert-panic.json](./241991-cat-cafe-dessert-panic.json) |
@@ -1339,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cautionary Tale | 176453 | [176453-cautionary-tale.json](./176453-cautionary-tale.json) |
 | Cavalry Battle 3000 | 353896 | [353896-cavalry-battle-3000.json](./353896-cavalry-battle-3000.json) |
 | Cave | 141816 | [141816-cave.json](./141816-cave.json) |
+| Cave Bad | 144105 | [144105-cave-bad.json](./144105-cave-bad.json) |
 | Cave Bowling | 87262 | [87262-cave-bowling.json](./87262-cave-bowling.json) |
 | Cave Brawlers | 82034 | [82034-cave-brawlers.json](./82034-cave-brawlers.json) |
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
@@ -1929,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessie Chicken | 195611 | [195611-chessie-chicken.json](./195611-chessie-chicken.json) |
 | Chesskoban Bishop | 189106 | [189106-chesskoban-bishop.json](./189106-chesskoban-bishop.json) |
 | Chesskoban Cyber | 195144 | [195144-chesskoban-cyber.json](./195144-chesskoban-cyber.json) |
+| ChessLocke | 144118 | [144118-chesslocke.json](./144118-chesslocke.json) |
 | Chessmaster | 23714 | [23714-chessmaster.json](./23714-chessmaster.json) |
 | Chessmaster | 343921 | [343921-chessmaster.json](./343921-chessmaster.json) |
 | Chessmaster Live: Calvert Chess Set | 344953 | [344953-chessmaster-live-calvert-chess-set.json](./344953-chessmaster-live-calvert-chess-set.json) |
@@ -3814,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Completion LawnCare | 216454 | [216454-completion-lawncare.json](./216454-completion-lawncare.json) |
 | Complex Complex | 273924 | [273924-complex-complex.json](./273924-complex-complex.json) |
 | Complex Hero | 265626 | [265626-complex-hero.json](./265626-complex-hero.json) |
+| Complex Sky | 144097 | [144097-complex-sky.json](./144097-complex-sky.json) |
 | Componut | 174195 | [174195-componut.json](./174195-componut.json) |
 | Compound Word Puzzles 2 | 359997 | [359997-compound-word-puzzles-2.json](./359997-compound-word-puzzles-2.json) |
 | Compu-Tron x3000 | 338291 | [338291-compu-tron-x3000.json](./338291-compu-tron-x3000.json) |
