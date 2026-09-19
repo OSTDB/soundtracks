@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Dark Night | 33065 | [33065-one-dark-night.json](./33065-one-dark-night.json) |
 | One Day for Revenge | 104020 | [104020-one-day-for-revenge.json](./104020-one-day-for-revenge.json) |
 | One Day in London | 32931 | [32931-one-day-in-london.json](./32931-one-day-in-london.json) |
+| One Day More | 150535 | [150535-one-day-more.json](./150535-one-day-more.json) |
 | One Deck Galaxy | 257458 | [257458-one-deck-galaxy.json](./257458-one-deck-galaxy.json) |
 | One Dimension | 89984 | [89984-one-dimension.json](./89984-one-dimension.json) |
 | One Direction | 263602 | [263602-one-direction.json](./263602-one-direction.json) |
@@ -982,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onmyoudou Origins | 277944 | [277944-onmyoudou-origins.json](./277944-onmyoudou-origins.json) |
 | Onmyouji Emaki | 335701 | [335701-onmyouji-emaki.json](./335701-onmyouji-emaki.json) |
 | Onna Senshi Serasu wa Odoriko ni Tenshoku Shita!: Ha, Hazukashikute Shinde Shimaitai … Ecchi na Dance Nante Dare ga Suruka! | 58806 | [58806-onna-senshi-serasu-wa-odoriko-ni-tenshoku-shita-ha-hazukashikute-shinde-shimaitai-ecchi-na-dance-nante-dare-ga-suruka.json](./58806-onna-senshi-serasu-wa-odoriko-ni-tenshoku-shita-ha-hazukashikute-shinde-shimaitai-ecchi-na-dance-nante-dare-ga-suruka.json) |
+| Onnanoko Keeper 2 | 150494 | [150494-onnanoko-keeper-2.json](./150494-onnanoko-keeper-2.json) |
 | Ono: Fast Card Game Fun | 86715 | [86715-ono-fast-card-game-fun.json](./86715-ono-fast-card-game-fun.json) |
 | Onoow | 298039 | [298039-onoow.json](./298039-onoow.json) |
 | Onryo | 132270 | [132270-onryo.json](./132270-onryo.json) |
@@ -1737,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overkill | 95402 | [95402-overkill.json](./95402-overkill.json) |
 | Overkill VR | 25946 | [25946-overkill-vr.json](./25946-overkill-vr.json) |
 | Overknight Dungeon | 223980 | [223980-overknight-dungeon.json](./223980-overknight-dungeon.json) |
+| Overland Weekend | 150514 | [150514-overland-weekend.json](./150514-overland-weekend.json) |
 | Overlapped | 192318 | [192318-overlapped.json](./192318-overlapped.json) |
 | Overlapping World | 284342 | [284342-overlapping-world.json](./284342-overlapping-world.json) |
 | Overlook: Local multiplayer game up to 16 players | 78112 | [78112-overlook-local-multiplayer-game-up-to-16-players.json](./78112-overlook-local-multiplayer-game-up-to-16-players.json) |
