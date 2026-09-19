@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Zombies: Survival | 124755 | [124755-dawn-of-zombies-survival.json](./124755-dawn-of-zombies-survival.json) |
 | Dawn One | 235750 | [235750-dawn-one.json](./235750-dawn-one.json) |
 | DAWN: Darkness Awaits Withstand the Night | 333664 | [333664-dawn-darkness-awaits-withstand-the-night.json](./333664-dawn-darkness-awaits-withstand-the-night.json) |
+| Dawnbringer | 129604 | [129604-dawnbringer.json](./129604-dawnbringer.json) |
 | Dawnspire: Prelude | 70476 | [70476-dawnspire-prelude.json](./70476-dawnspire-prelude.json) |
 | Day at the Counter | 178596 | [178596-day-at-the-counter.json](./178596-day-at-the-counter.json) |
 | Day at the Office: Prologue | 315717 | [315717-day-at-the-office-prologue.json](./315717-day-at-the-office-prologue.json) |
@@ -849,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daylife in Japan: Pixel Art Jigsaw Puzzle | 147966 | [147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json](./147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json) |
 | Daylight Dread | 317214 | [317214-daylight-dread.json](./317214-daylight-dread.json) |
 | Daymaker: Release From Doomsday | 265654 | [265654-daymaker-release-from-doomsday.json](./265654-daymaker-release-from-doomsday.json) |
+| Daymare Cat | 129557 | [129557-daymare-cat.json](./129557-daymare-cat.json) |
 | Daymare Cat: 10-year Anniversary | 257659 | [257659-daymare-cat-10-year-anniversary.json](./257659-daymare-cat-10-year-anniversary.json) |
 | Daymare Stray | 250344 | [250344-daymare-stray.json](./250344-daymare-stray.json) |
 | Daymare Town | 257446 | [257446-daymare-town.json](./257446-daymare-town.json) |
@@ -2038,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Thunder | 358380 | [358380-desert-thunder.json](./358380-desert-thunder.json) |
 | Desert Tycoon | 256251 | [256251-desert-tycoon.json](./256251-desert-tycoon.json) |
 | Desert War | 167163 | [167163-desert-war.json](./167163-desert-war.json) |
+| Desert War 1940-1942 | 129593 | [129593-desert-war-1940-1942.json](./129593-desert-war-1940-1942.json) |
 | Deserted Island | 138823 | [138823-deserted-island.json](./138823-deserted-island.json) |
 | Deserter | 323940 | [323940-deserter.json](./323940-deserter.json) |
 | Deserter Simulator | 34791 | [34791-deserter-simulator.json](./34791-deserter-simulator.json) |
@@ -3176,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Simulator | 303479 | [303479-dj-simulator.json](./303479-dj-simulator.json) |
 | DJ Star | 21243 | [21243-dj-star.json](./21243-dj-star.json) |
 | Djikstra's Enigmatic Puzzle Cube | 278423 | [278423-djikstras-enigmatic-puzzle-cube.json](./278423-djikstras-enigmatic-puzzle-cube.json) |
+| Djinn Caster | 129605 | [129605-djinn-caster.json](./129605-djinn-caster.json) |
 | Djinni & Thaco: Trial By Spire | 132779 | [132779-djinni-and-thaco-trial-by-spire.json](./132779-djinni-and-thaco-trial-by-spire.json) |
 | DJLand | 371909 | [371909-djland.json](./371909-djland.json) |
 | DJMax Portable: Clazziquai Edition | 79327 | [79327-djmax-portable-clazziquai-edition.json](./79327-djmax-portable-clazziquai-edition.json) |
@@ -4823,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifto: Infinite Touge | 305914 | [305914-drifto-infinite-touge.json](./305914-drifto-infinite-touge.json) |
 | DriftOn | 129053 | [129053-drifton.json](./129053-drifton.json) |
 | Driftwatch VR | 30919 | [30919-driftwatch-vr.json](./30919-driftwatch-vr.json) |
+| Driftwood | 129563 | [129563-driftwood.json](./129563-driftwood.json) |
 | Driftwood | 31831 | [31831-driftwood.json](./31831-driftwood.json) |
 | Drifty | 251200 | [251200-drifty.json](./251200-drifty.json) |
 | Drifty Drive | 112271 | [112271-drifty-drive.json](./112271-drifty-drive.json) |
