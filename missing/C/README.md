@@ -424,6 +424,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capacocha | 179139 | [179139-capacocha.json](./179139-capacocha.json) |
 | Caparace | 383966 | [383966-caparace.json](./383966-caparace.json) |
 | Capcom Arcade Cabinet | 18821 | [18821-capcom-arcade-cabinet.json](./18821-capcom-arcade-cabinet.json) |
+| Capcom Arcade Stadium Pack 1: Dawn of the Arcade | 141632 | [141632-capcom-arcade-stadium-pack-1-dawn-of-the-arcade.json](./141632-capcom-arcade-stadium-pack-1-dawn-of-the-arcade.json) |
+| Capcom Arcade Stadium Pack 2: Arcade Revolution | 141633 | [141633-capcom-arcade-stadium-pack-2-arcade-revolution.json](./141633-capcom-arcade-stadium-pack-2-arcade-revolution.json) |
+| Capcom Arcade Stadium Pack 3: Arcade Evolution | 141635 | [141635-capcom-arcade-stadium-pack-3-arcade-evolution.json](./141635-capcom-arcade-stadium-pack-3-arcade-evolution.json) |
 | Capcom Arcade Stadium: Battle Circuit | 234302 | [234302-capcom-arcade-stadium-battle-circuit.json](./234302-capcom-arcade-stadium-battle-circuit.json) |
 | Capcom Arcade Stadium: Dynasty Wars | 150654 | [150654-capcom-arcade-stadium-dynasty-wars.json](./150654-capcom-arcade-stadium-dynasty-wars.json) |
 | Capcom Arcade Stadium: Ghosts 'n Goblins | 173796 | [173796-capcom-arcade-stadium-ghosts-n-goblins.json](./173796-capcom-arcade-stadium-ghosts-n-goblins.json) |
@@ -1560,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CGA Pumpkin Carver | 179741 | [179741-cga-pumpkin-carver.json](./179741-cga-pumpkin-carver.json) |
 | Cgencore | 115028 | [115028-cgencore.json](./115028-cgencore.json) |
 | CGI: The Game | 234075 | [234075-cgi-the-game.json](./234075-cgi-the-game.json) |
+| Ch1mpnotic | 141686 | [141686-ch1mpnotic.json](./141686-ch1mpnotic.json) |
 | Chachacha Slot | 87296 | [87296-chachacha-slot.json](./87296-chachacha-slot.json) |
 | Chadboy | 241618 | [241618-chadboy.json](./241618-chadboy.json) |
 | Chai | 236280 | [236280-chai.json](./236280-chai.json) |
