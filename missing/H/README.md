@@ -3149,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper: Cyberpunk | 171638 | [171638-house-flipper-cyberpunk.json](./171638-house-flipper-cyberpunk.json) |
 | House Flipper: Dine Out | 289332 | [289332-house-flipper-dine-out.json](./289332-house-flipper-dine-out.json) |
 | House Flipper: Farm | 200725 | [200725-house-flipper-farm.json](./200725-house-flipper-farm.json) |
+| House Flipper: Pets | 171462 | [171462-house-flipper-pets.json](./171462-house-flipper-pets.json) |
 | House in the village by the river v2.0 | 173813 | [173813-house-in-the-village-by-the-river-v2-0.json](./173813-house-in-the-village-by-the-river-v2-0.json) |
 | House M.D. Episode 5: Under the Big Top | 65508 | [65508-house-m-d-episode-5-under-the-big-top.json](./65508-house-m-d-episode-5-under-the-big-top.json) |
 | House Maid Asuka | 97368 | [97368-house-maid-asuka.json](./97368-house-maid-asuka.json) |
@@ -3182,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of the Golden Mask | 378175 | [378175-house-of-the-golden-mask.json](./378175-house-of-the-golden-mask.json) |
 | House of the Soul | 234198 | [234198-house-of-the-soul.json](./234198-house-of-the-soul.json) |
 | House of Usher | 25721 | [25721-house-of-usher.json](./25721-house-of-usher.json) |
+| House of Velez: Part 2 | 171505 | [171505-house-of-velez-part-2.json](./171505-house-of-velez-part-2.json) |
 | House of Wonders: Kitty Kat Wedding | 53195 | [53195-house-of-wonders-kitty-kat-wedding.json](./53195-house-of-wonders-kitty-kat-wedding.json) |
 | House on [Redacted] Street | 352197 | [352197-house-on-redacted-street.json](./352197-house-on-redacted-street.json) |
 | House Party: Valentine's Day Holiday Pack | 287076 | [287076-house-party-valentines-day-holiday-pack.json](./287076-house-party-valentines-day-holiday-pack.json) |
@@ -3415,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Cat Nonogram | 207862 | [207862-hungry-cat-nonogram.json](./207862-hungry-cat-nonogram.json) |
 | Hungry Chicks: Battle Farm | 402265 | [402265-hungry-chicks-battle-farm.json](./402265-hungry-chicks-battle-farm.json) |
 | Hungry Corgi | 255728 | [255728-hungry-corgi.json](./255728-hungry-corgi.json) |
+| Hungry Dino | 171494 | [171494-hungry-dino.json](./171494-hungry-dino.json) |
 | Hungry Dinosaurs | 42587 | [42587-hungry-dinosaurs.json](./42587-hungry-dinosaurs.json) |
 | Hungry Fox | 181393 | [181393-hungry-fox.json](./181393-hungry-fox.json) |
 | Hungry Giraffe | 20808 | [20808-hungry-giraffe.json](./20808-hungry-giraffe.json) |
