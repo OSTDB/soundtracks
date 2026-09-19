@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elder Trial | 236370 | [236370-elder-trial.json](./236370-elder-trial.json) |
 | Elder's Grace: Rise of the Mobley | 248667 | [248667-elders-grace-rise-of-the-mobley.json](./248667-elders-grace-rise-of-the-mobley.json) |
 | Elder's Grace: Unchained | 266309 | [266309-elders-grace-unchained.json](./266309-elders-grace-unchained.json) |
+| Elderborn: Metal AF Edition | 154951 | [154951-elderborn-metal-af-edition.json](./154951-elderborn-metal-af-edition.json) |
 | Eldercraft: Mountaineers | 336591 | [336591-eldercraft-mountaineers.json](./336591-eldercraft-mountaineers.json) |
 | Elderfeast | 408071 | [408071-elderfeast.json](./408071-elderfeast.json) |
 | Eldevin | 17350 | [17350-eldevin.json](./17350-eldevin.json) |
@@ -1137,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endzeit | 243785 | [243785-endzeit.json](./243785-endzeit.json) |
 | Endzone | 13643 | [13643-endzone.json](./13643-endzone.json) |
 | Endzone: A World Apart - Complete Edition | 218504 | [218504-endzone-a-world-apart-complete-edition.json](./218504-endzone-a-world-apart-complete-edition.json) |
+| Endzone: A World Apart - Save the World Edition | 154952 | [154952-endzone-a-world-apart-save-the-world-edition.json](./154952-endzone-a-world-apart-save-the-world-edition.json) |
 | Endzone: A World Apart - Survivor Edition | 193533 | [193533-endzone-a-world-apart-survivor-edition.json](./193533-endzone-a-world-apart-survivor-edition.json) |
 | Enemies: Gone Suburban | 239649 | [239649-enemies-gone-suburban.json](./239649-enemies-gone-suburban.json) |
 | Enemy | 36034 | [36034-enemy.json](./36034-enemy.json) |
