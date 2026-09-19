@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pang & Bang | 110963 | [110963-pang-and-bang.json](./110963-pang-and-bang.json) |
 | Pang: Magical Michael | 66524 | [66524-pang-magical-michael.json](./66524-pang-magical-michael.json) |
 | Pang.date | 205097 | [205097-pang-date.json](./205097-pang-date.json) |
+| Panga's Kaizo Kindergarten (For Dummies) | 145479 | [145479-pangas-kaizo-kindergarten-for-dummies.json](./145479-pangas-kaizo-kindergarten-for-dummies.json) |
 | Pangea 1/2 | 325660 | [325660-pangea-1-2.json](./325660-pangea-1-2.json) |
 | Pangemic | 30818 | [30818-pangemic.json](./30818-pangemic.json) |
 | Pango Blocks | 87889 | [87889-pango-blocks.json](./87889-pango-blocks.json) |
