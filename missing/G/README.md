@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangsta Bean | 234931 | [234931-gangsta-bean.json](./234931-gangsta-bean.json) |
 | Gangsta Bean 2 | 261296 | [261296-gangsta-bean-2.json](./261296-gangsta-bean-2.json) |
 | Gangsta Magic | 156633 | [156633-gangsta-magic.json](./156633-gangsta-magic.json) |
+| Gangsta Paradise | 147252 | [147252-gangsta-paradise.json](./147252-gangsta-paradise.json) |
 | Gangsta Underground: The Poker | 132263 | [132263-gangsta-underground-the-poker.json](./132263-gangsta-underground-the-poker.json) |
 | Gangsta: The Return | 189117 | [189117-gangsta-the-return.json](./189117-gangsta-the-return.json) |
 | Gangstar City | 403574 | [403574-gangstar-city.json](./403574-gangstar-city.json) |
