@@ -1520,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the M.A.W. | 309857 | [309857-into-the-m-a-w.json](./309857-into-the-m-a-w.json) |
 | Into the Mine | 333024 | [333024-into-the-mine.json](./333024-into-the-mine.json) |
 | Into The Mist 2: The Cult | 134010 | [134010-into-the-mist-2-the-cult.json](./134010-into-the-mist-2-the-cult.json) |
+| Into the Mosswood | 180668 | [180668-into-the-mosswood.json](./180668-into-the-mosswood.json) |
 | Into the Necrovale | 234176 | [234176-into-the-necrovale.json](./234176-into-the-necrovale.json) |
 | Into the Planet's Flesh | 401626 | [401626-into-the-planets-flesh.json](./401626-into-the-planets-flesh.json) |
 | Into the Radius | 115062 | [115062-into-the-radius.json](./115062-into-the-radius.json) |
