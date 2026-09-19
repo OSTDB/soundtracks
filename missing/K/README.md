@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kataribesou: Ensouki | 229386 | [229386-kataribesou-ensouki.json](./229386-kataribesou-ensouki.json) |
 | Katarina's Farm | 254619 | [254619-katarinas-farm.json](./254619-katarinas-farm.json) |
 | Kataude no Zarigani: One-armed Crayfish | 330536 | [330536-kataude-no-zarigani-one-armed-crayfish.json](./330536-kataude-no-zarigani-one-armed-crayfish.json) |
+| Kate Goes to Wildflower Grove | 177415 | [177415-kate-goes-to-wildflower-grove.json](./177415-kate-goes-to-wildflower-grove.json) |
 | Kate Plus Ten | 112324 | [112324-kate-plus-ten.json](./112324-kate-plus-ten.json) |
 | Katei de Dekiru! Chomeijin Yuumei Ryourinin no Original Recipe - Shokusai Roman | 269824 | [269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json](./269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json) |
 | Katei no Igaku: DS de Kitaeru Shokuzai Kenkou Training | 269586 | [269586-katei-no-igaku-ds-de-kitaeru-shokuzai-kenkou-training.json](./269586-katei-no-igaku-ds-de-kitaeru-shokuzai-kenkou-training.json) |
