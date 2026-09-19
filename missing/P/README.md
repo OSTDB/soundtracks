@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pina Colada | 269685 | [269685-pina-colada.json](./269685-pina-colada.json) |
 | Pina Colada 2 | 321367 | [321367-pina-colada-2.json](./321367-pina-colada-2.json) |
 | Piñata | 32885 | [32885-pinata.json](./32885-pinata.json) |
+| Piñata Attack | 129014 | [129014-pinata-attack.json](./129014-pinata-attack.json) |
 | Pinata Hunter | 267387 | [267387-pinata-hunter.json](./267387-pinata-hunter.json) |
 | Pinball | 131514 | [131514-pinball.json](./131514-pinball.json) |
 | Pinball | 131522 | [131522-pinball.json](./131522-pinball.json) |
@@ -2526,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelBot Extreme! | 96229 | [96229-pixelbot-extreme.json](./96229-pixelbot-extreme.json) |
 | PixelCraft Game | 100929 | [100929-pixelcraft-game.json](./100929-pixelcraft-game.json) |
 | Pixelegend | 346615 | [346615-pixelegend.json](./346615-pixelegend.json) |
+| Pixelfence | 128982 | [128982-pixelfence.json](./128982-pixelfence.json) |
 | PixelGround | 191848 | [191848-pixelground.json](./191848-pixelground.json) |
 | Pixeline: Syng, Leg og Lær | 143751 | [143751-pixeline-syng-leg-og-l-r.json](./143751-pixeline-syng-leg-og-l-r.json) |
 | Pixelite | 308558 | [308558-pixelite.json](./308558-pixelite.json) |
@@ -3922,6 +3924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Stakes 2 | 301386 | [301386-power-stakes-2.json](./301386-power-stakes-2.json) |
 | Power Stakes: Grade 1 | 141165 | [141165-power-stakes-grade-1.json](./141165-power-stakes-grade-1.json) |
 | Power Structure | 271318 | [271318-power-structure.json](./271318-power-structure.json) |
+| Power Struggle | 129005 | [129005-power-struggle.json](./129005-power-struggle.json) |
 | Power Struggle | 55031 | [55031-power-struggle.json](./55031-power-struggle.json) |
 | Power to Play: The Game | 255082 | [255082-power-to-play-the-game.json](./255082-power-to-play-the-game.json) |
 | Power Tower | 113671 | [113671-power-tower.json](./113671-power-tower.json) |
@@ -4265,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Miners | 333546 | [333546-prison-miners.json](./333546-prison-miners.json) |
 | Prison of Husks | 269682 | [269682-prison-of-husks.json](./269682-prison-of-husks.json) |
 | Prison of Nightmare | 311245 | [311245-prison-of-nightmare.json](./311245-prison-of-nightmare.json) |
+| Prison of Son | 128999 | [128999-prison-of-son.json](./128999-prison-of-son.json) |
 | Prison Out | 365071 | [365071-prison-out.json](./365071-prison-out.json) |
 | Prison Princess | 127335 | [127335-prison-princess.json](./127335-prison-princess.json) |
 | Prison Run | 394998 | [394998-prison-run.json](./394998-prison-run.json) |
