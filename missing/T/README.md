@@ -1640,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tezzel: The Tilemaker's Tale | 344923 | [344923-tezzel-the-tilemakers-tale.json](./344923-tezzel-the-tilemakers-tale.json) |
 | th!nk Logic Trainer: Kids | 81392 | [81392-th-nk-logic-trainer-kids.json](./81392-th-nk-logic-trainer-kids.json) |
 | Thailand Bus Simulator | 384617 | [384617-thailand-bus-simulator.json](./384617-thailand-bus-simulator.json) |
+| Thalamus: The Hits 2 | 137468 | [137468-thalamus-the-hits-2.json](./137468-thalamus-the-hits-2.json) |
 | Thalassic | 238728 | [238728-thalassic.json](./238728-thalassic.json) |
 | Thalassic Dice | 347776 | [347776-thalassic-dice.json](./347776-thalassic-dice.json) |
 | Thalassomania | 338295 | [338295-thalassomania.json](./338295-thalassomania.json) |
@@ -2367,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Comfort Zone | 177417 | [177417-the-comfort-zone.json](./177417-the-comfort-zone.json) |
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
+| The Complete Universal Military Simulator | 137480 | [137480-the-complete-universal-military-simulator.json](./137480-the-complete-universal-military-simulator.json) |
 | The Complex | 119178 | [119178-the-complex.json](./119178-the-complex.json) |
 | The Complex IV | 286003 | [286003-the-complex-iv.json](./286003-the-complex-iv.json) |
 | The Complex Tragedy | 284923 | [284923-the-complex-tragedy.json](./284923-the-complex-tragedy.json) |
@@ -4405,6 +4407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nations: Land of Legends | 49866 | [49866-the-nations-land-of-legends.json](./49866-the-nations-land-of-legends.json) |
 | The Necessary Evil | 415102 | [415102-the-necessary-evil.json](./415102-the-necessary-evil.json) |
 | The Neighbor: Escape Room | 309505 | [309505-the-neighbor-escape-room.json](./309505-the-neighbor-escape-room.json) |
+| The Neon Mate | 137483 | [137483-the-neon-mate.json](./137483-the-neon-mate.json) |
 | The Neroe | 199492 | [199492-the-neroe.json](./199492-the-neroe.json) |
 | The Nerve Game | 180256 | [180256-the-nerve-game.json](./180256-the-nerve-game.json) |
 | The NetherWorld | 271766 | [271766-the-netherworld.json](./271766-the-netherworld.json) |
@@ -9306,6 +9309,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traumatarium | 268457 | [268457-traumatarium.json](./268457-traumatarium.json) |
 | Traumatarium: Penitent | 307745 | [307745-traumatarium-penitent.json](./307745-traumatarium-penitent.json) |
 | Träumerei: Chapter 0 | 280929 | [280929-traumerei-chapter-0.json](./280929-traumerei-chapter-0.json) |
+| Träumerei: Chapter 2 | 137465 | [137465-traumerei-chapter-2.json](./137465-traumerei-chapter-2.json) |
+| Träumerei: Chapter 3 | 137447 | [137447-traumerei-chapter-3.json](./137447-traumerei-chapter-3.json) |
+| Träumerei: Chapter 4 | 137448 | [137448-traumerei-chapter-4.json](./137448-traumerei-chapter-4.json) |
 | Travel Along | 272905 | [272905-travel-along.json](./272905-travel-along.json) |
 | Travel Bug | 86096 | [86096-travel-bug.json](./86096-travel-bug.json) |
 | Travel Cuisine 2: Sweet Life | 358405 | [358405-travel-cuisine-2-sweet-life.json](./358405-travel-cuisine-2-sweet-life.json) |
@@ -9849,6 +9855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TS Marketplace: Renewable Energy Pack | 227300 | [227300-ts-marketplace-renewable-energy-pack.json](./227300-ts-marketplace-renewable-energy-pack.json) |
 | TSA Frisky VR | 89964 | [89964-tsa-frisky-vr.json](./89964-tsa-frisky-vr.json) |
 | Tsan-shadow Ninja | 351724 | [351724-tsan-shadow-ninja.json](./351724-tsan-shadow-ninja.json) |
+| Tschess | 137470 | [137470-tschess.json](./137470-tschess.json) |
 | Tsjost's Heroic Soup Bazooka | 222902 | [222902-tsjosts-heroic-soup-bazooka.json](./222902-tsjosts-heroic-soup-bazooka.json) |
 | Tsubaki Hata | 226203 | [226203-tsubaki-hata.json](./226203-tsubaki-hata.json) |
 | Tsubasa Heaven | 406831 | [406831-tsubasa-heaven.json](./406831-tsubasa-heaven.json) |
