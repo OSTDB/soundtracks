@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Sudoku Collection: Samurai Expert Pack | 163323 | [163323-ultimate-sudoku-collection-samurai-expert-pack.json](./163323-ultimate-sudoku-collection-samurai-expert-pack.json) |
 | Ultimate Sudoku Collection: Sohei Pack | 163321 | [163321-ultimate-sudoku-collection-sohei-pack.json](./163321-ultimate-sudoku-collection-sohei-pack.json) |
 | Ultimate Sudoku Collection: Tight-Fit-6 Pack | 163319 | [163319-ultimate-sudoku-collection-tight-fit-6-pack.json](./163319-ultimate-sudoku-collection-tight-fit-6-pack.json) |
+| Ultimate Summer | 142268 | [142268-ultimate-summer.json](./142268-ultimate-summer.json) |
 | Ultimate Summer Boat | 51982 | [51982-ultimate-summer-boat.json](./51982-ultimate-summer-boat.json) |
 | Ultimate Super Bean | 414299 | [414299-ultimate-super-bean.json](./414299-ultimate-super-bean.json) |
 | Ultimate Tag | 190158 | [190158-ultimate-tag.json](./190158-ultimate-tag.json) |
@@ -479,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Defeat HD: Deluxe Edition | 20239 | [20239-under-defeat-hd-deluxe-edition.json](./20239-under-defeat-hd-deluxe-edition.json) |
 | Under Defeat HD+ | 21016 | [21016-under-defeat-hd.json](./21016-under-defeat-hd.json) |
 | Under Destruction | 356760 | [356760-under-destruction.json](./356760-under-destruction.json) |
+| Under Lock | 142265 | [142265-under-lock.json](./142265-under-lock.json) |
 | Under Night In-Birth II: Character - Uzuki | 309084 | [309084-under-night-in-birth-ii-character-uzuki.json](./309084-under-night-in-birth-ii-character-uzuki.json) |
 | Under Night In-Bright II Sys:Celes - Deluxe Edition | 277303 | [277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json](./277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json) |
 | Under Oath | 193989 | [193989-under-oath.json](./193989-under-oath.json) |
