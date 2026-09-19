@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Princess: Silver Edition | 317256 | [317256-fashion-princess-silver-edition.json](./317256-fashion-princess-silver-edition.json) |
 | Fashion Princess: Super Version | 328819 | [328819-fashion-princess-super-version.json](./328819-fashion-princess-super-version.json) |
 | Fashion Princess: Ultimate Edition | 268555 | [268555-fashion-princess-ultimate-edition.json](./268555-fashion-princess-ultimate-edition.json) |
+| Fashion Season | 176895 | [176895-fashion-season.json](./176895-fashion-season.json) |
 | Fashion Space | 212493 | [212493-fashion-space.json](./212493-fashion-space.json) |
 | Fashion Universe | 212481 | [212481-fashion-universe.json](./212481-fashion-universe.json) |
 | Fashion Week: Junior Stylist | 79893 | [79893-fashion-week-junior-stylist.json](./79893-fashion-week-junior-stylist.json) |
@@ -1156,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feyhearth: the Art of Handling Extraordinary Clientele | 396354 | [396354-feyhearth-the-art-of-handling-extraordinary-clientele.json](./396354-feyhearth-the-art-of-handling-extraordinary-clientele.json) |
 | Fez II | 63291 | [63291-fez-ii.json](./63291-fez-ii.json) |
 | Fez Pocket Edition | 78543 | [78543-fez-pocket-edition.json](./78543-fez-pocket-edition.json) |
+| Feztal | 176887 | [176887-feztal.json](./176887-feztal.json) |
 | FF Link | 311806 | [311806-ff-link.json](./311806-ff-link.json) |
 | FF: U on PC - Final Fantasy: Unlimited - Labyrinth: Kuroki Dream Memory | 336020 | [336020-ff-u-on-pc-final-fantasy-unlimited-labyrinth-kuroki-dream-memory.json](./336020-ff-u-on-pc-final-fantasy-unlimited-labyrinth-kuroki-dream-memory.json) |
 | FF2us Impossible | 360107 | [360107-ff2us-impossible.json](./360107-ff2us-impossible.json) |
@@ -1765,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firelight Fantasy: Force Energy | 147483 | [147483-firelight-fantasy-force-energy.json](./147483-firelight-fantasy-force-energy.json) |
 | Firelight Fantasy: Vengeance | 153982 | [153982-firelight-fantasy-vengeance.json](./153982-firelight-fantasy-vengeance.json) |
 | Firelore: Short Tales | 333391 | [333391-firelore-short-tales.json](./333391-firelore-short-tales.json) |
+| Firelust | 176915 | [176915-firelust.json](./176915-firelust.json) |
 | Firemakaf | 178606 | [178606-firemakaf.json](./178606-firemakaf.json) |
 | Fireman Titan Fights Games | 105934 | [105934-fireman-titan-fights-games.json](./105934-fireman-titan-fights-games.json) |
 | FireMatch Empire | 382319 | [382319-firematch-empire.json](./382319-firematch-empire.json) |
@@ -3417,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fregocles y la Desinfección del Olimpo | 322551 | [322551-fregocles-y-la-desinfeccion-del-olimpo.json](./322551-fregocles-y-la-desinfeccion-del-olimpo.json) |
 | Freight Hopper | 212880 | [212880-freight-hopper.json](./212880-freight-hopper.json) |
 | Freight Manager | 365742 | [365742-freight-manager.json](./365742-freight-manager.json) |
+| Freight Tycoon | 176891 | [176891-freight-tycoon.json](./176891-freight-tycoon.json) |
 | French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
 | FrenQuest | 307604 | [307604-frenquest.json](./307604-frenquest.json) |
 | FrenVania | 143047 | [143047-frenvania.json](./143047-frenvania.json) |
