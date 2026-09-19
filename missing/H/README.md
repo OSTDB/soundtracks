@@ -2718,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Improvisation: Furniture Sandbox | 16301 | [16301-home-improvisation-furniture-sandbox.json](./16301-home-improvisation-furniture-sandbox.json) |
 | Home In Alien | 285566 | [285566-home-in-alien.json](./285566-home-in-alien.json) |
 | Home Is Where the Haunt Is | 362881 | [362881-home-is-where-the-haunt-is.json](./362881-home-is-where-the-haunt-is.json) |
+| Home Makeover: Hidden Object | 146710 | [146710-home-makeover-hidden-object.json](./146710-home-makeover-hidden-object.json) |
 | Home Pin 2: Family Adventure | 227362 | [227362-home-pin-2-family-adventure.json](./227362-home-pin-2-family-adventure.json) |
 | Home Rescue Clean And Restore Collector's Edition | 399642 | [399642-home-rescue-clean-and-restore-collectors-edition.json](./399642-home-rescue-clean-and-restore-collectors-edition.json) |
 | Home Run High | 109008 | [109008-home-run-high.json](./109008-home-run-high.json) |
