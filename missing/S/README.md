@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
 | Second Person: Secret Laboratory | 158657 | [158657-second-person-secret-laboratory.json](./158657-second-person-secret-laboratory.json) |
+| Second Puberty | 176923 | [176923-second-puberty.json](./176923-second-puberty.json) |
 | Second Saga | 392251 | [392251-second-saga.json](./392251-second-saga.json) |
 | Second Soul | 202407 | [202407-second-soul.json](./202407-second-soul.json) |
 | Second Stone | 216314 | [216314-second-stone.json](./216314-second-stone.json) |
@@ -3777,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap Shot | 81281 | [81281-slap-shot.json](./81281-slap-shot.json) |
 | Slap That | 311263 | [311263-slap-that.json](./311263-slap-that.json) |
 | Slap The King | 290552 | [290552-slap-the-king.json](./290552-slap-the-king.json) |
+| Slap the Rocks | 176884 | [176884-slap-the-rocks.json](./176884-slap-the-rocks.json) |
 | Slap-Shot! Hockey | 95424 | [95424-slap-shot-hockey.json](./95424-slap-shot-hockey.json) |
 | SlapGains | 413671 | [413671-slapgains.json](./413671-slapgains.json) |
 | Slappy Ass | 111121 | [111121-slappy-ass.json](./111121-slappy-ass.json) |
@@ -4084,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slugterra: Dark Waters | 327630 | [327630-slugterra-dark-waters.json](./327630-slugterra-dark-waters.json) |
 | Slugtrip | 347796 | [347796-slugtrip.json](./347796-slugtrip.json) |
 | Slumber | 191202 | [191202-slumber.json](./191202-slumber.json) |
+| Slumber Party | 176925 | [176925-slumber-party.json](./176925-slumber-party.json) |
 | Slumberfish! | 243954 | [243954-slumberfish.json](./243954-slumberfish.json) |
 | Slums of Tetsoidea | 186820 | [186820-slums-of-tetsoidea.json](./186820-slums-of-tetsoidea.json) |
 | Slurpy | 25712 | [25712-slurpy.json](./25712-slurpy.json) |
@@ -5619,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundsaber | 184660 | [184660-soundsaber.json](./184660-soundsaber.json) |
 | Soundscape VR | 28879 | [28879-soundscape-vr.json](./28879-soundscape-vr.json) |
 | SoundSelf | 61869 | [61869-soundself.json](./61869-soundself.json) |
+| Soundsphere | 176885 | [176885-soundsphere.json](./176885-soundsphere.json) |
 | SoundTown | 276820 | [276820-soundtown.json](./276820-soundtown.json) |
 | Soup | 188612 | [188612-soup.json](./188612-soup.json) |
 | Soup: The Vibe Explorer | 406710 | [406710-soup-the-vibe-explorer.json](./406710-soup-the-vibe-explorer.json) |
@@ -6314,6 +6318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellmasons | 215714 | [215714-spellmasons.json](./215714-spellmasons.json) |
 | Spellomancer | 335343 | [335343-spellomancer.json](./335343-spellomancer.json) |
 | Spells & Secrets | 198494 | [198494-spells-and-secrets.json](./198494-spells-and-secrets.json) |
+| Spells For Sad Goths With Shitty Parents | 176921 | [176921-spells-for-sad-goths-with-shitty-parents.json](./176921-spells-for-sad-goths-with-shitty-parents.json) |
 | Spellshaper | 213451 | [213451-spellshaper.json](./213451-spellshaper.json) |
 | Spellshot | 243700 | [243700-spellshot.json](./243700-spellshot.json) |
 | Spellsided | 311488 | [311488-spellsided.json](./311488-spellsided.json) |
@@ -9379,6 +9384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 Chaos Edition | 132836 | [132836-super-mario-64-chaos-edition.json](./132836-super-mario-64-chaos-edition.json) |
 | Super Mario 64 DOS Port | 307320 | [307320-super-mario-64-dos-port.json](./307320-super-mario-64-dos-port.json) |
 | Super Mario 64 EX Alo | 307321 | [307321-super-mario-64-ex-alo.json](./307321-super-mario-64-ex-alo.json) |
+| Super Mario 64 HD | 176900 | [176900-super-mario-64-hd.json](./176900-super-mario-64-hd.json) |
 | Super Mario 64 in Tomb Raider | 262677 | [262677-super-mario-64-in-tomb-raider.json](./262677-super-mario-64-in-tomb-raider.json) |
 | Super Mario 64 Maker | 135229 | [135229-super-mario-64-maker.json](./135229-super-mario-64-maker.json) |
 | Super Mario 64 Nintendo 3DS Port | 307314 | [307314-super-mario-64-nintendo-3ds-port.json](./307314-super-mario-64-nintendo-3ds-port.json) |
