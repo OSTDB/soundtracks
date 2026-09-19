@@ -3007,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arabian Nights | 10861 | [10861-arabian-nights.json](./10861-arabian-nights.json) |
 | Arabian Nights | 111656 | [111656-arabian-nights.json](./111656-arabian-nights.json) |
 | Arabian Nights: Sabaku no Seirei-ou | 38381 | [38381-arabian-nights-sabaku-no-seirei-ou.json](./38381-arabian-nights-sabaku-no-seirei-ou.json) |
+| Arabian Treasures: Midnight Match | 150490 | [150490-arabian-treasures-midnight-match.json](./150490-arabian-treasures-midnight-match.json) |
 | Arabilis | 197787 | [197787-arabilis.json](./197787-arabilis.json) |
 | Arachnid | 83489 | [83489-arachnid.json](./83489-arachnid.json) |
 | Arachnoid | 23886 | [23886-arachnoid.json](./23886-arachnoid.json) |
@@ -4611,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn Soil | 184998 | [184998-autumn-soil.json](./184998-autumn-soil.json) |
 | Autumn Walk | 63883 | [63883-autumn-walk.json](./63883-autumn-walk.json) |
 | Autumn with the Shiba Inu | 236292 | [236292-autumn-with-the-shiba-inu.json](./236292-autumn-with-the-shiba-inu.json) |
+| Autumn-Chess | 150492 | [150492-autumn-chess.json](./150492-autumn-chess.json) |
 | Autumn's Chorus | 114952 | [114952-autumns-chorus.json](./114952-autumns-chorus.json) |
 | Auxin | 267478 | [267478-auxin.json](./267478-auxin.json) |
 | Auxworld | 272306 | [272306-auxworld.json](./272306-auxworld.json) |
