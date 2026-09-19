@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires III: The Asian Dynasties Mobile | 145574 | [145574-age-of-empires-iii-the-asian-dynasties-mobile.json](./145574-age-of-empires-iii-the-asian-dynasties-mobile.json) |
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
 | Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
+| Age of Fear 2: The Chaos Lord Gold | 180125 | [180125-age-of-fear-2-the-chaos-lord-gold.json](./180125-age-of-fear-2-the-chaos-lord-gold.json) |
 | Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
 | Age of Fear: Total | 249875 | [249875-age-of-fear-total.json](./249875-age-of-fear-total.json) |
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
@@ -1496,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All the Wiser | 274011 | [274011-all-the-wiser.json](./274011-all-the-wiser.json) |
 | All Things Equal I Would Prefer It If We Were Safe & Lonely Instead of Together & Afraid But I Cannot Deny That It Is Hard; or: A Solitary Spacecraft. | 133997 | [133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json](./133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json) |
 | All Under Control | 335069 | [335069-all-under-control.json](./335069-all-under-control.json) |
+| All Valentine Pairs Memory Game | 180101 | [180101-all-valentine-pairs-memory-game.json](./180101-all-valentine-pairs-memory-game.json) |
 | All We Need | 263212 | [263212-all-we-need.json](./263212-all-we-need.json) |
 | All Will Fall | 328273 | [328273-all-will-fall.json](./328273-all-will-fall.json) |
 | All Your Creeps | 65438 | [65438-all-your-creeps.json](./65438-all-your-creeps.json) |
@@ -1759,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMazing TD | 130181 | [130181-amazing-td.json](./130181-amazing-td.json) |
 | Amazing Thailand VR Experience | 48003 | [48003-amazing-thailand-vr-experience.json](./48003-amazing-thailand-vr-experience.json) |
 | Amazing Wire | 233526 | [233526-amazing-wire.json](./233526-amazing-wire.json) |
+| Amazing Word Search | 180151 | [180151-amazing-word-search.json](./180151-amazing-word-search.json) |
 | Amazing World | 17235 | [17235-amazing-world.json](./17235-amazing-world.json) |
 | Amazing Zombie Defense | 62663 | [62663-amazing-zombie-defense.json](./62663-amazing-zombie-defense.json) |
 | Amazing: A House In Kansas VR | 119767 | [119767-amazing-a-house-in-kansas-vr.json](./119767-amazing-a-house-in-kansas-vr.json) |
@@ -2597,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antimatter Elevator | 166759 | [166759-antimatter-elevator.json](./166759-antimatter-elevator.json) |
 | Antinomia: Final Fantasy VI | 339248 | [339248-antinomia-final-fantasy-vi.json](./339248-antinomia-final-fantasy-vi.json) |
 | Antiny | 125990 | [125990-antiny.json](./125990-antiny.json) |
+| Antiny 0 | 180127 | [180127-antiny-0.json](./180127-antiny-0.json) |
 | Antioma | 344912 | [344912-antioma.json](./344912-antioma.json) |
 | Antiphona no Seikahime: Tenshi no Score Op.A | 56523 | [56523-antiphona-no-seikahime-tenshi-no-score-op-a.json](./56523-antiphona-no-seikahime-tenshi-no-score-op-a.json) |
 | AntiPodal | 342658 | [342658-antipodal.json](./342658-antipodal.json) |
@@ -3581,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur’s Tale | 405578 | [405578-arthur-s-tale.json](./405578-arthur-s-tale.json) |
 | Artifact Run | 384534 | [384534-artifact-run.json](./384534-artifact-run.json) |
 | Artifact Seekers | 366306 | [366306-artifact-seekers.json](./366306-artifact-seekers.json) |
+| Artifacto | 180103 | [180103-artifacto.json](./180103-artifacto.json) |
 | Artifacts of Eternity | 337617 | [337617-artifacts-of-eternity.json](./337617-artifacts-of-eternity.json) |
 | Artifacts of Eyru | 207507 | [207507-artifacts-of-eyru.json](./207507-artifacts-of-eyru.json) |
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
@@ -4586,6 +4591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awkward Goalie | 246962 | [246962-awkward-goalie.json](./246962-awkward-goalie.json) |
 | Awoken Madness | 271201 | [271201-awoken-madness.json](./271201-awoken-madness.json) |
 | Awoken: Chapter One of Reverie | 168849 | [168849-awoken-chapter-one-of-reverie.json](./168849-awoken-chapter-one-of-reverie.json) |
+| Awol Ahab | 180115 | [180115-awol-ahab.json](./180115-awol-ahab.json) |
 | AWS Argentina Wingshooting Simulator | 75032 | [75032-aws-argentina-wingshooting-simulator.json](./75032-aws-argentina-wingshooting-simulator.json) |
 | AX-1: Arabian Rhapsody | 91462 | [91462-ax-1-arabian-rhapsody.json](./91462-ax-1-arabian-rhapsody.json) |
 | AX-10: Outlaw | 91459 | [91459-ax-10-outlaw.json](./91459-ax-10-outlaw.json) |
