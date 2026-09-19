@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edna & Harvey: Harvey's New Eyes | 6701 | [6701-edna-and-harvey-harveys-new-eyes.json](./6701-edna-and-harvey-harveys-new-eyes.json) |
 | Edna & Harvey: The Breakout - 10th Anniversary Edition | 107173 | [107173-edna-and-harvey-the-breakout-10th-anniversary-edition.json](./107173-edna-and-harvey-the-breakout-10th-anniversary-edition.json) |
 | Edna: Out of Sight, Out of Control | 210676 | [210676-edna-out-of-sight-out-of-control.json](./210676-edna-out-of-sight-out-of-control.json) |
+| Ednaldo Pereira: Mescladasso | 143501 | [143501-ednaldo-pereira-mescladasso.json](./143501-ednaldo-pereira-mescladasso.json) |
 | Edolie | 35755 | [35755-edolie.json](./35755-edolie.json) |
 | Edouard Roivas: The Eye of Law | 310413 | [310413-edouard-roivas-the-eye-of-law.json](./310413-edouard-roivas-the-eye-of-law.json) |
 | Edtris 2600 | 78031 | [78031-edtris-2600.json](./78031-edtris-2600.json) |
@@ -937,7 +938,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of Empires | 211966 | [211966-empire-of-empires.json](./211966-empire-of-empires.json) |
 | Empire of Revenant | 221180 | [221180-empire-of-revenant.json](./221180-empire-of-revenant.json) |
 | Empire of Sin: Day One Edition | 176888 | [176888-empire-of-sin-day-one-edition.json](./176888-empire-of-sin-day-one-edition.json) |
+| Empire of Sin: Deluxe Edition | 143486 | [143486-empire-of-sin-deluxe-edition.json](./143486-empire-of-sin-deluxe-edition.json) |
 | Empire of Sin: Make It Count | 193431 | [193431-empire-of-sin-make-it-count.json](./193431-empire-of-sin-make-it-count.json) |
+| Empire of Sin: Premium Edition | 143487 | [143487-empire-of-sin-premium-edition.json](./143487-empire-of-sin-premium-edition.json) |
 | Empire of the Ants: Digital Deluxe Edition | 320754 | [320754-empire-of-the-ants-digital-deluxe-edition.json](./320754-empire-of-the-ants-digital-deluxe-edition.json) |
 | Empire of Vice: Chicago | 388258 | [388258-empire-of-vice-chicago.json](./388258-empire-of-vice-chicago.json) |
 | Empire Origin: Rise | 258204 | [258204-empire-origin-rise.json](./258204-empire-origin-rise.json) |
@@ -1623,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape The Forest | 301828 | [301828-escape-the-forest.json](./301828-escape-the-forest.json) |
 | Escape the Marine Lab | 406693 | [406693-escape-the-marine-lab.json](./406693-escape-the-marine-lab.json) |
 | Escape the Museum | 6668 | [6668-escape-the-museum.json](./6668-escape-the-museum.json) |
+| Escape the Museum 2 | 143483 | [143483-escape-the-museum-2.json](./143483-escape-the-museum-2.json) |
 | Escape the Office | 100729 | [100729-escape-the-office.json](./100729-escape-the-office.json) |
 | Escape the past Collection | 177053 | [177053-escape-the-past-collection.json](./177053-escape-the-past-collection.json) |
 | Escape the Prison: 3 Days to Freedom | 248657 | [248657-escape-the-prison-3-days-to-freedom.json](./248657-escape-the-prison-3-days-to-freedom.json) |
@@ -1799,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity Convergence | 156135 | [156135-eternity-convergence.json](./156135-eternity-convergence.json) |
 | Eternity Guards | 148488 | [148488-eternity-guards.json](./148488-eternity-guards.json) |
 | Eternium: Mage and Minions | 193967 | [193967-eternium-mage-and-minions.json](./193967-eternium-mage-and-minions.json) |
+| Eterspire | 143526 | [143526-eterspire.json](./143526-eterspire.json) |
 | Ethan's Watch | 390613 | [390613-ethans-watch.json](./390613-ethans-watch.json) |
 | Ether | 311502 | [311502-ether.json](./311502-ether.json) |
 | Ether Loop | 126735 | [126735-ether-loop.json](./126735-ether-loop.json) |
