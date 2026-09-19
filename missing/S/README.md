@@ -1810,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Play: BDSM | 263760 | [263760-sex-play-bdsm.json](./263760-sex-play-bdsm.json) |
 | Sex Play: The Sauna | 264636 | [264636-sex-play-the-sauna.json](./264636-sex-play-the-sauna.json) |
 | Sex Play: Tropical Vacation | 272934 | [272934-sex-play-tropical-vacation.json](./272934-sex-play-tropical-vacation.json) |
+| Sex Prison | 175795 | [175795-sex-prison.json](./175795-sex-prison.json) |
 | Sex Search | 230950 | [230950-sex-search.json](./230950-sex-search.json) |
 | Sex Search 2: Ultimate | 204430 | [204430-sex-search-2-ultimate.json](./204430-sex-search-2-ultimate.json) |
 | Sex Shop Simulator | 330188 | [330188-sex-shop-simulator.json](./330188-sex-shop-simulator.json) |
@@ -5930,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shapes | 126567 | [126567-space-shapes.json](./126567-space-shapes.json) |
 | Space Shark Wrangle Fest | 245843 | [245843-space-shark-wrangle-fest.json](./245843-space-shark-wrangle-fest.json) |
 | Space Shells | 204100 | [204100-space-shells.json](./204100-space-shells.json) |
+| Space Ship | 175828 | [175828-space-ship.json](./175828-space-ship.json) |
 | Space ships | 104696 | [104696-space-ships.json](./104696-space-ships.json) |
 | Space Shoot | 346126 | [346126-space-shoot.json](./346126-space-shoot.json) |
 | Space Shooter | 186184 | [186184-space-shooter.json](./186184-space-shooter.json) |
@@ -6157,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Forces: Team X | 16403 | [16403-special-forces-team-x.json](./16403-special-forces-team-x.json) |
 | Special girls | 178512 | [178512-special-girls.json](./178512-special-girls.json) |
 | Special Meat | 411610 | [411610-special-meat.json](./411610-special-meat.json) |
+| Special Mission | 175822 | [175822-special-mission.json](./175822-special-mission.json) |
 | Special Sampler | 55925 | [55925-special-sampler.json](./55925-special-sampler.json) |
 | Special Tee Shot | 60587 | [60587-special-tee-shot.json](./60587-special-tee-shot.json) |
 | Special Transport Simulator 2013 | 54384 | [54384-special-transport-simulator-2013.json](./54384-special-transport-simulator-2013.json) |
@@ -6381,6 +6384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Roulette | 386694 | [386694-spider-roulette.json](./386694-spider-roulette.json) |
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
 | Spider Solitaire Pro! | 89182 | [89182-spider-solitaire-pro.json](./89182-spider-solitaire-pro.json) |
+| Spider Tanks | 175785 | [175785-spider-tanks.json](./175785-spider-tanks.json) |
 | Spider Ultimate | 100738 | [100738-spider-ultimate.json](./100738-spider-ultimate.json) |
 | Spider Wars | 33209 | [33209-spider-wars.json](./33209-spider-wars.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
@@ -9530,6 +9534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Prostate Exam | 323900 | [323900-super-mario-prostate-exam.json](./323900-super-mario-prostate-exam.json) |
 | Super Mario RPG 2 | 231474 | [231474-super-mario-rpg-2.json](./231474-super-mario-rpg-2.json) |
 | Super Mario RPG: Legend of the Seven Stars | 5418 | [5418-super-mario-rpg-legend-of-the-seven-stars.json](./5418-super-mario-rpg-legend-of-the-seven-stars.json) |
+| Super Mario RPG: The Seven Sages | 175832 | [175832-super-mario-rpg-the-seven-sages.json](./175832-super-mario-rpg-the-seven-sages.json) |
 | Super Mario RPG: The Starlite Worlds | 175887 | [175887-super-mario-rpg-the-starlite-worlds.json](./175887-super-mario-rpg-the-starlite-worlds.json) |
 | Super Mario Senseless Delirium | 199032 | [199032-super-mario-senseless-delirium.json](./199032-super-mario-senseless-delirium.json) |
 | Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
@@ -10406,6 +10411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweets and Swipes | 259555 | [259555-sweets-and-swipes.json](./259555-sweets-and-swipes.json) |
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
 | Sweets Inc | 290531 | [290531-sweets-inc.json](./290531-sweets-inc.json) |
+| Sweets Swap Classic | 175821 | [175821-sweets-swap-classic.json](./175821-sweets-swap-classic.json) |
 | Sweety Kitty 2 | 224774 | [224774-sweety-kitty-2.json](./224774-sweety-kitty-2.json) |
 | Sweety Sweets | 259024 | [259024-sweety-sweets.json](./259024-sweety-sweets.json) |
 | Swell | 262974 | [262974-swell.json](./262974-swell.json) |
