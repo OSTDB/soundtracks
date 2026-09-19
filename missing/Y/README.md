@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yohane the Parhelion: Numazu in the Mirage - Costume "Trendy Schoolgirl" | 315498 | [315498-yohane-the-parhelion-numazu-in-the-mirage-costume-trendy-schoolgirl.json](./315498-yohane-the-parhelion-numazu-in-the-mirage-costume-trendy-schoolgirl.json) |
 | Yoiyami Biscuit | 307308 | [307308-yoiyami-biscuit.json](./307308-yoiyami-biscuit.json) |
 | Yokai Art: Night Parade of One Hundred Demons | 195726 | [195726-yokai-art-night-parade-of-one-hundred-demons.json](./195726-yokai-art-night-parade-of-one-hundred-demons.json) |
+| Yokai Inn | 152181 | [152181-yokai-inn.json](./152181-yokai-inn.json) |
 | Yokai Jiken Aratamegata no Kobanashi | 77369 | [77369-yokai-jiken-aratamegata-no-kobanashi.json](./77369-yokai-jiken-aratamegata-no-kobanashi.json) |
 | Yokai Moon | 183511 | [183511-yokai-moon.json](./183511-yokai-moon.json) |
 | Yokai Rescue | 309868 | [309868-yokai-rescue.json](./309868-yokai-rescue.json) |
