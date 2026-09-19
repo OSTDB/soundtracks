@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000: The All-Mother's Embrace | 326044 | [326044-1000-the-all-mothers-embrace.json](./326044-1000-the-all-mothers-embrace.json) |
 | 1000xResist | 218282 | [218282-1000xresist.json](./218282-1000xresist.json) |
 | 1001 Crystal Mazes Collection | 66625 | [66625-1001-crystal-mazes-collection.json](./66625-1001-crystal-mazes-collection.json) |
+| 1001 Jigsaw Detective | 166639 | [166639-1001-jigsaw-detective.json](./166639-1001-jigsaw-detective.json) |
 | 1001 Jigsaw Detective 3 | 268027 | [268027-1001-jigsaw-detective-3.json](./268027-1001-jigsaw-detective-3.json) |
 | 1001 Jigsaw: 6 Magic Elements | 268037 | [268037-1001-jigsaw-6-magic-elements.json](./268037-1001-jigsaw-6-magic-elements.json) |
 | 1001 Jigsaw: Castles and Palaces 5 | 257464 | [257464-1001-jigsaw-castles-and-palaces-5.json](./257464-1001-jigsaw-castles-and-palaces-5.json) |
