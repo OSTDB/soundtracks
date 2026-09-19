@@ -3375,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Kings 2: Episode 2 "The Pool Party" Reworked | 354495 | [354495-college-kings-2-episode-2-the-pool-party-reworked.json](./354495-college-kings-2-episode-2-the-pool-party-reworked.json) |
 | College Kings 2: Episode 3 "Back To Basics" | 354498 | [354498-college-kings-2-episode-3-back-to-basics.json](./354498-college-kings-2-episode-3-back-to-basics.json) |
 | College Kings 2: Episodes 4 & 5 "Moving Out" | 284908 | [284908-college-kings-2-episodes-4-and-5-moving-out.json](./284908-college-kings-2-episodes-4-and-5-moving-out.json) |
+| College Kings: Act I | 148375 | [148375-college-kings-act-i.json](./148375-college-kings-act-i.json) |
 | College Kings: Act II | 215753 | [215753-college-kings-act-ii.json](./215753-college-kings-act-ii.json) |
 | College Kings: Act III | 215756 | [215756-college-kings-act-iii.json](./215756-college-kings-act-iii.json) |
 | College Kings: Act IV | 215757 | [215757-college-kings-act-iv.json](./215757-college-kings-act-iv.json) |
@@ -3892,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflux | 320520 | [320520-conflux.json](./320520-conflux.json) |
 | Confrontation | 282719 | [282719-confrontation.json](./282719-confrontation.json) |
 | Confused? | 71490 | [71490-confused.json](./71490-confused.json) |
+| Confusing game | 148340 | [148340-confusing-game.json](./148340-confusing-game.json) |
 | Confusion Readily Achieved Perspectively Through Unrealistic Relative Dimensions | 283740 | [283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json](./283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json) |
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
 | Congo Bongo | 5669 | [5669-congo-bongo.json](./5669-congo-bongo.json) |
