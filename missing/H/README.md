@@ -266,7 +266,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Custom Edition | 243116 | [243116-halo-custom-edition.json](./243116-halo-custom-edition.json) |
 | Halo: GoldSource | 352185 | [352185-halo-goldsource.json](./352185-halo-goldsource.json) |
 | Halo: Operation - Solar Flare | 351087 | [351087-halo-operation-solar-flare.json](./351087-halo-operation-solar-flare.json) |
+| Halo: Reach - Anniversary Map Pack | 176904 | [176904-halo-reach-anniversary-map-pack.json](./176904-halo-reach-anniversary-map-pack.json) |
+| Halo: Reach - Defiant Map Pack | 176905 | [176905-halo-reach-defiant-map-pack.json](./176905-halo-reach-defiant-map-pack.json) |
 | Halo: Reach - Legendary Edition | 43954 | [43954-halo-reach-legendary-edition.json](./43954-halo-reach-legendary-edition.json) |
+| Halo: Reach - Noble Map Pack | 176906 | [176906-halo-reach-noble-map-pack.json](./176906-halo-reach-noble-map-pack.json) |
 | Halo: The Master Chief Collection Season 1 - Noble | 205048 | [205048-halo-the-master-chief-collection-season-1-noble.json](./205048-halo-the-master-chief-collection-season-1-noble.json) |
 | Halo: The Master Chief Collection Season 2 - Spark | 205049 | [205049-halo-the-master-chief-collection-season-2-spark.json](./205049-halo-the-master-chief-collection-season-2-spark.json) |
 | Halo: The Master Chief Collection Season 3 - Recon | 205055 | [205055-halo-the-master-chief-collection-season-3-recon.json](./205055-halo-the-master-chief-collection-season-3-recon.json) |
@@ -1062,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenly Heroes of Antidomi | 211784 | [211784-heavenly-heroes-of-antidomi.json](./211784-heavenly-heroes-of-antidomi.json) |
 | Heavenly Sword | 7318 | [7318-heavenly-sword.json](./7318-heavenly-sword.json) |
 | Heavenstrafer | 267461 | [267461-heavenstrafer.json](./267461-heavenstrafer.json) |
+| Heaventaker | 176917 | [176917-heaventaker.json](./176917-heaventaker.json) |
 | HeavenX | 339841 | [339841-heavenx.json](./339841-heavenx.json) |
 | Heavy As Stone | 322601 | [322601-heavy-as-stone.json](./322601-heavy-as-stone.json) |
 | Heavy Burden VR | 372459 | [372459-heavy-burden-vr.json](./372459-heavy-burden-vr.json) |
@@ -2010,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden in my Paradise | 291242 | [291242-hidden-in-my-paradise.json](./291242-hidden-in-my-paradise.json) |
 | Hidden in the Dark | 210884 | [210884-hidden-in-the-dark.json](./210884-hidden-in-the-dark.json) |
 | Hidden Investigation 2: Homicide | 177055 | [177055-hidden-investigation-2-homicide.json](./177055-hidden-investigation-2-homicide.json) |
+| Hidden Investigation 3: Crime Files | 176898 | [176898-hidden-investigation-3-crime-files.json](./176898-hidden-investigation-3-crime-files.json) |
 | Hidden Investigation: Who Did It? | 177042 | [177042-hidden-investigation-who-did-it.json](./177042-hidden-investigation-who-did-it.json) |
 | Hidden Islands | 187398 | [187398-hidden-islands.json](./187398-hidden-islands.json) |
 | Hidden Kingdom: Top-Down 3D | 257068 | [257068-hidden-kingdom-top-down-3d.json](./257068-hidden-kingdom-top-down-3d.json) |
@@ -2873,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horgihugh and Friends | 193534 | [193534-horgihugh-and-friends.json](./193534-horgihugh-and-friends.json) |
 | Horizon | 16513 | [16513-horizon.json](./16513-horizon.json) |
 | Horizon Beyond | 121592 | [121592-horizon-beyond.json](./121592-horizon-beyond.json) |
+| Horizon Chase Turbo: Senna Forever | 176882 | [176882-horizon-chase-turbo-senna-forever.json](./176882-horizon-chase-turbo-senna-forever.json) |
 | Horizon Forbidden West: Complete Edition | 268842 | [268842-horizon-forbidden-west-complete-edition.json](./268842-horizon-forbidden-west-complete-edition.json) |
 | Horizon of History | 30763 | [30763-horizon-of-history.json](./30763-horizon-of-history.json) |
 | Horizon Shift | 17896 | [17896-horizon-shift.json](./17896-horizon-shift.json) |
