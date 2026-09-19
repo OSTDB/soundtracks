@@ -1569,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Wizard War | 391607 | [391607-wild-wizard-war.json](./391607-wild-wizard-war.json) |
 | Wild Wolf | 81013 | [81013-wild-wolf.json](./81013-wild-wolf.json) |
 | Wild Wolf Simulator 3D | 200662 | [200662-wild-wolf-simulator-3d.json](./200662-wild-wolf-simulator-3d.json) |
+| Wild Wood | 141688 | [141688-wild-wood.json](./141688-wild-wood.json) |
 | Wild world | 150629 | [150629-wild-world.json](./150629-wild-world.json) |
 | Wildagotchi: Virtual Pet | 261344 | [261344-wildagotchi-virtual-pet.json](./261344-wildagotchi-virtual-pet.json) |
 | Wildagotchi: Virtual Pet - Deluxe Edition | 277304 | [277304-wildagotchi-virtual-pet-deluxe-edition.json](./277304-wildagotchi-virtual-pet-deluxe-edition.json) |
@@ -1753,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 2 | 37767 | [37767-winning-post-2.json](./37767-winning-post-2.json) |
 | Winning Post 7 2010 | 194007 | [194007-winning-post-7-2010.json](./194007-winning-post-7-2010.json) |
 | Winning Post 7 Maximum 2008 | 5283 | [5283-winning-post-7-maximum-2008.json](./5283-winning-post-7-maximum-2008.json) |
+| Winning Post 9: 2021 | 141651 | [141651-winning-post-9-2021.json](./141651-winning-post-9-2021.json) |
 | Winning Tactics | 368492 | [368492-winning-tactics.json](./368492-winning-tactics.json) |
 | WinPlex | 94723 | [94723-winplex.json](./94723-winplex.json) |
 | Winslow | 367483 | [367483-winslow.json](./367483-winslow.json) |
@@ -2105,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder World Amusement Park | 5286 | [5286-wonder-world-amusement-park.json](./5286-wonder-world-amusement-park.json) |
 | Wonderball Heroes | 83581 | [83581-wonderball-heroes.json](./83581-wonderball-heroes.json) |
 | Wonderbook: Diggs Nightcrawler | 25090 | [25090-wonderbook-diggs-nightcrawler.json](./25090-wonderbook-diggs-nightcrawler.json) |
+| Wonderful Dizzy | 141687 | [141687-wonderful-dizzy.json](./141687-wonderful-dizzy.json) |
 | Wonderful Duck | 182991 | [182991-wonderful-duck.json](./182991-wonderful-duck.json) |
 | Wonderful Girls | 156620 | [156620-wonderful-girls.json](./156620-wonderful-girls.json) |
 | Wonderful mini golf | 175301 | [175301-wonderful-mini-golf.json](./175301-wonderful-mini-golf.json) |
