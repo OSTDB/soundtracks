@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T08:47:35.427Z",
-  "total_missing": 91471,
+  "generated_at": "2026-09-19T09:02:29.679Z",
+  "total_missing": 91521,
   "games": [
     {
       "igdb_id": 176875,
@@ -64518,6 +64518,11 @@
       "file": "missing/C/212814-chill-town.json"
     },
     {
+      "igdb_id": 161260,
+      "game_name": "Chill X",
+      "file": "missing/C/161260-chill-x.json"
+    },
+    {
       "igdb_id": 262421,
       "game_name": "Chilled Chicken",
       "file": "missing/C/262421-chilled-chicken.json"
@@ -71576,6 +71581,21 @@
       "igdb_id": 406187,
       "game_name": "Coloring Game 5.6",
       "file": "missing/C/406187-coloring-game-5-6.json"
+    },
+    {
+      "igdb_id": 161254,
+      "game_name": "Coloring Game: Expansion Pack No. 1",
+      "file": "missing/C/161254-coloring-game-expansion-pack-no-1.json"
+    },
+    {
+      "igdb_id": 161255,
+      "game_name": "Coloring Game: Expansion Pack No. 2",
+      "file": "missing/C/161255-coloring-game-expansion-pack-no-2.json"
+    },
+    {
+      "igdb_id": 161256,
+      "game_name": "Coloring Game: Expansion Pack No. 3",
+      "file": "missing/C/161256-coloring-game-expansion-pack-no-3.json"
     },
     {
       "igdb_id": 255329,
@@ -84321,6 +84341,11 @@
       "igdb_id": 360596,
       "game_name": "DA-VI-NC1",
       "file": "missing/D/360596-da-vi-nc1.json"
+    },
+    {
+      "igdb_id": 161258,
+      "game_name": "Da! Russian Quiz",
+      "file": "missing/D/161258-da-russian-quiz.json"
     },
     {
       "igdb_id": 151190,
@@ -167533,6 +167558,11 @@
       "file": "missing/H/389618-hentai-clicker-yumi-is-streaming.json"
     },
     {
+      "igdb_id": 161257,
+      "game_name": "Hentai Coloring Game",
+      "file": "missing/H/161257-hentai-coloring-game.json"
+    },
+    {
       "igdb_id": 136424,
       "game_name": "Hentai Crush",
       "file": "missing/H/136424-hentai-crush.json"
@@ -172671,6 +172701,91 @@
       "igdb_id": 97012,
       "game_name": "Hiveswap Friendsim",
       "file": "missing/H/97012-hiveswap-friendsim.json"
+    },
+    {
+      "igdb_id": 161243,
+      "game_name": "Hiveswap Friendsim: Volume Eight",
+      "file": "missing/H/161243-hiveswap-friendsim-volume-eight.json"
+    },
+    {
+      "igdb_id": 161253,
+      "game_name": "Hiveswap Friendsim: Volume Eighteen",
+      "file": "missing/H/161253-hiveswap-friendsim-volume-eighteen.json"
+    },
+    {
+      "igdb_id": 161246,
+      "game_name": "Hiveswap Friendsim: Volume Eleven",
+      "file": "missing/H/161246-hiveswap-friendsim-volume-eleven.json"
+    },
+    {
+      "igdb_id": 161250,
+      "game_name": "Hiveswap Friendsim: Volume Fifteen",
+      "file": "missing/H/161250-hiveswap-friendsim-volume-fifteen.json"
+    },
+    {
+      "igdb_id": 161240,
+      "game_name": "Hiveswap Friendsim: Volume Five",
+      "file": "missing/H/161240-hiveswap-friendsim-volume-five.json"
+    },
+    {
+      "igdb_id": 161239,
+      "game_name": "Hiveswap Friendsim: Volume Four",
+      "file": "missing/H/161239-hiveswap-friendsim-volume-four.json"
+    },
+    {
+      "igdb_id": 161249,
+      "game_name": "Hiveswap Friendsim: Volume Fourteen",
+      "file": "missing/H/161249-hiveswap-friendsim-volume-fourteen.json"
+    },
+    {
+      "igdb_id": 161244,
+      "game_name": "Hiveswap Friendsim: Volume Nine",
+      "file": "missing/H/161244-hiveswap-friendsim-volume-nine.json"
+    },
+    {
+      "igdb_id": 161242,
+      "game_name": "Hiveswap Friendsim: Volume Seven",
+      "file": "missing/H/161242-hiveswap-friendsim-volume-seven.json"
+    },
+    {
+      "igdb_id": 161252,
+      "game_name": "Hiveswap Friendsim: Volume Seventeen",
+      "file": "missing/H/161252-hiveswap-friendsim-volume-seventeen.json"
+    },
+    {
+      "igdb_id": 161241,
+      "game_name": "Hiveswap Friendsim: Volume Six",
+      "file": "missing/H/161241-hiveswap-friendsim-volume-six.json"
+    },
+    {
+      "igdb_id": 161251,
+      "game_name": "Hiveswap Friendsim: Volume Sixteen",
+      "file": "missing/H/161251-hiveswap-friendsim-volume-sixteen.json"
+    },
+    {
+      "igdb_id": 161245,
+      "game_name": "Hiveswap Friendsim: Volume Ten",
+      "file": "missing/H/161245-hiveswap-friendsim-volume-ten.json"
+    },
+    {
+      "igdb_id": 161248,
+      "game_name": "Hiveswap Friendsim: Volume Thirteen",
+      "file": "missing/H/161248-hiveswap-friendsim-volume-thirteen.json"
+    },
+    {
+      "igdb_id": 161238,
+      "game_name": "Hiveswap Friendsim: Volume Three",
+      "file": "missing/H/161238-hiveswap-friendsim-volume-three.json"
+    },
+    {
+      "igdb_id": 161247,
+      "game_name": "Hiveswap Friendsim: Volume Twelve",
+      "file": "missing/H/161247-hiveswap-friendsim-volume-twelve.json"
+    },
+    {
+      "igdb_id": 161237,
+      "game_name": "Hiveswap Friendsim: Volume Two",
+      "file": "missing/H/161237-hiveswap-friendsim-volume-two.json"
     },
     {
       "igdb_id": 146842,
@@ -197308,6 +197423,11 @@
       "file": "missing/K/182536-katjepult.json"
     },
     {
+      "igdb_id": 161225,
+      "game_name": "Kato",
+      "file": "missing/K/161225-kato.json"
+    },
+    {
       "igdb_id": 340785,
       "game_name": "Kato Pirato",
       "file": "missing/K/340785-kato-pirato.json"
@@ -217071,6 +217191,11 @@
       "igdb_id": 143667,
       "game_name": "Love 2 Torokko",
       "file": "missing/L/143667-love-2-torokko.json"
+    },
+    {
+      "igdb_id": 161222,
+      "game_name": "Love 3",
+      "file": "missing/L/161222-love-3.json"
     },
     {
       "igdb_id": 186829,
@@ -271283,6 +271408,11 @@
       "file": "missing/O/281395-oven-dodgers.json"
     },
     {
+      "igdb_id": 161223,
+      "game_name": "Over Circle",
+      "file": "missing/O/161223-over-circle.json"
+    },
+    {
       "igdb_id": 406076,
       "game_name": "Over Engineered",
       "file": "missing/O/406076-over-engineered.json"
@@ -279171,6 +279301,11 @@
       "igdb_id": 317211,
       "game_name": "Pet Kawaii Shop",
       "file": "missing/P/317211-pet-kawaii-shop.json"
+    },
+    {
+      "igdb_id": 161262,
+      "game_name": "Pet Knight into cave",
+      "file": "missing/P/161262-pet-knight-into-cave.json"
     },
     {
       "igdb_id": 254594,
@@ -343523,6 +343658,11 @@
       "file": "missing/S/311244-solar-sweets.json"
     },
     {
+      "igdb_id": 161261,
+      "game_name": "Solar System Colonist",
+      "file": "missing/S/161261-solar-system-colonist.json"
+    },
+    {
       "igdb_id": 35768,
       "game_name": "Solar System Conflict",
       "file": "missing/S/35768-solar-system-conflict.json"
@@ -359253,6 +359393,61 @@
       "file": "missing/S/30288-stern-pinball-arcade.json"
     },
     {
+      "igdb_id": 161229,
+      "game_name": "Stern Pinball Arcade: AC/DC",
+      "file": "missing/S/161229-stern-pinball-arcade-ac-dc.json"
+    },
+    {
+      "igdb_id": 161232,
+      "game_name": "Stern Pinball Arcade: Ghostbusters Premium",
+      "file": "missing/S/161232-stern-pinball-arcade-ghostbusters-premium.json"
+    },
+    {
+      "igdb_id": 161230,
+      "game_name": "Stern Pinball Arcade: Harley-Davidson",
+      "file": "missing/S/161230-stern-pinball-arcade-harley-davidson.json"
+    },
+    {
+      "igdb_id": 161233,
+      "game_name": "Stern Pinball Arcade: High Roller Casino",
+      "file": "missing/S/161233-stern-pinball-arcade-high-roller-casino.json"
+    },
+    {
+      "igdb_id": 161228,
+      "game_name": "Stern Pinball Arcade: Last Action Hero",
+      "file": "missing/S/161228-stern-pinball-arcade-last-action-hero.json"
+    },
+    {
+      "igdb_id": 161235,
+      "game_name": "Stern Pinball Arcade: Mary Shelley's Frankenstein",
+      "file": "missing/S/161235-stern-pinball-arcade-mary-shelleys-frankenstein.json"
+    },
+    {
+      "igdb_id": 161236,
+      "game_name": "Stern Pinball Arcade: Mustang",
+      "file": "missing/S/161236-stern-pinball-arcade-mustang.json"
+    },
+    {
+      "igdb_id": 161227,
+      "game_name": "Stern Pinball Arcade: Phantom of the Opera",
+      "file": "missing/S/161227-stern-pinball-arcade-phantom-of-the-opera.json"
+    },
+    {
+      "igdb_id": 161234,
+      "game_name": "Stern Pinball Arcade: Ripley's Believe It or Not!",
+      "file": "missing/S/161234-stern-pinball-arcade-ripleys-believe-it-or-not.json"
+    },
+    {
+      "igdb_id": 161231,
+      "game_name": "Stern Pinball Arcade: Star Trek",
+      "file": "missing/S/161231-stern-pinball-arcade-star-trek.json"
+    },
+    {
+      "igdb_id": 161226,
+      "game_name": "Stern Pinball Arcade: Starship Troopers",
+      "file": "missing/S/161226-stern-pinball-arcade-starship-troopers.json"
+    },
+    {
       "igdb_id": 45323,
       "game_name": "Steve Davis Snooker",
       "file": "missing/S/45323-steve-davis-snooker.json"
@@ -369753,6 +369948,11 @@
       "file": "missing/S/316615-superguy-and-megaboy.json"
     },
     {
+      "igdb_id": 161259,
+      "game_name": "SuperHero",
+      "file": "missing/S/161259-superhero.json"
+    },
+    {
       "igdb_id": 193333,
       "game_name": "Superhero Fight",
       "file": "missing/S/193333-superhero-fight.json"
@@ -373821,6 +374021,51 @@
       "igdb_id": 85419,
       "game_name": "Tabletop Gallery",
       "file": "missing/T/85419-tabletop-gallery.json"
+    },
+    {
+      "igdb_id": 161264,
+      "game_name": "Tabletop Simulator: Down in Flames - Locked-On",
+      "file": "missing/T/161264-tabletop-simulator-down-in-flames-locked-on.json"
+    },
+    {
+      "igdb_id": 161270,
+      "game_name": "Tabletop Simulator: Draco Magi",
+      "file": "missing/T/161270-tabletop-simulator-draco-magi.json"
+    },
+    {
+      "igdb_id": 161271,
+      "game_name": "Tabletop Simulator: Scythe",
+      "file": "missing/T/161271-tabletop-simulator-scythe.json"
+    },
+    {
+      "igdb_id": 161266,
+      "game_name": "Tabletop Simulator: Superfight",
+      "file": "missing/T/161266-tabletop-simulator-superfight.json"
+    },
+    {
+      "igdb_id": 161268,
+      "game_name": "Tabletop Simulator: The Red Dragon Inn - Battle For Greyport",
+      "file": "missing/T/161268-tabletop-simulator-the-red-dragon-inn-battle-for-greyport.json"
+    },
+    {
+      "igdb_id": 161269,
+      "game_name": "Tabletop Simulator: Tiny Epic Galaxies",
+      "file": "missing/T/161269-tabletop-simulator-tiny-epic-galaxies.json"
+    },
+    {
+      "igdb_id": 161263,
+      "game_name": "Tabletop Simulator: Tortuga 1667",
+      "file": "missing/T/161263-tabletop-simulator-tortuga-1667.json"
+    },
+    {
+      "igdb_id": 161265,
+      "game_name": "Tabletop Simulator: Xia - Legends of a Drift System",
+      "file": "missing/T/161265-tabletop-simulator-xia-legends-of-a-drift-system.json"
+    },
+    {
+      "igdb_id": 161267,
+      "game_name": "Tabletop Simulator: Zombicide",
+      "file": "missing/T/161267-tabletop-simulator-zombicide.json"
     },
     {
       "igdb_id": 33239,
@@ -446201,6 +446446,11 @@
       "igdb_id": 96742,
       "game_name": "Word Finder - Word Connect",
       "file": "missing/W/96742-word-finder-word-connect.json"
+    },
+    {
+      "igdb_id": 161224,
+      "game_name": "Word Game",
+      "file": "missing/W/161224-word-game.json"
     },
     {
       "igdb_id": 96070,
