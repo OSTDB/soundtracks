@@ -337,7 +337,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nautus | 414355 | [414355-nautus.json](./414355-nautus.json) |
 | Nav's Endless Nightmare | 182537 | [182537-navs-endless-nightmare.json](./182537-navs-endless-nightmare.json) |
 | Naval Battles Simulator | 130705 | [130705-naval-battles-simulator.json](./130705-naval-battles-simulator.json) |
+| Naval Campaigns Guadalcanal | 141668 | [141668-naval-campaigns-guadalcanal.json](./141668-naval-campaigns-guadalcanal.json) |
+| Naval Campaigns Jutland | 141670 | [141670-naval-campaigns-jutland.json](./141670-naval-campaigns-jutland.json) |
 | Naval Campaigns Kriegsmarine | 202918 | [202918-naval-campaigns-kriegsmarine.json](./202918-naval-campaigns-kriegsmarine.json) |
+| Naval Campaigns Midway | 141667 | [141667-naval-campaigns-midway.json](./141667-naval-campaigns-midway.json) |
+| Naval Campaigns Tsushima | 141669 | [141669-naval-campaigns-tsushima.json](./141669-naval-campaigns-tsushima.json) |
+| Naval Campaigns Wolfpack | 141666 | [141666-naval-campaigns-wolfpack.json](./141666-naval-campaigns-wolfpack.json) |
 | Naval Creed: Warships | 239921 | [239921-naval-creed-warships.json](./239921-naval-creed-warships.json) |
 | Naval Hurricane | 217324 | [217324-naval-hurricane.json](./217324-naval-hurricane.json) |
 | Naval Ops: Warship Gunner 2 | 20496 | [20496-naval-ops-warship-gunner-2.json](./20496-naval-ops-warship-gunner-2.json) |
