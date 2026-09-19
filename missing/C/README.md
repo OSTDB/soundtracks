@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child of Abyss | 167293 | [167293-child-of-abyss.json](./167293-child-of-abyss.json) |
 | Child of Hope | 190228 | [190228-child-of-hope.json](./190228-child-of-hope.json) |
 | Child of Light: Limited Edition | 166238 | [166238-child-of-light-limited-edition.json](./166238-child-of-light-limited-edition.json) |
+| Child of Light: The Golem's Plight Pack | 170390 | [170390-child-of-light-the-golems-plight-pack.json](./170390-child-of-light-the-golems-plight-pack.json) |
 | Child of Luminescence | 350521 | [350521-child-of-luminescence.json](./350521-child-of-luminescence.json) |
 | Child of Ruin | 298876 | [298876-child-of-ruin.json](./298876-child-of-ruin.json) |
 | Child Run: City Surfers Runner | 245915 | [245915-child-run-city-surfers-runner.json](./245915-child-run-city-surfers-runner.json) |
@@ -3642,6 +3643,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command Center Earth | 273634 | [273634-command-center-earth.json](./273634-command-center-earth.json) |
 | Command Line Mazer | 203972 | [203972-command-line-mazer.json](./203972-command-line-mazer.json) |
 | Command Monster | 413763 | [413763-command-monster.json](./413763-command-monster.json) |
+| Command Ops 2: Bastogne Vol. 4 | 170396 | [170396-command-ops-2-bastogne-vol-4.json](./170396-command-ops-2-bastogne-vol-4.json) |
+| Command Ops 2: Bradley at Bay Vol. 8 | 170395 | [170395-command-ops-2-bradley-at-bay-vol-8.json](./170395-command-ops-2-bradley-at-bay-vol-8.json) |
+| Command Ops 2: Foothills of the Gods Vol. 2 | 170394 | [170394-command-ops-2-foothills-of-the-gods-vol-2.json](./170394-command-ops-2-foothills-of-the-gods-vol-2.json) |
+| Command Ops 2: Highway to the Reich Vol. 1 | 170392 | [170392-command-ops-2-highway-to-the-reich-vol-1.json](./170392-command-ops-2-highway-to-the-reich-vol-1.json) |
+| Command Ops 2: Knock on all Doors vol. 6 | 170393 | [170393-command-ops-2-knock-on-all-doors-vol-6.json](./170393-command-ops-2-knock-on-all-doors-vol-6.json) |
+| Command Ops 2: Ride of the Valkyries Vol. 3 | 170398 | [170398-command-ops-2-ride-of-the-valkyries-vol-3.json](./170398-command-ops-2-ride-of-the-valkyries-vol-3.json) |
+| Command Ops 2: The Cauldron Vol. 5 | 170397 | [170397-command-ops-2-the-cauldron-vol-5.json](./170397-command-ops-2-the-cauldron-vol-5.json) |
+| Command Ops 2: Westwall Vol. 7 | 170399 | [170399-command-ops-2-westwall-vol-7.json](./170399-command-ops-2-westwall-vol-7.json) |
 | Command Ops: Battles for Greece | 74324 | [74324-command-ops-battles-for-greece.json](./74324-command-ops-battles-for-greece.json) |
 | Command-Ω Omega | 357814 | [357814-command-omega.json](./357814-command-omega.json) |
 | Command: Modern Operations - Chains of War | 167870 | [167870-command-modern-operations-chains-of-war.json](./167870-command-modern-operations-chains-of-war.json) |
