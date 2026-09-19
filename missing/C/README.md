@@ -3140,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Co Operation: MultiTurn | 217500 | [217500-co-operation-multiturn.json](./217500-co-operation-multiturn.json) |
 | Co-op Frenzy: Spirit of the Island + Biped Bundle | 214053 | [214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json](./214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json) |
 | Co-op Kaiju Horror Cooking | 355090 | [355090-co-op-kaiju-horror-cooking.json](./355090-co-op-kaiju-horror-cooking.json) |
+| Co-Open | 146704 | [146704-co-open.json](./146704-co-open.json) |
 | Coach Bus Driving Simulator | 308809 | [308809-coach-bus-driving-simulator.json](./308809-coach-bus-driving-simulator.json) |
 | Coagula Mappack #3 | 271482 | [271482-coagula-mappack-3.json](./271482-coagula-mappack-3.json) |
 | Coagula3: Bone | 271499 | [271499-coagula3-bone.json](./271499-coagula3-bone.json) |
@@ -4114,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Run: OvenSmash | 193973 | [193973-cookie-run-ovensmash.json](./193973-cookie-run-ovensmash.json) |
 | Cookie Run: Witch's Castle | 193964 | [193964-cookie-run-witchs-castle.json](./193964-cookie-run-witchs-castle.json) |
 | Cookie's Bakery | 181856 | [181856-cookies-bakery.json](./181856-cookies-bakery.json) |
+| Cookies | 146702 | [146702-cookies.json](./146702-cookies.json) |
 | Cookies Cookies Cookies | 205243 | [205243-cookies-cookies-cookies.json](./205243-cookies-cookies-cookies.json) |
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
 | Cookin' Idol I! My! Main! Game de Hirameki! Kirameki Cooking | 123019 | [123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json](./123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json) |
@@ -5732,6 +5734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed 2 | 196786 | [196786-cursed-2.json](./196786-cursed-2.json) |
 | Cursed Baby | 325831 | [325831-cursed-baby.json](./325831-cursed-baby.json) |
 | Cursed Bet | 253590 | [253590-cursed-bet.json](./253590-cursed-bet.json) |
+| Cursed Blocks | 146708 | [146708-cursed-blocks.json](./146708-cursed-blocks.json) |
 | Cursed Bloodline | 338253 | [338253-cursed-bloodline.json](./338253-cursed-bloodline.json) |
 | Cursed Cargo | 394329 | [394329-cursed-cargo.json](./394329-cursed-cargo.json) |
 | Cursed Castilla | 288182 | [288182-cursed-castilla.json](./288182-cursed-castilla.json) |
@@ -5894,6 +5897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Hentai | 149430 | [149430-cyber-hentai.json](./149430-cyber-hentai.json) |
 | Cyber​​ Honey | 193882 | [193882-cyber-honey.json](./193882-cyber-honey.json) |
 | Cyber Horror: Project S.Y.L.A. | 370110 | [370110-cyber-horror-project-s-y-l-a.json](./370110-cyber-horror-project-s-y-l-a.json) |
+| Cyber Illusion | 146724 | [146724-cyber-illusion.json](./146724-cyber-illusion.json) |
 | Cyber Internet Club Simulator | 296501 | [296501-cyber-internet-club-simulator.json](./296501-cyber-internet-club-simulator.json) |
 | Cyber Knight II: Chikyuu Teikoku no Yabou | 42548 | [42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json](./42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json) |
 | Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
