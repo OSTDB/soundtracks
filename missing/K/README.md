@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Pen & Paper 3 | 240898 | [240898-knights-of-pen-and-paper-3.json](./240898-knights-of-pen-and-paper-3.json) |
 | Knights of Pen and Paper II | 10126 | [10126-knights-of-pen-and-paper-ii.json](./10126-knights-of-pen-and-paper-ii.json) |
 | Knights of Pen and Paper II: Here Be Dragons | 53260 | [53260-knights-of-pen-and-paper-ii-here-be-dragons.json](./53260-knights-of-pen-and-paper-ii-here-be-dragons.json) |
+| Knights of Pen and Paper: Haunted Fall | 171459 | [171459-knights-of-pen-and-paper-haunted-fall.json](./171459-knights-of-pen-and-paper-haunted-fall.json) |
 | Knights of Puzzelot | 344431 | [344431-knights-of-puzzelot.json](./344431-knights-of-puzzelot.json) |
 | Knights of Riddle | 148479 | [148479-knights-of-riddle.json](./148479-knights-of-riddle.json) |
 | Knights of San Francisco | 174204 | [174204-knights-of-san-francisco.json](./174204-knights-of-san-francisco.json) |
@@ -1580,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kredolis | 151143 | [151143-kredolis.json](./151143-kredolis.json) |
 | Kreed | 95498 | [95498-kreed.json](./95498-kreed.json) |
 | Kreed: Battle for Savitar | 69822 | [69822-kreed-battle-for-savitar.json](./69822-kreed-battle-for-savitar.json) |
+| Kreepy Krawlers | 171468 | [171468-kreepy-krawlers.json](./171468-kreepy-krawlers.json) |
 | Krell | 93032 | [93032-krell.json](./93032-krell.json) |
 | Kremlin 3D | 320717 | [320717-kremlin-3d.json](./320717-kremlin-3d.json) |
 | Kremling Krushin | 231605 | [231605-kremling-krushin.json](./231605-kremling-krushin.json) |
