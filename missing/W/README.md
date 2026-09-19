@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Travelers | 356730 | [356730-wasteland-travelers.json](./356730-wasteland-travelers.json) |
 | Wastelander | 178100 | [178100-wastelander.json](./178100-wastelander.json) |
 | Wastelanders | 362823 | [362823-wastelanders.json](./362823-wastelanders.json) |
+| Wat A Life | 129023 | [129023-wat-a-life.json](./129023-wat-a-life.json) |
 | Wat? | 244277 | [244277-wat.json](./244277-wat.json) |
 | Wataju: My Super Fulfilling Real Life | 216786 | [216786-wataju-my-super-fulfilling-real-life.json](./216786-wataju-my-super-fulfilling-real-life.json) |
 | Watamari Part2: A Fake Marriage? | 375295 | [375295-watamari-part2-a-fake-marriage.json](./375295-watamari-part2-a-fake-marriage.json) |
@@ -1463,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why I was Born | 213488 | [213488-why-i-was-born.json](./213488-why-i-was-born.json) |
 | Why is this Dragon so Fucking Cute?? | 136854 | [136854-why-is-this-dragon-so-fucking-cute.json](./136854-why-is-this-dragon-so-fucking-cute.json) |
 | Why Me | 377147 | [377147-why-me.json](./377147-why-me.json) |
+| Why Neon Lights Again? | 128990 | [128990-why-neon-lights-again.json](./128990-why-neon-lights-again.json) |
 | Why Pizza? | 151545 | [151545-why-pizza.json](./151545-why-pizza.json) |
 | Why So Evil | 9368 | [9368-why-so-evil.json](./9368-why-so-evil.json) |
 | Why So Evil 2: Dystopia | 35629 | [35629-why-so-evil-2-dystopia.json](./35629-why-so-evil-2-dystopia.json) |
@@ -1586,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildbound | 347711 | [347711-wildbound.json](./347711-wildbound.json) |
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
 | Wildekin | 362280 | [362280-wildekin.json](./362280-wildekin.json) |
+| Wildemist Isle | 129008 | [129008-wildemist-isle.json](./129008-wildemist-isle.json) |
 | WilderLands | 382219 | [382219-wilderlands.json](./382219-wilderlands.json) |
 | Wilderless | 301964 | [301964-wilderless.json](./301964-wilderless.json) |
 | Wilderlocke | 356754 | [356754-wilderlocke.json](./356754-wilderlocke.json) |
