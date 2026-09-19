@@ -3528,6 +3528,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Gorilla | 267992 | [267992-donkey-gorilla.json](./267992-donkey-gorilla.json) |
 | Donkey King Arcade Game | 96713 | [96713-donkey-king-arcade-game.json](./96713-donkey-king-arcade-game.json) |
 | Donkey Kong | 1089 | [1089-donkey-kong.json](./1089-donkey-kong.json) |
+| Donkey Kong | 172013 | [172013-donkey-kong.json](./172013-donkey-kong.json) |
+| Donkey Kong | 172014 | [172014-donkey-kong.json](./172014-donkey-kong.json) |
+| Donkey Kong | 172015 | [172015-donkey-kong.json](./172015-donkey-kong.json) |
+| Donkey Kong | 172016 | [172016-donkey-kong.json](./172016-donkey-kong.json) |
+| Donkey Kong | 172017 | [172017-donkey-kong.json](./172017-donkey-kong.json) |
+| Donkey Kong | 172018 | [172018-donkey-kong.json](./172018-donkey-kong.json) |
+| Donkey Kong | 172019 | [172019-donkey-kong.json](./172019-donkey-kong.json) |
+| Donkey Kong | 172020 | [172020-donkey-kong.json](./172020-donkey-kong.json) |
 | Donkey Kong | 257637 | [257637-donkey-kong.json](./257637-donkey-kong.json) |
 | Donkey Kong | 270404 | [270404-donkey-kong.json](./270404-donkey-kong.json) |
 | Donkey Kong 3 | 178167 | [178167-donkey-kong-3.json](./178167-donkey-kong-3.json) |
