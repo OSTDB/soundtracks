@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Hibnernry Boneyard Ler Ardus | 397097 | [397097-of-hibnernry-boneyard-ler-ardus.json](./397097-of-hibnernry-boneyard-ler-ardus.json) |
 | Of Ice & Snow | 229783 | [229783-of-ice-and-snow.json](./229783-of-ice-and-snow.json) |
 | Of Life and Land | 188614 | [188614-of-life-and-land.json](./188614-of-life-and-land.json) |
+| Of Mist and Shadows | 133196 | [133196-of-mist-and-shadows.json](./133196-of-mist-and-shadows.json) |
 | Of Ships & Scoundrels | 110279 | [110279-of-ships-and-scoundrels.json](./110279-of-ships-and-scoundrels.json) |
 | Of the Red, the Light, and the Ayakashi Tsuzuri | 62190 | [62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json](./62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json) |
 | Of Three Plantagenets | 271848 | [271848-of-three-plantagenets.json](./271848-of-three-plantagenets.json) |
