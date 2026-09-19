@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venus Scrumble | 174734 | [174734-venus-scrumble.json](./174734-venus-scrumble.json) |
 | Venus Vacation Prism: Dead or Alive Xtreme | 318023 | [318023-venus-vacation-prism-dead-or-alive-xtreme.json](./318023-venus-vacation-prism-dead-or-alive-xtreme.json) |
 | Venus Voyager 2 | 292882 | [292882-venus-voyager-2.json](./292882-venus-voyager-2.json) |
+| Vera Blanc: Ghost in the Castle | 142852 | [142852-vera-blanc-ghost-in-the-castle.json](./142852-vera-blanc-ghost-in-the-castle.json) |
 | Vera Blanc: Supernatural Mysteries | 306516 | [306516-vera-blanc-supernatural-mysteries.json](./306516-vera-blanc-supernatural-mysteries.json) |
 | Vera: The Last Hope | 215673 | [215673-vera-the-last-hope.json](./215673-vera-the-last-hope.json) |
 | Verald Defense | 53874 | [53874-verald-defense.json](./53874-verald-defense.json) |
@@ -574,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
 | Vibrant Venture | 127991 | [127991-vibrant-venture.json](./127991-vibrant-venture.json) |
 | Vic Panic | 130371 | [130371-vic-panic.json](./130371-vic-panic.json) |
+| ViCam | 142857 | [142857-vicam.json](./142857-vicam.json) |
 | Vice City Race | 272392 | [272392-vice-city-race.json](./272392-vice-city-race.json) |
 | Vice Undercover | 204447 | [204447-vice-undercover.json](./204447-vice-undercover.json) |
 | Vicewave | 141839 | [141839-vicewave.json](./141839-vicewave.json) |
