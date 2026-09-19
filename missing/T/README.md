@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetra for Nintendo Switch: International Edition | 187462 | [187462-tetra-for-nintendo-switch-international-edition.json](./187462-tetra-for-nintendo-switch-international-edition.json) |
 | Tetra Master | 206212 | [206212-tetra-master.json](./206212-tetra-master.json) |
 | Tetra Offline | 235313 | [235313-tetra-offline.json](./235313-tetra-offline.json) |
+| Tetra Online | 140377 | [140377-tetra-online.json](./140377-tetra-online.json) |
 | Tetra Troopers | 379371 | [379371-tetra-troopers.json](./379371-tetra-troopers.json) |
 | Tetra's Escape | 106530 | [106530-tetras-escape.json](./106530-tetras-escape.json) |
 | Tetracosm | 151585 | [151585-tetracosm.json](./151585-tetracosm.json) |
@@ -2892,6 +2893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fairly OddParents: Clash With the Anti-World | 18256 | [18256-the-fairly-oddparents-clash-with-the-anti-world.json](./18256-the-fairly-oddparents-clash-with-the-anti-world.json) |
 | The Fairly OddParents: Enter the Cleft | 18257 | [18257-the-fairly-oddparents-enter-the-cleft.json](./18257-the-fairly-oddparents-enter-the-cleft.json) |
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
+| The Fairy's Song | 140405 | [140405-the-fairys-song.json](./140405-the-fairys-song.json) |
 | The Fairyland Story | 205665 | [205665-the-fairyland-story.json](./205665-the-fairyland-story.json) |
 | The Falconeer: Day One Edition | 139938 | [139938-the-falconeer-day-one-edition.json](./139938-the-falconeer-day-one-edition.json) |
 | The Falconeer: Edge of the World | 162852 | [162852-the-falconeer-edge-of-the-world.json](./162852-the-falconeer-edge-of-the-world.json) |
@@ -7628,6 +7630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Card Paradise: Koi no Royal Straight Flush | 310969 | [310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json](./310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json) |
 | Tokimeki Memorial Girl's Side | 72670 | [72670-tokimeki-memorial-girls-side.json](./72670-tokimeki-memorial-girls-side.json) |
 | Tokimeki Memorial Girl's Side Triple Pack | 109045 | [109045-tokimeki-memorial-girls-side-triple-pack.json](./109045-tokimeki-memorial-girls-side-triple-pack.json) |
+| Tokimeki Restaurant | 140385 | [140385-tokimeki-restaurant.json](./140385-tokimeki-restaurant.json) |
 | Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
 | Tokimeter | 322951 | [322951-tokimeter.json](./322951-tokimeter.json) |
 | Tokkyuu Shirei Solbrain | 215134 | [215134-tokkyuu-shirei-solbrain.json](./215134-tokkyuu-shirei-solbrain.json) |
@@ -9190,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transilio | 270174 | [270174-transilio.json](./270174-transilio.json) |
 | Transistors Revenge | 297471 | [297471-transistors-revenge.json](./297471-transistors-revenge.json) |
 | Transit | 365113 | [365113-transit.json](./365113-transit.json) |
+| Transit King Tycoon | 140399 | [140399-transit-king-tycoon.json](./140399-transit-king-tycoon.json) |
 | TransMemory | 318802 | [318802-transmemory.json](./318802-transmemory.json) |
 | Transmissions | 213412 | [213412-transmissions.json](./213412-transmissions.json) |
 | Transmute Syndrome | 311670 | [311670-transmute-syndrome.json](./311670-transmute-syndrome.json) |
