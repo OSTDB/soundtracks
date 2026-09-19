@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Sapiens | 216471 | [216471-last-sapiens.json](./216471-last-sapiens.json) |
 | Last Second Save | 382898 | [382898-last-second-save.json](./382898-last-second-save.json) |
 | Last Seen Online | 281011 | [281011-last-seen-online.json](./281011-last-seen-online.json) |
+| Last Shape Standing | 164910 | [164910-last-shape-standing.json](./164910-last-shape-standing.json) |
 | Last Shelter: Survival | 89754 | [89754-last-shelter-survival.json](./89754-last-shelter-survival.json) |
 | Last Shinobi | 377055 | [377055-last-shinobi.json](./377055-last-shinobi.json) |
 | Last Ship Sailing | 403707 | [403707-last-ship-sailing.json](./403707-last-ship-sailing.json) |
@@ -457,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Ultima | 269088 | [269088-last-ultima.json](./269088-last-ultima.json) |
 | Last Viking: God of Valhalla | 214031 | [214031-last-viking-god-of-valhalla.json](./214031-last-viking-god-of-valhalla.json) |
 | Last Viking: Ragnarok Loop | 291485 | [291485-last-viking-ragnarok-loop.json](./291485-last-viking-ragnarok-loop.json) |
+| Last Village | 164878 | [164878-last-village.json](./164878-last-village.json) |
 | Last Week | 123003 | [123003-last-week.json](./123003-last-week.json) |
 | Last Week of a King | 288227 | [288227-last-week-of-a-king.json](./288227-last-week-of-a-king.json) |
 | Last Wish | 111074 | [111074-last-wish.json](./111074-last-wish.json) |
@@ -1370,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Kanji Island | 303628 | [303628-life-of-kanji-island.json](./303628-life-of-kanji-island.json) |
 | Life of Slime | 242057 | [242057-life-of-slime.json](./242057-life-of-slime.json) |
 | Life of Snow Wolf | 246981 | [246981-life-of-snow-wolf.json](./246981-life-of-snow-wolf.json) |
+| Life on a Pizza | 164880 | [164880-life-on-a-pizza.json](./164880-life-on-a-pizza.json) |
 | Life Simulator | 10959 | [10959-life-simulator.json](./10959-life-simulator.json) |
 | Life Simulator | 169945 | [169945-life-simulator.json](./169945-life-simulator.json) |
 | Life Simulator | 231930 | [231930-life-simulator.json](./231930-life-simulator.json) |
@@ -1531,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilly And The Murder In A Dream | 303631 | [303631-lilly-and-the-murder-in-a-dream.json](./303631-lilly-and-the-murder-in-a-dream.json) |
 | Lilly Knight and the Three Cities of Lust | 127999 | [127999-lilly-knight-and-the-three-cities-of-lust.json](./127999-lilly-knight-and-the-three-cities-of-lust.json) |
 | Lilly Monster | 195690 | [195690-lilly-monster.json](./195690-lilly-monster.json) |
+| Lilly's Rescue | 164908 | [164908-lillys-rescue.json](./164908-lillys-rescue.json) |
 | Lillyann | 186186 | [186186-lillyann.json](./186186-lillyann.json) |
 | Lily Bergamo | 52542 | [52542-lily-bergamo.json](./52542-lily-bergamo.json) |
 | Lily Fantasia | 278975 | [278975-lily-fantasia.json](./278975-lily-fantasia.json) |
