@@ -2578,7 +2578,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
 | Planet Coaster 2: Bonus Ride Collection | 371960 | [371960-planet-coaster-2-bonus-ride-collection.json](./371960-planet-coaster-2-bonus-ride-collection.json) |
 | Planet Coaster 2: Deluxe Edition | 331854 | [331854-planet-coaster-2-deluxe-edition.json](./331854-planet-coaster-2-deluxe-edition.json) |
+| Planet Coaster: Back to the Future Time Machine Construction Kit | 168240 | [168240-planet-coaster-back-to-the-future-time-machine-construction-kit.json](./168240-planet-coaster-back-to-the-future-time-machine-construction-kit.json) |
 | Planet Coaster: Deluxe Rides Collection | 173162 | [173162-planet-coaster-deluxe-rides-collection.json](./173162-planet-coaster-deluxe-rides-collection.json) |
+| Planet Coaster: Knight Rider K.I.T.T. Construction Kit | 168239 | [168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json](./168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json) |
+| Planet Coaster: Quick Draw Interactive Shooting Ride | 168241 | [168241-planet-coaster-quick-draw-interactive-shooting-ride.json](./168241-planet-coaster-quick-draw-interactive-shooting-ride.json) |
+| Planet Coaster: The Munsters Munster Koach Construction Kit | 168242 | [168242-planet-coaster-the-munsters-munster-koach-construction-kit.json](./168242-planet-coaster-the-munsters-munster-koach-construction-kit.json) |
 | Planet Collectors: Episode Earth | 193423 | [193423-planet-collectors-episode-earth.json](./193423-planet-collectors-episode-earth.json) |
 | Planet Collision | 229178 | [229178-planet-collision.json](./229178-planet-collision.json) |
 | Planet Craft | 181310 | [181310-planet-craft.json](./181310-planet-craft.json) |
