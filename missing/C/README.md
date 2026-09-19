@@ -1737,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
 | Cheapshot | 130885 | [130885-cheapshot.json](./130885-cheapshot.json) |
 | CheatCheat | 402363 | [402363-cheatcheat.json](./402363-cheatcheat.json) |
+| Cheating Death | 177392 | [177392-cheating-death.json](./177392-cheating-death.json) |
 | Check in the Back | 183010 | [183010-check-in-the-back.json](./183010-check-in-the-back.json) |
 | Check In, Knock Out | 59936 | [59936-check-in-knock-out.json](./59936-check-in-knock-out.json) |
 | Check it Out! | 196918 | [196918-check-it-out.json](./196918-check-it-out.json) |
@@ -5259,6 +5260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Calamity | 350496 | [350496-crystal-calamity.json](./350496-crystal-calamity.json) |
 | Crystal Castles | 11207 | [11207-crystal-castles.json](./11207-crystal-castles.json) |
 | Crystal Cave | 339343 | [339343-crystal-cave.json](./339343-crystal-cave.json) |
+| Crystal Caverns | 177420 | [177420-crystal-caverns.json](./177420-crystal-caverns.json) |
 | Crystal Caverns | 339344 | [339344-crystal-caverns.json](./339344-crystal-caverns.json) |
 | Crystal Caves | 8483 | [8483-crystal-caves.json](./8483-crystal-caves.json) |
 | Crystal Chaser: Tenkuu no Masuishou | 402986 | [402986-crystal-chaser-tenkuu-no-masuishou.json](./402986-crystal-chaser-tenkuu-no-masuishou.json) |
