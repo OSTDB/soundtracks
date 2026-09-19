@@ -1848,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Loot | 13624 | [13624-heroes-of-loot.json](./13624-heroes-of-loot.json) |
 | Heroes of Magic & Cards | 369047 | [369047-heroes-of-magic-and-cards.json](./369047-heroes-of-magic-and-cards.json) |
 | Heroes of Magic: Card Battle | 108492 | [108492-heroes-of-magic-card-battle.json](./108492-heroes-of-magic-card-battle.json) |
+| Heroes of Maidan 3 | 127754 | [127754-heroes-of-maidan-3.json](./127754-heroes-of-maidan-3.json) |
 | Heroes of Mana | 14990 | [14990-heroes-of-mana.json](./14990-heroes-of-mana.json) |
 | Heroes of Might & Magic: Olden Era | 314543 | [314543-heroes-of-might-and-magic-olden-era.json](./314543-heroes-of-might-and-magic-olden-era.json) |
 | Heroes of Might and Magic II: Desecrated Lands | 223031 | [223031-heroes-of-might-and-magic-ii-desecrated-lands.json](./223031-heroes-of-might-and-magic-ii-desecrated-lands.json) |
