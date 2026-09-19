@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnivores: Dinosaur Hunter HD | 20570 | [20570-carnivores-dinosaur-hunter-hd.json](./20570-carnivores-dinosaur-hunter-hd.json) |
 | Carol Coral's: Open the Door | 319552 | [319552-carol-corals-open-the-door.json](./319552-carol-corals-open-the-door.json) |
 | Carol the Dark Angel | 209722 | [209722-carol-the-dark-angel.json](./209722-carol-the-dark-angel.json) |
+| Carom Billiards | 149916 | [149916-carom-billiards.json](./149916-carom-billiards.json) |
 | Caromble! | 24655 | [24655-caromble.json](./24655-caromble.json) |
 | Carousel | 13700 | [13700-carousel.json](./13700-carousel.json) |
 | Carousel | 261887 | [261887-carousel.json](./261887-carousel.json) |
@@ -2555,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
 | Cinnabunny | 295008 | [295008-cinnabunny.json](./295008-cinnabunny.json) |
 | Cinnamoroll: Ohanashi Shiyo!: Kirakira de Kore Cafe | 240908 | [240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json](./240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json) |
+| Cions of Vega | 149925 | [149925-cions-of-vega.json](./149925-cions-of-vega.json) |
 | Cipher | 178494 | [178494-cipher.json](./178494-cipher.json) |
 | CipherCraft: Cyber Guardian Introduction | 278690 | [278690-ciphercraft-cyber-guardian-introduction.json](./278690-ciphercraft-cyber-guardian-introduction.json) |
 | Circa | 94170 | [94170-circa.json](./94170-circa.json) |
@@ -3009,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clonk A.P.E. | 79332 | [79332-clonk-a-p-e.json](./79332-clonk-a-p-e.json) |
 | Clonk Endeavour | 57644 | [57644-clonk-endeavour.json](./57644-clonk-endeavour.json) |
 | Close Cities | 288337 | [288337-close-cities.json](./288337-close-cities.json) |
+| Close Contact | 149923 | [149923-close-contact.json](./149923-close-contact.json) |
 | Close for the Night | 359989 | [359989-close-for-the-night.json](./359989-close-for-the-night.json) |
 | Close Quarters Supremacy: The Legis | 173234 | [173234-close-quarters-supremacy-the-legis.json](./173234-close-quarters-supremacy-the-legis.json) |
 | Close Shell | 246437 | [246437-close-shell.json](./246437-close-shell.json) |
@@ -4346,6 +4349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Waves | 244235 | [244235-cosmic-waves.json](./244235-cosmic-waves.json) |
 | Cosmic Worm Food | 244373 | [244373-cosmic-worm-food.json](./244373-cosmic-worm-food.json) |
 | Cosmic Zephyr DX | 159845 | [159845-cosmic-zephyr-dx.json](./159845-cosmic-zephyr-dx.json) |
+| Cosmica | 149948 | [149948-cosmica.json](./149948-cosmica.json) |
 | Cosminers | 309524 | [309524-cosminers.json](./309524-cosminers.json) |
 | Cosmo 02 | 165690 | [165690-cosmo-02.json](./165690-cosmo-02.json) |
 | Cosmo Flight | 346052 | [346052-cosmo-flight.json](./346052-cosmo-flight.json) |
@@ -5150,6 +5154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossing Acheron | 354427 | [354427-crossing-acheron.json](./354427-crossing-acheron.json) |
 | Crossing Brothel: Tales of an Interspecies Bordello | 82839 | [82839-crossing-brothel-tales-of-an-interspecies-bordello.json](./82839-crossing-brothel-tales-of-an-interspecies-bordello.json) |
 | Crossing Damaged Bridge | 250944 | [250944-crossing-damaged-bridge.json](./250944-crossing-damaged-bridge.json) |
+| Crossing Dungeon | 149930 | [149930-crossing-dungeon.json](./149930-crossing-dungeon.json) |
 | Crossing Frontier: Fate Foretold | 275096 | [275096-crossing-frontier-fate-foretold.json](./275096-crossing-frontier-fate-foretold.json) |
 | Crossing Miracles | 316647 | [316647-crossing-miracles.json](./316647-crossing-miracles.json) |
 | Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
