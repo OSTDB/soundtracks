@@ -4694,6 +4694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rabbit's Shadow | 360074 | [360074-the-rabbits-shadow.json](./360074-the-rabbits-shadow.json) |
 | The Race for the White House | 9372 | [9372-the-race-for-the-white-house.json](./9372-the-race-for-the-white-house.json) |
 | The Race for the White House 2016 | 31386 | [31386-the-race-for-the-white-house-2016.json](./31386-the-race-for-the-white-house-2016.json) |
+| The Race to Galamax | 147281 | [147281-the-race-to-galamax.json](./147281-the-race-to-galamax.json) |
 | The Race to Goo Lagoon | 404243 | [404243-the-race-to-goo-lagoon.json](./404243-the-race-to-goo-lagoon.json) |
 | The Rack | 207808 | [207808-the-rack.json](./207808-the-rack.json) |
 | The Railroad Works | 72047 | [72047-the-railroad-works.json](./72047-the-railroad-works.json) |
@@ -8307,6 +8308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towards the Stars | 150689 | [150689-towards-the-stars.json](./150689-towards-the-stars.json) |
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Towelket: One More Time 2 (Karaage Tanpopo) | 146883 | [146883-towelket-one-more-time-2-karaage-tanpopo.json](./146883-towelket-one-more-time-2-karaage-tanpopo.json) |
+| Towelket: One More Time 5 - Gaugau's Bride | 147250 | [147250-towelket-one-more-time-5-gaugaus-bride.json](./147250-towelket-one-more-time-5-gaugaus-bride.json) |
 | Tower | 315714 | [315714-tower.json](./315714-tower.json) |
 | Tower and Guardian | 54466 | [54466-tower-and-guardian.json](./54466-tower-and-guardian.json) |
 | Tower Attack | 352301 | [352301-tower-attack.json](./352301-tower-attack.json) |
@@ -9350,6 +9352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenches Generals | 85521 | [85521-trenches-generals.json](./85521-trenches-generals.json) |
 | Trenches II | 197763 | [197763-trenches-ii.json](./197763-trenches-ii.json) |
 | TrenchesWIP | 120957 | [120957-trencheswip.json](./120957-trencheswip.json) |
+| Trenga Unlimited | 147257 | [147257-trenga-unlimited.json](./147257-trenga-unlimited.json) |
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
 | Tres | 319800 | [319800-tres.json](./319800-tres.json) |
 | Tresmir Sight | 298169 | [298169-tresmir-sight.json](./298169-tresmir-sight.json) |
