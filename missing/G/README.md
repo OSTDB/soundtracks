@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Over Gopher | 336924 | [336924-game-over-gopher.json](./336924-game-over-gopher.json) |
 | Game Over II | 46658 | [46658-game-over-ii.json](./46658-game-over-ii.json) |
 | Game Over Quest | 122330 | [122330-game-over-quest.json](./122330-game-over-quest.json) |
+| Game Over, Daisy! Deluxe | 139260 | [139260-game-over-daisy-deluxe.json](./139260-game-over-daisy-deluxe.json) |
 | Game Over! | 380539 | [380539-game-over.json](./380539-game-over.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
@@ -2565,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Instinct | 159305 | [159305-grey-instinct.json](./159305-grey-instinct.json) |
 | Grey Instinct: Part 2 | 235774 | [235774-grey-instinct-part-2.json](./235774-grey-instinct-part-2.json) |
 | Grey Phobia | 32925 | [32925-grey-phobia.json](./32925-grey-phobia.json) |
+| Grey Scout | 139213 | [139213-grey-scout.json](./139213-grey-scout.json) |
 | Grey Skies: A War of the Worlds Story | 140628 | [140628-grey-skies-a-war-of-the-worlds-story.json](./140628-grey-skies-a-war-of-the-worlds-story.json) |
 | Grey Wolf | 56499 | [56499-grey-wolf.json](./56499-grey-wolf.json) |
 | Grey Zone | 68620 | [68620-grey-zone.json](./68620-grey-zone.json) |
