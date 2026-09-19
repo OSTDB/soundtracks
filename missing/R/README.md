@@ -3542,6 +3542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run and Fire | 274566 | [274566-run-and-fire.json](./274566-run-and-fire.json) |
 | Run and Gun | 283765 | [283765-run-and-gun.json](./283765-run-and-gun.json) |
+| Run Away | 172041 | [172041-run-away.json](./172041-run-away.json) |
 | Run Away SkyDancer | 307726 | [307726-run-away-skydancer.json](./307726-run-away-skydancer.json) |
 | Run Away With Me, Empress! | 225270 | [225270-run-away-with-me-empress.json](./225270-run-away-with-me-empress.json) |
 | Run Bird Run | 344926 | [344926-run-bird-run.json](./344926-run-bird-run.json) |
@@ -3656,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runic Warrens | 271745 | [271745-runic-warrens.json](./271745-runic-warrens.json) |
 | Runic: Eternal Sunrise | 244781 | [244781-runic-eternal-sunrise.json](./244781-runic-eternal-sunrise.json) |
 | Runion | 25735 | [25735-runion.json](./25735-runion.json) |
+| Runner | 172059 | [172059-runner.json](./172059-runner.json) |
 | Runner Roy | 250396 | [250396-runner-roy.json](./250396-runner-roy.json) |
 | Runner's High | 266281 | [266281-runners-high.json](./266281-runners-high.json) |
 | Runner2: Good Friends Character Pack | 226929 | [226929-runner2-good-friends-character-pack.json](./226929-runner2-good-friends-character-pack.json) |
