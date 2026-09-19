@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega: The Beginning | 117700 | [117700-omega-the-beginning.json](./117700-omega-the-beginning.json) |
 | OmegaBot | 154001 | [154001-omegabot.json](./154001-omegabot.json) |
 | Omegalodon | 16637 | [16637-omegalodon.json](./16637-omegalodon.json) |
+| Omeganaut | 135032 | [135032-omeganaut.json](./135032-omeganaut.json) |
 | Omelet You Cook | 333100 | [333100-omelet-you-cook.json](./333100-omelet-you-cook.json) |
 | Omelet's Quest | 373522 | [373522-omelets-quest.json](./373522-omelets-quest.json) |
 | Omen Exitio: Hunger | 236941 | [236941-omen-exitio-hunger.json](./236941-omen-exitio-hunger.json) |
