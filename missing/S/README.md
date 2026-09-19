@@ -6626,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spish | 169421 | [169421-spish.json](./169421-spish.json) |
 | Spiteful Lovers in a Perfect World | 308539 | [308539-spiteful-lovers-in-a-perfect-world.json](./308539-spiteful-lovers-in-a-perfect-world.json) |
 | Spitfire: Moonpies Mission | 307950 | [307950-spitfire-moonpies-mission.json](./307950-spitfire-moonpies-mission.json) |
+| Spitting Z | 156517 | [156517-spitting-z.json](./156517-spitting-z.json) |
 | Splash Adventure: The Maze of Morla | 83524 | [83524-splash-adventure-the-maze-of-morla.json](./83524-splash-adventure-the-maze-of-morla.json) |
 | Splash Fly Fire | 220838 | [220838-splash-fly-fire.json](./220838-splash-fly-fire.json) |
 | Splash Girls | 167817 | [167817-splash-girls.json](./167817-splash-girls.json) |
