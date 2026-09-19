@@ -4415,6 +4415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton 2: Saturn Tribute | 173782 | [173782-cotton-2-saturn-tribute.json](./173782-cotton-2-saturn-tribute.json) |
 | Cotton Boomerang: Saturn Tribute | 173781 | [173781-cotton-boomerang-saturn-tribute.json](./173781-cotton-boomerang-saturn-tribute.json) |
 | Cotton Games' New Game Bundle | 196811 | [196811-cotton-games-new-game-bundle.json](./196811-cotton-games-new-game-bundle.json) |
+| Couch Co-Op Bundle Vol. 2 | 147796 | [147796-couch-co-op-bundle-vol-2.json](./147796-couch-co-op-bundle-vol-2.json) |
 | Couch Co-Op: Urban Flow + Knights & Guns | 243795 | [243795-couch-co-op-urban-flow-knights-and-guns.json](./243795-couch-co-op-urban-flow-knights-and-guns.json) |
 | Couch Installation Service | 158679 | [158679-couch-installation-service.json](./158679-couch-installation-service.json) |
 | Couch Kittens | 272368 | [272368-couch-kittens.json](./272368-couch-kittens.json) |
