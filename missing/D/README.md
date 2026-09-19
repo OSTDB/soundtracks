@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Crew | 117623 | [117623-danger-crew.json](./117623-danger-crew.json) |
 | Danger Dash | 332559 | [332559-danger-dash.json](./332559-danger-dash.json) |
 | Danger Drone | 278550 | [278550-danger-drone.json](./278550-danger-drone.json) |
+| Danger Forever | 169866 | [169866-danger-forever.json](./169866-danger-forever.json) |
 | Danger Horizon | 329178 | [329178-danger-horizon.json](./329178-danger-horizon.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
 | Danger World | 121616 | [121616-danger-world.json](./121616-danger-world.json) |
@@ -2085,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy All Humans! Path of the Furon | 2717 | [2717-destroy-all-humans-path-of-the-furon.json](./2717-destroy-all-humans-path-of-the-furon.json) |
 | Destroy All Humans!: Clone Carnage | 203364 | [203364-destroy-all-humans-clone-carnage.json](./203364-destroy-all-humans-clone-carnage.json) |
 | Destroy All Letters | 312763 | [312763-destroy-all-letters.json](./312763-destroy-all-letters.json) |
+| Destroy All the Cubes | 169850 | [169850-destroy-all-the-cubes.json](./169850-destroy-all-the-cubes.json) |
 | Destroy Blocks | 296642 | [296642-destroy-blocks.json](./296642-destroy-blocks.json) |
 | Destroy Geometric Shapes | 172139 | [172139-destroy-geometric-shapes.json](./172139-destroy-geometric-shapes.json) |
 | Destroy Simulator | 188517 | [188517-destroy-simulator.json](./188517-destroy-simulator.json) |
