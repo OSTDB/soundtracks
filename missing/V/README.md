@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vain Dream | 238483 | [238483-vain-dream.json](./238483-vain-dream.json) |
 | Vain Dream II | 238484 | [238484-vain-dream-ii.json](./238484-vain-dream-ii.json) |
 | Vain Empires | 216334 | [216334-vain-empires.json](./216334-vain-empires.json) |
+| Vain Riser | 150532 | [150532-vain-riser.json](./150532-vain-riser.json) |
 | Vain Uprising | 331322 | [331322-vain-uprising.json](./331322-vain-uprising.json) |
 | Val d'Isère Ski Park Manager | 64920 | [64920-val-disere-ski-park-manager.json](./64920-val-disere-ski-park-manager.json) |
 | Val d'Isère Ski Park Manager: Edition 2003 | 64919 | [64919-val-disere-ski-park-manager-edition-2003.json](./64919-val-disere-ski-park-manager-edition-2003.json) |
