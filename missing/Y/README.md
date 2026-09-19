@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys IX: Monstrum Nox - Variety Mask Set | 411026 | [411026-ys-ix-monstrum-nox-variety-mask-set.json](./411026-ys-ix-monstrum-nox-variety-mask-set.json) |
 | Ys IX: Monstrum Nox - White Cat's "Monstrum Troupe" Costume | 411027 | [411027-ys-ix-monstrum-nox-white-cats-monstrum-troupe-costume.json](./411027-ys-ix-monstrum-nox-white-cats-monstrum-troupe-costume.json) |
 | Ys Online: The Call of Solum | 15458 | [15458-ys-online-the-call-of-solum.json](./15458-ys-online-the-call-of-solum.json) |
+| Ys Origin: Special Edition | 167141 | [167141-ys-origin-special-edition.json](./167141-ys-origin-special-edition.json) |
 | Ys Strategy | 15456 | [15456-ys-strategy.json](./15456-ys-strategy.json) |
 | Ys VI: The Ark of Napishtim | 15454 | [15454-ys-vi-the-ark-of-napishtim.json](./15454-ys-vi-the-ark-of-napishtim.json) |
 | Ys VIII: Lacrimosa of Dana - Christmas Gift Package | 212316 | [212316-ys-viii-lacrimosa-of-dana-christmas-gift-package.json](./212316-ys-viii-lacrimosa-of-dana-christmas-gift-package.json) |
