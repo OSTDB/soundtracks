@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel it! Ocean Fishing | 362350 | [362350-reel-it-ocean-fishing.json](./362350-reel-it-ocean-fishing.json) |
 | Reel Talk: A Thoughtful Fishcussion | 408172 | [408172-reel-talk-a-thoughtful-fishcussion.json](./408172-reel-talk-a-thoughtful-fishcussion.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
+| Reelism | 141643 | [141643-reelism.json](./141643-reelism.json) |
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
 | Reels of the Damned | 411589 | [411589-reels-of-the-damned.json](./411589-reels-of-the-damned.json) |
 | Reenchant | 365732 | [365732-reenchant.json](./365732-reenchant.json) |
@@ -1779,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Arcade: Space Invaders | 220106 | [220106-retro-arcade-space-invaders.json](./220106-retro-arcade-space-invaders.json) |
 | Retro Asylum | 409559 | [409559-retro-asylum.json](./409559-retro-asylum.json) |
 | Retro Battle | 306533 | [306533-retro-battle.json](./306533-retro-battle.json) |
+| Retro Bowl | 141684 | [141684-retro-bowl.json](./141684-retro-bowl.json) |
 | Retro Classix 2-in-1 Pack: Gate of Doom & Wizard Fire | 147913 | [147913-retro-classix-2-in-1-pack-gate-of-doom-and-wizard-fire.json](./147913-retro-classix-2-in-1-pack-gate-of-doom-and-wizard-fire.json) |
 | Retro Classix 2-in-1 Pack: Heavy Barrel & Super Burger Time | 147896 | [147896-retro-classix-2-in-1-pack-heavy-barrel-and-super-burger-time.json](./147896-retro-classix-2-in-1-pack-heavy-barrel-and-super-burger-time.json) |
 | Retro Classix 2in1 pack: Bad Dudes & Two Crude Dudes | 147897 | [147897-retro-classix-2in1-pack-bad-dudes-and-two-crude-dudes.json](./147897-retro-classix-2in1-pack-bad-dudes-and-two-crude-dudes.json) |
@@ -3785,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Tadpoles | 113013 | [113013-running-tadpoles.json](./113013-running-tadpoles.json) |
 | Running Through The Beat | 270931 | [270931-running-through-the-beat.json](./270931-running-through-the-beat.json) |
 | Running VoltGun | 370115 | [370115-running-voltgun.json](./370115-running-voltgun.json) |
+| Running Vs Chat | 141654 | [141654-running-vs-chat.json](./141654-running-vs-chat.json) |
 | Running Water | 173297 | [173297-running-water.json](./173297-running-water.json) |
 | Running With Dinosaurs | 103470 | [103470-running-with-dinosaurs.json](./103470-running-with-dinosaurs.json) |
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
