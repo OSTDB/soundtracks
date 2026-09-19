@@ -960,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Explorer | 79838 | [79838-castle-explorer.json](./79838-castle-explorer.json) |
 | Castle Fantasia: Erencia Senki - Plus Stories | 408777 | [408777-castle-fantasia-erencia-senki-plus-stories.json](./408777-castle-fantasia-erencia-senki-plus-stories.json) |
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
+| Castle Grimholt | 142252 | [142252-castle-grimholt.json](./142252-castle-grimholt.json) |
 | Castle Hassle | 59452 | [59452-castle-hassle.json](./59452-castle-hassle.json) |
 | Castle Hero | 327420 | [327420-castle-hero.json](./327420-castle-hero.json) |
 | Castle in the Sands | 404818 | [404818-castle-in-the-sands.json](./404818-castle-in-the-sands.json) |
@@ -4206,6 +4207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coraabia | 63300 | [63300-coraabia.json](./63300-coraabia.json) |
 | Corah | 237636 | [237636-corah.json](./237636-corah.json) |
 | Coral Island | 143061 | [143061-coral-island.json](./143061-coral-island.json) |
+| Coral: A Halo Fan Game | 142245 | [142245-coral-a-halo-fan-game.json](./142245-coral-a-halo-fan-game.json) |
 | Coraline | 210273 | [210273-coraline.json](./210273-coraline.json) |
 | Corallo | 202243 | [202243-corallo.json](./202243-corallo.json) |
 | Corbel | 322609 | [322609-corbel.json](./322609-corbel.json) |
@@ -5415,6 +5417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crysis Warhead | 336 | [336-crysis-warhead.json](./336-crysis-warhead.json) |
 | Crysis Wreckage | 51292 | [51292-crysis-wreckage.json](./51292-crysis-wreckage.json) |
 | Crystal Calamity | 350496 | [350496-crystal-calamity.json](./350496-crystal-calamity.json) |
+| Crystal Call | 142237 | [142237-crystal-call.json](./142237-crystal-call.json) |
 | Crystal Castles | 11207 | [11207-crystal-castles.json](./11207-crystal-castles.json) |
 | Crystal Cave | 339343 | [339343-crystal-cave.json](./339343-crystal-cave.json) |
 | Crystal Caverns | 177420 | [177420-crystal-caverns.json](./177420-crystal-caverns.json) |
@@ -5744,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Shadow Samurai | 254761 | [254761-curse-of-the-shadow-samurai.json](./254761-curse-of-the-shadow-samurai.json) |
 | Curse of Woney | 365066 | [365066-curse-of-woney.json](./365066-curse-of-woney.json) |
 | Curse Removal Service | 218150 | [218150-curse-removal-service.json](./218150-curse-removal-service.json) |
+| Curse That Magic Cat! | 142236 | [142236-curse-that-magic-cat.json](./142236-curse-that-magic-cat.json) |
 | Curse the Cursor | 369028 | [369028-curse-the-cursor.json](./369028-curse-the-cursor.json) |
 | Curse Words | 370775 | [370775-curse-words.json](./370775-curse-words.json) |
 | Curseball | 205648 | [205648-curseball.json](./205648-curseball.json) |
