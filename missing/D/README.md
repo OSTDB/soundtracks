@@ -3061,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divineko | 291617 | [291617-divineko.json](./291617-divineko.json) |
 | Diviner | 394850 | [394850-diviner.json](./394850-diviner.json) |
 | DivineRPG | 241498 | [241498-divinerpg.json](./241498-divinerpg.json) |
+| Diving Disorder | 157567 | [157567-diving-disorder.json](./157567-diving-disorder.json) |
 | Divinity Arrival | 254569 | [254569-divinity-arrival.json](./254569-divinity-arrival.json) |
 | Divinity Chronicles: Journey to the West | 140623 | [140623-divinity-chronicles-journey-to-the-west.json](./140623-divinity-chronicles-journey-to-the-west.json) |
 | Divinity Hunting | 269033 | [269033-divinity-hunting.json](./269033-divinity-hunting.json) |
