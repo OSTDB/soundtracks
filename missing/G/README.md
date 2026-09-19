@@ -2336,7 +2336,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitation | 57614 | [57614-gravitation.json](./57614-gravitation.json) |
 | Gravitational | 150150 | [150150-gravitational.json](./150150-gravitational.json) |
 | Graviteam Tactics: Mius Front | 18173 | [18173-graviteam-tactics-mius-front.json](./18173-graviteam-tactics-mius-front.json) |
+| Graviteam Tactics: Mius Front - Against the Tide | 155477 | [155477-graviteam-tactics-mius-front-against-the-tide.json](./155477-graviteam-tactics-mius-front-against-the-tide.json) |
 | Graviteam Tactics: Mius Front - Bird Grove | 219807 | [219807-graviteam-tactics-mius-front-bird-grove.json](./219807-graviteam-tactics-mius-front-bird-grove.json) |
+| Graviteam Tactics: Mius Front - Black Snow | 155488 | [155488-graviteam-tactics-mius-front-black-snow.json](./155488-graviteam-tactics-mius-front-black-snow.json) |
+| Graviteam Tactics: Mius Front - Cold Spring | 155483 | [155483-graviteam-tactics-mius-front-cold-spring.json](./155483-graviteam-tactics-mius-front-cold-spring.json) |
+| Graviteam Tactics: Mius Front - Croatian Legion | 155484 | [155484-graviteam-tactics-mius-front-croatian-legion.json](./155484-graviteam-tactics-mius-front-croatian-legion.json) |
+| Graviteam Tactics: Mius Front - Dark Forest | 155476 | [155476-graviteam-tactics-mius-front-dark-forest.json](./155476-graviteam-tactics-mius-front-dark-forest.json) |
+| Graviteam Tactics: Mius Front - Dawn of Blau | 155474 | [155474-graviteam-tactics-mius-front-dawn-of-blau.json](./155474-graviteam-tactics-mius-front-dawn-of-blau.json) |
+| Graviteam Tactics: Mius Front - Drive on Voronezh | 155473 | [155473-graviteam-tactics-mius-front-drive-on-voronezh.json](./155473-graviteam-tactics-mius-front-drive-on-voronezh.json) |
+| Graviteam Tactics: Mius Front - Edge of Storm | 155492 | [155492-graviteam-tactics-mius-front-edge-of-storm.json](./155492-graviteam-tactics-mius-front-edge-of-storm.json) |
+| Graviteam Tactics: Mius Front - Fateful Strike | 155481 | [155481-graviteam-tactics-mius-front-fateful-strike.json](./155481-graviteam-tactics-mius-front-fateful-strike.json) |
+| Graviteam Tactics: Mius Front - Final Offensive | 155490 | [155490-graviteam-tactics-mius-front-final-offensive.json](./155490-graviteam-tactics-mius-front-final-offensive.json) |
+| Graviteam Tactics: Mius Front - Furtive Spring | 155486 | [155486-graviteam-tactics-mius-front-furtive-spring.json](./155486-graviteam-tactics-mius-front-furtive-spring.json) |
+| Graviteam Tactics: Mius Front - Grim of Death | 155487 | [155487-graviteam-tactics-mius-front-grim-of-death.json](./155487-graviteam-tactics-mius-front-grim-of-death.json) |
+| Graviteam Tactics: Mius Front - Leopard's Leap | 155480 | [155480-graviteam-tactics-mius-front-leopards-leap.json](./155480-graviteam-tactics-mius-front-leopards-leap.json) |
+| Graviteam Tactics: Mius Front - Operation Moduler | 155478 | [155478-graviteam-tactics-mius-front-operation-moduler.json](./155478-graviteam-tactics-mius-front-operation-moduler.json) |
+| Graviteam Tactics: Mius Front - Raid | 155482 | [155482-graviteam-tactics-mius-front-raid.json](./155482-graviteam-tactics-mius-front-raid.json) |
+| Graviteam Tactics: Mius Front - Strong Point | 155485 | [155485-graviteam-tactics-mius-front-strong-point.json](./155485-graviteam-tactics-mius-front-strong-point.json) |
+| Graviteam Tactics: Mius Front - The Day of the Olifant | 155491 | [155491-graviteam-tactics-mius-front-the-day-of-the-olifant.json](./155491-graviteam-tactics-mius-front-the-day-of-the-olifant.json) |
+| Graviteam Tactics: Mius Front - Tielieketi Incident | 155479 | [155479-graviteam-tactics-mius-front-tielieketi-incident.json](./155479-graviteam-tactics-mius-front-tielieketi-incident.json) |
+| Graviteam Tactics: Mius Front - Typhoon Rising | 155489 | [155489-graviteam-tactics-mius-front-typhoon-rising.json](./155489-graviteam-tactics-mius-front-typhoon-rising.json) |
+| Graviteam Tactics: Operation Star - Krasnaya Polyana 1943 | 155495 | [155495-graviteam-tactics-operation-star-krasnaya-polyana-1943.json](./155495-graviteam-tactics-operation-star-krasnaya-polyana-1943.json) |
+| Graviteam Tactics: Operation Star - Operation Hooper | 155493 | [155493-graviteam-tactics-operation-star-operation-hooper.json](./155493-graviteam-tactics-operation-star-operation-hooper.json) |
+| Graviteam Tactics: Operation Star - Sokolovo 1943 | 155494 | [155494-graviteam-tactics-operation-star-sokolovo-1943.json](./155494-graviteam-tactics-operation-star-sokolovo-1943.json) |
+| Graviteam Tactics: Operation Star - Volokonovka 1942 | 155496 | [155496-graviteam-tactics-operation-star-volokonovka-1942.json](./155496-graviteam-tactics-operation-star-volokonovka-1942.json) |
 | Gravitee Wars | 245575 | [245575-gravitee-wars.json](./245575-gravitee-wars.json) |
 | Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
 | Graviton Flux | 371957 | [371957-graviton-flux.json](./371957-graviton-flux.json) |
