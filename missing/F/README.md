@@ -2221,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flempire | 224248 | [224248-flempire.json](./224248-flempire.json) |
 | Flesh | 216244 | [216244-flesh.json](./216244-flesh.json) |
 | Flesh & Spirit | 383365 | [383365-flesh-and-spirit.json](./383365-flesh-and-spirit.json) |
+| Flesh 4 Boy | 178544 | [178544-flesh-4-boy.json](./178544-flesh-4-boy.json) |
 | Flesh Eating Geriatric Internet Predator | 144308 | [144308-flesh-eating-geriatric-internet-predator.json](./144308-flesh-eating-geriatric-internet-predator.json) |
 | Flesh Everest | 207356 | [207356-flesh-everest.json](./207356-flesh-everest.json) |
 | Flesh Made Fear: Summer in Rotwood | 375804 | [375804-flesh-made-fear-summer-in-rotwood.json](./375804-flesh-made-fear-summer-in-rotwood.json) |
@@ -2632,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follow the Rules | 273952 | [273952-follow-the-rules.json](./273952-follow-the-rules.json) |
 | Follow You | 218129 | [218129-follow-you.json](./218129-follow-you.json) |
 | Follower | 383354 | [383354-follower.json](./383354-follower.json) |
+| Follower A | 178510 | [178510-follower-a.json](./178510-follower-a.json) |
 | Follower:Sacrifice | 99006 | [99006-follower-sacrifice.json](./99006-follower-sacrifice.json) |
 | Folly Of The Wizards | 253946 | [253946-folly-of-the-wizards.json](./253946-folly-of-the-wizards.json) |
 | Fono | 161336 | [161336-fono.json](./161336-fono.json) |
