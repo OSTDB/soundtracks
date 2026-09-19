@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zug in Sicht | 383972 | [383972-zug-in-sicht.json](./383972-zug-in-sicht.json) |
 | Zugya | 264070 | [264070-zugya.json](./264070-zugya.json) |
 | Zuma Girls | 369564 | [369564-zuma-girls.json](./369564-zuma-girls.json) |
+| Zumania: Magic Casual Puzzle | 175813 | [175813-zumania-magic-casual-puzzle.json](./175813-zumania-magic-casual-puzzle.json) |
 | Zumba Fitness 2 | 5306 | [5306-zumba-fitness-2.json](./5306-zumba-fitness-2.json) |
 | Zumba Kids | 5309 | [5309-zumba-kids.json](./5309-zumba-kids.json) |
 | Zumba: Dragon's Marble Trial | 381714 | [381714-zumba-dragons-marble-trial.json](./381714-zumba-dragons-marble-trial.json) |
