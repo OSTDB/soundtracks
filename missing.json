@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T03:03:39.195Z",
-  "total_missing": 90321,
+  "generated_at": "2026-09-19T03:17:19.906Z",
+  "total_missing": 90371,
   "games": [
     {
       "igdb_id": 176875,
@@ -401543,6 +401543,11 @@
       "file": "missing/T/189550-tiger-fighter-1931-sunset-mp099.json"
     },
     {
+      "igdb_id": 173671,
+      "game_name": "Tiger Fighter 1931: Tora! MP012",
+      "file": "missing/T/173671-tiger-fighter-1931-tora-mp012.json"
+    },
+    {
       "igdb_id": 189682,
       "game_name": "Tiger Fighter 1931: Tora! MP013",
       "file": "missing/T/189682-tiger-fighter-1931-tora-mp013.json"
@@ -401553,14 +401558,39 @@
       "file": "missing/T/189695-tiger-fighter-1931-tora-mp014.json"
     },
     {
+      "igdb_id": 173672,
+      "game_name": "Tiger Fighter 1931: Tora! MP016",
+      "file": "missing/T/173672-tiger-fighter-1931-tora-mp016.json"
+    },
+    {
+      "igdb_id": 173664,
+      "game_name": "Tiger Fighter 1931: Tora! MP017",
+      "file": "missing/T/173664-tiger-fighter-1931-tora-mp017.json"
+    },
+    {
+      "igdb_id": 173669,
+      "game_name": "Tiger Fighter 1931: Tora! MP019",
+      "file": "missing/T/173669-tiger-fighter-1931-tora-mp019.json"
+    },
+    {
       "igdb_id": 189694,
       "game_name": "Tiger Fighter 1931: Tora! MP021",
       "file": "missing/T/189694-tiger-fighter-1931-tora-mp021.json"
     },
     {
+      "igdb_id": 173661,
+      "game_name": "Tiger Fighter 1931: Tora! MP022",
+      "file": "missing/T/173661-tiger-fighter-1931-tora-mp022.json"
+    },
+    {
       "igdb_id": 189683,
       "game_name": "Tiger Fighter 1931: Tora! MP023",
       "file": "missing/T/189683-tiger-fighter-1931-tora-mp023.json"
+    },
+    {
+      "igdb_id": 173666,
+      "game_name": "Tiger Fighter 1931: Tora! MP024",
+      "file": "missing/T/173666-tiger-fighter-1931-tora-mp024.json"
     },
     {
       "igdb_id": 189700,
@@ -401588,6 +401618,26 @@
       "file": "missing/T/189680-tiger-fighter-1931-tora-mp032.json"
     },
     {
+      "igdb_id": 173663,
+      "game_name": "Tiger Fighter 1931: Tora! MP033",
+      "file": "missing/T/173663-tiger-fighter-1931-tora-mp033.json"
+    },
+    {
+      "igdb_id": 173665,
+      "game_name": "Tiger Fighter 1931: Tora! MP035",
+      "file": "missing/T/173665-tiger-fighter-1931-tora-mp035.json"
+    },
+    {
+      "igdb_id": 173668,
+      "game_name": "Tiger Fighter 1931: Tora! MP036",
+      "file": "missing/T/173668-tiger-fighter-1931-tora-mp036.json"
+    },
+    {
+      "igdb_id": 173657,
+      "game_name": "Tiger Fighter 1931: Tora! MP037",
+      "file": "missing/T/173657-tiger-fighter-1931-tora-mp037.json"
+    },
+    {
       "igdb_id": 189711,
       "game_name": "Tiger Fighter 1931: Tora! MP038",
       "file": "missing/T/189711-tiger-fighter-1931-tora-mp038.json"
@@ -401603,6 +401653,21 @@
       "file": "missing/T/189714-tiger-fighter-1931-tora-mp041.json"
     },
     {
+      "igdb_id": 173659,
+      "game_name": "Tiger Fighter 1931: Tora! MP042",
+      "file": "missing/T/173659-tiger-fighter-1931-tora-mp042.json"
+    },
+    {
+      "igdb_id": 173662,
+      "game_name": "Tiger Fighter 1931: Tora! MP044",
+      "file": "missing/T/173662-tiger-fighter-1931-tora-mp044.json"
+    },
+    {
+      "igdb_id": 173667,
+      "game_name": "Tiger Fighter 1931: Tora! MP048",
+      "file": "missing/T/173667-tiger-fighter-1931-tora-mp048.json"
+    },
+    {
       "igdb_id": 189690,
       "game_name": "Tiger Fighter 1931: Tora! MP050",
       "file": "missing/T/189690-tiger-fighter-1931-tora-mp050.json"
@@ -401616,6 +401681,11 @@
       "igdb_id": 189710,
       "game_name": "Tiger Fighter 1931: Tora! MP052",
       "file": "missing/T/189710-tiger-fighter-1931-tora-mp052.json"
+    },
+    {
+      "igdb_id": 173670,
+      "game_name": "Tiger Fighter 1931: Tora! MP053",
+      "file": "missing/T/173670-tiger-fighter-1931-tora-mp053.json"
     },
     {
       "igdb_id": 189688,
@@ -401643,6 +401713,11 @@
       "file": "missing/T/189687-tiger-fighter-1931-tora-mp059.json"
     },
     {
+      "igdb_id": 173678,
+      "game_name": "Tiger Fighter 1931: Tora! MP060",
+      "file": "missing/T/173678-tiger-fighter-1931-tora-mp060.json"
+    },
+    {
       "igdb_id": 189684,
       "game_name": "Tiger Fighter 1931: Tora! MP061",
       "file": "missing/T/189684-tiger-fighter-1931-tora-mp061.json"
@@ -401651,6 +401726,16 @@
       "igdb_id": 189696,
       "game_name": "Tiger Fighter 1931: Tora! MP063",
       "file": "missing/T/189696-tiger-fighter-1931-tora-mp063.json"
+    },
+    {
+      "igdb_id": 173676,
+      "game_name": "Tiger Fighter 1931: Tora! MP064",
+      "file": "missing/T/173676-tiger-fighter-1931-tora-mp064.json"
+    },
+    {
+      "igdb_id": 173673,
+      "game_name": "Tiger Fighter 1931: Tora! MP065",
+      "file": "missing/T/173673-tiger-fighter-1931-tora-mp065.json"
     },
     {
       "igdb_id": 189689,
@@ -401668,9 +401753,24 @@
       "file": "missing/T/189693-tiger-fighter-1931-tora-mp069.json"
     },
     {
+      "igdb_id": 173660,
+      "game_name": "Tiger Fighter 1931: Tora! MP070",
+      "file": "missing/T/173660-tiger-fighter-1931-tora-mp070.json"
+    },
+    {
       "igdb_id": 189686,
       "game_name": "Tiger Fighter 1931: Tora! MP071",
       "file": "missing/T/189686-tiger-fighter-1931-tora-mp071.json"
+    },
+    {
+      "igdb_id": 173658,
+      "game_name": "Tiger Fighter 1931: Tora! MP072",
+      "file": "missing/T/173658-tiger-fighter-1931-tora-mp072.json"
+    },
+    {
+      "igdb_id": 173675,
+      "game_name": "Tiger Fighter 1931: Tora! MP073",
+      "file": "missing/T/173675-tiger-fighter-1931-tora-mp073.json"
     },
     {
       "igdb_id": 189678,
@@ -401681,6 +401781,11 @@
       "igdb_id": 189679,
       "game_name": "Tiger Fighter 1931: Tora! MP075",
       "file": "missing/T/189679-tiger-fighter-1931-tora-mp075.json"
+    },
+    {
+      "igdb_id": 173674,
+      "game_name": "Tiger Fighter 1931: Tora! MP076",
+      "file": "missing/T/173674-tiger-fighter-1931-tora-mp076.json"
     },
     {
       "igdb_id": 189691,
@@ -401721,6 +401826,11 @@
       "igdb_id": 189701,
       "game_name": "Tiger Fighter 1931: Tora! MP088",
       "file": "missing/T/189701-tiger-fighter-1931-tora-mp088.json"
+    },
+    {
+      "igdb_id": 173677,
+      "game_name": "Tiger Fighter 1931: Tora! MP089",
+      "file": "missing/T/173677-tiger-fighter-1931-tora-mp089.json"
     },
     {
       "igdb_id": 189676,
@@ -402163,9 +402273,84 @@
       "file": "missing/T/173707-tiger-soldier-i-mp007.json"
     },
     {
+      "igdb_id": 173700,
+      "game_name": "Tiger Soldier I: MP009",
+      "file": "missing/T/173700-tiger-soldier-i-mp009.json"
+    },
+    {
+      "igdb_id": 173695,
+      "game_name": "Tiger Soldier I: MP010",
+      "file": "missing/T/173695-tiger-soldier-i-mp010.json"
+    },
+    {
+      "igdb_id": 173688,
+      "game_name": "Tiger Soldier I: MP012",
+      "file": "missing/T/173688-tiger-soldier-i-mp012.json"
+    },
+    {
+      "igdb_id": 173683,
+      "game_name": "Tiger Soldier I: MP017",
+      "file": "missing/T/173683-tiger-soldier-i-mp017.json"
+    },
+    {
+      "igdb_id": 173684,
+      "game_name": "Tiger Soldier I: MP019",
+      "file": "missing/T/173684-tiger-soldier-i-mp019.json"
+    },
+    {
+      "igdb_id": 173693,
+      "game_name": "Tiger Soldier I: MP020",
+      "file": "missing/T/173693-tiger-soldier-i-mp020.json"
+    },
+    {
       "igdb_id": 173712,
       "game_name": "Tiger Soldier I: MP023",
       "file": "missing/T/173712-tiger-soldier-i-mp023.json"
+    },
+    {
+      "igdb_id": 173701,
+      "game_name": "Tiger Soldier I: MP024",
+      "file": "missing/T/173701-tiger-soldier-i-mp024.json"
+    },
+    {
+      "igdb_id": 173704,
+      "game_name": "Tiger Soldier I: MP028",
+      "file": "missing/T/173704-tiger-soldier-i-mp028.json"
+    },
+    {
+      "igdb_id": 173681,
+      "game_name": "Tiger Soldier I: MP030",
+      "file": "missing/T/173681-tiger-soldier-i-mp030.json"
+    },
+    {
+      "igdb_id": 173697,
+      "game_name": "Tiger Soldier I: MP038",
+      "file": "missing/T/173697-tiger-soldier-i-mp038.json"
+    },
+    {
+      "igdb_id": 173703,
+      "game_name": "Tiger Soldier I: MP039",
+      "file": "missing/T/173703-tiger-soldier-i-mp039.json"
+    },
+    {
+      "igdb_id": 173694,
+      "game_name": "Tiger Soldier I: MP040",
+      "file": "missing/T/173694-tiger-soldier-i-mp040.json"
+    },
+    {
+      "igdb_id": 173686,
+      "game_name": "Tiger Soldier I: MP041",
+      "file": "missing/T/173686-tiger-soldier-i-mp041.json"
+    },
+    {
+      "igdb_id": 173696,
+      "game_name": "Tiger Soldier I: MP042",
+      "file": "missing/T/173696-tiger-soldier-i-mp042.json"
+    },
+    {
+      "igdb_id": 173705,
+      "game_name": "Tiger Soldier I: MP044",
+      "file": "missing/T/173705-tiger-soldier-i-mp044.json"
     },
     {
       "igdb_id": 173708,
@@ -402173,9 +402358,44 @@
       "file": "missing/T/173708-tiger-soldier-i-mp047.json"
     },
     {
+      "igdb_id": 173706,
+      "game_name": "Tiger Soldier I: MP049",
+      "file": "missing/T/173706-tiger-soldier-i-mp049.json"
+    },
+    {
+      "igdb_id": 173687,
+      "game_name": "Tiger Soldier I: MP051",
+      "file": "missing/T/173687-tiger-soldier-i-mp051.json"
+    },
+    {
+      "igdb_id": 173679,
+      "game_name": "Tiger Soldier I: MP057",
+      "file": "missing/T/173679-tiger-soldier-i-mp057.json"
+    },
+    {
+      "igdb_id": 173680,
+      "game_name": "Tiger Soldier I: MP059",
+      "file": "missing/T/173680-tiger-soldier-i-mp059.json"
+    },
+    {
+      "igdb_id": 173692,
+      "game_name": "Tiger Soldier I: MP067",
+      "file": "missing/T/173692-tiger-soldier-i-mp067.json"
+    },
+    {
+      "igdb_id": 173682,
+      "game_name": "Tiger Soldier I: MP070",
+      "file": "missing/T/173682-tiger-soldier-i-mp070.json"
+    },
+    {
       "igdb_id": 173710,
       "game_name": "Tiger Soldier I: MP072",
       "file": "missing/T/173710-tiger-soldier-i-mp072.json"
+    },
+    {
+      "igdb_id": 173691,
+      "game_name": "Tiger Soldier I: MP074",
+      "file": "missing/T/173691-tiger-soldier-i-mp074.json"
     },
     {
       "igdb_id": 173709,
@@ -402183,9 +402403,39 @@
       "file": "missing/T/173709-tiger-soldier-i-mp075.json"
     },
     {
+      "igdb_id": 173690,
+      "game_name": "Tiger Soldier I: MP080",
+      "file": "missing/T/173690-tiger-soldier-i-mp080.json"
+    },
+    {
+      "igdb_id": 173685,
+      "game_name": "Tiger Soldier I: MP082",
+      "file": "missing/T/173685-tiger-soldier-i-mp082.json"
+    },
+    {
       "igdb_id": 173711,
       "game_name": "Tiger Soldier I: MP088",
       "file": "missing/T/173711-tiger-soldier-i-mp088.json"
+    },
+    {
+      "igdb_id": 173699,
+      "game_name": "Tiger Soldier I: MP090",
+      "file": "missing/T/173699-tiger-soldier-i-mp090.json"
+    },
+    {
+      "igdb_id": 173689,
+      "game_name": "Tiger Soldier I: MP094",
+      "file": "missing/T/173689-tiger-soldier-i-mp094.json"
+    },
+    {
+      "igdb_id": 173698,
+      "game_name": "Tiger Soldier I: MP097",
+      "file": "missing/T/173698-tiger-soldier-i-mp097.json"
+    },
+    {
+      "igdb_id": 173702,
+      "game_name": "Tiger Soldier I: MP099",
+      "file": "missing/T/173702-tiger-soldier-i-mp099.json"
     },
     {
       "igdb_id": 189720,
