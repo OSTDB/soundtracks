@@ -2145,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notoris: The Goblin War | 191174 | [191174-notoris-the-goblin-war.json](./191174-notoris-the-goblin-war.json) |
 | Notpron | 202394 | [202394-notpron.json](./202394-notpron.json) |
 | Notrium | 35751 | [35751-notrium.json](./35751-notrium.json) |
+| Nótt & Dagr | 135039 | [135039-nott-and-dagr.json](./135039-nott-and-dagr.json) |
 | Nou wo Kitaeru! Zekkei Shashin de Machigai-sagashi | 261371 | [261371-nou-wo-kitaeru-zekkei-shashin-de-machigai-sagashi.json](./261371-nou-wo-kitaeru-zekkei-shashin-de-machigai-sagashi.json) |
 | Nouen Hokkoriina | 335107 | [335107-nouen-hokkoriina.json](./335107-nouen-hokkoriina.json) |
 | Noukk | 197757 | [197757-noukk.json](./197757-noukk.json) |
