@@ -4041,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Paladin | 258034 | [258034-princess-paladin.json](./258034-princess-paladin.json) |
 | Princess Paloma's Rescue | 360109 | [360109-princess-palomas-rescue.json](./360109-princess-palomas-rescue.json) |
 | Princess Peach Sex Hack | 294709 | [294709-princess-peach-sex-hack.json](./294709-princess-peach-sex-hack.json) |
+| Princess Piano | 174230 | [174230-princess-piano.json](./174230-princess-piano.json) |
 | Princess Pony's Magic Seesaw | 337985 | [337985-princess-ponys-magic-seesaw.json](./337985-princess-ponys-magic-seesaw.json) |
 | Princess Princess: Himetachi no Abunai Houkago | 72671 | [72671-princess-princess-himetachi-no-abunai-houkago.json](./72671-princess-princess-himetachi-no-abunai-houkago.json) |
 | Princess Principal: Game of Mission | 70907 | [70907-princess-principal-game-of-mission.json](./70907-princess-principal-game-of-mission.json) |
