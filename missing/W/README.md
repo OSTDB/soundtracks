@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted | 325069 | [325069-wanted.json](./325069-wanted.json) |
 | Wanted | 75090 | [75090-wanted.json](./75090-wanted.json) |
 | Wanted 3D: Dead or Alive | 335858 | [335858-wanted-3d-dead-or-alive.json](./335858-wanted-3d-dead-or-alive.json) |
+| Wanted Raccoon | 144087 | [144087-wanted-raccoon.json](./144087-wanted-raccoon.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
 | Wanted Shadows: Unchained | 373076 | [373076-wanted-shadows-unchained.json](./373076-wanted-shadows-unchained.json) |
 | Wanted: Dead - Collector's Edition | 228736 | [228736-wanted-dead-collectors-edition.json](./228736-wanted-dead-collectors-edition.json) |
@@ -1932,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Another World | 294280 | [294280-wizard-another-world.json](./294280-wizard-another-world.json) |
 | Wizard Battle | 121638 | [121638-wizard-battle.json](./121638-wizard-battle.json) |
 | Wizard Bros | 158233 | [158233-wizard-bros.json](./158233-wizard-bros.json) |
+| Wizard Card Game | 144116 | [144116-wizard-card-game.json](./144116-wizard-card-game.json) |
 | Wizard Confidential | 401549 | [401549-wizard-confidential.json](./401549-wizard-confidential.json) |
 | Wizard Defenders | 85493 | [85493-wizard-defenders.json](./85493-wizard-defenders.json) |
 | Wizard Duel | 312542 | [312542-wizard-duel.json](./312542-wizard-duel.json) |
