@@ -4134,6 +4134,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mating Season | 218141 | [218141-the-mating-season.json](./218141-the-mating-season.json) |
 | The Matriarch | 188686 | [188686-the-matriarch.json](./188686-the-matriarch.json) |
 | The Matter at Hand | 183476 | [183476-the-matter-at-hand.json](./183476-the-matter-at-hand.json) |
+| The Maw: Brute Force | 164365 | [164365-the-maw-brute-force.json](./164365-the-maw-brute-force.json) |
+| The Maw: River Redirect | 164363 | [164363-the-maw-river-redirect.json](./164363-the-maw-river-redirect.json) |
+| The Maw: Speeder Lane | 164364 | [164364-the-maw-speeder-lane.json](./164364-the-maw-speeder-lane.json) |
 | The Maze | 107158 | [107158-the-maze.json](./107158-the-maze.json) |
 | The Maze | 169859 | [169859-the-maze.json](./169859-the-maze.json) |
 | The Maze : Endless nightmare | 29763 | [29763-the-maze-endless-nightmare.json](./29763-the-maze-endless-nightmare.json) |
@@ -5100,6 +5103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Solar Ring | 207911 | [207911-the-solar-ring.json](./207911-the-solar-ring.json) |
 | The Soldat with Twin Arms | 151753 | [151753-the-soldat-with-twin-arms.json](./151753-the-soldat-with-twin-arms.json) |
 | The Soldier and the Golden Princess | 331116 | [331116-the-soldier-and-the-golden-princess.json](./331116-the-soldier-and-the-golden-princess.json) |
+| The Soldiers Factory | 164336 | [164336-the-soldiers-factory.json](./164336-the-soldiers-factory.json) |
 | The Solitaire Conspiracy: Return of the Merry | 243808 | [243808-the-solitaire-conspiracy-return-of-the-merry.json](./243808-the-solitaire-conspiracy-return-of-the-merry.json) |
 | The Solitaire Conspiracy: The Atlantis Project | 243807 | [243807-the-solitaire-conspiracy-the-atlantis-project.json](./243807-the-solitaire-conspiracy-the-atlantis-project.json) |
 | The Solitary Existence of a Little Universe | 370226 | [370226-the-solitary-existence-of-a-little-universe.json](./370226-the-solitary-existence-of-a-little-universe.json) |
