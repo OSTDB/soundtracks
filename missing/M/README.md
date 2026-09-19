@@ -3412,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minaurs | 103392 | [103392-minaurs.json](./103392-minaurs.json) |
 | Minazuki-tan: InfiltraTitty Lewd Beast Academy | 82848 | [82848-minazuki-tan-infiltratitty-lewd-beast-academy.json](./82848-minazuki-tan-infiltratitty-lewd-beast-academy.json) |
 | Mincer City | 270693 | [270693-mincer-city.json](./270693-mincer-city.json) |
+| Mind At Sea | 149958 | [149958-mind-at-sea.json](./149958-mind-at-sea.json) |
 | Mind Control: Bloody Renaissance | 253910 | [253910-mind-control-bloody-renaissance.json](./253910-mind-control-bloody-renaissance.json) |
 | Mind Detective Psychology Test | 409539 | [409539-mind-detective-psychology-test.json](./409539-mind-detective-psychology-test.json) |
 | Mind Diver | 236519 | [236519-mind-diver.json](./236519-mind-diver.json) |
