@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Jacks | 243100 | [243100-jumping-jacks.json](./243100-jumping-jacks.json) |
 | Jumping Joe! Friends Edition | 170387 | [170387-jumping-joe-friends-edition.json](./170387-jumping-joe-friends-edition.json) |
 | Jumping Master | 115590 | [115590-jumping-master.json](./115590-jumping-master.json) |
+| Jumping Mellow | 133202 | [133202-jumping-mellow.json](./133202-jumping-mellow.json) |
 | Jumping Orb | 295888 | [295888-jumping-orb.json](./295888-jumping-orb.json) |
 | Jumping Over It With Kang KiYun | 120382 | [120382-jumping-over-it-with-kang-kiyun.json](./120382-jumping-over-it-with-kang-kiyun.json) |
 | Jumping Platform Minigame | 158683 | [158683-jumping-platform-minigame.json](./158683-jumping-platform-minigame.json) |
