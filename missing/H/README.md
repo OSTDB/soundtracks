@@ -2398,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3: The Splitter Pack | 357257 | [357257-hitman-3-the-splitter-pack.json](./357257-hitman-3-the-splitter-pack.json) |
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
 | Hitman Absolution: Elite Edition | 53210 | [53210-hitman-absolution-elite-edition.json](./53210-hitman-absolution-elite-edition.json) |
+| Hitman Reborn! | 174722 | [174722-hitman-reborn.json](./174722-hitman-reborn.json) |
 | Hitman World of Assassination | 233571 | [233571-hitman-world-of-assassination.json](./233571-hitman-world-of-assassination.json) |
 | Hitman World of Assassination: 25th Anniversary Edition | 347699 | [347699-hitman-world-of-assassination-25th-anniversary-edition.json](./347699-hitman-world-of-assassination-25th-anniversary-edition.json) |
 | Hitman World of Assassination: Bruce Lee | 370132 | [370132-hitman-world-of-assassination-bruce-lee.json](./370132-hitman-world-of-assassination-bruce-lee.json) |
