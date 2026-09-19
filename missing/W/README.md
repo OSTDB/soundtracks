@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior | 181768 | [181768-warrior.json](./181768-warrior.json) |
 | Warrior | 215906 | [215906-warrior.json](./215906-warrior.json) |
 | Warrior | 274015 | [274015-warrior.json](./274015-warrior.json) |
+| Warrior Beneath Heaven | 156536 | [156536-warrior-beneath-heaven.json](./156536-warrior-beneath-heaven.json) |
 | Warrior Chef | 270179 | [270179-warrior-chef.json](./270179-warrior-chef.json) |
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
 | Warrior Heart | 200204 | [200204-warrior-heart.json](./200204-warrior-heart.json) |
