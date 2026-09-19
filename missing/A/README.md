@@ -2379,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Buddies: Party Beasts | 290438 | [290438-animal-buddies-party-beasts.json](./290438-animal-buddies-party-beasts.json) |
 | Animal Cafe | 356711 | [356711-animal-cafe.json](./356711-animal-cafe.json) |
 | Animal Circus: Learning Games | 106521 | [106521-animal-circus-learning-games.json](./106521-animal-circus-learning-games.json) |
+| Animal City | 130756 | [130756-animal-city.json](./130756-animal-city.json) |
 | Animal Crackers | 177567 | [177567-animal-crackers.json](./177567-animal-crackers.json) |
 | Animal Crossing Neighborhood | 323890 | [323890-animal-crossing-neighborhood.json](./323890-animal-crossing-neighborhood.json) |
 | Animal Crossing-e: Animal Crossing | 354415 | [354415-animal-crossing-e-animal-crossing.json](./354415-animal-crossing-e-animal-crossing.json) |
