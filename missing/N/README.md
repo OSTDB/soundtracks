@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Challenge | 49957 | [49957-nascar-challenge.json](./49957-nascar-challenge.json) |
 | NASCAR Heat | 49956 | [49956-nascar-heat.json](./49956-nascar-heat.json) |
 | NASCAR Heat Bundle | 273941 | [273941-nascar-heat-bundle.json](./273941-nascar-heat-bundle.json) |
+| NASCAR Heat Evolution: Toyota Challenge Pack 1 | 157553 | [157553-nascar-heat-evolution-toyota-challenge-pack-1.json](./157553-nascar-heat-evolution-toyota-challenge-pack-1.json) |
 | Nascar Racing | 199011 | [199011-nascar-racing.json](./199011-nascar-racing.json) |
 | NASCAR Racing | 45224 | [45224-nascar-racing.json](./45224-nascar-racing.json) |
 | NASCAR Rivals: 2022 Patriotic Pack | 231360 | [231360-nascar-rivals-2022-patriotic-pack.json](./231360-nascar-rivals-2022-patriotic-pack.json) |
@@ -1286,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Light: Nightmare | 156187 | [156187-night-light-nightmare.json](./156187-night-light-nightmare.json) |
 | Night Lights | 26698 | [26698-night-lights.json](./26698-night-lights.json) |
 | Night Magic | 109747 | [109747-night-magic.json](./109747-night-magic.json) |
+| Night Monsters | 157554 | [157554-night-monsters.json](./157554-night-monsters.json) |
 | Night O'Clock | 364565 | [364565-night-oclock.json](./364565-night-oclock.json) |
 | Night of Full Moon: Apothecary's Blessing | 170462 | [170462-night-of-full-moon-apothecarys-blessing.json](./170462-night-of-full-moon-apothecarys-blessing.json) |
 | Night of Full Moon: Choice of Carpenter | 170463 | [170463-night-of-full-moon-choice-of-carpenter.json](./170463-night-of-full-moon-choice-of-carpenter.json) |
@@ -2300,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NY City Bank Manager 2018 | 96725 | [96725-ny-city-bank-manager-2018.json](./96725-ny-city-bank-manager-2018.json) |
 | Nyako: Restaurant Tycoon | 157178 | [157178-nyako-restaurant-tycoon.json](./157178-nyako-restaurant-tycoon.json) |
 | Nyakori's Rabbit Doll | 130403 | [130403-nyakoris-rabbit-doll.json](./130403-nyakoris-rabbit-doll.json) |
+| Nyakori's Rabbit Doll: After Story | 157552 | [157552-nyakoris-rabbit-doll-after-story.json](./157552-nyakoris-rabbit-doll-after-story.json) |
 | Nyamo's Adventure | 182513 | [182513-nyamos-adventure.json](./182513-nyamos-adventure.json) |
 | Nyan to Wonderful | 143674 | [143674-nyan-to-wonderful.json](./143674-nyan-to-wonderful.json) |
 | Nyancle Racing | 94668 | [94668-nyancle-racing.json](./94668-nyancle-racing.json) |
