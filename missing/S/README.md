@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schedule I | 328373 | [328373-schedule-i.json](./328373-schedule-i.json) |
 | Schism | 266227 | [266227-schism.json](./266227-schism.json) |
 | Schizo Dark | 368481 | [368481-schizo-dark.json](./368481-schizo-dark.json) |
+| Schizophrenia | 133203 | [133203-schizophrenia.json](./133203-schizophrenia.json) |
 | Schizophrenic Rooms | 230857 | [230857-schizophrenic-rooms.json](./230857-schizophrenic-rooms.json) |
 | Schlag den Raab: Das 3. Spiel | 86078 | [86078-schlag-den-raab-das-3-spiel.json](./86078-schlag-den-raab-das-3-spiel.json) |
 | Schlag den Star: Das Spiel | 78045 | [78045-schlag-den-star-das-spiel.json](./78045-schlag-den-star-das-spiel.json) |
@@ -1344,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Wave | 242250 | [242250-second-wave.json](./242250-second-wave.json) |
 | Second Wind | 390123 | [390123-second-wind.json](./390123-second-wind.json) |
 | Second World: Air War S | 113002 | [113002-second-world-air-war-s.json](./113002-second-world-air-war-s.json) |
+| Seconds in Space | 133217 | [133217-seconds-in-space.json](./133217-seconds-in-space.json) |
 | Seconds Time's the Charm | 326602 | [326602-seconds-times-the-charm.json](./326602-seconds-times-the-charm.json) |
 | SecondSpeed | 28782 | [28782-secondspeed.json](./28782-secondspeed.json) |
 | Secret Admirer | 129225 | [129225-secret-admirer.json](./129225-secret-admirer.json) |
@@ -1371,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Files: Tunguska | 5145 | [5145-secret-files-tunguska.json](./5145-secret-files-tunguska.json) |
 | Secret Forest | 295277 | [295277-secret-forest.json](./295277-secret-forest.json) |
 | Secret HavEat | 352209 | [352209-secret-haveat.json](./352209-secret-haveat.json) |
+| Secret House | 133224 | [133224-secret-house.json](./133224-secret-house.json) |
 | Secret in Flower | 395578 | [395578-secret-in-flower.json](./395578-secret-in-flower.json) |
 | Secret Journeys: Cities of the World | 84901 | [84901-secret-journeys-cities-of-the-world.json](./84901-secret-journeys-cities-of-the-world.json) |
 | Secret Love Temple | 368534 | [368534-secret-love-temple.json](./368534-secret-love-temple.json) |
@@ -1429,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Section-Z | 285595 | [285595-section-z.json](./285595-section-z.json) |
 | Section-Z | 9755 | [9755-section-z.json](./9755-section-z.json) |
 | Sector 01 | 177577 | [177577-sector-01.json](./177577-sector-01.json) |
+| Sector 40: The Soviet Legacy | 133228 | [133228-sector-40-the-soviet-legacy.json](./133228-sector-40-the-soviet-legacy.json) |
 | Sector 666 | 308256 | [308256-sector-666.json](./308256-sector-666.json) |
 | Sector a Training Facilitea | 253029 | [253029-sector-a-training-facilitea.json](./253029-sector-a-training-facilitea.json) |
 | Sector Alpha | 183518 | [183518-sector-alpha.json](./183518-sector-alpha.json) |
@@ -1738,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Cleaners: Dino Park | 249301 | [249301-serial-cleaners-dino-park.json](./249301-serial-cleaners-dino-park.json) |
 | Serial Experiments Lain | 76448 | [76448-serial-experiments-lain.json](./76448-serial-experiments-lain.json) |
 | Serial Experiments Lain Bootleg | 245007 | [245007-serial-experiments-lain-bootleg.json](./245007-serial-experiments-lain-bootleg.json) |
+| Serial Lover | 133207 | [133207-serial-lover.json](./133207-serial-lover.json) |
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
 | Serious Breakdown | 191223 | [191223-serious-breakdown.json](./191223-serious-breakdown.json) |
 | Serious Sam | 291050 | [291050-serious-sam.json](./291050-serious-sam.json) |
@@ -2434,6 +2439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter 2 Mountains | 51910 | [51910-shelter-2-mountains.json](./51910-shelter-2-mountains.json) |
 | Shelter 2: Special Edition | 51911 | [51911-shelter-2-special-edition.json](./51911-shelter-2-special-edition.json) |
 | Shelter from the Storm | 340377 | [340377-shelter-from-the-storm.json](./340377-shelter-from-the-storm.json) |
+| Shelter Manager | 133219 | [133219-shelter-manager.json](./133219-shelter-manager.json) |
 | Shelter of Exiles | 276821 | [276821-shelter-of-exiles.json](./276821-shelter-of-exiles.json) |
 | Sheltered 2 | 152285 | [152285-sheltered-2.json](./152285-sheltered-2.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
@@ -2639,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsetsu Mahou Shoujo | 131589 | [131589-shinsetsu-mahou-shoujo.json](./131589-shinsetsu-mahou-shoujo.json) |
 | Shinsetsu Shiawase Usagi F: Yuujou Yori mo Aiyoku | 277859 | [277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json](./277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json) |
 | Shinshuku Taisen: It's a Noni! | 123622 | [123622-shinshuku-taisen-its-a-noni.json](./123622-shinshuku-taisen-its-a-noni.json) |
+| Shinsou Seiki Elementia ~Kutsujoku no Sennou Saimin~ | 133246 | [133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json](./133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json) |
 | Shiny Sisters | 336596 | [336596-shiny-sisters.json](./336596-shiny-sisters.json) |
 | Shiny Summer | 164897 | [164897-shiny-summer.json](./164897-shiny-summer.json) |
 | Shiny-Man-Adventures | 211751 | [211751-shiny-man-adventures.json](./211751-shiny-man-adventures.json) |
@@ -5677,6 +5684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukh | 358304 | [358304-soukh.json](./358304-soukh.json) |
 | Soukou Akki Muramasa: Janen-hen | 170502 | [170502-soukou-akki-muramasa-janen-hen.json](./170502-soukou-akki-muramasa-janen-hen.json) |
 | Soukou Kihei Votoms: The Battling Road | 38273 | [38273-soukou-kihei-votoms-the-battling-road.json](./38273-soukou-kihei-votoms-the-battling-road.json) |
+| Soukou Seiki Ysphere ~Ingyaku no Sennou Kaizou~ | 133247 | [133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json](./133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json) |
 | Soul | 199577 | [199577-soul.json](./199577-soul.json) |
 | Soul Apocalypto | 358927 | [358927-soul-apocalypto.json](./358927-soul-apocalypto.json) |
 | Soul at Stake | 103949 | [103949-soul-at-stake.json](./103949-soul-at-stake.json) |
@@ -6432,6 +6440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Run | 304594 | [304594-speed-run.json](./304594-speed-run.json) |
 | Speed Runner | 246491 | [246491-speed-runner.json](./246491-speed-runner.json) |
 | Speed Surge | 335271 | [335271-speed-surge.json](./335271-speed-surge.json) |
+| Speed Sweeper | 133209 | [133209-speed-sweeper.json](./133209-speed-sweeper.json) |
 | Speed Tap Analysis | 297648 | [297648-speed-tap-analysis.json](./297648-speed-tap-analysis.json) |
 | Speed Tapping Idle RPG for Touhou | 297644 | [297644-speed-tapping-idle-rpg-for-touhou.json](./297644-speed-tapping-idle-rpg-for-touhou.json) |
 | Speed Thief | 54383 | [54383-speed-thief.json](./54383-speed-thief.json) |
@@ -7097,6 +7106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
 | Squaser 8 | 368569 | [368569-squaser-8.json](./368569-squaser-8.json) |
 | Squaser 9 | 368537 | [368537-squaser-9.json](./368537-squaser-9.json) |
+| Squatch | 133234 | [133234-squatch.json](./133234-squatch.json) |
 | Squatzee | 184467 | [184467-squatzee.json](./184467-squatzee.json) |
 | Squeakers II | 148370 | [148370-squeakers-ii.json](./148370-squeakers-ii.json) |
 | Squeakross: Free Content Update | 392279 | [392279-squeakross-free-content-update.json](./392279-squeakross-free-content-update.json) |
@@ -7232,6 +7242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standby | 26715 | [26715-standby.json](./26715-standby.json) |
 | StandOff | 348831 | [348831-standoff.json](./348831-standoff.json) |
 | Standoff Multiplayer | 138172 | [138172-standoff-multiplayer.json](./138172-standoff-multiplayer.json) |
+| Stanga | 133210 | [133210-stanga.json](./133210-stanga.json) |
 | Stanley: Wild for Sharks! | 70964 | [70964-stanley-wild-for-sharks.json](./70964-stanley-wild-for-sharks.json) |
 | Stapel | 192987 | [192987-stapel.json](./192987-stapel.json) |
 | Star Academy: Showtime! | 327859 | [327859-star-academy-showtime.json](./327859-star-academy-showtime.json) |
@@ -7851,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Escape | 57113 | [57113-starship-escape.json](./57113-starship-escape.json) |
 | Starship EVO | 138009 | [138009-starship-evo.json](./138009-starship-evo.json) |
 | Starship Home | 293377 | [293377-starship-home.json](./293377-starship-home.json) |
+| Starship Saboteur Prototype | 133249 | [133249-starship-saboteur-prototype.json](./133249-starship-saboteur-prototype.json) |
 | Starship Theory | 36962 | [36962-starship-theory.json](./36962-starship-theory.json) |
 | Starship Traders MMO | 254139 | [254139-starship-traders-mmo.json](./254139-starship-traders-mmo.json) |
 | Starship Troopers | 245392 | [245392-starship-troopers.json](./245392-starship-troopers.json) |
@@ -8279,6 +8291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stillborn Slayer | 189039 | [189039-stillborn-slayer.json](./189039-stillborn-slayer.json) |
 | Stillwater | 398402 | [398402-stillwater.json](./398402-stillwater.json) |
 | Stimmings | 264614 | [264614-stimmings.json](./264614-stimmings.json) |
+| Stimuli | 133226 | [133226-stimuli.json](./133226-stimuli.json) |
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
 | Sting & Swing | 398983 | [398983-sting-and-swing.json](./398983-sting-and-swing.json) |
 | Stinker Golf | 406107 | [406107-stinker-golf.json](./406107-stinker-golf.json) |
@@ -8888,6 +8901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submachine: 32 Chambers | 19324 | [19324-submachine-32-chambers.json](./19324-submachine-32-chambers.json) |
 | Submachine: Future Loop Foundation | 19296 | [19296-submachine-future-loop-foundation.json](./19296-submachine-future-loop-foundation.json) |
 | Submarine | 346083 | [346083-submarine.json](./346083-submarine.json) |
+| Submarine Adventure | 133233 | [133233-submarine-adventure.json](./133233-submarine-adventure.json) |
 | Submarine Fury | 73802 | [73802-submarine-fury.json](./73802-submarine-fury.json) |
 | Submarine Samurai | 183556 | [183556-submarine-samurai.json](./183556-submarine-samurai.json) |
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
@@ -10730,6 +10744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Science: The Girls of Silversee Castle | 239656 | [239656-sweet-science-the-girls-of-silversee-castle.json](./239656-sweet-science-the-girls-of-silversee-castle.json) |
 | Sweet Shell | 328043 | [328043-sweet-shell.json](./328043-sweet-shell.json) |
 | Sweet Shine | 159825 | [159825-sweet-shine.json](./159825-sweet-shine.json) |
+| Sweet Solitaire: School Witch | 133232 | [133232-sweet-solitaire-school-witch.json](./133232-sweet-solitaire-school-witch.json) |
 | Sweet Sort | 255751 | [255751-sweet-sort.json](./255751-sweet-sort.json) |
 | Sweet Sport | 368572 | [368572-sweet-sport.json](./368572-sweet-sport.json) |
 | Sweet Starlight Sisters | 378897 | [378897-sweet-starlight-sisters.json](./378897-sweet-starlight-sisters.json) |
