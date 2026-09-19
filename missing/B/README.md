@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle K-Road | 39561 | [39561-battle-k-road.json](./39561-battle-k-road.json) |
 | Battle Kart 64 | 248308 | [248308-battle-kart-64.json](./248308-battle-kart-64.json) |
 | Battle Leet | 265727 | [265727-battle-leet.json](./265727-battle-leet.json) |
+| Battle Legends | 144805 | [144805-battle-legends.json](./144805-battle-legends.json) |
 | Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
 | Battle Mages | 17427 | [17427-battle-mages.json](./17427-battle-mages.json) |
 | Battle Magi | 402899 | [402899-battle-magi.json](./402899-battle-magi.json) |
@@ -3357,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons | 93561 | [93561-bloons.json](./93561-bloons.json) |
 | Bloons 2 Christmas Expansion | 326782 | [326782-bloons-2-christmas-expansion.json](./326782-bloons-2-christmas-expansion.json) |
 | Bloons But You're the Bloon | 246094 | [246094-bloons-but-youre-the-bloon.json](./246094-bloons-but-youre-the-bloon.json) |
+| Bloons TD | 144754 | [144754-bloons-td.json](./144754-bloons-td.json) |
 | Bloons TD 5 | 17520 | [17520-bloons-td-5.json](./17520-bloons-td-5.json) |
 | Bloons TD 5 HD | 88911 | [88911-bloons-td-5-hd.json](./88911-bloons-td-5-hd.json) |
 | Bloons TD 6: Rogue Legends | 330334 | [330334-bloons-td-6-rogue-legends.json](./330334-bloons-td-6-rogue-legends.json) |
