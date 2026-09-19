@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incandescent 2 | 113713 | [113713-incandescent-2.json](./113713-incandescent-2.json) |
 | Incantation | 44454 | [44454-incantation.json](./44454-incantation.json) |
 | Incarnage | 210120 | [210120-incarnage.json](./210120-incarnage.json) |
+| Incarnata: Dormant Stories | 173189 | [173189-incarnata-dormant-stories.json](./173189-incarnata-dormant-stories.json) |
 | Incarnation: Flame | 174823 | [174823-incarnation-flame.json](./174823-incarnation-flame.json) |
 | Incel Simulator | 315286 | [315286-incel-simulator.json](./315286-incel-simulator.json) |
 | InCell VR | 34595 | [34595-incell-vr.json](./34595-incell-vr.json) |
