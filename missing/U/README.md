@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale Promise | 360564 | [360564-undertale-promise.json](./360564-undertale-promise.json) |
 | Undertale Yellow | 136482 | [136482-undertale-yellow.json](./136482-undertale-yellow.json) |
 | Undertale: Chara Boss Fight | 283766 | [283766-undertale-chara-boss-fight.json](./283766-undertale-chara-boss-fight.json) |
+| Undertale: Disbelief | 136869 | [136869-undertale-disbelief.json](./136869-undertale-disbelief.json) |
 | Undertale: Icebound | 329944 | [329944-undertale-icebound.json](./329944-undertale-icebound.json) |
 | Undertale: Kindred Spirits | 231469 | [231469-undertale-kindred-spirits.json](./231469-undertale-kindred-spirits.json) |
 | Undertale: Remembering the Genocides | 335675 | [335675-undertale-remembering-the-genocides.json](./335675-undertale-remembering-the-genocides.json) |
@@ -1088,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ut: Kissy Cutie | 179615 | [179615-ut-kissy-cutie.json](./179615-ut-kissy-cutie.json) |
 | Uta Kumi 575 | 42670 | [42670-uta-kumi-575.json](./42670-uta-kumi-575.json) |
 | Uta no Prince-sama: All Star After Secret for Nintendo Switch | 222998 | [222998-uta-no-prince-sama-all-star-after-secret-for-nintendo-switch.json](./222998-uta-no-prince-sama-all-star-after-secret-for-nintendo-switch.json) |
+| Uta no Prince-sama: Amazing Aria & Sweet Serenade Love | 136840 | [136840-uta-no-prince-sama-amazing-aria-and-sweet-serenade-love.json](./136840-uta-no-prince-sama-amazing-aria-and-sweet-serenade-love.json) |
 | Uta no Prince-sama: Dolce Vita | 222999 | [222999-uta-no-prince-sama-dolce-vita.json](./222999-uta-no-prince-sama-dolce-vita.json) |
 | Uta no Prince-sama: Live Emotion | 305368 | [305368-uta-no-prince-sama-live-emotion.json](./305368-uta-no-prince-sama-live-emotion.json) |
 | Utakata no R: Kako-hen Awayuki | 221743 | [221743-utakata-no-r-kako-hen-awayuki.json](./221743-utakata-no-r-kako-hen-awayuki.json) |
