@@ -6246,6 +6246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
 | Spectrolite | 176361 | [176361-spectrolite.json](./176361-spectrolite.json) |
+| Spectromancer: Gathering of Power | 164383 | [164383-spectromancer-gathering-of-power.json](./164383-spectromancer-gathering-of-power.json) |
 | Spectrubes Infinity | 96663 | [96663-spectrubes-infinity.json](./96663-spectrubes-infinity.json) |
 | Spectrum | 260129 | [260129-spectrum.json](./260129-spectrum.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
