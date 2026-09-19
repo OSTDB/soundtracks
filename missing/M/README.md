@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
 | Mabeop Cheonjamun DS 2: The Final Hanja Magic | 124788 | [124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json](./124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json) |
+| Maboroshi Tsukiyo | 128379 | [128379-maboroshi-tsukiyo.json](./128379-maboroshi-tsukiyo.json) |
 | Macabre no Zantou: Remnants of the Macabre | 309363 | [309363-macabre-no-zantou-remnants-of-the-macabre.json](./309363-macabre-no-zantou-remnants-of-the-macabre.json) |
 | Macadam: Futari Yogari | 66125 | [66125-macadam-futari-yogari.json](./66125-macadam-futari-yogari.json) |
 | Macaroni Houren-sou Interactive | 234183 | [234183-macaroni-houren-sou-interactive.json](./234183-macaroni-houren-sou-interactive.json) |
@@ -2151,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MediEvil II | 329195 | [329195-medievil-ii.json](./329195-medievil-ii.json) |
 | Meditation 5 | 135047 | [135047-meditation-5.json](./135047-meditation-5.json) |
 | Meditation Journey: VR Zen Garden | 167785 | [167785-meditation-journey-vr-zen-garden.json](./167785-meditation-journey-vr-zen-garden.json) |
+| Medium Rare | 128356 | [128356-medium-rare.json](./128356-medium-rare.json) |
 | Medium-naut | 151559 | [151559-medium-naut.json](./151559-medium-naut.json) |
 | Medival Hustle | 304578 | [304578-medival-hustle.json](./304578-medival-hustle.json) |
 | Medivination | 302505 | [302505-medivination.json](./302505-medivination.json) |
@@ -4008,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission to the Sun | 388210 | [388210-mission-to-the-sun.json](./388210-mission-to-the-sun.json) |
 | Mission Twentyeight | 193412 | [193412-mission-twentyeight.json](./193412-mission-twentyeight.json) |
 | Mission Z | 157035 | [157035-mission-z.json](./157035-mission-z.json) |
+| Mission: Caduceus | 128406 | [128406-mission-caduceus.json](./128406-mission-caduceus.json) |
 | Mission: Chao | 330713 | [330713-mission-chao.json](./330713-mission-chao.json) |
 | Mission: Driver | 210855 | [210855-mission-driver.json](./210855-mission-driver.json) |
 | Mission: Escape | 271726 | [271726-mission-escape.json](./271726-mission-escape.json) |
@@ -5446,6 +5449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Gold: Tooyama no Kinsan Space Chou | 41317 | [41317-mr-gold-tooyama-no-kinsan-space-chou.json](./41317-mr-gold-tooyama-no-kinsan-space-chou.json) |
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
+| Mr. Joshua Carrot | 128354 | [128354-mr-joshua-carrot.json](./128354-mr-joshua-carrot.json) |
 | Mr. Krasnoludek, Teach Me Your Magic Spells | 169879 | [169879-mr-krasnoludek-teach-me-your-magic-spells.json](./169879-mr-krasnoludek-teach-me-your-magic-spells.json) |
 | Mr. Krussy Requires Souls of the Damned | 177491 | [177491-mr-krussy-requires-souls-of-the-damned.json](./177491-mr-krussy-requires-souls-of-the-damned.json) |
 | Mr. Luma's Cooking Adventure | 234335 | [234335-mr-lumas-cooking-adventure.json](./234335-mr-lumas-cooking-adventure.json) |
