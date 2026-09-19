@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Deluxe 2: Astral Planes | 105996 | [105996-mahjong-deluxe-2-astral-planes.json](./105996-mahjong-deluxe-2-astral-planes.json) |
 | Mahjong Detective: The Stolen Love | 295919 | [295919-mahjong-detective-the-stolen-love.json](./295919-mahjong-detective-the-stolen-love.json) |
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
+| Mahjong Escape: Ancient China | 135673 | [135673-mahjong-escape-ancient-china.json](./135673-mahjong-escape-ancient-china.json) |
 | Mahjong Gakkou | 415967 | [415967-mahjong-gakkou.json](./415967-mahjong-gakkou.json) |
 | Mahjong Gakuen Touma Soushirou Toujou | 59429 | [59429-mahjong-gakuen-touma-soushirou-toujou.json](./59429-mahjong-gakuen-touma-soushirou-toujou.json) |
 | Mahjong Gold 2: Pirates Island | 150649 | [150649-mahjong-gold-2-pirates-island.json](./150649-mahjong-gold-2-pirates-island.json) |
@@ -3081,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroCrawl | 238489 | [238489-microcrawl.json](./238489-microcrawl.json) |
 | MicroFab | 397661 | [397661-microfab.json](./397661-microfab.json) |
 | MicroFactory | 145627 | [145627-microfactory.json](./145627-microfactory.json) |
+| MicroHorrorArcade Trilogy I - Andy's Story | 135703 | [135703-microhorrorarcade-trilogy-i-andys-story.json](./135703-microhorrorarcade-trilogy-i-andys-story.json) |
 | MicroJam | 371358 | [371358-microjam.json](./371358-microjam.json) |
 | Microjob | 149564 | [149564-microjob.json](./149564-microjob.json) |
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
@@ -4916,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MopGarden's Veggie Cart | 225879 | [225879-mopgardens-veggie-cart.json](./225879-mopgardens-veggie-cart.json) |
 | Mops & Mobs: A Sweeping Dungeon Adventure | 291767 | [291767-mops-and-mobs-a-sweeping-dungeon-adventure.json](./291767-mops-and-mobs-a-sweeping-dungeon-adventure.json) |
 | Moraff's Entrap | 69815 | [69815-moraffs-entrap.json](./69815-moraffs-entrap.json) |
+| Moraff's Escapade | 135666 | [135666-moraffs-escapade.json](./135666-moraffs-escapade.json) |
 | Morbid | 145591 | [145591-morbid.json](./145591-morbid.json) |
 | Morbid Catastrophe | 248313 | [248313-morbid-catastrophe.json](./248313-morbid-catastrophe.json) |
 | Morbidity: 1 | 271757 | [271757-morbidity-1.json](./271757-morbidity-1.json) |
@@ -4941,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morels: Out of this World | 400984 | [400984-morels-out-of-this-world.json](./400984-morels-out-of-this-world.json) |
 | Morendar: Goblin Slayer | 50758 | [50758-morendar-goblin-slayer.json](./50758-morendar-goblin-slayer.json) |
 | MorFits Farm | 143680 | [143680-morfits-farm.json](./143680-morfits-farm.json) |
+| Morfosi | 135684 | [135684-morfosi.json](./135684-morfosi.json) |
 | Morgan lives in a Rocket House in VR | 74442 | [74442-morgan-lives-in-a-rocket-house-in-vr.json](./74442-morgan-lives-in-a-rocket-house-in-vr.json) |
 | Morgan's Skate Club | 322801 | [322801-morgans-skate-club.json](./322801-morgans-skate-club.json) |
 | Morgue Rot: The Coroner's Quest | 217384 | [217384-morgue-rot-the-coroners-quest.json](./217384-morgue-rot-the-coroners-quest.json) |
