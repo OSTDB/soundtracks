@@ -1106,6 +1106,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felix the Cat: Contra os Inimigos | 282586 | [282586-felix-the-cat-contra-os-inimigos.json](./282586-felix-the-cat-contra-os-inimigos.json) |
 | Felix VR | 163916 | [163916-felix-vr.json](./163916-felix-vr.json) |
 | Fell from another world | 213478 | [213478-fell-from-another-world.json](./213478-fell-from-another-world.json) |
+| Fell Seal DLC Bundle | 154965 | [154965-fell-seal-dlc-bundle.json](./154965-fell-seal-dlc-bundle.json) |
+| Fell Seal: Arbiter's Mark - Missions and Monsters | 154969 | [154969-fell-seal-arbiters-mark-missions-and-monsters.json](./154969-fell-seal-arbiters-mark-missions-and-monsters.json) |
 | Fellas | 408143 | [408143-fellas.json](./408143-fellas.json) |
 | Felon-E | 302356 | [302356-felon-e.json](./302356-felon-e.json) |
 | Felonian Special Forces | 255161 | [255161-felonian-special-forces.json](./255161-felonian-special-forces.json) |
@@ -1235,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory II: Medieval - Swords and Scimitars | 171617 | [171617-field-of-glory-ii-medieval-swords-and-scimitars.json](./171617-field-of-glory-ii-medieval-swords-and-scimitars.json) |
 | Field of Glory II: Rise of Persia | 124818 | [124818-field-of-glory-ii-rise-of-persia.json](./124818-field-of-glory-ii-rise-of-persia.json) |
 | Field of Glory: Empires | 112588 | [112588-field-of-glory-empires.json](./112588-field-of-glory-empires.json) |
+| Field of Glory: Empires - Persia 550-330 BCE | 154941 | [154941-field-of-glory-empires-persia-550-330-bce.json](./154941-field-of-glory-empires-persia-550-330-bce.json) |
 | Field of Polarity | 392145 | [392145-field-of-polarity.json](./392145-field-of-polarity.json) |
 | Field of Screams | 375279 | [375279-field-of-screams.json](./375279-field-of-screams.json) |
 | Field of the Dead | 309370 | [309370-field-of-the-dead.json](./309370-field-of-the-dead.json) |
