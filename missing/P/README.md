@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Evolution | 174765 | [174765-pet-evolution.json](./174765-pet-evolution.json) |
 | Pet Grooming Studio | 293207 | [293207-pet-grooming-studio.json](./293207-pet-grooming-studio.json) |
 | Pet Kawaii Shop | 317211 | [317211-pet-kawaii-shop.json](./317211-pet-kawaii-shop.json) |
+| Pet Knight into cave | 161262 | [161262-pet-knight-into-cave.json](./161262-pet-knight-into-cave.json) |
 | Pet Luv Spa and Resort Tycoon | 254594 | [254594-pet-luv-spa-and-resort-tycoon.json](./254594-pet-luv-spa-and-resort-tycoon.json) |
 | Pet Monsters | 55936 | [55936-pet-monsters.json](./55936-pet-monsters.json) |
 | Pet Oddities: Desktop Shelter | 372461 | [372461-pet-oddities-desktop-shelter.json](./372461-pet-oddities-desktop-shelter.json) |
