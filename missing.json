@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T11:02:39.729Z",
-  "total_missing": 91921,
+  "generated_at": "2026-09-19T11:17:34.039Z",
+  "total_missing": 91971,
   "games": [
     {
       "igdb_id": 176875,
@@ -35758,6 +35758,11 @@
       "file": "missing/B/68649-beat-it-christmas-edition.json"
     },
     {
+      "igdb_id": 156515,
+      "game_name": "Beat Me! Puppetonia Tournament",
+      "file": "missing/B/156515-beat-me-puppetonia-tournament.json"
+    },
+    {
       "igdb_id": 119003,
       "game_name": "Beat Monsters",
       "file": "missing/B/119003-beat-monsters.json"
@@ -50443,6 +50448,11 @@
       "file": "missing/B/129195-bridge-constructor-ultimate-edition.json"
     },
     {
+      "igdb_id": 156521,
+      "game_name": "Bridge Crawler",
+      "file": "missing/B/156521-bridge-crawler.json"
+    },
+    {
       "igdb_id": 35857,
       "game_name": "Bridge Creator 2015",
       "file": "missing/B/35857-bridge-creator-2015.json"
@@ -54211,6 +54221,11 @@
       "igdb_id": 295280,
       "game_name": "Button Man",
       "file": "missing/B/295280-button-man.json"
+    },
+    {
+      "igdb_id": 156526,
+      "game_name": "Button Pressing Simulator",
+      "file": "missing/B/156526-button-pressing-simulator.json"
     },
     {
       "igdb_id": 358934,
@@ -83943,6 +83958,11 @@
       "file": "missing/C/61679-cyberflow.json"
     },
     {
+      "igdb_id": 156537,
+      "game_name": "Cybergeist",
+      "file": "missing/C/156537-cybergeist.json"
+    },
+    {
       "igdb_id": 120319,
       "game_name": "CyberGlide VR",
       "file": "missing/C/120319-cyberglide-vr.json"
@@ -93298,6 +93318,11 @@
       "file": "missing/D/349847-demon-killer.json"
     },
     {
+      "igdb_id": 156543,
+      "game_name": "Demon Killer VR",
+      "file": "missing/D/156543-demon-killer-vr.json"
+    },
+    {
       "igdb_id": 303470,
       "game_name": "Demon Kingdom",
       "file": "missing/D/303470-demon-kingdom.json"
@@ -94596,6 +94621,11 @@
       "igdb_id": 294474,
       "game_name": "Desmond's Dungeon",
       "file": "missing/D/294474-desmonds-dungeon.json"
+    },
+    {
+      "igdb_id": 156524,
+      "game_name": "Desohunter",
+      "file": "missing/D/156524-desohunter.json"
     },
     {
       "igdb_id": 113731,
@@ -136103,6 +136133,11 @@
       "file": "missing/F/216788-floating-life-2.json"
     },
     {
+      "igdb_id": 156531,
+      "game_name": "Floating Life in Other-World",
+      "file": "missing/F/156531-floating-life-in-other-world.json"
+    },
+    {
       "igdb_id": 264663,
       "game_name": "Floating Life Record",
       "file": "missing/F/264663-floating-life-record.json"
@@ -151128,6 +151163,11 @@
       "file": "missing/G/109783-giraffe-town.json"
     },
     {
+      "igdb_id": 156535,
+      "game_name": "Girauden Strike Force",
+      "file": "missing/G/156535-girauden-strike-force.json"
+    },
+    {
       "igdb_id": 219795,
       "game_name": "Girbal",
       "file": "missing/G/219795-girbal.json"
@@ -163141,6 +163181,11 @@
       "igdb_id": 159744,
       "game_name": "Hanoi Puzzles: Magnetrix",
       "file": "missing/H/159744-hanoi-puzzles-magnetrix.json"
+    },
+    {
+      "igdb_id": 156520,
+      "game_name": "Hanoi Puzzles: Solid Match",
+      "file": "missing/H/156520-hanoi-puzzles-solid-match.json"
     },
     {
       "igdb_id": 392266,
@@ -179503,6 +179548,11 @@
       "file": "missing/H/41990-hyperchase-auto-race.json"
     },
     {
+      "igdb_id": 156532,
+      "game_name": "Hypercide",
+      "file": "missing/H/156532-hypercide.json"
+    },
+    {
       "igdb_id": 122388,
       "game_name": "HyperCore: Rhythm Bullet Hell",
       "file": "missing/H/122388-hypercore-rhythm-bullet-hell.json"
@@ -183963,6 +184013,11 @@
       "file": "missing/I/327391-imprisoned.json"
     },
     {
+      "igdb_id": 156540,
+      "game_name": "Imprisoned Queen",
+      "file": "missing/I/156540-imprisoned-queen.json"
+    },
+    {
       "igdb_id": 311485,
       "game_name": "Improbability",
       "file": "missing/I/311485-improbability.json"
@@ -186741,6 +186796,11 @@
       "igdb_id": 413037,
       "game_name": "Inspired You",
       "file": "missing/I/413037-inspired-you.json"
+    },
+    {
+      "igdb_id": 156522,
+      "game_name": "Instability",
+      "file": "missing/I/156522-instability.json"
     },
     {
       "igdb_id": 269006,
@@ -217348,6 +217408,11 @@
       "file": "missing/L/334714-lost-garden.json"
     },
     {
+      "igdb_id": 156519,
+      "game_name": "Lost Gems",
+      "file": "missing/L/156519-lost-gems.json"
+    },
+    {
       "igdb_id": 259820,
       "game_name": "Lost Girl In Mirror",
       "file": "missing/L/259820-lost-girl-in-mirror.json"
@@ -218526,6 +218591,11 @@
       "igdb_id": 102187,
       "game_name": "Love Story: The Way Home",
       "file": "missing/L/102187-love-story-the-way-home.json"
+    },
+    {
+      "igdb_id": 156516,
+      "game_name": "Love Sucks: Night One",
+      "file": "missing/L/156516-love-sucks-night-one.json"
     },
     {
       "igdb_id": 303639,
@@ -224481,6 +224551,11 @@
       "igdb_id": 62219,
       "game_name": "Man in a Maze",
       "file": "missing/M/62219-man-in-a-maze.json"
+    },
+    {
+      "igdb_id": 156539,
+      "game_name": "Man in gravity",
+      "file": "missing/M/156539-man-in-gravity.json"
     },
     {
       "igdb_id": 312768,
@@ -265023,6 +265098,11 @@
       "file": "missing/O/392291-oddinary-farm.json"
     },
     {
+      "igdb_id": 156530,
+      "game_name": "Oddity Girls: Virtual World",
+      "file": "missing/O/156530-oddity-girls-virtual-world.json"
+    },
+    {
       "igdb_id": 389986,
       "game_name": "Odds at Oddity",
       "file": "missing/O/389986-odds-at-oddity.json"
@@ -289633,6 +289713,11 @@
       "file": "missing/P/325665-pokey-ball.json"
     },
     {
+      "igdb_id": 156525,
+      "game_name": "Pokie the Stickfigure",
+      "file": "missing/P/156525-pokie-the-stickfigure.json"
+    },
+    {
       "igdb_id": 284896,
       "game_name": "Pokini Kagura",
       "file": "missing/P/284896-pokini-kagura.json"
@@ -295258,6 +295343,11 @@
       "file": "missing/P/198356-project-einherjar.json"
     },
     {
+      "igdb_id": 156533,
+      "game_name": "Project Entertainment System",
+      "file": "missing/P/156533-project-entertainment-system.json"
+    },
+    {
       "igdb_id": 269086,
       "game_name": "Project Entropy",
       "file": "missing/P/269086-project-entropy.json"
@@ -295286,6 +295376,11 @@
       "igdb_id": 214038,
       "game_name": "Project Exo",
       "file": "missing/P/214038-project-exo.json"
+    },
+    {
+      "igdb_id": 156529,
+      "game_name": "Project F.A.L.S.E.",
+      "file": "missing/P/156529-project-f-a-l-s-e.json"
     },
     {
       "igdb_id": 258458,
@@ -297376,6 +297471,11 @@
       "igdb_id": 371903,
       "game_name": "Puff Love Story",
       "file": "missing/P/371903-puff-love-story.json"
+    },
+    {
+      "igdb_id": 156528,
+      "game_name": "Puff Puff the Magic Pipe",
+      "file": "missing/P/156528-puff-puff-the-magic-pipe.json"
     },
     {
       "igdb_id": 353983,
@@ -306073,6 +306173,11 @@
       "file": "missing/R/320517-reality-rifts.json"
     },
     {
+      "igdb_id": 156523,
+      "game_name": "Reality's Reverse Side",
+      "file": "missing/R/156523-realitys-reverse-side.json"
+    },
+    {
       "igdb_id": 165651,
       "game_name": "RealityMinds",
       "file": "missing/R/165651-realityminds.json"
@@ -307181,6 +307286,11 @@
       "igdb_id": 358886,
       "game_name": "Red Fox: Exploration on the the Red Fox Island",
       "file": "missing/R/358886-red-fox-exploration-on-the-the-red-fox-island.json"
+    },
+    {
+      "igdb_id": 156534,
+      "game_name": "Red Galaxy",
+      "file": "missing/R/156534-red-galaxy.json"
     },
     {
       "igdb_id": 118360,
@@ -308423,6 +308533,11 @@
       "file": "missing/R/182899-reinquarantination.json"
     },
     {
+      "igdb_id": 156545,
+      "game_name": "reIterate()",
+      "file": "missing/R/156545-reiterate.json"
+    },
+    {
       "igdb_id": 415948,
       "game_name": "Rejoin",
       "file": "missing/R/415948-rejoin.json"
@@ -309406,6 +309521,11 @@
       "igdb_id": 230927,
       "game_name": "Rescue Dash: Time Management Simulator",
       "file": "missing/R/230927-rescue-dash-time-management-simulator.json"
+    },
+    {
+      "igdb_id": 156544,
+      "game_name": "Rescue Friends Solitaire",
+      "file": "missing/R/156544-rescue-friends-solitaire.json"
     },
     {
       "igdb_id": 407347,
@@ -315621,6 +315741,11 @@
       "igdb_id": 329116,
       "game_name": "Rockitty",
       "file": "missing/R/329116-rockitty.json"
+    },
+    {
+      "igdb_id": 156538,
+      "game_name": "Rockjack",
+      "file": "missing/R/156538-rockjack.json"
     },
     {
       "igdb_id": 75031,
@@ -353936,6 +354061,11 @@
       "igdb_id": 307950,
       "game_name": "Spitfire: Moonpies Mission",
       "file": "missing/S/307950-spitfire-moonpies-mission.json"
+    },
+    {
+      "igdb_id": 156517,
+      "game_name": "Spitting Z",
+      "file": "missing/S/156517-spitting-z.json"
     },
     {
       "igdb_id": 83524,
@@ -403678,6 +403808,11 @@
       "file": "missing/T/188617-the-virtual-museum-of-dead-wifery.json"
     },
     {
+      "igdb_id": 156541,
+      "game_name": "The Virus",
+      "file": "missing/T/156541-the-virus.json"
+    },
+    {
       "igdb_id": 375853,
       "game_name": "The Virus Game",
       "file": "missing/T/375853-the-virus-game.json"
@@ -410636,6 +410771,11 @@
       "igdb_id": 55871,
       "game_name": "Time Gal & Ninja Hayate",
       "file": "missing/T/55871-time-gal-and-ninja-hayate.json"
+    },
+    {
+      "igdb_id": 156518,
+      "game_name": "Time Gap Puppies",
+      "file": "missing/T/156518-time-gap-puppies.json"
     },
     {
       "igdb_id": 6253,
@@ -418013,6 +418153,11 @@
       "file": "missing/T/136868-train-sim-world-2.json"
     },
     {
+      "igdb_id": 156500,
+      "game_name": "Train Sim World 2: Arosalinie: Chur - Arosa Route Add-On",
+      "file": "missing/T/156500-train-sim-world-2-arosalinie-chur-arosa-route-add-on.json"
+    },
+    {
       "igdb_id": 168737,
       "game_name": "Train Sim World 2: BR Class 20 'Chopper' Loco",
       "file": "missing/T/168737-train-sim-world-2-br-class-20-chopper-loco.json"
@@ -418053,9 +418198,24 @@
       "file": "missing/T/161734-train-sim-world-2-caltrain-mp36ph-3c-baby-bullet-loco.json"
     },
     {
+      "igdb_id": 156510,
+      "game_name": "Train Sim World 2: Canadian National Oakville Subdivision: Hamilton - Oakville Route Add-On",
+      "file": "missing/T/156510-train-sim-world-2-canadian-national-oakville-subdivision-hamilton-oakville-route-add-on.json"
+    },
+    {
       "igdb_id": 168729,
       "game_name": "Train Sim World 2: Cane Creek: Thompson - Potash Route",
       "file": "missing/T/168729-train-sim-world-2-cane-creek-thompson-potash-route.json"
+    },
+    {
+      "igdb_id": 156506,
+      "game_name": "Train Sim World 2: Cathcart Circle Line: Glasgow - Newton & Neilston Route Add-On",
+      "file": "missing/T/156506-train-sim-world-2-cathcart-circle-line-glasgow-newton-and-neilston-route-add-on.json"
+    },
+    {
+      "igdb_id": 156511,
+      "game_name": "Train Sim World 2: Clinchfield Railroad: Elkhorn - Dante Route Add-On",
+      "file": "missing/T/156511-train-sim-world-2-clinchfield-railroad-elkhorn-dante-route-add-on.json"
     },
     {
       "igdb_id": 139931,
@@ -418093,9 +418253,24 @@
       "file": "missing/T/168733-train-sim-world-2-db-br-363-loco.json"
     },
     {
+      "igdb_id": 156512,
+      "game_name": "Train Sim World 2: Diesel Legends of the Great Western Add-On",
+      "file": "missing/T/156512-train-sim-world-2-diesel-legends-of-the-great-western-add-on.json"
+    },
+    {
+      "igdb_id": 156502,
+      "game_name": "Train Sim World 2: East Coastway: Brighton - Eastbourne & Seaford Route Add-On",
+      "file": "missing/T/156502-train-sim-world-2-east-coastway-brighton-eastbourne-and-seaford-route-add-on.json"
+    },
+    {
       "igdb_id": 227328,
       "game_name": "Train Sim World 2: Great Western Express",
       "file": "missing/T/227328-train-sim-world-2-great-western-express.json"
+    },
+    {
+      "igdb_id": 156509,
+      "game_name": "Train Sim World 2: Great Western Express Route Add-On",
+      "file": "missing/T/156509-train-sim-world-2-great-western-express-route-add-on.json"
     },
     {
       "igdb_id": 195778,
@@ -418106,6 +418281,21 @@
       "igdb_id": 147456,
       "game_name": "Train Sim World 2: Hauptstrecke Hamburg - Lübeck Route Add-On",
       "file": "missing/T/147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json"
+    },
+    {
+      "igdb_id": 156504,
+      "game_name": "Train Sim World 2: Hauptstrecke München - Augsburg Route Add-On",
+      "file": "missing/T/156504-train-sim-world-2-hauptstrecke-munchen-augsburg-route-add-on.json"
+    },
+    {
+      "igdb_id": 156498,
+      "game_name": "Train Sim World 2: Hauptstrecke Rhein-Ruhr: Duisburg - Bochum Route Add-On",
+      "file": "missing/T/156498-train-sim-world-2-hauptstrecke-rhein-ruhr-duisburg-bochum-route-add-on.json"
+    },
+    {
+      "igdb_id": 156496,
+      "game_name": "Train Sim World 2: LGV Méditerranée: Marseille - Avignon Route Add-On",
+      "file": "missing/T/156496-train-sim-world-2-lgv-mediterranee-marseille-avignon-route-add-on.json"
     },
     {
       "igdb_id": 168738,
@@ -418123,14 +418313,59 @@
       "file": "missing/T/227326-train-sim-world-2-main-spessart-bahn.json"
     },
     {
+      "igdb_id": 156501,
+      "game_name": "Train Sim World 2: Main Spessart Bahn: Aschaffenburg - Gemünden Route Add-On",
+      "file": "missing/T/156501-train-sim-world-2-main-spessart-bahn-aschaffenburg-gemunden-route-add-on.json"
+    },
+    {
       "igdb_id": 227325,
       "game_name": "Train Sim World 2: New Journeys CSX SD40",
       "file": "missing/T/227325-train-sim-world-2-new-journeys-csx-sd40.json"
     },
     {
+      "igdb_id": 156497,
+      "game_name": "Train Sim World 2: Northern Trans-Pennine: Manchester - Leeds Route Add-On",
+      "file": "missing/T/156497-train-sim-world-2-northern-trans-pennine-manchester-leeds-route-add-on.json"
+    },
+    {
+      "igdb_id": 156508,
+      "game_name": "Train Sim World 2: Rapid Transit Route Add-On",
+      "file": "missing/T/156508-train-sim-world-2-rapid-transit-route-add-on.json"
+    },
+    {
+      "igdb_id": 156499,
+      "game_name": "Train Sim World 2: Rhein-Ruhr Osten: Wuppertal - Hagen Route Add-On",
+      "file": "missing/T/156499-train-sim-world-2-rhein-ruhr-osten-wuppertal-hagen-route-add-on.json"
+    },
+    {
+      "igdb_id": 156505,
+      "game_name": "Train Sim World 2: Rush Hour",
+      "file": "missing/T/156505-train-sim-world-2-rush-hour.json"
+    },
+    {
       "igdb_id": 195777,
       "game_name": "Train Sim World 2: S-Bahn Zentralschweiz - Luzern: Sursee Route",
       "file": "missing/T/195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json"
+    },
+    {
+      "igdb_id": 156513,
+      "game_name": "Train Sim World 2: Southeastern BR Class 465 EMU Add-On",
+      "file": "missing/T/156513-train-sim-world-2-southeastern-br-class-465-emu-add-on.json"
+    },
+    {
+      "igdb_id": 156507,
+      "game_name": "Train Sim World 2: Southeastern High Speed: London St Pancras - Faversham Route Add-On",
+      "file": "missing/T/156507-train-sim-world-2-southeastern-high-speed-london-st-pancras-faversham-route-add-on.json"
+    },
+    {
+      "igdb_id": 156503,
+      "game_name": "Train Sim World 2: Tees Valley Line - Darlington: Saltburn-by-the-Sea Route",
+      "file": "missing/T/156503-train-sim-world-2-tees-valley-line-darlington-saltburn-by-the-sea-route.json"
+    },
+    {
+      "igdb_id": 156514,
+      "game_name": "Train Sim World 2: West Somerset Railway Route Add-On",
+      "file": "missing/T/156514-train-sim-world-2-west-somerset-railway-route-add-on.json"
     },
     {
       "igdb_id": 162255,
@@ -430223,6 +430458,11 @@
       "file": "missing/U/235873-unwound.json"
     },
     {
+      "igdb_id": 156527,
+      "game_name": "Unyielding",
+      "file": "missing/U/156527-unyielding.json"
+    },
+    {
       "igdb_id": 147475,
       "game_name": "Uoris DX",
       "file": "missing/U/147475-uoris-dx.json"
@@ -435778,6 +436018,11 @@
       "file": "missing/V/216497-vladimeres-lhore.json"
     },
     {
+      "igdb_id": 156542,
+      "game_name": "Vladimir 2021",
+      "file": "missing/V/156542-vladimir-2021.json"
+    },
+    {
       "igdb_id": 102765,
       "game_name": "Vlogger Go Viral",
       "file": "missing/V/102765-vlogger-go-viral.json"
@@ -440486,6 +440731,11 @@
       "igdb_id": 274015,
       "game_name": "Warrior",
       "file": "missing/W/274015-warrior.json"
+    },
+    {
+      "igdb_id": 156536,
+      "game_name": "Warrior Beneath Heaven",
+      "file": "missing/W/156536-warrior-beneath-heaven.json"
     },
     {
       "igdb_id": 270179,
