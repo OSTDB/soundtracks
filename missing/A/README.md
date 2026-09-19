@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Difficult Game About Rolling: ReUpRise | 293739 | [293739-a-difficult-game-about-rolling-reuprise.json](./293739-a-difficult-game-about-rolling-reuprise.json) |
 | A Dino's Journey | 319388 | [319388-a-dinos-journey.json](./319388-a-dinos-journey.json) |
 | A Divided Light | 96766 | [96766-a-divided-light.json](./96766-a-divided-light.json) |
+| A Divine Wager | 176912 | [176912-a-divine-wager.json](./176912-a-divine-wager.json) |
 | A Dog Called Buddy | 341469 | [341469-a-dog-called-buddy.json](./341469-a-dog-called-buddy.json) |
 | A Dragon Named Coal | 236808 | [236808-a-dragon-named-coal.json](./236808-a-dragon-named-coal.json) |
 | A Dream That Never Wakes Up | 236391 | [236391-a-dream-that-never-wakes-up.json](./236391-a-dream-that-never-wakes-up.json) |
@@ -654,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
 | Adventure the Four Swords | 179576 | [179576-adventure-the-four-swords.json](./179576-adventure-the-four-swords.json) |
+| Adventure Time: Finn and Bones | 176870 | [176870-adventure-time-finn-and-bones.json](./176870-adventure-time-finn-and-bones.json) |
 | Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! | 2797 | [2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json](./2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json) |
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
 | Adventure Time: Rockstars of Ooo | 59923 | [59923-adventure-time-rockstars-of-ooo.json](./59923-adventure-time-rockstars-of-ooo.json) |
@@ -1117,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AL: A Choose Your Own Adventure | 179689 | [179689-al-a-choose-your-own-adventure.json](./179689-al-a-choose-your-own-adventure.json) |
 | AL: Artificial Life | 399066 | [399066-al-artificial-life.json](./399066-al-artificial-life.json) |
 | Alaa: Mogus Must Die | 283885 | [283885-alaa-mogus-must-die.json](./283885-alaa-mogus-must-die.json) |
+| Alabama Smith: Escape from Pompeii | 176893 | [176893-alabama-smith-escape-from-pompeii.json](./176893-alabama-smith-escape-from-pompeii.json) |
 | Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
 | Aladdin | 204505 | [204505-aladdin.json](./204505-aladdin.json) |
 | Aladdin II | 242085 | [242085-aladdin-ii.json](./242085-aladdin-ii.json) |
@@ -2145,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelic Force Yuki | 82817 | [82817-angelic-force-yuki.json](./82817-angelic-force-yuki.json) |
 | Angelic Syndrome | 310601 | [310601-angelic-syndrome.json](./310601-angelic-syndrome.json) |
 | Angelic Vale | 202376 | [202376-angelic-vale.json](./202376-angelic-vale.json) |
+| Angelic Waves | 176886 | [176886-angelic-waves.json](./176886-angelic-waves.json) |
 | Angelic Wishes | 223487 | [223487-angelic-wishes.json](./223487-angelic-wishes.json) |
 | Angeline Era | 252768 | [252768-angeline-era.json](./252768-angeline-era.json) |
 | Angelique Etoile | 72680 | [72680-angelique-etoile.json](./72680-angelique-etoile.json) |
@@ -2716,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: Arsenal | 249282 | [249282-apex-legends-arsenal.json](./249282-apex-legends-arsenal.json) |
 | Apex Legends: Defiance | 188649 | [188649-apex-legends-defiance.json](./188649-apex-legends-defiance.json) |
 | Apex Legends: Eclipse | 223471 | [223471-apex-legends-eclipse.json](./223471-apex-legends-eclipse.json) |
+| Apex Legends: Escape | 176896 | [176896-apex-legends-escape.json](./176896-apex-legends-escape.json) |
 | Apex Legends: From the Rift | 330746 | [330746-apex-legends-from-the-rift.json](./330746-apex-legends-from-the-rift.json) |
 | Apex Legends: Legacy | 146328 | [146328-apex-legends-legacy.json](./146328-apex-legends-legacy.json) |
 | Apex Legends: Marked | 412314 | [412314-apex-legends-marked.json](./412314-apex-legends-marked.json) |
@@ -3311,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aretha II | 137076 | [137076-aretha-ii.json](./137076-aretha-ii.json) |
 | Aretisia: Tenebris Dominus | 125391 | [125391-aretisia-tenebris-dominus.json](./125391-aretisia-tenebris-dominus.json) |
 | Arex | 55886 | [55886-arex.json](./55886-arex.json) |
+| Argentum Online | 176876 | [176876-argentum-online.json](./176876-argentum-online.json) |
 | Argentum Online | 93135 | [93135-argentum-online.json](./93135-argentum-online.json) |
 | Argh! | 235835 | [235835-argh.json](./235835-argh.json) |
 | Argh! Earthlings! | 175435 | [175435-argh-earthlings.json](./175435-argh-earthlings.json) |
@@ -3651,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ary and the Secret of Seasons | 54645 | [54645-ary-and-the-secret-of-seasons.json](./54645-ary-and-the-secret-of-seasons.json) |
 | As Above AtumRa So Below | 235772 | [235772-as-above-atumra-so-below.json](./235772-as-above-atumra-so-below.json) |
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
+| As Cold as the Grave | 176924 | [176924-as-cold-as-the-grave.json](./176924-as-cold-as-the-grave.json) |
 | As Per My Last Email | 314868 | [314868-as-per-my-last-email.json](./314868-as-per-my-last-email.json) |
 | As simple as it could get | 211411 | [211411-as-simple-as-it-could-get.json](./211411-as-simple-as-it-could-get.json) |
 | As Sweetberry Falls | 379882 | [379882-as-sweetberry-falls.json](./379882-as-sweetberry-falls.json) |
@@ -4463,6 +4470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn Hike | 257431 | [257431-autumn-hike.json](./257431-autumn-hike.json) |
 | Autumn Isle | 362352 | [362352-autumn-isle.json](./362352-autumn-isle.json) |
 | Autumn Leaves | 109731 | [109731-autumn-leaves.json](./109731-autumn-leaves.json) |
+| Autumn Leaves | 176920 | [176920-autumn-leaves.json](./176920-autumn-leaves.json) |
 | Autumn Leaves | 216345 | [216345-autumn-leaves.json](./216345-autumn-leaves.json) |
 | Autumn Night 3D Shooter | 29723 | [29723-autumn-night-3d-shooter.json](./29723-autumn-night-3d-shooter.json) |
 | Autumn Soil | 184998 | [184998-autumn-soil.json](./184998-autumn-soil.json) |
