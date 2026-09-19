@@ -1801,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overworked | 408180 | [408180-overworked.json](./408180-overworked.json) |
 | Overwritten: Defeat the Net | 224630 | [224630-overwritten-defeat-the-net.json](./224630-overwritten-defeat-the-net.json) |
 | Ovis Loop | 236916 | [236916-ovis-loop.json](./236916-ovis-loop.json) |
+| OvO | 144109 | [144109-ovo.json](./144109-ovo.json) |
 | OVO Smash! | 69238 | [69238-ovo-smash.json](./69238-ovo-smash.json) |
 | OVR Dynamic Resolution | 319793 | [319793-ovr-dynamic-resolution.json](./319793-ovr-dynamic-resolution.json) |
 | Ovum City | 221428 | [221428-ovum-city.json](./221428-ovum-city.json) |
