@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HangOutGame | 166755 | [166755-hangoutgame.json](./166755-hangoutgame.json) |
 | Hangover | 389994 | [389994-hangover.json](./389994-hangover.json) |
 | Hangoverse: Season 1 | 370755 | [370755-hangoverse-season-1.json](./370755-hangoverse-season-1.json) |
+| Hangul Attack | 141664 | [141664-hangul-attack.json](./141664-hangul-attack.json) |
 | Hangzo | 141238 | [141238-hangzo.json](./141238-hangzo.json) |
 | Hank Loves the Beach | 240797 | [240797-hank-loves-the-beach.json](./240797-hank-loves-the-beach.json) |
 | Hank: Drowning on Dry Land | 195168 | [195168-hank-drowning-on-dry-land.json](./195168-hank-drowning-on-dry-land.json) |
@@ -2535,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hjarta | 169985 | [169985-hjarta.json](./169985-hjarta.json) |
 | Hlina | 244996 | [244996-hlina.json](./244996-hlina.json) |
 | Hmph! Hmph! Yowai | 289454 | [289454-hmph-hmph-yowai.json](./289454-hmph-hmph-yowai.json) |
+| Ho-Ho-Home Invasion | 141655 | [141655-ho-ho-home-invasion.json](./141655-ho-ho-home-invasion.json) |
 | Ho-Ho-Maze! | 340476 | [340476-ho-ho-maze.json](./340476-ho-ho-maze.json) |
 | Ho'omana'o Mau: A Somber Daydream | 400216 | [400216-hoomanao-mau-a-somber-daydream.json](./400216-hoomanao-mau-a-somber-daydream.json) |
 | Hoard: Dynamite Roll! | 171075 | [171075-hoard-dynamite-roll.json](./171075-hoard-dynamite-roll.json) |
@@ -2717,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home | 331351 | [331351-home.json](./331351-home.json) |
 | Home | 372448 | [372448-home.json](./372448-home.json) |
 | Home A Drone | 122421 | [122421-home-a-drone.json](./122421-home-a-drone.json) |
+| Home Again Home Again | 141627 | [141627-home-again-home-again.json](./141627-home-again-home-again.json) |
 | Home Alone Survival | 365062 | [365062-home-alone-survival.json](./365062-home-alone-survival.json) |
 | Home Deco Builder | 334096 | [334096-home-deco-builder.json](./334096-home-deco-builder.json) |
 | Home Defender | 278538 | [278538-home-defender.json](./278538-home-defender.json) |
