@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Cleanup | 370709 | [370709-kaiju-cleanup.json](./370709-kaiju-cleanup.json) |
 | Kaiju Commander | 217368 | [217368-kaiju-commander.json](./217368-kaiju-commander.json) |
 | Kaiju Cracking Corp | 286009 | [286009-kaiju-cracking-corp.json](./286009-kaiju-cracking-corp.json) |
+| Kaiju Crush | 147814 | [147814-kaiju-crush.json](./147814-kaiju-crush.json) |
 | Kaiju Evolution Survivor | 334192 | [334192-kaiju-evolution-survivor.json](./334192-kaiju-evolution-survivor.json) |
 | Kaiju Fury Turbo | 303609 | [303609-kaiju-fury-turbo.json](./303609-kaiju-fury-turbo.json) |
 | Kaiju Inc. | 384630 | [384630-kaiju-inc.json](./384630-kaiju-inc.json) |
@@ -1109,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss & Crisis | 194570 | [194570-kiss-and-crisis.json](./194570-kiss-and-crisis.json) |
 | Kiss Ato | 147429 | [147429-kiss-ato.json](./147429-kiss-ato.json) |
 | Kiss Ato | 148357 | [148357-kiss-ato.json](./148357-kiss-ato.json) |
+| Kiss Bell | 147806 | [147806-kiss-bell.json](./147806-kiss-bell.json) |
 | Kiss Effect | 235477 | [235477-kiss-effect.json](./235477-kiss-effect.json) |
 | Kiss in Hell | 298298 | [298298-kiss-in-hell.json](./298298-kiss-in-hell.json) |
 | Kiss Kara Hajimaru Gyaru no Koi: Kurumi no Uwasa to Honto no Kimochi | 186229 | [186229-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi.json](./186229-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi.json) |
