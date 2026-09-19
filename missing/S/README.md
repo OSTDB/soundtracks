@@ -2299,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Realm Rebirth | 390666 | [390666-shattered-realm-rebirth.json](./390666-shattered-realm-rebirth.json) |
 | Shattered Runes | 151154 | [151154-shattered-runes.json](./151154-shattered-runes.json) |
 | Shattered Sky | 244502 | [244502-shattered-sky.json](./244502-shattered-sky.json) |
+| Shattered Slime | 160218 | [160218-shattered-slime.json](./160218-shattered-slime.json) |
 | Shattered Souls | 316428 | [316428-shattered-souls.json](./316428-shattered-souls.json) |
 | Shattered Stone | 185545 | [185545-shattered-stone.json](./185545-shattered-stone.json) |
 | Shattered Void | 340380 | [340380-shattered-void.json](./340380-shattered-void.json) |
@@ -5961,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pilot 2 | 25723 | [25723-space-pilot-2.json](./25723-space-pilot-2.json) |
 | Space Pinball | 50595 | [50595-space-pinball.json](./50595-space-pinball.json) |
 | Space Pirates for Life | 241390 | [241390-space-pirates-for-life.json](./241390-space-pirates-for-life.json) |
+| Space Plane | 160216 | [160216-space-plane.json](./160216-space-plane.json) |
 | Space Planet Invader: Cosmic Power | 305788 | [305788-space-planet-invader-cosmic-power.json](./305788-space-planet-invader-cosmic-power.json) |
 | Space Prevention Force | 179110 | [179110-space-prevention-force.json](./179110-space-prevention-force.json) |
 | Space Pricks | 248641 | [248641-space-pricks.json](./248641-space-pricks.json) |
@@ -9234,6 +9236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Contra | 217546 | [217546-super-contra.json](./217546-super-contra.json) |
 | Super Converger | 177997 | [177997-super-converger.json](./177997-super-converger.json) |
 | Super Corners | 100776 | [100776-super-corners.json](./100776-super-corners.json) |
+| Super CosmoJet | 160248 | [160248-super-cosmojet.json](./160248-super-cosmojet.json) |
 | Super Cosplay War Ultra | 66117 | [66117-super-cosplay-war-ultra.json](./66117-super-cosplay-war-ultra.json) |
 | Super Craft: Building Game | 100851 | [100851-super-craft-building-game.json](./100851-super-craft-building-game.json) |
 | Super Craft: Exploration Survival | 100961 | [100961-super-craft-exploration-survival.json](./100961-super-craft-exploration-survival.json) |
@@ -10331,6 +10334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Cells: Virusbane | 310389 | [310389-survivor-cells-virusbane.json](./310389-survivor-cells-virusbane.json) |
 | Survivor Challenge TD | 276158 | [276158-survivor-challenge-td.json](./276158-survivor-challenge-td.json) |
 | Survivor Day | 195599 | [195599-survivor-day.json](./195599-survivor-day.json) |
+| Survivor Dieland | 160257 | [160257-survivor-dieland.json](./160257-survivor-dieland.json) |
 | Survivor Idle Run | 248124 | [248124-survivor-idle-run.json](./248124-survivor-idle-run.json) |
 | Survivor of the Journey | 210892 | [210892-survivor-of-the-journey.json](./210892-survivor-of-the-journey.json) |
 | Survivor TD | 391574 | [391574-survivor-td.json](./391574-survivor-td.json) |
