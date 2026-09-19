@@ -2926,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plink Game | 239187 | [239187-plink-game.json](./239187-plink-game.json) |
 | Plinko Panic! | 189203 | [189203-plinko-panic.json](./189203-plinko-panic.json) |
 | Plobania 47/B | 400286 | [400286-plobania-47-b.json](./400286-plobania-47-b.json) |
+| Ploid Saga | 132628 | [132628-ploid-saga.json](./132628-ploid-saga.json) |
 | Plong | 258190 | [258190-plong.json](./258190-plong.json) |
 | Ploppy Pairs | 197245 | [197245-ploppy-pairs.json](./197245-ploppy-pairs.json) |
 | Plotting | 12196 | [12196-plotting.json](./12196-plotting.json) |
@@ -2934,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pluck It | 105910 | [105910-pluck-it.json](./105910-pluck-it.json) |
 | Plug It In | 288232 | [288232-plug-it-in.json](./288232-plug-it-in.json) |
 | Plug Wars: The Game | 148476 | [148476-plug-wars-the-game.json](./148476-plug-wars-the-game.json) |
+| PlugMax | 132614 | [132614-plugmax.json](./132614-plugmax.json) |
 | Pluk van de Petteflet | 269556 | [269556-pluk-van-de-petteflet.json](./269556-pluk-van-de-petteflet.json) |
 | Plum Bun Reformatted | 190063 | [190063-plum-bun-reformatted.json](./190063-plum-bun-reformatted.json) |
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
@@ -4757,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect Your Gold From Barack Obama | 313343 | [313343-protect-your-gold-from-barack-obama.json](./313343-protect-your-gold-from-barack-obama.json) |
 | Protecting Santa | 192986 | [192986-protecting-santa.json](./192986-protecting-santa.json) |
 | Protecting the Diamond | 394369 | [394369-protecting-the-diamond.json](./394369-protecting-the-diamond.json) |
+| Protective Clothing | 132616 | [132616-protective-clothing.json](./132616-protective-clothing.json) |
 | Protector | 95461 | [95461-protector.json](./95461-protector.json) |
 | Protector: Special Edition | 40809 | [40809-protector-special-edition.json](./40809-protector-special-edition.json) |
 | Protector/Y*A*S*I | 63809 | [63809-protector-y-a-s-i.json](./63809-protector-y-a-s-i.json) |
