@@ -1559,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Select Quiz | 386283 | [386283-select-quiz.json](./386283-select-quiz.json) |
 | Selena's Charm 2: Enchanted Garden | 417511 | [417511-selenas-charm-2-enchanted-garden.json](./417511-selenas-charm-2-enchanted-garden.json) |
 | Selene | 337167 | [337167-selene.json](./337167-selene.json) |
+| Selene's Nightmare | 153850 | [153850-selenes-nightmare.json](./153850-selenes-nightmare.json) |
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
 | Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
 | Self Reflection | 178011 | [178011-self-reflection.json](./178011-self-reflection.json) |
@@ -1649,6 +1650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentient Noir | 219618 | [219618-sentient-noir.json](./219618-sentient-noir.json) |
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
 | Sentimental Journey | 268036 | [268036-sentimental-journey.json](./268036-sentimental-journey.json) |
+| Sentinel | 153840 | [153840-sentinel.json](./153840-sentinel.json) |
 | Sentinel Heroes | 23641 | [23641-sentinel-heroes.json](./23641-sentinel-heroes.json) |
 | Sentinel of Innocence | 301827 | [301827-sentinel-of-innocence.json](./301827-sentinel-of-innocence.json) |
 | Sentinel Point Heroes | 226441 | [226441-sentinel-point-heroes.json](./226441-sentinel-point-heroes.json) |
@@ -4421,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake II | 10141 | [10141-snake-ii.json](./10141-snake-ii.json) |
 | Snake in the Cube | 158070 | [158070-snake-in-the-cube.json](./158070-snake-in-the-cube.json) |
 | Snake Infinity Lite | 26680 | [26680-snake-infinity-lite.json](./26680-snake-infinity-lite.json) |
+| Snake It 'Til You Make It | 153833 | [153833-snake-it-til-you-make-it.json](./153833-snake-it-til-you-make-it.json) |
 | Snake Jump | 259579 | [259579-snake-jump.json](./259579-snake-jump.json) |
 | Snake Man's Adventure | 158066 | [158066-snake-mans-adventure.json](./158066-snake-mans-adventure.json) |
 | Snake Neon Online | 209685 | [209685-snake-neon-online.json](./209685-snake-neon-online.json) |
@@ -6805,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
 | Sports Illustrated: Championship Football & Baseball | 273410 | [273410-sports-illustrated-championship-football-and-baseball.json](./273410-sports-illustrated-championship-football-and-baseball.json) |
 | Sports Party | 110057 | [110057-sports-party.json](./110057-sports-party.json) |
+| Sports Pinball Bundle | 153837 | [153837-sports-pinball-bundle.json](./153837-sports-pinball-bundle.json) |
 | Sports: Renovations | 314456 | [314456-sports-renovations.json](./314456-sports-renovations.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
