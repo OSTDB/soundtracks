@@ -1197,9 +1197,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR0GU3 | 33151 | [33151-vr0gu3.json](./33151-vr0gu3.json) |
 | VRAdventure | 124156 | [124156-vradventure.json](./124156-vradventure.json) |
 | Vranygrai | 235766 | [235766-vranygrai.json](./235766-vranygrai.json) |
+| VRC Pro: Deluxe Americas On-Road Tracks | 161763 | [161763-vrc-pro-deluxe-americas-on-road-tracks.json](./161763-vrc-pro-deluxe-americas-on-road-tracks.json) |
+| VRC Pro: Deluxe Asia On-Road Tracks | 161764 | [161764-vrc-pro-deluxe-asia-on-road-tracks.json](./161764-vrc-pro-deluxe-asia-on-road-tracks.json) |
+| VRC Pro: Deluxe Asia On-Road Tracks 2 | 161772 | [161772-vrc-pro-deluxe-asia-on-road-tracks-2.json](./161772-vrc-pro-deluxe-asia-on-road-tracks-2.json) |
 | VRC Pro: Deluxe Cars | 162249 | [162249-vrc-pro-deluxe-cars.json](./162249-vrc-pro-deluxe-cars.json) |
+| VRC Pro: Deluxe Electric On-Road Tracks | 161768 | [161768-vrc-pro-deluxe-electric-on-road-tracks.json](./161768-vrc-pro-deluxe-electric-on-road-tracks.json) |
+| VRC Pro: Deluxe European On-Road Tracks | 161771 | [161771-vrc-pro-deluxe-european-on-road-tracks.json](./161771-vrc-pro-deluxe-european-on-road-tracks.json) |
+| VRC Pro: Deluxe Nitro On-Road Tracks | 161774 | [161774-vrc-pro-deluxe-nitro-on-road-tracks.json](./161774-vrc-pro-deluxe-nitro-on-road-tracks.json) |
+| VRC Pro: Deluxe Off-Road Tracks | 161767 | [161767-vrc-pro-deluxe-off-road-tracks.json](./161767-vrc-pro-deluxe-off-road-tracks.json) |
+| VRC Pro: Deluxe Off-Road Tracks 2 | 161762 | [161762-vrc-pro-deluxe-off-road-tracks-2.json](./161762-vrc-pro-deluxe-off-road-tracks-2.json) |
+| VRC Pro: Deluxe Off-Road Tracks 3 | 161766 | [161766-vrc-pro-deluxe-off-road-tracks-3.json](./161766-vrc-pro-deluxe-off-road-tracks-3.json) |
+| VRC Pro: Deluxe Off-Road Tracks 4 | 161765 | [161765-vrc-pro-deluxe-off-road-tracks-4.json](./161765-vrc-pro-deluxe-off-road-tracks-4.json) |
 | VRC Pro: GT3 Chassis and Components | 162250 | [162250-vrc-pro-gt3-chassis-and-components.json](./162250-vrc-pro-gt3-chassis-and-components.json) |
+| VRC Pro: Off-Road Track - Barco, Italy | 161769 | [161769-vrc-pro-off-road-track-barco-italy.json](./161769-vrc-pro-off-road-track-barco-italy.json) |
+| VRC Pro: Off-Road Track - Buggyland Fuencarral, Spain | 161770 | [161770-vrc-pro-off-road-track-buggyland-fuencarral-spain.json](./161770-vrc-pro-off-road-track-buggyland-fuencarral-spain.json) |
 | VRC Pro: Rally-X | 162251 | [162251-vrc-pro-rally-x.json](./162251-vrc-pro-rally-x.json) |
+| VRC Pro: Track Pack - Melzo Oval, Italy | 161761 | [161761-vrc-pro-track-pack-melzo-oval-italy.json](./161761-vrc-pro-track-pack-melzo-oval-italy.json) |
 | VReakout | 33150 | [33150-vreakout.json](./33150-vreakout.json) |
 | Vremya-Dyengi | 88275 | [88275-vremya-dyengi.json](./88275-vremya-dyengi.json) |
 | VRetired | 111702 | [111702-vretired.json](./111702-vretired.json) |
