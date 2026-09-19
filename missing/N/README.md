@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopara Vol. 1 | 26653 | [26653-nekopara-vol-1.json](./26653-nekopara-vol-1.json) |
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
 | Nekopter | 156018 | [156018-nekopter.json](./156018-nekopter.json) |
+| Nekoroid | 152144 | [152144-nekoroid.json](./152144-nekoroid.json) |
 | Nekowater | 274034 | [274034-nekowater.json](./274034-nekowater.json) |
 | Nekra Psaria 4 | 385188 | [385188-nekra-psaria-4.json](./385188-nekra-psaria-4.json) |
 | Nekron: 24 | 323199 | [323199-nekron-24.json](./323199-nekron-24.json) |
@@ -2042,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NorthStar | 55207 | [55207-northstar.json](./55207-northstar.json) |
 | Norukasoruka | 398984 | [398984-norukasoruka.json](./398984-norukasoruka.json) |
 | Norukasoruka: Tanpenshuu | 398985 | [398985-norukasoruka-tanpenshuu.json](./398985-norukasoruka-tanpenshuu.json) |
+| Nose | 152145 | [152145-nose.json](./152145-nose.json) |
 | Nose | 287230 | [287230-nose.json](./287230-nose.json) |
 | Nose Bleed | 227915 | [227915-nose-bleed.json](./227915-nose-bleed.json) |
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
@@ -2305,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nǚwáng | 407321 | [407321-nuwang.json](./407321-nuwang.json) |
 | Nuwe: First seeds | 199099 | [199099-nuwe-first-seeds.json](./199099-nuwe-first-seeds.json) |
 | NY City Bank Manager 2018 | 96725 | [96725-ny-city-bank-manager-2018.json](./96725-ny-city-bank-manager-2018.json) |
+| Nyakamon Adventures | 152159 | [152159-nyakamon-adventures.json](./152159-nyakamon-adventures.json) |
 | Nyako: Restaurant Tycoon | 157178 | [157178-nyako-restaurant-tycoon.json](./157178-nyako-restaurant-tycoon.json) |
 | Nyakori's Rabbit Doll | 130403 | [130403-nyakoris-rabbit-doll.json](./130403-nyakoris-rabbit-doll.json) |
 | Nyakori's Rabbit Doll: After Story | 157552 | [157552-nyakoris-rabbit-doll-after-story.json](./157552-nyakoris-rabbit-doll-after-story.json) |
