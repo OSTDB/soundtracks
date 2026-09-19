@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race Driver: Grid Reloaded | 44555 | [44555-race-driver-grid-reloaded.json](./44555-race-driver-grid-reloaded.json) |
 | Race For Nuts | 359481 | [359481-race-for-nuts.json](./359481-race-for-nuts.json) |
+| Race for the Galaxy: Brink of War | 171486 | [171486-race-for-the-galaxy-brink-of-war.json](./171486-race-for-the-galaxy-brink-of-war.json) |
 | Race for the Galaxy: Rebel vs. Imperium | 167759 | [167759-race-for-the-galaxy-rebel-vs-imperium.json](./167759-race-for-the-galaxy-rebel-vs-imperium.json) |
 | Race for The White House | 234170 | [234170-race-for-the-white-house.json](./234170-race-for-the-white-house.json) |
 | Race Illegal | 240211 | [240211-race-illegal.json](./240211-race-illegal.json) |
@@ -771,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re: Tree of Savior | 174808 | [174808-re-tree-of-savior.json](./174808-re-tree-of-savior.json) |
 | Re:Aegis | 291753 | [291753-re-aegis.json](./291753-re-aegis.json) |
 | Re:Aktor | 383382 | [383382-re-aktor.json](./383382-re-aktor.json) |
+| Re:Award | 171460 | [171460-re-award.json](./171460-re-award.json) |
 | Re:Bf | 193405 | [193405-re-bf.json](./193405-re-bf.json) |
 | Re:Call | 92486 | [92486-re-call.json](./92486-re-call.json) |
 | Re:Connect | 306064 | [306064-re-connect.json](./306064-re-connect.json) |
@@ -1721,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retr0Mine | 386704 | [386704-retr0mine.json](./386704-retr0mine.json) |
 | Retrieval | 405598 | [405598-retrieval.json](./405598-retrieval.json) |
 | Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
+| Retro | 171479 | [171479-retro.json](./171479-retro.json) |
 | Retro Adventure | 308399 | [308399-retro-adventure.json](./308399-retro-adventure.json) |
 | Retro Arcade Shop Simulator | 384086 | [384086-retro-arcade-shop-simulator.json](./384086-retro-arcade-shop-simulator.json) |
 | Retro Arcade: Space Invaders | 220106 | [220106-retro-arcade-space-invaders.json](./220106-retro-arcade-space-invaders.json) |
@@ -2911,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Randy | 166778 | [166778-rogue-randy.json](./166778-rogue-randy.json) |
 | Rogue Realms | 239748 | [239748-rogue-realms.json](./239748-rogue-realms.json) |
 | Rogue Rhythm | 312747 | [312747-rogue-rhythm.json](./312747-rogue-rhythm.json) |
+| Rogue Rising | 171504 | [171504-rogue-rising.json](./171504-rogue-rising.json) |
 | Rogue Robot: Escape Protocol | 304616 | [304616-rogue-robot-escape-protocol.json](./304616-rogue-robot-escape-protocol.json) |
 | Rogue Run | 407304 | [407304-rogue-run.json](./407304-rogue-run.json) |
 | Rogue Samurai | 266278 | [266278-rogue-samurai.json](./266278-rogue-samurai.json) |
