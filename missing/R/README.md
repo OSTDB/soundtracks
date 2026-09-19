@@ -1483,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remain At Your Desk | 401513 | [401513-remain-at-your-desk.json](./401513-remain-at-your-desk.json) |
 | Remaster Textures | 271488 | [271488-remaster-textures.json](./271488-remaster-textures.json) |
 | Rematch | 60008 | [60008-rematch.json](./60008-rematch.json) |
+| Remedy | 150516 | [150516-remedy.json](./150516-remedy.json) |
 | Remedy | 202325 | [202325-remedy.json](./202325-remedy.json) |
 | Remember Saint Patrick | 335079 | [335079-remember-saint-patrick.json](./335079-remember-saint-patrick.json) |
 | Remember the Flowers | 181297 | [181297-remember-the-flowers.json](./181297-remember-the-flowers.json) |
@@ -2077,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RhythmSlinger | 154000 | [154000-rhythmslinger.json](./154000-rhythmslinger.json) |
 | RhythmStar | 230522 | [230522-rhythmstar.json](./230522-rhythmstar.json) |
 | Rhythmy | 116315 | [116315-rhythmy.json](./116315-rhythmy.json) |
+| Ri Ri Ye Ye | 150515 | [150515-ri-ri-ye-ye.json](./150515-ri-ri-ye-ye.json) |
 | Ribbeat | 382771 | [382771-ribbeat.json](./382771-ribbeat.json) |
 | Ribbit Jump | 400368 | [400368-ribbit-jump.json](./400368-ribbit-jump.json) |
 | Ribbit Rampage | 305331 | [305331-ribbit-rampage.json](./305331-ribbit-rampage.json) |
@@ -3041,6 +3043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Role Player: Okayu Shimai no Nenmaku Portrait - Gurigucha Live | 413742 | [413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json](./413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json) |
 | Rolf | 163833 | [163833-rolf.json](./163833-rolf.json) |
 | Roll | 147455 | [147455-roll.json](./147455-roll.json) |
+| Roll a Ball With Your Friends | 150520 | [150520-roll-a-ball-with-your-friends.json](./150520-roll-a-ball-with-your-friends.json) |
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
 | Roll Ball Adventures | 188668 | [188668-roll-ball-adventures.json](./188668-roll-ball-adventures.json) |
 | Roll For Confidence | 171091 | [171091-roll-for-confidence.json](./171091-roll-for-confidence.json) |
@@ -3611,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumor Raiders | 350406 | [350406-rumor-raiders.json](./350406-rumor-raiders.json) |
 | Rumor Reporter | 391072 | [391072-rumor-reporter.json](./391072-rumor-reporter.json) |
 | Rump! | 35772 | [35772-rump.json](./35772-rump.json) |
+| Rumpus | 150522 | [150522-rumpus.json](./150522-rumpus.json) |
 | Rumpus | 30940 | [30940-rumpus.json](./30940-rumpus.json) |
 | Rumu | 74584 | [74584-rumu.json](./74584-rumu.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
