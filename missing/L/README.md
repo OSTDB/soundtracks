@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Goals | 102144 | [102144-life-goals.json](./102144-life-goals.json) |
 | Life Hutch VR | 121610 | [121610-life-hutch-vr.json](./121610-life-hutch-vr.json) |
 | Life In Planet | 152860 | [152860-life-in-planet.json](./152860-life-in-planet.json) |
+| Life in Quarantine | 145474 | [145474-life-in-quarantine.json](./145474-life-in-quarantine.json) |
 | Life in the Analog Age: Rainy Day | 181871 | [181871-life-in-the-analog-age-rainy-day.json](./181871-life-in-the-analog-age-rainy-day.json) |
 | Life in the Fast Lane | 74057 | [74057-life-in-the-fast-lane.json](./74057-life-in-the-fast-lane.json) |
 | Life in the Machine | 189208 | [189208-life-in-the-machine.json](./189208-life-in-the-machine.json) |
@@ -2961,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna's Wandering Stars | 17983 | [17983-lunas-wandering-stars.json](./17983-lunas-wandering-stars.json) |
 | Lunacy | 71493 | [71493-lunacy.json](./71493-lunacy.json) |
 | Lunacy: Saint Rhodes | 26710 | [26710-lunacy-saint-rhodes.json](./26710-lunacy-saint-rhodes.json) |
+| Lunar Assault 64 | 145457 | [145457-lunar-assault-64.json](./145457-lunar-assault-64.json) |
 | Lunar Catastrophe | 260960 | [260960-lunar-catastrophe.json](./260960-lunar-catastrophe.json) |
 | Lunar Chrysalis | 406077 | [406077-lunar-chrysalis.json](./406077-lunar-chrysalis.json) |
 | Lunar Descent | 333360 | [333360-lunar-descent.json](./333360-lunar-descent.json) |
