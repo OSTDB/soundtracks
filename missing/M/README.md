@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
 | Mahjong Realms | 336012 | [336012-mahjong-realms.json](./336012-mahjong-realms.json) |
 | Mahjong Sengoku Monogatari | 37743 | [37743-mahjong-sengoku-monogatari.json](./37743-mahjong-sengoku-monogatari.json) |
+| Mahjong Solitaire Refresh: Ex Panels | 170928 | [170928-mahjong-solitaire-refresh-ex-panels.json](./170928-mahjong-solitaire-refresh-ex-panels.json) |
 | Mahjong Taikai IV | 66091 | [66091-mahjong-taikai-iv.json](./66091-mahjong-taikai-iv.json) |
 | Mahjong Tales: Ancient Wisdom | 52577 | [52577-mahjong-tales-ancient-wisdom.json](./52577-mahjong-tales-ancient-wisdom.json) |
 | Mahjong Trap | 115717 | [115717-mahjong-trap.json](./115717-mahjong-trap.json) |
@@ -3706,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Masters: Zealous Inferno | 330729 | [330729-minion-masters-zealous-inferno.json](./330729-minion-masters-zealous-inferno.json) |
 | Minion Quest: The Search for Bowser | 266891 | [266891-minion-quest-the-search-for-bowser.json](./266891-minion-quest-the-search-for-bowser.json) |
 | Minions of Elden | 176423 | [176423-minions-of-elden.json](./176423-minions-of-elden.json) |
+| Minions of Elden Online | 170924 | [170924-minions-of-elden-online.json](./170924-minions-of-elden-online.json) |
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
 | Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
 | Miniverse | 179059 | [179059-miniverse.json](./179059-miniverse.json) |
@@ -4442,10 +4444,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Eggs | 69197 | [69197-monster-eggs.json](./69197-monster-eggs.json) |
 | Monster Elevator | 319188 | [319188-monster-elevator.json](./319188-monster-elevator.json) |
 | Monster Energy Supercross 5: The Official Videogame - Legends Pack Vol. 2 | 199575 | [199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json](./199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json) |
+| Monster Energy Supercross: The Official Videogame - Compound | 170941 | [170941-monster-energy-supercross-the-official-videogame-compound.json](./170941-monster-energy-supercross-the-official-videogame-compound.json) |
+| Monster Energy Supercross: The Official Videogame - Monster Energy Cup | 170946 | [170946-monster-energy-supercross-the-official-videogame-monster-energy-cup.json](./170946-monster-energy-supercross-the-official-videogame-monster-energy-cup.json) |
 | Monster Energy Supercross: The Official Videogame 2 | 111041 | [111041-monster-energy-supercross-the-official-videogame-2.json](./111041-monster-energy-supercross-the-official-videogame-2.json) |
 | Monster Energy Supercross: The Official Videogame 2 - Los Angeles Memorial Coliseum | 154461 | [154461-monster-energy-supercross-the-official-videogame-2-los-angeles-memorial-coliseum.json](./154461-monster-energy-supercross-the-official-videogame-2-los-angeles-memorial-coliseum.json) |
 | Monster Energy Supercross: The Official Videogame 2 - Monster Energy Cup | 154459 | [154459-monster-energy-supercross-the-official-videogame-2-monster-energy-cup.json](./154459-monster-energy-supercross-the-official-videogame-2-monster-energy-cup.json) |
 | Monster Energy Supercross: The Official Videogame 2 - The Playground | 154460 | [154460-monster-energy-supercross-the-official-videogame-2-the-playground.json](./154460-monster-energy-supercross-the-official-videogame-2-the-playground.json) |
+| Monster Energy Supercross: The Official Videogame 3 - Great Legends | 170944 | [170944-monster-energy-supercross-the-official-videogame-3-great-legends.json](./170944-monster-energy-supercross-the-official-videogame-3-great-legends.json) |
+| Monster Energy Supercross: The Official Videogame 3 - Monster Energy Cup | 170945 | [170945-monster-energy-supercross-the-official-videogame-3-monster-energy-cup.json](./170945-monster-energy-supercross-the-official-videogame-3-monster-energy-cup.json) |
+| Monster Energy Supercross: The Official Videogame 4 - 2Stroke Bikes Pack (125) | 170942 | [170942-monster-energy-supercross-the-official-videogame-4-2stroke-bikes-pack-125.json](./170942-monster-energy-supercross-the-official-videogame-4-2stroke-bikes-pack-125.json) |
+| Monster Energy Supercross: The Official Videogame 4 - Historical Monster Energy Cup 2011 | 170943 | [170943-monster-energy-supercross-the-official-videogame-4-historical-monster-energy-cup-2011.json](./170943-monster-energy-supercross-the-official-videogame-4-historical-monster-energy-cup-2011.json) |
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
 | Monster Feeder | 344917 | [344917-monster-feeder.json](./344917-monster-feeder.json) |
 | Monster Fishing 2018 | 102766 | [102766-monster-fishing-2018.json](./102766-monster-fishing-2018.json) |
@@ -5867,6 +5875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Interstellar Inn | 285568 | [285568-my-interstellar-inn.json](./285568-my-interstellar-inn.json) |
 | My Isekai After Life is an RPG!? | 153392 | [153392-my-isekai-after-life-is-an-rpg.json](./153392-my-isekai-after-life-is-an-rpg.json) |
 | My Journey | 339105 | [339105-my-journey.json](./339105-my-journey.json) |
+| My Journey to Your World | 170932 | [170932-my-journey-to-your-world.json](./170932-my-journey-to-your-world.json) |
 | My Kingdom For the Princess | 137037 | [137037-my-kingdom-for-the-princess.json](./137037-my-kingdom-for-the-princess.json) |
 | My Kingdom for the Princess II | 259831 | [259831-my-kingdom-for-the-princess-ii.json](./259831-my-kingdom-for-the-princess-ii.json) |
 | My Kingdom for the Princess II HD | 102140 | [102140-my-kingdom-for-the-princess-ii-hd.json](./102140-my-kingdom-for-the-princess-ii-hd.json) |
@@ -6259,6 +6268,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Strife | 278414 | [278414-mystic-strife.json](./278414-mystic-strife.json) |
 | Mystic Tavern | 390667 | [390667-mystic-tavern.json](./390667-mystic-tavern.json) |
 | Mystic Tower Legends | 341354 | [341354-mystic-tower-legends.json](./341354-mystic-tower-legends.json) |
+| Mystic Vale: Mana Storm | 170956 | [170956-mystic-vale-mana-storm.json](./170956-mystic-vale-mana-storm.json) |
+| Mystic Vale: Vale of Magic | 170955 | [170955-mystic-vale-vale-of-magic.json](./170955-mystic-vale-vale-of-magic.json) |
+| Mystic Vale: Vale of the Wild | 170957 | [170957-mystic-vale-vale-of-the-wild.json](./170957-mystic-vale-vale-of-the-wild.json) |
 | Mystic Valley Battleground | 272564 | [272564-mystic-valley-battleground.json](./272564-mystic-valley-battleground.json) |
 | Mystic VR | 51940 | [51940-mystic-vr.json](./51940-mystic-vr.json) |
 | Mystica | 230921 | [230921-mystica.json](./230921-mystica.json) |
