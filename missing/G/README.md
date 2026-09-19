@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gain Foxes | 245888 | [245888-gain-foxes.json](./245888-gain-foxes.json) |
 | Gain Ground | 3129 | [3129-gain-ground.json](./3129-gain-ground.json) |
 | Gain Ground SX | 42013 | [42013-gain-ground-sx.json](./42013-gain-ground-sx.json) |
+| Gairaldia 6 | 175297 | [175297-gairaldia-6.json](./175297-gairaldia-6.json) |
 | Gaishin Senki: Millennium Sword | 264307 | [264307-gaishin-senki-millennium-sword.json](./264307-gaishin-senki-millennium-sword.json) |
 | Gakken DS: Otona no Gakushuu Kintaichi Sensei no Nihongo Lesson | 245046 | [245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json](./245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json) |
 | Gakkoi 2: Unmei Ai ha Inochigake | 212262 | [212262-gakkoi-2-unmei-ai-ha-inochigake.json](./212262-gakkoi-2-unmei-ai-ha-inochigake.json) |
