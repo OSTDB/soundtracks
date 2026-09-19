@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Dig Gold: Craft Adventure | 248105 | [248105-idle-dig-gold-craft-adventure.json](./248105-idle-dig-gold-craft-adventure.json) |
 | Idle Dragon Clicker: Expansion Pack 1 | 263188 | [263188-idle-dragon-clicker-expansion-pack-1.json](./263188-idle-dragon-clicker-expansion-pack-1.json) |
 | Idle Dungeons | 103476 | [103476-idle-dungeons.json](./103476-idle-dungeons.json) |
+| Idle Expanse | 138599 | [138599-idle-expanse.json](./138599-idle-expanse.json) |
 | Idle Farming Tycoon Empire | 175877 | [175877-idle-farming-tycoon-empire.json](./175877-idle-farming-tycoon-empire.json) |
 | Idle Flipper | 87666 | [87666-idle-flipper.json](./87666-idle-flipper.json) |
 | Idle Food Empire Tycoon | 219268 | [219268-idle-food-empire-tycoon.json](./219268-idle-food-empire-tycoon.json) |
