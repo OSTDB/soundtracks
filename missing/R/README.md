@@ -2657,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
 | RoboCop | 59110 | [59110-robocop.json](./59110-robocop.json) |
 | RoboCop | 6013 | [6013-robocop.json](./6013-robocop.json) |
+| RoboCop 2 | 144145 | [144145-robocop-2.json](./144145-robocop-2.json) |
 | RoboCop 3 | 19695 | [19695-robocop-3.json](./19695-robocop-3.json) |
 | RoboCop Versus the Terminator | 288341 | [288341-robocop-versus-the-terminator.json](./288341-robocop-versus-the-terminator.json) |
 | RoboCop Versus the Terminator | 8195 | [8195-robocop-versus-the-terminator.json](./8195-robocop-versus-the-terminator.json) |
