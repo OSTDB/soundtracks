@@ -3293,6 +3293,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Path | 339643 | [339643-arcane-path.json](./339643-arcane-path.json) |
 | Arcane Pets: Plushie Empire | 256545 | [256545-arcane-pets-plushie-empire.json](./256545-arcane-pets-plushie-empire.json) |
 | Arcane Plunder | 373538 | [373538-arcane-plunder.json](./373538-arcane-plunder.json) |
+| Arcane Quest 2 | 129597 | [129597-arcane-quest-2.json](./129597-arcane-quest-2.json) |
+| Arcane Quest 3 | 129599 | [129599-arcane-quest-3.json](./129599-arcane-quest-3.json) |
+| Arcane Quest HD | 129598 | [129598-arcane-quest-hd.json](./129598-arcane-quest-hd.json) |
+| Arcane Quest Legends | 129600 | [129600-arcane-quest-legends.json](./129600-arcane-quest-legends.json) |
 | Arcane Raise: Deluxe Edition | 52595 | [52595-arcane-raise-deluxe-edition.json](./52595-arcane-raise-deluxe-edition.json) |
 | Arcane ReRaise: Deluxe Edition | 52594 | [52594-arcane-reraise-deluxe-edition.json](./52594-arcane-reraise-deluxe-edition.json) |
 | Arcane Rift | 370766 | [370766-arcane-rift.json](./370766-arcane-rift.json) |
