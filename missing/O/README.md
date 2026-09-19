@@ -1818,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oyako de Manabu SDGs | 256269 | [256269-oyako-de-manabu-sdgs.json](./256269-oyako-de-manabu-sdgs.json) |
 | Oystron | 40734 | [40734-oystron.json](./40734-oystron.json) |
 | Oz World | 186747 | [186747-oz-world.json](./186747-oz-world.json) |
+| Ozark | 151045 | [151045-ozark.json](./151045-ozark.json) |
 | Ozmafia!! 0 Reflexion | 254574 | [254574-ozmafia-0-reflexion.json](./254574-ozmafia-0-reflexion.json) |
 | Ozone | 208988 | [208988-ozone.json](./208988-ozone.json) |
 | Ozonia 2 | 327203 | [327203-ozonia-2.json](./327203-ozonia-2.json) |
