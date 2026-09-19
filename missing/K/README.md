@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karakuri Kengou Den Musashi Lord | 65436 | [65436-karakuri-kengou-den-musashi-lord.json](./65436-karakuri-kengou-den-musashi-lord.json) |
 | Karakuri Kengou-den: Musashi Road - Harikiri Daishuugyou! | 346027 | [346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json](./346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json) |
 | Karakuri Ninpou | 267991 | [267991-karakuri-ninpou.json](./267991-karakuri-ninpou.json) |
+| Karakuri-kun: A Japanese Tale | 135040 | [135040-karakuri-kun-a-japanese-tale.json](./135040-karakuri-kun-a-japanese-tale.json) |
 | Karakuru | 371904 | [371904-karakuru.json](./371904-karakuru.json) |
 | Karamuu-chou ha Oosawagi! | 228576 | [228576-karamuu-chou-ha-oosawagi.json](./228576-karamuu-chou-ha-oosawagi.json) |
 | Karamuu-chou ha Oosawagi!: Porinkiis to Okashi na Nakama-tachi | 228577 | [228577-karamuu-chou-ha-oosawagi-porinkiis-to-okashi-na-nakama-tachi.json](./228577-karamuu-chou-ha-oosawagi-porinkiis-to-okashi-na-nakama-tachi.json) |
