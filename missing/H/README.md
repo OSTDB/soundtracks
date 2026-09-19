@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Victoria in Egypt - Cheops Pyramid | 200197 | [200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json](./200197-hidden-objects-victoria-in-egypt-cheops-pyramid.json) |
 | Hidden Oddities | 302099 | [302099-hidden-oddities.json](./302099-hidden-oddities.json) |
 | Hidden Oddities in Everyday Life Mystery | 403715 | [403715-hidden-oddities-in-everyday-life-mystery.json](./403715-hidden-oddities-in-everyday-life-mystery.json) |
+| Hidden Office | 152739 | [152739-hidden-office.json](./152739-hidden-office.json) |
 | Hidden Paradise: Aloha with Love - Collector's Edition | 362831 | [362831-hidden-paradise-aloha-with-love-collectors-edition.json](./362831-hidden-paradise-aloha-with-love-collectors-edition.json) |
 | Hidden Pass | 253352 | [253352-hidden-pass.json](./253352-hidden-pass.json) |
 | Hidden Paws Mystery | 109412 | [109412-hidden-paws-mystery.json](./109412-hidden-paws-mystery.json) |
@@ -3351,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howl of Iron | 230926 | [230926-howl-of-iron.json](./230926-howl-of-iron.json) |
 | Howling Village: Echoes | 175810 | [175810-howling-village-echoes.json](./175810-howling-village-echoes.json) |
 | HowLongToBeat: The Game | 362903 | [362903-howlongtobeat-the-game.json](./362903-howlongtobeat-the-game.json) |
+| Howrse | 152750 | [152750-howrse.json](./152750-howrse.json) |
 | Hoyle Card Games | 77395 | [77395-hoyle-card-games.json](./77395-hoyle-card-games.json) |
 | Hoyle Card Games | 87746 | [87746-hoyle-card-games.json](./87746-hoyle-card-games.json) |
 | Hoyle Card Games 2009 | 210064 | [210064-hoyle-card-games-2009.json](./210064-hoyle-card-games-2009.json) |
@@ -3605,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hush: In Search of Dominic Ward | 116298 | [116298-hush-in-search-of-dominic-ward.json](./116298-hush-in-search-of-dominic-ward.json) |
 | Husk | 179682 | [179682-husk.json](./179682-husk.json) |
 | Husk | 18966 | [18966-husk.json](./18966-husk.json) |
+| Husky's Adventures | 152733 | [152733-huskys-adventures.json](./152733-huskys-adventures.json) |
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
 | Hv Rebellion | 184568 | [184568-hv-rebellion.json](./184568-hv-rebellion.json) |
@@ -3733,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia U: Action Unleashed - Bonus Quest | 172172 | [172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json](./172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json) |
 | Hyperdimension Neptunia: Producing Perfection - Limited Edition | 89920 | [89920-hyperdimension-neptunia-producing-perfection-limited-edition.json](./89920-hyperdimension-neptunia-producing-perfection-limited-edition.json) |
 | Hyperdrive Horizon | 340495 | [340495-hyperdrive-horizon.json](./340495-hyperdrive-horizon.json) |
+| HyperFeat | 152761 | [152761-hyperfeat.json](./152761-hyperfeat.json) |
 | Hyperfight 2 | 340496 | [340496-hyperfight-2.json](./340496-hyperfight-2.json) |
 | Hyperflex Ultra | 355562 | [355562-hyperflex-ultra.json](./355562-hyperflex-ultra.json) |
 | HyperFlight | 340497 | [340497-hyperflight.json](./340497-hyperflight.json) |
