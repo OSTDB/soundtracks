@@ -1213,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of the Thousand-Faced Moon | 271312 | [271312-temple-of-the-thousand-faced-moon.json](./271312-temple-of-the-thousand-faced-moon.json) |
 | Temple Run 2 | 336388 | [336388-temple-run-2.json](./336388-temple-run-2.json) |
 | Temple Run: Treasure Hunters | 233503 | [233503-temple-run-treasure-hunters.json](./233503-temple-run-treasure-hunters.json) |
+| Temple with Traps | 167166 | [167166-temple-with-traps.json](./167166-temple-with-traps.json) |
 | Temples vs. Buildings | 296353 | [296353-temples-vs-buildings.json](./296353-temples-vs-buildings.json) |
 | Templum de Malum | 118399 | [118399-templum-de-malum.json](./118399-templum-de-malum.json) |
 | Templum Dormiens Dei | 268460 | [268460-templum-dormiens-dei.json](./268460-templum-dormiens-dei.json) |
@@ -1423,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrestial | 250929 | [250929-terrestial.json](./250929-terrestial.json) |
 | Terrestrial | 311826 | [311826-terrestrial.json](./311826-terrestrial.json) |
 | Terrible Clicking Game | 215391 | [215391-terrible-clicking-game.json](./215391-terrible-clicking-game.json) |
+| Terrible Teeth | 167156 | [167156-terrible-teeth.json](./167156-terrible-teeth.json) |
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
 | Territory War 3 | 234156 | [234156-territory-war-3.json](./234156-territory-war-3.json) |
@@ -2135,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The California Raisins: The Grape Escape | 48702 | [48702-the-california-raisins-the-grape-escape.json](./48702-the-california-raisins-the-grape-escape.json) |
 | The Caligula Effect: Deluxe Digital Bundle | 122355 | [122355-the-caligula-effect-deluxe-digital-bundle.json](./122355-the-caligula-effect-deluxe-digital-bundle.json) |
 | The Caligula Effect: Overdose | 75990 | [75990-the-caligula-effect-overdose.json](./75990-the-caligula-effect-overdose.json) |
+| The Caligula Effect: Overdose - Limited Edition | 167144 | [167144-the-caligula-effect-overdose-limited-edition.json](./167144-the-caligula-effect-overdose-limited-edition.json) |
 | The Call Button | 400871 | [400871-the-call-button.json](./400871-the-call-button.json) |
 | The Call Centre | 149542 | [149542-the-call-centre.json](./149542-the-call-centre.json) |
 | The Call of Krul'ar | 200639 | [200639-the-call-of-krular.json](./200639-the-call-of-krular.json) |
@@ -2959,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Foreverlands | 181234 | [181234-the-foreverlands.json](./181234-the-foreverlands.json) |
 | The Forgers | 352186 | [352186-the-forgers.json](./352186-the-forgers.json) |
 | The Forgotten City: Cloud Version | 173145 | [173145-the-forgotten-city-cloud-version.json](./173145-the-forgotten-city-cloud-version.json) |
+| The Forgotten City: Digital Collector's Edition | 167179 | [167179-the-forgotten-city-digital-collectors-edition.json](./167179-the-forgotten-city-digital-collectors-edition.json) |
 | The Forgotten Empire | 191164 | [191164-the-forgotten-empire.json](./191164-the-forgotten-empire.json) |
 | The Forgotten Fairy Tales: The Spectra World | 100153 | [100153-the-forgotten-fairy-tales-the-spectra-world.json](./100153-the-forgotten-fairy-tales-the-spectra-world.json) |
 | The Forgotten Forest | 34276 | [34276-the-forgotten-forest.json](./34276-the-forgotten-forest.json) |
@@ -3014,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: Sandy Shores World | 171592 | [171592-the-game-of-life-2-sandy-shores-world.json](./171592-the-game-of-life-2-sandy-shores-world.json) |
 | The Game of The Playful | 230930 | [230930-the-game-of-the-playful.json](./230930-the-game-of-the-playful.json) |
 | The Game of Unknown | 195127 | [195127-the-game-of-unknown.json](./195127-the-game-of-unknown.json) |
+| The Game Paradise: Cruisin Mix - Limited Edition | 167151 | [167151-the-game-paradise-cruisin-mix-limited-edition.json](./167151-the-game-paradise-cruisin-mix-limited-edition.json) |
 | The Game That Takes Place on a Cruise Ship | 408818 | [408818-the-game-that-takes-place-on-a-cruise-ship.json](./408818-the-game-that-takes-place-on-a-cruise-ship.json) |
 | The Game That Was Stolen From Me at Indiecade2019 | 396233 | [396233-the-game-that-was-stolen-from-me-at-indiecade2019.json](./396233-the-game-that-was-stolen-from-me-at-indiecade2019.json) |
 | The Game: The Game | 393488 | [393488-the-game-the-game.json](./393488-the-game-the-game.json) |
@@ -7505,6 +7510,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Operation Steel Wave | 135157 | [135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json](./135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Vector Glare | 217521 | [217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json](./217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Void Edge | 135155 | [135155-tom-clancys-rainbow-six-siege-operation-void-edge.json](./135155-tom-clancys-rainbow-six-siege-operation-void-edge.json) |
+| Tom Clancy's Rainbow Six Siege: Year 2 HK SDU Special Edition | 167157 | [167157-tom-clancys-rainbow-six-siege-year-2-hk-sdu-special-edition.json](./167157-tom-clancys-rainbow-six-siege-year-2-hk-sdu-special-edition.json) |
+| Tom Clancy's Rainbow Six Siege: Year 3 Advanced Edition | 167162 | [167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json](./167162-tom-clancys-rainbow-six-siege-year-3-advanced-edition.json) |
 | Tom Clancy's Rainbow Six: Vegas | 314292 | [314292-tom-clancys-rainbow-six-vegas.json](./314292-tom-clancys-rainbow-six-vegas.json) |
 | Tom Clancy's Rainbow Six: Vegas Collection | 295251 | [295251-tom-clancys-rainbow-six-vegas-collection.json](./295251-tom-clancys-rainbow-six-vegas-collection.json) |
 | Tom Clancy's Signature Collection | 53823 | [53823-tom-clancys-signature-collection.json](./53823-tom-clancys-signature-collection.json) |
