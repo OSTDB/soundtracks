@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Revenge | 307606 | [307606-samurai-revenge.json](./307606-samurai-revenge.json) |
 | Samurai Revenge 2 | 241509 | [241509-samurai-revenge-2.json](./241509-samurai-revenge-2.json) |
 | Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
+| Samurai Shaver | 177442 | [177442-samurai-shaver.json](./177442-samurai-shaver.json) |
 | Samurai Shodown: Baiken | 167836 | [167836-samurai-shodown-baiken.json](./167836-samurai-shodown-baiken.json) |
 | Samurai Shodown: Deluxe Edition | 331842 | [331842-samurai-shodown-deluxe-edition.json](./331842-samurai-shodown-deluxe-edition.json) |
 | Samurai Shodown: Deluxe Pack | 237974 | [237974-samurai-shodown-deluxe-pack.json](./237974-samurai-shodown-deluxe-pack.json) |
@@ -862,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scenery Disk 6 | 86024 | [86024-scenery-disk-6.json](./86024-scenery-disk-6.json) |
 | Scenner | 119045 | [119045-scenner.json](./119045-scenner.json) |
 | Scent of Sorrow | 362290 | [362290-scent-of-sorrow.json](./362290-scent-of-sorrow.json) |
+| Scents & Semiosis | 177432 | [177432-scents-and-semiosis.json](./177432-scents-and-semiosis.json) |
 | Scepter of Kzirgla | 356688 | [356688-scepter-of-kzirgla.json](./356688-scepter-of-kzirgla.json) |
 | Sceptorn | 391211 | [391211-sceptorn.json](./391211-sceptorn.json) |
 | Schar: Blue Shield Alliance | 35941 | [35941-schar-blue-shield-alliance.json](./35941-schar-blue-shield-alliance.json) |
@@ -2991,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Ops | 16734 | [16734-signal-ops.json](./16734-signal-ops.json) |
 | Signal13 | 410346 | [410346-signal13.json](./410346-signal13.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
+| Signed by '89 | 177439 | [177439-signed-by-89.json](./177439-signed-by-89.json) |
 | Signs of Darkness | 76531 | [76531-signs-of-darkness.json](./76531-signs-of-darkness.json) |
 | Signs of the Sojourner | 118603 | [118603-signs-of-the-sojourner.json](./118603-signs-of-the-sojourner.json) |
 | Signum Perfectum | 190213 | [190213-signum-perfectum.json](./190213-signum-perfectum.json) |
@@ -3730,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyline Sprinters | 263058 | [263058-skyline-sprinters.json](./263058-skyline-sprinters.json) |
 | Skylost | 201710 | [201710-skylost.json](./201710-skylost.json) |
 | Skynet Rising : Portal to the Past | 25738 | [25738-skynet-rising-portal-to-the-past.json](./25738-skynet-rising-portal-to-the-past.json) |
+| Skynet Simulator | 177429 | [177429-skynet-simulator.json](./177429-skynet-simulator.json) |
 | SkyOfSteel | 177017 | [177017-skyofsteel.json](./177017-skyofsteel.json) |
 | Skypop Scramble | 323750 | [323750-skypop-scramble.json](./323750-skypop-scramble.json) |
 | Skyreach | 33023 | [33023-skyreach.json](./33023-skyreach.json) |
@@ -4155,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Technology 2 | 230267 | [230267-smart-technology-2.json](./230267-smart-technology-2.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
 | Smarty Labs | 410999 | [410999-smarty-labs.json](./410999-smarty-labs.json) |
+| Smash 'n Dab | 177438 | [177438-smash-n-dab.json](./177438-smash-n-dab.json) |
 | Smash 'N' Survive | 45284 | [45284-smash-n-survive.json](./45284-smash-n-survive.json) |
 | Smash + Grab | 23178 | [23178-smash-grab.json](./23178-smash-grab.json) |
 | Smash Arrow | 56421 | [56421-smash-arrow.json](./56421-smash-arrow.json) |
@@ -5449,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry About The Mess | 414322 | [414322-sorry-about-the-mess.json](./414322-sorry-about-the-mess.json) |
 | Sorry Sir, I'm out of controls | 184581 | [184581-sorry-sir-im-out-of-controls.json](./184581-sorry-sir-im-out-of-controls.json) |
 | Sorry Survivor | 343865 | [343865-sorry-survivor.json](./343865-sorry-survivor.json) |
+| Sorry to Bother You | 177399 | [177399-sorry-to-bother-you.json](./177399-sorry-to-bother-you.json) |
 | Sorry, We're Open | 200176 | [200176-sorry-were-open.json](./200176-sorry-were-open.json) |
 | Sorry, Wrong Door | 215931 | [215931-sorry-wrong-door.json](./215931-sorry-wrong-door.json) |
 | Sorry! I surrounded beauty! | 366288 | [366288-sorry-i-surrounded-beauty.json](./366288-sorry-i-surrounded-beauty.json) |
@@ -7601,6 +7607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsuits! (Remastered+ Edition) | 357317 | [357317-starsuits-remastered-edition.json](./357317-starsuits-remastered-edition.json) |
 | Starsweep | 9529 | [9529-starsweep.json](./9529-starsweep.json) |
 | Start a Startup with a Legendary Japanese Warlord | 272909 | [272909-start-a-startup-with-a-legendary-japanese-warlord.json](./272909-start-a-startup-with-a-legendary-japanese-warlord.json) |
+| Start Survey? | 177427 | [177427-start-survey.json](./177427-start-survey.json) |
 | Start the Party! Save the World! | 20731 | [20731-start-the-party-save-the-world.json](./20731-start-the-party-save-the-world.json) |
 | Start Your Engines Bundle | 173789 | [173789-start-your-engines-bundle.json](./173789-start-your-engines-bundle.json) |
 | Start-Up | 57654 | [57654-start-up.json](./57654-start-up.json) |
@@ -8201,6 +8208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Note 3 | 343324 | [343324-strawberry-note-3.json](./343324-strawberry-note-3.json) |
 | Strawberry Park | 312732 | [312732-strawberry-park.json](./312732-strawberry-park.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
+| Stray | 177394 | [177394-stray.json](./177394-stray.json) |
 | Stray Beasts | 256324 | [256324-stray-beasts.json](./256324-stray-beasts.json) |
 | Stray Blade: Valley of Strays | 276825 | [276825-stray-blade-valley-of-strays.json](./276825-stray-blade-valley-of-strays.json) |
 | Stray Gods: Orpheus | 307335 | [307335-stray-gods-orpheus.json](./307335-stray-gods-orpheus.json) |
