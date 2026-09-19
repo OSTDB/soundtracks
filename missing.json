@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T16:32:37.714Z",
-  "total_missing": 93021,
+  "generated_at": "2026-09-19T16:47:35.736Z",
+  "total_missing": 93071,
   "games": [
     {
       "igdb_id": 176875,
@@ -10421,6 +10421,11 @@
       "igdb_id": 371312,
       "game_name": "Alice and the Magical Islands",
       "file": "missing/A/371312-alice-and-the-magical-islands.json"
+    },
+    {
+      "igdb_id": 144141,
+      "game_name": "Alice and You in the planet of numbers",
+      "file": "missing/A/144141-alice-and-you-in-the-planet-of-numbers.json"
     },
     {
       "igdb_id": 159283,
@@ -34218,6 +34223,11 @@
       "file": "missing/B/176871-battle-masters.json"
     },
     {
+      "igdb_id": 144136,
+      "game_name": "Battle Mine Sweeper",
+      "file": "missing/B/144136-battle-mine-sweeper.json"
+    },
+    {
       "igdb_id": 413073,
       "game_name": "Battle Mons",
       "file": "missing/B/413073-battle-mons.json"
@@ -44731,6 +44741,11 @@
       "igdb_id": 267484,
       "game_name": "BloodMoon",
       "file": "missing/B/267484-bloodmoon.json"
+    },
+    {
+      "igdb_id": 144129,
+      "game_name": "Bloodmoon Church",
+      "file": "missing/B/144129-bloodmoon-church.json"
     },
     {
       "igdb_id": 329922,
@@ -60128,6 +60143,11 @@
       "file": "missing/C/239141-castledefense-raisearcher.json"
     },
     {
+      "igdb_id": 144146,
+      "game_name": "Castlehold",
+      "file": "missing/C/144146-castlehold.json"
+    },
+    {
       "igdb_id": 353881,
       "game_name": "CastleOn",
       "file": "missing/C/353881-castleon.json"
@@ -60491,6 +60511,11 @@
       "igdb_id": 256835,
       "game_name": "Cat Burglar",
       "file": "missing/C/256835-cat-burglar.json"
+    },
+    {
+      "igdb_id": 144120,
+      "game_name": "Cat Busters: Collections",
+      "file": "missing/C/144120-cat-busters-collections.json"
     },
     {
       "igdb_id": 243115,
@@ -61751,6 +61776,11 @@
       "igdb_id": 141816,
       "game_name": "Cave",
       "file": "missing/C/141816-cave.json"
+    },
+    {
+      "igdb_id": 144105,
+      "game_name": "Cave Bad",
+      "file": "missing/C/144105-cave-bad.json"
     },
     {
       "igdb_id": 87262,
@@ -64701,6 +64731,11 @@
       "igdb_id": 195144,
       "game_name": "Chesskoban Cyber",
       "file": "missing/C/195144-chesskoban-cyber.json"
+    },
+    {
+      "igdb_id": 144118,
+      "game_name": "ChessLocke",
+      "file": "missing/C/144118-chesslocke.json"
     },
     {
       "igdb_id": 23714,
@@ -74126,6 +74161,11 @@
       "igdb_id": 265626,
       "game_name": "Complex Hero",
       "file": "missing/C/265626-complex-hero.json"
+    },
+    {
+      "igdb_id": 144097,
+      "game_name": "Complex Sky",
+      "file": "missing/C/144097-complex-sky.json"
     },
     {
       "igdb_id": 174195,
@@ -112623,6 +112663,11 @@
       "file": "missing/D/191796-dwarf-complete.json"
     },
     {
+      "igdb_id": 144137,
+      "game_name": "Dwarf Journey",
+      "file": "missing/D/144137-dwarf-journey.json"
+    },
+    {
       "igdb_id": 284905,
       "game_name": "Dwarf Land",
       "file": "missing/D/284905-dwarf-land.json"
@@ -114788,6 +114833,11 @@
       "file": "missing/E/3483-ecw-hardcore-revolution.json"
     },
     {
+      "igdb_id": 144107,
+      "game_name": "Eczema Angel Orifice",
+      "file": "missing/E/144107-eczema-angel-orifice.json"
+    },
+    {
       "igdb_id": 346020,
       "game_name": "Ed & Edda: Grand Prix – Racing Champions",
       "file": "missing/E/346020-ed-and-edda-grand-prix-racing-champions.json"
@@ -114821,6 +114871,11 @@
       "igdb_id": 196798,
       "game_name": "Ed, Edd n Eddy's Candy Machine Deluxe",
       "file": "missing/E/196798-ed-edd-n-eddys-candy-machine-deluxe.json"
+    },
+    {
+      "igdb_id": 144115,
+      "game_name": "Edda Café",
+      "file": "missing/E/144115-edda-cafe.json"
     },
     {
       "igdb_id": 250037,
@@ -126503,6 +126558,21 @@
       "file": "missing/F/313127-fairy-tail-beach-volleyball-havoc.json"
     },
     {
+      "igdb_id": 144100,
+      "game_name": "Fairy Tail: Brave Guild",
+      "file": "missing/F/144100-fairy-tail-brave-guild.json"
+    },
+    {
+      "igdb_id": 144095,
+      "game_name": "Fairy Tail: Brave Saga",
+      "file": "missing/F/144095-fairy-tail-brave-saga.json"
+    },
+    {
+      "igdb_id": 144096,
+      "game_name": "Fairy Tail: DiceMagic",
+      "file": "missing/F/144096-fairy-tail-dicemagic.json"
+    },
+    {
       "igdb_id": 313123,
       "game_name": "Fairy Tail: Dungeons",
       "file": "missing/F/313123-fairy-tail-dungeons.json"
@@ -137796,6 +137866,11 @@
       "igdb_id": 230299,
       "game_name": "Floppy Knights: Version 2.0",
       "file": "missing/F/230299-floppy-knights-version-2-0.json"
+    },
+    {
+      "igdb_id": 144104,
+      "game_name": "Floppy Minecraft",
+      "file": "missing/F/144104-floppy-minecraft.json"
     },
     {
       "igdb_id": 175906,
@@ -151578,6 +151653,11 @@
       "file": "missing/G/169356-get-to-work-succubus-chan.json"
     },
     {
+      "igdb_id": 144126,
+      "game_name": "Get Together",
+      "file": "missing/G/144126-get-together.json"
+    },
+    {
       "igdb_id": 23396,
       "game_name": "Get Up and Dance",
       "file": "missing/G/23396-get-up-and-dance.json"
@@ -160853,6 +160933,11 @@
       "file": "missing/G/133433-guardian-tales.json"
     },
     {
+      "igdb_id": 144110,
+      "game_name": "Guardians Frontline",
+      "file": "missing/G/144110-guardians-frontline.json"
+    },
+    {
       "igdb_id": 322213,
       "game_name": "Guardians of Altarris: The Sinless Blade",
       "file": "missing/G/322213-guardians-of-altarris-the-sinless-blade.json"
@@ -164471,6 +164556,11 @@
       "igdb_id": 307295,
       "game_name": "Hamster",
       "file": "missing/H/307295-hamster.json"
+    },
+    {
+      "igdb_id": 144121,
+      "game_name": "Hamster All-Stars",
+      "file": "missing/H/144121-hamster-all-stars.json"
     },
     {
       "igdb_id": 191821,
@@ -176553,6 +176643,11 @@
       "file": "missing/H/249814-home-sweet-home-online.json"
     },
     {
+      "igdb_id": 144132,
+      "game_name": "Home Sweet Home: Survive",
+      "file": "missing/H/144132-home-sweet-home-survive.json"
+    },
+    {
       "igdb_id": 135306,
       "game_name": "Home Sweet Homecoming",
       "file": "missing/H/135306-home-sweet-homecoming.json"
@@ -176916,6 +177011,11 @@
       "igdb_id": 260407,
       "game_name": "HoneySun",
       "file": "missing/H/260407-honeysun.json"
+    },
+    {
+      "igdb_id": 144101,
+      "game_name": "HoneyWorks Premium Live",
+      "file": "missing/H/144101-honeyworks-premium-live.json"
     },
     {
       "igdb_id": 145612,
@@ -180371,6 +180471,11 @@
       "igdb_id": 210053,
       "game_name": "Humpty's Castle Adventure",
       "file": "missing/H/210053-humptys-castle-adventure.json"
+    },
+    {
+      "igdb_id": 144139,
+      "game_name": "Humpty's Scramble",
+      "file": "missing/H/144139-humptys-scramble.json"
     },
     {
       "igdb_id": 92962,
@@ -225228,6 +225333,11 @@
       "file": "missing/M/303642-magic-trap.json"
     },
     {
+      "igdb_id": 144135,
+      "game_name": "Magic Traps",
+      "file": "missing/M/144135-magic-traps.json"
+    },
+    {
       "igdb_id": 132244,
       "game_name": "Magic Twins",
       "file": "missing/M/132244-magic-twins.json"
@@ -240638,6 +240748,11 @@
       "file": "missing/M/28407-minecraft-education.json"
     },
     {
+      "igdb_id": 144111,
+      "game_name": "Minecraft Lovehunt",
+      "file": "missing/M/144111-minecraft-lovehunt.json"
+    },
+    {
       "igdb_id": 411659,
       "game_name": "Minecraft Matcha Flavoured",
       "file": "missing/M/411659-minecraft-matcha-flavoured.json"
@@ -246371,6 +246486,11 @@
       "igdb_id": 307329,
       "game_name": "Monster Prom 4: Monster Con",
       "file": "missing/M/307329-monster-prom-4-monster-con.json"
+    },
+    {
+      "igdb_id": 144089,
+      "game_name": "Monster Prom: Hotseat Edition",
+      "file": "missing/M/144089-monster-prom-hotseat-edition.json"
     },
     {
       "igdb_id": 155070,
@@ -262393,6 +262513,11 @@
       "file": "missing/N/343337-nightmare-simulator.json"
     },
     {
+      "igdb_id": 144117,
+      "game_name": "Nightmare Temptation Academy",
+      "file": "missing/N/144117-nightmare-temptation-academy.json"
+    },
+    {
       "igdb_id": 216792,
       "game_name": "Nightmare Without Return",
       "file": "missing/N/216792-nightmare-without-return.json"
@@ -276133,6 +276258,11 @@
       "file": "missing/O/236916-ovis-loop.json"
     },
     {
+      "igdb_id": 144109,
+      "game_name": "OvO",
+      "file": "missing/O/144109-ovo.json"
+    },
+    {
       "igdb_id": 69238,
       "game_name": "OVO Smash!",
       "file": "missing/O/69238-ovo-smash.json"
@@ -284323,6 +284453,11 @@
       "file": "missing/P/117605-phantom-rose.json"
     },
     {
+      "igdb_id": 144106,
+      "game_name": "Phantom Rose Scarlet",
+      "file": "missing/P/144106-phantom-rose-scarlet.json"
+    },
+    {
       "igdb_id": 307598,
       "game_name": "Phantom Shift",
       "file": "missing/P/307598-phantom-shift.json"
@@ -285776,6 +285911,11 @@
       "igdb_id": 246635,
       "game_name": "Pieces of My Heart",
       "file": "missing/P/246635-pieces-of-my-heart.json"
+    },
+    {
+      "igdb_id": 144144,
+      "game_name": "Pien",
+      "file": "missing/P/144144-pien.json"
     },
     {
       "igdb_id": 188081,
@@ -298418,6 +298558,11 @@
       "file": "missing/P/297475-project-cairo.json"
     },
     {
+      "igdb_id": 144090,
+      "game_name": "Project Canopy",
+      "file": "missing/P/144090-project-canopy.json"
+    },
+    {
       "igdb_id": 335324,
       "game_name": "Project Carrot",
       "file": "missing/P/335324-project-carrot.json"
@@ -302058,6 +302203,11 @@
       "file": "missing/P/84795-puzzle-box-maker.json"
     },
     {
+      "igdb_id": 144124,
+      "game_name": "Puzzle Box Palace",
+      "file": "missing/P/144124-puzzle-box-palace.json"
+    },
+    {
       "igdb_id": 104608,
       "game_name": "Puzzle Box-Puzzles All In One",
       "file": "missing/P/104608-puzzle-box-puzzles-all-in-one.json"
@@ -303221,6 +303371,11 @@
       "igdb_id": 188576,
       "game_name": "QP Kiss",
       "file": "missing/Q/188576-qp-kiss.json"
+    },
+    {
+      "igdb_id": 144094,
+      "game_name": "Qpang",
+      "file": "missing/Q/144094-qpang.json"
     },
     {
       "igdb_id": 240882,
@@ -318173,6 +318328,11 @@
       "file": "missing/R/6013-robocop.json"
     },
     {
+      "igdb_id": 144145,
+      "game_name": "RoboCop 2",
+      "file": "missing/R/144145-robocop-2.json"
+    },
+    {
       "igdb_id": 19695,
       "game_name": "RoboCop 3",
       "file": "missing/R/19695-robocop-3.json"
@@ -325638,6 +325798,11 @@
       "file": "missing/S/307139-saints-row-dead-island-2-cosmetic-pack.json"
     },
     {
+      "igdb_id": 144125,
+      "game_name": "Saints Row: Double Pack",
+      "file": "missing/S/144125-saints-row-double-pack.json"
+    },
+    {
       "igdb_id": 77307,
       "game_name": "Saints Row: Drive-By",
       "file": "missing/S/77307-saints-row-drive-by.json"
@@ -332028,6 +332193,11 @@
       "file": "missing/S/28838-sega-gt.json"
     },
     {
+      "igdb_id": 144128,
+      "game_name": "Sega GT 2002 / Jet Set Radio Future",
+      "file": "missing/S/144128-sega-gt-2002-jet-set-radio-future.json"
+    },
+    {
       "igdb_id": 202781,
       "game_name": "Sega Mega Drive Portable Video Game Player",
       "file": "missing/S/202781-sega-mega-drive-portable-video-game-player.json"
@@ -332176,6 +332346,11 @@
       "igdb_id": 24971,
       "game_name": "Seinarukana -The Spirit of Eternity Sword 2-",
       "file": "missing/S/24971-seinarukana-the-spirit-of-eternity-sword-2.json"
+    },
+    {
+      "igdb_id": 144119,
+      "game_name": "Seinfeld: The Telltale Series",
+      "file": "missing/S/144119-seinfeld-the-telltale-series.json"
     },
     {
       "igdb_id": 311290,
@@ -342178,6 +342353,11 @@
       "file": "missing/S/257433-sizif.json"
     },
     {
+      "igdb_id": 144112,
+      "game_name": "SJ-19 Learns to Love!",
+      "file": "missing/S/144112-sj-19-learns-to-love.json"
+    },
+    {
       "igdb_id": 75918,
       "game_name": "Sk8",
       "file": "missing/S/75918-sk8.json"
@@ -344626,6 +344806,11 @@
       "igdb_id": 244377,
       "game_name": "Slime 3K: Rise Against Despot",
       "file": "missing/S/244377-slime-3k-rise-against-despot.json"
+    },
+    {
+      "igdb_id": 144114,
+      "game_name": "Slime 64",
+      "file": "missing/S/144114-slime-64.json"
     },
     {
       "igdb_id": 108411,
@@ -349671,6 +349856,11 @@
       "igdb_id": 147300,
       "game_name": "Some Old Stuff",
       "file": "missing/S/147300-some-old-stuff.json"
+    },
+    {
+      "igdb_id": 144108,
+      "game_name": "Some Peace of Mind",
+      "file": "missing/S/144108-some-peace-of-mind.json"
     },
     {
       "igdb_id": 22361,
@@ -363503,6 +363693,11 @@
       "file": "missing/S/272909-start-a-startup-with-a-legendary-japanese-warlord.json"
     },
     {
+      "igdb_id": 144092,
+      "game_name": "Start Again: A Prologue",
+      "file": "missing/S/144092-start-again-a-prologue.json"
+    },
+    {
       "igdb_id": 177427,
       "game_name": "Start Survey?",
       "file": "missing/S/177427-start-survey.json"
@@ -374233,6 +374428,11 @@
       "file": "missing/S/246482-super-rabbit.json"
     },
     {
+      "igdb_id": 144142,
+      "game_name": "Super Raft Boat Classic",
+      "file": "missing/S/144142-super-raft-boat-classic.json"
+    },
+    {
       "igdb_id": 377710,
       "game_name": "Super Ranger",
       "file": "missing/S/377710-super-ranger.json"
@@ -381838,6 +382038,11 @@
       "file": "missing/T/85425-tales-to-enjoy-three-little-pigs.json"
     },
     {
+      "igdb_id": 144122,
+      "game_name": "Tales We Tell Ourselves",
+      "file": "missing/T/144122-tales-we-tell-ourselves.json"
+    },
+    {
       "igdb_id": 190106,
       "game_name": "Talespinner",
       "file": "missing/T/190106-talespinner.json"
@@ -384891,6 +385096,11 @@
       "igdb_id": 169878,
       "game_name": "Teen Patti Octro",
       "file": "missing/T/169878-teen-patti-octro.json"
+    },
+    {
+      "igdb_id": 144130,
+      "game_name": "Teen Titans Battle Blitz",
+      "file": "missing/T/144130-teen-titans-battle-blitz.json"
     },
     {
       "igdb_id": 59358,
@@ -402553,6 +402763,11 @@
       "file": "missing/T/50484-the-powerpuff-girls-defenders-of-townsville.json"
     },
     {
+      "igdb_id": 144131,
+      "game_name": "The Powerpuff Girls: Fast and Flurrious",
+      "file": "missing/T/144131-the-powerpuff-girls-fast-and-flurrious.json"
+    },
+    {
       "igdb_id": 309101,
       "game_name": "The Powerpuff Girls: Monkey Mania",
       "file": "missing/T/309101-the-powerpuff-girls-monkey-mania.json"
@@ -403026,6 +403241,11 @@
       "igdb_id": 207808,
       "game_name": "The Rack",
       "file": "missing/T/207808-the-rack.json"
+    },
+    {
+      "igdb_id": 144138,
+      "game_name": "The Radiants",
+      "file": "missing/T/144138-the-radiants.json"
     },
     {
       "igdb_id": 72047,
@@ -416263,6 +416483,11 @@
       "file": "missing/T/267670-tiny-whaley.json"
     },
     {
+      "igdb_id": 144143,
+      "game_name": "Tiny Whoop GO",
+      "file": "missing/T/144143-tiny-whoop-go.json"
+    },
+    {
       "igdb_id": 412388,
       "game_name": "Tiny Wizard Tavern",
       "file": "missing/T/412388-tiny-wizard-tavern.json"
@@ -420651,6 +420876,11 @@
       "igdb_id": 256898,
       "game_name": "Touhou Kosuzu no Butsuri Game!",
       "file": "missing/T/256898-touhou-kosuzu-no-butsuri-game.json"
+    },
+    {
+      "igdb_id": 144093,
+      "game_name": "Touhou Kouryuudou: Unconnected Marketeers",
+      "file": "missing/T/144093-touhou-kouryuudou-unconnected-marketeers.json"
     },
     {
       "igdb_id": 196162,
@@ -433803,6 +434033,11 @@
       "file": "missing/U/256834-unhallowed.json"
     },
     {
+      "igdb_id": 144113,
+      "game_name": "Unhatched",
+      "file": "missing/U/144113-unhatched.json"
+    },
+    {
       "igdb_id": 228720,
       "game_name": "Unheard: The Lethal Script",
       "file": "missing/U/228720-unheard-the-lethal-script.json"
@@ -441368,6 +441603,11 @@
       "file": "missing/V/232011-voidrun.json"
     },
     {
+      "igdb_id": 144103,
+      "game_name": "Voids Adrift",
+      "file": "missing/V/144103-voids-adrift.json"
+    },
+    {
       "igdb_id": 282024,
       "game_name": "Voids Vigil",
       "file": "missing/V/282024-voids-vigil.json"
@@ -444006,6 +444246,11 @@
       "igdb_id": 335858,
       "game_name": "Wanted 3D: Dead or Alive",
       "file": "missing/W/335858-wanted-3d-dead-or-alive.json"
+    },
+    {
+      "igdb_id": 144087,
+      "game_name": "Wanted Raccoon",
+      "file": "missing/W/144087-wanted-raccoon.json"
     },
     {
       "igdb_id": 267679,
@@ -452456,6 +452701,11 @@
       "igdb_id": 158233,
       "game_name": "Wizard Bros",
       "file": "missing/W/158233-wizard-bros.json"
+    },
+    {
+      "igdb_id": 144116,
+      "game_name": "Wizard Card Game",
+      "file": "missing/W/144116-wizard-card-game.json"
     },
     {
       "igdb_id": 401549,
