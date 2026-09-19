@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Quest 2 | 311813 | [311813-waifu-quest-2.json](./311813-waifu-quest-2.json) |
 | Waifu Space Conquest | 250383 | [250383-waifu-space-conquest.json](./250383-waifu-space-conquest.json) |
 | Waifu Survivors | 338553 | [338553-waifu-survivors.json](./338553-waifu-survivors.json) |
+| Waifu vs. Evil | 154372 | [154372-waifu-vs-evil.json](./154372-waifu-vs-evil.json) |
 | Waifu Wars Splash | 183560 | [183560-waifu-wars-splash.json](./183560-waifu-wars-splash.json) |
 | Waifu's Spooky Space Station | 143651 | [143651-waifus-spooky-space-station.json](./143651-waifus-spooky-space-station.json) |
 | Waifusitter | 338554 | [338554-waifusitter.json](./338554-waifusitter.json) |
