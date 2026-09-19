@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queenchantment | 192801 | [192801-queenchantment.json](./192801-queenchantment.json) |
 | Queensrÿche's Promised Land | 71465 | [71465-queensryches-promised-land.json](./71465-queensryches-promised-land.json) |
 | Queeny Army | 126565 | [126565-queeny-army.json](./126565-queeny-army.json) |
+| Queer and Chill | 149965 | [149965-queer-and-chill.json](./149965-queer-and-chill.json) |
 | Queer Quest: All in a Gay's Work | 272945 | [272945-queer-quest-all-in-a-gays-work.json](./272945-queer-quest-all-in-a-gays-work.json) |
 | Quell | 15741 | [15741-quell.json](./15741-quell.json) |
 | Quell 4D | 25070 | [25070-quell-4d.json](./25070-quell-4d.json) |
