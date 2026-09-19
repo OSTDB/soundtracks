@@ -3191,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Play It! Version 2 | 24959 | [24959-pokemon-play-it-version-2.json](./24959-pokemon-play-it-version-2.json) |
 | Pokémon Polished Crystal | 220866 | [220866-pokemon-polished-crystal.json](./220866-pokemon-polished-crystal.json) |
 | Pokémon Prismatic Moon | 383533 | [383533-pokemon-prismatic-moon.json](./383533-pokemon-prismatic-moon.json) |
+| Pokémon Psychic Seeds | 157527 | [157527-pokemon-psychic-seeds.json](./157527-pokemon-psychic-seeds.json) |
 | Pokémon Puffy Pink | 327204 | [327204-pokemon-puffy-pink.json](./327204-pokemon-puffy-pink.json) |
 | Pokémon PureBlue | 233600 | [233600-pokemon-pureblue.json](./233600-pokemon-pureblue.json) |
 | Pokémon Quest | 102874 | [102874-pokemon-quest.json](./102874-pokemon-quest.json) |
@@ -3324,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Atv Offroad | 309872 | [309872-police-atv-offroad.json](./309872-police-atv-offroad.json) |
 | Police Car Drift Simulator | 223986 | [223986-police-car-drift-simulator.json](./223986-police-car-drift-simulator.json) |
 | Police Car SUV Simulator | 256563 | [256563-police-car-suv-simulator.json](./256563-police-car-suv-simulator.json) |
+| Police Chase | 157550 | [157550-police-chase.json](./157550-police-chase.json) |
 | Police Chopper | 87917 | [87917-police-chopper.json](./87917-police-chopper.json) |
 | Police Enforcement VR : 1-K-27 | 97014 | [97014-police-enforcement-vr-1-k-27.json](./97014-police-enforcement-vr-1-k-27.json) |
 | Police on Duty | 209656 | [209656-police-on-duty.json](./209656-police-on-duty.json) |
@@ -3675,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poseidon: Planet Eleven | 67276 | [67276-poseidon-planet-eleven.json](./67276-poseidon-planet-eleven.json) |
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
 | Posibility | 127367 | [127367-posibility.json](./127367-posibility.json) |
+| Possessed Bloody Asylum | 157570 | [157570-possessed-bloody-asylum.json](./157570-possessed-bloody-asylum.json) |
 | Possession | 90649 | [90649-possession.json](./90649-possession.json) |
 | Possession Game | 354523 | [354523-possession-game.json](./354523-possession-game.json) |
 | PossiblyAxolotl's PlayPack | 349873 | [349873-possiblyaxolotls-playpack.json](./349873-possiblyaxolotls-playpack.json) |
