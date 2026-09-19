@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
 | A Tale About Flowers | 188501 | [188501-a-tale-about-flowers.json](./188501-a-tale-about-flowers.json) |
 | A Tale about Tail | 185079 | [185079-a-tale-about-tail.json](./185079-a-tale-about-tail.json) |
+| A Tale for Anna | 151043 | [151043-a-tale-for-anna.json](./151043-a-tale-for-anna.json) |
 | A Tale for Anna: Collector's Edition | 382907 | [382907-a-tale-for-anna-collectors-edition.json](./382907-a-tale-for-anna-collectors-edition.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tale of Caos: Overture | 32116 | [32116-a-tale-of-caos-overture.json](./32116-a-tale-of-caos-overture.json) |
@@ -857,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahegal Seasons | 203381 | [203381-ahegal-seasons.json](./203381-ahegal-seasons.json) |
 | AHH!!! MazeZing | 158046 | [158046-ahh-mazezing.json](./158046-ahh-mazezing.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
+| AI Hunter | 151027 | [151027-ai-hunter.json](./151027-ai-hunter.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | Ai Painter: Painting Simulator | 350489 | [350489-ai-painter-painting-simulator.json](./350489-ai-painter-painting-simulator.json) |
 | Ai Sensei no Oshiete: Watashi no Hoshi | 48668 | [48668-ai-sensei-no-oshiete-watashi-no-hoshi.json](./48668-ai-sensei-no-oshiete-watashi-no-hoshi.json) |
@@ -870,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI War: Ancient Shadows | 8888 | [8888-ai-war-ancient-shadows.json](./8888-ai-war-ancient-shadows.json) |
 | AI Wars: The Awakening | 71500 | [71500-ai-wars-the-awakening.json](./71500-ai-wars-the-awakening.json) |
 | Ai Yori Aoshi | 72668 | [72668-ai-yori-aoshi.json](./72668-ai-yori-aoshi.json) |
+| Ai Yu Ming De Bi Duan | 151021 | [151021-ai-yu-ming-de-bi-duan.json](./151021-ai-yu-ming-de-bi-duan.json) |
 | Ai-(Onic) | 197878 | [197878-ai-onic.json](./197878-ai-onic.json) |
 | AI: The Somnium Files | 104971 | [104971-ai-the-somnium-files.json](./104971-ai-the-somnium-files.json) |
 | AI.Gears: Team Tag Battle | 277312 | [277312-ai-gears-team-tag-battle.json](./277312-ai-gears-team-tag-battle.json) |
