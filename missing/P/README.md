@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peasant TD | 195158 | [195158-peasant-td.json](./195158-peasant-td.json) |
 | Pebble | 188610 | [188610-pebble.json](./188610-pebble.json) |
 | Pebble Knights | 347758 | [347758-pebble-knights.json](./347758-pebble-knights.json) |
+| Pebble's Bakery | 180714 | [180714-pebbles-bakery.json](./180714-pebbles-bakery.json) |
 | Pebbles Quest | 324337 | [324337-pebbles-quest.json](./324337-pebbles-quest.json) |
 | Pec-Men | 335693 | [335693-pec-men.json](./335693-pec-men.json) |
 | Pecker | 244272 | [244272-pecker.json](./244272-pecker.json) |
@@ -2206,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitch Black | 223685 | [223685-pitch-black.json](./223685-pitch-black.json) |
 | Pitch Deck | 204733 | [204733-pitch-deck.json](./204733-pitch-deck.json) |
 | Pitch Patter | 273657 | [273657-pitch-patter.json](./273657-pitch-patter.json) |
+| Pitch Shift | 180676 | [180676-pitch-shift.json](./180676-pitch-shift.json) |
 | Pitch-Hit | 57710 | [57710-pitch-hit.json](./57710-pitch-hit.json) |
 | Pitch-Hit: Baseball | 31347 | [31347-pitch-hit-baseball.json](./31347-pitch-hit-baseball.json) |
 | Pitcher and the Whale | 153355 | [153355-pitcher-and-the-whale.json](./153355-pitcher-and-the-whale.json) |
