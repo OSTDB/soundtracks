@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam Forever | 336017 | [336017-serious-sam-forever.json](./336017-serious-sam-forever.json) |
 | Serious Sam Fusion 2017 | 91191 | [91191-serious-sam-fusion-2017.json](./91191-serious-sam-fusion-2017.json) |
 | Serious Sam HD: The First Encounter | 13180 | [13180-serious-sam-hd-the-first-encounter.json](./13180-serious-sam-hd-the-first-encounter.json) |
+| Serious Sam HD: The Second Encounter - Legend of the Beast | 170923 | [170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json](./170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json) |
 | Serious Sam II | 787 | [787-serious-sam-ii.json](./787-serious-sam-ii.json) |
 | Serious Sam: GOG Collection | 205226 | [205226-serious-sam-gog-collection.json](./205226-serious-sam-gog-collection.json) |
 | Serious Sam: The Second Encounter | 858 | [858-serious-sam-the-second-encounter.json](./858-serious-sam-the-second-encounter.json) |
@@ -3158,6 +3159,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimHealth | 93048 | [93048-simhealth.json](./93048-simhealth.json) |
 | Simian Rising | 102147 | [102147-simian-rising.json](./102147-simian-rising.json) |
 | Simian.Interface | 32702 | [32702-simian-interface.json](./32702-simian-interface.json) |
+| Similo: History | 170927 | [170927-similo-history.json](./170927-similo-history.json) |
+| Similo: Spookies | 170926 | [170926-similo-spookies.json](./170926-similo-spookies.json) |
 | SimLife | 12768 | [12768-simlife.json](./12768-simlife.json) |
 | Simnetzero | 234751 | [234751-simnetzero.json](./234751-simnetzero.json) |
 | Simon and Friends | 401687 | [401687-simon-and-friends.json](./401687-simon-and-friends.json) |
