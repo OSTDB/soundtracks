@@ -1788,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maybe I Can | 153957 | [153957-maybe-i-can.json](./153957-maybe-i-can.json) |
 | Maybe Tomorrow | 238740 | [238740-maybe-tomorrow.json](./238740-maybe-tomorrow.json) |
 | Mayday Protocol | 382328 | [382328-mayday-protocol.json](./382328-mayday-protocol.json) |
+| Mayday: The Survival Island | 169856 | [169856-mayday-the-survival-island.json](./169856-mayday-the-survival-island.json) |
 | Mayflower Reflections | 191836 | [191836-mayflower-reflections.json](./191836-mayflower-reflections.json) |
 | Mayhem | 7066 | [7066-mayhem.json](./7066-mayhem.json) |
 | Mayhem 1500 | 269126 | [269126-mayhem-1500.json](./269126-mayhem-1500.json) |
@@ -5306,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Gold: Tooyama no Kinsan Space Chou | 41317 | [41317-mr-gold-tooyama-no-kinsan-space-chou.json](./41317-mr-gold-tooyama-no-kinsan-space-chou.json) |
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
+| Mr. Krasnoludek, Teach Me Your Magic Spells | 169879 | [169879-mr-krasnoludek-teach-me-your-magic-spells.json](./169879-mr-krasnoludek-teach-me-your-magic-spells.json) |
 | Mr. Krussy Requires Souls of the Damned | 177491 | [177491-mr-krussy-requires-souls-of-the-damned.json](./177491-mr-krussy-requires-souls-of-the-damned.json) |
 | Mr. Luma's Cooking Adventure | 234335 | [234335-mr-lumas-cooking-adventure.json](./234335-mr-lumas-cooking-adventure.json) |
 | Mr. Lupin | 326972 | [326972-mr-lupin.json](./326972-mr-lupin.json) |
@@ -5582,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muse Dash: Just as Planned | 356178 | [356178-muse-dash-just-as-planned.json](./356178-muse-dash-just-as-planned.json) |
 | Muse Dash: Muse Plus | 356177 | [356177-muse-dash-muse-plus.json](./356177-muse-dash-muse-plus.json) |
 | Museca | 57107 | [57107-museca.json](./57107-museca.json) |
+| Museum of Extravagance | 169860 | [169860-museum-of-extravagance.json](./169860-museum-of-extravagance.json) |
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
 | Museums of History | 339921 | [339921-museums-of-history.json](./339921-museums-of-history.json) |
