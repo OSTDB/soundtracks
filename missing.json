@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T08:02:27.842Z",
-  "total_missing": 91321,
+  "generated_at": "2026-09-19T08:17:17.085Z",
+  "total_missing": 91371,
   "games": [
     {
       "igdb_id": 176875,
@@ -7366,6 +7366,11 @@
       "igdb_id": 178522,
       "game_name": "Aeronaut",
       "file": "missing/A/178522-aeronaut.json"
+    },
+    {
+      "igdb_id": 162754,
+      "game_name": "Aeronautica Imperialis: Flight Command - Skulls Pack",
+      "file": "missing/A/162754-aeronautica-imperialis-flight-command-skulls-pack.json"
     },
     {
       "igdb_id": 283897,
@@ -101856,6 +101861,11 @@
       "igdb_id": 178237,
       "game_name": "Donkey Kong Country 2",
       "file": "missing/D/178237-donkey-kong-country-2.json"
+    },
+    {
+      "igdb_id": 162766,
+      "game_name": "Donkey Kong Country 2: The Lost Levels",
+      "file": "missing/D/162766-donkey-kong-country-2-the-lost-levels.json"
     },
     {
       "igdb_id": 132723,
@@ -304508,6 +304518,11 @@
       "file": "missing/R/356713-realflight-evolution-e-flite-beechcraft-d18-1-5m.json"
     },
     {
+      "igdb_id": 162755,
+      "game_name": "RealFlight Trainer Edition",
+      "file": "missing/R/162755-realflight-trainer-edition.json"
+    },
+    {
       "igdb_id": 131558,
       "game_name": "Realistic Tower Destruction",
       "file": "missing/R/131558-realistic-tower-destruction.json"
@@ -311606,6 +311621,21 @@
       "igdb_id": 100853,
       "game_name": "Rise of Empire: King's Landing",
       "file": "missing/R/100853-rise-of-empire-kings-landing.json"
+    },
+    {
+      "igdb_id": 162751,
+      "game_name": "Rise of Flight United: Battle of Saint-Mihiel",
+      "file": "missing/R/162751-rise-of-flight-united-battle-of-saint-mihiel.json"
+    },
+    {
+      "igdb_id": 162752,
+      "game_name": "Rise of Flight United: ILYA Muromets",
+      "file": "missing/R/162752-rise-of-flight-united-ilya-muromets.json"
+    },
+    {
+      "igdb_id": 162753,
+      "game_name": "Rise of Flight United: Legendary Bombers",
+      "file": "missing/R/162753-rise-of-flight-united-legendary-bombers.json"
     },
     {
       "igdb_id": 156173,
@@ -448858,14 +448888,234 @@
       "file": "missing/X/205810-x-plane-10-regional-edition-north-america.json"
     },
     {
+      "igdb_id": 162780,
+      "game_name": "X-Plane 11: Aerosoft - Airport Alta",
+      "file": "missing/X/162780-x-plane-11-aerosoft-airport-alta.json"
+    },
+    {
+      "igdb_id": 162796,
+      "game_name": "X-Plane 11: Aerosoft - Airport Amsterdam",
+      "file": "missing/X/162796-x-plane-11-aerosoft-airport-amsterdam.json"
+    },
+    {
+      "igdb_id": 162784,
+      "game_name": "X-Plane 11: Aerosoft - Airport Anchorage",
+      "file": "missing/X/162784-x-plane-11-aerosoft-airport-anchorage.json"
+    },
+    {
+      "igdb_id": 162756,
+      "game_name": "X-Plane 11: Aerosoft - Airport Antalya",
+      "file": "missing/X/162756-x-plane-11-aerosoft-airport-antalya.json"
+    },
+    {
+      "igdb_id": 162787,
+      "game_name": "X-Plane 11: Aerosoft - Airport Bali",
+      "file": "missing/X/162787-x-plane-11-aerosoft-airport-bali.json"
+    },
+    {
+      "igdb_id": 162759,
+      "game_name": "X-Plane 11: Aerosoft - Airport Bergen",
+      "file": "missing/X/162759-x-plane-11-aerosoft-airport-bergen.json"
+    },
+    {
+      "igdb_id": 162762,
+      "game_name": "X-Plane 11: Aerosoft - Airport Berlin Brandenburg V2",
+      "file": "missing/X/162762-x-plane-11-aerosoft-airport-berlin-brandenburg-v2.json"
+    },
+    {
+      "igdb_id": 162777,
+      "game_name": "X-Plane 11: Aerosoft - Airport Bonaire Flamingo",
+      "file": "missing/X/162777-x-plane-11-aerosoft-airport-bonaire-flamingo.json"
+    },
+    {
+      "igdb_id": 162782,
+      "game_name": "X-Plane 11: Aerosoft - Airport Calvi",
+      "file": "missing/X/162782-x-plane-11-aerosoft-airport-calvi.json"
+    },
+    {
+      "igdb_id": 162774,
+      "game_name": "X-Plane 11: Aerosoft - Airport Dallas/Fort Worth International",
+      "file": "missing/X/162774-x-plane-11-aerosoft-airport-dallas-fort-worth-international.json"
+    },
+    {
+      "igdb_id": 162760,
+      "game_name": "X-Plane 11: Aerosoft - Airport Daytona Beach International XP",
+      "file": "missing/X/162760-x-plane-11-aerosoft-airport-daytona-beach-international-xp.json"
+    },
+    {
+      "igdb_id": 162786,
+      "game_name": "X-Plane 11: Aerosoft - Airport Frankfurt-Egelsbach",
+      "file": "missing/X/162786-x-plane-11-aerosoft-airport-frankfurt-egelsbach.json"
+    },
+    {
+      "igdb_id": 162758,
+      "game_name": "X-Plane 11: Aerosoft - Airport Istanbul",
+      "file": "missing/X/162758-x-plane-11-aerosoft-airport-istanbul.json"
+    },
+    {
+      "igdb_id": 162765,
+      "game_name": "X-Plane 11: Aerosoft - Airport Lugano",
+      "file": "missing/X/162765-x-plane-11-aerosoft-airport-lugano.json"
+    },
+    {
+      "igdb_id": 162789,
+      "game_name": "X-Plane 11: Aerosoft - Airport Maastricht-Aachen",
+      "file": "missing/X/162789-x-plane-11-aerosoft-airport-maastricht-aachen.json"
+    },
+    {
+      "igdb_id": 162763,
+      "game_name": "X-Plane 11: Aerosoft - Airport Southwest Florida Intl.",
+      "file": "missing/X/162763-x-plane-11-aerosoft-airport-southwest-florida-intl.json"
+    },
+    {
+      "igdb_id": 162775,
+      "game_name": "X-Plane 11: Aerosoft - Airport Split",
+      "file": "missing/X/162775-x-plane-11-aerosoft-airport-split.json"
+    },
+    {
+      "igdb_id": 162800,
+      "game_name": "X-Plane 11: Aerosoft - Airport Wilmington",
+      "file": "missing/X/162800-x-plane-11-aerosoft-airport-wilmington.json"
+    },
+    {
+      "igdb_id": 162781,
+      "game_name": "X-Plane 11: Aerosoft - Airport Zurich V2",
+      "file": "missing/X/162781-x-plane-11-aerosoft-airport-zurich-v2.json"
+    },
+    {
+      "igdb_id": 162785,
+      "game_name": "X-Plane 11: Aerosoft - KTNP: Airport Twentynine Palms",
+      "file": "missing/X/162785-x-plane-11-aerosoft-ktnp-airport-twentynine-palms.json"
+    },
+    {
       "igdb_id": 289892,
       "game_name": "X-Plane 11: Aerosoft - Society Islands XP: Tahiti & Windward Islands",
       "file": "missing/X/289892-x-plane-11-aerosoft-society-islands-xp-tahiti-and-windward-islands.json"
     },
     {
+      "igdb_id": 162793,
+      "game_name": "X-Plane 11: Aerosoft Airport Bergamo",
+      "file": "missing/X/162793-x-plane-11-aerosoft-airport-bergamo.json"
+    },
+    {
+      "igdb_id": 162767,
+      "game_name": "X-Plane 11: Aerosoft Airport Frankfurt V2",
+      "file": "missing/X/162767-x-plane-11-aerosoft-airport-frankfurt-v2.json"
+    },
+    {
+      "igdb_id": 162799,
+      "game_name": "X-Plane 11: Aerosoft Airport Genoa",
+      "file": "missing/X/162799-x-plane-11-aerosoft-airport-genoa.json"
+    },
+    {
+      "igdb_id": 162795,
+      "game_name": "X-Plane 11: Aerosoft Airport Greater Moncton International",
+      "file": "missing/X/162795-x-plane-11-aerosoft-airport-greater-moncton-international.json"
+    },
+    {
+      "igdb_id": 162792,
+      "game_name": "X-Plane 11: Aerosoft Airport Koeln/Bonn",
+      "file": "missing/X/162792-x-plane-11-aerosoft-airport-koeln-bonn.json"
+    },
+    {
+      "igdb_id": 162788,
+      "game_name": "X-Plane 11: Aerosoft Airport Manchester",
+      "file": "missing/X/162788-x-plane-11-aerosoft-airport-manchester.json"
+    },
+    {
+      "igdb_id": 162797,
+      "game_name": "X-Plane 11: Aerosoft Airport Rio de Janeiro - Santos Dumont",
+      "file": "missing/X/162797-x-plane-11-aerosoft-airport-rio-de-janeiro-santos-dumont.json"
+    },
+    {
+      "igdb_id": 162769,
+      "game_name": "X-Plane 11: Aerosoft Airport Rio de Janeiro Intl V2.0",
+      "file": "missing/X/162769-x-plane-11-aerosoft-airport-rio-de-janeiro-intl-v2-0.json"
+    },
+    {
+      "igdb_id": 162778,
+      "game_name": "X-Plane 11: Aerosoft Airport Rom",
+      "file": "missing/X/162778-x-plane-11-aerosoft-airport-rom.json"
+    },
+    {
+      "igdb_id": 162773,
+      "game_name": "X-Plane 11: Aerosoft Airport Salvador International",
+      "file": "missing/X/162773-x-plane-11-aerosoft-airport-salvador-international.json"
+    },
+    {
+      "igdb_id": 162783,
+      "game_name": "X-Plane 11: Aerosoft Airport Stuttgart",
+      "file": "missing/X/162783-x-plane-11-aerosoft-airport-stuttgart.json"
+    },
+    {
+      "igdb_id": 162798,
+      "game_name": "X-Plane 11: Aerosoft Airport Svolvaer",
+      "file": "missing/X/162798-x-plane-11-aerosoft-airport-svolvaer.json"
+    },
+    {
+      "igdb_id": 162770,
+      "game_name": "X-Plane 11: Aerosoft Airport Vaeroy",
+      "file": "missing/X/162770-x-plane-11-aerosoft-airport-vaeroy.json"
+    },
+    {
+      "igdb_id": 162776,
+      "game_name": "X-Plane 11: Aerosoft Airport Zagreb",
+      "file": "missing/X/162776-x-plane-11-aerosoft-airport-zagreb.json"
+    },
+    {
       "igdb_id": 168367,
       "game_name": "X-Plane 11: Aerosoft Seychelles XP",
       "file": "missing/X/168367-x-plane-11-aerosoft-seychelles-xp.json"
+    },
+    {
+      "igdb_id": 162790,
+      "game_name": "X-Plane 11: Airfield Canada - CYHZ: Halifax Stanfield International Airport",
+      "file": "missing/X/162790-x-plane-11-airfield-canada-cyhz-halifax-stanfield-international-airport.json"
+    },
+    {
+      "igdb_id": 162768,
+      "game_name": "X-Plane 11: FlyLogic Airport Bern-Belp",
+      "file": "missing/X/162768-x-plane-11-flylogic-airport-bern-belp.json"
+    },
+    {
+      "igdb_id": 162794,
+      "game_name": "X-Plane 11: Globall Art CYUL - Montreal International Airport",
+      "file": "missing/X/162794-x-plane-11-globall-art-cyul-montreal-international-airport.json"
+    },
+    {
+      "igdb_id": 162772,
+      "game_name": "X-Plane 11: MSK Productions - Jinnah Intl Airport",
+      "file": "missing/X/162772-x-plane-11-msk-productions-jinnah-intl-airport.json"
+    },
+    {
+      "igdb_id": 162771,
+      "game_name": "X-Plane 11: MSK Productions - New Islamabad Intl Airport",
+      "file": "missing/X/162771-x-plane-11-msk-productions-new-islamabad-intl-airport.json"
+    },
+    {
+      "igdb_id": 162764,
+      "game_name": "X-Plane 11: MSK Productions - Sharjah Intl Airport",
+      "file": "missing/X/162764-x-plane-11-msk-productions-sharjah-intl-airport.json"
+    },
+    {
+      "igdb_id": 162779,
+      "game_name": "X-Plane 11: SAM Airport Vehicles",
+      "file": "missing/X/162779-x-plane-11-sam-airport-vehicles.json"
+    },
+    {
+      "igdb_id": 162757,
+      "game_name": "X-Plane 11: Skyline Simulations - LGSM: Samos Airport",
+      "file": "missing/X/162757-x-plane-11-skyline-simulations-lgsm-samos-airport.json"
+    },
+    {
+      "igdb_id": 162791,
+      "game_name": "X-Plane 11: Skyline Simulations - LIAA: Terni Alvaro Leonardi Airport",
+      "file": "missing/X/162791-x-plane-11-skyline-simulations-liaa-terni-alvaro-leonardi-airport.json"
+    },
+    {
+      "igdb_id": 162761,
+      "game_name": "X-Plane 11: Skyline Simulations - LXGB: Gibraltar Airport",
+      "file": "missing/X/162761-x-plane-11-skyline-simulations-lxgb-gibraltar-airport.json"
     },
     {
       "igdb_id": 220637,
