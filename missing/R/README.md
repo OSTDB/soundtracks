@@ -2622,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robosaurus | 264318 | [264318-robosaurus.json](./264318-robosaurus.json) |
 | RoboSk8r | 180687 | [180687-robosk8r.json](./180687-robosk8r.json) |
 | RoboSkate | 139437 | [139437-roboskate.json](./139437-roboskate.json) |
+| Robosnow | 166630 | [166630-robosnow.json](./166630-robosnow.json) |
 | RoboSport | 73231 | [73231-robosport.json](./73231-robosport.json) |
 | RoboSquad Revolution: Maverick Supporter Pack | 298183 | [298183-robosquad-revolution-maverick-supporter-pack.json](./298183-robosquad-revolution-maverick-supporter-pack.json) |
 | RoboSquare | 141205 | [141205-robosquare.json](./141205-robosquare.json) |
