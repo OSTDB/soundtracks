@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katjepult | 182536 | [182536-katjepult.json](./182536-katjepult.json) |
 | Kato | 161225 | [161225-kato.json](./161225-kato.json) |
 | Kato Pirato | 340785 | [340785-kato-pirato.json](./340785-kato-pirato.json) |
+| Katou Hifumi Kudan Kanshuu Hifumin No Shogi Dojo | 136881 | [136881-katou-hifumi-kudan-kanshuu-hifumin-no-shogi-dojo.json](./136881-katou-hifumi-kudan-kanshuu-hifumin-no-shogi-dojo.json) |
 | Katou Hifumi Kudan no Shogi Kyoushitsu | 97858 | [97858-katou-hifumi-kudan-no-shogi-kyoushitsu.json](./97858-katou-hifumi-kudan-no-shogi-kyoushitsu.json) |
 | Katou Hifumi Kudan Shogi Club | 37742 | [37742-katou-hifumi-kudan-shogi-club.json](./37742-katou-hifumi-kudan-shogi-club.json) |
 | Kattespill | 177950 | [177950-kattespill.json](./177950-kattespill.json) |
@@ -1607,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KovaaK 2.0: Tracking Trainer | 171035 | [171035-kovaak-2-0-tracking-trainer.json](./171035-kovaak-2-0-tracking-trainer.json) |
 | Kowi Ishto: Battle of Akonoli | 125476 | [125476-kowi-ishto-battle-of-akonoli.json](./125476-kowi-ishto-battle-of-akonoli.json) |
 | Kowloon Story 2 | 291741 | [291741-kowloon-story-2.json](./291741-kowloon-story-2.json) |
+| Kowloon Youma Gakuen Ki: Origin of Adventure - Yomigaeru Hihouban | 136880 | [136880-kowloon-youma-gakuen-ki-origin-of-adventure-yomigaeru-hihouban.json](./136880-kowloon-youma-gakuen-ki-origin-of-adventure-yomigaeru-hihouban.json) |
 | Kowloon's Rhizome: A Day of the Fire - Vol. 1 | 255804 | [255804-kowloons-rhizome-a-day-of-the-fire-vol-1.json](./255804-kowloons-rhizome-a-day-of-the-fire-vol-1.json) |
 | Kowloon's Rhizome: A Day of the Fire - Vol. 2 | 255806 | [255806-kowloons-rhizome-a-day-of-the-fire-vol-2.json](./255806-kowloons-rhizome-a-day-of-the-fire-vol-2.json) |
 | Köy | 320997 | [320997-koy.json](./320997-koy.json) |
