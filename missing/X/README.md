@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men | 80408 | [80408-x-men.json](./80408-x-men.json) |
 | X-Men | 81251 | [81251-x-men.json](./81251-x-men.json) |
 | X-Men 2: Battle | 343821 | [343821-x-men-2-battle.json](./343821-x-men-2-battle.json) |
+| X-Men Cartoon Maker | 130739 | [130739-x-men-cartoon-maker.json](./130739-x-men-cartoon-maker.json) |
 | X-Men Legends II: Rise of Apocalypse | 245310 | [245310-x-men-legends-ii-rise-of-apocalypse.json](./245310-x-men-legends-ii-rise-of-apocalypse.json) |
 | X-Men Origins: Wolverine | 573 | [573-x-men-origins-wolverine.json](./573-x-men-origins-wolverine.json) |
 | X-Men: Battle of the Atom | 62782 | [62782-x-men-battle-of-the-atom.json](./62782-x-men-battle-of-the-atom.json) |
