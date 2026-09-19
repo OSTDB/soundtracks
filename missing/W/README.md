@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What do I want? | 178498 | [178498-what-do-i-want.json](./178498-what-do-i-want.json) |
 | What Do You Know? | 234723 | [234723-what-do-you-know.json](./234723-what-do-you-know.json) |
 | What Goes Pumpkin the Night | 186181 | [186181-what-goes-pumpkin-the-night.json](./186181-what-goes-pumpkin-the-night.json) |
+| What Goes Up | 144786 | [144786-what-goes-up.json](./144786-what-goes-up.json) |
 | What Happened: Through Worlds | 314856 | [314856-what-happened-through-worlds.json](./314856-what-happened-through-worlds.json) |
 | What Happens in Space | 153989 | [153989-what-happens-in-space.json](./153989-what-happens-in-space.json) |
 | What has become of us.. | 232009 | [232009-what-has-become-of-us.json](./232009-what-has-become-of-us.json) |
@@ -1464,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked | 12233 | [12233-wicked.json](./12233-wicked.json) |
 | Wicked Brawler | 272267 | [272267-wicked-brawler.json](./272267-wicked-brawler.json) |
 | Wicked Delights | 404822 | [404822-wicked-delights.json](./404822-wicked-delights.json) |
+| Wicked Lands | 144794 | [144794-wicked-lands.json](./144794-wicked-lands.json) |
 | Wicked Little Witch | 353291 | [353291-wicked-little-witch.json](./353291-wicked-little-witch.json) |
 | Wicked Monsters Blast! HD Plus | 85482 | [85482-wicked-monsters-blast-hd-plus.json](./85482-wicked-monsters-blast-hd-plus.json) |
 | Wicked Plague | 324691 | [324691-wicked-plague.json](./324691-wicked-plague.json) |
@@ -2051,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolflord - Online Werewolf | 67938 | [67938-wolflord-online-werewolf.json](./67938-wolflord-online-werewolf.json) |
 | Wolfman | 320547 | [320547-wolfman.json](./320547-wolfman.json) |
 | Wolfpack | 100177 | [100177-wolfpack.json](./100177-wolfpack.json) |
+| WolfPlay | 144817 | [144817-wolfplay.json](./144817-wolfplay.json) |
 | Wolfriders A Sniper Adventure | 159859 | [159859-wolfriders-a-sniper-adventure.json](./159859-wolfriders-a-sniper-adventure.json) |
 | Wolfschanze II | 27646 | [27646-wolfschanze-ii.json](./27646-wolfschanze-ii.json) |
 | Wolfstar Adventures in the Inu System | 213405 | [213405-wolfstar-adventures-in-the-inu-system.json](./213405-wolfstar-adventures-in-the-inu-system.json) |
