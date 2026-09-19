@@ -1154,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Fleet | 48586 | [48586-battle-fleet.json](./48586-battle-fleet.json) |
 | Battle Fleet | 91333 | [91333-battle-fleet.json](./91333-battle-fleet.json) |
 | Battle Flip Shot | 39667 | [39667-battle-flip-shot.json](./39667-battle-flip-shot.json) |
+| Battle For Dream Island Again 5b | 138011 | [138011-battle-for-dream-island-again-5b.json](./138011-battle-for-dream-island-again-5b.json) |
 | Battle For It All | 87192 | [87192-battle-for-it-all.json](./87192-battle-for-it-all.json) |
 | Battle For Life | 63801 | [63801-battle-for-life.json](./63801-battle-for-life.json) |
 | Battle for the Ashes | 14290 | [14290-battle-for-the-ashes.json](./14290-battle-for-the-ashes.json) |
@@ -1763,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Pong VR | 88194 | [88194-beer-pong-vr.json](./88194-beer-pong-vr.json) |
 | Beer Shooter | 101526 | [101526-beer-shooter.json](./101526-beer-shooter.json) |
 | Beer! | 57091 | [57091-beer.json](./57091-beer.json) |
+| Beerjeweled | 138036 | [138036-beerjeweled.json](./138036-beerjeweled.json) |
 | Beerman | 31904 | [31904-beerman.json](./31904-beerman.json) |
 | Beet: Drum Machine Game | 232149 | [232149-beet-drum-machine-game.json](./232149-beet-drum-machine-game.json) |
 | Beethoven: The Ultimate Canine Caper! | 259654 | [259654-beethoven-the-ultimate-canine-caper.json](./259654-beethoven-the-ultimate-canine-caper.json) |
@@ -2528,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Mangekyou: Wasurenagusa to Eien no Shoujo | 115723 | [115723-bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo.json](./115723-bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo.json) |
 | Bishoujo Senshi Sailor Moon | 38279 | [38279-bishoujo-senshi-sailor-moon.json](./38279-bishoujo-senshi-sailor-moon.json) |
 | Bishoujo Senshi Sailor Moon S: Kondo ha Puzzle de Oshioki yo!! | 38274 | [38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json](./38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json) |
+| Bishoujo Senshi Sailor Moon S: Quiz Taiketsu! Sailor Power Kesshuu | 138044 | [138044-bishoujo-senshi-sailor-moon-s-quiz-taiketsu-sailor-power-kesshuu.json](./138044-bishoujo-senshi-sailor-moon-s-quiz-taiketsu-sailor-power-kesshuu.json) |
 | Bishoujo Senshi Sailor Moon Super S: Illustration Club | 225257 | [225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json](./225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json) |
 | Bishoujo Senshi Sailor V | 234339 | [234339-bishoujo-senshi-sailor-v.json](./234339-bishoujo-senshi-sailor-v.json) |
 | Bishoujo Sexy Derby | 41358 | [41358-bishoujo-sexy-derby.json](./41358-bishoujo-sexy-derby.json) |
@@ -3084,6 +3087,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Breaker | 384648 | [384648-block-breaker.json](./384648-block-breaker.json) |
 | Block Breaker 2 | 200568 | [200568-block-breaker-2.json](./200568-block-breaker-2.json) |
 | Block Breakerz | 250413 | [250413-block-breakerz.json](./250413-block-breakerz.json) |
+| Block Buster | 138046 | [138046-block-buster.json](./138046-block-buster.json) |
+| Block Buster | 138047 | [138047-block-buster.json](./138047-block-buster.json) |
 | Block Buster | 270766 | [270766-block-buster.json](./270766-block-buster.json) |
 | Block Busters: Local Party | 172171 | [172171-block-busters-local-party.json](./172171-block-busters-local-party.json) |
 | Block Cat Jam | 297502 | [297502-block-cat-jam.json](./297502-block-cat-jam.json) |
