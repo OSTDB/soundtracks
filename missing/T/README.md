@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Army Battle Simulator | 102734 | [102734-tank-army-battle-simulator.json](./102734-tank-army-battle-simulator.json) |
 | Tank Army: Fast Fingers Shmup | 175366 | [175366-tank-army-fast-fingers-shmup.json](./175366-tank-army-fast-fingers-shmup.json) |
 | Tank Attack | 273913 | [273913-tank-attack.json](./273913-tank-attack.json) |
+| Tank Battle | 172044 | [172044-tank-battle.json](./172044-tank-battle.json) |
 | Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
 | Tank Battle: 1944 | 34600 | [34600-tank-battle-1944.json](./34600-tank-battle-1944.json) |
 | Tank Battle: East Front 1941 | 197886 | [197886-tank-battle-east-front-1941.json](./197886-tank-battle-east-front-1941.json) |
@@ -4042,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Machinery | 271747 | [271747-the-machinery.json](./271747-the-machinery.json) |
 | The Madman | 205274 | [205274-the-madman.json](./205274-the-madman.json) |
 | The Madness of Death | 214182 | [214182-the-madness-of-death.json](./214182-the-madness-of-death.json) |
+| The Madness of Roland | 172036 | [172036-the-madness-of-roland.json](./172036-the-madness-of-roland.json) |
 | The Mafat Conspiracy | 48057 | [48057-the-mafat-conspiracy.json](./48057-the-mafat-conspiracy.json) |
 | The Magenta Spire | 261505 | [261505-the-magenta-spire.json](./261505-the-magenta-spire.json) |
 | The Mageseeker: A League of Legends Story - Deluxe Edition | 241042 | [241042-the-mageseeker-a-league-of-legends-story-deluxe-edition.json](./241042-the-mageseeker-a-league-of-legends-story-deluxe-edition.json) |
@@ -8891,6 +8893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traveler's Refrain x Dreamscaper | 396437 | [396437-travelers-refrain-x-dreamscaper.json](./396437-travelers-refrain-x-dreamscaper.json) |
 | Travelers in Space Crack | 193424 | [193424-travelers-in-space-crack.json](./193424-travelers-in-space-crack.json) |
 | Traveller's Hymn | 319560 | [319560-travellers-hymn.json](./319560-travellers-hymn.json) |
+| Travellers | 172033 | [172033-travellers.json](./172033-travellers.json) |
 | Travellin Cats in Paris | 239812 | [239812-travellin-cats-in-paris.json](./239812-travellin-cats-in-paris.json) |
 | Travelling Light | 404812 | [404812-travelling-light.json](./404812-travelling-light.json) |
 | Traveloot | 392163 | [392163-traveloot.json](./392163-traveloot.json) |
