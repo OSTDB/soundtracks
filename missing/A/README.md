@@ -2631,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another's Memories | 374049 | [374049-anothers-memories.json](./374049-anothers-memories.json) |
 | Anoun | 384681 | [384681-anoun.json](./384681-anoun.json) |
 | Anovill | 355529 | [355529-anovill.json](./355529-anovill.json) |
+| Anoyo: Zero | 157551 | [157551-anoyo-zero.json](./157551-anoyo-zero.json) |
 | Anpanman no Waku-waku Game Oekaki | 123617 | [123617-anpanman-no-waku-waku-game-oekaki.json](./123617-anpanman-no-waku-waku-game-oekaki.json) |
 | Anpanman to Asobo: ABC Kyoushitsu | 67283 | [67283-anpanman-to-asobo-abc-kyoushitsu.json](./67283-anpanman-to-asobo-abc-kyoushitsu.json) |
 | Anpanman to Asobo: AIUEO Kyoushitsu DX | 67285 | [67285-anpanman-to-asobo-aiueo-kyoushitsu-dx.json](./67285-anpanman-to-asobo-aiueo-kyoushitsu-dx.json) |
@@ -4140,6 +4141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Warrior | 37176 | [37176-astro-warrior.json](./37176-astro-warrior.json) |
 | Astro Warrior/Pit Pot | 93584 | [93584-astro-warrior-pit-pot.json](./93584-astro-warrior-pit-pot.json) |
 | Astro Wars | 47284 | [47284-astro-wars.json](./47284-astro-wars.json) |
+| Astro Zip VR | 157563 | [157563-astro-zip-vr.json](./157563-astro-zip-vr.json) |
 | Astro-g | 133366 | [133366-astro-g.json](./133366-astro-g.json) |
 | Astro: The Beginning | 118431 | [118431-astro-the-beginning.json](./118431-astro-the-beginning.json) |
 | Astroball | 338170 | [338170-astroball.json](./338170-astroball.json) |
