@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: A Star Replicator | 320555 | [320555-scp-a-star-replicator.json](./320555-scp-a-star-replicator.json) |
 | SCP: Blackout | 111246 | [111246-scp-blackout.json](./111246-scp-blackout.json) |
 | SCP: Bloodwater | 272936 | [272936-scp-bloodwater.json](./272936-scp-bloodwater.json) |
+| Scp: Breakout | 173187 | [173187-scp-breakout.json](./173187-scp-breakout.json) |
 | SCP: Containment Breach Mobile | 174756 | [174756-scp-containment-breach-mobile.json](./174756-scp-containment-breach-mobile.json) |
 | SCP: Containment Breach Remastered | 210866 | [210866-scp-containment-breach-remastered.json](./210866-scp-containment-breach-remastered.json) |
 | SCP: Cross Containment | 141786 | [141786-scp-cross-containment.json](./141786-scp-cross-containment.json) |
@@ -1878,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SFCave | 87233 | [87233-sfcave.json](./87233-sfcave.json) |
 | SFG Soccer | 66700 | [66700-sfg-soccer.json](./66700-sfg-soccer.json) |
 | Sfsim | 415868 | [415868-sfsim.json](./415868-sfsim.json) |
+| SGC: Short Games Collection #1 | 173141 | [173141-sgc-short-games-collection-1.json](./173141-sgc-short-games-collection-1.json) |
 | SGS Battle For: Stalingrad | 244900 | [244900-sgs-battle-for-stalingrad.json](./244900-sgs-battle-for-stalingrad.json) |
 | SGS Fall Weiss | 197271 | [197271-sgs-fall-weiss.json](./197271-sgs-fall-weiss.json) |
 | SGS Pacific D-Day | 197415 | [197415-sgs-pacific-d-day.json](./197415-sgs-pacific-d-day.json) |
@@ -4469,6 +4471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite V2: The Landwehr Canal | 10879 | [10879-sniper-elite-v2-the-landwehr-canal.json](./10879-sniper-elite-v2-the-landwehr-canal.json) |
 | Sniper Elite VR | 116466 | [116466-sniper-elite-vr.json](./116466-sniper-elite-vr.json) |
 | Sniper Elite: Nazi Zombie Army 2 | 10877 | [10877-sniper-elite-nazi-zombie-army-2.json](./10877-sniper-elite-nazi-zombie-army-2.json) |
+| Sniper Ghost Warrior Contracts & Sniper: Ghost Warrior 3: Unlimited Edition | 173161 | [173161-sniper-ghost-warrior-contracts-and-sniper-ghost-warrior-3-unlimited-edition.json](./173161-sniper-ghost-warrior-contracts-and-sniper-ghost-warrior-3-unlimited-edition.json) |
 | Sniper Ghost Warrior Contracts 2 | 138980 | [138980-sniper-ghost-warrior-contracts-2.json](./138980-sniper-ghost-warrior-contracts-2.json) |
 | Sniper Ghost Warrior Contracts 2: Butcher's Banquet | 159362 | [159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json](./159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json) |
 | Sniper Ghost Warrior Contracts 2: Complete Edition | 197352 | [197352-sniper-ghost-warrior-contracts-2-complete-edition.json](./197352-sniper-ghost-warrior-contracts-2-complete-edition.json) |
@@ -8882,6 +8885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Reunion | 370102 | [370102-summer-reunion.json](./370102-summer-reunion.json) |
 | Summer Sisters | 402291 | [402291-summer-sisters.json](./402291-summer-sisters.json) |
 | Summer Sled | 55943 | [55943-summer-sled.json](./55943-summer-sled.json) |
+| Summer Sports Games: 4K Edition | 173168 | [173168-summer-sports-games-4k-edition.json](./173168-summer-sports-games-4k-edition.json) |
 | Summer Sports Party | 23261 | [23261-summer-sports-party.json](./23261-summer-sports-party.json) |
 | Summer Trip Cruise | 212823 | [212823-summer-trip-cruise.json](./212823-summer-trip-cruise.json) |
 | Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
@@ -9524,7 +9528,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Kart: F1 Tracks | 198446 | [198446-super-mario-kart-f1-tracks.json](./198446-super-mario-kart-f1-tracks.json) |
 | Super Mario Kart: Super Circuit Demake | 198458 | [198458-super-mario-kart-super-circuit-demake.json](./198458-super-mario-kart-super-circuit-demake.json) |
 | Super Mario Kingdom | 318036 | [318036-super-mario-kingdom.json](./318036-super-mario-kingdom.json) |
+| Super Mario Land 2 DX | 173156 | [173156-super-mario-land-2-dx.json](./173156-super-mario-land-2-dx.json) |
 | Super Mario Land 2012 | 285029 | [285029-super-mario-land-2012.json](./285029-super-mario-land-2012.json) |
+| Super Mario Land DX | 173153 | [173153-super-mario-land-dx.json](./173153-super-mario-land-dx.json) |
 | Super Mario Land Hack 2017: Tatanga's Revenge | 338813 | [338813-super-mario-land-hack-2017-tatangas-revenge.json](./338813-super-mario-land-hack-2017-tatangas-revenge.json) |
 | Super Mario Land X | 223030 | [223030-super-mario-land-x.json](./223030-super-mario-land-x.json) |
 | Super Mario Legend | 323751 | [323751-super-mario-legend.json](./323751-super-mario-legend.json) |
@@ -10540,6 +10546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Stars: The Pit Gold Edition - Juggernaut | 51932 | [51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json](./51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json) |
 | Sword of the Stars: The Pit Gold Edition - Necromancer | 51931 | [51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json](./51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json) |
 | Sword Phantom | 305761 | [305761-sword-phantom.json](./305761-sword-phantom.json) |
+| Sword Princess Amaltea: The Visual Novel | 173176 | [173176-sword-princess-amaltea-the-visual-novel.json](./173176-sword-princess-amaltea-the-visual-novel.json) |
 | Sword Princess Cistina - The Chosen Saint | 146312 | [146312-sword-princess-cistina-the-chosen-saint.json](./146312-sword-princess-cistina-the-chosen-saint.json) |
 | Sword Princess Sistina | 292523 | [292523-sword-princess-sistina.json](./292523-sword-princess-sistina.json) |
 | Sword Road | 338751 | [338751-sword-road.json](./338751-sword-road.json) |
