@@ -2208,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excite Invader | 138024 | [138024-excite-invader.json](./138024-excite-invader.json) |
 | Excitebike | 4600 | [4600-excitebike.json](./4600-excitebike.json) |
 | Excitebike-e | 169997 | [169997-excitebike-e.json](./169997-excitebike-e.json) |
+| Excitebike: Bun-bun Mario Battle | 132030 | [132030-excitebike-bun-bun-mario-battle.json](./132030-excitebike-bun-bun-mario-battle.json) |
 | Excitebots: Trick Racing | 4836 | [4836-excitebots-trick-racing.json](./4836-excitebots-trick-racing.json) |
 | Exciting Golf | 91962 | [91962-exciting-golf.json](./91962-exciting-golf.json) |
 | Exclusion Zone: Hunting Ground | 134616 | [134616-exclusion-zone-hunting-ground.json](./134616-exclusion-zone-hunting-ground.json) |
