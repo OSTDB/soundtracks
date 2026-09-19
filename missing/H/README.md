@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
 | Hacha Mecha Fighter | 40182 | [40182-hacha-mecha-fighter.json](./40182-hacha-mecha-fighter.json) |
 | Hack | 2875 | [2875-hack.json](./2875-hack.json) |
+| Hack & Turn | 180114 | [180114-hack-and-turn.json](./180114-hack-and-turn.json) |
 | Hack 0 | 272813 | [272813-hack-0.json](./272813-hack-0.json) |
 | Hack And Slash Fury: Battalion Armor | 334515 | [334515-hack-and-slash-fury-battalion-armor.json](./334515-hack-and-slash-fury-battalion-armor.json) |
 | Hack And Slash Fury: Car Armor | 334514 | [334514-hack-and-slash-fury-car-armor.json](./334514-hack-and-slash-fury-car-armor.json) |
@@ -2548,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Visionary | 35401 | [35401-hollywood-visionary.json](./35401-hollywood-visionary.json) |
 | Hollywoodle | 325824 | [325824-hollywoodle.json](./325824-hollywoodle.json) |
 | Holo Arena: Death League | 217380 | [217380-holo-arena-death-league.json](./217380-holo-arena-death-league.json) |
+| Holo Dungeon | 180144 | [180144-holo-dungeon.json](./180144-holo-dungeon.json) |
 | Holo8 | 331327 | [331327-holo8.json](./331327-holo8.json) |
 | HoloBase | 410316 | [410316-holobase.json](./410316-holobase.json) |
 | Holobunnies: The Bittersweet Adventure | 28897 | [28897-holobunnies-the-bittersweet-adventure.json](./28897-holobunnies-the-bittersweet-adventure.json) |
@@ -2559,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holonomy | 310570 | [310570-holonomy.json](./310570-holonomy.json) |
 | HoloParade | 276842 | [276842-holoparade.json](./276842-holoparade.json) |
 | Holopoint | 33147 | [33147-holopoint.json](./33147-holopoint.json) |
+| Holoquest | 180136 | [180136-holoquest.json](./180136-holoquest.json) |
 | HoloRun | 361794 | [361794-holorun.json](./361794-holorun.json) |
 | Holos lisu | 279752 | [279752-holos-lisu.json](./279752-holos-lisu.json) |
 | Holosaga: Invasion of the HoloX | 298148 | [298148-holosaga-invasion-of-the-holox.json](./298148-holosaga-invasion-of-the-holox.json) |
@@ -2668,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeworld: Remastered Collection | 8773 | [8773-homeworld-remastered-collection.json](./8773-homeworld-remastered-collection.json) |
 | Homeworld: Remastered Collection - Deluxe Edition | 53204 | [53204-homeworld-remastered-collection-deluxe-edition.json](./53204-homeworld-remastered-collection-deluxe-edition.json) |
 | Homeworld: Vast Reaches | 301250 | [301250-homeworld-vast-reaches.json](./301250-homeworld-vast-reaches.json) |
+| Homicide Squad | 180153 | [180153-homicide-squad.json](./180153-homicide-squad.json) |
 | Homicipher | 247905 | [247905-homicipher.json](./247905-homicipher.json) |
 | Homing Instinct | 296913 | [296913-homing-instinct.json](./296913-homing-instinct.json) |
 | Homing Missiles! | 25786 | [25786-homing-missiles.json](./25786-homing-missiles.json) |
@@ -2755,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honoo no Toukyuuji: Dodge Danpei | 42053 | [42053-honoo-no-toukyuuji-dodge-danpei.json](./42053-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honor in Vengeance | 66108 | [66108-honor-in-vengeance.json](./66108-honor-in-vengeance.json) |
 | Honor of Heirs | 193876 | [193876-honor-of-heirs.json](./193876-honor-of-heirs.json) |
+| Honor of Kings: World | 180147 | [180147-honor-of-kings-world.json](./180147-honor-of-kings-world.json) |
 | Honshougi: Naitou 9 Dan Shougi Hiden | 267667 | [267667-honshougi-naitou-9-dan-shougi-hiden.json](./267667-honshougi-naitou-9-dan-shougi-hiden.json) |
 | Hontou ni Atta Real Otogi-banashi | 251611 | [251611-hontou-ni-atta-real-otogi-banashi.json](./251611-hontou-ni-atta-real-otogi-banashi.json) |
 | Hontou no Negaigoto | 413744 | [413744-hontou-no-negaigoto.json](./413744-hontou-no-negaigoto.json) |
