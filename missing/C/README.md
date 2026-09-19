@@ -2443,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Rock | 275026 | [275026-chuck-rock.json](./275026-chuck-rock.json) |
 | Chuckie Egg | 10235 | [10235-chuckie-egg.json](./10235-chuckie-egg.json) |
 | Chuckie Egg 2017 Challenges | 111642 | [111642-chuckie-egg-2017-challenges.json](./111642-chuckie-egg-2017-challenges.json) |
+| Chuckle Phrase Builder | 167165 | [167165-chuckle-phrase-builder.json](./167165-chuckle-phrase-builder.json) |
 | Chucky | 113717 | [113717-chucky.json](./113717-chucky.json) |
 | Chucky: Slash & Dash | 307138 | [307138-chucky-slash-and-dash.json](./307138-chucky-slash-and-dash.json) |
 | Chucky: The Road To Heaven | 235449 | [235449-chucky-the-road-to-heaven.json](./235449-chucky-the-road-to-heaven.json) |
