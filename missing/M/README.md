@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Starts Young | 386873 | [386873-madness-starts-young.json](./386873-madness-starts-young.json) |
 | MadnessMadnessMadness | 283738 | [283738-madnessmadnessmadness.json](./283738-madnessmadnessmadness.json) |
 | Madojeongi: Secret of Elysium | 252163 | [252163-madojeongi-secret-of-elysium.json](./252163-madojeongi-secret-of-elysium.json) |
+| Madonna Simulator | 176379 | [176379-madonna-simulator.json](./176379-madonna-simulator.json) |
 | Madotsuki's Closet | 145675 | [145675-madotsukis-closet.json](./145675-madotsukis-closet.json) |
 | Madou Gakuin R | 46613 | [46613-madou-gakuin-r.json](./46613-madou-gakuin-r.json) |
 | Madou Monogatari | 252164 | [252164-madou-monogatari.json](./252164-madou-monogatari.json) |
@@ -406,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Synthesis | 103449 | [103449-magic-synthesis.json](./103449-magic-synthesis.json) |
 | Magic Synthesis | 103487 | [103487-magic-synthesis.json](./103487-magic-synthesis.json) |
 | Magic Tales: Baba Yaga and the Magic Geese | 297654 | [297654-magic-tales-baba-yaga-and-the-magic-geese.json](./297654-magic-tales-baba-yaga-and-the-magic-geese.json) |
+| Magic Technology | 176353 | [176353-magic-technology.json](./176353-magic-technology.json) |
 | Magic Technology: Tower Defense | 68679 | [68679-magic-technology-tower-defense.json](./68679-magic-technology-tower-defense.json) |
 | Magic Tiles Saga: Upbeat Music | 100858 | [100858-magic-tiles-saga-upbeat-music.json](./100858-magic-tiles-saga-upbeat-music.json) |
 | Magic Tiny Lands | 367494 | [367494-magic-tiny-lands.json](./367494-magic-tiny-lands.json) |
@@ -1809,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze 2010 | 230851 | [230851-maze-2010.json](./230851-maze-2010.json) |
 | Maze 4D | 112921 | [112921-maze-4d.json](./112921-maze-4d.json) |
 | Maze 95 Ultimate | 406807 | [406807-maze-95-ultimate.json](./406807-maze-95-ultimate.json) |
+| Maze Ball Neon | 176367 | [176367-maze-ball-neon.json](./176367-maze-ball-neon.json) |
 | Maze Bandit | 43177 | [43177-maze-bandit.json](./43177-maze-bandit.json) |
 | Maze Company | 326093 | [326093-maze-company.json](./326093-maze-company.json) |
 | Maze Death Race | 319586 | [319586-maze-death-race.json](./319586-maze-death-race.json) |
@@ -3134,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Cruise | 296377 | [296377-midnight-cruise.json](./296377-midnight-cruise.json) |
 | Midnight Drifter | 240222 | [240222-midnight-drifter.json](./240222-midnight-drifter.json) |
 | Midnight Dungeon | 179719 | [179719-midnight-dungeon.json](./179719-midnight-dungeon.json) |
+| Midnight Faerie | 176371 | [176371-midnight-faerie.json](./176371-midnight-faerie.json) |
 | Midnight Feast | 118318 | [118318-midnight-feast.json](./118318-midnight-feast.json) |
 | Midnight Fishing | 302684 | [302684-midnight-fishing.json](./302684-midnight-fishing.json) |
 | Midnight Horror School | 292834 | [292834-midnight-horror-school.json](./292834-midnight-horror-school.json) |
