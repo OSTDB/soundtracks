@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T08:17:17.085Z",
-  "total_missing": 91371,
+  "generated_at": "2026-09-19T08:32:28.213Z",
+  "total_missing": 91421,
   "games": [
     {
       "igdb_id": 176875,
@@ -19631,6 +19631,11 @@
       "igdb_id": 254603,
       "game_name": "Arcadia: Arcade Watch Games",
       "file": "missing/A/254603-arcadia-arcade-watch-games.json"
+    },
+    {
+      "igdb_id": 162245,
+      "game_name": "Arcadian Rift",
+      "file": "missing/A/162245-arcadian-rift.json"
     },
     {
       "igdb_id": 255971,
@@ -64843,6 +64848,11 @@
       "file": "missing/C/34021-chkn.json"
     },
     {
+      "igdb_id": 162247,
+      "game_name": "Chloe Puzzle Game",
+      "file": "missing/C/162247-chloe-puzzle-game.json"
+    },
+    {
       "igdb_id": 334156,
       "game_name": "Chlorofell",
       "file": "missing/C/334156-chlorofell.json"
@@ -74161,6 +74171,11 @@
       "igdb_id": 1336,
       "game_name": "Contract J.A.C.K.",
       "file": "missing/C/1336-contract-j-a-c-k.json"
+    },
+    {
+      "igdb_id": 162258,
+      "game_name": "Contract Killer",
+      "file": "missing/C/162258-contract-killer.json"
     },
     {
       "igdb_id": 132218,
@@ -96796,6 +96811,11 @@
       "igdb_id": 90687,
       "game_name": "Dillon's Dead-Heat Breakers",
       "file": "missing/D/90687-dillons-dead-heat-breakers.json"
+    },
+    {
+      "igdb_id": 162254,
+      "game_name": "Diluvian Ultra",
+      "file": "missing/D/162254-diluvian-ultra.json"
     },
     {
       "igdb_id": 316989,
@@ -143156,6 +143176,31 @@
       "igdb_id": 334493,
       "game_name": "Funfair Billionaire",
       "file": "missing/F/334493-funfair-billionaire.json"
+    },
+    {
+      "igdb_id": 162273,
+      "game_name": "Funfair Ride Simulator 3: Ride Pack 2",
+      "file": "missing/F/162273-funfair-ride-simulator-3-ride-pack-2.json"
+    },
+    {
+      "igdb_id": 162272,
+      "game_name": "Funfair Ride Simulator 3: Ride Pack 3",
+      "file": "missing/F/162272-funfair-ride-simulator-3-ride-pack-3.json"
+    },
+    {
+      "igdb_id": 162271,
+      "game_name": "Funfair Ride Simulator 3: Ride Pack 4",
+      "file": "missing/F/162271-funfair-ride-simulator-3-ride-pack-4.json"
+    },
+    {
+      "igdb_id": 162269,
+      "game_name": "Funfair Ride Simulator 3: Ride Pack 5",
+      "file": "missing/F/162269-funfair-ride-simulator-3-ride-pack-5.json"
+    },
+    {
+      "igdb_id": 162270,
+      "game_name": "Funfair Ride Simulator 3: Ride Pack 6",
+      "file": "missing/F/162270-funfair-ride-simulator-3-ride-pack-6.json"
     },
     {
       "igdb_id": 397775,
@@ -192076,6 +192121,31 @@
       "igdb_id": 351599,
       "game_name": "Jigsaw Puzzle: New Year Collection",
       "file": "missing/J/351599-jigsaw-puzzle-new-year-collection.json"
+    },
+    {
+      "igdb_id": 162242,
+      "game_name": "Jigsaw Puzzle: Pro Edition - Expansion Pack 10",
+      "file": "missing/J/162242-jigsaw-puzzle-pro-edition-expansion-pack-10.json"
+    },
+    {
+      "igdb_id": 162240,
+      "game_name": "Jigsaw Puzzle: Pro Edition - Expansion Pack 2",
+      "file": "missing/J/162240-jigsaw-puzzle-pro-edition-expansion-pack-2.json"
+    },
+    {
+      "igdb_id": 162244,
+      "game_name": "Jigsaw Puzzle: Pro Edition - Expansion Pack 3",
+      "file": "missing/J/162244-jigsaw-puzzle-pro-edition-expansion-pack-3.json"
+    },
+    {
+      "igdb_id": 162241,
+      "game_name": "Jigsaw Puzzle: Pro Edition - Expansion Pack 5",
+      "file": "missing/J/162241-jigsaw-puzzle-pro-edition-expansion-pack-5.json"
+    },
+    {
+      "igdb_id": 162243,
+      "game_name": "Jigsaw Puzzle: Pro Edition - Expansion Pack 6",
+      "file": "missing/J/162243-jigsaw-puzzle-pro-edition-expansion-pack-6.json"
     },
     {
       "igdb_id": 105903,
@@ -325983,6 +326053,11 @@
       "file": "missing/S/134076-secret-maryo-chronicles.json"
     },
     {
+      "igdb_id": 162248,
+      "game_name": "Secret Mission Escape Room",
+      "file": "missing/S/162248-secret-mission-escape-room.json"
+    },
+    {
       "igdb_id": 171475,
       "game_name": "Secret Mission: Produce For President",
       "file": "missing/S/171475-secret-mission-produce-for-president.json"
@@ -360418,6 +360493,11 @@
       "file": "missing/S/365737-stranded-at-sea.json"
     },
     {
+      "igdb_id": 162257,
+      "game_name": "Stranded B",
+      "file": "missing/S/162257-stranded-b.json"
+    },
+    {
       "igdb_id": 273398,
       "game_name": "Stranded Engineers",
       "file": "missing/S/273398-stranded-engineers.json"
@@ -360791,6 +360871,11 @@
       "igdb_id": 367495,
       "game_name": "Strawberry Chocolate",
       "file": "missing/S/367495-strawberry-chocolate.json"
+    },
+    {
+      "igdb_id": 162253,
+      "game_name": "Strawberry Chocolate: Miner 8AD 4SS",
+      "file": "missing/S/162253-strawberry-chocolate-miner-8ad-4ss.json"
     },
     {
       "igdb_id": 172586,
@@ -361436,6 +361521,11 @@
       "igdb_id": 293631,
       "game_name": "Street of the Cats",
       "file": "missing/S/293631-street-of-the-cats.json"
+    },
+    {
+      "igdb_id": 162246,
+      "game_name": "Street Outlaws 2: Winner Takes All",
+      "file": "missing/S/162246-street-outlaws-2-winner-takes-all.json"
     },
     {
       "igdb_id": 173797,
@@ -414578,6 +414668,76 @@
       "file": "missing/T/33091-tower-3d.json"
     },
     {
+      "igdb_id": 162284,
+      "game_name": "Tower!3D Pro: EDDM Airport",
+      "file": "missing/T/162284-tower-3d-pro-eddm-airport.json"
+    },
+    {
+      "igdb_id": 162282,
+      "game_name": "Tower!3D Pro: EDDS Airport",
+      "file": "missing/T/162282-tower-3d-pro-edds-airport.json"
+    },
+    {
+      "igdb_id": 162288,
+      "game_name": "Tower!3D Pro: EGKK Airport",
+      "file": "missing/T/162288-tower-3d-pro-egkk-airport.json"
+    },
+    {
+      "igdb_id": 162283,
+      "game_name": "Tower!3D Pro: FAOR Airport",
+      "file": "missing/T/162283-tower-3d-pro-faor-airport.json"
+    },
+    {
+      "igdb_id": 162281,
+      "game_name": "Tower!3D Pro: KATL Airport",
+      "file": "missing/T/162281-tower-3d-pro-katl-airport.json"
+    },
+    {
+      "igdb_id": 162276,
+      "game_name": "Tower!3D Pro: KBOS Airport",
+      "file": "missing/T/162276-tower-3d-pro-kbos-airport.json"
+    },
+    {
+      "igdb_id": 162278,
+      "game_name": "Tower!3D Pro: KJFK Airport",
+      "file": "missing/T/162278-tower-3d-pro-kjfk-airport.json"
+    },
+    {
+      "igdb_id": 162289,
+      "game_name": "Tower!3D Pro: KLAS Airport",
+      "file": "missing/T/162289-tower-3d-pro-klas-airport.json"
+    },
+    {
+      "igdb_id": 162277,
+      "game_name": "Tower!3D Pro: KMCO Airport",
+      "file": "missing/T/162277-tower-3d-pro-kmco-airport.json"
+    },
+    {
+      "igdb_id": 162286,
+      "game_name": "Tower!3D Pro: KSAN Airport",
+      "file": "missing/T/162286-tower-3d-pro-ksan-airport.json"
+    },
+    {
+      "igdb_id": 162285,
+      "game_name": "Tower!3D Pro: KSFO Airport",
+      "file": "missing/T/162285-tower-3d-pro-ksfo-airport.json"
+    },
+    {
+      "igdb_id": 162287,
+      "game_name": "Tower!3D Pro: LTFM Airport",
+      "file": "missing/T/162287-tower-3d-pro-ltfm-airport.json"
+    },
+    {
+      "igdb_id": 162280,
+      "game_name": "Tower!3D Pro: PHNL Airport",
+      "file": "missing/T/162280-tower-3d-pro-phnl-airport.json"
+    },
+    {
+      "igdb_id": 162279,
+      "game_name": "Tower!3D Pro: ZBAD Airport",
+      "file": "missing/T/162279-tower-3d-pro-zbad-airport.json"
+    },
+    {
       "igdb_id": 161314,
       "game_name": "Tower!3D: EGLL Airport",
       "file": "missing/T/161314-tower-3d-egll-airport.json"
@@ -415668,6 +415828,11 @@
       "file": "missing/T/168731-train-sim-world-2-db-br-101-loco.json"
     },
     {
+      "igdb_id": 162252,
+      "game_name": "Train Sim World 2: DB BR 155 Loco",
+      "file": "missing/T/162252-train-sim-world-2-db-br-155-loco.json"
+    },
+    {
       "igdb_id": 167301,
       "game_name": "Train Sim World 2: DB BR 182 Loco Add-On",
       "file": "missing/T/167301-train-sim-world-2-db-br-182-loco-add-on.json"
@@ -415721,6 +415886,11 @@
       "igdb_id": 195777,
       "game_name": "Train Sim World 2: S-Bahn Zentralschweiz - Luzern: Sursee Route",
       "file": "missing/T/195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json"
+    },
+    {
+      "igdb_id": 162255,
+      "game_name": "Train Sim World 2020: Amtrak SW1000R Loco",
+      "file": "missing/T/162255-train-sim-world-2020-amtrak-sw1000r-loco.json"
     },
     {
       "igdb_id": 237944,
@@ -416073,6 +416243,51 @@
       "file": "missing/T/169924-train-simulator-2021-0-4-0-saddletank-pack-1-add-on-loco.json"
     },
     {
+      "igdb_id": 162260,
+      "game_name": "Train Simulator 2021: Amtrak Acela Express EMU",
+      "file": "missing/T/162260-train-simulator-2021-amtrak-acela-express-emu.json"
+    },
+    {
+      "igdb_id": 162261,
+      "game_name": "Train Simulator 2021: Amtrak Dash 8-32BWH Loco",
+      "file": "missing/T/162261-train-simulator-2021-amtrak-dash-8-32bwh-loco.json"
+    },
+    {
+      "igdb_id": 162259,
+      "game_name": "Train Simulator 2021: Amtrak E8 Loco",
+      "file": "missing/T/162259-train-simulator-2021-amtrak-e8-loco.json"
+    },
+    {
+      "igdb_id": 162268,
+      "game_name": "Train Simulator 2021: Amtrak E8 Scenario Pack 01",
+      "file": "missing/T/162268-train-simulator-2021-amtrak-e8-scenario-pack-01.json"
+    },
+    {
+      "igdb_id": 162263,
+      "game_name": "Train Simulator 2021: Amtrak F40PH 'California Zephyr' Loco",
+      "file": "missing/T/162263-train-simulator-2021-amtrak-f40ph-california-zephyr-loco.json"
+    },
+    {
+      "igdb_id": 162262,
+      "game_name": "Train Simulator 2021: Amtrak HHP-8 Loco",
+      "file": "missing/T/162262-train-simulator-2021-amtrak-hhp-8-loco.json"
+    },
+    {
+      "igdb_id": 162267,
+      "game_name": "Train Simulator 2021: Amtrak P30CH Loco",
+      "file": "missing/T/162267-train-simulator-2021-amtrak-p30ch-loco.json"
+    },
+    {
+      "igdb_id": 162264,
+      "game_name": "Train Simulator 2021: Amtrak P42 DC 'Empire Builder' Loco",
+      "file": "missing/T/162264-train-simulator-2021-amtrak-p42-dc-empire-builder-loco.json"
+    },
+    {
+      "igdb_id": 162266,
+      "game_name": "Train Simulator 2021: Amtrak SDP40F Loco",
+      "file": "missing/T/162266-train-simulator-2021-amtrak-sdp40f-loco.json"
+    },
+    {
       "igdb_id": 162416,
       "game_name": "Train Simulator 2021: Arizona Divide - Winslow: Williams Route",
       "file": "missing/T/162416-train-simulator-2021-arizona-divide-winslow-williams-route.json"
@@ -416258,6 +416473,11 @@
       "file": "missing/T/162337-train-simulator-2021-freightliner-class-57-0-loco.json"
     },
     {
+      "igdb_id": 162265,
+      "game_name": "Train Simulator 2021: Grand Central Class 180 'Adelante' DMU",
+      "file": "missing/T/162265-train-simulator-2021-grand-central-class-180-adelante-dmu.json"
+    },
+    {
       "igdb_id": 162379,
       "game_name": "Train Simulator 2021: Great Northern F7 'Empire Builder' Loco",
       "file": "missing/T/162379-train-simulator-2021-great-northern-f7-empire-builder-loco.json"
@@ -416271,6 +416491,16 @@
       "igdb_id": 162392,
       "game_name": "Train Simulator 2021: GWR 7800 'Manor' Class",
       "file": "missing/T/162392-train-simulator-2021-gwr-7800-manor-class.json"
+    },
+    {
+      "igdb_id": 162274,
+      "game_name": "Train Simulator 2021: GWR Large Prairies Steam Loco",
+      "file": "missing/T/162274-train-simulator-2021-gwr-large-prairies-steam-loco.json"
+    },
+    {
+      "igdb_id": 162275,
+      "game_name": "Train Simulator 2021: GWR Small Prairies Loco",
+      "file": "missing/T/162275-train-simulator-2021-gwr-small-prairies-loco.json"
     },
     {
       "igdb_id": 162342,
@@ -434563,6 +434793,21 @@
       "file": "missing/V/235766-vranygrai.json"
     },
     {
+      "igdb_id": 162249,
+      "game_name": "VRC Pro: Deluxe Cars",
+      "file": "missing/V/162249-vrc-pro-deluxe-cars.json"
+    },
+    {
+      "igdb_id": 162250,
+      "game_name": "VRC Pro: GT3 Chassis and Components",
+      "file": "missing/V/162250-vrc-pro-gt3-chassis-and-components.json"
+    },
+    {
+      "igdb_id": 162251,
+      "game_name": "VRC Pro: Rally-X",
+      "file": "missing/V/162251-vrc-pro-rally-x.json"
+    },
+    {
       "igdb_id": 33150,
       "game_name": "VReakout",
       "file": "missing/V/33150-vreakout.json"
@@ -441591,6 +441836,11 @@
       "igdb_id": 166719,
       "game_name": "White Eyes",
       "file": "missing/W/166719-white-eyes.json"
+    },
+    {
+      "igdb_id": 162256,
+      "game_name": "White Hell",
+      "file": "missing/W/162256-white-hell.json"
     },
     {
       "igdb_id": 7482,
