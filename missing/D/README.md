@@ -3568,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country | 150028 | [150028-donkey-kong-country.json](./150028-donkey-kong-country.json) |
 | Donkey Kong Country | 234084 | [234084-donkey-kong-country.json](./234084-donkey-kong-country.json) |
 | Donkey Kong Country 2 | 178237 | [178237-donkey-kong-country-2.json](./178237-donkey-kong-country-2.json) |
+| Donkey Kong Country 2: The Lost Levels | 162766 | [162766-donkey-kong-country-2-the-lost-levels.json](./162766-donkey-kong-country-2-the-lost-levels.json) |
 | Donkey Kong Country 3 | 132723 | [132723-donkey-kong-country-3.json](./132723-donkey-kong-country-3.json) |
 | Donkey Kong Country 3: Dixie Kong's Double Trouble! | 1094 | [1094-donkey-kong-country-3-dixie-kongs-double-trouble.json](./1094-donkey-kong-country-3-dixie-kongs-double-trouble.json) |
 | Donkey Kong Country NES Edition | 338803 | [338803-donkey-kong-country-nes-edition.json](./338803-donkey-kong-country-nes-edition.json) |
