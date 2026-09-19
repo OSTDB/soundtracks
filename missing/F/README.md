@@ -2807,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Ingress | 126566 | [126566-forbidden-ingress.json](./126566-forbidden-ingress.json) |
 | Forbidden Island | 381031 | [381031-forbidden-island.json](./381031-forbidden-island.json) |
 | Forbidden Magic | 253947 | [253947-forbidden-magic.json](./253947-forbidden-magic.json) |
+| Forbidden place | 173180 | [173180-forbidden-place.json](./173180-forbidden-place.json) |
 | Forbidden Planet | 81414 | [81414-forbidden-planet.json](./81414-forbidden-planet.json) |
 | Forbidden Proton | 174289 | [174289-forbidden-proton.json](./174289-forbidden-proton.json) |
 | Forbidden Quake OST Liner Notes | 262422 | [262422-forbidden-quake-ost-liner-notes.json](./262422-forbidden-quake-ost-liner-notes.json) |
