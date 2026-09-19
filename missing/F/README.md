@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake Emperors | 264060 | [264060-fake-emperors.json](./264060-fake-emperors.json) |
 | Fake Future | 249482 | [249482-fake-future.json](./249482-fake-future.json) |
 | Fake Happy End | 29922 | [29922-fake-happy-end.json](./29922-fake-happy-end.json) |
+| Fake Hostel | 166628 | [166628-fake-hostel.json](./166628-fake-hostel.json) |
 | Fake Signals | 236273 | [236273-fake-signals.json](./236273-fake-signals.json) |
 | Falafel Tycoon | 152837 | [152837-falafel-tycoon.json](./152837-falafel-tycoon.json) |
 | Falcão & a cornopopéia brasileira | 245041 | [245041-falcao-and-a-cornopopeia-brasileira.json](./245041-falcao-and-a-cornopopeia-brasileira.json) |
@@ -608,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Rivals | 63299 | [63299-fantasy-rivals.json](./63299-fantasy-rivals.json) |
 | Fantasy Shop | 238492 | [238492-fantasy-shop.json](./238492-fantasy-shop.json) |
 | Fantasy Simulator KnightX | 297629 | [297629-fantasy-simulator-knightx.json](./297629-fantasy-simulator-knightx.json) |
+| Fantasy Sliding Puzzle | 166638 | [166638-fantasy-sliding-puzzle.json](./166638-fantasy-sliding-puzzle.json) |
 | Fantasy Smith VR | 115558 | [115558-fantasy-smith-vr.json](./115558-fantasy-smith-vr.json) |
 | Fantasy Squad W | 109575 | [109575-fantasy-squad-w.json](./109575-fantasy-squad-w.json) |
 | Fantasy Story: Lord of Darkness | 200117 | [200117-fantasy-story-lord-of-darkness.json](./200117-fantasy-story-lord-of-darkness.json) |
@@ -2662,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Comes From Above | 157715 | [157715-food-comes-from-above.json](./157715-food-comes-from-above.json) |
 | Food Courier: Bike Adventure | 320370 | [320370-food-courier-bike-adventure.json](./320370-food-courier-bike-adventure.json) |
 | Food Decisions | 292682 | [292682-food-decisions.json](./292682-food-decisions.json) |
+| Food Delivery Battle | 166634 | [166634-food-delivery-battle.json](./166634-food-delivery-battle.json) |
 | Food Delivery Simulator | 316420 | [316420-food-delivery-simulator.json](./316420-food-delivery-simulator.json) |
 | Food Drive | 109721 | [109721-food-drive.json](./109721-food-drive.json) |
 | Food Fight | 316255 | [316255-food-fight.json](./316255-food-fight.json) |
