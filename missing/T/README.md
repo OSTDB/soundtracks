@@ -2837,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
 | The Evil Within Bundle | 154961 | [154961-the-evil-within-bundle.json](./154961-the-evil-within-bundle.json) |
 | The Evil Within Double Feature | 146135 | [146135-the-evil-within-double-feature.json](./146135-the-evil-within-double-feature.json) |
+| The exact moment | 144790 | [144790-the-exact-moment.json](./144790-the-exact-moment.json) |
 | The Exaggerated Epoch of Edward O'Hare | 147378 | [147378-the-exaggerated-epoch-of-edward-ohare.json](./147378-the-exaggerated-epoch-of-edward-ohare.json) |
 | The eXceed Collection | 64895 | [64895-the-exceed-collection.json](./64895-the-exceed-collection.json) |
 | The Exchange Student: Episode 2 - Point Club | 72024 | [72024-the-exchange-student-episode-2-point-club.json](./72024-the-exchange-student-episode-2-point-club.json) |
@@ -3119,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost of Paris | 187974 | [187974-the-ghost-of-paris.json](./187974-the-ghost-of-paris.json) |
 | The Ghost of Us | 313880 | [313880-the-ghost-of-us.json](./313880-the-ghost-of-us.json) |
 | The Ghosts Race | 214186 | [214186-the-ghosts-race.json](./214186-the-ghosts-race.json) |
+| The Ghoul's Forest | 144804 | [144804-the-ghouls-forest.json](./144804-the-ghouls-forest.json) |
 | The Giant of Torridge Island | 192984 | [192984-the-giant-of-torridge-island.json](./192984-the-giant-of-torridge-island.json) |
 | The GIF Game | 297813 | [297813-the-gif-game.json](./297813-the-gif-game.json) |
 | The Gigglebone Gang: The AlphaBonk Farm | 206110 | [206110-the-gigglebone-gang-the-alphabonk-farm.json](./206110-the-gigglebone-gang-the-alphabonk-farm.json) |
@@ -4134,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Love Letter | 63820 | [63820-the-love-letter.json](./63820-the-love-letter.json) |
 | The Luckiest in the Megaverse | 285594 | [285594-the-luckiest-in-the-megaverse.json](./285594-the-luckiest-in-the-megaverse.json) |
 | The Luminist | 120972 | [120972-the-luminist.json](./120972-the-luminist.json) |
+| The Lunar Effect | 144746 | [144746-the-lunar-effect.json](./144746-the-lunar-effect.json) |
 | The Lurking Horror | 12180 | [12180-the-lurking-horror.json](./12180-the-lurking-horror.json) |
 | The Machine | 79257 | [79257-the-machine.json](./79257-the-machine.json) |
 | The Machinery | 271747 | [271747-the-machinery.json](./271747-the-machinery.json) |
@@ -7770,6 +7773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider Starring Lara Croft | 36878 | [36878-tomb-raider-starring-lara-croft.json](./36878-tomb-raider-starring-lara-croft.json) |
 | Tomb Raider: Anniversary | 381690 | [381690-tomb-raider-anniversary.json](./381690-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
+| Tomb Raider: Definitive Survivor Trilogy | 144771 | [144771-tomb-raider-definitive-survivor-trilogy.json](./144771-tomb-raider-definitive-survivor-trilogy.json) |
 | Tomb Raider: Game of the Year Edition | 53818 | [53818-tomb-raider-game-of-the-year-edition.json](./53818-tomb-raider-game-of-the-year-edition.json) |
 | Tomb Raider: Hashep Oasis | 328588 | [328588-tomb-raider-hashep-oasis.json](./328588-tomb-raider-hashep-oasis.json) |
 | Tomb Raider: Legend | 146717 | [146717-tomb-raider-legend.json](./146717-tomb-raider-legend.json) |
@@ -8131,6 +8135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totems: Game of Conquest | 200188 | [200188-totems-game-of-conquest.json](./200188-totems-game-of-conquest.json) |
 | Toten | 233486 | [233486-toten.json](./233486-toten.json) |
 | Totenkampf: Anime Waifus vs WW2 Zombies | 398414 | [398414-totenkampf-anime-waifus-vs-ww2-zombies.json](./398414-totenkampf-anime-waifus-vs-ww2-zombies.json) |
+| Totò Sapore e La Magica Storia Della Pizza | 144813 | [144813-toto-sapore-e-la-magica-storia-della-pizza.json](./144813-toto-sapore-e-la-magica-storia-della-pizza.json) |
 | Toto's Toy Box | 129222 | [129222-totos-toy-box.json](./129222-totos-toy-box.json) |
 | Totonoi Simulator | 325450 | [325450-totonoi-simulator.json](./325450-totonoi-simulator.json) |
 | Totsugeki 64 | 203396 | [203396-totsugeki-64.json](./203396-totsugeki-64.json) |
@@ -8265,6 +8270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spell Bubble: Character Pack Kogasa Tatara | 209492 | [209492-touhou-spell-bubble-character-pack-kogasa-tatara.json](./209492-touhou-spell-bubble-character-pack-kogasa-tatara.json) |
 | Touhou Spell Bubble: Diao ye zong - Song Pack | 209169 | [209169-touhou-spell-bubble-diao-ye-zong-song-pack.json](./209169-touhou-spell-bubble-diao-ye-zong-song-pack.json) |
 | Touhou Spell Bubble: Scarlet Devil Land Arrange Song Pack Vol.2 | 209468 | [209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json](./209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json) |
+| Touhou Spell Bubble: Side Story Pack Sanae Arc | 144773 | [144773-touhou-spell-bubble-side-story-pack-sanae-arc.json](./144773-touhou-spell-bubble-side-story-pack-sanae-arc.json) |
 | Touhou Spell Bubble: Touhou Collaborations Pack | 209147 | [209147-touhou-spell-bubble-touhou-collaborations-pack.json](./209147-touhou-spell-bubble-touhou-collaborations-pack.json) |
 | Touhou Spell Bubble: Touhou Eiyashou - Arrangements Pack | 209125 | [209125-touhou-spell-bubble-touhou-eiyashou-arrangements-pack.json](./209125-touhou-spell-bubble-touhou-eiyashou-arrangements-pack.json) |
 | Touhou Spell Bubble: Touhou Eurobeat Pack | 209135 | [209135-touhou-spell-bubble-touhou-eurobeat-pack.json](./209135-touhou-spell-bubble-touhou-eurobeat-pack.json) |
@@ -8325,6 +8331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tow Truck | 104635 | [104635-tow-truck.json](./104635-tow-truck.json) |
 | Tow Truck: Max | 102137 | [102137-tow-truck-max.json](./102137-tow-truck-max.json) |
 | Towards the Pantheon | 25316 | [25316-towards-the-pantheon.json](./25316-towards-the-pantheon.json) |
+| Towards the Sky | 144749 | [144749-towards-the-sky.json](./144749-towards-the-sky.json) |
 | Towards the Stars | 150689 | [150689-towards-the-stars.json](./150689-towards-the-stars.json) |
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Towelket: One More Time 2 (Karaage Tanpopo) | 146883 | [146883-towelket-one-more-time-2-karaage-tanpopo.json](./146883-towelket-one-more-time-2-karaage-tanpopo.json) |
