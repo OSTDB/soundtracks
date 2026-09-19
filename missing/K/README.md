@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kao the Kangaroo: VIP | 290411 | [290411-kao-the-kangaroo-vip.json](./290411-kao-the-kangaroo-vip.json) |
 | Kaori After Story | 112770 | [112770-kaori-after-story.json](./112770-kaori-after-story.json) |
 | Kaos | 118397 | [118397-kaos.json](./118397-kaos.json) |
+| Kǎpái Màoxiǎnzhě | 148369 | [148369-kapai-maoxianzhe.json](./148369-kapai-maoxianzhe.json) |
 | Kaperfahrt | 414347 | [414347-kaperfahrt.json](./414347-kaperfahrt.json) |
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
@@ -655,6 +656,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids of Karendow | 157052 | [157052-kids-of-karendow.json](./157052-kids-of-karendow.json) |
 | Kids Preschool Puzzles | 323152 | [323152-kids-preschool-puzzles.json](./323152-kids-preschool-puzzles.json) |
 | Kids Puzzle - 2 in 1 Bundle | 231048 | [231048-kids-puzzle-2-in-1-bundle.json](./231048-kids-puzzle-2-in-1-bundle.json) |
+| Kids Station: Asobou! Hanasou! Guru-guru Town Hanamaru-kun | 148374 | [148374-kids-station-asobou-hanasou-guru-guru-town-hanamaru-kun.json](./148374-kids-station-asobou-hanasou-guru-guru-town-hanamaru-kun.json) |
+| Kids Station: Barbapapa | 148377 | [148377-kids-station-barbapapa.json](./148377-kids-station-barbapapa.json) |
 | Kids Station: Digimon Park | 58808 | [58808-kids-station-digimon-park.json](./58808-kids-station-digimon-park.json) |
 | Kids Station: Hello Kitty no Oshaberi ABC | 198926 | [198926-kids-station-hello-kitty-no-oshaberi-abc.json](./198926-kids-station-hello-kitty-no-oshaberi-abc.json) |
 | Kids Station: Hello Kitty no Oshaberi Town | 200556 | [200556-kids-station-hello-kitty-no-oshaberi-town.json](./200556-kids-station-hello-kitty-no-oshaberi-town.json) |
@@ -1105,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kishki | 376480 | [376480-kishki.json](./376480-kishki.json) |
 | Kiss & Crisis | 194570 | [194570-kiss-and-crisis.json](./194570-kiss-and-crisis.json) |
 | Kiss Ato | 147429 | [147429-kiss-ato.json](./147429-kiss-ato.json) |
+| Kiss Ato | 148357 | [148357-kiss-ato.json](./148357-kiss-ato.json) |
 | Kiss Effect | 235477 | [235477-kiss-effect.json](./235477-kiss-effect.json) |
 | Kiss in Hell | 298298 | [298298-kiss-in-hell.json](./298298-kiss-in-hell.json) |
 | Kiss Kara Hajimaru Gyaru no Koi: Kurumi no Uwasa to Honto no Kimochi | 186229 | [186229-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi.json](./186229-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi.json) |
@@ -1574,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotoko's a Little Weird | 290687 | [290687-kotokos-a-little-weird.json](./290687-kotokos-a-little-weird.json) |
 | Kotomasho: I Can't Believe This Neet Guy Turned Into a Magical Girl! | 203532 | [203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json](./203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json) |
 | Kotori no Tsubasa | 405511 | [405511-kotori-no-tsubasa.json](./405511-kotori-no-tsubasa.json) |
+| Kotori with a gun | 148384 | [148384-kotori-with-a-gun.json](./148384-kotori-with-a-gun.json) |
 | Kotowari: Kimi no Kokoro no Koboreta Kakera | 382785 | [382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json](./382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json) |
 | Kouchuu Ouja Mushiking: Mori no Tami no Densetsu - Minna de Tanken! Kouchuu no Mori | 123621 | [123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json](./123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json) |
 | Kouei no Tou | 206373 | [206373-kouei-no-tou.json](./206373-kouei-no-tou.json) |
