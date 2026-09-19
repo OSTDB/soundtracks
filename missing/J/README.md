@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Henry | 340779 | [340779-jumping-henry.json](./340779-jumping-henry.json) |
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
 | Jumping Jacks | 243100 | [243100-jumping-jacks.json](./243100-jumping-jacks.json) |
+| Jumping Joe! Friends Edition | 170387 | [170387-jumping-joe-friends-edition.json](./170387-jumping-joe-friends-edition.json) |
 | Jumping Master | 115590 | [115590-jumping-master.json](./115590-jumping-master.json) |
 | Jumping Orb | 295888 | [295888-jumping-orb.json](./295888-jumping-orb.json) |
 | Jumping Over It With Kang KiYun | 120382 | [120382-jumping-over-it-with-kang-kiyun.json](./120382-jumping-over-it-with-kang-kiyun.json) |
