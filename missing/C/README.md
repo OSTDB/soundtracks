@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Terroretra | 217868 | [217868-castle-terroretra.json](./217868-castle-terroretra.json) |
 | Castle Terroretra In Space | 217870 | [217870-castle-terroretra-in-space.json](./217870-castle-terroretra-in-space.json) |
 | Castle Tintagel | 255166 | [255166-castle-tintagel.json](./255166-castle-tintagel.json) |
+| Castle Torgeath Redux | 130180 | [130180-castle-torgeath-redux.json](./130180-castle-torgeath-redux.json) |
 | Castle Torgeath: Descent into Darkness | 26590 | [26590-castle-torgeath-descent-into-darkness.json](./26590-castle-torgeath-descent-into-darkness.json) |
 | Castle Travel | 364563 | [364563-castle-travel.json](./364563-castle-travel.json) |
 | Castle V Castle | 331947 | [331947-castle-v-castle.json](./331947-castle-v-castle.json) |
@@ -1362,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cause of Death | 91937 | [91937-cause-of-death.json](./91937-cause-of-death.json) |
 | Cause to Exist | 365174 | [365174-cause-to-exist.json](./365174-cause-to-exist.json) |
 | Caution Ahead: Part 2 | 305142 | [305142-caution-ahead-part-2.json](./305142-caution-ahead-part-2.json) |
+| Caution! Platforming Ahead | 130725 | [130725-caution-platforming-ahead.json](./130725-caution-platforming-ahead.json) |
 | Cautionary Tale | 176453 | [176453-cautionary-tale.json](./176453-cautionary-tale.json) |
 | Cavalry Battle 3000 | 353896 | [353896-cavalry-battle-3000.json](./353896-cavalry-battle-3000.json) |
 | Cave | 141816 | [141816-cave.json](./141816-cave.json) |
@@ -1715,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Rings Omega | 38897 | [38897-chaos-rings-omega.json](./38897-chaos-rings-omega.json) |
 | Chaos Road | 158229 | [158229-chaos-road.json](./158229-chaos-road.json) |
 | Chaos Starter | 116876 | [116876-chaos-starter.json](./116876-chaos-starter.json) |
+| Chaos Theory Pirates | 130193 | [130193-chaos-theory-pirates.json](./130193-chaos-theory-pirates.json) |
 | Chaos War | 203933 | [203933-chaos-war.json](./203933-chaos-war.json) |
 | Chaos Warrior | 415933 | [415933-chaos-warrior.json](./415933-chaos-warrior.json) |
 | Chaos Wars | 21051 | [21051-chaos-wars.json](./21051-chaos-wars.json) |
@@ -2522,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck E. Cheese's Gameroom | 55902 | [55902-chuck-e-cheeses-gameroom.json](./55902-chuck-e-cheeses-gameroom.json) |
 | Chuck E. Cheese's Playhouse | 55904 | [55904-chuck-e-cheeses-playhouse.json](./55904-chuck-e-cheeses-playhouse.json) |
 | Chuck E. Cheese's Racing World | 103522 | [103522-chuck-e-cheeses-racing-world.json](./103522-chuck-e-cheeses-racing-world.json) |
+| Chuck Meowrris | 130167 | [130167-chuck-meowrris.json](./130167-chuck-meowrris.json) |
 | Chuck Quizmo's Quiz | 328608 | [328608-chuck-quizmos-quiz.json](./328608-chuck-quizmos-quiz.json) |
 | Chuck Rock | 275025 | [275025-chuck-rock.json](./275025-chuck-rock.json) |
 | Chuck Rock | 275026 | [275026-chuck-rock.json](./275026-chuck-rock.json) |
@@ -3126,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown | 169966 | [169966-clown.json](./169966-clown.json) |
 | Clown House | 90599 | [90599-clown-house.json](./90599-clown-house.json) |
 | Clown House: Lunacy | 381610 | [381610-clown-house-lunacy.json](./381610-clown-house-lunacy.json) |
+| Clown Nightmare, Satan's Joke | 130175 | [130175-clown-nightmare-satans-joke.json](./130175-clown-nightmare-satans-joke.json) |
 | Clown2Beat | 30828 | [30828-clown2beat.json](./30828-clown2beat.json) |
 | Clowns and Balloons | 40781 | [40781-clowns-and-balloons.json](./40781-clowns-and-balloons.json) |
 | ClownScapades Rally | 257924 | [257924-clownscapades-rally.json](./257924-clownscapades-rally.json) |
@@ -3891,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computerfriend | 215231 | [215231-computerfriend.json](./215231-computerfriend.json) |
 | Comrade Quack | 195176 | [195176-comrade-quack.json](./195176-comrade-quack.json) |
 | Comrade Trump's Re-election | 286523 | [286523-comrade-trumps-re-election.json](./286523-comrade-trumps-re-election.json) |
+| Comrade-in-Arms | 130169 | [130169-comrade-in-arms.json](./130169-comrade-in-arms.json) |
 | Comuni Non Comuni | 299158 | [299158-comuni-non-comuni.json](./299158-comuni-non-comuni.json) |
 | Con Man: The Game | 76571 | [76571-con-man-the-game.json](./76571-con-man-the-game.json) |
 | Con-Quest | 140569 | [140569-con-quest.json](./140569-con-quest.json) |
@@ -5420,6 +5426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt of Dracula | 102808 | [102808-crypt-of-dracula.json](./102808-crypt-of-dracula.json) |
 | Crypt of Fear | 356662 | [356662-crypt-of-fear.json](./356662-crypt-of-fear.json) |
 | Crypt of Medea | 15512 | [15512-crypt-of-medea.json](./15512-crypt-of-medea.json) |
+| Crypt of Shadows | 130183 | [130183-crypt-of-shadows.json](./130183-crypt-of-shadows.json) |
 | Crypt of the Fungal Lord | 179140 | [179140-crypt-of-the-fungal-lord.json](./179140-crypt-of-the-fungal-lord.json) |
 | Crypt of the Necrodancer: Amplified | 26613 | [26613-crypt-of-the-necrodancer-amplified.json](./26613-crypt-of-the-necrodancer-amplified.json) |
 | Crypt of the Serpent King: Remastered - 4K Edition | 208456 | [208456-crypt-of-the-serpent-king-remastered-4k-edition.json](./208456-crypt-of-the-serpent-king-remastered-4k-edition.json) |
