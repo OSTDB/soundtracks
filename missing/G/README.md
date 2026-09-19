@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls of The Tower: Journey To Chaos | 305772 | [305772-girls-of-the-tower-journey-to-chaos.json](./305772-girls-of-the-tower-journey-to-chaos.json) |
 | Girls on puzzle | 156625 | [156625-girls-on-puzzle.json](./156625-girls-on-puzzle.json) |
 | Girls on puzzle 4 | 156622 | [156622-girls-on-puzzle-4.json](./156622-girls-on-puzzle-4.json) |
+| Girls Overboard | 167173 | [167173-girls-overboard.json](./167173-girls-overboard.json) |
 | Girls Puzzle | 112979 | [112979-girls-puzzle.json](./112979-girls-puzzle.json) |
 | Girls Rest | 257954 | [257954-girls-rest.json](./257954-girls-rest.json) |
 | Girls Tennis League | 240782 | [240782-girls-tennis-league.json](./240782-girls-tennis-league.json) |
