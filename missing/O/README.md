@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocero 3D | 341497 | [341497-ocero-3d.json](./341497-ocero-3d.json) |
 | Ochakai he no Shoutaijou | 246092 | [246092-ochakai-he-no-shoutaijou.json](./246092-ochakai-he-no-shoutaijou.json) |
 | Ochakumi | 78020 | [78020-ochakumi.json](./78020-ochakumi.json) |
+| Ochige Designer Tsukutte Pon! | 128361 | [128361-ochige-designer-tsukutte-pon.json](./128361-ochige-designer-tsukutte-pon.json) |
 | Ochre | 400963 | [400963-ochre.json](./400963-ochre.json) |
 | Ocopoco | 175397 | [175397-ocopoco.json](./175397-ocopoco.json) |
 | Oct 14 | 341498 | [341498-oct-14.json](./341498-oct-14.json) |
@@ -426,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okunoka Madness | 136462 | [136462-okunoka-madness.json](./136462-okunoka-madness.json) |
 | Okuplok Slaughter Map | 144389 | [144389-okuplok-slaughter-map.json](./144389-okuplok-slaughter-map.json) |
 | Okuri | 286131 | [286131-okuri.json](./286131-okuri.json) |
+| Olaguna Chronicles | 128372 | [128372-olaguna-chronicles.json](./128372-olaguna-chronicles.json) |
 | Olav & the Lute | 131996 | [131996-olav-and-the-lute.json](./131996-olav-and-the-lute.json) |
 | Olber's Paradox | 392816 | [392816-olbers-paradox.json](./392816-olbers-paradox.json) |
 | Old Edge I | 117706 | [117706-old-edge-i.json](./117706-old-edge-i.json) |
