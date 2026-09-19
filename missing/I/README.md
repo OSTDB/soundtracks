@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ingenious | 210038 | [210038-ingenious.json](./210038-ingenious.json) |
 | Ingenious Island | 226745 | [226745-ingenious-island.json](./226745-ingenious-island.json) |
 | Ingeste | 181225 | [181225-ingeste.json](./181225-ingeste.json) |
+| Inglorious Aztecs | 151039 | [151039-inglorious-aztecs.json](./151039-inglorious-aztecs.json) |
 | Inglorious Waifu VS Nazi Zombies | 156163 | [156163-inglorious-waifu-vs-nazi-zombies.json](./156163-inglorious-waifu-vs-nazi-zombies.json) |
 | Ingot Rush | 174220 | [174220-ingot-rush.json](./174220-ingot-rush.json) |
 | Ingrid's Back! | 15493 | [15493-ingrids-back.json](./15493-ingrids-back.json) |
