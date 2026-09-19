@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marl de Jigsaw | 165610 | [165610-marl-de-jigsaw.json](./165610-marl-de-jigsaw.json) |
 | Marlboro Go! | 253027 | [253027-marlboro-go.json](./253027-marlboro-go.json) |
 | Marlene | 25634 | [25634-marlene.json](./25634-marlene.json) |
+| Marlowe's Path | 179060 | [179060-marlowes-path.json](./179060-marlowes-path.json) |
 | Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
 | Marmoset | 189110 | [189110-marmoset.json](./189110-marmoset.json) |
 | Marooned | 151651 | [151651-marooned.json](./151651-marooned.json) |
@@ -2804,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Genocide | 153994 | [153994-meteor-genocide.json](./153994-meteor-genocide.json) |
 | Meteor Hunt Idle | 248096 | [248096-meteor-hunt-idle.json](./248096-meteor-hunt-idle.json) |
 | Meteor Mission | 13736 | [13736-meteor-mission.json](./13736-meteor-mission.json) |
+| Meteor Rain | 179053 | [179053-meteor-rain.json](./179053-meteor-rain.json) |
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
 | Meteor Storm | 319587 | [319587-meteor-storm.json](./319587-meteor-storm.json) |
 | Meteor Storm | 379900 | [379900-meteor-storm.json](./379900-meteor-storm.json) |
@@ -3673,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minions of Elden | 176423 | [176423-minions-of-elden.json](./176423-minions-of-elden.json) |
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
 | Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
+| Miniverse | 179059 | [179059-miniverse.json](./179059-miniverse.json) |
 | MiniWorld | 184032 | [184032-miniworld.json](./184032-miniworld.json) |
 | Miniworld Royale | 208969 | [208969-miniworld-royale.json](./208969-miniworld-royale.json) |
 | Minky | 246979 | [246979-minky.json](./246979-minky.json) |
@@ -3883,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistake Souls | 75193 | [75193-mistake-souls.json](./75193-mistake-souls.json) |
 | Mistaken | 335647 | [335647-mistaken.json](./335647-mistaken.json) |
 | Mistaker | 129713 | [129713-mistaker.json](./129713-mistaker.json) |
+| Mistakes Were Made | 179036 | [179036-mistakes-were-made.json](./179036-mistakes-were-made.json) |
 | Mistbound | 370667 | [370667-mistbound.json](./370667-mistbound.json) |
 | Mister Easter | 246470 | [246470-mister-easter.json](./246470-mister-easter.json) |
 | Mister Fruit Joy | 137676 | [137676-mister-fruit-joy.json](./137676-mister-fruit-joy.json) |
@@ -4266,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monch! | 250975 | [250975-monch.json](./250975-monch.json) |
 | Mondai no Aru Share House | 260117 | [260117-mondai-no-aru-share-house.json](./260117-mondai-no-aru-share-house.json) |
 | Mondar's Dungeon | 181228 | [181228-mondars-dungeon.json](./181228-mondars-dungeon.json) |
+| Monday | 179062 | [179062-monday.json](./179062-monday.json) |
 | Monday Meltdown | 260159 | [260159-monday-meltdown.json](./260159-monday-meltdown.json) |
 | Monday Meow | 388762 | [388762-monday-meow.json](./388762-monday-meow.json) |
 | Mondays: A Sisyphean Typing Game | 209491 | [209491-mondays-a-sisyphean-typing-game.json](./209491-mondays-a-sisyphean-typing-game.json) |
@@ -4805,6 +4810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Brew: Coffee Shop Management Simulator | 326388 | [326388-morning-brew-coffee-shop-management-simulator.json](./326388-morning-brew-coffee-shop-management-simulator.json) |
 | Morning Coffee | 128615 | [128615-morning-coffee.json](./128615-morning-coffee.json) |
 | Morning Kiss | 214174 | [214174-morning-kiss.json](./214174-morning-kiss.json) |
+| Morning Ritual | 179033 | [179033-morning-ritual.json](./179033-morning-ritual.json) |
 | Mornings | 184059 | [184059-mornings.json](./184059-mornings.json) |
 | Morningstar | 415929 | [415929-morningstar.json](./415929-morningstar.json) |
 | Morningtide Motel | 318970 | [318970-morningtide-motel.json](./318970-morningtide-motel.json) |
