@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zybex | 47206 | [47206-zybex.json](./47206-zybex.json) |
 | Zyconix | 84210 | [84210-zyconix.json](./84210-zyconix.json) |
 | Zyndeck VX: Card Battler | 402400 | [402400-zyndeck-vx-card-battler.json](./402400-zyndeck-vx-card-battler.json) |
+| Zyr | 131994 | [131994-zyr.json](./131994-zyr.json) |
 | Zyrcon | 413623 | [413623-zyrcon.json](./413623-zyrcon.json) |
 | Zythum | 30954 | [30954-zythum.json](./30954-zythum.json) |
 | ZYX Story | 105343 | [105343-zyx-story.json](./105343-zyx-story.json) |
