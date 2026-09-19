@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Planet Forever | 110538 | [110538-tasty-planet-forever.json](./110538-tasty-planet-forever.json) |
 | Tasty Planet: Back for Seconds | 33469 | [33469-tasty-planet-back-for-seconds.json](./33469-tasty-planet-back-for-seconds.json) |
 | Tasty Ramen | 176503 | [176503-tasty-ramen.json](./176503-tasty-ramen.json) |
+| Tasty Shafts | 128402 | [128402-tasty-shafts.json](./128402-tasty-shafts.json) |
 | Tasty Slot Machine | 242552 | [242552-tasty-slot-machine.json](./242552-tasty-slot-machine.json) |
 | Tasty Words - Free Word Games | 105973 | [105973-tasty-words-free-word-games.json](./105973-tasty-words-free-word-games.json) |
 | Tatara Kogasa's Surprise Operation | 273948 | [273948-tatara-kogasas-surprise-operation.json](./273948-tatara-kogasas-surprise-operation.json) |
@@ -1378,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tensou Sentai Goseiger Super Battle Daishuugou! | 327603 | [327603-tensou-sentai-goseiger-super-battle-daishuugou.json](./327603-tensou-sentai-goseiger-super-battle-daishuugou.json) |
 | Tensura: King of Monsters | 142849 | [142849-tensura-king-of-monsters.json](./142849-tensura-king-of-monsters.json) |
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim - The Myth & Legend of Marauder Shields | 267065 | [267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json](./267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json) |
+| Tentacles Growing Everywhere | 128411 | [128411-tentacles-growing-everywhere.json](./128411-tentacles-growing-everywhere.json) |
 | Tentacles Party With Nuns Chibi Stickers | 337653 | [337653-tentacles-party-with-nuns-chibi-stickers.json](./337653-tentacles-party-with-nuns-chibi-stickers.json) |
 | Tentacuddle | 294159 | [294159-tentacuddle.json](./294159-tentacuddle.json) |
 | Tentacult! | 32872 | [32872-tentacult.json](./32872-tentacult.json) |
@@ -8366,6 +8368,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mukyuushi: Glory of Deep Skies | 246677 | [246677-touhou-mukyuushi-glory-of-deep-skies.json](./246677-touhou-mukyuushi-glory-of-deep-skies.json) |
 | Touhou Mutsuigeki: Concealed the Conclusion | 51266 | [51266-touhou-mutsuigeki-concealed-the-conclusion.json](./51266-touhou-mutsuigeki-concealed-the-conclusion.json) |
 | Touhou Mystery Reel | 192886 | [192886-touhou-mystery-reel.json](./192886-touhou-mystery-reel.json) |
+| Touhou Pocket Wars | 128382 | [128382-touhou-pocket-wars.json](./128382-touhou-pocket-wars.json) |
+| Touhou Pocket Wars Evolution | 128383 | [128383-touhou-pocket-wars-evolution.json](./128383-touhou-pocket-wars-evolution.json) |
+| Touhou Pocket Wars Evolution Plus | 128384 | [128384-touhou-pocket-wars-evolution-plus.json](./128384-touhou-pocket-wars-evolution-plus.json) |
 | Touhou Rekkaden: Rift in a Friendship Game | 204669 | [204669-touhou-rekkaden-rift-in-a-friendship-game.json](./204669-touhou-rekkaden-rift-in-a-friendship-game.json) |
 | Touhou Rock Maiden 2: Houraisan Kaguya no Nazo | 202934 | [202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json](./202934-touhou-rock-maiden-2-houraisan-kaguya-no-nazo.json) |
 | Touhou Rock Maiden FC | 202936 | [202936-touhou-rock-maiden-fc.json](./202936-touhou-rock-maiden-fc.json) |
@@ -8375,6 +8380,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Seikaen: Blue devil in the Belvedere | 148365 | [148365-touhou-seikaen-blue-devil-in-the-belvedere.json](./148365-touhou-seikaen-blue-devil-in-the-belvedere.json) |
 | Touhou Shinjutou: Hollow Song of Birds | 196269 | [196269-touhou-shinjutou-hollow-song-of-birds.json](./196269-touhou-shinjutou-hollow-song-of-birds.json) |
 | Touhou Silver Night Festival: Freedom Train | 195794 | [195794-touhou-silver-night-festival-freedom-train.json](./195794-touhou-silver-night-festival-freedom-train.json) |
+| Touhou Soccer | 128380 | [128380-touhou-soccer.json](./128380-touhou-soccer.json) |
+| Touhou Soccer Moushuuden | 128381 | [128381-touhou-soccer-moushuuden.json](./128381-touhou-soccer-moushuuden.json) |
 | Touhou Spell Bubble | 131922 | [131922-touhou-spell-bubble.json](./131922-touhou-spell-bubble.json) |
 | Touhou Spell Bubble: Akatsuki Records Song Pack | 209154 | [209154-touhou-spell-bubble-akatsuki-records-song-pack.json](./209154-touhou-spell-bubble-akatsuki-records-song-pack.json) |
 | Touhou Spell Bubble: Character Pack Hata no Kokoro | 209525 | [209525-touhou-spell-bubble-character-pack-hata-no-kokoro.json](./209525-touhou-spell-bubble-character-pack-hata-no-kokoro.json) |
@@ -10189,6 +10196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Syndrome Kyuumei-hen | 65454 | [65454-twilight-syndrome-kyuumei-hen.json](./65454-twilight-syndrome-kyuumei-hen.json) |
 | Twilight Syndrome Saikai | 65456 | [65456-twilight-syndrome-saikai.json](./65456-twilight-syndrome-saikai.json) |
 | Twilight Syndrome Tansaku-hen | 65452 | [65452-twilight-syndrome-tansaku-hen.json](./65452-twilight-syndrome-tansaku-hen.json) |
+| Twilight Syndrome: Kinjirareta Toshi Densetsu | 128360 | [128360-twilight-syndrome-kinjirareta-toshi-densetsu.json](./128360-twilight-syndrome-kinjirareta-toshi-densetsu.json) |
 | Twilight Tales: Hollow's Store | 337195 | [337195-twilight-tales-hollows-store.json](./337195-twilight-tales-hollows-store.json) |
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
 | Twilight Wars | 211227 | [211227-twilight-wars.json](./211227-twilight-wars.json) |
