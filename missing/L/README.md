@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law of Dispute | 295393 | [295393-law-of-dispute.json](./295393-law-of-dispute.json) |
 | Law School | 347220 | [347220-law-school.json](./347220-law-school.json) |
 | Lawbringer | 234195 | [234195-lawbringer.json](./234195-lawbringer.json) |
+| Lawl | 130727 | [130727-lawl.json](./130727-lawl.json) |
 | Lawless Lands: Grizzly Pet Pack | 167714 | [167714-lawless-lands-grizzly-pet-pack.json](./167714-lawless-lands-grizzly-pet-pack.json) |
 | Lawless Lands: Herding Hound | 167715 | [167715-lawless-lands-herding-hound.json](./167715-lawless-lands-herding-hound.json) |
 | Lawless Lands: Second Soul | 167713 | [167713-lawless-lands-second-soul.json](./167713-lawless-lands-second-soul.json) |
