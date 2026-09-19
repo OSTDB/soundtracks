@@ -4203,6 +4203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Pain Labs | 166191 | [166191-pro-pain-labs.json](./166191-pro-pain-labs.json) |
 | Pro Philosopher 2: Fan Mini Argument: Locke on Property and Labor | 394866 | [394866-pro-philosopher-2-fan-mini-argument-locke-on-property-and-labor.json](./394866-pro-philosopher-2-fan-mini-argument-locke-on-property-and-labor.json) |
 | Pro Philosopher 2: Governments & Grievances | 258026 | [258026-pro-philosopher-2-governments-and-grievances.json](./258026-pro-philosopher-2-governments-and-grievances.json) |
+| Pro Pilkki | 169332 | [169332-pro-pilkki.json](./169332-pro-pilkki.json) |
 | Pro Pilkki 2 | 93597 | [93597-pro-pilkki-2.json](./93597-pro-pilkki-2.json) |
 | Pro Pinball | 18333 | [18333-pro-pinball.json](./18333-pro-pinball.json) |
 | Pro Pinball: Fantastic Journey | 43877 | [43877-pro-pinball-fantastic-journey.json](./43877-pro-pinball-fantastic-journey.json) |
