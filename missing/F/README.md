@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FallenCore | 75101 | [75101-fallencore.json](./75101-fallencore.json) |
 | Fallfate: Impulsive Plinko | 385189 | [385189-fallfate-impulsive-plinko.json](./385189-fallfate-impulsive-plinko.json) |
 | Falling Apart | 402261 | [402261-falling-apart.json](./402261-falling-apart.json) |
+| Falling As Lightning | 167168 | [167168-falling-as-lightning.json](./167168-falling-as-lightning.json) |
 | Falling Ball Blue | 107128 | [107128-falling-ball-blue.json](./107128-falling-ball-blue.json) |
 | Falling Ball Ocean | 107167 | [107167-falling-ball-ocean.json](./107167-falling-ball-ocean.json) |
 | Falling Blocks | 105389 | [105389-falling-blocks.json](./105389-falling-blocks.json) |
@@ -1848,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First, Breathe | 124751 | [124751-first-breathe.json](./124751-first-breathe.json) |
 | FirstPlate | 400994 | [400994-firstplate.json](./400994-firstplate.json) |
 | Fiscal Jesters | 176509 | [176509-fiscal-jesters.json](./176509-fiscal-jesters.json) |
+| Fiscal Kombat | 167175 | [167175-fiscal-kombat.json](./167175-fiscal-kombat.json) |
 | Fisco 400 | 172600 | [172600-fisco-400.json](./172600-fisco-400.json) |
 | Fish | 293223 | [293223-fish.json](./293223-fish.json) |
 | Fish | 309869 | [309869-fish.json](./309869-fish.json) |
@@ -3856,6 +3858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Kiss S | 219029 | [219029-full-kiss-s.json](./219029-full-kiss-s.json) |
 | Full Kiss SS | 155060 | [155060-full-kiss-ss.json](./155060-full-kiss-ss.json) |
 | Full Kiss SS: Complete Limited Edition | 155066 | [155066-full-kiss-ss-complete-limited-edition.json](./155066-full-kiss-ss-complete-limited-edition.json) |
+| Full Kiss: Limited Edition | 167133 | [167133-full-kiss-limited-edition.json](./167133-full-kiss-limited-edition.json) |
 | Full Metal Coffin | 410265 | [410265-full-metal-coffin.json](./410265-full-metal-coffin.json) |
 | Full Metal Nun | 411666 | [411666-full-metal-nun.json](./411666-full-metal-nun.json) |
 | Full Metal Planet | 12110 | [12110-full-metal-planet.json](./12110-full-metal-planet.json) |
