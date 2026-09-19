@@ -2212,6 +2212,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders 2491 | 158706 | [158706-riders-2491.json](./158706-riders-2491.json) |
 | Riders Republic: 360 Edition | 263514 | [263514-riders-republic-360-edition.json](./263514-riders-republic-360-edition.json) |
 | Riders Republic: Complete Edition | 263515 | [263515-riders-republic-complete-edition.json](./263515-riders-republic-complete-edition.json) |
+| Riders Republic: Gold Edition | 139834 | [139834-riders-republic-gold-edition.json](./139834-riders-republic-gold-edition.json) |
+| Riders Republic: Limited Edition | 139839 | [139839-riders-republic-limited-edition.json](./139839-riders-republic-limited-edition.json) |
 | Riders Republic: Skate Edition | 263516 | [263516-riders-republic-skate-edition.json](./263516-riders-republic-skate-edition.json) |
 | Riders Republic: Year 1 Pass | 293916 | [293916-riders-republic-year-1-pass.json](./293916-riders-republic-year-1-pass.json) |
 | Riders World: I Want to Jump | 200653 | [200653-riders-world-i-want-to-jump.json](./200653-riders-world-i-want-to-jump.json) |
