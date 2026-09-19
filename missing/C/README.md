@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns | 235753 | [235753-caverns.json](./235753-caverns.json) |
 | Caverns of Callisto | 24990 | [24990-caverns-of-callisto.json](./24990-caverns-of-callisto.json) |
 | Caverns of Darkness | 256819 | [256819-caverns-of-darkness.json](./256819-caverns-of-darkness.json) |
+| Caverns of Doom | 133790 | [133790-caverns-of-doom.json](./133790-caverns-of-doom.json) |
 | Caverns of Karvella | 114324 | [114324-caverns-of-karvella.json](./114324-caverns-of-karvella.json) |
 | Caverns of Khafka | 25674 | [25674-caverns-of-khafka.json](./25674-caverns-of-khafka.json) |
 | Caverns of Mars: Recharged | 233624 | [233624-caverns-of-mars-recharged.json](./233624-caverns-of-mars-recharged.json) |
@@ -3342,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Slots Live | 386856 | [386856-coin-slots-live.json](./386856-coin-slots-live.json) |
 | Coin Toss Rainbow Simulator | 272871 | [272871-coin-toss-rainbow-simulator.json](./272871-coin-toss-rainbow-simulator.json) |
 | Coin$ Pusher Ltd | 408089 | [408089-coin-pusher-ltd.json](./408089-coin-pusher-ltd.json) |
+| CoinLife | 133824 | [133824-coinlife.json](./133824-coinlife.json) |
 | Coinon | 104014 | [104014-coinon.json](./104014-coinon.json) |
 | Coins | 312027 | [312027-coins.json](./312027-coins.json) |
 | Coins Collector Sport Car | 213027 | [213027-coins-collector-sport-car.json](./213027-coins-collector-sport-car.json) |
@@ -4808,6 +4810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayola Colorful Creatures | 225659 | [225659-crayola-colorful-creatures.json](./225659-crayola-colorful-creatures.json) |
 | Crayola Paint 'n Play Pony | 313287 | [313287-crayola-paint-n-play-pony.json](./313287-crayola-paint-n-play-pony.json) |
 | Crayola Treasure Adventures | 21363 | [21363-crayola-treasure-adventures.json](./21363-crayola-treasure-adventures.json) |
+| Crayola: Make a Masterpiece | 133804 | [133804-crayola-make-a-masterpiece.json](./133804-crayola-make-a-masterpiece.json) |
 | Crayon Chronicles | 35950 | [35950-crayon-chronicles.json](./35950-crayon-chronicles.json) |
 | Crayon Food | 378793 | [378793-crayon-food.json](./378793-crayon-food.json) |
 | Crayon Pairs | 105945 | [105945-crayon-pairs.json](./105945-crayon-pairs.json) |
@@ -6091,6 +6094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclo 8 | 322587 | [322587-cyclo-8.json](./322587-cyclo-8.json) |
 | Cyclo Chambers | 218704 | [218704-cyclo-chambers.json](./218704-cyclo-chambers.json) |
 | CycloHex | 192977 | [192977-cyclohex.json](./192977-cyclohex.json) |
+| Cyclone | 133830 | [133830-cyclone.json](./133830-cyclone.json) |
 | Cyclone Circus: Power Sail Racing | 72112 | [72112-cyclone-circus-power-sail-racing.json](./72112-cyclone-circus-power-sail-racing.json) |
 | Cyclopean II: The Dreamlands | 369652 | [369652-cyclopean-ii-the-dreamlands.json](./369652-cyclopean-ii-the-dreamlands.json) |
 | Cyclopvania | 206145 | [206145-cyclopvania.json](./206145-cyclopvania.json) |
