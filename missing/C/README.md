@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Care Bears: Catch A Star! | 65505 | [65505-care-bears-catch-a-star.json](./65505-care-bears-catch-a-star.json) |
 | Care Bears: The Care Quests | 49368 | [49368-care-bears-the-care-quests.json](./49368-care-bears-the-care-quests.json) |
 | Care for your Horse | 357850 | [357850-care-for-your-horse.json](./357850-care-for-your-horse.json) |
+| Carebotz | 159730 | [159730-carebotz.json](./159730-carebotz.json) |
 | Carena | 135830 | [135830-carena.json](./135830-carena.json) |
 | Caretaker Retribution | 34236 | [34236-caretaker-retribution.json](./34236-caretaker-retribution.json) |
 | Cargame | 143727 | [143727-cargame.json](./143727-cargame.json) |
@@ -1791,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese Banquet Advanced | 294695 | [294695-cheese-banquet-advanced.json](./294695-cheese-banquet-advanced.json) |
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
 | Cheese is the Reason | 343889 | [343889-cheese-is-the-reason.json](./343889-cheese-is-the-reason.json) |
+| Cheese Killer | 159743 | [159743-cheese-killer.json](./159743-cheese-killer.json) |
 | Cheese Quest 3D: The Brother Lady Saga | 234896 | [234896-cheese-quest-3d-the-brother-lady-saga.json](./234896-cheese-quest-3d-the-brother-lady-saga.json) |
 | Cheese Runner | 209474 | [209474-cheese-runner.json](./209474-cheese-runner.json) |
 | Cheese Terminator | 105404 | [105404-cheese-terminator.json](./105404-cheese-terminator.json) |
@@ -2872,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clever Frog | 340209 | [340209-clever-frog.json](./340209-clever-frog.json) |
 | Clever Girl | 184639 | [184639-clever-girl.json](./184639-clever-girl.json) |
 | Cliax Codec | 404970 | [404970-cliax-codec.json](./404970-cliax-codec.json) |
+| Cliché Adventure | 159712 | [159712-cliche-adventure.json](./159712-cliche-adventure.json) |
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
 | Click Click Click | 369641 | [369641-click-click-click.json](./369641-click-click-click.json) |
 | Click Cluck | 381145 | [381145-click-cluck.json](./381145-click-cluck.json) |
@@ -4153,6 +4156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
 | Core.Sys | 351094 | [351094-core-sys.json](./351094-core-sys.json) |
 | Corecraft | 307107 | [307107-corecraft.json](./307107-corecraft.json) |
+| CorePiercer | 159716 | [159716-corepiercer.json](./159716-corepiercer.json) |
 | Corepunk | 127513 | [127513-corepunk.json](./127513-corepunk.json) |
 | Coreupt | 130328 | [130328-coreupt.json](./130328-coreupt.json) |
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
