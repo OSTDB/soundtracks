@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Of Nadia | 288236 | [288236-heart-of-nadia.json](./288236-heart-of-nadia.json) |
 | Heart of the Hedgehog | 330288 | [330288-heart-of-the-hedgehog.json](./330288-heart-of-the-hedgehog.json) |
 | Heart of the Woods | 102326 | [102326-heart-of-the-woods.json](./102326-heart-of-the-woods.json) |
+| Heart on Your Sleeve | 178533 | [178533-heart-on-your-sleeve.json](./178533-heart-on-your-sleeve.json) |
 | Heart Piano Tiles | 96697 | [96697-heart-piano-tiles.json](./96697-heart-piano-tiles.json) |
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
 | Heart-Warming Deliveries | 345598 | [345598-heart-warming-deliveries.json](./345598-heart-warming-deliveries.json) |
@@ -1205,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Marys | 59979 | [59979-hell-marys.json](./59979-hell-marys.json) |
 | Hell Miners | 310169 | [310169-hell-miners.json](./310169-hell-miners.json) |
 | Hell Mission | 188490 | [188490-hell-mission.json](./188490-hell-mission.json) |
+| Hell of a marriage | 178503 | [178503-hell-of-a-marriage.json](./178503-hell-of-a-marriage.json) |
 | Hell of Sins: Soul | 209144 | [209144-hell-of-sins-soul.json](./209144-hell-of-sins-soul.json) |
 | Hell Of War: Combined Arms | 411596 | [411596-hell-of-war-combined-arms.json](./411596-hell-of-war-combined-arms.json) |
 | Hell on Ice | 180686 | [180686-hell-on-ice.json](./180686-hell-on-ice.json) |
@@ -2372,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Single | 299720 | [299720-hit-single.json](./299720-hit-single.json) |
 | Hit Tank PRO | 57129 | [57129-hit-tank-pro.json](./57129-hit-tank-pro.json) |
 | Hit The Beat | 305164 | [305164-hit-the-beat.json](./305164-hit-the-beat.json) |
+| Hit the Brakes | 178496 | [178496-hit-the-brakes.json](./178496-hit-the-brakes.json) |
 | Hit The Clock | 377708 | [377708-hit-the-clock.json](./377708-hit-the-clock.json) |
 | Hit The Dot | 282728 | [282728-hit-the-dot.json](./282728-hit-the-dot.json) |
 | Hit the Ice | 295042 | [295042-hit-the-ice.json](./295042-hit-the-ice.json) |
@@ -2640,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home_0 | 325661 | [325661-home-0.json](./325661-home-0.json) |
 | Home: Boov Pop! | 344931 | [344931-home-boov-pop.json](./344931-home-boov-pop.json) |
 | Home: Mother | 305762 | [305762-home-mother.json](./305762-home-mother.json) |
+| Homebound | 178519 | [178519-homebound.json](./178519-homebound.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
 | Homecoming | 271314 | [271314-homecoming.json](./271314-homecoming.json) |
 | Homecoming: Kitaku | 323708 | [323708-homecoming-kitaku.json](./323708-homecoming-kitaku.json) |
@@ -3284,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HPRZ: The Syndrome | 149551 | [149551-hprz-the-syndrome.json](./149551-hprz-the-syndrome.json) |
 | HQ Trivia | 214770 | [214770-hq-trivia.json](./214770-hq-trivia.json) |
 | HR Simulator | 322971 | [322971-hr-simulator.json](./322971-hr-simulator.json) |
+| HR2 | 178540 | [178540-hr2.json](./178540-hr2.json) |
 | Hrumka | 277825 | [277825-hrumka.json](./277825-hrumka.json) |
 | HS Galaxy | 147450 | [147450-hs-galaxy.json](./147450-hs-galaxy.json) |
 | HSNU Academy 79th Anniversary | 396207 | [396207-hsnu-academy-79th-anniversary.json](./396207-hsnu-academy-79th-anniversary.json) |
