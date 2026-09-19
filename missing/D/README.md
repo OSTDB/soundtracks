@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Ivan | 262462 | [262462-dangerous-ivan.json](./262462-dangerous-ivan.json) |
 | Dangerous Land | 303096 | [303096-dangerous-land.json](./303096-dangerous-land.json) |
 | Dangerous Line | 327827 | [327827-dangerous-line.json](./327827-dangerous-line.json) |
+| Dangerous Solitaire: Zombie Fever | 148931 | [148931-dangerous-solitaire-zombie-fever.json](./148931-dangerous-solitaire-zombie-fever.json) |
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
 | DangerousPath | 369640 | [369640-dangerouspath.json](./369640-dangerouspath.json) |
 | Dangers Afloat | 176459 | [176459-dangers-afloat.json](./176459-dangers-afloat.json) |
@@ -467,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Lord's Maze | 209472 | [209472-dark-lords-maze.json](./209472-dark-lords-maze.json) |
 | Dark Magic 2 | 192387 | [192387-dark-magic-2.json](./192387-dark-magic-2.json) |
 | Dark Magician | 192380 | [192380-dark-magician.json](./192380-dark-magician.json) |
+| Dark Maze | 148912 | [148912-dark-maze.json](./148912-dark-maze.json) |
 | Dark Messiah of Might and Magic | 2369 | [2369-dark-messiah-of-might-and-magic.json](./2369-dark-messiah-of-might-and-magic.json) |
 | Dark Messiah of Might and Magic: Elements | 78210 | [78210-dark-messiah-of-might-and-magic-elements.json](./78210-dark-messiah-of-might-and-magic-elements.json) |
 | Dark Mist - The Wizard Vanishes | 141213 | [141213-dark-mist-the-wizard-vanishes.json](./141213-dark-mist-the-wizard-vanishes.json) |
@@ -804,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Dead: Solitaire Collection | 161362 | [161362-day-of-the-dead-solitaire-collection.json](./161362-day-of-the-dead-solitaire-collection.json) |
 | Day of the Dimetrodon | 168382 | [168382-day-of-the-dimetrodon.json](./168382-day-of-the-dimetrodon.json) |
 | Day of the Rising Dead | 349885 | [349885-day-of-the-rising-dead.json](./349885-day-of-the-rising-dead.json) |
+| Day of Vaccination | 148904 | [148904-day-of-vaccination.json](./148904-day-of-vaccination.json) |
 | Day on Mars | 186853 | [186853-day-on-mars.json](./186853-day-on-mars.json) |
 | Day One: Garry's Incident | 3046 | [3046-day-one-garrys-incident.json](./3046-day-one-garrys-incident.json) |
 | Day R | 82855 | [82855-day-r.json](./82855-day-r.json) |
@@ -2882,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored: Definitive Edition | 20863 | [20863-dishonored-definitive-edition.json](./20863-dishonored-definitive-edition.json) |
 | Dishonored: Void Walker Arsenal | 14571 | [14571-dishonored-void-walker-arsenal.json](./14571-dishonored-void-walker-arsenal.json) |
 | Dishwasher | 103436 | [103436-dishwasher.json](./103436-dishwasher.json) |
+| Disillusion | 148887 | [148887-disillusion.json](./148887-disillusion.json) |
 | Disillusion ST | 276494 | [276494-disillusion-st.json](./276494-disillusion-st.json) |
 | Disillusioned Reunion | 393607 | [393607-disillusioned-reunion.json](./393607-disillusioned-reunion.json) |
 | Disillusions Manga Horror | 9825 | [9825-disillusions-manga-horror.json](./9825-disillusions-manga-horror.json) |
@@ -4995,6 +4999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducks Ahoy! | 76603 | [76603-ducks-ahoy.json](./76603-ducks-ahoy.json) |
 | Ducks Can Drive | 255159 | [255159-ducks-can-drive.json](./255159-ducks-can-drive.json) |
 | Ducks in Disguise | 411621 | [411621-ducks-in-disguise.json](./411621-ducks-in-disguise.json) |
+| Ducks' Wrath | 148892 | [148892-ducks-wrath.json](./148892-ducks-wrath.json) |
 | Duckside | 295239 | [295239-duckside.json](./295239-duckside.json) |
 | Duckstazy Classic | 265755 | [265755-duckstazy-classic.json](./265755-duckstazy-classic.json) |
 | DuckStruck | 371326 | [371326-duckstruck.json](./371326-duckstruck.json) |
