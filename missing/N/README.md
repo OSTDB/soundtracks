@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopara Extra | 106416 | [106416-nekopara-extra.json](./106416-nekopara-extra.json) |
 | Nekopara Vol. 1 | 26653 | [26653-nekopara-vol-1.json](./26653-nekopara-vol-1.json) |
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
+| Nekopter | 156018 | [156018-nekopter.json](./156018-nekopter.json) |
 | Nekowater | 274034 | [274034-nekowater.json](./274034-nekowater.json) |
 | Nekra Psaria 4 | 385188 | [385188-nekra-psaria-4.json](./385188-nekra-psaria-4.json) |
 | Nekron: 24 | 323199 | [323199-nekron-24.json](./323199-nekron-24.json) |
@@ -1782,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Straight Roads: Encore Edition | 178093 | [178093-no-straight-roads-encore-edition.json](./178093-no-straight-roads-encore-edition.json) |
 | No Sun To Worship | 236015 | [236015-no-sun-to-worship.json](./236015-no-sun-to-worship.json) |
 | No Surrender Heroes | 287769 | [287769-no-surrender-heroes.json](./287769-no-surrender-heroes.json) |
+| No Sushi, No Life | 156001 | [156001-no-sushi-no-life.json](./156001-no-sushi-no-life.json) |
 | No T!me No Space | 228431 | [228431-no-t-me-no-space.json](./228431-no-t-me-no-space.json) |
 | No Thoughts Just Dodge | 413689 | [413689-no-thoughts-just-dodge.json](./413689-no-thoughts-just-dodge.json) |
 | No Throwing | 341487 | [341487-no-throwing.json](./341487-no-throwing.json) |
