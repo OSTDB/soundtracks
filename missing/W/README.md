@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Pioneers | 341034 | [341034-wild-west-pioneers.json](./341034-wild-west-pioneers.json) |
 | Wild West Quest: Gold Rush | 100223 | [100223-wild-west-quest-gold-rush.json](./100223-wild-west-quest-gold-rush.json) |
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
+| Wild West Rogue | 166609 | [166609-wild-west-rogue.json](./166609-wild-west-rogue.json) |
 | Wild West Supermarket Simulator | 345511 | [345511-wild-west-supermarket-simulator.json](./345511-wild-west-supermarket-simulator.json) |
 | Wild West Survivors | 403721 | [403721-wild-west-survivors.json](./403721-wild-west-survivors.json) |
 | Wild West Tycoon Empire | 306515 | [306515-wild-west-tycoon-empire.json](./306515-wild-west-tycoon-empire.json) |
