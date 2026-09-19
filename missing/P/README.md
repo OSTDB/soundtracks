@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Campaigns Budapest '45 | 206791 | [206791-panzer-campaigns-budapest-45.json](./206791-panzer-campaigns-budapest-45.json) |
 | Panzer Campaigns: El Alamein '42 Gold | 124733 | [124733-panzer-campaigns-el-alamein-42-gold.json](./124733-panzer-campaigns-el-alamein-42-gold.json) |
 | Panzer Campaigns: Japan '45 | 124730 | [124730-panzer-campaigns-japan-45.json](./124730-panzer-campaigns-japan-45.json) |
+| Panzer Campaigns: Japan '46 | 131998 | [131998-panzer-campaigns-japan-46.json](./131998-panzer-campaigns-japan-46.json) |
 | Panzer Campaigns: Market-Garden '44 Gold | 124729 | [124729-panzer-campaigns-market-garden-44-gold.json](./124729-panzer-campaigns-market-garden-44-gold.json) |
 | Panzer Campaigns: Rumyantsev '43 | 226408 | [226408-panzer-campaigns-rumyantsev-43.json](./226408-panzer-campaigns-rumyantsev-43.json) |
 | Panzer Campaigns: Salerno '43 Gold | 124735 | [124735-panzer-campaigns-salerno-43-gold.json](./124735-panzer-campaigns-salerno-43-gold.json) |
@@ -3021,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Luna | 193878 | [193878-pocket-luna.json](./193878-pocket-luna.json) |
 | Pocket Mario | 318031 | [318031-pocket-mario.json](./318031-pocket-mario.json) |
 | Pocket Mine | 38909 | [38909-pocket-mine.json](./38909-pocket-mine.json) |
+| Pocket Mini Golf | 132027 | [132027-pocket-mini-golf.json](./132027-pocket-mini-golf.json) |
 | Pocket Monsters RPG | 130335 | [130335-pocket-monsters-rpg.json](./130335-pocket-monsters-rpg.json) |
 | Pocket Monsters: Suuji wo Tsukamaeyou! | 63849 | [63849-pocket-monsters-suuji-wo-tsukamaeyou.json](./63849-pocket-monsters-suuji-wo-tsukamaeyou.json) |
 | Pocket Necromancer | 319383 | [319383-pocket-necromancer.json](./319383-pocket-necromancer.json) |
