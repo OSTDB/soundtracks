@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Gunner | 277317 | [277317-girl-gunner.json](./277317-girl-gunner.json) |
 | Girl in Darkness | 394126 | [394126-girl-in-darkness.json](./394126-girl-in-darkness.json) |
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
+| Girl Jigsaw 2 | 154365 | [154365-girl-jigsaw-2.json](./154365-girl-jigsaw-2.json) |
 | Girl Like A Dreaming: Flowering Sacrifice | 284490 | [284490-girl-like-a-dreaming-flowering-sacrifice.json](./284490-girl-like-a-dreaming-flowering-sacrifice.json) |
 | Girl Meets Princess | 82841 | [82841-girl-meets-princess.json](./82841-girl-meets-princess.json) |
 | Girl Nail Art | 87708 | [87708-girl-nail-art.json](./87708-girl-nail-art.json) |
