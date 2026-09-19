@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jo-Jo Fighter | 182366 | [182366-jo-jo-fighter.json](./182366-jo-jo-fighter.json) |
 | Jo's Dream: Organic Coffee | 123638 | [123638-jos-dream-organic-coffee.json](./123638-jos-dream-organic-coffee.json) |
 | Joan Jade and the Gates of Xibalba | 53248 | [53248-joan-jade-and-the-gates-of-xibalba.json](./53248-joan-jade-and-the-gates-of-xibalba.json) |
+| Joanie | 176386 | [176386-joanie.json](./176386-joanie.json) |
 | Job Battle Simulator: Accurate Physics Showdown | 348253 | [348253-job-battle-simulator-accurate-physics-showdown.json](./348253-job-battle-simulator-accurate-physics-showdown.json) |
 | Job Fit For a Devil | 369044 | [369044-job-fit-for-a-devil.json](./369044-job-fit-for-a-devil.json) |
 | Job Hunter 202X | 375822 | [375822-job-hunter-202x.json](./375822-job-hunter-202x.json) |
@@ -1158,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Move On! | 329005 | [329005-just-move-on.json](./329005-just-move-on.json) |
 | Just One | 231354 | [231354-just-one.json](./231354-just-one.json) |
 | Just One More Spell | 387544 | [387544-just-one-more-spell.json](./387544-just-one-more-spell.json) |
+| Just Passing | 176344 | [176344-just-passing.json](./176344-just-passing.json) |
 | Just Plumbers in Hallowville | 287622 | [287622-just-plumbers-in-hallowville.json](./287622-just-plumbers-in-hallowville.json) |
 | Just Pool | 411711 | [411711-just-pool.json](./411711-just-pool.json) |
 | Just Push the Button | 224117 | [224117-just-push-the-button.json](./224117-just-push-the-button.json) |
