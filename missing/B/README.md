@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behold the Kickmen | 26188 | [26188-behold-the-kickmen.json](./26188-behold-the-kickmen.json) |
 | Beholder 2: Big Brother Edition | 146131 | [146131-beholder-2-big-brother-edition.json](./146131-beholder-2-big-brother-edition.json) |
 | Beholder: Conductor | 298041 | [298041-beholder-conductor.json](./298041-beholder-conductor.json) |
+| Beholder's Lair | 143525 | [143525-beholders-lair.json](./143525-beholders-lair.json) |
 | Beholgar | 142421 | [142421-beholgar.json](./142421-beholgar.json) |
 | Beholgar: Collector's Edition | 228739 | [228739-beholgar-collectors-edition.json](./228739-beholgar-collectors-edition.json) |
 | BeiJing Courier Simulator | 118413 | [118413-beijing-courier-simulator.json](./118413-beijing-courier-simulator.json) |
