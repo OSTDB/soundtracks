@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariposa and the Galaxy Man | 191904 | [191904-mariposa-and-the-galaxy-man.json](./191904-mariposa-and-the-galaxy-man.json) |
 | Marisa's Marvelous Magic Shop | 126940 | [126940-marisas-marvelous-magic-shop.json](./126940-marisas-marvelous-magic-shop.json) |
 | Marissa Is Now Idle | 215222 | [215222-marissa-is-now-idle.json](./215222-marissa-is-now-idle.json) |
+| Maritime Calling | 155978 | [155978-maritime-calling.json](./155978-maritime-calling.json) |
 | Maritime Hegemony | 220748 | [220748-maritime-hegemony.json](./220748-maritime-hegemony.json) |
 | Mark My Words | 360016 | [360016-mark-my-words.json](./360016-mark-my-words.json) |
 | Mark of Cain | 391741 | [391741-mark-of-cain.json](./391741-mark-of-cain.json) |
@@ -4684,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsterstone: Prelude | 215122 | [215122-monsterstone-prelude.json](./215122-monsterstone-prelude.json) |
 | MonsterTerritory | 167250 | [167250-monsterterritory.json](./167250-monsterterritory.json) |
 | Monsterthon | 39005 | [39005-monsterthon.json](./39005-monsterthon.json) |
+| Monsterwolf | 156009 | [156009-monsterwolf.json](./156009-monsterwolf.json) |
 | Monstre de Coiffure | 207822 | [207822-monstre-de-coiffure.json](./207822-monstre-de-coiffure.json) |
 | Monstrix TCG Card Shop | 334083 | [334083-monstrix-tcg-card-shop.json](./334083-monstrix-tcg-card-shop.json) |
 | Monstro Maestro | 382763 | [382763-monstro-maestro.json](./382763-monstro-maestro.json) |
@@ -5775,6 +5777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Chinese Coach | 94712 | [94712-my-chinese-coach.json](./94712-my-chinese-coach.json) |
 | My City | 206767 | [206767-my-city.json](./206767-my-city.json) |
 | My City - Entertainment Tycoon | 105926 | [105926-my-city-entertainment-tycoon.json](./105926-my-city-entertainment-tycoon.json) |
+| My City and Army | 155985 | [155985-my-city-and-army.json](./155985-my-city-and-army.json) |
 | My Clone Army: Me, Myself & I | 224010 | [224010-my-clone-army-me-myself-and-i.json](./224010-my-clone-army-me-myself-and-i.json) |
 | My College Picture with Them | 316652 | [316652-my-college-picture-with-them.json](./316652-my-college-picture-with-them.json) |
 | My Colony | 111097 | [111097-my-colony.json](./111097-my-colony.json) |
