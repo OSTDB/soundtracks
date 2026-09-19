@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utopia no Soubou | 378191 | [378191-utopia-no-soubou.json](./378191-utopia-no-soubou.json) |
 | Utopia Process | 153390 | [153390-utopia-process.json](./153390-utopia-process.json) |
 | Utopia: The Creation of a Nation | 12231 | [12231-utopia-the-creation-of-a-nation.json](./12231-utopia-the-creation-of-a-nation.json) |
+| Utopias: Navigating Without Coordinates | 132635 | [132635-utopias-navigating-without-coordinates.json](./132635-utopias-navigating-without-coordinates.json) |
 | Utopos | 156635 | [156635-utopos.json](./156635-utopos.json) |
 | Utsuho's Great Hunger Battle | 262101 | [262101-utsuhos-great-hunger-battle.json](./262101-utsuhos-great-hunger-battle.json) |
 | Utsurobi no Serentia | 301608 | [301608-utsurobi-no-serentia.json](./301608-utsurobi-no-serentia.json) |
