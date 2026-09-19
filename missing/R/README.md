@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Room | 81093 | [81093-rage-room.json](./81093-rage-room.json) |
 | Rage Tower | 355033 | [355033-rage-tower.json](./355033-rage-tower.json) |
 | Rageball | 43894 | [43894-rageball.json](./43894-rageball.json) |
+| Rageball League | 174754 | [174754-rageball-league.json](./174754-rageball-league.json) |
 | RageFall | 391191 | [391191-ragefall.json](./391191-ragefall.json) |
 | Raging Blades | 43324 | [43324-raging-blades.json](./43324-raging-blades.json) |
 | Raging Bytes | 246079 | [246079-raging-bytes.json](./246079-raging-bytes.json) |
@@ -728,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
 | RazePact | 356644 | [356644-razepact.json](./356644-razepact.json) |
+| Raziel | 174742 | [174742-raziel.json](./174742-raziel.json) |
 | Razorback | 336008 | [336008-razorback.json](./336008-razorback.json) |
 | RB Axolotl | 108962 | [108962-rb-axolotl.json](./108962-rb-axolotl.json) |
 | RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
@@ -756,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re-wind 2005 | 70428 | [70428-re-wind-2005.json](./70428-re-wind-2005.json) |
 | Re;Lord 3: The Demon Lord of Groessen and The Final Witch | 305390 | [305390-re-lord-3-the-demon-lord-of-groessen-and-the-final-witch.json](./305390-re-lord-3-the-demon-lord-of-groessen-and-the-final-witch.json) |
 | Re;quartz Reido | 211948 | [211948-re-quartz-reido.json](./211948-re-quartz-reido.json) |
+| Re: Aetatis | 174769 | [174769-re-aetatis.json](./174769-re-aetatis.json) |
 | RE: Castle Defense | 130367 | [130367-re-castle-defense.json](./130367-re-castle-defense.json) |
 | Re: Danganronpa Refresh Retreat | 304349 | [304349-re-danganronpa-refresh-retreat.json](./304349-re-danganronpa-refresh-retreat.json) |
 | Re: LieF ~Shin'ainaru Anata e~ | 144956 | [144956-re-lief-shinainaru-anata-e.json](./144956-re-lief-shinainaru-anata-e.json) |
@@ -2656,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
 | Robots 2 Unknown World | 105369 | [105369-robots-2-unknown-world.json](./105369-robots-2-unknown-world.json) |
 | Robots at Midnight | 276180 | [276180-robots-at-midnight.json](./276180-robots-at-midnight.json) |
+| Robots Coop | 174736 | [174736-robots-coop.json](./174736-robots-coop.json) |
 | Robots, Death & Venice | 172127 | [172127-robots-death-and-venice.json](./172127-robots-death-and-venice.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
 | RoboWarrior Arena | 266473 | [266473-robowarrior-arena.json](./266473-robowarrior-arena.json) |
