@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pen-chan | 385718 | [385718-pen-chan.json](./385718-pen-chan.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
 | Penalty Soccer 2012 | 259560 | [259560-penalty-soccer-2012.json](./259560-penalty-soccer-2012.json) |
+| Penance | 135017 | [135017-penance.json](./135017-penance.json) |
 | Penance | 367401 | [367401-penance.json](./367401-penance.json) |
 | Penance | 370685 | [370685-penance.json](./370685-penance.json) |
 | Pencak Silat 1.2 | 323943 | [323943-pencak-silat-1-2.json](./323943-pencak-silat-1-2.json) |
