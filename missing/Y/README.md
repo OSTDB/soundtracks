@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yodoyabashi Oyasama Club | 254505 | [254505-yodoyabashi-oyasama-club.json](./254505-yodoyabashi-oyasama-club.json) |
 | Yoga Master: Meditation Studio | 238048 | [238048-yoga-master-meditation-studio.json](./238048-yoga-master-meditation-studio.json) |
 | Yoga Therapy | 235220 | [235220-yoga-therapy.json](./235220-yoga-therapy.json) |
+| Yoga tte! Oku-sama | 157547 | [157547-yoga-tte-oku-sama.json](./157547-yoga-tte-oku-sama.json) |
 | Yoga Wii | 19655 | [19655-yoga-wii.json](./19655-yoga-wii.json) |
 | Yogi Bear: Great Balloon Blast | 49900 | [49900-yogi-bear-great-balloon-blast.json](./49900-yogi-bear-great-balloon-blast.json) |
 | Yogi's Great Escape | 12833 | [12833-yogis-great-escape.json](./12833-yogis-great-escape.json) |
