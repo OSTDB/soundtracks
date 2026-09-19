@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let It Die: Uncle Prime Edition | 166240 | [166240-let-it-die-uncle-prime-edition.json](./166240-let-it-die-uncle-prime-edition.json) |
 | Let It Flow | 144279 | [144279-let-it-flow.json](./144279-let-it-flow.json) |
 | Let It Ride! | 392938 | [392938-let-it-ride.json](./392938-let-it-ride.json) |
+| Let Me Die inside | 166599 | [166599-let-me-die-inside.json](./166599-let-me-die-inside.json) |
 | Let me go | 120336 | [120336-let-me-go.json](./120336-let-me-go.json) |
 | Let Me In | 342726 | [342726-let-me-in.json](./342726-let-me-in.json) |
 | Let Me In | 379885 | [379885-let-me-in.json](./379885-let-me-in.json) |
