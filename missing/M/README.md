@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.o.o.n. | 243951 | [243951-m-o-o-n.json](./243951-m-o-o-n.json) |
 | M.O.Z.O.X.: Space Salvager | 209157 | [209157-m-o-z-o-x-space-salvager.json](./209157-m-o-z-o-x-space-salvager.json) |
 | M.S. Salmon | 211236 | [211236-m-s-salmon.json](./211236-m-s-salmon.json) |
+| M.Stain | 147298 | [147298-m-stain.json](./147298-m-stain.json) |
 | M.U.D. Rally | 233244 | [233244-m-u-d-rally.json](./233244-m-u-d-rally.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
 | M&M's Blast! | 49330 | [49330-m-and-ms-blast.json](./49330-m-and-ms-blast.json) |
@@ -342,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Forest Escape 3 | 315665 | [315665-magic-forest-escape-3.json](./315665-magic-forest-escape-3.json) |
 | Magic Forest Escape 4 | 315666 | [315666-magic-forest-escape-4.json](./315666-magic-forest-escape-4.json) |
 | Magic Forest Escape 5 | 315668 | [315668-magic-forest-escape-5.json](./315668-magic-forest-escape-5.json) |
+| Magic Frame | 147246 | [147246-magic-frame.json](./147246-magic-frame.json) |
 | Magic Garden | 317579 | [317579-magic-garden.json](./317579-magic-garden.json) |
 | Magic Garden Escape | 315471 | [315471-magic-garden-escape.json](./315471-magic-garden-escape.json) |
 | Magic Gear | 377601 | [377601-magic-gear.json](./377601-magic-gear.json) |
@@ -2122,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medium-naut | 151559 | [151559-medium-naut.json](./151559-medium-naut.json) |
 | Medival Hustle | 304578 | [304578-medival-hustle.json](./304578-medival-hustle.json) |
 | Medivination | 302505 | [302505-medivination.json](./302505-medivination.json) |
+| Medulla | 147254 | [147254-medulla.json](./147254-medulla.json) |
 | Medusa Frontier | 196889 | [196889-medusa-frontier.json](./196889-medusa-frontier.json) |
 | Medusa the Origin: Lost Dream of the Deep | 284324 | [284324-medusa-the-origin-lost-dream-of-the-deep.json](./284324-medusa-the-origin-lost-dream-of-the-deep.json) |
 | Medusa VR | 247181 | [247181-medusa-vr.json](./247181-medusa-vr.json) |
@@ -5158,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross: The Force | 270211 | [270211-motocross-the-force.json](./270211-motocross-the-force.json) |
 | MotoGP | 175917 | [175917-motogp.json](./175917-motogp.json) |
 | MotoGP '08 | 5022 | [5022-motogp-08.json](./5022-motogp-08.json) |
+| MotoGP 13 Compact | 147303 | [147303-motogp-13-compact.json](./147303-motogp-13-compact.json) |
 | MotoGP 13: MotoGP Champions | 168355 | [168355-motogp-13-motogp-champions.json](./168355-motogp-13-motogp-champions.json) |
 | MotoGP 13:Red Bull Rookies Cup | 168356 | [168356-motogp-13-red-bull-rookies-cup.json](./168356-motogp-13-red-bull-rookies-cup.json) |
 | MotoGP 14: Donington Park British Grand Prix DLC | 168358 | [168358-motogp-14-donington-park-british-grand-prix-dlc.json](./168358-motogp-14-donington-park-british-grand-prix-dlc.json) |
