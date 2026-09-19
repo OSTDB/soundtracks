@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand Scorpion | 40184 | [40184-sand-scorpion.json](./40184-sand-scorpion.json) |
 | Sand Seeker | 390504 | [390504-sand-seeker.json](./390504-sand-seeker.json) |
 | Sand Storm | 81422 | [81422-sand-storm.json](./81422-sand-storm.json) |
+| Sand: A Superfluous Game | 177946 | [177946-sand-a-superfluous-game.json](./177946-sand-a-superfluous-game.json) |
 | Sandbox | 251826 | [251826-sandbox.json](./251826-sandbox.json) |
 | Sandbox Planet | 256534 | [256534-sandbox-planet.json](./256534-sandbox-planet.json) |
 | Sandcastles | 134693 | [134693-sandcastles.json](./134693-sandcastles.json) |
@@ -816,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Doll: Twin Sister | 303094 | [303094-scary-doll-twin-sister.json](./303094-scary-doll-twin-sister.json) |
 | Scary Game | 356148 | [356148-scary-game.json](./356148-scary-game.json) |
 | Scary Goat 2017 | 89987 | [89987-scary-goat-2017.json](./89987-scary-goat-2017.json) |
+| Scary Gourmet | 177933 | [177933-scary-gourmet.json](./177933-scary-gourmet.json) |
 | Scary Granny | 370183 | [370183-scary-granny.json](./370183-scary-granny.json) |
 | Scary Horror Mansion | 303091 | [303091-scary-horror-mansion.json](./303091-scary-horror-mansion.json) |
 | Scary Hospital Horror Game | 157214 | [157214-scary-hospital-horror-game.json](./157214-scary-hospital-horror-game.json) |
@@ -3389,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir'Haxxx | 385709 | [385709-sirhaxxx.json](./385709-sirhaxxx.json) |
 | Sira | 61626 | [61626-sira.json](./61626-sira.json) |
 | Siralim 3 | 100422 | [100422-siralim-3.json](./100422-siralim-3.json) |
+| Siren Head Dating Sim | 177958 | [177958-siren-head-dating-sim.json](./177958-siren-head-dating-sim.json) |
 | Siren Head SCP 6789 | 243223 | [243223-siren-head-scp-6789.json](./243223-siren-head-scp-6789.json) |
 | Siren Head: Stranded | 309120 | [309120-siren-head-stranded.json](./309120-siren-head-stranded.json) |
 | Siren Head: The Arrival | 312360 | [312360-siren-head-the-arrival.json](./312360-siren-head-the-arrival.json) |
@@ -4873,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Defender | 333110 | [333110-solo-defender.json](./333110-solo-defender.json) |
 | Solo Leveling: Arise Overdrive | 349302 | [349302-solo-leveling-arise-overdrive.json](./349302-solo-leveling-arise-overdrive.json) |
 | Solo Noble | 175374 | [175374-solo-noble.json](./175374-solo-noble.json) |
+| Solo Records | 177936 | [177936-solo-records.json](./177936-solo-records.json) |
 | Solomania | 329378 | [329378-solomania.json](./329378-solomania.json) |
 | Solomon Division | 216891 | [216891-solomon-division.json](./216891-solomon-division.json) |
 | Solomon Islander Dominatrixes Are the Best | 385707 | [385707-solomon-islander-dominatrixes-are-the-best.json](./385707-solomon-islander-dominatrixes-are-the-best.json) |
@@ -7039,6 +7043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Cosmic | 407309 | [407309-star-cosmic.json](./407309-star-cosmic.json) |
 | Star Crafter | 329131 | [329131-star-crafter.json](./329131-star-crafter.json) |
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
+| Star Crossed | 177920 | [177920-star-crossed.json](./177920-star-crossed.json) |
 | Star Cruiser | 19373 | [19373-star-cruiser.json](./19373-star-cruiser.json) |
 | Star Cruiser | 265968 | [265968-star-cruiser.json](./265968-star-cruiser.json) |
 | Star Crusade CCG | 16469 | [16469-star-crusade-ccg.json](./16469-star-crusade-ccg.json) |
@@ -7378,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargazing 64 | 350523 | [350523-stargazing-64.json](./350523-stargazing-64.json) |
 | Stargazing: Genesis | 195705 | [195705-stargazing-genesis.json](./195705-stargazing-genesis.json) |
 | Stargoose Warrior | 51285 | [51285-stargoose-warrior.json](./51285-stargoose-warrior.json) |
+| Stargrove Scramble | 177939 | [177939-stargrove-scramble.json](./177939-stargrove-scramble.json) |
 | StarHeroes | 221262 | [221262-starheroes.json](./221262-starheroes.json) |
 | Staring Time | 272832 | [272832-staring-time.json](./272832-staring-time.json) |
 | Starion | 23056 | [23056-starion.json](./23056-starion.json) |
@@ -7403,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlite: Defender of Justice | 156687 | [156687-starlite-defender-of-justice.json](./156687-starlite-defender-of-justice.json) |
 | Starlite: Defender of Justice Ultimate HD Edition | 232982 | [232982-starlite-defender-of-justice-ultimate-hd-edition.json](./232982-starlite-defender-of-justice-ultimate-hd-edition.json) |
 | Starloom | 382769 | [382769-starloom.json](./382769-starloom.json) |
+| Starlynx | 177942 | [177942-starlynx.json](./177942-starlynx.json) |
 | StarMaker | 125965 | [125965-starmaker.json](./125965-starmaker.json) |
 | Starmaker Story | 337187 | [337187-starmaker-story.json](./337187-starmaker-story.json) |
 | Starman in space | 88240 | [88240-starman-in-space.json](./88240-starman-in-space.json) |
