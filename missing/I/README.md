@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Did Not Buy This Ticket | 221165 | [221165-i-did-not-buy-this-ticket.json](./221165-i-did-not-buy-this-ticket.json) |
 | I Didn't Cheat | 324683 | [324683-i-didnt-cheat.json](./324683-i-didnt-cheat.json) |
 | I Don't Belong | 186159 | [186159-i-dont-belong.json](./186159-i-dont-belong.json) |
+| I Don't Know How to Have Hotpot Alone | 129601 | [129601-i-dont-know-how-to-have-hotpot-alone.json](./129601-i-dont-know-how-to-have-hotpot-alone.json) |
 | I dream of you and ice cream | 135654 | [135654-i-dream-of-you-and-ice-cream.json](./135654-i-dream-of-you-and-ice-cream.json) |
 | I Expect You to Die: Home Sweet Home | 223146 | [223146-i-expect-you-to-die-home-sweet-home.json](./223146-i-expect-you-to-die-home-sweet-home.json) |
 | I Fell in Love with the Mentally Unstable Depressed Goth on Campus | 410903 | [410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json](./410903-i-fell-in-love-with-the-mentally-unstable-depressed-goth-on-campus.json) |
