@@ -1630,7 +1630,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinel Worlds I: Future Magic | 55155 | [55155-sentinel-worlds-i-future-magic.json](./55155-sentinel-worlds-i-future-magic.json) |
 | Sentinel: Cursed Knight | 153354 | [153354-sentinel-cursed-knight.json](./153354-sentinel-cursed-knight.json) |
 | Sentinels of Earth-Prime: Magical Mysteries Mini-Pack | 273672 | [273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json](./273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json) |
+| Sentinels of the Multiverse: Infernal Relics | 170411 | [170411-sentinels-of-the-multiverse-infernal-relics.json](./170411-sentinels-of-the-multiverse-infernal-relics.json) |
+| Sentinels of the Multiverse: Mini-Pack 1 | 170410 | [170410-sentinels-of-the-multiverse-mini-pack-1.json](./170410-sentinels-of-the-multiverse-mini-pack-1.json) |
+| Sentinels of the Multiverse: Mini-Pack 5 - Void Guard | 170413 | [170413-sentinels-of-the-multiverse-mini-pack-5-void-guard.json](./170413-sentinels-of-the-multiverse-mini-pack-5-void-guard.json) |
+| Sentinels of the Multiverse: OblivAeon | 170414 | [170414-sentinels-of-the-multiverse-oblivaeon.json](./170414-sentinels-of-the-multiverse-oblivaeon.json) |
+| Sentinels of the Multiverse: Rook City | 170416 | [170416-sentinels-of-the-multiverse-rook-city.json](./170416-sentinels-of-the-multiverse-rook-city.json) |
+| Sentinels of the Multiverse: Shattered Timelines | 170417 | [170417-sentinels-of-the-multiverse-shattered-timelines.json](./170417-sentinels-of-the-multiverse-shattered-timelines.json) |
 | Sentinels of the Multiverse: Vengeance | 169969 | [169969-sentinels-of-the-multiverse-vengeance.json](./169969-sentinels-of-the-multiverse-vengeance.json) |
+| Sentinels of the Multiverse: Villains of the Multiverse | 170412 | [170412-sentinels-of-the-multiverse-villains-of-the-multiverse.json](./170412-sentinels-of-the-multiverse-villains-of-the-multiverse.json) |
+| Sentinels of the Multiverse: Wrath of the Cosmos | 170415 | [170415-sentinels-of-the-multiverse-wrath-of-the-cosmos.json](./170415-sentinels-of-the-multiverse-wrath-of-the-cosmos.json) |
 | Sentou Gakuen: Revival | 34388 | [34388-sentou-gakuen-revival.json](./34388-sentou-gakuen-revival.json) |
 | Sentree | 18281 | [18281-sentree.json](./18281-sentree.json) |
 | Sentry | 172054 | [172054-sentry.json](./172054-sentry.json) |
