@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemic Express: Zombie Escape | 110294 | [110294-pandemic-express-zombie-escape.json](./110294-pandemic-express-zombie-escape.json) |
 | Pandemic Heart | 165010 | [165010-pandemic-heart.json](./165010-pandemic-heart.json) |
 | Pandemic of the Forgotten Virus | 185593 | [185593-pandemic-of-the-forgotten-virus.json](./185593-pandemic-of-the-forgotten-virus.json) |
+| Pandemic Train | 149918 | [149918-pandemic-train.json](./149918-pandemic-train.json) |
 | Pandemic: The Board Game | 69425 | [69425-pandemic-the-board-game.json](./69425-pandemic-the-board-game.json) |
 | Pandemommyum! Hot Single Moms in My Area | 257951 | [257951-pandemommyum-hot-single-moms-in-my-area.json](./257951-pandemommyum-hot-single-moms-in-my-area.json) |
 | Pando Engines | 211193 | [211193-pando-engines.json](./211193-pando-engines.json) |
@@ -1308,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
 | Percy's Last Stand | 118403 | [118403-percys-last-stand.json](./118403-percys-last-stand.json) |
 | Pereelous | 347710 | [347710-pereelous.json](./347710-pereelous.json) |
+| Perennial Order | 149935 | [149935-perennial-order.json](./149935-perennial-order.json) |
 | Perestroika | 180293 | [180293-perestroika.json](./180293-perestroika.json) |
 | Perfect Ace 2: The Championships | 43247 | [43247-perfect-ace-2-the-championships.json](./43247-perfect-ace-2-the-championships.json) |
 | Perfect Angle | 69321 | [69321-perfect-angle.json](./69321-perfect-angle.json) |
@@ -2219,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Royalty | 345583 | [345583-pirate-royalty.json](./345583-pirate-royalty.json) |
 | Pirate Ship | 231924 | [231924-pirate-ship.json](./231924-pirate-ship.json) |
 | Pirate Shooter Fantasy Survival | 111075 | [111075-pirate-shooter-fantasy-survival.json](./111075-pirate-shooter-fantasy-survival.json) |
+| Pirate Simulator | 149924 | [149924-pirate-simulator.json](./149924-pirate-simulator.json) |
 | Pirate Solitaire | 58844 | [58844-pirate-solitaire.json](./58844-pirate-solitaire.json) |
 | Pirate Story | 163838 | [163838-pirate-story.json](./163838-pirate-story.json) |
 | Pirate Survivors | 341573 | [341573-pirate-survivors.json](./341573-pirate-survivors.json) |
@@ -3141,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Eclesia | 306671 | [306671-pokemon-eclesia.json](./306671-pokemon-eclesia.json) |
 | Pokémon Edición Reloaded | 250629 | [250629-pokemon-edicion-reloaded.json](./250629-pokemon-edicion-reloaded.json) |
 | Pokémon Edición Team Rocket | 353274 | [353274-pokemon-edicion-team-rocket.json](./353274-pokemon-edicion-team-rocket.json) |
+| Pokémon Emerald Final | 149964 | [149964-pokemon-emerald-final.json](./149964-pokemon-emerald-final.json) |
 | Pokémon Emerald Kaizo | 172744 | [172744-pokemon-emerald-kaizo.json](./172744-pokemon-emerald-kaizo.json) |
 | Pokémon Emerald Rogue | 221244 | [221244-pokemon-emerald-rogue.json](./221244-pokemon-emerald-rogue.json) |
 | Pokémon Emerald Rogue V2 | 308386 | [308386-pokemon-emerald-rogue-v2.json](./308386-pokemon-emerald-rogue-v2.json) |
@@ -4650,6 +4654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProjectL | 63241 | [63241-projectl.json](./63241-projectl.json) |
 | ProjectNimbus | 100205 | [100205-projectnimbus.json](./100205-projectnimbus.json) |
 | Projector | 202937 | [202937-projector.json](./202937-projector.json) |
+| ProjectTeo | 149932 | [149932-projectteo.json](./149932-projectteo.json) |
 | Projekt Everblood | 213590 | [213590-projekt-everblood.json](./213590-projekt-everblood.json) |
 | Projekt Z: Beyond Order | 138752 | [138752-projekt-z-beyond-order.json](./138752-projekt-z-beyond-order.json) |
 | Prokshov | 143728 | [143728-prokshov.json](./143728-prokshov.json) |
