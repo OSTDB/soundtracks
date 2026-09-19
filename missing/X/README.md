@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XVM | 277404 | [277404-xvm.json](./277404-xvm.json) |
 | Xxx_Cyberrat_Xxx | 216818 | [216818-xxx-cyberrat-xxx.json](./216818-xxx-cyberrat-xxx.json) |
 | XxxHolic: Watanuki no Izayoi Sowa | 194567 | [194567-xxxholic-watanuki-no-izayoi-sowa.json](./194567-xxxholic-watanuki-no-izayoi-sowa.json) |
+| XXZ: XXL | 149917 | [149917-xxz-xxl.json](./149917-xxz-xxl.json) |
 | XXZ: XXL - Dead Souls Trial | 170505 | [170505-xxz-xxl-dead-souls-trial.json](./170505-xxz-xxl-dead-souls-trial.json) |
 | XXZ: XXL - Rush | 170506 | [170506-xxz-xxl-rush.json](./170506-xxz-xxl-rush.json) |
 | XXZ: XXL - Squad | 170508 | [170508-xxz-xxl-squad.json](./170508-xxz-xxl-squad.json) |
