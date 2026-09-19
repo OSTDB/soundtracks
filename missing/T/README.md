@@ -8228,6 +8228,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: OMDB Airport | 236836 | [236836-tower-simulator-3-omdb-airport.json](./236836-tower-simulator-3-omdb-airport.json) |
 | Tower! Simulator 3: RJTT Airport | 310044 | [310044-tower-simulator-3-rjtt-airport.json](./310044-tower-simulator-3-rjtt-airport.json) |
 | Tower!3D | 33091 | [33091-tower-3d.json](./33091-tower-3d.json) |
+| Tower!3D Pro: EDDM Airport | 162284 | [162284-tower-3d-pro-eddm-airport.json](./162284-tower-3d-pro-eddm-airport.json) |
+| Tower!3D Pro: EDDS Airport | 162282 | [162282-tower-3d-pro-edds-airport.json](./162282-tower-3d-pro-edds-airport.json) |
+| Tower!3D Pro: EGKK Airport | 162288 | [162288-tower-3d-pro-egkk-airport.json](./162288-tower-3d-pro-egkk-airport.json) |
+| Tower!3D Pro: FAOR Airport | 162283 | [162283-tower-3d-pro-faor-airport.json](./162283-tower-3d-pro-faor-airport.json) |
+| Tower!3D Pro: KATL Airport | 162281 | [162281-tower-3d-pro-katl-airport.json](./162281-tower-3d-pro-katl-airport.json) |
+| Tower!3D Pro: KBOS Airport | 162276 | [162276-tower-3d-pro-kbos-airport.json](./162276-tower-3d-pro-kbos-airport.json) |
+| Tower!3D Pro: KJFK Airport | 162278 | [162278-tower-3d-pro-kjfk-airport.json](./162278-tower-3d-pro-kjfk-airport.json) |
+| Tower!3D Pro: KLAS Airport | 162289 | [162289-tower-3d-pro-klas-airport.json](./162289-tower-3d-pro-klas-airport.json) |
+| Tower!3D Pro: KMCO Airport | 162277 | [162277-tower-3d-pro-kmco-airport.json](./162277-tower-3d-pro-kmco-airport.json) |
+| Tower!3D Pro: KSAN Airport | 162286 | [162286-tower-3d-pro-ksan-airport.json](./162286-tower-3d-pro-ksan-airport.json) |
+| Tower!3D Pro: KSFO Airport | 162285 | [162285-tower-3d-pro-ksfo-airport.json](./162285-tower-3d-pro-ksfo-airport.json) |
+| Tower!3D Pro: LTFM Airport | 162287 | [162287-tower-3d-pro-ltfm-airport.json](./162287-tower-3d-pro-ltfm-airport.json) |
+| Tower!3D Pro: PHNL Airport | 162280 | [162280-tower-3d-pro-phnl-airport.json](./162280-tower-3d-pro-phnl-airport.json) |
+| Tower!3D Pro: ZBAD Airport | 162279 | [162279-tower-3d-pro-zbad-airport.json](./162279-tower-3d-pro-zbad-airport.json) |
 | Tower!3D: EGLL Airport | 161314 | [161314-tower-3d-egll-airport.json](./161314-tower-3d-egll-airport.json) |
 | Tower!3D: KSEA Airport | 161316 | [161316-tower-3d-ksea-airport.json](./161316-tower-3d-ksea-airport.json) |
 | Tower!3D: OMDB Airport | 161315 | [161315-tower-3d-omdb-airport.json](./161315-tower-3d-omdb-airport.json) |
@@ -8446,6 +8460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2: Collector's Edition | 139931 | [139931-train-sim-world-2-collectors-edition.json](./139931-train-sim-world-2-collectors-edition.json) |
 | Train Sim World 2: CSX C40-8W Loco | 168735 | [168735-train-sim-world-2-csx-c40-8w-loco.json](./168735-train-sim-world-2-csx-c40-8w-loco.json) |
 | Train Sim World 2: DB BR 101 Loco | 168731 | [168731-train-sim-world-2-db-br-101-loco.json](./168731-train-sim-world-2-db-br-101-loco.json) |
+| Train Sim World 2: DB BR 155 Loco | 162252 | [162252-train-sim-world-2-db-br-155-loco.json](./162252-train-sim-world-2-db-br-155-loco.json) |
 | Train Sim World 2: DB BR 182 Loco Add-On | 167301 | [167301-train-sim-world-2-db-br-182-loco-add-on.json](./167301-train-sim-world-2-db-br-182-loco-add-on.json) |
 | Train Sim World 2: DB BR 204 Loco | 168734 | [168734-train-sim-world-2-db-br-204-loco.json](./168734-train-sim-world-2-db-br-204-loco.json) |
 | Train Sim World 2: DB BR 363 Loco | 168733 | [168733-train-sim-world-2-db-br-363-loco.json](./168733-train-sim-world-2-db-br-363-loco.json) |
@@ -8457,6 +8472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2: Main Spessart Bahn | 227326 | [227326-train-sim-world-2-main-spessart-bahn.json](./227326-train-sim-world-2-main-spessart-bahn.json) |
 | Train Sim World 2: New Journeys CSX SD40 | 227325 | [227325-train-sim-world-2-new-journeys-csx-sd40.json](./227325-train-sim-world-2-new-journeys-csx-sd40.json) |
 | Train Sim World 2: S-Bahn Zentralschweiz - Luzern: Sursee Route | 195777 | [195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json](./195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json) |
+| Train Sim World 2020: Amtrak SW1000R Loco | 162255 | [162255-train-sim-world-2020-amtrak-sw1000r-loco.json](./162255-train-sim-world-2020-amtrak-sw1000r-loco.json) |
 | Train Sim World 3: Amtrak's Acela | 237944 | [237944-train-sim-world-3-amtraks-acela.json](./237944-train-sim-world-3-amtraks-acela.json) |
 | Train Sim World 3: Birmingham Standard Edition | 231364 | [231364-train-sim-world-3-birmingham-standard-edition.json](./231364-train-sim-world-3-birmingham-standard-edition.json) |
 | Train Sim World 3: Dispolok BR 182 Add-On | 220712 | [220712-train-sim-world-3-dispolok-br-182-add-on.json](./220712-train-sim-world-3-dispolok-br-182-add-on.json) |
@@ -8527,6 +8543,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator 2017 | 26539 | [26539-train-simulator-2017.json](./26539-train-simulator-2017.json) |
 | Train Simulator 2019 | 111023 | [111023-train-simulator-2019.json](./111023-train-simulator-2019.json) |
 | Train Simulator 2021: 0-4-0 Saddletank Pack 1 Add-on Loco | 169924 | [169924-train-simulator-2021-0-4-0-saddletank-pack-1-add-on-loco.json](./169924-train-simulator-2021-0-4-0-saddletank-pack-1-add-on-loco.json) |
+| Train Simulator 2021: Amtrak Acela Express EMU | 162260 | [162260-train-simulator-2021-amtrak-acela-express-emu.json](./162260-train-simulator-2021-amtrak-acela-express-emu.json) |
+| Train Simulator 2021: Amtrak Dash 8-32BWH Loco | 162261 | [162261-train-simulator-2021-amtrak-dash-8-32bwh-loco.json](./162261-train-simulator-2021-amtrak-dash-8-32bwh-loco.json) |
+| Train Simulator 2021: Amtrak E8 Loco | 162259 | [162259-train-simulator-2021-amtrak-e8-loco.json](./162259-train-simulator-2021-amtrak-e8-loco.json) |
+| Train Simulator 2021: Amtrak E8 Scenario Pack 01 | 162268 | [162268-train-simulator-2021-amtrak-e8-scenario-pack-01.json](./162268-train-simulator-2021-amtrak-e8-scenario-pack-01.json) |
+| Train Simulator 2021: Amtrak F40PH 'California Zephyr' Loco | 162263 | [162263-train-simulator-2021-amtrak-f40ph-california-zephyr-loco.json](./162263-train-simulator-2021-amtrak-f40ph-california-zephyr-loco.json) |
+| Train Simulator 2021: Amtrak HHP-8 Loco | 162262 | [162262-train-simulator-2021-amtrak-hhp-8-loco.json](./162262-train-simulator-2021-amtrak-hhp-8-loco.json) |
+| Train Simulator 2021: Amtrak P30CH Loco | 162267 | [162267-train-simulator-2021-amtrak-p30ch-loco.json](./162267-train-simulator-2021-amtrak-p30ch-loco.json) |
+| Train Simulator 2021: Amtrak P42 DC 'Empire Builder' Loco | 162264 | [162264-train-simulator-2021-amtrak-p42-dc-empire-builder-loco.json](./162264-train-simulator-2021-amtrak-p42-dc-empire-builder-loco.json) |
+| Train Simulator 2021: Amtrak SDP40F Loco | 162266 | [162266-train-simulator-2021-amtrak-sdp40f-loco.json](./162266-train-simulator-2021-amtrak-sdp40f-loco.json) |
 | Train Simulator 2021: Arizona Divide - Winslow: Williams Route | 162416 | [162416-train-simulator-2021-arizona-divide-winslow-williams-route.json](./162416-train-simulator-2021-arizona-divide-winslow-williams-route.json) |
 | Train Simulator 2021: BNSF Dash 9 Loco | 162346 | [162346-train-simulator-2021-bnsf-dash-9-loco.json](./162346-train-simulator-2021-bnsf-dash-9-loco.json) |
 | Train Simulator 2021: BNSF ES44DC Loco | 162341 | [162341-train-simulator-2021-bnsf-es44dc-loco.json](./162341-train-simulator-2021-bnsf-es44dc-loco.json) |
@@ -8564,9 +8589,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator 2021: EWS Class 66 v2.0 Loco | 162340 | [162340-train-simulator-2021-ews-class-66-v2-0-loco.json](./162340-train-simulator-2021-ews-class-66-v2-0-loco.json) |
 | Train Simulator 2021: First Capital Connect Class 321 EMU | 162354 | [162354-train-simulator-2021-first-capital-connect-class-321-emu.json](./162354-train-simulator-2021-first-capital-connect-class-321-emu.json) |
 | Train Simulator 2021: Freightliner Class 57/0 Loco | 162337 | [162337-train-simulator-2021-freightliner-class-57-0-loco.json](./162337-train-simulator-2021-freightliner-class-57-0-loco.json) |
+| Train Simulator 2021: Grand Central Class 180 'Adelante' DMU | 162265 | [162265-train-simulator-2021-grand-central-class-180-adelante-dmu.json](./162265-train-simulator-2021-grand-central-class-180-adelante-dmu.json) |
 | Train Simulator 2021: Great Northern F7 'Empire Builder' Loco | 162379 | [162379-train-simulator-2021-great-northern-f7-empire-builder-loco.json](./162379-train-simulator-2021-great-northern-f7-empire-builder-loco.json) |
 | Train Simulator 2021: GWR 1000 Class 'County Class' Steam Loco | 162403 | [162403-train-simulator-2021-gwr-1000-class-county-class-steam-loco.json](./162403-train-simulator-2021-gwr-1000-class-county-class-steam-loco.json) |
 | Train Simulator 2021: GWR 7800 'Manor' Class | 162392 | [162392-train-simulator-2021-gwr-7800-manor-class.json](./162392-train-simulator-2021-gwr-7800-manor-class.json) |
+| Train Simulator 2021: GWR Large Prairies Steam Loco | 162274 | [162274-train-simulator-2021-gwr-large-prairies-steam-loco.json](./162274-train-simulator-2021-gwr-large-prairies-steam-loco.json) |
+| Train Simulator 2021: GWR Small Prairies Loco | 162275 | [162275-train-simulator-2021-gwr-small-prairies-loco.json](./162275-train-simulator-2021-gwr-small-prairies-loco.json) |
 | Train Simulator 2021: Koeln Airport Link Route Extension | 162342 | [162342-train-simulator-2021-koeln-airport-link-route-extension.json](./162342-train-simulator-2021-koeln-airport-link-route-extension.json) |
 | Train Simulator 2021: LMS Coronation Class "Duchess of Hamilton" Loco | 162388 | [162388-train-simulator-2021-lms-coronation-class-duchess-of-hamilton-loco.json](./162388-train-simulator-2021-lms-coronation-class-duchess-of-hamilton-loco.json) |
 | Train Simulator 2021: LMS Rebuilt Patriot Class Steam Loco | 162398 | [162398-train-simulator-2021-lms-rebuilt-patriot-class-steam-loco.json](./162398-train-simulator-2021-lms-rebuilt-patriot-class-steam-loco.json) |
