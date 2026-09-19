@@ -4481,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Genom | 24907 | [24907-project-genom.json](./24907-project-genom.json) |
 | Project GGG | 273623 | [273623-project-ggg.json](./273623-project-ggg.json) |
 | Project Glasloc | 253577 | [253577-project-glasloc.json](./253577-project-glasloc.json) |
+| Project Gold | 141018 | [141018-project-gold.json](./141018-project-gold.json) |
 | Project GR-5LYR: Galactic Relocation | 108422 | [108422-project-gr-5lyr-galactic-relocation.json](./108422-project-gr-5lyr-galactic-relocation.json) |
 | Project Gravity | 139385 | [139385-project-gravity.json](./139385-project-gravity.json) |
 | Project Gravity | 341554 | [341554-project-gravity.json](./341554-project-gravity.json) |
