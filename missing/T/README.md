@@ -3867,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Kuro no Kiseki II: Crimson Sin - Scenario Book Limited Edition | 205256 | [205256-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-scenario-book-limited-edition.json](./205256-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-scenario-book-limited-edition.json) |
 | The Legend of Heroes: Sora no Kiseki FC Evolution - Chara-Ani Limited Box | 268029 | [268029-the-legend-of-heroes-sora-no-kiseki-fc-evolution-chara-ani-limited-box.json](./268029-the-legend-of-heroes-sora-no-kiseki-fc-evolution-chara-ani-limited-box.json) |
 | The Legend of Heroes: Sora no Kiseki FC Evolution - Limited Edition | 268030 | [268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json](./268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json) |
+| The Legend of Heroes: Sora no Kiseki FC Kai - HD Edition | 136859 | [136859-the-legend-of-heroes-sora-no-kiseki-fc-kai-hd-edition.json](./136859-the-legend-of-heroes-sora-no-kiseki-fc-kai-hd-edition.json) |
 | The Legend of Heroes: Trails into Reverie | 136673 | [136673-the-legend-of-heroes-trails-into-reverie.json](./136673-the-legend-of-heroes-trails-into-reverie.json) |
 | The Legend of Heroes: Trails into Reverie - Complete Cosmetics | 256256 | [256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json](./256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json) |
 | The Legend of Heroes: Trails into Reverie - Premium Cosmetic Set | 251673 | [251673-the-legend-of-heroes-trails-into-reverie-premium-cosmetic-set.json](./251673-the-legend-of-heroes-trails-into-reverie-premium-cosmetic-set.json) |
@@ -3915,6 +3916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: A Link to the Past Redux | 219073 | [219073-the-legend-of-zelda-a-link-to-the-past-redux.json](./219073-the-legend-of-zelda-a-link-to-the-past-redux.json) |
 | The Legend of Zelda: A New Light | 233602 | [233602-the-legend-of-zelda-a-new-light.json](./233602-the-legend-of-zelda-a-new-light.json) |
 | The Legend of Zelda: Allhallows Eve | 308390 | [308390-the-legend-of-zelda-allhallows-eve.json](./308390-the-legend-of-zelda-allhallows-eve.json) |
+| The Legend of Zelda: Breath of the Wild - Collector's Edition | 136841 | [136841-the-legend-of-zelda-breath-of-the-wild-collectors-edition.json](./136841-the-legend-of-zelda-breath-of-the-wild-collectors-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Limited Edition | 50598 | [50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json](./50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition | 338072 | [338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json](./338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Starter Edition | 216236 | [216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json](./216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json) |
@@ -4845,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Robolovers | 172707 | [172707-the-robolovers.json](./172707-the-robolovers.json) |
 | The Rock and the Rose | 353996 | [353996-the-rock-and-the-rose.json](./353996-the-rock-and-the-rose.json) |
 | The Rocket Jumper | 232965 | [232965-the-rocket-jumper.json](./232965-the-rocket-jumper.json) |
+| The Rocketeer | 136871 | [136871-the-rocketeer.json](./136871-the-rocketeer.json) |
 | The Rodionov postulate (pale-particle duality) | 376607 | [376607-the-rodionov-postulate-pale-particle-duality.json](./376607-the-rodionov-postulate-pale-particle-duality.json) |
 | The Rolling Room | 309893 | [309893-the-rolling-room.json](./309893-the-rolling-room.json) |
 | The Rollingball's Melody | 34308 | [34308-the-rollingballs-melody.json](./34308-the-rollingballs-melody.json) |
@@ -5755,6 +5758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
 | The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
 | The Vanished Soul | 318063 | [318063-the-vanished-soul.json](./318063-the-vanished-soul.json) |
+| THE Variety Game Daishugo: Kingyo Sukui, Card, Suji Puzzle, Nikakudori | 136833 | [136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json](./136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json) |
 | The Vault | 295247 | [295247-the-vault.json](./295247-the-vault.json) |
 | The Vault | 97331 | [97331-the-vault.json](./97331-the-vault.json) |
 | The Vaults | 197914 | [197914-the-vaults.json](./197914-the-vaults.json) |
@@ -7509,6 +7513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Be With You | 152890 | [152890-to-be-with-you.json](./152890-to-be-with-you.json) |
 | To Bring Her Back | 316804 | [316804-to-bring-her-back.json](./316804-to-bring-her-back.json) |
 | To Burn in Memory: Anniversary Edition | 110371 | [110371-to-burn-in-memory-anniversary-edition.json](./110371-to-burn-in-memory-anniversary-edition.json) |
+| To Dawn and Back | 136847 | [136847-to-dawn-and-back.json](./136847-to-dawn-and-back.json) |
 | To Die in the Shade | 281425 | [281425-to-die-in-the-shade.json](./281425-to-die-in-the-shade.json) |
 | To Duel List | 151704 | [151704-to-duel-list.json](./151704-to-duel-list.json) |
 | To Dust | 259824 | [259824-to-dust.json](./259824-to-dust.json) |
@@ -7947,6 +7952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tools Up! Garden Party: Episode 3 - Home Sweet Home | 169279 | [169279-tools-up-garden-party-episode-3-home-sweet-home.json](./169279-tools-up-garden-party-episode-3-home-sweet-home.json) |
 | Tools Up! Garden Party: Season Pass | 202935 | [202935-tools-up-garden-party-season-pass.json](./202935-tools-up-garden-party-season-pass.json) |
 | Toon Car: The Great Race | 206758 | [206758-toon-car-the-great-race.json](./206758-toon-car-the-great-race.json) |
+| Toon Panic | 136860 | [136860-toon-panic.json](./136860-toon-panic.json) |
 | Toon Puzzle Island | 233083 | [233083-toon-puzzle-island.json](./233083-toon-puzzle-island.json) |
 | Toon Puzzle Quest | 108480 | [108480-toon-puzzle-quest.json](./108480-toon-puzzle-quest.json) |
 | Toon Roads: Race & Drift | 288315 | [288315-toon-roads-race-and-drift.json](./288315-toon-roads-race-and-drift.json) |
@@ -8024,6 +8030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tora | 114381 | [114381-tora.json](./114381-tora.json) |
 | Toraware no Palm | 97297 | [97297-toraware-no-palm.json](./97297-toraware-no-palm.json) |
 | Toraware no Palm: Refrain | 109603 | [109603-toraware-no-palm-refrain.json](./109603-toraware-no-palm-refrain.json) |
+| Toraware no Palm: Refrain - Deluxe Edition | 136843 | [136843-toraware-no-palm-refrain-deluxe-edition.json](./136843-toraware-no-palm-refrain-deluxe-edition.json) |
 | Torbaci Oyunu | 274769 | [274769-torbaci-oyunu.json](./274769-torbaci-oyunu.json) |
 | Torch | 232977 | [232977-torch.json](./232977-torch.json) |
 | Torch 2081 | 86047 | [86047-torch-2081.json](./86047-torch-2081.json) |
