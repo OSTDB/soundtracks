@@ -2016,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostromo's Run | 274197 | [274197-nostromos-run.json](./274197-nostromos-run.json) |
 | Nosy | 205112 | [205112-nosy.json](./205112-nosy.json) |
 | Not 4 Usual Games | 182912 | [182912-not-4-usual-games.json](./182912-not-4-usual-games.json) |
+| Not a Creature Was Stirring... | 177435 | [177435-not-a-creature-was-stirring.json](./177435-not-a-creature-was-stirring.json) |
 | Not a Customer | 406711 | [406711-not-a-customer.json](./406711-not-a-customer.json) |
 | Not A Fake Game | 366868 | [366868-not-a-fake-game.json](./366868-not-a-fake-game.json) |
 | Not a Hero - Me, Myself & Bunnylord | 140548 | [140548-not-a-hero-me-myself-and-bunnylord.json](./140548-not-a-hero-me-myself-and-bunnylord.json) |
