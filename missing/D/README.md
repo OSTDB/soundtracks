@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon 9 | 110904 | [110904-daemon-9.json](./110904-daemon-9.json) |
 | Daemon Bride: Additional Gain | 313486 | [313486-daemon-bride-additional-gain.json](./313486-daemon-bride-additional-gain.json) |
 | Daemon Detective Gaiden II | 133983 | [133983-daemon-detective-gaiden-ii.json](./133983-daemon-detective-gaiden-ii.json) |
+| Daemon Detective Racing Zero | 135042 | [135042-daemon-detective-racing-zero.json](./135042-daemon-detective-racing-zero.json) |
 | Daemon Masquerade | 242546 | [242546-daemon-masquerade.json](./242546-daemon-masquerade.json) |
 | Daemon Summoner | 44628 | [44628-daemon-summoner.json](./44628-daemon-summoner.json) |
 | Daemon X Machina: Orbital Limited Edition | 120324 | [120324-daemon-x-machina-orbital-limited-edition.json](./120324-daemon-x-machina-orbital-limited-edition.json) |
@@ -313,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Horizon | 329178 | [329178-danger-horizon.json](./329178-danger-horizon.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
 | Danger World | 121616 | [121616-danger-world.json](./121616-danger-world.json) |
+| Danger Zone Friends | 135044 | [135044-danger-zone-friends.json](./135044-danger-zone-friends.json) |
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
 | Danger: Electric Shock | 166620 | [166620-danger-electric-shock.json](./166620-danger-electric-shock.json) |
 | Dangeresque Roomisode 1: Behind the Dangerdesque | 135845 | [135845-dangeresque-roomisode-1-behind-the-dangerdesque.json](./135845-dangeresque-roomisode-1-behind-the-dangerdesque.json) |
@@ -923,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De-Exit: Eternal Matters | 172757 | [172757-de-exit-eternal-matters.json](./172757-de-exit-eternal-matters.json) |
 | De:Fanastasis | 297812 | [297812-de-fanastasis.json](./297812-de-fanastasis.json) |
 | De:Void | 135813 | [135813-de-void.json](./135813-de-void.json) |
+| Dead 4 Dress | 135019 | [135019-dead-4-dress.json](./135019-dead-4-dress.json) |
 | Dead Above | 366309 | [366309-dead-above.json](./366309-dead-above.json) |
 | Dead Abyss | 321336 | [321336-dead-abyss.json](./321336-dead-abyss.json) |
 | Dead Age 1 + 2 Bundle | 154956 | [154956-dead-age-1-2-bundle.json](./154956-dead-age-1-2-bundle.json) |
@@ -2903,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovr Egypt: King Tut's Tomb | 33086 | [33086-discovr-egypt-king-tuts-tomb.json](./33086-discovr-egypt-king-tuts-tomb.json) |
 | Discremental | 405603 | [405603-discremental.json](./405603-discremental.json) |
 | Discrete Orange | 312348 | [312348-discrete-orange.json](./312348-discrete-orange.json) |
+| Discsphere | 135026 | [135026-discsphere.json](./135026-discsphere.json) |
 | Discus | 247046 | [247046-discus.json](./247046-discus.json) |
 | Discworld | 8291 | [8291-discworld.json](./8291-discworld.json) |
 | Discworld II: Mortality Bytes! | 8292 | [8292-discworld-ii-mortality-bytes.json](./8292-discworld-ii-mortality-bytes.json) |
@@ -3080,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distorted Minds | 414409 | [414409-distorted-minds.json](./414409-distorted-minds.json) |
 | Distorted Signal | 413667 | [413667-distorted-signal.json](./413667-distorted-signal.json) |
 | Distorted world | 157030 | [157030-distorted-world.json](./157030-distorted-world.json) |
+| Distortion Nation | 135048 | [135048-distortion-nation.json](./135048-distortion-nation.json) |
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
 | Distress | 202245 | [202245-distress.json](./202245-distress.json) |
 | Distress Signal | 178640 | [178640-distress-signal.json](./178640-distress-signal.json) |
@@ -4447,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonborne | 140594 | [140594-dragonborne.json](./140594-dragonborne.json) |
 | DragonCrash | 101546 | [101546-dragoncrash.json](./101546-dragoncrash.json) |
 | Dragoncrest RPG: Arc 1 | 186715 | [186715-dragoncrest-rpg-arc-1.json](./186715-dragoncrest-rpg-arc-1.json) |
+| Dragondot 3 | 135010 | [135010-dragondot-3.json](./135010-dragondot-3.json) |
 | Dragonea | 326064 | [326064-dragonea.json](./326064-dragonea.json) |
 | Dragonfall | 296937 | [296937-dragonfall.json](./296937-dragonfall.json) |
 | Dragonfire | 5671 | [5671-dragonfire.json](./5671-dragonfire.json) |
