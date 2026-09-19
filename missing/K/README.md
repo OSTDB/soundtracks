@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K.C.'s Crazy Nightmare! | 40730 | [40730-k-c-s-crazy-nightmare.json](./40730-k-c-s-crazy-nightmare.json) |
 | K.O. The Live Boxing | 386677 | [386677-k-o-the-live-boxing.json](./386677-k-o-the-live-boxing.json) |
 | K.S.-n-Kickin | 265977 | [265977-k-s-n-kickin.json](./265977-k-s-n-kickin.json) |
+| K'nife Fight | 137455 | [137455-knife-fight.json](./137455-knife-fight.json) |
 | K11: Kommissare im Einsatz | 268183 | [268183-k11-kommissare-im-einsatz.json](./268183-k11-kommissare-im-einsatz.json) |
 | K2: Digital Edition | 274560 | [274560-k2-digital-edition.json](./274560-k2-digital-edition.json) |
 | K37-D | 130966 | [130966-k37-d.json](./130966-k37-d.json) |
@@ -88,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiv | 23874 | [23874-kaiv.json](./23874-kaiv.json) |
 | Kaiwa | 290681 | [290681-kaiwa.json](./290681-kaiwa.json) |
 | Kaiyo's Castle | 347182 | [347182-kaiyos-castle.json](./347182-kaiyos-castle.json) |
+| Kaiyou Resutoran Uminekotei | 137445 | [137445-kaiyou-resutoran-uminekotei.json](./137445-kaiyou-resutoran-uminekotei.json) |
 | Kaizen Channel Mars TV | 109048 | [109048-kaizen-channel-mars-tv.json](./109048-kaizen-channel-mars-tv.json) |
 | Kaizo Block | 267455 | [267455-kaizo-block.json](./267455-kaizo-block.json) |
 | Kaizo Mario Galaxy | 249454 | [249454-kaizo-mario-galaxy.json](./249454-kaizo-mario-galaxy.json) |
@@ -149,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Kuuga | 43863 | [43863-kamen-rider-kuuga.json](./43863-kamen-rider-kuuga.json) |
 | Kamen Rider V3 | 43862 | [43862-kamen-rider-v3.json](./43862-kamen-rider-v3.json) |
 | Kamen Rider: Battride War II | 62184 | [62184-kamen-rider-battride-war-ii.json](./62184-kamen-rider-battride-war-ii.json) |
+| Kamen Rider: Memory of Heroez | 137453 | [137453-kamen-rider-memory-of-heroez.json](./137453-kamen-rider-memory-of-heroez.json) |
 | Kamen Rider: Super Climax Heroes | 62705 | [62705-kamen-rider-super-climax-heroes.json](./62705-kamen-rider-super-climax-heroes.json) |
 | Kameo: Elements of Power | 7029 | [7029-kameo-elements-of-power.json](./7029-kameo-elements-of-power.json) |
 | Kami and Miko | 370148 | [370148-kami-and-miko.json](./370148-kami-and-miko.json) |
