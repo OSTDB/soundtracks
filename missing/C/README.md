@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Detailing Cleaner Simulator | 288761 | [288761-car-detailing-cleaner-simulator.json](./288761-car-detailing-cleaner-simulator.json) |
 | Car Detailing Simulator | 182487 | [182487-car-detailing-simulator.json](./182487-car-detailing-simulator.json) |
 | Car Drawing Game | 181806 | [181806-car-drawing-game.json](./181806-car-drawing-game.json) |
+| Car Driving Simulator | 153835 | [153835-car-driving-simulator.json](./153835-car-driving-simulator.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
@@ -915,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casper: Friends Around the World | 44956 | [44956-casper-friends-around-the-world.json](./44956-casper-friends-around-the-world.json) |
 | Cassandra's Fabulous Foray | 67931 | [67931-cassandras-fabulous-foray.json](./67931-cassandras-fabulous-foray.json) |
 | Cassette Boy | 248898 | [248898-cassette-boy.json](./248898-cassette-boy.json) |
+| Cassette Five | 153853 | [153853-cassette-five.json](./153853-cassette-five.json) |
 | Cassidy | 145032 | [145032-cassidy.json](./145032-cassidy.json) |
 | Cassius | 172197 | [172197-cassius.json](./172197-cassius.json) |
 | Cast Cats | 312755 | [312755-cast-cats.json](./312755-cast-cats.json) |
@@ -3887,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect | 314051 | [314051-connect.json](./314051-connect.json) |
 | Connect 4 | 79945 | [79945-connect-4.json](./79945-connect-4.json) |
 | Connect 4 Deluxe | 205623 | [205623-connect-4-deluxe.json](./205623-connect-4-deluxe.json) |
+| Connect Bricks | 153827 | [153827-connect-bricks.json](./153827-connect-bricks.json) |
 | Connect Dots | 396371 | [396371-connect-dots.json](./396371-connect-dots.json) |
 | Connect Four | 45935 | [45935-connect-four.json](./45935-connect-four.json) |
 | Connect Four Cities | 73840 | [73840-connect-four-cities.json](./73840-connect-four-cities.json) |
@@ -5967,6 +5970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberTaxi: Lunatic Nights | 296388 | [296388-cybertaxi-lunatic-nights.json](./296388-cybertaxi-lunatic-nights.json) |
 | CyberThreat | 31603 | [31603-cyberthreat.json](./31603-cyberthreat.json) |
 | CyberVerse | 280898 | [280898-cyberverse.json](./280898-cyberverse.json) |
+| CyberVirus | 153842 | [153842-cybervirus.json](./153842-cybervirus.json) |
 | Cyberwave | 310571 | [310571-cyberwave.json](./310571-cyberwave.json) |
 | CyberWave Survivor | 254173 | [254173-cyberwave-survivor.json](./254173-cyberwave-survivor.json) |
 | Cyberwinter | 158194 | [158194-cyberwinter.json](./158194-cyberwinter.json) |
