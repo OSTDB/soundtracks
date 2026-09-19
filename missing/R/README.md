@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealityMinds | 165651 | [165651-realityminds.json](./165651-realityminds.json) |
 | Really Dog | 276182 | [276182-really-dog.json](./276182-really-dog.json) |
 | Really really auto chess | 183971 | [183971-really-really-auto-chess.json](./183971-really-really-auto-chess.json) |
+| Really Unique Space Shooter | 136237 | [136237-really-unique-space-shooter.json](./136237-really-unique-space-shooter.json) |
 | Really? Really! RiaRiaDS | 330554 | [330554-really-really-riariads.json](./330554-really-really-riariads.json) |
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
@@ -3729,6 +3730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway 2: The Dream of the Turtle | 13227 | [13227-runaway-2-the-dream-of-the-turtle.json](./13227-runaway-2-the-dream-of-the-turtle.json) |
 | Runaway Animals | 207360 | [207360-runaway-animals.json](./207360-runaway-animals.json) |
 | Runaway Bride | 288240 | [288240-runaway-bride.json](./288240-runaway-bride.json) |
+| Runaway Demon Bride | 136260 | [136260-runaway-demon-bride.json](./136260-runaway-demon-bride.json) |
 | Runaway Girl: Picked up a Girl | 298724 | [298724-runaway-girl-picked-up-a-girl.json](./298724-runaway-girl-picked-up-a-girl.json) |
 | Runaway Princess | 370765 | [370765-runaway-princess.json](./370765-runaway-princess.json) |
 | Runaway Train | 252368 | [252368-runaway-train.json](./252368-runaway-train.json) |
