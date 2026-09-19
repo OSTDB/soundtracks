@@ -255,7 +255,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saku the Covert Agent | 310181 | [310181-saku-the-covert-agent.json](./310181-saku-the-covert-agent.json) |
 | Sakumon | 412956 | [412956-sakumon.json](./412956-sakumon.json) |
 | Sakuna: Hinuka Junreitan | 359480 | [359480-sakuna-hinuka-junreitan.json](./359480-sakuna-hinuka-junreitan.json) |
+| Sakuna: Of Rice and Ruin - Collector's Edition | 139843 | [139843-sakuna-of-rice-and-ruin-collectors-edition.json](./139843-sakuna-of-rice-and-ruin-collectors-edition.json) |
 | Sakuna: Of Rice and Ruin - Divine Edition | 139978 | [139978-sakuna-of-rice-and-ruin-divine-edition.json](./139978-sakuna-of-rice-and-ruin-divine-edition.json) |
+| Sakuna: Of Rice and Ruin - Golden Harvest Limited Edition | 139830 | [139830-sakuna-of-rice-and-ruin-golden-harvest-limited-edition.json](./139830-sakuna-of-rice-and-ruin-golden-harvest-limited-edition.json) |
 | Sakunaverse | 363980 | [363980-sakunaverse.json](./363980-sakunaverse.json) |
 | Sakura Alien | 186848 | [186848-sakura-alien.json](./186848-sakura-alien.json) |
 | Sakura Arms: Radiant Duels | 388956 | [388956-sakura-arms-radiant-duels.json](./388956-sakura-arms-radiant-duels.json) |
@@ -8593,6 +8595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Outlaws 2: Winner Takes All | 162246 | [162246-street-outlaws-2-winner-takes-all.json](./162246-street-outlaws-2-winner-takes-all.json) |
 | Street Outlaws 2: Winner Takes All - Digital Deluxe Edition | 173797 | [173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json](./173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json) |
 | Street Paint Playground | 217991 | [217991-street-paint-playground.json](./217991-street-paint-playground.json) |
+| Street Racer Underground | 139819 | [139819-street-racer-underground.json](./139819-street-racer-underground.json) |
 | Street Racer X Ace of Love | 206198 | [206198-street-racer-x-ace-of-love.json](./206198-street-racer-x-ace-of-love.json) |
 | Street Racers: Hot Asphalt | 316837 | [316837-street-racers-hot-asphalt.json](./316837-street-racers-hot-asphalt.json) |
 | Street Racing EVO: Car & Moto | 383519 | [383519-street-racing-evo-car-and-moto.json](./383519-street-racing-evo-car-and-moto.json) |
