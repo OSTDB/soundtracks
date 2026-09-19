@@ -987,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbles HD | 101520 | [101520-marbles-hd.json](./101520-marbles-hd.json) |
 | Marby Baby Story | 143668 | [143668-marby-baby-story.json](./143668-marby-baby-story.json) |
 | Marce | 383531 | [383531-marce.json](./383531-marce.json) |
+| Marcella Moon: Curse of the Black Cat | 149413 | [149413-marcella-moon-curse-of-the-black-cat.json](./149413-marcella-moon-curse-of-the-black-cat.json) |
 | Marcella Moon: Killer at the Cove | 264024 | [264024-marcella-moon-killer-at-the-cove.json](./264024-marcella-moon-killer-at-the-cove.json) |
 | March of Giants | 363900 | [363900-march-of-giants.json](./363900-march-of-giants.json) |
 | March of the Living | 18901 | [18901-march-of-the-living.json](./18901-march-of-the-living.json) |
@@ -1270,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marissa Is Now Idle | 215222 | [215222-marissa-is-now-idle.json](./215222-marissa-is-now-idle.json) |
 | Maritime Calling | 155978 | [155978-maritime-calling.json](./155978-maritime-calling.json) |
 | Maritime Hegemony | 220748 | [220748-maritime-hegemony.json](./220748-maritime-hegemony.json) |
+| Mariuccha Alchemy Queen | 149449 | [149449-mariuccha-alchemy-queen.json](./149449-mariuccha-alchemy-queen.json) |
 | Mark My Words | 360016 | [360016-mark-my-words.json](./360016-mark-my-words.json) |
 | Mark of Cain | 391741 | [391741-mark-of-cain.json](./391741-mark-of-cain.json) |
 | Mark of the Deep: Deluxe Edition | 402957 | [402957-mark-of-the-deep-deluxe-edition.json](./402957-mark-of-the-deep-deluxe-edition.json) |
@@ -1710,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathe Pfiffikus 2 | 81403 | [81403-mathe-pfiffikus-2.json](./81403-mathe-pfiffikus-2.json) |
 | Mathe Pfiffikus 2009 | 81394 | [81394-mathe-pfiffikus-2009.json](./81394-mathe-pfiffikus-2009.json) |
 | Mathemagics, An Interactive Learning Cube | 37123 | [37123-mathemagics-an-interactive-learning-cube.json](./37123-mathemagics-an-interactive-learning-cube.json) |
+| Mathematic Adventures | 149423 | [149423-mathematic-adventures.json](./149423-mathematic-adventures.json) |
 | Mathematician | 377078 | [377078-mathematician.json](./377078-mathematician.json) |
 | MathJelly | 386854 | [386854-mathjelly.json](./386854-mathjelly.json) |
 | Mathomatics | 190215 | [190215-mathomatics.json](./190215-mathomatics.json) |
@@ -2291,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megachud | 349946 | [349946-megachud.json](./349946-megachud.json) |
 | Megacobra vs. Sharkbat | 368563 | [368563-megacobra-vs-sharkbat.json](./368563-megacobra-vs-sharkbat.json) |
 | Megacop | 117663 | [117663-megacop.json](./117663-megacop.json) |
+| Megacraft Hentai Survival | 149428 | [149428-megacraft-hentai-survival.json](./149428-megacraft-hentai-survival.json) |
 | MegaCryptoPolis | 182339 | [182339-megacryptopolis.json](./182339-megacryptopolis.json) |
 | Megadeka | 344474 | [344474-megadeka.json](./344474-megadeka.json) |
 | Megadimension Neptunia VII: Dream Edition | 212333 | [212333-megadimension-neptunia-vii-dream-edition.json](./212333-megadimension-neptunia-vii-dream-edition.json) |
