@@ -2038,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Flesh and Blood Episode 1 | 34740 | [34740-beyond-flesh-and-blood-episode-1.json](./34740-beyond-flesh-and-blood-episode-1.json) |
 | Beyond Hanwell | 265409 | [265409-beyond-hanwell.json](./265409-beyond-hanwell.json) |
 | Beyond Horizon: The Astral Expedition | 311112 | [311112-beyond-horizon-the-astral-expedition.json](./311112-beyond-horizon-the-astral-expedition.json) |
+| Beyond Horror: Episode One - A Father's Journey | 170925 | [170925-beyond-horror-episode-one-a-fathers-journey.json](./170925-beyond-horror-episode-one-a-fathers-journey.json) |
 | Beyond Lost Planets | 386300 | [386300-beyond-lost-planets.json](./386300-beyond-lost-planets.json) |
 | Beyond Magic | 32941 | [32941-beyond-magic.json](./32941-beyond-magic.json) |
 | Beyond Memoria | 386302 | [386302-beyond-memoria.json](./386302-beyond-memoria.json) |
