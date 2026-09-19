@@ -3865,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Ao no Kiseki Evolution | 202822 | [202822-the-legend-of-heroes-ao-no-kiseki-evolution.json](./202822-the-legend-of-heroes-ao-no-kiseki-evolution.json) |
 | The Legend of Heroes: Kuro no Kiseki II: Crimson Sin - Limited Edition | 205272 | [205272-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-limited-edition.json](./205272-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-limited-edition.json) |
 | The Legend of Heroes: Kuro no Kiseki II: Crimson Sin - Scenario Book Limited Edition | 205256 | [205256-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-scenario-book-limited-edition.json](./205256-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-scenario-book-limited-edition.json) |
+| The Legend of Heroes: Sora no Kiseki FC Evolution | 136287 | [136287-the-legend-of-heroes-sora-no-kiseki-fc-evolution.json](./136287-the-legend-of-heroes-sora-no-kiseki-fc-evolution.json) |
 | The Legend of Heroes: Sora no Kiseki FC Evolution - Chara-Ani Limited Box | 268029 | [268029-the-legend-of-heroes-sora-no-kiseki-fc-evolution-chara-ani-limited-box.json](./268029-the-legend-of-heroes-sora-no-kiseki-fc-evolution-chara-ani-limited-box.json) |
 | The Legend of Heroes: Sora no Kiseki FC Evolution - Limited Edition | 268030 | [268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json](./268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json) |
 | The Legend of Heroes: Sora no Kiseki FC Kai - HD Edition | 136859 | [136859-the-legend-of-heroes-sora-no-kiseki-fc-kai-hd-edition.json](./136859-the-legend-of-heroes-sora-no-kiseki-fc-kai-hd-edition.json) |
@@ -4051,6 +4052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Desert Drive | 360047 | [360047-the-long-desert-drive.json](./360047-the-long-desert-drive.json) |
 | The Long Drift | 392303 | [392303-the-long-drift.json](./392303-the-long-drift.json) |
 | The Long Gate | 127215 | [127215-the-long-gate.json](./127215-the-long-gate.json) |
+| The Long Run | 136230 | [136230-the-long-run.json](./136230-the-long-run.json) |
 | The Long Sky VR | 132790 | [132790-the-long-sky-vr.json](./132790-the-long-sky-vr.json) |
 | The Long Tale | 342144 | [342144-the-long-tale.json](./342144-the-long-tale.json) |
 | The Long Way Home | 390118 | [390118-the-long-way-home.json](./390118-the-long-way-home.json) |
