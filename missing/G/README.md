@@ -2162,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 4 Spec II | 336043 | [336043-gran-turismo-4-spec-ii.json](./336043-gran-turismo-4-spec-ii.json) |
 | Gran Turismo 4: Spec II | 339256 | [339256-gran-turismo-4-spec-ii.json](./339256-gran-turismo-4-spec-ii.json) |
 | Gran Turismo 5 Prologue | 1599 | [1599-gran-turismo-5-prologue.json](./1599-gran-turismo-5-prologue.json) |
+| Gran Turismo 5 Spec 2.0 | 136852 | [136852-gran-turismo-5-spec-2-0.json](./136852-gran-turismo-5-spec-2-0.json) |
 | Gran Turismo 5: Prologue Spec III | 77993 | [77993-gran-turismo-5-prologue-spec-iii.json](./77993-gran-turismo-5-prologue-spec-iii.json) |
 | Gran Turismo Sport: Collector's Edition | 138775 | [138775-gran-turismo-sport-collectors-edition.json](./138775-gran-turismo-sport-collectors-edition.json) |
 | Gran Turismo Sport: Day One Edition | 138770 | [138770-gran-turismo-sport-day-one-edition.json](./138770-gran-turismo-sport-day-one-edition.json) |
