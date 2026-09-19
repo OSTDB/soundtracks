@@ -3066,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
 | Roly Poly Putt | 251663 | [251663-roly-poly-putt.json](./251663-roly-poly-putt.json) |
 | Roly Poly Roundup | 396415 | [396415-roly-poly-roundup.json](./396415-roly-poly-roundup.json) |
+| Roly-Polo | 158575 | [158575-roly-polo.json](./158575-roly-polo.json) |
 | ROM Check Fail | 79311 | [79311-rom-check-fail.json](./79311-rom-check-fail.json) |
 | Rom Rom Stadium | 64377 | [64377-rom-rom-stadium.json](./64377-rom-rom-stadium.json) |
 | ROM: Extraction | 26549 | [26549-rom-extraction.json](./26549-rom-extraction.json) |
@@ -3548,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rulegement | 267445 | [267445-rulegement.json](./267445-rulegement.json) |
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
 | Ruler of the Waves 1916 | 227838 | [227838-ruler-of-the-waves-1916.json](./227838-ruler-of-the-waves-1916.json) |
+| Rules of Gravity | 158586 | [158586-rules-of-gravity.json](./158586-rules-of-gravity.json) |
 | Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
 | Rules: Motel Horizon | 392128 | [392128-rules-motel-horizon.json](./392128-rules-motel-horizon.json) |
 | Rules! | 80537 | [80537-rules.json](./80537-rules.json) |
