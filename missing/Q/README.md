@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet on Set | 266300 | [266300-quiet-on-set.json](./266300-quiet-on-set.json) |
 | Quiet Rehabilitation | 281411 | [281411-quiet-rehabilitation.json](./281411-quiet-rehabilitation.json) |
 | Quiet us | 184606 | [184606-quiet-us.json](./184606-quiet-us.json) |
+| Quiet Valley 2 | 154409 | [154409-quiet-valley-2.json](./154409-quiet-valley-2.json) |
 | Quietly | 229076 | [229076-quietly.json](./229076-quietly.json) |
 | QuietMansion1 | 151687 | [151687-quietmansion1.json](./151687-quietmansion1.json) |
 | QuietMansion1 | 152307 | [152307-quietmansion1.json](./152307-quietmansion1.json) |
