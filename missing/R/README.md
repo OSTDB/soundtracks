@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Arkania: Blade of Destiny | 27345 | [27345-realms-of-arkania-blade-of-destiny.json](./27345-realms-of-arkania-blade-of-destiny.json) |
 | Realms of Arkania: Blade of Destiny - For the Gods | 170452 | [170452-realms-of-arkania-blade-of-destiny-for-the-gods.json](./170452-realms-of-arkania-blade-of-destiny-for-the-gods.json) |
 | Realms of Arkania: Blade of Destiny - Ogredeath | 170453 | [170453-realms-of-arkania-blade-of-destiny-ogredeath.json](./170453-realms-of-arkania-blade-of-destiny-ogredeath.json) |
+| Realms of Darkness | 130730 | [130730-realms-of-darkness.json](./130730-realms-of-darkness.json) |
 | Realms of Despair | 127951 | [127951-realms-of-despair.json](./127951-realms-of-despair.json) |
 | Realms of Dr. Chaos | 268758 | [268758-realms-of-dr-chaos.json](./268758-realms-of-dr-chaos.json) |
 | Realms of Flow | 253591 | [253591-realms-of-flow.json](./253591-realms-of-flow.json) |
