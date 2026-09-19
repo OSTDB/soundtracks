@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Climber-e | 170012 | [170012-ice-climber-e.json](./170012-ice-climber-e.json) |
 | Ice Cream Mania | 234064 | [234064-ice-cream-mania.json](./234064-ice-cream-mania.json) |
 | Ice Cream Trip | 207829 | [207829-ice-cream-trip.json](./207829-ice-cream-trip.json) |
+| Ice Cream Truck | 155511 | [155511-ice-cream-truck.json](./155511-ice-cream-truck.json) |
 | Ice Cream Uncle | 88214 | [88214-ice-cream-uncle.json](./88214-ice-cream-uncle.json) |
 | Ice Crush 10.000 BC | 300725 | [300725-ice-crush-10-000-bc.json](./300725-ice-crush-10-000-bc.json) |
 | Ice Crystal Labyrinth | 82812 | [82812-ice-crystal-labyrinth.json](./82812-ice-crystal-labyrinth.json) |
@@ -1119,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Jigsaw Puzzle | 94222 | [94222-infinite-jigsaw-puzzle.json](./94222-infinite-jigsaw-puzzle.json) |
 | Infinite Jigsaw Puzzle Pack | 78010 | [78010-infinite-jigsaw-puzzle-pack.json](./78010-infinite-jigsaw-puzzle-pack.json) |
 | Infinite Jonathans | 125416 | [125416-infinite-jonathans.json](./125416-infinite-jonathans.json) |
+| Infinite Jump | 155518 | [155518-infinite-jump.json](./155518-infinite-jump.json) |
 | Infinite Knights | 256523 | [256523-infinite-knights.json](./256523-infinite-knights.json) |
 | Infinite Labyrinth | 281522 | [281522-infinite-labyrinth.json](./281522-infinite-labyrinth.json) |
 | Infinite Legend | 102755 | [102755-infinite-legend.json](./102755-infinite-legend.json) |
