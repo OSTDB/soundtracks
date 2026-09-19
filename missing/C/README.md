@@ -1976,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Grow | 363967 | [363967-chicken-grow.json](./363967-chicken-grow.json) |
 | Chicken Gun | 413002 | [413002-chicken-gun.json](./413002-chicken-gun.json) |
 | Chicken Hill | 324310 | [324310-chicken-hill.json](./324310-chicken-hill.json) |
+| Chicken Holmes: The Mystery of Bartolomeu | 163827 | [163827-chicken-holmes-the-mystery-of-bartolomeu.json](./163827-chicken-holmes-the-mystery-of-bartolomeu.json) |
 | Chicken in the Darkness | 110341 | [110341-chicken-in-the-darkness.json](./110341-chicken-in-the-darkness.json) |
 | Chicken Invaders | 11713 | [11713-chicken-invaders.json](./11713-chicken-invaders.json) |
 | Chicken Invaders 3 Xmas | 89285 | [89285-chicken-invaders-3-xmas.json](./89285-chicken-invaders-3-xmas.json) |
@@ -4443,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid '99 | 140514 | [140514-covid-99.json](./140514-covid-99.json) |
 | Covid 2069 | 167758 | [167758-covid-2069.json](./167758-covid-2069.json) |
 | Covid 23: Test Labs | 255975 | [255975-covid-23-test-labs.json](./255975-covid-23-test-labs.json) |
+| Covid Chaos | 163821 | [163821-covid-chaos.json](./163821-covid-chaos.json) |
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
 | Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
 | Cowardice | 199512 | [199512-cowardice.json](./199512-cowardice.json) |
@@ -4841,6 +4843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creep Kick | 310197 | [310197-creep-kick.json](./310197-creep-kick.json) |
 | Creep Shock | 265429 | [265429-creep-shock.json](./265429-creep-shock.json) |
 | Creeper | 179582 | [179582-creeper.json](./179582-creeper.json) |
+| Creeper Goo | 163814 | [163814-creeper-goo.json](./163814-creeper-goo.json) |
 | Creeper World | 7595 | [7595-creeper-world.json](./7595-creeper-world.json) |
 | Creeper World 2: Redemption | 66086 | [66086-creeper-world-2-redemption.json](./66086-creeper-world-2-redemption.json) |
 | Creeper World: Anniversary Edition | 34005 | [34005-creeper-world-anniversary-edition.json](./34005-creeper-world-anniversary-edition.json) |
@@ -5589,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cup of Ethanol | 249281 | [249281-cup-of-ethanol.json](./249281-cup-of-ethanol.json) |
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
 | Cupcake Clicker 4 | 231381 | [231381-cupcake-clicker-4.json](./231381-cupcake-clicker-4.json) |
+| Cupcake: an Apartment Adventure | 163818 | [163818-cupcake-an-apartment-adventure.json](./163818-cupcake-an-apartment-adventure.json) |
 | Cuphead | 237497 | [237497-cuphead.json](./237497-cuphead.json) |
 | Cupid | 253362 | [253362-cupid.json](./253362-cupid.json) |
 | Cupid Bistro!! | 72659 | [72659-cupid-bistro.json](./72659-cupid-bistro.json) |
