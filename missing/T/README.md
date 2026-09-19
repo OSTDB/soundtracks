@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Legends | 260685 | [260685-tale-of-legends.json](./260685-tale-of-legends.json) |
 | Tale of Ronin | 27750 | [27750-tale-of-ronin.json](./27750-tale-of-ronin.json) |
 | Tale of Scale | 339628 | [339628-tale-of-scale.json](./339628-tale-of-scale.json) |
+| Tale of Season | 174762 | [174762-tale-of-season.json](./174762-tale-of-season.json) |
 | Tale of Serendipity | 189056 | [189056-tale-of-serendipity.json](./189056-tale-of-serendipity.json) |
 | Tale of Swords | 113734 | [113734-tale-of-swords.json](./113734-tale-of-swords.json) |
 | Tale of Swords: Mystery Scroll | 83544 | [83544-tale-of-swords-mystery-scroll.json](./83544-tale-of-swords-mystery-scroll.json) |
@@ -5167,6 +5168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sun and Moon | 17811 | [17811-the-sun-and-moon.json](./17811-the-sun-and-moon.json) |
 | The Sun Never Sets | 38962 | [38962-the-sun-never-sets.json](./38962-the-sun-never-sets.json) |
 | The Sun Will Rise | 31833 | [31833-the-sun-will-rise.json](./31833-the-sun-will-rise.json) |
+| The Sun: Evaluation | 174761 | [174761-the-sun-evaluation.json](./174761-the-sun-evaluation.json) |
 | The Sun: Origin | 102763 | [102763-the-sun-origin.json](./102763-the-sun-origin.json) |
 | The Sundew | 151150 | [151150-the-sundew.json](./151150-the-sundew.json) |
 | The Sunset that day | 132763 | [132763-the-sunset-that-day.json](./132763-the-sunset-that-day.json) |
@@ -5605,6 +5607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Visit | 201289 | [201289-the-visit.json](./201289-the-visit.json) |
 | The Visitor | 151752 | [151752-the-visitor.json](./151752-the-visitor.json) |
 | The Visitor Effect | 348249 | [348249-the-visitor-effect.json](./348249-the-visitor-effect.json) |
+| The Visitor: Alien Worm | 174740 | [174740-the-visitor-alien-worm.json](./174740-the-visitor-alien-worm.json) |
 | The Visitor: Ep.1 - Kitty Cat Carnage | 196326 | [196326-the-visitor-ep-1-kitty-cat-carnage.json](./196326-the-visitor-ep-1-kitty-cat-carnage.json) |
 | The Visitors | 130969 | [130969-the-visitors.json](./130969-the-visitors.json) |
 | The Voice | 26291 | [26291-the-voice.json](./26291-the-voice.json) |
@@ -5794,6 +5797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Golden Eggs: Nori Nori Rhythm-kei - Nissan Note Original Version | 268205 | [268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json](./268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json) |
 | The World of Kungfu: Dragon and Eagle | 156090 | [156090-the-world-of-kungfu-dragon-and-eagle.json](./156090-the-world-of-kungfu-dragon-and-eagle.json) |
 | The World of Legend VR | 75824 | [75824-the-world-of-legend-vr.json](./75824-the-world-of-legend-vr.json) |
+| The World of Magic | 174728 | [174728-the-world-of-magic.json](./174728-the-world-of-magic.json) |
 | The World of Marius | 369581 | [369581-the-world-of-marius.json](./369581-the-world-of-marius.json) |
 | The World of Nifty Craft | 256263 | [256263-the-world-of-nifty-craft.json](./256263-the-world-of-nifty-craft.json) |
 | The World to Reverse. | 125983 | [125983-the-world-to-reverse.json](./125983-the-world-to-reverse.json) |
