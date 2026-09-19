@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Fighterz: Direct Offensive Action | 369580 | [369580-maximum-fighterz-direct-offensive-action.json](./369580-maximum-fighterz-direct-offensive-action.json) |
 | Maximum Football | 304344 | [304344-maximum-football.json](./304344-maximum-football.json) |
 | Maximum Football | 66690 | [66690-maximum-football.json](./66690-maximum-football.json) |
+| Maximum Football 2020 | 139233 | [139233-maximum-football-2020.json](./139233-maximum-football-2020.json) |
 | Maximum Force | 36573 | [36573-maximum-force.json](./36573-maximum-force.json) |
 | Maximum G-Force Coasters | 209537 | [209537-maximum-g-force-coasters.json](./209537-maximum-g-force-coasters.json) |
 | Maximum Racing: Super Truck Racer | 50603 | [50603-maximum-racing-super-truck-racer.json](./50603-maximum-racing-super-truck-racer.json) |
@@ -2653,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenary: The Second City | 15500 | [15500-mercenary-the-second-city.json](./15500-mercenary-the-second-city.json) |
 | Mercforce: 30X1 | 120380 | [120380-mercforce-30x1.json](./120380-mercforce-30x1.json) |
 | Merch Tycoon | 102138 | [102138-merch-tycoon.json](./102138-merch-tycoon.json) |
+| Merchant | 139231 | [139231-merchant.json](./139231-merchant.json) |
 | Merchant | 7714 | [7714-merchant.json](./7714-merchant.json) |
 | Merchant in Dungeon | 240788 | [240788-merchant-in-dungeon.json](./240788-merchant-in-dungeon.json) |
 | Merchant's Game | 164519 | [164519-merchants-game.json](./164519-merchants-game.json) |
@@ -5681,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museca | 57107 | [57107-museca.json](./57107-museca.json) |
 | Museum of Extravagance | 169860 | [169860-museum-of-extravagance.json](./169860-museum-of-extravagance.json) |
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
+| Museum of Mechanics: Lockpicking | 139214 | [139214-museum-of-mechanics-lockpicking.json](./139214-museum-of-mechanics-lockpicking.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
 | Museums of History | 339921 | [339921-museums-of-history.json](./339921-museums-of-history.json) |
 | Musgro Farm | 303098 | [303098-musgro-farm.json](./303098-musgro-farm.json) |
@@ -6206,9 +6209,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Tribe 3D | 223991 | [223991-my-tribe-3d.json](./223991-my-tribe-3d.json) |
 | My U.S. Trucking Skills | 316855 | [316855-my-u-s-trucking-skills.json](./316855-my-u-s-trucking-skills.json) |
 | My Uncle's Garden | 229776 | [229776-my-uncles-garden.json](./229776-my-uncles-garden.json) |
+| My Universe: Fashion Boutique | 139215 | [139215-my-universe-fashion-boutique.json](./139215-my-universe-fashion-boutique.json) |
 | My Universe: My Baby - New Edition | 170028 | [170028-my-universe-my-baby-new-edition.json](./170028-my-universe-my-baby-new-edition.json) |
 | My Universe: Pet Clinic - Cats & Dogs | 139835 | [139835-my-universe-pet-clinic-cats-and-dogs.json](./139835-my-universe-pet-clinic-cats-and-dogs.json) |
 | My Universe: Pets Edition | 221949 | [221949-my-universe-pets-edition.json](./221949-my-universe-pets-edition.json) |
+| My Universe: School Teacher | 139216 | [139216-my-universe-school-teacher.json](./139216-my-universe-school-teacher.json) |
 | My UnReal Pet | 158705 | [158705-my-unreal-pet.json](./158705-my-unreal-pet.json) |
 | My Unusual Feline Friend | 259014 | [259014-my-unusual-feline-friend.json](./259014-my-unusual-feline-friend.json) |
 | My Valiant Purpose | 278384 | [278384-my-valiant-purpose.json](./278384-my-valiant-purpose.json) |
