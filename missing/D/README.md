@@ -1877,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth Hunter 2: Treasure Hunter | 167272 | [167272-depth-hunter-2-treasure-hunter.json](./167272-depth-hunter-2-treasure-hunter.json) |
 | Depth Loop | 317854 | [317854-depth-loop.json](./317854-depth-loop.json) |
 | Depths Of Apollyon | 351123 | [351123-depths-of-apollyon.json](./351123-depths-of-apollyon.json) |
+| Depths of Betrayal | 175800 | [175800-depths-of-betrayal.json](./175800-depths-of-betrayal.json) |
 | Depths of Faveg | 318060 | [318060-depths-of-faveg.json](./318060-depths-of-faveg.json) |
 | Depths of Insanity 2 | 292321 | [292321-depths-of-insanity-2.json](./292321-depths-of-insanity-2.json) |
 | Depths of Sanity | 55071 | [55071-depths-of-sanity.json](./55071-depths-of-sanity.json) |
@@ -2089,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy the Hexons | 156129 | [156129-destroy-the-hexons.json](./156129-destroy-the-hexons.json) |
 | Destroy the Wall | 250938 | [250938-destroy-the-wall.json](./250938-destroy-the-wall.json) |
 | Destroy Your Home | 333531 | [333531-destroy-your-home.json](./333531-destroy-your-home.json) |
+| Destroyer | 175824 | [175824-destroyer.json](./175824-destroyer.json) |
 | Destroyer 7800 | 304197 | [304197-destroyer-7800.json](./304197-destroyer-7800.json) |
 | Destruct | 60511 | [60511-destruct.json](./60511-destruct.json) |
 | Destruction Derby 64 | 10686 | [10686-destruction-derby-64.json](./10686-destruction-derby-64.json) |
@@ -2207,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil of the Mirror | 182987 | [182987-devil-of-the-mirror.json](./182987-devil-of-the-mirror.json) |
 | Devil Spire Falls | 341018 | [341018-devil-spire-falls.json](./341018-devil-spire-falls.json) |
 | Devil Stone | 110329 | [110329-devil-stone.json](./110329-devil-stone.json) |
+| Devil Tears | 175789 | [175789-devil-tears.json](./175789-devil-tears.json) |
 | Devil Under Sun | 113653 | [113653-devil-under-sun.json](./113653-devil-under-sun.json) |
 | Devil World | 4612 | [4612-devil-world.json](./4612-devil-world.json) |
 | Devil World | 55212 | [55212-devil-world.json](./55212-devil-world.json) |
@@ -3808,6 +3811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Cubes | 34727 | [34727-double-cubes.json](./34727-double-cubes.json) |
 | Double Damnation | 213981 | [213981-double-damnation.json](./213981-double-damnation.json) |
 | Double Dealers | 403675 | [403675-double-dealers.json](./403675-double-dealers.json) |
+| Double Dragon | 175799 | [175799-double-dragon.json](./175799-double-dragon.json) |
 | Double Dragon | 200154 | [200154-double-dragon.json](./200154-double-dragon.json) |
 | Double Dragon | 201319 | [201319-double-dragon.json](./201319-double-dragon.json) |
 | Double Dragon | 201322 | [201322-double-dragon.json](./201322-double-dragon.json) |
@@ -5150,6 +5154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonette for Apple Watch | 197751 | [197751-dungeonette-for-apple-watch.json](./197751-dungeonette-for-apple-watch.json) |
 | Dungeonfield | 331961 | [331961-dungeonfield.json](./331961-dungeonfield.json) |
 | Dungeonlike | 183574 | [183574-dungeonlike.json](./183574-dungeonlike.json) |
+| Dungeonlite Duelers | 175836 | [175836-dungeonlite-duelers.json](./175836-dungeonlite-duelers.json) |
 | Dungeonoid 2: Awakening | 282152 | [282152-dungeonoid-2-awakening.json](./282152-dungeonoid-2-awakening.json) |
 | Dungeonpreneur | 274033 | [274033-dungeonpreneur.json](./274033-dungeonpreneur.json) |
 | Dungeonrite | 203941 | [203941-dungeonrite.json](./203941-dungeonrite.json) |
