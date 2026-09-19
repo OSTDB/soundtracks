@@ -1687,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
 | Sentient | 227966 | [227966-sentient.json](./227966-sentient.json) |
 | Sentient Noir | 219618 | [219618-sentient-noir.json](./219618-sentient-noir.json) |
+| Sentient: Arena Mech Royale | 130758 | [130758-sentient-arena-mech-royale.json](./130758-sentient-arena-mech-royale.json) |
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
 | Sentimental Journey | 268036 | [268036-sentimental-journey.json](./268036-sentimental-journey.json) |
 | Sentinel | 153840 | [153840-sentinel.json](./153840-sentinel.json) |
@@ -2262,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Escape | 89752 | [89752-shape-escape.json](./89752-shape-escape.json) |
 | Shape Invasion | 317445 | [317445-shape-invasion.json](./317445-shape-invasion.json) |
 | Shape of Clouds | 279115 | [279115-shape-of-clouds.json](./279115-shape-of-clouds.json) |
+| Shape Palette | 130779 | [130779-shape-palette.json](./130779-shape-palette.json) |
 | Shape Shift Shawn: Episode 1 - Tale of the Transmogrified | 171567 | [171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json](./171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json) |
 | Shape Shifter | 323525 | [323525-shape-shifter.json](./323525-shape-shifter.json) |
 | Shape Shuffle: A Shape Saga | 262066 | [262066-shape-shuffle-a-shape-saga.json](./262066-shape-shuffle-a-shape-saga.json) |
@@ -2880,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShortStacked | 183958 | [183958-shortstacked.json](./183958-shortstacked.json) |
 | Shot & Dread Online | 293214 | [293214-shot-and-dread-online.json](./293214-shot-and-dread-online.json) |
 | Shot Dawn | 197355 | [197355-shot-dawn.json](./197355-shot-dawn.json) |
+| Shot One | 130767 | [130767-shot-one.json](./130767-shot-one.json) |
 | Shot Online | 20574 | [20574-shot-online.json](./20574-shot-online.json) |
 | Shot Online: Golf Battle | 233119 | [233119-shot-online-golf-battle.json](./233119-shot-online-golf-battle.json) |
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
@@ -3307,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 16: The Pachislot | 209499 | [209499-simple-1500-series-vol-16-the-pachislot.json](./209499-simple-1500-series-vol-16-the-pachislot.json) |
 | Simple 1500 Series Vol. 42: The Igo 2 | 82129 | [82129-simple-1500-series-vol-42-the-igo-2.json](./82129-simple-1500-series-vol-42-the-igo-2.json) |
 | Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
+| Simple 1500 Series Vol. 65: The Golf | 130774 | [130774-simple-1500-series-vol-65-the-golf.json](./130774-simple-1500-series-vol-65-the-golf.json) |
 | Simple 1500 Series Vol. 77: The Suiei | 209500 | [209500-simple-1500-series-vol-77-the-suiei.json](./209500-simple-1500-series-vol-77-the-suiei.json) |
 | Simple 2000 Hello Kitty Series Vol. 2: Minna de Sugoroku | 203350 | [203350-simple-2000-hello-kitty-series-vol-2-minna-de-sugoroku.json](./203350-simple-2000-hello-kitty-series-vol-2-minna-de-sugoroku.json) |
 | Simple 2000 Honkaku Shikou Vol.001: The Shogi | 203343 | [203343-simple-2000-honkaku-shikou-vol-001-the-shogi.json](./203343-simple-2000-honkaku-shikou-vol-001-the-shogi.json) |
@@ -4854,6 +4858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer: Kick the Goal | 245404 | [245404-soccer-kick-the-goal.json](./245404-soccer-kick-the-goal.json) |
 | Soccerholix | 93577 | [93577-soccerholix.json](./93577-soccerholix.json) |
 | Soccering | 115041 | [115041-soccering.json](./115041-soccering.json) |
+| Social Club VR : Casino Nights | 130746 | [130746-social-club-vr-casino-nights.json](./130746-social-club-vr-casino-nights.json) |
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
 | Social Hook | 333000 | [333000-social-hook.json](./333000-social-hook.json) |
 | Social Interaction Trainer | 31531 | [31531-social-interaction-trainer.json](./31531-social-interaction-trainer.json) |
@@ -6861,6 +6866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: The Patrick Star Game | 314939 | [314939-spongebob-squarepants-the-patrick-star-game.json](./314939-spongebob-squarepants-the-patrick-star-game.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
 | SpongeBob: Bubble Pop F.U.N. | 320381 | [320381-spongebob-bubble-pop-f-u-n.json](./320381-spongebob-bubble-pop-f-u-n.json) |
+| SpongeBob: Krusty Cook-Off | 130748 | [130748-spongebob-krusty-cook-off.json](./130748-spongebob-krusty-cook-off.json) |
 | SpongeBob's Atlantis Squarepantis | 221834 | [221834-spongebobs-atlantis-squarepantis.json](./221834-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
 | SpongeBob's Game Frenzy | 88949 | [88949-spongebobs-game-frenzy.json](./88949-spongebobs-game-frenzy.json) |
@@ -8533,6 +8539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strato Supremacy | 245853 | [245853-strato-supremacy.json](./245853-strato-supremacy.json) |
 | Stratos | 24896 | [24896-stratos.json](./24896-stratos.json) |
 | Stratosphere Defense | 197856 | [197856-stratosphere-defense.json](./197856-stratosphere-defense.json) |
+| Stratside | 130780 | [130780-stratside.json](./130780-stratside.json) |
 | Stratum | 74319 | [74319-stratum.json](./74319-stratum.json) |
 | Stratum Descent | 279015 | [279015-stratum-descent.json](./279015-stratum-descent.json) |
 | Straw Path | 416675 | [416675-straw-path.json](./416675-straw-path.json) |
@@ -9481,6 +9488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cross Kings | 54412 | [54412-super-cross-kings.json](./54412-super-cross-kings.json) |
 | Super Crossfire | 65448 | [65448-super-crossfire.json](./65448-super-crossfire.json) |
 | Super Crypto Kart | 138748 | [138748-super-crypto-kart.json](./138748-super-crypto-kart.json) |
+| Super Cubo | 130737 | [130737-super-cubo.json](./130737-super-cubo.json) |
 | Super Dany | 42658 | [42658-super-dany.json](./42658-super-dany.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
 | Super Dark Deception | 224549 | [224549-super-dark-deception.json](./224549-super-dark-deception.json) |
