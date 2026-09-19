@@ -4288,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Super Pass | 117656 | [117656-dragon-ball-xenoverse-2-super-pass.json](./117656-dragon-ball-xenoverse-2-super-pass.json) |
 | Dragon Ball: Xenoverse 2 - Ultra Pack 1 | 168742 | [168742-dragon-ball-xenoverse-2-ultra-pack-1.json](./168742-dragon-ball-xenoverse-2-ultra-pack-1.json) |
 | Dragon Ball: Xenoverse 2: Special Edition | 271831 | [271831-dragon-ball-xenoverse-2-special-edition.json](./271831-dragon-ball-xenoverse-2-special-edition.json) |
+| Dragon Banner | 130162 | [130162-dragon-banner.json](./130162-dragon-banner.json) |
 | Dragon Battle | 102165 | [102165-dragon-battle.json](./102165-dragon-battle.json) |
 | Dragon Beat: Legend of Pinball | 73754 | [73754-dragon-beat-legend-of-pinball.json](./73754-dragon-beat-legend-of-pinball.json) |
 | Dragon Blast: Crazy Action Super Hero Game | 159808 | [159808-dragon-blast-crazy-action-super-hero-game.json](./159808-dragon-blast-crazy-action-super-hero-game.json) |
@@ -4851,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Dangerously! | 411661 | [411661-drive-dangerously.json](./411661-drive-dangerously.json) |
 | Drive Drift X | 187487 | [187487-drive-drift-x.json](./187487-drive-drift-x.json) |
 | Drive for Your Life | 116722 | [116722-drive-for-your-life.json](./116722-drive-for-your-life.json) |
+| Drive Forward | 130163 | [130163-drive-forward.json](./130163-drive-forward.json) |
 | Drive Mad | 371327 | [371327-drive-mad.json](./371327-drive-mad.json) |
 | Drive Me Broke | 373107 | [373107-drive-me-broke.json](./373107-drive-me-broke.json) |
 | Drive Me to Hell | 253969 | [253969-drive-me-to-hell.json](./253969-drive-me-to-hell.json) |
