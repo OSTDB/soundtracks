@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Crush Jewels | 90679 | [90679-tap-crush-jewels.json](./90679-tap-crush-jewels.json) |
 | Tap Dash | 252140 | [252140-tap-dash.json](./252140-tap-dash.json) |
 | Tap It Away | 304169 | [304169-tap-it-away.json](./304169-tap-it-away.json) |
+| Tap Jockey | 175260 | [175260-tap-jockey.json](./175260-tap-jockey.json) |
 | Tap knife VIP | 105959 | [105959-tap-knife-vip.json](./105959-tap-knife-vip.json) |
 | Tap Master | 239038 | [239038-tap-master.json](./239038-tap-master.json) |
 | Tap Master: Mondrian | 333581 | [333581-tap-master-mondrian.json](./333581-tap-master-mondrian.json) |
@@ -805,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TappyLoop | 307612 | [307612-tappyloop.json](./307612-tappyloop.json) |
 | TapRacer | 415146 | [415146-tapracer.json](./415146-tapracer.json) |
 | TapRPG: The Second One | 107888 | [107888-taprpg-the-second-one.json](./107888-taprpg-the-second-one.json) |
+| Taps: Beautifully Simple | 175267 | [175267-taps-beautifully-simple.json](./175267-taps-beautifully-simple.json) |
 | Tapsonic Bold | 110700 | [110700-tapsonic-bold.json](./110700-tapsonic-bold.json) |
 | TapTapBadger | 262353 | [262353-taptapbadger.json](./262353-taptapbadger.json) |
 | Taptiles | 79856 | [79856-taptiles.json](./79856-taptiles.json) |
@@ -4980,6 +4982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
 | The Simulacrum | 230858 | [230858-the-simulacrum.json](./230858-the-simulacrum.json) |
 | The Simuloid Affair: Infinite Possibilities | 300692 | [300692-the-simuloid-affair-infinite-possibilities.json](./300692-the-simuloid-affair-infinite-possibilities.json) |
+| The Sinister Fairground: Horror Adventure Gamebook | 175303 | [175303-the-sinister-fairground-horror-adventure-gamebook.json](./175303-the-sinister-fairground-horror-adventure-gamebook.json) |
 | The Sink Gods | 175884 | [175884-the-sink-gods.json](./175884-the-sink-gods.json) |
 | The Sinking City 2 | 289696 | [289696-the-sinking-city-2.json](./289696-the-sinking-city-2.json) |
 | The Sinking City Remastered | 343363 | [343363-the-sinking-city-remastered.json](./343363-the-sinking-city-remastered.json) |
@@ -6326,6 +6329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
 | Tide: 1927 | 368034 | [368034-tide-1927.json](./368034-tide-1927.json) |
 | Tides of the Endless | 345037 | [345037-tides-of-the-endless.json](./345037-tides-of-the-endless.json) |
+| Tides of Time: The Board Game | 175284 | [175284-tides-of-time-the-board-game.json](./175284-tides-of-time-the-board-game.json) |
 | Tides of Tomorrow | 305036 | [305036-tides-of-tomorrow.json](./305036-tides-of-tomorrow.json) |
 | Tides of Tomorrow: Delta Agent Pack | 399091 | [399091-tides-of-tomorrow-delta-agent-pack.json](./399091-tides-of-tomorrow-delta-agent-pack.json) |
 | Tides of War | 206790 | [206790-tides-of-war.json](./206790-tides-of-war.json) |
@@ -9672,6 +9676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Days to the Race | 304179 | [304179-two-days-to-the-race.json](./304179-two-days-to-the-race.json) |
 | Two Die | 142501 | [142501-two-die.json](./142501-two-die.json) |
 | Two Doors | 305928 | [305928-two-doors.json](./305928-two-doors.json) |
+| Two Eyes | 175271 | [175271-two-eyes.json](./175271-two-eyes.json) |
 | Two Eyes: Nonogram | 292820 | [292820-two-eyes-nonogram.json](./292820-two-eyes-nonogram.json) |
 | Two Faced | 300719 | [300719-two-faced.json](./300719-two-faced.json) |
 | Two Girls Make a Game | 178536 | [178536-two-girls-make-a-game.json](./178536-two-girls-make-a-game.json) |
