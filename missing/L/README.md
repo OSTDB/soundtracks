@@ -1636,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines 3D | 140567 | [140567-lines-3d.json](./140567-lines-3d.json) |
 | Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
 | Lines on Sides | 174224 | [174224-lines-on-sides.json](./174224-lines-on-sides.json) |
+| Lines Splitter | 142876 | [142876-lines-splitter.json](./142876-lines-splitter.json) |
 | Lines X Free | 107263 | [107263-lines-x-free.json](./107263-lines-x-free.json) |
 | Linesgo | 326092 | [326092-linesgo.json](./326092-linesgo.json) |
 | LineWars II | 69230 | [69230-linewars-ii.json](./69230-linewars-ii.json) |
