@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T05:32:36.768Z",
-  "total_missing": 90821,
+  "generated_at": "2026-09-19T05:47:28.491Z",
+  "total_missing": 90871,
   "games": [
     {
       "igdb_id": 176875,
@@ -23236,6 +23236,11 @@
       "igdb_id": 296492,
       "game_name": "Assassins Unleashed: The Apocalypse",
       "file": "missing/A/296492-assassins-unleashed-the-apocalypse.json"
+    },
+    {
+      "igdb_id": 168221,
+      "game_name": "Assau!t",
+      "file": "missing/A/168221-assau-t.json"
     },
     {
       "igdb_id": 350993,
@@ -51208,6 +51213,11 @@
       "file": "missing/B/210285-bubble-tanks.json"
     },
     {
+      "igdb_id": 168246,
+      "game_name": "Bubble Tea: Game for Thinking and Imagination - Escape",
+      "file": "missing/B/168246-bubble-tea-game-for-thinking-and-imagination-escape.json"
+    },
+    {
       "igdb_id": 314478,
       "game_name": "Bubble Tower 3D",
       "file": "missing/B/314478-bubble-tower-3d.json"
@@ -53491,6 +53501,11 @@
       "igdb_id": 391582,
       "game_name": "Butcher Life Simulator",
       "file": "missing/B/391582-butcher-life-simulator.json"
+    },
+    {
+      "igdb_id": 168216,
+      "game_name": "Butcher Valley",
+      "file": "missing/B/168216-butcher-valley.json"
     },
     {
       "igdb_id": 260119,
@@ -68256,6 +68271,11 @@
       "igdb_id": 173834,
       "game_name": "ClickCells: Summer",
       "file": "missing/C/173834-clickcells-summer.json"
+    },
+    {
+      "igdb_id": 168213,
+      "game_name": "ClickCells: Winter Lady",
+      "file": "missing/C/168213-clickcells-winter-lady.json"
     },
     {
       "igdb_id": 413740,
@@ -109203,6 +109223,16 @@
       "file": "missing/D/200585-dungeon-of-the-damned.json"
     },
     {
+      "igdb_id": 168244,
+      "game_name": "Dungeon of the Endless: Deep Freeze",
+      "file": "missing/D/168244-dungeon-of-the-endless-deep-freeze.json"
+    },
+    {
+      "igdb_id": 168245,
+      "game_name": "Dungeon of the Endless: Rescue Team",
+      "file": "missing/D/168245-dungeon-of-the-endless-rescue-team.json"
+    },
+    {
       "igdb_id": 72637,
       "game_name": "Dungeon of Windaria",
       "file": "missing/D/72637-dungeon-of-windaria.json"
@@ -111058,9 +111088,29 @@
       "file": "missing/E/57020-earth-defense-force-4-1-wing-diver-the-shooter.json"
     },
     {
+      "igdb_id": 168224,
+      "game_name": "Earth Defense Force 4.1: Wing Diver the Shooter - Training Mode",
+      "file": "missing/E/168224-earth-defense-force-4-1-wing-diver-the-shooter-training-mode.json"
+    },
+    {
+      "igdb_id": 168230,
+      "game_name": "Earth Defense Force 5: Air Raider Weapon Singing and Dancing Pure Decoy Launcher Set of 8",
+      "file": "missing/E/168230-earth-defense-force-5-air-raider-weapon-singing-and-dancing-pure-decoy-launcher-set-of-8.json"
+    },
+    {
       "igdb_id": 118953,
       "game_name": "Earth Defense Force 5: Deluxe Edition",
       "file": "missing/E/118953-earth-defense-force-5-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 168223,
+      "game_name": "Earth Defense Force 5: Mission Pack 2 - Super Challenge",
+      "file": "missing/E/168223-earth-defense-force-5-mission-pack-2-super-challenge.json"
+    },
+    {
+      "igdb_id": 168236,
+      "game_name": "Earth Defense Force 5: Ranger Weapon Decoy Launcher (Pale Wing)",
+      "file": "missing/E/168236-earth-defense-force-5-ranger-weapon-decoy-launcher-pale-wing.json"
     },
     {
       "igdb_id": 319369,
@@ -111083,14 +111133,69 @@
       "file": "missing/E/226813-earth-defense-force-insect-armageddon-trooper-special-issue-enforcer-package.json"
     },
     {
+      "igdb_id": 168233,
+      "game_name": "Earth Defense Force: Iron Rain - Mission: Golden Storm",
+      "file": "missing/E/168233-earth-defense-force-iron-rain-mission-golden-storm.json"
+    },
+    {
       "igdb_id": 139067,
       "game_name": "Earth Defense Force: World Brothers",
       "file": "missing/E/139067-earth-defense-force-world-brothers.json"
     },
     {
+      "igdb_id": 168232,
+      "game_name": "Earth Defense Force: World Brothers - Additional Character: Riho Futaba, Classic Hostess Costume",
+      "file": "missing/E/168232-earth-defense-force-world-brothers-additional-character-riho-futaba-classic-hostess-costume.json"
+    },
+    {
+      "igdb_id": 168237,
+      "game_name": "Earth Defense Force: World Brothers - Additional Mission Pack: Another Rescube",
+      "file": "missing/E/168237-earth-defense-force-world-brothers-additional-mission-pack-another-rescube.json"
+    },
+    {
+      "igdb_id": 168225,
+      "game_name": "Earth Defense Force: World Brothers - Aya, the Calm Big Sister Swordswoman from \"OneeChanbara\"",
+      "file": "missing/E/168225-earth-defense-force-world-brothers-aya-the-calm-big-sister-swordswoman-from-oneechanbara.json"
+    },
+    {
+      "igdb_id": 168229,
+      "game_name": "Earth Defense Force: World Brothers - Colonist: \"We'll Help, If It Means Saving the Planet\"!?",
+      "file": "missing/E/168229-earth-defense-force-world-brothers-colonist-well-help-if-it-means-saving-the-planet.json"
+    },
+    {
       "igdb_id": 222503,
       "game_name": "Earth Defense Force: World Brothers - Deluxe Edition",
       "file": "missing/E/222503-earth-defense-force-world-brothers-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 168234,
+      "game_name": "Earth Defense Force: World Brothers - Hostess ILI from Dream Club, Giving the EDF a Try!?",
+      "file": "missing/E/168234-earth-defense-force-world-brothers-hostess-ili-from-dream-club-giving-the-edf-a-try.json"
+    },
+    {
+      "igdb_id": 168231,
+      "game_name": "Earth Defense Force: World Brothers - Hostess Mian from Dream Club, Giving the EDF a Try!?",
+      "file": "missing/E/168231-earth-defense-force-world-brothers-hostess-mian-from-dream-club-giving-the-edf-a-try.json"
+    },
+    {
+      "igdb_id": 168226,
+      "game_name": "Earth Defense Force: World Brothers - Hostess Setsu from Dream Club, Giving the EDF a Try!?",
+      "file": "missing/E/168226-earth-defense-force-world-brothers-hostess-setsu-from-dream-club-giving-the-edf-a-try.json"
+    },
+    {
+      "igdb_id": 168227,
+      "game_name": "Earth Defense Force: World Brothers - Prowl Rider (EDF: IR), KR Prototype & Special Gear",
+      "file": "missing/E/168227-earth-defense-force-world-brothers-prowl-rider-edf-ir-kr-prototype-and-special-gear.json"
+    },
+    {
+      "igdb_id": 168228,
+      "game_name": "Earth Defense Force: World Brothers - Saki, the Crazed Little Sister Swordswoman from \"OneeChanbara\"",
+      "file": "missing/E/168228-earth-defense-force-world-brothers-saki-the-crazed-little-sister-swordswoman-from-oneechanbara.json"
+    },
+    {
+      "igdb_id": 168235,
+      "game_name": "Earth Defense Force: World Brothers - The Legendary Mr. Y, Reborn as \"Mecha Yuki\" After His Acid Incident!?",
+      "file": "missing/E/168235-earth-defense-force-world-brothers-the-legendary-mr-y-reborn-as-mecha-yuki-after-his-acid-incident.json"
     },
     {
       "igdb_id": 325435,
@@ -113576,6 +113681,11 @@
       "igdb_id": 128613,
       "game_name": "Electric Tortoise",
       "file": "missing/E/128613-electric-tortoise.json"
+    },
+    {
+      "igdb_id": 168238,
+      "game_name": "Electrified",
+      "file": "missing/E/168238-electrified.json"
     },
     {
       "igdb_id": 323960,
@@ -162053,6 +162163,16 @@
       "file": "missing/H/97918-hardcore-dirt-bike-2.json"
     },
     {
+      "igdb_id": 168211,
+      "game_name": "Hardcore Mecha: Graeme",
+      "file": "missing/H/168211-hardcore-mecha-graeme.json"
+    },
+    {
+      "igdb_id": 168212,
+      "game_name": "Hardcore Mecha: Shepherd Jaeger",
+      "file": "missing/H/168212-hardcore-mecha-shepherd-jaeger.json"
+    },
+    {
       "igdb_id": 119765,
       "game_name": "Hardcore Parkour",
       "file": "missing/H/119765-hardcore-parkour.json"
@@ -195211,6 +195331,11 @@
       "igdb_id": 324293,
       "game_name": "Kana Seito Defense",
       "file": "missing/K/324293-kana-seito-defense.json"
+    },
+    {
+      "igdb_id": 168215,
+      "game_name": "Kanamono",
+      "file": "missing/K/168215-kanamono.json"
     },
     {
       "igdb_id": 310719,
@@ -230763,6 +230888,16 @@
       "file": "missing/M/12898-men-in-black-the-game.json"
     },
     {
+      "igdb_id": 168218,
+      "game_name": "Men of War: Assault Squad 2 - Airborne",
+      "file": "missing/M/168218-men-of-war-assault-squad-2-airborne.json"
+    },
+    {
+      "igdb_id": 168217,
+      "game_name": "Men of War: Assault Squad 2 - Ostfront Veteranen",
+      "file": "missing/M/168217-men-of-war-assault-squad-2-ostfront-veteranen.json"
+    },
+    {
       "igdb_id": 52590,
       "game_name": "Men's Room Mayhem",
       "file": "missing/M/52590-mens-room-mayhem.json"
@@ -236823,6 +236958,11 @@
       "file": "missing/M/363939-mir.json"
     },
     {
+      "igdb_id": 168222,
+      "game_name": "Mira and the Mysteries of Alchemy",
+      "file": "missing/M/168222-mira-and-the-mysteries-of-alchemy.json"
+    },
+    {
       "igdb_id": 208462,
       "game_name": "Mira: A Bird's Flight",
       "file": "missing/M/208462-mira-a-birds-flight.json"
@@ -241081,6 +241221,11 @@
       "igdb_id": 362366,
       "game_name": "Monster Salon Manager",
       "file": "missing/M/362366-monster-salon-manager.json"
+    },
+    {
+      "igdb_id": 168219,
+      "game_name": "Monster Seek",
+      "file": "missing/M/168219-monster-seek.json"
     },
     {
       "igdb_id": 108951,
@@ -247346,6 +247491,56 @@
       "igdb_id": 259811,
       "game_name": "My Hero One's Justice 2: Cheerleader Costumes Bundle",
       "file": "missing/M/259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json"
+    },
+    {
+      "igdb_id": 168260,
+      "game_name": "My Hero One's Justice 2: DLC Pack 1 - Hawks",
+      "file": "missing/M/168260-my-hero-ones-justice-2-dlc-pack-1-hawks.json"
+    },
+    {
+      "igdb_id": 168259,
+      "game_name": "My Hero One's Justice 2: DLC Pack 2 - Mei Hatsume",
+      "file": "missing/M/168259-my-hero-ones-justice-2-dlc-pack-2-mei-hatsume.json"
+    },
+    {
+      "igdb_id": 168258,
+      "game_name": "My Hero One's Justice 2: DLC Pack 3 - Itsuka Kendo",
+      "file": "missing/M/168258-my-hero-ones-justice-2-dlc-pack-3-itsuka-kendo.json"
+    },
+    {
+      "igdb_id": 168261,
+      "game_name": "My Hero One's Justice 2: DLC Pack 4 - Tetsutetsu Tetsutetsu",
+      "file": "missing/M/168261-my-hero-ones-justice-2-dlc-pack-4-tetsutetsu-tetsutetsu.json"
+    },
+    {
+      "igdb_id": 168257,
+      "game_name": "My Hero One's Justice 2: DLC Pack 5 - Gentle & La Brava",
+      "file": "missing/M/168257-my-hero-ones-justice-2-dlc-pack-5-gentle-and-la-brava.json"
+    },
+    {
+      "igdb_id": 168256,
+      "game_name": "My Hero One's Justice: Additional Mission - Gale",
+      "file": "missing/M/168256-my-hero-ones-justice-additional-mission-gale.json"
+    },
+    {
+      "igdb_id": 168253,
+      "game_name": "My Hero One's Justice: Mission - Above and Beyond Endeavor",
+      "file": "missing/M/168253-my-hero-ones-justice-mission-above-and-beyond-endeavor.json"
+    },
+    {
+      "igdb_id": 168254,
+      "game_name": "My Hero One's Justice: Mission - O.F.A Deku Shoot Style",
+      "file": "missing/M/168254-my-hero-ones-justice-mission-o-f-a-deku-shoot-style.json"
+    },
+    {
+      "igdb_id": 168255,
+      "game_name": "My Hero One's Justice: Playable Character - Inasa Yoarashi",
+      "file": "missing/M/168255-my-hero-ones-justice-playable-character-inasa-yoarashi.json"
+    },
+    {
+      "igdb_id": 168252,
+      "game_name": "My Hero One's Justice: Playable Character - Pro Hero Endeavor",
+      "file": "missing/M/168252-my-hero-ones-justice-playable-character-pro-hero-endeavor.json"
     },
     {
       "igdb_id": 206773,
@@ -283178,9 +283373,29 @@
       "file": "missing/P/331854-planet-coaster-2-deluxe-edition.json"
     },
     {
+      "igdb_id": 168240,
+      "game_name": "Planet Coaster: Back to the Future Time Machine Construction Kit",
+      "file": "missing/P/168240-planet-coaster-back-to-the-future-time-machine-construction-kit.json"
+    },
+    {
       "igdb_id": 173162,
       "game_name": "Planet Coaster: Deluxe Rides Collection",
       "file": "missing/P/173162-planet-coaster-deluxe-rides-collection.json"
+    },
+    {
+      "igdb_id": 168239,
+      "game_name": "Planet Coaster: Knight Rider K.I.T.T. Construction Kit",
+      "file": "missing/P/168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json"
+    },
+    {
+      "igdb_id": 168241,
+      "game_name": "Planet Coaster: Quick Draw Interactive Shooting Ride",
+      "file": "missing/P/168241-planet-coaster-quick-draw-interactive-shooting-ride.json"
+    },
+    {
+      "igdb_id": 168242,
+      "game_name": "Planet Coaster: The Munsters Munster Koach Construction Kit",
+      "file": "missing/P/168242-planet-coaster-the-munsters-munster-koach-construction-kit.json"
     },
     {
       "igdb_id": 193423,
@@ -317688,6 +317903,31 @@
       "file": "missing/S/39692-s-t-g-strike-gunner.json"
     },
     {
+      "igdb_id": 168247,
+      "game_name": "S.U.M. Slay Uncool Monsters: Archer",
+      "file": "missing/S/168247-s-u-m-slay-uncool-monsters-archer.json"
+    },
+    {
+      "igdb_id": 168248,
+      "game_name": "S.U.M. Slay Uncool Monsters: Assassin",
+      "file": "missing/S/168248-s-u-m-slay-uncool-monsters-assassin.json"
+    },
+    {
+      "igdb_id": 168250,
+      "game_name": "S.U.M. Slay Uncool Monsters: Paladin",
+      "file": "missing/S/168250-s-u-m-slay-uncool-monsters-paladin.json"
+    },
+    {
+      "igdb_id": 168251,
+      "game_name": "S.U.M. Slay Uncool Monsters: Rogue",
+      "file": "missing/S/168251-s-u-m-slay-uncool-monsters-rogue.json"
+    },
+    {
+      "igdb_id": 168249,
+      "game_name": "S.U.M. Slay Uncool Monsters: Wizard",
+      "file": "missing/S/168249-s-u-m-slay-uncool-monsters-wizard.json"
+    },
+    {
       "igdb_id": 213463,
       "game_name": "S4Game",
       "file": "missing/S/213463-s4game.json"
@@ -341221,6 +341461,11 @@
       "igdb_id": 308565,
       "game_name": "Sokoban World",
       "file": "missing/S/308565-sokoban-world.json"
+    },
+    {
+      "igdb_id": 168220,
+      "game_name": "Sokoban: Bunny Tales",
+      "file": "missing/S/168220-sokoban-bunny-tales.json"
     },
     {
       "igdb_id": 219591,
@@ -435796,6 +436041,11 @@
       "igdb_id": 310212,
       "game_name": "Watch",
       "file": "missing/W/310212-watch.json"
+    },
+    {
+      "igdb_id": 168214,
+      "game_name": "Watch Dogs 2: Zodiac Killer",
+      "file": "missing/W/168214-watch-dogs-2-zodiac-killer.json"
     },
     {
       "igdb_id": 17473,
