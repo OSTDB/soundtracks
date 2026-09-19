@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warehouse Simulator | 377156 | [377156-warehouse-simulator.json](./377156-warehouse-simulator.json) |
 | Warehouse Simulator: Forklift Driver | 190070 | [190070-warehouse-simulator-forklift-driver.json](./190070-warehouse-simulator-forklift-driver.json) |
 | Warehuman | 201685 | [201685-warehuman.json](./201685-warehuman.json) |
+| Warera Mitsurin Tankentai!! | 179034 | [179034-warera-mitsurin-tankentai.json](./179034-warera-mitsurin-tankentai.json) |
 | Warface: Global Operations | 172778 | [172778-warface-global-operations.json](./172778-warface-global-operations.json) |
 | Warfare 1917 | 61588 | [61588-warfare-1917.json](./61588-warfare-1917.json) |
 | Warfare 1944 | 103393 | [103393-warfare-1944.json](./103393-warfare-1944.json) |
