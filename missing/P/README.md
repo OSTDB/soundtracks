@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palace of Woe | 134683 | [134683-palace-of-woe.json](./134683-palace-of-woe.json) |
 | Paladin II | 70354 | [70354-paladin-ii.json](./70354-paladin-ii.json) |
 | Paladin's Oath | 190739 | [190739-paladins-oath.json](./190739-paladins-oath.json) |
+| Paladin's Quest | 166057 | [166057-paladins-quest.json](./166057-paladins-quest.json) |
 | Paladins: Feathered Fiend Pack | 263482 | [263482-paladins-feathered-fiend-pack.json](./263482-paladins-feathered-fiend-pack.json) |
 | Paladins: Season 4 Champions Bundle | 263484 | [263484-paladins-season-4-champions-bundle.json](./263484-paladins-season-4-champions-bundle.json) |
 | Palais de Reine | 130397 | [130397-palais-de-reine.json](./130397-palais-de-reine.json) |
@@ -758,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parmesan | 184080 | [184080-parmesan.json](./184080-parmesan.json) |
 | Paro Paro | 151646 | [151646-paro-paro.json](./151646-paro-paro.json) |
 | Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
+| Parquet | 166063 | [166063-parquet.json](./166063-parquet.json) |
 | Parrot | 186827 | [186827-parrot.json](./186827-parrot.json) |
 | Parry King | 263044 | [263044-parry-king.json](./263044-parry-king.json) |
 | Parse Ally | 114442 | [114442-parse-ally.json](./114442-parse-ally.json) |
@@ -5072,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Book: Furry Friends Bundle | 223564 | [223564-puzzle-book-furry-friends-bundle.json](./223564-puzzle-book-furry-friends-bundle.json) |
 | Puzzle Book: Summer 2020 | 238036 | [238036-puzzle-book-summer-2020.json](./238036-puzzle-book-summer-2020.json) |
 | Puzzle Bowling | 158143 | [158143-puzzle-bowling.json](./158143-puzzle-bowling.json) |
+| Puzzle Box | 166072 | [166072-puzzle-box.json](./166072-puzzle-box.json) |
 | Puzzle Box Maker | 84795 | [84795-puzzle-box-maker.json](./84795-puzzle-box-maker.json) |
 | Puzzle Box-Puzzles All In One | 104608 | [104608-puzzle-box-puzzles-all-in-one.json](./104608-puzzle-box-puzzles-all-in-one.json) |
 | Puzzle Boys | 41393 | [41393-puzzle-boys.json](./41393-puzzle-boys.json) |
