@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack And Slash Fury: Sorcerer Armor | 334522 | [334522-hack-and-slash-fury-sorcerer-armor.json](./334522-hack-and-slash-fury-sorcerer-armor.json) |
 | Hack And Slash Fury: War Armor | 334523 | [334523-hack-and-slash-fury-war-armor.json](./334523-hack-and-slash-fury-war-armor.json) |
 | Hack FPS | 151715 | [151715-hack-fps.json](./151715-hack-fps.json) |
+| Hack Grid | 169852 | [169852-hack-grid.json](./169852-hack-grid.json) |
 | Hack Match | 143035 | [143035-hack-match.json](./143035-hack-match.json) |
 | Hack Run | 16323 | [16323-hack-run.json](./16323-hack-run.json) |
 | Hack the Planet | 220339 | [220339-hack-the-planet.json](./220339-hack-the-planet.json) |
@@ -389,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanerutchi | 229961 | [229961-hanerutchi.json](./229961-hanerutchi.json) |
 | Hanerutchi 2 | 229962 | [229962-hanerutchi-2.json](./229962-hanerutchi-2.json) |
 | Hang Gliding: VR Experience | 243220 | [243220-hang-gliding-vr-experience.json](./243220-hang-gliding-vr-experience.json) |
+| Hang On | 169892 | [169892-hang-on.json](./169892-hang-on.json) |
 | Hang up Street | 333092 | [333092-hang-up-street.json](./333092-hang-up-street.json) |
 | Hang-On | 364569 | [364569-hang-on.json](./364569-hang-on.json) |
 | Hang-On | 364571 | [364571-hang-on.json](./364571-hang-on.json) |
@@ -561,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Dirt Bike 2 | 97918 | [97918-hardcore-dirt-bike-2.json](./97918-hardcore-dirt-bike-2.json) |
 | Hardcore Parkour | 119765 | [119765-hardcore-parkour.json](./119765-hardcore-parkour.json) |
 | Hardcore Soldier | 406214 | [406214-hardcore-soldier.json](./406214-hardcore-soldier.json) |
+| Hardcore Trivia | 169848 | [169848-hardcore-trivia.json](./169848-hardcore-trivia.json) |
 | HardDriverz | 365150 | [365150-harddriverz.json](./365150-harddriverz.json) |
 | Harder | 334707 | [334707-harder.json](./334707-harder.json) |
 | Hardfest 2 | 280906 | [280906-hardfest-2.json](./280906-hardfest-2.json) |
@@ -905,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Soccer | 260094 | [260094-head-soccer.json](./260094-head-soccer.json) |
 | Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
 | Headache | 182372 | [182372-headache.json](./182372-headache.json) |
+| Headbanger's Heaven: A Rock & Roll Adventure | 169893 | [169893-headbangers-heaven-a-rock-and-roll-adventure.json](./169893-headbangers-heaven-a-rock-and-roll-adventure.json) |
 | Headbangers Heaven | 250637 | [250637-headbangers-heaven.json](./250637-headbangers-heaven.json) |
 | Headbängers in Holiday Hell | 141232 | [141232-headbangers-in-holiday-hell.json](./141232-headbangers-in-holiday-hell.json) |
 | HeadCount | 144944 | [144944-headcount.json](./144944-headcount.json) |
@@ -1050,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heathrow International Air Traffic Control | 133440 | [133440-heathrow-international-air-traffic-control.json](./133440-heathrow-international-air-traffic-control.json) |
 | Heatseeker | 37152 | [37152-heatseeker.json](./37152-heatseeker.json) |
 | HeatStroke | 194629 | [194629-heatstroke.json](./194629-heatstroke.json) |
+| Heatwave | 169894 | [169894-heatwave.json](./169894-heatwave.json) |
 | Heave Ho + Heave Ho 2 Bundle | 412952 | [412952-heave-ho-heave-ho-2-bundle.json](./412952-heave-ho-heave-ho-2-bundle.json) |
 | Heaven & Hell | 113031 | [113031-heaven-and-hell.json](./113031-heaven-and-hell.json) |
 | Heaven & Hell 2 | 114375 | [114375-heaven-and-hell-2.json](./114375-heaven-and-hell-2.json) |
@@ -2283,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikensha | 229694 | [229694-hikensha.json](./229694-hikensha.json) |
 | Hikibyou2 | 273923 | [273923-hikibyou2.json](./273923-hikibyou2.json) |
 | HikiDama | 335358 | [335358-hikidama.json](./335358-hikidama.json) |
+| Hikikomori Life | 169864 | [169864-hikikomori-life.json](./169864-hikikomori-life.json) |
 | Hikikomori No Chuunibyou | 32072 | [32072-hikikomori-no-chuunibyou.json](./32072-hikikomori-no-chuunibyou.json) |
 | HiLight: Touch the light! | 265760 | [265760-hilight-touch-the-light.json](./265760-hilight-touch-the-light.json) |
 | Hill 4x4 Tuning Rivals | 255733 | [255733-hill-4x4-tuning-rivals.json](./255733-hill-4x4-tuning-rivals.json) |
@@ -2456,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hob: The Definitive Edition | 116681 | [116681-hob-the-definitive-edition.json](./116681-hob-the-definitive-edition.json) |
 | Hobble | 192362 | [192362-hobble.json](./192362-hobble.json) |
 | Hobble-Wobble | 388221 | [388221-hobble-wobble.json](./388221-hobble-wobble.json) |
+| Hobbs Home | 169871 | [169871-hobbs-home.json](./169871-hobbs-home.json) |
 | Hobby Horse: First Ride | 357852 | [357852-hobby-horse-first-ride.json](./357852-hobby-horse-first-ride.json) |
 | Hobby Module | 74413 | [74413-hobby-module.json](./74413-hobby-module.json) |
 | Hobgoblins Against Dwarfs | 296915 | [296915-hobgoblins-against-dwarfs.json](./296915-hobgoblins-against-dwarfs.json) |
