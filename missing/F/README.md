@@ -2238,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashlight Sim | 304602 | [304602-flashlight-sim.json](./304602-flashlight-sim.json) |
 | Flashloop | 348337 | [348337-flashloop.json](./348337-flashloop.json) |
 | Flashout III | 199568 | [199568-flashout-iii.json](./199568-flashout-iii.json) |
+| Flaskoman | 153852 | [153852-flaskoman.json](./153852-flaskoman.json) |
 | Flat & Fluffy | 297075 | [297075-flat-and-fluffy.json](./297075-flat-and-fluffy.json) |
 | Flat Heroes | 31898 | [31898-flat-heroes.json](./31898-flat-heroes.json) |
 | Flat Path | 31734 | [31734-flat-path.json](./31734-flat-path.json) |
