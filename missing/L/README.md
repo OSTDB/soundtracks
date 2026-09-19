@@ -2121,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical: The Lot | 53280 | [53280-logistical-the-lot.json](./53280-logistical-the-lot.json) |
 | Logistical: United Kingdom | 53281 | [53281-logistical-united-kingdom.json](./53281-logistical-united-kingdom.json) |
 | Logistics Simulator | 161346 | [161346-logistics-simulator.json](./161346-logistics-simulator.json) |
+| Logistique | 157572 | [157572-logistique.json](./157572-logistique.json) |
 | Lohotronshchik: Crazy Loto | 280887 | [280887-lohotronshchik-crazy-loto.json](./280887-lohotronshchik-crazy-loto.json) |
 | Loihtija | 176518 | [176518-loihtija.json](./176518-loihtija.json) |
 | Lokapala | 224018 | [224018-lokapala.json](./224018-lokapala.json) |
@@ -2216,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes: Wacky World of Sports - Deluxe Edition | 315873 | [315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json](./315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json) |
 | Loony | 197934 | [197934-loony.json](./197934-loony.json) |
 | Loony Labyrinth | 122307 | [122307-loony-labyrinth.json](./122307-loony-labyrinth.json) |
+| Loop | 157568 | [157568-loop.json](./157568-loop.json) |
 | Loop | 279011 | [279011-loop.json](./279011-loop.json) |
 | Loop Dungeon | 248321 | [248321-loop-dungeon.json](./248321-loop-dungeon.json) |
 | Loop Frogs | 284893 | [284893-loop-frogs.json](./284893-loop-frogs.json) |
@@ -2358,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Amulets: Four Guardians | 223170 | [223170-lost-amulets-four-guardians.json](./223170-lost-amulets-four-guardians.json) |
 | Lost and Flounder | 108985 | [108985-lost-and-flounder.json](./108985-lost-and-flounder.json) |
 | Lost and Found Co. | 224629 | [224629-lost-and-found-co.json](./224629-lost-and-found-co.json) |
+| Lost Assassin | 157574 | [157574-lost-assassin.json](./157574-lost-assassin.json) |
 | Lost at Sea | 209139 | [209139-lost-at-sea.json](./209139-lost-at-sea.json) |
 | Lost Boy | 179063 | [179063-lost-boy.json](./179063-lost-boy.json) |
 | Lost Brother | 323895 | [323895-lost-brother.json](./323895-lost-brother.json) |
@@ -2958,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunchy | 320401 | [320401-lunchy.json](./320401-lunchy.json) |
 | Lunera | 356673 | [356673-lunera.json](./356673-lunera.json) |
 | Lunhowl: Co-op Horror | 348762 | [348762-lunhowl-co-op-horror.json](./348762-lunhowl-co-op-horror.json) |
+| Lúnhuí Xiūxiān Jué | 157565 | [157565-lunhui-xiuxian-jue.json](./157565-lunhui-xiuxian-jue.json) |
 | Lunia Z:Revival | 259020 | [259020-lunia-z-revival.json](./259020-lunia-z-revival.json) |
 | Lunium | 282674 | [282674-lunium.json](./282674-lunium.json) |
 | Lunnye Devitsy | 16491 | [16491-lunnye-devitsy.json](./16491-lunnye-devitsy.json) |
