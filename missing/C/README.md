@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 4 | 263211 | [263211-cat-jigsaw-puzzle-games-expansion-pack-4.json](./263211-cat-jigsaw-puzzle-games-expansion-pack-4.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 7 | 263214 | [263214-cat-jigsaw-puzzle-games-expansion-pack-7.json](./263214-cat-jigsaw-puzzle-games-expansion-pack-7.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 8 | 262945 | [262945-cat-jigsaw-puzzle-games-expansion-pack-8.json](./262945-cat-jigsaw-puzzle-games-expansion-pack-8.json) |
+| Cat Jumper | 175792 | [175792-cat-jumper.json](./175792-cat-jumper.json) |
 | Cat Lady: The Card Game | 129839 | [129839-cat-lady-the-card-game.json](./129839-cat-lady-the-card-game.json) |
 | Cat Legend | 274554 | [274554-cat-legend.json](./274554-cat-legend.json) |
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
@@ -5235,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptmaster | 213029 | [213029-cryptmaster.json](./213029-cryptmaster.json) |
 | Crypto Crisis: Education Edition | 292683 | [292683-crypto-crisis-education-edition.json](./292683-crypto-crisis-education-edition.json) |
 | Crypto Fantasy: The Scrolls of Kouga | 335695 | [335695-crypto-fantasy-the-scrolls-of-kouga.json](./335695-crypto-fantasy-the-scrolls-of-kouga.json) |
+| Crypto Girls: SexCoin | 175796 | [175796-crypto-girls-sexcoin.json](./175796-crypto-girls-sexcoin.json) |
 | Crypto Miner Tycoon Simulator | 191122 | [191122-crypto-miner-tycoon-simulator.json](./191122-crypto-miner-tycoon-simulator.json) |
 | Crypto Mining | 358295 | [358295-crypto-mining.json](./358295-crypto-mining.json) |
 | Crypto Royale | 225730 | [225730-crypto-royale.json](./225730-crypto-royale.json) |
