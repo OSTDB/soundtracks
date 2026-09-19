@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
 | Golf Cart Race | 105919 | [105919-golf-cart-race.json](./105919-golf-cart-race.json) |
 | Golf Daisuki! | 228552 | [228552-golf-daisuki.json](./228552-golf-daisuki.json) |
+| Golf Daisuki! O.B. Club | 134451 | [134451-golf-daisuki-o-b-club.json](./134451-golf-daisuki-o-b-club.json) |
 | Golf Escape | 281387 | [281387-golf-escape.json](./281387-golf-escape.json) |
 | Golf For Fun in Ice | 173229 | [173229-golf-for-fun-in-ice.json](./173229-golf-for-fun-in-ice.json) |
 | Golf for Workgroups | 30109 | [30109-golf-for-workgroups.json](./30109-golf-for-workgroups.json) |
