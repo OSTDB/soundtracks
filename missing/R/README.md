@@ -1789,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrowave Hexon | 159857 | [159857-retrowave-hexon.json](./159857-retrowave-hexon.json) |
 | Retrys | 355576 | [355576-retrys.json](./355576-retrys.json) |
 | Rettungssimulator Online | 144937 | [144937-rettungssimulator-online.json](./144937-rettungssimulator-online.json) |
+| Return | 177418 | [177418-return.json](./177418-return.json) |
 | Return | 255987 | [255987-return.json](./255987-return.json) |
 | Return Ace | 195759 | [195759-return-ace.json](./195759-return-ace.json) |
 | Return Alive | 255803 | [255803-return-alive.json](./255803-return-alive.json) |
@@ -2139,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer Revolution | 18697 | [18697-ridge-racer-revolution.json](./18697-ridge-racer-revolution.json) |
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
+| Ridgewood Road | 177397 | [177397-ridgewood-road.json](./177397-ridgewood-road.json) |
 | Ridiculous RPG | 232041 | [232041-ridiculous-rpg.json](./232041-ridiculous-rpg.json) |
 | Ridiculous Shipping | 331317 | [331317-ridiculous-shipping.json](./331317-ridiculous-shipping.json) |
 | Riding Club Championships | 31882 | [31882-riding-club-championships.json](./31882-riding-club-championships.json) |
@@ -3167,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root Letter: Limited Premium Box | 207921 | [207921-root-letter-limited-premium-box.json](./207921-root-letter-limited-premium-box.json) |
 | Root of All Evil | 57105 | [57105-root-of-all-evil.json](./57105-root-of-all-evil.json) |
 | Root Of Win | 258186 | [258186-root-of-win.json](./258186-root-of-win.json) |
+| Root of Wisdom | 177400 | [177400-root-of-wisdom.json](./177400-root-of-wisdom.json) |
 | Root: Exiles & Partisans & Vagabonds | 195233 | [195233-root-exiles-and-partisans-and-vagabonds.json](./195233-root-exiles-and-partisans-and-vagabonds.json) |
 | Root: Hirelings & Landmarks | 385182 | [385182-root-hirelings-and-landmarks.json](./385182-root-hirelings-and-landmarks.json) |
 | Root: The Riverfolk Expansion | 221420 | [221420-root-the-riverfolk-expansion.json](./221420-root-the-riverfolk-expansion.json) |
