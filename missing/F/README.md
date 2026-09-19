@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy General II: Onslaught | 154500 | [154500-fantasy-general-ii-onslaught.json](./154500-fantasy-general-ii-onslaught.json) |
 | Fantasy Girl | 136423 | [136423-fantasy-girl.json](./136423-fantasy-girl.json) |
 | Fantasy Girls | 310732 | [310732-fantasy-girls.json](./310732-fantasy-girls.json) |
+| Fantasy Gladiators | 148932 | [148932-fantasy-gladiators.json](./148932-fantasy-gladiators.json) |
 | Fantasy Hentai Quest | 210856 | [210856-fantasy-hentai-quest.json](./210856-fantasy-hentai-quest.json) |
 | Fantasy Heroes | 119005 | [119005-fantasy-heroes.json](./119005-fantasy-heroes.json) |
 | Fantasy Illness | 339115 | [339115-fantasy-illness.json](./339115-fantasy-illness.json) |
