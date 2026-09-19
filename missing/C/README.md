@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Canines | 190216 | [190216-cannon-canines.json](./190216-cannon-canines.json) |
 | Cannon Father | 134600 | [134600-cannon-father.json](./134600-cannon-father.json) |
 | Cannon Flight | 57112 | [57112-cannon-flight.json](./57112-cannon-flight.json) |
+| Cannon Momento | 179577 | [179577-cannon-momento.json](./179577-cannon-momento.json) |
 | Cannon Royale | 223503 | [223503-cannon-royale.json](./223503-cannon-royale.json) |
 | Cannon Strike | 94171 | [94171-cannon-strike.json](./94171-cannon-strike.json) |
 | Cannon Target | 253413 | [253413-cannon-target.json](./253413-cannon-target.json) |
@@ -1716,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase: Animatronics | 232697 | [232697-chase-animatronics.json](./232697-chase-animatronics.json) |
 | Chase: Hollywood Stunt Driver | 5774 | [5774-chase-hollywood-stunt-driver.json](./5774-chase-hollywood-stunt-driver.json) |
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
+| Chaseway | 179586 | [179586-chaseway.json](./179586-chaseway.json) |
 | Chasing Kaleidorider | 343321 | [343321-chasing-kaleidorider.json](./343321-chasing-kaleidorider.json) |
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
 | Chasing the wind | 150697 | [150697-chasing-the-wind.json](./150697-chasing-the-wind.json) |
@@ -3063,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coagulation Station | 313307 | [313307-coagulation-station.json](./313307-coagulation-station.json) |
 | Coal Escape | 194025 | [194025-coal-escape.json](./194025-coal-escape.json) |
 | Coal Mining Inc. | 237653 | [237653-coal-mining-inc.json](./237653-coal-mining-inc.json) |
+| Coal Rush: Tap a Train | 179585 | [179585-coal-rush-tap-a-train.json](./179585-coal-rush-tap-a-train.json) |
 | Coarse Blade | 332236 | [332236-coarse-blade.json](./332236-coarse-blade.json) |
 | Coast Defender | 269038 | [269038-coast-defender.json](./269038-coast-defender.json) |
 | Coast team | 118438 | [118438-coast-team.json](./118438-coast-team.json) |
@@ -3754,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condo | 349936 | [349936-condo.json](./349936-condo.json) |
 | Condominium | 333356 | [333356-condominium.json](./333356-condominium.json) |
 | Condor | 47268 | [47268-condor.json](./47268-condor.json) |
+| Conductor | 179599 | [179599-conductor.json](./179599-conductor.json) |
 | Conductor Cat | 335364 | [335364-conductor-cat.json](./335364-conductor-cat.json) |
 | Coneru: Dimension Girl | 267466 | [267466-coneru-dimension-girl.json](./267466-coneru-dimension-girl.json) |
 | Cones in Space | 254771 | [254771-cones-in-space.json](./254771-cones-in-space.json) |
@@ -4772,6 +4776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creep | 133462 | [133462-creep.json](./133462-creep.json) |
 | Creep Kick | 310197 | [310197-creep-kick.json](./310197-creep-kick.json) |
 | Creep Shock | 265429 | [265429-creep-shock.json](./265429-creep-shock.json) |
+| Creeper | 179582 | [179582-creeper.json](./179582-creeper.json) |
 | Creeper World | 7595 | [7595-creeper-world.json](./7595-creeper-world.json) |
 | Creeper World 2: Redemption | 66086 | [66086-creeper-world-2-redemption.json](./66086-creeper-world-2-redemption.json) |
 | Creeper World: Anniversary Edition | 34005 | [34005-creeper-world-anniversary-edition.json](./34005-creeper-world-anniversary-edition.json) |
