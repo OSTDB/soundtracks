@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Motion Fishing: Hooked! Again | 67289 | [67289-real-motion-fishing-hooked-again.json](./67289-real-motion-fishing-hooked-again.json) |
 | Real Motocross Driving Simulator | 259814 | [259814-real-motocross-driving-simulator.json](./259814-real-motocross-driving-simulator.json) |
 | Real Play | 22484 | [22484-real-play.json](./22484-real-play.json) |
+| Real Pool 3D Plus | 175307 | [175307-real-pool-3d-plus.json](./175307-real-pool-3d-plus.json) |
 | Real Pro Yakyuu!: Central League-hen | 282573 | [282573-real-pro-yakyuu-central-league-hen.json](./282573-real-pro-yakyuu-central-league-hen.json) |
 | Real Pro Yakyuu!: Pacific League-hen | 282574 | [282574-real-pro-yakyuu-pacific-league-hen.json](./282574-real-pro-yakyuu-pacific-league-hen.json) |
 | Real Racing 2 | 11652 | [11652-real-racing-2.json](./11652-real-racing-2.json) |
@@ -1787,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroRealms: Ash vs. Evil Dead | 313490 | [313490-retrorealms-ash-vs-evil-dead.json](./313490-retrorealms-ash-vs-evil-dead.json) |
 | RetroRealms: Halloween | 313489 | [313489-retrorealms-halloween.json](./313489-retrorealms-halloween.json) |
 | RetroScape | 185107 | [185107-retroscape.json](./185107-retroscape.json) |
+| RetroShip: Hit the space ship | 175285 | [175285-retroship-hit-the-space-ship.json](./175285-retroship-hit-the-space-ship.json) |
 | RetroSpace | 231488 | [231488-retrospace.json](./231488-retrospace.json) |
 | RetroVamp | 126634 | [126634-retrovamp.json](./126634-retrovamp.json) |
 | Retrowave '84 | 214180 | [214180-retrowave-84.json](./214180-retrowave-84.json) |
