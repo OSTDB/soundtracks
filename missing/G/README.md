@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Watch Mario's Cement Factory | 339262 | [339262-game-and-watch-marios-cement-factory.json](./339262-game-and-watch-marios-cement-factory.json) |
 | Game & Watch-e: Flagman | 261805 | [261805-game-and-watch-e-flagman.json](./261805-game-and-watch-e-flagman.json) |
 | Game & Watch-e: Helmet | 261804 | [261804-game-and-watch-e-helmet.json](./261804-game-and-watch-e-helmet.json) |
+| Game & Watch: Super Mario Bros. | 146701 | [146701-game-and-watch-super-mario-bros.json](./146701-game-and-watch-super-mario-bros.json) |
 | Game & Watch: The Legend of Zelda | 152361 | [152361-game-and-watch-the-legend-of-zelda.json](./152361-game-and-watch-the-legend-of-zelda.json) |
 | Game about a soup factory | 68625 | [68625-game-about-a-soup-factory.json](./68625-game-about-a-soup-factory.json) |
 | Game About Games | 162844 | [162844-game-about-games.json](./162844-game-about-games.json) |
@@ -2443,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Battle Full Blast | 65516 | [65516-great-battle-full-blast.json](./65516-great-battle-full-blast.json) |
 | Great Big War Game | 16399 | [16399-great-big-war-game.json](./16399-great-big-war-game.json) |
 | Great Bishi Bashi Champ | 321128 | [321128-great-bishi-bashi-champ.json](./321128-great-bishi-bashi-champ.json) |
+| Great Conqueror: Rome | 146681 | [146681-great-conqueror-rome.json](./146681-great-conqueror-rome.json) |
 | Great Deal | 267653 | [267653-great-deal.json](./267653-great-deal.json) |
 | Great Game 1/5 | 294439 | [294439-great-game-1-5.json](./294439-great-game-1-5.json) |
 | Great Gold Bird, Great Dark Yawn | 223671 | [223671-great-gold-bird-great-dark-yawn.json](./223671-great-gold-bird-great-dark-yawn.json) |
