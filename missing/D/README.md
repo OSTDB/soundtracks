@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Thread: The Sewing of Discontent | 270121 | [270121-daily-thread-the-sewing-of-discontent.json](./270121-daily-thread-the-sewing-of-discontent.json) |
 | Daily Vrai | 413610 | [413610-daily-vrai.json](./413610-daily-vrai.json) |
 | Daimaou no Bijutsukan to Kaitoudan | 140003 | [140003-daimaou-no-bijutsukan-to-kaitoudan.json](./140003-daimaou-no-bijutsukan-to-kaitoudan.json) |
+| Dainty Pain | 136232 | [136232-dainty-pain.json](./136232-dainty-pain.json) |
 | DaiPyooon | 252155 | [252155-daipyooon.json](./252155-daipyooon.json) |
 | Dairantou Kanoair Smash 2002 | 196867 | [196867-dairantou-kanoair-smash-2002.json](./196867-dairantou-kanoair-smash-2002.json) |
 | Dairy of the Dead | 339362 | [339362-dairy-of-the-dead.json](./339362-dairy-of-the-dead.json) |
@@ -1854,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonophobia | 195267 | [195267-demonophobia.json](./195267-demonophobia.json) |
 | Demonpact: Clarice | 139927 | [139927-demonpact-clarice.json](./139927-demonpact-clarice.json) |
 | DemonPandemicVR | 146703 | [146703-demonpandemicvr.json](./146703-demonpandemicvr.json) |
+| Demonrift TD : The Mountain of doom | 136247 | [136247-demonrift-td-the-mountain-of-doom.json](./136247-demonrift-td-the-mountain-of-doom.json) |
 | Demons and Doobins | 291760 | [291760-demons-and-doobins.json](./291760-demons-and-doobins.json) |
 | Demons are coming! | 278160 | [278160-demons-are-coming.json](./278160-demons-are-coming.json) |
 | Demons Infernalize | 243376 | [243376-demons-infernalize.json](./243376-demons-infernalize.json) |
@@ -2352,6 +2354,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diaball | 176485 | [176485-diaball.json](./176485-diaball.json) |
 | Diabetor & The Sugar Monsters | 278736 | [278736-diabetor-and-the-sugar-monsters.json](./278736-diabetor-and-the-sugar-monsters.json) |
 | Diablo II: Resurrected - Prime Evil Collection | 155099 | [155099-diablo-ii-resurrected-prime-evil-collection.json](./155099-diablo-ii-resurrected-prime-evil-collection.json) |
+| Diablo III: Collector's Edition | 136279 | [136279-diablo-iii-collectors-edition.json](./136279-diablo-iii-collectors-edition.json) |
+| Diablo III: Reaper of Souls - Collector's Edition | 136278 | [136278-diablo-iii-reaper-of-souls-collectors-edition.json](./136278-diablo-iii-reaper-of-souls-collectors-edition.json) |
 | Diablo IV: Dark Pathways Pack | 289474 | [289474-diablo-iv-dark-pathways-pack.json](./289474-diablo-iv-dark-pathways-pack.json) |
 | Diablo IV: Loot Reborn | 299726 | [299726-diablo-iv-loot-reborn.json](./299726-diablo-iv-loot-reborn.json) |
 | Diablo IV: Lord of Hatred | 381239 | [381239-diablo-iv-lord-of-hatred.json](./381239-diablo-iv-lord-of-hatred.json) |
@@ -2796,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt 3: Colin McRae Vision Charity Pack | 234913 | [234913-dirt-3-colin-mcrae-vision-charity-pack.json](./234913-dirt-3-colin-mcrae-vision-charity-pack.json) |
 | Dirt 3: Complete Edition | 47381 | [47381-dirt-3-complete-edition.json](./47381-dirt-3-complete-edition.json) |
 | Dirt 3: Horn Pack | 234918 | [234918-dirt-3-horn-pack.json](./234918-dirt-3-horn-pack.json) |
+| Dirt 5: Amplified Edition | 136248 | [136248-dirt-5-amplified-edition.json](./136248-dirt-5-amplified-edition.json) |
 | Dirt 5: Ford Raptor Edition | 146133 | [146133-dirt-5-ford-raptor-edition.json](./146133-dirt-5-ford-raptor-edition.json) |
 | Dirt 5: Limited Edition | 139955 | [139955-dirt-5-limited-edition.json](./139955-dirt-5-limited-edition.json) |
 | Dirt 5: Wild Spirits Content Pack | 292027 | [292027-dirt-5-wild-spirits-content-pack.json](./292027-dirt-5-wild-spirits-content-pack.json) |
@@ -2918,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disharmony | 168325 | [168325-disharmony.json](./168325-disharmony.json) |
 | DishDash | 389968 | [389968-dishdash.json](./389968-dishdash.json) |
 | Dishonest | 120934 | [120934-dishonest.json](./120934-dishonest.json) |
+| Dishonored 2: Collector's Edition | 136269 | [136269-dishonored-2-collectors-edition.json](./136269-dishonored-2-collectors-edition.json) |
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
 | Dishonored: Death of the Outsider | 37030 | [37030-dishonored-death-of-the-outsider.json](./37030-dishonored-death-of-the-outsider.json) |
 | Dishonored: Definitive Edition | 20863 | [20863-dishonored-definitive-edition.json](./20863-dishonored-definitive-edition.json) |
@@ -4221,6 +4227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Pack | 333616 | [333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json](./333616-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-pack.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 1 | 333617 | [333617-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1.json](./333617-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-1.json) |
 | Dragon Ball Z: Kakarot - Daima: Adventure Through The Demon Realm Part 2 | 333618 | [333618-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2.json](./333618-dragon-ball-z-kakarot-daima-adventure-through-the-demon-realm-part-2.json) |
+| Dragon Ball Z: Kakarot - Ultimate Edition | 136271 | [136271-dragon-ball-z-kakarot-ultimate-edition.json](./136271-dragon-ball-z-kakarot-ultimate-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Legendary Edition | 232992 | [232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json](./232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json) |
 | Dragon Ball Z: Recompiled | 416627 | [416627-dragon-ball-z-recompiled.json](./416627-dragon-ball-z-recompiled.json) |
 | Dragon Ball Z: Shin Budokai Another Road Revisited | 353308 | [353308-dragon-ball-z-shin-budokai-another-road-revisited.json](./353308-dragon-ball-z-shin-budokai-another-road-revisited.json) |
