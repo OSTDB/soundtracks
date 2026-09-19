@@ -1522,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Frontera | 17972 | [17972-wild-frontera.json](./17972-wild-frontera.json) |
 | Wild Gunman | 4625 | [4625-wild-gunman.json](./4625-wild-gunman.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
+| Wild Honesty: A Party Game for Deeper Conversations | 139810 | [139810-wild-honesty-a-party-game-for-deeper-conversations.json](./139810-wild-honesty-a-party-game-for-deeper-conversations.json) |
 | Wild Horizon: Edge of Survival | 333111 | [333111-wild-horizon-edge-of-survival.json](./333111-wild-horizon-edge-of-survival.json) |
 | Wild Horse Racing | 275139 | [275139-wild-horse-racing.json](./275139-wild-horse-racing.json) |
 | Wild Hunter: Sniper Rifle Adventures Simulator | 317439 | [317439-wild-hunter-sniper-rifle-adventures-simulator.json](./317439-wild-hunter-sniper-rifle-adventures-simulator.json) |
@@ -1642,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy and Rosie: Bust Out of the Big House | 273387 | [273387-willy-and-rosie-bust-out-of-the-big-house.json](./273387-willy-and-rosie-bust-out-of-the-big-house.json) |
 | Willy Crash | 225626 | [225626-willy-crash.json](./225626-willy-crash.json) |
 | Willy Crash Mini | 225627 | [225627-willy-crash-mini.json](./225627-willy-crash-mini.json) |
+| Willy Jetman: Astromonkey's Revenge - Sweeper's Edition | 139831 | [139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json](./139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json) |
 | Wilmot's Warehouse | 77494 | [77494-wilmots-warehouse.json](./77494-wilmots-warehouse.json) |
 | Wiloo | 50533 | [50533-wiloo.json](./50533-wiloo.json) |
 | Wilson's Heart | 19597 | [19597-wilsons-heart.json](./19597-wilsons-heart.json) |
@@ -2746,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wwaves | 181900 | [181900-wwaves.json](./181900-wwaves.json) |
 | WWC: World Wrestling Championship | 46028 | [46028-wwc-world-wrestling-championship.json](./46028-wwc-world-wrestling-championship.json) |
 | WWE | 220132 | [220132-wwe.json](./220132-wwe.json) |
+| WWE 2K Battlegrounds: Digital Deluxe Edition | 139826 | [139826-wwe-2k-battlegrounds-digital-deluxe-edition.json](./139826-wwe-2k-battlegrounds-digital-deluxe-edition.json) |
 | WWE 2K17: Accelerator | 168353 | [168353-wwe-2k17-accelerator.json](./168353-wwe-2k17-accelerator.json) |
 | WWE 2K17: Future Stars Pack | 168340 | [168340-wwe-2k17-future-stars-pack.json](./168340-wwe-2k17-future-stars-pack.json) |
 | WWE 2K17: Hall of Fame Showcase | 168352 | [168352-wwe-2k17-hall-of-fame-showcase.json](./168352-wwe-2k17-hall-of-fame-showcase.json) |
