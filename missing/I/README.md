@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanity X | 105400 | [105400-insanity-x.json](./105400-insanity-x.json) |
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
 | Insanity's Grip | 260232 | [260232-insanitys-grip.json](./260232-insanitys-grip.json) |
+| Insanity's Requiem | 145468 | [145468-insanitys-requiem.json](./145468-insanitys-requiem.json) |
 | Insanus Express | 114368 | [114368-insanus-express.json](./114368-insanus-express.json) |
 | Insatiable Creatures | 184594 | [184594-insatiable-creatures.json](./184594-insatiable-creatures.json) |
 | Inscryption: Kaycee's Mod | 186306 | [186306-inscryption-kaycees-mod.json](./186306-inscryption-kaycees-mod.json) |
@@ -1692,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inzipid | 74476 | [74476-inzipid.json](./74476-inzipid.json) |
 | Inzo | 99609 | [99609-inzo.json](./99609-inzo.json) |
 | IOI Collection | 154503 | [154503-ioi-collection.json](./154503-ioi-collection.json) |
+| Ion Fury: Aftershock | 145471 | [145471-ion-fury-aftershock.json](./145471-ion-fury-aftershock.json) |
 | Ion Shift | 257941 | [257941-ion-shift.json](./257941-ion-shift.json) |
 | Ion.A | 290541 | [290541-ion-a.json](./290541-ion-a.json) |
 | IonballEX | 92515 | [92515-ionballex.json](./92515-ionballex.json) |
