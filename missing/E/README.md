@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter/Exit the Gungeon | 228735 | [228735-enter-exit-the-gungeon.json](./228735-enter-exit-the-gungeon.json) |
 | Enterprise | 12993 | [12993-enterprise.json](./12993-enterprise.json) |
 | Enterprise | 252181 | [252181-enterprise.json](./252181-enterprise.json) |
+| Entertainment Hero 2 | 130154 | [130154-entertainment-hero-2.json](./130154-entertainment-hero-2.json) |
 | Entertainment Simulator | 151713 | [151713-entertainment-simulator.json](./151713-entertainment-simulator.json) |
 | Entheogen | 366259 | [366259-entheogen.json](./366259-entheogen.json) |
 | Enthralled | 239882 | [239882-enthralled.json](./239882-enthralled.json) |
@@ -1575,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Toilets | 265769 | [265769-escape-from-toilets.json](./265769-escape-from-toilets.json) |
 | Escape from Vacov | 412993 | [412993-escape-from-vacov.json](./412993-escape-from-vacov.json) |
 | Escape from Voyna | 96738 | [96738-escape-from-voyna.json](./96738-escape-from-voyna.json) |
+| Escape from Voyna: Aliens from Area 51 | 130191 | [130191-escape-from-voyna-aliens-from-area-51.json](./130191-escape-from-voyna-aliens-from-area-51.json) |
 | Escape From Voyna: Dead Forest | 113754 | [113754-escape-from-voyna-dead-forest.json](./113754-escape-from-voyna-dead-forest.json) |
 | Escape from Vulcan's Isle | 24861 | [24861-escape-from-vulcans-isle.json](./24861-escape-from-vulcans-isle.json) |
 | Escape From Woomera | 172108 | [172108-escape-from-woomera.json](./172108-escape-from-woomera.json) |
@@ -1847,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eudemons Online | 76594 | [76594-eudemons-online.json](./76594-eudemons-online.json) |
 | Eufloria 2 | 413631 | [413631-eufloria-2.json](./413631-eufloria-2.json) |
 | Eukarion Tales: Origins | 259581 | [259581-eukarion-tales-origins.json](./259581-eukarion-tales-origins.json) |
+| Euler Wars | 130166 | [130166-euler-wars.json](./130166-euler-wars.json) |
 | Euotopia | 261901 | [261901-euotopia.json](./261901-euotopia.json) |
 | Euphoria Games Bundle | 302513 | [302513-euphoria-games-bundle.json](./302513-euphoria-games-bundle.json) |
 | Euphoria: Supreme Mechanics VR | 377048 | [377048-euphoria-supreme-mechanics-vr.json](./377048-euphoria-supreme-mechanics-vr.json) |
