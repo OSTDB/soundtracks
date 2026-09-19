@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaulting Over It | 350538 | [350538-vaulting-over-it.json](./350538-vaulting-over-it.json) |
 | Vavio | 181923 | [181923-vavio.json](./181923-vavio.json) |
 | Vayan | 216494 | [216494-vayan.json](./216494-vayan.json) |
+| Vazial Saga XX | 166633 | [166633-vazial-saga-xx.json](./166633-vazial-saga-xx.json) |
 | VB Mario Land | 175949 | [175949-vb-mario-land.json](./175949-vb-mario-land.json) |
 | VC | 24883 | [24883-vc.json](./24883-vc.json) |
 | vCoder Hero | 127268 | [127268-vcoder-hero.json](./127268-vcoder-hero.json) |
@@ -454,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vera: The Last Hope | 215673 | [215673-vera-the-last-hope.json](./215673-vera-the-last-hope.json) |
 | Verald Defense | 53874 | [53874-verald-defense.json](./53874-verald-defense.json) |
 | Verdge | 377701 | [377701-verdge.json](./377701-verdge.json) |
+| Verdict | 166606 | [166606-verdict.json](./166606-verdict.json) |
 | Verdonia | 92446 | [92446-verdonia.json](./92446-verdonia.json) |
 | Verdun | 8036 | [8036-verdun.json](./8036-verdun.json) |
 | Vereda | 192807 | [192807-vereda.json](./192807-vereda.json) |
