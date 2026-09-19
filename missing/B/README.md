@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleLand: Warrior vs. Monster | 263574 | [263574-battleland-warrior-vs-monster.json](./263574-battleland-warrior-vs-monster.json) |
 | Battlemals | 26695 | [26695-battlemals.json](./26695-battlemals.json) |
 | Battlemaster | 11947 | [11947-battlemaster.json](./11947-battlemaster.json) |
+| BattleMaster | 172045 | [172045-battlemaster.json](./172045-battlemaster.json) |
 | Battlement | 345010 | [345010-battlement.json](./345010-battlement.json) |
 | Battlemon | 359514 | [359514-battlemon.json](./359514-battlemon.json) |
 | Battlemon League | 100933 | [100933-battlemon-league.json](./100933-battlemon-league.json) |
@@ -2796,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Beat | 186821 | [186821-blast-beat.json](./186821-blast-beat.json) |
 | Blast Bots | 194022 | [194022-blast-bots.json](./194022-blast-bots.json) |
 | Blast Dash | 411571 | [411571-blast-dash.json](./411571-blast-dash.json) |
+| Blast Droids | 172025 | [172025-blast-droids.json](./172025-blast-droids.json) |
 | Blast Flock | 181216 | [181216-blast-flock.json](./181216-blast-flock.json) |
 | Blast Force | 123616 | [123616-blast-force.json](./123616-blast-force.json) |
 | Blast It | 245549 | [245549-blast-it.json](./245549-blast-it.json) |
@@ -3116,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood and Jade | 62706 | [62706-blood-and-jade.json](./62706-blood-and-jade.json) |
 | Blood and Ruby | 135251 | [135251-blood-and-ruby.json](./135251-blood-and-ruby.json) |
 | Blood and Soul | 135803 | [135803-blood-and-soul.json](./135803-blood-and-soul.json) |
+| Blood and Zombies | 172006 | [172006-blood-and-zombies.json](./172006-blood-and-zombies.json) |
 | Blood and Zombies: Gold Edition | 241966 | [241966-blood-and-zombies-gold-edition.json](./241966-blood-and-zombies-gold-edition.json) |
 | Blood Bar Tycoon | 290914 | [290914-blood-bar-tycoon.json](./290914-blood-bar-tycoon.json) |
 | Blood Bond: Into the Shroud | 105276 | [105276-blood-bond-into-the-shroud.json](./105276-blood-bond-into-the-shroud.json) |
@@ -3734,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookworm Adventures Deluxe | 353868 | [353868-bookworm-adventures-deluxe.json](./353868-bookworm-adventures-deluxe.json) |
 | Bookyman | 229061 | [229061-bookyman.json](./229061-bookyman.json) |
 | Boolean | 129217 | [129217-boolean.json](./129217-boolean.json) |
+| Boom | 172043 | [172043-boom.json](./172043-boom.json) |
 | Boom | 339838 | [339838-boom.json](./339838-boom.json) |
 | Boom 2020 | 226196 | [226196-boom-2020.json](./226196-boom-2020.json) |
 | Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
@@ -3916,6 +3920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
 | Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
 | Boule & Bill: Holiday time! | 67961 | [67961-boule-and-bill-holiday-time.json](./67961-boule-and-bill-holiday-time.json) |
+| Bounce | 172047 | [172047-bounce.json](./172047-bounce.json) |
 | Bounce Arcade | 306945 | [306945-bounce-arcade.json](./306945-bounce-arcade.json) |
 | Bounce ASMR: Circle | 288911 | [288911-bounce-asmr-circle.json](./288911-bounce-asmr-circle.json) |
 | Bounce ASMR: Hexagon | 288913 | [288913-bounce-asmr-hexagon.json](./288913-bounce-asmr-hexagon.json) |
