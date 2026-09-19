@@ -1059,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bato Battle | 416671 | [416671-bato-battle.json](./416671-bato-battle.json) |
 | Bato: Treasures of Tibet | 339837 | [339837-bato-treasures-of-tibet.json](./339837-bato-treasures-of-tibet.json) |
 | Bats & Terry | 48609 | [48609-bats-and-terry.json](./48609-bats-and-terry.json) |
+| Batsu! | 160215 | [160215-batsu.json](./160215-batsu.json) |
 | Batsugun | 292117 | [292117-batsugun.json](./292117-batsugun.json) |
 | Batta Batta: Kampen mod Ultra | 127974 | [127974-batta-batta-kampen-mod-ultra.json](./127974-batta-batta-kampen-mod-ultra.json) |
 | Batta Batta: Kejserens Gave | 129773 | [129773-batta-batta-kejserens-gave.json](./129773-batta-batta-kejserens-gave.json) |
@@ -2234,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Arena | 236266 | [236266-bike-arena.json](./236266-bike-arena.json) |
 | Bike Banditz | 216262 | [216262-bike-banditz.json](./216262-bike-banditz.json) |
 | Bike Baron | 65290 | [65290-bike-baron.json](./65290-bike-baron.json) |
+| Bike Baron 2 | 160225 | [160225-bike-baron-2.json](./160225-bike-baron-2.json) |
 | Bike Blast | 116396 | [116396-bike-blast.json](./116396-bike-blast.json) |
 | Bike Courier: Bistro Express Delivery | 283296 | [283296-bike-courier-bistro-express-delivery.json](./283296-bike-courier-bistro-express-delivery.json) |
 | Bike Food Delivery Simulator | 409669 | [409669-bike-food-delivery-simulator.json](./409669-bike-food-delivery-simulator.json) |
@@ -2445,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Sort: Color Puzzle | 245332 | [245332-bird-sort-color-puzzle.json](./245332-bird-sort-color-puzzle.json) |
 | Bird Strike for Android | 137098 | [137098-bird-strike-for-android.json](./137098-bird-strike-for-android.json) |
 | Bird Vs Bird | 277417 | [277417-bird-vs-bird.json](./277417-bird-vs-bird.json) |
+| Bird's Eye | 160249 | [160249-birds-eye.json](./160249-birds-eye.json) |
 | Bird's Eye Odyssey | 245954 | [245954-birds-eye-odyssey.json](./245954-birds-eye-odyssey.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
 | Birdfull | 333567 | [333567-birdfull.json](./333567-birdfull.json) |
@@ -4877,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Builders of Greece | 217337 | [217337-builders-of-greece.json](./217337-builders-of-greece.json) |
 | Building & Co | 79285 | [79285-building-and-co.json](./79285-building-and-co.json) |
 | Building 37 | 185603 | [185603-building-37.json](./185603-building-37.json) |
+| Building 847 | 160214 | [160214-building-847.json](./160214-building-847.json) |
 | Building Block Simulator | 297636 | [297636-building-block-simulator.json](./297636-building-block-simulator.json) |
 | Building Block: Castle & City Craft Simulator | 89277 | [89277-building-block-castle-and-city-craft-simulator.json](./89277-building-block-castle-and-city-craft-simulator.json) |
 | Building Blocks / Master Builder of Egypt | 81219 | [81219-building-blocks-master-builder-of-egypt.json](./81219-building-blocks-master-builder-of-egypt.json) |
