@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Shop | 109015 | [109015-cake-shop.json](./109015-cake-shop.json) |
 | Cake Shop 3 | 410232 | [410232-cake-shop-3.json](./410232-cake-shop-3.json) |
 | Cake Up | 335273 | [335273-cake-up.json](./335273-cake-up.json) |
+| Cake Yasan Monogatari Oishii Sweet wo Tsukurou! | 136878 | [136878-cake-yasan-monogatari-oishii-sweet-wo-tsukurou.json](./136878-cake-yasan-monogatari-oishii-sweet-wo-tsukurou.json) |
 | Cake5 | 233247 | [233247-cake5.json](./233247-cake5.json) |
 | Cakefoot | 292134 | [292134-cakefoot.json](./292134-cakefoot.json) |
 | Cakey's Twisted Bakery | 307692 | [307692-cakeys-twisted-bakery.json](./307692-cakeys-twisted-bakery.json) |
