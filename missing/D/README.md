@@ -3766,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door 2: Key - Path to Heaven | 171586 | [171586-door-2-key-path-to-heaven.json](./171586-door-2-key-path-to-heaven.json) |
 | Door Knocker | 122336 | [122336-door-knocker.json](./122336-door-knocker.json) |
 | Door of Perception | 251055 | [251055-door-of-perception.json](./251055-door-of-perception.json) |
+| Door Smasher | 153844 | [153844-door-smasher.json](./153844-door-smasher.json) |
 | Dooria | 158231 | [158231-dooria.json](./158231-dooria.json) |
 | Doorka | 346154 | [346154-doorka.json](./346154-doorka.json) |
 | Doors | 168388 | [168388-doors.json](./168388-doors.json) |
