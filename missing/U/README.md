@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncompromising Mode | 294684 | [294684-uncompromising-mode.json](./294684-uncompromising-mode.json) |
 | Unconditional Fate's Season 1 Wrap Up! | 300001 | [300001-unconditional-fates-season-1-wrap-up.json](./300001-unconditional-fates-season-1-wrap-up.json) |
 | Unconquered Castle | 109632 | [109632-unconquered-castle.json](./109632-unconquered-castle.json) |
+| Unconventional Ragdoll Game | 151525 | [151525-unconventional-ragdoll-game.json](./151525-unconventional-ragdoll-game.json) |
 | Uncopy | 104698 | [104698-uncopy.json](./104698-uncopy.json) |
 | Uncover | 273390 | [273390-uncover.json](./273390-uncover.json) |
 | Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
@@ -1025,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban War Defense | 46591 | [46591-urban-war-defense.json](./46591-urban-war-defense.json) |
 | Urbance Clans Card Battle! | 107879 | [107879-urbance-clans-card-battle.json](./107879-urbance-clans-card-battle.json) |
 | Urbano: Legends' Debut | 216853 | [216853-urbano-legends-debut.json](./216853-urbano-legends-debut.json) |
+| Urbek City Builder | 151535 | [151535-urbek-city-builder.json](./151535-urbek-city-builder.json) |
 | Urgent Message | 343232 | [343232-urgent-message.json](./343232-urgent-message.json) |
 | Uridium 2 | 12808 | [12808-uridium-2.json](./12808-uridium-2.json) |
 | Urinary Samus | 343367 | [343367-urinary-samus.json](./343367-urinary-samus.json) |
