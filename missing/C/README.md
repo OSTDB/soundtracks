@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carl und Cari: Trubel in Tierstadt | 309871 | [309871-carl-und-cari-trubel-in-tierstadt.json](./309871-carl-und-cari-trubel-in-tierstadt.json) |
 | Carl's Alien Shooting | 324327 | [324327-carls-alien-shooting.json](./324327-carls-alien-shooting.json) |
 | CarLife Simulator | 254000 | [254000-carlife-simulator.json](./254000-carlife-simulator.json) |
+| Carlo Adventure Legend | 138618 | [138618-carlo-adventure-legend.json](./138618-carlo-adventure-legend.json) |
 | Carlos Haunted House | 343835 | [343835-carlos-haunted-house.json](./343835-carlos-haunted-house.json) |
 | Carlos Klauss: Episode Zero | 258701 | [258701-carlos-klauss-episode-zero.json](./258701-carlos-klauss-episode-zero.json) |
 | Carlton | 83477 | [83477-carlton.json](./83477-carlton.json) |
@@ -857,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartel Tycoon: San Rafaela | 252371 | [252371-cartel-tycoon-san-rafaela.json](./252371-cartel-tycoon-san-rafaela.json) |
 | Carto | 101448 | [101448-carto.json](./101448-carto.json) |
 | Cartographer | 199611 | [199611-cartographer.json](./199611-cartographer.json) |
+| Cartomante | 138572 | [138572-cartomante.json](./138572-cartomante.json) |
 | Cartomantic | 338717 | [338717-cartomantic.json](./338717-cartomantic.json) |
 | Cartoon Aliens Invasion: UFO Swarm Simulator | 100193 | [100193-cartoon-aliens-invasion-ufo-swarm-simulator.json](./100193-cartoon-aliens-invasion-ufo-swarm-simulator.json) |
 | Cartoon Bash | 339096 | [339096-cartoon-bash.json](./339096-cartoon-bash.json) |
