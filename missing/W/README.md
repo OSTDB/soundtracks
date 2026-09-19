@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WAyE | 105378 | [105378-waye.json](./105378-waye.json) |
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
 | Wayfarer Survival Mini-Game | 63288 | [63288-wayfarer-survival-mini-game.json](./63288-wayfarer-survival-mini-game.json) |
+| Wayfarers: Call of Osiris | 156012 | [156012-wayfarers-call-of-osiris.json](./156012-wayfarers-call-of-osiris.json) |
 | Wayfinder: Episode One | 381694 | [381694-wayfinder-episode-one.json](./381694-wayfinder-episode-one.json) |
 | Wayne Gretzky and Brett Hull Shootout Hockey | 198953 | [198953-wayne-gretzky-and-brett-hull-shootout-hockey.json](./198953-wayne-gretzky-and-brett-hull-shootout-hockey.json) |
 | Wayne Gretzky Hockey | 15509 | [15509-wayne-gretzky-hockey.json](./15509-wayne-gretzky-hockey.json) |
