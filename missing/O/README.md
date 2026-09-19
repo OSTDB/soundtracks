@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obcidian Legacy | 30004 | [30004-obcidian-legacy.json](./30004-obcidian-legacy.json) |
 | Obec | 349397 | [349397-obec.json](./349397-obec.json) |
 | Obedient Servant | 213442 | [213442-obedient-servant.json](./213442-obedient-servant.json) |
+| Obelisk | 130194 | [130194-obelisk.json](./130194-obelisk.json) |
 | Obenseuer | 111983 | [111983-obenseuer.json](./111983-obenseuer.json) |
 | Obergenie | 339371 | [339371-obergenie.json](./339371-obergenie.json) |
 | Oberion: Arena Arcana | 381678 | [381678-oberion-arena-arcana.json](./381678-oberion-arena-arcana.json) |
