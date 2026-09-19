@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
 | Danger World | 121616 | [121616-danger-world.json](./121616-danger-world.json) |
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
+| Danger: Electric Shock | 166620 | [166620-danger-electric-shock.json](./166620-danger-electric-shock.json) |
 | Dangeresque Roomisode 1: Behind the Dangerdesque | 135845 | [135845-dangeresque-roomisode-1-behind-the-dangerdesque.json](./135845-dangeresque-roomisode-1-behind-the-dangerdesque.json) |
 | Dangerous Blaster | 126617 | [126617-dangerous-blaster.json](./126617-dangerous-blaster.json) |
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
@@ -1305,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathloop + Ghostwire: Tokyo Bundle | 281406 | [281406-deathloop-ghostwire-tokyo-bundle.json](./281406-deathloop-ghostwire-tokyo-bundle.json) |
 | Deathloop: Deluxe Pack | 252217 | [252217-deathloop-deluxe-pack.json](./252217-deathloop-deluxe-pack.json) |
 | Deathly Dangerous | 244338 | [244338-deathly-dangerous.json](./244338-deathly-dangerous.json) |
+| Deathly Stillness | 166619 | [166619-deathly-stillness.json](./166619-deathly-stillness.json) |
 | Deathly Storm: The Edge of Life | 88184 | [88184-deathly-storm-the-edge-of-life.json](./88184-deathly-storm-the-edge-of-life.json) |
 | DeathMatch | 117685 | [117685-deathmatch.json](./117685-deathmatch.json) |
 | Deathmatch Classic | 9073 | [9073-deathmatch-classic.json](./9073-deathmatch-classic.json) |
@@ -2354,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Mice | 184615 | [184615-dice-mice.json](./184615-dice-mice.json) |
 | Dice Nights | 414435 | [414435-dice-nights.json](./414435-dice-nights.json) |
 | Dice of Kalma | 357258 | [357258-dice-of-kalma.json](./357258-dice-of-kalma.json) |
+| Dice of Knights | 166612 | [166612-dice-of-knights.json](./166612-dice-of-knights.json) |
 | Dice of Life | 184466 | [184466-dice-of-life.json](./184466-dice-of-life.json) |
 | Dice of Olympus | 130342 | [130342-dice-of-olympus.json](./130342-dice-of-olympus.json) |
 | Dice Paradise | 175416 | [175416-dice-paradise.json](./175416-dice-paradise.json) |
