@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Street 3 | 7304 | [7304-fifa-street-3.json](./7304-fifa-street-3.json) |
 | FIFA: Road to World Cup 98 | 705 | [705-fifa-road-to-world-cup-98.json](./705-fifa-road-to-world-cup-98.json) |
 | Fifi's Fortunes: Reclamation | 253944 | [253944-fifis-fortunes-reclamation.json](./253944-fifis-fortunes-reclamation.json) |
+| Fifo's Night | 127763 | [127763-fifos-night.json](./127763-fifos-night.json) |
 | Fifteen | 279135 | [279135-fifteen.json](./279135-fifteen.json) |
 | Fifth Element II Hikari to Yami no Ouji | 58742 | [58742-fifth-element-ii-hikari-to-yami-no-ouji.json](./58742-fifth-element-ii-hikari-to-yami-no-ouji.json) |
 | Fifth Element Tamashii no Genso | 58743 | [58743-fifth-element-tamashii-no-genso.json](./58743-fifth-element-tamashii-no-genso.json) |
@@ -1630,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Love or Die Trying: Til Death Do Us Part | 336039 | [336039-find-love-or-die-trying-til-death-do-us-part.json](./336039-find-love-or-die-trying-til-death-do-us-part.json) |
 | Find Me A Good One | 128635 | [128635-find-me-a-good-one.json](./128635-find-me-a-good-one.json) |
 | Find Me in the Maze | 214733 | [214733-find-me-in-the-maze.json](./214733-find-me-in-the-maze.json) |
+| Find Me: Horror Game | 127772 | [127772-find-me-horror-game.json](./127772-find-me-horror-game.json) |
 | Find Meow in Wild West | 356748 | [356748-find-meow-in-wild-west.json](./356748-find-meow-in-wild-west.json) |
 | Find My Frogs | 347218 | [347218-find-my-frogs.json](./347218-find-my-frogs.json) |
 | Find My Frogs: Branches | 362893 | [362893-find-my-frogs-branches.json](./362893-find-my-frogs-branches.json) |
@@ -2572,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flown | 261524 | [261524-flown.json](./261524-flown.json) |
 | Flowstone Saga | 152329 | [152329-flowstone-saga.json](./152329-flowstone-saga.json) |
 | Floyd of the Jungle | 24987 | [24987-floyd-of-the-jungle.json](./24987-floyd-of-the-jungle.json) |
+| FLS | 127755 | [127755-fls.json](./127755-fls.json) |
 | Fluff | 221749 | [221749-fluff.json](./221749-fluff.json) |
 | Fluff Up | 405579 | [405579-fluff-up.json](./405579-fluff-up.json) |
 | Fluff'n'Roll | 323516 | [323516-fluffnroll.json](./323516-fluffnroll.json) |
@@ -2666,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Motorcycle Simulator Pro | 87258 | [87258-flying-motorcycle-simulator-pro.json](./87258-flying-motorcycle-simulator-pro.json) |
 | Flying Propeller | 161777 | [161777-flying-propeller.json](./161777-flying-propeller.json) |
 | Flying Saucer | 358845 | [358845-flying-saucer.json](./358845-flying-saucer.json) |
+| Flying Shot | 127766 | [127766-flying-shot.json](./127766-flying-shot.json) |
 | Flying Soldiers | 146863 | [146863-flying-soldiers.json](./146863-flying-soldiers.json) |
 | Flying Squadron | 43889 | [43889-flying-squadron.json](./43889-flying-squadron.json) |
 | Flying Stunt Simulator | 278156 | [278156-flying-stunt-simulator.json](./278156-flying-stunt-simulator.json) |
@@ -2986,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Time | 373517 | [373517-forest-time.json](./373517-forest-time.json) |
 | Forest Walk | 311142 | [311142-forest-walk.json](./311142-forest-walk.json) |
 | Forest Whiskers | 383948 | [383948-forest-whiskers.json](./383948-forest-whiskers.json) |
+| Forest Woodman | 127773 | [127773-forest-woodman.json](./127773-forest-woodman.json) |
 | Forest: The Call For Help | 370702 | [370702-forest-the-call-for-help.json](./370702-forest-the-call-for-help.json) |
 | Forest's Secret | 138716 | [138716-forests-secret.json](./138716-forests-secret.json) |
 | Forestation: Circles of Nature | 118325 | [118325-forestation-circles-of-nature.json](./118325-forestation-circles-of-nature.json) |
@@ -3269,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foto Face: The Face Stealer Strikes | 67286 | [67286-foto-face-the-face-stealer-strikes.json](./67286-foto-face-the-face-stealer-strikes.json) |
 | Foturians: Myth and Reality | 399697 | [399697-foturians-myth-and-reality.json](./399697-foturians-myth-and-reality.json) |
 | Foul Play | 5895 | [5895-foul-play.json](./5895-foul-play.json) |
+| Foul Play - Mystery at Awkward Manor | 127783 | [127783-foul-play-mystery-at-awkward-manor.json](./127783-foul-play-mystery-at-awkward-manor.json) |
 | Foul Repercussion | 337178 | [337178-foul-repercussion.json](./337178-foul-repercussion.json) |
 | Foulbreaker | 290542 | [290542-foulbreaker.json](./290542-foulbreaker.json) |
 | Found it! | 283289 | [283289-found-it.json](./283289-found-it.json) |
