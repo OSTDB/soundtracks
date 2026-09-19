@@ -3546,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
 | Humpty's Scramble | 144139 | [144139-humptys-scramble.json](./144139-humptys-scramble.json) |
+| Hunckie Egg | 134422 | [134422-hunckie-egg.json](./134422-hunckie-egg.json) |
 | Hundra | 92962 | [92962-hundra.json](./92962-hundra.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
 | Hundred Acre Wood | 249881 | [249881-hundred-acre-wood.json](./249881-hundred-acre-wood.json) |
