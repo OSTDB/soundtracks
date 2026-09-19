@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row IV: Super Dangerous Wad Wad Edition (aka the Million Dollar Pack) | 21862 | [21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json](./21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json) |
 | Saints Row: Chicken Dinner Cosmetic Pack | 307150 | [307150-saints-row-chicken-dinner-cosmetic-pack.json](./307150-saints-row-chicken-dinner-cosmetic-pack.json) |
 | Saints Row: Dead Island 2 - Cosmetic Pack | 307139 | [307139-saints-row-dead-island-2-cosmetic-pack.json](./307139-saints-row-dead-island-2-cosmetic-pack.json) |
+| Saints Row: Double Pack | 144125 | [144125-saints-row-double-pack.json](./144125-saints-row-double-pack.json) |
 | Saints Row: Drive-By | 77307 | [77307-saints-row-drive-by.json](./77307-saints-row-drive-by.json) |
 | Saints Row: Front to Back Cosmetic Pack | 307141 | [307141-saints-row-front-to-back-cosmetic-pack.json](./307141-saints-row-front-to-back-cosmetic-pack.json) |
 | Saints Row: Going Commando Cosmetic Pack | 307144 | [307144-saints-row-going-commando-cosmetic-pack.json](./307144-saints-row-going-commando-cosmetic-pack.json) |
@@ -1505,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Genesis Mini 2 | 215742 | [215742-sega-genesis-mini-2.json](./215742-sega-genesis-mini-2.json) |
 | Sega Genesis Ultimate Portable Game Player | 202787 | [202787-sega-genesis-ultimate-portable-game-player.json](./202787-sega-genesis-ultimate-portable-game-player.json) |
 | Sega GT | 28838 | [28838-sega-gt.json](./28838-sega-gt.json) |
+| Sega GT 2002 / Jet Set Radio Future | 144128 | [144128-sega-gt-2002-jet-set-radio-future.json](./144128-sega-gt-2002-jet-set-radio-future.json) |
 | Sega Mega Drive Portable Video Game Player | 202781 | [202781-sega-mega-drive-portable-video-game-player.json](./202781-sega-mega-drive-portable-video-game-player.json) |
 | Sega Mega Drive Portable Video Game Player: Streets of Rage Special Edition | 202782 | [202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json](./202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json) |
 | Sega Rally 2 | 1572 | [1572-sega-rally-2.json](./1572-sega-rally-2.json) |
@@ -1535,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seimbein | 135877 | [135877-seimbein.json](./135877-seimbein.json) |
 | Seimei Handan | 268532 | [268532-seimei-handan.json](./268532-seimei-handan.json) |
 | Seinarukana -The Spirit of Eternity Sword 2- | 24971 | [24971-seinarukana-the-spirit-of-eternity-sword-2.json](./24971-seinarukana-the-spirit-of-eternity-sword-2.json) |
+| Seinfeld: The Telltale Series | 144119 | [144119-seinfeld-the-telltale-series.json](./144119-seinfeld-the-telltale-series.json) |
 | Seireiki Rayblade | 311290 | [311290-seireiki-rayblade.json](./311290-seireiki-rayblade.json) |
 | Seiryuu Densetsu Monbit | 66141 | [66141-seiryuu-densetsu-monbit.json](./66141-seiryuu-densetsu-monbit.json) |
 | Seisai | 125997 | [125997-seisai.json](./125997-seisai.json) |
@@ -3535,6 +3538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixty Words by Powgi | 206719 | [206719-sixty-words-by-powgi.json](./206719-sixty-words-by-powgi.json) |
 | Size Matters! | 331709 | [331709-size-matters.json](./331709-size-matters.json) |
 | Sizif | 257433 | [257433-sizif.json](./257433-sizif.json) |
+| SJ-19 Learns to Love! | 144112 | [144112-sj-19-learns-to-love.json](./144112-sj-19-learns-to-love.json) |
 | Sk8 | 75918 | [75918-sk8.json](./75918-sk8.json) |
 | Skade | 258975 | [258975-skade.json](./258975-skade.json) |
 | Skader | 224626 | [224626-skader.json](./224626-skader.json) |
@@ -4025,6 +4029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime | 407438 | [407438-slime.json](./407438-slime.json) |
 | Slime 3k: Demake | 322759 | [322759-slime-3k-demake.json](./322759-slime-3k-demake.json) |
 | Slime 3K: Rise Against Despot | 244377 | [244377-slime-3k-rise-against-despot.json](./244377-slime-3k-rise-against-despot.json) |
+| Slime 64 | 144114 | [144114-slime-64.json](./144114-slime-64.json) |
 | Slime Age: Parody MMORPG Clicker | 108411 | [108411-slime-age-parody-mmorpg-clicker.json](./108411-slime-age-parody-mmorpg-clicker.json) |
 | Slime and Rancher | 102756 | [102756-slime-and-rancher.json](./102756-slime-and-rancher.json) |
 | Slime Buddy Time | 390626 | [390626-slime-buddy-time.json](./390626-slime-buddy-time.json) |
@@ -5034,6 +5039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Assembly Required | 293380 | [293380-some-assembly-required.json](./293380-some-assembly-required.json) |
 | Some Assembly Required | 343827 | [343827-some-assembly-required.json](./343827-some-assembly-required.json) |
 | Some Old Stuff | 147300 | [147300-some-old-stuff.json](./147300-some-old-stuff.json) |
+| Some Peace of Mind | 144108 | [144108-some-peace-of-mind.json](./144108-some-peace-of-mind.json) |
 | Some Peace of Mind | 22361 | [22361-some-peace-of-mind.json](./22361-some-peace-of-mind.json) |
 | Some Some Convenience Store: Adela After Story | 316253 | [316253-some-some-convenience-store-adela-after-story.json](./316253-some-some-convenience-store-adela-after-story.json) |
 | Some Some Convenience Store: After Stories Pass | 316254 | [316254-some-some-convenience-store-after-stories-pass.json](./316254-some-some-convenience-store-after-stories-pass.json) |
@@ -7800,6 +7806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsuits! (Remastered+ Edition) | 357317 | [357317-starsuits-remastered-edition.json](./357317-starsuits-remastered-edition.json) |
 | Starsweep | 9529 | [9529-starsweep.json](./9529-starsweep.json) |
 | Start a Startup with a Legendary Japanese Warlord | 272909 | [272909-start-a-startup-with-a-legendary-japanese-warlord.json](./272909-start-a-startup-with-a-legendary-japanese-warlord.json) |
+| Start Again: A Prologue | 144092 | [144092-start-again-a-prologue.json](./144092-start-again-a-prologue.json) |
 | Start Survey? | 177427 | [177427-start-survey.json](./177427-start-survey.json) |
 | Start the Party! Save the World! | 20731 | [20731-start-the-party-save-the-world.json](./20731-start-the-party-save-the-world.json) |
 | Start Your Engines Bundle | 173789 | [173789-start-your-engines-bundle.json](./173789-start-your-engines-bundle.json) |
@@ -9946,6 +9953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
 | Super R.B.I. Baseball | 5332 | [5332-super-r-b-i-baseball.json](./5332-super-r-b-i-baseball.json) |
 | Super Rabbit | 246482 | [246482-super-rabbit.json](./246482-super-rabbit.json) |
+| Super Raft Boat Classic | 144142 | [144142-super-raft-boat-classic.json](./144142-super-raft-boat-classic.json) |
 | Super Ranger | 377710 | [377710-super-ranger.json](./377710-super-ranger.json) |
 | Super Rare Mixtape: Horror Edition | 272829 | [272829-super-rare-mixtape-horror-edition.json](./272829-super-rare-mixtape-horror-edition.json) |
 | Super Real Hanafuda: Koi Koi Shimasho | 130299 | [130299-super-real-hanafuda-koi-koi-shimasho.json](./130299-super-real-hanafuda-koi-koi-shimasho.json) |
