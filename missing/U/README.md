@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlog | 370705 | [370705-unlog.json](./370705-unlog.json) |
 | Unloop | 232015 | [232015-unloop.json](./232015-unloop.json) |
 | UnLoop | 311147 | [311147-unloop.json](./311147-unloop.json) |
+| Unlord | 157057 | [157057-unlord.json](./157057-unlord.json) |
 | Unluck Quest | 232016 | [232016-unluck-quest.json](./232016-unluck-quest.json) |
 | Unluckily in Love | 224573 | [224573-unluckily-in-love.json](./224573-unluckily-in-love.json) |
 | Unlucky Mage | 85467 | [85467-unlucky-mage.json](./85467-unlucky-mage.json) |
