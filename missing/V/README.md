@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-VR | 27739 | [27739-v-vr.json](./27739-v-vr.json) |
 | V-Ware | 250052 | [250052-v-ware.json](./250052-v-ware.json) |
 | V: The Video Game | 45313 | [45313-v-the-video-game.json](./45313-v-the-video-game.json) |
+| V! Yuusha no Kuse ni Namaikida R | 167140 | [167140-v-yuusha-no-kuse-ni-namaikida-r.json](./167140-v-yuusha-no-kuse-ni-namaikida-r.json) |
 | V!be Bunny | 404975 | [404975-v-be-bunny.json](./404975-v-be-bunny.json) |
 | V.D.O | 201774 | [201774-v-d-o.json](./201774-v-d-o.json) |
 | V.G. Re-birth | 180273 | [180273-v-g-re-birth.json](./180273-v-g-re-birth.json) |
@@ -860,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vistascapes VR | 32891 | [32891-vistascapes-vr.json](./32891-vistascapes-vr.json) |
 | Visual DOS 2024 | 364528 | [364528-visual-dos-2024.json](./364528-visual-dos-2024.json) |
 | Visual DOS: Integer Overflow | 364520 | [364520-visual-dos-integer-overflow.json](./364520-visual-dos-integer-overflow.json) |
+| Visual Novel Sisters | 167169 | [167169-visual-novel-sisters.json](./167169-visual-novel-sisters.json) |
 | Visual Quiz Kore Naanda? | 260698 | [260698-visual-quiz-kore-naanda.json](./260698-visual-quiz-kore-naanda.json) |
 | Visualizer | 80590 | [80590-visualizer.json](./80590-visualizer.json) |
 | Vita: The Ember Oracle | 356112 | [356112-vita-the-ember-oracle.json](./356112-vita-the-ember-oracle.json) |
