@@ -1854,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Lord | 33305 | [33305-maze-lord.json](./33305-maze-lord.json) |
 | Maze Madness | 101598 | [101598-maze-madness.json](./101598-maze-madness.json) |
 | Maze Maid | 287656 | [287656-maze-maid.json](./287656-maze-maid.json) |
+| Maze Masters | 148913 | [148913-maze-masters.json](./148913-maze-masters.json) |
 | Maze of Acheron | 172098 | [172098-maze-of-acheron.json](./172098-maze-of-acheron.json) |
 | Maze of Bears | 186321 | [186321-maze-of-bears.json](./186321-maze-of-bears.json) |
 | Maze of Doors | 414417 | [414417-maze-of-doors.json](./414417-maze-of-doors.json) |
@@ -4826,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonPong: Tales of Epic Lunacy | 213376 | [213376-moonpong-tales-of-epic-lunacy.json](./213376-moonpong-tales-of-epic-lunacy.json) |
 | Moonray | 133362 | [133362-moonray.json](./133362-moonray.json) |
 | Moonray: Battle Lands | 368045 | [368045-moonray-battle-lands.json](./368045-moonray-battle-lands.json) |
+| MoonRun | 148888 | [148888-moonrun.json](./148888-moonrun.json) |
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
 | Moons That Belong | 318066 | [318066-moons-that-belong.json](./318066-moons-that-belong.json) |
 | Moonscars | 194507 | [194507-moonscars.json](./194507-moonscars.json) |
