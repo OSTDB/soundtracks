@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MarioQuest 2: Sonic Returns | 381729 | [381729-marioquest-2-sonic-returns.json](./381729-marioquest-2-sonic-returns.json) |
 | MarioQuest 3: The Ghost of SEGA | 318033 | [318033-marioquest-3-the-ghost-of-sega.json](./318033-marioquest-3-the-ghost-of-sega.json) |
 | Mariostro Strikers: Soccer League | 329719 | [329719-mariostro-strikers-soccer-league.json](./329719-mariostro-strikers-soccer-league.json) |
+| Mariozza Cops | 153836 | [153836-mariozza-cops.json](./153836-mariozza-cops.json) |
 | Mariposa | 395588 | [395588-mariposa.json](./395588-mariposa.json) |
 | Mariposa and the Galaxy Man | 191904 | [191904-mariposa-and-the-galaxy-man.json](./191904-mariposa-and-the-galaxy-man.json) |
 | Marisa's Marvelous Magic Shop | 126940 | [126940-marisas-marvelous-magic-shop.json](./126940-marisas-marvelous-magic-shop.json) |
@@ -1463,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary-Kate and Ashley: Winners Circle | 49966 | [49966-mary-kate-and-ashley-winners-circle.json](./49966-mary-kate-and-ashley-winners-circle.json) |
 | MarZ: Tactical Base Defense | 55408 | [55408-marz-tactical-base-defense.json](./55408-marz-tactical-base-defense.json) |
 | Marzu | 389584 | [389584-marzu.json](./389584-marzu.json) |
+| Masagoro | 153826 | [153826-masagoro.json](./153826-masagoro.json) |
 | Mascar | 394891 | [394891-mascar.json](./394891-mascar.json) |
 | Maseylia: Echoes of the Past | 302107 | [302107-maseylia-echoes-of-the-past.json](./302107-maseylia-echoes-of-the-past.json) |
 | Masha and Medved | 216457 | [216457-masha-and-medved.json](./216457-masha-and-medved.json) |
@@ -1880,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazes and Mages 2 | 121778 | [121778-mazes-and-mages-2.json](./121778-mazes-and-mages-2.json) |
 | Mazes of Karradash 2 | 175430 | [175430-mazes-of-karradash-2.json](./175430-mazes-of-karradash-2.json) |
 | Mazewar | 381593 | [381593-mazewar.json](./381593-mazewar.json) |
+| Mazinger Z | 153841 | [153841-mazinger-z.json](./153841-mazinger-z.json) |
 | Mazy | 385576 | [385576-mazy.json](./385576-mazy.json) |
 | Mazzle Christmas | 329040 | [329040-mazzle-christmas.json](./329040-mazzle-christmas.json) |
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
