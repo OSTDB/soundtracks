@@ -4626,6 +4626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash: Mind Over Mutant | 210229 | [210229-crash-mind-over-mutant.json](./210229-crash-mind-over-mutant.json) |
 | Crashbots | 109627 | [109627-crashbots.json](./109627-crashbots.json) |
 | Crashed | 329598 | [329598-crashed.json](./329598-crashed.json) |
+| Crashing Race | 172598 | [172598-crashing-race.json](./172598-crashing-race.json) |
 | Crashland | 144349 | [144349-crashland.json](./144349-crashland.json) |
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
 | CrashMetal: Drift Racing Car Driving Simulator - Premium Edition | 283151 | [283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json](./283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json) |
