@@ -1274,6 +1274,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls on puzzle | 156625 | [156625-girls-on-puzzle.json](./156625-girls-on-puzzle.json) |
 | Girls on puzzle 4 | 156622 | [156622-girls-on-puzzle-4.json](./156622-girls-on-puzzle-4.json) |
 | Girls Overboard | 167173 | [167173-girls-overboard.json](./167173-girls-overboard.json) |
+| Girls Pinball | 157575 | [157575-girls-pinball.json](./157575-girls-pinball.json) |
+| Girls Pinball: DLC1 | 157576 | [157576-girls-pinball-dlc1.json](./157576-girls-pinball-dlc1.json) |
+| Girls Pinball: DLC2 | 157577 | [157577-girls-pinball-dlc2.json](./157577-girls-pinball-dlc2.json) |
 | Girls Puzzle | 112979 | [112979-girls-puzzle.json](./112979-girls-puzzle.json) |
 | Girls Rest | 257954 | [257954-girls-rest.json](./257954-girls-rest.json) |
 | Girls Tennis League | 240782 | [240782-girls-tennis-league.json](./240782-girls-tennis-league.json) |
