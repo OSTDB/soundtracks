@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen-Nippon Joshi Pro Wrestling: Queen of Queens | 45954 | [45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json](./45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json) |
 | Zen: Intergalactic Ninja | 48251 | [48251-zen-intergalactic-ninja.json](./48251-zen-intergalactic-ninja.json) |
 | ZenBlade | 58268 | [58268-zenblade.json](./58268-zenblade.json) |
+| Zenbones | 163844 | [163844-zenbones.json](./163844-zenbones.json) |
 | Zenforms: Protectors | 96043 | [96043-zenforms-protectors.json](./96043-zenforms-protectors.json) |
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
 | Zengoku Juudan Ultra Shinri Game | 37745 | [37745-zengoku-juudan-ultra-shinri-game.json](./37745-zengoku-juudan-ultra-shinri-game.json) |
@@ -285,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhu Zhu Pets | 9168 | [9168-zhu-zhu-pets.json](./9168-zhu-zhu-pets.json) |
 | Zhust: The Illusion Soul | 40463 | [40463-zhust-the-illusion-soul.json](./40463-zhust-the-illusion-soul.json) |
 | ZI Survival | 220735 | [220735-zi-survival.json](./220735-zi-survival.json) |
+| Zì Xī Cú Dōng | 163846 | [163846-zi-xi-cu-dong.json](./163846-zi-xi-cu-dong.json) |
 | Ziba | 22360 | [22360-ziba.json](./22360-ziba.json) |
 | Zidane: Football Generation 2002 | 49351 | [49351-zidane-football-generation-2002.json](./49351-zidane-football-generation-2002.json) |
 | Zig | 96695 | [96695-zig.json](./96695-zig.json) |
