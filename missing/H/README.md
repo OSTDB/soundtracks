@@ -2350,6 +2350,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiryuu no Ken II: Dragon no Tsubasa | 64447 | [64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json](./64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json) |
 | His Majesty's Ship Impetuous | 55838 | [55838-his-majestys-ship-impetuous.json](./55838-his-majestys-ship-impetuous.json) |
 | HIS: Heroes in the Sky | 35933 | [35933-his-heroes-in-the-sky.json](./35933-his-heroes-in-the-sky.json) |
+| HIS: Heroes in the Sky - AVRO Spade Julia Mackin Pack | 170405 | [170405-his-heroes-in-the-sky-avro-spade-julia-mackin-pack.json](./170405-his-heroes-in-the-sky-avro-spade-julia-mackin-pack.json) |
+| HIS: Heroes in the Sky - BV P188 Julia Mackin Pack | 170403 | [170403-his-heroes-in-the-sky-bv-p188-julia-mackin-pack.json](./170403-his-heroes-in-the-sky-bv-p188-julia-mackin-pack.json) |
+| HIS: Heroes in the Sky - Do335 Berta Hildebrand Pack | 170406 | [170406-his-heroes-in-the-sky-do335-berta-hildebrand-pack.json](./170406-his-heroes-in-the-sky-do335-berta-hildebrand-pack.json) |
+| HIS: Heroes in the Sky - Fa223 Berta Hildebrand Pack | 170408 | [170408-his-heroes-in-the-sky-fa223-berta-hildebrand-pack.json](./170408-his-heroes-in-the-sky-fa223-berta-hildebrand-pack.json) |
+| HIS: Heroes in the Sky - Ju87G Berta Hildebrand Pack | 170407 | [170407-his-heroes-in-the-sky-ju87g-berta-hildebrand-pack.json](./170407-his-heroes-in-the-sky-ju87g-berta-hildebrand-pack.json) |
+| HIS: Heroes in the Sky - XB-35 Julia Mackin Pack | 170404 | [170404-his-heroes-in-the-sky-xb-35-julia-mackin-pack.json](./170404-his-heroes-in-the-sky-xb-35-julia-mackin-pack.json) |
 | Hiscores! Gold | 118999 | [118999-hiscores-gold.json](./118999-hiscores-gold.json) |
 | Hisou Kihei Kai Serd | 42034 | [42034-hisou-kihei-kai-serd.json](./42034-hisou-kihei-kai-serd.json) |
 | Hispania 1200 | 356167 | [356167-hispania-1200.json](./356167-hispania-1200.json) |
@@ -3654,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 3 | 224218 | [224218-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-3.json](./224218-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-3.json) |
 | Hyperdimension Neptunia Re;Birth2: Sisters Generation | 9868 | [9868-hyperdimension-neptunia-re-birth2-sisters-generation.json](./9868-hyperdimension-neptunia-re-birth2-sisters-generation.json) |
 | Hyperdimension Neptunia Re;Birth2: Sisters Generation - Limited Edition | 388189 | [388189-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json](./388189-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json) |
+| Hyperdimension Neptunia Re;Birth3: V Generation - Mini Island | 170401 | [170401-hyperdimension-neptunia-re-birth3-v-generation-mini-island.json](./170401-hyperdimension-neptunia-re-birth3-v-generation-mini-island.json) |
 | Hyperdimension Neptunia U: Action Unleashed - Bonus Quest | 172172 | [172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json](./172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json) |
 | Hyperdimension Neptunia: Producing Perfection - Limited Edition | 89920 | [89920-hyperdimension-neptunia-producing-perfection-limited-edition.json](./89920-hyperdimension-neptunia-producing-perfection-limited-edition.json) |
 | Hyperdrive Horizon | 340495 | [340495-hyperdrive-horizon.json](./340495-hyperdrive-horizon.json) |
