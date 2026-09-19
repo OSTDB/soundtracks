@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T09:02:29.679Z",
-  "total_missing": 91521,
+  "generated_at": "2026-09-19T09:17:14.021Z",
+  "total_missing": 91571,
   "games": [
     {
       "igdb_id": 176875,
@@ -408003,6 +408003,26 @@
       "file": "missing/T/160325-tiger-tank-59-i-rainstorm-mp099.json"
     },
     {
+      "igdb_id": 160740,
+      "game_name": "Tiger Tank 59 I: Super Tank MP003",
+      "file": "missing/T/160740-tiger-tank-59-i-super-tank-mp003.json"
+    },
+    {
+      "igdb_id": 160736,
+      "game_name": "Tiger Tank 59 I: Super Tank MP005",
+      "file": "missing/T/160736-tiger-tank-59-i-super-tank-mp005.json"
+    },
+    {
+      "igdb_id": 160744,
+      "game_name": "Tiger Tank 59 I: Super Tank MP008",
+      "file": "missing/T/160744-tiger-tank-59-i-super-tank-mp008.json"
+    },
+    {
+      "igdb_id": 160723,
+      "game_name": "Tiger Tank 59 I: Super Tank MP010",
+      "file": "missing/T/160723-tiger-tank-59-i-super-tank-mp010.json"
+    },
+    {
       "igdb_id": 160403,
       "game_name": "Tiger Tank 59 I: Super Tank MP012",
       "file": "missing/T/160403-tiger-tank-59-i-super-tank-mp012.json"
@@ -408013,9 +408033,39 @@
       "file": "missing/T/160314-tiger-tank-59-i-super-tank-mp013.json"
     },
     {
+      "igdb_id": 160724,
+      "game_name": "Tiger Tank 59 I: Super Tank MP015",
+      "file": "missing/T/160724-tiger-tank-59-i-super-tank-mp015.json"
+    },
+    {
+      "igdb_id": 160766,
+      "game_name": "Tiger Tank 59 I: Super Tank MP016",
+      "file": "missing/T/160766-tiger-tank-59-i-super-tank-mp016.json"
+    },
+    {
+      "igdb_id": 160733,
+      "game_name": "Tiger Tank 59 I: Super Tank MP017",
+      "file": "missing/T/160733-tiger-tank-59-i-super-tank-mp017.json"
+    },
+    {
+      "igdb_id": 160729,
+      "game_name": "Tiger Tank 59 I: Super Tank MP020",
+      "file": "missing/T/160729-tiger-tank-59-i-super-tank-mp020.json"
+    },
+    {
+      "igdb_id": 160765,
+      "game_name": "Tiger Tank 59 I: Super Tank MP022",
+      "file": "missing/T/160765-tiger-tank-59-i-super-tank-mp022.json"
+    },
+    {
       "igdb_id": 160364,
       "game_name": "Tiger Tank 59 I: Super Tank MP023",
       "file": "missing/T/160364-tiger-tank-59-i-super-tank-mp023.json"
+    },
+    {
+      "igdb_id": 160745,
+      "game_name": "Tiger Tank 59 I: Super Tank MP024",
+      "file": "missing/T/160745-tiger-tank-59-i-super-tank-mp024.json"
     },
     {
       "igdb_id": 160396,
@@ -408028,9 +408078,109 @@
       "file": "missing/T/160310-tiger-tank-59-i-super-tank-mp026.json"
     },
     {
+      "igdb_id": 160737,
+      "game_name": "Tiger Tank 59 I: Super Tank MP027",
+      "file": "missing/T/160737-tiger-tank-59-i-super-tank-mp027.json"
+    },
+    {
+      "igdb_id": 160734,
+      "game_name": "Tiger Tank 59 I: Super Tank MP028",
+      "file": "missing/T/160734-tiger-tank-59-i-super-tank-mp028.json"
+    },
+    {
+      "igdb_id": 160739,
+      "game_name": "Tiger Tank 59 I: Super Tank MP033",
+      "file": "missing/T/160739-tiger-tank-59-i-super-tank-mp033.json"
+    },
+    {
+      "igdb_id": 160738,
+      "game_name": "Tiger Tank 59 I: Super Tank MP035",
+      "file": "missing/T/160738-tiger-tank-59-i-super-tank-mp035.json"
+    },
+    {
+      "igdb_id": 160767,
+      "game_name": "Tiger Tank 59 I: Super Tank MP036",
+      "file": "missing/T/160767-tiger-tank-59-i-super-tank-mp036.json"
+    },
+    {
+      "igdb_id": 160741,
+      "game_name": "Tiger Tank 59 I: Super Tank MP037",
+      "file": "missing/T/160741-tiger-tank-59-i-super-tank-mp037.json"
+    },
+    {
       "igdb_id": 160315,
       "game_name": "Tiger Tank 59 I: Super Tank MP038",
       "file": "missing/T/160315-tiger-tank-59-i-super-tank-mp038.json"
+    },
+    {
+      "igdb_id": 160746,
+      "game_name": "Tiger Tank 59 I: Super Tank MP039",
+      "file": "missing/T/160746-tiger-tank-59-i-super-tank-mp039.json"
+    },
+    {
+      "igdb_id": 160730,
+      "game_name": "Tiger Tank 59 I: Super Tank MP040",
+      "file": "missing/T/160730-tiger-tank-59-i-super-tank-mp040.json"
+    },
+    {
+      "igdb_id": 160751,
+      "game_name": "Tiger Tank 59 I: Super Tank MP044",
+      "file": "missing/T/160751-tiger-tank-59-i-super-tank-mp044.json"
+    },
+    {
+      "igdb_id": 160768,
+      "game_name": "Tiger Tank 59 I: Super Tank MP045",
+      "file": "missing/T/160768-tiger-tank-59-i-super-tank-mp045.json"
+    },
+    {
+      "igdb_id": 160732,
+      "game_name": "Tiger Tank 59 I: Super Tank MP046",
+      "file": "missing/T/160732-tiger-tank-59-i-super-tank-mp046.json"
+    },
+    {
+      "igdb_id": 160749,
+      "game_name": "Tiger Tank 59 I: Super Tank MP047",
+      "file": "missing/T/160749-tiger-tank-59-i-super-tank-mp047.json"
+    },
+    {
+      "igdb_id": 160755,
+      "game_name": "Tiger Tank 59 I: Super Tank MP048",
+      "file": "missing/T/160755-tiger-tank-59-i-super-tank-mp048.json"
+    },
+    {
+      "igdb_id": 160735,
+      "game_name": "Tiger Tank 59 I: Super Tank MP050",
+      "file": "missing/T/160735-tiger-tank-59-i-super-tank-mp050.json"
+    },
+    {
+      "igdb_id": 160727,
+      "game_name": "Tiger Tank 59 I: Super Tank MP051",
+      "file": "missing/T/160727-tiger-tank-59-i-super-tank-mp051.json"
+    },
+    {
+      "igdb_id": 160728,
+      "game_name": "Tiger Tank 59 I: Super Tank MP052",
+      "file": "missing/T/160728-tiger-tank-59-i-super-tank-mp052.json"
+    },
+    {
+      "igdb_id": 160769,
+      "game_name": "Tiger Tank 59 I: Super Tank MP056",
+      "file": "missing/T/160769-tiger-tank-59-i-super-tank-mp056.json"
+    },
+    {
+      "igdb_id": 160758,
+      "game_name": "Tiger Tank 59 I: Super Tank MP058",
+      "file": "missing/T/160758-tiger-tank-59-i-super-tank-mp058.json"
+    },
+    {
+      "igdb_id": 160748,
+      "game_name": "Tiger Tank 59 I: Super Tank MP060",
+      "file": "missing/T/160748-tiger-tank-59-i-super-tank-mp060.json"
+    },
+    {
+      "igdb_id": 160753,
+      "game_name": "Tiger Tank 59 I: Super Tank MP061",
+      "file": "missing/T/160753-tiger-tank-59-i-super-tank-mp061.json"
     },
     {
       "igdb_id": 160401,
@@ -408038,14 +408188,114 @@
       "file": "missing/T/160401-tiger-tank-59-i-super-tank-mp062.json"
     },
     {
+      "igdb_id": 160761,
+      "game_name": "Tiger Tank 59 I: Super Tank MP066",
+      "file": "missing/T/160761-tiger-tank-59-i-super-tank-mp066.json"
+    },
+    {
+      "igdb_id": 160726,
+      "game_name": "Tiger Tank 59 I: Super Tank MP068",
+      "file": "missing/T/160726-tiger-tank-59-i-super-tank-mp068.json"
+    },
+    {
+      "igdb_id": 160770,
+      "game_name": "Tiger Tank 59 I: Super Tank MP071",
+      "file": "missing/T/160770-tiger-tank-59-i-super-tank-mp071.json"
+    },
+    {
       "igdb_id": 160342,
       "game_name": "Tiger Tank 59 I: Super Tank MP072",
       "file": "missing/T/160342-tiger-tank-59-i-super-tank-mp072.json"
     },
     {
+      "igdb_id": 160752,
+      "game_name": "Tiger Tank 59 I: Super Tank MP073",
+      "file": "missing/T/160752-tiger-tank-59-i-super-tank-mp073.json"
+    },
+    {
+      "igdb_id": 160721,
+      "game_name": "Tiger Tank 59 I: Super Tank MP074",
+      "file": "missing/T/160721-tiger-tank-59-i-super-tank-mp074.json"
+    },
+    {
+      "igdb_id": 160760,
+      "game_name": "Tiger Tank 59 I: Super Tank MP075",
+      "file": "missing/T/160760-tiger-tank-59-i-super-tank-mp075.json"
+    },
+    {
+      "igdb_id": 160747,
+      "game_name": "Tiger Tank 59 I: Super Tank MP076",
+      "file": "missing/T/160747-tiger-tank-59-i-super-tank-mp076.json"
+    },
+    {
+      "igdb_id": 160750,
+      "game_name": "Tiger Tank 59 I: Super Tank MP077",
+      "file": "missing/T/160750-tiger-tank-59-i-super-tank-mp077.json"
+    },
+    {
+      "igdb_id": 160762,
+      "game_name": "Tiger Tank 59 I: Super Tank MP078",
+      "file": "missing/T/160762-tiger-tank-59-i-super-tank-mp078.json"
+    },
+    {
+      "igdb_id": 160764,
+      "game_name": "Tiger Tank 59 I: Super Tank MP080",
+      "file": "missing/T/160764-tiger-tank-59-i-super-tank-mp080.json"
+    },
+    {
+      "igdb_id": 160759,
+      "game_name": "Tiger Tank 59 I: Super Tank MP087",
+      "file": "missing/T/160759-tiger-tank-59-i-super-tank-mp087.json"
+    },
+    {
+      "igdb_id": 160757,
+      "game_name": "Tiger Tank 59 I: Super Tank MP088",
+      "file": "missing/T/160757-tiger-tank-59-i-super-tank-mp088.json"
+    },
+    {
+      "igdb_id": 160763,
+      "game_name": "Tiger Tank 59 I: Super Tank MP090",
+      "file": "missing/T/160763-tiger-tank-59-i-super-tank-mp090.json"
+    },
+    {
+      "igdb_id": 160756,
+      "game_name": "Tiger Tank 59 I: Super Tank MP091",
+      "file": "missing/T/160756-tiger-tank-59-i-super-tank-mp091.json"
+    },
+    {
+      "igdb_id": 160731,
+      "game_name": "Tiger Tank 59 I: Super Tank MP093",
+      "file": "missing/T/160731-tiger-tank-59-i-super-tank-mp093.json"
+    },
+    {
+      "igdb_id": 160743,
+      "game_name": "Tiger Tank 59 I: Super Tank MP094",
+      "file": "missing/T/160743-tiger-tank-59-i-super-tank-mp094.json"
+    },
+    {
+      "igdb_id": 160754,
+      "game_name": "Tiger Tank 59 I: Super Tank MP095",
+      "file": "missing/T/160754-tiger-tank-59-i-super-tank-mp095.json"
+    },
+    {
+      "igdb_id": 160725,
+      "game_name": "Tiger Tank 59 I: Super Tank MP096",
+      "file": "missing/T/160725-tiger-tank-59-i-super-tank-mp096.json"
+    },
+    {
+      "igdb_id": 160722,
+      "game_name": "Tiger Tank 59 I: Super Tank MP097",
+      "file": "missing/T/160722-tiger-tank-59-i-super-tank-mp097.json"
+    },
+    {
       "igdb_id": 160372,
       "game_name": "Tiger Tank 59 I: Super Tank MP098",
       "file": "missing/T/160372-tiger-tank-59-i-super-tank-mp098.json"
+    },
+    {
+      "igdb_id": 160742,
+      "game_name": "Tiger Tank 59 I: Super Tank MP099",
+      "file": "missing/T/160742-tiger-tank-59-i-super-tank-mp099.json"
     },
     {
       "igdb_id": 160322,
