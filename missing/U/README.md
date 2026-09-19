@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsubscribed: The Game | 117913 | [117913-unsubscribed-the-game.json](./117913-unsubscribed-the-game.json) |
 | Unsung Empires: The Cholas | 244379 | [244379-unsung-empires-the-cholas.json](./244379-unsung-empires-the-cholas.json) |
 | Unsung Heroes: The Golden Mask | 124146 | [124146-unsung-heroes-the-golden-mask.json](./124146-unsung-heroes-the-golden-mask.json) |
+| Unsung Knight | 163811 | [163811-unsung-knight.json](./163811-unsung-knight.json) |
 | Unsustainable: a god job | 180842 | [180842-unsustainable-a-god-job.json](./180842-unsustainable-a-god-job.json) |
 | Untamed | 280233 | [280233-untamed.json](./280233-untamed.json) |
 | Untamed Kingdom | 274765 | [274765-untamed-kingdom.json](./274765-untamed-kingdom.json) |
