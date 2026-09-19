@@ -1644,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
 | Senli 307 | 224618 | [224618-senli-307.json](./224618-senli-307.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
+| Senora | 136231 | [136231-senora.json](./136231-senora.json) |
 | Senpai and the Mysterious Island | 325686 | [325686-senpai-and-the-mysterious-island.json](./325686-senpai-and-the-mysterious-island.json) |
 | Senpai ga Imouto no Saigo no Natsu | 406199 | [406199-senpai-ga-imouto-no-saigo-no-natsu.json](./406199-senpai-ga-imouto-no-saigo-no-natsu.json) |
 | Senpie | 374048 | [374048-senpie.json](./374048-senpie.json) |
@@ -2225,8 +2226,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shank the Cop | 155988 | [155988-shank-the-cop.json](./155988-shank-the-cop.json) |
 | Shankala | 377045 | [377045-shankala.json](./377045-shankala.json) |
 | Shantae Advance: Risky Revolution | 276506 | [276506-shantae-advance-risky-revolution.json](./276506-shantae-advance-risky-revolution.json) |
+| Shantae and the Pirate's Curse: Collector's Edition | 136272 | [136272-shantae-and-the-pirates-curse-collectors-edition.json](./136272-shantae-and-the-pirates-curse-collectors-edition.json) |
 | Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
 | Shantae: Costume Pack | 275016 | [275016-shantae-costume-pack.json](./275016-shantae-costume-pack.json) |
+| Shantae: Half-Genie Hero - Ultimate Day One Edition | 136277 | [136277-shantae-half-genie-hero-ultimate-day-one-edition.json](./136277-shantae-half-genie-hero-ultimate-day-one-edition.json) |
 | Shanties in Strange Waters | 180756 | [180756-shanties-in-strange-waters.json](./180756-shanties-in-strange-waters.json) |
 | ShantyTown | 258979 | [258979-shantytown.json](./258979-shantytown.json) |
 | Shanubis | 223459 | [223459-shanubis.json](./223459-shanubis.json) |
@@ -2594,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Lore | 316800 | [316800-shining-lore.json](./316800-shining-lore.json) |
 | Shining Orb Prequel | 109704 | [109704-shining-orb-prequel.json](./109704-shining-orb-prequel.json) |
 | Shining Resonance | 44561 | [44561-shining-resonance.json](./44561-shining-resonance.json) |
+| Shining Resonance Refrain: Draconic Launch Edition | 136281 | [136281-shining-resonance-refrain-draconic-launch-edition.json](./136281-shining-resonance-refrain-draconic-launch-edition.json) |
 | Shining Resonance Refrain: Premium Fan Box - Limited Edition | 212320 | [212320-shining-resonance-refrain-premium-fan-box-limited-edition.json](./212320-shining-resonance-refrain-premium-fan-box-limited-edition.json) |
 | Shining Song Starnova | 52062 | [52062-shining-song-starnova.json](./52062-shining-song-starnova.json) |
 | Shining Song Starnova: Idol Empire | 129476 | [129476-shining-song-starnova-idol-empire.json](./129476-shining-song-starnova-idol-empire.json) |
@@ -7341,6 +7345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star of Lemutia | 76541 | [76541-star-of-lemutia.json](./76541-star-of-lemutia.json) |
 | Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
 | Star Overdrive | 314935 | [314935-star-overdrive.json](./314935-star-overdrive.json) |
+| Star Phantom | 136240 | [136240-star-phantom.json](./136240-star-phantom.json) |
 | Star Pilot | 72613 | [72613-star-pilot.json](./72613-star-pilot.json) |
 | Star Pixie | 153938 | [153938-star-pixie.json](./153938-star-pixie.json) |
 | Star Post | 47253 | [47253-star-post.json](./47253-star-post.json) |
@@ -9488,6 +9493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Galaxy Ball | 219579 | [219579-super-galaxy-ball.json](./219579-super-galaxy-ball.json) |
 | Super Galaxy Squadron EX | 17991 | [17991-super-galaxy-squadron-ex.json](./17991-super-galaxy-squadron-ex.json) |
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
+| Super Gears N Gators | 136228 | [136228-super-gears-n-gators.json](./136228-super-gears-n-gators.json) |
 | Super Gerball | 89179 | [89179-super-gerball.json](./89179-super-gerball.json) |
 | Super Gerry | 113641 | [113641-super-gerry.json](./113641-super-gerry.json) |
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
