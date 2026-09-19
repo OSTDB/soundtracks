@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vesper | 137046 | [137046-vesper.json](./137046-vesper.json) |
 | Vesper Hotel | 391067 | [391067-vesper-hotel.json](./391067-vesper-hotel.json) |
 | Vesper: Ether Saga | 158673 | [158673-vesper-ether-saga.json](./158673-vesper-ether-saga.json) |
+| Vesper.5 | 139808 | [139808-vesper-5.json](./139808-vesper-5.json) |
 | Vespera | 408878 | [408878-vespera.json](./408878-vespera.json) |
 | Vespera_Hotel | 296105 | [296105-vespera-hotel.json](./296105-vespera-hotel.json) |
 | Vesperia Bononia | 332268 | [332268-vesperia-bononia.json](./332268-vesperia-bononia.json) |
