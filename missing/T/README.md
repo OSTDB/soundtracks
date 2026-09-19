@@ -2161,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Catch! | 262074 | [262074-the-catch.json](./262074-the-catch.json) |
 | The Cats of Ulthar | 182557 | [182557-the-cats-of-ulthar.json](./182557-the-cats-of-ulthar.json) |
 | The Cave | 2175 | [2175-the-cave.json](./2175-the-cave.json) |
+| The Cave of Atman | 179066 | [179066-the-cave-of-atman.json](./179066-the-cave-of-atman.json) |
 | The Cave of Magic | 413648 | [413648-the-cave-of-magic.json](./413648-the-cave-of-magic.json) |
 | The Celestial Tales | 275689 | [275689-the-celestial-tales.json](./275689-the-celestial-tales.json) |
 | The Celestra | 191090 | [191090-the-celestra.json](./191090-the-celestra.json) |
@@ -5050,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Space Adventure | 71472 | [71472-the-space-adventure.json](./71472-the-space-adventure.json) |
 | The Space Ark | 78614 | [78614-the-space-ark.json](./78614-the-space-ark.json) |
 | The Space Opera "Dragon Eyes" | 125954 | [125954-the-space-opera-dragon-eyes.json](./125954-the-space-opera-dragon-eyes.json) |
+| The Space Sim | 179057 | [179057-the-space-sim.json](./179057-the-space-sim.json) |
 | The Spatials | 51520 | [51520-the-spatials.json](./51520-the-spatials.json) |
 | The Spatials Collection | 53775 | [53775-the-spatials-collection.json](./53775-the-spatials-collection.json) |
 | The Spearman | 323316 | [323316-the-spearman.json](./323316-the-spearman.json) |
@@ -5131,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Succubi Trap | 74354 | [74354-the-succubi-trap.json](./74354-the-succubi-trap.json) |
 | The Sueño | 86088 | [86088-the-sueno.json](./86088-the-sueno.json) |
 | The Suicide Forest | 133428 | [133428-the-suicide-forest.json](./133428-the-suicide-forest.json) |
+| The Suicide Game | 179075 | [179075-the-suicide-game.json](./179075-the-suicide-game.json) |
 | The Suite Life of Zack & Cody: Tipton Trouble | 72115 | [72115-the-suite-life-of-zack-and-cody-tipton-trouble.json](./72115-the-suite-life-of-zack-and-cody-tipton-trouble.json) |
 | The Sullen Boku Girls Alliance | 225634 | [225634-the-sullen-boku-girls-alliance.json](./225634-the-sullen-boku-girls-alliance.json) |
 | The Sum of All Fears | 1863 | [1863-the-sum-of-all-fears.json](./1863-the-sum-of-all-fears.json) |
@@ -5804,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The_Painther | 410884 | [410884-the-painther.json](./410884-the-painther.json) |
 | The.Thend.End | 112992 | [112992-the-thend-end.json](./112992-the-thend-end.json) |
 | Thea Bundle | 192306 | [192306-thea-bundle.json](./192306-thea-bundle.json) |
+| Thea is Drowning | 179072 | [179072-thea-is-drowning.json](./179072-thea-is-drowning.json) |
 | Theater of Death | 206191 | [206191-theater-of-death.json](./206191-theater-of-death.json) |
 | Theater of the Mind | 366286 | [366286-theater-of-the-mind.json](./366286-theater-of-the-mind.json) |
 | Theatre of Death | 15483 | [15483-theatre-of-death.json](./15483-theatre-of-death.json) |
@@ -9003,6 +9007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triga | 199652 | [199652-triga.json](./199652-triga.json) |
 | Trigaea | 227914 | [227914-trigaea.json](./227914-trigaea.json) |
 | Trigger | 104044 | [104044-trigger.json](./104044-trigger.json) |
+| Trigger | 179070 | [179070-trigger.json](./179070-trigger.json) |
 | Trigger Happy | 174806 | [174806-trigger-happy.json](./174806-trigger-happy.json) |
 | Trigger Rally | 63239 | [63239-trigger-rally.json](./63239-trigger-rally.json) |
 | Trigger Saint | 35627 | [35627-trigger-saint.json](./35627-trigger-saint.json) |
