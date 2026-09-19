@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T06:32:42.747Z",
-  "total_missing": 91021,
+  "generated_at": "2026-09-19T06:47:35.373Z",
+  "total_missing": 91071,
   "games": [
     {
       "igdb_id": 176875,
@@ -12518,6 +12518,11 @@
       "file": "missing/A/115704-amandas-sticker-book-2-amazing-wldlife.json"
     },
     {
+      "igdb_id": 166081,
+      "game_name": "Amane Switch",
+      "file": "missing/A/166081-amane-switch.json"
+    },
+    {
       "igdb_id": 381633,
       "game_name": "Amaneku Tenshi ni Yakusoku wo",
       "file": "missing/A/381633-amaneku-tenshi-ni-yakusoku-wo.json"
@@ -12701,6 +12706,11 @@
       "igdb_id": 127939,
       "game_name": "Amazing Cultivation Simulator",
       "file": "missing/A/127939-amazing-cultivation-simulator.json"
+    },
+    {
+      "igdb_id": 166058,
+      "game_name": "Amazing Cultivation Simulator: Deep in the bamboo Forest",
+      "file": "missing/A/166058-amazing-cultivation-simulator-deep-in-the-bamboo-forest.json"
     },
     {
       "igdb_id": 76619,
@@ -42158,6 +42168,16 @@
       "file": "missing/B/129758-blendy-2-dolls-factory.json"
     },
     {
+      "igdb_id": 166082,
+      "game_name": "Bless Unleashed: Deluxe Founder's Pack",
+      "file": "missing/B/166082-bless-unleashed-deluxe-founders-pack.json"
+    },
+    {
+      "igdb_id": 166077,
+      "game_name": "Bless Unleashed: Exalted Founder's Pack",
+      "file": "missing/B/166077-bless-unleashed-exalted-founders-pack.json"
+    },
+    {
       "igdb_id": 334133,
       "game_name": "Bless You Again",
       "file": "missing/B/334133-bless-you-again.json"
@@ -49846,6 +49866,11 @@
       "igdb_id": 229332,
       "game_name": "Brick Odyssey",
       "file": "missing/B/229332-brick-odyssey.json"
+    },
+    {
+      "igdb_id": 166071,
+      "game_name": "Brick People",
+      "file": "missing/B/166071-brick-people.json"
     },
     {
       "igdb_id": 30650,
@@ -89203,6 +89228,11 @@
       "file": "missing/D/26822-deadlings-rotten-edition.json"
     },
     {
+      "igdb_id": 166073,
+      "game_name": "DeadLock",
+      "file": "missing/D/166073-deadlock.json"
+    },
+    {
       "igdb_id": 197796,
       "game_name": "Deadlocked",
       "file": "missing/D/197796-deadlocked.json"
@@ -94871,6 +94901,11 @@
       "igdb_id": 301952,
       "game_name": "Devil's Food",
       "file": "missing/D/301952-devils-food.json"
+    },
+    {
+      "igdb_id": 166056,
+      "game_name": "Devil's Gold",
+      "file": "missing/D/166056-devils-gold.json"
     },
     {
       "igdb_id": 285016,
@@ -118468,6 +118503,11 @@
       "file": "missing/E/283290-escape-from-the-island.json"
     },
     {
+      "igdb_id": 166061,
+      "game_name": "Escape from the Lockdown: The Demon Fortress",
+      "file": "missing/E/166061-escape-from-the-lockdown-the-demon-fortress.json"
+    },
+    {
       "igdb_id": 12067,
       "game_name": "Escape from the Planet of the Robot Monsters",
       "file": "missing/E/12067-escape-from-the-planet-of-the-robot-monsters.json"
@@ -126828,9 +126868,29 @@
       "file": "missing/F/9499-farming-simulator-15.json"
     },
     {
+      "igdb_id": 166091,
+      "game_name": "Farming Simulator 15: Holmer",
+      "file": "missing/F/166091-farming-simulator-15-holmer.json"
+    },
+    {
+      "igdb_id": 166084,
+      "game_name": "Farming Simulator 15: JCB",
+      "file": "missing/F/166084-farming-simulator-15-jcb.json"
+    },
+    {
+      "igdb_id": 166083,
+      "game_name": "Farming Simulator 15: New Holland Pack",
+      "file": "missing/F/166083-farming-simulator-15-new-holland-pack.json"
+    },
+    {
       "igdb_id": 110336,
       "game_name": "Farming Simulator 17 big bud pack",
       "file": "missing/F/110336-farming-simulator-17-big-bud-pack.json"
+    },
+    {
+      "igdb_id": 166090,
+      "game_name": "Farming Simulator 17: KUHN Equipment Pack",
+      "file": "missing/F/166090-farming-simulator-17-kuhn-equipment-pack.json"
     },
     {
       "igdb_id": 24785,
@@ -126838,9 +126898,39 @@
       "file": "missing/F/24785-farming-simulator-17-platinum-expansion.json"
     },
     {
+      "igdb_id": 166102,
+      "game_name": "Farming Simulator 19: Alpine Farming Expansion",
+      "file": "missing/F/166102-farming-simulator-19-alpine-farming-expansion.json"
+    },
+    {
       "igdb_id": 202420,
       "game_name": "Farming Simulator 19: Ambassador Edition",
       "file": "missing/F/202420-farming-simulator-19-ambassador-edition.json"
+    },
+    {
+      "igdb_id": 166098,
+      "game_name": "Farming Simulator 19: Anderson Group Equipment Pack",
+      "file": "missing/F/166098-farming-simulator-19-anderson-group-equipment-pack.json"
+    },
+    {
+      "igdb_id": 166099,
+      "game_name": "Farming Simulator 19: Bourgault DLC",
+      "file": "missing/F/166099-farming-simulator-19-bourgault-dlc.json"
+    },
+    {
+      "igdb_id": 166101,
+      "game_name": "Farming Simulator 19: Grimme Equipment Pack",
+      "file": "missing/F/166101-farming-simulator-19-grimme-equipment-pack.json"
+    },
+    {
+      "igdb_id": 166100,
+      "game_name": "Farming Simulator 19: Holmer Terra Variant DLC",
+      "file": "missing/F/166100-farming-simulator-19-holmer-terra-variant-dlc.json"
+    },
+    {
+      "igdb_id": 166105,
+      "game_name": "Farming Simulator 19: John Deere Cotton DLC",
+      "file": "missing/F/166105-farming-simulator-19-john-deere-cotton-dlc.json"
     },
     {
       "igdb_id": 121755,
@@ -126858,6 +126948,11 @@
       "file": "missing/F/139999-farming-simulator-19-premium-edition.json"
     },
     {
+      "igdb_id": 166104,
+      "game_name": "Farming Simulator 19: Rottne DLC",
+      "file": "missing/F/166104-farming-simulator-19-rottne-dlc.json"
+    },
+    {
       "igdb_id": 183965,
       "game_name": "Farming Simulator 2008 2",
       "file": "missing/F/183965-farming-simulator-2008-2.json"
@@ -126868,9 +126963,59 @@
       "file": "missing/F/3176-farming-simulator-2011.json"
     },
     {
+      "igdb_id": 166086,
+      "game_name": "Farming Simulator 2011: Classics",
+      "file": "missing/F/166086-farming-simulator-2011-classics.json"
+    },
+    {
+      "igdb_id": 166087,
+      "game_name": "Farming Simulator 2011: Equipment Pack 1",
+      "file": "missing/F/166087-farming-simulator-2011-equipment-pack-1.json"
+    },
+    {
+      "igdb_id": 166088,
+      "game_name": "Farming Simulator 2011: Equipment Pack 2",
+      "file": "missing/F/166088-farming-simulator-2011-equipment-pack-2.json"
+    },
+    {
+      "igdb_id": 166089,
+      "game_name": "Farming Simulator 2011: Equipment Pack 3",
+      "file": "missing/F/166089-farming-simulator-2011-equipment-pack-3.json"
+    },
+    {
       "igdb_id": 3180,
       "game_name": "Farming Simulator 2013",
       "file": "missing/F/3180-farming-simulator-2013.json"
+    },
+    {
+      "igdb_id": 166095,
+      "game_name": "Farming Simulator 2013: Classics",
+      "file": "missing/F/166095-farming-simulator-2013-classics.json"
+    },
+    {
+      "igdb_id": 166093,
+      "game_name": "Farming Simulator 2013: Lindner Unitrac",
+      "file": "missing/F/166093-farming-simulator-2013-lindner-unitrac.json"
+    },
+    {
+      "igdb_id": 166097,
+      "game_name": "Farming Simulator 2013: Marshall Trailers",
+      "file": "missing/F/166097-farming-simulator-2013-marshall-trailers.json"
+    },
+    {
+      "igdb_id": 166094,
+      "game_name": "Farming Simulator 2013: Official Expansion",
+      "file": "missing/F/166094-farming-simulator-2013-official-expansion.json"
+    },
+    {
+      "igdb_id": 166096,
+      "game_name": "Farming Simulator 2013: Ursus",
+      "file": "missing/F/166096-farming-simulator-2013-ursus.json"
+    },
+    {
+      "igdb_id": 166092,
+      "game_name": "Farming Simulator 2013: Väderstad",
+      "file": "missing/F/166092-farming-simulator-2013-vaderstad.json"
     },
     {
       "igdb_id": 276271,
@@ -143793,6 +143938,11 @@
       "file": "missing/G/170501-g-mode-archives-17-flyhight-cloudia-iii.json"
     },
     {
+      "igdb_id": 166078,
+      "game_name": "G-Mode Archives 19: Magical Drop DX",
+      "file": "missing/G/166078-g-mode-archives-19-magical-drop-dx.json"
+    },
+    {
       "igdb_id": 221732,
       "game_name": "G-Mode Archives 43: Izumi Jiken File Vol. 3 - Yujuku-hen",
       "file": "missing/G/221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json"
@@ -154836,6 +154986,11 @@
       "igdb_id": 260251,
       "game_name": "Grandma(88)",
       "file": "missing/G/260251-grandma-88.json"
+    },
+    {
+      "igdb_id": 166075,
+      "game_name": "Grandmaster Chess",
+      "file": "missing/G/166075-grandmaster-chess.json"
     },
     {
       "igdb_id": 215355,
@@ -176988,6 +177143,11 @@
       "file": "missing/H/11498-hunt-the-wumpus.json"
     },
     {
+      "igdb_id": 166067,
+      "game_name": "Hunt: Showdown - Bayou Wraith",
+      "file": "missing/H/166067-hunt-showdown-bayou-wraith.json"
+    },
+    {
       "igdb_id": 224219,
       "game_name": "Hunt: Showdown - Fear the Reaper",
       "file": "missing/H/224219-hunt-showdown-fear-the-reaper.json"
@@ -177003,9 +177163,19 @@
       "file": "missing/H/226206-hunt-showdown-the-concubine.json"
     },
     {
+      "igdb_id": 166069,
+      "game_name": "Hunt: Showdown - Through the Bone Briar",
+      "file": "missing/H/166069-hunt-showdown-through-the-bone-briar.json"
+    },
+    {
       "igdb_id": 276197,
       "game_name": "Hunt: Showdown 1896 - Law of Salvage",
       "file": "missing/H/276197-hunt-showdown-1896-law-of-salvage.json"
+    },
+    {
+      "igdb_id": 166070,
+      "game_name": "Hunt: Showdown 1896 - Legends of the Bayou",
+      "file": "missing/H/166070-hunt-showdown-1896-legends-of-the-bayou.json"
     },
     {
       "igdb_id": 253930,
@@ -178341,6 +178511,16 @@
       "igdb_id": 179116,
       "game_name": "I Am Alone Too",
       "file": "missing/I/179116-i-am-alone-too.json"
+    },
+    {
+      "igdb_id": 166065,
+      "game_name": "I am an Air Traffic Controller 4",
+      "file": "missing/I/166065-i-am-an-air-traffic-controller-4.json"
+    },
+    {
+      "igdb_id": 166066,
+      "game_name": "I am an Air Traffic Controller 4: Airport Naha - Roah",
+      "file": "missing/I/166066-i-am-an-air-traffic-controller-4-airport-naha-roah.json"
     },
     {
       "igdb_id": 310386,
@@ -182831,6 +183011,11 @@
       "igdb_id": 260141,
       "game_name": "Incineration",
       "file": "missing/I/260141-incineration.json"
+    },
+    {
+      "igdb_id": 166062,
+      "game_name": "Incision",
+      "file": "missing/I/166062-incision.json"
     },
     {
       "igdb_id": 67935,
@@ -203986,6 +204171,11 @@
       "igdb_id": 63855,
       "game_name": "Labyrinth of Touhou",
       "file": "missing/L/63855-labyrinth-of-touhou.json"
+    },
+    {
+      "igdb_id": 166080,
+      "game_name": "Labyrinth of Touhou: Gensoukyo and the Heaven Piercing Tree",
+      "file": "missing/L/166080-labyrinth-of-touhou-gensoukyo-and-the-heaven-piercing-tree.json"
     },
     {
       "igdb_id": 246643,
@@ -234326,6 +234516,11 @@
       "igdb_id": 102792,
       "game_name": "Midnight Calling: Jeronimo",
       "file": "missing/M/102792-midnight-calling-jeronimo.json"
+    },
+    {
+      "igdb_id": 166059,
+      "game_name": "Midnight Calling: Valeria - Collector's Edition",
+      "file": "missing/M/166059-midnight-calling-valeria-collectors-edition.json"
     },
     {
       "igdb_id": 294462,
@@ -266368,6 +266563,11 @@
       "file": "missing/O/74475-onescreen-wagons.json"
     },
     {
+      "igdb_id": 166079,
+      "game_name": "OneShot: Fading Memory",
+      "file": "missing/O/166079-oneshot-fading-memory.json"
+    },
+    {
       "igdb_id": 231921,
       "game_name": "Onet 3D",
       "file": "missing/O/231921-onet-3d.json"
@@ -272163,6 +272363,11 @@
       "file": "missing/P/190739-paladins-oath.json"
     },
     {
+      "igdb_id": 166057,
+      "game_name": "Paladin's Quest",
+      "file": "missing/P/166057-paladins-quest.json"
+    },
+    {
       "igdb_id": 263482,
       "game_name": "Paladins: Feathered Fiend Pack",
       "file": "missing/P/263482-paladins-feathered-fiend-pack.json"
@@ -274701,6 +274906,11 @@
       "igdb_id": 174910,
       "game_name": "Parodius",
       "file": "missing/P/174910-parodius.json"
+    },
+    {
+      "igdb_id": 166063,
+      "game_name": "Parquet",
+      "file": "missing/P/166063-parquet.json"
     },
     {
       "igdb_id": 186827,
@@ -296271,6 +296481,11 @@
       "igdb_id": 158143,
       "game_name": "Puzzle Bowling",
       "file": "missing/P/158143-puzzle-bowling.json"
+    },
+    {
+      "igdb_id": 166072,
+      "game_name": "Puzzle Box",
+      "file": "missing/P/166072-puzzle-box.json"
     },
     {
       "igdb_id": 84795,
@@ -356868,6 +357083,11 @@
       "file": "missing/S/307931-station-5.json"
     },
     {
+      "igdb_id": 166074,
+      "game_name": "Station Commander",
+      "file": "missing/S/166074-station-commander.json"
+    },
+    {
       "igdb_id": 76654,
       "game_name": "Station Commander",
       "file": "missing/S/76654-station-commander.json"
@@ -369016,6 +369236,11 @@
       "igdb_id": 139919,
       "game_name": "Surface: The Noise She Couldn't Make",
       "file": "missing/S/139919-surface-the-noise-she-couldnt-make.json"
+    },
+    {
+      "igdb_id": 166076,
+      "game_name": "Surface: Virtual Detective - Collector's Edition",
+      "file": "missing/S/166076-surface-virtual-detective-collectors-edition.json"
     },
     {
       "igdb_id": 85529,
@@ -387076,6 +387301,11 @@
       "igdb_id": 181234,
       "game_name": "The Foreverlands",
       "file": "missing/T/181234-the-foreverlands.json"
+    },
+    {
+      "igdb_id": 166060,
+      "game_name": "The Forger",
+      "file": "missing/T/166060-the-forger.json"
     },
     {
       "igdb_id": 352186,
@@ -406491,6 +406721,26 @@
       "igdb_id": 160359,
       "game_name": "Tiger Tank 59 I: Winter Assault MP024",
       "file": "missing/T/160359-tiger-tank-59-i-winter-assault-mp024.json"
+    },
+    {
+      "igdb_id": 166108,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP051",
+      "file": "missing/T/166108-tiger-tank-59-i-winter-assault-mp051.json"
+    },
+    {
+      "igdb_id": 166106,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP052",
+      "file": "missing/T/166106-tiger-tank-59-i-winter-assault-mp052.json"
+    },
+    {
+      "igdb_id": 166107,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP053",
+      "file": "missing/T/166107-tiger-tank-59-i-winter-assault-mp053.json"
+    },
+    {
+      "igdb_id": 166109,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP058",
+      "file": "missing/T/166109-tiger-tank-59-i-winter-assault-mp058.json"
     },
     {
       "igdb_id": 173761,
