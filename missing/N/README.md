@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature's Habit | 195103 | [195103-natures-habit.json](./195103-natures-habit.json) |
 | Naturix | 159182 | [159182-naturix.json](./159182-naturix.json) |
 | Naught | 117751 | [117751-naught.json](./117751-naught.json) |
+| Naught | 150502 | [150502-naught.json](./150502-naught.json) |
 | Naught Reawakening | 35798 | [35798-naught-reawakening.json](./35798-naught-reawakening.json) |
 | Naught: Edahi & Dohai | 238215 | [238215-naught-edahi-and-dohai.json](./238215-naught-edahi-and-dohai.json) |
 | Naughty | 348778 | [348778-naughty.json](./348778-naughty.json) |
@@ -1813,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noah in a Dream | 236295 | [236295-noah-in-a-dream.json](./236295-noah-in-a-dream.json) |
 | Noah no Yurikago | 58830 | [58830-noah-no-yurikago.json](./58830-noah-no-yurikago.json) |
 | Noah Please! | 239751 | [239751-noah-please.json](./239751-noah-please.json) |
+| Noah's Ark | 150496 | [150496-noahs-ark.json](./150496-noahs-ark.json) |
 | Noah's Ark | 210023 | [210023-noahs-ark.json](./210023-noahs-ark.json) |
 | Noah's Ark | 48192 | [48192-noahs-ark.json](./48192-noahs-ark.json) |
 | Noah's Ark Animal Adventures | 213377 | [213377-noahs-ark-animal-adventures.json](./213377-noahs-ark-animal-adventures.json) |
@@ -1885,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturnal Whispers | 356632 | [356632-nocturnal-whispers.json](./356632-nocturnal-whispers.json) |
 | Nocturnals | 279107 | [279107-nocturnals.json](./279107-nocturnals.json) |
 | Nocturnarya: Collector's Edition | 362846 | [362846-nocturnarya-collectors-edition.json](./362846-nocturnarya-collectors-edition.json) |
+| Nocturne | 150509 | [150509-nocturne.json](./150509-nocturne.json) |
 | Nocturne | 402375 | [402375-nocturne.json](./402375-nocturne.json) |
 | Nocturne in Yellow | 141870 | [141870-nocturne-in-yellow.json](./141870-nocturne-in-yellow.json) |
 | Nocturne Maze: Shadows in the Hedge | 374079 | [374079-nocturne-maze-shadows-in-the-hedge.json](./374079-nocturne-maze-shadows-in-the-hedge.json) |
