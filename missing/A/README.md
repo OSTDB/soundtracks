@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Walk With Yiayia | 151184 | [151184-a-walk-with-yiayia.json](./151184-a-walk-with-yiayia.json) |
 | A War On Christmas: Part 2 | 279773 | [279773-a-war-on-christmas-part-2.json](./279773-a-war-on-christmas-part-2.json) |
 | A Warmer Shade of Summer | 151192 | [151192-a-warmer-shade-of-summer.json](./151192-a-warmer-shade-of-summer.json) |
+| A Wave of Lights | 175838 | [175838-a-wave-of-lights.json](./175838-a-wave-of-lights.json) |
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
 | A Weekend in Puzzleburg | 201680 | [201680-a-weekend-in-puzzleburg.json](./201680-a-weekend-in-puzzleburg.json) |
@@ -2836,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Moto Racing 2 | 63836 | [63836-aqua-moto-racing-2.json](./63836-aqua-moto-racing-2.json) |
 | Aqua Puzzle Adventures | 306527 | [306527-aqua-puzzle-adventures.json](./306527-aqua-puzzle-adventures.json) |
 | Aqua Racer | 293247 | [293247-aqua-racer.json](./293247-aqua-racer.json) |
+| Aqua Slug | 175837 | [175837-aqua-slug.json](./175837-aqua-slug.json) |
 | Aqua Teen Hunger Force Zombie Ninja Pro-Am | 6911 | [6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json](./6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json) |
 | Aquablast | 14262 | [14262-aquablast.json](./14262-aquablast.json) |
 | AquaBlitz: Alien Racer | 298689 | [298689-aquablitz-alien-racer.json](./298689-aquablitz-alien-racer.json) |
@@ -3022,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Tank Force | 232461 | [232461-arcade-archives-tank-force.json](./232461-arcade-archives-tank-force.json) |
 | Arcade Archives: The Astyanax | 146827 | [146827-arcade-archives-the-astyanax.json](./146827-arcade-archives-the-astyanax.json) |
 | Arcade Archives: The Final Round | 312019 | [312019-arcade-archives-the-final-round.json](./312019-arcade-archives-the-final-round.json) |
+| Arcade Archives: The Genji and the Heike Clans | 175819 | [175819-arcade-archives-the-genji-and-the-heike-clans.json](./175819-arcade-archives-the-genji-and-the-heike-clans.json) |
 | Arcade Archives: The Legend of Kage | 99569 | [99569-arcade-archives-the-legend-of-kage.json](./99569-arcade-archives-the-legend-of-kage.json) |
 | Arcade Archives: The Legend Of Valkyrie | 197892 | [197892-arcade-archives-the-legend-of-valkyrie.json](./197892-arcade-archives-the-legend-of-valkyrie.json) |
 | Arcade Archives: The Ninja Kids | 314869 | [314869-arcade-archives-the-ninja-kids.json](./314869-arcade-archives-the-ninja-kids.json) |
@@ -3245,6 +3248,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Drive | 370782 | [370782-arctic-drive.json](./370782-arctic-drive.json) |
 | Arctic Isolation | 371330 | [371330-arctic-isolation.json](./371330-arctic-isolation.json) |
 | Arctic Motel Simulator | 311829 | [311829-arctic-motel-simulator.json](./311829-arctic-motel-simulator.json) |
+| Arctic Quest | 175787 | [175787-arctic-quest.json](./175787-arctic-quest.json) |
+| Arctic Quest 2 | 175788 | [175788-arctic-quest-2.json](./175788-arctic-quest-2.json) |
 | Arctic Zone | 210639 | [210639-arctic-zone.json](./210639-arctic-zone.json) |
 | Arctic's Adventure | 264704 | [264704-arctics-adventure.json](./264704-arctics-adventure.json) |
 | Arctis | 334663 | [334663-arctis.json](./334663-arctis.json) |
@@ -3957,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids Hyper 64 | 10664 | [10664-asteroids-hyper-64.json](./10664-asteroids-hyper-64.json) |
 | Asteroids Millennium | 51716 | [51716-asteroids-millennium.json](./51716-asteroids-millennium.json) |
 | Asteroids Space Shooter | 178631 | [178631-asteroids-space-shooter.json](./178631-asteroids-space-shooter.json) |
+| Asteroids, Inc. | 175839 | [175839-asteroids-inc.json](./175839-asteroids-inc.json) |
 | Asteroids: Gunner | 64402 | [64402-asteroids-gunner.json](./64402-asteroids-gunner.json) |
 | AsteroidsHD | 18174 | [18174-asteroidshd.json](./18174-asteroidshd.json) |
 | Asteros | 304681 | [304681-asteros.json](./304681-asteros.json) |
@@ -4214,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
 | Atlantic Edge | 107935 | [107935-atlantic-edge.json](./107935-atlantic-edge.json) |
+| Atlantic Journey: The Lost Brother | 175797 | [175797-atlantic-journey-the-lost-brother.json](./175797-atlantic-journey-the-lost-brother.json) |
 | Atlantic Quest | 85504 | [85504-atlantic-quest.json](./85504-atlantic-quest.json) |
 | Atlantic Rim | 180827 | [180827-atlantic-rim.json](./180827-atlantic-rim.json) |
 | Atlantica Online | 9522 | [9522-atlantica-online.json](./9522-atlantica-online.json) |
