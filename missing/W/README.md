@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Camp | 36063 | [36063-wildlife-camp.json](./36063-wildlife-camp.json) |
 | Wildlife Hunter: Survival | 250437 | [250437-wildlife-hunter-survival.json](./250437-wildlife-hunter-survival.json) |
 | Wildlife Park | 17591 | [17591-wildlife-park.json](./17591-wildlife-park.json) |
+| Wildlife Park 2: Kitz (fawn) | 163274 | [163274-wildlife-park-2-kitz-fawn.json](./163274-wildlife-park-2-kitz-fawn.json) |
 | Wildlife Park 3 | 17177 | [17177-wildlife-park-3.json](./17177-wildlife-park-3.json) |
 | Wildlife Park 3: Alaska | 156153 | [156153-wildlife-park-3-alaska.json](./156153-wildlife-park-3-alaska.json) |
 | Wildlife Park 3: Dino Invasion | 171071 | [171071-wildlife-park-3-dino-invasion.json](./171071-wildlife-park-3-dino-invasion.json) |
