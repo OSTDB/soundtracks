@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamitsubaki City Virtual Reality | 328261 | [328261-kamitsubaki-city-virtual-reality.json](./328261-kamitsubaki-city-virtual-reality.json) |
 | Kamiwaza Wanda | 222531 | [222531-kamiwaza-wanda.json](./222531-kamiwaza-wanda.json) |
 | KamiYaba: Destiny on a Dicey Deadline | 188510 | [188510-kamiyaba-destiny-on-a-dicey-deadline.json](./188510-kamiyaba-destiny-on-a-dicey-deadline.json) |
+| Kamkball | 133803 | [133803-kamkball.json](./133803-kamkball.json) |
 | Kamla | 266813 | [266813-kamla.json](./266813-kamla.json) |
 | Kampf dem Terror | 98977 | [98977-kampf-dem-terror.json](./98977-kampf-dem-terror.json) |
 | Kana | 303607 | [303607-kana.json](./303607-kana.json) |
@@ -1604,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kost | 303618 | [303618-kost.json](./303618-kost.json) |
 | Kot-rybolov | 367945 | [367945-kot-rybolov.json](./367945-kot-rybolov.json) |
 | Koten Tsumego Shuu: Shijin no Maki | 384658 | [384658-koten-tsumego-shuu-shijin-no-maki.json](./384658-koten-tsumego-shuu-shijin-no-maki.json) |
+| Kotobuki Grand Prix | 133823 | [133823-kotobuki-grand-prix.json](./133823-kotobuki-grand-prix.json) |
 | Kotoko's a Little Weird | 290687 | [290687-kotokos-a-little-weird.json](./290687-kotokos-a-little-weird.json) |
 | Kotomasho: I Can't Believe This Neet Guy Turned Into a Magical Girl! | 203532 | [203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json](./203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json) |
 | Kotori no Tsubasa | 405511 | [405511-kotori-no-tsubasa.json](./405511-kotori-no-tsubasa.json) |
