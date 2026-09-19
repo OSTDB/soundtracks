@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannya Bullet Hell | 151671 | [151671-hannya-bullet-hell.json](./151671-hannya-bullet-hell.json) |
 | Hanoi Puzzles: Flip Match | 159810 | [159810-hanoi-puzzles-flip-match.json](./159810-hanoi-puzzles-flip-match.json) |
 | Hanoi Puzzles: Magnetrix | 159744 | [159744-hanoi-puzzles-magnetrix.json](./159744-hanoi-puzzles-magnetrix.json) |
+| Hanoi Puzzles: Solid Match | 156520 | [156520-hanoi-puzzles-solid-match.json](./156520-hanoi-puzzles-solid-match.json) |
 | Hans in the Internetz | 392266 | [392266-hans-in-the-internetz.json](./392266-hans-in-the-internetz.json) |
 | Hansel and Gretel | 215350 | [215350-hansel-and-gretel.json](./215350-hansel-and-gretel.json) |
 | Hansel and Gretel and the Enchanted Castle | 46641 | [46641-hansel-and-gretel-and-the-enchanted-castle.json](./46641-hansel-and-gretel-and-the-enchanted-castle.json) |
@@ -3697,6 +3698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperburner | 94780 | [94780-hyperburner.json](./94780-hyperburner.json) |
 | Hypercharge: Unboxed | 39758 | [39758-hypercharge-unboxed.json](./39758-hypercharge-unboxed.json) |
 | Hyperchase Auto Race | 41990 | [41990-hyperchase-auto-race.json](./41990-hyperchase-auto-race.json) |
+| Hypercide | 156532 | [156532-hypercide.json](./156532-hypercide.json) |
 | HyperCore: Rhythm Bullet Hell | 122388 | [122388-hypercore-rhythm-bullet-hell.json](./122388-hypercore-rhythm-bullet-hell.json) |
 | HyperCycle League | 383979 | [383979-hypercycle-league.json](./383979-hypercycle-league.json) |
 | Hyperdimension Neptunia | 7319 | [7319-hyperdimension-neptunia.json](./7319-hyperdimension-neptunia.json) |
