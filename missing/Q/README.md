@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: January Jump Jam | 202930 | [202930-quake-january-jump-jam.json](./202930-quake-january-jump-jam.json) |
 | Quake: January Jump Jam 2 | 202928 | [202928-quake-january-jump-jam-2.json](./202928-quake-january-jump-jam-2.json) |
 | Quake: Mission Pack 1 - Scourge of Armagon | 15760 | [15760-quake-mission-pack-1-scourge-of-armagon.json](./15760-quake-mission-pack-1-scourge-of-armagon.json) |
+| Quake: Raven Keep | 142275 | [142275-quake-raven-keep.json](./142275-quake-raven-keep.json) |
 | Quake: Realms of Tiddles | 202929 | [202929-quake-realms-of-tiddles.json](./202929-quake-realms-of-tiddles.json) |
 | Quake: Retro Jam Egyptian | 196725 | [196725-quake-retro-jam-egyptian.json](./196725-quake-retro-jam-egyptian.json) |
 | Quake: Retro Jam Windtunnel | 196726 | [196726-quake-retro-jam-windtunnel.json](./196726-quake-retro-jam-windtunnel.json) |
