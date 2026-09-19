@@ -771,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jordan vs. Bird | 361785 | [361785-jordan-vs-bird.json](./361785-jordan-vs-bird.json) |
 | Jordan vs. Bird: One on One | 361783 | [361783-jordan-vs-bird-one-on-one.json](./361783-jordan-vs-bird-one-on-one.json) |
 | Jorel's Brother and the Most Important Game of the Galaxy | 207334 | [207334-jorels-brother-and-the-most-important-game-of-the-galaxy.json](./207334-jorels-brother-and-the-most-important-game-of-the-galaxy.json) |
+| Jorry | 129032 | [129032-jorry.json](./129032-jorry.json) |
 | Joryuu Janshi ni Chousen | 97861 | [97861-joryuu-janshi-ni-chousen.json](./97861-joryuu-janshi-ni-chousen.json) |
 | Joryuu Janshi ni Chousen GB: Watashi-tachi ni Chousen Shite ne! | 97857 | [97857-joryuu-janshi-ni-chousen-gb-watashi-tachi-ni-chousen-shite-ne.json](./97857-joryuu-janshi-ni-chousen-gb-watashi-tachi-ni-chousen-shite-ne.json) |
 | Josef the Hedgehog | 330289 | [330289-josef-the-hedgehog.json](./330289-josef-the-hedgehog.json) |
@@ -1233,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice League Heroes | 197882 | [197882-justice-league-heroes.json](./197882-justice-league-heroes.json) |
 | Justice League United | 313329 | [313329-justice-league-united.json](./313329-justice-league-united.json) |
 | Justice Project | 398968 | [398968-justice-project.json](./398968-justice-project.json) |
+| Justice Strikes | 129017 | [129017-justice-strikes.json](./129017-justice-strikes.json) |
 | Justice Sucks: Tactical Vacuum Action | 138203 | [138203-justice-sucks-tactical-vacuum-action.json](./138203-justice-sucks-tactical-vacuum-action.json) |
 | Justice Xwar Online 2 | 117712 | [117712-justice-xwar-online-2.json](./117712-justice-xwar-online-2.json) |
 | Justice.exe | 132238 | [132238-justice-exe.json](./132238-justice-exe.json) |
