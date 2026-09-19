@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails of Iron II: Whiskers of Winter - Augur of the Draugr Armour Pack | 371224 | [371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json](./371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json) |
 | Tails of Iron II: Whiskers of Winter - Hair to the Throne Pack | 371223 | [371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json](./371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json) |
 | Tails of the North | 367480 | [367480-tails-of-the-north.json](./367480-tails-of-the-north.json) |
+| Tails of Trainspot | 149947 | [149947-tails-of-trainspot.json](./149947-tails-of-trainspot.json) |
 | Tails to the Rescue | 330308 | [330308-tails-to-the-rescue.json](./330308-tails-to-the-rescue.json) |
 | Tails: The Game | 330706 | [330706-tails-the-game.json](./330706-tails-the-game.json) |
 | Tails' Adventures 2 | 336355 | [336355-tails-adventures-2.json](./336355-tails-adventures-2.json) |
@@ -2663,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dragon and the Djinn | 189166 | [189166-the-dragon-and-the-djinn.json](./189166-the-dragon-and-the-djinn.json) |
 | The Dragon Apprentice | 196883 | [196883-the-dragon-apprentice.json](./196883-the-dragon-apprentice.json) |
 | The Dragon Queen | 238526 | [238526-the-dragon-queen.json](./238526-the-dragon-queen.json) |
+| The Dragon Sword | 149934 | [149934-the-dragon-sword.json](./149934-the-dragon-sword.json) |
 | The Dragon, Thyme | 280779 | [280779-the-dragon-thyme.json](./280779-the-dragon-thyme.json) |
 | The Dragoness: Command of the Flame | 211984 | [211984-the-dragoness-command-of-the-flame.json](./211984-the-dragoness-command-of-the-flame.json) |
 | The Dragonspire | 306087 | [306087-the-dragonspire.json](./306087-the-dragonspire.json) |
@@ -2886,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fancy Pants Adventures: World 4 | 210712 | [210712-the-fancy-pants-adventures-world-4.json](./210712-the-fancy-pants-adventures-world-4.json) |
 | The Fantastic Adventures of Mr. Don and Friends | 372982 | [372982-the-fantastic-adventures-of-mr-don-and-friends.json](./372982-the-fantastic-adventures-of-mr-don-and-friends.json) |
 | The Fantastic Game | 230520 | [230520-the-fantastic-game.json](./230520-the-fantastic-game.json) |
+| The Far Kingdoms: Forgotten Relics | 149927 | [149927-the-far-kingdoms-forgotten-relics.json](./149927-the-far-kingdoms-forgotten-relics.json) |
 | The Far Kingdoms: Garden Mosaics | 415906 | [415906-the-far-kingdoms-garden-mosaics.json](./415906-the-far-kingdoms-garden-mosaics.json) |
 | The Far Kingdoms: Magic Mosaics | 164876 | [164876-the-far-kingdoms-magic-mosaics.json](./164876-the-far-kingdoms-magic-mosaics.json) |
 | The Far Kingdoms: Magic Mosaics II | 337616 | [337616-the-far-kingdoms-magic-mosaics-ii.json](./337616-the-far-kingdoms-magic-mosaics-ii.json) |
@@ -5160,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soldat with Twin Arms | 151753 | [151753-the-soldat-with-twin-arms.json](./151753-the-soldat-with-twin-arms.json) |
 | The Soldier and the Golden Princess | 331116 | [331116-the-soldier-and-the-golden-princess.json](./331116-the-soldier-and-the-golden-princess.json) |
 | The Soldiers Factory | 164336 | [164336-the-soldiers-factory.json](./164336-the-soldiers-factory.json) |
+| The Sole Survivor | 149929 | [149929-the-sole-survivor.json](./149929-the-sole-survivor.json) |
 | The Solitaire Conspiracy: Return of the Merry | 243808 | [243808-the-solitaire-conspiracy-return-of-the-merry.json](./243808-the-solitaire-conspiracy-return-of-the-merry.json) |
 | The Solitaire Conspiracy: The Atlantis Project | 243807 | [243807-the-solitaire-conspiracy-the-atlantis-project.json](./243807-the-solitaire-conspiracy-the-atlantis-project.json) |
 | The Solitary Existence of a Little Universe | 370226 | [370226-the-solitary-existence-of-a-little-universe.json](./370226-the-solitary-existence-of-a-little-universe.json) |
@@ -6312,6 +6316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throw Anything: Zombie Invaders | 373090 | [373090-throw-anything-zombie-invaders.json](./373090-throw-anything-zombie-invaders.json) |
 | Throw Bro | 302350 | [302350-throw-bro.json](./302350-throw-bro.json) |
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
+| Throw It | 149926 | [149926-throw-it.json](./149926-throw-it.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
 | Throw Me in the River | 149600 | [149600-throw-me-in-the-river.json](./149600-throw-me-in-the-river.json) |
 | Throw Me To My Planet | 257443 | [257443-throw-me-to-my-planet.json](./257443-throw-me-to-my-planet.json) |
@@ -8547,6 +8552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Road | 353949 | [353949-traffic-road.json](./353949-traffic-road.json) |
 | Traffic Rush | 87886 | [87886-traffic-rush.json](./87886-traffic-rush.json) |
 | Traffic Rush: Ultimate Drive | 413090 | [413090-traffic-rush-ultimate-drive.json](./413090-traffic-rush-ultimate-drive.json) |
+| Traffic V | 149931 | [149931-traffic-v.json](./149931-traffic-v.json) |
 | Traffix | 118755 | [118755-traffix.json](./118755-traffix.json) |
 | Traffix 3D | 296071 | [296071-traffix-3d.json](./296071-traffix-3d.json) |
 | Tragedy of Prince Rupert | 50891 | [50891-tragedy-of-prince-rupert.json](./50891-tragedy-of-prince-rupert.json) |
