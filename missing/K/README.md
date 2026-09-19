@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karjala | 303606 | [303606-karjala.json](./303606-karjala.json) |
 | Karl Marx and the Ring of Communism | 217367 | [217367-karl-marx-and-the-ring-of-communism.json](./217367-karl-marx-and-the-ring-of-communism.json) |
 | Karless | 400867 | [400867-karless.json](./400867-karless.json) |
+| Karlson | 129033 | [129033-karlson.json](./129033-karlson.json) |
 | Karlson64 | 175900 | [175900-karlson64.json](./175900-karlson64.json) |
 | Karm: Early Access Archives | 303605 | [303605-karm-early-access-archives.json](./303605-karm-early-access-archives.json) |
 | Karma - A Visual Novel About A Dystopia. | 124192 | [124192-karma-a-visual-novel-about-a-dystopia.json](./124192-karma-a-visual-novel-about-a-dystopia.json) |
