@@ -4601,6 +4601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Drop | 71444 | [71444-snow-drop.json](./71444-snow-drop.json) |
 | Snow Fall | 362355 | [362355-snow-fall.json](./362355-snow-fall.json) |
 | Snow Fight | 316096 | [316096-snow-fight.json](./316096-snow-fight.json) |
+| Snow Fighters | 151562 | [151562-snow-fighters.json](./151562-snow-fighters.json) |
 | Snow Forest | 352295 | [352295-snow-forest.json](./352295-snow-forest.json) |
 | Snow Games VR | 29782 | [29782-snow-games-vr.json](./29782-snow-games-vr.json) |
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
@@ -7928,6 +7929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Storm: Forgotten Prison | 169961 | [169961-steel-storm-forgotten-prison.json](./169961-steel-storm-forgotten-prison.json) |
 | Steel Strider | 34403 | [34403-steel-strider.json](./34403-steel-strider.json) |
 | Steel Sword Story | 112949 | [112949-steel-sword-story.json](./112949-steel-sword-story.json) |
+| Steel Sword Story S | 151560 | [151560-steel-sword-story-s.json](./151560-steel-sword-story-s.json) |
 | Steel Thunder | 244476 | [244476-steel-thunder.json](./244476-steel-thunder.json) |
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
 | Steel Wool Studios Bundle | 240350 | [240350-steel-wool-studios-bundle.json](./240350-steel-wool-studios-bundle.json) |
