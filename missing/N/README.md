@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Fortress | 130875 | [130875-new-fortress.json](./130875-new-fortress.json) |
 | New Ganymede | 266783 | [266783-new-ganymede.json](./266783-new-ganymede.json) |
 | New Gundam Breaker: Gunpla Figure Premium Edition | 167159 | [167159-new-gundam-breaker-gunpla-figure-premium-edition.json](./167159-new-gundam-breaker-gunpla-figure-premium-edition.json) |
+| New Homestead | 159721 | [159721-new-homestead.json](./159721-new-homestead.json) |
 | New Hope | 304058 | [304058-new-hope.json](./304058-new-hope.json) |
 | New Hyu Stone | 60549 | [60549-new-hyu-stone.json](./60549-new-hyu-stone.json) |
 | New Journey to the West | 320543 | [320543-new-journey-to-the-west.json](./320543-new-journey-to-the-west.json) |
@@ -2006,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
 | Northanda Chronicles | 277294 | [277294-northanda-chronicles.json](./277294-northanda-chronicles.json) |
 | Northbury Grove: Walls Closing In | 183062 | [183062-northbury-grove-walls-closing-in.json](./183062-northbury-grove-walls-closing-in.json) |
+| Northend Tower Defense | 159733 | [159733-northend-tower-defense.json](./159733-northend-tower-defense.json) |
 | Northern Blade | 145643 | [145643-northern-blade.json](./145643-northern-blade.json) |
 | Northern Blades | 148472 | [148472-northern-blades.json](./148472-northern-blades.json) |
 | Northern Guilds | 193338 | [193338-northern-guilds.json](./193338-northern-guilds.json) |
@@ -2018,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northgard: Gardariki, Clan of the Hippogriff | 366866 | [366866-northgard-gardariki-clan-of-the-hippogriff.json](./366866-northgard-gardariki-clan-of-the-hippogriff.json) |
 | Northgard: Hræsvelg, Clan of the Eagle | 218693 | [218693-northgard-hr-svelg-clan-of-the-eagle.json](./218693-northgard-hr-svelg-clan-of-the-eagle.json) |
 | Northgard: Kernev, Clan of the Stoat | 263604 | [263604-northgard-kernev-clan-of-the-stoat.json](./263604-northgard-kernev-clan-of-the-stoat.json) |
+| Northgard: Ratatoskr, Clan of the Squirrel | 159702 | [159702-northgard-ratatoskr-clan-of-the-squirrel.json](./159702-northgard-ratatoskr-clan-of-the-squirrel.json) |
 | Northmark: Hour of the Wolf | 17532 | [17532-northmark-hour-of-the-wolf.json](./17532-northmark-hour-of-the-wolf.json) |
 | NorthStar | 55207 | [55207-northstar.json](./55207-northstar.json) |
 | Norukasoruka | 398984 | [398984-norukasoruka.json](./398984-norukasoruka.json) |
