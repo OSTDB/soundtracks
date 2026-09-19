@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie City | 192275 | [192275-zombie-city.json](./192275-zombie-city.json) |
 | Zombie City | 377132 | [377132-zombie-city.json](./377132-zombie-city.json) |
 | Zombie Clicker Defense | 83526 | [83526-zombie-clicker-defense.json](./83526-zombie-clicker-defense.json) |
+| Zombie Conspiracy: Shooter | 174750 | [174750-zombie-conspiracy-shooter.json](./174750-zombie-conspiracy-shooter.json) |
 | Zombie Crisis | 292119 | [292119-zombie-crisis.json](./292119-zombie-crisis.json) |
 | Zombie Crush Driver | 192283 | [192283-zombie-crush-driver.json](./192283-zombie-crush-driver.json) |
 | Zombie Dash | 377133 | [377133-zombie-dash.json](./377133-zombie-dash.json) |
