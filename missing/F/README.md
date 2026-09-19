@@ -3380,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frame Breaker | 304333 | [304333-frame-breaker.json](./304333-frame-breaker.json) |
 | Frame Cat | 353960 | [353960-frame-cat.json](./353960-frame-cat.json) |
 | Frame City Killer | 67948 | [67948-frame-city-killer.json](./67948-frame-city-killer.json) |
+| Frame of Mind | 142281 | [142281-frame-of-mind.json](./142281-frame-of-mind.json) |
 | Frame of Suffering | 403555 | [403555-frame-of-suffering.json](./403555-frame-of-suffering.json) |
 | Frame: Portals on Steroids | 203311 | [203311-frame-portals-on-steroids.json](./203311-frame-portals-on-steroids.json) |
 | Framed | 131508 | [131508-framed.json](./131508-framed.json) |
