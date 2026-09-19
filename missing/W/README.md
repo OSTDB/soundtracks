@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
 | WattGames | 298138 | [298138-wattgames.json](./298138-wattgames.json) |
+| Wave | 152147 | [152147-wave.json](./152147-wave.json) |
 | Wave Buxters | 329574 | [329574-wave-buxters.json](./329574-wave-buxters.json) |
 | Wave Circles | 117840 | [117840-wave-circles.json](./117840-wave-circles.json) |
 | Wave Machine | 179602 | [179602-wave-machine.json](./179602-wave-machine.json) |
