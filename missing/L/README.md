@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love My Pegasus | 239871 | [239871-love-my-pegasus.json](./239871-love-my-pegasus.json) |
 | Love Mystery Club | 155669 | [155669-love-mystery-club.json](./155669-love-mystery-club.json) |
 | Love Mythos: Sanctuary Island | 116309 | [116309-love-mythos-sanctuary-island.json](./116309-love-mythos-sanctuary-island.json) |
+| Love n Dream: Virtual Happiness | 160252 | [160252-love-n-dream-virtual-happiness.json](./160252-love-n-dream-virtual-happiness.json) |
 | Love of Magic | 237485 | [237485-love-of-magic.json](./237485-love-of-magic.json) |
 | Love of Magic Book 2: The War | 202759 | [202759-love-of-magic-book-2-the-war.json](./202759-love-of-magic-book-2-the-war.json) |
 | Love of Renai Koutei of Love! | 172713 | [172713-love-of-renai-koutei-of-love.json](./172713-love-of-renai-koutei-of-love.json) |
@@ -2707,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low_Signal | 353278 | [353278-low-signal.json](./353278-low-signal.json) |
 | Low-Budget Repairs | 316836 | [316836-low-budget-repairs.json](./316836-low-budget-repairs.json) |
 | Low-Fi | 125401 | [125401-low-fi.json](./125401-low-fi.json) |
+| Low-Key: A Dope Game | 160261 | [160261-low-key-a-dope-game.json](./160261-low-key-a-dope-game.json) |
 | Löwenzahn 3: Geschichten aus Natur, Umwelt und Technik | 374188 | [374188-lowenzahn-3-geschichten-aus-natur-umwelt-und-technik.json](./374188-lowenzahn-3-geschichten-aus-natur-umwelt-und-technik.json) |
 | Löwenzahn 4: Geschichten aus Natur, Umwelt und Technik | 374189 | [374189-lowenzahn-4-geschichten-aus-natur-umwelt-und-technik.json](./374189-lowenzahn-4-geschichten-aus-natur-umwelt-und-technik.json) |
 | Löwenzahn 5: Geschichten aus Natur, Umwelt und Technik | 374190 | [374190-lowenzahn-5-geschichten-aus-natur-umwelt-und-technik.json](./374190-lowenzahn-5-geschichten-aus-natur-umwelt-und-technik.json) |
