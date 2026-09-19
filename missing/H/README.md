@@ -124,12 +124,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakou Watcher | 253936 | [253936-hakou-watcher.json](./253936-hakou-watcher.json) |
 | Hakuda's Wife Visiting | 151695 | [151695-hakudas-wife-visiting.json](./151695-hakudas-wife-visiting.json) |
 | Hakuga | 280179 | [280179-hakuga.json](./280179-hakuga.json) |
+| Hakuoki Shinkai: Ginsei no Shou | 136838 | [136838-hakuoki-shinkai-ginsei-no-shou.json](./136838-hakuoki-shinkai-ginsei-no-shou.json) |
 | Hakuoki SSL: Sweet School Life for Nintendo Switch | 243921 | [243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json](./243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json) |
 | Hakuoki: Demon of the Fleeting Blossom | 17272 | [17272-hakuoki-demon-of-the-fleeting-blossom.json](./17272-hakuoki-demon-of-the-fleeting-blossom.json) |
 | Hakuoki: Kyoto Winds - Deluxe Edition | 243920 | [243920-hakuoki-kyoto-winds-deluxe-edition.json](./243920-hakuoki-kyoto-winds-deluxe-edition.json) |
 | Hakuoki: Kyoto Winds - Winds Treasure Box | 168905 | [168905-hakuoki-kyoto-winds-winds-treasure-box.json](./168905-hakuoki-kyoto-winds-winds-treasure-box.json) |
 | Hakuoki: Stories of the Shinsengumi | 44565 | [44565-hakuoki-stories-of-the-shinsengumi.json](./44565-hakuoki-stories-of-the-shinsengumi.json) |
 | Hakuoki: Warriors of the Shinsengumi | 44525 | [44525-hakuoki-warriors-of-the-shinsengumi.json](./44525-hakuoki-warriors-of-the-shinsengumi.json) |
+| Hakuouki Shinkai Ginsei no Shou Genteiban | 136882 | [136882-hakuouki-shinkai-ginsei-no-shou-genteiban.json](./136882-hakuouki-shinkai-ginsei-no-shou-genteiban.json) |
+| Hakuouki Shinkai: Ginsei no Shou Twin Pack | 136839 | [136839-hakuouki-shinkai-ginsei-no-shou-twin-pack.json](./136839-hakuouki-shinkai-ginsei-no-shou-twin-pack.json) |
 | Hakurei Frontier | 225725 | [225725-hakurei-frontier.json](./225725-hakurei-frontier.json) |
 | Hakurei Frontier Spell Strive | 225728 | [225728-hakurei-frontier-spell-strive.json](./225728-hakurei-frontier-spell-strive.json) |
 | Halcyon Days | 274472 | [274472-halcyon-days.json](./274472-halcyon-days.json) |
@@ -668,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukanaru Toki no Naka De 3: Izayoiki | 219154 | [219154-harukanaru-toki-no-naka-de-3-izayoiki.json](./219154-harukanaru-toki-no-naka-de-3-izayoiki.json) |
 | Harukanaru Toki no Naka De 3: Unmei no Labyrinth Aizouban | 219155 | [219155-harukanaru-toki-no-naka-de-3-unmei-no-labyrinth-aizouban.json](./219155-harukanaru-toki-no-naka-de-3-unmei-no-labyrinth-aizouban.json) |
 | Harukanaru Toki no Naka de 5 | 60503 | [60503-harukanaru-toki-no-naka-de-5.json](./60503-harukanaru-toki-no-naka-de-5.json) |
+| Harukanaru Toki no Naka De 7: Ransei no Sadame wo Koeru Box | 136842 | [136842-harukanaru-toki-no-naka-de-7-ransei-no-sadame-wo-koeru-box.json](./136842-harukanaru-toki-no-naka-de-7-ransei-no-sadame-wo-koeru-box.json) |
 | Harukanaru Toki no Naka de: Banjyou Yuugi | 137002 | [137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json](./137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json) |
 | Harukanaru Toki no Naka de: Hachiyoushou | 137003 | [137003-harukanaru-toki-no-naka-de-hachiyoushou.json](./137003-harukanaru-toki-no-naka-de-hachiyoushou.json) |
 | Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
@@ -908,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazy Monochrome Wand | 258486 | [258486-hazy-monochrome-wand.json](./258486-hazy-monochrome-wand.json) |
 | HB Arcade Cards | 80583 | [80583-hb-arcade-cards.json](./80583-hb-arcade-cards.json) |
 | HB2 Plus | 91349 | [91349-hb2-plus.json](./91349-hb2-plus.json) |
+| HDoom | 136850 | [136850-hdoom.json](./136850-hdoom.json) |
 | HDOS | 373557 | [373557-hdos.json](./373557-hdos.json) |
 | He Escaped | 270105 | [270105-he-escaped.json](./270105-he-escaped.json) |
 | He Followed Me | 399004 | [399004-he-followed-me.json](./399004-he-followed-me.json) |
@@ -3503,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Farm | 375935 | [375935-human-farm.json](./375935-human-farm.json) |
 | Human Milk Seller | 291467 | [291467-human-milk-seller.json](./291467-human-milk-seller.json) |
 | Human or Virus | 142263 | [142263-human-or-virus.json](./142263-human-or-virus.json) |
+| Human Resource Machine Deluxe | 136844 | [136844-human-resource-machine-deluxe.json](./136844-human-resource-machine-deluxe.json) |
 | Human vs Monster | 150693 | [150693-human-vs-monster.json](./150693-human-vs-monster.json) |
 | Human Wall Simulator | 260414 | [260414-human-wall-simulator.json](./260414-human-wall-simulator.json) |
 | Human Within | 326045 | [326045-human-within.json](./326045-human-within.json) |
