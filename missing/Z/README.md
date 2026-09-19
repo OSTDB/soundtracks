@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Shot | 285581 | [285581-zombie-shot.json](./285581-zombie-shot.json) |
 | Zombie Slapper | 220648 | [220648-zombie-slapper.json](./220648-zombie-slapper.json) |
 | Zombie Slayer | 166713 | [166713-zombie-slayer.json](./166713-zombie-slayer.json) |
+| Zombie Smash: Road Kill | 167675 | [167675-zombie-smash-road-kill.json](./167675-zombie-smash-road-kill.json) |
 | Zombie Smash! Basketball | 261355 | [261355-zombie-smash-basketball.json](./261355-zombie-smash-basketball.json) |
 | Zombie Smashers X2: Punx and Skins | 70923 | [70923-zombie-smashers-x2-punx-and-skins.json](./70923-zombie-smashers-x2-punx-and-skins.json) |
 | Zombie Sniper : Evil Hunter | 96396 | [96396-zombie-sniper-evil-hunter.json](./96396-zombie-sniper-evil-hunter.json) |
@@ -576,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone Trip | 264036 | [264036-zone-trip.json](./264036-zone-trip.json) |
 | ZoneDriver | 76558 | [76558-zonedriver.json](./76558-zonedriver.json) |
 | ZoneRacer | 331441 | [331441-zoneracer.json](./331441-zoneracer.json) |
+| Zoners | 167716 | [167716-zoners.json](./167716-zoners.json) |
 | Zonic 4 My New Life Turbo HD Remastered Edition | 322594 | [322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json](./322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json) |
 | Zoo Chess | 213403 | [213403-zoo-chess.json](./213403-zoo-chess.json) |
 | Zoo Clues | 397781 | [397781-zoo-clues.json](./397781-zoo-clues.json) |
