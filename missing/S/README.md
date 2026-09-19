@@ -2405,6 +2405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenmue III: Battle Rally | 129191 | [129191-shenmue-iii-battle-rally.json](./129191-shenmue-iii-battle-rally.json) |
 | Shenmue III: Deluxe Edition | 154513 | [154513-shenmue-iii-deluxe-edition.json](./154513-shenmue-iii-deluxe-edition.json) |
 | Shennong: Taste of Illusion | 113015 | [113015-shennong-taste-of-illusion.json](./113015-shennong-taste-of-illusion.json) |
+| Shénqǐ Shénluò | 152760 | [152760-shenqi-shenluo.json](./152760-shenqi-shenluo.json) |
 | Shēnyuān | 165700 | [165700-shenyuan.json](./165700-shenyuan.json) |
 | Shenzhen Solitaire | 30085 | [30085-shenzhen-solitaire.json](./30085-shenzhen-solitaire.json) |
 | Sheol no Mori: Tasogare no Majuuzukai | 381108 | [381108-sheol-no-mori-tasogare-no-majuuzukai.json](./381108-sheol-no-mori-tasogare-no-majuuzukai.json) |
@@ -2659,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shitataru Nikki | 257085 | [257085-shitataru-nikki.json](./257085-shitataru-nikki.json) |
 | Shitlings | 369626 | [369626-shitlings.json](./369626-shitlings.json) |
 | Shitsuji ga Aruji wo Erabu Toki | 216245 | [216245-shitsuji-ga-aruji-wo-erabu-toki.json](./216245-shitsuji-ga-aruji-wo-erabu-toki.json) |
+| Shiver 3D | 152771 | [152771-shiver-3d.json](./152771-shiver-3d.json) |
 | Shiver: Poltergeist - Collector's Edition | 30895 | [30895-shiver-poltergeist-collectors-edition.json](./30895-shiver-poltergeist-collectors-edition.json) |
 | Shivering Stone | 274484 | [274484-shivering-stone.json](./274484-shivering-stone.json) |
 | Shiya | 178600 | [178600-shiya.json](./178600-shiya.json) |
@@ -3156,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SilvaGunner: Rebooted | 326957 | [326957-silvagunner-rebooted.json](./326957-silvagunner-rebooted.json) |
 | Silver Axe: The Honest Elf | 195129 | [195129-silver-axe-the-honest-elf.json](./195129-silver-axe-the-honest-elf.json) |
 | Silver Blade of Gods' End | 301602 | [301602-silver-blade-of-gods-end.json](./301602-silver-blade-of-gods-end.json) |
+| Silver Blue | 152734 | [152734-silver-blue.json](./152734-silver-blue.json) |
 | Silver Box Classics | 241957 | [241957-silver-box-classics.json](./241957-silver-box-classics.json) |
 | Silver Creek Falls: Chapter 3 | 33534 | [33534-silver-creek-falls-chapter-3.json](./33534-silver-creek-falls-chapter-3.json) |
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
@@ -4810,6 +4813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
 | SokoMage | 235205 | [235205-sokomage.json](./235205-sokomage.json) |
+| SokoMatch: Lizard Saga | 152722 | [152722-sokomatch-lizard-saga.json](./152722-sokomatch-lizard-saga.json) |
 | SokoMelody | 236956 | [236956-sokomelody.json](./236956-sokomelody.json) |
 | Sokomine | 368039 | [368039-sokomine.json](./368039-sokomine.json) |
 | Sokomonster + Sokolab + Feed Your Cat | 335101 | [335101-sokomonster-sokolab-feed-your-cat.json](./335101-sokomonster-sokolab-feed-your-cat.json) |
@@ -5995,6 +5999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Planet Invader: Cosmic Power | 305788 | [305788-space-planet-invader-cosmic-power.json](./305788-space-planet-invader-cosmic-power.json) |
 | Space Prevention Force | 179110 | [179110-space-prevention-force.json](./179110-space-prevention-force.json) |
 | Space Pricks | 248641 | [248641-space-pricks.json](./248641-space-pricks.json) |
+| Space puzzle | 152724 | [152724-space-puzzle.json](./152724-space-puzzle.json) |
 | Space Qube | 200022 | [200022-space-qube.json](./200022-space-qube.json) |
 | Space Quest 4+5+6 | 154934 | [154934-space-quest-4-5-6.json](./154934-space-quest-4-5-6.json) |
 | Space Quest II: Roger Wilco in Vohaul's Revenge | 84150 | [84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json](./84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json) |
@@ -6063,6 +6068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Tower Defense | 377585 | [377585-space-tower-defense.json](./377585-space-tower-defense.json) |
 | Space Trader | 9469 | [9469-space-trader.json](./9469-space-trader.json) |
 | Space Trail Fireworks | 304858 | [304858-space-trail-fireworks.json](./304858-space-trail-fireworks.json) |
+| Space Transport Tycoon | 152737 | [152737-space-transport-tycoon.json](./152737-space-transport-tycoon.json) |
 | Space Trash Scavenger | 211215 | [211215-space-trash-scavenger.json](./211215-space-trash-scavenger.json) |
 | Space Travel Idle | 148480 | [148480-space-travel-idle.json](./148480-space-travel-idle.json) |
 | Space Treasure Hunters | 372489 | [372489-space-treasure-hunters.json](./372489-space-treasure-hunters.json) |
@@ -6137,6 +6143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
 | SpacerX: Dome Survivals | 55101 | [55101-spacerx-dome-survivals.json](./55101-spacerx-dome-survivals.json) |
 | SpaceShift | 393610 | [393610-spaceshift.json](./393610-spaceshift.json) |
+| Spaceship For Newbies | 152745 | [152745-spaceship-for-newbies.json](./152745-spaceship-for-newbies.json) |
 | Spaceship Hunters | 184512 | [184512-spaceship-hunters.json](./184512-spaceship-hunters.json) |
 | Spaceship Tactics | 338269 | [338269-spaceship-tactics.json](./338269-spaceship-tactics.json) |
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
@@ -8042,6 +8049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steven Universe: Save the Light & OK K.O.! Let's Play Heroes Combo Pack | 107150 | [107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json](./107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json) |
 | Stevo Life | 341016 | [341016-stevo-life.json](./341016-stevo-life.json) |
 | Stewie Talking Electronic Pinball | 218441 | [218441-stewie-talking-electronic-pinball.json](./218441-stewie-talking-electronic-pinball.json) |
+| Sthell | 152768 | [152768-sthell.json](./152768-sthell.json) |
 | Stick 'Em Up 2: Paper Adventures - Starter Edition | 89634 | [89634-stick-em-up-2-paper-adventures-starter-edition.json](./89634-stick-em-up-2-paper-adventures-starter-edition.json) |
 | Stick A Round | 352788 | [352788-stick-a-round.json](./352788-stick-a-round.json) |
 | Stick Arena Ballistick | 69277 | [69277-stick-arena-ballistick.json](./69277-stick-arena-ballistick.json) |
@@ -8196,6 +8204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonekeep | 253 | [253-stonekeep.json](./253-stonekeep.json) |
 | Stonemachia | 300028 | [300028-stonemachia.json](./300028-stonemachia.json) |
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
+| Stones of Harlath | 152747 | [152747-stones-of-harlath.json](./152747-stones-of-harlath.json) |
 | StoneSpace | 376436 | [376436-stonespace.json](./376436-stonespace.json) |
 | StoneStory | 339662 | [339662-stonestory.json](./339662-stonestory.json) |
 | Stoneveil | 376439 | [376439-stoneveil.json](./376439-stoneveil.json) |
