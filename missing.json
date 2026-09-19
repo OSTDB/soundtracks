@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T19:32:38.627Z",
-  "total_missing": 93621,
+  "generated_at": "2026-09-19T19:47:41.288Z",
+  "total_missing": 93671,
   "games": [
     {
       "igdb_id": 176875,
@@ -4421,6 +4421,11 @@
       "igdb_id": 33255,
       "game_name": "A Healer Only Lives Twice",
       "file": "missing/A/33255-a-healer-only-lives-twice.json"
+    },
+    {
+      "igdb_id": 136866,
+      "game_name": "A Heart between Parts",
+      "file": "missing/A/136866-a-heart-between-parts.json"
     },
     {
       "igdb_id": 397692,
@@ -34758,6 +34763,11 @@
       "file": "missing/B/157129-battle-star.json"
     },
     {
+      "igdb_id": 136864,
+      "game_name": "Battle Stations",
+      "file": "missing/B/136864-battle-stations.json"
+    },
+    {
       "igdb_id": 95473,
       "game_name": "Battle Stations",
       "file": "missing/B/95473-battle-stations.json"
@@ -40028,6 +40038,11 @@
       "file": "missing/B/121605-billy-meets-world.json"
     },
     {
+      "igdb_id": 136884,
+      "game_name": "Billy's Boot Camp: Wii de Enjoy Diet!",
+      "file": "missing/B/136884-billys-boot-camp-wii-de-enjoy-diet.json"
+    },
+    {
       "igdb_id": 79334,
       "game_name": "Bilspel",
       "file": "missing/B/79334-bilspel.json"
@@ -42776,6 +42791,11 @@
       "igdb_id": 235298,
       "game_name": "Blast Motors",
       "file": "missing/B/235298-blast-motors.json"
+    },
+    {
+      "igdb_id": 136855,
+      "game_name": "Blast Off",
+      "file": "missing/B/136855-blast-off.json"
     },
     {
       "igdb_id": 203910,
@@ -56021,6 +56041,11 @@
       "igdb_id": 335273,
       "game_name": "Cake Up",
       "file": "missing/C/335273-cake-up.json"
+    },
+    {
+      "igdb_id": 136878,
+      "game_name": "Cake Yasan Monogatari Oishii Sweet wo Tsukurou!",
+      "file": "missing/C/136878-cake-yasan-monogatari-oishii-sweet-wo-tsukurou.json"
     },
     {
       "igdb_id": 233247,
@@ -88578,6 +88603,11 @@
       "file": "missing/D/188607-dark-souls-iii-the-convergence.json"
     },
     {
+      "igdb_id": 136857,
+      "game_name": "Dark Souls: Artorias of the Abyss Edition",
+      "file": "missing/D/136857-dark-souls-artorias-of-the-abyss-edition.json"
+    },
+    {
       "igdb_id": 44607,
       "game_name": "Dark Souls: Collector's Edition",
       "file": "missing/D/44607-dark-souls-collectors-edition.json"
@@ -97953,6 +97983,11 @@
       "file": "missing/D/414435-dice-nights.json"
     },
     {
+      "igdb_id": 136867,
+      "game_name": "Dice of Fate",
+      "file": "missing/D/136867-dice-of-fate.json"
+    },
+    {
       "igdb_id": 357258,
       "game_name": "Dice of Kalma",
       "file": "missing/D/357258-dice-of-kalma.json"
@@ -98311,6 +98346,11 @@
       "igdb_id": 141154,
       "game_name": "Die goldene Maske",
       "file": "missing/D/141154-die-goldene-maske.json"
+    },
+    {
+      "igdb_id": 136862,
+      "game_name": "Die Hard 64",
+      "file": "missing/D/136862-die-hard-64.json"
     },
     {
       "igdb_id": 39527,
@@ -107523,6 +107563,11 @@
       "file": "missing/D/332997-dragon-puncher.json"
     },
     {
+      "igdb_id": 136885,
+      "game_name": "Dragon Quest 25th Anniversary Collection",
+      "file": "missing/D/136885-dragon-quest-25th-anniversary-collection.json"
+    },
+    {
       "igdb_id": 149980,
       "game_name": "Dragon Quest III HD-2D Remake",
       "file": "missing/D/149980-dragon-quest-iii-hd-2d-remake.json"
@@ -107646,6 +107691,11 @@
       "igdb_id": 222408,
       "game_name": "Dragon Quest X: All In One Package - Versions 1-6",
       "file": "missing/D/222408-dragon-quest-x-all-in-one-package-versions-1-6.json"
+    },
+    {
+      "igdb_id": 136835,
+      "game_name": "Dragon Quest X: Ibara no Miko to Horobi no Kami Online",
+      "file": "missing/D/136835-dragon-quest-x-ibara-no-miko-to-horobi-no-kami-online.json"
     },
     {
       "igdb_id": 80597,
@@ -123538,6 +123588,11 @@
       "file": "missing/E/408772-even-lovers-drown.json"
     },
     {
+      "igdb_id": 136865,
+      "game_name": "Even the Stars",
+      "file": "missing/E/136865-even-the-stars.json"
+    },
+    {
       "igdb_id": 373096,
       "game_name": "Even20: The Interference of Parallels",
       "file": "missing/E/373096-even20-the-interference-of-parallels.json"
@@ -125956,6 +126011,11 @@
       "igdb_id": 130957,
       "game_name": "Extremely Realistic Siege Warfare Simulator",
       "file": "missing/E/130957-extremely-realistic-siege-warfare-simulator.json"
+    },
+    {
+      "igdb_id": 136861,
+      "game_name": "ExtremeTK",
+      "file": "missing/E/136861-extremetk.json"
     },
     {
       "igdb_id": 153857,
@@ -128936,6 +128996,11 @@
       "igdb_id": 62148,
       "game_name": "Fantastic Fossils",
       "file": "missing/F/62148-fantastic-fossils.json"
+    },
+    {
+      "igdb_id": 136849,
+      "game_name": "Fantastic Four",
+      "file": "missing/F/136849-fantastic-four.json"
     },
     {
       "igdb_id": 197930,
@@ -158383,6 +158448,11 @@
       "file": "missing/G/1599-gran-turismo-5-prologue.json"
     },
     {
+      "igdb_id": 136852,
+      "game_name": "Gran Turismo 5 Spec 2.0",
+      "file": "missing/G/136852-gran-turismo-5-spec-2-0.json"
+    },
+    {
       "igdb_id": 77993,
       "game_name": "Gran Turismo 5: Prologue Spec III",
       "file": "missing/G/77993-gran-turismo-5-prologue-spec-iii.json"
@@ -164578,6 +164648,11 @@
       "file": "missing/H/280179-hakuga.json"
     },
     {
+      "igdb_id": 136838,
+      "game_name": "Hakuoki Shinkai: Ginsei no Shou",
+      "file": "missing/H/136838-hakuoki-shinkai-ginsei-no-shou.json"
+    },
+    {
       "igdb_id": 243921,
       "game_name": "Hakuoki SSL: Sweet School Life for Nintendo Switch",
       "file": "missing/H/243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json"
@@ -164606,6 +164681,16 @@
       "igdb_id": 44525,
       "game_name": "Hakuoki: Warriors of the Shinsengumi",
       "file": "missing/H/44525-hakuoki-warriors-of-the-shinsengumi.json"
+    },
+    {
+      "igdb_id": 136882,
+      "game_name": "Hakuouki Shinkai Ginsei no Shou Genteiban",
+      "file": "missing/H/136882-hakuouki-shinkai-ginsei-no-shou-genteiban.json"
+    },
+    {
+      "igdb_id": 136839,
+      "game_name": "Hakuouki Shinkai: Ginsei no Shou Twin Pack",
+      "file": "missing/H/136839-hakuouki-shinkai-ginsei-no-shou-twin-pack.json"
     },
     {
       "igdb_id": 225725,
@@ -167298,6 +167383,11 @@
       "file": "missing/H/60503-harukanaru-toki-no-naka-de-5.json"
     },
     {
+      "igdb_id": 136842,
+      "game_name": "Harukanaru Toki no Naka De 7: Ransei no Sadame wo Koeru Box",
+      "file": "missing/H/136842-harukanaru-toki-no-naka-de-7-ransei-no-sadame-wo-koeru-box.json"
+    },
+    {
       "igdb_id": 137002,
       "game_name": "Harukanaru Toki no Naka de: Banjyou Yuugi",
       "file": "missing/H/137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json"
@@ -168496,6 +168586,11 @@
       "igdb_id": 91349,
       "game_name": "HB2 Plus",
       "file": "missing/H/91349-hb2-plus.json"
+    },
+    {
+      "igdb_id": 136850,
+      "game_name": "HDoom",
+      "file": "missing/H/136850-hdoom.json"
     },
     {
       "igdb_id": 373557,
@@ -181471,6 +181566,11 @@
       "igdb_id": 142263,
       "game_name": "Human or Virus",
       "file": "missing/H/142263-human-or-virus.json"
+    },
+    {
+      "igdb_id": 136844,
+      "game_name": "Human Resource Machine Deluxe",
+      "file": "missing/H/136844-human-resource-machine-deluxe.json"
     },
     {
       "igdb_id": 150693,
@@ -201883,6 +201983,11 @@
       "file": "missing/K/340785-kato-pirato.json"
     },
     {
+      "igdb_id": 136881,
+      "game_name": "Katou Hifumi Kudan Kanshuu Hifumin No Shogi Dojo",
+      "file": "missing/K/136881-katou-hifumi-kudan-kanshuu-hifumin-no-shogi-dojo.json"
+    },
+    {
       "igdb_id": 97858,
       "game_name": "Katou Hifumi Kudan no Shogi Kyoushitsu",
       "file": "missing/K/97858-katou-hifumi-kudan-no-shogi-kyoushitsu.json"
@@ -208131,6 +208236,11 @@
       "igdb_id": 291741,
       "game_name": "Kowloon Story 2",
       "file": "missing/K/291741-kowloon-story-2.json"
+    },
+    {
+      "igdb_id": 136880,
+      "game_name": "Kowloon Youma Gakuen Ki: Origin of Adventure - Yomigaeru Hihouban",
+      "file": "missing/K/136880-kowloon-youma-gakuen-ki-origin-of-adventure-yomigaeru-hihouban.json"
     },
     {
       "igdb_id": 255804,
@@ -234921,6 +235031,11 @@
       "igdb_id": 92536,
       "game_name": "Medarot 3 Parts Collection: Z Kara no Chousenjou",
       "file": "missing/M/92536-medarot-3-parts-collection-z-kara-no-chousenjou.json"
+    },
+    {
+      "igdb_id": 136832,
+      "game_name": "Medarot Classics Plus Kabuto Version",
+      "file": "missing/M/136832-medarot-classics-plus-kabuto-version.json"
     },
     {
       "igdb_id": 188653,
@@ -271453,6 +271568,11 @@
       "file": "missing/O/260971-omega-strikers-season-2-summer-splash.json"
     },
     {
+      "igdb_id": 136834,
+      "game_name": "Omega Vampire",
+      "file": "missing/O/136834-omega-vampire.json"
+    },
+    {
       "igdb_id": 416607,
       "game_name": "Omega Vanitas",
       "file": "missing/O/416607-omega-vanitas.json"
@@ -285943,6 +286063,11 @@
       "file": "missing/P/285442-phantasy-series-reference-opus.json"
     },
     {
+      "igdb_id": 136870,
+      "game_name": "Phantasy Star Classics",
+      "file": "missing/P/136870-phantasy-star-classics.json"
+    },
+    {
       "igdb_id": 42674,
       "game_name": "Phantasy Star Nova",
       "file": "missing/P/42674-phantasy-star-nova.json"
@@ -294016,6 +294141,11 @@
       "igdb_id": 288206,
       "game_name": "Pokemon FireRed and LeafGreen+",
       "file": "missing/P/288206-pokemon-firered-and-leafgreen.json"
+    },
+    {
+      "igdb_id": 136877,
+      "game_name": "Pokémon Fool's Gold",
+      "file": "missing/P/136877-pokemon-fools-gold.json"
     },
     {
       "igdb_id": 136412,
@@ -302206,6 +302336,11 @@
       "igdb_id": 112290,
       "game_name": "Psikyo Collection Vol. 2",
       "file": "missing/P/112290-psikyo-collection-vol-2.json"
+    },
+    {
+      "igdb_id": 136837,
+      "game_name": "Psikyo Shooting Library Vol. 1",
+      "file": "missing/P/136837-psikyo-shooting-library-vol-1.json"
     },
     {
       "igdb_id": 121652,
@@ -318683,6 +318818,11 @@
       "file": "missing/R/375806-rip-party.json"
     },
     {
+      "igdb_id": 136851,
+      "game_name": "Rip them Off",
+      "file": "missing/R/136851-rip-them-off.json"
+    },
+    {
       "igdb_id": 27790,
       "game_name": "RIP Trilogy",
       "file": "missing/R/27790-rip-trilogy.json"
@@ -334268,9 +334408,24 @@
       "file": "missing/S/209018-sega-rally-revo.json"
     },
     {
+      "igdb_id": 136875,
+      "game_name": "Sega Smash Pack",
+      "file": "missing/S/136875-sega-smash-pack.json"
+    },
+    {
+      "igdb_id": 136874,
+      "game_name": "Sega Smash Pack: Twin Pack",
+      "file": "missing/S/136874-sega-smash-pack-twin-pack.json"
+    },
+    {
       "igdb_id": 4102,
       "game_name": "Sega Soccer Slam",
       "file": "missing/S/4102-sega-soccer-slam.json"
+    },
+    {
+      "igdb_id": 136872,
+      "game_name": "Sega Splash! Golf",
+      "file": "missing/S/136872-sega-splash-golf.json"
     },
     {
       "igdb_id": 255326,
@@ -337806,6 +337961,11 @@
       "igdb_id": 45909,
       "game_name": "Shaolin's Road",
       "file": "missing/S/45909-shaolins-road.json"
+    },
+    {
+      "igdb_id": 136886,
+      "game_name": "Shape Boxing 2: Wii de Enjoy Diet!",
+      "file": "missing/S/136886-shape-boxing-2-wii-de-enjoy-diet.json"
     },
     {
       "igdb_id": 339933,
@@ -352586,6 +352746,11 @@
       "igdb_id": 331313,
       "game_name": "Sonic Action",
       "file": "missing/S/331313-sonic-action.json"
+    },
+    {
+      "igdb_id": 136876,
+      "game_name": "Sonic Action 4 Pack",
+      "file": "missing/S/136876-sonic-action-4-pack.json"
     },
     {
       "igdb_id": 6598,
@@ -377353,6 +377518,11 @@
       "file": "missing/S/225738-super-spatial.json"
     },
     {
+      "igdb_id": 136856,
+      "game_name": "Super Speed Race 64",
+      "file": "missing/S/136856-super-speed-race-64.json"
+    },
+    {
       "igdb_id": 342139,
       "game_name": "Super Speed Race Jr.",
       "file": "missing/S/342139-super-speed-race-jr.json"
@@ -378086,6 +378256,11 @@
       "igdb_id": 97299,
       "game_name": "SuperLite 3in1: Arcade Game Shuu",
       "file": "missing/S/97299-superlite-3in1-arcade-game-shuu.json"
+    },
+    {
+      "igdb_id": 136873,
+      "game_name": "Superlunary: Episode 1.0",
+      "file": "missing/S/136873-superlunary-episode-1-0.json"
     },
     {
       "igdb_id": 131546,
@@ -379486,6 +379661,11 @@
       "igdb_id": 200661,
       "game_name": "Susume! Kaizoku: Be Pirates!",
       "file": "missing/S/200661-susume-kaizoku-be-pirates.json"
+    },
+    {
+      "igdb_id": 136858,
+      "game_name": "Susume! Taisen Puzzle Dama: Toukon! Marutama Chou",
+      "file": "missing/S/136858-susume-taisen-puzzle-dama-toukon-marutama-chou.json"
     },
     {
       "igdb_id": 42541,
@@ -401268,6 +401448,11 @@
       "file": "missing/T/268030-the-legend-of-heroes-sora-no-kiseki-fc-evolution-limited-edition.json"
     },
     {
+      "igdb_id": 136859,
+      "game_name": "The Legend of Heroes: Sora no Kiseki FC Kai - HD Edition",
+      "file": "missing/T/136859-the-legend-of-heroes-sora-no-kiseki-fc-kai-hd-edition.json"
+    },
+    {
       "igdb_id": 136673,
       "game_name": "The Legend of Heroes: Trails into Reverie",
       "file": "missing/T/136673-the-legend-of-heroes-trails-into-reverie.json"
@@ -401506,6 +401691,11 @@
       "igdb_id": 308390,
       "game_name": "The Legend of Zelda: Allhallows Eve",
       "file": "missing/T/308390-the-legend-of-zelda-allhallows-eve.json"
+    },
+    {
+      "igdb_id": 136841,
+      "game_name": "The Legend of Zelda: Breath of the Wild - Collector's Edition",
+      "file": "missing/T/136841-the-legend-of-zelda-breath-of-the-wild-collectors-edition.json"
     },
     {
       "igdb_id": 50598,
@@ -406158,6 +406348,11 @@
       "file": "missing/T/232965-the-rocket-jumper.json"
     },
     {
+      "igdb_id": 136871,
+      "game_name": "The Rocketeer",
+      "file": "missing/T/136871-the-rocketeer.json"
+    },
+    {
       "igdb_id": 376607,
       "game_name": "The Rodionov postulate (pale-particle duality)",
       "file": "missing/T/376607-the-rodionov-postulate-pale-particle-duality.json"
@@ -410706,6 +410901,11 @@
       "igdb_id": 318063,
       "game_name": "The Vanished Soul",
       "file": "missing/T/318063-the-vanished-soul.json"
+    },
+    {
+      "igdb_id": 136833,
+      "game_name": "THE Variety Game Daishugo: Kingyo Sukui, Card, Suji Puzzle, Nikakudori",
+      "file": "missing/T/136833-the-variety-game-daishugo-kingyo-sukui-card-suji-puzzle-nikakudori.json"
     },
     {
       "igdb_id": 295247,
@@ -419478,6 +419678,11 @@
       "file": "missing/T/110371-to-burn-in-memory-anniversary-edition.json"
     },
     {
+      "igdb_id": 136847,
+      "game_name": "To Dawn and Back",
+      "file": "missing/T/136847-to-dawn-and-back.json"
+    },
+    {
       "igdb_id": 281425,
       "game_name": "To Die in the Shade",
       "file": "missing/T/281425-to-die-in-the-shade.json"
@@ -421668,6 +421873,11 @@
       "file": "missing/T/206758-toon-car-the-great-race.json"
     },
     {
+      "igdb_id": 136860,
+      "game_name": "Toon Panic",
+      "file": "missing/T/136860-toon-panic.json"
+    },
+    {
       "igdb_id": 233083,
       "game_name": "Toon Puzzle Island",
       "file": "missing/T/233083-toon-puzzle-island.json"
@@ -422051,6 +422261,11 @@
       "igdb_id": 109603,
       "game_name": "Toraware no Palm: Refrain",
       "file": "missing/T/109603-toraware-no-palm-refrain.json"
+    },
+    {
+      "igdb_id": 136843,
+      "game_name": "Toraware no Palm: Refrain - Deluxe Edition",
+      "file": "missing/T/136843-toraware-no-palm-refrain-deluxe-edition.json"
     },
     {
       "igdb_id": 274769,
@@ -436263,6 +436478,11 @@
       "file": "missing/U/283766-undertale-chara-boss-fight.json"
     },
     {
+      "igdb_id": 136869,
+      "game_name": "Undertale: Disbelief",
+      "file": "missing/U/136869-undertale-disbelief.json"
+    },
+    {
       "igdb_id": 329944,
       "game_name": "Undertale: Icebound",
       "file": "missing/U/329944-undertale-icebound.json"
@@ -438883,6 +439103,11 @@
       "file": "missing/U/222998-uta-no-prince-sama-all-star-after-secret-for-nintendo-switch.json"
     },
     {
+      "igdb_id": 136840,
+      "game_name": "Uta no Prince-sama: Amazing Aria & Sweet Serenade Love",
+      "file": "missing/U/136840-uta-no-prince-sama-amazing-aria-and-sweet-serenade-love.json"
+    },
+    {
       "igdb_id": 222999,
       "game_name": "Uta no Prince-sama: Dolce Vita",
       "file": "missing/U/222999-uta-no-prince-sama-dolce-vita.json"
@@ -439701,6 +439926,11 @@
       "igdb_id": 150618,
       "game_name": "Vali Victorian",
       "file": "missing/V/150618-vali-victorian.json"
+    },
+    {
+      "igdb_id": 136848,
+      "game_name": "Valiant",
+      "file": "missing/V/136848-valiant.json"
     },
     {
       "igdb_id": 262413,
@@ -446603,6 +446833,11 @@
       "file": "missing/W/222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json"
     },
     {
+      "igdb_id": 136863,
+      "game_name": "Wan Nyan Doubutsu Byouin: Pet no Oisha-san ni Narou!",
+      "file": "missing/W/136863-wan-nyan-doubutsu-byouin-pet-no-oisha-san-ni-narou.json"
+    },
+    {
       "igdb_id": 123027,
       "game_name": "Wan Nyan Slash",
       "file": "missing/W/123027-wan-nyan-slash.json"
@@ -452958,6 +453193,11 @@
       "file": "missing/W/213488-why-i-was-born.json"
     },
     {
+      "igdb_id": 136854,
+      "game_name": "Why is this Dragon so Fucking Cute??",
+      "file": "missing/W/136854-why-is-this-dragon-so-fucking-cute.json"
+    },
+    {
       "igdb_id": 377147,
       "game_name": "Why Me",
       "file": "missing/W/377147-why-me.json"
@@ -455596,6 +455836,11 @@
       "igdb_id": 123081,
       "game_name": "Wizardry III & IV",
       "file": "missing/W/123081-wizardry-iii-and-iv.json"
+    },
+    {
+      "igdb_id": 136846,
+      "game_name": "Wizardry Perfect Pack",
+      "file": "missing/W/136846-wizardry-perfect-pack.json"
     },
     {
       "igdb_id": 149567,
@@ -464366,6 +464611,11 @@
       "igdb_id": 135855,
       "game_name": "Yunoha na Spring!: Cherishing Time",
       "file": "missing/Y/135855-yunoha-na-spring-cherishing-time.json"
+    },
+    {
+      "igdb_id": 136836,
+      "game_name": "Yunoha na Spring!: Mellow Times for Nintendo Switch",
+      "file": "missing/Y/136836-yunoha-na-spring-mellow-times-for-nintendo-switch.json"
     },
     {
       "igdb_id": 302655,
