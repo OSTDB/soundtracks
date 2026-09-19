@@ -803,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tricks | 176962 | [176962-tap-tricks.json](./176962-tap-tricks.json) |
 | Tap Tycoon | 58195 | [58195-tap-tycoon.json](./58195-tap-tycoon.json) |
 | Tap Wars: Earth Defense Force 4.1 - The Shadow of New Despair | 220219 | [220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json](./220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json) |
+| Tap-A-Zombie | 149448 | [149448-tap-a-zombie.json](./149448-tap-a-zombie.json) |
 | Tap-Tap Shots | 287090 | [287090-tap-tap-shots.json](./287090-tap-tap-shots.json) |
 | Tap! Dig! My Museum! | 197353 | [197353-tap-dig-my-museum.json](./197353-tap-dig-my-museum.json) |
 | TapColors | 89712 | [89712-tapcolors.json](./89712-tapcolors.json) |
@@ -1246,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Odyssey | 277406 | [277406-temporal-odyssey.json](./277406-temporal-odyssey.json) |
 | Temporal Purge: Z | 154378 | [154378-temporal-purge-z.json](./154378-temporal-purge-z.json) |
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
+| Temptations X: Darkest Fantasy | 149408 | [149408-temptations-x-darkest-fantasy.json](./149408-temptations-x-darkest-fantasy.json) |
 | Tempter | 309887 | [309887-tempter.json](./309887-tempter.json) |
 | Tempus | 377168 | [377168-tempus.json](./377168-tempus.json) |
 | Tempus Denique | 177998 | [177998-tempus-denique.json](./177998-tempus-denique.json) |
@@ -8474,6 +8476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story Drop! | 116973 | [116973-toy-story-drop.json](./116973-toy-story-drop.json) |
 | Toy Story Racer | 18944 | [18944-toy-story-racer.json](./18944-toy-story-racer.json) |
 | Toy Tactics | 204089 | [204089-toy-tactics.json](./204089-toy-tactics.json) |
+| Toy Tanks | 149450 | [149450-toy-tanks.json](./149450-toy-tanks.json) |
 | Toy Voyage | 349391 | [349391-toy-voyage.json](./349391-toy-voyage.json) |
 | Toy Wars Invasion | 9449 | [9449-toy-wars-invasion.json](./9449-toy-wars-invasion.json) |
 | Toy's Brawl | 340947 | [340947-toys-brawl.json](./340947-toys-brawl.json) |
