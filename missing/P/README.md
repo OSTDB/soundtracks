@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pebble's Bakery | 180714 | [180714-pebbles-bakery.json](./180714-pebbles-bakery.json) |
 | Pebbles Quest | 324337 | [324337-pebbles-quest.json](./324337-pebbles-quest.json) |
 | Pec-Men | 335693 | [335693-pec-men.json](./335693-pec-men.json) |
+| Pecaminosa: Collector's Edition | 146141 | [146141-pecaminosa-collectors-edition.json](./146141-pecaminosa-collectors-edition.json) |
 | Peccator-It's Not Over Yet | 180104 | [180104-peccator-its-not-over-yet.json](./180104-peccator-its-not-over-yet.json) |
 | Pecker | 244272 | [244272-pecker.json](./244272-pecker.json) |
 | Pecky Clicker | 391192 | [391192-pecky-clicker.json](./391192-pecky-clicker.json) |
@@ -1872,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
 | Pictureka! Museum Mayhem | 59969 | [59969-pictureka-museum-mayhem.json](./59969-pictureka-museum-mayhem.json) |
 | Piczle Colors | 114419 | [114419-piczle-colors.json](./114419-piczle-colors.json) |
+| Piczle Cross Adventure + PictoQuest: The Cursed Grids | 146140 | [146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json](./146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json) |
 | Piczle Lines DX Bundle | 147788 | [147788-piczle-lines-dx-bundle.json](./147788-piczle-lines-dx-bundle.json) |
 | Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
 | Pid | 225890 | [225890-pid.json](./225890-pid.json) |
