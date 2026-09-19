@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Them Walk | 258552 | [258552-make-them-walk.json](./258552-make-them-walk.json) |
 | Make War Not Love 5 | 88234 | [88234-make-war-not-love-5.json](./88234-make-war-not-love-5.json) |
 | Make Words or Die | 174317 | [174317-make-words-or-die.json](./174317-make-words-or-die.json) |
+| Make your Adventure | 135011 | [135011-make-your-adventure.json](./135011-make-your-adventure.json) |
 | Make Your Move | 348322 | [348322-make-your-move.json](./348322-make-your-move.json) |
 | MakeNumber | 94243 | [94243-makenumber.json](./94243-makenumber.json) |
 | Makeover Madness | 210050 | [210050-makeover-madness.json](./210050-makeover-madness.json) |
@@ -2137,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval: Total War - Viking Invasion | 444 | [444-medieval-total-war-viking-invasion.json](./444-medieval-total-war-viking-invasion.json) |
 | Medievalfield | 200695 | [200695-medievalfield.json](./200695-medievalfield.json) |
 | MediEvil II | 329195 | [329195-medievil-ii.json](./329195-medievil-ii.json) |
+| Meditation 5 | 135047 | [135047-meditation-5.json](./135047-meditation-5.json) |
 | Meditation Journey: VR Zen Garden | 167785 | [167785-meditation-journey-vr-zen-garden.json](./167785-meditation-journey-vr-zen-garden.json) |
 | Medium-naut | 151559 | [151559-medium-naut.json](./151559-medium-naut.json) |
 | Medival Hustle | 304578 | [304578-medival-hustle.json](./304578-medival-hustle.json) |
@@ -4311,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moldorian: Hikari to Yami no Sister | 45261 | [45261-moldorian-hikari-to-yami-no-sister.json](./45261-moldorian-hikari-to-yami-no-sister.json) |
 | Moldwasher | 342738 | [342738-moldwasher.json](./342738-moldwasher.json) |
 | Moldy Tower | 271479 | [271479-moldy-tower.json](./271479-moldy-tower.json) |
+| Mole | 135058 | [135058-mole.json](./135058-mole.json) |
 | Möle | 93549 | [93549-mole.json](./93549-mole.json) |
 | Mole Digging | 349309 | [349309-mole-digging.json](./349309-mole-digging.json) |
 | Mole Game | 129721 | [129721-mole-game.json](./129721-mole-game.json) |
