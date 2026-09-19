@@ -1578,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge of the Tentacle | 217872 | [217872-challenge-of-the-tentacle.json](./217872-challenge-of-the-tentacle.json) |
 | Challenge Party | 149518 | [149518-challenge-party.json](./149518-challenge-party.json) |
 | Challenge Shot | 385555 | [385555-challenge-shot.json](./385555-challenge-shot.json) |
+| Challenge Speedball | 157029 | [157029-challenge-speedball.json](./157029-challenge-speedball.json) |
 | Challenge Together! Elementary School Quiz | 399620 | [399620-challenge-together-elementary-school-quiz.json](./399620-challenge-together-elementary-school-quiz.json) |
 | Challenge! | 68608 | [68608-challenge.json](./68608-challenge.json) |
 | Challengers of Khalea | 76622 | [76622-challengers-of-khalea.json](./76622-challengers-of-khalea.json) |
@@ -2046,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chikyuu Bouei Shoujo Iko-chan: UFO Daisakusen | 58781 | [58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json](./58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json) |
 | Chikyuu Kaihou Gun ZAS | 91883 | [91883-chikyuu-kaihou-gun-zas.json](./91883-chikyuu-kaihou-gun-zas.json) |
 | CHiLD | 70908 | [70908-child.json](./70908-child.json) |
+| Child Arms | 157053 | [157053-child-arms.json](./157053-child-arms.json) |
 | Child of Abyss | 167293 | [167293-child-of-abyss.json](./167293-child-of-abyss.json) |
 | Child of Hope | 190228 | [190228-child-of-hope.json](./190228-child-of-hope.json) |
 | Child of Light: Limited Edition | 166238 | [166238-child-of-light-limited-edition.json](./166238-child-of-light-limited-edition.json) |
@@ -3851,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflagrant Rodent | 271815 | [271815-conflagrant-rodent.json](./271815-conflagrant-rodent.json) |
 | Conflict / Resolution | 201123 | [201123-conflict-resolution.json](./201123-conflict-resolution.json) |
 | Conflict 3048 | 193406 | [193406-conflict-3048.json](./193406-conflict-3048.json) |
+| Conflict of the Universe | 157049 | [157049-conflict-of-the-universe.json](./157049-conflict-of-the-universe.json) |
 | Conflict Resolution | 342747 | [342747-conflict-resolution.json](./342747-conflict-resolution.json) |
 | Conflict: Desert Storm | 3863 | [3863-conflict-desert-storm.json](./3863-conflict-desert-storm.json) |
 | Conflict: Global Terror | 5785 | [5785-conflict-global-terror.json](./5785-conflict-global-terror.json) |
