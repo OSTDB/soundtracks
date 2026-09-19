@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
 | Magical Merge: Fairy Adventure | 309501 | [309501-magical-merge-fairy-adventure.json](./309501-magical-merge-fairy-adventure.json) |
 | Magical Mystery Cure | 177949 | [177949-magical-mystery-cure.json](./177949-magical-mystery-cure.json) |
+| Magical Otoge Iris | 144809 | [144809-magical-otoge-iris.json](./144809-magical-otoge-iris.json) |
 | Magical Pachinko Cotton | 43285 | [43285-magical-pachinko-cotton.json](./43285-magical-pachinko-cotton.json) |
 | Magical Paradise Train | 252990 | [252990-magical-paradise-train.json](./252990-magical-paradise-train.json) |
 | Magical Prisma | 130404 | [130404-magical-prisma.json](./130404-magical-prisma.json) |
@@ -1440,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel: Ultimate Alliance | 197883 | [197883-marvel-ultimate-alliance.json](./197883-marvel-ultimate-alliance.json) |
 | Marvel: Ultimate Alliance | 4999 | [4999-marvel-ultimate-alliance.json](./4999-marvel-ultimate-alliance.json) |
 | Marvel's Avengers Definitive Edition | 259466 | [259466-marvels-avengers-definitive-edition.json](./259466-marvels-avengers-definitive-edition.json) |
+| Marvel's Avengers: Black Panther - War for Wakanda | 144774 | [144774-marvels-avengers-black-panther-war-for-wakanda.json](./144774-marvels-avengers-black-panther-war-for-wakanda.json) |
 | Marvel's Avengers: Kate Bishop - Taking AIM | 138179 | [138179-marvels-avengers-kate-bishop-taking-aim.json](./138179-marvels-avengers-kate-bishop-taking-aim.json) |
 | Marvel's Blade | 279646 | [279646-marvels-blade.json](./279646-marvels-blade.json) |
 | Marvel's Guardians of the Galaxy & Marvel's Avenger's: Deluxe Bundle | 218480 | [218480-marvels-guardians-of-the-galaxy-and-marvels-avengers-deluxe-bundle.json](./218480-marvels-guardians-of-the-galaxy-and-marvels-avengers-deluxe-bundle.json) |
@@ -2769,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Combat | 209523 | [209523-metal-combat.json](./209523-metal-combat.json) |
 | Metal Crisis | 368579 | [368579-metal-crisis.json](./368579-metal-crisis.json) |
 | Metal Detecting Simulator | 235768 | [235768-metal-detecting-simulator.json](./235768-metal-detecting-simulator.json) |
+| Metal Dogs | 144769 | [144769-metal-dogs.json](./144769-metal-dogs.json) |
 | Metal Dogs: New Dog Addition - Labrador Retriever | 302919 | [302919-metal-dogs-new-dog-addition-labrador-retriever.json](./302919-metal-dogs-new-dog-addition-labrador-retriever.json) |
 | Metal Dragon | 325243 | [325243-metal-dragon.json](./325243-metal-dragon.json) |
 | Metal Dragon/Life on Mars | 325244 | [325244-metal-dragon-life-on-mars.json](./325244-metal-dragon-life-on-mars.json) |
@@ -4015,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mithraeum | 213622 | [213622-mithraeum.json](./213622-mithraeum.json) |
 | Mithral Gun | 196330 | [196330-mithral-gun.json](./196330-mithral-gun.json) |
 | Mitla | 373657 | [373657-mitla.json](./373657-mitla.json) |
+| Mitoosis | 144788 | [144788-mitoosis.json](./144788-mitoosis.json) |
 | Mitos.is: The Game | 34786 | [34786-mitos-is-the-game.json](./34786-mitos-is-the-game.json) |
 | Mitrasphere | 146911 | [146911-mitrasphere.json](./146911-mitrasphere.json) |
 | MITS: Monsters in the Shadows | 198376 | [198376-mits-monsters-in-the-shadows.json](./198376-mits-monsters-in-the-shadows.json) |
@@ -4842,6 +4846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
 | Moons That Belong | 318066 | [318066-moons-that-belong.json](./318066-moons-that-belong.json) |
 | Moonscars | 194507 | [194507-moonscars.json](./194507-moonscars.json) |
+| Moonshine | 144799 | [144799-moonshine.json](./144799-moonshine.json) |
 | Moonshine and I: Sansevieria | 178525 | [178525-moonshine-and-i-sansevieria.json](./178525-moonshine-and-i-sansevieria.json) |
 | Moonshine Inc. | 191849 | [191849-moonshine-inc.json](./191849-moonshine-inc.json) |
 | Moonshine Madness | 304588 | [304588-moonshine-madness.json](./304588-moonshine-madness.json) |
