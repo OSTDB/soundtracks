@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvoLife | 323744 | [323744-evolife.json](./323744-evolife.json) |
 | Evolings | 181255 | [181255-evolings.json](./181255-evolings.json) |
 | Evolit | 346152 | [346152-evolit.json](./346152-evolit.json) |
+| Evolits | 145453 | [145453-evolits.json](./145453-evolits.json) |
 | Evolized | 353371 | [353371-evolized.json](./353371-evolized.json) |
 | Evolution | 178006 | [178006-evolution.json](./178006-evolution.json) |
 | Evolution | 34674 | [34674-evolution.json](./34674-evolution.json) |
