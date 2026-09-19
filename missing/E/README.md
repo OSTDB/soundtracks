@@ -1111,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
 | Endless Suburbia | 255700 | [255700-endless-suburbia.json](./255700-endless-suburbia.json) |
 | Endless TV Tycoon | 352855 | [352855-endless-tv-tycoon.json](./352855-endless-tv-tycoon.json) |
+| Endless Void | 148894 | [148894-endless-void.json](./148894-endless-void.json) |
 | Endless Voyage | 150090 | [150090-endless-voyage.json](./150090-endless-voyage.json) |
 | Endless War | 234911 | [234911-endless-war.json](./234911-endless-war.json) |
 | Endless War 2 | 234916 | [234916-endless-war-2.json](./234916-endless-war-2.json) |
@@ -1738,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Battlefield | 126600 | [126600-eternal-battlefield.json](./126600-eternal-battlefield.json) |
 | Eternal Champions: Challenge from the Dark Side | 5383 | [5383-eternal-champions-challenge-from-the-dark-side.json](./5383-eternal-champions-challenge-from-the-dark-side.json) |
 | Eternal Chrysalis Dream | 395569 | [395569-eternal-chrysalis-dream.json](./395569-eternal-chrysalis-dream.json) |
+| Eternal Cycle | 148908 | [148908-eternal-cycle.json](./148908-eternal-cycle.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
 | Eternal Diary | 212860 | [212860-eternal-diary.json](./212860-eternal-diary.json) |
 | Eternal Doom | 140521 | [140521-eternal-doom.json](./140521-eternal-doom.json) |
