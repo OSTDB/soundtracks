@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Strike | 96546 | [96546-chain-strike.json](./96546-chain-strike.json) |
 | Chain World | 92484 | [92484-chain-world.json](./92484-chain-world.json) |
 | Chain-Chillas | 398343 | [398343-chain-chillas.json](./398343-chain-chillas.json) |
+| Chain: The Lost Footprints | 127795 | [127795-chain-the-lost-footprints.json](./127795-chain-the-lost-footprints.json) |
 | Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chained 2 Violence | 346691 | [346691-chained-2-violence.json](./346691-chained-2-violence.json) |
 | Chained Horror Experiences | 258980 | [258980-chained-horror-experiences.json](./258980-chained-horror-experiences.json) |
@@ -4525,6 +4526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Shooter Strike Zone | 283283 | [283283-counter-shooter-strike-zone.json](./283283-counter-shooter-strike-zone.json) |
 | Counter Shot: Source | 277387 | [277387-counter-shot-source.json](./277387-counter-shot-source.json) |
 | Counter Snipe | 265672 | [265672-counter-snipe.json](./265672-counter-snipe.json) |
+| Counter-Fall | 127746 | [127746-counter-fall.json](./127746-counter-fall.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
 | Counter-Strike: Source Offensive | 287621 | [287621-counter-strike-source-offensive.json](./287621-counter-strike-source-offensive.json) |
 | Counterattack | 256877 | [256877-counterattack.json](./256877-counterattack.json) |
@@ -5238,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosscountry USA | 399067 | [399067-crosscountry-usa.json](./399067-crosscountry-usa.json) |
 | Crosscountry USA 2 | 71484 | [71484-crosscountry-usa-2.json](./71484-crosscountry-usa-2.json) |
 | Crosscountry USA Photo Safari | 399082 | [399082-crosscountry-usa-photo-safari.json](./399082-crosscountry-usa-photo-safari.json) |
+| Crossdoku: Math Crossword Sudoku | 127789 | [127789-crossdoku-math-crossword-sudoku.json](./127789-crossdoku-math-crossword-sudoku.json) |
 | Crossed Paths | 183045 | [183045-crossed-paths.json](./183045-crossed-paths.json) |
 | Crossed Paths: Connected Worlds - At First Sight | 180105 | [180105-crossed-paths-connected-worlds-at-first-sight.json](./180105-crossed-paths-connected-worlds-at-first-sight.json) |
 | Crossed Swords | 39642 | [39642-crossed-swords.json](./39642-crossed-swords.json) |
@@ -5906,6 +5909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut Me Deeply | 229159 | [229159-cut-me-deeply.json](./229159-cut-me-deeply.json) |
 | Cut Off From The World | 245318 | [245318-cut-off-from-the-world.json](./245318-cut-off-from-the-world.json) |
 | Cut Short | 179693 | [179693-cut-short.json](./179693-cut-short.json) |
+| Cut Smash Wrap | 127771 | [127771-cut-smash-wrap.json](./127771-cut-smash-wrap.json) |
 | Cut the Box | 117724 | [117724-cut-the-box.json](./117724-cut-the-box.json) |
 | Cut the Ex-Girlfriends | 102225 | [102225-cut-the-ex-girlfriends.json](./102225-cut-the-ex-girlfriends.json) |
 | Cut the Rope | 9761 | [9761-cut-the-rope.json](./9761-cut-the-rope.json) |
