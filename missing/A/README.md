@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Few Days With: Olivia | 392955 | [392955-a-few-days-with-olivia.json](./392955-a-few-days-with-olivia.json) |
 | A Few Days With: The Fairies | 392953 | [392953-a-few-days-with-the-fairies.json](./392953-a-few-days-with-the-fairies.json) |
 | A Firefighter's Boxing Matches | 179136 | [179136-a-firefighters-boxing-matches.json](./179136-a-firefighters-boxing-matches.json) |
+| A Firm Handshake | 176349 | [176349-a-firm-handshake.json](./176349-a-firm-handshake.json) |
 | A Flappy Bird in Real Life | 111077 | [111077-a-flappy-bird-in-real-life.json](./111077-a-flappy-bird-in-real-life.json) |
 | A Flower from Hermes | 185015 | [185015-a-flower-from-hermes.json](./185015-a-flower-from-hermes.json) |
 | A Forest | 387527 | [387527-a-forest.json](./387527-a-forest.json) |
@@ -2582,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antarctic Adventure | 239172 | [239172-antarctic-adventure.json](./239172-antarctic-adventure.json) |
 | Antarctic Girl | 127922 | [127922-antarctic-girl.json](./127922-antarctic-girl.json) |
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
+| Antecrypt | 176341 | [176341-antecrypt.json](./176341-antecrypt.json) |
 | Antegods | 34252 | [34252-antegods.json](./34252-antegods.json) |
 | Antharion | 64446 | [64446-antharion.json](./64446-antharion.json) |
 | AntharioN | 17227 | [17227-antharion.json](./17227-antharion.json) |
