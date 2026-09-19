@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Squad W | 109575 | [109575-fantasy-squad-w.json](./109575-fantasy-squad-w.json) |
 | Fantasy Story: Lord of Darkness | 200117 | [200117-fantasy-story-lord-of-darkness.json](./200117-fantasy-story-lord-of-darkness.json) |
 | Fantasy Strike | 45111 | [45111-fantasy-strike.json](./45111-fantasy-strike.json) |
+| Fantasy Strike: Core Pack | 169312 | [169312-fantasy-strike-core-pack.json](./169312-fantasy-strike-core-pack.json) |
 | Fantasy Tavern Sextet -Vol.3 Postlude Days- | 147402 | [147402-fantasy-tavern-sextet-vol-3-postlude-days.json](./147402-fantasy-tavern-sextet-vol-3-postlude-days.json) |
 | Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
 | Fantasy Temptations | 273487 | [273487-fantasy-temptations.json](./273487-fantasy-temptations.json) |
@@ -3989,6 +3990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furni-Jumpin' | 255132 | [255132-furni-jumpin.json](./255132-furni-jumpin.json) |
 | Furnish Master | 212816 | [212816-furnish-master.json](./212816-furnish-master.json) |
 | Furniture Assembler Simulator | 402351 | [402351-furniture-assembler-simulator.json](./402351-furniture-assembler-simulator.json) |
+| Furries & Scalies & Bears Oh My! 2: Return to Kale Bay | 169296 | [169296-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay.json](./169296-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay.json) |
 | Furries & Scalies & Bears OH MY! 2: Return to Kale Bay - Beyond the Monster Sea | 254146 | [254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json](./254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json) |
 | Furries & Scalies & Bears OH MY!: Charity Bonus | 171044 | [171044-furries-and-scalies-and-bears-oh-my-charity-bonus.json](./171044-furries-and-scalies-and-bears-oh-my-charity-bonus.json) |
 | Furries & Scalies & Bears OH MY!: Charity Pack - Echoes of the Fire | 171043 | [171043-furries-and-scalies-and-bears-oh-my-charity-pack-echoes-of-the-fire.json](./171043-furries-and-scalies-and-bears-oh-my-charity-pack-echoes-of-the-fire.json) |
