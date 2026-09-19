@@ -1460,6 +1460,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light: Path of the Archmage | 392136 | [392136-light-path-of-the-archmage.json](./392136-light-path-of-the-archmage.json) |
 | Light: Rebirth-The falsehood | 53274 | [53274-light-rebirth-the-falsehood.json](./53274-light-rebirth-the-falsehood.json) |
 | Light's End | 294179 | [294179-lights-end.json](./294179-lights-end.json) |
+| Light2Live | 153860 | [153860-light2live.json](./153860-light2live.json) |
+| Lightbox | 153861 | [153861-lightbox.json](./153861-lightbox.json) |
 | LightCells | 368582 | [368582-lightcells.json](./368582-lightcells.json) |
 | Lightening Force: Quest for the Darkstar | 46273 | [46273-lightening-force-quest-for-the-darkstar.json](./46273-lightening-force-quest-for-the-darkstar.json) |
 | Lighter | 114394 | [114394-lighter.json](./114394-lighter.json) |
@@ -2711,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovers ' Smiles 2 | 115637 | [115637-lovers-smiles-2.json](./115637-lovers-smiles-2.json) |
 | Lovers in Playa Rosa | 241374 | [241374-lovers-in-playa-rosa.json](./241374-lovers-in-playa-rosa.json) |
 | Lovers of Aether | 117041 | [117041-lovers-of-aether.json](./117041-lovers-of-aether.json) |
+| Lovin House | 153845 | [153845-lovin-house.json](./153845-lovin-house.json) |
 | Loving You Fully | 159873 | [159873-loving-you-fully.json](./159873-loving-you-fully.json) |
 | Lovish | 319894 | [319894-lovish.json](./319894-lovish.json) |
 | Low Battery | 354408 | [354408-low-battery.json](./354408-low-battery.json) |
