@@ -562,6 +562,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardCop 2 | 156681 | [156681-hardcop-2.json](./156681-hardcop-2.json) |
 | Hardcore Dirt Bike | 87720 | [87720-hardcore-dirt-bike.json](./87720-hardcore-dirt-bike.json) |
 | Hardcore Dirt Bike 2 | 97918 | [97918-hardcore-dirt-bike-2.json](./97918-hardcore-dirt-bike-2.json) |
+| Hardcore Mecha: Graeme | 168211 | [168211-hardcore-mecha-graeme.json](./168211-hardcore-mecha-graeme.json) |
+| Hardcore Mecha: Shepherd Jaeger | 168212 | [168212-hardcore-mecha-shepherd-jaeger.json](./168212-hardcore-mecha-shepherd-jaeger.json) |
 | Hardcore Parkour | 119765 | [119765-hardcore-parkour.json](./119765-hardcore-parkour.json) |
 | Hardcore Soldier | 406214 | [406214-hardcore-soldier.json](./406214-hardcore-soldier.json) |
 | Hardcore Trivia | 169848 | [169848-hardcore-trivia.json](./169848-hardcore-trivia.json) |
