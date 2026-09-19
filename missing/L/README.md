@@ -1803,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Frog Game | 229057 | [229057-little-frog-game.json](./229057-little-frog-game.json) |
 | Little Galaxy Family | 175424 | [175424-little-galaxy-family.json](./175424-little-galaxy-family.json) |
 | Little Game | 185071 | [185071-little-game.json](./185071-little-game.json) |
+| Little Gardens | 128385 | [128385-little-gardens.json](./128385-little-gardens.json) |
 | Little Girl in Underland | 323733 | [323733-little-girl-in-underland.json](./323733-little-girl-in-underland.json) |
 | Little Gods | 244259 | [244259-little-gods.json](./244259-little-gods.json) |
 | Little Gods of the Abyss | 169434 | [169434-little-gods-of-the-abyss.json](./169434-little-gods-of-the-abyss.json) |
