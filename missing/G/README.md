@@ -2246,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandma(88) | 260251 | [260251-grandma-88.json](./260251-grandma-88.json) |
 | Grandmaster Chess | 166075 | [166075-grandmaster-chess.json](./166075-grandmaster-chess.json) |
 | Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
+| Grandmother's Tale | 153872 | [153872-grandmothers-tale.json](./153872-grandmothers-tale.json) |
 | Grandpa Rally | 255730 | [255730-grandpa-rally.json](./255730-grandpa-rally.json) |
 | Grandslam: The Tennis Tournament | 81410 | [81410-grandslam-the-tennis-tournament.json](./81410-grandslam-the-tennis-tournament.json) |
 | Grandzenka | 208972 | [208972-grandzenka.json](./208972-grandzenka.json) |
