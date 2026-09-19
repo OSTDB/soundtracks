@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentlan | 103434 | [103434-tentlan.json](./103434-tentlan.json) |
 | Teocalli | 134698 | [134698-teocalli.json](./134698-teocalli.json) |
 | Teocida + Estigma | 265712 | [265712-teocida-estigma.json](./265712-teocida-estigma.json) |
+| Teodoro and the Evil Machines | 153873 | [153873-teodoro-and-the-evil-machines.json](./153873-teodoro-and-the-evil-machines.json) |
 | TEOM | 236013 | [236013-teom.json](./236013-teom.json) |
 | Teppen Banchou Take 1: Saikou no Yankee Ikusei Game | 220305 | [220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json](./220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json) |
 | Teppoman | 242819 | [242819-teppoman.json](./242819-teppoman.json) |
@@ -2357,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cosmic Tunnels | 62760 | [62760-the-cosmic-tunnels.json](./62760-the-cosmic-tunnels.json) |
 | The Cosmic Wheel Sisterhood | 247578 | [247578-the-cosmic-wheel-sisterhood.json](./247578-the-cosmic-wheel-sisterhood.json) |
 | The Cosmos is Mine! | 35800 | [35800-the-cosmos-is-mine.json](./35800-the-cosmos-is-mine.json) |
+| The Cost of Recovery | 153859 | [153859-the-cost-of-recovery.json](./153859-the-cost-of-recovery.json) |
 | The Cost Of Seeds | 292857 | [292857-the-cost-of-seeds.json](./292857-the-cost-of-seeds.json) |
 | The Cottage | 59966 | [59966-the-cottage.json](./59966-the-cottage.json) |
 | The Council of Hanwell | 89956 | [89956-the-council-of-hanwell.json](./89956-the-council-of-hanwell.json) |
@@ -2782,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enigma Lounge | 380439 | [380439-the-enigma-lounge.json](./380439-the-enigma-lounge.json) |
 | The Entertainment | 128622 | [128622-the-entertainment.json](./128622-the-entertainment.json) |
 | The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
+| The Epic | 153869 | [153869-the-epic.json](./153869-the-epic.json) |
 | The Epic of Jusen | 145598 | [145598-the-epic-of-jusen.json](./145598-the-epic-of-jusen.json) |
 | The Epic Quest of Birdo The Pink Dinosaur | 250662 | [250662-the-epic-quest-of-birdo-the-pink-dinosaur.json](./250662-the-epic-quest-of-birdo-the-pink-dinosaur.json) |
 | The Epoch Turning | 271324 | [271324-the-epoch-turning.json](./271324-the-epoch-turning.json) |
@@ -2885,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fate of Baldr | 211209 | [211209-the-fate-of-baldr.json](./211209-the-fate-of-baldr.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
 | The Fear 2: Creepy Scream House | 96745 | [96745-the-fear-2-creepy-scream-house.json](./96745-the-fear-2-creepy-scream-house.json) |
+| The Fear Island | 153866 | [153866-the-fear-island.json](./153866-the-fear-island.json) |
 | The Feast | 228727 | [228727-the-feast.json](./228727-the-feast.json) |
 | The FED | 200016 | [200016-the-fed.json](./200016-the-fed.json) |
 | The Feral Child | 112304 | [112304-the-feral-child.json](./112304-the-feral-child.json) |
@@ -6002,6 +6006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theme Hotel | 185634 | [185634-theme-hotel.json](./185634-theme-hotel.json) |
 | Theme Park Roller Coaster | 43273 | [43273-theme-park-roller-coaster.json](./43273-theme-park-roller-coaster.json) |
 | Theme Park Worker | 114964 | [114964-theme-park-worker.json](./114964-theme-park-worker.json) |
+| Themes of Dark and Light | 153864 | [153864-themes-of-dark-and-light.json](./153864-themes-of-dark-and-light.json) |
 | Themis | 327856 | [327856-themis.json](./327856-themis.json) |
 | TheMist | 116335 | [116335-themist.json](./116335-themist.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
