@@ -1355,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Mysteries in London | 84900 | [84900-secret-mysteries-in-london.json](./84900-secret-mysteries-in-london.json) |
 | Secret Mysteries in New York | 84899 | [84899-secret-mysteries-in-new-york.json](./84899-secret-mysteries-in-new-york.json) |
 | Secret of Evangelion | 61670 | [61670-secret-of-evangelion.json](./61670-secret-of-evangelion.json) |
+| Secret of Harrow Manor 2 | 164877 | [164877-secret-of-harrow-manor-2.json](./164877-secret-of-harrow-manor-2.json) |
 | Secret of Mana: Relocalized | 249276 | [249276-secret-of-mana-relocalized.json](./249276-secret-of-mana-relocalized.json) |
 | Secret of the Royal Throne | 32913 | [32913-secret-of-the-royal-throne.json](./32913-secret-of-the-royal-throne.json) |
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
@@ -2571,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsetsu Shiawase Usagi F: Yuujou Yori mo Aiyoku | 277859 | [277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json](./277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json) |
 | Shinshuku Taisen: It's a Noni! | 123622 | [123622-shinshuku-taisen-its-a-noni.json](./123622-shinshuku-taisen-its-a-noni.json) |
 | Shiny Sisters | 336596 | [336596-shiny-sisters.json](./336596-shiny-sisters.json) |
+| Shiny Summer | 164897 | [164897-shiny-summer.json](./164897-shiny-summer.json) |
 | Shiny-Man-Adventures | 211751 | [211751-shiny-man-adventures.json](./211751-shiny-man-adventures.json) |
 | Shinya Ichizoku: The Battle for Hokkaido's Delicious Foods | 186908 | [186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json](./186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json) |
 | Shinyaku Boushi Sekai | 396208 | [396208-shinyaku-boushi-sekai.json](./396208-shinyaku-boushi-sekai.json) |
@@ -4767,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokobear: Autumn | 219591 | [219591-sokobear-autumn.json](./219591-sokobear-autumn.json) |
 | Sokobear: Goo | 221161 | [221161-sokobear-goo.json](./221161-sokobear-goo.json) |
 | Sokobear: Spring | 219592 | [219592-sokobear-spring.json](./219592-sokobear-spring.json) |
+| Sokobond Express | 164896 | [164896-sokobond-express.json](./164896-sokobond-express.json) |
 | Sokobot | 189150 | [189150-sokobot.json](./189150-sokobot.json) |
 | Sokocat - Islands | 147449 | [147449-sokocat-islands.json](./147449-sokocat-islands.json) |
 | Sokocat: Castaway | 399689 | [399689-sokocat-castaway.json](./399689-sokocat-castaway.json) |
@@ -8950,6 +8953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summertime Madness | 144935 | [144935-summertime-madness.json](./144935-summertime-madness.json) |
 | Summit | 163453 | [163453-summit.json](./163453-summit.json) |
 | Summit | 80508 | [80508-summit.json](./80508-summit.json) |
+| Summit in Space | 164905 | [164905-summit-in-space.json](./164905-summit-in-space.json) |
 | Summit of the Wolf | 119033 | [119033-summit-of-the-wolf.json](./119033-summit-of-the-wolf.json) |
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
 | Summon My Girl | 278702 | [278702-summon-my-girl.json](./278702-summon-my-girl.json) |
@@ -9845,6 +9849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sheffy Bros. 3 | 214772 | [214772-super-sheffy-bros-3.json](./214772-super-sheffy-bros-3.json) |
 | Super Sheffy World 2: The Quest for 5 Shells | 214773 | [214773-super-sheffy-world-2-the-quest-for-5-shells.json](./214773-super-sheffy-world-2-the-quest-for-5-shells.json) |
 | Super Sheffy World Deluxe | 214774 | [214774-super-sheffy-world-deluxe.json](./214774-super-sheffy-world-deluxe.json) |
+| Super Shield Dash | 164915 | [164915-super-shield-dash.json](./164915-super-shield-dash.json) |
 | Super Shootout | 360582 | [360582-super-shootout.json](./360582-super-shootout.json) |
 | Super Shopper | 107809 | [107809-super-shopper.json](./107809-super-shopper.json) |
 | Super Silly Makeover | 220124 | [220124-super-silly-makeover.json](./220124-super-silly-makeover.json) |
@@ -10183,6 +10188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgineer | 223145 | [223145-surgineer.json](./223145-surgineer.json) |
 | Surging Blood | 386891 | [386891-surging-blood.json](./386891-surging-blood.json) |
 | Surprise Cat | 213593 | [213593-surprise-cat.json](./213593-surprise-cat.json) |
+| Surprise Party! | 164907 | [164907-surprise-party.json](./164907-surprise-party.json) |
 | Surprising My Neighbors 2 | 149038 | [149038-surprising-my-neighbors-2.json](./149038-surprising-my-neighbors-2.json) |
 | Surreal Farm | 316418 | [316418-surreal-farm.json](./316418-surreal-farm.json) |
 | SurReal Subway | 113762 | [113762-surreal-subway.json](./113762-surreal-subway.json) |
