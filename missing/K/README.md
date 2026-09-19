@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer: Rewind | 345018 | [345018-killer-rewind.json](./345018-killer-rewind.json) |
 | Killer7 | 3966 | [3966-killer7.json](./3966-killer7.json) |
 | Killerball | 84211 | [84211-killerball.json](./84211-killerball.json) |
+| Killing a Superstar | 160228 | [160228-killing-a-superstar.json](./160228-killing-a-superstar.json) |
 | Killing Baby Hitler | 399088 | [399088-killing-baby-hitler.json](./399088-killing-baby-hitler.json) |
 | Killing Bites | 59412 | [59412-killing-bites.json](./59412-killing-bites.json) |
 | Killing Floor 2: Deluxe Edition | 53242 | [53242-killing-floor-2-deluxe-edition.json](./53242-killing-floor-2-deluxe-edition.json) |
