@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T11:32:33.288Z",
-  "total_missing": 92021,
+  "generated_at": "2026-09-19T11:47:27.726Z",
+  "total_missing": 92071,
   "games": [
     {
       "igdb_id": 176875,
@@ -17356,6 +17356,11 @@
       "igdb_id": 153463,
       "game_name": "Antonball Deluxe Lite",
       "file": "missing/A/153463-antonball-deluxe-lite.json"
+    },
+    {
+      "igdb_id": 155519,
+      "game_name": "Antonball Deluxe: Better Than Nothing",
+      "file": "missing/A/155519-antonball-deluxe-better-than-nothing.json"
     },
     {
       "igdb_id": 201752,
@@ -46673,6 +46678,11 @@
       "file": "missing/B/340246-boofies-birthday-adventure.json"
     },
     {
+      "igdb_id": 155472,
+      "game_name": "Boog Adventure",
+      "file": "missing/B/155472-boog-adventure.json"
+    },
+    {
       "igdb_id": 62752,
       "game_name": "Boogaloopers",
       "file": "missing/B/62752-boogaloopers.json"
@@ -66463,6 +66473,11 @@
       "file": "missing/C/123541-chronicles-of-arcadia.json"
     },
     {
+      "igdb_id": 155499,
+      "game_name": "Chronicles of Cyberpunk: Deep Sleep",
+      "file": "missing/C/155499-chronicles-of-cyberpunk-deep-sleep.json"
+    },
+    {
       "igdb_id": 247740,
       "game_name": "Chronicles Of Errodean",
       "file": "missing/C/247740-chronicles-of-errodean.json"
@@ -70306,6 +70321,11 @@
       "igdb_id": 24857,
       "game_name": "Code Carbon",
       "file": "missing/C/24857-code-carbon.json"
+    },
+    {
+      "igdb_id": 155466,
+      "game_name": "Code Correction",
+      "file": "missing/C/155466-code-correction.json"
     },
     {
       "igdb_id": 185592,
@@ -113448,6 +113468,11 @@
       "file": "missing/E/251227-echoshift.json"
     },
     {
+      "igdb_id": 155512,
+      "game_name": "Echostasis",
+      "file": "missing/E/155512-echostasis.json"
+    },
+    {
       "igdb_id": 351708,
       "game_name": "Echoveil: The Last Guest",
       "file": "missing/E/351708-echoveil-the-last-guest.json"
@@ -120161,6 +120186,11 @@
       "igdb_id": 273485,
       "game_name": "Eschatology",
       "file": "missing/E/273485-eschatology.json"
+    },
+    {
+      "igdb_id": 155502,
+      "game_name": "Escherion",
+      "file": "missing/E/155502-escherion.json"
     },
     {
       "igdb_id": 331690,
@@ -132281,6 +132311,26 @@
       "igdb_id": 124210,
       "game_name": "Finders Reapers",
       "file": "missing/F/124210-finders-reapers.json"
+    },
+    {
+      "igdb_id": 155505,
+      "game_name": "Finders Reapers: Attack & Defend Character Pack",
+      "file": "missing/F/155505-finders-reapers-attack-and-defend-character-pack.json"
+    },
+    {
+      "igdb_id": 155506,
+      "game_name": "Finders Reapers: Evil & Nasty Character Pack",
+      "file": "missing/F/155506-finders-reapers-evil-and-nasty-character-pack.json"
+    },
+    {
+      "igdb_id": 155507,
+      "game_name": "Finders Reapers: Legends & Sports Character Pack",
+      "file": "missing/F/155507-finders-reapers-legends-and-sports-character-pack.json"
+    },
+    {
+      "igdb_id": 155508,
+      "game_name": "Finders Reapers: Super Crazy Character Pack",
+      "file": "missing/F/155508-finders-reapers-super-crazy-character-pack.json"
     },
     {
       "igdb_id": 139457,
@@ -156788,9 +156838,124 @@
       "file": "missing/G/18173-graviteam-tactics-mius-front.json"
     },
     {
+      "igdb_id": 155477,
+      "game_name": "Graviteam Tactics: Mius Front - Against the Tide",
+      "file": "missing/G/155477-graviteam-tactics-mius-front-against-the-tide.json"
+    },
+    {
       "igdb_id": 219807,
       "game_name": "Graviteam Tactics: Mius Front - Bird Grove",
       "file": "missing/G/219807-graviteam-tactics-mius-front-bird-grove.json"
+    },
+    {
+      "igdb_id": 155488,
+      "game_name": "Graviteam Tactics: Mius Front - Black Snow",
+      "file": "missing/G/155488-graviteam-tactics-mius-front-black-snow.json"
+    },
+    {
+      "igdb_id": 155483,
+      "game_name": "Graviteam Tactics: Mius Front - Cold Spring",
+      "file": "missing/G/155483-graviteam-tactics-mius-front-cold-spring.json"
+    },
+    {
+      "igdb_id": 155484,
+      "game_name": "Graviteam Tactics: Mius Front - Croatian Legion",
+      "file": "missing/G/155484-graviteam-tactics-mius-front-croatian-legion.json"
+    },
+    {
+      "igdb_id": 155476,
+      "game_name": "Graviteam Tactics: Mius Front - Dark Forest",
+      "file": "missing/G/155476-graviteam-tactics-mius-front-dark-forest.json"
+    },
+    {
+      "igdb_id": 155474,
+      "game_name": "Graviteam Tactics: Mius Front - Dawn of Blau",
+      "file": "missing/G/155474-graviteam-tactics-mius-front-dawn-of-blau.json"
+    },
+    {
+      "igdb_id": 155473,
+      "game_name": "Graviteam Tactics: Mius Front - Drive on Voronezh",
+      "file": "missing/G/155473-graviteam-tactics-mius-front-drive-on-voronezh.json"
+    },
+    {
+      "igdb_id": 155492,
+      "game_name": "Graviteam Tactics: Mius Front - Edge of Storm",
+      "file": "missing/G/155492-graviteam-tactics-mius-front-edge-of-storm.json"
+    },
+    {
+      "igdb_id": 155481,
+      "game_name": "Graviteam Tactics: Mius Front - Fateful Strike",
+      "file": "missing/G/155481-graviteam-tactics-mius-front-fateful-strike.json"
+    },
+    {
+      "igdb_id": 155490,
+      "game_name": "Graviteam Tactics: Mius Front - Final Offensive",
+      "file": "missing/G/155490-graviteam-tactics-mius-front-final-offensive.json"
+    },
+    {
+      "igdb_id": 155486,
+      "game_name": "Graviteam Tactics: Mius Front - Furtive Spring",
+      "file": "missing/G/155486-graviteam-tactics-mius-front-furtive-spring.json"
+    },
+    {
+      "igdb_id": 155487,
+      "game_name": "Graviteam Tactics: Mius Front - Grim of Death",
+      "file": "missing/G/155487-graviteam-tactics-mius-front-grim-of-death.json"
+    },
+    {
+      "igdb_id": 155480,
+      "game_name": "Graviteam Tactics: Mius Front - Leopard's Leap",
+      "file": "missing/G/155480-graviteam-tactics-mius-front-leopards-leap.json"
+    },
+    {
+      "igdb_id": 155478,
+      "game_name": "Graviteam Tactics: Mius Front - Operation Moduler",
+      "file": "missing/G/155478-graviteam-tactics-mius-front-operation-moduler.json"
+    },
+    {
+      "igdb_id": 155482,
+      "game_name": "Graviteam Tactics: Mius Front - Raid",
+      "file": "missing/G/155482-graviteam-tactics-mius-front-raid.json"
+    },
+    {
+      "igdb_id": 155485,
+      "game_name": "Graviteam Tactics: Mius Front - Strong Point",
+      "file": "missing/G/155485-graviteam-tactics-mius-front-strong-point.json"
+    },
+    {
+      "igdb_id": 155491,
+      "game_name": "Graviteam Tactics: Mius Front - The Day of the Olifant",
+      "file": "missing/G/155491-graviteam-tactics-mius-front-the-day-of-the-olifant.json"
+    },
+    {
+      "igdb_id": 155479,
+      "game_name": "Graviteam Tactics: Mius Front - Tielieketi Incident",
+      "file": "missing/G/155479-graviteam-tactics-mius-front-tielieketi-incident.json"
+    },
+    {
+      "igdb_id": 155489,
+      "game_name": "Graviteam Tactics: Mius Front - Typhoon Rising",
+      "file": "missing/G/155489-graviteam-tactics-mius-front-typhoon-rising.json"
+    },
+    {
+      "igdb_id": 155495,
+      "game_name": "Graviteam Tactics: Operation Star - Krasnaya Polyana 1943",
+      "file": "missing/G/155495-graviteam-tactics-operation-star-krasnaya-polyana-1943.json"
+    },
+    {
+      "igdb_id": 155493,
+      "game_name": "Graviteam Tactics: Operation Star - Operation Hooper",
+      "file": "missing/G/155493-graviteam-tactics-operation-star-operation-hooper.json"
+    },
+    {
+      "igdb_id": 155494,
+      "game_name": "Graviteam Tactics: Operation Star - Sokolovo 1943",
+      "file": "missing/G/155494-graviteam-tactics-operation-star-sokolovo-1943.json"
+    },
+    {
+      "igdb_id": 155496,
+      "game_name": "Graviteam Tactics: Operation Star - Volokonovka 1942",
+      "file": "missing/G/155496-graviteam-tactics-operation-star-volokonovka-1942.json"
     },
     {
       "igdb_id": 245575,
@@ -181568,6 +181733,11 @@
       "file": "missing/I/207829-ice-cream-trip.json"
     },
     {
+      "igdb_id": 155511,
+      "game_name": "Ice Cream Truck",
+      "file": "missing/I/155511-ice-cream-truck.json"
+    },
+    {
       "igdb_id": 88214,
       "game_name": "Ice Cream Uncle",
       "file": "missing/I/88214-ice-cream-uncle.json"
@@ -185631,6 +185801,11 @@
       "igdb_id": 125416,
       "game_name": "Infinite Jonathans",
       "file": "missing/I/125416-infinite-jonathans.json"
+    },
+    {
+      "igdb_id": 155518,
+      "game_name": "Infinite Jump",
+      "file": "missing/I/155518-infinite-jump.json"
     },
     {
       "igdb_id": 256523,
@@ -236863,6 +237038,11 @@
       "file": "missing/M/135156-mighty-aphid.json"
     },
     {
+      "igdb_id": 155469,
+      "game_name": "Mighty Chameleon Brothers",
+      "file": "missing/M/155469-mighty-chameleon-brothers.json"
+    },
+    {
       "igdb_id": 44522,
       "game_name": "Mighty Flip Champs! DX",
       "file": "missing/M/44522-mighty-flip-champs-dx.json"
@@ -238928,6 +239108,11 @@
       "file": "missing/M/201020-mini-royale.json"
     },
     {
+      "igdb_id": 155468,
+      "game_name": "Mini Ship Wars",
+      "file": "missing/M/155468-mini-ship-wars.json"
+    },
+    {
       "igdb_id": 240212,
       "game_name": "Mini Speedy Racers",
       "file": "missing/M/240212-mini-speedy-racers.json"
@@ -240806,6 +240991,11 @@
       "igdb_id": 312766,
       "game_name": "MK-Ultra Tower Defense",
       "file": "missing/M/312766-mk-ultra-tower-defense.json"
+    },
+    {
+      "igdb_id": 155515,
+      "game_name": "MK5 Mortal Kombat: Sub-Zero",
+      "file": "missing/M/155515-mk5-mortal-kombat-sub-zero.json"
     },
     {
       "igdb_id": 407420,
@@ -296348,6 +296538,11 @@
       "file": "missing/P/374080-project-another-use-graftage.json"
     },
     {
+      "igdb_id": 155503,
+      "game_name": "Project: Aurora",
+      "file": "missing/P/155503-project-aurora.json"
+    },
+    {
       "igdb_id": 29741,
       "game_name": "Project: Bits",
       "file": "missing/P/29741-project-bits.json"
@@ -308263,6 +308458,11 @@
       "file": "missing/R/223463-reeve.json"
     },
     {
+      "igdb_id": 155510,
+      "game_name": "Refactor",
+      "file": "missing/R/155510-refactor.json"
+    },
+    {
       "igdb_id": 35928,
       "game_name": "Refactor",
       "file": "missing/R/35928-refactor.json"
@@ -313631,6 +313831,11 @@
       "igdb_id": 312030,
       "game_name": "Rise of the White Sun: The Yellow Way",
       "file": "missing/R/312030-rise-of-the-white-sun-the-yellow-way.json"
+    },
+    {
+      "igdb_id": 155475,
+      "game_name": "Rise of Warlords",
+      "file": "missing/R/155475-rise-of-warlords.json"
     },
     {
       "igdb_id": 373027,
@@ -363368,6 +363573,11 @@
       "file": "missing/S/55063-street-fighter-ii-uno.json"
     },
     {
+      "igdb_id": 155516,
+      "game_name": "Street Fighter II: Ryu vs. Sagat",
+      "file": "missing/S/155516-street-fighter-ii-ryu-vs-sagat.json"
+    },
+    {
       "igdb_id": 6709,
       "game_name": "Street Fighter III 2nd Impact: Giant Attack",
       "file": "missing/S/6709-street-fighter-iii-2nd-impact-giant-attack.json"
@@ -364886,6 +365096,11 @@
       "igdb_id": 239670,
       "game_name": "Subtension",
       "file": "missing/S/239670-subtension.json"
+    },
+    {
+      "igdb_id": 155497,
+      "game_name": "Subterrain: Mines of Titan",
+      "file": "missing/S/155497-subterrain-mines-of-titan.json"
     },
     {
       "igdb_id": 55205,
@@ -371198,6 +371413,11 @@
       "file": "missing/S/335252-super-spy-violet.json"
     },
     {
+      "igdb_id": 155467,
+      "game_name": "Super Squad: Super Pack",
+      "file": "missing/S/155467-super-squad-super-pack.json"
+    },
+    {
       "igdb_id": 223025,
       "game_name": "Super Stacey World",
       "file": "missing/S/223025-super-stacey-world.json"
@@ -372771,6 +372991,11 @@
       "igdb_id": 90125,
       "game_name": "Survive in Angaria",
       "file": "missing/S/90125-survive-in-angaria.json"
+    },
+    {
+      "igdb_id": 155504,
+      "game_name": "Survive Into Night",
+      "file": "missing/S/155504-survive-into-night.json"
     },
     {
       "igdb_id": 148521,
@@ -375416,6 +375641,11 @@
       "igdb_id": 304880,
       "game_name": "Synthaar",
       "file": "missing/S/304880-synthaar.json"
+    },
+    {
+      "igdb_id": 155513,
+      "game_name": "Synthalgia: Retro Arcade Racing",
+      "file": "missing/S/155513-synthalgia-retro-arcade-racing.json"
     },
     {
       "igdb_id": 99008,
@@ -382626,6 +382856,11 @@
       "igdb_id": 54428,
       "game_name": "Terra Farmers",
       "file": "missing/T/54428-terra-farmers.json"
+    },
+    {
+      "igdb_id": 155509,
+      "game_name": "Terra Firma",
+      "file": "missing/T/155509-terra-firma.json"
     },
     {
       "igdb_id": 197265,
@@ -395931,6 +396166,11 @@
       "igdb_id": 46560,
       "game_name": "The Lost Ride",
       "file": "missing/T/46560-the-lost-ride.json"
+    },
+    {
+      "igdb_id": 155470,
+      "game_name": "The Lost Robot: Jigsaw Puzzle Stories",
+      "file": "missing/T/155470-the-lost-robot-jigsaw-puzzle-stories.json"
     },
     {
       "igdb_id": 238528,
@@ -439746,6 +439986,16 @@
       "igdb_id": 17838,
       "game_name": "War, the Game",
       "file": "missing/W/17838-war-the-game.json"
+    },
+    {
+      "igdb_id": 155500,
+      "game_name": "Warage",
+      "file": "missing/W/155500-warage.json"
+    },
+    {
+      "igdb_id": 155501,
+      "game_name": "Warage: Necromancer Campaign",
+      "file": "missing/W/155501-warage-necromancer-campaign.json"
     },
     {
       "igdb_id": 37768,
