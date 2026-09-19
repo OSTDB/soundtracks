@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Shot Outlaw | 212461 | [212461-one-shot-outlaw.json](./212461-one-shot-outlaw.json) |
 | One show only | 25620 | [25620-one-show-only.json](./25620-one-show-only.json) |
 | One Slime Army | 307597 | [307597-one-slime-army.json](./307597-one-slime-army.json) |
+| One Small Favor | 163859 | [163859-one-small-favor.json](./163859-one-small-favor.json) |
 | One Small Square Backyard | 209024 | [209024-one-small-square-backyard.json](./209024-one-small-square-backyard.json) |
 | One Strike | 28695 | [28695-one-strike.json](./28695-one-strike.json) |
 | One Strike: Complete Edition | 238181 | [238181-one-strike-complete-edition.json](./238181-one-strike-complete-edition.json) |
@@ -1085,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Gekkou | 210688 | [210688-operation-gekkou.json](./210688-operation-gekkou.json) |
 | Operation H.O.P.E. | 392784 | [392784-operation-h-o-p-e.json](./392784-operation-h-o-p-e.json) |
 | Operation HuntingHawk : Breakthrough | 367938 | [367938-operation-huntinghawk-breakthrough.json](./367938-operation-huntinghawk-breakthrough.json) |
+| Operation Insanity | 163829 | [163829-operation-insanity.json](./163829-operation-insanity.json) |
 | Operation Market Garden: Drive on Arnhem, September 1944 | 25779 | [25779-operation-market-garden-drive-on-arnhem-september-1944.json](./25779-operation-market-garden-drive-on-arnhem-september-1944.json) |
 | Operation Nachtsprung: Odyssey Live | 352734 | [352734-operation-nachtsprung-odyssey-live.json](./352734-operation-nachtsprung-odyssey-live.json) |
 | Operation Ninurta: Eris Portal | 351726 | [351726-operation-ninurta-eris-portal.json](./351726-operation-ninurta-eris-portal.json) |
