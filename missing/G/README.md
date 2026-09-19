@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garena Blockman Go | 220215 | [220215-garena-blockman-go.json](./220215-garena-blockman-go.json) |
 | Garenburg Woods | 75915 | [75915-garenburg-woods.json](./75915-garenburg-woods.json) |
 | Garetto | 163917 | [163917-garetto.json](./163917-garetto.json) |
+| Garfield | 179595 | [179595-garfield.json](./179595-garfield.json) |
 | Garfield 2: Royal Adventure | 309657 | [309657-garfield-2-royal-adventure.json](./309657-garfield-2-royal-adventure.json) |
 | Garfield Collection 2 in 1 | 340739 | [340739-garfield-collection-2-in-1.json](./340739-garfield-collection-2-in-1.json) |
 | Garfield Kart 2: All You Can Drift | 345489 | [345489-garfield-kart-2-all-you-can-drift.json](./345489-garfield-kart-2-all-you-can-drift.json) |
@@ -1187,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gin and Wall | 412365 | [412365-gin-and-wall.json](./412365-gin-and-wall.json) |
 | Gin Champion | 46581 | [46581-gin-champion.json](./46581-gin-champion.json) |
 | Gin no Eclipse | 204556 | [204556-gin-no-eclipse.json](./204556-gin-no-eclipse.json) |
+| Gin Rummy | 179597 | [179597-gin-rummy.json](./179597-gin-rummy.json) |
 | Gin: The Silver Wind | 275729 | [275729-gin-the-silver-wind.json](./275729-gin-the-silver-wind.json) |
 | Gin's Gunstore | 355546 | [355546-gins-gunstore.json](./355546-gins-gunstore.json) |
 | Ginga Ojousama Densetsu Collection | 62731 | [62731-ginga-ojousama-densetsu-collection.json](./62731-ginga-ojousama-densetsu-collection.json) |
