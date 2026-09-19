@@ -1995,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nose Bleed | 227915 | [227915-nose-bleed.json](./227915-nose-bleed.json) |
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
 | NoserLand | 51960 | [51960-noserland.json](./51960-noserland.json) |
+| Nosfereatyou | 179579 | [179579-nosfereatyou.json](./179579-nosfereatyou.json) |
 | Nosos | 175885 | [175885-nosos.json](./175885-nosos.json) |
 | NoSpellHero | 341486 | [341486-nospellhero.json](./341486-nospellhero.json) |
 | NostalDoom | 269559 | [269559-nostaldoom.json](./269559-nostaldoom.json) |
