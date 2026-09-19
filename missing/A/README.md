@@ -1400,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Robot Monsters | 34724 | [34724-alien-robot-monsters.json](./34724-alien-robot-monsters.json) |
 | Alien Shepherd | 190200 | [190200-alien-shepherd.json](./190200-alien-shepherd.json) |
 | Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
+| Alien Shooter 3D | 152770 | [152770-alien-shooter-3d.json](./152770-alien-shooter-3d.json) |
 | Alien Shooter: The Experiment | 11090 | [11090-alien-shooter-the-experiment.json](./11090-alien-shooter-the-experiment.json) |
 | Alien Slayer | 275099 | [275099-alien-slayer.json](./275099-alien-slayer.json) |
 | Alien Slayers | 233772 | [233772-alien-slayers.json](./233772-alien-slayers.json) |
@@ -2470,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Manga Style Girl: Color By Number Pixel Art Coloring | 370758 | [370758-anime-manga-style-girl-color-by-number-pixel-art-coloring.json](./370758-anime-manga-style-girl-color-by-number-pixel-art-coloring.json) |
 | Anime Memes | 405608 | [405608-anime-memes.json](./405608-anime-memes.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
+| Anime puzzle | 152764 | [152764-anime-puzzle.json](./152764-anime-puzzle.json) |
 | Anime Rally | 326811 | [326811-anime-rally.json](./326811-anime-rally.json) |
 | Anime School Love: His Teacher Secret Lesson | 378780 | [378780-anime-school-love-his-teacher-secret-lesson.json](./378780-anime-school-love-his-teacher-secret-lesson.json) |
 | Anime Sexy Girl Puzzle: Hentai Game History Adventure | 267371 | [267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json](./267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json) |
