@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CaveFiction | 216789 | [216789-cavefiction.json](./216789-cavefiction.json) |
 | Cavegirl Adventures | 163992 | [163992-cavegirl-adventures.json](./163992-cavegirl-adventures.json) |
 | CaveIn: Miner Rescue Team | 68639 | [68639-cavein-miner-rescue-team.json](./68639-cavein-miner-rescue-team.json) |
+| Caveman | 163276 | [163276-caveman.json](./163276-caveman.json) |
 | Caveman | 47281 | [47281-caveman.json](./47281-caveman.json) |
 | Caveman Capers | 13702 | [13702-caveman-capers.json](./13702-caveman-capers.json) |
 | Caveman Caravan | 369667 | [369667-caveman-caravan.json](./369667-caveman-caravan.json) |
