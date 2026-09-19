@@ -994,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teardown: Creative Mode | 252848 | [252848-teardown-creative-mode.json](./252848-teardown-creative-mode.json) |
 | Tears Fall Low | 245919 | [245919-tears-fall-low.json](./245919-tears-fall-low.json) |
 | Tears of a Dragon | 29798 | [29798-tears-of-a-dragon.json](./29798-tears-of-a-dragon.json) |
+| Tears of a Prophet | 174203 | [174203-tears-of-a-prophet.json](./174203-tears-of-a-prophet.json) |
 | Tears of Adria | 268226 | [268226-tears-of-adria.json](./268226-tears-of-adria.json) |
 | Tears of Magic | 224574 | [224574-tears-of-magic.json](./224574-tears-of-magic.json) |
 | Tears to Tiara Gaiden: Avalon no Nazo | 76907 | [76907-tears-to-tiara-gaiden-avalon-no-nazo.json](./76907-tears-to-tiara-gaiden-avalon-no-nazo.json) |
@@ -7659,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topografie Nederland | 86027 | [86027-topografie-nederland.json](./86027-topografie-nederland.json) |
 | Topolino amico delle guardie | 246664 | [246664-topolino-amico-delle-guardie.json](./246664-topolino-amico-delle-guardie.json) |
 | Topper Carrier | 152830 | [152830-topper-carrier.json](./152830-topper-carrier.json) |
+| Toppl. | 174219 | [174219-toppl.json](./174219-toppl.json) |
 | Topple Adventure | 214490 | [214490-topple-adventure.json](./214490-topple-adventure.json) |
 | Topple Tactics | 272547 | [272547-topple-tactics.json](./272547-topple-tactics.json) |
 | Topple the Tower | 249839 | [249839-topple-the-tower.json](./249839-topple-the-tower.json) |
@@ -8650,6 +8652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Simulator 2009: Settle and Carlisle | 27898 | [27898-trainz-simulator-2009-settle-and-carlisle.json](./27898-trainz-simulator-2009-settle-and-carlisle.json) |
 | Trainz Simulator 2009: World Builder Edition | 11016 | [11016-trainz-simulator-2009-world-builder-edition.json](./11016-trainz-simulator-2009-world-builder-edition.json) |
 | Trainz Simulator 2010: Engineers Edition | 11017 | [11017-trainz-simulator-2010-engineers-edition.json](./11017-trainz-simulator-2010-engineers-edition.json) |
+| Trainz Simulator 3 | 174222 | [174222-trainz-simulator-3.json](./174222-trainz-simulator-3.json) |
 | Trainz Simulator World Tour | 408040 | [408040-trainz-simulator-world-tour.json](./408040-trainz-simulator-world-tour.json) |
 | Trainz Simulator: Classic Cabon City | 11021 | [11021-trainz-simulator-classic-cabon-city.json](./11021-trainz-simulator-classic-cabon-city.json) |
 | Trainz: A New Era - Aerotrain | 156169 | [156169-trainz-a-new-era-aerotrain.json](./156169-trainz-a-new-era-aerotrain.json) |
