@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagicShop2 | 253903 | [253903-magicshop2.json](./253903-magicshop2.json) |
 | Magiduck | 252868 | [252868-magiduck.json](./252868-magiduck.json) |
 | Magiduel | 177019 | [177019-magiduel.json](./177019-magiduel.json) |
+| Magin: The Rat Project Stories | 127744 | [127744-magin-the-rat-project-stories.json](./127744-magin-the-rat-project-stories.json) |
 | Magin: The Rat Project Stories - Essence Edition | 396920 | [396920-magin-the-rat-project-stories-essence-edition.json](./396920-magin-the-rat-project-stories-essence-edition.json) |
 | Magin: The Rat Project Stories - Supporter Pack | 396912 | [396912-magin-the-rat-project-stories-supporter-pack.json](./396912-magin-the-rat-project-stories-supporter-pack.json) |
 | Maginary | 129163 | [129163-maginary.json](./129163-maginary.json) |
@@ -2730,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Rainbow Friend | 224002 | [224002-merge-rainbow-friend.json](./224002-merge-rainbow-friend.json) |
 | Merge Studio: Fashion Makeover | 315111 | [315111-merge-studio-fashion-makeover.json](./315111-merge-studio-fashion-makeover.json) |
 | Merge Together | 323340 | [323340-merge-together.json](./323340-merge-together.json) |
+| Merge Towers | 127775 | [127775-merge-towers.json](./127775-merge-towers.json) |
 | Merge Town! | 87347 | [87347-merge-town.json](./87347-merge-town.json) |
 | Merge Villa | 227958 | [227958-merge-villa.json](./227958-merge-villa.json) |
 | Merge War: Super Legion Master | 262375 | [262375-merge-war-super-legion-master.json](./262375-merge-war-super-legion-master.json) |
@@ -5445,6 +5447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Driller | 370220 | [370220-mr-driller.json](./370220-mr-driller.json) |
 | Mr. Drumstix' Music Studio | 69232 | [69232-mr-drumstix-music-studio.json](./69232-mr-drumstix-music-studio.json) |
 | Mr. Elevator | 337088 | [337088-mr-elevator.json](./337088-mr-elevator.json) |
+| Mr. Fast | 127751 | [127751-mr-fast.json](./127751-mr-fast.json) |
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
 | Mr. Gold: Tooyama no Kinsan Space Chou | 41317 | [41317-mr-gold-tooyama-no-kinsan-space-chou.json](./41317-mr-gold-tooyama-no-kinsan-space-chou.json) |
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
