@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Krab: Red Sea | 167248 | [167248-karate-krab-red-sea.json](./167248-karate-krab-red-sea.json) |
 | Karate Phants: Gloves of Glory | 68633 | [68633-karate-phants-gloves-of-glory.json](./68633-karate-phants-gloves-of-glory.json) |
 | Karate Survivor | 307796 | [307796-karate-survivor.json](./307796-karate-survivor.json) |
+| Karate Warrior | 134424 | [134424-karate-warrior.json](./134424-karate-warrior.json) |
 | Karateka | 4602 | [4602-karateka.json](./4602-karateka.json) |
 | Karawan | 180232 | [180232-karawan.json](./180232-karawan.json) |
 | KarBoom | 62667 | [62667-karboom.json](./62667-karboom.json) |
@@ -737,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killego | 384097 | [384097-killego.json](./384097-killego.json) |
 | Killer Aces Volleyball | 352226 | [352226-killer-aces-volleyball.json](./352226-killer-aces-volleyball.json) |
 | Killer and Strawberry Plus | 172750 | [172750-killer-and-strawberry-plus.json](./172750-killer-and-strawberry-plus.json) |
+| Killer Auto | 134417 | [134417-killer-auto.json](./134417-killer-auto.json) |
 | Killer Backflip 999 | 103474 | [103474-killer-backflip-999.json](./103474-killer-backflip-999.json) |
 | Killer Bean Unleashed | 262652 | [262652-killer-bean-unleashed.json](./262652-killer-bean-unleashed.json) |
 | Killer Dog | 135814 | [135814-killer-dog.json](./135814-killer-dog.json) |
@@ -1088,6 +1090,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby in Sonic the Hedgehog | 198524 | [198524-kirby-in-sonic-the-hedgehog.json](./198524-kirby-in-sonic-the-hedgehog.json) |
 | Kirby in Sonic the Hedgehog 2 | 198531 | [198531-kirby-in-sonic-the-hedgehog-2.json](./198531-kirby-in-sonic-the-hedgehog-2.json) |
 | Kirby Mass Attack | 3724 | [3724-kirby-mass-attack.json](./3724-kirby-mass-attack.json) |
+| Kirby no Omochabako: Arrange Ball | 134455 | [134455-kirby-no-omochabako-arrange-ball.json](./134455-kirby-no-omochabako-arrange-ball.json) |
+| Kirby no Omochabako: Ball Rally | 134457 | [134457-kirby-no-omochabako-ball-rally.json](./134457-kirby-no-omochabako-ball-rally.json) |
+| Kirby no Omochabako: Cannonball | 134454 | [134454-kirby-no-omochabako-cannonball.json](./134454-kirby-no-omochabako-cannonball.json) |
+| Kirby no Omochabako: Guru-guru Ball | 134453 | [134453-kirby-no-omochabako-guru-guru-ball.json](./134453-kirby-no-omochabako-guru-guru-ball.json) |
+| Kirby no Omochabako: Pachinko | 134456 | [134456-kirby-no-omochabako-pachinko.json](./134456-kirby-no-omochabako-pachinko.json) |
+| Kirby no Omochabako: Pinball | 134452 | [134452-kirby-no-omochabako-pinball.json](./134452-kirby-no-omochabako-pinball.json) |
 | Kirby Puzzle | 84259 | [84259-kirby-puzzle.json](./84259-kirby-puzzle.json) |
 | Kirby Star Allies | 37137 | [37137-kirby-star-allies.json](./37137-kirby-star-allies.json) |
 | Kirby Street | 330879 | [330879-kirby-street.json](./330879-kirby-street.json) |
@@ -1441,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kodama | 262067 | [262067-kodama.json](./262067-kodama.json) |
 | Kode Zero | 362252 | [362252-kode-zero.json](./362252-kode-zero.json) |
 | Kodoku no Yurikago | 260941 | [260941-kodoku-no-yurikago.json](./260941-kodoku-no-yurikago.json) |
+| Kodomo Chousadan Mighty Pockets | 134461 | [134461-kodomo-chousadan-mighty-pockets.json](./134461-kodomo-chousadan-mighty-pockets.json) |
 | Kodomo-tachi no Kuni Magic Children | 353375 | [353375-kodomo-tachi-no-kuni-magic-children.json](./353375-kodomo-tachi-no-kuni-magic-children.json) |
 | Koe | 50532 | [50532-koe.json](./50532-koe.json) |
 | KOF X Garou Densetsu | 63832 | [63832-kof-x-garou-densetsu.json](./63832-kof-x-garou-densetsu.json) |
@@ -1448,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kohan: Immortal Sovereigns | 767 | [767-kohan-immortal-sovereigns.json](./767-kohan-immortal-sovereigns.json) |
 | Kohinata Yuzuki to Shoya Shitai!: Kemomimi Kamisama to Yukemuri Koimoyou | 396942 | [396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json](./396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json) |
 | Koi Farm | 143633 | [143633-koi-farm.json](./143633-koi-farm.json) |
+| Koi ha Balance: Tatoeba K-kun no Tabou na Ichinichi-hen | 134463 | [134463-koi-ha-balance-tatoeba-k-kun-no-tabou-na-ichinichi-hen.json](./134463-koi-ha-balance-tatoeba-k-kun-no-tabou-na-ichinichi-hen.json) |
 | Koi Hai Tunnel | 280878 | [280878-koi-hai-tunnel.json](./280878-koi-hai-tunnel.json) |
 | Koi Iro Rabian Doll | 191693 | [191693-koi-iro-rabian-doll.json](./191693-koi-iro-rabian-doll.json) |
 | Koi Koi Mahjong | 43964 | [43964-koi-koi-mahjong.json](./43964-koi-koi-mahjong.json) |
@@ -1513,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kommissar Kugelblitz: Vermisst am Mississippi | 282691 | [282691-kommissar-kugelblitz-vermisst-am-mississippi.json](./282691-kommissar-kugelblitz-vermisst-am-mississippi.json) |
 | Komori Fruit Rush | 126633 | [126633-komori-fruit-rush.json](./126633-komori-fruit-rush.json) |
 | Kona Project | 299742 | [299742-kona-project.json](./299742-kona-project.json) |
+| Konae-chan no Doki-doki Penguin Kazoku | 134464 | [134464-konae-chan-no-doki-doki-penguin-kazoku.json](./134464-konae-chan-no-doki-doki-penguin-kazoku.json) |
 | Konami 88 | 40228 | [40228-konami-88.json](./40228-konami-88.json) |
 | Konami Collector's Series: Castlevania & Contra | 78642 | [78642-konami-collectors-series-castlevania-and-contra.json](./78642-konami-collectors-series-castlevania-and-contra.json) |
 | Konami's Ping Pong | 46832 | [46832-konamis-ping-pong.json](./46832-konamis-ping-pong.json) |
