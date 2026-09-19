@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Viking: God of Valhalla | 214031 | [214031-last-viking-god-of-valhalla.json](./214031-last-viking-god-of-valhalla.json) |
 | Last Viking: Ragnarok Loop | 291485 | [291485-last-viking-ragnarok-loop.json](./291485-last-viking-ragnarok-loop.json) |
 | Last Village | 164878 | [164878-last-village.json](./164878-last-village.json) |
+| Last Visit | 149944 | [149944-last-visit.json](./149944-last-visit.json) |
 | Last Week | 123003 | [123003-last-week.json](./123003-last-week.json) |
 | Last Week of a King | 288227 | [288227-last-week-of-a-king.json](./288227-last-week-of-a-king.json) |
 | Last Wish | 111074 | [111074-last-wish.json](./111074-last-wish.json) |
@@ -1737,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Betty: Gold Rush | 372997 | [372997-little-betty-gold-rush.json](./372997-little-betty-gold-rush.json) |
 | Little Big Adventure: Twinsen's Quest | 241954 | [241954-little-big-adventure-twinsens-quest.json](./241954-little-big-adventure-twinsens-quest.json) |
 | Little Big Horn | 226409 | [226409-little-big-horn.json](./226409-little-big-horn.json) |
+| Little Big Monsters | 149945 | [149945-little-big-monsters.json](./149945-little-big-monsters.json) |
 | Little Big Robots | 231931 | [231931-little-big-robots.json](./231931-little-big-robots.json) |
 | Little Big Workshop | 124131 | [124131-little-big-workshop.json](./124131-little-big-workshop.json) |
 | Little Boo and the Spectral Orbs | 386232 | [386232-little-boo-and-the-spectral-orbs.json](./386232-little-boo-and-the-spectral-orbs.json) |
@@ -2298,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorch 3 | 270655 | [270655-lorch-3.json](./270655-lorch-3.json) |
 | Lorch: Abducted | 270682 | [270682-lorch-abducted.json](./270682-lorch-abducted.json) |
 | Lord and Maiden | 404869 | [404869-lord-and-maiden.json](./404869-lord-and-maiden.json) |
+| Lord BullFrog | 149941 | [149941-lord-bullfrog.json](./149941-lord-bullfrog.json) |
 | Lord Clicker | 183555 | [183555-lord-clicker.json](./183555-lord-clicker.json) |
 | Lord Democrat Strikes Out! | 116314 | [116314-lord-democrat-strikes-out.json](./116314-lord-democrat-strikes-out.json) |
 | Lord O' Pirates | 258528 | [258528-lord-o-pirates.json](./258528-lord-o-pirates.json) |
@@ -2773,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid | 215773 | [215773-lucid.json](./215773-lucid.json) |
 | Lucid | 290530 | [290530-lucid.json](./290530-lucid.json) |
 | Lucid Adventure Idle RPG | 143079 | [143079-lucid-adventure-idle-rpg.json](./143079-lucid-adventure-idle-rpg.json) |
+| Lucid Cycle | 149940 | [149940-lucid-cycle.json](./149940-lucid-cycle.json) |
 | Lucid Deep | 132774 | [132774-lucid-deep.json](./132774-lucid-deep.json) |
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
 | Lucid Nightmares | 355126 | [355126-lucid-nightmares.json](./355126-lucid-nightmares.json) |
