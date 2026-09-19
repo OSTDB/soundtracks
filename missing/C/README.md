@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave of Treats | 408803 | [408803-cave-of-treats.json](./408803-cave-of-treats.json) |
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
 | Cave Shooting Collection | 159258 | [159258-cave-shooting-collection.json](./159258-cave-shooting-collection.json) |
+| Cave Story Sex RPG 2007 | 145470 | [145470-cave-story-sex-rpg-2007.json](./145470-cave-story-sex-rpg-2007.json) |
 | Cave Story with a Fourth Ending | 384657 | [384657-cave-story-with-a-fourth-ending.json](./384657-cave-story-with-a-fourth-ending.json) |
 | Cave Swing | 242564 | [242564-cave-swing.json](./242564-cave-swing.json) |
 | Cave Walker | 73226 | [73226-cave-walker.json](./73226-cave-walker.json) |
