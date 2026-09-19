@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zootto Mahjong! | 37744 | [37744-zootto-mahjong.json](./37744-zootto-mahjong.json) |
 | ZooZooGo! | 64396 | [64396-zoozoogo.json](./64396-zoozoogo.json) |
 | Zoria: Age of Shattering - Ancestors' Weapon Pack | 402944 | [402944-zoria-age-of-shattering-ancestors-weapon-pack.json](./402944-zoria-age-of-shattering-ancestors-weapon-pack.json) |
+| Zork Collection | 137464 | [137464-zork-collection.json](./137464-zork-collection.json) |
 | Zorlok | 361789 | [361789-zorlok.json](./361789-zorlok.json) |
 | Zorpon | 208413 | [208413-zorpon.json](./208413-zorpon.json) |
 | Zorro | 81431 | [81431-zorro.json](./81431-zorro.json) |
