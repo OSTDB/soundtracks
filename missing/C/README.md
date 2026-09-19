@@ -4581,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Nitro Kart | 210238 | [210238-crash-nitro-kart.json](./210238-crash-nitro-kart.json) |
 | Crash Nitro Kart | 222884 | [222884-crash-nitro-kart.json](./222884-crash-nitro-kart.json) |
 | Crash Nitro Mini Golf | 336385 | [336385-crash-nitro-mini-golf.json](./336385-crash-nitro-mini-golf.json) |
+| Crash of Magic | 180150 | [180150-crash-of-magic.json](./180150-crash-of-magic.json) |
 | Crash of the Titans | 1190 | [1190-crash-of-the-titans.json](./1190-crash-of-the-titans.json) |
 | Crash of the Titans | 197928 | [197928-crash-of-the-titans.json](./197928-crash-of-the-titans.json) |
 | Crash of the Titans | 197929 | [197929-crash-of-the-titans.json](./197929-crash-of-the-titans.json) |
@@ -5000,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosscountry USA 2 | 71484 | [71484-crosscountry-usa-2.json](./71484-crosscountry-usa-2.json) |
 | Crosscountry USA Photo Safari | 399082 | [399082-crosscountry-usa-photo-safari.json](./399082-crosscountry-usa-photo-safari.json) |
 | Crossed Paths | 183045 | [183045-crossed-paths.json](./183045-crossed-paths.json) |
+| Crossed Paths: Connected Worlds - At First Sight | 180105 | [180105-crossed-paths-connected-worlds-at-first-sight.json](./180105-crossed-paths-connected-worlds-at-first-sight.json) |
 | Crossed Swords | 39642 | [39642-crossed-swords.json](./39642-crossed-swords.json) |
 | Crossedland | 207501 | [207501-crossedland.json](./207501-crossedland.json) |
 | CrossFire | 267638 | [267638-crossfire.json](./267638-crossfire.json) |
