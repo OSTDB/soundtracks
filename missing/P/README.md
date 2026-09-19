@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoia | 165050 | [165050-paranoia.json](./165050-paranoia.json) |
 | Paranoia 2: Savior | 123592 | [123592-paranoia-2-savior.json](./123592-paranoia-2-savior.json) |
 | Paranoia: Happiness is Mandatory | 117313 | [117313-paranoia-happiness-is-mandatory.json](./117313-paranoia-happiness-is-mandatory.json) |
+| Paranoid | 172029 | [172029-paranoid.json](./172029-paranoid.json) |
 | Paranoid | 304700 | [304700-paranoid.json](./304700-paranoid.json) |
 | Paranoid! | 325673 | [325673-paranoid.json](./325673-paranoid.json) |
 | Paranoide | 333371 | [333371-paranoide.json](./333371-paranoide.json) |
@@ -2503,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
 | Pizza Delivery: A Short Thriller | 305364 | [305364-pizza-delivery-a-short-thriller.json](./305364-pizza-delivery-a-short-thriller.json) |
 | Pizza Delivery: Zebaxx | 276189 | [276189-pizza-delivery-zebaxx.json](./276189-pizza-delivery-zebaxx.json) |
+| Pizza Empire! | 172048 | [172048-pizza-empire.json](./172048-pizza-empire.json) |
 | Pizza Fun | 218551 | [218551-pizza-fun.json](./218551-pizza-fun.json) |
 | Pizza Hub | 311253 | [311253-pizza-hub.json](./311253-pizza-hub.json) |
 | Pizza Kidd | 217398 | [217398-pizza-kidd.json](./217398-pizza-kidd.json) |
@@ -4533,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Mania | 333562 | [333562-project-mania.json](./333562-project-mania.json) |
 | Project: Mist | 272348 | [272348-project-mist.json](./272348-project-mist.json) |
 | Project: Nightlight | 224650 | [224650-project-nightlight.json](./224650-project-nightlight.json) |
+| Project: Nitro | 172060 | [172060-project-nitro.json](./172060-project-nitro.json) |
 | Project: Obscurion | 251678 | [251678-project-obscurion.json](./251678-project-obscurion.json) |
 | Project: Perfectly Normal | 177430 | [177430-project-perfectly-normal.json](./177430-project-perfectly-normal.json) |
 | Project: Pong | 241467 | [241467-project-pong.json](./241467-project-pong.json) |
