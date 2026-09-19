@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighting Lanterns | 346593 | [346593-lighting-lanterns.json](./346593-lighting-lanterns.json) |
 | Lightlike | 176464 | [176464-lightlike.json](./176464-lightlike.json) |
 | Lightmatter Anniversary | 340919 | [340919-lightmatter-anniversary.json](./340919-lightmatter-anniversary.json) |
+| Lightner | 136242 | [136242-lightner.json](./136242-lightner.json) |
 | Lightness | 214035 | [214035-lightness.json](./214035-lightness.json) |
 | Lightning Fast | 157141 | [157141-lightning-fast.json](./157141-lightning-fast.json) |
 | Lightning Fighter | 335329 | [335329-lightning-fighter.json](./335329-lightning-fighter.json) |
@@ -1541,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like a Pizza | 208933 | [208933-like-a-pizza.json](./208933-like-a-pizza.json) |
 | Like an Angel | 173824 | [173824-like-an-angel.json](./173824-like-an-angel.json) |
 | Like Clockwork | 181924 | [181924-like-clockwork.json](./181924-like-clockwork.json) |
+| Like Gulls Crying at the Dawn | 136226 | [136226-like-gulls-crying-at-the-dawn.json](./136226-like-gulls-crying-at-the-dawn.json) |
 | Like Thunder "Go" | 297484 | [297484-like-thunder-go.json](./297484-like-thunder-go.json) |
 | Lil Gator Game | 145796 | [145796-lil-gator-game.json](./145796-lil-gator-game.json) |
 | Lil Guy Resort | 380405 | [380405-lil-guy-resort.json](./380405-lil-guy-resort.json) |
