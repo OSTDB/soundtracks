@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapeçaria | 334711 | [334711-tapecaria.json](./334711-tapecaria.json) |
 | Tapes of Entities | 370204 | [370204-tapes-of-entities.json](./370204-tapes-of-entities.json) |
 | Tapestry | 216327 | [216327-tapestry.json](./216327-tapestry.json) |
+| Tapeworm | 130772 | [130772-tapeworm.json](./130772-tapeworm.json) |
 | Tapeworm Disco Puzzle | 153952 | [153952-tapeworm-disco-puzzle.json](./153952-tapeworm-disco-puzzle.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
@@ -7458,6 +7459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tipston Salvage | 184482 | [184482-tipston-salvage.json](./184482-tipston-salvage.json) |
 | TipTop | 136413 | [136413-tiptop.json](./136413-tiptop.json) |
 | TiQal | 21354 | [21354-tiqal.json](./21354-tiqal.json) |
+| Tir et But: Edition Champions du Monde | 130778 | [130778-tir-et-but-edition-champions-du-monde.json](./130778-tir-et-but-edition-champions-du-monde.json) |
 | Tir-nan-óg II: The Sign of Chaos | 145465 | [145465-tir-nan-og-ii-the-sign-of-chaos.json](./145465-tir-nan-og-ii-the-sign-of-chaos.json) |
 | Tir-nan-óg: Descendants of Danaan | 145464 | [145464-tir-nan-og-descendants-of-danaan.json](./145464-tir-nan-og-descendants-of-danaan.json) |
 | Tire Boy | 347680 | [347680-tire-boy.json](./347680-tire-boy.json) |
@@ -8463,6 +8465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Dreams | 265705 | [265705-tower-of-dreams.json](./265705-tower-of-dreams.json) |
 | Tower of Eglathia | 35702 | [35702-tower-of-eglathia.json](./35702-tower-of-eglathia.json) |
 | Tower of Evil | 25731 | [25731-tower-of-evil.json](./25731-tower-of-evil.json) |
+| Tower of Fortune | 130751 | [130751-tower-of-fortune.json](./130751-tower-of-fortune.json) |
 | Tower of Greed | 216326 | [216326-tower-of-greed.json](./216326-tower-of-greed.json) |
 | Tower of Guardian | 153946 | [153946-tower-of-guardian.json](./153946-tower-of-guardian.json) |
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
@@ -9876,6 +9879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try | 135695 | [135695-try.json](./135695-try.json) |
 | Try Again | 249388 | [249388-try-again.json](./249388-try-again.json) |
 | Try Not to Laugh | 102754 | [102754-try-not-to-laugh.json](./102754-try-not-to-laugh.json) |
+| Try to Reach 10 | 130732 | [130732-try-to-reach-10.json](./130732-try-to-reach-10.json) |
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
 | Trying | 225719 | [225719-trying.json](./225719-trying.json) |
 | Trying to Sing in Static | 230291 | [230291-trying-to-sing-in-static.json](./230291-trying-to-sing-in-static.json) |
@@ -9902,6 +9906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TS Marketplace: Maunsell 59ft Low Window Corridor Coach Pack Crimson Cream | 227295 | [227295-ts-marketplace-maunsell-59ft-low-window-corridor-coach-pack-crimson-cream.json](./227295-ts-marketplace-maunsell-59ft-low-window-corridor-coach-pack-crimson-cream.json) |
 | TS Marketplace: Northeast Corridor Scenario Pack 02 | 227291 | [227291-ts-marketplace-northeast-corridor-scenario-pack-02.json](./227291-ts-marketplace-northeast-corridor-scenario-pack-02.json) |
 | TS Marketplace: Renewable Energy Pack | 227300 | [227300-ts-marketplace-renewable-energy-pack.json](./227300-ts-marketplace-renewable-energy-pack.json) |
+| TS Online Mobile | 130745 | [130745-ts-online-mobile.json](./130745-ts-online-mobile.json) |
 | TSA Frisky VR | 89964 | [89964-tsa-frisky-vr.json](./89964-tsa-frisky-vr.json) |
 | Tsan-shadow Ninja | 351724 | [351724-tsan-shadow-ninja.json](./351724-tsan-shadow-ninja.json) |
 | Tschess | 137470 | [137470-tschess.json](./137470-tschess.json) |
