@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jericho Mirage | 210133 | [210133-jericho-mirage.json](./210133-jericho-mirage.json) |
 | Jericho's Rose | 173246 | [173246-jerichos-rose.json](./173246-jerichos-rose.json) |
 | Jerma Rancher | 329939 | [329939-jerma-rancher.json](./329939-jerma-rancher.json) |
+| JermaSlots | 138008 | [138008-jermaslots.json](./138008-jermaslots.json) |
 | Jerry and the Mystery Loot Box | 83564 | [83564-jerry-and-the-mystery-loot-box.json](./83564-jerry-and-the-mystery-loot-box.json) |
 | Jerry McPartlin: Rebel with a Cause | 286508 | [286508-jerry-mcpartlin-rebel-with-a-cause.json](./286508-jerry-mcpartlin-rebel-with-a-cause.json) |
 | Jessica Deliverson | 340772 | [340772-jessica-deliverson.json](./340772-jessica-deliverson.json) |
