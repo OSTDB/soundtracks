@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welme | 404234 | [404234-welme.json](./404234-welme.json) |
 | Wèndào Xiāntú | 160231 | [160231-wendao-xiantu.json](./160231-wendao-xiantu.json) |
 | Wendigo | 252727 | [252727-wendigo.json](./252727-wendigo.json) |
+| Wendy Whedon | 151537 | [151537-wendy-whedon.json](./151537-wendy-whedon.json) |
 | Wendy: Der Traum von Arizona | 98949 | [98949-wendy-der-traum-von-arizona.json](./98949-wendy-der-traum-von-arizona.json) |
 | Wendy's Quest | 233594 | [233594-wendys-quest.json](./233594-wendys-quest.json) |
 | Wenjia | 110509 | [110509-wenjia.json](./110509-wenjia.json) |
@@ -1365,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Room: Mind’s Prison | 327175 | [327175-white-room-mind-s-prison.json](./327175-white-room-mind-s-prison.json) |
 | White Rooms | 399708 | [399708-white-rooms.json](./399708-white-rooms.json) |
 | White Silence | 388720 | [388720-white-silence.json](./388720-white-silence.json) |
+| White Sky | 151583 | [151583-white-sky.json](./151583-white-sky.json) |
 | White Space | 60500 | [60500-white-space.json](./60500-white-space.json) |
 | White Tiles Master | 233743 | [233743-white-tiles-master.json](./233743-white-tiles-master.json) |
 | White Trip | 174735 | [174735-white-trip.json](./174735-white-trip.json) |
@@ -1439,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why God? | 287207 | [287207-why-god.json](./287207-why-god.json) |
 | Why I was Born | 213488 | [213488-why-i-was-born.json](./213488-why-i-was-born.json) |
 | Why Me | 377147 | [377147-why-me.json](./377147-why-me.json) |
+| Why Pizza? | 151545 | [151545-why-pizza.json](./151545-why-pizza.json) |
 | Why So Evil | 9368 | [9368-why-so-evil.json](./9368-why-so-evil.json) |
 | Why So Evil 2: Dystopia | 35629 | [35629-why-so-evil-2-dystopia.json](./35629-why-so-evil-2-dystopia.json) |
 | Why the Long Gun? | 364607 | [364607-why-the-long-gun.json](./364607-why-the-long-gun.json) |
@@ -2591,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worst Coach in the World | 289893 | [289893-worst-coach-in-the-world.json](./289893-worst-coach-in-the-world.json) |
 | Worst Dating Sim | 178658 | [178658-worst-dating-sim.json](./178658-worst-dating-sim.json) |
 | Worst Idea | 295402 | [295402-worst-idea.json](./295402-worst-idea.json) |
+| Worst Nightmare | 151554 | [151554-worst-nightmare.json](./151554-worst-nightmare.json) |
 | Worth Life | 152369 | [152369-worth-life.json](./152369-worth-life.json) |
 | WortWechsel | 58232 | [58232-wortwechsel.json](./58232-wortwechsel.json) |
 | Woten DX: Traveller's Dream | 220723 | [220723-woten-dx-travellers-dream.json](./220723-woten-dx-travellers-dream.json) |
