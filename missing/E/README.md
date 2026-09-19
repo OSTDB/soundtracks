@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electro Bop Boxing League | 329580 | [329580-electro-bop-boxing-league.json](./329580-electro-bop-boxing-league.json) |
 | Electro Freddy | 13631 | [13631-electro-freddy.json](./13631-electro-freddy.json) |
 | Electro-Dynamic Mayhem | 324679 | [324679-electro-dynamic-mayhem.json](./324679-electro-dynamic-mayhem.json) |
+| Electrodash | 159725 | [159725-electrodash.json](./159725-electrodash.json) |
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
 | Electrolight | 319192 | [319192-electrolight.json](./319192-electrolight.json) |
 | Electron Flux | 264710 | [264710-electron-flux.json](./264710-electron-flux.json) |
@@ -1614,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Tank | 153362 | [153362-escape-the-tank.json](./153362-escape-the-tank.json) |
 | Escape the Undertaker | 256839 | [256839-escape-the-undertaker.json](./256839-escape-the-undertaker.json) |
 | Escape the Void | 296681 | [296681-escape-the-void.json](./296681-escape-the-void.json) |
+| Escape to Mars | 159707 | [159707-escape-to-mars.json](./159707-escape-to-mars.json) |
 | Escape to School | 192804 | [192804-escape-to-school.json](./192804-escape-to-school.json) |
 | Escape to the Ocean | 231061 | [231061-escape-to-the-ocean.json](./231061-escape-to-the-ocean.json) |
 | Escape Velocity | 377579 | [377579-escape-velocity.json](./377579-escape-velocity.json) |
@@ -1702,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essence Child | 260967 | [260967-essence-child.json](./260967-essence-child.json) |
 | Essence Hunt | 177512 | [177512-essence-hunt.json](./177512-essence-hunt.json) |
 | Essence of Waluigi | 250044 | [250044-essence-of-waluigi.json](./250044-essence-of-waluigi.json) |
+| Essential Mayhem | 159739 | [159739-essential-mayhem.json](./159739-essential-mayhem.json) |
 | Essential Power | 369038 | [369038-essential-power.json](./369038-essential-power.json) |
 | Estadi.ooo | 194414 | [194414-estadi-ooo.json](./194414-estadi-ooo.json) |
 | Estancia Protocol Zero | 405609 | [405609-estancia-protocol-zero.json](./405609-estancia-protocol-zero.json) |
