@@ -2933,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffle in One | 259551 | [259551-shuffle-in-one.json](./259551-shuffle-in-one.json) |
 | Shuffle Party | 65525 | [65525-shuffle-party.json](./65525-shuffle-party.json) |
 | Shuffle Sword | 355096 | [355096-shuffle-sword.json](./355096-shuffle-sword.json) |
+| Shuffle to Fortune | 140991 | [140991-shuffle-to-fortune.json](./140991-shuffle-to-fortune.json) |
 | Shuffle! | 31127 | [31127-shuffle.json](./31127-shuffle.json) |
 | Shuffle! Episode 2: Kami ni mo Akuma ni mo Nerawareteiru Otoko | 380427 | [380427-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json](./380427-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json) |
 | Shuffleboard | 170526 | [170526-shuffleboard.json](./170526-shuffleboard.json) |
@@ -6778,6 +6779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Four Squared | 288190 | [288190-spongebob-squarepants-four-squared.json](./288190-spongebob-squarepants-four-squared.json) |
 | SpongeBob SquarePants: JellyFish Dodge | 220116 | [220116-spongebob-squarepants-jellyfish-dodge.json](./220116-spongebob-squarepants-jellyfish-dodge.json) |
 | SpongeBob SquarePants: JellyFish Dodge | 220118 | [220118-spongebob-squarepants-jellyfish-dodge.json](./220118-spongebob-squarepants-jellyfish-dodge.json) |
+| SpongeBob SquarePants: Krabby Quest | 141000 | [141000-spongebob-squarepants-krabby-quest.json](./141000-spongebob-squarepants-krabby-quest.json) |
 | SpongeBob SquarePants: Lights, Camera, Pants! | 210724 | [210724-spongebob-squarepants-lights-camera-pants.json](./210724-spongebob-squarepants-lights-camera-pants.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
 | SpongeBob SquarePants: Revenge of the Flying Dutchman | 2762 | [2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json](./2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json) |
@@ -9418,6 +9420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Drink Bros. | 141162 | [141162-super-drink-bros.json](./141162-super-drink-bros.json) |
 | Super Droid Adventure | 233622 | [233622-super-droid-adventure.json](./233622-super-droid-adventure.json) |
 | Super Drunken Guy | 251690 | [251690-super-drunken-guy.json](./251690-super-drunken-guy.json) |
+| Super Dude-Shooter: The Omni-Revenge | 140994 | [140994-super-dude-shooter-the-omni-revenge.json](./140994-super-dude-shooter-the-omni-revenge.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Durak | 174336 | [174336-super-durak.json](./174336-super-durak.json) |
 | Super Dynamite Fishing | 61126 | [61126-super-dynamite-fishing.json](./61126-super-dynamite-fishing.json) |
