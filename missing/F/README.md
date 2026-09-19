@@ -3256,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragile Equilibrium | 113757 | [113757-fragile-equilibrium.json](./113757-fragile-equilibrium.json) |
 | Fragile Reflection | 309533 | [309533-fragile-reflection.json](./309533-fragile-reflection.json) |
 | Fragile Sun | 329194 | [329194-fragile-sun.json](./329194-fragile-sun.json) |
+| Fragment | 172049 | [172049-fragment.json](./172049-fragment.json) |
 | Fragment Collapse | 409678 | [409678-fragment-collapse.json](./409678-fragment-collapse.json) |
 | Fragment Hunters | 213009 | [213009-fragment-hunters.json](./213009-fragment-hunters.json) |
 | Fragment of CISCD | 244357 | [244357-fragment-of-ciscd.json](./244357-fragment-of-ciscd.json) |
