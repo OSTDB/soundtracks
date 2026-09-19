@@ -1921,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexahedral Pathfinder | 108418 | [108418-hexahedral-pathfinder.json](./108418-hexahedral-pathfinder.json) |
 | Hexalert | 337635 | [337635-hexalert.json](./337635-hexalert.json) |
 | Hexalot | 53215 | [53215-hexalot.json](./53215-hexalot.json) |
+| Hexamania | 145441 | [145441-hexamania.json](./145441-hexamania.json) |
 | Hexameron: Phase One | 271773 | [271773-hexameron-phase-one.json](./271773-hexameron-phase-one.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
 | Hexarchia | 175932 | [175932-hexarchia.json](./175932-hexarchia.json) |
@@ -1951,6 +1952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexes | 243780 | [243780-hexes.json](./243780-hexes.json) |
 | Hexgarden | 415118 | [415118-hexgarden.json](./415118-hexgarden.json) |
 | Hexguardian | 253372 | [253372-hexguardian.json](./253372-hexguardian.json) |
+| Hexia | 145436 | [145436-hexia.json](./145436-hexia.json) |
 | Hexia | 319023 | [319023-hexia.json](./319023-hexia.json) |
 | Hexin : Space Chess Game | 102211 | [102211-hexin-space-chess-game.json](./102211-hexin-space-chess-game.json) |
 | Hexion | 40197 | [40197-hexion.json](./40197-hexion.json) |
