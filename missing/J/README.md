@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeff Gordon XS Racing | 49888 | [49888-jeff-gordon-xs-racing.json](./49888-jeff-gordon-xs-racing.json) |
 | Jeff the Janitor | 337491 | [337491-jeff-the-janitor.json](./337491-jeff-the-janitor.json) |
 | Jeff the Skinner | 348314 | [348314-jeff-the-skinner.json](./348314-jeff-the-skinner.json) |
+| Jeff Wayne's The War of the Worlds | 129581 | [129581-jeff-waynes-the-war-of-the-worlds.json](./129581-jeff-waynes-the-war-of-the-worlds.json) |
 | Jeff-16 | 150638 | [150638-jeff-16.json](./150638-jeff-16.json) |
 | Jeff's No. 1 Bass Fishing | 215763 | [215763-jeffs-no-1-bass-fishing.json](./215763-jeffs-no-1-bass-fishing.json) |
 | JEFN | 256529 | [256529-jefn.json](./256529-jefn.json) |
@@ -1238,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justin Wack and the Big Time Hack | 121639 | [121639-justin-wack-and-the-big-time-hack.json](./121639-justin-wack-and-the-big-time-hack.json) |
 | Justin Wack and the Big Time Hack: Deluxe Edition | 230819 | [230819-justin-wack-and-the-big-time-hack-deluxe-edition.json](./230819-justin-wack-and-the-big-time-hack-deluxe-edition.json) |
 | JustWatchMyCat | 257380 | [257380-justwatchmycat.json](./257380-justwatchmycat.json) |
+| Jut | 129578 | [129578-jut.json](./129578-jut.json) |
 | Juuden Youshuugi: Crimson Paraselene | 253929 | [253929-juuden-youshuugi-crimson-paraselene.json](./253929-juuden-youshuugi-crimson-paraselene.json) |
 | Juuken Sentai Gekiranger: Niki-niki! Kazu Katachi ni Challenge! | 327594 | [327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json](./327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json) |
 | Juukou Senki: Bullet Battlers | 228567 | [228567-juukou-senki-bullet-battlers.json](./228567-juukou-senki-bullet-battlers.json) |
