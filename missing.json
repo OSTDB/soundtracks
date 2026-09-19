@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T07:47:38.310Z",
-  "total_missing": 91271,
+  "generated_at": "2026-09-19T08:02:27.842Z",
+  "total_missing": 91321,
   "games": [
     {
       "igdb_id": 176875,
@@ -60953,6 +60953,11 @@
       "file": "missing/C/68639-cavein-miner-rescue-team.json"
     },
     {
+      "igdb_id": 163276,
+      "game_name": "Caveman",
+      "file": "missing/C/163276-caveman.json"
+    },
+    {
       "igdb_id": 47281,
       "game_name": "Caveman",
       "file": "missing/C/47281-caveman.json"
@@ -118801,6 +118806,11 @@
       "igdb_id": 272395,
       "game_name": "Escape from Manimal Island",
       "file": "missing/E/272395-escape-from-manimal-island.json"
+    },
+    {
+      "igdb_id": 163294,
+      "game_name": "Escape From Monster",
+      "file": "missing/E/163294-escape-from-monster.json"
     },
     {
       "igdb_id": 330177,
@@ -258213,6 +258223,11 @@
       "file": "missing/N/39119-nightshade.json"
     },
     {
+      "igdb_id": 163295,
+      "game_name": "Nightshift",
+      "file": "missing/N/163295-nightshift.json"
+    },
+    {
       "igdb_id": 271202,
       "game_name": "Nightshift",
       "file": "missing/N/271202-nightshift.json"
@@ -259026,6 +259041,11 @@
       "igdb_id": 29639,
       "game_name": "Ninja Stealth 2",
       "file": "missing/N/29639-ninja-stealth-2.json"
+    },
+    {
+      "igdb_id": 163314,
+      "game_name": "Ninja Stealth 4",
+      "file": "missing/N/163314-ninja-stealth-4.json"
     },
     {
       "igdb_id": 102743,
@@ -260816,6 +260836,11 @@
       "igdb_id": 338730,
       "game_name": "Nomia",
       "file": "missing/N/338730-nomia.json"
+    },
+    {
+      "igdb_id": 163312,
+      "game_name": "Nominal",
+      "file": "missing/N/163312-nominal.json"
     },
     {
       "igdb_id": 48699,
@@ -267666,6 +267691,11 @@
       "igdb_id": 69201,
       "game_name": "Onslaught",
       "file": "missing/O/69201-onslaught.json"
+    },
+    {
+      "igdb_id": 163293,
+      "game_name": "OnSlaught",
+      "file": "missing/O/163293-onslaught.json"
     },
     {
       "igdb_id": 306369,
@@ -304631,6 +304661,11 @@
       "igdb_id": 301275,
       "game_name": "Realms of Alterra",
       "file": "missing/R/301275-realms-of-alterra.json"
+    },
+    {
+      "igdb_id": 163275,
+      "game_name": "Realms of Antiquity: The Shattered Crown",
+      "file": "missing/R/163275-realms-of-antiquity-the-shattered-crown.json"
     },
     {
       "igdb_id": 287776,
@@ -354428,6 +354463,11 @@
       "file": "missing/S/249788-stalk-the-giant.json"
     },
     {
+      "igdb_id": 163313,
+      "game_name": "Stalked",
+      "file": "missing/S/163313-stalked.json"
+    },
+    {
       "igdb_id": 89238,
       "game_name": "Stalker Defender Bunker 3D",
       "file": "missing/S/89238-stalker-defender-bunker-3d.json"
@@ -355196,6 +355236,81 @@
       "igdb_id": 69871,
       "game_name": "Star Rank Boxing II",
       "file": "missing/S/69871-star-rank-boxing-ii.json"
+    },
+    {
+      "igdb_id": 163284,
+      "game_name": "Star Realms: Bases and Battleships",
+      "file": "missing/S/163284-star-realms-bases-and-battleships.json"
+    },
+    {
+      "igdb_id": 163288,
+      "game_name": "Star Realms: Colony Wars",
+      "file": "missing/S/163288-star-realms-colony-wars.json"
+    },
+    {
+      "igdb_id": 163290,
+      "game_name": "Star Realms: Command",
+      "file": "missing/S/163290-star-realms-command.json"
+    },
+    {
+      "igdb_id": 163279,
+      "game_name": "Star Realms: Command Decks",
+      "file": "missing/S/163279-star-realms-command-decks.json"
+    },
+    {
+      "igdb_id": 163283,
+      "game_name": "Star Realms: Cosmic Gambit",
+      "file": "missing/S/163283-star-realms-cosmic-gambit.json"
+    },
+    {
+      "igdb_id": 163280,
+      "game_name": "Star Realms: Fleets and Fortresses",
+      "file": "missing/S/163280-star-realms-fleets-and-fortresses.json"
+    },
+    {
+      "igdb_id": 163282,
+      "game_name": "Star Realms: Frontiers",
+      "file": "missing/S/163282-star-realms-frontiers.json"
+    },
+    {
+      "igdb_id": 163287,
+      "game_name": "Star Realms: Frontiers Events",
+      "file": "missing/S/163287-star-realms-frontiers-events.json"
+    },
+    {
+      "igdb_id": 163286,
+      "game_name": "Star Realms: Frontiers Promos",
+      "file": "missing/S/163286-star-realms-frontiers-promos.json"
+    },
+    {
+      "igdb_id": 163277,
+      "game_name": "Star Realms: Full Version",
+      "file": "missing/S/163277-star-realms-full-version.json"
+    },
+    {
+      "igdb_id": 163278,
+      "game_name": "Star Realms: Heroes",
+      "file": "missing/S/163278-star-realms-heroes.json"
+    },
+    {
+      "igdb_id": 163285,
+      "game_name": "Star Realms: Stellar Allies",
+      "file": "missing/S/163285-star-realms-stellar-allies.json"
+    },
+    {
+      "igdb_id": 163289,
+      "game_name": "Star Realms: United - Assault",
+      "file": "missing/S/163289-star-realms-united-assault.json"
+    },
+    {
+      "igdb_id": 163281,
+      "game_name": "Star Realms: United - Heroes",
+      "file": "missing/S/163281-star-realms-united-heroes.json"
+    },
+    {
+      "igdb_id": 163291,
+      "game_name": "Star Realms: United - Missions",
+      "file": "missing/S/163291-star-realms-united-missions.json"
     },
     {
       "igdb_id": 94816,
@@ -407603,6 +407718,81 @@
       "file": "missing/T/160359-tiger-tank-59-i-winter-assault-mp024.json"
     },
     {
+      "igdb_id": 163308,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP036",
+      "file": "missing/T/163308-tiger-tank-59-i-winter-assault-mp036.json"
+    },
+    {
+      "igdb_id": 163310,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP037",
+      "file": "missing/T/163310-tiger-tank-59-i-winter-assault-mp037.json"
+    },
+    {
+      "igdb_id": 163301,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP038",
+      "file": "missing/T/163301-tiger-tank-59-i-winter-assault-mp038.json"
+    },
+    {
+      "igdb_id": 163300,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP039",
+      "file": "missing/T/163300-tiger-tank-59-i-winter-assault-mp039.json"
+    },
+    {
+      "igdb_id": 163298,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP040",
+      "file": "missing/T/163298-tiger-tank-59-i-winter-assault-mp040.json"
+    },
+    {
+      "igdb_id": 163303,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP041",
+      "file": "missing/T/163303-tiger-tank-59-i-winter-assault-mp041.json"
+    },
+    {
+      "igdb_id": 163302,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP042",
+      "file": "missing/T/163302-tiger-tank-59-i-winter-assault-mp042.json"
+    },
+    {
+      "igdb_id": 163311,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP043",
+      "file": "missing/T/163311-tiger-tank-59-i-winter-assault-mp043.json"
+    },
+    {
+      "igdb_id": 163306,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP044",
+      "file": "missing/T/163306-tiger-tank-59-i-winter-assault-mp044.json"
+    },
+    {
+      "igdb_id": 163305,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP045",
+      "file": "missing/T/163305-tiger-tank-59-i-winter-assault-mp045.json"
+    },
+    {
+      "igdb_id": 163307,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP046",
+      "file": "missing/T/163307-tiger-tank-59-i-winter-assault-mp046.json"
+    },
+    {
+      "igdb_id": 163309,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP047",
+      "file": "missing/T/163309-tiger-tank-59-i-winter-assault-mp047.json"
+    },
+    {
+      "igdb_id": 163304,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP048",
+      "file": "missing/T/163304-tiger-tank-59-i-winter-assault-mp048.json"
+    },
+    {
+      "igdb_id": 163299,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP049",
+      "file": "missing/T/163299-tiger-tank-59-i-winter-assault-mp049.json"
+    },
+    {
+      "igdb_id": 163297,
+      "game_name": "Tiger Tank 59 I: Winter Assault MP050",
+      "file": "missing/T/163297-tiger-tank-59-i-winter-assault-mp050.json"
+    },
+    {
       "igdb_id": 166108,
       "game_name": "Tiger Tank 59 I: Winter Assault MP051",
       "file": "missing/T/166108-tiger-tank-59-i-winter-assault-mp051.json"
@@ -423933,6 +424123,56 @@
       "file": "missing/U/201245-ultimate-starfighter.json"
     },
     {
+      "igdb_id": 163324,
+      "game_name": "Ultimate Sudoku Collection: Basic Diagonal Pack",
+      "file": "missing/U/163324-ultimate-sudoku-collection-basic-diagonal-pack.json"
+    },
+    {
+      "igdb_id": 163316,
+      "game_name": "Ultimate Sudoku Collection: Basic Pack",
+      "file": "missing/U/163316-ultimate-sudoku-collection-basic-pack.json"
+    },
+    {
+      "igdb_id": 163320,
+      "game_name": "Ultimate Sudoku Collection: Cross Pack",
+      "file": "missing/U/163320-ultimate-sudoku-collection-cross-pack.json"
+    },
+    {
+      "igdb_id": 163315,
+      "game_name": "Ultimate Sudoku Collection: Gattai-3 Diagonal Pack",
+      "file": "missing/U/163315-ultimate-sudoku-collection-gattai-3-diagonal-pack.json"
+    },
+    {
+      "igdb_id": 163318,
+      "game_name": "Ultimate Sudoku Collection: Samurai Advanced Pack",
+      "file": "missing/U/163318-ultimate-sudoku-collection-samurai-advanced-pack.json"
+    },
+    {
+      "igdb_id": 163317,
+      "game_name": "Ultimate Sudoku Collection: Samurai Anti Diagonal Pack",
+      "file": "missing/U/163317-ultimate-sudoku-collection-samurai-anti-diagonal-pack.json"
+    },
+    {
+      "igdb_id": 163322,
+      "game_name": "Ultimate Sudoku Collection: Samurai Beginner Pack",
+      "file": "missing/U/163322-ultimate-sudoku-collection-samurai-beginner-pack.json"
+    },
+    {
+      "igdb_id": 163323,
+      "game_name": "Ultimate Sudoku Collection: Samurai Expert Pack",
+      "file": "missing/U/163323-ultimate-sudoku-collection-samurai-expert-pack.json"
+    },
+    {
+      "igdb_id": 163321,
+      "game_name": "Ultimate Sudoku Collection: Sohei Pack",
+      "file": "missing/U/163321-ultimate-sudoku-collection-sohei-pack.json"
+    },
+    {
+      "igdb_id": 163319,
+      "game_name": "Ultimate Sudoku Collection: Tight-Fit-6 Pack",
+      "file": "missing/U/163319-ultimate-sudoku-collection-tight-fit-6-pack.json"
+    },
+    {
       "igdb_id": 51982,
       "game_name": "Ultimate Summer Boat",
       "file": "missing/U/51982-ultimate-summer-boat.json"
@@ -434103,6 +434343,11 @@
       "file": "missing/V/156676-vr-plane-crash.json"
     },
     {
+      "igdb_id": 163292,
+      "game_name": "VR Retro Snake on Girls",
+      "file": "missing/V/163292-vr-retro-snake-on-girls.json"
+    },
+    {
       "igdb_id": 166195,
       "game_name": "VR Roller Coaster at Global Wonders",
       "file": "missing/V/166195-vr-roller-coaster-at-global-wonders.json"
@@ -442426,6 +442671,11 @@
       "igdb_id": 17591,
       "game_name": "Wildlife Park",
       "file": "missing/W/17591-wildlife-park.json"
+    },
+    {
+      "igdb_id": 163274,
+      "game_name": "Wildlife Park 2: Kitz (fawn)",
+      "file": "missing/W/163274-wildlife-park-2-kitz-fawn.json"
     },
     {
       "igdb_id": 17177,
