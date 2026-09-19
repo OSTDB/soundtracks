@@ -3405,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of the Dead: Remake | 145787 | [145787-the-house-of-the-dead-remake.json](./145787-the-house-of-the-dead-remake.json) |
 | The House of the Dead: Remake - Limidead Edition | 194406 | [194406-the-house-of-the-dead-remake-limidead-edition.json](./194406-the-house-of-the-dead-remake-limidead-edition.json) |
 | The House of the Dead: Scarlet Dawn | 82081 | [82081-the-house-of-the-dead-scarlet-dawn.json](./82081-the-house-of-the-dead-scarlet-dawn.json) |
+| The House of the Living | 129602 | [129602-the-house-of-the-living.json](./129602-the-house-of-the-living.json) |
 | The house of the missing hands | 287763 | [287763-the-house-of-the-missing-hands.json](./287763-the-house-of-the-missing-hands.json) |
 | The House on the Hill | 387555 | [387555-the-house-on-the-hill.json](./387555-the-house-on-the-hill.json) |
 | The House that Jack Built | 25725 | [25725-the-house-that-jack-built.json](./25725-the-house-that-jack-built.json) |
@@ -7920,6 +7921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomorrowness | 377682 | [377682-tomorrowness.json](./377682-tomorrowness.json) |
 | Tomotoru: Hello Kitty Happy Life | 188628 | [188628-tomotoru-hello-kitty-happy-life.json](./188628-tomotoru-hello-kitty-happy-life.json) |
 | Tomoyo After: It's a Wonderful Life | 7218 | [7218-tomoyo-after-its-a-wonderful-life.json](./7218-tomoyo-after-its-a-wonderful-life.json) |
+| Tomscape | 129570 | [129570-tomscape.json](./129570-tomscape.json) |
 | Tomte Trouble | 333661 | [333661-tomte-trouble.json](./333661-tomte-trouble.json) |
 | TomTom Adventures | 82851 | [82851-tomtom-adventures.json](./82851-tomtom-adventures.json) |
 | Tomy Car Drive Shutsudou! Kinkyuu Sharyou-hen | 79319 | [79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json](./79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json) |
