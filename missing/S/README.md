@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarf | 106836 | [106836-scarf.json](./106836-scarf.json) |
 | Scarface: The World Is Yours | 5139 | [5139-scarface-the-world-is-yours.json](./5139-scarface-the-world-is-yours.json) |
 | Scarlet 7: The Mightiest Women | 70930 | [70930-scarlet-7-the-mightiest-women.json](./70930-scarlet-7-the-mightiest-women.json) |
+| Scarlet and Blank | 180674 | [180674-scarlet-and-blank.json](./180674-scarlet-and-blank.json) |
 | Scarlet Deer Inn | 143710 | [143710-scarlet-deer-inn.json](./143710-scarlet-deer-inn.json) |
 | Scarlet Girls | 328211 | [328211-scarlet-girls.json](./328211-scarlet-girls.json) |
 | Scarlet Hollow | 139194 | [139194-scarlet-hollow.json](./139194-scarlet-hollow.json) |
@@ -3073,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Billy | 295397 | [295397-silly-billy.json](./295397-silly-billy.json) |
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
 | Silly Scribbles | 285965 | [285965-silly-scribbles.json](./285965-silly-scribbles.json) |
+| Silly Skateboarding | 180698 | [180698-silly-skateboarding.json](./180698-silly-skateboarding.json) |
 | Silly Sync | 379894 | [379894-silly-sync.json](./379894-silly-sync.json) |
 | Silmar | 230258 | [230258-silmar.json](./230258-silmar.json) |
 | Silo | 348224 | [348224-silo.json](./348224-silo.json) |
@@ -4049,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotter Mania P: Tetsuya Shinjuku vs Ueno | 62738 | [62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json](./62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json) |
 | Slotter Up Core 7: Dekitou da! Street Fighter II | 55060 | [55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json](./55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json) |
 | Slow Burn | 313870 | [313870-slow-burn.json](./313870-slow-burn.json) |
+| Slow Down | 180673 | [180673-slow-down.json](./180673-slow-down.json) |
 | Slow Rise | 267066 | [267066-slow-rise.json](./267066-slow-rise.json) |
 | Slow.Bullet VR | 392797 | [392797-slow-bullet-vr.json](./392797-slow-bullet-vr.json) |
 | SlowAndSteady.io | 313322 | [313322-slowandsteady-io.json](./313322-slowandsteady-io.json) |
@@ -10454,6 +10457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Dancer | 117673 | [117673-sword-dancer.json](./117673-sword-dancer.json) |
 | Sword Daughter | 35937 | [35937-sword-daughter.json](./35937-sword-daughter.json) |
 | Sword Fight | 289876 | [289876-sword-fight.json](./289876-sword-fight.json) |
+| Sword Fishing | 180718 | [180718-sword-fishing.json](./180718-sword-fishing.json) |
 | Sword Girls | 64902 | [64902-sword-girls.json](./64902-sword-girls.json) |
 | Sword Hero | 346122 | [346122-sword-hero.json](./346122-sword-hero.json) |
 | Sword Maker | 191095 | [191095-sword-maker.json](./191095-sword-maker.json) |
