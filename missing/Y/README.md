@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokozuna Monogatari | 37756 | [37756-yokozuna-monogatari.json](./37756-yokozuna-monogatari.json) |
 | Yoku's Island Express | 27367 | [27367-yokus-island-express.json](./27367-yokus-island-express.json) |
 | YOLO Life: The Beggining | 76562 | [76562-yolo-life-the-beggining.json](./76562-yolo-life-the-beggining.json) |
+| Yolo Space Hacker | 156008 | [156008-yolo-space-hacker.json](./156008-yolo-space-hacker.json) |
 | Yomaia | 238768 | [238768-yomaia.json](./238768-yomaia.json) |
 | Yomawari: Lost in the Dark | 203885 | [203885-yomawari-lost-in-the-dark.json](./203885-yomawari-lost-in-the-dark.json) |
 | Yomawari: Night Alone | 11589 | [11589-yomawari-night-alone.json](./11589-yomawari-night-alone.json) |
@@ -505,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yugen Jikkou Sisters Chouchoutrian: Kanzenchouaku Chouchoutrian | 385556 | [385556-yugen-jikkou-sisters-chouchoutrian-kanzenchouaku-chouchoutrian.json](./385556-yugen-jikkou-sisters-chouchoutrian-kanzenchouaku-chouchoutrian.json) |
 | Yugo: The Non-game | 319791 | [319791-yugo-the-non-game.json](./319791-yugo-the-non-game.json) |
 | Yugowave | 250009 | [250009-yugowave.json](./250009-yugowave.json) |
+| Yuha's Nightmares | 155987 | [155987-yuhas-nightmares.json](./155987-yuhas-nightmares.json) |
 | Yuika My Bestie | 351595 | [351595-yuika-my-bestie.json](./351595-yuika-my-bestie.json) |
 | Yuji Naka's NES Game | 257650 | [257650-yuji-nakas-nes-game.json](./257650-yuji-nakas-nes-game.json) |
 | Yukai de Kudaranai Game | 331875 | [331875-yukai-de-kudaranai-game.json](./331875-yukai-de-kudaranai-game.json) |
