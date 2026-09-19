@@ -1834,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeMonkey | 302122 | [302122-demonkey.json](./302122-demonkey.json) |
 | Demonophobia | 195267 | [195267-demonophobia.json](./195267-demonophobia.json) |
 | Demonpact: Clarice | 139927 | [139927-demonpact-clarice.json](./139927-demonpact-clarice.json) |
+| DemonPandemicVR | 146703 | [146703-demonpandemicvr.json](./146703-demonpandemicvr.json) |
 | Demons and Doobins | 291760 | [291760-demons-and-doobins.json](./291760-demons-and-doobins.json) |
 | Demons are coming! | 278160 | [278160-demons-are-coming.json](./278160-demons-are-coming.json) |
 | Demons Infernalize | 243376 | [243376-demons-infernalize.json](./243376-demons-infernalize.json) |
@@ -3700,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Harmony Idle Merge | 303487 | [303487-doodle-harmony-idle-merge.json](./303487-doodle-harmony-idle-merge.json) |
 | Doodle Jump HD: Insanely Good! | 104106 | [104106-doodle-jump-hd-insanely-good.json](./104106-doodle-jump-hd-insanely-good.json) |
 | Doodle Kingdom | 27243 | [27243-doodle-kingdom.json](./27243-doodle-kingdom.json) |
+| Doodle Mafia: Crime City | 146741 | [146741-doodle-mafia-crime-city.json](./146741-doodle-mafia-crime-city.json) |
 | Doodle TD 2 | 295800 | [295800-doodle-td-2.json](./295800-doodle-td-2.json) |
 | Doodle UFO | 246972 | [246972-doodle-ufo.json](./246972-doodle-ufo.json) |
 | Doodle War | 88102 | [88102-doodle-war.json](./88102-doodle-war.json) |
@@ -4912,6 +4914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk Sonic | 330864 | [330864-drunk-sonic.json](./330864-drunk-sonic.json) |
 | Drunk-Fu: Wasted Masters | 28906 | [28906-drunk-fu-wasted-masters.json](./28906-drunk-fu-wasted-masters.json) |
 | Drunkard Quiz Show Hyoutan | 115684 | [115684-drunkard-quiz-show-hyoutan.json](./115684-drunkard-quiz-show-hyoutan.json) |
+| Drunken Duel 2 | 146712 | [146712-drunken-duel-2.json](./146712-drunken-duel-2.json) |
 | Drunken Fight Simulator | 29913 | [29913-drunken-fight-simulator.json](./29913-drunken-fight-simulator.json) |
 | Drunken Fist 2: Zombie Hangover | 203560 | [203560-drunken-fist-2-zombie-hangover.json](./203560-drunken-fist-2-zombie-hangover.json) |
 | Drunken Fist Totally Accurate Beat 'em up | 124272 | [124272-drunken-fist-totally-accurate-beat-em-up.json](./124272-drunken-fist-totally-accurate-beat-em-up.json) |
