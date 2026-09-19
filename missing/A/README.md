@@ -3168,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia Fallen: Digital Deluxe | 401669 | [401669-arcadia-fallen-digital-deluxe.json](./401669-arcadia-fallen-digital-deluxe.json) |
 | Arcadia VI | 267928 | [267928-arcadia-vi.json](./267928-arcadia-vi.json) |
 | Arcadia: Arcade Watch Games | 254603 | [254603-arcadia-arcade-watch-games.json](./254603-arcadia-arcade-watch-games.json) |
+| Arcadian Rift | 162245 | [162245-arcadian-rift.json](./162245-arcadian-rift.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcadius | 156126 | [156126-arcadius.json](./156126-arcadius.json) |
 | Arcaduis | 164984 | [164984-arcaduis.json](./164984-arcaduis.json) |
