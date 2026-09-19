@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Hike | 264592 | [264592-magical-hike.json](./264592-magical-hike.json) |
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
 | Magical Merge: Fairy Adventure | 309501 | [309501-magical-merge-fairy-adventure.json](./309501-magical-merge-fairy-adventure.json) |
+| Magical MILFs | 136257 | [136257-magical-milfs.json](./136257-magical-milfs.json) |
 | Magical Mystery Cure | 177949 | [177949-magical-mystery-cure.json](./177949-magical-mystery-cure.json) |
 | Magical Otoge Iris | 144809 | [144809-magical-otoge-iris.json](./144809-magical-otoge-iris.json) |
 | Magical Pachinko Cotton | 43285 | [43285-magical-pachinko-cotton.json](./43285-magical-pachinko-cotton.json) |
@@ -2211,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 64: Recompiled | 400965 | [400965-mega-man-64-recompiled.json](./400965-mega-man-64-recompiled.json) |
 | Mega Man 7 | 1720 | [1720-mega-man-7.json](./1720-mega-man-7.json) |
 | Mega Man 7 Refit | 219080 | [219080-mega-man-7-refit.json](./219080-mega-man-7-refit.json) |
+| Mega Man 8-bit Deathmatch | 136285 | [136285-mega-man-8-bit-deathmatch.json](./136285-mega-man-8-bit-deathmatch.json) |
 | Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
 | Mega Man Battle Network 2 | 352862 | [352862-mega-man-battle-network-2.json](./352862-mega-man-battle-network-2.json) |
 | Mega Man Battle Network 3 Blue | 352864 | [352864-mega-man-battle-network-3-blue.json](./352864-mega-man-battle-network-3-blue.json) |
@@ -5016,6 +5018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: Aftermath Kollection | 133955 | [133955-mortal-kombat-11-aftermath-kollection.json](./133955-mortal-kombat-11-aftermath-kollection.json) |
 | Mortal Kombat 11: DC Elseworlds Skin Pack | 298557 | [298557-mortal-kombat-11-dc-elseworlds-skin-pack.json](./298557-mortal-kombat-11-dc-elseworlds-skin-pack.json) |
 | Mortal Kombat 11: Fujin | 139439 | [139439-mortal-kombat-11-fujin.json](./139439-mortal-kombat-11-fujin.json) |
+| Mortal Kombat 11: Kollector's Edition | 136267 | [136267-mortal-kombat-11-kollectors-edition.json](./136267-mortal-kombat-11-kollectors-edition.json) |
 | Mortal Kombat 11: Kombat Pack 2 | 139445 | [139445-mortal-kombat-11-kombat-pack-2.json](./139445-mortal-kombat-11-kombat-pack-2.json) |
 | Mortal Kombat 11: Mileena | 139442 | [139442-mortal-kombat-11-mileena.json](./139442-mortal-kombat-11-mileena.json) |
 | Mortal Kombat 11: Rain | 139443 | [139443-mortal-kombat-11-rain.json](./139443-mortal-kombat-11-rain.json) |
@@ -5971,6 +5974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Academia: The Strongest Hero | 146301 | [146301-my-hero-academia-the-strongest-hero.json](./146301-my-hero-academia-the-strongest-hero.json) |
 | My Hero and the King | 63265 | [63265-my-hero-and-the-king.json](./63265-my-hero-and-the-king.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
+| My Hero One's Justice 2: Deluxe Edition | 136286 | [136286-my-hero-ones-justice-2-deluxe-edition.json](./136286-my-hero-ones-justice-2-deluxe-edition.json) |
 | My Hero One's Justice 2: DLC Pack 1 - Hawks | 168260 | [168260-my-hero-ones-justice-2-dlc-pack-1-hawks.json](./168260-my-hero-ones-justice-2-dlc-pack-1-hawks.json) |
 | My Hero One's Justice 2: DLC Pack 2 - Mei Hatsume | 168259 | [168259-my-hero-ones-justice-2-dlc-pack-2-mei-hatsume.json](./168259-my-hero-ones-justice-2-dlc-pack-2-mei-hatsume.json) |
 | My Hero One's Justice 2: DLC Pack 3 - Itsuka Kendo | 168258 | [168258-my-hero-ones-justice-2-dlc-pack-3-itsuka-kendo.json](./168258-my-hero-ones-justice-2-dlc-pack-3-itsuka-kendo.json) |
