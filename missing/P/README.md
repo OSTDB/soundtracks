@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
 | Panic Space | 41371 | [41371-panic-space.json](./41371-panic-space.json) |
 | Panic Station | 172113 | [172113-panic-station.json](./172113-panic-station.json) |
+| Panic Station VR | 130151 | [130151-panic-station-vr.json](./130151-panic-station-vr.json) |
 | Panic-Chan | 209623 | [209623-panic-chan.json](./209623-panic-chan.json) |
 | Panik | 289300 | [289300-panik.json](./289300-panik.json) |
 | Panin | 358331 | [358331-panin.json](./358331-panin.json) |
@@ -2431,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint Together | 300981 | [300981-pixel-paint-together.json](./300981-pixel-paint-together.json) |
 | Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
 | Pixel Paint: Premium Edition | 241395 | [241395-pixel-paint-premium-edition.json](./241395-pixel-paint-premium-edition.json) |
+| Pixel Pileup Party | 130201 | [130201-pixel-pileup-party.json](./130201-pixel-pileup-party.json) |
 | Pixel Poops | 157054 | [157054-pixel-poops.json](./157054-pixel-poops.json) |
 | Pixel Poops: Number Two | 143480 | [143480-pixel-poops-number-two.json](./143480-pixel-poops-number-two.json) |
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
@@ -5025,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punching a Concrete Wall | 399013 | [399013-punching-a-concrete-wall.json](./399013-punching-a-concrete-wall.json) |
 | Punching Storm | 358332 | [358332-punching-storm.json](./358332-punching-storm.json) |
 | Punchline | 291572 | [291572-punchline.json](./291572-punchline.json) |
+| Punchline!! | 130189 | [130189-punchline.json](./130189-punchline.json) |
 | Punchmasters | 196341 | [196341-punchmasters.json](./196341-punchmasters.json) |
 | Pungo | 355522 | [355522-pungo.json](./355522-pungo.json) |
 | Puniru ha Kawaii Slime no Game wo "Ano Game" de Tsukuttemita Keredo, Hatashite Anata ha Clear Dekirunoka? | 326577 | [326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json](./326577-puniru-ha-kawaii-slime-no-game-wo-ano-game-de-tsukuttemita-keredo-hatashite-anata-ha-clear-dekirunoka.json) |
@@ -5239,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Expedition | 35614 | [35614-puzzle-expedition.json](./35614-puzzle-expedition.json) |
 | Puzzle Fever | 166631 | [166631-puzzle-fever.json](./166631-puzzle-fever.json) |
 | Puzzle For Peppa Pig | 100825 | [100825-puzzle-for-peppa-pig.json](./100825-puzzle-for-peppa-pig.json) |
+| Puzzle Forge Dungeon | 130197 | [130197-puzzle-forge-dungeon.json](./130197-puzzle-forge-dungeon.json) |
 | Puzzle Freak | 196795 | [196795-puzzle-freak.json](./196795-puzzle-freak.json) |
 | Puzzle Galaxies | 32936 | [32936-puzzle-galaxies.json](./32936-puzzle-galaxies.json) |
 | Puzzle Galaxy: Beautiful Paintings - 47 new puzzles | 378863 | [378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json](./378863-puzzle-galaxy-beautiful-paintings-47-new-puzzles.json) |
