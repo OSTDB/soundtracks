@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Defender | 261338 | [261338-galactic-defender.json](./261338-galactic-defender.json) |
 | Galactic Dominion | 107858 | [107858-galactic-dominion.json](./107858-galactic-dominion.json) |
 | Galactic Empire | 240484 | [240484-galactic-empire.json](./240484-galactic-empire.json) |
+| Galactic Empires | 176370 | [176370-galactic-empires.json](./176370-galactic-empires.json) |
 | Galactic Express | 381041 | [381041-galactic-express.json](./381041-galactic-express.json) |
 | Galactic Field | 336906 | [336906-galactic-field.json](./336906-galactic-field.json) |
 | Galactic Foodtruck Simulator 2999 | 281412 | [281412-galactic-foodtruck-simulator-2999.json](./281412-galactic-foodtruck-simulator-2999.json) |
@@ -177,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Warp | 178637 | [178637-galactic-warp.json](./178637-galactic-warp.json) |
 | Galactic Warrior | 28817 | [28817-galactic-warrior.json](./28817-galactic-warrior.json) |
 | Galactic Wars | 133996 | [133996-galactic-wars.json](./133996-galactic-wars.json) |
+| Galactic Wars EX | 176351 | [176351-galactic-wars-ex.json](./176351-galactic-wars-ex.json) |
 | Galactic-A-Tactic: The Most Diplomatic Solution | 367975 | [367975-galactic-a-tactic-the-most-diplomatic-solution.json](./367975-galactic-a-tactic-the-most-diplomatic-solution.json) |
 | Galactic: The Xmas Edition | 327803 | [327803-galactic-the-xmas-edition.json](./327803-galactic-the-xmas-edition.json) |
 | Galactica: Batalha Espacial | 123033 | [123033-galactica-batalha-espacial.json](./123033-galactica-batalha-espacial.json) |
@@ -705,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Phrase | 237379 | [237379-gem-phrase.json](./237379-gem-phrase.json) |
 | Gem Quest: Rush | 416643 | [416643-gem-quest-rush.json](./416643-gem-quest-rush.json) |
 | Gem Rifts | 188498 | [188498-gem-rifts.json](./188498-gem-rifts.json) |
+| Gem Setter | 176340 | [176340-gem-setter.json](./176340-gem-setter.json) |
 | Gem Shoot | 175344 | [175344-gem-shoot.json](./175344-gem-shoot.json) |
 | Gem Venture | 217326 | [217326-gem-venture.json](./217326-gem-venture.json) |
 | Gem Wizard | 273489 | [273489-gem-wizard.json](./273489-gem-wizard.json) |
@@ -2929,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Strike Ops: WW2 | 196307 | [196307-gun-strike-ops-ww2.json](./196307-gun-strike-ops-ww2.json) |
 | Gun to Colonists | 189173 | [189173-gun-to-colonists.json](./189173-gun-to-colonists.json) |
 | Gun Trails | 259277 | [259277-gun-trails.json](./259277-gun-trails.json) |
+| Gun-Toting Cats | 176358 | [176358-gun-toting-cats.json](./176358-gun-toting-cats.json) |
 | Gun.Smoke | 40965 | [40965-gun-smoke.json](./40965-gun-smoke.json) |
 | Gunball: Emperor's Revenge | 353314 | [353314-gunball-emperors-revenge.json](./353314-gunball-emperors-revenge.json) |
 | Gunbarich | 39861 | [39861-gunbarich.json](./39861-gunbarich.json) |
