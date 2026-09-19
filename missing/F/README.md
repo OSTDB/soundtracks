@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fengse Huanxiang 5: Chi Yue Zhanzheng | 68690 | [68690-fengse-huanxiang-5-chi-yue-zhanzheng.json](./68690-fengse-huanxiang-5-chi-yue-zhanzheng.json) |
 | Fēngsè Huànxiǎng III: Zuì Yǔ Fá de Zhènhúngē | 350519 | [350519-fengse-huanxiang-iii-zui-yu-fa-de-zhenhunge.json](./350519-fengse-huanxiang-iii-zui-yu-fa-de-zhenhunge.json) |
 | Fēngshén Yīngjié Zhuán | 93061 | [93061-fengshen-yingjie-zhuan.json](./93061-fengshen-yingjie-zhuan.json) |
+| Fēngxìnlóu | 130187 | [130187-fengxinlou.json](./130187-fengxinlou.json) |
 | Fenimore Fillmore: The Westerner | 27496 | [27496-fenimore-fillmore-the-westerner.json](./27496-fenimore-fillmore-the-westerner.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
 | Fenrir's fury | 252245 | [252245-fenrirs-fury.json](./252245-fenrirs-fury.json) |
@@ -2214,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame VS Blaze | 27720 | [27720-flame-vs-blaze.json](./27720-flame-vs-blaze.json) |
 | Flamefall | 342143 | [342143-flamefall.json](./342143-flamefall.json) |
 | Flameruby | 106542 | [106542-flameruby.json](./106542-flameruby.json) |
+| Flaming Friday Night | 130168 | [130168-flaming-friday-night.json](./130168-flaming-friday-night.json) |
 | Flan's BN | 346613 | [346613-flans-bn.json](./346613-flans-bn.json) |
 | Flan's Mod | 232680 | [232680-flans-mod.json](./232680-flans-mod.json) |
 | Flap Demon | 158646 | [158646-flap-demon.json](./158646-flap-demon.json) |
