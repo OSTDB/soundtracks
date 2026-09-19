@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narrative Nightmares: Trilogy of Terror | 282594 | [282594-narrative-nightmares-trilogy-of-terror.json](./282594-narrative-nightmares-trilogy-of-terror.json) |
 | Narrow Escape | 41986 | [41986-narrow-escape.json](./41986-narrow-escape.json) |
 | Narrow Path | 203380 | [203380-narrow-path.json](./203380-narrow-path.json) |
+| Narrow.One | 148376 | [148376-narrow-one.json](./148376-narrow-one.json) |
 | Naruto Arena Next Generation | 188074 | [188074-naruto-arena-next-generation.json](./188074-naruto-arena-next-generation.json) |
 | Naruto Mobile | 79255 | [79255-naruto-mobile.json](./79255-naruto-mobile.json) |
 | Naruto Shinobi Breakdown | 243415 | [243415-naruto-shinobi-breakdown.json](./243415-naruto-shinobi-breakdown.json) |
