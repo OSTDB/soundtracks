@@ -743,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemsa | 243966 | [243966-gemsa.json](./243966-gemsa.json) |
 | Gemstone Guardians | 239640 | [239640-gemstone-guardians.json](./239640-gemstone-guardians.json) |
 | Gemstone IV | 79899 | [79899-gemstone-iv.json](./79899-gemstone-iv.json) |
+| Gemstone Legends | 164377 | [164377-gemstone-legends.json](./164377-gemstone-legends.json) |
 | Gemstone Puzzle Fury | 274028 | [274028-gemstone-puzzle-fury.json](./274028-gemstone-puzzle-fury.json) |
 | Gemstone Puzzle Fury: Expansion Pack | 275731 | [275731-gemstone-puzzle-fury-expansion-pack.json](./275731-gemstone-puzzle-fury-expansion-pack.json) |
 | Gemstone Realm | 368505 | [368505-gemstone-realm.json](./368505-gemstone-realm.json) |
@@ -2267,6 +2268,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grater | 115629 | [115629-grater.json](./115629-grater.json) |
 | Gratia | 183021 | [183021-gratia.json](./183021-gratia.json) |
 | Gratuitous Animal Massacre | 119748 | [119748-gratuitous-animal-massacre.json](./119748-gratuitous-animal-massacre.json) |
+| Gratuitous Space Battles: Galactic Conquest | 164341 | [164341-gratuitous-space-battles-galactic-conquest.json](./164341-gratuitous-space-battles-galactic-conquest.json) |
+| Gratuitous Space Battles: The Nomads | 164339 | [164339-gratuitous-space-battles-the-nomads.json](./164339-gratuitous-space-battles-the-nomads.json) |
+| Gratuitous Space Battles: The Order | 164342 | [164342-gratuitous-space-battles-the-order.json](./164342-gratuitous-space-battles-the-order.json) |
+| Gratuitous Space Battles: The Outcasts | 164340 | [164340-gratuitous-space-battles-the-outcasts.json](./164340-gratuitous-space-battles-the-outcasts.json) |
+| Gratuitous Space Battles: The Swarm | 164343 | [164343-gratuitous-space-battles-the-swarm.json](./164343-gratuitous-space-battles-the-swarm.json) |
+| Gratuitous Space Battles: The Tribe | 164338 | [164338-gratuitous-space-battles-the-tribe.json](./164338-gratuitous-space-battles-the-tribe.json) |
 | Gratuitous Tank Battles | 16334 | [16334-gratuitous-tank-battles.json](./16334-gratuitous-tank-battles.json) |
 | Gräuel | 276837 | [276837-grauel.json](./276837-grauel.json) |
 | Grauen no Torikago: Kapitel 2 - Torikago | 318050 | [318050-grauen-no-torikago-kapitel-2-torikago.json](./318050-grauen-no-torikago-kapitel-2-torikago.json) |
