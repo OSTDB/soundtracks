@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally of Rockets | 112330 | [112330-rally-of-rockets.json](./112330-rally-of-rockets.json) |
 | Rally Point 3 | 237953 | [237953-rally-point-3.json](./237953-rally-point-3.json) |
 | Rally Pro Contest | 325692 | [325692-rally-pro-contest.json](./325692-rally-pro-contest.json) |
+| Rally Racer: Offroad Racing Car Game | 153822 | [153822-rally-racer-offroad-racing-car-game.json](./153822-rally-racer-offroad-racing-car-game.json) |
 | Rally Racers | 76648 | [76648-rally-racers.json](./76648-rally-racers.json) |
 | Rally Racing | 186867 | [186867-rally-racing.json](./186867-rally-racing.json) |
 | Rally Racing: Cars & Drift Mania | 265711 | [265711-rally-racing-cars-and-drift-mania.json](./265711-rally-racing-cars-and-drift-mania.json) |
@@ -1382,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of King | 107147 | [107147-reign-of-king.json](./107147-reign-of-king.json) |
 | Reign of the Undead: Revolution | 299134 | [299134-reign-of-the-undead-revolution.json](./299134-reign-of-the-undead-revolution.json) |
 | Reignbreaker | 314640 | [314640-reignbreaker.json](./314640-reignbreaker.json) |
+| Reigning | 153849 | [153849-reigning.json](./153849-reigning.json) |
 | Reignman | 99033 | [99033-reignman.json](./99033-reignman.json) |
 | Reigns: Complete Set | 300835 | [300835-reigns-complete-set.json](./300835-reigns-complete-set.json) |
 | Reigns: Game of Thrones | 107237 | [107237-reigns-game-of-thrones.json](./107237-reigns-game-of-thrones.json) |
@@ -1573,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repossessed | 279738 | [279738-repossessed.json](./279738-repossessed.json) |
 | Reprisal Universe | 8871 | [8871-reprisal-universe.json](./8871-reprisal-universe.json) |
 | reProgram | 128633 | [128633-reprogram.json](./128633-reprogram.json) |
+| Reptilian Rising | 153846 | [153846-reptilian-rising.json](./153846-reptilian-rising.json) |
 | Reptillian Rebellion | 123610 | [123610-reptillian-rebellion.json](./123610-reptillian-rebellion.json) |
 | Repton 2 | 37073 | [37073-repton-2.json](./37073-repton-2.json) |
 | Repton 3 | 37074 | [37074-repton-3.json](./37074-repton-3.json) |
@@ -3497,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubicon | 79242 | [79242-rubicon.json](./79242-rubicon.json) |
 | Rubik's Cube 3-D | 40755 | [40755-rubiks-cube-3-d.json](./40755-rubiks-cube-3-d.json) |
 | Rubik's Cube Challenge | 209026 | [209026-rubiks-cube-challenge.json](./209026-rubiks-cube-challenge.json) |
+| Rubix Roller | 153821 | [153821-rubix-roller.json](./153821-rubix-roller.json) |
 | Ruby and the Lost Crystals | 360581 | [360581-ruby-and-the-lost-crystals.json](./360581-ruby-and-the-lost-crystals.json) |
 | Ruby Crush | 270417 | [270417-ruby-crush.json](./270417-ruby-crush.json) |
 | Ruby Heart | 159871 | [159871-ruby-heart.json](./159871-ruby-heart.json) |
