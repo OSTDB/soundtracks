@@ -3855,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust Rides | 373620 | [373620-rust-rides.json](./373620-rust-rides.json) |
 | Rust Rivalry | 305941 | [305941-rust-rivalry.json](./305941-rust-rivalry.json) |
 | Rust: Console Edition | 145149 | [145149-rust-console-edition.json](./145149-rust-console-edition.json) |
+| Rust: Console Edition - Day One | 146116 | [146116-rust-console-edition-day-one.json](./146116-rust-console-edition-day-one.json) |
 | Rustbucket Rumble | 35699 | [35699-rustbucket-rumble.json](./35699-rustbucket-rumble.json) |
 | Rusted | 340945 | [340945-rusted.json](./340945-rusted.json) |
 | Rusted Sea | 296376 | [296376-rusted-sea.json](./296376-rusted-sea.json) |
