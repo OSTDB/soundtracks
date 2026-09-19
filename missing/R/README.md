@@ -1737,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Tycoon: My Cooking Empire - Diamond Edition | 396927 | [396927-restaurant-tycoon-my-cooking-empire-diamond-edition.json](./396927-restaurant-tycoon-my-cooking-empire-diamond-edition.json) |
 | Restaurant Tycoon: My Cooking Empire - Luxe & Lounge | 385176 | [385176-restaurant-tycoon-my-cooking-empire-luxe-and-lounge.json](./385176-restaurant-tycoon-my-cooking-empire-luxe-and-lounge.json) |
 | Resthedex | 151175 | [151175-resthedex.json](./151175-resthedex.json) |
+| Restitched | 147290 | [147290-restitched.json](./147290-restitched.json) |
 | Restless Soul | 192398 | [192398-restless-soul.json](./192398-restless-soul.json) |
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
