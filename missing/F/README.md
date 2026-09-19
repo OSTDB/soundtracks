@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Manager 11 | 20682 | [20682-fifa-manager-11.json](./20682-fifa-manager-11.json) |
 | FIFA Manager 12 | 20684 | [20684-fifa-manager-12.json](./20684-fifa-manager-12.json) |
 | FIFA Manager 13 | 20686 | [20686-fifa-manager-13.json](./20686-fifa-manager-13.json) |
+| FIFA Mobile World | 174726 | [174726-fifa-mobile-world.json](./174726-fifa-mobile-world.json) |
 | FIFA Soccer 06 | 240356 | [240356-fifa-soccer-06.json](./240356-fifa-soccer-06.json) |
 | FIFA Soccer 07 | 696 | [696-fifa-soccer-07.json](./696-fifa-soccer-07.json) |
 | FIFA Soccer 08 | 229182 | [229182-fifa-soccer-08.json](./229182-fifa-soccer-08.json) |
