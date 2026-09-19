@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMG Police: Car Chase TV Simulator | 147907 | [147907-omg-police-car-chase-tv-simulator.json](./147907-omg-police-car-chase-tv-simulator.json) |
 | OMG Words | 292541 | [292541-omg-words.json](./292541-omg-words.json) |
 | OMG-Z | 20633 | [20633-omg-z.json](./20633-omg-z.json) |
+| OMG: One Million Guns | 160219 | [160219-omg-one-million-guns.json](./160219-omg-one-million-guns.json) |
 | Omi Oh My AI | 215393 | [215393-omi-oh-my-ai.json](./215393-omi-oh-my-ai.json) |
 | Omicron: Coronavirus Battlegrounds | 393453 | [393453-omicron-coronavirus-battlegrounds.json](./393453-omicron-coronavirus-battlegrounds.json) |
 | Omicrox | 361803 | [361803-omicrox.json](./361803-omicrox.json) |
