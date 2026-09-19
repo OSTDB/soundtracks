@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaphie 2 | 145656 | [145656-zaphie-2.json](./145656-zaphie-2.json) |
 | Zapling Bygone: Deluxe Edition | 249261 | [249261-zapling-bygone-deluxe-edition.json](./249261-zapling-bygone-deluxe-edition.json) |
 | ZAR | 161374 | [161374-zar.json](./161374-zar.json) |
+| Zardy's Maze | 139234 | [139234-zardys-maze.json](./139234-zardys-maze.json) |
 | Zargog | 356638 | [356638-zargog.json](./356638-zargog.json) |
 | Zarktor's Realm | 189172 | [189172-zarktors-realm.json](./189172-zarktors-realm.json) |
 | Zarth | 45977 | [45977-zarth.json](./45977-zarth.json) |
