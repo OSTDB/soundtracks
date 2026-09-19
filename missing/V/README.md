@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valvontaa | 399057 | [399057-valvontaa.json](./399057-valvontaa.json) |
 | Valyria Tear | 60586 | [60586-valyria-tear.json](./60586-valyria-tear.json) |
 | Valzar | 34391 | [34391-valzar.json](./34391-valzar.json) |
+| Vamp: Lord of Blood | 174759 | [174759-vamp-lord-of-blood.json](./174759-vamp-lord-of-blood.json) |
 | Vampirates | 344457 | [344457-vampirates.json](./344457-vampirates.json) |
 | Vampirdzhija Vjedogonia | 130309 | [130309-vampirdzhija-vjedogonia.json](./130309-vampirdzhija-vjedogonia.json) |
 | Vampire Awakening: Elven Sword Chronicles Survival | 373020 | [373020-vampire-awakening-elven-sword-chronicles-survival.json](./373020-vampire-awakening-elven-sword-chronicles-survival.json) |
@@ -442,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venus Meets Venus | 128592 | [128592-venus-meets-venus.json](./128592-venus-meets-venus.json) |
 | Venus One: Galactic Overlords | 253602 | [253602-venus-one-galactic-overlords.json](./253602-venus-one-galactic-overlords.json) |
 | Venus Puzzles | 272572 | [272572-venus-puzzles.json](./272572-venus-puzzles.json) |
+| Venus Scrumble | 174734 | [174734-venus-scrumble.json](./174734-venus-scrumble.json) |
 | Venus Vacation Prism: Dead or Alive Xtreme | 318023 | [318023-venus-vacation-prism-dead-or-alive-xtreme.json](./318023-venus-vacation-prism-dead-or-alive-xtreme.json) |
 | Venus Voyager 2 | 292882 | [292882-venus-voyager-2.json](./292882-venus-voyager-2.json) |
 | Vera Blanc: Supernatural Mysteries | 306516 | [306516-vera-blanc-supernatural-mysteries.json](./306516-vera-blanc-supernatural-mysteries.json) |
