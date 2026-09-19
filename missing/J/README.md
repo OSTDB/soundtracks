@@ -536,6 +536,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle: Delicious Foods | 282135 | [282135-jigsaw-puzzle-delicious-foods.json](./282135-jigsaw-puzzle-delicious-foods.json) |
 | Jigsaw Puzzle: Futanari Threesome | 220834 | [220834-jigsaw-puzzle-futanari-threesome.json](./220834-jigsaw-puzzle-futanari-threesome.json) |
 | Jigsaw Puzzle: New Year Collection | 351599 | [351599-jigsaw-puzzle-new-year-collection.json](./351599-jigsaw-puzzle-new-year-collection.json) |
+| Jigsaw Puzzle: Pro Edition - Expansion Pack 10 | 162242 | [162242-jigsaw-puzzle-pro-edition-expansion-pack-10.json](./162242-jigsaw-puzzle-pro-edition-expansion-pack-10.json) |
+| Jigsaw Puzzle: Pro Edition - Expansion Pack 2 | 162240 | [162240-jigsaw-puzzle-pro-edition-expansion-pack-2.json](./162240-jigsaw-puzzle-pro-edition-expansion-pack-2.json) |
+| Jigsaw Puzzle: Pro Edition - Expansion Pack 3 | 162244 | [162244-jigsaw-puzzle-pro-edition-expansion-pack-3.json](./162244-jigsaw-puzzle-pro-edition-expansion-pack-3.json) |
+| Jigsaw Puzzle: Pro Edition - Expansion Pack 5 | 162241 | [162241-jigsaw-puzzle-pro-edition-expansion-pack-5.json](./162241-jigsaw-puzzle-pro-edition-expansion-pack-5.json) |
+| Jigsaw Puzzle: Pro Edition - Expansion Pack 6 | 162243 | [162243-jigsaw-puzzle-pro-edition-expansion-pack-6.json](./162243-jigsaw-puzzle-pro-edition-expansion-pack-6.json) |
 | Jigsaw Puzzle. Women's Day | 105903 | [105903-jigsaw-puzzle-womens-day.json](./105903-jigsaw-puzzle-womens-day.json) |
 | Jigsaw Tetra | 147981 | [147981-jigsaw-tetra.json](./147981-jigsaw-tetra.json) |
 | Jigsaw Together | 274752 | [274752-jigsaw-together.json](./274752-jigsaw-together.json) |
