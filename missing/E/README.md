@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etrom: The Astral Essence | 72086 | [72086-etrom-the-astral-essence.json](./72086-etrom-the-astral-essence.json) |
 | Ettermag | 176364 | [176364-ettermag.json](./176364-ettermag.json) |
 | Ettrian: The Elf Prince | 240806 | [240806-ettrian-the-elf-prince.json](./240806-ettrian-the-elf-prince.json) |
+| Euchre | 131392 | [131392-euchre.json](./131392-euchre.json) |
 | Euchre | 40729 | [40729-euchre.json](./40729-euchre.json) |
 | Euchre 3D Pro | 86836 | [86836-euchre-3d-pro.json](./86836-euchre-3d-pro.json) |
 | Euchre by Webfoot | 88323 | [88323-euchre-by-webfoot.json](./88323-euchre-by-webfoot.json) |
