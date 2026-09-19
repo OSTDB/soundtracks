@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games 4 | 152112 | [152112-games-4.json](./152112-games-4.json) |
 | Games 4 Boys | 344446 | [344446-games-4-boys.json](./344446-games-4-boys.json) |
 | Games Advent Calendar: 25 Days - 25 Surprises | 265160 | [265160-games-advent-calendar-25-days-25-surprises.json](./265160-games-advent-calendar-25-days-25-surprises.json) |
+| Games and Girls | 149417 | [149417-games-and-girls.json](./149417-games-and-girls.json) |
 | Games Explosion | 18260 | [18260-games-explosion.json](./18260-games-explosion.json) |
 | Games for Stream! | 266856 | [266856-games-for-stream.json](./266856-games-for-stream.json) |
 | Games for Toddlers 2 | 147977 | [147977-games-for-toddlers-2.json](./147977-games-for-toddlers-2.json) |
@@ -2133,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grainwind Incident 77 | 229358 | [229358-grainwind-incident-77.json](./229358-grainwind-incident-77.json) |
 | Gramik Paint Roller | 254129 | [254129-gramik-paint-roller.json](./254129-gramik-paint-roller.json) |
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
+| Gran Empire | 149443 | [149443-gran-empire.json](./149443-gran-empire.json) |
 | Gran Trak 10 | 7429 | [7429-gran-trak-10.json](./7429-gran-trak-10.json) |
 | Gran Turismo 2000 | 298017 | [298017-gran-turismo-2000.json](./298017-gran-turismo-2000.json) |
 | Gran Turismo 4 Spec II | 336043 | [336043-gran-turismo-4-spec-ii.json](./336043-gran-turismo-4-spec-ii.json) |
