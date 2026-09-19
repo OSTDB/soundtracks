@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hedgehog Launch | 234939 | [234939-hedgehog-launch.json](./234939-hedgehog-launch.json) |
 | Hedgehog Launch 2 | 234940 | [234940-hedgehog-launch-2.json](./234940-hedgehog-launch-2.json) |
 | Hedgehot: Battle Strike | 217498 | [217498-hedgehot-battle-strike.json](./217498-hedgehot-battle-strike.json) |
+| Hedgie Simulator | 170935 | [170935-hedgie-simulator.json](./170935-hedgie-simulator.json) |
 | Hedon Bloodrite | 183074 | [183074-hedon-bloodrite.json](./183074-hedon-bloodrite.json) |
 | Hedrons | 149095 | [149095-hedrons.json](./149095-hedrons.json) |
 | Hedrox | 274179 | [274179-hedrox.json](./274179-hedrox.json) |
@@ -3271,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Survive: Kovac's Way | 164516 | [164516-how-to-survive-kovacs-way.json](./164516-how-to-survive-kovacs-way.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
 | How to Train Your Human | 180692 | [180692-how-to-train-your-human.json](./180692-how-to-train-your-human.json) |
+| How to Volley Ball | 170933 | [170933-how-to-volley-ball.json](./170933-how-to-volley-ball.json) |
 | How to Win | 136400 | [136400-how-to-win.json](./136400-how-to-win.json) |
 | How Would You Survive? | 305381 | [305381-how-would-you-survive.json](./305381-how-would-you-survive.json) |
 | How Your Package Gets Delivered | 363437 | [363437-how-your-package-gets-delivered.json](./363437-how-your-package-gets-delivered.json) |
