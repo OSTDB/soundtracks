@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Bounty | 406684 | [406684-galactic-bounty.json](./406684-galactic-bounty.json) |
 | Galactic Catch | 254514 | [254514-galactic-catch.json](./254514-galactic-catch.json) |
 | Galactic Center VR | 131610 | [131610-galactic-center-vr.json](./131610-galactic-center-vr.json) |
+| Galactic Civilizations II: Ultimate Edition | 154946 | [154946-galactic-civilizations-ii-ultimate-edition.json](./154946-galactic-civilizations-ii-ultimate-edition.json) |
 | Galactic Civilizations III | 10345 | [10345-galactic-civilizations-iii.json](./10345-galactic-civilizations-iii.json) |
 | Galactic Civilizations III: Crusade | 27054 | [27054-galactic-civilizations-iii-crusade.json](./27054-galactic-civilizations-iii-crusade.json) |
 | Galactic Civilizations III: Lost Treasures DLC | 163371 | [163371-galactic-civilizations-iii-lost-treasures-dlc.json](./163371-galactic-civilizations-iii-lost-treasures-dlc.json) |
@@ -1571,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoBlaster | 161898 | [161898-goblaster.json](./161898-goblaster.json) |
 | Goblet Grotto | 64354 | [64354-goblet-grotto.json](./64354-goblet-grotto.json) |
 | Goblet Tower | 287654 | [287654-goblet-tower.json](./287654-goblet-tower.json) |
+| Gobliiins Pack | 154937 | [154937-gobliiins-pack.json](./154937-gobliiins-pack.json) |
 | Gobliiins5 | 249288 | [249288-gobliiins5.json](./249288-gobliiins5.json) |
 | Goblin Adventure: Free From Lore | 365163 | [365163-goblin-adventure-free-from-lore.json](./365163-goblin-adventure-free-from-lore.json) |
 | Goblin and Coins 2 | 117715 | [117715-goblin-and-coins-2.json](./117715-goblin-and-coins-2.json) |
@@ -1896,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gong | 280356 | [280356-gong.json](./280356-gong.json) |
 | Gongbat | 183011 | [183011-gongbat.json](./183011-gongbat.json) |
 | Gonne Wrong | 151142 | [151142-gonne-wrong.json](./151142-gonne-wrong.json) |
+| Gonner2: Lose Your Head Bundle | 154963 | [154963-gonner2-lose-your-head-bundle.json](./154963-gonner2-lose-your-head-bundle.json) |
 | Gonner2: The Full Ikk Edition | 154552 | [154552-gonner2-the-full-ikk-edition.json](./154552-gonner2-the-full-ikk-edition.json) |
 | Goo Fighter | 283725 | [283725-goo-fighter.json](./283725-goo-fighter.json) |
 | Goo Go | 304380 | [304380-goo-go.json](./304380-goo-go.json) |
