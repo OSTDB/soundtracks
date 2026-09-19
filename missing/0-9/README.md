@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10Minutes | 258997 | [258997-10minutes.json](./258997-10minutes.json) |
 | 10SII | 143489 | [143489-10sii.json](./143489-10sii.json) |
 | 11 Trials of Raz | 379454 | [379454-11-trials-of-raz.json](./379454-11-trials-of-raz.json) |
+| 11:45 A Vivid Life | 132652 | [132652-11-45-a-vivid-life.json](./132652-11-45-a-vivid-life.json) |
 | 110 Hurdles | 247052 | [247052-110-hurdles.json](./247052-110-hurdles.json) |
 | 1112: Episode 01 | 213381 | [213381-1112-episode-01.json](./213381-1112-episode-01.json) |
 | 1193 Anno Domini: Merchants and Crusaders | 71494 | [71494-1193-anno-domini-merchants-and-crusaders.json](./71494-1193-anno-domini-merchants-and-crusaders.json) |
