@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaky Blinders VR | 117742 | [117742-peaky-blinders-vr.json](./117742-peaky-blinders-vr.json) |
 | Peaky Circus | 211819 | [211819-peaky-circus.json](./211819-peaky-circus.json) |
 | Peanut Butter Panic | 73277 | [73277-peanut-butter-panic.json](./73277-peanut-butter-panic.json) |
+| Pear Quest | 129562 | [129562-pear-quest.json](./129562-pear-quest.json) |
 | Pearl Fishery: Quest for the Mega Pearl | 296372 | [296372-pearl-fishery-quest-for-the-mega-pearl.json](./296372-pearl-fishery-quest-for-the-mega-pearl.json) |
 | Pearl Harbor: Strike at Dawn | 138007 | [138007-pearl-harbor-strike-at-dawn.json](./138007-pearl-harbor-strike-at-dawn.json) |
 | Pearl Harbor: Zero Hour | 72057 | [72057-pearl-harbor-zero-hour.json](./72057-pearl-harbor-zero-hour.json) |
@@ -1922,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieces of Eight | 96677 | [96677-pieces-of-eight.json](./96677-pieces-of-eight.json) |
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
 | Pien | 144144 | [144144-pien.json](./144144-pien.json) |
+| Piercing Fortress Europa | 129591 | [129591-piercing-fortress-europa.json](./129591-piercing-fortress-europa.json) |
 | Pierhead Arcade 2 | 188081 | [188081-pierhead-arcade-2.json](./188081-pierhead-arcade-2.json) |
 | Pierre le Chef is... Out to Lunch | 39042 | [39042-pierre-le-chef-is-out-to-lunch.json](./39042-pierre-le-chef-is-out-to-lunch.json) |
 | Pif Paf | 105323 | [105323-pif-paf.json](./105323-pif-paf.json) |
@@ -3169,6 +3171,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Box: Ruby & Sapphire | 93046 | [93046-pokemon-box-ruby-and-sapphire.json](./93046-pokemon-box-ruby-and-sapphire.json) |
 | Pokemon Breeder | 196863 | [196863-pokemon-breeder.json](./196863-pokemon-breeder.json) |
 | Pokemon Broken Circuit | 239197 | [239197-pokemon-broken-circuit.json](./239197-pokemon-broken-circuit.json) |
+| Pokémon Bronze | 129585 | [129585-pokemon-bronze.json](./129585-pokemon-bronze.json) |
+| Pokémon Brown | 129586 | [129586-pokemon-brown.json](./129586-pokemon-brown.json) |
 | Pokémon CAWPS | 129809 | [129809-pokemon-cawps.json](./129809-pokemon-cawps.json) |
 | Pokémon Champions | 333568 | [333568-pokemon-champions.json](./333568-pokemon-champions.json) |
 | Pokémon Channel-e: Line Art Card - Jirachi | 354533 | [354533-pokemon-channel-e-line-art-card-jirachi.json](./354533-pokemon-channel-e-line-art-card-jirachi.json) |
@@ -3258,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Plasma | 415074 | [415074-pokemon-plasma.json](./415074-pokemon-plasma.json) |
 | Pokémon Play It! Version 2 | 24959 | [24959-pokemon-play-it-version-2.json](./24959-pokemon-play-it-version-2.json) |
 | Pokémon Polished Crystal | 220866 | [220866-pokemon-polished-crystal.json](./220866-pokemon-polished-crystal.json) |
+| Pokémon Prism | 129588 | [129588-pokemon-prism.json](./129588-pokemon-prism.json) |
 | Pokémon Prismatic Moon | 383533 | [383533-pokemon-prismatic-moon.json](./383533-pokemon-prismatic-moon.json) |
 | Pokémon Project Studio Red/Blue Version | 131390 | [131390-pokemon-project-studio-red-blue-version.json](./131390-pokemon-project-studio-red-blue-version.json) |
 | Pokémon Psychic Seeds | 157527 | [157527-pokemon-psychic-seeds.json](./157527-pokemon-psychic-seeds.json) |
@@ -3272,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Refined Gold | 226210 | [226210-pokemon-refined-gold.json](./226210-pokemon-refined-gold.json) |
 | Pokemon Reloaded | 343908 | [343908-pokemon-reloaded.json](./343908-pokemon-reloaded.json) |
 | Pokémon Revelation | 226211 | [226211-pokemon-revelation.json](./226211-pokemon-revelation.json) |
+| Pokémon Revolution Online | 129561 | [129561-pokemon-revolution-online.json](./129561-pokemon-revolution-online.json) |
 | Pokemon Roulette | 365067 | [365067-pokemon-roulette.json](./365067-pokemon-roulette.json) |
 | Pokémon Royal | 313116 | [313116-pokemon-royal.json](./313116-pokemon-royal.json) |
 | Pokémon Royal Sapphire | 361219 | [361219-pokemon-royal-sapphire.json](./361219-pokemon-royal-sapphire.json) |
