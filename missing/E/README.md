@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escalar | 245925 | [245925-escalar.json](./245925-escalar.json) |
 | Escalation VR! | 150110 | [150110-escalation-vr.json](./150110-escalation-vr.json) |
 | Escalation! | 150099 | [150099-escalation.json](./150099-escalation.json) |
+| Escape | 154377 | [154377-escape.json](./154377-escape.json) |
 | Escape | 175910 | [175910-escape.json](./175910-escape.json) |
 | Escape | 230863 | [230863-escape.json](./230863-escape.json) |
 | Escape | 295270 | [295270-escape.json](./295270-escape.json) |
