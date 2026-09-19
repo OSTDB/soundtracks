@@ -1692,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedtime Horror Stories | 220647 | [220647-bedtime-horror-stories.json](./220647-bedtime-horror-stories.json) |
 | Bedtime Stories | 371963 | [371963-bedtime-stories.json](./371963-bedtime-stories.json) |
 | Bedtime Story: Saint | 338208 | [338208-bedtime-story-saint.json](./338208-bedtime-story-saint.json) |
+| Bee Farming | 175281 | [175281-bee-farming.json](./175281-bee-farming.json) |
 | Bee Fighting | 247014 | [247014-bee-fighting.json](./247014-bee-fighting.json) |
 | Bee Holder | 184505 | [184505-bee-holder.json](./184505-bee-holder.json) |
 | Bee in the Valley | 250384 | [250384-bee-in-the-valley.json](./250384-bee-in-the-valley.json) |
@@ -2963,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlitzPunch | 188123 | [188123-blitzpunch.json](./188123-blitzpunch.json) |
 | Blix & Chocolate Mine | 145031 | [145031-blix-and-chocolate-mine.json](./145031-blix-and-chocolate-mine.json) |
 | Blizzard Blowout 64 | 177563 | [177563-blizzard-blowout-64.json](./177563-blizzard-blowout-64.json) |
+| Blizzard World | 175276 | [175276-blizzard-world.json](./175276-blizzard-world.json) |
 | Blob | 14319 | [14319-blob.json](./14319-blob.json) |
 | Blob Attack | 338812 | [338812-blob-attack.json](./338812-blob-attack.json) |
 | Blob Command | 265668 | [265668-blob-command.json](./265668-blob-command.json) |
