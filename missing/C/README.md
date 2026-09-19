@@ -4744,6 +4744,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Kickers | 57615 | [57615-crazy-kickers.json](./57615-crazy-kickers.json) |
 | Crazy Kitchen | 265675 | [265675-crazy-kitchen.json](./265675-crazy-kitchen.json) |
 | Crazy Machines 2 | 197893 | [197893-crazy-machines-2.json](./197893-crazy-machines-2.json) |
+| Crazy Machines 2: Anniversary DLC | 164367 | [164367-crazy-machines-2-anniversary-dlc.json](./164367-crazy-machines-2-anniversary-dlc.json) |
+| Crazy Machines 2: Back to the Shop Add-On | 164373 | [164373-crazy-machines-2-back-to-the-shop-add-on.json](./164373-crazy-machines-2-back-to-the-shop-add-on.json) |
+| Crazy Machines 2: Halloween | 164368 | [164368-crazy-machines-2-halloween.json](./164368-crazy-machines-2-halloween.json) |
+| Crazy Machines 2: Happy New Year DLC | 164372 | [164372-crazy-machines-2-happy-new-year-dlc.json](./164372-crazy-machines-2-happy-new-year-dlc.json) |
+| Crazy Machines 2: Invaders from Space | 164371 | [164371-crazy-machines-2-invaders-from-space.json](./164371-crazy-machines-2-invaders-from-space.json) |
+| Crazy Machines 2: Invaders From Space, 2nd Wave DLC | 164369 | [164369-crazy-machines-2-invaders-from-space-2nd-wave-dlc.json](./164369-crazy-machines-2-invaders-from-space-2nd-wave-dlc.json) |
+| Crazy Machines 2: Liquid Force Add-on | 164375 | [164375-crazy-machines-2-liquid-force-add-on.json](./164375-crazy-machines-2-liquid-force-add-on.json) |
+| Crazy Machines 2: Pirates | 164370 | [164370-crazy-machines-2-pirates.json](./164370-crazy-machines-2-pirates.json) |
+| Crazy Machines 2: Time Travel Add-On | 164374 | [164374-crazy-machines-2-time-travel-add-on.json](./164374-crazy-machines-2-time-travel-add-on.json) |
 | Crazy Machines VR | 111042 | [111042-crazy-machines-vr.json](./111042-crazy-machines-vr.json) |
 | Crazy Machines: Golden Gears | 16865 | [16865-crazy-machines-golden-gears.json](./16865-crazy-machines-golden-gears.json) |
 | Crazy Market | 62750 | [62750-crazy-market.json](./62750-crazy-market.json) |
