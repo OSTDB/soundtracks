@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Lady's Slave Role Play | 199616 | [199616-rich-ladys-slave-role-play.json](./199616-rich-ladys-slave-role-play.json) |
 | Rich Life Simulator VR | 50520 | [50520-rich-life-simulator-vr.json](./50520-rich-life-simulator-vr.json) |
 | Rich Mahogany and Human Leather-Bound Books | 271749 | [271749-rich-mahogany-and-human-leather-bound-books.json](./271749-rich-mahogany-and-human-leather-bound-books.json) |
+| Rich Man | 175826 | [175826-rich-man.json](./175826-rich-man.json) |
 | Rich River | 391203 | [391203-rich-river.json](./391203-rich-river.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
