@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family | 394827 | [394827-family.json](./394827-family.json) |
 | Family Bash | 248052 | [248052-family-bash.json](./248052-family-bash.json) |
 | Family Bible Quest | 335322 | [335322-family-bible-quest.json](./335322-family-bible-quest.json) |
+| Family Billiards | 161760 | [161760-family-billiards.json](./161760-family-billiards.json) |
 | Family Card Games Fun Pack | 82139 | [82139-family-card-games-fun-pack.json](./82139-family-card-games-fun-pack.json) |
 | Family Chess | 207877 | [207877-family-chess.json](./207877-family-chess.json) |
 | Family Chess: Deluxe Edition | 208584 | [208584-family-chess-deluxe-edition.json](./208584-family-chess-deluxe-edition.json) |
@@ -1688,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire and Brim Co. | 258708 | [258708-fire-and-brim-co.json](./258708-fire-and-brim-co.json) |
 | Fire and Rescue | 287760 | [287760-fire-and-rescue.json](./287760-fire-and-rescue.json) |
 | Fire Ant | 93077 | [93077-fire-ant.json](./93077-fire-ant.json) |
+| Fire Ball | 161775 | [161775-fire-ball.json](./161775-fire-ball.json) |
 | Fire Breathers | 243935 | [243935-fire-breathers.json](./243935-fire-breathers.json) |
 | Fire Burning City | 346676 | [346676-fire-burning-city.json](./346676-fire-burning-city.json) |
 | Fire Commander: First Response | 166188 | [166188-fire-commander-first-response.json](./166188-fire-commander-first-response.json) |
@@ -2594,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
 | Flying Kick | 181237 | [181237-flying-kick.json](./181237-flying-kick.json) |
 | Flying Motorcycle Simulator Pro | 87258 | [87258-flying-motorcycle-simulator-pro.json](./87258-flying-motorcycle-simulator-pro.json) |
+| Flying Propeller | 161777 | [161777-flying-propeller.json](./161777-flying-propeller.json) |
 | Flying Saucer | 358845 | [358845-flying-saucer.json](./358845-flying-saucer.json) |
 | Flying Soldiers | 146863 | [146863-flying-soldiers.json](./146863-flying-soldiers.json) |
 | Flying Squadron | 43889 | [43889-flying-squadron.json](./43889-flying-squadron.json) |
