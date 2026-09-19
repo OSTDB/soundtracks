@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payback 2 | 212494 | [212494-payback-2.json](./212494-payback-2.json) |
 | Payback Showdown | 174876 | [174876-payback-showdown.json](./174876-payback-showdown.json) |
 | Paycheck: City RPG | 130383 | [130383-paycheck-city-rpg.json](./130383-paycheck-city-rpg.json) |
+| Payday 2 VR | 150511 | [150511-payday-2-vr.json](./150511-payday-2-vr.json) |
 | Payday 2: Armored Transport | 167696 | [167696-payday-2-armored-transport.json](./167696-payday-2-armored-transport.json) |
 | Payday 2: Border Crossing Heist | 167700 | [167700-payday-2-border-crossing-heist.json](./167700-payday-2-border-crossing-heist.json) |
 | Payday 2: Breakfast in Tijuana Heist | 167691 | [167691-payday-2-breakfast-in-tijuana-heist.json](./167691-payday-2-breakfast-in-tijuana-heist.json) |
@@ -1044,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: Southbound Tailor Pack | 225174 | [225174-payday-2-southbound-tailor-pack.json](./225174-payday-2-southbound-tailor-pack.json) |
 | Payday 2: Sydney Character Pack | 225173 | [225173-payday-2-sydney-character-pack.json](./225173-payday-2-sydney-character-pack.json) |
 | Payday 2: The Alesso Heist | 167689 | [167689-payday-2-the-alesso-heist.json](./167689-payday-2-the-alesso-heist.json) |
+| Payday 2: The Big Bank Heist | 150508 | [150508-payday-2-the-big-bank-heist.json](./150508-payday-2-the-big-bank-heist.json) |
 | Payday 2: The Biker Heist | 19613 | [19613-payday-2-the-biker-heist.json](./19613-payday-2-the-biker-heist.json) |
 | Payday 2: The Bomb Heists | 167692 | [167692-payday-2-the-bomb-heists.json](./167692-payday-2-the-bomb-heists.json) |
 | Payday 2: The Butcher's Western Pack | 225175 | [225175-payday-2-the-butchers-western-pack.json](./225175-payday-2-the-butchers-western-pack.json) |
