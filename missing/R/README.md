@@ -2718,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboSport | 73231 | [73231-robosport.json](./73231-robosport.json) |
 | RoboSquad Revolution: Maverick Supporter Pack | 298183 | [298183-robosquad-revolution-maverick-supporter-pack.json](./298183-robosquad-revolution-maverick-supporter-pack.json) |
 | RoboSquare | 141205 | [141205-robosquare.json](./141205-robosquare.json) |
+| Robostar | 133812 | [133812-robostar.json](./133812-robostar.json) |
 | Robot Anarchy | 328496 | [328496-robot-anarchy.json](./328496-robot-anarchy.json) |
 | Robot Arena: Design & Destroy | 79323 | [79323-robot-arena-design-and-destroy.json](./79323-robot-arena-design-and-destroy.json) |
 | Robot Auto Racing Simulator | 127950 | [127950-robot-auto-racing-simulator.json](./127950-robot-auto-racing-simulator.json) |
@@ -3893,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust Knight | 193948 | [193948-rust-knight.json](./193948-rust-knight.json) |
 | Rust Mobile | 358975 | [358975-rust-mobile.json](./358975-rust-mobile.json) |
 | Rust Onslaught | 341511 | [341511-rust-onslaught.json](./341511-rust-onslaught.json) |
+| Rust Racers | 133815 | [133815-rust-racers.json](./133815-rust-racers.json) |
 | Rust Racers 2D | 126026 | [126026-rust-racers-2d.json](./126026-rust-racers-2d.json) |
 | Rust Rails | 267063 | [267063-rust-rails.json](./267063-rust-rails.json) |
 | Rust Rides | 373620 | [373620-rust-rides.json](./373620-rust-rides.json) |
