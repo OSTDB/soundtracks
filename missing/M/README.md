@@ -2640,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merc Elite | 63276 | [63276-merc-elite.json](./63276-merc-elite.json) |
 | Merc Storia - The Healer and the Melody of the Heart | 333560 | [333560-merc-storia-the-healer-and-the-melody-of-the-heart.json](./333560-merc-storia-the-healer-and-the-melody-of-the-heart.json) |
 | Merc Tactics | 183973 | [183973-merc-tactics.json](./183973-merc-tactics.json) |
+| Mercenaries Blaze: Dawn of the Twin Dragons | 141648 | [141648-mercenaries-blaze-dawn-of-the-twin-dragons.json](./141648-mercenaries-blaze-dawn-of-the-twin-dragons.json) |
 | Mercenaries Saga | 82082 | [82082-mercenaries-saga.json](./82082-mercenaries-saga.json) |
 | Mercenaries Saga 2 | 77691 | [77691-mercenaries-saga-2.json](./77691-mercenaries-saga-2.json) |
 | Mercenaries Series Bundle | 175818 | [175818-mercenaries-series-bundle.json](./175818-mercenaries-series-bundle.json) |
