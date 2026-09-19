@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Battles 4 Guadalcanal: Advanced Fog of War in the Pacific | 170520 | [170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json](./170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json) |
 | Carrier Battles WW2: Admiral of the Fleet | 171481 | [171481-carrier-battles-ww2-admiral-of-the-fleet.json](./171481-carrier-battles-ww2-admiral-of-the-fleet.json) |
 | Carrier Command | 11992 | [11992-carrier-command.json](./11992-carrier-command.json) |
+| Carrier Command 2 VR | 159147 | [159147-carrier-command-2-vr.json](./159147-carrier-command-2-vr.json) |
 | Carrier Deck | 40566 | [40566-carrier-deck.json](./40566-carrier-deck.json) |
 | Carrier Joe 2 | 207845 | [207845-carrier-joe-2.json](./207845-carrier-joe-2.json) |
 | Carrier Landings | 87163 | [87163-carrier-landings.json](./87163-carrier-landings.json) |
@@ -806,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Girl Adventures | 165678 | [165678-carrot-girl-adventures.json](./165678-carrot-girl-adventures.json) |
 | Carrot Overload | 337099 | [337099-carrot-overload.json](./337099-carrot-overload.json) |
 | Carrot Paradise | 311243 | [311243-carrot-paradise.json](./311243-carrot-paradise.json) |
+| Carrot Slime 2 | 159125 | [159125-carrot-slime-2.json](./159125-carrot-slime-2.json) |
 | Carrot: Pancakes and Waffles | 201676 | [201676-carrot-pancakes-and-waffles.json](./201676-carrot-pancakes-and-waffles.json) |
 | Carrot: The First Seed | 248918 | [248918-carrot-the-first-seed.json](./248918-carrot-the-first-seed.json) |
 | Carrots and Cream | 22414 | [22414-carrots-and-cream.json](./22414-carrots-and-cream.json) |
@@ -1301,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catty Cathy | 281982 | [281982-catty-cathy.json](./281982-catty-cathy.json) |
 | Catwoman | 3851 | [3851-catwoman.json](./3851-catwoman.json) |
 | Catwoman | 67337 | [67337-catwoman.json](./67337-catwoman.json) |
+| Catz 4 | 159146 | [159146-catz-4.json](./159146-catz-4.json) |
 | Catz: Your Computer Petz | 79286 | [79286-catz-your-computer-petz.json](./79286-catz-your-computer-petz.json) |
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Cauldron Chaos | 368495 | [368495-cauldron-chaos.json](./368495-cauldron-chaos.json) |
@@ -2021,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chigau!!!+ | 186231 | [186231-chigau.json](./186231-chigau.json) |
 | Chigau!!!+: Premium Edition | 186232 | [186232-chigau-premium-edition.json](./186232-chigau-premium-edition.json) |
 | Chigusa's Diary | 412422 | [412422-chigusas-diary.json](./412422-chigusas-diary.json) |
+| Chihiro Himukai Always Walks Away | 159136 | [159136-chihiro-himukai-always-walks-away.json](./159136-chihiro-himukai-always-walks-away.json) |
 | Chihuahua Controller | 373115 | [373115-chihuahua-controller.json](./373115-chihuahua-controller.json) |
 | Chikai no Kiss wa Totsuzen ni | 221241 | [221241-chikai-no-kiss-wa-totsuzen-ni.json](./221241-chikai-no-kiss-wa-totsuzen-ni.json) |
 | Chikankyou: Gachi Tsukaeru Appli de Muchimuchi Kyonyuu Shiri o Monde Sawatte! Acme-gao de Ikasetai!! | 109000 | [109000-chikankyou-gachi-tsukaeru-appli-de-muchimuchi-kyonyuu-shiri-o-monde-sawatte-acme-gao-de-ikasetai.json](./109000-chikankyou-gachi-tsukaeru-appli-de-muchimuchi-kyonyuu-shiri-o-monde-sawatte-acme-gao-de-ikasetai.json) |
@@ -2682,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Voices | 327414 | [327414-city-of-voices.json](./327414-city-of-voices.json) |
 | City Parking Driver: Draw The Path Simulator | 271839 | [271839-city-parking-driver-draw-the-path-simulator.json](./271839-city-parking-driver-draw-the-path-simulator.json) |
 | City Patrol: Police | 97925 | [97925-city-patrol-police.json](./97925-city-patrol-police.json) |
+| City Racing | 159173 | [159173-city-racing.json](./159173-city-racing.json) |
 | City Racing 2 | 181309 | [181309-city-racing-2.json](./181309-city-racing-2.json) |
 | City Retreat | 188521 | [188521-city-retreat.json](./188521-city-retreat.json) |
 | City Rhapsody! | 212808 | [212808-city-rhapsody.json](./212808-city-rhapsody.json) |
@@ -5304,6 +5309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto Crisis: Education Edition | 292683 | [292683-crypto-crisis-education-edition.json](./292683-crypto-crisis-education-edition.json) |
 | Crypto Fantasy: The Scrolls of Kouga | 335695 | [335695-crypto-fantasy-the-scrolls-of-kouga.json](./335695-crypto-fantasy-the-scrolls-of-kouga.json) |
 | Crypto Girls: SexCoin | 175796 | [175796-crypto-girls-sexcoin.json](./175796-crypto-girls-sexcoin.json) |
+| Crypto Is Dead | 159138 | [159138-crypto-is-dead.json](./159138-crypto-is-dead.json) |
 | Crypto Miner Tycoon Simulator | 191122 | [191122-crypto-miner-tycoon-simulator.json](./191122-crypto-miner-tycoon-simulator.json) |
 | Crypto Mining | 358295 | [358295-crypto-mining.json](./358295-crypto-mining.json) |
 | Crypto Royale | 225730 | [225730-crypto-royale.json](./225730-crypto-royale.json) |
@@ -5539,6 +5545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubyte | 279133 | [279133-cubyte.json](./279133-cubyte.json) |
 | Cubytet | 191188 | [191188-cubytet.json](./191188-cubytet.json) |
 | Cubzh | 250020 | [250020-cubzh.json](./250020-cubzh.json) |
+| Cuccchi | 159156 | [159156-cuccchi.json](./159156-cuccchi.json) |
 | Cucina Stellata: Starred Cuisine | 341891 | [341891-cucina-stellata-starred-cuisine.json](./341891-cucina-stellata-starred-cuisine.json) |
 | Cuckold Life Simulator | 375972 | [375972-cuckold-life-simulator.json](./375972-cuckold-life-simulator.json) |
 | Cuckold Sex: Episode 3 | 316392 | [316392-cuckold-sex-episode-3.json](./316392-cuckold-sex-episode-3.json) |
