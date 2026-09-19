@@ -1215,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Dice - 3D dice roller | 102724 | [102724-nice-dice-3d-dice-roller.json](./102724-nice-dice-3d-dice-roller.json) |
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
 | Nice Shot! The Gun Golfing Game | 110942 | [110942-nice-shot-the-gun-golfing-game.json](./110942-nice-shot-the-gun-golfing-game.json) |
+| Nice to NO you | 139240 | [139240-nice-to-no-you.json](./139240-nice-to-no-you.json) |
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
 | Niche: Breed and Evolve | 174298 | [174298-niche-breed-and-evolve.json](./174298-niche-breed-and-evolve.json) |
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
@@ -1966,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomad of Time | 12957 | [12957-nomad-of-time.json](./12957-nomad-of-time.json) |
 | Nomad Station | 247608 | [247608-nomad-station.json](./247608-nomad-station.json) |
 | Nomad Survival | 197874 | [197874-nomad-survival.json](./197874-nomad-survival.json) |
+| NoMaKo | 139261 | [139261-nomako.json](./139261-nomako.json) |
 | Nomia | 338730 | [338730-nomia.json](./338730-nomia.json) |
 | Nominal | 163312 | [163312-nominal.json](./163312-nominal.json) |
 | Nomolos: Storming the Catsle | 48699 | [48699-nomolos-storming-the-catsle.json](./48699-nomolos-storming-the-catsle.json) |
