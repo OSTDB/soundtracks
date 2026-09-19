@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oquonie | 60514 | [60514-oquonie.json](./60514-oquonie.json) |
 | Oracle Chain | 181241 | [181241-oracle-chain.json](./181241-oracle-chain.json) |
 | Oracle of Meles | 304382 | [304382-oracle-of-meles.json](./304382-oracle-of-meles.json) |
+| Oracle Trials | 157011 | [157011-oracle-trials.json](./157011-oracle-trials.json) |
 | Oracle: Threads of Fate | 89260 | [89260-oracle-threads-of-fate.json](./89260-oracle-threads-of-fate.json) |
 | Oracles Cave | 45365 | [45365-oracles-cave.json](./45365-oracles-cave.json) |
 | Orake | 19434 | [19434-orake.json](./19434-orake.json) |
