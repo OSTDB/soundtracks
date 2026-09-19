@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultire: Balls Out | 124259 | [124259-ultire-balls-out.json](./124259-ultire-balls-out.json) |
 | Ultra 2000 Series: Pac-Man | 284370 | [284370-ultra-2000-series-pac-man.json](./284370-ultra-2000-series-pac-man.json) |
 | Ultra 64 Mario Bros. | 294715 | [294715-ultra-64-mario-bros.json](./294715-ultra-64-mario-bros.json) |
+| Ultra ADHD | 131407 | [131407-ultra-adhd.json](./131407-ultra-adhd.json) |
 | Ultra Age: Rebirth Project | 224203 | [224203-ultra-age-rebirth-project.json](./224203-ultra-age-rebirth-project.json) |
 | Ultra Baseball Jitsumei-ban 3 | 37775 | [37775-ultra-baseball-jitsumei-ban-3.json](./37775-ultra-baseball-jitsumei-ban-3.json) |
 | Ultra Boat Game!!! | 154379 | [154379-ultra-boat-game.json](./154379-ultra-boat-game.json) |
@@ -306,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultragun Dreamland | 138728 | [138728-ultragun-dreamland.json](./138728-ultragun-dreamland.json) |
 | Ultrakanoid | 310179 | [310179-ultrakanoid.json](./310179-ultrakanoid.json) |
 | Ultrakill | 124333 | [124333-ultrakill.json](./124333-ultrakill.json) |
+| Ultraman | 131387 | [131387-ultraman.json](./131387-ultraman.json) |
 | Ultraman | 373643 | [373643-ultraman.json](./373643-ultraman.json) |
 | Ultraman | 42579 | [42579-ultraman.json](./42579-ultraman.json) |
 | Ultraman 2: Shutsugeki Katoku Tai | 41323 | [41323-ultraman-2-shutsugeki-katoku-tai.json](./41323-ultraman-2-shutsugeki-katoku-tai.json) |
@@ -914,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Rhythm Puzzle Game | 143011 | [143011-untitled-rhythm-puzzle-game.json](./143011-untitled-rhythm-puzzle-game.json) |
 | Untitled Space Game | 153441 | [153441-untitled-space-game.json](./153441-untitled-space-game.json) |
 | Untitled Tomb Runner | 361743 | [361743-untitled-tomb-runner.json](./361743-untitled-tomb-runner.json) |
+| Untitled Vlambeer Game | 131396 | [131396-untitled-vlambeer-game.json](./131396-untitled-vlambeer-game.json) |
 | Untitled Zombie Game | 291039 | [291039-untitled-zombie-game.json](./291039-untitled-zombie-game.json) |
 | Untitled: The flower game | 181899 | [181899-untitled-the-flower-game.json](./181899-untitled-the-flower-game.json) |
 | Unto the Aurora | 344999 | [344999-unto-the-aurora.json](./344999-unto-the-aurora.json) |
