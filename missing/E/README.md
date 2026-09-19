@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ego Effect | 174842 | [174842-ego-effect.json](./174842-ego-effect.json) |
 | Ego Holic | 225297 | [225297-ego-holic.json](./225297-ego-holic.json) |
 | Egoboo | 47298 | [47298-egoboo.json](./47298-egoboo.json) |
+| Egregore | 139230 | [139230-egregore.json](./139230-egregore.json) |
 | Egregore | 310046 | [310046-egregore.json](./310046-egregore.json) |
 | Egress Protocol | 375856 | [375856-egress-protocol.json](./375856-egress-protocol.json) |
 | Egret II Mini: Arcade Memories Vol. II | 265645 | [265645-egret-ii-mini-arcade-memories-vol-ii.json](./265645-egret-ii-mini-arcade-memories-vol-ii.json) |
@@ -2413,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Match | 105861 | [105861-extreme-match.json](./105861-extreme-match.json) |
 | Extreme Offroad Racing | 320540 | [320540-extreme-offroad-racing.json](./320540-extreme-offroad-racing.json) |
 | Extreme Overtake | 323528 | [323528-extreme-overtake.json](./323528-extreme-overtake.json) |
+| Extreme Pamplona | 139232 | [139232-extreme-pamplona.json](./139232-extreme-pamplona.json) |
 | Extreme Power Soccer | 247043 | [247043-extreme-power-soccer.json](./247043-extreme-power-soccer.json) |
 | Extreme QTE | 151747 | [151747-extreme-qte.json](./151747-extreme-qte.json) |
 | Extreme Rally Raid | 278523 | [278523-extreme-rally-raid.json](./278523-extreme-rally-raid.json) |
