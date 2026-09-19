@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Is This Sorcery | 328451 | [328451-what-is-this-sorcery.json](./328451-what-is-this-sorcery.json) |
 | What Lies Beneath | 269684 | [269684-what-lies-beneath.json](./269684-what-lies-beneath.json) |
 | What Lies Between | 199118 | [199118-what-lies-between.json](./199118-what-lies-between.json) |
+| What Lives Below | 143490 | [143490-what-lives-below.json](./143490-what-lives-below.json) |
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
 | What Now? | 183534 | [183534-what-now.json](./183534-what-now.json) |
 | What on Earth? | 406778 | [406778-what-on-earth.json](./406778-what-on-earth.json) |
@@ -2346,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Dai-star: Yume no Stellarium | 258691 | [258691-world-dai-star-yume-no-stellarium.json](./258691-world-dai-star-yume-no-stellarium.json) |
 | World Darts | 12873 | [12873-world-darts.json](./12873-world-darts.json) |
 | World Destruction League: Thunder Tanks | 49873 | [49873-world-destruction-league-thunder-tanks.json](./49873-world-destruction-league-thunder-tanks.json) |
+| World Election | 143515 | [143515-world-election.json](./143515-world-election.json) |
 | World Empire IV | 73753 | [73753-world-empire-iv.json](./73753-world-empire-iv.json) |
 | World End | 40746 | [40746-world-end.json](./40746-world-end.json) |
 | World Ends Wednesday | 264144 | [264144-world-ends-wednesday.json](./264144-world-ends-wednesday.json) |
