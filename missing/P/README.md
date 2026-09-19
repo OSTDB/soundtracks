@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pair Up | 359395 | [359395-pair-up.json](./359395-pair-up.json) |
 | Pairs | 91372 | [91372-pairs.json](./91372-pairs.json) |
 | Paisible Après-midi au Fil des Toiles | 178023 | [178023-paisible-apres-midi-au-fil-des-toiles.json](./178023-paisible-apres-midi-au-fil-des-toiles.json) |
+| Paisible Soirée au Fil d'Étoiles | 178514 | [178514-paisible-soiree-au-fil-detoiles.json](./178514-paisible-soiree-au-fil-detoiles.json) |
 | Paitan Small Town | 159804 | [159804-paitan-small-town.json](./159804-paitan-small-town.json) |
 | Paiteo: Yeongung-eul Gidalimyeo | 98430 | [98430-paiteo-yeongung-eul-gidalimyeo.json](./98430-paiteo-yeongung-eul-gidalimyeo.json) |
 | Pakku Pony | 374671 | [374671-pakku-pony.json](./374671-pakku-pony.json) |
@@ -3977,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prin-quest | 364489 | [364489-prin-quest.json](./364489-prin-quest.json) |
 | Prince & Excalibur | 174309 | [174309-prince-and-excalibur.json](./174309-prince-and-excalibur.json) |
 | Prince Akazaka x Princess | 220653 | [220653-prince-akazaka-x-princess.json](./220653-prince-akazaka-x-princess.json) |
+| Prince Charmless | 178542 | [178542-prince-charmless.json](./178542-prince-charmless.json) |
 | Prince Maker-Braveness | 254544 | [254544-prince-maker-braveness.json](./254544-prince-maker-braveness.json) |
 | Prince of Darkness Jr. | 371973 | [371973-prince-of-darkness-jr.json](./371973-prince-of-darkness-jr.json) |
 | Prince of Egypt | 404332 | [404332-prince-of-egypt.json](./404332-prince-of-egypt.json) |
