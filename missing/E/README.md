@@ -1310,9 +1310,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Racers | 198460 | [198460-epic-racers.json](./198460-epic-racers.json) |
 | Epic Racers | 233642 | [233642-epic-racers.json](./233642-epic-racers.json) |
 | Epic Roller Coasters: Antarctica | 255133 | [255133-epic-roller-coasters-antarctica.json](./255133-epic-roller-coasters-antarctica.json) |
+| Epic Roller Coasters: Armageddon | 166647 | [166647-epic-roller-coasters-armageddon.json](./166647-epic-roller-coasters-armageddon.json) |
 | Epic Roller Coasters: Candyland | 243695 | [243695-epic-roller-coasters-candyland.json](./243695-epic-roller-coasters-candyland.json) |
 | Epic Roller Coasters: Dynasty Dash | 310053 | [310053-epic-roller-coasters-dynasty-dash.json](./310053-epic-roller-coasters-dynasty-dash.json) |
+| Epic Roller Coasters: Great Canyon | 166642 | [166642-epic-roller-coasters-great-canyon.json](./166642-epic-roller-coasters-great-canyon.json) |
+| Epic Roller Coasters: Haunted Castle | 166645 | [166645-epic-roller-coasters-haunted-castle.json](./166645-epic-roller-coasters-haunted-castle.json) |
 | Epic Roller Coasters: Kelimutu | 253960 | [253960-epic-roller-coasters-kelimutu.json](./253960-epic-roller-coasters-kelimutu.json) |
+| Epic Roller Coasters: Neon Rider | 166648 | [166648-epic-roller-coasters-neon-rider.json](./166648-epic-roller-coasters-neon-rider.json) |
+| Epic Roller Coasters: Snow Land | 166643 | [166643-epic-roller-coasters-snow-land.json](./166643-epic-roller-coasters-snow-land.json) |
+| Epic Roller Coasters: T-Rex Kingdom | 166646 | [166646-epic-roller-coasters-t-rex-kingdom.json](./166646-epic-roller-coasters-t-rex-kingdom.json) |
+| Epic Roller Coasters: Tuwhena Volcano | 166641 | [166641-epic-roller-coasters-tuwhena-volcano.json](./166641-epic-roller-coasters-tuwhena-volcano.json) |
+| Epic Roller Coasters: Wyvern Siege | 166644 | [166644-epic-roller-coasters-wyvern-siege.json](./166644-epic-roller-coasters-wyvern-siege.json) |
 | Epic Sax Game | 414339 | [414339-epic-sax-game.json](./414339-epic-sax-game.json) |
 | Epic Showdown | 34365 | [34365-epic-showdown.json](./34365-epic-showdown.json) |
 | Epic Skater | 70999 | [70999-epic-skater.json](./70999-epic-skater.json) |
@@ -1752,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Troops | 399083 | [399083-eternal-troops.json](./399083-eternal-troops.json) |
 | Eternal Vampire | 336640 | [336640-eternal-vampire.json](./336640-eternal-vampire.json) |
 | Eternal Vault | 286083 | [286083-eternal-vault.json](./286083-eternal-vault.json) |
+| Eternal Warfare | 166617 | [166617-eternal-warfare.json](./166617-eternal-warfare.json) |
 | Eternal Wheel | 64961 | [64961-eternal-wheel.json](./64961-eternal-wheel.json) |
 | Eternally Us | 123002 | [123002-eternally-us.json](./123002-eternally-us.json) |
 | Eternally Yours | 261545 | [261545-eternally-yours.json](./261545-eternally-yours.json) |
@@ -2395,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eyEar | 181390 | [181390-eyear.json](./181390-eyear.json) |
 | Eyeb | 149044 | [149044-eyeb.json](./149044-eyeb.json) |
 | Eyeball Master | 195272 | [195272-eyeball-master.json](./195272-eyeball-master.json) |
+| Eyeballs are your Enemies! | 166603 | [166603-eyeballs-are-your-enemies.json](./166603-eyeballs-are-your-enemies.json) |
 | Eyeboss | 181906 | [181906-eyeboss.json](./181906-eyeboss.json) |
 | Eyeless | 269310 | [269310-eyeless.json](./269310-eyeless.json) |
 | Eyeless Jack | 300016 | [300016-eyeless-jack.json](./300016-eyeless-jack.json) |
