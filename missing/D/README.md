@@ -4268,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Is Dead | 289444 | [289444-dragon-is-dead.json](./289444-dragon-is-dead.json) |
 | Dragon Island | 220212 | [220212-dragon-island.json](./220212-dragon-island.json) |
 | Dragon Island Blue | 96061 | [96061-dragon-island-blue.json](./96061-dragon-island-blue.json) |
+| Dragon Joust | 142843 | [142843-dragon-joust.json](./142843-dragon-joust.json) |
 | Dragon Jump | 348264 | [348264-dragon-jump.json](./348264-dragon-jump.json) |
 | Dragon Jumpers | 382228 | [382228-dragon-jumpers.json](./382228-dragon-jumpers.json) |
 | Dragon Keeper 2 | 356182 | [356182-dragon-keeper-2.json](./356182-dragon-keeper-2.json) |
@@ -5008,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Life 4 | 210660 | [210660-duck-life-4.json](./210660-duck-life-4.json) |
 | Duck Maze | 378193 | [378193-duck-maze.json](./378193-duck-maze.json) |
 | Duck on the Run | 174349 | [174349-duck-on-the-run.json](./174349-duck-on-the-run.json) |
+| Duck Race | 142875 | [142875-duck-race.json](./142875-duck-race.json) |
 | Duck Run | 309375 | [309375-duck-run.json](./309375-duck-run.json) |
 | Duck Run | 87570 | [87570-duck-run.json](./87570-duck-run.json) |
 | Duck Shoot | 385597 | [385597-duck-shoot.json](./385597-duck-shoot.json) |
