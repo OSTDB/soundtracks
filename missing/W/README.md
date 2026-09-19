@@ -2392,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Buh | 216821 | [216821-world-of-buh.json](./216821-world-of-buh.json) |
 | World of Claudecraft | 408050 | [408050-world-of-claudecraft.json](./408050-world-of-claudecraft.json) |
 | World of Conquerors: Origins | 126602 | [126602-world-of-conquerors-origins.json](./126602-world-of-conquerors-origins.json) |
+| World of Contraptions | 138027 | [138027-world-of-contraptions.json](./138027-world-of-contraptions.json) |
 | World of Cube | 204104 | [204104-world-of-cube.json](./204104-world-of-cube.json) |
 | World of Cubes Survival Craft | 89187 | [89187-world-of-cubes-survival-craft.json](./89187-world-of-cubes-survival-craft.json) |
 | World of Dark | 283864 | [283864-world-of-dark.json](./283864-world-of-dark.json) |
