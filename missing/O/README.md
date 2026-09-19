@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okunoka Madness | 136462 | [136462-okunoka-madness.json](./136462-okunoka-madness.json) |
 | Okuplok Slaughter Map | 144389 | [144389-okuplok-slaughter-map.json](./144389-okuplok-slaughter-map.json) |
 | Okuri | 286131 | [286131-okuri.json](./286131-okuri.json) |
+| Olav & the Lute | 131996 | [131996-olav-and-the-lute.json](./131996-olav-and-the-lute.json) |
 | Olber's Paradox | 392816 | [392816-olbers-paradox.json](./392816-olbers-paradox.json) |
 | Old Edge I | 117706 | [117706-old-edge-i.json](./117706-old-edge-i.json) |
 | Old Friend | 30092 | [30092-old-friend.json](./30092-old-friend.json) |
