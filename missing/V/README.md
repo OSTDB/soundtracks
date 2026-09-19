@@ -1197,6 +1197,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR0GU3 | 33151 | [33151-vr0gu3.json](./33151-vr0gu3.json) |
 | VRAdventure | 124156 | [124156-vradventure.json](./124156-vradventure.json) |
 | Vranygrai | 235766 | [235766-vranygrai.json](./235766-vranygrai.json) |
+| VRC Pro: Deluxe Cars | 162249 | [162249-vrc-pro-deluxe-cars.json](./162249-vrc-pro-deluxe-cars.json) |
+| VRC Pro: GT3 Chassis and Components | 162250 | [162250-vrc-pro-gt3-chassis-and-components.json](./162250-vrc-pro-gt3-chassis-and-components.json) |
+| VRC Pro: Rally-X | 162251 | [162251-vrc-pro-rally-x.json](./162251-vrc-pro-rally-x.json) |
 | VReakout | 33150 | [33150-vreakout.json](./33150-vreakout.json) |
 | Vremya-Dyengi | 88275 | [88275-vremya-dyengi.json](./88275-vremya-dyengi.json) |
 | VRetired | 111702 | [111702-vretired.json](./111702-vretired.json) |
