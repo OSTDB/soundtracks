@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 08: Pucchin Puzzle | 137678 | [137678-g-mode-archives-08-pucchin-puzzle.json](./137678-g-mode-archives-08-pucchin-puzzle.json) |
 | G-Mode Archives 09: Flyhight Cloudia II | 137593 | [137593-g-mode-archives-09-flyhight-cloudia-ii.json](./137593-g-mode-archives-09-flyhight-cloudia-ii.json) |
 | G-Mode Archives 17: Flyhight Cloudia III | 170501 | [170501-g-mode-archives-17-flyhight-cloudia-iii.json](./170501-g-mode-archives-17-flyhight-cloudia-iii.json) |
+| G-Mode Archives 19: Magical Drop DX | 166078 | [166078-g-mode-archives-19-magical-drop-dx.json](./166078-g-mode-archives-19-magical-drop-dx.json) |
 | G-Mode Archives 43: Izumi Jiken File Vol. 3 - Yujuku-hen | 221732 | [221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json](./221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json) |
 | G-Mode Archives 44: Dragon x Dragon | 241041 | [241041-g-mode-archives-44-dragon-x-dragon.json](./241041-g-mode-archives-44-dragon-x-dragon.json) |
 | G-Mode Archives 56: Mystia3 | 381724 | [381724-g-mode-archives-56-mystia3.json](./381724-g-mode-archives-56-mystia3.json) |
@@ -2228,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
 | Grandma's Guide to the Grand Outside | 415110 | [415110-grandmas-guide-to-the-grand-outside.json](./415110-grandmas-guide-to-the-grand-outside.json) |
 | Grandma(88) | 260251 | [260251-grandma-88.json](./260251-grandma-88.json) |
+| Grandmaster Chess | 166075 | [166075-grandmaster-chess.json](./166075-grandmaster-chess.json) |
 | Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
 | Grandpa Rally | 255730 | [255730-grandpa-rally.json](./255730-grandpa-rally.json) |
 | Grandslam: The Tennis Tournament | 81410 | [81410-grandslam-the-tennis-tournament.json](./81410-grandslam-the-tennis-tournament.json) |
