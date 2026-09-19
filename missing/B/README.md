@@ -1799,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind You | 34572 | [34572-behind-you.json](./34572-behind-you.json) |
 | Behoarder | 184617 | [184617-behoarder.json](./184617-behoarder.json) |
 | Behold the Kickmen | 26188 | [26188-behold-the-kickmen.json](./26188-behold-the-kickmen.json) |
+| Beholder 2: Big Brother Edition | 146131 | [146131-beholder-2-big-brother-edition.json](./146131-beholder-2-big-brother-edition.json) |
 | Beholder: Conductor | 298041 | [298041-beholder-conductor.json](./298041-beholder-conductor.json) |
 | Beholgar | 142421 | [142421-beholgar.json](./142421-beholgar.json) |
 | Beholgar: Collector's Edition | 228739 | [228739-beholgar-collectors-edition.json](./228739-beholgar-collectors-edition.json) |
@@ -3598,7 +3599,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku no Natsuyasumi 3: Kitaguni-hen - Chiisana Boku no Dai Sougen | 7379 | [7379-boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen.json](./7379-boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen.json) |
 | Boku no Saiai no | 322009 | [322009-boku-no-saiai-no.json](./322009-boku-no-saiai-no.json) |
 | Boku no Soushiki ni Youkoso: Happy Rebirthday | 335700 | [335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json](./335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json) |
+| Boku to Joi no Shinsatsu Nisshi [Nurse Enjoy Pack] | 146110 | [146110-boku-to-joi-no-shinsatsu-nisshi-nurse-enjoy-pack.json](./146110-boku-to-joi-no-shinsatsu-nisshi-nurse-enjoy-pack.json) |
+| Boku to Joi no Shinsatsu Nisshi: Premium Edition | 146113 | [146113-boku-to-joi-no-shinsatsu-nisshi-premium-edition.json](./146113-boku-to-joi-no-shinsatsu-nisshi-premium-edition.json) |
 | Boku to Kare no Kiken na Doukyo Seikatsu | 203875 | [203875-boku-to-kare-no-kiken-na-doukyo-seikatsu.json](./203875-boku-to-kare-no-kiken-na-doukyo-seikatsu.json) |
+| Boku to Nurse no Kenshuu Nisshi: Premium Edition | 146119 | [146119-boku-to-nurse-no-kenshuu-nisshi-premium-edition.json](./146119-boku-to-nurse-no-kenshuu-nisshi-premium-edition.json) |
 | Boku to Wanko | 58819 | [58819-boku-to-wanko.json](./58819-boku-to-wanko.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D - Kankuu All Stars | 222426 | [222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json](./222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D Haneda with JAL | 78708 | [78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json](./78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json) |
