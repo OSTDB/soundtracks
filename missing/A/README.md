@@ -705,6 +705,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Style | 79884 | [79884-aero-style.json](./79884-aero-style.json) |
 | Aerobat | 18199 | [18199-aerobat.json](./18199-aerobat.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
+| Aerofly FS 2 Flight Simulator: Orbx - Eagle County Colorado | 167724 | [167724-aerofly-fs-2-flight-simulator-orbx-eagle-county-colorado.json](./167724-aerofly-fs-2-flight-simulator-orbx-eagle-county-colorado.json) |
+| Aerofly FS 2 Flight Simulator: Orbx - Monterey Regional Airport | 167720 | [167720-aerofly-fs-2-flight-simulator-orbx-monterey-regional-airport.json](./167720-aerofly-fs-2-flight-simulator-orbx-monterey-regional-airport.json) |
+| Aerofly FS 2 Flight Simulator: Switzerland | 167721 | [167721-aerofly-fs-2-flight-simulator-switzerland.json](./167721-aerofly-fs-2-flight-simulator-switzerland.json) |
+| Aerofly FS 2 Flight Simulator: USA Colorado | 167723 | [167723-aerofly-fs-2-flight-simulator-usa-colorado.json](./167723-aerofly-fs-2-flight-simulator-usa-colorado.json) |
+| Aerofly FS 2 Flight Simulator: USA South Florida | 167722 | [167722-aerofly-fs-2-flight-simulator-usa-south-florida.json](./167722-aerofly-fs-2-flight-simulator-usa-south-florida.json) |
+| Aerofly FS 2 Flight Simulator: USA Utah | 167719 | [167719-aerofly-fs-2-flight-simulator-usa-utah.json](./167719-aerofly-fs-2-flight-simulator-usa-utah.json) |
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
 | Aeronaut | 178522 | [178522-aeronaut.json](./178522-aeronaut.json) |
@@ -1887,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator 2018 | 86722 | [86722-american-truck-simulator-2018.json](./86722-american-truck-simulator-2018.json) |
 | American Truck Simulator 2022 | 197844 | [197844-american-truck-simulator-2022.json](./197844-american-truck-simulator-2022.json) |
 | American Truck Simulator: Christmas Paint Jobs Pack | 353403 | [353403-american-truck-simulator-christmas-paint-jobs-pack.json](./353403-american-truck-simulator-christmas-paint-jobs-pack.json) |
+| American Truck Simulator: Colorado | 167679 | [167679-american-truck-simulator-colorado.json](./167679-american-truck-simulator-colorado.json) |
 | American Truck Simulator: Dragon Truck Design Pack | 263050 | [263050-american-truck-simulator-dragon-truck-design-pack.json](./263050-american-truck-simulator-dragon-truck-design-pack.json) |
 | American Truck Simulator: Farm Machinery | 278555 | [278555-american-truck-simulator-farm-machinery.json](./278555-american-truck-simulator-farm-machinery.json) |
 | American Truck Simulator: Freightliner Cascadia (The Fifth Generation) | 353410 | [353410-american-truck-simulator-freightliner-cascadia-the-fifth-generation.json](./353410-american-truck-simulator-freightliner-cascadia-the-fifth-generation.json) |
@@ -1901,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Space Paint Jobs Pack | 353400 | [353400-american-truck-simulator-space-paint-jobs-pack.json](./353400-american-truck-simulator-space-paint-jobs-pack.json) |
 | American Truck Simulator: Special Transport | 268771 | [268771-american-truck-simulator-special-transport.json](./268771-american-truck-simulator-special-transport.json) |
 | American Truck Simulator: Sports Paint Jobs Pack | 311103 | [311103-american-truck-simulator-sports-paint-jobs-pack.json](./311103-american-truck-simulator-sports-paint-jobs-pack.json) |
+| American Truck Simulator: Texas | 167678 | [167678-american-truck-simulator-texas.json](./167678-american-truck-simulator-texas.json) |
 | American Truck Simulator: Utah | 120325 | [120325-american-truck-simulator-utah.json](./120325-american-truck-simulator-utah.json) |
 | American Truck Simulator: Valentine's Paint Jobs Pack | 353396 | [353396-american-truck-simulator-valentines-paint-jobs-pack.json](./353396-american-truck-simulator-valentines-paint-jobs-pack.json) |
 | American Truck Simulator: Volvo Construction Equipment | 353404 | [353404-american-truck-simulator-volvo-construction-equipment.json](./353404-american-truck-simulator-volvo-construction-equipment.json) |
@@ -2084,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Russian Life Simulator | 278177 | [278177-ancient-russian-life-simulator.json](./278177-ancient-russian-life-simulator.json) |
 | Ancient Sacrifice | 236297 | [236297-ancient-sacrifice.json](./236297-ancient-sacrifice.json) |
 | Ancient Shadows: Awakening | 351121 | [351121-ancient-shadows-awakening.json](./351121-ancient-shadows-awakening.json) |
+| Ancient Souls Tamag | 167676 | [167676-ancient-souls-tamag.json](./167676-ancient-souls-tamag.json) |
 | Ancient Stars | 277014 | [277014-ancient-stars.json](./277014-ancient-stars.json) |
 | Ancient Stories: Gods of Egypt | 119684 | [119684-ancient-stories-gods-of-egypt.json](./119684-ancient-stories-gods-of-egypt.json) |
 | Ancient Swarm | 410345 | [410345-ancient-swarm.json](./410345-ancient-swarm.json) |
