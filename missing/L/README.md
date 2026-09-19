@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Norrath | 51219 | [51219-legends-of-norrath.json](./51219-legends-of-norrath.json) |
 | Legends of Oz: Dorothy's Return | 57055 | [57055-legends-of-oz-dorothys-return.json](./57055-legends-of-oz-dorothys-return.json) |
 | Legends of Seven Seas | 221406 | [221406-legends-of-seven-seas.json](./221406-legends-of-seven-seas.json) |
+| Legends of Snooker: One Shot | 170937 | [170937-legends-of-snooker-one-shot.json](./170937-legends-of-snooker-one-shot.json) |
 | Legends of Solitaire: Curse of the Dragons | 34532 | [34532-legends-of-solitaire-curse-of-the-dragons.json](./34532-legends-of-solitaire-curse-of-the-dragons.json) |
 | Legends of the Jedi | 228697 | [228697-legends-of-the-jedi.json](./228697-legends-of-the-jedi.json) |
 | Legends of the Mist | 201863 | [201863-legends-of-the-mist.json](./201863-legends-of-the-mist.json) |
@@ -2099,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lokapala | 224018 | [224018-lokapala.json](./224018-lokapala.json) |
 | Loki the Lynx | 364499 | [364499-loki-the-lynx.json](./364499-loki-the-lynx.json) |
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
+| Lola: The Escape | 170930 | [170930-lola-the-escape.json](./170930-lola-the-escape.json) |
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
 | Lolita 2 | 66128 | [66128-lolita-2.json](./66128-lolita-2.json) |
 | Lollipop! | 159882 | [159882-lollipop.json](./159882-lollipop.json) |
