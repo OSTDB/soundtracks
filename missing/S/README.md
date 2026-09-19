@@ -9322,6 +9322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Anime Puzzles 2 | 155615 | [155615-super-jigsaw-puzzle-generations-anime-puzzles-2.json](./155615-super-jigsaw-puzzle-generations-anime-puzzles-2.json) |
 | Super Jigsaw Puzzle: Generations - Anime Puzzles 3 | 155579 | [155579-super-jigsaw-puzzle-generations-anime-puzzles-3.json](./155579-super-jigsaw-puzzle-generations-anime-puzzles-3.json) |
 | Super Jigsaw Puzzle: Generations - Australia Puzzles | 155612 | [155612-super-jigsaw-puzzle-generations-australia-puzzles.json](./155612-super-jigsaw-puzzle-generations-australia-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Autumn 2021 | 166637 | [166637-super-jigsaw-puzzle-generations-autumn-2021.json](./166637-super-jigsaw-puzzle-generations-autumn-2021.json) |
 | Super Jigsaw Puzzle: Generations - Autumn Puzzles | 155601 | [155601-super-jigsaw-puzzle-generations-autumn-puzzles.json](./155601-super-jigsaw-puzzle-generations-autumn-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Baby Animals | 155582 | [155582-super-jigsaw-puzzle-generations-baby-animals.json](./155582-super-jigsaw-puzzle-generations-baby-animals.json) |
 | Super Jigsaw Puzzle: Generations - Baby Animals 2 | 263751 | [263751-super-jigsaw-puzzle-generations-baby-animals-2.json](./263751-super-jigsaw-puzzle-generations-baby-animals-2.json) |
