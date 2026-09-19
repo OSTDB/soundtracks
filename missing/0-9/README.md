@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 60 Clicks: Read, Select, Connected Worlds | 259054 | [259054-60-clicks-read-select-connected-worlds.json](./259054-60-clicks-read-select-connected-worlds.json) |
 | 60 Minute Marathon 2 | 314628 | [314628-60-minute-marathon-2.json](./314628-60-minute-marathon-2.json) |
 | 60 Second Game Challenge | 262068 | [262068-60-second-game-challenge.json](./262068-60-second-game-challenge.json) |
+| 60 Seconds Hero | 174723 | [174723-60-seconds-hero.json](./174723-60-seconds-hero.json) |
 | 600 | 249254 | [249254-600.json](./249254-600.json) |
 | 6180 The Moon | 11435 | [11435-6180-the-moon.json](./11435-6180-the-moon.json) |
 | 63 Days: The Home Army Edition | 323899 | [323899-63-days-the-home-army-edition.json](./323899-63-days-the-home-army-edition.json) |
