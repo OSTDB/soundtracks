@@ -3797,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Companion of Darkness | 342630 | [342630-companion-of-darkness.json](./342630-companion-of-darkness.json) |
 | Company is Watching | 401498 | [401498-company-is-watching.json](./401498-company-is-watching.json) |
 | Company of Heroes | 654 | [654-company-of-heroes.json](./654-company-of-heroes.json) |
+| Company of Heroes 2: All Out War Edition | 139845 | [139845-company-of-heroes-2-all-out-war-edition.json](./139845-company-of-heroes-2-all-out-war-edition.json) |
 | Company of Heroes 2: Complete Collection | 145682 | [145682-company-of-heroes-2-complete-collection.json](./145682-company-of-heroes-2-complete-collection.json) |
 | Company of Heroes 2: German Commander - Spearhead Doctrine | 168294 | [168294-company-of-heroes-2-german-commander-spearhead-doctrine.json](./168294-company-of-heroes-2-german-commander-spearhead-doctrine.json) |
 | Company of Heroes 2: Soviet Commander - Partisan Tactics | 168291 | [168291-company-of-heroes-2-soviet-commander-partisan-tactics.json](./168291-company-of-heroes-2-soviet-commander-partisan-tactics.json) |
@@ -4170,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking with Bebo | 105931 | [105931-cooking-with-bebo.json](./105931-cooking-with-bebo.json) |
 | Cooking with Cat | 180310 | [180310-cooking-with-cat.json](./180310-cooking-with-cat.json) |
 | Cooking With Cthulhu | 176449 | [176449-cooking-with-cthulhu.json](./176449-cooking-with-cthulhu.json) |
+| Cooking, for lovers | 139814 | [139814-cooking-for-lovers.json](./139814-cooking-for-lovers.json) |
 | Cool Brick Breaker | 235239 | [235239-cool-brick-breaker.json](./235239-cool-brick-breaker.json) |
 | Cool Cats | 174909 | [174909-cool-cats.json](./174909-cool-cats.json) |
 | Cool Cool Jam | 43967 | [43967-cool-cool-jam.json](./43967-cool-cool-jam.json) |
