@@ -54,12 +54,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Parking Collection | 328462 | [328462-vacation-parking-collection.json](./328462-vacation-parking-collection.json) |
 | Vacation Quest: The Hawaiian Islands | 61674 | [61674-vacation-quest-the-hawaiian-islands.json](./61674-vacation-quest-the-hawaiian-islands.json) |
 | Vacation Tycoon | 265651 | [265651-vacation-tycoon.json](./265651-vacation-tycoon.json) |
+| Vacation: DayOff | 160258 | [160258-vacation-dayoff.json](./160258-vacation-dayoff.json) |
 | Vaccine Case | 237959 | [237959-vaccine-case.json](./237959-vaccine-case.json) |
 | Vaccine Delivery Simulator | 164883 | [164883-vaccine-delivery-simulator.json](./164883-vaccine-delivery-simulator.json) |
 | Vaccine Hunter | 144355 | [144355-vaccine-hunter.json](./144355-vaccine-hunter.json) |
 | Vaccine Rebirth | 236842 | [236842-vaccine-rebirth.json](./236842-vaccine-rebirth.json) |
 | Vacuum Ball | 192820 | [192820-vacuum-ball.json](./192820-vacuum-ball.json) |
 | Vacuum Cleaner Robot Simulator: Pile Sos Edition | 369591 | [369591-vacuum-cleaner-robot-simulator-pile-sos-edition.json](./369591-vacuum-cleaner-robot-simulator-pile-sos-edition.json) |
+| Vacuum Pilot | 160254 | [160254-vacuum-pilot.json](./160254-vacuum-pilot.json) |
 | Vacuum Story | 204537 | [204537-vacuum-story.json](./204537-vacuum-story.json) |
 | Vade Retro: Exorcist | 216492 | [216492-vade-retro-exorcist.json](./216492-vade-retro-exorcist.json) |
 | Vader Immortal: A Star Wars VR Series | 125987 | [125987-vader-immortal-a-star-wars-vr-series.json](./125987-vader-immortal-a-star-wars-vr-series.json) |
@@ -835,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus 91 | 279092 | [279092-virus-91.json](./279092-virus-91.json) |
 | VIrus Killer | 186834 | [186834-virus-killer.json](./186834-virus-killer.json) |
 | Virus Madness: Dungeons of your Body | 161373 | [161373-virus-madness-dungeons-of-your-body.json](./161373-virus-madness-dungeons-of-your-body.json) |
+| Virus ON | 160251 | [160251-virus-on.json](./160251-virus-on.json) |
 | Virus Protocol | 211779 | [211779-virus-protocol.json](./211779-virus-protocol.json) |
 | Virus Remedium | 216858 | [216858-virus-remedium.json](./216858-virus-remedium.json) |
 | Virus: The Battle Field | 177034 | [177034-virus-the-battle-field.json](./177034-virus-the-battle-field.json) |
@@ -856,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visit Bloofpiter Today | 302510 | [302510-visit-bloofpiter-today.json](./302510-visit-bloofpiter-today.json) |
 | Visit Once | 147469 | [147469-visit-once.json](./147469-visit-once.json) |
 | Visitations | 156610 | [156610-visitations.json](./156610-visitations.json) |
+| Visiting a Celebrity | 160220 | [160220-visiting-a-celebrity.json](./160220-visiting-a-celebrity.json) |
 | Visitor | 177557 | [177557-visitor.json](./177557-visitor.json) |
 | Visitor 2 | 117696 | [117696-visitor-2.json](./117696-visitor-2.json) |
 | VISK | 248914 | [248914-visk.json](./248914-visk.json) |
@@ -1159,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Pianist | 152878 | [152878-vr-pianist.json](./152878-vr-pianist.json) |
 | VR PingPong Sweetie | 384518 | [384518-vr-pingpong-sweetie.json](./384518-vr-pingpong-sweetie.json) |
 | VR Plane Crash | 156676 | [156676-vr-plane-crash.json](./156676-vr-plane-crash.json) |
+| VR Rescue of Girls | 160253 | [160253-vr-rescue-of-girls.json](./160253-vr-rescue-of-girls.json) |
 | VR Retro Snake on Girls | 163292 | [163292-vr-retro-snake-on-girls.json](./163292-vr-retro-snake-on-girls.json) |
 | VR Roller Coaster at Global Wonders | 166195 | [166195-vr-roller-coaster-at-global-wonders.json](./166195-vr-roller-coaster-at-global-wonders.json) |
 | VR Run | 224546 | [224546-vr-run.json](./224546-vr-run.json) |
