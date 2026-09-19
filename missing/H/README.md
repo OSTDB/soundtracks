@@ -1144,6 +1144,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hedrox | 274179 | [274179-hedrox.json](./274179-hedrox.json) |
 | Hedrox 2 | 274180 | [274180-hedrox-2.json](./274180-hedrox-2.json) |
 | Heed | 169984 | [169984-heed.json](./169984-heed.json) |
+| Hegemony III: Isle of Giants | 142896 | [142896-hegemony-iii-isle-of-giants.json](./142896-hegemony-iii-isle-of-giants.json) |
+| Hegemony III: The Eagle King | 142895 | [142895-hegemony-iii-the-eagle-king.json](./142895-hegemony-iii-the-eagle-king.json) |
 | Hegemony Rome: The Rise of Caesar - Bannermen Pack | 265250 | [265250-hegemony-rome-the-rise-of-caesar-bannermen-pack.json](./265250-hegemony-rome-the-rise-of-caesar-bannermen-pack.json) |
 | Hegzis | 336370 | [336370-hegzis.json](./336370-hegzis.json) |
 | Hēi'àn Liàolǐ | 111705 | [111705-heian-liaoli.json](./111705-heian-liaoli.json) |
