@@ -3498,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sitri: Shadow Walk | 225092 | [225092-sitri-shadow-walk.json](./225092-sitri-shadow-walk.json) |
 | Sitting Ducks | 210727 | [210727-sitting-ducks.json](./210727-sitting-ducks.json) |
 | Situation Outbreak | 91456 | [91456-situation-outbreak.json](./91456-situation-outbreak.json) |
+| SituationCovid | 149416 | [149416-situationcovid.json](./149416-situationcovid.json) |
 | Sity | 202332 | [202332-sity.json](./202332-sity.json) |
 | SiviCity | 25608 | [25608-sivicity.json](./25608-sivicity.json) |
 | Six | 60012 | [60012-six.json](./60012-six.json) |
@@ -6288,6 +6289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Specter Spelunker Resizes | 283736 | [283736-specter-spelunker-resizes.json](./283736-specter-spelunker-resizes.json) |
 | Spectra: Beneath the Stain | 416637 | [416637-spectra-beneath-the-stain.json](./416637-spectra-beneath-the-stain.json) |
 | Spectraball: Extended Edition | 9069 | [9069-spectraball-extended-edition.json](./9069-spectraball-extended-edition.json) |
+| Spectral | 149411 | [149411-spectral.json](./149411-spectral.json) |
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
 | Spectral Force 3 | 21339 | [21339-spectral-force-3.json](./21339-spectral-force-3.json) |
 | Spectral Invaders | 45311 | [45311-spectral-invaders.json](./45311-spectral-invaders.json) |
@@ -8926,6 +8928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suero Zeus | 272912 | [272912-suero-zeus.json](./272912-suero-zeus.json) |
 | Suez Canal Bulldozer | 181865 | [181865-suez-canal-bulldozer.json](./181865-suez-canal-bulldozer.json) |
 | Suez Canal Girl | 368042 | [368042-suez-canal-girl.json](./368042-suez-canal-girl.json) |
+| Suez Canal Simulator | 149409 | [149409-suez-canal-simulator.json](./149409-suez-canal-simulator.json) |
 | Suffer | 110650 | [110650-suffer.json](./110650-suffer.json) |
 | SUGA: Survival Game | 376470 | [376470-suga-survival-game.json](./376470-suga-survival-game.json) |
 | Sugamenia | 296502 | [296502-sugamenia.json](./296502-sugamenia.json) |
