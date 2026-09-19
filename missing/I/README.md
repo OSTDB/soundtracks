@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Strash: Dragon Quest - The Adventure of Dai | 137928 | [137928-infinity-strash-dragon-quest-the-adventure-of-dai.json](./137928-infinity-strash-dragon-quest-the-adventure-of-dai.json) |
 | Infinity Tower | 357845 | [357845-infinity-tower.json](./357845-infinity-tower.json) |
 | Infinity war | 167816 | [167816-infinity-war.json](./167816-infinity-war.json) |
+| Infinity Wars 2 | 128386 | [128386-infinity-wars-2.json](./128386-infinity-wars-2.json) |
 | Infinity Wars: Animated Trading Card Game | 16732 | [16732-infinity-wars-animated-trading-card-game.json](./16732-infinity-wars-animated-trading-card-game.json) |
 | Infinity: Battlescape | 26990 | [26990-infinity-battlescape.json](./26990-infinity-battlescape.json) |
 | Infinity: HexaDome Tactics | 275699 | [275699-infinity-hexadome-tactics.json](./275699-infinity-hexadome-tactics.json) |
@@ -1575,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Blue | 109033 | [109033-into-the-blue.json](./109033-into-the-blue.json) |
 | Into the Box | 183001 | [183001-into-the-box.json](./183001-into-the-box.json) |
 | Into the Breach: Advanced Edition | 247511 | [247511-into-the-breach-advanced-edition.json](./247511-into-the-breach-advanced-edition.json) |
+| Into the Circle | 128410 | [128410-into-the-circle.json](./128410-into-the-circle.json) |
 | Into the Core | 118429 | [118429-into-the-core.json](./118429-into-the-core.json) |
 | Into The Corner | 339112 | [339112-into-the-corner.json](./339112-into-the-corner.json) |
 | Into the Dark | 199644 | [199644-into-the-dark.json](./199644-into-the-dark.json) |
