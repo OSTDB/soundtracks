@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Tower Idle | 405585 | [405585-under-tower-idle.json](./405585-under-tower-idle.json) |
 | Under Zero | 33223 | [33223-under-zero.json](./33223-under-zero.json) |
 | Undercards | 57109 | [57109-undercards.json](./57109-undercards.json) |
+| Undercat | 158579 | [158579-undercat.json](./158579-undercat.json) |
 | Underchoice | 386844 | [386844-underchoice.json](./386844-underchoice.json) |
 | Undercity of Sin | 380547 | [380547-undercity-of-sin.json](./380547-undercity-of-sin.json) |
 | Undercore: The Tale of Hardcore | 50503 | [50503-undercore-the-tale-of-hardcore.json](./50503-undercore-the-tale-of-hardcore.json) |
