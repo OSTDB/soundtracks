@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Patrol Envoy | 311135 | [311135-magic-patrol-envoy.json](./311135-magic-patrol-envoy.json) |
 | Magic Pen Color Book | 187488 | [187488-magic-pen-color-book.json](./187488-magic-pen-color-book.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
+| Magic Pot&ter Battlegrounds | 150500 | [150500-magic-pot-and-ter-battlegrounds.json](./150500-magic-pot-and-ter-battlegrounds.json) |
 | Magic Pussy: Chapter 3 | 365670 | [365670-magic-pussy-chapter-3.json](./365670-magic-pussy-chapter-3.json) |
 | Magic Realm | 182943 | [182943-magic-realm.json](./182943-magic-realm.json) |
 | Magic Realm | 316636 | [316636-magic-realm.json](./316636-magic-realm.json) |
@@ -1862,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of the Mini-taur | 185126 | [185126-maze-of-the-mini-taur.json](./185126-maze-of-the-mini-taur.json) |
 | Maze of Wires | 342177 | [342177-maze-of-wires.json](./342177-maze-of-wires.json) |
 | Maze Pak | 247027 | [247027-maze-pak.json](./247027-maze-pak.json) |
+| Maze Party | 150487 | [150487-maze-party.json](./150487-maze-party.json) |
 | Maze Puzzle | 277868 | [277868-maze-puzzle.json](./277868-maze-puzzle.json) |
 | Maze Quest Master | 270186 | [270186-maze-quest-master.json](./270186-maze-quest-master.json) |
 | Maze Runner | 72108 | [72108-maze-runner.json](./72108-maze-runner.json) |
@@ -3420,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind In Despair | 231917 | [231917-mind-in-despair.json](./231917-mind-in-despair.json) |
 | Mind Jab | 227846 | [227846-mind-jab.json](./227846-mind-jab.json) |
 | Mind Medley | 209509 | [209509-mind-medley.json](./209509-mind-medley.json) |
+| Mind Muscle VR | 150531 | [150531-mind-muscle-vr.json](./150531-mind-muscle-vr.json) |
 | Mind Over Matter | 209508 | [209508-mind-over-matter.json](./209508-mind-over-matter.json) |
 | Mind Palace | 307594 | [307594-mind-palace.json](./307594-mind-palace.json) |
 | Mind Reader | 107130 | [107130-mind-reader.json](./107130-mind-reader.json) |
@@ -5274,6 +5277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movie Grid | 319222 | [319222-movie-grid.json](./319222-movie-grid.json) |
 | Movie Night | 310560 | [310560-movie-night.json](./310560-movie-night.json) |
 | Movie Quest | 206339 | [206339-movie-quest.json](./206339-movie-quest.json) |
+| Movie Tycoon Simulator 2020 | 150536 | [150536-movie-tycoon-simulator-2020.json](./150536-movie-tycoon-simulator-2020.json) |
 | Moviedle | 401684 | [401684-moviedle.json](./401684-moviedle.json) |
 | Movierooms: Cinema Management | 260156 | [260156-movierooms-cinema-management.json](./260156-movierooms-cinema-management.json) |
 | MovieStarPlanet | 94981 | [94981-moviestarplanet.json](./94981-moviestarplanet.json) |
