@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vive le Roi | 31789 | [31789-vive-le-roi.json](./31789-vive-le-roi.json) |
 | Vivecraft | 370146 | [370146-vivecraft.json](./370146-vivecraft.json) |
 | Vivian and Kyuma | 282021 | [282021-vivian-and-kyuma.json](./282021-vivian-and-kyuma.json) |
+| Vivian's Kurse | 151037 | [151037-vivians-kurse.json](./151037-vivians-kurse.json) |
 | Vivid | 415091 | [415091-vivid.json](./415091-vivid.json) |
 | ViViD | 61070 | [61070-vivid.json](./61070-vivid.json) |
 | Vivid World | 266274 | [266274-vivid-world.json](./266274-vivid-world.json) |
