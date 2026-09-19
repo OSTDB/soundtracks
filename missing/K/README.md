@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Old Gods | 56431 | [56431-kill-the-old-gods.json](./56431-kill-the-old-gods.json) |
 | Kill the Plumber World | 100732 | [100732-kill-the-plumber-world.json](./100732-kill-the-plumber-world.json) |
 | Kill the Reaper | 276844 | [276844-kill-the-reaper.json](./276844-kill-the-reaper.json) |
+| Kill the Santa | 128350 | [128350-kill-the-santa.json](./128350-kill-the-santa.json) |
 | Kill The Shadow | 276201 | [276201-kill-the-shadow.json](./276201-kill-the-shadow.json) |
 | Kill Them With Cuteness | 152863 | [152863-kill-them-with-cuteness.json](./152863-kill-them-with-cuteness.json) |
 | Kill to Live | 187405 | [187405-kill-to-live.json](./187405-kill-to-live.json) |
@@ -1242,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty's Last Adventure | 295372 | [295372-kittys-last-adventure.json](./295372-kittys-last-adventure.json) |
 | Kity Builder | 204525 | [204525-kity-builder.json](./204525-kity-builder.json) |
 | Kivi, Toilet and Shotgun | 16308 | [16308-kivi-toilet-and-shotgun.json](./16308-kivi-toilet-and-shotgun.json) |
+| Kiwame Mahjong Deluxe: Mirai Senshi 21 | 128365 | [128365-kiwame-mahjong-deluxe-mirai-senshi-21.json](./128365-kiwame-mahjong-deluxe-mirai-senshi-21.json) |
 | Kiwame Mahjong DX II | 97872 | [97872-kiwame-mahjong-dx-ii.json](./97872-kiwame-mahjong-dx-ii.json) |
 | Kiwi | 186256 | [186256-kiwi.json](./186256-kiwi.json) |
 | Kiwi | 306688 | [306688-kiwi.json](./306688-kiwi.json) |
