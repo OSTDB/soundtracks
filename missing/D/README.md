@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Desire Mute 6 | 260412 | [260412-dark-desire-mute-6.json](./260412-dark-desire-mute-6.json) |
 | Dark Dimensions: City of Ash - Collector's Edition | 74352 | [74352-dark-dimensions-city-of-ash-collectors-edition.json](./74352-dark-dimensions-city-of-ash-collectors-edition.json) |
 | Dark Dimensions: City of Fog - Collector's Edition | 29811 | [29811-dark-dimensions-city-of-fog-collectors-edition.json](./29811-dark-dimensions-city-of-fog-collectors-edition.json) |
+| Dark Dimensions: Wax Beauty | 139789 | [139789-dark-dimensions-wax-beauty.json](./139789-dark-dimensions-wax-beauty.json) |
 | Dark Disciples II | 168324 | [168324-dark-disciples-ii.json](./168324-dark-disciples-ii.json) |
 | Dark Dive: The Last Tropic | 277021 | [277021-dark-dive-the-last-tropic.json](./277021-dark-dive-the-last-tropic.json) |
 | Dark Earth | 410975 | [410975-dark-earth.json](./410975-dark-earth.json) |
@@ -484,12 +485,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Orbit | 125371 | [125371-dark-orbit.json](./125371-dark-orbit.json) |
 | Dark Parables: Ballad of Rapunzel - Collector's Edition | 36466 | [36466-dark-parables-ballad-of-rapunzel-collectors-edition.json](./36466-dark-parables-ballad-of-rapunzel-collectors-edition.json) |
 | Dark Parables: Curse of Briar Rose | 63303 | [63303-dark-parables-curse-of-briar-rose.json](./63303-dark-parables-curse-of-briar-rose.json) |
+| Dark Parables: Goldilocks and the Fallen Star | 139790 | [139790-dark-parables-goldilocks-and-the-fallen-star.json](./139790-dark-parables-goldilocks-and-the-fallen-star.json) |
 | Dark Parables: Goldilocks and the Fallen Star - Collector's Edition | 61593 | [61593-dark-parables-goldilocks-and-the-fallen-star-collectors-edition.json](./61593-dark-parables-goldilocks-and-the-fallen-star-collectors-edition.json) |
 | Dark Parables: Jack and the Sky Kingdom - Collector's Edition | 29809 | [29809-dark-parables-jack-and-the-sky-kingdom-collectors-edition.json](./29809-dark-parables-jack-and-the-sky-kingdom-collectors-edition.json) |
+| Dark Parables: Portrait of the Stained Princess | 139791 | [139791-dark-parables-portrait-of-the-stained-princess.json](./139791-dark-parables-portrait-of-the-stained-princess.json) |
+| Dark Parables: Requiem for the Forgotten Shadow | 139792 | [139792-dark-parables-requiem-for-the-forgotten-shadow.json](./139792-dark-parables-requiem-for-the-forgotten-shadow.json) |
 | Dark Parables: Return of the Salt Princess | 123634 | [123634-dark-parables-return-of-the-salt-princess.json](./123634-dark-parables-return-of-the-salt-princess.json) |
+| Dark Parables: Rise of the Snow Queen | 139793 | [139793-dark-parables-rise-of-the-snow-queen.json](./139793-dark-parables-rise-of-the-snow-queen.json) |
+| Dark Parables: The Final Cinderella | 139794 | [139794-dark-parables-the-final-cinderella.json](./139794-dark-parables-the-final-cinderella.json) |
 | Dark Parables: The Little Mermaid and the Purple Tide - Collector's Edition | 33232 | [33232-dark-parables-the-little-mermaid-and-the-purple-tide-collectors-edition.json](./33232-dark-parables-the-little-mermaid-and-the-purple-tide-collectors-edition.json) |
 | Dark Parables: The Match Girl's Lost Paradise | 123635 | [123635-dark-parables-the-match-girls-lost-paradise.json](./123635-dark-parables-the-match-girls-lost-paradise.json) |
 | Dark Parables: The Match Girl's Lost Paradise - Collector's Edition | 111694 | [111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json](./111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json) |
+| Dark Parables: The Swan Princess and The Dire Tree | 139795 | [139795-dark-parables-the-swan-princess-and-the-dire-tree.json](./139795-dark-parables-the-swan-princess-and-the-dire-tree.json) |
+| Dark Parables: The Thief and the Tinderbox | 139796 | [139796-dark-parables-the-thief-and-the-tinderbox.json](./139796-dark-parables-the-thief-and-the-tinderbox.json) |
 | Dark Past | 211817 | [211817-dark-past.json](./211817-dark-past.json) |
 | Dark Place | 366307 | [366307-dark-place.json](./366307-dark-place.json) |
 | Dark Place 1 | 272026 | [272026-dark-place-1.json](./272026-dark-place-1.json) |
@@ -502,9 +510,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Prison 7th | 349379 | [349379-dark-prison-7th.json](./349379-dark-prison-7th.json) |
 | Dark Quest | 145651 | [145651-dark-quest.json](./145651-dark-quest.json) |
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
+| Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
 | Dark Reign: The Future of War - Battles of the Outer Rim | 73771 | [73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json](./73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json) |
 | Dark Ride Escape | 310577 | [310577-dark-ride-escape.json](./310577-dark-ride-escape.json) |
+| Dark Romance: Ashville | 139798 | [139798-dark-romance-ashville.json](./139798-dark-romance-ashville.json) |
 | Dark Romance: Monster Within | 101486 | [101486-dark-romance-monster-within.json](./101486-dark-romance-monster-within.json) |
 | Dark Romance: The Swan Sonata - Collector's Edition | 110345 | [110345-dark-romance-the-swan-sonata-collectors-edition.json](./110345-dark-romance-the-swan-sonata-collectors-edition.json) |
 | Dark Romance: Vampire Origins - Collector's Edition | 209716 | [209716-dark-romance-vampire-origins-collectors-edition.json](./209716-dark-romance-vampire-origins-collectors-edition.json) |
@@ -2102,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destino Indomable | 322350 | [322350-destino-indomable.json](./322350-destino-indomable.json) |
 | Destiny | 100186 | [100186-destiny.json](./100186-destiny.json) |
 | Destiny 2: Beyond Light | 134830 | [134830-destiny-2-beyond-light.json](./134830-destiny-2-beyond-light.json) |
+| Destiny 2: Beyond Light - Deluxe Edition | 139825 | [139825-destiny-2-beyond-light-deluxe-edition.json](./139825-destiny-2-beyond-light-deluxe-edition.json) |
 | Destiny 2: Beyond Light - Season of the Hunt | 140978 | [140978-destiny-2-beyond-light-season-of-the-hunt.json](./140978-destiny-2-beyond-light-season-of-the-hunt.json) |
 | Destiny 2: Echoes | 305328 | [305328-destiny-2-echoes.json](./305328-destiny-2-echoes.json) |
 | Destiny 2: Forsaken - Digital Deluxe Edition | 132150 | [132150-destiny-2-forsaken-digital-deluxe-edition.json](./132150-destiny-2-forsaken-digital-deluxe-edition.json) |
@@ -4453,6 +4464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drake | 134654 | [134654-drake.json](./134654-drake.json) |
 | Drake's Tower | 89229 | [89229-drakes-tower.json](./89229-drakes-tower.json) |
 | Drakengard 2 | 11663 | [11663-drakengard-2.json](./11663-drakengard-2.json) |
+| Drakens Värld | 139804 | [139804-drakens-varld.json](./139804-drakens-varld.json) |
 | Drakensang: The River of Time | 8769 | [8769-drakensang-the-river-of-time.json](./8769-drakensang-the-river-of-time.json) |
 | Drakheir | 279389 | [279389-drakheir.json](./279389-drakheir.json) |
 | Drakkar | 13611 | [13611-drakkar.json](./13611-drakkar.json) |
