@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Honor | 274041 | [274041-tale-of-honor.json](./274041-tale-of-honor.json) |
 | Tale of Jade Li Guang | 151740 | [151740-tale-of-jade-li-guang.json](./151740-tale-of-jade-li-guang.json) |
 | Tale of Legends | 260685 | [260685-tale-of-legends.json](./260685-tale-of-legends.json) |
+| Tale of Rainbow 7 | 132607 | [132607-tale-of-rainbow-7.json](./132607-tale-of-rainbow-7.json) |
 | Tale of Ronin | 27750 | [27750-tale-of-ronin.json](./27750-tale-of-ronin.json) |
 | Tale of Scale | 339628 | [339628-tale-of-scale.json](./339628-tale-of-scale.json) |
 | Tale of Season | 174762 | [174762-tale-of-season.json](./174762-tale-of-season.json) |
@@ -1442,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Pulse | 142433 | [142433-terra-pulse.json](./142433-terra-pulse.json) |
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
 | Terracide | 77393 | [77393-terracide.json](./77393-terracide.json) |
+| Terracosmic | 132622 | [132622-terracosmic.json](./132622-terracosmic.json) |
 | Terracotta | 271235 | [271235-terracotta.json](./271235-terracotta.json) |
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
 | TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
@@ -4860,6 +4862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road Less Taken | 219122 | [219122-the-road-less-taken.json](./219122-the-road-less-taken.json) |
 | The Road to Gettysburg | 24885 | [24885-the-road-to-gettysburg.json](./24885-the-road-to-gettysburg.json) |
 | The Road to Hades | 96354 | [96354-the-road-to-hades.json](./96354-the-road-to-hades.json) |
+| The Roaring Empire | 132661 | [132661-the-roaring-empire.json](./132661-the-roaring-empire.json) |
 | The Robolovers | 172707 | [172707-the-robolovers.json](./172707-the-robolovers.json) |
 | The Rock and the Rose | 353996 | [353996-the-rock-and-the-rose.json](./353996-the-rock-and-the-rose.json) |
 | The Rocket Jumper | 232965 | [232965-the-rocket-jumper.json](./232965-the-rocket-jumper.json) |
@@ -5451,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terminator: Future Shock | 8413 | [8413-the-terminator-future-shock.json](./8413-the-terminator-future-shock.json) |
 | The Terrible Old Man: Collector's Edition | 156100 | [156100-the-terrible-old-man-collectors-edition.json](./156100-the-terrible-old-man-collectors-edition.json) |
 | The Terrors of Trantoss | 232557 | [232557-the-terrors-of-trantoss.json](./232557-the-terrors-of-trantoss.json) |
+| The Test: Hypothesis Rising | 132660 | [132660-the-test-hypothesis-rising.json](./132660-the-test-hypothesis-rising.json) |
 | The Testament of Sherlock Holmes | 6164 | [6164-the-testament-of-sherlock-holmes.json](./6164-the-testament-of-sherlock-holmes.json) |
 | The Testimony of Trixie Glimmer Smith | 123633 | [123633-the-testimony-of-trixie-glimmer-smith.json](./123633-the-testimony-of-trixie-glimmer-smith.json) |
 | The Texas Chain Saw Massacre: 2003 Leatherface | 351015 | [351015-the-texas-chain-saw-massacre-2003-leatherface.json](./351015-the-texas-chain-saw-massacre-2003-leatherface.json) |
@@ -9763,6 +9767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troubleshooting | 221195 | [221195-troubleshooting.json](./221195-troubleshooting.json) |
 | Trough the lab | 232024 | [232024-trough-the-lab.json](./232024-trough-the-lab.json) |
 | Trouserheart | 61113 | [61113-trouserheart.json](./61113-trouserheart.json) |
+| Trover Saves the Universe: Important Cosmic Jobs | 132636 | [132636-trover-saves-the-universe-important-cosmic-jobs.json](./132636-trover-saves-the-universe-important-cosmic-jobs.json) |
 | Troy Online | 92516 | [92516-troy-online.json](./92516-troy-online.json) |
 | Truck & Camping Collection | 328466 | [328466-truck-and-camping-collection.json](./328466-truck-and-camping-collection.json) |
 | Truck & Logistics Simulator | 129757 | [129757-truck-and-logistics-simulator.json](./129757-truck-and-logistics-simulator.json) |
