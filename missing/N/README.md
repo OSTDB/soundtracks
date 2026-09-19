@@ -1402,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights To Remember | 263772 | [263772-nights-to-remember.json](./263772-nights-to-remember.json) |
 | Nights: Moonlight Dreams... | 264895 | [264895-nights-moonlight-dreams.json](./264895-nights-moonlight-dreams.json) |
 | Nightshade | 39119 | [39119-nightshade.json](./39119-nightshade.json) |
+| Nightshift | 163295 | [163295-nightshift.json](./163295-nightshift.json) |
 | Nightshift | 271202 | [271202-nightshift.json](./271202-nightshift.json) |
 | Nightshift at the Beta Museum | 408141 | [408141-nightshift-at-the-beta-museum.json](./408141-nightshift-at-the-beta-museum.json) |
 | Nightslink | 165643 | [165643-nightslink.json](./165643-nightslink.json) |
@@ -1565,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Spirit | 219020 | [219020-ninja-spirit.json](./219020-ninja-spirit.json) |
 | Ninja Spirit | 6819 | [6819-ninja-spirit.json](./6819-ninja-spirit.json) |
 | Ninja Stealth 2 | 29639 | [29639-ninja-stealth-2.json](./29639-ninja-stealth-2.json) |
+| Ninja Stealth 4 | 163314 | [163314-ninja-stealth-4.json](./163314-ninja-stealth-4.json) |
 | Ninja Story: Akio's Tale | 102743 | [102743-ninja-story-akios-tale.json](./102743-ninja-story-akios-tale.json) |
 | Ninja Suffering | 181786 | [181786-ninja-suffering.json](./181786-ninja-suffering.json) |
 | Ninja Sukafu | 181788 | [181788-ninja-sukafu.json](./181788-ninja-sukafu.json) |
@@ -1923,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomad Station | 247608 | [247608-nomad-station.json](./247608-nomad-station.json) |
 | Nomad Survival | 197874 | [197874-nomad-survival.json](./197874-nomad-survival.json) |
 | Nomia | 338730 | [338730-nomia.json](./338730-nomia.json) |
+| Nominal | 163312 | [163312-nominal.json](./163312-nominal.json) |
 | Nomolos: Storming the Catsle | 48699 | [48699-nomolos-storming-the-catsle.json](./48699-nomolos-storming-the-catsle.json) |
 | Noms the Fish | 112367 | [112367-noms-the-fish.json](./112367-noms-the-fish.json) |
 | Non Stop Driver | 305200 | [305200-non-stop-driver.json](./305200-non-stop-driver.json) |
