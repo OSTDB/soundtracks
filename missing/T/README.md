@@ -3633,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lacerator | 240478 | [240478-the-lacerator.json](./240478-the-lacerator.json) |
 | The Ladle Fly | 179723 | [179723-the-ladle-fly.json](./179723-the-ladle-fly.json) |
 | The Lady | 35989 | [35989-the-lady.json](./35989-the-lady.json) |
+| The Lady Puppet | 148385 | [148385-the-lady-puppet.json](./148385-the-lady-puppet.json) |
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
 | The Lamb of the Sabbath is Standing Upon the Hill | 346651 | [346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json](./346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json) |
 | The Lamplighters League | 240893 | [240893-the-lamplighters-league.json](./240893-the-lamplighters-league.json) |
@@ -3752,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Show of Mr. Chardish: Act I | 170386 | [170386-the-last-show-of-mr-chardish-act-i.json](./170386-the-last-show-of-mr-chardish-act-i.json) |
 | The Last Soldier | 109768 | [109768-the-last-soldier.json](./109768-the-last-soldier.json) |
 | The Last Sorrow | 287643 | [287643-the-last-sorrow.json](./287643-the-last-sorrow.json) |
+| The Last Stand | 148353 | [148353-the-last-stand.json](./148353-the-last-stand.json) |
 | The Last Stand | 344396 | [344396-the-last-stand.json](./344396-the-last-stand.json) |
 | The Last Stand | 61584 | [61584-the-last-stand.json](./61584-the-last-stand.json) |
 | The Last Stand 2 | 61585 | [61585-the-last-stand-2.json](./61585-the-last-stand-2.json) |
@@ -8231,6 +8233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Rock Maiden FC 3: Little Native Goddess's Revival | 386119 | [386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json](./386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json) |
 | Touhou Saikotan: Servants of Harvest Wish | 246678 | [246678-touhou-saikotan-servants-of-harvest-wish.json](./246678-touhou-saikotan-servants-of-harvest-wish.json) |
 | Touhou Seicross | 204492 | [204492-touhou-seicross.json](./204492-touhou-seicross.json) |
+| Touhou Seikaen: Blue devil in the Belvedere | 148365 | [148365-touhou-seikaen-blue-devil-in-the-belvedere.json](./148365-touhou-seikaen-blue-devil-in-the-belvedere.json) |
 | Touhou Shinjutou: Hollow Song of Birds | 196269 | [196269-touhou-shinjutou-hollow-song-of-birds.json](./196269-touhou-shinjutou-hollow-song-of-birds.json) |
 | Touhou Silver Night Festival: Freedom Train | 195794 | [195794-touhou-silver-night-festival-freedom-train.json](./195794-touhou-silver-night-festival-freedom-train.json) |
 | Touhou Spell Bubble | 131922 | [131922-touhou-spell-bubble.json](./131922-touhou-spell-bubble.json) |
@@ -8590,6 +8593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
 | Trails of the Ancestors | 212828 | [212828-trails-of-the-ancestors.json](./212828-trails-of-the-ancestors.json) |
 | Train Cargo: Nightshift | 374159 | [374159-train-cargo-nightshift.json](./374159-train-cargo-nightshift.json) |
+| Train Chase | 148367 | [148367-train-chase.json](./148367-train-chase.json) |
 | Train Conductor World | 109578 | [109578-train-conductor-world.json](./109578-train-conductor-world.json) |
 | Train Crew | 182347 | [182347-train-crew.json](./182347-train-crew.json) |
 | Train Driver Journey 2 - Iberia Interior | 88222 | [88222-train-driver-journey-2-iberia-interior.json](./88222-train-driver-journey-2-iberia-interior.json) |
@@ -10000,6 +10004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twerps | 24935 | [24935-twerps.json](./24935-twerps.json) |
 | Twhols | 377717 | [377717-twhols.json](./377717-twhols.json) |
 | Twilight Apartment | 331887 | [331887-twilight-apartment.json](./331887-twilight-apartment.json) |
+| Twilight Drive | 148366 | [148366-twilight-drive.json](./148366-twilight-drive.json) |
 | Twilight Flight | 403709 | [403709-twilight-flight.json](./403709-twilight-flight.json) |
 | Twilight Gallery | 382197 | [382197-twilight-gallery.json](./382197-twilight-gallery.json) |
 | Twilight Horizon | 314073 | [314073-twilight-horizon.json](./314073-twilight-horizon.json) |
