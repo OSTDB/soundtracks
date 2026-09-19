@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HandsON | 158232 | [158232-handson.json](./158232-handson.json) |
 | Handwalk | 402355 | [402355-handwalk.json](./402355-handwalk.json) |
 | Handy Farm: Roguelike | 385602 | [385602-handy-farm-roguelike.json](./385602-handy-farm-roguelike.json) |
+| Handy Harry's Haunted House Services | 143508 | [143508-handy-harrys-haunted-house-services.json](./143508-handy-harrys-haunted-house-services.json) |
 | Handy Helper | 373108 | [373108-handy-helper.json](./373108-handy-helper.json) |
 | Handy Machines VR | 159749 | [159749-handy-machines-vr.json](./159749-handy-machines-vr.json) |
 | HandyCopter | 89959 | [89959-handycopter.json](./89959-handycopter.json) |
@@ -1833,6 +1834,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Galaxy | 195162 | [195162-heroes-of-the-galaxy.json](./195162-heroes-of-the-galaxy.json) |
 | Heroes of the Obelisk | 62761 | [62761-heroes-of-the-obelisk.json](./62761-heroes-of-the-obelisk.json) |
 | Heroes of the Pacific | 5861 | [5861-heroes-of-the-pacific.json](./5861-heroes-of-the-pacific.json) |
+| Heroes of the Three Kingdoms 2 | 143499 | [143499-heroes-of-the-three-kingdoms-2.json](./143499-heroes-of-the-three-kingdoms-2.json) |
+| Heroes of the Three Kingdoms 3 | 143504 | [143504-heroes-of-the-three-kingdoms-3.json](./143504-heroes-of-the-three-kingdoms-3.json) |
+| Heroes of the Three Kingdoms 7 | 143522 | [143522-heroes-of-the-three-kingdoms-7.json](./143522-heroes-of-the-three-kingdoms-7.json) |
 | Heroes of the Triangle: Mask Rush | 402417 | [402417-heroes-of-the-triangle-mask-rush.json](./402417-heroes-of-the-triangle-mask-rush.json) |
 | Heroes of Three Kingdoms | 77303 | [77303-heroes-of-three-kingdoms.json](./77303-heroes-of-three-kingdoms.json) |
 | Heroes of Valhalla | 224104 | [224104-heroes-of-valhalla.json](./224104-heroes-of-valhalla.json) |
@@ -2970,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horatama | 157159 | [157159-horatama.json](./157159-horatama.json) |
 | Horcrux College | 340215 | [340215-horcrux-college.json](./340215-horcrux-college.json) |
 | HorD: High or Die | 83590 | [83590-hord-high-or-die.json](./83590-hord-high-or-die.json) |
+| Horde Mode -Trial of the Dark Lord | 143493 | [143493-horde-mode-trial-of-the-dark-lord.json](./143493-horde-mode-trial-of-the-dark-lord.json) |
 | Horde of Directors | 178090 | [178090-horde-of-directors.json](./178090-horde-of-directors.json) |
 | Horde Slayer | 355022 | [355022-horde-slayer.json](./355022-horde-slayer.json) |
 | Horde: The Citadel | 375850 | [375850-horde-the-citadel.json](./375850-horde-the-citadel.json) |
