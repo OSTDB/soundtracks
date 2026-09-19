@@ -6401,34 +6401,55 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Fighter 1931: Sunset MP097 | 189573 | [189573-tiger-fighter-1931-sunset-mp097.json](./189573-tiger-fighter-1931-sunset-mp097.json) |
 | Tiger Fighter 1931: Sunset MP098 | 189576 | [189576-tiger-fighter-1931-sunset-mp098.json](./189576-tiger-fighter-1931-sunset-mp098.json) |
 | Tiger Fighter 1931: Sunset MP099 | 189550 | [189550-tiger-fighter-1931-sunset-mp099.json](./189550-tiger-fighter-1931-sunset-mp099.json) |
+| Tiger Fighter 1931: Tora! MP012 | 173671 | [173671-tiger-fighter-1931-tora-mp012.json](./173671-tiger-fighter-1931-tora-mp012.json) |
 | Tiger Fighter 1931: Tora! MP013 | 189682 | [189682-tiger-fighter-1931-tora-mp013.json](./189682-tiger-fighter-1931-tora-mp013.json) |
 | Tiger Fighter 1931: Tora! MP014 | 189695 | [189695-tiger-fighter-1931-tora-mp014.json](./189695-tiger-fighter-1931-tora-mp014.json) |
+| Tiger Fighter 1931: Tora! MP016 | 173672 | [173672-tiger-fighter-1931-tora-mp016.json](./173672-tiger-fighter-1931-tora-mp016.json) |
+| Tiger Fighter 1931: Tora! MP017 | 173664 | [173664-tiger-fighter-1931-tora-mp017.json](./173664-tiger-fighter-1931-tora-mp017.json) |
+| Tiger Fighter 1931: Tora! MP019 | 173669 | [173669-tiger-fighter-1931-tora-mp019.json](./173669-tiger-fighter-1931-tora-mp019.json) |
 | Tiger Fighter 1931: Tora! MP021 | 189694 | [189694-tiger-fighter-1931-tora-mp021.json](./189694-tiger-fighter-1931-tora-mp021.json) |
+| Tiger Fighter 1931: Tora! MP022 | 173661 | [173661-tiger-fighter-1931-tora-mp022.json](./173661-tiger-fighter-1931-tora-mp022.json) |
 | Tiger Fighter 1931: Tora! MP023 | 189683 | [189683-tiger-fighter-1931-tora-mp023.json](./189683-tiger-fighter-1931-tora-mp023.json) |
+| Tiger Fighter 1931: Tora! MP024 | 173666 | [173666-tiger-fighter-1931-tora-mp024.json](./173666-tiger-fighter-1931-tora-mp024.json) |
 | Tiger Fighter 1931: Tora! MP025 | 189700 | [189700-tiger-fighter-1931-tora-mp025.json](./189700-tiger-fighter-1931-tora-mp025.json) |
 | Tiger Fighter 1931: Tora! MP026 | 189706 | [189706-tiger-fighter-1931-tora-mp026.json](./189706-tiger-fighter-1931-tora-mp026.json) |
 | Tiger Fighter 1931: Tora! MP030 | 189698 | [189698-tiger-fighter-1931-tora-mp030.json](./189698-tiger-fighter-1931-tora-mp030.json) |
 | Tiger Fighter 1931: Tora! MP031 | 189708 | [189708-tiger-fighter-1931-tora-mp031.json](./189708-tiger-fighter-1931-tora-mp031.json) |
 | Tiger Fighter 1931: Tora! MP032 | 189680 | [189680-tiger-fighter-1931-tora-mp032.json](./189680-tiger-fighter-1931-tora-mp032.json) |
+| Tiger Fighter 1931: Tora! MP033 | 173663 | [173663-tiger-fighter-1931-tora-mp033.json](./173663-tiger-fighter-1931-tora-mp033.json) |
+| Tiger Fighter 1931: Tora! MP035 | 173665 | [173665-tiger-fighter-1931-tora-mp035.json](./173665-tiger-fighter-1931-tora-mp035.json) |
+| Tiger Fighter 1931: Tora! MP036 | 173668 | [173668-tiger-fighter-1931-tora-mp036.json](./173668-tiger-fighter-1931-tora-mp036.json) |
+| Tiger Fighter 1931: Tora! MP037 | 173657 | [173657-tiger-fighter-1931-tora-mp037.json](./173657-tiger-fighter-1931-tora-mp037.json) |
 | Tiger Fighter 1931: Tora! MP038 | 189711 | [189711-tiger-fighter-1931-tora-mp038.json](./189711-tiger-fighter-1931-tora-mp038.json) |
 | Tiger Fighter 1931: Tora! MP040 | 189712 | [189712-tiger-fighter-1931-tora-mp040.json](./189712-tiger-fighter-1931-tora-mp040.json) |
 | Tiger Fighter 1931: Tora! MP041 | 189714 | [189714-tiger-fighter-1931-tora-mp041.json](./189714-tiger-fighter-1931-tora-mp041.json) |
+| Tiger Fighter 1931: Tora! MP042 | 173659 | [173659-tiger-fighter-1931-tora-mp042.json](./173659-tiger-fighter-1931-tora-mp042.json) |
+| Tiger Fighter 1931: Tora! MP044 | 173662 | [173662-tiger-fighter-1931-tora-mp044.json](./173662-tiger-fighter-1931-tora-mp044.json) |
+| Tiger Fighter 1931: Tora! MP048 | 173667 | [173667-tiger-fighter-1931-tora-mp048.json](./173667-tiger-fighter-1931-tora-mp048.json) |
 | Tiger Fighter 1931: Tora! MP050 | 189690 | [189690-tiger-fighter-1931-tora-mp050.json](./189690-tiger-fighter-1931-tora-mp050.json) |
 | Tiger Fighter 1931: Tora! MP051 | 189692 | [189692-tiger-fighter-1931-tora-mp051.json](./189692-tiger-fighter-1931-tora-mp051.json) |
 | Tiger Fighter 1931: Tora! MP052 | 189710 | [189710-tiger-fighter-1931-tora-mp052.json](./189710-tiger-fighter-1931-tora-mp052.json) |
+| Tiger Fighter 1931: Tora! MP053 | 173670 | [173670-tiger-fighter-1931-tora-mp053.json](./173670-tiger-fighter-1931-tora-mp053.json) |
 | Tiger Fighter 1931: Tora! MP054 | 189688 | [189688-tiger-fighter-1931-tora-mp054.json](./189688-tiger-fighter-1931-tora-mp054.json) |
 | Tiger Fighter 1931: Tora! MP056 | 189716 | [189716-tiger-fighter-1931-tora-mp056.json](./189716-tiger-fighter-1931-tora-mp056.json) |
 | Tiger Fighter 1931: Tora! MP057 | 189715 | [189715-tiger-fighter-1931-tora-mp057.json](./189715-tiger-fighter-1931-tora-mp057.json) |
 | Tiger Fighter 1931: Tora! MP058 | 189705 | [189705-tiger-fighter-1931-tora-mp058.json](./189705-tiger-fighter-1931-tora-mp058.json) |
 | Tiger Fighter 1931: Tora! MP059 | 189687 | [189687-tiger-fighter-1931-tora-mp059.json](./189687-tiger-fighter-1931-tora-mp059.json) |
+| Tiger Fighter 1931: Tora! MP060 | 173678 | [173678-tiger-fighter-1931-tora-mp060.json](./173678-tiger-fighter-1931-tora-mp060.json) |
 | Tiger Fighter 1931: Tora! MP061 | 189684 | [189684-tiger-fighter-1931-tora-mp061.json](./189684-tiger-fighter-1931-tora-mp061.json) |
 | Tiger Fighter 1931: Tora! MP063 | 189696 | [189696-tiger-fighter-1931-tora-mp063.json](./189696-tiger-fighter-1931-tora-mp063.json) |
+| Tiger Fighter 1931: Tora! MP064 | 173676 | [173676-tiger-fighter-1931-tora-mp064.json](./173676-tiger-fighter-1931-tora-mp064.json) |
+| Tiger Fighter 1931: Tora! MP065 | 173673 | [173673-tiger-fighter-1931-tora-mp065.json](./173673-tiger-fighter-1931-tora-mp065.json) |
 | Tiger Fighter 1931: Tora! MP066 | 189689 | [189689-tiger-fighter-1931-tora-mp066.json](./189689-tiger-fighter-1931-tora-mp066.json) |
 | Tiger Fighter 1931: Tora! MP067 | 189707 | [189707-tiger-fighter-1931-tora-mp067.json](./189707-tiger-fighter-1931-tora-mp067.json) |
 | Tiger Fighter 1931: Tora! MP069 | 189693 | [189693-tiger-fighter-1931-tora-mp069.json](./189693-tiger-fighter-1931-tora-mp069.json) |
+| Tiger Fighter 1931: Tora! MP070 | 173660 | [173660-tiger-fighter-1931-tora-mp070.json](./173660-tiger-fighter-1931-tora-mp070.json) |
 | Tiger Fighter 1931: Tora! MP071 | 189686 | [189686-tiger-fighter-1931-tora-mp071.json](./189686-tiger-fighter-1931-tora-mp071.json) |
+| Tiger Fighter 1931: Tora! MP072 | 173658 | [173658-tiger-fighter-1931-tora-mp072.json](./173658-tiger-fighter-1931-tora-mp072.json) |
+| Tiger Fighter 1931: Tora! MP073 | 173675 | [173675-tiger-fighter-1931-tora-mp073.json](./173675-tiger-fighter-1931-tora-mp073.json) |
 | Tiger Fighter 1931: Tora! MP074 | 189678 | [189678-tiger-fighter-1931-tora-mp074.json](./189678-tiger-fighter-1931-tora-mp074.json) |
 | Tiger Fighter 1931: Tora! MP075 | 189679 | [189679-tiger-fighter-1931-tora-mp075.json](./189679-tiger-fighter-1931-tora-mp075.json) |
+| Tiger Fighter 1931: Tora! MP076 | 173674 | [173674-tiger-fighter-1931-tora-mp076.json](./173674-tiger-fighter-1931-tora-mp076.json) |
 | Tiger Fighter 1931: Tora! MP077 | 189691 | [189691-tiger-fighter-1931-tora-mp077.json](./189691-tiger-fighter-1931-tora-mp077.json) |
 | Tiger Fighter 1931: Tora! MP078 | 189697 | [189697-tiger-fighter-1931-tora-mp078.json](./189697-tiger-fighter-1931-tora-mp078.json) |
 | Tiger Fighter 1931: Tora! MP079 | 189702 | [189702-tiger-fighter-1931-tora-mp079.json](./189702-tiger-fighter-1931-tora-mp079.json) |
@@ -6437,6 +6458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Fighter 1931: Tora! MP085 | 189703 | [189703-tiger-fighter-1931-tora-mp085.json](./189703-tiger-fighter-1931-tora-mp085.json) |
 | Tiger Fighter 1931: Tora! MP086 | 189717 | [189717-tiger-fighter-1931-tora-mp086.json](./189717-tiger-fighter-1931-tora-mp086.json) |
 | Tiger Fighter 1931: Tora! MP088 | 189701 | [189701-tiger-fighter-1931-tora-mp088.json](./189701-tiger-fighter-1931-tora-mp088.json) |
+| Tiger Fighter 1931: Tora! MP089 | 173677 | [173677-tiger-fighter-1931-tora-mp089.json](./173677-tiger-fighter-1931-tora-mp089.json) |
 | Tiger Fighter 1931: Tora! MP090 | 189676 | [189676-tiger-fighter-1931-tora-mp090.json](./189676-tiger-fighter-1931-tora-mp090.json) |
 | Tiger Fighter 1931: Tora! MP091 | 189677 | [189677-tiger-fighter-1931-tora-mp091.json](./189677-tiger-fighter-1931-tora-mp091.json) |
 | Tiger Fighter 1931: Tora! MP092 | 189704 | [189704-tiger-fighter-1931-tora-mp092.json](./189704-tiger-fighter-1931-tora-mp092.json) |
@@ -6525,11 +6547,39 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Road | 12864 | [12864-tiger-road.json](./12864-tiger-road.json) |
 | Tiger Simulator 3D | 96013 | [96013-tiger-simulator-3d.json](./96013-tiger-simulator-3d.json) |
 | Tiger Soldier I: MP007 | 173707 | [173707-tiger-soldier-i-mp007.json](./173707-tiger-soldier-i-mp007.json) |
+| Tiger Soldier I: MP009 | 173700 | [173700-tiger-soldier-i-mp009.json](./173700-tiger-soldier-i-mp009.json) |
+| Tiger Soldier I: MP010 | 173695 | [173695-tiger-soldier-i-mp010.json](./173695-tiger-soldier-i-mp010.json) |
+| Tiger Soldier I: MP012 | 173688 | [173688-tiger-soldier-i-mp012.json](./173688-tiger-soldier-i-mp012.json) |
+| Tiger Soldier I: MP017 | 173683 | [173683-tiger-soldier-i-mp017.json](./173683-tiger-soldier-i-mp017.json) |
+| Tiger Soldier I: MP019 | 173684 | [173684-tiger-soldier-i-mp019.json](./173684-tiger-soldier-i-mp019.json) |
+| Tiger Soldier I: MP020 | 173693 | [173693-tiger-soldier-i-mp020.json](./173693-tiger-soldier-i-mp020.json) |
 | Tiger Soldier I: MP023 | 173712 | [173712-tiger-soldier-i-mp023.json](./173712-tiger-soldier-i-mp023.json) |
+| Tiger Soldier I: MP024 | 173701 | [173701-tiger-soldier-i-mp024.json](./173701-tiger-soldier-i-mp024.json) |
+| Tiger Soldier I: MP028 | 173704 | [173704-tiger-soldier-i-mp028.json](./173704-tiger-soldier-i-mp028.json) |
+| Tiger Soldier I: MP030 | 173681 | [173681-tiger-soldier-i-mp030.json](./173681-tiger-soldier-i-mp030.json) |
+| Tiger Soldier I: MP038 | 173697 | [173697-tiger-soldier-i-mp038.json](./173697-tiger-soldier-i-mp038.json) |
+| Tiger Soldier I: MP039 | 173703 | [173703-tiger-soldier-i-mp039.json](./173703-tiger-soldier-i-mp039.json) |
+| Tiger Soldier I: MP040 | 173694 | [173694-tiger-soldier-i-mp040.json](./173694-tiger-soldier-i-mp040.json) |
+| Tiger Soldier I: MP041 | 173686 | [173686-tiger-soldier-i-mp041.json](./173686-tiger-soldier-i-mp041.json) |
+| Tiger Soldier I: MP042 | 173696 | [173696-tiger-soldier-i-mp042.json](./173696-tiger-soldier-i-mp042.json) |
+| Tiger Soldier I: MP044 | 173705 | [173705-tiger-soldier-i-mp044.json](./173705-tiger-soldier-i-mp044.json) |
 | Tiger Soldier I: MP047 | 173708 | [173708-tiger-soldier-i-mp047.json](./173708-tiger-soldier-i-mp047.json) |
+| Tiger Soldier I: MP049 | 173706 | [173706-tiger-soldier-i-mp049.json](./173706-tiger-soldier-i-mp049.json) |
+| Tiger Soldier I: MP051 | 173687 | [173687-tiger-soldier-i-mp051.json](./173687-tiger-soldier-i-mp051.json) |
+| Tiger Soldier I: MP057 | 173679 | [173679-tiger-soldier-i-mp057.json](./173679-tiger-soldier-i-mp057.json) |
+| Tiger Soldier I: MP059 | 173680 | [173680-tiger-soldier-i-mp059.json](./173680-tiger-soldier-i-mp059.json) |
+| Tiger Soldier I: MP067 | 173692 | [173692-tiger-soldier-i-mp067.json](./173692-tiger-soldier-i-mp067.json) |
+| Tiger Soldier I: MP070 | 173682 | [173682-tiger-soldier-i-mp070.json](./173682-tiger-soldier-i-mp070.json) |
 | Tiger Soldier I: MP072 | 173710 | [173710-tiger-soldier-i-mp072.json](./173710-tiger-soldier-i-mp072.json) |
+| Tiger Soldier I: MP074 | 173691 | [173691-tiger-soldier-i-mp074.json](./173691-tiger-soldier-i-mp074.json) |
 | Tiger Soldier I: MP075 | 173709 | [173709-tiger-soldier-i-mp075.json](./173709-tiger-soldier-i-mp075.json) |
+| Tiger Soldier I: MP080 | 173690 | [173690-tiger-soldier-i-mp080.json](./173690-tiger-soldier-i-mp080.json) |
+| Tiger Soldier I: MP082 | 173685 | [173685-tiger-soldier-i-mp082.json](./173685-tiger-soldier-i-mp082.json) |
 | Tiger Soldier I: MP088 | 173711 | [173711-tiger-soldier-i-mp088.json](./173711-tiger-soldier-i-mp088.json) |
+| Tiger Soldier I: MP090 | 173699 | [173699-tiger-soldier-i-mp090.json](./173699-tiger-soldier-i-mp090.json) |
+| Tiger Soldier I: MP094 | 173689 | [173689-tiger-soldier-i-mp094.json](./173689-tiger-soldier-i-mp094.json) |
+| Tiger Soldier I: MP097 | 173698 | [173698-tiger-soldier-i-mp097.json](./173698-tiger-soldier-i-mp097.json) |
+| Tiger Soldier I: MP099 | 173702 | [173702-tiger-soldier-i-mp099.json](./173702-tiger-soldier-i-mp099.json) |
 | Tiger Striker: MP054 | 189720 | [189720-tiger-striker-mp054.json](./189720-tiger-striker-mp054.json) |
 | Tiger Striker: MP058 | 189721 | [189721-tiger-striker-mp058.json](./189721-tiger-striker-mp058.json) |
 | Tiger Striker: MP081 | 189719 | [189719-tiger-striker-mp081.json](./189719-tiger-striker-mp081.json) |
