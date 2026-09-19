@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Max Pro | 392152 | [392152-race-max-pro.json](./392152-race-max-pro.json) |
 | Race me now | 154385 | [154385-race-me-now.json](./154385-race-me-now.json) |
 | Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
+| Race Project | 152729 | [152729-race-project.json](./152729-race-project.json) |
 | Race Race Racer | 126996 | [126996-race-race-racer.json](./126996-race-race-racer.json) |
 | Race the Sun | 7876 | [7876-race-the-sun.json](./7876-race-the-sun.json) |
 | Race Time | 347696 | [347696-race-time.json](./347696-race-time.json) |
@@ -1987,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution Idle | 297876 | [297876-revolution-idle.json](./297876-revolution-idle.json) |
 | Revolution: The Spark | 143659 | [143659-revolution-the-spark.json](./143659-revolution-the-spark.json) |
 | Revolve | 26722 | [26722-revolve.json](./26722-revolve.json) |
+| Revolver and Co | 152759 | [152759-revolver-and-co.json](./152759-revolver-and-co.json) |
 | Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
 | Revolvermen | 344397 | [344397-revolvermen.json](./344397-revolvermen.json) |
 | RevolverRouge | 381115 | [381115-revolverrouge.json](./381115-revolverrouge.json) |
@@ -2582,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roar | 179078 | [179078-roar.json](./179078-roar.json) |
 | Roaring Streets! | 181293 | [181293-roaring-streets.json](./181293-roaring-streets.json) |
 | Roaring Twenties Solitaire | 213935 | [213935-roaring-twenties-solitaire.json](./213935-roaring-twenties-solitaire.json) |
+| Roark's Attack on Titan Fan Game | 152751 | [152751-roarks-attack-on-titan-fan-game.json](./152751-roarks-attack-on-titan-fan-game.json) |
 | Rob | 201674 | [201674-rob.json](./201674-rob.json) |
 | Rob & Run | 211731 | [211731-rob-and-run.json](./211731-rob-and-run.json) |
 | Rob Blanc I: Better Days of a Defender of the Universe | 171551 | [171551-rob-blanc-i-better-days-of-a-defender-of-the-universe.json](./171551-rob-blanc-i-better-days-of-a-defender-of-the-universe.json) |
@@ -3603,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run and Fire | 274566 | [274566-run-and-fire.json](./274566-run-and-fire.json) |
 | Run and Gun | 283765 | [283765-run-and-gun.json](./283765-run-and-gun.json) |
+| Run and Jump Little Vico | 152727 | [152727-run-and-jump-little-vico.json](./152727-run-and-jump-little-vico.json) |
 | Run Away | 172041 | [172041-run-away.json](./172041-run-away.json) |
 | Run Away SkyDancer | 307726 | [307726-run-away-skydancer.json](./307726-run-away-skydancer.json) |
 | Run Away With Me, Empress! | 225270 | [225270-run-away-with-me-empress.json](./225270-run-away-with-me-empress.json) |
