@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
 | Tank Maze | 293076 | [293076-tank-maze.json](./293076-tank-maze.json) |
 | Tank Nova | 119790 | [119790-tank-nova.json](./119790-tank-nova.json) |
+| Tank Onslaught | 147811 | [147811-tank-onslaught.json](./147811-tank-onslaught.json) |
 | Tank Riders | 61065 | [61065-tank-riders.json](./61065-tank-riders.json) |
 | Tank rush | 102151 | [102151-tank-rush.json](./102151-tank-rush.json) |
 | Tank Squad: Battle Hero | 233087 | [233087-tank-squad-battle-hero.json](./233087-tank-squad-battle-hero.json) |
@@ -5788,6 +5789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War: Black Stone | 221388 | [221388-the-war-black-stone.json](./221388-the-war-black-stone.json) |
 | The Ward | 70348 | [70348-the-ward.json](./70348-the-ward.json) |
 | The Warfstache Clicker | 239539 | [239539-the-warfstache-clicker.json](./239539-the-warfstache-clicker.json) |
+| The Warlock of Firetop Mountain: Goblin Scourge Edition! | 147832 | [147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json](./147832-the-warlock-of-firetop-mountain-goblin-scourge-edition.json) |
 | The Warp: Cephisso | 351641 | [351641-the-warp-cephisso.json](./351641-the-warp-cephisso.json) |
 | The Warrior of Treasures 2: Skull Hunter | 107804 | [107804-the-warrior-of-treasures-2-skull-hunter.json](./107804-the-warrior-of-treasures-2-skull-hunter.json) |
 | The Warrior of Wisdom | 173784 | [173784-the-warrior-of-wisdom.json](./173784-the-warrior-of-wisdom.json) |
