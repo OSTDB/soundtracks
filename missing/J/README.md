@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Wolf 2 | 197900 | [197900-jade-wolf-2.json](./197900-jade-wolf-2.json) |
 | Jaded | 197962 | [197962-jaded.json](./197962-jaded.json) |
 | Jaded | 280912 | [280912-jaded.json](./280912-jaded.json) |
+| Jaded Journey | 180109 | [180109-jaded-journey.json](./180109-jaded-journey.json) |
 | Jägermörder 2: Terra Nova | 262426 | [262426-jagermorder-2-terra-nova.json](./262426-jagermorder-2-terra-nova.json) |
 | Jagged Alliance | 7 | [7-jagged-alliance.json](./7-jagged-alliance.json) |
 | Jagged Alliance 2 Platinum | 53252 | [53252-jagged-alliance-2-platinum.json](./53252-jagged-alliance-2-platinum.json) |
@@ -316,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Pops | 22934 | [22934-jelly-pops.json](./22934-jelly-pops.json) |
 | Jellyboom | 73239 | [73239-jellyboom.json](./73239-jellyboom.json) |
 | JellyCar | 95422 | [95422-jellycar.json](./95422-jellycar.json) |
+| Jellydad Hero | 180135 | [180135-jellydad-hero.json](./180135-jellydad-hero.json) |
 | Jellyfish Archipelago | 272019 | [272019-jellyfish-archipelago.json](./272019-jellyfish-archipelago.json) |
 | Jellyfish Blind Box | 365149 | [365149-jellyfish-blind-box.json](./365149-jellyfish-blind-box.json) |
 | Jellyfish Season | 109726 | [109726-jellyfish-season.json](./109726-jellyfish-season.json) |
