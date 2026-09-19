@@ -1950,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms | 401676 | [401676-the-backrooms.json](./401676-the-backrooms.json) |
 | The Backrooms Company | 293614 | [293614-the-backrooms-company.json](./293614-the-backrooms-company.json) |
 | The Backrooms Footage | 213973 | [213973-the-backrooms-footage.json](./213973-the-backrooms-footage.json) |
+| The Backrooms Game | 130726 | [130726-the-backrooms-game.json](./130726-the-backrooms-game.json) |
 | The Backrooms Origins | 253380 | [253380-the-backrooms-origins.json](./253380-the-backrooms-origins.json) |
 | The Backrooms Simulator | 121032 | [121032-the-backrooms-simulator.json](./121032-the-backrooms-simulator.json) |
 | The Backrooms World | 204671 | [204671-the-backrooms-world.json](./204671-the-backrooms-world.json) |
@@ -4912,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Saboteur | 3171 | [3171-the-saboteur.json](./3171-the-saboteur.json) |
 | The Sacred Acorn | 141175 | [141175-the-sacred-acorn.json](./141175-the-sacred-acorn.json) |
 | The Sacrifice | 89210 | [89210-the-sacrifice.json](./89210-the-sacrifice.json) |
+| The Sacrificial Girl of the Fantasy 3 Kingdoms: Shu | 130206 | [130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json](./130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json) |
 | The Saddle Club | 268211 | [268211-the-saddle-club.json](./268211-the-saddle-club.json) |
 | The Safeguard Garrison 2 | 28899 | [28899-the-safeguard-garrison-2.json](./28899-the-safeguard-garrison-2.json) |
 | The Saga of Nino's Transmigration | 120389 | [120389-the-saga-of-ninos-transmigration.json](./120389-the-saga-of-ninos-transmigration.json) |
@@ -6383,6 +6385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrice in a row: Last Adventure | 213419 | [213419-thrice-in-a-row-last-adventure.json](./213419-thrice-in-a-row-last-adventure.json) |
 | Thrift Store Treasure: Hidden Objects | 417510 | [417510-thrift-store-treasure-hidden-objects.json](./417510-thrift-store-treasure-hidden-objects.json) |
 | Thrill Rush | 103400 | [103400-thrill-rush.json](./103400-thrill-rush.json) |
+| Thrillgate | 130160 | [130160-thrillgate.json](./130160-thrillgate.json) |
 | Thrills & Chills - Roller Coasters | 31538 | [31538-thrills-and-chills-roller-coasters.json](./31538-thrills-and-chills-roller-coasters.json) |
 | Thrillville | 2852 | [2852-thrillville.json](./2852-thrillville.json) |
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
@@ -10106,6 +10109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok: Evolution | 146695 | [146695-turok-evolution.json](./146695-turok-evolution.json) |
 | Turok: Rage Wars | 1327 | [1327-turok-rage-wars.json](./1327-turok-rage-wars.json) |
 | Turquoise | 389596 | [389596-turquoise.json](./389596-turquoise.json) |
+| Turret | 130200 | [130200-turret.json](./130200-turret.json) |
 | TurretCraft | 34272 | [34272-turretcraft.json](./34272-turretcraft.json) |
 | TurretGirls | 347243 | [347243-turretgirls.json](./347243-turretgirls.json) |
 | Turrican 3 | 12803 | [12803-turrican-3.json](./12803-turrican-3.json) |
