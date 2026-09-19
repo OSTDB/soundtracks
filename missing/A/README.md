@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akari by Nikoli | 84869 | [84869-akari-by-nikoli.json](./84869-akari-by-nikoli.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
 | Akatori | 140375 | [140375-akatori.json](./140375-akatori.json) |
+| Akatsuki Blitzkampf: Ausf. Achse | 132026 | [132026-akatsuki-blitzkampf-ausf-achse.json](./132026-akatsuki-blitzkampf-ausf-achse.json) |
 | Akatsuki no Amaneka to Aoi Kyojin: Pashiate Bunmei Kenkyuukai Koubouki | 67296 | [67296-akatsuki-no-amaneka-to-aoi-kyojin-pashiate-bunmei-kenkyuukai-koubouki.json](./67296-akatsuki-no-amaneka-to-aoi-kyojin-pashiate-bunmei-kenkyuukai-koubouki.json) |
 | Akatsuki no Bizantira | 228703 | [228703-akatsuki-no-bizantira.json](./228703-akatsuki-no-bizantira.json) |
 | Akatsuki no Goei | 202951 | [202951-akatsuki-no-goei.json](./202951-akatsuki-no-goei.json) |
@@ -1653,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allumeria | 362894 | [362894-allumeria.json](./362894-allumeria.json) |
 | Alluna and Brie | 117033 | [117033-alluna-and-brie.json](./117033-alluna-and-brie.json) |
 | Almastriga: Relics of Azathoth | 156618 | [156618-almastriga-relics-of-azathoth.json](./156618-almastriga-relics-of-azathoth.json) |
+| Almighty: God Idle Clicker | 132013 | [132013-almighty-god-idle-clicker.json](./132013-almighty-god-idle-clicker.json) |
 | Almistice | 274010 | [274010-almistice.json](./274010-almistice.json) |
 | Almond Ridge | 270753 | [270753-almond-ridge.json](./270753-almond-ridge.json) |
 | Almos a Dream Painter's Tale | 415125 | [415125-almos-a-dream-painters-tale.json](./415125-almos-a-dream-painters-tale.json) |
