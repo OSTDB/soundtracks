@@ -2118,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 3: Limited Models Pack | 156106 | [156106-ride-3-limited-models-pack.json](./156106-ride-3-limited-models-pack.json) |
 | Ride 4: Bonus Pack 14 | 190708 | [190708-ride-4-bonus-pack-14.json](./190708-ride-4-bonus-pack-14.json) |
 | Ride 4: Naked Japan Style | 190706 | [190706-ride-4-naked-japan-style.json](./190706-ride-4-naked-japan-style.json) |
+| Ride 4: Special Edition | 173171 | [173171-ride-4-special-edition.json](./173171-ride-4-special-edition.json) |
 | Ride 5: Born to Race Pack | 288213 | [288213-ride-5-born-to-race-pack.json](./288213-ride-5-born-to-race-pack.json) |
 | Ride 5: Dreamer's Garage Pack | 277830 | [277830-ride-5-dreamers-garage-pack.json](./277830-ride-5-dreamers-garage-pack.json) |
 | Ride 5: Far East Pack | 271287 | [271287-ride-5-far-east-pack.json](./271287-ride-5-far-east-pack.json) |
@@ -3681,6 +3682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Water | 173297 | [173297-running-water.json](./173297-running-water.json) |
 | Running With Dinosaurs | 103470 | [103470-running-with-dinosaurs.json](./103470-running-with-dinosaurs.json) |
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
+| Runout | 173182 | [173182-runout.json](./173182-runout.json) |
 | Runway | 174345 | [174345-runway.json](./174345-runway.json) |
 | Runway 66 | 348768 | [348768-runway-66.json](./348768-runway-66.json) |
 | RuPaul's Drag Race Match Queen | 339640 | [339640-rupauls-drag-race-match-queen.json](./339640-rupauls-drag-race-match-queen.json) |
