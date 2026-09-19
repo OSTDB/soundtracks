@@ -2003,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishy Dungeon Delving | 230917 | [230917-fishy-dungeon-delving.json](./230917-fishy-dungeon-delving.json) |
 | Fishy2 | 129381 | [129381-fishy2.json](./129381-fishy2.json) |
 | Fisraduth: Castle of Tyramis | 321337 | [321337-fisraduth-castle-of-tyramis.json](./321337-fisraduth-castle-of-tyramis.json) |
+| Fission | 164917 | [164917-fission.json](./164917-fission.json) |
 | Fission | 381021 | [381021-fission.json](./381021-fission.json) |
 | Fissure | 361809 | [361809-fissure.json](./361809-fissure.json) |
 | Fissure: Cubic | 297078 | [297078-fissure-cubic.json](./297078-fissure-cubic.json) |
@@ -2778,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Streaker Simulator | 259086 | [259086-football-streaker-simulator.json](./259086-football-streaker-simulator.json) |
 | Football Superstar 2 | 317008 | [317008-football-superstar-2.json](./317008-football-superstar-2.json) |
 | Football Thug Life Soccer | 255741 | [255741-football-thug-life-soccer.json](./255741-football-thug-life-soccer.json) |
+| Football Tournament | 164882 | [164882-football-tournament.json](./164882-football-tournament.json) |
 | Football, Tactics & Glory 2 | 258555 | [258555-football-tactics-and-glory-2.json](./258555-football-tactics-and-glory-2.json) |
 | Football: The Hardest Job | 123574 | [123574-football-the-hardest-job.json](./123574-football-the-hardest-job.json) |
 | FootGoal! Tiki Taka | 147921 | [147921-footgoal-tiki-taka.json](./147921-footgoal-tiki-taka.json) |
