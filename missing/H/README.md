@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Clicker: Stella Is Streaming | 389615 | [389615-hentai-clicker-stella-is-streaming.json](./389615-hentai-clicker-stella-is-streaming.json) |
 | Hentai Clicker: Valentine Is Streaming | 389612 | [389612-hentai-clicker-valentine-is-streaming.json](./389612-hentai-clicker-valentine-is-streaming.json) |
 | Hentai Clicker: Yumi Is Streaming | 389618 | [389618-hentai-clicker-yumi-is-streaming.json](./389618-hentai-clicker-yumi-is-streaming.json) |
+| Hentai Coloring Game | 161257 | [161257-hentai-coloring-game.json](./161257-hentai-coloring-game.json) |
 | Hentai Crush | 136424 | [136424-hentai-crush.json](./136424-hentai-crush.json) |
 | Hentai Darts | 165529 | [165529-hentai-darts.json](./165529-hentai-darts.json) |
 | Hentai Dating Stories: Brazil - Best Stories 1 | 308788 | [308788-hentai-dating-stories-brazil-best-stories-1.json](./308788-hentai-dating-stories-brazil-best-stories-1.json) |
@@ -2462,6 +2463,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive Time | 124254 | [124254-hive-time.json](./124254-hive-time.json) |
 | Hivefront TD | 379857 | [379857-hivefront-td.json](./379857-hivefront-td.json) |
 | Hiveswap Friendsim | 97012 | [97012-hiveswap-friendsim.json](./97012-hiveswap-friendsim.json) |
+| Hiveswap Friendsim: Volume Eight | 161243 | [161243-hiveswap-friendsim-volume-eight.json](./161243-hiveswap-friendsim-volume-eight.json) |
+| Hiveswap Friendsim: Volume Eighteen | 161253 | [161253-hiveswap-friendsim-volume-eighteen.json](./161253-hiveswap-friendsim-volume-eighteen.json) |
+| Hiveswap Friendsim: Volume Eleven | 161246 | [161246-hiveswap-friendsim-volume-eleven.json](./161246-hiveswap-friendsim-volume-eleven.json) |
+| Hiveswap Friendsim: Volume Fifteen | 161250 | [161250-hiveswap-friendsim-volume-fifteen.json](./161250-hiveswap-friendsim-volume-fifteen.json) |
+| Hiveswap Friendsim: Volume Five | 161240 | [161240-hiveswap-friendsim-volume-five.json](./161240-hiveswap-friendsim-volume-five.json) |
+| Hiveswap Friendsim: Volume Four | 161239 | [161239-hiveswap-friendsim-volume-four.json](./161239-hiveswap-friendsim-volume-four.json) |
+| Hiveswap Friendsim: Volume Fourteen | 161249 | [161249-hiveswap-friendsim-volume-fourteen.json](./161249-hiveswap-friendsim-volume-fourteen.json) |
+| Hiveswap Friendsim: Volume Nine | 161244 | [161244-hiveswap-friendsim-volume-nine.json](./161244-hiveswap-friendsim-volume-nine.json) |
+| Hiveswap Friendsim: Volume Seven | 161242 | [161242-hiveswap-friendsim-volume-seven.json](./161242-hiveswap-friendsim-volume-seven.json) |
+| Hiveswap Friendsim: Volume Seventeen | 161252 | [161252-hiveswap-friendsim-volume-seventeen.json](./161252-hiveswap-friendsim-volume-seventeen.json) |
+| Hiveswap Friendsim: Volume Six | 161241 | [161241-hiveswap-friendsim-volume-six.json](./161241-hiveswap-friendsim-volume-six.json) |
+| Hiveswap Friendsim: Volume Sixteen | 161251 | [161251-hiveswap-friendsim-volume-sixteen.json](./161251-hiveswap-friendsim-volume-sixteen.json) |
+| Hiveswap Friendsim: Volume Ten | 161245 | [161245-hiveswap-friendsim-volume-ten.json](./161245-hiveswap-friendsim-volume-ten.json) |
+| Hiveswap Friendsim: Volume Thirteen | 161248 | [161248-hiveswap-friendsim-volume-thirteen.json](./161248-hiveswap-friendsim-volume-thirteen.json) |
+| Hiveswap Friendsim: Volume Three | 161238 | [161238-hiveswap-friendsim-volume-three.json](./161238-hiveswap-friendsim-volume-three.json) |
+| Hiveswap Friendsim: Volume Twelve | 161247 | [161247-hiveswap-friendsim-volume-twelve.json](./161247-hiveswap-friendsim-volume-twelve.json) |
+| Hiveswap Friendsim: Volume Two | 161237 | [161237-hiveswap-friendsim-volume-two.json](./161237-hiveswap-friendsim-volume-two.json) |
 | Hix: Puzzle Islands | 146842 | [146842-hix-puzzle-islands.json](./146842-hix-puzzle-islands.json) |
 | Hiza no Ue no Partner: Kitty on Your Lap | 65494 | [65494-hiza-no-ue-no-partner-kitty-on-your-lap.json](./65494-hiza-no-ue-no-partner-kitty-on-your-lap.json) |
 | Hjarta | 169985 | [169985-hjarta.json](./169985-hjarta.json) |
