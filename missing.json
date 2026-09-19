@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T04:32:43.716Z",
-  "total_missing": 90621,
+  "generated_at": "2026-09-19T04:47:38.289Z",
+  "total_missing": 90671,
   "games": [
     {
       "igdb_id": 176875,
@@ -13811,6 +13811,11 @@
       "igdb_id": 272004,
       "game_name": "Anarchy City 3: Zero Tolerance",
       "file": "missing/A/272004-anarchy-city-3-zero-tolerance.json"
+    },
+    {
+      "igdb_id": 170385,
+      "game_name": "Anarchy Legends: Online",
+      "file": "missing/A/170385-anarchy-legends-online.json"
     },
     {
       "igdb_id": 1996,
@@ -34638,6 +34643,11 @@
       "file": "missing/B/391051-be-nunner.json"
     },
     {
+      "igdb_id": 170421,
+      "game_name": "Be Quiet!: Act One",
+      "file": "missing/B/170421-be-quiet-act-one.json"
+    },
+    {
       "igdb_id": 112987,
       "game_name": "Be the Ruler: Britannia",
       "file": "missing/B/112987-be-the-ruler-britannia.json"
@@ -38073,6 +38083,11 @@
       "file": "missing/B/45943-big-bang-show.json"
     },
     {
+      "igdb_id": 170402,
+      "game_name": "Big Bash Cricket",
+      "file": "missing/B/170402-big-bash-cricket.json"
+    },
+    {
       "igdb_id": 43880,
       "game_name": "Big Bass Fishing",
       "file": "missing/B/43880-big-bass-fishing.json"
@@ -41306,6 +41321,11 @@
       "igdb_id": 6918,
       "game_name": "Blades of Time",
       "file": "missing/B/6918-blades-of-time.json"
+    },
+    {
+      "igdb_id": 170418,
+      "game_name": "Blades of Time: Dismal Swamp",
+      "file": "missing/B/170418-blades-of-time-dismal-swamp.json"
     },
     {
       "igdb_id": 52656,
@@ -63868,6 +63888,11 @@
       "file": "missing/C/166238-child-of-light-limited-edition.json"
     },
     {
+      "igdb_id": 170390,
+      "game_name": "Child of Light: The Golem's Plight Pack",
+      "file": "missing/C/170390-child-of-light-the-golems-plight-pack.json"
+    },
+    {
       "igdb_id": 350521,
       "game_name": "Child of Luminescence",
       "file": "missing/C/350521-child-of-luminescence.json"
@@ -71926,6 +71951,46 @@
       "igdb_id": 413763,
       "game_name": "Command Monster",
       "file": "missing/C/413763-command-monster.json"
+    },
+    {
+      "igdb_id": 170396,
+      "game_name": "Command Ops 2: Bastogne Vol. 4",
+      "file": "missing/C/170396-command-ops-2-bastogne-vol-4.json"
+    },
+    {
+      "igdb_id": 170395,
+      "game_name": "Command Ops 2: Bradley at Bay Vol. 8",
+      "file": "missing/C/170395-command-ops-2-bradley-at-bay-vol-8.json"
+    },
+    {
+      "igdb_id": 170394,
+      "game_name": "Command Ops 2: Foothills of the Gods Vol. 2",
+      "file": "missing/C/170394-command-ops-2-foothills-of-the-gods-vol-2.json"
+    },
+    {
+      "igdb_id": 170392,
+      "game_name": "Command Ops 2: Highway to the Reich Vol. 1",
+      "file": "missing/C/170392-command-ops-2-highway-to-the-reich-vol-1.json"
+    },
+    {
+      "igdb_id": 170393,
+      "game_name": "Command Ops 2: Knock on all Doors vol. 6",
+      "file": "missing/C/170393-command-ops-2-knock-on-all-doors-vol-6.json"
+    },
+    {
+      "igdb_id": 170398,
+      "game_name": "Command Ops 2: Ride of the Valkyries Vol. 3",
+      "file": "missing/C/170398-command-ops-2-ride-of-the-valkyries-vol-3.json"
+    },
+    {
+      "igdb_id": 170397,
+      "game_name": "Command Ops 2: The Cauldron Vol. 5",
+      "file": "missing/C/170397-command-ops-2-the-cauldron-vol-5.json"
+    },
+    {
+      "igdb_id": 170399,
+      "game_name": "Command Ops 2: Westwall Vol. 7",
+      "file": "missing/C/170399-command-ops-2-westwall-vol-7.json"
     },
     {
       "igdb_id": 74324,
@@ -151233,6 +151298,16 @@
       "file": "missing/G/57066-goddess-kiss.json"
     },
     {
+      "igdb_id": 170420,
+      "game_name": "Goddess of Card War: DLC-1",
+      "file": "missing/G/170420-goddess-of-card-war-dlc-1.json"
+    },
+    {
+      "igdb_id": 170419,
+      "game_name": "Goddess of Card War: DLC-2",
+      "file": "missing/G/170419-goddess-of-card-war-dlc-2.json"
+    },
+    {
       "igdb_id": 329353,
       "game_name": "Goddess Of Swing",
       "file": "missing/G/329353-goddess-of-swing.json"
@@ -156946,6 +157021,11 @@
       "igdb_id": 289322,
       "game_name": "Guards!: Vanguard Supporter Pack",
       "file": "missing/G/289322-guards-vanguard-supporter-pack.json"
+    },
+    {
+      "igdb_id": 170382,
+      "game_name": "Gubble",
+      "file": "missing/G/170382-gubble.json"
     },
     {
       "igdb_id": 102118,
@@ -170628,6 +170708,36 @@
       "file": "missing/H/35933-his-heroes-in-the-sky.json"
     },
     {
+      "igdb_id": 170405,
+      "game_name": "HIS: Heroes in the Sky - AVRO Spade Julia Mackin Pack",
+      "file": "missing/H/170405-his-heroes-in-the-sky-avro-spade-julia-mackin-pack.json"
+    },
+    {
+      "igdb_id": 170403,
+      "game_name": "HIS: Heroes in the Sky - BV P188 Julia Mackin Pack",
+      "file": "missing/H/170403-his-heroes-in-the-sky-bv-p188-julia-mackin-pack.json"
+    },
+    {
+      "igdb_id": 170406,
+      "game_name": "HIS: Heroes in the Sky - Do335 Berta Hildebrand Pack",
+      "file": "missing/H/170406-his-heroes-in-the-sky-do335-berta-hildebrand-pack.json"
+    },
+    {
+      "igdb_id": 170408,
+      "game_name": "HIS: Heroes in the Sky - Fa223 Berta Hildebrand Pack",
+      "file": "missing/H/170408-his-heroes-in-the-sky-fa223-berta-hildebrand-pack.json"
+    },
+    {
+      "igdb_id": 170407,
+      "game_name": "HIS: Heroes in the Sky - Ju87G Berta Hildebrand Pack",
+      "file": "missing/H/170407-his-heroes-in-the-sky-ju87g-berta-hildebrand-pack.json"
+    },
+    {
+      "igdb_id": 170404,
+      "game_name": "HIS: Heroes in the Sky - XB-35 Julia Mackin Pack",
+      "file": "missing/H/170404-his-heroes-in-the-sky-xb-35-julia-mackin-pack.json"
+    },
+    {
       "igdb_id": 118999,
       "game_name": "Hiscores! Gold",
       "file": "missing/H/118999-hiscores-gold.json"
@@ -177146,6 +177256,11 @@
       "igdb_id": 388189,
       "game_name": "Hyperdimension Neptunia Re;Birth2: Sisters Generation - Limited Edition",
       "file": "missing/H/388189-hyperdimension-neptunia-re-birth2-sisters-generation-limited-edition.json"
+    },
+    {
+      "igdb_id": 170401,
+      "game_name": "Hyperdimension Neptunia Re;Birth3: V Generation - Mini Island",
+      "file": "missing/H/170401-hyperdimension-neptunia-re-birth3-v-generation-mini-island.json"
     },
     {
       "igdb_id": 172172,
@@ -185308,6 +185423,11 @@
       "file": "missing/I/351616-invader-simulator.json"
     },
     {
+      "igdb_id": 170422,
+      "game_name": "Invaders",
+      "file": "missing/I/170422-invaders.json"
+    },
+    {
       "igdb_id": 217960,
       "game_name": "Invaders",
       "file": "missing/I/217960-invaders.json"
@@ -192593,6 +192713,11 @@
       "file": "missing/J/243100-jumping-jacks.json"
     },
     {
+      "igdb_id": 170387,
+      "game_name": "Jumping Joe! Friends Edition",
+      "file": "missing/J/170387-jumping-joe-friends-edition.json"
+    },
+    {
       "igdb_id": 115590,
       "game_name": "Jumping Master",
       "file": "missing/J/115590-jumping-master.json"
@@ -194431,6 +194556,11 @@
       "igdb_id": 314637,
       "game_name": "Kalimat Karash",
       "file": "missing/K/314637-kalimat-karash.json"
+    },
+    {
+      "igdb_id": 170377,
+      "game_name": "Kalimba: The Dark Void - Solo",
+      "file": "missing/K/170377-kalimba-the-dark-void-solo.json"
     },
     {
       "igdb_id": 277004,
@@ -226218,6 +226348,11 @@
       "file": "missing/M/182948-max-downforce.json"
     },
     {
+      "igdb_id": 170384,
+      "game_name": "Max Gentlemen: Animal Pack",
+      "file": "missing/M/170384-max-gentlemen-animal-pack.json"
+    },
+    {
       "igdb_id": 395013,
       "game_name": "Max in Ghostpix",
       "file": "missing/M/395013-max-in-ghostpix.json"
@@ -229256,6 +229391,11 @@
       "igdb_id": 410236,
       "game_name": "Mei Paranormies 2",
       "file": "missing/M/410236-mei-paranormies-2.json"
+    },
+    {
+      "igdb_id": 170375,
+      "game_name": "Mei Qi: Season 6",
+      "file": "missing/M/170375-mei-qi-season-6.json"
     },
     {
       "igdb_id": 329373,
@@ -264833,6 +264973,11 @@
       "file": "missing/O/258706-one-smore.json"
     },
     {
+      "igdb_id": 170374,
+      "game_name": "One Shell Straight to Hell: X Layers of Fear",
+      "file": "missing/O/170374-one-shell-straight-to-hell-x-layers-of-fear.json"
+    },
+    {
       "igdb_id": 179111,
       "game_name": "One Shot",
       "file": "missing/O/179111-one-shot.json"
@@ -271921,6 +272066,11 @@
       "igdb_id": 367489,
       "game_name": "Paper Depths",
       "file": "missing/P/367489-paper-depths.json"
+    },
+    {
+      "igdb_id": 170424,
+      "game_name": "Paper Dolls 2: Escape",
+      "file": "missing/P/170424-paper-dolls-2-escape.json"
     },
     {
       "igdb_id": 236826,
@@ -289346,6 +289496,11 @@
       "igdb_id": 34716,
       "game_name": "Pretty Girls Mahjong Solitaire",
       "file": "missing/P/34716-pretty-girls-mahjong-solitaire.json"
+    },
+    {
+      "igdb_id": 170376,
+      "game_name": "Pretty Girls Mahjong Solitaire: Blue",
+      "file": "missing/P/170376-pretty-girls-mahjong-solitaire-blue.json"
     },
     {
       "igdb_id": 30181,
@@ -324948,9 +325103,49 @@
       "file": "missing/S/273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json"
     },
     {
+      "igdb_id": 170411,
+      "game_name": "Sentinels of the Multiverse: Infernal Relics",
+      "file": "missing/S/170411-sentinels-of-the-multiverse-infernal-relics.json"
+    },
+    {
+      "igdb_id": 170410,
+      "game_name": "Sentinels of the Multiverse: Mini-Pack 1",
+      "file": "missing/S/170410-sentinels-of-the-multiverse-mini-pack-1.json"
+    },
+    {
+      "igdb_id": 170413,
+      "game_name": "Sentinels of the Multiverse: Mini-Pack 5 - Void Guard",
+      "file": "missing/S/170413-sentinels-of-the-multiverse-mini-pack-5-void-guard.json"
+    },
+    {
+      "igdb_id": 170414,
+      "game_name": "Sentinels of the Multiverse: OblivAeon",
+      "file": "missing/S/170414-sentinels-of-the-multiverse-oblivaeon.json"
+    },
+    {
+      "igdb_id": 170416,
+      "game_name": "Sentinels of the Multiverse: Rook City",
+      "file": "missing/S/170416-sentinels-of-the-multiverse-rook-city.json"
+    },
+    {
+      "igdb_id": 170417,
+      "game_name": "Sentinels of the Multiverse: Shattered Timelines",
+      "file": "missing/S/170417-sentinels-of-the-multiverse-shattered-timelines.json"
+    },
+    {
       "igdb_id": 169969,
       "game_name": "Sentinels of the Multiverse: Vengeance",
       "file": "missing/S/169969-sentinels-of-the-multiverse-vengeance.json"
+    },
+    {
+      "igdb_id": 170412,
+      "game_name": "Sentinels of the Multiverse: Villains of the Multiverse",
+      "file": "missing/S/170412-sentinels-of-the-multiverse-villains-of-the-multiverse.json"
+    },
+    {
+      "igdb_id": 170415,
+      "game_name": "Sentinels of the Multiverse: Wrath of the Cosmos",
+      "file": "missing/S/170415-sentinels-of-the-multiverse-wrath-of-the-cosmos.json"
     },
     {
       "igdb_id": 34388,
@@ -383513,6 +383708,11 @@
       "file": "missing/T/134083-the-disappearance-of-the-mitchells.json"
     },
     {
+      "igdb_id": 170423,
+      "game_name": "The Disappearing of Gensokyo: Kogasa, Iku Character Pack",
+      "file": "missing/T/170423-the-disappearing-of-gensokyo-kogasa-iku-character-pack.json"
+    },
+    {
       "igdb_id": 210118,
       "game_name": "The Disappearing of Gensokyo: Patchouli",
       "file": "missing/T/210118-the-disappearing-of-gensokyo-patchouli.json"
@@ -388996,6 +389196,11 @@
       "igdb_id": 351723,
       "game_name": "The Last Shot: Arcades",
       "file": "missing/T/351723-the-last-shot-arcades.json"
+    },
+    {
+      "igdb_id": 170386,
+      "game_name": "The Last Show of Mr. Chardish: Act I",
+      "file": "missing/T/170386-the-last-show-of-mr-chardish-act-i.json"
     },
     {
       "igdb_id": 109768,
@@ -398123,6 +398328,11 @@
       "file": "missing/T/219669-the-trench.json"
     },
     {
+      "igdb_id": 170383,
+      "game_name": "The Trial",
+      "file": "missing/T/170383-the-trial.json"
+    },
+    {
       "igdb_id": 172767,
       "game_name": "The Trials",
       "file": "missing/T/172767-the-trials.json"
@@ -406308,6 +406518,11 @@
       "file": "missing/T/51976-tiny-town-vr.json"
     },
     {
+      "igdb_id": 170389,
+      "game_name": "Tiny Town VR: Zombie Pack",
+      "file": "missing/T/170389-tiny-town-vr-zombie-pack.json"
+    },
+    {
       "igdb_id": 159849,
       "game_name": "Tiny Toy Tanks",
       "file": "missing/T/159849-tiny-toy-tanks.json"
@@ -411681,6 +411896,11 @@
       "igdb_id": 23730,
       "game_name": "Toxic Bubbles",
       "file": "missing/T/23730-toxic-bubbles.json"
+    },
+    {
+      "igdb_id": 170391,
+      "game_name": "Toxic Terror: Episode 2 - The Lich's Lair",
+      "file": "missing/T/170391-toxic-terror-episode-2-the-lichs-lair.json"
     },
     {
       "igdb_id": 322973,
@@ -427333,6 +427553,11 @@
       "file": "missing/V/155656-velucity.json"
     },
     {
+      "igdb_id": 170381,
+      "game_name": "Velucity: O2Jam Pack 1",
+      "file": "missing/V/170381-velucity-o2jam-pack-1.json"
+    },
+    {
       "igdb_id": 130336,
       "game_name": "Velvet Dark",
       "file": "missing/V/130336-velvet-dark.json"
@@ -436433,6 +436658,11 @@
       "file": "missing/W/131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json"
     },
     {
+      "igdb_id": 170400,
+      "game_name": "Welcome to... Chichester 2: Part II - No Extra Regrets For the Future",
+      "file": "missing/W/170400-welcome-to-chichester-2-part-ii-no-extra-regrets-for-the-future.json"
+    },
+    {
       "igdb_id": 169960,
       "game_name": "Welcome To... Chichester 3: Original Episode",
       "file": "missing/W/169960-welcome-to-chichester-3-original-episode.json"
@@ -443698,6 +443928,11 @@
       "file": "missing/W/415917-world-sweeper.json"
     },
     {
+      "igdb_id": 170409,
+      "game_name": "World Table Tennis Champs",
+      "file": "missing/W/170409-world-table-tennis-champs.json"
+    },
+    {
       "igdb_id": 49349,
       "game_name": "World Tennis Stars",
       "file": "missing/W/49349-world-tennis-stars.json"
@@ -445941,6 +446176,21 @@
       "igdb_id": 341010,
       "game_name": "Xenosaga Pied Piper Recreation",
       "file": "missing/X/341010-xenosaga-pied-piper-recreation.json"
+    },
+    {
+      "igdb_id": 170380,
+      "game_name": "XenoShyft: Dreadmire",
+      "file": "missing/X/170380-xenoshyft-dreadmire.json"
+    },
+    {
+      "igdb_id": 170378,
+      "game_name": "XenoShyft: Forbidden Sciences",
+      "file": "missing/X/170378-xenoshyft-forbidden-sciences.json"
+    },
+    {
+      "igdb_id": 170379,
+      "game_name": "XenoShyft: NorTec Elite",
+      "file": "missing/X/170379-xenoshyft-nortec-elite.json"
     },
     {
       "igdb_id": 301956,
