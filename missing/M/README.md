@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Partner | 119756 | [119756-marble-partner.json](./119756-marble-partner.json) |
 | Marble Void | 33235 | [33235-marble-void.json](./33235-marble-void.json) |
 | Marble-O-Tron | 174294 | [174294-marble-o-tron.json](./174294-marble-o-tron.json) |
+| Marbleous Blocks | 163825 | [163825-marbleous-blocks.json](./163825-marbleous-blocks.json) |
 | Marbles Garden | 192298 | [192298-marbles-garden.json](./192298-marbles-garden.json) |
 | Marbles HD | 101520 | [101520-marbles-hd.json](./101520-marbles-hd.json) |
 | Marby Baby Story | 143668 | [143668-marby-baby-story.json](./143668-marby-baby-story.json) |
