@@ -2574,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
 | Planet Coaster 2: Bonus Ride Collection | 371960 | [371960-planet-coaster-2-bonus-ride-collection.json](./371960-planet-coaster-2-bonus-ride-collection.json) |
 | Planet Coaster 2: Deluxe Edition | 331854 | [331854-planet-coaster-2-deluxe-edition.json](./331854-planet-coaster-2-deluxe-edition.json) |
+| Planet Coaster: Deluxe Rides Collection | 173162 | [173162-planet-coaster-deluxe-rides-collection.json](./173162-planet-coaster-deluxe-rides-collection.json) |
 | Planet Collectors: Episode Earth | 193423 | [193423-planet-collectors-episode-earth.json](./193423-planet-collectors-episode-earth.json) |
 | Planet Collision | 229178 | [229178-planet-collision.json](./229178-planet-collision.json) |
 | Planet Craft | 181310 | [181310-planet-craft.json](./181310-planet-craft.json) |
@@ -3453,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Quiz | 246477 | [246477-pool-quiz.json](./246477-pool-quiz.json) |
 | Pool Sharks | 92437 | [92437-pool-sharks.json](./92437-pool-sharks.json) |
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
+| Pool: 8 Ball Billiards | 173139 | [173139-pool-8-ball-billiards.json](./173139-pool-8-ball-billiards.json) |
 | Pool: 8 Ball Mania | 213386 | [213386-pool-8-ball-mania.json](./213386-pool-8-ball-mania.json) |
 | Pool! | 88287 | [88287-pool.json](./88287-pool.json) |
 | Poolcore | 238742 | [238742-poolcore.json](./238742-poolcore.json) |
@@ -3876,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prenup Struggles | 314062 | [314062-prenup-struggles.json](./314062-prenup-struggles.json) |
 | PrePaladin Wars | 148482 | [148482-prepaladin-wars.json](./148482-prepaladin-wars.json) |
 | Prepare for the Jelly | 184633 | [184633-prepare-for-the-jelly.json](./184633-prepare-for-the-jelly.json) |
+| Prepare the First RPG Village: The Adventures of Nyanzou&Kumakichi - Escape Game Series | 173143 | [173143-prepare-the-first-rpg-village-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json](./173143-prepare-the-first-rpg-village-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json) |
 | Prepper | 229790 | [229790-prepper.json](./229790-prepper.json) |
 | Preppie! II | 23684 | [23684-preppie-ii.json](./23684-preppie-ii.json) |
 | Prequel | 388971 | [388971-prequel.json](./388971-prequel.json) |
