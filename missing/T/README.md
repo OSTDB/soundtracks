@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T.E.C. 3001 | 14646 | [14646-t-e-c-3001.json](./14646-t-e-c-3001.json) |
 | T.G.I.F. | 292131 | [292131-t-g-i-f.json](./292131-t-g-i-f.json) |
 | T.R.A.G.: Tactical Rescue Assault Group - Mission of Mercy | 76599 | [76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
+| T.W. Burgess Presents: Pylons | 169877 | [169877-t-w-burgess-presents-pylons.json](./169877-t-w-burgess-presents-pylons.json) |
 | T1wre3: Noname | 329161 | [329161-t1wre3-noname.json](./329161-t1wre3-noname.json) |
 | T2048 | 304335 | [304335-t2048.json](./304335-t2048.json) |
 | T3 - Take the Turn | 109728 | [109728-t3-take-the-turn.json](./109728-t3-take-the-turn.json) |
@@ -1058,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TeeDee | 327390 | [327390-teedee.json](./327390-teedee.json) |
 | TEEFAX: Cold Case | 289442 | [289442-teefax-cold-case.json](./289442-teefax-cold-case.json) |
 | Teel Me You! | 181361 | [181361-teel-me-you.json](./181361-teel-me-you.json) |
+| Teen Patti Octro | 169878 | [169878-teen-patti-octro.json](./169878-teen-patti-octro.json) |
 | Teen Titans Go! Arcade | 59358 | [59358-teen-titans-go-arcade.json](./59358-teen-titans-go-arcade.json) |
 | Teenage Lawnmower | 308559 | [308559-teenage-lawnmower.json](./308559-teenage-lawnmower.json) |
 | Teenage Mutant Ninja Turtles II: The Arcade Game | 3816 | [3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json](./3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json) |
@@ -2403,6 +2405,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Aristotle | 251241 | [251241-the-curse-of-aristotle.json](./251241-the-curse-of-aristotle.json) |
 | The Curse of Azriel | 317821 | [317821-the-curse-of-azriel.json](./317821-the-curse-of-azriel.json) |
 | The Curse of Cattenburg | 183478 | [183478-the-curse-of-cattenburg.json](./183478-the-curse-of-cattenburg.json) |
+| The Curse of Esrevni | 169868 | [169868-the-curse-of-esrevni.json](./169868-the-curse-of-esrevni.json) |
+| The Curse of Illmoore Bay | 169874 | [169874-the-curse-of-illmoore-bay.json](./169874-the-curse-of-illmoore-bay.json) |
 | The Curse of Karlanrik | 338275 | [338275-the-curse-of-karlanrik.json](./338275-the-curse-of-karlanrik.json) |
 | The Curse of Mount Madre | 328280 | [328280-the-curse-of-mount-madre.json](./328280-the-curse-of-mount-madre.json) |
 | The Curse of Ra | 127340 | [127340-the-curse-of-ra.json](./127340-the-curse-of-ra.json) |
@@ -4114,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Matriarch | 188686 | [188686-the-matriarch.json](./188686-the-matriarch.json) |
 | The Matter at Hand | 183476 | [183476-the-matter-at-hand.json](./183476-the-matter-at-hand.json) |
 | The Maze | 107158 | [107158-the-maze.json](./107158-the-maze.json) |
+| The Maze | 169859 | [169859-the-maze.json](./169859-the-maze.json) |
 | The Maze : Endless nightmare | 29763 | [29763-the-maze-endless-nightmare.json](./29763-the-maze-endless-nightmare.json) |
 | The Maze Contract | 276157 | [276157-the-maze-contract.json](./276157-the-maze-contract.json) |
 | The Maze Escaper | 150700 | [150700-the-maze-escaper.json](./150700-the-maze-escaper.json) |
@@ -4763,6 +4768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scaling | 386286 | [386286-the-scaling.json](./386286-the-scaling.json) |
 | The Scarecrow Knight | 358976 | [358976-the-scarecrow-knight.json](./358976-the-scarecrow-knight.json) |
 | The Scarlet Demonslayer | 231348 | [231348-the-scarlet-demonslayer.json](./231348-the-scarlet-demonslayer.json) |
+| The Scary Square | 169862 | [169862-the-scary-square.json](./169862-the-scary-square.json) |
 | The Scavenger | 69198 | [69198-the-scavenger.json](./69198-the-scavenger.json) |
 | The Scene Of the Crime | 383374 | [383374-the-scene-of-the-crime.json](./383374-the-scene-of-the-crime.json) |
 | The Scenic Treasures - Japanese Learning Visual Novel | 112927 | [112927-the-scenic-treasures-japanese-learning-visual-novel.json](./112927-the-scenic-treasures-japanese-learning-visual-novel.json) |
@@ -7044,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timmy's adventures : VerbMon | 123550 | [123550-timmys-adventures-verbmon.json](./123550-timmys-adventures-verbmon.json) |
 | Timo's Adventures | 143708 | [143708-timos-adventures.json](./143708-timos-adventures.json) |
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
+| Timothy and the Tower of Mu | 169876 | [169876-timothy-and-the-tower-of-mu.json](./169876-timothy-and-the-tower-of-mu.json) |
 | Timothy: Shinpi no Mori | 189132 | [189132-timothy-shinpi-no-mori.json](./189132-timothy-shinpi-no-mori.json) |
 | Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
 | Tin Can: Original Tracks | 293774 | [293774-tin-can-original-tracks.json](./293774-tin-can-original-tracks.json) |
@@ -7151,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
 | Tiny Wizard Tavern | 412388 | [412388-tiny-wizard-tavern.json](./412388-tiny-wizard-tavern.json) |
 | Tiny-Tasy Town | 103598 | [103598-tiny-tasy-town.json](./103598-tiny-tasy-town.json) |
+| TinyCrack | 169869 | [169869-tinycrack.json](./169869-tinycrack.json) |
 | Tinycraft | 303101 | [303101-tinycraft.json](./303101-tinycraft.json) |
 | TinyCraft Town | 362298 | [362298-tinycraft-town.json](./362298-tinycraft-town.json) |
 | Tinyfolks | 197266 | [197266-tinyfolks.json](./197266-tinyfolks.json) |
