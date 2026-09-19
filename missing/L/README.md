@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LazyTown Live! The Pirate Adventure | 199039 | [199039-lazytown-live-the-pirate-adventure.json](./199039-lazytown-live-the-pirate-adventure.json) |
 | LBreakout2 | 275915 | [275915-lbreakout2.json](./275915-lbreakout2.json) |
 | LBX: Little Battlers eXperience | 11257 | [11257-lbx-little-battlers-experience.json](./11257-lbx-little-battlers-experience.json) |
+| LCD Dem | 139815 | [139815-lcd-dem.json](./139815-lcd-dem.json) |
 | LCD Dream Escalator | 180784 | [180784-lcd-dream-escalator.json](./180784-lcd-dream-escalator.json) |
 | LCD Dungeon System | 94173 | [94173-lcd-dungeon-system.json](./94173-lcd-dungeon-system.json) |
 | LCD Head Chaser | 385730 | [385730-lcd-head-chaser.json](./385730-lcd-head-chaser.json) |
@@ -1419,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lift/Shift | 340918 | [340918-lift-shift.json](./340918-lift-shift.json) |
 | Lifted | 309518 | [309518-lifted.json](./309518-lifted.json) |
 | Lifting Unlimited | 302109 | [302109-lifting-unlimited.json](./302109-lifting-unlimited.json) |
+| Liftoff: Drone Racing - Deluxe Edition | 139829 | [139829-liftoff-drone-racing-deluxe-edition.json](./139829-liftoff-drone-racing-deluxe-edition.json) |
 | Light 'em Up | 204495 | [204495-light-em-up.json](./204495-light-em-up.json) |
 | Light & Glory | 414412 | [414412-light-and-glory.json](./414412-light-and-glory.json) |
 | Light & Shadow | 226425 | [226425-light-and-shadow.json](./226425-light-and-shadow.json) |
@@ -1845,8 +1847,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Mouse's Encyclopedia: Complete Edition | 241398 | [241398-little-mouses-encyclopedia-complete-edition.json](./241398-little-mouses-encyclopedia-complete-edition.json) |
 | Little Nemo and the Guardians of Slumberland | 204380 | [204380-little-nemo-and-the-guardians-of-slumberland.json](./204380-little-nemo-and-the-guardians-of-slumberland.json) |
 | Little Nemo the Clown | 213609 | [213609-little-nemo-the-clown.json](./213609-little-nemo-the-clown.json) |
+| Little Nightmares II: Day 1 Edition | 139821 | [139821-little-nightmares-ii-day-1-edition.json](./139821-little-nightmares-ii-day-1-edition.json) |
 | Little Nightmares II: Deluxe Edition | 154511 | [154511-little-nightmares-ii-deluxe-edition.json](./154511-little-nightmares-ii-deluxe-edition.json) |
 | Little Nightmares II: Enhanced Edition | 323947 | [323947-little-nightmares-ii-enhanced-edition.json](./323947-little-nightmares-ii-enhanced-edition.json) |
+| Little Nightmares II: TV Edition | 139822 | [139822-little-nightmares-ii-tv-edition.json](./139822-little-nightmares-ii-tv-edition.json) |
 | Little Nightmares III: Dark Six Costumes Set | 370223 | [370223-little-nightmares-iii-dark-six-costumes-set.json](./370223-little-nightmares-iii-dark-six-costumes-set.json) |
 | Little Nightmares III: Deluxe Edition | 362374 | [362374-little-nightmares-iii-deluxe-edition.json](./362374-little-nightmares-iii-deluxe-edition.json) |
 | Little Nightmares III: Ferryman Costumes Set | 370222 | [370222-little-nightmares-iii-ferryman-costumes-set.json](./370222-little-nightmares-iii-ferryman-costumes-set.json) |
