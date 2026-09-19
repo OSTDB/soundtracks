@@ -4582,7 +4582,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoverQuest | 294456 | [294456-coverquest.json](./294456-coverquest.json) |
 | Covert Command | 65507 | [65507-covert-command.json](./65507-covert-command.json) |
 | Covert Front | 213617 | [213617-covert-front.json](./213617-covert-front.json) |
+| Covert Front: Episode 1 - All Quiet on the Covert Front | 129558 | [129558-covert-front-episode-1-all-quiet-on-the-covert-front.json](./129558-covert-front-episode-1-all-quiet-on-the-covert-front.json) |
 | Covert Front: Episode 2 - Station on the Horizon | 69823 | [69823-covert-front-episode-2-station-on-the-horizon.json](./69823-covert-front-episode-2-station-on-the-horizon.json) |
+| Covert Front: Episode 3 - Night in Zurich | 129559 | [129559-covert-front-episode-3-night-in-zurich.json](./129559-covert-front-episode-3-night-in-zurich.json) |
+| Covert Front: Episode 4 - the Spark of Life | 129560 | [129560-covert-front-episode-4-the-spark-of-life.json](./129560-covert-front-episode-4-the-spark-of-life.json) |
 | Covetous | 138188 | [138188-covetous.json](./138188-covetous.json) |
 | Covid '99 | 140514 | [140514-covid-99.json](./140514-covid-99.json) |
 | Covid 2069 | 167758 | [167758-covid-2069.json](./167758-covid-2069.json) |
@@ -5488,6 +5491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Caves | 8483 | [8483-crystal-caves.json](./8483-crystal-caves.json) |
 | Crystal Chaser: Tenkuu no Masuishou | 402986 | [402986-crystal-chaser-tenkuu-no-masuishou.json](./402986-crystal-chaser-tenkuu-no-masuishou.json) |
 | Crystal Chaser: Tenkuu no Masuishou - R | 402994 | [402994-crystal-chaser-tenkuu-no-masuishou-r.json](./402994-crystal-chaser-tenkuu-no-masuishou-r.json) |
+| Crystal Clear | 129587 | [129587-crystal-clear.json](./129587-crystal-clear.json) |
 | Crystal Confines | 69319 | [69319-crystal-confines.json](./69319-crystal-confines.json) |
 | Crystal core | 124212 | [124212-crystal-core.json](./124212-crystal-core.json) |
 | Crystal Defenders R1 | 21126 | [21126-crystal-defenders-r1.json](./21126-crystal-defenders-r1.json) |
@@ -5988,6 +5992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Illusion | 146724 | [146724-cyber-illusion.json](./146724-cyber-illusion.json) |
 | Cyber Internet Club Simulator | 296501 | [296501-cyber-internet-club-simulator.json](./296501-cyber-internet-club-simulator.json) |
 | Cyber Knight II: Chikyuu Teikoku no Yabou | 42548 | [42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json](./42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json) |
+| Cyber Knights: Flashpoint | 129596 | [129596-cyber-knights-flashpoint.json](./129596-cyber-knights-flashpoint.json) |
 | Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
 | Cyber Manhunt: Hello World | 188493 | [188493-cyber-manhunt-hello-world.json](./188493-cyber-manhunt-hello-world.json) |
 | Cyber Noah | 156015 | [156015-cyber-noah.json](./156015-cyber-noah.json) |
