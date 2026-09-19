@@ -2314,6 +2314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
 | Ripple Park | 405513 | [405513-ripple-park.json](./405513-ripple-park.json) |
 | Ripples | 239315 | [239315-ripples.json](./239315-ripples.json) |
+| Ripshot | 158041 | [158041-ripshot.json](./158041-ripshot.json) |
 | Riptide | 291236 | [291236-riptide.json](./291236-riptide.json) |
 | Riptide GP2 | 16735 | [16735-riptide-gp2.json](./16735-riptide-gp2.json) |
 | Rise | 338219 | [338219-rise.json](./338219-rise.json) |
@@ -3293,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotato Disc Jam | 176385 | [176385-rotato-disc-jam.json](./176385-rotato-disc-jam.json) |
 | Rotato Ship | 185612 | [185612-rotato-ship.json](./185612-rotato-ship.json) |
 | Rotatorix | 74379 | [74379-rotatorix.json](./74379-rotatorix.json) |
+| Rotego | 158063 | [158063-rotego.json](./158063-rotego.json) |
 | Rotem | 372546 | [372546-rotem.json](./372546-rotem.json) |
 | Roterra 4: Magical Revolution | 234605 | [234605-roterra-4-magical-revolution.json](./234605-roterra-4-magical-revolution.json) |
 | Roterra Extreme - Great Escape | 125442 | [125442-roterra-extreme-great-escape.json](./125442-roterra-extreme-great-escape.json) |
