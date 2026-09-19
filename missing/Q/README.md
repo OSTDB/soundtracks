@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QS Scramble | 319595 | [319595-qs-scramble.json](./319595-qs-scramble.json) |
 | QuAaargh!!! | 147306 | [147306-quaaargh.json](./147306-quaaargh.json) |
 | Quaantuum Strike | 336021 | [336021-quaantuum-strike.json](./336021-quaantuum-strike.json) |
+| Quack Attack 1985: Turbo DX Edition | 138603 | [138603-quack-attack-1985-turbo-dx-edition.json](./138603-quack-attack-1985-turbo-dx-edition.json) |
 | Quack Invasion | 244886 | [244886-quack-invasion.json](./244886-quack-invasion.json) |
 | Quacker Blaster | 63286 | [63286-quacker-blaster.json](./63286-quacker-blaster.json) |
 | Quacktangled | 185525 | [185525-quacktangled.json](./185525-quacktangled.json) |
@@ -339,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Country Flags | 104110 | [104110-quiz-country-flags.json](./104110-quiz-country-flags.json) |
 | Quiz It | 102758 | [102758-quiz-it.json](./102758-quiz-it.json) |
 | Quiz Kidou Senshi Gundam: Toi Senshi DX | 62758 | [62758-quiz-kidou-senshi-gundam-toi-senshi-dx.json](./62758-quiz-kidou-senshi-gundam-toi-senshi-dx.json) |
+| Quiz Kit | 138593 | [138593-quiz-kit.json](./138593-quiz-kit.json) |
 | Quiz Master Zero and the Silky Road | 110313 | [110313-quiz-master-zero-and-the-silky-road.json](./110313-quiz-master-zero-and-the-silky-road.json) |
 | Quiz Minister | 208029 | [208029-quiz-minister.json](./208029-quiz-minister.json) |
 | Quiz Party | 84835 | [84835-quiz-party.json](./84835-quiz-party.json) |
