@@ -1219,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Words | 269081 | [269081-battle-of-words.json](./269081-battle-of-words.json) |
 | Battle Painters | 140542 | [140542-battle-painters.json](./140542-battle-painters.json) |
 | Battle Part | 209484 | [209484-battle-part.json](./209484-battle-part.json) |
+| Battle Pinball | 174187 | [174187-battle-pinball.json](./174187-battle-pinball.json) |
 | Battle Pinball | 37205 | [37205-battle-pinball.json](./37205-battle-pinball.json) |
 | Battle Pingpong | 7774 | [7774-battle-pingpong.json](./7774-battle-pingpong.json) |
 | Battle Pirates | 196792 | [196792-battle-pirates.json](./196792-battle-pirates.json) |
@@ -2566,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Blade | 293097 | [293097-black-blade.json](./293097-black-blade.json) |
 | Black blood | 132781 | [132781-black-blood.json](./132781-black-blood.json) |
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
+| Black Border: Border Simulator | 174205 | [174205-black-border-border-simulator.json](./174205-black-border-border-simulator.json) |
 | Black Box VR | 140619 | [140619-black-box-vr.json](./140619-black-box-vr.json) |
 | Black Castle | 143051 | [143051-black-castle.json](./143051-black-castle.json) |
 | Black Cat | 144278 | [144278-black-cat.json](./144278-black-cat.json) |
@@ -4499,6 +4501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring Death | 211217 | [211217-bring-death.json](./211217-bring-death.json) |
 | Bring Honey Home | 150635 | [150635-bring-honey-home.json](./150635-bring-honey-home.json) |
 | Bring Me Down | 241350 | [241350-bring-me-down.json](./241350-bring-me-down.json) |
+| Bringris | 174191 | [174191-bringris.json](./174191-bringris.json) |
 | Brink of Consciousness: The Lonely Hearts Murders | 17918 | [17918-brink-of-consciousness-the-lonely-hearts-murders.json](./17918-brink-of-consciousness-the-lonely-hearts-murders.json) |
 | Briquette Sprite | 87105 | [87105-briquette-sprite.json](./87105-briquette-sprite.json) |
 | Brisk Square | 151178 | [151178-brisk-square.json](./151178-brisk-square.json) |
