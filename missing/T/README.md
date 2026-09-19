@@ -5674,6 +5674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vorezkor Hack | 273417 | [273417-the-vorezkor-hack.json](./273417-the-vorezkor-hack.json) |
 | The Vorlec | 266289 | [266289-the-vorlec.json](./266289-the-vorlec.json) |
 | The Vortex: Quantum Gate II | 73235 | [73235-the-vortex-quantum-gate-ii.json](./73235-the-vortex-quantum-gate-ii.json) |
+| The Vox: Tower Defense | 163842 | [163842-the-vox-tower-defense.json](./163842-the-vox-tower-defense.json) |
 | The Voyager's Trail | 180757 | [180757-the-voyagers-trail.json](./180757-the-voyagers-trail.json) |
 | The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
 | The VR Museum of Fine Art | 31662 | [31662-the-vr-museum-of-fine-art.json](./31662-the-vr-museum-of-fine-art.json) |
@@ -5879,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zombie's Horror | 156085 | [156085-the-zombies-horror.json](./156085-the-zombies-horror.json) |
 | The Zombiest Adventures in the Perverted Age of Enlightenment With a Pinch of Woodpunk | 28909 | [28909-the-zombiest-adventures-in-the-perverted-age-of-enlightenment-with-a-pinch-of-woodpunk.json](./28909-the-zombiest-adventures-in-the-perverted-age-of-enlightenment-with-a-pinch-of-woodpunk.json) |
 | The Zombland: Enter at Your Peril | 291244 | [291244-the-zombland-enter-at-your-peril.json](./291244-the-zombland-enter-at-your-peril.json) |
+| The Zone | 163855 | [163855-the-zone.json](./163855-the-zone.json) |
 | The Zone: Stalker Stories | 135901 | [135901-the-zone-stalker-stories.json](./135901-the-zone-stalker-stories.json) |
 | The Zoo Race | 9097 | [9097-the-zoo-race.json](./9097-the-zoo-race.json) |
 | The Zvengers: Infinity Defense | 328472 | [328472-the-zvengers-infinity-defense.json](./328472-the-zvengers-infinity-defense.json) |
@@ -6901,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Tandems | 272263 | [272263-tiki-tandems.json](./272263-tiki-tandems.json) |
 | Tiki Tiki Hop | 209672 | [209672-tiki-tiki-hop.json](./209672-tiki-tiki-hop.json) |
 | Tiki Towers | 79912 | [79912-tiki-towers.json](./79912-tiki-towers.json) |
+| Tiki: The Masked Journey | 163850 | [163850-tiki-the-masked-journey.json](./163850-tiki-the-masked-journey.json) |
 | Tilde and the 9 Mystical Glorbos | 394834 | [394834-tilde-and-the-9-mystical-glorbos.json](./394834-tilde-and-the-9-mystical-glorbos.json) |
 | Tile Cities 2 | 325630 | [325630-tile-cities-2.json](./325630-tile-cities-2.json) |
 | Tile Connect: Onet Match | 171473 | [171473-tile-connect-onet-match.json](./171473-tile-connect-onet-match.json) |
@@ -8119,6 +8122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tourist Bus Simulator: VDL Futura FHD2 | 168886 | [168886-tourist-bus-simulator-vdl-futura-fhd2.json](./168886-tourist-bus-simulator-vdl-futura-fhd2.json) |
 | Tourist Bus Simulator: W906 | 168893 | [168893-tourist-bus-simulator-w906.json](./168893-tourist-bus-simulator-w906.json) |
 | Tourist Trophy | 8213 | [8213-tourist-trophy.json](./8213-tourist-trophy.json) |
+| Tournament of Armistice: Preliminaries | 163853 | [163853-tournament-of-armistice-preliminaries.json](./163853-tournament-of-armistice-preliminaries.json) |
 | Tournament of Tamers | 157168 | [157168-tournament-of-tamers.json](./157168-tournament-of-tamers.json) |
 | Tournament Pool | 51162 | [51162-tournament-pool.json](./51162-tournament-pool.json) |
 | Tournament Tower | 273412 | [273412-tournament-tower.json](./273412-tournament-tower.json) |
