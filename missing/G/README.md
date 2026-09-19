@@ -1389,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloom | 3030 | [3030-gloom.json](./3030-gloom.json) |
 | Gloom | 78126 | [78126-gloom.json](./78126-gloom.json) |
 | Gloom: Digital Edition | 197770 | [197770-gloom-digital-edition.json](./197770-gloom-digital-edition.json) |
+| Gloom: Unhappy Homes | 168770 | [168770-gloom-unhappy-homes.json](./168770-gloom-unhappy-homes.json) |
 | Gloomhaven | 106803 | [106803-gloomhaven.json](./106803-gloomhaven.json) |
 | Gloomhaven: Jaws of the Lion | 197889 | [197889-gloomhaven-jaws-of-the-lion.json](./197889-gloomhaven-jaws-of-the-lion.json) |
 | Gloomhaven: Jaws of the Lion - Alternative Skins | 267360 | [267360-gloomhaven-jaws-of-the-lion-alternative-skins.json](./267360-gloomhaven-jaws-of-the-lion-alternative-skins.json) |
