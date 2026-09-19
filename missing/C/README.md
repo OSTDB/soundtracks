@@ -2402,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Albian 2: The Wizbury School of Magic | 339644 | [339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json](./339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json) |
 | Chronicles of Albian: The Magic Convention | 232567 | [232567-chronicles-of-albian-the-magic-convention.json](./232567-chronicles-of-albian-the-magic-convention.json) |
 | Chronicles of Arcadia | 123541 | [123541-chronicles-of-arcadia.json](./123541-chronicles-of-arcadia.json) |
+| Chronicles of Cyberpunk: Deep Sleep | 155499 | [155499-chronicles-of-cyberpunk-deep-sleep.json](./155499-chronicles-of-cyberpunk-deep-sleep.json) |
 | Chronicles Of Errodean | 247740 | [247740-chronicles-of-errodean.json](./247740-chronicles-of-errodean.json) |
 | Chronicles of Lussaria | 284899 | [284899-chronicles-of-lussaria.json](./284899-chronicles-of-lussaria.json) |
 | Chronicles of Middle Ages | 342761 | [342761-chronicles-of-middle-ages.json](./342761-chronicles-of-middle-ages.json) |
@@ -3171,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code angel | 153943 | [153943-code-angel.json](./153943-code-angel.json) |
 | Code Bunny | 183988 | [183988-code-bunny.json](./183988-code-bunny.json) |
 | Code Carbon | 24857 | [24857-code-carbon.json](./24857-code-carbon.json) |
+| Code Correction | 155466 | [155466-code-correction.json](./155466-code-correction.json) |
 | Code Dungeon | 185592 | [185592-code-dungeon.json](./185592-code-dungeon.json) |
 | Code Eagle! | 246438 | [246438-code-eagle.json](./246438-code-eagle.json) |
 | Code Exit | 292540 | [292540-code-exit.json](./292540-code-exit.json) |
