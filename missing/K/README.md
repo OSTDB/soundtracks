@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep The Beat | 381598 | [381598-keep-the-beat.json](./381598-keep-the-beat.json) |
 | Keep Up | 277580 | [277580-keep-up.json](./277580-keep-up.json) |
 | Keeper Of The Hell Gate | 271748 | [271748-keeper-of-the-hell-gate.json](./271748-keeper-of-the-hell-gate.json) |
+| Keeper of the Labyrinth | 153865 | [153865-keeper-of-the-labyrinth.json](./153865-keeper-of-the-labyrinth.json) |
 | Keeper Practise | 291623 | [291623-keeper-practise.json](./291623-keeper-practise.json) |
 | Keeper: The Hunter of Insect | 68619 | [68619-keeper-the-hunter-of-insect.json](./68619-keeper-the-hunter-of-insect.json) |
 | Keeper's Toll | 216882 | [216882-keepers-toll.json](./216882-keepers-toll.json) |
@@ -602,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickback | 108491 | [108491-kickback.json](./108491-kickback.json) |
 | Kickdom | 378213 | [378213-kickdom.json](./378213-kickdom.json) |
 | kicker VR | 102182 | [102182-kicker-vr.json](./102182-kicker-vr.json) |
+| Kickerinho World | 153829 | [153829-kickerinho-world.json](./153829-kickerinho-world.json) |
 | Kickflip the Horse | 180693 | [180693-kickflip-the-horse.json](./180693-kickflip-the-horse.json) |
 | Kickin Kong | 261532 | [261532-kickin-kong.json](./261532-kickin-kong.json) |
 | Kickin Momma | 92489 | [92489-kickin-momma.json](./92489-kickin-momma.json) |
@@ -839,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Cribbage | 73223 | [73223-king-cribbage.json](./73223-king-cribbage.json) |
 | King Datchi | 244890 | [244890-king-datchi.json](./244890-king-datchi.json) |
 | King God Domain | 159726 | [159726-king-god-domain.json](./159726-king-god-domain.json) |
+| King Hajwala | 153867 | [153867-king-hajwala.json](./153867-king-hajwala.json) |
 | King in the Mountain | 408930 | [408930-king-in-the-mountain.json](./408930-king-in-the-mountain.json) |
 | King Island 2 | 292534 | [292534-king-island-2.json](./292534-king-island-2.json) |
 | King James Bible DX | 358319 | [358319-king-james-bible-dx.json](./358319-king-james-bible-dx.json) |
@@ -1050,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kira-kira Star Night: Furusato Nouzei Fujimino-ban | 206343 | [206343-kira-kira-star-night-furusato-nouzei-fujimino-ban.json](./206343-kira-kira-star-night-furusato-nouzei-fujimino-ban.json) |
 | Kirakira Monstars | 182464 | [182464-kirakira-monstars.json](./182464-kirakira-monstars.json) |
 | Kirakira Slimes | 300408 | [300408-kirakira-slimes.json](./300408-kirakira-slimes.json) |
+| Kirakira Stars Idol Project Reika | 153830 | [153830-kirakira-stars-idol-project-reika.json](./153830-kirakira-stars-idol-project-reika.json) |
 | Kirari Nangoku Komugiiro: Shiofuki Paradise he Youkoso! | 194584 | [194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json](./194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json) |
 | Kirarin Revolution: Atsumete Change! Qurukira Coord | 70417 | [70417-kirarin-revolution-atsumete-change-qurukira-coord.json](./70417-kirarin-revolution-atsumete-change-qurukira-coord.json) |
 | Kiratto Kaiketsu! 64 Tanteidan | 3532 | [3532-kiratto-kaiketsu-64-tanteidan.json](./3532-kiratto-kaiketsu-64-tanteidan.json) |
