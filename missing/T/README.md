@@ -2201,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Caligula Effect: Overdose - Limited Edition | 167144 | [167144-the-caligula-effect-overdose-limited-edition.json](./167144-the-caligula-effect-overdose-limited-edition.json) |
 | The Call Button | 400871 | [400871-the-call-button.json](./400871-the-call-button.json) |
 | The Call Centre | 149542 | [149542-the-call-centre.json](./149542-the-call-centre.json) |
+| The Call of Karen | 139812 | [139812-the-call-of-karen.json](./139812-the-call-of-karen.json) |
 | The Call of Krul'ar | 200639 | [200639-the-call-of-krular.json](./200639-the-call-of-krular.json) |
 | The Call of the Rats | 300702 | [300702-the-call-of-the-rats.json](./300702-the-call-of-the-rats.json) |
 | The Callisto Protocol: Contagion Bundle | 241958 | [241958-the-callisto-protocol-contagion-bundle.json](./241958-the-callisto-protocol-contagion-bundle.json) |
@@ -5111,6 +5112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Outdoor Bundle | 159339 | [159339-the-sims-4-outdoor-bundle.json](./159339-the-sims-4-outdoor-bundle.json) |
 | The Sims 4: Outdoor Retreat | 13145 | [13145-the-sims-4-outdoor-retreat.json](./13145-the-sims-4-outdoor-retreat.json) |
 | The Sims 4: Party Essentials Kit | 296899 | [296899-the-sims-4-party-essentials-kit.json](./296899-the-sims-4-party-essentials-kit.json) |
+| The Sims 4: Plus Journey to Batuu Bundle | 139823 | [139823-the-sims-4-plus-journey-to-batuu-bundle.json](./139823-the-sims-4-plus-journey-to-batuu-bundle.json) |
 | The Sims 4: Poolside Splash Kit | 265704 | [265704-the-sims-4-poolside-splash-kit.json](./265704-the-sims-4-poolside-splash-kit.json) |
 | The Sims 4: Prairie Dreams | 404225 | [404225-the-sims-4-prairie-dreams.json](./404225-the-sims-4-prairie-dreams.json) |
 | The Sims 4: Restoration Workshop Kit | 350997 | [350997-the-sims-4-restoration-workshop-kit.json](./350997-the-sims-4-restoration-workshop-kit.json) |
@@ -5344,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Supper | 128289 | [128289-the-supper.json](./128289-the-supper.json) |
 | The Surfeit: Episode 1 | 170497 | [170497-the-surfeit-episode-1.json](./170497-the-surfeit-episode-1.json) |
 | The Surge | 11590 | [11590-the-surge.json](./11590-the-surge.json) |
+| The Surge 1 & 2: Dual Pack | 139824 | [139824-the-surge-1-and-2-dual-pack.json](./139824-the-surge-1-and-2-dual-pack.json) |
 | The Surge 2: Limited Edition | 202217 | [202217-the-surge-2-limited-edition.json](./202217-the-surge-2-limited-edition.json) |
 | The Surge 2: Premium Edition | 154535 | [154535-the-surge-2-premium-edition.json](./154535-the-surge-2-premium-edition.json) |
 | The Surge: The Good, the Bad, and the Augmented | 109240 | [109240-the-surge-the-good-the-bad-and-the-augmented.json](./109240-the-surge-the-good-the-bad-and-the-augmented.json) |
@@ -5805,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Aftermath | 410938 | [410938-the-walking-dead-aftermath.json](./410938-the-walking-dead-aftermath.json) |
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
 | The Walking Dead: March to War | 25642 | [25642-the-walking-dead-march-to-war.json](./25642-the-walking-dead-march-to-war.json) |
+| The Walking Dead: Onslaught - Survivors Edition | 139842 | [139842-the-walking-dead-onslaught-survivors-edition.json](./139842-the-walking-dead-onslaught-survivors-edition.json) |
 | The Walking Dead: Onslaught - The Golden Weapons Deluxe Pack | 139956 | [139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json](./139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json) |
 | The Walking Dead: Our World | 55177 | [55177-the-walking-dead-our-world.json](./55177-the-walking-dead-our-world.json) |
 | The Walking Dead: Saints & Sinners - Ch 2: Retribution | 198232 | [198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json](./198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json) |
@@ -8120,6 +8124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Shogun 2 - Sengoku Jidai Unit Pack | 83515 | [83515-total-war-shogun-2-sengoku-jidai-unit-pack.json](./83515-total-war-shogun-2-sengoku-jidai-unit-pack.json) |
 | Total War: Shogun 2 - The Hattori Clan Pack | 83514 | [83514-total-war-shogun-2-the-hattori-clan-pack.json](./83514-total-war-shogun-2-the-hattori-clan-pack.json) |
 | Total War: Shogun 2 - The Ikko Ikki Clan Pack | 83516 | [83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json](./83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json) |
+| Total War: Three Kingdoms - Royal Edition | 139841 | [139841-total-war-three-kingdoms-royal-edition.json](./139841-total-war-three-kingdoms-royal-edition.json) |
 | Total War: Three Kingdoms - The Furious Wild | 201149 | [201149-total-war-three-kingdoms-the-furious-wild.json](./201149-total-war-three-kingdoms-the-furious-wild.json) |
 | Total War: Warhammer - Blood For the Blood God | 25660 | [25660-total-war-warhammer-blood-for-the-blood-god.json](./25660-total-war-warhammer-blood-for-the-blood-god.json) |
 | Total War: Warhammer - Bretonnia | 81293 | [81293-total-war-warhammer-bretonnia.json](./81293-total-war-warhammer-bretonnia.json) |
