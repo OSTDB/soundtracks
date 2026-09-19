@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genocide 2 | 38334 | [38334-genocide-2.json](./38334-genocide-2.json) |
 | Genocide 2: Genocide Square | 56417 | [56417-genocide-2-genocide-square.json](./56417-genocide-2-genocide-square.json) |
 | Genokids | 141137 | [141137-genokids.json](./141137-genokids.json) |
+| Genomon: Genetic Monsters | 142842 | [142842-genomon-genetic-monsters.json](./142842-genomon-genetic-monsters.json) |
 | Genre Hopper | 182532 | [182532-genre-hopper.json](./182532-genre-hopper.json) |
 | Gensei Suikoden | 97282 | [97282-gensei-suikoden.json](./97282-gensei-suikoden.json) |
 | Genshin Impact: A Nocturne of the Far North | 378320 | [378320-genshin-impact-a-nocturne-of-the-far-north.json](./378320-genshin-impact-a-nocturne-of-the-far-north.json) |
@@ -2679,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grind TD | 389987 | [389987-grind-td.json](./389987-grind-td.json) |
 | Grind Zones | 36217 | [36217-grind-zones.json](./36217-grind-zones.json) |
 | Grinded Meat | 237068 | [237068-grinded-meat.json](./237068-grinded-meat.json) |
+| Grindhouse Games Volume I | 142851 | [142851-grindhouse-games-volume-i.json](./142851-grindhouse-games-volume-i.json) |
 | Grindshift | 207307 | [207307-grindshift.json](./207307-grindshift.json) |
 | Grinlox is here | 266901 | [266901-grinlox-is-here.json](./266901-grinlox-is-here.json) |
 | Grinnel | 389586 | [389586-grinnel.json](./389586-grinnel.json) |
