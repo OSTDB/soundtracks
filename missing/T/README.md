@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales to Enjoy! Puss In Boots | 85427 | [85427-tales-to-enjoy-puss-in-boots.json](./85427-tales-to-enjoy-puss-in-boots.json) |
 | Tales to Enjoy! The Ugly Duckling | 85426 | [85426-tales-to-enjoy-the-ugly-duckling.json](./85426-tales-to-enjoy-the-ugly-duckling.json) |
 | Tales to Enjoy! Three Little Pigs | 85425 | [85425-tales-to-enjoy-three-little-pigs.json](./85425-tales-to-enjoy-three-little-pigs.json) |
+| Tales We Tell Ourselves | 144122 | [144122-tales-we-tell-ourselves.json](./144122-tales-we-tell-ourselves.json) |
 | Talespinner | 190106 | [190106-talespinner.json](./190106-talespinner.json) |
 | TaleSpire: Guest Edition | 316393 | [316393-talespire-guest-edition.json](./316393-talespire-guest-edition.json) |
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Deussi | 167859 | [167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json](./167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json) |
@@ -1083,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TEEFAX: Cold Case | 289442 | [289442-teefax-cold-case.json](./289442-teefax-cold-case.json) |
 | Teel Me You! | 181361 | [181361-teel-me-you.json](./181361-teel-me-you.json) |
 | Teen Patti Octro | 169878 | [169878-teen-patti-octro.json](./169878-teen-patti-octro.json) |
+| Teen Titans Battle Blitz | 144130 | [144130-teen-titans-battle-blitz.json](./144130-teen-titans-battle-blitz.json) |
 | Teen Titans Go! Arcade | 59358 | [59358-teen-titans-go-arcade.json](./59358-teen-titans-go-arcade.json) |
 | Teenage Lawnmower | 308559 | [308559-teenage-lawnmower.json](./308559-teenage-lawnmower.json) |
 | Teenage Mutant Ninja Turtles Fast Forward: Ninja Training NYC | 146104 | [146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json](./146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json) |
@@ -4615,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Power of Fish | 382321 | [382321-the-power-of-fish.json](./382321-the-power-of-fish.json) |
 | The Powerpuff Girls | 217930 | [217930-the-powerpuff-girls.json](./217930-the-powerpuff-girls.json) |
 | The Powerpuff Girls: Defenders of Townsville | 50484 | [50484-the-powerpuff-girls-defenders-of-townsville.json](./50484-the-powerpuff-girls-defenders-of-townsville.json) |
+| The Powerpuff Girls: Fast and Flurrious | 144131 | [144131-the-powerpuff-girls-fast-and-flurrious.json](./144131-the-powerpuff-girls-fast-and-flurrious.json) |
 | The Powerpuff Girls: Monkey Mania | 309101 | [309101-the-powerpuff-girls-monkey-mania.json](./309101-the-powerpuff-girls-monkey-mania.json) |
 | The Powerpuff Girls: Princess Snorebucks | 59381 | [59381-the-powerpuff-girls-princess-snorebucks.json](./59381-the-powerpuff-girls-princess-snorebucks.json) |
 | The PowerPuff Girls: Relish Rampage | 19415 | [19415-the-powerpuff-girls-relish-rampage.json](./19415-the-powerpuff-girls-relish-rampage.json) |
@@ -4710,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Race to Galamax | 147281 | [147281-the-race-to-galamax.json](./147281-the-race-to-galamax.json) |
 | The Race to Goo Lagoon | 404243 | [404243-the-race-to-goo-lagoon.json](./404243-the-race-to-goo-lagoon.json) |
 | The Rack | 207808 | [207808-the-rack.json](./207808-the-rack.json) |
+| The Radiants | 144138 | [144138-the-radiants.json](./144138-the-radiants.json) |
 | The Railroad Works | 72047 | [72047-the-railroad-works.json](./72047-the-railroad-works.json) |
 | The Rainbowers | 254156 | [254156-the-rainbowers.json](./254156-the-rainbowers.json) |
 | The Rainbox | 358874 | [358874-the-rainbox.json](./358874-the-rainbox.json) |
@@ -7357,6 +7361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Troopers: Global Ops - Digital Deluxe Edition | 241358 | [241358-tiny-troopers-global-ops-digital-deluxe-edition.json](./241358-tiny-troopers-global-ops-digital-deluxe-edition.json) |
 | Tiny Vision | 161332 | [161332-tiny-vision.json](./161332-tiny-vision.json) |
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
+| Tiny Whoop GO | 144143 | [144143-tiny-whoop-go.json](./144143-tiny-whoop-go.json) |
 | Tiny Wizard Tavern | 412388 | [412388-tiny-wizard-tavern.json](./412388-tiny-wizard-tavern.json) |
 | Tiny-Tasy Town | 103598 | [103598-tiny-tasy-town.json](./103598-tiny-tasy-town.json) |
 | TinyCrack | 169869 | [169869-tinycrack.json](./169869-tinycrack.json) |
@@ -8235,6 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kobuto V: Burst Battle - Koishi Komeiji | 238037 | [238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json](./238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json) |
 | Touhou Kobuto V: Burst Battle - Youmu Konpaku | 238035 | [238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json](./238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json) |
 | Touhou Kosuzu no Butsuri Game! | 256898 | [256898-touhou-kosuzu-no-butsuri-game.json](./256898-touhou-kosuzu-no-butsuri-game.json) |
+| Touhou Kouryuudou: Unconnected Marketeers | 144093 | [144093-touhou-kouryuudou-unconnected-marketeers.json](./144093-touhou-kouryuudou-unconnected-marketeers.json) |
 | Touhou Landmine Mahjong | 196162 | [196162-touhou-landmine-mahjong.json](./196162-touhou-landmine-mahjong.json) |
 | Touhou Língshǒusì: Consciousness' Unity of Opposites | 216793 | [216793-touhou-lingshousi-consciousness-unity-of-opposites.json](./216793-touhou-lingshousi-consciousness-unity-of-opposites.json) |
 | Touhou Lonely Lovely Bonfire | 362883 | [362883-touhou-lonely-lovely-bonfire.json](./362883-touhou-lonely-lovely-bonfire.json) |
