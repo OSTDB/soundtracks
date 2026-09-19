@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bajka | 348315 | [348315-bajka.json](./348315-bajka.json) |
 | Baka to Test to Shoukanjuu Portable | 196714 | [196714-baka-to-test-to-shoukanjuu-portable.json](./196714-baka-to-test-to-shoukanjuu-portable.json) |
 | Bakahazard | 316633 | [316633-bakahazard.json](./316633-bakahazard.json) |
+| Bake Care | 177931 | [177931-bake-care.json](./177931-bake-care.json) |
 | Bake it! Pizza Master | 378781 | [378781-bake-it-pizza-master.json](./378781-bake-it-pizza-master.json) |
 | Bake Jack | 382216 | [382216-bake-jack.json](./382216-bake-jack.json) |
 | Bakechu Relay | 366917 | [366917-bakechu-relay.json](./366917-bakechu-relay.json) |
@@ -1478,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeanShooter | 256359 | [256359-beanshooter.json](./256359-beanshooter.json) |
 | Bear Adventure | 370762 | [370762-bear-adventure.json](./370762-bear-adventure.json) |
 | Bear Boy | 338827 | [338827-bear-boy.json](./338827-bear-boy.json) |
+| Bear Care | 177916 | [177916-bear-care.json](./177916-bear-care.json) |
 | Bear in the Snow | 362882 | [362882-bear-in-the-snow.json](./362882-bear-in-the-snow.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
 | Bear Surfin Mega Wave | 200638 | [200638-bear-surfin-mega-wave.json](./200638-bear-surfin-mega-wave.json) |
