@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating Simulator 2025 | 288921 | [288921-dating-simulator-2025.json](./288921-dating-simulator-2025.json) |
 | Dating Under the Comet | 345595 | [345595-dating-under-the-comet.json](./345595-dating-under-the-comet.json) |
 | Dato of Srivijaya | 156679 | [156679-dato-of-srivijaya.json](./156679-dato-of-srivijaya.json) |
+| Dàtóu Zhūluójì | 158556 | [158556-datou-zhuluoji.json](./158556-datou-zhuluoji.json) |
 | Datswer | 35820 | [35820-datswer.json](./35820-datswer.json) |
 | Datura Time | 219143 | [219143-datura-time.json](./219143-datura-time.json) |
 | Daughter of Essence | 158654 | [158654-daughter-of-essence.json](./158654-daughter-of-essence.json) |
@@ -1171,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deal With the Devil Chapter: 2 - From Tuonela to Hell | 350487 | [350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json](./350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json) |
 | Dealer's Life | 114063 | [114063-dealers-life.json](./114063-dealers-life.json) |
 | Dear Blue | 297470 | [297470-dear-blue.json](./297470-dear-blue.json) |
+| Dear Brother | 158562 | [158562-dear-brother.json](./158562-dear-brother.json) |
 | Dear Diary | 297233 | [297233-dear-diary.json](./297233-dear-diary.json) |
 | Dear Diary | 370715 | [370715-dear-diary.json](./370715-dear-diary.json) |
 | Dear Drops Distortion | 59421 | [59421-dear-drops-distortion.json](./59421-dear-drops-distortion.json) |
@@ -1754,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Gaze Extra: Memorial Edition | 148520 | [148520-demon-gaze-extra-memorial-edition.json](./148520-demon-gaze-extra-memorial-edition.json) |
 | Demon Go! | 209653 | [209653-demon-go.json](./209653-demon-go.json) |
 | Demon Grade | 75159 | [75159-demon-grade.json](./75159-demon-grade.json) |
+| Demon Heart | 158588 | [158588-demon-heart.json](./158588-demon-heart.json) |
 | Demon Hunt | 319555 | [319555-demon-hunt.json](./319555-demon-hunt.json) |
 | Demon Hunter 2: New Chapter | 32774 | [32774-demon-hunter-2-new-chapter.json](./32774-demon-hunter-2-new-chapter.json) |
 | Demon Hunter Mai | 134603 | [134603-demon-hunter-mai.json](./134603-demon-hunter-mai.json) |
