@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Dash Meltdown | 38693 | [38693-geometry-dash-meltdown.json](./38693-geometry-dash-meltdown.json) |
 | Geometry Dodge Pro | 86908 | [86908-geometry-dodge-pro.json](./86908-geometry-dodge-pro.json) |
 | Geometry Hero | 126612 | [126612-geometry-hero.json](./126612-geometry-hero.json) |
+| Geometry Rocket | 150534 | [150534-geometry-rocket.json](./150534-geometry-rocket.json) |
 | Geometry Runner Online | 88183 | [88183-geometry-runner-online.json](./88183-geometry-runner-online.json) |
 | Geometry Rush | 102366 | [102366-geometry-rush.json](./102366-geometry-rush.json) |
 | Geometry Shooter Pro | 320386 | [320386-geometry-shooter-pro.json](./320386-geometry-shooter-pro.json) |
