@@ -2070,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot 3 Kabuto Version | 55140 | [55140-medarot-3-kabuto-version.json](./55140-medarot-3-kabuto-version.json) |
 | Medarot 3 Kuwagata Version | 76575 | [76575-medarot-3-kuwagata-version.json](./76575-medarot-3-kuwagata-version.json) |
 | Medarot 3 Parts Collection: Z Kara no Chousenjou | 92536 | [92536-medarot-3-parts-collection-z-kara-no-chousenjou.json](./92536-medarot-3-parts-collection-z-kara-no-chousenjou.json) |
+| Medarot Classics Plus Kabuto Version | 136832 | [136832-medarot-classics-plus-kabuto-version.json](./136832-medarot-classics-plus-kabuto-version.json) |
 | Medarot G: Kabuto Version | 188653 | [188653-medarot-g-kabuto-version.json](./188653-medarot-g-kabuto-version.json) |
 | Medarot Kabuto Version | 55145 | [55145-medarot-kabuto-version.json](./55145-medarot-kabuto-version.json) |
 | Medarot Kuwagata Version | 55144 | [55144-medarot-kuwagata-version.json](./55144-medarot-kuwagata-version.json) |
