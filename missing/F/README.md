@@ -2994,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Drive | 246964 | [246964-forever-drive.json](./246964-forever-drive.json) |
 | Forever Growing Garden | 62158 | [62158-forever-growing-garden.json](./62158-forever-growing-garden.json) |
 | Forever Indy | 256924 | [256924-forever-indy.json](./256924-forever-indy.json) |
+| Forever Lost in the Never Ending Museum of Still Life | 129603 | [129603-forever-lost-in-the-never-ending-museum-of-still-life.json](./129603-forever-lost-in-the-never-ending-museum-of-still-life.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
 | Forever Time | 342751 | [342751-forever-time.json](./342751-forever-time.json) |
 | Forever War | 119011 | [119011-forever-war.json](./119011-forever-war.json) |
@@ -3820,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Mayhem | 301288 | [301288-frontier-mayhem.json](./301288-frontier-mayhem.json) |
 | Frontier Mech: Ash Walkers | 356075 | [356075-frontier-mech-ash-walkers.json](./356075-frontier-mech-ash-walkers.json) |
 | Frontier Paladin | 292542 | [292542-frontier-paladin.json](./292542-frontier-paladin.json) |
+| Frontier Wars: Defense Heroes | 129609 | [129609-frontier-wars-defense-heroes.json](./129609-frontier-wars-defense-heroes.json) |
 | Frontier: Elite II | 2953 | [2953-frontier-elite-ii.json](./2953-frontier-elite-ii.json) |
 | Frontier: First Encounters | 2954 | [2954-frontier-first-encounters.json](./2954-frontier-first-encounters.json) |
 | Frontiers | 14081 | [14081-frontiers.json](./14081-frontiers.json) |
