@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuon | 10909 | [10909-kuon.json](./10909-kuon.json) |
 | Kupechestvo | 190211 | [190211-kupechestvo.json](./190211-kupechestvo.json) |
 | Kur, Pelīte, Tu Tecēji? | 305384 | [305384-kur-pelite-tu-teceji.json](./305384-kur-pelite-tu-teceji.json) |
+| Kura5: Bonds of the Undying | 139235 | [139235-kura5-bonds-of-the-undying.json](./139235-kura5-bonds-of-the-undying.json) |
 | Kurai Nichiyoubi: Sombre Dimanche | 260982 | [260982-kurai-nichiyoubi-sombre-dimanche.json](./260982-kurai-nichiyoubi-sombre-dimanche.json) |
 | Kurayami | 94763 | [94763-kurayami.json](./94763-kurayami.json) |
 | Kurayami Zaka no Ie | 261878 | [261878-kurayami-zaka-no-ie.json](./261878-kurayami-zaka-no-ie.json) |
