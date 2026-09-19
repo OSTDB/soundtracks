@@ -3288,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
 | Pokemon Twilight: Lunar | 323903 | [323903-pokemon-twilight-lunar.json](./323903-pokemon-twilight-lunar.json) |
 | Pokemon Twilight: Solar | 323904 | [323904-pokemon-twilight-solar.json](./323904-pokemon-twilight-solar.json) |
+| Pokémon Ultra Sun & Pokémon Ultra Moon: Veteran Trainer's Dual Pack | 136275 | [136275-pokemon-ultra-sun-and-pokemon-ultra-moon-veteran-trainers-dual-pack.json](./136275-pokemon-ultra-sun-and-pokemon-ultra-moon-veteran-trainers-dual-pack.json) |
 | Pokemon Umbra Moon | 288202 | [288202-pokemon-umbra-moon.json](./288202-pokemon-umbra-moon.json) |
 | Pokémon Unbound | 141663 | [141663-pokemon-unbound.json](./141663-pokemon-unbound.json) |
 | Pokémon Unbreakable Ties | 271214 | [271214-pokemon-unbreakable-ties.json](./271214-pokemon-unbreakable-ties.json) |
@@ -3617,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye | 4619 | [4619-popeye.json](./4619-popeye.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
 | Popgoes and the Machinist | 231093 | [231093-popgoes-and-the-machinist.json](./231093-popgoes-and-the-machinist.json) |
+| Popgoes Arcade | 136256 | [136256-popgoes-arcade.json](./136256-popgoes-arcade.json) |
 | Popgoes Arcade: Fighting Chance | 306983 | [306983-popgoes-arcade-fighting-chance.json](./306983-popgoes-arcade-fighting-chance.json) |
 | Popgoes Evergreen | 234342 | [234342-popgoes-evergreen.json](./234342-popgoes-evergreen.json) |
 | Popgoes: Lost Dreams | 250606 | [250606-popgoes-lost-dreams.json](./250606-popgoes-lost-dreams.json) |
@@ -4826,7 +4828,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psicose? | 129235 | [129235-psicose.json](./129235-psicose.json) |
 | Psikyo Collection Vol. 2 | 112290 | [112290-psikyo-collection-vol-2.json](./112290-psikyo-collection-vol-2.json) |
 | Psikyo Shooting Library Vol. 1 | 136837 | [136837-psikyo-shooting-library-vol-1.json](./136837-psikyo-shooting-library-vol-1.json) |
+| Psikyo Shooting Stars Alpha: Limited Edition | 136264 | [136264-psikyo-shooting-stars-alpha-limited-edition.json](./136264-psikyo-shooting-stars-alpha-limited-edition.json) |
 | Psikyo Shooting Stars Bravo | 121652 | [121652-psikyo-shooting-stars-bravo.json](./121652-psikyo-shooting-stars-bravo.json) |
+| Psikyo Shooting Stars Bravo: Limited Edition | 136265 | [136265-psikyo-shooting-stars-bravo-limited-edition.json](./136265-psikyo-shooting-stars-bravo-limited-edition.json) |
 | Psionic Sentry: Infinite | 276191 | [276191-psionic-sentry-infinite.json](./276191-psionic-sentry-infinite.json) |
 | PSN Protector | 320978 | [320978-psn-protector.json](./320978-psn-protector.json) |
 | Psst... I Have a Secret | 179043 | [179043-psst-i-have-a-secret.json](./179043-psst-i-have-a-secret.json) |
