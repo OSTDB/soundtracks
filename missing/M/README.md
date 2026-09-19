@@ -52,6 +52,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mach's noch einmal, Sven | 206794 | [206794-machs-noch-einmal-sven.json](./206794-machs-noch-einmal-sven.json) |
 | Machi | 279747 | [279747-machi.json](./279747-machi.json) |
 | Machi Knights: Blood Bagos | 115662 | [115662-machi-knights-blood-bagos.json](./115662-machi-knights-blood-bagos.json) |
+| Machi no Pet-Ya-San DS 2: Wannyan 333-Hiki Daishuugou! | 133796 | [133796-machi-no-pet-ya-san-ds-2-wannyan-333-hiki-daishuugou.json](./133796-machi-no-pet-ya-san-ds-2-wannyan-333-hiki-daishuugou.json) |
+| Machi no Pet-Ya-San DS: Wan-chan 200-Hiki Daishuugou | 133795 | [133795-machi-no-pet-ya-san-ds-wan-chan-200-hiki-daishuugou.json](./133795-machi-no-pet-ya-san-ds-wan-chan-200-hiki-daishuugou.json) |
 | Machi-ing Maker 4 | 65510 | [65510-machi-ing-maker-4.json](./65510-machi-ing-maker-4.json) |
 | Machi: Unmei no Kousaten | 279745 | [279745-machi-unmei-no-kousaten.json](./279745-machi-unmei-no-kousaten.json) |
 | Machi: Unmei no Kousaten - Tokubetsu-hen | 279746 | [279746-machi-unmei-no-kousaten-tokubetsu-hen.json](./279746-machi-unmei-no-kousaten-tokubetsu-hen.json) |
@@ -143,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Yu: Rural Idle | 412391 | [412391-mad-yu-rural-idle.json](./412391-mad-yu-rural-idle.json) |
 | Madagascar 3: Europe's Most Wanted | 243270 | [243270-madagascar-3-europes-most-wanted.json](./243270-madagascar-3-europes-most-wanted.json) |
 | Madagascar Mini-Mayhem | 137609 | [137609-madagascar-mini-mayhem.json](./137609-madagascar-mini-mayhem.json) |
+| Madame Ching's Dungeon of Ecstasy | 133802 | [133802-madame-chings-dungeon-of-ecstasy.json](./133802-madame-chings-dungeon-of-ecstasy.json) |
 | Madara Saga: Youchien Senki Madara | 57072 | [57072-madara-saga-youchien-senki-madara.json](./57072-madara-saga-youchien-senki-madara.json) |
 | Madball | 198484 | [198484-madball.json](./198484-madball.json) |
 | Madballs Arcade | 98925 | [98925-madballs-arcade.json](./98925-madballs-arcade.json) |
@@ -3932,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Paint | 285565 | [285565-miss-paint.json](./285565-miss-paint.json) |
 | Miss Paint: Part 1 | 275142 | [275142-miss-paint-part-1.json](./275142-miss-paint-part-1.json) |
 | Miss Peach | 264593 | [264593-miss-peach.json](./264593-miss-peach.json) |
+| Miss Peach World | 133780 | [133780-miss-peach-world.json](./133780-miss-peach-world.json) |
 | Miss Perfect Miss Ending | 320753 | [320753-miss-perfect-miss-ending.json](./320753-miss-perfect-miss-ending.json) |
 | Miss Spider's Tea Party | 73804 | [73804-miss-spiders-tea-party.json](./73804-miss-spiders-tea-party.json) |
 | Missile Base | 13740 | [13740-missile-base.json](./13740-missile-base.json) |
@@ -4102,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Bobblehead Pros | 20562 | [20562-mlb-bobblehead-pros.json](./20562-mlb-bobblehead-pros.json) |
 | MLB Front Office Manager | 7073 | [7073-mlb-front-office-manager.json](./7073-mlb-front-office-manager.json) |
 | MLB Home Run Derby 18 | 96055 | [96055-mlb-home-run-derby-18.json](./96055-mlb-home-run-derby-18.json) |
+| MLB Home Run Derby 2020 | 133805 | [133805-mlb-home-run-derby-2020.json](./133805-mlb-home-run-derby-2020.json) |
 | MLB Home Run Derby VR | 293378 | [293378-mlb-home-run-derby-vr.json](./293378-mlb-home-run-derby-vr.json) |
 | MLB Manager 2015 | 279628 | [279628-mlb-manager-2015.json](./279628-mlb-manager-2015.json) |
 | MLB Manager 2018 | 96270 | [96270-mlb-manager-2018.json](./96270-mlb-manager-2018.json) |
