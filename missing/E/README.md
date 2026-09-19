@@ -2199,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exception; | 129166 | [129166-exception.json](./129166-exception.json) |
 | Exchange Student | 252247 | [252247-exchange-student.json](./252247-exchange-student.json) |
 | Excised | 260223 | [260223-excised.json](./260223-excised.json) |
+| Excite Invader | 138024 | [138024-excite-invader.json](./138024-excite-invader.json) |
 | Excitebike | 4600 | [4600-excitebike.json](./4600-excitebike.json) |
 | Excitebike-e | 169997 | [169997-excitebike-e.json](./169997-excitebike-e.json) |
 | Excitebots: Trick Racing | 4836 | [4836-excitebots-trick-racing.json](./4836-excitebots-trick-racing.json) |
