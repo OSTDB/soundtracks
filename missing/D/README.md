@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dairy of the Dead | 339362 | [339362-dairy-of-the-dead.json](./339362-dairy-of-the-dead.json) |
 | Daisenryaku Daitoua Kouboushi DX: Dai-ni-ji Sekai Taisen | 123011 | [123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json](./123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json) |
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
+| Daisy Flies to the Moon | 160237 | [160237-daisy-flies-to-the-moon.json](./160237-daisy-flies-to-the-moon.json) |
 | Daisy's Garden | 336605 | [336605-daisys-garden.json](./336605-daisys-garden.json) |
 | Daito Giken Koushiki Pachi-Slot Simulator: Hihouden - Ossu! Banchou: Yoshimune DS | 269571 | [269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json](./269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json) |
 | Daitoride | 93512 | [93512-daitoride.json](./93512-daitoride.json) |
@@ -662,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash and Fire | 155668 | [155668-dash-and-fire.json](./155668-dash-and-fire.json) |
 | Dash and Slash | 199587 | [199587-dash-and-slash.json](./199587-dash-and-slash.json) |
 | Dash Connect 2 | 368577 | [368577-dash-connect-2.json](./368577-dash-connect-2.json) |
+| Dash Dash Delivery | 160264 | [160264-dash-dash-delivery.json](./160264-dash-dash-delivery.json) |
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
 | Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
 | Dash Valley | 108447 | [108447-dash-valley.json](./108447-dash-valley.json) |
@@ -3004,6 +3006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distress Signal | 178640 | [178640-distress-signal.json](./178640-distress-signal.json) |
 | Distress: A Choice-Driven Sci-Fi Adventure | 110970 | [110970-distress-a-choice-driven-sci-fi-adventure.json](./110970-distress-a-choice-driven-sci-fi-adventure.json) |
 | Distressed | 320932 | [320932-distressed.json](./320932-distressed.json) |
+| District 99 | 160259 | [160259-district-99.json](./160259-district-99.json) |
 | District Panic | 295387 | [295387-district-panic.json](./295387-district-panic.json) |
 | District Steel | 28912 | [28912-district-steel.json](./28912-district-steel.json) |
 | District VR | 285560 | [285560-district-vr.json](./285560-district-vr.json) |
