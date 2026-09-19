@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Accel World vs. Sword Art Online: Millennium Twilight | 36796 | [36796-accel-world-vs-sword-art-online-millennium-twilight.json](./36796-accel-world-vs-sword-art-online-millennium-twilight.json) |
+| Accel-X | 128348 | [128348-accel-x.json](./128348-accel-x.json) |
 | Accele Brid | 38353 | [38353-accele-brid.json](./38353-accele-brid.json) |
 | Acceler 8 | 182945 | [182945-acceler-8.json](./182945-acceler-8.json) |
 | Accelerate | 379458 | [379458-accelerate.json](./379458-accelerate.json) |
@@ -1814,6 +1815,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amagami Chotto Omake Gekijou | 345602 | [345602-amagami-chotto-omake-gekijou.json](./345602-amagami-chotto-omake-gekijou.json) |
 | Amagami GS | 345603 | [345603-amagami-gs.json](./345603-amagami-gs.json) |
 | Amairo Chocolate 3 | 381003 | [381003-amairo-chocolate-3.json](./381003-amairo-chocolate-3.json) |
+| Amakano: Second Season | 128405 | [128405-amakano-second-season.json](./128405-amakano-second-season.json) |
+| Amakano+ | 128378 | [128378-amakano.json](./128378-amakano.json) |
 | Amalgam | 396419 | [396419-amalgam.json](./396419-amalgam.json) |
 | Amalgoom | 346646 | [346646-amalgoom.json](./346646-amalgoom.json) |
 | Amalgun | 347764 | [347764-amalgun.json](./347764-amalgun.json) |
