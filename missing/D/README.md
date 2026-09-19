@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Presence | 67962 | [67962-dark-presence.json](./67962-dark-presence.json) |
 | Dark Prisms | 243972 | [243972-dark-prisms.json](./243972-dark-prisms.json) |
 | Dark Prison 7th | 349379 | [349379-dark-prison-7th.json](./349379-dark-prison-7th.json) |
+| Dark Prospect | 128994 | [128994-dark-prospect.json](./128994-dark-prospect.json) |
 | Dark Quest | 145651 | [145651-dark-quest.json](./145651-dark-quest.json) |
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
 | Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
@@ -580,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Wizard | 5374 | [5374-dark-wizard.json](./5374-dark-wizard.json) |
 | Dark Wonderland | 412293 | [412293-dark-wonderland.json](./412293-dark-wonderland.json) |
 | Dark Zodiac | 343338 | [343338-dark-zodiac.json](./343338-dark-zodiac.json) |
+| Dark Zone | 128983 | [128983-dark-zone.json](./128983-dark-zone.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
 | DarkAndLight | 280362 | [280362-darkandlight.json](./280362-darkandlight.json) |
 | DarkBazaar | 393654 | [393654-darkbazaar.json](./393654-darkbazaar.json) |
@@ -4138,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Signal's Strange Machine | 194415 | [194415-dr-signals-strange-machine.json](./194415-dr-signals-strange-machine.json) |
 | Dr. Tacocat | 120362 | [120362-dr-tacocat.json](./120362-dr-tacocat.json) |
 | Dr. Trolley's Problem | 117072 | [117072-dr-trolleys-problem.json](./117072-dr-trolleys-problem.json) |
+| Dr. Umgebung's School of Life | 128992 | [128992-dr-umgebungs-school-of-life.json](./128992-dr-umgebungs-school-of-life.json) |
 | Dr.Green | 36001 | [36001-dr-green.json](./36001-dr-green.json) |
 | Dr.Pumpkin | 210678 | [210678-dr-pumpkin.json](./210678-dr-pumpkin.json) |
 | Dr.Roland | 270768 | [270768-dr-roland.json](./270768-dr-roland.json) |
@@ -4479,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragondot 3 | 135010 | [135010-dragondot-3.json](./135010-dragondot-3.json) |
 | Dragonea | 326064 | [326064-dragonea.json](./326064-dragonea.json) |
 | Dragonfall | 296937 | [296937-dragonfall.json](./296937-dragonfall.json) |
+| Dragonfang - Drahn's Mystery Dungeon | 129006 | [129006-dragonfang-drahns-mystery-dungeon.json](./129006-dragonfang-drahns-mystery-dungeon.json) |
 | Dragonfire | 5671 | [5671-dragonfire.json](./5671-dragonfire.json) |
 | DragonFishing | 70392 | [70392-dragonfishing.json](./70392-dragonfishing.json) |
 | Dragonfist | 92448 | [92448-dragonfist.json](./92448-dragonfist.json) |
@@ -5021,6 +5025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dry Erase: Infinite VR Whiteboard | 51559 | [51559-dry-erase-infinite-vr-whiteboard.json](./51559-dry-erase-infinite-vr-whiteboard.json) |
 | Dry Path | 181808 | [181808-dry-path.json](./181808-dry-path.json) |
 | Drybreed | 180715 | [180715-drybreed.json](./180715-drybreed.json) |
+| Drying Paint Simulator VR | 129003 | [129003-drying-paint-simulator-vr.json](./129003-drying-paint-simulator-vr.json) |
 | Drynk: Board and Drinking Game | 180146 | [180146-drynk-board-and-drinking-game.json](./180146-drynk-board-and-drinking-game.json) |
 | DS de Classic Kiite Mimasenka | 269551 | [269551-ds-de-classic-kiite-mimasenka.json](./269551-ds-de-classic-kiite-mimasenka.json) |
 | DS Kageyama Method: Dennou Hanpuku - Chiri, Rekishi, Koumin: Maru x Maru Shakai-ka | 269576 | [269576-ds-kageyama-method-dennou-hanpuku-chiri-rekishi-koumin-maru-x-maru-shakai-ka.json](./269576-ds-kageyama-method-dennou-hanpuku-chiri-rekishi-koumin-maru-x-maru-shakai-ka.json) |
