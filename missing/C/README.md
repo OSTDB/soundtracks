@@ -2129,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
 | Chiyo | 266815 | [266815-chiyo.json](./266815-chiyo.json) |
 | Chkn | 34021 | [34021-chkn.json](./34021-chkn.json) |
+| Chloe Puzzle Game | 162247 | [162247-chloe-puzzle-game.json](./162247-chloe-puzzle-game.json) |
 | Chlorofell | 334156 | [334156-chlorofell.json](./334156-chlorofell.json) |
 | ChloroLink | 374061 | [374061-chlorolink.json](./374061-chlorolink.json) |
 | Chlorophos | 119742 | [119742-chlorophos.json](./119742-chlorophos.json) |
@@ -3993,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Bridge Solo | 398415 | [398415-contract-bridge-solo.json](./398415-contract-bridge-solo.json) |
 | Contract Cooks | 403578 | [403578-contract-cooks.json](./403578-contract-cooks.json) |
 | Contract J.A.C.K. | 1336 | [1336-contract-j-a-c-k.json](./1336-contract-j-a-c-k.json) |
+| Contract Killer | 162258 | [162258-contract-killer.json](./162258-contract-killer.json) |
 | Contract Killers | 132218 | [132218-contract-killers.json](./132218-contract-killers.json) |
 | Contract Marriage | 303264 | [303264-contract-marriage.json](./303264-contract-marriage.json) |
 | Contract Revoked: The Lost Chapters | 271237 | [271237-contract-revoked-the-lost-chapters.json](./271237-contract-revoked-the-lost-chapters.json) |
