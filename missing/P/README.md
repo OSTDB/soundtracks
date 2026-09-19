@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacman2 | 62686 | [62686-pacman2.json](./62686-pacman2.json) |
 | PacMania II | 245391 | [245391-pacmania-ii.json](./245391-pacmania-ii.json) |
 | Paco | 149422 | [149422-paco.json](./149422-paco.json) |
+| Paco and the Tumbling Seed Box | 138051 | [138051-paco-and-the-tumbling-seed-box.json](./138051-paco-and-the-tumbling-seed-box.json) |
 | Pacremental | 398410 | [398410-pacremental.json](./398410-pacremental.json) |
 | Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
 | Paddle Battle | 172781 | [172781-paddle-battle.json](./172781-paddle-battle.json) |
@@ -1143,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaky Circus | 211819 | [211819-peaky-circus.json](./211819-peaky-circus.json) |
 | Peanut Butter Panic | 73277 | [73277-peanut-butter-panic.json](./73277-peanut-butter-panic.json) |
 | Pearl Fishery: Quest for the Mega Pearl | 296372 | [296372-pearl-fishery-quest-for-the-mega-pearl.json](./296372-pearl-fishery-quest-for-the-mega-pearl.json) |
+| Pearl Harbor: Strike at Dawn | 138007 | [138007-pearl-harbor-strike-at-dawn.json](./138007-pearl-harbor-strike-at-dawn.json) |
 | Pearl Harbor: Zero Hour | 72057 | [72057-pearl-harbor-zero-hour.json](./72057-pearl-harbor-zero-hour.json) |
 | Pearl Rising | 314054 | [314054-pearl-rising.json](./314054-pearl-rising.json) |
 | Pearlessential | 337732 | [337732-pearlessential.json](./337732-pearlessential.json) |
@@ -4431,6 +4433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Anomaly: Urban Supernatural Investigator | 200700 | [200700-project-anomaly-urban-supernatural-investigator.json](./200700-project-anomaly-urban-supernatural-investigator.json) |
 | Project Apparition | 259100 | [259100-project-apparition.json](./259100-project-apparition.json) |
 | Project Arena | 197374 | [197374-project-arena.json](./197374-project-arena.json) |
+| Project Arms | 138043 | [138043-project-arms.json](./138043-project-arms.json) |
 | Project Atlas | 142385 | [142385-project-atlas.json](./142385-project-atlas.json) |
 | Project Atlas | 387321 | [387321-project-atlas.json](./387321-project-atlas.json) |
 | Project Atno | 272947 | [272947-project-atno.json](./272947-project-atno.json) |
