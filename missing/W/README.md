@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Sweety | 127019 | [127019-west-sweety.json](./127019-west-sweety.json) |
 | West Water | 196822 | [196822-west-water.json](./196822-west-water.json) |
 | Westbound: Perils Ranch | 323325 | [323325-westbound-perils-ranch.json](./323325-westbound-perils-ranch.json) |
+| Westerlands: Girly runaways story | 147247 | [147247-westerlands-girly-runaways-story.json](./147247-westerlands-girly-runaways-story.json) |
 | Western Bank VR | 76678 | [76678-western-bank-vr.json](./76678-western-bank-vr.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Westfall | 343252 | [343252-westfall.json](./343252-westfall.json) |
@@ -2257,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordbreaker by Powgi | 196176 | [196176-wordbreaker-by-powgi.json](./196176-wordbreaker-by-powgi.json) |
 | WordCrasher | 87702 | [87702-wordcrasher.json](./87702-wordcrasher.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
+| WordHerd | 147269 | [147269-wordherd.json](./147269-wordherd.json) |
 | WordHive | 411569 | [411569-wordhive.json](./411569-wordhive.json) |
 | WordHive 2 | 414441 | [414441-wordhive-2.json](./414441-wordhive-2.json) |
 | WordHue | 212796 | [212796-wordhue.json](./212796-wordhue.json) |
@@ -2344,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Escape | 68667 | [68667-world-escape.json](./68667-world-escape.json) |
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
+| World for Two | 147270 | [147270-world-for-two.json](./147270-world-for-two.json) |
 | World Golf | 68674 | [68674-world-golf.json](./68674-world-golf.json) |
 | World Grand Prix: Pole to Finish | 215132 | [215132-world-grand-prix-pole-to-finish.json](./215132-world-grand-prix-pole-to-finish.json) |
 | World Guesser | 259006 | [259006-world-guesser.json](./259006-world-guesser.json) |
