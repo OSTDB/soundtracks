@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QamaQ | 178575 | [178575-qamaq.json](./178575-qamaq.json) |
 | Qanga | 97909 | [97909-qanga.json](./97909-qanga.json) |
 | Qasir al-Wasat: International Edition | 36327 | [36327-qasir-al-wasat-international-edition.json](./36327-qasir-al-wasat-international-edition.json) |
+| Qavo | 135031 | [135031-qavo.json](./135031-qavo.json) |
 | QB Planets | 150686 | [150686-qb-planets.json](./150686-qb-planets.json) |
 | Qbasic Gorillas | 11690 | [11690-qbasic-gorillas.json](./11690-qbasic-gorillas.json) |
 | QBob: Remastered | 358309 | [358309-qbob-remastered.json](./358309-qbob-remastered.json) |
