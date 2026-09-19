@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel Pixel | 103422 | [103422-parallel-pixel.json](./103422-parallel-pixel.json) |
 | Parallel World | 113026 | [113026-parallel-world.json](./113026-parallel-world.json) |
 | Parallel Worlds | 181373 | [181373-parallel-worlds.json](./181373-parallel-worlds.json) |
+| Parallelia | 148890 | [148890-parallelia.json](./148890-parallelia.json) |
 | Parallels | 274017 | [274017-parallels.json](./274017-parallels.json) |
 | Parallels | 34181 | [34181-parallels.json](./34181-parallels.json) |
 | Parallels Cross | 33170 | [33170-parallels-cross.json](./33170-parallels-cross.json) |
