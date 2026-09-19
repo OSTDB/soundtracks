@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter DVD Game: Wizarding World | 266196 | [266196-harry-potter-dvd-game-wizarding-world.json](./266196-harry-potter-dvd-game-wizarding-world.json) |
 | Harry Potter for Kinect | 20743 | [20743-harry-potter-for-kinect.json](./20743-harry-potter-for-kinect.json) |
 | Harry Potter Interactive DVD Game: Hogwarts Challenge | 266195 | [266195-harry-potter-interactive-dvd-game-hogwarts-challenge.json](./266195-harry-potter-interactive-dvd-game-hogwarts-challenge.json) |
+| Harry Potter Puzzles & Spells | 139256 | [139256-harry-potter-puzzles-and-spells.json](./139256-harry-potter-puzzles-and-spells.json) |
 | Harry Potter Quidditch Champions: Firebolt Supreme Broom Skin | 316066 | [316066-harry-potter-quidditch-champions-firebolt-supreme-broom-skin.json](./316066-harry-potter-quidditch-champions-firebolt-supreme-broom-skin.json) |
 | Harry Potter RPG | 141244 | [141244-harry-potter-rpg.json](./141244-harry-potter-rpg.json) |
 | Harry Potter Tamagotchi | 251591 | [251591-harry-potter-tamagotchi.json](./251591-harry-potter-tamagotchi.json) |
@@ -2689,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloSona5 | 340479 | [340479-holosona5.json](./340479-holosona5.json) |
 | Holotyping | 210245 | [210245-holotyping.json](./210245-holotyping.json) |
 | Holotz's Castle | 62145 | [62145-holotzs-castle.json](./62145-holotzs-castle.json) |
+| HoloVista | 139237 | [139237-holovista.json](./139237-holovista.json) |
 | Holstin | 229035 | [229035-holstin.json](./229035-holstin.json) |
 | Holt | 158596 | [158596-holt.json](./158596-holt.json) |
 | Holy Avenger | 30916 | [30916-holy-avenger.json](./30916-holy-avenger.json) |
