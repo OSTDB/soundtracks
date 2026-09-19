@@ -1715,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla | 75888 | [75888-godzilla.json](./75888-godzilla.json) |
 | Godzilla | 75892 | [75892-godzilla.json](./75892-godzilla.json) |
 | Godzilla | 7744 | [7744-godzilla.json](./7744-godzilla.json) |
+| Godzilla Creepypasta | 143491 | [143491-godzilla-creepypasta.json](./143491-godzilla-creepypasta.json) |
 | Godzilla Defense Force | 119058 | [119058-godzilla-defense-force.json](./119058-godzilla-defense-force.json) |
 | Godzilla Kaiju Wars Deluxe | 386235 | [386235-godzilla-kaiju-wars-deluxe.json](./386235-godzilla-kaiju-wars-deluxe.json) |
 | Godzilla Kaiju Wars VR | 307771 | [307771-godzilla-kaiju-wars-vr.json](./307771-godzilla-kaiju-wars-vr.json) |
