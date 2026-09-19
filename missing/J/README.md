@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Job Joust | 293226 | [293226-job-joust.json](./293226-job-joust.json) |
 | Job Simulator: The 2050 Archives | 12596 | [12596-job-simulator-the-2050-archives.json](./12596-job-simulator-the-2050-archives.json) |
 | Jobifai | 340774 | [340774-jobifai.json](./340774-jobifai.json) |
+| Jobmania: Eternal Dungeon | 176883 | [176883-jobmania-eternal-dungeon.json](./176883-jobmania-eternal-dungeon.json) |
 | Jobsworth Weekly | 290526 | [290526-jobsworth-weekly.json](./290526-jobsworth-weekly.json) |
 | Jockey Zero | 143662 | [143662-jockey-zero.json](./143662-jockey-zero.json) |
 | Jockey's Road | 62228 | [62228-jockeys-road.json](./62228-jockeys-road.json) |
