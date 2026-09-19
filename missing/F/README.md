@@ -1695,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiora Arc | 273494 | [273494-fiora-arc.json](./273494-fiora-arc.json) |
 | Fir Flowers and Hyacinths | 369636 | [369636-fir-flowers-and-hyacinths.json](./369636-fir-flowers-and-hyacinths.json) |
 | Fira | 173315 | [173315-fira.json](./173315-fira.json) |
+| Fire | 152137 | [152137-fire.json](./152137-fire.json) |
 | Fire & Ice: The Daring Adventures of Cool Coyote | 12099 | [12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json](./12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json) |
 | Fire & Water | 147997 | [147997-fire-and-water.json](./147997-fire-and-water.json) |
 | Fire All Weapons | 257973 | [257973-fire-all-weapons.json](./257973-fire-all-weapons.json) |
@@ -1891,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiscal Jesters | 176509 | [176509-fiscal-jesters.json](./176509-fiscal-jesters.json) |
 | Fiscal Kombat | 167175 | [167175-fiscal-kombat.json](./167175-fiscal-kombat.json) |
 | Fisco 400 | 172600 | [172600-fisco-400.json](./172600-fisco-400.json) |
+| Fish | 152138 | [152138-fish.json](./152138-fish.json) |
 | Fish | 293223 | [293223-fish.json](./293223-fish.json) |
 | Fish | 309869 | [309869-fish.json](./309869-fish.json) |
 | Fish | 314298 | [314298-fish.json](./314298-fish.json) |
