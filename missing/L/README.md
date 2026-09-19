@@ -2984,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyantei | 114993 | [114993-lyantei.json](./114993-lyantei.json) |
 | Lycah | 51739 | [51739-lycah.json](./51739-lycah.json) |
 | Lynne | 105107 | [105107-lynne.json](./105107-lynne.json) |
+| LyokoVR | 169337 | [169337-lyokovr.json](./169337-lyokovr.json) |
 | Lyratha: Labyrinth - Survival Escape | 115682 | [115682-lyratha-labyrinth-survival-escape.json](./115682-lyratha-labyrinth-survival-escape.json) |
 | LyraVR | 29923 | [29923-lyravr.json](./29923-lyravr.json) |
 | Lyre | 377592 | [377592-lyre.json](./377592-lyre.json) |
