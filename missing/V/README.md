@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Van-Gale: The War of Neo-Century | 246410 | [246410-van-gale-the-war-of-neo-century.json](./246410-van-gale-the-war-of-neo-century.json) |
 | Vanakan 405 | 382291 | [382291-vanakan-405.json](./382291-vanakan-405.json) |
 | Vandalhalla | 153934 | [153934-vandalhalla.json](./153934-vandalhalla.json) |
+| Vandozer | 137469 | [137469-vandozer.json](./137469-vandozer.json) |
 | Vanguard Ace: Vertical Madness | 70916 | [70916-vanguard-ace-vertical-madness.json](./70916-vanguard-ace-vertical-madness.json) |
 | Vanguard Of Armor | 394159 | [394159-vanguard-of-armor.json](./394159-vanguard-of-armor.json) |
 | Vanguard Princess | 9433 | [9433-vanguard-princess.json](./9433-vanguard-princess.json) |
@@ -1248,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRC Pro: Off-Road Track - Buggyland Fuencarral, Spain | 161770 | [161770-vrc-pro-off-road-track-buggyland-fuencarral-spain.json](./161770-vrc-pro-off-road-track-buggyland-fuencarral-spain.json) |
 | VRC Pro: Rally-X | 162251 | [162251-vrc-pro-rally-x.json](./162251-vrc-pro-rally-x.json) |
 | VRC Pro: Track Pack - Melzo Oval, Italy | 161761 | [161761-vrc-pro-track-pack-melzo-oval-italy.json](./161761-vrc-pro-track-pack-melzo-oval-italy.json) |
+| VRcher | 137462 | [137462-vrcher.json](./137462-vrcher.json) |
 | VReakout | 33150 | [33150-vreakout.json](./33150-vreakout.json) |
 | Vremya-Dyengi | 88275 | [88275-vremya-dyengi.json](./88275-vremya-dyengi.json) |
 | VRetired | 111702 | [111702-vretired.json](./111702-vretired.json) |
