@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | American Marksman | 239912 | [239912-american-marksman.json](./239912-american-marksman.json) |
 | American McGee Presents: Scrapland | 20289 | [20289-american-mcgee-presents-scrapland.json](./20289-american-mcgee-presents-scrapland.json) |
+| American Motorcycle Simulator | 133223 | [133223-american-motorcycle-simulator.json](./133223-american-motorcycle-simulator.json) |
 | American Navy Seals | 410967 | [410967-american-navy-seals.json](./410967-american-navy-seals.json) |
 | American Patriots: The Swamp Fox | 111018 | [111018-american-patriots-the-swamp-fox.json](./111018-american-patriots-the-swamp-fox.json) |
 | American Poker | 14252 | [14252-american-poker.json](./14252-american-poker.json) |
@@ -3318,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archaeogem | 219060 | [219060-archaeogem.json](./219060-archaeogem.json) |
 | Archaeology: Grass Farm | 368559 | [368559-archaeology-grass-farm.json](./368559-archaeology-grass-farm.json) |
 | Archaeology: Grass Kingdom | 368562 | [368562-archaeology-grass-kingdom.json](./368562-archaeology-grass-kingdom.json) |
+| Archaid | 133211 | [133211-archaid.json](./133211-archaid.json) |
 | Archangel | 26504 | [26504-archangel.json](./26504-archangel.json) |
 | Archangel | 74276 | [74276-archangel.json](./74276-archangel.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
@@ -4594,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Australiove | 181795 | [181795-australiove.json](./181795-australiove.json) |
 | Australo Piticus Mechanicus | 14277 | [14277-australo-piticus-mechanicus.json](./14277-australo-piticus-mechanicus.json) |
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
+| Auto Afterlife | 133251 | [133251-auto-afterlife.json](./133251-auto-afterlife.json) |
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
 | Auto Battle | 19338 | [19338-auto-battle.json](./19338-auto-battle.json) |
 | Auto Chess Souls | 392249 | [392249-auto-chess-souls.json](./392249-auto-chess-souls.json) |
