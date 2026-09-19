@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weaponmancer | 277285 | [277285-weaponmancer.json](./277285-weaponmancer.json) |
 | Weaponry Dealer VR | 110464 | [110464-weaponry-dealer-vr.json](./110464-weaponry-dealer-vr.json) |
 | Weapons Arena | 356727 | [356727-weapons-arena.json](./356727-weapons-arena.json) |
+| Weapons Simulator: OutDoor Edition | 180131 | [180131-weapons-simulator-outdoor-edition.json](./180131-weapons-simulator-outdoor-edition.json) |
 | Weasel Willy | 315277 | [315277-weasel-willy.json](./315277-weasel-willy.json) |
 | Weasel Words | 180823 | [180823-weasel-words.json](./180823-weasel-words.json) |
 | Weather Dominance | 253452 | [253452-weather-dominance.json](./253452-weather-dominance.json) |
@@ -2194,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordify | 147461 | [147461-wordify.json](./147461-wordify.json) |
 | Wordish | 187434 | [187434-wordish.json](./187434-wordish.json) |
 | WordJong Arcade | 65492 | [65492-wordjong-arcade.json](./65492-wordjong-arcade.json) |
+| WordKiller: Revolution | 180122 | [180122-wordkiller-revolution.json](./180122-wordkiller-revolution.json) |
 | Wordkour | 307730 | [307730-wordkour.json](./307730-wordkour.json) |
 | Wordle DS | 265142 | [265142-wordle-ds.json](./265142-wordle-ds.json) |
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
