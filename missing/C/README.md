@@ -2061,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Planet | 376595 | [376595-chill-planet.json](./376595-chill-planet.json) |
 | Chill Seekers | 267108 | [267108-chill-seekers.json](./267108-chill-seekers.json) |
 | Chill Town | 212814 | [212814-chill-town.json](./212814-chill-town.json) |
+| Chill X | 161260 | [161260-chill-x.json](./161260-chill-x.json) |
 | Chilled Chicken | 262421 | [262421-chilled-chicken.json](./262421-chilled-chicken.json) |
 | Chiller | 11727 | [11727-chiller.json](./11727-chiller.json) |
 | Chillin' | 308265 | [308265-chillin.json](./308265-chillin.json) |
@@ -3473,6 +3474,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game 4: Steampunk | 199609 | [199609-coloring-game-4-steampunk.json](./199609-coloring-game-4-steampunk.json) |
 | Coloring Game 5.5 | 406186 | [406186-coloring-game-5-5.json](./406186-coloring-game-5-5.json) |
 | Coloring Game 5.6 | 406187 | [406187-coloring-game-5-6.json](./406187-coloring-game-5-6.json) |
+| Coloring Game: Expansion Pack No. 1 | 161254 | [161254-coloring-game-expansion-pack-no-1.json](./161254-coloring-game-expansion-pack-no-1.json) |
+| Coloring Game: Expansion Pack No. 2 | 161255 | [161255-coloring-game-expansion-pack-no-2.json](./161255-coloring-game-expansion-pack-no-2.json) |
+| Coloring Game: Expansion Pack No. 3 | 161256 | [161256-coloring-game-expansion-pack-no-3.json](./161256-coloring-game-expansion-pack-no-3.json) |
 | Coloring Game: Girls | 255329 | [255329-coloring-game-girls.json](./255329-coloring-game-girls.json) |
 | Coloring Game: Little City | 130402 | [130402-coloring-game-little-city.json](./130402-coloring-game-little-city.json) |
 | Coloring Game: Studio | 273998 | [273998-coloring-game-studio.json](./273998-coloring-game-studio.json) |
