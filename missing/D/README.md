@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daloman Depths | 159139 | [159139-daloman-depths.json](./159139-daloman-depths.json) |
 | Dalton: The Awesome! | 263577 | [263577-dalton-the-awesome.json](./263577-dalton-the-awesome.json) |
 | Dam Panic | 346038 | [346038-dam-panic.json](./346038-dam-panic.json) |
+| Dama Gallery | 154977 | [154977-dama-gallery.json](./154977-dama-gallery.json) |
 | Damaaz the Barbarian Warlock | 278713 | [278713-damaaz-the-barbarian-warlock.json](./278713-damaaz-the-barbarian-warlock.json) |
 | Damage: Sadistic Butchering of Humanity | 30788 | [30788-damage-sadistic-butchering-of-humanity.json](./30788-damage-sadistic-butchering-of-humanity.json) |
 | Damaged | 181340 | [181340-damaged.json](./181340-damaged.json) |
@@ -904,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De:Void | 135813 | [135813-de-void.json](./135813-de-void.json) |
 | Dead Above | 366309 | [366309-dead-above.json](./366309-dead-above.json) |
 | Dead Abyss | 321336 | [321336-dead-abyss.json](./321336-dead-abyss.json) |
+| Dead Age 1 + 2 Bundle | 154956 | [154956-dead-age-1-2-bundle.json](./154956-dead-age-1-2-bundle.json) |
 | Dead Alliance | 36781 | [36781-dead-alliance.json](./36781-dead-alliance.json) |
 | Dead Before Work: The Commute | 399087 | [399087-dead-before-work-the-commute.json](./399087-dead-before-work-the-commute.json) |
 | Dead Bits | 8429 | [8429-dead-bits.json](./8429-dead-bits.json) |
@@ -933,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cells: Everyone is Here! | 221962 | [221962-dead-cells-everyone-is-here.json](./221962-dead-cells-everyone-is-here.json) |
 | Dead Cells: Netflix Edition | 274723 | [274723-dead-cells-netflix-edition.json](./274723-dead-cells-netflix-edition.json) |
 | Dead Cells: Return to Castlevania - Signature Edition | 387498 | [387498-dead-cells-return-to-castlevania-signature-edition.json](./387498-dead-cells-return-to-castlevania-signature-edition.json) |
+| Dead Cells: The Fatal Seed Bundle | 154957 | [154957-dead-cells-the-fatal-seed-bundle.json](./154957-dead-cells-the-fatal-seed-bundle.json) |
 | Dead Cells: The Queen and the Sea | 183128 | [183128-dead-cells-the-queen-and-the-sea.json](./183128-dead-cells-the-queen-and-the-sea.json) |
 | Dead Circuit | 382327 | [382327-dead-circuit.json](./382327-dead-circuit.json) |
 | Dead City | 244380 | [244380-dead-city.json](./244380-dead-city.json) |
@@ -4041,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconic Order VR | 31925 | [31925-draconic-order-vr.json](./31925-draconic-order-vr.json) |
 | Dracu-Riot! | 137087 | [137087-dracu-riot.json](./137087-dracu-riot.json) |
 | Dracula 4: The Shadow of the Dragon | 9090 | [9090-dracula-4-the-shadow-of-the-dragon.json](./9090-dracula-4-the-shadow-of-the-dragon.json) |
+| Dracula 4+5 | 154936 | [154936-dracula-4-5.json](./154936-dracula-4-5.json) |
 | Dracula 5: The Blood Legacy | 9094 | [9094-dracula-5-the-blood-legacy.json](./9094-dracula-5-the-blood-legacy.json) |
 | Dracula Frames | 168320 | [168320-dracula-frames.json](./168320-dracula-frames.json) |
 | Dracula Hakushaku | 66111 | [66111-dracula-hakushaku.json](./66111-dracula-hakushaku.json) |
@@ -4563,6 +4567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamblood | 280903 | [280903-dreamblood.json](./280903-dreamblood.json) |
 | Dreamboat | 295806 | [295806-dreamboat.json](./295806-dreamboat.json) |
 | DreamCatcher | 312588 | [312588-dreamcatcher.json](./312588-dreamcatcher.json) |
+| DreamCatcher: Reflections - Volume 1 | 154972 | [154972-dreamcatcher-reflections-volume-1.json](./154972-dreamcatcher-reflections-volume-1.json) |
 | DreamDayKi | 202355 | [202355-dreamdayki.json](./202355-dreamdayki.json) |
 | Dreamed Away | 220745 | [220745-dreamed-away.json](./220745-dreamed-away.json) |
 | Dreamer | 101641 | [101641-dreamer.json](./101641-dreamer.json) |
