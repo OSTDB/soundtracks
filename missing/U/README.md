@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uniseas | 131555 | [131555-uniseas.json](./131555-uniseas.json) |
 | Unishroom | 116816 | [116816-unishroom.json](./116816-unishroom.json) |
 | Unislot | 128572 | [128572-unislot.json](./128572-unislot.json) |
+| Unistar | 178508 | [178508-unistar.json](./178508-unistar.json) |
 | Unit 4: Clash of Agents | 170561 | [170561-unit-4-clash-of-agents.json](./170561-unit-4-clash-of-agents.json) |
 | Unit 42: Adrift in Space | 395043 | [395043-unit-42-adrift-in-space.json](./395043-unit-42-adrift-in-space.json) |
 | Unit Zero: Operation Black Veil | 371968 | [371968-unit-zero-operation-black-veil.json](./371968-unit-zero-operation-black-veil.json) |
