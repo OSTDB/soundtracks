@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ta ga Tame ni Oni wa Naku | 163357 | [163357-ta-ga-tame-ni-oni-wa-naku.json](./163357-ta-ga-tame-ni-oni-wa-naku.json) |
 | Taaltris | 94699 | [94699-taaltris.json](./94699-taaltris.json) |
 | Tabboz Simulator | 191239 | [191239-tabboz-simulator.json](./191239-tabboz-simulator.json) |
+| Tabby Cat's Great Catventure | 177423 | [177423-tabby-cats-great-catventure.json](./177423-tabby-cats-great-catventure.json) |
 | Tabé-O-Ja | 150071 | [150071-tabe-o-ja.json](./150071-tabe-o-ja.json) |
 | Table Ball: Amazing Extras Skin Pack | 293399 | [293399-table-ball-amazing-extras-skin-pack.json](./293399-table-ball-amazing-extras-skin-pack.json) |
 | Table Ball: Emotions Skin Pack | 293398 | [293398-table-ball-emotions-skin-pack.json](./293398-table-ball-emotions-skin-pack.json) |
@@ -654,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Strike | 76609 | [76609-tank-strike.json](./76609-tank-strike.json) |
 | Tank Sudoku | 190734 | [190734-tank-sudoku.json](./190734-tank-sudoku.json) |
 | Tank survival Game | 110985 | [110985-tank-survival-game.json](./110985-tank-survival-game.json) |
+| Tank Time | 177424 | [177424-tank-time.json](./177424-tank-time.json) |
 | Tank Trouble 3D | 338701 | [338701-tank-trouble-3d.json](./338701-tank-trouble-3d.json) |
 | Tank Tyranny | 289346 | [289346-tank-tyranny.json](./289346-tank-tyranny.json) |
 | Tank Universal: Challenger Eight | 72708 | [72708-tank-universal-challenger-eight.json](./72708-tank-universal-challenger-eight.json) |
@@ -2276,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma: Triple Threat Bundle | 338010 | [338010-the-coma-triple-threat-bundle.json](./338010-the-coma-triple-threat-bundle.json) |
 | The Combatribes | 337198 | [337198-the-combatribes.json](./337198-the-combatribes.json) |
 | The Comedian Adventure | 266884 | [266884-the-comedian-adventure.json](./266884-the-comedian-adventure.json) |
+| The Comfort Zone | 177417 | [177417-the-comfort-zone.json](./177417-the-comfort-zone.json) |
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
 | The Complex | 119178 | [119178-the-complex.json](./119178-the-complex.json) |
@@ -2769,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Expendabros | 9786 | [9786-the-expendabros.json](./9786-the-expendabros.json) |
 | The Experiment | 255699 | [255699-the-experiment.json](./255699-the-experiment.json) |
 | The Experimental Turnabout | 308421 | [308421-the-experimental-turnabout.json](./308421-the-experimental-turnabout.json) |
+| The Explorers | 177416 | [177416-the-explorers.json](./177416-the-explorers.json) |
 | The Eye | 141836 | [141836-the-eye.json](./141836-the-eye.json) |
 | The Eye of Judgment: Legends | 46020 | [46020-the-eye-of-judgment-legends.json](./46020-the-eye-of-judgment-legends.json) |
 | The Eyes of Dr Kautzmann | 219256 | [219256-the-eyes-of-dr-kautzmann.json](./219256-the-eyes-of-dr-kautzmann.json) |
@@ -8815,6 +8819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travian: Kingdoms | 31910 | [31910-travian-kingdoms.json](./31910-travian-kingdoms.json) |
 | Travis Strikes Again: No More Heroes | 55195 | [55195-travis-strikes-again-no-more-heroes.json](./55195-travis-strikes-again-no-more-heroes.json) |
 | Travis' Coward Combustion | 265721 | [265721-travis-coward-combustion.json](./265721-travis-coward-combustion.json) |
+| TraVRsal | 177409 | [177409-travrsal.json](./177409-travrsal.json) |
 | Trawler’s Empire | 339905 | [339905-trawler-s-empire.json](./339905-trawler-s-empire.json) |
 | Trax: Build it Race it | 105939 | [105939-trax-build-it-race-it.json](./105939-trax-build-it-race-it.json) |
 | Trax: The Robot Wars | 62160 | [62160-trax-the-robot-wars.json](./62160-trax-the-robot-wars.json) |
