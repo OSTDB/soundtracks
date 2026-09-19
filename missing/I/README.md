@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iF-22 | 95458 | [95458-if-22.json](./95458-if-22.json) |
 | iF/A-18E Carrier Strike Fighter | 78014 | [78014-if-a-18e-carrier-strike-fighter.json](./78014-if-a-18e-carrier-strike-fighter.json) |
 | iFarkle | 104658 | [104658-ifarkle.json](./104658-ifarkle.json) |
+| Iffermoon | 167145 | [167145-iffermoon.json](./167145-iffermoon.json) |
 | iFighter 1945 | 91940 | [91940-ifighter-1945.json](./91940-ifighter-1945.json) |
 | IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
 | IG Arena: Idle RPG | 232054 | [232054-ig-arena-idle-rpg.json](./232054-ig-arena-idle-rpg.json) |
