@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active Soccer 2019 | 117537 | [117537-active-soccer-2019.json](./117537-active-soccer-2019.json) |
 | Activision Anthology | 301430 | [301430-activision-anthology.json](./301430-activision-anthology.json) |
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
+| Actor Tycoon 2 | 142235 | [142235-actor-tycoon-2.json](./142235-actor-tycoon-2.json) |
 | ActRaiser 2 | 7704 | [7704-actraiser-2.json](./7704-actraiser-2.json) |
 | Actua Golf 3 | 34501 | [34501-actua-golf-3.json](./34501-actua-golf-3.json) |
 | Actua Ice Hockey 2 | 71553 | [71553-actua-ice-hockey-2.json](./71553-actua-ice-hockey-2.json) |
@@ -1536,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All in Abyss: Judge the Fake | 302693 | [302693-all-in-abyss-judge-the-fake.json](./302693-all-in-abyss-judge-the-fake.json) |
 | All In Everyday | 326091 | [326091-all-in-everyday.json](./326091-all-in-everyday.json) |
 | All in Vain | 392139 | [392139-all-in-vain.json](./392139-all-in-vain.json) |
+| All is Fair in Dust and Air | 142266 | [142266-all-is-fair-in-dust-and-air.json](./142266-all-is-fair-in-dust-and-air.json) |
 | All is Fair in Love and Vore: The Tavorion Collection | 250600 | [250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json](./250600-all-is-fair-in-love-and-vore-the-tavorion-collection.json) |
 | All Japan Super Bombliss Cup '95 | 150163 | [150163-all-japan-super-bombliss-cup-95.json](./150163-all-japan-super-bombliss-cup-95.json) |
 | All Japan Super Bombliss Cup '95: Dai-1-kai | 179707 | [179707-all-japan-super-bombliss-cup-95-dai-1-kai.json](./179707-all-japan-super-bombliss-cup-95-dai-1-kai.json) |
