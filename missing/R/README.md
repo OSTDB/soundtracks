@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re-telling | 176955 | [176955-re-telling.json](./176955-re-telling.json) |
 | Re-wind 2005 | 70428 | [70428-re-wind-2005.json](./70428-re-wind-2005.json) |
 | Re;Lord 3: The Demon Lord of Groessen and The Final Witch | 305390 | [305390-re-lord-3-the-demon-lord-of-groessen-and-the-final-witch.json](./305390-re-lord-3-the-demon-lord-of-groessen-and-the-final-witch.json) |
+| Re;member | 145461 | [145461-re-member.json](./145461-re-member.json) |
 | Re;quartz Reido | 211948 | [211948-re-quartz-reido.json](./211948-re-quartz-reido.json) |
 | Re: Aetatis | 174769 | [174769-re-aetatis.json](./174769-re-aetatis.json) |
 | RE: Castle Defense | 130367 | [130367-re-castle-defense.json](./130367-re-castle-defense.json) |
