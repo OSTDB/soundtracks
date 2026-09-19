@@ -1545,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Tarkov: Bear - Arktika | 399106 | [399106-escape-from-tarkov-bear-arktika.json](./399106-escape-from-tarkov-bear-arktika.json) |
 | Escape from Tarkov: Usec - AC Ranger Green | 399107 | [399107-escape-from-tarkov-usec-ac-ranger-green.json](./399107-escape-from-tarkov-usec-ac-ranger-green.json) |
 | Escape from Tarkov: Usec - Fahrenheit | 399105 | [399105-escape-from-tarkov-usec-fahrenheit.json](./399105-escape-from-tarkov-usec-fahrenheit.json) |
+| Escape From Terror City | 142882 | [142882-escape-from-terror-city.json](./142882-escape-from-terror-city.json) |
 | Escape from Tethys | 103256 | [103256-escape-from-tethys.json](./103256-escape-from-tethys.json) |
 | Escape from the Abandoned Outpost | 273669 | [273669-escape-from-the-abandoned-outpost.json](./273669-escape-from-the-abandoned-outpost.json) |
 | Escape from the Cannibal Family | 301246 | [301246-escape-from-the-cannibal-family.json](./301246-escape-from-the-cannibal-family.json) |
