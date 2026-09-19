@@ -2212,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry | 302712 | [302712-devil-may-cry.json](./302712-devil-may-cry.json) |
 | Devil May Cry 2 | 135 | [135-devil-may-cry-2.json](./135-devil-may-cry-2.json) |
 | Devil May Cry 3: Dante's Awakening - Special Edition | 218390 | [218390-devil-may-cry-3-dantes-awakening-special-edition.json](./218390-devil-may-cry-3-dantes-awakening-special-edition.json) |
+| Devil May Cry 5: Playable Character - Vergil | 169336 | [169336-devil-may-cry-5-playable-character-vergil.json](./169336-devil-may-cry-5-playable-character-vergil.json) |
 | Devil May Cry HD Collection | 20734 | [20734-devil-may-cry-hd-collection.json](./20734-devil-may-cry-hd-collection.json) |
 | Devil May Cry HD Collection & 4 Special Edition Bundle | 218517 | [218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json](./218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json) |
 | Devil of the Mirror | 182987 | [182987-devil-of-the-mirror.json](./182987-devil-of-the-mirror.json) |
@@ -2582,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinD | 303477 | [303477-dind.json](./303477-dind.json) |
 | Dine Together | 205238 | [205238-dine-together.json](./205238-dine-together.json) |
 | Diner Bros | 97040 | [97040-diner-bros.json](./97040-diner-bros.json) |
+| Diner Bros: Sushi Bros | 169300 | [169300-diner-bros-sushi-bros.json](./169300-diner-bros-sushi-bros.json) |
 | Diner Dash 2: Restaurant Rescue | 78690 | [78690-diner-dash-2-restaurant-rescue.json](./78690-diner-dash-2-restaurant-rescue.json) |
 | Diner Dash Mobile | 104663 | [104663-diner-dash-mobile.json](./104663-diner-dash-mobile.json) |
 | Diner Dash: Hometown Hero | 16070 | [16070-diner-dash-hometown-hero.json](./16070-diner-dash-hometown-hero.json) |
@@ -2662,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Battlegrounds | 57127 | [57127-dinosaur-battlegrounds.json](./57127-dinosaur-battlegrounds.json) |
 | Dinosaur Cousin Squad | 338286 | [338286-dinosaur-cousin-squad.json](./338286-dinosaur-cousin-squad.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
+| Dinosaur Hunt: Vampires, Gargoyles, Mutants Hunter Expansion Pack | 169320 | [169320-dinosaur-hunt-vampires-gargoyles-mutants-hunter-expansion-pack.json](./169320-dinosaur-hunt-vampires-gargoyles-mutants-hunter-expansion-pack.json) |
 | Dinosaur Hunter | 98984 | [98984-dinosaur-hunter.json](./98984-dinosaur-hunter.json) |
 | Dinosaur Hunter 2018 | 105858 | [105858-dinosaur-hunter-2018.json](./105858-dinosaur-hunter-2018.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
@@ -5215,6 +5218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Death | 356659 | [356659-dungeons-of-death.json](./356659-dungeons-of-death.json) |
 | Dungeons of Dreadrock | 194009 | [194009-dungeons-of-dreadrock.json](./194009-dungeons-of-dreadrock.json) |
 | Dungeons of Dredmor: Conquest of the Wizardlands | 172164 | [172164-dungeons-of-dredmor-conquest-of-the-wizardlands.json](./172164-dungeons-of-dredmor-conquest-of-the-wizardlands.json) |
+| Dungeons of Dredmor: You Have to Name the Expansion Pack | 169334 | [169334-dungeons-of-dredmor-you-have-to-name-the-expansion-pack.json](./169334-dungeons-of-dredmor-you-have-to-name-the-expansion-pack.json) |
 | Dungeons of Dusk | 380425 | [380425-dungeons-of-dusk.json](./380425-dungeons-of-dusk.json) |
 | Dungeons of Edera 2 | 363950 | [363950-dungeons-of-edera-2.json](./363950-dungeons-of-edera-2.json) |
 | Dungeons of Hinterberg: Episode Renaud | 358904 | [358904-dungeons-of-hinterberg-episode-renaud.json](./358904-dungeons-of-hinterberg-episode-renaud.json) |
