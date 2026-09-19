@@ -3154,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Bike | 158146 | [158146-midnight-bike.json](./158146-midnight-bike.json) |
 | Midnight Blues | 173305 | [173305-midnight-blues.json](./173305-midnight-blues.json) |
 | Midnight Calling: Jeronimo | 102792 | [102792-midnight-calling-jeronimo.json](./102792-midnight-calling-jeronimo.json) |
+| Midnight Calling: Valeria - Collector's Edition | 166059 | [166059-midnight-calling-valeria-collectors-edition.json](./166059-midnight-calling-valeria-collectors-edition.json) |
 | Midnight Castle | 294462 | [294462-midnight-castle.json](./294462-midnight-castle.json) |
 | Midnight Cemetery | 273457 | [273457-midnight-cemetery.json](./273457-midnight-cemetery.json) |
 | Midnight Club 3: DUB Edition Remix | 22583 | [22583-midnight-club-3-dub-edition-remix.json](./22583-midnight-club-3-dub-edition-remix.json) |
