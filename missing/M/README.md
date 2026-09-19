@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Dex 2 | 227917 | [227917-mad-dex-2.json](./227917-mad-dex-2.json) |
 | Mad Experiments 2: Escape Room | 195600 | [195600-mad-experiments-2-escape-room.json](./195600-mad-experiments-2-escape-room.json) |
 | Mad Experiments 2: Premium Pack | 263048 | [263048-mad-experiments-2-premium-pack.json](./263048-mad-experiments-2-premium-pack.json) |
+| Mad Fighter | 133199 | [133199-mad-fighter.json](./133199-mad-fighter.json) |
 | Mad Finger Marathon | 233209 | [233209-mad-finger-marathon.json](./233209-mad-finger-marathon.json) |
 | Mad Games Tycoon | 13172 | [13172-mad-games-tycoon.json](./13172-mad-games-tycoon.json) |
 | Mad Gun Range VR Simulator | 115689 | [115689-mad-gun-range-vr-simulator.json](./115689-mad-gun-range-vr-simulator.json) |
@@ -783,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malta Storm | 72083 | [72083-malta-storm.json](./72083-malta-storm.json) |
 | Maltese Cross | 134418 | [134418-maltese-cross.json](./134418-maltese-cross.json) |
 | Malum Escape | 311500 | [311500-malum-escape.json](./311500-malum-escape.json) |
+| Malus | 133214 | [133214-malus.json](./133214-malus.json) |
 | Malvin`s Prehistoric Adventures | 129228 | [129228-malvin-s-prehistoric-adventures.json](./129228-malvin-s-prehistoric-adventures.json) |
 | Malvinas 2032 | 69243 | [69243-malvinas-2032.json](./69243-malvinas-2032.json) |
 | Malvinas: La Ultima Carta | 303645 | [303645-malvinas-la-ultima-carta.json](./303645-malvinas-la-ultima-carta.json) |
@@ -1820,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | May Club | 73791 | [73791-may-club.json](./73791-may-club.json) |
 | May I Take Your Order? | 123025 | [123025-may-i-take-your-order.json](./123025-may-i-take-your-order.json) |
 | May Your Memory Be a Blessing | 308422 | [308422-may-your-memory-be-a-blessing.json](./308422-may-your-memory-be-a-blessing.json) |
+| May's Perfect Romance | 133212 | [133212-mays-perfect-romance.json](./133212-mays-perfect-romance.json) |
 | Maya Adventure | 235232 | [235232-maya-adventure.json](./235232-maya-adventure.json) |
 | Maya the Bee: Sweet Gold | 49328 | [49328-maya-the-bee-sweet-gold.json](./49328-maya-the-bee-sweet-gold.json) |
 | Maya the Bee: The Great Adventure | 49327 | [49327-maya-the-bee-the-great-adventure.json](./49327-maya-the-bee-the-great-adventure.json) |
@@ -3818,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna to Capcom All-Stars | 80494 | [80494-minna-to-capcom-all-stars.json](./80494-minna-to-capcom-all-stars.json) |
 | Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
 | Minnie | 228443 | [228443-minnie.json](./228443-minnie.json) |
+| Minoes | 133250 | [133250-minoes.json](./133250-minoes.json) |
 | Minor Miner: Mining Action | 232035 | [232035-minor-miner-mining-action.json](./232035-minor-miner-mining-action.json) |
 | Minos | 370704 | [370704-minos.json](./370704-minos.json) |
 | Minos Starfighter VR | 104639 | [104639-minos-starfighter-vr.json](./104639-minos-starfighter-vr.json) |
@@ -5176,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mothman | 277983 | [277983-mothman.json](./277983-mothman.json) |
 | Motion Explosion! | 20224 | [20224-motion-explosion.json](./20224-motion-explosion.json) |
 | Motion Gravure Series: Mori Hiroko | 71487 | [71487-motion-gravure-series-mori-hiroko.json](./71487-motion-gravure-series-mori-hiroko.json) |
+| Motion of the Heart | 133229 | [133229-motion-of-the-heart.json](./133229-motion-of-the-heart.json) |
 | Motion Soccer Pro | 320521 | [320521-motion-soccer-pro.json](./320521-motion-soccer-pro.json) |
 | Motion Wulin | 373515 | [373515-motion-wulin.json](./373515-motion-wulin.json) |
 | Motioning Monument | 314679 | [314679-motioning-monument.json](./314679-motioning-monument.json) |
