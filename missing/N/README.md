@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeonHat | 187517 | [187517-neonhat.json](./187517-neonhat.json) |
 | NeonLore | 197916 | [197916-neonlore.json](./197916-neonlore.json) |
 | Neonsomnia | 257087 | [257087-neonsomnia.json](./257087-neonsomnia.json) |
+| NeonTunnel | 176365 | [176365-neontunnel.json](./176365-neontunnel.json) |
 | Neopets: Codestone Quest | 210104 | [210104-neopets-codestone-quest.json](./210104-neopets-codestone-quest.json) |
 | Neopets: Island Builders | 254592 | [254592-neopets-island-builders.json](./254592-neopets-island-builders.json) |
 | Neopets: Mega Mini Games Collection - The Neopian Arcade Odyssey | 386211 | [386211-neopets-mega-mini-games-collection-the-neopian-arcade-odyssey.json](./386211-neopets-mega-mini-games-collection-the-neopian-arcade-odyssey.json) |
