@@ -4748,6 +4748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Search for Tikiman | 265679 | [265679-the-search-for-tikiman.json](./265679-the-search-for-tikiman.json) |
 | The Search Master: Metal Gear Solid Edition | 270390 | [270390-the-search-master-metal-gear-solid-edition.json](./270390-the-search-master-metal-gear-solid-edition.json) |
 | The Searcher Wild West Adventure | 105373 | [105373-the-searcher-wild-west-adventure.json](./105373-the-searcher-wild-west-adventure.json) |
+| The Season of the Warlock | 180132 | [180132-the-season-of-the-warlock.json](./180132-the-season-of-the-warlock.json) |
 | The Second Chance Strip Club | 392926 | [392926-the-second-chance-strip-club.json](./392926-the-second-chance-strip-club.json) |
 | The Second Circle | 333107 | [333107-the-second-circle.json](./333107-the-second-circle.json) |
 | The Second Kids' World Almanac Adventure | 71531 | [71531-the-second-kids-world-almanac-adventure.json](./71531-the-second-kids-world-almanac-adventure.json) |
