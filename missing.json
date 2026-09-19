@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T04:17:44.731Z",
-  "total_missing": 90571,
+  "generated_at": "2026-09-19T04:32:43.716Z",
+  "total_missing": 90621,
   "games": [
     {
       "igdb_id": 176875,
@@ -8518,9 +8518,34 @@
       "file": "missing/A/234744-aircraft-pushback-simulator.json"
     },
     {
+      "igdb_id": 170954,
+      "game_name": "Aircraft War: Car Wars",
+      "file": "missing/A/170954-aircraft-war-car-wars.json"
+    },
+    {
+      "igdb_id": 170953,
+      "game_name": "Aircraft War: Dragon Wars",
+      "file": "missing/A/170953-aircraft-war-dragon-wars.json"
+    },
+    {
+      "igdb_id": 170950,
+      "game_name": "Aircraft War: Extra Level Pack 1",
+      "file": "missing/A/170950-aircraft-war-extra-level-pack-1.json"
+    },
+    {
       "igdb_id": 263196,
       "game_name": "Aircraft War: Extra Level Pack 2",
       "file": "missing/A/263196-aircraft-war-extra-level-pack-2.json"
+    },
+    {
+      "igdb_id": 170951,
+      "game_name": "Aircraft War: Shape Wars",
+      "file": "missing/A/170951-aircraft-war-shape-wars.json"
+    },
+    {
+      "igdb_id": 170952,
+      "game_name": "Aircraft War: Tank Wars",
+      "file": "missing/A/170952-aircraft-war-tank-wars.json"
     },
     {
       "igdb_id": 341580,
@@ -18118,6 +18143,11 @@
       "file": "missing/A/109044-aquaris.json"
     },
     {
+      "igdb_id": 170934,
+      "game_name": "Aquarist: My First Job",
+      "file": "missing/A/170934-aquarist-my-first-job.json"
+    },
+    {
       "igdb_id": 414410,
       "game_name": "Aquarium Anomaly",
       "file": "missing/A/414410-aquarium-anomaly.json"
@@ -21291,6 +21321,11 @@
       "igdb_id": 172191,
       "game_name": "Arms Race: TCWE - Industrialization",
       "file": "missing/A/172191-arms-race-tcwe-industrialization.json"
+    },
+    {
+      "igdb_id": 170914,
+      "game_name": "Arms Race: TCWE - Politics",
+      "file": "missing/A/170914-arms-race-tcwe-politics.json"
     },
     {
       "igdb_id": 190232,
@@ -37631,6 +37666,11 @@
       "igdb_id": 311112,
       "game_name": "Beyond Horizon: The Astral Expedition",
       "file": "missing/B/311112-beyond-horizon-the-astral-expedition.json"
+    },
+    {
+      "igdb_id": 170925,
+      "game_name": "Beyond Horror: Episode One - A Father's Journey",
+      "file": "missing/B/170925-beyond-horror-episode-one-a-fathers-journey.json"
     },
     {
       "igdb_id": 386300,
@@ -57463,6 +57503,11 @@
       "file": "missing/C/297810-carnival.json"
     },
     {
+      "igdb_id": 170915,
+      "game_name": "Carnival and Girls",
+      "file": "missing/C/170915-carnival-and-girls.json"
+    },
+    {
       "igdb_id": 108759,
       "game_name": "Carnival Games",
       "file": "missing/C/108759-carnival-games.json"
@@ -60391,6 +60436,11 @@
       "igdb_id": 388940,
       "game_name": "Cave! Cave! Deus Videt.",
       "file": "missing/C/388940-cave-cave-deus-videt.json"
+    },
+    {
+      "igdb_id": 170909,
+      "game_name": "Caveblazers: Together",
+      "file": "missing/C/170909-caveblazers-together.json"
     },
     {
       "igdb_id": 249797,
@@ -67211,6 +67261,11 @@
       "igdb_id": 226304,
       "game_name": "Clad in Iron Chincha Islands 1866",
       "file": "missing/C/226304-clad-in-iron-chincha-islands-1866.json"
+    },
+    {
+      "igdb_id": 170949,
+      "game_name": "Clad in Iron: Philippines 1898 - Manila Bay 1898",
+      "file": "missing/C/170949-clad-in-iron-philippines-1898-manila-bay-1898.json"
     },
     {
       "igdb_id": 111222,
@@ -118118,6 +118173,11 @@
       "file": "missing/E/120973-escape-the-challenge.json"
     },
     {
+      "igdb_id": 170910,
+      "game_name": "Escape the City",
+      "file": "missing/E/170910-escape-the-city.json"
+    },
+    {
       "igdb_id": 260233,
       "game_name": "Escape the Dark Tower",
       "file": "missing/E/260233-escape-the-dark-tower.json"
@@ -124446,6 +124506,16 @@
       "igdb_id": 328619,
       "game_name": "Famicom Hinshi Tai",
       "file": "missing/F/328619-famicom-hinshi-tai.json"
+    },
+    {
+      "igdb_id": 170948,
+      "game_name": "Famicom Mini: Dai-2-ji Super Robot Taisen",
+      "file": "missing/F/170948-famicom-mini-dai-2-ji-super-robot-taisen.json"
+    },
+    {
+      "igdb_id": 170947,
+      "game_name": "Famicom Mini: Kidou Senshi Z Gundam - Hot Scramble",
+      "file": "missing/F/170947-famicom-mini-kidou-senshi-z-gundam-hot-scramble.json"
     },
     {
       "igdb_id": 41418,
@@ -164353,6 +164423,11 @@
       "file": "missing/H/217498-hedgehot-battle-strike.json"
     },
     {
+      "igdb_id": 170935,
+      "game_name": "Hedgie Simulator",
+      "file": "missing/H/170935-hedgie-simulator.json"
+    },
+    {
       "igdb_id": 183074,
       "game_name": "Hedon Bloodrite",
       "file": "missing/H/183074-hedon-bloodrite.json"
@@ -175161,6 +175236,11 @@
       "igdb_id": 180692,
       "game_name": "How to Train Your Human",
       "file": "missing/H/180692-how-to-train-your-human.json"
+    },
+    {
+      "igdb_id": 170933,
+      "game_name": "How to Volley Ball",
+      "file": "missing/H/170933-how-to-volley-ball.json"
     },
     {
       "igdb_id": 136400,
@@ -191998,6 +192078,11 @@
       "file": "missing/J/133437-juicy-theater.json"
     },
     {
+      "igdb_id": 170936,
+      "game_name": "Jujubos",
+      "file": "missing/J/170936-jujubos.json"
+    },
+    {
       "igdb_id": 255353,
       "game_name": "JuJuJu Club: Potsunen",
       "file": "missing/J/255353-jujuju-club-potsunen.json"
@@ -199823,6 +199908,11 @@
       "file": "missing/K/281555-klondike.json"
     },
     {
+      "igdb_id": 170940,
+      "game_name": "Klondike Re-Imagined",
+      "file": "missing/K/170940-klondike-re-imagined.json"
+    },
+    {
       "igdb_id": 89235,
       "game_name": "Klondike Solitaire 2018",
       "file": "missing/K/89235-klondike-solitaire-2018.json"
@@ -206768,6 +206858,11 @@
       "file": "missing/L/221406-legends-of-seven-seas.json"
     },
     {
+      "igdb_id": 170937,
+      "game_name": "Legends of Snooker: One Shot",
+      "file": "missing/L/170937-legends-of-snooker-one-shot.json"
+    },
+    {
       "igdb_id": 34532,
       "game_name": "Legends of Solitaire: Curse of the Dragons",
       "file": "missing/L/34532-legends-of-solitaire-curse-of-the-dragons.json"
@@ -213001,6 +213096,11 @@
       "igdb_id": 110325,
       "game_name": "Lola and the Giant",
       "file": "missing/L/110325-lola-and-the-giant.json"
+    },
+    {
+      "igdb_id": 170930,
+      "game_name": "Lola: The Escape",
+      "file": "missing/L/170930-lola-the-escape.json"
     },
     {
       "igdb_id": 292291,
@@ -220236,6 +220336,11 @@
       "igdb_id": 37743,
       "game_name": "Mahjong Sengoku Monogatari",
       "file": "missing/M/37743-mahjong-sengoku-monogatari.json"
+    },
+    {
+      "igdb_id": 170928,
+      "game_name": "Mahjong Solitaire Refresh: Ex Panels",
+      "file": "missing/M/170928-mahjong-solitaire-refresh-ex-panels.json"
     },
     {
       "igdb_id": 66091,
@@ -235983,6 +236088,11 @@
       "file": "missing/M/176423-minions-of-elden.json"
     },
     {
+      "igdb_id": 170924,
+      "game_name": "Minions of Elden Online",
+      "file": "missing/M/170924-minions-of-elden-online.json"
+    },
+    {
       "igdb_id": 52583,
       "game_name": "MiniSquadron",
       "file": "missing/M/52583-minisquadron.json"
@@ -239663,6 +239773,16 @@
       "file": "missing/M/199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json"
     },
     {
+      "igdb_id": 170941,
+      "game_name": "Monster Energy Supercross: The Official Videogame - Compound",
+      "file": "missing/M/170941-monster-energy-supercross-the-official-videogame-compound.json"
+    },
+    {
+      "igdb_id": 170946,
+      "game_name": "Monster Energy Supercross: The Official Videogame - Monster Energy Cup",
+      "file": "missing/M/170946-monster-energy-supercross-the-official-videogame-monster-energy-cup.json"
+    },
+    {
       "igdb_id": 111041,
       "game_name": "Monster Energy Supercross: The Official Videogame 2",
       "file": "missing/M/111041-monster-energy-supercross-the-official-videogame-2.json"
@@ -239681,6 +239801,26 @@
       "igdb_id": 154460,
       "game_name": "Monster Energy Supercross: The Official Videogame 2 - The Playground",
       "file": "missing/M/154460-monster-energy-supercross-the-official-videogame-2-the-playground.json"
+    },
+    {
+      "igdb_id": 170944,
+      "game_name": "Monster Energy Supercross: The Official Videogame 3 - Great Legends",
+      "file": "missing/M/170944-monster-energy-supercross-the-official-videogame-3-great-legends.json"
+    },
+    {
+      "igdb_id": 170945,
+      "game_name": "Monster Energy Supercross: The Official Videogame 3 - Monster Energy Cup",
+      "file": "missing/M/170945-monster-energy-supercross-the-official-videogame-3-monster-energy-cup.json"
+    },
+    {
+      "igdb_id": 170942,
+      "game_name": "Monster Energy Supercross: The Official Videogame 4 - 2Stroke Bikes Pack (125)",
+      "file": "missing/M/170942-monster-energy-supercross-the-official-videogame-4-2stroke-bikes-pack-125.json"
+    },
+    {
+      "igdb_id": 170943,
+      "game_name": "Monster Energy Supercross: The Official Videogame 4 - Historical Monster Energy Cup 2011",
+      "file": "missing/M/170943-monster-energy-supercross-the-official-videogame-4-historical-monster-energy-cup-2011.json"
     },
     {
       "igdb_id": 218156,
@@ -246788,6 +246928,11 @@
       "file": "missing/M/339105-my-journey.json"
     },
     {
+      "igdb_id": 170932,
+      "game_name": "My Journey to Your World",
+      "file": "missing/M/170932-my-journey-to-your-world.json"
+    },
+    {
       "igdb_id": 137037,
       "game_name": "My Kingdom For the Princess",
       "file": "missing/M/137037-my-kingdom-for-the-princess.json"
@@ -248746,6 +248891,21 @@
       "igdb_id": 341354,
       "game_name": "Mystic Tower Legends",
       "file": "missing/M/341354-mystic-tower-legends.json"
+    },
+    {
+      "igdb_id": 170956,
+      "game_name": "Mystic Vale: Mana Storm",
+      "file": "missing/M/170956-mystic-vale-mana-storm.json"
+    },
+    {
+      "igdb_id": 170955,
+      "game_name": "Mystic Vale: Vale of Magic",
+      "file": "missing/M/170955-mystic-vale-vale-of-magic.json"
+    },
+    {
+      "igdb_id": 170957,
+      "game_name": "Mystic Vale: Vale of the Wild",
+      "file": "missing/M/170957-mystic-vale-vale-of-the-wild.json"
     },
     {
       "igdb_id": 272564,
@@ -251201,6 +251361,11 @@
       "igdb_id": 239884,
       "game_name": "NBA Now 23",
       "file": "missing/N/239884-nba-now-23.json"
+    },
+    {
+      "igdb_id": 170913,
+      "game_name": "NBA Playgrounds: Hot 'N Frosty",
+      "file": "missing/N/170913-nba-playgrounds-hot-n-frosty.json"
     },
     {
       "igdb_id": 49902,
@@ -265216,6 +265381,41 @@
       "igdb_id": 223998,
       "game_name": "Only Girl in High School",
       "file": "missing/O/223998-only-girl-in-high-school.json"
+    },
+    {
+      "igdb_id": 170917,
+      "game_name": "Only Hope: Episode 1",
+      "file": "missing/O/170917-only-hope-episode-1.json"
+    },
+    {
+      "igdb_id": 170919,
+      "game_name": "Only Hope: Episode 2",
+      "file": "missing/O/170919-only-hope-episode-2.json"
+    },
+    {
+      "igdb_id": 170921,
+      "game_name": "Only Hope: Episode 3",
+      "file": "missing/O/170921-only-hope-episode-3.json"
+    },
+    {
+      "igdb_id": 170916,
+      "game_name": "Only Hope: Episode 4",
+      "file": "missing/O/170916-only-hope-episode-4.json"
+    },
+    {
+      "igdb_id": 170920,
+      "game_name": "Only Hope: Episode 5",
+      "file": "missing/O/170920-only-hope-episode-5.json"
+    },
+    {
+      "igdb_id": 170922,
+      "game_name": "Only Hope: Episode 6",
+      "file": "missing/O/170922-only-hope-episode-6.json"
+    },
+    {
+      "igdb_id": 170918,
+      "game_name": "Only Hope: Episode 7",
+      "file": "missing/O/170918-only-hope-episode-7.json"
     },
     {
       "igdb_id": 413644,
@@ -298493,6 +298693,11 @@
       "file": "missing/R/29757-radioactive.json"
     },
     {
+      "igdb_id": 170912,
+      "game_name": "Radiolight",
+      "file": "missing/R/170912-radiolight.json"
+    },
+    {
       "igdb_id": 193461,
       "game_name": "Radiometric Dating",
       "file": "missing/R/193461-radiometric-dating.json"
@@ -307086,6 +307291,11 @@
       "igdb_id": 26728,
       "game_name": "Revhead",
       "file": "missing/R/26728-revhead.json"
+    },
+    {
+      "igdb_id": 170958,
+      "game_name": "Revhead: Turbo",
+      "file": "missing/R/170958-revhead-turbo.json"
     },
     {
       "igdb_id": 97233,
@@ -324998,6 +325208,11 @@
       "file": "missing/S/13180-serious-sam-hd-the-first-encounter.json"
     },
     {
+      "igdb_id": 170923,
+      "game_name": "Serious Sam HD: The Second Encounter - Legend of the Beast",
+      "file": "missing/S/170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json"
+    },
+    {
       "igdb_id": 787,
       "game_name": "Serious Sam II",
       "file": "missing/S/787-serious-sam-ii.json"
@@ -332376,6 +332591,16 @@
       "igdb_id": 32702,
       "game_name": "Simian.Interface",
       "file": "missing/S/32702-simian-interface.json"
+    },
+    {
+      "igdb_id": 170927,
+      "game_name": "Similo: History",
+      "file": "missing/S/170927-similo-history.json"
+    },
+    {
+      "igdb_id": 170926,
+      "game_name": "Similo: Spookies",
+      "file": "missing/S/170926-similo-spookies.json"
     },
     {
       "igdb_id": 12768,
@@ -410138,6 +410363,11 @@
       "file": "missing/T/40259-tough-turf.json"
     },
     {
+      "igdb_id": 170959,
+      "game_name": "Touhou Blooming Chaos 2: Chara Pack 3",
+      "file": "missing/T/170959-touhou-blooming-chaos-2-chara-pack-3.json"
+    },
+    {
       "igdb_id": 111052,
       "game_name": "Touhou Cannonball",
       "file": "missing/T/111052-touhou-cannonball.json"
@@ -426343,6 +426573,11 @@
       "file": "missing/V/9433-vanguard-princess.json"
     },
     {
+      "igdb_id": 170929,
+      "game_name": "Vanguard Princess: Hilda Rize",
+      "file": "missing/V/170929-vanguard-princess-hilda-rize.json"
+    },
+    {
       "igdb_id": 405596,
       "game_name": "Vanguard Tides",
       "file": "missing/V/405596-vanguard-tides.json"
@@ -430031,6 +430266,16 @@
       "igdb_id": 282024,
       "game_name": "Voids Vigil",
       "file": "missing/V/282024-voids-vigil.json"
+    },
+    {
+      "igdb_id": 170939,
+      "game_name": "Voidwalkers: Astora's Darkness",
+      "file": "missing/V/170939-voidwalkers-astoras-darkness.json"
+    },
+    {
+      "igdb_id": 170931,
+      "game_name": "Voidwalkers: Soul Hunters",
+      "file": "missing/V/170931-voidwalkers-soul-hunters.json"
     },
     {
       "igdb_id": 205036,
@@ -435716,6 +435961,11 @@
       "igdb_id": 55088,
       "game_name": "WEC Le Mans 24",
       "file": "missing/W/55088-wec-le-mans-24.json"
+    },
+    {
+      "igdb_id": 170911,
+      "game_name": "Wedding",
+      "file": "missing/W/170911-wedding.json"
     },
     {
       "igdb_id": 16074,
