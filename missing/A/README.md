@@ -3559,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow Tourney | 127924 | [127924-arrow-tourney.json](./127924-arrow-tourney.json) |
 | Arrow Ventura VR | 132853 | [132853-arrow-ventura-vr.json](./132853-arrow-ventura-vr.json) |
 | Arrow War | 248104 | [248104-arrow-war.json](./248104-arrow-war.json) |
+| ArrowBall | 172599 | [172599-arrowball.json](./172599-arrowball.json) |
 | Arrowman | 389463 | [389463-arrowman.json](./389463-arrowman.json) |
 | Arrowmania | 284355 | [284355-arrowmania.json](./284355-arrowmania.json) |
 | ArrowMongers | 240808 | [240808-arrowmongers.json](./240808-arrowmongers.json) |
@@ -4056,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Miner: Cave Adventure | 294857 | [294857-astro-miner-cave-adventure.json](./294857-astro-miner-cave-adventure.json) |
 | Astro Mission: Moon | 192811 | [192811-astro-mission-moon.json](./192811-astro-mission-moon.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
+| Astro Race | 172593 | [172593-astro-race.json](./172593-astro-race.json) |
 | Astro Warrior | 37176 | [37176-astro-warrior.json](./37176-astro-warrior.json) |
 | Astro Warrior/Pit Pot | 93584 | [93584-astro-warrior-pit-pot.json](./93584-astro-warrior-pit-pot.json) |
 | Astro Wars | 47284 | [47284-astro-wars.json](./47284-astro-wars.json) |
