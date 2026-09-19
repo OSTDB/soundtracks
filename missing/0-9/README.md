@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | //Todo: today | 112283 | [112283-todo-today.json](./112283-todo-today.json) |
 | & in the War I Find You | 178584 | [178584-and-in-the-war-i-find-you.json](./178584-and-in-the-war-i-find-you.json) |
 | #1 Pastime Bundle | 192408 | [192408-1-pastime-bundle.json](./192408-1-pastime-bundle.json) |
+| #AkiRobots | 141023 | [141023-akirobots.json](./141023-akirobots.json) |
 | #Blud | 117500 | [117500-blud.json](./117500-blud.json) |
 | #Drive | 147262 | [147262-drive.json](./147262-drive.json) |
 | #Halloween, Super Puzzles Dream | 147438 | [147438-halloween-super-puzzles-dream.json](./147438-halloween-super-puzzles-dream.json) |
