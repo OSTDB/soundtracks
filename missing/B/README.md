@@ -1673,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 32 Pinky Crush | 310590 | [310590-beatmania-iidx-32-pinky-crush.json](./310590-beatmania-iidx-32-pinky-crush.json) |
 | Beatmania IIDX 33 Sparkle Shower | 367970 | [367970-beatmania-iidx-33-sparkle-shower.json](./367970-beatmania-iidx-33-sparkle-shower.json) |
 | Beatmania III The Final | 61022 | [61022-beatmania-iii-the-final.json](./61022-beatmania-iii-the-final.json) |
+| Beatmania The Final | 135672 | [135672-beatmania-the-final.json](./135672-beatmania-the-final.json) |
 | BeatMotor | 192841 | [192841-beatmotor.json](./192841-beatmotor.json) |
 | BeatRider | 305789 | [305789-beatrider.json](./305789-beatrider.json) |
 | Beats Fever | 30173 | [30173-beats-fever.json](./30173-beats-fever.json) |
@@ -3868,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom! Boom! | 115691 | [115691-boom-boom.json](./115691-boom-boom.json) |
 | Boom! Tanks | 62778 | [62778-boom-tanks.json](./62778-boom-tanks.json) |
 | Boom! VR | 158069 | [158069-boom-vr.json](./158069-boom-vr.json) |
+| BoomBang | 135676 | [135676-boombang.json](./135676-boombang.json) |
 | Boomblastica | 65520 | [65520-boomblastica.json](./65520-boomblastica.json) |
 | BoomBox | 143046 | [143046-boombox.json](./143046-boombox.json) |
 | Boomby | 179147 | [179147-boomby.json](./179147-boomby.json) |
@@ -4283,6 +4285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Urge | 278556 | [278556-brain-urge.json](./278556-brain-urge.json) |
 | Brain Vomits Garden | 203897 | [203897-brain-vomits-garden.json](./203897-brain-vomits-garden.json) |
 | Brain Wars | 83580 | [83580-brain-wars.json](./83580-brain-wars.json) |
+| Brain You Later | 135677 | [135677-brain-you-later.json](./135677-brain-you-later.json) |
 | BrainBread | 138773 | [138773-brainbread.json](./138773-brainbread.json) |
 | brainCloud Bombers | 120400 | [120400-braincloud-bombers.json](./120400-braincloud-bombers.json) |
 | BrainRot | 336518 | [336518-brainrot.json](./336518-brainrot.json) |
@@ -4646,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brisk Square | 151178 | [151178-brisk-square.json](./151178-brisk-square.json) |
 | Bristle and the Artificial Invasion | 316102 | [316102-bristle-and-the-artificial-invasion.json](./316102-bristle-and-the-artificial-invasion.json) |
 | Bristles | 23863 | [23863-bristles.json](./23863-bristles.json) |
+| Britannic: Patroness of the Mediterranean | 135665 | [135665-britannic-patroness-of-the-mediterranean.json](./135665-britannic-patroness-of-the-mediterranean.json) |
 | Britebot | 178651 | [178651-britebot.json](./178651-britebot.json) |
 | British Voter Quiz | 366245 | [366245-british-voter-quiz.json](./366245-british-voter-quiz.json) |
 | Brittle | 278684 | [278684-brittle.json](./278684-brittle.json) |
