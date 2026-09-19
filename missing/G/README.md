@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomscape | 253396 | [253396-gloomscape.json](./253396-gloomscape.json) |
 | Gloomsday | 285459 | [285459-gloomsday.json](./285459-gloomsday.json) |
 | Gloomy Island | 278133 | [278133-gloomy-island.json](./278133-gloomy-island.json) |
+| Gloomy Toons | 140995 | [140995-gloomy-toons.json](./140995-gloomy-toons.json) |
 | Gloop | 236955 | [236955-gloop.json](./236955-gloop.json) |
 | Glorg | 286653 | [286653-glorg.json](./286653-glorg.json) |
 | Glorgorian Weather Initiative | 393509 | [393509-glorgorian-weather-initiative.json](./393509-glorgorian-weather-initiative.json) |
@@ -1519,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Hell Go: Tsukiotoshiteko | 268002 | [268002-go-hell-go-tsukiotoshiteko.json](./268002-go-hell-go-tsukiotoshiteko.json) |
 | Go Home | 210886 | [210886-go-home.json](./210886-go-home.json) |
 | Go Home 1986 | 392928 | [392928-go-home-1986.json](./392928-go-home-1986.json) |
+| Go Kart Challenge | 140986 | [140986-go-kart-challenge.json](./140986-go-kart-challenge.json) |
 | Go Kart Mania: Discovery Edition | 332509 | [332509-go-kart-mania-discovery-edition.json](./332509-go-kart-mania-discovery-edition.json) |
 | Go Kart Mania: Premium Edition | 317255 | [317255-go-kart-mania-premium-edition.json](./317255-go-kart-mania-premium-edition.json) |
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
@@ -2918,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars: Reforged | 380421 | [380421-guild-wars-reforged.json](./380421-guild-wars-reforged.json) |
 | GuildBound | 119791 | [119791-guildbound.json](./119791-guildbound.json) |
 | Guilded Hearts | 214037 | [214037-guilded-hearts.json](./214037-guilded-hearts.json) |
+| Guildmaster: Gratuitous Subtitle | 141021 | [141021-guildmaster-gratuitous-subtitle.json](./141021-guildmaster-gratuitous-subtitle.json) |
 | Guilds n Glory | 213001 | [213001-guilds-n-glory.json](./213001-guilds-n-glory.json) |
 | Guilds of Mountgate | 405523 | [405523-guilds-of-mountgate.json](./405523-guilds-of-mountgate.json) |
 | Guillermo Tell | 146307 | [146307-guillermo-tell.json](./146307-guillermo-tell.json) |
