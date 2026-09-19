@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oasis of Lilies | 412276 | [412276-oasis-of-lilies.json](./412276-oasis-of-lilies.json) |
 | Oasis VR | 140520 | [140520-oasis-vr.json](./140520-oasis-vr.json) |
 | Oath | 169955 | [169955-oath.json](./169955-oath.json) |
+| Oath of Miko | 171470 | [171470-oath-of-miko.json](./171470-oath-of-miko.json) |
 | Oath of peak | 231920 | [231920-oath-of-peak.json](./231920-oath-of-peak.json) |
 | Oatmeal | 159257 | [159257-oatmeal.json](./159257-oatmeal.json) |
 | Oba Doba | 238633 | [238633-oba-doba.json](./238633-oba-doba.json) |
