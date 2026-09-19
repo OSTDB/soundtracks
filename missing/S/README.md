@@ -2629,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShipLord | 19326 | [19326-shiplord.json](./19326-shiplord.json) |
 | ShipOS 1994 | 312191 | [312191-shipos-1994.json](./312191-shipos-1994.json) |
 | ShipRect | 212797 | [212797-shiprect.json](./212797-shiprect.json) |
+| Ships 2022 | 148897 | [148897-ships-2022.json](./148897-ships-2022.json) |
 | Ships 3D | 321755 | [321755-ships-3d.json](./321755-ships-3d.json) |
 | Ships of Battle Age of Pirates | 235296 | [235296-ships-of-battle-age-of-pirates.json](./235296-ships-of-battle-age-of-pirates.json) |
 | Ships Simulator | 229181 | [229181-ships-simulator.json](./229181-ships-simulator.json) |
@@ -7942,6 +7943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Strider | 34403 | [34403-steel-strider.json](./34403-steel-strider.json) |
 | Steel Sword Story | 112949 | [112949-steel-sword-story.json](./112949-steel-sword-story.json) |
 | Steel Sword Story S | 151560 | [151560-steel-sword-story-s.json](./151560-steel-sword-story-s.json) |
+| Steel Team: Academy | 148933 | [148933-steel-team-academy.json](./148933-steel-team-academy.json) |
 | Steel Thunder | 244476 | [244476-steel-thunder.json](./244476-steel-thunder.json) |
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
 | Steel Wool Studios Bundle | 240350 | [240350-steel-wool-studios-bundle.json](./240350-steel-wool-studios-bundle.json) |
@@ -8675,6 +8677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strontium Dog: The Killing | 38924 | [38924-strontium-dog-the-killing.json](./38924-strontium-dog-the-killing.json) |
 | Structura | 150504 | [150504-structura.json](./150504-structura.json) |
 | Structus | 192324 | [192324-structus.json](./192324-structus.json) |
+| Struggle For Talyria | 148920 | [148920-struggle-for-talyria.json](./148920-struggle-for-talyria.json) |
 | Struggle for the Iliac Bay | 356168 | [356168-struggle-for-the-iliac-bay.json](./356168-struggle-for-the-iliac-bay.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
 | Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
@@ -10413,6 +10416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Mars: Marsvision Song Contest | 154933 | [154933-surviving-mars-marsvision-song-contest.json](./154933-surviving-mars-marsvision-song-contest.json) |
 | Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
 | Surviving Skeleton Island | 262968 | [262968-surviving-skeleton-island.json](./262968-surviving-skeleton-island.json) |
+| Surviving Space | 148916 | [148916-surviving-space.json](./148916-surviving-space.json) |
 | Surviving the Aftermath: Day One Edition | 143041 | [143041-surviving-the-aftermath-day-one-edition.json](./143041-surviving-the-aftermath-day-one-edition.json) |
 | Surviving the Aftermath: New Alliances | 203382 | [203382-surviving-the-aftermath-new-alliances.json](./203382-surviving-the-aftermath-new-alliances.json) |
 | Surviving the Aftermath: Rebirth | 240901 | [240901-surviving-the-aftermath-rebirth.json](./240901-surviving-the-aftermath-rebirth.json) |
@@ -10955,6 +10959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Purge | 182381 | [182381-system-purge.json](./182381-system-purge.json) |
 | System Reject | 321959 | [321959-system-reject.json](./321959-system-reject.json) |
 | System Shock: Rewired | 353370 | [353370-system-shock-rewired.json](./353370-system-shock-rewired.json) |
+| System Zero | 148896 | [148896-system-zero.json](./148896-system-zero.json) |
 | System32 | 167763 | [167763-system32.json](./167763-system32.json) |
 | SystemCrash92 | 249505 | [249505-systemcrash92.json](./249505-systemcrash92.json) |
 | Syunsoku Mezase! Zenkoku Saikyou Runner | 222512 | [222512-syunsoku-mezase-zenkoku-saikyou-runner.json](./222512-syunsoku-mezase-zenkoku-saikyou-runner.json) |
