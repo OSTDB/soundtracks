@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Can Make It | 216485 | [216485-we-can-make-it.json](./216485-we-can-make-it.json) |
 | We Cheer | 5263 | [5263-we-cheer.json](./5263-we-cheer.json) |
 | We Dance | 20580 | [20580-we-dance.json](./20580-we-dance.json) |
+| We Die | 169849 | [169849-we-die.json](./169849-we-die.json) |
 | We don't die here | 212281 | [212281-we-dont-die-here.json](./212281-we-dont-die-here.json) |
 | We Dream Standing Up | 228097 | [228097-we-dream-standing-up.json](./228097-we-dream-standing-up.json) |
 | We Got Another Year | 177918 | [177918-we-got-another-year.json](./177918-we-got-another-year.json) |
