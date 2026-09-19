@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
 | Save Daddy Trump 4: Maga 2024 | 301832 | [301832-save-daddy-trump-4-maga-2024.json](./301832-save-daddy-trump-4-maga-2024.json) |
 | Save Data | 153366 | [153366-save-data.json](./153366-save-data.json) |
+| Save Farty: The Trivia Game | 142838 | [142838-save-farty-the-trivia-game.json](./142838-save-farty-the-trivia-game.json) |
 | Save HomeWorld | 110370 | [110370-save-homeworld.json](./110370-save-homeworld.json) |
 | Save Humanity.exe | 405534 | [405534-save-humanity-exe.json](./405534-save-humanity-exe.json) |
 | Save Me Cows | 392160 | [392160-save-me-cows.json](./392160-save-me-cows.json) |
@@ -2381,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheepherds! | 334710 | [334710-sheepherds.json](./334710-sheepherds.json) |
 | Sheepland | 175269 | [175269-sheepland.json](./175269-sheepland.json) |
 | Sheeplings | 203522 | [203522-sheeplings.json](./203522-sheeplings.json) |
+| Sheer Poison | 142884 | [142884-sheer-poison.json](./142884-sheer-poison.json) |
 | Shei Toule Wo de Nu Pengyou | 322344 | [322344-shei-toule-wo-de-nu-pengyou.json](./322344-shei-toule-wo-de-nu-pengyou.json) |
 | Shelf | 278694 | [278694-shelf.json](./278694-shelf.json) |
 | Shell Corp | 129748 | [129748-shell-corp.json](./129748-shell-corp.json) |
@@ -4297,6 +4299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Karts | 130348 | [130348-smash-karts.json](./130348-smash-karts.json) |
 | Smash Land | 145571 | [145571-smash-land.json](./145571-smash-land.json) |
 | Smash MAGA! Trump Zombie Apocalypse | 168336 | [168336-smash-maga-trump-zombie-apocalypse.json](./168336-smash-maga-trump-zombie-apocalypse.json) |
+| Smash Monkeys | 142850 | [142850-smash-monkeys.json](./142850-smash-monkeys.json) |
 | Smash N' Crash | 367455 | [367455-smash-n-crash.json](./367455-smash-n-crash.json) |
 | Smash Pixel Racing | 33154 | [33154-smash-pixel-racing.json](./33154-smash-pixel-racing.json) |
 | Smash Realm | 402941 | [402941-smash-realm.json](./402941-smash-realm.json) |
@@ -5844,6 +5847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space BloX | 119042 | [119042-space-blox.json](./119042-space-blox.json) |
 | Space Bomb | 120417 | [120417-space-bomb.json](./120417-space-bomb.json) |
 | Space Box Battle Arena | 164968 | [164968-space-box-battle-arena.json](./164968-space-box-battle-arena.json) |
+| Space Break | 142853 | [142853-space-break.json](./142853-space-break.json) |
 | Space Break 2 Head to Head | 214059 | [214059-space-break-2-head-to-head.json](./214059-space-break-2-head-to-head.json) |
 | Space Bross | 348832 | [348832-space-bross.json](./348832-space-bross.json) |
 | Space Bubble Cat | 145476 | [145476-space-bubble-cat.json](./145476-space-bubble-cat.json) |
