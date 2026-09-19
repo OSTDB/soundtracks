@@ -1021,6 +1021,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartful Memories: Little Witch Parfait 2 | 332419 | [332419-heartful-memories-little-witch-parfait-2.json](./332419-heartful-memories-little-witch-parfait-2.json) |
 | Hearth's Light: Potion Shop | 239669 | [239669-hearths-light-potion-shop.json](./239669-hearths-light-potion-shop.json) |
 | Hearthguard | 356677 | [356677-hearthguard.json](./356677-hearthguard.json) |
+| Hearthstone: Ashes of Outland - Trial by Felfire | 135707 | [135707-hearthstone-ashes-of-outland-trial-by-felfire.json](./135707-hearthstone-ashes-of-outland-trial-by-felfire.json) |
+| Hearthstone: Descent of Dragons - Galakrond's Awakening | 135706 | [135706-hearthstone-descent-of-dragons-galakronds-awakening.json](./135706-hearthstone-descent-of-dragons-galakronds-awakening.json) |
 | Hearthstone: Forged in the Barrens | 143738 | [143738-hearthstone-forged-in-the-barrens.json](./143738-hearthstone-forged-in-the-barrens.json) |
 | Hearthstone: Fractured in Alterac Valley | 387383 | [387383-hearthstone-fractured-in-alterac-valley.json](./387383-hearthstone-fractured-in-alterac-valley.json) |
 | Hearthstone: Knights of the Frozen Throne | 52016 | [52016-hearthstone-knights-of-the-frozen-throne.json](./52016-hearthstone-knights-of-the-frozen-throne.json) |
