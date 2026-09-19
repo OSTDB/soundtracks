@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.G.I.-2: Covert Strike | 8559 | [8559-i-g-i-2-covert-strike.json](./8559-i-g-i-2-covert-strike.json) |
 | I.H.A.S | 224773 | [224773-i-h-a-s.json](./224773-i-h-a-s.json) |
 | I.M. Meen | 84281 | [84281-i-m-meen.json](./84281-i-m-meen.json) |
+| I.O.R.C Impact Orbital Rescue Crew | 152773 | [152773-i-o-r-c-impact-orbital-rescue-crew.json](./152773-i-o-r-c-impact-orbital-rescue-crew.json) |
 | I.Q Intelligent Qube | 215363 | [215363-i-q-intelligent-qube.json](./215363-i-q-intelligent-qube.json) |
 | I.Rule | 208402 | [208402-i-rule.json](./208402-i-rule.json) |
 | I'd Kill You as a Worm | 331682 | [331682-id-kill-you-as-a-worm.json](./331682-id-kill-you-as-a-worm.json) |
