@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z0mb1es on teh ph0ne | 77995 | [77995-z0mb1es-on-teh-ph0ne.json](./77995-z0mb1es-on-teh-ph0ne.json) |
 | Z69 | 51959 | [51959-z69.json](./51959-z69.json) |
 | Zaacar | 169377 | [169377-zaacar.json](./169377-zaacar.json) |
+| ZaaLord | 136236 | [136236-zaalord.json](./136236-zaalord.json) |
 | ZaBaTa! | 235496 | [235496-zabata.json](./235496-zabata.json) |
 | Zabugorie: The Fairy Planet | 57638 | [57638-zabugorie-the-fairy-planet.json](./57638-zabugorie-the-fairy-planet.json) |
 | Zac's Batting Academy | 234595 | [234595-zacs-batting-academy.json](./234595-zacs-batting-academy.json) |
