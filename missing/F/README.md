@@ -2751,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Frontier | 291221 | [291221-fools-frontier.json](./291221-fools-frontier.json) |
 | Fool's Gold | 244903 | [244903-fools-gold.json](./244903-fools-gold.json) |
 | Fool's Gold | 381029 | [381029-fools-gold.json](./381029-fools-gold.json) |
+| Fool's Paradise | 149410 | [149410-fools-paradise.json](./149410-fools-paradise.json) |
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
 | Foolish Mortals | 217011 | [217011-foolish-mortals.json](./217011-foolish-mortals.json) |
 | Foonda | 196172 | [196172-foonda.json](./196172-foonda.json) |
