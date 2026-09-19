@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Seign | 332519 | [332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json](./332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json) |
 | Eizo Play: Megumi | 69857 | [69857-eizo-play-megumi.json](./69857-eizo-play-megumi.json) |
 | Eject Bombin' | 182923 | [182923-eject-bombin.json](./182923-eject-bombin.json) |
+| Eklips | 174180 | [174180-eklips.json](./174180-eklips.json) |
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
 | Eko Eko Azarak: Wizard of Darkness | 376543 | [376543-eko-eko-azarak-wizard-of-darkness.json](./376543-eko-eko-azarak-wizard-of-darkness.json) |
 | Ekoh Beach | 189109 | [189109-ekoh-beach.json](./189109-ekoh-beach.json) |
@@ -1223,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy graze | 378919 | [378919-entropy-graze.json](./378919-entropy-graze.json) |
 | Entropy: Zero | 127887 | [127887-entropy-zero.json](./127887-entropy-zero.json) |
 | Entropy: Zero 2 | 188671 | [188671-entropy-zero-2.json](./188671-entropy-zero-2.json) |
+| Entwined Challenge | 174226 | [174226-entwined-challenge.json](./174226-entwined-challenge.json) |
 | EnvironmentZ | 374724 | [374724-environmentz.json](./374724-environmentz.json) |
 | Envoy of Nezphere | 105309 | [105309-envoy-of-nezphere.json](./105309-envoy-of-nezphere.json) |
 | Envy the Dead | 33227 | [33227-envy-the-dead.json](./33227-envy-the-dead.json) |
