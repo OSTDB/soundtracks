@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net Defender | 266476 | [266476-net-defender.json](./266476-net-defender.json) |
 | Net Enjou Jikenbo: Moete Moeru SNS Idol Tenraku Illustration Quiz Game | 225898 | [225898-net-enjou-jikenbo-moete-moeru-sns-idol-tenraku-illustration-quiz-game.json](./225898-net-enjou-jikenbo-moete-moeru-sns-idol-tenraku-illustration-quiz-game.json) |
 | Net Gin Rummy | 93047 | [93047-net-gin-rummy.json](./93047-net-gin-rummy.json) |
+| Net King's Call | 143514 | [143514-net-kings-call.json](./143514-net-kings-call.json) |
 | Net Pet | 293205 | [293205-net-pet.json](./293205-net-pet.json) |
 | Net Worthless | 410971 | [410971-net-worthless.json](./410971-net-worthless.json) |
 | Net-tac-toe | 276723 | [276723-net-tac-toe.json](./276723-net-tac-toe.json) |
@@ -2085,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Alone | 184094 | [184094-not-alone.json](./184094-not-alone.json) |
 | Not Alone | 223040 | [223040-not-alone.json](./223040-not-alone.json) |
 | Not an Aim Trainer | 305776 | [305776-not-an-aim-trainer.json](./305776-not-an-aim-trainer.json) |
+| Not Dead Yet | 143500 | [143500-not-dead-yet.json](./143500-not-dead-yet.json) |
 | Not Enough Time | 322943 | [322943-not-enough-time.json](./322943-not-enough-time.json) |
 | Not Everything is Flammable | 223675 | [223675-not-everything-is-flammable.json](./223675-not-everything-is-flammable.json) |
 | Not Evil Sudoku | 297219 | [297219-not-evil-sudoku.json](./297219-not-evil-sudoku.json) |
