@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperial Hero | 58747 | [58747-imperial-hero.json](./58747-imperial-hero.json) |
 | Imperial Island 5: Ski Resort | 294858 | [294858-imperial-island-5-ski-resort.json](./294858-imperial-island-5-ski-resort.json) |
 | Imperial Saga: Eclipse | 265624 | [265624-imperial-saga-eclipse.json](./265624-imperial-saga-eclipse.json) |
+| Imperial Settlers Roll & Write | 175292 | [175292-imperial-settlers-roll-and-write.json](./175292-imperial-settlers-roll-and-write.json) |
 | Imperial Storm | 249218 | [249218-imperial-storm.json](./249218-imperial-storm.json) |
 | Imperialism: Concert of Europe | 287229 | [287229-imperialism-concert-of-europe.json](./287229-imperialism-concert-of-europe.json) |
 | Imperialism: The Dark Continent | 97113 | [97113-imperialism-the-dark-continent.json](./97113-imperialism-the-dark-continent.json) |
@@ -1181,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inflorescences | 249217 | [249217-inflorescences.json](./249217-inflorescences.json) |
 | Influence | 210032 | [210032-influence.json](./210032-influence.json) |
 | Influenced | 179675 | [179675-influenced.json](./179675-influenced.json) |
+| Infocus: Extreme Bike | 175294 | [175294-infocus-extreme-bike.json](./175294-infocus-extreme-bike.json) |
 | Infodroid | 28857 | [28857-infodroid.json](./28857-infodroid.json) |
 | Infogrind | 401000 | [401000-infogrind.json](./401000-infogrind.json) |
 | Informaticus | 343876 | [343876-informaticus.json](./343876-informaticus.json) |
@@ -1652,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ippan Zaidan Houjin: Nippon Kanji Shuujukudo Kentei Kikou Kounen - Kanjukuken DS | 269585 | [269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json](./269585-ippan-zaidan-houjin-nippon-kanji-shuujukudo-kentei-kikou-kounen-kanjukuken-ds.json) |
 | IPS 13: All Signals Lost | 369012 | [369012-ips-13-all-signals-lost.json](./369012-ips-13-all-signals-lost.json) |
 | Ipuppet Presents: Colin's Classic Cards | 210022 | [210022-ipuppet-presents-colins-classic-cards.json](./210022-ipuppet-presents-colins-classic-cards.json) |
+| IPuppy World | 175290 | [175290-ipuppy-world.json](./175290-ipuppy-world.json) |
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
 | Ir/rational Investigator | 110316 | [110316-ir-rational-investigator.json](./110316-ir-rational-investigator.json) |
@@ -1807,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ishin no Arashi: Bakumatsu Shishi-den | 186737 | [186737-ishin-no-arashi-bakumatsu-shishi-den.json](./186737-ishin-no-arashi-bakumatsu-shishi-den.json) |
 | Ishin no Arashi: Shippuu Ryoma-den | 186738 | [186738-ishin-no-arashi-shippuu-ryoma-den.json](./186738-ishin-no-arashi-shippuu-ryoma-den.json) |
 | Ishu Saikyou-ou Zukan: Battle Colosseum | 225897 | [225897-ishu-saikyou-ou-zukan-battle-colosseum.json](./225897-ishu-saikyou-ou-zukan-battle-colosseum.json) |
+| IShuffle Bowling | 175298 | [175298-ishuffle-bowling.json](./175298-ishuffle-bowling.json) |
 | Isida | 382755 | [382755-isida.json](./382755-isida.json) |
 | Isis: The Fall | 255100 | [255100-isis-the-fall.json](./255100-isis-the-fall.json) |
 | Isla de la Muerte | 399734 | [399734-isla-de-la-muerte.json](./399734-isla-de-la-muerte.json) |
