@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachinko Hisshouhou! 2 | 42646 | [42646-jissen-pachinko-hisshouhou-2.json](./42646-jissen-pachinko-hisshouhou-2.json) |
 | Jissen Pachinko Hisshouhou! CR Sakura Taisen | 62126 | [62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json](./62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json) |
 | Jitaku Keibin | 316645 | [316645-jitaku-keibin.json](./316645-jitaku-keibin.json) |
+| Jitsu Squad | 145440 | [145440-jitsu-squad.json](./145440-jitsu-squad.json) |
 | Jitsuryoku!! Pro Yakyuu | 40211 | [40211-jitsuryoku-pro-yakyuu.json](./40211-jitsuryoku-pro-yakyuu.json) |
 | Jitsuwa Kaidan: Shinmimi Bokuro - Ichi no Shou | 59370 | [59370-jitsuwa-kaidan-shinmimi-bokuro-ichi-no-shou.json](./59370-jitsuwa-kaidan-shinmimi-bokuro-ichi-no-shou.json) |
 | Jītuì Guàishòu | 114957 | [114957-jitui-guaishou.json](./114957-jitui-guaishou.json) |
@@ -1068,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junk Race | 246988 | [246988-junk-race.json](./246988-junk-race.json) |
 | Junk Runner 64 | 396416 | [396416-junk-runner-64.json](./396416-junk-runner-64.json) |
 | Junk Sec | 394901 | [394901-junk-sec.json](./394901-junk-sec.json) |
+| Junk Shop Telescope | 145475 | [145475-junk-shop-telescope.json](./145475-junk-shop-telescope.json) |
 | Junk Survivor | 246075 | [246075-junk-survivor.json](./246075-junk-survivor.json) |
 | Junkcity Factory Simulator | 326397 | [326397-junkcity-factory-simulator.json](./326397-junkcity-factory-simulator.json) |
 | Junklands | 284897 | [284897-junklands.json](./284897-junklands.json) |
