@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump King Quest | 259095 | [259095-jump-king-quest.json](./259095-jump-king-quest.json) |
 | Jump King: Ghost of the Babe | 386222 | [386222-jump-king-ghost-of-the-babe.json](./386222-jump-king-ghost-of-the-babe.json) |
 | Jump King: New Babe+ | 386223 | [386223-jump-king-new-babe.json](./386223-jump-king-new-babe.json) |
+| Jump Kingdom | 155998 | [155998-jump-kingdom.json](./155998-jump-kingdom.json) |
 | Jump Lanes | 187381 | [187381-jump-lanes.json](./187381-jump-lanes.json) |
 | Jump Like An Egyptian | 192978 | [192978-jump-like-an-egyptian.json](./192978-jump-like-an-egyptian.json) |
 | Jump Man | 332528 | [332528-jump-man.json](./332528-jump-man.json) |
