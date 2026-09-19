@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'll respond to that later | 183970 | [183970-ill-respond-to-that-later.json](./183970-ill-respond-to-that-later.json) |
 | I'm a cowboy: Western Shooter | 173226 | [173226-im-a-cowboy-western-shooter.json](./173226-im-a-cowboy-western-shooter.json) |
 | I'm a Grown Up!! Dreamy Sweetie The Devil Slayer | 301585 | [301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json](./301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json) |
+| I'm a King | 151557 | [151557-im-a-king.json](./151557-im-a-king.json) |
 | I’m a Love Interest in My Childhood Friend’s Halloween Story | 179674 | [179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json](./179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json) |
 | I’m a Wizard, But I Dig | 384526 | [384526-i-m-a-wizard-but-i-dig.json](./384526-i-m-a-wizard-but-i-dig.json) |
 | I'm Determined to Make 3A: 01/65 | 296934 | [296934-im-determined-to-make-3a-01-65.json](./296934-im-determined-to-make-3a-01-65.json) |
