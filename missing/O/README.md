@@ -1282,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orixo Hex | 232165 | [232165-orixo-hex.json](./232165-orixo-hex.json) |
 | Ork Manager: Coal & Top hats | 125400 | [125400-ork-manager-coal-and-top-hats.json](./125400-ork-manager-coal-and-top-hats.json) |
 | Orkicidium | 183516 | [183516-orkicidium.json](./183516-orkicidium.json) |
+| Orla Frøsnapper | 172596 | [172596-orla-fr-snapper.json](./172596-orla-fr-snapper.json) |
 | Orlando Theme Park VR | 292691 | [292691-orlando-theme-park-vr.json](./292691-orlando-theme-park-vr.json) |
 | Orly's Draw-A-Story | 60506 | [60506-orlys-draw-a-story.json](./60506-orlys-draw-a-story.json) |
 | Orna | 105733 | [105733-orna.json](./105733-orna.json) |
