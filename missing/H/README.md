@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Shooter | 222395 | [222395-halloween-shooter.json](./222395-halloween-shooter.json) |
 | Halloween Sinister Trivia | 274488 | [274488-halloween-sinister-trivia.json](./274488-halloween-sinister-trivia.json) |
 | Halloween Stories: Horror Movie | 187953 | [187953-halloween-stories-horror-movie.json](./187953-halloween-stories-horror-movie.json) |
+| Halloween Stories: Horror Movie - Collector's Edition | 173175 | [173175-halloween-stories-horror-movie-collectors-edition.json](./173175-halloween-stories-horror-movie-collectors-edition.json) |
 | Halloween Stories: Inspiration's Spark - Collector's Edition | 362849 | [362849-halloween-stories-inspirations-spark-collectors-edition.json](./362849-halloween-stories-inspirations-spark-collectors-edition.json) |
 | Halloween Stories: The Death Card | 416609 | [416609-halloween-stories-the-death-card.json](./416609-halloween-stories-the-death-card.json) |
 | Halloween Stories: The Neglected Dead | 187944 | [187944-halloween-stories-the-neglected-dead.json](./187944-halloween-stories-the-neglected-dead.json) |
@@ -1367,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellver | 129692 | [129692-hellver.json](./129692-hellver.json) |
 | Hellvivors | 217317 | [217317-hellvivors.json](./217317-hellvivors.json) |
 | Hellwomb | 150138 | [150138-hellwomb.json](./150138-hellwomb.json) |
+| Hellworld! | 173183 | [173183-hellworld.json](./173183-hellworld.json) |
 | HelmetRoyale.io | 125991 | [125991-helmetroyale-io.json](./125991-helmetroyale-io.json) |
 | Help | 30931 | [30931-help.json](./30931-help.json) |
 | Help Bipboop | 275330 | [275330-help-bipboop.json](./275330-help-bipboop.json) |
