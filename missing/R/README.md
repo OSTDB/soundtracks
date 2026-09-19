@@ -2247,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringling Bros. and Barnum & Bailey Circus | 67320 | [67320-ringling-bros-and-barnum-and-bailey-circus.json](./67320-ringling-bros-and-barnum-and-bailey-circus.json) |
 | Ringling Bros. and Barnum & Bailey: Circus Friends - Asian Elephants | 209163 | [209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json](./209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json) |
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
+| Rings | 179069 | [179069-rings.json](./179069-rings.json) |
 | Rings of Saturn | 108324 | [108324-rings-of-saturn.json](./108324-rings-of-saturn.json) |
 | Rings of Saturn: Deep Weeb | 231361 | [231361-rings-of-saturn-deep-weeb.json](./231361-rings-of-saturn-deep-weeb.json) |
 | Rings of Saturn: Tungsten Edition | 188093 | [188093-rings-of-saturn-tungsten-edition.json](./188093-rings-of-saturn-tungsten-edition.json) |
@@ -2514,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roam | 63893 | [63893-roam.json](./63893-roam.json) |
 | Roaming Backrooms | 265156 | [265156-roaming-backrooms.json](./265156-roaming-backrooms.json) |
 | Roaming through the Rivers | 214731 | [214731-roaming-through-the-rivers.json](./214731-roaming-through-the-rivers.json) |
+| Roar | 179078 | [179078-roar.json](./179078-roar.json) |
 | Roaring Streets! | 181293 | [181293-roaring-streets.json](./181293-roaring-streets.json) |
 | Roaring Twenties Solitaire | 213935 | [213935-roaring-twenties-solitaire.json](./213935-roaring-twenties-solitaire.json) |
 | Rob | 201674 | [201674-rob.json](./201674-rob.json) |
