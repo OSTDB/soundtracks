@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Assassin | 234160 | [234160-tactical-assassin.json](./234160-tactical-assassin.json) |
 | Tactical Assassin 2 | 280210 | [280210-tactical-assassin-2.json](./280210-tactical-assassin-2.json) |
 | Tactical Breach Wizards: Special Edition | 396407 | [396407-tactical-breach-wizards-special-edition.json](./396407-tactical-breach-wizards-special-edition.json) |
+| Tactical Chronicle | 96515 | [96515-tactical-chronicle.json](./96515-tactical-chronicle.json) |
 | Tactical Manager | 182375 | [182375-tactical-manager.json](./182375-tactical-manager.json) |
 | Tactical Manager 2 | 182351 | [182351-tactical-manager-2.json](./182351-tactical-manager-2.json) |
 | Tactical Manager 3 | 182377 | [182377-tactical-manager-3.json](./182377-tactical-manager-3.json) |
@@ -3216,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game That Was Stolen From Me at Indiecade2019 | 396233 | [396233-the-game-that-was-stolen-from-me-at-indiecade2019.json](./396233-the-game-that-was-stolen-from-me-at-indiecade2019.json) |
 | The Game We All Have to Play | 129011 | [129011-the-game-we-all-have-to-play.json](./129011-the-game-we-all-have-to-play.json) |
 | The Game: The Game | 393488 | [393488-the-game-the-game.json](./393488-the-game-the-game.json) |
+| The Games '92: España | 96508 | [96508-the-games-92-espana.json](./96508-the-games-92-espana.json) |
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
 | The Gap | 151120 | [151120-the-gap.json](./151120-the-gap.json) |
 | The Gap: Limited Edition | 292149 | [292149-the-gap-limited-edition.json](./292149-the-gap-limited-edition.json) |
@@ -4256,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Island | 329582 | [329582-the-lost-island.json](./329582-the-lost-island.json) |
 | The Lost Island | 34248 | [34248-the-lost-island.json](./34248-the-lost-island.json) |
 | The Lost Island of Alanna | 71496 | [71496-the-lost-island-of-alanna.json](./71496-the-lost-island-of-alanna.json) |
+| The Lost Kingdom | 96537 | [96537-the-lost-kingdom.json](./96537-the-lost-kingdom.json) |
 | The Lost Kingdom Prophecy | 200581 | [200581-the-lost-kingdom-prophecy.json](./200581-the-lost-kingdom-prophecy.json) |
 | The Lost Labyrinth | 166712 | [166712-the-lost-labyrinth.json](./166712-the-lost-labyrinth.json) |
 | The Lost Land of Bahía Blanca | 406792 | [406792-the-lost-land-of-bahia-blanca.json](./406792-the-lost-land-of-bahia-blanca.json) |
@@ -5877,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Typing of The Dead: Overkill Collection | 53787 | [53787-the-typing-of-the-dead-overkill-collection.json](./53787-the-typing-of-the-dead-overkill-collection.json) |
 | The Ugly Duckling | 206777 | [206777-the-ugly-duckling.json](./206777-the-ugly-duckling.json) |
 | The Ugly Ducling | 228078 | [228078-the-ugly-ducling.json](./228078-the-ugly-ducling.json) |
+| The Ultimate Adventure Games Pack Vol.1 | 96527 | [96527-the-ultimate-adventure-games-pack-vol-1.json](./96527-the-ultimate-adventure-games-pack-vol-1.json) |
 | The Ultimate Arena | 77357 | [77357-the-ultimate-arena.json](./77357-the-ultimate-arena.json) |
 | The Ultimate Doom: Knee-Deep in Zdoom | 196708 | [196708-the-ultimate-doom-knee-deep-in-zdoom.json](./196708-the-ultimate-doom-knee-deep-in-zdoom.json) |
 | The Ultimate FMV Bundle 2 | 213046 | [213046-the-ultimate-fmv-bundle-2.json](./213046-the-ultimate-fmv-bundle-2.json) |
@@ -8462,6 +8466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch My Spinner | 61618 | [61618-touch-my-spinner.json](./61618-touch-my-spinner.json) |
 | Touch Pets: Dogs | 67947 | [67947-touch-pets-dogs.json](./67947-touch-pets-dogs.json) |
 | Touch Point Tennis | 249248 | [249248-touch-point-tennis.json](./249248-touch-point-tennis.json) |
+| Touch Rummy HD | 96539 | [96539-touch-rummy-hd.json](./96539-touch-rummy-hd.json) |
 | Touch Selections | 57058 | [57058-touch-selections.json](./57058-touch-selections.json) |
 | Touch Some Grass | 195146 | [195146-touch-some-grass.json](./195146-touch-some-grass.json) |
 | Touch the Floor | 151155 | [151155-touch-the-floor.json](./151155-touch-the-floor.json) |
@@ -9904,6 +9909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trippy Jump | 101329 | [101329-trippy-jump.json](./101329-trippy-jump.json) |
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
 | Triptych | 93001 | [93001-triptych.json](./93001-triptych.json) |
+| Tristan | 96532 | [96532-tristan.json](./96532-tristan.json) |
 | Tristan: Curse of The Frog | 404964 | [404964-tristan-curse-of-the-frog.json](./404964-tristan-curse-of-the-frog.json) |
 | Tristia Doki-doki Operation | 408142 | [408142-tristia-doki-doki-operation.json](./408142-tristia-doki-doki-operation.json) |
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
@@ -9920,6 +9926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Replacement Questions | 87219 | [87219-trivia-replacement-questions.json](./87219-trivia-replacement-questions.json) |
 | Trivia Tricks | 140534 | [140534-trivia-tricks.json](./140534-trivia-tricks.json) |
 | Trivia Vault Olympics Trivia | 88201 | [88201-trivia-vault-olympics-trivia.json](./88201-trivia-vault-olympics-trivia.json) |
+| Trivia Vault: Celebrity Trivia | 96522 | [96522-trivia-vault-celebrity-trivia.json](./96522-trivia-vault-celebrity-trivia.json) |
 | Trivia Vault: Fashion Trivia | 101615 | [101615-trivia-vault-fashion-trivia.json](./101615-trivia-vault-fashion-trivia.json) |
 | Trivia Vault: Literature Trivia | 101626 | [101626-trivia-vault-literature-trivia.json](./101626-trivia-vault-literature-trivia.json) |
 | Trivia Vault: Movie Trivia | 99663 | [99663-trivia-vault-movie-trivia.json](./99663-trivia-vault-movie-trivia.json) |
@@ -10081,6 +10088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Fantasy Live Online | 18106 | [18106-true-fantasy-live-online.json](./18106-true-fantasy-live-online.json) |
 | True Love For Her | 297042 | [297042-true-love-for-her.json](./297042-true-love-for-her.json) |
 | True Love Story 3 | 138012 | [138012-true-love-story-3.json](./138012-true-love-story-3.json) |
+| True or False | 96483 | [96483-true-or-false.json](./96483-true-or-false.json) |
 | True or False 2 | 29717 | [29717-true-or-false-2.json](./29717-true-or-false-2.json) |
 | True Pinball | 9131 | [9131-true-pinball.json](./9131-true-pinball.json) |
 | True Reporter | 110292 | [110292-true-reporter.json](./110292-true-reporter.json) |
