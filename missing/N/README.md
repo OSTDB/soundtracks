@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanostray 2 | 20992 | [20992-nanostray-2.json](./20992-nanostray-2.json) |
 | Nanoswarm | 110971 | [110971-nanoswarm.json](./110971-nanoswarm.json) |
 | Nanotale: Typing Chronicles | 112378 | [112378-nanotale-typing-chronicles.json](./112378-nanotale-typing-chronicles.json) |
+| Nanotank | 93362 | [93362-nanotank.json](./93362-nanotank.json) |
 | NanoTech | 128409 | [128409-nanotech.json](./128409-nanotech.json) |
 | Nanotris | 33064 | [33064-nanotris.json](./33064-nanotris.json) |
 | Nanoui | 89972 | [89972-nanoui.json](./89972-nanoui.json) |
