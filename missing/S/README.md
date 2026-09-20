@@ -6132,6 +6132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Miner: Platinum Edition | 100155 | [100155-space-miner-platinum-edition.json](./100155-space-miner-platinum-edition.json) |
 | Space Misfits | 123040 | [123040-space-misfits.json](./123040-space-misfits.json) |
 | Space Mission SM-11 | 235219 | [235219-space-mission-sm-11.json](./235219-space-mission-sm-11.json) |
+| Space Moguls | 124600 | [124600-space-moguls.json](./124600-space-moguls.json) |
 | Space Nature Attack Tower Defense | 287222 | [287222-space-nature-attack-tower-defense.json](./287222-space-nature-attack-tower-defense.json) |
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
 | Space One: Ascendant | 167226 | [167226-space-one-ascendant.json](./167226-space-one-ascendant.json) |
@@ -8353,6 +8354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
 | Sting & Swing | 398983 | [398983-sting-and-swing.json](./398983-sting-and-swing.json) |
 | Stinker Golf | 406107 | [406107-stinker-golf.json](./406107-stinker-golf.json) |
+| Stinkoman 20X6 | 124605 | [124605-stinkoman-20x6.json](./124605-stinkoman-20x6.json) |
 | Stinky Company Simulator | 211741 | [211741-stinky-company-simulator.json](./211741-stinky-company-simulator.json) |
 | Stint: Rift Apart | 191168 | [191168-stint-rift-apart.json](./191168-stint-rift-apart.json) |
 | Stirge Hunters | 389600 | [389600-stirge-hunters.json](./389600-stirge-hunters.json) |
@@ -8895,6 +8897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stump Simulator | 272284 | [272284-stump-simulator.json](./272284-stump-simulator.json) |
 | Stunt Derby | 216863 | [216863-stunt-derby.json](./216863-stunt-derby.json) |
 | Stunt Destroyer | 204086 | [204086-stunt-destroyer.json](./204086-stunt-destroyer.json) |
+| Stunt Drifters | 124604 | [124604-stunt-drifters.json](./124604-stunt-drifters.json) |
 | Stunt Driver Collection | 328478 | [328478-stunt-driver-collection.json](./328478-stunt-driver-collection.json) |
 | Stunt Flyer | 66617 | [66617-stunt-flyer.json](./66617-stunt-flyer.json) |
 | Stunt Legends | 219583 | [219583-stunt-legends.json](./219583-stunt-legends.json) |
@@ -10463,6 +10466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperStar Ebidan | 373026 | [373026-superstar-ebidan.json](./373026-superstar-ebidan.json) |
 | SuperStar JYPNation | 105971 | [105971-superstar-jypnation.json](./105971-superstar-jypnation.json) |
 | Superstar LDH | 399056 | [399056-superstar-ldh.json](./399056-superstar-ldh.json) |
+| SuperStar Pledis | 124619 | [124619-superstar-pledis.json](./124619-superstar-pledis.json) |
 | Superstar Shootout | 231631 | [231631-superstar-shootout.json](./231631-superstar-shootout.json) |
 | Superstar Streetz | 186318 | [186318-superstar-streetz.json](./186318-superstar-streetz.json) |
 | Superstars V8: Next Challenge | 20499 | [20499-superstars-v8-next-challenge.json](./20499-superstars-v8-next-challenge.json) |
