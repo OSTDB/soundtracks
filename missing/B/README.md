@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballblazer | 273081 | [273081-ballblazer.json](./273081-ballblazer.json) |
 | Ballerburg | 129148 | [129148-ballerburg.json](./129148-ballerburg.json) |
 | Ballerburg: Castle Chaos | 43879 | [43879-ballerburg-castle-chaos.json](./43879-ballerburg-castle-chaos.json) |
+| Ballerina Magazine Dress Up | 95844 | [95844-ballerina-magazine-dress-up.json](./95844-ballerina-magazine-dress-up.json) |
 | Ballet Parking | 314070 | [314070-ballet-parking.json](./314070-ballet-parking.json) |
 | BallFrog | 186755 | [186755-ballfrog.json](./186755-ballfrog.json) |
 | Ballin' | 173239 | [173239-ballin.json](./173239-ballin.json) |
@@ -3191,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Cat Jam | 297502 | [297502-block-cat-jam.json](./297502-block-cat-jam.json) |
 | Block Cat Space Golf | 104029 | [104029-block-cat-space-golf.json](./104029-block-cat-space-golf.json) |
 | Block Champ | 229936 | [229936-block-champ.json](./229936-block-champ.json) |
+| Block City Wars | 95849 | [95849-block-city-wars.json](./95849-block-city-wars.json) |
 | Block Competition | 100564 | [100564-block-competition.json](./100564-block-competition.json) |
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Droppin Blitz | 362335 | [362335-block-droppin-blitz.json](./362335-block-droppin-blitz.json) |
