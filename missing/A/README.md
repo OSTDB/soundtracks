@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aatral | 264106 | [264106-aatral.json](./264106-aatral.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abalone | 9939 | [9939-abalone.json](./9939-abalone.json) |
+| Aban Hawkins & the 1000 Spikes | 91756 | [91756-aban-hawkins-and-the-1000-spikes.json](./91756-aban-hawkins-and-the-1000-spikes.json) |
 | Abandon: The Town | 268033 | [268033-abandon-the-town.json](./268033-abandon-the-town.json) |
 | Abandoned | 184599 | [184599-abandoned.json](./184599-abandoned.json) |
 | Abandoned | 295781 | [295781-abandoned.json](./295781-abandoned.json) |
@@ -5073,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axom: Conquest | 333357 | [333357-axom-conquest.json](./333357-axom-conquest.json) |
 | Axxx: Taught and Fucked | 375949 | [375949-axxx-taught-and-fucked.json](./375949-axxx-taught-and-fucked.json) |
 | Axyz | 293648 | [293648-axyz.json](./293648-axyz.json) |
+| Aya Go | 91740 | [91740-aya-go.json](./91740-aya-go.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayakashi Koi Gikyoku -Forbidden Romance with Mysterious Spirit- | 106974 | [106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json](./106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json) |
 | Ayakashi Rumble | 208034 | [208034-ayakashi-rumble.json](./208034-ayakashi-rumble.json) |
@@ -5107,6 +5109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azito | 63270 | [63270-azito.json](./63270-azito.json) |
 | Azito 2 | 63269 | [63269-azito-2.json](./63269-azito-2.json) |
 | Azito 3 | 63268 | [63268-azito-3.json](./63268-azito-3.json) |
+| Azito 3D | 91757 | [91757-azito-3d.json](./91757-azito-3d.json) |
 | Azito 3D Kyoto | 222332 | [222332-azito-3d-kyoto.json](./222332-azito-3d-kyoto.json) |
 | Azkend 2: The World Beneath | 19893 | [19893-azkend-2-the-world-beneath.json](./19893-azkend-2-the-world-beneath.json) |
 | Azlan: Rise of the Burlpups | 164991 | [164991-azlan-rise-of-the-burlpups.json](./164991-azlan-rise-of-the-burlpups.json) |
