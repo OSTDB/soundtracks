@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Prisma | 130404 | [130404-magical-prisma.json](./130404-magical-prisma.json) |
 | Magical School Girls Battle Arena | 316643 | [316643-magical-school-girls-battle-arena.json](./316643-magical-school-girls-battle-arena.json) |
 | Magical Sound Car | 159359 | [159359-magical-sound-car.json](./159359-magical-sound-car.json) |
+| Magical Star Pillars | 87976 | [87976-magical-star-pillars.json](./87976-magical-star-pillars.json) |
 | Magical Stick Girl Miracle Kurun | 125427 | [125427-magical-stick-girl-miracle-kurun.json](./125427-magical-stick-girl-miracle-kurun.json) |
 | Magical Strings | 157719 | [157719-magical-strings.json](./157719-magical-strings.json) |
 | Magical Taluluto-kun | 180301 | [180301-magical-taluluto-kun.json](./180301-magical-taluluto-kun.json) |
@@ -703,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majo no Furo Life | 265640 | [265640-majo-no-furo-life.json](./265640-majo-no-furo-life.json) |
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
 | Majong | 138732 | [138732-majong.json](./138732-majong.json) |
+| Majong Classic | 87991 | [87991-majong-classic.json](./87991-majong-classic.json) |
 | MaJong13 | 246419 | [246419-majong13.json](./246419-majong13.json) |
 | MaJong16 | 246420 | [246420-majong16.json](./246420-majong16.json) |
 | Major Blink: Berks 2 | 60525 | [60525-major-blink-berks-2.json](./60525-major-blink-berks-2.json) |
@@ -1034,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Mountain | 19028 | [19028-marble-mountain.json](./19028-marble-mountain.json) |
 | Marble Odyssey | 113699 | [113699-marble-odyssey.json](./113699-marble-odyssey.json) |
 | Marble Partner | 119756 | [119756-marble-partner.json](./119756-marble-partner.json) |
+| Marble Run 2D | 87990 | [87990-marble-run-2d.json](./87990-marble-run-2d.json) |
 | Marble Void | 33235 | [33235-marble-void.json](./33235-marble-void.json) |
 | Marble-O-Tron | 174294 | [174294-marble-o-tron.json](./174294-marble-o-tron.json) |
 | Marblelous Animals | 120174 | [120174-marblelous-animals.json](./120174-marblelous-animals.json) |
@@ -2059,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Fortress | 360058 | [360058-mech-fortress.json](./360058-mech-fortress.json) |
 | Mech in the City | 365779 | [365779-mech-in-the-city.json](./365779-mech-in-the-city.json) |
 | Mech Invasion: Combat Robots | 193885 | [193885-mech-invasion-combat-robots.json](./193885-mech-invasion-combat-robots.json) |
+| Mech League Hunting | 87952 | [87952-mech-league-hunting.json](./87952-mech-league-hunting.json) |
 | Mech Marines: Steel March | 36112 | [36112-mech-marines-steel-march.json](./36112-mech-marines-steel-march.json) |
 | Mech n' Parcel | 135831 | [135831-mech-n-parcel.json](./135831-mech-n-parcel.json) |
 | Mech Ops 2092 | 401622 | [401622-mech-ops-2092.json](./401622-mech-ops-2092.json) |
@@ -6342,6 +6346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Real Desire | 331693 | [331693-my-real-desire.json](./331693-my-real-desire.json) |
 | My Reaper Girlfriend | 230358 | [230358-my-reaper-girlfriend.json](./230358-my-reaper-girlfriend.json) |
 | My Rental Girlfriend | 205819 | [205819-my-rental-girlfriend.json](./205819-my-rental-girlfriend.json) |
+| My Resume: The Video Game | 88014 | [88014-my-resume-the-video-game.json](./88014-my-resume-the-video-game.json) |
 | My Riding Stables 2: A New Adventure | 140008 | [140008-my-riding-stables-2-a-new-adventure.json](./140008-my-riding-stables-2-a-new-adventure.json) |
 | My Riding Stables: Life with Horses 2 | 109770 | [109770-my-riding-stables-life-with-horses-2.json](./109770-my-riding-stables-life-with-horses-2.json) |
 | My Rusty Submarine: New Waters | 358291 | [358291-my-rusty-submarine-new-waters.json](./358291-my-rusty-submarine-new-waters.json) |
