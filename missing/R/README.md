@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders of Mizburgh | 185546 | [185546-raiders-of-mizburgh.json](./185546-raiders-of-mizburgh.json) |
 | Raiders of the Apocalypse | 336000 | [336000-raiders-of-the-apocalypse.json](./336000-raiders-of-the-apocalypse.json) |
 | Raiders of the Broken Planet | 19011 | [19011-raiders-of-the-broken-planet.json](./19011-raiders-of-the-broken-planet.json) |
+| Raiders of the Broken Planet - Founders Pack | 82424 | [82424-raiders-of-the-broken-planet-founders-pack.json](./82424-raiders-of-the-broken-planet-founders-pack.json) |
 | Raiders Run | 125440 | [125440-raiders-run.json](./125440-raiders-run.json) |
 | Raiders5 | 40166 | [40166-raiders5.json](./40166-raiders5.json) |
 | RaidersSphere4th | 35981 | [35981-raiderssphere4th.json](./35981-raiderssphere4th.json) |
@@ -1775,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Chronicles HD Collection | 21068 | [21068-resident-evil-chronicles-hd-collection.json](./21068-resident-evil-chronicles-hd-collection.json) |
 | Resident Evil: Cold Blood | 222311 | [222311-resident-evil-cold-blood.json](./222311-resident-evil-cold-blood.json) |
 | Resident Evil: Deadly Silence | 20456 | [20456-resident-evil-deadly-silence.json](./20456-resident-evil-deadly-silence.json) |
+| Resident Evil: Deluxe Origins Bundle | 82423 | [82423-resident-evil-deluxe-origins-bundle.json](./82423-resident-evil-deluxe-origins-bundle.json) |
 | Resident Evil: During the Storm | 216349 | [216349-resident-evil-during-the-storm.json](./216349-resident-evil-during-the-storm.json) |
 | Resident Evil: Grim Beginnings | 298036 | [298036-resident-evil-grim-beginnings.json](./298036-resident-evil-grim-beginnings.json) |
 | Resident Evil: Mortal Night | 185684 | [185684-resident-evil-mortal-night.json](./185684-resident-evil-mortal-night.json) |
@@ -2563,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Sun Mahjong | 257079 | [257079-rising-sun-mahjong.json](./257079-rising-sun-mahjong.json) |
 | Rising Super Chef 2 | 99399 | [99399-rising-super-chef-2.json](./99399-rising-super-chef-2.json) |
 | Rising Sushi | 174287 | [174287-rising-sushi.json](./174287-rising-sushi.json) |
+| Rising Thunder: Community Edition | 82394 | [82394-rising-thunder-community-edition.json](./82394-rising-thunder-community-edition.json) |
 | Rising Wan | 346139 | [346139-rising-wan.json](./346139-rising-wan.json) |
 | Rising: Hungry Lizard | 165638 | [165638-rising-hungry-lizard.json](./165638-rising-hungry-lizard.json) |
 | Risk & Riches | 333646 | [333646-risk-and-riches.json](./333646-risk-and-riches.json) |
@@ -3315,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms IV: Wall of Fire | 7040 | [7040-romance-of-the-three-kingdoms-iv-wall-of-fire.json](./7040-romance-of-the-three-kingdoms-iv-wall-of-fire.json) |
 | Romance of the Three Kingdoms V with Power Up Kit | 91115 | [91115-romance-of-the-three-kingdoms-v-with-power-up-kit.json](./91115-romance-of-the-three-kingdoms-v-with-power-up-kit.json) |
 | Romance of the Three Kingdoms VII | 7254 | [7254-romance-of-the-three-kingdoms-vii.json](./7254-romance-of-the-three-kingdoms-vii.json) |
+| Romance of the Three Kingdoms XII with Power Up Kit | 82407 | [82407-romance-of-the-three-kingdoms-xii-with-power-up-kit.json](./82407-romance-of-the-three-kingdoms-xii-with-power-up-kit.json) |
 | Romance of the Three Kingdoms XII: Competition Edition | 219028 | [219028-romance-of-the-three-kingdoms-xii-competition-edition.json](./219028-romance-of-the-three-kingdoms-xii-competition-edition.json) |
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 1st Wave: Liu Bei Enters Shu | 164485 | [164485-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-1st-wave-liu-bei-enters-shu.json](./164485-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-1st-wave-liu-bei-enters-shu.json) |
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 2nd Wave: Clash of the Warmongers | 164487 | [164487-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-2nd-wave-clash-of-the-warmongers.json](./164487-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-2nd-wave-clash-of-the-warmongers.json) |
