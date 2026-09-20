@@ -682,9 +682,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: Bad Blood | 17473 | [17473-watch-dogs-bad-blood.json](./17473-watch-dogs-bad-blood.json) |
 | Watch Dogs: DEDSEC Edition | 103379 | [103379-watch-dogs-dedsec-edition.json](./103379-watch-dogs-dedsec-edition.json) |
 | Watch Dogs: Legion - Bloodline | 139395 | [139395-watch-dogs-legion-bloodline.json](./139395-watch-dogs-legion-bloodline.json) |
+| Watch Dogs: Legion - Gold Edition | 119575 | [119575-watch-dogs-legion-gold-edition.json](./119575-watch-dogs-legion-gold-edition.json) |
 | Watch Dogs: Legion - Golden King Pack | 334114 | [334114-watch-dogs-legion-golden-king-pack.json](./334114-watch-dogs-legion-golden-king-pack.json) |
 | Watch Dogs: Legion - Resistance Edition | 142847 | [142847-watch-dogs-legion-resistance-edition.json](./142847-watch-dogs-legion-resistance-edition.json) |
 | Watch Dogs: Legion - Season Pass | 142845 | [142845-watch-dogs-legion-season-pass.json](./142845-watch-dogs-legion-season-pass.json) |
+| Watch Dogs: Legion - Ultimate Edition | 119574 | [119574-watch-dogs-legion-ultimate-edition.json](./119574-watch-dogs-legion-ultimate-edition.json) |
 | Watch Out! | 100220 | [100220-watch-out.json](./100220-watch-out.json) |
 | Watch out!!! | 304191 | [304191-watch-out.json](./304191-watch-out.json) |
 | Watch This! | 33129 | [33129-watch-this.json](./33129-watch-this.json) |
@@ -2296,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Warrior: Zombie Typocalypse | 278727 | [278727-word-warrior-zombie-typocalypse.json](./278727-word-warrior-zombie-typocalypse.json) |
 | Word Weasel | 200157 | [200157-word-weasel.json](./200157-word-weasel.json) |
 | Word Whammer | 328210 | [328210-word-whammer.json](./328210-word-whammer.json) |
+| Word Wheel by Powgi | 119539 | [119539-word-wheel-by-powgi.json](./119539-word-wheel-by-powgi.json) |
 | Word Whisper | 254163 | [254163-word-whisper.json](./254163-word-whisper.json) |
 | Word Whomp HD | 318610 | [318610-word-whomp-hd.json](./318610-word-whomp-hd.json) |
 | Word Wise | 157723 | [157723-word-wise.json](./157723-word-wise.json) |
