@@ -1137,6 +1137,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Engine Best Collection: Tengai Makyou Collection | 62136 | [62136-pc-engine-best-collection-tengai-makyou-collection.json](./62136-pc-engine-best-collection-tengai-makyou-collection.json) |
 | PC Engine Game Box | 261908 | [261908-pc-engine-game-box.json](./261908-pc-engine-game-box.json) |
 | PC Fútbol 2000 | 78034 | [78034-pc-futbol-2000.json](./78034-pc-futbol-2000.json) |
+| PC Fútbol 2001 | 94569 | [94569-pc-futbol-2001.json](./94569-pc-futbol-2001.json) |
+| PC Fútbol 2006 | 94567 | [94567-pc-futbol-2006.json](./94567-pc-futbol-2006.json) |
 | PC Fútbol 7 | 98942 | [98942-pc-futbol-7.json](./98942-pc-futbol-7.json) |
 | PC Futbol 8 | 298143 | [298143-pc-futbol-8.json](./298143-pc-futbol-8.json) |
 | PC Fútbol Edición Oro | 86018 | [86018-pc-futbol-edicion-oro.json](./86018-pc-futbol-edicion-oro.json) |
@@ -1498,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perypetie Boba | 232023 | [232023-perypetie-boba.json](./232023-perypetie-boba.json) |
 | PES 2018 Mobile | 240469 | [240469-pes-2018-mobile.json](./240469-pes-2018-mobile.json) |
 | Pesadelo: O Início | 187383 | [187383-pesadelo-o-inicio.json](./187383-pesadelo-o-inicio.json) |
+| Pesten | 94531 | [94531-pesten.json](./94531-pesten.json) |
 | Pesterminator: The Western Exterminator | 48080 | [48080-pesterminator-the-western-exterminator.json](./48080-pesterminator-the-western-exterminator.json) |
 | Pestilence | 272272 | [272272-pestilence.json](./272272-pestilence.json) |
 | Pestis | 97921 | [97921-pestis.json](./97921-pestis.json) |
@@ -1603,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pferd & Pony - Mein Pferdehof | 125959 | [125959-pferd-and-pony-mein-pferdehof.json](./125959-pferd-and-pony-mein-pferdehof.json) |
 | PGA Championship Golf 2000: Titanium Edition | 70960 | [70960-pga-championship-golf-2000-titanium-edition.json](./70960-pga-championship-golf-2000-titanium-edition.json) |
 | PGA Tour 2K23: Tiger Woods Edition | 221421 | [221421-pga-tour-2k23-tiger-woods-edition.json](./221421-pga-tour-2k23-tiger-woods-edition.json) |
+| PGA Tour Golf 486 | 94530 | [94530-pga-tour-golf-486.json](./94530-pga-tour-golf-486.json) |
 | PGA Tour Golf: The Monterey Courses | 206170 | [206170-pga-tour-golf-the-monterey-courses.json](./206170-pga-tour-golf-the-monterey-courses.json) |
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
@@ -2851,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
 | Plasma Sword: Nightmare of Bilstein | 14679 | [14679-plasma-sword-nightmare-of-bilstein.json](./14679-plasma-sword-nightmare-of-bilstein.json) |
+| Plasma Warrior | 94562 | [94562-plasma-warrior.json](./94562-plasma-warrior.json) |
 | Plasmaborne | 413592 | [413592-plasmaborne.json](./413592-plasmaborne.json) |
 | Plasmatron | 53165 | [53165-plasmatron.json](./53165-plasmatron.json) |
 | Plasmaworm | 93052 | [93052-plasmaworm.json](./93052-plasmaworm.json) |
@@ -3853,6 +3858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poseidon: Planet Eleven | 67276 | [67276-poseidon-planet-eleven.json](./67276-poseidon-planet-eleven.json) |
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
 | Posibility | 127367 | [127367-posibility.json](./127367-posibility.json) |
+| Positronic Bridge | 94544 | [94544-positronic-bridge.json](./94544-positronic-bridge.json) |
 | Possessed Bloody Asylum | 157570 | [157570-possessed-bloody-asylum.json](./157570-possessed-bloody-asylum.json) |
 | Possession | 90649 | [90649-possession.json](./90649-possession.json) |
 | Possession Game | 354523 | [354523-possession-game.json](./354523-possession-game.json) |
@@ -4021,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Struggle | 55031 | [55031-power-struggle.json](./55031-power-struggle.json) |
 | Power to Play: The Game | 255082 | [255082-power-to-play-the-game.json](./255082-power-to-play-the-game.json) |
 | Power Tower | 113671 | [113671-power-tower.json](./113671-power-tower.json) |
+| Power Up | 94571 | [94571-power-up.json](./94571-power-up.json) |
 | Power Ups that Kill! | 51165 | [51165-power-ups-that-kill.json](./51165-power-ups-that-kill.json) |
 | Power, Corruption & Lies | 57646 | [57646-power-corruption-and-lies.json](./57646-power-corruption-and-lies.json) |
 | Powerama | 60582 | [60582-powerama.json](./60582-powerama.json) |
