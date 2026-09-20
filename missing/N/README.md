@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | National Girls | 111503 | [111503-national-girls.json](./111503-national-girls.json) |
 | National Lacrosse League 2010 | 61034 | [61034-national-lacrosse-league-2010.json](./61034-national-lacrosse-league-2010.json) |
 | National Lacrosse League 2011 | 61035 | [61035-national-lacrosse-league-2011.json](./61035-national-lacrosse-league-2011.json) |
+| National Lampoon's Blind Date | 70094 | [70094-national-lampoons-blind-date.json](./70094-national-lampoons-blind-date.json) |
 | National Machine | 103451 | [103451-national-machine.json](./103451-national-machine.json) |
 | National Park Girls: Episode 2 - Happy Trails | 164444 | [164444-national-park-girls-episode-2-happy-trails.json](./164444-national-park-girls-episode-2-happy-trails.json) |
 | National Park Girls: Episode 3 - Daughter of Zion | 164445 | [164445-national-park-girls-episode-3-daughter-of-zion.json](./164445-national-park-girls-episode-3-daughter-of-zion.json) |
