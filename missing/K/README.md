@@ -1293,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klepto Planet Attack | 176473 | [176473-klepto-planet-attack.json](./176473-klepto-planet-attack.json) |
 | KleptoCats 2: Idle Furry Pets | 243099 | [243099-kleptocats-2-idle-furry-pets.json](./243099-kleptocats-2-idle-furry-pets.json) |
 | KleptoCats Cartoon Network | 243707 | [243707-kleptocats-cartoon-network.json](./243707-kleptocats-cartoon-network.json) |
+| KleptoDogs | 105792 | [105792-kleptodogs.json](./105792-kleptodogs.json) |
 | Kleptomaniacs | 348807 | [348807-kleptomaniacs.json](./348807-kleptomaniacs.json) |
 | Kleu's music | 138797 | [138797-kleus-music.json](./138797-kleus-music.json) |
 | Klikwerk | 225282 | [225282-klikwerk.json](./225282-klikwerk.json) |
