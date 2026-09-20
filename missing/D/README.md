@@ -551,6 +551,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Solitaire: Search for a Cure | 386139 | [386139-dark-solitaire-search-for-a-cure.json](./386139-dark-solitaire-search-for-a-cure.json) |
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
 | Dark Souls III: The Convergence | 188607 | [188607-dark-souls-iii-the-convergence.json](./188607-dark-souls-iii-the-convergence.json) |
+| Dark Souls Trilogy | 114143 | [114143-dark-souls-trilogy.json](./114143-dark-souls-trilogy.json) |
+| Dark Souls Trilogy: Collector's Edition | 114144 | [114144-dark-souls-trilogy-collectors-edition.json](./114144-dark-souls-trilogy-collectors-edition.json) |
 | Dark Souls: Artorias of the Abyss Edition | 136857 | [136857-dark-souls-artorias-of-the-abyss-edition.json](./136857-dark-souls-artorias-of-the-abyss-edition.json) |
 | Dark Souls: Collector's Edition | 44607 | [44607-dark-souls-collectors-edition.json](./44607-dark-souls-collectors-edition.json) |
 | Dark Souls: Prepare to Die Edition | 21040 | [21040-dark-souls-prepare-to-die-edition.json](./21040-dark-souls-prepare-to-die-edition.json) |
@@ -755,6 +757,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dataflow | 112353 | [112353-dataflow.json](./112353-dataflow.json) |
 | Datahit | 185560 | [185560-datahit.json](./185560-datahit.json) |
 | Datascape | 96128 | [96128-datascape.json](./96128-datascape.json) |
+| Date A Live: Ren Dystopia | 114150 | [114150-date-a-live-ren-dystopia.json](./114150-date-a-live-ren-dystopia.json) |
+| Date A Live: Ren Dystopia - Limited Edition | 114151 | [114151-date-a-live-ren-dystopia-limited-edition.json](./114151-date-a-live-ren-dystopia-limited-edition.json) |
 | Date A Live: Rio Reincarnation | 87742 | [87742-date-a-live-rio-reincarnation.json](./87742-date-a-live-rio-reincarnation.json) |
 | Date A Live: Rio Reincarnation HD - Limited Edition | 96104 | [96104-date-a-live-rio-reincarnation-hd-limited-edition.json](./96104-date-a-live-rio-reincarnation-hd-limited-edition.json) |
 | Date Night | 179077 | [179077-date-night.json](./179077-date-night.json) |
@@ -2579,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diesel Express VR | 41968 | [41968-diesel-express-vr.json](./41968-diesel-express-vr.json) |
 | Diesel Legacy: The Brazen Age | 252844 | [252844-diesel-legacy-the-brazen-age.json](./252844-diesel-legacy-the-brazen-age.json) |
 | Diesel Power | 29805 | [29805-diesel-power.json](./29805-diesel-power.json) |
+| Dieselpunk Wars | 114168 | [114168-dieselpunk-wars.json](./114168-dieselpunk-wars.json) |
 | Diet Family | 267649 | [267649-diet-family.json](./267649-diet-family.json) |
 | Diet GoGo | 145604 | [145604-diet-gogo.json](./145604-diet-gogo.json) |
 | Diets and Deities | 244268 | [244268-diets-and-deities.json](./244268-diets-and-deities.json) |
@@ -3811,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God Bundle | 119072 | [119072-doodle-god-bundle.json](./119072-doodle-god-bundle.json) |
 | Doodle God Ultimate Collection | 118153 | [118153-doodle-god-ultimate-collection.json](./118153-doodle-god-ultimate-collection.json) |
 | Doodle God: Alchemy Jam | 80911 | [80911-doodle-god-alchemy-jam.json](./80911-doodle-god-alchemy-jam.json) |
+| Doodle God: Evolution | 114180 | [114180-doodle-god-evolution.json](./114180-doodle-god-evolution.json) |
 | Doodle God: Fantasy World of Magic | 186346 | [186346-doodle-god-fantasy-world-of-magic.json](./186346-doodle-god-fantasy-world-of-magic.json) |
 | Doodle God: Genesis Secrets | 99617 | [99617-doodle-god-genesis-secrets.json](./99617-doodle-god-genesis-secrets.json) |
 | Doodle God: Merge Evolution | 334699 | [334699-doodle-god-merge-evolution.json](./334699-doodle-god-merge-evolution.json) |
