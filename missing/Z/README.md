@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Bar Simulator VR | 300718 | [300718-zombie-bar-simulator-vr.json](./300718-zombie-bar-simulator-vr.json) |
 | Zombie Barricades | 103424 | [103424-zombie-barricades.json](./103424-zombie-barricades.json) |
 | Zombie Beyond Terror: FPS Survival | 196829 | [196829-zombie-beyond-terror-fps-survival.json](./196829-zombie-beyond-terror-fps-survival.json) |
+| Zombie Blast Crew | 125194 | [125194-zombie-blast-crew.json](./125194-zombie-blast-crew.json) |
 | Zombie Blender | 190746 | [190746-zombie-blender.json](./190746-zombie-blender.json) |
 | Zombie Builder Defense | 111211 | [111211-zombie-builder-defense.json](./111211-zombie-builder-defense.json) |
 | Zombie Builder Defense 2 | 239766 | [239766-zombie-builder-defense-2.json](./239766-zombie-builder-defense-2.json) |
