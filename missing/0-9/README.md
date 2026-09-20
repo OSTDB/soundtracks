@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 25920 | 337614 | [337614-25920.json](./337614-25920.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
 | 27 Survivors | 410329 | [410329-27-survivors.json](./410329-27-survivors.json) |
+| 27 Tele-games | 98803 | [98803-27-tele-games.json](./98803-27-tele-games.json) |
 | 28 | 308937 | [308937-28.json](./308937-28.json) |
 | 28 Babes Later | 278676 | [278676-28-babes-later.json](./278676-28-babes-later.json) |
 | 28 Robots Later | 52546 | [52546-28-robots-later.json](./52546-28-robots-later.json) |
@@ -503,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 35 Electric | 382899 | [382899-35-electric.json](./382899-35-electric.json) |
 | 35MM | 19396 | [19396-35mm.json](./19396-35mm.json) |
 | 36 Nights | 277942 | [277942-36-nights.json](./277942-36-nights.json) |
+| 360 Mega Pack HD Remix | 98814 | [98814-360-mega-pack-hd-remix.json](./98814-360-mega-pack-hd-remix.json) |
 | 360: Three Sixty | 45318 | [45318-360-three-sixty.json](./45318-360-three-sixty.json) |
 | 365 Days | 29917 | [29917-365-days.json](./29917-365-days.json) |
 | 372756 | 397771 | [397771-372756.json](./397771-372756.json) |
@@ -620,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 41 Days: Minimalist Pandemic Simulator | 183451 | [183451-41-days-minimalist-pandemic-simulator.json](./183451-41-days-minimalist-pandemic-simulator.json) |
 | 41m | 234073 | [234073-41m.json](./234073-41m.json) |
 | 44 The Jail | 283306 | [283306-44-the-jail.json](./283306-44-the-jail.json) |
+| 450 XP Games | 98817 | [98817-450-xp-games.json](./98817-450-xp-games.json) |
 | 46 Memory Lane | 165501 | [165501-46-memory-lane.json](./165501-46-memory-lane.json) |
 | 46 Okunen Monogatari: The Shinka Ron | 26675 | [26675-46-okunen-monogatari-the-shinka-ron.json](./26675-46-okunen-monogatari-the-shinka-ron.json) |
 | 48 Pieces | 109036 | [109036-48-pieces.json](./109036-48-pieces.json) |
