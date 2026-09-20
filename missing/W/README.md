@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waku-waku Ski Wonder Spur | 37770 | [37770-waku-waku-ski-wonder-spur.json](./37770-waku-waku-ski-wonder-spur.json) |
 | Waku-waku Ultraman Racing | 252170 | [252170-waku-waku-ultraman-racing.json](./252170-waku-waku-ultraman-racing.json) |
 | Waku-waku Vegetable | 107630 | [107630-waku-waku-vegetable.json](./107630-waku-waku-vegetable.json) |
+| Waku-waku Youwaku Wakaba-chan | 97672 | [97672-waku-waku-youwaku-wakaba-chan.json](./97672-waku-waku-youwaku-wakaba-chan.json) |
 | Wakugumi: Monochrome Puzzle | 85479 | [85479-wakugumi-monochrome-puzzle.json](./85479-wakugumi-monochrome-puzzle.json) |
 | Wakusei | 301428 | [301428-wakusei.json](./301428-wakusei.json) |
 | Walden Horde | 159746 | [159746-walden-horde.json](./159746-walden-horde.json) |
@@ -686,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wat? | 244277 | [244277-wat.json](./244277-wat.json) |
 | Wataju: My Super Fulfilling Real Life | 216786 | [216786-wataju-my-super-fulfilling-real-life.json](./216786-wataju-my-super-fulfilling-real-life.json) |
 | Watamari Part2: A Fake Marriage? | 375295 | [375295-watamari-part2-a-fake-marriage.json](./375295-watamari-part2-a-fake-marriage.json) |
+| Wataoma Extra | 97668 | [97668-wataoma-extra.json](./97668-wataoma-extra.json) |
 | Watashi no Happy Manner Book | 287631 | [287631-watashi-no-happy-manner-book.json](./287631-watashi-no-happy-manner-book.json) |
 | Watashi no Kokoro! Kimi no Koto ga Suki desu. | 161902 | [161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json](./161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
