@@ -5179,6 +5179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Paradise: Tripeaks | 106528 | [106528-solitaire-paradise-tripeaks.json](./106528-solitaire-paradise-tripeaks.json) |
 | Solitaire Poker | 19493 | [19493-solitaire-poker.json](./19493-solitaire-poker.json) |
 | Solitaire Quest: Garden Story | 260395 | [260395-solitaire-quest-garden-story.json](./260395-solitaire-quest-garden-story.json) |
+| Solitaire Retro | 102598 | [102598-solitaire-retro.json](./102598-solitaire-retro.json) |
 | Solitaire Royale | 400982 | [400982-solitaire-royale.json](./400982-solitaire-royale.json) |
 | Solitaire Royale | 400988 | [400988-solitaire-royale.json](./400988-solitaire-royale.json) |
 | Solitaire Royale | 400989 | [400989-solitaire-royale.json](./400989-solitaire-royale.json) |
@@ -8194,6 +8195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Raider | 399006 | [399006-stealth-raider.json](./399006-stealth-raider.json) |
 | Stealth Strike | 333577 | [333577-stealth-strike.json](./333577-stealth-strike.json) |
 | Stealthscape | 96732 | [96732-stealthscape.json](./96732-stealthscape.json) |
+| Stealthy Guy | 102573 | [102573-stealthy-guy.json](./102573-stealthy-guy.json) |
 | Steam | 95441 | [95441-steam.json](./95441-steam.json) |
 | Steam Punks | 61085 | [61085-steam-punks.json](./61085-steam-punks.json) |
 | Steam Puppet: Tower Defense | 151670 | [151670-steam-puppet-tower-defense.json](./151670-steam-puppet-tower-defense.json) |
@@ -10389,6 +10391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Skyland | 175406 | [175406-super-skyland.json](./175406-super-skyland.json) |
 | Super Slam Dunk Touchdown | 27664 | [27664-super-slam-dunk-touchdown.json](./27664-super-slam-dunk-touchdown.json) |
 | Super Slide 64 | 135179 | [135179-super-slide-64.json](./135179-super-slide-64.json) |
+| Super Slime Blitz: Gumball | 102603 | [102603-super-slime-blitz-gumball.json](./102603-super-slime-blitz-gumball.json) |
 | Super Slime Boy | 335956 | [335956-super-slime-boy.json](./335956-super-slime-boy.json) |
 | Super Slime Fun | 106355 | [106355-super-slime-fun.json](./106355-super-slime-fun.json) |
 | Super Slime Rush | 174280 | [174280-super-slime-rush.json](./174280-super-slime-rush.json) |
@@ -10789,6 +10792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival: Fountain of Youth - Captain's Edition | 317209 | [317209-survival-fountain-of-youth-captains-edition.json](./317209-survival-fountain-of-youth-captains-edition.json) |
 | Survival: Revelation | 124225 | [124225-survival-revelation.json](./124225-survival-revelation.json) |
 | Survival: The Ultimate Challenge | 51243 | [51243-survival-the-ultimate-challenge.json](./51243-survival-the-ultimate-challenge.json) |
+| Survival: Wicked Forest | 102626 | [102626-survival-wicked-forest.json](./102626-survival-wicked-forest.json) |
 | Survivalcraft | 87025 | [87025-survivalcraft.json](./87025-survivalcraft.json) |
 | Survivaluck | 287758 | [287758-survivaluck.json](./287758-survivaluck.json) |
 | SurvivalZ Battlegrounds | 103009 | [103009-survivalz-battlegrounds.json](./103009-survivalz-battlegrounds.json) |
@@ -10986,6 +10990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Adventure | 392916 | [392916-sweet-adventure.json](./392916-sweet-adventure.json) |
 | Sweet and Cute | 169381 | [169381-sweet-and-cute.json](./169381-sweet-and-cute.json) |
 | Sweet Baby Girl Christmas 2 | 227474 | [227474-sweet-baby-girl-christmas-2.json](./227474-sweet-baby-girl-christmas-2.json) |
+| Sweet Baby Girl Cleanup 5 | 102617 | [102617-sweet-baby-girl-cleanup-5.json](./102617-sweet-baby-girl-cleanup-5.json) |
 | Sweet Baby Girl Doll House | 104487 | [104487-sweet-baby-girl-doll-house.json](./104487-sweet-baby-girl-doll-house.json) |
 | Sweet Baby Girl Mermaid Life | 108852 | [108852-sweet-baby-girl-mermaid-life.json](./108852-sweet-baby-girl-mermaid-life.json) |
 | Sweet Baby Girl Summer Camp | 104489 | [104489-sweet-baby-girl-summer-camp.json](./104489-sweet-baby-girl-summer-camp.json) |
