@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Wonderland | 175929 | [175929-alice-in-wonderland.json](./175929-alice-in-wonderland.json) |
 | Alice in Wonderland | 196846 | [196846-alice-in-wonderland.json](./196846-alice-in-wonderland.json) |
 | Alice in Wonderland: Magical Labyrinth | 328575 | [328575-alice-in-wonderland-magical-labyrinth.json](./328575-alice-in-wonderland-magical-labyrinth.json) |
+| Alice in Wonderland: Puzzle Golf Adventures | 100008 | [100008-alice-in-wonderland-puzzle-golf-adventures.json](./100008-alice-in-wonderland-puzzle-golf-adventures.json) |
 | Alice is Dead: Episode 1 | 140361 | [140361-alice-is-dead-episode-1.json](./140361-alice-is-dead-episode-1.json) |
 | Alice is Dead: Episode 2 | 140362 | [140362-alice-is-dead-episode-2.json](./140362-alice-is-dead-episode-2.json) |
 | Alice is Dead: Episode 3 | 140363 | [140363-alice-is-dead-episode-3.json](./140363-alice-is-dead-episode-3.json) |
@@ -2492,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Gem Puzzle | 297653 | [297653-animal-gem-puzzle.json](./297653-animal-gem-puzzle.json) |
 | Animal Genius | 397073 | [397073-animal-genius.json](./397073-animal-genius.json) |
 | Animal Inspector | 124753 | [124753-animal-inspector.json](./124753-animal-inspector.json) |
+| Animal Jigsaw Puzzle | 99976 | [99976-animal-jigsaw-puzzle.json](./99976-animal-jigsaw-puzzle.json) |
 | Animal Kostume | 249878 | [249878-animal-kostume.json](./249878-animal-kostume.json) |
 | Animal Learning Puzzle for Toddlers and Kids | 147939 | [147939-animal-learning-puzzle-for-toddlers-and-kids.json](./147939-animal-learning-puzzle-for-toddlers-and-kids.json) |
 | Animal Life: Dinosaurs | 269552 | [269552-animal-life-dinosaurs.json](./269552-animal-life-dinosaurs.json) |
@@ -4680,6 +4682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Offroad Fury 3 | 8271 | [8271-atv-offroad-fury-3.json](./8271-atv-offroad-fury-3.json) |
 | ATV Offroad Fury Pro | 8274 | [8274-atv-offroad-fury-pro.json](./8274-atv-offroad-fury-pro.json) |
 | ATV Offroad Fury: Blazin' Trails | 8272 | [8272-atv-offroad-fury-blazin-trails.json](./8272-atv-offroad-fury-blazin-trails.json) |
+| ATV Pure | 99978 | [99978-atv-pure.json](./99978-atv-pure.json) |
 | ATV Quad Frenzy | 69810 | [69810-atv-quad-frenzy.json](./69810-atv-quad-frenzy.json) |
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
 | Atypian | 369046 | [369046-atypian.json](./369046-atypian.json) |
