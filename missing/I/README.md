@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Showdown | 243747 | [243747-idol-showdown.json](./243747-idol-showdown.json) |
 | Idol Tantei You&My | 246105 | [246105-idol-tantei-you-and-my.json](./246105-idol-tantei-you-and-my.json) |
 | Idol Time PriPara | 285041 | [285041-idol-time-pripara.json](./285041-idol-time-pripara.json) |
+| Idol-Mahjong Final Romance 2 | 75471 | [75471-idol-mahjong-final-romance-2.json](./75471-idol-mahjong-final-romance-2.json) |
 | Idols of Ash | 397084 | [397084-idols-of-ash.json](./397084-idols-of-ash.json) |
 | Idolz | 348248 | [348248-idolz.json](./348248-idolz.json) |
 | Idtipsa | 201838 | [201838-idtipsa.json](./201838-idtipsa.json) |
@@ -1346,7 +1347,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice 3 | 139807 | [139807-injustice-3.json](./139807-injustice-3.json) |
 | Injustice: Containment Suit Doomsday | 305201 | [305201-injustice-containment-suit-doomsday.json](./305201-injustice-containment-suit-doomsday.json) |
 | Injustice: Gods Among Us | 77354 | [77354-injustice-gods-among-us.json](./77354-injustice-gods-among-us.json) |
+| Injustice: Gods Among Us - Ame-Comi Skins | 75477 | [75477-injustice-gods-among-us-ame-comi-skins.json](./75477-injustice-gods-among-us-ame-comi-skins.json) |
+| Injustice: Gods Among Us - Blackest Night Pack 1 | 75474 | [75474-injustice-gods-among-us-blackest-night-pack-1.json](./75474-injustice-gods-among-us-blackest-night-pack-1.json) |
+| Injustice: Gods Among Us - Blackest Night Pack 2 | 75476 | [75476-injustice-gods-among-us-blackest-night-pack-2.json](./75476-injustice-gods-among-us-blackest-night-pack-2.json) |
+| Injustice: Gods Among Us - Flashpoint Skin Pack | 75479 | [75479-injustice-gods-among-us-flashpoint-skin-pack.json](./75479-injustice-gods-among-us-flashpoint-skin-pack.json) |
+| Injustice: Gods Among Us - Killing Joke Pack | 75473 | [75473-injustice-gods-among-us-killing-joke-pack.json](./75473-injustice-gods-among-us-killing-joke-pack.json) |
+| Injustice: Gods Among Us - Martian Manhunter | 75467 | [75467-injustice-gods-among-us-martian-manhunter.json](./75467-injustice-gods-among-us-martian-manhunter.json) |
+| Injustice: Gods Among Us - Red Son Pack 2 | 75480 | [75480-injustice-gods-among-us-red-son-pack-2.json](./75480-injustice-gods-among-us-red-son-pack-2.json) |
 | Injustice: Gods Among Us - Special Edition | 212252 | [212252-injustice-gods-among-us-special-edition.json](./212252-injustice-gods-among-us-special-edition.json) |
+| Injustice: Gods Among Us - Teen Titans Skins | 75469 | [75469-injustice-gods-among-us-teen-titans-skins.json](./75469-injustice-gods-among-us-teen-titans-skins.json) |
+| Injustice: Gods Among Us - The Man of Steel Pack: Superman | 75488 | [75488-injustice-gods-among-us-the-man-of-steel-pack-superman.json](./75488-injustice-gods-among-us-the-man-of-steel-pack-superman.json) |
+| Injustice: Gods Among Us - The Man of Steel: Zod | 75481 | [75481-injustice-gods-among-us-the-man-of-steel-zod.json](./75481-injustice-gods-among-us-the-man-of-steel-zod.json) |
+| Injustice: Gods Among Us - Zatanna | 75465 | [75465-injustice-gods-among-us-zatanna.json](./75465-injustice-gods-among-us-zatanna.json) |
 | Ink & Paper: DoodleCut - Animals DLC | 385181 | [385181-ink-and-paper-doodlecut-animals-dlc.json](./385181-ink-and-paper-doodlecut-animals-dlc.json) |
 | Ink & Paper: DoodleCut - Complete Edition | 385202 | [385202-ink-and-paper-doodlecut-complete-edition.json](./385202-ink-and-paper-doodlecut-complete-edition.json) |
 | Ink & Paper: DoodleCut - Space DLC | 385180 | [385180-ink-and-paper-doodlecut-space-dlc.json](./385180-ink-and-paper-doodlecut-space-dlc.json) |
