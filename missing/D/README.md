@@ -4192,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
 | DPS Idle 2 | 253970 | [253970-dps-idle-2.json](./253970-dps-idle-2.json) |
+| DQ Girls Colosseum | 97699 | [97699-dq-girls-colosseum.json](./97699-dq-girls-colosseum.json) |
 | Dr Livesey Rom and Death Edition | 224897 | [224897-dr-livesey-rom-and-death-edition.json](./224897-dr-livesey-rom-and-death-edition.json) |
 | Dr Livingstone, I Presume? | 148338 | [148338-dr-livingstone-i-presume.json](./148338-dr-livingstone-i-presume.json) |
 | Dr Livingstone, I Presume?: Digital Deluxe Edition | 167178 | [167178-dr-livingstone-i-presume-digital-deluxe-edition.json](./167178-dr-livingstone-i-presume-digital-deluxe-edition.json) |
