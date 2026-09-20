@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IBM: Cityone, A Smarter Planet Game | 66626 | [66626-ibm-cityone-a-smarter-planet-game.json](./66626-ibm-cityone-a-smarter-planet-game.json) |
 | IC Carddass DragonBall | 59995 | [59995-ic-carddass-dragonball.json](./59995-ic-carddass-dragonball.json) |
 | ic2005 | 256861 | [256861-ic2005.json](./256861-ic2005.json) |
+| Icarace | 125825 | [125825-icarace.json](./125825-icarace.json) |
 | iCarly: iDream in Toons | 210060 | [210060-icarly-idream-in-toons.json](./210060-icarly-idream-in-toons.json) |
 | Icarus | 245054 | [245054-icarus.json](./245054-icarus.json) |
 | Icarus Challenge | 210893 | [210893-icarus-challenge.json](./210893-icarus-challenge.json) |
@@ -655,12 +656,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Complete Edition | 23004 | [23004-il-2-sturmovik-complete-edition.json](./23004-il-2-sturmovik-complete-edition.json) |
 | IL-2 Sturmovik: Forgotten Battles | 755 | [755-il-2-sturmovik-forgotten-battles.json](./755-il-2-sturmovik-forgotten-battles.json) |
 | IL-2 Sturmovik: Fortresses and Focke-Wulfs - Dieppe | 272376 | [272376-il-2-sturmovik-fortresses-and-focke-wulfs-dieppe.json](./272376-il-2-sturmovik-fortresses-and-focke-wulfs-dieppe.json) |
+| IL-2 Sturmovik: Great Battles | 125836 | [125836-il-2-sturmovik-great-battles.json](./125836-il-2-sturmovik-great-battles.json) |
 | IL-2 Sturmovik: Hell Hawks Over the Bulge Campaign | 267661 | [267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json](./267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json) |
 | IL-2 Sturmovik: Lisunov Li-2 Collector Plane | 267662 | [267662-il-2-sturmovik-lisunov-li-2-collector-plane.json](./267662-il-2-sturmovik-lisunov-li-2-collector-plane.json) |
 | IL-2 Sturmovik: Ten Days of Autumn Campaign | 267663 | [267663-il-2-sturmovik-ten-days-of-autumn-campaign.json](./267663-il-2-sturmovik-ten-days-of-autumn-campaign.json) |
 | Il-2 Sturmovik: Ultimate Edition | 146130 | [146130-il-2-sturmovik-ultimate-edition.json](./146130-il-2-sturmovik-ultimate-edition.json) |
 | Iles | 211949 | [211949-iles.json](./211949-iles.json) |
 | Iljimae-jeon: Manman Papa Sikjeok-pyeon | 145615 | [145615-iljimae-jeon-manman-papa-sikjeok-pyeon.json](./145615-iljimae-jeon-manman-papa-sikjeok-pyeon.json) |
+| Ill Will | 125834 | [125834-ill-will.json](./125834-ill-will.json) |
 | Illagus | 133390 | [133390-illagus.json](./133390-illagus.json) |
 | Illegal Communication | 199084 | [199084-illegal-communication.json](./199084-illegal-communication.json) |
 | Illegal Crime Game | 251246 | [251246-illegal-crime-game.json](./251246-illegal-crime-game.json) |
@@ -2146,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izanami | 294262 | [294262-izanami.json](./294262-izanami.json) |
 | Izanami's Dream Battle | 30822 | [30822-izanamis-dream-battle.json](./30822-izanamis-dream-battle.json) |
 | Izeriya | 32938 | [32938-izeriya.json](./32938-izeriya.json) |
+| IziMiniGame | 125853 | [125853-iziminigame.json](./125853-iziminigame.json) |
 | Izmir: An Independence Simulator | 196294 | [196294-izmir-an-independence-simulator.json](./196294-izmir-an-independence-simulator.json) |
 | Izolated | 295532 | [295532-izolated.json](./295532-izolated.json) |
 | Izumi Jiken File Vol. 3 - Yujuku-hen | 292113 | [292113-izumi-jiken-file-vol-3-yujuku-hen.json](./292113-izumi-jiken-file-vol-3-yujuku-hen.json) |
