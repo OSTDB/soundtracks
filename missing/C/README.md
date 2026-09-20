@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabals: Magic & Battle Cards | 33107 | [33107-cabals-magic-and-battle-cards.json](./33107-cabals-magic-and-battle-cards.json) |
 | Cabbage Patch Kids: The Patch Puppy Rescue | 49363 | [49363-cabbage-patch-kids-the-patch-puppy-rescue.json](./49363-cabbage-patch-kids-the-patch-puppy-rescue.json) |
 | Cabbagers | 226277 | [226277-cabbagers.json](./226277-cabbagers.json) |
+| Cabbages and Kings | 71237 | [71237-cabbages-and-kings.json](./71237-cabbages-and-kings.json) |
 | Cabbie! | 327213 | [327213-cabbie.json](./327213-cabbie.json) |
 | Cabela's 4x4 Off-Road Adventure | 94238 | [94238-cabelas-4x4-off-road-adventure.json](./94238-cabelas-4x4-off-road-adventure.json) |
 | Cabela's 4x4 Off-Road Adventure 2 | 92531 | [92531-cabelas-4x4-off-road-adventure-2.json](./92531-cabelas-4x4-off-road-adventure-2.json) |
@@ -852,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Deck | 40566 | [40566-carrier-deck.json](./40566-carrier-deck.json) |
 | Carrier Joe 2 | 207845 | [207845-carrier-joe-2.json](./207845-carrier-joe-2.json) |
 | Carrier Landings | 87163 | [87163-carrier-landings.json](./87163-carrier-landings.json) |
+| Carriers at War | 71213 | [71213-carriers-at-war.json](./71213-carriers-at-war.json) |
 | Carriers at War 1941-1945: Fleet Carrier Operations in the Pacific | 25615 | [25615-carriers-at-war-1941-1945-fleet-carrier-operations-in-the-pacific.json](./25615-carriers-at-war-1941-1945-fleet-carrier-operations-in-the-pacific.json) |
 | Carriers at War II | 94536 | [94536-carriers-at-war-ii.json](./94536-carriers-at-war-ii.json) |
 | Carrion Fields | 228692 | [228692-carrion-fields.json](./228692-carrion-fields.json) |
@@ -968,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Roulette Royal | 166682 | [166682-casino-roulette-royal.json](./166682-casino-roulette-royal.json) |
 | Casino World | 303087 | [303087-casino-world.json](./303087-casino-world.json) |
 | Casinolife Poker | 139239 | [139239-casinolife-poker.json](./139239-casinolife-poker.json) |
+| Casinopia: The Blackjack | 71246 | [71246-casinopia-the-blackjack.json](./71246-casinopia-the-blackjack.json) |
 | CasinoRPG | 82057 | [82057-casinorpg.json](./82057-casinorpg.json) |
 | Casio Handheld Games CG-5X emulator for ZX Spectrum | 279735 | [279735-casio-handheld-games-cg-5x-emulator-for-zx-spectrum.json](./279735-casio-handheld-games-cg-5x-emulator-for-zx-spectrum.json) |
 | Casos Extravagantes Poco Complicados | 151531 | [151531-casos-extravagantes-poco-complicados.json](./151531-casos-extravagantes-poco-complicados.json) |
@@ -1731,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Motocross 2001 featuring Ricky Carmichael | 76978 | [76978-championship-motocross-2001-featuring-ricky-carmichael.json](./76978-championship-motocross-2001-featuring-ricky-carmichael.json) |
 | Championship Pool | 307111 | [307111-championship-pool.json](./307111-championship-pool.json) |
 | Championship Pool | 307113 | [307113-championship-pool.json](./307113-championship-pool.json) |
+| Championship Rugby Manager | 71223 | [71223-championship-rugby-manager.json](./71223-championship-rugby-manager.json) |
 | Championship Wrestling Promoter | 199124 | [199124-championship-wrestling-promoter.json](./199124-championship-wrestling-promoter.json) |
 | ChampionsTCG | 273920 | [273920-championstcg.json](./273920-championstcg.json) |
 | Champoo Club | 172200 | [172200-champoo-club.json](./172200-champoo-club.json) |
@@ -2312,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choco-ken no Chokotto Fushigi na Monogatari: Chocolate Hime to Mahou no Recipe | 222517 | [222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json](./222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json) |
 | Choco-Ken no Dekitate Sweets Wagon | 287630 | [287630-choco-ken-no-dekitate-sweets-wagon.json](./287630-choco-ken-no-dekitate-sweets-wagon.json) |
 | Choco-Ken no Omise: Patisserie & Sweets Shop Game | 287628 | [287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json](./287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json) |
+| Chocobo Collection | 71219 | [71219-chocobo-collection.json](./71219-chocobo-collection.json) |
 | Chocolat Rush | 120789 | [120789-chocolat-rush.json](./120789-chocolat-rush.json) |
 | Chocolate Factory | 112995 | [112995-chocolate-factory.json](./112995-chocolate-factory.json) |
 | Chocolate makes you happy 4 | 89935 | [89935-chocolate-makes-you-happy-4.json](./89935-chocolate-makes-you-happy-4.json) |
@@ -2680,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chymicalia | 294180 | [294180-chymicalia.json](./294180-chymicalia.json) |
 | Chyrza | 142395 | [142395-chyrza.json](./142395-chyrza.json) |
 | Cì Shā | 158675 | [158675-ci-sha.json](./158675-ci-sha.json) |
+| CIA Operative: Solo Missions | 71228 | [71228-cia-operative-solo-missions.json](./71228-cia-operative-solo-missions.json) |
 | Ciao Bella: la Bella Romanza | 133957 | [133957-ciao-bella-la-bella-romanza.json](./133957-ciao-bella-la-bella-romanza.json) |
 | Cicada Springs | 248714 | [248714-cicada-springs.json](./248714-cicada-springs.json) |
 | Cicadas | 61599 | [61599-cicadas.json](./61599-cicadas.json) |
@@ -3646,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Chain | 111488 | [111488-color-chain.json](./111488-color-chain.json) |
 | Color Cingdom | 334788 | [334788-color-cingdom.json](./334788-color-cingdom.json) |
 | Color Clash | 93980 | [93980-color-clash.json](./93980-color-clash.json) |
+| Color Computer Games #1 | 71247 | [71247-color-computer-games-1.json](./71247-color-computer-games-1.json) |
 | Color Course | 185528 | [185528-color-course.json](./185528-color-course.json) |
 | Color Cube | 172053 | [172053-color-cube.json](./172053-color-cube.json) |
 | Color Cube Spin | 28845 | [28845-color-cube-spin.json](./28845-color-cube-spin.json) |
