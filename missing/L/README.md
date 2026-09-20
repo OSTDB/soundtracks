@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Lap Heroes | 211279 | [211279-last-lap-heroes.json](./211279-last-lap-heroes.json) |
 | Last Laugh | 337191 | [337191-last-laugh.json](./337191-last-laugh.json) |
 | Last Legion UX | 3534 | [3534-last-legion-ux.json](./3534-last-legion-ux.json) |
+| Last Line VR: A Zombie Defense Game | 119588 | [119588-last-line-vr-a-zombie-defense-game.json](./119588-last-line-vr-a-zombie-defense-game.json) |
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
 | Last Mage Standing | 30008 | [30008-last-mage-standing.json](./30008-last-mage-standing.json) |
 | Last Man | 273462 | [273462-last-man.json](./273462-last-man.json) |
@@ -1024,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO The Hobbit: The Battle Pack | 168773 | [168773-lego-the-hobbit-the-battle-pack.json](./168773-lego-the-hobbit-the-battle-pack.json) |
 | LEGO The Hobbit: The Big Little Character Pack | 168772 | [168772-lego-the-hobbit-the-big-little-character-pack.json](./168772-lego-the-hobbit-the-big-little-character-pack.json) |
 | LEGO The Lord of the Rings: Toy Edition | 139957 | [139957-lego-the-lord-of-the-rings-toy-edition.json](./139957-lego-the-lord-of-the-rings-toy-edition.json) |
+| LEGO Tower | 119579 | [119579-lego-tower.json](./119579-lego-tower.json) |
 | LEGO World Builder 2 | 243690 | [243690-lego-world-builder-2.json](./243690-lego-world-builder-2.json) |
 | LEGO World Soccer | 273982 | [273982-lego-world-soccer.json](./273982-lego-world-soccer.json) |
 | Lego Worlds Showcase Collection #1 | 255377 | [255377-lego-worlds-showcase-collection-1.json](./255377-lego-worlds-showcase-collection-1.json) |
