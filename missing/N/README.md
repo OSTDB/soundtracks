@@ -1188,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NextRev: Eibunpou Tettei Tokkun | 64944 | [64944-nextrev-eibunpou-tettei-tokkun.json](./64944-nextrev-eibunpou-tettei-tokkun.json) |
 | NextRev: FP Ginoukentei Shiken 2-Kyuu | 64941 | [64941-nextrev-fp-ginoukentei-shiken-2-kyuu.json](./64941-nextrev-fp-ginoukentei-shiken-2-kyuu.json) |
 | NextRev: FP Ginoukentei Shiken 3-Kyuu | 64940 | [64940-nextrev-fp-ginoukentei-shiken-3-kyuu.json](./64940-nextrev-fp-ginoukentei-shiken-3-kyuu.json) |
+| NextRev: Gyouseishoshi Shiken | 65198 | [65198-nextrev-gyouseishoshi-shiken.json](./65198-nextrev-gyouseishoshi-shiken.json) |
 | NextRev: IT Passport Shiken | 64945 | [64945-nextrev-it-passport-shiken.json](./64945-nextrev-it-passport-shiken.json) |
 | NextRev: Kihonjouhou Gijutsusha Shiken | 64942 | [64942-nextrev-kihonjouhou-gijutsusha-shiken.json](./64942-nextrev-kihonjouhou-gijutsusha-shiken.json) |
 | NextRev: Ouyou Jouhougijutsusha Shiken | 64943 | [64943-nextrev-ouyou-jouhougijutsusha-shiken.json](./64943-nextrev-ouyou-jouhougijutsusha-shiken.json) |
