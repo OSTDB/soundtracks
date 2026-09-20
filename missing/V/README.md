@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varooom 3D | 181877 | [181877-varooom-3d.json](./181877-varooom-3d.json) |
 | Varsapura | 378268 | [378268-varsapura.json](./378268-varsapura.json) |
 | Varyznex | 329154 | [329154-varyznex.json](./329154-varyznex.json) |
+| Vasilis | 113489 | [113489-vasilis.json](./113489-vasilis.json) |
 | Vasilisa the Beautiful | 360566 | [360566-vasilisa-the-beautiful.json](./360566-vasilisa-the-beautiful.json) |
 | Vast | 116103 | [116103-vast.json](./116103-vast.json) |
 | Vast Haven-1 VR | 350495 | [350495-vast-haven-1-vr.json](./350495-vast-haven-1-vr.json) |
@@ -995,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice of the Wizard by Brett Farkas | 221179 | [221179-voice-of-the-wizard-by-brett-farkas.json](./221179-voice-of-the-wizard-by-brett-farkas.json) |
 | Voice over | 224746 | [224746-voice-over.json](./224746-voice-over.json) |
 | Voices of a Hidden Star | 183530 | [183530-voices-of-a-hidden-star.json](./183530-voices-of-a-hidden-star.json) |
+| Void | 113487 | [113487-void.json](./113487-void.json) |
 | Void | 202343 | [202343-void.json](./202343-void.json) |
 | Void | 237506 | [237506-void.json](./237506-void.json) |
 | Void | 252369 | [252369-void.json](./252369-void.json) |
@@ -1140,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Printer | 164890 | [164890-voxel-printer.json](./164890-voxel-printer.json) |
 | Voxel Scavenger | 124240 | [124240-voxel-scavenger.json](./124240-voxel-scavenger.json) |
 | Voxel Shooter | 406110 | [406110-voxel-shooter.json](./406110-voxel-shooter.json) |
+| Voxel Sword | 113513 | [113513-voxel-sword.json](./113513-voxel-sword.json) |
 | Voxel World | 312559 | [312559-voxel-world.json](./312559-voxel-world.json) |
 | Voxel World | 88247 | [88247-voxel-world.json](./88247-voxel-world.json) |
 | Voxelaxy | 51967 | [51967-voxelaxy.json](./51967-voxelaxy.json) |
