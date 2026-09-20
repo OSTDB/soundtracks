@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orava | 377071 | [377071-orava.json](./377071-orava.json) |
 | Oraxum Trials | 192331 | [192331-oraxum-trials.json](./192331-oraxum-trials.json) |
 | Orb Boy | 180184 | [180184-orb-boy.json](./180184-orb-boy.json) |
+| Orb Flo | 68325 | [68325-orb-flo.json](./68325-orb-flo.json) |
 | Orb of Creation | 182972 | [182972-orb-of-creation.json](./182972-orb-of-creation.json) |
 | Orb of Millean | 301440 | [301440-orb-of-millean.json](./301440-orb-of-millean.json) |
 | Orb Of The Watcher | 285969 | [285969-orb-of-the-watcher.json](./285969-orb-of-the-watcher.json) |
