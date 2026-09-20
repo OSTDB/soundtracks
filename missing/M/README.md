@@ -1700,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mat Hoffman's Pro BMX | 3994 | [3994-mat-hoffmans-pro-bmx.json](./3994-mat-hoffmans-pro-bmx.json) |
 | Mata Hari | 27853 | [27853-mata-hari.json](./27853-mata-hari.json) |
 | Mata Hari | 74309 | [74309-mata-hari.json](./74309-mata-hari.json) |
+| Mata Nui Online Game | 80240 | [80240-mata-nui-online-game.json](./80240-mata-nui-online-game.json) |
 | Mata Nui Online Game II: The Final Chronicle | 125378 | [125378-mata-nui-online-game-ii-the-final-chronicle.json](./125378-mata-nui-online-game-ii-the-final-chronicle.json) |
 | Mata Yume no Naka de | 205239 | [205239-mata-yume-no-naka-de.json](./205239-mata-yume-no-naka-de.json) |
 | Mata, Itsuka. | 201309 | [201309-mata-itsuka.json](./201309-mata-itsuka.json) |
@@ -4912,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Spa Center Simulator | 353974 | [353974-monster-spa-center-simulator.json](./353974-monster-spa-center-simulator.json) |
 | Monster Squad | 311649 | [311649-monster-squad.json](./311649-monster-squad.json) |
 | Monster Squad Rush | 208968 | [208968-monster-squad-rush.json](./208968-monster-squad-rush.json) |
+| Monster Super League | 80238 | [80238-monster-super-league.json](./80238-monster-super-league.json) |
 | Monster Survivors | 246626 | [246626-monster-survivors.json](./246626-monster-survivors.json) |
 | Monster Sweetie | 232173 | [232173-monster-sweetie.json](./232173-monster-sweetie.json) |
 | Monster Tamer | 190233 | [190233-monster-tamer.json](./190233-monster-tamer.json) |
@@ -5828,6 +5830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munasawagi no Season | 246104 | [246104-munasawagi-no-season.json](./246104-munasawagi-no-season.json) |
 | Munch Mobile | 40204 | [40204-munch-mobile.json](./40204-munch-mobile.json) |
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
+| Muncher | 80219 | [80219-muncher.json](./80219-muncher.json) |
 | Munchkin: Quacked Quest | 110314 | [110314-munchkin-quacked-quest.json](./110314-munchkin-quacked-quest.json) |
 | Munchyman | 98234 | [98234-munchyman.json](./98234-munchyman.json) |
 | Mundial de Fútbol | 86008 | [86008-mundial-de-futbol.json](./86008-mundial-de-futbol.json) |
@@ -5950,6 +5953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushihimesama | 152398 | [152398-mushihimesama.json](./152398-mushihimesama.json) |
 | Mushihimesama Bug Panic | 66101 | [66101-mushihimesama-bug-panic.json](./66101-mushihimesama-bug-panic.json) |
 | Mushihimesama Ver 1.5 | 65500 | [65500-mushihimesama-ver-1-5.json](./65500-mushihimesama-ver-1-5.json) |
+| Mushiking: King of the Beetles | 80223 | [80223-mushiking-king-of-the-beetles.json](./80223-mushiking-king-of-the-beetles.json) |
 | Mushroom Card RPG | 219818 | [219818-mushroom-card-rpg.json](./219818-mushroom-card-rpg.json) |
 | Mushroom Forest | 382881 | [382881-mushroom-forest.json](./382881-mushroom-forest.json) |
 | Mushroom Heaven | 202807 | [202807-mushroom-heaven.json](./202807-mushroom-heaven.json) |
