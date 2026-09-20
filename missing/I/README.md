@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Age: Continental Drift | 282576 | [282576-ice-age-continental-drift.json](./282576-ice-age-continental-drift.json) |
 | Ice Age: Continental Drift - Arctic Games | 20002 | [20002-ice-age-continental-drift-arctic-games.json](./20002-ice-age-continental-drift-arctic-games.json) |
 | Ice Age: The DVD Game | 364525 | [364525-ice-age-the-dvd-game.json](./364525-ice-age-the-dvd-game.json) |
+| Ice Agent | 110771 | [110771-ice-agent.json](./110771-ice-agent.json) |
 | Ice and Fire | 22623 | [22623-ice-and-fire.json](./22623-ice-and-fire.json) |
 | Ice and Fire | 232712 | [232712-ice-and-fire.json](./232712-ice-and-fire.json) |
 | Ice and Fire: The Wizards | 72610 | [72610-ice-and-fire-the-wizards.json](./72610-ice-and-fire-the-wizards.json) |
@@ -1786,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Age | 192943 | [192943-iron-age.json](./192943-iron-age.json) |
 | Iron Armada | 29711 | [29711-iron-armada.json](./29711-iron-armada.json) |
 | Iron Armor Storm | 252220 | [252220-iron-armor-storm.json](./252220-iron-armor-storm.json) |
+| Iron Ascension | 110777 | [110777-iron-ascension.json](./110777-iron-ascension.json) |
 | Iron Assault | 142247 | [142247-iron-assault.json](./142247-iron-assault.json) |
 | Iron Ball Ride | 174184 | [174184-iron-ball-ride.json](./174184-iron-ball-ride.json) |
 | Iron Bramble | 401010 | [401010-iron-bramble.json](./401010-iron-bramble.json) |
@@ -2062,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Christmas Bundle! | 234307 | [234307-its-christmas-bundle.json](./234307-its-christmas-bundle.json) |
 | It's Dungeon Time! | 172748 | [172748-its-dungeon-time.json](./172748-its-dungeon-time.json) |
 | It's Full of Stars | 204098 | [204098-its-full-of-stars.json](./204098-its-full-of-stars.json) |
+| It's good to be a pirate | 110780 | [110780-its-good-to-be-a-pirate.json](./110780-its-good-to-be-a-pirate.json) |
 | It's Happening Again. | 241482 | [241482-its-happening-again.json](./241482-its-happening-again.json) |
 | It's Hard Being a Meatball | 132808 | [132808-its-hard-being-a-meatball.json](./132808-its-hard-being-a-meatball.json) |
 | It's Literally Just Mowing | 210675 | [210675-its-literally-just-mowing.json](./210675-its-literally-just-mowing.json) |
