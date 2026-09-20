@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labarynth of Legendary Loot | 143044 | [143044-labarynth-of-legendary-loot.json](./143044-labarynth-of-legendary-loot.json) |
 | Labhorror | 414405 | [414405-labhorror.json](./414405-labhorror.json) |
 | Lablue Horror | 411048 | [411048-lablue-horror.json](./411048-lablue-horror.json) |
+| Labo Halloween Car | 91095 | [91095-labo-halloween-car.json](./91095-labo-halloween-car.json) |
 | Labor Rights Funeral in Ukraine | 379962 | [379962-labor-rights-funeral-in-ukraine.json](./379962-labor-rights-funeral-in-ukraine.json) |
 | Laboratory X-29 | 258550 | [258550-laboratory-x-29.json](./258550-laboratory-x-29.json) |
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
