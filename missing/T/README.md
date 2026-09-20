@@ -1839,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alfonzone | 256890 | [256890-the-alfonzone.json](./256890-the-alfonzone.json) |
 | The Alien Trials | 149578 | [149578-the-alien-trials.json](./149578-the-alien-trials.json) |
 | The Alliance Alive HD Remastered | 115989 | [115989-the-alliance-alive-hd-remastered.json](./115989-the-alliance-alive-hd-remastered.json) |
+| The Almost Heaven Crisis | 124040 | [124040-the-almost-heaven-crisis.json](./124040-the-almost-heaven-crisis.json) |
 | The Alpha 001 | 168369 | [168369-the-alpha-001.json](./168369-the-alpha-001.json) |
 | The Alpha Wolf | 244258 | [244258-the-alpha-wolf.json](./244258-the-alpha-wolf.json) |
 | The Alpine Encounter | 12252 | [12252-the-alpine-encounter.json](./12252-the-alpine-encounter.json) |
@@ -3891,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Chosen Blood | 285608 | [285608-the-legend-of-chosen-blood.json](./285608-the-legend-of-chosen-blood.json) |
 | The Legend of Cube | 227858 | [227858-the-legend-of-cube.json](./227858-the-legend-of-cube.json) |
 | The Legend of Dragoon | 239182 | [239182-the-legend-of-dragoon.json](./239182-the-legend-of-dragoon.json) |
+| The Legend of Edgar | 124032 | [124032-the-legend-of-edgar.json](./124032-the-legend-of-edgar.json) |
 | The Legend of Eight Dragons | 145653 | [145653-the-legend-of-eight-dragons.json](./145653-the-legend-of-eight-dragons.json) |
 | The Legend of Eldridge Scrolls: Woop | 130921 | [130921-the-legend-of-eldridge-scrolls-woop.json](./130921-the-legend-of-eldridge-scrolls-woop.json) |
 | The Legend of Elrian | 290002 | [290002-the-legend-of-elrian.json](./290002-the-legend-of-elrian.json) |
@@ -8261,6 +8263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Tuberz | 373074 | [373074-totally-tuberz.json](./373074-totally-tuberz.json) |
 | Totally Unbalanced | 32402 | [32402-totally-unbalanced.json](./32402-totally-unbalanced.json) |
 | Tôtem | 133974 | [133974-totem.json](./133974-totem.json) |
+| Totem City | 124017 | [124017-totem-city.json](./124017-totem-city.json) |
 | Totem Runner | 64391 | [64391-totem-runner.json](./64391-totem-runner.json) |
 | Totem Tribe | 9113 | [9113-totem-tribe.json](./9113-totem-tribe.json) |
 | Totem Tribe Gold | 88100 | [88100-totem-tribe-gold.json](./88100-totem-tribe-gold.json) |
@@ -9041,6 +9044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Valley: Germany | 154507 | [154507-train-valley-germany.json](./154507-train-valley-germany.json) |
 | Train World | 225179 | [225179-train-world.json](./225179-train-world.json) |
 | Train Your Brain | 234050 | [234050-train-your-brain.json](./234050-train-your-brain.json) |
+| Train Your Brain: Nintendo Switch Training for Adults | 124043 | [124043-train-your-brain-nintendo-switch-training-for-adults.json](./124043-train-your-brain-nintendo-switch-training-for-adults.json) |
 | Train Your Brain! Spot the Difference with Dog Photos | 300842 | [300842-train-your-brain-spot-the-difference-with-dog-photos.json](./300842-train-your-brain-spot-the-difference-with-dog-photos.json) |
 | Train Your Brain! Spot the Difference With Space Photos | 385070 | [385070-train-your-brain-spot-the-difference-with-space-photos.json](./385070-train-your-brain-spot-the-difference-with-space-photos.json) |
 | Train'em | 163971 | [163971-trainem.json](./163971-trainem.json) |
