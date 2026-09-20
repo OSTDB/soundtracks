@@ -2331,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Minis: Volume 1 | 45998 | [45998-mega-minis-volume-1.json](./45998-mega-minis-volume-1.json) |
 | Mega Minis: Volume 2 | 45997 | [45997-mega-minis-volume-2.json](./45997-mega-minis-volume-2.json) |
 | Mega Minis: Volume 3 | 45996 | [45996-mega-minis-volume-3.json](./45996-mega-minis-volume-3.json) |
+| Mega Miracle Force | 114784 | [114784-mega-miracle-force.json](./114784-mega-miracle-force.json) |
 | Mega Pony | 39604 | [39604-mega-pony.json](./39604-mega-pony.json) |
 | Mega Punchy Golf | 120935 | [120935-mega-punchy-golf.json](./120935-mega-punchy-golf.json) |
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
