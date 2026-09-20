@@ -1772,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunai Master | 224024 | [224024-kunai-master.json](./224024-kunai-master.json) |
 | Kunai Strike | 203557 | [203557-kunai-strike.json](./203557-kunai-strike.json) |
 | Kung Fu Chess | 180198 | [180198-kung-fu-chess.json](./180198-kung-fu-chess.json) |
+| Kung Fu Clicker | 106983 | [106983-kung-fu-clicker.json](./106983-kung-fu-clicker.json) |
 | Kung Fu Do Fighting | 58798 | [58798-kung-fu-do-fighting.json](./58798-kung-fu-do-fighting.json) |
 | Kung Fu Duel | 336930 | [336930-kung-fu-duel.json](./336930-kung-fu-duel.json) |
 | Kung Fu Fearsome Fists | 333947 | [333947-kung-fu-fearsome-fists.json](./333947-kung-fu-fearsome-fists.json) |
