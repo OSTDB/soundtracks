@@ -1901,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef RPG | 191154 | [191154-chef-rpg.json](./191154-chef-rpg.json) |
 | Chef Wanted | 232665 | [232665-chef-wanted.json](./232665-chef-wanted.json) |
 | Chef Wars | 102115 | [102115-chef-wars.json](./102115-chef-wars.json) |
+| Chef Yummy | 106366 | [106366-chef-yummy.json](./106366-chef-yummy.json) |
 | Chef: Cocktails & Drinks | 249198 | [249198-chef-cocktails-and-drinks.json](./249198-chef-cocktails-and-drinks.json) |
 | Chef's Tail | 144247 | [144247-chefs-tail.json](./144247-chefs-tail.json) |
 | Chefcito Asesino | 298694 | [298694-chefcito-asesino.json](./298694-chefcito-asesino.json) |
@@ -2219,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chipmonk! | 114947 | [114947-chipmonk.json](./114947-chipmonk.json) |
 | Chipper & Sons Lumber Co. | 59984 | [59984-chipper-and-sons-lumber-co.json](./59984-chipper-and-sons-lumber-co.json) |
 | Chippy & Noppo | 240228 | [240228-chippy-and-noppo.json](./240228-chippy-and-noppo.json) |
+| Chiptune DJ | 106409 | [106409-chiptune-dj.json](./106409-chiptune-dj.json) |
 | Chiral | 309855 | [309855-chiral.json](./309855-chiral.json) |
 | Chiralmori | 287634 | [287634-chiralmori.json](./287634-chiralmori.json) |
 | Chirashiiru | 325444 | [325444-chirashiiru.json](./325444-chirashiiru.json) |
@@ -4243,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooked with Love | 177507 | [177507-cooked-with-love.json](./177507-cooked-with-love.json) |
 | Cookey Shop | 145581 | [145581-cookey-shop.json](./145581-cookey-shop.json) |
 | Cookie & Bibi 3 | 39643 | [39643-cookie-and-bibi-3.json](./39643-cookie-and-bibi-3.json) |
+| Cookie Baker | 106361 | [106361-cookie-baker.json](./106361-cookie-baker.json) |
 | Cookie Game | 266299 | [266299-cookie-game.json](./266299-cookie-game.json) |
 | Cookie Match: Enhanced Edition | 232451 | [232451-cookie-match-enhanced-edition.json](./232451-cookie-match-enhanced-edition.json) |
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
@@ -4444,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosa Nostra | 39108 | [39108-cosa-nostra.json](./39108-cosa-nostra.json) |
 | Cosmetic Paradise: Kirei no Mahou | 130393 | [130393-cosmetic-paradise-kirei-no-mahou.json](./130393-cosmetic-paradise-kirei-no-mahou.json) |
 | Cosmetic Paradise: Princess Life | 130392 | [130392-cosmetic-paradise-princess-life.json](./130392-cosmetic-paradise-princess-life.json) |
+| Cosmi-Cave 64 | 106414 | [106414-cosmi-cave-64.json](./106414-cosmi-cave-64.json) |
 | Cosmic Badger | 197746 | [197746-cosmic-badger.json](./197746-cosmic-badger.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
 | Cosmic Break | 80556 | [80556-cosmic-break.json](./80556-cosmic-break.json) |
@@ -4788,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Elements | 126577 | [126577-craft-elements.json](./126577-craft-elements.json) |
 | Craft Jam | 176416 | [176416-craft-jam.json](./176416-craft-jam.json) |
 | Craft Legend | 124631 | [124631-craft-legend.json](./124631-craft-legend.json) |
+| Craft Shooting - Battle Royale | 106368 | [106368-craft-shooting-battle-royale.json](./106368-craft-shooting-battle-royale.json) |
 | Craft the Mapcrafter: Gathering Magic Words | 151676 | [151676-craft-the-mapcrafter-gathering-magic-words.json](./151676-craft-the-mapcrafter-gathering-magic-words.json) |
 | Craft the World: Heart of Evil | 154959 | [154959-craft-the-world-heart-of-evil.json](./154959-craft-the-world-heart-of-evil.json) |
 | Craft The World: Invasion | 286536 | [286536-craft-the-world-invasion.json](./286536-craft-the-world-invasion.json) |
@@ -4917,6 +4922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Food | 378793 | [378793-crayon-food.json](./378793-crayon-food.json) |
 | Crayon Pairs | 105945 | [105945-crayon-pairs.json](./105945-crayon-pairs.json) |
 | Crayon Physics | 70935 | [70935-crayon-physics.json](./70935-crayon-physics.json) |
+| Crayon Run | 106365 | [106365-crayon-run.json](./106365-crayon-run.json) |
 | Crayon Sea Friends | 399629 | [399629-crayon-sea-friends.json](./399629-crayon-sea-friends.json) |
 | Crayon Shin Chan: The Storm Called! Flaming Kasukabe Runner!! | 130760 | [130760-crayon-shin-chan-the-storm-called-flaming-kasukabe-runner.json](./130760-crayon-shin-chan-the-storm-called-flaming-kasukabe-runner.json) |
 | Crayon Shin-Chan Shokkugan! Densetsu o Yobu Omake Daiketsusen!! | 269681 | [269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json](./269681-crayon-shin-chan-shokkugan-densetsu-o-yobu-omake-daiketsusen.json) |
@@ -4963,6 +4969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Farm 2 | 120354 | [120354-crazy-farm-2.json](./120354-crazy-farm-2.json) |
 | Crazy Flasher 3 | 62165 | [62165-crazy-flasher-3.json](./62165-crazy-flasher-3.json) |
 | Crazy Flasher Series 2021 | 157146 | [157146-crazy-flasher-series-2021.json](./157146-crazy-flasher-series-2021.json) |
+| Crazy Fluffy Slime Maker | 106369 | [106369-crazy-fluffy-slime-maker.json](./106369-crazy-fluffy-slime-maker.json) |
 | Crazy for Speed 2 | 105872 | [105872-crazy-for-speed-2.json](./105872-crazy-for-speed-2.json) |
 | Crazy Forest 2 | 111684 | [111684-crazy-forest-2.json](./111684-crazy-forest-2.json) |
 | Crazy Frog Collectables: Art School | 140549 | [140549-crazy-frog-collectables-art-school.json](./140549-crazy-frog-collectables-art-school.json) |
