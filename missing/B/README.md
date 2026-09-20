@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Life | 11822 | [11822-beach-life.json](./11822-beach-life.json) |
 | Beach Life Simulator | 371247 | [371247-beach-life-simulator.json](./371247-beach-life-simulator.json) |
 | Beach Pong | 109736 | [109736-beach-pong.json](./109736-beach-pong.json) |
+| Beach Rules | 81784 | [81784-beach-rules.json](./81784-beach-rules.json) |
 | Beach Secrets | 312172 | [312172-beach-secrets.json](./312172-beach-secrets.json) |
 | Beach-Head | 8526 | [8526-beach-head.json](./8526-beach-head.json) |
 | Beachcomber | 333945 | [333945-beachcomber.json](./333945-beachcomber.json) |
@@ -2407,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiards Dungeon | 149079 | [149079-billiards-dungeon.json](./149079-billiards-dungeon.json) |
 | Billiards II Simulator | 14305 | [14305-billiards-ii-simulator.json](./14305-billiards-ii-simulator.json) |
 | Billiards Simulator | 14304 | [14304-billiards-simulator.json](./14304-billiards-simulator.json) |
+| Billiards Wizards | 81752 | [81752-billiards-wizards.json](./81752-billiards-wizards.json) |
 | Billiards Xciting | 78000 | [78000-billiards-xciting.json](./78000-billiards-xciting.json) |
 | Billion | 402385 | [402385-billion.json](./402385-billion.json) |
 | Billion Bounces | 382334 | [382334-billion-bounces.json](./382334-billion-bounces.json) |
