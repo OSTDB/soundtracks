@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic at Multiverse High! | 31660 | [31660-panic-at-multiverse-high.json](./31660-panic-at-multiverse-high.json) |
 | Panic Attack | 163845 | [163845-panic-attack.json](./163845-panic-attack.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
+| Panic Button | 71230 | [71230-panic-button.json](./71230-panic-button.json) |
 | Panic Crew | 390672 | [390672-panic-crew.json](./390672-panic-crew.json) |
 | Panic Crisis Mage Attack | 128636 | [128636-panic-crisis-mage-attack.json](./128636-panic-crisis-mage-attack.json) |
 | Panic in the Park | 69251 | [69251-panic-in-the-park.json](./69251-panic-in-the-park.json) |
@@ -1200,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaky Blinders VR | 117742 | [117742-peaky-blinders-vr.json](./117742-peaky-blinders-vr.json) |
 | Peaky Circus | 211819 | [211819-peaky-circus.json](./211819-peaky-circus.json) |
 | Peanut Butter Panic | 73277 | [73277-peanut-butter-panic.json](./73277-peanut-butter-panic.json) |
+| Peanuts: It's the Big Game, Charlie Brown! | 71226 | [71226-peanuts-its-the-big-game-charlie-brown.json](./71226-peanuts-its-the-big-game-charlie-brown.json) |
 | Pear Quest | 129562 | [129562-pear-quest.json](./129562-pear-quest.json) |
 | Pearl Fishery: Quest for the Mega Pearl | 296372 | [296372-pearl-fishery-quest-for-the-mega-pearl.json](./296372-pearl-fishery-quest-for-the-mega-pearl.json) |
 | Pearl Harbor: Strike at Dawn | 138007 | [138007-pearl-harbor-strike-at-dawn.json](./138007-pearl-harbor-strike-at-dawn.json) |
@@ -2069,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilgrim | 229788 | [229788-pilgrim.json](./229788-pilgrim.json) |
 | Pilgrim | 301813 | [301813-pilgrim.json](./301813-pilgrim.json) |
 | Pilgrim of Darkness | 346145 | [346145-pilgrim-of-darkness.json](./346145-pilgrim-of-darkness.json) |
+| Pilgrim: Faith as a Weapon | 71229 | [71229-pilgrim-faith-as-a-weapon.json](./71229-pilgrim-faith-as-a-weapon.json) |
 | Pilki Filki 2 | 99987 | [99987-pilki-filki-2.json](./99987-pilki-filki-2.json) |
 | Pill Cosbi | 74359 | [74359-pill-cosbi.json](./74359-pill-cosbi.json) |
 | Pill Fight | 345017 | [345017-pill-fight.json](./345017-pill-fight.json) |
@@ -2208,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball M: Dead by Daylight Pinball | 278536 | [278536-pinball-m-dead-by-daylight-pinball.json](./278536-pinball-m-dead-by-daylight-pinball.json) |
 | Pinball M: Duke Nukem's Big Shot Pinball | 276743 | [276743-pinball-m-duke-nukems-big-shot-pinball.json](./276743-pinball-m-duke-nukems-big-shot-pinball.json) |
 | Pinball M: The Thing Pinball | 278535 | [278535-pinball-m-the-thing-pinball.json](./278535-pinball-m-the-thing-pinball.json) |
+| Pinball Madness 2 | 71225 | [71225-pinball-madness-2.json](./71225-pinball-madness-2.json) |
 | Pinball Parlor | 31684 | [31684-pinball-parlor.json](./31684-pinball-parlor.json) |
 | Pinball Prelude | 15564 | [15564-pinball-prelude.json](./15564-pinball-prelude.json) |
 | Pinball Pulse: The Ancients Beckon | 67355 | [67355-pinball-pulse-the-ancients-beckon.json](./67355-pinball-pulse-the-ancients-beckon.json) |
