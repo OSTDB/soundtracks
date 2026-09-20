@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P-Kara | 59365 | [59365-p-kara.json](./59365-p-kara.json) |
 | P-Robots | 93029 | [93029-p-robots.json](./93029-p-robots.json) |
 | P.A.W.S.: Personal Automated Wagging System | 46573 | [46573-p-a-w-s-personal-automated-wagging-system.json](./46573-p-a-w-s-personal-automated-wagging-system.json) |
+| P.C. Fuzz | 92821 | [92821-p-c-fuzz.json](./92821-p-c-fuzz.json) |
 | P.I. Al Luminum: Haunted House | 325635 | [325635-p-i-al-luminum-haunted-house.json](./325635-p-i-al-luminum-haunted-house.json) |
 | P.I.S. | 382221 | [382221-p-i-s.json](./382221-p-i-s.json) |
 | P.M.P. Project Murder Party | 176911 | [176911-p-m-p-project-murder-party.json](./176911-p-m-p-project-murder-party.json) |
@@ -3766,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popsicle Stack | 223983 | [223983-popsicle-stack.json](./223983-popsicle-stack.json) |
 | PopSlinger Vol. 1 & 2: Loveless Series Bundle | 328492 | [328492-popslinger-vol-1-and-2-loveless-series-bundle.json](./328492-popslinger-vol-1-and-2-loveless-series-bundle.json) |
 | PopSlinger vol. 2: Loveless | 319397 | [319397-popslinger-vol-2-loveless.json](./319397-popslinger-vol-2-loveless.json) |
+| Popstars | 92843 | [92843-popstars.json](./92843-popstars.json) |
 | Poptile | 214620 | [214620-poptile.json](./214620-poptile.json) |
 | Poptropica Worlds | 103523 | [103523-poptropica-worlds.json](./103523-poptropica-worlds.json) |
 | Popucom x Arknights Collab Outfit Pack | 378876 | [378876-popucom-x-arknights-collab-outfit-pack.json](./378876-popucom-x-arknights-collab-outfit-pack.json) |
