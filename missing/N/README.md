@@ -1390,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of Wolves | 257968 | [257968-night-of-wolves.json](./257968-night-of-wolves.json) |
 | Night Poetry | 264669 | [264669-night-poetry.json](./264669-night-poetry.json) |
 | Night Pump | 399005 | [399005-night-pump.json](./399005-night-pump.json) |
+| Night Raid | 80867 | [80867-night-raid.json](./80867-night-raid.json) |
 | Night Ranger | 388213 | [388213-night-ranger.json](./388213-night-ranger.json) |
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
 | Night Run | 295905 | [295905-night-run.json](./295905-night-run.json) |
