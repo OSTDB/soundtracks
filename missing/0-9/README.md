@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Morpion | 324513 | [324513-3d-morpion.json](./324513-3d-morpion.json) |
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
 | 3D Pinball Express | 97104 | [97104-3d-pinball-express.json](./97104-3d-pinball-express.json) |
+| 3D Pitfall | 92859 | [92859-3d-pitfall.json](./92859-3d-pitfall.json) |
 | 3D Pool Game | 88273 | [88273-3d-pool-game.json](./88273-3d-pool-game.json) |
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
 | 3D Puzzle: Abandoned Prison | 308949 | [308949-3d-puzzle-abandoned-prison.json](./308949-3d-puzzle-abandoned-prison.json) |
