@@ -1994,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Dust | 271737 | [271737-return-to-dust.json](./271737-return-to-dust.json) |
 | Return to Earth 2130 | 157182 | [157182-return-to-earth-2130.json](./157182-return-to-earth-2130.json) |
 | Return to Grisly Manor | 88046 | [88046-return-to-grisly-manor.json](./88046-return-to-grisly-manor.json) |
+| Return to Kroz | 71789 | [71789-return-to-kroz.json](./71789-return-to-kroz.json) |
 | Return to Long Shadows | 406091 | [406091-return-to-long-shadows.json](./406091-return-to-long-shadows.json) |
 | Return to Mysterious Island | 17052 | [17052-return-to-mysterious-island.json](./17052-return-to-mysterious-island.json) |
 | Return to Nangrim | 116280 | [116280-return-to-nangrim.json](./116280-return-to-nangrim.json) |
@@ -2350,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riding Rhodri | 51164 | [51164-riding-rhodri.json](./51164-riding-rhodri.json) |
 | Riding Spirits | 23761 | [23761-riding-spirits.json](./23761-riding-spirits.json) |
 | Riding Stables 3D | 84840 | [84840-riding-stables-3d.json](./84840-riding-stables-3d.json) |
+| Riding Star | 71780 | [71780-riding-star.json](./71780-riding-star.json) |
 | Riding Star 3D: Champion in Sattle | 84839 | [84839-riding-star-3d-champion-in-sattle.json](./84839-riding-star-3d-champion-in-sattle.json) |
 | Riding the Wave | 318387 | [318387-riding-the-wave.json](./318387-riding-the-wave.json) |
 | Riding to Bounce City | 215922 | [215922-riding-to-bounce-city.json](./215922-riding-to-bounce-city.json) |
