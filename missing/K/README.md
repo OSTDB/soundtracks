@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinnikuman II: Tatakae! Ramenman | 346032 | [346032-kinnikuman-ii-tatakae-ramenman.json](./346032-kinnikuman-ii-tatakae-ramenman.json) |
 | Kinnikuman III: Ougon no Mask-hen | 346034 | [346034-kinnikuman-iii-ougon-no-mask-hen.json](./346034-kinnikuman-iii-ougon-no-mask-hen.json) |
 | Kinnikuman Muscle Grand Prix Max | 66662 | [66662-kinnikuman-muscle-grand-prix-max.json](./66662-kinnikuman-muscle-grand-prix-max.json) |
+| Kinnikuman: Colosseum Deathmatch | 71803 | [71803-kinnikuman-colosseum-deathmatch.json](./71803-kinnikuman-colosseum-deathmatch.json) |
 | Kinnikuman: Kinniku-sei Oui Soudatsusen | 41324 | [41324-kinnikuman-kinniku-sei-oui-soudatsusen.json](./41324-kinnikuman-kinniku-sei-oui-soudatsusen.json) |
 | Kinnikuman: Sakuretsu! Muscle Power | 346022 | [346022-kinnikuman-sakuretsu-muscle-power.json](./346022-kinnikuman-sakuretsu-muscle-power.json) |
 | Kinnikuman: Taiketsu Akuma Choujin | 346033 | [346033-kinnikuman-taiketsu-akuma-choujin.json](./346033-kinnikuman-taiketsu-akuma-choujin.json) |
@@ -1335,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kleptomaniacs | 348807 | [348807-kleptomaniacs.json](./348807-kleptomaniacs.json) |
 | Kleu's music | 138797 | [138797-kleus-music.json](./138797-kleus-music.json) |
 | Klikwerk | 225282 | [225282-klikwerk.json](./225282-klikwerk.json) |
+| Klinok Doblesti 2 | 71791 | [71791-klinok-doblesti-2.json](./71791-klinok-doblesti-2.json) |
 | Klitorax | 221173 | [221173-klitorax.json](./221173-klitorax.json) |
 | Klondike | 281555 | [281555-klondike.json](./281555-klondike.json) |
 | Klondike Re-Imagined | 170940 | [170940-klondike-re-imagined.json](./170940-klondike-re-imagined.json) |
