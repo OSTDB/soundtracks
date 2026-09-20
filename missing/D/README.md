@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCF Universe Triple Trouble Bundle | 338026 | [338026-dcf-universe-triple-trouble-bundle.json](./338026-dcf-universe-triple-trouble-bundle.json) |
 | DCKO | 410955 | [410955-dcko.json](./410955-dcko.json) |
 | DCop | 270117 | [270117-dcop.json](./270117-dcop.json) |
+| DCR: Drive.Crash.Repeat | 108296 | [108296-dcr-drive-crash-repeat.json](./108296-dcr-drive-crash-repeat.json) |
 | DCS World: AH-64D Outpost Campaign by Stone Sky | 324898 | [324898-dcs-world-ah-64d-outpost-campaign-by-stone-sky.json](./324898-dcs-world-ah-64d-outpost-campaign-by-stone-sky.json) |
 | DCS World: AH-64D The Four Horsemen Campaign by Fight's On Simulations | 325110 | [325110-dcs-world-ah-64d-the-four-horsemen-campaign-by-fights-on-simulations.json](./325110-dcs-world-ah-64d-the-four-horsemen-campaign-by-fights-on-simulations.json) |
 | DCS World: AV-8B Kerman Campaign by Ground Pounder Sims | 325249 | [325249-dcs-world-av-8b-kerman-campaign-by-ground-pounder-sims.json](./325249-dcs-world-av-8b-kerman-campaign-by-ground-pounder-sims.json) |
@@ -2832,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Run | 388236 | [388236-dinosaur-run.json](./388236-dinosaur-run.json) |
 | Dinosaur Safari: Evolution | 107123 | [107123-dinosaur-safari-evolution.json](./107123-dinosaur-safari-evolution.json) |
 | Dinosaur Shakespeare: To Date Or Not To Date? - 2 Winter of our Discontent | 253975 | [253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json](./253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json) |
+| Dinosaur Stacker | 108250 | [108250-dinosaur-stacker.json](./108250-dinosaur-stacker.json) |
 | Dinosaur World | 276205 | [276205-dinosaur-world.json](./276205-dinosaur-world.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
 | Dinosaurs - Connect the Dots and Add Colors | 86725 | [86725-dinosaurs-connect-the-dots-and-add-colors.json](./86725-dinosaurs-connect-the-dots-and-add-colors.json) |
