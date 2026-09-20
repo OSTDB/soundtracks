@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screeps: World | 25903 | [25903-screeps-world.json](./25903-screeps-world.json) |
 | Screw Drivers | 305376 | [305376-screw-drivers.json](./305376-screw-drivers.json) |
 | Screw Master 3D: Pin Puzzle | 328582 | [328582-screw-master-3d-pin-puzzle.json](./328582-screw-master-3d-pin-puzzle.json) |
+| Screw-Nut | 87970 | [87970-screw-nut.json](./87970-screw-nut.json) |
 | Screwdom 3D | 332430 | [332430-screwdom-3d.json](./332430-screwdom-3d.json) |
 | Scriball | 286684 | [286684-scriball.json](./286684-scriball.json) |
 | Scribble | 262675 | [262675-scribble.json](./262675-scribble.json) |
@@ -3306,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Storm: Sentinels | 10845 | [10845-silent-storm-sentinels.json](./10845-silent-storm-sentinels.json) |
 | Silent Streets: The Mockingbird's Last Dive | 110290 | [110290-silent-streets-the-mockingbirds-last-dive.json](./110290-silent-streets-the-mockingbirds-last-dive.json) |
 | Silent Threat | 311259 | [311259-silent-threat.json](./311259-silent-threat.json) |
+| Silent Tweets | 87987 | [87987-silent-tweets.json](./87987-silent-tweets.json) |
 | Silent Whisper | 337125 | [337125-silent-whisper.json](./337125-silent-whisper.json) |
 | Silent Woods: the Cleansed | 150626 | [150626-silent-woods-the-cleansed.json](./150626-silent-woods-the-cleansed.json) |
 | Silentium 2D | 106578 | [106578-silentium-2d.json](./106578-silentium-2d.json) |
@@ -4965,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
 | So I'm a Spider, So What? Ruler of the Labyrinth | 323711 | [323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json](./323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json) |
+| So Long Grandma | 87995 | [87995-so-long-grandma.json](./87995-so-long-grandma.json) |
 | So Many Cubes | 31791 | [31791-so-many-cubes.json](./31791-so-many-cubes.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
 | So Much Stuff 2: Collector's Edition | 290425 | [290425-so-much-stuff-2-collectors-edition.json](./290425-so-much-stuff-2-collectors-edition.json) |
@@ -5838,6 +5841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer Standoff | 219590 | [219590-sorcerer-standoff.json](./219590-sorcerer-standoff.json) |
 | Sorcerer's Choice: Angel or Demon? Steam Version | 246657 | [246657-sorcerers-choice-angel-or-demon-steam-version.json](./246657-sorcerers-choice-angel-or-demon-steam-version.json) |
 | Sorcerer's Mid-month Exam | 247613 | [247613-sorcerers-mid-month-exam.json](./247613-sorcerers-mid-month-exam.json) |
+| Sorcerer's Path | 87969 | [87969-sorcerers-path.json](./87969-sorcerers-path.json) |
 | Sorcerers of Kinetics | 30824 | [30824-sorcerers-of-kinetics.json](./30824-sorcerers-of-kinetics.json) |
 | Sorceress Elisha's Hypnotized & Lent-Out Log | 98452 | [98452-sorceress-elishas-hypnotized-and-lent-out-log.json](./98452-sorceress-elishas-hypnotized-and-lent-out-log.json) |
 | Sorceress Idle | 220218 | [220218-sorceress-idle.json](./220218-sorceress-idle.json) |
@@ -6819,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spermula 1 | 131598 | [131598-spermula-1.json](./131598-spermula-1.json) |
 | SPGP Super Polygon Grand Prix | 274542 | [274542-spgp-super-polygon-grand-prix.json](./274542-spgp-super-polygon-grand-prix.json) |
 | Sphaera | 103771 | [103771-sphaera.json](./103771-sphaera.json) |
+| Sphera Turris | 87950 | [87950-sphera-turris.json](./87950-sphera-turris.json) |
 | Spherakill | 97717 | [97717-spherakill.json](./97717-spherakill.json) |
 | Sphere | 264887 | [264887-sphere.json](./264887-sphere.json) |
 | Sphere | 313887 | [313887-sphere.json](./313887-sphere.json) |
@@ -9601,6 +9606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Rush | 244517 | [244517-sun-rush.json](./244517-sun-rush.json) |
 | Sun Temple Shootout | 87697 | [87697-sun-temple-shootout.json](./87697-sun-temple-shootout.json) |
 | Sun-Rise.exe | 264612 | [264612-sun-rise-exe.json](./264612-sun-rise-exe.json) |
+| Suna | 87948 | [87948-suna.json](./87948-suna.json) |
 | Sunchaser | 322611 | [322611-sunchaser.json](./322611-sunchaser.json) |
 | Suncore Chronicles: The Tower - Level 1 | 157559 | [157559-suncore-chronicles-the-tower-level-1.json](./157559-suncore-chronicles-the-tower-level-1.json) |
 | Suncraft | 381142 | [381142-suncraft.json](./381142-suncraft.json) |
@@ -9724,6 +9730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Big 2 | 63331 | [63331-super-big-2.json](./63331-super-big-2.json) |
 | Super Big Bro Quest | 321775 | [321775-super-big-bro-quest.json](./321775-super-big-bro-quest.json) |
 | Super Birdo 64 | 300686 | [300686-super-birdo-64.json](./300686-super-birdo-64.json) |
+| Super Bit Adventure: Paragons of Life | 87977 | [87977-super-bit-adventure-paragons-of-life.json](./87977-super-bit-adventure-paragons-of-life.json) |
 | Super Bitsy Land | 181866 | [181866-super-bitsy-land.json](./181866-super-bitsy-land.json) |
 | Super Black Onyx | 48704 | [48704-super-black-onyx.json](./48704-super-black-onyx.json) |
 | Super Blasting Boy | 110977 | [110977-super-blasting-boy.json](./110977-super-blasting-boy.json) |
@@ -10555,6 +10562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sonic Cooking | 336357 | [336357-super-sonic-cooking.json](./336357-super-sonic-cooking.json) |
 | Super Sonic in Sonic 3D | 198546 | [198546-super-sonic-in-sonic-3d.json](./198546-super-sonic-in-sonic-3d.json) |
 | Super Sonic in Sonic the Hedgehog | 198527 | [198527-super-sonic-in-sonic-the-hedgehog.json](./198527-super-sonic-in-sonic-the-hedgehog.json) |
+| Super Sonic Racer | 87993 | [87993-super-sonic-racer.json](./87993-super-sonic-racer.json) |
 | Super Sonic Speed Course | 321115 | [321115-super-sonic-speed-course.json](./321115-super-sonic-speed-course.json) |
 | Super Space Arcade | 260229 | [260229-super-space-arcade.json](./260229-super-space-arcade.json) |
 | Super Space Invaders | 12859 | [12859-super-space-invaders.json](./12859-super-space-invaders.json) |
