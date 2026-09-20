@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Racing Championship | 3495 | [3495-f1-racing-championship.json](./3495-f1-racing-championship.json) |
 | F1 Racing Championship 2 | 137653 | [137653-f1-racing-championship-2.json](./137653-f1-racing-championship-2.json) |
 | F1 ROC II: Race of Champions | 42572 | [42572-f1-roc-ii-race-of-champions.json](./42572-f1-roc-ii-race-of-champions.json) |
+| F1 Super Lap | 109442 | [109442-f1-super-lap.json](./109442-f1-super-lap.json) |
 | F1 Team Simulation: Project F | 128359 | [128359-f1-team-simulation-project-f.json](./128359-f1-team-simulation-project-f.json) |
 | F1 Tornado | 300877 | [300877-f1-tornado.json](./300877-f1-tornado.json) |
 | F1: World Championship Edition | 12083 | [12083-f1-world-championship-edition.json](./12083-f1-world-championship-edition.json) |
@@ -429,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Milepost Zero | 314486 | [314486-fallout-76-milepost-zero.json](./314486-fallout-76-milepost-zero.json) |
 | Fallout 76: Platinum Edition | 111060 | [111060-fallout-76-platinum-edition.json](./111060-fallout-76-platinum-edition.json) |
 | Fallout 76: Raiders Content Bundle | 136384 | [136384-fallout-76-raiders-content-bundle.json](./136384-fallout-76-raiders-content-bundle.json) |
+| Fallout 76: S.P.E.C.I.A.L. Edition | 109485 | [109485-fallout-76-s-p-e-c-i-a-l-edition.json](./109485-fallout-76-s-p-e-c-i-a-l-edition.json) |
 | Fallout 76: Season 11 - Nuka-World | 232689 | [232689-fallout-76-season-11-nuka-world.json](./232689-fallout-76-season-11-nuka-world.json) |
 | Fallout 76: Skyline Valley | 305150 | [305150-fallout-76-skyline-valley.json](./305150-fallout-76-skyline-valley.json) |
 | Fallout 76: Steel Dawn - Deluxe Edition | 141647 | [141647-fallout-76-steel-dawn-deluxe-edition.json](./141647-fallout-76-steel-dawn-deluxe-edition.json) |
