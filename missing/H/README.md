@@ -3653,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huāngdǎo Qiúshēng | 123555 | [123555-huangdao-qiusheng.json](./123555-huangdao-qiusheng.json) |
 | Huànrèn Lù | 158155 | [158155-huanren-lu.json](./158155-huanren-lu.json) |
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
+| Huckleberry Hound in Hollywood Capers | 73530 | [73530-huckleberry-hound-in-hollywood-capers.json](./73530-huckleberry-hound-in-hollywood-capers.json) |
 | Huddam 2 Berzah | 307770 | [307770-huddam-2-berzah.json](./307770-huddam-2-berzah.json) |
 | Hudson 3D Golf | 97679 | [97679-hudson-3d-golf.json](./97679-hudson-3d-golf.json) |
 | Hudson Hawk | 18836 | [18836-hudson-hawk.json](./18836-hudson-hawk.json) |
