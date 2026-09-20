@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
 | Jack | 369658 | [369658-jack.json](./369658-jack.json) |
 | Jack & Detectives: Black Magic Expansion | 364562 | [364562-jack-and-detectives-black-magic-expansion.json](./364562-jack-and-detectives-black-magic-expansion.json) |
+| Jack & the Creepy Castle | 68923 | [68923-jack-and-the-creepy-castle.json](./68923-jack-and-the-creepy-castle.json) |
 | Jack & The Diamonds | 115457 | [115457-jack-and-the-diamonds.json](./115457-jack-and-the-diamonds.json) |
 | Jack and the Beanstalk | 25724 | [25724-jack-and-the-beanstalk.json](./25724-jack-and-the-beanstalk.json) |
 | Jack and the Beanstalk | 394188 | [394188-jack-and-the-beanstalk.json](./394188-jack-and-the-beanstalk.json) |
@@ -772,9 +773,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johny Explorer | 231358 | [231358-johny-explorer.json](./231358-johny-explorer.json) |
 | Join Us | 370723 | [370723-join-us.json](./370723-join-us.json) |
 | Joinem | 40208 | [40208-joinem.json](./40208-joinem.json) |
+| Joining Hands | 68926 | [68926-joining-hands.json](./68926-joining-hands.json) |
 | Joint Strike Fighter | 18073 | [18073-joint-strike-fighter.json](./18073-joint-strike-fighter.json) |
 | Joint Venture | 410221 | [410221-joint-venture.json](./410221-joint-venture.json) |
 | Joint War | 210706 | [210706-joint-war.json](./210706-joint-war.json) |
+| Joinz | 68927 | [68927-joinz.json](./68927-joinz.json) |
 | JoJo no Kimyou na Bouken | 221257 | [221257-jojo-no-kimyou-na-bouken.json](./221257-jojo-no-kimyou-na-bouken.json) |
 | JoJo no Kimyou na Bouken: Ougon no Kaze | 43465 | [43465-jojo-no-kimyou-na-bouken-ougon-no-kaze.json](./43465-jojo-no-kimyou-na-bouken-ougon-no-kaze.json) |
 | JoJo Siwa: Worldwide Party | 218722 | [218722-jojo-siwa-worldwide-party.json](./218722-jojo-siwa-worldwide-party.json) |
@@ -856,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey To Bethlehem: Fig Run | 275580 | [275580-journey-to-bethlehem-fig-run.json](./275580-journey-to-bethlehem-fig-run.json) |
 | Journey to Earth | 302921 | [302921-journey-to-earth.json](./302921-journey-to-earth.json) |
 | Journey to Kreisia | 321998 | [321998-journey-to-kreisia.json](./321998-journey-to-kreisia.json) |
+| Journey to Kreisia | 68977 | [68977-journey-to-kreisia.json](./68977-journey-to-kreisia.json) |
 | Journey to Moonray | 158049 | [158049-journey-to-moonray.json](./158049-journey-to-moonray.json) |
 | Journey to Silius | 9159 | [9159-journey-to-silius.json](./9159-journey-to-silius.json) |
 | Journey to Stonehenge | 69812 | [69812-journey-to-stonehenge.json](./69812-journey-to-stonehenge.json) |
@@ -1046,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Cross | 40200 | [40200-jumping-cross.json](./40200-jumping-cross.json) |
 | Jumping Doduo | 69834 | [69834-jumping-doduo.json](./69834-jumping-doduo.json) |
 | Jumping Finn | 254524 | [254524-jumping-finn.json](./254524-jumping-finn.json) |
+| Jumping Finn Turbo | 68928 | [68928-jumping-finn-turbo.json](./68928-jumping-finn-turbo.json) |
 | Jumping Fish | 348236 | [348236-jumping-fish.json](./348236-jumping-fish.json) |
 | Jumping Flash! | 234733 | [234733-jumping-flash.json](./234733-jumping-flash.json) |
 | Jumping Flash! | 7432 | [7432-jumping-flash.json](./7432-jumping-flash.json) |
