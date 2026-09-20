@@ -2824,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries Saga 2 | 77691 | [77691-mercenaries-saga-2.json](./77691-mercenaries-saga-2.json) |
 | Mercenaries Saga Chronicles: Physical Edition | 109435 | [109435-mercenaries-saga-chronicles-physical-edition.json](./109435-mercenaries-saga-chronicles-physical-edition.json) |
 | Mercenaries Series Bundle | 175818 | [175818-mercenaries-series-bundle.json](./175818-mercenaries-series-bundle.json) |
+| Mercenary Ops | 65175 | [65175-mercenary-ops.json](./65175-mercenary-ops.json) |
 | Mercenary: The Second City | 15500 | [15500-mercenary-the-second-city.json](./15500-mercenary-the-second-city.json) |
 | Mercforce: 30X1 | 120380 | [120380-mercforce-30x1.json](./120380-mercforce-30x1.json) |
 | Merch Tycoon | 102138 | [102138-merch-tycoon.json](./102138-merch-tycoon.json) |
@@ -2971,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Exile | 264691 | [264691-metal-exile.json](./264691-metal-exile.json) |
 | Metal Eye | 308246 | [308246-metal-eye.json](./308246-metal-eye.json) |
 | Metal Eye 2 | 308247 | [308247-metal-eye-2.json](./308247-metal-eye-2.json) |
+| Metal Fight Beyblade Portable: Chouzetsu Tensei! Vulcan Horuseus | 65197 | [65197-metal-fight-beyblade-portable-chouzetsu-tensei-vulcan-horuseus.json](./65197-metal-fight-beyblade-portable-chouzetsu-tensei-vulcan-horuseus.json) |
 | Metal Fight Beyblade: Bakushin Susanow Attacks! | 394193 | [394193-metal-fight-beyblade-bakushin-susanow-attacks.json](./394193-metal-fight-beyblade-bakushin-susanow-attacks.json) |
 | Metal Fighter Miku | 107633 | [107633-metal-fighter-miku.json](./107633-metal-fighter-miku.json) |
 | Metal Freezer | 267644 | [267644-metal-freezer.json](./267644-metal-freezer.json) |
@@ -4849,6 +4851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunt | 79235 | [79235-monster-hunt.json](./79235-monster-hunt.json) |
 | Monster Hunter 2 | 43668 | [43668-monster-hunter-2.json](./43668-monster-hunter-2.json) |
 | Monster Hunter 4 Ultimate | 6440 | [6440-monster-hunter-4-ultimate.json](./6440-monster-hunter-4-ultimate.json) |
+| Monster Hunter Diary: Poka Poka Airu Village G | 65178 | [65178-monster-hunter-diary-poka-poka-airu-village-g.json](./65178-monster-hunter-diary-poka-poka-airu-village-g.json) |
 | Monster Hunter Dual Pack | 78626 | [78626-monster-hunter-dual-pack.json](./78626-monster-hunter-dual-pack.json) |
 | Monster Hunter Frontier G | 5316 | [5316-monster-hunter-frontier-g.json](./5316-monster-hunter-frontier-g.json) |
 | Monster Hunter Frontier G Genuine | 78359 | [78359-monster-hunter-frontier-g-genuine.json](./78359-monster-hunter-frontier-g-genuine.json) |
@@ -6698,6 +6701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Fortune 3 | 175263 | [175263-mystery-of-fortune-3.json](./175263-mystery-of-fortune-3.json) |
 | Mystery of Gevaudan | 332448 | [332448-mystery-of-gevaudan.json](./332448-mystery-of-gevaudan.json) |
 | Mystery of Hidden Inheritance | 95581 | [95581-mystery-of-hidden-inheritance.json](./95581-mystery-of-hidden-inheritance.json) |
+| Mystery of Mortlake Mansion | 65188 | [65188-mystery-of-mortlake-mansion.json](./65188-mystery-of-mortlake-mansion.json) |
 | Mystery of Munroe Manor | 298865 | [298865-mystery-of-munroe-manor.json](./298865-mystery-of-munroe-manor.json) |
 | Mystery of the Ancients: Curse of the Black Water - Collector's Edition | 107837 | [107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json](./107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json) |
 | Mystery of the Ancients: Mudwater Creek | 74415 | [74415-mystery-of-the-ancients-mudwater-creek.json](./74415-mystery-of-the-ancients-mudwater-creek.json) |
@@ -6708,13 +6712,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Time and Space | 78675 | [78675-mystery-of-time-and-space.json](./78675-mystery-of-time-and-space.json) |
 | Mystery P.I. - Lost in Los Angeles | 14816 | [14816-mystery-p-i-lost-in-los-angeles.json](./14816-mystery-p-i-lost-in-los-angeles.json) |
 | Mystery P.I. - The New York Fortune | 14814 | [14814-mystery-p-i-the-new-york-fortune.json](./14814-mystery-p-i-the-new-york-fortune.json) |
+| Mystery P.I. Kieta Film | 65207 | [65207-mystery-p-i-kieta-film.json](./65207-mystery-p-i-kieta-film.json) |
 | Mystery P.I.: Stolen in San Francisco | 80548 | [80548-mystery-p-i-stolen-in-san-francisco.json](./80548-mystery-p-i-stolen-in-san-francisco.json) |
 | Mystery P.I.: Stolen in San Francisco | 80549 | [80549-mystery-p-i-stolen-in-san-francisco.json](./80549-mystery-p-i-stolen-in-san-francisco.json) |
+| Mystery P.I.: The London Caper | 65205 | [65205-mystery-p-i-the-london-caper.json](./65205-mystery-p-i-the-london-caper.json) |
 | Mystery P.I.: The Lottery Ticket | 14811 | [14811-mystery-p-i-the-lottery-ticket.json](./14811-mystery-p-i-the-lottery-ticket.json) |
 | Mystery Society 2: Hidden Puzzles | 250954 | [250954-mystery-society-2-hidden-puzzles.json](./250954-mystery-society-2-hidden-puzzles.json) |
 | Mystery Solitaire: Cthulhu Mythos 2 | 251852 | [251852-mystery-solitaire-cthulhu-mythos-2.json](./251852-mystery-solitaire-cthulhu-mythos-2.json) |
 | Mystery Solitaire: Cthulhu Mythos 3 | 270966 | [270966-mystery-solitaire-cthulhu-mythos-3.json](./270966-mystery-solitaire-cthulhu-mythos-3.json) |
 | Mystery Solitaire: Grimm's Tales 2 | 122367 | [122367-mystery-solitaire-grimms-tales-2.json](./122367-mystery-solitaire-grimms-tales-2.json) |
+| Mystery Solitaire: Secret Island | 65176 | [65176-mystery-solitaire-secret-island.json](./65176-mystery-solitaire-secret-island.json) |
 | Mystery Solitaire: The Black Raven | 138013 | [138013-mystery-solitaire-the-black-raven.json](./138013-mystery-solitaire-the-black-raven.json) |
 | Mystery Solitaire: The Black Raven 5 | 254756 | [254756-mystery-solitaire-the-black-raven-5.json](./254756-mystery-solitaire-the-black-raven-5.json) |
 | Mystery Solitaire: The Black Raven 6 | 341352 | [341352-mystery-solitaire-the-black-raven-6.json](./341352-mystery-solitaire-the-black-raven-6.json) |
