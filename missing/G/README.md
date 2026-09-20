@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Drop Mania | 329919 | [329919-gold-drop-mania.json](./329919-gold-drop-mania.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
 | Gold Knight | 277269 | [277269-gold-knight.json](./277269-gold-knight.json) |
+| Gold Miner 8bit HD | 91124 | [91124-gold-miner-8bit-hd.json](./91124-gold-miner-8bit-hd.json) |
 | Gold Miner Challenger | 215360 | [215360-gold-miner-challenger.json](./215360-gold-miner-challenger.json) |
 | Gold Miner Joe | 94580 | [94580-gold-miner-joe.json](./94580-gold-miner-joe.json) |
 | Gold Miner: Classic Edition | 360579 | [360579-gold-miner-classic-edition.json](./360579-gold-miner-classic-edition.json) |
@@ -2529,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Cab | 270132 | [270132-gravity-cab.json](./270132-gravity-cab.json) |
 | Gravity Cat | 143705 | [143705-gravity-cat.json](./143705-gravity-cat.json) |
 | Gravity Dash | 287225 | [287225-gravity-dash.json](./287225-gravity-dash.json) |
+| Gravity Dash 2 | 91092 | [91092-gravity-dash-2.json](./91092-gravity-dash-2.json) |
 | Gravity Den | 33177 | [33177-gravity-den.json](./33177-gravity-den.json) |
 | Gravity Falls: Legend of the Gnome Gemulets | 44014 | [44014-gravity-falls-legend-of-the-gnome-gemulets.json](./44014-gravity-falls-legend-of-the-gnome-gemulets.json) |
 | Gravity Flip | 190204 | [190204-gravity-flip.json](./190204-gravity-flip.json) |
