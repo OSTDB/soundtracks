@@ -4948,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon Legends Solitaire 2 | 31720 | [31720-avalon-legends-solitaire-2.json](./31720-avalon-legends-solitaire-2.json) |
 | Avalon Lords | 137012 | [137012-avalon-lords.json](./137012-avalon-lords.json) |
 | Avalon Lords: Dawn Rises | 20464 | [20464-avalon-lords-dawn-rises.json](./20464-avalon-lords-dawn-rises.json) |
+| Avalon Online | 78961 | [78961-avalon-online.json](./78961-avalon-online.json) |
 | Avalon: Sacred Crusade | 153868 | [153868-avalon-sacred-crusade.json](./153868-avalon-sacred-crusade.json) |
 | Avalon: The Druids | 274229 | [274229-avalon-the-druids.json](./274229-avalon-the-druids.json) |
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
