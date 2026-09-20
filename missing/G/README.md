@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Encounters | 59453 | [59453-ghost-encounters.json](./59453-ghost-encounters.json) |
 | Ghost Follows | 191224 | [191224-ghost-follows.json](./191224-ghost-follows.json) |
 | Ghost Grab 3000 | 116547 | [116547-ghost-grab-3000.json](./116547-ghost-grab-3000.json) |
+| Ghost Guns | 122175 | [122175-ghost-guns.json](./122175-ghost-guns.json) |
 | Ghost Hand | 264672 | [264672-ghost-hand.json](./264672-ghost-hand.json) |
 | Ghost Hospital | 111741 | [111741-ghost-hospital.json](./111741-ghost-hospital.json) |
 | Ghost House | 179731 | [179731-ghost-house.json](./179731-ghost-house.json) |
