@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BAClash | 58271 | [58271-baclash.json](./58271-baclash.json) |
 | Bacon Blitz | 181761 | [181761-bacon-blitz.json](./181761-bacon-blitz.json) |
 | Bacon in Zane | 399719 | [399719-bacon-in-zane.json](./399719-bacon-in-zane.json) |
+| Bacon Roll | 88005 | [88005-bacon-roll.json](./88005-bacon-roll.json) |
 | Bacon Tales: Between Pigs and Wolves | 31919 | [31919-bacon-tales-between-pigs-and-wolves.json](./31919-bacon-tales-between-pigs-and-wolves.json) |
 | Bacon: The Game | 199079 | [199079-bacon-the-game.json](./199079-bacon-the-game.json) |
 | BaconX | 330862 | [330862-baconx.json](./330862-baconx.json) |
@@ -977,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bashed.os | 115438 | [115438-bashed-os.json](./115438-bashed-os.json) |
 | Bashing Brutal | 348251 | [348251-bashing-brutal.json](./348251-bashing-brutal.json) |
 | Bashtronaut | 263203 | [263203-bashtronaut.json](./263203-bashtronaut.json) |
+| Bashville | 87981 | [87981-bashville.json](./87981-bashville.json) |
 | BASIC Computer Games | 408061 | [408061-basic-computer-games.json](./408061-basic-computer-games.json) |
 | Basic Kanji Meaning Quiz | 409668 | [409668-basic-kanji-meaning-quiz.json](./409668-basic-kanji-meaning-quiz.json) |
 | Basic Platformer | 305908 | [305908-basic-platformer.json](./305908-basic-platformer.json) |
@@ -1692,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Slug Hyperway | 208030 | [208030-beat-slug-hyperway.json](./208030-beat-slug-hyperway.json) |
 | Beat Souls | 149031 | [149031-beat-souls.json](./149031-beat-souls.json) |
 | Beat the Beat! | 262376 | [262376-beat-the-beat.json](./262376-beat-the-beat.json) |
+| Beat the Blitz | 87962 | [87962-beat-the-blitz.json](./87962-beat-the-blitz.json) |
 | Beat the Boss 2 | 86786 | [86786-beat-the-boss-2.json](./86786-beat-the-boss-2.json) |
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
 | Beat the Clock | 196261 | [196261-beat-the-clock.json](./196261-beat-the-clock.json) |
@@ -2181,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Horizon | 51984 | [51984-beyond-the-horizon.json](./51984-beyond-the-horizon.json) |
 | Beyond the Ice Palace II | 297231 | [297231-beyond-the-ice-palace-ii.json](./297231-beyond-the-ice-palace-ii.json) |
 | Beyond the Illusions | 387324 | [387324-beyond-the-illusions.json](./387324-beyond-the-illusions.json) |
+| Beyond the Invisible: Darkness Came | 88008 | [88008-beyond-the-invisible-darkness-came.json](./88008-beyond-the-invisible-darkness-came.json) |
 | Beyond the Kingdom | 294736 | [294736-beyond-the-kingdom.json](./294736-beyond-the-kingdom.json) |
 | Beyond the Kingdom 2 | 294737 | [294737-beyond-the-kingdom-2.json](./294737-beyond-the-kingdom-2.json) |
 | Beyond the Kingdom 2: Collector's Edition | 341042 | [341042-beyond-the-kingdom-2-collectors-edition.json](./341042-beyond-the-kingdom-2-collectors-edition.json) |
@@ -4715,6 +4719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick | 92294 | [92294-brick.json](./92294-brick.json) |
 | Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
+| Brick Breaker Bunch | 87968 | [87968-brick-breaker-bunch.json](./87968-brick-breaker-bunch.json) |
 | Brick Breaker Infinity | 305932 | [305932-brick-breaker-infinity.json](./305932-brick-breaker-infinity.json) |
 | Brick Breaker Premium | 104081 | [104081-brick-breaker-premium.json](./104081-brick-breaker-premium.json) |
 | Brick Breaker Unicorn | 151199 | [151199-brick-breaker-unicorn.json](./151199-brick-breaker-unicorn.json) |
@@ -4931,6 +4936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brut@l | 14759 | [14759-brut-l.json](./14759-brut-l.json) |
 | Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
 | Brutal Doom: Ali Jr's Challenge | 199067 | [199067-brutal-doom-ali-jrs-challenge.json](./199067-brutal-doom-ali-jrs-challenge.json) |
+| Brutal Inventions | 88003 | [88003-brutal-inventions.json](./88003-brutal-inventions.json) |
 | Brutal Mario | 132862 | [132862-brutal-mario.json](./132862-brutal-mario.json) |
 | Brutal Rage | 132657 | [132657-brutal-rage.json](./132657-brutal-rage.json) |
 | Brutal Runner | 81049 | [81049-brutal-runner.json](./81049-brutal-runner.json) |
@@ -5174,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build a Bridge! | 114190 | [114190-build-a-bridge.json](./114190-build-a-bridge.json) |
 | Build A Train 2 | 100728 | [100728-build-a-train-2.json](./100728-build-a-train-2.json) |
 | Build and Discover: America | 217322 | [217322-build-and-discover-america.json](./217322-build-and-discover-america.json) |
+| Build Bridges | 87992 | [87992-build-bridges.json](./87992-build-bridges.json) |
 | Build buildings | 105316 | [105316-build-buildings.json](./105316-build-buildings.json) |
 | Build For Sale Simulator | 273377 | [273377-build-for-sale-simulator.json](./273377-build-for-sale-simulator.json) |
 | Build It: Miami Beach Resort | 341017 | [341017-build-it-miami-beach-resort.json](./341017-build-it-miami-beach-resort.json) |
