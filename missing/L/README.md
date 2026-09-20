@@ -2891,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lowtide | 265981 | [265981-lowtide.json](./265981-lowtide.json) |
 | Lowtris | 362337 | [362337-lowtris.json](./362337-lowtris.json) |
 | Loya | 239661 | [239661-loya.json](./239661-loya.json) |
+| Lozenge | 88010 | [88010-lozenge.json](./88010-lozenge.json) |
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
 | LSD Battlefield Simulator | 340927 | [340927-lsd-battlefield-simulator.json](./340927-lsd-battlefield-simulator.json) |
 | LSI Puzzle: Last One | 385752 | [385752-lsi-puzzle-last-one.json](./385752-lsi-puzzle-last-one.json) |
