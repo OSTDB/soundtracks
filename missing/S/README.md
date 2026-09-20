@@ -2013,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Story: Cuckold Life - Episode 4 | 263762 | [263762-sex-story-cuckold-life-episode-4.json](./263762-sex-story-cuckold-life-episode-4.json) |
 | Sex Story: Cuckold Life - Episode 5 | 264635 | [264635-sex-story-cuckold-life-episode-5.json](./264635-sex-story-cuckold-life-episode-5.json) |
 | Sex Story: Ruby and Hunter - Episode 4 | 256527 | [256527-sex-story-ruby-and-hunter-episode-4.json](./256527-sex-story-ruby-and-hunter-episode-4.json) |
+| Sex Vixens From Space | 72378 | [72378-sex-vixens-from-space.json](./72378-sex-vixens-from-space.json) |
 | Sex with Maids | 248669 | [248669-sex-with-maids.json](./248669-sex-with-maids.json) |
 | Sex with the Devil | 165543 | [165543-sex-with-the-devil.json](./165543-sex-with-the-devil.json) |
 | Sex With Toys | 267686 | [267686-sex-with-toys.json](./267686-sex-with-toys.json) |
@@ -2278,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows Over Loathing | 225615 | [225615-shadows-over-loathing.json](./225615-shadows-over-loathing.json) |
 | Shadows Over Loathing: Collector’s Edition | 247193 | [247193-shadows-over-loathing-collector-s-edition.json](./247193-shadows-over-loathing-collector-s-edition.json) |
 | Shadows Peak | 18406 | [18406-shadows-peak.json](./18406-shadows-peak.json) |
+| Shadows Remain | 72324 | [72324-shadows-remain.json](./72324-shadows-remain.json) |
 | Shadows Show | 381674 | [381674-shadows-show.json](./381674-shadows-show.json) |
 | Shadowsense. | 207510 | [207510-shadowsense.json](./207510-shadowsense.json) |
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
@@ -3756,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six textures | 271297 | [271297-six-textures.json](./271297-six-textures.json) |
 | Six Textures #3 | 321123 | [321123-six-textures-3.json](./321123-six-textures-3.json) |
 | Six-Chamber Champion | 384663 | [384663-six-chamber-champion.json](./384663-six-chamber-champion.json) |
+| Six-ear Macaque | 72359 | [72359-six-ear-macaque.json](./72359-six-ear-macaque.json) |
 | Six-Guns: Gang Showdown | 38991 | [38991-six-guns-gang-showdown.json](./38991-six-guns-gang-showdown.json) |
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
 | Six! | 88774 | [88774-six.json](./88774-six.json) |
@@ -5049,6 +5052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer | 300003 | [300003-soccer.json](./300003-soccer.json) |
 | Soccer | 346058 | [346058-soccer.json](./346058-soccer.json) |
 | Soccer | 346099 | [346099-soccer.json](./346099-soccer.json) |
+| Soccer | 72370 | [72370-soccer.json](./72370-soccer.json) |
 | Soccer - Ultimate Team | 104472 | [104472-soccer-ultimate-team.json](./104472-soccer-ultimate-team.json) |
 | Soccer 2 | 245405 | [245405-soccer-2.json](./245405-soccer-2.json) |
 | Soccer 86 | 98233 | [98233-soccer-86.json](./98233-soccer-86.json) |
@@ -7017,6 +7021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spineworld | 209494 | [209494-spineworld.json](./209494-spineworld.json) |
 | Sping | 145442 | [145442-sping.json](./145442-sping.json) |
 | Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
+| Spinnin' Flare | 72338 | [72338-spinnin-flare.json](./72338-spinnin-flare.json) |
 | Spinning Around | 75790 | [75790-spinning-around.json](./75790-spinning-around.json) |
 | Spinning My Wheel | 348866 | [348866-spinning-my-wheel.json](./348866-spinning-my-wheel.json) |
 | Spinning Scarecrow | 360096 | [360096-spinning-scarecrow.json](./360096-spinning-scarecrow.json) |
@@ -8822,6 +8827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormovik: Soviet Attack Fighter SU-25 | 79594 | [79594-stormovik-soviet-attack-fighter-su-25.json](./79594-stormovik-soviet-attack-fighter-su-25.json) |
 | StormRend | 184563 | [184563-stormrend.json](./184563-stormrend.json) |
 | Stormrise | 7197 | [7197-stormrise.json](./7197-stormrise.json) |
+| Storms of Shambhala | 72363 | [72363-storms-of-shambhala.json](./72363-storms-of-shambhala.json) |
 | Stormtrooper | 15379 | [15379-stormtrooper.json](./15379-stormtrooper.json) |
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
 | Stormy Castle | 330847 | [330847-stormy-castle.json](./330847-stormy-castle.json) |
@@ -10338,6 +10344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Maker for Nintendo 3DS | 26157 | [26157-super-mario-maker-for-nintendo-3ds.json](./26157-super-mario-maker-for-nintendo-3ds.json) |
 | Super Mario Maker for Nspire | 262660 | [262660-super-mario-maker-for-nspire.json](./262660-super-mario-maker-for-nspire.json) |
 | Super Mario Maker: Key Update! | 364580 | [364580-super-mario-maker-key-update.json](./364580-super-mario-maker-key-update.json) |
+| Super Mario Megamix | 72323 | [72323-super-mario-megamix.json](./72323-super-mario-megamix.json) |
 | Super Mario MoonShine 64 | 198370 | [198370-super-mario-moonshine-64.json](./198370-super-mario-moonshine-64.json) |
 | Super Mario Nation | 381728 | [381728-super-mario-nation.json](./381728-super-mario-nation.json) |
 | Super Mario Odyssey 64 | 132640 | [132640-super-mario-odyssey-64.json](./132640-super-mario-odyssey-64.json) |
