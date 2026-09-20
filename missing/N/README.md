@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevsky Titbit | 250597 | [250597-nevsky-titbit.json](./250597-nevsky-titbit.json) |
 | New 3D Golf Simulation: Eight Lakes G.C. | 97292 | [97292-new-3d-golf-simulation-eight-lakes-g-c.json](./97292-new-3d-golf-simulation-eight-lakes-g-c.json) |
 | New 3D Golf Simulation: T&E Selection | 97291 | [97291-new-3d-golf-simulation-t-and-e-selection.json](./97291-new-3d-golf-simulation-t-and-e-selection.json) |
+| New Adult Reality | 113457 | [113457-new-adult-reality.json](./113457-new-adult-reality.json) |
 | New Adventure Island | 28521 | [28521-new-adventure-island.json](./28521-new-adventure-island.json) |
 | NEW Again Beauty | 106596 | [106596-new-again-beauty.json](./106596-new-again-beauty.json) |
 | New Atelier Rorona: The Alchemist of Arland | 82105 | [82105-new-atelier-rorona-the-alchemist-of-arland.json](./82105-new-atelier-rorona-the-alchemist-of-arland.json) |
