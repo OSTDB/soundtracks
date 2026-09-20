@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatLine | 260773 | [260773-beatline.json](./260773-beatline.json) |
 | Beatmania 2ndMix | 94746 | [94746-beatmania-2ndmix.json](./94746-beatmania-2ndmix.json) |
 | Beatmania 3rdMix | 94745 | [94745-beatmania-3rdmix.json](./94745-beatmania-3rdmix.json) |
+| Beatmania 6thMix: The UK Underground Music | 79612 | [79612-beatmania-6thmix-the-uk-underground-music.json](./79612-beatmania-6thmix-the-uk-underground-music.json) |
 | Beatmania 7thMix: Keepin' Evolution | 94743 | [94743-beatmania-7thmix-keepin-evolution.json](./94743-beatmania-7thmix-keepin-evolution.json) |
 | Beatmania Append 5thMix: Time to Get Down | 70994 | [70994-beatmania-append-5thmix-time-to-get-down.json](./70994-beatmania-append-5thmix-time-to-get-down.json) |
 | Beatmania Append Gottamix 2: Going Global | 292855 | [292855-beatmania-append-gottamix-2-going-global.json](./292855-beatmania-append-gottamix-2-going-global.json) |
