@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamori no Picross 7/14 | 369033 | [369033-tamori-no-picross-7-14.json](./369033-tamori-no-picross-7-14.json) |
 | Tamori no Picross 8/1 | 345504 | [345504-tamori-no-picross-8-1.json](./345504-tamori-no-picross-8-1.json) |
 | Tamori no Picross 8/13 | 345502 | [345502-tamori-no-picross-8-13.json](./345502-tamori-no-picross-8-13.json) |
+| Tamper | 94543 | [94543-tamper.json](./94543-tamper.json) |
 | Tampon Run | 128574 | [128574-tampon-run.json](./128574-tampon-run.json) |
 | Tampon Trawl | 184123 | [184123-tampon-trawl.json](./184123-tampon-trawl.json) |
 | Tampopo | 317004 | [317004-tampopo.json](./317004-tampopo.json) |
@@ -716,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank-O-Box | 78682 | [78682-tank-o-box.json](./78682-tank-o-box.json) |
 | Tank: The M1A1 Abrams Battle Tank Simulation | 90602 | [90602-tank-the-m1a1-abrams-battle-tank-simulation.json](./90602-tank-the-m1a1-abrams-battle-tank-simulation.json) |
 | Tank! Tank! Tank! | 5323 | [5323-tank-tank-tank.json](./5323-tank-tank-tank.json) |
+| Tank2 | 94581 | [94581-tank2.json](./94581-tank2.json) |
 | Tankalot Remastered | 188007 | [188007-tankalot-remastered.json](./188007-tankalot-remastered.json) |
 | Tanked Out! | 270107 | [270107-tanked-out.json](./270107-tanked-out.json) |
 | Tanking Tanks | 112375 | [112375-tanking-tanks.json](./112375-tanking-tanks.json) |
@@ -6419,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think Quick! | 69222 | [69222-think-quick.json](./69222-think-quick.json) |
 | Think Shift | 250386 | [250386-think-shift.json](./250386-think-shift.json) |
 | Think Tap Turn | 100815 | [100815-think-tap-turn.json](./100815-think-tap-turn.json) |
+| THiNK-X | 94539 | [94539-think-x.json](./94539-think-x.json) |
 | Think! Think! Monsters | 233512 | [233512-think-think-monsters.json](./233512-think-think-monsters.json) |
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
 | Thinking Games 2 | 72064 | [72064-thinking-games-2.json](./72064-thinking-games-2.json) |
@@ -7686,6 +7689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titans of Steel: Warring Suns | 69841 | [69841-titans-of-steel-warring-suns.json](./69841-titans-of-steel-warring-suns.json) |
 | Titans: Dawn of Tribes | 109056 | [109056-titans-dawn-of-tribes.json](./109056-titans-dawn-of-tribes.json) |
 | Titenic | 10841 | [10841-titenic.json](./10841-titenic.json) |
+| Title Fight Pro Boxing for Windows | 94548 | [94548-title-fight-pro-boxing-for-windows.json](./94548-title-fight-pro-boxing-for-windows.json) |
 | Titleless Tale | 304002 | [304002-titleless-tale.json](./304002-titleless-tale.json) |
 | Titor's Time Traveling Tale | 249862 | [249862-titors-time-traveling-tale.json](./249862-titors-time-traveling-tale.json) |
 | Tits Okay Tits Fine | 371361 | [371361-tits-okay-tits-fine.json](./371361-tits-okay-tits-fine.json) |
@@ -8910,6 +8914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trader Life Simulator | 143666 | [143666-trader-life-simulator.json](./143666-trader-life-simulator.json) |
 | Trader of the Night | 219258 | [219258-trader-of-the-night.json](./219258-trader-of-the-night.json) |
 | Traders Life Simulator | 390101 | [390101-traders-life-simulator.json](./390101-traders-life-simulator.json) |
+| Tradewinds | 94554 | [94554-tradewinds.json](./94554-tradewinds.json) |
 | Tradewinds Caravan | 59455 | [59455-tradewinds-caravan.json](./59455-tradewinds-caravan.json) |
 | Tradewinds Legends | 59454 | [59454-tradewinds-legends.json](./59454-tradewinds-legends.json) |
 | Tradewinds Odyssey | 59456 | [59456-tradewinds-odyssey.json](./59456-tradewinds-odyssey.json) |
@@ -10229,6 +10234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tube Jumpers | 99406 | [99406-tube-jumpers.json](./99406-tube-jumpers.json) |
 | Tube Panic | 40163 | [40163-tube-panic.json](./40163-tube-panic.json) |
 | Tube Rolling | 159794 | [159794-tube-rolling.json](./159794-tube-rolling.json) |
+| Tube Warriors | 94558 | [94558-tube-warriors.json](./94558-tube-warriors.json) |
 | Tuber`s Run | 115017 | [115017-tuber-s-run.json](./115017-tuber-s-run.json) |
 | Tubetastic World Splashfest | 117491 | [117491-tubetastic-world-splashfest.json](./117491-tubetastic-world-splashfest.json) |
 | Tuboflex | 128564 | [128564-tuboflex.json](./128564-tuboflex.json) |
