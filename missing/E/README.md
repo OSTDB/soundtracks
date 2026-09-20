@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force: World Brothers 2 - Don't Bring Civilians Into This: Special Appearance by The Captain from EDF6 | 325435 | [325435-earth-defense-force-world-brothers-2-dont-bring-civilians-into-this-special-appearance-by-the-captain-from-edf6.json](./325435-earth-defense-force-world-brothers-2-dont-bring-civilians-into-this-special-appearance-by-the-captain-from-edf6.json) |
 | Earth Defense Force: World Brothers 2 - Extra Mission Pack: Robo Saurous vs. The Mecharmy | 325434 | [325434-earth-defense-force-world-brothers-2-extra-mission-pack-robo-saurous-vs-the-mecharmy.json](./325434-earth-defense-force-world-brothers-2-extra-mission-pack-robo-saurous-vs-the-mecharmy.json) |
 | Earth Defense Force: World Brothers 2 - Humanity Dominates!? Air Raider (EDF6) Up & Coming: Reskin | 325433 | [325433-earth-defense-force-world-brothers-2-humanity-dominates-air-raider-edf6-up-and-coming-reskin.json](./325433-earth-defense-force-world-brothers-2-humanity-dominates-air-raider-edf6-up-and-coming-reskin.json) |
+| Earth Eternal | 67668 | [67668-earth-eternal.json](./67668-earth-eternal.json) |
 | Earth Invasion | 72085 | [72085-earth-invasion.json](./72085-earth-invasion.json) |
 | Earth Marines | 153862 | [153862-earth-marines.json](./153862-earth-marines.json) |
 | Earth Muncher | 95178 | [95178-earth-muncher.json](./95178-earth-muncher.json) |
@@ -2031,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evanesce Theory | 399738 | [399738-evanesce-theory.json](./399738-evanesce-theory.json) |
 | Evangeline's Defense | 203556 | [203556-evangelines-defense.json](./203556-evangelines-defense.json) |
 | Evangelion: Breaking Dawn | 382795 | [382795-evangelion-breaking-dawn.json](./382795-evangelion-breaking-dawn.json) |
+| Evangelion: Jo | 67657 | [67657-evangelion-jo.json](./67657-evangelion-jo.json) |
 | Evasion | 346055 | [346055-evasion.json](./346055-evasion.json) |
 | Evasion from Cluster 42 | 259283 | [259283-evasion-from-cluster-42.json](./259283-evasion-from-cluster-42.json) |
 | Evasive | 273917 | [273917-evasive.json](./273917-evasive.json) |
