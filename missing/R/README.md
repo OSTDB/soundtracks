@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Chaos | 313868 | [313868-realm-of-chaos.json](./313868-realm-of-chaos.json) |
 | Realm of Heroes | 167257 | [167257-realm-of-heroes.json](./167257-realm-of-heroes.json) |
 | Realm of Mecha | 197324 | [197324-realm-of-mecha.json](./197324-realm-of-mecha.json) |
+| Realm of Rulers | 98222 | [98222-realm-of-rulers.json](./98222-realm-of-rulers.json) |
 | Realm of the Fallen | 223439 | [223439-realm-of-the-fallen.json](./223439-realm-of-the-fallen.json) |
 | Realm of the hero | 156128 | [156128-realm-of-the-hero.json](./156128-realm-of-the-hero.json) |
 | Realm of the Paladin: Deception's Plague | 171541 | [171541-realm-of-the-paladin-deceptions-plague.json](./171541-realm-of-the-paladin-deceptions-plague.json) |
@@ -2996,6 +2997,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketship Rescue | 178638 | [178638-rocketship-rescue.json](./178638-rocketship-rescue.json) |
 | RocketsRocketsRockets | 36342 | [36342-rocketsrocketsrockets.json](./36342-rocketsrocketsrockets.json) |
 | Rockett's New School | 65479 | [65479-rocketts-new-school.json](./65479-rocketts-new-school.json) |
+| Rockford: The Arcade Game + Crystal Raider | 98225 | [98225-rockford-the-arcade-game-crystal-raider.json](./98225-rockford-the-arcade-game-crystal-raider.json) |
+| Rockford: The Arcade Game + Rockman | 98224 | [98224-rockford-the-arcade-game-rockman.json](./98224-rockford-the-arcade-game-rockman.json) |
 | Rockin' Rabbit | 317444 | [317444-rockin-rabbit.json](./317444-rockin-rabbit.json) |
 | Rockin'Space | 178633 | [178633-rockinspace.json](./178633-rockinspace.json) |
 | Rocking Legend | 132357 | [132357-rocking-legend.json](./132357-rocking-legend.json) |
