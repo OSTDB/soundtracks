@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obake no Q-Taro: Oba Q Channel | 293908 | [293908-obake-no-q-taro-oba-q-channel.json](./293908-obake-no-q-taro-oba-q-channel.json) |
 | Obake no Q-Taro: Wan-wan Panic | 215139 | [215139-obake-no-q-taro-wan-wan-panic.json](./215139-obake-no-q-taro-wan-wan-panic.json) |
 | Obama Alien Defence | 282109 | [282109-obama-alien-defence.json](./282109-obama-alien-defence.json) |
+| Obandia | 124626 | [124626-obandia.json](./124626-obandia.json) |
 | Obby Revival Project | 414430 | [414430-obby-revival-project.json](./414430-obby-revival-project.json) |
 | Obby: Build a 3D Amusement Park! | 402303 | [402303-obby-build-a-3d-amusement-park.json](./402303-obby-build-a-3d-amusement-park.json) |
 | Obcidian Legacy | 30004 | [30004-obcidian-legacy.json](./30004-obcidian-legacy.json) |
@@ -227,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssey of the Explorer | 302108 | [302108-odyssey-of-the-explorer.json](./302108-odyssey-of-the-explorer.json) |
 | Odyssey: Altar of Norax | 191159 | [191159-odyssey-altar-of-norax.json](./191159-odyssey-altar-of-norax.json) |
 | Odyssey: Realm of Echoes | 341499 | [341499-odyssey-realm-of-echoes.json](./341499-odyssey-realm-of-echoes.json) |
+| Oedipus In My Inventory | 124597 | [124597-oedipus-in-my-inventory.json](./124597-oedipus-in-my-inventory.json) |
 | Oedo Developer | 369089 | [369089-oedo-developer.json](./369089-oedo-developer.json) |
 | Oedo Trigger VR!! | 263229 | [263229-oedo-trigger-vr.json](./263229-oedo-trigger-vr.json) |
 | Oedo Trigger!! | 235735 | [235735-oedo-trigger.json](./235735-oedo-trigger.json) |
