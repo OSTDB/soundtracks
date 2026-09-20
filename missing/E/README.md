@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Common Sense | 19298 | [19298-europa-universalis-iv-common-sense.json](./19298-europa-universalis-iv-common-sense.json) |
 | Europa Universalis IV: Common Sense Content Pack | 227350 | [227350-europa-universalis-iv-common-sense-content-pack.json](./227350-europa-universalis-iv-common-sense-content-pack.json) |
 | Europa Universalis IV: Conquest of Paradise | 19299 | [19299-europa-universalis-iv-conquest-of-paradise.json](./19299-europa-universalis-iv-conquest-of-paradise.json) |
+| Europa Universalis IV: Cradle of Civilization | 76191 | [76191-europa-universalis-iv-cradle-of-civilization.json](./76191-europa-universalis-iv-cradle-of-civilization.json) |
 | Europa Universalis IV: Cradle of Civilization Content Pack | 227349 | [227349-europa-universalis-iv-cradle-of-civilization-content-pack.json](./227349-europa-universalis-iv-cradle-of-civilization-content-pack.json) |
 | Europa Universalis IV: Dharma | 149956 | [149956-europa-universalis-iv-dharma.json](./149956-europa-universalis-iv-dharma.json) |
 | Europa Universalis IV: Dharma Content Pack | 227342 | [227342-europa-universalis-iv-dharma-content-pack.json](./227342-europa-universalis-iv-dharma-content-pack.json) |
