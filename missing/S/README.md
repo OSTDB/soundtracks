@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Machizaka Stories Vol. 1 | 77946 | [77946-sakura-machizaka-stories-vol-1.json](./77946-sakura-machizaka-stories-vol-1.json) |
 | Sakura Mau Otome no Rondo | 339138 | [339138-sakura-mau-otome-no-rondo.json](./339138-sakura-mau-otome-no-rondo.json) |
 | Sakura MMO 2 | 113123 | [113123-sakura-mmo-2.json](./113123-sakura-mmo-2.json) |
+| Sakura Momoko Gekijou: Kojikoji | 96493 | [96493-sakura-momoko-gekijou-kojikoji.json](./96493-sakura-momoko-gekijou-kojikoji.json) |
 | Sakura Moonlight | 135892 | [135892-sakura-moonlight.json](./135892-sakura-moonlight.json) |
 | Sakura no Mori Dreamers | 75788 | [75788-sakura-no-mori-dreamers.json](./75788-sakura-no-mori-dreamers.json) |
 | Sakura no Mori Dreamers 2 | 114824 | [114824-sakura-no-mori-dreamers-2.json](./114824-sakura-no-mori-dreamers-2.json) |
@@ -942,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schlag den Star: Das Spiel | 78045 | [78045-schlag-den-star-das-spiel.json](./78045-schlag-den-star-das-spiel.json) |
 | Schloss der Wölfe | 323389 | [323389-schloss-der-wolfe.json](./323389-schloss-der-wolfe.json) |
 | Schmaragon | 230265 | [230265-schmaragon.json](./230265-schmaragon.json) |
+| Schnappi: 3 Fun-Games | 96526 | [96526-schnappi-3-fun-games.json](./96526-schnappi-3-fun-games.json) |
 | Schola Spiritus | 383358 | [383358-schola-spiritus.json](./383358-schola-spiritus.json) |
 | Scholar Adventure: Mystery of Silence | 361808 | [361808-scholar-adventure-mystery-of-silence.json](./361808-scholar-adventure-mystery-of-silence.json) |
 | Scholar of the Arcane Arts | 188615 | [188615-scholar-of-the-arcane-arts.json](./188615-scholar-of-the-arcane-arts.json) |
@@ -1569,6 +1571,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 29: Monster World Complete Collection | 78047 | [78047-sega-ages-2500-vol-29-monster-world-complete-collection.json](./78047-sega-ages-2500-vol-29-monster-world-complete-collection.json) |
 | Sega Ages 2500 Vol. 30: Galaxy Force II - Special Extended Edition | 64897 | [64897-sega-ages-2500-vol-30-galaxy-force-ii-special-extended-edition.json](./64897-sega-ages-2500-vol-30-galaxy-force-ii-special-extended-edition.json) |
 | Sega Ages 2500 Vol. 32: Phantasy Star Complete Collection | 69267 | [69267-sega-ages-2500-vol-32-phantasy-star-complete-collection.json](./69267-sega-ages-2500-vol-32-phantasy-star-complete-collection.json) |
+| Sega Ages 2500 Vol. 4: Space Harrier | 96512 | [96512-sega-ages-2500-vol-4-space-harrier.json](./96512-sega-ages-2500-vol-4-space-harrier.json) |
+| Sega Ages 2500 Vol. 8: Virtua Racing FlatOut | 96528 | [96528-sega-ages-2500-vol-8-virtua-racing-flatout.json](./96528-sega-ages-2500-vol-8-virtua-racing-flatout.json) |
 | Sega Ages Lightening Force: Quest for the Darkstar | 109595 | [109595-sega-ages-lightening-force-quest-for-the-darkstar.json](./109595-sega-ages-lightening-force-quest-for-the-darkstar.json) |
 | Sega Ages Out Run | 45392 | [45392-sega-ages-out-run.json](./45392-sega-ages-out-run.json) |
 | Sega Ages Thunder Force AC | 110060 | [110060-sega-ages-thunder-force-ac.json](./110060-sega-ages-thunder-force-ac.json) |
@@ -8218,6 +8222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay in the White Line: Level Version | 232051 | [232051-stay-in-the-white-line-level-version.json](./232051-stay-in-the-white-line-level-version.json) |
 | Stay Lit, Find Radio | 151042 | [151042-stay-lit-find-radio.json](./151042-stay-lit-find-radio.json) |
 | Stay Out | 63813 | [63813-stay-out.json](./63813-stay-out.json) |
+| Stay Safe | 96481 | [96481-stay-safe.json](./96481-stay-safe.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
 | Stay.: Fragments of Memories | 308972 | [308972-stay-fragments-of-memories.json](./308972-stay-fragments-of-memories.json) |
 | Steadfast | 417535 | [417535-steadfast.json](./417535-steadfast.json) |
@@ -10887,6 +10892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Hunter | 257108 | [257108-surviving-hunter.json](./257108-surviving-hunter.json) |
 | Surviving Isolation | 384528 | [384528-surviving-isolation.json](./384528-surviving-isolation.json) |
 | Surviving Mars: Below and Beyond | 165620 | [165620-surviving-mars-below-and-beyond.json](./165620-surviving-mars-below-and-beyond.json) |
+| Surviving Mars: First Colony Edition | 96491 | [96491-surviving-mars-first-colony-edition.json](./96491-surviving-mars-first-colony-edition.json) |
 | Surviving Mars: Future Contemporary Cosmetic Pack | 227330 | [227330-surviving-mars-future-contemporary-cosmetic-pack.json](./227330-surviving-mars-future-contemporary-cosmetic-pack.json) |
 | Surviving Mars: In-Dome Buildings Pack | 215400 | [215400-surviving-mars-in-dome-buildings-pack.json](./215400-surviving-mars-in-dome-buildings-pack.json) |
 | Surviving Mars: Marsvision Song Contest | 154933 | [154933-surviving-mars-marsvision-song-contest.json](./154933-surviving-mars-marsvision-song-contest.json) |
