@@ -2585,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciao Bella: la Bella Romanza | 133957 | [133957-ciao-bella-la-bella-romanza.json](./133957-ciao-bella-la-bella-romanza.json) |
 | Cicada Springs | 248714 | [248714-cicada-springs.json](./248714-cicada-springs.json) |
 | Cicadas | 61599 | [61599-cicadas.json](./61599-cicadas.json) |
+| Cicadas: The IQA Edition | 123447 | [123447-cicadas-the-iqa-edition.json](./123447-cicadas-the-iqa-edition.json) |
 | Cicadia | 408916 | [408916-cicadia.json](./408916-cicadia.json) |
 | Ciclico | 349396 | [349396-ciclico.json](./349396-ciclico.json) |
 | Ciconia When They Cry: Phase 2 | 273097 | [273097-ciconia-when-they-cry-phase-2.json](./273097-ciconia-when-they-cry-phase-2.json) |
@@ -3692,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Champions | 244510 | [244510-combat-champions.json](./244510-combat-champions.json) |
 | Combat Choro Q | 97362 | [97362-combat-choro-q.json](./97362-combat-choro-q.json) |
 | Combat Command | 139426 | [139426-combat-command.json](./139426-combat-command.json) |
+| Combat Command: Matrix Edition | 123421 | [123421-combat-command-matrix-edition.json](./123421-combat-command-matrix-edition.json) |
 | Combat Core | 26545 | [26545-combat-core.json](./26545-combat-core.json) |
 | Combat Crazy | 94179 | [94179-combat-crazy.json](./94179-combat-crazy.json) |
 | Combat Directive: Napoleonic Wars | 318048 | [318048-combat-directive-napoleonic-wars.json](./318048-combat-directive-napoleonic-wars.json) |
