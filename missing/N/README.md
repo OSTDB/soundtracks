@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navy War | 207517 | [207517-navy-war.json](./207517-navy-war.json) |
 | Naxat Cup Satellaview Bass Tournament "Big Fight" | 150171 | [150171-naxat-cup-satellaview-bass-tournament-big-fight.json](./150171-naxat-cup-satellaview-bass-tournament-big-fight.json) |
 | Naxat Open | 37707 | [37707-naxat-open.json](./37707-naxat-open.json) |
+| Nayra's Popstactic Adventures in Cadiz | 114752 | [114752-nayras-popstactic-adventures-in-cadiz.json](./114752-nayras-popstactic-adventures-in-cadiz.json) |
 | Nazar | 319003 | [319003-nazar.json](./319003-nazar.json) |
 | NaziShootout | 88054 | [88054-nazishootout.json](./88054-nazishootout.json) |
 | Nazo no Chinbotsusen | 385713 | [385713-nazo-no-chinbotsusen.json](./385713-nazo-no-chinbotsusen.json) |
@@ -1175,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Pro Era II | 266797 | [266797-nfl-pro-era-ii.json](./266797-nfl-pro-era-ii.json) |
 | NFL Quarterback 13 | 62169 | [62169-nfl-quarterback-13.json](./62169-nfl-quarterback-13.json) |
 | NFL Quarterback 15 | 74417 | [74417-nfl-quarterback-15.json](./74417-nfl-quarterback-15.json) |
+| NFL Quarterback Club | 114754 | [114754-nfl-quarterback-club.json](./114754-nfl-quarterback-club.json) |
 | NFL Rush Zone | 230392 | [230392-nfl-rush-zone.json](./230392-nfl-rush-zone.json) |
 | NFL Sports Talk Football '93 Starring Joe Montana | 72117 | [72117-nfl-sports-talk-football-93-starring-joe-montana.json](./72117-nfl-sports-talk-football-93-starring-joe-montana.json) |
 | NFL Street 2: Unleashed | 243016 | [243016-nfl-street-2-unleashed.json](./243016-nfl-street-2-unleashed.json) |
