@@ -2690,6 +2690,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Motel Simulator | 337729 | [337729-road-motel-simulator.json](./337729-road-motel-simulator.json) |
 | Road of Danger | 41936 | [41936-road-of-danger.json](./41936-road-of-danger.json) |
 | Road of Death | 207903 | [207903-road-of-death.json](./207903-road-of-death.json) |
+| Road of Destiny | 87957 | [87957-road-of-destiny.json](./87957-road-of-destiny.json) |
+| Road of Dust and Rust | 87949 | [87949-road-of-dust-and-rust.json](./87949-road-of-dust-and-rust.json) |
 | Road Racer | 297243 | [297243-road-racer.json](./297243-road-racer.json) |
 | Road Rash 64 | 3589 | [3589-road-rash-64.json](./3589-road-rash-64.json) |
 | Road Rash III | 199014 | [199014-road-rash-iii.json](./199014-road-rash-iii.json) |
