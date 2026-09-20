@@ -2381,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Merge Mania | 358289 | [358289-number-merge-mania.json](./358289-number-merge-mania.json) |
 | Number Munchers | 128661 | [128661-number-munchers.json](./128661-number-munchers.json) |
 | Number Munchers | 50339 | [50339-number-munchers.json](./50339-number-munchers.json) |
+| Number Munchers Tribute | 71767 | [71767-number-munchers-tribute.json](./71767-number-munchers-tribute.json) |
 | Number One Kill Extra | 313855 | [313855-number-one-kill-extra.json](./313855-number-one-kill-extra.json) |
 | Number One Rich | 158198 | [158198-number-one-rich.json](./158198-number-one-rich.json) |
 | Number Party | 223994 | [223994-number-party.json](./223994-number-party.json) |
