@@ -942,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivid World | 266274 | [266274-vivid-world.json](./266274-vivid-world.json) |
 | Vividerie | 189068 | [189068-vividerie.json](./189068-vividerie.json) |
 | ViviDex | 182983 | [182983-vividex.json](./182983-vividex.json) |
+| ViviEon | 120830 | [120830-vivieon.json](./120830-vivieon.json) |
 | Viviparous Dumpling | 354449 | [354449-viviparous-dumpling.json](./354449-viviparous-dumpling.json) |
 | Vivitter: Additional Mini-game - "Hole-in-one" | 308772 | [308772-vivitter-additional-mini-game-hole-in-one.json](./308772-vivitter-additional-mini-game-hole-in-one.json) |
 | Vivitter: Additional Mini-game - "Kiss Game" | 308785 | [308785-vivitter-additional-mini-game-kiss-game.json](./308785-vivitter-additional-mini-game-kiss-game.json) |
