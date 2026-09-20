@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkwellers | 333555 | [333555-inkwellers.json](./333555-inkwellers.json) |
 | Inky Caps Clash | 175428 | [175428-inky-caps-clash.json](./175428-inky-caps-clash.json) |
 | Inline | 81070 | [81070-inline.json](./81070-inline.json) |
+| Inline Race | 94560 | [94560-inline-race.json](./94560-inline-race.json) |
 | Inline: Out of Time | 290706 | [290706-inline-out-of-time.json](./290706-inline-out-of-time.json) |
 | Inn Hand | 325865 | [325865-inn-hand.json](./325865-inn-hand.json) |
 | Inn Mage | 156608 | [156608-inn-mage.json](./156608-inn-mage.json) |
@@ -1756,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Parties | 7869 | [7869-invisible-parties.json](./7869-invisible-parties.json) |
 | Invisible War Revised | 404339 | [404339-invisible-war-revised.json](./404339-invisible-war-revised.json) |
 | Invisible: Story Extension | 168364 | [168364-invisible-story-extension.json](./168364-invisible-story-extension.json) |
+| Invitation | 94559 | [94559-invitation.json](./94559-invitation.json) |
 | Invitation to Fear | 188611 | [188611-invitation-to-fear.json](./188611-invitation-to-fear.json) |
 | Inviyya | 182924 | [182924-inviyya.json](./182924-inviyya.json) |
 | Invizimals | 2994 | [2994-invizimals.json](./2994-invizimals.json) |
