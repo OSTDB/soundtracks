@@ -1168,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause | 1042 | [1042-just-cause.json](./1042-just-cause.json) |
 | Just Cause 2: Complete Edition | 186901 | [186901-just-cause-2-complete-edition.json](./186901-just-cause-2-complete-edition.json) |
 | Just Cause 2: Multiplayer Mod | 93898 | [93898-just-cause-2-multiplayer-mod.json](./93898-just-cause-2-multiplayer-mod.json) |
+| Just Cause 4: Dare Devils of Destruction | 117492 | [117492-just-cause-4-dare-devils-of-destruction.json](./117492-just-cause-4-dare-devils-of-destruction.json) |
 | Just Cause Collection | 53245 | [53245-just-cause-collection.json](./53245-just-cause-collection.json) |
 | Just Cause Collection Bundle | 384104 | [384104-just-cause-collection-bundle.json](./384104-just-cause-collection-bundle.json) |
 | Just Climb | 286011 | [286011-just-climb.json](./286011-just-climb.json) |
