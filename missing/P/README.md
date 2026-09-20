@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddles | 214545 | [214545-paddles.json](./214545-paddles.json) |
 | Padel Pro World Tour | 409553 | [409553-padel-pro-world-tour.json](./409553-padel-pro-world-tour.json) |
 | Pagan: Absent Gods | 111835 | [111835-pagan-absent-gods.json](./111835-pagan-absent-gods.json) |
+| Pagans Must Die | 116853 | [116853-pagans-must-die.json](./116853-pagans-must-die.json) |
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
 | Pagui | 124178 | [124178-pagui.json](./124178-pagui.json) |
 | Pahtkest! | 382342 | [382342-pahtkest.json](./382342-pahtkest.json) |
@@ -2298,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of Black Cove: Sink 'Em All | 120210 | [120210-pirates-of-black-cove-sink-em-all.json](./120210-pirates-of-black-cove-sink-em-all.json) |
 | Pirates of Donkey Island | 276321 | [276321-pirates-of-donkey-island.json](./276321-pirates-of-donkey-island.json) |
 | Pirates of First Star | 115668 | [115668-pirates-of-first-star.json](./115668-pirates-of-first-star.json) |
+| Pirates of the Asteroid Belt VR | 116857 | [116857-pirates-of-the-asteroid-belt-vr.json](./116857-pirates-of-the-asteroid-belt-vr.json) |
 | Pirates of the Barbary Coast | 38929 | [38929-pirates-of-the-barbary-coast.json](./38929-pirates-of-the-barbary-coast.json) |
 | Pirates of the Burning Sea | 21283 | [21283-pirates-of-the-burning-sea.json](./21283-pirates-of-the-burning-sea.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 20542 | [20542-pirates-of-the-caribbean-dead-mans-chest.json](./20542-pirates-of-the-caribbean-dead-mans-chest.json) |
@@ -2864,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Outside Simulator | 189145 | [189145-play-outside-simulator.json](./189145-play-outside-simulator.json) |
 | Play Room 0g | 111017 | [111017-play-room-0g.json](./111017-play-room-0g.json) |
 | Play Something Different Vol. 1 | 173788 | [173788-play-something-different-vol-1.json](./173788-play-something-different-vol-1.json) |
+| Play Tag | 116810 | [116810-play-tag.json](./116810-play-tag.json) |
 | Play Tennis | 323171 | [323171-play-tennis.json](./323171-play-tennis.json) |
 | Play this life | 365675 | [365675-play-this-life.json](./365675-play-this-life.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
@@ -3868,6 +3871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pow Pow: Dye it up! | 195728 | [195728-pow-pow-dye-it-up.json](./195728-pow-pow-dye-it-up.json) |
 | Pow: Horyo | 131376 | [131376-pow-horyo.json](./131376-pow-horyo.json) |
 | Powargrid | 33257 | [33257-powargrid.json](./33257-powargrid.json) |
+| Powder VR | 116864 | [116864-powder-vr.json](./116864-powder-vr.json) |
 | Powdergray | 322965 | [322965-powdergray.json](./322965-powdergray.json) |
 | Power | 164447 | [164447-power.json](./164447-power.json) |
 | Power (of) Metal | 199599 | [199599-power-of-metal.json](./199599-power-of-metal.json) |
