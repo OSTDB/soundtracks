@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Election Day | 415126 | [415126-election-day.json](./415126-election-day.json) |
 | Election Train | 406206 | [406206-election-train.json](./406206-election-train.json) |
 | Electra | 78377 | [78377-electra.json](./78377-electra.json) |
+| Electric Crayon Deluxe: Dinosaurs Are Forever | 71765 | [71765-electric-crayon-deluxe-dinosaurs-are-forever.json](./71765-electric-crayon-deluxe-dinosaurs-are-forever.json) |
 | Electric Crayon Deluxe: Teenage Mutant Hero Turtles - World Tour | 78007 | [78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json](./78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json) |
 | Electric Crayon: Fun on the Farm | 73265 | [73265-electric-crayon-fun-on-the-farm.json](./73265-electric-crayon-fun-on-the-farm.json) |
 | Electric Crayon: This Land Is Your Land | 70335 | [70335-electric-crayon-this-land-is-your-land.json](./70335-electric-crayon-this-land-is-your-land.json) |
@@ -740,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleven: Table Tennis VR | 32889 | [32889-eleven-table-tennis-vr.json](./32889-eleven-table-tennis-vr.json) |
 | Eleventh: Unsacred | 255165 | [255165-eleventh-unsacred.json](./255165-eleventh-unsacred.json) |
 | Elf Adventure | 282715 | [282715-elf-adventure.json](./282715-elf-adventure.json) |
+| Elf Bowling 6: Air Biscuits | 71801 | [71801-elf-bowling-6-air-biscuits.json](./71801-elf-bowling-6-air-biscuits.json) |
 | Elf Epizode One | 114356 | [114356-elf-epizode-one.json](./114356-elf-epizode-one.json) |
 | Elf Girl Pinball | 212891 | [212891-elf-girl-pinball.json](./212891-elf-girl-pinball.json) |
 | Elf Manor | 126422 | [126422-elf-manor.json](./126422-elf-manor.json) |
