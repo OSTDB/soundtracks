@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garage Mechanic Simulator | 124020 | [124020-garage-mechanic-simulator.json](./124020-garage-mechanic-simulator.json) |
 | Garage Works | 278417 | [278417-garage-works.json](./278417-garage-works.json) |
 | Garage: Bad Dream Adventure | 24947 | [24947-garage-bad-dream-adventure.json](./24947-garage-bad-dream-adventure.json) |
+| Garaku Tale | 122882 | [122882-garaku-tale.json](./122882-garaku-tale.json) |
 | Garbage | 133215 | [133215-garbage.json](./133215-garbage.json) |
 | Garbage Collect | 201223 | [201223-garbage-collect.json](./201223-garbage-collect.json) |
 | Garbage Collector | 376437 | [376437-garbage-collector.json](./376437-garbage-collector.json) |
