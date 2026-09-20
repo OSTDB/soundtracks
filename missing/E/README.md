@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-Shop Tycoon | 293624 | [293624-e-shop-tycoon.json](./293624-e-shop-tycoon.json) |
 | E-Tech Simulator | 308960 | [308960-e-tech-simulator.json](./308960-e-tech-simulator.json) |
 | E.E.R.I.E2 | 221760 | [221760-e-e-r-i-e2.json](./221760-e-e-r-i-e2.json) |
+| E.R. Mania | 91748 | [91748-e-r-mania.json](./91748-e-r-mania.json) |
 | E.S.P. | 145658 | [145658-e-s-p.json](./145658-e-s-p.json) |
 | E.S.S. Mega | 84246 | [84246-e-s-s-mega.json](./84246-e-s-s-mega.json) |
 | E.T. the Extra-Terrestrial Fixed | 335114 | [335114-e-t-the-extra-terrestrial-fixed.json](./335114-e-t-the-extra-terrestrial-fixed.json) |
@@ -540,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Marisa | 332517 | [332517-eiyuden-chronicle-hundred-heroes-the-chapter-of-marisa.json](./332517-eiyuden-chronicle-hundred-heroes-the-chapter-of-marisa.json) |
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Markus | 332518 | [332518-eiyuden-chronicle-hundred-heroes-the-chapter-of-markus.json](./332518-eiyuden-chronicle-hundred-heroes-the-chapter-of-markus.json) |
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Seign | 332519 | [332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json](./332519-eiyuden-chronicle-hundred-heroes-the-chapter-of-seign.json) |
+| Eiyuu Shigan: Gal Act Heroism | 91760 | [91760-eiyuu-shigan-gal-act-heroism.json](./91760-eiyuu-shigan-gal-act-heroism.json) |
 | Eizo Play: Megumi | 69857 | [69857-eizo-play-megumi.json](./69857-eizo-play-megumi.json) |
 | Eject Bombin' | 182923 | [182923-eject-bombin.json](./182923-eject-bombin.json) |
 | Eklips | 174180 | [174180-eklips.json](./174180-eklips.json) |
@@ -785,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellipsis | 19862 | [19862-ellipsis.json](./19862-ellipsis.json) |
 | EllrLand | 229801 | [229801-ellrland.json](./229801-ellrland.json) |
 | Ells Tales: Chairbound | 358388 | [358388-ells-tales-chairbound.json](./358388-ells-tales-chairbound.json) |
+| Elm Knight: A Living Body Armor | 91762 | [91762-elm-knight-a-living-body-armor.json](./91762-elm-knight-a-living-body-armor.json) |
 | Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
 | Elminage Original | 21033 | [21033-elminage-original.json](./21033-elminage-original.json) |
 | Elmo's Deep Sea Adventure | 71511 | [71511-elmos-deep-sea-adventure.json](./71511-elmos-deep-sea-adventure.json) |
