@@ -2183,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graffiti Cozy | 189061 | [189061-graffiti-cozy.json](./189061-graffiti-cozy.json) |
 | Graffiti Groovin' | 228465 | [228465-graffiti-groovin.json](./228465-graffiti-groovin.json) |
 | Graffiti Simulator | 326418 | [326418-graffiti-simulator.json](./326418-graffiti-simulator.json) |
+| GraFi | 117476 | [117476-grafi.json](./117476-grafi.json) |
 | GraFi 2 | 119013 | [119013-grafi-2.json](./119013-grafi-2.json) |
 | GraFi Christmas | 126556 | [126556-grafi-christmas.json](./126556-grafi-christmas.json) |
 | GraFi Halloween | 127309 | [127309-grafi-halloween.json](./127309-grafi-halloween.json) |
