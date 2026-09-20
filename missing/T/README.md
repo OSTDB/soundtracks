@@ -2685,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dinosaurs Are Here | 152732 | [152732-the-dinosaurs-are-here.json](./152732-the-dinosaurs-are-here.json) |
 | The DioField Chronicle: Digital Deluxe Edition | 212339 | [212339-the-diofield-chronicle-digital-deluxe-edition.json](./212339-the-diofield-chronicle-digital-deluxe-edition.json) |
 | The Directed | 89253 | [89253-the-directed.json](./89253-the-directed.json) |
+| The Dis-United States of America | 126405 | [126405-the-dis-united-states-of-america.json](./126405-the-dis-united-states-of-america.json) |
 | The Disappearance of the Mitchells | 134083 | [134083-the-disappearance-of-the-mitchells.json](./134083-the-disappearance-of-the-mitchells.json) |
 | The Disappearing of Gensokyo: Kogasa, Iku Character Pack | 170423 | [170423-the-disappearing-of-gensokyo-kogasa-iku-character-pack.json](./170423-the-disappearing-of-gensokyo-kogasa-iku-character-pack.json) |
 | The Disappearing of Gensokyo: Patchouli | 210118 | [210118-the-disappearing-of-gensokyo-patchouli.json](./210118-the-disappearing-of-gensokyo-patchouli.json) |
@@ -3656,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters 2001 | 15432 | [15432-the-king-of-fighters-2001.json](./15432-the-king-of-fighters-2001.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
 | The King of Fighters EX2: Howling Blood | 49169 | [49169-the-king-of-fighters-ex2-howling-blood.json](./49169-the-king-of-fighters-ex2-howling-blood.json) |
+| The King of Fighters XIII: Galaxy Edition | 126461 | [126461-the-king-of-fighters-xiii-galaxy-edition.json](./126461-the-king-of-fighters-xiii-galaxy-edition.json) |
 | The King of Fighters XIII: Iori with the Power of Flames | 404927 | [404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json](./404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json) |
 | The King of Fighters XIII: Mr. Karate | 404942 | [404942-the-king-of-fighters-xiii-mr-karate.json](./404942-the-king-of-fighters-xiii-mr-karate.json) |
 | The King of Fighters XIII: Nests Style Kyo | 404922 | [404922-the-king-of-fighters-xiii-nests-style-kyo.json](./404922-the-king-of-fighters-xiii-nests-style-kyo.json) |
@@ -3801,6 +3803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Opening | 396902 | [396902-the-last-opening.json](./396902-the-last-opening.json) |
 | The Last Photon | 33050 | [33050-the-last-photon.json](./33050-the-last-photon.json) |
 | The Last Pirate Adventure: Drake's Treasure | 169404 | [169404-the-last-pirate-adventure-drakes-treasure.json](./169404-the-last-pirate-adventure-drakes-treasure.json) |
+| The Last Pixel | 126408 | [126408-the-last-pixel.json](./126408-the-last-pixel.json) |
 | The Last Plague: Blight | 151579 | [151579-the-last-plague-blight.json](./151579-the-last-plague-blight.json) |
 | The Last Plast | 302126 | [302126-the-last-plast.json](./302126-the-last-plast.json) |
 | The Last Player | 115469 | [115469-the-last-player.json](./115469-the-last-player.json) |
@@ -10368,6 +10371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typical NPC | 412263 | [412263-typical-npc.json](./412263-typical-npc.json) |
 | Typing Break | 373079 | [373079-typing-break.json](./373079-typing-break.json) |
 | Typing Hearts | 149091 | [149091-typing-hearts.json](./149091-typing-hearts.json) |
+| Typing Hero | 126428 | [126428-typing-hero.json](./126428-typing-hero.json) |
 | Typing Karaoke | 64362 | [64362-typing-karaoke.json](./64362-typing-karaoke.json) |
 | Typing Ninja | 290943 | [290943-typing-ninja.json](./290943-typing-ninja.json) |
 | Typing of Ys | 252843 | [252843-typing-of-ys.json](./252843-typing-of-ys.json) |
