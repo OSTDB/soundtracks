@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo-phonics 14: The Penguin Pond Word Order Game | 101474 | [101474-zoo-phonics-14-the-penguin-pond-word-order-game.json](./101474-zoo-phonics-14-the-penguin-pond-word-order-game.json) |
 | Zoo-phonics 3: The Zoo Train Mix-Up | 101479 | [101479-zoo-phonics-3-the-zoo-train-mix-up.json](./101479-zoo-phonics-3-the-zoo-train-mix-up.json) |
 | Zoo-phonics 4: Robby Rabbit's Matching Pairs | 101480 | [101480-zoo-phonics-4-robby-rabbits-matching-pairs.json](./101480-zoo-phonics-4-robby-rabbits-matching-pairs.json) |
+| Zoo-phonics 5: The Hidden Picture Aviary | 101942 | [101942-zoo-phonics-5-the-hidden-picture-aviary.json](./101942-zoo-phonics-5-the-hidden-picture-aviary.json) |
 | Zoo-phonics 6: The Refreshment Stand | 101481 | [101481-zoo-phonics-6-the-refreshment-stand.json](./101481-zoo-phonics-6-the-refreshment-stand.json) |
 | Zoo-phonics 7: The Shipwreck Fishpond | 101482 | [101482-zoo-phonics-7-the-shipwreck-fishpond.json](./101482-zoo-phonics-7-the-shipwreck-fishpond.json) |
 | Zoo-phonics 8. Make It Say with Inny Inchworm | 101483 | [101483-zoo-phonics-8-make-it-say-with-inny-inchworm.json](./101483-zoo-phonics-8-make-it-say-with-inny-inchworm.json) |
