@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iaidoka_Interlude | 273922 | [273922-iaidoka-interlude.json](./273922-iaidoka-interlude.json) |
 | IAlly | 250008 | [250008-ially.json](./250008-ially.json) |
 | iAmBored Throw It Deluxe | 101527 | [101527-iambored-throw-it-deluxe.json](./101527-iambored-throw-it-deluxe.json) |
+| Ian Botham's Cricket | 74062 | [74062-ian-bothams-cricket.json](./74062-ian-bothams-cricket.json) |
 | Ian Botham's Test Match | 15574 | [15574-ian-bothams-test-match.json](./15574-ian-bothams-test-match.json) |
 | Ibara | 44623 | [44623-ibara.json](./44623-ibara.json) |
 | Ibb & Obb | 9139 | [9139-ibb-and-obb.json](./9139-ibb-and-obb.json) |
