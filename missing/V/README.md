@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volantia: Kingdom in the Sky | 71019 | [71019-volantia-kingdom-in-the-sky.json](./71019-volantia-kingdom-in-the-sky.json) |
 | Volara | 339792 | [339792-volara.json](./339792-volara.json) |
 | Volatile Defender | 180791 | [180791-volatile-defender.json](./180791-volatile-defender.json) |
+| Volatile Triangle | 82397 | [82397-volatile-triangle.json](./82397-volatile-triangle.json) |
 | Volcanewt | 304572 | [304572-volcanewt.json](./304572-volcanewt.json) |
 | Volcania Peaks | 254120 | [254120-volcania-peaks.json](./254120-volcania-peaks.json) |
 | Volcanic Blocks | 146918 | [146918-volcanic-blocks.json](./146918-volcanic-blocks.json) |
@@ -1379,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vulcan Sacrifice | 53880 | [53880-vulcan-sacrifice.json](./53880-vulcan-sacrifice.json) |
 | Vulcan Tower Defence | 234759 | [234759-vulcan-tower-defence.json](./234759-vulcan-tower-defence.json) |
 | Vulcard | 351715 | [351715-vulcard.json](./351715-vulcard.json) |
+| Vulpine | 82477 | [82477-vulpine.json](./82477-vulpine.json) |
 | Vulture Attack | 40721 | [40721-vulture-attack.json](./40721-vulture-attack.json) |
 | Vulture: Unlimited Frontier - 0 | 255130 | [255130-vulture-unlimited-frontier-0.json](./255130-vulture-unlimited-frontier-0.json) |
 | VVVV | 225771 | [225771-vvvv.json](./225771-vvvv.json) |
