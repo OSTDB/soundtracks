@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice King in Secret Santa | 339824 | [339824-ice-king-in-secret-santa.json](./339824-ice-king-in-secret-santa.json) |
 | Ice Lakes | 20206 | [20206-ice-lakes.json](./20206-ice-lakes.json) |
 | Ice Land | 276843 | [276843-ice-land.json](./276843-ice-land.json) |
+| Ice Master | 92841 | [92841-ice-master.json](./92841-ice-master.json) |
 | Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
 | Ice on the Edge | 335288 | [335288-ice-on-the-edge.json](./335288-ice-on-the-edge.json) |
 | Ice Pops & Popsicles | 102607 | [102607-ice-pops-and-popsicles.json](./102607-ice-pops-and-popsicles.json) |
@@ -1885,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irreverence | 412428 | [412428-irreverence.json](./412428-irreverence.json) |
 | Irreversible | 375839 | [375839-irreversible.json](./375839-irreversible.json) |
 | Irritability & Mood Swings | 195182 | [195182-irritability-and-mood-swings.json](./195182-irritability-and-mood-swings.json) |
+| Irritating Stick | 92863 | [92863-irritating-stick.json](./92863-irritating-stick.json) |
 | Iruka Iru Ka | 187491 | [187491-iruka-iru-ka.json](./187491-iruka-iru-ka.json) |
 | Irwin Ego: Ace Attorney | 302652 | [302652-irwin-ego-ace-attorney.json](./302652-irwin-ego-ace-attorney.json) |
 | Is Anna OK? | 286661 | [286661-is-anna-ok.json](./286661-is-anna-ok.json) |
