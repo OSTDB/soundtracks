@@ -743,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Legacy: The Jade Cipher - Console Edition | 132851 | [132851-immortal-legacy-the-jade-cipher-console-edition.json](./132851-immortal-legacy-the-jade-cipher-console-edition.json) |
 | Immortal Life | 151738 | [151738-immortal-life.json](./151738-immortal-life.json) |
 | Immortal Love: Bitter Awakening | 187951 | [187951-immortal-love-bitter-awakening.json](./187951-immortal-love-bitter-awakening.json) |
+| Immortal Love: Kiss of the Night | 120796 | [120796-immortal-love-kiss-of-the-night.json](./120796-immortal-love-kiss-of-the-night.json) |
 | Immortal Love: Letter from the Past | 53222 | [53222-immortal-love-letter-from-the-past.json](./53222-immortal-love-letter-from-the-past.json) |
 | Immortal Love: Sparkle of Talent | 187956 | [187956-immortal-love-sparkle-of-talent.json](./187956-immortal-love-sparkle-of-talent.json) |
 | Immortal Love: Stone Beauty - Collector's Edition | 130156 | [130156-immortal-love-stone-beauty-collectors-edition.json](./130156-immortal-love-stone-beauty-collectors-edition.json) |
