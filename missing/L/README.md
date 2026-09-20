@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line of Fire | 19487 | [19487-line-of-fire.json](./19487-line-of-fire.json) |
 | Line of Fire: Pirate Waltz | 290544 | [290544-line-of-fire-pirate-waltz.json](./290544-line-of-fire-pirate-waltz.json) |
 | Line of Sight: Starters Pack | 156102 | [156102-line-of-sight-starters-pack.json](./156102-line-of-sight-starters-pack.json) |
+| Line Physics: Draw Lines to Solve Puzzles | 105777 | [105777-line-physics-draw-lines-to-solve-puzzles.json](./105777-line-physics-draw-lines-to-solve-puzzles.json) |
 | Line Physics: Drawing Puzzle | 106976 | [106976-line-physics-drawing-puzzle.json](./106976-line-physics-drawing-puzzle.json) |
 | Line Points: Challenge your coordination | 232055 | [232055-line-points-challenge-your-coordination.json](./232055-line-points-challenge-your-coordination.json) |
 | Line Rider | 28810 | [28810-line-rider.json](./28810-line-rider.json) |
@@ -2326,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes: Carrot Crazy | 49870 | [49870-looney-tunes-carrot-crazy.json](./49870-looney-tunes-carrot-crazy.json) |
 | Looney Tunes: Dizzy Driving | 136999 | [136999-looney-tunes-dizzy-driving.json](./136999-looney-tunes-dizzy-driving.json) |
 | Looney Tunes: Wacky World of Sports - Deluxe Edition | 315873 | [315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json](./315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json) |
+| Loonley Toons Run | 105767 | [105767-loonley-toons-run.json](./105767-loonley-toons-run.json) |
 | Loony | 197934 | [197934-loony.json](./197934-loony.json) |
 | Loony Labyrinth | 122307 | [122307-loony-labyrinth.json](./122307-loony-labyrinth.json) |
 | Loop | 157568 | [157568-loop.json](./157568-loop.json) |
@@ -2645,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lots of Things 2: Travel and Search - Collector's Edition | 307759 | [307759-lots-of-things-2-travel-and-search-collectors-edition.json](./307759-lots-of-things-2-travel-and-search-collectors-edition.json) |
 | LotS: Light on the Sea | 400371 | [400371-lots-light-on-the-sea.json](./400371-lots-light-on-the-sea.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
+| Lotus | 105745 | [105745-lotus.json](./105745-lotus.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
 | Lotus III: The Ultimate Challenge | 12672 | [12672-lotus-iii-the-ultimate-challenge.json](./12672-lotus-iii-the-ultimate-challenge.json) |
 | Lotus Minigames: Berlin Traffic | 120420 | [120420-lotus-minigames-berlin-traffic.json](./120420-lotus-minigames-berlin-traffic.json) |
@@ -2867,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luànshì Yúnyān | 398456 | [398456-luanshi-yunyan.json](./398456-luanshi-yunyan.json) |
 | Luberman and the Legend of Animals Warriors | 208580 | [208580-luberman-and-the-legend-of-animals-warriors.json](./208580-luberman-and-the-legend-of-animals-warriors.json) |
 | Luc Bernard's Reaper | 93601 | [93601-luc-bernards-reaper.json](./93601-luc-bernards-reaper.json) |
+| Luca: The Dreamer | 105766 | [105766-luca-the-dreamer.json](./105766-luca-the-dreamer.json) |
 | Lucah: Born of a Dream | 99120 | [99120-lucah-born-of-a-dream.json](./99120-lucah-born-of-a-dream.json) |
 | Lucas y el Caso del Cuadro Robado | 323933 | [323933-lucas-y-el-caso-del-cuadro-robado.json](./323933-lucas-y-el-caso-del-cuadro-robado.json) |
 | Lucas's Problem | 72095 | [72095-lucass-problem.json](./72095-lucass-problem.json) |
