@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famous | 91389 | [91389-famous.json](./91389-famous.json) |
 | Famous - The Road to Glory! | 47971 | [47971-famous-the-road-to-glory.json](./47971-famous-the-road-to-glory.json) |
 | Famousity Game | 98398 | [98398-famousity-game.json](./98398-famousity-game.json) |
+| Fan Fun 3D | 99985 | [99985-fan-fun-3d.json](./99985-fan-fun-3d.json) |
 | Fan Pop Rhythm Stage: Aim for the Heart | 279137 | [279137-fan-pop-rhythm-stage-aim-for-the-heart.json](./279137-fan-pop-rhythm-stage-aim-for-the-heart.json) |
 | Fan Tas Tic | 91441 | [91441-fan-tas-tic.json](./91441-fan-tas-tic.json) |
 | Fan Zhuan 21 Ke | 277316 | [277316-fan-zhuan-21-ke.json](./277316-fan-zhuan-21-ke.json) |
@@ -3820,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 282741 | [282741-frogger.json](./282741-frogger.json) |
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
 | Frogger Evolution | 218547 | [218547-frogger-evolution.json](./218547-frogger-evolution.json) |
+| Frogger HD | 99998 | [99998-frogger-hd.json](./99998-frogger-hd.json) |
 | Frogger II: ThreeeDeep! | 11464 | [11464-frogger-ii-threeedeep.json](./11464-frogger-ii-threeedeep.json) |
 | Frogger Returns | 11484 | [11484-frogger-returns.json](./11484-frogger-returns.json) |
 | Frogger: The Great Quest | 11467 | [11467-frogger-the-great-quest.json](./11467-frogger-the-great-quest.json) |
