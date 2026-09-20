@@ -3131,6 +3131,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffle! Episode 2: Kami ni mo Akuma ni mo Nerawareteiru Otoko | 380427 | [380427-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json](./380427-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json) |
 | Shuffleboard | 170526 | [170526-shuffleboard.json](./170526-shuffleboard.json) |
 | Shuffled Words | 219608 | [219608-shuffled-words.json](./219608-shuffled-words.json) |
+| Shugo Chara! 3-tsu no Tamago to Koisuru Joker | 70669 | [70669-shugo-chara-3-tsu-no-tamago-to-koisuru-joker.json](./70669-shugo-chara-3-tsu-no-tamago-to-koisuru-joker.json) |
+| Shugo Chara! Amu no Niji-iro Chara Change | 70666 | [70666-shugo-chara-amu-no-niji-iro-chara-change.json](./70666-shugo-chara-amu-no-niji-iro-chara-change.json) |
 | Shugo Chara! Spirit! Chara Formation-Rhythm | 124276 | [124276-shugo-chara-spirit-chara-formation-rhythm.json](./124276-shugo-chara-spirit-chara-formation-rhythm.json) |
 | Shǔguāng zhī Shī | 157116 | [157116-shuguang-zhi-shi.json](./157116-shuguang-zhi-shi.json) |
 | Shukuchi Ninja | 213457 | [213457-shukuchi-ninja.json](./213457-shukuchi-ninja.json) |
@@ -4962,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
 | Snowbird Solitaire | 354998 | [354998-snowbird-solitaire.json](./354998-snowbird-solitaire.json) |
 | Snowblind Aces | 216239 | [216239-snowblind-aces.json](./216239-snowblind-aces.json) |
+| Snowboard Heaven | 70664 | [70664-snowboard-heaven.json](./70664-snowboard-heaven.json) |
 | Snowboard Kids Plus | 72103 | [72103-snowboard-kids-plus.json](./72103-snowboard-kids-plus.json) |
 | Snowboard Legends | 322988 | [322988-snowboard-legends.json](./322988-snowboard-legends.json) |
 | Snowboard Madness | 325274 | [325274-snowboard-madness.json](./325274-snowboard-madness.json) |
@@ -7248,6 +7251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sporcle | 86844 | [86844-sporcle.json](./86844-sporcle.json) |
 | Spore | 55043 | [55043-spore.json](./55043-spore.json) |
 | Spore Collection | 51900 | [51900-spore-collection.json](./51900-spore-collection.json) |
+| Spore: Creepy and Cute | 70680 | [70680-spore-creepy-and-cute.json](./70680-spore-creepy-and-cute.json) |
 | Spore: Galactic Edition | 46617 | [46617-spore-galactic-edition.json](./46617-spore-galactic-edition.json) |
 | SporeBloom | 304716 | [304716-sporebloom.json](./304716-sporebloom.json) |
 | Sporeborn Dark | 272907 | [272907-sporeborn-dark.json](./272907-sporeborn-dark.json) |
