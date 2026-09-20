@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Squad | 192394 | [192394-zoo-squad.json](./192394-zoo-squad.json) |
 | Zoo Tycoon | 18538 | [18538-zoo-tycoon.json](./18538-zoo-tycoon.json) |
 | Zoo Tycoon 2 DS | 20773 | [20773-zoo-tycoon-2-ds.json](./20773-zoo-tycoon-2-ds.json) |
+| Zoo Tycoon 2: Endangered Species | 79604 | [79604-zoo-tycoon-2-endangered-species.json](./79604-zoo-tycoon-2-endangered-species.json) |
 | Zoo Tycoon 2: Marine Mania | 100132 | [100132-zoo-tycoon-2-marine-mania.json](./100132-zoo-tycoon-2-marine-mania.json) |
 | Zoo Tycoon DS | 18598 | [18598-zoo-tycoon-ds.json](./18598-zoo-tycoon-ds.json) |
 | Zoo Vet | 79929 | [79929-zoo-vet.json](./79929-zoo-vet.json) |
