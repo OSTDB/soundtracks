@@ -4748,6 +4748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pixel has You | 327198 | [327198-the-pixel-has-you.json](./327198-the-pixel-has-you.json) |
 | The Plague | 26707 | [26707-the-plague.json](./26707-the-plague.json) |
 | The Planet Crafter: Planet Humble | 317867 | [317867-the-planet-crafter-planet-humble.json](./317867-the-planet-crafter-planet-humble.json) |
+| The Plant | 105135 | [105135-the-plant.json](./105135-the-plant.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
 | The Player RPG | 102121 | [102121-the-player-rpg.json](./102121-the-player-rpg.json) |
 | The Playroom 2 | 124137 | [124137-the-playroom-2.json](./124137-the-playroom-2.json) |
@@ -4991,6 +4992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rooms | 191855 | [191855-the-rooms.json](./191855-the-rooms.json) |
 | The Roottrees Are Dead | 276492 | [276492-the-roottrees-are-dead.json](./276492-the-roottrees-are-dead.json) |
 | The Roscoe: Who's Ya Daddy? | 183587 | [183587-the-roscoe-whos-ya-daddy.json](./183587-the-roscoe-whos-ya-daddy.json) |
+| The Rose Garden | 105113 | [105113-the-rose-garden.json](./105113-the-rose-garden.json) |
 | The Rose of Segunda | 101612 | [101612-the-rose-of-segunda.json](./101612-the-rose-of-segunda.json) |
 | The Rose Princess | 69308 | [69308-the-rose-princess.json](./69308-the-rose-princess.json) |
 | The Rot Below | 386847 | [386847-the-rot-below.json](./386847-the-rot-below.json) |
@@ -6003,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warp: Cephisso | 351641 | [351641-the-warp-cephisso.json](./351641-the-warp-cephisso.json) |
 | The Warrior of Treasures 2: Skull Hunter | 107804 | [107804-the-warrior-of-treasures-2-skull-hunter.json](./107804-the-warrior-of-treasures-2-skull-hunter.json) |
 | The Warrior of Wisdom | 173784 | [173784-the-warrior-of-wisdom.json](./173784-the-warrior-of-wisdom.json) |
+| The Warrior War | 105101 | [105101-the-warrior-war.json](./105101-the-warrior-war.json) |
 | The Wars II Evolution | 255725 | [255725-the-wars-ii-evolution.json](./255725-the-wars-ii-evolution.json) |
 | The Wasted Knight | 207325 | [207325-the-wasted-knight.json](./207325-the-wasted-knight.json) |
 | The Watch | 377135 | [377135-the-watch.json](./377135-the-watch.json) |
@@ -8528,6 +8531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Silver Night Festival: Freedom Train | 195794 | [195794-touhou-silver-night-festival-freedom-train.json](./195794-touhou-silver-night-festival-freedom-train.json) |
 | Touhou Soccer | 128380 | [128380-touhou-soccer.json](./128380-touhou-soccer.json) |
 | Touhou Soccer Moushuuden | 128381 | [128381-touhou-soccer-moushuuden.json](./128381-touhou-soccer-moushuuden.json) |
+| Touhou Soujinengi V: The Genius of Sappheiros | 105121 | [105121-touhou-soujinengi-v-the-genius-of-sappheiros.json](./105121-touhou-soujinengi-v-the-genius-of-sappheiros.json) |
 | Touhou Spell Bubble | 131922 | [131922-touhou-spell-bubble.json](./131922-touhou-spell-bubble.json) |
 | Touhou Spell Bubble: Akatsuki Records Song Pack | 209154 | [209154-touhou-spell-bubble-akatsuki-records-song-pack.json](./209154-touhou-spell-bubble-akatsuki-records-song-pack.json) |
 | Touhou Spell Bubble: Character Pack Hata no Kokoro | 209525 | [209525-touhou-spell-bubble-character-pack-hata-no-kokoro.json](./209525-touhou-spell-bubble-character-pack-hata-no-kokoro.json) |
@@ -8900,6 +8904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Chase | 148367 | [148367-train-chase.json](./148367-train-chase.json) |
 | Train Conductor World | 109578 | [109578-train-conductor-world.json](./109578-train-conductor-world.json) |
 | Train Crew | 182347 | [182347-train-crew.json](./182347-train-crew.json) |
+| Train Defense | 105139 | [105139-train-defense.json](./105139-train-defense.json) |
 | Train Driver Journey 2 - Iberia Interior | 88222 | [88222-train-driver-journey-2-iberia-interior.json](./88222-train-driver-journey-2-iberia-interior.json) |
 | Train Driver Journey 4 - Introduction to Steam | 86881 | [86881-train-driver-journey-4-introduction-to-steam.json](./86881-train-driver-journey-4-introduction-to-steam.json) |
 | Train Fever: USA | 238506 | [238506-train-fever-usa.json](./238506-train-fever-usa.json) |
@@ -9646,6 +9651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree World | 225749 | [225749-tree-world.json](./225749-tree-world.json) |
 | Tree's Love Crossing Above | 346571 | [346571-trees-love-crossing-above.json](./346571-trees-love-crossing-above.json) |
 | Treepury | 303802 | [303802-treepury.json](./303802-treepury.json) |
+| Trek: Travel Around the World | 105083 | [105083-trek-travel-around-the-world.json](./105083-trek-travel-around-the-world.json) |
 | Trekking and Camping | 167262 | [167262-trekking-and-camping.json](./167262-trekking-and-camping.json) |
 | Trembling Dots | 128620 | [128620-trembling-dots.json](./128620-trembling-dots.json) |
 | Tremen | 166218 | [166218-tremen.json](./166218-tremen.json) |
@@ -10266,6 +10272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn Chase | 135053 | [135053-turn-chase.json](./135053-turn-chase.json) |
 | Turn on the Light: Jigsaw | 253445 | [253445-turn-on-the-light-jigsaw.json](./253445-turn-on-the-light-jigsaw.json) |
 | Turn on the Lights Carefully | 238750 | [238750-turn-on-the-lights-carefully.json](./238750-turn-on-the-lights-carefully.json) |
+| Turn Run | 105124 | [105124-turn-run.json](./105124-turn-run.json) |
 | Turn Tack | 197919 | [197919-turn-tack.json](./197919-turn-tack.json) |
 | Turn-Based Champion | 99664 | [99664-turn-based-champion.json](./99664-turn-based-champion.json) |
 | Turn-Based Invaders From Space! | 184074 | [184074-turn-based-invaders-from-space.json](./184074-turn-based-invaders-from-space.json) |
