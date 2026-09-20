@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Knight Rayearth | 78959 | [78959-magic-knight-rayearth.json](./78959-magic-knight-rayearth.json) |
 | Magic Knight Rayearth 2: Making of Magic Knight | 45265 | [45265-magic-knight-rayearth-2-making-of-magic-knight.json](./45265-magic-knight-rayearth-2-making-of-magic-knight.json) |
 | Magic Labyrinth 3D | 279119 | [279119-magic-labyrinth-3d.json](./279119-magic-labyrinth-3d.json) |
+| Magic Lanterns | 74060 | [74060-magic-lanterns.json](./74060-magic-lanterns.json) |
 | Magic League | 99016 | [99016-magic-league.json](./99016-magic-league.json) |
 | Magic Light | 94727 | [94727-magic-light.json](./94727-magic-light.json) |
 | Magic LightHouse | 147385 | [147385-magic-lighthouse.json](./147385-magic-lighthouse.json) |
@@ -422,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Realm: Online | 102934 | [102934-magic-realm-online.json](./102934-magic-realm-online.json) |
 | Magic Revenge: Casual Idle RPG | 180234 | [180234-magic-revenge-casual-idle-rpg.json](./180234-magic-revenge-casual-idle-rpg.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
+| Magic School Bus Lands on Mars | 74082 | [74082-magic-school-bus-lands-on-mars.json](./74082-magic-school-bus-lands-on-mars.json) |
 | Magic School Bus Volcano Adventure | 69818 | [69818-magic-school-bus-volcano-adventure.json](./69818-magic-school-bus-volcano-adventure.json) |
 | Magic Scroll | 278543 | [278543-magic-scroll.json](./278543-magic-scroll.json) |
 | Magic Sheep | 380397 | [380397-magic-sheep.json](./380397-magic-sheep.json) |
@@ -1647,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Luna | 249867 | [249867-master-of-luna.json](./249867-master-of-luna.json) |
 | Master of Magic: Rise of the Soultrapped | 256261 | [256261-master-of-magic-rise-of-the-soultrapped.json](./256261-master-of-magic-rise-of-the-soultrapped.json) |
 | Master of Magic: Scourge of the Seas | 280347 | [280347-master-of-magic-scourge-of-the-seas.json](./280347-master-of-magic-scourge-of-the-seas.json) |
+| Master of Monsters | 74049 | [74049-master-of-monsters.json](./74049-master-of-monsters.json) |
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
 | Master of Orion II: Battle at Antares | 68 | [68-master-of-orion-ii-battle-at-antares.json](./68-master-of-orion-ii-battle-at-antares.json) |
 | Master of Orion III | 69 | [69-master-of-orion-iii.json](./69-master-of-orion-iii.json) |
@@ -3260,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroJam | 371358 | [371358-microjam.json](./371358-microjam.json) |
 | Microjob | 149564 | [149564-microjob.json](./149564-microjob.json) |
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
+| MicroLink Shut the Box | 74063 | [74063-microlink-shut-the-box.json](./74063-microlink-shut-the-box.json) |
 | Micromon Adventures | 105865 | [105865-micromon-adventures.json](./105865-micromon-adventures.json) |
 | Micron Defense Force | 303062 | [303062-micron-defense-force.json](./303062-micron-defense-force.json) |
 | Micropolis | 46622 | [46622-micropolis.json](./46622-micropolis.json) |
@@ -3270,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroSoccer | 234062 | [234062-microsoccer.json](./234062-microsoccer.json) |
 | Microsoft Action Pack | 86036 | [86036-microsoft-action-pack.json](./86036-microsoft-action-pack.json) |
 | Microsoft Arcade | 94214 | [94214-microsoft-arcade.json](./94214-microsoft-arcade.json) |
+| Microsoft Baseball 2001 | 74046 | [74046-microsoft-baseball-2001.json](./74046-microsoft-baseball-2001.json) |
 | Microsoft Blackboard | 209517 | [209517-microsoft-blackboard.json](./209517-microsoft-blackboard.json) |
 | Microsoft Casino | 96510 | [96510-microsoft-casino.json](./96510-microsoft-casino.json) |
 | Microsoft Children's Miracle Network Games Bundle | 7069 | [7069-microsoft-childrens-miracle-network-games-bundle.json](./7069-microsoft-childrens-miracle-network-games-bundle.json) |
@@ -3711,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Sweeper Million | 300848 | [300848-mine-sweeper-million.json](./300848-mine-sweeper-million.json) |
 | Mine The Diamond | 245005 | [245005-mine-the-diamond.json](./245005-mine-the-diamond.json) |
 | Mine Upgrade | 369585 | [369585-mine-upgrade.json](./369585-mine-upgrade.json) |
+| Minebot Arena | 74050 | [74050-minebot-arena.json](./74050-minebot-arena.json) |
 | Minebuilder | 86893 | [86893-minebuilder.json](./86893-minebuilder.json) |
 | MineCart - 3D Mine Cart Game for MineCraft | 86692 | [86692-minecart-3d-mine-cart-game-for-minecraft.json](./86692-minecart-3d-mine-cart-game-for-minecraft.json) |
 | Minecart Madness | 188687 | [188687-minecart-madness.json](./188687-minecart-madness.json) |
@@ -5171,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mops & Mobs: A Sweeping Dungeon Adventure | 291767 | [291767-mops-and-mobs-a-sweeping-dungeon-adventure.json](./291767-mops-and-mobs-a-sweeping-dungeon-adventure.json) |
 | Moraff's Entrap | 69815 | [69815-moraffs-entrap.json](./69815-moraffs-entrap.json) |
 | Moraff's Escapade | 135666 | [135666-moraffs-escapade.json](./135666-moraffs-escapade.json) |
+| Moraff's World | 74053 | [74053-moraffs-world.json](./74053-moraffs-world.json) |
 | Morbid | 145591 | [145591-morbid.json](./145591-morbid.json) |
 | Morbid Catastrophe | 248313 | [248313-morbid-catastrophe.json](./248313-morbid-catastrophe.json) |
 | Morbidity: 1 | 271757 | [271757-morbidity-1.json](./271757-morbidity-1.json) |
@@ -5661,6 +5668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Big Wigs | 55931 | [55931-mr-big-wigs.json](./55931-mr-big-wigs.json) |
 | Mr. Bill | 92544 | [92544-mr-bill.json](./92544-mr-bill.json) |
 | Mr. Blob's Honey-Do List | 342639 | [342639-mr-blobs-honey-do-list.json](./342639-mr-blobs-honey-do-list.json) |
+| Mr. Blobby | 74042 | [74042-mr-blobby.json](./74042-mr-blobby.json) |
 | Mr. Bloopy Saves the World | 42659 | [42659-mr-bloopy-saves-the-world.json](./42659-mr-bloopy-saves-the-world.json) |
 | Mr. Boom | 46621 | [46621-mr-boom.json](./46621-mr-boom.json) |
 | Mr. Boston Clean Sweep | 72611 | [72611-mr-boston-clean-sweep.json](./72611-mr-boston-clean-sweep.json) |
