@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macaroni Houren-sou Interactive | 234183 | [234183-macaroni-houren-sou-interactive.json](./234183-macaroni-houren-sou-interactive.json) |
 | Macaroni in a Pot | 299156 | [299156-macaroni-in-a-pot.json](./299156-macaroni-in-a-pot.json) |
 | MacArthur's War: Battles for Korea | 62152 | [62152-macarthurs-war-battles-for-korea.json](./62152-macarthurs-war-battles-for-korea.json) |
+| MacBlaster | 93358 | [93358-macblaster.json](./93358-macblaster.json) |
 | Mace Knight | 391572 | [391572-mace-knight.json](./391572-mace-knight.json) |
 | Mace: The Dark Age | 3535 | [3535-mace-the-dark-age.json](./3535-mace-the-dark-age.json) |
 | MacGuffin | 34526 | [34526-macguffin.json](./34526-macguffin.json) |
@@ -1554,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masks of Deception | 200705 | [200705-masks-of-deception.json](./200705-masks-of-deception.json) |
 | Masochistic Maiden Aria and the Cavern of Blissful Agony | 252178 | [252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json](./252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json) |
 | Mason and Strings | 183606 | [183606-mason-and-strings.json](./183606-mason-and-strings.json) |
+| Masq | 93353 | [93353-masq.json](./93353-masq.json) |
 | Masquaradious | 266291 | [266291-masquaradious.json](./266291-masquaradious.json) |
 | Masque Mahjongg | 209554 | [209554-masque-mahjongg.json](./209554-masque-mahjongg.json) |
 | Masquerade of Miasma | 150621 | [150621-masquerade-of-miasma.json](./150621-masquerade-of-miasma.json) |
@@ -2389,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega-Bucks | 37068 | [37068-mega-bucks.json](./37068-mega-bucks.json) |
 | Mega-Corp | 45345 | [45345-mega-corp.json](./45345-mega-corp.json) |
 | MegaAri | 205788 | [205788-megaari.json](./205788-megaari.json) |
+| Megaball | 93348 | [93348-megaball.json](./93348-megaball.json) |
 | Megabat | 253913 | [253913-megabat.json](./253913-megabat.json) |
 | MegaBattle | 158561 | [158561-megabattle.json](./158561-megabattle.json) |
 | Megabonk | 327405 | [327405-megabonk.json](./327405-megabonk.json) |
@@ -3916,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
 | Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
 | Miniverse | 179059 | [179059-miniverse.json](./179059-miniverse.json) |
+| Miniverse Minigolf | 93383 | [93383-miniverse-minigolf.json](./93383-miniverse-minigolf.json) |
 | MiniWood VR | 118159 | [118159-miniwood-vr.json](./118159-miniwood-vr.json) |
 | MiniWorld | 184032 | [184032-miniworld.json](./184032-miniworld.json) |
 | Miniworld Royale | 208969 | [208969-miniworld-royale.json](./208969-miniworld-royale.json) |
@@ -5050,6 +5054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mooon | 276742 | [276742-mooon.json](./276742-mooon.json) |
 | Moop | 179665 | [179665-moop.json](./179665-moop.json) |
 | Moor Rail | 349370 | [349370-moor-rail.json](./349370-moor-rail.json) |
+| Moorfrog | 93346 | [93346-moorfrog.json](./93346-moorfrog.json) |
 | Moorhen 3: The Chicken Chase! | 49438 | [49438-moorhen-3-the-chicken-chase.json](./49438-moorhen-3-the-chicken-chase.json) |
 | Moorhen Playsuit | 364584 | [364584-moorhen-playsuit.json](./364584-moorhen-playsuit.json) |
 | Moorhen Seasons | 282544 | [282544-moorhen-seasons.json](./282544-moorhen-seasons.json) |
