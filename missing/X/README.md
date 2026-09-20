@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Squad | 19423 | [19423-x-squad.json](./19423-x-squad.json) |
 | X-Tactics | 19482 | [19482-x-tactics.json](./19482-x-tactics.json) |
 | X-Town 3D game | 96124 | [96124-x-town-3d-game.json](./96124-x-town-3d-game.json) |
+| X-treme Quads | 66924 | [66924-x-treme-quads.json](./66924-x-treme-quads.json) |
 | X-YZE | 370672 | [370672-x-yze.json](./370672-x-yze.json) |
 | X-Zero | 181210 | [181210-x-zero.json](./181210-x-zero.json) |
 | X-Zone | 42647 | [42647-x-zone.json](./42647-x-zone.json) |
@@ -176,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xena: Warrior Princess - Girls Just Wanna Have Fun | 205823 | [205823-xena-warrior-princess-girls-just-wanna-have-fun.json](./205823-xena-warrior-princess-girls-just-wanna-have-fun.json) |
 | Xenia is Online | 403680 | [403680-xenia-is-online.json](./403680-xenia-is-online.json) |
 | Xenic | 74059 | [74059-xenic.json](./74059-xenic.json) |
+| Xenimus | 66968 | [66968-xenimus.json](./66968-xenimus.json) |
 | Xenno the Rogue | 183075 | [183075-xenno-the-rogue.json](./183075-xenno-the-rogue.json) |
 | Xeno Shooter | 146884 | [146884-xeno-shooter.json](./146884-xeno-shooter.json) |
 | Xeno Strikers Hyper Squadron | 374139 | [374139-xeno-strikers-hyper-squadron.json](./374139-xeno-strikers-hyper-squadron.json) |
