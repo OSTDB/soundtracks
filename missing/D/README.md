@@ -2355,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detectives United: Origins - Collector's Edition | 248337 | [248337-detectives-united-origins-collectors-edition.json](./248337-detectives-united-origins-collectors-edition.json) |
 | Detectives United: Vengeance from the Past | 416702 | [416702-detectives-united-vengeance-from-the-past.json](./416702-detectives-united-vengeance-from-the-past.json) |
 | Detectivez | 113683 | [113683-detectivez.json](./113683-detectivez.json) |
+| Detector | 68349 | [68349-detector.json](./68349-detector.json) |
 | Detention | 26776 | [26776-detention.json](./26776-detention.json) |
 | Detention | 320745 | [320745-detention.json](./320745-detention.json) |
 | Detention Club: School's Out | 167813 | [167813-detention-club-schools-out.json](./167813-detention-club-schools-out.json) |
@@ -3957,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Farm: Breeds and Beasts | 375303 | [375303-doodle-farm-breeds-and-beasts.json](./375303-doodle-farm-breeds-and-beasts.json) |
 | Doodle Games Bundle | 147800 | [147800-doodle-games-bundle.json](./147800-doodle-games-bundle.json) |
 | Doodle God | 18528 | [18528-doodle-god.json](./18528-doodle-god.json) |
+| Doodle God Blitz | 68341 | [68341-doodle-god-blitz.json](./68341-doodle-god-blitz.json) |
 | Doodle God Bundle | 119072 | [119072-doodle-god-bundle.json](./119072-doodle-god-bundle.json) |
 | Doodle God Ultimate Collection | 118153 | [118153-doodle-god-ultimate-collection.json](./118153-doodle-god-ultimate-collection.json) |
 | Doodle God: Alchemy Jam | 80911 | [80911-doodle-god-alchemy-jam.json](./80911-doodle-god-alchemy-jam.json) |
@@ -4405,6 +4407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Race | 18104 | [18104-drag-race.json](./18104-drag-race.json) |
 | Drag Race: Reaction Trainer | 87257 | [87257-drag-race-reaction-trainer.json](./87257-drag-race-reaction-trainer.json) |
 | Drag Racer: Pro Tuner | 63250 | [63250-drag-racer-pro-tuner.json](./63250-drag-racer-pro-tuner.json) |
+| Drag'n'Boom | 68318 | [68318-dragnboom.json](./68318-dragnboom.json) |
 | Dragabox | 259858 | [259858-dragabox.json](./259858-dragabox.json) |
 | Dragenas | 297804 | [297804-dragenas.json](./297804-dragenas.json) |
 | Dragged Deep | 358364 | [358364-dragged-deep.json](./358364-dragged-deep.json) |
@@ -5278,6 +5281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Pico Series: Sanrio Puroland - Waku-waku Okaimono - Suteki na Oheya Otsukurimasho | 255352 | [255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json](./255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json) |
 | DS Yamamura Misa Suspense: Maiko Kogiku / Kisha Katherine / Sougiya Ishihara Akiko / Koto ni Mauhana Sanrin - Kyoto Satujin Jiken File | 269575 | [269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json](./269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json) |
 | DsDooM3 | 314899 | [314899-dsdoom3.json](./314899-dsdoom3.json) |
+| DT Racer Refueled | 68306 | [68306-dt-racer-refueled.json](./68306-dt-racer-refueled.json) |
 | DT: Lords of Genomes | 65523 | [65523-dt-lords-of-genomes.json](./65523-dt-lords-of-genomes.json) |
 | DTXMania | 123018 | [123018-dtxmania.json](./123018-dtxmania.json) |
 | DTXMania AL | 123015 | [123015-dtxmania-al.json](./123015-dtxmania-al.json) |
