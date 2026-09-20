@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aetherial | 357786 | [357786-aetherial.json](./357786-aetherial.json) |
 | AetherShot | 318055 | [318055-aethershot.json](./318055-aethershot.json) |
 | Aethus | 270142 | [270142-aethus.json](./270142-aethus.json) |
+| Aetolia | 122895 | [122895-aetolia.json](./122895-aetolia.json) |
 | Aeve:Zero Gravity | 83540 | [83540-aeve-zero-gravity.json](./83540-aeve-zero-gravity.json) |
 | Aevumblade Chronicles | 219686 | [219686-aevumblade-chronicles.json](./219686-aevumblade-chronicles.json) |
 | AEW: Fight Forever | 145216 | [145216-aew-fight-forever.json](./145216-aew-fight-forever.json) |
