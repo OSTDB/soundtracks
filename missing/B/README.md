@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball 28 In Space | 334086 | [334086-ball-28-in-space.json](./334086-ball-28-in-space.json) |
 | Ball and Trap | 100739 | [100739-ball-and-trap.json](./100739-ball-and-trap.json) |
 | Ball at Work: The Ultimate Speedrun Platformer! | 171570 | [171570-ball-at-work-the-ultimate-speedrun-platformer.json](./171570-ball-at-work-the-ultimate-speedrun-platformer.json) |
+| Ball Attack | 78984 | [78984-ball-attack.json](./78984-ball-attack.json) |
 | Ball Blast: Platinum Edition | 395674 | [395674-ball-blast-platinum-edition.json](./395674-ball-blast-platinum-edition.json) |
 | Ball Bounce Maze | 166611 | [166611-ball-bounce-maze.json](./166611-ball-bounce-maze.json) |
 | Ball Breaker 3D | 78036 | [78036-ball-breaker-3d.json](./78036-ball-breaker-3d.json) |
@@ -3216,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobufo | 219299 | [219299-blobufo.json](./219299-blobufo.json) |
 | Blobun | 316089 | [316089-blobun.json](./316089-blobun.json) |
 | Blobz | 14320 | [14320-blobz.json](./14320-blobz.json) |
+| Blochead | 78963 | [78963-blochead.json](./78963-blochead.json) |
 | Block ‘Em Sock ‘Em | 381135 | [381135-block-em-sock-em.json](./381135-block-em-sock-em.json) |
 | Block 2D: The Retro Block | 88739 | [88739-block-2d-the-retro-block.json](./88739-block-2d-the-retro-block.json) |
 | Block and Save | 254166 | [254166-block-and-save.json](./254166-block-and-save.json) |
@@ -3602,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Sango | 263595 | [263595-blue-sango.json](./263595-blue-sango.json) |
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
 | Blue Sphere Plus | 216302 | [216302-blue-sphere-plus.json](./216302-blue-sphere-plus.json) |
+| Blue Submarine No. 6: Antarctica | 78956 | [78956-blue-submarine-no-6-antarctica.json](./78956-blue-submarine-no-6-antarctica.json) |
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
 | Blue Tower Chronicle | 413739 | [413739-blue-tower-chronicle.json](./413739-blue-tower-chronicle.json) |
 | Blue Wars | 193947 | [193947-blue-wars.json](./193947-blue-wars.json) |
