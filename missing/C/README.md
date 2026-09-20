@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network: Toon Jam! | 206759 | [206759-cartoon-network-toon-jam.json](./206759-cartoon-network-toon-jam.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
 | Cartooners | 94685 | [94685-cartooners.json](./94685-cartooners.json) |
+| Cartoony Cars 2 | 110773 | [110773-cartoony-cars-2.json](./110773-cartoony-cars-2.json) |
 | Cartridge Defense | 132277 | [132277-cartridge-defense.json](./132277-cartridge-defense.json) |
 | Carvalho: Los Pájaros de Bangkok | 138790 | [138790-carvalho-los-pajaros-de-bangkok.json](./138790-carvalho-los-pajaros-de-bangkok.json) |
 | Carved In Stone | 321351 | [321351-carved-in-stone.json](./321351-carved-in-stone.json) |
