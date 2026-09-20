@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Shield | 334082 | [334082-laser-shield.json](./334082-laser-shield.json) |
 | Laser Skirmish | 205059 | [205059-laser-skirmish.json](./205059-laser-skirmish.json) |
 | Laser Stallion Disco Junkie: One Hit | 115680 | [115680-laser-stallion-disco-junkie-one-hit.json](./115680-laser-stallion-disco-junkie-one-hit.json) |
+| Laser Surgeon: The Microscopic Mission | 69552 | [69552-laser-surgeon-the-microscopic-mission.json](./69552-laser-surgeon-the-microscopic-mission.json) |
 | Laser Tag Massacre | 329376 | [329376-laser-tag-massacre.json](./329376-laser-tag-massacre.json) |
 | Laser Z | 127081 | [127081-laser-z.json](./127081-laser-z.json) |
 | Laser! | 253011 | [253011-laser.json](./253011-laser.json) |
@@ -2521,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost & Found: Inanimate Object Dating Agency | 346109 | [346109-lost-and-found-inanimate-object-dating-agency.json](./346109-lost-and-found-inanimate-object-dating-agency.json) |
 | Lost & Round | 153364 | [153364-lost-and-round.json](./153364-lost-and-round.json) |
 | Lost Abroad Café | 235450 | [235450-lost-abroad-cafe.json](./235450-lost-abroad-cafe.json) |
+| Lost Adventures of Kroz | 69575 | [69575-lost-adventures-of-kroz.json](./69575-lost-adventures-of-kroz.json) |
 | Lost Alone | 167223 | [167223-lost-alone.json](./167223-lost-alone.json) |
 | Lost Alone EP.1: Little Sister | 185649 | [185649-lost-alone-ep-1-little-sister.json](./185649-lost-alone-ep-1-little-sister.json) |
 | Lost Alone Ultimate | 245026 | [245026-lost-alone-ultimate.json](./245026-lost-alone-ultimate.json) |
