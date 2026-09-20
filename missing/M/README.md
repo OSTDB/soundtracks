@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manhattan Dealers | 10846 | [10846-manhattan-dealers.json](./10846-manhattan-dealers.json) |
 | Manhattan Requiem | 349955 | [349955-manhattan-requiem.json](./349955-manhattan-requiem.json) |
 | Manhole | 100229 | [100229-manhole.json](./100229-manhole.json) |
+| Manhole-e: Classic Version | 92847 | [92847-manhole-e-classic-version.json](./92847-manhole-e-classic-version.json) |
 | Manhunt | 1971 | [1971-manhunt.json](./1971-manhunt.json) |
 | Mani Mouse | 239327 | [239327-mani-mouse.json](./239327-mani-mouse.json) |
 | Mani Yugi Tokoyo | 96106 | [96106-mani-yugi-tokoyo.json](./96106-mani-yugi-tokoyo.json) |
@@ -925,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manika | 290528 | [290528-manika.json](./290528-manika.json) |
 | Manji: PSY Yuuki | 142860 | [142860-manji-psy-yuuki.json](./142860-manji-psy-yuuki.json) |
 | Mankind | 260659 | [260659-mankind.json](./260659-mankind.json) |
+| Mankind | 92824 | [92824-mankind.json](./92824-mankind.json) |
 | Mankind Reborn | 98406 | [98406-mankind-reborn.json](./98406-mankind-reborn.json) |
 | Mankind's Last Stand | 253905 | [253905-mankinds-last-stand.json](./253905-mankinds-last-stand.json) |
 | Mankojai | 184115 | [184115-mankojai.json](./184115-mankojai.json) |
@@ -1600,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Lemon: The Quest for Iceland | 309469 | [309469-master-lemon-the-quest-for-iceland.json](./309469-master-lemon-the-quest-for-iceland.json) |
 | Master Levels For Doom II | 218171 | [218171-master-levels-for-doom-ii.json](./218171-master-levels-for-doom-ii.json) |
 | Master Manager | 277972 | [277972-master-manager.json](./277972-master-manager.json) |
+| Master Mind | 92855 | [92855-master-mind.json](./92855-master-mind.json) |
 | Master Minesweeper | 90698 | [90698-master-minesweeper.json](./90698-master-minesweeper.json) |
 | Master Ninja | 15539 | [15539-master-ninja.json](./15539-master-ninja.json) |
 | Master of 4 Swords | 360666 | [360666-master-of-4-swords.json](./360666-master-of-4-swords.json) |
@@ -1811,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mausoleosis | 302951 | [302951-mausoleosis.json](./302951-mausoleosis.json) |
 | Mausoleum of the Medusa | 25604 | [25604-mausoleum-of-the-medusa.json](./25604-mausoleum-of-the-medusa.json) |
 | Maveldor: Saga of the Twin Mirrors | 250941 | [250941-maveldor-saga-of-the-twin-mirrors.json](./250941-maveldor-saga-of-the-twin-mirrors.json) |
+| Maven | 92856 | [92856-maven.json](./92856-maven.json) |
 | Maverick Bird | 62172 | [62172-maverick-bird.json](./62172-maverick-bird.json) |
 | Maverta Island | 186844 | [186844-maverta-island.json](./186844-maverta-island.json) |
 | Mavis Beacon Teaches Typing Version 8 | 209541 | [209541-mavis-beacon-teaches-typing-version-8.json](./209541-mavis-beacon-teaches-typing-version-8.json) |
@@ -2974,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetalArms | 122418 | [122418-metalarms.json](./122418-metalarms.json) |
 | MetälBörn | 209490 | [209490-metalborn.json](./209490-metalborn.json) |
 | Metallicars | 234319 | [234319-metallicars.json](./234319-metallicars.json) |
+| Metaloids | 92837 | [92837-metaloids.json](./92837-metaloids.json) |
 | Metalstorm | 196031 | [196031-metalstorm.json](./196031-metalstorm.json) |
 | Metaltech: Earthsiege Speech Pack | 98937 | [98937-metaltech-earthsiege-speech-pack.json](./98937-metaltech-earthsiege-speech-pack.json) |
 | Metamon | 227835 | [227835-metamon.json](./227835-metamon.json) |
@@ -3524,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilMo | 93509 | [93509-milmo.json](./93509-milmo.json) |
 | Milo | 187525 | [187525-milo.json](./187525-milo.json) |
 | Milo | 57606 | [57606-milo.json](./57606-milo.json) |
+| Milo the Fuel Run | 92866 | [92866-milo-the-fuel-run.json](./92866-milo-the-fuel-run.json) |
 | Milo's Astro Lanes | 3411 | [3411-milos-astro-lanes.json](./3411-milos-astro-lanes.json) |
 | Milo's Quest | 137608 | [137608-milos-quest.json](./137608-milos-quest.json) |
 | Milon no Hoshizora Shabon: Puzzle Kumikyoku | 97681 | [97681-milon-no-hoshizora-shabon-puzzle-kumikyoku.json](./97681-milon-no-hoshizora-shabon-puzzle-kumikyoku.json) |
