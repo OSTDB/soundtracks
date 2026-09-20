@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Visit | 103446 | [103446-dark-visit.json](./103446-dark-visit.json) |
 | Dark Void | 4220 | [4220-dark-void.json](./4220-dark-void.json) |
 | Dark War | 30813 | [30813-dark-war.json](./30813-dark-war.json) |
+| Dark Wave | 104480 | [104480-dark-wave.json](./104480-dark-wave.json) |
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
 | Dark Witch Music Episode: Rudymical | 323918 | [323918-dark-witch-music-episode-rudymical.json](./323918-dark-witch-music-episode-rudymical.json) |
 | Dark Wizard | 5374 | [5374-dark-wizard.json](./5374-dark-wizard.json) |
@@ -3229,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity Hunting | 269033 | [269033-divinity-hunting.json](./269033-divinity-hunting.json) |
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
 | Dìwáng Chāiqiān Bàn | 367485 | [367485-diwang-chaiqian-ban.json](./367485-diwang-chaiqian-ban.json) |
+| DIY Fashion Star - Design Hacks Clothing Game | 104486 | [104486-diy-fashion-star-design-hacks-clothing-game.json](./104486-diy-fashion-star-design-hacks-clothing-game.json) |
 | DIY My Boy | 165704 | [165704-diy-my-boy.json](./165704-diy-my-boy.json) |
 | DIY My Lady | 163945 | [163945-diy-my-lady.json](./163945-diy-my-lady.json) |
 | DIY Paper Doll | 277026 | [277026-diy-paper-doll.json](./277026-diy-paper-doll.json) |
