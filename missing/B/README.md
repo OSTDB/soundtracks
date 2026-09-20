@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Brawlers | 97293 | [97293-beast-brawlers.json](./97293-beast-brawlers.json) |
 | Beast Busters | 11951 | [11951-beast-busters.json](./11951-beast-busters.json) |
 | Beast Farmer | 233205 | [233205-beast-farmer.json](./233205-beast-farmer.json) |
+| Beast King | 113488 | [113488-beast-king.json](./113488-beast-king.json) |
 | Beast League | 251206 | [251206-beast-league.json](./251206-beast-league.json) |
 | Beast Lord: The New Land | 297500 | [297500-beast-lord-the-new-land.json](./297500-beast-lord-the-new-land.json) |
 | Beast Master and Prince: Snow Bride | 136452 | [136452-beast-master-and-prince-snow-bride.json](./136452-beast-master-and-prince-snow-bride.json) |
@@ -3203,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockor.io | 56443 | [56443-blockor-io.json](./56443-blockor-io.json) |
 | Blockout | 347672 | [347672-blockout.json](./347672-blockout.json) |
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
+| Blocks | 113503 | [113503-blocks.json](./113503-blocks.json) |
 | Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
 | Blocks | 370143 | [370143-blocks.json](./370143-blocks.json) |
 | Blocks and Ropes | 224092 | [224092-blocks-and-ropes.json](./224092-blocks-and-ropes.json) |
@@ -3386,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodstroke | 62226 | [62226-bloodstroke.json](./62226-bloodstroke.json) |
 | BloodSworn | 267099 | [267099-bloodsworn.json](./267099-bloodsworn.json) |
 | Bloodthirsty Kingdom: Vampire War | 181308 | [181308-bloodthirsty-kingdom-vampire-war.json](./181308-bloodthirsty-kingdom-vampire-war.json) |
+| BloodTrail | 113465 | [113465-bloodtrail.json](./113465-bloodtrail.json) |
 | BloodWarrior | 47982 | [47982-bloodwarrior.json](./47982-bloodwarrior.json) |
 | Bloodwash | 170938 | [170938-bloodwash.json](./170938-bloodwash.json) |
 | Bloodwings: Pumpkinhead's Revenge | 67291 | [67291-bloodwings-pumpkinheads-revenge.json](./67291-bloodwings-pumpkinheads-revenge.json) |
@@ -3759,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber | 171464 | [171464-bomber.json](./171464-bomber.json) |
 | Bomber | 249775 | [249775-bomber.json](./249775-bomber.json) |
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
+| Bomber Barn | 113497 | [113497-bomber-barn.json](./113497-bomber-barn.json) |
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
 | Bomber Cat Run | 317860 | [317860-bomber-cat-run.json](./317860-bomber-cat-run.json) |
 | Bomber Crew: American Edition | 116147 | [116147-bomber-crew-american-edition.json](./116147-bomber-crew-american-edition.json) |
