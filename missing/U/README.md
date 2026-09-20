@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko no Naku Koro ni: Episode 2 - Turn of the Golden Witch | 79845 | [79845-umineko-no-naku-koro-ni-episode-2-turn-of-the-golden-witch.json](./79845-umineko-no-naku-koro-ni-episode-2-turn-of-the-golden-witch.json) |
 | Umineko no Naku Koro ni: Episode 3 - Banquet of the Golden Witch | 67228 | [67228-umineko-no-naku-koro-ni-episode-3-banquet-of-the-golden-witch.json](./67228-umineko-no-naku-koro-ni-episode-3-banquet-of-the-golden-witch.json) |
 | Umineko no Naku Koro ni: Episode 4 - Alliance of the Golden Witch | 67170 | [67170-umineko-no-naku-koro-ni-episode-4-alliance-of-the-golden-witch.json](./67170-umineko-no-naku-koro-ni-episode-4-alliance-of-the-golden-witch.json) |
+| Umineko no Naku Koro ni: Majo to Suiri no Rinbukyoku | 65754 | [65754-umineko-no-naku-koro-ni-majo-to-suiri-no-rinbukyoku.json](./65754-umineko-no-naku-koro-ni-majo-to-suiri-no-rinbukyoku.json) |
 | Umineko no Naku Koro ni: Majo-tachi no Tanabata ha Amakunai | 272542 | [272542-umineko-no-naku-koro-ni-majo-tachi-no-tanabata-ha-amakunai.json](./272542-umineko-no-naku-koro-ni-majo-tachi-no-tanabata-ha-amakunai.json) |
 | Umineko no Naku Koro ni: Memoirs of the ΛΔ | 272532 | [272532-umineko-no-naku-koro-ni-memoirs-of-the.json](./272532-umineko-no-naku-koro-ni-memoirs-of-the.json) |
 | Umineko no Naku Koro ni: Nana Shimai no Valentine | 272538 | [272538-umineko-no-naku-koro-ni-nana-shimai-no-valentine.json](./272538-umineko-no-naku-koro-ni-nana-shimai-no-valentine.json) |
