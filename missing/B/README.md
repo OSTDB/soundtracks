@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Mogul 2006 | 23801 | [23801-baseball-mogul-2006.json](./23801-baseball-mogul-2006.json) |
 | Baseball Mogul 2008 | 72673 | [72673-baseball-mogul-2008.json](./72673-baseball-mogul-2008.json) |
 | Baseball Mogul 2010 | 69259 | [69259-baseball-mogul-2010.json](./69259-baseball-mogul-2010.json) |
+| Baseball Mogul 2012 | 65218 | [65218-baseball-mogul-2012.json](./65218-baseball-mogul-2012.json) |
 | Baseball Mogul 2013 | 60000 | [60000-baseball-mogul-2013.json](./60000-baseball-mogul-2013.json) |
 | Baseball Mogul 2014 | 60011 | [60011-baseball-mogul-2014.json](./60011-baseball-mogul-2014.json) |
 | Baseball Mogul 2015 | 34798 | [34798-baseball-mogul-2015.json](./34798-baseball-mogul-2015.json) |
@@ -2314,9 +2315,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big City Adventure: Barcelona | 341050 | [341050-big-city-adventure-barcelona.json](./341050-big-city-adventure-barcelona.json) |
 | Big City Adventure: Istanbul | 294743 | [294743-big-city-adventure-istanbul.json](./294743-big-city-adventure-istanbul.json) |
 | Big City Adventure: London Classic | 417564 | [417564-big-city-adventure-london-classic.json](./417564-big-city-adventure-london-classic.json) |
+| Big City Adventure: New York City | 65201 | [65201-big-city-adventure-new-york-city.json](./65201-big-city-adventure-new-york-city.json) |
 | Big City Adventure: Paris | 341057 | [341057-big-city-adventure-paris.json](./341057-big-city-adventure-paris.json) |
 | Big City Adventure: Rome | 341056 | [341056-big-city-adventure-rome.json](./341056-big-city-adventure-rome.json) |
+| Big City Adventure: Sydney, Australia | 65202 | [65202-big-city-adventure-sydney-australia.json](./65202-big-city-adventure-sydney-australia.json) |
 | Big City Adventure: Tokyo | 294742 | [294742-big-city-adventure-tokyo.json](./294742-big-city-adventure-tokyo.json) |
+| Big City Adventure: Vancouver | 65203 | [65203-big-city-adventure-vancouver.json](./65203-big-city-adventure-vancouver.json) |
 | Big Cup Cricket | 22337 | [22337-big-cup-cricket.json](./22337-big-cup-cricket.json) |
 | Big D Randy | 276269 | [276269-big-d-randy.json](./276269-big-d-randy.json) |
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
@@ -3779,6 +3783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodian's Bay Wash | 405519 | [405519-bodians-bay-wash.json](./405519-bodians-bay-wash.json) |
 | Body and Brain Connection | 25189 | [25189-body-and-brain-connection.json](./25189-body-and-brain-connection.json) |
 | Body and Soul | 176977 | [176977-body-and-soul.json](./176977-body-and-soul.json) |
+| Body Glove Bluewater Hunter | 65189 | [65189-body-glove-bluewater-hunter.json](./65189-body-glove-bluewater-hunter.json) |
 | Body Language | 68034 | [68034-body-language.json](./68034-body-language.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
 | Body Sushi | 393471 | [393471-body-sushi.json](./393471-body-sushi.json) |
