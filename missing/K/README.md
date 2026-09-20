@@ -508,12 +508,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemono Friends: Neko to Wakai se yo | 254533 | [254533-kemono-friends-neko-to-wakai-se-yo.json](./254533-kemono-friends-neko-to-wakai-se-yo.json) |
 | Kemono Friends: Opening Day | 247776 | [247776-kemono-friends-opening-day.json](./247776-kemono-friends-opening-day.json) |
 | Kemono Labyrinth | 225729 | [225729-kemono-labyrinth.json](./225729-kemono-labyrinth.json) |
+| Kemono Mahjong | 96534 | [96534-kemono-mahjong.json](./96534-kemono-mahjong.json) |
 | Kemonomichi-White Moment- | 100111 | [100111-kemonomichi-white-moment.json](./100111-kemonomichi-white-moment.json) |
 | Kemopop! | 309863 | [309863-kemopop.json](./309863-kemopop.json) |
 | Kemuri | 279625 | [279625-kemuri.json](./279625-kemuri.json) |
 | Ken Griffey Jr. Presents Major League Baseball | 299308 | [299308-ken-griffey-jr-presents-major-league-baseball.json](./299308-ken-griffey-jr-presents-major-league-baseball.json) |
 | Ken Griffey Jr.'s Horrible Tower | 382786 | [382786-ken-griffey-jr-s-horrible-tower.json](./382786-ken-griffey-jr-s-horrible-tower.json) |
 | Ken Griffey Jr.'s Slugfest | 3531 | [3531-ken-griffey-jr-s-slugfest.json](./3531-ken-griffey-jr-s-slugfest.json) |
+| Ken to Mahou to Gakuen Mono: Anniversary Edition | 96495 | [96495-ken-to-mahou-to-gakuen-mono-anniversary-edition.json](./96495-ken-to-mahou-to-gakuen-mono-anniversary-edition.json) |
 | Ken to Mahou to Gakuen Mono. 3 | 44582 | [44582-ken-to-mahou-to-gakuen-mono-3.json](./44582-ken-to-mahou-to-gakuen-mono-3.json) |
 | Ken to Mahou to Gakuen Mono. Final: Shinnyusei wa Ohimesama! | 63896 | [63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json](./63896-ken-to-mahou-to-gakuen-mono-final-shinnyusei-wa-ohimesama.json) |
 | Ken's Labyrinth II | 309654 | [309654-kens-labyrinth-ii.json](./309654-kens-labyrinth-ii.json) |
@@ -1413,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Decayden | 209529 | [209529-knights-of-decayden.json](./209529-knights-of-decayden.json) |
 | Knights of Grumthorr | 149444 | [149444-knights-of-grumthorr.json](./149444-knights-of-grumthorr.json) |
 | Knights of Legend | 47224 | [47224-knights-of-legend.json](./47224-knights-of-legend.json) |
+| Knights of Light | 96489 | [96489-knights-of-light.json](./96489-knights-of-light.json) |
 | Knights of Pen & Paper 3 | 240898 | [240898-knights-of-pen-and-paper-3.json](./240898-knights-of-pen-and-paper-3.json) |
 | Knights of Pen and Paper II | 10126 | [10126-knights-of-pen-and-paper-ii.json](./10126-knights-of-pen-and-paper-ii.json) |
 | Knights of Pen and Paper II: Here Be Dragons | 53260 | [53260-knights-of-pen-and-paper-ii-here-be-dragons.json](./53260-knights-of-pen-and-paper-ii-here-be-dragons.json) |
