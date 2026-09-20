@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harca | 340413 | [340413-harca.json](./340413-harca.json) |
 | Hard Ball Wikie | 196890 | [196890-hard-ball-wikie.json](./196890-hard-ball-wikie.json) |
 | Hard Brain | 266882 | [266882-hard-brain.json](./266882-hard-brain.json) |
+| Hard Corps | 76979 | [76979-hard-corps.json](./76979-hard-corps.json) |
 | Hard Crisis | 346019 | [346019-hard-crisis.json](./346019-hard-crisis.json) |
 | Hard Days | 267087 | [267087-hard-days.json](./267087-hard-days.json) |
 | Hard Drive | 381627 | [381627-hard-drive.json](./381627-hard-drive.json) |
@@ -2354,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Jinx! | 217977 | [217977-high-jinx.json](./217977-high-jinx.json) |
 | High Jump | 247048 | [247048-high-jump.json](./247048-high-jump.json) |
 | High Mountain Abbey | 335370 | [335370-high-mountain-abbey.json](./335370-high-mountain-abbey.json) |
+| High Noon | 76974 | [76974-high-noon.json](./76974-high-noon.json) |
 | High Noon Drifter | 141868 | [141868-high-noon-drifter.json](./141868-high-noon-drifter.json) |
 | High Noon In Akhetaten | 308387 | [308387-high-noon-in-akhetaten.json](./308387-high-noon-in-akhetaten.json) |
 | High on Life: High on Knife | 253091 | [253091-high-on-life-high-on-knife.json](./253091-high-on-life-high-on-knife.json) |
@@ -3256,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Manager | 357854 | [357854-horse-manager.json](./357854-horse-manager.json) |
 | Horse Park Tycoon | 87897 | [87897-horse-park-tycoon.json](./87897-horse-park-tycoon.json) |
 | Horse Plinko | 357855 | [357855-horse-plinko.json](./357855-horse-plinko.json) |
+| Horse Race Starter | 76958 | [76958-horse-race-starter.json](./76958-horse-race-starter.json) |
 | Horse Racing | 47279 | [47279-horse-racing.json](./47279-horse-racing.json) |
 | Horse Racing Manager 2 | 67994 | [67994-horse-racing-manager-2.json](./67994-horse-racing-manager-2.json) |
 | Horse Racing Manager 2020 | 233117 | [233117-horse-racing-manager-2020.json](./233117-horse-racing-manager-2020.json) |
