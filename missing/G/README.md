@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galdur | 103461 | [103461-galdur.json](./103461-galdur.json) |
 | Gale Gunner | 74781 | [74781-gale-gunner.json](./74781-gale-gunner.json) |
 | Gale of Windoria | 208021 | [208021-gale-of-windoria.json](./208021-gale-of-windoria.json) |
+| Gale Racer | 72317 | [72317-gale-racer.json](./72317-gale-racer.json) |
 | Galeoz | 74782 | [74782-galeoz.json](./74782-galeoz.json) |
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
 | Galerians: Limited Edition | 146856 | [146856-galerians-limited-edition.json](./146856-galerians-limited-edition.json) |
