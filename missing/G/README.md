@@ -1920,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 147820 | [147820-golf.json](./147820-golf.json) |
 | Golf | 282126 | [282126-golf.json](./282126-golf.json) |
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
+| Golf Card Game | 104485 | [104485-golf-card-game.json](./104485-golf-card-game.json) |
 | Golf Cart Race | 105919 | [105919-golf-cart-race.json](./105919-golf-cart-race.json) |
 | Golf Daisuki! | 228552 | [228552-golf-daisuki.json](./228552-golf-daisuki.json) |
 | Golf Daisuki! O.B. Club | 134451 | [134451-golf-daisuki-o-b-club.json](./134451-golf-daisuki-o-b-club.json) |
@@ -2973,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guerra Tribal | 336616 | [336616-guerra-tribal.json](./336616-guerra-tribal.json) |
 | Guerrière Lyewärd | 244995 | [244995-guerriere-lyeward.json](./244995-guerriere-lyeward.json) |
 | Guerrilla Bob | 92530 | [92530-guerrilla-bob.json](./92530-guerrilla-bob.json) |
+| Guerrilla Gardener | 104459 | [104459-guerrilla-gardener.json](./104459-guerrilla-gardener.json) |
 | Guerrilla Gardening | 182531 | [182531-guerrilla-gardening.json](./182531-guerrilla-gardening.json) |
 | Guerrilla Strike | 43343 | [43343-guerrilla-strike.json](./43343-guerrilla-strike.json) |
 | Guerrilla War | 39787 | [39787-guerrilla-war.json](./39787-guerrilla-war.json) |
