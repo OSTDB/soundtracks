@@ -2193,6 +2193,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroyer | 175824 | [175824-destroyer.json](./175824-destroyer.json) |
 | Destroyer 7800 | 304197 | [304197-destroyer-7800.json](./304197-destroyer-7800.json) |
 | Destruct | 60511 | [60511-destruct.json](./60511-destruct.json) |
+| Destruction Darius | 121430 | [121430-destruction-darius.json](./121430-destruction-darius.json) |
+| Destruction Darius 2 | 121432 | [121432-destruction-darius-2.json](./121432-destruction-darius-2.json) |
 | Destruction Derby 64 | 10686 | [10686-destruction-derby-64.json](./10686-destruction-derby-64.json) |
 | Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
 | Destruction Rocks | 186192 | [186192-destruction-rocks.json](./186192-destruction-rocks.json) |
