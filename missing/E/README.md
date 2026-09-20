@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electron Zaraftor | 276295 | [276295-electron-zaraftor.json](./276295-electron-zaraftor.json) |
 | Electronauts | 81056 | [81056-electronauts.json](./81056-electronauts.json) |
 | Electronia | 55918 | [55918-electronia.json](./55918-electronia.json) |
+| Electronic Billiards | 79584 | [79584-electronic-billiards.json](./79584-electronic-billiards.json) |
 | Electronic Hand-Held Connect Four | 233610 | [233610-electronic-hand-held-connect-four.json](./233610-electronic-hand-held-connect-four.json) |
 | Electronic Shop Simulator | 344354 | [344354-electronic-shop-simulator.json](./344354-electronic-shop-simulator.json) |
 | Electronic Super Joy 2: Groove Wizard's Tower | 171488 | [171488-electronic-super-joy-2-groove-wizards-tower.json](./171488-electronic-super-joy-2-groove-wizards-tower.json) |
