@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Partner | 119756 | [119756-marble-partner.json](./119756-marble-partner.json) |
 | Marble Void | 33235 | [33235-marble-void.json](./33235-marble-void.json) |
 | Marble-O-Tron | 174294 | [174294-marble-o-tron.json](./174294-marble-o-tron.json) |
+| Marblelous Animals | 120174 | [120174-marblelous-animals.json](./120174-marblelous-animals.json) |
 | Marbleous Blocks | 163825 | [163825-marbleous-blocks.json](./163825-marbleous-blocks.json) |
 | Marbles Garden | 192298 | [192298-marbles-garden.json](./192298-marbles-garden.json) |
 | Marbles HD | 101520 | [101520-marbles-hd.json](./101520-marbles-hd.json) |
@@ -4882,6 +4883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Surfing | 101519 | [101519-moon-surfing.json](./101519-moon-surfing.json) |
 | Moon Thirst | 310177 | [310177-moon-thirst.json](./310177-moon-thirst.json) |
 | Moon Tower: Gotta Save the Universe Real Quick | 287224 | [287224-moon-tower-gotta-save-the-universe-real-quick.json](./287224-moon-tower-gotta-save-the-universe-real-quick.json) |
+| Moon Tycoon | 120150 | [120150-moon-tycoon.json](./120150-moon-tycoon.json) |
 | Moon Waltz | 201291 | [201291-moon-waltz.json](./201291-moon-waltz.json) |
 | Moon Wars | 287233 | [287233-moon-wars.json](./287233-moon-wars.json) |
 | Moon Whistle | 166142 | [166142-moon-whistle.json](./166142-moon-whistle.json) |
