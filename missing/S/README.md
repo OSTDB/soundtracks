@@ -2839,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | 268079 | [268079-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island.json](./268079-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island.json) |
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island - Plus Pack | 323544 | [323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json](./323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json) |
 | Shiren The Wanderer: The Tower of Fortune and the Dice of Fate - Eternal Wanderer Edition | 42676 | [42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json](./42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json) |
+| Shirley Muldowney's Top Fuel Challenge | 69542 | [69542-shirley-muldowneys-top-fuel-challenge.json](./69542-shirley-muldowneys-top-fuel-challenge.json) |
 | Shiro | 220333 | [220333-shiro.json](./220333-shiro.json) |
 | SHiRO 011 | 97028 | [97028-shiro-011.json](./97028-shiro-011.json) |
 | Shiro Enkai | 379873 | [379873-shiro-enkai.json](./379873-shiro-enkai.json) |
@@ -3441,6 +3442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity Graphics Set 2: Future Cities | 77969 | [77969-simcity-graphics-set-2-future-cities.json](./77969-simcity-graphics-set-2-future-cities.json) |
 | SimCity Social | 64978 | [64978-simcity-social.json](./64978-simcity-social.json) |
 | SimCity: Enhanced CD-Rom | 208991 | [208991-simcity-enhanced-cd-rom.json](./208991-simcity-enhanced-cd-rom.json) |
+| SimCity: Terrain Editor | 69584 | [69584-simcity-terrain-editor.json](./69584-simcity-terrain-editor.json) |
 | SimClassics: 3 in 1 Pack | 86030 | [86030-simclassics-3-in-1-pack.json](./86030-simclassics-3-in-1-pack.json) |
 | SimCoaster | 19422 | [19422-simcoaster.json](./19422-simcoaster.json) |
 | SimCopter | 1496 | [1496-simcopter.json](./1496-simcopter.json) |
@@ -3986,6 +3988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky is Arrows | 62128 | [62128-sky-is-arrows.json](./62128-sky-is-arrows.json) |
 | Sky is Arrows: Dragon Bracer Item Chest | 252231 | [252231-sky-is-arrows-dragon-bracer-item-chest.json](./252231-sky-is-arrows-dragon-bracer-item-chest.json) |
 | Sky Island | 308257 | [308257-sky-island.json](./308257-sky-island.json) |
+| Sky Jaguar | 69543 | [69543-sky-jaguar.json](./69543-sky-jaguar.json) |
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
 | Sky Jumping | 336626 | [336626-sky-jumping.json](./336626-sky-jumping.json) |
@@ -7049,6 +7052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spintires | 7347 | [7347-spintires.json](./7347-spintires.json) |
 | Spintires: MudRunner - American Wilds Edition | 110802 | [110802-spintires-mudrunner-american-wilds-edition.json](./110802-spintires-mudrunner-american-wilds-edition.json) |
 | Spinwave Survivors | 388002 | [388002-spinwave-survivors.json](./388002-spinwave-survivors.json) |
+| Spinword | 69567 | [69567-spinword.json](./69567-spinword.json) |
 | Spiny & Chilly | 355034 | [355034-spiny-and-chilly.json](./355034-spiny-and-chilly.json) |
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
 | Spinzer.io | 55164 | [55164-spinzer-io.json](./55164-spinzer-io.json) |
@@ -7839,6 +7843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Tank | 169457 | [169457-star-tank.json](./169457-star-tank.json) |
 | Star Tower | 373537 | [373537-star-tower.json](./373537-star-tower.json) |
 | Star Tracer | 357305 | [357305-star-tracer.json](./357305-star-tracer.json) |
+| Star Traders | 69581 | [69581-star-traders.json](./69581-star-traders.json) |
 | Star Traders: 4X Empires | 36124 | [36124-star-traders-4x-empires.json](./36124-star-traders-4x-empires.json) |
 | Star Trek | 11485 | [11485-star-trek.json](./11485-star-trek.json) |
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
