@@ -2482,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlipPix Art - Dollhouse | 107118 | [107118-flippix-art-dollhouse.json](./107118-flippix-art-dollhouse.json) |
 | FlipPix Jigsaw - Retro | 91997 | [91997-flippix-jigsaw-retro.json](./91997-flippix-jigsaw-retro.json) |
 | FlipPix Jigsaw - Spicy | 96047 | [96047-flippix-jigsaw-spicy.json](./96047-flippix-jigsaw-spicy.json) |
+| Flippy Boat | 104471 | [104471-flippy-boat.json](./104471-flippy-boat.json) |
 | Flippy Bottle Extreme 2! | 340996 | [340996-flippy-bottle-extreme-2.json](./340996-flippy-bottle-extreme-2.json) |
 | Flippy Hills | 107666 | [107666-flippy-hills.json](./107666-flippy-hills.json) |
 | FlipRide Rush | 409526 | [409526-flipride-rush.json](./409526-flipride-rush.json) |
@@ -2872,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Cup 2021 | 147253 | [147253-football-cup-2021.json](./147253-football-cup-2021.json) |
 | Football Director 2017 | 200160 | [200160-football-director-2017.json](./200160-football-director-2017.json) |
 | Football Director 2019 | 112986 | [112986-football-director-2019.json](./112986-football-director-2019.json) |
+| Football Fred | 104468 | [104468-football-fred.json](./104468-football-fred.json) |
 | Football Frenzy | 39649 | [39649-football-frenzy.json](./39649-football-frenzy.json) |
 | Football Fury | 42551 | [42551-football-fury.json](./42551-football-fury.json) |
 | Football General Manager | 90206 | [90206-football-general-manager.json](./90206-football-general-manager.json) |
