@@ -2866,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Type | 163854 | [163854-shooting-type.json](./163854-shooting-type.json) |
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
 | ShootOut | 411615 | [411615-shootout.json](./411615-shootout.json) |
+| Shootout! | 109450 | [109450-shootout.json](./109450-shootout.json) |
 | ShootX | 343260 | [343260-shootx.json](./343260-shootx.json) |
 | Shooty and the Catfish: Episode 1 | 181838 | [181838-shooty-and-the-catfish-episode-1.json](./181838-shooty-and-the-catfish-episode-1.json) |
 | Shooty and the Catfish: Episode 2 | 181936 | [181936-shooty-and-the-catfish-episode-2.json](./181936-shooty-and-the-catfish-episode-2.json) |
@@ -6063,6 +6064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dave! | 27526 | [27526-space-dave.json](./27526-space-dave.json) |
 | Space Debris | 103533 | [103533-space-debris.json](./103533-space-debris.json) |
 | Space Defend | 246424 | [246424-space-defend.json](./246424-space-defend.json) |
+| Space Defender Battle Infinity | 109495 | [109495-space-defender-battle-infinity.json](./109495-space-defender-battle-infinity.json) |
 | Space Demon | 145469 | [145469-space-demon.json](./145469-space-demon.json) |
 | Space Demon Combat Tactics III | 186334 | [186334-space-demon-combat-tactics-iii.json](./186334-space-demon-combat-tactics-iii.json) |
 | Space Depot | 358901 | [358901-space-depot.json](./358901-space-depot.json) |
@@ -6709,6 +6711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere: Flying Cities - Save the World Edition | 186905 | [186905-sphere-flying-cities-save-the-world-edition.json](./186905-sphere-flying-cities-save-the-world-edition.json) |
 | Sphere: The Knight of Elf | 191096 | [191096-sphere-the-knight-of-elf.json](./191096-sphere-the-knight-of-elf.json) |
 | Spherecraft | 118387 | [118387-spherecraft.json](./118387-spherecraft.json) |
+| SphereKnight | 109484 | [109484-sphereknight.json](./109484-sphereknight.json) |
 | Sphereout | 250382 | [250382-sphereout.json](./250382-sphereout.json) |
 | Spheres Episode 1: Nalong | 145609 | [145609-spheres-episode-1-nalong.json](./145609-spheres-episode-1-nalong.json) |
 | Spheres: The Ancient Fuses | 118335 | [118335-spheres-the-ancient-fuses.json](./118335-spheres-the-ancient-fuses.json) |
@@ -6736,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Riders: Battle for Arachna | 316801 | [316801-spider-riders-battle-for-arachna.json](./316801-spider-riders-battle-for-arachna.json) |
 | Spider Roulette | 386694 | [386694-spider-roulette.json](./386694-spider-roulette.json) |
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
+| Spider Solitaire F | 109493 | [109493-spider-solitaire-f.json](./109493-spider-solitaire-f.json) |
 | Spider Solitaire Pro! | 89182 | [89182-spider-solitaire-pro.json](./89182-spider-solitaire-pro.json) |
 | Spider Tanks | 175785 | [175785-spider-tanks.json](./175785-spider-tanks.json) |
 | Spider Ultimate | 100738 | [100738-spider-ultimate.json](./100738-spider-ultimate.json) |
@@ -11146,6 +11150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Soldiers | 210261 | [210261-swords-and-soldiers.json](./210261-swords-and-soldiers.json) |
 | Swords & Soldiers | 210262 | [210262-swords-and-soldiers.json](./210262-swords-and-soldiers.json) |
 | Swords & Soldiers II | 19975 | [19975-swords-and-soldiers-ii.json](./19975-swords-and-soldiers-ii.json) |
+| Swords & Soldiers: Super Saucy Sausage Fest | 109470 | [109470-swords-and-soldiers-super-saucy-sausage-fest.json](./109470-swords-and-soldiers-super-saucy-sausage-fest.json) |
 | Swords and Sandals 2 Redux: Maximus Edition | 43131 | [43131-swords-and-sandals-2-redux-maximus-edition.json](./43131-swords-and-sandals-2-redux-maximus-edition.json) |
 | Swords and Sandals Classic Collection | 117173 | [117173-swords-and-sandals-classic-collection.json](./117173-swords-and-sandals-classic-collection.json) |
 | Swords and Sandals I: Gladiator | 259783 | [259783-swords-and-sandals-i-gladiator.json](./259783-swords-and-sandals-i-gladiator.json) |
