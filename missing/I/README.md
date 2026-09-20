@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IGKnight | 238720 | [238720-igknight.json](./238720-igknight.json) |
 | Ignatius | 169375 | [169375-ignatius.json](./169375-ignatius.json) |
 | Ignis | 294170 | [294170-ignis.json](./294170-ignis.json) |
+| Ignis | 81748 | [81748-ignis.json](./81748-ignis.json) |
 | Ignis Corruption | 196241 | [196241-ignis-corruption.json](./196241-ignis-corruption.json) |
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
 | Ignitement | 407440 | [407440-ignitement.json](./407440-ignitement.json) |
@@ -1084,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indonesian Dominatrixes Are the Best | 385705 | [385705-indonesian-dominatrixes-are-the-best.json](./385705-indonesian-dominatrixes-are-the-best.json) |
 | Indoor Air Soccer | 175338 | [175338-indoor-air-soccer.json](./175338-indoor-air-soccer.json) |
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
+| Indoor Rock Climbing VR | 81757 | [81757-indoor-rock-climbing-vr.json](./81757-indoor-rock-climbing-vr.json) |
 | Indoor Soccer for the TI 99/4A | 93990 | [93990-indoor-soccer-for-the-ti-99-4a.json](./93990-indoor-soccer-for-the-ti-99-4a.json) |
 | Indoors: The Alston Manor | 269005 | [269005-indoors-the-alston-manor.json](./269005-indoors-the-alston-manor.json) |
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
