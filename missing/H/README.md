@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatchling's Adventure | 180785 | [180785-hatchlings-adventure.json](./180785-hatchlings-adventure.json) |
 | Hatchpunk | 143729 | [143729-hatchpunk.json](./143729-hatchpunk.json) |
 | Hate Plus | 16542 | [16542-hate-plus.json](./16542-hate-plus.json) |
+| Haters, kill them all! | 86540 | [86540-haters-kill-them-all.json](./86540-haters-kill-them-all.json) |
 | Hatland Adventures | 35818 | [35818-hatland-adventures.json](./35818-hatland-adventures.json) |
 | Hatris | 40063 | [40063-hatris.json](./40063-hatris.json) |
 | Hats and Guns | 334215 | [334215-hats-and-guns.json](./334215-hats-and-guns.json) |
@@ -893,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Havoc Runner | 148557 | [148557-havoc-runner.json](./148557-havoc-runner.json) |
 | Havsala: Into the Soul Palace | 193493 | [193493-havsala-into-the-soul-palace.json](./193493-havsala-into-the-soul-palace.json) |
 | Hawaii Detective: Killing of a Krypto King | 251806 | [251806-hawaii-detective-killing-of-a-krypto-king.json](./251806-hawaii-detective-killing-of-a-krypto-king.json) |
+| Hawaii Resort | 86572 | [86572-hawaii-resort.json](./86572-hawaii-resort.json) |
 | Hawaiian Explorer: Lost Island | 53172 | [53172-hawaiian-explorer-lost-island.json](./53172-hawaiian-explorer-lost-island.json) |
 | Hawaiian Explorer: Pearl Harbor | 53171 | [53171-hawaiian-explorer-pearl-harbor.json](./53171-hawaiian-explorer-pearl-harbor.json) |
 | Hawaiian Solitaire | 386142 | [386142-hawaiian-solitaire.json](./386142-hawaiian-solitaire.json) |
@@ -2043,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexcodle | 313472 | [313472-hexcodle.json](./313472-hexcodle.json) |
 | Hexcrawl | 413606 | [413606-hexcrawl.json](./413606-hexcrawl.json) |
 | Hexdoku | 164902 | [164902-hexdoku.json](./164902-hexdoku.json) |
+| Hexed | 86520 | [86520-hexed.json](./86520-hexed.json) |
 | Hexed Pet Adventures | 393596 | [393596-hexed-pet-adventures.json](./393596-hexed-pet-adventures.json) |
 | Hexed Time | 356115 | [356115-hexed-time.json](./356115-hexed-time.json) |
 | Hexelectric | 119689 | [119689-hexelectric.json](./119689-hexelectric.json) |
@@ -3137,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Odyssey | 158558 | [158558-horizon-odyssey.json](./158558-horizon-odyssey.json) |
 | Horizon of History | 30763 | [30763-horizon-of-history.json](./30763-horizon-of-history.json) |
 | Horizon Shift | 17896 | [17896-horizon-shift.json](./17896-horizon-shift.json) |
+| Horizon Source | 86511 | [86511-horizon-source.json](./86511-horizon-source.json) |
 | Horizon V | 24880 | [24880-horizon-v.json](./24880-horizon-v.json) |
 | Horizon X | 57645 | [57645-horizon-x.json](./57645-horizon-x.json) |
 | Horizons Light | 376466 | [376466-horizons-light.json](./376466-horizons-light.json) |
