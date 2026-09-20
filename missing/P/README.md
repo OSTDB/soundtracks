@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Gal Adventures | 388227 | [388227-paint-gal-adventures.json](./388227-paint-gal-adventures.json) |
 | Paint Hit | 102784 | [102784-paint-hit.json](./102784-paint-hit.json) |
 | Paint My Cat - Color and Play | 96045 | [96045-paint-my-cat-color-and-play.json](./96045-paint-my-cat-color-and-play.json) |
+| Paint Park Plus | 119585 | [119585-paint-park-plus.json](./119585-paint-park-plus.json) |
 | Paint Rider | 179187 | [179187-paint-rider.json](./179187-paint-rider.json) |
 | Paint School | 139374 | [139374-paint-school.json](./139374-paint-school.json) |
 | Paint School II | 46571 | [46571-paint-school-ii.json](./46571-paint-school-ii.json) |
@@ -570,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradigm Overhaul | 291762 | [291762-paradigm-overhaul.json](./291762-paradigm-overhaul.json) |
 | Paradigm: Reboot | 193887 | [193887-paradigm-reboot.json](./193887-paradigm-reboot.json) |
 | Paradigmfetish | 223137 | [223137-paradigmfetish.json](./223137-paradigmfetish.json) |
+| Paradise | 119555 | [119555-paradise.json](./119555-paradise.json) |
 | Paradise | 184046 | [184046-paradise.json](./184046-paradise.json) |
 | Paradise | 20527 | [20527-paradise.json](./20527-paradise.json) |
 | Paradise | 210019 | [210019-paradise.json](./210019-paradise.json) |
@@ -2189,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Dot Blue Dot | 84822 | [84822-pink-dot-blue-dot.json](./84822-pink-dot-blue-dot.json) |
 | Pink Elephant | 186310 | [186310-pink-elephant.json](./186310-pink-elephant.json) |
 | Pink Explorer | 210877 | [210877-pink-explorer.json](./210877-pink-explorer.json) |
+| Pink Gear 2 | 119583 | [119583-pink-gear-2.json](./119583-pink-gear-2.json) |
 | Pink Girls | 243156 | [243156-pink-girls.json](./243156-pink-girls.json) |
 | Pink Hour | 34288 | [34288-pink-hour.json](./34288-pink-hour.json) |
 | Pink Marmalade | 184627 | [184627-pink-marmalade.json](./184627-pink-marmalade.json) |
