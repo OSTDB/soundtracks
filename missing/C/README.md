@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy land | 154401 | [154401-candy-land.json](./154401-candy-land.json) |
 | Candy Land / Chutes & Ladders / Original Memory Game | 91423 | [91423-candy-land-chutes-and-ladders-original-memory-game.json](./91423-candy-land-chutes-and-ladders-original-memory-game.json) |
 | Candy Land: Sugary Sprint | 384054 | [384054-candy-land-sugary-sprint.json](./384054-candy-land-sugary-sprint.json) |
+| Candy Legend | 105784 | [105784-candy-legend.json](./105784-candy-legend.json) |
 | Candy Maid | 224777 | [224777-candy-maid.json](./224777-candy-maid.json) |
 | Candy Mandy | 114956 | [114956-candy-mandy.json](./114956-candy-mandy.json) |
 | Candy Mania Star | 87094 | [87094-candy-mania-star.json](./87094-candy-mania-star.json) |
@@ -3222,6 +3223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluefinders: Math Adventures - Mystery of the Himalayas | 66092 | [66092-cluefinders-math-adventures-mystery-of-the-himalayas.json](./66092-cluefinders-math-adventures-mystery-of-the-himalayas.json) |
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
 | Clumsy Cat | 259242 | [259242-clumsy-cat.json](./259242-clumsy-cat.json) |
+| Clumsy Climber | 105782 | [105782-clumsy-climber.json](./105782-clumsy-climber.json) |
 | Clumsy Fighting | 104613 | [104613-clumsy-fighting.json](./104613-clumsy-fighting.json) |
 | Clumsy Knight vs. Skeletons R | 200065 | [200065-clumsy-knight-vs-skeletons-r.json](./200065-clumsy-knight-vs-skeletons-r.json) |
 | Clumsy Pirates | 22272 | [22272-clumsy-pirates.json](./22272-clumsy-pirates.json) |
@@ -4819,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craggenrock | 207498 | [207498-craggenrock.json](./207498-craggenrock.json) |
 | Craggfall | 415157 | [415157-craggfall.json](./415157-craggfall.json) |
 | CraMagear | 226833 | [226833-cramagear.json](./226833-cramagear.json) |
+| Cramble | 105760 | [105760-cramble.json](./105760-cramble.json) |
 | Cramit's Keep | 186846 | [186846-cramits-keep.json](./186846-cramits-keep.json) |
 | Crane Game Simulator | 224747 | [224747-crane-game-simulator.json](./224747-crane-game-simulator.json) |
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
