@@ -2421,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Experimental | 163972 | [163972-experimental.json](./163972-experimental.json) |
 | Experimental Game Pack 01 | 62139 | [62139-experimental-game-pack-01.json](./62139-experimental-game-pack-01.json) |
 | Experimental Game Pack 01 | 80612 | [80612-experimental-game-pack-01.json](./80612-experimental-game-pack-01.json) |
+| Expert Chess | 93361 | [93361-expert-chess.json](./93361-expert-chess.json) |
 | Expert on Domestication | 152850 | [152850-expert-on-domestication.json](./152850-expert-on-domestication.json) |
 | Expiare | 388920 | [388920-expiare.json](./388920-expiare.json) |
 | Expiration | 171572 | [171572-expiration.json](./171572-expiration.json) |
