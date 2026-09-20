@@ -1412,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights: Spiral Islands | 66098 | [66098-knights-spiral-islands.json](./66098-knights-spiral-islands.json) |
 | Knighty Night | 119027 | [119027-knighty-night.json](./119027-knighty-night.json) |
 | Knitted and Inflatable | 155666 | [155666-knitted-and-inflatable.json](./155666-knitted-and-inflatable.json) |
+| Knock 'Em Down! Bowling | 114201 | [114201-knock-em-down-bowling.json](./114201-knock-em-down-bowling.json) |
 | Knock Harder | 120953 | [120953-knock-harder.json](./120953-knock-harder.json) |
 | Knock Knock Traveling soulsman | 178013 | [178013-knock-knock-traveling-soulsman.json](./178013-knock-knock-traveling-soulsman.json) |
 | Knock on the Coffin Lid | 131645 | [131645-knock-on-the-coffin-lid.json](./131645-knock-on-the-coffin-lid.json) |
