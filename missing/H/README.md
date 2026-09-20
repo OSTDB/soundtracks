@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Season: Sudoku Puzzle | 241992 | [241992-harvest-season-sudoku-puzzle.json](./241992-harvest-season-sudoku-puzzle.json) |
 | Harvest Skies: Crop Dusting Simulator | 395693 | [395693-harvest-skies-crop-dusting-simulator.json](./395693-harvest-skies-crop-dusting-simulator.json) |
 | Harvest Them | 239295 | [239295-harvest-them.json](./239295-harvest-them.json) |
+| Harvest Time | 69539 | [69539-harvest-time.json](./69539-harvest-time.json) |
 | Harvest Uranus | 244514 | [244514-harvest-uranus.json](./244514-harvest-uranus.json) |
 | Harvest Village | 340417 | [340417-harvest-village.json](./340417-harvest-village.json) |
 | Harvestella | 206818 | [206818-harvestella.json](./206818-harvestella.json) |
