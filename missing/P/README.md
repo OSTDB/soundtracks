@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Bride 6: Nightmare | 326046 | [326046-paper-bride-6-nightmare.json](./326046-paper-bride-6-nightmare.json) |
 | Paper Cages | 178670 | [178670-paper-cages.json](./178670-paper-cages.json) |
 | Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
+| Paper Cut Mansion | 86512 | [86512-paper-cut-mansion.json](./86512-paper-cut-mansion.json) |
 | Paper Dash: City Hustle | 287072 | [287072-paper-dash-city-hustle.json](./287072-paper-dash-city-hustle.json) |
 | Paper Dash: Invasion of Greed | 288919 | [288919-paper-dash-invasion-of-greed.json](./288919-paper-dash-invasion-of-greed.json) |
 | Paper Department | 374156 | [374156-paper-department.json](./374156-paper-department.json) |
@@ -2097,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 131514 | [131514-pinball.json](./131514-pinball.json) |
 | Pinball | 131522 | [131522-pinball.json](./131522-pinball.json) |
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
+| Pinball | 86507 | [86507-pinball.json](./86507-pinball.json) |
 | Pinball Advance | 49316 | [49316-pinball-advance.json](./49316-pinball-advance.json) |
 | Pinball Arcade Season 2 | 141861 | [141861-pinball-arcade-season-2.json](./141861-pinball-arcade-season-2.json) |
 | Pinball Arcade: AC/DC | 349341 | [349341-pinball-arcade-ac-dc.json](./349341-pinball-arcade-ac-dc.json) |
@@ -5328,6 +5330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Put Your Brain on 2 | 234150 | [234150-put-your-brain-on-2.json](./234150-put-your-brain-on-2.json) |
 | Put Your Stamp On | 226434 | [226434-put-your-stamp-on.json](./226434-put-your-stamp-on.json) |
 | Putin Life | 130049 | [130049-putin-life.json](./130049-putin-life.json) |
+| Putin takes taxes | 86569 | [86569-putin-takes-taxes.json](./86569-putin-takes-taxes.json) |
 | Putin, Boobs and Trump | 96940 | [96940-putin-boobs-and-trump.json](./96940-putin-boobs-and-trump.json) |
 | Putrefaction | 26533 | [26533-putrefaction.json](./26533-putrefaction.json) |
 | Putrefaction 2: Rumble in the Hometown | 68797 | [68797-putrefaction-2-rumble-in-the-hometown.json](./68797-putrefaction-2-rumble-in-the-hometown.json) |
