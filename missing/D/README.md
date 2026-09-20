@@ -536,9 +536,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Reign: The Future of War - Battles of the Outer Rim | 73771 | [73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json](./73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json) |
 | Dark Ride Escape | 310577 | [310577-dark-ride-escape.json](./310577-dark-ride-escape.json) |
 | Dark Romance: Ashville | 139798 | [139798-dark-romance-ashville.json](./139798-dark-romance-ashville.json) |
+| Dark Romance: Heart of the Beast HD | 88814 | [88814-dark-romance-heart-of-the-beast-hd.json](./88814-dark-romance-heart-of-the-beast-hd.json) |
 | Dark Romance: Hunchback of Notre-Dame - Collector's Edition | 116108 | [116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json](./116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json) |
+| Dark Romance: Kingdom of Death HD | 88810 | [88810-dark-romance-kingdom-of-death-hd.json](./88810-dark-romance-kingdom-of-death-hd.json) |
 | Dark Romance: Monster Within | 101486 | [101486-dark-romance-monster-within.json](./101486-dark-romance-monster-within.json) |
 | Dark Romance: The Swan Sonata - Collector's Edition | 110345 | [110345-dark-romance-the-swan-sonata-collectors-edition.json](./110345-dark-romance-the-swan-sonata-collectors-edition.json) |
+| Dark Romance: The Swan Sonata HD | 88812 | [88812-dark-romance-the-swan-sonata-hd.json](./88812-dark-romance-the-swan-sonata-hd.json) |
 | Dark Romance: Vampire Origins - Collector's Edition | 209716 | [209716-dark-romance-vampire-origins-collectors-edition.json](./209716-dark-romance-vampire-origins-collectors-edition.json) |
 | Dark Room | 356630 | [356630-dark-room.json](./356630-dark-room.json) |
 | Dark Rooms | 240346 | [240346-dark-rooms.json](./240346-dark-rooms.json) |
@@ -1739,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: Emily's Moms vs. Dads | 80946 | [80946-delicious-emilys-moms-vs-dads.json](./80946-delicious-emilys-moms-vs-dads.json) |
 | Delicious: Emily's Road Trip | 117545 | [117545-delicious-emilys-road-trip.json](./117545-delicious-emilys-road-trip.json) |
 | Delicious: Emily's Taste of Fame | 89222 | [89222-delicious-emilys-taste-of-fame.json](./89222-delicious-emilys-taste-of-fame.json) |
+| Delicious: Emily's Wonder Wedding | 88825 | [88825-delicious-emilys-wonder-wedding.json](./88825-delicious-emilys-wonder-wedding.json) |
 | Delicious: Mansion Mystery | 304710 | [304710-delicious-mansion-mystery.json](./304710-delicious-mansion-mystery.json) |
 | DeLight: The Journey Home - Chapter 4 | 314898 | [314898-delight-the-journey-home-chapter-4.json](./314898-delight-the-journey-home-chapter-4.json) |
 | Delightful Adventure: Enhanced | 307728 | [307728-delightful-adventure-enhanced.json](./307728-delightful-adventure-enhanced.json) |
@@ -2889,6 +2893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinotopia | 146885 | [146885-dinotopia.json](./146885-dinotopia.json) |
 | Dinovaporate | 256562 | [256562-dinovaporate.json](./256562-dinovaporate.json) |
 | DinoVR | 114981 | [114981-dinovr.json](./114981-dinovr.json) |
+| DinoZzz | 88834 | [88834-dinozzz.json](./88834-dinozzz.json) |
 | Dinus Escape | 338293 | [338293-dinus-escape.json](./338293-dinus-escape.json) |
 | Dio Simulator Remastered | 201841 | [201841-dio-simulator-remastered.json](./201841-dio-simulator-remastered.json) |
 | Diode Arena | 207336 | [207336-diode-arena.json](./207336-diode-arena.json) |
@@ -3878,6 +3883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Defense | 366295 | [366295-doodle-defense.json](./366295-doodle-defense.json) |
 | Doodle Devil: Dark Side | 386861 | [386861-doodle-devil-dark-side.json](./386861-doodle-devil-dark-side.json) |
 | Doodle Devil: Pack | 212360 | [212360-doodle-devil-pack.json](./212360-doodle-devil-pack.json) |
+| Doodle Drops: Physics Puzzler | 88784 | [88784-doodle-drops-physics-puzzler.json](./88784-doodle-drops-physics-puzzler.json) |
 | Doodle Empires | 336893 | [336893-doodle-empires.json](./336893-doodle-empires.json) |
 | Doodle Escape | 338011 | [338011-doodle-escape.json](./338011-doodle-escape.json) |
 | Doodle Factory | 295801 | [295801-doodle-factory.json](./295801-doodle-factory.json) |
