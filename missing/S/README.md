@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Workshop | 343787 | [343787-santas-workshop.json](./343787-santas-workshop.json) |
 | Santa's World | 277577 | [277577-santas-world.json](./277577-santas-world.json) |
 | Santa's Xmas Adventure | 138194 | [138194-santas-xmas-adventure.json](./138194-santas-xmas-adventure.json) |
+| SantaFly | 92838 | [92838-santafly.json](./92838-santafly.json) |
 | Santas Christmas Escape VR | 288229 | [288229-santas-christmas-escape-vr.json](./288229-santas-christmas-escape-vr.json) |
 | Santas Little Helper | 363372 | [363372-santas-little-helper.json](./363372-santas-little-helper.json) |
 | Santatlantean | 42047 | [42047-santatlantean.json](./42047-santatlantean.json) |
@@ -1263,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Hunter Idle | 399703 | [399703-sea-hunter-idle.json](./399703-sea-hunter-idle.json) |
 | Sea Legends | 146227 | [146227-sea-legends.json](./146227-sea-legends.json) |
 | Sea Legends | 293633 | [293633-sea-legends.json](./293633-sea-legends.json) |
+| Sea Monster | 92823 | [92823-sea-monster.json](./92823-sea-monster.json) |
 | Sea Monster Attacks Hunter | 176446 | [176446-sea-monster-attacks-hunter.json](./176446-sea-monster-attacks-hunter.json) |
 | Sea of Brave: Aidan Adventure | 270125 | [270125-sea-of-brave-aidan-adventure.json](./270125-sea-of-brave-aidan-adventure.json) |
 | Sea of Brave: Beast Island | 303082 | [303082-sea-of-brave-beast-island.json](./303082-sea-of-brave-beast-island.json) |
@@ -6659,6 +6661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Masters ASD | 130971 | [130971-speed-masters-asd.json](./130971-speed-masters-asd.json) |
 | Speed Mazing | 164985 | [164985-speed-mazing.json](./164985-speed-mazing.json) |
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
+| Speed Power Gunbike | 92832 | [92832-speed-power-gunbike.json](./92832-speed-power-gunbike.json) |
 | Speed Race DX | 342140 | [342140-speed-race-dx.json](./342140-speed-race-dx.json) |
 | Speed Racer | 245401 | [245401-speed-racer.json](./245401-speed-racer.json) |
 | Speed Racer Candy Tracks | 343895 | [343895-speed-racer-candy-tracks.json](./343895-speed-racer-candy-tracks.json) |
@@ -8440,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step Up! | 84902 | [84902-step-up.json](./84902-step-up.json) |
 | StepByStep | 371906 | [371906-stepbystep.json](./371906-stepbystep.json) |
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
+| Stephen King's F13 | 92828 | [92828-stephen-kings-f13.json](./92828-stephen-kings-f13.json) |
 | Steptile | 287097 | [287097-steptile.json](./287097-steptile.json) |
 | StepX | 67915 | [67915-stepx.json](./67915-stepx.json) |
 | Steredenn | 14146 | [14146-steredenn.json](./14146-steredenn.json) |
@@ -10786,6 +10790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface | 395545 | [395545-surface.json](./395545-surface.json) |
 | Surface Breaker | 383954 | [383954-surface-breaker.json](./383954-surface-breaker.json) |
 | Surface Labyrinth Kurumabu | 369091 | [369091-surface-labyrinth-kurumabu.json](./369091-surface-labyrinth-kurumabu.json) |
+| Surface Tension | 92822 | [92822-surface-tension.json](./92822-surface-tension.json) |
 | Surface: Alone in the Mist | 26712 | [26712-surface-alone-in-the-mist.json](./26712-surface-alone-in-the-mist.json) |
 | Surface: Alone in the Mist - Collector's Edition | 89943 | [89943-surface-alone-in-the-mist-collectors-edition.json](./89943-surface-alone-in-the-mist-collectors-edition.json) |
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
