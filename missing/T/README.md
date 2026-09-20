@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takahashi Meijin no Bouken-jima IV | 84868 | [84868-takahashi-meijin-no-bouken-jima-iv.json](./84868-takahashi-meijin-no-bouken-jima-iv.json) |
 | Takahashi Meijin no Bug-tte Honey | 48662 | [48662-takahashi-meijin-no-bug-tte-honey.json](./48662-takahashi-meijin-no-bug-tte-honey.json) |
 | Takamori Puzzle | 264328 | [264328-takamori-puzzle.json](./264328-takamori-puzzle.json) |
+| Takanaria | 113495 | [113495-takanaria.json](./113495-takanaria.json) |
 | Takara Cards | 194401 | [194401-takara-cards.json](./194401-takara-cards.json) |
 | Take a Break! Crosswords | 76557 | [76557-take-a-break-crosswords.json](./76557-take-a-break-crosswords.json) |
 | Take a Little | 238737 | [238737-take-a-little.json](./238737-take-a-little.json) |
@@ -2345,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicler | 150631 | [150631-the-chronicler.json](./150631-the-chronicler.json) |
 | The Chronicles of Ezra Blackwell: Episode 1 - Pappi's Peril | 277281 | [277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json](./277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json) |
 | The Chronicles of Hercules: The 12 Labours | 169366 | [169366-the-chronicles-of-hercules-the-12-labours.json](./169366-the-chronicles-of-hercules-the-12-labours.json) |
+| The Chronicles of Jonah and the Whale | 113480 | [113480-the-chronicles-of-jonah-and-the-whale.json](./113480-the-chronicles-of-jonah-and-the-whale.json) |
 | The Chronicles of King Arthur: Episode 1 - Excalibur | 112952 | [112952-the-chronicles-of-king-arthur-episode-1-excalibur.json](./112952-the-chronicles-of-king-arthur-episode-1-excalibur.json) |
 | The Chronicles of Nyanya | 68669 | [68669-the-chronicles-of-nyanya.json](./68669-the-chronicles-of-nyanya.json) |
 | The Chronicles of Penghao: Ming | 292289 | [292289-the-chronicles-of-penghao-ming.json](./292289-the-chronicles-of-penghao-ming.json) |
@@ -3788,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Days of the Third Age | 356169 | [356169-the-last-days-of-the-third-age.json](./356169-the-last-days-of-the-third-age.json) |
 | The Last Deathbound | 127014 | [127014-the-last-deathbound.json](./127014-the-last-deathbound.json) |
 | The Last Delivery Man on Earth | 374593 | [374593-the-last-delivery-man-on-earth.json](./374593-the-last-delivery-man-on-earth.json) |
+| The Last Dinner | 113493 | [113493-the-last-dinner.json](./113493-the-last-dinner.json) |
 | The Last Door | 235984 | [235984-the-last-door.json](./235984-the-last-door.json) |
 | The Last Driver | 343791 | [343791-the-last-driver.json](./343791-the-last-driver.json) |
 | The Last Drop | 318194 | [318194-the-last-drop.json](./318194-the-last-drop.json) |
@@ -4305,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Marionette | 124595 | [124595-the-marionette.json](./124595-the-marionette.json) |
 | The Mark | 10956 | [10956-the-mark.json](./10956-the-mark.json) |
 | The Market of Light | 170545 | [170545-the-market-of-light.json](./170545-the-market-of-light.json) |
+| The Mars Agenda | 113508 | [113508-the-mars-agenda.json](./113508-the-mars-agenda.json) |
 | The Marson Home | 207913 | [207913-the-marson-home.json](./207913-the-marson-home.json) |
 | The Martian VR Experience | 25814 | [25814-the-martian-vr-experience.json](./25814-the-martian-vr-experience.json) |
 | The Martian: Official Game | 102771 | [102771-the-martian-official-game.json](./102771-the-martian-official-game.json) |
@@ -5501,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Two Nekos | 310201 | [310201-the-tale-of-two-nekos.json](./310201-the-tale-of-two-nekos.json) |
 | The Tales of Bayun | 200111 | [200111-the-tales-of-bayun.json](./200111-the-tales-of-bayun.json) |
 | The Tales of Bearsworth Manor: Puzzling Pages | 85446 | [85446-the-tales-of-bearsworth-manor-puzzling-pages.json](./85446-the-tales-of-bearsworth-manor-puzzling-pages.json) |
+| The Tales of Bingwood: Chapter I - To Save a Princess | 113472 | [113472-the-tales-of-bingwood-chapter-i-to-save-a-princess.json](./113472-the-tales-of-bingwood-chapter-i-to-save-a-princess.json) |
 | The Tales of the Magical Space Dough: Rebaked | 379439 | [379439-the-tales-of-the-magical-space-dough-rebaked.json](./379439-the-tales-of-the-magical-space-dough-rebaked.json) |
 | The Tales of Wonderlend | 379441 | [379441-the-tales-of-wonderlend.json](./379441-the-tales-of-wonderlend.json) |
 | The Tall Wall Falls: The Inner Gate's Last Stand | 186171 | [186171-the-tall-wall-falls-the-inner-gates-last-stand.json](./186171-the-tall-wall-falls-the-inner-gates-last-stand.json) |
@@ -9378,6 +9383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transient: Extended Edition | 186911 | [186911-transient-extended-edition.json](./186911-transient-extended-edition.json) |
 | Transilio | 270174 | [270174-transilio.json](./270174-transilio.json) |
 | Transistors Revenge | 297471 | [297471-transistors-revenge.json](./297471-transistors-revenge.json) |
+| Transit | 113505 | [113505-transit.json](./113505-transit.json) |
 | Transit | 365113 | [365113-transit.json](./365113-transit.json) |
 | Transit King Tycoon | 140399 | [140399-transit-king-tycoon.json](./140399-transit-king-tycoon.json) |
 | TransMemory | 318802 | [318802-transmemory.json](./318802-transmemory.json) |
@@ -9607,6 +9613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenches Generals | 85521 | [85521-trenches-generals.json](./85521-trenches-generals.json) |
 | Trenches II | 197763 | [197763-trenches-ii.json](./197763-trenches-ii.json) |
 | TrenchesWIP | 120957 | [120957-trencheswip.json](./120957-trencheswip.json) |
+| Trends | 113479 | [113479-trends.json](./113479-trends.json) |
 | Trenga Unlimited | 147257 | [147257-trenga-unlimited.json](./147257-trenga-unlimited.json) |
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
 | Tres | 319800 | [319800-tres.json](./319800-tres.json) |
