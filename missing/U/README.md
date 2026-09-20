@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unless Terminalia | 399081 | [399081-unless-terminalia.json](./399081-unless-terminalia.json) |
 | Unlich | 315711 | [315711-unlich.json](./315711-unlich.json) |
 | Unlife | 151127 | [151127-unlife.json](./151127-unlife.json) |
+| Unlikely Heroes | 80882 | [80882-unlikely-heroes.json](./80882-unlikely-heroes.json) |
 | Unlimited | 268217 | [268217-unlimited.json](./268217-unlimited.json) |
 | Unlimited Adventures | 71492 | [71492-unlimited-adventures.json](./71492-unlimited-adventures.json) |
 | Unlimited Elevators | 94790 | [94790-unlimited-elevators.json](./94790-unlimited-elevators.json) |
