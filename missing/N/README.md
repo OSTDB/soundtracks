@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanny 911 | 206783 | [206783-nanny-911.json](./206783-nanny-911.json) |
 | Nano Assault | 21075 | [21075-nano-assault.json](./21075-nano-assault.json) |
 | Nano Code:X | 410908 | [410908-nano-code-x.json](./410908-nano-code-x.json) |
+| Nano Dash | 103163 | [103163-nano-dash.json](./103163-nano-dash.json) |
 | Nano Driller | 115587 | [115587-nano-driller.json](./115587-nano-driller.json) |
 | Nano Flat Owner | 391032 | [391032-nano-flat-owner.json](./391032-nano-flat-owner.json) |
 | Nano Reef | 405538 | [405538-nano-reef.json](./405538-nano-reef.json) |
@@ -2347,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Tower | 341490 | [341490-number-tower.json](./341490-number-tower.json) |
 | Number Wars | 193474 | [193474-number-wars.json](./193474-number-wars.json) |
 | Number's Addict | 94187 | [94187-numbers-addict.json](./94187-numbers-addict.json) |
+| Numberic Puzzle 2018 | 103154 | [103154-numberic-puzzle-2018.json](./103154-numberic-puzzle-2018.json) |
 | Numberic Puzzle Blue | 107133 | [107133-numberic-puzzle-blue.json](./107133-numberic-puzzle-blue.json) |
 | Numberic Puzzle Ocean | 107168 | [107168-numberic-puzzle-ocean.json](./107168-numberic-puzzle-ocean.json) |
 | Numberline | 29724 | [29724-numberline.json](./29724-numberline.json) |
