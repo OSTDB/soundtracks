@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make a Good Mega Man Level Contest 2 | 192402 | [192402-make-a-good-mega-man-level-contest-2.json](./192402-make-a-good-mega-man-level-contest-2.json) |
 | Make a Good Mega Man Level: Episode Zero | 197785 | [197785-make-a-good-mega-man-level-episode-zero.json](./197785-make-a-good-mega-man-level-episode-zero.json) |
 | Make a Happy Baby | 239039 | [239039-make-a-happy-baby.json](./239039-make-a-happy-baby.json) |
+| Make a Killing | 118827 | [118827-make-a-killing.json](./118827-make-a-killing.json) |
 | Make a Path for the Chicken | 165624 | [165624-make-a-path-for-the-chicken.json](./165624-make-a-path-for-the-chicken.json) |
 | Make a Scene: Dinosaurs | 96044 | [96044-make-a-scene-dinosaurs.json](./96044-make-a-scene-dinosaurs.json) |
 | Make Border Great Again! | 74345 | [74345-make-border-great-again.json](./74345-make-border-great-again.json) |
@@ -2674,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meower's Quest: Jasper's Tale | 104025 | [104025-meowers-quest-jaspers-tale.json](./104025-meowers-quest-jaspers-tale.json) |
 | MeowFactory | 403691 | [403691-meowfactory.json](./403691-meowfactory.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
+| Meowk and Frocco | 118799 | [118799-meowk-and-frocco.json](./118799-meowk-and-frocco.json) |
 | MeowMatch | 283724 | [283724-meowmatch.json](./283724-meowmatch.json) |
 | Meowmewbug | 370151 | [370151-meowmewbug.json](./370151-meowmewbug.json) |
 | Meown | 348265 | [348265-meown.json](./348265-meown.json) |
@@ -3569,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Earth | 118711 | [118711-minecraft-earth.json](./118711-minecraft-earth.json) |
 | Minecraft Education | 28407 | [28407-minecraft-education.json](./28407-minecraft-education.json) |
 | Minecraft Lovehunt | 144111 | [144111-minecraft-lovehunt.json](./144111-minecraft-lovehunt.json) |
+| Minecraft Master Collection | 118851 | [118851-minecraft-master-collection.json](./118851-minecraft-master-collection.json) |
 | Minecraft Matcha Flavoured | 411659 | [411659-minecraft-matcha-flavoured.json](./411659-minecraft-matcha-flavoured.json) |
 | Minecraft PSP | 327850 | [327850-minecraft-psp.json](./327850-minecraft-psp.json) |
 | Minecraft Triple Bundle | 334490 | [334490-minecraft-triple-bundle.json](./334490-minecraft-triple-bundle.json) |
@@ -4058,6 +4061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistaker | 129713 | [129713-mistaker.json](./129713-mistaker.json) |
 | Mistakes Were Made | 179036 | [179036-mistakes-were-made.json](./179036-mistakes-were-made.json) |
 | Mistbound | 370667 | [370667-mistbound.json](./370667-mistbound.json) |
+| Mister Burnhouse | 118826 | [118826-mister-burnhouse.json](./118826-mister-burnhouse.json) |
 | Mister Easter | 246470 | [246470-mister-easter.json](./246470-mister-easter.json) |
 | Mister Fruit Joy | 137676 | [137676-mister-fruit-joy.json](./137676-mister-fruit-joy.json) |
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
@@ -5659,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muppet Treasure Island | 71543 | [71543-muppet-treasure-island.json](./71543-muppet-treasure-island.json) |
 | Mura World | 267912 | [267912-mura-world.json](./267912-mura-world.json) |
 | Mura World 2 | 267913 | [267913-mura-world-2.json](./267913-mura-world-2.json) |
+| Mural | 118814 | [118814-mural.json](./118814-mural.json) |
 | Muramasa Burden | 341344 | [341344-muramasa-burden.json](./341344-muramasa-burden.json) |
 | Muramasa Rebirth Complete Collection | 122359 | [122359-muramasa-rebirth-complete-collection.json](./122359-muramasa-rebirth-complete-collection.json) |
 | Muramasa Rebirth: Blessing of Amitabha Collector's Edition | 89921 | [89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json](./89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json) |
