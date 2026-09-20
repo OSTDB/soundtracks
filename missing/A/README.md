@@ -4025,6 +4025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Academy | 22471 | [22471-artificial-academy.json](./22471-artificial-academy.json) |
 | Artificial Extinction 2 | 216470 | [216470-artificial-extinction-2.json](./216470-artificial-extinction-2.json) |
 | Artificial Fright | 253451 | [253451-artificial-fright.json](./253451-artificial-fright.json) |
+| Artificial Girl | 70686 | [70686-artificial-girl.json](./70686-artificial-girl.json) |
 | Artificial Girl 3 Plus | 22465 | [22465-artificial-girl-3-plus.json](./22465-artificial-girl-3-plus.json) |
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
 | Artika.1 | 74317 | [74317-artika-1.json](./74317-artika-1.json) |
@@ -4693,6 +4694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atmocity | 90077 | [90077-atmocity.json](./90077-atmocity.json) |
 | Atmoids | 92833 | [92833-atmoids.json](./92833-atmoids.json) |
 | Atmos | 398400 | [398400-atmos.json](./398400-atmos.json) |
+| Atmosphir | 70682 | [70682-atmosphir.json](./70682-atmosphir.json) |
 | Atom Fit | 234169 | [234169-atom-fit.json](./234169-atom-fit.json) |
 | Atom OI | 183961 | [183961-atom-oi.json](./183961-atom-oi.json) |
 | Atom Run | 61123 | [61123-atom-run.json](./61123-atom-run.json) |
