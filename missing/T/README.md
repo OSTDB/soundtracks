@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi-tachi no Gogo II: Minako | 247182 | [247182-tenshi-tachi-no-gogo-ii-minako.json](./247182-tenshi-tachi-no-gogo-ii-minako.json) |
 | Tenshi-tachi no Gogo III: Bangai-hen | 270791 | [270791-tenshi-tachi-no-gogo-iii-bangai-hen.json](./270791-tenshi-tachi-no-gogo-iii-bangai-hen.json) |
 | Tenshoku Maou | 381693 | [381693-tenshoku-maou.json](./381693-tenshoku-maou.json) |
+| Tension | 93966 | [93966-tension.json](./93966-tension.json) |
 | Tensou Sentai Goseiger Super Battle Daishuugou! | 327603 | [327603-tensou-sentai-goseiger-super-battle-daishuugou.json](./327603-tensou-sentai-goseiger-super-battle-daishuugou.json) |
 | Tensura: King of Monsters | 142849 | [142849-tensura-king-of-monsters.json](./142849-tensura-king-of-monsters.json) |
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim - The Myth & Legend of Marauder Shields | 267065 | [267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json](./267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json) |
@@ -5563,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Symbiant II | 349336 | [349336-the-symbiant-ii.json](./349336-the-symbiant-ii.json) |
 | The Symbiant Re:Union | 259004 | [259004-the-symbiant-re-union.json](./259004-the-symbiant-re-union.json) |
 | The T.O.T.E.: Tales of the Elements | 258214 | [258214-the-t-o-t-e-tales-of-the-elements.json](./258214-the-t-o-t-e-tales-of-the-elements.json) |
+| The Table Game | 93975 | [93975-the-table-game.json](./93975-the-table-game.json) |
 | The Tabung | 196310 | [196310-the-tabung.json](./196310-the-tabung.json) |
 | The Tail of the Serpent | 178681 | [178681-the-tail-of-the-serpent.json](./178681-the-tail-of-the-serpent.json) |
 | The Tale of (Your Name) | 282030 | [282030-the-tale-of-your-name.json](./282030-the-tale-of-your-name.json) |
@@ -7825,6 +7827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobia's Animal Farm | 301965 | [301965-tobias-animal-farm.json](./301965-tobias-animal-farm.json) |
 | Tobitaro | 391152 | [391152-tobitaro.json](./391152-tobitaro.json) |
 | Tobla: Divine Path | 279132 | [279132-tobla-divine-path.json](./279132-tobla-divine-path.json) |
+| Toblo | 93989 | [93989-toblo.json](./93989-toblo.json) |
 | Tobor | 217406 | [217406-tobor.json](./217406-tobor.json) |
 | Toby | 378190 | [378190-toby.json](./378190-toby.json) |
 | Toby's Topsy Tale | 293615 | [293615-tobys-topsy-tale.json](./293615-tobys-topsy-tale.json) |
@@ -8263,6 +8266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topolino amico delle guardie | 246664 | [246664-topolino-amico-delle-guardie.json](./246664-topolino-amico-delle-guardie.json) |
 | Topper Carrier | 152830 | [152830-topper-carrier.json](./152830-topper-carrier.json) |
 | Toppl. | 174219 | [174219-toppl.json](./174219-toppl.json) |
+| Topple | 93973 | [93973-topple.json](./93973-topple.json) |
 | Topple Adventure | 214490 | [214490-topple-adventure.json](./214490-topple-adventure.json) |
 | Topple Tactics | 272547 | [272547-topple-tactics.json](./272547-topple-tactics.json) |
 | Topple the Tower | 249839 | [249839-topple-the-tower.json](./249839-topple-the-tower.json) |
