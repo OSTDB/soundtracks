@@ -3332,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
 | Blocks | 370143 | [370143-blocks.json](./370143-blocks.json) |
 | Blocks and Ropes | 224092 | [224092-blocks-and-ropes.json](./224092-blocks-and-ropes.json) |
+| Blocks Mania | 66385 | [66385-blocks-mania.json](./66385-blocks-mania.json) |
 | Blocks Stacking | 153352 | [153352-blocks-stacking.json](./153352-blocks-stacking.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
 | Blockshock | 83482 | [83482-blockshock.json](./83482-blockshock.json) |
