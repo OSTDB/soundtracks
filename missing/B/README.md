@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Angels | 137681 | [137681-battle-of-angels.json](./137681-battle-of-angels.json) |
 | Battle of Arrow | 82146 | [82146-battle-of-arrow.json](./82146-battle-of-arrow.json) |
 | Battle of Atlantis | 85845 | [85845-battle-of-atlantis.json](./85845-battle-of-atlantis.json) |
+| Battle of Blades | 68330 | [68330-battle-of-blades.json](./68330-battle-of-blades.json) |
 | Battle of Britain | 82058 | [82058-battle-of-britain.json](./82058-battle-of-britain.json) |
 | Battle of Decay: Survival | 217015 | [217015-battle-of-decay-survival.json](./217015-battle-of-decay-survival.json) |
 | Battle of Elemental | 376544 | [376544-battle-of-elemental.json](./376544-battle-of-elemental.json) |
@@ -3357,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockz VS Ballz | 111013 | [111013-blockz-vs-ballz.json](./111013-blockz-vs-ballz.json) |
 | Blofeld X | 269108 | [269108-blofeld-x.json](./269108-blofeld-x.json) |
 | bLogic Blox | 110767 | [110767-blogic-blox.json](./110767-blogic-blox.json) |
+| Blokdodge | 68327 | [68327-blokdodge.json](./68327-blokdodge.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
 | Blokin | 111633 | [111633-blokin.json](./111633-blokin.json) |
 | Blokker: Orange | 163909 | [163909-blokker-orange.json](./163909-blokker-orange.json) |
@@ -4108,6 +4110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
 | Bootstrap Island | 196895 | [196895-bootstrap-island.json](./196895-bootstrap-island.json) |
 | Booty Barrage | 292530 | [292530-booty-barrage.json](./292530-booty-barrage.json) |
+| Booty Diver | 68321 | [68321-booty-diver.json](./68321-booty-diver.json) |
 | Booty Hunt | 112289 | [112289-booty-hunt.json](./112289-booty-hunt.json) |
 | Bootybuns 2 | 127925 | [127925-bootybuns-2.json](./127925-bootybuns-2.json) |
 | Booze Master | 191852 | [191852-booze-master.json](./191852-booze-master.json) |
@@ -4572,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Dwarves: Back for Treasures | 73533 | [73533-brave-dwarves-back-for-treasures.json](./73533-brave-dwarves-back-for-treasures.json) |
 | Brave Fighter 2: Frontier Free | 38952 | [38952-brave-fighter-2-frontier-free.json](./38952-brave-fighter-2-frontier-free.json) |
 | Brave Fighter: Demon Revenge | 38953 | [38953-brave-fighter-demon-revenge.json](./38953-brave-fighter-demon-revenge.json) |
+| Brave Firefighters: Real Life Heroes | 68307 | [68307-brave-firefighters-real-life-heroes.json](./68307-brave-firefighters-real-life-heroes.json) |
 | Brave Frontier ReXona | 205675 | [205675-brave-frontier-rexona.json](./205675-brave-frontier-rexona.json) |
 | Brave Furries | 35603 | [35603-brave-furries.json](./35603-brave-furries.json) |
 | Brave Hero | 295271 | [295271-brave-hero.json](./295271-brave-hero.json) |
@@ -4798,6 +4802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Odyssey | 229332 | [229332-brick-odyssey.json](./229332-brick-odyssey.json) |
 | Brick People | 166071 | [166071-brick-people.json](./166071-brick-people.json) |
 | Brick Rigs | 30650 | [30650-brick-rigs.json](./30650-brick-rigs.json) |
+| Brick Shot 2 | 68339 | [68339-brick-shot-2.json](./68339-brick-shot-2.json) |
 | Brick Thru | 89932 | [89932-brick-thru.json](./89932-brick-thru.json) |
 | Brick[BrickSmash]Smash | 128596 | [128596-brick-bricksmash-smash.json](./128596-brick-bricksmash-smash.json) |
 | Brickade | 371899 | [371899-brickade.json](./371899-brickade.json) |
