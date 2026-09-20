@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Performous | 63242 | [63242-performous.json](./63242-performous.json) |
 | Perfume Atelier | 366944 | [366944-perfume-atelier.json](./366944-perfume-atelier.json) |
 | Perhaps When We Dream | 114945 | [114945-perhaps-when-we-dream.json](./114945-perhaps-when-we-dream.json) |
+| Perigee | 83950 | [83950-perigee.json](./83950-perigee.json) |
 | Peril | 177036 | [177036-peril.json](./177036-peril.json) |
 | Peril | 197786 | [197786-peril.json](./197786-peril.json) |
 | Peril in the Agency | 365061 | [365061-peril-in-the-agency.json](./365061-peril-in-the-agency.json) |
@@ -2054,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillar of Salt | 361729 | [361729-pillar-of-salt.json](./361729-pillar-of-salt.json) |
 | Pillars of Eternity II: Deadfire | 26951 | [26951-pillars-of-eternity-ii-deadfire.json](./26951-pillars-of-eternity-ii-deadfire.json) |
 | Pillars of Eternity II: Deadfire - Deck of Many Things | 124822 | [124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json](./124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json) |
+| Pillars of Eternity II: Deadfire - Obsidian Edition | 83895 | [83895-pillars-of-eternity-ii-deadfire-obsidian-edition.json](./83895-pillars-of-eternity-ii-deadfire-obsidian-edition.json) |
 | Pillars of Eternity II: Deadfire - Rum Runner’s Pack | 154457 | [154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json](./154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json) |
 | Pillars of Eternity II: Deadfire - Scalawags Pack | 154456 | [154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json](./154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json) |
 | Pillars of Eternity: Champion Edition | 51890 | [51890-pillars-of-eternity-champion-edition.json](./51890-pillars-of-eternity-champion-edition.json) |
@@ -4356,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priscillas Dream | 264681 | [264681-priscillas-dream.json](./264681-priscillas-dream.json) |
 | Prism | 290392 | [290392-prism.json](./290392-prism.json) |
 | Prism Break | 102171 | [102171-prism-break.json](./102171-prism-break.json) |
+| Prism Queen's Heroine | 83934 | [83934-prism-queens-heroine.json](./83934-prism-queens-heroine.json) |
 | Prisma & the Masquerade Menace | 30907 | [30907-prisma-and-the-masquerade-menace.json](./30907-prisma-and-the-masquerade-menace.json) |
 | Prisma Light | 236849 | [236849-prisma-light.json](./236849-prisma-light.json) |
 | Prismatic Solid | 66305 | [66305-prismatic-solid.json](./66305-prismatic-solid.json) |
@@ -5213,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punk Racer | 411619 | [411619-punk-racer.json](./411619-punk-racer.json) |
 | Punk Wars | 150059 | [150059-punk-wars.json](./150059-punk-wars.json) |
 | Punk-o-Matic | 243144 | [243144-punk-o-matic.json](./243144-punk-o-matic.json) |
+| Punks Not Dead | 83938 | [83938-punks-not-dead.json](./83938-punks-not-dead.json) |
 | PunPics | 233217 | [233217-punpics.json](./233217-punpics.json) |
 | Punt | 239675 | [239675-punt.json](./239675-punt.json) |
 | Punt: Rebirth | 401486 | [401486-punt-rebirth.json](./401486-punt-rebirth.json) |
@@ -5384,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bear | 121019 | [121019-puzzle-bear.json](./121019-puzzle-bear.json) |
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
 | Puzzle Block Wood - Wooden Block & Puzzle Game | 100936 | [100936-puzzle-block-wood-wooden-block-and-puzzle-game.json](./100936-puzzle-block-wood-wooden-block-and-puzzle-game.json) |
+| Puzzle Blocks | 83937 | [83937-puzzle-blocks.json](./83937-puzzle-blocks.json) |
 | Puzzle Bonsai | 259558 | [259558-puzzle-bonsai.json](./259558-puzzle-bonsai.json) |
 | Puzzle Book: Adventure Pack | 237980 | [237980-puzzle-book-adventure-pack.json](./237980-puzzle-book-adventure-pack.json) |
 | Puzzle Book: Furry Friends Bundle | 223564 | [223564-puzzle-book-furry-friends-bundle.json](./223564-puzzle-book-furry-friends-bundle.json) |
