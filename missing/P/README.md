@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Together | 366244 | [366244-paddle-together.json](./366244-paddle-together.json) |
 | Paddler | 403650 | [403650-paddler.json](./403650-paddler.json) |
 | Paddles | 214545 | [214545-paddles.json](./214545-paddles.json) |
+| Paddles! Pong edition | 102621 | [102621-paddles-pong-edition.json](./102621-paddles-pong-edition.json) |
 | Padel Pro World Tour | 409553 | [409553-padel-pro-world-tour.json](./409553-padel-pro-world-tour.json) |
 | Pagan: Absent Gods | 111835 | [111835-pagan-absent-gods.json](./111835-pagan-absent-gods.json) |
 | Pagans Must Die | 116853 | [116853-pagans-must-die.json](./116853-pagans-must-die.json) |
@@ -412,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantufa the Cat: Extended Edition | 318631 | [318631-pantufa-the-cat-extended-edition.json](./318631-pantufa-the-cat-extended-edition.json) |
 | Panty&Demons | 184479 | [184479-panty-and-demons.json](./184479-panty-and-demons.json) |
 | Panzar | 15740 | [15740-panzar.json](./15740-panzar.json) |
+| Panzar: Forged By Chaos | 102572 | [102572-panzar-forged-by-chaos.json](./102572-panzar-forged-by-chaos.json) |
 | Panzer Attack/Red Baron | 95381 | [95381-panzer-attack-red-baron.json](./95381-panzer-attack-red-baron.json) |
 | Panzer Battles | 17997 | [17997-panzer-battles.json](./17997-panzer-battles.json) |
 | Panzer Campaigns Budapest '45 | 206791 | [206791-panzer-campaigns-budapest-45.json](./206791-panzer-campaigns-budapest-45.json) |
@@ -955,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathogenesis: Overcome | 122387 | [122387-pathogenesis-overcome.json](./122387-pathogenesis-overcome.json) |
 | Pathologic 3 | 319087 | [319087-pathologic-3.json](./319087-pathologic-3.json) |
 | Pathologic 3: Quarantine | 326595 | [326595-pathologic-3-quarantine.json](./326595-pathologic-3-quarantine.json) |
+| PathPix Alice | 102614 | [102614-pathpix-alice.json](./102614-pathpix-alice.json) |
 | PathPix Bubble | 96533 | [96533-pathpix-bubble.json](./96533-pathpix-bubble.json) |
 | PathPix Color | 106552 | [106552-pathpix-color.json](./106552-pathpix-color.json) |
 | PathPix Edge | 108498 | [108498-pathpix-edge.json](./108498-pathpix-edge.json) |
@@ -1522,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet the Dog? | 179587 | [179587-pet-the-dog.json](./179587-pet-the-dog.json) |
 | Pet Tycoon | 209158 | [209158-pet-tycoon.json](./209158-pet-tycoon.json) |
 | Pet Vet 3D: Animal Hospital | 81435 | [81435-pet-vet-3d-animal-hospital.json](./81435-pet-vet-3d-animal-hospital.json) |
+| Pet Wash | 102612 | [102612-pet-wash.json](./102612-pet-wash.json) |
 | Pet'n'Run | 325833 | [325833-petnrun.json](./325833-petnrun.json) |
 | Petadachi | 225876 | [225876-petadachi.json](./225876-petadachi.json) |
 | Pétanque Master | 93518 | [93518-petanque-master.json](./93518-petanque-master.json) |
@@ -3115,6 +3119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poco's Maze Adventure | 319190 | [319190-pocos-maze-adventure.json](./319190-pocos-maze-adventure.json) |
 | Pocohontos | 225732 | [225732-pocohontos.json](./225732-pocohontos.json) |
 | Pocoman: Green Machine Level Pack | 262944 | [262944-pocoman-green-machine-level-pack.json](./262944-pocoman-green-machine-level-pack.json) |
+| Pocoyo Art | 102613 | [102613-pocoyo-art.json](./102613-pocoyo-art.json) |
 | Pocoyo Memo Game | 107659 | [107659-pocoyo-memo-game.json](./107659-pocoyo-memo-game.json) |
 | Pocoyo Racing | 50939 | [50939-pocoyo-racing.json](./50939-pocoyo-racing.json) |
 | Pod | 86049 | [86049-pod.json](./86049-pod.json) |
@@ -4375,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prizefight | 68609 | [68609-prizefight.json](./68609-prizefight.json) |
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
 | Prizma Puzzle Classic | 378184 | [378184-prizma-puzzle-classic.json](./378184-prizma-puzzle-classic.json) |
+| Pro 123 My Little Funny Animals Connect the Dots | 102616 | [102616-pro-123-my-little-funny-animals-connect-the-dots.json](./102616-pro-123-my-little-funny-animals-connect-the-dots.json) |
 | Pro Baccarat | 351003 | [351003-pro-baccarat.json](./351003-pro-baccarat.json) |
 | Pro Balance | 178611 | [178611-pro-balance.json](./178611-pro-balance.json) |
 | Pro Basketball Manager 2022 | 182397 | [182397-pro-basketball-manager-2022.json](./182397-pro-basketball-manager-2022.json) |
@@ -4422,6 +4428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Mahjong Tsuwamono GB | 97870 | [97870-pro-mahjong-tsuwamono-gb.json](./97870-pro-mahjong-tsuwamono-gb.json) |
 | Pro Mahjong Tsuwamono GB 2 | 97868 | [97868-pro-mahjong-tsuwamono-gb-2.json](./97868-pro-mahjong-tsuwamono-gb-2.json) |
 | Pro Mahjong Tsuwamono GBA | 97866 | [97866-pro-mahjong-tsuwamono-gba.json](./97866-pro-mahjong-tsuwamono-gba.json) |
+| Pro My Happy Wheel Farm Phonics Animals & Puppies | 102615 | [102615-pro-my-happy-wheel-farm-phonics-animals-and-puppies.json](./102615-pro-my-happy-wheel-farm-phonics-animals-and-puppies.json) |
 | Pro Office Calculator | 142457 | [142457-pro-office-calculator.json](./142457-pro-office-calculator.json) |
 | Pro Pain Labs | 166191 | [166191-pro-pain-labs.json](./166191-pro-pain-labs.json) |
 | Pro Philosopher 2: Fan Mini Argument: Locke on Property and Labor | 394866 | [394866-pro-philosopher-2-fan-mini-argument-locke-on-property-and-labor.json](./394866-pro-philosopher-2-fan-mini-argument-locke-on-property-and-labor.json) |
