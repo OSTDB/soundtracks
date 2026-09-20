@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gateway to Karos | 13720 | [13720-gateway-to-karos.json](./13720-gateway-to-karos.json) |
 | Gateway to the Kulikovo Field: The Battle of Yepifan | 276204 | [276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json](./276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json) |
 | Gather CCG | 401543 | [401543-gather-ccg.json](./401543-gather-ccg.json) |
+| Gather the Gems! | 100013 | [100013-gather-the-gems.json](./100013-gather-the-gems.json) |
 | Gator Brigade | 321565 | [321565-gator-brigade.json](./321565-gator-brigade.json) |
 | Gaucho and the Grassland | 192368 | [192368-gaucho-and-the-grassland.json](./192368-gaucho-and-the-grassland.json) |
 | Gaudi: Barcelona no Kaze | 118312 | [118312-gaudi-barcelona-no-kaze.json](./118312-gaudi-barcelona-no-kaze.json) |
@@ -1907,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee 2018 | 82145 | [82145-golden-tee-2018.json](./82145-golden-tee-2018.json) |
 | Golden Tee PGA Tour | 337445 | [337445-golden-tee-pga-tour.json](./337445-golden-tee-pga-tour.json) |
 | Golden Trails 2 | 88205 | [88205-golden-trails-2.json](./88205-golden-trails-2.json) |
+| Golden Trails 3 | 100016 | [100016-golden-trails-3.json](./100016-golden-trails-3.json) |
 | Golden Treasure: The Great Green | 117849 | [117849-golden-treasure-the-great-green.json](./117849-golden-treasure-the-great-green.json) |
 | Goldene Zeiten | 94234 | [94234-goldene-zeiten.json](./94234-goldene-zeiten.json) |
 | GoldenEye: Rogue Agent | 146882 | [146882-goldeneye-rogue-agent.json](./146882-goldeneye-rogue-agent.json) |
@@ -2736,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Guest from the Future - Collector's Edition | 122390 | [122390-grim-tales-guest-from-the-future-collectors-edition.json](./122390-grim-tales-guest-from-the-future-collectors-edition.json) |
 | Grim Tales: Horizon of Wishes - Collector's Edition | 214724 | [214724-grim-tales-horizon-of-wishes-collectors-edition.json](./214724-grim-tales-horizon-of-wishes-collectors-edition.json) |
 | Grim Tales: Light in the Darkness - Collector's Edition | 362838 | [362838-grim-tales-light-in-the-darkness-collectors-edition.json](./362838-grim-tales-light-in-the-darkness-collectors-edition.json) |
+| Grim Tales: The Heir | 99996 | [99996-grim-tales-the-heir.json](./99996-grim-tales-the-heir.json) |
 | Grim Tales: The Hunger | 250595 | [250595-grim-tales-the-hunger.json](./250595-grim-tales-the-hunger.json) |
 | Grim Tales: The Hunger - Collector's Edition | 250596 | [250596-grim-tales-the-hunger-collectors-edition.json](./250596-grim-tales-the-hunger-collectors-edition.json) |
 | Grim Tales: The Legacy | 80522 | [80522-grim-tales-the-legacy.json](./80522-grim-tales-the-legacy.json) |
@@ -2998,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess Logo Game | 104697 | [104697-guess-logo-game.json](./104697-guess-logo-game.json) |
 | Guess Me If You Can | 339829 | [339829-guess-me-if-you-can.json](./339829-guess-me-if-you-can.json) |
 | Guess Pony Cartoon | 202387 | [202387-guess-pony-cartoon.json](./202387-guess-pony-cartoon.json) |
+| Guess the Character! | 99977 | [99977-guess-the-character.json](./99977-guess-the-character.json) |
 | Guess the Flags: A Fun Quiz | 55136 | [55136-guess-the-flags-a-fun-quiz.json](./55136-guess-the-flags-a-fun-quiz.json) |
 | Guess The Movie | 273111 | [273111-guess-the-movie.json](./273111-guess-the-movie.json) |
 | Guess the Movie :- Funnier One | 23903 | [23903-guess-the-movie-funnier-one.json](./23903-guess-the-movie-funnier-one.json) |
