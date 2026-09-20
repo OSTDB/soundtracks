@@ -471,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Marine - Iron Hands Chapter Pack | 225871 | [225871-warhammer-40-000-space-marine-iron-hands-chapter-pack.json](./225871-warhammer-40-000-space-marine-iron-hands-chapter-pack.json) |
 | Warhammer 40,000: Space Marine - Master Crafted Edition | 344681 | [344681-warhammer-40-000-space-marine-master-crafted-edition.json](./344681-warhammer-40-000-space-marine-master-crafted-edition.json) |
 | Warhammer 40,000: Space Marine - Traitor Legions Pack | 225869 | [225869-warhammer-40-000-space-marine-traitor-legions-pack.json](./225869-warhammer-40-000-space-marine-traitor-legions-pack.json) |
+| Warhammer 40,000: Space Marine - Ultimate Edition | 99970 | [99970-warhammer-40-000-space-marine-ultimate-edition.json](./99970-warhammer-40-000-space-marine-ultimate-edition.json) |
 | Warhammer 40,000: Space Marine 2 - 1-Year Anniversary Edition | 382901 | [382901-warhammer-40-000-space-marine-2-1-year-anniversary-edition.json](./382901-warhammer-40-000-space-marine-2-1-year-anniversary-edition.json) |
 | Warhammer 40,000: Space Marine 2 - 2-Year Anniversary Edition | 382902 | [382902-warhammer-40-000-space-marine-2-2-year-anniversary-edition.json](./382902-warhammer-40-000-space-marine-2-2-year-anniversary-edition.json) |
 | Warhammer 40,000: Space Marine II - Collector's Edition | 230829 | [230829-warhammer-40-000-space-marine-ii-collectors-edition.json](./230829-warhammer-40-000-space-marine-ii-collectors-edition.json) |
