@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waiting For the Loop | 75036 | [75036-waiting-for-the-loop.json](./75036-waiting-for-the-loop.json) |
 | Waiting for the Raven | 138601 | [138601-waiting-for-the-raven.json](./138601-waiting-for-the-raven.json) |
 | Waiting For You At The End of Time | 335258 | [335258-waiting-for-you-at-the-end-of-time.json](./335258-waiting-for-you-at-the-end-of-time.json) |
+| Waiting Game | 114787 | [114787-waiting-game.json](./114787-waiting-game.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
 | Wakdoo Random Defence | 188098 | [188098-wakdoo-random-defence.json](./188098-wakdoo-random-defence.json) |
 | Wake | 307750 | [307750-wake.json](./307750-wake.json) |
@@ -386,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warehouse Simulator: Forklift Driver | 190070 | [190070-warehouse-simulator-forklift-driver.json](./190070-warehouse-simulator-forklift-driver.json) |
 | Warehuman | 201685 | [201685-warehuman.json](./201685-warehuman.json) |
 | Warera Mitsurin Tankentai!! | 179034 | [179034-warera-mitsurin-tankentai.json](./179034-warera-mitsurin-tankentai.json) |
+| Warface: Chernobyl | 114759 | [114759-warface-chernobyl.json](./114759-warface-chernobyl.json) |
 | Warface: Global Operations | 172778 | [172778-warface-global-operations.json](./172778-warface-global-operations.json) |
 | Warfare 1917 | 61588 | [61588-warfare-1917.json](./61588-warfare-1917.json) |
 | Warfare 1944 | 103393 | [103393-warfare-1944.json](./103393-warfare-1944.json) |
@@ -1053,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westerlands: Girly runaways story | 147247 | [147247-westerlands-girly-runaways-story.json](./147247-westerlands-girly-runaways-story.json) |
 | Western Bank VR | 76678 | [76678-western-bank-vr.json](./76678-western-bank-vr.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
+| Western Province | 114810 | [114810-western-province.json](./114810-western-province.json) |
 | Westfall | 343252 | [343252-westfall.json](./343252-westfall.json) |
 | Westgrove | 240321 | [240321-westgrove.json](./240321-westgrove.json) |
 | WestHalla | 257681 | [257681-westhalla.json](./257681-westhalla.json) |
@@ -1741,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Dog | 269640 | [269640-wing-dog.json](./269640-wing-dog.json) |
 | Wing Fighter | 193955 | [193955-wing-fighter.json](./193955-wing-fighter.json) |
 | Wing Haven | 310926 | [310926-wing-haven.json](./310926-wing-haven.json) |
+| Wing of Darkness | 114756 | [114756-wing-of-darkness.json](./114756-wing-of-darkness.json) |
 | Wing of Darkness: Limited Edition | 140005 | [140005-wing-of-darkness-limited-edition.json](./140005-wing-of-darkness-limited-edition.json) |
 | Winged Sakura: Mindy's Arc 2 | 111049 | [111049-winged-sakura-mindys-arc-2.json](./111049-winged-sakura-mindys-arc-2.json) |
 | Wingless Fairies | 304059 | [304059-wingless-fairies.json](./304059-wingless-fairies.json) |
