@@ -2704,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Modular Tower Defense. Sci-Fi TD Strategy | 126597 | [126597-planet-modular-tower-defense-sci-fi-td-strategy.json](./126597-planet-modular-tower-defense-sci-fi-td-strategy.json) |
 | Planet Monsters | 49359 | [49359-planet-monsters.json](./49359-planet-monsters.json) |
 | Planet Nine | 113694 | [113694-planet-nine.json](./113694-planet-nine.json) |
+| Planet of Blood Thirsty Santa | 125261 | [125261-planet-of-blood-thirsty-santa.json](./125261-planet-of-blood-thirsty-santa.json) |
 | Planet of Carrots | 311254 | [311254-planet-of-carrots.json](./311254-planet-of-carrots.json) |
 | Planet of Cartmans 2 | 175902 | [175902-planet-of-cartmans-2.json](./175902-planet-of-cartmans-2.json) |
 | Planet of Lana | 152071 | [152071-planet-of-lana.json](./152071-planet-of-lana.json) |
