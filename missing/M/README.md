@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
 | M&M's Blast! | 49330 | [49330-m-and-ms-blast.json](./49330-m-and-ms-blast.json) |
 | M&M's Minis Madness | 49918 | [49918-m-and-ms-minis-madness.json](./49918-m-and-ms-minis-madness.json) |
+| M&M's: The Lost Formulas | 79613 | [79613-m-and-ms-the-lost-formulas.json](./79613-m-and-ms-the-lost-formulas.json) |
 | M00m World | 323761 | [323761-m00m-world.json](./323761-m00m-world.json) |
 | M13n: Miniaturization | 336544 | [336544-m13n-miniaturization.json](./336544-m13n-miniaturization.json) |
 | M25 Racer | 12896 | [12896-m25-racer.json](./12896-m25-racer.json) |
@@ -3116,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroland | 201688 | [201688-metroland.json](./201688-metroland.json) |
 | MetroLand | 319770 | [319770-metroland.json](./319770-metroland.json) |
 | Metronium | 120820 | [120820-metronium.json](./120820-metronium.json) |
+| Metronome | 79577 | [79577-metronome.json](./79577-metronome.json) |
 | Metronome HD | 66601 | [66601-metronome-hd.json](./66601-metronome-hd.json) |
 | Metropocre | 169975 | [169975-metropocre.json](./169975-metropocre.json) |
 | Metropolis | 209520 | [209520-metropolis.json](./209520-metropolis.json) |
@@ -3429,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midtown Madness | 2348 | [2348-midtown-madness.json](./2348-midtown-madness.json) |
 | Midvinter | 19281 | [19281-midvinter.json](./19281-midvinter.json) |
 | Midway: Sink the Japanese Aircraft Carriers | 196293 | [196293-midway-sink-the-japanese-aircraft-carriers.json](./196293-midway-sink-the-japanese-aircraft-carriers.json) |
+| Midwinter | 79580 | [79580-midwinter.json](./79580-midwinter.json) |
 | MidZone | 110484 | [110484-midzone.json](./110484-midzone.json) |
 | Miffed | 180821 | [180821-miffed.json](./180821-miffed.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
@@ -3841,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf | 209506 | [209506-mini-golf.json](./209506-mini-golf.json) |
 | Mini Golf | 209507 | [209507-mini-golf.json](./209507-mini-golf.json) |
 | Mini Golf | 246469 | [246469-mini-golf.json](./246469-mini-golf.json) |
+| Mini Golf 2003 | 79593 | [79593-mini-golf-2003.json](./79593-mini-golf-2003.json) |
 | Mini Golf 3D | 117753 | [117753-mini-golf-3d.json](./117753-mini-golf-3d.json) |
 | Mini Golf Buddies | 110182 | [110182-mini-golf-buddies.json](./110182-mini-golf-buddies.json) |
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
@@ -6314,6 +6318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Fighting is Magic - Tribute Edition | 146263 | [146263-my-little-pony-fighting-is-magic-tribute-edition.json](./146263-my-little-pony-fighting-is-magic-tribute-edition.json) |
 | My Little Pony: Grand Puzzleventure | 220097 | [220097-my-little-pony-grand-puzzleventure.json](./220097-my-little-pony-grand-puzzleventure.json) |
 | My Little Pony: Magic Garden | 282122 | [282122-my-little-pony-magic-garden.json](./282122-my-little-pony-magic-garden.json) |
+| My Little Pony: Twilight Sparkle, Teacher for a Day | 79615 | [79615-my-little-pony-twilight-sparkle-teacher-for-a-day.json](./79615-my-little-pony-twilight-sparkle-teacher-for-a-day.json) |
 | My Little Prince: A Jigsaw Puzzle Tale | 159852 | [159852-my-little-prince-a-jigsaw-puzzle-tale.json](./159852-my-little-prince-a-jigsaw-puzzle-tale.json) |
 | My Little Princess | 90367 | [90367-my-little-princess.json](./90367-my-little-princess.json) |
 | My Little Princess : Castle | 86878 | [86878-my-little-princess-castle.json](./86878-my-little-princess-castle.json) |
