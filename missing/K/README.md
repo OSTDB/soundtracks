@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kayak VR: Mirage - Soča Valley | 305363 | [305363-kayak-vr-mirage-soca-valley.json](./305363-kayak-vr-mirage-soca-valley.json) |
 | Kayaks Don't Climb | 355550 | [355550-kayaks-dont-climb.json](./355550-kayaks-dont-climb.json) |
 | Kayra Online | 139405 | [139405-kayra-online.json](./139405-kayra-online.json) |
+| Kaz Ball | 81735 | [81735-kaz-ball.json](./81735-kaz-ball.json) |
 | Kazakh ' Jack | 144941 | [144941-kazakh-jack.json](./144941-kazakh-jack.json) |
 | Kaze no Keishousha | 408763 | [408763-kaze-no-keishousha.json](./408763-kaze-no-keishousha.json) |
 | Kaze no Tayori 2 | 403039 | [403039-kaze-no-tayori-2.json](./403039-kaze-no-tayori-2.json) |
