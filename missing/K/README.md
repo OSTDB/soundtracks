@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Station: Magical Doremi #: Maho-dou Dance Carnival | 329032 | [329032-kids-station-magical-doremi-maho-dou-dance-carnival.json](./329032-kids-station-magical-doremi-maho-dou-dance-carnival.json) |
 | Kids Station: Motto! Oja Majo Do-Re-Mi - Mahodou Smile Party | 58774 | [58774-kids-station-motto-oja-majo-do-re-mi-mahodou-smile-party.json](./58774-kids-station-motto-oja-majo-do-re-mi-mahodou-smile-party.json) |
 | Kids Station: Oja Majo Doremi Dokkan! Maho-dou Eigo Festival | 389454 | [389454-kids-station-oja-majo-doremi-dokkan-maho-dou-eigo-festival.json](./389454-kids-station-oja-majo-doremi-dokkan-maho-dou-eigo-festival.json) |
+| Kids Train Sim | 100614 | [100614-kids-train-sim.json](./100614-kids-train-sim.json) |
 | Kids Vehicles Fire Truck games | 107649 | [107649-kids-vehicles-fire-truck-games.json](./107649-kids-vehicles-fire-truck-games.json) |
 | Kids: Zoo Puzzle | 215395 | [215395-kids-zoo-puzzle.json](./215395-kids-zoo-puzzle.json) |
 | Kidsongs: Musical Mystery | 197865 | [197865-kidsongs-musical-mystery.json](./197865-kidsongs-musical-mystery.json) |
