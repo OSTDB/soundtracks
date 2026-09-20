@@ -2376,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Kingdoms | 229137 | [229137-shattered-kingdoms.json](./229137-shattered-kingdoms.json) |
 | Shattered Lands | 346660 | [346660-shattered-lands.json](./346660-shattered-lands.json) |
 | Shattered Legion | 180108 | [180108-shattered-legion.json](./180108-shattered-legion.json) |
+| Shattered Lights | 118800 | [118800-shattered-lights.json](./118800-shattered-lights.json) |
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
 | Shattered Planet | 17510 | [17510-shattered-planet.json](./17510-shattered-planet.json) |
 | Shattered Realm Rebirth | 390666 | [390666-shattered-realm-rebirth.json](./390666-shattered-realm-rebirth.json) |
@@ -3533,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinkr 3 | 169430 | [169430-sinkr-3.json](./169430-sinkr-3.json) |
 | Sinless: Remastered | 197237 | [197237-sinless-remastered.json](./197237-sinless-remastered.json) |
 | Sinned | 217411 | [217411-sinned.json](./217411-sinned.json) |
+| Sinner | 118817 | [118817-sinner.json](./118817-sinner.json) |
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
 | Sinners Landing | 235771 | [235771-sinners-landing.json](./235771-sinners-landing.json) |
 | Sins | 183078 | [183078-sins.json](./183078-sins.json) |
@@ -7543,6 +7545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
 | Star Trek | 326626 | [326626-star-trek.json](./326626-star-trek.json) |
 | Star Trek Alien Domain: Incursion | 123597 | [123597-star-trek-alien-domain-incursion.json](./123597-star-trek-alien-domain-incursion.json) |
+| Star Trek Bridge Crew: The Next Generation Bundle | 118846 | [118846-star-trek-bridge-crew-the-next-generation-bundle.json](./118846-star-trek-bridge-crew-the-next-generation-bundle.json) |
 | Star Trek First Contact | 362902 | [362902-star-trek-first-contact.json](./362902-star-trek-first-contact.json) |
 | Star Trek III | 69258 | [69258-star-trek-iii.json](./69258-star-trek-iii.json) |
 | Star Trek Online | 7584 | [7584-star-trek-online.json](./7584-star-trek-online.json) |
@@ -8847,6 +8850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker Soccer Euro 2012 | 51168 | [51168-striker-soccer-euro-2012.json](./51168-striker-soccer-euro-2012.json) |
 | Strikers | 219577 | [219577-strikers.json](./219577-strikers.json) |
 | Strikers 1945 III for Nintendo Switch | 212270 | [212270-strikers-1945-iii-for-nintendo-switch.json](./212270-strikers-1945-iii-for-nintendo-switch.json) |
+| Strikers 2020 | 118840 | [118840-strikers-2020.json](./118840-strikers-2020.json) |
 | Strikers Club | 343323 | [343323-strikers-club.json](./343323-strikers-club.json) |
 | Strikewave: Nightly Underground Fighter | 349945 | [349945-strikewave-nightly-underground-fighter.json](./349945-strikewave-nightly-underground-fighter.json) |
 | Strimko | 54408 | [54408-strimko.json](./54408-strimko.json) |
@@ -8872,6 +8876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strive: A Path Forward | 334496 | [334496-strive-a-path-forward.json](./334496-strive-a-path-forward.json) |
 | Strix STG | 228077 | [228077-strix-stg.json](./228077-strix-stg.json) |
 | Strobophagia: Rave Horror | 139460 | [139460-strobophagia-rave-horror.json](./139460-strobophagia-rave-horror.json) |
+| Stroke Fill | 118794 | [118794-stroke-fill.json](./118794-stroke-fill.json) |
 | Stroke of Midnight | 54409 | [54409-stroke-of-midnight.json](./54409-stroke-of-midnight.json) |
 | Stroke of Midnight: Collector's Edition | 54410 | [54410-stroke-of-midnight-collectors-edition.json](./54410-stroke-of-midnight-collectors-edition.json) |
 | Stroke the Cat | 217915 | [217915-stroke-the-cat.json](./217915-stroke-the-cat.json) |
