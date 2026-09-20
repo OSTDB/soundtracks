@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
 | Land of Viewers | 204095 | [204095-land-of-viewers.json](./204095-land-of-viewers.json) |
 | Land of War: The Beginning | 122376 | [122376-land-of-war-the-beginning.json](./122376-land-of-war-the-beginning.json) |
+| Land of Warriors - Epic War | 100612 | [100612-land-of-warriors-epic-war.json](./100612-land-of-warriors-epic-war.json) |
 | Land of Zombies | 302387 | [302387-land-of-zombies.json](./302387-land-of-zombies.json) |
 | Land of Zympaia | 132761 | [132761-land-of-zympaia.json](./132761-land-of-zympaia.json) |
 | Land War | 115639 | [115639-land-war.json](./115639-land-war.json) |
