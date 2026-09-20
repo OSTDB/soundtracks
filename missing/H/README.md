@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Helix | 108494 | [108494-hello-helix.json](./108494-hello-helix.json) |
 | Hello Hello | 184492 | [184492-hello-hello.json](./184492-hello-hello.json) |
 | Hello inc VR | 28941 | [28941-hello-inc-vr.json](./28941-hello-inc-vr.json) |
+| Hello Kitty & Friends: Rock n' World Tour | 83210 | [83210-hello-kitty-and-friends-rock-n-world-tour.json](./83210-hello-kitty-and-friends-rock-n-world-tour.json) |
 | Hello Kitty and Friends: Happiness Parade | 204458 | [204458-hello-kitty-and-friends-happiness-parade.json](./204458-hello-kitty-and-friends-happiness-parade.json) |
 | Hello Kitty Birthday Party | 231386 | [231386-hello-kitty-birthday-party.json](./231386-hello-kitty-birthday-party.json) |
 | Hello Kitty Detective Games | 279608 | [279608-hello-kitty-detective-games.json](./279608-hello-kitty-detective-games.json) |
@@ -1425,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty to Sekai Ryokou! Ironna Kuni he Odekake Shimashou! | 222307 | [222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json](./222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json) |
 | Hello Kitty World | 48626 | [48626-hello-kitty-world.json](./48626-hello-kitty-world.json) |
 | Hello Kitty: Carrot Story | 206192 | [206192-hello-kitty-carrot-story.json](./206192-hello-kitty-carrot-story.json) |
+| Hello Kitty: Happy Happy Family | 83209 | [83209-hello-kitty-happy-happy-family.json](./83209-hello-kitty-happy-happy-family.json) |
 | Hello Kitty: Hello Submarine | 206193 | [206193-hello-kitty-hello-submarine.json](./206193-hello-kitty-hello-submarine.json) |
 | Hello Kitty: Kids Hospital | 377696 | [377696-hello-kitty-kids-hospital.json](./377696-hello-kitty-kids-hospital.json) |
 | Hello Kitty: Picnic with Sanrio Friends | 7437 | [7437-hello-kitty-picnic-with-sanrio-friends.json](./7437-hello-kitty-picnic-with-sanrio-friends.json) |
@@ -1804,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Blaze: Three Kingdoms | 212463 | [212463-hero-blaze-three-kingdoms.json](./212463-hero-blaze-three-kingdoms.json) |
 | Hero Bootcamp | 380573 | [380573-hero-bootcamp.json](./380573-hero-bootcamp.json) |
 | Hero Bump | 184101 | [184101-hero-bump.json](./184101-hero-bump.json) |
+| Hero Conquest | 83215 | [83215-hero-conquest.json](./83215-hero-conquest.json) |
 | Hero Emblems II | 114777 | [114777-hero-emblems-ii.json](./114777-hero-emblems-ii.json) |
 | Hero Fighter | 66720 | [66720-hero-fighter.json](./66720-hero-fighter.json) |
 | Hero Fighters Club | 62693 | [62693-hero-fighters-club.json](./62693-hero-fighters-club.json) |
@@ -2865,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home A Drone | 122421 | [122421-home-a-drone.json](./122421-home-a-drone.json) |
 | Home Again Home Again | 141627 | [141627-home-again-home-again.json](./141627-home-again-home-again.json) |
 | Home Alone Survival | 365062 | [365062-home-alone-survival.json](./365062-home-alone-survival.json) |
+| Home Babysitter | 83265 | [83265-home-babysitter.json](./83265-home-babysitter.json) |
 | Home Deco Builder | 334096 | [334096-home-deco-builder.json](./334096-home-deco-builder.json) |
 | Home Defender | 278538 | [278538-home-defender.json](./278538-home-defender.json) |
 | Home Designer Makeover Blast: Jason's Industrial Loft | 255068 | [255068-home-designer-makeover-blast-jasons-industrial-loft.json](./255068-home-designer-makeover-blast-jasons-industrial-loft.json) |
