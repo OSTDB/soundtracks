@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game club "Waka-Waka" | 117064 | [117064-game-club-waka-waka.json](./117064-game-club-waka-waka.json) |
 | Game Collector | 266792 | [266792-game-collector.json](./266792-game-collector.json) |
 | Game de Demashita! Powerpuff Girls Z | 133826 | [133826-game-de-demashita-powerpuff-girls-z.json](./133826-game-de-demashita-powerpuff-girls-z.json) |
+| Game de Hakken!! Tamagotchi 2 | 77619 | [77619-game-de-hakken-tamagotchi-2.json](./77619-game-de-hakken-tamagotchi-2.json) |
 | Game de Hakken!! Tamagotchi: Osutchi & Mesutchi | 69250 | [69250-game-de-hakken-tamagotchi-osutchi-and-mesutchi.json](./69250-game-de-hakken-tamagotchi-osutchi-and-mesutchi.json) |
 | Game Dev Fantasy | 245877 | [245877-game-dev-fantasy.json](./245877-game-dev-fantasy.json) |
 | Game Dev Masters | 146909 | [146909-game-dev-masters.json](./146909-game-dev-masters.json) |
