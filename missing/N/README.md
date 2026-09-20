@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty Tales of Rabbits: A Cuckold RPG | 301986 | [301986-naughty-tales-of-rabbits-a-cuckold-rpg.json](./301986-naughty-tales-of-rabbits-a-cuckold-rpg.json) |
 | Naughty Young Wife | 97937 | [97937-naughty-young-wife.json](./97937-naughty-young-wife.json) |
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
+| Nautical Life | 95190 | [95190-nautical-life.json](./95190-nautical-life.json) |
 | Nauticell | 324516 | [324516-nauticell.json](./324516-nauticell.json) |
 | Nautikin Adventures | 329372 | [329372-nautikin-adventures.json](./329372-nautikin-adventures.json) |
 | Nautilus | 24937 | [24937-nautilus.json](./24937-nautilus.json) |
@@ -1374,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the loving dead | 161905 | [161905-night-of-the-loving-dead.json](./161905-night-of-the-loving-dead.json) |
 | Night of the Neighbor | 95851 | [95851-night-of-the-neighbor.json](./95851-night-of-the-neighbor.json) |
 | Night of the Scarecrows | 119752 | [119752-night-of-the-scarecrows.json](./119752-night-of-the-scarecrows.json) |
+| Night of the Shrub Part 1 | 95188 | [95188-night-of-the-shrub-part-1.json](./95188-night-of-the-shrub-part-1.json) |
 | Night of the Stars | 332395 | [332395-night-of-the-stars.json](./332395-night-of-the-stars.json) |
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
 | Night of the Wordsmith | 64985 | [64985-night-of-the-wordsmith.json](./64985-night-of-the-wordsmith.json) |
