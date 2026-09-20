@@ -1106,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Firepower | 163460 | [163460-endless-firepower.json](./163460-endless-firepower.json) |
 | Endless Forest | 386683 | [386683-endless-forest.json](./386683-endless-forest.json) |
 | Endless Forms Most Beautiful 64 | 179659 | [179659-endless-forms-most-beautiful-64.json](./179659-endless-forms-most-beautiful-64.json) |
+| Endless Frontier Saga 2 | 99381 | [99381-endless-frontier-saga-2.json](./99381-endless-frontier-saga-2.json) |
 | Endless Fucker | 292843 | [292843-endless-fucker.json](./292843-endless-fucker.json) |
 | Endless Furry Asteroids | 153396 | [153396-endless-furry-asteroids.json](./153396-endless-furry-asteroids.json) |
 | Endless Furry Blackjack | 307571 | [307571-endless-furry-blackjack.json](./307571-endless-furry-blackjack.json) |
