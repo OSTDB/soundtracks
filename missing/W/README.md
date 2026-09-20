@@ -1510,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked! | 297463 | [297463-wicked.json](./297463-wicked.json) |
 | Wicket Cricket Manager | 243977 | [243977-wicket-cricket-manager.json](./243977-wicket-cricket-manager.json) |
 | Wickie und die starken Männer: Die Mutprobe | 250603 | [250603-wickie-und-die-starken-manner-die-mutprobe.json](./250603-wickie-und-die-starken-manner-die-mutprobe.json) |
+| Wide Cross | 109497 | [109497-wide-cross.json](./109497-wide-cross.json) |
 | Wide Open | 173284 | [173284-wide-open.json](./173284-wide-open.json) |
 | Widget Inc. | 319207 | [319207-widget-inc.json](./319207-widget-inc.json) |
 | Widget Satchel | 105353 | [105353-widget-satchel.json](./105353-widget-satchel.json) |
@@ -1578,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Tactics | 304746 | [304746-wild-tactics.json](./304746-wild-tactics.json) |
 | Wild Terra 2: New Lands | 126619 | [126619-wild-terra-2-new-lands.json](./126619-wild-terra-2-new-lands.json) |
 | Wild Terra 2: New Lands - Cultist Pack | 378307 | [378307-wild-terra-2-new-lands-cultist-pack.json](./378307-wild-terra-2-new-lands-cultist-pack.json) |
+| Wild Things: Animal Adventures | 109496 | [109496-wild-things-animal-adventures.json](./109496-wild-things-animal-adventures.json) |
 | Wild Turkey Hunt | 95453 | [95453-wild-turkey-hunt.json](./95453-wild-turkey-hunt.json) |
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
 | Wild West C.O.W.-Boys of Moo Mesa | 39383 | [39383-wild-west-c-o-w-boys-of-moo-mesa.json](./39383-wild-west-c-o-w-boys-of-moo-mesa.json) |
@@ -1848,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winzer | 77383 | [77383-winzer.json](./77383-winzer.json) |
 | Wipe Out | 18160 | [18160-wipe-out.json](./18160-wipe-out.json) |
 | Wipe Out VR | 81248 | [81248-wipe-out-vr.json](./81248-wipe-out-vr.json) |
+| Wipeout | 109445 | [109445-wipeout.json](./109445-wipeout.json) |
 | Wipeout | 265970 | [265970-wipeout.json](./265970-wipeout.json) |
 | Wipeout | 351100 | [351100-wipeout.json](./351100-wipeout.json) |
 | Wipeout 2600 | 279595 | [279595-wipeout-2600.json](./279595-wipeout-2600.json) |
@@ -2039,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards and Warlords | 30132 | [30132-wizards-and-warlords.json](./30132-wizards-and-warlords.json) |
 | Wizards Legacy: Nightmare Park Manager Simulator | 261345 | [261345-wizards-legacy-nightmare-park-manager-simulator.json](./261345-wizards-legacy-nightmare-park-manager-simulator.json) |
 | Wizards Spell | 73834 | [73834-wizards-spell.json](./73834-wizards-spell.json) |
+| Wizards Tourney | 109438 | [109438-wizards-tourney.json](./109438-wizards-tourney.json) |
 | Wizards, Knights & Archers | 220719 | [220719-wizards-knights-and-archers.json](./220719-wizards-knights-and-archers.json) |
 | Wizards' Clash | 35738 | [35738-wizards-clash.json](./35738-wizards-clash.json) |
 | WizardWare | 400983 | [400983-wizardware.json](./400983-wizardware.json) |
@@ -2323,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Wow Around the World | 87298 | [87298-word-wow-around-the-world.json](./87298-word-wow-around-the-world.json) |
 | Word Wow Big City | 87127 | [87127-word-wow-big-city.json](./87127-word-wow-big-city.json) |
 | Word Zip - Free Word Games | 105972 | [105972-word-zip-free-word-games.json](./105972-word-zip-free-word-games.json) |
+| WordApt | 109504 | [109504-wordapt.json](./109504-wordapt.json) |
 | Wordatro! | 331665 | [331665-wordatro.json](./331665-wordatro.json) |
 | Wordban | 319358 | [319358-wordban.json](./319358-wordban.json) |
 | Wordbase | 86060 | [86060-wordbase.json](./86060-wordbase.json) |
@@ -2877,4 +2882,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wytchsun: Elleros Origins | 117544 | [117544-wytchsun-elleros-origins.json](./117544-wytchsun-elleros-origins.json) |
 | Wyv and Keep: The Temple of the Lost Idol | 16847 | [16847-wyv-and-keep-the-temple-of-the-lost-idol.json](./16847-wyv-and-keep-the-temple-of-the-lost-idol.json) |
 | Wyvern Studios Solitaire: 30th Aniversary Edition | 289861 | [289861-wyvern-studios-solitaire-30th-aniversary-edition.json](./289861-wyvern-studios-solitaire-30th-aniversary-edition.json) |
+| Wyvern Wings | 109439 | [109439-wyvern-wings.json](./109439-wyvern-wings.json) |
 | WYzards | 275017 | [275017-wyzards.json](./275017-wyzards.json) |
