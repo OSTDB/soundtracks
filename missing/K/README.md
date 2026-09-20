@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of San Francisco | 174204 | [174204-knights-of-san-francisco.json](./174204-knights-of-san-francisco.json) |
 | Knights of the Chalice | 67785 | [67785-knights-of-the-chalice.json](./67785-knights-of-the-chalice.json) |
 | Knights of the Chalice 2: Archmage Edition | 196299 | [196299-knights-of-the-chalice-2-archmage-edition.json](./196299-knights-of-the-chalice-2-archmage-edition.json) |
+| Knights of the Crystallion | 69553 | [69553-knights-of-the-crystallion.json](./69553-knights-of-the-crystallion.json) |
 | Knights of the Desert | 23912 | [23912-knights-of-the-desert.json](./23912-knights-of-the-desert.json) |
 | Knights of the Desert: The North African Campaign of 1941-1943 | 73828 | [73828-knights-of-the-desert-the-north-african-campaign-of-1941-1943.json](./73828-knights-of-the-desert-the-north-african-campaign-of-1941-1943.json) |
 | Knights of the Drowned Table | 75114 | [75114-knights-of-the-drowned-table.json](./75114-knights-of-the-drowned-table.json) |
