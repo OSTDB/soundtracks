@@ -3318,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator X: Steam Edition - Rutan 61 Long EZ | 161835 | [161835-microsoft-flight-simulator-x-steam-edition-rutan-61-long-ez.json](./161835-microsoft-flight-simulator-x-steam-edition-rutan-61-long-ez.json) |
 | Microsoft Flight Simulator X: Steam Edition - Santa Barbara Airport (KSBA) | 161832 | [161832-microsoft-flight-simulator-x-steam-edition-santa-barbara-airport-ksba.json](./161832-microsoft-flight-simulator-x-steam-edition-santa-barbara-airport-ksba.json) |
 | Microsoft Flight Simulator X: Steam Edition - Skychaser | 161837 | [161837-microsoft-flight-simulator-x-steam-edition-skychaser.json](./161837-microsoft-flight-simulator-x-steam-edition-skychaser.json) |
+| Microsoft Flight Simulator X: Steam Edition - SpacePort | 82475 | [82475-microsoft-flight-simulator-x-steam-edition-spaceport.json](./82475-microsoft-flight-simulator-x-steam-edition-spaceport.json) |
 | Microsoft Flight Simulator X: Steam Edition - Stornoway Airport (EGPO) | 156181 | [156181-microsoft-flight-simulator-x-steam-edition-stornoway-airport-egpo.json](./156181-microsoft-flight-simulator-x-steam-edition-stornoway-airport-egpo.json) |
 | Microsoft Flight Simulator X: Steam Edition - Treasure Hunt | 161817 | [161817-microsoft-flight-simulator-x-steam-edition-treasure-hunt.json](./161817-microsoft-flight-simulator-x-steam-edition-treasure-hunt.json) |
 | Microsoft Flight Simulator X: Steam Edition - Twentynine Palms Airport | 161858 | [161858-microsoft-flight-simulator-x-steam-edition-twentynine-palms-airport.json](./161858-microsoft-flight-simulator-x-steam-edition-twentynine-palms-airport.json) |
@@ -4160,6 +4161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Chao | 330713 | [330713-mission-chao.json](./330713-mission-chao.json) |
 | Mission: Driver | 210855 | [210855-mission-driver.json](./210855-mission-driver.json) |
 | Mission: Escape | 271726 | [271726-mission-escape.json](./271726-mission-escape.json) |
+| Mission: Escape from Island 3 | 82473 | [82473-mission-escape-from-island-3.json](./82473-mission-escape-from-island-3.json) |
 | Mission: Humanity | 73325 | [73325-mission-humanity.json](./73325-mission-humanity.json) |
 | Mission: Impossible | 219019 | [219019-mission-impossible.json](./219019-mission-impossible.json) |
 | Mission: Impossible - New Dawn | 216344 | [216344-mission-impossible-new-dawn.json](./216344-mission-impossible-new-dawn.json) |
@@ -6071,6 +6073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bakery Empire: Complete Edition | 284503 | [284503-my-bakery-empire-complete-edition.json](./284503-my-bakery-empire-complete-edition.json) |
 | My Bakery Empire: Tasty Edition | 290432 | [290432-my-bakery-empire-tasty-edition.json](./290432-my-bakery-empire-tasty-edition.json) |
 | My Bath Tub Companion | 304583 | [304583-my-bath-tub-companion.json](./304583-my-bath-tub-companion.json) |
+| My Beastly Lovers | 82476 | [82476-my-beastly-lovers.json](./82476-my-beastly-lovers.json) |
 | My Beautiful Faraway, Please Don't Be Cruel to Me | 399059 | [399059-my-beautiful-faraway-please-dont-be-cruel-to-me.json](./399059-my-beautiful-faraway-please-dont-be-cruel-to-me.json) |
 | My Best Friend Kouta | 245887 | [245887-my-best-friend-kouta.json](./245887-my-best-friend-kouta.json) |
 | My Best Nightmare | 166673 | [166673-my-best-nightmare.json](./166673-my-best-nightmare.json) |
@@ -6548,6 +6551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Adventure of Michael 2 | 190103 | [190103-mysterious-adventure-of-michael-2.json](./190103-mysterious-adventure-of-michael-2.json) |
 | Mysterious Blocks 2 | 152857 | [152857-mysterious-blocks-2.json](./152857-mysterious-blocks-2.json) |
 | Mysterious Forum and 7 Rumors | 115484 | [115484-mysterious-forum-and-7-rumors.json](./115484-mysterious-forum-and-7-rumors.json) |
+| Mysterious insects | 82468 | [82468-mysterious-insects.json](./82468-mysterious-insects.json) |
 | Mysterious Island: A Hidden Object Adventure | 195758 | [195758-mysterious-island-a-hidden-object-adventure.json](./195758-mysterious-island-a-hidden-object-adventure.json) |
 | Mysterious Island: A Race Against Time and Hot Lava | 200136 | [200136-mysterious-island-a-race-against-time-and-hot-lava.json](./200136-mysterious-island-a-race-against-time-and-hot-lava.json) |
 | Mysterious Islandz | 322385 | [322385-mysterious-islandz.json](./322385-mysterious-islandz.json) |
