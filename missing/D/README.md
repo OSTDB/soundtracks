@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DAWN: Darkness Awaits Withstand the Night | 333664 | [333664-dawn-darkness-awaits-withstand-the-night.json](./333664-dawn-darkness-awaits-withstand-the-night.json) |
 | Dawnbringer | 129604 | [129604-dawnbringer.json](./129604-dawnbringer.json) |
 | Dawnspire: Prelude | 70476 | [70476-dawnspire-prelude.json](./70476-dawnspire-prelude.json) |
+| Day and Night | 124009 | [124009-day-and-night.json](./124009-day-and-night.json) |
 | Day at the Counter | 178596 | [178596-day-at-the-counter.json](./178596-day-at-the-counter.json) |
 | Day at the Office: Prologue | 315717 | [315717-day-at-the-office-prologue.json](./315717-day-at-the-office-prologue.json) |
 | Day at the Races | 242821 | [242821-day-at-the-races.json](./242821-day-at-the-races.json) |
@@ -1232,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Mom: My Letter to You | 164965 | [164965-dear-mom-my-letter-to-you.json](./164965-dear-mom-my-letter-to-you.json) |
 | Dear My God | 205611 | [205611-dear-my-god.json](./205611-dear-my-god.json) |
 | Dear Pretentiousness | 259668 | [259668-dear-pretentiousness.json](./259668-dear-pretentiousness.json) |
+| Dear Reader | 124034 | [124034-dear-reader.json](./124034-dear-reader.json) |
 | Dear Red: Extended | 33250 | [33250-dear-red-extended.json](./33250-dear-red-extended.json) |
 | Dear world Re. | 386252 | [386252-dear-world-re.json](./386252-dear-world-re.json) |
 | DearMyFriend | 285005 | [285005-dearmyfriend.json](./285005-dearmyfriend.json) |
@@ -1379,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathsmiles I & II: Gothic wa Mahou Otome 5 Characters | 203958 | [203958-deathsmiles-i-and-ii-gothic-wa-mahou-otome-5-characters.json](./203958-deathsmiles-i-and-ii-gothic-wa-mahou-otome-5-characters.json) |
 | Deathsmiles II: Makai no Merry Christmas | 68011 | [68011-deathsmiles-ii-makai-no-merry-christmas.json](./68011-deathsmiles-ii-makai-no-merry-christmas.json) |
 | Deathsmiles Mega Black Label | 79852 | [79852-deathsmiles-mega-black-label.json](./79852-deathsmiles-mega-black-label.json) |
+| Deathstate : Abyssal Edition | 124010 | [124010-deathstate-abyssal-edition.json](./124010-deathstate-abyssal-edition.json) |
 | Deathtide | 232007 | [232007-deathtide.json](./232007-deathtide.json) |
 | Deathtrap Dungeon: The Interactive Video Adventure | 129936 | [129936-deathtrap-dungeon-the-interactive-video-adventure.json](./129936-deathtrap-dungeon-the-interactive-video-adventure.json) |
 | Deathwatch | 221258 | [221258-deathwatch.json](./221258-deathwatch.json) |
