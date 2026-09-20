@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oriental Legend | 39575 | [39575-oriental-legend.json](./39575-oriental-legend.json) |
 | Orifoldium | 326282 | [326282-orifoldium.json](./326282-orifoldium.json) |
 | Origame | 152916 | [152916-origame.json](./152916-origame.json) |
+| Origami Flight | 112726 | [112726-origami-flight.json](./112726-origami-flight.json) |
 | Origami Paradise | 227478 | [227478-origami-paradise.json](./227478-origami-paradise.json) |
 | Origami Treasure | 289435 | [289435-origami-treasure.json](./289435-origami-treasure.json) |
 | Origamihero Games 2D Platformer Collection | 212357 | [212357-origamihero-games-2d-platformer-collection.json](./212357-origamihero-games-2d-platformer-collection.json) |
