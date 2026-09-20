@@ -831,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ImpliCations | 257401 | [257401-implications.json](./257401-implications.json) |
 | Import Tuner Challenge | 7017 | [7017-import-tuner-challenge.json](./7017-import-tuner-challenge.json) |
 | Impossible Caves | 105927 | [105927-impossible-caves.json](./105927-impossible-caves.json) |
+| Impossible Commando Shooting FPS Fury | 101983 | [101983-impossible-commando-shooting-fps-fury.json](./101983-impossible-commando-shooting-fps-fury.json) |
 | Impossible Draw | 128565 | [128565-impossible-draw.json](./128565-impossible-draw.json) |
 | Impossible Dungeon | 220186 | [220186-impossible-dungeon.json](./220186-impossible-dungeon.json) |
 | Impossible Flappy | 87896 | [87896-impossible-flappy.json](./87896-impossible-flappy.json) |
