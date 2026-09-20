@@ -2236,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate Factory | 112995 | [112995-chocolate-factory.json](./112995-chocolate-factory.json) |
 | Chocolate makes you happy 4 | 89935 | [89935-chocolate-makes-you-happy-4.json](./89935-chocolate-makes-you-happy-4.json) |
 | Chocolate makes you happy 7 | 105376 | [105376-chocolate-makes-you-happy-7.json](./105376-chocolate-makes-you-happy-7.json) |
+| Chocolate makes you happy: Easter | 116839 | [116839-chocolate-makes-you-happy-easter.json](./116839-chocolate-makes-you-happy-easter.json) |
 | Chocolate makes you happy: Halloween | 109746 | [109746-chocolate-makes-you-happy-halloween.json](./109746-chocolate-makes-you-happy-halloween.json) |
 | Chocolate makes you happy: Lunar New Year | 115615 | [115615-chocolate-makes-you-happy-lunar-new-year.json](./115615-chocolate-makes-you-happy-lunar-new-year.json) |
 | Chocolate makes you happy: New Year | 112372 | [112372-chocolate-makes-you-happy-new-year.json](./112372-chocolate-makes-you-happy-new-year.json) |
@@ -2630,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CipherCraft: Cyber Guardian Introduction | 278690 | [278690-ciphercraft-cyber-guardian-introduction.json](./278690-ciphercraft-cyber-guardian-introduction.json) |
 | Circa | 94170 | [94170-circa.json](./94170-circa.json) |
 | Circadial | 328645 | [328645-circadial.json](./328645-circadial.json) |
+| Circadian City | 116815 | [116815-circadian-city.json](./116815-circadian-city.json) |
 | CircL | 185080 | [185080-circl.json](./185080-circl.json) |
 | Circle Breakout | 128577 | [128577-circle-breakout.json](./128577-circle-breakout.json) |
 | Circle Empires | 104937 | [104937-circle-empires.json](./104937-circle-empires.json) |
@@ -4566,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counterfeit Monkey | 2944 | [2944-counterfeit-monkey.json](./2944-counterfeit-monkey.json) |
 | Counterglass | 276729 | [276729-counterglass.json](./276729-counterglass.json) |
 | Counterhero: Chapter 1 | 178002 | [178002-counterhero-chapter-1.json](./178002-counterhero-chapter-1.json) |
+| Countermark Saga Frozen sword | 116834 | [116834-countermark-saga-frozen-sword.json](./116834-countermark-saga-frozen-sword.json) |
 | Counterpact | 221155 | [221155-counterpact.json](./221155-counterpact.json) |
 | Countersnipe | 127186 | [127186-countersnipe.json](./127186-countersnipe.json) |
 | Countess in Crimson | 169458 | [169458-countess-in-crimson.json](./169458-countess-in-crimson.json) |
@@ -6048,6 +6051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
 | Cyber Racer | 120151 | [120151-cyber-racer.json](./120151-cyber-racer.json) |
+| Cyber Rage: Retribution | 116827 | [116827-cyber-rage-retribution.json](./116827-cyber-rage-retribution.json) |
 | Cyber Rail | 267468 | [267468-cyber-rail.json](./267468-cyber-rail.json) |
 | Cyber Rats | 336523 | [336523-cyber-rats.json](./336523-cyber-rats.json) |
 | Cyber Revolution | 339357 | [339357-cyber-revolution.json](./339357-cyber-revolution.json) |
