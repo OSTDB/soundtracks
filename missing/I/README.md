@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internal Incident | 372983 | [372983-internal-incident.json](./372983-internal-incident.json) |
 | Internal Reaches 2 | 274192 | [274192-internal-reaches-2.json](./274192-internal-reaches-2.json) |
 | Internal Reaches 4 | 274193 | [274193-internal-reaches-4.json](./274193-internal-reaches-4.json) |
+| International 5-A-Side | 79619 | [79619-international-5-a-side.json](./79619-international-5-a-side.json) |
 | International Athletics | 20321 | [20321-international-athletics.json](./20321-international-athletics.json) |
 | International Athletics | 272847 | [272847-international-athletics.json](./272847-international-athletics.json) |
 | International Basketball Manager 23 | 224551 | [224551-international-basketball-manager-23.json](./224551-international-basketball-manager-23.json) |
@@ -2159,6 +2160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itoi Shigesato no Bass Tsuri No. 1 | 3518 | [3518-itoi-shigesato-no-bass-tsuri-no-1.json](./3518-itoi-shigesato-no-bass-tsuri-no-1.json) |
 | Itoi Shigesato no Bass Tsuri No.1: Haru no Zenkoku Tournament - Gomihiroi Campaign | 300691 | [300691-itoi-shigesato-no-bass-tsuri-no-1-haru-no-zenkoku-tournament-gomihiroi-campaign.json](./300691-itoi-shigesato-no-bass-tsuri-no-1-haru-no-zenkoku-tournament-gomihiroi-campaign.json) |
 | Itoshi Kokoro | 330845 | [330845-itoshi-kokoro.json](./330845-itoshi-kokoro.json) |
+| Itouke no Urawaza DS | 79599 | [79599-itouke-no-urawaza-ds.json](./79599-itouke-no-urawaza-ds.json) |
 | iTownGamePlay UNIVERSE | 90652 | [90652-itowngameplay-universe.json](./90652-itowngameplay-universe.json) |
 | Itrill | 260769 | [260769-itrill.json](./260769-itrill.json) |
 | ITRP: Aero Star | 236857 | [236857-itrp-aero-star.json](./236857-itrp-aero-star.json) |
