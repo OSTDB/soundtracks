@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | onEscapee | 93044 | [93044-onescapee.json](./93044-onescapee.json) |
 | OneScreen Wagons | 74475 | [74475-onescreen-wagons.json](./74475-onescreen-wagons.json) |
 | OneShot: Fading Memory | 166079 | [166079-oneshot-fading-memory.json](./166079-oneshot-fading-memory.json) |
+| Onesimus: A Quest for Freedom | 68971 | [68971-onesimus-a-quest-for-freedom.json](./68971-onesimus-a-quest-for-freedom.json) |
 | Onet 3D | 231921 | [231921-onet-3d.json](./231921-onet-3d.json) |
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Oneteam Soccer | 153358 | [153358-oneteam-soccer.json](./153358-oneteam-soccer.json) |
@@ -1131,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenFront | 333095 | [333095-openfront.json](./333095-openfront.json) |
 | OpenGoal: Jak II | 275306 | [275306-opengoal-jak-ii.json](./275306-opengoal-jak-ii.json) |
 | OpenGuessr | 314022 | [314022-openguessr.json](./314022-openguessr.json) |
+| Opening Night | 68975 | [68975-opening-night.json](./68975-opening-night.json) |
 | Opening Weekend: Bear Season | 208993 | [208993-opening-weekend-bear-season.json](./208993-opening-weekend-bear-season.json) |
 | Opening Weekend: Big Cat Season | 208992 | [208992-opening-weekend-big-cat-season.json](./208992-opening-weekend-big-cat-season.json) |
 | OpenLoco | 138233 | [138233-openloco.json](./138233-openloco.json) |
