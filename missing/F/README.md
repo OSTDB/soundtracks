@@ -1830,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighting Simulator: Ignite | 335254 | [335254-firefighting-simulator-ignite.json](./335254-firefighting-simulator-ignite.json) |
 | Firefleet | 293743 | [293743-firefleet.json](./293743-firefleet.json) |
 | Fireflies | 108671 | [108671-fireflies.json](./108671-fireflies.json) |
+| Fireflies | 125850 | [125850-fireflies.json](./125850-fireflies.json) |
 | Firefly | 55209 | [55209-firefly.json](./55209-firefly.json) |
 | FireFly | 169861 | [169861-firefly.json](./169861-firefly.json) |
 | FireFly | 381018 | [381018-firefly.json](./381018-firefly.json) |
