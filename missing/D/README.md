@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: The Little Mermaid and the Purple Tide - Collector's Edition | 33232 | [33232-dark-parables-the-little-mermaid-and-the-purple-tide-collectors-edition.json](./33232-dark-parables-the-little-mermaid-and-the-purple-tide-collectors-edition.json) |
 | Dark Parables: The Match Girl's Lost Paradise | 123635 | [123635-dark-parables-the-match-girls-lost-paradise.json](./123635-dark-parables-the-match-girls-lost-paradise.json) |
 | Dark Parables: The Match Girl's Lost Paradise - Collector's Edition | 111694 | [111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json](./111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json) |
+| Dark Parables: The Red Riding Hood Sisters | 80228 | [80228-dark-parables-the-red-riding-hood-sisters.json](./80228-dark-parables-the-red-riding-hood-sisters.json) |
 | Dark Parables: The Swan Princess and The Dire Tree | 139795 | [139795-dark-parables-the-swan-princess-and-the-dire-tree.json](./139795-dark-parables-the-swan-princess-and-the-dire-tree.json) |
 | Dark Parables: The Thief and the Tinderbox | 139796 | [139796-dark-parables-the-thief-and-the-tinderbox.json](./139796-dark-parables-the-thief-and-the-tinderbox.json) |
 | Dark Past | 211817 | [211817-dark-past.json](./211817-dark-past.json) |
@@ -920,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Thunder | 326790 | [326790-days-of-thunder.json](./326790-days-of-thunder.json) |
 | Days of Thunder: NASCAR Edition | 44594 | [44594-days-of-thunder-nascar-edition.json](./44594-days-of-thunder-nascar-edition.json) |
 | Days of War | 26403 | [26403-days-of-war.json](./26403-days-of-war.json) |
+| Days of Wrath | 80224 | [80224-days-of-wrath.json](./80224-days-of-wrath.json) |
 | Days Under Custody | 34165 | [34165-days-under-custody.json](./34165-days-under-custody.json) |
 | Days with Evraco: The Blind witch in Blue Forest | 392944 | [392944-days-with-evraco-the-blind-witch-in-blue-forest.json](./392944-days-with-evraco-the-blind-witch-in-blue-forest.json) |
 | Days With Girlfriends Ⅲ | 391601 | [391601-days-with-girlfriends-iii.json](./391601-days-with-girlfriends-iii.json) |
@@ -1086,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead of Day | 244894 | [244894-dead-of-day.json](./244894-dead-of-day.json) |
 | Dead of Night | 224113 | [224113-dead-of-night.json](./224113-dead-of-night.json) |
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
+| Dead of the Brain 1 & 2 | 80189 | [80189-dead-of-the-brain-1-and-2.json](./80189-dead-of-the-brain-1-and-2.json) |
 | Dead of Winter: The Long Night | 25654 | [25654-dead-of-winter-the-long-night.json](./25654-dead-of-winter-the-long-night.json) |
 | Dead or Alive | 1387 | [1387-dead-or-alive.json](./1387-dead-or-alive.json) |
 | Dead or Alive | 317067 | [317067-dead-or-alive.json](./317067-dead-or-alive.json) |
@@ -1568,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rock Galactic: Order of the Deep Pack | 302936 | [302936-deep-rock-galactic-order-of-the-deep-pack.json](./302936-deep-rock-galactic-order-of-the-deep-pack.json) |
 | Deep Rock Galactic: Ultimate Edition | 188047 | [188047-deep-rock-galactic-ultimate-edition.json](./188047-deep-rock-galactic-ultimate-edition.json) |
 | Deep Rune | 153962 | [153962-deep-rune.json](./153962-deep-rune.json) |
+| Deep Scan | 80208 | [80208-deep-scan.json](./80208-deep-scan.json) |
 | Deep Scanner | 287778 | [287778-deep-scanner.json](./287778-deep-scanner.json) |
 | Deep Sea | 124155 | [124155-deep-sea.json](./124155-deep-sea.json) |
 | Deep Sea Arena | 344350 | [344350-deep-sea-arena.json](./344350-deep-sea-arena.json) |
@@ -3328,6 +3332,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: MapleStory Pack | 265635 | [265635-djmax-respect-v-maplestory-pack.json](./265635-djmax-respect-v-maplestory-pack.json) |
 | DJMax Respect V: Technika Pack | 225058 | [225058-djmax-respect-v-technika-pack.json](./225058-djmax-respect-v-technika-pack.json) |
 | DJMax Technika | 79271 | [79271-djmax-technika.json](./79271-djmax-technika.json) |
+| DJMax Technika 3 | 80198 | [80198-djmax-technika-3.json](./80198-djmax-technika-3.json) |
+| DJMax Technika Q | 80199 | [80199-djmax-technika-q.json](./80199-djmax-technika-q.json) |
 | DJMax Technika Tune: Limited Edition | 89906 | [89906-djmax-technika-tune-limited-edition.json](./89906-djmax-technika-tune-limited-edition.json) |
 | DK Bongo Blast | 231476 | [231476-dk-bongo-blast.json](./231476-dk-bongo-blast.json) |
 | DK: Jungle Climber | 1099 | [1099-dk-jungle-climber.json](./1099-dk-jungle-climber.json) |
@@ -5093,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droid404 | 159741 | [159741-droid404.json](./159741-droid404.json) |
 | Droids | 84276 | [84276-droids.json](./84276-droids.json) |
 | Droids & Wizards | 124769 | [124769-droids-and-wizards.json](./124769-droids-and-wizards.json) |
+| Dromedary | 80244 | [80244-dromedary.json](./80244-dromedary.json) |
 | Drömjobbet i Rosemond Valley | 196700 | [196700-dromjobbet-i-rosemond-valley.json](./196700-dromjobbet-i-rosemond-valley.json) |
 | Drömmar | 314631 | [314631-drommar.json](./314631-drommar.json) |
 | Drone Academy | 369576 | [369576-drone-academy.json](./369576-drone-academy.json) |
