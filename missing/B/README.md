@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bases Loaded | 7764 | [7764-bases-loaded.json](./7764-bases-loaded.json) |
 | Bases Loaded for Game Boy | 273096 | [273096-bases-loaded-for-game-boy.json](./273096-bases-loaded-for-game-boy.json) |
 | Bash It! | 252150 | [252150-bash-it.json](./252150-bash-it.json) |
+| Bash the Bear | 114191 | [114191-bash-the-bear.json](./114191-bash-the-bear.json) |
 | Bashed.os | 115438 | [115438-bashed-os.json](./115438-bashed-os.json) |
 | Bashing Brutal | 348251 | [348251-bashing-brutal.json](./348251-bashing-brutal.json) |
 | Bashtronaut | 263203 | [263203-bashtronaut.json](./263203-bashtronaut.json) |
@@ -4709,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring Honey Home | 150635 | [150635-bring-honey-home.json](./150635-bring-honey-home.json) |
 | Bring me a man, Santa | 159727 | [159727-bring-me-a-man-santa.json](./159727-bring-me-a-man-santa.json) |
 | Bring Me Down | 241350 | [241350-bring-me-down.json](./241350-bring-me-down.json) |
+| Bring Them Home | 114188 | [114188-bring-them-home.json](./114188-bring-them-home.json) |
 | Bringris | 174191 | [174191-bringris.json](./174191-bringris.json) |
 | Brink of Consciousness: The Lonely Hearts Murders | 17918 | [17918-brink-of-consciousness-the-lonely-hearts-murders.json](./17918-brink-of-consciousness-the-lonely-hearts-murders.json) |
 | Brink: Agents of Change | 164366 | [164366-brink-agents-of-change.json](./164366-brink-agents-of-change.json) |
@@ -4936,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter | 224076 | [224076-bubble-shooter.json](./224076-bubble-shooter.json) |
 | Bubble Shooter 2 | 299775 | [299775-bubble-shooter-2.json](./299775-bubble-shooter-2.json) |
 | Bubble Shooter Adventures | 341019 | [341019-bubble-shooter-adventures.json](./341019-bubble-shooter-adventures.json) |
+| Bubble Shooter DX | 114186 | [114186-bubble-shooter-dx.json](./114186-bubble-shooter-dx.json) |
 | Bubble Shooter: Fashion Bird | 108444 | [108444-bubble-shooter-fashion-bird.json](./108444-bubble-shooter-fashion-bird.json) |
 | Bubble Shooter! Tournaments | 78387 | [78387-bubble-shooter-tournaments.json](./78387-bubble-shooter-tournaments.json) |
 | Bubble Soccer | 117505 | [117505-bubble-soccer.json](./117505-bubble-soccer.json) |
@@ -5051,6 +5054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build & Battle | 166694 | [166694-build-and-battle.json](./166694-build-and-battle.json) |
 | Build & Survive | 351722 | [351722-build-and-survive.json](./351722-build-and-survive.json) |
 | Build A Bank Tycoon | 394381 | [394381-build-a-bank-tycoon.json](./394381-build-a-bank-tycoon.json) |
+| Build a Bridge! | 114190 | [114190-build-a-bridge.json](./114190-build-a-bridge.json) |
 | Build A Train 2 | 100728 | [100728-build-a-train-2.json](./100728-build-a-train-2.json) |
 | Build and Discover: America | 217322 | [217322-build-and-discover-america.json](./217322-build-and-discover-america.json) |
 | Build buildings | 105316 | [105316-build-buildings.json](./105316-build-buildings.json) |
