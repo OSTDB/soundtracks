@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riversiders | 253418 | [253418-riversiders.json](./253418-riversiders.json) |
 | Rixer | 260242 | [260242-rixer.json](./260242-rixer.json) |
 | RKGK | 296838 | [296838-rkgk.json](./296838-rkgk.json) |
+| RKN - Roskomnadzor banned the Internet | 100596 | [100596-rkn-roskomnadzor-banned-the-internet.json](./100596-rkn-roskomnadzor-banned-the-internet.json) |
 | RKR: Rush Kill Repeat | 217495 | [217495-rkr-rush-kill-repeat.json](./217495-rkr-rush-kill-repeat.json) |
 | Rktcr | 35863 | [35863-rktcr.json](./35863-rktcr.json) |
 | RLCraft | 203457 | [203457-rlcraft.json](./203457-rlcraft.json) |
@@ -3781,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run and Gun | 283765 | [283765-run-and-gun.json](./283765-run-and-gun.json) |
 | Run and Jump Little Vico | 152727 | [152727-run-and-jump-little-vico.json](./152727-run-and-jump-little-vico.json) |
 | Run Away | 172041 | [172041-run-away.json](./172041-run-away.json) |
+| Run away 2 | 100598 | [100598-run-away-2.json](./100598-run-away-2.json) |
 | Run Away SkyDancer | 307726 | [307726-run-away-skydancer.json](./307726-run-away-skydancer.json) |
 | Run Away With Me, Empress! | 225270 | [225270-run-away-with-me-empress.json](./225270-run-away-with-me-empress.json) |
 | Run Bird Run | 344926 | [344926-run-bird-run.json](./344926-run-bird-run.json) |
