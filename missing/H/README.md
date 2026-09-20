@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
 | Haprokon | 115636 | [115636-haprokon.json](./115636-haprokon.json) |
 | Här Kommer Pippi Långstrump | 337184 | [337184-har-kommer-pippi-langstrump.json](./337184-har-kommer-pippi-langstrump.json) |
+| Harald | 72347 | [72347-harald.json](./72347-harald.json) |
 | Harambe Kong | 82032 | [82032-harambe-kong.json](./82032-harambe-kong.json) |
 | Haramimura: When a Wife Becomes a Villager | 388721 | [388721-haramimura-when-a-wife-becomes-a-villager.json](./388721-haramimura-when-a-wife-becomes-a-villager.json) |
 | Harassment ni Ki wo Tsukete | 251609 | [251609-harassment-ni-ki-wo-tsukete.json](./251609-harassment-ni-ki-wo-tsukete.json) |
@@ -648,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HarmonyTD | 104133 | [104133-harmonytd.json](./104133-harmonytd.json) |
 | Harold | 7865 | [7865-harold.json](./7865-harold.json) |
 | Harp | 145597 | [145597-harp.json](./145597-harp.json) |
+| Harp | 72346 | [72346-harp.json](./72346-harp.json) |
 | Harpoon & Battleset 2 | 92827 | [92827-harpoon-and-battleset-2.json](./92827-harpoon-and-battleset-2.json) |
 | Harpoon Classic | 92996 | [92996-harpoon-classic.json](./92996-harpoon-classic.json) |
 | Harpoon Classic '97 | 365063 | [365063-harpoon-classic-97.json](./365063-harpoon-classic-97.json) |
