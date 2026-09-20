@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SchattenJagd | 98954 | [98954-schattenjagd.json](./98954-schattenjagd.json) |
 | Schattenspiel | 103873 | [103873-schattenspiel.json](./103873-schattenspiel.json) |
 | Schedule I | 328373 | [328373-schedule-i.json](./328373-schedule-i.json) |
+| Schiffbruch | 76251 | [76251-schiffbruch.json](./76251-schiffbruch.json) |
 | Schism | 266227 | [266227-schism.json](./266227-schism.json) |
 | Schizo Dark | 368481 | [368481-schizo-dark.json](./368481-schizo-dark.json) |
 | Schizophrenia | 133203 | [133203-schizophrenia.json](./133203-schizophrenia.json) |
@@ -2469,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
 | Shattered Planet | 17510 | [17510-shattered-planet.json](./17510-shattered-planet.json) |
 | Shattered Realm Rebirth | 390666 | [390666-shattered-realm-rebirth.json](./390666-shattered-realm-rebirth.json) |
+| Shattered Realms | 76210 | [76210-shattered-realms.json](./76210-shattered-realms.json) |
 | Shattered Runes | 151154 | [151154-shattered-runes.json](./151154-shattered-runes.json) |
 | Shattered Sky | 244502 | [244502-shattered-sky.json](./244502-shattered-sky.json) |
 | Shattered Slime | 160218 | [160218-shattered-slime.json](./160218-shattered-slime.json) |
@@ -2751,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi Slash | 264055 | [264055-shinobi-slash.json](./264055-shinobi-slash.json) |
 | Shinobi Spirits S: Legend of Heroes | 121046 | [121046-shinobi-spirits-s-legend-of-heroes.json](./121046-shinobi-spirits-s-legend-of-heroes.json) |
 | Shinobi, Koi Utsutsu | 61665 | [61665-shinobi-koi-utsutsu.json](./61665-shinobi-koi-utsutsu.json) |
+| Shinobi, Koi Utsutsu: Banka Aya Emaki | 76232 | [76232-shinobi-koi-utsutsu-banka-aya-emaki.json](./76232-shinobi-koi-utsutsu-banka-aya-emaki.json) |
 | Shinobi, Koi Utsutsu: Banka Aya Emaki - Limited Edition | 205269 | [205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json](./205269-shinobi-koi-utsutsu-banka-aya-emaki-limited-edition.json) |
 | Shinobi: Art of Vengeance | 279630 | [279630-shinobi-art-of-vengeance.json](./279630-shinobi-art-of-vengeance.json) |
 | Shinobi: Art of Vengeance - Sega Villains Stage | 375165 | [375165-shinobi-art-of-vengeance-sega-villains-stage.json](./375165-shinobi-art-of-vengeance-sega-villains-stage.json) |
@@ -8552,6 +8555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve Reich’s Clapping Music | 312322 | [312322-steve-reich-s-clapping-music.json](./312322-steve-reich-s-clapping-music.json) |
 | Steve: Operation Nuts | 295010 | [295010-steve-operation-nuts.json](./295010-steve-operation-nuts.json) |
 | Steve's HardCore WorldTour | 153973 | [153973-steves-hardcore-worldtour.json](./153973-steves-hardcore-worldtour.json) |
+| Steve's Pub - Soda on tap | 76215 | [76215-steves-pub-soda-on-tap.json](./76215-steves-pub-soda-on-tap.json) |
 | Steven Seagal Is The Final Option | 38300 | [38300-steven-seagal-is-the-final-option.json](./38300-steven-seagal-is-the-final-option.json) |
 | Steven Spielberg's Director's Chair | 69814 | [69814-steven-spielbergs-directors-chair.json](./69814-steven-spielbergs-directors-chair.json) |
 | Steven Universe: Save the Light & OK K.O.! Let's Play Heroes Combo Pack | 107150 | [107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json](./107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json) |
@@ -9963,7 +9967,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gahaku | 417571 | [417571-super-gahaku.json](./417571-super-gahaku.json) |
 | Super Galaxy Ball | 219579 | [219579-super-galaxy-ball.json](./219579-super-galaxy-ball.json) |
 | Super Galaxy Squadron EX | 17991 | [17991-super-galaxy-squadron-ex.json](./17991-super-galaxy-squadron-ex.json) |
+| Super Game System Basic | 76193 | [76193-super-game-system-basic.json](./76193-super-game-system-basic.json) |
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
+| Super Gear Quest | 76203 | [76203-super-gear-quest.json](./76203-super-gear-quest.json) |
 | Super Gears N Gators | 136228 | [136228-super-gears-n-gators.json](./136228-super-gears-n-gators.json) |
 | Super Gerball | 89179 | [89179-super-gerball.json](./89179-super-gerball.json) |
 | Super Gerry | 113641 | [113641-super-gerry.json](./113641-super-gerry.json) |
@@ -11170,6 +11176,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swat | 71547 | [71547-swat.json](./71547-swat.json) |
 | SWAT 3: Close Quarters Battle | 313 | [313-swat-3-close-quarters-battle.json](./313-swat-3-close-quarters-battle.json) |
 | SWAT Commander | 319967 | [319967-swat-commander.json](./319967-swat-commander.json) |
+| SWAT Elite Troops | 76202 | [76202-swat-elite-troops.json](./76202-swat-elite-troops.json) |
+| SWAT Force | 76201 | [76201-swat-force.json](./76201-swat-force.json) |
 | SWAT God | 407444 | [407444-swat-god.json](./407444-swat-god.json) |
 | SWAT Siege | 336032 | [336032-swat-siege.json](./336032-swat-siege.json) |
 | Swat! | 60557 | [60557-swat.json](./60557-swat.json) |
