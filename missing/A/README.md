@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Male Me Dressed up and Was Loved | 82878 | [82878-a-male-me-dressed-up-and-was-loved.json](./82878-a-male-me-dressed-up-and-was-loved.json) |
 | A Mask's Tale | 306997 | [306997-a-masks-tale.json](./306997-a-masks-tale.json) |
 | A Mass of Dead | 16924 | [16924-a-mass-of-dead.json](./16924-a-mass-of-dead.json) |
+| A Matter of Caos: Episode 2 | 101990 | [101990-a-matter-of-caos-episode-2.json](./101990-a-matter-of-caos-episode-2.json) |
 | A Matter of Murder | 26887 | [26887-a-matter-of-murder.json](./26887-a-matter-of-murder.json) |
 | A Matter of Time | 153414 | [153414-a-matter-of-time.json](./153414-a-matter-of-time.json) |
 | A Maze for Owls | 182517 | [182517-a-maze-for-owls.json](./182517-a-maze-for-owls.json) |
@@ -919,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
+| Aha Link Color: Cross | 101967 | [101967-aha-link-color-cross.json](./101967-aha-link-color-cross.json) |
 | Ahegal Seasons | 203381 | [203381-ahegal-seasons.json](./203381-ahegal-seasons.json) |
 | AHH!!! MazeZing | 158046 | [158046-ahh-mazezing.json](./158046-ahh-mazezing.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
@@ -2875,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ants in Space! | 248031 | [248031-ants-in-space.json](./248031-ants-in-space.json) |
 | Ants Took My Eyeball | 211273 | [211273-ants-took-my-eyeball.json](./211273-ants-took-my-eyeball.json) |
 | Ants With Guns | 211436 | [211436-ants-with-guns.json](./211436-ants-with-guns.json) |
+| Antumbra | 101989 | [101989-antumbra.json](./101989-antumbra.json) |
 | Antumbra: Vile Shards | 149514 | [149514-antumbra-vile-shards.json](./149514-antumbra-vile-shards.json) |
 | Antz: Panic in the Anthill! | 371232 | [371232-antz-panic-in-the-anthill.json](./371232-antz-panic-in-the-anthill.json) |
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
@@ -3784,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Driver | 204087 | [204087-army-driver.json](./204087-army-driver.json) |
 | Army Gals: The Poker Game | 171582 | [171582-army-gals-the-poker-game.json](./171582-army-gals-the-poker-game.json) |
 | Army Men Battle Simulator | 351039 | [351039-army-men-battle-simulator.json](./351039-army-men-battle-simulator.json) |
+| Army Men For Kids | 101941 | [101941-army-men-for-kids.json](./101941-army-men-for-kids.json) |
 | Army Men Strike: Toy Wars | 280923 | [280923-army-men-strike-toy-wars.json](./280923-army-men-strike-toy-wars.json) |
 | Army Men World War: Team Assault | 43947 | [43947-army-men-world-war-team-assault.json](./43947-army-men-world-war-team-assault.json) |
 | Army Men: Air Attack | 3417 | [3417-army-men-air-attack.json](./3417-army-men-air-attack.json) |
@@ -5087,3 +5091,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Striker Gunvolt: Striker Pack | 29529 | [29529-azure-striker-gunvolt-striker-pack.json](./29529-azure-striker-gunvolt-striker-pack.json) |
 | Azurea: Sora no Uta | 216219 | [216219-azurea-sora-no-uta.json](./216219-azurea-sora-no-uta.json) |
 | Azurik: Rise of Perathia | 5733 | [5733-azurik-rise-of-perathia.json](./5733-azurik-rise-of-perathia.json) |
+| AZZL | 101964 | [101964-azzl.json](./101964-azzl.json) |
