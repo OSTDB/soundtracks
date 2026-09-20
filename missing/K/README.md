@@ -1832,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KYM-tan Shoots Things | 198387 | [198387-kym-tan-shoots-things.json](./198387-kym-tan-shoots-things.json) |
 | Kyn | 11451 | [11451-kyn.json](./11451-kyn.json) |
 | Kyobi | 314683 | [314683-kyobi.json](./314683-kyobi.json) |
+| Kyodai Mahjongg | 126457 | [126457-kyodai-mahjongg.json](./126457-kyodai-mahjongg.json) |
 | Kyojin-tachi | 260983 | [260983-kyojin-tachi.json](./260983-kyojin-tachi.json) |
 | Kyoki | 172160 | [172160-kyoki.json](./172160-kyoki.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
