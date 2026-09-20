@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hans Christian Andersen: The Ugly Prince Duckling | 70120 | [70120-hans-christian-andersen-the-ugly-prince-duckling.json](./70120-hans-christian-andersen-the-ugly-prince-duckling.json) |
 | Hans in the Internetz | 392266 | [392266-hans-in-the-internetz.json](./392266-hans-in-the-internetz.json) |
 | Hanse: Die Expedition | 85818 | [85818-hanse-die-expedition.json](./85818-hanse-die-expedition.json) |
+| Hansel & Gretel | 66943 | [66943-hansel-and-gretel.json](./66943-hansel-and-gretel.json) |
 | Hansel and Gretel | 215350 | [215350-hansel-and-gretel.json](./215350-hansel-and-gretel.json) |
 | Hansel and Gretel and the Enchanted Castle | 46641 | [46641-hansel-and-gretel-and-the-enchanted-castle.json](./46641-hansel-and-gretel-and-the-enchanted-castle.json) |
 | Hanski's Burlap of Chaos! | 174272 | [174272-hanskis-burlap-of-chaos.json](./174272-hanskis-burlap-of-chaos.json) |
@@ -2670,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive Jump | 20874 | [20874-hive-jump.json](./20874-hive-jump.json) |
 | Hive Jump 2: Survivors | 264591 | [264591-hive-jump-2-survivors.json](./264591-hive-jump-2-survivors.json) |
 | Hive Quest | 104030 | [104030-hive-quest.json](./104030-hive-quest.json) |
+| Hive Rise | 66921 | [66921-hive-rise.json](./66921-hive-rise.json) |
 | Hive Slayer | 160235 | [160235-hive-slayer.json](./160235-hive-slayer.json) |
 | Hive Spy Remi: Mind Control Madness | 223458 | [223458-hive-spy-remi-mind-control-madness.json](./223458-hive-spy-remi-mind-control-madness.json) |
 | Hive Time | 124254 | [124254-hive-time.json](./124254-hive-time.json) |
