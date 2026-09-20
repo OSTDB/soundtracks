@@ -2355,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Existential | 193503 | [193503-existential.json](./193503-existential.json) |
 | Exit 13 Gallery Escape | 291243 | [291243-exit-13-gallery-escape.json](./291243-exit-13-gallery-escape.json) |
 | Exit 19 | 184602 | [184602-exit-19.json](./184602-exit-19.json) |
+| Exit 3: Painter | 75497 | [75497-exit-3-painter.json](./75497-exit-3-painter.json) |
 | Exit Control | 368486 | [368486-exit-control.json](./368486-exit-control.json) |
 | Exit From | 119692 | [119692-exit-from.json](./119692-exit-from.json) |
 | Exit Lab 15 Rooms | 390525 | [390525-exit-lab-15-rooms.json](./390525-exit-lab-15-rooms.json) |
