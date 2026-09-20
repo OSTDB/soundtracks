@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast & Furious: Legacy | 383491 | [383491-fast-and-furious-legacy.json](./383491-fast-and-furious-legacy.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r | 150132 | [150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json](./150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r - Complete Edition | 218500 | [218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json](./218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json) |
+| Fast Action Paq | 79585 | [79585-fast-action-paq.json](./79585-fast-action-paq.json) |
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
 | Fast Blast | 108503 | [108503-fast-blast.json](./108503-fast-blast.json) |
 | Fast Break | 12091 | [12091-fast-break.json](./12091-fast-break.json) |
@@ -1666,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fincester Tower | 236404 | [236404-fincester-tower.json](./236404-fincester-tower.json) |
 | Finch | 304902 | [304902-finch.json](./304902-finch.json) |
 | Finch & Archie | 306095 | [306095-finch-and-archie.json](./306095-finch-and-archie.json) |
+| Finck | 79571 | [79571-finck.json](./79571-finck.json) |
 | FinCrementalOS | 400314 | [400314-fincrementalos.json](./400314-fincrementalos.json) |
 | Find a way out: Abode of darkness. | 192799 | [192799-find-a-way-out-abode-of-darkness.json](./192799-find-a-way-out-abode-of-darkness.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
@@ -2040,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher Man | 367491 | [367491-fisher-man.json](./367491-fisher-man.json) |
 | Fisher-Price Dream Dollhouse | 228449 | [228449-fisher-price-dream-dollhouse.json](./228449-fisher-price-dream-dollhouse.json) |
 | Fisher-Price Little People Christmas Activity Center | 337173 | [337173-fisher-price-little-people-christmas-activity-center.json](./337173-fisher-price-little-people-christmas-activity-center.json) |
+| Fisher-Price Outdoor Adventures: Ranger Trail | 79595 | [79595-fisher-price-outdoor-adventures-ranger-trail.json](./79595-fisher-price-outdoor-adventures-ranger-trail.json) |
 | Fisher-Price: Big Action Garage | 70360 | [70360-fisher-price-big-action-garage.json](./70360-fisher-price-big-action-garage.json) |
 | Fisher-Price: I Can Remember | 26659 | [26659-fisher-price-i-can-remember.json](./26659-fisher-price-i-can-remember.json) |
 | Fisher-Price: Time To Play - Pet Shop | 283677 | [283677-fisher-price-time-to-play-pet-shop.json](./283677-fisher-price-time-to-play-pet-shop.json) |
@@ -2233,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Owls | 343867 | [343867-five-owls.json](./343867-five-owls.json) |
 | Five Seconds of Bad Music | 109619 | [109619-five-seconds-of-bad-music.json](./109619-five-seconds-of-bad-music.json) |
 | Five Star Games | 100129 | [100129-five-star-games.json](./100129-five-star-games.json) |
+| Five Star Games 2 | 79601 | [79601-five-star-games-2.json](./79601-five-star-games-2.json) |
 | Five Starless Rivers | 285438 | [285438-five-starless-rivers.json](./285438-five-starless-rivers.json) |
 | Five Stars | 233492 | [233492-five-stars.json](./233492-five-stars.json) |
 | Five-A-Side Soccer | 84235 | [84235-five-a-side-soccer.json](./84235-five-a-side-soccer.json) |
