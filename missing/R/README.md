@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapala: We Fish | 67697 | [67697-rapala-we-fish.json](./67697-rapala-we-fish.json) |
 | Rapala's Fishing Frenzy | 50605 | [50605-rapalas-fishing-frenzy.json](./50605-rapalas-fishing-frenzy.json) |
 | RaphaelGer's Plane | 229973 | [229973-raphaelgers-plane.json](./229973-raphaelgers-plane.json) |
+| Rapid Angel | 65771 | [65771-rapid-angel.json](./65771-rapid-angel.json) |
 | Rapid Ascent | 413663 | [413663-rapid-ascent.json](./413663-rapid-ascent.json) |
 | Rapid Assault | 62137 | [62137-rapid-assault.json](./62137-rapid-assault.json) |
 | Rapid Deployment Force: Global Conflict | 46606 | [46606-rapid-deployment-force-global-conflict.json](./46606-rapid-deployment-force-global-conflict.json) |
@@ -3110,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky | 4093 | [4093-rocky.json](./4093-rocky.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
 | Rocky Legends | 6016 | [6016-rocky-legends.json](./6016-rocky-legends.json) |
+| Rocky Memphis and the Temple of Ophuxoff | 65773 | [65773-rocky-memphis-and-the-temple-of-ophuxoff.json](./65773-rocky-memphis-and-the-temple-of-ophuxoff.json) |
 | Rocky Mountain Trophy Hunter: Alaskan Expedition | 69084 | [69084-rocky-mountain-trophy-hunter-alaskan-expedition.json](./69084-rocky-mountain-trophy-hunter-alaskan-expedition.json) |
 | Rocky Mountain: Trophy Hunter | 49946 | [49946-rocky-mountain-trophy-hunter.json](./49946-rocky-mountain-trophy-hunter.json) |
 | Rocky Rodent | 42648 | [42648-rocky-rodent.json](./42648-rocky-rodent.json) |
@@ -3515,6 +3517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope and Balls | 208960 | [208960-rope-and-balls.json](./208960-rope-and-balls.json) |
 | Rope Cow: Rope it to The Cow | 170519 | [170519-rope-cow-rope-it-to-the-cow.json](./170519-rope-cow-rope-it-to-the-cow.json) |
 | Rope Heroes : Hole Runner Game | 108441 | [108441-rope-heroes-hole-runner-game.json](./108441-rope-heroes-hole-runner-game.json) |
+| Rope Rescue | 65772 | [65772-rope-rescue.json](./65772-rope-rescue.json) |
 | Rope-Kun Adventure | 296664 | [296664-rope-kun-adventure.json](./296664-rope-kun-adventure.json) |
 | Rope'n'Fly 4 | 288879 | [288879-ropenfly-4.json](./288879-ropenfly-4.json) |
 | Roped In | 300412 | [300412-roped-in.json](./300412-roped-in.json) |
