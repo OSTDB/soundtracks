@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider: Super Climax Heroes | 62705 | [62705-kamen-rider-super-climax-heroes.json](./62705-kamen-rider-super-climax-heroes.json) |
 | Kameo: Elements of Power | 7029 | [7029-kameo-elements-of-power.json](./7029-kameo-elements-of-power.json) |
 | Kamer | 129567 | [129567-kamer.json](./129567-kamer.json) |
+| Kami | 68978 | [68978-kami.json](./68978-kami.json) |
 | Kami and Miko | 370148 | [370148-kami-and-miko.json](./370148-kami-and-miko.json) |
 | Kami Kamera | 341881 | [341881-kami-kamera.json](./341881-kami-kamera.json) |
 | Kami Mahou | 188509 | [188509-kami-mahou.json](./188509-kami-mahou.json) |
@@ -294,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karawan | 180232 | [180232-karawan.json](./180232-karawan.json) |
 | KarBoom | 62667 | [62667-karboom.json](./62667-karboom.json) |
 | Kardia Tou Abel | 174807 | [174807-kardia-tou-abel.json](./174807-kardia-tou-abel.json) |
+| Kardinal & König | 68959 | [68959-kardinal-and-konig.json](./68959-kardinal-and-konig.json) |
 | Kardiossomatic | 185137 | [185137-kardiossomatic.json](./185137-kardiossomatic.json) |
 | Kardmi | 335988 | [335988-kardmi.json](./335988-kardmi.json) |
 | Kardun | 214183 | [214183-kardun.json](./214183-kardun.json) |
