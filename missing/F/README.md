@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Super Lap | 109442 | [109442-f1-super-lap.json](./109442-f1-super-lap.json) |
 | F1 Team Simulation: Project F | 128359 | [128359-f1-team-simulation-project-f.json](./128359-f1-team-simulation-project-f.json) |
 | F1 Tornado | 300877 | [300877-f1-tornado.json](./300877-f1-tornado.json) |
+| F1 Tornado | 65208 | [65208-f1-tornado.json](./65208-f1-tornado.json) |
 | F1: World Championship Edition | 12083 | [12083-f1-world-championship-edition.json](./12083-f1-world-championship-edition.json) |
 | F15 Flight Simulator VR | 107129 | [107129-f15-flight-simulator-vr.json](./107129-f15-flight-simulator-vr.json) |
 | F18 Pilot Simulator | 174355 | [174355-f18-pilot-simulator.json](./174355-f18-pilot-simulator.json) |
@@ -1131,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FED Chairman | 391733 | [391733-fed-chairman.json](./391733-fed-chairman.json) |
 | Feda: The Emblem of Justice | 42555 | [42555-feda-the-emblem-of-justice.json](./42555-feda-the-emblem-of-justice.json) |
 | Fedanheim | 415921 | [415921-fedanheim.json](./415921-fedanheim.json) |
+| Federation Quest 1: BSS Jane Seymour | 65210 | [65210-federation-quest-1-bss-jane-seymour.json](./65210-federation-quest-1-bss-jane-seymour.json) |
 | Fedora Spade: Prologue | 57678 | [57678-fedora-spade-prologue.json](./57678-fedora-spade-prologue.json) |
 | Feed | 296397 | [296397-feed.json](./296397-feed.json) |
 | Feed A Titanosaur | 117069 | [117069-feed-a-titanosaur.json](./117069-feed-a-titanosaur.json) |
@@ -1284,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIA European Truck Racing Championship | 117855 | [117855-fia-european-truck-racing-championship.json](./117855-fia-european-truck-racing-championship.json) |
 | Fibbage XL | 33374 | [33374-fibbage-xl.json](./33374-fibbage-xl.json) |
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
+| Fibble: Flick 'n' Roll | 65220 | [65220-fibble-flick-n-roll.json](./65220-fibble-flick-n-roll.json) |
 | Fibbler.io | 282568 | [282568-fibbler-io.json](./282568-fibbler-io.json) |
 | Fiber Twig 2: Restoration of Magic Garden | 58183 | [58183-fiber-twig-2-restoration-of-magic-garden.json](./58183-fiber-twig-2-restoration-of-magic-garden.json) |
 | Fibonacci's Final Sequence | 287209 | [287209-fibonaccis-final-sequence.json](./287209-fibonaccis-final-sequence.json) |
@@ -3217,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Form of a Legend | 132800 | [132800-form-of-a-legend.json](./132800-form-of-a-legend.json) |
 | Format | 312580 | [312580-format.json](./312580-format.json) |
 | Formation | 258690 | [258690-formation.json](./258690-formation.json) |
+| Formation Soccer 95: della Serie A | 65179 | [65179-formation-soccer-95-della-serie-a.json](./65179-formation-soccer-95-della-serie-a.json) |
 | Formation Soccer: Human Cup '90 | 42046 | [42046-formation-soccer-human-cup-90.json](./42046-formation-soccer-human-cup-90.json) |
 | Formation Z | 37190 | [37190-formation-z.json](./37190-formation-z.json) |
 | Formic Fortress | 405590 | [405590-formic-fortress.json](./405590-formic-fortress.json) |
