@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Deliveryman | 267481 | [267481-adventures-of-deliveryman.json](./267481-adventures-of-deliveryman.json) |
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
+| Adventures of Mike | 101344 | [101344-adventures-of-mike.json](./101344-adventures-of-mike.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
 | Adventures of Samuel: The Worst Game Ever Made | 196160 | [196160-adventures-of-samuel-the-worst-game-ever-made.json](./196160-adventures-of-samuel-the-worst-game-ever-made.json) |
 | Adventures of the Cat Leopold | 53166 | [53166-adventures-of-the-cat-leopold.json](./53166-adventures-of-the-cat-leopold.json) |
@@ -787,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
 | Aeronaut | 178522 | [178522-aeronaut.json](./178522-aeronaut.json) |
 | Aeronautica Imperialis: Flight Command - Skulls Pack | 162754 | [162754-aeronautica-imperialis-flight-command-skulls-pack.json](./162754-aeronautica-imperialis-flight-command-skulls-pack.json) |
+| Aerospace Forces | 101387 | [101387-aerospace-forces.json](./101387-aerospace-forces.json) |
 | Aery: Ancient Empires | 283897 | [283897-aery-ancient-empires.json](./283897-aery-ancient-empires.json) |
 | Aery: Best of Bundle | 302512 | [302512-aery-best-of-bundle.json](./302512-aery-best-of-bundle.json) |
 | Aery: Calm Mind | 153831 | [153831-aery-calm-mind.json](./153831-aery-calm-mind.json) |
@@ -920,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
+| Aha Hit tile 3D | 101321 | [101321-aha-hit-tile-3d.json](./101321-aha-hit-tile-3d.json) |
 | Aha Link Color: Cross | 101967 | [101967-aha-link-color-cross.json](./101967-aha-link-color-cross.json) |
 | Ahegal Seasons | 203381 | [203381-ahegal-seasons.json](./203381-ahegal-seasons.json) |
 | AHH!!! MazeZing | 158046 | [158046-ahh-mazezing.json](./158046-ahh-mazezing.json) |
@@ -4952,6 +4955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening | 105765 | [105765-awakening.json](./105765-awakening.json) |
 | Awakening | 264059 | [264059-awakening.json](./264059-awakening.json) |
 | Awakening Automata | 174766 | [174766-awakening-automata.json](./174766-awakening-automata.json) |
+| Awakening of Celestial | 101385 | [101385-awakening-of-celestial.json](./101385-awakening-of-celestial.json) |
 | Awakening of Dragon | 110177 | [110177-awakening-of-dragon.json](./110177-awakening-of-dragon.json) |
 | Awakening of Heroes | 61561 | [61561-awakening-of-heroes.json](./61561-awakening-of-heroes.json) |
 | Awakening Sarah | 255727 | [255727-awakening-sarah.json](./255727-awakening-sarah.json) |
