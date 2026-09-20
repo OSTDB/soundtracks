@@ -4186,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
 | Missing: Since January | 68204 | [68204-missing-since-january.json](./68204-missing-since-january.json) |
 | Mission 1545 | 76561 | [76561-mission-1545.json](./76561-mission-1545.json) |
+| Mission 3000 | 71781 | [71781-mission-3000.json](./71781-mission-3000.json) |
 | Mission Against Terror 2 | 213474 | [213474-mission-against-terror-2.json](./213474-mission-against-terror-2.json) |
 | Mission Angel Angelic Pink | 82908 | [82908-mission-angel-angelic-pink.json](./82908-mission-angel-angelic-pink.json) |
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
