@@ -2321,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShapeShift for Cheese! | 326618 | [326618-shapeshift-for-cheese.json](./326618-shapeshift-for-cheese.json) |
 | Shapeshifter: Endless Run | 392787 | [392787-shapeshifter-endless-run.json](./392787-shapeshifter-endless-run.json) |
 | Shapeu | 215108 | [215108-shapeu.json](./215108-shapeu.json) |
+| Shapeuku - Shape Puzzle Game | 108289 | [108289-shapeuku-shape-puzzle-game.json](./108289-shapeuku-shape-puzzle-game.json) |
 | Shapey Heads | 120351 | [120351-shapey-heads.json](./120351-shapey-heads.json) |
 | Shapey Heads | 241989 | [241989-shapey-heads.json](./241989-shapey-heads.json) |
 | Shapez 2: Supporter Edition | 314519 | [314519-shapez-2-supporter-edition.json](./314519-shapez-2-supporter-edition.json) |
@@ -2789,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shodankurai Nintei: Shodan Pro Mahjong | 38368 | [38368-shodankurai-nintei-shodan-pro-mahjong.json](./38368-shodankurai-nintei-shodan-pro-mahjong.json) |
 | Shodo | 151139 | [151139-shodo.json](./151139-shodo.json) |
 | Shodot | 244267 | [244267-shodot.json](./244267-shodot.json) |
+| Shoe Doodle | 108267 | [108267-shoe-doodle.json](./108267-shoe-doodle.json) |
 | Shoe Salesman Mania | 378280 | [378280-shoe-salesman-mania.json](./378280-shoe-salesman-mania.json) |
 | Shoebill | 151119 | [151119-shoebill.json](./151119-shoebill.json) |
 | Shoemaker | 110772 | [110772-shoemaker.json](./110772-shoemaker.json) |
@@ -5773,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry, We're Open | 200176 | [200176-sorry-were-open.json](./200176-sorry-were-open.json) |
 | Sorry, Wrong Door | 215931 | [215931-sorry-wrong-door.json](./215931-sorry-wrong-door.json) |
 | Sorry! I surrounded beauty! | 366288 | [366288-sorry-i-surrounded-beauty.json](./366288-sorry-i-surrounded-beauty.json) |
+| Sort and Stack | 108295 | [108295-sort-and-stack.json](./108295-sort-and-stack.json) |
 | Sort It! | 268528 | [268528-sort-it.json](./268528-sort-it.json) |
 | Sort of Justice: Chapter 1 | 335991 | [335991-sort-of-justice-chapter-1.json](./335991-sort-of-justice-chapter-1.json) |
 | Sort Them Ducks | 412357 | [412357-sort-them-ducks.json](./412357-sort-them-ducks.json) |
@@ -6351,6 +6354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaced Out | 296360 | [296360-spaced-out.json](./296360-spaced-out.json) |
 | SpaceEngine | 7585 | [7585-spaceengine.json](./7585-spaceengine.json) |
 | SpaceEx Commander | 157530 | [157530-spaceex-commander.json](./157530-spaceex-commander.json) |
+| SpaceExcavators | 108304 | [108304-spaceexcavators.json](./108304-spaceexcavators.json) |
 | Spaceforce Constellations | 16846 | [16846-spaceforce-constellations.json](./16846-spaceforce-constellations.json) |
 | Spaceforce: Captains | 20783 | [20783-spaceforce-captains.json](./20783-spaceforce-captains.json) |
 | SpaceFront | 275713 | [275713-spacefront.json](./275713-spacefront.json) |
