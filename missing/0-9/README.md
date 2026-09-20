@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Problems | 353316 | [353316-99-problems.json](./353316-99-problems.json) |
 | 99 Waves | 283870 | [283870-99-waves.json](./283870-99-waves.json) |
 | 99% Can't Spot It! Common Sense Battle | 409671 | [409671-99-cant-spot-it-common-sense-battle.json](./409671-99-cant-spot-it-common-sense-battle.json) |
+| 99% Sky Car Racing | 108858 | [108858-99-sky-car-racing.json](./108858-99-sky-car-racing.json) |
 | 9999 in 1 | 279737 | [279737-9999-in-1.json](./279737-9999-in-1.json) |
 | 999Seconds!Survivors | 400259 | [400259-999seconds-survivors.json](./400259-999seconds-survivors.json) |
 | 9pm | 177510 | [177510-9pm.json](./177510-9pm.json) |
