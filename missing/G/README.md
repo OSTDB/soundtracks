@@ -334,6 +334,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallows | 95186 | [95186-gallows.json](./95186-gallows.json) |
 | Galosphere | 341045 | [341045-galosphere.json](./341045-galosphere.json) |
 | GalRock Girls | 258440 | [258440-galrock-girls.json](./258440-galrock-girls.json) |
+| Gals Fighters | 75468 | [75468-gals-fighters.json](./75468-gals-fighters.json) |
+| Gals Fighters (Best Collection) | 75466 | [75466-gals-fighters-best-collection.json](./75466-gals-fighters-best-collection.json) |
 | Gals Panic 3 | 210715 | [210715-gals-panic-3.json](./210715-gals-panic-3.json) |
 | Gals Panic II | 210714 | [210714-gals-panic-ii.json](./210714-gals-panic-ii.json) |
 | Galvatia | 169474 | [169474-galvatia.json](./169474-galvatia.json) |
@@ -1206,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GhostHunt With Triggered Insaan | 289316 | [289316-ghosthunt-with-triggered-insaan.json](./289316-ghosthunt-with-triggered-insaan.json) |
 | GhostHunter | 189052 | [189052-ghosthunter.json](./189052-ghosthunter.json) |
 | Ghostkeeper | 210859 | [210859-ghostkeeper.json](./210859-ghostkeeper.json) |
+| Ghostlop (Limited release) | 75470 | [75470-ghostlop-limited-release.json](./75470-ghostlop-limited-release.json) |
 | Ghostly Garden | 146853 | [146853-ghostly-garden.json](./146853-ghostly-garden.json) |
 | Ghostly Matter | 89650 | [89650-ghostly-matter.json](./89650-ghostly-matter.json) |
 | Ghostly Moans | 211252 | [211252-ghostly-moans.json](./211252-ghostly-moans.json) |
