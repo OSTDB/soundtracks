@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Year 2088 Classic | 276276 | [276276-year-2088-classic.json](./276276-year-2088-classic.json) |
 | Year 500 | 248046 | [248046-year-500.json](./248046-year-500.json) |
 | Yeardle | 200664 | [200664-yeardle.json](./200664-yeardle.json) |
+| Yearning | 111497 | [111497-yearning.json](./111497-yearning.json) |
 | Yearning: A Gay Story | 127785 | [127785-yearning-a-gay-story.json](./127785-yearning-a-gay-story.json) |
 | Yedesna Shoots 2 | 315847 | [315847-yedesna-shoots-2.json](./315847-yedesna-shoots-2.json) |
 | Yedoma Globula | 140051 | [140051-yedoma-globula.json](./140051-yedoma-globula.json) |
