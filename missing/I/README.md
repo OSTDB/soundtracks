@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Janshi Suchi-Pai III Remix | 98808 | [98808-idol-janshi-suchi-pai-iii-remix.json](./98808-idol-janshi-suchi-pai-iii-remix.json) |
 | Idol Janshi Suchie-Pai III | 76610 | [76610-idol-janshi-suchie-pai-iii.json](./76610-idol-janshi-suchie-pai-iii.json) |
 | Idol Janshi Suchie-Pai IV Portable | 379905 | [379905-idol-janshi-suchie-pai-iv-portable.json](./379905-idol-janshi-suchie-pai-iv-portable.json) |
+| Idol Janshi Suchie-Pai Mecha Genteiban: Hatsubai 5 Shuunen (Toku) Package | 85821 | [85821-idol-janshi-suchie-pai-mecha-genteiban-hatsubai-5-shuunen-toku-package.json](./85821-idol-janshi-suchie-pai-mecha-genteiban-hatsubai-5-shuunen-toku-package.json) |
 | Idol Janshi Suchie-Pai: Milky no Yabou | 299296 | [299296-idol-janshi-suchie-pai-milky-no-yabou.json](./299296-idol-janshi-suchie-pai-milky-no-yabou.json) |
 | Idol Kingdom | 405517 | [405517-idol-kingdom.json](./405517-idol-kingdom.json) |
 | Idol Mahjong Final Romance 4 | 202785 | [202785-idol-mahjong-final-romance-4.json](./202785-idol-mahjong-final-romance-4.json) |
@@ -720,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illvelo Swamp Happy Together | 383529 | [383529-illvelo-swamp-happy-together.json](./383529-illvelo-swamp-happy-together.json) |
 | Illville: Return instructions | 75180 | [75180-illville-return-instructions.json](./75180-illville-return-instructions.json) |
 | Illwind | 251835 | [251835-illwind.json](./251835-illwind.json) |
+| Illyriad | 85880 | [85880-illyriad.json](./85880-illyriad.json) |
 | Ilomilo: Autumn Tale | 288340 | [288340-ilomilo-autumn-tale.json](./288340-ilomilo-autumn-tale.json) |
 | Iltami | 311646 | [311646-iltami.json](./311646-iltami.json) |
 | iLudo | 90359 | [90359-iludo.json](./90359-iludo.json) |
@@ -1110,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infamous: First Light | 7328 | [7328-infamous-first-light.json](./7328-infamous-first-light.json) |
 | Infamous: Second Son - Cole's Legacy | 210087 | [210087-infamous-second-son-coles-legacy.json](./210087-infamous-second-son-coles-legacy.json) |
 | Infamous: Second Son - Collector's Edition | 147293 | [147293-infamous-second-son-collectors-edition.json](./147293-infamous-second-son-collectors-edition.json) |
+| Infantry | 85840 | [85840-infantry.json](./85840-infantry.json) |
 | Infantry Attack: Backup Edition | 308805 | [308805-infantry-attack-backup-edition.json](./308805-infantry-attack-backup-edition.json) |
 | Infect Them All: Zombies | 174302 | [174302-infect-them-all-zombies.json](./174302-infect-them-all-zombies.json) |
 | Infected | 242548 | [242548-infected.json](./242548-infected.json) |
