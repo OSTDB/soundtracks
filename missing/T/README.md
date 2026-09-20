@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko Drum Master | 37148 | [37148-taiko-drum-master.json](./37148-taiko-drum-master.json) |
 | Taiko Frenzy | 276824 | [276824-taiko-frenzy.json](./276824-taiko-frenzy.json) |
 | Taiko no Tatsujin Arcade | 85872 | [85872-taiko-no-tatsujin-arcade.json](./85872-taiko-no-tatsujin-arcade.json) |
+| Taiko no Tatsujin Portable DX | 78348 | [78348-taiko-no-tatsujin-portable-dx.json](./78348-taiko-no-tatsujin-portable-dx.json) |
 | Taiko no Tatsujin: Appare Sandaime | 123432 | [123432-taiko-no-tatsujin-appare-sandaime.json](./123432-taiko-no-tatsujin-appare-sandaime.json) |
 | Taiko no Tatsujin: Atsumare! Matsuri da!! Yondaime | 123415 | [123415-taiko-no-tatsujin-atsumare-matsuri-da-yondaime.json](./123415-taiko-no-tatsujin-atsumare-matsuri-da-yondaime.json) |
 | Taiko no Tatsujin: Chibi Dragon to Fushigi na Orb | 63850 | [63850-taiko-no-tatsujin-chibi-dragon-to-fushigi-na-orb.json](./63850-taiko-no-tatsujin-chibi-dragon-to-fushigi-na-orb.json) |
@@ -226,7 +227,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: The Drum Master! - Touhou Project Arrangements Pack Vol. 2 | 358953 | [358953-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-2.json](./358953-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-2.json) |
 | Taiko no Tatsujin: The Drum Master! - Touhou Project Arrangements Pack Vol. 3 | 358954 | [358954-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-3.json](./358954-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-3.json) |
 | Taiko no Tatsujin: Tobikkiri! Anime Special | 123426 | [123426-taiko-no-tatsujin-tobikkiri-anime-special.json](./123426-taiko-no-tatsujin-tobikkiri-anime-special.json) |
+| Taiko no Tatsujin: Tokumori! | 78347 | [78347-taiko-no-tatsujin-tokumori.json](./78347-taiko-no-tatsujin-tokumori.json) |
 | Taiko no Tatsujin: Wai Wai Happy! Rokudaime | 123417 | [123417-taiko-no-tatsujin-wai-wai-happy-rokudaime.json](./123417-taiko-no-tatsujin-wai-wai-happy-rokudaime.json) |
+| Taiko no Tatsujin: Wii U Version | 78345 | [78345-taiko-no-tatsujin-wii-u-version.json](./78345-taiko-no-tatsujin-wii-u-version.json) |
 | Taiko on the Web | 337101 | [337101-taiko-on-the-web.json](./337101-taiko-on-the-web.json) |
 | Taiko Web | 219123 | [219123-taiko-web.json](./219123-taiko-web.json) |
 | Taikodom | 68016 | [68016-taikodom.json](./68016-taikodom.json) |
@@ -3769,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters '97 | 15428 | [15428-the-king-of-fighters-97.json](./15428-the-king-of-fighters-97.json) |
 | The King of Fighters '97 OL | 80566 | [80566-the-king-of-fighters-97-ol.json](./80566-the-king-of-fighters-97-ol.json) |
 | The King of Fighters '98: Ultimate Match Online | 80866 | [80866-the-king-of-fighters-98-ultimate-match-online.json](./80866-the-king-of-fighters-98-ultimate-match-online.json) |
+| The King of Fighters 02/03 | 78379 | [78379-the-king-of-fighters-02-03.json](./78379-the-king-of-fighters-02-03.json) |
 | The King of Fighters 2000/2001 | 43348 | [43348-the-king-of-fighters-2000-2001.json](./43348-the-king-of-fighters-2000-2001.json) |
 | The King of Fighters 2001 | 15432 | [15432-the-king-of-fighters-2001.json](./15432-the-king-of-fighters-2001.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
@@ -4047,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Khiimori | 318175 | [318175-the-legend-of-khiimori.json](./318175-the-legend-of-khiimori.json) |
 | The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
 | The Legend of Lumina | 302360 | [302360-the-legend-of-lumina.json](./302360-the-legend-of-lumina.json) |
+| The Legend of Maya | 78324 | [78324-the-legend-of-maya.json](./78324-the-legend-of-maya.json) |
 | The Legend of Mir 2 | 51204 | [51204-the-legend-of-mir-2.json](./51204-the-legend-of-mir-2.json) |
 | The Legend of Nayuta: Boundless Trails | 42722 | [42722-the-legend-of-nayuta-boundless-trails.json](./42722-the-legend-of-nayuta-boundless-trails.json) |
 | The Legend of Ninja | 147947 | [147947-the-legend-of-ninja.json](./147947-the-legend-of-ninja.json) |
@@ -4054,6 +4059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Peks | 262449 | [262449-the-legend-of-peks.json](./262449-the-legend-of-peks.json) |
 | The Legend Of Perchta | 290003 | [290003-the-legend-of-perchta.json](./290003-the-legend-of-perchta.json) |
 | The Legend of Pirates Online | 140587 | [140587-the-legend-of-pirates-online.json](./140587-the-legend-of-pirates-online.json) |
+| The Legend of Ra | 78325 | [78325-the-legend-of-ra.json](./78325-the-legend-of-ra.json) |
 | The Legend of Relic | 185027 | [185027-the-legend-of-relic.json](./185027-the-legend-of-relic.json) |
 | The Legend of Robin Hood | 267953 | [267953-the-legend-of-robin-hood.json](./267953-the-legend-of-robin-hood.json) |
 | The Legend of Santa | 256344 | [256344-the-legend-of-santa.json](./256344-the-legend-of-santa.json) |
@@ -8969,6 +8975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trader Life Simulator | 143666 | [143666-trader-life-simulator.json](./143666-trader-life-simulator.json) |
 | Trader of the Night | 219258 | [219258-trader-of-the-night.json](./219258-trader-of-the-night.json) |
 | Traders Life Simulator | 390101 | [390101-traders-life-simulator.json](./390101-traders-life-simulator.json) |
+| Traders: The Intergalactic Trading Game | 78323 | [78323-traders-the-intergalactic-trading-game.json](./78323-traders-the-intergalactic-trading-game.json) |
 | Tradewinds | 94554 | [94554-tradewinds.json](./94554-tradewinds.json) |
 | Tradewinds Caravan | 59455 | [59455-tradewinds-caravan.json](./59455-tradewinds-caravan.json) |
 | Tradewinds Legends | 59454 | [59454-tradewinds-legends.json](./59454-tradewinds-legends.json) |
