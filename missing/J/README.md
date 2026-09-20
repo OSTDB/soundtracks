@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | J and the Sewer World | 285598 | [285598-j-and-the-sewer-world.json](./285598-j-and-the-sewer-world.json) |
+| J-Girl | 110141 | [110141-j-girl.json](./110141-j-girl.json) |
 | J-Jump Arena | 263483 | [263483-j-jump-arena.json](./263483-j-jump-arena.json) |
 | J-Town: A Visual Novel | 249859 | [249859-j-town-a-visual-novel.json](./249859-j-town-a-visual-novel.json) |
 | J. J. Squawkers | 40193 | [40193-j-j-squawkers.json](./40193-j-j-squawkers.json) |
