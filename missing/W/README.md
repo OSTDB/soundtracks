@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whatnever | 348782 | [348782-whatnever.json](./348782-whatnever.json) |
 | Wheat and Wrath | 400319 | [400319-wheat-and-wrath.json](./400319-wheat-and-wrath.json) |
 | Wheat Harvest Paradox | 257409 | [257409-wheat-harvest-paradox.json](./257409-wheat-harvest-paradox.json) |
+| Wheel Dismount | 101951 | [101951-wheel-dismount.json](./101951-wheel-dismount.json) |
 | Wheel of Fortune | 194569 | [194569-wheel-of-fortune.json](./194569-wheel-of-fortune.json) |
 | Wheel of Fortune | 198964 | [198964-wheel-of-fortune.json](./198964-wheel-of-fortune.json) |
 | Wheel of Fortune | 220131 | [220131-wheel-of-fortune.json](./220131-wheel-of-fortune.json) |
@@ -1325,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Which hand? | 379866 | [379866-which-hand.json](./379866-which-hand.json) |
 | Which Naruto Character Are You? | 230540 | [230540-which-naruto-character-are-you.json](./230540-which-naruto-character-are-you.json) |
 | Which Way Out | 104088 | [104088-which-way-out.json](./104088-which-way-out.json) |
+| Whiff of Fear | 101978 | [101978-whiff-of-fear.json](./101978-whiff-of-fear.json) |
 | Whiffle Blasters | 116850 | [116850-whiffle-blasters.json](./116850-whiffle-blasters.json) |
 | While Mom is Away | 312552 | [312552-while-mom-is-away.json](./312552-while-mom-is-away.json) |
 | While Sleeping | 312553 | [312553-while-sleeping.json](./312553-while-sleeping.json) |
@@ -2212,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood Nuts & Bolts Puzzle | 331341 | [331341-wood-nuts-and-bolts-puzzle.json](./331341-wood-nuts-and-bolts-puzzle.json) |
 | Wood Puzzle | 208942 | [208942-wood-puzzle.json](./208942-wood-puzzle.json) |
 | Wood'N'Destroy | 396367 | [396367-woodndestroy.json](./396367-woodndestroy.json) |
+| Woodclicker | 101929 | [101929-woodclicker.json](./101929-woodclicker.json) |
 | Woodcutter Simulator 2013 | 16900 | [16900-woodcutter-simulator-2013.json](./16900-woodcutter-simulator-2013.json) |
 | Wooden House | 23726 | [23726-wooden-house.json](./23726-wooden-house.json) |
 | Wooden Nickel | 115663 | [115663-wooden-nickel.json](./115663-wooden-nickel.json) |
