@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reborn in Wild City | 111073 | [111073-reborn-in-wild-city.json](./111073-reborn-in-wild-city.json) |
 | Reborn Online | 135807 | [135807-reborn-online.json](./135807-reborn-online.json) |
 | Reborn: Examine Again | 357812 | [357812-reborn-examine-again.json](./357812-reborn-examine-again.json) |
+| ReBounce | 66368 | [66368-rebounce.json](./66368-rebounce.json) |
 | Rebound Ball | 127222 | [127222-rebound-ball.json](./127222-rebound-ball.json) |
 | Rebound Balls | 240210 | [240210-rebound-balls.json](./240210-rebound-balls.json) |
 | Rebound Raver | 147363 | [147363-rebound-raver.json](./147363-rebound-raver.json) |
