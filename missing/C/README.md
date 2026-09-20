@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Desktop Game | 301412 | [301412-casual-desktop-game.json](./301412-casual-desktop-game.json) |
 | Casual Fight | 283309 | [283309-casual-fight.json](./283309-casual-fight.json) |
 | Casual Fishing | 230842 | [230842-casual-fishing.json](./230842-casual-fishing.json) |
+| Casual Games Collection | 98819 | [98819-casual-games-collection.json](./98819-casual-games-collection.json) |
 | Casual Sport Series: Racket Sports Bundle | 396915 | [396915-casual-sport-series-racket-sports-bundle.json](./396915-casual-sport-series-racket-sports-bundle.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
 | Cat | 309516 | [309516-cat.json](./309516-cat.json) |
@@ -3432,6 +3433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Rush | 336594 | [336594-coin-rush.json](./336594-coin-rush.json) |
 | Coin Slots Live | 386856 | [386856-coin-slots-live.json](./386856-coin-slots-live.json) |
 | Coin Toss Rainbow Simulator | 272871 | [272871-coin-toss-rainbow-simulator.json](./272871-coin-toss-rainbow-simulator.json) |
+| Coin-Op Kingdom | 98766 | [98766-coin-op-kingdom.json](./98766-coin-op-kingdom.json) |
 | Coin$ Pusher Ltd | 408089 | [408089-coin-pusher-ltd.json](./408089-coin-pusher-ltd.json) |
 | CoinLife | 133824 | [133824-coinlife.json](./133824-coinlife.json) |
 | Coinon | 104014 | [104014-coinon.json](./104014-coinon.json) |
@@ -5430,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Go | 303106 | [303106-crossword-go.json](./303106-crossword-go.json) |
 | Crossword Puzzle | 286096 | [286096-crossword-puzzle.json](./286096-crossword-puzzle.json) |
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
+| Crossy Crash | 98779 | [98779-crossy-crash.json](./98779-crossy-crash.json) |
 | Crossy Road Arcade | 228422 | [228422-crossy-road-arcade.json](./228422-crossy-road-arcade.json) |
 | Crossy Zombie | 213388 | [213388-crossy-zombie.json](./213388-crossy-zombie.json) |
 | Crow | 17848 | [17848-crow.json](./17848-crow.json) |
