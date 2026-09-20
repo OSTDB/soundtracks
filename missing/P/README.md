@@ -5426,6 +5426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Master | 49951 | [49951-puzzle-master.json](./49951-puzzle-master.json) |
 | Puzzle Master 2 | 145642 | [145642-puzzle-master-2.json](./145642-puzzle-master-2.json) |
 | Puzzle Masters | 104657 | [104657-puzzle-masters.json](./104657-puzzle-masters.json) |
+| Puzzle Myth | 93374 | [93374-puzzle-myth.json](./93374-puzzle-myth.json) |
 | Puzzle Nintama Rantarou GB | 97863 | [97863-puzzle-nintama-rantarou-gb.json](./97863-puzzle-nintama-rantarou-gb.json) |
 | Puzzle Parasite | 366826 | [366826-puzzle-parasite.json](./366826-puzzle-parasite.json) |
 | Puzzle Park | 215882 | [215882-puzzle-park.json](./215882-puzzle-park.json) |
