@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazo Puyo: Arle no Roux | 45258 | [45258-nazo-puyo-arle-no-roux.json](./45258-nazo-puyo-arle-no-roux.json) |
 | Nazo to Kioku no Labyrinth: Somewhere, elsewhere | 172743 | [172743-nazo-to-kioku-no-labyrinth-somewhere-elsewhere.json](./172743-nazo-to-kioku-no-labyrinth-somewhere-elsewhere.json) |
 | Nazo Waku Yakata: Oto no Ma ni Ma ni | 66047 | [66047-nazo-waku-yakata-oto-no-ma-ni-ma-ni.json](./66047-nazo-waku-yakata-oto-no-ma-ni-ma-ni.json) |
+| Nazobmplay | 80194 | [80194-nazobmplay.json](./80194-nazobmplay.json) |
 | Nazojike Quiz! | 349943 | [349943-nazojike-quiz.json](./349943-nazojike-quiz.json) |
 | Nazoler Land Dai 2-gou | 41400 | [41400-nazoler-land-dai-2-gou.json](./41400-nazoler-land-dai-2-gou.json) |
 | Nazoler Land Dai 3-gou | 41399 | [41399-nazoler-land-dai-3-gou.json](./41399-nazoler-land-dai-3-gou.json) |
@@ -1196,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Kicker 13 | 62170 | [62170-nfl-kicker-13.json](./62170-nfl-kicker-13.json) |
 | NFL Kicker 15 | 58179 | [58179-nfl-kicker-15.json](./58179-nfl-kicker-15.json) |
 | NFL Pro Era II | 266797 | [266797-nfl-pro-era-ii.json](./266797-nfl-pro-era-ii.json) |
+| NFL Pro League Football | 80204 | [80204-nfl-pro-league-football.json](./80204-nfl-pro-league-football.json) |
 | NFL Quarterback 13 | 62169 | [62169-nfl-quarterback-13.json](./62169-nfl-quarterback-13.json) |
 | NFL Quarterback 15 | 74417 | [74417-nfl-quarterback-15.json](./74417-nfl-quarterback-15.json) |
 | NFL Quarterback Club | 114754 | [114754-nfl-quarterback-club.json](./114754-nfl-quarterback-club.json) |
