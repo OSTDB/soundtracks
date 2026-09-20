@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jayce | 177500 | [177500-jayce.json](./177500-jayce.json) |
 | Jazz and Faust | 127331 | [127331-jazz-and-faust.json](./127331-jazz-and-faust.json) |
 | Jazz It Up | 177994 | [177994-jazz-it-up.json](./177994-jazz-it-up.json) |
+| Jazz Jackrabbit 2: Holiday Hare 98 | 71761 | [71761-jazz-jackrabbit-2-holiday-hare-98.json](./71761-jazz-jackrabbit-2-holiday-hare-98.json) |
 | Jazz Jackrabbit 2: The Secret Files | 51347 | [51347-jazz-jackrabbit-2-the-secret-files.json](./51347-jazz-jackrabbit-2-the-secret-files.json) |
 | Jazz Jackrabbit 3 | 72667 | [72667-jazz-jackrabbit-3.json](./72667-jazz-jackrabbit-3.json) |
 | Jazz Lightning : Castle Dungeons | 126644 | [126644-jazz-lightning-castle-dungeons.json](./126644-jazz-lightning-castle-dungeons.json) |
