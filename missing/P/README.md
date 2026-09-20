@@ -2287,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
 | Pirate Escape | 323506 | [323506-pirate-escape.json](./323506-pirate-escape.json) |
 | Pirate Fishing | 200173 | [200173-pirate-fishing.json](./200173-pirate-fishing.json) |
+| Pirate Flight | 100601 | [100601-pirate-flight.json](./100601-pirate-flight.json) |
 | Pirate Gold | 92460 | [92460-pirate-gold.json](./92460-pirate-gold.json) |
 | Pirate Guy | 363429 | [363429-pirate-guy.json](./363429-pirate-guy.json) |
 | Pirate Hunter | 62695 | [62695-pirate-hunter.json](./62695-pirate-hunter.json) |
