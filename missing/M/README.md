@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magyarock VR | 198443 | [198443-magyarock-vr.json](./198443-magyarock-vr.json) |
 | Mah Jong Quest | 131399 | [131399-mah-jong-quest.json](./131399-mah-jong-quest.json) |
 | Mah Jong Solitaire 2 | 86699 | [86699-mah-jong-solitaire-2.json](./86699-mah-jong-solitaire-2.json) |
+| Mah Jongg Solitaire | 85816 | [85816-mah-jongg-solitaire.json](./85816-mah-jongg-solitaire.json) |
 | Mah-jongg Puzzle Pai-Sen | 124787 | [124787-mah-jongg-puzzle-pai-sen.json](./124787-mah-jongg-puzzle-pai-sen.json) |
 | MahJah | 232542 | [232542-mahjah.json](./232542-mahjah.json) |
 | Mahjick: The Realm Taker | 265129 | [265129-mahjick-the-realm-taker.json](./265129-mahjick-the-realm-taker.json) |
@@ -1795,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math-A-Thon 2: The Mystery of the Missing Laboratory | 209547 | [209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json](./209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json) |
 | Mathable | 232533 | [232533-mathable.json](./232533-mathable.json) |
 | Mathbits | 360568 | [360568-mathbits.json](./360568-mathbits.json) |
+| Mathe Pfiffikus | 85859 | [85859-mathe-pfiffikus.json](./85859-mathe-pfiffikus.json) |
 | Mathe Pfiffikus 1 - 1995 | 81404 | [81404-mathe-pfiffikus-1-1995.json](./81404-mathe-pfiffikus-1-1995.json) |
 | Mathe Pfiffikus 2 | 81403 | [81403-mathe-pfiffikus-2.json](./81403-mathe-pfiffikus-2.json) |
 | Mathe Pfiffikus 2009 | 81394 | [81394-mathe-pfiffikus-2009.json](./81394-mathe-pfiffikus-2009.json) |
@@ -4880,6 +4882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Run: Downfall of the Empire | 258524 | [258524-monster-run-downfall-of-the-empire.json](./258524-monster-run-downfall-of-the-empire.json) |
 | Monster Saga | 362269 | [362269-monster-saga.json](./362269-monster-saga.json) |
 | Monster Salon Manager | 362366 | [362366-monster-salon-manager.json](./362366-monster-salon-manager.json) |
+| Monster School | 85881 | [85881-monster-school.json](./85881-monster-school.json) |
 | Monster Seek | 168219 | [168219-monster-seek.json](./168219-monster-seek.json) |
 | Monster shooter | 108951 | [108951-monster-shooter.json](./108951-monster-shooter.json) |
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
