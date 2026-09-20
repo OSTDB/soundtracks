@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakar Desert Rally: Legends Pack | 263054 | [263054-dakar-desert-rally-legends-pack.json](./263054-dakar-desert-rally-legends-pack.json) |
 | Dakar Desert Rally: SnowRunner Cars Pack | 278428 | [278428-dakar-desert-rally-snowrunner-cars-pack.json](./278428-dakar-desert-rally-snowrunner-cars-pack.json) |
 | Dakar Moto | 123057 | [123057-dakar-moto.json](./123057-dakar-moto.json) |
+| Dakar Series: Desafío Ruta 40 | 114792 | [114792-dakar-series-desafio-ruta-40.json](./114792-dakar-series-desafio-ruta-40.json) |
 | Dakkan Shirei Majo Dungeon: Nushi to Tamenara Yaraneba Narumai | 222513 | [222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json](./222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json) |
 | Dakota Winchester's Adventures 2 | 310557 | [310557-dakota-winchesters-adventures-2.json](./310557-dakota-winchesters-adventures-2.json) |
 | Dakota Winchester's Adventures 3 | 310558 | [310558-dakota-winchesters-adventures-3.json](./310558-dakota-winchesters-adventures-3.json) |
@@ -730,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dasshutsu Girls | 220308 | [220308-dasshutsu-girls.json](./220308-dasshutsu-girls.json) |
 | Dasshutsu Seijin!? Deru Deru Deru de | 222383 | [222383-dasshutsu-seijin-deru-deru-deru-de.json](./222383-dasshutsu-seijin-deru-deru-deru-de.json) |
 | Dasshutsu Youki no Jukai: Nehan no Mori | 138749 | [138749-dasshutsu-youki-no-jukai-nehan-no-mori.json](./138749-dasshutsu-youki-no-jukai-nehan-no-mori.json) |
+| Data | 114781 | [114781-data.json](./114781-data.json) |
 | Data Ball | 104031 | [104031-data-ball.json](./104031-data-ball.json) |
 | Data Delivery Agents | 241974 | [241974-data-delivery-agents.json](./241974-data-delivery-agents.json) |
 | Data Doesn't Lie | 322386 | [322386-data-doesnt-lie.json](./322386-data-doesnt-lie.json) |
@@ -1366,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathball | 182452 | [182452-deathball.json](./182452-deathball.json) |
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
 | Deathbound: Accepted by Death | 320735 | [320735-deathbound-accepted-by-death.json](./320735-deathbound-accepted-by-death.json) |
+| Deathbulge: Battle of the Bands | 114778 | [114778-deathbulge-battle-of-the-bands.json](./114778-deathbulge-battle-of-the-bands.json) |
 | Deathgarden: Bloodharvest | 119923 | [119923-deathgarden-bloodharvest.json](./119923-deathgarden-bloodharvest.json) |
 | DeathGearX | 312728 | [312728-deathgearx.json](./312728-deathgearx.json) |
 | Deathless | 140360 | [140360-deathless.json](./140360-deathless.json) |
