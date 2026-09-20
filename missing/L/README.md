@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Legends: 2025 Season Two - Spirit Blossom Beyond | 342170 | [342170-league-of-legends-2025-season-two-spirit-blossom-beyond.json](./342170-league-of-legends-2025-season-two-spirit-blossom-beyond.json) |
 | League of Light | 47277 | [47277-league-of-light.json](./47277-league-of-light.json) |
 | League of Light: Dark Omens & League of Light: Wicked Harvest | 201815 | [201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json](./201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json) |
+| League of Light: Edge of Justice | 108245 | [108245-league-of-light-edge-of-justice.json](./108245-league-of-light-edge-of-justice.json) |
 | League of Stickman: (Dreamsky)Warriors | 105871 | [105871-league-of-stickman-dreamsky-warriors.json](./105871-league-of-stickman-dreamsky-warriors.json) |
 | League Space | 173220 | [173220-league-space.json](./173220-league-space.json) |
 | League Star | 100870 | [100870-league-star.json](./100870-league-star.json) |
@@ -1469,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Box | 295903 | [295903-light-box.json](./295903-light-box.json) |
 | Light Bringer | 199516 | [199516-light-bringer.json](./199516-light-bringer.json) |
 | Light Catcher | 100226 | [100226-light-catcher.json](./100226-light-catcher.json) |
+| Light Chaser: End of Dawn | 108269 | [108269-light-chaser-end-of-dawn.json](./108269-light-chaser-end-of-dawn.json) |
 | Light Cubed | 121443 | [121443-light-cubed.json](./121443-light-cubed.json) |
 | Light De Deux | 338264 | [338264-light-de-deux.json](./338264-light-de-deux.json) |
 | Light Fall | 36620 | [36620-light-fall.json](./36620-light-fall.json) |
