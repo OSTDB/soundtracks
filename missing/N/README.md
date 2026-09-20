@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nagai | 386265 | [386265-nagai.json](./386265-nagai.json) |
 | Nagaisan | 316995 | [316995-nagaisan.json](./316995-nagaisan.json) |
 | Nagamaki Grind | 180689 | [180689-nagamaki-grind.json](./180689-nagamaki-grind.json) |
+| Nagato - Ninja Flying and Fighting Jungle Wars | 97134 | [97134-nagato-ninja-flying-and-fighting-jungle-wars.json](./97134-nagato-ninja-flying-and-fighting-jungle-wars.json) |
 | Nagayami Nights | 286128 | [286128-nagayami-nights.json](./286128-nagayami-nights.json) |
 | Naheulbeuk's Dungeon Master | 252851 | [252851-naheulbeuks-dungeon-master.json](./252851-naheulbeuks-dungeon-master.json) |
 | Naheulbeuk's Dungeon Master: Steward Edition | 277029 | [277029-naheulbeuks-dungeon-master-steward-edition.json](./277029-naheulbeuks-dungeon-master-steward-edition.json) |
@@ -2316,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NugQuest | 341488 | [341488-nugquest.json](./341488-nugquest.json) |
 | Nui Goes to Town! | 354410 | [354410-nui-goes-to-town.json](./354410-nui-goes-to-town.json) |
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
+| Nuke Destroyer | 97158 | [97158-nuke-destroyer.json](./97158-nuke-destroyer.json) |
 | Nuke Mine | 311467 | [311467-nuke-mine.json](./311467-nuke-mine.json) |
 | Nuketris | 145666 | [145666-nuketris.json](./145666-nuketris.json) |
 | NukiTashi | 201846 | [201846-nukitashi.json](./201846-nukitashi.json) |
