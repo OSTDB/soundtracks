@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Games In 1: The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy | 86055 | [86055-2-games-in-1-the-spongebob-squarepants-movie-spongebob-squarepants-and-friends-in-freeze-frame-frenzy.json](./86055-2-games-in-1-the-spongebob-squarepants-movie-spongebob-squarepants-and-friends-in-freeze-frame-frenzy.json) |
 | 2 Games in 1!: Archer Maclean's Mercury / Mercury Meltdown | 138010 | [138010-2-games-in-1-archer-macleans-mercury-mercury-meltdown.json](./138010-2-games-in-1-archer-macleans-mercury-mercury-meltdown.json) |
 | 2 Games in One Double Pack \| Dora the Explorer: Pirate Pig's Treasure & Dora the Explorer: Super Star Adventures | 91427 | [91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json](./91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json) |
+| 2 in 1 Collection: Culture of Asia + The Mystery of Pirates Treasure | 93970 | [93970-2-in-1-collection-culture-of-asia-the-mystery-of-pirates-treasure.json](./93970-2-in-1-collection-culture-of-asia-the-mystery-of-pirates-treasure.json) |
 | 2 in 1 I Asterix & Obelix: Bash Them All! + Asterix & Obelix XXL | 82102 | [82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json](./82102-2-in-1-i-asterix-and-obelix-bash-them-all-asterix-and-obelix-xxl.json) |
 | 2 in 1 Workout | 232565 | [232565-2-in-1-workout.json](./232565-2-in-1-workout.json) |
 | 2 in 1: Hot Wheels Stunt Track Challenge & Hot Wheels World Race | 84193 | [84193-2-in-1-hot-wheels-stunt-track-challenge-and-hot-wheels-world-race.json](./84193-2-in-1-hot-wheels-stunt-track-challenge-and-hot-wheels-world-race.json) |
@@ -458,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2K Games Pack | 319564 | [319564-2k-games-pack.json](./319564-2k-games-pack.json) |
 | 2K Shells | 328033 | [328033-2k-shells.json](./328033-2k-shells.json) |
 | 2K1X Subzero Heroes | 304215 | [304215-2k1x-subzero-heroes.json](./304215-2k1x-subzero-heroes.json) |
+| 2Moons | 93995 | [93995-2moons.json](./93995-2moons.json) |
 | 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
 | 2weistein: The Curse of the Red Dragon | 147439 | [147439-2weistein-the-curse-of-the-red-dragon.json](./147439-2weistein-the-curse-of-the-red-dragon.json) |
 | 2weistein: The Curse of the Red Dragon 2 | 166158 | [166158-2weistein-the-curse-of-the-red-dragon-2.json](./166158-2weistein-the-curse-of-the-red-dragon-2.json) |
