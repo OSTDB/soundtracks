@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DA-VI-NC1 | 360596 | [360596-da-vi-nc1.json](./360596-da-vi-nc1.json) |
 | Da! Russian Quiz | 161258 | [161258-da-russian-quiz.json](./161258-da-russian-quiz.json) |
 | Daardoa | 151190 | [151190-daardoa.json](./151190-daardoa.json) |
+| Dabado | 109431 | [109431-dabado.json](./109431-dabado.json) |
 | Dabda | 90615 | [90615-dabda.json](./90615-dabda.json) |
 | DaCapo Delivers | 152832 | [152832-dacapo-delivers.json](./152832-dacapo-delivers.json) |
 | Dacholer | 196168 | [196168-dacholer.json](./196168-dacholer.json) |
@@ -1613,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend the Castle | 381735 | [381735-defend-the-castle.json](./381735-defend-the-castle.json) |
 | Defend the Fort | 173267 | [173267-defend-the-fort.json](./173267-defend-the-fort.json) |
 | Defend the Rook | 152300 | [152300-defend-the-rook.json](./152300-defend-the-rook.json) |
+| Defend the Tower: Castle Defence Element | 109486 | [109486-defend-the-tower-castle-defence-element.json](./109486-defend-the-tower-castle-defence-element.json) |
 | Defend Tower: TD strategy | 130908 | [130908-defend-tower-td-strategy.json](./130908-defend-tower-td-strategy.json) |
 | Defend Your Crypt | 33130 | [33130-defend-your-crypt.json](./33130-defend-your-crypt.json) |
 | Defend Your Kingdom | 41972 | [41972-defend-your-kingdom.json](./41972-defend-your-kingdom.json) |
@@ -3084,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's DuckTales | 145268 | [145268-disneys-ducktales.json](./145268-disneys-ducktales.json) |
 | Disney's DuckTales 2 | 6488 | [6488-disneys-ducktales-2.json](./6488-disneys-ducktales-2.json) |
 | Disney's Goofy's Fun House | 43895 | [43895-disneys-goofys-fun-house.json](./43895-disneys-goofys-fun-house.json) |
+| Disney's Hot Shots: Timon and Pumbaa's Jungle Pinball | 109480 | [109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json](./109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json) |
 | Disney's Magic Artist Studio | 51281 | [51281-disneys-magic-artist-studio.json](./51281-disneys-magic-artist-studio.json) |
 | Disney's Magical Quest 2 Starring Mickey & Minnie | 188634 | [188634-disneys-magical-quest-2-starring-mickey-and-minnie.json](./188634-disneys-magical-quest-2-starring-mickey-and-minnie.json) |
 | Disney's Mahjongg | 142431 | [142431-disneys-mahjongg.json](./142431-disneys-mahjongg.json) |
@@ -3427,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogfight | 147831 | [147831-dogfight.json](./147831-dogfight.json) |
 | Dogfight 2187 | 13599 | [13599-dogfight-2187.json](./13599-dogfight-2187.json) |
 | Dogfight: Battle in the Skies | 65464 | [65464-dogfight-battle-in-the-skies.json](./65464-dogfight-battle-in-the-skies.json) |
+| Dogfight! | 109451 | [109451-dogfight.json](./109451-dogfight.json) |
 | Dogfighter: WW2 | 219033 | [219033-dogfighter-ww2.json](./219033-dogfighter-ww2.json) |
 | Dogforce: Seasons | 179161 | [179161-dogforce-seasons.json](./179161-dogforce-seasons.json) |
 | Doggie Ninja: The Burning Strikers | 147785 | [147785-doggie-ninja-the-burning-strikers.json](./147785-doggie-ninja-the-burning-strikers.json) |
