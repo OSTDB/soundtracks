@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenon Valkyrie | 29949 | [29949-xenon-valkyrie.json](./29949-xenon-valkyrie.json) |
 | Xenonauts 2 | 19408 | [19408-xenonauts-2.json](./19408-xenonauts-2.json) |
 | Xenopathy | 183043 | [183043-xenopathy.json](./183043-xenopathy.json) |
+| Xenos Defense | 121480 | [121480-xenos-defense.json](./121480-xenos-defense.json) |
 | Xenosaga Episode II: Jenseits von Gut und Böse | 1228 | [1228-xenosaga-episode-ii-jenseits-von-gut-und-bose.json](./1228-xenosaga-episode-ii-jenseits-von-gut-und-bose.json) |
 | Xenosaga I & II | 26805 | [26805-xenosaga-i-and-ii.json](./26805-xenosaga-i-and-ii.json) |
 | Xenosaga II to III: A Missing Year | 240497 | [240497-xenosaga-ii-to-iii-a-missing-year.json](./240497-xenosaga-ii-to-iii-a-missing-year.json) |
@@ -207,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XenoTown | 192884 | [192884-xenotown.json](./192884-xenotown.json) |
 | Xenowar | 70390 | [70390-xenowar.json](./70390-xenowar.json) |
 | XenoWorld: The Rondeau of Astra | 236951 | [236951-xenoworld-the-rondeau-of-astra.json](./236951-xenoworld-the-rondeau-of-astra.json) |
+| Xentripetal Force | 121466 | [121466-xentripetal-force.json](./121466-xentripetal-force.json) |
 | Xeodrifter | 8506 | [8506-xeodrifter.json](./8506-xeodrifter.json) |
 | Xerd no Densetsu | 298848 | [298848-xerd-no-densetsu.json](./298848-xerd-no-densetsu.json) |
 | Xerd no Densetsu 2: Xerd!! Gishin no Ryouiki | 298851 | [298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json](./298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json) |
