@@ -3677,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colours and Symbols | 173240 | [173240-colours-and-symbols.json](./173240-colours-and-symbols.json) |
 | Colum and His Friends | 118346 | [118346-colum-and-his-friends.json](./118346-colum-and-his-friends.json) |
 | Columbo's Mystery Capers | 343251 | [343251-columbos-mystery-capers.json](./343251-columbos-mystery-capers.json) |
+| Column on the Sea | 122186 | [122186-column-on-the-sea.json](./122186-column-on-the-sea.json) |
 | Column Taker | 114962 | [114962-column-taker.json](./114962-column-taker.json) |
 | Columns | 4446 | [4446-columns.json](./4446-columns.json) |
 | Columns GB: Tezuka Osamu Characters | 72044 | [72044-columns-gb-tezuka-osamu-characters.json](./72044-columns-gb-tezuka-osamu-characters.json) |
@@ -4901,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Climber 2000 | 77399 | [77399-crazy-climber-2000.json](./77399-crazy-climber-2000.json) |
 | Crazy Cop | 39676 | [39676-crazy-cop.json](./39676-crazy-cop.json) |
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
+| Crazy Critters: Combat Cats | 122198 | [122198-crazy-critters-combat-cats.json](./122198-crazy-critters-combat-cats.json) |
 | Crazy Cursed Grandma's House | 272393 | [272393-crazy-cursed-grandmas-house.json](./272393-crazy-cursed-grandmas-house.json) |
 | Crazy Dessert Maker | 98928 | [98928-crazy-dessert-maker.json](./98928-crazy-dessert-maker.json) |
 | Crazy Driller | 175259 | [175259-crazy-driller.json](./175259-crazy-driller.json) |
