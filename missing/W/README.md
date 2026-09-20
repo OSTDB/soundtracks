@@ -2296,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Krispies | 71497 | [71497-word-krispies.json](./71497-word-krispies.json) |
 | Word Laces | 125820 | [125820-word-laces.json](./125820-word-laces.json) |
 | Word Land - Crosswords | 106955 | [106955-word-land-crosswords.json](./106955-word-land-crosswords.json) |
+| Word Link | 97131 | [97131-word-link.json](./97131-word-link.json) |
 | Word Logic by Powgi | 85495 | [85495-word-logic-by-powgi.json](./85495-word-logic-by-powgi.json) |
 | Word Maker | 377140 | [377140-word-maker.json](./377140-word-maker.json) |
 | Word Mess | 91982 | [91982-word-mess.json](./91982-word-mess.json) |
