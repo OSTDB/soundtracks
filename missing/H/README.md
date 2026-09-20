@@ -2497,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hisui no Kikai | 186839 | [186839-hisui-no-kikai.json](./186839-hisui-no-kikai.json) |
 | Hit | 208059 | [208059-hit.json](./208059-hit.json) |
 | Hit | 358300 | [358300-hit.json](./358300-hit.json) |
+| Hit & Run VR | 116828 | [116828-hit-and-run-vr.json](./116828-hit-and-run-vr.json) |
 | Hit 2 | 193871 | [193871-hit-2.json](./193871-hit-2.json) |
 | Hit A Plane | 325066 | [325066-hit-a-plane.json](./325066-hit-a-plane.json) |
 | Hit and Boom | 211811 | [211811-hit-and-boom.json](./211811-hit-and-boom.json) |
