@@ -6340,6 +6340,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst Mobile | 237366 | [237366-myst-mobile.json](./237366-myst-mobile.json) |
 | Myst: Through the Ages Collection | 230816 | [230816-myst-through-the-ages-collection.json](./230816-myst-through-the-ages-collection.json) |
 | MyStar | 126595 | [126595-mystar.json](./126595-mystar.json) |
+| Mystereet: Detective Vacation | 122855 | [122855-mystereet-detective-vacation.json](./122855-mystereet-detective-vacation.json) |
+| Mystereet: Other Side of Church | 122856 | [122856-mystereet-other-side-of-church.json](./122856-mystereet-other-side-of-church.json) |
 | Mystereet: Yasogami Kaoru no Chousen! | 137025 | [137025-mystereet-yasogami-kaoru-no-chousen.json](./137025-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mystereet: Yasogami Kaoru no Chousen! | 326951 | [326951-mystereet-yasogami-kaoru-no-chousen.json](./326951-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mysteria ~Occult Shadows~ | 108626 | [108626-mysteria-occult-shadows.json](./108626-mysteria-occult-shadows.json) |
