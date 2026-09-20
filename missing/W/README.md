@@ -1106,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WGT Baseball | 64370 | [64370-wgt-baseball.json](./64370-wgt-baseball.json) |
 | WGT Golf | 64369 | [64369-wgt-golf.json](./64369-wgt-golf.json) |
 | Whac-A-Mole | 49347 | [49347-whac-a-mole.json](./49347-whac-a-mole.json) |
+| Whack 'em All! | 91750 | [91750-whack-em-all.json](./91750-whack-em-all.json) |
 | Whack A Rat VR | 147427 | [147427-whack-a-rat-vr.json](./147427-whack-a-rat-vr.json) |
 | Whack a Vote: Hammering the Polls | 30785 | [30785-whack-a-vote-hammering-the-polls.json](./30785-whack-a-vote-hammering-the-polls.json) |
 | Whack First!: Fight the Moles | 212268 | [212268-whack-first-fight-the-moles.json](./212268-whack-first-fight-the-moles.json) |
@@ -1176,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Different? | 388013 | [388013-whats-different.json](./388013-whats-different.json) |
 | What's Her face | 201271 | [201271-whats-her-face.json](./201271-whats-her-face.json) |
 | What's in the Attic? | 140593 | [140593-whats-in-the-attic.json](./140593-whats-in-the-attic.json) |
+| What's Michael? | 91763 | [91763-whats-michael.json](./91763-whats-michael.json) |
 | What's on Agenda | 302508 | [302508-whats-on-agenda.json](./302508-whats-on-agenda.json) |
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
 | What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
