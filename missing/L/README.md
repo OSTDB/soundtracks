@@ -1638,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | limentional | 296930 | [296930-limentional.json](./296930-limentional.json) |
 | Limerick: Cadence Mansion | 224743 | [224743-limerick-cadence-mansion.json](./224743-limerick-cadence-mansion.json) |
 | Limes 235 | 415103 | [415103-limes-235.json](./415103-limes-235.json) |
+| Liminal | 105106 | [105106-liminal.json](./105106-liminal.json) |
 | Liminal Border Part III | 315044 | [315044-liminal-border-part-iii.json](./315044-liminal-border-part-iii.json) |
 | Liminal Death | 340921 | [340921-liminal-death.json](./340921-liminal-death.json) |
 | Liminal Doom | 252724 | [252724-liminal-doom.json](./252724-liminal-doom.json) |
