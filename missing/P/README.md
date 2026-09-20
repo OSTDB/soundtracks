@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Athlon | 320352 | [320352-pac-athlon.json](./320352-pac-athlon.json) |
 | Pac-Attack | 239188 | [239188-pac-attack.json](./239188-pac-attack.json) |
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
+| Pac-Guy | 64678 | [64678-pac-guy.json](./64678-pac-guy.json) |
 | Pac-Maine | 79229 | [79229-pac-maine.json](./79229-pac-maine.json) |
 | Pac-Man | 213944 | [213944-pac-man.json](./213944-pac-man.json) |
 | Pac-Man | 218442 | [218442-pac-man.json](./218442-pac-man.json) |
@@ -69,6 +70,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
+| Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
+| Pac-Man Social | 64682 | [64682-pac-man-social.json](./64682-pac-man-social.json) |
 | Pac-Man World | 84190 | [84190-pac-man-world.json](./84190-pac-man-world.json) |
 | Pac-Man World 2 | 134428 | [134428-pac-man-world-2.json](./134428-pac-man-world-2.json) |
 | Pac-Man World 2 Re-Pac | 358530 | [358530-pac-man-world-2-re-pac.json](./358530-pac-man-world-2-re-pac.json) |
@@ -1818,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photon Blade | 404979 | [404979-photon-blade.json](./404979-photon-blade.json) |
 | Photon Cube | 104057 | [104057-photon-cube.json](./104057-photon-cube.json) |
 | Photon Flux | 68703 | [68703-photon-flux.json](./68703-photon-flux.json) |
+| Photon: The Ultimate Game on Planet Earth | 64657 | [64657-photon-the-ultimate-game-on-planet-earth.json](./64657-photon-the-ultimate-game-on-planet-earth.json) |
 | Photons | 288759 | [288759-photons.json](./288759-photons.json) |
 | Photopia | 9513 | [9513-photopia.json](./9513-photopia.json) |
 | Photos with Mario | 61573 | [61573-photos-with-mario.json](./61573-photos-with-mario.json) |
@@ -3214,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket-Run Pool | 102094 | [102094-pocket-run-pool.json](./102094-pocket-run-pool.json) |
 | Pocketing the Ball | 294126 | [294126-pocketing-the-ball.json](./294126-pocketing-the-ball.json) |
 | Pocketman Teal | 181232 | [181232-pocketman-teal.json](./181232-pocketman-teal.json) |
+| PocketSports Football HD | 64684 | [64684-pocketsports-football-hd.json](./64684-pocketsports-football-hd.json) |
 | PocketWarwick | 64345 | [64345-pocketwarwick.json](./64345-pocketwarwick.json) |
 | Poco's Maze Adventure | 319190 | [319190-pocos-maze-adventure.json](./319190-pocos-maze-adventure.json) |
 | Pocohontos | 225732 | [225732-pocohontos.json](./225732-pocohontos.json) |
@@ -5233,6 +5238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulp Race: Daft Enigma Fighter | 382780 | [382780-pulp-race-daft-enigma-fighter.json](./382780-pulp-race-daft-enigma-fighter.json) |
 | Pulsar | 167797 | [167797-pulsar.json](./167797-pulsar.json) |
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
+| Pulsar no Hikari | 64649 | [64649-pulsar-no-hikari.json](./64649-pulsar-no-hikari.json) |
 | Pulse | 177421 | [177421-pulse.json](./177421-pulse.json) |
 | Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
 | Pulse | 392257 | [392257-pulse.json](./392257-pulse.json) |
