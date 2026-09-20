@@ -8812,6 +8812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Memo | 201842 | [201842-strange-memo.json](./201842-strange-memo.json) |
 | Strange New Tides | 339660 | [339660-strange-new-tides.json](./339660-strange-new-tides.json) |
 | Strange Night | 32248 | [32248-strange-night.json](./32248-strange-night.json) |
+| Strange Night ll | 81778 | [81778-strange-night-ll.json](./81778-strange-night-ll.json) |
 | Strange Nightmares | 161895 | [161895-strange-nightmares.json](./161895-strange-nightmares.json) |
 | Strange Parallel: Sele | 291245 | [291245-strange-parallel-sele.json](./291245-strange-parallel-sele.json) |
 | Strange Pet World | 366308 | [366308-strange-pet-world.json](./366308-strange-pet-world.json) |
