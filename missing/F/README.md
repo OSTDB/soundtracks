@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Chess: Ultimate Edition | 212340 | [212340-family-chess-ultimate-edition.json](./212340-family-chess-ultimate-edition.json) |
 | Family Dinner | 377162 | [377162-family-dinner.json](./377162-family-dinner.json) |
 | Family Farm Seaside | 104104 | [104104-family-farm-seaside.json](./104104-family-farm-seaside.json) |
+| Family Fest Presents Movie Games | 70671 | [70671-family-fest-presents-movie-games.json](./70671-family-fest-presents-movie-games.json) |
 | Family Feud | 159244 | [159244-family-feud.json](./159244-family-feud.json) |
 | Family Feud | 320767 | [320767-family-feud.json](./320767-family-feud.json) |
 | Family Feud | 37112 | [37112-family-feud.json](./37112-family-feud.json) |
