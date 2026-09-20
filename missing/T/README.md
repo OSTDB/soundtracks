@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taz Cebula's Brides of Vampira: The Circle of Seven | 273402 | [273402-taz-cebulas-brides-of-vampira-the-circle-of-seven.json](./273402-taz-cebulas-brides-of-vampira-the-circle-of-seven.json) |
 | Taz-Mania | 365672 | [365672-taz-mania.json](./365672-taz-mania.json) |
 | Taz-Mania | 8066 | [8066-taz-mania.json](./8066-taz-mania.json) |
+| Taz-Mania | 83904 | [83904-taz-mania.json](./83904-taz-mania.json) |
 | Tazmanian Devil: Munching Madness | 49967 | [49967-tazmanian-devil-munching-madness.json](./49967-tazmanian-devil-munching-madness.json) |
 | TBH: Task Bar Hero | 372510 | [372510-tbh-task-bar-hero.json](./372510-tbh-task-bar-hero.json) |
 | TBS Mini-Golf | 246098 | [246098-tbs-mini-golf.json](./246098-tbs-mini-golf.json) |
@@ -1911,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Spider-Man | 203143 | [203143-the-amazing-spider-man.json](./203143-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 254522 | [254522-the-amazing-spider-man.json](./254522-the-amazing-spider-man.json) |
 | The Amazing Spider-Man 2 | 196243 | [196243-the-amazing-spider-man-2.json](./196243-the-amazing-spider-man-2.json) |
+| The Amazing Spider-Man 2 | 83901 | [83901-the-amazing-spider-man-2.json](./83901-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man in the Villain Round-Up | 220113 | [220113-the-amazing-spider-man-in-the-villain-round-up.json](./220113-the-amazing-spider-man-in-the-villain-round-up.json) |
 | The Amazing Spider-Man: Countdown to Doom | 230280 | [230280-the-amazing-spider-man-countdown-to-doom.json](./230280-the-amazing-spider-man-countdown-to-doom.json) |
 | The Amazing World of Gumball Mini Games | 352173 | [352173-the-amazing-world-of-gumball-mini-games.json](./352173-the-amazing-world-of-gumball-mini-games.json) |
@@ -3447,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heiress | 51604 | [51604-the-heiress.json](./51604-the-heiress.json) |
 | The Heist | 120316 | [120316-the-heist.json](./120316-the-heist.json) |
 | The Heist in LS | 328220 | [328220-the-heist-in-ls.json](./328220-the-heist-in-ls.json) |
+| The Heist mobile | 83914 | [83914-the-heist-mobile.json](./83914-the-heist-mobile.json) |
 | The Heist of the Argonaut Limited | 305347 | [305347-the-heist-of-the-argonaut-limited.json](./305347-the-heist-of-the-argonaut-limited.json) |
 | The Hell in I | 301830 | [301830-the-hell-in-i.json](./301830-the-hell-in-i.json) |
 | The Hell Inside | 286082 | [286082-the-hell-inside.json](./286082-the-hell-inside.json) |
@@ -3595,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Hulk: The Pantheon Saga | 45512 | [45512-the-incredible-hulk-the-pantheon-saga.json](./45512-the-incredible-hulk-the-pantheon-saga.json) |
 | The Incredible Machine | 4243 | [4243-the-incredible-machine.json](./4243-the-incredible-machine.json) |
 | The Incredible Machine 3 | 9263 | [9263-the-incredible-machine-3.json](./9263-the-incredible-machine-3.json) |
+| The Incredible VR Game Show | 83946 | [83946-the-incredible-vr-game-show.json](./83946-the-incredible-vr-game-show.json) |
 | The Incredibles: Mission Incredible | 213375 | [213375-the-incredibles-mission-incredible.json](./213375-the-incredibles-mission-incredible.json) |
 | The Incredibles: When Danger Calls | 18261 | [18261-the-incredibles-when-danger-calls.json](./18261-the-incredibles-when-danger-calls.json) |
 | The Indigo Initiative | 358848 | [358848-the-indigo-initiative.json](./358848-the-indigo-initiative.json) |
@@ -5383,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smiling Man: Remake | 275143 | [275143-the-smiling-man-remake.json](./275143-the-smiling-man-remake.json) |
 | The Smugglers | 191187 | [191187-the-smugglers.json](./191187-the-smugglers.json) |
 | The Smurfs | 80521 | [80521-the-smurfs.json](./80521-the-smurfs.json) |
+| The Smurfs 2 | 83900 | [83900-the-smurfs-2.json](./83900-the-smurfs-2.json) |
 | The Smurfs Bakery | 248647 | [248647-the-smurfs-bakery.json](./248647-the-smurfs-bakery.json) |
 | The Smurfs Collection | 75142 | [75142-the-smurfs-collection.json](./75142-the-smurfs-collection.json) |
 | The Smurfs Dreams: Cosmic Costume | 316238 | [316238-the-smurfs-dreams-cosmic-costume.json](./316238-the-smurfs-dreams-cosmic-costume.json) |
@@ -8998,6 +9003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Chase | 148367 | [148367-train-chase.json](./148367-train-chase.json) |
 | Train Conductor World | 109578 | [109578-train-conductor-world.json](./109578-train-conductor-world.json) |
 | Train Crew | 182347 | [182347-train-crew.json](./182347-train-crew.json) |
+| Train Crisis | 83943 | [83943-train-crisis.json](./83943-train-crisis.json) |
 | Train Defense | 105139 | [105139-train-defense.json](./105139-train-defense.json) |
 | Train Driver Journey 2 - Iberia Interior | 88222 | [88222-train-driver-journey-2-iberia-interior.json](./88222-train-driver-journey-2-iberia-interior.json) |
 | Train Driver Journey 3 - Waldabavale to Karrah Bay | 100617 | [100617-train-driver-journey-3-waldabavale-to-karrah-bay.json](./100617-train-driver-journey-3-waldabavale-to-karrah-bay.json) |
