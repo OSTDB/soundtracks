@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V!be Bunny | 404975 | [404975-v-be-bunny.json](./404975-v-be-bunny.json) |
 | V.D.O | 201774 | [201774-v-d-o.json](./201774-v-d-o.json) |
 | V.G. Re-birth | 180273 | [180273-v-g-re-birth.json](./180273-v-g-re-birth.json) |
+| V.G.: Variable Geo | 98254 | [98254-v-g-variable-geo.json](./98254-v-g-variable-geo.json) |
 | V.O.I.D.: Vexation of Infinite Dungeons | 245886 | [245886-v-o-i-d-vexation-of-infinite-dungeons.json](./245886-v-o-i-d-vexation-of-infinite-dungeons.json) |
 | V.O.S.S. Turbo | 215918 | [215918-v-o-s-s-turbo.json](./215918-v-o-s-s-turbo.json) |
 | V.T. | 103838 | [103838-v-t.json](./103838-v-t.json) |
@@ -76,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagabones | 363949 | [363949-vagabones.json](./363949-vagabones.json) |
 | Vagan Attack | 71499 | [71499-vagan-attack.json](./71499-vagan-attack.json) |
 | Vagnerun | 324339 | [324339-vagnerun.json](./324339-vagnerun.json) |
+| Vagrant Fighter FX | 98259 | [98259-vagrant-fighter-fx.json](./98259-vagrant-fighter-fx.json) |
 | Vagrant Hearts | 25470 | [25470-vagrant-hearts.json](./25470-vagrant-hearts.json) |
 | Vagrant Hearts Zero | 28938 | [28938-vagrant-hearts-zero.json](./28938-vagrant-hearts-zero.json) |
 | Vagrant Shifter | 286129 | [286129-vagrant-shifter.json](./286129-vagrant-shifter.json) |
@@ -582,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VFR Real Scenery: Birmingham, Coventry & Wolverhampton | 71464 | [71464-vfr-real-scenery-birmingham-coventry-and-wolverhampton.json](./71464-vfr-real-scenery-birmingham-coventry-and-wolverhampton.json) |
 | VFR Real Scenery: London | 70963 | [70963-vfr-real-scenery-london.json](./70963-vfr-real-scenery-london.json) |
 | VFR Real Scenery: South East England | 68680 | [68680-vfr-real-scenery-south-east-england.json](./68680-vfr-real-scenery-south-east-england.json) |
+| VG II: The Bout of Cabalistic Goddess | 98253 | [98253-vg-ii-the-bout-of-cabalistic-goddess.json](./98253-vg-ii-the-bout-of-cabalistic-goddess.json) |
 | VG Trivia Challenge | 334650 | [334650-vg-trivia-challenge.json](./334650-vg-trivia-challenge.json) |
 | VGA Planets | 135285 | [135285-vga-planets.json](./135285-vga-planets.json) |
 | VGA Sharks | 92965 | [92965-vga-sharks.json](./92965-vga-sharks.json) |
