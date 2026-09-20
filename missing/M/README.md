@@ -5172,6 +5172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
 | Mortality... Please | 417597 | [417597-mortality-please.json](./417597-mortality-please.json) |
 | Mortanum | 403658 | [403658-mortanum.json](./403658-mortanum.json) |
+| Mortar Howl | 105091 | [105091-mortar-howl.json](./105091-mortar-howl.json) |
 | Mortarmen | 259019 | [259019-mortarmen.json](./259019-mortarmen.json) |
 | Mortars VR | 81138 | [81138-mortars-vr.json](./81138-mortars-vr.json) |
 | Morterra | 177015 | [177015-morterra.json](./177015-morterra.json) |
@@ -5902,6 +5903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutants: Genesis | 220144 | [220144-mutants-genesis.json](./220144-mutants-genesis.json) |
 | Mutate! Fight! Purr! | 381640 | [381640-mutate-fight-purr.json](./381640-mutate-fight-purr.json) |
 | Mutation Madness | 264690 | [264690-mutation-madness.json](./264690-mutation-madness.json) |
+| Mutation Phase | 105093 | [105093-mutation-phase.json](./105093-mutation-phase.json) |
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
 | Mutrix | 253449 | [253449-mutrix.json](./253449-mutrix.json) |
