@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Golden Quest | 300854 | [300854-pirates-golden-quest.json](./300854-pirates-golden-quest.json) |
 | Pirates Kingdom | 323170 | [323170-pirates-kingdom.json](./323170-pirates-kingdom.json) |
 | Pirates Odyssey | 270122 | [270122-pirates-odyssey.json](./270122-pirates-odyssey.json) |
+| Pirates of Black Cove: Sink 'Em All | 120210 | [120210-pirates-of-black-cove-sink-em-all.json](./120210-pirates-of-black-cove-sink-em-all.json) |
 | Pirates of Donkey Island | 276321 | [276321-pirates-of-donkey-island.json](./276321-pirates-of-donkey-island.json) |
 | Pirates of First Star | 115668 | [115668-pirates-of-first-star.json](./115668-pirates-of-first-star.json) |
 | Pirates of the Barbary Coast | 38929 | [38929-pirates-of-the-barbary-coast.json](./38929-pirates-of-the-barbary-coast.json) |
@@ -2908,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Do Not Climb on the Dinosaurs | 383970 | [383970-please-do-not-climb-on-the-dinosaurs.json](./383970-please-do-not-climb-on-the-dinosaurs.json) |
 | Please Don't Understand Me | 394861 | [394861-please-dont-understand-me.json](./394861-please-dont-understand-me.json) |
 | Please Duology | 189040 | [189040-please-duology.json](./189040-please-duology.json) |
+| Please Find Me | 120173 | [120173-please-find-me.json](./120173-please-find-me.json) |
 | Please Follow | 134681 | [134681-please-follow.json](./134681-please-follow.json) |
 | Please Ignore The Anomalies | 412277 | [412277-please-ignore-the-anomalies.json](./412277-please-ignore-the-anomalies.json) |
 | Please Leave a Message | 259577 | [259577-please-leave-a-message.json](./259577-please-leave-a-message.json) |
@@ -4494,8 +4496,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
 | Project Canopy | 144090 | [144090-project-canopy.json](./144090-project-canopy.json) |
 | Project Carrot | 335324 | [335324-project-carrot.json](./335324-project-carrot.json) |
+| Project CARS: Aston Martin Track Expansion | 120193 | [120193-project-cars-aston-martin-track-expansion.json](./120193-project-cars-aston-martin-track-expansion.json) |
+| Project CARS: Audi Ruapuna Speedway Expansion | 120196 | [120196-project-cars-audi-ruapuna-speedway-expansion.json](./120196-project-cars-audi-ruapuna-speedway-expansion.json) |
+| Project CARS: Classic Lotus Track Expansion | 120191 | [120191-project-cars-classic-lotus-track-expansion.json](./120191-project-cars-classic-lotus-track-expansion.json) |
 | Project Cars: Digital Edition | 218478 | [218478-project-cars-digital-edition.json](./218478-project-cars-digital-edition.json) |
+| Project CARS: Japanese Car Pack | 120192 | [120192-project-cars-japanese-car-pack.json](./120192-project-cars-japanese-car-pack.json) |
 | Project CARS: Logitech Livery Pack | 353279 | [353279-project-cars-logitech-livery-pack.json](./353279-project-cars-logitech-livery-pack.json) |
+| Project CARS: Modified Car Pack | 120195 | [120195-project-cars-modified-car-pack.json](./120195-project-cars-modified-car-pack.json) |
+| Project CARS: Old Vs New Car Pack | 120194 | [120194-project-cars-old-vs-new-car-pack.json](./120194-project-cars-old-vs-new-car-pack.json) |
+| Project CARS: Pagani Nürburgring Combined Track Expansion | 120187 | [120187-project-cars-pagani-nurburgring-combined-track-expansion.json](./120187-project-cars-pagani-nurburgring-combined-track-expansion.json) |
+| Project CARS: Racing Icons Car Pack | 120197 | [120197-project-cars-racing-icons-car-pack.json](./120197-project-cars-racing-icons-car-pack.json) |
+| Project CARS: Renault Sport Car Pack | 120190 | [120190-project-cars-renault-sport-car-pack.json](./120190-project-cars-renault-sport-car-pack.json) |
+| Project CARS: Stanceworks Track Expansion | 120189 | [120189-project-cars-stanceworks-track-expansion.json](./120189-project-cars-stanceworks-track-expansion.json) |
+| Project CARS: US Race Car Pack | 120188 | [120188-project-cars-us-race-car-pack.json](./120188-project-cars-us-race-car-pack.json) |
 | Project Cartaphilus | 266796 | [266796-project-cartaphilus.json](./266796-project-cartaphilus.json) |
 | Project Castlevania Z | 337172 | [337172-project-castlevania-z.json](./337172-project-castlevania-z.json) |
 | Project Cataclysm | 393653 | [393653-project-cataclysm.json](./393653-project-cataclysm.json) |
@@ -5366,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles for Smart: Birds | 110978 | [110978-puzzles-for-smart-birds.json](./110978-puzzles-for-smart-birds.json) |
 | Puzzles for smart: Cats | 104017 | [104017-puzzles-for-smart-cats.json](./104017-puzzles-for-smart-cats.json) |
 | Puzzles for smart: Dogs | 107848 | [107848-puzzles-for-smart-dogs.json](./107848-puzzles-for-smart-dogs.json) |
+| PuzzleTales: Svalbard | 120202 | [120202-puzzletales-svalbard.json](./120202-puzzletales-svalbard.json) |
 | Puzzletronics Digital Infinite | 157039 | [157039-puzzletronics-digital-infinite.json](./157039-puzzletronics-digital-infinite.json) |
 | Puzzline | 224541 | [224541-puzzline.json](./224541-puzzline.json) |
 | Puzzling Peaks EXE | 158690 | [158690-puzzling-peaks-exe.json](./158690-puzzling-peaks-exe.json) |
