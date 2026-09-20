@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fadó | 124188 | [124188-fado.json](./124188-fado.json) |
 | Fae Farm: Coasts of Croakia | 278681 | [278681-fae-farm-coasts-of-croakia.json](./278681-fae-farm-coasts-of-croakia.json) |
 | Fae Line | 297072 | [297072-fae-line.json](./297072-fae-line.json) |
+| Faeria: Chronicles of Gagana | 117519 | [117519-faeria-chronicles-of-gagana.json](./117519-faeria-chronicles-of-gagana.json) |
 | Faeria: Game + All DLC Bundle | 238217 | [238217-faeria-game-all-dlc-bundle.json](./238217-faeria-game-all-dlc-bundle.json) |
 | Faeria: Premium Edition | 238045 | [238045-faeria-premium-edition.json](./238045-faeria-premium-edition.json) |
 | Faery: Legends of Avalon | 10295 | [10295-faery-legends-of-avalon.json](./10295-faery-legends-of-avalon.json) |
@@ -633,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Sliding Puzzle | 166638 | [166638-fantasy-sliding-puzzle.json](./166638-fantasy-sliding-puzzle.json) |
 | Fantasy Smith VR | 115558 | [115558-fantasy-smith-vr.json](./115558-fantasy-smith-vr.json) |
 | Fantasy Squad W | 109575 | [109575-fantasy-squad-w.json](./109575-fantasy-squad-w.json) |
+| Fantasy Stars: Battle Arena | 117489 | [117489-fantasy-stars-battle-arena.json](./117489-fantasy-stars-battle-arena.json) |
 | Fantasy Story: Lord of Darkness | 200117 | [200117-fantasy-story-lord-of-darkness.json](./200117-fantasy-story-lord-of-darkness.json) |
 | Fantasy Strike | 45111 | [45111-fantasy-strike.json](./45111-fantasy-strike.json) |
 | Fantasy Strike: Core Pack | 169312 | [169312-fantasy-strike-core-pack.json](./169312-fantasy-strike-core-pack.json) |
@@ -675,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry VR | 138767 | [138767-far-cry-vr.json](./138767-far-cry-vr.json) |
 | Far Cry: Bronze Pack | 223557 | [223557-far-cry-bronze-pack.json](./223557-far-cry-bronze-pack.json) |
 | Far Cry: Delta Sector | 51227 | [51227-far-cry-delta-sector.json](./51227-far-cry-delta-sector.json) |
+| Far Cry: Primal - Wenja Pack | 117513 | [117513-far-cry-primal-wenja-pack.json](./117513-far-cry-primal-wenja-pack.json) |
 | Far Cry: Silver Pack | 223558 | [223558-far-cry-silver-pack.json](./223558-far-cry-silver-pack.json) |
 | Far East of Eden II: Manji-maru | 71489 | [71489-far-east-of-eden-ii-manji-maru.json](./71489-far-east-of-eden-ii-manji-maru.json) |
 | Far East of Eden III: Namida | 80576 | [80576-far-east-of-eden-iii-namida.json](./80576-far-east-of-eden-iii-namida.json) |
@@ -1850,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefly Witch | 275345 | [275345-firefly-witch.json](./275345-firefly-witch.json) |
 | FireForce Online | 240907 | [240907-fireforce-online.json](./240907-fireforce-online.json) |
 | Firefrost | 286091 | [286091-firefrost.json](./286091-firefrost.json) |
+| Firegirl: Hack 'n Splash Rescue | 117527 | [117527-firegirl-hack-n-splash-rescue.json](./117527-firegirl-hack-n-splash-rescue.json) |
 | Firehawk: Swarmbreakers | 323362 | [323362-firehawk-swarmbreakers.json](./323362-firehawk-swarmbreakers.json) |
 | FireJumpers | 200126 | [200126-firejumpers.json](./200126-firejumpers.json) |
 | FireJumpers Inferno | 159719 | [159719-firejumpers-inferno.json](./159719-firejumpers-inferno.json) |
@@ -2017,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Kings | 92522 | [92522-fishing-kings.json](./92522-fishing-kings.json) |
 | Fishing Koushien II | 123045 | [123045-fishing-koushien-ii.json](./123045-fishing-koushien-ii.json) |
 | Fishing Legend | 193891 | [193891-fishing-legend.json](./193891-fishing-legend.json) |
+| Fishing Mania | 117504 | [117504-fishing-mania.json](./117504-fishing-mania.json) |
 | Fishing Maniacs 1 TD | 96735 | [96735-fishing-maniacs-1-td.json](./96735-fishing-maniacs-1-td.json) |
 | Fishing Master | 247007 | [247007-fishing-master.json](./247007-fishing-master.json) |
 | Fishing Master World Tour | 50630 | [50630-fishing-master-world-tour.json](./50630-fishing-master-world-tour.json) |
