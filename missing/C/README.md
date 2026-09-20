@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Road | 158229 | [158229-chaos-road.json](./158229-chaos-road.json) |
 | Chaos Starter | 116876 | [116876-chaos-starter.json](./116876-chaos-starter.json) |
 | Chaos Theory Pirates | 130193 | [130193-chaos-theory-pirates.json](./130193-chaos-theory-pirates.json) |
+| Chaos Village | 114822 | [114822-chaos-village.json](./114822-chaos-village.json) |
 | Chaos War | 203933 | [203933-chaos-war.json](./203933-chaos-war.json) |
 | Chaos Warrior | 415933 | [415933-chaos-warrior.json](./415933-chaos-warrior.json) |
 | Chaos Wars | 21051 | [21051-chaos-wars.json](./21051-chaos-wars.json) |
@@ -2709,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Content Creator Pack: Skyscrapers | 226302 | [226302-cities-skylines-content-creator-pack-skyscrapers.json](./226302-cities-skylines-content-creator-pack-skyscrapers.json) |
 | Cities: Skylines - Financial Districts | 226303 | [226303-cities-skylines-financial-districts.json](./226303-cities-skylines-financial-districts.json) |
 | Cities: Skylines - Hotels & Retreats | 249189 | [249189-cities-skylines-hotels-and-retreats.json](./249189-cities-skylines-hotels-and-retreats.json) |
+| Cities: Skylines - Mayor's Edition | 114766 | [114766-cities-skylines-mayors-edition.json](./114766-cities-skylines-mayors-edition.json) |
 | Cities: Skylines - Nintendo Switch Edition | 109464 | [109464-cities-skylines-nintendo-switch-edition.json](./109464-cities-skylines-nintendo-switch-edition.json) |
 | Cities: Skylines - Parklife Edition | 205268 | [205268-cities-skylines-parklife-edition.json](./205268-cities-skylines-parklife-edition.json) |
 | Cities: Skylines - Piano Tunes Radio | 257084 | [257084-cities-skylines-piano-tunes-radio.json](./257084-cities-skylines-piano-tunes-radio.json) |
@@ -2808,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CityDriver: Ferdinand Habanero Turbo | 252237 | [252237-citydriver-ferdinand-habanero-turbo.json](./252237-citydriver-ferdinand-habanero-turbo.json) |
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
 | Cityquiz.io | 305324 | [305324-cityquiz-io.json](./305324-cityquiz-io.json) |
+| Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
 | CityZen | 392256 | [392256-cityzen.json](./392256-cityzen.json) |
 | Ciudad Alfombra | 251848 | [251848-ciudad-alfombra.json](./251848-ciudad-alfombra.json) |
 | Ciudad Anómala de Buenos Aires | 271206 | [271206-ciudad-anomala-de-buenos-aires.json](./271206-ciudad-anomala-de-buenos-aires.json) |
@@ -3839,6 +3842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CommanderTux | 320161 | [320161-commandertux.json](./320161-commandertux.json) |
 | Commando | 282623 | [282623-commando.json](./282623-commando.json) |
 | Commando Dog | 119550 | [119550-commando-dog.json](./119550-commando-dog.json) |
+| Commando Fodder: War Dogs | 114825 | [114825-commando-fodder-war-dogs.json](./114825-commando-fodder-war-dogs.json) |
 | Commando Jack | 9801 | [9801-commando-jack.json](./9801-commando-jack.json) |
 | Commando Jack Respawn | 136393 | [136393-commando-jack-respawn.json](./136393-commando-jack-respawn.json) |
 | Commando Raid | 11153 | [11153-commando-raid.json](./11153-commando-raid.json) |
@@ -6003,6 +6007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuter Kaizo World | 312344 | [312344-cuter-kaizo-world.json](./312344-cuter-kaizo-world.json) |
 | Cuthbert and the Golden Chalice | 123067 | [123067-cuthbert-and-the-golden-chalice.json](./123067-cuthbert-and-the-golden-chalice.json) |
 | Cuthbert Enters the Tombs of Doom | 123061 | [123061-cuthbert-enters-the-tombs-of-doom.json](./123061-cuthbert-enters-the-tombs-of-doom.json) |
+| Cuthbert in the Jungle | 114769 | [114769-cuthbert-in-the-jungle.json](./114769-cuthbert-in-the-jungle.json) |
 | Cutics | 184564 | [184564-cutics.json](./184564-cutics.json) |
 | Cutie Smile: Kimi to Issho ni | 398994 | [398994-cutie-smile-kimi-to-issho-ni.json](./398994-cutie-smile-kimi-to-issho-ni.json) |
 | Cutie Tutti Frutti | 207534 | [207534-cutie-tutti-frutti.json](./207534-cutie-tutti-frutti.json) |
