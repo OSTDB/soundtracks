@@ -1618,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Vendetta | 191756 | [191756-final-vendetta.json](./191756-final-vendetta.json) |
 | Final War | 368510 | [368510-final-war.json](./368510-final-war.json) |
 | Final World | 90646 | [90646-final-world.json](./90646-final-world.json) |
+| FinalAdventure | 118811 | [118811-finaladventure.json](./118811-finaladventure.json) |
 | Finalloop | 348779 | [348779-finalloop.json](./348779-finalloop.json) |
 | Financial Football | 91919 | [91919-financial-football.json](./91919-financial-football.json) |
 | Financial Freedom | 397824 | [397824-financial-freedom.json](./397824-financial-freedom.json) |
@@ -3916,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen State | 16935 | [16935-frozen-state.json](./16935-frozen-state.json) |
 | Frozen Sword: Countermark RE | 216474 | [216474-frozen-sword-countermark-re.json](./216474-frozen-sword-countermark-re.json) |
 | Frozen Synapse 2 | 18435 | [18435-frozen-synapse-2.json](./18435-frozen-synapse-2.json) |
+| Frozen Synapse: Prime Soundtrack Edition | 118844 | [118844-frozen-synapse-prime-soundtrack-edition.json](./118844-frozen-synapse-prime-soundtrack-edition.json) |
 | Frozen Time | 256864 | [256864-frozen-time.json](./256864-frozen-time.json) |
 | FrozenPizza | 270096 | [270096-frozenpizza.json](./270096-frozenpizza.json) |
 | Frozzic's Revenge | 57603 | [57603-frozzics-revenge.json](./57603-frozzics-revenge.json) |
