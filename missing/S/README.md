@@ -7260,6 +7260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Gothic | 338216 | [338216-spring-gothic.json](./338216-spring-gothic.json) |
 | Spring Hell | 266770 | [266770-spring-hell.json](./266770-spring-hell.json) |
 | Spring in Summer | 291052 | [291052-spring-in-summer.json](./291052-spring-in-summer.json) |
+| Spring It! | 84536 | [84536-spring-it.json](./84536-spring-it.json) |
 | Spring Mosaics | 415910 | [415910-spring-mosaics.json](./415910-spring-mosaics.json) |
 | Spring Ninja | 344936 | [344936-spring-ninja.json](./344936-spring-ninja.json) |
 | Spring of Decadence | 103478 | [103478-spring-of-decadence.json](./103478-spring-of-decadence.json) |
