@@ -5514,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 3: Evil of the Caribbean | 124825 | [124825-dungeons-3-evil-of-the-caribbean.json](./124825-dungeons-3-evil-of-the-caribbean.json) |
 | Dungeons 4 | 215915 | [215915-dungeons-4.json](./215915-dungeons-4.json) |
 | Dungeons 4: The Good, the Bad and the Evil | 309104 | [309104-dungeons-4-the-good-the-bad-and-the-evil.json](./309104-dungeons-4-the-good-the-bad-and-the-evil.json) |
+| Dungeons and Dinners | 110117 | [110117-dungeons-and-dinners.json](./110117-dungeons-and-dinners.json) |
 | Dungeons and Dragons: Daggerdale | 15127 | [15127-dungeons-and-dragons-daggerdale.json](./15127-dungeons-and-dragons-daggerdale.json) |
 | Dungeons and Monsters | 268751 | [268751-dungeons-and-monsters.json](./268751-dungeons-and-monsters.json) |
 | Dungeons and Myths | 226816 | [226816-dungeons-and-myths.json](./226816-dungeons-and-myths.json) |
@@ -5629,6 +5630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Land | 284905 | [284905-dwarf-land.json](./284905-dwarf-land.json) |
 | Dwarf Legacy | 338297 | [338297-dwarf-legacy.json](./338297-dwarf-legacy.json) |
 | Dwarf Looter | 274030 | [274030-dwarf-looter.json](./274030-dwarf-looter.json) |
+| Dwarf Swordsman | 110160 | [110160-dwarf-swordsman.json](./110160-dwarf-swordsman.json) |
 | Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
 | Dwarfs & Witch | 346088 | [346088-dwarfs-and-witch.json](./346088-dwarfs-and-witch.json) |
 | Dwarfs Descent | 350420 | [350420-dwarfs-descent.json](./350420-dwarfs-descent.json) |
