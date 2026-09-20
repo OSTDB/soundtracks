@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radirgy 2 | 254477 | [254477-radirgy-2.json](./254477-radirgy-2.json) |
 | Radirgy De Gojaru! | 222407 | [222407-radirgy-de-gojaru.json](./222407-radirgy-de-gojaru.json) |
 | Radirgy Noa Massive | 7152 | [7152-radirgy-noa-massive.json](./7152-radirgy-noa-massive.json) |
+| Radish | 122180 | [122180-radish.json](./122180-radish.json) |
 | Radish Kid Ascension | 180824 | [180824-radish-kid-ascension.json](./180824-radish-kid-ascension.json) |
 | Radium Lux | 349392 | [349392-radium-lux.json](./349392-radium-lux.json) |
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
@@ -1671,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
 | Rescue Rover Collection | 150692 | [150692-rescue-rover-collection.json](./150692-rescue-rover-collection.json) |
 | Rescue Team | 36019 | [36019-rescue-team.json](./36019-rescue-team.json) |
+| Rescue Team 8 | 122212 | [122212-rescue-team-8.json](./122212-rescue-team-8.json) |
 | Rescue Team: Attack of the Atom - Collector's Edition | 337626 | [337626-rescue-team-attack-of-the-atom-collectors-edition.json](./337626-rescue-team-attack-of-the-atom-collectors-edition.json) |
 | Rescue Team: Evil Genius | 122409 | [122409-rescue-team-evil-genius.json](./122409-rescue-team-evil-genius.json) |
 | Rescue Team: Heist of the Century | 195206 | [195206-rescue-team-heist-of-the-century.json](./195206-rescue-team-heist-of-the-century.json) |
@@ -2462,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Teenage Mutant Ninja Turtles: Ninja Run | 146251 | [146251-rise-of-the-teenage-mutant-ninja-turtles-ninja-run.json](./146251-rise-of-the-teenage-mutant-ninja-turtles-ninja-run.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Power Up! | 146285 | [146285-rise-of-the-teenage-mutant-ninja-turtles-power-up.json](./146285-rise-of-the-teenage-mutant-ninja-turtles-power-up.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Road Riot | 146291 | [146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json](./146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json) |
+| Rise of the Tomb Raider: Deluxe Edition | 122190 | [122190-rise-of-the-tomb-raider-deluxe-edition.json](./122190-rise-of-the-tomb-raider-deluxe-edition.json) |
 | Rise of the Village Hero | 296484 | [296484-rise-of-the-village-hero.json](./296484-rise-of-the-village-hero.json) |
 | Rise of the White Sun: The Yellow Way | 312030 | [312030-rise-of-the-white-sun-the-yellow-way.json](./312030-rise-of-the-white-sun-the-yellow-way.json) |
 | Rise of Warlords | 155475 | [155475-rise-of-warlords.json](./155475-rise-of-warlords.json) |
@@ -3332,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooms | 388930 | [388930-rooms.json](./388930-rooms.json) |
 | Rooms of Dread | 232027 | [232027-rooms-of-dread.json](./232027-rooms-of-dread.json) |
 | Rooms: The Unsolvable Puzzle | 19018 | [19018-rooms-the-unsolvable-puzzle.json](./19018-rooms-the-unsolvable-puzzle.json) |
+| Roopocket | 122171 | [122171-roopocket.json](./122171-roopocket.json) |
 | Roost | 329111 | [329111-roost.json](./329111-roost.json) |
 | Rooster | 62722 | [62722-rooster.json](./62722-rooster.json) |
 | Rooster II | 62696 | [62696-rooster-ii.json](./62696-rooster-ii.json) |
@@ -3522,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Life: Hard to be a Queen | 120410 | [120410-royal-life-hard-to-be-a-queen.json](./120410-royal-life-hard-to-be-a-queen.json) |
 | Royal Mahjong | 64443 | [64443-royal-mahjong.json](./64443-royal-mahjong.json) |
 | Royal Mahjong King's Journey | 195763 | [195763-royal-mahjong-kings-journey.json](./195763-royal-mahjong-kings-journey.json) |
+| Royal Merchant | 122167 | [122167-royal-merchant.json](./122167-royal-merchant.json) |
 | Royal Merge! | 296078 | [296078-royal-merge.json](./296078-royal-merge.json) |
 | Royal Pit | 409557 | [409557-royal-pit.json](./409557-royal-pit.json) |
 | Royal Pro Wrestling: Jikkyou Live!! | 37203 | [37203-royal-pro-wrestling-jikkyou-live.json](./37203-royal-pro-wrestling-jikkyou-live.json) |
@@ -3807,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runes of Legend | 326617 | [326617-runes-of-legend.json](./326617-runes-of-legend.json) |
 | Runes of Magic: Dragon Adventure Pack | 169974 | [169974-runes-of-magic-dragon-adventure-pack.json](./169974-runes-of-magic-dragon-adventure-pack.json) |
 | Runes of the Abyss | 348246 | [348246-runes-of-the-abyss.json](./348246-runes-of-the-abyss.json) |
+| Runes Saga: Puzzle Adventure | 122208 | [122208-runes-saga-puzzle-adventure.json](./122208-runes-saga-puzzle-adventure.json) |
 | RuneScape Quests: One Piercing Note | 108958 | [108958-runescape-quests-one-piercing-note.json](./108958-runescape-quests-one-piercing-note.json) |
 | RuneScape: Dragonwilds | 337712 | [337712-runescape-dragonwilds.json](./337712-runescape-dragonwilds.json) |
 | Runeseekers | 381699 | [381699-runeseekers.json](./381699-runeseekers.json) |
