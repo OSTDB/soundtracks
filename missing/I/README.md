@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy Mystery | 69891 | [69891-i-spy-mystery.json](./69891-i-spy-mystery.json) |
 | I Spy Spooky Mansion | 19844 | [19844-i-spy-spooky-mansion.json](./19844-i-spy-spooky-mansion.json) |
 | I Spy Treasure Hunt | 73852 | [73852-i-spy-treasure-hunt.json](./73852-i-spy-treasure-hunt.json) |
+| I Spy With Lola HD: A Fun Word Game for Kids! | 108270 | [108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json](./108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json) |
 | I Suppose | 367503 | [367503-i-suppose.json](./367503-i-suppose.json) |
 | I Tap Pirate. A Sea Survival Adventure Game | 103535 | [103535-i-tap-pirate-a-sea-survival-adventure-game.json](./103535-i-tap-pirate-a-sea-survival-adventure-game.json) |
 | I Think | 301265 | [301265-i-think.json](./301265-i-think.json) |
@@ -1444,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instant Sports Summer Games | 139969 | [139969-instant-sports-summer-games.json](./139969-instant-sports-summer-games.json) |
 | Instant Sports Winter Games | 163828 | [163828-instant-sports-winter-games.json](./163828-instant-sports-winter-games.json) |
 | Instant Sports: All-Stars | 195094 | [195094-instant-sports-all-stars.json](./195094-instant-sports-all-stars.json) |
+| Instant Tennis | 108255 | [108255-instant-tennis.json](./108255-instant-tennis.json) |
 | Instarion | 260972 | [260972-instarion.json](./260972-instarion.json) |
 | InstaTok Tycoon | 301837 | [301837-instatok-tycoon.json](./301837-instatok-tycoon.json) |
 | Instead; Ghost Suburb | 280911 | [280911-instead-ghost-suburb.json](./280911-instead-ghost-suburb.json) |
