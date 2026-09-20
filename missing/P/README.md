@@ -1593,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmagoria | 221 | [221-phantasmagoria.json](./221-phantasmagoria.json) |
 | Phantasmat: The Dread of Oakville | 101551 | [101551-phantasmat-the-dread-of-oakville.json](./101551-phantasmat-the-dread-of-oakville.json) |
 | Phantasmat: The Dread of Oakville - Collector's Edition | 110156 | [110156-phantasmat-the-dread-of-oakville-collectors-edition.json](./110156-phantasmat-the-dread-of-oakville-collectors-edition.json) |
+| Phantasmat: The Endless Night HD | 108258 | [108258-phantasmat-the-endless-night-hd.json](./108258-phantasmat-the-endless-night-hd.json) |
 | Phantasy Series Reference Opus | 285442 | [285442-phantasy-series-reference-opus.json](./285442-phantasy-series-reference-opus.json) |
 | Phantasy Star Classics | 136870 | [136870-phantasy-star-classics.json](./136870-phantasy-star-classics.json) |
 | Phantasy Star Nova | 42674 | [42674-phantasy-star-nova.json](./42674-phantasy-star-nova.json) |
@@ -1785,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano Magic 2018 Music Tiles 2 | 88903 | [88903-piano-magic-2018-music-tiles-2.json](./88903-piano-magic-2018-music-tiles-2.json) |
 | Piano Monsters | 175373 | [175373-piano-monsters.json](./175373-piano-monsters.json) |
 | Piano Play 3D | 99031 | [99031-piano-play-3d.json](./99031-piano-play-3d.json) |
+| Piano Star! | 108266 | [108266-piano-star.json](./108266-piano-star.json) |
 | Piano Teacher | 84826 | [84826-piano-teacher.json](./84826-piano-teacher.json) |
 | Piano Tiles 2: Don't Tap...2 | 220173 | [220173-piano-tiles-2-dont-tap-2.json](./220173-piano-tiles-2-dont-tap-2.json) |
 | Piano: Learn and Play - Complete + | 328827 | [328827-piano-learn-and-play-complete.json](./328827-piano-learn-and-play-complete.json) |
@@ -2330,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pissed Off: Peeing Simulator | 326262 | [326262-pissed-off-peeing-simulator.json](./326262-pissed-off-peeing-simulator.json) |
 | PISTA Motorsport | 251855 | [251855-pista-motorsport.json](./251855-pista-motorsport.json) |
 | Pistols at Dawn | 92502 | [92502-pistols-at-dawn.json](./92502-pistols-at-dawn.json) |
+| Pit Blocks 3D | 108282 | [108282-pit-blocks-3d.json](./108282-pit-blocks-3d.json) |
 | Pit of 100 Wonders | 394348 | [394348-pit-of-100-wonders.json](./394348-pit-of-100-wonders.json) |
 | Pit of Ascension | 155986 | [155986-pit-of-ascension.json](./155986-pit-of-ascension.json) |
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
@@ -3591,6 +3594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Craft | 205661 | [205661-pony-craft.json](./205661-pony-craft.json) |
 | Pony Friends | 47974 | [47974-pony-friends.json](./47974-pony-friends.json) |
 | Pony Island 2: Panda Circus | 279613 | [279613-pony-island-2-panda-circus.json](./279613-pony-island-2-panda-circus.json) |
+| Pony Sisters Baby Horse Care | 108261 | [108261-pony-sisters-baby-horse-care.json](./108261-pony-sisters-baby-horse-care.json) |
 | Pony Sisters Pet Hospital | 101584 | [101584-pony-sisters-pet-hospital.json](./101584-pony-sisters-pet-hospital.json) |
 | Pony Snow Run | 96704 | [96704-pony-snow-run.json](./96704-pony-snow-run.json) |
 | Pony vs. Pony | 379982 | [379982-pony-vs-pony.json](./379982-pony-vs-pony.json) |
@@ -3652,6 +3656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Logo Quiz | 105862 | [105862-pop-logo-quiz.json](./105862-pop-logo-quiz.json) |
 | Pop Moto | 249446 | [249446-pop-moto.json](./249446-pop-moto.json) |
 | Pop Pop Pop! | 201135 | [201135-pop-pop-pop.json](./201135-pop-pop-pop.json) |
+| Pop Quiz logo | 108285 | [108285-pop-quiz-logo.json](./108285-pop-quiz-logo.json) |
 | Pop Star Academy | 344935 | [344935-pop-star-academy.json](./344935-pop-star-academy.json) |
 | Pop Star Debut | 324684 | [324684-pop-star-debut.json](./324684-pop-star-debut.json) |
 | Pop Star Dress Up - Music Idol Girl | 101571 | [101571-pop-star-dress-up-music-idol-girl.json](./101571-pop-star-dress-up-music-idol-girl.json) |
@@ -4097,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
+| Press Inc. | 108275 | [108275-press-inc.json](./108275-press-inc.json) |
 | Press X to Not Die | 13619 | [13619-press-x-to-not-die.json](./13619-press-x-to-not-die.json) |
 | Press Your Luck | 52646 | [52646-press-your-luck.json](./52646-press-your-luck.json) |
 | Press-Switch | 217993 | [217993-press-switch.json](./217993-press-switch.json) |
