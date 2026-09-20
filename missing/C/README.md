@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardboard Ground | 119730 | [119730-cardboard-ground.json](./119730-cardboard-ground.json) |
 | Cardborne | 390144 | [390144-cardborne.json](./390144-cardborne.json) |
 | Cardbot | 159819 | [159819-cardbot.json](./159819-cardbot.json) |
+| Cardcaptor Sakura: Clow Card Magic | 69577 | [69577-cardcaptor-sakura-clow-card-magic.json](./69577-cardcaptor-sakura-clow-card-magic.json) |
 | Cardcaptor Sakura: Happiness Memories | 107654 | [107654-cardcaptor-sakura-happiness-memories.json](./107654-cardcaptor-sakura-happiness-memories.json) |
 | Cardcaptor Sakura: Repaint Record | 137637 | [137637-cardcaptor-sakura-repaint-record.json](./137637-cardcaptor-sakura-repaint-record.json) |
 | Cardchery | 267487 | [267487-cardchery.json](./267487-cardchery.json) |
@@ -2615,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronos Materia | 63261 | [63261-chronos-materia.json](./63261-chronos-materia.json) |
 | Chronos Shift | 350528 | [350528-chronos-shift.json](./350528-chronos-shift.json) |
 | Chronos Twins | 85540 | [85540-chronos-twins.json](./85540-chronos-twins.json) |
+| Chronos: A Tapestry of Time | 69554 | [69554-chronos-a-tapestry-of-time.json](./69554-chronos-a-tapestry-of-time.json) |
 | Chronos: Dawn of Time | 234756 | [234756-chronos-dawn-of-time.json](./234756-chronos-dawn-of-time.json) |
 | Chronoshot | 138736 | [138736-chronoshot.json](./138736-chronoshot.json) |
 | Chronostrike | 332409 | [332409-chronostrike.json](./332409-chronostrike.json) |
@@ -5074,6 +5076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Addition | 246498 | [246498-crazy-addition.json](./246498-crazy-addition.json) |
 | Crazy Adventure Bundle | 231064 | [231064-crazy-adventure-bundle.json](./231064-crazy-adventure-bundle.json) |
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
+| Crazy Balloon | 69592 | [69592-crazy-balloon.json](./69592-crazy-balloon.json) |
 | Crazy Battle Pets | 339337 | [339337-crazy-battle-pets.json](./339337-crazy-battle-pets.json) |
 | Crazy Belts | 35610 | [35610-crazy-belts.json](./35610-crazy-belts.json) |
 | Crazy Bigheads | 88001 | [88001-crazy-bigheads.json](./88001-crazy-bigheads.json) |
