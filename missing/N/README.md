@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Star Soccer 3 | 7680 | [7680-new-star-soccer-3.json](./7680-new-star-soccer-3.json) |
 | New Star Soccer 4 | 7679 | [7679-new-star-soccer-4.json](./7679-new-star-soccer-4.json) |
 | New Star Soccer Manager | 109583 | [109583-new-star-soccer-manager.json](./109583-new-star-soccer-manager.json) |
+| New Story of Seasons | 117535 | [117535-new-story-of-seasons.json](./117535-new-story-of-seasons.json) |
 | New Super Kaizo Bros. | 214777 | [214777-new-super-kaizo-bros.json](./214777-new-super-kaizo-bros.json) |
 | New Super Luigi U Remastered Edition | 322777 | [322777-new-super-luigi-u-remastered-edition.json](./322777-new-super-luigi-u-remastered-edition.json) |
 | New Super Mario Bros. 2 | 1080 | [1080-new-super-mario-bros-2.json](./1080-new-super-mario-bros-2.json) |
@@ -1978,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noise City Osaka | 140020 | [140020-noise-city-osaka.json](./140020-noise-city-osaka.json) |
 | Noise Hunters | 158141 | [158141-noise-hunters.json](./158141-noise-hunters.json) |
 | Noise Snke | 183538 | [183538-noise-snke.json](./183538-noise-snke.json) |
+| Noisetube | 117481 | [117481-noisetube.json](./117481-noisetube.json) |
 | Noisz Re: Collection G | 270796 | [270796-noisz-re-collection-g.json](./270796-noisz-re-collection-g.json) |
 | Noisz: DM Ashura Level Pack | 317032 | [317032-noisz-dm-ashura-level-pack.json](./317032-noisz-dm-ashura-level-pack.json) |
 | Noisz: Hyun Level Pack | 317031 | [317031-noisz-hyun-level-pack.json](./317031-noisz-hyun-level-pack.json) |
