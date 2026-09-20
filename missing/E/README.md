@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ekoh Beach | 189109 | [189109-ekoh-beach.json](./189109-ekoh-beach.json) |
 | El Brujo | 320991 | [320991-el-brujo.json](./320991-el-brujo.json) |
 | El Capitán Trueno | 100184 | [100184-el-capitan-trueno.json](./100184-el-capitan-trueno.json) |
+| El Capitán Trueno en la Montaña de los Suspiros | 70085 | [70085-el-capitan-trueno-en-la-montana-de-los-suspiros.json](./70085-el-capitan-trueno-en-la-montana-de-los-suspiros.json) |
 | El Chavo | 331122 | [331122-el-chavo.json](./331122-el-chavo.json) |
 | El Chavo | 79918 | [79918-el-chavo.json](./79918-el-chavo.json) |
 | El Cid | 13629 | [13629-el-cid.json](./13629-el-cid.json) |
@@ -646,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electro Air Hockey: Under the Mallet | 323957 | [323957-electro-air-hockey-under-the-mallet.json](./323957-electro-air-hockey-under-the-mallet.json) |
 | Electro Bop Boxing League | 329580 | [329580-electro-bop-boxing-league.json](./329580-electro-bop-boxing-league.json) |
 | Electro Freddy | 13631 | [13631-electro-freddy.json](./13631-electro-freddy.json) |
+| Electro Man | 70109 | [70109-electro-man.json](./70109-electro-man.json) |
 | Electro-Dynamic Mayhem | 324679 | [324679-electro-dynamic-mayhem.json](./324679-electro-dynamic-mayhem.json) |
 | Electrodash | 159725 | [159725-electrodash.json](./159725-electrodash.json) |
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
@@ -1998,7 +2000,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis: Rome - Gold Edition | 27829 | [27829-europa-universalis-rome-gold-edition.json](./27829-europa-universalis-rome-gold-edition.json) |
 | Europe 2041: Resistance | 297094 | [297094-europe-2041-resistance.json](./297094-europe-2041-resistance.json) |
 | Europe Front II | 200741 | [200741-europe-front-ii.json](./200741-europe-front-ii.json) |
+| European 2 | 70128 | [70128-european-2.json](./70128-european-2.json) |
 | European Card Wars | 291229 | [291229-european-card-wars.json](./291229-european-card-wars.json) |
+| European Championship 1992 | 70102 | [70102-european-championship-1992.json](./70102-european-championship-1992.json) |
 | European Football Champ | 39672 | [39672-european-football-champ.json](./39672-european-football-champ.json) |
 | European Football Champ | 42573 | [42573-european-football-champ.json](./42573-european-football-champ.json) |
 | European Games | 100112 | [100112-european-games.json](./100112-european-games.json) |
