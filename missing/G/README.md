@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Racing: Formula E | 130324 | [130324-ghost-racing-formula-e.json](./130324-ghost-racing-formula-e.json) |
 | Ghost Rider | 218142 | [218142-ghost-rider.json](./218142-ghost-rider.json) |
 | Ghost Run 3D | 154571 | [154571-ghost-run-3d.json](./154571-ghost-run-3d.json) |
+| Ghost Rush! | 97107 | [97107-ghost-rush.json](./97107-ghost-rush.json) |
 | Ghost Shadow | 214199 | [214199-ghost-shadow.json](./214199-ghost-shadow.json) |
 | Ghost Ship: Hidden Object Adventure Games | 97210 | [97210-ghost-ship-hidden-object-adventure-games.json](./97210-ghost-ship-hidden-object-adventure-games.json) |
 | Ghost Simulator | 258491 | [258491-ghost-simulator.json](./258491-ghost-simulator.json) |
@@ -1996,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomiboru | 333017 | [333017-gomiboru.json](./333017-gomiboru.json) |
 | Gomo | 7552 | [7552-gomo.json](./7552-gomo.json) |
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
+| Gon | 97118 | [97118-gon.json](./97118-gon.json) |
 | Gone Exploring | 412409 | [412409-gone-exploring.json](./412409-gone-exploring.json) |
 | Gone Upstate | 152826 | [152826-gone-upstate.json](./152826-gone-upstate.json) |
 | Gong | 280356 | [280356-gong.json](./280356-gong.json) |
@@ -3036,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars 2: End of Dragons | 159254 | [159254-guild-wars-2-end-of-dragons.json](./159254-guild-wars-2-end-of-dragons.json) |
 | Guild Wars 2: Heart of Thorns | 13183 | [13183-guild-wars-2-heart-of-thorns.json](./13183-guild-wars-2-heart-of-thorns.json) |
 | Guild Wars 2: Janthir Wilds | 304360 | [304360-guild-wars-2-janthir-wilds.json](./304360-guild-wars-2-janthir-wilds.json) |
+| Guild Wars: Bonus Mission Pack | 97103 | [97103-guild-wars-bonus-mission-pack.json](./97103-guild-wars-bonus-mission-pack.json) |
 | Guild Wars: Factions | 739 | [739-guild-wars-factions.json](./739-guild-wars-factions.json) |
 | Guild Wars: Game of the Year Edition | 27842 | [27842-guild-wars-game-of-the-year-edition.json](./27842-guild-wars-game-of-the-year-edition.json) |
 | Guild Wars: Reforged | 380421 | [380421-guild-wars-reforged.json](./380421-guild-wars-reforged.json) |
@@ -3099,8 +3102,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Jam | 266894 | [266894-guitar-jam.json](./266894-guitar-jam.json) |
 | Guitar Praise: Solid Rock | 72638 | [72638-guitar-praise-solid-rock.json](./72638-guitar-praise-solid-rock.json) |
 | Guitar Star | 267958 | [267958-guitar-star.json](./267958-guitar-star.json) |
+| GuitarFreaks 3rdMix | 97122 | [97122-guitarfreaks-3rdmix.json](./97122-guitarfreaks-3rdmix.json) |
 | GuitarFreaks 3rdMix & DrumMania 2ndMix | 104591 | [104591-guitarfreaks-3rdmix-and-drummania-2ndmix.json](./104591-guitarfreaks-3rdmix-and-drummania-2ndmix.json) |
+| GuitarFreaks 4thMix | 97120 | [97120-guitarfreaks-4thmix.json](./97120-guitarfreaks-4thmix.json) |
 | GuitarFreaks 4thMix & DrumMania 3rdMix | 188659 | [188659-guitarfreaks-4thmix-and-drummania-3rdmix.json](./188659-guitarfreaks-4thmix-and-drummania-3rdmix.json) |
+| GuitarFreaks 5thMix & DrumMania 4thMix | 97123 | [97123-guitarfreaks-5thmix-and-drummania-4thmix.json](./97123-guitarfreaks-5thmix-and-drummania-4thmix.json) |
+| GuitarFreaks 6thMix | 97121 | [97121-guitarfreaks-6thmix.json](./97121-guitarfreaks-6thmix.json) |
 | GuitarFreaks V & DrumMania V | 78691 | [78691-guitarfreaks-v-and-drummania-v.json](./78691-guitarfreaks-v-and-drummania-v.json) |
 | Guītú | 156699 | [156699-guitu.json](./156699-guitu.json) |
 | Gujian 3 | 113649 | [113649-gujian-3.json](./113649-gujian-3.json) |
