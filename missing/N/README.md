@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Homestead | 159721 | [159721-new-homestead.json](./159721-new-homestead.json) |
 | New Hope | 304058 | [304058-new-hope.json](./304058-new-hope.json) |
 | New Hyu Stone | 60549 | [60549-new-hyu-stone.json](./60549-new-hyu-stone.json) |
+| New Ice York | 104435 | [104435-new-ice-york.json](./104435-new-ice-york.json) |
 | New Journey to the West | 320543 | [320543-new-journey-to-the-west.json](./320543-new-journey-to-the-west.json) |
 | New Lands 1 | 252390 | [252390-new-lands-1.json](./252390-new-lands-1.json) |
 | New Lands: Legends of Tenkai - Collector's Edition | 369014 | [369014-new-lands-legends-of-tenkai-collectors-edition.json](./369014-new-lands-legends-of-tenkai-collectors-edition.json) |
