@@ -1233,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Move Fall Dungeon Endless Abyss | 360661 | [360661-just-move-fall-dungeon-endless-abyss.json](./360661-just-move-fall-dungeon-endless-abyss.json) |
 | Just Move On! | 329005 | [329005-just-move-on.json](./329005-just-move-on.json) |
 | Just One | 231354 | [231354-just-one.json](./231354-just-one.json) |
+| Just One Color | 87951 | [87951-just-one-color.json](./87951-just-one-color.json) |
 | Just One More Spell | 387544 | [387544-just-one-more-spell.json](./387544-just-one-more-spell.json) |
 | Just one, must choose | 135050 | [135050-just-one-must-choose.json](./135050-just-one-must-choose.json) |
 | Just Passing | 176344 | [176344-just-passing.json](./176344-just-passing.json) |
