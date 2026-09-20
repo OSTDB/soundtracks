@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satellina | 128557 | [128557-satellina.json](./128557-satellina.json) |
 | Satellite Command | 31778 | [31778-satellite-command.json](./31778-satellite-command.json) |
 | Satellite Repairman | 30015 | [30015-satellite-repairman.json](./30015-satellite-repairman.json) |
+| Satellites | 78342 | [78342-satellites.json](./78342-satellites.json) |
 | SatelliTV | 386678 | [386678-satellitv.json](./386678-satellitv.json) |
 | Satisdom | 337095 | [337095-satisdom.json](./337095-satisdom.json) |
 | Satisfaction Drone | 330340 | [330340-satisfaction-drone.json](./330340-satisfaction-drone.json) |
@@ -2057,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS We The People | 388972 | [388972-sgs-we-the-people.json](./388972-sgs-we-the-people.json) |
 | Sha Beast Dressage | 371269 | [371269-sha-beast-dressage.json](./371269-sha-beast-dressage.json) |
 | Shaberu! DS Cooking Navi | 345570 | [345570-shaberu-ds-cooking-navi.json](./345570-shaberu-ds-cooking-navi.json) |
+| Shachou Eiyuuden: The Eagle Shooting Heroes | 78343 | [78343-shachou-eiyuuden-the-eagle-shooting-heroes.json](./78343-shachou-eiyuuden-the-eagle-shooting-heroes.json) |
 | Shackled | 148354 | [148354-shackled.json](./148354-shackled.json) |
 | Shada Kalo | 216306 | [216306-shada-kalo.json](./216306-shada-kalo.json) |
 | Shade | 171056 | [171056-shade.json](./171056-shade.json) |
@@ -2570,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheriff Rage | 172199 | [172199-sheriff-rage.json](./172199-sheriff-rage.json) |
 | Sherlock has a Clue | 310949 | [310949-sherlock-has-a-clue.json](./310949-sherlock-has-a-clue.json) |
 | Sherlock Holmes Consulting Detective Complete | 147288 | [147288-sherlock-holmes-consulting-detective-complete.json](./147288-sherlock-holmes-consulting-detective-complete.json) |
+| Sherlock Holmes Consulting Detective: Collection | 78363 | [78363-sherlock-holmes-consulting-detective-collection.json](./78363-sherlock-holmes-consulting-detective-collection.json) |
 | Sherlock Holmes i el cas d'Arthur Gordon Pym | 345023 | [345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json](./345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json) |
 | Sherlock Holmes: Chapter One - Beyond a Joke | 186894 | [186894-sherlock-holmes-chapter-one-beyond-a-joke.json](./186894-sherlock-holmes-chapter-one-beyond-a-joke.json) |
 | Sherlock Holmes: Consulting Detective | 5435 | [5435-sherlock-holmes-consulting-detective.json](./5435-sherlock-holmes-consulting-detective.json) |
@@ -4780,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snatched | 395585 | [395585-snatched.json](./395585-snatched.json) |
 | Snatcher | 197937 | [197937-snatcher.json](./197937-snatcher.json) |
 | Snax Lite (Cooking Arcade) | 100230 | [100230-snax-lite-cooking-arcade.json](./100230-snax-lite-cooking-arcade.json) |
+| Sneak and Snatch | 78376 | [78376-sneak-and-snatch.json](./78376-sneak-and-snatch.json) |
 | Sneak Attack | 24865 | [24865-sneak-attack.json](./24865-sneak-attack.json) |
 | Sneak In | 117071 | [117071-sneak-in.json](./117071-sneak-in.json) |
 | Sneak King | 2730 | [2730-sneak-king.json](./2730-sneak-king.json) |
@@ -7326,6 +7330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy 1 Lovecraftian | 289437 | [289437-spy-1-lovecraftian.json](./289437-spy-1-lovecraftian.json) |
 | Spy Against Spy | 57639 | [57639-spy-against-spy.json](./57639-spy-against-spy.json) |
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
+| Spy Bot Chronicles | 78344 | [78344-spy-bot-chronicles.json](./78344-spy-bot-chronicles.json) |
 | Spy Chameleon | 15462 | [15462-spy-chameleon.json](./15462-spy-chameleon.json) |
 | Spy DNA | 126417 | [126417-spy-dna.json](./126417-spy-dna.json) |
 | Spy Drops | 307538 | [307538-spy-drops.json](./307538-spy-drops.json) |
@@ -7761,6 +7766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Stone Splash | 274491 | [274491-star-stone-splash.json](./274491-star-stone-splash.json) |
 | Star Story: The Horizon Escape | 27005 | [27005-star-story-the-horizon-escape.json](./27005-star-story-the-horizon-escape.json) |
 | Star Strike | 85878 | [85878-star-strike.json](./85878-star-strike.json) |
+| Star Struck | 78375 | [78375-star-struck.json](./78375-star-struck.json) |
 | Star Swapper | 94728 | [94728-star-swapper.json](./94728-star-swapper.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
 | Star Tactics Redux | 169965 | [169965-star-tactics-redux.json](./169965-star-tactics-redux.json) |
@@ -11082,6 +11088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzy Cube | 103247 | [103247-suzy-cube.json](./103247-suzy-cube.json) |
 | Svea Rike 2 | 84179 | [84179-svea-rike-2.json](./84179-svea-rike-2.json) |
 | Sveerz | 201280 | [201280-sveerz.json](./201280-sveerz.json) |
+| Sveerz Deluxe | 78378 | [78378-sveerz-deluxe.json](./78378-sveerz-deluxe.json) |
 | Sven Bømwøllen | 93079 | [93079-sven-b-mw-llen.json](./93079-sven-b-mw-llen.json) |
 | Sven Gordan Paranormal Parody | 326800 | [326800-sven-gordan-paranormal-parody.json](./326800-sven-gordan-paranormal-parody.json) |
 | Sven-Göran Eriksson's World Manager | 136991 | [136991-sven-goran-erikssons-world-manager.json](./136991-sven-goran-erikssons-world-manager.json) |
