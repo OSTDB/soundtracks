@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula | 329118 | [329118-nebula.json](./329118-nebula.json) |
 | Nebula Cleanup Crew | 373520 | [373520-nebula-cleanup-crew.json](./373520-nebula-cleanup-crew.json) |
 | Nebula Nuker | 75830 | [75830-nebula-nuker.json](./75830-nebula-nuker.json) |
+| Nebula Online | 120181 | [120181-nebula-online.json](./120181-nebula-online.json) |
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Nebuli | 157720 | [157720-nebuli.json](./157720-nebuli.json) |
 | Necessary Bimbos | 185699 | [185699-necessary-bimbos.json](./185699-necessary-bimbos.json) |
