@@ -1800,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Puzzles PRO | 105958 | [105958-math-puzzles-pro.json](./105958-math-puzzles-pro.json) |
 | Math Rescue | 35548 | [35548-math-rescue.json](./35548-math-rescue.json) |
 | Math Rescue: Rounding and Estimation game | 97139 | [97139-math-rescue-rounding-and-estimation-game.json](./97139-math-rescue-rounding-and-estimation-game.json) |
+| Math RTS | 81777 | [81777-math-rts.json](./81777-math-rts.json) |
 | Math Speed Challenge | 101617 | [101617-math-speed-challenge.json](./101617-math-speed-challenge.json) |
 | Math-A-Thon 2: The Mystery of the Missing Laboratory | 209547 | [209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json](./209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json) |
 | Mathable | 232533 | [232533-mathable.json](./232533-mathable.json) |
@@ -1966,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Master | 94010 | [94010-maze-master.json](./94010-maze-master.json) |
 | Maze Masters | 148913 | [148913-maze-masters.json](./148913-maze-masters.json) |
 | Maze of Acheron | 172098 | [172098-maze-of-acheron.json](./172098-maze-of-acheron.json) |
+| Maze of Adventures | 81745 | [81745-maze-of-adventures.json](./81745-maze-of-adventures.json) |
 | Maze of Bears | 186321 | [186321-maze-of-bears.json](./186321-maze-of-bears.json) |
 | Maze of Doors | 414417 | [414417-maze-of-doors.json](./414417-maze-of-doors.json) |
 | Maze of Mayhem | 329726 | [329726-maze-of-mayhem.json](./329726-maze-of-mayhem.json) |
@@ -2224,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Masters Collection | 131581 | [131581-medieval-masters-collection.json](./131581-medieval-masters-collection.json) |
 | Medieval Mayhem | 40716 | [40716-medieval-mayhem.json](./40716-medieval-mayhem.json) |
 | Medieval Nightt: Part 1 | 311804 | [311804-medieval-nightt-part-1.json](./311804-medieval-nightt-part-1.json) |
+| Medieval Real Estate | 81773 | [81773-medieval-real-estate.json](./81773-medieval-real-estate.json) |
 | Medieval Sex Jigsaw | 291067 | [291067-medieval-sex-jigsaw.json](./291067-medieval-sex-jigsaw.json) |
 | Medieval Shop Simulator | 152726 | [152726-medieval-shop-simulator.json](./152726-medieval-shop-simulator.json) |
 | Medieval Simulators: Baker | 248047 | [248047-medieval-simulators-baker.json](./248047-medieval-simulators-baker.json) |
@@ -3459,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Switch Force! Hyper Drive Edition | 2176 | [2176-mighty-switch-force-hyper-drive-edition.json](./2176-mighty-switch-force-hyper-drive-edition.json) |
 | Mighty the Armadillo | 330152 | [330152-mighty-the-armadillo.json](./330152-mighty-the-armadillo.json) |
 | MightyBowOfGreenHills | 96761 | [96761-mightybowofgreenhills.json](./96761-mightybowofgreenhills.json) |
+| MightyIronBall | 81759 | [81759-mightyironball.json](./81759-mightyironball.json) |
 | Miglorn | 304590 | [304590-miglorn.json](./304590-miglorn.json) |
 | Miguelshroom: First Day at School | 149593 | [149593-miguelshroom-first-day-at-school.json](./149593-miguelshroom-first-day-at-school.json) |
 | Migux | 138040 | [138040-migux.json](./138040-migux.json) |
