@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VC | 24883 | [24883-vc.json](./24883-vc.json) |
 | vCoder Hero | 127268 | [127268-vcoder-hero.json](./127268-vcoder-hero.json) |
 | Vec-Man | 273908 | [273908-vec-man.json](./273908-vec-man.json) |
+| Veck | 71208 | [71208-veck.json](./71208-veck.json) |
 | Vecter | 124183 | [124183-vecter.json](./124183-vecter.json) |
 | Vector 2 | 101939 | [101939-vector-2.json](./101939-vector-2.json) |
 | Vector Light | 126589 | [126589-vector-light.json](./126589-vector-light.json) |
