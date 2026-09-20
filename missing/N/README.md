@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
 | Nanoka Project | 226763 | [226763-nanoka-project.json](./226763-nanoka-project.json) |
 | NanoLab Fighter | 246978 | [246978-nanolab-fighter.json](./246978-nanolab-fighter.json) |
+| Nanopesos | 125256 | [125256-nanopesos.json](./125256-nanopesos.json) |
 | Nanos | 90597 | [90597-nanos.json](./90597-nanos.json) |
 | Nanos World | 152927 | [152927-nanos-world.json](./152927-nanos-world.json) |
 | Nanosaur Extreme! | 57658 | [57658-nanosaur-extreme.json](./57658-nanosaur-extreme.json) |
@@ -1355,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Run | 295905 | [295905-night-run.json](./295905-night-run.json) |
 | Night School | 406088 | [406088-night-school.json](./406088-night-school.json) |
 | Night Seeker | 378911 | [378911-night-seeker.json](./378911-night-seeker.json) |
+| Night Shift | 125262 | [125262-night-shift.json](./125262-night-shift.json) |
 | Night Shift: 1999 | 366829 | [366829-night-shift-1999.json](./366829-night-shift-1999.json) |
 | Night Shift: Laundry | 328253 | [328253-night-shift-laundry.json](./328253-night-shift-laundry.json) |
 | Night Shift: Remade | 181792 | [181792-night-shift-remade.json](./181792-night-shift-remade.json) |
@@ -2205,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now Man Flies | 75810 | [75810-now-man-flies.json](./75810-now-man-flies.json) |
 | Now Streaming | 122351 | [122351-now-streaming.json](./122351-now-streaming.json) |
 | Now Testing: 407 | 148885 | [148885-now-testing-407.json](./148885-now-testing-407.json) |
+| Now That's What I Call Games 3 | 125283 | [125283-now-thats-what-i-call-games-3.json](./125283-now-thats-what-i-call-games-3.json) |
 | Now That's What I Call Sing 2 | 24961 | [24961-now-thats-what-i-call-sing-2.json](./24961-now-thats-what-i-call-sing-2.json) |
 | Now You Are the Persecuted | 236520 | [236520-now-you-are-the-persecuted.json](./236520-now-you-are-the-persecuted.json) |
 | Now you can't see me | 152723 | [152723-now-you-cant-see-me.json](./152723-now-you-cant-see-me.json) |
