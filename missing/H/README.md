@@ -1043,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Mobius | 255702 | [255702-heart-of-mobius.json](./255702-heart-of-mobius.json) |
 | Heart Of Nadia | 288236 | [288236-heart-of-nadia.json](./288236-heart-of-nadia.json) |
 | Heart of Summer | 158569 | [158569-heart-of-summer.json](./158569-heart-of-summer.json) |
+| Heart of the Dragon | 74048 | [74048-heart-of-the-dragon.json](./74048-heart-of-the-dragon.json) |
 | Heart of the Emberstone: Coliseum | 81767 | [81767-heart-of-the-emberstone-coliseum.json](./81767-heart-of-the-emberstone-coliseum.json) |
 | Heart of the Hedgehog | 330288 | [330288-heart-of-the-hedgehog.json](./330288-heart-of-the-hedgehog.json) |
 | Heart of the Woods | 102326 | [102326-heart-of-the-woods.json](./102326-heart-of-the-woods.json) |
@@ -3372,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: Street Fighter Vega | 195770 | [195770-hot-wheels-unleashed-street-fighter-vega.json](./195770-hot-wheels-unleashed-street-fighter-vega.json) |
 | Hot Wheels World Race | 243147 | [243147-hot-wheels-world-race.json](./243147-hot-wheels-world-race.json) |
 | Hot Wheels: Bash Arena | 70992 | [70992-hot-wheels-bash-arena.json](./70992-hot-wheels-bash-arena.json) |
+| Hot Wheels: Crash! | 74090 | [74090-hot-wheels-crash.json](./74090-hot-wheels-crash.json) |
 | Hot Wheels: Custom Car Designer | 313290 | [313290-hot-wheels-custom-car-designer.json](./313290-hot-wheels-custom-car-designer.json) |
 | Hot Wheels: Extreme Racing | 45058 | [45058-hot-wheels-extreme-racing.json](./45058-hot-wheels-extreme-racing.json) |
 | Hot Wheels: Jetz | 166206 | [166206-hot-wheels-jetz.json](./166206-hot-wheels-jetz.json) |
