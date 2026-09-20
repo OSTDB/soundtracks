@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Raid | 307109 | [307109-one-last-raid.json](./307109-one-last-raid.json) |
 | One Last Star Trip | 342073 | [342073-one-last-star-trip.json](./342073-one-last-star-trip.json) |
 | One Last Time | 226737 | [226737-one-last-time.json](./226737-one-last-time.json) |
+| One Late Night: Mobile | 102625 | [102625-one-late-night-mobile.json](./102625-one-late-night-mobile.json) |
 | One Life | 197239 | [197239-one-life.json](./197239-one-life.json) |
 | One Life to Alice | 260228 | [260228-one-life-to-alice.json](./260228-one-life-to-alice.json) |
 | One Life: Parkour Project | 318781 | [318781-one-life-parkour-project.json](./318781-one-life-parkour-project.json) |
