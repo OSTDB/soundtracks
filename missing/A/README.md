@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Past and Future Secret | 271200 | [271200-a-past-and-future-secret.json](./271200-a-past-and-future-secret.json) |
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
 | A Piano Tale | 201677 | [201677-a-piano-tale.json](./201677-a-piano-tale.json) |
+| A Piece of Wish upon the Stars | 106410 | [106410-a-piece-of-wish-upon-the-stars.json](./106410-a-piece-of-wish-upon-the-stars.json) |
 | A Place Far Away | 367479 | [367479-a-place-far-away.json](./367479-a-place-far-away.json) |
 | A Plague Tale: Innocence - Coats of Arms | 118201 | [118201-a-plague-tale-innocence-coats-of-arms.json](./118201-a-plague-tale-innocence-coats-of-arms.json) |
 | A Plague Tale: Requiem - Cloud Version | 206817 | [206817-a-plague-tale-requiem-cloud-version.json](./206817-a-plague-tale-requiem-cloud-version.json) |
@@ -869,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
 | Agatha Christie: Death on the Nile | 21134 | [21134-agatha-christie-death-on-the-nile.json](./21134-agatha-christie-death-on-the-nile.json) |
 | Agatha Christie: Hercule Poirot - The London Case: Deluxe | 276303 | [276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json](./276303-agatha-christie-hercule-poirot-the-london-case-deluxe.json) |
+| Age of 2048: World | 106373 | [106373-age-of-2048-world.json](./106373-age-of-2048-world.json) |
 | Age of Barbarian Extended Cut: The Slaves' Fortress | 171499 | [171499-age-of-barbarian-extended-cut-the-slaves-fortress.json](./171499-age-of-barbarian-extended-cut-the-slaves-fortress.json) |
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
