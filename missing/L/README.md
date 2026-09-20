@@ -2867,6 +2867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovers of Aether | 117041 | [117041-lovers-of-aether.json](./117041-lovers-of-aether.json) |
 | Lovin House | 153845 | [153845-lovin-house.json](./153845-lovin-house.json) |
 | Loving You Fully | 159873 | [159873-loving-you-fully.json](./159873-loving-you-fully.json) |
+| Loving Zurine | 83222 | [83222-loving-zurine.json](./83222-loving-zurine.json) |
 | Lovish | 319894 | [319894-lovish.json](./319894-lovish.json) |
 | Low Battery | 354408 | [354408-low-battery.json](./354408-low-battery.json) |
 | Low Earth Orbit Adventures | 391168 | [391168-low-earth-orbit-adventures.json](./391168-low-earth-orbit-adventures.json) |
