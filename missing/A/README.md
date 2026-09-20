@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Conflicts: Vietnam Ultimate Edition | 44546 | [44546-air-conflicts-vietnam-ultimate-edition.json](./44546-air-conflicts-vietnam-ultimate-edition.json) |
 | Air Delivery | 285591 | [285591-air-delivery.json](./285591-air-delivery.json) |
 | Air Force Commander | 14231 | [14231-air-force-commander.json](./14231-air-force-commander.json) |
+| Air Force Commander: Combat Arms Fighter Shooting Attack | 88738 | [88738-air-force-commander-combat-arms-fighter-shooting-attack.json](./88738-air-force-commander-combat-arms-fighter-shooting-attack.json) |
 | Air Force Gear | 125271 | [125271-air-force-gear.json](./125271-air-force-gear.json) |
 | Air Force Missions | 320380 | [320380-air-force-missions.json](./320380-air-force-missions.json) |
 | Air Fryer Sim | 200554 | [200554-air-fryer-sim.json](./200554-air-fryer-sim.json) |
@@ -2058,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Conquest: Anthology | 324664 | [324664-american-conquest-anthology.json](./324664-american-conquest-anthology.json) |
 | American Cooking Simulator | 330850 | [330850-american-cooking-simulator.json](./330850-american-cooking-simulator.json) |
 | American Cooking Simulator: Multiplayer | 392810 | [392810-american-cooking-simulator-multiplayer.json](./392810-american-cooking-simulator-multiplayer.json) |
+| American Dad! Pinball | 88806 | [88806-american-dad-pinball.json](./88806-american-dad-pinball.json) |
 | American Deer Hunter | 206112 | [206112-american-deer-hunter.json](./206112-american-deer-hunter.json) |
 | American Diesel Trains | 96053 | [96053-american-diesel-trains.json](./96053-american-diesel-trains.json) |
 | American Dream | 137017 | [137017-american-dream.json](./137017-american-dream.json) |
@@ -2580,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals In The City | 293219 | [293219-animals-in-the-city.json](./293219-animals-in-the-city.json) |
 | Animals Transport Simulator | 201692 | [201692-animals-transport-simulator.json](./201692-animals-transport-simulator.json) |
 | Animals Transport Simulator | 219297 | [219297-animals-transport-simulator.json](./219297-animals-transport-simulator.json) |
+| Animals: Connect the Dots and Add Colors | 88746 | [88746-animals-connect-the-dots-and-add-colors.json](./88746-animals-connect-the-dots-and-add-colors.json) |
 | AnimaLudo | 153823 | [153823-animaludo.json](./153823-animaludo.json) |
 | Animamundi: Dark Alchemist | 72665 | [72665-animamundi-dark-alchemist.json](./72665-animamundi-dark-alchemist.json) |
 | Animaniacs | 228407 | [228407-animaniacs.json](./228407-animaniacs.json) |
@@ -2607,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
 | Anime Dream Match: Dogs | 357863 | [357863-anime-dream-match-dogs.json](./357863-anime-dream-match-dogs.json) |
 | Anime Dream Match: Rodents | 362349 | [362349-anime-dream-match-rodents.json](./362349-anime-dream-match-rodents.json) |
+| Anime Dress Up | 88741 | [88741-anime-dress-up.json](./88741-anime-dress-up.json) |
 | Anime Fantasy Jigsaw Puzzle 3D | 384067 | [384067-anime-fantasy-jigsaw-puzzle-3d.json](./384067-anime-fantasy-jigsaw-puzzle-3d.json) |
 | Anime Fart Simulator | 397648 | [397648-anime-fart-simulator.json](./397648-anime-fart-simulator.json) |
 | Anime Feet Aim Trainer | 371231 | [371231-anime-feet-aim-trainer.json](./371231-anime-feet-aim-trainer.json) |
