@@ -708,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
 | Adventure of Elysia | 219702 | [219702-adventure-of-elysia.json](./219702-adventure-of-elysia.json) |
+| Adventure of Great Wolf | 118813 | [118813-adventure-of-great-wolf.json](./118813-adventure-of-great-wolf.json) |
 | Adventure of Realms | 379480 | [379480-adventure-of-realms.json](./379480-adventure-of-realms.json) |
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
@@ -886,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Time | 254542 | [254542-age-of-time.json](./254542-age-of-time.json) |
 | Age of Wonders 4: Empires & Ashes | 259051 | [259051-age-of-wonders-4-empires-and-ashes.json](./259051-age-of-wonders-4-empires-and-ashes.json) |
 | Age of Wonders 4: Expansion Pass | 293731 | [293731-age-of-wonders-4-expansion-pass.json](./293731-age-of-wonders-4-expansion-pass.json) |
+| Age of Wonders: Planetfall - Deluxe Edition | 118845 | [118845-age-of-wonders-planetfall-deluxe-edition.json](./118845-age-of-wonders-planetfall-deluxe-edition.json) |
 | Age of Wonders: Planetfall - Star Kings | 148927 | [148927-age-of-wonders-planetfall-star-kings.json](./148927-age-of-wonders-planetfall-star-kings.json) |
 | Ageless Machine: Cup of Tea | 180716 | [180716-ageless-machine-cup-of-tea.json](./180716-ageless-machine-cup-of-tea.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
@@ -1572,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Elite Wrestling: Fight Forever - Switchblade Tournament Pack | 301009 | [301009-all-elite-wrestling-fight-forever-switchblade-tournament-pack.json](./301009-all-elite-wrestling-fight-forever-switchblade-tournament-pack.json) |
 | All Elite Wrestling: Fight Forever - The Storm is Coming! | 283292 | [283292-all-elite-wrestling-fight-forever-the-storm-is-coming.json](./283292-all-elite-wrestling-fight-forever-the-storm-is-coming.json) |
 | All Elite Wrestling: Fight Forever - World War Joe | 301010 | [301010-all-elite-wrestling-fight-forever-world-war-joe.json](./301010-all-elite-wrestling-fight-forever-world-war-joe.json) |
+| All Evil Night 2 | 118809 | [118809-all-evil-night-2.json](./118809-all-evil-night-2.json) |
 | All For Nought: Tic Tac Toe | 155662 | [155662-all-for-nought-tic-tac-toe.json](./155662-all-for-nought-tic-tac-toe.json) |
 | All Goblin | 243108 | [243108-all-goblin.json](./243108-all-goblin.json) |
 | All Good Things | 63812 | [63812-all-good-things.json](./63812-all-good-things.json) |
@@ -1740,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Guns | 137675 | [137675-alpha-guns.json](./137675-alpha-guns.json) |
 | Alpha Kimori: Great Doubt - Episode One | 16874 | [16874-alpha-kimori-great-doubt-episode-one.json](./16874-alpha-kimori-great-doubt-episode-one.json) |
 | Alpha Kimori: Great Doubt - Episode Two | 82080 | [82080-alpha-kimori-great-doubt-episode-two.json](./82080-alpha-kimori-great-doubt-episode-two.json) |
+| Alpha King | 118820 | [118820-alpha-king.json](./118820-alpha-king.json) |
 | Alpha League | 283905 | [283905-alpha-league.json](./283905-alpha-league.json) |
 | Alpha Lyrae Discovery | 120958 | [120958-alpha-lyrae-discovery.json](./120958-alpha-lyrae-discovery.json) |
 | Alpha Man | 100221 | [100221-alpha-man.json](./100221-alpha-man.json) |
@@ -1930,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazon Warrior | 342053 | [342053-amazon-warrior.json](./342053-amazon-warrior.json) |
 | Amazona Adventure | 279593 | [279593-amazona-adventure.json](./279593-amazona-adventure.json) |
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
+| Ambassador Kane | 118835 | [118835-ambassador-kane.json](./118835-ambassador-kane.json) |
 | Amber Battle Royale | 226219 | [226219-amber-battle-royale.json](./226219-amber-battle-royale.json) |
 | Amber Quartz | 69291 | [69291-amber-quartz.json](./69291-amber-quartz.json) |
 | Amber Time Pocket | 226220 | [226220-amber-time-pocket.json](./226220-amber-time-pocket.json) |
@@ -3021,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Bubble 2 | 70927 | [70927-aqua-bubble-2.json](./70927-aqua-bubble-2.json) |
 | Aqua Fry | 288331 | [288331-aqua-fry.json](./288331-aqua-fry.json) |
 | Aqua Journey | 176987 | [176987-aqua-journey.json](./176987-aqua-journey.json) |
+| Aqua Kitty DX: Pawsome Bundle | 118853 | [118853-aqua-kitty-dx-pawsome-bundle.json](./118853-aqua-kitty-dx-pawsome-bundle.json) |
 | Aqua Marbles: Ocean | 240804 | [240804-aqua-marbles-ocean.json](./240804-aqua-marbles-ocean.json) |
 | Aqua Moto Racing | 63835 | [63835-aqua-moto-racing.json](./63835-aqua-moto-racing.json) |
 | Aqua Moto Racing 2 | 63836 | [63836-aqua-moto-racing-2.json](./63836-aqua-moto-racing-2.json) |
@@ -3654,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed and Armoured | 190747 | [190747-armed-and-armoured.json](./190747-armed-and-armoured.json) |
 | Armed and Gorgeous HD | 22335 | [22335-armed-and-gorgeous-hd.json](./22335-armed-and-gorgeous-hd.json) |
 | Armed Animals RPG | 365060 | [365060-armed-animals-rpg.json](./365060-armed-animals-rpg.json) |
+| Armed for Battle | 118849 | [118849-armed-for-battle.json](./118849-armed-for-battle.json) |
 | Armed Forces Corp: Mercenaries | 123059 | [123059-armed-forces-corp-mercenaries.json](./123059-armed-forces-corp-mercenaries.json) |
 | Armed Forces Corp. | 50488 | [50488-armed-forces-corp.json](./50488-armed-forces-corp.json) |
 | Armed Forces of Ukraine | 294138 | [294138-armed-forces-of-ukraine.json](./294138-armed-forces-of-ukraine.json) |
@@ -3757,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
 | Arpiel Online | 56466 | [56466-arpiel-online.json](./56466-arpiel-online.json) |
+| Arranged | 118798 | [118798-arranged.json](./118798-arranged.json) |
 | Arrapha | 136229 | [136229-arrapha.json](./136229-arrapha.json) |
 | Arras.io | 327193 | [327193-arras-io.json](./327193-arras-io.json) |
 | Arraynium | 68716 | [68716-arraynium.json](./68716-arraynium.json) |
@@ -4803,6 +4811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avenger | 109599 | [109599-avenger.json](./109599-avenger.json) |
 | Avenger | 280325 | [280325-avenger.json](./280325-avenger.json) |
 | Avenger | 91358 | [91358-avenger.json](./91358-avenger.json) |
+| AvengeXX | 118836 | [118836-avengexx.json](./118836-avengexx.json) |
 | Avenir Tower | 332414 | [332414-avenir-tower.json](./332414-avenir-tower.json) |
 | Aventador Drift Simulator 2 | 104649 | [104649-aventador-drift-simulator-2.json](./104649-aventador-drift-simulator-2.json) |
 | Aventura de Luigi | 322003 | [322003-aventura-de-luigi.json](./322003-aventura-de-luigi.json) |
@@ -4922,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axia | 46637 | [46637-axia.json](./46637-axia.json) |
 | Axial Disc 2 | 217408 | [217408-axial-disc-2.json](./217408-axial-disc-2.json) |
 | Axie Infinity | 109024 | [109024-axie-infinity.json](./109024-axie-infinity.json) |
+| Axilon: Legend of artifacts | 118842 | [118842-axilon-legend-of-artifacts.json](./118842-axilon-legend-of-artifacts.json) |
 | Axiom | 234347 | [234347-axiom.json](./234347-axiom.json) |
 | Axiom Alternative | 158589 | [158589-axiom-alternative.json](./158589-axiom-alternative.json) |
 | Axiom of Echoes: Proof Refactor | 408045 | [408045-axiom-of-echoes-proof-refactor.json](./408045-axiom-of-echoes-proof-refactor.json) |
