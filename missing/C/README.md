@@ -5958,6 +5958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuboy | 251692 | [251692-cuboy.json](./251692-cuboy.json) |
 | Cuboyd | 290708 | [290708-cuboyd.json](./290708-cuboyd.json) |
 | Cubrick | 28792 | [28792-cubrick.json](./28792-cubrick.json) |
+| CubScouting: OnTarget | 65759 | [65759-cubscouting-ontarget.json](./65759-cubscouting-ontarget.json) |
 | Cubuleto | 374124 | [374124-cubuleto.json](./374124-cubuleto.json) |
 | Cubway | 31800 | [31800-cubway.json](./31800-cubway.json) |
 | Cuby Bop | 39675 | [39675-cuby-bop.json](./39675-cuby-bop.json) |
