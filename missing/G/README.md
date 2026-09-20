@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galagan's Island: Reprymian Rising | 21297 | [21297-galagans-island-reprymian-rising.json](./21297-galagans-island-reprymian-rising.json) |
 | Galagi Shooter | 197342 | [197342-galagi-shooter.json](./197342-galagi-shooter.json) |
 | Galahad | 46595 | [46595-galahad.json](./46595-galahad.json) |
+| Galak Zed | 116874 | [116874-galak-zed.json](./116874-galak-zed.json) |
 | Galak-Z: The Dimensional | 11203 | [11203-galak-z-the-dimensional.json](./11203-galak-z-the-dimensional.json) |
 | Galak-Z: The Virtual | 111039 | [111039-galak-z-the-virtual.json](./111039-galak-z-the-virtual.json) |
 | Galak-Z: The Void - Deluxe Edition | 115666 | [115666-galak-z-the-void-deluxe-edition.json](./115666-galak-z-the-void-deluxe-edition.json) |
@@ -1350,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gizmos: Spirit of the Christmas | 156678 | [156678-gizmos-spirit-of-the-christmas.json](./156678-gizmos-spirit-of-the-christmas.json) |
 | GL-117 Action Flight Simulator | 51245 | [51245-gl-117-action-flight-simulator.json](./51245-gl-117-action-flight-simulator.json) |
 | Glacier 3: The Meltdown | 16902 | [16902-glacier-3-the-meltdown.json](./16902-glacier-3-the-meltdown.json) |
+| Glad Valakas: Cyberban | 116817 | [116817-glad-valakas-cyberban.json](./116817-glad-valakas-cyberban.json) |
 | Gladia | 157038 | [157038-gladia.json](./157038-gladia.json) |
 | Gladiate! | 301947 | [301947-gladiate.json](./301947-gladiate.json) |
 | Gladiato Potato | 349387 | [349387-gladiato-potato.json](./349387-gladiato-potato.json) |
@@ -1432,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Outbreak: Doomsday Edition | 30254 | [30254-global-outbreak-doomsday-edition.json](./30254-global-outbreak-doomsday-edition.json) |
 | Global Shipping Simulator | 326414 | [326414-global-shipping-simulator.json](./326414-global-shipping-simulator.json) |
 | Global Soccer Manager 2015 | 98428 | [98428-global-soccer-manager-2015.json](./98428-global-soccer-manager-2015.json) |
+| Global Soccer Manager 2019 | 116870 | [116870-global-soccer-manager-2019.json](./116870-global-soccer-manager-2019.json) |
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
 | Globat Pixels | 115676 | [115676-globat-pixels.json](./115676-globat-pixels.json) |
 | Globe Drone | 307733 | [307733-globe-drone.json](./307733-globe-drone.json) |
