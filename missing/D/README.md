@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Dash Delivery | 160264 | [160264-dash-dash-delivery.json](./160264-dash-dash-delivery.json) |
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
 | Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
+| Dash Quest | 99402 | [99402-dash-quest.json](./99402-dash-quest.json) |
 | Dash Valley | 108447 | [108447-dash-valley.json](./108447-dash-valley.json) |
 | Dash x Survivors | 266276 | [266276-dash-x-survivors.json](./266276-dash-x-survivors.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
@@ -4835,6 +4836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamless: The Madness from the Sea | 146846 | [146846-dreamless-the-madness-from-the-sea.json](./146846-dreamless-the-madness-from-the-sea.json) |
 | Dreamlight | 151025 | [151025-dreamlight.json](./151025-dreamlight.json) |
 | Dreampainters | 360005 | [360005-dreampainters.json](./360005-dreampainters.json) |
+| Dreampath: Curse of the Swamps HD | 99378 | [99378-dreampath-curse-of-the-swamps-hd.json](./99378-dreampath-curse-of-the-swamps-hd.json) |
 | DreamPusher | 368047 | [368047-dreampusher.json](./368047-dreampusher.json) |
 | Dreamrealm's Tower of Despair | 353379 | [353379-dreamrealms-tower-of-despair.json](./353379-dreamrealms-tower-of-despair.json) |
 | Dreams | 286686 | [286686-dreams.json](./286686-dreams.json) |
@@ -4918,6 +4920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Mania | 161412 | [161412-drift-mania.json](./161412-drift-mania.json) |
 | Drift Mania: Street Outlaws | 38938 | [38938-drift-mania-street-outlaws.json](./38938-drift-mania-street-outlaws.json) |
 | Drift Market | 388757 | [388757-drift-market.json](./388757-drift-market.json) |
+| Drift Max Pro | 99408 | [99408-drift-max-pro.json](./99408-drift-max-pro.json) |
 | Drift Out | 39674 | [39674-drift-out.json](./39674-drift-out.json) |
 | Drift Streets Japan | 34167 | [34167-drift-streets-japan.json](./34167-drift-streets-japan.json) |
 | Drift Stunt Racing 2019 | 109769 | [109769-drift-stunt-racing-2019.json](./109769-drift-stunt-racing-2019.json) |
