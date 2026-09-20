@@ -3523,6 +3523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 88: The Mini Suke Porisu | 43325 | [43325-simple-2000-series-vol-88-the-mini-suke-porisu.json](./43325-simple-2000-series-vol-88-the-mini-suke-porisu.json) |
 | Simple 2000 Series Vol. 89: The Party Games 2 | 203326 | [203326-simple-2000-series-vol-89-the-party-games-2.json](./203326-simple-2000-series-vol-89-the-party-games-2.json) |
 | Simple 2000 Series Vol. 93: The Unou Drill | 203327 | [203327-simple-2000-series-vol-93-the-unou-drill.json](./203327-simple-2000-series-vol-93-the-unou-drill.json) |
+| Simple 2000 Series Vol. 94: The Akachampion | 68267 | [68267-simple-2000-series-vol-94-the-akachampion.json](./68267-simple-2000-series-vol-94-the-akachampion.json) |
 | Simple 2000 Series Vol. 98: The Roman Sabou | 203329 | [203329-simple-2000-series-vol-98-the-roman-sabou.json](./203329-simple-2000-series-vol-98-the-roman-sabou.json) |
 | Simple 2000 Series Vol.116: The Neko-mura no Hitobito - Pagu Daikan no Akugyou San-mai | 203337 | [203337-simple-2000-series-vol-116-the-neko-mura-no-hitobito-pagu-daikan-no-akugyou-san-mai.json](./203337-simple-2000-series-vol-116-the-neko-mura-no-hitobito-pagu-daikan-no-akugyou-san-mai.json) |
 | Simple 2000 Series Vol.86: Menkyo Shutoku Simulation - Kaiseidouro Koutsuu-hou Taiouban | 203325 | [203325-simple-2000-series-vol-86-menkyo-shutoku-simulation-kaiseidouro-koutsuu-hou-taiouban.json](./203325-simple-2000-series-vol-86-menkyo-shutoku-simulation-kaiseidouro-koutsuu-hou-taiouban.json) |
@@ -5045,6 +5046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
 | So I'm a Spider, So What? Ruler of the Labyrinth | 323711 | [323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json](./323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json) |
+| So Let Us Melt | 68276 | [68276-so-let-us-melt.json](./68276-so-let-us-melt.json) |
 | So Long Grandma | 87995 | [87995-so-long-grandma.json](./87995-so-long-grandma.json) |
 | So Many Cubes | 31791 | [31791-so-many-cubes.json](./31791-so-many-cubes.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
@@ -7344,6 +7346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprill: The Mystery of the Bermuda Triangle | 54419 | [54419-sprill-the-mystery-of-the-bermuda-triangle.json](./54419-sprill-the-mystery-of-the-bermuda-triangle.json) |
 | Spring a Line | 359401 | [359401-spring-a-line.json](./359401-spring-a-line.json) |
 | Spring Babies | 82165 | [82165-spring-babies.json](./82165-spring-babies.json) |
+| Spring Breeze | 68328 | [68328-spring-breeze.json](./68328-spring-breeze.json) |
 | Spring Catastrophe | 246652 | [246652-spring-catastrophe.json](./246652-spring-catastrophe.json) |
 | Spring Cleaning | 179733 | [179733-spring-cleaning.json](./179733-spring-cleaning.json) |
 | Spring Crisis 2 | 280922 | [280922-spring-crisis-2.json](./280922-spring-crisis-2.json) |
@@ -8315,6 +8318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starting the Game | 97230 | [97230-starting-the-game.json](./97230-starting-the-game.json) |
 | Startling Odyssey | 78944 | [78944-startling-odyssey.json](./78944-startling-odyssey.json) |
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
+| StarTrash | 68347 | [68347-startrash.json](./68347-startrash.json) |
 | Startron | 333022 | [333022-startron.json](./333022-startron.json) |
 | Startup Freak | 74369 | [74369-startup-freak.json](./74369-startup-freak.json) |
 | Starva Saga | 391184 | [391184-starva-saga.json](./391184-starva-saga.json) |
@@ -10784,6 +10788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Toy Cars 1 & 2 Bundle | 208579 | [208579-super-toy-cars-1-and-2-bundle.json](./208579-super-toy-cars-1-and-2-bundle.json) |
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
 | Super Toy Cars Offroad | 173959 | [173959-super-toy-cars-offroad.json](./173959-super-toy-cars-offroad.json) |
+| Super Trolley | 68348 | [68348-super-trolley.json](./68348-super-trolley.json) |
 | Super Trucks Racing | 43352 | [43352-super-trucks-racing.json](./43352-super-trucks-racing.json) |
 | Super Trux | 74431 | [74431-super-trux.json](./74431-super-trux.json) |
 | Super Tumanguya Climber | 339136 | [339136-super-tumanguya-climber.json](./339136-super-tumanguya-climber.json) |
@@ -10927,6 +10932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supersonic | 265741 | [265741-supersonic.json](./265741-supersonic.json) |
 | Supersonic Highway Defenders | 355559 | [355559-supersonic-highway-defenders.json](./355559-supersonic-highway-defenders.json) |
 | SuperSpec Rallycross | 291740 | [291740-superspec-rallycross.json](./291740-superspec-rallycross.json) |
+| Supersportic | 68273 | [68273-supersportic.json](./68273-supersportic.json) |
 | Supersports: The Alternative Olympics | 123008 | [123008-supersports-the-alternative-olympics.json](./123008-supersports-the-alternative-olympics.json) |
 | SuperSquad.GG | 292002 | [292002-supersquad-gg.json](./292002-supersquad-gg.json) |
 | Superstar Chefs | 57666 | [57666-superstar-chefs.json](./57666-superstar-chefs.json) |
