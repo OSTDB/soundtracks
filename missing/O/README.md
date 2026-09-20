@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Shot in the Dark, Now I'm Dead. | 159335 | [159335-one-shot-in-the-dark-now-im-dead.json](./159335-one-shot-in-the-dark-now-im-dead.json) |
 | One Shot Outlaw | 212461 | [212461-one-shot-outlaw.json](./212461-one-shot-outlaw.json) |
 | One show only | 25620 | [25620-one-show-only.json](./25620-one-show-only.json) |
+| One Single Life | 92315 | [92315-one-single-life.json](./92315-one-single-life.json) |
 | One Slime Army | 307597 | [307597-one-slime-army.json](./307597-one-slime-army.json) |
 | One Small Favor | 163859 | [163859-one-small-favor.json](./163859-one-small-favor.json) |
 | One Small Square Backyard | 209024 | [209024-one-small-square-backyard.json](./209024-one-small-square-backyard.json) |
