@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letux Game | 199469 | [199469-letux-game.json](./199469-letux-game.json) |
 | Levantar La Botella | 364512 | [364512-levantar-la-botella.json](./364512-levantar-la-botella.json) |
 | Level | 326614 | [326614-level.json](./326614-level.json) |
+| Level 5 | 94001 | [94001-level-5.json](./94001-level-5.json) |
 | Level Down | 133828 | [133828-level-down.json](./133828-level-down.json) |
 | Level Squared | 82890 | [82890-level-squared.json](./82890-level-squared.json) |
 | Level Tank | 207317 | [207317-level-tank.json](./207317-level-tank.json) |
@@ -1739,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linkin Hero | 234620 | [234620-linkin-hero.json](./234620-linkin-hero.json) |
 | Linkin Park Revenge | 77965 | [77965-linkin-park-revenge.json](./77965-linkin-park-revenge.json) |
 | LinkIt! | 26506 | [26506-linkit.json](./26506-linkit.json) |
+| Linkle Liver Story | 94005 | [94005-linkle-liver-story.json](./94005-linkle-liver-story.json) |
 | Linkrealms | 34467 | [34467-linkrealms.json](./34467-linkrealms.json) |
 | Links E6: Course Pack 1 | 153464 | [153464-links-e6-course-pack-1.json](./153464-links-e6-course-pack-1.json) |
 | Links E6: Course Pack 3 | 153465 | [153465-links-e6-course-pack-3.json](./153465-links-e6-course-pack-3.json) |
@@ -3073,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna Child no Saishuu Bouei Line 3 | 202971 | [202971-luna-child-no-saishuu-bouei-line-3.json](./202971-luna-child-no-saishuu-bouei-line-3.json) |
 | Luna de Selene | 383349 | [383349-luna-de-selene.json](./383349-luna-de-selene.json) |
 | Luna in Silver Shards | 271233 | [271233-luna-in-silver-shards.json](./271233-luna-in-silver-shards.json) |
+| Luna Online | 93982 | [93982-luna-online.json](./93982-luna-online.json) |
 | Luna Sonata | 243424 | [243424-luna-sonata.json](./243424-luna-sonata.json) |
 | Luna Story II: Six Pieces of Tears | 141209 | [141209-luna-story-ii-six-pieces-of-tears.json](./141209-luna-story-ii-six-pieces-of-tears.json) |
 | Luna Story III: On Your Mark | 141211 | [141211-luna-story-iii-on-your-mark.json](./141211-luna-story-iii-on-your-mark.json) |
