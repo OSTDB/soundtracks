@@ -2002,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deriva | 348329 | [348329-deriva.json](./348329-deriva.json) |
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
 | Derpy Fish | 356078 | [356078-derpy-fish.json](./356078-derpy-fish.json) |
+| Derpy Pirates! The Search for the Bungalow | 126425 | [126425-derpy-pirates-the-search-for-the-bungalow.json](./126425-derpy-pirates-the-search-for-the-bungalow.json) |
 | Derrick the Deathfin | 17187 | [17187-derrick-the-deathfin.json](./17187-derrick-the-deathfin.json) |
 | Deru | 258698 | [258698-deru.json](./258698-deru.json) |
 | Dervish | 13589 | [13589-dervish.json](./13589-dervish.json) |
@@ -3416,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dohyo Dreams: Rise to Yokozuna | 381604 | [381604-dohyo-dreams-rise-to-yokozuna.json](./381604-dohyo-dreams-rise-to-yokozuna.json) |
 | Dojagi: The Korean Pottery | 112371 | [112371-dojagi-the-korean-pottery.json](./112371-dojagi-the-korean-pottery.json) |
 | Dojo Assault | 249847 | [249847-dojo-assault.json](./249847-dojo-assault.json) |
+| Doka 2 Trade | 126439 | [126439-doka-2-trade.json](./126439-doka-2-trade.json) |
 | Doka 2: Guts Out Ninja | 114386 | [114386-doka-2-guts-out-ninja.json](./114386-doka-2-guts-out-ninja.json) |
 | Doka-chan no Onigokko | 234039 | [234039-doka-chan-no-onigokko.json](./234039-doka-chan-no-onigokko.json) |
 | Dokapon Kingdom: Connect | 234349 | [234349-dokapon-kingdom-connect.json](./234349-dokapon-kingdom-connect.json) |
@@ -4066,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down the Shaft | 305176 | [305176-down-the-shaft.json](./305176-down-the-shaft.json) |
 | Down There Somewhere | 269031 | [269031-down-there-somewhere.json](./269031-down-there-somewhere.json) |
 | Down Under | 252397 | [252397-down-under.json](./252397-down-under.json) |
+| Down Ward | 126429 | [126429-down-ward.json](./126429-down-ward.json) |
 | Downbreak | 95578 | [95578-downbreak.json](./95578-downbreak.json) |
 | Downer Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Yonpaku Itsuka no Tabi | 396931 | [396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json](./396931-downer-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-yonpaku-itsuka-no-tabi.json) |
 | Downfall Hearts | 258487 | [258487-downfall-hearts.json](./258487-downfall-hearts.json) |
