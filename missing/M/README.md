@@ -1828,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaxControl | 31928 | [31928-maxcontrol.json](./31928-maxcontrol.json) |
 | Maxi Quiz du Foot Francais | 149007 | [149007-maxi-quiz-du-foot-francais.json](./149007-maxi-quiz-du-foot-francais.json) |
 | Maxi Trucks Racing | 366212 | [366212-maxi-trucks-racing.json](./366212-maxi-trucks-racing.json) |
+| MaxiGolf | 102594 | [102594-maxigolf.json](./102594-maxigolf.json) |
 | Maximal Mahjongg | 94235 | [94235-maximal-mahjongg.json](./94235-maximal-mahjongg.json) |
 | Maximo vs. Army of Zin | 43642 | [43642-maximo-vs-army-of-zin.json](./43642-maximo-vs-army-of-zin.json) |
 | Maximum Action | 92784 | [92784-maximum-action.json](./92784-maximum-action.json) |
@@ -2743,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge 3 Mania | 234618 | [234618-merge-3-mania.json](./234618-merge-3-mania.json) |
 | Merge 5: 10x10 Color | 233518 | [233518-merge-5-10x10-color.json](./233518-merge-5-10x10-color.json) |
 | Merge AirPlane | 227501 | [227501-merge-airplane.json](./227501-merge-airplane.json) |
+| Merge Battle | 102592 | [102592-merge-battle.json](./102592-merge-battle.json) |
 | Merge Bistro | 248103 | [248103-merge-bistro.json](./248103-merge-bistro.json) |
 | Merge Chess | 172007 | [172007-merge-chess.json](./172007-merge-chess.json) |
 | Merge Circle | 262342 | [262342-merge-circle.json](./262342-merge-circle.json) |
