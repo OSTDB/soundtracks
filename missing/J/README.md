@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jailbird Nocturne | 364530 | [364530-jailbird-nocturne.json](./364530-jailbird-nocturne.json) |
 | Jailbirdman | 362356 | [362356-jailbirdman.json](./362356-jailbirdman.json) |
 | Jailbreak Russia | 104023 | [104023-jailbreak-russia.json](./104023-jailbreak-russia.json) |
+| Jailbreak Simulator | 121482 | [121482-jailbreak-simulator.json](./121482-jailbreak-simulator.json) |
 | Jailbreak: The Ultimate Escape | 256260 | [256260-jailbreak-the-ultimate-escape.json](./256260-jailbreak-the-ultimate-escape.json) |
 | JailBreaker | 274775 | [274775-jailbreaker.json](./274775-jailbreaker.json) |
 | JailBreaker | 98478 | [98478-jailbreaker.json](./98478-jailbreaker.json) |
