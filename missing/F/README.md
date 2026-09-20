@@ -4037,6 +4037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fugitive 3D | 152758 | [152758-fugitive-3d.json](./152758-fugitive-3d.json) |
 | Fugue | 104072 | [104072-fugue.json](./104072-fugue.json) |
 | Fugue in Void | 105212 | [105212-fugue-in-void.json](./105212-fugue-in-void.json) |
+| Fugue State | 106420 | [106420-fugue-state.json](./106420-fugue-state.json) |
 | Fuhrer in LA: Special Edition | 252177 | [252177-fuhrer-in-la-special-edition.json](./252177-fuhrer-in-la-special-edition.json) |
 | Fujiwara Phoenix | 245869 | [245869-fujiwara-phoenix.json](./245869-fujiwara-phoenix.json) |
 | Fukakutei Sekai no Tantei Shinshi | 122877 | [122877-fukakutei-sekai-no-tantei-shinshi.json](./122877-fukakutei-sekai-no-tantei-shinshi.json) |
@@ -4158,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Team Fortress 2 Pack | 323394 | [323394-funko-fusion-team-fortress-2-pack.json](./323394-funko-fusion-team-fortress-2-pack.json) |
 | Funko Fusion: The Walking Dead Pack | 323395 | [323395-funko-fusion-the-walking-dead-pack.json](./323395-funko-fusion-the-walking-dead-pack.json) |
 | Funko Fusion: Trap Jaw | 323319 | [323319-funko-fusion-trap-jaw.json](./323319-funko-fusion-trap-jaw.json) |
+| Funky Bay - Farm & Adventure | 106356 | [106356-funky-bay-farm-and-adventure.json](./106356-funky-bay-farm-and-adventure.json) |
 | Funky Fish | 39685 | [39685-funky-fish.json](./39685-funky-fish.json) |
 | Funky Maker | 336599 | [336599-funky-maker.json](./336599-funky-maker.json) |
 | Funnels and Buckets | 46644 | [46644-funnels-and-buckets.json](./46644-funnels-and-buckets.json) |
