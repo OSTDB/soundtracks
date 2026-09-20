@@ -2459,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Pinball Gameroom: United Rio | 265161 | [265161-bingo-pinball-gameroom-united-rio.json](./265161-bingo-pinball-gameroom-united-rio.json) |
 | Bingo Pop | 101516 | [101516-bingo-pop.json](./101516-bingo-pop.json) |
 | Bingo Roulette | 404213 | [404213-bingo-roulette.json](./404213-bingo-roulette.json) |
+| Biniax | 93357 | [93357-biniax.json](./93357-biniax.json) |
 | Biniku no Kaori: Bangai Hen | 237405 | [237405-biniku-no-kaori-bangai-hen.json](./237405-biniku-no-kaori-bangai-hen.json) |
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
 | Bio Challenge | 12917 | [12917-bio-challenge.json](./12917-bio-challenge.json) |
@@ -4897,6 +4898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruce Lee: Quest of the Dragon | 5758 | [5758-bruce-lee-quest-of-the-dragon.json](./5758-bruce-lee-quest-of-the-dragon.json) |
 | Bruce Quest: The Secrets of the Outback | 379888 | [379888-bruce-quest-the-secrets-of-the-outback.json](./379888-bruce-quest-the-secrets-of-the-outback.json) |
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
+| Brum Brum | 93386 | [93386-brum-brum.json](./93386-brum-brum.json) |
 | Brunch Club | 122867 | [122867-brunch-club.json](./122867-brunch-club.json) |
 | Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
 | Brunswick Pro Bowling | 4731 | [4731-brunswick-pro-bowling.json](./4731-brunswick-pro-bowling.json) |
@@ -5587,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BvB: Burglars vs. Brats | 275875 | [275875-bvb-burglars-vs-brats.json](./275875-bvb-burglars-vs-brats.json) |
 | BVOVB: Bruising Vengeance of the Vintage Boxer | 55125 | [55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json](./55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json) |
 | Bvrger Van | 105138 | [105138-bvrger-van.json](./105138-bvrger-van.json) |
+| BVS Solitaire Collection | 93360 | [93360-bvs-solitaire-collection.json](./93360-bvs-solitaire-collection.json) |
 | By Grit Alone | 306947 | [306947-by-grit-alone.json](./306947-by-grit-alone.json) |
 | By Moonlight | 114968 | [114968-by-moonlight.json](./114968-by-moonlight.json) |
 | By Sword & Road | 394371 | [394371-by-sword-and-road.json](./394371-by-sword-and-road.json) |
