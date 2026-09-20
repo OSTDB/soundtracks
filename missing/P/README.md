@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panga's Kaizo Kindergarten (For Dummies) | 145479 | [145479-pangas-kaizo-kindergarten-for-dummies.json](./145479-pangas-kaizo-kindergarten-for-dummies.json) |
 | Pangea 1/2 | 325660 | [325660-pangea-1-2.json](./325660-pangea-1-2.json) |
 | Pangemic | 30818 | [30818-pangemic.json](./30818-pangemic.json) |
+| Pango and friends | 89705 | [89705-pango-and-friends.json](./89705-pango-and-friends.json) |
 | Pango Blocks | 87889 | [87889-pango-blocks.json](./87889-pango-blocks.json) |
 | Pango Build City | 89761 | [89761-pango-build-city.json](./89761-pango-build-city.json) |
 | Pango Build Safari | 105768 | [105768-pango-build-safari.json](./105768-pango-build-safari.json) |
@@ -4156,6 +4157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preschool & Kindergarten 2 | 88279 | [88279-preschool-and-kindergarten-2.json](./88279-preschool-and-kindergarten-2.json) |
 | Preschool & Kindergarten Games | 88268 | [88268-preschool-and-kindergarten-games.json](./88268-preschool-and-kindergarten-games.json) |
 | Preschool Games Kids Learning | 107650 | [107650-preschool-games-kids-learning.json](./107650-preschool-games-kids-learning.json) |
+| Preschool Numbers - Play & Learn | 89700 | [89700-preschool-numbers-play-and-learn.json](./89700-preschool-numbers-play-and-learn.json) |
 | Prescience | 217373 | [217373-prescience.json](./217373-prescience.json) |
 | Presence | 124269 | [124269-presence.json](./124269-presence.json) |
 | Presence | 170989 | [170989-presence.json](./170989-presence.json) |
