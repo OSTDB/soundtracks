@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go Thingio!: Re:Thingio Side A | 323753 | [323753-lets-go-thingio-re-thingio-side-a.json](./323753-lets-go-thingio-re-thingio-side-a.json) |
 | Let's Go To The Circus | 299150 | [299150-lets-go-to-the-circus.json](./299150-lets-go-to-the-circus.json) |
 | Let's Go! My Harem Farm | 278149 | [278149-lets-go-my-harem-farm.json](./278149-lets-go-my-harem-farm.json) |
+| Let's Golf! | 67693 | [67693-lets-golf.json](./67693-lets-golf.json) |
 | Let's Jump | 265759 | [265759-lets-jump.json](./265759-lets-jump.json) |
 | Let's Kill Hitler: The Game | 253914 | [253914-lets-kill-hitler-the-game.json](./253914-lets-kill-hitler-the-game.json) |
 | Let's Kill Iggy! | 330843 | [330843-lets-kill-iggy.json](./330843-lets-kill-iggy.json) |
