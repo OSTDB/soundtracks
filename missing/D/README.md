@@ -1688,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender | 346133 | [346133-defender.json](./346133-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
 | Defender II | 182401 | [182401-defender-ii.json](./182401-defender-ii.json) |
+| Defender of Freedom | 65734 | [65734-defender-of-freedom.json](./65734-defender-of-freedom.json) |
 | Defender of the Crown | 1873 | [1873-defender-of-the-crown.json](./1873-defender-of-the-crown.json) |
 | Defender of the Turrets: Warp Attack | 171593 | [171593-defender-of-the-turrets-warp-attack.json](./171593-defender-of-the-turrets-warp-attack.json) |
 | Defender of Zorgaba | 67976 | [67976-defender-of-zorgaba.json](./67976-defender-of-zorgaba.json) |
@@ -2484,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dezaemon 3D | 3470 | [3470-dezaemon-3d.json](./3470-dezaemon-3d.json) |
 | Dezaemon BS-X Version: BS-X Shooting | 142409 | [142409-dezaemon-bs-x-version-bs-x-shooting.json](./142409-dezaemon-bs-x-version-bs-x-shooting.json) |
 | Dezaemon Kids! | 98463 | [98463-dezaemon-kids.json](./98463-dezaemon-kids.json) |
+| Dezaemon Plus | 65770 | [65770-dezaemon-plus.json](./65770-dezaemon-plus.json) |
 | Dfiance | 323371 | [323371-dfiance.json](./323371-dfiance.json) |
 | DFP: Disappear From Polizia | 373098 | [373098-dfp-disappear-from-polizia.json](./373098-dfp-disappear-from-polizia.json) |
 | Dfragmente | 76555 | [76555-dfragmente.json](./76555-dfragmente.json) |
@@ -3318,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Heart Karen SP Season 2: Nari Henshin Heroine Crisis! | 80492 | [80492-divine-heart-karen-sp-season-2-nari-henshin-heroine-crisis.json](./80492-divine-heart-karen-sp-season-2-nari-henshin-heroine-crisis.json) |
 | Divine Intervention (Pt. 1) | 141017 | [141017-divine-intervention-pt-1.json](./141017-divine-intervention-pt-1.json) |
 | Divine Journey: The Life of Jesus | 280199 | [280199-divine-journey-the-life-of-jesus.json](./280199-divine-journey-the-life-of-jesus.json) |
+| Divine Justice Zero | 65757 | [65757-divine-justice-zero.json](./65757-divine-justice-zero.json) |
 | Divine Miko Koyori | 122451 | [122451-divine-miko-koyori.json](./122451-divine-miko-koyori.json) |
 | Divine Orders | 333108 | [333108-divine-orders.json](./333108-divine-orders.json) |
 | Divine Souls Online | 51264 | [51264-divine-souls-online.json](./51264-divine-souls-online.json) |
@@ -4552,6 +4555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Finga | 403614 | [403614-dragon-finga.json](./403614-dragon-finga.json) |
 | Dragon Fire | 24844 | [24844-dragon-fire.json](./24844-dragon-fire.json) |
 | Dragon Force | 2968 | [2968-dragon-force.json](./2968-dragon-force.json) |
+| Dragon Force: The Day 3 | 65737 | [65737-dragon-force-the-day-3.json](./65737-dragon-force-the-day-3.json) |
 | Dragon Friends: The Secret of Green Witch | 212453 | [212453-dragon-friends-the-secret-of-green-witch.json](./212453-dragon-friends-the-secret-of-green-witch.json) |
 | Dragon Fun Classic | 221974 | [221974-dragon-fun-classic.json](./221974-dragon-fun-classic.json) |
 | Dragon Fury | 231046 | [231046-dragon-fury.json](./231046-dragon-fury.json) |
@@ -4921,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Wave'84 | 379870 | [379870-dream-wave84.json](./379870-dream-wave84.json) |
 | Dream Well | 205104 | [205104-dream-well.json](./205104-dream-well.json) |
 | Dream Wires | 180240 | [180240-dream-wires.json](./180240-dream-wires.json) |
+| Dream: Land of Giants | 65775 | [65775-dream-land-of-giants.json](./65775-dream-land-of-giants.json) |
 | Dream? | 202246 | [202246-dream.json](./202246-dream.json) |
 | Dream.exe: A Markiplier Fan Game | 159180 | [159180-dream-exe-a-markiplier-fan-game.json](./159180-dream-exe-a-markiplier-fan-game.json) |
 | Dreamblood | 280903 | [280903-dreamblood.json](./280903-dreamblood.json) |
@@ -5759,6 +5764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duotron | 92474 | [92474-duotron.json](./92474-duotron.json) |
 | DuoXBall | 233242 | [233242-duoxball.json](./233242-duoxball.json) |
 | DuoZuplixo | 369025 | [369025-duozuplixo.json](./369025-duozuplixo.json) |
+| Duped | 65789 | [65789-duped.json](./65789-duped.json) |
 | dUpLicity ~Beyond the Lies~ | 36104 | [36104-duplicity-beyond-the-lies.json](./36104-duplicity-beyond-the-lies.json) |
 | Duplicity Loop | 278525 | [278525-duplicity-loop.json](./278525-duplicity-loop.json) |
 | Duppy Detective Tashia | 215885 | [215885-duppy-detective-tashia.json](./215885-duppy-detective-tashia.json) |
