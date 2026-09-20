@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Cat Explores Minds | 151736 | [151736-black-cat-explores-minds.json](./151736-black-cat-explores-minds.json) |
 | Black Cat-astrophe | 243814 | [243814-black-cat-astrophe.json](./243814-black-cat-astrophe.json) |
 | Black Cat: Kikai Shikake no Tenshi | 229712 | [229712-black-cat-kikai-shikake-no-tenshi.json](./229712-black-cat-kikai-shikake-no-tenshi.json) |
+| Black Cats and Pointed Hats | 71785 | [71785-black-cats-and-pointed-hats.json](./71785-black-cats-and-pointed-hats.json) |
 | Black Cauldron Remake | 319346 | [319346-black-cauldron-remake.json](./319346-black-cauldron-remake.json) |
 | Black Chapter | 156624 | [156624-black-chapter.json](./156624-black-chapter.json) |
 | Black Clover: Infinite Knights | 122885 | [122885-black-clover-infinite-knights.json](./122885-black-clover-infinite-knights.json) |
