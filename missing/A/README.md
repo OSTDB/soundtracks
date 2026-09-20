@@ -2068,10 +2068,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Wheel Tuning Pack | 353402 | [353402-american-truck-simulator-wheel-tuning-pack.json](./353402-american-truck-simulator-wheel-tuning-pack.json) |
 | American Truck Traffic Racer: Highway Racing | 133816 | [133816-american-truck-traffic-racer-highway-racing.json](./133816-american-truck-traffic-racer-highway-racing.json) |
 | American Trucker: The Simulation | 52581 | [52581-american-trucker-the-simulation.json](./52581-american-trucker-the-simulation.json) |
+| American University Life | 105752 | [105752-american-university-life.json](./105752-american-university-life.json) |
 | American Zombie: Election Year | 130325 | [130325-american-zombie-election-year.json](./130325-american-zombie-election-year.json) |
 | Americas Greatest Games | 206113 | [206113-americas-greatest-games.json](./206113-americas-greatest-games.json) |
 | Americas Tower Simulator | 224756 | [224756-americas-tower-simulator.json](./224756-americas-tower-simulator.json) |
 | Amerzone: The Explorer's Legacy - Limited Edition | 292145 | [292145-amerzone-the-explorers-legacy-limited-edition.json](./292145-amerzone-the-explorers-legacy-limited-edition.json) |
+| Amethlion | 105771 | [105771-amethlion.json](./105771-amethlion.json) |
 | Amethyst Hearth | 194410 | [194410-amethyst-hearth.json](./194410-amethyst-hearth.json) |
 | Ametrine Dreams | 382192 | [382192-ametrine-dreams.json](./382192-ametrine-dreams.json) |
 | AMF Bowling | 206115 | [206115-amf-bowling.json](./206115-amf-bowling.json) |
@@ -3117,6 +3119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquium | 290553 | [290553-aquium.json](./290553-aquium.json) |
 | Aqumana | 175376 | [175376-aqumana.json](./175376-aqumana.json) |
 | AR Basketball | 63247 | [63247-ar-basketball.json](./63247-ar-basketball.json) |
+| AR Butterflies and Flowers | 105773 | [105773-ar-butterflies-and-flowers.json](./105773-ar-butterflies-and-flowers.json) |
 | AR Darts | 55895 | [55895-ar-darts.json](./55895-ar-darts.json) |
 | AR Flappy | 232186 | [232186-ar-flappy.json](./232186-ar-flappy.json) |
 | AR Invaders | 63248 | [63248-ar-invaders.json](./63248-ar-invaders.json) |
@@ -3448,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archers Shadow Strike | 332536 | [332536-archers-shadow-strike.json](./332536-archers-shadow-strike.json) |
 | Archers: Bowman's Battle | 63249 | [63249-archers-bowmans-battle.json](./63249-archers-bowmans-battle.json) |
 | Archery | 247023 | [247023-archery.json](./247023-archery.json) |
+| Archery Art | 105774 | [105774-archery-art.json](./105774-archery-art.json) |
 | Archery Black | 356646 | [356646-archery-black.json](./356646-archery-black.json) |
 | Archery Champion Bowman | 87928 | [87928-archery-champion-bowman.json](./87928-archery-champion-bowman.json) |
 | Archery Escape | 207880 | [207880-archery-escape.json](./207880-archery-escape.json) |
@@ -4857,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatars Saga | 243704 | [243704-avatars-saga.json](./243704-avatars-saga.json) |
 | Avelia | 292318 | [292318-avelia.json](./292318-avelia.json) |
 | Aveliana | 156152 | [156152-aveliana.json](./156152-aveliana.json) |
+| Avem888 | 105751 | [105751-avem888.json](./105751-avem888.json) |
 | Aven Colony: The Cerulean Vale | 227353 | [227353-aven-colony-the-cerulean-vale.json](./227353-aven-colony-the-cerulean-vale.json) |
 | Avenger | 109598 | [109598-avenger.json](./109598-avenger.json) |
 | Avenger | 109599 | [109599-avenger.json](./109599-avenger.json) |
@@ -4927,6 +4932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakened Evil | 190077 | [190077-awakened-evil.json](./190077-awakened-evil.json) |
 | Awakened: Dark Space | 141178 | [141178-awakened-dark-space.json](./141178-awakened-dark-space.json) |
 | Awakener | 165513 | [165513-awakener.json](./165513-awakener.json) |
+| Awakening | 105765 | [105765-awakening.json](./105765-awakening.json) |
 | Awakening | 264059 | [264059-awakening.json](./264059-awakening.json) |
 | Awakening Automata | 174766 | [174766-awakening-automata.json](./174766-awakening-automata.json) |
 | Awakening of Dragon | 110177 | [110177-awakening-of-dragon.json](./110177-awakening-of-dragon.json) |
