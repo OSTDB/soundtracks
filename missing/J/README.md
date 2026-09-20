@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Catz | 291786 | [291786-jungle-catz.json](./291786-jungle-catz.json) |
 | Jungle Crash Land | 66151 | [66151-jungle-crash-land.json](./66151-jungle-crash-land.json) |
 | Jungle Drummer | 305139 | [305139-jungle-drummer.json](./305139-jungle-drummer.json) |
+| Jungle Guardians | 112720 | [112720-jungle-guardians.json](./112720-jungle-guardians.json) |
 | Jungle Jammy | 242565 | [242565-jungle-jammy.json](./242565-jungle-jammy.json) |
 | Jungle Jim | 340781 | [340781-jungle-jim.json](./340781-jungle-jim.json) |
 | Jungle Jinx | 355563 | [355563-jungle-jinx.json](./355563-jungle-jinx.json) |
@@ -1222,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Pool | 411711 | [411711-just-pool.json](./411711-just-pool.json) |
 | Just Push the Button | 224117 | [224117-just-push-the-button.json](./224117-just-push-the-button.json) |
 | Just Random Squares | 120394 | [120394-just-random-squares.json](./120394-just-random-squares.json) |
+| Just Roll With It | 112763 | [112763-just-roll-with-it.json](./112763-just-roll-with-it.json) |
 | Just Run! | 102141 | [102141-just-run.json](./102141-just-run.json) |
 | Just Shapes & Beats | 31194 | [31194-just-shapes-and-beats.json](./31194-just-shapes-and-beats.json) |
 | Just Shapes & Beats: Hardcore Edition | 118174 | [118174-just-shapes-and-beats-hardcore-edition.json](./118174-just-shapes-and-beats-hardcore-edition.json) |
