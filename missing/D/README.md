@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Eye Jim | 44639 | [44639-dead-eye-jim.json](./44639-dead-eye-jim.json) |
 | Dead Face | 181919 | [181919-dead-face.json](./181919-dead-face.json) |
 | Dead for Dread | 305958 | [305958-dead-for-dread.json](./305958-dead-for-dread.json) |
+| Dead Fun Pack: Penguins and Aliens Strike Again | 102588 | [102588-dead-fun-pack-penguins-and-aliens-strike-again.json](./102588-dead-fun-pack-penguins-and-aliens-strike-again.json) |
 | Dead Function | 179737 | [179737-dead-function.json](./179737-dead-function.json) |
 | Dead Giveaway: Zombie Quiz | 232044 | [232044-dead-giveaway-zombie-quiz.json](./232044-dead-giveaway-zombie-quiz.json) |
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
@@ -1168,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadhikers | 385565 | [385565-deadhikers.json](./385565-deadhikers.json) |
 | Deadhunt | 33709 | [33709-deadhunt.json](./33709-deadhunt.json) |
 | Deadland 4000 | 194427 | [194427-deadland-4000.json](./194427-deadland-4000.json) |
+| DeadlandVR | 102590 | [102590-deadlandvr.json](./102590-deadlandvr.json) |
 | Deadliest Catch: Alaskan Storm | 6962 | [6962-deadliest-catch-alaskan-storm.json](./6962-deadliest-catch-alaskan-storm.json) |
 | Deadliest Catch: Sea of Chaos | 20448 | [20448-deadliest-catch-sea-of-chaos.json](./20448-deadliest-catch-sea-of-chaos.json) |
 | Deadliest Demolition | 274747 | [274747-deadliest-demolition.json](./274747-deadliest-demolition.json) |
@@ -3006,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgraced Swordswoman Battle | 134605 | [134605-disgraced-swordswoman-battle.json](./134605-disgraced-swordswoman-battle.json) |
 | Disgraced: Trailblazer | 161730 | [161730-disgraced-trailblazer.json](./161730-disgraced-trailblazer.json) |
 | Disguised Blessing | 332991 | [332991-disguised-blessing.json](./332991-disguised-blessing.json) |
+| Dish Puzzle For Toddlers | 102610 | [102610-dish-puzzle-for-toddlers.json](./102610-dish-puzzle-for-toddlers.json) |
 | Dish Up Fruit | 302344 | [302344-dish-up-fruit.json](./302344-dish-up-fruit.json) |
 | Disharmonia | 199493 | [199493-disharmonia.json](./199493-disharmonia.json) |
 | Disharmony | 168325 | [168325-disharmony.json](./168325-disharmony.json) |
