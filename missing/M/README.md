@@ -2164,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Shop Simulator | 152726 | [152726-medieval-shop-simulator.json](./152726-medieval-shop-simulator.json) |
 | Medieval Simulators: Baker | 248047 | [248047-medieval-simulators-baker.json](./248047-medieval-simulators-baker.json) |
 | Medieval Squad Tactics | 415888 | [415888-medieval-squad-tactics.json](./415888-medieval-squad-tactics.json) |
+| Medieval Steve | 108253 | [108253-medieval-steve.json](./108253-medieval-steve.json) |
 | Medieval Tales Solitaire | 236254 | [236254-medieval-tales-solitaire.json](./236254-medieval-tales-solitaire.json) |
 | Medieval Wars | 165697 | [165697-medieval-wars.json](./165697-medieval-wars.json) |
 | Medieval: Defense & Conquest | 255792 | [255792-medieval-defense-and-conquest.json](./255792-medieval-defense-and-conquest.json) |
@@ -2340,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Minis: Volume 2 | 45997 | [45997-mega-minis-volume-2.json](./45997-mega-minis-volume-2.json) |
 | Mega Minis: Volume 3 | 45996 | [45996-mega-minis-volume-3.json](./45996-mega-minis-volume-3.json) |
 | Mega Miracle Force | 114784 | [114784-mega-miracle-force.json](./114784-mega-miracle-force.json) |
+| Mega Museum | 108294 | [108294-mega-museum.json](./108294-mega-museum.json) |
 | Mega Pony | 39604 | [39604-mega-pony.json](./39604-mega-pony.json) |
 | Mega Punchy Golf | 120935 | [120935-mega-punchy-golf.json](./120935-mega-punchy-golf.json) |
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
@@ -2684,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Time Machine: Munch | 335269 | [335269-meow-time-machine-munch.json](./335269-meow-time-machine-munch.json) |
 | Meow Time Machine: Newton | 339937 | [339937-meow-time-machine-newton.json](./339937-meow-time-machine-newton.json) |
 | Meow Tower: Nonogram | 221399 | [221399-meow-tower-nonogram.json](./221399-meow-tower-nonogram.json) |
+| Meow Wars: Card Battle | 108302 | [108302-meow-wars-card-battle.json](./108302-meow-wars-card-battle.json) |
 | Meow Weight Loss Diary | 352227 | [352227-meow-weight-loss-diary.json](./352227-meow-weight-loss-diary.json) |
 | Meow'n'Dash | 172008 | [172008-meowndash.json](./172008-meowndash.json) |
 | Meower's Quest: Jasper's Tale | 104025 | [104025-meowers-quest-jaspers-tale.json](./104025-meowers-quest-jaspers-tale.json) |
@@ -4634,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
 | Monster Feeder | 344917 | [344917-monster-feeder.json](./344917-monster-feeder.json) |
 | Monster Fishing 2018 | 102766 | [102766-monster-fishing-2018.json](./102766-monster-fishing-2018.json) |
+| Monster Fishing Legends | 108277 | [108277-monster-fishing-legends.json](./108277-monster-fishing-legends.json) |
 | Monster Fishing: Fishing Life RPG | 233510 | [233510-monster-fishing-fishing-life-rpg.json](./233510-monster-fishing-fishing-life-rpg.json) |
 | Monster Force | 49390 | [49390-monster-force.json](./49390-monster-force.json) |
 | Monster Forest | 383949 | [383949-monster-forest.json](./383949-monster-forest.json) |
@@ -4742,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Milktruck! | 145670 | [145670-monster-milktruck.json](./145670-monster-milktruck.json) |
 | Monster Mind | 137004 | [137004-monster-mind.json](./137004-monster-mind.json) |
 | Monster Mingle | 23222 | [23222-monster-mingle.json](./23222-monster-mingle.json) |
+| Monster Minis Extreme Off-Road | 108292 | [108292-monster-minis-extreme-off-road.json](./108292-monster-minis-extreme-off-road.json) |
 | Monster Mystery | 224789 | [224789-monster-mystery.json](./224789-monster-mystery.json) |
 | Monster Never Cry | 297253 | [297253-monster-never-cry.json](./297253-monster-never-cry.json) |
 | Monster of the Deep: Final Fantasy XV | 37087 | [37087-monster-of-the-deep-final-fantasy-xv.json](./37087-monster-of-the-deep-final-fantasy-xv.json) |
@@ -4887,6 +4892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Ball Magic | 41402 | [41402-moon-ball-magic.json](./41402-moon-ball-magic.json) |
 | Moon Blue Legend Remake | 394175 | [394175-moon-blue-legend-remake.json](./394175-moon-blue-legend-remake.json) |
 | Moon Bugs | 57652 | [57652-moon-bugs.json](./57652-moon-bugs.json) |
+| Moon Child | 108279 | [108279-moon-child.json](./108279-moon-child.json) |
 | Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
 | Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
 | Moon Cresta | 18762 | [18762-moon-cresta.json](./18762-moon-cresta.json) |
@@ -6484,6 +6490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Mist Over Blackhill | 187939 | [187939-mystery-trackers-mist-over-blackhill.json](./187939-mystery-trackers-mist-over-blackhill.json) |
 | Mystery Trackers: Nightsville Horror - Collector's Edition | 148475 | [148475-mystery-trackers-nightsville-horror-collectors-edition.json](./148475-mystery-trackers-nightsville-horror-collectors-edition.json) |
 | Mystery Trackers: Nightsville Horror & Winterpoint Tragedy | 201823 | [201823-mystery-trackers-nightsville-horror-and-winterpoint-tragedy.json](./201823-mystery-trackers-nightsville-horror-and-winterpoint-tragedy.json) |
+| Mystery Trackers: Nightsville Horror HD | 108259 | [108259-mystery-trackers-nightsville-horror-hd.json](./108259-mystery-trackers-nightsville-horror-hd.json) |
 | Mystery Trackers: Paxton Creek Avenger | 89134 | [89134-mystery-trackers-paxton-creek-avenger.json](./89134-mystery-trackers-paxton-creek-avenger.json) |
 | Mystery Trackers: Paxton Creek Avenger Collector's Edition | 153456 | [153456-mystery-trackers-paxton-creek-avenger-collectors-edition.json](./153456-mystery-trackers-paxton-creek-avenger-collectors-edition.json) |
 | Mystery Trackers: Raincliff's Phantoms | 201829 | [201829-mystery-trackers-raincliffs-phantoms.json](./201829-mystery-trackers-raincliffs-phantoms.json) |
