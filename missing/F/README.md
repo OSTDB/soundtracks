@@ -1271,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fidelity | 116549 | [116549-fidelity.json](./116549-fidelity.json) |
 | Fideos | 329024 | [329024-fideos.json](./329024-fideos.json) |
 | Fidget Spinner | 100888 | [100888-fidget-spinner.json](./100888-fidget-spinner.json) |
+| Fidget Spinner - Extra Speed | 102606 | [102606-fidget-spinner-extra-speed.json](./102606-fidget-spinner-extra-speed.json) |
 | Fidget Spinner Editor | 68595 | [68595-fidget-spinner-editor.json](./68595-fidget-spinner-editor.json) |
 | Fido | 315275 | [315275-fido.json](./315275-fido.json) |
 | Fido 2: Puppy Power | 315278 | [315278-fido-2-puppy-power.json](./315278-fido-2-puppy-power.json) |
@@ -1818,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Flush | 107220 | [107220-fire-flush.json](./107220-fire-flush.json) |
 | Fire Fly | 23855 | [23855-fire-fly.json](./23855-fire-fly.json) |
 | Fire Fly | 277588 | [277588-fire-fly.json](./277588-fire-fly.json) |
+| Fire Fu | 102618 | [102618-fire-fu.json](./102618-fire-fu.json) |
 | Fire in the Dark | 346696 | [346696-fire-in-the-dark.json](./346696-fire-in-the-dark.json) |
 | Fire in the Hole | 381019 | [381019-fire-in-the-hole.json](./381019-fire-in-the-hole.json) |
 | Fire Lookout: Abandoned Post | 401664 | [401664-fire-lookout-abandoned-post.json](./401664-fire-lookout-abandoned-post.json) |
@@ -2922,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football: The Hardest Job | 123574 | [123574-football-the-hardest-job.json](./123574-football-the-hardest-job.json) |
 | FootGoal! Tiki Taka | 147921 | [147921-footgoal-tiki-taka.json](./147921-footgoal-tiki-taka.json) |
 | Footie | 268485 | [268485-footie.json](./268485-footie.json) |
+| FootLOL: Crazy Soccer! | 102620 | [102620-footlol-crazy-soccer.json](./102620-footlol-crazy-soccer.json) |
 | Footlord | 383527 | [383527-footlord.json](./383527-footlord.json) |
 | FootRock 2 | 29902 | [29902-footrock-2.json](./29902-footrock-2.json) |
 | Footsies Rollback Edition | 139359 | [139359-footsies-rollback-edition.json](./139359-footsies-rollback-edition.json) |
@@ -4368,6 +4371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Wars | 2478 | [2478-future-wars.json](./2478-future-wars.json) |
 | Future Zero | 378172 | [378172-future-zero.json](./378172-future-zero.json) |
 | FutureKreate | 170435 | [170435-futurekreate.json](./170435-futurekreate.json) |
+| FutureMage: Spellmaker | 102582 | [102582-futuremage-spellmaker.json](./102582-futuremage-spellmaker.json) |
 | Futurewar | 234634 | [234634-futurewar.json](./234634-futurewar.json) |
 | Futuridium EP Deluxe | 8500 | [8500-futuridium-ep-deluxe.json](./8500-futuridium-ep-deluxe.json) |
 | Fuu | 393493 | [393493-fuu.json](./393493-fuu.json) |
