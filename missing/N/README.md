@@ -2237,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NPOZ The Game | 260746 | [260746-npoz-the-game.json](./260746-npoz-the-game.json) |
 | NRA Gun Club | 20575 | [20575-nra-gun-club.json](./20575-nra-gun-club.json) |
 | Nrg | 174348 | [174348-nrg.json](./174348-nrg.json) |
+| NRL Mascot Mania | 124026 | [124026-nrl-mascot-mania.json](./124026-nrl-mascot-mania.json) |
 | NSFW: Not a Simulator for Working | 25606 | [25606-nsfw-not-a-simulator-for-working.json](./25606-nsfw-not-a-simulator-for-working.json) |
 | NSYNC: Get to the Show | 49955 | [49955-nsync-get-to-the-show.json](./49955-nsync-get-to-the-show.json) |
 | Nth Dimension[al] Hiking | 327183 | [327183-nth-dimension-al-hiking.json](./327183-nth-dimension-al-hiking.json) |
