@@ -2384,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Clicker: Idle Gift Builder | 113001 | [113001-christmas-clicker-idle-gift-builder.json](./113001-christmas-clicker-idle-gift-builder.json) |
 | Christmas Country | 45938 | [45938-christmas-country.json](./45938-christmas-country.json) |
 | Christmas Crisis | 45937 | [45937-christmas-crisis.json](./45937-christmas-crisis.json) |
+| Christmas Defence | 112774 | [112774-christmas-defence.json](./112774-christmas-defence.json) |
 | Christmas Escape | 314046 | [314046-christmas-escape.json](./314046-christmas-escape.json) |
 | Christmas Fables: Holiday Guardians | 417586 | [417586-christmas-fables-holiday-guardians.json](./417586-christmas-fables-holiday-guardians.json) |
 | Christmas Fables: Holiday Guardians - Collector's Edition | 234738 | [234738-christmas-fables-holiday-guardians-collectors-edition.json](./234738-christmas-fables-holiday-guardians-collectors-edition.json) |
@@ -2814,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CityInc | 307902 | [307902-cityinc.json](./307902-cityinc.json) |
 | Cityquiz.io | 305324 | [305324-cityquiz-io.json](./305324-cityquiz-io.json) |
 | Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
+| Citywars Savage | 112740 | [112740-citywars-savage.json](./112740-citywars-savage.json) |
 | CityZen | 392256 | [392256-cityzen.json](./392256-cityzen.json) |
 | Ciudad Alfombra | 251848 | [251848-ciudad-alfombra.json](./251848-ciudad-alfombra.json) |
 | Ciudad Anómala de Buenos Aires | 271206 | [271206-ciudad-anomala-de-buenos-aires.json](./271206-ciudad-anomala-de-buenos-aires.json) |
@@ -4632,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cover Orange | 86862 | [86862-cover-orange.json](./86862-cover-orange.json) |
 | Cover U: Raora Route | 351001 | [351001-cover-u-raora-route.json](./351001-cover-u-raora-route.json) |
 | CoverQuest | 294456 | [294456-coverquest.json](./294456-coverquest.json) |
+| Covert | 112736 | [112736-covert.json](./112736-covert.json) |
 | Covert Command | 65507 | [65507-covert-command.json](./65507-covert-command.json) |
 | Covert Front | 213617 | [213617-covert-front.json](./213617-covert-front.json) |
 | Covert Front: Episode 1 - All Quiet on the Covert Front | 129558 | [129558-covert-front-episode-1-all-quiet-on-the-covert-front.json](./129558-covert-front-episode-1-all-quiet-on-the-covert-front.json) |
@@ -5237,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crocs World Construction Kit 2 | 253986 | [253986-crocs-world-construction-kit-2.json](./253986-crocs-world-construction-kit-2.json) |
 | Croissants | 135012 | [135012-croissants.json](./135012-croissants.json) |
 | Croixleur Sigma: Deluxe Edition | 131689 | [131689-croixleur-sigma-deluxe-edition.json](./131689-croixleur-sigma-deluxe-edition.json) |
+| Crome: Before Purgatory | 112764 | [112764-crome-before-purgatory.json](./112764-crome-before-purgatory.json) |
 | Cromwell | 134614 | [134614-cromwell.json](./134614-cromwell.json) |
 | Crone | 408087 | [408087-crone.json](./408087-crone.json) |
 | Cronicas de Landulph | 170432 | [170432-cronicas-de-landulph.json](./170432-cronicas-de-landulph.json) |
