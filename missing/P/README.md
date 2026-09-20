@@ -4845,6 +4845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Provider | 164919 | [164919-provider.json](./164919-provider.json) |
 | Provoron | 258977 | [258977-provoron.json](./258977-provoron.json) |
 | Prowler | 55085 | [55085-prowler.json](./55085-prowler.json) |
+| Proxball | 125852 | [125852-proxball.json](./125852-proxball.json) |
 | Proxima | 406840 | [406840-proxima.json](./406840-proxima.json) |
 | Proximate | 282108 | [282108-proximate.json](./282108-proximate.json) |
 | Prší | 99579 | [99579-prsi.json](./99579-prsi.json) |
@@ -5342,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlebot Challenge | 138794 | [138794-puzzlebot-challenge.json](./138794-puzzlebot-challenge.json) |
 | Puzzled | 100211 | [100211-puzzled.json](./100211-puzzled.json) |
 | Puzzled Heroes | 116294 | [116294-puzzled-heroes.json](./116294-puzzled-heroes.json) |
+| Puzzled Knight | 125819 | [125819-puzzled-knight.json](./125819-puzzled-knight.json) |
 | Puzzled Love | 180813 | [180813-puzzled-love.json](./180813-puzzled-love.json) |
 | Puzzledrome | 200061 | [200061-puzzledrome.json](./200061-puzzledrome.json) |
 | Puzzlefall | 58177 | [58177-puzzlefall.json](./58177-puzzlefall.json) |
