@@ -1511,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instead; Ghost Suburb | 280911 | [280911-instead-ghost-suburb.json](./280911-instead-ghost-suburb.json) |
 | Instinct | 286509 | [286509-instinct.json](./286509-instinct.json) |
 | Instinct: Survival | 118000 | [118000-instinct-survival.json](./118000-instinct-survival.json) |
+| Instruments of Chaos Starring Young Indiana Jones | 73006 | [73006-instruments-of-chaos-starring-young-indiana-jones.json](./73006-instruments-of-chaos-starring-young-indiana-jones.json) |
 | Instruments of Peace | 358938 | [358938-instruments-of-peace.json](./358938-instruments-of-peace.json) |
 | Instruments of Power | 395696 | [395696-instruments-of-power.json](./395696-instruments-of-power.json) |
 | Insufficient Adjectives | 134621 | [134621-insufficient-adjectives.json](./134621-insufficient-adjectives.json) |
@@ -2164,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It'sRoachTime! | 192873 | [192873-itsroachtime.json](./192873-itsroachtime.json) |
 | Itadaki Street 2: Neon Sign ha Bara Iro ni | 38345 | [38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json](./38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json) |
 | Itadaki Street DS | 71885 | [71885-itadaki-street-ds.json](./71885-itadaki-street-ds.json) |
+| Itadaki Street Special | 72987 | [72987-itadaki-street-special.json](./72987-itadaki-street-special.json) |
 | Italy 1990 | 85520 | [85520-italy-1990.json](./85520-italy-1990.json) |
 | Itazura Madness | 305907 | [305907-itazura-madness.json](./305907-itazura-madness.json) |
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
