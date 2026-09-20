@@ -1311,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Simulator | 103836 | [103836-battle-simulator.json](./103836-battle-simulator.json) |
 | Battle Skin Panic | 91463 | [91463-battle-skin-panic.json](./91463-battle-skin-panic.json) |
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
+| Battle Snakes Arena | 82503 | [82503-battle-snakes-arena.json](./82503-battle-snakes-arena.json) |
 | Battle Soccer: Field no Hasha | 42567 | [42567-battle-soccer-field-no-hasha.json](./42567-battle-soccer-field-no-hasha.json) |
 | Battle Space | 92278 | [92278-battle-space.json](./92278-battle-space.json) |
 | Battle Species | 110339 | [110339-battle-species.json](./110339-battle-species.json) |
@@ -3158,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitz Breaker | 17457 | [17457-blitz-breaker.json](./17457-blitz-breaker.json) |
 | Blitz Brigade | 63292 | [63292-blitz-brigade.json](./63292-blitz-brigade.json) |
 | Blitz Football 2023 | 255077 | [255077-blitz-football-2023.json](./255077-blitz-football-2023.json) |
+| Blitz Freak | 82465 | [82465-blitz-freak.json](./82465-blitz-freak.json) |
 | Blitz GT | 210739 | [210739-blitz-gt.json](./210739-blitz-gt.json) |
 | Blitz Guard | 267100 | [267100-blitz-guard.json](./267100-blitz-guard.json) |
 | Blitz in the Paper Kingdom | 203911 | [203911-blitz-in-the-paper-kingdom.json](./203911-blitz-in-the-paper-kingdom.json) |
@@ -5151,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Drop! | 200055 | [200055-bug-drop.json](./200055-bug-drop.json) |
 | Bug Heroes | 92316 | [92316-bug-heroes.json](./92316-bug-heroes.json) |
 | Bug Hunter | 317575 | [317575-bug-hunter.json](./317575-bug-hunter.json) |
+| Bug Invaders | 82398 | [82398-bug-invaders.json](./82398-bug-invaders.json) |
 | Bug Killers | 51958 | [51958-bug-killers.json](./51958-bug-killers.json) |
 | Bug Mania | 140985 | [140985-bug-mania.json](./140985-bug-mania.json) |
 | Bug N Out | 32962 | [32962-bug-n-out.json](./32962-bug-n-out.json) |
