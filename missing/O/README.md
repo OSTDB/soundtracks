@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off_Duty | 184613 | [184613-off-duty.json](./184613-off-duty.json) |
 | Off-Road Farming | 188679 | [188679-off-road-farming.json](./188679-off-road-farming.json) |
 | Off-Road Kings | 98993 | [98993-off-road-kings.json](./98993-off-road-kings.json) |
+| Off-Road Rally | 103162 | [103162-off-road-rally.json](./103162-off-road-rally.json) |
 | Off-Road Velociraptor Safari | 72644 | [72644-off-road-velociraptor-safari.json](./72644-off-road-velociraptor-safari.json) |
 | Off-Road: Redneck Racing - Off-Road | 289319 | [289319-off-road-redneck-racing-off-road.json](./289319-off-road-redneck-racing-off-road.json) |
 | Off-Score: A Game of Songs | 334159 | [334159-off-score-a-game-of-songs.json](./334159-off-score-a-game-of-songs.json) |
@@ -1062,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oompas Outrageous Rush | 373556 | [373556-oompas-outrageous-rush.json](./373556-oompas-outrageous-rush.json) |
 | Oona the Druid's Path | 143031 | [143031-oona-the-druids-path.json](./143031-oona-the-druids-path.json) |
 | Ooo | 181897 | [181897-ooo.json](./181897-ooo.json) |
+| oOo: Ascension | 103214 | [103214-ooo-ascension.json](./103214-ooo-ascension.json) |
 | Ooohh, Big Stretch!!! | 341882 | [341882-ooohh-big-stretch.json](./341882-ooohh-big-stretch.json) |
 | Ooparts | 269600 | [269600-ooparts.json](./269600-ooparts.json) |
 | Oops, I said Yes?! | 239870 | [239870-oops-i-said-yes.json](./239870-oops-i-said-yes.json) |
