@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Racer | 220730 | [220730-x-racer.json](./220730-x-racer.json) |
 | X-Racing | 220633 | [220633-x-racing.json](./220633-x-racing.json) |
 | X-Ray & Dilligas | 144319 | [144319-x-ray-and-dilligas.json](./144319-x-ray-and-dilligas.json) |
+| X-Ray Ball | 68976 | [68976-x-ray-ball.json](./68976-x-ray-ball.json) |
 | X-Ray Ball: Winter Storm | 62159 | [62159-x-ray-ball-winter-storm.json](./62159-x-ray-ball-winter-storm.json) |
 | X-ray hospital | 97117 | [97117-x-ray-hospital.json](./97117-x-ray-hospital.json) |
 | X-Scape | 67155 | [67155-x-scape.json](./67155-x-scape.json) |
