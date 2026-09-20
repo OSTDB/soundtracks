@@ -2990,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Kingdom | 186804 | [186804-forest-kingdom.json](./186804-forest-kingdom.json) |
 | Forest Knight | 134059 | [134059-forest-knight.json](./134059-forest-knight.json) |
 | Forest Liberation | 149558 | [149558-forest-liberation.json](./149558-forest-liberation.json) |
+| Forest Mage | 120815 | [120815-forest-mage.json](./120815-forest-mage.json) |
 | Forest Ninja | 181774 | [181774-forest-ninja.json](./181774-forest-ninja.json) |
 | Forest of Death Masks | 385583 | [385583-forest-of-death-masks.json](./385583-forest-of-death-masks.json) |
 | Forest of Deceit | 248904 | [248904-forest-of-deceit.json](./248904-forest-of-deceit.json) |
