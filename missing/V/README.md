@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Dinosaur Pingpong | 235188 | [235188-vr-dinosaur-pingpong.json](./235188-vr-dinosaur-pingpong.json) |
 | VR Dinosaur Village | 282027 | [282027-vr-dinosaur-village.json](./282027-vr-dinosaur-village.json) |
 | VR Dodgeball Trainer | 191895 | [191895-vr-dodgeball-trainer.json](./191895-vr-dodgeball-trainer.json) |
+| VR Enigma | 105130 | [105130-vr-enigma.json](./105130-vr-enigma.json) |
 | VR Escape the space station | 31782 | [31782-vr-escape-the-space-station.json](./31782-vr-escape-the-space-station.json) |
 | VR Fantasy | 395540 | [395540-vr-fantasy.json](./395540-vr-fantasy.json) |
 | VR Fishtank | 244772 | [244772-vr-fishtank.json](./244772-vr-fishtank.json) |
