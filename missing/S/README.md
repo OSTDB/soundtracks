@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scourge of War: Waterloo - Wavre | 171040 | [171040-scourge-of-war-waterloo-wavre.json](./171040-scourge-of-war-waterloo-wavre.json) |
 | Scourge of Worlds | 107628 | [107628-scourge-of-worlds.json](./107628-scourge-of-worlds.json) |
 | Scourge Outbreak: Blindside | 167710 | [167710-scourge-outbreak-blindside.json](./167710-scourge-outbreak-blindside.json) |
+| Scout Search | 70098 | [70098-scout-search.json](./70098-scout-search.json) |
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
 | Scouts Out | 413034 | [413034-scouts-out.json](./413034-scouts-out.json) |
 | SCP 173 - Nightshift Survival Breach Containment | 102739 | [102739-scp-173-nightshift-survival-breach-containment.json](./102739-scp-173-nightshift-survival-breach-containment.json) |
@@ -1420,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Wind | 390123 | [390123-second-wind.json](./390123-second-wind.json) |
 | Second World: Air War S | 113002 | [113002-second-world-air-war-s.json](./113002-second-world-air-war-s.json) |
 | Seconds in Space | 133217 | [133217-seconds-in-space.json](./133217-seconds-in-space.json) |
+| Seconds Out | 70088 | [70088-seconds-out.json](./70088-seconds-out.json) |
 | Seconds Time's the Charm | 326602 | [326602-seconds-times-the-charm.json](./326602-seconds-times-the-charm.json) |
 | SecondSpeed | 28782 | [28782-secondspeed.json](./28782-secondspeed.json) |
 | Secret Admirer | 129225 | [129225-secret-admirer.json](./129225-secret-admirer.json) |
@@ -1876,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Server is Down | 138751 | [138751-server-is-down.json](./138751-server-is-down.json) |
 | Service of Five Graces | 395046 | [395046-service-of-five-graces.json](./395046-service-of-five-graces.json) |
 | Sesame Street | 85858 | [85858-sesame-street.json](./85858-sesame-street.json) |
+| Sesame Street A B C | 70103 | [70103-sesame-street-a-b-c.json](./70103-sesame-street-a-b-c.json) |
 | Sesame Street Beat | 220108 | [220108-sesame-street-beat.json](./220108-sesame-street-beat.json) |
 | Sesame Street Crayon: Numbers Count | 71798 | [71798-sesame-street-crayon-numbers-count.json](./71798-sesame-street-crayon-numbers-count.json) |
 | Sesame Street Elmo's World: Pets, Foods and Telephones! | 138579 | [138579-sesame-street-elmos-world-pets-foods-and-telephones.json](./138579-sesame-street-elmos-world-pets-foods-and-telephones.json) |
@@ -8510,6 +8513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Blade: Digital Deluxe Edition | 286672 | [286672-stellar-blade-digital-deluxe-edition.json](./286672-stellar-blade-digital-deluxe-edition.json) |
 | Stellar Breach | 401686 | [401686-stellar-breach.json](./401686-stellar-breach.json) |
 | Stellar Code | 326775 | [326775-stellar-code.json](./326775-stellar-code.json) |
+| Stellar Conquest 3: Hostile Takeover | 70092 | [70092-stellar-conquest-3-hostile-takeover.json](./70092-stellar-conquest-3-hostile-takeover.json) |
 | Stellar Dawn | 67338 | [67338-stellar-dawn.json](./67338-stellar-dawn.json) |
 | Stellar Destiny: The Last Survivor | 350427 | [350427-stellar-destiny-the-last-survivor.json](./350427-stellar-destiny-the-last-survivor.json) |
 | Stellar Docks: Deep Space | 335959 | [335959-stellar-docks-deep-space.json](./335959-stellar-docks-deep-space.json) |
@@ -10817,6 +10821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Zugan: Hakotenjou kara no Shoutai | 60498 | [60498-super-zugan-hakotenjou-kara-no-shoutai.json](./60498-super-zugan-hakotenjou-kara-no-shoutai.json) |
 | Super ZZT | 46656 | [46656-super-zzt.json](./46656-super-zzt.json) |
 | Super-Bikes: Riding Challenge | 43310 | [43310-super-bikes-riding-challenge.json](./43310-super-bikes-riding-challenge.json) |
+| Super-VGA Harrier | 70114 | [70114-super-vga-harrier.json](./70114-super-vga-harrier.json) |
 | Superball | 117000 | [117000-superball.json](./117000-superball.json) |
 | SuperBeam | 115608 | [115608-superbeam.json](./115608-superbeam.json) |
 | Superbeat: Xonic | 12875 | [12875-superbeat-xonic.json](./12875-superbeat-xonic.json) |
