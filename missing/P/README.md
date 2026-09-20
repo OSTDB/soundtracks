@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
 | Pao Pao Party | 184609 | [184609-pao-pao-party.json](./184609-pao-pao-party.json) |
+| Papa Louie 3: When Sundaes Attack! | 101932 | [101932-papa-louie-3-when-sundaes-attack.json](./101932-papa-louie-3-when-sundaes-attack.json) |
 | Papa Needs a Headshot | 360095 | [360095-papa-needs-a-headshot.json](./360095-papa-needs-a-headshot.json) |
 | Papa Pear Saga | 18062 | [18062-papa-pear-saga.json](./18062-papa-pear-saga.json) |
 | Papa Sangre | 7698 | [7698-papa-sangre.json](./7698-papa-sangre.json) |
@@ -1590,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pew Pew Zombies | 88300 | [88300-pew-pew-zombies.json](./88300-pew-pew-zombies.json) |
 | PewDiePie: Legend of the Brofist | 15182 | [15182-pewdiepie-legend-of-the-brofist.json](./15182-pewdiepie-legend-of-the-brofist.json) |
 | PewDiePie's Paradise Island | 200637 | [200637-pewdiepies-paradise-island.json](./200637-pewdiepies-paradise-island.json) |
+| Pewduckpie 2 - An Unexpected Journey | 101988 | [101988-pewduckpie-2-an-unexpected-journey.json](./101988-pewduckpie-2-an-unexpected-journey.json) |
 | PewDuckPie: On the Run | 159178 | [159178-pewduckpie-on-the-run.json](./159178-pewduckpie-on-the-run.json) |
 | PewPew 2 | 140606 | [140606-pewpew-2.json](./140606-pewpew-2.json) |
 | Pewt 'em Up! | 203561 | [203561-pewt-em-up.json](./203561-pewt-em-up.json) |
@@ -3613,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PonPonTown | 372986 | [372986-ponpontown.json](./372986-ponpontown.json) |
 | Pony Card Match HD | 96740 | [96740-pony-card-match-hd.json](./96740-pony-card-match-hd.json) |
 | Pony Craft | 205661 | [205661-pony-craft.json](./205661-pony-craft.json) |
+| Pony Doctor | 101973 | [101973-pony-doctor.json](./101973-pony-doctor.json) |
 | Pony Friends | 47974 | [47974-pony-friends.json](./47974-pony-friends.json) |
 | Pony Island 2: Panda Circus | 279613 | [279613-pony-island-2-panda-circus.json](./279613-pony-island-2-panda-circus.json) |
 | Pony Sisters Baby Horse Care | 108261 | [108261-pony-sisters-baby-horse-care.json](./108261-pony-sisters-baby-horse-care.json) |
