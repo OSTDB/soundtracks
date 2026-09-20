@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlocked | 197796 | [197796-deadlocked.json](./197796-deadlocked.json) |
 | Deadly Burrito | 111506 | [111506-deadly-burrito.json](./111506-deadly-burrito.json) |
 | Deadly Contagion | 275130 | [275130-deadly-contagion.json](./275130-deadly-contagion.json) |
+| Deadly Cryptids | 87966 | [87966-deadly-cryptids.json](./87966-deadly-cryptids.json) |
 | Deadly Curse | 107683 | [107683-deadly-curse.json](./107683-deadly-curse.json) |
 | Deadly Dainosaur: Hunting Safari | 147289 | [147289-deadly-dainosaur-hunting-safari.json](./147289-deadly-dainosaur-hunting-safari.json) |
 | Deadly Danger Dungeon | 323742 | [323742-deadly-danger-dungeon.json](./323742-deadly-danger-dungeon.json) |
@@ -2468,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dial M for Machina | 403023 | [403023-dial-m-for-machina.json](./403023-dial-m-for-machina.json) |
 | Dial-In | 195718 | [195718-dial-in.json](./195718-dial-in.json) |
 | Dialed In | 82854 | [82854-dialed-in.json](./82854-dialed-in.json) |
+| Dialing | 88011 | [88011-dialing.json](./88011-dialing.json) |
 | Dialogue: A Writer's Story | 26706 | [26706-dialogue-a-writers-story.json](./26706-dialogue-a-writers-story.json) |
 | Dialoop | 361796 | [361796-dialoop.json](./361796-dialoop.json) |
 | Diamon Jones: Amulet of the World | 59921 | [59921-diamon-jones-amulet-of-the-world.json](./59921-diamon-jones-amulet-of-the-world.json) |
@@ -5005,6 +5007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drink Bar Maid: Regression | 134609 | [134609-drink-bar-maid-regression.json](./134609-drink-bar-maid-regression.json) |
 | Drink Beer, Neglect Family | 185673 | [185673-drink-beer-neglect-family.json](./185673-drink-beer-neglect-family.json) |
 | Drink Human Beans | 274571 | [274571-drink-human-beans.json](./274571-drink-human-beans.json) |
+| Drink Pro Tycoon | 87997 | [87997-drink-pro-tycoon.json](./87997-drink-pro-tycoon.json) |
 | Drinkbox Vita Collection | 99542 | [99542-drinkbox-vita-collection.json](./99542-drinkbox-vita-collection.json) |
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
 | Drive | 366908 | [366908-drive.json](./366908-drive.json) |
@@ -5087,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Wars | 373546 | [373546-drone-wars.json](./373546-drone-wars.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
 | Drones | 119566 | [119566-drones.json](./119566-drones.json) |
+| Drones and Ruins | 87978 | [87978-drones-and-ruins.json](./87978-drones-and-ruins.json) |
 | Dronihilation VR | 67928 | [67928-dronihilation-vr.json](./67928-dronihilation-vr.json) |
 | Drop & Smash | 227483 | [227483-drop-and-smash.json](./227483-drop-and-smash.json) |
 | Drop Boy | 183435 | [183435-drop-boy.json](./183435-drop-boy.json) |
