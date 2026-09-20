@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity 2X: Dual Core DLC Pack | 250377 | [250377-velocity-2x-dual-core-dlc-pack.json](./250377-velocity-2x-dual-core-dlc-pack.json) |
 | Velocity Classics: Volume 1 | 84252 | [84252-velocity-classics-volume-1.json](./84252-velocity-classics-volume-1.json) |
 | Velocity Rush | 338574 | [338574-velocity-rush.json](./338574-velocity-rush.json) |
+| Velocity Supernova | 108298 | [108298-velocity-supernova.json](./108298-velocity-supernova.json) |
 | Velocity Uncapped | 411614 | [411614-velocity-uncapped.json](./411614-velocity-uncapped.json) |
 | Velocity Vector | 158085 | [158085-velocity-vector.json](./158085-velocity-vector.json) |
 | Velocity Vortex | 251693 | [251693-velocity-vortex.json](./251693-velocity-vortex.json) |
