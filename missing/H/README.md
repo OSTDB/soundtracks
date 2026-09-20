@@ -3746,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanitas | 117001 | [117001-humanitas.json](./117001-humanitas.json) |
 | Humanity Is Dead | 181302 | [181302-humanity-is-dead.json](./181302-humanity-is-dead.json) |
 | Humanity Lost | 229047 | [229047-humanity-lost.json](./229047-humanity-lost.json) |
+| Humanity Must Perish | 68323 | [68323-humanity-must-perish.json](./68323-humanity-must-perish.json) |
 | Humanity's Fall | 392296 | [392296-humanitys-fall.json](./392296-humanitys-fall.json) |
 | Humanity's Last Hope | 360657 | [360657-humanitys-last-hope.json](./360657-humanitys-last-hope.json) |
 | Humankind: Collection | 205091 | [205091-humankind-collection.json](./205091-humankind-collection.json) |
