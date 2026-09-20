@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bery'sCase | 290931 | [290931-beryscase.json](./290931-beryscase.json) |
 | Berzerk | 2391 | [2391-berzerk.json](./2391-berzerk.json) |
 | Berzerk | 282314 | [282314-berzerk.json](./282314-berzerk.json) |
+| Berzerk Ball 2 | 75505 | [75505-berzerk-ball-2.json](./75505-berzerk-ball-2.json) |
 | Berzerk: Enhanced Edition | 280756 | [280756-berzerk-enhanced-edition.json](./280756-berzerk-enhanced-edition.json) |
 | Besotted | 297805 | [297805-besotted.json](./297805-besotted.json) |
 | Best Buds vs Bad Guys | 52631 | [52631-best-buds-vs-bad-guys.json](./52631-best-buds-vs-bad-guys.json) |
