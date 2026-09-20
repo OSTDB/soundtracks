@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-pop Idols Dating: Anime Love for B.SeveT | 334098 | [334098-k-pop-idols-dating-anime-love-for-b-sevet.json](./334098-k-pop-idols-dating-anime-love-for-b-sevet.json) |
 | K-Tora USA | 307112 | [307112-k-tora-usa.json](./307112-k-tora-usa.json) |
 | K.C.'s Crazy Nightmare! | 40730 | [40730-k-c-s-crazy-nightmare.json](./40730-k-c-s-crazy-nightmare.json) |
+| K.O. King | 66942 | [66942-k-o-king.json](./66942-k-o-king.json) |
 | K.O. The Live Boxing | 386677 | [386677-k-o-the-live-boxing.json](./386677-k-o-the-live-boxing.json) |
 | K.S.-n-Kickin | 265977 | [265977-k-s-n-kickin.json](./265977-k-s-n-kickin.json) |
 | K'nife Fight | 137455 | [137455-knife-fight.json](./137455-knife-fight.json) |
@@ -853,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
 | Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
+| Kimi ni Todoke: Sodateru Omoi | 66964 | [66964-kimi-ni-todoke-sodateru-omoi.json](./66964-kimi-ni-todoke-sodateru-omoi.json) |
 | Kimi no Hitomi ni Hit Me | 82803 | [82803-kimi-no-hitomi-ni-hit-me.json](./82803-kimi-no-hitomi-ni-hit-me.json) |
 | Kimi no Tonari de Koishiteru! | 194548 | [194548-kimi-no-tonari-de-koishiteru.json](./194548-kimi-no-tonari-de-koishiteru.json) |
 | Kimi no Tonari de Koishiteru!: The Respective Happiness | 194549 | [194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json](./194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json) |
