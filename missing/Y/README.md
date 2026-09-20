@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yahtzee Electronic | 293736 | [293736-yahtzee-electronic.json](./293736-yahtzee-electronic.json) |
 | Yahtzee Party | 205809 | [205809-yahtzee-party.json](./205809-yahtzee-party.json) |
 | Yahtzee With Buddies | 88777 | [88777-yahtzee-with-buddies.json](./88777-yahtzee-with-buddies.json) |
+| Yahtzee, Parcheesi & Aggravation Collection | 92836 | [92836-yahtzee-parcheesi-and-aggravation-collection.json](./92836-yahtzee-parcheesi-and-aggravation-collection.json) |
 | Yahtzee! Wild | 355013 | [355013-yahtzee-wild.json](./355013-yahtzee-wild.json) |
 | Yakata Nightmare Project | 58780 | [58780-yakata-nightmare-project.json](./58780-yakata-nightmare-project.json) |
 | Yaken Rodem | 333543 | [333543-yaken-rodem.json](./333543-yaken-rodem.json) |
