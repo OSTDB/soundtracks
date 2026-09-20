@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jerry McPartlin: Rebel with a Cause | 286508 | [286508-jerry-mcpartlin-rebel-with-a-cause.json](./286508-jerry-mcpartlin-rebel-with-a-cause.json) |
 | Jessica Deliverson | 340772 | [340772-jessica-deliverson.json](./340772-jessica-deliverson.json) |
 | Jessica Plunkenstein and the Dusseldorf Conspiracy | 169992 | [169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json](./169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json) |
+| Jessica's Cupcake Cafe | 66375 | [66375-jessicas-cupcake-cafe.json](./66375-jessicas-cupcake-cafe.json) |
 | Jessie 'Boom' James | 148344 | [148344-jessie-boom-james.json](./148344-jessie-boom-james.json) |
 | Jessie Jaeger in Cleopatra's Curse | 142392 | [142392-jessie-jaeger-in-cleopatras-curse.json](./142392-jessie-jaeger-in-cleopatras-curse.json) |
 | Jester / King | 166745 | [166745-jester-king.json](./166745-jester-king.json) |
@@ -1192,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park | 15543 | [15543-jurassic-park.json](./15543-jurassic-park.json) |
 | Jurassic Park III: Dino Defender | 74091 | [74091-jurassic-park-iii-dino-defender.json](./74091-jurassic-park-iii-dino-defender.json) |
 | Jurassic Park: Survival | 279640 | [279640-jurassic-park-survival.json](./279640-jurassic-park-survival.json) |
+| Jurassic Park: Survival | 66354 | [66354-jurassic-park-survival.json](./66354-jurassic-park-survival.json) |
 | Jurassic Pet: Virtual World | 263581 | [263581-jurassic-pet-virtual-world.json](./263581-jurassic-pet-virtual-world.json) |
 | Jurassic Survival Island: Evolve | 194026 | [194026-jurassic-survival-island-evolve.json](./194026-jurassic-survival-island-evolve.json) |
 | Jurassic Tower Defense | 301403 | [301403-jurassic-tower-defense.json](./301403-jurassic-tower-defense.json) |
