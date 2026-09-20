@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Your Sheep Together | 195160 | [195160-get-your-sheep-together.json](./195160-get-your-sheep-together.json) |
 | Get Your Tentacles Off My Waifu | 244765 | [244765-get-your-tentacles-off-my-waifu.json](./244765-get-your-tentacles-off-my-waifu.json) |
 | Get_the_Key | 180124 | [180124-get-the-key.json](./180124-get-the-key.json) |
+| GetAmped Mobile | 114178 | [114178-getamped-mobile.json](./114178-getamped-mobile.json) |
 | Getaway Entertainment 6 Pack | 201851 | [201851-getaway-entertainment-6-pack.json](./201851-getaway-entertainment-6-pack.json) |
 | Getaway Girls | 313876 | [313876-getaway-girls.json](./313876-getaway-girls.json) |
 | Getaway Golf | 414298 | [414298-getaway-golf.json](./414298-getaway-golf.json) |
@@ -1342,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
 | Gitaroo Man Lives! | 42813 | [42813-gitaroo-man-lives.json](./42813-gitaroo-man-lives.json) |
 | Give a Dam! | 248066 | [248066-give-a-dam.json](./248066-give-a-dam.json) |
+| Give It Up! Plus | 114160 | [114160-give-it-up-plus.json](./114160-give-it-up-plus.json) |
 | Give Me Clair Back | 290944 | [290944-give-me-clair-back.json](./290944-give-me-clair-back.json) |
 | Give My Regards to Broad Street | 66710 | [66710-give-my-regards-to-broad-street.json](./66710-give-my-regards-to-broad-street.json) |
 | Givling | 18319 | [18319-givling.json](./18319-givling.json) |
@@ -1549,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Bear Go! | 327830 | [327830-go-bear-go.json](./327830-go-bear-go.json) |
 | Go Bhop | 174751 | [174751-go-bhop.json](./174751-go-bhop.json) |
 | Go Big | 394220 | [394220-go-big.json](./394220-go-big.json) |
+| Go Cabbies!GB | 114189 | [114189-go-cabbies-gb.json](./114189-go-cabbies-gb.json) |
 | Go Carts | 297473 | [297473-go-carts.json](./297473-go-carts.json) |
 | Go Deep Or Go Home | 285484 | [285484-go-deep-or-go-home.json](./285484-go-deep-or-go-home.json) |
 | Go Fight Fantastic! | 127364 | [127364-go-fight-fantastic.json](./127364-go-fight-fantastic.json) |
@@ -3224,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns N' Boxes | 24064 | [24064-guns-n-boxes.json](./24064-guns-n-boxes.json) |
 | Guns of Bullshit | 129723 | [129723-guns-of-bullshit.json](./129723-guns-of-bullshit.json) |
 | Guns of Fury | 312358 | [312358-guns-of-fury.json](./312358-guns-of-fury.json) |
+| Guns of Mercy | 114176 | [114176-guns-of-mercy.json](./114176-guns-of-mercy.json) |
 | Guns of Midnight | 118362 | [118362-guns-of-midnight.json](./118362-guns-of-midnight.json) |
 | Guns, Blocks, and Steel | 326239 | [326239-guns-blocks-and-steel.json](./326239-guns-blocks-and-steel.json) |
 | Guns'n'Glory | 95410 | [95410-gunsnglory.json](./95410-gunsnglory.json) |
