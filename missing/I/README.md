@@ -177,6 +177,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy Spooky Mansion | 19844 | [19844-i-spy-spooky-mansion.json](./19844-i-spy-spooky-mansion.json) |
 | I Spy Treasure Hunt | 73852 | [73852-i-spy-treasure-hunt.json](./73852-i-spy-treasure-hunt.json) |
 | I Spy With Lola HD: A Fun Word Game for Kids! | 108270 | [108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json](./108270-i-spy-with-lola-hd-a-fun-word-game-for-kids.json) |
+| I Spy: Super Challenger! | 91739 | [91739-i-spy-super-challenger.json](./91739-i-spy-super-challenger.json) |
+| I Spy: Treasure Hunt | 91749 | [91749-i-spy-treasure-hunt.json](./91749-i-spy-treasure-hunt.json) |
 | I Suppose | 367503 | [367503-i-suppose.json](./367503-i-suppose.json) |
 | I Tap Pirate. A Sea Survival Adventure Game | 103535 | [103535-i-tap-pirate-a-sea-survival-adventure-game.json](./103535-i-tap-pirate-a-sea-survival-adventure-game.json) |
 | I Think | 301265 | [301265-i-think.json](./301265-i-think.json) |
@@ -1059,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indigo Horizon | 336528 | [336528-indigo-horizon.json](./336528-indigo-horizon.json) |
 | Indigo Prohecy: 15th Anniversary Edition | 139933 | [139933-indigo-prohecy-15th-anniversary-edition.json](./139933-indigo-prohecy-15th-anniversary-edition.json) |
 | Indigo Prophecy | 410247 | [410247-indigo-prophecy.json](./410247-indigo-prophecy.json) |
+| Indirian Solitaire | 91732 | [91732-indirian-solitaire.json](./91732-indirian-solitaire.json) |
 | Indistinguishable | 400964 | [400964-indistinguishable.json](./400964-indistinguishable.json) |
 | IndividuaLand | 211763 | [211763-individualand.json](./211763-individualand.json) |
 | Indomitable Spirit | 375985 | [375985-indomitable-spirit.json](./375985-indomitable-spirit.json) |
