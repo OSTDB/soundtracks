@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Gambling | 89266 | [89266-mafia-gambling.json](./89266-mafia-gambling.json) |
 | Mafia III: Faster, Baby! | 39761 | [39761-mafia-iii-faster-baby.json](./39761-mafia-iii-faster-baby.json) |
 | Mafia in Town | 239756 | [239756-mafia-in-town.json](./239756-mafia-in-town.json) |
+| Mafia Pinball | 97149 | [97149-mafia-pinball.json](./97149-mafia-pinball.json) |
 | Mafia Pizza: Family Business | 416666 | [416666-mafia-pizza-family-business.json](./416666-mafia-pizza-family-business.json) |
 | Mafia Reigns: Power And Blood | 318405 | [318405-mafia-reigns-power-and-blood.json](./318405-mafia-reigns-power-and-blood.json) |
 | Mafia Rush | 20727 | [20727-mafia-rush.json](./20727-mafia-rush.json) |
@@ -1730,10 +1731,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Adventures | 219676 | [219676-math-adventures.json](./219676-math-adventures.json) |
 | Math and Letters Air Control | 197778 | [197778-math-and-letters-air-control.json](./197778-math-and-letters-air-control.json) |
 | Math Attack | 367509 | [367509-math-attack.json](./367509-math-attack.json) |
+| Math Balance: Pre-algebra game for kids | 97141 | [97141-math-balance-pre-algebra-game-for-kids.json](./97141-math-balance-pre-algebra-game-for-kids.json) |
 | Math Be Nimble: Brain Training | 265425 | [265425-math-be-nimble-brain-training.json](./265425-math-be-nimble-brain-training.json) |
 | Math Bingo | 201167 | [201167-math-bingo.json](./201167-math-bingo.json) |
 | Math Blaster Ages 4-6 | 58816 | [58816-math-blaster-ages-4-6.json](./58816-math-blaster-ages-4-6.json) |
 | Math Blaster Ages 6-8 | 250608 | [250608-math-blaster-ages-6-8.json](./250608-math-blaster-ages-6-8.json) |
+| Math Bridges: Learn Bridging to friendly numbers | 97140 | [97140-math-bridges-learn-bridging-to-friendly-numbers.json](./97140-math-bridges-learn-bridging-to-friendly-numbers.json) |
 | Math C | 106554 | [106554-math-c.json](./106554-math-c.json) |
 | Math Castle | 46643 | [46643-math-castle.json](./46643-math-castle.json) |
 | Math Challenge: Workout Brain | 240343 | [240343-math-challenge-workout-brain.json](./240343-math-challenge-workout-brain.json) |
@@ -1762,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Puzzles Brain Teasers 2018 | 104124 | [104124-math-puzzles-brain-teasers-2018.json](./104124-math-puzzles-brain-teasers-2018.json) |
 | Math Puzzles PRO | 105958 | [105958-math-puzzles-pro.json](./105958-math-puzzles-pro.json) |
 | Math Rescue | 35548 | [35548-math-rescue.json](./35548-math-rescue.json) |
+| Math Rescue: Rounding and Estimation game | 97139 | [97139-math-rescue-rounding-and-estimation-game.json](./97139-math-rescue-rounding-and-estimation-game.json) |
 | Math Speed Challenge | 101617 | [101617-math-speed-challenge.json](./101617-math-speed-challenge.json) |
 | Math-A-Thon 2: The Mystery of the Missing Laboratory | 209547 | [209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json](./209547-math-a-thon-2-the-mystery-of-the-missing-laboratory.json) |
 | Mathable | 232533 | [232533-mathable.json](./232533-mathable.json) |
