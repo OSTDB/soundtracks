@@ -2614,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
 | Shin Fumi Ikemen Ouoku Kinjirareta Koi | 229027 | [229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json](./229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json) |
 | Shin Hayarigami | 79331 | [79331-shin-hayarigami.json](./79331-shin-hayarigami.json) |
+| Shin Hayarigami: Blindman | 95861 | [95861-shin-hayarigami-blindman.json](./95861-shin-hayarigami-blindman.json) |
 | Shin Hayarigami: Doll | 196705 | [196705-shin-hayarigami-doll.json](./196705-shin-hayarigami-doll.json) |
 | Shin Hayarigami: Ghost | 196702 | [196702-shin-hayarigami-ghost.json](./196702-shin-hayarigami-ghost.json) |
 | Shin Hayarigami: Pandemic | 196703 | [196703-shin-hayarigami-pandemic.json](./196703-shin-hayarigami-pandemic.json) |
@@ -2863,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Paint | 334747 | [334747-shoot-paint.json](./334747-shoot-paint.json) |
 | Shoot Shoot Nitori the Golden | 202949 | [202949-shoot-shoot-nitori-the-golden.json](./202949-shoot-shoot-nitori-the-golden.json) |
 | Shoot the Aliens | 330846 | [330846-shoot-the-aliens.json](./330846-shoot-the-aliens.json) |
+| Shoot the Apple 2018 | 95842 | [95842-shoot-the-apple-2018.json](./95842-shoot-the-apple-2018.json) |
 | Shoot the Ball | 84872 | [84872-shoot-the-ball.json](./84872-shoot-the-ball.json) |
 | Shoot The Barrel | 290928 | [290928-shoot-the-barrel.json](./290928-shoot-the-barrel.json) |
 | Shoot The Barrels | 393661 | [393661-shoot-the-barrels.json](./393661-shoot-the-barrels.json) |
@@ -3113,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuwa no Mori | 254483 | [254483-shuwa-no-mori.json](./254483-shuwa-no-mori.json) |
 | Shuwa Shuwa Guin! | 383940 | [383940-shuwa-shuwa-guin.json](./383940-shuwa-shuwa-guin.json) |
 | Shuyun Huazhang | 335360 | [335360-shuyun-huazhang.json](./335360-shuyun-huazhang.json) |
+| Shy Bunnies | 95834 | [95834-shy-bunnies.json](./95834-shy-bunnies.json) |
 | Shy Cats Hidden Orchestra 2 | 409556 | [409556-shy-cats-hidden-orchestra-2.json](./409556-shy-cats-hidden-orchestra-2.json) |
 | Shy Cats: Hidden Orchestra | 235872 | [235872-shy-cats-hidden-orchestra.json](./235872-shy-cats-hidden-orchestra.json) |
 | Shy Dogs Hidden Orchestra | 258215 | [258215-shy-dogs-hidden-orchestra.json](./258215-shy-dogs-hidden-orchestra.json) |
@@ -4232,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Evolutionary Path | 256516 | [256516-slime-evolutionary-path.json](./256516-slime-evolutionary-path.json) |
 | Slime Experiments | 265148 | [265148-slime-experiments.json](./265148-slime-experiments.json) |
 | Slime Factory | 367980 | [367980-slime-factory.json](./367980-slime-factory.json) |
+| Slime Flight: VIP | 95826 | [95826-slime-flight-vip.json](./95826-slime-flight-vip.json) |
 | Slime Garden | 104661 | [104661-slime-garden.json](./104661-slime-garden.json) |
 | Slime Guy | 348881 | [348881-slime-guy.json](./348881-slime-guy.json) |
 | Slime Hero | 216890 | [216890-slime-hero.json](./216890-slime-hero.json) |
@@ -5193,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Crime Stories | 386141 | [386141-solitaire-crime-stories.json](./386141-solitaire-crime-stories.json) |
 | Solitaire Crime Stories Chapter 3 | 390506 | [390506-solitaire-crime-stories-chapter-3.json](./390506-solitaire-crime-stories-chapter-3.json) |
 | Solitaire Dash | 255169 | [255169-solitaire-dash.json](./255169-solitaire-dash.json) |
+| Solitaire Dash TriPeaks Islands | 95846 | [95846-solitaire-dash-tripeaks-islands.json](./95846-solitaire-dash-tripeaks-islands.json) |
 | Solitaire de Kenshou | 220325 | [220325-solitaire-de-kenshou.json](./220325-solitaire-de-kenshou.json) |
 | Solitaire Deck | 406122 | [406122-solitaire-deck.json](./406122-solitaire-deck.json) |
 | Solitaire Deluxe Bundle: 3 in 1 | 147801 | [147801-solitaire-deluxe-bundle-3-in-1.json](./147801-solitaire-deluxe-bundle-3-in-1.json) |
@@ -7691,6 +7696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Swapper | 94728 | [94728-star-swapper.json](./94728-star-swapper.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
 | Star Tactics Redux | 169965 | [169965-star-tactics-redux.json](./169965-star-tactics-redux.json) |
+| Star Tactics Redux: Clash of Fleets | 95856 | [95856-star-tactics-redux-clash-of-fleets.json](./95856-star-tactics-redux-clash-of-fleets.json) |
 | Star Tactics Redux: Expeditions | 169952 | [169952-star-tactics-redux-expeditions.json](./169952-star-tactics-redux-expeditions.json) |
 | Star Tank | 169457 | [169457-star-tank.json](./169457-star-tank.json) |
 | Star Tower | 373537 | [373537-star-tower.json](./373537-star-tower.json) |
@@ -8513,9 +8519,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Party | 323378 | [323378-stickman-party.json](./323378-stickman-party.json) |
 | Stickman Physics Battle Arena | 391757 | [391757-stickman-physics-battle-arena.json](./391757-stickman-physics-battle-arena.json) |
 | Stickman Pixel Archer | 239348 | [239348-stickman-pixel-archer.json](./239348-stickman-pixel-archer.json) |
+| Stickman PVP Warriors PRO online | 95858 | [95858-stickman-pvp-warriors-pro-online.json](./95858-stickman-pvp-warriors-pro-online.json) |
 | Stickman Revenge: Demon Slayer | 323201 | [323201-stickman-revenge-demon-slayer.json](./323201-stickman-revenge-demon-slayer.json) |
 | Stickman Skater | 174341 | [174341-stickman-skater.json](./174341-stickman-skater.json) |
 | Stickman Strikes: Conquer Fantasy World | 317870 | [317870-stickman-strikes-conquer-fantasy-world.json](./317870-stickman-strikes-conquer-fantasy-world.json) |
+| Stickman Turbo Dismounting 3D | 95841 | [95841-stickman-turbo-dismounting-3d.json](./95841-stickman-turbo-dismounting-3d.json) |
 | Stickman War Lightsaber Games | 100746 | [100746-stickman-war-lightsaber-games.json](./100746-stickman-war-lightsaber-games.json) |
 | Stickman Warriors Craft | 100834 | [100834-stickman-warriors-craft.json](./100834-stickman-warriors-craft.json) |
 | Stickman World | 87250 | [87250-stickman-world.json](./87250-stickman-world.json) |
@@ -8602,6 +8610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Cold Sexy | 182999 | [182999-stone-cold-sexy.json](./182999-stone-cold-sexy.json) |
 | Stone Defence | 113032 | [113032-stone-defence.json](./113032-stone-defence.json) |
 | Stone Flower | 61594 | [61594-stone-flower.json](./61594-stone-flower.json) |
+| Stone Giant | 95852 | [95852-stone-giant.json](./95852-stone-giant.json) |
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
 | Stone Story | 301604 | [301604-stone-story.json](./301604-stone-story.json) |
 | Stone Tales | 34386 | [34386-stone-tales.json](./34386-stone-tales.json) |
