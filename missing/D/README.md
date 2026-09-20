@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dalo | 207514 | [207514-dalo.json](./207514-dalo.json) |
 | Daloman Depths | 159139 | [159139-daloman-depths.json](./159139-daloman-depths.json) |
 | Dalton: The Awesome! | 263577 | [263577-dalton-the-awesome.json](./263577-dalton-the-awesome.json) |
+| Dam Dam Stompland | 92317 | [92317-dam-dam-stompland.json](./92317-dam-dam-stompland.json) |
 | Dam Panic | 346038 | [346038-dam-panic.json](./346038-dam-panic.json) |
 | Dama Gallery | 154977 | [154977-dama-gallery.json](./154977-dama-gallery.json) |
 | Damaaz the Barbarian Warlock | 278713 | [278713-damaaz-the-barbarian-warlock.json](./278713-damaaz-the-barbarian-warlock.json) |
@@ -703,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darwins Trash | 370149 | [370149-darwins-trash.json](./370149-darwins-trash.json) |
 | Das Boot: German U-Boat Simulation | 14332 | [14332-das-boot-german-u-boat-simulation.json](./14332-das-boot-german-u-boat-simulation.json) |
 | Das Erbe | 86037 | [86037-das-erbe.json](./86037-das-erbe.json) |
+| Das Geheimnis der Ägyptischen Mumie | 92285 | [92285-das-geheimnis-der-agyptischen-mumie.json](./92285-das-geheimnis-der-agyptischen-mumie.json) |
 | Das Milliarden-Quiz | 94533 | [94533-das-milliarden-quiz.json](./94533-das-milliarden-quiz.json) |
 | Das neue Dr. Brain Gehirn Jogging Vol.2 | 98815 | [98815-das-neue-dr-brain-gehirn-jogging-vol-2.json](./98815-das-neue-dr-brain-gehirn-jogging-vol-2.json) |
 | Das neue Dr.Brain Gehirnjogging Vol.3 | 98805 | [98805-das-neue-dr-brain-gehirnjogging-vol-3.json](./98805-das-neue-dr-brain-gehirnjogging-vol-3.json) |
@@ -3901,6 +3903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doofas | 133438 | [133438-doofas.json](./133438-doofas.json) |
 | Doofus | 39025 | [39025-doofus.json](./39025-doofus.json) |
 | Dookie Nukem 3D | 218115 | [218115-dookie-nukem-3d.json](./218115-dookie-nukem-3d.json) |
+| Dooly Soccer 2002 | 92313 | [92313-dooly-soccer-2002.json](./92313-dooly-soccer-2002.json) |
 | Doom | 170995 | [170995-doom.json](./170995-doom.json) |
 | Doom | 259944 | [259944-doom.json](./259944-doom.json) |
 | Doom | 313161 | [313161-doom.json](./313161-doom.json) |
@@ -5372,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon & Derision | 210713 | [210713-dungeon-and-derision.json](./210713-dungeon-and-derision.json) |
 | Dungeon & Doggies | 303499 | [303499-dungeon-and-doggies.json](./303499-dungeon-and-doggies.json) |
 | Dungeon & Evil | 174847 | [174847-dungeon-and-evil.json](./174847-dungeon-and-evil.json) |
+| Dungeon & Guarder | 92312 | [92312-dungeon-and-guarder.json](./92312-dungeon-and-guarder.json) |
 | Dungeon 3D: Eastern | 277583 | [277583-dungeon-3d-eastern.json](./277583-dungeon-3d-eastern.json) |
 | Dungeon Adventure | 344358 | [344358-dungeon-adventure.json](./344358-dungeon-adventure.json) |
 | Dungeon Adventure Gang | 272371 | [272371-dungeon-adventure-gang.json](./272371-dungeon-adventure-gang.json) |
@@ -5739,6 +5743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyflexion | 189067 | [189067-dyflexion.json](./189067-dyflexion.json) |
 | Dyg | 208581 | [208581-dyg.json](./208581-dyg.json) |
 | Dyger | 39673 | [39673-dyger.json](./39673-dyger.json) |
+| Dyhard Infinity | 92310 | [92310-dyhard-infinity.json](./92310-dyhard-infinity.json) |
 | Dying Breed | 240798 | [240798-dying-breed.json](./240798-dying-breed.json) |
 | Dying Flame | 144976 | [144976-dying-flame.json](./144976-dying-flame.json) |
 | Dying for Daylight | 79904 | [79904-dying-for-daylight.json](./79904-dying-for-daylight.json) |
