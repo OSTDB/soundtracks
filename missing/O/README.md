@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OcculThieves | 272374 | [272374-occulthieves.json](./272374-occulthieves.json) |
 | Occultist Girl Magatsuhi | 270188 | [270188-occultist-girl-magatsuhi.json](./270188-occultist-girl-magatsuhi.json) |
 | Occulto | 192948 | [192948-occulto.json](./192948-occulto.json) |
+| Occupy Mars: The Game | 80936 | [80936-occupy-mars-the-game.json](./80936-occupy-mars-the-game.json) |
 | Ocda | 185117 | [185117-ocda.json](./185117-ocda.json) |
 | Ocean Cargo Manager | 415169 | [415169-ocean-cargo-manager.json](./415169-ocean-cargo-manager.json) |
 | Ocean City Killer | 353978 | [353978-ocean-city-killer.json](./353978-ocean-city-killer.json) |
@@ -1438,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osminog Adventures: The Lost Island | 222909 | [222909-osminog-adventures-the-lost-island.json](./222909-osminog-adventures-the-lost-island.json) |
 | Osmo Coding Jam | 100164 | [100164-osmo-coding-jam.json](./100164-osmo-coding-jam.json) |
 | Osmo Monster | 104667 | [104667-osmo-monster.json](./104667-osmo-monster.json) |
+| Osmorrow | 80933 | [80933-osmorrow.json](./80933-osmorrow.json) |
 | Osomatsu-san Protagonist Contest Pokoball | 266478 | [266478-osomatsu-san-protagonist-contest-pokoball.json](./266478-osomatsu-san-protagonist-contest-pokoball.json) |
 | Osomatsu-san: Hesokuri Wars | 56477 | [56477-osomatsu-san-hesokuri-wars.json](./56477-osomatsu-san-hesokuri-wars.json) |
 | OSR Unhinged | 91946 | [91946-osr-unhinged.json](./91946-osr-unhinged.json) |
