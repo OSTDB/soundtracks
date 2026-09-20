@@ -2814,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anywhere You've Been | 178601 | [178601-anywhere-youve-been.json](./178601-anywhere-youve-been.json) |
 | Anzeigenhauptmeister Simulator | 292510 | [292510-anzeigenhauptmeister-simulator.json](./292510-anzeigenhauptmeister-simulator.json) |
 | Anzu | 325056 | [325056-anzu.json](./325056-anzu.json) |
+| Ao no Kanata no Four Rhythm 4th Anniversary Box | 124030 | [124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json](./124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json) |
 | Ao no Kanata no Four Rhythm Extra1+2P | 280892 | [280892-ao-no-kanata-no-four-rhythm-extra1-2p.json](./280892-ao-no-kanata-no-four-rhythm-extra1-2p.json) |
 | Ao Oni X | 313275 | [313275-ao-oni-x.json](./313275-ao-oni-x.json) |
 | AO Tennis | 76726 | [76726-ao-tennis.json](./76726-ao-tennis.json) |
@@ -2823,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoi Shiro | 165554 | [165554-aoi-shiro.json](./165554-aoi-shiro.json) |
 | Aoi Sora no Neosphere Doki-doki Adventure Effective E | 408136 | [408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json](./408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json) |
 | Aoi Tori: L'Oiseau Bleu | 394867 | [394867-aoi-tori-loiseau-bleu.json](./394867-aoi-tori-loiseau-bleu.json) |
+| Aokana: Four Rhythms Across the Blue Extra1 | 124028 | [124028-aokana-four-rhythms-across-the-blue-extra1.json](./124028-aokana-four-rhythms-across-the-blue-extra1.json) |
 | Aoki Densetsu Shoot! | 228474 | [228474-aoki-densetsu-shoot.json](./228474-aoki-densetsu-shoot.json) |
 | Aoki Ookami to Shiroki Mejika | 30922 | [30922-aoki-ookami-to-shiroki-mejika.json](./30922-aoki-ookami-to-shiroki-mejika.json) |
 | Aonar | 259292 | [259292-aonar.json](./259292-aonar.json) |
