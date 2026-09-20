@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verdict | 166606 | [166606-verdict.json](./166606-verdict.json) |
 | Verdonia | 92446 | [92446-verdonia.json](./92446-verdonia.json) |
 | Verdun | 8036 | [8036-verdun.json](./8036-verdun.json) |
+| Verdungeon | 120215 | [120215-verdungeon.json](./120215-verdungeon.json) |
 | Verdungo | 149943 | [149943-verdungo.json](./149943-verdungo.json) |
 | Vereda | 192807 | [192807-vereda.json](./192807-vereda.json) |
 | Veredilia: The Sacred Forest | 265932 | [265932-veredilia-the-sacred-forest.json](./265932-veredilia-the-sacred-forest.json) |
