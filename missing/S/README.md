@@ -2661,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiina Taki's Decameron | 320725 | [320725-shiina-takis-decameron.json](./320725-shiina-takis-decameron.json) |
 | Shijie Xiuxian | 295003 | [295003-shijie-xiuxian.json](./295003-shijie-xiuxian.json) |
 | Shìjiè Zhīwài | 400305 | [400305-shijie-zhiwai.json](./400305-shijie-zhiwai.json) |
+| Shijou Saikyou No Deshi Kenichi: Gekitou! Ragnarok Hachikengou | 64664 | [64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json](./64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json) |
 | Shikhondo: Youkai Rampage | 283772 | [283772-shikhondo-youkai-rampage.json](./283772-shikhondo-youkai-rampage.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Dainishou | 240303 | [240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json](./240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Daisanshou | 240304 | [240304-shiki-oni-no-koku-chuugoku-hen-daisanshou.json](./240304-shiki-oni-no-koku-chuugoku-hen-daisanshou.json) |
@@ -3481,6 +3482,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon's Cat in Purrfect Pitch | 233208 | [233208-simons-cat-in-purrfect-pitch.json](./233208-simons-cat-in-purrfect-pitch.json) |
 | Simon's Journey | 71002 | [71002-simons-journey.json](./71002-simons-journey.json) |
 | Simp Attack | 157117 | [157117-simp-attack.json](./157117-simp-attack.json) |
+| Simple 1500 Series Hello Kitty Vol. 01: Hello Kitty Bowling | 64656 | [64656-simple-1500-series-hello-kitty-vol-01-hello-kitty-bowling.json](./64656-simple-1500-series-hello-kitty-vol-01-hello-kitty-bowling.json) |
+| Simple 1500 Series Hello Kitty Vol. 02: Hello Kitty Illust Puzzle | 64658 | [64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json](./64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json) |
+| Simple 1500 Series Hello Kitty Vol. 03: Hello Kitty Block Kuzushi | 64652 | [64652-simple-1500-series-hello-kitty-vol-03-hello-kitty-block-kuzushi.json](./64652-simple-1500-series-hello-kitty-vol-03-hello-kitty-block-kuzushi.json) |
+| Simple 1500 Series Hello Kitty Vol. 04: Trump | 64650 | [64650-simple-1500-series-hello-kitty-vol-04-trump.json](./64650-simple-1500-series-hello-kitty-vol-04-trump.json) |
 | Simple 1500 Series Vol. 11: The Pinball 3D | 19671 | [19671-simple-1500-series-vol-11-the-pinball-3d.json](./19671-simple-1500-series-vol-11-the-pinball-3d.json) |
 | Simple 1500 Series Vol. 12: The Quiz | 209497 | [209497-simple-1500-series-vol-12-the-quiz.json](./209497-simple-1500-series-vol-12-the-quiz.json) |
 | Simple 1500 Series Vol. 15: The Pachinko | 209498 | [209498-simple-1500-series-vol-15-the-pachinko.json](./209498-simple-1500-series-vol-15-the-pachinko.json) |
@@ -3489,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
 | Simple 1500 Series Vol. 65: The Golf | 130774 | [130774-simple-1500-series-vol-65-the-golf.json](./130774-simple-1500-series-vol-65-the-golf.json) |
 | Simple 1500 Series Vol. 77: The Suiei | 209500 | [209500-simple-1500-series-vol-77-the-suiei.json](./209500-simple-1500-series-vol-77-the-suiei.json) |
+| Simple 2000 Hello Kitty Series Vol. 1: Starlight Puzzle | 64651 | [64651-simple-2000-hello-kitty-series-vol-1-starlight-puzzle.json](./64651-simple-2000-hello-kitty-series-vol-1-starlight-puzzle.json) |
 | Simple 2000 Hello Kitty Series Vol. 2: Minna de Sugoroku | 203350 | [203350-simple-2000-hello-kitty-series-vol-2-minna-de-sugoroku.json](./203350-simple-2000-hello-kitty-series-vol-2-minna-de-sugoroku.json) |
 | Simple 2000 Honkaku Shikou Vol.001: The Shogi | 203343 | [203343-simple-2000-honkaku-shikou-vol-001-the-shogi.json](./203343-simple-2000-honkaku-shikou-vol-001-the-shogi.json) |
 | Simple 2000 Honkaku Shikou Vol.002: The Igo | 203344 | [203344-simple-2000-honkaku-shikou-vol-002-the-igo.json](./203344-simple-2000-honkaku-shikou-vol-002-the-igo.json) |
@@ -5173,6 +5179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokko Seitokai: Sonic Council | 165073 | [165073-sokko-seitokai-sonic-council.json](./165073-sokko-seitokai-sonic-council.json) |
 | Soko Loco | 129576 | [129576-soko-loco.json](./129576-soko-loco.json) |
 | Soko-Ban | 11763 | [11763-soko-ban.json](./11763-soko-ban.json) |
+| Sokoball of Osaka | 64679 | [64679-sokoball-of-osaka.json](./64679-sokoball-of-osaka.json) |
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
 | Sokoban | 47946 | [47946-sokoban.json](./47946-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
