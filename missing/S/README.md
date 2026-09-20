@@ -2147,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Warrior Classic Complete | 51914 | [51914-shadow-warrior-classic-complete.json](./51914-shadow-warrior-classic-complete.json) |
 | Shadow Wolf Mysteries: Cursed Wedding - Collector's Edition | 99620 | [99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json](./99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json) |
 | Shadow Wolf Mysteries: Cursed Wedding & Shadow Wolf Mysteries: Under the Crimson Moon | 201811 | [201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json](./201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json) |
+| Shadow Wolf Mysteries: Tracks of Terror | 101966 | [101966-shadow-wolf-mysteries-tracks-of-terror.json](./101966-shadow-wolf-mysteries-tracks-of-terror.json) |
 | Shadow X Dash: Ring Collector | 104461 | [104461-shadow-x-dash-ring-collector.json](./104461-shadow-x-dash-ring-collector.json) |
 | Shadow's Bullet | 191871 | [191871-shadows-bullet.json](./191871-shadows-bullet.json) |
 | Shadow's Descent | 321530 | [321530-shadows-descent.json](./321530-shadows-descent.json) |
@@ -2972,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shounen Ashibe: Goma-chan no Yuuenchi Daibouken | 42542 | [42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json](./42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json) |
 | Shounen Tantei-dan to Oka no Ue no Kimyou na Karakuri Yashiki | 251623 | [251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json](./251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json) |
 | Shout Seven | 159245 | [159245-shout-seven.json](./159245-shout-seven.json) |
+| Shoutrageous! | 101952 | [101952-shoutrageous.json](./101952-shoutrageous.json) |
 | Shovel Knight Dig | 122097 | [122097-shovel-knight-dig.json](./122097-shovel-knight-dig.json) |
 | Shovel Knight: Dig - Fate and Fortune | 305754 | [305754-shovel-knight-dig-fate-and-fortune.json](./305754-shovel-knight-dig-fate-and-fortune.json) |
 | Shovel Knight: Dig - Wicked Wishes | 305755 | [305755-shovel-knight-dig-wicked-wishes.json](./305755-shovel-knight-dig-wicked-wishes.json) |
@@ -4186,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sligga Trigger | 272580 | [272580-sligga-trigger.json](./272580-sligga-trigger.json) |
 | Sliiide! | 221757 | [221757-sliiide.json](./221757-sliiide.json) |
 | Sliko | 156141 | [156141-sliko.json](./156141-sliko.json) |
+| Slim World | 101930 | [101930-slim-world.json](./101930-slim-world.json) |
 | Slime | 285052 | [285052-slime.json](./285052-slime.json) |
 | Slime | 407438 | [407438-slime.json](./407438-slime.json) |
 | Slime 3k: Demake | 322759 | [322759-slime-3k-demake.json](./322759-slime-3k-demake.json) |
@@ -4312,6 +4315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slobbish Dragon Princess 3 | 240480 | [240480-slobbish-dragon-princess-3.json](./240480-slobbish-dragon-princess-3.json) |
 | Slobbish Dragon Princess Love + Plus | 153460 | [153460-slobbish-dragon-princess-love-plus.json](./153460-slobbish-dragon-princess-love-plus.json) |
 | Sloomy | 251658 | [251658-sloomy.json](./251658-sloomy.json) |
+| Slope | 101945 | [101945-slope.json](./101945-slope.json) |
 | Slope | 264867 | [264867-slope.json](./264867-slope.json) |
 | Sloper | 89998 | [89998-sloper.json](./89998-sloper.json) |
 | Slordax: The Unknown Enemy | 73244 | [73244-slordax-the-unknown-enemy.json](./73244-slordax-the-unknown-enemy.json) |
@@ -6598,6 +6602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Elixir | 19447 | [19447-speed-elixir.json](./19447-speed-elixir.json) |
 | Speed Factor | 378777 | [378777-speed-factor.json](./378777-speed-factor.json) |
 | Speed Guess: Something | 323188 | [323188-speed-guess-something.json](./323188-speed-guess-something.json) |
+| Speed Hero vs. Mega Ramp | 101985 | [101985-speed-hero-vs-mega-ramp.json](./101985-speed-hero-vs-mega-ramp.json) |
 | Speed High | 240355 | [240355-speed-high.json](./240355-speed-high.json) |
 | Speed Intense Island | 233514 | [233514-speed-intense-island.json](./233514-speed-intense-island.json) |
 | Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
@@ -8749,6 +8754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratside | 130780 | [130780-stratside.json](./130780-stratside.json) |
 | Stratum | 74319 | [74319-stratum.json](./74319-stratum.json) |
 | Stratum Descent | 279015 | [279015-stratum-descent.json](./279015-stratum-descent.json) |
+| Straw Hat Samurai: Duels | 101931 | [101931-straw-hat-samurai-duels.json](./101931-straw-hat-samurai-duels.json) |
 | Straw Path | 416675 | [416675-straw-path.json](./416675-straw-path.json) |
 | Strawberry | 339658 | [339658-strawberry.json](./339658-strawberry.json) |
 | Strawberry Blasted Sky Glide | 143681 | [143681-strawberry-blasted-sky-glide.json](./143681-strawberry-blasted-sky-glide.json) |
