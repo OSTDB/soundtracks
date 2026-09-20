@@ -1725,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatem Tom and Jerry | 100822 | [100822-beatem-tom-and-jerry.json](./100822-beatem-tom-and-jerry.json) |
 | Beaten Path | 264711 | [264711-beaten-path.json](./264711-beaten-path.json) |
 | Beaterator | 18383 | [18383-beaterator.json](./18383-beaterator.json) |
+| BeatEVO YG | 74785 | [74785-beatevo-yg.json](./74785-beatevo-yg.json) |
 | Beating A Dead Horse With A One-Trick Pony | 111508 | [111508-beating-a-dead-horse-with-a-one-trick-pony.json](./111508-beating-a-dead-horse-with-a-one-trick-pony.json) |
 | BeatLine | 260773 | [260773-beatline.json](./260773-beatline.json) |
 | Beatmania 2ndMix | 94746 | [94746-beatmania-2ndmix.json](./94746-beatmania-2ndmix.json) |
@@ -3324,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockudoku | 227479 | [227479-blockudoku.json](./227479-blockudoku.json) |
 | BlockUrbs | 338251 | [338251-blockurbs.json](./338251-blockurbs.json) |
 | Blockus' Adventures | 118344 | [118344-blockus-adventures.json](./118344-blockus-adventures.json) |
+| Blockwick | 74783 | [74783-blockwick.json](./74783-blockwick.json) |
 | Blocky Ball | 151040 | [151040-blocky-ball.json](./151040-blocky-ball.json) |
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
 | Blocky Cars In Real World | 175332 | [175332-blocky-cars-in-real-world.json](./175332-blocky-cars-in-real-world.json) |
@@ -4082,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booster Racers | 303105 | [303105-booster-racers.json](./303105-booster-racers.json) |
 | Boot : Game Dev Sim | 129034 | [129034-boot-game-dev-sim.json](./129034-boot-game-dev-sim.json) |
 | Boot Camp Endless Runner | 223497 | [223497-boot-camp-endless-runner.json](./223497-boot-camp-endless-runner.json) |
+| Boot Hill Blaster | 74740 | [74740-boot-hill-blaster.json](./74740-boot-hill-blaster.json) |
 | Boot Hill Heroes 2 | 60561 | [60561-boot-hill-heroes-2.json](./60561-boot-hill-heroes-2.json) |
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
 | Bootstrap Island | 196895 | [196895-bootstrap-island.json](./196895-bootstrap-island.json) |
@@ -5516,6 +5519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burst Hero | 237042 | [237042-burst-hero.json](./237042-burst-hero.json) |
 | Burst Planet | 161393 | [161393-burst-planet.json](./161393-burst-planet.json) |
 | Burst the Game | 28929 | [28929-burst-the-game.json](./28929-burst-the-game.json) |
+| Burstly | 74742 | [74742-burstly.json](./74742-burstly.json) |
 | Burtik | 96112 | [96112-burtik.json](./96112-burtik.json) |
 | Burujiru | 108997 | [108997-burujiru.json](./108997-burujiru.json) |
 | Bury | 151571 | [151571-bury.json](./151571-bury.json) |
