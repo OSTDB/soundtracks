@@ -2712,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldwide Sports Fishing | 117556 | [117556-worldwide-sports-fishing.json](./117556-worldwide-sports-fishing.json) |
 | Worldy Cup | 31854 | [31854-worldy-cup.json](./31854-worldy-cup.json) |
 | Worm | 366923 | [366923-worm.json](./366923-worm.json) |
+| Worm 2000 | 74069 | [74069-worm-2000.json](./74069-worm-2000.json) |
 | Worm AR | 234597 | [234597-worm-ar.json](./234597-worm-ar.json) |
 | Worm Dungeon | 135878 | [135878-worm-dungeon.json](./135878-worm-dungeon.json) |
 | Worm Game | 231396 | [231396-worm-game.json](./231396-worm-game.json) |
