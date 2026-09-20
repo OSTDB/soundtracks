@@ -2054,6 +2054,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chester's Revenge | 197858 | [197858-chesters-revenge.json](./197858-chesters-revenge.json) |
 | Chestnut Grove | 231368 | [231368-chestnut-grove.json](./231368-chestnut-grove.json) |
 | Chesto: At the Checkout | 134686 | [134686-chesto-at-the-checkout.json](./134686-chesto-at-the-checkout.json) |
+| Chests O' Booty | 84576 | [84576-chests-o-booty.json](./84576-chests-o-booty.json) |
+| Chevrolet Camaro Wild Ride 3D | 84575 | [84575-chevrolet-camaro-wild-ride-3d.json](./84575-chevrolet-camaro-wild-ride-3d.json) |
 | Chewing | 113741 | [113741-chewing.json](./113741-chewing.json) |
 | Chex | 232978 | [232978-chex.json](./232978-chex.json) |
 | Chez Croggy | 264153 | [264153-chez-croggy.json](./264153-chez-croggy.json) |
@@ -2120,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Nuggets | 180224 | [180224-chicken-nuggets.json](./180224-chicken-nuggets.json) |
 | Chicken of the Farm | 124612 | [124612-chicken-of-the-farm.json](./124612-chicken-of-the-farm.json) |
 | Chicken Party: Animal Farm | 314873 | [314873-chicken-party-animal-farm.json](./314873-chicken-party-animal-farm.json) |
+| Chicken Range | 84572 | [84572-chicken-range.json](./84572-chicken-range.json) |
 | Chicken Range Bundle | 139947 | [139947-chicken-range-bundle.json](./139947-chicken-range-bundle.json) |
 | Chicken Rescue | 213048 | [213048-chicken-rescue.json](./213048-chicken-rescue.json) |
 | Chicken Royale | 399747 | [399747-chicken-royale.json](./399747-chicken-royale.json) |
@@ -2177,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child of Luminescence | 350521 | [350521-child-of-luminescence.json](./350521-child-of-luminescence.json) |
 | Child of Ruin | 298876 | [298876-child-of-ruin.json](./298876-child-of-ruin.json) |
 | Child Run: City Surfers Runner | 245915 | [245915-child-run-city-surfers-runner.json](./245915-child-run-city-surfers-runner.json) |
+| Child's Mind | 84573 | [84573-childs-mind.json](./84573-childs-mind.json) |
 | Child's Play | 60007 | [60007-childs-play.json](./60007-childs-play.json) |
 | Childhood Gone: Shadowed Wand | 157536 | [157536-childhood-gone-shadowed-wand.json](./157536-childhood-gone-shadowed-wand.json) |
 | Childhood Watermelon | 366311 | [366311-childhood-watermelon.json](./366311-childhood-watermelon.json) |
@@ -2224,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimpact | 63851 | [63851-chimpact.json](./63851-chimpact.json) |
 | Chimpanzini Bananini | 351093 | [351093-chimpanzini-bananini.json](./351093-chimpanzini-bananini.json) |
 | Chimparty | 103404 | [103404-chimparty.json](./103404-chimparty.json) |
+| Chimpuzzle Pro | 84574 | [84574-chimpuzzle-pro.json](./84574-chimpuzzle-pro.json) |
 | Chinatown | 272012 | [272012-chinatown.json](./272012-chinatown.json) |
 | Chinese Ancient Poetry Matching Game | 274576 | [274576-chinese-ancient-poetry-matching-game.json](./274576-chinese-ancient-poetry-matching-game.json) |
 | Chinese Characters | 223507 | [223507-chinese-characters.json](./223507-chinese-characters.json) |
