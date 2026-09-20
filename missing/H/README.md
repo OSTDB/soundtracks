@@ -3107,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Villa | 157539 | [157539-horror-villa.json](./157539-horror-villa.json) |
 | Horror Ville Maze Escape | 119713 | [119713-horror-ville-maze-escape.json](./119713-horror-ville-maze-escape.json) |
 | HorrorCore: Maze and Pools of Horror | 331974 | [331974-horrorcore-maze-and-pools-of-horror.json](./331974-horrorcore-maze-and-pools-of-horror.json) |
+| Horrorfield | 124593 | [124593-horrorfield.json](./124593-horrorfield.json) |
 | HorrorMon Photography | 381670 | [381670-horrormon-photography.json](./381670-horrormon-photography.json) |
 | Horrors Above | 391185 | [391185-horrors-above.json](./391185-horrors-above.json) |
 | Horrors Anonymous | 179603 | [179603-horrors-anonymous.json](./179603-horrors-anonymous.json) |
