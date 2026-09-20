@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flea! | 150517 | [150517-flea.json](./150517-flea.json) |
 | Fleabag vs. Mutt 2 | 403020 | [403020-fleabag-vs-mutt-2.json](./403020-fleabag-vs-mutt-2.json) |
 | Flecto | 407325 | [407325-flecto.json](./407325-flecto.json) |
+| Fledgling Heroes | 124027 | [124027-fledgling-heroes.json](./124027-fledgling-heroes.json) |
 | Flee or Be: Chapter One - Lurking Alone | 305535 | [305535-flee-or-be-chapter-one-lurking-alone.json](./305535-flee-or-be-chapter-one-lurking-alone.json) |
 | Flee the Backrooms | 238744 | [238744-flee-the-backrooms.json](./238744-flee-the-backrooms.json) |
 | Fleece Lightning | 175392 | [175392-fleece-lightning.json](./175392-fleece-lightning.json) |
@@ -2823,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footage | 302930 | [302930-footage.json](./302930-footage.json) |
 | Football | 131533 | [131533-football.json](./131533-football.json) |
 | Football | 199023 | [199023-football.json](./199023-football.json) |
+| Football Academy | 124015 | [124015-football-academy.json](./124015-football-academy.json) |
 | Football Betting | 167246 | [167246-football-betting.json](./167246-football-betting.json) |
 | Football Bus Battle 2021 | 153978 | [153978-football-bus-battle-2021.json](./153978-football-bus-battle-2021.json) |
 | Football Career Mode 26 | 346582 | [346582-football-career-mode-26.json](./346582-football-career-mode-26.json) |
@@ -4315,6 +4317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuyu Kiss: Complete Limited Edition | 159822 | [159822-fuyu-kiss-complete-limited-edition.json](./159822-fuyu-kiss-complete-limited-edition.json) |
 | Fúyǔ Lù | 82042 | [82042-fuyu-lu.json](./82042-fuyu-lu.json) |
 | Fuyu no Rondo | 69310 | [69310-fuyu-no-rondo.json](./69310-fuyu-no-rondo.json) |
+| Fuyu no Sonata DS | 124014 | [124014-fuyu-no-sonata-ds.json](./124014-fuyu-no-sonata-ds.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
 | Fwog | 270189 | [270189-fwog.json](./270189-fwog.json) |
