@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura MMO 2 | 113123 | [113123-sakura-mmo-2.json](./113123-sakura-mmo-2.json) |
 | Sakura Moonlight | 135892 | [135892-sakura-moonlight.json](./135892-sakura-moonlight.json) |
 | Sakura no Mori Dreamers | 75788 | [75788-sakura-no-mori-dreamers.json](./75788-sakura-no-mori-dreamers.json) |
+| Sakura no Mori Dreamers 2 | 114824 | [114824-sakura-no-mori-dreamers-2.json](./114824-sakura-no-mori-dreamers-2.json) |
 | Sakura Note: Ima ni Tsunagaru Mirai | 123409 | [123409-sakura-note-ima-ni-tsunagaru-mirai.json](./123409-sakura-note-ima-ni-tsunagaru-mirai.json) |
 | Sakura Priestess and Shikigami Mountain | 306060 | [306060-sakura-priestess-and-shikigami-mountain.json](./306060-sakura-priestess-and-shikigami-mountain.json) |
 | Sakura Revolution: Blooming Maidens | 226767 | [226767-sakura-revolution-blooming-maidens.json](./226767-sakura-revolution-blooming-maidens.json) |
@@ -1228,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Fishing Simulator | 129741 | [129741-sea-fishing-simulator.json](./129741-sea-fishing-simulator.json) |
 | Sea Hawk | 23911 | [23911-sea-hawk.json](./23911-sea-hawk.json) |
 | Sea Horizon | 199477 | [199477-sea-horizon.json](./199477-sea-horizon.json) |
+| Sea Horse Hide'n Seek | 114788 | [114788-sea-horse-hiden-seek.json](./114788-sea-horse-hiden-seek.json) |
 | Sea Hunter Idle | 399703 | [399703-sea-hunter-idle.json](./399703-sea-hunter-idle.json) |
 | Sea Legends | 146227 | [146227-sea-legends.json](./146227-sea-legends.json) |
 | Sea Legends | 293633 | [293633-sea-legends.json](./293633-sea-legends.json) |
@@ -3908,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyforce | 174856 | [174856-skyforce.json](./174856-skyforce.json) |
 | Skyfort | 310170 | [310170-skyfort.json](./310170-skyfort.json) |
 | Skyfox II: The Cygnus Conflict | 55086 | [55086-skyfox-ii-the-cygnus-conflict.json](./55086-skyfox-ii-the-cygnus-conflict.json) |
+| SkyGameChanger-AirCombat II- | 114812 | [114812-skygamechanger-aircombat-ii.json](./114812-skygamechanger-aircombat-ii.json) |
 | Skyguard 0: Air Arcade | 259097 | [259097-skyguard-0-air-arcade.json](./259097-skyguard-0-air-arcade.json) |
 | Skyhammer | 40807 | [40807-skyhammer.json](./40807-skyhammer.json) |
 | SKYHILL: Black Mist | 117770 | [117770-skyhill-black-mist.json](./117770-skyhill-black-mist.json) |
@@ -4142,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Castle | 314634 | [314634-slime-castle.json](./314634-slime-castle.json) |
 | Slime Coming | 301812 | [301812-slime-coming.json](./301812-slime-coming.json) |
 | Slime Cores | 298056 | [298056-slime-cores.json](./298056-slime-cores.json) |
+| Slime Crunch | 114828 | [114828-slime-crunch.json](./114828-slime-crunch.json) |
 | Slime Dungeon Escape | 161389 | [161389-slime-dungeon-escape.json](./161389-slime-dungeon-escape.json) |
 | Slime Escape | 192390 | [192390-slime-escape.json](./192390-slime-escape.json) |
 | Slime Evolution | 235464 | [235464-slime-evolution.json](./235464-slime-evolution.json) |
