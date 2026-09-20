@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UsoNatsu: The Summer Romance Bloomed From a Lie | 234340 | [234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json](./234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json) |
 | Usotsuki Game | 83528 | [83528-usotsuki-game.json](./83528-usotsuki-game.json) |
 | Ustje | 379983 | [379983-ustje.json](./379983-ustje.json) |
+| Usual John | 105141 | [105141-usual-john.json](./105141-usual-john.json) |
 | Usual June | 279615 | [279615-usual-june.json](./279615-usual-june.json) |
 | Usurper of Fire | 408035 | [408035-usurper-of-fire.json](./408035-usurper-of-fire.json) |
 | UT Adventure | 294861 | [294861-ut-adventure.json](./294861-ut-adventure.json) |
