@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basket Bowling + | 47309 | [47309-basket-bowling.json](./47309-basket-bowling.json) |
 | Basket Legends | 188017 | [188017-basket-legends.json](./188017-basket-legends.json) |
 | Basket Zombie | 282137 | [282137-basket-zombie.json](./282137-basket-zombie.json) |
+| Basketball | 109471 | [109471-basketball.json](./109471-basketball.json) |
 | Basketball | 131516 | [131516-basketball.json](./131516-basketball.json) |
 | Basketball | 131531 | [131531-basketball.json](./131531-basketball.json) |
 | Basketball | 191088 | [191088-basketball.json](./191088-basketball.json) |
@@ -3314,6 +3315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Money | 11968 | [11968-blood-money.json](./11968-blood-money.json) |
 | Blood Money | 411673 | [411673-blood-money.json](./411673-blood-money.json) |
 | Blood Night | 326976 | [326976-blood-night.json](./326976-blood-night.json) |
+| Blood nor Water | 109503 | [109503-blood-nor-water.json](./109503-blood-nor-water.json) |
 | Blood of Calamity | 319375 | [319375-blood-of-calamity.json](./319375-blood-of-calamity.json) |
 | Blood of Darkness | 153434 | [153434-blood-of-darkness.json](./153434-blood-of-darkness.json) |
 | Blood of Heroes | 146880 | [146880-blood-of-heroes.json](./146880-blood-of-heroes.json) |
@@ -3830,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombun | 349366 | [349366-bombun.json](./349366-bombun.json) |
 | Bombyx | 123639 | [123639-bombyx.json](./123639-bombyx.json) |
 | Bomcat | 362329 | [362329-bomcat.json](./362329-bomcat.json) |
+| Bon Bon Paradise | 109481 | [109481-bon-bon-paradise.json](./109481-bon-bon-paradise.json) |
 | Bonanza Burger | 288779 | [288779-bonanza-burger.json](./288779-bonanza-burger.json) |
 | Bonbon | 74482 | [74482-bonbon.json](./74482-bonbon.json) |
 | Bonbonribbon: Tokimeki Coord Kirakira Dance | 222419 | [222419-bonbonribbon-tokimeki-coord-kirakira-dance.json](./222419-bonbonribbon-tokimeki-coord-kirakira-dance.json) |
