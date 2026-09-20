@@ -1374,6 +1374,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar Liar 2 | 303246 | [303246-liar-liar-2.json](./303246-liar-liar-2.json) |
 | Liar Moon Shangri-La | 209478 | [209478-liar-moon-shangri-la.json](./209478-liar-moon-shangri-la.json) |
 | Liar Trick: Psychological Crime Mystery | 163961 | [163961-liar-trick-psychological-crime-mystery.json](./163961-liar-trick-psychological-crime-mystery.json) |
+| Liar: Legend of the Sword | 65223 | [65223-liar-legend-of-the-sword.json](./65223-liar-legend-of-the-sword.json) |
+| Liar: Legend of the Sword 2 | 65222 | [65222-liar-legend-of-the-sword-2.json](./65222-liar-legend-of-the-sword-2.json) |
 | Liar! Uncover the Truth | 115483 | [115483-liar-uncover-the-truth.json](./115483-liar-uncover-the-truth.json) |
 | Liar's Bar | 317695 | [317695-liars-bar.json](./317695-liars-bar.json) |
 | Liar’s Line | 382762 | [382762-liar-s-line.json](./382762-liar-s-line.json) |
@@ -2624,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the tomb | 74473 | [74473-lost-in-the-tomb.json](./74473-lost-in-the-tomb.json) |
 | Lost In Time | 171602 | [171602-lost-in-time.json](./171602-lost-in-time.json) |
 | Lost in Time: Parts 1 & 2 | 80536 | [80536-lost-in-time-parts-1-and-2.json](./80536-lost-in-time-parts-1-and-2.json) |
+| Lost in Time: The Clockwork Tower | 65186 | [65186-lost-in-time-the-clockwork-tower.json](./65186-lost-in-time-the-clockwork-tower.json) |
 | Lost In Transit | 375867 | [375867-lost-in-transit.json](./375867-lost-in-transit.json) |
 | Lost In Winter | 258172 | [258172-lost-in-winter.json](./258172-lost-in-winter.json) |
 | Lost in Yomori | 382283 | [382283-lost-in-yomori.json](./382283-lost-in-yomori.json) |
