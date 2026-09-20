@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvation Hours | 306490 | [306490-salvation-hours.json](./306490-salvation-hours.json) |
 | Salvation in Corruption | 75183 | [75183-salvation-in-corruption.json](./75183-salvation-in-corruption.json) |
 | Salvation Plan: Spirit Evil | 284336 | [284336-salvation-plan-spirit-evil.json](./284336-salvation-plan-spirit-evil.json) |
+| Salvator | 86530 | [86530-salvator.json](./86530-salvator.json) |
 | Salvatorem | 298714 | [298714-salvatorem.json](./298714-salvatorem.json) |
 | Salvo | 184497 | [184497-salvo.json](./184497-salvo.json) |
 | Salvus: Aries | 221278 | [221278-salvus-aries.json](./221278-salvus-aries.json) |
@@ -1632,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seireiki Rayblade | 311290 | [311290-seireiki-rayblade.json](./311290-seireiki-rayblade.json) |
 | Seiryuu Densetsu Monbit | 66141 | [66141-seiryuu-densetsu-monbit.json](./66141-seiryuu-densetsu-monbit.json) |
 | Seisai | 125997 | [125997-seisai.json](./125997-seisai.json) |
+| Seishin - Virtual Rhythm | 86522 | [86522-seishin-virtual-rhythm.json](./86522-seishin-virtual-rhythm.json) |
 | Seishin Hakai | 260976 | [260976-seishin-hakai.json](./260976-seishin-hakai.json) |
 | Seisho 1999 | 323919 | [323919-seisho-1999.json](./323919-seisho-1999.json) |
 | Seishoku ni Watashi wo | 321620 | [321620-seishoku-ni-watashi-wo.json](./321620-seishoku-ni-watashi-wo.json) |
@@ -4493,6 +4495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Puzzles Collection | 140398 | [140398-smart-puzzles-collection.json](./140398-smart-puzzles-collection.json) |
 | Smart Technology | 230266 | [230266-smart-technology.json](./230266-smart-technology.json) |
 | Smart Technology 2 | 230267 | [230267-smart-technology-2.json](./230267-smart-technology-2.json) |
+| SmartBoy | 86556 | [86556-smartboy.json](./86556-smartboy.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
 | Smarty Labs | 410999 | [410999-smarty-labs.json](./410999-smarty-labs.json) |
 | Smash 'n Dab | 177438 | [177438-smash-n-dab.json](./177438-smash-n-dab.json) |
@@ -9860,6 +9863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Droid Adventure | 233622 | [233622-super-droid-adventure.json](./233622-super-droid-adventure.json) |
 | Super Drunken Guy | 251690 | [251690-super-drunken-guy.json](./251690-super-drunken-guy.json) |
 | Super Dude-Shooter: The Omni-Revenge | 140994 | [140994-super-dude-shooter-the-omni-revenge.json](./140994-super-dude-shooter-the-omni-revenge.json) |
+| Super Dungeon Boy 2 | 86576 | [86576-super-dungeon-boy-2.json](./86576-super-dungeon-boy-2.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Durak | 174336 | [174336-super-durak.json](./174336-super-durak.json) |
 | Super Dynamite Fishing | 61126 | [61126-super-dynamite-fishing.json](./61126-super-dynamite-fishing.json) |
@@ -9903,6 +9907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Granny Collection | 27855 | [27855-super-granny-collection.json](./27855-super-granny-collection.json) |
 | Super Grav | 31843 | [31843-super-grav.json](./31843-super-grav.json) |
 | Super Gravitron | 207834 | [207834-super-gravitron.json](./207834-super-gravitron.json) |
+| Super Green Rally | 86546 | [86546-super-green-rally.json](./86546-super-green-rally.json) |
 | Super Grid Runner | 291046 | [291046-super-grid-runner.json](./291046-super-grid-runner.json) |
 | Super Gridder | 57144 | [57144-super-gridder.json](./57144-super-gridder.json) |
 | Super Gridland | 197753 | [197753-super-gridland.json](./197753-super-gridland.json) |
