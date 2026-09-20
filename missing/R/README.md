@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R no Shosai | 93531 | [93531-r-no-shosai.json](./93531-r-no-shosai.json) |
 | R Place Guesser | 198339 | [198339-r-place-guesser.json](./198339-r-place-guesser.json) |
 | R-Coil | 68792 | [68792-r-coil.json](./68792-r-coil.json) |
+| R-Draw | 108857 | [108857-r-draw.json](./108857-r-draw.json) |
 | R-Naught | 151016 | [151016-r-naught.json](./151016-r-naught.json) |
 | R-Shark | 40254 | [40254-r-shark.json](./40254-r-shark.json) |
 | R-Type | 260765 | [260765-r-type.json](./260765-r-type.json) |
@@ -816,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re: LieF ~Shin'ainaru Anata e~ | 144956 | [144956-re-lief-shinainaru-anata-e.json](./144956-re-lief-shinainaru-anata-e.json) |
 | Re: Pian | 368035 | [368035-re-pian.json](./368035-re-pian.json) |
 | RE: Prince of Nigeria | 126001 | [126001-re-prince-of-nigeria.json](./126001-re-prince-of-nigeria.json) |
+| Re: Rem Plus | 108843 | [108843-re-rem-plus.json](./108843-re-rem-plus.json) |
 | Re: Survivor | 193430 | [193430-re-survivor.json](./193430-re-survivor.json) |
 | Re: Tree of Savior | 174808 | [174808-re-tree-of-savior.json](./174808-re-tree-of-savior.json) |
 | Re:Aegis | 291753 | [291753-re-aegis.json](./291753-re-aegis.json) |
@@ -3913,6 +3915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruptured Floor | 416635 | [416635-ruptured-floor.json](./416635-ruptured-floor.json) |
 | Rupupu Cube: Lup Salad | 66137 | [66137-rupupu-cube-lup-salad.json](./66137-rupupu-cube-lup-salad.json) |
 | Rural Nightmare | 272007 | [272007-rural-nightmare.json](./272007-rural-nightmare.json) |
+| Ruri Iro no Yuki | 108840 | [108840-ruri-iro-no-yuki.json](./108840-ruri-iro-no-yuki.json) |
 | Ruriiro Days: Heavenly Blue | 221242 | [221242-ruriiro-days-heavenly-blue.json](./221242-ruriiro-days-heavenly-blue.json) |
 | Rurizakura | 157566 | [157566-rurizakura.json](./157566-rurizakura.json) |
 | Ruruli Ra Rura | 45950 | [45950-ruruli-ra-rura.json](./45950-ruruli-ra-rura.json) |
