@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danball Senki W Chou Custom | 59406 | [59406-danball-senki-w-chou-custom.json](./59406-danball-senki-w-chou-custom.json) |
 | Danball Senki Wars | 59404 | [59404-danball-senki-wars.json](./59404-danball-senki-wars.json) |
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
+| Dance Dance Revolution 2ndMix | 77640 | [77640-dance-dance-revolution-2ndmix.json](./77640-dance-dance-revolution-2ndmix.json) |
 | Dance Dance Revolution 2ndReMix: Append Club Version Vol. 1 | 132807 | [132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json](./132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json) |
 | Dance Dance Revolution Best Hits | 132809 | [132809-dance-dance-revolution-best-hits.json](./132809-dance-dance-revolution-best-hits.json) |
 | Dance Dance Revolution ExtraMix | 93034 | [93034-dance-dance-revolution-extramix.json](./93034-dance-dance-revolution-extramix.json) |
@@ -347,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dango Thief | 242539 | [242539-dango-thief.json](./242539-dango-thief.json) |
 | DangoVerse | 284998 | [284998-dangoverse.json](./284998-dangoverse.json) |
 | Daniel Pintado's Land of Silence | 284999 | [284999-daniel-pintados-land-of-silence.json](./284999-daniel-pintados-land-of-silence.json) |
+| Danjon ni Deai o Motomeru no wa Machigatteiru Darou ka? Orario Rhapsodia | 77627 | [77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json](./77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json) |
 | Danju | 410238 | [410238-danju.json](./410238-danju.json) |
 | Danko and treasure map | 29990 | [29990-danko-and-treasure-map.json](./29990-danko-and-treasure-map.json) |
 | DanLab's Golf | 315825 | [315825-danlabs-golf.json](./315825-danlabs-golf.json) |
@@ -2048,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Gesundheits Coach: Wohlfuhlen jeden Tag | 269579 | [269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json](./269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json) |
 | Der Große Preis von Raddorf | 98955 | [98955-der-gro-e-preis-von-raddorf.json](./98955-der-gro-e-preis-von-raddorf.json) |
 | Der Königsruf | 369627 | [369627-der-konigsruf.json](./369627-der-konigsruf.json) |
+| Der Langrisser | 77634 | [77634-der-langrisser.json](./77634-der-langrisser.json) |
 | Der Planer | 86048 | [86048-der-planer.json](./86048-der-planer.json) |
 | Der Planer 3 | 92964 | [92964-der-planer-3.json](./92964-der-planer-3.json) |
 | Der Schatz im Silbersee | 72045 | [72045-der-schatz-im-silbersee.json](./72045-der-schatz-im-silbersee.json) |
