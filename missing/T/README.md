@@ -2275,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Casino Empire | 257940 | [257940-the-casino-empire.json](./257940-the-casino-empire.json) |
 | The Casino: Roulette, Video Poker, Slot Machines, Craps, Baccarat | 147952 | [147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json](./147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json) |
 | The Cassandra Galleries | 86022 | [86022-the-cassandra-galleries.json](./86022-the-cassandra-galleries.json) |
+| The Castle | 121470 | [121470-the-castle.json](./121470-the-castle.json) |
 | The Castle | 223010 | [223010-the-castle.json](./223010-the-castle.json) |
 | The Castle Burns! | 239153 | [239153-the-castle-burns.json](./239153-the-castle-burns.json) |
 | The Castle Disaster 2 | 105318 | [105318-the-castle-disaster-2.json](./105318-the-castle-disaster-2.json) |
@@ -4205,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Shrine: Escape Room | 149606 | [149606-the-lost-shrine-escape-room.json](./149606-the-lost-shrine-escape-room.json) |
 | The Lost Skywhales | 182976 | [182976-the-lost-skywhales.json](./182976-the-lost-skywhales.json) |
 | The Lost Son | 261886 | [261886-the-lost-son.json](./261886-the-lost-son.json) |
+| The Lost Strings | 121449 | [121449-the-lost-strings.json](./121449-the-lost-strings.json) |
 | The Lost Tetekoa | 327202 | [327202-the-lost-tetekoa.json](./327202-the-lost-tetekoa.json) |
 | The Lost Throne | 127199 | [127199-the-lost-throne.json](./127199-the-lost-throne.json) |
 | The Lost Tomb | 269080 | [269080-the-lost-tomb.json](./269080-the-lost-tomb.json) |
@@ -5443,6 +5445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swine | 137693 | [137693-the-swine.json](./137693-the-swine.json) |
 | The Switch-Worker | 184490 | [184490-the-switch-worker.json](./184490-the-switch-worker.json) |
 | The Swoop 64 | 145429 | [145429-the-swoop-64.json](./145429-the-swoop-64.json) |
+| The Sword and the Slime | 121455 | [121455-the-sword-and-the-slime.json](./121455-the-sword-and-the-slime.json) |
 | The Sword of Ares for Quake | 196720 | [196720-the-sword-of-ares-for-quake.json](./196720-the-sword-of-ares-for-quake.json) |
 | The Sword of Hope | 10946 | [10946-the-sword-of-hope.json](./10946-the-sword-of-hope.json) |
 | The Sword of Hope II | 10947 | [10947-the-sword-of-hope-ii.json](./10947-the-sword-of-hope-ii.json) |
@@ -6651,6 +6654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Fighter 1931: MP093 | 173754 | [173754-tiger-fighter-1931-mp093.json](./173754-tiger-fighter-1931-mp093.json) |
 | Tiger Fighter 1931: MP094 | 173747 | [173747-tiger-fighter-1931-mp094.json](./173747-tiger-fighter-1931-mp094.json) |
 | Tiger Fighter 1931: MP099 | 173745 | [173745-tiger-fighter-1931-mp099.json](./173745-tiger-fighter-1931-mp099.json) |
+| Tiger Fighter 1931: Sunset | 121476 | [121476-tiger-fighter-1931-sunset.json](./121476-tiger-fighter-1931-sunset.json) |
 | Tiger Fighter 1931: Sunset MP021 | 189567 | [189567-tiger-fighter-1931-sunset-mp021.json](./189567-tiger-fighter-1931-sunset-mp021.json) |
 | Tiger Fighter 1931: Sunset MP022 | 189568 | [189568-tiger-fighter-1931-sunset-mp022.json](./189568-tiger-fighter-1931-sunset-mp022.json) |
 | Tiger Fighter 1931: Sunset MP024 | 189557 | [189557-tiger-fighter-1931-sunset-mp024.json](./189557-tiger-fighter-1931-sunset-mp024.json) |
@@ -7258,6 +7262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Assassin | 344383 | [344383-time-assassin.json](./344383-time-assassin.json) |
 | Time Attack! RPG | 152382 | [152382-time-attack-rpg.json](./152382-time-attack-rpg.json) |
 | Time Avarice | 295267 | [295267-time-avarice.json](./295267-time-avarice.json) |
+| Time Break 2121 | 121464 | [121464-time-break-2121.json](./121464-time-break-2121.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
 | Time Crisis | 389440 | [389440-time-crisis.json](./389440-time-crisis.json) |
 | Time Crisis 4 | 7466 | [7466-time-crisis-4.json](./7466-time-crisis-4.json) |
@@ -7320,6 +7325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Play Hearts | 86709 | [86709-time-to-play-hearts.json](./86709-time-to-play-hearts.json) |
 | Time to Play Pyramid | 96759 | [96759-time-to-play-pyramid.json](./96759-time-to-play-pyramid.json) |
 | Time to Ride: Saddles & Stables | 64908 | [64908-time-to-ride-saddles-and-stables.json](./64908-time-to-ride-saddles-and-stables.json) |
+| Time to Stop Time | 121452 | [121452-time-to-stop-time.json](./121452-time-to-stop-time.json) |
 | Time To Wake Up | 257932 | [257932-time-to-wake-up.json](./257932-time-to-wake-up.json) |
 | Time Trap: Hidden Objects | 287108 | [287108-time-trap-hidden-objects.json](./287108-time-trap-hidden-objects.json) |
 | Time Travel | 117091 | [117091-time-travel.json](./117091-time-travel.json) |
@@ -8089,6 +8095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Run | 129126 | [129126-top-run.json](./129126-top-run.json) |
 | Top Secret | 171498 | [171498-top-secret.json](./171498-top-secret.json) |
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
+| Top Speed 2: Racing Legends | 121448 | [121448-top-speed-2-racing-legends.json](./121448-top-speed-2-racing-legends.json) |
 | Top Spin | 5234 | [5234-top-spin.json](./5234-top-spin.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
 | Top Troops! | 228123 | [228123-top-troops.json](./228123-top-troops.json) |
@@ -8222,6 +8229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Attila | 8200 | [8200-total-war-attila.json](./8200-total-war-attila.json) |
 | Total War: Attila - Empires of Sand Culture Pack | 53816 | [53816-total-war-attila-empires-of-sand-culture-pack.json](./53816-total-war-attila-empires-of-sand-culture-pack.json) |
 | Total War: Attila - The Last Roman Campaign Pack | 53815 | [53815-total-war-attila-the-last-roman-campaign-pack.json](./53815-total-war-attila-the-last-roman-campaign-pack.json) |
+| Total War: Elysium | 121439 | [121439-total-war-elysium.json](./121439-total-war-elysium.json) |
 | Total War: Rome II - Black Sea Colonies | 53824 | [53824-total-war-rome-ii-black-sea-colonies.json](./53824-total-war-rome-ii-black-sea-colonies.json) |
 | Total War: Rome II - Blood & Gore | 53826 | [53826-total-war-rome-ii-blood-and-gore.json](./53826-total-war-rome-ii-blood-and-gore.json) |
 | Total War: Rome II - Campaign Pack: Wrath of Sparta | 53830 | [53830-total-war-rome-ii-campaign-pack-wrath-of-sparta.json](./53830-total-war-rome-ii-campaign-pack-wrath-of-sparta.json) |
