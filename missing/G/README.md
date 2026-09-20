@@ -40,7 +40,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Zilla | 196271 | [196271-g-zilla.json](./196271-g-zilla.json) |
 | G:nom | 125389 | [125389-g-nom.json](./125389-g-nom.json) |
 | G.E.T. | 192812 | [192812-g-e-t.json](./192812-g-e-t.json) |
+| G.G Series: D-Tank | 84546 | [84546-g-g-series-d-tank.json](./84546-g-g-series-d-tank.json) |
+| G.G Series: Great Whip Adventure | 84567 | [84567-g-g-series-great-whip-adventure.json](./84567-g-g-series-great-whip-adventure.json) |
+| G.G Series: Hero Puzzle | 84569 | [84569-g-g-series-hero-puzzle.json](./84569-g-g-series-hero-puzzle.json) |
+| G.G Series: Nyokki | 84568 | [84568-g-g-series-nyokki.json](./84568-g-g-series-nyokki.json) |
+| G.G Series: Score Attacker | 84566 | [84566-g-g-series-score-attacker.json](./84566-g-g-series-score-attacker.json) |
+| G.G Series: Shadow Army | 84565 | [84565-g-g-series-shadow-army.json](./84565-g-g-series-shadow-army.json) |
 | G.G Series: Tetsubou | 91391 | [91391-g-g-series-tetsubou.json](./91391-g-g-series-tetsubou.json) |
+| G.G Series: The Hidden Ninja Kagemaru | 84564 | [84564-g-g-series-the-hidden-ninja-kagemaru.json](./84564-g-g-series-the-hidden-ninja-kagemaru.json) |
+| G.G Series: The Last Knight | 84563 | [84563-g-g-series-the-last-knight.json](./84563-g-g-series-the-last-knight.json) |
+| G.G Series: The Spiky Blowfish!! | 84562 | [84562-g-g-series-the-spiky-blowfish.json](./84562-g-g-series-the-spiky-blowfish.json) |
+| G.G Series: Vector | 84561 | [84561-g-g-series-vector.json](./84561-g-g-series-vector.json) |
+| G.G Series: Vertex | 84560 | [84560-g-g-series-vertex.json](./84560-g-g-series-vertex.json) |
 | G.H.O.S.T. Chronicles: Phantom of the Faire | 209598 | [209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json](./209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json) |
 | G.I. Joe: Operation Blackout - Digital Deluxe | 173160 | [173160-g-i-joe-operation-blackout-digital-deluxe.json](./173160-g-i-joe-operation-blackout-digital-deluxe.json) |
 | G.I. Joe: War on Cobra | 138573 | [138573-g-i-joe-war-on-cobra.json](./138573-g-i-joe-war-on-cobra.json) |
@@ -95,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gain Ground SX | 42013 | [42013-gain-ground-sx.json](./42013-gain-ground-sx.json) |
 | Gairaldia 6 | 175297 | [175297-gairaldia-6.json](./175297-gairaldia-6.json) |
 | Gaishin Senki: Millennium Sword | 264307 | [264307-gaishin-senki-millennium-sword.json](./264307-gaishin-senki-millennium-sword.json) |
+| Gaist Crusher God | 84559 | [84559-gaist-crusher-god.json](./84559-gaist-crusher-god.json) |
 | Gakken DS: Otona no Gakushuu Kintaichi Sensei no Nihongo Lesson | 245046 | [245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json](./245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json) |
 | Gakkoi 2: Unmei Ai ha Inochigake | 212262 | [212262-gakkoi-2-unmei-ai-ha-inochigake.json](./212262-gakkoi-2-unmei-ai-ha-inochigake.json) |
 | Gakkoi: Ai to Noroi to Valentine | 212263 | [212263-gakkoi-ai-to-noroi-to-valentine.json](./212263-gakkoi-ai-to-noroi-to-valentine.json) |
@@ -345,8 +357,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | 346610 | [346610-game.json](./346610-game.json) |
 | Game (not) Over | 333656 | [333656-game-not-over.json](./333656-game-not-over.json) |
 | Game & Lynx: Critter Championship | 297595 | [297595-game-and-lynx-critter-championship.json](./297595-game-and-lynx-critter-championship.json) |
+| Game & Watch Chef | 84556 | [84556-game-and-watch-chef.json](./84556-game-and-watch-chef.json) |
 | Game & Watch Donkey Kong Jr | 339261 | [339261-game-and-watch-donkey-kong-jr.json](./339261-game-and-watch-donkey-kong-jr.json) |
 | Game & Watch Donkey Kong Jr. | 206932 | [206932-game-and-watch-donkey-kong-jr.json](./206932-game-and-watch-donkey-kong-jr.json) |
+| Game & Watch Flagman | 84554 | [84554-game-and-watch-flagman.json](./84554-game-and-watch-flagman.json) |
+| Game & Watch Helmet | 84550 | [84550-game-and-watch-helmet.json](./84550-game-and-watch-helmet.json) |
+| Game & Watch Manhole | 84549 | [84549-game-and-watch-manhole.json](./84549-game-and-watch-manhole.json) |
 | Game & Watch Mario's Cement Factory | 206933 | [206933-game-and-watch-marios-cement-factory.json](./206933-game-and-watch-marios-cement-factory.json) |
 | Game & Watch Mario's Cement Factory | 339262 | [339262-game-and-watch-marios-cement-factory.json](./339262-game-and-watch-marios-cement-factory.json) |
 | Game & Watch-e: Flagman | 261805 | [261805-game-and-watch-e-flagman.json](./261805-game-and-watch-e-flagman.json) |
@@ -813,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genderman | 391600 | [391600-genderman.json](./391600-genderman.json) |
 | Gene | 35898 | [35898-gene.json](./35898-gene.json) |
 | Gene Crawl: Dungeon Descent | 406136 | [406136-gene-crawl-dungeon-descent.json](./406136-gene-crawl-dungeon-descent.json) |
+| Gene Labs | 84514 | [84514-gene-labs.json](./84514-gene-labs.json) |
 | Gene Rain Ultimate & Your Toy Bundle | 301575 | [301575-gene-rain-ultimate-and-your-toy-bundle.json](./301575-gene-rain-ultimate-and-your-toy-bundle.json) |
 | Gene Rain Wind Tower: Ultimate Edition | 249219 | [249219-gene-rain-wind-tower-ultimate-edition.json](./249219-gene-rain-wind-tower-ultimate-edition.json) |
 | Geneforge 1: Mutagen | 134650 | [134650-geneforge-1-mutagen.json](./134650-geneforge-1-mutagen.json) |
@@ -957,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geography Champion | 105933 | [105933-geography-champion.json](./105933-geography-champion.json) |
 | GeoJelly | 232457 | [232457-geojelly.json](./232457-geojelly.json) |
 | GeoJelly Space Odyssey Bundle | 284504 | [284504-geojelly-space-odyssey-bundle.json](./284504-geojelly-space-odyssey-bundle.json) |
+| Geom | 84515 | [84515-geom.json](./84515-geom.json) |
 | Geom | 93023 | [93023-geom.json](./93023-geom.json) |
 | GeoMaze | 298344 | [298344-geomaze.json](./298344-geomaze.json) |
 | Geometric Feel the Beats | 224206 | [224206-geometric-feel-the-beats.json](./224206-geometric-feel-the-beats.json) |
@@ -1333,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlfriend from Hell | 278416 | [278416-girlfriend-from-hell.json](./278416-girlfriend-from-hell.json) |
 | Girlfriend Note | 58812 | [58812-girlfriend-note.json](./58812-girlfriend-note.json) |
 | Girlfriend's sister | 75784 | [75784-girlfriends-sister.json](./75784-girlfriends-sister.json) |
+| Girlfriends Forever: Magic Skate | 84511 | [84511-girlfriends-forever-magic-skate.json](./84511-girlfriends-forever-magic-skate.json) |
 | Girlish Love Revolution | 80610 | [80610-girlish-love-revolution.json](./80610-girlish-love-revolution.json) |
 | GirlJail | 97348 | [97348-girljail.json](./97348-girljail.json) |
 | Girls Battlegrounds | 284340 | [284340-girls-battlegrounds.json](./284340-girls-battlegrounds.json) |
@@ -1513,8 +1532,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorious Mission | 74323 | [74323-glorious-mission.json](./74323-glorious-mission.json) |
 | Glorious Savior | 38972 | [38972-glorious-savior.json](./38972-glorious-savior.json) |
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
+| Glory Days: Tactical Defense | 84509 | [84509-glory-days-tactical-defense.json](./84509-glory-days-tactical-defense.json) |
 | Glory Hold | 151117 | [151117-glory-hold.json](./151117-glory-hold.json) |
 | Glory Hounds | 210700 | [210700-glory-hounds.json](./210700-glory-hounds.json) |
+| Glory of Generals | 84508 | [84508-glory-of-generals.json](./84508-glory-of-generals.json) |
 | Glory of the Survivor | 200134 | [200134-glory-of-the-survivor.json](./200134-glory-of-the-survivor.json) |
 | Glory of War | 209664 | [209664-glory-of-war.json](./209664-glory-of-war.json) |
 | Glory to the Heroes | 363972 | [363972-glory-to-the-heroes.json](./363972-glory-to-the-heroes.json) |
@@ -1598,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Carts | 297473 | [297473-go-carts.json](./297473-go-carts.json) |
 | Go Deep Or Go Home | 285484 | [285484-go-deep-or-go-home.json](./285484-go-deep-or-go-home.json) |
 | Go Fetch! | 85166 | [85166-go-fetch.json](./85166-go-fetch.json) |
+| Go Fetch! 2 | 84548 | [84548-go-fetch-2.json](./84548-go-fetch-2.json) |
 | Go Fight Fantastic! | 127364 | [127364-go-fight-fantastic.json](./127364-go-fight-fantastic.json) |
 | Go Fish! | 40717 | [40717-go-fish.json](./40717-go-fish.json) |
 | Go Go Muffin | 212451 | [212451-go-go-muffin.json](./212451-go-go-muffin.json) |
@@ -2453,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravBlocks+ | 147964 | [147964-gravblocks.json](./147964-gravblocks.json) |
 | GravBot | 393513 | [393513-gravbot.json](./393513-gravbot.json) |
 | Grave | 7411 | [7411-grave.json](./7411-grave.json) |
+| Grave Danger: Ultimate Edition | 84531 | [84531-grave-danger-ultimate-edition.json](./84531-grave-danger-ultimate-edition.json) |
 | Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
 | Grave Yardage | 94545 | [94545-grave-yardage.json](./94545-grave-yardage.json) |
@@ -2561,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Was A Mistake | 366830 | [366830-gravity-was-a-mistake.json](./366830-gravity-was-a-mistake.json) |
 | Gravity Waves | 253371 | [253371-gravity-waves.json](./253371-gravity-waves.json) |
 | Gravity: Sylux's Crusade | 338822 | [338822-gravity-syluxs-crusade.json](./338822-gravity-syluxs-crusade.json) |
+| Gravity+ | 84530 | [84530-gravity.json](./84530-gravity.json) |
 | GravityBall | 409647 | [409647-gravityball.json](./409647-gravityball.json) |
 | Gravulse | 141882 | [141882-gravulse.json](./141882-gravulse.json) |
 | Gravv: Between Two Worlds | 195725 | [195725-gravv-between-two-worlds.json](./195725-gravv-between-two-worlds.json) |
