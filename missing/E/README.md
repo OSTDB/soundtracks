@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberglade | 415895 | [415895-emberglade.json](./415895-emberglade.json) |
 | Emberheart | 129760 | [129760-emberheart.json](./129760-emberheart.json) |
 | Emberhold | 379876 | [379876-emberhold.json](./379876-emberhold.json) |
+| Emberlight | 118207 | [118207-emberlight.json](./118207-emberlight.json) |
 | Emberrush | 264706 | [264706-emberrush.json](./264706-emberrush.json) |
 | Embers | 291226 | [291226-embers.json](./291226-embers.json) |
 | Embers Adrift | 186247 | [186247-embers-adrift.json](./186247-embers-adrift.json) |
@@ -1967,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EVE Online: Equinox Era pack | 316396 | [316396-eve-online-equinox-era-pack.json](./316396-eve-online-equinox-era-pack.json) |
 | Eve Online: Gateway | 329920 | [329920-eve-online-gateway.json](./329920-eve-online-gateway.json) |
 | Eve Online: Havoc | 329931 | [329931-eve-online-havoc.json](./329931-eve-online-havoc.json) |
+| Eve Online: Invasion | 118157 | [118157-eve-online-invasion.json](./118157-eve-online-invasion.json) |
 | Eve Online: New Dawn | 329927 | [329927-eve-online-new-dawn.json](./329927-eve-online-new-dawn.json) |
 | Eve Online: Onslaught | 329913 | [329913-eve-online-onslaught.json](./329913-eve-online-onslaught.json) |
 | Eve Online: Reign | 329925 | [329925-eve-online-reign.json](./329925-eve-online-reign.json) |
