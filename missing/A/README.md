@@ -3250,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Roller Jammer | 210745 | [210745-arcade-archives-roller-jammer.json](./210745-arcade-archives-roller-jammer.json) |
 | Arcade Archives: Rolling Thunder | 196174 | [196174-arcade-archives-rolling-thunder.json](./196174-arcade-archives-rolling-thunder.json) |
 | Arcade Archives: Rolling Thunder 2 | 251000 | [251000-arcade-archives-rolling-thunder-2.json](./251000-arcade-archives-rolling-thunder-2.json) |
+| Arcade Archives: Rygar | 109499 | [109499-arcade-archives-rygar.json](./109499-arcade-archives-rygar.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
 | Arcade Archives: Shingen Samurai-Fighter | 153832 | [153832-arcade-archives-shingen-samurai-fighter.json](./153832-arcade-archives-shingen-samurai-fighter.json) |
 | Arcade Archives: Silk Worm | 284928 | [284928-arcade-archives-silk-worm.json](./284928-arcade-archives-silk-worm.json) |
@@ -4118,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Rogue: Time Saver - Activities Pack | 151550 | [151550-assassins-creed-rogue-time-saver-activities-pack.json](./151550-assassins-creed-rogue-time-saver-activities-pack.json) |
 | Assassin’s Creed Rogue: Time Saver - Collectibles Pack | 151546 | [151546-assassin-s-creed-rogue-time-saver-collectibles-pack.json](./151546-assassin-s-creed-rogue-time-saver-collectibles-pack.json) |
 | Assassin's Creed Shadows: Thrown to the Dogs | 301432 | [301432-assassins-creed-shadows-thrown-to-the-dogs.json](./301432-assassins-creed-shadows-thrown-to-the-dogs.json) |
+| Assassin's Creed Syndicate: Streets of London Pack | 109437 | [109437-assassins-creed-syndicate-streets-of-london-pack.json](./109437-assassins-creed-syndicate-streets-of-london-pack.json) |
 | Assassin's Creed Syndicate: The Dreadful Crimes | 109432 | [109432-assassins-creed-syndicate-the-dreadful-crimes.json](./109432-assassins-creed-syndicate-the-dreadful-crimes.json) |
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
 | Assassin's Creed Valhalla: Collector's Edition | 141160 | [141160-assassins-creed-valhalla-collectors-edition.json](./141160-assassins-creed-valhalla-collectors-edition.json) |
@@ -4131,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Freedom Cry | 3775 | [3775-assassins-creed-freedom-cry.json](./3775-assassins-creed-freedom-cry.json) |
 | Assassin's Creed: Liberation HD | 20864 | [20864-assassins-creed-liberation-hd.json](./20864-assassins-creed-liberation-hd.json) |
 | Assassin's Creed: Lost Legacy | 78709 | [78709-assassins-creed-lost-legacy.json](./78709-assassins-creed-lost-legacy.json) |
+| Assassin's Creed: Odyssey - Cloud Version | 109463 | [109463-assassins-creed-odyssey-cloud-version.json](./109463-assassins-creed-odyssey-cloud-version.json) |
 | Assassin's Creed: Odyssey - Deluxe Edition | 24811 | [24811-assassins-creed-odyssey-deluxe-edition.json](./24811-assassins-creed-odyssey-deluxe-edition.json) |
 | Assassin's Creed: Odyssey - Gold Edition | 23648 | [23648-assassins-creed-odyssey-gold-edition.json](./23648-assassins-creed-odyssey-gold-edition.json) |
 | Assassin's Creed: Origins - God's Edition | 39045 | [39045-assassins-creed-origins-gods-edition.json](./39045-assassins-creed-origins-gods-edition.json) |
@@ -4535,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas Reactor | 18063 | [18063-atlas-reactor.json](./18063-atlas-reactor.json) |
 | Atlas Reactor VR Character Viewer | 33173 | [33173-atlas-reactor-vr-character-viewer.json](./33173-atlas-reactor-vr-character-viewer.json) |
 | Atlas Wept | 169854 | [169854-atlas-wept.json](./169854-atlas-wept.json) |
+| Atlas: Groundbreaking Adventures | 109478 | [109478-atlas-groundbreaking-adventures.json](./109478-atlas-groundbreaking-adventures.json) |
 | Atled: Everlasting Song | 194540 | [194540-atled-everlasting-song.json](./194540-atled-everlasting-song.json) |
 | Atlus Collaboration Costume Set | 333387 | [333387-atlus-collaboration-costume-set.json](./333387-atlus-collaboration-costume-set.json) |
 | Atmocity | 90077 | [90077-atmocity.json](./90077-atmocity.json) |
@@ -4941,6 +4945,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Possum Kicks Dr. Machino's Butt | 46240 | [46240-awesome-possum-kicks-dr-machinos-butt.json](./46240-awesome-possum-kicks-dr-machinos-butt.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
+| Awesomenauts Overdrive | 109468 | [109468-awesomenauts-overdrive.json](./109468-awesomenauts-overdrive.json) |
+| Awesomenauts Starstorm | 109469 | [109469-awesomenauts-starstorm.json](./109469-awesomenauts-starstorm.json) |
 | Awexome Cross | 135869 | [135869-awexome-cross.json](./135869-awexome-cross.json) |
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
 | Awful Mario World | 314897 | [314897-awful-mario-world.json](./314897-awful-mario-world.json) |
