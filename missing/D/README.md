@@ -2585,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Gekirin II | 137463 | [137463-die-gekirin-ii.json](./137463-die-gekirin-ii.json) |
 | Die Gekirin III | 137458 | [137458-die-gekirin-iii.json](./137458-die-gekirin-iii.json) |
 | Die goldene Maske | 141154 | [141154-die-goldene-maske.json](./141154-die-goldene-maske.json) |
+| Die Große Jump & Run-Box | 93971 | [93971-die-gro-e-jump-and-run-box.json](./93971-die-gro-e-jump-and-run-box.json) |
 | Die Hard 64 | 136862 | [136862-die-hard-64.json](./136862-die-hard-64.json) |
 | Die Hard Arcade | 39527 | [39527-die-hard-arcade.json](./39527-die-hard-arcade.json) |
 | Die Hard Trilogy | 8234 | [8234-die-hard-trilogy.json](./8234-die-hard-trilogy.json) |
@@ -4203,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
 | DPS Idle 2 | 253970 | [253970-dps-idle-2.json](./253970-dps-idle-2.json) |
 | DQ Girls Colosseum | 97699 | [97699-dq-girls-colosseum.json](./97699-dq-girls-colosseum.json) |
+| DQ Tycoon | 94000 | [94000-dq-tycoon.json](./94000-dq-tycoon.json) |
 | Dr Livesey Rom and Death Edition | 224897 | [224897-dr-livesey-rom-and-death-edition.json](./224897-dr-livesey-rom-and-death-edition.json) |
 | Dr Livingstone, I Presume? | 148338 | [148338-dr-livingstone-i-presume.json](./148338-dr-livingstone-i-presume.json) |
 | Dr Livingstone, I Presume?: Digital Deluxe Edition | 167178 | [167178-dr-livingstone-i-presume-digital-deluxe-edition.json](./167178-dr-livingstone-i-presume-digital-deluxe-edition.json) |
@@ -4265,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DR2 Night Janki | 247502 | [247502-dr2-night-janki.json](./247502-dr2-night-janki.json) |
 | DraBot | 401475 | [401475-drabot.json](./401475-drabot.json) |
 | Drac's Night Out | 48643 | [48643-dracs-night-out.json](./48643-dracs-night-out.json) |
+| Drachen Zor | 94011 | [94011-drachen-zor.json](./94011-drachen-zor.json) |
 | Draco | 151163 | [151163-draco.json](./151163-draco.json) |
 | Draco Dux | 33069 | [33069-draco-dux.json](./33069-draco-dux.json) |
 | Draco's Misfortune | 110990 | [110990-dracos-misfortune.json](./110990-dracos-misfortune.json) |
