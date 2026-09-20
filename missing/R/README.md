@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabanaz | 403571 | [403571-rabanaz.json](./403571-rabanaz.json) |
 | Rabbi-T | 240780 | [240780-rabbi-t.json](./240780-rabbi-t.json) |
 | Rabbids Big Bang | 61635 | [61635-rabbids-big-bang.json](./61635-rabbids-big-bang.json) |
+| Rabbids Crazy Rush | 90356 | [90356-rabbids-crazy-rush.json](./90356-rabbids-crazy-rush.json) |
 | Rabbids Invasion | 131366 | [131366-rabbids-invasion.json](./131366-rabbids-invasion.json) |
 | Rabbids Lab | 50699 | [50699-rabbids-lab.json](./50699-rabbids-lab.json) |
 | Rabbids: Party of Legends | 201254 | [201254-rabbids-party-of-legends.json](./201254-rabbids-party-of-legends.json) |
@@ -431,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Step | 67929 | [67929-rainbow-step.json](./67929-rainbow-step.json) |
 | Rainbow Tap | 203307 | [203307-rainbow-tap.json](./203307-rainbow-tap.json) |
 | Rainbow Tunnel | 182940 | [182940-rainbow-tunnel.json](./182940-rainbow-tunnel.json) |
+| Rainbow Unicorn Nail Salon | 90353 | [90353-rainbow-unicorn-nail-salon.json](./90353-rainbow-unicorn-nail-salon.json) |
 | Rainbow Warhead | 244859 | [244859-rainbow-warhead.json](./244859-rainbow-warhead.json) |
 | Rainbows, Toilets & Unicorns: Entertainment Corp. | 171607 | [171607-rainbows-toilets-and-unicorns-entertainment-corp.json](./171607-rainbows-toilets-and-unicorns-entertainment-corp.json) |
 | Rainbows, Toilets & Unicorns: Outraged & Offended | 171569 | [171569-rainbows-toilets-and-unicorns-outraged-and-offended.json](./171569-rainbows-toilets-and-unicorns-outraged-and-offended.json) |
