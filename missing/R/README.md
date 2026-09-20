@@ -2378,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring King | 48208 | [48208-ring-king.json](./48208-ring-king.json) |
 | Ring of Destruction: Slam Masters II | 39567 | [39567-ring-of-destruction-slam-masters-ii.json](./39567-ring-of-destruction-slam-masters-ii.json) |
 | Ring of Elysium | 95308 | [95308-ring-of-elysium.json](./95308-ring-of-elysium.json) |
+| Ring of Fire | 115464 | [115464-ring-of-fire.json](./115464-ring-of-fire.json) |
 | Ring of Pain | 115036 | [115036-ring-of-pain.json](./115036-ring-of-pain.json) |
 | Ring of Titans | 189162 | [189162-ring-of-titans.json](./189162-ring-of-titans.json) |
 | Ring Out!! | 41404 | [41404-ring-out.json](./41404-ring-out.json) |
@@ -2588,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Attack | 291574 | [291574-river-attack.json](./291574-river-attack.json) |
 | River City Girls 2 | 152321 | [152321-river-city-girls-2.json](./152321-river-city-girls-2.json) |
 | River City Girls Zero | 137195 | [137195-river-city-girls-zero.json](./137195-river-city-girls-zero.json) |
+| River City Melee Mach!! | 115481 | [115481-river-city-melee-mach.json](./115481-river-city-melee-mach.json) |
 | River City Melee: Battle Royal Special | 63712 | [63712-river-city-melee-battle-royal-special.json](./63712-river-city-melee-battle-royal-special.json) |
 | River City Saga: Three Kingdoms Next | 321749 | [321749-river-city-saga-three-kingdoms-next.json](./321749-river-city-saga-three-kingdoms-next.json) |
 | River City: Knights of Justice | 36549 | [36549-river-city-knights-of-justice.json](./36549-river-city-knights-of-justice.json) |
