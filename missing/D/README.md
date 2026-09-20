@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Line | 87048 | [87048-dancing-line.json](./87048-dancing-line.json) |
 | Dancing Snake | 89138 | [89138-dancing-snake.json](./89138-dancing-snake.json) |
 | Dancing Stage | 67248 | [67248-dancing-stage.json](./67248-dancing-stage.json) |
+| Dancing Stage featuring Dreams Come True | 69572 | [69572-dancing-stage-featuring-dreams-come-true.json](./69572-dancing-stage-featuring-dreams-come-true.json) |
 | Dancing Stage featuring True Kiss Destination | 132805 | [132805-dancing-stage-featuring-true-kiss-destination.json](./132805-dancing-stage-featuring-true-kiss-destination.json) |
 | Dancing Stage MegaMix | 225750 | [225750-dancing-stage-megamix.json](./225750-dancing-stage-megamix.json) |
 | Dancing Stage Universe | 6956 | [6956-dancing-stage-universe.json](./6956-dancing-stage-universe.json) |
