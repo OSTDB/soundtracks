@@ -5729,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery J: Special Stamp - Vanilla | 325480 | [325480-murder-mystery-j-special-stamp-vanilla.json](./325480-murder-mystery-j-special-stamp-vanilla.json) |
 | Murder Mystery Machine | 111944 | [111944-murder-mystery-machine.json](./111944-murder-mystery-machine.json) |
 | Murder Mystery Paradox: Fifteen Years of Summer | 247526 | [247526-murder-mystery-paradox-fifteen-years-of-summer.json](./247526-murder-mystery-paradox-fifteen-years-of-summer.json) |
+| Murder on the Island | 116871 | [116871-murder-on-the-island.json](./116871-murder-on-the-island.json) |
 | Murder on the Marine Express | 151690 | [151690-murder-on-the-marine-express.json](./151690-murder-on-the-marine-express.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
 | Murder on the Zinderneuf | 23929 | [23929-murder-on-the-zinderneuf.json](./23929-murder-on-the-zinderneuf.json) |
