@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarmZone | 159738 | [159738-farmzone.json](./159738-farmzone.json) |
 | Farocar | 92980 | [92980-farocar.json](./92980-farocar.json) |
 | Farol del Diablo (Devil's Lantern) | 347136 | [347136-farol-del-diablo-devils-lantern.json](./347136-farol-del-diablo-devils-lantern.json) |
+| Farragnarok | 114773 | [114773-farragnarok.json](./114773-farragnarok.json) |
 | Farrealm: The Prince of Winds | 120427 | [120427-farrealm-the-prince-of-winds.json](./120427-farrealm-the-prince-of-winds.json) |
 | Fart Game | 321575 | [321575-fart-game.json](./321575-fart-game.json) |
 | Fart Hotel | 243967 | [243967-fart-hotel.json](./243967-fart-hotel.json) |
@@ -1075,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearful Symmetry | 336907 | [336907-fearful-symmetry.json](./336907-fearful-symmetry.json) |
 | Fearless | 302933 | [302933-fearless.json](./302933-fearless.json) |
 | Fearless Fred and the Factory of Doom | 268740 | [268740-fearless-fred-and-the-factory-of-doom.json](./268740-fearless-fred-and-the-factory-of-doom.json) |
+| Fearless Tigor | 114819 | [114819-fearless-tigor.json](./114819-fearless-tigor.json) |
 | Fears | 15541 | [15541-fears.json](./15541-fears.json) |
 | Feartten Noir Story | 195246 | [195246-feartten-noir-story.json](./195246-feartten-noir-story.json) |
 | Feast of the Beast: Unleashed | 381697 | [381697-feast-of-the-beast-unleashed.json](./381697-feast-of-the-beast-unleashed.json) |
