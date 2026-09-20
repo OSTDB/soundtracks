@@ -1804,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Dr. Franken | 48617 | [48617-the-adventures-of-dr-franken.json](./48617-the-adventures-of-dr-franken.json) |
 | The Adventures of Eggbert | 146814 | [146814-the-adventures-of-eggbert.json](./146814-the-adventures-of-eggbert.json) |
 | The Adventures of Elliot: The Millennium Tales - Digital Deluxe Edition | 395685 | [395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json](./395685-the-adventures-of-elliot-the-millennium-tales-digital-deluxe-edition.json) |
+| The Adventures of Golly | 116858 | [116858-the-adventures-of-golly.json](./116858-the-adventures-of-golly.json) |
 | The Adventures of Graham | 398329 | [398329-the-adventures-of-graham.json](./398329-the-adventures-of-graham.json) |
 | The Adventures of Hori | 392285 | [392285-the-adventures-of-hori.json](./392285-the-adventures-of-hori.json) |
 | The Adventures of Hyperman | 71556 | [71556-the-adventures-of-hyperman.json](./71556-the-adventures-of-hyperman.json) |
@@ -8074,6 +8075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Took: The Immortal Hero | 329365 | [329365-took-the-immortal-hero.json](./329365-took-the-immortal-hero.json) |
 | Tool Land | 391747 | [391747-tool-land.json](./391747-tool-land.json) |
 | Toolbox Tycoon | 362826 | [362826-toolbox-tycoon.json](./362826-toolbox-tycoon.json) |
+| ToolBoy | 116869 | [116869-toolboy.json](./116869-toolboy.json) |
 | Tools Up! Garden Party: Episode 2 - Tunnel Vision | 169281 | [169281-tools-up-garden-party-episode-2-tunnel-vision.json](./169281-tools-up-garden-party-episode-2-tunnel-vision.json) |
 | Tools Up! Garden Party: Episode 3 - Home Sweet Home | 169279 | [169279-tools-up-garden-party-episode-3-home-sweet-home.json](./169279-tools-up-garden-party-episode-3-home-sweet-home.json) |
 | Tools Up! Garden Party: Season Pass | 202935 | [202935-tools-up-garden-party-season-pass.json](./202935-tools-up-garden-party-season-pass.json) |
@@ -9730,6 +9732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity | 2952 | [2952-trinity.json](./2952-trinity.json) |
 | Trinity Heart | 266238 | [266238-trinity-heart.json](./266238-trinity-heart.json) |
 | Trinity Shells | 328042 | [328042-trinity-shells.json](./328042-trinity-shells.json) |
+| Trinity Town Monastery \| Martial Art and Meditation | 116812 | [116812-trinity-town-monastery-martial-art-and-meditation.json](./116812-trinity-town-monastery-martial-art-and-meditation.json) |
 | Trinity Trigger | 202850 | [202850-trinity-trigger.json](./202850-trinity-trigger.json) |
 | Trinity Trigger: Day 1 Edition | 221947 | [221947-trinity-trigger-day-1-edition.json](./221947-trinity-trigger-day-1-edition.json) |
 | Trinity Universe | 7474 | [7474-trinity-universe.json](./7474-trinity-universe.json) |
