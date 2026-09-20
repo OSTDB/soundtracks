@@ -1523,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oubey VR: Samurai | 292693 | [292693-oubey-vr-samurai.json](./292693-oubey-vr-samurai.json) |
 | Oubliette | 2869 | [2869-oubliette.json](./2869-oubliette.json) |
 | Ouch! So Many Beauties! | 298602 | [298602-ouch-so-many-beauties.json](./298602-ouch-so-many-beauties.json) |
+| Ouchi Mainichi Tamagotchi | 77629 | [77629-ouchi-mainichi-tamagotchi.json](./77629-ouchi-mainichi-tamagotchi.json) |
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
 | Oudbiao's World | 258477 | [258477-oudbiaos-world.json](./258477-oudbiaos-world.json) |
 | Ouija | 155997 | [155997-ouija.json](./155997-ouija.json) |
