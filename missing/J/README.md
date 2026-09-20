@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jupiter Melon | 284901 | [284901-jupiter-melon.json](./284901-jupiter-melon.json) |
 | Jupitron Game Collection Vol. 4: Middleware | 198481 | [198481-jupitron-game-collection-vol-4-middleware.json](./198481-jupitron-game-collection-vol-4-middleware.json) |
 | Juqueision | 186301 | [186301-juqueision.json](./186301-juqueision.json) |
+| Juranka Classic | 101375 | [101375-juranka-classic.json](./101375-juranka-classic.json) |
 | Jurard Run | 337441 | [337441-jurard-run.json](./337441-jurard-run.json) |
 | Jurassic City Walk | 99030 | [99030-jurassic-city-walk.json](./99030-jurassic-city-walk.json) |
 | Jurassic Craft: Dino Hunter | 175350 | [175350-jurassic-craft-dino-hunter.json](./175350-jurassic-craft-dino-hunter.json) |
