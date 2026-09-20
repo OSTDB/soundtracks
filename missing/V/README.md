@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vardia | 275694 | [275694-vardia.json](./275694-vardia.json) |
 | VarDragons | 57114 | [57114-vardragons.json](./57114-vardragons.json) |
 | Vareion | 245321 | [245321-vareion.json](./245321-vareion.json) |
+| Varenje: Collector's Edition | 111504 | [111504-varenje-collectors-edition.json](./111504-varenje-collectors-edition.json) |
 | Varenje: Don't Touch The Berries | 271501 | [271501-varenje-dont-touch-the-berries.json](./271501-varenje-dont-touch-the-berries.json) |
 | VargFren Mash | 135180 | [135180-vargfren-mash.json](./135180-vargfren-mash.json) |
 | Vari Dungeon | 220869 | [220869-vari-dungeon.json](./220869-vari-dungeon.json) |
@@ -1050,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoidExpanse | 17863 | [17863-voidexpanse.json](./17863-voidexpanse.json) |
 | VoidExpanse - Complete Collection | 53870 | [53870-voidexpanse-complete-collection.json](./53870-voidexpanse-complete-collection.json) |
 | Voidface | 332424 | [332424-voidface.json](./332424-voidface.json) |
+| VoidGate | 111447 | [111447-voidgate.json](./111447-voidgate.json) |
 | Voidhunter | 216851 | [216851-voidhunter.json](./216851-voidhunter.json) |
 | Voidland Mystery Goodnight | 215225 | [215225-voidland-mystery-goodnight.json](./215225-voidland-mystery-goodnight.json) |
 | Voidline | 408037 | [408037-voidline.json](./408037-voidline.json) |
