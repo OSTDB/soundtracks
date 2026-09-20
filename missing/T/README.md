@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-Kara Puzzles | 34208 | [34208-t-kara-puzzles.json](./34208-t-kara-puzzles.json) |
 | T-night | 285457 | [285457-t-night.json](./285457-t-night.json) |
 | T-Racer | 266865 | [266865-t-racer.json](./266865-t-racer.json) |
+| T-Rex and Muscle Sam: Big Trouble in SPF | 125205 | [125205-t-rex-and-muscle-sam-big-trouble-in-spf.json](./125205-t-rex-and-muscle-sam-big-trouble-in-spf.json) |
 | T.A.P. | 114329 | [114329-t-a-p.json](./114329-t-a-p.json) |
 | T.D.Z. 3: Dark Way of Stalker | 242671 | [242671-t-d-z-3-dark-way-of-stalker.json](./242671-t-d-z-3-dark-way-of-stalker.json) |
 | T.E.C. 3001 | 14646 | [14646-t-e-c-3001.json](./14646-t-e-c-3001.json) |
@@ -131,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Manager 3 | 182377 | [182377-tactical-manager-3.json](./182377-tactical-manager-3.json) |
 | Tactical Manager Italia | 182376 | [182376-tactical-manager-italia.json](./182376-tactical-manager-italia.json) |
 | Tactical Mind | 82788 | [82788-tactical-mind.json](./82788-tactical-mind.json) |
+| Tactical Mind 2 | 125278 | [125278-tactical-mind-2.json](./125278-tactical-mind-2.json) |
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
 | Tactical Soccer the New Season | 34477 | [34477-tactical-soccer-the-new-season.json](./34477-tactical-soccer-the-new-season.json) |
 | Tactical Vengeance: Play the Game | 230924 | [230924-tactical-vengeance-play-the-game.json](./230924-tactical-vengeance-play-the-game.json) |
@@ -1330,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Arena | 227955 | [227955-tennis-arena.json](./227955-tennis-arena.json) |
 | Tennis Challenge | 230845 | [230845-tennis-challenge.json](./230845-tennis-challenge.json) |
 | Tennis Champs Returns | 58823 | [58823-tennis-champs-returns.json](./58823-tennis-champs-returns.json) |
+| Tennis Clash | 125197 | [125197-tennis-clash.json](./125197-tennis-clash.json) |
 | Tennis Club Story | 134020 | [134020-tennis-club-story.json](./134020-tennis-club-story.json) |
 | Tennis Cup | 123005 | [123005-tennis-cup.json](./123005-tennis-cup.json) |
 | Tennis Elbow | 197896 | [197896-tennis-elbow.json](./197896-tennis-elbow.json) |
@@ -1635,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsudou Nippon! Rosen Tabi: Kikansha Thomas-hen - Ooigawa Tetsudou wo Hashirou! | 221731 | [221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json](./221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json) |
 | Tetsuo Gaiden | 46565 | [46565-tetsuo-gaiden.json](./46565-tetsuo-gaiden.json) |
 | Tex Murphy: Mean Streets + Martian Memorandum | 83575 | [83575-tex-murphy-mean-streets-martian-memorandum.json](./83575-tex-murphy-mean-streets-martian-memorandum.json) |
+| Texas Butcher | 125257 | [125257-texas-butcher.json](./125257-texas-butcher.json) |
 | Texas Chainsaw Dodge | 307613 | [307613-texas-chainsaw-dodge.json](./307613-texas-chainsaw-dodge.json) |
 | Texas Hold 'Em Poker | 131511 | [131511-texas-hold-em-poker.json](./131511-texas-hold-em-poker.json) |
 | Texas Hold 'em Tournament | 21293 | [21293-texas-hold-em-tournament.json](./21293-texas-hold-em-tournament.json) |
@@ -1985,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ball of the Rings | 176480 | [176480-the-ball-of-the-rings.json](./176480-the-ball-of-the-rings.json) |
 | The Ball Pit | 336382 | [336382-the-ball-pit.json](./336382-the-ball-pit.json) |
 | The Ballad of Bellum | 336539 | [336539-the-ballad-of-bellum.json](./336539-the-ballad-of-bellum.json) |
+| The Ballad of the Metamorphosis of M. Dolly | 125214 | [125214-the-ballad-of-the-metamorphosis-of-m-dolly.json](./125214-the-ballad-of-the-metamorphosis-of-m-dolly.json) |
 | The Ballad Singer | 78156 | [78156-the-ballad-singer.json](./78156-the-ballad-singer.json) |
 | The Balldragon | 335265 | [335265-the-balldragon.json](./335265-the-balldragon.json) |
 | The Balloonist: Beyond the Clouds | 75831 | [75831-the-balloonist-beyond-the-clouds.json](./75831-the-balloonist-beyond-the-clouds.json) |
@@ -4472,6 +4477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Guard | 295385 | [295385-the-night-guard.json](./295385-the-night-guard.json) |
 | The Night Jackals Vol. 1 | 289975 | [289975-the-night-jackals-vol-1.json](./289975-the-night-jackals-vol-1.json) |
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
+| The Night Ripper | 125259 | [125259-the-night-ripper.json](./125259-the-night-ripper.json) |
 | The Nightfall Incident | 182525 | [182525-the-nightfall-incident.json](./182525-the-nightfall-incident.json) |
 | The Nightmare | 24860 | [24860-the-nightmare.json](./24860-the-nightmare.json) |
 | The Nightmare Accord | 289976 | [289976-the-nightmare-accord.json](./289976-the-nightmare-accord.json) |
@@ -4881,6 +4887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ritual | 184031 | [184031-the-ritual.json](./184031-the-ritual.json) |
 | The Ritual on Weylyn Island | 26531 | [26531-the-ritual-on-weylyn-island.json](./26531-the-ritual-on-weylyn-island.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
+| The Riverside Incident | 125266 | [125266-the-riverside-incident.json](./125266-the-riverside-incident.json) |
 | The Road 2 Success | 97386 | [97386-the-road-2-success.json](./97386-the-road-2-success.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
 | The Road Less Taken | 219122 | [219122-the-road-less-taken.json](./219122-the-road-less-taken.json) |
@@ -5023,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers 7: Paths to a Kingdom - The Two Kings | 225911 | [225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json](./225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json) |
 | The Settlers 7: Paths to a Kingdom - Uncharted Land Map Pack | 167245 | [167245-the-settlers-7-paths-to-a-kingdom-uncharted-land-map-pack.json](./167245-the-settlers-7-paths-to-a-kingdom-uncharted-land-map-pack.json) |
 | The Settlers II: Gold Edition | 2617 | [2617-the-settlers-ii-gold-edition.json](./2617-the-settlers-ii-gold-edition.json) |
+| The Settlers III: Mission CD | 125210 | [125210-the-settlers-iii-mission-cd.json](./125210-the-settlers-iii-mission-cd.json) |
 | The Settlers III: Quest of the Amazons | 11334 | [11334-the-settlers-iii-quest-of-the-amazons.json](./11334-the-settlers-iii-quest-of-the-amazons.json) |
 | The Settlers IV: The Trojans and the Elixir of Power | 21858 | [21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json](./21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json) |
 | The Settlers: Explorer Edition | 136377 | [136377-the-settlers-explorer-edition.json](./136377-the-settlers-explorer-edition.json) |
@@ -9945,6 +9953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TSA Frisky VR | 89964 | [89964-tsa-frisky-vr.json](./89964-tsa-frisky-vr.json) |
 | Tsan-shadow Ninja | 351724 | [351724-tsan-shadow-ninja.json](./351724-tsan-shadow-ninja.json) |
 | Tschess | 137470 | [137470-tschess.json](./137470-tschess.json) |
+| TSI Cycles | 125274 | [125274-tsi-cycles.json](./125274-tsi-cycles.json) |
 | Tsjost's Heroic Soup Bazooka | 222902 | [222902-tsjosts-heroic-soup-bazooka.json](./222902-tsjosts-heroic-soup-bazooka.json) |
 | Tsubaki Hata | 226203 | [226203-tsubaki-hata.json](./226203-tsubaki-hata.json) |
 | Tsubasa Heaven | 406831 | [406831-tsubasa-heaven.json](./406831-tsubasa-heaven.json) |
@@ -10282,6 +10291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted! | 95382 | [95382-twisted.json](./95382-twisted.json) |
 | Twister | 91394 | [91394-twister.json](./91394-twister.json) |
 | Twister Mania | 20216 | [20216-twister-mania.json](./20216-twister-mania.json) |
+| Twister Road | 125251 | [125251-twister-road.json](./125251-twister-road.json) |
 | TwistoMaze | 132186 | [132186-twistomaze.json](./132186-twistomaze.json) |
 | TwisTouch | 262344 | [262344-twistouch.json](./262344-twistouch.json) |
 | Twists of My Life | 122798 | [122798-twists-of-my-life.json](./122798-twists-of-my-life.json) |
