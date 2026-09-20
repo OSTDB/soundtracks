@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Angel | 70414 | [70414-galaxy-angel.json](./70414-galaxy-angel.json) |
 | Galaxy Angel: Eternal Lovers | 79291 | [79291-galaxy-angel-eternal-lovers.json](./79291-galaxy-angel-eternal-lovers.json) |
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
+| Galaxy Blaster Code Red | 85168 | [85168-galaxy-blaster-code-red.json](./85168-galaxy-blaster-code-red.json) |
 | Galaxy Boom - Defend Planet | 108487 | [108487-galaxy-boom-defend-planet.json](./108487-galaxy-boom-defend-planet.json) |
 | Galaxy Bowling | 101540 | [101540-galaxy-bowling.json](./101540-galaxy-bowling.json) |
 | Galaxy Bricks | 274045 | [274045-galaxy-bricks.json](./274045-galaxy-bricks.json) |
@@ -785,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geminiii | 250457 | [250457-geminiii.json](./250457-geminiii.json) |
 | Geminose: Animal Popstars | 144940 | [144940-geminose-animal-popstars.json](./144940-geminose-animal-popstars.json) |
 | Gemmy's Adventure | 333112 | [333112-gemmys-adventure.json](./333112-gemmys-adventure.json) |
+| Gemology | 85167 | [85167-gemology.json](./85167-gemology.json) |
 | Gemporium | 330563 | [330563-gemporium.json](./330563-gemporium.json) |
 | Gems of Destiny: Magic Rescue | 416696 | [416696-gems-of-destiny-magic-rescue.json](./416696-gems-of-destiny-magic-rescue.json) |
 | Gems of Fate: the Charmed King | 133426 | [133426-gems-of-fate-the-charmed-king.json](./133426-gems-of-fate-the-charmed-king.json) |
@@ -1595,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Cabbies!GB | 114189 | [114189-go-cabbies-gb.json](./114189-go-cabbies-gb.json) |
 | Go Carts | 297473 | [297473-go-carts.json](./297473-go-carts.json) |
 | Go Deep Or Go Home | 285484 | [285484-go-deep-or-go-home.json](./285484-go-deep-or-go-home.json) |
+| Go Fetch! | 85166 | [85166-go-fetch.json](./85166-go-fetch.json) |
 | Go Fight Fantastic! | 127364 | [127364-go-fight-fantastic.json](./127364-go-fight-fantastic.json) |
 | Go Fish! | 40717 | [40717-go-fish.json](./40717-go-fish.json) |
 | Go Go Muffin | 212451 | [212451-go-go-muffin.json](./212451-go-go-muffin.json) |
@@ -2981,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GTR 2: FIA GT Racing Game | 737 | [737-gtr-2-fia-gt-racing-game.json](./737-gtr-2-fia-gt-racing-game.json) |
 | GTTOD: Lost in Reflection | 207528 | [207528-gttod-lost-in-reflection.json](./207528-gttod-lost-in-reflection.json) |
 | Gu-gu Ganmo: Run-run Odekake Date Da ze ii | 349414 | [349414-gu-gu-ganmo-run-run-odekake-date-da-ze-ii.json](./349414-gu-gu-ganmo-run-run-odekake-date-da-ze-ii.json) |
+| Guac' a Mole | 85170 | [85170-guac-a-mole.json](./85170-guac-a-mole.json) |
 | Guacamelee! 2: Three Enemigos Character Pack | 155046 | [155046-guacamelee-2-three-enemigos-character-pack.json](./155046-guacamelee-2-three-enemigos-character-pack.json) |
 | Guacamelee! One-Two Punch Collection | 115023 | [115023-guacamelee-one-two-punch-collection.json](./115023-guacamelee-one-two-punch-collection.json) |
 | Guacamojo | 201693 | [201693-guacamojo.json](./201693-guacamojo.json) |
@@ -3162,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
 | Gumbowl's Adventure | 292551 | [292551-gumbowls-adventure.json](./292551-gumbowls-adventure.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
+| Gummy Bears Mini Golf | 85169 | [85169-gummy-bears-mini-golf.json](./85169-gummy-bears-mini-golf.json) |
 | Gummy Bears: Magical Medallion | 50628 | [50628-gummy-bears-magical-medallion.json](./50628-gummy-bears-magical-medallion.json) |
 | Gummy Drop! | 86822 | [86822-gummy-drop.json](./86822-gummy-drop.json) |
 | Gummy Nightmares | 305743 | [305743-gummy-nightmares.json](./305743-gummy-nightmares.json) |
