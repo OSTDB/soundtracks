@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faded Solitude | 364553 | [364553-faded-solitude.json](./364553-faded-solitude.json) |
 | Faded Stories: Greenberg | 190176 | [190176-faded-stories-greenberg.json](./190176-faded-stories-greenberg.json) |
 | Fadedlands: The Reckless Squad | 348316 | [348316-fadedlands-the-reckless-squad.json](./348316-fadedlands-the-reckless-squad.json) |
+| Faderhead's Fist Full of Fuck You 2.0 | 97688 | [97688-faderheads-fist-full-of-fuck-you-2-0.json](./97688-faderheads-fist-full-of-fuck-you-2-0.json) |
 | Fadin's Vacation in the Parallel Kingdom | 299740 | [299740-fadins-vacation-in-the-parallel-kingdom.json](./299740-fadins-vacation-in-the-parallel-kingdom.json) |
 | Fading Afternoon | 166734 | [166734-fading-afternoon.json](./166734-fading-afternoon.json) |
 | Fading Earth | 260704 | [260704-fading-earth.json](./260704-fading-earth.json) |
@@ -4347,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Tales | 277434 | [277434-futanari-tales.json](./277434-futanari-tales.json) |
 | Futanari Vampire Girlfriend | 163978 | [163978-futanari-vampire-girlfriend.json](./163978-futanari-vampire-girlfriend.json) |
 | Futanari's Sex World! | 382314 | [382314-futanaris-sex-world.json](./382314-futanaris-sex-world.json) |
+| Futari ha Haipuri | 97718 | [97718-futari-ha-haipuri.json](./97718-futari-ha-haipuri.json) |
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futari ha Pretty Cure Splash Star: Panpaka Game de Zekkou-chou! | 168329 | [168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json](./168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
