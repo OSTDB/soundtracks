@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 96 | 299311 | [299311-nhl-96.json](./299311-nhl-96.json) |
 | NHL 97 | 817 | [817-nhl-97.json](./817-nhl-97.json) |
 | NHL All-Star Hockey '95 | 19559 | [19559-nhl-all-star-hockey-95.json](./19559-nhl-all-star-hockey-95.json) |
+| NHL Eastside Hockey Manager | 74037 | [74037-nhl-eastside-hockey-manager.json](./74037-nhl-eastside-hockey-manager.json) |
 | NHL Hitz 2003 | 4047 | [4047-nhl-hitz-2003.json](./4047-nhl-hitz-2003.json) |
 | NHL Hockey | 210102 | [210102-nhl-hockey.json](./210102-nhl-hockey.json) |
 | NHL Hockey 2000 | 299312 | [299312-nhl-hockey-2000.json](./299312-nhl-hockey-2000.json) |
