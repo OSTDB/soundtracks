@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weirdshine | 395557 | [395557-weirdshine.json](./395557-weirdshine.json) |
 | WeJam | 119678 | [119678-wejam.json](./119678-wejam.json) |
 | Wekele Wordle | 329557 | [329557-wekele-wordle.json](./329557-wekele-wordle.json) |
+| Welcome | 92277 | [92277-welcome.json](./92277-welcome.json) |
 | Welcome Back | 153992 | [153992-welcome-back.json](./153992-welcome-back.json) |
 | Welcome Demon | 397666 | [397666-welcome-demon.json](./397666-welcome-demon.json) |
 | Welcome Googoo | 330889 | [330889-welcome-googoo.json](./330889-welcome-googoo.json) |
