@@ -6172,6 +6172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuties Monster Girl | 297081 | [297081-cuties-monster-girl.json](./297081-cuties-monster-girl.json) |
 | CutNRun | 93579 | [93579-cutnrun.json](./93579-cutnrun.json) |
 | Cutout World | 339356 | [339356-cutout-world.json](./339356-cutout-world.json) |
+| Cutthroat | 80929 | [80929-cutthroat.json](./80929-cutthroat.json) |
 | Cutthroat Island GG2SMS | 369594 | [369594-cutthroat-island-gg2sms.json](./369594-cutthroat-island-gg2sms.json) |
 | Cutthroat Pinochle | 90384 | [90384-cutthroat-pinochle.json](./90384-cutthroat-pinochle.json) |
 | Cutthroats | 12260 | [12260-cutthroats.json](./12260-cutthroats.json) |
@@ -6254,6 +6255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber-Ante | 158044 | [158044-cyber-ante.json](./158044-cyber-ante.json) |
 | Cyber-ART | 377689 | [377689-cyber-art.json](./377689-cyber-art.json) |
 | Cyber-Assassin | 269272 | [269272-cyber-assassin.json](./269272-cyber-assassin.json) |
+| Cyber-Cop | 80869 | [80869-cyber-cop.json](./80869-cyber-cop.json) |
 | CyberArena | 338211 | [338211-cyberarena.json](./338211-cyberarena.json) |
 | Cyberball | 12022 | [12022-cyberball.json](./12022-cyberball.json) |
 | Cyberball 2072 | 23070 | [23070-cyberball-2072.json](./23070-cyberball-2072.json) |
