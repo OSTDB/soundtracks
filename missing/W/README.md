@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warden of the Isles | 129264 | [129264-warden-of-the-isles.json](./129264-warden-of-the-isles.json) |
 | Warden's Will | 190730 | [190730-wardens-will.json](./190730-wardens-will.json) |
 | Wardens of the Amber Cage | 103477 | [103477-wardens-of-the-amber-cage.json](./103477-wardens-of-the-amber-cage.json) |
+| WarDevil: Unleash the Beast Within | 72988 | [72988-wardevil-unleash-the-beast-within.json](./72988-wardevil-unleash-the-beast-within.json) |
 | Warding Witches | 335253 | [335253-warding-witches.json](./335253-warding-witches.json) |
 | Wardogs | 388285 | [388285-wardogs.json](./388285-wardogs.json) |
 | Wardogz | 215668 | [215668-wardogz.json](./215668-wardogz.json) |
