@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erk: Adventures in Stone Age Real Estate | 322347 | [322347-erk-adventures-in-stone-age-real-estate.json](./322347-erk-adventures-in-stone-age-real-estate.json) |
 | Erkattäññe | 313861 | [313861-erkattanne.json](./313861-erkattanne.json) |
 | Erl | 362859 | [362859-erl.json](./362859-erl.json) |
+| Ernie's Adventures in Space | 122861 | [122861-ernies-adventures-in-space.json](./122861-ernies-adventures-in-space.json) |
 | Ero Condo: Remastered | 343882 | [343882-ero-condo-remastered.json](./343882-ero-condo-remastered.json) |
 | Ero Date | 107822 | [107822-ero-date.json](./107822-ero-date.json) |
 | Ero Zemi: Ecchi ni Yaru-ki ni ABC | 194579 | [194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json](./194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json) |
