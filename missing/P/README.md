@@ -2922,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playing House | 335262 | [335262-playing-house.json](./335262-playing-house.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
 | Playmobil: Novelmore | 207844 | [207844-playmobil-novelmore.json](./207844-playmobil-novelmore.json) |
+| Playmobil: The Explorers | 103901 | [103901-playmobil-the-explorers.json](./103901-playmobil-the-explorers.json) |
 | Playne | 102937 | [102937-playne.json](./102937-playne.json) |
 | Playroom Tracks: Hill Climb Adventure | 385083 | [385083-playroom-tracks-hill-climb-adventure.json](./385083-playroom-tracks-hill-climb-adventure.json) |
 | PlayStation All-Stars Battle Royale: Big Daddy Plushy | 315076 | [315076-playstation-all-stars-battle-royale-big-daddy-plushy.json](./315076-playstation-all-stars-battle-royale-big-daddy-plushy.json) |
@@ -5315,6 +5316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Book: Summer 2020 | 238036 | [238036-puzzle-book-summer-2020.json](./238036-puzzle-book-summer-2020.json) |
 | Puzzle Bowling | 158143 | [158143-puzzle-bowling.json](./158143-puzzle-bowling.json) |
 | Puzzle Box | 166072 | [166072-puzzle-box.json](./166072-puzzle-box.json) |
+| Puzzle Box - Classic Puzzles All in One | 103908 | [103908-puzzle-box-classic-puzzles-all-in-one.json](./103908-puzzle-box-classic-puzzles-all-in-one.json) |
 | Puzzle Box Maker | 84795 | [84795-puzzle-box-maker.json](./84795-puzzle-box-maker.json) |
 | Puzzle Box Palace | 144124 | [144124-puzzle-box-palace.json](./144124-puzzle-box-palace.json) |
 | Puzzle Box-Puzzles All In One | 104608 | [104608-puzzle-box-puzzles-all-in-one.json](./104608-puzzle-box-puzzles-all-in-one.json) |
