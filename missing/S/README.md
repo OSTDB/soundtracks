@@ -1543,6 +1543,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages Out Run | 45392 | [45392-sega-ages-out-run.json](./45392-sega-ages-out-run.json) |
 | Sega Ages Thunder Force AC | 110060 | [110060-sega-ages-thunder-force-ac.json](./110060-sega-ages-thunder-force-ac.json) |
 | Sega Ages Virtua Racing | 110062 | [110062-sega-ages-virtua-racing.json](./110062-sega-ages-virtua-racing.json) |
+| Sega Ages: Ichidant-R | 110804 | [110804-sega-ages-ichidant-r.json](./110804-sega-ages-ichidant-r.json) |
+| Sega Ages: Shinobi | 110805 | [110805-sega-ages-shinobi.json](./110805-sega-ages-shinobi.json) |
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
 | Sega Classics Arcade Collection 4-in-1 | 5432 | [5432-sega-classics-arcade-collection-4-in-1.json](./5432-sega-classics-arcade-collection-4-in-1.json) |
 | Sega Flipper | 308409 | [308409-sega-flipper.json](./308409-sega-flipper.json) |
@@ -2165,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows in Silence | 285574 | [285574-shadows-in-silence.json](./285574-shadows-in-silence.json) |
 | Shadows in the Dark | 217335 | [217335-shadows-in-the-dark.json](./217335-shadows-in-the-dark.json) |
 | Shadows in the Silence | 374081 | [374081-shadows-in-the-silence.json](./374081-shadows-in-the-silence.json) |
+| Shadows Light | 110783 | [110783-shadows-light.json](./110783-shadows-light.json) |
 | Shadows of a Sunless World | 183063 | [183063-shadows-of-a-sunless-world.json](./183063-shadows-of-a-sunless-world.json) |
 | Shadows of Adam | 27445 | [27445-shadows-of-adam.json](./27445-shadows-of-adam.json) |
 | Shadows of Chronos | 260784 | [260784-shadows-of-chronos.json](./260784-shadows-of-chronos.json) |
@@ -2576,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Hayarigami: Secret Club | 100817 | [100817-shin-hayarigami-secret-club.json](./100817-shin-hayarigami-secret-club.json) |
 | Shin Hisui no Shizuku: Hiiro no Kakera 2 DS | 124278 | [124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json](./124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json) |
 | Shin Kaitei Gunkan: Koutetsu no Kodoku | 400898 | [400898-shin-kaitei-gunkan-koutetsu-no-kodoku.json](./400898-shin-kaitei-gunkan-koutetsu-no-kodoku.json) |
+| Shin Kaku Gi Kou and the 11 Destroyers | 110790 | [110790-shin-kaku-gi-kou-and-the-11-destroyers.json](./110790-shin-kaku-gi-kou-and-the-11-destroyers.json) |
 | Shin Ken to Mahou to Gakuen Mono. Toki no Gakuen | 63895 | [63895-shin-ken-to-mahou-to-gakuen-mono-toki-no-gakuen.json](./63895-shin-ken-to-mahou-to-gakuen-mono-toki-no-gakuen.json) |
 | Shin Koihime Musou: Fighting Maidens of the Romance of the Three Kingdoms | 63253 | [63253-shin-koihime-musou-fighting-maidens-of-the-romance-of-the-three-kingdoms.json](./63253-shin-koihime-musou-fighting-maidens-of-the-romance-of-the-three-kingdoms.json) |
 | Shin Koihime Musou: Kakumei - Ryuuki no Taimou | 127338 | [127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json](./127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json) |
@@ -2781,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shodot | 244267 | [244267-shodot.json](./244267-shodot.json) |
 | Shoe Salesman Mania | 378280 | [378280-shoe-salesman-mania.json](./378280-shoe-salesman-mania.json) |
 | Shoebill | 151119 | [151119-shoebill.json](./151119-shoebill.json) |
+| Shoemaker | 110772 | [110772-shoemaker.json](./110772-shoemaker.json) |
 | Shogi Nyuumon | 126014 | [126014-shogi-nyuumon.json](./126014-shogi-nyuumon.json) |
 | Shogi Saikyou | 38299 | [38299-shogi-saikyou.json](./38299-shogi-saikyou.json) |
 | Shogi Shodan Icchokusen | 42032 | [42032-shogi-shodan-icchokusen.json](./42032-shogi-shodan-icchokusen.json) |
@@ -4027,6 +4032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaveblade | 121774 | [121774-slaveblade.json](./121774-slaveblade.json) |
 | Slavic Gods Rodnoverie | 298304 | [298304-slavic-gods-rodnoverie.json](./298304-slavic-gods-rodnoverie.json) |
 | Slavic Mythology Creatures | 297650 | [297650-slavic-mythology-creatures.json](./297650-slavic-mythology-creatures.json) |
+| Slavistan 2 | 110828 | [110828-slavistan-2.json](./110828-slavistan-2.json) |
 | Slavoj Zizek Makes A Twine Game | 139418 | [139418-slavoj-zizek-makes-a-twine-game.json](./139418-slavoj-zizek-makes-a-twine-game.json) |
 | Slay | 104693 | [104693-slay.json](./104693-slay.json) |
 | Slay All Bosses: Idle | 390114 | [390114-slay-all-bosses-idle.json](./390114-slay-all-bosses-idle.json) |
@@ -4210,6 +4216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
 | SlimeJumper: Ultimate Jump | 156639 | [156639-slimejumper-ultimate-jump.json](./156639-slimejumper-ultimate-jump.json) |
 | Slimer | 184489 | [184489-slimer.json](./184489-slimer.json) |
+| Slimes RPG | 110782 | [110782-slimes-rpg.json](./110782-slimes-rpg.json) |
 | SlimeTrials | 185607 | [185607-slimetrials.json](./185607-slimetrials.json) |
 | Slimeward | 373084 | [373084-slimeward.json](./373084-slimeward.json) |
 | Slimey Champions | 166770 | [166770-slimey-champions.json](./166770-slimey-champions.json) |
@@ -4598,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
 | Snake Roy | 210642 | [210642-snake-roy.json](./210642-snake-roy.json) |
 | Snake Vs Colours | 108446 | [108446-snake-vs-colours.json](./108446-snake-vs-colours.json) |
+| Snake vs Snake | 110801 | [110801-snake-vs-snake.json](./110801-snake-vs-snake.json) |
 | Snake-a-roni | 230937 | [230937-snake-a-roni.json](./230937-snake-a-roni.json) |
 | Snake-O-Tron | 288239 | [288239-snake-o-tron.json](./288239-snake-o-tron.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
@@ -7230,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squares of Hell | 304612 | [304612-squares-of-hell.json](./304612-squares-of-hell.json) |
 | Squares Proximity | 366332 | [366332-squares-proximity.json](./366332-squares-proximity.json) |
 | Squareverse | 390664 | [390664-squareverse.json](./390664-squareverse.json) |
+| SquareWorld Unpixeled | 110825 | [110825-squareworld-unpixeled.json](./110825-squareworld-unpixeled.json) |
 | Squarez: Escape The Squares | 262357 | [262357-squarez-escape-the-squares.json](./262357-squarez-escape-the-squares.json) |
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
 | Squaser 8 | 368569 | [368569-squaser-8.json](./368569-squaser-8.json) |
@@ -9046,6 +9055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subconsciousism | 396225 | [396225-subconsciousism.json](./396225-subconsciousism.json) |
 | Subcube | 126555 | [126555-subcube.json](./126555-subcube.json) |
 | Subdivided | 132770 | [132770-subdivided.json](./132770-subdivided.json) |
+| Subdivision Infinity DX | 110798 | [110798-subdivision-infinity-dx.json](./110798-subdivision-infinity-dx.json) |
 | Sube | 264149 | [264149-sube.json](./264149-sube.json) |
 | Suber Driver | 189079 | [189079-suber-driver.json](./189079-suber-driver.json) |
 | Subject 26 | 178497 | [178497-subject-26.json](./178497-subject-26.json) |
@@ -9484,6 +9494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Studio | 145012 | [145012-sunset-studio.json](./145012-sunset-studio.json) |
 | Sunset Town | 333093 | [333093-sunset-town.json](./333093-sunset-town.json) |
 | Sunset World Online | 188585 | [188585-sunset-world-online.json](./188585-sunset-world-online.json) |
+| Sunshine | 110784 | [110784-sunshine.json](./110784-sunshine.json) |
 | Sunshine Acres | 25002 | [25002-sunshine-acres.json](./25002-sunshine-acres.json) |
 | Sunshine Farm | 333005 | [333005-sunshine-farm.json](./333005-sunshine-farm.json) |
 | Sunshine Heavy Industries | 146834 | [146834-sunshine-heavy-industries.json](./146834-sunshine-heavy-industries.json) |
@@ -9687,6 +9698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fire Pro Wrestling X | 38287 | [38287-super-fire-pro-wrestling-x.json](./38287-super-fire-pro-wrestling-x.json) |
 | Super Fire Pro Wrestling: Queen's Special | 38282 | [38282-super-fire-pro-wrestling-queens-special.json](./38282-super-fire-pro-wrestling-queens-special.json) |
 | Super Flail | 105387 | [105387-super-flail.json](./105387-super-flail.json) |
+| Super Flipper | 110838 | [110838-super-flipper.json](./110838-super-flipper.json) |
 | Super Flipside | 47993 | [47993-super-flipside.json](./47993-super-flipside.json) |
 | Super Food Frenzy | 187543 | [187543-super-food-frenzy.json](./187543-super-food-frenzy.json) |
 | Super Foosball | 129719 | [129719-super-foosball.json](./129719-super-foosball.json) |
@@ -10560,6 +10572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperPro Snowboarding | 233525 | [233525-superpro-snowboarding.json](./233525-superpro-snowboarding.json) |
 | SuperQuest | 342636 | [342636-superquest.json](./342636-superquest.json) |
 | Supershot Golf Robot | 206714 | [206714-supershot-golf-robot.json](./206714-supershot-golf-robot.json) |
+| Supersolar | 110778 | [110778-supersolar.json](./110778-supersolar.json) |
 | Supersonic | 265741 | [265741-supersonic.json](./265741-supersonic.json) |
 | Supersonic Highway Defenders | 355559 | [355559-supersonic-highway-defenders.json](./355559-supersonic-highway-defenders.json) |
 | SuperSpec Rallycross | 291740 | [291740-superspec-rallycross.json](./291740-superspec-rallycross.json) |
@@ -11039,6 +11052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword and Fairy Inn | 78048 | [78048-sword-and-fairy-inn.json](./78048-sword-and-fairy-inn.json) |
 | Sword and Plow | 305346 | [305346-sword-and-plow.json](./305346-sword-and-plow.json) |
 | Sword and Spirit | 158175 | [158175-sword-and-spirit.json](./158175-sword-and-spirit.json) |
+| Sword Art Online Arcade: Deep Explorer | 110791 | [110791-sword-art-online-arcade-deep-explorer.json](./110791-sword-art-online-arcade-deep-explorer.json) |
 | Sword Art Online VR: Lovely Honey Days | 102088 | [102088-sword-art-online-vr-lovely-honey-days.json](./102088-sword-art-online-vr-lovely-honey-days.json) |
 | Sword Art Online: Alicization Lycoris - Deluxe Edition | 166157 | [166157-sword-art-online-alicization-lycoris-deluxe-edition.json](./166157-sword-art-online-alicization-lycoris-deluxe-edition.json) |
 | Sword Art Online: Alicization Lycoris - Myosotis | 139224 | [139224-sword-art-online-alicization-lycoris-myosotis.json](./139224-sword-art-online-alicization-lycoris-myosotis.json) |
