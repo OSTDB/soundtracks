@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
 | 3-D Man | 83270 | [83270-3-d-man.json](./83270-3-d-man.json) |
 | 3-D Tank Zone | 15579 | [15579-3-d-tank-zone.json](./15579-3-d-tank-zone.json) |
+| 3-D Tic-Tac-Toe | 80892 | [80892-3-d-tic-tac-toe.json](./80892-3-d-tic-tac-toe.json) |
 | 3-D Ultra Pinball: Thrillride | 49881 | [49881-3-d-ultra-pinball-thrillride.json](./49881-3-d-ultra-pinball-thrillride.json) |
 | 3-D Zapper | 268566 | [268566-3-d-zapper.json](./268566-3-d-zapper.json) |
 | 3-in-1 Animated Jigsaws Bundle | 399632 | [399632-3-in-1-animated-jigsaws-bundle.json](./399632-3-in-1-animated-jigsaws-bundle.json) |
@@ -620,6 +621,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 En Raya | 249251 | [249251-4-en-raya.json](./249251-4-en-raya.json) |
 | 4 Game in One | 268570 | [268570-4-game-in-one.json](./268570-4-game-in-one.json) |
 | 4 hours | 271481 | [271481-4-hours.json](./271481-4-hours.json) |
+| 4 in 1 | 80870 | [80870-4-in-1.json](./80870-4-in-1.json) |
+| 4 in 1 | 80871 | [80871-4-in-1.json](./80871-4-in-1.json) |
 | 4 in 1: Hudson | 293738 | [293738-4-in-1-hudson.json](./293738-4-in-1-hudson.json) |
 | 4 in 1: Nintendo | 293735 | [293735-4-in-1-nintendo.json](./293735-4-in-1-nintendo.json) |
 | 4 in a Row | 294841 | [294841-4-in-a-row.json](./294841-4-in-a-row.json) |
