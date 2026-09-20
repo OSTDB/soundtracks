@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Get Over It | 101379 | [101379-can-you-get-over-it.json](./101379-can-you-get-over-it.json) |
 | Can You Reach 60 Seconds | 339940 | [339940-can-you-reach-60-seconds.json](./339940-can-you-reach-60-seconds.json) |
 | Can You Save the World? | 182902 | [182902-can-you-save-the-world.json](./182902-can-you-save-the-world.json) |
+| Can You Survive?: Survival World | 95825 | [95825-can-you-survive-survival-world.json](./95825-can-you-survive-survival-world.json) |
 | Can't buy me love! | 363940 | [363940-cant-buy-me-love.json](./363940-cant-buy-me-love.json) |
 | Can't Sleep! | 333627 | [333627-cant-sleep.json](./333627-cant-sleep.json) |
 | Can't Stand The Heat | 295007 | [295007-cant-stand-the-heat.json](./295007-cant-stand-the-heat.json) |
@@ -893,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Cartoon Food Bash | 296099 | [296099-cartoon-cartoon-food-bash.json](./296099-cartoon-cartoon-food-bash.json) |
 | Cartoon Cartoon Summer Resort | 130744 | [130744-cartoon-cartoon-summer-resort.json](./130744-cartoon-cartoon-summer-resort.json) |
 | Cartoon Collection | 53777 | [53777-cartoon-collection.json](./53777-cartoon-collection.json) |
+| Cartoon Dungeon VIP | 95865 | [95865-cartoon-dungeon-vip.json](./95865-cartoon-dungeon-vip.json) |
 | Cartoon Network Collection: Limited Edition | 49362 | [49362-cartoon-network-collection-limited-edition.json](./49362-cartoon-network-collection-limited-edition.json) |
 | Cartoon Network Journeys VR | 124165 | [124165-cartoon-network-journeys-vr.json](./124165-cartoon-network-journeys-vr.json) |
 | Cartoon Network Racing | 2785 | [2785-cartoon-network-racing.json](./2785-cartoon-network-racing.json) |
@@ -3845,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coming home absolutely twisted with a load of swords | 178034 | [178034-coming-home-absolutely-twisted-with-a-load-of-swords.json](./178034-coming-home-absolutely-twisted-with-a-load-of-swords.json) |
 | Coming Out on Top | 36928 | [36928-coming-out-on-top.json](./36928-coming-out-on-top.json) |
 | Coming Out Simulator 2014 | 60030 | [60030-coming-out-simulator-2014.json](./60030-coming-out-simulator-2014.json) |
+| Comish Clicker - Idle Tycoon | 95822 | [95822-comish-clicker-idle-tycoon.json](./95822-comish-clicker-idle-tycoon.json) |
 | Comit the Astrodian | 30842 | [30842-comit-the-astrodian.json](./30842-comit-the-astrodian.json) |
 | Comix Zero | 324330 | [324330-comix-zero.json](./324330-comix-zero.json) |
 | Comixxx Duality | 196141 | [196141-comixxx-duality.json](./196141-comixxx-duality.json) |
@@ -5018,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Frog Racer | 20483 | [20483-crazy-frog-racer.json](./20483-crazy-frog-racer.json) |
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
 | Crazy Frog Racer | 248686 | [248686-crazy-frog-racer.json](./248686-crazy-frog-racer.json) |
+| Crazy Frog: Axel F Piano Tiles | 95870 | [95870-crazy-frog-axel-f-piano-tiles.json](./95870-crazy-frog-axel-f-piano-tiles.json) |
 | Crazy Fun Ball | 172151 | [172151-crazy-fun-ball.json](./172151-crazy-fun-ball.json) |
 | Crazy Guy | 238061 | [238061-crazy-guy.json](./238061-crazy-guy.json) |
 | Crazy Halloween | 310554 | [310554-crazy-halloween.json](./310554-crazy-halloween.json) |
