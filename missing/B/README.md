@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bangai-O | 3443 | [3443-bangai-o.json](./3443-bangai-o.json) |
 | BangBang PewPew | 193484 | [193484-bangbang-pewpew.json](./193484-bangbang-pewpew.json) |
 | BangBangShooting | 151141 | [151141-bangbangshooting.json](./151141-bangbangshooting.json) |
+| Bangers Unlimited 2 | 107006 | [107006-bangers-unlimited-2.json](./107006-bangers-unlimited-2.json) |
 | Bangungot | 217862 | [217862-bangungot.json](./217862-bangungot.json) |
 | Bangy: Adventures in Egypt | 179135 | [179135-bangy-adventures-in-egypt.json](./179135-bangy-adventures-in-egypt.json) |
 | BanHammer | 286506 | [286506-banhammer.json](./286506-banhammer.json) |
@@ -1483,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Nunner | 391051 | [391051-be-nunner.json](./391051-be-nunner.json) |
 | Be Quiet!: Act One | 170421 | [170421-be-quiet-act-one.json](./170421-be-quiet-act-one.json) |
 | Be Richest! | 140984 | [140984-be-richest.json](./140984-be-richest.json) |
+| Be the King: Enjoy Your Trip to the Top | 106997 | [106997-be-the-king-enjoy-your-trip-to-the-top.json](./106997-be-the-king-enjoy-your-trip-to-the-top.json) |
 | Be the One | 154387 | [154387-be-the-one.json](./154387-be-the-one.json) |
 | Be the Ruler: Britannia | 112987 | [112987-be-the-ruler-britannia.json](./112987-be-the-ruler-britannia.json) |
 | BE Witches | 157163 | [157163-be-witches.json](./157163-be-witches.json) |
@@ -2153,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Kingdom 2 | 294737 | [294737-beyond-the-kingdom-2.json](./294737-beyond-the-kingdom-2.json) |
 | Beyond the Kingdom 2: Collector's Edition | 341042 | [341042-beyond-the-kingdom-2-collectors-edition.json](./341042-beyond-the-kingdom-2-collectors-edition.json) |
 | Beyond the Kingdom: Collector's Edition | 341041 | [341041-beyond-the-kingdom-collectors-edition.json](./341041-beyond-the-kingdom-collectors-edition.json) |
+| Beyond the Legend: Mysteries of Olympus | 106968 | [106968-beyond-the-legend-mysteries-of-olympus.json](./106968-beyond-the-legend-mysteries-of-olympus.json) |
 | Beyond the Phone Screen | 169886 | [169886-beyond-the-phone-screen.json](./169886-beyond-the-phone-screen.json) |
 | Beyond the Rust | 362895 | [362895-beyond-the-rust.json](./362895-beyond-the-rust.json) |
 | Beyond the Sideline Football | 62223 | [62223-beyond-the-sideline-football.json](./62223-beyond-the-sideline-football.json) |
@@ -2261,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
 | Big Helmet Heroes | 303205 | [303205-big-helmet-heroes.json](./303205-big-helmet-heroes.json) |
 | Big Hunt | 329021 | [329021-big-hunt.json](./329021-big-hunt.json) |
+| Big Hunt: Paint Town Black Red | 107009 | [107009-big-hunt-paint-town-black-red.json](./107009-big-hunt-paint-town-black-red.json) |
 | Big Ice Tower Tiny Square | 212887 | [212887-big-ice-tower-tiny-square.json](./212887-big-ice-tower-tiny-square.json) |
 | Big Ichigeki! Pachislot Daikouryaku: Universal Museum | 137596 | [137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json](./137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json) |
 | Big Kahuna Reef 2: Chain Reaction | 205122 | [205122-big-kahuna-reef-2-chain-reaction.json](./205122-big-kahuna-reef-2-chain-reaction.json) |
@@ -5214,6 +5218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BumFight! | 69221 | [69221-bumfight.json](./69221-bumfight.json) |
 | Bump and Run Racing | 265396 | [265396-bump-and-run-racing.json](./265396-bump-and-run-racing.json) |
 | Bump Jump | 210670 | [210670-bump-jump.json](./210670-bump-jump.json) |
+| Bump.io: Arena of Bumper | 106960 | [106960-bump-io-arena-of-bumper.json](./106960-bump-io-arena-of-bumper.json) |
 | Bumper | 31845 | [31845-bumper.json](./31845-bumper.json) |
 | Bumper 7 | 319574 | [319574-bumper-7.json](./319574-bumper-7.json) |
 | Bumper Brawlers | 373078 | [373078-bumper-brawlers.json](./373078-bumper-brawlers.json) |
