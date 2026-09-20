@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Mining | 195163 | [195163-happy-mining.json](./195163-happy-mining.json) |
 | Happy Monster | 295366 | [295366-happy-monster.json](./295366-happy-monster.json) |
 | Happy Mouse | 241373 | [241373-happy-mouse.json](./241373-happy-mouse.json) |
+| Happy Music | 91091 | [91091-happy-music.json](./91091-happy-music.json) |
 | Happy New Year, Zeliria!: Dragon! | 291055 | [291055-happy-new-year-zeliria-dragon.json](./291055-happy-new-year-zeliria-dragon.json) |
 | Happy Night | 280767 | [280767-happy-night.json](./280767-happy-night.json) |
 | Happy Numbers | 149437 | [149437-happy-numbers.json](./149437-happy-numbers.json) |
@@ -3836,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustler | 92282 | [92282-hustler.json](./92282-hustler.json) |
 | Huts | 129575 | [129575-huts.json](./129575-huts.json) |
 | Hv Rebellion | 184568 | [184568-hv-rebellion.json](./184568-hv-rebellion.json) |
+| HVR | 91099 | [91099-hvr.json](./91099-hvr.json) |
 | HVRGun | 29707 | [29707-hvrgun.json](./29707-hvrgun.json) |
 | Hwajilguji | 219147 | [219147-hwajilguji.json](./219147-hwajilguji.json) |
 | Hyacinth | 225747 | [225747-hyacinth.json](./225747-hyacinth.json) |
