@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afo | 78330 | [78330-afo.json](./78330-afo.json) |
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
 | Africa Empire 2027 | 219680 | [219680-africa-empire-2027.json](./219680-africa-empire-2027.json) |
+| African Safari | 74039 | [74039-african-safari.json](./74039-african-safari.json) |
 | AfroPenguin & The Forbidden Ramen | 244866 | [244866-afropenguin-and-the-forbidden-ramen.json](./244866-afropenguin-and-the-forbidden-ramen.json) |
 | After Burner | 365088 | [365088-after-burner.json](./365088-after-burner.json) |
 | After Burner | 365100 | [365100-after-burner.json](./365100-after-burner.json) |
@@ -960,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aha Link Color: Cross | 101967 | [101967-aha-link-color-cross.json](./101967-aha-link-color-cross.json) |
 | Ahegal Seasons | 203381 | [203381-ahegal-seasons.json](./203381-ahegal-seasons.json) |
 | AHH!!! MazeZing | 158046 | [158046-ahh-mazezing.json](./158046-ahh-mazezing.json) |
+| Ahlgrens Bilspelet | 74070 | [74070-ahlgrens-bilspelet.json](./74070-ahlgrens-bilspelet.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
 | AI Battle Royale Generator | 148364 | [148364-ai-battle-royale-generator.json](./148364-ai-battle-royale-generator.json) |
 | AI Hunter | 151027 | [151027-ai-hunter.json](./151027-ai-hunter.json) |
@@ -1090,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Trix | 18048 | [18048-air-trix.json](./18048-air-trix.json) |
 | Air Twister | 203458 | [203458-air-twister.json](./203458-air-twister.json) |
 | Air Warrior | 14232 | [14232-air-warrior.json](./14232-air-warrior.json) |
+| Air Warrior III | 74086 | [74086-air-warrior-iii.json](./74086-air-warrior-iii.json) |
 | Air Wars | 336561 | [336561-air-wars.json](./336561-air-wars.json) |
 | Aira VR | 113673 | [113673-aira-vr.json](./113673-aira-vr.json) |
 | AiRace Speed | 8629 | [8629-airace-speed.json](./8629-airace-speed.json) |
@@ -1465,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Trapped Beyond Wonderland | 165057 | [165057-alice-trapped-beyond-wonderland.json](./165057-alice-trapped-beyond-wonderland.json) |
 | Alice Trapped in Wonderland | 90668 | [90668-alice-trapped-in-wonderland.json](./90668-alice-trapped-in-wonderland.json) |
 | Alice: Adventures in Wonderland | 66129 | [66129-alice-adventures-in-wonderland.json](./66129-alice-adventures-in-wonderland.json) |
+| Alice: An Interactive Museum | 74064 | [74064-alice-an-interactive-museum.json](./74064-alice-an-interactive-museum.json) |
 | Alice: Asylum | 82393 | [82393-alice-asylum.json](./82393-alice-asylum.json) |
 | Alice! | 186324 | [186324-alice.json](./186324-alice.json) |
 | Alice's Adventures | 96939 | [96939-alices-adventures.json](./96939-alices-adventures.json) |
@@ -2262,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
 | Anachroma | 211404 | [211404-anachroma.json](./211404-anachroma.json) |
 | Anachron | 377084 | [377084-anachron.json](./377084-anachron.json) |
+| Anacreon: Reconstruction 4021 | 74083 | [74083-anacreon-reconstruction-4021.json](./74083-anacreon-reconstruction-4021.json) |
 | Anagrammatic | 323710 | [323710-anagrammatic.json](./323710-anagrammatic.json) |
 | Anagramme Duel | 96037 | [96037-anagramme-duel.json](./96037-anagramme-duel.json) |
 | Anagrams | 169360 | [169360-anagrams.json](./169360-anagrams.json) |
@@ -3653,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area 51/Maximum Force Duo | 39597 | [39597-area-51-maximum-force-duo.json](./39597-area-51-maximum-force-duo.json) |
 | Area Radar Controller | 15600 | [15600-area-radar-controller.json](./15600-area-radar-controller.json) |
 | Area-X | 35734 | [35734-area-x.json](./35734-area-x.json) |
+| aReaker Water | 74068 | [74068-areaker-water.json](./74068-areaker-water.json) |
 | Areena 4 | 317423 | [317423-areena-4.json](./317423-areena-4.json) |
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
 | Arena | 266878 | [266878-arena.json](./266878-arena.json) |
@@ -4853,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Austin Powers Pinball | 222896 | [222896-austin-powers-pinball.json](./222896-austin-powers-pinball.json) |
 | Austin Powers: Oh, Behave! | 49890 | [49890-austin-powers-oh-behave.json](./49890-austin-powers-oh-behave.json) |
 | Austin Powers: Why Make Millions...? | 295028 | [295028-austin-powers-why-make-millions.json](./295028-austin-powers-why-make-millions.json) |
+| Australian Cricket Captain | 74080 | [74080-australian-cricket-captain.json](./74080-australian-cricket-captain.json) |
 | Australiove | 181795 | [181795-australiove.json](./181795-australiove.json) |
 | Australo Piticus Mechanicus | 14277 | [14277-australo-piticus-mechanicus.json](./14277-australo-piticus-mechanicus.json) |
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
