@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xena: Warrior Princess - Death in Chains | 205822 | [205822-xena-warrior-princess-death-in-chains.json](./205822-xena-warrior-princess-death-in-chains.json) |
 | Xena: Warrior Princess - Girls Just Wanna Have Fun | 205823 | [205823-xena-warrior-princess-girls-just-wanna-have-fun.json](./205823-xena-warrior-princess-girls-just-wanna-have-fun.json) |
 | Xenia is Online | 403680 | [403680-xenia-is-online.json](./403680-xenia-is-online.json) |
+| Xenic | 74059 | [74059-xenic.json](./74059-xenic.json) |
 | Xenno the Rogue | 183075 | [183075-xenno-the-rogue.json](./183075-xenno-the-rogue.json) |
 | Xeno Shooter | 146884 | [146884-xeno-shooter.json](./146884-xeno-shooter.json) |
 | Xeno Strikers Hyper Squadron | 374139 | [374139-xeno-strikers-hyper-squadron.json](./374139-xeno-strikers-hyper-squadron.json) |
