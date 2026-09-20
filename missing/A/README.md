@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
 | A Knight's Life | 197750 | [197750-a-knights-life.json](./197750-a-knights-life.json) |
+| A Knight's Move | 89689 | [89689-a-knights-move.json](./89689-a-knights-move.json) |
 | A Knight's Pursuit | 311662 | [311662-a-knights-pursuit.json](./311662-a-knights-pursuit.json) |
 | A Knight's Quest | 109984 | [109984-a-knights-quest.json](./109984-a-knights-quest.json) |
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
@@ -1532,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien War Girl | 111072 | [111072-alien-war-girl.json](./111072-alien-war-girl.json) |
 | Alien Weapon Test Grounds | 310209 | [310209-alien-weapon-test-grounds.json](./310209-alien-weapon-test-grounds.json) |
 | Alien Worlds | 93075 | [93075-alien-worlds.json](./93075-alien-worlds.json) |
+| Alien Worms Invasion | 89657 | [89657-alien-worms-invasion.json](./89657-alien-worms-invasion.json) |
 | Alien X | 171579 | [171579-alien-x.json](./171579-alien-x.json) |
 | Alien Xenoblaster | 209133 | [209133-alien-xenoblaster.json](./209133-alien-xenoblaster.json) |
 | Alien: Isolation - Corporate Lockdown | 15459 | [15459-alien-isolation-corporate-lockdown.json](./15459-alien-isolation-corporate-lockdown.json) |
@@ -1828,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabet Solitaire Z: Japanese | 89854 | [89854-alphabet-solitaire-z-japanese.json](./89854-alphabet-solitaire-z-japanese.json) |
 | Alphabet Solitaire Z: Russian | 101576 | [101576-alphabet-solitaire-z-russian.json](./101576-alphabet-solitaire-z-russian.json) |
 | Alphabet: Play with the ABCs | 206109 | [206109-alphabet-play-with-the-abcs.json](./206109-alphabet-play-with-the-abcs.json) |
+| Alphabets Machine | 89695 | [89695-alphabets-machine.json](./89695-alphabets-machine.json) |
 | Alphabetty Saga | 116974 | [116974-alphabetty-saga.json](./116974-alphabetty-saga.json) |
 | AlphaBounce | 66781 | [66781-alphabounce.json](./66781-alphabounce.json) |
 | Alphadia 2 | 38964 | [38964-alphadia-2.json](./38964-alphadia-2.json) |
@@ -2919,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anvil Survivors | 396403 | [396403-anvil-survivors.json](./396403-anvil-survivors.json) |
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
 | Any Other Color | 408133 | [408133-any-other-color.json](./408133-any-other-color.json) |
+| Anykey | 89671 | [89671-anykey.json](./89671-anykey.json) |
 | Anykey Simulator | 31787 | [31787-anykey-simulator.json](./31787-anykey-simulator.json) |
 | Anyone's Diary | 118160 | [118160-anyones-diary.json](./118160-anyones-diary.json) |
 | Anything Simulator | 391181 | [391181-anything-simulator.json](./391181-anything-simulator.json) |
