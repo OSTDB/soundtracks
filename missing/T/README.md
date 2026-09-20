@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TapRPG: The Second One | 107888 | [107888-taprpg-the-second-one.json](./107888-taprpg-the-second-one.json) |
 | Taps: Beautifully Simple | 175267 | [175267-taps-beautifully-simple.json](./175267-taps-beautifully-simple.json) |
 | Tapsonic Bold | 110700 | [110700-tapsonic-bold.json](./110700-tapsonic-bold.json) |
+| Tapsonic Top | 108873 | [108873-tapsonic-top.json](./108873-tapsonic-top.json) |
 | TapTapBadger | 262353 | [262353-taptapbadger.json](./262353-taptapbadger.json) |
 | Taptiles | 79856 | [79856-taptiles.json](./79856-taptiles.json) |
 | Taptron 1999 | 372992 | [372992-taptron-1999.json](./372992-taptron-1999.json) |
@@ -7839,6 +7840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Cooking: Special Edition | 328803 | [328803-tokyo-cooking-special-edition.json](./328803-tokyo-cooking-special-edition.json) |
 | Tokyo Cooking: Ultimate Edition | 328804 | [328804-tokyo-cooking-ultimate-edition.json](./328804-tokyo-cooking-ultimate-edition.json) |
 | Tokyo Cop | 148506 | [148506-tokyo-cop.json](./148506-tokyo-cop.json) |
+| Tokyo Dungeon | 108824 | [108824-tokyo-dungeon.json](./108824-tokyo-dungeon.json) |
 | Tokyo Friend Park II Ketteiban: Minna de Chousen! Taikan Attraction | 139255 | [139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json](./139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json) |
 | Tokyo Ghoul: Break the Chains | 275897 | [275897-tokyo-ghoul-break-the-chains.json](./275897-tokyo-ghoul-break-the-chains.json) |
 | Tokyo Ghoul: Carnaval | 123630 | [123630-tokyo-ghoul-carnaval.json](./123630-tokyo-ghoul-carnaval.json) |
