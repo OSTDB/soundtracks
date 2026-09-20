@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Salt | 165056 | [165056-old-salt.json](./165056-old-salt.json) |
 | Old School Racer | 91887 | [91887-old-school-racer.json](./91887-old-school-racer.json) |
 | Old School RPG | 253456 | [253456-old-school-rpg.json](./253456-old-school-rpg.json) |
+| Old School RPG Bundle | 124003 | [124003-old-school-rpg-bundle.json](./124003-old-school-rpg-bundle.json) |
 | Old Shadow | 232438 | [232438-old-shadow.json](./232438-old-shadow.json) |
 | Old Skool Classics | 93569 | [93569-old-skool-classics.json](./93569-old-skool-classics.json) |
 | Old Skool Racer | 156609 | [156609-old-skool-racer.json](./156609-old-skool-racer.json) |
