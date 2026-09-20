@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LCD Dream Escalator | 180784 | [180784-lcd-dream-escalator.json](./180784-lcd-dream-escalator.json) |
 | LCD Dungeon System | 94173 | [94173-lcd-dungeon-system.json](./94173-lcd-dungeon-system.json) |
 | LCD Head Chaser | 385730 | [385730-lcd-head-chaser.json](./385730-lcd-head-chaser.json) |
+| LCD Sports: American Football | 114162 | [114162-lcd-sports-american-football.json](./114162-lcd-sports-american-football.json) |
 | LDS Articles of Faith | 102738 | [102738-lds-articles-of-faith.json](./102738-lds-articles-of-faith.json) |
 | LDS Fun | 100939 | [100939-lds-fun.json](./100939-lds-fun.json) |
 | Le Avventure di Blue | 228418 | [228418-le-avventure-di-blue.json](./228418-le-avventure-di-blue.json) |
@@ -739,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left to My Own Devices | 180239 | [180239-left-to-my-own-devices.json](./180239-left-to-my-own-devices.json) |
 | Left to Survive | 106608 | [106608-left-to-survive.json](./106608-left-to-survive.json) |
 | Left-Hand Path | 32901 | [32901-left-hand-path.json](./32901-left-hand-path.json) |
+| Left-Right: The Mansion | 114202 | [114202-left-right-the-mansion.json](./114202-left-right-the-mansion.json) |
 | Left. | 265979 | [265979-left.json](./265979-left.json) |
 | Lefties' Righteous Arcade Emporium | 289305 | [289305-lefties-righteous-arcade-emporium.json](./289305-lefties-righteous-arcade-emporium.json) |
 | Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
@@ -1760,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Purposeful | 221839 | [221839-lisa-the-purposeful.json](./221839-lisa-the-purposeful.json) |
 | Lisa: The Timeless | 159151 | [159151-lisa-the-timeless.json](./159151-lisa-the-timeless.json) |
 | Lisa: The Undone | 297621 | [297621-lisa-the-undone.json](./297621-lisa-the-undone.json) |
+| Lisa's Memory | 114192 | [114192-lisas-memory.json](./114192-lisas-memory.json) |
 | Lisistrata | 195601 | [195601-lisistrata.json](./195601-lisistrata.json) |
 | Lisle Engle Heavy Distance | 253918 | [253918-lisle-engle-heavy-distance.json](./253918-lisle-engle-heavy-distance.json) |
 | Lisparuga | 176996 | [176996-lisparuga.json](./176996-lisparuga.json) |
