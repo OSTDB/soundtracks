@@ -2532,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiftlings | 9215 | [9215-shiftlings.json](./9215-shiftlings.json) |
 | Shigatsu Boujitsu, Hana Kudaru Yoru | 398357 | [398357-shigatsu-boujitsu-hana-kudaru-yoru.json](./398357-shigatsu-boujitsu-hana-kudaru-yoru.json) |
 | Shigeru Planet | 266869 | [266869-shigeru-planet.json](./266869-shigeru-planet.json) |
+| Shihori Escape | 125859 | [125859-shihori-escape.json](./125859-shihori-escape.json) |
 | Shiin | 55839 | [55839-shiin.json](./55839-shiin.json) |
 | Shiina Taki's Decameron | 320725 | [320725-shiina-takis-decameron.json](./320725-shiina-takis-decameron.json) |
 | Shijie Xiuxian | 295003 | [295003-shijie-xiuxian.json](./295003-shijie-xiuxian.json) |
@@ -2560,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Koihime Musou: Kakumei - Ryuuki no Taimou | 127338 | [127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json](./127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json) |
 | Shin Lucky Star Moe Drill: Tabidachi | 72619 | [72619-shin-lucky-star-moe-drill-tabidachi.json](./72619-shin-lucky-star-moe-drill-tabidachi.json) |
 | Shin Mahjong Tenka Fubu | 188085 | [188085-shin-mahjong-tenka-fubu.json](./188085-shin-mahjong-tenka-fubu.json) |
+| Shin Maou Golvellius | 125814 | [125814-shin-maou-golvellius.json](./125814-shin-maou-golvellius.json) |
 | Shin Megami Tensei Devil Summoner: Raidou Kuzunoha vs. The Soulless Army | 20640 | [20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json](./20640-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army.json) |
 | Shin Megami Tensei if... | 270672 | [270672-shin-megami-tensei-if.json](./270672-shin-megami-tensei-if.json) |
 | Shin Megami Tensei II | 252800 | [252800-shin-megami-tensei-ii.json](./252800-shin-megami-tensei-ii.json) |
@@ -2899,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Science | 365155 | [365155-shotgun-science.json](./365155-shotgun-science.json) |
 | Shotgun Symphony | 144262 | [144262-shotgun-symphony.json](./144262-shotgun-symphony.json) |
 | Shothop | 396417 | [396417-shothop.json](./396417-shothop.json) |
+| Shotz.io | 125848 | [125848-shotz-io.json](./125848-shotz-io.json) |
 | Shougakusei no Uchi ni Oboetai Eitango | 260693 | [260693-shougakusei-no-uchi-ni-oboetai-eitango.json](./260693-shougakusei-no-uchi-ni-oboetai-eitango.json) |
 | Shoujo Activity | 194606 | [194606-shoujo-activity.json](./194606-shoujo-activity.json) |
 | Shoujo Gidan | 167130 | [167130-shoujo-gidan.json](./167130-shoujo-gidan.json) |
@@ -4512,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snails | 35694 | [35694-snails.json](./35694-snails.json) |
 | Snails vs. Humans | 326076 | [326076-snails-vs-humans.json](./326076-snails-vs-humans.json) |
 | Snake | 100202 | [100202-snake.json](./100202-snake.json) |
+| Snake | 125831 | [125831-snake.json](./125831-snake.json) |
 | Snake | 170467 | [170467-snake.json](./170467-snake.json) |
 | Snake | 186242 | [186242-snake.json](./186242-snake.json) |
 | Snake | 305744 | [305744-snake.json](./305744-snake.json) |
@@ -6121,6 +6125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Memory: Dogs | 357864 | [357864-space-memory-dogs.json](./357864-space-memory-dogs.json) |
 | Space Memory: Fairies | 412387 | [412387-space-memory-fairies.json](./412387-space-memory-fairies.json) |
 | Space Memory: Predators | 358897 | [358897-space-memory-predators.json](./358897-space-memory-predators.json) |
+| Space Merchant | 125813 | [125813-space-merchant.json](./125813-space-merchant.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Miner: Idle Adventures | 276173 | [276173-space-miner-idle-adventures.json](./276173-space-miner-idle-adventures.json) |
 | Space Miner: Platinum Edition | 100155 | [100155-space-miner-platinum-edition.json](./100155-space-miner-platinum-edition.json) |
@@ -8443,6 +8448,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm of Darkness | 233500 | [233500-storm-of-darkness.json](./233500-storm-of-darkness.json) |
 | Storm of Jigsaw Puzzles | 109654 | [109654-storm-of-jigsaw-puzzles.json](./109654-storm-of-jigsaw-puzzles.json) |
 | Storm over Thyrion | 386849 | [386849-storm-over-thyrion.json](./386849-storm-over-thyrion.json) |
+| Storm Racer G | 125823 | [125823-storm-racer-g.json](./125823-storm-racer-g.json) |
+| Storm Rider | 125842 | [125842-storm-rider.json](./125842-storm-rider.json) |
 | Storm Settlers | 353912 | [353912-storm-settlers.json](./353912-storm-settlers.json) |
 | Storm Strikers | 124746 | [124746-storm-strikers.json](./124746-storm-strikers.json) |
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
@@ -10592,6 +10599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive in Angaria | 90125 | [90125-survive-in-angaria.json](./90125-survive-in-angaria.json) |
 | Survive Into Night | 155504 | [155504-survive-into-night.json](./155504-survive-into-night.json) |
 | Survive Isolation | 150503 | [150503-survive-isolation.json](./150503-survive-isolation.json) |
+| Survive on Raft | 125851 | [125851-survive-on-raft.json](./125851-survive-on-raft.json) |
 | Survive or Thrive | 148521 | [148521-survive-or-thrive.json](./148521-survive-or-thrive.json) |
 | Survive Ten Days | 306094 | [306094-survive-ten-days.json](./306094-survive-ten-days.json) |
 | Survive the Apocalypse | 404208 | [404208-survive-the-apocalypse.json](./404208-survive-the-apocalypse.json) |
