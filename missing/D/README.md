@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of Ekron: Definitive Edition | 106624 | [106624-defenders-of-ekron-definitive-edition.json](./106624-defenders-of-ekron-definitive-edition.json) |
 | Defenders of Kingdom | 197243 | [197243-defenders-of-kingdom.json](./197243-defenders-of-kingdom.json) |
 | Defenders of Kronos | 257972 | [257972-defenders-of-kronos.json](./257972-defenders-of-kronos.json) |
+| Defenders of Law Inc: Crime in Willburg | 72975 | [72975-defenders-of-law-inc-crime-in-willburg.json](./72975-defenders-of-law-inc-crime-in-willburg.json) |
 | Defenders of Oasis GG2SMS | 369595 | [369595-defenders-of-oasis-gg2sms.json](./369595-defenders-of-oasis-gg2sms.json) |
 | Defenders of the Omniverse | 255385 | [255385-defenders-of-the-omniverse.json](./255385-defenders-of-the-omniverse.json) |
 | Defenders of Time | 17722 | [17722-defenders-of-time.json](./17722-defenders-of-time.json) |
@@ -3059,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovering the Dinosaurs | 105755 | [105755-discovering-the-dinosaurs.json](./105755-discovering-the-dinosaurs.json) |
 | Discovery Freelancer | 111445 | [111445-discovery-freelancer.json](./111445-discovery-freelancer.json) |
 | Discovery Islands | 399706 | [399706-discovery-islands.json](./399706-discovery-islands.json) |
+| Discovery Kids: Kitten Corner | 72957 | [72957-discovery-kids-kitten-corner.json](./72957-discovery-kids-kitten-corner.json) |
 | Discovery Kids: Pony Paradise | 69273 | [69273-discovery-kids-pony-paradise.json](./69273-discovery-kids-pony-paradise.json) |
 | Discovery Kids: Spider Quest | 67308 | [67308-discovery-kids-spider-quest.json](./67308-discovery-kids-spider-quest.json) |
 | Discovery Tour: Ancient Greece | 133962 | [133962-discovery-tour-ancient-greece.json](./133962-discovery-tour-ancient-greece.json) |
@@ -3428,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Docking Donuts2 in 1 | 233225 | [233225-docking-donuts2-in-1.json](./233225-docking-donuts2-in-1.json) |
 | Docking Doom | 271991 | [271991-docking-doom.json](./271991-docking-doom.json) |
 | Dockside Dreams: Fish & Cook Simulator | 373015 | [373015-dockside-dreams-fish-and-cook-simulator.json](./373015-dockside-dreams-fish-and-cook-simulator.json) |
+| Docomodake Boing! | 72973 | [72973-docomodake-boing.json](./72973-docomodake-boing.json) |
 | Doctor Fizzwizzle's Animal Rescue | 50634 | [50634-doctor-fizzwizzles-animal-rescue.json](./50634-doctor-fizzwizzles-animal-rescue.json) |
 | Doctor Ku: The Alien Room | 315120 | [315120-doctor-ku-the-alien-room.json](./315120-doctor-ku-the-alien-room.json) |
 | Doctor Ku: The Cellar | 315097 | [315097-doctor-ku-the-cellar.json](./315097-doctor-ku-the-cellar.json) |
@@ -3448,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Art Attack | 249279 | [249279-doctor-who-art-attack.json](./249279-doctor-who-art-attack.json) |
 | Doctor Who: Black Hole | 249293 | [249293-doctor-who-black-hole.json](./249293-doctor-who-black-hole.json) |
 | Doctor Who: Dalek Break-Out | 249447 | [249447-doctor-who-dalek-break-out.json](./249447-doctor-who-dalek-break-out.json) |
+| Doctor Who: Destiny of the Doctors | 72960 | [72960-doctor-who-destiny-of-the-doctors.json](./72960-doctor-who-destiny-of-the-doctors.json) |
 | Doctor Who: Doctor In A Dash | 249464 | [249464-doctor-who-doctor-in-a-dash.json](./249464-doctor-who-doctor-in-a-dash.json) |
 | Doctor Who: Evacuation Earth | 47842 | [47842-doctor-who-evacuation-earth.json](./47842-doctor-who-evacuation-earth.json) |
 | Doctor Who: Flight Simulator | 263558 | [263558-doctor-who-flight-simulator.json](./263558-doctor-who-flight-simulator.json) |
