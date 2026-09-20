@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T00:47:42.426Z",
-  "total_missing": 94671,
+  "generated_at": "2026-09-20T01:02:41.264Z",
+  "total_missing": 94721,
   "games": [
     {
       "igdb_id": 176875,
@@ -17958,6 +17958,11 @@
       "file": "missing/0-9/380388-ao-mong-tru-tien.json"
     },
     {
+      "igdb_id": 124030,
+      "game_name": "Ao no Kanata no Four Rhythm 4th Anniversary Box",
+      "file": "missing/A/124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json"
+    },
+    {
       "igdb_id": 280892,
       "game_name": "Ao no Kanata no Four Rhythm Extra1+2P",
       "file": "missing/A/280892-ao-no-kanata-no-four-rhythm-extra1-2p.json"
@@ -18006,6 +18011,11 @@
       "igdb_id": 394867,
       "game_name": "Aoi Tori: L'Oiseau Bleu",
       "file": "missing/A/394867-aoi-tori-loiseau-bleu.json"
+    },
+    {
+      "igdb_id": 124028,
+      "game_name": "Aokana: Four Rhythms Across the Blue Extra1",
+      "file": "missing/A/124028-aokana-four-rhythms-across-the-blue-extra1.json"
     },
     {
       "igdb_id": 228474,
@@ -51821,6 +51831,11 @@
       "igdb_id": 94682,
       "game_name": "Bridge Master",
       "file": "missing/B/94682-bridge-master.json"
+    },
+    {
+      "igdb_id": 124035,
+      "game_name": "Bridge Strike",
+      "file": "missing/B/124035-bridge-strike.json"
     },
     {
       "igdb_id": 362834,
@@ -86843,6 +86858,11 @@
       "file": "missing/C/408088-cytokine-storm.json"
     },
     {
+      "igdb_id": 124038,
+      "game_name": "Cytopia",
+      "file": "missing/C/124038-cytopia.json"
+    },
+    {
       "igdb_id": 180839,
       "game_name": "Cytoplasm Madness",
       "file": "missing/C/180839-cytoplasm-madness.json"
@@ -90933,6 +90953,11 @@
       "file": "missing/D/70476-dawnspire-prelude.json"
     },
     {
+      "igdb_id": 124009,
+      "game_name": "Day and Night",
+      "file": "missing/D/124009-day-and-night.json"
+    },
+    {
       "igdb_id": 178596,
       "game_name": "Day at the Counter",
       "file": "missing/D/178596-day-at-the-counter.json"
@@ -93003,6 +93028,11 @@
       "file": "missing/D/259668-dear-pretentiousness.json"
     },
     {
+      "igdb_id": 124034,
+      "game_name": "Dear Reader",
+      "file": "missing/D/124034-dear-reader.json"
+    },
+    {
       "igdb_id": 33250,
       "game_name": "Dear Red: Extended",
       "file": "missing/D/33250-dear-red-extended.json"
@@ -93736,6 +93766,11 @@
       "igdb_id": 79852,
       "game_name": "Deathsmiles Mega Black Label",
       "file": "missing/D/79852-deathsmiles-mega-black-label.json"
+    },
+    {
+      "igdb_id": 124010,
+      "game_name": "Deathstate : Abyssal Edition",
+      "file": "missing/D/124010-deathstate-abyssal-edition.json"
     },
     {
       "igdb_id": 232007,
@@ -127653,6 +127688,11 @@
       "file": "missing/E/324878-eyes-that-hypnotise.json"
     },
     {
+      "igdb_id": 124011,
+      "game_name": "Eyeshield 21: MAX Devil Power",
+      "file": "missing/E/124011-eyeshield-21-max-devil-power.json"
+    },
+    {
       "igdb_id": 44638,
       "game_name": "EyeToy Play Hero",
       "file": "missing/E/44638-eyetoy-play-hero.json"
@@ -139278,6 +139318,11 @@
       "file": "missing/F/407325-flecto.json"
     },
     {
+      "igdb_id": 124027,
+      "game_name": "Fledgling Heroes",
+      "file": "missing/F/124027-fledgling-heroes.json"
+    },
+    {
       "igdb_id": 305535,
       "game_name": "Flee or Be: Chapter One - Lurking Alone",
       "file": "missing/F/305535-flee-or-be-chapter-one-lurking-alone.json"
@@ -141811,6 +141856,11 @@
       "igdb_id": 199023,
       "game_name": "Football",
       "file": "missing/F/199023-football.json"
+    },
+    {
+      "igdb_id": 124015,
+      "game_name": "Football Academy",
+      "file": "missing/F/124015-football-academy.json"
     },
     {
       "igdb_id": 167246,
@@ -149273,6 +149323,11 @@
       "file": "missing/F/69310-fuyu-no-rondo.json"
     },
     {
+      "igdb_id": 124014,
+      "game_name": "Fuyu no Sonata DS",
+      "file": "missing/F/124014-fuyu-no-sonata-ds.json"
+    },
+    {
       "igdb_id": 104644,
       "game_name": "Fuzzy Critters",
       "file": "missing/F/104644-fuzzy-critters.json"
@@ -149596,6 +149651,16 @@
       "igdb_id": 180227,
       "game_name": "Gachaminer",
       "file": "missing/G/180227-gachaminer.json"
+    },
+    {
+      "igdb_id": 124013,
+      "game_name": "Gachapin Challenge DS",
+      "file": "missing/G/124013-gachapin-challenge-ds.json"
+    },
+    {
+      "igdb_id": 124012,
+      "game_name": "Gachapin Nikki DS",
+      "file": "missing/G/124012-gachapin-nikki-ds.json"
     },
     {
       "igdb_id": 127191,
@@ -151816,6 +151881,11 @@
       "igdb_id": 57674,
       "game_name": "Gapper",
       "file": "missing/G/57674-gapper.json"
+    },
+    {
+      "igdb_id": 124020,
+      "game_name": "Garage Mechanic Simulator",
+      "file": "missing/G/124020-garage-mechanic-simulator.json"
     },
     {
       "igdb_id": 278417,
@@ -159578,6 +159648,11 @@
       "file": "missing/G/240812-goospace.json"
     },
     {
+      "igdb_id": 124019,
+      "game_name": "GoPets: Vacation Island",
+      "file": "missing/G/124019-gopets-vacation-island.json"
+    },
+    {
       "igdb_id": 185035,
       "game_name": "Gophers",
       "file": "missing/G/185035-gophers.json"
@@ -159911,6 +159986,11 @@
       "igdb_id": 387357,
       "game_name": "Gotogra",
       "file": "missing/G/387357-gotogra.json"
+    },
+    {
+      "igdb_id": 124018,
+      "game_name": "Gotouchi Kentei DS",
+      "file": "missing/G/124018-gotouchi-kentei-ds.json"
     },
     {
       "igdb_id": 196318,
@@ -166496,6 +166576,11 @@
       "igdb_id": 243921,
       "game_name": "Hakuoki SSL: Sweet School Life for Nintendo Switch",
       "file": "missing/H/243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json"
+    },
+    {
+      "igdb_id": 124016,
+      "game_name": "Hakuoki Yuugiroku Taishitachi no Daienkai",
+      "file": "missing/H/124016-hakuoki-yuugiroku-taishitachi-no-daienkai.json"
     },
     {
       "igdb_id": 17272,
@@ -180936,6 +181021,11 @@
       "igdb_id": 234734,
       "game_name": "Hopping Girl Kohane EX",
       "file": "missing/H/234734-hopping-girl-kohane-ex.json"
+    },
+    {
+      "igdb_id": 124022,
+      "game_name": "Hopping girl Kohane Jumping Kingdom: Princess of the Black Rabbit",
+      "file": "missing/H/124022-hopping-girl-kohane-jumping-kingdom-princess-of-the-black-rabbit.json"
     },
     {
       "igdb_id": 141878,
@@ -201928,6 +202018,11 @@
       "file": "missing/J/31362-just-bat-vr-cricket.json"
     },
     {
+      "igdb_id": 124025,
+      "game_name": "Just Black Jack",
+      "file": "missing/J/124025-just-black-jack.json"
+    },
+    {
       "igdb_id": 1042,
       "game_name": "Just Cause",
       "file": "missing/J/1042-just-cause.json"
@@ -219943,6 +220038,11 @@
       "file": "missing/L/221994-lines-frenzy.json"
     },
     {
+      "igdb_id": 124024,
+      "game_name": "Lines Infinite",
+      "file": "missing/L/124024-lines-infinite.json"
+    },
+    {
       "igdb_id": 174224,
       "game_name": "Lines on Sides",
       "file": "missing/L/174224-lines-on-sides.json"
@@ -221151,6 +221251,11 @@
       "igdb_id": 43903,
       "game_name": "Little Princess: Marl Oukoku no Ningyou Hime 2",
       "file": "missing/L/43903-little-princess-marl-oukoku-no-ningyou-hime-2.json"
+    },
+    {
+      "igdb_id": 124023,
+      "game_name": "Little Racer",
+      "file": "missing/L/124023-little-racer.json"
     },
     {
       "igdb_id": 180804,
@@ -225116,6 +225221,11 @@
       "igdb_id": 158220,
       "game_name": "Love on Paper",
       "file": "missing/L/158220-love-on-paper.json"
+    },
+    {
+      "igdb_id": 124041,
+      "game_name": "Love or Die",
+      "file": "missing/L/124041-love-or-die.json"
     },
     {
       "igdb_id": 83592,
@@ -236963,6 +237073,11 @@
       "file": "missing/M/128595-me-and-my-robot-friend.json"
     },
     {
+      "igdb_id": 124037,
+      "game_name": "Me and My Shadow",
+      "file": "missing/M/124037-me-and-my-shadow.json"
+    },
+    {
       "igdb_id": 225280,
       "game_name": "Me and the Key 2",
       "file": "missing/M/225280-me-and-the-key-2.json"
@@ -238346,6 +238461,11 @@
       "igdb_id": 281415,
       "game_name": "Mega Man",
       "file": "missing/M/281415-mega-man.json"
+    },
+    {
+      "igdb_id": 124033,
+      "game_name": "Mega Man & Mega Man X 5in1 Special Box",
+      "file": "missing/M/124033-mega-man-and-mega-man-x-5in1-special-box.json"
     },
     {
       "igdb_id": 167160,
@@ -271143,6 +271263,11 @@
       "file": "missing/N/174348-nrg.json"
     },
     {
+      "igdb_id": 124026,
+      "game_name": "NRL Mascot Mania",
+      "file": "missing/N/124026-nrl-mascot-mania.json"
+    },
+    {
       "igdb_id": 25606,
       "game_name": "NSFW: Not a Simulator for Working",
       "file": "missing/N/25606-nsfw-not-a-simulator-for-working.json"
@@ -274176,6 +274301,11 @@
       "igdb_id": 253456,
       "game_name": "Old School RPG",
       "file": "missing/O/253456-old-school-rpg.json"
+    },
+    {
+      "igdb_id": 124003,
+      "game_name": "Old School RPG Bundle",
+      "file": "missing/O/124003-old-school-rpg-bundle.json"
     },
     {
       "igdb_id": 232438,
@@ -295768,6 +295898,11 @@
       "file": "missing/P/408908-plazasoup.json"
     },
     {
+      "igdb_id": 124039,
+      "game_name": "Plazma Burst: Forward to the Past",
+      "file": "missing/P/124039-plazma-burst-forward-to-the-past.json"
+    },
+    {
       "igdb_id": 134675,
       "game_name": "Please",
       "file": "missing/P/134675-please.json"
@@ -303986,6 +304121,11 @@
       "igdb_id": 253366,
       "game_name": "Project Hardline",
       "file": "missing/P/253366-project-hardline.json"
+    },
+    {
+      "igdb_id": 124008,
+      "game_name": "Project Haven",
+      "file": "missing/P/124008-project-haven.json"
     },
     {
       "igdb_id": 130920,
@@ -351953,6 +352093,16 @@
       "file": "missing/S/208958-smart-boys-gameroom-ii.json"
     },
     {
+      "igdb_id": 124044,
+      "game_name": "Smart Boy's: Toy Club",
+      "file": "missing/S/124044-smart-boys-toy-club.json"
+    },
+    {
+      "igdb_id": 124048,
+      "game_name": "Smart Boy's: Winter Wonderland",
+      "file": "missing/S/124048-smart-boys-winter-wonderland.json"
+    },
+    {
       "igdb_id": 69851,
       "game_name": "Smart CyberFly",
       "file": "missing/S/69851-smart-cyberfly.json"
@@ -351981,6 +352131,36 @@
       "igdb_id": 21011,
       "game_name": "Smart Girl's Playhouse Mini",
       "file": "missing/S/21011-smart-girls-playhouse-mini.json"
+    },
+    {
+      "igdb_id": 124047,
+      "game_name": "Smart Girl's: Magical Book Club",
+      "file": "missing/S/124047-smart-girls-magical-book-club.json"
+    },
+    {
+      "igdb_id": 124046,
+      "game_name": "Smart Girl's: Party Games",
+      "file": "missing/S/124046-smart-girls-party-games.json"
+    },
+    {
+      "igdb_id": 124045,
+      "game_name": "Smart Girl's: Playhouse",
+      "file": "missing/S/124045-smart-girls-playhouse.json"
+    },
+    {
+      "igdb_id": 124049,
+      "game_name": "Smart Girl's: Winter Wonderland",
+      "file": "missing/S/124049-smart-girls-winter-wonderland.json"
+    },
+    {
+      "igdb_id": 124050,
+      "game_name": "Smart Kid's: Gameclub",
+      "file": "missing/S/124050-smart-kids-gameclub.json"
+    },
+    {
+      "igdb_id": 124059,
+      "game_name": "Smart Kid's: Party Fun Pack",
+      "file": "missing/S/124059-smart-kids-party-fun-pack.json"
     },
     {
       "igdb_id": 218459,
@@ -355428,6 +355608,11 @@
       "file": "missing/S/16487-solforge.json"
     },
     {
+      "igdb_id": 124053,
+      "game_name": "Solid Body Picross",
+      "file": "missing/S/124053-solid-body-picross.json"
+    },
+    {
       "igdb_id": 378770,
       "game_name": "Solid Void Art Nonograms",
       "file": "missing/S/378770-solid-void-art-nonograms.json"
@@ -356151,6 +356336,11 @@
       "igdb_id": 51957,
       "game_name": "Sommad",
       "file": "missing/S/51957-sommad.json"
+    },
+    {
+      "igdb_id": 124052,
+      "game_name": "Sommelier DS",
+      "file": "missing/S/124052-sommelier-ds.json"
     },
     {
       "igdb_id": 281378,
@@ -358881,6 +359071,11 @@
       "igdb_id": 358304,
       "game_name": "Soukh",
       "file": "missing/S/358304-soukh.json"
+    },
+    {
+      "igdb_id": 124051,
+      "game_name": "Soukoku no Kusabi: Hiiro no Kakera 3",
+      "file": "missing/S/124051-soukoku-no-kusabi-hiiro-no-kakera-3.json"
     },
     {
       "igdb_id": 170502,
@@ -363288,6 +363483,11 @@
       "file": "missing/S/322968-spellwheel.json"
     },
     {
+      "igdb_id": 124054,
+      "game_name": "Spellworm",
+      "file": "missing/S/124054-spellworm.json"
+    },
+    {
       "igdb_id": 278680,
       "game_name": "Spellz: Mastery or Death",
       "file": "missing/S/278680-spellz-mastery-or-death.json"
@@ -364326,6 +364526,11 @@
       "igdb_id": 308539,
       "game_name": "Spiteful Lovers in a Perfect World",
       "file": "missing/S/308539-spiteful-lovers-in-a-perfect-world.json"
+    },
+    {
+      "igdb_id": 124055,
+      "game_name": "Spitfire Heroes: Tales of the Royal Air Force",
+      "file": "missing/S/124055-spitfire-heroes-tales-of-the-royal-air-force.json"
     },
     {
       "igdb_id": 307950,
@@ -365708,6 +365913,11 @@
       "file": "missing/S/72075-spy-kids-learning-adventures-mission-the-underground-affair.json"
     },
     {
+      "igdb_id": 124058,
+      "game_name": "Spy Kids: All the Time in the World",
+      "file": "missing/S/124058-spy-kids-all-the-time-in-the-world.json"
+    },
+    {
       "igdb_id": 210723,
       "game_name": "Spy Muppets: License to Croak",
       "file": "missing/S/210723-spy-muppets-license-to-croak.json"
@@ -365881,6 +366091,11 @@
       "igdb_id": 111118,
       "game_name": "Squally",
       "file": "missing/S/111118-squally.json"
+    },
+    {
+      "igdb_id": 124056,
+      "game_name": "Squarcat",
+      "file": "missing/S/124056-squarcat.json"
     },
     {
       "igdb_id": 195626,
@@ -368516,6 +368731,11 @@
       "igdb_id": 138827,
       "game_name": "Starblade",
       "file": "missing/S/138827-starblade.json"
+    },
+    {
+      "igdb_id": 124060,
+      "game_name": "StarBlox Inc.",
+      "file": "missing/S/124060-starblox-inc.json"
     },
     {
       "igdb_id": 192366,
@@ -374216,6 +374436,11 @@
       "igdb_id": 69278,
       "game_name": "Strike Witches: Doki! Otome Darake no Jouriku Sakusen",
       "file": "missing/S/69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json"
+    },
+    {
+      "igdb_id": 124061,
+      "game_name": "Strike Witches: Soukuu no Dengekisen - Shin Taichou Funtousuru!",
+      "file": "missing/S/124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json"
     },
     {
       "igdb_id": 361229,
@@ -395403,6 +395628,11 @@
       "file": "missing/T/115989-the-alliance-alive-hd-remastered.json"
     },
     {
+      "igdb_id": 124040,
+      "game_name": "The Almost Heaven Crisis",
+      "file": "missing/T/124040-the-almost-heaven-crisis.json"
+    },
+    {
       "igdb_id": 168369,
       "game_name": "The Alpha 001",
       "file": "missing/T/168369-the-alpha-001.json"
@@ -405661,6 +405891,11 @@
       "igdb_id": 239182,
       "game_name": "The Legend of Dragoon",
       "file": "missing/T/239182-the-legend-of-dragoon.json"
+    },
+    {
+      "igdb_id": 124032,
+      "game_name": "The Legend of Edgar",
+      "file": "missing/T/124032-the-legend-of-edgar.json"
     },
     {
       "igdb_id": 145653,
@@ -427513,6 +427748,11 @@
       "file": "missing/T/133974-totem.json"
     },
     {
+      "igdb_id": 124017,
+      "game_name": "Totem City",
+      "file": "missing/T/124017-totem-city.json"
+    },
+    {
       "igdb_id": 64391,
       "game_name": "Totem Runner",
       "file": "missing/T/64391-totem-runner.json"
@@ -431411,6 +431651,11 @@
       "igdb_id": 234050,
       "game_name": "Train Your Brain",
       "file": "missing/T/234050-train-your-brain.json"
+    },
+    {
+      "igdb_id": 124043,
+      "game_name": "Train Your Brain: Nintendo Switch Training for Adults",
+      "file": "missing/T/124043-train-your-brain-nintendo-switch-training-for-adults.json"
     },
     {
       "igdb_id": 300842,
@@ -459521,6 +459766,11 @@
       "igdb_id": 122400,
       "game_name": "Winter Cometh",
       "file": "missing/W/122400-winter-cometh.json"
+    },
+    {
+      "igdb_id": 124002,
+      "game_name": "Winter Ember",
+      "file": "missing/W/124002-winter-ember.json"
     },
     {
       "igdb_id": 173251,
