@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Dragon Hunting | 241052 | [241052-jetpack-dragon-hunting.json](./241052-jetpack-dragon-hunting.json) |
 | Jetpack Joyride India Exclusive | 238204 | [238204-jetpack-joyride-india-exclusive.json](./238204-jetpack-joyride-india-exclusive.json) |
 | Jetpack Soccer | 241055 | [241055-jetpack-soccer.json](./241055-jetpack-soccer.json) |
+| Jetpack Warrior VR | 107684 | [107684-jetpack-warrior-vr.json](./107684-jetpack-warrior-vr.json) |
 | Jetpackin' Heat++ | 161347 | [161347-jetpackin-heat.json](./161347-jetpackin-heat.json) |
 | JetPilot GoNow Demo | 136233 | [136233-jetpilot-gonow-demo.json](./136233-jetpilot-gonow-demo.json) |
 | jetPin | 141166 | [141166-jetpin.json](./141166-jetpin.json) |
