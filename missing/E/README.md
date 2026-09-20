@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End War RTS 2 | 160234 | [160234-end-war-rts-2.json](./160234-end-war-rts-2.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
+| Ender Story: Chapter 1 | 80903 | [80903-ender-story-chapter-1.json](./80903-ender-story-chapter-1.json) |
 | Ender Theater | 333381 | [333381-ender-theater.json](./333381-ender-theater.json) |
 | Enderal: The Shards of Order | 249452 | [249452-enderal-the-shards-of-order.json](./249452-enderal-the-shards-of-order.json) |
 | Endersite | 98765 | [98765-endersite.json](./98765-endersite.json) |
@@ -1540,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape | 230863 | [230863-escape.json](./230863-escape.json) |
 | Escape | 295270 | [295270-escape.json](./295270-escape.json) |
 | Escape | 356667 | [356667-escape.json](./356667-escape.json) |
+| Escape | 80938 | [80938-escape.json](./80938-escape.json) |
 | Escape | 98433 | [98433-escape.json](./98433-escape.json) |
 | Escape Academy 2: Back 2 School | 347671 | [347671-escape-academy-2-back-2-school.json](./347671-escape-academy-2-back-2-school.json) |
 | Escape Academy: Deluxe Edition | 209686 | [209686-escape-academy-deluxe-edition.json](./209686-escape-academy-deluxe-edition.json) |
