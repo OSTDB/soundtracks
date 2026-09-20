@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwarzerblitz | 118188 | [118188-schwarzerblitz.json](./118188-schwarzerblitz.json) |
 | Schwarzesmarken Kouketsu no Monshou / Junkyousha-tachi | 86089 | [86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json](./86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json) |
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
+| Sci-Fi Channel Trivia Game | 98802 | [98802-sci-fi-channel-trivia-game.json](./98802-sci-fi-channel-trivia-game.json) |
 | Science Fiction Classics | 78670 | [78670-science-fiction-classics.json](./78670-science-fiction-classics.json) |
 | Science Papa | 21112 | [21112-science-papa.json](./21112-science-papa.json) |
 | Science Simulator | 159320 | [159320-science-simulator.json](./159320-science-simulator.json) |
@@ -2921,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopkeepers Tale | 110166 | [110166-shopkeepers-tale.json](./110166-shopkeepers-tale.json) |
 | Shopkins: Cutie Cars | 109007 | [109007-shopkins-cutie-cars.json](./109007-shopkins-cutie-cars.json) |
 | Shopkins: Top Trumps | 82140 | [82140-shopkins-top-trumps.json](./82140-shopkins-top-trumps.json) |
+| Shopkins: Who's Next? | 98791 | [98791-shopkins-whos-next.json](./98791-shopkins-whos-next.json) |
 | Shoppe Keep 2 | 68842 | [68842-shoppe-keep-2.json](./68842-shoppe-keep-2.json) |
 | Shopper's Paradise | 70404 | [70404-shoppers-paradise.json](./70404-shoppers-paradise.json) |
 | Shopping Cart Hero 2 | 388042 | [388042-shopping-cart-hero-2.json](./388042-shopping-cart-hero-2.json) |
@@ -10637,6 +10639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series: Lode Runner 2 | 382928 | [382928-superlite-1500-series-lode-runner-2.json](./382928-superlite-1500-series-lode-runner-2.json) |
 | SuperLite 1500 Series: Qix 2000 | 97320 | [97320-superlite-1500-series-qix-2000.json](./97320-superlite-1500-series-qix-2000.json) |
 | SuperLite 1500 Series: Shinsei Toire no Kakosan | 382913 | [382913-superlite-1500-series-shinsei-toire-no-kakosan.json](./382913-superlite-1500-series-shinsei-toire-no-kakosan.json) |
+| SuperLite 1500 series: The Tetris | 98801 | [98801-superlite-1500-series-the-tetris.json](./98801-superlite-1500-series-the-tetris.json) |
 | SuperLite 1500: Crazy Balloon 2000 | 97323 | [97323-superlite-1500-crazy-balloon-2000.json](./97323-superlite-1500-crazy-balloon-2000.json) |
 | SuperLite 2000: Oekaki Puzzle | 386127 | [386127-superlite-2000-oekaki-puzzle.json](./386127-superlite-2000-oekaki-puzzle.json) |
 | SuperLite 3in1 Series: Nankuro Shuu | 386217 | [386217-superlite-3in1-series-nankuro-shuu.json](./386217-superlite-3in1-series-nankuro-shuu.json) |
@@ -11167,6 +11170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swoops! | 40750 | [40750-swoops.json](./40750-swoops.json) |
 | SwooshMania | 347723 | [347723-swooshmania.json](./347723-swooshmania.json) |
 | Sword & Dragon | 58234 | [58234-sword-and-dragon.json](./58234-sword-and-dragon.json) |
+| Sword & Poker 2 | 98812 | [98812-sword-and-poker-2.json](./98812-sword-and-poker-2.json) |
 | Sword & Seek | 309847 | [309847-sword-and-seek.json](./309847-sword-and-seek.json) |
 | Sword & Siege Crusades: Book II | 402956 | [402956-sword-and-siege-crusades-book-ii.json](./402956-sword-and-siege-crusades-book-ii.json) |
 | Sword and Expedition: Placing Heroes | 188040 | [188040-sword-and-expedition-placing-heroes.json](./188040-sword-and-expedition-placing-heroes.json) |
