@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
 | Major League Baseball Featuring Ken Griffey Jr. | 3540 | [3540-major-league-baseball-featuring-ken-griffey-jr.json](./3540-major-league-baseball-featuring-ken-griffey-jr.json) |
 | Major League Gladiators | 75817 | [75817-major-league-gladiators.json](./75817-major-league-gladiators.json) |
+| Major League Manager | 70126 | [70126-major-league-manager.json](./70126-major-league-manager.json) |
 | Major Maox | 74754 | [74754-major-maox.json](./74754-major-maox.json) |
 | Majorariatto Museum | 177426 | [177426-majorariatto-museum.json](./177426-majorariatto-museum.json) |
 | Majorelle Mystery | 232705 | [232705-majorelle-mystery.json](./232705-majorelle-mystery.json) |
@@ -906,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mane Box | 237396 | [237396-mane-box.json](./237396-mane-box.json) |
 | Maneater | 46800 | [46800-maneater.json](./46800-maneater.json) |
 | Maneater: Truth Quest | 162622 | [162622-maneater-truth-quest.json](./162622-maneater-truth-quest.json) |
+| Manes | 70083 | [70083-manes.json](./70083-manes.json) |
 | Maneuver Warfare | 293419 | [293419-maneuver-warfare.json](./293419-maneuver-warfare.json) |
 | Maneuver Warfare: CSS Pack | 293423 | [293423-maneuver-warfare-css-pack.json](./293423-maneuver-warfare-css-pack.json) |
 | Maneuver Warfare: Headquarters Pack | 293424 | [293424-maneuver-warfare-headquarters-pack.json](./293424-maneuver-warfare-headquarters-pack.json) |
@@ -1708,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Puzzle: Dream of Arcadia | 151210 | [151210-masters-of-puzzle-dream-of-arcadia.json](./151210-masters-of-puzzle-dream-of-arcadia.json) |
 | Masters of Puzzle: Echoes | 151209 | [151209-masters-of-puzzle-echoes.json](./151209-masters-of-puzzle-echoes.json) |
 | Masters of Puzzle: In Serenity | 151217 | [151217-masters-of-puzzle-in-serenity.json](./151217-masters-of-puzzle-in-serenity.json) |
+| Masters of the Elements | 70117 | [70117-masters-of-the-elements.json](./70117-masters-of-the-elements.json) |
 | Masters of the Universe: The Movie | 30904 | [30904-masters-of-the-universe-the-movie.json](./30904-masters-of-the-universe-the-movie.json) |
 | Masters of the Universe: The Power of He-Man | 5683 | [5683-masters-of-the-universe-the-power-of-he-man.json](./5683-masters-of-the-universe-the-power-of-he-man.json) |
 | Masters: Harukanaru Augusta 3 | 268542 | [268542-masters-harukanaru-augusta-3.json](./268542-masters-harukanaru-augusta-3.json) |
@@ -5361,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortified | 249780 | [249780-mortified.json](./249780-mortified.json) |
 | Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
 | Morto: Chapter 2 | 284497 | [284497-morto-chapter-2.json](./284497-morto-chapter-2.json) |
+| Morton Subotnick's Hearing Music | 70078 | [70078-morton-subotnicks-hearing-music.json](./70078-morton-subotnicks-hearing-music.json) |
 | MorTown | 383528 | [383528-mortown.json](./383528-mortown.json) |
 | Mortu | 408929 | [408929-mortu.json](./408929-mortu.json) |
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
