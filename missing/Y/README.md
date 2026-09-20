@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your courier is on their way! | 192845 | [192845-your-courier-is-on-their-way.json](./192845-your-courier-is-on-their-way.json) |
 | Your Dead Majesty | 149021 | [149021-your-dead-majesty.json](./149021-your-dead-majesty.json) |
 | Your Digital Cookbook | 365738 | [365738-your-digital-cookbook.json](./365738-your-digital-cookbook.json) |
+| Your Fairytale | 97159 | [97159-your-fairytale.json](./97159-your-fairytale.json) |
 | Your Fear | 151000 | [151000-your-fear.json](./151000-your-fear.json) |
 | Your Future 2 Future Prediction | 276455 | [276455-your-future-2-future-prediction.json](./276455-your-future-2-future-prediction.json) |
 | Your God Is False | 336903 | [336903-your-god-is-false.json](./336903-your-god-is-false.json) |
