@@ -2310,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look At Me | 285564 | [285564-look-at-me.json](./285564-look-at-me.json) |
 | Look Closer! | 300405 | [300405-look-closer.json](./300405-look-closer.json) |
 | Look Find Find | 219671 | [219671-look-find-find.json](./219671-look-find-find.json) |
+| Look for Louis | 106383 | [106383-look-for-louis.json](./106383-look-for-louis.json) |
 | Look Outside | 328140 | [328140-look-outside.json](./328140-look-outside.json) |
 | Look Outside: Final Vision | 384618 | [384618-look-outside-final-vision.json](./384618-look-outside-final-vision.json) |
 | Look to the Birds | 414434 | [414434-look-to-the-birds.json](./414434-look-to-the-birds.json) |
