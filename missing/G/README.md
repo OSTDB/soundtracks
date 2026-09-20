@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | 346610 | [346610-game.json](./346610-game.json) |
 | Game (not) Over | 333656 | [333656-game-not-over.json](./333656-game-not-over.json) |
 | Game & Lynx: Critter Championship | 297595 | [297595-game-and-lynx-critter-championship.json](./297595-game-and-lynx-critter-championship.json) |
+| Game & Watch Ball | 76971 | [76971-game-and-watch-ball.json](./76971-game-and-watch-ball.json) |
 | Game & Watch Chef | 84556 | [84556-game-and-watch-chef.json](./84556-game-and-watch-chef.json) |
 | Game & Watch Donkey Kong Jr | 339261 | [339261-game-and-watch-donkey-kong-jr.json](./339261-game-and-watch-donkey-kong-jr.json) |
 | Game & Watch Donkey Kong Jr. | 206932 | [206932-game-and-watch-donkey-kong-jr.json](./206932-game-and-watch-donkey-kong-jr.json) |
@@ -432,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Over Quest | 122330 | [122330-game-over-quest.json](./122330-game-over-quest.json) |
 | Game Over, Daisy! Deluxe | 139260 | [139260-game-over-daisy-deluxe.json](./139260-game-over-daisy-deluxe.json) |
 | Game Over! | 380539 | [380539-game-over.json](./380539-game-over.json) |
+| Game Party 3 | 76982 | [76982-game-party-3.json](./76982-game-party-3.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
 | Game Software wo Tsukurou | 333557 | [333557-game-software-wo-tsukurou.json](./333557-game-software-wo-tsukurou.json) |
@@ -1793,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Opens the Door | 177405 | [177405-god-opens-the-door.json](./177405-god-opens-the-door.json) |
 | God Panic: Shijou Saikyou Gundan | 55887 | [55887-god-panic-shijou-saikyou-gundan.json](./55887-god-panic-shijou-saikyou-gundan.json) |
 | God Pill | 217515 | [217515-god-pill.json](./217515-god-pill.json) |
+| God Starfighter | 76956 | [76956-god-starfighter.json](./76956-god-starfighter.json) |
 | God, Save the Queens! | 406682 | [406682-god-save-the-queens.json](./406682-god-save-the-queens.json) |
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
 | God's Forest | 265133 | [265133-gods-forest.json](./265133-gods-forest.json) |
