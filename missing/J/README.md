@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaguar Suns | 333403 | [333403-jaguar-suns.json](./333403-jaguar-suns.json) |
 | Jaguar XJ220 | 5395 | [5395-jaguar-xj220.json](./5395-jaguar-xj220.json) |
 | Jagun: Clash of Kingdoms | 120350 | [120350-jagun-clash-of-kingdoms.json](./120350-jagun-clash-of-kingdoms.json) |
+| Jagur 5 | 69557 | [69557-jagur-5.json](./69557-jagur-5.json) |
 | Jahmong | 327412 | [327412-jahmong.json](./327412-jahmong.json) |
 | Jahto: Savior of the Sky | 214152 | [214152-jahto-savior-of-the-sky.json](./214152-jahto-savior-of-the-sky.json) |
 | Jai Kali | 368556 | [368556-jai-kali.json](./368556-jai-kali.json) |
