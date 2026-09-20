@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Queendoms | 110609 | [110609-king-of-queendoms.json](./110609-king-of-queendoms.json) |
 | King of Retail | 113053 | [113053-king-of-retail.json](./113053-king-of-retail.json) |
 | King of Retail 2 | 295897 | [295897-king-of-retail-2.json](./295897-king-of-retail-2.json) |
+| King of Scooter | 91142 | [91142-king-of-scooter.json](./91142-king-of-scooter.json) |
 | King of Seas | 136091 | [136091-king-of-seas.json](./136091-king-of-seas.json) |
 | King of Snatchers | 306338 | [306338-king-of-snatchers.json](./306338-king-of-snatchers.json) |
 | King of Space | 345515 | [345515-king-of-space.json](./345515-king-of-space.json) |
@@ -1704,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KrabbitWorld Origins | 67297 | [67297-krabbitworld-origins.json](./67297-krabbitworld-origins.json) |
 | Kraft & Slash | 176348 | [176348-kraft-and-slash.json](./176348-kraft-and-slash.json) |
 | Krafteers | 174863 | [174863-krafteers.json](./174863-krafteers.json) |
+| Kraino | 91143 | [91143-kraino.json](./91143-kraino.json) |
 | Krakatoa | 45368 | [45368-krakatoa.json](./45368-krakatoa.json) |
 | Krakels ABC: Den galna dammsugaren | 97704 | [97704-krakels-abc-den-galna-dammsugaren.json](./97704-krakels-abc-den-galna-dammsugaren.json) |
 | Krakels ABC: Det Magiska Äventyret | 97703 | [97703-krakels-abc-det-magiska-aventyret.json](./97703-krakels-abc-det-magiska-aventyret.json) |
