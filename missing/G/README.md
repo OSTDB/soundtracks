@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game About Jetpack Fly | 320537 | [320537-game-about-jetpack-fly.json](./320537-game-about-jetpack-fly.json) |
 | Game Boy Camera Memory | 328594 | [328594-game-boy-camera-memory.json](./328594-game-boy-camera-memory.json) |
 | Game Boy Camera: Gold Zelda Edition | 228549 | [228549-game-boy-camera-gold-zelda-edition.json](./228549-game-boy-camera-gold-zelda-edition.json) |
+| Game Builder | 119578 | [119578-game-builder.json](./119578-game-builder.json) |
 | Game Builder Garage | 146762 | [146762-game-builder-garage.json](./146762-game-builder-garage.json) |
 | Game Cafe Escape | 261881 | [261881-game-cafe-escape.json](./261881-game-cafe-escape.json) |
 | Game Chinese | 105949 | [105949-game-chinese.json](./105949-game-chinese.json) |
