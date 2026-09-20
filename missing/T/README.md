@@ -3614,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idiot's Tale | 87956 | [87956-the-idiots-tale.json](./87956-the-idiots-tale.json) |
 | The Idle | 290006 | [290006-the-idle.json](./290006-the-idle.json) |
 | The Idolmaster Heardle | 205625 | [205625-the-idolmaster-heardle.json](./205625-the-idolmaster-heardle.json) |
+| The Idolmaster: Gravure for You! Vol. 6 | 65224 | [65224-the-idolmaster-gravure-for-you-vol-6.json](./65224-the-idolmaster-gravure-for-you-vol-6.json) |
 | The Idolmaster: Gravure for You! Vol. 8 | 79352 | [79352-the-idolmaster-gravure-for-you-vol-8.json](./79352-the-idolmaster-gravure-for-you-vol-8.json) |
 | The Idolmaster: Shiny Colors | 97876 | [97876-the-idolmaster-shiny-colors.json](./97876-the-idolmaster-shiny-colors.json) |
 | The Idolmaster: Shiny Colors - Song for Prism | 248115 | [248115-the-idolmaster-shiny-colors-song-for-prism.json](./248115-the-idolmaster-shiny-colors-song-for-prism.json) |
@@ -5785,6 +5786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Musketeers: One For All! | 20486 | [20486-the-three-musketeers-one-for-all.json](./20486-the-three-musketeers-one-for-all.json) |
 | The Three Stooges | 25690 | [25690-the-three-stooges.json](./25690-the-three-stooges.json) |
 | The Three Stooges | 264852 | [264852-the-three-stooges.json](./264852-the-three-stooges.json) |
+| The Three Stooges: Treasure Hunt Hijinks | 65184 | [65184-the-three-stooges-treasure-hunt-hijinks.json](./65184-the-three-stooges-treasure-hunt-hijinks.json) |
 | The Three-Body Problem | 135694 | [135694-the-three-body-problem.json](./135694-the-three-body-problem.json) |
 | The Throne | 144329 | [144329-the-throne.json](./144329-the-throne.json) |
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
@@ -8746,6 +8748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Soccer | 128380 | [128380-touhou-soccer.json](./128380-touhou-soccer.json) |
 | Touhou Soccer Moushuuden | 128381 | [128381-touhou-soccer-moushuuden.json](./128381-touhou-soccer-moushuuden.json) |
 | Touhou Soujinengi V: The Genius of Sappheiros | 105121 | [105121-touhou-soujinengi-v-the-genius-of-sappheiros.json](./105121-touhou-soujinengi-v-the-genius-of-sappheiros.json) |
+| Touhou Soujinengi: The Genius of Sappheiros | 65194 | [65194-touhou-soujinengi-the-genius-of-sappheiros.json](./65194-touhou-soujinengi-the-genius-of-sappheiros.json) |
 | Touhou Spell Bubble | 131922 | [131922-touhou-spell-bubble.json](./131922-touhou-spell-bubble.json) |
 | Touhou Spell Bubble: Akatsuki Records Song Pack | 209154 | [209154-touhou-spell-bubble-akatsuki-records-song-pack.json](./209154-touhou-spell-bubble-akatsuki-records-song-pack.json) |
 | Touhou Spell Bubble: Character Pack Hata no Kokoro | 209525 | [209525-touhou-spell-bubble-character-pack-hata-no-kokoro.json](./209525-touhou-spell-bubble-character-pack-hata-no-kokoro.json) |
@@ -9801,6 +9804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travellers | 172033 | [172033-travellers.json](./172033-travellers.json) |
 | Travellin Cats in Paris | 239812 | [239812-travellin-cats-in-paris.json](./239812-travellin-cats-in-paris.json) |
 | Travelling Light | 404812 | [404812-travelling-light.json](./404812-travelling-light.json) |
+| Travelogue 360: Paris | 65182 | [65182-travelogue-360-paris.json](./65182-travelogue-360-paris.json) |
 | Traveloot | 392163 | [392163-traveloot.json](./392163-traveloot.json) |
 | Traverse: Starlight & Prairie | 37782 | [37782-traverse-starlight-and-prairie.json](./37782-traverse-starlight-and-prairie.json) |
 | Travian: Kingdoms | 31910 | [31910-travian-kingdoms.json](./31910-travian-kingdoms.json) |
