@@ -3295,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Rising | 338257 | [338257-blood-rising.json](./338257-blood-rising.json) |
 | Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
 | Blood Running: Prologue | 293388 | [293388-blood-running-prologue.json](./293388-blood-running-prologue.json) |
+| Blood Runs Cold | 124614 | [124614-blood-runs-cold.json](./124614-blood-runs-cold.json) |
 | Blood Safari | 165662 | [165662-blood-safari.json](./165662-blood-safari.json) |
 | Blood Samurai | 256918 | [256918-blood-samurai.json](./256918-blood-samurai.json) |
 | Blood Samurai: Night of Slaughter | 227851 | [227851-blood-samurai-night-of-slaughter.json](./227851-blood-samurai-night-of-slaughter.json) |
@@ -4714,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Pact | 357319 | [357319-broken-pact.json](./357319-broken-pact.json) |
 | Broken Paradox | 346689 | [346689-broken-paradox.json](./346689-broken-paradox.json) |
 | Broken Pearl | 223554 | [223554-broken-pearl.json](./223554-broken-pearl.json) |
+| Broken Puppet | 124607 | [124607-broken-puppet.json](./124607-broken-puppet.json) |
 | Broken Ranks | 162520 | [162520-broken-ranks.json](./162520-broken-ranks.json) |
 | Broken Reality 2000 | 226272 | [226272-broken-reality-2000.json](./226272-broken-reality-2000.json) |
 | Broken Robot | 152840 | [152840-broken-robot.json](./152840-broken-robot.json) |
