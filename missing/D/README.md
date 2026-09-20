@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Land | 303096 | [303096-dangerous-land.json](./303096-dangerous-land.json) |
 | Dangerous Line | 327827 | [327827-dangerous-line.json](./327827-dangerous-line.json) |
 | Dangerous Solitaire: Zombie Fever | 148931 | [148931-dangerous-solitaire-zombie-fever.json](./148931-dangerous-solitaire-zombie-fever.json) |
+| Dangerous Streets / Wing Commander | 82504 | [82504-dangerous-streets-wing-commander.json](./82504-dangerous-streets-wing-commander.json) |
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
 | DangerousPath | 369640 | [369640-dangerouspath.json](./369640-dangerouspath.json) |
 | Dangers Afloat | 176459 | [176459-dangers-afloat.json](./176459-dangers-afloat.json) |
@@ -2219,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Forsaken Pack | 227352 | [227352-destiny-2-forsaken-pack.json](./227352-destiny-2-forsaken-pack.json) |
 | Destiny 2: Heresy Silver Bundle | 330703 | [330703-destiny-2-heresy-silver-bundle.json](./330703-destiny-2-heresy-silver-bundle.json) |
 | Destiny 2: Into The Light | 291624 | [291624-destiny-2-into-the-light.json](./291624-destiny-2-into-the-light.json) |
+| Destiny 2: Launch Edition | 82386 | [82386-destiny-2-launch-edition.json](./82386-destiny-2-launch-edition.json) |
 | Destiny 2: Legacy Collection | 192302 | [192302-destiny-2-legacy-collection.json](./192302-destiny-2-legacy-collection.json) |
 | Destiny 2: Lightfall - Season of the Deep | 250021 | [250021-destiny-2-lightfall-season-of-the-deep.json](./250021-destiny-2-lightfall-season-of-the-deep.json) |
 | Destiny 2: Limited Edition | 132151 | [132151-destiny-2-limited-edition.json](./132151-destiny-2-limited-edition.json) |
