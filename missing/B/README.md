@@ -2265,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Screen Games: Pack 1 | 197383 | [197383-big-screen-games-pack-1.json](./197383-big-screen-games-pack-1.json) |
 | Big Sea | 14301 | [14301-big-sea.json](./14301-big-sea.json) |
 | Big Sea: The Better One Will Win | 69215 | [69215-big-sea-the-better-one-will-win.json](./69215-big-sea-the-better-one-will-win.json) |
+| Big Shot Basketball | 116160 | [116160-big-shot-basketball.json](./116160-big-shot-basketball.json) |
 | Big Shot Swish | 120804 | [120804-big-shot-swish.json](./120804-big-shot-swish.json) |
 | Big Sister's Ass | 97834 | [97834-big-sisters-ass.json](./97834-big-sisters-ass.json) |
 | Big Sky Country: Book 1 | 313717 | [313717-big-sky-country-book-1.json](./313717-big-sky-country-book-1.json) |
@@ -3753,6 +3754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
 | Bomber Cat Run | 317860 | [317860-bomber-cat-run.json](./317860-bomber-cat-run.json) |
+| Bomber Crew: American Edition | 116147 | [116147-bomber-crew-american-edition.json](./116147-bomber-crew-american-edition.json) |
 | Bomber Crew: Deluxe Edition | 118956 | [118956-bomber-crew-deluxe-edition.json](./118956-bomber-crew-deluxe-edition.json) |
 | Bomber Crew: Skin Pack | 265253 | [265253-bomber-crew-skin-pack.json](./265253-bomber-crew-skin-pack.json) |
 | Bomber Dudes | 169373 | [169373-bomber-dudes.json](./169373-bomber-dudes.json) |
@@ -4327,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Memory: Premium Edition | 241394 | [241394-brain-memory-premium-edition.json](./241394-brain-memory-premium-edition.json) |
 | Brain Off | 172101 | [172101-brain-off.json](./172101-brain-off.json) |
 | Brain On: Can You Pass It? | 224089 | [224089-brain-on-can-you-pass-it.json](./224089-brain-on-can-you-pass-it.json) |
+| Brain Pump | 116155 | [116155-brain-pump.json](./116155-brain-pump.json) |
 | Brain Puzzle | 90203 | [90203-brain-puzzle.json](./90203-brain-puzzle.json) |
 | Brain Sanguo | 158666 | [158666-brain-sanguo.json](./158666-brain-sanguo.json) |
 | Brain Spa | 69207 | [69207-brain-spa.json](./69207-brain-spa.json) |
@@ -4999,6 +5002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buffy the Vampire Slayer: Sacrifice | 21130 | [21130-buffy-the-vampire-slayer-sacrifice.json](./21130-buffy-the-vampire-slayer-sacrifice.json) |
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
+| Bug Aviators in Theme Park | 116163 | [116163-bug-aviators-in-theme-park.json](./116163-bug-aviators-in-theme-park.json) |
 | Bug Catcher | 287651 | [287651-bug-catcher.json](./287651-bug-catcher.json) |
 | Bug Cleaners | 336030 | [336030-bug-cleaners.json](./336030-bug-cleaners.json) |
 | Bug Dates | 206974 | [206974-bug-dates.json](./206974-bug-dates.json) |
@@ -5414,6 +5418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butcher Life Simulator | 391582 | [391582-butcher-life-simulator.json](./391582-butcher-life-simulator.json) |
 | Butcher Valley | 168216 | [168216-butcher-valley.json](./168216-butcher-valley.json) |
 | Butcher's Creek | 260119 | [260119-butchers-creek.json](./260119-butchers-creek.json) |
+| ButcherBox | 116105 | [116105-butcherbox.json](./116105-butcherbox.json) |
 | ButcherBoy | 95605 | [95605-butcherboy.json](./95605-butcherboy.json) |
 | Butcherman | 388746 | [388746-butcherman.json](./388746-butcherman.json) |
 | Butchers Don't Surf! | 243228 | [243228-butchers-dont-surf.json](./243228-butchers-dont-surf.json) |
