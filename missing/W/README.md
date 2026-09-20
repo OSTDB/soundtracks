@@ -2067,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry Squared | 149567 | [149567-wizardry-squared.json](./149567-wizardry-squared.json) |
 | Wizardry Twin Pack | 125955 | [125955-wizardry-twin-pack.json](./125955-wizardry-twin-pack.json) |
 | Wizardry: Boukyaku no Isan | 245027 | [245027-wizardry-boukyaku-no-isan.json](./245027-wizardry-boukyaku-no-isan.json) |
+| Wizardry: Inochi no Kusabi | 85870 | [85870-wizardry-inochi-no-kusabi.json](./85870-wizardry-inochi-no-kusabi.json) |
 | Wizardry: Knight of Diamonds - The Second Scenario | 2865 | [2865-wizardry-knight-of-diamonds-the-second-scenario.json](./2865-wizardry-knight-of-diamonds-the-second-scenario.json) |
 | Wizardry: The Five Ordeals | 151699 | [151699-wizardry-the-five-ordeals.json](./151699-wizardry-the-five-ordeals.json) |
 | Wizardry: The Return of Werdna - The Fourth Scenario | 2885 | [2885-wizardry-the-return-of-werdna-the-fourth-scenario.json](./2885-wizardry-the-return-of-werdna-the-fourth-scenario.json) |
