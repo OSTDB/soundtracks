@@ -3739,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Sushi: Turbo | 210749 | [210749-the-jumping-sushi-turbo.json](./210749-the-jumping-sushi-turbo.json) |
 | The Jumping Taco | 205240 | [205240-the-jumping-taco.json](./205240-the-jumping-taco.json) |
 | The Jumping Taco: Turbo | 210748 | [210748-the-jumping-taco-turbo.json](./210748-the-jumping-taco-turbo.json) |
+| The Jungle | 82395 | [82395-the-jungle.json](./82395-the-jungle.json) |
 | The Junuary Project | 233603 | [233603-the-junuary-project.json](./233603-the-junuary-project.json) |
 | The Jusou 3 | 289994 | [289994-the-jusou-3.json](./289994-the-jusou-3.json) |
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
@@ -4584,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nations | 9172 | [9172-the-nations.json](./9172-the-nations.json) |
 | The Nations: Land of Legends | 49866 | [49866-the-nations-land-of-legends.json](./49866-the-nations-land-of-legends.json) |
 | The Necessary Evil | 415102 | [415102-the-necessary-evil.json](./415102-the-necessary-evil.json) |
+| The Necromancer's Castle | 82462 | [82462-the-necromancers-castle.json](./82462-the-necromancers-castle.json) |
 | The Neighbor: Escape Room | 309505 | [309505-the-neighbor-escape-room.json](./309505-the-neighbor-escape-room.json) |
 | The Neon Mate | 137483 | [137483-the-neon-mate.json](./137483-the-neon-mate.json) |
 | The Neroe | 199492 | [199492-the-neroe.json](./199492-the-neroe.json) |
@@ -4806,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pit and the Pendulum | 32957 | [32957-the-pit-and-the-pendulum.json](./32957-the-pit-and-the-pendulum.json) |
 | The Pixel has You | 327198 | [327198-the-pixel-has-you.json](./327198-the-pixel-has-you.json) |
 | The Pizza Delivery Boy Who Saved the World | 100595 | [100595-the-pizza-delivery-boy-who-saved-the-world.json](./100595-the-pizza-delivery-boy-who-saved-the-world.json) |
+| The Placebos | 82478 | [82478-the-placebos.json](./82478-the-placebos.json) |
 | The Plague | 26707 | [26707-the-plague.json](./26707-the-plague.json) |
 | The Planet Crafter: Planet Humble | 317867 | [317867-the-planet-crafter-planet-humble.json](./317867-the-planet-crafter-planet-humble.json) |
 | The Plant | 105135 | [105135-the-plant.json](./105135-the-plant.json) |
@@ -8662,6 +8665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touka Gettan: Koufuu no Ryouou | 287638 | [287638-touka-gettan-koufuu-no-ryouou.json](./287638-touka-gettan-koufuu-no-ryouou.json) |
 | Touka Gettan: Koufuu no Ryouou Deluxe Pack | 287640 | [287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json](./287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json) |
 | Touken Ranbu: Online Pocket | 194031 | [194031-touken-ranbu-online-pocket.json](./194031-touken-ranbu-online-pocket.json) |
+| Touki Kyouka | 82490 | [82490-touki-kyouka.json](./82490-touki-kyouka.json) |
 | Toukiden: The Age of Demons | 8658 | [8658-toukiden-the-age-of-demons.json](./8658-toukiden-the-age-of-demons.json) |
 | Touko in Underland | 312764 | [312764-touko-in-underland.json](./312764-touko-in-underland.json) |
 | Toumayhem | 202857 | [202857-toumayhem.json](./202857-toumayhem.json) |
