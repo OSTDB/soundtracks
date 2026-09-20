@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M Hard | 257654 | [257654-m-hard.json](./257654-m-hard.json) |
 | M Hold'em | 247198 | [247198-m-holdem.json](./247198-m-holdem.json) |
 | M-79 Ambush | 123021 | [123021-m-79-ambush.json](./123021-m-79-ambush.json) |
+| M. I. A. - Missing In Action | 76199 | [76199-m-i-a-missing-in-action.json](./76199-m-i-a-missing-in-action.json) |
 | M. Stain | 356108 | [356108-m-stain.json](./356108-m-stain.json) |
 | M.A.C.H | 44508 | [44508-m-a-c-h.json](./44508-m-a-c-h.json) |
 | M.A.C.S. | 90645 | [90645-m-a-c-s.json](./90645-m-a-c-s.json) |
@@ -37,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M00m World | 323761 | [323761-m00m-world.json](./323761-m00m-world.json) |
 | M13n: Miniaturization | 336544 | [336544-m13n-miniaturization.json](./336544-m13n-miniaturization.json) |
 | M25 Racer | 12896 | [12896-m25-racer.json](./12896-m25-racer.json) |
+| M2xM4 | 76240 | [76240-m2xm4.json](./76240-m2xm4.json) |
 | M3 - Molesting the Match-3 Market | 94232 | [94232-m3-molesting-the-match-3-market.json](./94232-m3-molesting-the-match-3-market.json) |
 | M3 Sono Kuroki Hagane: Mission Memento Mori | 61663 | [61663-m3-sono-kuroki-hagane-mission-memento-mori.json](./61663-m3-sono-kuroki-hagane-mission-memento-mori.json) |
 | Ma première visite à la tour du sens | 345578 | [345578-ma-premiere-visite-a-la-tour-du-sens.json](./345578-ma-premiere-visite-a-la-tour-du-sens.json) |
@@ -2393,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X2: Proto Edition | 219083 | [219083-mega-man-x2-proto-edition.json](./219083-mega-man-x2-proto-edition.json) |
 | Mega Man X3 | 282138 | [282138-mega-man-x3.json](./282138-mega-man-x3.json) |
 | Mega Man X3: Proto Edition | 219082 | [219082-mega-man-x3-proto-edition.json](./219082-mega-man-x3-proto-edition.json) |
+| Mega Man X3: Zero Project | 76204 | [76204-mega-man-x3-zero-project.json](./76204-mega-man-x3-zero-project.json) |
 | Mega Man X5 Improvement Project | 196256 | [196256-mega-man-x5-improvement-project.json](./196256-mega-man-x5-improvement-project.json) |
 | Mega Man X5: Improvement Project Addendum | 308384 | [308384-mega-man-x5-improvement-project-addendum.json](./308384-mega-man-x5-improvement-project-addendum.json) |
 | Mega Man X6 Tweaks | 187363 | [187363-mega-man-x6-tweaks.json](./187363-mega-man-x6-tweaks.json) |
@@ -6506,6 +6509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Trainer is a Futanari | 207328 | [207328-my-trainer-is-a-futanari.json](./207328-my-trainer-is-a-futanari.json) |
 | My Tribe 3D | 223991 | [223991-my-tribe-3d.json](./223991-my-tribe-3d.json) |
 | My U.S. Trucking Skills | 316855 | [316855-my-u-s-trucking-skills.json](./316855-my-u-s-trucking-skills.json) |
+| My Uncle Merlin | 76236 | [76236-my-uncle-merlin.json](./76236-my-uncle-merlin.json) |
 | My Uncle's Garden | 229776 | [229776-my-uncles-garden.json](./229776-my-uncles-garden.json) |
 | My Universe: Fashion Boutique | 139215 | [139215-my-universe-fashion-boutique.json](./139215-my-universe-fashion-boutique.json) |
 | My Universe: My Baby - New Edition | 170028 | [170028-my-universe-my-baby-new-edition.json](./170028-my-universe-my-baby-new-edition.json) |
