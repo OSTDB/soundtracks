@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game of Concentration | 40723 | [40723-a-game-of-concentration.json](./40723-a-game-of-concentration.json) |
 | A Game of Dwarves: Star Dwarves | 171034 | [171034-a-game-of-dwarves-star-dwarves.json](./171034-a-game-of-dwarves-star-dwarves.json) |
 | A Game That Rhymes With Grug | 351703 | [351703-a-game-that-rhymes-with-grug.json](./351703-a-game-that-rhymes-with-grug.json) |
+| A Game With a Kitty | 74789 | [74789-a-game-with-a-kitty.json](./74789-a-game-with-a-kitty.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gay's Life | 129939 | [129939-a-gays-life.json](./129939-a-gays-life.json) |
@@ -864,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Sun | 180815 | [180815-after-sun.json](./180815-after-sun.json) |
 | After the Curtain Call | 377042 | [377042-after-the-curtain-call.json](./377042-after-the-curtain-call.json) |
 | After The End | 323963 | [323963-after-the-end.json](./323963-after-the-end.json) |
+| After the End: Forsaken Destiny | 74792 | [74792-after-the-end-forsaken-destiny.json](./74792-after-the-end-forsaken-destiny.json) |
 | After the Fall | 119330 | [119330-after-the-fall.json](./119330-after-the-fall.json) |
 | After the Fall: Frontrunner Season | 204497 | [204497-after-the-fall-frontrunner-season.json](./204497-after-the-fall-frontrunner-season.json) |
 | After the Fall: Launch Edition | 196313 | [196313-after-the-fall-launch-edition.json](./196313-after-the-fall-launch-edition.json) |
@@ -2700,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Wave Simulator | 156668 | [156668-anime-wave-simulator.json](./156668-anime-wave-simulator.json) |
 | Anime-dle | 337089 | [337089-anime-dle.json](./337089-anime-dle.json) |
 | Anime: Fantasy Uni | 393625 | [393625-anime-fantasy-uni.json](./393625-anime-fantasy-uni.json) |
+| Animelee | 74774 | [74774-animelee.json](./74774-animelee.json) |
 | Animentals | 387361 | [387361-animentals.json](./387361-animentals.json) |
 | Animetic Story Game 1: Cardcaptor Sakura | 132867 | [132867-animetic-story-game-1-cardcaptor-sakura.json](./132867-animetic-story-game-1-cardcaptor-sakura.json) |
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
