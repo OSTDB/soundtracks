@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wack Track Pack | 358318 | [358318-wack-track-pack.json](./358318-wack-track-pack.json) |
 | Wacktory | 121609 | [121609-wacktory.json](./121609-wacktory.json) |
 | Wacky Chariots | 196887 | [196887-wacky-chariots.json](./196887-wacky-chariots.json) |
+| Wacky Darts | 93352 | [93352-wacky-darts.json](./93352-wacky-darts.json) |
 | Wacky Races | 12817 | [12817-wacky-races.json](./12817-wacky-races.json) |
 | Wacky Races | 81547 | [81547-wacky-races.json](./81547-wacky-races.json) |
 | Wacky Soldiers | 123560 | [123560-wacky-soldiers.json](./123560-wacky-soldiers.json) |
@@ -2352,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Whammer | 328210 | [328210-word-whammer.json](./328210-word-whammer.json) |
 | Word Wheel by Powgi | 119539 | [119539-word-wheel-by-powgi.json](./119539-word-wheel-by-powgi.json) |
 | Word Whisper | 254163 | [254163-word-whisper.json](./254163-word-whisper.json) |
+| Word Whiz | 93345 | [93345-word-whiz.json](./93345-word-whiz.json) |
 | Word Whomp HD | 318610 | [318610-word-whomp-hd.json](./318610-word-whomp-hd.json) |
 | Word Wise | 157723 | [157723-word-wise.json](./157723-word-wise.json) |
 | Word Worm | 229344 | [229344-word-worm.json](./229344-word-worm.json) |
