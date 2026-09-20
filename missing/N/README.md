@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights 2: Platinum | 28972 | [28972-neverwinter-nights-2-platinum.json](./28972-neverwinter-nights-2-platinum.json) |
 | Neverwinter Nights: Dark Dreams of Furiae | 155077 | [155077-neverwinter-nights-dark-dreams-of-furiae.json](./155077-neverwinter-nights-dark-dreams-of-furiae.json) |
 | Neverwinter Nights: Gold Edition | 210036 | [210036-neverwinter-nights-gold-edition.json](./210036-neverwinter-nights-gold-edition.json) |
+| Neverwinter: Undermountain | 115474 | [115474-neverwinter-undermountain.json](./115474-neverwinter-undermountain.json) |
 | Nevrosa: Escape | 68172 | [68172-nevrosa-escape.json](./68172-nevrosa-escape.json) |
 | Nevryon | 261332 | [261332-nevryon.json](./261332-nevryon.json) |
 | Nevsky Run | 110389 | [110389-nevsky-run.json](./110389-nevsky-run.json) |
