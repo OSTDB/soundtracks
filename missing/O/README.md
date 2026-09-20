@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Decathlon | 78618 | [78618-olympic-decathlon.json](./78618-olympic-decathlon.json) |
 | Olympique de Marseille Club Football 2005 | 267907 | [267907-olympique-de-marseille-club-football-2005.json](./267907-olympique-de-marseille-club-football-2005.json) |
 | Olympus 2207 | 219118 | [219118-olympus-2207.json](./219118-olympus-2207.json) |
+| Olympus Rising: Hero Defense | 106964 | [106964-olympus-rising-hero-defense.json](./106964-olympus-rising-hero-defense.json) |
 | Om Nom Solitaire | 183608 | [183608-om-nom-solitaire.json](./183608-om-nom-solitaire.json) |
 | Om Nom: Run - Costumes and Themes | 251666 | [251666-om-nom-run-costumes-and-themes.json](./251666-om-nom-run-costumes-and-themes.json) |
 | Om Nom: Run - Ultimate Edition | 251667 | [251667-om-nom-run-ultimate-edition.json](./251667-om-nom-run-ultimate-edition.json) |
@@ -1879,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owlette's Playground Cleanup | 359435 | [359435-owlettes-playground-cleanup.json](./359435-owlettes-playground-cleanup.json) |
 | Owling. Crowling. Bowling! | 115613 | [115613-owling-crowling-bowling.json](./115613-owling-crowling-bowling.json) |
 | Owlman | 238637 | [238637-owlman.json](./238637-owlman.json) |
+| Owls - A matching game for kids. | 106994 | [106994-owls-a-matching-game-for-kids.json](./106994-owls-a-matching-game-for-kids.json) |
 | Own Coffee Shop | 120342 | [120342-own-coffee-shop.json](./120342-own-coffee-shop.json) |
 | Owner | 295528 | [295528-owner.json](./295528-owner.json) |
 | OwnRulesRPG | 259845 | [259845-ownrulesrpg.json](./259845-ownrulesrpg.json) |
