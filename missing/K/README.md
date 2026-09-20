@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaboom Swing | 179151 | [179151-kaboom-swing.json](./179151-kaboom-swing.json) |
 | Kaboom! | 172030 | [172030-kaboom.json](./172030-kaboom.json) |
 | Kabuki-chou Reach Mahjong: Toupuusen | 42630 | [42630-kabuki-chou-reach-mahjong-toupuusen.json](./42630-kabuki-chou-reach-mahjong-toupuusen.json) |
+| Kabushiki Baibai Trainer Kabutore | 72977 | [72977-kabushiki-baibai-trainer-kabutore.json](./72977-kabushiki-baibai-trainer-kabutore.json) |
 | Kabuto | 239776 | [239776-kabuto.json](./239776-kabuto.json) |
 | Kabuto Kuwagata | 242093 | [242093-kabuto-kuwagata.json](./242093-kabuto-kuwagata.json) |
 | Kader Mühürleri | 86127 | [86127-kader-muhurleri.json](./86127-kader-muhurleri.json) |
