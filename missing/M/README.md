@@ -1759,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathemagics, An Interactive Learning Cube | 37123 | [37123-mathemagics-an-interactive-learning-cube.json](./37123-mathemagics-an-interactive-learning-cube.json) |
 | Mathematic Adventures | 149423 | [149423-mathematic-adventures.json](./149423-mathematic-adventures.json) |
 | Mathematician | 377078 | [377078-mathematician.json](./377078-mathematician.json) |
+| Mathematiqa - Brain Game | 106977 | [106977-mathematiqa-brain-game.json](./106977-mathematiqa-brain-game.json) |
 | MathJelly | 386854 | [386854-mathjelly.json](./386854-mathjelly.json) |
 | MathLand | 146687 | [146687-mathland.json](./146687-mathland.json) |
 | Mathomatics | 190215 | [190215-mathomatics.json](./190215-mathomatics.json) |
@@ -3059,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mhystaria | 347775 | [347775-mhystaria.json](./347775-mhystaria.json) |
 | Mia | 169370 | [169370-mia.json](./169370-mia.json) |
 | Mia & Mio | 388752 | [388752-mia-and-mio.json](./388752-mia-and-mio.json) |
+| Mia and me: Freedom for Centopia | 107003 | [107003-mia-and-me-freedom-for-centopia.json](./107003-mia-and-me-freedom-for-centopia.json) |
 | Mia Hamm Soccer | 362900 | [362900-mia-hamm-soccer.json](./362900-mia-hamm-soccer.json) |
 | MIA Online | 135806 | [135806-mia-online.json](./135806-mia-online.json) |
 | MIA: Memory Fragments | 404202 | [404202-mia-memory-fragments.json](./404202-mia-memory-fragments.json) |
@@ -6101,7 +6103,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hidden Dreams | 339928 | [339928-my-hidden-dreams.json](./339928-my-hidden-dreams.json) |
 | My High School Cat Girlfriend | 206155 | [206155-my-high-school-cat-girlfriend.json](./206155-my-high-school-cat-girlfriend.json) |
 | My Hole is a Mouth of Dirt | 131594 | [131594-my-hole-is-a-mouth-of-dirt.json](./131594-my-hole-is-a-mouth-of-dirt.json) |
+| My Holiday Car | 106996 | [106996-my-holiday-car.json](./106996-my-holiday-car.json) |
 | My Holiness the Gobliness | 235355 | [235355-my-holiness-the-gobliness.json](./235355-my-holiness-the-gobliness.json) |
+| My Home - Design Dreams | 107000 | [107000-my-home-design-dreams.json](./107000-my-home-design-dreams.json) |
 | My Home Design: Makeover Games | 239043 | [239043-my-home-design-makeover-games.json](./239043-my-home-design-makeover-games.json) |
 | My Home Poltergeist | 158692 | [158692-my-home-poltergeist.json](./158692-my-home-poltergeist.json) |
 | My Home Town | 166144 | [166144-my-home-town.json](./166144-my-home-town.json) |
@@ -6453,6 +6457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Masters: Wicked Worlds Collection | 201860 | [201860-mystery-masters-wicked-worlds-collection.json](./201860-mystery-masters-wicked-worlds-collection.json) |
 | Mystery Mine | 30134 | [30134-mystery-mine.json](./30134-mystery-mine.json) |
 | Mystery Museum | 146858 | [146858-mystery-museum.json](./146858-mystery-museum.json) |
+| Mystery of Ancients: Dagger | 106989 | [106989-mystery-of-ancients-dagger.json](./106989-mystery-of-ancients-dagger.json) |
 | Mystery of Camp Enigma | 147447 | [147447-mystery-of-camp-enigma.json](./147447-mystery-of-camp-enigma.json) |
 | Mystery of Fortune 3 | 175263 | [175263-mystery-of-fortune-3.json](./175263-mystery-of-fortune-3.json) |
 | Mystery of Gevaudan | 332448 | [332448-mystery-of-gevaudan.json](./332448-mystery-of-gevaudan.json) |
