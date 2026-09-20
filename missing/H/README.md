@@ -3878,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
 | Hustler | 92282 | [92282-hustler.json](./92282-hustler.json) |
 | Huts | 129575 | [129575-huts.json](./129575-huts.json) |
+| Huuma Mina: The Game | 82501 | [82501-huuma-mina-the-game.json](./82501-huuma-mina-the-game.json) |
 | Hv Rebellion | 184568 | [184568-hv-rebellion.json](./184568-hv-rebellion.json) |
 | HVR | 91099 | [91099-hvr.json](./91099-hvr.json) |
 | HVRGun | 29707 | [29707-hvrgun.json](./29707-hvrgun.json) |
