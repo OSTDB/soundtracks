@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
 | Deathbound: Accepted by Death | 320735 | [320735-deathbound-accepted-by-death.json](./320735-deathbound-accepted-by-death.json) |
 | Deathbulge: Battle of the Bands | 114778 | [114778-deathbulge-battle-of-the-bands.json](./114778-deathbulge-battle-of-the-bands.json) |
+| Deathchase 2002 | 71775 | [71775-deathchase-2002.json](./71775-deathchase-2002.json) |
 | Deathdays End | 111478 | [111478-deathdays-end.json](./111478-deathdays-end.json) |
 | Deathgarden: Bloodharvest | 119923 | [119923-deathgarden-bloodharvest.json](./119923-deathgarden-bloodharvest.json) |
 | DeathGearX | 312728 | [312728-deathgearx.json](./312728-deathgearx.json) |
@@ -2363,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detox | 181882 | [181882-detox.json](./181882-detox.json) |
 | Detra | 345560 | [345560-detra.json](./345560-detra.json) |
 | Detritus | 192392 | [192392-detritus.json](./192392-detritus.json) |
+| Detroit | 71813 | [71813-detroit.json](./71813-detroit.json) |
 | Detuned | 239317 | [239317-detuned.json](./239317-detuned.json) |
 | Deuces Wild: Video Poker | 147833 | [147833-deuces-wild-video-poker.json](./147833-deuces-wild-video-poker.json) |
 | Deus | 10858 | [10858-deus.json](./10858-deus.json) |
@@ -3030,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples II: Gallean's Return | 19351 | [19351-disciples-ii-galleans-return.json](./19351-disciples-ii-galleans-return.json) |
 | Disciples II: Guardians of the Light | 11403 | [11403-disciples-ii-guardians-of-the-light.json](./11403-disciples-ii-guardians-of-the-light.json) |
 | Disciples II: Rise of the Elves | 11404 | [11404-disciples-ii-rise-of-the-elves.json](./11404-disciples-ii-rise-of-the-elves.json) |
+| Disciples of Steel | 71793 | [71793-disciples-of-steel.json](./71793-disciples-of-steel.json) |
 | Disciples of Varahces | 263029 | [263029-disciples-of-varahces.json](./263029-disciples-of-varahces.json) |
 | Disciples: Liberation - Deluxe Edition | 174188 | [174188-disciples-liberation-deluxe-edition.json](./174188-disciples-liberation-deluxe-edition.json) |
 | Disciples: Sacred Lands Gold | 11405 | [11405-disciples-sacred-lands-gold.json](./11405-disciples-sacred-lands-gold.json) |
