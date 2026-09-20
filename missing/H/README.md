@@ -2989,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope | 312738 | [312738-hope.json](./312738-hope.json) |
 | Hope 01 | 398473 | [398473-hope-01.json](./398473-hope-01.json) |
 | Hope Deferred | 337992 | [337992-hope-deferred.json](./337992-hope-deferred.json) |
+| Hope for City | 122163 | [122163-hope-for-city.json](./122163-hope-for-city.json) |
 | Hope for Village | 116813 | [116813-hope-for-village.json](./116813-hope-for-village.json) |
 | Hope in Hell | 34277 | [34277-hope-in-hell.json](./34277-hope-in-hell.json) |
 | Hope Lake | 32445 | [32445-hope-lake.json](./32445-hope-lake.json) |
