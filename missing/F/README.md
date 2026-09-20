@@ -2727,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Soldiers | 146863 | [146863-flying-soldiers.json](./146863-flying-soldiers.json) |
 | Flying Squadron | 43889 | [43889-flying-squadron.json](./43889-flying-squadron.json) |
 | Flying Stunt Simulator | 278156 | [278156-flying-stunt-simulator.json](./278156-flying-stunt-simulator.json) |
+| Flying Superhero Captain Robot Crime City Battle | 101982 | [101982-flying-superhero-captain-robot-crime-city-battle.json](./101982-flying-superhero-captain-robot-crime-city-battle.json) |
 | Flying Sushi | 337991 | [337991-flying-sushi.json](./337991-flying-sushi.json) |
 | Flying Tickets | 130873 | [130873-flying-tickets.json](./130873-flying-tickets.json) |
 | Flying Tigers: Shadows Over China - Paradise Island | 167208 | [167208-flying-tigers-shadows-over-china-paradise-island.json](./167208-flying-tigers-shadows-over-china-paradise-island.json) |
@@ -3956,6 +3957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Honey ASMR: Sleek Edition | 306520 | [306520-frozen-honey-asmr-sleek-edition.json](./306520-frozen-honey-asmr-sleek-edition.json) |
 | Frozen Inferno | 328245 | [328245-frozen-inferno.json](./328245-frozen-inferno.json) |
 | Frozen Injustice: Fridge Adventures | 324334 | [324334-frozen-injustice-fridge-adventures.json](./324334-frozen-injustice-fridge-adventures.json) |
+| Frozen Islands | 101936 | [101936-frozen-islands.json](./101936-frozen-islands.json) |
 | Frozen Memories | 129226 | [129226-frozen-memories.json](./129226-frozen-memories.json) |
 | Frozen Shelter | 247623 | [247623-frozen-shelter.json](./247623-frozen-shelter.json) |
 | Frozen Ship | 330831 | [330831-frozen-ship.json](./330831-frozen-ship.json) |
