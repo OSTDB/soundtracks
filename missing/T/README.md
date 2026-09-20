@@ -2912,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Engraved Dispatch | 181366 | [181366-the-engraved-dispatch.json](./181366-the-engraved-dispatch.json) |
 | The Enigma Lounge | 380439 | [380439-the-enigma-lounge.json](./380439-the-enigma-lounge.json) |
 | The Entertainment | 128622 | [128622-the-entertainment.json](./128622-the-entertainment.json) |
+| The Entity | 101331 | [101331-the-entity.json](./101331-the-entity.json) |
 | The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
 | The Epic | 153869 | [153869-the-epic.json](./153869-the-epic.json) |
 | The Epic of Jusen | 145598 | [145598-the-epic-of-jusen.json](./145598-the-epic-of-jusen.json) |
@@ -4974,6 +4975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ripper | 282726 | [282726-the-ripper.json](./282726-the-ripper.json) |
 | The Rise of the Golden Idol | 279614 | [279614-the-rise-of-the-golden-idol.json](./279614-the-rise-of-the-golden-idol.json) |
 | The Rise of Tianling Sect | 369584 | [369584-the-rise-of-tianling-sect.json](./369584-the-rise-of-tianling-sect.json) |
+| The Risers | 101336 | [101336-the-risers.json](./101336-the-risers.json) |
 | The Rising | 284907 | [284907-the-rising.json](./284907-the-rising.json) |
 | The Ritual | 118327 | [118327-the-ritual.json](./118327-the-ritual.json) |
 | The Ritual | 184031 | [184031-the-ritual.json](./184031-the-ritual.json) |
@@ -9874,6 +9876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Tournament | 313098 | [313098-triple-tournament.json](./313098-triple-tournament.json) |
 | Triple Yatzy for iPad | 101494 | [101494-triple-yatzy-for-ipad.json](./101494-triple-yatzy-for-ipad.json) |
 | Triple Zoo | 232185 | [232185-triple-zoo.json](./232185-triple-zoo.json) |
+| Trippy Jump | 101329 | [101329-trippy-jump.json](./101329-trippy-jump.json) |
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
 | Triptych | 93001 | [93001-triptych.json](./93001-triptych.json) |
 | Tristan: Curse of The Frog | 404964 | [404964-tristan-curse-of-the-frog.json](./404964-tristan-curse-of-the-frog.json) |
