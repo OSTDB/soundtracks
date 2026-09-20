@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror | 112116 | [112116-terror.json](./112116-terror.json) |
 | Terror Brain: Night Out | 211258 | [211258-terror-brain-night-out.json](./211258-terror-brain-night-out.json) |
 | Terror Diversion | 318013 | [318013-terror-diversion.json](./318013-terror-diversion.json) |
+| Terror for Two | 110167 | [110167-terror-for-two.json](./110167-terror-for-two.json) |
 | Terror Mod Ultraultimatum HD | 330547 | [330547-terror-mod-ultraultimatum-hd.json](./330547-terror-mod-ultraultimatum-hd.json) |
 | Terror of the Catacombs | 11046 | [11046-terror-of-the-catacombs.json](./11046-terror-of-the-catacombs.json) |
 | Terror of the Deep | 37178 | [37178-terror-of-the-deep.json](./37178-terror-of-the-deep.json) |
@@ -9788,6 +9789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trio Adventures | 111456 | [111456-trio-adventures.json](./111456-trio-adventures.json) |
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
 | Trios | 129220 | [129220-trios.json](./129220-trios.json) |
+| Trip | 110120 | [110120-trip.json](./110120-trip.json) |
 | Trip in Hell | 107813 | [107813-trip-in-hell.json](./107813-trip-in-hell.json) |
 | Trip Movie /Mosaic: Shounen Alice Satsujin Jiken | 366243 | [366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json](./366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json) |
 | Trip The Light | 379958 | [379958-trip-the-light.json](./379958-trip-the-light.json) |
