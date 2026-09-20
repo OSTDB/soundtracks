@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
 | Ender Theater | 333381 | [333381-ender-theater.json](./333381-ender-theater.json) |
 | Enderal: The Shards of Order | 249452 | [249452-enderal-the-shards-of-order.json](./249452-enderal-the-shards-of-order.json) |
+| Endersite | 98765 | [98765-endersite.json](./98765-endersite.json) |
 | EndGame | 303514 | [303514-endgame.json](./303514-endgame.json) |
 | Endhall | 111176 | [111176-endhall.json](./111176-endhall.json) |
 | Endica VII: The Dream King | 35924 | [35924-endica-vii-the-dream-king.json](./35924-endica-vii-the-dream-king.json) |
@@ -1553,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Bunker | 308264 | [308264-escape-from-bunker.json](./308264-escape-from-bunker.json) |
 | Escape from Castle Chezcrea | 256851 | [256851-escape-from-castle-chezcrea.json](./256851-escape-from-castle-chezcrea.json) |
 | Escape From Cluckov | 378314 | [378314-escape-from-cluckov.json](./378314-escape-from-cluckov.json) |
+| Escape From Cozy Island | 98776 | [98776-escape-from-cozy-island.json](./98776-escape-from-cozy-island.json) |
 | Escape from Cyber City | 45931 | [45931-escape-from-cyber-city.json](./45931-escape-from-cyber-city.json) |
 | Escape From Darkmoor Manor | 36105 | [36105-escape-from-darkmoor-manor.json](./36105-escape-from-darkmoor-manor.json) |
 | Escape from Death | 270110 | [270110-escape-from-death.json](./270110-escape-from-death.json) |
@@ -2343,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
 | Exo: Arena | 257473 | [257473-exo-arena.json](./257473-exo-arena.json) |
 | ExoCorps | 121018 | [121018-exocorps.json](./121018-exocorps.json) |
+| Exoder | 98767 | [98767-exoder.json](./98767-exoder.json) |
 | Exodos | 297069 | [297069-exodos.json](./297069-exodos.json) |
 | Exodus | 212237 | [212237-exodus.json](./212237-exodus.json) |
 | Exodus | 279621 | [279621-exodus.json](./279621-exodus.json) |
