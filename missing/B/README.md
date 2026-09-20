@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Rush Dream | 67301 | [67301-bass-rush-dream.json](./67301-bass-rush-dream.json) |
 | Bass Strike | 43286 | [43286-bass-strike.json](./43286-bass-strike.json) |
 | Bassai-Dai | 403654 | [403654-bassai-dai.json](./403654-bassai-dai.json) |
+| Bassfishing | 92289 | [92289-bassfishing.json](./92289-bassfishing.json) |
 | Bassing Beat | 285997 | [285997-bassing-beat.json](./285997-bassing-beat.json) |
 | Bassing Beat 2 | 285998 | [285998-bassing-beat-2.json](./285998-bassing-beat-2.json) |
 | Bassline Sinker | 110157 | [110157-bassline-sinker.json](./110157-bassline-sinker.json) |
@@ -1302,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Skin Panic | 91463 | [91463-battle-skin-panic.json](./91463-battle-skin-panic.json) |
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
 | Battle Soccer: Field no Hasha | 42567 | [42567-battle-soccer-field-no-hasha.json](./42567-battle-soccer-field-no-hasha.json) |
+| Battle Space | 92278 | [92278-battle-space.json](./92278-battle-space.json) |
 | Battle Species | 110339 | [110339-battle-species.json](./110339-battle-species.json) |
 | Battle Spirits CrossOver | 321743 | [321743-battle-spirits-crossover.json](./321743-battle-spirits-crossover.json) |
 | Battle Spirits Digital Starter | 137587 | [137587-battle-spirits-digital-starter.json](./137587-battle-spirits-digital-starter.json) |
@@ -2381,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bille & Trille: Klæder sig ud | 91448 | [91448-bille-and-trille-kl-der-sig-ud.json](./91448-bille-and-trille-kl-der-sig-ud.json) |
 | Bille & Trille: Nu er det Jul igen | 91449 | [91449-bille-and-trille-nu-er-det-jul-igen.json](./91449-bille-and-trille-nu-er-det-jul-igen.json) |
 | Billgard | 329169 | [329169-billgard.json](./329169-billgard.json) |
+| Billiard Japonais | 92291 | [92291-billiard-japonais.json](./92291-billiard-japonais.json) |
 | Billiards Champ 3D | 146731 | [146731-billiards-champ-3d.json](./146731-billiards-champ-3d.json) |
 | Billiards Dungeon | 149079 | [149079-billiards-dungeon.json](./149079-billiards-dungeon.json) |
 | Billiards II Simulator | 14305 | [14305-billiards-ii-simulator.json](./14305-billiards-ii-simulator.json) |
@@ -3108,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlindGiRl2 | 65449 | [65449-blindgirl2.json](./65449-blindgirl2.json) |
 | Blinding Lite | 302370 | [302370-blinding-lite.json](./302370-blinding-lite.json) |
 | Blinding Oversight | 253592 | [253592-blinding-oversight.json](./253592-blinding-oversight.json) |
+| Blinding Silence | 92270 | [92270-blinding-silence.json](./92270-blinding-silence.json) |
 | Blindscape | 26644 | [26644-blindscape.json](./26644-blindscape.json) |
 | BlindSide | 64386 | [64386-blindside.json](./64386-blindside.json) |
 | BlindSight Event Zero | 186760 | [186760-blindsight-event-zero.json](./186760-blindsight-event-zero.json) |
@@ -4695,6 +4699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brian's Redemption | 350450 | [350450-brians-redemption.json](./350450-brians-redemption.json) |
 | Bric-a-Brac Shop | 178513 | [178513-bric-a-brac-shop.json](./178513-bric-a-brac-shop.json) |
 | Brick | 356655 | [356655-brick.json](./356655-brick.json) |
+| Brick | 92294 | [92294-brick.json](./92294-brick.json) |
 | Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Breaker Infinity | 305932 | [305932-brick-breaker-infinity.json](./305932-brick-breaker-infinity.json) |
@@ -5112,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Dates | 206974 | [206974-bug-dates.json](./206974-bug-dates.json) |
 | Bug Dolls: Soviet Project | 203900 | [203900-bug-dolls-soviet-project.json](./203900-bug-dolls-soviet-project.json) |
 | Bug Drop! | 200055 | [200055-bug-drop.json](./200055-bug-drop.json) |
+| Bug Heroes | 92316 | [92316-bug-heroes.json](./92316-bug-heroes.json) |
 | Bug Hunter | 317575 | [317575-bug-hunter.json](./317575-bug-hunter.json) |
 | Bug Killers | 51958 | [51958-bug-killers.json](./51958-bug-killers.json) |
 | Bug Mania | 140985 | [140985-bug-mania.json](./140985-bug-mania.json) |
