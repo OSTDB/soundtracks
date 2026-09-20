@@ -2467,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringling Bros. and Barnum & Bailey Circus | 67320 | [67320-ringling-bros-and-barnum-and-bailey-circus.json](./67320-ringling-bros-and-barnum-and-bailey-circus.json) |
 | Ringling Bros. and Barnum & Bailey: Circus Friends - Asian Elephants | 209163 | [209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json](./209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json) |
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
+| Ringognir 3 | 68336 | [68336-ringognir-3.json](./68336-ringognir-3.json) |
 | Rings | 179069 | [179069-rings.json](./179069-rings.json) |
 | Rings of Hell | 160217 | [160217-rings-of-hell.json](./160217-rings-of-hell.json) |
 | Rings of Saturn | 108324 | [108324-rings-of-saturn.json](./108324-rings-of-saturn.json) |
