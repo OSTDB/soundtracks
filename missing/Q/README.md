@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuadroX-2 | 80242 | [80242-quadrox-2.json](./80242-quadrox-2.json) |
 | Quadruzzle | 270944 | [270944-quadruzzle.json](./270944-quadruzzle.json) |
 | Quadulo | 371266 | [371266-quadulo.json](./371266-quadulo.json) |
+| Quagmire | 66395 | [66395-quagmire.json](./66395-quagmire.json) |
 | Quake | 332258 | [332258-quake.json](./332258-quake.json) |
 | Quake 1.5 | 117771 | [117771-quake-1-5.json](./117771-quake-1-5.json) |
 | Quake 4 | 356 | [356-quake-4.json](./356-quake-4.json) |
