@@ -1529,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Pixel Melancholy | 347185 | [347185-deep-pixel-melancholy.json](./347185-deep-pixel-melancholy.json) |
 | Deep Realms | 92442 | [92442-deep-realms.json](./92442-deep-realms.json) |
 | Deep Research | 271493 | [271493-deep-research.json](./271493-deep-research.json) |
+| Deep Rest | 106395 | [106395-deep-rest.json](./106395-deep-rest.json) |
 | Deep Rock Galactic: Deluxe Edition | 188021 | [188021-deep-rock-galactic-deluxe-edition.json](./188021-deep-rock-galactic-deluxe-edition.json) |
 | Deep Rock Galactic: Order of the Deep Pack | 302936 | [302936-deep-rock-galactic-order-of-the-deep-pack.json](./302936-deep-rock-galactic-order-of-the-deep-pack.json) |
 | Deep Rock Galactic: Ultimate Edition | 188047 | [188047-deep-rock-galactic-ultimate-edition.json](./188047-deep-rock-galactic-ultimate-edition.json) |
@@ -3614,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DomiNoo | 262453 | [262453-dominoo.json](./262453-dominoo.json) |
 | Dominos Pro | 86694 | [86694-dominos-pro.json](./86694-dominos-pro.json) |
 | Dominos Pro | 86873 | [86873-dominos-pro.json](./86873-dominos-pro.json) |
+| Dominus 2 | 106421 | [106421-dominus-2.json](./106421-dominus-2.json) |
 | Dominus Galaxia | 124744 | [124744-dominus-galaxia.json](./124744-dominus-galaxia.json) |
 | Dominus Gladiatus | 404343 | [404343-dominus-gladiatus.json](./404343-dominus-gladiatus.json) |
 | Dominus Rage | 199615 | [199615-dominus-rage.json](./199615-dominus-rage.json) |
