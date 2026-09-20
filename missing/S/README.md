@@ -4483,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoothie Galaxy | 182518 | [182518-smoothie-galaxy.json](./182518-smoothie-galaxy.json) |
 | Smoothie Swipe | 248646 | [248646-smoothie-swipe.json](./248646-smoothie-swipe.json) |
 | Smoots Pinball | 260221 | [260221-smoots-pinball.json](./260221-smoots-pinball.json) |
+| Smoots Summer Games | 120795 | [120795-smoots-summer-games.json](./120795-smoots-summer-games.json) |
 | Smoots World Cup Tennis | 24720 | [24720-smoots-world-cup-tennis.json](./24720-smoots-world-cup-tennis.json) |
 | Smoq Games 25 | 396361 | [396361-smoq-games-25.json](./396361-smoq-games-25.json) |
 | Smudge Adventure | 282128 | [282128-smudge-adventure.json](./282128-smudge-adventure.json) |
@@ -4731,6 +4732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Bros. Wonderland | 309256 | [309256-snow-bros-wonderland.json](./309256-snow-bros-wonderland.json) |
 | Snow Cone | 341474 | [341474-snow-cone.json](./341474-snow-cone.json) |
 | Snow Drop | 71444 | [71444-snow-drop.json](./71444-snow-drop.json) |
+| Snow Eagle Lord | 120834 | [120834-snow-eagle-lord.json](./120834-snow-eagle-lord.json) |
 | Snow Fall | 362355 | [362355-snow-fall.json](./362355-snow-fall.json) |
 | Snow Fight | 316096 | [316096-snow-fight.json](./316096-snow-fight.json) |
 | Snow Fighters | 151562 | [151562-snow-fighters.json](./151562-snow-fighters.json) |
