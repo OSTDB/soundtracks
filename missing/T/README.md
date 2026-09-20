@@ -9464,6 +9464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tralalero Tralala: Escape Backrooms | 367977 | [367977-tralalero-tralala-escape-backrooms.json](./367977-tralalero-tralala-escape-backrooms.json) |
 | Tramp | 55845 | [55845-tramp.json](./55845-tramp.json) |
 | Trampoline | 172661 | [172661-trampoline.json](./172661-trampoline.json) |
+| Trance-Pacific | 92860 | [92860-trance-pacific.json](./92860-trance-pacific.json) |
 | Tranquil Isle | 240790 | [240790-tranquil-isle.json](./240790-tranquil-isle.json) |
 | Trans Liberation Forever | 277409 | [277409-trans-liberation-forever.json](./277409-trans-liberation-forever.json) |
 | Trans Theft Horso | 258563 | [258563-trans-theft-horso.json](./258563-trans-theft-horso.json) |
@@ -10209,6 +10210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsunagare Numbers | 222420 | [222420-tsunagare-numbers.json](./222420-tsunagare-numbers.json) |
 | Tsunagari Chess School | 320379 | [320379-tsunagari-chess-school.json](./320379-tsunagari-chess-school.json) |
 | Tsunagaru Voiro Shooters vs. Space Kedamaki | 204732 | [204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json](./204732-tsunagaru-voiro-shooters-vs-space-kedamaki.json) |
+| Tsunami 2265 | 92831 | [92831-tsunami-2265.json](./92831-tsunami-2265.json) |
 | Tsunami Cruiser | 184655 | [184655-tsunami-cruiser.json](./184655-tsunami-cruiser.json) |
 | Tsunami Rider | 383939 | [383939-tsunami-rider.json](./383939-tsunami-rider.json) |
 | Tsundere Girls | 382282 | [382282-tsundere-girls.json](./382282-tsundere-girls.json) |
