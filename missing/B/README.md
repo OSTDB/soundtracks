@@ -81,8 +81,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Hands | 68834 | [68834-baby-hands.json](./68834-baby-hands.json) |
 | Baby Kaizo World | 145478 | [145478-baby-kaizo-world.json](./145478-baby-kaizo-world.json) |
 | Baby Killer | 117733 | [117733-baby-killer.json](./117733-baby-killer.json) |
+| Baby Life | 91752 | [91752-baby-life.json](./91752-baby-life.json) |
 | Baby Lite A Line | 100171 | [100171-baby-lite-a-line.json](./100171-baby-lite-a-line.json) |
 | Baby Mario's A-Maze-ing Game | 341043 | [341043-baby-marios-a-maze-ing-game.json](./341043-baby-marios-a-maze-ing-game.json) |
+| Baby Pals | 91753 | [91753-baby-pals.json](./91753-baby-pals.json) |
 | Baby Panda's Airport | 105968 | [105968-baby-pandas-airport.json](./105968-baby-pandas-airport.json) |
 | Baby Panda's Vacation | 106599 | [106599-baby-pandas-vacation.json](./106599-baby-pandas-vacation.json) |
 | Baby Puzzle: First Learning Shapes for Toddlers | 147985 | [147985-baby-puzzle-first-learning-shapes-for-toddlers.json](./147985-baby-puzzle-first-learning-shapes-for-toddlers.json) |
@@ -1714,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania Append 5thMix: Time to Get Down | 70994 | [70994-beatmania-append-5thmix-time-to-get-down.json](./70994-beatmania-append-5thmix-time-to-get-down.json) |
 | Beatmania Append Gottamix 2: Going Global | 292855 | [292855-beatmania-append-gottamix-2-going-global.json](./292855-beatmania-append-gottamix-2-going-global.json) |
 | beatmania complete MIX | 94744 | [94744-beatmania-complete-mix.json](./94744-beatmania-complete-mix.json) |
+| Beatmania GB | 91769 | [91769-beatmania-gb.json](./91769-beatmania-gb.json) |
 | Beatmania IIDX 17 Sirius | 66644 | [66644-beatmania-iidx-17-sirius.json](./66644-beatmania-iidx-17-sirius.json) |
 | Beatmania IIDX 20 Tricoro | 61664 | [61664-beatmania-iidx-20-tricoro.json](./61664-beatmania-iidx-20-tricoro.json) |
 | Beatmania IIDX 26 Rootage | 112148 | [112148-beatmania-iidx-26-rootage.json](./112148-beatmania-iidx-26-rootage.json) |
@@ -4266,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouquet | 184525 | [184525-bouquet.json](./184525-bouquet.json) |
 | Bouquet | 346085 | [346085-bouquet.json](./346085-bouquet.json) |
 | Bourbon Empire | 217320 | [217320-bourbon-empire.json](./217320-bourbon-empire.json) |
+| Bousou! Orient Kyuukou | 91758 | [91758-bousou-orient-kyuukou.json](./91758-bousou-orient-kyuukou.json) |
 | Bovine Battles | 292511 | [292511-bovine-battles.json](./292511-bovine-battles.json) |
 | Bow & Crystal Tower Defense | 157169 | [157169-bow-and-crystal-tower-defense.json](./157169-bow-and-crystal-tower-defense.json) |
 | Bow Climb | 239660 | [239660-bow-climb.json](./239660-bow-climb.json) |
