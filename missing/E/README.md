@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt Frontiers | 266293 | [266293-egypt-frontiers.json](./266293-egypt-frontiers.json) |
 | Egypt Solitaire: Match 2 Cards | 127237 | [127237-egypt-solitaire-match-2-cards.json](./127237-egypt-solitaire-match-2-cards.json) |
 | Egypt: Old Kingdom - Master of History | 124796 | [124796-egypt-old-kingdom-master-of-history.json](./124796-egypt-old-kingdom-master-of-history.json) |
+| Eidolons: Nethergate | 116818 | [116818-eidolons-nethergate.json](./116818-eidolons-nethergate.json) |
 | Eien no Miyako | 372564 | [372564-eien-no-miyako.json](./372564-eien-no-miyako.json) |
 | Eiga Sumikko Gurashi: Aoi Tsukiyo no Mahou no Ko - Game de Asobou! Eiga no Sekai | 171550 | [171550-eiga-sumikko-gurashi-aoi-tsukiyo-no-mahou-no-ko-game-de-asobou-eiga-no-sekai.json](./171550-eiga-sumikko-gurashi-aoi-tsukiyo-no-mahou-no-ko-game-de-asobou-eiga-no-sekai.json) |
 | Eigen Space | 192427 | [192427-eigen-space.json](./192427-eigen-space.json) |
@@ -1945,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eva | 185099 | [185099-eva.json](./185099-eva.json) |
 | Eva | 272354 | [272354-eva.json](./272354-eva.json) |
 | Eva Dawn | 150111 | [150111-eva-dawn.json](./150111-eva-dawn.json) |
+| Eva Reynes | 116841 | [116841-eva-reynes.json](./116841-eva-reynes.json) |
 | Evacuation | 182454 | [182454-evacuation.json](./182454-evacuation.json) |
 | Evacuation Combat | 156682 | [156682-evacuation-combat.json](./156682-evacuation-combat.json) |
 | Evacuation Zone: Tampere | 342759 | [342759-evacuation-zone-tampere.json](./342759-evacuation-zone-tampere.json) |
