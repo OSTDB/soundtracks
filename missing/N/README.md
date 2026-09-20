@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Koukou Soccer-bu: World Cup-hen | 191733 | [191733-nekketsu-koukou-soccer-bu-world-cup-hen.json](./191733-nekketsu-koukou-soccer-bu-world-cup-hen.json) |
 | Nekketsu Legend Baseballer | 364535 | [364535-nekketsu-legend-baseballer.json](./364535-nekketsu-legend-baseballer.json) |
 | Nekketsu Oyako | 61633 | [61633-nekketsu-oyako.json](./61633-nekketsu-oyako.json) |
+| Neko | 78965 | [78965-neko.json](./78965-neko.json) |
 | Neko Bento | 324136 | [324136-neko-bento.json](./324136-neko-bento.json) |
 | Neko Cosmo Police | 209482 | [209482-neko-cosmo-police.json](./209482-neko-cosmo-police.json) |
 | Neko Dai Suki! | 45257 | [45257-neko-dai-suki.json](./45257-neko-dai-suki.json) |
@@ -1189,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Coaches Club Football | 82801 | [82801-nfl-coaches-club-football.json](./82801-nfl-coaches-club-football.json) |
 | NFL Flick Quarterback | 58189 | [58189-nfl-flick-quarterback.json](./58189-nfl-flick-quarterback.json) |
 | NFL Football | 175899 | [175899-nfl-football.json](./175899-nfl-football.json) |
+| NFL Football | 78936 | [78936-nfl-football.json](./78936-nfl-football.json) |
 | NFL Football: San Diego Chargers/Los Angeles Raiders | 62687 | [62687-nfl-football-san-diego-chargers-los-angeles-raiders.json](./62687-nfl-football-san-diego-chargers-los-angeles-raiders.json) |
 | NFL GameDay '97 | 20716 | [20716-nfl-gameday-97.json](./20716-nfl-gameday-97.json) |
 | NFL GameDay 2005 | 209589 | [209589-nfl-gameday-2005.json](./209589-nfl-gameday-2005.json) |
