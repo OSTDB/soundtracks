@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Ops: Campus | 258545 | [258545-z-ops-campus.json](./258545-z-ops-campus.json) |
 | Z Rush | 304579 | [304579-z-rush.json](./304579-z-rush.json) |
 | Z World | 252223 | [252223-z-world.json](./252223-z-world.json) |
+| Z-89 | 93371 | [93371-z-89.json](./93371-z-89.json) |
 | Z-Ape: Tower Defense | 304009 | [304009-z-ape-tower-defense.json](./304009-z-ape-tower-defense.json) |
 | Z-axys | 102210 | [102210-z-axys.json](./102210-z-axys.json) |
 | Z-Exemplar | 26010 | [26010-z-exemplar.json](./26010-z-exemplar.json) |
