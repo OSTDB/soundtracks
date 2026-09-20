@@ -1691,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalo Chalo | 34292 | [34292-chalo-chalo.json](./34292-chalo-chalo.json) |
 | Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
 | Chamber of Hex | 257381 | [257381-chamber-of-hex.json](./257381-chamber-of-hex.json) |
+| Chamber of the Sci-Mutant Priestess | 81786 | [81786-chamber-of-the-sci-mutant-priestess.json](./81786-chamber-of-the-sci-mutant-priestess.json) |
 | Chamber Survival | 298692 | [298692-chamber-survival.json](./298692-chamber-survival.json) |
 | Chambered | 40708 | [40708-chambered.json](./40708-chambered.json) |
 | Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
@@ -1733,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chang'an: The capital of Tang Dynasty | 147403 | [147403-changan-the-capital-of-tang-dynasty.json](./147403-changan-the-capital-of-tang-dynasty.json) |
 | Changa | 196713 | [196713-changa.json](./196713-changa.json) |
 | Change | 229674 | [229674-change.json](./229674-change.json) |
+| Change | 81724 | [81724-change.json](./81724-change.json) |
 | Change: A Homeless Survival Experience - Living City Expansion | 199664 | [199664-change-a-homeless-survival-experience-living-city-expansion.json](./199664-change-a-homeless-survival-experience-living-city-expansion.json) |
 | Changelog | 360569 | [360569-changelog.json](./360569-changelog.json) |
 | Changes | 152903 | [152903-changes.json](./152903-changes.json) |
@@ -3641,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Objects For Kids | 89645 | [89645-color-objects-for-kids.json](./89645-color-objects-for-kids.json) |
 | Color of My Sound: Volume 1 | 309534 | [309534-color-of-my-sound-volume-1.json](./309534-color-of-my-sound-volume-1.json) |
 | Color Reflex Challenge | 253018 | [253018-color-reflex-challenge.json](./253018-color-reflex-challenge.json) |
+| Color Retro Racer: Miles Challenge | 81790 | [81790-color-retro-racer-miles-challenge.json](./81790-color-retro-racer-miles-challenge.json) |
 | Color Rings Puzzle | 104652 | [104652-color-rings-puzzle.json](./104652-color-rings-puzzle.json) |
 | Color Road! | 90364 | [90364-color-road.json](./90364-color-road.json) |
 | Color Roll 3D | 215242 | [215242-color-roll-3d.json](./215242-color-roll-3d.json) |
@@ -5157,6 +5160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Create With Garfield! | 67238 | [67238-create-with-garfield.json](./67238-create-with-garfield.json) |
 | Create: Above and Beyond | 331400 | [331400-create-above-and-beyond.json](./331400-create-above-and-beyond.json) |
 | CreateTech | 127359 | [127359-createtech.json](./127359-createtech.json) |
+| Creatio Ex Nihilo II: Deus Otiosus | 81762 | [81762-creatio-ex-nihilo-ii-deus-otiosus.json](./81762-creatio-ex-nihilo-ii-deus-otiosus.json) |
 | Creative Kill Chamber | 235240 | [235240-creative-kill-chamber.json](./235240-creative-kill-chamber.json) |
 | Creative Kill Chamber 2 | 316092 | [316092-creative-kill-chamber-2.json](./316092-creative-kill-chamber-2.json) |
 | Creative Reader: The Jungle Book | 327870 | [327870-creative-reader-the-jungle-book.json](./327870-creative-reader-the-jungle-book.json) |
