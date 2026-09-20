@@ -2677,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinya Ichizoku: The Battle for Hokkaido's Delicious Foods | 186908 | [186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json](./186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json) |
 | Shinyaku Boushi Sekai | 396208 | [396208-shinyaku-boushi-sekai.json](./396208-shinyaku-boushi-sekai.json) |
 | Shinzen Hollow | 292512 | [292512-shinzen-hollow.json](./292512-shinzen-hollow.json) |
+| Shion no Ou: The Flowers of Hard Blood | 122896 | [122896-shion-no-ou-the-flowers-of-hard-blood.json](./122896-shion-no-ou-the-flowers-of-hard-blood.json) |
 | Shiori no Kotoha: Dark Reflections | 186841 | [186841-shiori-no-kotoha-dark-reflections.json](./186841-shiori-no-kotoha-dark-reflections.json) |
 | Ship Adventure | 179185 | [179185-ship-adventure.json](./179185-ship-adventure.json) |
 | Ship Graveyard Simulator 2: Warships DLC | 277940 | [277940-ship-graveyard-simulator-2-warships-dlc.json](./277940-ship-graveyard-simulator-2-warships-dlc.json) |
@@ -4904,6 +4905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sock It | 196236 | [196236-sock-it.json](./196236-sock-it.json) |
 | Sock Monster | 143012 | [143012-sock-monster.json](./143012-sock-monster.json) |
 | Socks & Pants | 357300 | [357300-socks-and-pants.json](./357300-socks-and-pants.json) |
+| Socrates Jones: Pro Philosopher | 122894 | [122894-socrates-jones-pro-philosopher.json](./122894-socrates-jones-pro-philosopher.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
 | Sod | 180238 | [180238-sod.json](./180238-sod.json) |
 | Soda Story: Brewing Tycoon | 119016 | [119016-soda-story-brewing-tycoon.json](./119016-soda-story-brewing-tycoon.json) |
@@ -5893,6 +5895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
 | Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
 | Sous Raccoon | 366299 | [366299-sous-raccoon.json](./366299-sous-raccoon.json) |
+| Sousei no Onmyouji | 122890 | [122890-sousei-no-onmyouji.json](./122890-sousei-no-onmyouji.json) |
 | Soushuu Senshinkan Gakuen Bansenjin | 137082 | [137082-soushuu-senshinkan-gakuen-bansenjin.json](./137082-soushuu-senshinkan-gakuen-bansenjin.json) |
 | Souten Koihime: Dawn of Sovereignty | 411657 | [411657-souten-koihime-dawn-of-sovereignty.json](./411657-souten-koihime-dawn-of-sovereignty.json) |
 | Souten Koihime: Shigen no Ou | 326788 | [326788-souten-koihime-shigen-no-ou.json](./326788-souten-koihime-shigen-no-ou.json) |
@@ -7048,6 +7051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Catastrophe | 246652 | [246652-spring-catastrophe.json](./246652-spring-catastrophe.json) |
 | Spring Cleaning | 179733 | [179733-spring-cleaning.json](./179733-spring-cleaning.json) |
 | Spring Crisis 2 | 280922 | [280922-spring-crisis-2.json](./280922-spring-crisis-2.json) |
+| Spring Falls | 122845 | [122845-spring-falls.json](./122845-spring-falls.json) |
 | Spring Gothic | 338216 | [338216-spring-gothic.json](./338216-spring-gothic.json) |
 | Spring Hell | 266770 | [266770-spring-hell.json](./266770-spring-hell.json) |
 | Spring in Summer | 291052 | [291052-spring-in-summer.json](./291052-spring-in-summer.json) |
@@ -7781,6 +7785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starman in space | 88240 | [88240-starman-in-space.json](./88240-starman-in-space.json) |
 | Starman: Tale of Light | 104681 | [104681-starman-tale-of-light.json](./104681-starman-tale-of-light.json) |
 | Starminer | 280353 | [280353-starminer.json](./280353-starminer.json) |
+| Starmourn | 122849 | [122849-starmourn.json](./122849-starmourn.json) |
 | Starona | 142386 | [142386-starona.json](./142386-starona.json) |
 | StarOS | 255961 | [255961-staros.json](./255961-staros.json) |
 | StarPeace | 73286 | [73286-starpeace.json](./73286-starpeace.json) |
