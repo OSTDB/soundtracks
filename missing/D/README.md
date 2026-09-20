@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Secret Beneath the Dark Wood | 269657 | [269657-deadly-secret-beneath-the-dark-wood.json](./269657-deadly-secret-beneath-the-dark-wood.json) |
 | Deadly Sky | 51981 | [51981-deadly-sky.json](./51981-deadly-sky.json) |
 | Deadly Soccer | 242569 | [242569-deadly-soccer.json](./242569-deadly-soccer.json) |
+| Deadly Station | 96523 | [96523-deadly-station.json](./96523-deadly-station.json) |
 | Deadly Stigma | 106532 | [106532-deadly-stigma.json](./106532-deadly-stigma.json) |
 | Deadly Survival | 277022 | [277022-deadly-survival.json](./277022-deadly-survival.json) |
 | Deadly Tecknology | 188655 | [188655-deadly-tecknology.json](./188655-deadly-tecknology.json) |
@@ -2003,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth Hunter 2: Scuba Kids - Hidden Treasures | 167274 | [167274-depth-hunter-2-scuba-kids-hidden-treasures.json](./167274-depth-hunter-2-scuba-kids-hidden-treasures.json) |
 | Depth Hunter 2: Treasure Hunter | 167272 | [167272-depth-hunter-2-treasure-hunter.json](./167272-depth-hunter-2-treasure-hunter.json) |
 | Depth Loop | 317854 | [317854-depth-loop.json](./317854-depth-loop.json) |
+| Depth Siege Atlantis | 96521 | [96521-depth-siege-atlantis.json](./96521-depth-siege-atlantis.json) |
 | Depths Of Apollyon | 351123 | [351123-depths-of-apollyon.json](./351123-depths-of-apollyon.json) |
 | Depths of Betrayal | 175800 | [175800-depths-of-betrayal.json](./175800-depths-of-betrayal.json) |
 | Depths of Faveg | 318060 | [318060-depths-of-faveg.json](./318060-depths-of-faveg.json) |
@@ -5058,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Cat | 127769 | [127769-drop-cat.json](./127769-drop-cat.json) |
 | Drop Cooking | 311478 | [311478-drop-cooking.json](./311478-drop-cooking.json) |
 | Drop Duchy | 317865 | [317865-drop-duchy.json](./317865-drop-duchy.json) |
+| Drop Flip | 96538 | [96538-drop-flip.json](./96538-drop-flip.json) |
 | Drop Loot | 411029 | [411029-drop-loot.json](./411029-drop-loot.json) |
 | Drop the Number | 216214 | [216214-drop-the-number.json](./216214-drop-the-number.json) |
 | Drop Zone | 46600 | [46600-drop-zone.json](./46600-drop-zone.json) |
