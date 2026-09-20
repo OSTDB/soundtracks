@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Points | 304693 | [304693-ball-points.json](./304693-ball-points.json) |
 | Ball Raider II | 14282 | [14282-ball-raider-ii.json](./14282-ball-raider-ii.json) |
 | Ball Relay | 108471 | [108471-ball-relay.json](./108471-ball-relay.json) |
+| Ball Rows | 103879 | [103879-ball-rows.json](./103879-ball-rows.json) |
 | Ball Run | 118797 | [118797-ball-run.json](./118797-ball-run.json) |
 | Ball Rush 3 | 402296 | [402296-ball-rush-3.json](./402296-ball-rush-3.json) |
 | Ball Shoot Aim Challenge | 334085 | [334085-ball-shoot-aim-challenge.json](./334085-ball-shoot-aim-challenge.json) |
@@ -699,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie as the Princess and the Pauper | 200590 | [200590-barbie-as-the-princess-and-the-pauper.json](./200590-barbie-as-the-princess-and-the-pauper.json) |
 | Barbie Beauty Styler | 200601 | [200601-barbie-beauty-styler.json](./200601-barbie-beauty-styler.json) |
 | Barbie Dreamhouse Adventures | 255335 | [255335-barbie-dreamhouse-adventures.json](./255335-barbie-dreamhouse-adventures.json) |
+| Barbie Fashion Closet | 103905 | [103905-barbie-fashion-closet.json](./103905-barbie-fashion-closet.json) |
 | Barbie Fashion Show | 200592 | [200592-barbie-fashion-show.json](./200592-barbie-fashion-show.json) |
 | Barbie for Girls Beach Adventure | 245569 | [245569-barbie-for-girls-beach-adventure.json](./245569-barbie-for-girls-beach-adventure.json) |
 | Barbie for Girls Hearts & Stars | 245568 | [245568-barbie-for-girls-hearts-and-stars.json](./245568-barbie-for-girls-hearts-and-stars.json) |
@@ -2170,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Wall | 80968 | [80968-beyond-the-wall.json](./80968-beyond-the-wall.json) |
 | Beyond the Wall of Stars | 68684 | [68684-beyond-the-wall-of-stars.json](./68684-beyond-the-wall-of-stars.json) |
 | Beyond Up | 386297 | [386297-beyond-up.json](./386297-beyond-up.json) |
+| Beyond Ynth HDX | 103880 | [103880-beyond-ynth-hdx.json](./103880-beyond-ynth-hdx.json) |
 | Beyond Your Wall | 369593 | [369593-beyond-your-wall.json](./369593-beyond-your-wall.json) |
 | Beyond Zero Line | 386299 | [386299-beyond-zero-line.json](./386299-beyond-zero-line.json) |
 | Beyond: Fire & Ice | 386301 | [386301-beyond-fire-and-ice.json](./386301-beyond-fire-and-ice.json) |
@@ -2716,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Dust | 318211 | [318211-black-dust.json](./318211-black-dust.json) |
 | Black Emperor | 125471 | [125471-black-emperor.json](./125471-black-emperor.json) |
 | Black Fairy | 325841 | [325841-black-fairy.json](./325841-black-fairy.json) |
+| Black Fighter: Super Shadow Fight | 103887 | [103887-black-fighter-super-shadow-fight.json](./103887-black-fighter-super-shadow-fight.json) |
 | Black Flower | 400966 | [400966-black-flower.json](./400966-black-flower.json) |
 | Black Friday: The Game | 68600 | [68600-black-friday-the-game.json](./68600-black-friday-the-game.json) |
 | Black Geyser: Couriers of Darkness - Tales of the Moon Cult | 379444 | [379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json](./379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json) |
@@ -4871,6 +4875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Runner | 81049 | [81049-brutal-runner.json](./81049-brutal-runner.json) |
 | Brutal Scales | 119704 | [119704-brutal-scales.json](./119704-brutal-scales.json) |
 | Brutal Sports Football | 40814 | [40814-brutal-sports-football.json](./40814-brutal-sports-football.json) |
+| Brutal Street 2 | 103893 | [103893-brutal-street-2.json](./103893-brutal-street-2.json) |
 | Brutal Strike | 235459 | [235459-brutal-strike.json](./235459-brutal-strike.json) |
 | Brutal Unreal 99 | 202848 | [202848-brutal-unreal-99.json](./202848-brutal-unreal-99.json) |
 | Brutal Warrior | 114439 | [114439-brutal-warrior.json](./114439-brutal-warrior.json) |
@@ -5282,6 +5287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Madness Anarchy | 38995 | [38995-bunny-madness-anarchy.json](./38995-bunny-madness-anarchy.json) |
 | Bunny Maid's Estrus Diary | 82777 | [82777-bunny-maids-estrus-diary.json](./82777-bunny-maids-estrus-diary.json) |
 | Bunny Minesweeper | 106579 | [106579-bunny-minesweeper.json](./106579-bunny-minesweeper.json) |
+| Bunny Pop 2: Beat the Wolf | 103890 | [103890-bunny-pop-2-beat-the-wolf.json](./103890-bunny-pop-2-beat-the-wolf.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
 | Bunny Reversi | 119535 | [119535-bunny-reversi.json](./119535-bunny-reversi.json) |
 | Bunny Sword Master | 109043 | [109043-bunny-sword-master.json](./109043-bunny-sword-master.json) |
