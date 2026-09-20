@@ -2210,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex0 Escape | 211208 | [211208-ex0-escape.json](./211208-ex0-escape.json) |
 | EXA: The Infinite Instrument | 163812 | [163812-exa-the-infinite-instrument.json](./163812-exa-the-infinite-instrument.json) |
 | Exact | 277420 | [277420-exact.json](./277420-exact.json) |
+| Exactamundo: World Trivia Tour | 122183 | [122183-exactamundo-world-trivia-tour.json](./122183-exactamundo-world-trivia-tour.json) |
 | Exadimension Neptunia | 280926 | [280926-exadimension-neptunia.json](./280926-exadimension-neptunia.json) |
 | Exadimension Neptunia 2: A Chao Returns | 280927 | [280927-exadimension-neptunia-2-a-chao-returns.json](./280927-exadimension-neptunia-2-a-chao-returns.json) |
 | Exalted Seracthon | 235856 | [235856-exalted-seracthon.json](./235856-exalted-seracthon.json) |
