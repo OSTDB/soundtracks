@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raising Torolith | 152885 | [152885-raising-torolith.json](./152885-raising-torolith.json) |
 | Raji: An Ancient Epic - Enhanced Edition | 152175 | [152175-raji-an-ancient-epic-enhanced-edition.json](./152175-raji-an-ancient-epic-enhanced-edition.json) |
 | Raketenwashmachine | 149439 | [149439-raketenwashmachine.json](./149439-raketenwashmachine.json) |
+| Rakker and the Sinking Cities | 69569 | [69569-rakker-and-the-sinking-cities.json](./69569-rakker-and-the-sinking-cities.json) |
 | RaKoval~Nya: Escape Edition | 102164 | [102164-rakoval-nya-escape-edition.json](./102164-rakoval-nya-escape-edition.json) |
 | Rakshasa | 318411 | [318411-rakshasa.json](./318411-rakshasa.json) |
 | Rakshasa | 384678 | [384678-rakshasa.json](./384678-rakshasa.json) |
@@ -1236,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Eyes | 103195 | [103195-red-eyes.json](./103195-red-eyes.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
+| Red Feud | 69566 | [69566-red-feud.json](./69566-red-feud.json) |
 | Red Flood | 321567 | [321567-red-flood.json](./321567-red-flood.json) |
 | Red Flower | 230959 | [230959-red-flower.json](./230959-red-flower.json) |
 | Red Flu | 81217 | [81217-red-flu.json](./81217-red-flu.json) |
@@ -1653,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade X | 5501 | [5501-renegade-x.json](./5501-renegade-x.json) |
 | Renegade X: Black Dawn | 51290 | [51290-renegade-x-black-dawn.json](./51290-renegade-x-black-dawn.json) |
 | Renegade: Arena Shooter | 150679 | [150679-renegade-arena-shooter.json](./150679-renegade-arena-shooter.json) |
+| Renegade: The Battle for Jacob's Star | 69562 | [69562-renegade-the-battle-for-jacobs-star.json](./69562-renegade-the-battle-for-jacobs-star.json) |
 | Renfield | 82885 | [82885-renfield.json](./82885-renfield.json) |
 | Renga in Four Parts | 138150 | [138150-renga-in-four-parts.json](./138150-renga-in-four-parts.json) |
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
@@ -2689,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RKR: Rush Kill Repeat | 217495 | [217495-rkr-rush-kill-repeat.json](./217495-rkr-rush-kill-repeat.json) |
 | Rktcr | 35863 | [35863-rktcr.json](./35863-rktcr.json) |
 | RLCraft | 203457 | [203457-rlcraft.json](./203457-rlcraft.json) |
+| RNFF: Running Naked in a Field of Flowers | 69544 | [69544-rnff-running-naked-in-a-field-of-flowers.json](./69544-rnff-running-naked-in-a-field-of-flowers.json) |
 | Ro Sham Bo Rush | 252142 | [252142-ro-sham-bo-rush.json](./252142-ro-sham-bo-rush.json) |
 | RO: Idle Poring | 74770 | [74770-ro-idle-poring.json](./74770-ro-idle-poring.json) |
 | Roach Hotel | 286121 | [286121-roach-hotel.json](./286121-roach-hotel.json) |
