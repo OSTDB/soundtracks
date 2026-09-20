@@ -4589,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest: Legacy of the Lost | 300697 | [300697-dragon-quest-legacy-of-the-lost.json](./300697-dragon-quest-legacy-of-the-lost.json) |
 | Dragon Quest: Monster Battle Road Victory - V Navigator | 127270 | [127270-dragon-quest-monster-battle-road-victory-v-navigator.json](./127270-dragon-quest-monster-battle-road-victory-v-navigator.json) |
 | Dragon Rage | 32159 | [32159-dragon-rage.json](./32159-dragon-rage.json) |
+| Dragon Rage | 76977 | [76977-dragon-rage.json](./76977-dragon-rage.json) |
 | Dragon Raja L: The Classic | 267353 | [267353-dragon-raja-l-the-classic.json](./267353-dragon-raja-l-the-classic.json) |
 | Dragon Raja: ReRise | 402964 | [402964-dragon-raja-rerise.json](./402964-dragon-raja-rerise.json) |
 | Dragon Roll | 184124 | [184124-dragon-roll.json](./184124-dragon-roll.json) |
@@ -5624,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon&Girls | 131403 | [131403-dungeon-and-girls.json](./131403-dungeon-and-girls.json) |
 | Dungeonborne | 253880 | [253880-dungeonborne.json](./253880-dungeonborne.json) |
 | DungeonBox | 355028 | [355028-dungeonbox.json](./355028-dungeonbox.json) |
+| Dungeoneer | 76957 | [76957-dungeoneer.json](./76957-dungeoneer.json) |
 | Dungeonette for Apple Watch | 197751 | [197751-dungeonette-for-apple-watch.json](./197751-dungeonette-for-apple-watch.json) |
 | Dungeonfield | 331961 | [331961-dungeonfield.json](./331961-dungeonfield.json) |
 | Dungeonlike | 183574 | [183574-dungeonlike.json](./183574-dungeonlike.json) |
