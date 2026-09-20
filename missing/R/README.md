@@ -3186,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rokko Chan | 93510 | [93510-rokko-chan.json](./93510-rokko-chan.json) |
 | Roko-Loko no Castelo do Ratozinger Remix | 78042 | [78042-roko-loko-no-castelo-do-ratozinger-remix.json](./78042-roko-loko-no-castelo-do-ratozinger-remix.json) |
 | Rokumon Tengai Mon Colle Knight GB | 282584 | [282584-rokumon-tengai-mon-colle-knight-gb.json](./282584-rokumon-tengai-mon-colle-knight-gb.json) |
+| Rol Crusaders | 94556 | [94556-rol-crusaders.json](./94556-rol-crusaders.json) |
 | Rolaball | 94693 | [94693-rolaball.json](./94693-rolaball.json) |
 | Rolando | 23029 | [23029-rolando.json](./23029-rolando.json) |
 | Rolando: Deluxe Edition | 236539 | [236539-rolando-deluxe-edition.json](./236539-rolando-deluxe-edition.json) |
