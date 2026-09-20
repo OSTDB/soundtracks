@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketbrawl | 11867 | [11867-basketbrawl.json](./11867-basketbrawl.json) |
 | Basketing | 148903 | [148903-basketing.json](./148903-basketing.json) |
 | Baspetball | 346584 | [346584-baspetball.json](./346584-baspetball.json) |
+| Bass Cat: Learn to Read Music | 90382 | [90382-bass-cat-learn-to-read-music.json](./90382-bass-cat-learn-to-read-music.json) |
 | Bass Defense | 309538 | [309538-bass-defense.json](./309538-bass-defense.json) |
 | Bass Fisherman | 298859 | [298859-bass-fisherman.json](./298859-bass-fisherman.json) |
 | Bass Harrier | 349877 | [349877-bass-harrier.json](./349877-bass-harrier.json) |
@@ -1809,6 +1810,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee: The Knight | 202784 | [202784-bee-the-knight.json](./202784-bee-the-knight.json) |
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
 | Beecarbonize | 240874 | [240874-beecarbonize.json](./240874-beecarbonize.json) |
+| BeeCells | 90386 | [90386-beecells.json](./90386-beecells.json) |
+| BeeCells XL | 90393 | [90393-beecells-xl.json](./90393-beecells-xl.json) |
 | Beeder's Big Adventure | 417526 | [417526-beeders-big-adventure.json](./417526-beeders-big-adventure.json) |
 | BeeFender | 89267 | [89267-beefender.json](./89267-beefender.json) |
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
@@ -5031,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Gun 3D | 150690 | [150690-bubble-gun-3d.json](./150690-bubble-gun-3d.json) |
 | Bubble Hero | 246436 | [246436-bubble-hero.json](./246436-bubble-hero.json) |
 | Bubble Investor | 361727 | [361727-bubble-investor.json](./361727-bubble-investor.json) |
+| Bubble Mags | 90388 | [90388-bubble-mags.json](./90388-bubble-mags.json) |
 | Bubble Mix 3 in 1 Plus | 90685 | [90685-bubble-mix-3-in-1-plus.json](./90685-bubble-mix-3-in-1-plus.json) |
 | Bubble People | 173265 | [173265-bubble-people.json](./173265-bubble-people.json) |
 | Bubble Piles | 241615 | [241615-bubble-piles.json](./241615-bubble-piles.json) |
