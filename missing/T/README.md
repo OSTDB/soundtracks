@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temtem: Pioneers | 397815 | [397815-temtem-pioneers.json](./397815-temtem-pioneers.json) |
 | Ten | 202770 | [202770-ten.json](./202770-ten.json) |
 | Ten Dates | 217256 | [217256-ten-dates.json](./217256-ten-dates.json) |
+| Ten Days to War | 122161 | [122161-ten-days-to-war.json](./122161-ten-days-to-war.json) |
 | Ten Deadly Games | 378271 | [378271-ten-deadly-games.json](./378271-ten-deadly-games.json) |
 | Ten made Jack: Odoroki Mamenoki Daitoubou!! | 198364 | [198364-ten-made-jack-odoroki-mamenoki-daitoubou.json](./198364-ten-made-jack-odoroki-mamenoki-daitoubou.json) |
 | Ten ni Takaku Chi ni Fukaku | 191713 | [191713-ten-ni-takaku-chi-ni-fukaku.json](./191713-ten-ni-takaku-chi-ni-fukaku.json) |
@@ -1517,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Shooter Apocalypse | 195111 | [195111-terror-shooter-apocalypse.json](./195111-terror-shooter-apocalypse.json) |
 | Terror Signal | 299434 | [299434-terror-signal.json](./299434-terror-signal.json) |
 | Terror Spikys | 268227 | [268227-terror-spikys.json](./268227-terror-spikys.json) |
+| Terror Squid | 122182 | [122182-terror-squid.json](./122182-terror-squid.json) |
 | Terrorfest | 313882 | [313882-terrorfest.json](./313882-terrorfest.json) |
 | Terrorhedron | 17378 | [17378-terrorhedron.json](./17378-terrorhedron.json) |
 | Terrorist Apartment | 107844 | [107844-terrorist-apartment.json](./107844-terrorist-apartment.json) |
@@ -5501,6 +5503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terminator 2029: Deluxe CD Edition | 358341 | [358341-the-terminator-2029-deluxe-cd-edition.json](./358341-the-terminator-2029-deluxe-cd-edition.json) |
 | The Terminator 2029: Operation Scour | 15508 | [15508-the-terminator-2029-operation-scour.json](./15508-the-terminator-2029-operation-scour.json) |
 | The Terminator: Future Shock | 8413 | [8413-the-terminator-future-shock.json](./8413-the-terminator-future-shock.json) |
+| The Terrible Old Man | 122170 | [122170-the-terrible-old-man.json](./122170-the-terrible-old-man.json) |
 | The Terrible Old Man: Collector's Edition | 156100 | [156100-the-terrible-old-man-collectors-edition.json](./156100-the-terrible-old-man-collectors-edition.json) |
 | The Terrors of Trantoss | 232557 | [232557-the-terrors-of-trantoss.json](./232557-the-terrors-of-trantoss.json) |
 | The Test: Hypothesis Rising | 132660 | [132660-the-test-hypothesis-rising.json](./132660-the-test-hypothesis-rising.json) |
@@ -7501,6 +7504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinyshot | 138048 | [138048-tinyshot.json](./138048-tinyshot.json) |
 | Tinytopia | 131947 | [131947-tinytopia.json](./131947-tinytopia.json) |
 | Tinyverse | 181362 | [181362-tinyverse.json](./181362-tinyverse.json) |
+| TinyWars | 122207 | [122207-tinywars.json](./122207-tinywars.json) |
 | Tip Top Deluxe | 206219 | [206219-tip-top-deluxe.json](./206219-tip-top-deluxe.json) |
 | Tip-Toeing Around an Empty House | 374173 | [374173-tip-toeing-around-an-empty-house.json](./374173-tip-toeing-around-an-empty-house.json) |
 | Tip-Up Ice Fishing | 178578 | [178578-tip-up-ice-fishing.json](./178578-tip-up-ice-fishing.json) |
@@ -7731,6 +7735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki Hako Time Capsule | 342767 | [342767-toki-hako-time-capsule.json](./342767-toki-hako-time-capsule.json) |
 | Toki no Ihoujin | 408767 | [408767-toki-no-ihoujin.json](./408767-toki-no-ihoujin.json) |
 | Toki Tori 2 | 2351 | [2351-toki-tori-2.json](./2351-toki-tori-2.json) |
+| Toki Tori Collection | 122202 | [122202-toki-tori-collection.json](./122202-toki-tori-collection.json) |
 | Toki: Retrollector | 112962 | [112962-toki-retrollector.json](./112962-toki-retrollector.json) |
 | Tokigeon | 398399 | [398399-tokigeon.json](./398399-tokigeon.json) |
 | Tokimeki Card Paradise: Koi no Royal Straight Flush | 310969 | [310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json](./310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json) |
@@ -8207,6 +8212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Miner | 77339 | [77339-total-miner.json](./77339-total-miner.json) |
 | Total Pinball 25: 3D Tables | 206745 | [206745-total-pinball-25-3d-tables.json](./206745-total-pinball-25-3d-tables.json) |
 | Total Reload | 248661 | [248661-total-reload.json](./248661-total-reload.json) |
+| Total Ski Jump | 122159 | [122159-total-ski-jump.json](./122159-total-ski-jump.json) |
 | Total Soccer Manager | 49343 | [49343-total-soccer-manager.json](./49343-total-soccer-manager.json) |
 | Total Upheaval | 250640 | [250640-total-upheaval.json](./250640-total-upheaval.json) |
 | Total Vice | 112278 | [112278-total-vice.json](./112278-total-vice.json) |
@@ -10361,6 +10367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Skateboards Driving Simulator | 224566 | [224566-two-skateboards-driving-simulator.json](./224566-two-skateboards-driving-simulator.json) |
 | Two Tamarind Seeds | 179106 | [179106-two-tamarind-seeds.json](./179106-two-tamarind-seeds.json) |
 | Two Tigers | 25667 | [25667-two-tigers.json](./25667-two-tigers.json) |
+| Two Till Midnight | 122169 | [122169-two-till-midnight.json](./122169-two-till-midnight.json) |
 | Two Worlds | 177549 | [177549-two-worlds.json](./177549-two-worlds.json) |
 | Two Worlds Connected | 181359 | [181359-two-worlds-connected.json](./181359-two-worlds-connected.json) |
 | Two Worlds II Castle Defense | 28986 | [28986-two-worlds-ii-castle-defense.json](./28986-two-worlds-ii-castle-defense.json) |
