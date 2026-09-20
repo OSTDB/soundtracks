@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #SinucaAttack | 143494 | [143494-sinucaattack.json](./143494-sinucaattack.json) |
 | #Wish travel, Super Puzzles Dream | 147423 | [147423-wish-travel-super-puzzles-dream.json](./147423-wish-travel-super-puzzles-dream.json) |
 | #womenUp, Super Puzzles Dream | 147437 | [147437-womenup-super-puzzles-dream.json](./147437-womenup-super-puzzles-dream.json) |
+| %100 | 83221 | [83221-100.json](./83221-100.json) |
 | ^_^ | 165499 | [165499-.json](./165499-.json) |
 | +1 | 308928 | [308928-1.json](./308928-1.json) |
 | > Terminal | 383380 | [383380-terminal.json](./383380-terminal.json) |
@@ -478,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Cushion Masters | 153462 | [153462-3-cushion-masters.json](./153462-3-cushion-masters.json) |
 | 3 Days of Tactical Farming | 185000 | [185000-3-days-of-tactical-farming.json](./185000-3-days-of-tactical-farming.json) |
 | 3 Days to Live | 379898 | [379898-3-days-to-live.json](./379898-3-days-to-live.json) |
+| 3 Deep Space | 83269 | [83269-3-deep-space.json](./83269-3-deep-space.json) |
 | 3 Foot Ninja | 241472 | [241472-3-foot-ninja.json](./241472-3-foot-ninja.json) |
 | 3 Games in 1: Tak and the Power of Juju / SpongeBob SquarePants: SuperSponge / Rugrats: I Gotta Go Party | 82098 | [82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json](./82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json) |
 | 3 in 1: Multiplayer Bundle | 223566 | [223566-3-in-1-multiplayer-bundle.json](./223566-3-in-1-multiplayer-bundle.json) |
@@ -491,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Stars of Destiny | 9933 | [9933-3-stars-of-destiny.json](./9933-3-stars-of-destiny.json) |
 | 3 Tiles: Tile Matching Games | 331356 | [331356-3-tiles-tile-matching-games.json](./331356-3-tiles-tile-matching-games.json) |
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
+| 3-D Man | 83270 | [83270-3-d-man.json](./83270-3-d-man.json) |
 | 3-D Tank Zone | 15579 | [15579-3-d-tank-zone.json](./15579-3-d-tank-zone.json) |
 | 3-D Ultra Pinball: Thrillride | 49881 | [49881-3-d-ultra-pinball-thrillride.json](./49881-3-d-ultra-pinball-thrillride.json) |
 | 3-D Zapper | 268566 | [268566-3-d-zapper.json](./268566-3-d-zapper.json) |
