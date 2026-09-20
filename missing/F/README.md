@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Enemies | 374058 | [374058-field-of-enemies.json](./374058-field-of-enemies.json) |
 | Field of Fate | 184622 | [184622-field-of-fate.json](./184622-field-of-fate.json) |
 | Field of Fire | 25616 | [25616-field-of-fire.json](./25616-field-of-fire.json) |
+| Field of Glory | 68342 | [68342-field-of-glory.json](./68342-field-of-glory.json) |
 | Field of Glory II | 65835 | [65835-field-of-glory-ii.json](./65835-field-of-glory-ii.json) |
 | Field of Glory II: Age of Belisarius | 124785 | [124785-field-of-glory-ii-age-of-belisarius.json](./124785-field-of-glory-ii-age-of-belisarius.json) |
 | Field of Glory II: Medieval - Reconquista | 148343 | [148343-field-of-glory-ii-medieval-reconquista.json](./148343-field-of-glory-ii-medieval-reconquista.json) |
@@ -4439,6 +4440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Sense | 242202 | [242202-future-sense.json](./242202-future-sense.json) |
 | Future Shock | 13718 | [13718-future-shock.json](./13718-future-shock.json) |
 | Future Swashbuckler | 305945 | [305945-future-swashbuckler.json](./305945-future-swashbuckler.json) |
+| Future Tank | 68346 | [68346-future-tank.json](./68346-future-tank.json) |
 | Future Tanks Area | 193507 | [193507-future-tanks-area.json](./193507-future-tanks-area.json) |
 | Future Theater | 251842 | [251842-future-theater.json](./251842-future-theater.json) |
 | Future Vibe Check | 335292 | [335292-future-vibe-check.json](./335292-future-vibe-check.json) |
