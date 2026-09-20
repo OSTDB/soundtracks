@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowhere Girl | 110627 | [110627-nowhere-girl.json](./110627-nowhere-girl.json) |
 | Nowhere Near | 305929 | [305929-nowhere-near.json](./305929-nowhere-near.json) |
 | Nowv | 320541 | [320541-nowv.json](./320541-nowv.json) |
+| Nox Quest | 92834 | [92834-nox-quest.json](./92834-nox-quest.json) |
 | Nox: Escape Adventure | 241049 | [241049-nox-escape-adventure.json](./241049-nox-escape-adventure.json) |
 | Noxiam: Miserable Sinners | 126407 | [126407-noxiam-miserable-sinners.json](./126407-noxiam-miserable-sinners.json) |
 | Noyah: Corrupted Memories | 164962 | [164962-noyah-corrupted-memories.json](./164962-noyah-corrupted-memories.json) |
