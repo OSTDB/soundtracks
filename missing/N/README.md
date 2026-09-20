@@ -1164,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NextRev: Ouyou Jouhougijutsusha Shiken | 64943 | [64943-nextrev-ouyou-jouhougijutsusha-shiken.json](./64943-nextrev-ouyou-jouhougijutsusha-shiken.json) |
 | NextRev: Shakai Fukushishi Shiken | 64938 | [64938-nextrev-shakai-fukushishi-shiken.json](./64938-nextrev-shakai-fukushishi-shiken.json) |
 | NextRev: Takken Shiken | 64939 | [64939-nextrev-takken-shiken.json](./64939-nextrev-takken-shiken.json) |
+| NextWar: The Quest for Earth | 91731 | [91731-nextwar-the-quest-for-earth.json](./91731-nextwar-the-quest-for-earth.json) |
 | Nexuiz | 9586 | [9586-nexuiz.json](./9586-nexuiz.json) |
 | Nexus 2 | 92499 | [92499-nexus-2.json](./92499-nexus-2.json) |
 | Nexus Legacy | 408038 | [408038-nexus-legacy.json](./408038-nexus-legacy.json) |
