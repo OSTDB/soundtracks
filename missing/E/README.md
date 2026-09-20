@@ -2521,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Sports with the Berenstain Bears | 49932 | [49932-extreme-sports-with-the-berenstain-bears.json](./49932-extreme-sports-with-the-berenstain-bears.json) |
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
+| ExtremeBiking | 90383 | [90383-extremebiking.json](./90383-extremebiking.json) |
 | Extremely Realistic Siege Warfare Simulator | 130957 | [130957-extremely-realistic-siege-warfare-simulator.json](./130957-extremely-realistic-siege-warfare-simulator.json) |
 | ExtremeTK | 136861 | [136861-extremetk.json](./136861-extremetk.json) |
 | Exvelten | 153857 | [153857-exvelten.json](./153857-exvelten.json) |
