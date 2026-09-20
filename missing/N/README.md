@@ -1742,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nirvana Pilot Yume: Deluxe Edition | 208045 | [208045-nirvana-pilot-yume-deluxe-edition.json](./208045-nirvana-pilot-yume-deluxe-edition.json) |
 | Nirvana Revenge | 66044 | [66044-nirvana-revenge.json](./66044-nirvana-revenge.json) |
 | Nirvana: Game of Life | 191261 | [191261-nirvana-game-of-life.json](./191261-nirvana-game-of-life.json) |
+| Nishan Shaman | 105117 | [105117-nishan-shaman.json](./105117-nishan-shaman.json) |
 | Nitebear on Sleepystreet | 304198 | [304198-nitebear-on-sleepystreet.json](./304198-nitebear-on-sleepystreet.json) |
 | Niteline | 304722 | [304722-niteline.json](./304722-niteline.json) |
 | Nitori Dungeon | 216460 | [216460-nitori-dungeon.json](./216460-nitori-dungeon.json) |
@@ -2368,6 +2369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nun&Gun | 278386 | [278386-nun-and-gun.json](./278386-nun-and-gun.json) |
 | Nuns With Guns | 115642 | [115642-nuns-with-guns.json](./115642-nuns-with-guns.json) |
 | Nurburgring-1 | 238207 | [238207-nurburgring-1.json](./238207-nurburgring-1.json) |
+| Nurikabe | 105092 | [105092-nurikabe.json](./105092-nurikabe.json) |
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
 | Nurny Battles HD | 402380 | [402380-nurny-battles-hd.json](./402380-nurny-battles-hd.json) |
 | Nurse Call: Koi no Nurse Call | 324135 | [324135-nurse-call-koi-no-nurse-call.json](./324135-nurse-call-koi-no-nurse-call.json) |
