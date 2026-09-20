@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xanniban | 231495 | [231495-xanniban.json](./231495-xanniban.json) |
 | Xanthaphobia | 266789 | [266789-xanthaphobia.json](./266789-xanthaphobia.json) |
 | Xanthiom Zero | 240815 | [240815-xanthiom-zero.json](./240815-xanthiom-zero.json) |
+| Xargon | 70129 | [70129-xargon.json](./70129-xargon.json) |
 | Xargon Remake Ep.3 | 253436 | [253436-xargon-remake-ep-3.json](./253436-xargon-remake-ep-3.json) |
 | Xark | 30840 | [30840-xark.json](./30840-xark.json) |
 | Xavix Bowling | 267372 | [267372-xavix-bowling.json](./267372-xavix-bowling.json) |
