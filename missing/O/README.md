@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oceanside | 274198 | [274198-oceanside.json](./274198-oceanside.json) |
 | Oceanside Whispers | 390676 | [390676-oceanside-whispers.json](./390676-oceanside-whispers.json) |
 | Oceanspirit Danish | 57102 | [57102-oceanspirit-danish.json](./57102-oceanspirit-danish.json) |
+| Oceanum Mortis | 120810 | [120810-oceanum-mortis.json](./120810-oceanum-mortis.json) |
 | Ocero 3D | 341497 | [341497-ocero-3d.json](./341497-ocero-3d.json) |
 | Ochakai he no Shoutaijou | 246092 | [246092-ochakai-he-no-shoutaijou.json](./246092-ochakai-he-no-shoutaijou.json) |
 | Ochakumi | 78020 | [78020-ochakumi.json](./78020-ochakumi.json) |
@@ -538,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Rally Championship | 132162 | [132162-omega-rally-championship.json](./132162-omega-rally-championship.json) |
 | Omega Run | 70366 | [70366-omega-run.json](./70366-omega-run.json) |
 | Omega Strike | 39752 | [39752-omega-strike.json](./39752-omega-strike.json) |
+| Omega Strike: Deluxe Edition | 120798 | [120798-omega-strike-deluxe-edition.json](./120798-omega-strike-deluxe-edition.json) |
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
 | Omega Vampire | 136834 | [136834-omega-vampire.json](./136834-omega-vampire.json) |
 | Omega Vanitas | 416607 | [416607-omega-vanitas.json](./416607-omega-vanitas.json) |
