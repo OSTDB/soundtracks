@@ -185,9 +185,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiker | 26547 | [26547-taiker.json](./26547-taiker.json) |
 | Taiko Drum Master | 37148 | [37148-taiko-drum-master.json](./37148-taiko-drum-master.json) |
 | Taiko Frenzy | 276824 | [276824-taiko-frenzy.json](./276824-taiko-frenzy.json) |
+| Taiko no Tatsujin: Appare Sandaime | 123432 | [123432-taiko-no-tatsujin-appare-sandaime.json](./123432-taiko-no-tatsujin-appare-sandaime.json) |
+| Taiko no Tatsujin: Atsumare! Matsuri da!! Yondaime | 123415 | [123415-taiko-no-tatsujin-atsumare-matsuri-da-yondaime.json](./123415-taiko-no-tatsujin-atsumare-matsuri-da-yondaime.json) |
 | Taiko no Tatsujin: Chibi Dragon to Fushigi na Orb | 63850 | [63850-taiko-no-tatsujin-chibi-dragon-to-fushigi-na-orb.json](./63850-taiko-no-tatsujin-chibi-dragon-to-fushigi-na-orb.json) |
 | Taiko no Tatsujin: Chougoukaban | 63848 | [63848-taiko-no-tatsujin-chougoukaban.json](./63848-taiko-no-tatsujin-chougoukaban.json) |
+| Taiko no Tatsujin: Doka! to Oomori Nanadaime | 123418 | [123418-taiko-no-tatsujin-doka-to-oomori-nanadaime.json](./123418-taiko-no-tatsujin-doka-to-oomori-nanadaime.json) |
+| Taiko no Tatsujin: Doki! Shinkyoku Darake no Haru Matsuri | 123431 | [123431-taiko-no-tatsujin-doki-shinkyoku-darake-no-haru-matsuri.json](./123431-taiko-no-tatsujin-doki-shinkyoku-darake-no-haru-matsuri.json) |
 | Taiko no Tatsujin: Drum 'n' Fun! | 104992 | [104992-taiko-no-tatsujin-drum-n-fun.json](./104992-taiko-no-tatsujin-drum-n-fun.json) |
+| Taiko no Tatsujin: Go! Go! Godaime | 123416 | [123416-taiko-no-tatsujin-go-go-godaime.json](./123416-taiko-no-tatsujin-go-go-godaime.json) |
 | Taiko no Tatsujin: Ongaku Lesson | 123620 | [123620-taiko-no-tatsujin-ongaku-lesson.json](./123620-taiko-no-tatsujin-ongaku-lesson.json) |
 | Taiko no Tatsujin: Rhythm Connect | 269597 | [269597-taiko-no-tatsujin-rhythm-connect.json](./269597-taiko-no-tatsujin-rhythm-connect.json) |
 | Taiko no Tatsujin: Rhythm Festival - 90s Pops Pack | 416680 | [416680-taiko-no-tatsujin-rhythm-festival-90s-pops-pack.json](./416680-taiko-no-tatsujin-rhythm-festival-90s-pops-pack.json) |
@@ -216,6 +221,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: The Drum Master! - Touhou Project Arrangements Pack | 358952 | [358952-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack.json](./358952-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack.json) |
 | Taiko no Tatsujin: The Drum Master! - Touhou Project Arrangements Pack Vol. 2 | 358953 | [358953-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-2.json](./358953-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-2.json) |
 | Taiko no Tatsujin: The Drum Master! - Touhou Project Arrangements Pack Vol. 3 | 358954 | [358954-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-3.json](./358954-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack-vol-3.json) |
+| Taiko no Tatsujin: Tobikkiri! Anime Special | 123426 | [123426-taiko-no-tatsujin-tobikkiri-anime-special.json](./123426-taiko-no-tatsujin-tobikkiri-anime-special.json) |
+| Taiko no Tatsujin: Wai Wai Happy! Rokudaime | 123417 | [123417-taiko-no-tatsujin-wai-wai-happy-rokudaime.json](./123417-taiko-no-tatsujin-wai-wai-happy-rokudaime.json) |
 | Taiko on the Web | 337101 | [337101-taiko-on-the-web.json](./337101-taiko-on-the-web.json) |
 | Taiko Web | 219123 | [219123-taiko-web.json](./219123-taiko-web.json) |
 | Taikodom | 68016 | [68016-taikodom.json](./68016-taikodom.json) |
@@ -3276,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Urban Battle | 260142 | [260142-the-great-urban-battle.json](./260142-the-great-urban-battle.json) |
 | The Great Waldo Search | 275020 | [275020-the-great-waldo-search.json](./275020-the-great-waldo-search.json) |
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
+| The Great Wizards Tournament | 123443 | [123443-the-great-wizards-tournament.json](./123443-the-great-wizards-tournament.json) |
 | The Great Yokai of the Haunted Halls | 331118 | [331118-the-great-yokai-of-the-haunted-halls.json](./331118-the-great-yokai-of-the-haunted-halls.json) |
 | The Greatest Game in the World | 182975 | [182975-the-greatest-game-in-the-world.json](./182975-the-greatest-game-in-the-world.json) |
 | The Green Hook Fighter | 377075 | [377075-the-green-hook-fighter.json](./377075-the-green-hook-fighter.json) |
