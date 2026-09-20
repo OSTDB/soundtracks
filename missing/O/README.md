@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Pattern | 28908 | [28908-omega-pattern.json](./28908-omega-pattern.json) |
 | Omega Protocol | 374633 | [374633-omega-protocol.json](./374633-omega-protocol.json) |
 | Omega Quintet: Limited Edition | 166239 | [166239-omega-quintet-limited-edition.json](./166239-omega-quintet-limited-edition.json) |
+| Omega Racers | 122185 | [122185-omega-racers.json](./122185-omega-racers.json) |
 | Omega Rally Championship | 132162 | [132162-omega-rally-championship.json](./132162-omega-rally-championship.json) |
 | Omega Run | 70366 | [70366-omega-run.json](./70366-omega-run.json) |
 | Omega Strike | 39752 | [39752-omega-strike.json](./39752-omega-strike.json) |
@@ -580,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omnicube | 99598 | [99598-omnicube.json](./99598-omnicube.json) |
 | Omnigon | 245909 | [245909-omnigon.json](./245909-omnigon.json) |
 | Omniheroes | 255790 | [255790-omniheroes.json](./255790-omniheroes.json) |
+| Omnimus | 122166 | [122166-omnimus.json](./122166-omnimus.json) |
 | Omnipresence | 245938 | [245938-omnipresence.json](./245938-omnipresence.json) |
 | Omniswarm | 183056 | [183056-omniswarm.json](./183056-omniswarm.json) |
 | OmniSword | 82155 | [82155-omnisword.json](./82155-omnisword.json) |
@@ -647,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Yorkshire Counties | 155108 | [155108-omsi-2-yorkshire-counties.json](./155108-omsi-2-yorkshire-counties.json) |
 | On a Roll 3D: Levels 7 - 9 | 197382 | [197382-on-a-roll-3d-levels-7-9.json](./197382-on-a-roll-3d-levels-7-9.json) |
 | On a Summer Night | 263773 | [263773-on-a-summer-night.json](./263773-on-a-summer-night.json) |
+| On Air | 122173 | [122173-on-air.json](./122173-on-air.json) |
 | On Air Island | 255179 | [255179-on-air-island.json](./255179-on-air-island.json) |
 | On Any Journey | 339378 | [339378-on-any-journey.json](./339378-on-any-journey.json) |
 | On August 11, A Ship Sailed Into Port | 135704 | [135704-on-august-11-a-ship-sailed-into-port.json](./135704-on-august-11-a-ship-sailed-into-port.json) |
