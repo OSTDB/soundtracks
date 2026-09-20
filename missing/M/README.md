@@ -3001,6 +3001,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Shock Game | 211206 | [211206-metal-shock-game.json](./211206-metal-shock-game.json) |
 | Metal Slader Glory 2 | 297474 | [297474-metal-slader-glory-2.json](./297474-metal-slader-glory-2.json) |
 | Metal Slug 1st & 2nd Mission Double Pack | 173779 | [173779-metal-slug-1st-and-2nd-mission-double-pack.json](./173779-metal-slug-1st-and-2nd-mission-double-pack.json) |
+| Metal Slug 1st Mission (Best Collection) | 75483 | [75483-metal-slug-1st-mission-best-collection.json](./75483-metal-slug-1st-mission-best-collection.json) |
+| Metal Slug 1st Mission (Version A) | 75484 | [75484-metal-slug-1st-mission-version-a.json](./75484-metal-slug-1st-mission-version-a.json) |
+| Metal Slug 1st Mission (Version B) | 75485 | [75485-metal-slug-1st-mission-version-b.json](./75485-metal-slug-1st-mission-version-b.json) |
+| Metal Slug 1st Mission (Version C) | 75486 | [75486-metal-slug-1st-mission-version-c.json](./75486-metal-slug-1st-mission-version-c.json) |
+| Metal Slug 1st Mission (Version D) | 75487 | [75487-metal-slug-1st-mission-version-d.json](./75487-metal-slug-1st-mission-version-d.json) |
+| Metal Slug 2nd Mission (Best Collection) | 75489 | [75489-metal-slug-2nd-mission-best-collection.json](./75489-metal-slug-2nd-mission-best-collection.json) |
 | Metal Slug 3 | 191479 | [191479-metal-slug-3.json](./191479-metal-slug-3.json) |
 | Metal Slug 3 | 347159 | [347159-metal-slug-3.json](./347159-metal-slug-3.json) |
 | Metal Slug 3 | 347162 | [347162-metal-slug-3.json](./347162-metal-slug-3.json) |
