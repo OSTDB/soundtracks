@@ -2134,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Women's Quiz | 152880 | [152880-womens-quiz.json](./152880-womens-quiz.json) |
 | Women's School Simulator 2020 | 299898 | [299898-womens-school-simulator-2020.json](./299898-womens-school-simulator-2020.json) |
 | Women's School Simulator 2022 | 299900 | [299900-womens-school-simulator-2022.json](./299900-womens-school-simulator-2022.json) |
+| Wonder Blade | 107015 | [107015-wonder-blade.json](./107015-wonder-blade.json) |
 | Wonder Boy | 212864 | [212864-wonder-boy.json](./212864-wonder-boy.json) |
 | Wonder Boy | 212865 | [212865-wonder-boy.json](./212865-wonder-boy.json) |
 | Wonder Boy | 212885 | [212885-wonder-boy.json](./212885-wonder-boy.json) |
@@ -2278,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Killer: Zorgilonian Chronicles | 29967 | [29967-word-killer-zorgilonian-chronicles.json](./29967-word-killer-zorgilonian-chronicles.json) |
 | Word Krispies | 71497 | [71497-word-krispies.json](./71497-word-krispies.json) |
 | Word Laces | 125820 | [125820-word-laces.json](./125820-word-laces.json) |
+| Word Land - Crosswords | 106955 | [106955-word-land-crosswords.json](./106955-word-land-crosswords.json) |
 | Word Logic by Powgi | 85495 | [85495-word-logic-by-powgi.json](./85495-word-logic-by-powgi.json) |
 | Word Maker | 377140 | [377140-word-maker.json](./377140-word-maker.json) |
 | Word Mess | 91982 | [91982-word-mess.json](./91982-word-mess.json) |
