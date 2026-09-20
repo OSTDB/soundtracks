@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
 | Racing Legends | 174214 | [174214-racing-legends.json](./174214-racing-legends.json) |
 | Racing Legends: Speed Evolution | 91131 | [91131-racing-legends-speed-evolution.json](./91131-racing-legends-speed-evolution.json) |
+| Racing Madness | 68972 | [68972-racing-madness.json](./68972-racing-madness.json) |
 | Racing Manager 2014 | 9419 | [9419-racing-manager-2014.json](./9419-racing-manager-2014.json) |
 | Racing Pitch | 70955 | [70955-racing-pitch.json](./70955-racing-pitch.json) |
 | Racing Rivals | 38904 | [38904-racing-rivals.json](./38904-racing-rivals.json) |
@@ -1076,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reassembly | 11691 | [11691-reassembly.json](./11691-reassembly.json) |
 | Reaver | 194429 | [194429-reaver.json](./194429-reaver.json) |
 | Rebadge | 397096 | [397096-rebadge.json](./397096-rebadge.json) |
+| Reball | 68931 | [68931-reball.json](./68931-reball.json) |
 | Rebel Galaxy | 11719 | [11719-rebel-galaxy.json](./11719-rebel-galaxy.json) |
 | Rebel Inc. | 115206 | [115206-rebel-inc.json](./115206-rebel-inc.json) |
 | Rebel Moon | 262644 | [262644-rebel-moon.json](./262644-rebel-moon.json) |
@@ -1741,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Quest Gold: Collector's Edition | 203375 | [203375-rescue-quest-gold-collectors-edition.json](./203375-rescue-quest-gold-collectors-edition.json) |
 | Rescue Race | 243810 | [243810-rescue-race.json](./243810-rescue-race.json) |
 | Rescue Raiders | 25777 | [25777-rescue-raiders.json](./25777-rescue-raiders.json) |
+| Rescue Roby | 68933 | [68933-rescue-roby.json](./68933-rescue-roby.json) |
 | Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
 | Rescue Rover Collection | 150692 | [150692-rescue-rover-collection.json](./150692-rescue-rover-collection.json) |
 | Rescue Team | 36019 | [36019-rescue-team.json](./36019-rescue-team.json) |
@@ -3289,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollers | 127223 | [127223-rollers.json](./127223-rollers.json) |
 | Rollick N' Roll | 339645 | [339645-rollick-n-roll.json](./339645-rollick-n-roll.json) |
 | Rollie | 143073 | [143073-rollie.json](./143073-rollie.json) |
+| Rollin' Rascals | 68935 | [68935-rollin-rascals.json](./68935-rollin-rascals.json) |
 | Rolling Ball on Sky | 86734 | [86734-rolling-ball-on-sky.json](./86734-rolling-ball-on-sky.json) |
 | Rolling Balls | 193428 | [193428-rolling-balls.json](./193428-rolling-balls.json) |
 | Rolling Bird | 113510 | [113510-rolling-bird.json](./113510-rolling-bird.json) |
@@ -3551,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rot Forever | 371260 | [371260-rot-forever.json](./371260-rot-forever.json) |
 | Rota's Nautical Chronicles of Trade: Aname Momo - Collaboration Commemorative Residentization DLC | 329009 | [329009-rotas-nautical-chronicles-of-trade-aname-momo-collaboration-commemorative-residentization-dlc.json](./329009-rotas-nautical-chronicles-of-trade-aname-momo-collaboration-commemorative-residentization-dlc.json) |
 | RotaDim | 93031 | [93031-rotadim.json](./93031-rotadim.json) |
+| Rotate It! | 68934 | [68934-rotate-it.json](./68934-rotate-it.json) |
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
 | Rotating Bones | 188010 | [188010-rotating-bones.json](./188010-rotating-bones.json) |
 | Rotating Roads | 307761 | [307761-rotating-roads.json](./307761-rotating-roads.json) |
@@ -3613,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoundZ | 371910 | [371910-roundz.json](./371910-roundz.json) |
 | Route Candle for Steam | 90560 | [90560-route-candle-for-steam.json](./90560-route-candle-for-steam.json) |
 | Route Me Mail and Delivery Co | 147477 | [147477-route-me-mail-and-delivery-co.json](./147477-route-me-mail-and-delivery-co.json) |
+| Router | 68936 | [68936-router.json](./68936-router.json) |
 | Routine | 8948 | [8948-routine.json](./8948-routine.json) |
 | Rova | 297209 | [297209-rova.json](./297209-rova.json) |
 | Rover Builder | 65829 | [65829-rover-builder.json](./65829-rover-builder.json) |
