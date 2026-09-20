@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: The Third - The Trouble with Clones | 78452 | [78452-saints-row-the-third-the-trouble-with-clones.json](./78452-saints-row-the-third-the-trouble-with-clones.json) |
 | Saints Row: The Third Remastered | 132097 | [132097-saints-row-the-third-remastered.json](./132097-saints-row-the-third-remastered.json) |
 | Saira | 67328 | [67328-saira.json](./67328-saira.json) |
+| Saishuu Heiki Kanojo | 74055 | [74055-saishuu-heiki-kanojo.json](./74055-saishuu-heiki-kanojo.json) |
 | Saitekikai Spy Simulator | 284323 | [284323-saitekikai-spy-simulator.json](./284323-saitekikai-spy-simulator.json) |
 | Sáivu | 293889 | [293889-saivu.json](./293889-saivu.json) |
 | Sáivu | 293893 | [293893-saivu.json](./293893-saivu.json) |
@@ -1832,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serenity at Dusk | 179056 | [179056-serenity-at-dusk.json](./179056-serenity-at-dusk.json) |
 | Seres | 207382 | [207382-seres.json](./207382-seres.json) |
 | Serflings | 210632 | [210632-serflings.json](./210632-serflings.json) |
+| Serguei's Destiny | 74041 | [74041-sergueis-destiny.json](./74041-sergueis-destiny.json) |
 | Serial Cleaner | 19450 | [19450-serial-cleaner.json](./19450-serial-cleaner.json) |
 | Serial Cleaner: Blood & Confetti | 336529 | [336529-serial-cleaner-blood-and-confetti.json](./336529-serial-cleaner-blood-and-confetti.json) |
 | Serial Cleaners: Dino Park | 249301 | [249301-serial-cleaners-dino-park.json](./249301-serial-cleaners-dino-park.json) |
@@ -2686,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Devil Children - Black/Red Book | 77958 | [77958-shin-megami-tensei-devil-children-black-red-book.json](./77958-shin-megami-tensei-devil-children-black-red-book.json) |
 | Shin Megami Tensei: Devil Children - Koori no Sho | 92475 | [92475-shin-megami-tensei-devil-children-koori-no-sho.json](./92475-shin-megami-tensei-devil-children-koori-no-sho.json) |
 | Shin Megami Tensei: Devil Summoner - Soul Hackers | 281414 | [281414-shin-megami-tensei-devil-summoner-soul-hackers.json](./281414-shin-megami-tensei-devil-summoner-soul-hackers.json) |
+| Shin Megami Tensei: Devil Summoner Special Box | 74067 | [74067-shin-megami-tensei-devil-summoner-special-box.json](./74067-shin-megami-tensei-devil-summoner-special-box.json) |
 | Shin Megami Tensei: Devil Survivor Overclocked | 19131 | [19131-shin-megami-tensei-devil-survivor-overclocked.json](./19131-shin-megami-tensei-devil-survivor-overclocked.json) |
 | Shin Megami Tensei: Digital Devil Saga | 18227 | [18227-shin-megami-tensei-digital-devil-saga.json](./18227-shin-megami-tensei-digital-devil-saga.json) |
 | Shin Megami Tensei: Digital Devil Saga - Deluxe Box Set | 382184 | [382184-shin-megami-tensei-digital-devil-saga-deluxe-box-set.json](./382184-shin-megami-tensei-digital-devil-saga-deluxe-box-set.json) |
@@ -5990,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Master | 66669 | [66669-soul-master.json](./66669-soul-master.json) |
 | Soul Mates | 340400 | [340400-soul-mates.json](./340400-soul-mates.json) |
 | Soul Merger | 216873 | [216873-soul-merger.json](./216873-soul-merger.json) |
+| Soul of a Robot | 74054 | [74054-soul-of-a-robot.json](./74054-soul-of-a-robot.json) |
 | Soul of Butterflies | 284888 | [284888-soul-of-butterflies.json](./284888-soul-of-butterflies.json) |
 | Soul of Butterflies: The Lobby | 284889 | [284889-soul-of-butterflies-the-lobby.json](./284889-soul-of-butterflies-the-lobby.json) |
 | Soul of Deva | 38955 | [38955-soul-of-deva.json](./38955-soul-of-deva.json) |
@@ -7692,6 +7696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox Zero: Limited First Print Edition | 23382 | [23382-star-fox-zero-limited-first-print-edition.json](./23382-star-fox-zero-limited-first-print-edition.json) |
 | Star Fox: Assault | 3243 | [3243-star-fox-assault.json](./3243-star-fox-assault.json) |
 | Star Gagnant | 247587 | [247587-star-gagnant.json](./247587-star-gagnant.json) |
+| Star General | 74087 | [74087-star-general.json](./74087-star-general.json) |
 | Star Gladiator Episode I: Final Crusade | 14680 | [14680-star-gladiator-episode-i-final-crusade.json](./14680-star-gladiator-episode-i-final-crusade.json) |
 | Star Gods | 125417 | [125417-star-gods.json](./125417-star-gods.json) |
 | Star Guard | 185136 | [185136-star-guard.json](./185136-star-guard.json) |
@@ -9285,6 +9290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Su Hack | 111002 | [111002-su-hack.json](./111002-su-hack.json) |
 | SU the Son of Gaia | 211795 | [211795-su-the-son-of-gaia.json](./211795-su-the-son-of-gaia.json) |
 | Su-27 Flanker | 22621 | [22621-su-27-flanker.json](./22621-su-27-flanker.json) |
+| Su-27 Flanker Mission Disk | 74051 | [74051-su-27-flanker-mission-disk.json](./74051-su-27-flanker-mission-disk.json) |
 | Sub Battle Simulator | 37162 | [37162-sub-battle-simulator.json](./37162-sub-battle-simulator.json) |
 | Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
 | Sub Chase Online | 211200 | [211200-sub-chase-online.json](./211200-sub-chase-online.json) |
