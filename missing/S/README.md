@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
 | Sasa | 48602 | [48602-sasa.json](./48602-sasa.json) |
 | Sasayu Meshiki | 357807 | [357807-sasayu-meshiki.json](./357807-sasayu-meshiki.json) |
+| Sasuke Library 23rd | 78957 | [78957-sasuke-library-23rd.json](./78957-sasuke-library-23rd.json) |
 | SatAM Online | 331950 | [331950-satam-online.json](./331950-satam-online.json) |
 | Satan II | 380552 | [380552-satan-ii.json](./380552-satan-ii.json) |
 | Satan's Dungeon | 329593 | [329593-satans-dungeon.json](./329593-satans-dungeon.json) |
@@ -1381,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasons Pairs | 96030 | [96030-seasons-pairs.json](./96030-seasons-pairs.json) |
 | Seasons Turning | 374617 | [374617-seasons-turning.json](./374617-seasons-turning.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
+| Seawolf | 78987 | [78987-seawolf.json](./78987-seawolf.json) |
 | Seawolf + Missile | 139470 | [139470-seawolf-missile.json](./139470-seawolf-missile.json) |
 | SeaWolf VR | 196676 | [196676-seawolf-vr.json](./196676-seawolf-vr.json) |
 | SeaWorld Adventure Park: Shamu's Deep Sea Adventures | 50565 | [50565-seaworld-adventure-park-shamus-deep-sea-adventures.json](./50565-seaworld-adventure-park-shamus-deep-sea-adventures.json) |
@@ -1691,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semmelweis | 238752 | [238752-semmelweis.json](./238752-semmelweis.json) |
 | Semo | 369104 | [369104-semo.json](./369104-semo.json) |
 | SEMP 64 | 331964 | [331964-semp-64.json](./331964-semp-64.json) |
+| Semper Fi | 78966 | [78966-semper-fi.json](./78966-semper-fi.json) |
 | Semper Fidelis: Marine Corps | 73830 | [73830-semper-fidelis-marine-corps.json](./73830-semper-fidelis-marine-corps.json) |
 | Sempiternal | 272375 | [272375-sempiternal.json](./272375-sempiternal.json) |
 | Semu | 265123 | [265123-semu.json](./265123-semu.json) |
@@ -4863,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snooker Nation Championship | 33123 | [33123-snooker-nation-championship.json](./33123-snooker-nation-championship.json) |
 | Snooker Stars | 121613 | [121613-snooker-stars.json](./121613-snooker-stars.json) |
 | Snoop Dogg Cruisin' | 225651 | [225651-snoop-dogg-cruisin.json](./225651-snoop-dogg-cruisin.json) |
+| Snooper Troops: Case #2 - The Case of the Disappearing Dolphin | 78945 | [78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json](./78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json) |
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
 | Snoopy no Hajimete no Otsukai | 324912 | [324912-snoopy-no-hajimete-no-otsukai.json](./324912-snoopy-no-hajimete-no-otsukai.json) |
 | Snoopy Tennis | 49878 | [49878-snoopy-tennis.json](./49878-snoopy-tennis.json) |
@@ -8230,6 +8234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starters Orders 7 | 137628 | [137628-starters-orders-7.json](./137628-starters-orders-7.json) |
 | Starters Orders Touch Horse Racing | 287746 | [287746-starters-orders-touch-horse-racing.json](./287746-starters-orders-touch-horse-racing.json) |
 | Starting the Game | 97230 | [97230-starting-the-game.json](./97230-starting-the-game.json) |
+| Startling Odyssey | 78944 | [78944-startling-odyssey.json](./78944-startling-odyssey.json) |
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
 | Startron | 333022 | [333022-startron.json](./333022-startron.json) |
 | Startup Freak | 74369 | [74369-startup-freak.json](./74369-startup-freak.json) |
@@ -9122,6 +9127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Me Down: Jock | 392931 | [392931-strip-me-down-jock.json](./392931-strip-me-down-jock.json) |
 | Strip Me Down: Office Worker | 392935 | [392935-strip-me-down-office-worker.json](./392935-strip-me-down-office-worker.json) |
 | Strip n Play with Valerie | 221205 | [221205-strip-n-play-with-valerie.json](./221205-strip-n-play-with-valerie.json) |
+| Strip Poker II | 78962 | [78962-strip-poker-ii.json](./78962-strip-poker-ii.json) |
 | Striping Fruits | 147410 | [147410-striping-fruits.json](./147410-striping-fruits.json) |
 | Stripper Anya 2: X-MiGuFighters | 75168 | [75168-stripper-anya-2-x-migufighters.json](./75168-stripper-anya-2-x-migufighters.json) |
 | Stripper Anya: Demon Slayer | 51511 | [51511-stripper-anya-demon-slayer.json](./51511-stripper-anya-demon-slayer.json) |
@@ -11294,6 +11300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SWIV | 12789 | [12789-swiv.json](./12789-swiv.json) |
 | Swoon! | 153998 | [153998-swoon.json](./153998-swoon.json) |
 | Swoon! Earth Escape | 225894 | [225894-swoon-earth-escape.json](./225894-swoon-earth-escape.json) |
+| Swoop | 78988 | [78988-swoop.json](./78988-swoop.json) |
 | Swoops! | 40750 | [40750-swoops.json](./40750-swoops.json) |
 | SwooshMania | 347723 | [347723-swooshmania.json](./347723-swooshmania.json) |
 | Sword & Dragon | 58234 | [58234-sword-and-dragon.json](./58234-sword-and-dragon.json) |
