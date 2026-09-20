@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manic Miner | 10161 | [10161-manic-miner.json](./10161-manic-miner.json) |
 | Manic Miner | 248054 | [248054-manic-miner.json](./248054-manic-miner.json) |
 | Manic Miners | 31839 | [31839-manic-miners.json](./31839-manic-miners.json) |
+| Manic Panic Ghosts | 97676 | [97676-manic-panic-ghosts.json](./97676-manic-panic-ghosts.json) |
 | Manic Troll | 246468 | [246468-manic-troll.json](./246468-manic-troll.json) |
 | Manic you and depressed me | 357816 | [357816-manic-you-and-depressed-me.json](./357816-manic-you-and-depressed-me.json) |
 | Manifest | 128581 | [128581-manifest.json](./128581-manifest.json) |
@@ -2464,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megurine Luka no Jikenbo | 264358 | [264358-megurine-luka-no-jikenbo.json](./264358-megurine-luka-no-jikenbo.json) |
 | Mei Paranormies 2 | 410236 | [410236-mei-paranormies-2.json](./410236-mei-paranormies-2.json) |
 | Mei Qi: Season 6 | 170375 | [170375-mei-qi-season-6.json](./170375-mei-qi-season-6.json) |
+| Meian | 97673 | [97673-meian.json](./97673-meian.json) |
 | MeiaUm: Escaping the Pix | 329373 | [329373-meiaum-escaping-the-pix.json](./329373-meiaum-escaping-the-pix.json) |
 | Meiji Tokyo Renka | 136445 | [136445-meiji-tokyo-renka.json](./136445-meiji-tokyo-renka.json) |
 | Meiji Tokyo Renka Full Moon | 136447 | [136447-meiji-tokyo-renka-full-moon.json](./136447-meiji-tokyo-renka-full-moon.json) |
@@ -3501,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milo | 57606 | [57606-milo.json](./57606-milo.json) |
 | Milo's Astro Lanes | 3411 | [3411-milos-astro-lanes.json](./3411-milos-astro-lanes.json) |
 | Milo's Quest | 137608 | [137608-milos-quest.json](./137608-milos-quest.json) |
+| Milon no Hoshizora Shabon: Puzzle Kumikyoku | 97681 | [97681-milon-no-hoshizora-shabon-puzzle-kumikyoku.json](./97681-milon-no-hoshizora-shabon-puzzle-kumikyoku.json) |
 | Milon's Secret Hell | 323347 | [323347-milons-secret-hell.json](./323347-milons-secret-hell.json) |
 | Milthm | 258703 | [258703-milthm.json](./258703-milthm.json) |
 | Milya[broken] | 150128 | [150128-milya-broken.json](./150128-milya-broken.json) |
@@ -5093,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Coffee | 128615 | [128615-morning-coffee.json](./128615-morning-coffee.json) |
 | Morning Kiss | 214174 | [214174-morning-kiss.json](./214174-morning-kiss.json) |
 | Morning Ritual | 179033 | [179033-morning-ritual.json](./179033-morning-ritual.json) |
+| Morning Ritual | 97706 | [97706-morning-ritual.json](./97706-morning-ritual.json) |
 | Mornings | 184059 | [184059-mornings.json](./184059-mornings.json) |
 | Morningstar | 415929 | [415929-morningstar.json](./415929-morningstar.json) |
 | Morningtide Motel | 318970 | [318970-morningtide-motel.json](./318970-morningtide-motel.json) |
@@ -5550,6 +5554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Elevator | 337088 | [337088-mr-elevator.json](./337088-mr-elevator.json) |
 | Mr. Fast | 127751 | [127751-mr-fast.json](./127751-mr-fast.json) |
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
+| Mr. Fluffykins' Great Sorting Adventure | 97707 | [97707-mr-fluffykins-great-sorting-adventure.json](./97707-mr-fluffykins-great-sorting-adventure.json) |
 | Mr. Gold: Tooyama no Kinsan Space Chou | 41317 | [41317-mr-gold-tooyama-no-kinsan-space-chou.json](./41317-mr-gold-tooyama-no-kinsan-space-chou.json) |
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
@@ -6343,6 +6348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Super Defender | 112965 | [112965-my-super-defender.json](./112965-my-super-defender.json) |
 | My SuperMart | 231919 | [231919-my-supermart.json](./231919-my-supermart.json) |
 | My Sweet Artificial Lover | 242652 | [242652-my-sweet-artificial-lover.json](./242652-my-sweet-artificial-lover.json) |
+| My Sweet Devil 3: Ring | 97695 | [97695-my-sweet-devil-3-ring.json](./97695-my-sweet-devil-3-ring.json) |
 | My Sweet Roomies | 378198 | [378198-my-sweet-roomies.json](./378198-my-sweet-roomies.json) |
 | My Sweet Washing Machine! | 156654 | [156654-my-sweet-washing-machine.json](./156654-my-sweet-washing-machine.json) |
 | My Talking Angela 2+ | 291985 | [291985-my-talking-angela-2.json](./291985-my-talking-angela-2.json) |
