@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tad the Lost Explorer and the Emerald Tablet: Craziest and Madness Edition | 250359 | [250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json](./250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json) |
 | Tadaima Yuusha Boshuuchuu Okawari | 37799 | [37799-tadaima-yuusha-boshuuchuu-okawari.json](./37799-tadaima-yuusha-boshuuchuu-okawari.json) |
 | Tadeo Jones y el Manuscrito Perdido | 82043 | [82043-tadeo-jones-y-el-manuscrito-perdido.json](./82043-tadeo-jones-y-el-manuscrito-perdido.json) |
+| Tadpole Swimmer | 110822 | [110822-tadpole-swimmer.json](./110822-tadpole-swimmer.json) |
 | Taern | 55929 | [55929-taern.json](./55929-taern.json) |
 | Tag Hop | 153413 | [153413-tag-hop.json](./153413-tag-hop.json) |
 | Tag League | 366328 | [366328-tag-league.json](./366328-tag-league.json) |
@@ -2157,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Block | 204712 | [204712-the-block.json](./204712-the-block.json) |
 | The Blockheads Server | 87690 | [87690-the-blockheads-server.json](./87690-the-blockheads-server.json) |
 | The Blocks Cometh | 66103 | [66103-the-blocks-cometh.json](./66103-the-blocks-cometh.json) |
+| The Blood Eclipse | 110826 | [110826-the-blood-eclipse.json](./110826-the-blood-eclipse.json) |
 | The Blood's Way | 364501 | [364501-the-bloods-way.json](./364501-the-bloods-way.json) |
 | The Bloody Cross | 342648 | [342648-the-bloody-cross.json](./342648-the-bloody-cross.json) |
 | The Blue Bedroom | 180847 | [180847-the-blue-bedroom.json](./180847-the-blue-bedroom.json) |
@@ -4391,6 +4393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Misadventures of Tron Bonne | 1753 | [1753-the-misadventures-of-tron-bonne.json](./1753-the-misadventures-of-tron-bonne.json) |
 | The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
 | The Misfortunes of a Nekomimi Catgirl Sorceress | 82914 | [82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json](./82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json) |
+| The Missing Few | 110808 | [110808-the-missing-few.json](./110808-the-missing-few.json) |
 | The Missing Locksmith | 135049 | [135049-the-missing-locksmith.json](./135049-the-missing-locksmith.json) |
 | The Missing Part | 349880 | [349880-the-missing-part.json](./349880-the-missing-part.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
@@ -4807,6 +4810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pyramid Prison | 127236 | [127236-the-pyramid-prison.json](./127236-the-pyramid-prison.json) |
 | The Pyramids of Egypt | 62671 | [62671-the-pyramids-of-egypt.json](./62671-the-pyramids-of-egypt.json) |
 | The Q - Live Trivia Network | 105863 | [105863-the-q-live-trivia-network.json](./105863-the-q-live-trivia-network.json) |
+| The Qaedon Wars - The Story Begins | 110829 | [110829-the-qaedon-wars-the-story-begins.json](./110829-the-qaedon-wars-the-story-begins.json) |
 | The Quarry | 194404 | [194404-the-quarry.json](./194404-the-quarry.json) |
 | The Queen of Battlers 2 | 324923 | [324923-the-queen-of-battlers-2.json](./324923-the-queen-of-battlers-2.json) |
 | The Queen TV-Game 2 | 147931 | [147931-the-queen-tv-game-2.json](./147931-the-queen-tv-game-2.json) |
@@ -6471,6 +6475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three of a Fish | 123546 | [123546-three-of-a-fish.json](./123546-three-of-a-fish.json) |
 | Three Skies Ascension | 318398 | [318398-three-skies-ascension.json](./318398-three-skies-ascension.json) |
 | Three Sons | 192968 | [192968-three-sons.json](./192968-three-sons.json) |
+| Three Treason Theories | 110787 | [110787-three-treason-theories.json](./110787-three-treason-theories.json) |
 | Three Verses | 298289 | [298289-three-verses.json](./298289-three-verses.json) |
 | Three's A Crowd | 256841 | [256841-threes-a-crowd.json](./256841-threes-a-crowd.json) |
 | Threefold Recital | 327486 | [327486-threefold-recital.json](./327486-threefold-recital.json) |
@@ -7423,6 +7428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Times Trials | 244245 | [244245-times-trials.json](./244245-times-trials.json) |
 | Times Turn | 185132 | [185132-times-turn.json](./185132-times-turn.json) |
 | TimeScape: Journey to Pompeii | 73819 | [73819-timescape-journey-to-pompeii.json](./73819-timescape-journey-to-pompeii.json) |
+| TimeScar: Hyperion | 110769 | [110769-timescar-hyperion.json](./110769-timescar-hyperion.json) |
 | Timeslip | 77974 | [77974-timeslip.json](./77974-timeslip.json) |
 | TimeSplitters | 317415 | [317415-timesplitters.json](./317415-timesplitters.json) |
 | TimeSplitters 2 | 317414 | [317414-timesplitters-2.json](./317414-timesplitters-2.json) |
@@ -9817,6 +9823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
 | Triumph | 184041 | [184041-triumph.json](./184041-triumph.json) |
 | Triuno Ascend | 398334 | [398334-triuno-ascend.json](./398334-triuno-ascend.json) |
+| Trivia | 110820 | [110820-trivia.json](./110820-trivia.json) |
 | Trivia Crack Adventure | 208370 | [208370-trivia-crack-adventure.json](./208370-trivia-crack-adventure.json) |
 | Trivia Crack Explorer | 208369 | [208369-trivia-crack-explorer.json](./208369-trivia-crack-explorer.json) |
 | Trivia Fantasy | 370767 | [370767-trivia-fantasy.json](./370767-trivia-fantasy.json) |
