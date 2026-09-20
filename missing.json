@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T19:02:38.779Z",
-  "total_missing": 98321,
+  "generated_at": "2026-09-20T19:17:41.200Z",
+  "total_missing": 98371,
   "games": [
     {
       "igdb_id": 176875,
@@ -40528,6 +40528,11 @@
       "file": "missing/B/282314-berzerk.json"
     },
     {
+      "igdb_id": 75505,
+      "game_name": "Berzerk Ball 2",
+      "file": "missing/B/75505-berzerk-ball-2.json"
+    },
+    {
       "igdb_id": 280756,
       "game_name": "Berzerk: Enhanced Edition",
       "file": "missing/B/280756-berzerk-enhanced-edition.json"
@@ -72393,6 +72398,11 @@
       "file": "missing/C/404944-citadel.json"
     },
     {
+      "igdb_id": 75523,
+      "game_name": "Citadel",
+      "file": "missing/C/75523-citadel.json"
+    },
+    {
       "igdb_id": 271812,
       "game_name": "Citadel of Fire",
       "file": "missing/C/271812-citadel-of-fire.json"
@@ -84941,6 +84951,11 @@
       "igdb_id": 165699,
       "game_name": "Crime District",
       "file": "missing/C/165699-crime-district.json"
+    },
+    {
+      "igdb_id": 75525,
+      "game_name": "Crime Fighters",
+      "file": "missing/C/75525-crime-fighters.json"
     },
     {
       "igdb_id": 240203,
@@ -98188,6 +98203,11 @@
       "file": "missing/D/285013-deep-among-the-swarm.json"
     },
     {
+      "igdb_id": 75524,
+      "game_name": "Deep Blue",
+      "file": "missing/D/75524-deep-blue.json"
+    },
+    {
       "igdb_id": 253612,
       "game_name": "Deep Blue Fantasy",
       "file": "missing/D/253612-deep-blue-fantasy.json"
@@ -100271,6 +100291,11 @@
       "igdb_id": 39634,
       "game_name": "Demon's World",
       "file": "missing/D/39634-demons-world.json"
+    },
+    {
+      "igdb_id": 75521,
+      "game_name": "Demon&Fairy",
+      "file": "missing/D/75521-demon-and-fairy.json"
     },
     {
       "igdb_id": 367391,
@@ -131698,6 +131723,11 @@
       "file": "missing/E/184602-exit-19.json"
     },
     {
+      "igdb_id": 75497,
+      "game_name": "Exit 3: Painter",
+      "file": "missing/E/75497-exit-3-painter.json"
+    },
+    {
       "igdb_id": 368486,
       "game_name": "Exit Control",
       "file": "missing/E/368486-exit-control.json"
@@ -138591,6 +138621,11 @@
       "igdb_id": 192373,
       "game_name": "Feed the Pets: Fall Animals",
       "file": "missing/F/192373-feed-the-pets-fall-animals.json"
+    },
+    {
+      "igdb_id": 75522,
+      "game_name": "Feed the Pig",
+      "file": "missing/F/75522-feed-the-pig.json"
     },
     {
       "igdb_id": 325712,
@@ -156813,6 +156848,16 @@
       "file": "missing/G/258440-galrock-girls.json"
     },
     {
+      "igdb_id": 75468,
+      "game_name": "Gals Fighters",
+      "file": "missing/G/75468-gals-fighters.json"
+    },
+    {
+      "igdb_id": 75466,
+      "game_name": "Gals Fighters (Best Collection)",
+      "file": "missing/G/75466-gals-fighters-best-collection.json"
+    },
+    {
       "igdb_id": 210715,
       "game_name": "Gals Panic 3",
       "file": "missing/G/210715-gals-panic-3.json"
@@ -161171,6 +161216,11 @@
       "igdb_id": 210859,
       "game_name": "Ghostkeeper",
       "file": "missing/G/210859-ghostkeeper.json"
+    },
+    {
+      "igdb_id": 75470,
+      "game_name": "Ghostlop (Limited release)",
+      "file": "missing/G/75470-ghostlop-limited-release.json"
     },
     {
       "igdb_id": 146853,
@@ -195978,6 +196028,11 @@
       "file": "missing/I/285041-idol-time-pripara.json"
     },
     {
+      "igdb_id": 75471,
+      "game_name": "Idol-Mahjong Final Romance 2",
+      "file": "missing/I/75471-idol-mahjong-final-romance-2.json"
+    },
+    {
       "igdb_id": 397084,
       "game_name": "Idols of Ash",
       "file": "missing/I/397084-idols-of-ash.json"
@@ -199738,9 +199793,64 @@
       "file": "missing/I/77354-injustice-gods-among-us.json"
     },
     {
+      "igdb_id": 75477,
+      "game_name": "Injustice: Gods Among Us - Ame-Comi Skins",
+      "file": "missing/I/75477-injustice-gods-among-us-ame-comi-skins.json"
+    },
+    {
+      "igdb_id": 75474,
+      "game_name": "Injustice: Gods Among Us - Blackest Night Pack 1",
+      "file": "missing/I/75474-injustice-gods-among-us-blackest-night-pack-1.json"
+    },
+    {
+      "igdb_id": 75476,
+      "game_name": "Injustice: Gods Among Us - Blackest Night Pack 2",
+      "file": "missing/I/75476-injustice-gods-among-us-blackest-night-pack-2.json"
+    },
+    {
+      "igdb_id": 75479,
+      "game_name": "Injustice: Gods Among Us - Flashpoint Skin Pack",
+      "file": "missing/I/75479-injustice-gods-among-us-flashpoint-skin-pack.json"
+    },
+    {
+      "igdb_id": 75473,
+      "game_name": "Injustice: Gods Among Us - Killing Joke Pack",
+      "file": "missing/I/75473-injustice-gods-among-us-killing-joke-pack.json"
+    },
+    {
+      "igdb_id": 75467,
+      "game_name": "Injustice: Gods Among Us - Martian Manhunter",
+      "file": "missing/I/75467-injustice-gods-among-us-martian-manhunter.json"
+    },
+    {
+      "igdb_id": 75480,
+      "game_name": "Injustice: Gods Among Us - Red Son Pack 2",
+      "file": "missing/I/75480-injustice-gods-among-us-red-son-pack-2.json"
+    },
+    {
       "igdb_id": 212252,
       "game_name": "Injustice: Gods Among Us - Special Edition",
       "file": "missing/I/212252-injustice-gods-among-us-special-edition.json"
+    },
+    {
+      "igdb_id": 75469,
+      "game_name": "Injustice: Gods Among Us - Teen Titans Skins",
+      "file": "missing/I/75469-injustice-gods-among-us-teen-titans-skins.json"
+    },
+    {
+      "igdb_id": 75488,
+      "game_name": "Injustice: Gods Among Us - The Man of Steel Pack: Superman",
+      "file": "missing/I/75488-injustice-gods-among-us-the-man-of-steel-pack-superman.json"
+    },
+    {
+      "igdb_id": 75481,
+      "game_name": "Injustice: Gods Among Us - The Man of Steel: Zod",
+      "file": "missing/I/75481-injustice-gods-among-us-the-man-of-steel-zod.json"
+    },
+    {
+      "igdb_id": 75465,
+      "game_name": "Injustice: Gods Among Us - Zatanna",
+      "file": "missing/I/75465-injustice-gods-among-us-zatanna.json"
     },
     {
       "igdb_id": 385181,
@@ -217721,6 +217831,11 @@
       "igdb_id": 324886,
       "game_name": "Knight-Blade: Howling of Kerberos",
       "file": "missing/K/324886-knight-blade-howling-of-kerberos.json"
+    },
+    {
+      "igdb_id": 75478,
+      "game_name": "Knight's Chance",
+      "file": "missing/K/75478-knights-chance.json"
     },
     {
       "igdb_id": 149037,
@@ -251558,6 +251673,36 @@
       "file": "missing/M/173779-metal-slug-1st-and-2nd-mission-double-pack.json"
     },
     {
+      "igdb_id": 75483,
+      "game_name": "Metal Slug 1st Mission (Best Collection)",
+      "file": "missing/M/75483-metal-slug-1st-mission-best-collection.json"
+    },
+    {
+      "igdb_id": 75484,
+      "game_name": "Metal Slug 1st Mission (Version A)",
+      "file": "missing/M/75484-metal-slug-1st-mission-version-a.json"
+    },
+    {
+      "igdb_id": 75485,
+      "game_name": "Metal Slug 1st Mission (Version B)",
+      "file": "missing/M/75485-metal-slug-1st-mission-version-b.json"
+    },
+    {
+      "igdb_id": 75486,
+      "game_name": "Metal Slug 1st Mission (Version C)",
+      "file": "missing/M/75486-metal-slug-1st-mission-version-c.json"
+    },
+    {
+      "igdb_id": 75487,
+      "game_name": "Metal Slug 1st Mission (Version D)",
+      "file": "missing/M/75487-metal-slug-1st-mission-version-d.json"
+    },
+    {
+      "igdb_id": 75489,
+      "game_name": "Metal Slug 2nd Mission (Best Collection)",
+      "file": "missing/M/75489-metal-slug-2nd-mission-best-collection.json"
+    },
+    {
       "igdb_id": 191479,
       "game_name": "Metal Slug 3",
       "file": "missing/M/191479-metal-slug-3.json"
@@ -274098,6 +274243,11 @@
       "file": "missing/N/148536-neo-2045.json"
     },
     {
+      "igdb_id": 75491,
+      "game_name": "Neo 21",
+      "file": "missing/N/75491-neo-21.json"
+    },
+    {
       "igdb_id": 72681,
       "game_name": "Neo Angelique",
       "file": "missing/N/72681-neo-angelique.json"
@@ -274108,6 +274258,11 @@
       "file": "missing/N/244993-neo-berlin-2087.json"
     },
     {
+      "igdb_id": 75492,
+      "game_name": "Neo Cherry Master",
+      "file": "missing/N/75492-neo-cherry-master.json"
+    },
+    {
       "igdb_id": 43980,
       "game_name": "Neo Cherry Master Color",
       "file": "missing/N/43980-neo-cherry-master-color.json"
@@ -274116,6 +274271,16 @@
       "igdb_id": 43968,
       "game_name": "Neo Derby Champ Daiyosou",
       "file": "missing/N/43968-neo-derby-champ-daiyosou.json"
+    },
+    {
+      "igdb_id": 75493,
+      "game_name": "Neo Geo CD Special",
+      "file": "missing/N/75493-neo-geo-cd-special.json"
+    },
+    {
+      "igdb_id": 75494,
+      "game_name": "Neo Geo Cup '98 Plus",
+      "file": "missing/N/75494-neo-geo-cup-98-plus.json"
     },
     {
       "igdb_id": 43976,
@@ -274166,6 +274331,11 @@
       "igdb_id": 109447,
       "game_name": "Neo no Panepon",
       "file": "missing/N/109447-neo-no-panepon.json"
+    },
+    {
+      "igdb_id": 75495,
+      "game_name": "Neo Pang",
+      "file": "missing/N/75495-neo-pang.json"
     },
     {
       "igdb_id": 61574,
@@ -278711,6 +278881,11 @@
       "igdb_id": 158048,
       "game_name": "Ninja Leagues: Masters of The Mystic Arts",
       "file": "missing/N/158048-ninja-leagues-masters-of-the-mystic-arts.json"
+    },
+    {
+      "igdb_id": 75503,
+      "game_name": "Ninja Massacre",
+      "file": "missing/N/75503-ninja-massacre.json"
     },
     {
       "igdb_id": 332530,
@@ -289578,6 +289753,11 @@
       "file": "missing/O/21009-orgarhythm.json"
     },
     {
+      "igdb_id": 75500,
+      "game_name": "Orge Battle Gaiden",
+      "file": "missing/O/75500-orge-battle-gaiden.json"
+    },
+    {
       "igdb_id": 137472,
       "game_name": "Oricmunch",
       "file": "missing/O/137472-oricmunch.json"
@@ -292998,6 +293178,11 @@
       "file": "missing/P/329016-pachinko-party.json"
     },
     {
+      "igdb_id": 75502,
+      "game_name": "Pachinko Pocket Parlor Guide",
+      "file": "missing/P/75502-pachinko-pocket-parlor-guide.json"
+    },
+    {
       "igdb_id": 385717,
       "game_name": "Pachinko Star Wing II",
       "file": "missing/P/385717-pachinko-star-wing-ii.json"
@@ -293036,6 +293221,21 @@
       "igdb_id": 315523,
       "game_name": "Pachislot Akumajou Dracula",
       "file": "missing/P/315523-pachislot-akumajou-dracula.json"
+    },
+    {
+      "igdb_id": 75507,
+      "game_name": "PachiSlot Aruze Kingdom - Delsol 2",
+      "file": "missing/P/75507-pachislot-aruze-kingdom-delsol-2.json"
+    },
+    {
+      "igdb_id": 75508,
+      "game_name": "PachiSlot Aruze Kingdom - Porcano 2",
+      "file": "missing/P/75508-pachislot-aruze-kingdom-porcano-2.json"
+    },
+    {
+      "igdb_id": 75509,
+      "game_name": "PachiSlot Aruze Kingdom - Ward of Lights",
+      "file": "missing/P/75509-pachislot-aruze-kingdom-ward-of-lights.json"
     },
     {
       "igdb_id": 64358,
@@ -322408,6 +322608,11 @@
       "file": "missing/Q/104110-quiz-country-flags.json"
     },
     {
+      "igdb_id": 75510,
+      "game_name": "Quiz Daisousa Sen: The Last Count Down",
+      "file": "missing/Q/75510-quiz-daisousa-sen-the-last-count-down.json"
+    },
+    {
       "igdb_id": 97677,
       "game_name": "Quiz Econosaurus",
       "file": "missing/Q/97677-quiz-econosaurus.json"
@@ -322436,6 +322641,11 @@
       "igdb_id": 110313,
       "game_name": "Quiz Master Zero and the Silky Road",
       "file": "missing/Q/110313-quiz-master-zero-and-the-silky-road.json"
+    },
+    {
+      "igdb_id": 75511,
+      "game_name": "Quiz Meitantei Neo & Geo: Quiz Daisousasen Part 2",
+      "file": "missing/Q/75511-quiz-meitantei-neo-and-geo-quiz-daisousasen-part-2.json"
     },
     {
       "igdb_id": 208029,
@@ -322796,6 +323006,11 @@
       "igdb_id": 350507,
       "game_name": "R.A.T.: Human Error – Episode One",
       "file": "missing/R/350507-r-a-t-human-error-episode-one.json"
+    },
+    {
+      "igdb_id": 75512,
+      "game_name": "R.A.Z.I.O.N",
+      "file": "missing/R/75512-r-a-z-i-o-n.json"
     },
     {
       "igdb_id": 17962,
@@ -325083,6 +325298,11 @@
       "file": "missing/R/100179-rally-championship-the-x-miles.json"
     },
     {
+      "igdb_id": 75514,
+      "game_name": "Rally Chase",
+      "file": "missing/R/75514-rally-chase.json"
+    },
+    {
       "igdb_id": 93365,
       "game_name": "Rally Cross Challenge",
       "file": "missing/R/93365-rally-cross-challenge.json"
@@ -325191,6 +325411,11 @@
       "igdb_id": 89279,
       "game_name": "Rally45",
       "file": "missing/R/89279-rally45.json"
+    },
+    {
+      "igdb_id": 75504,
+      "game_name": "Rallycross Simulator",
+      "file": "missing/R/75504-rallycross-simulator.json"
     },
     {
       "igdb_id": 221383,
@@ -337913,6 +338138,11 @@
       "file": "missing/R/137116-rockman-8-fc.json"
     },
     {
+      "igdb_id": 75515,
+      "game_name": "Rockman Battle & Fighters",
+      "file": "missing/R/75515-rockman-battle-and-fighters.json"
+    },
+    {
       "igdb_id": 352754,
       "game_name": "Rockman EXE 5: Kaizou Card - Part 1",
       "file": "missing/R/352754-rockman-exe-5-kaizou-card-part-1.json"
@@ -343431,6 +343661,11 @@
       "igdb_id": 38347,
       "game_name": "Ryuuko no Ken 2",
       "file": "missing/R/38347-ryuuko-no-ken-2.json"
+    },
+    {
+      "igdb_id": 75517,
+      "game_name": "Ryuuko No Ken Gaiden",
+      "file": "missing/R/75517-ryuuko-no-ken-gaiden.json"
     },
     {
       "igdb_id": 125193,
@@ -385048,6 +385283,11 @@
       "file": "missing/S/96481-stay-safe.json"
     },
     {
+      "igdb_id": 75499,
+      "game_name": "Stay Woke Etheral Edition",
+      "file": "missing/S/75499-stay-woke-etheral-edition.json"
+    },
+    {
       "igdb_id": 184073,
       "game_name": "Stay?",
       "file": "missing/S/184073-stay.json"
@@ -420408,6 +420648,11 @@
       "file": "missing/T/80566-the-king-of-fighters-97-ol.json"
     },
     {
+      "igdb_id": 75472,
+      "game_name": "The King of Fighters '98: Special Edition",
+      "file": "missing/T/75472-the-king-of-fighters-98-special-edition.json"
+    },
+    {
       "igdb_id": 80866,
       "game_name": "The King of Fighters '98: Ultimate Match Online",
       "file": "missing/T/80866-the-king-of-fighters-98-ultimate-match-online.json"
@@ -420821,6 +421066,11 @@
       "igdb_id": 44162,
       "game_name": "The Last Birdling",
       "file": "missing/T/44162-the-last-birdling.json"
+    },
+    {
+      "igdb_id": 75482,
+      "game_name": "The Last Blade (Best Collection)",
+      "file": "missing/T/75482-the-last-blade-best-collection.json"
     },
     {
       "igdb_id": 76045,
