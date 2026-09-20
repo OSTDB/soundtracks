@@ -4146,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle Can Float | 272826 | [272826-bottle-can-float.json](./272826-bottle-can-float.json) |
 | Bottle Flip Challenge VR | 28798 | [28798-bottle-flip-challenge-vr.json](./28798-bottle-flip-challenge-vr.json) |
 | Bottle Flip VR | 159895 | [159895-bottle-flip-vr.json](./159895-bottle-flip-vr.json) |
+| Bottle Flip! | 97099 | [97099-bottle-flip.json](./97099-bottle-flip.json) |
 | Bottle It!: Beverage Simulator | 389971 | [389971-bottle-it-beverage-simulator.json](./389971-bottle-it-beverage-simulator.json) |
 | Bottle of Sickness | 386216 | [386216-bottle-of-sickness.json](./386216-bottle-of-sickness.json) |
 | Bottom of the Ninth | 245547 | [245547-bottom-of-the-ninth.json](./245547-bottom-of-the-ninth.json) |
@@ -5360,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Rush | 71525 | [71525-burger-rush.json](./71525-burger-rush.json) |
 | Burger Shift: Team Rush | 391583 | [391583-burger-shift-team-rush.json](./391583-burger-shift-team-rush.json) |
 | Burger Shop Simulator 2024 | 326584 | [326584-burger-shop-simulator-2024.json](./326584-burger-shop-simulator-2024.json) |
+| Burger Story Beach Edition | 97150 | [97150-burger-story-beach-edition.json](./97150-burger-story-beach-edition.json) |
 | Burger Up | 121037 | [121037-burger-up.json](./121037-burger-up.json) |
 | Burger Wars | 66112 | [66112-burger-wars.json](./66112-burger-wars.json) |
 | Burger World | 181794 | [181794-burger-world.json](./181794-burger-world.json) |
@@ -5451,6 +5453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 18: Mercedes-Benz Bus Pack 1 | 225062 | [225062-bus-simulator-18-mercedes-benz-bus-pack-1.json](./225062-bus-simulator-18-mercedes-benz-bus-pack-1.json) |
 | Bus Simulator 18: Official Map Extension | 163354 | [163354-bus-simulator-18-official-map-extension.json](./163354-bus-simulator-18-official-map-extension.json) |
 | Bus Simulator 18: Setra Bus Pack 1 | 224124 | [224124-bus-simulator-18-setra-bus-pack-1.json](./224124-bus-simulator-18-setra-bus-pack-1.json) |
+| Bus Simulator 2015 HD: New York Route | 97148 | [97148-bus-simulator-2015-hd-new-york-route.json](./97148-bus-simulator-2015-hd-new-york-route.json) |
 | Bus Simulator 2023 | 227959 | [227959-bus-simulator-2023.json](./227959-bus-simulator-2023.json) |
 | Bus Simulator 21: MAN Bus Pack | 213951 | [213951-bus-simulator-21-man-bus-pack.json](./213951-bus-simulator-21-man-bus-pack.json) |
 | Bus Simulator 21: Next Stop - Halloween Skin Pack | 263040 | [263040-bus-simulator-21-next-stop-halloween-skin-pack.json](./263040-bus-simulator-21-next-stop-halloween-skin-pack.json) |
