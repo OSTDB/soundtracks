@@ -4569,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Hope | 113740 | [113740-dragons-hope.json](./113740-dragons-hope.json) |
 | Dragon's Lair | 272020 | [272020-dragons-lair.json](./272020-dragons-lair.json) |
 | Dragon's Lair | 272021 | [272021-dragons-lair.json](./272021-dragons-lair.json) |
+| Dragon's Lair HD | 100618 | [100618-dragons-lair-hd.json](./100618-dragons-lair-hd.json) |
 | Dragon's Lair Trilogy | 50593 | [50593-dragons-lair-trilogy.json](./50593-dragons-lair-trilogy.json) |
 | Dragon's Lair: Daring Edition | 100722 | [100722-dragons-lair-daring-edition.json](./100722-dragons-lair-daring-edition.json) |
 | Dragon's Lair: The Legend | 117950 | [117950-dragons-lair-the-legend.json](./117950-dragons-lair-the-legend.json) |
