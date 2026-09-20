@@ -2394,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The City of the Damned: Apocalypse | 141240 | [141240-the-city-of-the-damned-apocalypse.json](./141240-the-city-of-the-damned-apocalypse.json) |
 | The City of Time | 134415 | [134415-the-city-of-time.json](./134415-the-city-of-time.json) |
 | The Clans - Saga of the Twins | 35943 | [35943-the-clans-saga-of-the-twins.json](./35943-the-clans-saga-of-the-twins.json) |
+| The Class President is Home From School Today! | 97700 | [97700-the-class-president-is-home-from-school-today.json](./97700-the-class-president-is-home-from-school-today.json) |
 | The Classic Episode | 196249 | [196249-the-classic-episode.json](./196249-the-classic-episode.json) |
 | The Classic Lotus Trilogy | 39041 | [39041-the-classic-lotus-trilogy.json](./39041-the-classic-lotus-trilogy.json) |
 | The Cleaner | 198503 | [198503-the-cleaner.json](./198503-the-cleaner.json) |
@@ -2658,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day Nothing Happened | 70379 | [70379-the-day-nothing-happened.json](./70379-the-day-nothing-happened.json) |
 | The Day That Changed My Life | 224642 | [224642-the-day-that-changed-my-life.json](./224642-the-day-that-changed-my-life.json) |
 | The Day the World Broke | 7721 | [7721-the-day-the-world-broke.json](./7721-the-day-the-world-broke.json) |
+| The Day the World Changed | 97713 | [97713-the-day-the-world-changed.json](./97713-the-day-the-world-changed.json) |
 | The Day We Met was a Regular Day in the Infinitely Looping Highschool, is That Normal? | 192953 | [192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json](./192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json) |
 | The Dead Linger | 9055 | [9055-the-dead-linger.json](./9055-the-dead-linger.json) |
 | The Dead Mountaineer's Hotel | 54438 | [54438-the-dead-mountaineers-hotel.json](./54438-the-dead-mountaineers-hotel.json) |
@@ -8629,6 +8631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touryuu Densetsu: Elan Doree | 77295 | [77295-touryuu-densetsu-elan-doree.json](./77295-touryuu-densetsu-elan-doree.json) |
 | Toushin Gent | 319209 | [319209-toushin-gent.json](./319209-toushin-gent.json) |
 | Toushin Toshi Girls Gift RPG | 175943 | [175943-toushin-toshi-girls-gift-rpg.json](./175943-toushin-toshi-girls-gift-rpg.json) |
+| Tousui Kitan | 97698 | [97698-tousui-kitan.json](./97698-tousui-kitan.json) |
 | Tover | 24994 | [24994-tover.json](./24994-tover.json) |
 | Toverblade | 145473 | [145473-toverblade.json](./145473-toverblade.json) |
 | Tow Game | 348347 | [348347-tow-game.json](./348347-tow-game.json) |
@@ -8787,6 +8790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townsmen: A Kingdom Rebuilt - The Seaside Empire | 155067 | [155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json](./155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json) |
 | Townville, the Show | 132178 | [132178-townville-the-show.json](./132178-townville-the-show.json) |
 | TowOrbs | 413726 | [413726-toworbs.json](./413726-toworbs.json) |
+| Toxic 2 | 97685 | [97685-toxic-2.json](./97685-toxic-2.json) |
 | Toxic Bubbles | 23730 | [23730-toxic-bubbles.json](./23730-toxic-bubbles.json) |
 | Toxic Terror: Episode 2 - The Lich's Lair | 170391 | [170391-toxic-terror-episode-2-the-lichs-lair.json](./170391-toxic-terror-episode-2-the-lichs-lair.json) |
 | Toxic Toads | 322973 | [322973-toxic-toads.json](./322973-toxic-toads.json) |
@@ -10007,6 +10011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble in Warsaw | 326069 | [326069-trouble-in-warsaw.json](./326069-trouble-in-warsaw.json) |
 | Trouble Inn: Jonny's Room | 163949 | [163949-trouble-inn-jonnys-room.json](./163949-trouble-inn-jonnys-room.json) |
 | Trouble of Tabu | 298050 | [298050-trouble-of-tabu.json](./298050-trouble-of-tabu.json) |
+| Trouble Score | 97720 | [97720-trouble-score.json](./97720-trouble-score.json) |
 | Troubled Waters | 352254 | [352254-troubled-waters.json](./352254-troubled-waters.json) |
 | TroubleDays | 129346 | [129346-troubledays.json](./129346-troubledays.json) |
 | Troublemaker | 153398 | [153398-troublemaker.json](./153398-troublemaker.json) |
