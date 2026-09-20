@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saap2003 | 77319 | [77319-saap2003.json](./77319-saap2003.json) |
 | Sabak Legend | 123563 | [123563-sabak-legend.json](./123563-sabak-legend.json) |
 | Saban's Mighty Morphin Power Rangers: Mega Battle | 78258 | [78258-sabans-mighty-morphin-power-rangers-mega-battle.json](./78258-sabans-mighty-morphin-power-rangers-mega-battle.json) |
+| Sabat Fight Arena | 116110 | [116110-sabat-fight-arena.json](./116110-sabat-fight-arena.json) |
 | Sabbat of the Witch | 105342 | [105342-sabbat-of-the-witch.json](./105342-sabbat-of-the-witch.json) |
 | Saber Fight VR | 127529 | [127529-saber-fight-vr.json](./127529-saber-fight-vr.json) |
 | Saber Punks | 152309 | [152309-saber-punks.json](./152309-saber-punks.json) |
@@ -1182,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sculpturn | 264141 | [264141-sculpturn.json](./264141-sculpturn.json) |
 | Scum: Vehicle Skins Pack | 288905 | [288905-scum-vehicle-skins-pack.json](./288905-scum-vehicle-skins-pack.json) |
 | Scumball | 45361 | [45361-scumball.json](./45361-scumball.json) |
+| Scuos | 116167 | [116167-scuos.json](./116167-scuos.json) |
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
 | Scythe Shepard | 276717 | [276717-scythe-shepard.json](./276717-scythe-shepard.json) |
 | Scythe X | 137667 | [137667-scythe-x.json](./137667-scythe-x.json) |
@@ -3951,6 +3953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyward Collapse: Nihon no Mura | 10871 | [10871-skyward-collapse-nihon-no-mura.json](./10871-skyward-collapse-nihon-no-mura.json) |
 | Skyward Journey | 320367 | [320367-skyward-journey.json](./320367-skyward-journey.json) |
 | Skyweaver | 123039 | [123039-skyweaver.json](./123039-skyweaver.json) |
+| Skywire | 116128 | [116128-skywire.json](./116128-skywire.json) |
 | Skywire 2 | 280333 | [280333-skywire-2.json](./280333-skywire-2.json) |
 | Slag | 70398 | [70398-slag.json](./70398-slag.json) |
 | Sláine: The Celtic Barbarian | 53163 | [53163-slaine-the-celtic-barbarian.json](./53163-slaine-the-celtic-barbarian.json) |
@@ -5234,6 +5237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of the Mask | 265638 | [265638-son-of-the-mask.json](./265638-son-of-the-mask.json) |
 | Sonak | 356648 | [356648-sonak.json](./356648-sonak.json) |
 | Sonder: Lights of Little Tokyo | 219589 | [219589-sonder-lights-of-little-tokyo.json](./219589-sonder-lights-of-little-tokyo.json) |
+| Song Animals | 116101 | [116101-song-animals.json](./116101-song-animals.json) |
 | Song in the Smoke | 145450 | [145450-song-in-the-smoke.json](./145450-song-in-the-smoke.json) |
 | Song of Hero: Music RPG | 260763 | [260763-song-of-hero-music-rpg.json](./260763-song-of-hero-music-rpg.json) |
 | Song of Horror - Episode 3 | 135151 | [135151-song-of-horror-episode-3.json](./135151-song-of-horror-episode-3.json) |
@@ -7301,6 +7305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staff! | 269095 | [269095-staff.json](./269095-staff.json) |
 | Staffer Case: A Supernatural Mystery Adventure | 215713 | [215713-staffer-case-a-supernatural-mystery-adventure.json](./215713-staffer-case-a-supernatural-mystery-adventure.json) |
 | Stage Break Idle | 369549 | [369549-stage-break-idle.json](./369549-stage-break-idle.json) |
+| Stage of Light | 116169 | [116169-stage-of-light.json](./116169-stage-of-light.json) |
 | Stage Presence | 34744 | [34744-stage-presence.json](./34744-stage-presence.json) |
 | Stagehand Survival Simulator | 239733 | [239733-stagehand-survival-simulator.json](./239733-stagehand-survival-simulator.json) |
 | Stagehand: A Reverse Platformer | 97306 | [97306-stagehand-a-reverse-platformer.json](./97306-stagehand-a-reverse-platformer.json) |
@@ -7404,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Connect | 233737 | [233737-star-connect.json](./233737-star-connect.json) |
 | Star Conqueror | 337631 | [337631-star-conqueror.json](./337631-star-conqueror.json) |
 | Star Control: Origins | 25311 | [25311-star-control-origins.json](./25311-star-control-origins.json) |
+| Star Control: Origins - Earth Rising | 116143 | [116143-star-control-origins-earth-rising.json](./116143-star-control-origins-earth-rising.json) |
 | Star Control: Origins - Multiverse | 124805 | [124805-star-control-origins-multiverse.json](./124805-star-control-origins-multiverse.json) |
 | Star Cosmic | 407309 | [407309-star-cosmic.json](./407309-star-cosmic.json) |
 | Star Crafter | 329131 | [329131-star-crafter.json](./329131-star-crafter.json) |
@@ -11022,6 +11028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Coast Legends: Rage of Demons | 19477 | [19477-sword-coast-legends-rage-of-demons.json](./19477-sword-coast-legends-rage-of-demons.json) |
 | Sword Dancer | 117673 | [117673-sword-dancer.json](./117673-sword-dancer.json) |
 | Sword Daughter | 35937 | [35937-sword-daughter.json](./35937-sword-daughter.json) |
+| Sword Defense | 116170 | [116170-sword-defense.json](./116170-sword-defense.json) |
 | Sword Fight | 289876 | [289876-sword-fight.json](./289876-sword-fight.json) |
 | Sword Fishing | 180718 | [180718-sword-fishing.json](./180718-sword-fishing.json) |
 | Sword Game | 143473 | [143473-sword-game.json](./143473-sword-game.json) |
