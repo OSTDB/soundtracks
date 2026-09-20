@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me | 145034 | [145034-me.json](./145034-me.json) |
 | Me & My Katamari | 6455 | [6455-me-and-my-katamari.json](./6455-me-and-my-katamari.json) |
 | Me & My Robot Friend | 128595 | [128595-me-and-my-robot-friend.json](./128595-me-and-my-robot-friend.json) |
+| Me and My Shadow | 124037 | [124037-me-and-my-shadow.json](./124037-me-and-my-shadow.json) |
 | Me and the Key 2 | 225280 | [225280-me-and-the-key-2.json](./225280-me-and-the-key-2.json) |
 | Me and the Key 3 | 225281 | [225281-me-and-the-key-3.json](./225281-me-and-the-key-3.json) |
 | Me and the Zombies | 200714 | [200714-me-and-the-zombies.json](./200714-me-and-the-zombies.json) |
@@ -2226,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Knight | 288367 | [288367-mega-knight.json](./288367-mega-knight.json) |
 | Mega Mall Story 2 | 146725 | [146725-mega-mall-story-2.json](./146725-mega-mall-story-2.json) |
 | Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
+| Mega Man & Mega Man X 5in1 Special Box | 124033 | [124033-mega-man-and-mega-man-x-5in1-special-box.json](./124033-mega-man-and-mega-man-x-5in1-special-box.json) |
 | Mega Man 11: Collector's Package | 167160 | [167160-mega-man-11-collectors-package.json](./167160-mega-man-11-collectors-package.json) |
 | Mega Man 2 Lite | 206149 | [206149-mega-man-2-lite.json](./206149-mega-man-2-lite.json) |
 | Mega Man 2 Randomizer | 324885 | [324885-mega-man-2-randomizer.json](./324885-mega-man-2-randomizer.json) |
