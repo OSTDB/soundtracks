@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T17:32:42.252Z",
-  "total_missing": 98021,
+  "generated_at": "2026-09-20T17:47:41.831Z",
+  "total_missing": 98071,
   "games": [
     {
       "igdb_id": 176875,
@@ -3703,6 +3703,11 @@
       "file": "missing/0-9/121777-70-seconds-adventure.json"
     },
     {
+      "igdb_id": 79588,
+      "game_name": "70's Robot Anime Geppy-X",
+      "file": "missing/0-9/79588-70s-robot-anime-geppy-x.json"
+    },
+    {
       "igdb_id": 392917,
       "game_name": "70s-style Robot Anime Geppy-X",
       "file": "missing/0-9/392917-70s-style-robot-anime-geppy-x.json"
@@ -7398,6 +7403,11 @@
       "file": "missing/A/242534-adibou-dchou-au-cirque.json"
     },
     {
+      "igdb_id": 79572,
+      "game_name": "ADK Damashii",
+      "file": "missing/A/79572-adk-damashii.json"
+    },
+    {
       "igdb_id": 112303,
       "game_name": "Adlib",
       "file": "missing/A/112303-adlib.json"
@@ -9353,6 +9363,11 @@
       "file": "missing/A/234624-air-jet-fighter-combat-europe-fly-plane-attack.json"
     },
     {
+      "igdb_id": 79610,
+      "game_name": "Air Land Sea",
+      "file": "missing/A/79610-air-land-sea.json"
+    },
+    {
       "igdb_id": 77273,
       "game_name": "Air Legends",
       "file": "missing/A/77273-air-legends.json"
@@ -10076,6 +10091,11 @@
       "igdb_id": 204685,
       "game_name": "Akane Chan-bara",
       "file": "missing/A/204685-akane-chan-bara.json"
+    },
+    {
+      "igdb_id": 79590,
+      "game_name": "Akane-iro ni Somaru Saka Parallels",
+      "file": "missing/A/79590-akane-iro-ni-somaru-saka-parallels.json"
     },
     {
       "igdb_id": 56532,
@@ -20406,6 +20426,11 @@
       "igdb_id": 206131,
       "game_name": "Arcade & Action: XP Championship",
       "file": "missing/A/206131-arcade-and-action-xp-championship.json"
+    },
+    {
+      "igdb_id": 79626,
+      "game_name": "Arcade & Puzzle Games",
+      "file": "missing/A/79626-arcade-and-puzzle-games.json"
     },
     {
       "igdb_id": 319566,
@@ -38661,6 +38686,11 @@
       "igdb_id": 94745,
       "game_name": "Beatmania 3rdMix",
       "file": "missing/B/94745-beatmania-3rdmix.json"
+    },
+    {
+      "igdb_id": 79612,
+      "game_name": "Beatmania 6thMix: The UK Underground Music",
+      "file": "missing/B/79612-beatmania-6thmix-the-uk-underground-music.json"
     },
     {
       "igdb_id": 94743,
@@ -66568,6 +66598,11 @@
       "file": "missing/C/241618-chadboy.json"
     },
     {
+      "igdb_id": 79586,
+      "game_name": "Chagunitzu",
+      "file": "missing/C/79586-chagunitzu.json"
+    },
+    {
       "igdb_id": 236280,
       "game_name": "Chai",
       "file": "missing/C/236280-chai.json"
@@ -69361,6 +69396,11 @@
       "igdb_id": 225859,
       "game_name": "Children's Jigsaw Puzzles: Beautifully Illustrated - Expansion Pack",
       "file": "missing/C/225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json"
+    },
+    {
+      "igdb_id": 79608,
+      "game_name": "Chill",
+      "file": "missing/C/79608-chill.json"
     },
     {
       "igdb_id": 337457,
@@ -78446,6 +78486,11 @@
       "igdb_id": 359997,
       "game_name": "Compound Word Puzzles 2",
       "file": "missing/C/359997-compound-word-puzzles-2.json"
+    },
+    {
+      "igdb_id": 79596,
+      "game_name": "Compromised",
+      "file": "missing/C/79596-compromised.json"
     },
     {
       "igdb_id": 338291,
@@ -104033,6 +104078,11 @@
       "file": "missing/D/310920-dik-journey.json"
     },
     {
+      "igdb_id": 79618,
+      "game_name": "Dikembe Mutombo's 4 1/2 Weeks to Save the World",
+      "file": "missing/D/79618-dikembe-mutombos-4-1-2-weeks-to-save-the-world.json"
+    },
+    {
       "igdb_id": 82876,
       "game_name": "Dilarara!!",
       "file": "missing/D/82876-dilarara.json"
@@ -108031,6 +108081,11 @@
       "igdb_id": 234039,
       "game_name": "Doka-chan no Onigokko",
       "file": "missing/D/234039-doka-chan-no-onigokko.json"
+    },
+    {
+      "igdb_id": 79598,
+      "game_name": "Dokapon",
+      "file": "missing/D/79598-dokapon.json"
     },
     {
       "igdb_id": 234349,
@@ -122798,6 +122853,11 @@
       "file": "missing/E/55918-electronia.json"
     },
     {
+      "igdb_id": 79584,
+      "game_name": "Electronic Billiards",
+      "file": "missing/E/79584-electronic-billiards.json"
+    },
+    {
       "igdb_id": 233610,
       "game_name": "Electronic Hand-Held Connect Four",
       "file": "missing/E/233610-electronic-hand-held-connect-four.json"
@@ -137078,6 +137138,11 @@
       "file": "missing/F/218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json"
     },
     {
+      "igdb_id": 79585,
+      "game_name": "Fast Action Paq",
+      "file": "missing/F/79585-fast-action-paq.json"
+    },
+    {
       "igdb_id": 292288,
       "game_name": "Fast Beat Battle Rider",
       "file": "missing/F/292288-fast-beat-battle-rider.json"
@@ -140818,6 +140883,11 @@
       "file": "missing/F/306095-finch-and-archie.json"
     },
     {
+      "igdb_id": 79571,
+      "game_name": "Finck",
+      "file": "missing/F/79571-finck.json"
+    },
+    {
       "igdb_id": 400314,
       "game_name": "FinCrementalOS",
       "file": "missing/F/400314-fincrementalos.json"
@@ -142688,6 +142758,11 @@
       "file": "missing/F/337173-fisher-price-little-people-christmas-activity-center.json"
     },
     {
+      "igdb_id": 79595,
+      "game_name": "Fisher-Price Outdoor Adventures: Ranger Trail",
+      "file": "missing/F/79595-fisher-price-outdoor-adventures-ranger-trail.json"
+    },
+    {
       "igdb_id": 70360,
       "game_name": "Fisher-Price: Big Action Garage",
       "file": "missing/F/70360-fisher-price-big-action-garage.json"
@@ -143651,6 +143726,11 @@
       "igdb_id": 100129,
       "game_name": "Five Star Games",
       "file": "missing/F/100129-five-star-games.json"
+    },
+    {
+      "igdb_id": 79601,
+      "game_name": "Five Star Games 2",
+      "file": "missing/F/79601-five-star-games-2.json"
     },
     {
       "igdb_id": 285438,
@@ -161743,6 +161823,11 @@
       "file": "missing/G/51245-gl-117-action-flight-simulator.json"
     },
     {
+      "igdb_id": 79621,
+      "game_name": "Glace",
+      "file": "missing/G/79621-glace.json"
+    },
+    {
       "igdb_id": 16902,
       "game_name": "Glacier 3: The Meltdown",
       "file": "missing/G/16902-glacier-3-the-meltdown.json"
@@ -162196,6 +162281,11 @@
       "igdb_id": 329388,
       "game_name": "Global Transport",
       "file": "missing/G/329388-global-transport.json"
+    },
+    {
+      "igdb_id": 79605,
+      "game_name": "Global War",
+      "file": "missing/G/79605-global-war.json"
     },
     {
       "igdb_id": 115676,
@@ -168763,6 +168853,11 @@
       "file": "missing/G/362838-grim-tales-light-in-the-darkness-collectors-edition.json"
     },
     {
+      "igdb_id": 79616,
+      "game_name": "Grim Tales: The Bride",
+      "file": "missing/G/79616-grim-tales-the-bride.json"
+    },
+    {
       "igdb_id": 99996,
       "game_name": "Grim Tales: The Heir",
       "file": "missing/G/99996-grim-tales-the-heir.json"
@@ -172086,6 +172181,11 @@
       "igdb_id": 39682,
       "game_name": "Gyrodine",
       "file": "missing/G/39682-gyrodine.json"
+    },
+    {
+      "igdb_id": 79623,
+      "game_name": "Gyron",
+      "file": "missing/G/79623-gyron.json"
     },
     {
       "igdb_id": 343878,
@@ -200303,6 +200403,11 @@
       "file": "missing/I/274193-internal-reaches-4.json"
     },
     {
+      "igdb_id": 79619,
+      "game_name": "International 5-A-Side",
+      "file": "missing/I/79619-international-5-a-side.json"
+    },
+    {
       "igdb_id": 20321,
       "game_name": "International Athletics",
       "file": "missing/I/20321-international-athletics.json"
@@ -203243,6 +203348,11 @@
       "file": "missing/I/330845-itoshi-kokoro.json"
     },
     {
+      "igdb_id": 79599,
+      "game_name": "Itouke no Urawaza DS",
+      "file": "missing/I/79599-itouke-no-urawaza-ds.json"
+    },
+    {
       "igdb_id": 90652,
       "game_name": "iTownGamePlay UNIVERSE",
       "file": "missing/I/90652-itowngameplay-universe.json"
@@ -203716,6 +203826,11 @@
       "igdb_id": 83920,
       "game_name": "J.A.O.S.S",
       "file": "missing/J/83920-j-a-o-s-s.json"
+    },
+    {
+      "igdb_id": 79622,
+      "game_name": "J.B. Harold no Jikenbo: Kiss of Murder",
+      "file": "missing/J/79622-j-b-harold-no-jikenbo-kiss-of-murder.json"
     },
     {
       "igdb_id": 319584,
@@ -207298,6 +207413,11 @@
       "file": "missing/J/210132-john-deere-american-farmer-deluxe-edition.json"
     },
     {
+      "igdb_id": 79589,
+      "game_name": "John Deere: American Builder Deluxe",
+      "file": "missing/J/79589-john-deere-american-builder-deluxe.json"
+    },
+    {
       "igdb_id": 210131,
       "game_name": "John Deere: Busy Days in Deerfield Valley",
       "file": "missing/J/210131-john-deere-busy-days-in-deerfield-valley.json"
@@ -210121,6 +210241,11 @@
       "igdb_id": 132238,
       "game_name": "Justice.exe",
       "file": "missing/J/132238-justice-exe.json"
+    },
+    {
+      "igdb_id": 79575,
+      "game_name": "Justin Bieber Revenge",
+      "file": "missing/J/79575-justin-bieber-revenge.json"
     },
     {
       "igdb_id": 121639,
@@ -229803,6 +229928,11 @@
       "file": "missing/L/252221-little-white-man-vs-x.json"
     },
     {
+      "igdb_id": 79591,
+      "game_name": "Little Wing",
+      "file": "missing/L/79591-little-wing.json"
+    },
+    {
       "igdb_id": 333658,
       "game_name": "Little Wings Deliveries",
       "file": "missing/L/333658-little-wings-deliveries.json"
@@ -235548,6 +235678,11 @@
       "file": "missing/L/259020-lunia-z-revival.json"
     },
     {
+      "igdb_id": 79597,
+      "game_name": "Lunicus",
+      "file": "missing/L/79597-lunicus.json"
+    },
+    {
       "igdb_id": 282674,
       "game_name": "Lunium",
       "file": "missing/L/282674-lunium.json"
@@ -236041,6 +236176,11 @@
       "igdb_id": 49918,
       "game_name": "M&M's Minis Madness",
       "file": "missing/M/49918-m-and-ms-minis-madness.json"
+    },
+    {
+      "igdb_id": 79613,
+      "game_name": "M&M's: The Lost Formulas",
+      "file": "missing/M/79613-m-and-ms-the-lost-formulas.json"
     },
     {
       "igdb_id": 323761,
@@ -251458,6 +251598,11 @@
       "file": "missing/M/120820-metronium.json"
     },
     {
+      "igdb_id": 79577,
+      "game_name": "Metronome",
+      "file": "missing/M/79577-metronome.json"
+    },
+    {
       "igdb_id": 66601,
       "game_name": "Metronome HD",
       "file": "missing/M/66601-metronome-hd.json"
@@ -253021,6 +253166,11 @@
       "igdb_id": 196293,
       "game_name": "Midway: Sink the Japanese Aircraft Carriers",
       "file": "missing/M/196293-midway-sink-the-japanese-aircraft-carriers.json"
+    },
+    {
+      "igdb_id": 79580,
+      "game_name": "Midwinter",
+      "file": "missing/M/79580-midwinter.json"
     },
     {
       "igdb_id": 110484,
@@ -255081,6 +255231,11 @@
       "igdb_id": 246469,
       "game_name": "Mini Golf",
       "file": "missing/M/246469-mini-golf.json"
+    },
+    {
+      "igdb_id": 79593,
+      "game_name": "Mini Golf 2003",
+      "file": "missing/M/79593-mini-golf-2003.json"
     },
     {
       "igdb_id": 117753,
@@ -267446,6 +267601,11 @@
       "igdb_id": 282122,
       "game_name": "My Little Pony: Magic Garden",
       "file": "missing/M/282122-my-little-pony-magic-garden.json"
+    },
+    {
+      "igdb_id": 79615,
+      "game_name": "My Little Pony: Twilight Sparkle, Teacher for a Day",
+      "file": "missing/M/79615-my-little-pony-twilight-sparkle-teacher-for-a-day.json"
     },
     {
       "igdb_id": 159852,
@@ -295948,6 +296108,11 @@
       "file": "missing/P/113684-party-poppers.json"
     },
     {
+      "igdb_id": 79607,
+      "game_name": "Party Print 'N Play",
+      "file": "missing/P/79607-party-print-n-play.json"
+    },
+    {
       "igdb_id": 273981,
       "game_name": "Party Project",
       "file": "missing/P/273981-party-project.json"
@@ -296511,6 +296676,11 @@
       "igdb_id": 326595,
       "game_name": "Pathologic 3: Quarantine",
       "file": "missing/P/326595-pathologic-3-quarantine.json"
+    },
+    {
+      "igdb_id": 79606,
+      "game_name": "Pathology",
+      "file": "missing/P/79606-pathology.json"
     },
     {
       "igdb_id": 102614,
@@ -311606,6 +311776,11 @@
       "igdb_id": 382344,
       "game_name": "Power Chips",
       "file": "missing/P/382344-power-chips.json"
+    },
+    {
+      "igdb_id": 79614,
+      "game_name": "Power Dolls FX",
+      "file": "missing/P/79614-power-dolls-fx.json"
     },
     {
       "igdb_id": 320349,
@@ -350398,6 +350573,11 @@
       "file": "missing/S/308409-sega-flipper.json"
     },
     {
+      "igdb_id": 79600,
+      "game_name": "Sega Game Pack 4 in 1",
+      "file": "missing/S/79600-sega-game-pack-4-in-1.json"
+    },
+    {
       "igdb_id": 51261,
       "game_name": "Sega Genesis Classic Collection: Gold Edition",
       "file": "missing/S/51261-sega-genesis-classic-collection-gold-edition.json"
@@ -364418,6 +364598,11 @@
       "file": "missing/S/55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json"
     },
     {
+      "igdb_id": 79574,
+      "game_name": "Slottso Party",
+      "file": "missing/S/79574-slottso-party.json"
+    },
+    {
       "igdb_id": 313870,
       "game_name": "Slow Burn",
       "file": "missing/S/313870-slow-burn.json"
@@ -373828,6 +374013,11 @@
       "file": "missing/S/69888-space-invaders-anniversary.json"
     },
     {
+      "igdb_id": 79611,
+      "game_name": "Space Invaders Extreme Z",
+      "file": "missing/S/79611-space-invaders-extreme-z.json"
+    },
+    {
       "igdb_id": 229786,
       "game_name": "Space Invaders Micro Player",
       "file": "missing/S/229786-space-invaders-micro-player.json"
@@ -380723,6 +380913,11 @@
       "file": "missing/S/200713-star-hearts-launch-point.json"
     },
     {
+      "igdb_id": 79625,
+      "game_name": "Star Hogs: Online & Campaign Battles",
+      "file": "missing/S/79625-star-hogs-online-and-campaign-battles.json"
+    },
+    {
       "igdb_id": 35690,
       "game_name": "Star Horizon",
       "file": "missing/S/35690-star-horizon.json"
@@ -386203,6 +386398,11 @@
       "file": "missing/S/12781-stormlord.json"
     },
     {
+      "igdb_id": 79594,
+      "game_name": "Stormovik: Soviet Attack Fighter SU-25",
+      "file": "missing/S/79594-stormovik-soviet-attack-fighter-su-25.json"
+    },
+    {
       "igdb_id": 184563,
       "game_name": "StormRend",
       "file": "missing/S/184563-stormrend.json"
@@ -388841,6 +389041,11 @@
       "igdb_id": 80545,
       "game_name": "Subnet",
       "file": "missing/S/80545-subnet.json"
+    },
+    {
+      "igdb_id": 79587,
+      "game_name": "Subnodule",
+      "file": "missing/S/79587-subnodule.json"
     },
     {
       "igdb_id": 263598,
@@ -416583,6 +416788,11 @@
       "file": "missing/T/244994-the-geometric-golfer.json"
     },
     {
+      "igdb_id": 79609,
+      "game_name": "The Getaway 3",
+      "file": "missing/T/79609-the-getaway-3.json"
+    },
+    {
       "igdb_id": 48998,
       "game_name": "The Getaway: High Speed II",
       "file": "missing/T/48998-the-getaway-high-speed-ii.json"
@@ -418046,6 +418256,11 @@
       "igdb_id": 225292,
       "game_name": "The I of It",
       "file": "missing/T/225292-the-i-of-it.json"
+    },
+    {
+      "igdb_id": 79603,
+      "game_name": "The IBM Basic Quiz",
+      "file": "missing/T/79603-the-ibm-basic-quiz.json"
     },
     {
       "igdb_id": 180672,
@@ -422156,6 +422371,11 @@
       "igdb_id": 374051,
       "game_name": "The Man Who Walked",
       "file": "missing/T/374051-the-man-who-walked.json"
+    },
+    {
+      "igdb_id": 79581,
+      "game_name": "The Manager",
+      "file": "missing/T/79581-the-manager.json"
     },
     {
       "igdb_id": 61567,
@@ -465178,6 +465398,11 @@
       "file": "missing/V/224211-volleyball-trainer-the-legend-of-sports.json"
     },
     {
+      "igdb_id": 79579,
+      "game_name": "Volleyball Xciting",
+      "file": "missing/V/79579-volleyball-xciting.json"
+    },
+    {
       "igdb_id": 109453,
       "game_name": "Volleyball!",
       "file": "missing/V/109453-volleyball.json"
@@ -473598,6 +473823,11 @@
       "file": "missing/W/79869-white-album-2-closing-chapter.json"
     },
     {
+      "igdb_id": 79617,
+      "game_name": "White Album 2: Introductory Chapter",
+      "file": "missing/W/79617-white-album-2-introductory-chapter.json"
+    },
+    {
       "igdb_id": 79871,
       "game_name": "White Album 2: Shiawase no Mukougawa",
       "file": "missing/W/79871-white-album-2-shiawase-no-mukougawa.json"
@@ -478968,6 +479198,11 @@
       "file": "missing/W/143515-world-election.json"
     },
     {
+      "igdb_id": 79578,
+      "game_name": "World Empire III",
+      "file": "missing/W/79578-world-empire-iii.json"
+    },
+    {
       "igdb_id": 73753,
       "game_name": "World Empire IV",
       "file": "missing/W/73753-world-empire-iv.json"
@@ -479051,6 +479286,11 @@
       "igdb_id": 358960,
       "game_name": "World Heroes Supreme Justice Extra",
       "file": "missing/W/358960-world-heroes-supreme-justice-extra.json"
+    },
+    {
+      "igdb_id": 79620,
+      "game_name": "World Karate Championship",
+      "file": "missing/W/79620-world-karate-championship.json"
     },
     {
       "igdb_id": 119779,
@@ -485523,6 +485763,11 @@
       "file": "missing/Y/68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json"
     },
     {
+      "igdb_id": 79576,
+      "game_name": "Yu-Gi-Oh! BAM Pocket",
+      "file": "missing/Y/79576-yu-gi-oh-bam-pocket.json"
+    },
+    {
       "igdb_id": 174874,
       "game_name": "Yu-Gi-Oh! Cross Duel",
       "file": "missing/Y/174874-yu-gi-oh-cross-duel.json"
@@ -489606,6 +489851,11 @@
       "igdb_id": 20773,
       "game_name": "Zoo Tycoon 2 DS",
       "file": "missing/Z/20773-zoo-tycoon-2-ds.json"
+    },
+    {
+      "igdb_id": 79604,
+      "game_name": "Zoo Tycoon 2: Endangered Species",
+      "file": "missing/Z/79604-zoo-tycoon-2-endangered-species.json"
     },
     {
       "igdb_id": 100132,
