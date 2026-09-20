@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
 | 13 Seconds | 283868 | [283868-13-seconds.json](./283868-13-seconds.json) |
 | 13: Origin - Chapter One | 197399 | [197399-13-origin-chapter-one.json](./197399-13-origin-chapter-one.json) |
+| 1337D00m | 109489 | [109489-1337d00m.json](./109489-1337d00m.json) |
 | 1378km | 139389 | [139389-1378km.json](./139389-1378km.json) |
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
 | 13th Friday Night: Funk Blood | 314500 | [314500-13th-friday-night-funk-blood.json](./314500-13th-friday-night-funk-blood.json) |
@@ -289,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 150 Floors | 228439 | [228439-150-floors.json](./228439-150-floors.json) |
 | 1500 DS Spirits Vol. 4: Reversi | 100196 | [100196-1500-ds-spirits-vol-4-reversi.json](./100196-1500-ds-spirits-vol-4-reversi.json) |
 | 15th Prison | 316431 | [316431-15th-prison.json](./316431-15th-prison.json) |
+| 15x15 | 109473 | [109473-15x15.json](./109473-15x15.json) |
 | 16 | 263010 | [263010-16.json](./263010-16.json) |
 | 16 Balls: Pocket PachinGo! | 240342 | [240342-16-balls-pocket-pachingo.json](./240342-16-balls-pocket-pachingo.json) |
 | 16 Bit Rally | 182935 | [182935-16-bit-rally.json](./182935-16-bit-rally.json) |
