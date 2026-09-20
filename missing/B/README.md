@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baku Maru | 369039 | [369039-baku-maru.json](./369039-baku-maru.json) |
 | Bakugan Battle Brawlers: Arcade Battlers | 122989 | [122989-bakugan-battle-brawlers-arcade-battlers.json](./122989-bakugan-battle-brawlers-arcade-battlers.json) |
 | Bakugan: Rise of the Resistance | 26690 | [26690-bakugan-rise-of-the-resistance.json](./26690-bakugan-rise-of-the-resistance.json) |
+| Bakumatsu Renka: Shinsengumi DS | 122864 | [122864-bakumatsu-renka-shinsengumi-ds.json](./122864-bakumatsu-renka-shinsengumi-ds.json) |
 | Bakumatsu Roman: Gekka no Kenshi 1+2 | 84253 | [84253-bakumatsu-roman-gekka-no-kenshi-1-2.json](./84253-bakumatsu-roman-gekka-no-kenshi-1-2.json) |
 | Bakuretsu Breaker | 40269 | [40269-bakuretsu-breaker.json](./40269-bakuretsu-breaker.json) |
 | Bakuretsu Hunters: Mahjong Special | 123058 | [123058-bakuretsu-hunters-mahjong-special.json](./123058-bakuretsu-hunters-mahjong-special.json) |
@@ -882,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrok | 309877 | [309877-barrok.json](./309877-barrok.json) |
 | Barrok 2 | 382290 | [382290-barrok-2.json](./382290-barrok-2.json) |
 | Barry Bonds enter the world of Myst | 322363 | [322363-barry-bonds-enter-the-world-of-myst.json](./322363-barry-bonds-enter-the-world-of-myst.json) |
+| Barry Bradford's Putt Panic Party | 122865 | [122865-barry-bradfords-putt-panic-party.json](./122865-barry-bradfords-putt-panic-party.json) |
 | Barry Has a Secret | 102173 | [102173-barry-has-a-secret.json](./102173-barry-has-a-secret.json) |
 | Barry Mcguigan Championship Boxing | 45336 | [45336-barry-mcguigan-championship-boxing.json](./45336-barry-mcguigan-championship-boxing.json) |
 | Barry the Bunny | 151187 | [151187-barry-the-bunny.json](./151187-barry-the-bunny.json) |
@@ -1808,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beggar's Road | 406195 | [406195-beggars-road.json](./406195-beggars-road.json) |
 | BeGone | 109038 | [109038-begone.json](./109038-begone.json) |
 | Behemoth | 320724 | [320724-behemoth.json](./320724-behemoth.json) |
+| BeHero: Be Your Legend | 122889 | [122889-behero-be-your-legend.json](./122889-behero-be-your-legend.json) |
 | Behind Closed Doors | 385578 | [385578-behind-closed-doors.json](./385578-behind-closed-doors.json) |
 | Behind Closed Doors (Revenge of the Ants) | 58847 | [58847-behind-closed-doors-revenge-of-the-ants.json](./58847-behind-closed-doors-revenge-of-the-ants.json) |
 | Behind Closed Doors (The Sequel) | 58852 | [58852-behind-closed-doors-the-sequel.json](./58852-behind-closed-doors-the-sequel.json) |
@@ -1874,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beluga | 256857 | [256857-beluga.json](./256857-beluga.json) |
 | Beluga Dreams | 268498 | [268498-beluga-dreams.json](./268498-beluga-dreams.json) |
 | Beluga: Kamikaze Aircraft Carrier | 237512 | [237512-beluga-kamikaze-aircraft-carrier.json](./237512-beluga-kamikaze-aircraft-carrier.json) |
+| Belzerion | 122881 | [122881-belzerion.json](./122881-belzerion.json) |
 | Bemuzed | 135908 | [135908-bemuzed.json](./135908-bemuzed.json) |
 | Ben 10 | 363904 | [363904-ben-10.json](./363904-ben-10.json) |
 | Ben 10 Alien Balls | 343826 | [343826-ben-10-alien-balls.json](./343826-ben-10-alien-balls.json) |
@@ -2662,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Cat: Kikai Shikake no Tenshi | 229712 | [229712-black-cat-kikai-shikake-no-tenshi.json](./229712-black-cat-kikai-shikake-no-tenshi.json) |
 | Black Cauldron Remake | 319346 | [319346-black-cauldron-remake.json](./319346-black-cauldron-remake.json) |
 | Black Chapter | 156624 | [156624-black-chapter.json](./156624-black-chapter.json) |
+| Black Clover: Infinite Knights | 122885 | [122885-black-clover-infinite-knights.json](./122885-black-clover-infinite-knights.json) |
 | Black Clover: Quartet Knights - Royal Magic Knight Set: Blue | 224123 | [224123-black-clover-quartet-knights-royal-magic-knight-set-blue.json](./224123-black-clover-quartet-knights-royal-magic-knight-set-blue.json) |
 | Black Clover: Quartet Knights - Royal Magic Knight Set: Wizard King | 224122 | [224122-black-clover-quartet-knights-royal-magic-knight-set-wizard-king.json](./224122-black-clover-quartet-knights-royal-magic-knight-set-wizard-king.json) |
 | Black Code | 55840 | [55840-black-code.json](./55840-black-code.json) |
@@ -3475,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
 | Blue Tower Chronicle | 413739 | [413739-blue-tower-chronicle.json](./413739-blue-tower-chronicle.json) |
 | Blue Wars | 193947 | [193947-blue-wars.json](./193947-blue-wars.json) |
+| Blue Wish Resurrection Plus | 122850 | [122850-blue-wish-resurrection-plus.json](./122850-blue-wish-resurrection-plus.json) |
 | Blue Wyrm | 331956 | [331956-blue-wyrm.json](./331956-blue-wyrm.json) |
 | Blue-Sky-Blue(s): Sora o Mau Tsubasa | 318594 | [318594-blue-sky-blue-s-sora-o-mau-tsubasa.json](./318594-blue-sky-blue-s-sora-o-mau-tsubasa.json) |
 | Blue's Birthday | 229070 | [229070-blues-birthday.json](./229070-blues-birthday.json) |
@@ -3916,6 +3922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boopa Zap | 93550 | [93550-boopa-zap.json](./93550-boopa-zap.json) |
 | Booper, Get Home! | 38949 | [38949-booper-get-home.json](./38949-booper-get-home.json) |
 | Boopie Island | 406732 | [406732-boopie-island.json](./406732-boopie-island.json) |
+| Boorp's Balls | 122892 | [122892-boorps-balls.json](./122892-boorps-balls.json) |
 | Boost | 29832 | [29832-boost.json](./29832-boost.json) |
 | Boost Beast | 51518 | [51518-boost-beast.json](./51518-boost-beast.json) |
 | Boost Race | 105893 | [105893-boost-race.json](./105893-boost-race.json) |
@@ -4775,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruce Lee: Quest of the Dragon | 5758 | [5758-bruce-lee-quest-of-the-dragon.json](./5758-bruce-lee-quest-of-the-dragon.json) |
 | Bruce Quest: The Secrets of the Outback | 379888 | [379888-bruce-quest-the-secrets-of-the-outback.json](./379888-bruce-quest-the-secrets-of-the-outback.json) |
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
+| Brunch Club | 122867 | [122867-brunch-club.json](./122867-brunch-club.json) |
 | Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
 | Brunswick Pro Bowling | 4731 | [4731-brunswick-pro-bowling.json](./4731-brunswick-pro-bowling.json) |
 | Brunswick World: Tournament of Champions | 42596 | [42596-brunswick-world-tournament-of-champions.json](./42596-brunswick-world-tournament-of-champions.json) |
@@ -5211,6 +5219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burgal's Bounty | 205604 | [205604-burgals-bounty.json](./205604-burgals-bounty.json) |
 | Burger | 302367 | [302367-burger.json](./302367-burger.json) |
 | Burger Bots Inc. | 365101 | [365101-burger-bots-inc.json](./365101-burger-bots-inc.json) |
+| Burger Chef Tycoon | 122869 | [122869-burger-chef-tycoon.json](./122869-burger-chef-tycoon.json) |
 | Burger Chef Tycoon: Co-op Edition | 250363 | [250363-burger-chef-tycoon-co-op-edition.json](./250363-burger-chef-tycoon-co-op-edition.json) |
 | Burger Chef Tycoon: Complete Edition | 199110 | [199110-burger-chef-tycoon-complete-edition.json](./199110-burger-chef-tycoon-complete-edition.json) |
 | Burger Chef Tycoon: Elite Edition | 332515 | [332515-burger-chef-tycoon-elite-edition.json](./332515-burger-chef-tycoon-elite-edition.json) |
@@ -5404,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly: Rin | 119728 | [119728-butterfly-rin.json](./119728-butterfly-rin.json) |
 | Butterfly's Poison: Blood Chains - Fantasy Night Stories | 226207 | [226207-butterflys-poison-blood-chains-fantasy-night-stories.json](./226207-butterflys-poison-blood-chains-fantasy-night-stories.json) |
 | Butterfly//Circuit | 252234 | [252234-butterfly-circuit.json](./252234-butterfly-circuit.json) |
+| Button Button Up! | 122868 | [122868-button-button-up.json](./122868-button-button-up.json) |
 | Button Cat | 339120 | [339120-button-cat.json](./339120-button-cat.json) |
 | Button City | 136980 | [136980-button-city.json](./136980-button-city.json) |
 | Button City: Soccer Days | 252771 | [252771-button-city-soccer-days.json](./252771-button-city-soccer-days.json) |
