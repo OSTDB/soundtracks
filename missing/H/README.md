@@ -3683,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hue Hop | 311642 | [311642-hue-hop.json](./311642-hue-hop.json) |
 | Huebi's Adventure | 394339 | [394339-huebis-adventure.json](./394339-huebis-adventure.json) |
 | HueBots | 34589 | [34589-huebots.json](./34589-huebots.json) |
+| Huebrix | 68924 | [68924-huebrix.json](./68924-huebrix.json) |
 | Huenison | 34253 | [34253-huenison.json](./34253-huenison.json) |
 | Hueor | 127365 | [127365-hueor.json](./127365-hueor.json) |
 | Hues | 289853 | [289853-hues.json](./289853-hues.json) |
