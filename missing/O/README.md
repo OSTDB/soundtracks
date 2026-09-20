@@ -1359,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origins of Merlin: Muscles and Magic | 166710 | [166710-origins-of-merlin-muscles-and-magic.json](./166710-origins-of-merlin-muscles-and-magic.json) |
 | Origins TCG | 412262 | [412262-origins-tcg.json](./412262-origins-tcg.json) |
 | Orin Gamble | 396901 | [396901-orin-gamble.json](./396901-orin-gamble.json) |
+| Orion | 95180 | [95180-orion.json](./95180-orion.json) |
 | Orion Defense | 348356 | [348356-orion-defense.json](./348356-orion-defense.json) |
 | Orion Everton: Mysteries of Metrosomia | 291774 | [291774-orion-everton-mysteries-of-metrosomia.json](./291774-orion-everton-mysteries-of-metrosomia.json) |
 | Orion shadow of jerboa | 127339 | [127339-orion-shadow-of-jerboa.json](./127339-orion-shadow-of-jerboa.json) |
@@ -1677,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Factory | 279106 | [279106-outer-factory.json](./279106-outer-factory.json) |
 | Outer Outage | 265964 | [265964-outer-outage.json](./265964-outer-outage.json) |
 | Outer Rat | 143020 | [143020-outer-rat.json](./143020-outer-rat.json) |
+| Outer Rim: Survivor | 95191 | [95191-outer-rim-survivor.json](./95191-outer-rim-survivor.json) |
 | Outer Terror | 206226 | [206226-outer-terror.json](./206226-outer-terror.json) |
 | Outer Wards: Proving Grounds | 260234 | [260234-outer-wards-proving-grounds.json](./260234-outer-wards-proving-grounds.json) |
 | Outer Zone | 350505 | [350505-outer-zone.json](./350505-outer-zone.json) |
