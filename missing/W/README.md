@@ -1878,6 +1878,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Survivor Protocol | 392125 | [392125-winter-survivor-protocol.json](./392125-winter-survivor-protocol.json) |
 | Winter Tramp | 201683 | [201683-winter-tramp.json](./201683-winter-tramp.json) |
 | Winter Voices | 16220 | [16220-winter-voices.json](./16220-winter-voices.json) |
+| Winter Voices: Episode 1 - Those Who Have No Name | 65742 | [65742-winter-voices-episode-1-those-who-have-no-name.json](./65742-winter-voices-episode-1-those-who-have-no-name.json) |
+| Winter Voices: Episode 2 - Nowhere of Me | 65741 | [65741-winter-voices-episode-2-nowhere-of-me.json](./65741-winter-voices-episode-2-nowhere-of-me.json) |
+| Winter Voices: Episode 3 - Like a Crow on a Wire | 65740 | [65740-winter-voices-episode-3-like-a-crow-on-a-wire.json](./65740-winter-voices-episode-3-like-a-crow-on-a-wire.json) |
+| Winter Voices: Episode 4 - Amethyst Rivers | 65739 | [65739-winter-voices-episode-4-amethyst-rivers.json](./65739-winter-voices-episode-4-amethyst-rivers.json) |
 | Winter Walk | 63882 | [63882-winter-walk.json](./63882-winter-walk.json) |
 | Winter Walk 2006 | 326780 | [326780-winter-walk-2006.json](./326780-winter-walk-2006.json) |
 | Winter With You | 188108 | [188108-winter-with-you.json](./188108-winter-with-you.json) |
