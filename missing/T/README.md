@@ -2432,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cleaner | 403681 | [403681-the-cleaner.json](./403681-the-cleaner.json) |
 | The Climate Trail | 122332 | [122332-the-climate-trail.json](./122332-the-climate-trail.json) |
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
+| The Clique: Queen Teen | 76969 | [76969-the-clique-queen-teen.json](./76969-the-clique-queen-teen.json) |
 | The Clock Chronicle | 182915 | [182915-the-clock-chronicle.json](./182915-the-clock-chronicle.json) |
 | The Clockwork Labyrinth | 166704 | [166704-the-clockwork-labyrinth.json](./166704-the-clockwork-labyrinth.json) |
 | The Clockwork Man 2 | 88744 | [88744-the-clockwork-man-2.json](./88744-the-clockwork-man-2.json) |
@@ -3784,6 +3785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters 2001 | 15432 | [15432-the-king-of-fighters-2001.json](./15432-the-king-of-fighters-2001.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
 | The King of Fighters EX2: Howling Blood | 49169 | [49169-the-king-of-fighters-ex2-howling-blood.json](./49169-the-king-of-fighters-ex2-howling-blood.json) |
+| The King of Fighters Online | 76968 | [76968-the-king-of-fighters-online.json](./76968-the-king-of-fighters-online.json) |
 | The King of Fighters XIII: Galaxy Edition | 126461 | [126461-the-king-of-fighters-xiii-galaxy-edition.json](./126461-the-king-of-fighters-xiii-galaxy-edition.json) |
 | The King of Fighters XIII: Iori with the Power of Flames | 404927 | [404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json](./404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json) |
 | The King of Fighters XIII: Mr. Karate | 404942 | [404942-the-king-of-fighters-xiii-mr-karate.json](./404942-the-king-of-fighters-xiii-mr-karate.json) |
@@ -8072,6 +8074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell Collection | 53821 | [53821-tom-clancys-splinter-cell-collection.json](./53821-tom-clancys-splinter-cell-collection.json) |
 | Tom Clancy's Splinter Cell HD | 100003 | [100003-tom-clancys-splinter-cell-hd.json](./100003-tom-clancys-splinter-cell-hd.json) |
 | Tom Clancy's Splinter Cell: Blacklist - 5th Freedom Edition | 44568 | [44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json](./44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json) |
+| Tom Clancy's Splinter Cell: Blacklist - Upper Echelon Edition | 76983 | [76983-tom-clancys-splinter-cell-blacklist-upper-echelon-edition.json](./76983-tom-clancys-splinter-cell-blacklist-upper-echelon-edition.json) |
 | Tom Clancy's Splinter Cell: Chaos Theory HD | 100004 | [100004-tom-clancys-splinter-cell-chaos-theory-hd.json](./100004-tom-clancys-splinter-cell-chaos-theory-hd.json) |
 | Tom Clancy's Splinter Cell: Conviction - Insurgency Pack | 11010 | [11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json](./11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json) |
 | Tom Clancy's Splinter Cell: Double Agent | 182225 | [182225-tom-clancys-splinter-cell-double-agent.json](./182225-tom-clancys-splinter-cell-double-agent.json) |
@@ -8760,6 +8763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Doom | 150499 | [150499-tower-of-doom.json](./150499-tower-of-doom.json) |
 | Tower of Doom VR | 310921 | [310921-tower-of-doom-vr.json](./310921-tower-of-doom-vr.json) |
 | Tower of Dreams | 265705 | [265705-tower-of-dreams.json](./265705-tower-of-dreams.json) |
+| Tower of Druaga: Tower of Defender | 76964 | [76964-tower-of-druaga-tower-of-defender.json](./76964-tower-of-druaga-tower-of-defender.json) |
 | Tower of Eglathia | 35702 | [35702-tower-of-eglathia.json](./35702-tower-of-eglathia.json) |
 | Tower of Evil | 25731 | [25731-tower-of-evil.json](./25731-tower-of-evil.json) |
 | Tower of Fortune | 130751 | [130751-tower-of-fortune.json](./130751-tower-of-fortune.json) |
