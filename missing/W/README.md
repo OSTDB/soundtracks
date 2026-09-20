@@ -1796,6 +1796,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Haven | 310926 | [310926-wing-haven.json](./310926-wing-haven.json) |
 | Wing of Darkness | 114756 | [114756-wing-of-darkness.json](./114756-wing-of-darkness.json) |
 | Wing of Darkness: Limited Edition | 140005 | [140005-wing-of-darkness-limited-edition.json](./140005-wing-of-darkness-limited-edition.json) |
+| Wing Over | 67674 | [67674-wing-over.json](./67674-wing-over.json) |
+| Wing Over 2 | 67667 | [67667-wing-over-2.json](./67667-wing-over-2.json) |
 | Winged Sakura: Mindy's Arc 2 | 111049 | [111049-winged-sakura-mindys-arc-2.json](./111049-winged-sakura-mindys-arc-2.json) |
 | Winglancer | 68966 | [68966-winglancer.json](./68966-winglancer.json) |
 | Wingless Fairies | 304059 | [304059-wingless-fairies.json](./304059-wingless-fairies.json) |
@@ -2105,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WizBall | 415127 | [415127-wizball.json](./415127-wizball.json) |
 | Wizdom | 85500 | [85500-wizdom.json](./85500-wizdom.json) |
 | Wizlite: Everybody loved RPGs | 304013 | [304013-wizlite-everybody-loved-rpgs.json](./304013-wizlite-everybody-loved-rpgs.json) |
+| WiZmans World | 67669 | [67669-wizmans-world.json](./67669-wizmans-world.json) |
 | WiZmans World ReTry | 265641 | [265641-wizmans-world-retry.json](./265641-wizmans-world-retry.json) |
 | WizMo's Workshop: Dragons of Frozzbokk | 94577 | [94577-wizmos-workshop-dragons-of-frozzbokk.json](./94577-wizmos-workshop-dragons-of-frozzbokk.json) |
 | WizUp! | 290917 | [290917-wizup.json](./290917-wizup.json) |
