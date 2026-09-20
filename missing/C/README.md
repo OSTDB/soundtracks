@@ -2621,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chunithm X-Verse-X International Version | 397774 | [397774-chunithm-x-verse-x-international-version.json](./397774-chunithm-x-verse-x-international-version.json) |
 | Chunk | 355072 | [355072-chunk.json](./355072-chunk.json) |
 | Chunkers | 207347 | [207347-chunkers.json](./207347-chunkers.json) |
+| Chunkout | 92305 | [92305-chunkout.json](./92305-chunkout.json) |
 | Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
 | Chura-umi Monogatari | 292139 | [292139-chura-umi-monogatari.json](./292139-chura-umi-monogatari.json) |
 | Church Era | 118391 | [118391-church-era.json](./118391-church-era.json) |
@@ -5203,6 +5204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage: Classic Card Game | 87704 | [87704-cribbage-classic-card-game.json](./87704-cribbage-classic-card-game.json) |
 | Cricket 07 | 10619 | [10619-cricket-07.json](./10619-cricket-07.json) |
 | Cricket 2000 | 79891 | [79891-cricket-2000.json](./79891-cricket-2000.json) |
+| Cricket 2002 | 92314 | [92314-cricket-2002.json](./92314-cricket-2002.json) |
 | Cricket 96 | 94684 | [94684-cricket-96.json](./94684-cricket-96.json) |
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
 | Cricket Captain 2023 | 252242 | [252242-cricket-captain-2023.json](./252242-cricket-captain-2023.json) |
