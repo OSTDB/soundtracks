@@ -1400,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Lady! Complete Edition | 187447 | [187447-hello-lady-complete-edition.json](./187447-hello-lady-complete-edition.json) |
 | Hello Loaf | 367496 | [367496-hello-loaf.json](./367496-hello-loaf.json) |
 | Hello Neighbor 2: Deluxe Edition | 196805 | [196805-hello-neighbor-2-deluxe-edition.json](./196805-hello-neighbor-2-deluxe-edition.json) |
+| Hello Neighbor Bundle | 118852 | [118852-hello-neighbor-bundle.json](./118852-hello-neighbor-bundle.json) |
 | Hello Neighbor: Hide and Seek | 107614 | [107614-hello-neighbor-hide-and-seek.json](./107614-hello-neighbor-hide-and-seek.json) |
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
 | Hello Pollution! | 102145 | [102145-hello-pollution.json](./102145-hello-pollution.json) |
@@ -3299,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotspot Football | 58190 | [58190-hotspot-football.json](./58190-hotspot-football.json) |
 | Hottarake no Shima: Kanata to Niji-iro no Kagami | 123035 | [123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json](./123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json) |
 | Houdini Master of the Extraordinary 1: The Temple of the Serpent | 218136 | [218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json](./218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json) |
+| Houdini Redux | 118805 | [118805-houdini-redux.json](./118805-houdini-redux.json) |
 | Houkago Cinderella | 182470 | [182470-houkago-cinderella.json](./182470-houkago-cinderella.json) |
 | Houkago Cinderella: Complete Limited Edition | 182479 | [182479-houkago-cinderella-complete-limited-edition.json](./182479-houkago-cinderella-complete-limited-edition.json) |
 | Houkago Girls Tribe | 55928 | [55928-houkago-girls-tribe.json](./55928-houkago-girls-tribe.json) |
@@ -3692,6 +3694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunteroids | 212911 | [212911-hunteroids.json](./212911-hunteroids.json) |
 | Hunters 2 | 22318 | [22318-hunters-2.json](./22318-hunters-2.json) |
 | Hunters All Star Battle | 137657 | [137657-hunters-all-star-battle.json](./137657-hunters-all-star-battle.json) |
+| Hunters For Your Brain | 118804 | [118804-hunters-for-your-brain.json](./118804-hunters-for-your-brain.json) |
 | Hunters Gate | 110327 | [110327-hunters-gate.json](./110327-hunters-gate.json) |
 | Hunters: Episode One | 63800 | [63800-hunters-episode-one.json](./63800-hunters-episode-one.json) |
 | Hunters' Moon | 214032 | [214032-hunters-moon.json](./214032-hunters-moon.json) |
