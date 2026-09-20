@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bear's Night Out | 124606 | [124606-a-bears-night-out.json](./124606-a-bears-night-out.json) |
 | A Better World | 345591 | [345591-a-better-world.json](./345591-a-better-world.json) |
 | A Bewitching Revolution | 124258 | [124258-a-bewitching-revolution.json](./124258-a-bewitching-revolution.json) |
+| A Bomb's Way | 64677 | [64677-a-bombs-way.json](./64677-a-bombs-way.json) |
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
 | A Border With No End | 414416 | [414416-a-border-with-no-end.json](./414416-a-border-with-no-end.json) |
 | A Box Full of Joy | 356680 | [356680-a-box-full-of-joy.json](./356680-a-box-full-of-joy.json) |
@@ -3502,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana | 67701 | [67701-arcana.json](./67701-arcana.json) |
 | Arcana Academy | 367968 | [367968-arcana-academy.json](./367968-arcana-academy.json) |
 | Arcana Famiglia Collezione! Piccola Amore | 218493 | [218493-arcana-famiglia-collezione-piccola-amore.json](./218493-arcana-famiglia-collezione-piccola-amore.json) |
+| Arcana Famiglia: Vascello Phantasma no Majutsushi | 64668 | [64668-arcana-famiglia-vascello-phantasma-no-majutsushi.json](./64668-arcana-famiglia-vascello-phantasma-no-majutsushi.json) |
 | Arcana Heart | 243694 | [243694-arcana-heart.json](./243694-arcana-heart.json) |
 | Arcana Ritter | 91422 | [91422-arcana-ritter.json](./91422-arcana-ritter.json) |
 | Arcana: Boundless Horizon | 220306 | [220306-arcana-boundless-horizon.json](./220306-arcana-boundless-horizon.json) |
