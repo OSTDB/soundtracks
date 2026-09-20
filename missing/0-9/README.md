@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1, 2, 3... Bruegel! | 118319 | [118319-1-2-3-bruegel.json](./118319-1-2-3-bruegel.json) |
 | 1/2 Blood | 98422 | [98422-1-2-blood.json](./98422-1-2-blood.json) |
 | 10 | 294440 | [294440-10.json](./294440-10.json) |
+| 10 Amazingly Awful Games | 78332 | [78332-10-amazingly-awful-games.json](./78332-10-amazingly-awful-games.json) |
 | 10 Blaze Escape | 326084 | [326084-10-blaze-escape.json](./326084-10-blaze-escape.json) |
 | 10 Cent Classics: Shady Pack | 56451 | [56451-10-cent-classics-shady-pack.json](./56451-10-cent-classics-shady-pack.json) |
 | 10 Days to Save the World | 382905 | [382905-10-days-to-save-the-world.json](./382905-10-days-to-save-the-world.json) |
@@ -521,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 35 Electric | 382899 | [382899-35-electric.json](./382899-35-electric.json) |
 | 35MM | 19396 | [19396-35mm.json](./19396-35mm.json) |
 | 36 Nights | 277942 | [277942-36-nights.json](./277942-36-nights.json) |
+| 360 Mega App Pack HD | 78352 | [78352-360-mega-app-pack-hd.json](./78352-360-mega-app-pack-hd.json) |
 | 360 Mega Pack HD Remix | 98814 | [98814-360-mega-pack-hd-remix.json](./98814-360-mega-pack-hd-remix.json) |
 | 360: Three Sixty | 45318 | [45318-360-three-sixty.json](./45318-360-three-sixty.json) |
 | 365 Days | 29917 | [29917-365-days.json](./29917-365-days.json) |
