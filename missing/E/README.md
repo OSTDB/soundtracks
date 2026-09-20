@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Metal | 296367 | [296367-enemy-metal.json](./296367-enemy-metal.json) |
 | Enemy of the State | 204545 | [204545-enemy-of-the-state.json](./204545-enemy-of-the-state.json) |
 | Enemy On the Tail! | 320518 | [320518-enemy-on-the-tail.json](./320518-enemy-on-the-tail.json) |
+| Enen Angel | 107641 | [107641-enen-angel.json](./107641-enen-angel.json) |
 | Enenra | 182458 | [182458-enenra.json](./182458-enenra.json) |
 | Ener-G: Modern Dance | 201272 | [201272-ener-g-modern-dance.json](./201272-ener-g-modern-dance.json) |
 | Energy | 63332 | [63332-energy.json](./63332-energy.json) |
