@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Commando Shooting FPS Fury | 101983 | [101983-impossible-commando-shooting-fps-fury.json](./101983-impossible-commando-shooting-fps-fury.json) |
 | Impossible Draw | 128565 | [128565-impossible-draw.json](./128565-impossible-draw.json) |
 | Impossible Dungeon | 220186 | [220186-impossible-dungeon.json](./220186-impossible-dungeon.json) |
+| Impossible Fighter Frog | 86554 | [86554-impossible-fighter-frog.json](./86554-impossible-fighter-frog.json) |
 | Impossible Flappy | 87896 | [87896-impossible-flappy.json](./87896-impossible-flappy.json) |
 | Impossible Geometry | 34358 | [34358-impossible-geometry.json](./34358-impossible-geometry.json) |
 | Impossible Golf: Worldwide Fantasy Tour | 210083 | [210083-impossible-golf-worldwide-fantasy-tour.json](./210083-impossible-golf-worldwide-fantasy-tour.json) |
@@ -967,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Eleven: Victory Road | 72812 | [72812-inazuma-eleven-victory-road.json](./72812-inazuma-eleven-victory-road.json) |
 | Inbetween a Land of Grass | 181387 | [181387-inbetween-a-land-of-grass.json](./181387-inbetween-a-land-of-grass.json) |
 | Inbetween Land | 35850 | [35850-inbetween-land.json](./35850-inbetween-land.json) |
+| Inbound | 86531 | [86531-inbound.json](./86531-inbound.json) |
 | Inbox Unbox | 160239 | [160239-inbox-unbox.json](./160239-inbox-unbox.json) |
 | INC | 22331 | [22331-inc.json](./22331-inc.json) |
 | Inca II | 45925 | [45925-inca-ii.json](./45925-inca-ii.json) |
