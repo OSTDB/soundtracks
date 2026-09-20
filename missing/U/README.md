@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uptown Outbreak | 257682 | [257682-uptown-outbreak.json](./257682-uptown-outbreak.json) |
 | Upventure | 56495 | [56495-upventure.json](./56495-upventure.json) |
 | Upward | 234353 | [234353-upward.json](./234353-upward.json) |
+| Upwords | 78356 | [78356-upwords.json](./78356-upwords.json) |
 | Ura Jinsei Enjoi! Tamagotchi Plus | 229953 | [229953-ura-jinsei-enjoi-tamagotchi-plus.json](./229953-ura-jinsei-enjoi-tamagotchi-plus.json) |
 | Ura no Ura | 76596 | [76596-ura-no-ura.json](./76596-ura-no-ura.json) |
 | Uraankhians Dygyn: The Beginning | 314904 | [314904-uraankhians-dygyn-the-beginning.json](./314904-uraankhians-dygyn-the-beginning.json) |
@@ -1064,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Silver Edition | 250390 | [250390-urban-flow-silver-edition.json](./250390-urban-flow-silver-edition.json) |
 | Urban Flow: X-Mas Edition | 275893 | [275893-urban-flow-x-mas-edition.json](./275893-urban-flow-x-mas-edition.json) |
 | Urban Jungle: Brother's Wedding Story | 401001 | [401001-urban-jungle-brothers-wedding-story.json](./401001-urban-jungle-brothers-wedding-story.json) |
+| Urban Kick Academy | 78353 | [78353-urban-kick-academy.json](./78353-urban-kick-academy.json) |
 | Urban Mercenary | 146297 | [146297-urban-mercenary.json](./146297-urban-mercenary.json) |
 | Urban Myth.exe | 387551 | [387551-urban-myth-exe.json](./387551-urban-myth-exe.json) |
 | Urban Project | 348877 | [348877-urban-project.json](./348877-urban-project.json) |
