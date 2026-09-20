@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastoral | 228688 | [228688-pastoral.json](./228688-pastoral.json) |
 | Pastoral | 395721 | [395721-pastoral.json](./395721-pastoral.json) |
 | Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
+| Pastry Wars | 91730 | [91730-pastry-wars.json](./91730-pastry-wars.json) |
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
 | Patapon | 7812 | [7812-patapon.json](./7812-patapon.json) |
 | Patapon 2 | 7813 | [7813-patapon-2.json](./7813-patapon-2.json) |
@@ -3619,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ponchorado | 391593 | [391593-ponchorado.json](./391593-ponchorado.json) |
 | Ponchyo: A Platypus Adventure | 360607 | [360607-ponchyo-a-platypus-adventure.json](./360607-ponchyo-a-platypus-adventure.json) |
 | Poncik's Little Tragedy | 415069 | [415069-ponciks-little-tragedy.json](./415069-ponciks-little-tragedy.json) |
+| Poncotsu Roman Daikatsugeki Bumpy Trot 2 | 91754 | [91754-poncotsu-roman-daikatsugeki-bumpy-trot-2.json](./91754-poncotsu-roman-daikatsugeki-bumpy-trot-2.json) |
 | Pond | 373662 | [373662-pond.json](./373662-pond.json) |
 | Pondlife | 384543 | [384543-pondlife.json](./384543-pondlife.json) |
 | Pong - Old School | 86705 | [86705-pong-old-school.json](./86705-pong-old-school.json) |
@@ -4498,6 +4500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Spirits 2012 | 44575 | [44575-pro-yakyuu-spirits-2012.json](./44575-pro-yakyuu-spirits-2012.json) |
 | Pro Yakyuu Spirits 2013 | 63903 | [63903-pro-yakyuu-spirits-2013.json](./63903-pro-yakyuu-spirits-2013.json) |
 | Pro Yakyuu Spirits 2019 | 109606 | [109606-pro-yakyuu-spirits-2019.json](./109606-pro-yakyuu-spirits-2019.json) |
+| Pro Yakyuu Spirits 3 | 91726 | [91726-pro-yakyuu-spirits-3.json](./91726-pro-yakyuu-spirits-3.json) |
 | Pro Yakyuu Team wo Tsukurou! | 69269 | [69269-pro-yakyuu-team-wo-tsukurou.json](./69269-pro-yakyuu-team-wo-tsukurou.json) |
 | Pro Yakyuu Team wo Tsukurou! 2 | 69271 | [69271-pro-yakyuu-team-wo-tsukurou-2.json](./69271-pro-yakyuu-team-wo-tsukurou-2.json) |
 | Pro Yakyuu: Greatest Nine 98 | 275140 | [275140-pro-yakyuu-greatest-nine-98.json](./275140-pro-yakyuu-greatest-nine-98.json) |
