@@ -1928,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hesperian Wars | 229367 | [229367-hesperian-wars.json](./229367-hesperian-wars.json) |
 | Hessian Landing | 386268 | [386268-hessian-landing.json](./386268-hessian-landing.json) |
 | Heterodox | 147484 | [147484-heterodox.json](./147484-heterodox.json) |
+| Hets | 125854 | [125854-hets.json](./125854-hets.json) |
 | Heva Clonia Online | 62744 | [62744-heva-clonia-online.json](./62744-heva-clonia-online.json) |
 | HewDraw Remix | 242804 | [242804-hewdraw-remix.json](./242804-hewdraw-remix.json) |
 | Hex | 308383 | [308383-hex.json](./308383-hex.json) |
