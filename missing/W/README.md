@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waku-waku Puyo Puyo Dungeon | 70934 | [70934-waku-waku-puyo-puyo-dungeon.json](./70934-waku-waku-puyo-puyo-dungeon.json) |
 | Waku-waku Ski Wonder Spur | 37770 | [37770-waku-waku-ski-wonder-spur.json](./37770-waku-waku-ski-wonder-spur.json) |
 | Waku-waku Ultraman Racing | 252170 | [252170-waku-waku-ultraman-racing.json](./252170-waku-waku-ultraman-racing.json) |
+| Waku-waku Vegetable | 107630 | [107630-waku-waku-vegetable.json](./107630-waku-waku-vegetable.json) |
 | Wakugumi: Monochrome Puzzle | 85479 | [85479-wakugumi-monochrome-puzzle.json](./85479-wakugumi-monochrome-puzzle.json) |
 | Wakusei | 301428 | [301428-wakusei.json](./301428-wakusei.json) |
 | Walden Horde | 159746 | [159746-walden-horde.json](./159746-walden-horde.json) |
@@ -913,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weave | 108823 | [108823-weave.json](./108823-weave.json) |
 | Weave the Line - Puzzle games | 108278 | [108278-weave-the-line-puzzle-games.json](./108278-weave-the-line-puzzle-games.json) |
 | Weaveborn Heroes | 323517 | [323517-weaveborn-heroes.json](./323517-weaveborn-heroes.json) |
+| Weaverse | 107678 | [107678-weaverse.json](./107678-weaverse.json) |
 | Web City 1 | 82834 | [82834-web-city-1.json](./82834-web-city-1.json) |
 | Web Crawlies | 236523 | [236523-web-crawlies.json](./236523-web-crawlies.json) |
 | Web Dimension | 172034 | [172034-web-dimension.json](./172034-web-dimension.json) |
@@ -2370,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
 | Wordsdom 2 | 108287 | [108287-wordsdom-2.json](./108287-wordsdom-2.json) |
 | Wordsearch Attack | 368543 | [368543-wordsearch-attack.json](./368543-wordsearch-attack.json) |
+| WordSearch Kids HD | 107670 | [107670-wordsearch-kids-hd.json](./107670-wordsearch-kids-hd.json) |
 | Wordslop | 402911 | [402911-wordslop.json](./402911-wordslop.json) |
 | Wordsock Classic | 253431 | [253431-wordsock-classic.json](./253431-wordsock-classic.json) |
 | Wordspionage | 175391 | [175391-wordspionage.json](./175391-wordspionage.json) |
