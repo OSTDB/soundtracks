@@ -2652,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitsy Bits: The Secret of Magic | 311248 | [311248-bitsy-bits-the-secret-of-magic.json](./311248-bitsy-bits-the-secret-of-magic.json) |
 | Bitten! | 146235 | [146235-bitten.json](./146235-bitten.json) |
 | Bitter | 217336 | [217336-bitter.json](./217336-bitter.json) |
+| Bitter Tides | 106404 | [106404-bitter-tides.json](./106404-bitter-tides.json) |
 | Bitter-Sweet Cohabitation | 241372 | [241372-bitter-sweet-cohabitation.json](./241372-bitter-sweet-cohabitation.json) |
 | Bitterroot | 181857 | [181857-bitterroot.json](./181857-bitterroot.json) |
 | Bittersweet | 133953 | [133953-bittersweet.json](./133953-bittersweet.json) |
@@ -5223,6 +5224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper 7 | 319574 | [319574-bumper-7.json](./319574-bumper-7.json) |
 | Bumper Brawlers | 373078 | [373078-bumper-brawlers.json](./373078-bumper-brawlers.json) |
 | Bumper Wars | 71534 | [71534-bumper-wars.json](./71534-bumper-wars.json) |
+| Bumper.io | 106376 | [106376-bumper-io.json](./106376-bumper-io.json) |
 | Bumps | 21265 | [21265-bumps.json](./21265-bumps.json) |
 | BumpUpGhostBuster | 234717 | [234717-bumpupghostbuster.json](./234717-bumpupghostbuster.json) |
 | Bumpy Jumpy | 305374 | [305374-bumpy-jumpy.json](./305374-bumpy-jumpy.json) |
