@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
 | Action Half-Life | 221840 | [221840-action-half-life.json](./221840-action-half-life.json) |
 | Action Henk | 14550 | [14550-action-henk.json](./14550-action-henk.json) |
+| Action Man A.T.O.M.: Alpha Teens on Machines | 83248 | [83248-action-man-a-t-o-m-alpha-teens-on-machines.json](./83248-action-man-a-t-o-m-alpha-teens-on-machines.json) |
 | Action News Heroes | 51614 | [51614-action-news-heroes.json](./51614-action-news-heroes.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Quake 2 | 221842 | [221842-action-quake-2.json](./221842-action-quake-2.json) |
@@ -1244,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akron | 306990 | [306990-akron.json](./306990-akron.json) |
 | Aksun | 330327 | [330327-aksun.json](./330327-aksun.json) |
 | Akte Europa | 19584 | [19584-akte-europa.json](./19584-akte-europa.json) |
+| Aku Ryuu G* Gotoku: Legend of the Strongest | 83223 | [83223-aku-ryuu-g-gotoku-legend-of-the-strongest.json](./83223-aku-ryuu-g-gotoku-legend-of-the-strongest.json) |
 | Akuarium | 147471 | [147471-akuarium.json](./147471-akuarium.json) |
 | Akudaikan Manyuuki | 56517 | [56517-akudaikan-manyuuki.json](./56517-akudaikan-manyuuki.json) |
 | Akudaikan Manyuuki: Seigi no Yaiba | 56513 | [56513-akudaikan-manyuuki-seigi-no-yaiba.json](./56513-akudaikan-manyuuki-seigi-no-yaiba.json) |
@@ -2816,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Timeless Night | 270700 | [270700-another-timeless-night.json](./270700-another-timeless-night.json) |
 | Another Try | 127097 | [127097-another-try.json](./127097-another-try.json) |
 | Another Try 2 | 291460 | [291460-another-try-2.json](./291460-another-try-2.json) |
+| Another Vic in the Wall | 83267 | [83267-another-vic-in-the-wall.json](./83267-another-vic-in-the-wall.json) |
 | Another Warfare | 156662 | [156662-another-warfare.json](./156662-another-warfare.json) |
 | Another Way | 202239 | [202239-another-way.json](./202239-another-way.json) |
 | Another Way of Gettin' Paid | 319234 | [319234-another-way-of-gettin-paid.json](./319234-another-way-of-gettin-paid.json) |
@@ -3102,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AppleSnake | 51989 | [51989-applesnake.json](./51989-applesnake.json) |
 | AppleSnake: Christmas story | 88181 | [88181-applesnake-christmas-story.json](./88181-applesnake-christmas-story.json) |
 | Appli Archives: G-mode BurgerTime | 56422 | [56422-appli-archives-g-mode-burgertime.json](./56422-appli-archives-g-mode-burgertime.json) |
+| Appli Archives: Jaleco Formation Z & Bases Loaded | 83241 | [83241-appli-archives-jaleco-formation-z-and-bases-loaded.json](./83241-appli-archives-jaleco-formation-z-and-bases-loaded.json) |
 | Appli Archives: Jaleco Momoko 1200% | 56418 | [56418-appli-archives-jaleco-momoko-1200.json](./56418-appli-archives-jaleco-momoko-1200.json) |
 | Appli Archives: Nippon Ichi Software Duologue | 56416 | [56416-appli-archives-nippon-ichi-software-duologue.json](./56416-appli-archives-nippon-ichi-software-duologue.json) |
 | Appointment with Death | 316831 | [316831-appointment-with-death.json](./316831-appointment-with-death.json) |
