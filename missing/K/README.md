@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Speed | 264708 | [264708-knight-speed.json](./264708-knight-speed.json) |
 | Knight Without Sword | 263587 | [263587-knight-without-sword.json](./263587-knight-without-sword.json) |
 | Knight-Blade: Howling of Kerberos | 324886 | [324886-knight-blade-howling-of-kerberos.json](./324886-knight-blade-howling-of-kerberos.json) |
+| Knight's Chance | 75478 | [75478-knights-chance.json](./75478-knights-chance.json) |
 | Knight's Destiny | 149037 | [149037-knights-destiny.json](./149037-knights-destiny.json) |
 | Knight's Edge | 165534 | [165534-knights-edge.json](./165534-knights-edge.json) |
 | Knight's move | 112357 | [112357-knights-move.json](./112357-knights-move.json) |
