@@ -2491,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crackpet Show: Happy Tree Friends Edition | 291998 | [291998-the-crackpet-show-happy-tree-friends-edition.json](./291998-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
 | The Craft of the Samurai | 159809 | [159809-the-craft-of-the-samurai.json](./159809-the-craft-of-the-samurai.json) |
+| The Crafting Dead | 97133 | [97133-the-crafting-dead.json](./97133-the-crafting-dead.json) |
 | The Crane Rider's Tale | 400355 | [400355-the-crane-riders-tale.json](./400355-the-crane-riders-tale.json) |
 | The Crazed Chicken | 71000 | [71000-the-crazed-chicken.json](./71000-the-crazed-chicken.json) |
 | The Crazy Journalist | 199056 | [199056-the-crazy-journalist.json](./199056-the-crazy-journalist.json) |
@@ -8170,6 +8171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Ninjas! | 342165 | [342165-too-many-ninjas.json](./342165-too-many-ninjas.json) |
 | Too Many Sheep | 249838 | [249838-too-many-sheep.json](./249838-too-many-sheep.json) |
 | Too Many Snakes | 233082 | [233082-too-many-snakes.json](./233082-too-many-snakes.json) |
+| TooBold 3 | 97102 | [97102-toobold-3.json](./97102-toobold-3.json) |
 | Tooi Tooi, Yakusoku: Tune of Memories | 299991 | [299991-tooi-tooi-yakusoku-tune-of-memories.json](./299991-tooi-tooi-yakusoku-tune-of-memories.json) |
 | Took: The Immortal Hero | 329365 | [329365-took-the-immortal-hero.json](./329365-took-the-immortal-hero.json) |
 | Tool Land | 391747 | [391747-tool-land.json](./391747-tool-land.json) |
@@ -8434,6 +8436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totò Sapore e La Magica Storia Della Pizza | 144813 | [144813-toto-sapore-e-la-magica-storia-della-pizza.json](./144813-toto-sapore-e-la-magica-storia-della-pizza.json) |
 | Toto's Toy Box | 129222 | [129222-totos-toy-box.json](./129222-totos-toy-box.json) |
 | Totonoi Simulator | 325450 | [325450-totonoi-simulator.json](./325450-totonoi-simulator.json) |
+| Tots Town - House | 97151 | [97151-tots-town-house.json](./97151-tots-town-house.json) |
 | Totsugeki 64 | 203396 | [203396-totsugeki-64.json](./203396-totsugeki-64.json) |
 | Totsugeki! Pappara-tai | 282680 | [282680-totsugeki-pappara-tai.json](./282680-totsugeki-pappara-tai.json) |
 | Tottemo E Mahjong | 256902 | [256902-tottemo-e-mahjong.json](./256902-tottemo-e-mahjong.json) |
