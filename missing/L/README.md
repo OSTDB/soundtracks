@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landlady Seduction Simulator | 326394 | [326394-landlady-seduction-simulator.json](./326394-landlady-seduction-simulator.json) |
 | Landline | 367526 | [367526-landline.json](./367526-landline.json) |
 | Landlord | 385584 | [385584-landlord.json](./385584-landlord.json) |
+| Landlord Simulator | 89654 | [89654-landlord-simulator.json](./89654-landlord-simulator.json) |
 | Landlord Tycoon | 127984 | [127984-landlord-tycoon.json](./127984-landlord-tycoon.json) |
 | Landmark | 9629 | [9629-landmark.json](./9629-landmark.json) |
 | Landmaster | 400859 | [400859-landmaster.json](./400859-landmaster.json) |
@@ -2556,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Horizon | 200193 | [200193-lost-horizon.json](./200193-lost-horizon.json) |
 | Lost Host | 378896 | [378896-lost-host.json](./378896-lost-host.json) |
 | Lost Impressions | 125381 | [125381-lost-impressions.json](./125381-lost-impressions.json) |
+| Lost In 80s II | 89673 | [89673-lost-in-80s-ii.json](./89673-lost-in-80s-ii.json) |
 | Lost in a Forest | 35895 | [35895-lost-in-a-forest.json](./35895-lost-in-a-forest.json) |
 | Lost in Art | 407328 | [407328-lost-in-art.json](./407328-lost-in-art.json) |
 | Lost in Blindness | 146709 | [146709-lost-in-blindness.json](./146709-lost-in-blindness.json) |
