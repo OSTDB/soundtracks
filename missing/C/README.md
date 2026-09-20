@@ -3186,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close to You | 217874 | [217874-close-to-you.json](./217874-close-to-you.json) |
 | CloseCall | 155991 | [155991-closecall.json](./155991-closecall.json) |
 | Closed Circuit | 254175 | [254175-closed-circuit.json](./254175-closed-circuit.json) |
+| Closed Nightmare | 82371 | [82371-closed-nightmare.json](./82371-closed-nightmare.json) |
 | Closed World | 312202 | [312202-closed-world.json](./312202-closed-world.json) |
 | Closer Than You Know | 199654 | [199654-closer-than-you-know.json](./199654-closer-than-you-know.json) |
 | CloserLook VR: Oldways | 325838 | [325838-closerlook-vr-oldways.json](./325838-closerlook-vr-oldways.json) |
@@ -5535,6 +5536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crownborne | 405528 | [405528-crownborne.json](./405528-crownborne.json) |
 | Crownbreakers | 348230 | [348230-crownbreakers.json](./348230-crownbreakers.json) |
 | Crowned | 259055 | [259055-crowned.json](./259055-crowned.json) |
+| CrownFall | 82506 | [82506-crownfall.json](./82506-crownfall.json) |
 | Crownfall: Young Hero | 373649 | [373649-crownfall-young-hero.json](./373649-crownfall-young-hero.json) |
 | Crowning Calamity | 284332 | [284332-crowning-calamity.json](./284332-crowning-calamity.json) |
 | Crownrats | 410243 | [410243-crownrats.json](./410243-crownrats.json) |
