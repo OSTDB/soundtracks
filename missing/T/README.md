@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target G | 238619 | [238619-target-g.json](./238619-target-g.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
 | Target Toss Pro: Bags | 85431 | [85431-target-toss-pro-bags.json](./85431-target-toss-pro-bags.json) |
+| Target Toss Pro: Lawn Darts | 66355 | [66355-target-toss-pro-lawn-darts.json](./66355-target-toss-pro-lawn-darts.json) |
 | Target: Pheromone | 127794 | [127794-target-pheromone.json](./127794-target-pheromone.json) |
 | Target: Renegade | 381638 | [381638-target-renegade.json](./381638-target-renegade.json) |
 | Target: Renegade | 381642 | [381642-target-renegade.json](./381642-target-renegade.json) |
@@ -1353,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenable | 133791 | [133791-tenable.json](./133791-tenable.json) |
 | Tenants | 129152 | [129152-tenants.json](./129152-tenants.json) |
 | Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
+| Tenchi Muyo! Toko Muyo | 66384 | [66384-tenchi-muyo-toko-muyo.json](./66384-tenchi-muyo-toko-muyo.json) |
 | Tenchi wo Kurau: Sangokushi Gunyuuden | 37790 | [37790-tenchi-wo-kurau-sangokushi-gunyuuden.json](./37790-tenchi-wo-kurau-sangokushi-gunyuuden.json) |
 | Tenchu: Time Of The Assassins | 44512 | [44512-tenchu-time-of-the-assassins.json](./44512-tenchu-time-of-the-assassins.json) |
 | Tender | 179112 | [179112-tender.json](./179112-tender.json) |
@@ -1513,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Farmers | 54428 | [54428-terra-farmers.json](./54428-terra-farmers.json) |
 | Terra Firma | 155509 | [155509-terra-firma.json](./155509-terra-firma.json) |
 | Terra Flame | 197265 | [197265-terra-flame.json](./197265-terra-flame.json) |
+| Terra Militaris | 66367 | [66367-terra-militaris.json](./66367-terra-militaris.json) |
 | Terra Nil | 152424 | [152424-terra-nil.json](./152424-terra-nil.json) |
 | Terra Nil: Deluxe Edition | 243138 | [243138-terra-nil-deluxe-edition.json](./243138-terra-nil-deluxe-edition.json) |
 | Terra Pulse | 142433 | [142433-terra-pulse.json](./142433-terra-pulse.json) |
