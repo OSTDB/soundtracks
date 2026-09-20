@@ -1580,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetra Master | 206212 | [206212-tetra-master.json](./206212-tetra-master.json) |
 | Tetra Offline | 235313 | [235313-tetra-offline.json](./235313-tetra-offline.json) |
 | Tetra Online | 140377 | [140377-tetra-online.json](./140377-tetra-online.json) |
+| Tetra Project | 119537 | [119537-tetra-project.json](./119537-tetra-project.json) |
 | Tetra Troopers | 379371 | [379371-tetra-troopers.json](./379371-tetra-troopers.json) |
 | Tetra's Escape | 106530 | [106530-tetras-escape.json](./106530-tetras-escape.json) |
 | Tetracosm | 151585 | [151585-tetracosm.json](./151585-tetracosm.json) |
@@ -2206,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Broken Vow | 322173 | [322173-the-broken-vow.json](./322173-the-broken-vow.json) |
 | The Brotherhood of Ruin | 142277 | [142277-the-brotherhood-of-ruin.json](./142277-the-brotherhood-of-ruin.json) |
 | The Brothers Hotel | 333084 | [333084-the-brothers-hotel.json](./333084-the-brothers-hotel.json) |
+| The Browning Duck Hunter | 119582 | [119582-the-browning-duck-hunter.json](./119582-the-browning-duck-hunter.json) |
 | The Browning Elk Hunter | 142897 | [142897-the-browning-elk-hunter.json](./142897-the-browning-elk-hunter.json) |
 | The Brutalist Volumes | 275316 | [275316-the-brutalist-volumes.json](./275316-the-brutalist-volumes.json) |
 | The Bubonicz | 384061 | [384061-the-bubonicz.json](./384061-the-bubonicz.json) |
@@ -3403,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
 | The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
+| The Homestead | 119567 | [119567-the-homestead.json](./119567-the-homestead.json) |
 | The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
 | The Horizon | 138184 | [138184-the-horizon.json](./138184-the-horizon.json) |
@@ -3427,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House | 352303 | [352303-the-house.json](./352303-the-house.json) |
 | The House Before | 189124 | [189124-the-house-before.json](./189124-the-house-before.json) |
 | The House in Fata Morgana: A Requiem for Innocence | 56006 | [56006-the-house-in-fata-morgana-a-requiem-for-innocence.json](./56006-the-house-in-fata-morgana-a-requiem-for-innocence.json) |
+| The House in Fata Morgana: Dreams of the Revenants Edition | 119577 | [119577-the-house-in-fata-morgana-dreams-of-the-revenants-edition.json](./119577-the-house-in-fata-morgana-dreams-of-the-revenants-edition.json) |
 | The House in Fata Morgana: Remaid of Dreams | 330338 | [330338-the-house-in-fata-morgana-remaid-of-dreams.json](./330338-the-house-in-fata-morgana-remaid-of-dreams.json) |
 | The House in the Forest | 129746 | [129746-the-house-in-the-forest.json](./129746-the-house-in-the-forest.json) |
 | The House in the Hollow | 127780 | [127780-the-house-in-the-hollow.json](./127780-the-house-in-the-hollow.json) |
@@ -4993,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scouring | 325682 | [325682-the-scouring.json](./325682-the-scouring.json) |
 | The Scramble Vice | 266468 | [266468-the-scramble-vice.json](./266468-the-scramble-vice.json) |
 | The Scrapper | 306645 | [306645-the-scrapper.json](./306645-the-scrapper.json) |
+| The Scream | 119552 | [119552-the-scream.json](./119552-the-scream.json) |
 | The Screen | 369116 | [369116-the-screen.json](./369116-the-screen.json) |
 | The Scroll of Akbar Khan | 232553 | [232553-the-scroll-of-akbar-khan.json](./232553-the-scroll-of-akbar-khan.json) |
 | The Scruffs | 73776 | [73776-the-scruffs.json](./73776-the-scruffs.json) |
@@ -6308,6 +6313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think! Think! Monsters | 233512 | [233512-think-think-monsters.json](./233512-think-think-monsters.json) |
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
 | Thinking Games 2 | 72064 | [72064-thinking-games-2.json](./72064-thinking-games-2.json) |
+| Thinkrolls Space | 119571 | [119571-thinkrolls-space.json](./119571-thinkrolls-space.json) |
 | ThinkTanks | 84240 | [84240-thinktanks.json](./84240-thinktanks.json) |
 | Thinky Dailies: Season 1 | 388215 | [388215-thinky-dailies-season-1.json](./388215-thinky-dailies-season-1.json) |
 | Third | 233784 | [233784-third.json](./233784-third.json) |
@@ -7437,6 +7443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Crown | 401562 | [401562-tiny-crown.json](./401562-tiny-crown.json) |
 | Tiny Dangerous Dungeons Remake | 333369 | [333369-tiny-dangerous-dungeons-remake.json](./333369-tiny-dangerous-dungeons-remake.json) |
 | Tiny Defender | 149538 | [149538-tiny-defender.json](./149538-tiny-defender.json) |
+| Tiny Derby | 119538 | [119538-tiny-derby.json](./119538-tiny-derby.json) |
 | Tiny Devil Adventure | 158648 | [158648-tiny-devil-adventure.json](./158648-tiny-devil-adventure.json) |
 | Tiny Devils | 325476 | [325476-tiny-devils.json](./325476-tiny-devils.json) |
 | Tiny Dino | 343257 | [343257-tiny-dino.json](./343257-tiny-dino.json) |
