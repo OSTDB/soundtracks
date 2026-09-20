@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
 | 21Pirates Card Game | 308941 | [308941-21pirates-card-game.json](./308941-21pirates-card-game.json) |
 | 22 Racing Series | 97343 | [97343-22-racing-series.json](./97343-22-racing-series.json) |
+| 2260 | 106385 | [106385-2260.json](./106385-2260.json) |
 | 2351: Apocalypsis | 304667 | [304667-2351-apocalypsis.json](./304667-2351-apocalypsis.json) |
 | 24 Lustful Hours | 382296 | [382296-24-lustful-hours.json](./382296-24-lustful-hours.json) |
 | 24 Solar Terms | 158663 | [158663-24-solar-terms.json](./158663-24-solar-terms.json) |
@@ -708,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Zwerge: Das Brettspiel | 84284 | [84284-7-zwerge-das-brettspiel.json](./84284-7-zwerge-das-brettspiel.json) |
 | 7,62 Hard Life | 98372 | [98372-7-62-hard-life.json](./98372-7-62-hard-life.json) |
 | 7° Continente | 397054 | [397054-7-continente.json](./397054-7-continente.json) |
+| 70 Seconds Survival | 106394 | [106394-70-seconds-survival.json](./106394-70-seconds-survival.json) |
 | 70 Seconds! Adventure | 121777 | [121777-70-seconds-adventure.json](./121777-70-seconds-adventure.json) |
 | 70s-style Robot Anime Geppy-X | 392917 | [392917-70s-style-robot-anime-geppy-x.json](./392917-70s-style-robot-anime-geppy-x.json) |
 | 723 | 180145 | [180145-723.json](./180145-723.json) |
