@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Wars + Legend of Keepers: Monsters & Demons Bundle | 287111 | [287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json](./287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json) |
 | Kaiketsu Yanchamaru | 40216 | [40216-kaiketsu-yanchamaru.json](./40216-kaiketsu-yanchamaru.json) |
 | Kaiketsu Yanchamaru 3: Taiketsu! Zouringen | 66050 | [66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json](./66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json) |
+| Kaiki Gensou Yumemonogatari: Kaijuu Kitan Ouja-den | 110137 | [110137-kaiki-gensou-yumemonogatari-kaijuu-kitan-ouja-den.json](./110137-kaiki-gensou-yumemonogatari-kaijuu-kitan-ouja-den.json) |
 | Kaikyuu Karane Kotoba | 206381 | [206381-kaikyuu-karane-kotoba.json](./206381-kaikyuu-karane-kotoba.json) |
 | Kaikyuu no Eshi | 239678 | [239678-kaikyuu-no-eshi.json](./239678-kaikyuu-no-eshi.json) |
 | Kainga: Collector's Edition | 243803 | [243803-kainga-collectors-edition.json](./243803-kainga-collectors-edition.json) |
