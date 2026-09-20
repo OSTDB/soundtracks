@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z.O.N.A Project X VR | 216803 | [216803-z-o-n-a-project-x-vr.json](./216803-z-o-n-a-project-x-vr.json) |
 | Z'code | 30782 | [30782-zcode.json](./30782-zcode.json) |
 | Z0mb1es on teh ph0ne | 77995 | [77995-z0mb1es-on-teh-ph0ne.json](./77995-z0mb1es-on-teh-ph0ne.json) |
+| Z55z | 86563 | [86563-z55z.json](./86563-z55z.json) |
 | Z69 | 51959 | [51959-z69.json](./51959-z69.json) |
 | Zaacar | 169377 | [169377-zaacar.json](./169377-zaacar.json) |
 | ZaaLord | 136236 | [136236-zaalord.json](./136236-zaalord.json) |
@@ -434,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Clicker Defense | 83526 | [83526-zombie-clicker-defense.json](./83526-zombie-clicker-defense.json) |
 | Zombie Conspiracy: Shooter | 174750 | [174750-zombie-conspiracy-shooter.json](./174750-zombie-conspiracy-shooter.json) |
 | Zombie Crisis | 292119 | [292119-zombie-crisis.json](./292119-zombie-crisis.json) |
+| Zombie Crisis | 86515 | [86515-zombie-crisis.json](./86515-zombie-crisis.json) |
 | Zombie Crisis 3D | 91113 | [91113-zombie-crisis-3d.json](./91113-zombie-crisis-3d.json) |
 | Zombie Crush Driver | 192283 | [192283-zombie-crush-driver.json](./192283-zombie-crush-driver.json) |
 | Zombie Dash | 377133 | [377133-zombie-dash.json](./377133-zombie-dash.json) |
@@ -569,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie's Cool 2 | 222338 | [222338-zombies-cool-2.json](./222338-zombies-cool-2.json) |
 | Zombieeee! | 151718 | [151718-zombieeee.json](./151718-zombieeee.json) |
 | ZombieFight VR | 30061 | [30061-zombiefight-vr.json](./30061-zombiefight-vr.json) |
+| ZombieHunt | 86573 | [86573-zombiehunt.json](./86573-zombiehunt.json) |
 | ZombieHunterZ | 101335 | [101335-zombiehunterz.json](./101335-zombiehunterz.json) |
 | Zombies & Trains! | 51202 | [51202-zombies-and-trains.json](./51202-zombies-and-trains.json) |
 | Zombies and Keys | 197393 | [197393-zombies-and-keys.json](./197393-zombies-and-keys.json) |
