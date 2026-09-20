@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harley Pasternak's Hollywood Workout | 50963 | [50963-harley-pasternaks-hollywood-workout.json](./50963-harley-pasternaks-hollywood-workout.json) |
 | Harley-Davidson: The Road to Sturgis | 12137 | [12137-harley-davidson-the-road-to-sturgis.json](./12137-harley-davidson-the-road-to-sturgis.json) |
 | Harlow | 151023 | [151023-harlow.json](./151023-harlow.json) |
+| Harm Other | 96502 | [96502-harm-other.json](./96502-harm-other.json) |
 | Harmagedon | 340416 | [340416-harmagedon.json](./340416-harmagedon.json) |
 | HarmoKnight | 18156 | [18156-harmoknight.json](./18156-harmoknight.json) |
 | Harmoni | 296903 | [296903-harmoni.json](./296903-harmoni.json) |
@@ -2009,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexahedral Pathfinder | 108418 | [108418-hexahedral-pathfinder.json](./108418-hexahedral-pathfinder.json) |
 | Hexalert | 337635 | [337635-hexalert.json](./337635-hexalert.json) |
 | Hexalot | 53215 | [53215-hexalot.json](./53215-hexalot.json) |
+| Hexaluga: Weapon and Shield | 96475 | [96475-hexaluga-weapon-and-shield.json](./96475-hexaluga-weapon-and-shield.json) |
 | Hexamania | 145441 | [145441-hexamania.json](./145441-hexamania.json) |
 | Hexameron: Phase One | 271773 | [271773-hexameron-phase-one.json](./271773-hexameron-phase-one.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
