@@ -2742,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black/Matrix 00 | 137090 | [137090-black-matrix-00.json](./137090-black-matrix-00.json) |
 | Black/Matrix Advanced | 93013 | [93013-black-matrix-advanced.json](./93013-black-matrix-advanced.json) |
 | Black/Matrix II | 229355 | [229355-black-matrix-ii.json](./229355-black-matrix-ii.json) |
+| BlackberryNova | 126436 | [126436-blackberrynova.json](./126436-blackberrynova.json) |
 | BlackberryNova: Sports Club | 221759 | [221759-blackberrynova-sports-club.json](./221759-blackberrynova-sports-club.json) |
 | Blackblade Revenant | 327178 | [327178-blackblade-revenant.json](./327178-blackblade-revenant.json) |
 | Blackbox | 328240 | [328240-blackbox.json](./328240-blackbox.json) |
@@ -3707,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Threat | 77324 | [77324-bomb-threat.json](./77324-bomb-threat.json) |
 | Bomb-Bomb | 101628 | [101628-bomb-bomb.json](./101628-bomb-bomb.json) |
 | Bomb: Who let the dogfight? | 17403 | [17403-bomb-who-let-the-dogfight.json](./17403-bomb-who-let-the-dogfight.json) |
+| Bomba Patch | 126442 | [126442-bomba-patch.json](./126442-bomba-patch.json) |
 | Bomba: The Explosive Hero | 213956 | [213956-bomba-the-explosive-hero.json](./213956-bomba-the-explosive-hero.json) |
 | Bombabomb! | 267092 | [267092-bombabomb.json](./267092-bombabomb.json) |
 | Bombagun | 188112 | [188112-bombagun.json](./188112-bombagun.json) |
