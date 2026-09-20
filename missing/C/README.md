@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cgencore | 115028 | [115028-cgencore.json](./115028-cgencore.json) |
 | CGI: The Game | 234075 | [234075-cgi-the-game.json](./234075-cgi-the-game.json) |
 | Ch1mpnotic | 141686 | [141686-ch1mpnotic.json](./141686-ch1mpnotic.json) |
+| Chacha Fighter V | 98258 | [98258-chacha-fighter-v.json](./98258-chacha-fighter-v.json) |
 | Chachacha Slot | 87296 | [87296-chachacha-slot.json](./87296-chachacha-slot.json) |
 | Chadboy | 241618 | [241618-chadboy.json](./241618-chadboy.json) |
 | Chai | 236280 | [236280-chai.json](./236280-chai.json) |
@@ -3024,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleopatra no Mahou | 41328 | [41328-cleopatra-no-mahou.json](./41328-cleopatra-no-mahou.json) |
 | Clériga | 300674 | [300674-cleriga.json](./300674-cleriga.json) |
 | Cleveland 1968 | 319933 | [319933-cleveland-1968.json](./319933-cleveland-1968.json) |
+| Clever & Smart: A Movie Adventure | 98237 | [98237-clever-and-smart-a-movie-adventure.json](./98237-clever-and-smart-a-movie-adventure.json) |
 | Clever Dog | 346051 | [346051-clever-dog.json](./346051-clever-dog.json) |
 | Clever Frog | 340209 | [340209-clever-frog.json](./340209-clever-frog.json) |
 | Clever Girl | 184639 | [184639-clever-girl.json](./184639-clever-girl.json) |
@@ -3780,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Final Blitzkrieg - Downfall | 288220 | [288220-combat-mission-final-blitzkrieg-downfall.json](./288220-combat-mission-final-blitzkrieg-downfall.json) |
 | Combat Mission: Red Thunder | 77293 | [77293-combat-mission-red-thunder.json](./77293-combat-mission-red-thunder.json) |
 | Combat Mission: Red Thunder - Battle Pack 1 | 252240 | [252240-combat-mission-red-thunder-battle-pack-1.json](./252240-combat-mission-red-thunder-battle-pack-1.json) |
+| Combat Reloaded | 98242 | [98242-combat-reloaded.json](./98242-combat-reloaded.json) |
 | Combat Research Division: Spider Unit | 408187 | [408187-combat-research-division-spider-unit.json](./408187-combat-research-division-spider-unit.json) |
 | Combat rush | 108403 | [108403-combat-rush.json](./108403-combat-rush.json) |
 | Combat Space Journey | 192294 | [192294-combat-space-journey.json](./192294-combat-space-journey.json) |
