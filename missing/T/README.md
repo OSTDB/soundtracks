@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 3 - Shisha no Rakuen | 293903 | [293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json](./293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
 | Tantei Opera Milky Holmes 2 | 150117 | [150117-tantei-opera-milky-holmes-2.json](./150117-tantei-opera-milky-holmes-2.json) |
+| Tantei Shinshi Dash! | 122873 | [122873-tantei-shinshi-dash.json](./122873-tantei-shinshi-dash.json) |
 | Tantei Toki to Yukiyama Kaishi Densetsu Satsujin Jiken | 150118 | [150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json](./150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json) |
 | Tanteidan X | 356073 | [356073-tanteidan-x.json](./356073-tanteidan-x.json) |
 | Tanthious | 211785 | [211785-tanthious.json](./211785-tanthious.json) |
@@ -3355,6 +3356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heart of Darkness | 164909 | [164909-the-heart-of-darkness.json](./164909-the-heart-of-darkness.json) |
 | The Heart of Sourcerer | 208386 | [208386-the-heart-of-sourcerer.json](./208386-the-heart-of-sourcerer.json) |
 | The Heart of Tales | 177499 | [177499-the-heart-of-tales.json](./177499-the-heart-of-tales.json) |
+| The Heart Pumps Clay | 122891 | [122891-the-heart-pumps-clay.json](./122891-the-heart-pumps-clay.json) |
 | The Heartbeat | 149610 | [149610-the-heartbeat.json](./149610-the-heartbeat.json) |
 | The Heat | 206752 | [206752-the-heat.json](./206752-the-heat.json) |
 | The Heavens | 366303 | [366303-the-heavens.json](./366303-the-heavens.json) |
@@ -3493,6 +3495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Impossible Test | 66712 | [66712-the-impossible-test.json](./66712-the-impossible-test.json) |
 | The Impossible Travel Agency | 33075 | [33075-the-impossible-travel-agency.json](./33075-the-impossible-travel-agency.json) |
 | The In Between | 217362 | [217362-the-in-between.json](./217362-the-in-between.json) |
+| The Inanimate Mr. Coatrack | 122847 | [122847-the-inanimate-mr-coatrack.json](./122847-the-inanimate-mr-coatrack.json) |
 | The InBetween | 305935 | [305935-the-inbetween.json](./305935-the-inbetween.json) |
 | The Incomplete Lunar: First Night | 284331 | [284331-the-incomplete-lunar-first-night.json](./284331-the-incomplete-lunar-first-night.json) |
 | The Incredible Adventures of Van Helsing II: Complete Pack | 223550 | [223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json](./223550-the-incredible-adventures-of-van-helsing-ii-complete-pack.json) |
@@ -3702,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kings Crusade: Teutonic Knights | 10977 | [10977-the-kings-crusade-teutonic-knights.json](./10977-the-kings-crusade-teutonic-knights.json) |
 | The Kings of Limbo | 184498 | [184498-the-kings-of-limbo.json](./184498-the-kings-of-limbo.json) |
 | The Kite | 111664 | [111664-the-kite.json](./111664-the-kite.json) |
+| The Klaxo Radio Hour | 122846 | [122846-the-klaxo-radio-hour.json](./122846-the-klaxo-radio-hour.json) |
 | The Knight of Nephiart | 151700 | [151700-the-knight-of-nephiart.json](./151700-the-knight-of-nephiart.json) |
 | The Knight of Niraking | 392162 | [392162-the-knight-of-niraking.json](./392162-the-knight-of-niraking.json) |
 | The Knight's Magic War | 113045 | [113045-the-knights-magic-war.json](./113045-the-knights-magic-war.json) |
