@@ -2793,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Fights | 239323 | [239323-planet-fights.json](./239323-planet-fights.json) |
 | Planet Finder | 362299 | [362299-planet-finder.json](./362299-planet-finder.json) |
 | Planet Flipper | 394893 | [394893-planet-flipper.json](./394893-planet-flipper.json) |
+| Planet Harriers | 72972 | [72972-planet-harriers.json](./72972-planet-harriers.json) |
 | Planet Hop | 158082 | [158082-planet-hop.json](./158082-planet-hop.json) |
 | Planet Hotpot | 173241 | [173241-planet-hotpot.json](./173241-planet-hotpot.json) |
 | Planet Invasion | 70954 | [70954-planet-invasion.json](./70954-planet-invasion.json) |
@@ -3158,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Monsters RPG | 130335 | [130335-pocket-monsters-rpg.json](./130335-pocket-monsters-rpg.json) |
 | Pocket Monsters: Suuji wo Tsukamaeyou! | 63849 | [63849-pocket-monsters-suuji-wo-tsukamaeyou.json](./63849-pocket-monsters-suuji-wo-tsukamaeyou.json) |
 | Pocket Music | 98797 | [98797-pocket-music.json](./98797-pocket-music.json) |
+| Pocket MuuMuu | 72991 | [72991-pocket-muumuu.json](./72991-pocket-muumuu.json) |
 | Pocket Necromancer | 319383 | [319383-pocket-necromancer.json](./319383-pocket-necromancer.json) |
 | Pocket Pioneers | 152388 | [152388-pocket-pioneers.json](./152388-pocket-pioneers.json) |
 | Pocket Plants | 149595 | [149595-pocket-plants.json](./149595-pocket-plants.json) |
@@ -3693,6 +3695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Doctor | 101973 | [101973-pony-doctor.json](./101973-pony-doctor.json) |
 | Pony Friends | 47974 | [47974-pony-friends.json](./47974-pony-friends.json) |
 | Pony Island 2: Panda Circus | 279613 | [279613-pony-island-2-panda-circus.json](./279613-pony-island-2-panda-circus.json) |
+| Pony Luv | 72968 | [72968-pony-luv.json](./72968-pony-luv.json) |
 | Pony Sisters Baby Horse Care | 108261 | [108261-pony-sisters-baby-horse-care.json](./108261-pony-sisters-baby-horse-care.json) |
 | Pony Sisters Pet Hospital | 101584 | [101584-pony-sisters-pet-hospital.json](./101584-pony-sisters-pet-hospital.json) |
 | Pony Snow Run | 96704 | [96704-pony-snow-run.json](./96704-pony-snow-run.json) |
@@ -4260,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty girls teach beefy guys | 161329 | [161329-pretty-girls-teach-beefy-guys.json](./161329-pretty-girls-teach-beefy-guys.json) |
 | Pretty Girls Tile Match | 219695 | [219695-pretty-girls-tile-match.json](./219695-pretty-girls-tile-match.json) |
 | Pretty Good Solitaire | 89241 | [89241-pretty-good-solitaire.json](./89241-pretty-good-solitaire.json) |
+| Pretty In Pink | 72990 | [72990-pretty-in-pink.json](./72990-pretty-in-pink.json) |
 | Pretty Neko | 159243 | [159243-pretty-neko.json](./159243-pretty-neko.json) |
 | Pretty Ninja Himekage | 220327 | [220327-pretty-ninja-himekage.json](./220327-pretty-ninja-himekage.json) |
 | Pretty Overseer | 232964 | [232964-pretty-overseer.json](./232964-pretty-overseer.json) |
@@ -4795,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Nomads | 50245 | [50245-project-nomads.json](./50245-project-nomads.json) |
 | Project Nyx | 163816 | [163816-project-nyx.json](./163816-project-nyx.json) |
 | Project of the Gods | 156118 | [156118-project-of-the-gods.json](./156118-project-of-the-gods.json) |
+| Project Offset | 73013 | [73013-project-offset.json](./73013-project-offset.json) |
 | Project Omega | 70397 | [70397-project-omega.json](./70397-project-omega.json) |
 | Project One | 118347 | [118347-project-one.json](./118347-project-one.json) |
 | Project Onne | 400283 | [400283-project-onne.json](./400283-project-onne.json) |
