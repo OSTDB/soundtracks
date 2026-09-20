@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Set Radio | 279629 | [279629-jet-set-radio.json](./279629-jet-set-radio.json) |
 | Jet Set Radio | 398453 | [398453-jet-set-radio.json](./398453-jet-set-radio.json) |
 | Jet Set Willy | 8170 | [8170-jet-set-willy.json](./8170-jet-set-willy.json) |
+| Jet Set Willy: Online | 92850 | [92850-jet-set-willy-online.json](./92850-jet-set-willy-online.json) |
 | Jet Ski Driving | 231943 | [231943-jet-ski-driving.json](./231943-jet-ski-driving.json) |
 | Jet Trains | 174200 | [174200-jet-trains.json](./174200-jet-trains.json) |
 | JetBall Arena | 113697 | [113697-jetball-arena.json](./113697-jetball-arena.json) |
@@ -398,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetFighter II: Advanced Tactical Fighter | 50489 | [50489-jetfighter-ii-advanced-tactical-fighter.json](./50489-jetfighter-ii-advanced-tactical-fighter.json) |
 | JetFighter III Classic | 78053 | [78053-jetfighter-iii-classic.json](./78053-jetfighter-iii-classic.json) |
 | JetFighter: The Adventure | 50490 | [50490-jetfighter-the-adventure.json](./50490-jetfighter-the-adventure.json) |
+| Jetman | 92852 | [92852-jetman.json](./92852-jetman.json) |
 | Jetman Hero: Jetpack Shooter | 223553 | [223553-jetman-hero-jetpack-shooter.json](./223553-jetman-hero-jetpack-shooter.json) |
 | Jetpac Refuelled | 7854 | [7854-jetpac-refuelled.json](./7854-jetpac-refuelled.json) |
 | Jetpac Too | 239653 | [239653-jetpac-too.json](./239653-jetpac-too.json) |
