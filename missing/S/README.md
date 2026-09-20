@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sainthum | 149557 | [149557-sainthum.json](./149557-sainthum.json) |
 | Saints & Sinners Bingo | 206744 | [206744-saints-and-sinners-bingo.json](./206744-saints-and-sinners-bingo.json) |
 | Saints of Virtue | 67312 | [67312-saints-of-virtue.json](./67312-saints-of-virtue.json) |
+| Saints Row 2: Ultimate Edition | 99971 | [99971-saints-row-2-ultimate-edition.json](./99971-saints-row-2-ultimate-edition.json) |
 | Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
 | Saints Row IV: Re-Elected | 7707 | [7707-saints-row-iv-re-elected.json](./7707-saints-row-iv-re-elected.json) |
 | Saints Row IV: Super Dangerous Wad Wad Edition (aka the Million Dollar Pack) | 21862 | [21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json](./21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json) |
@@ -1014,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
 | Scooter Shooter | 40199 | [40199-scooter-shooter.json](./40199-scooter-shooter.json) |
 | Scooter Slayer | 358885 | [358885-scooter-slayer.json](./358885-scooter-slayer.json) |
+| Scopa | 100012 | [100012-scopa.json](./100012-scopa.json) |
 | Scopic | 132865 | [132865-scopic.json](./132865-scopic.json) |
 | Scopophobia | 361678 | [361678-scopophobia.json](./361678-scopophobia.json) |
 | Scorb VR | 75082 | [75082-scorb-vr.json](./75082-scorb-vr.json) |
@@ -1552,6 +1554,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sefton Asylum | 396937 | [396937-sefton-asylum.json](./396937-sefton-asylum.json) |
 | Sega Ages 2500 Series Vol. 33: Fantasy Zone Complete Collection | 64899 | [64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json](./64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json) |
 | Sega Ages 2500 Vol. 10: After Burner II | 64900 | [64900-sega-ages-2500-vol-10-after-burner-ii.json](./64900-sega-ages-2500-vol-10-after-burner-ii.json) |
+| Sega Ages 2500 Vol. 13: OutRun | 100024 | [100024-sega-ages-2500-vol-13-outrun.json](./100024-sega-ages-2500-vol-13-outrun.json) |
+| Sega Ages 2500 Vol. 14: Alien Syndrome | 100017 | [100017-sega-ages-2500-vol-14-alien-syndrome.json](./100017-sega-ages-2500-vol-14-alien-syndrome.json) |
 | Sega Ages 2500 Vol. 15: Decathlete Collection | 98926 | [98926-sega-ages-2500-vol-15-decathlete-collection.json](./98926-sega-ages-2500-vol-15-decathlete-collection.json) |
 | Sega Ages 2500 Vol. 20: Space Harrier Complete Collection | 140407 | [140407-sega-ages-2500-vol-20-space-harrier-complete-collection.json](./140407-sega-ages-2500-vol-20-space-harrier-complete-collection.json) |
 | Sega Ages 2500 Vol. 23: Sega Memorial Selection | 69883 | [69883-sega-ages-2500-vol-23-sega-memorial-selection.json](./69883-sega-ages-2500-vol-23-sega-memorial-selection.json) |
@@ -1672,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senda Salvaje | 272301 | [272301-senda-salvaje.json](./272301-senda-salvaje.json) |
 | Sender Unknown: The Woods | 74404 | [74404-sender-unknown-the-woods.json](./74404-sender-unknown-the-woods.json) |
 | Senderos de Fugüm | 326606 | [326606-senderos-de-fugum.json](./326606-senderos-de-fugum.json) |
+| Senet Deluxe | 99975 | [99975-senet-deluxe.json](./99975-senet-deluxe.json) |
 | Sengoku 3 | 46784 | [46784-sengoku-3.json](./46784-sengoku-3.json) |
 | Sengoku Bishoujo Emaki: Cut Sky | 147927 | [147927-sengoku-bishoujo-emaki-cut-sky.json](./147927-sengoku-bishoujo-emaki-cut-sky.json) |
 | Sengoku Bishoujo Emaki: Cut Sky ~Chapter Summer Wind~ | 147929 | [147929-sengoku-bishoujo-emaki-cut-sky-chapter-summer-wind.json](./147929-sengoku-bishoujo-emaki-cut-sky-chapter-summer-wind.json) |
@@ -2886,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Master | 366914 | [366914-shooting-master.json](./366914-shooting-master.json) |
 | Shooting Range by Thornbury Software | 84871 | [84871-shooting-range-by-thornbury-software.json](./84871-shooting-range-by-thornbury-software.json) |
 | Shooting Range Simulator | 309532 | [309532-shooting-range-simulator.json](./309532-shooting-range-simulator.json) |
+| Shooting Sports Gun Club | 99989 | [99989-shooting-sports-gun-club.json](./99989-shooting-sports-gun-club.json) |
 | Shooting Squirrel Simulator | 278513 | [278513-shooting-squirrel-simulator.json](./278513-shooting-squirrel-simulator.json) |
 | Shooting Star Rockman Wave Transer | 352786 | [352786-shooting-star-rockman-wave-transer.json](./352786-shooting-star-rockman-wave-transer.json) |
 | Shooting Survival | 248149 | [248149-shooting-survival.json](./248149-shooting-survival.json) |
@@ -5206,10 +5212,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Valentine's Day 2 | 89237 | [89237-solitaire-valentines-day-2.json](./89237-solitaire-valentines-day-2.json) |
 | Solitaire: Beautiful Garden Season | 199579 | [199579-solitaire-beautiful-garden-season.json](./199579-solitaire-beautiful-garden-season.json) |
 | Solitaire: Classic Klondike Card Game | 88289 | [88289-solitaire-classic-klondike-card-game.json](./88289-solitaire-classic-klondike-card-game.json) |
+| Solitaire: Jack Frost Winter Adventures | 99984 | [99984-solitaire-jack-frost-winter-adventures.json](./99984-solitaire-jack-frost-winter-adventures.json) |
 | Solitaire: Match 2 Cards - Valentine's Day | 286520 | [286520-solitaire-match-2-cards-valentines-day.json](./286520-solitaire-match-2-cards-valentines-day.json) |
 | Solitaire: Royal Mansion | 199627 | [199627-solitaire-royal-mansion.json](./199627-solitaire-royal-mansion.json) |
 | Solitaire: The Clean One | 221851 | [221851-solitaire-the-clean-one.json](./221851-solitaire-the-clean-one.json) |
 | Solitaire: Ultimate Collection | 66691 | [66691-solitaire-ultimate-collection.json](./66691-solitaire-ultimate-collection.json) |
+| Solitaire: Victorian Picnic | 99986 | [99986-solitaire-victorian-picnic.json](./99986-solitaire-victorian-picnic.json) |
 | SolitaireX | 388039 | [388039-solitairex.json](./388039-solitairex.json) |
 | Solitar: Retro Picks | 305516 | [305516-solitar-retro-picks.json](./305516-solitar-retro-picks.json) |
 | Solitarius | 189035 | [189035-solitarius.json](./189035-solitarius.json) |
@@ -8751,6 +8759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
 | Strategist | 107808 | [107808-strategist.json](./107808-strategist.json) |
 | Stratego | 72027 | [72027-stratego.json](./72027-stratego.json) |
+| Strategy & Tactics: Sandbox World War II TBS | 99992 | [99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json](./99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json) |
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
 | Strategy Games | 84213 | [84213-strategy-games.json](./84213-strategy-games.json) |
 | Strategy Six-Pack | 86034 | [86034-strategy-six-pack.json](./86034-strategy-six-pack.json) |
@@ -9591,6 +9600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine Secret Book 64 | 132838 | [132838-sunshine-secret-book-64.json](./132838-sunshine-secret-book-64.json) |
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
 | Sunyata CCG | 403554 | [403554-sunyata-ccg.json](./403554-sunyata-ccg.json) |
+| Supa Nova | 100019 | [100019-supa-nova.json](./100019-supa-nova.json) |
 | Supaplex | 14418 | [14418-supaplex.json](./14418-supaplex.json) |
 | Supaplex | 413616 | [413616-supaplex.json](./413616-supaplex.json) |
 | Supaplex Hard | 107929 | [107929-supaplex-hard.json](./107929-supaplex-hard.json) |
@@ -9598,6 +9608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super | 51970 | [51970-super.json](./51970-super.json) |
 | Super "Mario" World | 297240 | [297240-super-mario-world.json](./297240-super-mario-world.json) |
 | Super "Mario" World 2 | 297496 | [297496-super-mario-world-2.json](./297496-super-mario-world-2.json) |
+| Super 2048 | 99983 | [99983-super-2048.json](./99983-super-2048.json) |
 | Super Action Pak | 56452 | [56452-super-action-pak.json](./56452-super-action-pak.json) |
 | Super Adventurer | 61021 | [61021-super-adventurer.json](./61021-super-adventurer.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
@@ -10734,6 +10745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surfacer+ | 85529 | [85529-surfacer.json](./85529-surfacer.json) |
 | Surfacing | 152116 | [152116-surfacing.json](./152116-surfacing.json) |
 | Surfatron | 103174 | [103174-surfatron.json](./103174-surfatron.json) |
+| Surfer Girl Makeover | 99997 | [99997-surfer-girl-makeover.json](./99997-surfer-girl-makeover.json) |
 | Surferboy | 346044 | [346044-surferboy.json](./346044-surferboy.json) |
 | Surfin' Sam: Attack of the Aqualites | 85416 | [85416-surfin-sam-attack-of-the-aqualites.json](./85416-surfin-sam-attack-of-the-aqualites.json) |
 | Surfing H3O | 43344 | [43344-surfing-h3o.json](./43344-surfing-h3o.json) |
