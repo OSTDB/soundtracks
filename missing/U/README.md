@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFC Undisputed 2010 | 7228 | [7228-ufc-undisputed-2010.json](./7228-ufc-undisputed-2010.json) |
 | UFHO2 | 35793 | [35793-ufho2.json](./35793-ufho2.json) |
 | Ufight | 269859 | [269859-ufight.json](./269859-ufight.json) |
+| uFighter | 115428 | [115428-ufighter.json](./115428-ufighter.json) |
 | UFindo | 262454 | [262454-ufindo.json](./262454-ufindo.json) |
 | UFL | 165352 | [165352-ufl.json](./165352-ufl.json) |
 | UFO | 100199 | [100199-ufo.json](./100199-ufo.json) |
@@ -862,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnRequited | 201311 | [201311-unrequited.json](./201311-unrequited.json) |
 | Unrestrained | 231356 | [231356-unrestrained.json](./231356-unrestrained.json) |
 | Unriddle | 187435 | [187435-unriddle.json](./187435-unriddle.json) |
+| Unroaded | 115440 | [115440-unroaded.json](./115440-unroaded.json) |
 | Unruly Tennis | 228121 | [228121-unruly-tennis.json](./228121-unruly-tennis.json) |
 | Unsafe Express | 173282 | [173282-unsafe-express.json](./173282-unsafe-express.json) |
 | Unshaded | 167783 | [167783-unshaded.json](./167783-unshaded.json) |
