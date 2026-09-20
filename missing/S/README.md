@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saihate Hospital | 204496 | [204496-saihate-hospital.json](./204496-saihate-hospital.json) |
 | Saihate no Ima | 62736 | [62736-saihate-no-ima.json](./62736-saihate-no-ima.json) |
 | Saihate Station: Twilight Railway | 337103 | [337103-saihate-station-twilight-railway.json](./337103-saihate-station-twilight-railway.json) |
+| Saikin Koi Shiteru? | 123410 | [123410-saikin-koi-shiteru.json](./123410-saikin-koi-shiteru.json) |
 | Saikin MMO | 306083 | [306083-saikin-mmo.json](./306083-saikin-mmo.json) |
 | Saikko-nee to Death Game | 301025 | [301025-saikko-nee-to-death-game.json](./301025-saikko-nee-to-death-game.json) |
 | Saikyo no Mahjong: 100 Mannin no Tame no Mahjong Dojo | 222373 | [222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json](./222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json) |
@@ -279,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura MMO 2 | 113123 | [113123-sakura-mmo-2.json](./113123-sakura-mmo-2.json) |
 | Sakura Moonlight | 135892 | [135892-sakura-moonlight.json](./135892-sakura-moonlight.json) |
 | Sakura no Mori Dreamers | 75788 | [75788-sakura-no-mori-dreamers.json](./75788-sakura-no-mori-dreamers.json) |
+| Sakura Note: Ima ni Tsunagaru Mirai | 123409 | [123409-sakura-note-ima-ni-tsunagaru-mirai.json](./123409-sakura-note-ima-ni-tsunagaru-mirai.json) |
 | Sakura Priestess and Shikigami Mountain | 306060 | [306060-sakura-priestess-and-shikigami-mountain.json](./306060-sakura-priestess-and-shikigami-mountain.json) |
 | Sakura Revolution: Blooming Maidens | 226767 | [226767-sakura-revolution-blooming-maidens.json](./226767-sakura-revolution-blooming-maidens.json) |
 | Sakura Sakura: Limited Edition | 212330 | [212330-sakura-sakura-limited-edition.json](./212330-sakura-sakura-limited-edition.json) |
@@ -1484,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed's End | 339088 | [339088-seeds-end.json](./339088-seeds-end.json) |
 | Seedbo And That Time The Sun Exploded | 325829 | [325829-seedbo-and-that-time-the-sun-exploded.json](./325829-seedbo-and-that-time-the-sun-exploded.json) |
 | Seedborne Soldiers | 349390 | [349390-seedborne-soldiers.json](./349390-seedborne-soldiers.json) |
+| Seeders Puzzle Reboot | 123411 | [123411-seeders-puzzle-reboot.json](./123411-seeders-puzzle-reboot.json) |
 | Seeds | 337669 | [337669-seeds.json](./337669-seeds.json) |
 | Seeds Life | 25756 | [25756-seeds-life.json](./25756-seeds-life.json) |
 | Seeds of Calamity | 194561 | [194561-seeds-of-calamity.json](./194561-seeds-of-calamity.json) |
@@ -2200,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shakes and Fidget Remastered | 112346 | [112346-shakes-and-fidget-remastered.json](./112346-shakes-and-fidget-remastered.json) |
 | Shaki Shaki Island | 327409 | [327409-shaki-shaki-island.json](./327409-shaki-shaki-island.json) |
 | Shakugan no Shana | 72686 | [72686-shakugan-no-shana.json](./72686-shakugan-no-shana.json) |
+| Shakugan no Shana DS | 123413 | [123413-shakugan-no-shana-ds.json](./123413-shakugan-no-shana-ds.json) |
 | Shaky Structures | 180811 | [180811-shaky-structures.json](./180811-shaky-structures.json) |
 | Shalguy | 373024 | [373024-shalguy.json](./373024-shalguy.json) |
 | Shall we date? Love Tangle: Finding my Better Half | 225661 | [225661-shall-we-date-love-tangle-finding-my-better-half.json](./225661-shall-we-date-love-tangle-finding-my-better-half.json) |
@@ -2660,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinorubi | 173320 | [173320-shinorubi.json](./173320-shinorubi.json) |
 | Shinrai: Broken Beyond Despair | 32105 | [32105-shinrai-broken-beyond-despair.json](./32105-shinrai-broken-beyond-despair.json) |
 | Shinrei Gakkou kara no Dasshutsu | 150130 | [150130-shinrei-gakkou-kara-no-dasshutsu.json](./150130-shinrei-gakkou-kara-no-dasshutsu.json) |
+| Shinreigari: Ghost Hound DS | 123408 | [123408-shinreigari-ghost-hound-ds.json](./123408-shinreigari-ghost-hound-ds.json) |
 | Shinseiki Evangelion Mahjong Hokan Keikaku | 61676 | [61676-shinseiki-evangelion-mahjong-hokan-keikaku.json](./61676-shinseiki-evangelion-mahjong-hokan-keikaku.json) |
 | Shinseiki Evangelion: Typing E-Keikaku | 61671 | [61671-shinseiki-evangelion-typing-e-keikaku.json](./61671-shinseiki-evangelion-typing-e-keikaku.json) |
 | Shinsetsu Mahou Shoujo | 131589 | [131589-shinsetsu-mahou-shoujo.json](./131589-shinsetsu-mahou-shoujo.json) |
@@ -5076,6 +5081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Halloween Story | 156089 | [156089-solitaire-halloween-story.json](./156089-solitaire-halloween-story.json) |
 | Solitaire Holiday Season | 386151 | [386151-solitaire-holiday-season.json](./386151-solitaire-holiday-season.json) |
 | Solitaire Home Story | 354999 | [354999-solitaire-home-story.json](./354999-solitaire-home-story.json) |
+| Solitaire Jester | 123427 | [123427-solitaire-jester.json](./123427-solitaire-jester.json) |
 | Solitaire Klondike Pro. | 101601 | [101601-solitaire-klondike-pro.json](./101601-solitaire-klondike-pro.json) |
 | Solitaire Lounge | 25703 | [25703-solitaire-lounge.json](./25703-solitaire-lounge.json) |
 | Solitaire Mahjong: Ancient China Adventure | 401017 | [401017-solitaire-mahjong-ancient-china-adventure.json](./401017-solitaire-mahjong-ancient-china-adventure.json) |
@@ -6273,6 +6279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceborne Fighters | 392141 | [392141-spaceborne-fighters.json](./392141-spaceborne-fighters.json) |
 | Spaceborne Survivors | 294268 | [294268-spaceborne-survivors.json](./294268-spaceborne-survivors.json) |
 | Spacebound | 95397 | [95397-spacebound.json](./95397-spacebound.json) |
+| SpaceColorsRunner | 123446 | [123446-spacecolorsrunner.json](./123446-spacecolorsrunner.json) |
 | SpaceCorp: 2025-2300AD | 352297 | [352297-spacecorp-2025-2300ad.json](./352297-spacecorp-2025-2300ad.json) |
 | Spacecraft Tactics | 274038 | [274038-spacecraft-tactics.json](./274038-spacecraft-tactics.json) |
 | SpaceCrooks: The End of Time | 216883 | [216883-spacecrooks-the-end-of-time.json](./216883-spacecrooks-the-end-of-time.json) |
@@ -6651,6 +6658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphinx Lowering | 229819 | [229819-sphinx-lowering.json](./229819-sphinx-lowering.json) |
 | Sphongos | 345562 | [345562-sphongos.json](./345562-sphongos.json) |
 | Spibee | 382930 | [382930-spibee.json](./382930-spibee.json) |
+| Spice and Wolf: The Wind that Spans the Sea | 123448 | [123448-spice-and-wolf-the-wind-that-spans-the-sea.json](./123448-spice-and-wolf-the-wind-that-spans-the-sea.json) |
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
 | Spider | 379979 | [379979-spider.json](./379979-spider.json) |
 | Spider and Web | 91916 | [91916-spider-and-web.json](./91916-spider-and-web.json) |
@@ -7650,9 +7658,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wolves 3: Civil War | 9851 | [9851-star-wolves-3-civil-war.json](./9851-star-wolves-3-civil-war.json) |
 | Star Word | 318784 | [318784-star-word.json](./318784-star-word.json) |
 | Star-blaze | 15377 | [15377-star-blaze.json](./15377-star-blaze.json) |
+| Star-Crossed Myth: The Department of Punishments | 123451 | [123451-star-crossed-myth-the-department-of-punishments.json](./123451-star-crossed-myth-the-department-of-punishments.json) |
 | Star-Crossed Myth: The Department of Punishments - Constellations of Love: Dui | 238070 | [238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json](./238070-star-crossed-myth-the-department-of-punishments-constellations-of-love-dui.json) |
 | Star-Crossed Myth: The Department of Punishments - Constellations of Love: Ichthys | 238072 | [238072-star-crossed-myth-the-department-of-punishments-constellations-of-love-ichthys.json](./238072-star-crossed-myth-the-department-of-punishments-constellations-of-love-ichthys.json) |
 | Star-Crossed Myth: The Department of Punishments - Constellations of Love: Scorpio | 238074 | [238074-star-crossed-myth-the-department-of-punishments-constellations-of-love-scorpio.json](./238074-star-crossed-myth-the-department-of-punishments-constellations-of-love-scorpio.json) |
+| Star-Crossed Myth: The Department of Wishes | 123450 | [123450-star-crossed-myth-the-department-of-wishes.json](./123450-star-crossed-myth-the-department-of-wishes.json) |
 | Star-Crossed Myth: The Department of Wishes - Constellations of Love: Huedhaut | 238071 | [238071-star-crossed-myth-the-department-of-wishes-constellations-of-love-huedhaut.json](./238071-star-crossed-myth-the-department-of-wishes-constellations-of-love-huedhaut.json) |
 | Star-Crossed Myth: The Department of Wishes - Constellations of Love: Leon | 238073 | [238073-star-crossed-myth-the-department-of-wishes-constellations-of-love-leon.json](./238073-star-crossed-myth-the-department-of-wishes-constellations-of-love-leon.json) |
 | Star-Crossed Myth: The Department of Wishes - Constellations of Love: Teorus | 238075 | [238075-star-crossed-myth-the-department-of-wishes-constellations-of-love-teorus.json](./238075-star-crossed-myth-the-department-of-wishes-constellations-of-love-teorus.json) |
@@ -9515,6 +9525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super City | 399730 | [399730-super-city.json](./399730-super-city.json) |
 | Super Citycon: City Builder | 232541 | [232541-super-citycon-city-builder.json](./232541-super-citycon-city-builder.json) |
 | Super Clash Crossover | 120413 | [120413-super-clash-crossover.json](./120413-super-clash-crossover.json) |
+| Super Climb Up | 123400 | [123400-super-climb-up.json](./123400-super-climb-up.json) |
 | Super Climb Up!! | 377053 | [377053-super-climb-up.json](./377053-super-climb-up.json) |
 | Super Cloudbuilt | 27396 | [27396-super-cloudbuilt.json](./27396-super-cloudbuilt.json) |
 | Super Clown 3: Revenge | 223179 | [223179-super-clown-3-revenge.json](./223179-super-clown-3-revenge.json) |
@@ -10810,6 +10821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Bakery Tycoon: Super Edition | 315851 | [315851-sweet-bakery-tycoon-super-edition.json](./315851-sweet-bakery-tycoon-super-edition.json) |
 | Sweet Bakery Tycoon: Value Edition | 317243 | [317243-sweet-bakery-tycoon-value-edition.json](./317243-sweet-bakery-tycoon-value-edition.json) |
 | Sweet Bar | 392908 | [392908-sweet-bar.json](./392908-sweet-bar.json) |
+| Sweet Bell Day: The Game | 123414 | [123414-sweet-bell-day-the-game.json](./123414-sweet-bell-day-the-game.json) |
 | Sweet Cafe | 239881 | [239881-sweet-cafe.json](./239881-sweet-cafe.json) |
 | Sweet Camping | 368521 | [368521-sweet-camping.json](./368521-sweet-camping.json) |
 | Sweet Cheongsam | 384626 | [384626-sweet-cheongsam.json](./384626-sweet-cheongsam.json) |
