@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaapelipeli: The Cable Game | 138260 | [138260-kaapelipeli-the-cable-game.json](./138260-kaapelipeli-the-cable-game.json) |
 | Kabaneri of the Iron Fortress: Ran - Hajimaru Michiato | 89983 | [89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json](./89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json) |
 | Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
+| Kabod Online | 65209 | [65209-kabod-online.json](./65209-kabod-online.json) |
 | Kaboom Swing | 179151 | [179151-kaboom-swing.json](./179151-kaboom-swing.json) |
 | Kaboom! | 172030 | [172030-kaboom.json](./172030-kaboom.json) |
 | Kabuki-chou Reach Mahjong: Toupuusen | 42630 | [42630-kabuki-chou-reach-mahjong-toupuusen.json](./42630-kabuki-chou-reach-mahjong-toupuusen.json) |
@@ -371,6 +372,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kate Plus Ten | 112324 | [112324-kate-plus-ten.json](./112324-kate-plus-ten.json) |
 | Katei de Dekiru! Chomeijin Yuumei Ryourinin no Original Recipe - Shokusai Roman | 269824 | [269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json](./269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json) |
 | Katei no Igaku: DS de Kitaeru Shokuzai Kenkou Training | 269586 | [269586-katei-no-igaku-ds-de-kitaeru-shokuzai-kenkou-training.json](./269586-katei-no-igaku-ds-de-kitaeru-shokuzai-kenkou-training.json) |
+| Katekyou Hitman Reborn! Battle Arena | 65217 | [65217-katekyou-hitman-reborn-battle-arena.json](./65217-katekyou-hitman-reborn-battle-arena.json) |
+| Katekyou Hitman Reborn! Battle Arena 2: Spirit Burst | 65216 | [65216-katekyou-hitman-reborn-battle-arena-2-spirit-burst.json](./65216-katekyou-hitman-reborn-battle-arena-2-spirit-burst.json) |
 | Katekyou Hitman Reborn! Dream Hyper Battle Wii | 78339 | [78339-katekyou-hitman-reborn-dream-hyper-battle-wii.json](./78339-katekyou-hitman-reborn-dream-hyper-battle-wii.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble - Kaien Ring Soudatsuen! | 64380 | [64380-katekyou-hitman-reborn-ds-flame-rumble-kaien-ring-soudatsuen.json](./64380-katekyou-hitman-reborn-ds-flame-rumble-kaien-ring-soudatsuen.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble - Mukuro Kyoshu | 64385 | [64385-katekyou-hitman-reborn-ds-flame-rumble-mukuro-kyoshu.json](./64385-katekyou-hitman-reborn-ds-flame-rumble-mukuro-kyoshu.json) |
@@ -747,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kikou Seiki Unitron | 43969 | [43969-kikou-seiki-unitron.json](./43969-kikou-seiki-unitron.json) |
 | Kikstart | 25966 | [25966-kikstart.json](./25966-kikstart.json) |
 | Kikstart: Off-Road Simulator | 57616 | [57616-kikstart-off-road-simulator.json](./57616-kikstart-off-road-simulator.json) |
+| Kikuni Masahiko: Jirushi Warau Fukei-san Pachi-Slot Hunter | 65214 | [65214-kikuni-masahiko-jirushi-warau-fukei-san-pachi-slot-hunter.json](./65214-kikuni-masahiko-jirushi-warau-fukei-san-pachi-slot-hunter.json) |
 | KilaFlow | 265955 | [265955-kilaflow.json](./265955-kilaflow.json) |
 | Kilari: Become a Star | 70673 | [70673-kilari-become-a-star.json](./70673-kilari-become-a-star.json) |
 | Kilira's Descent | 401526 | [401526-kiliras-descent.json](./401526-kiliras-descent.json) |
@@ -1626,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami Collector's Series: Castlevania & Contra | 78642 | [78642-konami-collectors-series-castlevania-and-contra.json](./78642-konami-collectors-series-castlevania-and-contra.json) |
 | Konami's Ping Pong | 46832 | [46832-konamis-ping-pong.json](./46832-konamis-ping-pong.json) |
 | Konamic Tennis | 41322 | [41322-konamic-tennis.json](./41322-konamic-tennis.json) |
+| Konchuu Fighters | 65191 | [65191-konchuu-fighters.json](./65191-konchuu-fighters.json) |
 | Koneko Club | 385748 | [385748-koneko-club.json](./385748-koneko-club.json) |
 | Kong | 142412 | [142412-kong.json](./142412-kong.json) |
 | Kong Studios | 368009 | [368009-kong-studios.json](./368009-kong-studios.json) |
@@ -1692,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korunu Kopia: Fushigi no Sumu Machi | 135895 | [135895-korunu-kopia-fushigi-no-sumu-machi.json](./135895-korunu-kopia-fushigi-no-sumu-machi.json) |
 | Koshachʼya Lyubovʼ | 301404 | [301404-koshach-ya-lyubov.json](./301404-koshach-ya-lyubov.json) |
 | Koshchei the Immortal | 372460 | [372460-koshchei-the-immortal.json](./372460-koshchei-the-immortal.json) |
+| Koshien Pocket | 65190 | [65190-koshien-pocket.json](./65190-koshien-pocket.json) |
 | Koshka | 157145 | [157145-koshka.json](./157145-koshka.json) |
 | Koshka's Kofe | 135683 | [135683-koshkas-kofe.json](./135683-koshkas-kofe.json) |
 | Koshotengai no Hashihime Noma | 103176 | [103176-koshotengai-no-hashihime-noma.json](./103176-koshotengai-no-hashihime-noma.json) |
