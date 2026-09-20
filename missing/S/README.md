@@ -4127,6 +4127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Ride Arcade | 32985 | [32985-slide-ride-arcade.json](./32985-slide-ride-arcade.json) |
 | Slide Soldiers | 358951 | [358951-slide-soldiers.json](./358951-slide-soldiers.json) |
 | Slide Stars | 138045 | [138045-slide-stars.json](./138045-slide-stars.json) |
+| Slide to finish | 111477 | [111477-slide-to-finish.json](./111477-slide-to-finish.json) |
 | Slide to Solve | 329592 | [329592-slide-to-solve.json](./329592-slide-to-solve.json) |
 | Slide Viking: Treasure's Path | 395664 | [395664-slide-viking-treasures-path.json](./395664-slide-viking-treasures-path.json) |
 | Slide! Throw! Snow Party | 379977 | [379977-slide-throw-snow-party.json](./379977-slide-throw-snow-party.json) |
@@ -6026,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Chimps | 200685 | [200685-space-chimps.json](./200685-space-chimps.json) |
 | Space Chimps | 5172 | [5172-space-chimps.json](./5172-space-chimps.json) |
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
+| Space Clash: The Last Frontier | 111446 | [111446-space-clash-the-last-frontier.json](./111446-space-clash-the-last-frontier.json) |
 | Space Cobra RetPixMod | 178647 | [178647-space-cobra-retpixmod.json](./178647-space-cobra-retpixmod.json) |
 | Space Colony HD | 51901 | [51901-space-colony-hd.json](./51901-space-colony-hd.json) |
 | Space Combat | 294265 | [294265-space-combat.json](./294265-space-combat.json) |
@@ -6911,6 +6913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splinterlands | 165055 | [165055-splinterlands.json](./165055-splinterlands.json) |
 | Splinterra | 306375 | [306375-splinterra.json](./306375-splinterra.json) |
 | Splinters of Regret | 193410 | [193410-splinters-of-regret.json](./193410-splinters-of-regret.json) |
+| Split | 111484 | [111484-split.json](./111484-split.json) |
 | Split Apart | 324313 | [324313-split-apart.json](./324313-split-apart.json) |
 | Split Brain Samsara | 401487 | [401487-split-brain-samsara.json](./401487-split-brain-samsara.json) |
 | Split Drive | 189197 | [189197-split-drive.json](./189197-split-drive.json) |
@@ -7172,6 +7175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spykebots | 113706 | [113706-spykebots.json](./113706-spykebots.json) |
 | Spyrazoid | 227833 | [227833-spyrazoid.json](./227833-spyrazoid.json) |
 | Spyrit Walker | 304872 | [304872-spyrit-walker.json](./304872-spyrit-walker.json) |
+| Spyro + Crash Remastered Game Bundle | 111449 | [111449-spyro-crash-remastered-game-bundle.json](./111449-spyro-crash-remastered-game-bundle.json) |
 | Spyro 2: Ripto's Rage! | 142242 | [142242-spyro-2-riptos-rage.json](./142242-spyro-2-riptos-rage.json) |
 | Spyro 2: Ripto's Rage! | 1577 | [1577-spyro-2-riptos-rage.json](./1577-spyro-2-riptos-rage.json) |
 | Spyro 2: Season of Flame | 1588 | [1588-spyro-2-season-of-flame.json](./1588-spyro-2-season-of-flame.json) |
@@ -9568,6 +9572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cakeboy | 240816 | [240816-super-cakeboy.json](./240816-super-cakeboy.json) |
 | Super Calm Bros. 3 | 214718 | [214718-super-calm-bros-3.json](./214718-super-calm-bros-3.json) |
 | Super Capsule Boy | 334508 | [334508-super-capsule-boy.json](./334508-super-capsule-boy.json) |
+| Super Captain 3D | 111485 | [111485-super-captain-3d.json](./111485-super-captain-3d.json) |
 | Super Captain Flying Robot City Rescue Mission | 96008 | [96008-super-captain-flying-robot-city-rescue-mission.json](./96008-super-captain-flying-robot-city-rescue-mission.json) |
 | Super Caronaut | 178626 | [178626-super-caronaut.json](./178626-super-caronaut.json) |
 | Super Cars II | 12227 | [12227-super-cars-ii.json](./12227-super-cars-ii.json) |
