@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peach Up | 338831 | [338831-peach-up.json](./338831-peach-up.json) |
 | Peach's Christmas Invitation | 135215 | [135215-peachs-christmas-invitation.json](./135215-peachs-christmas-invitation.json) |
 | Peachleaf Valley: Seeds of Love | 152935 | [152935-peachleaf-valley-seeds-of-love.json](./152935-peachleaf-valley-seeds-of-love.json) |
+| Peachy | 92284 | [92284-peachy.json](./92284-peachy.json) |
 | Peachy Adventure | 173818 | [173818-peachy-adventure.json](./173818-peachy-adventure.json) |
 | Peachy Boy | 231053 | [231053-peachy-boy.json](./231053-peachy-boy.json) |
 | Peak Angle: Drift Online - Japan Cars Pack | 225903 | [225903-peak-angle-drift-online-japan-cars-pack.json](./225903-peak-angle-drift-online-japan-cars-pack.json) |
@@ -1866,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piccross Adventure House | 102819 | [102819-piccross-adventure-house.json](./102819-piccross-adventure-house.json) |
 | Pichenette | 384530 | [384530-pichenette.json](./384530-pichenette.json) |
 | Pichon: The Bouncy Bird | 180107 | [180107-pichon-the-bouncy-bird.json](./180107-pichon-the-bouncy-bird.json) |
+| Pichu Bros. Mini | 92303 | [92303-pichu-bros-mini.json](./92303-pichu-bros-mini.json) |
 | Pick 'n Pile | 40765 | [40765-pick-n-pile.json](./40765-pick-n-pile.json) |
 | Pick & Match | 87223 | [87223-pick-and-match.json](./87223-pick-and-match.json) |
 | Pick & Place | 402298 | [402298-pick-and-place.json](./402298-pick-and-place.json) |
@@ -3376,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sigma Platinum | 197927 | [197927-pokemon-sigma-platinum.json](./197927-pokemon-sigma-platinum.json) |
 | Pokémon Sky Stacker | 288369 | [288369-pokemon-sky-stacker.json](./288369-pokemon-sky-stacker.json) |
 | Pokémon Snap 3DS | 401507 | [401507-pokemon-snap-3ds.json](./401507-pokemon-snap-3ds.json) |
+| Pokémon Sodateyasan Mini | 92306 | [92306-pokemon-sodateyasan-mini.json](./92306-pokemon-sodateyasan-mini.json) |
 | Pokémon Solar Eclipse | 399594 | [399594-pokemon-solar-eclipse.json](./399594-pokemon-solar-eclipse.json) |
 | Pokémon Soulstones | 221276 | [221276-pokemon-soulstones.json](./221276-pokemon-soulstones.json) |
 | Pokémon Stadium 2 | 2290 | [2290-pokemon-stadium-2.json](./2290-pokemon-stadium-2.json) |
