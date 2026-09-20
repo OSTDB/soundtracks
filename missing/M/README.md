@@ -3103,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metronome HD | 66601 | [66601-metronome-hd.json](./66601-metronome-hd.json) |
 | Metropocre | 169975 | [169975-metropocre.json](./169975-metropocre.json) |
 | Metropolis | 209520 | [209520-metropolis.json](./209520-metropolis.json) |
+| Metropolis | 84537 | [84537-metropolis.json](./84537-metropolis.json) |
 | Metropolis Card Club | 209519 | [209519-metropolis-card-club.json](./209519-metropolis-card-club.json) |
 | Metropolismania | 26661 | [26661-metropolismania.json](./26661-metropolismania.json) |
 | Metropolismania 4 | 178560 | [178560-metropolismania-4.json](./178560-metropolismania-4.json) |
