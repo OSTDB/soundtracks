@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carcassonne: The Official Board Game - The River | 157564 | [157564-carcassonne-the-official-board-game-the-river.json](./157564-carcassonne-the-official-board-game-the-river.json) |
 | Carcassonne: The Official Board Game - Traders & Builders | 227359 | [227359-carcassonne-the-official-board-game-traders-and-builders.json](./227359-carcassonne-the-official-board-game-traders-and-builders.json) |
 | Carcassonne: The Official Board Game - Winter and Gingerbread Man | 171017 | [171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json](./171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json) |
+| CarCollector | 76252 | [76252-carcollector.json](./76252-carcollector.json) |
 | Carcosa | 140554 | [140554-carcosa.json](./140554-carcosa.json) |
 | Card & Puzzle Collection Ginga | 365679 | [365679-card-and-puzzle-collection-ginga.json](./365679-card-and-puzzle-collection-ginga.json) |
 | Card Blitz: WWII | 133235 | [133235-card-blitz-wwii.json](./133235-card-blitz-wwii.json) |
@@ -2624,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck E. Cheese's Gameroom | 55902 | [55902-chuck-e-cheeses-gameroom.json](./55902-chuck-e-cheeses-gameroom.json) |
 | Chuck E. Cheese's Playhouse | 55904 | [55904-chuck-e-cheeses-playhouse.json](./55904-chuck-e-cheeses-playhouse.json) |
 | Chuck E. Cheese's Racing World | 103522 | [103522-chuck-e-cheeses-racing-world.json](./103522-chuck-e-cheeses-racing-world.json) |
+| Chuck Gnome | 76185 | [76185-chuck-gnome.json](./76185-chuck-gnome.json) |
 | Chuck Meowrris | 130167 | [130167-chuck-meowrris.json](./130167-chuck-meowrris.json) |
 | Chuck Quizmo's Quiz | 328608 | [328608-chuck-quizmos-quiz.json](./328608-chuck-quizmos-quiz.json) |
 | Chuck Rock | 275025 | [275025-chuck-rock.json](./275025-chuck-rock.json) |
@@ -2985,6 +2987,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Mario World: The Magic Crystals | 191909 | [191909-classic-mario-world-the-magic-crystals.json](./191909-classic-mario-world-the-magic-crystals.json) |
 | Classic Max Lite | 359478 | [359478-classic-max-lite.json](./359478-classic-max-lite.json) |
 | Classic NES Series: Dr. Mario | 18064 | [18064-classic-nes-series-dr-mario.json](./18064-classic-nes-series-dr-mario.json) |
+| Classic NES Series: Metroid | 76247 | [76247-classic-nes-series-metroid.json](./76247-classic-nes-series-metroid.json) |
+| Classic NES Series: Pac-Man | 76248 | [76248-classic-nes-series-pac-man.json](./76248-classic-nes-series-pac-man.json) |
 | Classic NES Series: Zelda II - The Adventure of Link | 136280 | [136280-classic-nes-series-zelda-ii-the-adventure-of-link.json](./136280-classic-nes-series-zelda-ii-the-adventure-of-link.json) |
 | Classic Pool and Cyber Pool Bundle | 251804 | [251804-classic-pool-and-cyber-pool-bundle.json](./251804-classic-pool-and-cyber-pool-bundle.json) |
 | Classic Racing Pack: Moto Roader MC + Rider's Spirits | 317238 | [317238-classic-racing-pack-moto-roader-mc-riders-spirits.json](./317238-classic-racing-pack-moto-roader-mc-riders-spirits.json) |
@@ -4293,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contractors | 123603 | [123603-contractors.json](./123603-contractors.json) |
 | Contractors VR | 111625 | [111625-contractors-vr.json](./111625-contractors-vr.json) |
 | ContractVille | 285577 | [285577-contractville.json](./285577-contractville.json) |
+| Contradiction | 76229 | [76229-contradiction.json](./76229-contradiction.json) |
 | Contradiction: Spot the Liar! | 11333 | [11333-contradiction-spot-the-liar.json](./11333-contradiction-spot-the-liar.json) |
 | Contraption | 57121 | [57121-contraption.json](./57121-contraption.json) |
 | Contraption Maker | 9802 | [9802-contraption-maker.json](./9802-contraption-maker.json) |
