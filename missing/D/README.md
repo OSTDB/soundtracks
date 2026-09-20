@@ -4571,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonfire | 5671 | [5671-dragonfire.json](./5671-dragonfire.json) |
 | DragonFishing | 70392 | [70392-dragonfishing.json](./70392-dragonfishing.json) |
 | Dragonfist | 92448 | [92448-dragonfist.json](./92448-dragonfist.json) |
+| Dragonfly Chronicles | 105133 | [105133-dragonfly-chronicles.json](./105133-dragonfly-chronicles.json) |
 | DragonHeart | 80824 | [80824-dragonheart.json](./80824-dragonheart.json) |
 | Dragonia | 124242 | [124242-dragonia.json](./124242-dragonia.json) |
 | DragonMirrored with Hyoga & Magma | 305769 | [305769-dragonmirrored-with-hyoga-and-magma.json](./305769-dragonmirrored-with-hyoga-and-magma.json) |
@@ -5451,6 +5452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Quest | 101600 | [101600-dungeon-quest.json](./101600-dungeon-quest.json) |
 | Dungeon Quest | 2880 | [2880-dungeon-quest.json](./2880-dungeon-quest.json) |
 | Dungeon Raid | 22459 | [22459-dungeon-raid.json](./22459-dungeon-raid.json) |
+| Dungeon Rankers | 105086 | [105086-dungeon-rankers.json](./105086-dungeon-rankers.json) |
 | Dungeon Raze | 327593 | [327593-dungeon-raze.json](./327593-dungeon-raze.json) |
 | Dungeon Re-Delve | 278422 | [278422-dungeon-re-delve.json](./278422-dungeon-re-delve.json) |
 | Dungeon Rebound | 252399 | [252399-dungeon-rebound.json](./252399-dungeon-rebound.json) |
