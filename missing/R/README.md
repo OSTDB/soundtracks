@@ -3567,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rougelight | 86094 | [86094-rougelight.json](./86094-rougelight.json) |
 | Rough Justice: '84 | 133154 | [133154-rough-justice-84.json](./133154-rough-justice-84.json) |
 | Rough Kuts: 3D | 200572 | [200572-rough-kuts-3d.json](./200572-rough-kuts-3d.json) |
+| Rough Ranger | 78369 | [78369-rough-ranger.json](./78369-rough-ranger.json) |
 | Roulette | 147900 | [147900-roulette.json](./147900-roulette.json) |
 | Roulette | 366926 | [366926-roulette.json](./366926-roulette.json) |
 | Roulette Club | 368547 | [368547-roulette-club.json](./368547-roulette-club.json) |
