@@ -1576,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeeYou | 381606 | [381606-seeyou.json](./381606-seeyou.json) |
 | Sefir: Mafia Story | 158559 | [158559-sefir-mafia-story.json](./158559-sefir-mafia-story.json) |
 | Sefton Asylum | 396937 | [396937-sefton-asylum.json](./396937-sefton-asylum.json) |
+| Sega 3D Fukkoku Archives 1+2 Double Pack | 77639 | [77639-sega-3d-fukkoku-archives-1-2-double-pack.json](./77639-sega-3d-fukkoku-archives-1-2-double-pack.json) |
 | Sega Ages 2500 Series Vol. 33: Fantasy Zone Complete Collection | 64899 | [64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json](./64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json) |
 | Sega Ages 2500 Vol. 10: After Burner II | 64900 | [64900-sega-ages-2500-vol-10-after-burner-ii.json](./64900-sega-ages-2500-vol-10-after-burner-ii.json) |
 | Sega Ages 2500 Vol. 13: OutRun | 100024 | [100024-sega-ages-2500-vol-13-outrun.json](./100024-sega-ages-2500-vol-13-outrun.json) |
@@ -1896,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Setsugekka | 163363 | [163363-setsugekka.json](./163363-setsugekka.json) |
 | Setsuna ni Kakeru Koi Hanabi | 302683 | [302683-setsuna-ni-kakeru-koi-hanabi.json](./302683-setsuna-ni-kakeru-koi-hanabi.json) |
 | Setsuna ni Kakeru Koi Hanabi | 339821 | [339821-setsuna-ni-kakeru-koi-hanabi.json](./339821-setsuna-ni-kakeru-koi-hanabi.json) |
+| Setsunai | 77677 | [77677-setsunai.json](./77677-setsunai.json) |
 | Setteeh | 312883 | [312883-setteeh.json](./312883-setteeh.json) |
 | Settle | 397075 | [397075-settle.json](./397075-settle.json) |
 | Settle and Battle: New Empires | 324295 | [324295-settle-and-battle-new-empires.json](./324295-settle-and-battle-new-empires.json) |
@@ -2108,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Fight 2: Special Edition | 68463 | [68463-shadow-fight-2-special-edition.json](./68463-shadow-fight-2-special-edition.json) |
 | Shadow Fight: Arena | 219604 | [219604-shadow-fight-arena.json](./219604-shadow-fight-arena.json) |
 | Shadow Fighter Legend | 105859 | [105859-shadow-fighter-legend.json](./105859-shadow-fighter-legend.json) |
+| Shadow Force | 77660 | [77660-shadow-force.json](./77660-shadow-force.json) |
 | Shadow Gambit: Zagan's Ritual | 279542 | [279542-shadow-gambit-zagans-ritual.json](./279542-shadow-gambit-zagans-ritual.json) |
 | Shadow Game | 331297 | [331297-shadow-game.json](./331297-shadow-game.json) |
 | Shadow Harvest: Phantom Ops | 16236 | [16236-shadow-harvest-phantom-ops.json](./16236-shadow-harvest-phantom-ops.json) |
@@ -2150,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Ninja Reborn: Deluxe Edition | 317229 | [317229-shadow-of-the-ninja-reborn-deluxe-edition.json](./317229-shadow-of-the-ninja-reborn-deluxe-edition.json) |
 | Shadow of the Road | 124209 | [124209-shadow-of-the-road.json](./124209-shadow-of-the-road.json) |
 | Shadow of the Tomb Raider: The Path Home | 117711 | [117711-shadow-of-the-tomb-raider-the-path-home.json](./117711-shadow-of-the-tomb-raider-the-path-home.json) |
+| Shadow of the Wyrm | 77656 | [77656-shadow-of-the-wyrm.json](./77656-shadow-of-the-wyrm.json) |
 | Shadow of Winter | 374067 | [374067-shadow-of-winter.json](./374067-shadow-of-winter.json) |
 | Shadow Over Isolation | 32944 | [32944-shadow-over-isolation.json](./32944-shadow-over-isolation.json) |
 | Shadow Over Normoth | 183057 | [183057-shadow-over-normoth.json](./183057-shadow-over-normoth.json) |
@@ -2402,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
 | Shared Beauty | 270760 | [270760-shared-beauty.json](./270760-shared-beauty.json) |
+| Sharf | 77649 | [77649-sharf.json](./77649-sharf.json) |
 | Sharin no Kuni, Yuukyuu no Shounenshoujo | 79858 | [79858-sharin-no-kuni-yuukyuu-no-shounenshoujo.json](./79858-sharin-no-kuni-yuukyuu-no-shounenshoujo.json) |
 | Sharin no Kuni: The Girl Among the Sunflowers | 112146 | [112146-sharin-no-kuni-the-girl-among-the-sunflowers.json](./112146-sharin-no-kuni-the-girl-among-the-sunflowers.json) |
 | Sharin no Kuni: The Girl Among the Sunflowers | 7185 | [7185-sharin-no-kuni-the-girl-among-the-sunflowers.json](./7185-sharin-no-kuni-the-girl-among-the-sunflowers.json) |
@@ -3213,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege of Dragonspear | 174209 | [174209-siege-of-dragonspear.json](./174209-siege-of-dragonspear.json) |
 | Siege of Osaka | 239181 | [239181-siege-of-osaka.json](./239181-siege-of-osaka.json) |
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
+| Siege Saga | 77633 | [77633-siege-saga.json](./77633-siege-saga.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
 | Sienna | 51221 | [51221-sienna.json](./51221-sienna.json) |
 | Sierra Championship Boxing | 73238 | [73238-sierra-championship-boxing.json](./73238-sierra-championship-boxing.json) |
@@ -4900,6 +4906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
 | Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
 | Snow Madness | 224201 | [224201-snow-madness.json](./224201-snow-madness.json) |
+| Snow Memoria: Wasureenu Omoi | 77675 | [77675-snow-memoria-wasureenu-omoi.json](./77675-snow-memoria-wasureenu-omoi.json) |
 | Snow Moon Flower | 235748 | [235748-snow-moon-flower.json](./235748-snow-moon-flower.json) |
 | Snow Moto Racing | 63837 | [63837-snow-moto-racing.json](./63837-snow-moto-racing.json) |
 | Snow Pinball: Santa's Christmas Factory! | 104476 | [104476-snow-pinball-santas-christmas-factory.json](./104476-snow-pinball-santas-christmas-factory.json) |
@@ -7346,6 +7353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Kids 2: Mega Mission Zone | 9207 | [9207-spy-kids-2-mega-mission-zone.json](./9207-spy-kids-2-mega-mission-zone.json) |
 | Spy Kids Challenger | 49385 | [49385-spy-kids-challenger.json](./49385-spy-kids-challenger.json) |
 | Spy Kids Learning Adventures: Mission - Man in the Moon | 73833 | [73833-spy-kids-learning-adventures-mission-man-in-the-moon.json](./73833-spy-kids-learning-adventures-mission-man-in-the-moon.json) |
+| Spy Kids Learning Adventures: Mission - The Nightmare Machine | 77641 | [77641-spy-kids-learning-adventures-mission-the-nightmare-machine.json](./77641-spy-kids-learning-adventures-mission-the-nightmare-machine.json) |
 | Spy Kids Learning Adventures: Mission - The Underground Affair | 72075 | [72075-spy-kids-learning-adventures-mission-the-underground-affair.json](./72075-spy-kids-learning-adventures-mission-the-underground-affair.json) |
 | Spy Kids: All the Time in the World | 124058 | [124058-spy-kids-all-the-time-in-the-world.json](./124058-spy-kids-all-the-time-in-the-world.json) |
 | Spy Mouse | 92300 | [92300-spy-mouse.json](./92300-spy-mouse.json) |
@@ -10340,6 +10348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: The Trip | 277045 | [277045-super-mario-the-trip.json](./277045-super-mario-the-trip.json) |
 | Super Mario's Jammin' Journey 64 | 135163 | [135163-super-marios-jammin-journey-64.json](./135163-super-marios-jammin-journey-64.json) |
 | Super Mariofell 64 | 397048 | [397048-super-mariofell-64.json](./397048-super-mariofell-64.json) |
+| Super Marisa Land | 77632 | [77632-super-marisa-land.json](./77632-super-marisa-land.json) |
 | Super Marisa World | 77351 | [77351-super-marisa-world.json](./77351-super-marisa-world.json) |
 | Super Marisa World Fusion | 322790 | [322790-super-marisa-world-fusion.json](./322790-super-marisa-world-fusion.json) |
 | Super Market | 320533 | [320533-super-market.json](./320533-super-market.json) |
@@ -10530,6 +10539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sans Race Running | 221710 | [221710-super-sans-race-running.json](./221710-super-sans-race-running.json) |
 | Super Scary Cylinder | 390135 | [390135-super-scary-cylinder.json](./390135-super-scary-cylinder.json) |
 | Super Schwarzschild | 41996 | [41996-super-schwarzschild.json](./41996-super-schwarzschild.json) |
+| Super Science Friends | 77650 | [77650-super-science-friends.json](./77650-super-science-friends.json) |
 | Super Scope 15 | 271240 | [271240-super-scope-15.json](./271240-super-scope-15.json) |
 | Super Scoundrel Solitaire | 400868 | [400868-super-scoundrel-solitaire.json](./400868-super-scoundrel-solitaire.json) |
 | Super Screepy Underworld | 25740 | [25740-super-screepy-underworld.json](./25740-super-screepy-underworld.json) |
