@@ -1749,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
 | Phrixothrix | 245857 | [245857-phrixothrix.json](./245857-phrixothrix.json) |
 | Phucker in the Ashes | 369019 | [369019-phucker-in-the-ashes.json](./369019-phucker-in-the-ashes.json) |
+| Phucker in the Gulag | 117474 | [117474-phucker-in-the-gulag.json](./117474-phucker-in-the-gulag.json) |
 | Phy Lab | 410210 | [410210-phy-lab.json](./410210-phy-lab.json) |
 | Phyakh | 221168 | [221168-phyakh.json](./221168-phyakh.json) |
 | Phylomortis: Avant-Garde | 356636 | [356636-phylomortis-avant-garde.json](./356636-phylomortis-avant-garde.json) |
@@ -2287,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates | 197378 | [197378-pirates.json](./197378-pirates.json) |
 | Pirates Adventure Solitaire | 341574 | [341574-pirates-adventure-solitaire.json](./341574-pirates-adventure-solitaire.json) |
 | Pirates Ahoy! | 182379 | [182379-pirates-ahoy.json](./182379-pirates-ahoy.json) |
+| Pirates are Blanking Awesome | 117475 | [117475-pirates-are-blanking-awesome.json](./117475-pirates-are-blanking-awesome.json) |
 | Pirates Bay | 211802 | [211802-pirates-bay.json](./211802-pirates-bay.json) |
 | Pirates CSG Online | 20643 | [20643-pirates-csg-online.json](./20643-pirates-csg-online.json) |
 | Pirates Deck | 35643 | [35643-pirates-deck.json](./35643-pirates-deck.json) |
@@ -2684,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster 2: Bonus Ride Collection | 371960 | [371960-planet-coaster-2-bonus-ride-collection.json](./371960-planet-coaster-2-bonus-ride-collection.json) |
 | Planet Coaster 2: Deluxe Edition | 331854 | [331854-planet-coaster-2-deluxe-edition.json](./331854-planet-coaster-2-deluxe-edition.json) |
 | Planet Coaster: Back to the Future Time Machine Construction Kit | 168240 | [168240-planet-coaster-back-to-the-future-time-machine-construction-kit.json](./168240-planet-coaster-back-to-the-future-time-machine-construction-kit.json) |
+| Planet Coaster: Classic Rides Collection | 117487 | [117487-planet-coaster-classic-rides-collection.json](./117487-planet-coaster-classic-rides-collection.json) |
 | Planet Coaster: Deluxe Rides Collection | 173162 | [173162-planet-coaster-deluxe-rides-collection.json](./173162-planet-coaster-deluxe-rides-collection.json) |
 | Planet Coaster: Knight Rider K.I.T.T. Construction Kit | 168239 | [168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json](./168239-planet-coaster-knight-rider-k-i-t-t-construction-kit.json) |
 | Planet Coaster: Quick Draw Interactive Shooting Ride | 168241 | [168241-planet-coaster-quick-draw-interactive-shooting-ride.json](./168241-planet-coaster-quick-draw-interactive-shooting-ride.json) |
