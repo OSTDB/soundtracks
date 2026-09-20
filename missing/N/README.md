@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NanoDeath | 305939 | [305939-nanodeath.json](./305939-nanodeath.json) |
 | NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
 | Nanoka Project | 226763 | [226763-nanoka-project.json](./226763-nanoka-project.json) |
+| Nanokin | 118189 | [118189-nanokin.json](./118189-nanokin.json) |
 | NanoLab Fighter | 246978 | [246978-nanolab-fighter.json](./246978-nanolab-fighter.json) |
 | Nanopesos | 125256 | [125256-nanopesos.json](./125256-nanopesos.json) |
 | Nanos | 90597 | [90597-nanos.json](./90597-nanos.json) |
