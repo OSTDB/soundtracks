@@ -1728,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensible World of Soccer: European Championship Edition | 79251 | [79251-sensible-world-of-soccer-european-championship-edition.json](./79251-sensible-world-of-soccer-european-championship-edition.json) |
 | Sensitive | 320188 | [320188-sensitive.json](./320188-sensitive.json) |
 | Sensorium | 138740 | [138740-sensorium.json](./138740-sensorium.json) |
+| Sensory Baby Toddler Learning Extra | 99392 | [99392-sensory-baby-toddler-learning-extra.json](./99392-sensory-baby-toddler-learning-extra.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
 | Sensual Adventures: Episode 7 | 245856 | [245856-sensual-adventures-episode-7.json](./245856-sensual-adventures-episode-7.json) |
 | Sensual Adventures: Episode 8 | 259002 | [259002-sensual-adventures-episode-8.json](./259002-sensual-adventures-episode-8.json) |
@@ -5778,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophie's Safecracking Simulator | 152924 | [152924-sophies-safecracking-simulator.json](./152924-sophies-safecracking-simulator.json) |
 | Sophie's World | 73234 | [73234-sophies-world.json](./73234-sophies-world.json) |
 | Sophonce | 211278 | [211278-sophonce.json](./211278-sophonce.json) |
+| Sophont | 99431 | [99431-sophont.json](./99431-sophont.json) |
 | Sora no Iro, Mizu no Iro | 72718 | [72718-sora-no-iro-mizu-no-iro.json](./72718-sora-no-iro-mizu-no-iro.json) |
 | Sora o Aogite Kumo Takaku | 62733 | [62733-sora-o-aogite-kumo-takaku.json](./62733-sora-o-aogite-kumo-takaku.json) |
 | Sora Tobu Henry | 231506 | [231506-sora-tobu-henry.json](./231506-sora-tobu-henry.json) |
@@ -7877,6 +7879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
 | Stares Back | 375854 | [375854-stares-back.json](./375854-stares-back.json) |
 | Starexcess | 124248 | [124248-starexcess.json](./124248-starexcess.json) |
+| Starfall | 99376 | [99376-starfall.json](./99376-starfall.json) |
 | Starfall Defenders | 350433 | [350433-starfall-defenders.json](./350433-starfall-defenders.json) |
 | Starfall Online | 131612 | [131612-starfall-online.json](./131612-starfall-online.json) |
 | Starfall: Operation Outro | 298037 | [298037-starfall-operation-outro.json](./298037-starfall-operation-outro.json) |
@@ -9259,6 +9262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuDoku & KaKuro Collector's Edition | 208360 | [208360-sudoku-and-kakuro-collectors-edition.json](./208360-sudoku-and-kakuro-collectors-edition.json) |
 | Sudoku & Kakuro Mania Unlimited | 208361 | [208361-sudoku-and-kakuro-mania-unlimited.json](./208361-sudoku-and-kakuro-mania-unlimited.json) |
 | Sudoku ++ | 102746 | [102746-sudoku.json](./102746-sudoku.json) |
+| Sudoku 16x16 Monster | 99385 | [99385-sudoku-16x16-monster.json](./99385-sudoku-16x16-monster.json) |
 | Sudoku 4 Kids | 245580 | [245580-sudoku-4-kids.json](./245580-sudoku-4-kids.json) |
 | Sudoku 9X16X25 | 119771 | [119771-sudoku-9x16x25.json](./119771-sudoku-9x16x25.json) |
 | Sudoku and Permudoku | 84913 | [84913-sudoku-and-permudoku.json](./84913-sudoku-and-permudoku.json) |
@@ -9564,6 +9568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Fairy | 151678 | [151678-sunny-fairy.json](./151678-sunny-fairy.json) |
 | Sunny Shine Funland! | 107818 | [107818-sunny-shine-funland.json](./107818-sunny-shine-funland.json) |
 | Sunny Shine on the Funny Side of Life | 123605 | [123605-sunny-shine-on-the-funny-side-of-life.json](./123605-sunny-shine-on-the-funny-side-of-life.json) |
+| Sunny Smiles | 99422 | [99422-sunny-smiles.json](./99422-sunny-smiles.json) |
 | Sunray OS | 285582 | [285582-sunray-os.json](./285582-sunray-os.json) |
 | Sunrider 4: The Captain's Return | 234352 | [234352-sunrider-4-the-captains-return.json](./234352-sunrider-4-the-captains-return.json) |
 | Sunrider: Liberation Day | 18176 | [18176-sunrider-liberation-day.json](./18176-sunrider-liberation-day.json) |
@@ -10661,6 +10666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
+| Supermarket VR | 99427 | [99427-supermarket-vr.json](./99427-supermarket-vr.json) |
 | Supermart Tycoon | 381709 | [381709-supermart-tycoon.json](./381709-supermart-tycoon.json) |
 | SuperMash | 127307 | [127307-supermash.json](./127307-supermash.json) |
 | Supermodel Gail McKenna | 254502 | [254502-supermodel-gail-mckenna.json](./254502-supermodel-gail-mckenna.json) |
@@ -10801,6 +10807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Hold Your Self | 342077 | [342077-survival-hold-your-self.json](./342077-survival-hold-your-self.json) |
 | Survival Island | 201672 | [201672-survival-island.json](./201672-survival-island.json) |
 | Survival Machine | 152121 | [152121-survival-machine.json](./152121-survival-machine.json) |
+| Survival Maze | 99428 | [99428-survival-maze.json](./99428-survival-maze.json) |
 | Survival Nation | 228586 | [228586-survival-nation.json](./228586-survival-nation.json) |
 | Survival Nation: Lost Horizon | 259619 | [259619-survival-nation-lost-horizon.json](./259619-survival-nation-lost-horizon.json) |
 | Survival Nexus | 266784 | [266784-survival-nexus.json](./266784-survival-nexus.json) |
