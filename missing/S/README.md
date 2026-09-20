@@ -8644,6 +8644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StrayDoll Conflict | 156005 | [156005-straydoll-conflict.json](./156005-straydoll-conflict.json) |
 | Strayed | 248912 | [248912-strayed.json](./248912-strayed.json) |
 | Strayed Lights: Deluxe Edition | 244793 | [244793-strayed-lights-deluxe-edition.json](./244793-strayed-lights-deluxe-edition.json) |
+| Strazeal | 121483 | [121483-strazeal.json](./121483-strazeal.json) |
 | Stream - Circuit Puzzle | 102128 | [102128-stream-circuit-puzzle.json](./102128-stream-circuit-puzzle.json) |
 | Stream Draws | 139448 | [139448-stream-draws.json](./139448-stream-draws.json) |
 | Stream Fighters | 126578 | [126578-stream-fighters.json](./126578-stream-fighters.json) |
