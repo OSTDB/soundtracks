@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakamon | 392129 | [392129-nakamon.json](./392129-nakamon.json) |
 | Nakana Bundle 3: Eqqo + Lydia + Stilstand | 207900 | [207900-nakana-bundle-3-eqqo-lydia-stilstand.json](./207900-nakana-bundle-3-eqqo-lydia-stilstand.json) |
 | Nakawak | 68193 | [68193-nakawak.json](./68193-nakawak.json) |
+| Naked and Afraid: The Game | 121468 | [121468-naked-and-afraid-the-game.json](./121468-naked-and-afraid-the-game.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
 | Naked News | 129213 | [129213-naked-news.json](./129213-naked-news.json) |
 | Nakiti Generations | 31762 | [31762-nakiti-generations.json](./31762-nakiti-generations.json) |
@@ -1280,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niffelheim: Odin's Blessing | 167841 | [167841-niffelheim-odins-blessing.json](./167841-niffelheim-odins-blessing.json) |
 | Niflheim Academy | 225672 | [225672-niflheim-academy.json](./225672-niflheim-academy.json) |
 | Nige-ron-pa | 43961 | [43961-nige-ron-pa.json](./43961-nige-ron-pa.json) |
+| Nigel: The Minuscule Adventure | 121456 | [121456-nigel-the-minuscule-adventure.json](./121456-nigel-the-minuscule-adventure.json) |
 | Nigel's Journey: A Working Day | 133378 | [133378-nigels-journey-a-working-day.json](./133378-nigels-journey-a-working-day.json) |
 | Nigella | 201315 | [201315-nigella.json](./201315-nigella.json) |
 | Nigepico 1.2 | 256514 | [256514-nigepico-1-2.json](./256514-nigepico-1-2.json) |
