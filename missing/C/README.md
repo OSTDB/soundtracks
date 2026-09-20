@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Endowment (C.O.D.E.) Warrior Pack | 276273 | [276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json](./276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json) |
 | Call of Duty: Future Warfare | 294871 | [294871-call-of-duty-future-warfare.json](./294871-call-of-duty-future-warfare.json) |
 | Call of Duty: Ghosts - Digital Hardened Edition | 240504 | [240504-call-of-duty-ghosts-digital-hardened-edition.json](./240504-call-of-duty-ghosts-digital-hardened-edition.json) |
+| Call of Duty: Ghosts - Gold Edition | 100000 | [100000-call-of-duty-ghosts-gold-edition.json](./100000-call-of-duty-ghosts-gold-edition.json) |
 | Call of Duty: Modern Warfare - Season Four | 135220 | [135220-call-of-duty-modern-warfare-season-four.json](./135220-call-of-duty-modern-warfare-season-four.json) |
 | Call of Duty: Modern Warfare - Season Six | 140977 | [140977-call-of-duty-modern-warfare-season-six.json](./140977-call-of-duty-modern-warfare-season-six.json) |
 | Call of Duty: Modern Warfare - Season Three | 135219 | [135219-call-of-duty-modern-warfare-season-three.json](./135219-call-of-duty-modern-warfare-season-three.json) |
@@ -2086,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Holmes: The Mystery of Bartolomeu | 163827 | [163827-chicken-holmes-the-mystery-of-bartolomeu.json](./163827-chicken-holmes-the-mystery-of-bartolomeu.json) |
 | Chicken in the Darkness | 110341 | [110341-chicken-in-the-darkness.json](./110341-chicken-in-the-darkness.json) |
 | Chicken Invaders | 11713 | [11713-chicken-invaders.json](./11713-chicken-invaders.json) |
+| Chicken Invaders 2 Xmas | 99974 | [99974-chicken-invaders-2-xmas.json](./99974-chicken-invaders-2-xmas.json) |
 | Chicken Invaders 3 Xmas | 89285 | [89285-chicken-invaders-3-xmas.json](./89285-chicken-invaders-3-xmas.json) |
 | Chicken Invaders 3: Easter Edition | 155576 | [155576-chicken-invaders-3-easter-edition.json](./155576-chicken-invaders-3-easter-edition.json) |
 | Chicken Invaders 4: Ultimate Omelette | 11716 | [11716-chicken-invaders-4-ultimate-omelette.json](./11716-chicken-invaders-4-ultimate-omelette.json) |
@@ -3565,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
 | Color Breakers | 151018 | [151018-color-breakers.json](./151018-color-breakers.json) |
 | Color by Numbers - Christmas + | 87178 | [87178-color-by-numbers-christmas.json](./87178-color-by-numbers-christmas.json) |
+| Color by Numbers - Halloween + | 100009 | [100009-color-by-numbers-halloween.json](./100009-color-by-numbers-halloween.json) |
 | Color Chain | 111488 | [111488-color-chain.json](./111488-color-chain.json) |
 | Color Cingdom | 334788 | [334788-color-cingdom.json](./334788-color-cingdom.json) |
 | Color Course | 185528 | [185528-color-course.json](./185528-color-course.json) |
