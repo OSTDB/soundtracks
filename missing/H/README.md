@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handshakes: Hands On | 233010 | [233010-handshakes-hands-on.json](./233010-handshakes-hands-on.json) |
 | HandsON | 158232 | [158232-handson.json](./158232-handson.json) |
 | Handwalk | 402355 | [402355-handwalk.json](./402355-handwalk.json) |
+| Handy | 120835 | [120835-handy.json](./120835-handy.json) |
 | Handy Farm: Roguelike | 385602 | [385602-handy-farm-roguelike.json](./385602-handy-farm-roguelike.json) |
 | Handy Harry's Haunted House Services | 143508 | [143508-handy-harrys-haunted-house-services.json](./143508-handy-harrys-haunted-house-services.json) |
 | Handy Helper | 373108 | [373108-handy-helper.json](./373108-handy-helper.json) |
@@ -773,6 +774,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva Mega Mix - 10th Anniversary Collection | 136283 | [136283-hatsune-miku-project-diva-mega-mix-10th-anniversary-collection.json](./136283-hatsune-miku-project-diva-mega-mix-10th-anniversary-collection.json) |
 | Hatsune Miku: Roller Skating Music | 199044 | [199044-hatsune-miku-roller-skating-music.json](./199044-hatsune-miku-roller-skating-music.json) |
 | Hatsune Miku: Tap Wonder | 138178 | [138178-hatsune-miku-tap-wonder.json](./138178-hatsune-miku-tap-wonder.json) |
+| Hatsune Miku: VR Future Live 2nd Stage | 120801 | [120801-hatsune-miku-vr-future-live-2nd-stage.json](./120801-hatsune-miku-vr-future-live-2nd-stage.json) |
+| Hatsune Miku: VR Future Live 3rd Stage | 120802 | [120802-hatsune-miku-vr-future-live-3rd-stage.json](./120802-hatsune-miku-vr-future-live-3rd-stage.json) |
 | Hatsuyuki Sakura: White Graduation | 259616 | [259616-hatsuyuki-sakura-white-graduation.json](./259616-hatsuyuki-sakura-white-graduation.json) |
 | Hattrick | 270408 | [270408-hattrick.json](./270408-hattrick.json) |
 | Hatup | 204093 | [204093-hatup.json](./204093-hatup.json) |
@@ -3118,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrors Above | 391185 | [391185-horrors-above.json](./391185-horrors-above.json) |
 | Horrors Anonymous | 179603 | [179603-horrors-anonymous.json](./179603-horrors-anonymous.json) |
 | Horrors Glade | 333366 | [333366-horrors-glade.json](./333366-horrors-glade.json) |
+| HorrorVale | 120814 | [120814-horrorvale.json](./120814-horrorvale.json) |
 | Horse Divorce | 178032 | [178032-horse-divorce.json](./178032-horse-divorce.json) |
 | Horse Evolutions | 357853 | [357853-horse-evolutions.json](./357853-horse-evolutions.json) |
 | Horse Farm | 105275 | [105275-horse-farm.json](./105275-horse-farm.json) |
