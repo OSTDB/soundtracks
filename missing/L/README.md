@@ -1964,6 +1964,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Littlebird/TrueEyes | 241524 | [241524-littlebird-trueeyes.json](./241524-littlebird-trueeyes.json) |
 | Littleroot Researchers | 195087 | [195087-littleroot-researchers.json](./195087-littleroot-researchers.json) |
 | Littlest Pet Shop | 353919 | [353919-littlest-pet-shop.json](./353919-littlest-pet-shop.json) |
+| Littlest Pet Shop 3: Biggest Stars - Pink Team | 122206 | [122206-littlest-pet-shop-3-biggest-stars-pink-team.json](./122206-littlest-pet-shop-3-biggest-stars-pink-team.json) |
+| Littlest Pet Shop 3: Biggest Stars - Purple Team | 122205 | [122205-littlest-pet-shop-3-biggest-stars-purple-team.json](./122205-littlest-pet-shop-3-biggest-stars-purple-team.json) |
 | Littlest Pet Shop Online | 91432 | [91432-littlest-pet-shop-online.json](./91432-littlest-pet-shop-online.json) |
 | Littlest Pet Shop: Biggest Adventure | 254485 | [254485-littlest-pet-shop-biggest-adventure.json](./254485-littlest-pet-shop-biggest-adventure.json) |
 | Littlest Pet Shop: City Friends | 48022 | [48022-littlest-pet-shop-city-friends.json](./48022-littlest-pet-shop-city-friends.json) |
@@ -2417,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lose Your Marbles | 362334 | [362334-lose-your-marbles.json](./362334-lose-your-marbles.json) |
 | Lose Your Marbles | 70330 | [70330-lose-your-marbles.json](./70330-lose-your-marbles.json) |
 | Lose/Lose | 201150 | [201150-lose-lose.json](./201150-lose-lose.json) |
+| Loser Reborn | 122179 | [122179-loser-reborn.json](./122179-loser-reborn.json) |
 | Losing Control | 179061 | [179061-losing-control.json](./179061-losing-control.json) |
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
 | Loss at Sea | 384114 | [384114-loss-at-sea.json](./384114-loss-at-sea.json) |
