@@ -3653,6 +3653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Settlement 1450 | 54353 | [54353-royal-settlement-1450.json](./54353-royal-settlement-1450.json) |
 | Royal Thumble | 196727 | [196727-royal-thumble.json](./196727-royal-thumble.json) |
 | Royal Trouble: Hidden Adventures | 87899 | [87899-royal-trouble-hidden-adventures.json](./87899-royal-trouble-hidden-adventures.json) |
+| Royal Tumble | 80886 | [80886-royal-tumble.json](./80886-royal-tumble.json) |
 | Royal Verdict | 391160 | [391160-royal-verdict.json](./391160-royal-verdict.json) |
 | Royal Watch: The Throne's Duty | 379976 | [379976-royal-watch-the-thrones-duty.json](./379976-royal-watch-the-thrones-duty.json) |
 | Royale King | 270928 | [270928-royale-king.json](./270928-royale-king.json) |
@@ -3699,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rtisatto City Defender | 192290 | [192290-rtisatto-city-defender.json](./192290-rtisatto-city-defender.json) |
 | RTL Alarm für Cobra 11: Teil II | 144348 | [144348-rtl-alarm-fur-cobra-11-teil-ii.json](./144348-rtl-alarm-fur-cobra-11-teil-ii.json) |
 | RTL Ski Alpin 2006 | 69865 | [69865-rtl-ski-alpin-2006.json](./69865-rtl-ski-alpin-2006.json) |
+| RTL Ski Jumping 2006 | 80865 | [80865-rtl-ski-jumping-2006.json](./80865-rtl-ski-jumping-2006.json) |
 | RTL Skispringen 2003 | 94245 | [94245-rtl-skispringen-2003.json](./94245-rtl-skispringen-2003.json) |
 | RTL Winter Games 2007 | 152301 | [152301-rtl-winter-games-2007.json](./152301-rtl-winter-games-2007.json) |
 | RTO | 84851 | [84851-rto.json](./84851-rto.json) |
