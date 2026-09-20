@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidsongs: Musical Mystery | 197865 | [197865-kidsongs-musical-mystery.json](./197865-kidsongs-musical-mystery.json) |
 | Kidz | 105088 | [105088-kidz.json](./105088-kidz.json) |
 | Kiem Ma 3D | 224032 | [224032-kiem-ma-3d.json](./224032-kiem-ma-3d.json) |
+| Kigurumi Kombat | 74757 | [74757-kigurumi-kombat.json](./74757-kigurumi-kombat.json) |
 | Kiipluu | 360602 | [360602-kiipluu.json](./360602-kiipluu.json) |
 | Kiitsu | 96734 | [96734-kiitsu.json](./96734-kiitsu.json) |
 | Kijin-mura no Kiken na Inshuu: Dangerous Village Tradition | 270782 | [270782-kijin-mura-no-kiken-na-inshuu-dangerous-village-tradition.json](./270782-kijin-mura-no-kiken-na-inshuu-dangerous-village-tradition.json) |
@@ -853,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi to Koi Shite Musubarete | 394886 | [394886-kimi-to-koi-shite-musubarete.json](./394886-kimi-to-koi-shite-musubarete.json) |
 | Kimi to Mezameru Ikutsuka no Houhou | 398997 | [398997-kimi-to-mezameru-ikutsuka-no-houhou.json](./398997-kimi-to-mezameru-ikutsuka-no-houhou.json) |
 | Kimi to Yumemishi | 194582 | [194582-kimi-to-yumemishi.json](./194582-kimi-to-yumemishi.json) |
+| Kimi wa Hero ~ Taiketsu! | 74766 | [74766-kimi-wa-hero-taiketsu.json](./74766-kimi-wa-hero-taiketsu.json) |
 | Kimmie Jong on Nukes the World | 110989 | [110989-kimmie-jong-on-nukes-the-world.json](./110989-kimmie-jong-on-nukes-the-world.json) |
 | Kimokawaiii | 304184 | [304184-kimokawaiii.json](./304184-kimokawaiii.json) |
 | Kimono Cats | 249774 | [249774-kimono-cats.json](./249774-kimono-cats.json) |
@@ -1848,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuni Chan no Game Tengoku Part 2 | 45270 | [45270-kuni-chan-no-game-tengoku-part-2.json](./45270-kuni-chan-no-game-tengoku-part-2.json) |
 | Kunio no Nekketsu School Fighters | 296061 | [296061-kunio-no-nekketsu-school-fighters.json](./296061-kunio-no-nekketsu-school-fighters.json) |
 | Kunio-kun no Nekketsu Dodgeball Allstars!! | 60502 | [60502-kunio-kun-no-nekketsu-dodgeball-allstars.json](./60502-kunio-kun-no-nekketsu-dodgeball-allstars.json) |
+| Kunio-kun no Nekketsu Street | 74769 | [74769-kunio-kun-no-nekketsu-street.json](./74769-kunio-kun-no-nekketsu-street.json) |
 | Kunio-kun's Nekketsu Soccer League | 16603 | [16603-kunio-kuns-nekketsu-soccer-league.json](./16603-kunio-kuns-nekketsu-soccer-league.json) |
 | Kunitori Zunou Battle: Nobunaga no Yabou | 69286 | [69286-kunitori-zunou-battle-nobunaga-no-yabou.json](./69286-kunitori-zunou-battle-nobunaga-no-yabou.json) |
 | Kunkun Defender 2 | 343863 | [343863-kunkun-defender-2.json](./343863-kunkun-defender-2.json) |
