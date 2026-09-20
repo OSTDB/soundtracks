@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Ultramix 4 | 5802 | [5802-dance-dance-revolution-ultramix-4.json](./5802-dance-dance-revolution-ultramix-4.json) |
 | Dance Dance Revolution Universe 3 | 6955 | [6955-dance-dance-revolution-universe-3.json](./6955-dance-dance-revolution-universe-3.json) |
 | Dance Dance Revolution USA | 66659 | [66659-dance-dance-revolution-usa.json](./66659-dance-dance-revolution-usa.json) |
+| Dance Dance Revolution X3 VS 2ndMix | 98239 | [98239-dance-dance-revolution-x3-vs-2ndmix.json](./98239-dance-dance-revolution-x3-vs-2ndmix.json) |
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
 | Dance Dance Revolution: Hottest Party 4 | 50733 | [50733-dance-dance-revolution-hottest-party-4.json](./50733-dance-dance-revolution-hottest-party-4.json) |
 | Dance Factory | 20560 | [20560-dance-factory.json](./20560-dance-factory.json) |
@@ -3068,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Learning: Phonics Quest | 59939 | [59939-disney-learning-phonics-quest.json](./59939-disney-learning-phonics-quest.json) |
 | Disney Magic Kingdoms | 86813 | [86813-disney-magic-kingdoms.json](./86813-disney-magic-kingdoms.json) |
 | Disney Magical Dice | 55158 | [55158-disney-magical-dice.json](./55158-disney-magical-dice.json) |
+| Disney Magical Dice: The Enchanted Board Game | 98240 | [98240-disney-magical-dice-the-enchanted-board-game.json](./98240-disney-magical-dice-the-enchanted-board-game.json) |
 | Disney Magical World 2: Enchanted Edition | 172428 | [172428-disney-magical-world-2-enchanted-edition.json](./172428-disney-magical-world-2-enchanted-edition.json) |
 | Disney Mickey's Typing Adventure | 35796 | [35796-disney-mickeys-typing-adventure.json](./35796-disney-mickeys-typing-adventure.json) |
 | Disney Miraness Fitness | 366901 | [366901-disney-miraness-fitness.json](./366901-disney-miraness-fitness.json) |
@@ -4105,6 +4107,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon Revive: Additional Character Color | 375155 | [375155-double-dragon-revive-additional-character-color.json](./375155-double-dragon-revive-additional-character-color.json) |
 | Double Dungeons | 206965 | [206965-double-dungeons.json](./206965-double-dungeons.json) |
 | Double Dunk | 18007 | [18007-double-dunk.json](./18007-double-dunk.json) |
+| Double Eagle | 98257 | [98257-double-eagle.json](./98257-double-eagle.json) |
+| Double Eagle: Tricky Hole | 98260 | [98260-double-eagle-tricky-hole.json](./98260-double-eagle-tricky-hole.json) |
 | Double Elf Fantasy | 241663 | [241663-double-elf-fantasy.json](./241663-double-elf-fantasy.json) |
 | Double Essence | 98440 | [98440-double-essence.json](./98440-double-essence.json) |
 | Double Happy vs. The Infinite Sadness: Pharos | 61055 | [61055-double-happy-vs-the-infinite-sadness-pharos.json](./61055-double-happy-vs-the-infinite-sadness-pharos.json) |
