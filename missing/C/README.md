@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chameleon Run+ | 174202 | [174202-chameleon-run.json](./174202-chameleon-run.json) |
 | Chameleon: DYH | 203401 | [203401-chameleon-dyh.json](./203401-chameleon-dyh.json) |
 | Chameleon: To Dye For! | 72713 | [72713-chameleon-to-dye-for.json](./72713-chameleon-to-dye-for.json) |
+| Champ Against Chumps | 108839 | [108839-champ-against-chumps.json](./108839-champ-against-chumps.json) |
 | Champ Asterocks | 94689 | [94689-champ-asterocks.json](./94689-champ-asterocks.json) |
 | Champ at Dawn | 231349 | [231349-champ-at-dawn.json](./231349-champ-at-dawn.json) |
 | Champ Invaders | 94248 | [94248-champ-invaders.json](./94248-champ-invaders.json) |
@@ -3920,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Competition Karate | 25780 | [25780-competition-karate.json](./25780-competition-karate.json) |
 | Compilation Assassin's Creed: Brotherhood + Revelations | 151207 | [151207-compilation-assassins-creed-brotherhood-revelations.json](./151207-compilation-assassins-creed-brotherhood-revelations.json) |
 | Compilation I Tom Clancy's Ghost Recon: Advanced Warfighter 2 + Tom Clancy's EndWar | 84163 | [84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json](./84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json) |
+| Complete Me | 108834 | [108834-complete-me.json](./108834-complete-me.json) |
 | Complete Onside Soccer | 93021 | [93021-complete-onside-soccer.json](./93021-complete-onside-soccer.json) |
 | Completion LawnCare | 216454 | [216454-completion-lawncare.json](./216454-completion-lawncare.json) |
 | Complex Complex | 273924 | [273924-complex-complex.json](./273924-complex-complex.json) |
