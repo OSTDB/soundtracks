@@ -1870,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bejeweled 2 Deluxe | 14806 | [14806-bejeweled-2-deluxe.json](./14806-bejeweled-2-deluxe.json) |
 | Bejeweled Blitz | 20435 | [20435-bejeweled-blitz.json](./20435-bejeweled-blitz.json) |
 | Bejeweled Classic | 187382 | [187382-bejeweled-classic.json](./187382-bejeweled-classic.json) |
+| Bejeweled Classic HD | 102591 | [102591-bejeweled-classic-hd.json](./102591-bejeweled-classic-hd.json) |
 | Bejeweled Deluxe | 27819 | [27819-bejeweled-deluxe.json](./27819-bejeweled-deluxe.json) |
 | Bela Kovacs and the Trail of Blood | 299758 | [299758-bela-kovacs-and-the-trail-of-blood.json](./299758-bela-kovacs-and-the-trail-of-blood.json) |
 | Belial | 14295 | [14295-belial.json](./14295-belial.json) |
@@ -2427,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Blitz️ | 181306 | [181306-bingo-blitz.json](./181306-bingo-blitz.json) |
 | Bingo Christmas: Holiday Bingo | 88213 | [88213-bingo-christmas-holiday-bingo.json](./88213-bingo-christmas-holiday-bingo.json) |
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
+| Bingo For Kids | 102597 | [102597-bingo-for-kids.json](./102597-bingo-for-kids.json) |
 | Bingo Infinity | 96082 | [96082-bingo-infinity.json](./96082-bingo-infinity.json) |
 | Bingo Master | 206140 | [206140-bingo-master.json](./206140-bingo-master.json) |
 | Bingo Pinball Gameroom | 260154 | [260154-bingo-pinball-gameroom.json](./260154-bingo-pinball-gameroom.json) |
@@ -4991,6 +4993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter 2 | 299775 | [299775-bubble-shooter-2.json](./299775-bubble-shooter-2.json) |
 | Bubble Shooter Adventures | 341019 | [341019-bubble-shooter-adventures.json](./341019-bubble-shooter-adventures.json) |
 | Bubble Shooter DX | 114186 | [114186-bubble-shooter-dx.json](./114186-bubble-shooter-dx.json) |
+| Bubble Shooter Mission | 102576 | [102576-bubble-shooter-mission.json](./102576-bubble-shooter-mission.json) |
 | Bubble Shooter: Fashion Bird | 108444 | [108444-bubble-shooter-fashion-bird.json](./108444-bubble-shooter-fashion-bird.json) |
 | Bubble Shooter! Tournaments | 78387 | [78387-bubble-shooter-tournaments.json](./78387-bubble-shooter-tournaments.json) |
 | Bubble Soccer | 117505 | [117505-bubble-soccer.json](./117505-bubble-soccer.json) |
