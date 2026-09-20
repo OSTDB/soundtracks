@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Fly | 22346 | [22346-epic-fly.json](./22346-epic-fly.json) |
 | Epic Food Fight | 114402 | [114402-epic-food-fight.json](./114402-epic-food-fight.json) |
 | Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
+| Epic Game Theory | 110138 | [110138-epic-game-theory.json](./110138-epic-game-theory.json) |
 | Epic Knight 2 | 253420 | [253420-epic-knight-2.json](./253420-epic-knight-2.json) |
 | Epic Landscapes Jigsaw | 354404 | [354404-epic-landscapes-jigsaw.json](./354404-epic-landscapes-jigsaw.json) |
 | Epic Loon | 55216 | [55216-epic-loon.json](./55216-epic-loon.json) |
@@ -2293,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exipath | 400900 | [400900-exipath.json](./400900-exipath.json) |
 | Exist | 212488 | [212488-exist.json](./212488-exist.json) |
 | Existence | 113056 | [113056-existence.json](./113056-existence.json) |
+| Existence = !Existence; | 110168 | [110168-existence-existence.json](./110168-existence-existence.json) |
 | Existensis | 149445 | [149445-existensis.json](./149445-existensis.json) |
 | Existentia | 31805 | [31805-existentia.json](./31805-existentia.json) |
 | Existential | 193503 | [193503-existential.json](./193503-existential.json) |
