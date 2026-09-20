@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flats Full of Cats: Gold & Candles | 379386 | [379386-flats-full-of-cats-gold-and-candles.json](./379386-flats-full-of-cats-gold-and-candles.json) |
 | Flats Full of Cats: Stars & Oysters | 379387 | [379387-flats-full-of-cats-stars-and-oysters.json](./379387-flats-full-of-cats-stars-and-oysters.json) |
 | Flatshot | 76588 | [76588-flatshot.json](./76588-flatshot.json) |
+| Flatspace II | 72979 | [72979-flatspace-ii.json](./72979-flatspace-ii.json) |
 | FlatWarriors | 144915 | [144915-flatwarriors.json](./144915-flatwarriors.json) |
 | Flavor Favor | 248905 | [248905-flavor-favor.json](./248905-flavor-favor.json) |
 | Flawless | 219790 | [219790-flawless.json](./219790-flawless.json) |
