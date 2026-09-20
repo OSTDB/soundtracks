@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddhop | 174368 | [174368-oddhop.json](./174368-oddhop.json) |
 | Oddinary Farm | 392291 | [392291-oddinary-farm.json](./392291-oddinary-farm.json) |
 | Oddity Girls: Virtual World | 156530 | [156530-oddity-girls-virtual-world.json](./156530-oddity-girls-virtual-world.json) |
+| Oddlly | 114789 | [114789-oddlly.json](./114789-oddlly.json) |
 | Odds at Oddity | 389986 | [389986-odds-at-oddity.json](./389986-odds-at-oddity.json) |
 | Oddsmaker | 255718 | [255718-oddsmaker.json](./255718-oddsmaker.json) |
 | Oddsparks: An Automation Adventure - Animal Costumes Pack | 366853 | [366853-oddsparks-an-automation-adventure-animal-costumes-pack.json](./366853-oddsparks-an-automation-adventure-animal-costumes-pack.json) |
@@ -451,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Man's Guilt | 96081 | [96081-old-mans-guilt.json](./96081-old-mans-guilt.json) |
 | Old Market Simulator | 291232 | [291232-old-market-simulator.json](./291232-old-market-simulator.json) |
 | Old Mate Dave | 406105 | [406105-old-mate-dave.json](./406105-old-mate-dave.json) |
+| Old Monastery Escape | 114753 | [114753-old-monastery-escape.json](./114753-old-monastery-escape.json) |
 | Old Retro Shooter | 209668 | [209668-old-retro-shooter.json](./209668-old-retro-shooter.json) |
 | Old Salt | 165056 | [165056-old-salt.json](./165056-old-salt.json) |
 | Old School Racer | 91887 | [91887-old-school-racer.json](./91887-old-school-racer.json) |
@@ -756,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Hell of a Turnabout | 310419 | [310419-one-hell-of-a-turnabout.json](./310419-one-hell-of-a-turnabout.json) |
 | One Hit Cowboy | 233097 | [233097-one-hit-cowboy.json](./233097-one-hit-cowboy.json) |
 | One Hour And A Straight Line | 278986 | [278986-one-hour-and-a-straight-line.json](./278986-one-hour-and-a-straight-line.json) |
+| One Hundred Times Me | 114818 | [114818-one-hundred-times-me.json](./114818-one-hundred-times-me.json) |
 | One Iced Latte With Your Breast Milk, Please! | 296688 | [296688-one-iced-latte-with-your-breast-milk-please.json](./296688-one-iced-latte-with-your-breast-milk-please.json) |
 | One in a Trillion | 146873 | [146873-one-in-a-trillion.json](./146873-one-in-a-trillion.json) |
 | One Last Chance | 33057 | [33057-one-last-chance.json](./33057-one-last-chance.json) |
