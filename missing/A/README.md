@@ -677,6 +677,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure D: Espionage Island | 45370 | [45370-adventure-d-espionage-island.json](./45370-adventure-d-espionage-island.json) |
 | Adventure Elf | 72132 | [72132-adventure-elf.json](./72132-adventure-elf.json) |
 | Adventure Escape Mysteries | 124620 | [124620-adventure-escape-mysteries.json](./124620-adventure-escape-mysteries.json) |
+| Adventure Escape: Allied Spies | 123435 | [123435-adventure-escape-allied-spies.json](./123435-adventure-escape-allied-spies.json) |
+| Adventure Escape: Asylum | 123440 | [123440-adventure-escape-asylum.json](./123440-adventure-escape-asylum.json) |
+| Adventure Escape: Cult Mystery | 123437 | [123437-adventure-escape-cult-mystery.json](./123437-adventure-escape-cult-mystery.json) |
+| Adventure Escape: Framed for Murder | 123441 | [123441-adventure-escape-framed-for-murder.json](./123441-adventure-escape-framed-for-murder.json) |
+| Adventure Escape: Hidden Ruins | 123444 | [123444-adventure-escape-hidden-ruins.json](./123444-adventure-escape-hidden-ruins.json) |
+| Adventure Escape: Midnight Carnival | 123442 | [123442-adventure-escape-midnight-carnival.json](./123442-adventure-escape-midnight-carnival.json) |
+| Adventure Escape: Murder Inn | 123434 | [123434-adventure-escape-murder-inn.json](./123434-adventure-escape-murder-inn.json) |
+| Adventure Escape: Murder Manor | 123433 | [123433-adventure-escape-murder-manor.json](./123433-adventure-escape-murder-manor.json) |
+| Adventure Escape: Space Crisis | 123438 | [123438-adventure-escape-space-crisis.json](./123438-adventure-escape-space-crisis.json) |
+| Adventure Escape: Starstruck | 123430 | [123430-adventure-escape-starstruck.json](./123430-adventure-escape-starstruck.json) |
+| Adventure Escape: The Castle | 123428 | [123428-adventure-escape-the-castle.json](./123428-adventure-escape-the-castle.json) |
+| Adventure Escape: Time Library | 123436 | [123436-adventure-escape-time-library.json](./123436-adventure-escape-time-library.json) |
+| Adventure Escape: Xmas Killer | 123429 | [123429-adventure-escape-xmas-killer.json](./123429-adventure-escape-xmas-killer.json) |
 | Adventure Field | 274001 | [274001-adventure-field.json](./274001-adventure-field.json) |
 | Adventure Field 2 | 274002 | [274002-adventure-field-2.json](./274002-adventure-field-2.json) |
 | Adventure Field 3: Definitive Edition | 274003 | [274003-adventure-field-3-definitive-edition.json](./274003-adventure-field-3-definitive-edition.json) |
