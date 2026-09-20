@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I am Monster | 26569 | [26569-a-i-am-monster.json](./26569-a-i-am-monster.json) |
 | A.I. Invasion: Road of Rodan | 164435 | [164435-a-i-invasion-road-of-rodan.json](./164435-a-i-invasion-road-of-rodan.json) |
 | A.I. Space Corps | 34206 | [34206-a-i-space-corps.json](./34206-a-i-space-corps.json) |
+| A.L.A.N.: Rift Breakers | 120158 | [120158-a-l-a-n-rift-breakers.json](./120158-a-l-a-n-rift-breakers.json) |
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
 | A.S.S.: Awesome Street Skaters | 245907 | [245907-a-s-s-awesome-street-skaters.json](./245907-a-s-s-awesome-street-skaters.json) |
@@ -624,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adapta Solva | 283893 | [283893-adapta-solva.json](./283893-adapta-solva.json) |
 | Adarin Farm | 187408 | [187408-adarin-farm.json](./187408-adarin-farm.json) |
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
+| Adarna: Alamat ni Maria Blanca | 120168 | [120168-adarna-alamat-ni-maria-blanca.json](./120168-adarna-alamat-ni-maria-blanca.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
 | Addition | 76606 | [76606-addition.json](./76606-addition.json) |
 | Address1 | 265648 | [265648-address1.json](./265648-address1.json) |
@@ -2584,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankh 2: Tutankhamun no Nazo | 234163 | [234163-ankh-2-tutankhamun-no-nazo.json](./234163-ankh-2-tutankhamun-no-nazo.json) |
 | Ankh 3: Battle of the Gods | 25466 | [25466-ankh-3-battle-of-the-gods.json](./25466-ankh-3-battle-of-the-gods.json) |
 | Ankh 3: Ramusesu Dai-ou no Nazo | 234165 | [234165-ankh-3-ramusesu-dai-ou-no-nazo.json](./234165-ankh-3-ramusesu-dai-ou-no-nazo.json) |
+| Ankh Guardian: Treasure of the Demon's Temple | 120180 | [120180-ankh-guardian-treasure-of-the-demons-temple.json](./120180-ankh-guardian-treasure-of-the-demons-temple.json) |
 | Ankh: Anniversary Edition | 35651 | [35651-ankh-anniversary-edition.json](./35651-ankh-anniversary-edition.json) |
 | Ankh: Curse of the Scarab King | 21271 | [21271-ankh-curse-of-the-scarab-king.json](./21271-ankh-curse-of-the-scarab-king.json) |
 | Ankhet | 213958 | [213958-ankhet.json](./213958-ankhet.json) |
@@ -4553,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Mutant Camels '89 | 318633 | [318633-attack-of-the-mutant-camels-89.json](./318633-attack-of-the-mutant-camels-89.json) |
 | Attack of the Mutant Penguins | 40819 | [40819-attack-of-the-mutant-penguins.json](./40819-attack-of-the-mutant-penguins.json) |
 | Attack of the Petscii Robots | 159163 | [159163-attack-of-the-petscii-robots.json](./159163-attack-of-the-petscii-robots.json) |
+| Attack of the Toy Tanks | 120178 | [120178-attack-of-the-toy-tanks.json](./120178-attack-of-the-toy-tanks.json) |
 | Attack of the Trafalas | 213435 | [213435-attack-of-the-trafalas.json](./213435-attack-of-the-trafalas.json) |
 | Attack of the Trolls! | 234713 | [234713-attack-of-the-trolls.json](./234713-attack-of-the-trolls.json) |
 | Attack of the Zolgear | 58775 | [58775-attack-of-the-zolgear.json](./58775-attack-of-the-zolgear.json) |
@@ -4898,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AX-10: Outlaw | 91459 | [91459-ax-10-outlaw.json](./91459-ax-10-outlaw.json) |
 | AX-7: Police & Gangster | 91461 | [91461-ax-7-police-and-gangster.json](./91461-ax-7-police-and-gangster.json) |
 | AX-8: Galaxy Mission | 91460 | [91460-ax-8-galaxy-mission.json](./91460-ax-8-galaxy-mission.json) |
+| Axan Ships | 120152 | [120152-axan-ships.json](./120152-axan-ships.json) |
 | Axan Ships: Low Poly | 118348 | [118348-axan-ships-low-poly.json](./118348-axan-ships-low-poly.json) |
 | Axe Girl | 149556 | [149556-axe-girl.json](./149556-axe-girl.json) |
 | Axe of Janissary | 233619 | [233619-axe-of-janissary.json](./233619-axe-of-janissary.json) |
