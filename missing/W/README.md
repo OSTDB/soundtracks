@@ -1311,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Which hand? | 379866 | [379866-which-hand.json](./379866-which-hand.json) |
 | Which Naruto Character Are You? | 230540 | [230540-which-naruto-character-are-you.json](./230540-which-naruto-character-are-you.json) |
 | Which Way Out | 104088 | [104088-which-way-out.json](./104088-which-way-out.json) |
+| Whiffle Blasters | 116850 | [116850-whiffle-blasters.json](./116850-whiffle-blasters.json) |
 | While Mom is Away | 312552 | [312552-while-mom-is-away.json](./312552-while-mom-is-away.json) |
 | While Sleeping | 312553 | [312553-while-sleeping.json](./312553-while-sleeping.json) |
 | While the Whole World Laughs | 241486 | [241486-while-the-whole-world-laughs.json](./241486-while-the-whole-world-laughs.json) |
@@ -1566,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Shape | 180311 | [180311-wild-shape.json](./180311-wild-shape.json) |
 | Wild Souls | 152740 | [152740-wild-souls.json](./152740-wild-souls.json) |
 | Wild Streets | 12827 | [12827-wild-streets.json](./12827-wild-streets.json) |
+| Wild Superman | 116819 | [116819-wild-superman.json](./116819-wild-superman.json) |
 | Wild Tactics | 304746 | [304746-wild-tactics.json](./304746-wild-tactics.json) |
 | Wild Terra 2: New Lands | 126619 | [126619-wild-terra-2-new-lands.json](./126619-wild-terra-2-new-lands.json) |
 | Wild Terra 2: New Lands - Cultist Pack | 378307 | [378307-wild-terra-2-new-lands-cultist-pack.json](./378307-wild-terra-2-new-lands-cultist-pack.json) |
@@ -1892,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Isis | 82835 | [82835-witch-isis.json](./82835-witch-isis.json) |
 | Witch n' Wiz | 179670 | [179670-witch-n-wiz.json](./179670-witch-n-wiz.json) |
 | Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
+| Witch Ring Meister | 116867 | [116867-witch-ring-meister.json](./116867-witch-ring-meister.json) |
 | Witch Sacrifice | 192887 | [192887-witch-sacrifice.json](./192887-witch-sacrifice.json) |
 | Witch Sequencer | 185698 | [185698-witch-sequencer.json](./185698-witch-sequencer.json) |
 | Witch Soup | 176490 | [176490-witch-soup.json](./176490-witch-soup.json) |
@@ -2314,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordBrain | 58214 | [58214-wordbrain.json](./58214-wordbrain.json) |
 | Wordbreaker by Powgi | 196176 | [196176-wordbreaker-by-powgi.json](./196176-wordbreaker-by-powgi.json) |
 | WordCrasher | 87702 | [87702-wordcrasher.json](./87702-wordcrasher.json) |
+| Worder | 116852 | [116852-worder.json](./116852-worder.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
 | WordHerd | 147269 | [147269-wordherd.json](./147269-wordherd.json) |
 | WordHive | 411569 | [411569-wordhive.json](./411569-wordhive.json) |
