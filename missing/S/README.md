@@ -4024,6 +4024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylark 64 | 306066 | [306066-skylark-64.json](./306066-skylark-64.json) |
 | Skylax! The Lab Runner | 369664 | [369664-skylax-the-lab-runner.json](./369664-skylax-the-lab-runner.json) |
 | SkyLife: VoxelSurvival | 149050 | [149050-skylife-voxelsurvival.json](./149050-skylife-voxelsurvival.json) |
+| Skylight | 83929 | [83929-skylight.json](./83929-skylight.json) |
 | Skyline Blade | 248058 | [248058-skyline-blade.json](./248058-skyline-blade.json) |
 | Skyline Sprinters | 263058 | [263058-skyline-sprinters.json](./263058-skyline-sprinters.json) |
 | Skylost | 201710 | [201710-skylost.json](./201710-skylost.json) |
@@ -8736,6 +8737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
 | Stormball | 77379 | [77379-stormball.json](./77379-stormball.json) |
 | Stormbinders | 336520 | [336520-stormbinders.json](./336520-stormbinders.json) |
+| StormBorn: War of Legends | 83917 | [83917-stormborn-war-of-legends.json](./83917-stormborn-war-of-legends.json) |
 | Stormbound: Kingdom Wars | 70909 | [70909-stormbound-kingdom-wars.json](./70909-stormbound-kingdom-wars.json) |
 | Stormbroken | 363920 | [363920-stormbroken.json](./363920-stormbroken.json) |
 | Stormfall: Saga of Survival | 105787 | [105787-stormfall-saga-of-survival.json](./105787-stormfall-saga-of-survival.json) |
