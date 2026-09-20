@@ -3928,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fronte del Basket 2007/2008 | 98952 | [98952-fronte-del-basket-2007-2008.json](./98952-fronte-del-basket-2007-2008.json) |
 | Frontera | 253568 | [253568-frontera.json](./253568-frontera.json) |
 | Frontier | 162905 | [162905-frontier.json](./162905-frontier.json) |
+| Frontier Days: Founding Pioneers | 85165 | [85165-frontier-days-founding-pioneers.json](./85165-frontier-days-founding-pioneers.json) |
 | Frontier Force | 345611 | [345611-frontier-force.json](./345611-frontier-force.json) |
 | Frontier Force Vanguard | 337478 | [337478-frontier-force-vanguard.json](./337478-frontier-force-vanguard.json) |
 | Frontier Forge | 413769 | [413769-frontier-forge.json](./413769-frontier-forge.json) |
@@ -4185,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funeral for the Sun | 385063 | [385063-funeral-for-the-sun.json](./385063-funeral-for-the-sun.json) |
 | Funeral Toll | 272837 | [272837-funeral-toll.json](./272837-funeral-toll.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
+| Funfair Party Games | 85163 | [85163-funfair-party-games.json](./85163-funfair-party-games.json) |
 | Funfair Ride Simulator 3: Ride Pack 2 | 162273 | [162273-funfair-ride-simulator-3-ride-pack-2.json](./162273-funfair-ride-simulator-3-ride-pack-2.json) |
 | Funfair Ride Simulator 3: Ride Pack 3 | 162272 | [162272-funfair-ride-simulator-3-ride-pack-3.json](./162272-funfair-ride-simulator-3-ride-pack-3.json) |
 | Funfair Ride Simulator 3: Ride Pack 4 | 162271 | [162271-funfair-ride-simulator-3-ride-pack-4.json](./162271-funfair-ride-simulator-3-ride-pack-4.json) |
@@ -4215,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Bay - Farm & Adventure | 106356 | [106356-funky-bay-farm-and-adventure.json](./106356-funky-bay-farm-and-adventure.json) |
 | Funky Fish | 39685 | [39685-funky-fish.json](./39685-funky-fish.json) |
 | Funky Maker | 336599 | [336599-funky-maker.json](./336599-funky-maker.json) |
+| Funky Physics | 85162 | [85162-funky-physics.json](./85162-funky-physics.json) |
 | Funnels and Buckets | 46644 | [46644-funnels-and-buckets.json](./46644-funnels-and-buckets.json) |
 | Funny Bird | 247538 | [247538-funny-bird.json](./247538-funny-bird.json) |
 | Funny Card | 193495 | [193495-funny-card.json](./193495-funny-card.json) |
@@ -4433,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fúyǔ Lù | 82042 | [82042-fuyu-lu.json](./82042-fuyu-lu.json) |
 | Fuyu no Rondo | 69310 | [69310-fuyu-no-rondo.json](./69310-fuyu-no-rondo.json) |
 | Fuyu no Sonata DS | 124014 | [124014-fuyu-no-sonata-ds.json](./124014-fuyu-no-sonata-ds.json) |
+| Fuze4 Nintendo Switch | 85161 | [85161-fuze4-nintendo-switch.json](./85161-fuze4-nintendo-switch.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
 | Fwog | 270189 | [270189-fwog.json](./270189-fwog.json) |
