@@ -9911,6 +9911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple | 152146 | [152146-triple.json](./152146-triple.json) |
 | Triple | 277861 | [277861-triple.json](./277861-triple.json) |
 | Triple Action | 5709 | [5709-triple-action.json](./5709-triple-action.json) |
+| Triple Action Volume 5 | 93382 | [93382-triple-action-volume-5.json](./93382-triple-action-volume-5.json) |
 | Triple Agent! | 75144 | [75144-triple-agent.json](./75144-triple-agent.json) |
 | Triple Bubble | 307579 | [307579-triple-bubble.json](./307579-triple-bubble.json) |
 | Triple Header Sports | 220127 | [220127-triple-header-sports.json](./220127-triple-header-sports.json) |
@@ -10629,6 +10630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Tales | 373004 | [373004-typing-tales.json](./373004-typing-tales.json) |
 | Typingcommand | 317412 | [317412-typingcommand.json](./317412-typingcommand.json) |
 | Typo | 145677 | [145677-typo.json](./145677-typo.json) |
+| TypoGun | 93364 | [93364-typogun.json](./93364-typogun.json) |
 | Tyr | 371867 | [371867-tyr.json](./371867-tyr.json) |
 | Tyr: Chains of Valhalla | 96750 | [96750-tyr-chains-of-valhalla.json](./96750-tyr-chains-of-valhalla.json) |
 | Tyrannical Chickens | 278726 | [278726-tyrannical-chickens.json](./278726-tyrannical-chickens.json) |
