@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallfate: Impulsive Plinko | 385189 | [385189-fallfate-impulsive-plinko.json](./385189-fallfate-impulsive-plinko.json) |
 | Falling Apart | 402261 | [402261-falling-apart.json](./402261-falling-apart.json) |
 | Falling As Lightning | 167168 | [167168-falling-as-lightning.json](./167168-falling-as-lightning.json) |
+| Falling Ball 2018 | 103160 | [103160-falling-ball-2018.json](./103160-falling-ball-2018.json) |
 | Falling Ball Blue | 107128 | [107128-falling-ball-blue.json](./107128-falling-ball-blue.json) |
 | Falling Ball Ocean | 107167 | [107167-falling-ball-ocean.json](./107167-falling-ball-ocean.json) |
 | Falling Blocks | 105389 | [105389-falling-blocks.json](./105389-falling-blocks.json) |
@@ -870,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farplane Relic | 110768 | [110768-farplane-relic.json](./110768-farplane-relic.json) |
 | Farragnarok | 114773 | [114773-farragnarok.json](./114773-farragnarok.json) |
 | Farrealm: The Prince of Winds | 120427 | [120427-farrealm-the-prince-of-winds.json](./120427-farrealm-the-prince-of-winds.json) |
+| Farside | 103179 | [103179-farside.json](./103179-farside.json) |
 | Fart Game | 321575 | [321575-fart-game.json](./321575-fart-game.json) |
 | Fart Hotel | 243967 | [243967-fart-hotel.json](./243967-fart-hotel.json) |
 | Fart King | 338558 | [338558-fart-king.json](./338558-fart-king.json) |
@@ -1611,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | final m00n - Defender of the Cubes | 113752 | [113752-final-m00n-defender-of-the-cubes.json](./113752-final-m00n-defender-of-the-cubes.json) |
 | Final Mission | 215141 | [215141-final-mission.json](./215141-final-mission.json) |
 | Final Mission VR | 124191 | [124191-final-mission-vr.json](./124191-final-mission-vr.json) |
+| Final Missions | 103187 | [103187-final-missions.json](./103187-final-missions.json) |
 | Final Nation | 251823 | [251823-final-nation.json](./251823-final-nation.json) |
 | Final Notice | 351112 | [351112-final-notice.json](./351112-final-notice.json) |
 | Final Odyssey | 378173 | [378173-final-odyssey.json](./378173-final-odyssey.json) |
@@ -3774,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Legs | 337730 | [337730-frog-legs.json](./337730-frog-legs.json) |
 | Frog Minutes | 66061 | [66061-frog-minutes.json](./66061-frog-minutes.json) |
 | Frog Odyssey | 369622 | [369622-frog-odyssey.json](./369622-frog-odyssey.json) |
+| Frog on a Log? | 103159 | [103159-frog-on-a-log.json](./103159-frog-on-a-log.json) |
 | Frog on Ice | 100884 | [100884-frog-on-ice.json](./100884-frog-on-ice.json) |
 | Frog Quest | 240235 | [240235-frog-quest.json](./240235-frog-quest.json) |
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
