@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevertales: The Abomination | 187941 | [187941-nevertales-the-abomination.json](./187941-nevertales-the-abomination.json) |
 | Neverwards | 342159 | [342159-neverwards.json](./342159-neverwards.json) |
 | Neverwinter Nights | 216 | [216-neverwinter-nights.json](./216-neverwinter-nights.json) |
+| Neverwinter Nights | 96492 | [96492-neverwinter-nights.json](./96492-neverwinter-nights.json) |
 | Neverwinter Nights 2: Complete | 50322 | [50322-neverwinter-nights-2-complete.json](./50322-neverwinter-nights-2-complete.json) |
 | Neverwinter Nights 2: Platinum | 28972 | [28972-neverwinter-nights-2-platinum.json](./28972-neverwinter-nights-2-platinum.json) |
 | Neverwinter Nights: Dark Dreams of Furiae | 155077 | [155077-neverwinter-nights-dark-dreams-of-furiae.json](./155077-neverwinter-nights-dark-dreams-of-furiae.json) |
