@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Aladdin | 70969 | [70969-legend-of-aladdin.json](./70969-legend-of-aladdin.json) |
 | Legend Of Apophyxis | 287755 | [287755-legend-of-apophyxis.json](./287755-legend-of-apophyxis.json) |
 | Legend of Assassin: Siberia | 107830 | [107830-legend-of-assassin-siberia.json](./107830-legend-of-assassin-siberia.json) |
+| Legend of Coin | 80874 | [80874-legend-of-coin.json](./80874-legend-of-coin.json) |
 | Legend of Cozar | 334475 | [334475-legend-of-cozar.json](./334475-legend-of-cozar.json) |
 | Legend of Djel | 12176 | [12176-legend-of-djel.json](./12176-legend-of-djel.json) |
 | Legend of Dungeon | 7885 | [7885-legend-of-dungeon.json](./7885-legend-of-dungeon.json) |
@@ -2658,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Snowmen | 187983 | [187983-lost-snowmen.json](./187983-lost-snowmen.json) |
 | Lost Soul | 184128 | [184128-lost-soul.json](./184128-lost-soul.json) |
 | Lost Soul: Escape the Doom Museum | 344347 | [344347-lost-soul-escape-the-doom-museum.json](./344347-lost-soul-escape-the-doom-museum.json) |
+| Lost Summoner Kitty | 80900 | [80900-lost-summoner-kitty.json](./80900-lost-summoner-kitty.json) |
 | Lost Sunday Comics | 192797 | [192797-lost-sunday-comics.json](./192797-lost-sunday-comics.json) |
 | Lost Sword | 353867 | [353867-lost-sword.json](./353867-lost-sword.json) |
 | Lost Tenet | 260213 | [260213-lost-tenet.json](./260213-lost-tenet.json) |
