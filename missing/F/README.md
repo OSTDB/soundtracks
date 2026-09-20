@@ -2602,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Florani Match | 392295 | [392295-florani-match.json](./392295-florani-match.json) |
 | Florarium | 258454 | [258454-florarium.json](./258454-florarium.json) |
 | Flore | 204527 | [204527-flore.json](./204527-flore.json) |
+| Floresia I: Intemporel | 80897 | [80897-floresia-i-intemporel.json](./80897-floresia-i-intemporel.json) |
 | Floret Bond | 178035 | [178035-floret-bond.json](./178035-floret-bond.json) |
 | Florida Man: Hurricane Hijinks | 153377 | [153377-florida-man-hurricane-hijinks.json](./153377-florida-man-hurricane-hijinks.json) |
 | Florifer | 240307 | [240307-florifer.json](./240307-florifer.json) |
@@ -4445,5 +4446,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FX Chess | 94266 | [94266-fx-chess.json](./94266-fx-chess.json) |
 | FX Chess Plus | 92864 | [92864-fx-chess-plus.json](./92864-fx-chess-plus.json) |
 | FX Eleven | 62221 | [62221-fx-eleven.json](./62221-fx-eleven.json) |
+| Fyd | 80898 | [80898-fyd.json](./80898-fyd.json) |
 | Fyrardien | 384525 | [384525-fyrardien.json](./384525-fyrardien.json) |
 | FZDDR | 406700 | [406700-fzddr.json](./406700-fzddr.json) |
