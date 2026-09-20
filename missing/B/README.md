@@ -2260,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Screen Games: Pack 1 | 197383 | [197383-big-screen-games-pack-1.json](./197383-big-screen-games-pack-1.json) |
 | Big Sea | 14301 | [14301-big-sea.json](./14301-big-sea.json) |
 | Big Sea: The Better One Will Win | 69215 | [69215-big-sea-the-better-one-will-win.json](./69215-big-sea-the-better-one-will-win.json) |
+| Big Shot Swish | 120804 | [120804-big-shot-swish.json](./120804-big-shot-swish.json) |
 | Big Sister's Ass | 97834 | [97834-big-sisters-ass.json](./97834-big-sisters-ass.json) |
 | Big Sky Country: Book 1 | 313717 | [313717-big-sky-country-book-1.json](./313717-big-sky-country-book-1.json) |
 | Big Sky Country: Book 2 | 313718 | [313718-big-sky-country-book-2.json](./313718-big-sky-country-book-2.json) |
@@ -3697,6 +3698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolt: Be-Awesome Edition | 269667 | [269667-bolt-be-awesome-edition.json](./269667-bolt-be-awesome-edition.json) |
 | BoltBreak 2 | 276281 | [276281-boltbreak-2.json](./276281-boltbreak-2.json) |
 | Boltcraft | 203914 | [203914-boltcraft.json](./203914-boltcraft.json) |
+| BoltHalt | 120785 | [120785-bolthalt.json](./120785-bolthalt.json) |
 | Bolty | 184579 | [184579-bolty.json](./184579-bolty.json) |
 | Bomb Around | 332397 | [332397-bomb-around.json](./332397-bomb-around.json) |
 | Bomb Bomb Bomb | 248900 | [248900-bomb-bomb-bomb.json](./248900-bomb-bomb-bomb.json) |
