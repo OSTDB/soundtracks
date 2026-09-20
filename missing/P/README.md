@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Imperia | 95439 | [95439-pax-imperia.json](./95439-pax-imperia.json) |
 | Pax Nova | 111043 | [111043-pax-nova.json](./111043-pax-nova.json) |
 | Pax Romana | 115512 | [115512-pax-romana.json](./115512-pax-romana.json) |
+| Pax Romana: Romulus | 70076 | [70076-pax-romana-romulus.json](./70076-pax-romana-romulus.json) |
 | Pax Solis | 298291 | [298291-pax-solis.json](./298291-pax-solis.json) |
 | Pay 4 It | 229821 | [229821-pay-4-it.json](./229821-pay-4-it.json) |
 | Pay for Picture: Vol.01 | 335335 | [335335-pay-for-picture-vol-01.json](./335335-pay-for-picture-vol-01.json) |
@@ -1163,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Fútbol 2000 | 78034 | [78034-pc-futbol-2000.json](./78034-pc-futbol-2000.json) |
 | PC Fútbol 2001 | 94569 | [94569-pc-futbol-2001.json](./94569-pc-futbol-2001.json) |
 | PC Fútbol 2006 | 94567 | [94567-pc-futbol-2006.json](./94567-pc-futbol-2006.json) |
+| PC Fútbol 6.0 | 70107 | [70107-pc-futbol-6-0.json](./70107-pc-futbol-6-0.json) |
 | PC Fútbol 7 | 98942 | [98942-pc-futbol-7.json](./98942-pc-futbol-7.json) |
 | PC Futbol 8 | 298143 | [298143-pc-futbol-8.json](./298143-pc-futbol-8.json) |
 | PC Fútbol Edición Oro | 86018 | [86018-pc-futbol-edicion-oro.json](./86018-pc-futbol-edicion-oro.json) |
@@ -1617,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pettson & Findus: Höndans och kattcirkus | 286109 | [286109-pettson-and-findus-hondans-och-kattcirkus.json](./286109-pettson-and-findus-hondans-och-kattcirkus.json) |
 | Pettson & Findus: Spökskrämmarmaskinen | 286108 | [286108-pettson-and-findus-spokskrammarmaskinen.json](./286108-pettson-and-findus-spokskrammarmaskinen.json) |
 | Pettson o Findus i Snickarbon | 265643 | [265643-pettson-o-findus-i-snickarbon.json](./265643-pettson-o-findus-i-snickarbon.json) |
+| Pettson o Findus i Trädgården | 70121 | [70121-pettson-o-findus-i-tradgarden.json](./70121-pettson-o-findus-i-tradgarden.json) |
 | Pettson o Findus: Julkalender | 286112 | [286112-pettson-o-findus-julkalender.json](./286112-pettson-o-findus-julkalender.json) |
 | Pettsons julspel | 286111 | [286111-pettsons-julspel.json](./286111-pettsons-julspel.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
