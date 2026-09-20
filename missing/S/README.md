@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Blade | 20932 | [20932-shadow-blade.json](./20932-shadow-blade.json) |
 | Shadow Blade Zero | 174864 | [174864-shadow-blade-zero.json](./174864-shadow-blade-zero.json) |
 | Shadow Block | 28813 | [28813-shadow-block.json](./28813-shadow-block.json) |
+| Shadow Blood VR | 105076 | [105076-shadow-blood-vr.json](./105076-shadow-blood-vr.json) |
 | Shadow Boxing | 364578 | [364578-shadow-boxing.json](./364578-shadow-boxing.json) |
 | Shadow Boxing 2 | 364579 | [364579-shadow-boxing-2.json](./364579-shadow-boxing-2.json) |
 | Shadow BoXR | 241368 | [241368-shadow-boxr.json](./241368-shadow-boxr.json) |
@@ -4392,6 +4393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Islands | 176339 | [176339-small-islands.json](./176339-small-islands.json) |
 | Small Kingdoms | 262959 | [262959-small-kingdoms.json](./262959-small-kingdoms.json) |
 | Small Nights | 253397 | [253397-small-nights.json](./253397-small-nights.json) |
+| Small Pixel | 105094 | [105094-small-pixel.json](./105094-small-pixel.json) |
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
 | Small Soldiers | 71671 | [71671-small-soldiers.json](./71671-small-soldiers.json) |
 | Small Soldiers: Hand to Hand Combat Game | 245408 | [245408-small-soldiers-hand-to-hand-combat-game.json](./245408-small-soldiers-hand-to-hand-combat-game.json) |
@@ -6562,6 +6564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed & Precision Collection | 328484 | [328484-speed-and-precision-collection.json](./328484-speed-and-precision-collection.json) |
 | Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
 | Speed Blazers | 38989 | [38989-speed-blazers.json](./38989-speed-blazers.json) |
+| Speed Box | 105132 | [105132-speed-box.json](./105132-speed-box.json) |
 | Speed Builder | 117672 | [117672-speed-builder.json](./117672-speed-builder.json) |
 | Speed Car Fighter | 99036 | [99036-speed-car-fighter.json](./99036-speed-car-fighter.json) |
 | Speed Car Fighter 3D 2015 | 100115 | [100115-speed-car-fighter-3d-2015.json](./100115-speed-car-fighter-3d-2015.json) |
@@ -10238,6 +10241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nisqually | 73273 | [73273-super-nisqually.json](./73273-super-nisqually.json) |
 | Super Nitrous Zoomer | 114982 | [114982-super-nitrous-zoomer.json](./114982-super-nitrous-zoomer.json) |
 | Super Noah's Ark 3D | 11168 | [11168-super-noahs-ark-3d.json](./11168-super-noahs-ark-3d.json) |
+| Super Nosebleed Land | 105075 | [105075-super-nosebleed-land.json](./105075-super-nosebleed-land.json) |
 | Super Nova | 414296 | [414296-super-nova.json](./414296-super-nova.json) |
 | Super Nova Party | 219576 | [219576-super-nova-party.json](./219576-super-nova-party.json) |
 | Super Nova Stadium | 165687 | [165687-super-nova-stadium.json](./165687-super-nova-stadium.json) |
