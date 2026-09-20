@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kate Plus Ten | 112324 | [112324-kate-plus-ten.json](./112324-kate-plus-ten.json) |
 | Katei de Dekiru! Chomeijin Yuumei Ryourinin no Original Recipe - Shokusai Roman | 269824 | [269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json](./269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json) |
 | Katei no Igaku: DS de Kitaeru Shokuzai Kenkou Training | 269586 | [269586-katei-no-igaku-ds-de-kitaeru-shokuzai-kenkou-training.json](./269586-katei-no-igaku-ds-de-kitaeru-shokuzai-kenkou-training.json) |
+| Katekyou Hitman Reborn! Dream Hyper Battle Wii | 78339 | [78339-katekyou-hitman-reborn-dream-hyper-battle-wii.json](./78339-katekyou-hitman-reborn-dream-hyper-battle-wii.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble - Kaien Ring Soudatsuen! | 64380 | [64380-katekyou-hitman-reborn-ds-flame-rumble-kaien-ring-soudatsuen.json](./64380-katekyou-hitman-reborn-ds-flame-rumble-kaien-ring-soudatsuen.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble - Mukuro Kyoshu | 64385 | [64385-katekyou-hitman-reborn-ds-flame-rumble-mukuro-kyoshu.json](./64385-katekyou-hitman-reborn-ds-flame-rumble-mukuro-kyoshu.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble Hyper - Moeyo Mirai | 78713 | [78713-katekyou-hitman-reborn-ds-flame-rumble-hyper-moeyo-mirai.json](./78713-katekyou-hitman-reborn-ds-flame-rumble-hyper-moeyo-mirai.json) |
@@ -1072,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingmaker | 292554 | [292554-kingmaker.json](./292554-kingmaker.json) |
 | Kingmakers | 287671 | [287671-kingmakers.json](./287671-kingmakers.json) |
 | Kingpin: Arcade Sports Bowling | 37110 | [37110-kingpin-arcade-sports-bowling.json](./37110-kingpin-arcade-sports-bowling.json) |
+| Kings | 78364 | [78364-kings.json](./78364-kings.json) |
 | Kings Age | 62717 | [62717-kings-age.json](./62717-kings-age.json) |
 | Kings and Pigs | 152937 | [152937-kings-and-pigs.json](./152937-kings-and-pigs.json) |
 | Kings Hero 2 | 175359 | [175359-kings-hero-2.json](./175359-kings-hero-2.json) |
@@ -1819,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Chess | 180198 | [180198-kung-fu-chess.json](./180198-kung-fu-chess.json) |
 | Kung Fu Clicker | 106983 | [106983-kung-fu-clicker.json](./106983-kung-fu-clicker.json) |
 | Kung Fu Do Fighting | 58798 | [58798-kung-fu-do-fighting.json](./58798-kung-fu-do-fighting.json) |
+| Kung Fu Dragon | 78338 | [78338-kung-fu-dragon.json](./78338-kung-fu-dragon.json) |
 | Kung Fu Duel | 336930 | [336930-kung-fu-duel.json](./336930-kung-fu-duel.json) |
 | Kung Fu Fearsome Fists | 333947 | [333947-kung-fu-fearsome-fists.json](./333947-kung-fu-fearsome-fists.json) |
 | Kung Fu Fight! | 58239 | [58239-kung-fu-fight.json](./58239-kung-fu-fight.json) |
