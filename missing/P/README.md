@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora: Kimi no Namae wo, Boku ha Shiru | 221825 | [221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json](./221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json) |
 | Pandora's Doom: Apocalypse Hotline | 333602 | [333602-pandoras-doom-apocalypse-hotline.json](./333602-pandoras-doom-apocalypse-hotline.json) |
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
+| Pandrax | 118194 | [118194-pandrax.json](./118194-pandrax.json) |
 | Panel Attack | 167702 | [167702-panel-attack.json](./167702-panel-attack.json) |
 | Panel de Pon | 150107 | [150107-panel-de-pon.json](./150107-panel-de-pon.json) |
 | Panel de Pon | 84157 | [84157-panel-de-pon.json](./84157-panel-de-pon.json) |
@@ -5189,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pusoy Go | 386225 | [386225-pusoy-go.json](./386225-pusoy-go.json) |
 | Puss in Book: Trapped in an Epic Tale | 256844 | [256844-puss-in-book-trapped-in-an-epic-tale.json](./256844-puss-in-book-trapped-in-an-epic-tale.json) |
 | Puss In Boots | 192927 | [192927-puss-in-boots.json](./192927-puss-in-boots.json) |
+| Puss in Boots: Fear Not Hooman | 118204 | [118204-puss-in-boots-fear-not-hooman.json](./118204-puss-in-boots-fear-not-hooman.json) |
 | Puss in Boots: Purrfect Adventures | 298578 | [298578-puss-in-boots-purrfect-adventures.json](./298578-puss-in-boots-purrfect-adventures.json) |
 | Pussies Wrestling Dicks | 211928 | [211928-pussies-wrestling-dicks.json](./211928-pussies-wrestling-dicks.json) |
 | Pussy Kingdom: Queen of Passion | 278393 | [278393-pussy-kingdom-queen-of-passion.json](./278393-pussy-kingdom-queen-of-passion.json) |
