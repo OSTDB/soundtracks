@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedal Rebel VR | 280750 | [280750-pedal-rebel-vr.json](./280750-pedal-rebel-vr.json) |
 | Pedal to the Metal | 214485 | [214485-pedal-to-the-metal.json](./214485-pedal-to-the-metal.json) |
 | Pedal Up! | 244809 | [244809-pedal-up.json](./244809-pedal-up.json) |
+| Pedal-Olli 3D | 114800 | [114800-pedal-olli-3d.json](./114800-pedal-olli-3d.json) |
 | Peddlers Between Pulsars | 349399 | [349399-peddlers-between-pulsars.json](./349399-peddlers-between-pulsars.json) |
 | Pedro | 314289 | [314289-pedro.json](./314289-pedro.json) |
 | Pedro | 52008 | [52008-pedro.json](./52008-pedro.json) |
@@ -2754,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Escape: An Audiogame | 181380 | [181380-planetary-escape-an-audiogame.json](./181380-planetary-escape-an-audiogame.json) |
 | Planetary Field Team | 406125 | [406125-planetary-field-team.json](./406125-planetary-field-team.json) |
 | Planetary Gravity | 158174 | [158174-planetary-gravity.json](./158174-planetary-gravity.json) |
+| PlanetCon | 114780 | [114780-planetcon.json](./114780-planetcon.json) |
 | Planetes | 184628 | [184628-planetes.json](./184628-planetes.json) |
 | PlanetExplorerVR | 101566 | [101566-planetexplorervr.json](./101566-planetexplorervr.json) |
 | Planetfall | 12620 | [12620-planetfall.json](./12620-planetfall.json) |
