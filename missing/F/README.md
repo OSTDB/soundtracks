@@ -1783,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finis | 213013 | [213013-finis.json](./213013-finis.json) |
 | Finite Jest | 415925 | [415925-finite-jest.json](./415925-finite-jest.json) |
 | Finity | 322936 | [322936-finity.json](./322936-finity.json) |
+| Finkles World | 66947 | [66947-finkles-world.json](./66947-finkles-world.json) |
 | Finn Dorset's Institute For Livestock Replication | 321144 | [321144-finn-dorsets-institute-for-livestock-replication.json](./321144-finn-dorsets-institute-for-livestock-replication.json) |
 | Finneon Accidentally Causes the End of the World | 339251 | [339251-finneon-accidentally-causes-the-end-of-the-world.json](./339251-finneon-accidentally-causes-the-end-of-the-world.json) |
 | Finnish Cabin Mayhem: Mökkimähinä | 321737 | [321737-finnish-cabin-mayhem-mokkimahina.json](./321737-finnish-cabin-mayhem-mokkimahina.json) |
@@ -2547,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flips: Enid Blyton - Faraway Tree Stories | 66665 | [66665-flips-enid-blyton-faraway-tree-stories.json](./66665-flips-enid-blyton-faraway-tree-stories.json) |
 | Flips: Enid Blyton - The Adventure Series | 66666 | [66666-flips-enid-blyton-the-adventure-series.json](./66666-flips-enid-blyton-the-adventure-series.json) |
 | Flips: Mr. Gum | 66664 | [66664-flips-mr-gum.json](./66664-flips-mr-gum.json) |
+| Flips: Terror in Cubicle Four | 66966 | [66966-flips-terror-in-cubicle-four.json](./66966-flips-terror-in-cubicle-four.json) |
 | Flips: The Enchanted Wood | 66604 | [66604-flips-the-enchanted-wood.json](./66604-flips-the-enchanted-wood.json) |
 | Flips: The Folk of the Faraway Tree | 79866 | [79866-flips-the-folk-of-the-faraway-tree.json](./79866-flips-the-folk-of-the-faraway-tree.json) |
 | Flips: Too Ghoul for School | 66663 | [66663-flips-too-ghoul-for-school.json](./66663-flips-too-ghoul-for-school.json) |
