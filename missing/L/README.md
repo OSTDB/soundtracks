@@ -1587,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightUp! | 186248 | [186248-lightup.json](./186248-lightup.json) |
 | LightWalk | 33096 | [33096-lightwalk.json](./33096-lightwalk.json) |
 | LightWave | 155657 | [155657-lightwave.json](./155657-lightwave.json) |
+| LightWeight Ninja | 73531 | [73531-lightweight-ninja.json](./73531-lightweight-ninja.json) |
 | Lightworkers | 203872 | [203872-lightworkers.json](./203872-lightworkers.json) |
 | Lightyear Frontier | 163456 | [163456-lightyear-frontier.json](./163456-lightyear-frontier.json) |
 | Lightyears from Home | 124634 | [124634-lightyears-from-home.json](./124634-lightyears-from-home.json) |
@@ -1925,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Memories | 109741 | [109741-little-memories.json](./109741-little-memories.json) |
 | Little Memory | 93025 | [93025-little-memory.json](./93025-little-memory.json) |
 | Little Miss Lonely | 43885 | [43885-little-miss-lonely.json](./43885-little-miss-lonely.json) |
+| Little Monk | 73534 | [73534-little-monk.json](./73534-little-monk.json) |
 | Little Monkey King's Big Quest | 265137 | [265137-little-monkey-kings-big-quest.json](./265137-little-monkey-kings-big-quest.json) |
 | Little Monkeys Eat Bananas | 151030 | [151030-little-monkeys-eat-bananas.json](./151030-little-monkeys-eat-bananas.json) |
 | Little Monster Games | 87243 | [87243-little-monster-games.json](./87243-little-monster-games.json) |
