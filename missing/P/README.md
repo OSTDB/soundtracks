@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Kuunyan | 383507 | [383507-pachinko-kuunyan.json](./383507-pachinko-kuunyan.json) |
 | Pachinko Life | 402978 | [402978-pachinko-life.json](./402978-pachinko-life.json) |
 | Pachinko Party | 329016 | [329016-pachinko-party.json](./329016-pachinko-party.json) |
+| Pachinko Pocket Parlor Guide | 75502 | [75502-pachinko-pocket-parlor-guide.json](./75502-pachinko-pocket-parlor-guide.json) |
 | Pachinko Star Wing II | 385717 | [385717-pachinko-star-wing-ii.json](./385717-pachinko-star-wing-ii.json) |
 | Pachinko With Nick | 184121 | [184121-pachinko-with-nick.json](./184121-pachinko-with-nick.json) |
 | Pachio-kun Game Gallery | 86125 | [86125-pachio-kun-game-gallery.json](./86125-pachio-kun-game-gallery.json) |
@@ -113,6 +114,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PachiPara 3D: Taikai Monogatari 2 - Pachi Pro Fuuunroku Hana: Kibou to Uragiri no Gakuen Seikatsu | 222330 | [222330-pachipara-3d-taikai-monogatari-2-pachi-pro-fuuunroku-hana-kibou-to-uragiri-no-gakuen-seikatsu.json](./222330-pachipara-3d-taikai-monogatari-2-pachi-pro-fuuunroku-hana-kibou-to-uragiri-no-gakuen-seikatsu.json) |
 | Pachisi | 93556 | [93556-pachisi.json](./93556-pachisi.json) |
 | Pachislot Akumajou Dracula | 315523 | [315523-pachislot-akumajou-dracula.json](./315523-pachislot-akumajou-dracula.json) |
+| PachiSlot Aruze Kingdom - Delsol 2 | 75507 | [75507-pachislot-aruze-kingdom-delsol-2.json](./75507-pachislot-aruze-kingdom-delsol-2.json) |
+| PachiSlot Aruze Kingdom - Porcano 2 | 75508 | [75508-pachislot-aruze-kingdom-porcano-2.json](./75508-pachislot-aruze-kingdom-porcano-2.json) |
+| PachiSlot Aruze Kingdom - Ward of Lights | 75509 | [75509-pachislot-aruze-kingdom-ward-of-lights.json](./75509-pachislot-aruze-kingdom-ward-of-lights.json) |
 | Pachislot Sengoku Musou | 64358 | [64358-pachislot-sengoku-musou.json](./64358-pachislot-sengoku-musou.json) |
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
