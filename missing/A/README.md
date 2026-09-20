@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
 | Action Reactor | 119558 | [119558-action-reactor.json](./119558-action-reactor.json) |
 | Action Study Runner | 379472 | [379472-action-study-runner.json](./379472-action-study-runner.json) |
+| Action-Strategy Baseball | 72966 | [72966-action-strategy-baseball.json](./72966-action-strategy-baseball.json) |
 | ActionCam: Supernatural Case | 333529 | [333529-actioncam-supernatural-case.json](./333529-actioncam-supernatural-case.json) |
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
 | Active 2048 Body Control | 379473 | [379473-active-2048-body-control.json](./379473-active-2048-body-control.json) |
@@ -3166,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua 2 | 273133 | [273133-aqua-2.json](./273133-aqua-2.json) |
 | Aqua 3 | 273134 | [273134-aqua-3.json](./273134-aqua-3.json) |
 | Aqua Bubble 2 | 70927 | [70927-aqua-bubble-2.json](./70927-aqua-bubble-2.json) |
+| Aqua Forest | 72989 | [72989-aqua-forest.json](./72989-aqua-forest.json) |
 | Aqua Fry | 288331 | [288331-aqua-fry.json](./288331-aqua-fry.json) |
 | Aqua Journey | 176987 | [176987-aqua-journey.json](./176987-aqua-journey.json) |
 | Aqua Kitty DX: Pawsome Bundle | 118853 | [118853-aqua-kitty-dx-pawsome-bundle.json](./118853-aqua-kitty-dx-pawsome-bundle.json) |
