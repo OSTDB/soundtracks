@@ -1190,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Gore | 355042 | [355042-kitchen-gore.json](./355042-kitchen-gore.json) |
 | Kitchen Island VR | 158593 | [158593-kitchen-island-vr.json](./158593-kitchen-island-vr.json) |
 | Kitchen master | 26648 | [26648-kitchen-master.json](./26648-kitchen-master.json) |
+| Kitchen Scramble: Cooking Game | 123439 | [123439-kitchen-scramble-cooking-game.json](./123439-kitchen-scramble-cooking-game.json) |
 | Kitchen Sync: Aloha! | 244384 | [244384-kitchen-sync-aloha.json](./244384-kitchen-sync-aloha.json) |
 | Kitchen War | 246464 | [246464-kitchen-war.json](./246464-kitchen-war.json) |
 | Kitchen Wars | 319205 | [319205-kitchen-wars.json](./319205-kitchen-wars.json) |
