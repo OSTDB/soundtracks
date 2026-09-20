@@ -3765,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters '95 | 15427 | [15427-the-king-of-fighters-95.json](./15427-the-king-of-fighters-95.json) |
 | The King of Fighters '97 | 15428 | [15428-the-king-of-fighters-97.json](./15428-the-king-of-fighters-97.json) |
 | The King of Fighters '97 OL | 80566 | [80566-the-king-of-fighters-97-ol.json](./80566-the-king-of-fighters-97-ol.json) |
+| The King of Fighters '98: Ultimate Match Online | 80866 | [80866-the-king-of-fighters-98-ultimate-match-online.json](./80866-the-king-of-fighters-98-ultimate-match-online.json) |
 | The King of Fighters 2000/2001 | 43348 | [43348-the-king-of-fighters-2000-2001.json](./43348-the-king-of-fighters-2000-2001.json) |
 | The King of Fighters 2001 | 15432 | [15432-the-king-of-fighters-2001.json](./15432-the-king-of-fighters-2001.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
@@ -3933,6 +3934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Refuge | 72109 | [72109-the-last-refuge.json](./72109-the-last-refuge.json) |
 | The Last Resourcer | 347772 | [347772-the-last-resourcer.json](./347772-the-last-resourcer.json) |
 | The Last Revenant | 280881 | [280881-the-last-revenant.json](./280881-the-last-revenant.json) |
+| The Last Rolling Hero | 80939 | [80939-the-last-rolling-hero.json](./80939-the-last-rolling-hero.json) |
 | The Last Run: Dead Zombie Shooter | 209142 | [209142-the-last-run-dead-zombie-shooter.json](./209142-the-last-run-dead-zombie-shooter.json) |
 | The Last Running Hero | 188011 | [188011-the-last-running-hero.json](./188011-the-last-running-hero.json) |
 | The Last Sacrifice: A King's Past | 225679 | [225679-the-last-sacrifice-a-kings-past.json](./225679-the-last-sacrifice-a-kings-past.json) |
@@ -5880,6 +5882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treehouse Man | 102317 | [102317-the-treehouse-man.json](./102317-the-treehouse-man.json) |
 | The Trench | 219669 | [219669-the-trench.json](./219669-the-trench.json) |
 | The Trial | 170383 | [170383-the-trial.json](./170383-the-trial.json) |
+| The trial of witch | 80918 | [80918-the-trial-of-witch.json](./80918-the-trial-of-witch.json) |
 | The Trials | 172767 | [172767-the-trials.json](./172767-the-trials.json) |
 | The Trials 2 | 310760 | [310760-the-trials-2.json](./310760-the-trials-2.json) |
 | The Trials of Beadie | 204106 | [204106-the-trials-of-beadie.json](./204106-the-trials-of-beadie.json) |
@@ -8674,6 +8677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour De France | 95456 | [95456-tour-de-france.json](./95456-tour-de-france.json) |
 | Tour de France 2009 | 21247 | [21247-tour-de-france-2009.json](./21247-tour-de-france-2009.json) |
 | Tour de France 2011 | 92464 | [92464-tour-de-france-2011.json](./92464-tour-de-france-2011.json) |
+| Tour de France 2014 | 80876 | [80876-tour-de-france-2014.json](./80876-tour-de-france-2014.json) |
 | Tour de France 2018 | 188594 | [188594-tour-de-france-2018.json](./188594-tour-de-france-2018.json) |
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
 | Tourist | 89206 | [89206-tourist.json](./89206-tourist.json) |
