@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danmaku Kentei Shiken: DaiOuJou-hen | 296056 | [296056-danmaku-kentei-shiken-daioujou-hen.json](./296056-danmaku-kentei-shiken-daioujou-hen.json) |
 | Danmaku Unlimited | 124756 | [124756-danmaku-unlimited.json](./124756-danmaku-unlimited.json) |
 | Danmaku Unlimited 2 | 17107 | [17107-danmaku-unlimited-2.json](./17107-danmaku-unlimited-2.json) |
+| Dànmù Nàgè Èrén | 116113 | [116113-danmu-nage-eren.json](./116113-danmu-nage-eren.json) |
 | Dann Fox & the Time Machine | 192383 | [192383-dann-fox-and-the-time-machine.json](./192383-dann-fox-and-the-time-machine.json) |
 | Danny Phantom: Ghost Frenzy | 257386 | [257386-danny-phantom-ghost-frenzy.json](./257386-danny-phantom-ghost-frenzy.json) |
 | Danny Phantom: Ghost Sweep | 313686 | [313686-danny-phantom-ghost-sweep.json](./313686-danny-phantom-ghost-sweep.json) |
@@ -525,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Reign: The Future of War - Battles of the Outer Rim | 73771 | [73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json](./73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json) |
 | Dark Ride Escape | 310577 | [310577-dark-ride-escape.json](./310577-dark-ride-escape.json) |
 | Dark Romance: Ashville | 139798 | [139798-dark-romance-ashville.json](./139798-dark-romance-ashville.json) |
+| Dark Romance: Hunchback of Notre-Dame - Collector's Edition | 116108 | [116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json](./116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json) |
 | Dark Romance: Monster Within | 101486 | [101486-dark-romance-monster-within.json](./101486-dark-romance-monster-within.json) |
 | Dark Romance: The Swan Sonata - Collector's Edition | 110345 | [110345-dark-romance-the-swan-sonata-collectors-edition.json](./110345-dark-romance-the-swan-sonata-collectors-edition.json) |
 | Dark Romance: Vampire Origins - Collector's Edition | 209716 | [209716-dark-romance-vampire-origins-collectors-edition.json](./209716-dark-romance-vampire-origins-collectors-edition.json) |
@@ -634,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness and Flame: Enemy in Reflection | 127207 | [127207-darkness-and-flame-enemy-in-reflection.json](./127207-darkness-and-flame-enemy-in-reflection.json) |
 | Darkness and Light | 159152 | [159152-darkness-and-light.json](./159152-darkness-and-light.json) |
 | Darkness Arrives | 151122 | [151122-darkness-arrives.json](./151122-darkness-arrives.json) |
+| Darkness Hour | 116159 | [116159-darkness-hour.json](./116159-darkness-hour.json) |
 | Darkness Machine | 289868 | [289868-darkness-machine.json](./289868-darkness-machine.json) |
 | Darkness Maze Cube | 130213 | [130213-darkness-maze-cube.json](./130213-darkness-maze-cube.json) |
 | Darkness Maze Cube | 221255 | [221255-darkness-maze-cube.json](./221255-darkness-maze-cube.json) |
