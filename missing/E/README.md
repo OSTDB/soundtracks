@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember Knights: Wrath of the Architect | 310371 | [310371-ember-knights-wrath-of-the-architect.json](./310371-ember-knights-wrath-of-the-architect.json) |
 | Ember Point | 296349 | [296349-ember-point.json](./296349-ember-point.json) |
 | Ember Storia | 323334 | [323334-ember-storia.json](./323334-ember-storia.json) |
+| Ember Strike: The Battle for Willow Lane | 80203 | [80203-ember-strike-the-battle-for-willow-lane.json](./80203-ember-strike-the-battle-for-willow-lane.json) |
 | Ember the Werefox | 264696 | [264696-ember-the-werefox.json](./264696-ember-the-werefox.json) |
 | Ember's Verge | 324303 | [324303-embers-verge.json](./324303-embers-verge.json) |
 | Emberdrift | 290952 | [290952-emberdrift.json](./290952-emberdrift.json) |
@@ -2297,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exchange Student | 252247 | [252247-exchange-student.json](./252247-exchange-student.json) |
 | Excised | 260223 | [260223-excised.json](./260223-excised.json) |
 | Excite Invader | 138024 | [138024-excite-invader.json](./138024-excite-invader.json) |
+| Excite Mahjong | 80200 | [80200-excite-mahjong.json](./80200-excite-mahjong.json) |
 | Excitebike | 4600 | [4600-excitebike.json](./4600-excitebike.json) |
 | Excitebike-e | 169997 | [169997-excitebike-e.json](./169997-excitebike-e.json) |
 | Excitebike: Bun-bun Mario Battle | 132030 | [132030-excitebike-bun-bun-mario-battle.json](./132030-excitebike-bun-bun-mario-battle.json) |
