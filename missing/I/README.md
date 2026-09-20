@@ -2201,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IziMiniGame | 125853 | [125853-iziminigame.json](./125853-iziminigame.json) |
 | Izmir: An Independence Simulator | 196294 | [196294-izmir-an-independence-simulator.json](./196294-izmir-an-independence-simulator.json) |
 | Izolated | 295532 | [295532-izolated.json](./295532-izolated.json) |
+| iZone | 95232 | [95232-izone.json](./95232-izone.json) |
 | Izumi Jiken File Vol. 3 - Yujuku-hen | 292113 | [292113-izumi-jiken-file-vol-3-yujuku-hen.json](./292113-izumi-jiken-file-vol-3-yujuku-hen.json) |
 | Izumo | 58168 | [58168-izumo.json](./58168-izumo.json) |
 | Izuna 2: The Unemployed Ninja Returns | 21345 | [21345-izuna-2-the-unemployed-ninja-returns.json](./21345-izuna-2-the-unemployed-ninja-returns.json) |
