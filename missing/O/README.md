@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbiter 2016 | 139258 | [139258-orbiter-2016.json](./139258-orbiter-2016.json) |
 | Orbiterrion | 153359 | [153359-orbiterrion.json](./153359-orbiterrion.json) |
 | Orbitor | 36074 | [36074-orbitor.json](./36074-orbitor.json) |
+| Orbits | 91137 | [91137-orbits.json](./91137-orbits.json) |
 | Orbituous | 339908 | [339908-orbituous.json](./339908-orbituous.json) |
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
 | Orbo's Exodus | 314907 | [314907-orbos-exodus.json](./314907-orbos-exodus.json) |
