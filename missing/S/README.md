@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensual Adventures: Episode 7 | 245856 | [245856-sensual-adventures-episode-7.json](./245856-sensual-adventures-episode-7.json) |
 | Sensual Adventures: Episode 8 | 259002 | [259002-sensual-adventures-episode-8.json](./259002-sensual-adventures-episode-8.json) |
 | Sensual Adventures: Episode 9 | 277842 | [277842-sensual-adventures-episode-9.json](./277842-sensual-adventures-episode-9.json) |
+| Sensual VR | 80941 | [80941-sensual-vr.json](./80941-sensual-vr.json) |
 | Sente | 122414 | [122414-sente.json](./122414-sente.json) |
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
 | Sentient | 227966 | [227966-sentient.json](./227966-sentient.json) |
@@ -6617,6 +6618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
 | Spebo | 259830 | [259830-spebo.json](./259830-spebo.json) |
 | Spec | 304575 | [304575-spec.json](./304575-spec.json) |
+| Spec Ops II: Operation Bravo | 80887 | [80887-spec-ops-ii-operation-bravo.json](./80887-spec-ops-ii-operation-bravo.json) |
 | Special Agent Training | 401616 | [401616-special-agent-training.json](./401616-special-agent-training.json) |
 | Special Agent: Aigis Pink | 407446 | [407446-special-agent-aigis-pink.json](./407446-special-agent-aigis-pink.json) |
 | Special Delivery: Santa's Christmas Chaos | 57621 | [57621-special-delivery-santas-christmas-chaos.json](./57621-special-delivery-santas-christmas-chaos.json) |
@@ -9158,6 +9160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strongloween: The Escape | 192424 | [192424-strongloween-the-escape.json](./192424-strongloween-the-escape.json) |
 | Strontium Dog and the Death Gauntlet | 313333 | [313333-strontium-dog-and-the-death-gauntlet.json](./313333-strontium-dog-and-the-death-gauntlet.json) |
 | Strontium Dog: The Killing | 38924 | [38924-strontium-dog-the-killing.json](./38924-strontium-dog-the-killing.json) |
+| Struckd: 3D Game Creator | 80940 | [80940-struckd-3d-game-creator.json](./80940-struckd-3d-game-creator.json) |
 | Structura | 150504 | [150504-structura.json](./150504-structura.json) |
 | Structus | 192324 | [192324-structus.json](./192324-structus.json) |
 | Struggle For Talyria | 148920 | [148920-struggle-for-talyria.json](./148920-struggle-for-talyria.json) |
