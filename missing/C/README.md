@@ -3087,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb Quest | 315113 | [315113-climb-quest.json](./315113-climb-quest.json) |
 | Climb the Tower | 157208 | [157208-climb-the-tower.json](./157208-climb-the-tower.json) |
 | Climb the Tower | 268185 | [268185-climb-the-tower.json](./268185-climb-the-tower.json) |
+| Climber | 100578 | [100578-climber.json](./100578-climber.json) |
 | Climber | 269843 | [269843-climber.json](./269843-climber.json) |
 | Climber: Sky is the Limit | 129701 | [129701-climber-sky-is-the-limit.json](./129701-climber-sky-is-the-limit.json) |
 | Climbing Challenge | 246434 | [246434-climbing-challenge.json](./246434-climbing-challenge.json) |
