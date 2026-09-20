@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Aladdin | 70969 | [70969-legend-of-aladdin.json](./70969-legend-of-aladdin.json) |
 | Legend Of Apophyxis | 287755 | [287755-legend-of-apophyxis.json](./287755-legend-of-apophyxis.json) |
 | Legend of Assassin: Siberia | 107830 | [107830-legend-of-assassin-siberia.json](./107830-legend-of-assassin-siberia.json) |
+| Legend of Camelot | 66939 | [66939-legend-of-camelot.json](./66939-legend-of-camelot.json) |
 | Legend of Coin | 80874 | [80874-legend-of-coin.json](./80874-legend-of-coin.json) |
 | Legend of Cozar | 334475 | [334475-legend-of-cozar.json](./334475-legend-of-cozar.json) |
 | Legend of Djel | 12176 | [12176-legend-of-djel.json](./12176-legend-of-djel.json) |
@@ -819,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Frog | 327576 | [327576-legend-of-frog.json](./327576-legend-of-frog.json) |
 | Legend of Gallant | 295915 | [295915-legend-of-gallant.json](./295915-legend-of-gallant.json) |
 | Legend Of Ghost Slayer Idle | 245376 | [245376-legend-of-ghost-slayer-idle.json](./245376-legend-of-ghost-slayer-idle.json) |
+| Legend of Herkules | 66941 | [66941-legend-of-herkules.json](./66941-legend-of-herkules.json) |
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
 | Legend of Heroes: Three Kingdoms | 333603 | [333603-legend-of-heroes-three-kingdoms.json](./333603-legend-of-heroes-three-kingdoms.json) |
 | Legend of Keepers: Feed the Troll | 188528 | [188528-legend-of-keepers-feed-the-troll.json](./188528-legend-of-keepers-feed-the-troll.json) |
