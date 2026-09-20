@@ -986,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
 | Bask: The Alchemist Frog | 338195 | [338195-bask-the-alchemist-frog.json](./338195-bask-the-alchemist-frog.json) |
 | Baskerville | 272355 | [272355-baskerville.json](./272355-baskerville.json) |
+| Basket Ball 3D ShootOut | 91150 | [91150-basket-ball-3d-shootout.json](./91150-basket-ball-3d-shootout.json) |
 | Basket Bowling + | 47309 | [47309-basket-bowling.json](./47309-basket-bowling.json) |
 | Basket Legends | 188017 | [188017-basket-legends.json](./188017-basket-legends.json) |
 | Basket Zombie | 282137 | [282137-basket-zombie.json](./282137-basket-zombie.json) |
@@ -1390,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefleet Gothic: Armada 2 - Deluxe Edition | 186340 | [186340-battlefleet-gothic-armada-2-deluxe-edition.json](./186340-battlefleet-gothic-armada-2-deluxe-edition.json) |
 | Battlefleet Gothic: Leviathan | 34371 | [34371-battlefleet-gothic-leviathan.json](./34371-battlefleet-gothic-leviathan.json) |
 | Battlefront Trench Warriors: Ops of Warfare | 283294 | [283294-battlefront-trench-warriors-ops-of-warfare.json](./283294-battlefront-trench-warriors-ops-of-warfare.json) |
+| Battlegods CCG: Card Battle | 91104 | [91104-battlegods-ccg-card-battle.json](./91104-battlegods-ccg-card-battle.json) |
 | Battleground | 147923 | [147923-battleground.json](./147923-battleground.json) |
 | Battleground Collection 1 | 77287 | [77287-battleground-collection-1.json](./77287-battleground-collection-1.json) |
 | Battleground Fire Strike | 224096 | [224096-battleground-fire-strike.json](./224096-battleground-fire-strike.json) |
@@ -2355,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Game 3D | 254747 | [254747-bike-game-3d.json](./254747-bike-game-3d.json) |
 | Bike Offroad Simulator | 248033 | [248033-bike-offroad-simulator.json](./248033-bike-offroad-simulator.json) |
 | Bike Racer 2018 | 105866 | [105866-bike-racer-2018.json](./105866-bike-racer-2018.json) |
+| Bike Racing | 91109 | [91109-bike-racing.json](./91109-bike-racing.json) |
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
 | Bike Stunt Master | 105960 | [105960-bike-stunt-master.json](./105960-bike-stunt-master.json) |
 | Bike Unchained | 255737 | [255737-bike-unchained.json](./255737-bike-unchained.json) |
@@ -5187,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building Blocks / Master Builder of Egypt | 81219 | [81219-building-blocks-master-builder-of-egypt.json](./81219-building-blocks-master-builder-of-egypt.json) |
 | Building our Futature | 223500 | [223500-building-our-futature.json](./223500-building-our-futature.json) |
 | Building Relationships | 152275 | [152275-building-relationships.json](./152275-building-relationships.json) |
+| Building the Great Wall of China | 91125 | [91125-building-the-great-wall-of-china.json](./91125-building-the-great-wall-of-china.json) |
 | Buildville | 102745 | [102745-buildville.json](./102745-buildville.json) |
 | Built by Force | 372457 | [372457-built-by-force.json](./372457-built-by-force.json) |
 | Built for Speed | 242681 | [242681-built-for-speed.json](./242681-built-for-speed.json) |
@@ -5601,6 +5605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz!: The Pop Quiz | 21360 | [21360-buzz-the-pop-quiz.json](./21360-buzz-the-pop-quiz.json) |
 | Buzzy's World Tour | 336545 | [336545-buzzys-world-tour.json](./336545-buzzys-world-tour.json) |
 | BvB: Burglars vs. Brats | 275875 | [275875-bvb-burglars-vs-brats.json](./275875-bvb-burglars-vs-brats.json) |
+| Bvoid | 91079 | [91079-bvoid.json](./91079-bvoid.json) |
 | BVOVB: Bruising Vengeance of the Vintage Boxer | 55125 | [55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json](./55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json) |
 | Bvrger Van | 105138 | [105138-bvrger-van.json](./105138-bvrger-van.json) |
 | BVS Solitaire Collection | 93360 | [93360-bvs-solitaire-collection.json](./93360-bvs-solitaire-collection.json) |
