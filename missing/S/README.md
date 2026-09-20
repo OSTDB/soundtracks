@@ -4684,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneak Attack | 24865 | [24865-sneak-attack.json](./24865-sneak-attack.json) |
 | Sneak In | 117071 | [117071-sneak-in.json](./117071-sneak-in.json) |
 | Sneak King | 2730 | [2730-sneak-king.json](./2730-sneak-king.json) |
+| Sneak Ops | 106995 | [106995-sneak-ops.json](./106995-sneak-ops.json) |
 | Sneaker Store Simulator | 389965 | [389965-sneaker-store-simulator.json](./389965-sneaker-store-simulator.json) |
 | Sneaky Bears | 69320 | [69320-sneaky-bears.json](./69320-sneaky-bears.json) |
 | Sneaky Bears VR | 68272 | [68272-sneaky-bears-vr.json](./68272-sneaky-bears-vr.json) |
@@ -7485,6 +7486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Days | 194632 | [194632-star-days.json](./194632-star-days.json) |
 | Star Defender 2 | 54396 | [54396-star-defender-2.json](./54396-star-defender-2.json) |
 | Star Defender 3 | 25478 | [25478-star-defender-3.json](./25478-star-defender-3.json) |
+| Star Diffusion | 106969 | [106969-star-diffusion.json](./106969-star-diffusion.json) |
 | Star Drifter | 32473 | [32473-star-drifter.json](./32473-star-drifter.json) |
 | Star Drives | 187464 | [187464-star-drives.json](./187464-star-drives.json) |
 | Star Dust: A Journey Through Space | 161349 | [161349-star-dust-a-journey-through-space.json](./161349-star-dust-a-journey-through-space.json) |
@@ -8366,6 +8368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steven Seagal Is The Final Option | 38300 | [38300-steven-seagal-is-the-final-option.json](./38300-steven-seagal-is-the-final-option.json) |
 | Steven Spielberg's Director's Chair | 69814 | [69814-steven-spielbergs-directors-chair.json](./69814-steven-spielbergs-directors-chair.json) |
 | Steven Universe: Save the Light & OK K.O.! Let's Play Heroes Combo Pack | 107150 | [107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json](./107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json) |
+| Steven Universe: Tap Together | 106958 | [106958-steven-universe-tap-together.json](./106958-steven-universe-tap-together.json) |
 | Stevo Life | 341016 | [341016-stevo-life.json](./341016-stevo-life.json) |
 | Stewie Talking Electronic Pinball | 218441 | [218441-stewie-talking-electronic-pinball.json](./218441-stewie-talking-electronic-pinball.json) |
 | Sthell | 152768 | [152768-sthell.json](./152768-sthell.json) |
@@ -9570,6 +9573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ball Arena | 215707 | [215707-super-ball-arena.json](./215707-super-ball-arena.json) |
 | Super Barista | 128408 | [128408-super-barista.json](./128408-super-barista.json) |
 | Super Baseball | 81283 | [81283-super-baseball.json](./81283-super-baseball.json) |
+| Super Basketball AR | 107005 | [107005-super-basketball-ar.json](./107005-super-basketball-ar.json) |
 | Super Battle Golf: Attack on City | 410350 | [410350-super-battle-golf-attack-on-city.json](./410350-super-battle-golf-attack-on-city.json) |
 | Super Battle Polycars | 288874 | [288874-super-battle-polycars.json](./288874-super-battle-polycars.json) |
 | Super Battle Sensha | 252407 | [252407-super-battle-sensha.json](./252407-super-battle-sensha.json) |
@@ -9785,6 +9789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hunchback | 157211 | [157211-super-hunchback.json](./157211-super-hunchback.json) |
 | Super Icarus | 291599 | [291599-super-icarus.json](./291599-super-icarus.json) |
 | Super Ick | 193502 | [193502-super-ick.json](./193502-super-ick.json) |
+| Super Idle Cats - Tap Farm | 106965 | [106965-super-idle-cats-tap-farm.json](./106965-super-idle-cats-tap-farm.json) |
 | Super Impostor Bros. | 202379 | [202379-super-impostor-bros.json](./202379-super-impostor-bros.json) |
 | Super Jack | 265965 | [265965-super-jack.json](./265965-super-jack.json) |
 | Super Jack The Ripper | 336895 | [336895-super-jack-the-ripper.json](./336895-super-jack-the-ripper.json) |
