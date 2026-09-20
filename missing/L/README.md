@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hit Titan | 337476 | [337476-last-hit-titan.json](./337476-last-hit-titan.json) |
 | Last Holiday | 224568 | [224568-last-holiday.json](./224568-last-holiday.json) |
 | Last Home: Battle of Island | 124186 | [124186-last-home-battle-of-island.json](./124186-last-home-battle-of-island.json) |
+| Last Hope | 81780 | [81780-last-hope.json](./81780-last-hope.json) |
 | Last Hope 3: Sniper Zombie War | 208931 | [208931-last-hope-3-sniper-zombie-war.json](./208931-last-hope-3-sniper-zombie-war.json) |
 | Last Hope on Earth | 145586 | [145586-last-hope-on-earth.json](./145586-last-hope-on-earth.json) |
 | Last Hopeless | 255991 | [255991-last-hopeless.json](./255991-last-hopeless.json) |
@@ -1117,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LepozhdianVibe | 325866 | [325866-lepozhdianvibe.json](./325866-lepozhdianvibe.json) |
 | Leprechaun Shadow | 111698 | [111698-leprechaun-shadow.json](./111698-leprechaun-shadow.json) |
 | Leprechaun Twins | 307313 | [307313-leprechaun-twins.json](./307313-leprechaun-twins.json) |
+| Lepur | 81765 | [81765-lepur.json](./81765-lepur.json) |
 | Lern Island Letters | 322768 | [322768-lern-island-letters.json](./322768-lern-island-letters.json) |
 | Lernen Leicht Gemacht! Für Junggebliebene | 81389 | [81389-lernen-leicht-gemacht-fur-junggebliebene.json](./81389-lernen-leicht-gemacht-fur-junggebliebene.json) |
 | Lerry the Cube | 102117 | [102117-lerry-the-cube.json](./102117-lerry-the-cube.json) |
@@ -1982,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Sick Girls: Kagami no Naka no Idol | 415135 | [415135-little-sick-girls-kagami-no-naka-no-idol.json](./415135-little-sick-girls-kagami-no-naka-no-idol.json) |
 | Little Sick Girls: Momo Mitsu ha Imouto no Kaori | 415137 | [415137-little-sick-girls-momo-mitsu-ha-imouto-no-kaori.json](./415137-little-sick-girls-momo-mitsu-ha-imouto-no-kaori.json) |
 | Little Sick Girls: Osananajimi no Koibito | 415134 | [415134-little-sick-girls-osananajimi-no-koibito.json](./415134-little-sick-girls-osananajimi-no-koibito.json) |
+| Little Smart Planet | 81728 | [81728-little-smart-planet.json](./81728-little-smart-planet.json) |
 | Little Soldier | 164436 | [164436-little-soldier.json](./164436-little-soldier.json) |
 | Little Sound Dj | 91410 | [91410-little-sound-dj.json](./91410-little-sound-dj.json) |
 | Little Space Rangers | 181221 | [181221-little-space-rangers.json](./181221-little-space-rangers.json) |
