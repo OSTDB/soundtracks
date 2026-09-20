@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedroom Battlegrounds | 288231 | [288231-bedroom-battlegrounds.json](./288231-bedroom-battlegrounds.json) |
 | Bedrooms | 342732 | [342732-bedrooms.json](./342732-bedrooms.json) |
 | Bedtime | 182911 | [182911-bedtime.json](./182911-bedtime.json) |
+| Bedtime Blues | 112782 | [112782-bedtime-blues.json](./112782-bedtime-blues.json) |
 | Bedtime Horror Stories | 220647 | [220647-bedtime-horror-stories.json](./220647-bedtime-horror-stories.json) |
 | Bedtime Stories | 371963 | [371963-bedtime-stories.json](./371963-bedtime-stories.json) |
 | Bedtime Story: Saint | 338208 | [338208-bedtime-story-saint.json](./338208-bedtime-story-saint.json) |
@@ -4356,6 +4357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain You Later | 135677 | [135677-brain-you-later.json](./135677-brain-you-later.json) |
 | BrainBread | 138773 | [138773-brainbread.json](./138773-brainbread.json) |
 | brainCloud Bombers | 120400 | [120400-braincloud-bombers.json](./120400-braincloud-bombers.json) |
+| Brainmelter Deluxe | 112780 | [112780-brainmelter-deluxe.json](./112780-brainmelter-deluxe.json) |
 | BrainRot | 336518 | [336518-brainrot.json](./336518-brainrot.json) |
 | Brainrot Dash | 338791 | [338791-brainrot-dash.json](./338791-brainrot-dash.json) |
 | Brainrot Survivors | 391041 | [391041-brainrot-survivors.json](./391041-brainrot-survivors.json) |
@@ -4407,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Blades | 224075 | [224075-brave-blades.json](./224075-brave-blades.json) |
 | Brave Cano | 174350 | [174350-brave-cano.json](./174350-brave-cano.json) |
 | Brave Doggy Quest | 190156 | [190156-brave-doggy-quest.json](./190156-brave-doggy-quest.json) |
+| Brave Dungeon II | 112766 | [112766-brave-dungeon-ii.json](./112766-brave-dungeon-ii.json) |
 | Brave Dwarves | 188558 | [188558-brave-dwarves.json](./188558-brave-dwarves.json) |
 | Brave Dwarves 2 | 144265 | [144265-brave-dwarves-2.json](./144265-brave-dwarves-2.json) |
 | Brave Fighter 2: Frontier Free | 38952 | [38952-brave-fighter-2-frontier-free.json](./38952-brave-fighter-2-frontier-free.json) |
@@ -4973,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BubbleXRush | 61089 | [61089-bubblexrush.json](./61089-bubblexrush.json) |
 | Bubbu School | 224077 | [224077-bubbu-school.json](./224077-bubbu-school.json) |
 | BUBG Single on the Ground | 269039 | [269039-bubg-single-on-the-ground.json](./269039-bubg-single-on-the-ground.json) |
+| Bubli | 112717 | [112717-bubli.json](./112717-bubli.json) |
 | Buboids: The 3D Action Puzzle Game | 70937 | [70937-buboids-the-3d-action-puzzle-game.json](./70937-buboids-the-3d-action-puzzle-game.json) |
 | Bubsy II | 7803 | [7803-bubsy-ii.json](./7803-bubsy-ii.json) |
 | Bubsy in Fractured Furry Tales | 7805 | [7805-bubsy-in-fractured-furry-tales.json](./7805-bubsy-in-fractured-furry-tales.json) |
@@ -5159,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletz | 275111 | [275111-bulletz.json](./275111-bulletz.json) |
 | Bullfight Ring no Hasha | 59428 | [59428-bullfight-ring-no-hasha.json](./59428-bullfight-ring-no-hasha.json) |
 | Bullring | 281373 | [281373-bullring.json](./281373-bullring.json) |
+| Bulls town | 112749 | [112749-bulls-town.json](./112749-bulls-town.json) |
 | Bulls Vs Blazers and the NBA Playoffs | 42638 | [42638-bulls-vs-blazers-and-the-nba-playoffs.json](./42638-bulls-vs-blazers-and-the-nba-playoffs.json) |
 | Bullship! | 375297 | [375297-bullship.json](./375297-bullship.json) |
 | Bullwagon Business | 278554 | [278554-bullwagon-business.json](./278554-bullwagon-business.json) |
