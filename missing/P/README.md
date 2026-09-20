@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Pan: The Motion Picture Event | 49317 | [49317-peter-pan-the-motion-picture-event.json](./49317-peter-pan-the-motion-picture-event.json) |
 | Peter Paper | 140379 | [140379-peter-paper.json](./140379-peter-paper.json) |
 | Peter Rabbit Maze Mischief | 88192 | [88192-peter-rabbit-maze-mischief.json](./88192-peter-rabbit-maze-mischief.json) |
+| Peter Rabbit: Let's Go! | 104458 | [104458-peter-rabbit-lets-go.json](./104458-peter-rabbit-lets-go.json) |
 | Peter Shilton's Handball Maradona! | 73836 | [73836-peter-shiltons-handball-maradona.json](./73836-peter-shiltons-handball-maradona.json) |
 | Peter's Apostles | 351609 | [351609-peters-apostles.json](./351609-peters-apostles.json) |
 | Peter's House | 364585 | [364585-peters-house.json](./364585-peters-house.json) |
@@ -2910,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playerunkn4wn: Zombie | 80913 | [80913-playerunkn4wn-zombie.json](./80913-playerunkn4wn-zombie.json) |
 | PlayerUnknown's Battlegrounds: Season 8 | 135824 | [135824-playerunknowns-battlegrounds-season-8.json](./135824-playerunknowns-battlegrounds-season-8.json) |
 | PlayFortress | 33102 | [33102-playfortress.json](./33102-playfortress.json) |
+| Playful Math | 104439 | [104439-playful-math.json](./104439-playful-math.json) |
 | Playground | 186175 | [186175-playground.json](./186175-playground.json) |
 | Playground AR: Physics Sandbox | 89172 | [89172-playground-ar-physics-sandbox.json](./89172-playground-ar-physics-sandbox.json) |
 | Playground Battle World | 83483 | [83483-playground-battle-world.json](./83483-playground-battle-world.json) |
@@ -3050,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Build | 88881 | [88881-pocket-build.json](./88881-pocket-build.json) |
 | Pocket Car: VR Ground | 113749 | [113749-pocket-car-vr-ground.json](./113749-pocket-car-vr-ground.json) |
 | Pocket Card Jockey: Ride On! | 230543 | [230543-pocket-card-jockey-ride-on.json](./230543-pocket-card-jockey-ride-on.json) |
+| Pocket Chibi - Anime Dress Up | 104454 | [104454-pocket-chibi-anime-dress-up.json](./104454-pocket-chibi-anime-dress-up.json) |
 | Pocket City | 79996 | [79996-pocket-city.json](./79996-pocket-city.json) |
 | Pocket Color Billiard | 137631 | [137631-pocket-color-billiard.json](./137631-pocket-color-billiard.json) |
 | Pocket Cowboy | 175437 | [175437-pocket-cowboy.json](./175437-pocket-cowboy.json) |
