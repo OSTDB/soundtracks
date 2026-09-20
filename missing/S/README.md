@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saitekikai Spy Simulator | 284323 | [284323-saitekikai-spy-simulator.json](./284323-saitekikai-spy-simulator.json) |
 | Sáivu | 293889 | [293889-saivu.json](./293889-saivu.json) |
 | Sáivu | 293893 | [293893-saivu.json](./293893-saivu.json) |
+| Saiyan Saga | 90363 | [90363-saiyan-saga.json](./90363-saiyan-saga.json) |
 | Saiyuuki World 2: Tenjoukai no Majin | 19669 | [19669-saiyuuki-world-2-tenjoukai-no-majin.json](./19669-saiyuuki-world-2-tenjoukai-no-majin.json) |
 | Sakamoto Dangerous Barrage | 331884 | [331884-sakamoto-dangerous-barrage.json](./331884-sakamoto-dangerous-barrage.json) |
 | Sakata Goro Kudan no Renju Kyoushitsu | 97859 | [97859-sakata-goro-kudan-no-renju-kyoushitsu.json](./97859-sakata-goro-kudan-no-renju-kyoushitsu.json) |
@@ -2331,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Brawl | 339933 | [339933-shape-brawl.json](./339933-shape-brawl.json) |
 | Shape Cascade | 126579 | [126579-shape-cascade.json](./126579-shape-cascade.json) |
 | Shape Escape | 89752 | [89752-shape-escape.json](./89752-shape-escape.json) |
+| Shape Escape | 90362 | [90362-shape-escape.json](./90362-shape-escape.json) |
 | Shape Invasion | 317445 | [317445-shape-invasion.json](./317445-shape-invasion.json) |
 | Shape of Clouds | 279115 | [279115-shape-of-clouds.json](./279115-shape-of-clouds.json) |
 | Shape Palette | 130779 | [130779-shape-palette.json](./130779-shape-palette.json) |
@@ -3018,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show It 2 Me | 81216 | [81216-show-it-2-me.json](./81216-show-it-2-me.json) |
 | Show Me How To Live | 303064 | [303064-show-me-how-to-live.json](./303064-show-me-how-to-live.json) |
 | Show Me the Way | 113517 | [113517-show-me-the-way.json](./113517-show-me-the-way.json) |
+| Showa Candy Shop 2 | 90380 | [90380-showa-candy-shop-2.json](./90380-showa-candy-shop-2.json) |
 | Showbiz Tycoon | 189069 | [189069-showbiz-tycoon.json](./189069-showbiz-tycoon.json) |
 | Showdown at Willow Creek | 83599 | [83599-showdown-at-willow-creek.json](./83599-showdown-at-willow-creek.json) |
 | Showdown Bandit | 121497 | [121497-showdown-bandit.json](./121497-showdown-bandit.json) |
@@ -4258,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Maker Factory: Fun Play | 106522 | [106522-slime-maker-factory-fun-play.json](./106522-slime-maker-factory-fun-play.json) |
 | Slime Management | 357349 | [357349-slime-management.json](./357349-slime-management.json) |
 | Slime on Hole | 185619 | [185619-slime-on-hole.json](./185619-slime-on-hole.json) |
+| Slime Pizza | 90360 | [90360-slime-pizza.json](./90360-slime-pizza.json) |
 | Slime Quest | 110173 | [110173-slime-quest.json](./110173-slime-quest.json) |
 | Slime Quest | 248145 | [248145-slime-quest.json](./248145-slime-quest.json) |
 | Slime Rancher | 16287 | [16287-slime-rancher.json](./16287-slime-rancher.json) |
@@ -5207,6 +5211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Classic | 277564 | [277564-solitaire-classic.json](./277564-solitaire-classic.json) |
 | Solitaire Classic Online | 87092 | [87092-solitaire-classic-online.json](./87092-solitaire-classic-online.json) |
 | Solitaire Collection | 208949 | [208949-solitaire-collection.json](./208949-solitaire-collection.json) |
+| Solitaire Collection HD | 90371 | [90371-solitaire-collection-hd.json](./90371-solitaire-collection-hd.json) |
 | Solitaire Crime Stories | 386141 | [386141-solitaire-crime-stories.json](./386141-solitaire-crime-stories.json) |
 | Solitaire Crime Stories Chapter 3 | 390506 | [390506-solitaire-crime-stories-chapter-3.json](./390506-solitaire-crime-stories-chapter-3.json) |
 | Solitaire Dash | 255169 | [255169-solitaire-dash.json](./255169-solitaire-dash.json) |
@@ -7120,6 +7125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Chase | 136485 | [136485-spooky-chase.json](./136485-spooky-chase.json) |
 | Spooky Dwellers 2: Collector's Edition | 272350 | [272350-spooky-dwellers-2-collectors-edition.json](./272350-spooky-dwellers-2-collectors-edition.json) |
 | Spooky Halloween in the Voxel World | 219681 | [219681-spooky-halloween-in-the-voxel-world.json](./219681-spooky-halloween-in-the-voxel-world.json) |
+| Spooky Hoofs | 90394 | [90394-spooky-hoofs.json](./90394-spooky-hoofs.json) |
 | Spooky House | 179715 | [179715-spooky-house.json](./179715-spooky-house.json) |
 | Spooky Land Defenders | 415946 | [415946-spooky-land-defenders.json](./415946-spooky-land-defenders.json) |
 | Spooky Mahjong | 336565 | [336565-spooky-mahjong.json](./336565-spooky-mahjong.json) |
@@ -8119,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Sky: Spring Stories | 202374 | [202374-starry-sky-spring-stories.json](./202374-starry-sky-spring-stories.json) |
 | Starry Sky: Summer Stories | 202827 | [202827-starry-sky-summer-stories.json](./202827-starry-sky-summer-stories.json) |
 | StarryMonogatari: Student's Terminal | 302103 | [302103-starrymonogatari-students-terminal.json](./302103-starrymonogatari-students-terminal.json) |
+| Stars and Ghosts | 90398 | [90398-stars-and-ghosts.json](./90398-stars-and-ghosts.json) |
 | Stars Below | 177518 | [177518-stars-below.json](./177518-stars-below.json) |
 | Stars Collapse | 302672 | [302672-stars-collapse.json](./302672-stars-collapse.json) |
 | Stars Era: Abyss Frontier | 289303 | [289303-stars-era-abyss-frontier.json](./289303-stars-era-abyss-frontier.json) |
@@ -10868,6 +10875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Island | 201672 | [201672-survival-island.json](./201672-survival-island.json) |
 | Survival Machine | 152121 | [152121-survival-machine.json](./152121-survival-machine.json) |
 | Survival Maze | 99428 | [99428-survival-maze.json](./99428-survival-maze.json) |
+| Survival Mobile:10,000 BC | 90381 | [90381-survival-mobile-10-000-bc.json](./90381-survival-mobile-10-000-bc.json) |
 | Survival Nation | 228586 | [228586-survival-nation.json](./228586-survival-nation.json) |
 | Survival Nation: Lost Horizon | 259619 | [259619-survival-nation-lost-horizon.json](./259619-survival-nation-lost-horizon.json) |
 | Survival Nexus | 266784 | [266784-survival-nexus.json](./266784-survival-nexus.json) |
@@ -11127,6 +11135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Science: The Girls of Silversee Castle | 239656 | [239656-sweet-science-the-girls-of-silversee-castle.json](./239656-sweet-science-the-girls-of-silversee-castle.json) |
 | Sweet Shell | 328043 | [328043-sweet-shell.json](./328043-sweet-shell.json) |
 | Sweet Shine | 159825 | [159825-sweet-shine.json](./159825-sweet-shine.json) |
+| Sweet Shop | 90376 | [90376-sweet-shop.json](./90376-sweet-shop.json) |
 | Sweet Solitaire: School Witch | 133232 | [133232-sweet-solitaire-school-witch.json](./133232-sweet-solitaire-school-witch.json) |
 | Sweet Sort | 255751 | [255751-sweet-sort.json](./255751-sweet-sort.json) |
 | Sweet Sport | 368572 | [368572-sweet-sport.json](./368572-sweet-sport.json) |
