@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valley of Tribes | 338575 | [338575-valley-of-tribes.json](./338575-valley-of-tribes.json) |
 | Valley of Unicorns | 24948 | [24948-valley-of-unicorns.json](./24948-valley-of-unicorns.json) |
 | Valley Peaks | 177031 | [177031-valley-peaks.json](./177031-valley-peaks.json) |
+| Valleys Between | 106993 | [106993-valleys-between.json](./106993-valleys-between.json) |
 | Valor | 173314 | [173314-valor.json](./173314-valor.json) |
 | Valor | 299145 | [299145-valor.json](./299145-valor.json) |
 | Valor & Victory: Kursk | 260381 | [260381-valor-and-victory-kursk.json](./260381-valor-and-victory-kursk.json) |
@@ -837,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual League Baseball 2 | 201263 | [201263-virtual-league-baseball-2.json](./201263-virtual-league-baseball-2.json) |
 | Virtual Love Secrets | 266785 | [266785-virtual-love-secrets.json](./266785-virtual-love-secrets.json) |
 | Virtual Maid Streamer Ramie | 187437 | [187437-virtual-maid-streamer-ramie.json](./187437-virtual-maid-streamer-ramie.json) |
+| Virtual Mom: Happy Family 3D | 106962 | [106962-virtual-mom-happy-family-3d.json](./106962-virtual-mom-happy-family-3d.json) |
 | Virtual Mom: Job Simulator Manager | 268462 | [268462-virtual-mom-job-simulator-manager.json](./268462-virtual-mom-job-simulator-manager.json) |
 | Virtual Mother Family Game: Working Mom Simulator | 101587 | [101587-virtual-mother-family-game-working-mom-simulator.json](./101587-virtual-mother-family-game-working-mom-simulator.json) |
 | Virtual Perspective | 391756 | [391756-virtual-perspective.json](./391756-virtual-perspective.json) |
@@ -910,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VISK | 248914 | [248914-visk.json](./248914-visk.json) |
 | Vispire | 275574 | [275574-vispire.json](./275574-vispire.json) |
 | Vissekom | 142427 | [142427-vissekom.json](./142427-vissekom.json) |
+| Vista Golf Rivals | 106982 | [106982-vista-golf-rivals.json](./106982-vista-golf-rivals.json) |
 | Vista World | 244372 | [244372-vista-world.json](./244372-vista-world.json) |
 | Vistascapes VR | 32891 | [32891-vistascapes-vr.json](./32891-vistascapes-vr.json) |
 | Visual DOS 2024 | 364528 | [364528-visual-dos-2024.json](./364528-visual-dos-2024.json) |
@@ -1132,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vos en Haas: Het plan van Haas | 98923 | [98923-vos-en-haas-het-plan-van-haas.json](./98923-vos-en-haas-het-plan-van-haas.json) |
 | Vosphia | 224558 | [224558-vosphia.json](./224558-vosphia.json) |
 | Vostok 2061 | 216849 | [216849-vostok-2061.json](./216849-vostok-2061.json) |
+| Vow of Heroes | 106981 | [106981-vow-of-heroes.json](./106981-vow-of-heroes.json) |
 | Vows of Eternity | 298872 | [298872-vows-of-eternity.json](./298872-vows-of-eternity.json) |
 | Vox | 16686 | [16686-vox.json](./16686-vox.json) |
 | Vox Battles | 282026 | [282026-vox-battles.json](./282026-vox-battles.json) |
