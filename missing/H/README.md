@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamekomi Lucky Puzzle Wii Returns | 344484 | [344484-hamekomi-lucky-puzzle-wii-returns.json](./344484-hamekomi-lucky-puzzle-wii-returns.json) |
 | Hamelin | 229364 | [229364-hamelin.json](./229364-hamelin.json) |
 | Hameln no Violin Hiki | 38365 | [38365-hameln-no-violin-hiki.json](./38365-hameln-no-violin-hiki.json) |
+| Hametsu no Mars | 70124 | [70124-hametsu-no-mars.json](./70124-hametsu-no-mars.json) |
 | HamJam!! | 108972 | [108972-hamjam.json](./108972-hamjam.json) |
 | Hamlet in a Pond | 306081 | [306081-hamlet-in-a-pond.json](./306081-hamlet-in-a-pond.json) |
 | Hammer | 247029 | [247029-hammer.json](./247029-hammer.json) |
@@ -433,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangul Attack | 141664 | [141664-hangul-attack.json](./141664-hangul-attack.json) |
 | Hangzo | 141238 | [141238-hangzo.json](./141238-hangzo.json) |
 | Hanjuku Hero | 78948 | [78948-hanjuku-hero.json](./78948-hanjuku-hero.json) |
+| Hank | 70118 | [70118-hank.json](./70118-hank.json) |
 | Hank Loves the Beach | 240797 | [240797-hank-loves-the-beach.json](./240797-hank-loves-the-beach.json) |
 | Hank: Drowning on Dry Land | 195168 | [195168-hank-drowning-on-dry-land.json](./195168-hank-drowning-on-dry-land.json) |
 | Hank: Straightjacket | 232458 | [232458-hank-straightjacket.json](./232458-hank-straightjacket.json) |
@@ -449,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanoi Puzzles: Flip Match | 159810 | [159810-hanoi-puzzles-flip-match.json](./159810-hanoi-puzzles-flip-match.json) |
 | Hanoi Puzzles: Magnetrix | 159744 | [159744-hanoi-puzzles-magnetrix.json](./159744-hanoi-puzzles-magnetrix.json) |
 | Hanoi Puzzles: Solid Match | 156520 | [156520-hanoi-puzzles-solid-match.json](./156520-hanoi-puzzles-solid-match.json) |
+| Hans Christian Andersen: The Ugly Prince Duckling | 70120 | [70120-hans-christian-andersen-the-ugly-prince-duckling.json](./70120-hans-christian-andersen-the-ugly-prince-duckling.json) |
 | Hans in the Internetz | 392266 | [392266-hans-in-the-internetz.json](./392266-hans-in-the-internetz.json) |
 | Hanse: Die Expedition | 85818 | [85818-hanse-die-expedition.json](./85818-hanse-die-expedition.json) |
 | Hansel and Gretel | 215350 | [215350-hansel-and-gretel.json](./215350-hansel-and-gretel.json) |
@@ -3761,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humpsters | 71220 | [71220-humpsters.json](./71220-humpsters.json) |
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
 | Humpty's Scramble | 144139 | [144139-humptys-scramble.json](./144139-humptys-scramble.json) |
+| Hunchback at the Olympics | 70105 | [70105-hunchback-at-the-olympics.json](./70105-hunchback-at-the-olympics.json) |
 | Hunckie Egg | 134422 | [134422-hunckie-egg.json](./134422-hunckie-egg.json) |
 | Hundra | 92962 | [92962-hundra.json](./92962-hundra.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
