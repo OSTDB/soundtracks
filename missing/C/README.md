@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of Destiny | 264064 | [264064-cards-of-destiny.json](./264064-cards-of-destiny.json) |
 | Cards of Eternity: The Wheel of Time | 321147 | [321147-cards-of-eternity-the-wheel-of-time.json](./321147-cards-of-eternity-the-wheel-of-time.json) |
 | Cards of Fortune | 360676 | [360676-cards-of-fortune.json](./360676-cards-of-fortune.json) |
+| Cards of Knight | 110149 | [110149-cards-of-knight.json](./110149-cards-of-knight.json) |
 | Cards of the Dreaming Dragons | 207531 | [207531-cards-of-the-dreaming-dragons.json](./207531-cards-of-the-dreaming-dragons.json) |
 | Cards Survivors | 246487 | [246487-cards-survivors.json](./246487-cards-survivors.json) |
 | Cards with Personalities Classic | 291620 | [291620-cards-with-personalities-classic.json](./291620-cards-with-personalities-classic.json) |
@@ -2560,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Rock | 275025 | [275025-chuck-rock.json](./275025-chuck-rock.json) |
 | Chuck Rock | 275026 | [275026-chuck-rock.json](./275026-chuck-rock.json) |
 | Chuckie Egg | 10235 | [10235-chuckie-egg.json](./10235-chuckie-egg.json) |
+| Chuckie Egg 2017 | 110122 | [110122-chuckie-egg-2017.json](./110122-chuckie-egg-2017.json) |
 | Chuckie Egg 2017 Challenges | 111642 | [111642-chuckie-egg-2017-challenges.json](./111642-chuckie-egg-2017-challenges.json) |
 | Chuckle Phrase Builder | 167165 | [167165-chuckle-phrase-builder.json](./167165-chuckle-phrase-builder.json) |
 | Chucky | 113717 | [113717-chucky.json](./113717-chucky.json) |
@@ -4557,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couic d'or ! | 328595 | [328595-couic-dor.json](./328595-couic-dor.json) |
 | Count 427 | 287624 | [287624-count-427.json](./287624-count-427.json) |
 | Count Downula | 109040 | [109040-count-downula.json](./109040-count-downula.json) |
+| Count Logica | 110135 | [110135-count-logica.json](./110135-count-logica.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
 | Count to Ten: Supporter Edition | 310385 | [310385-count-to-ten-supporter-edition.json](./310385-count-to-ten-supporter-edition.json) |
 | Countdown | 319236 | [319236-countdown.json](./319236-countdown.json) |
@@ -5667,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Cube 2 | 365146 | [365146-cube-cube-2.json](./365146-cube-cube-2.json) |
 | Cube Cube! | 234324 | [234324-cube-cube.json](./234324-cube-cube.json) |
 | Cube Decider | 203966 | [203966-cube-decider.json](./203966-cube-decider.json) |
+| Cube Defender 2000 | 110123 | [110123-cube-defender-2000.json](./110123-cube-defender-2000.json) |
 | Cube DOA | 120363 | [120363-cube-doa.json](./120363-cube-doa.json) |
 | Cube Droid Holiday Special | 360110 | [360110-cube-droid-holiday-special.json](./360110-cube-droid-holiday-special.json) |
 | Cube Escape | 253984 | [253984-cube-escape.json](./253984-cube-escape.json) |
