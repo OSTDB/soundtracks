@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: Goldilocks and the Fallen Star - Collector's Edition | 61593 | [61593-dark-parables-goldilocks-and-the-fallen-star-collectors-edition.json](./61593-dark-parables-goldilocks-and-the-fallen-star-collectors-edition.json) |
 | Dark Parables: Jack and the Sky Kingdom - Collector's Edition | 29809 | [29809-dark-parables-jack-and-the-sky-kingdom-collectors-edition.json](./29809-dark-parables-jack-and-the-sky-kingdom-collectors-edition.json) |
 | Dark Parables: Portrait of the Stained Princess | 139791 | [139791-dark-parables-portrait-of-the-stained-princess.json](./139791-dark-parables-portrait-of-the-stained-princess.json) |
+| Dark Parables: Queen of Sands | 91136 | [91136-dark-parables-queen-of-sands.json](./91136-dark-parables-queen-of-sands.json) |
 | Dark Parables: Requiem for the Forgotten Shadow | 139792 | [139792-dark-parables-requiem-for-the-forgotten-shadow.json](./139792-dark-parables-requiem-for-the-forgotten-shadow.json) |
 | Dark Parables: Return of the Salt Princess | 123634 | [123634-dark-parables-return-of-the-salt-princess.json](./123634-dark-parables-return-of-the-salt-princess.json) |
 | Dark Parables: Rise of the Snow Queen | 139793 | [139793-dark-parables-rise-of-the-snow-queen.json](./139793-dark-parables-rise-of-the-snow-queen.json) |
@@ -2327,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus | 10858 | [10858-deus.json](./10858-deus.json) |
 | Deus Cult | 298299 | [298299-deus-cult.json](./298299-deus-cult.json) |
 | Deus Ex Machina | 130344 | [130344-deus-ex-machina.json](./130344-deus-ex-machina.json) |
+| Deus Ex Machina: Game of the Year - 30th Anniversary Collector's Edition | 91098 | [91098-deus-ex-machina-game-of-the-year-30th-anniversary-collectors-edition.json](./91098-deus-ex-machina-game-of-the-year-30th-anniversary-collectors-edition.json) |
 | Deus Ex: Breach | 30494 | [30494-deus-ex-breach.json](./30494-deus-ex-breach.json) |
 | Deus Ex: Game of the Year Edition | 25358 | [25358-deus-ex-game-of-the-year-edition.json](./25358-deus-ex-game-of-the-year-edition.json) |
 | Deus Ex: Invisible War | 42 | [42-deus-ex-invisible-war.json](./42-deus-ex-invisible-war.json) |
