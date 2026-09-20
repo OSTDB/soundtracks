@@ -716,10 +716,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemurenu Yoru no Chiisana Ohanashi | 254494 | [254494-nemurenu-yoru-no-chiisana-ohanashi.json](./254494-nemurenu-yoru-no-chiisana-ohanashi.json) |
 | Nemuru Mayu | 141028 | [141028-nemuru-mayu.json](./141028-nemuru-mayu.json) |
 | Neo 2045 | 148536 | [148536-neo-2045.json](./148536-neo-2045.json) |
+| Neo 21 | 75491 | [75491-neo-21.json](./75491-neo-21.json) |
 | Neo Angelique | 72681 | [72681-neo-angelique.json](./72681-neo-angelique.json) |
 | Neo Berlin 2087 | 244993 | [244993-neo-berlin-2087.json](./244993-neo-berlin-2087.json) |
+| Neo Cherry Master | 75492 | [75492-neo-cherry-master.json](./75492-neo-cherry-master.json) |
 | Neo Cherry Master Color | 43980 | [43980-neo-cherry-master-color.json](./43980-neo-cherry-master-color.json) |
 | Neo Derby Champ Daiyosou | 43968 | [43968-neo-derby-champ-daiyosou.json](./43968-neo-derby-champ-daiyosou.json) |
+| Neo Geo CD Special | 75493 | [75493-neo-geo-cd-special.json](./75493-neo-geo-cd-special.json) |
+| Neo Geo Cup '98 Plus | 75494 | [75494-neo-geo-cup-98-plus.json](./75494-neo-geo-cup-98-plus.json) |
 | Neo Geo Cup '98 Plus Color | 43976 | [43976-neo-geo-cup-98-plus-color.json](./43976-neo-geo-cup-98-plus-color.json) |
 | Neo Golden Logres | 218154 | [218154-neo-golden-logres.json](./218154-neo-golden-logres.json) |
 | Neo Ha_Bits | 311493 | [311493-neo-ha-bits.json](./311493-neo-ha-bits.json) |
@@ -730,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Mystery Bonus | 43979 | [43979-neo-mystery-bonus.json](./43979-neo-mystery-bonus.json) |
 | Neo Nectaris | 42009 | [42009-neo-nectaris.json](./42009-neo-nectaris.json) |
 | Neo no Panepon | 109447 | [109447-neo-no-panepon.json](./109447-neo-no-panepon.json) |
+| Neo Pang | 75495 | [75495-neo-pang.json](./75495-neo-pang.json) |
 | Neo Planet | 61574 | [61574-neo-planet.json](./61574-neo-planet.json) |
 | Neo Racing Genesis | 305747 | [305747-neo-racing-genesis.json](./305747-neo-racing-genesis.json) |
 | Neo Sonic Universe | 299876 | [299876-neo-sonic-universe.json](./299876-neo-sonic-universe.json) |
@@ -1639,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Kato 3 | 297800 | [297800-ninja-kato-3.json](./297800-ninja-kato-3.json) |
 | Ninja Kiwi Archive | 137601 | [137601-ninja-kiwi-archive.json](./137601-ninja-kiwi-archive.json) |
 | Ninja Leagues: Masters of The Mystic Arts | 158048 | [158048-ninja-leagues-masters-of-the-mystic-arts.json](./158048-ninja-leagues-masters-of-the-mystic-arts.json) |
+| Ninja Massacre | 75503 | [75503-ninja-massacre.json](./75503-ninja-massacre.json) |
 | Ninja Master Toru | 332530 | [332530-ninja-master-toru.json](./332530-ninja-master-toru.json) |
 | Ninja Ming: Wu | 341478 | [341478-ninja-ming-wu.json](./341478-ninja-ming-wu.json) |
 | Ninja Monkey | 309849 | [309849-ninja-monkey.json](./309849-ninja-monkey.json) |
