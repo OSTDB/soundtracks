@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catena | 342033 | [342033-catena.json](./342033-catena.json) |
 | Cateran | 96767 | [96767-cateran.json](./96767-cateran.json) |
 | Caterpillar King | 384085 | [384085-caterpillar-king.json](./384085-caterpillar-king.json) |
+| Caterpillar Royale | 115466 | [115466-caterpillar-royale.json](./115466-caterpillar-royale.json) |
 | Caterra | 224079 | [224079-caterra.json](./224079-caterra.json) |
 | Caterzillar | 82950 | [82950-caterzillar.json](./82950-caterzillar.json) |
 | Catfighter, In the Lands of Sinners | 374059 | [374059-catfighter-in-the-lands-of-sinners.json](./374059-catfighter-in-the-lands-of-sinners.json) |
@@ -1817,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasing Tail | 160240 | [160240-chasing-tail.json](./160240-chasing-tail.json) |
 | Chasing the Universe | 367524 | [367524-chasing-the-universe.json](./367524-chasing-the-universe.json) |
 | Chasing the wind | 150697 | [150697-chasing-the-wind.json](./150697-chasing-the-wind.json) |
+| Chat Arena | 115424 | [115424-chat-arena.json](./115424-chat-arena.json) |
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
 | ChatBattlers | 316821 | [316821-chatbattlers.json](./316821-chatbattlers.json) |
 | ChatBBT | 291451 | [291451-chatbbt.json](./291451-chatbbt.json) |
@@ -2837,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claire Darksage and the Accursed Objects: Collector's Editon | 362828 | [362828-claire-darksage-and-the-accursed-objects-collectors-editon.json](./362828-claire-darksage-and-the-accursed-objects-collectors-editon.json) |
 | Claire's Cruisin' Cafe: Fest Frenzy | 266310 | [266310-claires-cruisin-cafe-fest-frenzy.json](./266310-claires-cruisin-cafe-fest-frenzy.json) |
 | Claire's Cruisin' Cafe: High Seas Cuisine | 193445 | [193445-claires-cruisin-cafe-high-seas-cuisine.json](./193445-claires-cruisin-cafe-high-seas-cuisine.json) |
+| Clairvoyance | 115488 | [115488-clairvoyance.json](./115488-clairvoyance.json) |
 | Clamb | 278553 | [278553-clamb.json](./278553-clamb.json) |
 | Clan and Crown | 402939 | [402939-clan-and-crown.json](./402939-clan-and-crown.json) |
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
@@ -5218,6 +5221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc Cannon | 317435 | [317435-croc-cannon.json](./317435-croc-cannon.json) |
 | Croc Legend of the Gobbos | 315020 | [315020-croc-legend-of-the-gobbos.json](./315020-croc-legend-of-the-gobbos.json) |
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
+| Croc's World Run | 115465 | [115465-crocs-world-run.json](./115465-crocs-world-run.json) |
 | Crocodile Blood: The Final Moments of Kurumizawa Keiko | 394154 | [394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json](./394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json) |
 | Crocodile Transformator | 217388 | [217388-crocodile-transformator.json](./217388-crocodile-transformator.json) |
 | Crocodracula: The Beginning | 216331 | [216331-crocodracula-the-beginning.json](./216331-crocodracula-the-beginning.json) |
