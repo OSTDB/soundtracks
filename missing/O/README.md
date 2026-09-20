@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okiro | 371886 | [371886-okiro.json](./371886-okiro.json) |
 | Oko | 128559 | [128559-oko.json](./128559-oko.json) |
 | Oktoberfest Break: Head to Head | 214518 | [214518-oktoberfest-break-head-to-head.json](./214518-oktoberfest-break-head-to-head.json) |
+| Oktoberfest: The Official Game | 67682 | [67682-oktoberfest-the-official-game.json](./67682-oktoberfest-the-official-game.json) |
 | Oku dake Drill Shougaku 6-nensei Kanji | 276467 | [276467-oku-dake-drill-shougaku-6-nensei-kanji.json](./276467-oku-dake-drill-shougaku-6-nensei-kanji.json) |
 | Oku dake Study Hangul Kiso Tango | 261375 | [261375-oku-dake-study-hangul-kiso-tango.json](./261375-oku-dake-study-hangul-kiso-tango.json) |
 | OkunoKa | 87961 | [87961-okunoka.json](./87961-okunoka.json) |
