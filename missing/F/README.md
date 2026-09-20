@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farland Story FX | 45953 | [45953-farland-story-fx.json](./45953-farland-story-fx.json) |
 | Farlands: Tiny Harvest | 378287 | [378287-farlands-tiny-harvest.json](./378287-farlands-tiny-harvest.json) |
 | Farlight 84 | 142862 | [142862-farlight-84.json](./142862-farlight-84.json) |
+| Farm and Click - Idle Hell Clicker | 95862 | [95862-farm-and-click-idle-hell-clicker.json](./95862-farm-and-click-idle-hell-clicker.json) |
 | Farm and Fix Simulator | 244785 | [244785-farm-and-fix-simulator.json](./244785-farm-and-fix-simulator.json) |
 | Farm Animals - Activity Book | 96059 | [96059-farm-animals-activity-book.json](./96059-farm-animals-activity-book.json) |
 | Farm Boy | 92507 | [92507-farm-boy.json](./92507-farm-boy.json) |
