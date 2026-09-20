@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of the Paladin: Deception's Plague | 171541 | [171541-realm-of-the-paladin-deceptions-plague.json](./171541-realm-of-the-paladin-deceptions-plague.json) |
 | Realm of Thrones | 356159 | [356159-realm-of-thrones.json](./356159-realm-of-thrones.json) |
 | Realm of Valor | 56503 | [56503-realm-of-valor.json](./56503-realm-of-valor.json) |
+| Realm of Virtuals | 116823 | [116823-realm-of-virtuals.json](./116823-realm-of-virtuals.json) |
 | Realm Royale Shadowfall Bundle | 115647 | [115647-realm-royale-shadowfall-bundle.json](./115647-realm-royale-shadowfall-bundle.json) |
 | Realm Survivors | 337163 | [337163-realm-survivors.json](./337163-realm-survivors.json) |
 | Realmguard | 404341 | [404341-realmguard.json](./404341-realmguard.json) |
@@ -1045,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Roar | 408736 | [408736-rebel-roar.json](./408736-rebel-roar.json) |
 | Rebellion: A Rogue Souls Like | 153393 | [153393-rebellion-a-rogue-souls-like.json](./153393-rebellion-a-rogue-souls-like.json) |
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
+| Rebirth | 116854 | [116854-rebirth.json](./116854-rebirth.json) |
 | Rebirth | 345525 | [345525-rebirth.json](./345525-rebirth.json) |
 | Rebirth | 78571 | [78571-rebirth.json](./78571-rebirth.json) |
 | Rebirth Fantasy Online | 116306 | [116306-rebirth-fantasy-online.json](./116306-rebirth-fantasy-online.json) |
@@ -1532,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remain At Your Desk | 401513 | [401513-remain-at-your-desk.json](./401513-remain-at-your-desk.json) |
 | Remaster Textures | 271488 | [271488-remaster-textures.json](./271488-remaster-textures.json) |
 | Rematch | 60008 | [60008-rematch.json](./60008-rematch.json) |
+| ReMaz! | 116859 | [116859-remaz.json](./116859-remaz.json) |
 | Remedy | 150516 | [150516-remedy.json](./150516-remedy.json) |
 | Remedy | 202325 | [202325-remedy.json](./202325-remedy.json) |
 | Remember Saint Patrick | 335079 | [335079-remember-saint-patrick.json](./335079-remember-saint-patrick.json) |
@@ -1821,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retool | 32974 | [32974-retool.json](./32974-retool.json) |
 | Retooled | 204071 | [204071-retooled.json](./204071-retooled.json) |
 | Retr0Mine | 386704 | [386704-retr0mine.json](./386704-retr0mine.json) |
+| Retrace | 116873 | [116873-retrace.json](./116873-retrace.json) |
 | Retribution: Universal Requiem | 164875 | [164875-retribution-universal-requiem.json](./164875-retribution-universal-requiem.json) |
 | Retrieval | 405598 | [405598-retrieval.json](./405598-retrieval.json) |
 | Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
@@ -1858,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Pocket Rocket | 208459 | [208459-retro-pocket-rocket.json](./208459-retro-pocket-rocket.json) |
 | Retro Racer | 148469 | [148469-retro-racer.json](./148469-retro-racer.json) |
 | Retro Racing 2 | 373614 | [373614-retro-racing-2.json](./373614-retro-racing-2.json) |
+| Retro Racing City | 116860 | [116860-retro-racing-city.json](./116860-retro-racing-city.json) |
 | Retro Rail Go! | 351104 | [351104-retro-rail-go.json](./351104-retro-rail-go.json) |
 | Retro Relics | 312194 | [312194-retro-relics.json](./312194-retro-relics.json) |
 | Retro Revolution 2 | 63230 | [63230-retro-revolution-2.json](./63230-retro-revolution-2.json) |
@@ -3256,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romania Prop Hunt | 324291 | [324291-romania-prop-hunt.json](./324291-romania-prop-hunt.json) |
 | Romanizer | 304569 | [304569-romanizer.json](./304569-romanizer.json) |
 | Romans From Mars | 62224 | [62224-romans-from-mars.json](./62224-romans-from-mars.json) |
+| Romans from Mars (Free-to-Play) | 116845 | [116845-romans-from-mars-free-to-play.json](./116845-romans-from-mars-free-to-play.json) |
 | Romantic Emperor | 404858 | [404858-romantic-emperor.json](./404858-romantic-emperor.json) |
 | Romantic Escapades | 297207 | [297207-romantic-escapades.json](./297207-romantic-escapades.json) |
 | Romantic Journey | 110979 | [110979-romantic-journey.json](./110979-romantic-journey.json) |
