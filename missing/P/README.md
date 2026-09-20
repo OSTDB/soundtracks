@@ -4704,6 +4704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Eliot | 337158 | [337158-project-eliot.json](./337158-project-eliot.json) |
 | Project: Fractured Reality | 347160 | [347160-project-fractured-reality.json](./347160-project-fractured-reality.json) |
 | Project: G-216 | 313480 | [313480-project-g-216.json](./313480-project-g-216.json) |
+| Project: Gemini | 122158 | [122158-project-gemini.json](./122158-project-gemini.json) |
 | Project: Genesis | 270195 | [270195-project-genesis.json](./270195-project-genesis.json) |
 | Project: Gorgon | 26836 | [26836-project-gorgon.json](./26836-project-gorgon.json) |
 | Project: Jurit | 385581 | [385581-project-jurit.json](./385581-project-jurit.json) |
@@ -5080,6 +5081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppies World 3D | 84800 | [84800-puppies-world-3d.json](./84800-puppies-world-3d.json) |
 | Puppy Balloon Ride | 213392 | [213392-puppy-balloon-ride.json](./213392-puppy-balloon-ride.json) |
 | Puppy Drome | 260669 | [260669-puppy-drome.json](./260669-puppy-drome.json) |
+| Puppy Palace | 122204 | [122204-puppy-palace.json](./122204-puppy-palace.json) |
 | Puppy Pipy | 151149 | [151149-puppy-pipy.json](./151149-puppy-pipy.json) |
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
 | Pups Treats | 359412 | [359412-pups-treats.json](./359412-pups-treats.json) |
