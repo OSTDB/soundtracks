@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fanciful Diamonds | 359398 | [359398-fanciful-diamonds.json](./359398-fanciful-diamonds.json) |
 | Fancy | 247033 | [247033-fancy.json](./247033-fancy.json) |
 | Fancy Island | 172735 | [172735-fancy-island.json](./172735-fancy-island.json) |
+| Fancy Nancy: Tea Party Time! | 66370 | [66370-fancy-nancy-tea-party-time.json](./66370-fancy-nancy-tea-party-time.json) |
 | Fancy Skiing 2: Online | 105312 | [105312-fancy-skiing-2-online.json](./105312-fancy-skiing-2-online.json) |
 | Fancy Skiing VR | 31759 | [31759-fancy-skiing-vr.json](./31759-fancy-skiing-vr.json) |
 | Fancy Solitaire | 147422 | [147422-fancy-solitaire.json](./147422-fancy-solitaire.json) |
