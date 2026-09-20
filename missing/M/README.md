@@ -1908,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Pak | 247027 | [247027-maze-pak.json](./247027-maze-pak.json) |
 | Maze Party | 150487 | [150487-maze-party.json](./150487-maze-party.json) |
 | Maze Puzzle | 277868 | [277868-maze-puzzle.json](./277868-maze-puzzle.json) |
+| Maze Quest 2: The Desert | 119587 | [119587-maze-quest-2-the-desert.json](./119587-maze-quest-2-the-desert.json) |
 | Maze Quest Master | 270186 | [270186-maze-quest-master.json](./270186-maze-quest-master.json) |
 | Maze Runner | 72108 | [72108-maze-runner.json](./72108-maze-runner.json) |
 | Maze Tanks | 252222 | [252222-maze-tanks.json](./252222-maze-tanks.json) |
