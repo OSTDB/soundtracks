@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Pinball | 219301 | [219301-car-mechanic-pinball.json](./219301-car-mechanic-pinball.json) |
 | Car Mechanic Simulator 2014 | 7571 | [7571-car-mechanic-simulator-2014.json](./7571-car-mechanic-simulator-2014.json) |
 | Car Mechanic Simulator VR | 119714 | [119714-car-mechanic-simulator-vr.json](./119714-car-mechanic-simulator-vr.json) |
+| Car Mechanic Simulator: Pocket Edition | 122871 | [122871-car-mechanic-simulator-pocket-edition.json](./122871-car-mechanic-simulator-pocket-edition.json) |
 | Car Mechanic Simulator: Pocket Edition 2 | 196825 | [196825-car-mechanic-simulator-pocket-edition-2.json](./196825-car-mechanic-simulator-pocket-edition-2.json) |
 | Car on a Stick | 123623 | [123623-car-on-a-stick.json](./123623-car-on-a-stick.json) |
 | Car Parking | 226295 | [226295-car-parking.json](./226295-car-parking.json) |
@@ -1690,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chantelise - A Tale of Two Sisters | 12525 | [12525-chantelise-a-tale-of-two-sisters.json](./12525-chantelise-a-tale-of-two-sisters.json) |
 | Chao Adventure | 225623 | [225623-chao-adventure.json](./225623-chao-adventure.json) |
 | Chao Adventure 2 | 225624 | [225624-chao-adventure-2.json](./225624-chao-adventure-2.json) |
+| Chao Dream Touch! Happy Anniversary | 122870 | [122870-chao-dream-touch-happy-anniversary.json](./122870-chao-dream-touch-happy-anniversary.json) |
 | Chao RPG | 326958 | [326958-chao-rpg.json](./326958-chao-rpg.json) |
 | Chaos | 300015 | [300015-chaos.json](./300015-chaos.json) |
 | Chaos | 91395 | [91395-chaos.json](./91395-chaos.json) |
@@ -4202,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Run: OvenSmash | 193973 | [193973-cookie-run-ovensmash.json](./193973-cookie-run-ovensmash.json) |
 | Cookie Run: Witch's Castle | 193964 | [193964-cookie-run-witchs-castle.json](./193964-cookie-run-witchs-castle.json) |
 | Cookie's Bakery | 181856 | [181856-cookies-bakery.json](./181856-cookies-bakery.json) |
+| Cookie's Bustle | 122887 | [122887-cookies-bustle.json](./122887-cookies-bustle.json) |
 | Cookies | 146702 | [146702-cookies.json](./146702-cookies.json) |
 | Cookies Cookies Cookies | 205243 | [205243-cookies-cookies-cookies.json](./205243-cookies-cookies-cookies.json) |
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
@@ -4542,6 +4545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Shooter Strike Zone | 283283 | [283283-counter-shooter-strike-zone.json](./283283-counter-shooter-strike-zone.json) |
 | Counter Shot: Source | 277387 | [277387-counter-shot-source.json](./277387-counter-shot-source.json) |
 | Counter Snipe | 265672 | [265672-counter-snipe.json](./265672-counter-snipe.json) |
+| Counter Spell Reforged | 122853 | [122853-counter-spell-reforged.json](./122853-counter-spell-reforged.json) |
 | Counter Terrorism - Minesweeper | 127025 | [127025-counter-terrorism-minesweeper.json](./127025-counter-terrorism-minesweeper.json) |
 | Counter-Fall | 127746 | [127746-counter-fall.json](./127746-counter-fall.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
