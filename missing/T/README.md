@@ -3289,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gorge | 322392 | [322392-the-gorge.json](./322392-the-gorge.json) |
 | The Goto Family's: The Island Murder Case | 150112 | [150112-the-goto-familys-the-island-murder-case.json](./150112-the-goto-familys-the-island-murder-case.json) |
 | The Grand Guignol | 271733 | [271733-the-grand-guignol.json](./271733-the-grand-guignol.json) |
+| The Grand Jump 5 | 99416 | [99416-the-grand-jump-5.json](./99416-the-grand-jump-5.json) |
 | The Grand Prismatic | 411613 | [411613-the-grand-prismatic.json](./411613-the-grand-prismatic.json) |
 | The Grand Way | 104462 | [104462-the-grand-way.json](./104462-the-grand-way.json) |
 | The Grandma from Coco in Sonic 1 | 325693 | [325693-the-grandma-from-coco-in-sonic-1.json](./325693-the-grandma-from-coco-in-sonic-1.json) |
@@ -3414,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heartbeat | 149610 | [149610-the-heartbeat.json](./149610-the-heartbeat.json) |
 | The Heat | 206752 | [206752-the-heat.json](./206752-the-heat.json) |
 | The Heavens | 366303 | [366303-the-heavens.json](./366303-the-heavens.json) |
+| The Hedgehogs | 99405 | [99405-the-hedgehogs.json](./99405-the-hedgehogs.json) |
 | The Heights | 244504 | [244504-the-heights.json](./244504-the-heights.json) |
 | The Heiress | 51604 | [51604-the-heiress.json](./51604-the-heiress.json) |
 | The Heist | 120316 | [120316-the-heist.json](./120316-the-heist.json) |
@@ -7757,6 +7759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Moon: Sigmund Minisode 1 & 2 (Holiday Special) | 332533 | [332533-to-the-moon-sigmund-minisode-1-and-2-holiday-special.json](./332533-to-the-moon-sigmund-minisode-1-and-2-holiday-special.json) |
 | To the Mountain | 331128 | [331128-to-the-mountain.json](./331128-to-the-mountain.json) |
 | To the Rescue | 359443 | [359443-to-the-rescue.json](./359443-to-the-rescue.json) |
+| To the Rescue! 2 | 99379 | [99379-to-the-rescue-2.json](./99379-to-the-rescue-2.json) |
 | To the Rescue! 3 | 96038 | [96038-to-the-rescue-3.json](./96038-to-the-rescue-3.json) |
 | To the Rescue! 5 | 87221 | [87221-to-the-rescue-5.json](./87221-to-the-rescue-5.json) |
 | To the Stars | 211235 | [211235-to-the-stars.json](./211235-to-the-stars.json) |
@@ -10191,6 +10194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tube Adventures | 19443 | [19443-tube-adventures.json](./19443-tube-adventures.json) |
 | Tube Adventures Offline Collection 1-3 | 186742 | [186742-tube-adventures-offline-collection-1-3.json](./186742-tube-adventures-offline-collection-1-3.json) |
 | Tube Be Continued | 272569 | [272569-tube-be-continued.json](./272569-tube-be-continued.json) |
+| Tube Jumpers | 99406 | [99406-tube-jumpers.json](./99406-tube-jumpers.json) |
 | Tube Panic | 40163 | [40163-tube-panic.json](./40163-tube-panic.json) |
 | Tube Rolling | 159794 | [159794-tube-rolling.json](./159794-tube-rolling.json) |
 | Tuber`s Run | 115017 | [115017-tuber-s-run.json](./115017-tuber-s-run.json) |
