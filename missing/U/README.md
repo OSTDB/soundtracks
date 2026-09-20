@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undergone: Before | 390658 | [390658-undergone-before.json](./390658-undergone-before.json) |
 | Underground | 195709 | [195709-underground.json](./195709-underground.json) |
 | Underground | 232018 | [232018-underground.json](./232018-underground.json) |
+| Underground | 77009 | [77009-underground.json](./77009-underground.json) |
 | Underground 2077 | 174858 | [174858-underground-2077.json](./174858-underground-2077.json) |
 | Underground Blossom | 246917 | [246917-underground-blossom.json](./246917-underground-blossom.json) |
 | Underground Defense Force: Sword and Sorcery and Swarm of Insects | 270108 | [270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json](./270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json) |
