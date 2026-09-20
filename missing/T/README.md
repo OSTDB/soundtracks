@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Arcade 3 | 393613 | [393613-taito-arcade-3.json](./393613-taito-arcade-3.json) |
 | Taito Chase H.Q. | 48629 | [48629-taito-chase-h-q.json](./48629-taito-chase-h-q.json) |
 | Taito Memories II Gekan | 94711 | [94711-taito-memories-ii-gekan.json](./94711-taito-memories-ii-gekan.json) |
+| Taito Memories Pocket | 71784 | [71784-taito-memories-pocket.json](./71784-taito-memories-pocket.json) |
 | Taiwan 2013 | 291988 | [291988-taiwan-2013.json](./291988-taiwan-2013.json) |
 | Taiwan Coolfox | 351603 | [351603-taiwan-coolfox.json](./351603-taiwan-coolfox.json) |
 | Taiwan Mahjong | 334658 | [334658-taiwan-mahjong.json](./334658-taiwan-mahjong.json) |
@@ -307,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takamori Puzzle | 264328 | [264328-takamori-puzzle.json](./264328-takamori-puzzle.json) |
 | Takanaria | 113495 | [113495-takanaria.json](./113495-takanaria.json) |
 | Takara Cards | 194401 | [194401-takara-cards.json](./194401-takara-cards.json) |
+| Take 'Em Out | 71802 | [71802-take-em-out.json](./71802-take-em-out.json) |
 | Take a Break! Crosswords | 76557 | [76557-take-a-break-crosswords.json](./76557-take-a-break-crosswords.json) |
 | Take a Little | 238737 | [238737-take-a-little.json](./238737-take-a-little.json) |
 | Take a piss like a woman | 330160 | [330160-take-a-piss-like-a-woman.json](./330160-take-a-piss-like-a-woman.json) |
@@ -1435,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi-tachi no Gogo II: Minako | 247182 | [247182-tenshi-tachi-no-gogo-ii-minako.json](./247182-tenshi-tachi-no-gogo-ii-minako.json) |
 | Tenshi-tachi no Gogo III: Bangai-hen | 270791 | [270791-tenshi-tachi-no-gogo-iii-bangai-hen.json](./270791-tenshi-tachi-no-gogo-iii-bangai-hen.json) |
 | Tenshoku Maou | 381693 | [381693-tenshoku-maou.json](./381693-tenshoku-maou.json) |
+| Tenshou Gakuen Gensouroku | 71807 | [71807-tenshou-gakuen-gensouroku.json](./71807-tenshou-gakuen-gensouroku.json) |
 | Tension | 93966 | [93966-tension.json](./93966-tension.json) |
 | Tensou Sentai Goseiger Super Battle Daishuugou! | 327603 | [327603-tensou-sentai-goseiger-super-battle-daishuugou.json](./327603-tensou-sentai-goseiger-super-battle-daishuugou.json) |
 | Tensura: King of Monsters | 142849 | [142849-tensura-king-of-monsters.json](./142849-tensura-king-of-monsters.json) |
@@ -1481,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Shift | 355074 | [355074-terminal-shift.json](./355074-terminal-shift.json) |
 | Terminal Sickness | 110396 | [110396-terminal-sickness.json](./110396-terminal-sickness.json) |
 | Terminal Singularity | 158701 | [158701-terminal-singularity.json](./158701-terminal-singularity.json) |
+| Terminal Terror | 71762 | [71762-terminal-terror.json](./71762-terminal-terror.json) |
 | Terminal Toilet Simulator | 352299 | [352299-terminal-toilet-simulator.json](./352299-terminal-toilet-simulator.json) |
 | Terminal V | 273403 | [273403-terminal-v.json](./273403-terminal-v.json) |
 | Terminal Velocity | 11629 | [11629-terminal-velocity.json](./11629-terminal-velocity.json) |
@@ -1996,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Armardisp | 260376 | [260376-the-armardisp.json](./260376-the-armardisp.json) |
 | The Arrangement | 73242 | [73242-the-arrangement.json](./73242-the-arrangement.json) |
 | The Arrogant Kaiju Princess and The Detective Servant | 267060 | [267060-the-arrogant-kaiju-princess-and-the-detective-servant.json](./267060-the-arrogant-kaiju-princess-and-the-detective-servant.json) |
+| The Arrow Man | 71810 | [71810-the-arrow-man.json](./71810-the-arrow-man.json) |
 | The Arson Betrayal | 239312 | [239312-the-arson-betrayal.json](./239312-the-arson-betrayal.json) |
 | The Art of Chess | 14269 | [14269-the-art-of-chess.json](./14269-the-art-of-chess.json) |
 | The Art of Creation | 400362 | [400362-the-art-of-creation.json](./400362-the-art-of-creation.json) |
@@ -3278,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gateway to Hell | 271752 | [271752-the-gateway-to-hell.json](./271752-the-gateway-to-hell.json) |
 | The Gateway Trilogy | 51980 | [51980-the-gateway-trilogy.json](./51980-the-gateway-trilogy.json) |
 | The Gazebo | 358949 | [358949-the-gazebo.json](./358949-the-gazebo.json) |
+| The Geekwad: Games of the Galaxy | 71772 | [71772-the-geekwad-games-of-the-galaxy.json](./71772-the-geekwad-games-of-the-galaxy.json) |
 | The Gem Collector | 85435 | [85435-the-gem-collector.json](./85435-the-gem-collector.json) |
 | The Gene Machine | 19672 | [19672-the-gene-machine.json](./19672-the-gene-machine.json) |
 | The General | 174369 | [174369-the-general.json](./174369-the-general.json) |
@@ -3558,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House Unrest | 392166 | [392166-the-house-unrest.json](./392166-the-house-unrest.json) |
 | The House Where They Dwell | 192389 | [192389-the-house-where-they-dwell.json](./192389-the-house-where-they-dwell.json) |
 | The Howler | 11838 | [11838-the-howler.json](./11838-the-howler.json) |
+| The Hula Hamsters | 71797 | [71797-the-hula-hamsters.json](./71797-the-hula-hamsters.json) |
 | The Human Heart | 177913 | [177913-the-human-heart.json](./177913-the-human-heart.json) |
 | The Humans 2: Jurassic Levels | 39032 | [39032-the-humans-2-jurassic-levels.json](./39032-the-humans-2-jurassic-levels.json) |
 | The Humans Collection | 103199 | [103199-the-humans-collection.json](./103199-the-humans-collection.json) |
@@ -3925,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hike | 236267 | [236267-the-last-hike.json](./236267-the-last-hike.json) |
 | The Last Hope | 25627 | [25627-the-last-hope.json](./25627-the-last-hope.json) |
 | The Last Hope: Atomic Bomb - Crypto War | 88195 | [88195-the-last-hope-atomic-bomb-crypto-war.json](./88195-the-last-hope-atomic-bomb-crypto-war.json) |
+| The Last Inca | 71771 | [71771-the-last-inca.json](./71771-the-last-inca.json) |
 | The Last Janitor: Data Cleanup | 361680 | [361680-the-last-janitor-data-cleanup.json](./361680-the-last-janitor-data-cleanup.json) |
 | The Last Journey | 267924 | [267924-the-last-journey.json](./267924-the-last-journey.json) |
 | The Last Kids on Earth: Happy Apocalypse to You | 256865 | [256865-the-last-kids-on-earth-happy-apocalypse-to-you.json](./256865-the-last-kids-on-earth-happy-apocalypse-to-you.json) |
@@ -4885,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Powerpuff Girls: Monkey Mania | 309101 | [309101-the-powerpuff-girls-monkey-mania.json](./309101-the-powerpuff-girls-monkey-mania.json) |
 | The Powerpuff Girls: Princess Snorebucks | 59381 | [59381-the-powerpuff-girls-princess-snorebucks.json](./59381-the-powerpuff-girls-princess-snorebucks.json) |
 | The PowerPuff Girls: Relish Rampage | 19415 | [19415-the-powerpuff-girls-relish-rampage.json](./19415-the-powerpuff-girls-relish-rampage.json) |
+| The Premiership | 71787 | [71787-the-premiership.json](./71787-the-premiership.json) |
 | The Preschoolers: Season 1 - Extended Edition | 233006 | [233006-the-preschoolers-season-1-extended-edition.json](./233006-the-preschoolers-season-1-extended-edition.json) |
 | The President | 209640 | [209640-the-president.json](./209640-the-president.json) |
 | The Presidential Assassins | 345004 | [345004-the-presidential-assassins.json](./345004-the-presidential-assassins.json) |
@@ -5432,6 +5441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slug | 51732 | [51732-the-slug.json](./51732-the-slug.json) |
 | The Small Christmas Game | 178580 | [178580-the-small-christmas-game.json](./178580-the-small-christmas-game.json) |
 | The Smash Cars Tournament | 195145 | [195145-the-smash-cars-tournament.json](./195145-the-smash-cars-tournament.json) |
+| The Smelly Mystery | 71809 | [71809-the-smelly-mystery.json](./71809-the-smelly-mystery.json) |
 | The Smiler | 305365 | [305365-the-smiler.json](./305365-the-smiler.json) |
 | The Smiling Man | 194452 | [194452-the-smiling-man.json](./194452-the-smiling-man.json) |
 | The Smiling Man: Remake | 275143 | [275143-the-smiling-man-remake.json](./275143-the-smiling-man-remake.json) |
@@ -10419,6 +10429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Run | 87226 | [87226-tunnel-run.json](./87226-tunnel-run.json) |
 | Tunnel Town | 106380 | [106380-tunnel-town.json](./106380-tunnel-town.json) |
 | Tunnel View | 180699 | [180699-tunnel-view.json](./180699-tunnel-view.json) |
+| Tunnels of Armageddon | 71808 | [71808-tunnels-of-armageddon.json](./71808-tunnels-of-armageddon.json) |
 | Tunnels of Fahad | 74765 | [74765-tunnels-of-fahad.json](./74765-tunnels-of-fahad.json) |
 | Tunnels of Terror! | 260986 | [260986-tunnels-of-terror.json](./260986-tunnels-of-terror.json) |
 | TunnelWorm | 87108 | [87108-tunnelworm.json](./87108-tunnelworm.json) |
