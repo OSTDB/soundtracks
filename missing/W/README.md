@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warplanes: WW2 Dogfight | 112929 | [112929-warplanes-ww2-dogfight.json](./112929-warplanes-ww2-dogfight.json) |
 | Warplock | 377152 | [377152-warplock.json](./377152-warplock.json) |
 | WarPods | 107865 | [107865-warpods.json](./107865-warpods.json) |
+| Warpside | 108274 | [108274-warpside.json](./108274-warpside.json) |
 | Warpsquad | 216844 | [216844-warpsquad.json](./216844-warpsquad.json) |
 | WarpVector | 215665 | [215665-warpvector.json](./215665-warpvector.json) |
 | Warrecs 2 | 159817 | [159817-warrecs-2.json](./159817-warrecs-2.json) |
@@ -910,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weather Lord: Following the Princess - Collector's Edition | 33164 | [33164-weather-lord-following-the-princess-collectors-edition.json](./33164-weather-lord-following-the-princess-collectors-edition.json) |
 | Weather Report | 362919 | [362919-weather-report.json](./362919-weather-report.json) |
 | Weave | 108823 | [108823-weave.json](./108823-weave.json) |
+| Weave the Line - Puzzle games | 108278 | [108278-weave-the-line-puzzle-games.json](./108278-weave-the-line-puzzle-games.json) |
 | Weaveborn Heroes | 323517 | [323517-weaveborn-heroes.json](./323517-weaveborn-heroes.json) |
 | Web City 1 | 82834 | [82834-web-city-1.json](./82834-web-city-1.json) |
 | Web Crawlies | 236523 | [236523-web-crawlies.json](./236523-web-crawlies.json) |
@@ -2303,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Puzzle | 102213 | [102213-word-search-puzzle.json](./102213-word-search-puzzle.json) |
 | Word Search: Classic Game | 323326 | [323326-word-search-classic-game.json](./323326-word-search-classic-game.json) |
 | Word Shop - Brain Puzzle Games | 101487 | [101487-word-shop-brain-puzzle-games.json](./101487-word-shop-brain-puzzle-games.json) |
+| Word Shuffle | 108263 | [108263-word-shuffle.json](./108263-word-shuffle.json) |
 | Word Soup | 23405 | [23405-word-soup.json](./23405-word-soup.json) |
 | Word Space | 270775 | [270775-word-space.json](./270775-word-space.json) |
 | Word Spinner | 71546 | [71546-word-spinner.json](./71546-word-spinner.json) |
@@ -2365,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words with Gizmos | 384679 | [384679-words-with-gizmos.json](./384679-words-with-gizmos.json) |
 | Words-Attack | 40747 | [40747-words-attack.json](./40747-words-attack.json) |
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
+| Wordsdom 2 | 108287 | [108287-wordsdom-2.json](./108287-wordsdom-2.json) |
 | Wordsearch Attack | 368543 | [368543-wordsearch-attack.json](./368543-wordsearch-attack.json) |
 | Wordslop | 402911 | [402911-wordslop.json](./402911-wordslop.json) |
 | Wordsock Classic | 253431 | [253431-wordsock-classic.json](./253431-wordsock-classic.json) |
