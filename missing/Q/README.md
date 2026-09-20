@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrant 7 | 322393 | [322393-quadrant-7.json](./322393-quadrant-7.json) |
 | Quadratic Puzzle 5 | 207376 | [207376-quadratic-puzzle-5.json](./207376-quadratic-puzzle-5.json) |
 | Quadraticus HD | 263572 | [263572-quadraticus-hd.json](./263572-quadraticus-hd.json) |
+| Quadrax III | 69590 | [69590-quadrax-iii.json](./69590-quadrax-iii.json) |
 | Quadremor | 235977 | [235977-quadremor.json](./235977-quadremor.json) |
 | Quadrilateral Battle | 174846 | [174846-quadrilateral-battle.json](./174846-quadrilateral-battle.json) |
 | Quadrium | 244865 | [244865-quadrium.json](./244865-quadrium.json) |
