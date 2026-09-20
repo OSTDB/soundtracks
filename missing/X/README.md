@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Blades HD Gold | 230814 | [230814-x-blades-hd-gold.json](./230814-x-blades-hd-gold.json) |
 | X-Bladez: Inline Skater | 43941 | [43941-x-bladez-inline-skater.json](./43941-x-bladez-inline-skater.json) |
 | X-Car Stunts | 102156 | [102156-x-car-stunts.json](./102156-x-car-stunts.json) |
+| X-COM: em@il Games | 96507 | [96507-x-com-em-il-games.json](./96507-x-com-em-il-games.json) |
 | X-Force Genesis | 165652 | [165652-x-force-genesis.json](./165652-x-force-genesis.json) |
 | X-Force Under Attack | 251694 | [251694-x-force-under-attack.json](./251694-x-force-under-attack.json) |
 | X-Man | 79301 | [79301-x-man.json](./79301-x-man.json) |
