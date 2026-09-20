@@ -2646,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Project | 133419 | [133419-green-project.json](./133419-green-project.json) |
 | Green Run | 107197 | [107197-green-run.json](./107197-green-run.json) |
 | Green Sans | 232423 | [232423-green-sans.json](./232423-green-sans.json) |
+| Green Slaugther | 87973 | [87973-green-slaugther.json](./87973-green-slaugther.json) |
 | Green Star Revenge 3: Back to the Safe Sear Temples | 280754 | [280754-green-star-revenge-3-back-to-the-safe-sear-temples.json](./280754-green-star-revenge-3-back-to-the-safe-sear-temples.json) |
 | Green Steel | 161361 | [161361-green-steel.json](./161361-green-steel.json) |
 | Green Suits | 408735 | [408735-green-suits.json](./408735-green-suits.json) |
