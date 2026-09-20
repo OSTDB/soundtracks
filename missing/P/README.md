@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phibos | 243394 | [243394-phibos.json](./243394-phibos.json) |
 | Phil of the Future | 49387 | [49387-phil-of-the-future.json](./49387-phil-of-the-future.json) |
 | Phil's Contract | 312184 | [312184-phils-contract.json](./312184-phils-contract.json) |
+| Phileas Fogg's Balloon Battles | 98235 | [98235-phileas-foggs-balloon-battles.json](./98235-phileas-foggs-balloon-battles.json) |
 | Philomel | 341582 | [341582-philomel.json](./341582-philomel.json) |
 | Philosoma | 20638 | [20638-philosoma.json](./20638-philosoma.json) |
 | Philosopher's Stone | 205087 | [205087-philosophers-stone.json](./205087-philosophers-stone.json) |
@@ -3618,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PongBall | 255993 | [255993-pongball.json](./255993-pongball.json) |
 | Pongémon | 285035 | [285035-pongemon.json](./285035-pongemon.json) |
 | Pongeon | 184641 | [184641-pongeon.json](./184641-pongeon.json) |
+| Pongis | 98223 | [98223-pongis.json](./98223-pongis.json) |
 | Pongis Jump | 126000 | [126000-pongis-jump.json](./126000-pongis-jump.json) |
 | Pongs | 178609 | [178609-pongs.json](./178609-pongs.json) |
 | Pongspin | 253390 | [253390-pongspin.json](./253390-pongspin.json) |
