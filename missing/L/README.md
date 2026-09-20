@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Djel | 12176 | [12176-legend-of-djel.json](./12176-legend-of-djel.json) |
 | Legend of Dungeon | 7885 | [7885-legend-of-dungeon.json](./7885-legend-of-dungeon.json) |
 | Legend of Dungeon: Masters | 34394 | [34394-legend-of-dungeon-masters.json](./34394-legend-of-dungeon-masters.json) |
+| Legend of Eeeg | 107643 | [107643-legend-of-eeeg.json](./107643-legend-of-eeeg.json) |
 | Legend of Empress | 255118 | [255118-legend-of-empress.json](./255118-legend-of-empress.json) |
 | Legend of Fae | 16262 | [16262-legend-of-fae.json](./16262-legend-of-fae.json) |
 | Legend of Fairies | 73814 | [73814-legend-of-fairies.json](./73814-legend-of-fairies.json) |
