@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Breeze | 163989 | [163989-once-upon-a-breeze.json](./163989-once-upon-a-breeze.json) |
 | Once Upon A Card | 408765 | [408765-once-upon-a-card.json](./408765-once-upon-a-card.json) |
 | Once Upon a Child - Full Stop | 375294 | [375294-once-upon-a-child-full-stop.json](./375294-once-upon-a-child-full-stop.json) |
+| Once Upon a Crime in the West | 118841 | [118841-once-upon-a-crime-in-the-west.json](./118841-once-upon-a-crime-in-the-west.json) |
 | Once Upon a Death | 115696 | [115696-once-upon-a-death.json](./115696-once-upon-a-death.json) |
 | Once upon a Dungeon II | 226727 | [226727-once-upon-a-dungeon-ii.json](./226727-once-upon-a-dungeon-ii.json) |
 | Once Upon a Jester | 159553 | [159553-once-upon-a-jester.json](./159553-once-upon-a-jester.json) |
