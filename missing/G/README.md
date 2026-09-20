@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gacha Adventure | 375323 | [375323-gacha-adventure.json](./375323-gacha-adventure.json) |
 | Gacha Capsule Shop Simulator: Akihabara | 386674 | [386674-gacha-capsule-shop-simulator-akihabara.json](./386674-gacha-capsule-shop-simulator-akihabara.json) |
 | Gacha Club | 142408 | [142408-gacha-club.json](./142408-gacha-club.json) |
+| Gacha Life | 125828 | [125828-gacha-life.json](./125828-gacha-life.json) |
 | Gacha Pets | 296531 | [296531-gacha-pets.json](./296531-gacha-pets.json) |
 | Gachaminer | 180227 | [180227-gachaminer.json](./180227-gachaminer.json) |
 | Gachi Heroes 2: Flexboll | 127191 | [127191-gachi-heroes-2-flexboll.json](./127191-gachi-heroes-2-flexboll.json) |
@@ -2191,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo Sport: Digital Deluxe Edition | 138776 | [138776-gran-turismo-sport-digital-deluxe-edition.json](./138776-gran-turismo-sport-digital-deluxe-edition.json) |
 | Gran Turismo Sport: Spec II | 138777 | [138777-gran-turismo-sport-spec-ii.json](./138777-gran-turismo-sport-spec-ii.json) |
 | Gran Turismo Sport: Steelbook Edition | 138771 | [138771-gran-turismo-sport-steelbook-edition.json](./138771-gran-turismo-sport-steelbook-edition.json) |
+| Grana Embrace Chapter 1 | 125815 | [125815-grana-embrace-chapter-1.json](./125815-grana-embrace-chapter-1.json) |
 | Granada | 280323 | [280323-granada.json](./280323-granada.json) |
 | Granado Espada M | 197354 | [197354-granado-espada-m.json](./197354-granado-espada-m.json) |
 | Granblue Fantasy Versus Rising: Color Set 1 | 332820 | [332820-granblue-fantasy-versus-rising-color-set-1.json](./332820-granblue-fantasy-versus-rising-color-set-1.json) |
