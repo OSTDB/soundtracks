@@ -1898,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Rewind: Video Store Simulator | 346334 | [346334-retro-rewind-video-store-simulator.json](./346334-retro-rewind-video-store-simulator.json) |
 | Retro Road Rumble | 84843 | [84843-retro-road-rumble.json](./84843-retro-road-rumble.json) |
 | Retro RPG Online 2 | 124233 | [124233-retro-rpg-online-2.json](./124233-retro-rpg-online-2.json) |
+| Retro Runner: Endless Runner Adventure | 96490 | [96490-retro-runner-endless-runner-adventure.json](./96490-retro-runner-endless-runner-adventure.json) |
 | Retro Santa Run | 327434 | [327434-retro-santa-run.json](./327434-retro-santa-run.json) |
 | Retro Shooter Rampage Bundle | 154489 | [154489-retro-shooter-rampage-bundle.json](./154489-retro-shooter-rampage-bundle.json) |
 | Retro Slam Tennis | 410360 | [410360-retro-slam-tennis.json](./410360-retro-slam-tennis.json) |
