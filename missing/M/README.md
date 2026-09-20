@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
 | Magic Klondike | 232561 | [232561-magic-klondike.json](./232561-magic-klondike.json) |
 | Magic Knight Rayearth | 38375 | [38375-magic-knight-rayearth.json](./38375-magic-knight-rayearth.json) |
+| Magic Knight Rayearth | 78959 | [78959-magic-knight-rayearth.json](./78959-magic-knight-rayearth.json) |
 | Magic Knight Rayearth 2: Making of Magic Knight | 45265 | [45265-magic-knight-rayearth-2-making-of-magic-knight.json](./45265-magic-knight-rayearth-2-making-of-magic-knight.json) |
 | Magic Labyrinth 3D | 279119 | [279119-magic-labyrinth-3d.json](./279119-magic-labyrinth-3d.json) |
 | Magic League | 99016 | [99016-magic-league.json](./99016-magic-league.json) |
@@ -2416,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Minis: Volume 3 | 45996 | [45996-mega-minis-volume-3.json](./45996-mega-minis-volume-3.json) |
 | Mega Miracle Force | 114784 | [114784-mega-miracle-force.json](./114784-mega-miracle-force.json) |
 | Mega Museum | 108294 | [108294-mega-museum.json](./108294-mega-museum.json) |
+| Mega Pede | 78990 | [78990-mega-pede.json](./78990-mega-pede.json) |
 | Mega Pony | 39604 | [39604-mega-pony.json](./39604-mega-pony.json) |
 | Mega Punchy Golf | 120935 | [120935-mega-punchy-golf.json](./120935-mega-punchy-golf.json) |
 | Mega Serval | 224750 | [224750-mega-serval.json](./224750-mega-serval.json) |
@@ -4700,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 335112 | [335112-monopoly.json](./335112-monopoly.json) |
 | Monopoly | 335884 | [335884-monopoly.json](./335884-monopoly.json) |
 | Monopoly | 37740 | [37740-monopoly.json](./37740-monopoly.json) |
+| Monopoly Casino | 78950 | [78950-monopoly-casino.json](./78950-monopoly-casino.json) |
 | Monopoly Collection | 50615 | [50615-monopoly-collection.json](./50615-monopoly-collection.json) |
 | Monopoly Junior | 295935 | [295935-monopoly-junior.json](./295935-monopoly-junior.json) |
 | Monopoly One | 55944 | [55944-monopoly-one.json](./55944-monopoly-one.json) |
@@ -4880,6 +4883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Ops 2 | 341333 | [341333-monster-ops-2.json](./341333-monster-ops-2.json) |
 | Monster Ops 3 | 341334 | [341334-monster-ops-3.json](./341334-monster-ops-3.json) |
 | Monster Ops 4 | 341335 | [341335-monster-ops-4.json](./341335-monster-ops-4.json) |
+| Monster Pack Volume 1 | 78937 | [78937-monster-pack-volume-1.json](./78937-monster-pack-volume-1.json) |
 | Monster Pack Volume 2 | 98947 | [98947-monster-pack-volume-2.json](./98947-monster-pack-volume-2.json) |
 | Monster Parlor | 375858 | [375858-monster-parlor.json](./375858-monster-parlor.json) |
 | Monster partner | 61619 | [61619-monster-partner.json](./61619-monster-partner.json) |
