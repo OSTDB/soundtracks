@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Pigeons | 348776 | [348776-war-pigeons.json](./348776-war-pigeons.json) |
 | War Pinball | 209715 | [209715-war-pinball.json](./209715-war-pinball.json) |
 | War Pirates | 237639 | [237639-war-pirates.json](./237639-war-pirates.json) |
+| War Platform | 112752 | [112752-war-platform.json](./112752-war-platform.json) |
 | War Remains | 124265 | [124265-war-remains.json](./124265-war-remains.json) |
 | War Robots Shooting Simulator | 270181 | [270181-war-robots-shooting-simulator.json](./270181-war-robots-shooting-simulator.json) |
 | War Robots: Frontiers - Lancelot Rising | 335099 | [335099-war-robots-frontiers-lancelot-rising.json](./335099-war-robots-frontiers-lancelot-rising.json) |
@@ -1762,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Glory | 212247 | [212247-wings-of-glory.json](./212247-wings-of-glory.json) |
 | Wings of Honour: Battles of the Red Baron | 21341 | [21341-wings-of-honour-battles-of-the-red-baron.json](./21341-wings-of-honour-battles-of-the-red-baron.json) |
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
+| Wings of Virtus | 112772 | [112772-wings-of-virtus.json](./112772-wings-of-virtus.json) |
 | Wings Through Time | 174731 | [174731-wings-through-time.json](./174731-wings-through-time.json) |
 | Wings VR | 211221 | [211221-wings-vr.json](./211221-wings-vr.json) |
 | Wings: Emulated Amiga Edition | 154945 | [154945-wings-emulated-amiga-edition.json](./154945-wings-emulated-amiga-edition.json) |
