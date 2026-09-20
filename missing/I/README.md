@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus: Iceholm Outpost | 262457 | [262457-icarus-iceholm-outpost.json](./262457-icarus-iceholm-outpost.json) |
 | Icarus: Styx Map Pack | 204686 | [204686-icarus-styx-map-pack.json](./204686-icarus-styx-map-pack.json) |
 | Icarus: Tecton Outpost | 262458 | [262458-icarus-tecton-outpost.json](./262458-icarus-tecton-outpost.json) |
+| Icarus: The Day 4 | 65736 | [65736-icarus-the-day-4.json](./65736-icarus-the-day-4.json) |
 | Icarus.1 | 25947 | [25947-icarus-1.json](./25947-icarus-1.json) |
 | ICBM: Escalation - Endless October | 372533 | [372533-icbm-escalation-endless-october.json](./372533-icbm-escalation-endless-october.json) |
 | Ice | 342173 | [342173-ice.json](./342173-ice.json) |
