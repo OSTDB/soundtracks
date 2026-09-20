@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Days LxH | 178079 | [178079-school-days-lxh.json](./178079-school-days-lxh.json) |
 | School Days Simulator | 303080 | [303080-school-days-simulator.json](./303080-school-days-simulator.json) |
 | School Exit Class 8 | 360079 | [360079-school-exit-class-8.json](./360079-school-exit-class-8.json) |
+| School Grounds | 112738 | [112738-school-grounds.json](./112738-school-grounds.json) |
 | School Hero | 279113 | [279113-school-hero.json](./279113-school-hero.json) |
 | School Idol QT Cool | 127933 | [127933-school-idol-qt-cool.json](./127933-school-idol-qt-cool.json) |
 | School Life Simulator | 97049 | [97049-school-life-simulator.json](./97049-school-life-simulator.json) |
@@ -3524,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singularity | 77285 | [77285-singularity.json](./77285-singularity.json) |
 | Singularity - Modern Lights Out | 128567 | [128567-singularity-modern-lights-out.json](./128567-singularity-modern-lights-out.json) |
 | Singularity Runner | 219678 | [219678-singularity-runner.json](./219678-singularity-runner.json) |
+| Singularity Shooter | 112728 | [112728-singularity-shooter.json](./112728-singularity-shooter.json) |
 | Singularium | 270124 | [270124-singularium.json](./270124-singularium.json) |
 | Singulier | 413634 | [413634-singulier.json](./413634-singulier.json) |
 | Sinij Parovoz | 301402 | [301402-sinij-parovoz.json](./301402-sinij-parovoz.json) |
@@ -4014,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughter Until Death | 274217 | [274217-slaughter-until-death.json](./274217-slaughter-until-death.json) |
 | Slaughterhouse | 149596 | [149596-slaughterhouse.json](./149596-slaughterhouse.json) |
 | Slav Tiles | 198505 | [198505-slav-tiles.json](./198505-slav-tiles.json) |
+| Slave Ghost | 112760 | [112760-slave-ghost.json](./112760-slave-ghost.json) |
 | Slave Master: The Game | 111732 | [111732-slave-master-the-game.json](./111732-slave-master-the-game.json) |
 | Slave of Lust | 219691 | [219691-slave-of-lust.json](./219691-slave-of-lust.json) |
 | Slave Princess Finne: Why Did She Sell Out Her Own Kingdom? | 214179 | [214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json](./214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json) |
@@ -4194,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Weapon Master | 297614 | [297614-slime-weapon-master.json](./297614-slime-weapon-master.json) |
 | Slime World | 41999 | [41999-slime-world.json](./41999-slime-world.json) |
 | Slime-san | 28069 | [28069-slime-san.json](./28069-slime-san.json) |
+| Slime-san: Content Creator | 112734 | [112734-slime-san-content-creator.json](./112734-slime-san-content-creator.json) |
 | Slime: Desulted | 183465 | [183465-slime-desulted.json](./183465-slime-desulted.json) |
 | Slime:Evo | 143021 | [143021-slime-evo.json](./143021-slime-evo.json) |
 | Slime's Journey | 378316 | [378316-slimes-journey.json](./378316-slimes-journey.json) |
@@ -8335,6 +8339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Hunter: Exciting Ice Hockey | 48618 | [48618-stick-hunter-exciting-ice-hockey.json](./48618-stick-hunter-exciting-ice-hockey.json) |
 | Stick Infinite Kingdom | 310934 | [310934-stick-infinite-kingdom.json](./310934-stick-infinite-kingdom.json) |
 | Stick It! | 312183 | [312183-stick-it.json](./312183-stick-it.json) |
+| Stick man Flipper | 112742 | [112742-stick-man-flipper.json](./112742-stick-man-flipper.json) |
 | Stick Man Rescue | 44501 | [44501-stick-man-rescue.json](./44501-stick-man-rescue.json) |
 | Stick Nightmare | 41971 | [41971-stick-nightmare.json](./41971-stick-nightmare.json) |
 | Stick Ninja | 122154 | [122154-stick-ninja.json](./122154-stick-ninja.json) |
