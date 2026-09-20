@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keplerth | 95587 | [95587-keplerth.json](./95587-keplerth.json) |
 | Ker-Chunk! | 312159 | [312159-ker-chunk.json](./312159-ker-chunk.json) |
 | Kerbal Space Program 2 | 121759 | [121759-kerbal-space-program-2.json](./121759-kerbal-space-program-2.json) |
+| Kerbal Space Program: Breaking Ground | 118176 | [118176-kerbal-space-program-breaking-ground.json](./118176-kerbal-space-program-breaking-ground.json) |
 | Kerbal Space Program: Enhanced Edition Complete | 139970 | [139970-kerbal-space-program-enhanced-edition-complete.json](./139970-kerbal-space-program-enhanced-edition-complete.json) |
 | Kerf: Sawmill Tycoon | 413677 | [413677-kerf-sawmill-tycoon.json](./413677-kerf-sawmill-tycoon.json) |
 | Keri-hime Sweets | 212454 | [212454-keri-hime-sweets.json](./212454-keri-hime-sweets.json) |
