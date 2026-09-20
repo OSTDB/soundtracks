@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NEW Again Beauty | 106596 | [106596-new-again-beauty.json](./106596-new-again-beauty.json) |
 | New Atelier Rorona: The Alchemist of Arland | 82105 | [82105-new-atelier-rorona-the-alchemist-of-arland.json](./82105-new-atelier-rorona-the-alchemist-of-arland.json) |
 | New Athens | 179148 | [179148-new-athens.json](./179148-new-athens.json) |
+| New Baby Sister | 106378 | [106378-new-baby-sister.json](./106378-new-baby-sister.json) |
 | New Baseball | 80490 | [80490-new-baseball.json](./80490-new-baseball.json) |
 | New Boggle Boggle | 159185 | [159185-new-boggle-boggle.json](./159185-new-boggle-boggle.json) |
 | New Centurions | 93507 | [93507-new-centurions.json](./93507-new-centurions.json) |
