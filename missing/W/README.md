@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Vermintide 2 - Deluxe Edition | 202218 | [202218-warhammer-vermintide-2-deluxe-edition.json](./202218-warhammer-vermintide-2-deluxe-edition.json) |
 | Warhammer: Vermintide 2 - Necromancer | 262658 | [262658-warhammer-vermintide-2-necromancer.json](./262658-warhammer-vermintide-2-necromancer.json) |
 | Warhammer: Vermintide 2 - Premium Edition | 119075 | [119075-warhammer-vermintide-2-premium-edition.json](./119075-warhammer-vermintide-2-premium-edition.json) |
+| Warhammer: Vermintide 2 - Shadows over Bögenhafen | 116130 | [116130-warhammer-vermintide-2-shadows-over-bogenhafen.json](./116130-warhammer-vermintide-2-shadows-over-bogenhafen.json) |
 | Warhammer: Vermintide 2 - Winds of Magic | 115671 | [115671-warhammer-vermintide-2-winds-of-magic.json](./115671-warhammer-vermintide-2-winds-of-magic.json) |
 | Warhaos | 161406 | [161406-warhaos.json](./161406-warhaos.json) |
 | Warhawk | 371272 | [371272-warhawk.json](./371272-warhawk.json) |
