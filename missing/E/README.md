@@ -1446,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Era of Miracles | 124167 | [124167-era-of-miracles.json](./124167-era-of-miracles.json) |
 | Era of Samurai: Code of Love | 163356 | [163356-era-of-samurai-code-of-love.json](./163356-era-of-samurai-code-of-love.json) |
 | Era's Adventures | 247534 | [247534-eras-adventures.json](./247534-eras-adventures.json) |
+| eRacer | 92816 | [92816-eracer.json](./92816-eracer.json) |
 | Eradicator | 8340 | [8340-eradicator.json](./8340-eradicator.json) |
 | Erannorth Reborn | 116711 | [116711-erannorth-reborn.json](./116711-erannorth-reborn.json) |
 | Erannorth Reborn: Blood Coven Rise | 168914 | [168914-erannorth-reborn-blood-coven-rise.json](./168914-erannorth-reborn-blood-coven-rise.json) |
@@ -2432,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploding Babies | 120165 | [120165-exploding-babies.json](./120165-exploding-babies.json) |
 | Exploding Fist | 48584 | [48584-exploding-fist.json](./48584-exploding-fist.json) |
 | Exploding Kittens | 88938 | [88938-exploding-kittens.json](./88938-exploding-kittens.json) |
+| Exploding Lips | 92861 | [92861-exploding-lips.json](./92861-exploding-lips.json) |
 | Explomania | 81033 | [81033-explomania.json](./81033-explomania.json) |
 | Explore Inc | 179030 | [179030-explore-inc.json](./179030-explore-inc.json) |
 | Explore Jam 1 | 275319 | [275319-explore-jam-1.json](./275319-explore-jam-1.json) |
