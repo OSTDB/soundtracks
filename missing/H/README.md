@@ -2166,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Garden Fairy Tale | 95580 | [95580-hidden-garden-fairy-tale.json](./95580-hidden-garden-fairy-tale.json) |
 | Hidden Garden Forest | 102085 | [102085-hidden-garden-forest.json](./102085-hidden-garden-forest.json) |
 | Hidden Garden Wonderland | 103860 | [103860-hidden-garden-wonderland.json](./103860-hidden-garden-wonderland.json) |
+| Hidden Garden Word Jumble | 89685 | [89685-hidden-garden-word-jumble.json](./89685-hidden-garden-word-jumble.json) |
 | Hidden Garden Word Pop | 96721 | [96721-hidden-garden-word-pop.json](./96721-hidden-garden-word-pop.json) |
 | Hidden Garden Word Scramble | 233748 | [233748-hidden-garden-word-scramble.json](./233748-hidden-garden-word-scramble.json) |
 | Hidden Gardens | 108262 | [108262-hidden-gardens.json](./108262-hidden-gardens.json) |
