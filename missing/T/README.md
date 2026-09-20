@@ -3780,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters '95 | 15427 | [15427-the-king-of-fighters-95.json](./15427-the-king-of-fighters-95.json) |
 | The King of Fighters '97 | 15428 | [15428-the-king-of-fighters-97.json](./15428-the-king-of-fighters-97.json) |
 | The King of Fighters '97 OL | 80566 | [80566-the-king-of-fighters-97-ol.json](./80566-the-king-of-fighters-97-ol.json) |
+| The King of Fighters '98: Special Edition | 75472 | [75472-the-king-of-fighters-98-special-edition.json](./75472-the-king-of-fighters-98-special-edition.json) |
 | The King of Fighters '98: Ultimate Match Online | 80866 | [80866-the-king-of-fighters-98-ultimate-match-online.json](./80866-the-king-of-fighters-98-ultimate-match-online.json) |
 | The King of Fighters 02/03 | 78379 | [78379-the-king-of-fighters-02-03.json](./78379-the-king-of-fighters-02-03.json) |
 | The King of Fighters 2000/2001 | 43348 | [43348-the-king-of-fighters-2000-2001.json](./43348-the-king-of-fighters-2000-2001.json) |
@@ -3863,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The last Baron's stunt | 89652 | [89652-the-last-barons-stunt.json](./89652-the-last-barons-stunt.json) |
 | The Last Bastion | 188504 | [188504-the-last-bastion.json](./188504-the-last-bastion.json) |
 | The Last Birdling | 44162 | [44162-the-last-birdling.json](./44162-the-last-birdling.json) |
+| The Last Blade (Best Collection) | 75482 | [75482-the-last-blade-best-collection.json](./75482-the-last-blade-best-collection.json) |
 | The Last Blade 2 | 76045 | [76045-the-last-blade-2.json](./76045-the-last-blade-2.json) |
 | The Last Bug | 371339 | [371339-the-last-bug.json](./371339-the-last-bug.json) |
 | The Last Bullet | 117784 | [117784-the-last-bullet.json](./117784-the-last-bullet.json) |
