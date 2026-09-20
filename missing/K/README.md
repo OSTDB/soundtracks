@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karnn Age | 67969 | [67969-karnn-age.json](./67969-karnn-age.json) |
 | Karnov | 288188 | [288188-karnov.json](./288188-karnov.json) |
 | Karnov's Revenge | 39546 | [39546-karnovs-revenge.json](./39546-karnovs-revenge.json) |
+| Karol Ball | 125840 | [125840-karol-ball.json](./125840-karol-ball.json) |
 | Karoshi Mario | 275323 | [275323-karoshi-mario.json](./275323-karoshi-mario.json) |
 | Karpar | 214750 | [214750-karpar.json](./214750-karpar.json) |
 | Kart Bros | 347246 | [347246-kart-bros.json](./347246-kart-bros.json) |
@@ -1627,6 +1628,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotori with a gun | 148384 | [148384-kotori-with-a-gun.json](./148384-kotori-with-a-gun.json) |
 | Kotowari: Kimi no Kokoro no Koboreta Kakera | 382785 | [382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json](./382785-kotowari-kimi-no-kokoro-no-koboreta-kakera.json) |
 | Kouchuu Ouja Mushiking: Mori no Tami no Densetsu - Minna de Tanken! Kouchuu no Mori | 123621 | [123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json](./123621-kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-minna-de-tanken-kouchuu-no-mori.json) |
+| Kouchuu Ouja Mushiking: Nebu-Hakase to Kazu Katachi ni Challenge! | 125809 | [125809-kouchuu-ouja-mushiking-nebu-hakase-to-kazu-katachi-ni-challenge.json](./125809-kouchuu-ouja-mushiking-nebu-hakase-to-kazu-katachi-ni-challenge.json) |
+| Kouchuuouja Mushiking Super Collection | 125810 | [125810-kouchuuouja-mushiking-super-collection.json](./125810-kouchuuouja-mushiking-super-collection.json) |
+| Kouchuuouja Mushiking: Atsumete Asobou Kabutomushi Zukan | 125806 | [125806-kouchuuouja-mushiking-atsumete-asobou-kabutomushi-zukan.json](./125806-kouchuuouja-mushiking-atsumete-asobou-kabutomushi-zukan.json) |
 | Kouei no Tou | 206373 | [206373-kouei-no-tou.json](./206373-kouei-no-tou.json) |
 | Kouenji Joshi Soccer | 229201 | [229201-kouenji-joshi-soccer.json](./229201-kouenji-joshi-soccer.json) |
 | Kouhai wo Iwau Saisho no Fuyu | 406204 | [406204-kouhai-wo-iwau-saisho-no-fuyu.json](./406204-kouhai-wo-iwau-saisho-no-fuyu.json) |
