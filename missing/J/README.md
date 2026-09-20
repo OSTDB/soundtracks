@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Like An Egyptian | 192978 | [192978-jump-like-an-egyptian.json](./192978-jump-like-an-egyptian.json) |
 | Jump Man | 332528 | [332528-jump-man.json](./332528-jump-man.json) |
 | Jump N Shooters | 244374 | [244374-jump-n-shooters.json](./244374-jump-n-shooters.json) |
+| Jump O'Clock | 65226 | [65226-jump-oclock.json](./65226-jump-oclock.json) |
 | Jump Off the Bridge | 117553 | [117553-jump-off-the-bridge.json](./117553-jump-off-the-bridge.json) |
 | Jump on the Ball | 329380 | [329380-jump-on-the-ball.json](./329380-jump-on-the-ball.json) |
 | Jump or Roll Game | 246987 | [246987-jump-or-roll-game.json](./246987-jump-or-roll-game.json) |
