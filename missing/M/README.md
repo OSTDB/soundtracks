@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Cafe Coop | 381636 | [381636-maid-cafe-coop.json](./381636-maid-cafe-coop.json) |
 | Maid Cafe on Electric Street | 302952 | [302952-maid-cafe-on-electric-street.json](./302952-maid-cafe-on-electric-street.json) |
 | Maid Cafe Simulator | 393665 | [393665-maid-cafe-simulator.json](./393665-maid-cafe-simulator.json) |
+| Maid Envy | 74760 | [74760-maid-envy.json](./74760-maid-envy.json) |
 | Maid for Loving You | 227872 | [227872-maid-for-loving-you.json](./227872-maid-for-loving-you.json) |
 | Maid for Loving You | 255115 | [255115-maid-for-loving-you.json](./255115-maid-for-loving-you.json) |
 | Maid Hunter | 235462 | [235462-maid-hunter.json](./235462-maid-hunter.json) |
@@ -724,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
 | Major League Baseball Featuring Ken Griffey Jr. | 3540 | [3540-major-league-baseball-featuring-ken-griffey-jr.json](./3540-major-league-baseball-featuring-ken-griffey-jr.json) |
 | Major League Gladiators | 75817 | [75817-major-league-gladiators.json](./75817-major-league-gladiators.json) |
+| Major Maox | 74754 | [74754-major-maox.json](./74754-major-maox.json) |
 | Majorariatto Museum | 177426 | [177426-majorariatto-museum.json](./177426-majorariatto-museum.json) |
 | Majorelle Mystery | 232705 | [232705-majorelle-mystery.json](./232705-majorelle-mystery.json) |
 | Majulah | 367965 | [367965-majulah.json](./367965-majulah.json) |
@@ -1739,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Ventures 2 | 234628 | [234628-match-ventures-2.json](./234628-match-ventures-2.json) |
 | Match Village | 217372 | [217372-match-village.json](./217372-match-village.json) |
 | Match War | 258710 | [258710-match-war.json](./258710-match-war.json) |
+| Matchblocks | 74741 | [74741-matchblocks.json](./74741-matchblocks.json) |
 | Matchbox Missions: Air, Land and Sea Rescue / Emergency Response | 137696 | [137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json](./137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json) |
 | Matchbox Rescue Rigs | 209551 | [209551-matchbox-rescue-rigs.json](./209551-matchbox-rescue-rigs.json) |
 | Matchbox: Cross Town Heroes | 49329 | [49329-matchbox-cross-town-heroes.json](./49329-matchbox-cross-town-heroes.json) |
@@ -1941,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
 | Mayhem Pantera | 271807 | [271807-mayhem-pantera.json](./271807-mayhem-pantera.json) |
 | Mayhem Triple | 34731 | [34731-mayhem-triple.json](./34731-mayhem-triple.json) |
+| Mayhem ZX | 74755 | [74755-mayhem-zx.json](./74755-mayhem-zx.json) |
 | Mayo Mayo | 321605 | [321605-mayo-mayo.json](./321605-mayo-mayo.json) |
 | Mayohiga | 151530 | [151530-mayohiga.json](./151530-mayohiga.json) |
 | Mayonez | 106538 | [106538-mayonez.json](./106538-mayonez.json) |
@@ -4722,6 +4726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 37740 | [37740-monopoly.json](./37740-monopoly.json) |
 | Monopoly Casino | 78950 | [78950-monopoly-casino.json](./78950-monopoly-casino.json) |
 | Monopoly Collection | 50615 | [50615-monopoly-collection.json](./50615-monopoly-collection.json) |
+| Monopoly IO | 74747 | [74747-monopoly-io.json](./74747-monopoly-io.json) |
 | Monopoly Junior | 295935 | [295935-monopoly-junior.json](./295935-monopoly-junior.json) |
 | Monopoly One | 55944 | [55944-monopoly-one.json](./55944-monopoly-one.json) |
 | Monopoly Plus and Monopoly Madness | 182497 | [182497-monopoly-plus-and-monopoly-madness.json](./182497-monopoly-plus-and-monopoly-madness.json) |
