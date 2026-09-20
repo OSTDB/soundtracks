@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T23:32:43.968Z",
-  "total_missing": 99221,
+  "generated_at": "2026-09-20T23:47:38.409Z",
+  "total_missing": 99271,
   "games": [
     {
       "igdb_id": 176875,
@@ -3263,6 +3263,11 @@
       "file": "missing/0-9/26675-46-okunen-monogatari-the-shinka-ron.json"
     },
     {
+      "igdb_id": 64654,
+      "game_name": "48 Chambers",
+      "file": "missing/0-9/64654-48-chambers.json"
+    },
+    {
       "igdb_id": 109036,
       "game_name": "48 Pieces",
       "file": "missing/0-9/109036-48-pieces.json"
@@ -4181,6 +4186,11 @@
       "igdb_id": 124258,
       "game_name": "A Bewitching Revolution",
       "file": "missing/A/124258-a-bewitching-revolution.json"
+    },
+    {
+      "igdb_id": 64677,
+      "game_name": "A Bomb's Way",
+      "file": "missing/A/64677-a-bombs-way.json"
     },
     {
       "igdb_id": 225283,
@@ -21673,6 +21683,11 @@
       "file": "missing/A/218493-arcana-famiglia-collezione-piccola-amore.json"
     },
     {
+      "igdb_id": 64668,
+      "game_name": "Arcana Famiglia: Vascello Phantasma no Majutsushi",
+      "file": "missing/A/64668-arcana-famiglia-vascello-phantasma-no-majutsushi.json"
+    },
+    {
       "igdb_id": 243694,
       "game_name": "Arcana Heart",
       "file": "missing/A/243694-arcana-heart.json"
@@ -36486,6 +36501,11 @@
       "igdb_id": 63801,
       "game_name": "Battle For Life",
       "file": "missing/B/63801-battle-for-life.json"
+    },
+    {
+      "igdb_id": 64653,
+      "game_name": "Battle For Presidency",
+      "file": "missing/B/64653-battle-for-presidency.json"
     },
     {
       "igdb_id": 14290,
@@ -75423,6 +75443,11 @@
       "file": "missing/C/69282-clover-hearts-looking-for-happiness.json"
     },
     {
+      "igdb_id": 64667,
+      "game_name": "Clover no Kuni no Alice: Wonderful Wonder World",
+      "file": "missing/C/64667-clover-no-kuni-no-alice-wonderful-wonder-world.json"
+    },
+    {
       "igdb_id": 392120,
       "game_name": "Clover's Quadrants",
       "file": "missing/C/392120-clovers-quadrants.json"
@@ -85941,6 +85966,11 @@
       "igdb_id": 223144,
       "game_name": "Crisis Brigade 2: Reloaded",
       "file": "missing/C/223144-crisis-brigade-2-reloaded.json"
+    },
+    {
+      "igdb_id": 64681,
+      "game_name": "Crisis Heart Brawlers: Clash at Otakon",
+      "file": "missing/C/64681-crisis-heart-brawlers-clash-at-otakon.json"
     },
     {
       "igdb_id": 127320,
@@ -122353,9 +122383,24 @@
       "file": "missing/E/168391-echoes-of-the-past.json"
     },
     {
+      "igdb_id": 64639,
+      "game_name": "Echoes of the Past: Royal House of Stone",
+      "file": "missing/E/64639-echoes-of-the-past-royal-house-of-stone.json"
+    },
+    {
+      "igdb_id": 64637,
+      "game_name": "Echoes of the Past: The Citadels of Time",
+      "file": "missing/E/64637-echoes-of-the-past-the-citadels-of-time.json"
+    },
+    {
       "igdb_id": 114346,
       "game_name": "Echoes of the Past: The Citadels of Time - Collector's Edition",
       "file": "missing/E/114346-echoes-of-the-past-the-citadels-of-time-collectors-edition.json"
+    },
+    {
+      "igdb_id": 64640,
+      "game_name": "Echoes of the Past: The Revenge of the Witch",
+      "file": "missing/E/64640-echoes-of-the-past-the-revenge-of-the-witch.json"
     },
     {
       "igdb_id": 401668,
@@ -136333,6 +136378,11 @@
       "file": "missing/F/373007-falsegods-gambit.json"
     },
     {
+      "igdb_id": 64648,
+      "game_name": "Falsion",
+      "file": "missing/F/64648-falsion.json"
+    },
+    {
       "igdb_id": 394181,
       "game_name": "Fame or Folly",
       "file": "missing/F/394181-fame-or-folly.json"
@@ -146588,6 +146638,11 @@
       "file": "missing/F/57086-flip-the-cartoon-strategy-game.json"
     },
     {
+      "igdb_id": 64646,
+      "game_name": "Flip's Escape",
+      "file": "missing/F/64646-flips-escape.json"
+    },
+    {
       "igdb_id": 371348,
       "game_name": "Flipbomb",
       "file": "missing/F/371348-flipbomb.json"
@@ -155298,6 +155353,11 @@
       "file": "missing/F/85162-funky-physics.json"
     },
     {
+      "igdb_id": 64687,
+      "game_name": "Funky Punch",
+      "file": "missing/F/64687-funky-punch.json"
+    },
+    {
       "igdb_id": 46644,
       "game_name": "Funnels and Buckets",
       "file": "missing/F/46644-funnels-and-buckets.json"
@@ -156341,6 +156401,11 @@
       "igdb_id": 294694,
       "game_name": "Fuuka σ Taisen",
       "file": "missing/F/294694-fuuka-taisen.json"
+    },
+    {
+      "igdb_id": 64665,
+      "game_name": "Fuuraiki",
+      "file": "missing/F/64665-fuuraiki.json"
     },
     {
       "igdb_id": 142398,
@@ -157786,6 +157851,11 @@
       "igdb_id": 6799,
       "game_name": "Galaxy Force II",
       "file": "missing/G/6799-galaxy-force-ii.json"
+    },
+    {
+      "igdb_id": 64689,
+      "game_name": "Galaxy Fräulein Yuna 2: Eien no Princess",
+      "file": "missing/G/64689-galaxy-fraulein-yuna-2-eien-no-princess.json"
     },
     {
       "igdb_id": 11396,
@@ -166846,6 +166916,11 @@
       "igdb_id": 152826,
       "game_name": "Gone Upstate",
       "file": "missing/G/152826-gone-upstate.json"
+    },
+    {
+      "igdb_id": 64636,
+      "game_name": "Gone with Hideyoshi",
+      "file": "missing/G/64636-gone-with-hideyoshi.json"
     },
     {
       "igdb_id": 280356,
@@ -186788,6 +186863,11 @@
       "file": "missing/H/141170-hinge-vr.json"
     },
     {
+      "igdb_id": 64642,
+      "game_name": "Hinokakera the Fragments of Innocent Sinner",
+      "file": "missing/H/64642-hinokakera-the-fragments-of-innocent-sinner.json"
+    },
+    {
       "igdb_id": 122404,
       "game_name": "Hinomaruko",
       "file": "missing/H/122404-hinomaruko.json"
@@ -198446,6 +198526,11 @@
       "igdb_id": 189191,
       "game_name": "Imitating Zombies",
       "file": "missing/I/189191-imitating-zombies.json"
+    },
+    {
+      "igdb_id": 64680,
+      "game_name": "Imitation City",
+      "file": "missing/I/64680-imitation-city.json"
     },
     {
       "igdb_id": 382343,
@@ -222086,6 +222171,11 @@
       "igdb_id": 85811,
       "game_name": "Kuon no Kizuna",
       "file": "missing/K/85811-kuon-no-kizuna.json"
+    },
+    {
+      "igdb_id": 64659,
+      "game_name": "Kuon no Kizuna: Sairinshou",
+      "file": "missing/K/64659-kuon-no-kizuna-sairinshou.json"
     },
     {
       "igdb_id": 190211,
@@ -252583,6 +252673,11 @@
       "file": "missing/M/130347-mental.json"
     },
     {
+      "igdb_id": 64643,
+      "game_name": "Mental Drift",
+      "file": "missing/M/64643-mental-drift.json"
+    },
+    {
       "igdb_id": 235751,
       "game_name": "Mental Harm",
       "file": "missing/M/235751-mental-harm.json"
@@ -254821,6 +254916,16 @@
       "igdb_id": 249299,
       "game_name": "Michi: Expansion Pack",
       "file": "missing/M/249299-michi-expansion-pack.json"
+    },
+    {
+      "igdb_id": 64666,
+      "game_name": "Michinoku Hisen Koimonogatari",
+      "file": "missing/M/64666-michinoku-hisen-koimonogatari.json"
+    },
+    {
+      "igdb_id": 64660,
+      "game_name": "Michinoku Hitou Koimonogatari Kai",
+      "file": "missing/M/64660-michinoku-hitou-koimonogatari-kai.json"
     },
     {
       "igdb_id": 256371,
@@ -259063,6 +259168,11 @@
       "file": "missing/M/206936-miracle-party-fushigi-no-gensoukyou-2.json"
     },
     {
+      "igdb_id": 64685,
+      "game_name": "Miracle Ropit's Adventure in 2100",
+      "file": "missing/M/64685-miracle-ropits-adventure-in-2100.json"
+    },
+    {
       "igdb_id": 339110,
       "game_name": "Miracle Squirrel Club",
       "file": "missing/M/339110-miracle-squirrel-club.json"
@@ -259686,6 +259796,31 @@
       "igdb_id": 189190,
       "game_name": "Missing Mildred",
       "file": "missing/M/189190-missing-mildred.json"
+    },
+    {
+      "igdb_id": 64673,
+      "game_name": "Missing Parts 2: The Tantei Stories",
+      "file": "missing/M/64673-missing-parts-2-the-tantei-stories.json"
+    },
+    {
+      "igdb_id": 64675,
+      "game_name": "Missing Parts 3: The Tantei Stories",
+      "file": "missing/M/64675-missing-parts-3-the-tantei-stories.json"
+    },
+    {
+      "igdb_id": 64671,
+      "game_name": "Missing Parts Side A: The Tantei Stories",
+      "file": "missing/M/64671-missing-parts-side-a-the-tantei-stories.json"
+    },
+    {
+      "igdb_id": 64672,
+      "game_name": "Missing Parts Side B: The Tantei Stories",
+      "file": "missing/M/64672-missing-parts-side-b-the-tantei-stories.json"
+    },
+    {
+      "igdb_id": 64674,
+      "game_name": "Missing Parts: The Tantei Stories",
+      "file": "missing/M/64674-missing-parts-the-tantei-stories.json"
     },
     {
       "igdb_id": 315702,
@@ -272558,6 +272693,11 @@
       "file": "missing/M/270967-mystic-land-the-search-for-maphaldo.json"
     },
     {
+      "igdb_id": 64647,
+      "game_name": "Mystic Mayhem",
+      "file": "missing/M/64647-mystic-mayhem.json"
+    },
+    {
       "igdb_id": 33218,
       "game_name": "Mystic Melee",
       "file": "missing/M/33218-mystic-melee.json"
@@ -281266,6 +281406,11 @@
       "igdb_id": 102728,
       "game_name": "Ninja Hero Revenge",
       "file": "missing/N/102728-ninja-hero-revenge.json"
+    },
+    {
+      "igdb_id": 64635,
+      "game_name": "Ninja Hunter",
+      "file": "missing/N/64635-ninja-hunter.json"
     },
     {
       "igdb_id": 74337,
@@ -295363,6 +295508,11 @@
       "file": "missing/P/86097-pac-boy-and-mouse.json"
     },
     {
+      "igdb_id": 64678,
+      "game_name": "Pac-Guy",
+      "file": "missing/P/64678-pac-guy.json"
+    },
+    {
       "igdb_id": 79229,
       "game_name": "Pac-Maine",
       "file": "missing/P/79229-pac-maine.json"
@@ -295531,6 +295681,16 @@
       "igdb_id": 182246,
       "game_name": "Pac-Man Museum+",
       "file": "missing/P/182246-pac-man-museum.json"
+    },
+    {
+      "igdb_id": 64683,
+      "game_name": "Pac-Man S",
+      "file": "missing/P/64683-pac-man-s.json"
+    },
+    {
+      "igdb_id": 64682,
+      "game_name": "Pac-Man Social",
+      "file": "missing/P/64682-pac-man-social.json"
     },
     {
       "igdb_id": 84190,
@@ -304278,6 +304438,11 @@
       "file": "missing/P/68703-photon-flux.json"
     },
     {
+      "igdb_id": 64657,
+      "game_name": "Photon: The Ultimate Game on Planet Earth",
+      "file": "missing/P/64657-photon-the-ultimate-game-on-planet-earth.json"
+    },
+    {
       "igdb_id": 288759,
       "game_name": "Photons",
       "file": "missing/P/288759-photons.json"
@@ -311256,6 +311421,11 @@
       "igdb_id": 181232,
       "game_name": "Pocketman Teal",
       "file": "missing/P/181232-pocketman-teal.json"
+    },
+    {
+      "igdb_id": 64684,
+      "game_name": "PocketSports Football HD",
+      "file": "missing/P/64684-pocketsports-football-hd.json"
     },
     {
       "igdb_id": 64345,
@@ -321351,6 +321521,11 @@
       "igdb_id": 172728,
       "game_name": "Pulsar",
       "file": "missing/P/172728-pulsar.json"
+    },
+    {
+      "igdb_id": 64649,
+      "game_name": "Pulsar no Hikari",
+      "file": "missing/P/64649-pulsar-no-hikari.json"
     },
     {
       "igdb_id": 177421,
@@ -337863,6 +338038,11 @@
       "file": "missing/R/222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json"
     },
     {
+      "igdb_id": 64661,
+      "game_name": "Rim Runners",
+      "file": "missing/R/64661-rim-runners.json"
+    },
+    {
       "igdb_id": 71747,
       "game_name": "Rim: Battle Planets",
       "file": "missing/R/71747-rim-battle-planets.json"
@@ -341958,6 +342138,11 @@
       "file": "missing/R/171091-roll-for-confidence.json"
     },
     {
+      "igdb_id": 64670,
+      "game_name": "Roll in the Hole",
+      "file": "missing/R/64670-roll-in-the-hole.json"
+    },
+    {
       "igdb_id": 382911,
       "game_name": "Roll or Die",
       "file": "missing/R/382911-roll-or-die.json"
@@ -342791,6 +342976,11 @@
       "igdb_id": 312350,
       "game_name": "Ronnie O'Sullivan's Snooker",
       "file": "missing/R/312350-ronnie-osullivans-snooker.json"
+    },
+    {
+      "igdb_id": 64669,
+      "game_name": "Ronnie O'Sullivan's Snooker",
+      "file": "missing/R/64669-ronnie-osullivans-snooker.json"
     },
     {
       "igdb_id": 291079,
@@ -359903,6 +360093,11 @@
       "file": "missing/S/400305-shijie-zhiwai.json"
     },
     {
+      "igdb_id": 64664,
+      "game_name": "Shijou Saikyou No Deshi Kenichi: Gekitou! Ragnarok Hachikengou",
+      "file": "missing/S/64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json"
+    },
+    {
       "igdb_id": 283772,
       "game_name": "Shikhondo: Youkai Rampage",
       "file": "missing/S/283772-shikhondo-youkai-rampage.json"
@@ -364003,6 +364198,26 @@
       "file": "missing/S/157117-simp-attack.json"
     },
     {
+      "igdb_id": 64656,
+      "game_name": "Simple 1500 Series Hello Kitty Vol. 01: Hello Kitty Bowling",
+      "file": "missing/S/64656-simple-1500-series-hello-kitty-vol-01-hello-kitty-bowling.json"
+    },
+    {
+      "igdb_id": 64658,
+      "game_name": "Simple 1500 Series Hello Kitty Vol. 02: Hello Kitty Illust Puzzle",
+      "file": "missing/S/64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json"
+    },
+    {
+      "igdb_id": 64652,
+      "game_name": "Simple 1500 Series Hello Kitty Vol. 03: Hello Kitty Block Kuzushi",
+      "file": "missing/S/64652-simple-1500-series-hello-kitty-vol-03-hello-kitty-block-kuzushi.json"
+    },
+    {
+      "igdb_id": 64650,
+      "game_name": "Simple 1500 Series Hello Kitty Vol. 04: Trump",
+      "file": "missing/S/64650-simple-1500-series-hello-kitty-vol-04-trump.json"
+    },
+    {
       "igdb_id": 19671,
       "game_name": "Simple 1500 Series Vol. 11: The Pinball 3D",
       "file": "missing/S/19671-simple-1500-series-vol-11-the-pinball-3d.json"
@@ -364041,6 +364256,11 @@
       "igdb_id": 209500,
       "game_name": "Simple 1500 Series Vol. 77: The Suiei",
       "file": "missing/S/209500-simple-1500-series-vol-77-the-suiei.json"
+    },
+    {
+      "igdb_id": 64651,
+      "game_name": "Simple 2000 Hello Kitty Series Vol. 1: Starlight Puzzle",
+      "file": "missing/S/64651-simple-2000-hello-kitty-series-vol-1-starlight-puzzle.json"
     },
     {
       "igdb_id": 203350,
@@ -372461,6 +372681,11 @@
       "igdb_id": 11763,
       "game_name": "Soko-Ban",
       "file": "missing/S/11763-soko-ban.json"
+    },
+    {
+      "igdb_id": 64679,
+      "game_name": "Sokoball of Osaka",
+      "file": "missing/S/64679-sokoball-of-osaka.json"
     },
     {
       "igdb_id": 19573,
@@ -425208,6 +425433,11 @@
       "file": "missing/T/280881-the-last-revenant.json"
     },
     {
+      "igdb_id": 64645,
+      "game_name": "The Last Rocket",
+      "file": "missing/T/64645-the-last-rocket.json"
+    },
+    {
       "igdb_id": 80939,
       "game_name": "The Last Rolling Hero",
       "file": "missing/T/80939-the-last-rolling-hero.json"
@@ -434873,6 +435103,11 @@
       "file": "missing/T/295378-the-tower-stories-green-1.json"
     },
     {
+      "igdb_id": 64676,
+      "game_name": "The Tower: A Bomb's Climb",
+      "file": "missing/T/64676-the-tower-a-bombs-climb.json"
+    },
+    {
       "igdb_id": 117694,
       "game_name": "The Tower: The Order of XII",
       "file": "missing/T/117694-the-tower-the-order-of-xii.json"
@@ -436006,6 +436241,11 @@
       "igdb_id": 50516,
       "game_name": "The war god : The artifact",
       "file": "missing/T/50516-the-war-god-the-artifact.json"
+    },
+    {
+      "igdb_id": 64644,
+      "game_name": "The War of Eustrath",
+      "file": "missing/T/64644-the-war-of-eustrath.json"
     },
     {
       "igdb_id": 131404,
@@ -467068,6 +467308,11 @@
       "file": "missing/V/164900-vector-race.json"
     },
     {
+      "igdb_id": 64690,
+      "game_name": "Vector Racing",
+      "file": "missing/V/64690-vector-racing.json"
+    },
+    {
       "igdb_id": 179128,
       "game_name": "Vector Runners",
       "file": "missing/V/179128-vector-runners.json"
@@ -494226,6 +494471,11 @@
       "igdb_id": 146832,
       "game_name": "Zoids Wild: Infinity Blast",
       "file": "missing/Z/146832-zoids-wild-infinity-blast.json"
+    },
+    {
+      "igdb_id": 64655,
+      "game_name": "Zoids: Chuuou Tairiku no Tatakai",
+      "file": "missing/Z/64655-zoids-chuuou-tairiku-no-tatakai.json"
     },
     {
       "igdb_id": 50584,
