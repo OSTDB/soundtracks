@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule Cat's Big Space Adventure | 280334 | [280334-capsule-cats-big-space-adventure.json](./280334-capsule-cats-big-space-adventure.json) |
 | Capsule Force | 11184 | [11184-capsule-force.json](./11184-capsule-force.json) |
 | Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
+| Capsule Jump | 86564 | [86564-capsule-jump.json](./86564-capsule-jump.json) |
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
 | Capsule Servant | 121441 | [121441-capsule-servant.json](./121441-capsule-servant.json) |
 | Capt Crabs a Slimy Adventure | 249821 | [249821-capt-crabs-a-slimy-adventure.json](./249821-capt-crabs-a-slimy-adventure.json) |
@@ -945,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Sprint | 384674 | [384674-cash-sprint.json](./384674-cash-sprint.json) |
 | Cash Wash Simulator | 351092 | [351092-cash-wash-simulator.json](./351092-cash-wash-simulator.json) |
 | Cashier of Grocery Shop: Profession | 102772 | [102772-cashier-of-grocery-shop-profession.json](./102772-cashier-of-grocery-shop-profession.json) |
+| Casino Blackjack | 86560 | [86560-casino-blackjack.json](./86560-casino-blackjack.json) |
 | Casino Boss Simulator | 278701 | [278701-casino-boss-simulator.json](./278701-casino-boss-simulator.json) |
 | Casino by eGames | 165547 | [165547-casino-by-egames.json](./165547-casino-by-egames.json) |
 | Casino Casualty | 365099 | [365099-casino-casualty.json](./365099-casino-casualty.json) |
@@ -3240,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Life Visual Novel | 197767 | [197767-club-life-visual-novel.json](./197767-club-life-visual-novel.json) |
 | Club Manager 2016 | 34337 | [34337-club-manager-2016.json](./34337-club-manager-2016.json) |
 | Club Manager 2017 | 31957 | [31957-club-manager-2017.json](./31957-club-manager-2017.json) |
+| Club of fighters | 86537 | [86537-club-of-fighters.json](./86537-club-of-fighters.json) |
 | Club Penguin Brasil | 194619 | [194619-club-penguin-brasil.json](./194619-club-penguin-brasil.json) |
 | Club Penguin Demake Project | 181860 | [181860-club-penguin-demake-project.json](./181860-club-penguin-demake-project.json) |
 | Club Penguin Dimensions | 319377 | [319377-club-penguin-dimensions.json](./319377-club-penguin-dimensions.json) |
@@ -5352,6 +5355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crocodile Blood: The Final Moments of Kurumizawa Keiko | 394154 | [394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json](./394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json) |
 | Crocodile Transformator | 217388 | [217388-crocodile-transformator.json](./217388-crocodile-transformator.json) |
 | Crocodracula: The Beginning | 216331 | [216331-crocodracula-the-beginning.json](./216331-crocodracula-the-beginning.json) |
+| CrocoMars | 86565 | [86565-crocomars.json](./86565-crocomars.json) |
 | CrocPond | 91741 | [91741-crocpond.json](./91741-crocpond.json) |
 | Crocro Adventure | 96341 | [96341-crocro-adventure.json](./96341-crocro-adventure.json) |
 | Crocs World Construction Kit 2 | 253986 | [253986-crocs-world-construction-kit-2.json](./253986-crocs-world-construction-kit-2.json) |
