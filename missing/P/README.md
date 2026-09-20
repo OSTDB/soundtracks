@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora | 255144 | [255144-pandora.json](./255144-pandora.json) |
 | Pandora Saga: Weapons of Balance | 78647 | [78647-pandora-saga-weapons-of-balance.json](./78647-pandora-saga-weapons-of-balance.json) |
 | Pandora: Kimi no Namae wo, Boku ha Shiru | 221825 | [221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json](./221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json) |
+| Pandora's Box | 76200 | [76200-pandoras-box.json](./76200-pandoras-box.json) |
 | Pandora's Doom: Apocalypse Hotline | 333602 | [333602-pandoras-doom-apocalypse-hotline.json](./333602-pandoras-doom-apocalypse-hotline.json) |
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
 | Pandrax | 118194 | [118194-pandrax.json](./118194-pandrax.json) |
@@ -2629,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk Monsters 2: Tiki Bundle | 237939 | [237939-pixeljunk-monsters-2-tiki-bundle.json](./237939-pixeljunk-monsters-2-tiki-bundle.json) |
 | PixelJunk Monsters 3 | 415151 | [415151-pixeljunk-monsters-3.json](./415151-pixeljunk-monsters-3.json) |
 | PixelJunk Monsters Deluxe | 44520 | [44520-pixeljunk-monsters-deluxe.json](./44520-pixeljunk-monsters-deluxe.json) |
+| Pixeljunk Monsters Duo | 76208 | [76208-pixeljunk-monsters-duo.json](./76208-pixeljunk-monsters-duo.json) |
 | PixelJunk Monsters Encore | 139952 | [139952-pixeljunk-monsters-encore.json](./139952-pixeljunk-monsters-encore.json) |
 | PixelJunk Racers: 2nd Lap | 44576 | [44576-pixeljunk-racers-2nd-lap.json](./44576-pixeljunk-racers-2nd-lap.json) |
 | PixelJunk SideScroller | 20445 | [20445-pixeljunk-sidescroller.json](./20445-pixeljunk-sidescroller.json) |
