@@ -1193,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Your Gender? | 175790 | [175790-whats-your-gender.json](./175790-whats-your-gender.json) |
 | Whateverland | 126594 | [126594-whateverland.json](./126594-whateverland.json) |
 | Whatnever | 348782 | [348782-whatnever.json](./348782-whatnever.json) |
+| WHC: The Game About Witch Hunter's Moving Castle You've Been So Long Waiting For | 87984 | [87984-whc-the-game-about-witch-hunters-moving-castle-youve-been-so-long-waiting-for.json](./87984-whc-the-game-about-witch-hunters-moving-castle-youve-been-so-long-waiting-for.json) |
 | Wheat and Wrath | 400319 | [400319-wheat-and-wrath.json](./400319-wheat-and-wrath.json) |
 | Wheat Harvest Paradox | 257409 | [257409-wheat-harvest-paradox.json](./257409-wheat-harvest-paradox.json) |
 | Wheel Dismount | 101951 | [101951-wheel-dismount.json](./101951-wheel-dismount.json) |
