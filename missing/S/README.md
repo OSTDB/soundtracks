@@ -3065,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sick | 277612 | [277612-sick.json](./277612-sick.json) |
 | Sick Bricks | 23925 | [23925-sick-bricks.json](./23925-sick-bricks.json) |
 | Sick Generation: The Ghost of the Crane Catcher | 383974 | [383974-sick-generation-the-ghost-of-the-crane-catcher.json](./383974-sick-generation-the-ghost-of-the-crane-catcher.json) |
+| Sick Love - An RPG Maker Novel | 114166 | [114166-sick-love-an-rpg-maker-novel.json](./114166-sick-love-an-rpg-maker-novel.json) |
 | Sick Way | 127087 | [127087-sick-way.json](./127087-sick-way.json) |
 | Sickly Days and Summer Traces | 343869 | [343869-sickly-days-and-summer-traces.json](./343869-sickly-days-and-summer-traces.json) |
 | Sico: Special Insurgency Counter Operations | 174813 | [174813-sico-special-insurgency-counter-operations.json](./174813-sico-special-insurgency-counter-operations.json) |
@@ -6027,6 +6028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cowboy | 25603 | [25603-space-cowboy.json](./25603-space-cowboy.json) |
 | Space Crafter | 291585 | [291585-space-crafter.json](./291585-space-crafter.json) |
 | Space Crisis | 167782 | [167782-space-crisis.json](./167782-space-crisis.json) |
+| Space Cruise | 114170 | [114170-space-cruise.json](./114170-space-cruise.json) |
 | Space Crusade: The Voyage Beyond | 73855 | [73855-space-crusade-the-voyage-beyond.json](./73855-space-crusade-the-voyage-beyond.json) |
 | Space Danger: G.O.N. | 185599 | [185599-space-danger-g-o-n.json](./185599-space-danger-g-o-n.json) |
 | Space Dash: Earth Defender | 58769 | [58769-space-dash-earth-defender.json](./58769-space-dash-earth-defender.json) |
@@ -6362,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacewar | 181938 | [181938-spacewar.json](./181938-spacewar.json) |
 | Spaceward Ho! | 47296 | [47296-spaceward-ho.json](./47296-spaceward-ho.json) |
 | Spacewing War 2 | 266235 | [266235-spacewing-war-2.json](./266235-spacewing-war-2.json) |
+| SpaceWorms | 114200 | [114200-spaceworms.json](./114200-spaceworms.json) |
 | SpaceWrestler XL | 128610 | [128610-spacewrestler-xl.json](./128610-spacewrestler-xl.json) |
 | Spacey Vade | 158153 | [158153-spacey-vade.json](./158153-spacey-vade.json) |
 | Spades HD | 355000 | [355000-spades-hd.json](./355000-spades-hd.json) |
@@ -11018,6 +11021,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Alicization Lycoris - Deluxe Edition | 166157 | [166157-sword-art-online-alicization-lycoris-deluxe-edition.json](./166157-sword-art-online-alicization-lycoris-deluxe-edition.json) |
 | Sword Art Online: Alicization Lycoris - Myosotis | 139224 | [139224-sword-art-online-alicization-lycoris-myosotis.json](./139224-sword-art-online-alicization-lycoris-myosotis.json) |
 | Sword Art Online: Alicization Rising Steel | 125818 | [125818-sword-art-online-alicization-rising-steel.json](./125818-sword-art-online-alicization-rising-steel.json) |
+| Sword Art Online: Fatal Bullet - Ambush of the Imposters | 114141 | [114141-sword-art-online-fatal-bullet-ambush-of-the-imposters.json](./114141-sword-art-online-fatal-bullet-ambush-of-the-imposters.json) |
+| Sword Art Online: Fatal Bullet - Collapse of Balance | 114142 | [114142-sword-art-online-fatal-bullet-collapse-of-balance.json](./114142-sword-art-online-fatal-bullet-collapse-of-balance.json) |
 | Sword Art Online: Fractured Daydream | 287852 | [287852-sword-art-online-fractured-daydream.json](./287852-sword-art-online-fractured-daydream.json) |
 | Sword Art Online: Fractured Daydream - Character Pass Vol. 1 | 324479 | [324479-sword-art-online-fractured-daydream-character-pass-vol-1.json](./324479-sword-art-online-fractured-daydream-character-pass-vol-1.json) |
 | Sword Art Online: Fractured Daydream - Deluxe Edition | 308792 | [308792-sword-art-online-fractured-daydream-deluxe-edition.json](./308792-sword-art-online-fractured-daydream-deluxe-edition.json) |
