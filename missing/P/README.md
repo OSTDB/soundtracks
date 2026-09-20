@@ -2984,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plummet Challenge Game | 214519 | [214519-plummet-challenge-game.json](./214519-plummet-challenge-game.json) |
 | Plummet Panic | 317618 | [317618-plummet-panic.json](./317618-plummet-panic.json) |
 | Plunder | 113748 | [113748-plunder.json](./113748-plunder.json) |
+| Plunder Kings | 114149 | [114149-plunder-kings.json](./114149-plunder-kings.json) |
 | Plunder Squad | 107797 | [107797-plunder-squad.json](./107797-plunder-squad.json) |
 | Plunder: Scourge of the Sea | 260658 | [260658-plunder-scourge-of-the-sea.json](./260658-plunder-scourge-of-the-sea.json) |
 | Plunderball | 46570 | [46570-plunderball.json](./46570-plunderball.json) |
@@ -5231,6 +5232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt-Putt Saves the Zoo | 3736 | [3736-putt-putt-saves-the-zoo.json](./3736-putt-putt-saves-the-zoo.json) |
 | Putt-Putt Travels Through Time | 3737 | [3737-putt-putt-travels-through-time.json](./3737-putt-putt-travels-through-time.json) |
 | Puttball | 58220 | [58220-puttball.json](./58220-puttball.json) |
+| Puttin' Around | 114171 | [114171-puttin-around.json](./114171-puttin-around.json) |
 | Putty | 39022 | [39022-putty.json](./39022-putty.json) |
 | Putty Pals | 32866 | [32866-putty-pals.json](./32866-putty-pals.json) |
 | Putty Squad | 39021 | [39021-putty-squad.json](./39021-putty-squad.json) |
