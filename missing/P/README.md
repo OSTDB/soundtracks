@@ -4035,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Pigskin | 245420 | [245420-power-pigskin.json](./245420-power-pigskin.json) |
 | Power Ping Pong | 200031 | [200031-power-ping-pong.json](./200031-power-ping-pong.json) |
 | Power Pipes | 146913 | [146913-power-pipes.json](./146913-power-pipes.json) |
+| Power Play Pool | 78335 | [78335-power-play-pool.json](./78335-power-play-pool.json) |
 | Power Plays | 60548 | [60548-power-plays.json](./60548-power-plays.json) |
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
 | Power Politics | 76590 | [76590-power-politics.json](./76590-power-politics.json) |
