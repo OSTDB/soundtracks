@@ -1758,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resortopia | 287627 | [287627-resortopia.json](./287627-resortopia.json) |
 | Resourcer | 245945 | [245945-resourcer.json](./245945-resourcer.json) |
 | Responding | 128585 | [128585-responding.json](./128585-responding.json) |
+| Respublica | 126426 | [126426-respublica.json](./126426-respublica.json) |
 | Resquid | 182916 | [182916-resquid.json](./182916-resquid.json) |
 | Ressolve Steps | 375841 | [375841-ressolve-steps.json](./375841-ressolve-steps.json) |
 | Rest Area Simulator | 373009 | [373009-rest-area-simulator.json](./373009-rest-area-simulator.json) |
