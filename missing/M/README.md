@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macross: Shooting Insight | 230620 | [230620-macross-shooting-insight.json](./230620-macross-shooting-insight.json) |
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
 | Mad Arkanoid | 50536 | [50536-mad-arkanoid.json](./50536-mad-arkanoid.json) |
+| Mad Blocker Arcade | 65744 | [65744-mad-blocker-arcade.json](./65744-mad-blocker-arcade.json) |
 | Mad Blocker HD | 52558 | [52558-mad-blocker-hd.json](./52558-mad-blocker-hd.json) |
 | Mad Bullets | 33262 | [33262-mad-bullets.json](./33262-mad-bullets.json) |
 | Mad Bus | 156101 | [156101-mad-bus.json](./156101-mad-bus.json) |
@@ -3234,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mouse IV: Mahou no Labyrinth | 153451 | [153451-mickey-mouse-iv-mahou-no-labyrinth.json](./153451-mickey-mouse-iv-mahou-no-labyrinth.json) |
 | Mickey Mouse Murder House | 199064 | [199064-mickey-mouse-murder-house.json](./199064-mickey-mouse-murder-house.json) |
 | Mickey to Ooki na Furudokei | 299463 | [299463-mickey-to-ooki-na-furudokei.json](./299463-mickey-to-ooki-na-furudokei.json) |
+| Mickey's 123's: The Big Surprise Party | 65768 | [65768-mickeys-123s-the-big-surprise-party.json](./65768-mickeys-123s-the-big-surprise-party.json) |
 | Mickey's Dangerous Chase | 8127 | [8127-mickeys-dangerous-chase.json](./8127-mickeys-dangerous-chase.json) |
 | Mickey's House Party | 214046 | [214046-mickeys-house-party.json](./214046-mickeys-house-party.json) |
 | Mickey's Speedway USA | 3408 | [3408-mickeys-speedway-usa.json](./3408-mickeys-speedway-usa.json) |
@@ -6245,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Ex is a Ghost | 132612 | [132612-my-ex-is-a-ghost.json](./132612-my-ex-is-a-ghost.json) |
 | My Exercise | 138033 | [138033-my-exercise.json](./138033-my-exercise.json) |
 | My Exotic Farm | 66391 | [66391-my-exotic-farm.json](./66391-my-exotic-farm.json) |
+| My Exotic Farm Australia | 65751 | [65751-my-exotic-farm-australia.json](./65751-my-exotic-farm-australia.json) |
 | My Eyes on You | 57694 | [57694-my-eyes-on-you.json](./57694-my-eyes-on-you.json) |
 | My Faithful and Loyal Wife Would Never Cheat on Me | 278413 | [278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json](./278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json) |
 | My Fake Boyfriend | 299457 | [299457-my-fake-boyfriend.json](./299457-my-fake-boyfriend.json) |
