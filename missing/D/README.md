@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Stage featuring Dreams Come True | 69572 | [69572-dancing-stage-featuring-dreams-come-true.json](./69572-dancing-stage-featuring-dreams-come-true.json) |
 | Dancing Stage featuring True Kiss Destination | 132805 | [132805-dancing-stage-featuring-true-kiss-destination.json](./132805-dancing-stage-featuring-true-kiss-destination.json) |
 | Dancing Stage MegaMix | 225750 | [225750-dancing-stage-megamix.json](./225750-dancing-stage-megamix.json) |
+| Dancing Stage Party Edition | 68981 | [68981-dancing-stage-party-edition.json](./68981-dancing-stage-party-edition.json) |
 | Dancing Stage Universe | 6956 | [6956-dancing-stage-universe.json](./6956-dancing-stage-universe.json) |
 | Dancing Stage Unleashed | 5803 | [5803-dancing-stage-unleashed.json](./5803-dancing-stage-unleashed.json) |
 | Dancing Stage Unleashed 2 | 5804 | [5804-dancing-stage-unleashed-2.json](./5804-dancing-stage-unleashed-2.json) |
