@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnarchy | 195203 | [195203-lawnarchy.json](./195203-lawnarchy.json) |
 | LawnMower City | 186290 | [186290-lawnmower-city.json](./186290-lawnmower-city.json) |
 | Lawnmower Day | 340903 | [340903-lawnmower-day.json](./340903-lawnmower-day.json) |
+| Lawnmower Game 4: The Final Cut | 117547 | [117547-lawnmower-game-4-the-final-cut.json](./117547-lawnmower-game-4-the-final-cut.json) |
 | Lawnmower Game Jigsaw | 340905 | [340905-lawnmower-game-jigsaw.json](./340905-lawnmower-game-jigsaw.json) |
 | Lawnmower Game Racing 2: Drunken | 340906 | [340906-lawnmower-game-racing-2-drunken.json](./340906-lawnmower-game-racing-2-drunken.json) |
 | Lawnmower Game: 2024 | 340904 | [340904-lawnmower-game-2024.json](./340904-lawnmower-game-2024.json) |
@@ -1381,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Bubble: Gear Up Edition | 308806 | [308806-life-bubble-gear-up-edition.json](./308806-life-bubble-gear-up-edition.json) |
 | Life by You | 240899 | [240899-life-by-you.json](./240899-life-by-you.json) |
 | Life Code | 287774 | [287774-life-code.json](./287774-life-code.json) |
+| Life Combinations | 117479 | [117479-life-combinations.json](./117479-life-combinations.json) |
 | Life Eater | 289431 | [289431-life-eater.json](./289431-life-eater.json) |
 | Life Force | 174945 | [174945-life-force.json](./174945-life-force.json) |
 | Life Force | 261899 | [261899-life-force.json](./261899-life-force.json) |
