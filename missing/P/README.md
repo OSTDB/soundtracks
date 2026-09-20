@@ -2987,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayStation All-Stars Battle Royale: Bistro Toro | 315078 | [315078-playstation-all-stars-battle-royale-bistro-toro.json](./315078-playstation-all-stars-battle-royale-bistro-toro.json) |
 | PlayStation All-Stars Battle Royale: Funky Astro Suit PaRappa | 315077 | [315077-playstation-all-stars-battle-royale-funky-astro-suit-parappa.json](./315077-playstation-all-stars-battle-royale-funky-astro-suit-parappa.json) |
 | PlayStation All-Stars Battle Royale: Instructor Mooselini Minion | 315079 | [315079-playstation-all-stars-battle-royale-instructor-mooselini-minion.json](./315079-playstation-all-stars-battle-royale-instructor-mooselini-minion.json) |
+| PlayStation Home Arcade | 80197 | [80197-playstation-home-arcade.json](./80197-playstation-home-arcade.json) |
 | PlayStation Move Ape Escape | 20630 | [20630-playstation-move-ape-escape.json](./20630-playstation-move-ape-escape.json) |
 | PlayStation Move Heroes | 19664 | [19664-playstation-move-heroes.json](./19664-playstation-move-heroes.json) |
 | Playthings: VR Music Vacation | 32881 | [32881-playthings-vr-music-vacation.json](./32881-playthings-vr-music-vacation.json) |
@@ -3373,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Pinball | 4068 | [4068-pokemon-pinball.json](./4068-pokemon-pinball.json) |
 | Pokémon Pinball Mini | 66030 | [66030-pokemon-pinball-mini.json](./66030-pokemon-pinball-mini.json) |
 | Pokémon Plasma | 415074 | [415074-pokemon-plasma.json](./415074-pokemon-plasma.json) |
+| Pokémon Play It! | 80213 | [80213-pokemon-play-it.json](./80213-pokemon-play-it.json) |
 | Pokémon Play It! Version 2 | 24959 | [24959-pokemon-play-it-version-2.json](./24959-pokemon-play-it-version-2.json) |
 | Pokémon Polished Crystal | 220866 | [220866-pokemon-polished-crystal.json](./220866-pokemon-polished-crystal.json) |
 | Pokémon Prism | 129588 | [129588-pokemon-prism.json](./129588-pokemon-prism.json) |
@@ -3972,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potty Quest | 225768 | [225768-potty-quest.json](./225768-potty-quest.json) |
 | Potty Racers | 269602 | [269602-potty-racers.json](./269602-potty-racers.json) |
 | Poultry Party | 341558 | [341558-poultry-party.json](./341558-poultry-party.json) |
+| Pounce | 80231 | [80231-pounce.json](./80231-pounce.json) |
 | Pour Boy and the Nitro Necromancer | 400895 | [400895-pour-boy-and-the-nitro-necromancer.json](./400895-pour-boy-and-the-nitro-necromancer.json) |
 | Pour Quelques Bonbons... | 320994 | [320994-pour-quelques-bonbons.json](./320994-pour-quelques-bonbons.json) |
 | Pour There | 155994 | [155994-pour-there.json](./155994-pour-there.json) |
@@ -5137,6 +5140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puffin Parcel Post | 346106 | [346106-puffin-parcel-post.json](./346106-puffin-parcel-post.json) |
 | Puffins: Island Adventure | 68030 | [68030-puffins-island-adventure.json](./68030-puffins-island-adventure.json) |
 | Puffins: Let's Fish! | 84802 | [84802-puffins-lets-fish.json](./84802-puffins-lets-fish.json) |
+| Puffins: Let's Race! | 80215 | [80215-puffins-lets-race.json](./80215-puffins-lets-race.json) |
 | Puffins: Let's Roll | 66695 | [66695-puffins-lets-roll.json](./66695-puffins-lets-roll.json) |
 | Puffmin Quest | 313354 | [313354-puffmin-quest.json](./313354-puffmin-quest.json) |
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
@@ -5378,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Sun | 250340 | [250340-puyo-puyo-sun.json](./250340-puyo-puyo-sun.json) |
 | Puyo Puyo Tetris 2 | 137132 | [137132-puyo-puyo-tetris-2.json](./137132-puyo-puyo-tetris-2.json) |
 | Puyo Puyo Tetris 2: Launch Edition | 139944 | [139944-puyo-puyo-tetris-2-launch-edition.json](./139944-puyo-puyo-tetris-2-launch-edition.json) |
+| Puyo Puyo!! Quest | 80188 | [80188-puyo-puyo-quest.json](./80188-puyo-puyo-quest.json) |
 | Puyo! Sokoban | 367944 | [367944-puyo-sokoban.json](./367944-puyo-sokoban.json) |
 | Puzz 3D: The Orient Express | 70932 | [70932-puzz-3d-the-orient-express.json](./70932-puzz-3d-the-orient-express.json) |
 | Puzz Loop 2 | 39669 | [39669-puzz-loop-2.json](./39669-puzz-loop-2.json) |
