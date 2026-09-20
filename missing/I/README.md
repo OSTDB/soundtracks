@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Believe in Capybara Supremacy! | 250992 | [250992-i-believe-in-capybara-supremacy.json](./250992-i-believe-in-capybara-supremacy.json) |
 | I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
 | I Can Destroy Everything!!! | 274739 | [274739-i-can-destroy-everything.json](./274739-i-can-destroy-everything.json) |
+| I Can Gun | 111502 | [111502-i-can-gun.json](./111502-i-can-gun.json) |
 | I Can Hold My Breath Forever | 139813 | [139813-i-can-hold-my-breath-forever.json](./139813-i-can-hold-my-breath-forever.json) |
 | I Can Human | 211827 | [211827-i-can-human.json](./211827-i-can-human.json) |
 | I Can Save This! | 326612 | [326612-i-can-save-this.json](./326612-i-can-save-this.json) |
@@ -1386,6 +1387,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inseco | 415084 | [415084-inseco.json](./415084-inseco.json) |
 | Insect | 152139 | [152139-insect.json](./152139-insect.json) |
 | Insect Adventure | 140373 | [140373-insect-adventure.json](./140373-insect-adventure.json) |
+| Insect Planet TD | 111461 | [111461-insect-planet-td.json](./111461-insect-planet-td.json) |
+| Insect Planet TD | 111462 | [111462-insect-planet-td.json](./111462-insect-planet-td.json) |
 | Insect: Bombardier beetle | 158075 | [158075-insect-bombardier-beetle.json](./158075-insect-bombardier-beetle.json) |
 | Insectarium Alternative March | 320173 | [320173-insectarium-alternative-march.json](./320173-insectarium-alternative-march.json) |
 | Insectile | 339819 | [339819-insectile.json](./339819-insectile.json) |
