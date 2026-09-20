@@ -2785,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo-Key | 181803 | [181803-robo-key.json](./181803-robo-key.json) |
 | Robo-Summit | 180683 | [180683-robo-summit.json](./180683-robo-summit.json) |
 | Robo-tea: 1cup! | 178518 | [178518-robo-tea-1cup.json](./178518-robo-tea-1cup.json) |
+| Robo-War | 85824 | [85824-robo-war.json](./85824-robo-war.json) |
 | Robo-Worms | 157673 | [157673-robo-worms.json](./157673-robo-worms.json) |
 | RoBo: The Allectric Idventurer | 211283 | [211283-robo-the-allectric-idventurer.json](./211283-robo-the-allectric-idventurer.json) |
 | Robo50 | 211744 | [211744-robo50.json](./211744-robo50.json) |
@@ -3250,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
 | RollerCoaster Tycoon on Nintendo Switch | 95855 | [95855-rollercoaster-tycoon-on-nintendo-switch.json](./95855-rollercoaster-tycoon-on-nintendo-switch.json) |
 | RollerCoaster Tycoon: Deluxe | 36444 | [36444-rollercoaster-tycoon-deluxe.json](./36444-rollercoaster-tycoon-deluxe.json) |
+| Rollercoaster World | 85842 | [85842-rollercoaster-world.json](./85842-rollercoaster-world.json) |
 | Rollercoaster World 2 | 230305 | [230305-rollercoaster-world-2.json](./230305-rollercoaster-world-2.json) |
 | Rollergames | 138793 | [138793-rollergames.json](./138793-rollergames.json) |
 | RollerPlay | 121017 | [121017-rollerplay.json](./121017-rollerplay.json) |
@@ -3819,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumpus | 150522 | [150522-rumpus.json](./150522-rumpus.json) |
 | Rumpus | 30940 | [30940-rumpus.json](./30940-rumpus.json) |
 | Rumu | 74584 | [74584-rumu.json](./74584-rumu.json) |
+| Run | 85867 | [85867-run.json](./85867-run.json) |
 | Run & Jump Guy | 304363 | [304363-run-and-jump-guy.json](./304363-run-and-jump-guy.json) |
 | Run and Fire | 274566 | [274566-run-and-fire.json](./274566-run-and-fire.json) |
 | Run and Gun | 283765 | [283765-run-and-gun.json](./283765-run-and-gun.json) |
