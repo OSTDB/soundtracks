@@ -1210,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pearl Harbor: Defend the Fleet | 69574 | [69574-pearl-harbor-defend-the-fleet.json](./69574-pearl-harbor-defend-the-fleet.json) |
 | Pearl Harbor: Strike at Dawn | 138007 | [138007-pearl-harbor-strike-at-dawn.json](./138007-pearl-harbor-strike-at-dawn.json) |
 | Pearl Harbor: Zero Hour | 72057 | [72057-pearl-harbor-zero-hour.json](./72057-pearl-harbor-zero-hour.json) |
+| Pearl Jam Live: Rock Band | 68299 | [68299-pearl-jam-live-rock-band.json](./68299-pearl-jam-live-rock-band.json) |
 | Pearl Rising | 314054 | [314054-pearl-rising.json](./314054-pearl-rising.json) |
 | Pearlessential | 337732 | [337732-pearlessential.json](./337732-pearlessential.json) |
 | Pearls | 246501 | [246501-pearls.json](./246501-pearls.json) |
@@ -2991,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playback Trauma: The Beach | 159888 | [159888-playback-trauma-the-beach.json](./159888-playback-trauma-the-beach.json) |
 | Playbook VR | 344434 | [344434-playbook-vr.json](./344434-playbook-vr.json) |
 | PlayBound | 126662 | [126662-playbound.json](./126662-playbound.json) |
+| Playboy Manager | 68309 | [68309-playboy-manager.json](./68309-playboy-manager.json) |
 | Playboy: The Mansion - Private Party | 68037 | [68037-playboy-the-mansion-private-party.json](./68037-playboy-the-mansion-private-party.json) |
 | PlayChapas | 177934 | [177934-playchapas.json](./177934-playchapas.json) |
 | Playdate Bunny Bundle | 245320 | [245320-playdate-bunny-bundle.json](./245320-playdate-bunny-bundle.json) |
@@ -3170,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Luna | 193878 | [193878-pocket-luna.json](./193878-pocket-luna.json) |
 | Pocket Mario | 318031 | [318031-pocket-mario.json](./318031-pocket-mario.json) |
 | Pocket Mine | 38909 | [38909-pocket-mine.json](./38909-pocket-mine.json) |
+| Pocket Mine 3 | 68340 | [68340-pocket-mine-3.json](./68340-pocket-mine-3.json) |
 | Pocket Mine 3 | 77666 | [77666-pocket-mine-3.json](./77666-pocket-mine-3.json) |
 | Pocket Mini Golf | 132027 | [132027-pocket-mini-golf.json](./132027-pocket-mini-golf.json) |
 | Pocket Monsters RPG | 130335 | [130335-pocket-monsters-rpg.json](./130335-pocket-monsters-rpg.json) |
