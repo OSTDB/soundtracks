@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Hetalia Portable | 59419 | [59419-gakuen-hetalia-portable.json](./59419-gakuen-hetalia-portable.json) |
 | Gakuen Hyoryuu Senki | 191872 | [191872-gakuen-hyoryuu-senki.json](./191872-gakuen-hyoryuu-senki.json) |
 | Gakuen Hyouryuu Senki Dai 2 Wa | 191873 | [191873-gakuen-hyouryuu-senki-dai-2-wa.json](./191873-gakuen-hyouryuu-senki-dai-2-wa.json) |
+| Gakuen K: Wonderful School Days - V Edition | 108826 | [108826-gakuen-k-wonderful-school-days-v-edition.json](./108826-gakuen-k-wonderful-school-days-v-edition.json) |
 | Gakuen Senki | 251188 | [251188-gakuen-senki.json](./251188-gakuen-senki.json) |
 | Gakuen Sentai Solblast | 322189 | [322189-gakuen-sentai-solblast.json](./322189-gakuen-sentai-solblast.json) |
 | Gakuin Makyo: High School Crisis | 322577 | [322577-gakuin-makyo-high-school-crisis.json](./322577-gakuin-makyo-high-school-crisis.json) |
