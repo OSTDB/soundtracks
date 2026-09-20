@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Rail Sim 3D Journey in suburbs #1 Vol.3 | 85211 | [85211-japanese-rail-sim-3d-journey-in-suburbs-1-vol-3.json](./85211-japanese-rail-sim-3d-journey-in-suburbs-1-vol-3.json) |
 | Japanese Rail Sim 3D Journey in suburbs #1 Vol.4 | 85210 | [85210-japanese-rail-sim-3d-journey-in-suburbs-1-vol-4.json](./85210-japanese-rail-sim-3d-journey-in-suburbs-1-vol-4.json) |
 | Japanese Rail Sim 3D Monorail Trip to Okinawa | 85209 | [85209-japanese-rail-sim-3d-monorail-trip-to-okinawa.json](./85209-japanese-rail-sim-3d-monorail-trip-to-okinawa.json) |
+| Japanese Rail Sim 3D Travel of Steam | 77668 | [77668-japanese-rail-sim-3d-travel-of-steam.json](./77668-japanese-rail-sim-3d-travel-of-steam.json) |
 | Japanese Rail Sim 3D: 5 types of trains | 147915 | [147915-japanese-rail-sim-3d-5-types-of-trains.json](./147915-japanese-rail-sim-3d-5-types-of-trains.json) |
 | Japanese Rail Sim: Hakone Town of Natural Beauty and Hot Springs | 315837 | [315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json](./315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json) |
 | Japanese Rail Sim: Journey to Kyoto | 139991 | [139991-japanese-rail-sim-journey-to-kyoto.json](./139991-japanese-rail-sim-journey-to-kyoto.json) |
