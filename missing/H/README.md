@@ -2138,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: Smithsonian Hope Diamond | 187955 | [187955-hidden-expedition-smithsonian-hope-diamond.json](./187955-hidden-expedition-smithsonian-hope-diamond.json) |
 | Hidden Expedition: The Curse of Mithridates | 97312 | [97312-hidden-expedition-the-curse-of-mithridates.json](./97312-hidden-expedition-the-curse-of-mithridates.json) |
 | Hidden Expedition: The Eternal Emperor | 140035 | [140035-hidden-expedition-the-eternal-emperor.json](./140035-hidden-expedition-the-eternal-emperor.json) |
+| Hidden Expedition: The Fountain of Youth | 101961 | [101961-hidden-expedition-the-fountain-of-youth.json](./101961-hidden-expedition-the-fountain-of-youth.json) |
 | Hidden Expedition: The Fountain of Youth - Collector's Edition | 53213 | [53213-hidden-expedition-the-fountain-of-youth-collectors-edition.json](./53213-hidden-expedition-the-fountain-of-youth-collectors-edition.json) |
 | Hidden Expedition: The Pearl of Discord | 140037 | [140037-hidden-expedition-the-pearl-of-discord.json](./140037-hidden-expedition-the-pearl-of-discord.json) |
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
@@ -2172,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Mysteries: Return to Titanic | 206730 | [206730-hidden-mysteries-return-to-titanic.json](./206730-hidden-mysteries-return-to-titanic.json) |
 | Hidden Nature | 372017 | [372017-hidden-nature.json](./372017-hidden-nature.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
+| Hidden Object Adventures: Sunken Treasures | 101940 | [101940-hidden-object-adventures-sunken-treasures.json](./101940-hidden-object-adventures-sunken-treasures.json) |
 | Hidden Object Ancient Dragons | 104624 | [104624-hidden-object-ancient-dragons.json](./104624-hidden-object-ancient-dragons.json) |
 | Hidden Object Bachelorette | 102733 | [102733-hidden-object-bachelorette.json](./102733-hidden-object-bachelorette.json) |
 | Hidden Object Classic: Treasures II | 209037 | [209037-hidden-object-classic-treasures-ii.json](./209037-hidden-object-classic-treasures-ii.json) |
@@ -2216,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Cartoon Fantasy | 170557 | [170557-hidden-objects-cartoon-fantasy.json](./170557-hidden-objects-cartoon-fantasy.json) |
 | Hidden Objects: Chambord Castle Adventures | 103534 | [103534-hidden-objects-chambord-castle-adventures.json](./103534-hidden-objects-chambord-castle-adventures.json) |
 | Hidden Objects: Messy Kitchen | 233218 | [233218-hidden-objects-messy-kitchen.json](./233218-hidden-objects-messy-kitchen.json) |
+| Hidden Objects: Mystery Tree House - Dog Adventure: Find the Evidence Story | 101970 | [101970-hidden-objects-mystery-tree-house-dog-adventure-find-the-evidence-story.json](./101970-hidden-objects-mystery-tree-house-dog-adventure-find-the-evidence-story.json) |
 | Hidden Objects: Romantic Love - Castle: Scary Mystery Ghost - The Secret Forest | 88266 | [88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json](./88266-hidden-objects-romantic-love-castle-scary-mystery-ghost-the-secret-forest.json) |
 | Hidden Objects: Secret Vampire Rooms - Lost Kingdom: My Village | 86700 | [86700-hidden-objects-secret-vampire-rooms-lost-kingdom-my-village.json](./86700-hidden-objects-secret-vampire-rooms-lost-kingdom-my-village.json) |
 | Hidden Objects: Sherlock Holmes Mystery Case - The Big Apartment: My Mysterious House - The Big Hotel | 86723 | [86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json](./86723-hidden-objects-sherlock-holmes-mystery-case-the-big-apartment-my-mysterious-house-the-big-hotel.json) |
@@ -2805,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Stick! | 157037 | [157037-holy-stick.json](./157037-holy-stick.json) |
 | Holy Umbrella: Dondera no Mubou!! | 38386 | [38386-holy-umbrella-dondera-no-mubou.json](./38386-holy-umbrella-dondera-no-mubou.json) |
 | Holy War | 273484 | [273484-holy-war.json](./273484-holy-war.json) |
+| Holyday City | 101933 | [101933-holyday-city.json](./101933-holyday-city.json) |
 | Holyday City: Reloaded | 76536 | [76536-holyday-city-reloaded.json](./76536-holyday-city-reloaded.json) |
 | Homaysa | 224223 | [224223-homaysa.json](./224223-homaysa.json) |
 | Home | 121014 | [121014-home.json](./121014-home.json) |
