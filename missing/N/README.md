@@ -1248,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Bounty: The Dame with the Blue Chewed Shoe. | 111203 | [111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json](./111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json) |
 | Nick Brawl Community Edition | 325669 | [325669-nick-brawl-community-edition.json](./325669-nick-brawl-community-edition.json) |
 | Nick Faldo Championship Golf | 295038 | [295038-nick-faldo-championship-golf.json](./295038-nick-faldo-championship-golf.json) |
+| Nick Football Champions | 112133 | [112133-nick-football-champions.json](./112133-nick-football-champions.json) |
 | Nick Jr. Play Math! | 210029 | [210029-nick-jr-play-math.json](./210029-nick-jr-play-math.json) |
 | Nick Logic for Kids | 387331 | [387331-nick-logic-for-kids.json](./387331-nick-logic-for-kids.json) |
 | Nick News with Linda Ellerbee Word Search | 325083 | [325083-nick-news-with-linda-ellerbee-word-search.json](./325083-nick-news-with-linda-ellerbee-word-search.json) |
