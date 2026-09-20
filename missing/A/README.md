@@ -2299,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anasozas: Another Surreal World | 379449 | [379449-anasozas-another-surreal-world.json](./379449-anasozas-another-surreal-world.json) |
 | Anastasia | 208394 | [208394-anastasia.json](./208394-anastasia.json) |
 | Anastasia to 7-nin no Himegami: Inmon no Rakuin | 108978 | [108978-anastasia-to-7-nin-no-himegami-inmon-no-rakuin.json](./108978-anastasia-to-7-nin-no-himegami-inmon-no-rakuin.json) |
+| Anastasia: Adventures with Pooka and Bartok | 69561 | [69561-anastasia-adventures-with-pooka-and-bartok.json](./69561-anastasia-adventures-with-pooka-and-bartok.json) |
 | Anata dake no Private Lesson: DS de Hajimeru Tipness no Yoga | 269550 | [269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json](./269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json) |
 | Anata o Yurusanai | 59396 | [59396-anata-o-yurusanai.json](./59396-anata-o-yurusanai.json) |
 | Anbar | 387545 | [387545-anbar.json](./387545-anbar.json) |
