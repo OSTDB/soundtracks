@@ -1643,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Certain Death | 311466 | [311466-certain-death.json](./311466-certain-death.json) |
 | Cerulean Days | 258996 | [258996-cerulean-days.json](./258996-cerulean-days.json) |
 | Cerulean Tears | 323929 | [323929-cerulean-tears.json](./323929-cerulean-tears.json) |
+| Cesar Millan's Dog Whisperer | 70646 | [70646-cesar-millans-dog-whisperer.json](./70646-cesar-millans-dog-whisperer.json) |
 | CFG: Combat for General | 235478 | [235478-cfg-combat-for-general.json](./235478-cfg-combat-for-general.json) |
 | CFL Football '99 | 78671 | [78671-cfl-football-99.json](./78671-cfl-football-99.json) |
 | CG Mukashi Banashi: Jiisan 2-do Bikkuri!! | 346144 | [346144-cg-mukashi-banashi-jiisan-2-do-bikkuri.json](./346144-cg-mukashi-banashi-jiisan-2-do-bikkuri.json) |
@@ -4566,6 +4567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cos-tte! Aki-san! vol.2 | 98460 | [98460-cos-tte-aki-san-vol-2.json](./98460-cos-tte-aki-san-vol-2.json) |
 | Cosa Nostra | 39108 | [39108-cosa-nostra.json](./39108-cosa-nostra.json) |
 | Cosmetic Paradise: Kirei no Mahou | 130393 | [130393-cosmetic-paradise-kirei-no-mahou.json](./130393-cosmetic-paradise-kirei-no-mahou.json) |
+| Cosmetic Paradise: Make no Kiseki | 70674 | [70674-cosmetic-paradise-make-no-kiseki.json](./70674-cosmetic-paradise-make-no-kiseki.json) |
 | Cosmetic Paradise: Princess Life | 130392 | [130392-cosmetic-paradise-princess-life.json](./130392-cosmetic-paradise-princess-life.json) |
 | Cosmi-Cave 64 | 106414 | [106414-cosmi-cave-64.json](./106414-cosmi-cave-64.json) |
 | Cosmic Badger | 197746 | [197746-cosmic-badger.json](./197746-cosmic-badger.json) |
@@ -5788,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CS Pipas: Legend | 391713 | [391713-cs-pipas-legend.json](./391713-cs-pipas-legend.json) |
 | CSC | 339346 | [339346-csc.json](./339346-csc.json) |
 | CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
+| CSI: NY | 70640 | [70640-csi-ny.json](./70640-csi-ny.json) |
 | CSI: Slots | 79913 | [79913-csi-slots.json](./79913-csi-slots.json) |
 | CSOL | 258488 | [258488-csol.json](./258488-csol.json) |
 | CSR Classics | 58238 | [58238-csr-classics.json](./58238-csr-classics.json) |
