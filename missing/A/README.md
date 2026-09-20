@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akari by Nikoli | 84869 | [84869-akari-by-nikoli.json](./84869-akari-by-nikoli.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
 | Akatori | 140375 | [140375-akatori.json](./140375-akatori.json) |
+| Akatsuki Blitzkampf | 80207 | [80207-akatsuki-blitzkampf.json](./80207-akatsuki-blitzkampf.json) |
 | Akatsuki Blitzkampf: Ausf. Achse | 132026 | [132026-akatsuki-blitzkampf-ausf-achse.json](./132026-akatsuki-blitzkampf-ausf-achse.json) |
 | Akatsuki no Amaneka to Aoi Kyojin: Pashiate Bunmei Kenkyuukai Koubouki | 67296 | [67296-akatsuki-no-amaneka-to-aoi-kyojin-pashiate-bunmei-kenkyuukai-koubouki.json](./67296-akatsuki-no-amaneka-to-aoi-kyojin-pashiate-bunmei-kenkyuukai-koubouki.json) |
 | Akatsuki no Bizantira | 228703 | [228703-akatsuki-no-bizantira.json](./228703-akatsuki-no-bizantira.json) |
@@ -4939,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon | 269110 | [269110-avalon.json](./269110-avalon.json) |
 | Avalon Crew | 386705 | [386705-avalon-crew.json](./386705-avalon-crew.json) |
 | Avalon Heroes | 63886 | [63886-avalon-heroes.json](./63886-avalon-heroes.json) |
+| Avalon Legends | 80195 | [80195-avalon-legends.json](./80195-avalon-legends.json) |
 | Avalon Legends Solitaire 2 | 31720 | [31720-avalon-legends-solitaire-2.json](./31720-avalon-legends-solitaire-2.json) |
 | Avalon Lords | 137012 | [137012-avalon-lords.json](./137012-avalon-lords.json) |
 | Avalon Lords: Dawn Rises | 20464 | [20464-avalon-lords-dawn-rises.json](./20464-avalon-lords-dawn-rises.json) |
@@ -5081,6 +5083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AWS Argentina Wingshooting Simulator | 75032 | [75032-aws-argentina-wingshooting-simulator.json](./75032-aws-argentina-wingshooting-simulator.json) |
 | AX-1: Arabian Rhapsody | 91462 | [91462-ax-1-arabian-rhapsody.json](./91462-ax-1-arabian-rhapsody.json) |
 | AX-10: Outlaw | 91459 | [91459-ax-10-outlaw.json](./91459-ax-10-outlaw.json) |
+| AX-6: Powered Knight | 80218 | [80218-ax-6-powered-knight.json](./80218-ax-6-powered-knight.json) |
 | AX-7: Police & Gangster | 91461 | [91461-ax-7-police-and-gangster.json](./91461-ax-7-police-and-gangster.json) |
 | AX-8: Galaxy Mission | 91460 | [91460-ax-8-galaxy-mission.json](./91460-ax-8-galaxy-mission.json) |
 | Axan Ships | 120152 | [120152-axan-ships.json](./120152-axan-ships.json) |
