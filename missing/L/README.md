@@ -2079,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lober Lobe | 311475 | [311475-lober-lobe.json](./311475-lober-lobe.json) |
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
 | Lobotrypo | 332254 | [332254-lobotrypo.json](./332254-lobotrypo.json) |
+| Loca-Love My Commuting Crush | 120792 | [120792-loca-love-my-commuting-crush.json](./120792-loca-love-my-commuting-crush.json) |
 | Loca-Love My Cute Roommate | 110774 | [110774-loca-love-my-cute-roommate.json](./110774-loca-love-my-cute-roommate.json) |
 | Loca-Love: My Pure Priestess | 146302 | [146302-loca-love-my-pure-priestess.json](./146302-loca-love-my-pure-priestess.json) |
 | Local Network | 178019 | [178019-local-network.json](./178019-local-network.json) |
