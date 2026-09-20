@@ -3001,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroidvania Bundle | 268482 | [268482-metroidvania-bundle.json](./268482-metroidvania-bundle.json) |
 | Metroland | 201688 | [201688-metroland.json](./201688-metroland.json) |
 | MetroLand | 319770 | [319770-metroland.json](./319770-metroland.json) |
+| Metronium | 120820 | [120820-metronium.json](./120820-metronium.json) |
 | Metronome HD | 66601 | [66601-metronome-hd.json](./66601-metronome-hd.json) |
 | Metropocre | 169975 | [169975-metropocre.json](./169975-metropocre.json) |
 | Metropolis | 209520 | [209520-metropolis.json](./209520-metropolis.json) |
@@ -3503,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Reader: Ghost Trip | 347716 | [347716-mind-reader-ghost-trip.json](./347716-mind-reader-ghost-trip.json) |
 | Mind Shadows | 151180 | [151180-mind-shadows.json](./151180-mind-shadows.json) |
 | Mind Space | 171469 | [171469-mind-space.json](./171469-mind-space.json) |
+| Mind Switch | 120786 | [120786-mind-switch.json](./120786-mind-switch.json) |
 | Mind the Abyss | 310175 | [310175-mind-the-abyss.json](./310175-mind-the-abyss.json) |
 | Mind the Pipes! | 234708 | [234708-mind-the-pipes.json](./234708-mind-the-pipes.json) |
 | Mind Trap | 98378 | [98378-mind-trap.json](./98378-mind-trap.json) |
@@ -3747,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Star Quest | 344948 | [344948-mini-star-quest.json](./344948-mini-star-quest.json) |
 | Mini Stasol | 366918 | [366918-mini-stasol.json](./366918-mini-stasol.json) |
 | Mini Subway: Logic on the Metro Line | 209693 | [209693-mini-subway-logic-on-the-metro-line.json](./209693-mini-subway-logic-on-the-metro-line.json) |
+| Mini Tekton | 120822 | [120822-mini-tekton.json](./120822-mini-tekton.json) |
 | Mini Tennis | 242560 | [242560-mini-tennis.json](./242560-mini-tennis.json) |
 | Mini Tennis Club | 298308 | [298308-mini-tennis-club.json](./298308-mini-tennis-club.json) |
 | Mini Toss | 323159 | [323159-mini-toss.json](./323159-mini-toss.json) |
