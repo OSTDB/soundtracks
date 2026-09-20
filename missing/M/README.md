@@ -2823,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meshchera | 415882 | [415882-meshchera.json](./415882-meshchera.json) |
 | Meshuda | 406213 | [406213-meshuda.json](./406213-meshuda.json) |
 | Mesih | 281386 | [281386-mesih.json](./281386-mesih.json) |
+| Mesmerize: Distort | 99979 | [99979-mesmerize-distort.json](./99979-mesmerize-distort.json) |
 | Mesmerize: Trace | 209526 | [209526-mesmerize-trace.json](./209526-mesmerize-trace.json) |
 | Meso | 319350 | [319350-meso.json](./319350-meso.json) |
 | Mesopotamia | 42042 | [42042-mesopotamia.json](./42042-mesopotamia.json) |
@@ -5186,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Trap Dungeon | 378282 | [378282-mortal-trap-dungeon.json](./378282-mortal-trap-dungeon.json) |
 | Mortal Void | 336628 | [336628-mortal-void.json](./336628-mortal-void.json) |
 | Mortal Weapon | 74333 | [74333-mortal-weapon.json](./74333-mortal-weapon.json) |
+| Mortal Wrestle Fight Pro | 99991 | [99991-mortal-wrestle-fight-pro.json](./99991-mortal-wrestle-fight-pro.json) |
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
 | Mortality... Please | 417597 | [417597-mortality-please.json](./417597-mortality-please.json) |
 | Mortanum | 403658 | [403658-mortanum.json](./403658-mortanum.json) |
@@ -5221,6 +5223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaique Neko Waifus 2 | 167808 | [167808-mosaique-neko-waifus-2.json](./167808-mosaique-neko-waifus-2.json) |
 | Mosaique Neko Waifus 4 | 167809 | [167809-mosaique-neko-waifus-4.json](./167809-mosaique-neko-waifus-4.json) |
 | Mosaique Neko Waifus 5 | 221206 | [221206-mosaique-neko-waifus-5.json](./221206-mosaique-neko-waifus-5.json) |
+| Moses: Old Testament Adventure #1 | 100018 | [100018-moses-old-testament-adventure-1.json](./100018-moses-old-testament-adventure-1.json) |
 | Mosh Pit Simulator | 109545 | [109545-mosh-pit-simulator.json](./109545-mosh-pit-simulator.json) |
 | Moshi Monsters: School of ROX | 230391 | [230391-moshi-monsters-school-of-rox.json](./230391-moshi-monsters-school-of-rox.json) |
 | Móshòu Shìjiè: Èmó Lièrén | 252361 | [252361-moshou-shijie-emo-lieren.json](./252361-moshou-shijie-emo-lieren.json) |
@@ -6641,6 +6644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: Of Fiends and Fairies HD | 106644 | [106644-myths-of-the-world-of-fiends-and-fairies-hd.json](./106644-myths-of-the-world-of-fiends-and-fairies-hd.json) |
 | Myths of the World: Spirit Wolf - Collector's Edition | 83555 | [83555-myths-of-the-world-spirit-wolf-collectors-edition.json](./83555-myths-of-the-world-spirit-wolf-collectors-edition.json) |
 | Mythscroll | 342041 | [342041-mythscroll.json](./342041-mythscroll.json) |
+| MyTP 3: Snowboard, Freeski and Skateboard | 99993 | [99993-mytp-3-snowboard-freeski-and-skateboard.json](./99993-mytp-3-snowboard-freeski-and-skateboard.json) |
 | MyTP Skateboarding | 197754 | [197754-mytp-skateboarding.json](./197754-mytp-skateboarding.json) |
 | Mytran Wars | 19202 | [19202-mytran-wars.json](./19202-mytran-wars.json) |
 | MyVegas Blackjack | 370751 | [370751-myvegas-blackjack.json](./370751-myvegas-blackjack.json) |
