@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windows XP Meteorite Covenant | 237516 | [237516-windows-xp-meteorite-covenant.json](./237516-windows-xp-meteorite-covenant.json) |
 | Windrose | 380441 | [380441-windrose.json](./380441-windrose.json) |
 | Windrush Tales | 180269 | [180269-windrush-tales.json](./180269-windrush-tales.json) |
+| Winds of Change - The Opening Act | 118812 | [118812-winds-of-change-the-opening-act.json](./118812-winds-of-change-the-opening-act.json) |
 | Winds of Destiny - Duels of the Magi | 39002 | [39002-winds-of-destiny-duels-of-the-magi.json](./39002-winds-of-destiny-duels-of-the-magi.json) |
 | Winds Rhapsody | 142479 | [142479-winds-rhapsody.json](./142479-winds-rhapsody.json) |
 | WindShift | 116362 | [116362-windshift.json](./116362-windshift.json) |
