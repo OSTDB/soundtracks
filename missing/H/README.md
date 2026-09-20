@@ -3539,8 +3539,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howling Village: Echoes | 175810 | [175810-howling-village-echoes.json](./175810-howling-village-echoes.json) |
 | HowLongToBeat: The Game | 362903 | [362903-howlongtobeat-the-game.json](./362903-howlongtobeat-the-game.json) |
 | Howrse | 152750 | [152750-howrse.json](./152750-howrse.json) |
+| Hoyle Board Games 2003 | 97126 | [97126-hoyle-board-games-2003.json](./97126-hoyle-board-games-2003.json) |
 | Hoyle Card Games | 77395 | [77395-hoyle-card-games.json](./77395-hoyle-card-games.json) |
 | Hoyle Card Games | 87746 | [87746-hoyle-card-games.json](./87746-hoyle-card-games.json) |
+| Hoyle Card Games 2007 | 97125 | [97125-hoyle-card-games-2007.json](./97125-hoyle-card-games-2007.json) |
 | Hoyle Card Games 2009 | 210064 | [210064-hoyle-card-games-2009.json](./210064-hoyle-card-games-2009.json) |
 | Hoyle Card Games 2011 | 210065 | [210065-hoyle-card-games-2011.json](./210065-hoyle-card-games-2011.json) |
 | Hoyle Casino | 131506 | [131506-hoyle-casino.json](./131506-hoyle-casino.json) |
@@ -3559,6 +3561,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Official Book of Games: Volume 1 | 57604 | [57604-hoyle-official-book-of-games-volume-1.json](./57604-hoyle-official-book-of-games-volume-1.json) |
 | Hoyle Official Card Games Collection | 34590 | [34590-hoyle-official-card-games-collection.json](./34590-hoyle-official-card-games-collection.json) |
 | Hoyle Parlor Games | 89693 | [89693-hoyle-parlor-games.json](./89693-hoyle-parlor-games.json) |
+| Hoyle Puzzle & Board Games 2005 | 97127 | [97127-hoyle-puzzle-and-board-games-2005.json](./97127-hoyle-puzzle-and-board-games-2005.json) |
+| Hoyle Puzzle & Board Games 2007 | 97129 | [97129-hoyle-puzzle-and-board-games-2007.json](./97129-hoyle-puzzle-and-board-games-2007.json) |
+| Hoyle Puzzle & Board Games 2008 | 97128 | [97128-hoyle-puzzle-and-board-games-2008.json](./97128-hoyle-puzzle-and-board-games-2008.json) |
 | Hoyle Puzzle & Board Games 2009 | 210052 | [210052-hoyle-puzzle-and-board-games-2009.json](./210052-hoyle-puzzle-and-board-games-2009.json) |
 | Hoyle Puzzle and Board Games 2010 | 51209 | [51209-hoyle-puzzle-and-board-games-2010.json](./51209-hoyle-puzzle-and-board-games-2010.json) |
 | Hoyle South Beach Solitaire | 210051 | [210051-hoyle-south-beach-solitaire.json](./210051-hoyle-south-beach-solitaire.json) |
