@@ -1576,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorist Apartment | 107844 | [107844-terrorist-apartment.json](./107844-terrorist-apartment.json) |
 | Terrorist Killer | 143755 | [143755-terrorist-killer.json](./143755-terrorist-killer.json) |
 | Terrorist Takedown: Payback | 54430 | [54430-terrorist-takedown-payback.json](./54430-terrorist-takedown-payback.json) |
+| Terrorist Takedown: War in Colombia | 70122 | [70122-terrorist-takedown-war-in-colombia.json](./70122-terrorist-takedown-war-in-colombia.json) |
 | TerrorMario! | 323754 | [323754-terrormario.json](./323754-terrormario.json) |
 | Terroro | 318493 | [318493-terroro.json](./318493-terroro.json) |
 | Terrors to Unveil: Day Off | 348313 | [348313-terrors-to-unveil-day-off.json](./348313-terrors-to-unveil-day-off.json) |
@@ -1895,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of The Black Hawk | 274575 | [274575-the-adventures-of-the-black-hawk.json](./274575-the-adventures-of-the-black-hawk.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 42588 | [42588-the-adventures-of-tintin-prisoners-of-the-sun.json](./42588-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
+| The Aethra Chronicles, Volume One: Celystra's Bane | 70125 | [70125-the-aethra-chronicles-volume-one-celystras-bane.json](./70125-the-aethra-chronicles-volume-one-celystras-bane.json) |
 | The Afterlife Cafe | 367948 | [367948-the-afterlife-cafe.json](./367948-the-afterlife-cafe.json) |
 | The Afterwoods | 72352 | [72352-the-afterwoods.json](./72352-the-afterwoods.json) |
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
@@ -3244,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fruit Game | 346565 | [346565-the-fruit-game.json](./346565-the-fruit-game.json) |
 | The Fruit, Labyrinth, and Eden of Grisaia Full Package | 117746 | [117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json](./117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json) |
 | The Fugitives | 330309 | [330309-the-fugitives.json](./330309-the-fugitives.json) |
+| The Full Wormage | 70082 | [70082-the-full-wormage.json](./70082-the-full-wormage.json) |
 | The Funny Boneyard | 112335 | [112335-the-funny-boneyard.json](./112335-the-funny-boneyard.json) |
 | The Funskin Project | 345584 | [345584-the-funskin-project.json](./345584-the-funskin-project.json) |
 | The Furniture of Self | 185626 | [185626-the-furniture-of-self.json](./185626-the-furniture-of-self.json) |
@@ -4456,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mask Reveals Disgusting Face | 143479 | [143479-the-mask-reveals-disgusting-face.json](./143479-the-mask-reveals-disgusting-face.json) |
 | The Mask: Mayhem | 255333 | [255333-the-mask-mayhem.json](./255333-the-mask-mayhem.json) |
 | The Masked Prisoner | 217000 | [217000-the-masked-prisoner.json](./217000-the-masked-prisoner.json) |
+| The Master | 70106 | [70106-the-master.json](./70106-the-master.json) |
 | The Master of the Land | 362278 | [362278-the-master-of-the-land.json](./362278-the-master-of-the-land.json) |
 | The Master's Pupil | 211813 | [211813-the-masters-pupil.json](./211813-the-masters-pupil.json) |
 | The Masters: Survival | 188571 | [188571-the-masters-survival.json](./188571-the-masters-survival.json) |
@@ -5145,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The S.H.O.W. | 412964 | [412964-the-s-h-o-w.json](./412964-the-s-h-o-w.json) |
 | The Saboteur | 3171 | [3171-the-saboteur.json](./3171-the-saboteur.json) |
 | The Sacred Acorn | 141175 | [141175-the-sacred-acorn.json](./141175-the-sacred-acorn.json) |
+| The Sacred Mirror of Kofun | 70081 | [70081-the-sacred-mirror-of-kofun.json](./70081-the-sacred-mirror-of-kofun.json) |
 | The Sacrifice | 89210 | [89210-the-sacrifice.json](./89210-the-sacrifice.json) |
 | The Sacrificial Girl of the Fantasy 3 Kingdoms: Shu | 130206 | [130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json](./130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json) |
 | The Saddle Club | 268211 | [268211-the-saddle-club.json](./268211-the-saddle-club.json) |
@@ -6464,6 +6469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Are Hundreds | 87954 | [87954-they-are-hundreds.json](./87954-they-are-hundreds.json) |
 | They are in the Trees | 224640 | [224640-they-are-in-the-trees.json](./224640-they-are-in-the-trees.json) |
 | They Are Rising | 392135 | [392135-they-are-rising.json](./392135-they-are-rising.json) |
+| They Call Me... The Skul | 70093 | [70093-they-call-me-the-skul.json](./70093-they-call-me-the-skul.json) |
 | They Came From Dimension X | 213978 | [213978-they-came-from-dimension-x.json](./213978-they-came-from-dimension-x.json) |
 | They Came from the Ground | 328620 | [328620-they-came-from-the-ground.json](./328620-they-came-from-the-ground.json) |
 | They Die Tomorrow | 188567 | [188567-they-die-tomorrow.json](./188567-they-die-tomorrow.json) |
@@ -6530,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | THiNK-X | 94539 | [94539-think-x.json](./94539-think-x.json) |
 | Think! Think! Monsters | 233512 | [233512-think-think-monsters.json](./233512-think-think-monsters.json) |
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
+| Thinkin' Things Collection 2 | 70086 | [70086-thinkin-things-collection-2.json](./70086-thinkin-things-collection-2.json) |
 | Thinkin' Things Collection 3 | 78954 | [78954-thinkin-things-collection-3.json](./78954-thinkin-things-collection-3.json) |
 | Thinking Games 2 | 72064 | [72064-thinking-games-2.json](./72064-thinking-games-2.json) |
 | Thinkrolls Space | 119571 | [119571-thinkrolls-space.json](./119571-thinkrolls-space.json) |
@@ -6544,6 +6551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThirdMiracle | 197764 | [197764-thirdmiracle.json](./197764-thirdmiracle.json) |
 | Thirst | 31836 | [31836-thirst.json](./31836-thirst.json) |
 | Thirsty | 310941 | [310941-thirsty.json](./310941-thirsty.json) |
+| Thirsty Nellan | 70111 | [70111-thirsty-nellan.json](./70111-thirsty-nellan.json) |
 | Thirsty Suitors | 185240 | [185240-thirsty-suitors.json](./185240-thirsty-suitors.json) |
 | Thirteen Souls | 129770 | [129770-thirteen-souls.json](./129770-thirteen-souls.json) |
 | Thirty Cycles | 200710 | [200710-thirty-cycles.json](./200710-thirty-cycles.json) |
@@ -8772,6 +8780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tourist Bus Simulator: VDL Futura FHD2 | 168886 | [168886-tourist-bus-simulator-vdl-futura-fhd2.json](./168886-tourist-bus-simulator-vdl-futura-fhd2.json) |
 | Tourist Bus Simulator: W906 | 168893 | [168893-tourist-bus-simulator-w906.json](./168893-tourist-bus-simulator-w906.json) |
 | Tourist Trophy | 8213 | [8213-tourist-trophy.json](./8213-tourist-trophy.json) |
+| Tournament Blackjack | 70101 | [70101-tournament-blackjack.json](./70101-tournament-blackjack.json) |
 | Tournament of Armistice: Preliminaries | 163853 | [163853-tournament-of-armistice-preliminaries.json](./163853-tournament-of-armistice-preliminaries.json) |
 | Tournament of Tamers | 157168 | [157168-tournament-of-tamers.json](./157168-tournament-of-tamers.json) |
 | Tournament Pool | 51162 | [51162-tournament-pool.json](./51162-tournament-pool.json) |
@@ -9040,6 +9049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade And Fight | 306366 | [306366-trade-and-fight.json](./306366-trade-and-fight.json) |
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
 | Trade Conquest | 326281 | [326281-trade-conquest.json](./326281-trade-conquest.json) |
+| Trade Empires | 70113 | [70113-trade-empires.json](./70113-trade-empires.json) |
 | Trade Post Forest | 258986 | [258986-trade-post-forest.json](./258986-trade-post-forest.json) |
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
 | Trader Life Simulator | 143666 | [143666-trader-life-simulator.json](./143666-trader-life-simulator.json) |
