@@ -1261,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Skater: SL Pro Series Tour | 296527 | [296527-vr-skater-sl-pro-series-tour.json](./296527-vr-skater-sl-pro-series-tour.json) |
 | VR Sky Walk | 189114 | [189114-vr-sky-walk.json](./189114-vr-sky-walk.json) |
 | VR Smash Park | 111716 | [111716-vr-smash-park.json](./111716-vr-smash-park.json) |
+| VR Soccer Training | 86585 | [86585-vr-soccer-training.json](./86585-vr-soccer-training.json) |
 | VR Sport and Cycling | 116304 | [116304-vr-sport-and-cycling.json](./116304-vr-sport-and-cycling.json) |
 | VR Squash 2017 | 74398 | [74398-vr-squash-2017.json](./74398-vr-squash-2017.json) |
 | VR Sweet Heart | 193450 | [193450-vr-sweet-heart.json](./193450-vr-sweet-heart.json) |
