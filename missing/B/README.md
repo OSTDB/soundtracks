@@ -3197,6 +3197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobun | 316089 | [316089-blobun.json](./316089-blobun.json) |
 | Blobz | 14320 | [14320-blobz.json](./14320-blobz.json) |
 | Block ‘Em Sock ‘Em | 381135 | [381135-block-em-sock-em.json](./381135-block-em-sock-em.json) |
+| Block 2D: The Retro Block | 88739 | [88739-block-2d-the-retro-block.json](./88739-block-2d-the-retro-block.json) |
 | Block and Save | 254166 | [254166-block-and-save.json](./254166-block-and-save.json) |
 | Block Arena | 148928 | [148928-block-arena.json](./148928-block-arena.json) |
 | Block Arena | 384098 | [384098-block-arena.json](./384098-block-arena.json) |
