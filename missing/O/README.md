@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ominous Presence | 252725 | [252725-ominous-presence.json](./252725-ominous-presence.json) |
 | Omise de Tensyu | 138249 | [138249-omise-de-tensyu.json](./138249-omise-de-tensyu.json) |
 | Omizu no Hanamichi | 257113 | [257113-omizu-no-hanamichi.json](./257113-omizu-no-hanamichi.json) |
+| Omni | 118164 | [118164-omni.json](./118164-omni.json) |
 | Omni Blade | 312023 | [312023-omni-blade.json](./312023-omni-blade.json) |
 | Omni Kitty | 391070 | [391070-omni-kitty.json](./391070-omni-kitty.json) |
 | Omni Magic! | 221736 | [221736-omni-magic.json](./221736-omni-magic.json) |
@@ -1659,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Zone | 350505 | [350505-outer-zone.json](./350505-outer-zone.json) |
 | Outer-Rim Pod Digger | 66058 | [66058-outer-rim-pod-digger.json](./66058-outer-rim-pod-digger.json) |
 | Outergalactic Aliens Pinball | 173237 | [173237-outergalactic-aliens-pinball.json](./173237-outergalactic-aliens-pinball.json) |
+| Outertown | 118191 | [118191-outertown.json](./118191-outertown.json) |
 | Outerverse | 164901 | [164901-outerverse.json](./164901-outerverse.json) |
 | Outfoxed | 179165 | [179165-outfoxed.json](./179165-outfoxed.json) |
 | Outgrown | 188001 | [188001-outgrown.json](./188001-outgrown.json) |
@@ -1682,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Golf: 9 More Holes of X-Mas | 47311 | [47311-outlaw-golf-9-more-holes-of-x-mas.json](./47311-outlaw-golf-9-more-holes-of-x-mas.json) |
 | Outlaw Golf: Holiday Golf | 78687 | [78687-outlaw-golf-holiday-golf.json](./78687-outlaw-golf-holiday-golf.json) |
 | Outlaw Kingdom | 245906 | [245906-outlaw-kingdom.json](./245906-outlaw-kingdom.json) |
+| Outlaw Tales: Western Adventure Survival | 118199 | [118199-outlaw-tales-western-adventure-survival.json](./118199-outlaw-tales-western-adventure-survival.json) |
 | Outlawed | 331339 | [331339-outlawed.json](./331339-outlawed.json) |
 | Outlaws | 196 | [196-outlaws.json](./196-outlaws.json) |
 | Outlaws + A Handful of Missions | 112809 | [112809-outlaws-a-handful-of-missions.json](./112809-outlaws-a-handful-of-missions.json) |
