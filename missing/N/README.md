@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nameless Kaizo World Light | 267915 | [267915-nameless-kaizo-world-light.json](./267915-nameless-kaizo-world-light.json) |
 | Nameless Shells | 267916 | [267916-nameless-shells.json](./267916-nameless-shells.json) |
 | Nami | 169846 | [169846-nami.json](./169846-nami.json) |
+| Nami no Mani Mani - Sazanami Shinryoushou | 70645 | [70645-nami-no-mani-mani-sazanami-shinryoushou.json](./70645-nami-no-mani-mani-sazanami-shinryoushou.json) |
 | Nampa Forest | 104626 | [104626-nampa-forest.json](./104626-nampa-forest.json) |
 | Namtir Raiders | 319589 | [319589-namtir-raiders.json](./319589-namtir-raiders.json) |
 | Nana | 201771 | [201771-nana.json](./201771-nana.json) |
@@ -110,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanali in another world | 226195 | [226195-nanali-in-another-world.json](./226195-nanali-in-another-world.json) |
 | Nanatama: Chronicle of Dungeon Maker | 59366 | [59366-nanatama-chronicle-of-dungeon-maker.json](./59366-nanatama-chronicle-of-dungeon-maker.json) |
 | Nanatsu no Hikan | 137031 | [137031-nanatsu-no-hikan.json](./137031-nanatsu-no-hikan.json) |
+| Nanatsuiro Drops | 70642 | [70642-nanatsuiro-drops.json](./70642-nanatsuiro-drops.json) |
 | Nancy Drew: Danger on Deception Island | 10580 | [10580-nancy-drew-danger-on-deception-island.json](./10580-nancy-drew-danger-on-deception-island.json) |
 | Nancy Drew: Message in a Haunted Mansion | 248638 | [248638-nancy-drew-message-in-a-haunted-mansion.json](./248638-nancy-drew-message-in-a-haunted-mansion.json) |
 | Nancy Drew: Ransom of the Seven Ships | 29201 | [29201-nancy-drew-ransom-of-the-seven-ships.json](./29201-nancy-drew-ransom-of-the-seven-ships.json) |
@@ -284,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nation War: Chronicles | 48008 | [48008-nation-war-chronicles.json](./48008-nation-war-chronicles.json) |
 | National Geographic Challenge! | 52603 | [52603-national-geographic-challenge.json](./52603-national-geographic-challenge.json) |
 | National Geographic Lilly Wu and the Terra Cotta Mystery | 209148 | [209148-national-geographic-lilly-wu-and-the-terra-cotta-mystery.json](./209148-national-geographic-lilly-wu-and-the-terra-cotta-mystery.json) |
+| National Geographic Panda | 70634 | [70634-national-geographic-panda.json](./70634-national-geographic-panda.json) |
 | National Girls | 111503 | [111503-national-girls.json](./111503-national-girls.json) |
 | National Lacrosse League 2010 | 61034 | [61034-national-lacrosse-league-2010.json](./61034-national-lacrosse-league-2010.json) |
 | National Lacrosse League 2011 | 61035 | [61035-national-lacrosse-league-2011.json](./61035-national-lacrosse-league-2011.json) |
@@ -1793,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Kid | 204438 | [204438-nitro-kid.json](./204438-nitro-kid.json) |
 | Nitro Nation World Tour | 261519 | [261519-nitro-nation-world-tour.json](./261519-nitro-nation-world-tour.json) |
 | Nitro Nation: Drag Racing | 233762 | [233762-nitro-nation-drag-racing.json](./233762-nitro-nation-drag-racing.json) |
+| Nitro Royale -Heroines Duel- | 70685 | [70685-nitro-royale-heroines-duel.json](./70685-nitro-royale-heroines-duel.json) |
 | Nitro Thrash | 408082 | [408082-nitro-thrash.json](./408082-nitro-thrash.json) |
 | Nitroplus Blasterz: Heroines Infinite Duel - Limited Edition | 167134 | [167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json](./167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json) |
 | Nitrous Fury | 385085 | [385085-nitrous-fury.json](./385085-nitrous-fury.json) |
