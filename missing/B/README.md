@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Charge | 211426 | [211426-battle-charge.json](./211426-battle-charge.json) |
 | Battle Chasers: Nightwar | 12511 | [12511-battle-chasers-nightwar.json](./12511-battle-chasers-nightwar.json) |
 | Battle Checkers: Infinity War | 193959 | [193959-battle-checkers-infinity-war.json](./193959-battle-checkers-infinity-war.json) |
+| Battle Cheese | 78382 | [78382-battle-cheese.json](./78382-battle-cheese.json) |
 | Battle Chef Brigade | 23689 | [23689-battle-chef-brigade.json](./23689-battle-chef-brigade.json) |
 | Battle Chef Brigade Deluxe | 111825 | [111825-battle-chef-brigade-deluxe.json](./111825-battle-chef-brigade-deluxe.json) |
 | Battle Craft | 257926 | [257926-battle-craft.json](./257926-battle-craft.json) |
@@ -2544,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
 | Biophobia | 343832 | [343832-biophobia.json](./343832-biophobia.json) |
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
+| Biorhythm | 78373 | [78373-biorhythm.json](./78373-biorhythm.json) |
 | Bios | 26575 | [26575-bios.json](./26575-bios.json) |
 | Bioshock & Borderlands: The Shooter Collection | 150642 | [150642-bioshock-and-borderlands-the-shooter-collection.json](./150642-bioshock-and-borderlands-the-shooter-collection.json) |
 | Bioshock 2: Rapture Edition | 44571 | [44571-bioshock-2-rapture-edition.json](./44571-bioshock-2-rapture-edition.json) |
@@ -4561,6 +4563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravely Default | 4700 | [4700-bravely-default.json](./4700-bravely-default.json) |
 | Bravely Default: Brilliant Lights | 174855 | [174855-bravely-default-brilliant-lights.json](./174855-bravely-default-brilliant-lights.json) |
 | Bravely Default: Fairy's Effect | 25739 | [25739-bravely-default-fairys-effect.json](./25739-bravely-default-fairys-effect.json) |
+| Bravely Default: Flying Fairy | 78326 | [78326-bravely-default-flying-fairy.json](./78326-bravely-default-flying-fairy.json) |
 | Bravely Default: Flying Fairy Collector's Pack | 89878 | [89878-bravely-default-flying-fairy-collectors-pack.json](./89878-bravely-default-flying-fairy-collectors-pack.json) |
 | Bravery | 391078 | [391078-bravery.json](./391078-bravery.json) |
 | Bravest Burden | 173291 | [173291-bravest-burden.json](./173291-bravest-burden.json) |
