@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gizmos: Riddle of the Universe | 384676 | [384676-gizmos-riddle-of-the-universe.json](./384676-gizmos-riddle-of-the-universe.json) |
 | Gizmos: Spirit of the Christmas | 156678 | [156678-gizmos-spirit-of-the-christmas.json](./156678-gizmos-spirit-of-the-christmas.json) |
 | GL-117 Action Flight Simulator | 51245 | [51245-gl-117-action-flight-simulator.json](./51245-gl-117-action-flight-simulator.json) |
+| Glace | 79621 | [79621-glace.json](./79621-glace.json) |
 | Glacier 3: The Meltdown | 16902 | [16902-glacier-3-the-meltdown.json](./16902-glacier-3-the-meltdown.json) |
 | Glad Valakas: Cyberban | 116817 | [116817-glad-valakas-cyberban.json](./116817-glad-valakas-cyberban.json) |
 | Gladia | 157038 | [157038-gladia.json](./157038-gladia.json) |
@@ -1499,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Soccer Manager 2015 | 98428 | [98428-global-soccer-manager-2015.json](./98428-global-soccer-manager-2015.json) |
 | Global Soccer Manager 2019 | 116870 | [116870-global-soccer-manager-2019.json](./116870-global-soccer-manager-2019.json) |
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
+| Global War | 79605 | [79605-global-war.json](./79605-global-war.json) |
 | Globat Pixels | 115676 | [115676-globat-pixels.json](./115676-globat-pixels.json) |
 | Globe Drone | 307733 | [307733-globe-drone.json](./307733-globe-drone.json) |
 | Globe: Earth Adventures | 230378 | [230378-globe-earth-adventures.json](./230378-globe-earth-adventures.json) |
@@ -2812,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Guest from the Future - Collector's Edition | 122390 | [122390-grim-tales-guest-from-the-future-collectors-edition.json](./122390-grim-tales-guest-from-the-future-collectors-edition.json) |
 | Grim Tales: Horizon of Wishes - Collector's Edition | 214724 | [214724-grim-tales-horizon-of-wishes-collectors-edition.json](./214724-grim-tales-horizon-of-wishes-collectors-edition.json) |
 | Grim Tales: Light in the Darkness - Collector's Edition | 362838 | [362838-grim-tales-light-in-the-darkness-collectors-edition.json](./362838-grim-tales-light-in-the-darkness-collectors-edition.json) |
+| Grim Tales: The Bride | 79616 | [79616-grim-tales-the-bride.json](./79616-grim-tales-the-bride.json) |
 | Grim Tales: The Heir | 99996 | [99996-grim-tales-the-heir.json](./99996-grim-tales-the-heir.json) |
 | Grim Tales: The Hunger | 250595 | [250595-grim-tales-the-hunger.json](./250595-grim-tales-the-hunger.json) |
 | Grim Tales: The Hunger - Collector's Edition | 250596 | [250596-grim-tales-the-hunger-collectors-edition.json](./250596-grim-tales-the-hunger-collectors-edition.json) |
@@ -3477,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyro Star VIP | 106553 | [106553-gyro-star-vip.json](./106553-gyro-star-vip.json) |
 | GyroCube VR | 109433 | [109433-gyrocube-vr.json](./109433-gyrocube-vr.json) |
 | Gyrodine | 39682 | [39682-gyrodine.json](./39682-gyrodine.json) |
+| Gyron | 79623 | [79623-gyron.json](./79623-gyron.json) |
 | Gyruss | 343878 | [343878-gyruss.json](./343878-gyruss.json) |
 | Gyruss | 343879 | [343879-gyruss.json](./343879-gyruss.json) |
 | Gythol Granditti: The Crypt of Darkness | 120411 | [120411-gythol-granditti-the-crypt-of-darkness.json](./120411-gythol-granditti-the-crypt-of-darkness.json) |
