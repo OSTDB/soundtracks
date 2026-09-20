@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affinity: Fallen from Paradise | 211262 | [211262-affinity-fallen-from-paradise.json](./211262-affinity-fallen-from-paradise.json) |
 | AFK Champions | 193866 | [193866-afk-champions.json](./193866-afk-champions.json) |
 | Afloat | 120829 | [120829-afloat.json](./120829-afloat.json) |
+| Afo | 78330 | [78330-afo.json](./78330-afo.json) |
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
 | Africa Empire 2027 | 219680 | [219680-africa-empire-2027.json](./219680-africa-empire-2027.json) |
 | AfroPenguin & The Forbidden Ramen | 244866 | [244866-afropenguin-and-the-forbidden-ramen.json](./244866-afropenguin-and-the-forbidden-ramen.json) |
@@ -4460,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro: The Beginning | 118431 | [118431-astro-the-beginning.json](./118431-astro-the-beginning.json) |
 | Astroball | 338170 | [338170-astroball.json](./338170-astroball.json) |
 | Astrobarian | 366849 | [366849-astrobarian.json](./366849-astrobarian.json) |
+| AstroBlast | 78371 | [78371-astroblast.json](./78371-astroblast.json) |
 | Astroblitz | 146299 | [146299-astroblitz.json](./146299-astroblitz.json) |
 | Astrobuilder | 334690 | [334690-astrobuilder.json](./334690-astrobuilder.json) |
 | Astroburrow | 358375 | [358375-astroburrow.json](./358375-astroburrow.json) |
