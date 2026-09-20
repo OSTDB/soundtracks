@@ -1536,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remi | 388700 | [388700-remi.json](./388700-remi.json) |
 | RemiFla Spirits 2 | 213957 | [213957-remifla-spirits-2.json](./213957-remifla-spirits-2.json) |
 | Remilia's Challenge | 369571 | [369571-remilias-challenge.json](./369571-remilias-challenge.json) |
+| Remindelight | 123405 | [123405-remindelight.json](./123405-remindelight.json) |
 | Reminisce | 306685 | [306685-reminisce.json](./306685-reminisce.json) |
 | Reminiscence | 360643 | [360643-reminiscence.json](./360643-reminiscence.json) |
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
@@ -2098,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Cat Pro | 86707 | [86707-rhythm-cat-pro.json](./86707-rhythm-cat-pro.json) |
 | Rhythm Core Alpha | 84842 | [84842-rhythm-core-alpha.json](./84842-rhythm-core-alpha.json) |
 | Rhythm Core Alpha 2 | 84841 | [84841-rhythm-core-alpha-2.json](./84841-rhythm-core-alpha-2.json) |
+| Rhythm de Run Run Run | 123406 | [123406-rhythm-de-run-run-run.json](./123406-rhythm-de-run-run-run.json) |
 | Rhythm Dodge | 257999 | [257999-rhythm-dodge.json](./257999-rhythm-dodge.json) |
 | Rhythm Girl | 90070 | [90070-rhythm-girl.json](./90070-rhythm-girl.json) |
 | Rhythm Heaven Groove | 337031 | [337031-rhythm-heaven-groove.json](./337031-rhythm-heaven-groove.json) |
@@ -2337,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riichi City | 187355 | [187355-riichi-city.json](./187355-riichi-city.json) |
 | Rika Suzuki | 97328 | [97328-rika-suzuki.json](./97328-rika-suzuki.json) |
 | Rikki Kuu | 220708 | [220708-rikki-kuu.json](./220708-rikki-kuu.json) |
+| Riku to Johan: Kaeta Nimai no E | 123407 | [123407-riku-to-johan-kaeta-nimai-no-e.json](./123407-riku-to-johan-kaeta-nimai-no-e.json) |
 | Rilakkuma Nakayoshi Collection | 222506 | [222506-rilakkuma-nakayoshi-collection.json](./222506-rilakkuma-nakayoshi-collection.json) |
 | Riley Short: Analog Boy - Episode 1 | 37051 | [37051-riley-short-analog-boy-episode-1.json](./37051-riley-short-analog-boy-episode-1.json) |
 | Rilu Rilu Fairilu Kirakira: Hajimete no Fairilu Magic | 222537 | [222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json](./222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json) |
@@ -2344,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rima: The Story Begins | 207859 | [207859-rima-the-story-begins.json](./207859-rima-the-story-begins.json) |
 | Rimal Game | 290535 | [290535-rimal-game.json](./290535-rimal-game.json) |
 | Rimebeard | 153974 | [153974-rimebeard.json](./153974-rimebeard.json) |
+| Rimelands: Hammer of Thor | 123404 | [123404-rimelands-hammer-of-thor.json](./123404-rimelands-hammer-of-thor.json) |
 | RimFolk | 335323 | [335323-rimfolk.json](./335323-rimfolk.json) |
 | RimPark: A Burning World | 345469 | [345469-rimpark-a-burning-world.json](./345469-rimpark-a-burning-world.json) |
 | RimWorld: Anomaly | 291070 | [291070-rimworld-anomaly.json](./291070-rimworld-anomaly.json) |
@@ -2531,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rittai Ninja Katsugeki Tenchu: Shinobi Hyakusen | 64911 | [64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json](./64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json) |
 | Rittai-ban: Yuugeki-oh | 333952 | [333952-rittai-ban-yuugeki-oh.json](./333952-rittai-ban-yuugeki-oh.json) |
 | Ritterschlag | 398452 | [398452-ritterschlag.json](./398452-ritterschlag.json) |
+| Ritual | 123401 | [123401-ritual.json](./123401-ritual.json) |
 | Ritual | 302707 | [302707-ritual.json](./302707-ritual.json) |
 | Ritual of Raven | 281390 | [281390-ritual-of-raven.json](./281390-ritual-of-raven.json) |
 | Ritual Static | 397655 | [397655-ritual-static.json](./397655-ritual-static.json) |
@@ -2622,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Morrow | 172669 | [172669-road-to-morrow.json](./172669-road-to-morrow.json) |
 | Road to Moscow | 25613 | [25613-road-to-moscow.json](./25613-road-to-moscow.json) |
 | Road To Valhalla: Carola | 290537 | [290537-road-to-valhalla-carola.json](./290537-road-to-valhalla-carola.json) |
+| Road to Vegas | 123402 | [123402-road-to-vegas.json](./123402-road-to-vegas.json) |
 | Road to Vostok | 217304 | [217304-road-to-vostok.json](./217304-road-to-vostok.json) |
 | Road to Wealth | 348873 | [348873-road-to-wealth.json](./348873-road-to-wealth.json) |
 | Road Trip | 182553 | [182553-road-trip.json](./182553-road-trip.json) |
@@ -3251,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
 | RON 13:13 Retaliation | 71005 | [71005-ron-13-13-retaliation.json](./71005-ron-13-13-retaliation.json) |
 | Ron 13:13^2: The Thickening | 71003 | [71003-ron-13-13-2-the-thickening.json](./71003-ron-13-13-2-the-thickening.json) |
+| Ron-Q! Highland in DS | 123403 | [123403-ron-q-highland-in-ds.json](./123403-ron-q-highland-in-ds.json) |
 | Ronald McDonalds | 255715 | [255715-ronald-mcdonalds.json](./255715-ronald-mcdonalds.json) |
 | Ronald Rubberduck | 47205 | [47205-ronald-rubberduck.json](./47205-ronald-rubberduck.json) |
 | Ronald's Revenge | 398437 | [398437-ronalds-revenge.json](./398437-ronalds-revenge.json) |
