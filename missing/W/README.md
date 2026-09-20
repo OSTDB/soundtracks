@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfare Legacy Collection | 287786 | [287786-warfare-legacy-collection.json](./287786-warfare-legacy-collection.json) |
 | Warfield | 144232 | [144232-warfield.json](./144232-warfield.json) |
 | WarFire: Deluxe Edition | 53886 | [53886-warfire-deluxe-edition.json](./53886-warfire-deluxe-edition.json) |
+| Warforged | 114193 | [114193-warforged.json](./114193-warforged.json) |
 | Warframe: 1999 | 263563 | [263563-warframe-1999.json](./263563-warframe-1999.json) |
 | Warframe: Angels of the Zariman - Chrysalith Pack | 223706 | [223706-warframe-angels-of-the-zariman-chrysalith-pack.json](./223706-warframe-angels-of-the-zariman-chrysalith-pack.json) |
 | Warframe: Angels of the Zariman - Emergence Pack | 223707 | [223707-warframe-angels-of-the-zariman-emergence-pack.json](./223707-warframe-angels-of-the-zariman-emergence-pack.json) |
@@ -627,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warshift 2 | 388957 | [388957-warshift-2.json](./388957-warshift-2.json) |
 | Warship | 377150 | [377150-warship.json](./377150-warship.json) |
 | Warship Battle Commander | 356715 | [356715-warship-battle-commander.json](./356715-warship-battle-commander.json) |
+| Warships 3D | 114158 | [114158-warships-3d.json](./114158-warships-3d.json) |
 | Warships Final Battle | 230910 | [230910-warships-final-battle.json](./230910-warships-final-battle.json) |
 | Warshmallows | 132613 | [132613-warshmallows.json](./132613-warshmallows.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
