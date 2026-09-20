@@ -6041,6 +6041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Noah | 156015 | [156015-cyber-noah.json](./156015-cyber-noah.json) |
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
+| Cyber Racer | 120151 | [120151-cyber-racer.json](./120151-cyber-racer.json) |
 | Cyber Rail | 267468 | [267468-cyber-rail.json](./267468-cyber-rail.json) |
 | Cyber Rats | 336523 | [336523-cyber-rats.json](./336523-cyber-rats.json) |
 | Cyber Revolution | 339357 | [339357-cyber-revolution.json](./339357-cyber-revolution.json) |
@@ -6120,6 +6121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberPunk Sex Tower | 171604 | [171604-cyberpunk-sex-tower.json](./171604-cyberpunk-sex-tower.json) |
 | Cyberpunk Women for Sex Motel | 288896 | [288896-cyberpunk-women-for-sex-motel.json](./288896-cyberpunk-women-for-sex-motel.json) |
 | Cyberpunk: Red-Light District | 266323 | [266323-cyberpunk-red-light-district.json](./266323-cyberpunk-red-light-district.json) |
+| Cyberpunk: The Arasaka's Plot | 120199 | [120199-cyberpunk-the-arasakas-plot.json](./120199-cyberpunk-the-arasakas-plot.json) |
 | Cyberpunkdreams | 140018 | [140018-cyberpunkdreams.json](./140018-cyberpunkdreams.json) |
 | Cyberpunx | 261820 | [261820-cyberpunx.json](./261820-cyberpunx.json) |
 | Cyberqueen | 15447 | [15447-cyberqueen.json](./15447-cyberqueen.json) |
