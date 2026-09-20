@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Night | 406175 | [406175-game-night.json](./406175-game-night.json) |
 | Game no Kanzume Vol. 1 | 398458 | [398458-game-no-kanzume-vol-1.json](./398458-game-no-kanzume-vol-1.json) |
 | Game no Tatsujin: Money Wars | 41314 | [41314-game-no-tatsujin-money-wars.json](./41314-game-no-tatsujin-money-wars.json) |
+| Game of Chaloupe | 105758 | [105758-game-of-chaloupe.json](./105758-game-of-chaloupe.json) |
 | Game of Clowns | 27806 | [27806-game-of-clowns.json](./27806-game-of-clowns.json) |
 | Game of Dice | 58793 | [58793-game-of-dice.json](./58793-game-of-dice.json) |
 | Game of Empires: Warring Realms | 230294 | [230294-game-of-empires-warring-realms.json](./230294-game-of-empires-warring-realms.json) |
@@ -389,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Puzzles: Slavic Mythology | 163415 | [163415-game-of-puzzles-slavic-mythology.json](./163415-game-of-puzzles-slavic-mythology.json) |
 | Game of Roads | 174364 | [174364-game-of-roads.json](./174364-game-of-roads.json) |
 | Game of Seven | 199468 | [199468-game-of-seven.json](./199468-game-of-seven.json) |
+| Game of Small Squares | 105757 | [105757-game-of-small-squares.json](./105757-game-of-small-squares.json) |
 | Game of Sultans | 106526 | [106526-game-of-sultans.json](./106526-game-of-sultans.json) |
 | Game Of Thrall'an | 321365 | [321365-game-of-thrallan.json](./321365-game-of-thrallan.json) |
 | Game of Throne | 179199 | [179199-game-of-throne.json](./179199-game-of-throne.json) |
@@ -3131,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Shop 3 | 301245 | [301245-gun-shop-3.json](./301245-gun-shop-3.json) |
 | Gun Shop: Tidy Up | 413780 | [413780-gun-shop-tidy-up.json](./413780-gun-shop-tidy-up.json) |
 | Gun Soul Girl 2 | 169455 | [169455-gun-soul-girl-2.json](./169455-gun-soul-girl-2.json) |
+| Gun Soul:Zombie Wars | 105776 | [105776-gun-soul-zombie-wars.json](./105776-gun-soul-zombie-wars.json) |
 | Gun Sounds: Shooting Master | 227499 | [227499-gun-sounds-shooting-master.json](./227499-gun-sounds-shooting-master.json) |
 | Gun Sprint | 332804 | [332804-gun-sprint.json](./332804-gun-sprint.json) |
 | Gun Store Simulator | 326422 | [326422-gun-store-simulator.json](./326422-gun-store-simulator.json) |
