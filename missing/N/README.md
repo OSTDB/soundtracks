@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naheulbeuk's Dungeon Master | 252851 | [252851-naheulbeuks-dungeon-master.json](./252851-naheulbeuks-dungeon-master.json) |
 | Naheulbeuk's Dungeon Master: Steward Edition | 277029 | [277029-naheulbeuks-dungeon-master-steward-edition.json](./277029-naheulbeuks-dungeon-master-steward-edition.json) |
 | Nahi's Winter Holidate | 386736 | [386736-nahis-winter-holidate.json](./386736-nahis-winter-holidate.json) |
+| Nahlakh | 94013 | [94013-nahlakh.json](./94013-nahlakh.json) |
 | Naiad | 180277 | [180277-naiad.json](./180277-naiad.json) |
 | Naïca | 118959 | [118959-naica.json](./118959-naica.json) |
 | Nail Salon | 89198 | [89198-nail-salon.json](./89198-nail-salon.json) |
@@ -145,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanoka Project | 226763 | [226763-nanoka-project.json](./226763-nanoka-project.json) |
 | Nanokin | 118189 | [118189-nanokin.json](./118189-nanokin.json) |
 | NanoLab Fighter | 246978 | [246978-nanolab-fighter.json](./246978-nanolab-fighter.json) |
+| Nanoloop | 93994 | [93994-nanoloop.json](./93994-nanoloop.json) |
 | Nanopesos | 125256 | [125256-nanopesos.json](./125256-nanopesos.json) |
 | Nanos | 90597 | [90597-nanos.json](./90597-nanos.json) |
 | Nanos World | 152927 | [152927-nanos-world.json](./152927-nanos-world.json) |
