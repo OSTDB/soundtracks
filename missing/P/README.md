@@ -662,7 +662,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paralyzis | 184500 | [184500-paralyzis.json](./184500-paralyzis.json) |
 | Paramedic Simulator | 141858 | [141858-paramedic-simulator.json](./141858-paramedic-simulator.json) |
 | Paramedics! | 270958 | [270958-paramedics.json](./270958-paramedics.json) |
+| Paramedium 2: Girl in the Road | 82484 | [82484-paramedium-2-girl-in-the-road.json](./82484-paramedium-2-girl-in-the-road.json) |
 | Paramedium: 2 | 179750 | [179750-paramedium-2.json](./179750-paramedium-2.json) |
+| Paramedium: A Noise in the Attic | 82485 | [82485-paramedium-a-noise-in-the-attic.json](./82485-paramedium-a-noise-in-the-attic.json) |
 | Paramnesia: Escape Together | 244489 | [244489-paramnesia-escape-together.json](./244489-paramnesia-escape-together.json) |
 | Paranatural | 310763 | [310763-paranatural.json](./310763-paranatural.json) |
 | Paranoia | 107149 | [107149-paranoia.json](./107149-paranoia.json) |
