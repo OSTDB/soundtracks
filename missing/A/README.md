@@ -4552,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Quad Frenzy | 69810 | [69810-atv-quad-frenzy.json](./69810-atv-quad-frenzy.json) |
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
 | Atypian | 369046 | [369046-atypian.json](./369046-atypian.json) |
+| Au Sable | 125855 | [125855-au-sable.json](./125855-au-sable.json) |
 | Audica: 5 Seconds of Summer - "Youngblood" | 358945 | [358945-audica-5-seconds-of-summer-youngblood.json](./358945-audica-5-seconds-of-summer-youngblood.json) |
 | Audica: Ariana Grande - "Into You" | 358946 | [358946-audica-ariana-grande-into-you.json](./358946-audica-ariana-grande-into-you.json) |
 | Audica: Chvrches - "The Mother We Share" | 358947 | [358947-audica-chvrches-the-mother-we-share.json](./358947-audica-chvrches-the-mother-we-share.json) |
