@@ -2720,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloBase | 410316 | [410316-holobase.json](./410316-holobase.json) |
 | Holobunnies: The Bittersweet Adventure | 28897 | [28897-holobunnies-the-bittersweet-adventure.json](./28897-holobunnies-the-bittersweet-adventure.json) |
 | HoloCall: Send Your Cheers! | 340478 | [340478-holocall-send-your-cheers.json](./340478-holocall-send-your-cheers.json) |
+| HoloFist | 117485 | [117485-holofist.json](./117485-holofist.json) |
 | Hololive Gorogoro Mountain | 348243 | [348243-hololive-gorogoro-mountain.json](./348243-hololive-gorogoro-mountain.json) |
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
 | Hololore: Amethyst | 266868 | [266868-hololore-amethyst.json](./266868-hololore-amethyst.json) |
@@ -3564,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human-Like | 157185 | [157185-human-like.json](./157185-human-like.json) |
 | Human: Fall Flat - Anniversary Edition | 139945 | [139945-human-fall-flat-anniversary-edition.json](./139945-human-fall-flat-anniversary-edition.json) |
 | Human: Fall Flat - Dream Collection | 252173 | [252173-human-fall-flat-dream-collection.json](./252173-human-fall-flat-dream-collection.json) |
+| Human: Fall Flat + The Flame in the Flood Bundle | 117534 | [117534-human-fall-flat-the-flame-in-the-flood-bundle.json](./117534-human-fall-flat-the-flame-in-the-flood-bundle.json) |
 | Human: Profit | 405532 | [405532-human-profit.json](./405532-human-profit.json) |
 | Human.exe | 391074 | [391074-human-exe.json](./391074-human-exe.json) |
 | Human's Red Destiny | 410266 | [410266-humans-red-destiny.json](./410266-humans-red-destiny.json) |
@@ -3787,6 +3789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Drone X | 195731 | [195731-hyper-drone-x.json](./195731-hyper-drone-x.json) |
 | Hyper Echelon | 148923 | [148923-hyper-echelon.json](./148923-hyper-echelon.json) |
 | Hyper Fighting | 195212 | [195212-hyper-fighting.json](./195212-hyper-fighting.json) |
+| Hyper Flight | 117486 | [117486-hyper-flight.json](./117486-hyper-flight.json) |
 | Hyper Force | 40811 | [40811-hyper-force.json](./40811-hyper-force.json) |
 | Hyper Frenzy | 152828 | [152828-hyper-frenzy.json](./152828-hyper-frenzy.json) |
 | Hyper Front | 187492 | [187492-hyper-front.json](./187492-hyper-front.json) |
