@@ -2932,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apache Strike | 137662 | [137662-apache-strike.json](./137662-apache-strike.json) |
 | Apano Sin | 14259 | [14259-apano-sin.json](./14259-apano-sin.json) |
 | Apano Syn Fighter | 304571 | [304571-apano-syn-fighter.json](./304571-apano-syn-fighter.json) |
+| Apartment 213 | 97709 | [97709-apartment-213.json](./97709-apartment-213.json) |
 | Apartment 22 | 355540 | [355540-apartment-22.json](./355540-apartment-22.json) |
 | Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
 | Apartment No 129 | 294293 | [294293-apartment-no-129.json](./294293-apartment-no-129.json) |
@@ -3567,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Smarter Than a 5th Grader? Game Time | 197940 | [197940-are-you-smarter-than-a-5th-grader-game-time.json](./197940-are-you-smarter-than-a-5th-grader-game-time.json) |
 | Are You Smarter than a 5th Grader?: Extra Credit | 234304 | [234304-are-you-smarter-than-a-5th-grader-extra-credit.json](./234304-are-you-smarter-than-a-5th-grader-extra-credit.json) |
 | Are You Smarter Than Mario? | 231629 | [231629-are-you-smarter-than-mario.json](./231629-are-you-smarter-than-mario.json) |
+| Are You With Us? | 97715 | [97715-are-you-with-us.json](./97715-are-you-with-us.json) |
 | Are you yet Living? | 271478 | [271478-are-you-yet-living.json](./271478-are-you-yet-living.json) |
 | Area 4643 | 112756 | [112756-area-4643.json](./112756-area-4643.json) |
 | Area 51 | 199022 | [199022-area-51.json](./199022-area-51.json) |
