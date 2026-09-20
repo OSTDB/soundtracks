@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Prhysm | 206374 | [206374-nature-prhysm.json](./206374-nature-prhysm.json) |
 | Nature's Element | 270972 | [270972-natures-element.json](./270972-natures-element.json) |
 | Nature's Habit | 195103 | [195103-natures-habit.json](./195103-natures-habit.json) |
+| NatureFly | 86534 | [86534-naturefly.json](./86534-naturefly.json) |
 | Naturix | 159182 | [159182-naturix.json](./159182-naturix.json) |
 | Naught | 117751 | [117751-naught.json](./117751-naught.json) |
 | Naught | 150502 | [150502-naught.json](./150502-naught.json) |
