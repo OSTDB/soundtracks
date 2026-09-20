@@ -1916,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golazo! 2: Pixel Stars | 243236 | [243236-golazo-2-pixel-stars.json](./243236-golazo-2-pixel-stars.json) |
 | Gold | 315301 | [315301-gold.json](./315301-gold.json) |
 | Gold & Ship Bundle: Gold Mining & Ship Graveyard Simulator | 340951 | [340951-gold-and-ship-bundle-gold-mining-and-ship-graveyard-simulator.json](./340951-gold-and-ship-bundle-gold-mining-and-ship-graveyard-simulator.json) |
+| Gold Ambush | 68280 | [68280-gold-ambush.json](./68280-gold-ambush.json) |
 | Gold and Glory: The Road to El Dorado | 209636 | [209636-gold-and-glory-the-road-to-el-dorado.json](./209636-gold-and-glory-the-road-to-el-dorado.json) |
 | Gold Coast Gambits: Boca Raton & Palm Beach | 414353 | [414353-gold-coast-gambits-boca-raton-and-palm-beach.json](./414353-gold-coast-gambits-boca-raton-and-palm-beach.json) |
 | Gold Digger | 13723 | [13723-gold-digger.json](./13723-gold-digger.json) |
