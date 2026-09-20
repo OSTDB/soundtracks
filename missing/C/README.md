@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C15: Horror | 121001 | [121001-c15-horror.json](./121001-c15-horror.json) |
 | C5 Clive | 86025 | [86025-c5-clive.json](./86025-c5-clive.json) |
 | C64 & Amiga Classix Remakes Sixpack | 94773 | [94773-c64-and-amiga-classix-remakes-sixpack.json](./94773-c64-and-amiga-classix-remakes-sixpack.json) |
+| C64 & Amiga Classix Remakes Sixpack 3 | 120817 | [120817-c64-and-amiga-classix-remakes-sixpack-3.json](./120817-c64-and-amiga-classix-remakes-sixpack-3.json) |
 | C64 & AMIGA Classix Remakes Sixpack 4 | 377574 | [377574-c64-and-amiga-classix-remakes-sixpack-4.json](./377574-c64-and-amiga-classix-remakes-sixpack-4.json) |
 | Cabal 2 | 12132 | [12132-cabal-2.json](./12132-cabal-2.json) |
 | Cabal M: Heroes of Nevareth | 174724 | [174724-cabal-m-heroes-of-nevareth.json](./174724-cabal-m-heroes-of-nevareth.json) |
@@ -606,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Racing Challenge | 43243 | [43243-car-racing-challenge.json](./43243-car-racing-challenge.json) |
 | Car Racing Ice: Classic | 288372 | [288372-car-racing-ice-classic.json](./288372-car-racing-ice-classic.json) |
 | Car Racing: Highway Driving Simulator - Premium Edition | 283153 | [283153-car-racing-highway-driving-simulator-premium-edition.json](./283153-car-racing-highway-driving-simulator-premium-edition.json) |
+| Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Tycoon | 362291 | [362291-car-tycoon.json](./362291-car-tycoon.json) |
 | Car Wash | 295261 | [295261-car-wash.json](./295261-car-wash.json) |
@@ -2230,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choco-ken no Chokotto Fushigi na Monogatari: Chocolate Hime to Mahou no Recipe | 222517 | [222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json](./222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json) |
 | Choco-Ken no Dekitate Sweets Wagon | 287630 | [287630-choco-ken-no-dekitate-sweets-wagon.json](./287630-choco-ken-no-dekitate-sweets-wagon.json) |
 | Choco-Ken no Omise: Patisserie & Sweets Shop Game | 287628 | [287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json](./287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json) |
+| Chocolat Rush | 120789 | [120789-chocolat-rush.json](./120789-chocolat-rush.json) |
 | Chocolate Factory | 112995 | [112995-chocolate-factory.json](./112995-chocolate-factory.json) |
 | Chocolate makes you happy 4 | 89935 | [89935-chocolate-makes-you-happy-4.json](./89935-chocolate-makes-you-happy-4.json) |
 | Chocolate makes you happy 7 | 105376 | [105376-chocolate-makes-you-happy-7.json](./105376-chocolate-makes-you-happy-7.json) |
@@ -4164,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraption Maker: Battling Cards - Parts & Puzzles Expansion Pack | 163427 | [163427-contraption-maker-battling-cards-parts-and-puzzles-expansion-pack.json](./163427-contraption-maker-battling-cards-parts-and-puzzles-expansion-pack.json) |
 | Contraption Maker: Mighty Knights Parts & Puzzles Pack | 263215 | [263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json](./263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json) |
 | Contraption Zack | 24864 | [24864-contraption-zack.json](./24864-contraption-zack.json) |
+| Contraptions | 120824 | [120824-contraptions.json](./120824-contraptions.json) |
 | Contrast | 383509 | [383509-contrast.json](./383509-contrast.json) |
 | Contre Jour | 93578 | [93578-contre-jour.json](./93578-contre-jour.json) |
 | Contrition | 179748 | [179748-contrition.json](./179748-contrition.json) |
@@ -5698,6 +5702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Tetris | 302342 | [302342-cubic-tetris.json](./302342-cubic-tetris.json) |
 | CubicBan | 218565 | [218565-cubicban.json](./218565-cubicban.json) |
 | Cubicle Quest | 35762 | [35762-cubicle-quest.json](./35762-cubicle-quest.json) |
+| Cubico | 120787 | [120787-cubico.json](./120787-cubico.json) |
 | Cubicolor | 282717 | [282717-cubicolor.json](./282717-cubicolor.json) |
 | CubicPanic | 98980 | [98980-cubicpanic.json](./98980-cubicpanic.json) |
 | Cubidle | 311473 | [311473-cubidle.json](./311473-cubidle.json) |
