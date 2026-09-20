@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WildFront | 274474 | [274474-wildfront.json](./274474-wildfront.json) |
 | Wildheart Gourmet | 356753 | [356753-wildheart-gourmet.json](./356753-wildheart-gourmet.json) |
 | Wildkeepers Rising | 324076 | [324076-wildkeepers-rising.json](./324076-wildkeepers-rising.json) |
+| Wildland | 120831 | [120831-wildland.json](./120831-wildland.json) |
 | Wildland: Initial Attack | 185627 | [185627-wildland-initial-attack.json](./185627-wildland-initial-attack.json) |
 | Wildlands Resurgence | 267095 | [267095-wildlands-resurgence.json](./267095-wildlands-resurgence.json) |
 | Wildlife Camp | 36063 | [36063-wildlife-camp.json](./36063-wildlife-camp.json) |
@@ -1640,6 +1641,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will This Bitter Night Bring Change? | 204466 | [204466-will-this-bitter-night-bring-change.json](./204466-will-this-bitter-night-bring-change.json) |
 | Will Walker | 147377 | [147377-will-walker.json](./147377-will-walker.json) |
 | Will Willis and the Temple of Hacha'Kyum | 70368 | [70368-will-willis-and-the-temple-of-hachakyum.json](./70368-will-willis-and-the-temple-of-hachakyum.json) |
+| Will You Ever Return: In da Hood | 120807 | [120807-will-you-ever-return-in-da-hood.json](./120807-will-you-ever-return-in-da-hood.json) |
+| Will You Ever Return? 2 | 120806 | [120806-will-you-ever-return-2.json](./120806-will-you-ever-return-2.json) |
+| Will You Snail? | 120816 | [120816-will-you-snail.json](./120816-will-you-snail.json) |
 | Will: A Wonderful World | 34657 | [34657-will-a-wonderful-world.json](./34657-will-a-wonderful-world.json) |
 | Will: The Beginning | 368050 | [368050-will-the-beginning.json](./368050-will-the-beginning.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
