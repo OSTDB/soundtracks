@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanoi Puzzles: Magnetrix | 159744 | [159744-hanoi-puzzles-magnetrix.json](./159744-hanoi-puzzles-magnetrix.json) |
 | Hanoi Puzzles: Solid Match | 156520 | [156520-hanoi-puzzles-solid-match.json](./156520-hanoi-puzzles-solid-match.json) |
 | Hans in the Internetz | 392266 | [392266-hans-in-the-internetz.json](./392266-hans-in-the-internetz.json) |
+| Hanse: Die Expedition | 85818 | [85818-hanse-die-expedition.json](./85818-hanse-die-expedition.json) |
 | Hansel and Gretel | 215350 | [215350-hansel-and-gretel.json](./215350-hansel-and-gretel.json) |
 | Hansel and Gretel and the Enchanted Castle | 46641 | [46641-hansel-and-gretel-and-the-enchanted-castle.json](./46641-hansel-and-gretel-and-the-enchanted-castle.json) |
 | Hanski's Burlap of Chaos! | 174272 | [174272-hanskis-burlap-of-chaos.json](./174272-hanskis-burlap-of-chaos.json) |
@@ -2495,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himiko-Den Renge | 58779 | [58779-himiko-den-renge.json](./58779-himiko-den-renge.json) |
 | Himiko: I Must Kill Chikushoumaru | 82790 | [82790-himiko-i-must-kill-chikushoumaru.json](./82790-himiko-i-must-kill-chikushoumaru.json) |
 | Himitsu Chouhou Buin: 00Nanako-chan II | 66055 | [66055-himitsu-chouhou-buin-00nanako-chan-ii.json](./66055-himitsu-chouhou-buin-00nanako-chan-ii.json) |
+| Himitsu Chouhou Buin: 00Nanako-chan III | 85875 | [85875-himitsu-chouhou-buin-00nanako-chan-iii.json](./85875-himitsu-chouhou-buin-00nanako-chan-iii.json) |
 | Himitsu no AiPri | 284918 | [284918-himitsu-no-aipri.json](./284918-himitsu-no-aipri.json) |
 | Himitsu Sentai Metamor V | 107629 | [107629-himitsu-sentai-metamor-v.json](./107629-himitsu-sentai-metamor-v.json) |
 | Himmapan Marshmello Saga | 367516 | [367516-himmapan-marshmello-saga.json](./367516-himmapan-marshmello-saga.json) |
@@ -3388,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotline Omsk | 255156 | [255156-hotline-omsk.json](./255156-hotline-omsk.json) |
 | Hotloop | 235845 | [235845-hotloop.json](./235845-hotloop.json) |
 | Hototogisu | 64355 | [64355-hototogisu.json](./64355-hototogisu.json) |
+| Hototogisu Tairan 1553: Ryuuko Aiutsu | 85835 | [85835-hototogisu-tairan-1553-ryuuko-aiutsu.json](./85835-hototogisu-tairan-1553-ryuuko-aiutsu.json) |
 | Hotpot Defense | 348245 | [348245-hotpot-defense.json](./348245-hotpot-defense.json) |
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
 | Hotshot Racing | 131888 | [131888-hotshot-racing.json](./131888-hotshot-racing.json) |
