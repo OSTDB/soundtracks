@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn's Rising Temperature | 225718 | [225718-saturns-rising-temperature.json](./225718-saturns-rising-temperature.json) |
 | Saturnalia | 131564 | [131564-saturnalia.json](./131564-saturnalia.json) |
 | Saturnia | 267993 | [267993-saturnia.json](./267993-saturnia.json) |
+| Saturnine | 110127 | [110127-saturnine.json](./110127-saturnine.json) |
 | Saturnine Chapel | 141835 | [141835-saturnine-chapel.json](./141835-saturnine-chapel.json) |
 | Saucer Destruction 3: Armagedon | 337204 | [337204-saucer-destruction-3-armagedon.json](./337204-saucer-destruction-3-armagedon.json) |
 | Saucy Boy Adventures | 210095 | [210095-saucy-boy-adventures.json](./210095-saucy-boy-adventures.json) |
@@ -1396,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Files 2: Puritas Cordis | 5146 | [5146-secret-files-2-puritas-cordis.json](./5146-secret-files-2-puritas-cordis.json) |
 | Secret Files: Tunguska | 5145 | [5145-secret-files-tunguska.json](./5145-secret-files-tunguska.json) |
 | Secret Forest | 295277 | [295277-secret-forest.json](./295277-secret-forest.json) |
+| Secret Government | 110178 | [110178-secret-government.json](./110178-secret-government.json) |
 | Secret HavEat | 352209 | [352209-secret-haveat.json](./352209-secret-haveat.json) |
 | Secret House | 133224 | [133224-secret-house.json](./133224-secret-house.json) |
 | Secret in Flower | 395578 | [395578-secret-in-flower.json](./395578-secret-in-flower.json) |
@@ -2846,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Ballons | 247012 | [247012-shooting-ballons.json](./247012-shooting-ballons.json) |
 | Shooting Beena Toy Story 3: Woody to Buzz no Daibouken! | 123619 | [123619-shooting-beena-toy-story-3-woody-to-buzz-no-daibouken.json](./123619-shooting-beena-toy-story-3-woody-to-buzz-no-daibouken.json) |
 | Shooting Blocks 2 | 91340 | [91340-shooting-blocks-2.json](./91340-shooting-blocks-2.json) |
+| Shooting Chicken Insanity Chickens | 110171 | [110171-shooting-chicken-insanity-chickens.json](./110171-shooting-chicken-insanity-chickens.json) |
 | Shooting Covid | 195713 | [195713-shooting-covid.json](./195713-shooting-covid.json) |
 | Shooting Disappearing | 288357 | [288357-shooting-disappearing.json](./288357-shooting-disappearing.json) |
 | Shooting Fever | 64888 | [64888-shooting-fever.json](./64888-shooting-fever.json) |
@@ -2881,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Tycoon the Boss | 103537 | [103537-shop-tycoon-the-boss.json](./103537-shop-tycoon-the-boss.json) |
 | Shop-Like: The Rogue-Like Item Shop Experience | 250649 | [250649-shop-like-the-rogue-like-item-shop-experience.json](./250649-shop-like-the-rogue-like-item-shop-experience.json) |
 | Shopkeeper Simulator VR | 97270 | [97270-shopkeeper-simulator-vr.json](./97270-shopkeeper-simulator-vr.json) |
+| Shopkeepers Tale | 110166 | [110166-shopkeepers-tale.json](./110166-shopkeepers-tale.json) |
 | Shopkins: Cutie Cars | 109007 | [109007-shopkins-cutie-cars.json](./109007-shopkins-cutie-cars.json) |
 | Shopkins: Top Trumps | 82140 | [82140-shopkins-top-trumps.json](./82140-shopkins-top-trumps.json) |
 | Shoppe Keep 2 | 68842 | [68842-shoppe-keep-2.json](./68842-shoppe-keep-2.json) |
@@ -3184,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence Channel 2 | 218471 | [218471-silence-channel-2.json](./218471-silence-channel-2.json) |
 | Silence Coffee Shop | 222285 | [222285-silence-coffee-shop.json](./222285-silence-coffee-shop.json) |
 | Silence in the Cabin | 236255 | [236255-silence-in-the-cabin.json](./236255-silence-in-the-cabin.json) |
+| Silence Notes | 110169 | [110169-silence-notes.json](./110169-silence-notes.json) |
 | Silence-Dream | 310728 | [310728-silence-dream.json](./310728-silence-dream.json) |
 | Silence, Exile, and Cunning | 391061 | [391061-silence-exile-and-cunning.json](./391061-silence-exile-and-cunning.json) |
 | Silenced: The House | 89438 | [89438-silenced-the-house.json](./89438-silenced-the-house.json) |
@@ -4183,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Maker Factory: Fun Play | 106522 | [106522-slime-maker-factory-fun-play.json](./106522-slime-maker-factory-fun-play.json) |
 | Slime Management | 357349 | [357349-slime-management.json](./357349-slime-management.json) |
 | Slime on Hole | 185619 | [185619-slime-on-hole.json](./185619-slime-on-hole.json) |
+| Slime Quest | 110173 | [110173-slime-quest.json](./110173-slime-quest.json) |
 | Slime Quest | 248145 | [248145-slime-quest.json](./248145-slime-quest.json) |
 | Slime Rancher | 16287 | [16287-slime-rancher.json](./16287-slime-rancher.json) |
 | Slime Rancher Rainbow Bundle | 293761 | [293761-slime-rancher-rainbow-bundle.json](./293761-slime-rancher-rainbow-bundle.json) |
@@ -4238,6 +4244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingo Quest Hawaii | 73807 | [73807-slingo-quest-hawaii.json](./73807-slingo-quest-hawaii.json) |
 | Slingshot | 60577 | [60577-slingshot.json](./60577-slingshot.json) |
 | Slingshot Blitz: Rewarded Play | 232036 | [232036-slingshot-blitz-rewarded-play.json](./232036-slingshot-blitz-rewarded-play.json) |
+| Slingshot Explorer: The Twelve Towers | 110142 | [110142-slingshot-explorer-the-twelve-towers.json](./110142-slingshot-explorer-the-twelve-towers.json) |
 | Slingshot Fun Collection | 386213 | [386213-slingshot-fun-collection.json](./386213-slingshot-fun-collection.json) |
 | Slingshot Hero VR | 50546 | [50546-slingshot-hero-vr.json](./50546-slingshot-hero-vr.json) |
 | Slingshot Quest | 391715 | [391715-slingshot-quest.json](./391715-slingshot-quest.json) |
@@ -7088,6 +7095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spotlight: Choose Your Romance | 298871 | [298871-spotlight-choose-your-romance.json](./298871-spotlight-choose-your-romance.json) |
 | Spotlight!!! | 299479 | [299479-spotlight.json](./299479-spotlight.json) |
 | Spotted | 200720 | [200720-spotted.json](./200720-spotted.json) |
+| Spotter | 110163 | [110163-spotter.json](./110163-spotter.json) |
 | SPQR: The Empire's Darkest Hour | 73328 | [73328-spqr-the-empires-darkest-hour.json](./73328-spqr-the-empires-darkest-hour.json) |
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
 | Spray | 5192 | [5192-spray.json](./5192-spray.json) |
@@ -8181,6 +8189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Division 2: Reinforcement Pack #11 | 157542 | [157542-steel-division-2-reinforcement-pack-11.json](./157542-steel-division-2-reinforcement-pack-11.json) |
 | Steel Division 2: Reinforcement Pack #14 - Aces | 318438 | [318438-steel-division-2-reinforcement-pack-14-aces.json](./318438-steel-division-2-reinforcement-pack-14-aces.json) |
 | Steel Dragon Ex | 43341 | [43341-steel-dragon-ex.json](./43341-steel-dragon-ex.json) |
+| Steel Dungeon | 110162 | [110162-steel-dungeon.json](./110162-steel-dungeon.json) |
 | Steel Eagle: Cave Mission | 169287 | [169287-steel-eagle-cave-mission.json](./169287-steel-eagle-cave-mission.json) |
 | Steel Empire | 49383 | [49383-steel-empire.json](./49383-steel-empire.json) |
 | Steel Flood | 275710 | [275710-steel-flood.json](./275710-steel-flood.json) |
@@ -9041,6 +9050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
 | Sub Chase Online | 211200 | [211200-sub-chase-online.json](./211200-sub-chase-online.json) |
 | Sub Duel | 97352 | [97352-sub-duel.json](./97352-sub-duel.json) |
+| Sub Four: The Uncle | 110146 | [110146-sub-four-the-uncle.json](./110146-sub-four-the-uncle.json) |
 | Sub Game | 316079 | [316079-sub-game.json](./316079-sub-game.json) |
 | Sub Hunt | 5707 | [5707-sub-hunt.json](./5707-sub-hunt.json) |
 | Sub Optimal Co. | 345047 | [345047-sub-optimal-co.json](./345047-sub-optimal-co.json) |
@@ -9565,6 +9575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bomberman | 3450 | [3450-super-bomberman.json](./3450-super-bomberman.json) |
 | Super Bomberman R Online: Premium Pack | 150653 | [150653-super-bomberman-r-online-premium-pack.json](./150653-super-bomberman-r-online-premium-pack.json) |
 | Super Bomberman: Panic Bomber W | 42546 | [42546-super-bomberman-panic-bomber-w.json](./42546-super-bomberman-panic-bomber-w.json) |
+| Super BOO Quest | 110180 | [110180-super-boo-quest.json](./110180-super-boo-quest.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Brain Eat 3 | 63854 | [63854-super-brain-eat-3.json](./63854-super-brain-eat-3.json) |
 | Super Breakout | 239502 | [239502-super-breakout.json](./239502-super-breakout.json) |
@@ -10520,6 +10531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
 | SuperHyperCube | 20332 | [20332-superhypercube.json](./20332-superhypercube.json) |
 | Superior IQ | 369637 | [369637-superior-iq.json](./369637-superior-iq.json) |
+| Superior Wizards | 110134 | [110134-superior-wizards.json](./110134-superior-wizards.json) |
 | Superkid | 123064 | [123064-superkid.json](./123064-superkid.json) |
 | Superku | 34343 | [34343-superku.json](./34343-superku.json) |
 | SuperLandlady | 237657 | [237657-superlandlady.json](./237657-superlandlady.json) |
