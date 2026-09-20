@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanba Warriors: Character Pack 3 | 170993 | [170993-wanba-warriors-character-pack-3.json](./170993-wanba-warriors-character-pack-3.json) |
 | Wand of Fortune 2 FD: Kimi ni Sasageru Epilogue | 219130 | [219130-wand-of-fortune-2-fd-kimi-ni-sasageru-epilogue.json](./219130-wand-of-fortune-2-fd-kimi-ni-sasageru-epilogue.json) |
 | Wand of Fortune 2: Jikuu ni Shizumu Mokushiroku | 219129 | [219129-wand-of-fortune-2-jikuu-ni-shizumu-mokushiroku.json](./219129-wand-of-fortune-2-jikuu-ni-shizumu-mokushiroku.json) |
+| Wand Wars VR | 81727 | [81727-wand-wars-vr.json](./81727-wand-wars-vr.json) |
 | Wander Wonder | 237514 | [237514-wander-wonder.json](./237514-wander-wonder.json) |
 | Wanderer | 185082 | [185082-wanderer.json](./185082-wanderer.json) |
 | Wanderer | 205582 | [205582-wanderer.json](./205582-wanderer.json) |
@@ -765,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
 | WattGames | 298138 | [298138-wattgames.json](./298138-wattgames.json) |
+| Wauies | 81760 | [81760-wauies.json](./81760-wauies.json) |
 | Wave | 152147 | [152147-wave.json](./152147-wave.json) |
 | Wave Arrow | 106374 | [106374-wave-arrow.json](./106374-wave-arrow.json) |
 | Wave Buxters | 329574 | [329574-wave-buxters.json](./329574-wave-buxters.json) |
@@ -897,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Surround You | 150687 | [150687-we-surround-you.json](./150687-we-surround-you.json) |
 | We the People | 236841 | [236841-we-the-people.json](./236841-we-the-people.json) |
 | We Thieves HD | 343368 | [343368-we-thieves-hd.json](./343368-we-thieves-hd.json) |
+| We Walked In Darkness | 81734 | [81734-we-walked-in-darkness.json](./81734-we-walked-in-darkness.json) |
 | We Want You | 242646 | [242646-we-want-you.json](./242646-we-want-you.json) |
 | We Were Here Too | 54486 | [54486-we-were-here-too.json](./54486-we-were-here-too.json) |
 | We, Junk Artists | 369043 | [369043-we-junk-artists.json](./369043-we-junk-artists.json) |
@@ -1955,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Reign | 153858 | [153858-witchs-reign.json](./153858-witchs-reign.json) |
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
 | Witchaven I & II Bundle | 159696 | [159696-witchaven-i-and-ii-bundle.json](./159696-witchaven-i-and-ii-bundle.json) |
+| Witchball | 81788 | [81788-witchball.json](./81788-witchball.json) |
 | Witchbeat | 179618 | [179618-witchbeat.json](./179618-witchbeat.json) |
 | Witchblood | 129238 | [129238-witchblood.json](./129238-witchblood.json) |
 | Witchblood | 413640 | [413640-witchblood.json](./413640-witchblood.json) |
