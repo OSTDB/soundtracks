@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Season | 174762 | [174762-tale-of-season.json](./174762-tale-of-season.json) |
 | Tale of Serendipity | 189056 | [189056-tale-of-serendipity.json](./189056-tale-of-serendipity.json) |
 | Tale of Swords | 113734 | [113734-tale-of-swords.json](./113734-tale-of-swords.json) |
+| Tale of Swords: Eternal Love | 104469 | [104469-tale-of-swords-eternal-love.json](./104469-tale-of-swords-eternal-love.json) |
 | Tale of Swords: Mystery Scroll | 83544 | [83544-tale-of-swords-mystery-scroll.json](./83544-tale-of-swords-mystery-scroll.json) |
 | Tale of the Bear and the Beech Tree | 398347 | [398347-tale-of-the-bear-and-the-beech-tree.json](./398347-tale-of-the-bear-and-the-beech-tree.json) |
 | Tale of the Fragmented Star: Single Fragment Version | 109477 | [109477-tale-of-the-fragmented-star-single-fragment-version.json](./109477-tale-of-the-fragmented-star-single-fragment-version.json) |
@@ -3280,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Goto Family's: The Island Murder Case | 150112 | [150112-the-goto-familys-the-island-murder-case.json](./150112-the-goto-familys-the-island-murder-case.json) |
 | The Grand Guignol | 271733 | [271733-the-grand-guignol.json](./271733-the-grand-guignol.json) |
 | The Grand Prismatic | 411613 | [411613-the-grand-prismatic.json](./411613-the-grand-prismatic.json) |
+| The Grand Way | 104462 | [104462-the-grand-way.json](./104462-the-grand-way.json) |
 | The Grandma from Coco in Sonic 1 | 325693 | [325693-the-grandma-from-coco-in-sonic-1.json](./325693-the-grandma-from-coco-in-sonic-1.json) |
 | The Grass | 163955 | [163955-the-grass.json](./163955-the-grass.json) |
 | The Grass Reaper | 363897 | [363897-the-grass-reaper.json](./363897-the-grass-reaper.json) |
@@ -4515,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of the Wicked Village | 65446 | [65446-the-mystery-of-the-wicked-village.json](./65446-the-mystery-of-the-wicked-village.json) |
 | The Mystery of Whiterock Castle | 67229 | [67229-the-mystery-of-whiterock-castle.json](./67229-the-mystery-of-whiterock-castle.json) |
 | The Mystery of Woolley Mountain | 52011 | [52011-the-mystery-of-woolley-mountain.json](./52011-the-mystery-of-woolley-mountain.json) |
+| The Mystery Workshop | 104457 | [104457-the-mystery-workshop.json](./104457-the-mystery-workshop.json) |
 | The Mystical Traveler | 342735 | [342735-the-mystical-traveler.json](./342735-the-mystical-traveler.json) |
 | The Mystifying Trial | 163455 | [163455-the-mystifying-trial.json](./163455-the-mystifying-trial.json) |
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
