@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of 2048: Fantasy Edition | 234350 | [234350-battle-of-2048-fantasy-edition.json](./234350-battle-of-2048-fantasy-edition.json) |
 | Battle of Angels | 137681 | [137681-battle-of-angels.json](./137681-battle-of-angels.json) |
 | Battle of Arrow | 82146 | [82146-battle-of-arrow.json](./82146-battle-of-arrow.json) |
+| Battle of Atlantis | 85845 | [85845-battle-of-atlantis.json](./85845-battle-of-atlantis.json) |
 | Battle of Britain | 82058 | [82058-battle-of-britain.json](./82058-battle-of-britain.json) |
 | Battle of Decay: Survival | 217015 | [217015-battle-of-decay-survival.json](./217015-battle-of-decay-survival.json) |
 | Battle of Elemental | 376544 | [376544-battle-of-elemental.json](./376544-battle-of-elemental.json) |
@@ -3976,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogerman II: The Final Adventure | 242092 | [242092-boogerman-ii-the-final-adventure.json](./242092-boogerman-ii-the-final-adventure.json) |
 | Boogeyman | 19015 | [19015-boogeyman.json](./19015-boogeyman.json) |
 | Boogie | 210265 | [210265-boogie.json](./210265-boogie.json) |
+| Boogie | 85828 | [85828-boogie.json](./85828-boogie.json) |
 | Boogie Woogi Jungle | 202347 | [202347-boogie-woogi-jungle.json](./202347-boogie-woogi-jungle.json) |
 | Boogy | 193890 | [193890-boogy.json](./193890-boogy.json) |
 | Book 5 Untold | 254549 | [254549-book-5-untold.json](./254549-book-5-untold.json) |
