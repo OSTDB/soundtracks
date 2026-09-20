@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
 | Adventure Ponies | 146120 | [146120-adventure-ponies.json](./146120-adventure-ponies.json) |
 | Adventure Ponies 2: Wait! There's More?! | 146121 | [146121-adventure-ponies-2-wait-theres-more.json](./146121-adventure-ponies-2-wait-theres-more.json) |
+| Adventure Quiz 2: Hatena? No Dai-Bouken | 65206 | [65206-adventure-quiz-2-hatena-no-dai-bouken.json](./65206-adventure-quiz-2-hatena-no-dai-bouken.json) |
 | Adventure Quiz: Capcom World - Hatena no Daibouken | 77012 | [77012-adventure-quiz-capcom-world-hatena-no-daibouken.json](./77012-adventure-quiz-capcom-world-hatena-no-daibouken.json) |
 | Adventure Realm | 357782 | [357782-adventure-realm.json](./357782-adventure-realm.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
@@ -2139,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Navy Seals | 410967 | [410967-american-navy-seals.json](./410967-american-navy-seals.json) |
 | American Ninja Warrior: Challenge | 118196 | [118196-american-ninja-warrior-challenge.json](./118196-american-ninja-warrior-challenge.json) |
 | American Patriots: The Swamp Fox | 111018 | [111018-american-patriots-the-swamp-fox.json](./111018-american-patriots-the-swamp-fox.json) |
+| American Pickers: The Road Less Traveled | 65204 | [65204-american-pickers-the-road-less-traveled.json](./65204-american-pickers-the-road-less-traveled.json) |
 | American Poker | 14252 | [14252-american-poker.json](./14252-american-poker.json) |
 | American Pool | 43928 | [43928-american-pool.json](./43928-american-pool.json) |
 | American Truck Simulator | 9667 | [9667-american-truck-simulator.json](./9667-american-truck-simulator.json) |
