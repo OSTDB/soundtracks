@@ -1478,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Knows Where They're Going | 184053 | [184053-who-knows-where-theyre-going.json](./184053-who-knows-where-theyre-going.json) |
 | Who Made this Art? Human or AI | 286652 | [286652-who-made-this-art-human-or-ai.json](./286652-who-made-this-art-human-or-ai.json) |
 | Who Must Die | 33112 | [33112-who-must-die.json](./33112-who-must-die.json) |
+| Who owns the kangaroo? | 71215 | [71215-who-owns-the-kangaroo.json](./71215-who-owns-the-kangaroo.json) |
 | Who Shot James R. Burnside? | 302493 | [302493-who-shot-james-r-burnside.json](./302493-who-shot-james-r-burnside.json) |
 | Who Stole Me? | 247168 | [247168-who-stole-me.json](./247168-who-stole-me.json) |
 | Who Wants to Be a Millionaire | 210722 | [210722-who-wants-to-be-a-millionaire.json](./210722-who-wants-to-be-a-millionaire.json) |
@@ -2874,6 +2875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wukong Sun: Black Legend | 328464 | [328464-wukong-sun-black-legend.json](./328464-wukong-sun-black-legend.json) |
 | Wukong Survivors: Begin | 387379 | [387379-wukong-survivors-begin.json](./387379-wukong-survivors-begin.json) |
 | Wukong Survivors: God Slayer | 387507 | [387507-wukong-survivors-god-slayer.json](./387507-wukong-survivors-god-slayer.json) |
+| Wulfram II | 71227 | [71227-wulfram-ii.json](./71227-wulfram-ii.json) |
 | Wǔlín Zhēngbà zhī Yīngxióng Tiē | 93585 | [93585-wulin-zhengba-zhi-yingxiong-tie.json](./93585-wulin-zhengba-zhi-yingxiong-tie.json) |
 | Wǔlín Zhìzūn Zhuàn | 367434 | [367434-wulin-zhizun-zhuan.json](./367434-wulin-zhizun-zhuan.json) |
 | Wumbo's Adventure | 102750 | [102750-wumbos-adventure.json](./102750-wumbos-adventure.json) |
