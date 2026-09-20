@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Wars | 108994 | [108994-kart-wars.json](./108994-kart-wars.json) |
 | Karting with Animals | 303604 | [303604-karting-with-animals.json](./303604-karting-with-animals.json) |
 | KartKraft | 34354 | [34354-kartkraft.json](./34354-kartkraft.json) |
+| Kartofank VR | 72358 | [72358-kartofank-vr.json](./72358-kartofank-vr.json) |
 | KartRider: Drift | 125626 | [125626-kartrider-drift.json](./125626-kartrider-drift.json) |
 | Karts With Chat | 345505 | [345505-karts-with-chat.json](./345505-karts-with-chat.json) |
 | Kasaba | 217369 | [217369-kasaba.json](./217369-kasaba.json) |
@@ -564,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kero Quest 64 | 326620 | [326620-kero-quest-64.json](./326620-kero-quest-64.json) |
 | Keroro RPG: Kishi to Busha to Densetsu no Kaizoku | 67306 | [67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json](./67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json) |
 | Kesenai Boken no Sho | 97693 | [97693-kesenai-boken-no-sho.json](./97693-kesenai-boken-no-sho.json) |
+| Keshtat | 72368 | [72368-keshtat.json](./72368-keshtat.json) |
 | Kessakusen! Ganbare Goemon 1+2: Yuki-hime to McGuiness | 82068 | [82068-kessakusen-ganbare-goemon-1-2-yuki-hime-to-mcguiness.json](./82068-kessakusen-ganbare-goemon-1-2-yuki-hime-to-mcguiness.json) |
 | Kessen III | 20200 | [20200-kessen-iii.json](./20200-kessen-iii.json) |
 | Kestrel | 152386 | [152386-kestrel.json](./152386-kestrel.json) |
