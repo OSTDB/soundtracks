@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuga | 280179 | [280179-hakuga.json](./280179-hakuga.json) |
 | Hakuoki Shinkai: Ginsei no Shou | 136838 | [136838-hakuoki-shinkai-ginsei-no-shou.json](./136838-hakuoki-shinkai-ginsei-no-shou.json) |
 | Hakuoki SSL: Sweet School Life for Nintendo Switch | 243921 | [243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json](./243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json) |
+| Hakuoki Yuugiroku Taishitachi no Daienkai | 124016 | [124016-hakuoki-yuugiroku-taishitachi-no-daienkai.json](./124016-hakuoki-yuugiroku-taishitachi-no-daienkai.json) |
 | Hakuoki: Demon of the Fleeting Blossom | 17272 | [17272-hakuoki-demon-of-the-fleeting-blossom.json](./17272-hakuoki-demon-of-the-fleeting-blossom.json) |
 | Hakuoki: Kyoto Winds - Deluxe Edition | 243920 | [243920-hakuoki-kyoto-winds-deluxe-edition.json](./243920-hakuoki-kyoto-winds-deluxe-edition.json) |
 | Hakuoki: Kyoto Winds - Winds Treasure Box | 168905 | [168905-hakuoki-kyoto-winds-winds-treasure-box.json](./168905-hakuoki-kyoto-winds-winds-treasure-box.json) |
@@ -3014,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopper Cat | 234596 | [234596-hopper-cat.json](./234596-hopper-cat.json) |
 | Hoppin | 235765 | [235765-hoppin.json](./235765-hoppin.json) |
 | Hopping Girl Kohane EX | 234734 | [234734-hopping-girl-kohane-ex.json](./234734-hopping-girl-kohane-ex.json) |
+| Hopping girl Kohane Jumping Kingdom: Princess of the Black Rabbit | 124022 | [124022-hopping-girl-kohane-jumping-kingdom-princess-of-the-black-rabbit.json](./124022-hopping-girl-kohane-jumping-kingdom-princess-of-the-black-rabbit.json) |
 | Hoppup! | 141878 | [141878-hoppup.json](./141878-hoppup.json) |
 | Hopscotch | 262430 | [262430-hopscotch.json](./262430-hopscotch.json) |
 | Hopscotch | 68689 | [68689-hopscotch.json](./68689-hopscotch.json) |
