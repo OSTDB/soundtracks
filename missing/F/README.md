@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-1 Grand Prix Part III | 38362 | [38362-f-1-grand-prix-part-iii.json](./38362-f-1-grand-prix-part-iii.json) |
 | F-1 World Grand Prix | 248741 | [248741-f-1-world-grand-prix.json](./248741-f-1-world-grand-prix.json) |
 | F-1 World Grand Prix for Dreamcast | 248742 | [248742-f-1-world-grand-prix-for-dreamcast.json](./248742-f-1-world-grand-prix-for-dreamcast.json) |
+| F-117A Stealth Fighter | 69582 | [69582-f-117a-stealth-fighter.json](./69582-f-117a-stealth-fighter.json) |
 | F-15 Strike Eagle III | 71811 | [71811-f-15-strike-eagle-iii.json](./71811-f-15-strike-eagle-iii.json) |
 | F-16 Combat Pilot | 12085 | [12085-f-16-combat-pilot.json](./12085-f-16-combat-pilot.json) |
 | F-16 Multirole Fighter | 72715 | [72715-f-16-multirole-fighter.json](./72715-f-16-multirole-fighter.json) |
@@ -1950,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firmament Wars | 104042 | [104042-firmament-wars.json](./104042-firmament-wars.json) |
 | Firon | 114979 | [114979-firon.json](./114979-firon.json) |
 | First | 377569 | [377569-first.json](./377569-first.json) |
+| First Anchor | 69559 | [69559-first-anchor.json](./69559-first-anchor.json) |
 | First Bite: Bad Blood | 221167 | [221167-first-bite-bad-blood.json](./221167-first-bite-bad-blood.json) |
 | First Blood | 312895 | [312895-first-blood.json](./312895-first-blood.json) |
 | First Break | 293639 | [293639-first-break.json](./293639-first-break.json) |
@@ -4460,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuyu no Rondo | 69310 | [69310-fuyu-no-rondo.json](./69310-fuyu-no-rondo.json) |
 | Fuyu no Sonata DS | 124014 | [124014-fuyu-no-sonata-ds.json](./124014-fuyu-no-sonata-ds.json) |
 | Fuze4 Nintendo Switch | 85161 | [85161-fuze4-nintendo-switch.json](./85161-fuze4-nintendo-switch.json) |
+| Fuzzball | 69573 | [69573-fuzzball.json](./69573-fuzzball.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
 | Fwog | 270189 | [270189-fwog.json](./270189-fwog.json) |
