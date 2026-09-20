@@ -1492,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeds of Calamity | 194561 | [194561-seeds-of-calamity.json](./194561-seeds-of-calamity.json) |
 | Seeds of Chaos | 138017 | [138017-seeds-of-chaos.json](./138017-seeds-of-chaos.json) |
 | Seeds of Hope: The Last Stand | 184561 | [184561-seeds-of-hope-the-last-stand.json](./184561-seeds-of-hope-the-last-stand.json) |
+| Seeds of Love | 120204 | [120204-seeds-of-love.json](./120204-seeds-of-love.json) |
 | Seeds of Unity | 196804 | [196804-seeds-of-unity.json](./196804-seeds-of-unity.json) |
 | Seeing Red | 395587 | [395587-seeing-red.json](./395587-seeing-red.json) |
 | Seeing Things | 272935 | [272935-seeing-things.json](./272935-seeing-things.json) |
@@ -7543,6 +7544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek III | 69258 | [69258-star-trek-iii.json](./69258-star-trek-iii.json) |
 | Star Trek Online | 7584 | [7584-star-trek-online.json](./7584-star-trek-online.json) |
 | Star Trek Online: Agents of Yesterday | 23285 | [23285-star-trek-online-agents-of-yesterday.json](./23285-star-trek-online-agents-of-yesterday.json) |
+| Star Trek Online: Rise of Discovery | 120207 | [120207-star-trek-online-rise-of-discovery.json](./120207-star-trek-online-rise-of-discovery.json) |
 | Star Trek Prodigy: Supernova | 202419 | [202419-star-trek-prodigy-supernova.json](./202419-star-trek-prodigy-supernova.json) |
 | Star Trek Scene It? | 216322 | [216322-star-trek-scene-it.json](./216322-star-trek-scene-it.json) |
 | Star Trek Trexels II | 108463 | [108463-star-trek-trexels-ii.json](./108463-star-trek-trexels-ii.json) |
@@ -9250,6 +9252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sully: A Very Serious RPG | 216868 | [216868-sully-a-very-serious-rpg.json](./216868-sully-a-very-serious-rpg.json) |
 | Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
+| Sum Blocks | 120161 | [120161-sum-blocks.json](./120161-sum-blocks.json) |
 | Sumatra: Fate of Yandi | 110416 | [110416-sumatra-fate-of-yandi.json](./110416-sumatra-fate-of-yandi.json) |
 | Sumer | 32921 | [32921-sumer.json](./32921-sumer.json) |
 | Sumerian Blood: Gilgamesh against the Gods | 104013 | [104013-sumerian-blood-gilgamesh-against-the-gods.json](./104013-sumerian-blood-gilgamesh-against-the-gods.json) |
