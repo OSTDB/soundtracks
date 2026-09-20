@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: Wolverine's Rage | 49899 | [49899-x-men-wolverines-rage.json](./49899-x-men-wolverines-rage.json) |
 | X-Mercs | 59982 | [59982-x-mercs.json](./59982-x-mercs.json) |
 | X-Moon | 112325 | [112325-x-moon.json](./112325-x-moon.json) |
+| X-Noir | 124598 | [124598-x-noir.json](./124598-x-noir.json) |
 | X-Note | 36055 | [36055-x-note.json](./36055-x-note.json) |
 | X-Out: Resurfaced | 312309 | [312309-x-out-resurfaced.json](./312309-x-out-resurfaced.json) |
 | X-Pack | 261869 | [261869-x-pack.json](./261869-x-pack.json) |
@@ -311,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | xTypeVersus | 154016 | [154016-xtypeversus.json](./154016-xtypeversus.json) |
 | Xuán Chén Xiāntú | 130928 | [130928-xuan-chen-xiantu.json](./130928-xuan-chen-xiantu.json) |
 | Xuan Dou Zhi Wang | 93555 | [93555-xuan-dou-zhi-wang.json](./93555-xuan-dou-zhi-wang.json) |
+| Xuan Yuan Fú Mó Lu | 124643 | [124643-xuan-yuan-fu-mo-lu.json](./124643-xuan-yuan-fu-mo-lu.json) |
 | Xuan Yuan Sword Luminary | 196321 | [196321-xuan-yuan-sword-luminary.json](./196321-xuan-yuan-sword-luminary.json) |
 | Xuan Yuan Sword: The Gate of Firmament | 90974 | [90974-xuan-yuan-sword-the-gate-of-firmament.json](./90974-xuan-yuan-sword-the-gate-of-firmament.json) |
 | Xuan-Yuan Jiàn Wàizhuàn: Cāng zhī Tāo | 86029 | [86029-xuan-yuan-jian-waizhuan-cang-zhi-tao.json](./86029-xuan-yuan-jian-waizhuan-cang-zhi-tao.json) |
