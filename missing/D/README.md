@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C. Girl's Symphony | 72661 | [72661-d-c-girls-symphony.json](./72661-d-c-girls-symphony.json) |
 | D.C. Girl's Symphony Pocket | 221833 | [221833-d-c-girls-symphony-pocket.json](./221833-d-c-girls-symphony-pocket.json) |
 | D.C. II ~Da Capo II~ | 61641 | [61641-d-c-ii-da-capo-ii.json](./61641-d-c-ii-da-capo-ii.json) |
+| D.C. S#*!storm | 86547 | [86547-d-c-s-storm.json](./86547-d-c-s-storm.json) |
 | D.C.4: Da Capo 4 - Fortunate Departures | 207920 | [207920-d-c-4-da-capo-4-fortunate-departures.json](./207920-d-c-4-da-capo-4-fortunate-departures.json) |
 | D.C.5 to 4: Luminous Memories | 408137 | [408137-d-c-5-to-4-luminous-memories.json](./408137-d-c-5-to-4-luminous-memories.json) |
 | D.C.5 to 4: Luminous Memories - Deluxe Limited Edition | 408140 | [408140-d-c-5-to-4-luminous-memories-deluxe-limited-edition.json](./408140-d-c-5-to-4-luminous-memories-deluxe-limited-edition.json) |
@@ -1194,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlings: Rotten Edition | 26822 | [26822-deadlings-rotten-edition.json](./26822-deadlings-rotten-edition.json) |
 | DeadLock | 166073 | [166073-deadlock.json](./166073-deadlock.json) |
 | Deadlocked | 197796 | [197796-deadlocked.json](./197796-deadlocked.json) |
+| Deadly Blue | 86528 | [86528-deadly-blue.json](./86528-deadly-blue.json) |
 | Deadly Burrito | 111506 | [111506-deadly-burrito.json](./111506-deadly-burrito.json) |
 | Deadly Contagion | 275130 | [275130-deadly-contagion.json](./275130-deadly-contagion.json) |
 | Deadly Cryptids | 87966 | [87966-deadly-cryptids.json](./87966-deadly-cryptids.json) |
@@ -1752,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delirium | 234755 | [234755-delirium.json](./234755-delirium.json) |
 | Delirium | 293898 | [293898-delirium.json](./293898-delirium.json) |
 | Delirium | 320553 | [320553-delirium.json](./320553-delirium.json) |
+| Delirium: Bad Trip Edition | 86570 | [86570-delirium-bad-trip-edition.json](./86570-delirium-bad-trip-edition.json) |
 | Delirium: Echoes of the Domino | 360654 | [360654-delirium-echoes-of-the-domino.json](./360654-delirium-echoes-of-the-domino.json) |
 | DeliSpace | 291441 | [291441-delispace.json](./291441-delispace.json) |
 | Deliver This! | 365152 | [365152-deliver-this.json](./365152-deliver-this.json) |
@@ -2711,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Dance Mix Vol. 1: Namie Amuro | 96091 | [96091-digital-dance-mix-vol-1-namie-amuro.json](./96091-digital-dance-mix-vol-1-namie-amuro.json) |
 | Digital Dance Mix Vol.1 Namie Amuro | 108828 | [108828-digital-dance-mix-vol-1-namie-amuro.json](./108828-digital-dance-mix-vol-1-namie-amuro.json) |
 | Digital Devil Saga: Avatar Tuner - A's Test Server | 136416 | [136416-digital-devil-saga-avatar-tuner-as-test-server.json](./136416-digital-devil-saga-avatar-tuner-as-test-server.json) |
+| Digital Diamond Baseball | 86538 | [86538-digital-diamond-baseball.json](./86538-digital-diamond-baseball.json) |
 | Digital Dungeon | 101352 | [101352-digital-dungeon.json](./101352-digital-dungeon.json) |
 | Digital Eclipse Arcade: Invasion of the Buffet Snatchers | 236851 | [236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json](./236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json) |
 | Digital Eclipse Arcade: Q.P.I.D. | 239655 | [239655-digital-eclipse-arcade-q-p-i-d.json](./239655-digital-eclipse-arcade-q-p-i-d.json) |
@@ -3325,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DMBX 2.5: Mountain Bike and BMX | 174338 | [174338-dmbx-2-5-mountain-bike-and-bmx.json](./174338-dmbx-2-5-mountain-bike-and-bmx.json) |
 | DMBX: Mountain Biking | 174213 | [174213-dmbx-mountain-biking.json](./174213-dmbx-mountain-biking.json) |
 | DMCA's Sky | 127260 | [127260-dmcas-sky.json](./127260-dmcas-sky.json) |
+| DMD Mars Mission | 86516 | [86516-dmd-mars-mission.json](./86516-dmd-mars-mission.json) |
 | Dmod | 275917 | [275917-dmod.json](./275917-dmod.json) |
 | dMuse | 98978 | [98978-dmuse.json](./98978-dmuse.json) |
 | DMX Presents: Unnecessary Hypeman Hero | 138266 | [138266-dmx-presents-unnecessary-hypeman-hero.json](./138266-dmx-presents-unnecessary-hypeman-hero.json) |
@@ -4992,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifty | 251200 | [251200-drifty.json](./251200-drifty.json) |
 | Drifty Drive | 112271 | [112271-drifty-drive.json](./112271-drifty-drive.json) |
 | Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
+| Drill Arena | 86549 | [86549-drill-arena.json](./86549-drill-arena.json) |
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
 | Drill Deal | 118816 | [118816-drill-deal.json](./118816-drill-deal.json) |
 | Drill Deep | 400957 | [400957-drill-deep.json](./400957-drill-deep.json) |
