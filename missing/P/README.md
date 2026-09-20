@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi Para 15: Super Sea in Okinawa 2 | 65538 | [65538-pachi-para-15-super-sea-in-okinawa-2.json](./65538-pachi-para-15-super-sea-in-okinawa-2.json) |
 | Pachi-Pachi Typing | 397100 | [397100-pachi-pachi-typing.json](./397100-pachi-pachi-typing.json) |
 | Pachi-Slot Higurashi no Naku Koro ni Matsuri | 263021 | [263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json](./263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json) |
+| Pachi-Slot Kanzen Kouryaku: Universal Shindai Nyuuka Volume 1 | 66960 | [66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json](./66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json) |
 | Pachicom | 41396 | [41396-pachicom.json](./41396-pachicom.json) |
 | Pachiko | 357310 | [357310-pachiko.json](./357310-pachiko.json) |
 | Pachillinko | 188665 | [188665-pachillinko.json](./188665-pachillinko.json) |
@@ -2800,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster: The Munsters Munster Koach Construction Kit | 168242 | [168242-planet-coaster-the-munsters-munster-koach-construction-kit.json](./168242-planet-coaster-the-munsters-munster-koach-construction-kit.json) |
 | Planet Collectors: Episode Earth | 193423 | [193423-planet-collectors-episode-earth.json](./193423-planet-collectors-episode-earth.json) |
 | Planet Collision | 229178 | [229178-planet-collision.json](./229178-planet-collision.json) |
+| Planet Cracker | 66969 | [66969-planet-cracker.json](./66969-planet-cracker.json) |
 | Planet Craft | 181310 | [181310-planet-craft.json](./181310-planet-craft.json) |
 | Planet Crafter | 143574 | [143574-planet-crafter.json](./143574-planet-crafter.json) |
 | Planet Crashers | 21036 | [21036-planet-crashers.json](./21036-planet-crashers.json) |
@@ -4519,6 +4521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Basketball Manager 2022 | 182397 | [182397-pro-basketball-manager-2022.json](./182397-pro-basketball-manager-2022.json) |
 | Pro Basketball Manager 2023 | 220656 | [220656-pro-basketball-manager-2023.json](./220656-pro-basketball-manager-2023.json) |
 | Pro Basketball Manager 2025 | 316054 | [316054-pro-basketball-manager-2025.json](./316054-pro-basketball-manager-2025.json) |
+| Pro Biker 2 | 66934 | [66934-pro-biker-2.json](./66934-pro-biker-2.json) |
 | Pro Crack | 247026 | [247026-pro-crack.json](./247026-pro-crack.json) |
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
 | Pro Cycling Manager 2010 | 67311 | [67311-pro-cycling-manager-2010.json](./67311-pro-cycling-manager-2010.json) |
