@@ -1270,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedCat: De Duistere Dierendiefstal | 242637 | [242637-redcat-de-duistere-dierendiefstal.json](./242637-redcat-de-duistere-dierendiefstal.json) |
 | RedCat: De Europese Stedentocht | 242635 | [242635-redcat-de-europese-stedentocht.json](./242635-redcat-de-europese-stedentocht.json) |
 | RedCat: De Reusachtige Letterraket | 242636 | [242636-redcat-de-reusachtige-letterraket.json](./242636-redcat-de-reusachtige-letterraket.json) |
+| RedCat: De Spannende Stedentocht | 125279 | [125279-redcat-de-spannende-stedentocht.json](./125279-redcat-de-spannende-stedentocht.json) |
 | RedCat: De Toffe Tijdreis | 201299 | [201299-redcat-de-toffe-tijdreis.json](./201299-redcat-de-toffe-tijdreis.json) |
 | RedCat: De Woeste Woordenbrij | 201300 | [201300-redcat-de-woeste-woordenbrij.json](./201300-redcat-de-woeste-woordenbrij.json) |
 | Redcon | 25098 | [25098-redcon.json](./25098-redcon.json) |
@@ -3995,3 +3996,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryu Jin | 40253 | [40253-ryu-jin.json](./40253-ryu-jin.json) |
 | Ryuu ga Gotoku Kenzan! | 7442 | [7442-ryuu-ga-gotoku-kenzan.json](./7442-ryuu-ga-gotoku-kenzan.json) |
 | Ryuuko no Ken 2 | 38347 | [38347-ryuuko-no-ken-2.json](./38347-ryuuko-no-ken-2.json) |
+| Ryuuo no Oshigoto! | 125193 | [125193-ryuuo-no-oshigoto.json](./125193-ryuuo-no-oshigoto.json) |
