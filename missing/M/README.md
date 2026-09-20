@@ -1883,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze | 392949 | [392949-maze.json](./392949-maze.json) |
 | Maze | 7430 | [7430-maze.json](./7430-maze.json) |
 | Maze 2010 | 230851 | [230851-maze-2010.json](./230851-maze-2010.json) |
+| Maze 3D | 113478 | [113478-maze-3d.json](./113478-maze-3d.json) |
 | Maze 4D | 112921 | [112921-maze-4d.json](./112921-maze-4d.json) |
 | Maze 95 Ultimate | 406807 | [406807-maze-95-ultimate.json](./406807-maze-95-ultimate.json) |
 | Maze Ball Neon | 176367 | [176367-maze-ball-neon.json](./176367-maze-ball-neon.json) |
@@ -2667,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Hospital V | 200030 | [200030-mental-hospital-v.json](./200030-mental-hospital-v.json) |
 | Mental Salvo | 311659 | [311659-mental-salvo.json](./311659-mental-salvo.json) |
 | Mental: The Dark Night | 236828 | [236828-mental-the-dark-night.json](./236828-mental-the-dark-night.json) |
+| Mentori Puzzle | 113471 | [113471-mentori-puzzle.json](./113471-mentori-puzzle.json) |
 | Mentula Macanus: Apocolocyntosis | 22420 | [22420-mentula-macanus-apocolocyntosis.json](./22420-mentula-macanus-apocolocyntosis.json) |
 | Meow | 334677 | [334677-meow.json](./334677-meow.json) |
 | Meow Cat Village | 314471 | [314471-meow-cat-village.json](./314471-meow-cat-village.json) |
@@ -4328,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Moe 2-ji Daisenryaku | 288207 | [288207-moe-moe-2-ji-daisenryaku.json](./288207-moe-moe-2-ji-daisenryaku.json) |
 | Moe Moe Daisensou * Gendaiban++ | 44579 | [44579-moe-moe-daisensou-gendaiban.json](./44579-moe-moe-daisensou-gendaiban.json) |
 | Moe Moe World War II-3 | 120374 | [120374-moe-moe-world-war-ii-3.json](./120374-moe-moe-world-war-ii-3.json) |
+| Moe Reversi | 113482 | [113482-moe-reversi.json](./113482-moe-reversi.json) |
 | Moe Waifu H: BlockBlast | 317213 | [317213-moe-waifu-h-blockblast.json](./317213-moe-waifu-h-blockblast.json) |
 | Moe Waifu H: Push-Box | 337988 | [337988-moe-waifu-h-push-box.json](./337988-moe-waifu-h-push-box.json) |
 | Moeboid | 77352 | [77352-moeboid.json](./77352-moeboid.json) |
@@ -4775,6 +4778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Tamer | 190233 | [190233-monster-tamer.json](./190233-monster-tamer.json) |
 | Monster Tavern | 382776 | [382776-monster-tavern.json](./382776-monster-tavern.json) |
 | Monster Tower | 348775 | [348775-monster-tower.json](./348775-monster-tower.json) |
+| Monster Trampoline | 113477 | [113477-monster-trampoline.json](./113477-monster-trampoline.json) |
 | Monster Trivia | 100119 | [100119-monster-trivia.json](./100119-monster-trivia.json) |
 | Monster Truck Freestyle | 283279 | [283279-monster-truck-freestyle.json](./283279-monster-truck-freestyle.json) |
 | Monster Truck Madness | 146887 | [146887-monster-truck-madness.json](./146887-monster-truck-madness.json) |
