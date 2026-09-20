@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Electro-Mechanical Table Pack 2 | 411008 | [411008-zaccaria-pinball-electro-mechanical-table-pack-2.json](./411008-zaccaria-pinball-electro-mechanical-table-pack-2.json) |
 | Zaccaria Pinball: Future World Deluxe Pinball Table | 349923 | [349923-zaccaria-pinball-future-world-deluxe-pinball-table.json](./349923-zaccaria-pinball-future-world-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Magic Castle Deluxe Pinball Table | 349915 | [349915-zaccaria-pinball-magic-castle-deluxe-pinball-table.json](./349915-zaccaria-pinball-magic-castle-deluxe-pinball-table.json) |
+| Zaccaria Pinball: Master Edition | 107669 | [107669-zaccaria-pinball-master-edition.json](./107669-zaccaria-pinball-master-edition.json) |
 | Zaccaria Pinball: Moon Flight Deluxe Pinball Table | 349918 | [349918-zaccaria-pinball-moon-flight-deluxe-pinball-table.json](./349918-zaccaria-pinball-moon-flight-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Pinball Champ Deluxe Pinball Table | 349919 | [349919-zaccaria-pinball-pinball-champ-deluxe-pinball-table.json](./349919-zaccaria-pinball-pinball-champ-deluxe-pinball-table.json) |
 | Zaccaria Pinball: Pool Champion 2018 Table | 156105 | [156105-zaccaria-pinball-pool-champion-2018-table.json](./156105-zaccaria-pinball-pool-champion-2018-table.json) |
@@ -168,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Match | 185681 | [185681-zen-match.json](./185681-zen-match.json) |
 | Zen Mosaics | 415860 | [415860-zen-mosaics.json](./415860-zen-mosaics.json) |
 | Zen Rage | 319223 | [319223-zen-rage.json](./319223-zen-rage.json) |
+| Zen Studios VR Collection | 107642 | [107642-zen-studios-vr-collection.json](./107642-zen-studios-vr-collection.json) |
 | Zen Training | 316067 | [316067-zen-training.json](./316067-zen-training.json) |
 | Zen Wars | 200187 | [200187-zen-wars.json](./200187-zen-wars.json) |
 | Zen Wash | 381713 | [381713-zen-wash.json](./381713-zen-wash.json) |
