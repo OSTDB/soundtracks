@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gerry Anderson's Thunderbirds: Shutsudou Thunderbird 2-gou | 385726 | [385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json](./385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json) |
 | Gerry the Germ Goes Body Poppin' | 26464 | [26464-gerry-the-germ-goes-body-poppin.json](./26464-gerry-the-germ-goes-body-poppin.json) |
 | Gerrymandering: Red vs Blue | 27865 | [27865-gerrymandering-red-vs-blue.json](./27865-gerrymandering-red-vs-blue.json) |
+| Gertrude's Secrets | 73521 | [73521-gertrudes-secrets.json](./73521-gertrudes-secrets.json) |
 | Gerty: Robots In Love | 31638 | [31638-gerty-robots-in-love.json](./31638-gerty-robots-in-love.json) |
 | Gerztron | 78350 | [78350-gerztron.json](./78350-gerztron.json) |
 | Gestalt_OS | 270657 | [270657-gestalt-os.json](./270657-gestalt-os.json) |
@@ -2758,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greyhound Racing Tournament 2 | 103858 | [103858-greyhound-racing-tournament-2.json](./103858-greyhound-racing-tournament-2.json) |
 | Greyish White | 289345 | [289345-greyish-white.json](./289345-greyish-white.json) |
 | Greyskin | 214049 | [214049-greyskin.json](./214049-greyskin.json) |
+| Greystorm | 73557 | [73557-greystorm.json](./73557-greystorm.json) |
 | Grid Crypt | 398466 | [398466-grid-crypt.json](./398466-grid-crypt.json) |
 | Grid Glyphs | 316281 | [316281-grid-glyphs.json](./316281-grid-glyphs.json) |
 | Grid Iron 2 | 94220 | [94220-grid-iron-2.json](./94220-grid-iron-2.json) |
@@ -2859,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm of the Dome | 245908 | [245908-grimm-of-the-dome.json](./245908-grimm-of-the-dome.json) |
 | Grimm Shuffle | 158670 | [158670-grimm-shuffle.json](./158670-grimm-shuffle.json) |
 | Grimm: Dark Legacy | 25823 | [25823-grimm-dark-legacy.json](./25823-grimm-dark-legacy.json) |
+| Grimm's Hatchery | 73510 | [73510-grimms-hatchery.json](./73510-grimms-hatchery.json) |
 | Grimms Notes | 193846 | [193846-grimms-notes.json](./193846-grimms-notes.json) |
 | Grimoire of Gaia | 237528 | [237528-grimoire-of-gaia.json](./237528-grimoire-of-gaia.json) |
 | Grimoire Organizer | 282146 | [282146-grimoire-organizer.json](./282146-grimoire-organizer.json) |
