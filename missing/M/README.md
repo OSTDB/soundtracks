@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicians Dead | 76544 | [76544-magicians-dead.json](./76544-magicians-dead.json) |
 | Magicians Dead: Force of the Soul | 172716 | [172716-magicians-dead-force-of-the-soul.json](./172716-magicians-dead-force-of-the-soul.json) |
 | Magicians' Chase: Missing Curry Recipe | 219286 | [219286-magicians-chase-missing-curry-recipe.json](./219286-magicians-chase-missing-curry-recipe.json) |
+| MagiCirBrk | 98786 | [98786-magicirbrk.json](./98786-magicirbrk.json) |
 | MagicJam | 113020 | [113020-magicjam.json](./113020-magicjam.json) |
 | Magicka 2 | 9807 | [9807-magicka-2.json](./9807-magicka-2.json) |
 | Magicka 2 Complete Collection | 321760 | [321760-magicka-2-complete-collection.json](./321760-magicka-2-complete-collection.json) |
@@ -1673,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match 22 | 86042 | [86042-match-22.json](./86042-match-22.json) |
 | Match 3 Bundle of 3 | 218716 | [218716-match-3-bundle-of-3.json](./218716-match-3-bundle-of-3.json) |
 | Match 3 Fantasy | 197389 | [197389-match-3-fantasy.json](./197389-match-3-fantasy.json) |
+| Match 3 Games | 98816 | [98816-match-3-games.json](./98816-match-3-games.json) |
 | Match 3 Madness | 209552 | [209552-match-3-madness.json](./209552-match-3-madness.json) |
 | Match 3 Revolution | 34498 | [34498-match-3-revolution.json](./34498-match-3-revolution.json) |
 | Match Gems Evolved | 101969 | [101969-match-gems-evolved.json](./101969-match-gems-evolved.json) |
@@ -2789,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mergery | 358354 | [358354-mergery.json](./358354-mergery.json) |
 | MergeZ | 300849 | [300849-mergez.json](./300849-mergez.json) |
 | Mergical Fun: Match Island | 220199 | [220199-mergical-fun-match-island.json](./220199-mergical-fun-match-island.json) |
+| Mergimals | 98793 | [98793-mergimals.json](./98793-mergimals.json) |
 | Meria and the Island of Orcs | 195643 | [195643-meria-and-the-island-of-orcs.json](./195643-meria-and-the-island-of-orcs.json) |
 | Merica Tale | 367500 | [367500-merica-tale.json](./367500-merica-tale.json) |
 | Meridian | 312177 | [312177-meridian.json](./312177-meridian.json) |
@@ -3742,6 +3745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Car Racing | 148355 | [148355-mini-car-racing.json](./148355-mini-car-racing.json) |
 | Mini City: Mayhem | 319363 | [319363-mini-city-mayhem.json](./319363-mini-city-mayhem.json) |
 | Mini Cozy Room: Lo-Fi | 338702 | [338702-mini-cozy-room-lo-fi.json](./338702-mini-cozy-room-lo-fi.json) |
+| Mini craft story | 98783 | [98783-mini-craft-story.json](./98783-mini-craft-story.json) |
 | Mini Crafty | 147392 | [147392-mini-crafty.json](./147392-mini-crafty.json) |
 | Mini Crawler | 326077 | [326077-mini-crawler.json](./326077-mini-crawler.json) |
 | Mini Crossword Puzzles | 233098 | [233098-mini-crossword-puzzles.json](./233098-mini-crossword-puzzles.json) |
