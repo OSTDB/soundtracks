@@ -3127,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero | 210101 | [210101-guitar-hero.json](./210101-guitar-hero.json) |
 | Guitar Hero II | 2670 | [2670-guitar-hero-ii.json](./2670-guitar-hero-ii.json) |
 | Guitar Hero II: Indonesia 2018 | 293740 | [293740-guitar-hero-ii-indonesia-2018.json](./293740-guitar-hero-ii-indonesia-2018.json) |
+| Guitar Hero III Mobile | 85864 | [85864-guitar-hero-iii-mobile.json](./85864-guitar-hero-iii-mobile.json) |
 | Guitar Hero III: Game Hits | 360102 | [360102-guitar-hero-iii-game-hits.json](./360102-guitar-hero-iii-game-hits.json) |
 | Guitar Hero III: ZV K-ON! 10th Anniversary - 2nd Version | 343370 | [343370-guitar-hero-iii-zv-k-on-10th-anniversary-2nd-version.json](./343370-guitar-hero-iii-zv-k-on-10th-anniversary-2nd-version.json) |
 | Guitar Hero World Tour: Definitive Edition | 187448 | [187448-guitar-hero-world-tour-definitive-edition.json](./187448-guitar-hero-world-tour-definitive-edition.json) |
