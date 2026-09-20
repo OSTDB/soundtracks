@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: Munch's Oddysee HD | 51329 | [51329-oddworld-munchs-oddysee-hd.json](./51329-oddworld-munchs-oddysee-hd.json) |
 | Oddworld: New 'n' Tasty - Deluxe Edition | 132146 | [132146-oddworld-new-n-tasty-deluxe-edition.json](./132146-oddworld-new-n-tasty-deluxe-edition.json) |
 | Oddworld: Soulstorm - Day 1 Oddition | 146118 | [146118-oddworld-soulstorm-day-1-oddition.json](./146118-oddworld-soulstorm-day-1-oddition.json) |
+| Oddworld: The Oddbox | 121444 | [121444-oddworld-the-oddbox.json](./121444-oddworld-the-oddbox.json) |
 | Oddy's Lost and Found | 257071 | [257071-oddys-lost-and-found.json](./257071-oddys-lost-and-found.json) |
 | Ode of Resurrection | 315489 | [315489-ode-of-resurrection.json](./315489-ode-of-resurrection.json) |
 | Ode to a Moon | 111059 | [111059-ode-to-a-moon.json](./111059-ode-to-a-moon.json) |
