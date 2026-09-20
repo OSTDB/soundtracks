@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters & Legends | 292319 | [292319-letters-and-legends.json](./292319-letters-and-legends.json) |
 | Letters from the War | 340916 | [340916-letters-from-the-war.json](./340916-letters-from-the-war.json) |
 | Letters of Bernard Thorne | 337466 | [337466-letters-of-bernard-thorne.json](./337466-letters-of-bernard-thorne.json) |
+| Letters on the Loose | 91742 | [91742-letters-on-the-loose.json](./91742-letters-on-the-loose.json) |
 | Letters to Arralla | 224565 | [224565-letters-to-arralla.json](./224565-letters-to-arralla.json) |
 | Letters to Heaven | 274463 | [274463-letters-to-heaven.json](./274463-letters-to-heaven.json) |
 | Letters to the Metro | 182548 | [182548-letters-to-the-metro.json](./182548-letters-to-the-metro.json) |
@@ -1952,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Princess | 70945 | [70945-little-princess.json](./70945-little-princess.json) |
 | Little Princess: Marl Oukoku no Ningyou Hime 2 | 43903 | [43903-little-princess-marl-oukoku-no-ningyou-hime-2.json](./43903-little-princess-marl-oukoku-no-ningyou-hime-2.json) |
 | Little Racer | 124023 | [124023-little-racer.json](./124023-little-racer.json) |
+| Little Racers | 91735 | [91735-little-racers.json](./91735-little-racers.json) |
 | Little Rats' Big Top | 180804 | [180804-little-rats-big-top.json](./180804-little-rats-big-top.json) |
 | Little Re-collector | 369059 | [369059-little-re-collector.json](./369059-little-re-collector.json) |
 | Little Red Ball | 176384 | [176384-little-red-ball.json](./176384-little-red-ball.json) |
