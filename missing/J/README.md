@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
 | Jumpfox: Always Running | 278547 | [278547-jumpfox-always-running.json](./278547-jumpfox-always-running.json) |
 | Jumpgate Evolution | 94708 | [94708-jumpgate-evolution.json](./94708-jumpgate-evolution.json) |
+| JumpHead: Battle4Fun! | 108291 | [108291-jumphead-battle4fun.json](./108291-jumphead-battle4fun.json) |
 | Jumphobia | 55946 | [55946-jumphobia.json](./55946-jumphobia.json) |
 | Jumphobia XL | 57047 | [57047-jumphobia-xl.json](./57047-jumphobia-xl.json) |
 | Jumphobia: Homeward Bound | 190170 | [190170-jumphobia-homeward-bound.json](./190170-jumphobia-homeward-bound.json) |
