@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Istanbul | 334173 | [334173-100-cats-istanbul.json](./334173-100-cats-istanbul.json) |
 | 100 Cats London: Extra Content | 308930 | [308930-100-cats-london-extra-content.json](./308930-100-cats-london-extra-content.json) |
 | 100 Cats Pakistan | 283867 | [283867-100-cats-pakistan.json](./283867-100-cats-pakistan.json) |
+| 100 Chests | 101332 | [101332-100-chests.json](./101332-100-chests.json) |
 | 100 China Cats | 315289 | [315289-100-china-cats.json](./315289-100-china-cats.json) |
 | 100 Christmas Hidden Cats | 378185 | [378185-100-christmas-hidden-cats.json](./378185-100-christmas-hidden-cats.json) |
 | 100 Classic Book Collection | 47939 | [47939-100-classic-book-collection.json](./47939-100-classic-book-collection.json) |
