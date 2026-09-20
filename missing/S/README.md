@@ -957,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schrodinger's Code | 224757 | [224757-schrodingers-code.json](./224757-schrodingers-code.json) |
 | Schrödinger's Rat | 21776 | [21776-schrodingers-rat.json](./21776-schrodingers-rat.json) |
 | Schwarzenberg | 86063 | [86063-schwarzenberg.json](./86063-schwarzenberg.json) |
+| Schwarzerblitz | 118188 | [118188-schwarzerblitz.json](./118188-schwarzerblitz.json) |
 | Schwarzesmarken Kouketsu no Monshou / Junkyousha-tachi | 86089 | [86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json](./86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json) |
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
 | Science Fiction Classics | 78670 | [78670-science-fiction-classics.json](./78670-science-fiction-classics.json) |
@@ -3762,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skirmish | 257946 | [257946-skirmish.json](./257946-skirmish.json) |
 | Skirmish Line: Mad Jack | 172129 | [172129-skirmish-line-mad-jack.json](./172129-skirmish-line-mad-jack.json) |
 | Skitt | 138735 | [138735-skitt.json](./138735-skitt.json) |
+| Sknow | 118206 | [118206-sknow.json](./118206-sknow.json) |
 | Skogdal | 258565 | [258565-skogdal.json](./258565-skogdal.json) |
 | Skolios | 243784 | [243784-skolios.json](./243784-skolios.json) |
 | Skoof Fishing | 356663 | [356663-skoof-fishing.json](./356663-skoof-fishing.json) |
@@ -5775,6 +5777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Getter | 63294 | [63294-soul-getter.json](./63294-soul-getter.json) |
 | Soul Grabber | 83537 | [83537-soul-grabber.json](./83537-soul-grabber.json) |
 | Soul Grinder | 184649 | [184649-soul-grinder.json](./184649-soul-grinder.json) |
+| Soul Historica | 118181 | [118181-soul-historica.json](./118181-soul-historica.json) |
 | Soul Injector Commando | 322603 | [322603-soul-injector-commando.json](./322603-soul-injector-commando.json) |
 | Soul Interface | 302382 | [302382-soul-interface.json](./302382-soul-interface.json) |
 | Soul King | 213453 | [213453-soul-king.json](./213453-soul-king.json) |
@@ -6774,6 +6777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | SpinOff | 199054 | [199054-spinoff.json](./199054-spinoff.json) |
 | Spinout Drifter | 219649 | [219649-spinout-drifter.json](./219649-spinout-drifter.json) |
+| Spinrise | 118190 | [118190-spinrise.json](./118190-spinrise.json) |
 | SpinShuffle | 413752 | [413752-spinshuffle.json](./413752-spinshuffle.json) |
 | SpinSling | 74405 | [74405-spinsling.json](./74405-spinsling.json) |
 | SpinSweep | 301277 | [301277-spinsweep.json](./301277-spinsweep.json) |
@@ -9220,6 +9224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suichara: Sweets Chara Mode - Sweets Gakkou he Youkoso! | 222401 | [222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json](./222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json) |
 | Suicide Adventures | 61613 | [61613-suicide-adventures.json](./61613-suicide-adventures.json) |
 | Suicide For Him | 153966 | [153966-suicide-for-him.json](./153966-suicide-for-him.json) |
+| Suicide Guy Collection | 118151 | [118151-suicide-guy-collection.json](./118151-suicide-guy-collection.json) |
 | Suicide Guy: Sleepin' Deeply | 102917 | [102917-suicide-guy-sleepin-deeply.json](./102917-suicide-guy-sleepin-deeply.json) |
 | Suicide Hero | 244279 | [244279-suicide-hero.json](./244279-suicide-hero.json) |
 | Suicide Squad: Kill The Justice League - Deluxe Edition | 239147 | [239147-suicide-squad-kill-the-justice-league-deluxe-edition.json](./239147-suicide-squad-kill-the-justice-league-deluxe-edition.json) |
@@ -9272,6 +9277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SumiKen: Ink Blade Samurai | 208951 | [208951-sumiken-ink-blade-samurai.json](./208951-sumiken-ink-blade-samurai.json) |
 | Sumikko Gurashi: Sumikko Park he Youkoso | 55138 | [55138-sumikko-gurashi-sumikko-park-he-youkoso.json](./55138-sumikko-gurashi-sumikko-park-he-youkoso.json) |
 | Sumikkogurashi the Movie Block Puzzle Game | 213635 | [213635-sumikkogurashi-the-movie-block-puzzle-game.json](./213635-sumikkogurashi-the-movie-block-puzzle-game.json) |
+| SuMine | 118163 | [118163-sumine.json](./118163-sumine.json) |
 | Sumire's Secret | 403603 | [403603-sumires-secret.json](./403603-sumires-secret.json) |
 | Summa Expeditionis | 216869 | [216869-summa-expeditionis.json](./216869-summa-expeditionis.json) |
 | Summer & Winter: Olympic Challenge | 154958 | [154958-summer-and-winter-olympic-challenge.json](./154958-summer-and-winter-olympic-challenge.json) |
