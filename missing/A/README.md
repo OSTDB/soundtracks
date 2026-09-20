@@ -1707,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allied Star Police | 22336 | [22336-allied-star-police.json](./22336-allied-star-police.json) |
 | Alligator Hunt | 38519 | [38519-alligator-hunt.json](./38519-alligator-hunt.json) |
 | Alligori | 272866 | [272866-alligori.json](./272866-alligori.json) |
+| Allison's Diary: Rebirth | 112771 | [112771-allisons-diary-rebirth.json](./112771-allisons-diary-rebirth.json) |
 | Allogloom | 277935 | [277935-allogloom.json](./277935-allogloom.json) |
 | Allora and the Broken Portal | 125382 | [125382-allora-and-the-broken-portal.json](./125382-allora-and-the-broken-portal.json) |
 | Allotropy | 169472 | [169472-allotropy.json](./169472-allotropy.json) |
@@ -3521,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Smarter than a 5th Grader?: Extra Credit | 234304 | [234304-are-you-smarter-than-a-5th-grader-extra-credit.json](./234304-are-you-smarter-than-a-5th-grader-extra-credit.json) |
 | Are You Smarter Than Mario? | 231629 | [231629-are-you-smarter-than-mario.json](./231629-are-you-smarter-than-mario.json) |
 | Are you yet Living? | 271478 | [271478-are-you-yet-living.json](./271478-are-you-yet-living.json) |
+| Area 4643 | 112756 | [112756-area-4643.json](./112756-area-4643.json) |
 | Area 51 | 199022 | [199022-area-51.json](./199022-area-51.json) |
 | Area 51 | 200152 | [200152-area-51.json](./200152-area-51.json) |
 | Area 51 | 316990 | [316990-area-51.json](./316990-area-51.json) |
