@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of Time | 17722 | [17722-defenders-of-time.json](./17722-defenders-of-time.json) |
 | Defenders: Survival and Tower Defense | 135661 | [135661-defenders-survival-and-tower-defense.json](./135661-defenders-survival-and-tower-defense.json) |
 | Defending Frontiers | 127203 | [127203-defending-frontiers.json](./127203-defending-frontiers.json) |
+| Defending Territory | 119549 | [119549-defending-territory.json](./119549-defending-territory.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
 | Defense Grid 2: Enhanced VR Edition | 58745 | [58745-defense-grid-2-enhanced-vr-edition.json](./58745-defense-grid-2-enhanced-vr-edition.json) |
 | Defense Master | 284486 | [284486-defense-master.json](./284486-defense-master.json) |
@@ -1799,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy 4 | 109483 | [109483-democracy-4.json](./109483-democracy-4.json) |
 | Demolition Company | 344435 | [344435-demolition-company.json](./344435-demolition-company.json) |
 | Demolition Company: Gold Edition | 23397 | [23397-demolition-company-gold-edition.json](./23397-demolition-company-gold-edition.json) |
+| Demolition Crew | 119568 | [119568-demolition-crew.json](./119568-demolition-crew.json) |
 | Demolition Derby 4 | 200752 | [200752-demolition-derby-4.json](./200752-demolition-derby-4.json) |
 | Demolition Derby Multiplayer | 269087 | [269087-demolition-derby-multiplayer.json](./269087-demolition-derby-multiplayer.json) |
 | Demolition Dodge | 233114 | [233114-demolition-dodge.json](./233114-demolition-dodge.json) |
@@ -2263,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DethKarz | 51252 | [51252-dethkarz.json](./51252-dethkarz.json) |
 | Dethrone | 182977 | [182977-dethrone.json](./182977-dethrone.json) |
 | Dethroned | 240813 | [240813-dethroned.json](./240813-dethroned.json) |
+| Detonation | 119563 | [119563-detonation.json](./119563-detonation.json) |
 | Detonator | 263477 | [263477-detonator.json](./263477-detonator.json) |
 | Detourist | 278744 | [278744-detourist.json](./278744-detourist.json) |
 | Detox | 181882 | [181882-detox.json](./181882-detox.json) |
@@ -2428,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Skee-Ball | 209611 | [209611-diamond-skee-ball.json](./209611-diamond-skee-ball.json) |
 | Diamond Star Adventure | 378294 | [378294-diamond-star-adventure.json](./378294-diamond-star-adventure.json) |
 | Diamond Trust of London | 9138 | [9138-diamond-trust-of-london.json](./9138-diamond-trust-of-london.json) |
+| Diamonds | 119547 | [119547-diamonds.json](./119547-diamonds.json) |
 | Diamonds on the forest | 227831 | [227831-diamonds-on-the-forest.json](./227831-diamonds-on-the-forest.json) |
 | Diǎnchū Gè Sānguó | 413033 | [413033-dianchu-ge-sanguo.json](./413033-dianchu-ge-sanguo.json) |
 | Diapause | 374597 | [374597-diapause.json](./374597-diapause.json) |
@@ -4958,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone tracks | 121699 | [121699-drone-tracks.json](./121699-drone-tracks.json) |
 | Drone Wars | 373546 | [373546-drone-wars.json](./373546-drone-wars.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
+| Drones | 119566 | [119566-drones.json](./119566-drones.json) |
 | Dronihilation VR | 67928 | [67928-dronihilation-vr.json](./67928-dronihilation-vr.json) |
 | Drop & Smash | 227483 | [227483-drop-and-smash.json](./227483-drop-and-smash.json) |
 | Drop Boy | 183435 | [183435-drop-boy.json](./183435-drop-boy.json) |
