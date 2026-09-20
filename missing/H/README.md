@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazmat Magic | 180789 | [180789-hazmat-magic.json](./180789-hazmat-magic.json) |
 | Hazuki Makimura's Love Story | 221265 | [221265-hazuki-makimuras-love-story.json](./221265-hazuki-makimuras-love-story.json) |
 | Hazuki Makimura's Love Story | 255108 | [255108-hazuki-makimuras-love-story.json](./255108-hazuki-makimuras-love-story.json) |
+| Hazy Maze | 113462 | [113462-hazy-maze.json](./113462-hazy-maze.json) |
 | Hazy Monochrome Wand | 258486 | [258486-hazy-monochrome-wand.json](./258486-hazy-monochrome-wand.json) |
 | HB Arcade Cards | 80583 | [80583-hb-arcade-cards.json](./80583-hb-arcade-cards.json) |
 | HB2 Plus | 91349 | [91349-hb2-plus.json](./91349-hb2-plus.json) |
@@ -3661,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt Royale | 159347 | [159347-hunt-royale.json](./159347-hunt-royale.json) |
 | Hunt the Thailand Hidden | 119696 | [119696-hunt-the-thailand-hidden.json](./119696-hunt-the-thailand-hidden.json) |
 | Hunt the Wumpus | 11498 | [11498-hunt-the-wumpus.json](./11498-hunt-the-wumpus.json) |
+| Hunt them | 113473 | [113473-hunt-them.json](./113473-hunt-them.json) |
 | Hunt: Showdown - Bayou Wraith | 166067 | [166067-hunt-showdown-bayou-wraith.json](./166067-hunt-showdown-bayou-wraith.json) |
 | Hunt: Showdown - Deluxe Edition | 146115 | [146115-hunt-showdown-deluxe-edition.json](./146115-hunt-showdown-deluxe-edition.json) |
 | Hunt: Showdown - Fear the Reaper | 224219 | [224219-hunt-showdown-fear-the-reaper.json](./224219-hunt-showdown-fear-the-reaper.json) |
