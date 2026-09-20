@@ -1603,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Dark Dimensions Collection | 308579 | [308579-outbreak-dark-dimensions-collection.json](./308579-outbreak-dark-dimensions-collection.json) |
 | Outbreak: Devious Beginnings | 261359 | [261359-outbreak-devious-beginnings.json](./261359-outbreak-devious-beginnings.json) |
 | Outbreak: Endless Nightmares - Restless Dreams | 261363 | [261363-outbreak-endless-nightmares-restless-dreams.json](./261363-outbreak-endless-nightmares-restless-dreams.json) |
+| Outbreak: Epidemic | 119532 | [119532-outbreak-epidemic.json](./119532-outbreak-epidemic.json) |
 | Outbreak: Epidemic Viral Terror | 261361 | [261361-outbreak-epidemic-viral-terror.json](./261361-outbreak-epidemic-viral-terror.json) |
 | Outbreak: Genesis Collection | 331430 | [331430-outbreak-genesis-collection.json](./331430-outbreak-genesis-collection.json) |
 | Outbreak: Gwen's Nightmare | 256264 | [256264-outbreak-gwens-nightmare.json](./256264-outbreak-gwens-nightmare.json) |
