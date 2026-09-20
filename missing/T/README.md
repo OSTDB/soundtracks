@@ -1309,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten of the Best Games | 134448 | [134448-ten-of-the-best-games.json](./134448-ten-of-the-best-games.json) |
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
 | Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
+| Ten-chan Party! | 108264 | [108264-ten-chan-party.json](./108264-ten-chan-party.json) |
 | Ten++ | 374132 | [374132-ten.json](./374132-ten.json) |
 | Tenable | 133791 | [133791-tenable.json](./133791-tenable.json) |
 | Tenants | 129152 | [129152-tenants.json](./129152-tenants.json) |
@@ -2997,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fancy Pants Adventures: World 4 | 210712 | [210712-the-fancy-pants-adventures-world-4.json](./210712-the-fancy-pants-adventures-world-4.json) |
 | The Fantastic Adventures of Mr. Don and Friends | 372982 | [372982-the-fantastic-adventures-of-mr-don-and-friends.json](./372982-the-fantastic-adventures-of-mr-don-and-friends.json) |
 | The Fantastic Game | 230520 | [230520-the-fantastic-game.json](./230520-the-fantastic-game.json) |
+| The Fantasy Village | 108268 | [108268-the-fantasy-village.json](./108268-the-fantasy-village.json) |
 | The Far Kingdoms: Forgotten Relics | 149927 | [149927-the-far-kingdoms-forgotten-relics.json](./149927-the-far-kingdoms-forgotten-relics.json) |
 | The Far Kingdoms: Garden Mosaics | 415906 | [415906-the-far-kingdoms-garden-mosaics.json](./415906-the-far-kingdoms-garden-mosaics.json) |
 | The Far Kingdoms: Magic Mosaics | 164876 | [164876-the-far-kingdoms-magic-mosaics.json](./164876-the-far-kingdoms-magic-mosaics.json) |
@@ -3079,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Five Steps to Ensuring Momo Graduates Successfully!!! | 216253 | [216253-the-five-steps-to-ensuring-momo-graduates-successfully.json](./216253-the-five-steps-to-ensuring-momo-graduates-successfully.json) |
 | The Fixer of the Adventurer's Guild | 287106 | [287106-the-fixer-of-the-adventurers-guild.json](./287106-the-fixer-of-the-adventurers-guild.json) |
 | The Fixies | 296083 | [296083-the-fixies.json](./296083-the-fixies.json) |
+| The Flake Factory | 108293 | [108293-the-flake-factory.json](./108293-the-flake-factory.json) |
 | The Flame's Heir | 301278 | [301278-the-flames-heir.json](./301278-the-flames-heir.json) |
 | The Flames | 176510 | [176510-the-flames.json](./176510-the-flames.json) |
 | The Flawless Cup | 156000 | [156000-the-flawless-cup.json](./156000-the-flawless-cup.json) |
@@ -3221,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost Cage | 173273 | [173273-the-ghost-cage.json](./173273-the-ghost-cage.json) |
 | The Ghost of Paris | 187974 | [187974-the-ghost-of-paris.json](./187974-the-ghost-of-paris.json) |
 | The Ghost of Us | 313880 | [313880-the-ghost-of-us.json](./313880-the-ghost-of-us.json) |
+| The Ghost Town Adventure | 108284 | [108284-the-ghost-town-adventure.json](./108284-the-ghost-town-adventure.json) |
 | The Ghosts Race | 214186 | [214186-the-ghosts-race.json](./214186-the-ghosts-race.json) |
 | The Ghoul's Forest | 144804 | [144804-the-ghouls-forest.json](./144804-the-ghouls-forest.json) |
 | The Giant of Torridge Island | 192984 | [192984-the-giant-of-torridge-island.json](./192984-the-giant-of-torridge-island.json) |
@@ -3241,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Goatman | 104034 | [104034-the-goatman.json](./104034-the-goatman.json) |
 | The Goblins are Coming | 246949 | [246949-the-goblins-are-coming.json](./246949-the-goblins-are-coming.json) |
 | The GoD Unit | 127756 | [127756-the-god-unit.json](./127756-the-god-unit.json) |
+| The Godbeast | 108299 | [108299-the-godbeast.json](./108299-the-godbeast.json) |
 | The Goddess Robbery | 307906 | [307906-the-goddess-robbery.json](./307906-the-goddess-robbery.json) |
 | The Godfather: The Don's Edition | 20683 | [20683-the-godfather-the-dons-edition.json](./20683-the-godfather-the-dons-edition.json) |
 | The Godkiller: Chapter 1 | 163984 | [163984-the-godkiller-chapter-1.json](./163984-the-godkiller-chapter-1.json) |
@@ -4855,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Race to Goo Lagoon | 404243 | [404243-the-race-to-goo-lagoon.json](./404243-the-race-to-goo-lagoon.json) |
 | The Rack | 207808 | [207808-the-rack.json](./207808-the-rack.json) |
 | The Radiants | 144138 | [144138-the-radiants.json](./144138-the-radiants.json) |
+| The Ragdoll | 108272 | [108272-the-ragdoll.json](./108272-the-ragdoll.json) |
 | The Railroad Works | 72047 | [72047-the-railroad-works.json](./72047-the-railroad-works.json) |
 | The Rainbowers | 254156 | [254156-the-rainbowers.json](./254156-the-rainbowers.json) |
 | The Rainbox | 358874 | [358874-the-rainbox.json](./358874-the-rainbox.json) |
@@ -5807,6 +5813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tudors | 10986 | [10986-the-tudors.json](./10986-the-tudors.json) |
 | The Tuesday Collection | 331403 | [331403-the-tuesday-collection.json](./331403-the-tuesday-collection.json) |
 | The Tunnels | 326279 | [326279-the-tunnels.json](./326279-the-tunnels.json) |
+| The Turdler | 108301 | [108301-the-turdler.json](./108301-the-turdler.json) |
 | The Turgenev Study | 222885 | [222885-the-turgenev-study.json](./222885-the-turgenev-study.json) |
 | The Turing Test: Collector's Edition | 53784 | [53784-the-turing-test-collectors-edition.json](./53784-the-turing-test-collectors-edition.json) |
 | The Turnabout that Shouldn't Exist | 318786 | [318786-the-turnabout-that-shouldnt-exist.json](./318786-the-turnabout-that-shouldnt-exist.json) |
@@ -8762,6 +8769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story Activity Center | 79896 | [79896-toy-story-activity-center.json](./79896-toy-story-activity-center.json) |
 | Toy Story Drop! | 116973 | [116973-toy-story-drop.json](./116973-toy-story-drop.json) |
 | Toy Story Racer | 18944 | [18944-toy-story-racer.json](./18944-toy-story-racer.json) |
+| Toy Stunt Bike: Tiptop's Trials | 108249 | [108249-toy-stunt-bike-tiptops-trials.json](./108249-toy-stunt-bike-tiptops-trials.json) |
 | Toy Tactics | 204089 | [204089-toy-tactics.json](./204089-toy-tactics.json) |
 | Toy Tanks | 149450 | [149450-toy-tanks.json](./149450-toy-tanks.json) |
 | Toy Voyage | 349391 | [349391-toy-voyage.json](./349391-toy-voyage.json) |
@@ -9676,6 +9684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials Mountain Heights | 305136 | [305136-trials-mountain-heights.json](./305136-trials-mountain-heights.json) |
 | Trials of Dash | 415889 | [415889-trials-of-dash.json](./415889-trials-of-dash.json) |
 | Trials of Guinevere | 127611 | [127611-trials-of-guinevere.json](./127611-trials-of-guinevere.json) |
+| Trials of Heroes | 108256 | [108256-trials-of-heroes.json](./108256-trials-of-heroes.json) |
 | Trials of Imorah | 258531 | [258531-trials-of-imorah.json](./258531-trials-of-imorah.json) |
 | Trials of the Illuminati: Amazing Wildlife Jigsaws | 68201 | [68201-trials-of-the-illuminati-amazing-wildlife-jigsaws.json](./68201-trials-of-the-illuminati-amazing-wildlife-jigsaws.json) |
 | Trials of The Illuminati: Animated Christmas Time Jigsaws | 334758 | [334758-trials-of-the-illuminati-animated-christmas-time-jigsaws.json](./334758-trials-of-the-illuminati-animated-christmas-time-jigsaws.json) |
