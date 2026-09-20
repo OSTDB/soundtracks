@@ -2711,6 +2711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digger T. Rock: The Legend of the Lost City | 12932 | [12932-digger-t-rock-the-legend-of-the-lost-city.json](./12932-digger-t-rock-the-legend-of-the-lost-city.json) |
 | Diggerman | 101578 | [101578-diggerman.json](./101578-diggerman.json) |
 | Diggers | 37101 | [37101-diggers.json](./37101-diggers.json) |
+| Diggers 2: Extractors | 70104 | [70104-diggers-2-extractors.json](./70104-diggers-2-extractors.json) |
 | DiggerSim | 234194 | [234194-diggersim.json](./234194-diggersim.json) |
 | Digging a Hole 2025 | 335955 | [335955-digging-a-hole-2025.json](./335955-digging-a-hole-2025.json) |
 | Digging A Hole: Journey to the Core | 351095 | [351095-digging-a-hole-journey-to-the-core.json](./351095-digging-a-hole-journey-to-the-core.json) |
@@ -3291,6 +3292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive The Depths | 285021 | [285021-dive-the-depths.json](./285021-dive-the-depths.json) |
 | Dive to the Titanic | 16206 | [16206-dive-to-the-titanic.json](./16206-dive-to-the-titanic.json) |
 | Dive: Starpath | 83941 | [83941-dive-starpath.json](./83941-dive-starpath.json) |
+| Dive! | 70110 | [70110-dive.json](./70110-dive.json) |
 | Diver, Catch & Cook Simulator | 386212 | [386212-diver-catch-and-cook-simulator.json](./386212-diver-catch-and-cook-simulator.json) |
 | Diver: Deep Water Adventures | 63282 | [63282-diver-deep-water-adventures.json](./63282-diver-deep-water-adventures.json) |
 | Diver's | 373028 | [373028-divers.json](./373028-divers.json) |
