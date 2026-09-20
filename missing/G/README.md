@@ -1622,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Fetch! 2 | 84548 | [84548-go-fetch-2.json](./84548-go-fetch-2.json) |
 | Go Fight Fantastic! | 127364 | [127364-go-fight-fantastic.json](./127364-go-fight-fantastic.json) |
 | Go Fish! | 40717 | [40717-go-fish.json](./40717-go-fish.json) |
+| Go Go Ackman | 83923 | [83923-go-go-ackman.json](./83923-go-go-ackman.json) |
 | Go Go Muffin | 212451 | [212451-go-go-muffin.json](./212451-go-go-muffin.json) |
 | Go Go Poncho! | 89958 | [89958-go-go-poncho.json](./89958-go-go-poncho.json) |
 | Go Go UFO Smackdown | 68622 | [68622-go-go-ufo-smackdown.json](./68622-go-go-ufo-smackdown.json) |
