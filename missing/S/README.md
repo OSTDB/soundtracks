@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Tales | 171587 | [171587-scary-tales.json](./171587-scary-tales.json) |
 | Scary Tales: Horror School | 337122 | [337122-scary-tales-horror-school.json](./337122-scary-tales-horror-school.json) |
 | Scary Wife Chapter 2 | 303092 | [303092-scary-wife-chapter-2.json](./303092-scary-wife-chapter-2.json) |
+| Scaryfish III | 71786 | [71786-scaryfish-iii.json](./71786-scaryfish-iii.json) |
 | Scatch 2: The Painter Cat | 278983 | [278983-scatch-2-the-painter-cat.json](./278983-scatch-2-the-painter-cat.json) |
 | Scatterhoard | 185097 | [185097-scatterhoard.json](./185097-scatterhoard.json) |
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
@@ -1875,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Service of Five Graces | 395046 | [395046-service-of-five-graces.json](./395046-service-of-five-graces.json) |
 | Sesame Street | 85858 | [85858-sesame-street.json](./85858-sesame-street.json) |
 | Sesame Street Beat | 220108 | [220108-sesame-street-beat.json](./220108-sesame-street-beat.json) |
+| Sesame Street Crayon: Numbers Count | 71798 | [71798-sesame-street-crayon-numbers-count.json](./71798-sesame-street-crayon-numbers-count.json) |
 | Sesame Street Elmo's World: Pets, Foods and Telephones! | 138579 | [138579-sesame-street-elmos-world-pets-foods-and-telephones.json](./138579-sesame-street-elmos-world-pets-foods-and-telephones.json) |
 | Sesame Street Fighter | 339673 | [339673-sesame-street-fighter.json](./339673-sesame-street-fighter.json) |
 | Sesame Street Mecha Builders | 342765 | [342765-sesame-street-mecha-builders.json](./342765-sesame-street-mecha-builders.json) |
@@ -2434,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Riders | 150137 | [150137-shark-riders.json](./150137-shark-riders.json) |
 | Shark Slayer | 166742 | [166742-shark-slayer.json](./166742-shark-slayer.json) |
 | Shark Trap | 24901 | [24901-shark-trap.json](./24901-shark-trap.json) |
+| Shark! Hunting the Great White | 71770 | [71770-shark-hunting-the-great-white.json](./71770-shark-hunting-the-great-white.json) |
 | Shark! Shark! | 5695 | [5695-shark-shark.json](./5695-shark-shark.json) |
 | Shark's Treasures Adventure | 339901 | [339901-sharks-treasures-adventure.json](./339901-sharks-treasures-adventure.json) |
 | SharkDrag Episode 5: Uniting the 5 Kingdoms | 210891 | [210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json](./210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json) |
@@ -3167,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuwa no Mori | 254483 | [254483-shuwa-no-mori.json](./254483-shuwa-no-mori.json) |
 | Shuwa Shuwa Guin! | 383940 | [383940-shuwa-shuwa-guin.json](./383940-shuwa-shuwa-guin.json) |
 | Shuyun Huazhang | 335360 | [335360-shuyun-huazhang.json](./335360-shuyun-huazhang.json) |
+| Shwip | 71778 | [71778-shwip.json](./71778-shwip.json) |
 | Shy Bunnies | 95834 | [95834-shy-bunnies.json](./95834-shy-bunnies.json) |
 | Shy Cats Hidden Orchestra 2 | 409556 | [409556-shy-cats-hidden-orchestra-2.json](./409556-shy-cats-hidden-orchestra-2.json) |
 | Shy Cats: Hidden Orchestra | 235872 | [235872-shy-cats-hidden-orchestra.json](./235872-shy-cats-hidden-orchestra.json) |
@@ -5966,6 +5970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sougou Kakutougi Rings: Astral Bout 3 | 38298 | [38298-sougou-kakutougi-rings-astral-bout-3.json](./38298-sougou-kakutougi-rings-astral-bout-3.json) |
 | Sougou Kakutougi: Astral Bout | 38295 | [38295-sougou-kakutougi-astral-bout.json](./38295-sougou-kakutougi-astral-bout.json) |
 | Sougou Kakutougi: Astral Bout 2 - The Total Fighters | 38296 | [38296-sougou-kakutougi-astral-bout-2-the-total-fighters.json](./38296-sougou-kakutougi-astral-bout-2-the-total-fighters.json) |
+| Soukaigi | 71799 | [71799-soukaigi.json](./71799-soukaigi.json) |
 | Soukh | 358304 | [358304-soukh.json](./358304-soukh.json) |
 | Soukoku no Kusabi: Hiiro no Kakera 3 | 124051 | [124051-soukoku-no-kusabi-hiiro-no-kakera-3.json](./124051-soukoku-no-kusabi-hiiro-no-kakera-3.json) |
 | Soukou Akki Muramasa: Janen-hen | 170502 | [170502-soukou-akki-muramasa-janen-hen.json](./170502-soukou-akki-muramasa-janen-hen.json) |
@@ -9836,6 +9841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Beta Tester | 335987 | [335987-super-beta-tester.json](./335987-super-beta-tester.json) |
 | Super Big 2 | 63331 | [63331-super-big-2.json](./63331-super-big-2.json) |
 | Super Big Bro Quest | 321775 | [321775-super-big-bro-quest.json](./321775-super-big-bro-quest.json) |
+| Super Bike TransAm | 71804 | [71804-super-bike-transam.json](./71804-super-bike-transam.json) |
 | Super Birdo 64 | 300686 | [300686-super-birdo-64.json](./300686-super-birdo-64.json) |
 | Super Bit Adventure: Paragons of Life | 87977 | [87977-super-bit-adventure-paragons-of-life.json](./87977-super-bit-adventure-paragons-of-life.json) |
 | Super Bitsy Land | 181866 | [181866-super-bitsy-land.json](./181866-super-bitsy-land.json) |
@@ -9967,6 +9973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Droid Adventure | 233622 | [233622-super-droid-adventure.json](./233622-super-droid-adventure.json) |
 | Super Drunken Guy | 251690 | [251690-super-drunken-guy.json](./251690-super-drunken-guy.json) |
 | Super Dude-Shooter: The Omni-Revenge | 140994 | [140994-super-dude-shooter-the-omni-revenge.json](./140994-super-dude-shooter-the-omni-revenge.json) |
+| Super Duelling Minivans | 71794 | [71794-super-duelling-minivans.json](./71794-super-duelling-minivans.json) |
 | Super Dungeon Boy 2 | 86576 | [86576-super-dungeon-boy-2.json](./86576-super-dungeon-boy-2.json) |
 | Super Dungeon Bros Mega Bundle Pack | 82413 | [82413-super-dungeon-bros-mega-bundle-pack.json](./82413-super-dungeon-bros-mega-bundle-pack.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
@@ -11229,6 +11236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweater? Ok!: The Dilogy | 127370 | [127370-sweater-ok-the-dilogy.json](./127370-sweater-ok-the-dilogy.json) |
 | SweatShop | 32204 | [32204-sweatshop.json](./32204-sweatshop.json) |
 | Sweatshop HD | 15448 | [15448-sweatshop-hd.json](./15448-sweatshop-hd.json) |
+| Swedish Touring Car Championship 2 | 71774 | [71774-swedish-touring-car-championship-2.json](./71774-swedish-touring-car-championship-2.json) |
 | Sweeky Land | 145608 | [145608-sweeky-land.json](./145608-sweeky-land.json) |
 | Sweep | 163964 | [163964-sweep.json](./163964-sweep.json) |
 | Sweep Strike | 376540 | [376540-sweep-strike.json](./376540-sweep-strike.json) |
