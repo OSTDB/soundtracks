@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schola Spiritus | 383358 | [383358-schola-spiritus.json](./383358-schola-spiritus.json) |
 | Scholar Adventure: Mystery of Silence | 361808 | [361808-scholar-adventure-mystery-of-silence.json](./361808-scholar-adventure-mystery-of-silence.json) |
 | Scholar of the Arcane Arts | 188615 | [188615-scholar-of-the-arcane-arts.json](./188615-scholar-of-the-arcane-arts.json) |
+| Scholastic Animal Genius | 91744 | [91744-scholastic-animal-genius.json](./91744-scholastic-animal-genius.json) |
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
 | School Booster | 263052 | [263052-school-booster.json](./263052-school-booster.json) |
 | School Bus Simulator: Blocky World | 104633 | [104633-school-bus-simulator-blocky-world.json](./104633-school-bus-simulator-blocky-world.json) |
@@ -1251,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Battle Minimal | 192947 | [192947-sea-battle-minimal.json](./192947-sea-battle-minimal.json) |
 | Sea Battle Simulator | 104488 | [104488-sea-battle-simulator.json](./104488-sea-battle-simulator.json) |
 | Sea Battle: Annihilation | 144816 | [144816-sea-battle-annihilation.json](./144816-sea-battle-annihilation.json) |
+| Sea Blast | 91729 | [91729-sea-blast.json](./91729-sea-blast.json) |
 | Sea Bubble Burst | 205833 | [205833-sea-bubble-burst.json](./205833-sea-bubble-burst.json) |
 | Sea Chronicles | 249879 | [249879-sea-chronicles.json](./249879-sea-chronicles.json) |
 | Sea Creatures | 112373 | [112373-sea-creatures.json](./112373-sea-creatures.json) |
@@ -2474,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's My Vampire | 205816 | [205816-shes-my-vampire.json](./205816-shes-my-vampire.json) |
 | Shed | 406191 | [406191-shed.json](./406191-shed.json) |
+| Shed | 91728 | [91728-shed.json](./91728-shed.json) |
 | ShedHorror | 308549 | [308549-shedhorror.json](./308549-shedhorror.json) |
 | Sheep | 229705 | [229705-sheep.json](./229705-sheep.json) |
 | Sheep Game | 99636 | [99636-sheep-game.json](./99636-sheep-game.json) |
@@ -7813,6 +7816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Imperial Assault | 199015 | [199015-star-wars-imperial-assault.json](./199015-star-wars-imperial-assault.json) |
 | Star Wars: Jedi Adventure | 62669 | [62669-star-wars-jedi-adventure.json](./62669-star-wars-jedi-adventure.json) |
 | Star Wars: Jedi Knight Collection | 54401 | [54401-star-wars-jedi-knight-collection.json](./54401-star-wars-jedi-knight-collection.json) |
+| Star Wars: Jedi Reading | 91751 | [91751-star-wars-jedi-reading.json](./91751-star-wars-jedi-reading.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
 | Star Wars: Millenium Falcon Challenge | 198922 | [198922-star-wars-millenium-falcon-challenge.json](./198922-star-wars-millenium-falcon-challenge.json) |
 | Star Wars: Outpost | 75087 | [75087-star-wars-outpost.json](./75087-star-wars-outpost.json) |
