@@ -3165,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Droppin Blitz | 362335 | [362335-block-droppin-blitz.json](./362335-block-droppin-blitz.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
+| Block Heads: Instakill | 108305 | [108305-block-heads-instakill.json](./108305-block-heads-instakill.json) |
 | Block In | 390148 | [390148-block-in.json](./390148-block-in.json) |
 | Block Jam: Cute Edition | 332516 | [332516-block-jam-cute-edition.json](./332516-block-jam-cute-edition.json) |
 | Block Kuzushi | 38269 | [38269-block-kuzushi.json](./38269-block-kuzushi.json) |
