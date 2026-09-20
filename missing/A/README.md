@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
 | Abbigale and the Monster | 51177 | [51177-abbigale-and-the-monster.json](./51177-abbigale-and-the-monster.json) |
 | Abby Monkey Musical Puzzle Games | 96753 | [96753-abby-monkey-musical-puzzle-games.json](./96753-abby-monkey-musical-puzzle-games.json) |
+| ABC Memory Match | 99415 | [99415-abc-memory-match.json](./99415-abc-memory-match.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
 | ABC Sports Presents: The Palm Spring Open | 46559 | [46559-abc-sports-presents-the-palm-spring-open.json](./46559-abc-sports-presents-the-palm-spring-open.json) |
 | ABC: Audioreactive Beat Circle | 138623 | [138623-abc-audioreactive-beat-circle.json](./138623-abc-audioreactive-beat-circle.json) |
@@ -1473,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hominid | 210733 | [210733-alien-hominid.json](./210733-alien-hominid.json) |
 | Alien Hominid | 314892 | [314892-alien-hominid.json](./314892-alien-hominid.json) |
 | Alien Hominid 360 | 314895 | [314895-alien-hominid-360.json](./314895-alien-hominid-360.json) |
+| Alien Hordes | 99390 | [99390-alien-hordes.json](./99390-alien-hordes.json) |
 | Alien Hunt | 166706 | [166706-alien-hunt.json](./166706-alien-hunt.json) |
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
 | Alien Invasion 3D Part 2 | 126561 | [126561-alien-invasion-3d-part-2.json](./126561-alien-invasion-3d-part-2.json) |
@@ -3439,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcatopia | 194014 | [194014-arcatopia.json](./194014-arcatopia.json) |
 | Arcaxer | 145565 | [145565-arcaxer.json](./145565-arcaxer.json) |
 | Arcazoid | 248339 | [248339-arcazoid.json](./248339-arcazoid.json) |
+| ArcBall 2 | 99424 | [99424-arcball-2.json](./99424-arcball-2.json) |
 | Arceon | 256836 | [256836-arceon.json](./256836-arceon.json) |
 | Arcflame Frontiers | 413099 | [413099-arcflame-frontiers.json](./413099-arcflame-frontiers.json) |
 | Arch Rivals | 242784 | [242784-arch-rivals.json](./242784-arch-rivals.json) |
@@ -3717,6 +3720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armagetron Advanced | 51244 | [51244-armagetron-advanced.json](./51244-armagetron-advanced.json) |
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
 | Armalyte: The Final Run | 14266 | [14266-armalyte-the-final-run.json](./14266-armalyte-the-final-run.json) |
+| Armament 2028 | 99380 | [99380-armament-2028.json](./99380-armament-2028.json) |
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
 | Armechgeddon | 238623 | [238623-armechgeddon.json](./238623-armechgeddon.json) |
 | Armed Against the Undead | 32898 | [32898-armed-against-the-undead.json](./32898-armed-against-the-undead.json) |
