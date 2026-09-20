@@ -3072,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Battle | 69254 | [69254-the-final-battle.json](./69254-the-final-battle.json) |
 | The Final Battle: Adventure | 216224 | [216224-the-final-battle-adventure.json](./216224-the-final-battle-adventure.json) |
 | The Final Countdown | 277318 | [277318-the-final-countdown.json](./277318-the-final-countdown.json) |
+| The Final Days: Blood Dawn | 87959 | [87959-the-final-days-blood-dawn.json](./87959-the-final-days-blood-dawn.json) |
 | The Final Earth 2 | 126651 | [126651-the-final-earth-2.json](./126651-the-final-earth-2.json) |
 | The Final Exam | 318637 | [318637-the-final-exam.json](./318637-the-final-exam.json) |
 | The Final Exhibition | 245862 | [245862-the-final-exhibition.json](./245862-the-final-exhibition.json) |
@@ -3173,6 +3174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Level | 271763 | [271763-the-forgotten-level.json](./271763-the-forgotten-level.json) |
 | The Forgotten Ones | 17656 | [17656-the-forgotten-ones.json](./17656-the-forgotten-ones.json) |
 | The Forgotten Phobia | 170547 | [170547-the-forgotten-phobia.json](./170547-the-forgotten-phobia.json) |
+| The Forgotten Sprites | 87986 | [87986-the-forgotten-sprites.json](./87986-the-forgotten-sprites.json) |
 | The Forgotten Tapes: Analog Nightmares | 231353 | [231353-the-forgotten-tapes-analog-nightmares.json](./231353-the-forgotten-tapes-analog-nightmares.json) |
 | The Forgotten Tapes: Twisted Forms | 245944 | [245944-the-forgotten-tapes-twisted-forms.json](./245944-the-forgotten-tapes-twisted-forms.json) |
 | The Forgotten Village | 337488 | [337488-the-forgotten-village.json](./337488-the-forgotten-village.json) |
@@ -3549,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The I of It | 225292 | [225292-the-i-of-it.json](./225292-the-i-of-it.json) |
 | The Iceberg | 180672 | [180672-the-iceberg.json](./180672-the-iceberg.json) |
 | The Icky Mr Fox | 299261 | [299261-the-icky-mr-fox.json](./299261-the-icky-mr-fox.json) |
+| The Idiot's Tale | 87956 | [87956-the-idiots-tale.json](./87956-the-idiots-tale.json) |
 | The Idle | 290006 | [290006-the-idle.json](./290006-the-idle.json) |
 | The Idolmaster Heardle | 205625 | [205625-the-idolmaster-heardle.json](./205625-the-idolmaster-heardle.json) |
 | The Idolmaster: Gravure for You! Vol. 8 | 79352 | [79352-the-idolmaster-gravure-for-you-vol-8.json](./79352-the-idolmaster-gravure-for-you-vol-8.json) |
@@ -4189,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Llama | 387343 | [387343-the-llama.json](./387343-the-llama.json) |
 | The Lodge | 158190 | [158190-the-lodge.json](./158190-the-lodge.json) |
 | The Lone Alien | 237079 | [237079-the-lone-alien.json](./237079-the-lone-alien.json) |
+| The Lone Chameleon | 87994 | [87994-the-lone-chameleon.json](./87994-the-lone-chameleon.json) |
 | The Lone Hero | 387522 | [387522-the-lone-hero.json](./387522-the-lone-hero.json) |
 | The Lone Island Survival | 68663 | [68663-the-lone-island-survival.json](./68663-the-lone-island-survival.json) |
 | The Lone Keeper | 354518 | [354518-the-lone-keeper.json](./354518-the-lone-keeper.json) |
@@ -6085,6 +6089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way of the Tray: Japanese Restaurant Simulator | 334174 | [334174-the-way-of-the-tray-japanese-restaurant-simulator.json](./334174-the-way-of-the-tray-japanese-restaurant-simulator.json) |
 | The Way of Wine | 255983 | [255983-the-way-of-wine.json](./255983-the-way-of-wine.json) |
 | The Way Remastered | 96202 | [96202-the-way-remastered.json](./96202-the-way-remastered.json) |
+| The Way to Defeat the Archfiend | 87974 | [87974-the-way-to-defeat-the-archfiend.json](./87974-the-way-to-defeat-the-archfiend.json) |
 | The Way To Life | 329971 | [329971-the-way-to-life.json](./329971-the-way-to-life.json) |
 | The Wayfarer | 144261 | [144261-the-wayfarer.json](./144261-the-wayfarer.json) |
 | The Wayhaven Chronicles: Book Three | 224639 | [224639-the-wayhaven-chronicles-book-three.json](./224639-the-wayhaven-chronicles-book-three.json) |
@@ -9887,6 +9892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Table | 113028 | [113028-trigger-table.json](./113028-trigger-table.json) |
 | Trigger Tennis | 255698 | [255698-trigger-tennis.json](./255698-trigger-tennis.json) |
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
+| Triggered | 87988 | [87988-triggered.json](./87988-triggered.json) |
 | TriggerHeart Exelica Enhanced | 326579 | [326579-triggerheart-exelica-enhanced.json](./326579-triggerheart-exelica-enhanced.json) |
 | Triggore | 182913 | [182913-triggore.json](./182913-triggore.json) |
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
