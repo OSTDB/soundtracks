@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Girls | 310732 | [310732-fantasy-girls.json](./310732-fantasy-girls.json) |
 | Fantasy Gladiators | 148932 | [148932-fantasy-gladiators.json](./148932-fantasy-gladiators.json) |
 | Fantasy Hentai Quest | 210856 | [210856-fantasy-hentai-quest.json](./210856-fantasy-hentai-quest.json) |
+| Fantasy Hero Biography | 119561 | [119561-fantasy-hero-biography.json](./119561-fantasy-hero-biography.json) |
 | Fantasy Heroes | 119005 | [119005-fantasy-heroes.json](./119005-fantasy-heroes.json) |
 | Fantasy Illness | 339115 | [339115-fantasy-illness.json](./339115-fantasy-illness.json) |
 | Fantasy Inn Simulator | 157127 | [157127-fantasy-inn-simulator.json](./157127-fantasy-inn-simulator.json) |
@@ -1535,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII | 393025 | [393025-final-fantasy-vii.json](./393025-final-fantasy-vii.json) |
 | Final Fantasy VII + VIII Double Pack | 55049 | [55049-final-fantasy-vii-viii-double-pack.json](./55049-final-fantasy-vii-viii-double-pack.json) |
 | Final Fantasy VII G-Bike | 7398 | [7398-final-fantasy-vii-g-bike.json](./7398-final-fantasy-vii-g-bike.json) |
+| Final Fantasy VII Remake: Digital Deluxe Edition | 119576 | [119576-final-fantasy-vii-remake-digital-deluxe-edition.json](./119576-final-fantasy-vii-remake-digital-deluxe-edition.json) |
 | Final Fantasy VII: Regenesis | 394328 | [394328-final-fantasy-vii-regenesis.json](./394328-final-fantasy-vii-regenesis.json) |
 | Final Fantasy X-2 International + Last Mission | 146852 | [146852-final-fantasy-x-2-international-last-mission.json](./146852-final-fantasy-x-2-international-last-mission.json) |
 | Final Fantasy X-2: International | 247548 | [247548-final-fantasy-x-2-international.json](./247548-final-fantasy-x-2-international.json) |
@@ -3336,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fourfit | 92983 | [92983-fourfit.json](./92983-fourfit.json) |
 | FourFourTwo Touchline Passion | 68711 | [68711-fourfourtwo-touchline-passion.json](./68711-fourfourtwo-touchline-passion.json) |
 | Fourspell Survivors Online | 224247 | [224247-fourspell-survivors-online.json](./224247-fourspell-survivors-online.json) |
+| Fourth Space | 119564 | [119564-fourth-space.json](./119564-fourth-space.json) |
 | Fourthy | 129199 | [129199-fourthy.json](./129199-fourthy.json) |
 | Fovos VR | 29907 | [29907-fovos-vr.json](./29907-fovos-vr.json) |
 | Fowl Scourge | 201238 | [201238-fowl-scourge.json](./201238-fowl-scourge.json) |
@@ -3438,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frame Cat | 353960 | [353960-frame-cat.json](./353960-frame-cat.json) |
 | Frame City Killer | 67948 | [67948-frame-city-killer.json](./67948-frame-city-killer.json) |
 | Frame of Mind | 142281 | [142281-frame-of-mind.json](./142281-frame-of-mind.json) |
+| Frame of Reference | 119594 | [119594-frame-of-reference.json](./119594-frame-of-reference.json) |
 | Frame of Suffering | 403555 | [403555-frame-of-suffering.json](./403555-frame-of-suffering.json) |
 | Frame: Portals on Steroids | 203311 | [203311-frame-portals-on-steroids.json](./203311-frame-portals-on-steroids.json) |
 | Framed | 131508 | [131508-framed.json](./131508-framed.json) |
