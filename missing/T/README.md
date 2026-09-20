@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technician Ted | 84242 | [84242-technician-ted.json](./84242-technician-ted.json) |
 | Technictix | 69252 | [69252-technictix.json](./69252-technictix.json) |
 | Techno BB | 59397 | [59397-techno-bb.json](./59397-techno-bb.json) |
+| Techno Boy | 86529 | [86529-techno-boy.json](./86529-techno-boy.json) |
 | Techno Cop | 132021 | [132021-techno-cop.json](./132021-techno-cop.json) |
 | Techno Prank | 345553 | [345553-techno-prank.json](./345553-techno-prank.json) |
 | Techno Tanks | 146223 | [146223-techno-tanks.json](./146223-techno-tanks.json) |
