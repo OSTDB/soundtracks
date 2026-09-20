@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galidor: Defenders of the Outer Dimension | 316808 | [316808-galidor-defenders-of-the-outer-dimension.json](./316808-galidor-defenders-of-the-outer-dimension.json) |
 | Galimulator | 89971 | [89971-galimulator.json](./89971-galimulator.json) |
 | Galix: NewHorizons | 304695 | [304695-galix-newhorizons.json](./304695-galix-newhorizons.json) |
+| Gall Force: Sousei no Jokyoku | 107627 | [107627-gall-force-sousei-no-jokyoku.json](./107627-gall-force-sousei-no-jokyoku.json) |
 | Gallagant | 287652 | [287652-gallagant.json](./287652-gallagant.json) |
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
 | Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
@@ -2795,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grokit | 271204 | [271204-grokit.json](./271204-grokit.json) |
 | Grom: Terror in Tibet | 73767 | [73767-grom-terror-in-tibet.json](./73767-grom-terror-in-tibet.json) |
 | Grommet Chod | 410325 | [410325-grommet-chod.json](./410325-grommet-chod.json) |
+| Grompula | 107674 | [107674-grompula.json](./107674-grompula.json) |
 | Gronk Want Rock | 249502 | [249502-gronk-want-rock.json](./249502-gronk-want-rock.json) |
 | Grood | 90116 | [90116-grood.json](./90116-grood.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
