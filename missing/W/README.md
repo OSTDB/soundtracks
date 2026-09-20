@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
 | War of Wizards | 215666 | [215666-war-of-wizards.json](./215666-war-of-wizards.json) |
 | War of Zanzor III: Birth of Unity | 301825 | [301825-war-of-zanzor-iii-birth-of-unity.json](./301825-war-of-zanzor-iii-birth-of-unity.json) |
+| War on Drugs VR | 96513 | [96513-war-on-drugs-vr.json](./96513-war-on-drugs-vr.json) |
 | War Pigeons | 348776 | [348776-war-pigeons.json](./348776-war-pigeons.json) |
 | War Pinball | 209715 | [209715-war-pinball.json](./209715-war-pinball.json) |
 | War Pirates | 237639 | [237639-war-pirates.json](./237639-war-pirates.json) |
