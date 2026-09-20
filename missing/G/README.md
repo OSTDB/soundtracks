@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galletron | 13001 | [13001-galletron.json](./13001-galletron.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
 | Gallop Glory: Obstacle Racing & Horse Simulator | 300726 | [300726-gallop-glory-obstacle-racing-and-horse-simulator.json](./300726-gallop-glory-obstacle-racing-and-horse-simulator.json) |
+| Gallows | 95186 | [95186-gallows.json](./95186-gallows.json) |
 | Galosphere | 341045 | [341045-galosphere.json](./341045-galosphere.json) |
 | GalRock Girls | 258440 | [258440-galrock-girls.json](./258440-galrock-girls.json) |
 | Gals Panic 3 | 210715 | [210715-gals-panic-3.json](./210715-gals-panic-3.json) |
@@ -1388,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiatorial Conquest: Battle Arena of Legends | 283266 | [283266-gladiatorial-conquest-battle-arena-of-legends.json](./283266-gladiatorial-conquest-battle-arena-of-legends.json) |
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
 | Gladom: The 2D MOBA in Pixel Art | 121469 | [121469-gladom-the-2d-moba-in-pixel-art.json](./121469-gladom-the-2d-moba-in-pixel-art.json) |
+| Glaive: Brick Breaker | 95216 | [95216-glaive-brick-breaker.json](./95216-glaive-brick-breaker.json) |
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
 | Glam the Rocker | 413712 | [413712-glam-the-rocker.json](./413712-glam-the-rocker.json) |
 | Glass Beads | 342752 | [342752-glass-beads.json](./342752-glass-beads.json) |
