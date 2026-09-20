@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackie Chan: The Kung-Fu Master | 39607 | [39607-jackie-chan-the-kung-fu-master.json](./39607-jackie-chan-the-kung-fu-master.json) |
 | Jackpoison | 361689 | [361689-jackpoison.json](./361689-jackpoison.json) |
 | Jackpot | 246954 | [246954-jackpot.json](./246954-jackpot.json) |
+| Jackpot 777 | 85201 | [85201-jackpot-777.json](./85201-jackpot-777.json) |
 | Jackpot Slots | 323151 | [323151-jackpot-slots.json](./323151-jackpot-slots.json) |
 | Jackpot Stadium | 91733 | [91733-jackpot-stadium.json](./91733-jackpot-stadium.json) |
 | Jackpot Tycoon | 210128 | [210128-jackpot-tycoon.json](./210128-jackpot-tycoon.json) |
@@ -154,10 +155,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaleco Arcade 1 | 214534 | [214534-jaleco-arcade-1.json](./214534-jaleco-arcade-1.json) |
 | Jaleco Sports: Bases Loaded | 338551 | [338551-jaleco-sports-bases-loaded.json](./338551-jaleco-sports-bases-loaded.json) |
 | Jalopy: Limited Edition | 96023 | [96023-jalopy-limited-edition.json](./96023-jalopy-limited-edition.json) |
+| Jam City Rollergirls | 85200 | [85200-jam-city-rollergirls.json](./85200-jam-city-rollergirls.json) |
 | Jam Jam's Adventure | 105761 | [105761-jam-jams-adventure.json](./105761-jam-jams-adventure.json) |
 | Jam League Basketball | 237375 | [237375-jam-league-basketball.json](./237375-jam-league-basketball.json) |
 | Jam Scrapz Collection | 226853 | [226853-jam-scrapz-collection.json](./226853-jam-scrapz-collection.json) |
 | Jam Session VR | 75822 | [75822-jam-session-vr.json](./75822-jam-session-vr.json) |
+| Jam Space: PocketStudio | 85199 | [85199-jam-space-pocketstudio.json](./85199-jam-space-pocketstudio.json) |
 | Jamco Matefest 3013 | 128614 | [128614-jamco-matefest-3013.json](./128614-jamco-matefest-3013.json) |
 | Jamdat Word Craft | 71486 | [71486-jamdat-word-craft.json](./71486-jamdat-word-craft.json) |
 | James Bond 007 | 1639 | [1639-james-bond-007.json](./1639-james-bond-007.json) |
@@ -242,6 +245,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Nekosama Escape: The Sweets Shop | 251050 | [251050-japanese-nekosama-escape-the-sweets-shop.json](./251050-japanese-nekosama-escape-the-sweets-shop.json) |
 | Japanese Psycho | 340766 | [340766-japanese-psycho.json](./340766-japanese-psycho.json) |
 | Japanese Puzzle | 152874 | [152874-japanese-puzzle.json](./152874-japanese-puzzle.json) |
+| Japanese Rail Sim 3D Journey in suburbs #1 Vol.2 | 85198 | [85198-japanese-rail-sim-3d-journey-in-suburbs-1-vol-2.json](./85198-japanese-rail-sim-3d-journey-in-suburbs-1-vol-2.json) |
+| Japanese Rail Sim 3D Journey in suburbs #1 Vol.3 | 85211 | [85211-japanese-rail-sim-3d-journey-in-suburbs-1-vol-3.json](./85211-japanese-rail-sim-3d-journey-in-suburbs-1-vol-3.json) |
+| Japanese Rail Sim 3D Journey in suburbs #1 Vol.4 | 85210 | [85210-japanese-rail-sim-3d-journey-in-suburbs-1-vol-4.json](./85210-japanese-rail-sim-3d-journey-in-suburbs-1-vol-4.json) |
+| Japanese Rail Sim 3D Monorail Trip to Okinawa | 85209 | [85209-japanese-rail-sim-3d-monorail-trip-to-okinawa.json](./85209-japanese-rail-sim-3d-monorail-trip-to-okinawa.json) |
 | Japanese Rail Sim 3D: 5 types of trains | 147915 | [147915-japanese-rail-sim-3d-5-types-of-trains.json](./147915-japanese-rail-sim-3d-5-types-of-trains.json) |
 | Japanese Rail Sim: Hakone Town of Natural Beauty and Hot Springs | 315837 | [315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json](./315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json) |
 | Japanese Rail Sim: Journey to Kyoto | 139991 | [139991-japanese-rail-sim-journey-to-kyoto.json](./139991-japanese-rail-sim-journey-to-kyoto.json) |
@@ -378,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Boat | 13731 | [13731-jet-boat.json](./13731-jet-boat.json) |
 | Jet Buster | 68698 | [68698-jet-buster.json](./68698-jet-buster.json) |
 | Jet Dancer | 224635 | [224635-jet-dancer.json](./224635-jet-dancer.json) |
+| Jet Dog | 85208 | [85208-jet-dog.json](./85208-jet-dog.json) |
 | Jet Force Gemini | 1355 | [1355-jet-force-gemini.json](./1355-jet-force-gemini.json) |
 | Jet Hero | 29636 | [29636-jet-hero.json](./29636-jet-hero.json) |
 | Jet Moto 2 | 45214 | [45214-jet-moto-2.json](./45214-jet-moto-2.json) |
@@ -429,15 +437,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetWireClimber | 312166 | [312166-jetwireclimber.json](./312166-jetwireclimber.json) |
 | JetX Racing | 115476 | [115476-jetx-racing.json](./115476-jetx-racing.json) |
 | JetX: Space Edition | 118333 | [118333-jetx-space-edition.json](./118333-jetx-space-edition.json) |
+| Jewel Adventures | 85207 | [85207-jewel-adventures.json](./85207-jewel-adventures.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
 | Jewel Drops 2 - Match three puzzle | 101637 | [101637-jewel-drops-2-match-three-puzzle.json](./101637-jewel-drops-2-match-three-puzzle.json) |
 | Jewel Fever | 257466 | [257466-jewel-fever.json](./257466-jewel-fever.json) |
+| Jewel Legends: Tree of Life | 85206 | [85206-jewel-legends-tree-of-life.json](./85206-jewel-legends-tree-of-life.json) |
 | Jewel Link Chronicles: Mountains of Madness | 65458 | [65458-jewel-link-chronicles-mountains-of-madness.json](./65458-jewel-link-chronicles-mountains-of-madness.json) |
 | Jewel Link: Atlantic Quest | 401014 | [401014-jewel-link-atlantic-quest.json](./401014-jewel-link-atlantic-quest.json) |
 | Jewel Mania | 360069 | [360069-jewel-mania.json](./360069-jewel-mania.json) |
 | Jewel Master 3 | 358906 | [358906-jewel-master-3.json](./358906-jewel-master-3.json) |
+| Jewel Master Atlantis 3D | 85205 | [85205-jewel-master-atlantis-3d.json](./85205-jewel-master-atlantis-3d.json) |
 | Jewel Master: Cradle of Egypt | 88756 | [88756-jewel-master-cradle-of-egypt.json](./88756-jewel-master-cradle-of-egypt.json) |
 | Jewel Match | 53251 | [53251-jewel-match.json](./53251-jewel-match.json) |
+| Jewel Match 3 | 85216 | [85216-jewel-match-3.json](./85216-jewel-match-3.json) |
 | Jewel Match Atlantis Solitaire 2 | 153397 | [153397-jewel-match-atlantis-solitaire-2.json](./153397-jewel-match-atlantis-solitaire-2.json) |
 | Jewel Match Atlantis Solitaire 2: Collector's Edition | 153292 | [153292-jewel-match-atlantis-solitaire-2-collectors-edition.json](./153292-jewel-match-atlantis-solitaire-2-collectors-edition.json) |
 | Jewel Match Atlantis Solitaire 5: Collector's Edition | 381596 | [381596-jewel-match-atlantis-solitaire-5-collectors-edition.json](./381596-jewel-match-atlantis-solitaire-5-collectors-edition.json) |
@@ -454,12 +466,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Pet: Mahou no Rhythm de Ieie! | 60546 | [60546-jewel-pet-mahou-no-rhythm-de-ieie.json](./60546-jewel-pet-mahou-no-rhythm-de-ieie.json) |
 | Jewel Queen: Puzzle & Magic | 212485 | [212485-jewel-queen-puzzle-and-magic.json](./212485-jewel-queen-puzzle-and-magic.json) |
 | Jewel Quest | 196845 | [196845-jewel-quest.json](./196845-jewel-quest.json) |
+| Jewel Quest 4 Heritage | 85215 | [85215-jewel-quest-4-heritage.json](./85215-jewel-quest-4-heritage.json) |
+| Jewel Quest Mysteries 3: The Seventh Gate | 85214 | [85214-jewel-quest-mysteries-3-the-seventh-gate.json](./85214-jewel-quest-mysteries-3-the-seventh-gate.json) |
 | Jewel Quest Mysteries IV: The Oracle of Ur | 206729 | [206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json](./206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json) |
 | Jewel Quest Solitaire II | 53250 | [53250-jewel-quest-solitaire-ii.json](./53250-jewel-quest-solitaire-ii.json) |
 | Jewel Quest Trilogy | 50633 | [50633-jewel-quest-trilogy.json](./50633-jewel-quest-trilogy.json) |
 | Jewel Quest: Expeditions | 21279 | [21279-jewel-quest-expeditions.json](./21279-jewel-quest-expeditions.json) |
 | Jewel Quest: Match 3 Adventure | 376577 | [376577-jewel-quest-match-3-adventure.json](./376577-jewel-quest-match-3-adventure.json) |
 | Jewel Quest: The Sapphire Dragon | 210021 | [210021-jewel-quest-the-sapphire-dragon.json](./210021-jewel-quest-the-sapphire-dragon.json) |
+| Jewel Quest: The Sapphire Dragon | 85213 | [85213-jewel-quest-the-sapphire-dragon.json](./85213-jewel-quest-the-sapphire-dragon.json) |
 | Jewel Time Deluxe | 110322 | [110322-jewel-time-deluxe.json](./110322-jewel-time-deluxe.json) |
 | Jewel Train | 230382 | [230382-jewel-train.json](./230382-jewel-train.json) |
 | Jewel Wars | 146726 | [146726-jewel-wars.json](./146726-jewel-wars.json) |
@@ -728,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Bonasera: Full Season | 147821 | [147821-johnny-bonasera-full-season.json](./147821-johnny-bonasera-full-season.json) |
 | Johnny Boy: Red Moon's Kiss | 188651 | [188651-johnny-boy-red-moons-kiss.json](./188651-johnny-boy-red-moons-kiss.json) |
 | Johnny Chainsaw | 154466 | [154466-johnny-chainsaw.json](./154466-johnny-chainsaw.json) |
+| Johnny Dynamite | 85212 | [85212-johnny-dynamite.json](./85212-johnny-dynamite.json) |
 | Johnny Hotshot | 21006 | [21006-johnny-hotshot.json](./21006-johnny-hotshot.json) |
 | Johnny Impossible | 21013 | [21013-johnny-impossible.json](./21013-johnny-impossible.json) |
 | Johnny Mnemonic | 73241 | [73241-johnny-mnemonic.json](./73241-johnny-mnemonic.json) |
@@ -776,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jolly Putt: Mini Golf & Arcade | 258705 | [258705-jolly-putt-mini-golf-and-arcade.json](./258705-jolly-putt-mini-golf-and-arcade.json) |
 | Jolly's Hardcore Mod | 269866 | [269866-jollys-hardcore-mod.json](./269866-jollys-hardcore-mod.json) |
 | JollyWorld | 162408 | [162408-jollyworld.json](./162408-jollyworld.json) |
+| Jolt Family Robot Racer | 85217 | [85217-jolt-family-robot-racer.json](./85217-jolt-family-robot-racer.json) |
 | Jonah: A VeggieTales Game | 80600 | [80600-jonah-a-veggietales-game.json](./80600-jonah-a-veggietales-game.json) |
 | Jonald '06 or How a Tiny Horse Living in New York City Raised 250 US Dollars So They Could Buy a Nintedo Woo On Launch Day | 357856 | [357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json](./357856-jonald-06-or-how-a-tiny-horse-living-in-new-york-city-raised-250-us-dollars-so-they-could-buy-a-nintedo-woo-on-launch-day.json) |
 | Jonas Willy Online | 149013 | [149013-jonas-willy-online.json](./149013-jonas-willy-online.json) |
@@ -977,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump To Stratos | 376567 | [376567-jump-to-stratos.json](./376567-jump-to-stratos.json) |
 | Jump to Win | 22367 | [22367-jump-to-win.json](./22367-jump-to-win.json) |
 | Jump To Win! | 303223 | [303223-jump-to-win.json](./303223-jump-to-win.json) |
+| Jump Trials | 85218 | [85218-jump-trials.json](./85218-jump-trials.json) |
 | Jump Truck | 328238 | [328238-jump-truck.json](./328238-jump-truck.json) |
 | Jump Up 3D: Mini Basketball | 353997 | [353997-jump-up-3d-mini-basketball.json](./353997-jump-up-3d-mini-basketball.json) |
 | Jump Up! Tiny Spaceman | 200121 | [200121-jump-up-tiny-spaceman.json](./200121-jump-up-tiny-spaceman.json) |
