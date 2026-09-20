@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatem Tom and Jerry | 100822 | [100822-beatem-tom-and-jerry.json](./100822-beatem-tom-and-jerry.json) |
 | Beaten Path | 264711 | [264711-beaten-path.json](./264711-beaten-path.json) |
 | Beaterator | 18383 | [18383-beaterator.json](./18383-beaterator.json) |
+| Beating A Dead Horse With A One-Trick Pony | 111508 | [111508-beating-a-dead-horse-with-a-one-trick-pony.json](./111508-beating-a-dead-horse-with-a-one-trick-pony.json) |
 | BeatLine | 260773 | [260773-beatline.json](./260773-beatline.json) |
 | Beatmania 2ndMix | 94746 | [94746-beatmania-2ndmix.json](./94746-beatmania-2ndmix.json) |
 | Beatmania 3rdMix | 94745 | [94745-beatmania-3rdmix.json](./94745-beatmania-3rdmix.json) |
@@ -2790,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackhole: Complete Edition | 36764 | [36764-blackhole-complete-edition.json](./36764-blackhole-complete-edition.json) |
 | Blackhole: Testing Laboratory | 170522 | [170522-blackhole-testing-laboratory.json](./170522-blackhole-testing-laboratory.json) |
 | Blackholes Stars | 190219 | [190219-blackholes-stars.json](./190219-blackholes-stars.json) |
+| BlackHoopS | 111482 | [111482-blackhoops.json](./111482-blackhoops.json) |
 | Blackish House | 271769 | [271769-blackish-house.json](./271769-blackish-house.json) |
 | Blackjack | 131529 | [131529-blackjack.json](./131529-blackjack.json) |
 | Blackjack | 204476 | [204476-blackjack.json](./204476-blackjack.json) |
@@ -3044,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Deadly Love | 185537 | [185537-blind-deadly-love.json](./185537-blind-deadly-love.json) |
 | Blind Dreams | 192831 | [192831-blind-dreams.json](./192831-blind-dreams.json) |
 | Blind Exposure | 320736 | [320736-blind-exposure.json](./320736-blind-exposure.json) |
+| Blind Girl | 111489 | [111489-blind-girl.json](./111489-blind-girl.json) |
 | Blind Love | 30009 | [30009-blind-love.json](./30009-blind-love.json) |
 | Blind Monk's Society | 201765 | [201765-blind-monks-society.json](./201765-blind-monks-society.json) |
 | Blind People Simulator | 57612 | [57612-blind-people-simulator.json](./57612-blind-people-simulator.json) |
@@ -4415,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Cano | 174350 | [174350-brave-cano.json](./174350-brave-cano.json) |
 | Brave Doggy Quest | 190156 | [190156-brave-doggy-quest.json](./190156-brave-doggy-quest.json) |
 | Brave Dungeon II | 112766 | [112766-brave-dungeon-ii.json](./112766-brave-dungeon-ii.json) |
+| Brave Dungeon: The Meaning Of Justice | 111450 | [111450-brave-dungeon-the-meaning-of-justice.json](./111450-brave-dungeon-the-meaning-of-justice.json) |
 | Brave Dwarves | 188558 | [188558-brave-dwarves.json](./188558-brave-dwarves.json) |
 | Brave Dwarves 2 | 144265 | [144265-brave-dwarves-2.json](./144265-brave-dwarves-2.json) |
 | Brave Fighter 2: Frontier Free | 38952 | [38952-brave-fighter-2-frontier-free.json](./38952-brave-fighter-2-frontier-free.json) |
@@ -5060,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs N' Guns | 276690 | [276690-bugs-n-guns.json](./276690-bugs-n-guns.json) |
 | Bugs with Afterburners | 387550 | [387550-bugs-with-afterburners.json](./387550-bugs-with-afterburners.json) |
 | Bugs! | 119679 | [119679-bugs.json](./119679-bugs.json) |
+| BugsBoxVR | 111454 | [111454-bugsboxvr.json](./111454-bugsboxvr.json) |
 | BugWorld | 254003 | [254003-bugworld.json](./254003-bugworld.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
 | Bugz Bows & Curses | 214192 | [214192-bugz-bows-and-curses.json](./214192-bugz-bows-and-curses.json) |
