@@ -1907,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beluga Dreams | 268498 | [268498-beluga-dreams.json](./268498-beluga-dreams.json) |
 | Beluga: Kamikaze Aircraft Carrier | 237512 | [237512-beluga-kamikaze-aircraft-carrier.json](./237512-beluga-kamikaze-aircraft-carrier.json) |
 | Belzerion | 122881 | [122881-belzerion.json](./122881-belzerion.json) |
+| Bemuddled | 101378 | [101378-bemuddled.json](./101378-bemuddled.json) |
 | Bemuzed | 135908 | [135908-bemuzed.json](./135908-bemuzed.json) |
 | Ben 10 | 363904 | [363904-ben-10.json](./363904-ben-10.json) |
 | Ben 10 Alien Balls | 343826 | [343826-ben-10-alien-balls.json](./343826-ben-10-alien-balls.json) |
@@ -2687,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blablublas Battle Royale Shooter | 370787 | [370787-blablublas-battle-royale-shooter.json](./370787-blablublas-battle-royale-shooter.json) |
 | Black | 159265 | [159265-black.json](./159265-black.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
+| Black Bart | 101367 | [101367-black-bart.json](./101367-black-bart.json) |
 | Black Bass with Blue Marlin | 43881 | [43881-black-bass-with-blue-marlin.json](./43881-black-bass-with-blue-marlin.json) |
 | Black Bass: Lure Fishing | 7787 | [7787-black-bass-lure-fishing.json](./7787-black-bass-lure-fishing.json) |
 | Black Beacon: Forsaken Eternity | 349327 | [349327-black-beacon-forsaken-eternity.json](./349327-black-beacon-forsaken-eternity.json) |
@@ -3910,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonza Word Puzzle | 90678 | [90678-bonza-word-puzzle.json](./90678-bonza-word-puzzle.json) |
 | Bonzala | 269595 | [269595-bonzala.json](./269595-bonzala.json) |
 | Bonzo The Brave: Be Brave | 299269 | [299269-bonzo-the-brave-be-brave.json](./299269-bonzo-the-brave-be-brave.json) |
+| Boo Boo Bananas | 101322 | [101322-boo-boo-bananas.json](./101322-boo-boo-bananas.json) |
 | Boo Boo Booster | 343325 | [343325-boo-boo-booster.json](./343325-boo-boo-booster.json) |
 | Boo Breakers: The Ghostening | 30808 | [30808-boo-breakers-the-ghostening.json](./30808-boo-breakers-the-ghostening.json) |
 | Boo! Are you scared? | 329128 | [329128-boo-are-you-scared.json](./329128-boo-are-you-scared.json) |
@@ -4340,6 +4343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boy Beats World | 127337 | [127337-boy-beats-world.json](./127337-boy-beats-world.json) |
 | Boy Goes to Space | 128584 | [128584-boy-goes-to-space.json](./128584-boy-goes-to-space.json) |
 | Boy vs. Genius | 119014 | [119014-boy-vs-genius.json](./119014-boy-vs-genius.json) |
+| Boy's Love | 101358 | [101358-boys-love.json](./101358-boys-love.json) |
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
 | Boyfriend or Cake?? | 364508 | [364508-boyfriend-or-cake.json](./364508-boyfriend-or-cake.json) |
 | Boyfriend's Rescue | 225639 | [225639-boyfriends-rescue.json](./225639-boyfriends-rescue.json) |
@@ -5204,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BulletHeart | 181910 | [181910-bulletheart.json](./181910-bulletheart.json) |
 | BulletHeck | 265207 | [265207-bulletheck.json](./265207-bulletheck.json) |
 | BulletHell Planes | 135045 | [135045-bullethell-planes.json](./135045-bullethell-planes.json) |
+| Bulletline | 101365 | [101365-bulletline.json](./101365-bulletline.json) |
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
 | Bulletreign: Survivors | 406200 | [406200-bulletreign-survivors.json](./406200-bulletreign-survivors.json) |
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
