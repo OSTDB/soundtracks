@@ -7906,6 +7906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starburst Fever Night | 390669 | [390669-starburst-fever-night.json](./390669-starburst-fever-night.json) |
 | Starbust | 181378 | [181378-starbust.json](./181378-starbust.json) |
 | Starcaller | 142496 | [142496-starcaller.json](./142496-starcaller.json) |
+| Starcaster | 89677 | [89677-starcaster.json](./89677-starcaster.json) |
 | Starcatcher | 228094 | [228094-starcatcher.json](./228094-starcatcher.json) |
 | Starch | 91942 | [91942-starch.json](./91942-starch.json) |
 | StarCraft II: Legacy of the Void - Collector's Edition | 51293 | [51293-starcraft-ii-legacy-of-the-void-collectors-edition.json](./51293-starcraft-ii-legacy-of-the-void-collectors-edition.json) |
@@ -8635,6 +8636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Age | 282733 | [282733-stone-age.json](./282733-stone-age.json) |
 | Stone Age Meteor Rush | 337981 | [337981-stone-age-meteor-rush.json](./337981-stone-age-meteor-rush.json) |
 | Stone Age Taxi | 146897 | [146897-stone-age-taxi.json](./146897-stone-age-taxi.json) |
+| Stone Age: The Board Game | 89702 | [89702-stone-age-the-board-game.json](./89702-stone-age-the-board-game.json) |
 | Stone Ball | 39587 | [39587-stone-ball.json](./39587-stone-ball.json) |
 | Stone Breaker | 226757 | [226757-stone-breaker.json](./226757-stone-breaker.json) |
 | Stone Cold Sexy | 182999 | [182999-stone-cold-sexy.json](./182999-stone-cold-sexy.json) |
