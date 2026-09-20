@@ -1235,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nibble Quest | 410235 | [410235-nibble-quest.json](./410235-nibble-quest.json) |
 | Nibeos | 303489 | [303489-nibeos.json](./303489-nibeos.json) |
 | Nibiru | 205071 | [205071-nibiru.json](./205071-nibiru.json) |
+| Nibû | 112753 | [112753-nibu.json](./112753-nibu.json) |
 | Nice Body All-Star Suiei Taikai | 248117 | [248117-nice-body-all-star-suiei-taikai.json](./248117-nice-body-all-star-suiei-taikai.json) |
 | Nice Dice - 3D dice roller | 102724 | [102724-nice-dice-3d-dice-roller.json](./102724-nice-dice-3d-dice-roller.json) |
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
