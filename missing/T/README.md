@@ -654,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangram Puzzle: Shape Puzzle | 237625 | [237625-tangram-puzzle-shape-puzzle.json](./237625-tangram-puzzle-shape-puzzle.json) |
 | Tangram Style | 85422 | [85422-tangram-style.json](./85422-tangram-style.json) |
 | Tangrams | 234157 | [234157-tangrams.json](./234157-tangrams.json) |
+| Tangrams & Blocks | 103899 | [103899-tangrams-and-blocks.json](./103899-tangrams-and-blocks.json) |
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
 | Tanigawa Kouji no Shogi Shinan II: Meijin he no Michi | 41382 | [41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json](./41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json) |
 | TaniNani | 127185 | [127185-taninani.json](./127185-taninani.json) |
@@ -1904,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Analyst | 211289 | [211289-the-analyst.json](./211289-the-analyst.json) |
 | The Anchorite | 325079 | [325079-the-anchorite.json](./325079-the-anchorite.json) |
 | The Ancient Land of Ys | 2411 | [2411-the-ancient-land-of-ys.json](./2411-the-ancient-land-of-ys.json) |
+| The Ancients AR | 103884 | [103884-the-ancients-ar.json](./103884-the-ancients-ar.json) |
 | The Andesia Project | 279100 | [279100-the-andesia-project.json](./279100-the-andesia-project.json) |
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
@@ -4074,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Winter Solstice | 254478 | [254478-the-legend-of-zelda-winter-solstice.json](./254478-the-legend-of-zelda-winter-solstice.json) |
 | The Legendary Assassin KAL | 181785 | [181785-the-legendary-assassin-kal.json](./181785-the-legendary-assassin-kal.json) |
 | The Legendary Axe | 42121 | [42121-the-legendary-axe.json](./42121-the-legendary-axe.json) |
+| The Legendary Boy Run | 103913 | [103913-the-legendary-boy-run.json](./103913-the-legendary-boy-run.json) |
 | The Legendary Player - Make Your Reputation | 68612 | [68612-the-legendary-player-make-your-reputation.json](./68612-the-legendary-player-make-your-reputation.json) |
 | The Legendary Starfy | 20280 | [20280-the-legendary-starfy.json](./20280-the-legendary-starfy.json) |
 | The Legends of Maui | 289990 | [289990-the-legends-of-maui.json](./289990-the-legends-of-maui.json) |
@@ -7286,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki: The Masked Journey | 163850 | [163850-tiki-the-masked-journey.json](./163850-tiki-the-masked-journey.json) |
 | Tikutaku Concert | 148936 | [148936-tikutaku-concert.json](./148936-tikutaku-concert.json) |
 | Tilde and the 9 Mystical Glorbos | 394834 | [394834-tilde-and-the-9-mystical-glorbos.json](./394834-tilde-and-the-9-mystical-glorbos.json) |
+| Tile & Error | 103896 | [103896-tile-and-error.json](./103896-tile-and-error.json) |
 | Tile Cities 2 | 325630 | [325630-tile-cities-2.json](./325630-tile-cities-2.json) |
 | Tile Connect: Onet Match | 171473 | [171473-tile-connect-onet-match.json](./171473-tile-connect-onet-match.json) |
 | Tile Cross | 300723 | [300723-tile-cross.json](./300723-tile-cross.json) |
@@ -7613,6 +7617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tired of Being the Hero | 353294 | [353294-tired-of-being-the-hero.json](./353294-tired-of-being-the-hero.json) |
 | Tiredspace | 225717 | [225717-tiredspace.json](./225717-tiredspace.json) |
 | Tireless Pig | 219653 | [219653-tireless-pig.json](./219653-tireless-pig.json) |
+| Tiresmoke | 103862 | [103862-tiresmoke.json](./103862-tiresmoke.json) |
 | Tirkiss ~Princess Shade~ | 60530 | [60530-tirkiss-princess-shade.json](./60530-tirkiss-princess-shade.json) |
 | Tisuland | 382747 | [382747-tisuland.json](./382747-tisuland.json) |
 | Tit Tap Tingle | 135801 | [135801-tit-tap-tingle.json](./135801-tit-tap-tingle.json) |
@@ -9768,6 +9773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickster VR | 31766 | [31766-trickster-vr.json](./31766-trickster-vr.json) |
 | Trickster VR: Horde Attack! | 119759 | [119759-trickster-vr-horde-attack.json](./119759-trickster-vr-horde-attack.json) |
 | Tricky and the Dream Caster | 316626 | [316626-tricky-and-the-dream-caster.json](./316626-tricky-and-the-dream-caster.json) |
+| Tricky Challenge 3 | 103875 | [103875-tricky-challenge-3.json](./103875-tricky-challenge-3.json) |
 | Tricky Doors | 203573 | [203573-tricky-doors.json](./203573-tricky-doors.json) |
 | Tricky Geometry | 233075 | [233075-tricky-geometry.json](./233075-tricky-geometry.json) |
 | Tricky Horse Jump Racing Game | 240924 | [240924-tricky-horse-jump-racing-game.json](./240924-tricky-horse-jump-racing-game.json) |
@@ -9939,6 +9945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Resort Story | 208026 | [208026-tropical-resort-story.json](./208026-tropical-resort-story.json) |
 | Tropical Stormfront | 9442 | [9442-tropical-stormfront.json](./9442-tropical-stormfront.json) |
 | Tropical Treasure Hunt | 386882 | [386882-tropical-treasure-hunt.json](./386882-tropical-treasure-hunt.json) |
+| Tropical Treats | 103885 | [103885-tropical-treats.json](./103885-tropical-treats.json) |
 | Tropicalia | 138612 | [138612-tropicalia.json](./138612-tropicalia.json) |
 | Tropico 4: Apocalypse | 53848 | [53848-tropico-4-apocalypse.json](./53848-tropico-4-apocalypse.json) |
 | Tropico 4: Junta Military | 53851 | [53851-tropico-4-junta-military.json](./53851-tropico-4-junta-military.json) |
