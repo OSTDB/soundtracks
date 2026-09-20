@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Living Bubble | 391169 | [391169-night-of-the-living-bubble.json](./391169-night-of-the-living-bubble.json) |
 | Night of the Living Skurre | 367973 | [367973-night-of-the-living-skurre.json](./367973-night-of-the-living-skurre.json) |
 | Night of the loving dead | 161905 | [161905-night-of-the-loving-dead.json](./161905-night-of-the-loving-dead.json) |
+| Night of the Neighbor | 95851 | [95851-night-of-the-neighbor.json](./95851-night-of-the-neighbor.json) |
 | Night of the Scarecrows | 119752 | [119752-night-of-the-scarecrows.json](./119752-night-of-the-scarecrows.json) |
 | Night of the Stars | 332395 | [332395-night-of-the-stars.json](./332395-night-of-the-stars.json) |
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
