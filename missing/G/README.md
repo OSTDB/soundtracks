@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield's Escape | 63869 | [63869-garfields-escape.json](./63869-garfields-escape.json) |
 | Garfield's Gem | 63861 | [63861-garfields-gem.json](./63861-garfields-gem.json) |
 | Garfield's Nightmare | 67853 | [67853-garfields-nightmare.json](./67853-garfields-nightmare.json) |
+| Gargantua | 80241 | [80241-gargantua.json](./80241-gargantua.json) |
 | Gargolite | 183507 | [183507-gargolite.json](./183507-gargolite.json) |
 | Gargoyle Garden | 386883 | [386883-gargoyle-garden.json](./386883-gargoyle-garden.json) |
 | Gargoyle Ruins | 175331 | [175331-gargoyle-ruins.json](./175331-gargoyle-ruins.json) |
@@ -2439,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graphic Tower Defense | 348767 | [348767-graphic-tower-defense.json](./348767-graphic-tower-defense.json) |
 | Graphomata | 288878 | [288878-graphomata.json](./288878-graphomata.json) |
 | GraphSpacer | 68637 | [68637-graphspacer.json](./68637-graphspacer.json) |
+| GraphSpacer Black | 80243 | [80243-graphspacer-black.json](./80243-graphspacer-black.json) |
 | Grapple Dogs Collection | 331408 | [331408-grapple-dogs-collection.json](./331408-grapple-dogs-collection.json) |
 | Grapple Flow VR | 301826 | [301826-grapple-flow-vr.json](./301826-grapple-flow-vr.json) |
 | Grapple Gal | 219804 | [219804-grapple-gal.json](./219804-grapple-gal.json) |
@@ -2689,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Wave | 397088 | [397088-green-wave.json](./397088-green-wave.json) |
 | Green Wind | 209638 | [209638-green-wind.json](./209638-green-wind.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
+| Green's Xmas Collection | 80193 | [80193-greens-xmas-collection.json](./80193-greens-xmas-collection.json) |
 | GreenChess | 87293 | [87293-greenchess.json](./87293-greenchess.json) |
 | Greendog: The Beached Surfer Dude! | 45792 | [45792-greendog-the-beached-surfer-dude.json](./45792-greendog-the-beached-surfer-dude.json) |
 | Greener Grass Awaits | 266490 | [266490-greener-grass-awaits.json](./266490-greener-grass-awaits.json) |
