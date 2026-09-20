@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self Shot | 117806 | [117806-self-shot.json](./117806-self-shot.json) |
 | Self-knowledge VR | 114373 | [114373-self-knowledge-vr.json](./114373-self-knowledge-vr.json) |
 | Selfie : Sisters of the Amniotic Lens | 17176 | [17176-selfie-sisters-of-the-amniotic-lens.json](./17176-selfie-sisters-of-the-amniotic-lens.json) |
+| Selfie Games: A TV Party Game | 112149 | [112149-selfie-games-a-tv-party-game.json](./112149-selfie-games-a-tv-party-game.json) |
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
 | Selfpolis | 217289 | [217289-selfpolis.json](./217289-selfpolis.json) |
 | Selini | 159885 | [159885-selini.json](./159885-selini.json) |
@@ -2332,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
 | Shared Beauty | 270760 | [270760-shared-beauty.json](./270760-shared-beauty.json) |
 | Sharin no Kuni, Yuukyuu no Shounenshoujo | 79858 | [79858-sharin-no-kuni-yuukyuu-no-shounenshoujo.json](./79858-sharin-no-kuni-yuukyuu-no-shounenshoujo.json) |
+| Sharin no Kuni: The Girl Among the Sunflowers | 112146 | [112146-sharin-no-kuni-the-girl-among-the-sunflowers.json](./112146-sharin-no-kuni-the-girl-among-the-sunflowers.json) |
 | Sharin no Kuni: The Girl Among the Sunflowers | 7185 | [7185-sharin-no-kuni-the-girl-among-the-sunflowers.json](./7185-sharin-no-kuni-the-girl-among-the-sunflowers.json) |
 | Sharing Lights | 192902 | [192902-sharing-lights.json](./192902-sharing-lights.json) |
 | Sharique | 112267 | [112267-sharique.json](./112267-sharique.json) |
@@ -7276,6 +7278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SRS: Street Racing Syndicate | 49382 | [49382-srs-street-racing-syndicate.json](./49382-srs-street-racing-syndicate.json) |
 | SRX | 133368 | [133368-srx.json](./133368-srx.json) |
 | SS.Archives | 253433 | [253433-ss-archives.json](./253433-ss-archives.json) |
+| SSGN Covert Cruise Special Attack Strategy | 112159 | [112159-ssgn-covert-cruise-special-attack-strategy.json](./112159-ssgn-covert-cruise-special-attack-strategy.json) |
 | SSSM: In the Shadow of Jupiter | 221295 | [221295-sssm-in-the-shadow-of-jupiter.json](./221295-sssm-in-the-shadow-of-jupiter.json) |
 | Sssnakes | 84896 | [84896-sssnakes.json](./84896-sssnakes.json) |
 | SSX | 4179 | [4179-ssx.json](./4179-ssx.json) |
@@ -9729,6 +9732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hook Girl | 307969 | [307969-super-hook-girl.json](./307969-super-hook-girl.json) |
 | Super Hoopers | 234705 | [234705-super-hoopers.json](./234705-super-hoopers.json) |
 | Super Hoops 2 | 378784 | [378784-super-hoops-2.json](./378784-super-hoops-2.json) |
+| Super Horoscope Kanji Version | 112158 | [112158-super-horoscope-kanji-version.json](./112158-super-horoscope-kanji-version.json) |
 | Super Hot Pellet Muncher 2000 | 178613 | [178613-super-hot-pellet-muncher-2000.json](./178613-super-hot-pellet-muncher-2000.json) |
 | Super Hunchback | 157211 | [157211-super-hunchback.json](./157211-super-hunchback.json) |
 | Super Icarus | 291599 | [291599-super-icarus.json](./291599-super-icarus.json) |
@@ -10826,6 +10830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Attack | 87019 | [87019-swamp-attack.json](./87019-swamp-attack.json) |
 | Swamp Attack 2 | 194039 | [194039-swamp-attack-2.json](./194039-swamp-attack-2.json) |
 | Swamp Castle | 276461 | [276461-swamp-castle.json](./276461-swamp-castle.json) |
+| Swamp Defense 2 | 112113 | [112113-swamp-defense-2.json](./112113-swamp-defense-2.json) |
 | Swamp Fever | 47204 | [47204-swamp-fever.json](./47204-swamp-fever.json) |
 | Swamp Gas Visits the United States of America | 65517 | [65517-swamp-gas-visits-the-united-states-of-america.json](./65517-swamp-gas-visits-the-united-states-of-america.json) |
 | Swamp Hunt | 208347 | [208347-swamp-hunt.json](./208347-swamp-hunt.json) |
