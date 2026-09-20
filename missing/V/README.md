@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valfaris: Mecha Therion | 211760 | [211760-valfaris-mecha-therion.json](./211760-valfaris-mecha-therion.json) |
 | Valfaris: Signature Edition | 210634 | [210634-valfaris-signature-edition.json](./210634-valfaris-signature-edition.json) |
 | Valgrave: Immortal Plains | 122395 | [122395-valgrave-immortal-plains.json](./122395-valgrave-immortal-plains.json) |
+| Valhall | 107681 | [107681-valhall.json](./107681-valhall.json) |
 | Valhalla | 23053 | [23053-valhalla.json](./23053-valhalla.json) |
 | Valhalla | 313350 | [313350-valhalla.json](./313350-valhalla.json) |
 | Valhalla & the Fortress of Eve | 12810 | [12810-valhalla-and-the-fortress-of-eve.json](./12810-valhalla-and-the-fortress-of-eve.json) |
