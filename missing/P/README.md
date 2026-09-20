@@ -2766,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
 | Planet Coaster 2: Bonus Ride Collection | 371960 | [371960-planet-coaster-2-bonus-ride-collection.json](./371960-planet-coaster-2-bonus-ride-collection.json) |
 | Planet Coaster 2: Deluxe Edition | 331854 | [331854-planet-coaster-2-deluxe-edition.json](./331854-planet-coaster-2-deluxe-edition.json) |
+| Planet Coaster: Adventure Pack | 76963 | [76963-planet-coaster-adventure-pack.json](./76963-planet-coaster-adventure-pack.json) |
 | Planet Coaster: Back to the Future Time Machine Construction Kit | 168240 | [168240-planet-coaster-back-to-the-future-time-machine-construction-kit.json](./168240-planet-coaster-back-to-the-future-time-machine-construction-kit.json) |
 | Planet Coaster: Classic Rides Collection | 117487 | [117487-planet-coaster-classic-rides-collection.json](./117487-planet-coaster-classic-rides-collection.json) |
 | Planet Coaster: Deluxe Rides Collection | 173162 | [173162-planet-coaster-deluxe-rides-collection.json](./173162-planet-coaster-deluxe-rides-collection.json) |
@@ -3225,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poké Everworld Online | 389447 | [389447-poke-everworld-online.json](./389447-poke-everworld-online.json) |
 | Poke Mission 97 | 322761 | [322761-poke-mission-97.json](./322761-poke-mission-97.json) |
 | Poke646: Anniversary Edition | 136386 | [136386-poke646-anniversary-edition.json](./136386-poke646-anniversary-edition.json) |
+| Poked | 76965 | [76965-poked.json](./76965-poked.json) |
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
 | Pokémath! | 291987 | [291987-pokemath.json](./291987-pokemath.json) |
 | Pokémblem | 257412 | [257412-pokemblem.json](./257412-pokemblem.json) |
@@ -3525,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polegli | 57115 | [57115-polegli.json](./57115-polegli.json) |
 | Polgar: Magic Detective | 191175 | [191175-polgar-magic-detective.json](./191175-polgar-magic-detective.json) |
 | Police & Gang | 385740 | [385740-police-and-gang.json](./385740-police-and-gang.json) |
+| Police 911 | 77016 | [77016-police-911.json](./77016-police-911.json) |
 | Police Atv Offroad | 309872 | [309872-police-atv-offroad.json](./309872-police-atv-offroad.json) |
 | Police Car Drift Simulator | 223986 | [223986-police-car-drift-simulator.json](./223986-police-car-drift-simulator.json) |
 | Police Car SUV Simulator | 256563 | [256563-police-car-suv-simulator.json](./256563-police-car-suv-simulator.json) |
