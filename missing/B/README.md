@@ -2387,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billion Bounces | 382334 | [382334-billion-bounces.json](./382334-billion-bounces.json) |
 | Billion Egg Farm | 407445 | [407445-billion-egg-farm.json](./407445-billion-egg-farm.json) |
 | Billion Road | 109474 | [109474-billion-road.json](./109474-billion-road.json) |
+| Billionaire | 95202 | [95202-billionaire.json](./95202-billionaire.json) |
 | Billionaire Banshee | 141026 | [141026-billionaire-banshee.json](./141026-billionaire-banshee.json) |
 | Billionaire Life Simulator | 411583 | [411583-billionaire-life-simulator.json](./411583-billionaire-life-simulator.json) |
 | Billionworlds : Kingdoms | 153437 | [153437-billionworlds-kingdoms.json](./153437-billionworlds-kingdoms.json) |
@@ -2572,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Burglars | 176966 | [176966-birdie-burglars.json](./176966-birdie-burglars.json) |
 | Birdie Up | 334084 | [334084-birdie-up.json](./334084-birdie-up.json) |
 | BirdLingo: A birdsong learning game | 311260 | [311260-birdlingo-a-birdsong-learning-game.json](./311260-birdlingo-a-birdsong-learning-game.json) |
+| Birds & Balls | 95233 | [95233-birds-and-balls.json](./95233-birds-and-balls.json) |
 | Birds and Blocks | 147926 | [147926-birds-and-blocks.json](./147926-birds-and-blocks.json) |
 | Birds Are Not Real | 416681 | [416681-birds-are-not-real.json](./416681-birds-are-not-real.json) |
 | Birds Birds Birds | 107209 | [107209-birds-birds-birds.json](./107209-birds-birds-birds.json) |
@@ -3776,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boltcraft | 203914 | [203914-boltcraft.json](./203914-boltcraft.json) |
 | BoltHalt | 120785 | [120785-bolthalt.json](./120785-bolthalt.json) |
 | Bolty | 184579 | [184579-bolty.json](./184579-bolty.json) |
+| Boltzmann Brain | 95211 | [95211-boltzmann-brain.json](./95211-boltzmann-brain.json) |
 | Bomb Around | 332397 | [332397-bomb-around.json](./332397-bomb-around.json) |
 | Bomb Bomb Bomb | 248900 | [248900-bomb-bomb-bomb.json](./248900-bomb-bomb-bomb.json) |
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
@@ -3783,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
 | Bomb Disposal Expert | 68644 | [68644-bomb-disposal-expert.json](./68644-bomb-disposal-expert.json) |
 | Bomb Disposer | 210638 | [210638-bomb-disposer.json](./210638-bomb-disposer.json) |
+| Bomb Hunter MT | 95185 | [95185-bomb-hunter-mt.json](./95185-bomb-hunter-mt.json) |
 | Bomb It | 191087 | [191087-bomb-it.json](./191087-bomb-it.json) |
 | Bomb It 2 | 191097 | [191097-bomb-it-2.json](./191097-bomb-it-2.json) |
 | Bomb It 3 | 191114 | [191114-bomb-it-3.json](./191114-bomb-it-3.json) |
@@ -4298,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Heap | 233523 | [233523-box-heap.json](./233523-box-heap.json) |
 | Box It Up! Inc. | 306634 | [306634-box-it-up-inc.json](./306634-box-it-up-inc.json) |
 | Box Maze | 31758 | [31758-box-maze.json](./31758-box-maze.json) |
+| Box Maze Extreme | 95197 | [95197-box-maze-extreme.json](./95197-box-maze-extreme.json) |
 | Box of Limes | 182996 | [182996-box-of-limes.json](./182996-box-of-limes.json) |
 | Box Office Boss | 239303 | [239303-box-office-boss.json](./239303-box-office-boss.json) |
 | Box Office Game | 319225 | [319225-box-office-game.json](./319225-box-office-game.json) |
@@ -5264,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumbling Builders | 176971 | [176971-bumbling-builders.json](./176971-bumbling-builders.json) |
 | BumFight! | 69221 | [69221-bumfight.json](./69221-bumfight.json) |
 | Bump and Run Racing | 265396 | [265396-bump-and-run-racing.json](./265396-bump-and-run-racing.json) |
+| Bump Bump Bump | 95182 | [95182-bump-bump-bump.json](./95182-bump-bump-bump.json) |
 | Bump Jump | 210670 | [210670-bump-jump.json](./210670-bump-jump.json) |
 | Bump.io: Arena of Bumper | 106960 | [106960-bump-io-arena-of-bumper.json](./106960-bump-io-arena-of-bumper.json) |
 | Bumper | 31845 | [31845-bumper.json](./31845-bumper.json) |
