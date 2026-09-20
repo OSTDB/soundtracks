@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.A.L.K.E.R.: Wind of Time | 138799 | [138799-s-t-a-l-k-e-r-wind-of-time.json](./138799-s-t-a-l-k-e-r-wind-of-time.json) |
 | S.T.A.R.V.E. | 410263 | [410263-s-t-a-r-v-e.json](./410263-s-t-a-r-v-e.json) |
 | S.T.G: Strike Gunner | 39692 | [39692-s-t-g-strike-gunner.json](./39692-s-t-g-strike-gunner.json) |
+| S.T.R.E.T.C.H. | 100566 | [100566-s-t-r-e-t-c-h.json](./100566-s-t-r-e-t-c-h.json) |
 | S.U.M. Slay Uncool Monsters: Archer | 168247 | [168247-s-u-m-slay-uncool-monsters-archer.json](./168247-s-u-m-slay-uncool-monsters-archer.json) |
 | S.U.M. Slay Uncool Monsters: Assassin | 168248 | [168248-s-u-m-slay-uncool-monsters-assassin.json](./168248-s-u-m-slay-uncool-monsters-assassin.json) |
 | S.U.M. Slay Uncool Monsters: Paladin | 168250 | [168250-s-u-m-slay-uncool-monsters-paladin.json](./168250-s-u-m-slay-uncool-monsters-paladin.json) |
@@ -4106,6 +4107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepi Boi Can't Sleep | 206723 | [206723-sleepi-boi-cant-sleep.json](./206723-sleepi-boi-cant-sleep.json) |
 | Sleepin' Guy: Deluxe Edition | 188043 | [188043-sleepin-guy-deluxe-edition.json](./188043-sleepin-guy-deluxe-edition.json) |
 | Sleeping Beauty X : The Legend of Tales | 175984 | [175984-sleeping-beauty-x-the-legend-of-tales.json](./175984-sleeping-beauty-x-the-legend-of-tales.json) |
+| Sleeping Dawn VR | 100585 | [100585-sleeping-dawn-vr.json](./100585-sleeping-dawn-vr.json) |
 | Sleeping Dogs: Nightmare in North Point | 10872 | [10872-sleeping-dogs-nightmare-in-north-point.json](./10872-sleeping-dogs-nightmare-in-north-point.json) |
 | Sleeping Dogs: Year of the Snake | 10873 | [10873-sleeping-dogs-year-of-the-snake.json](./10873-sleeping-dogs-year-of-the-snake.json) |
 | Sleeping Flowers: Thread Curse | 233490 | [233490-sleeping-flowers-thread-curse.json](./233490-sleeping-flowers-thread-curse.json) |
@@ -4432,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Boy's: Toy Club | 124044 | [124044-smart-boys-toy-club.json](./124044-smart-boys-toy-club.json) |
 | Smart Boy's: Winter Wonderland | 124048 | [124048-smart-boys-winter-wonderland.json](./124048-smart-boys-winter-wonderland.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
+| Smart Educational Games for Mac | 100607 | [100607-smart-educational-games-for-mac.json](./100607-smart-educational-games-for-mac.json) |
 | Smart Fart | 149938 | [149938-smart-fart.json](./149938-smart-fart.json) |
 | Smart Frog | 246480 | [246480-smart-frog.json](./246480-smart-frog.json) |
 | Smart Frog | 358941 | [358941-smart-frog.json](./358941-smart-frog.json) |
@@ -4654,6 +4657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake vs Snake | 110801 | [110801-snake-vs-snake.json](./110801-snake-vs-snake.json) |
 | Snake-a-roni | 230937 | [230937-snake-a-roni.json](./230937-snake-a-roni.json) |
 | Snake-O-Tron | 288239 | [288239-snake-o-tron.json](./288239-snake-o-tron.json) |
+| Snake, snake, snake! | 100586 | [100586-snake-snake-snake.json](./100586-snake-snake-snake.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
 | Snakebird Complete | 239519 | [239519-snakebird-complete.json](./239519-snakebird-complete.json) |
@@ -6853,6 +6857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiiiders | 61596 | [61596-spiiiders.json](./61596-spiiiders.json) |
 | Spike | 70349 | [70349-spike.json](./70349-spike.json) |
 | Spike a Love Story | 391207 | [391207-spike-a-love-story.json](./391207-spike-a-love-story.json) |
+| Spike City | 100558 | [100558-spike-city.json](./100558-spike-city.json) |
 | Spike Hoppin' | 41984 | [41984-spike-hoppin.json](./41984-spike-hoppin.json) |
 | Spikes Are Dangerous | 118434 | [118434-spikes-are-dangerous.json](./118434-spikes-are-dangerous.json) |
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
