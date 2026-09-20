@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geon Cube | 50636 | [50636-geon-cube.json](./50636-geon-cube.json) |
 | Geon: Emotions | 20376 | [20376-geon-emotions.json](./20376-geon-emotions.json) |
 | Geophobia | 271307 | [271307-geophobia.json](./271307-geophobia.json) |
+| Geopod XE | 93384 | [93384-geopod-xe.json](./93384-geopod-xe.json) |
 | Geopoesis: Eos | 197782 | [197782-geopoesis-eos.json](./197782-geopoesis-eos.json) |
 | Geopogo Cities | 393468 | [393468-geopogo-cities.json](./393468-geopogo-cities.json) |
 | Geopolitics | 181229 | [181229-geopolitics.json](./181229-geopolitics.json) |
@@ -2202,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gourds Up | 311628 | [311628-gourds-up.json](./311628-gourds-up.json) |
 | Gourgarion Incubus | 398348 | [398348-gourgarion-incubus.json](./398348-gourgarion-incubus.json) |
 | Gourmet | 314492 | [314492-gourmet.json](./314492-gourmet.json) |
+| Gourmet | 93359 | [93359-gourmet.json](./93359-gourmet.json) |
 | Gourmet Chef | 67336 | [67336-gourmet-chef.json](./67336-gourmet-chef.json) |
 | Gourmet Warriors | 42592 | [42592-gourmet-warriors.json](./42592-gourmet-warriors.json) |
 | GoVenture Micro Business | 31865 | [31865-goventure-micro-business.json](./31865-goventure-micro-business.json) |
@@ -2620,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Field Silver Tree | 117689 | [117689-green-field-silver-tree.json](./117689-green-field-silver-tree.json) |
 | Green Hell VR | 152223 | [152223-green-hell-vr.json](./152223-green-hell-vr.json) |
 | Green Hill Zone 2.5D | 332550 | [332550-green-hill-zone-2-5d.json](./332550-green-hill-zone-2-5d.json) |
+| Green House | 93380 | [93380-green-house.json](./93380-green-house.json) |
 | Green Inferno | 410929 | [410929-green-inferno.json](./410929-green-inferno.json) |
 | Green Lantern Battle Cards | 64339 | [64339-green-lantern-battle-cards.json](./64339-green-lantern-battle-cards.json) |
 | Green Lantern: Rise of the Manhunters | 4896 | [4896-green-lantern-rise-of-the-manhunters.json](./4896-green-lantern-rise-of-the-manhunters.json) |
@@ -3004,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guards of the Gate | 90168 | [90168-guards-of-the-gate.json](./90168-guards-of-the-gate.json) |
 | Guards!: Vanguard Supporter Pack | 289322 | [289322-guards-vanguard-supporter-pack.json](./289322-guards-vanguard-supporter-pack.json) |
 | Gubble | 170382 | [170382-gubble.json](./170382-gubble.json) |
+| Gubble 2 | 93338 | [93338-gubble-2.json](./93338-gubble-2.json) |
 | Gudetama Tap! | 102118 | [102118-gudetama-tap.json](./102118-gudetama-tap.json) |
 | Gudetama: Okawari Ikagassuka | 57711 | [57711-gudetama-okawari-ikagassuka.json](./57711-gudetama-okawari-ikagassuka.json) |
 | Gudrun's Solitaire Duel | 340403 | [340403-gudruns-solitaire-duel.json](./340403-gudruns-solitaire-duel.json) |
