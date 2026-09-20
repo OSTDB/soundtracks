@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neolithic Dawn | 224671 | [224671-neolithic-dawn.json](./224671-neolithic-dawn.json) |
 | Neomorph | 127679 | [127679-neomorph.json](./127679-neomorph.json) |
 | Neon | 172056 | [172056-neon.json](./172056-neon.json) |
+| Neon | 78351 | [78351-neon.json](./78351-neon.json) |
 | Neon Abyss | 116100 | [116100-neon-abyss.json](./116100-neon-abyss.json) |
 | Neon Abyss 2 | 325279 | [325279-neon-abyss-2.json](./325279-neon-abyss-2.json) |
 | Neon Baller 0.1 | 151706 | [151706-neon-baller-0-1.json](./151706-neon-baller-0-1.json) |
@@ -852,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neonoen | 120782 | [120782-neonoen.json](./120782-neonoen.json) |
 | Neonsomnia | 257087 | [257087-neonsomnia.json](./257087-neonsomnia.json) |
 | NeonTunnel | 176365 | [176365-neontunnel.json](./176365-neontunnel.json) |
+| Neopets Petpet Adventures: The Wand of Wishing | 78340 | [78340-neopets-petpet-adventures-the-wand-of-wishing.json](./78340-neopets-petpet-adventures-the-wand-of-wishing.json) |
 | Neopets: Codestone Quest | 210104 | [210104-neopets-codestone-quest.json](./210104-neopets-codestone-quest.json) |
 | Neopets: Island Builders | 254592 | [254592-neopets-island-builders.json](./254592-neopets-island-builders.json) |
 | Neopets: Mega Mini Games Collection - The Neopian Arcade Odyssey | 386211 | [386211-neopets-mega-mini-games-collection-the-neopian-arcade-odyssey.json](./386211-neopets-mega-mini-games-collection-the-neopian-arcade-odyssey.json) |
