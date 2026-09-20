@@ -7526,6 +7526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Crown | 401562 | [401562-tiny-crown.json](./401562-tiny-crown.json) |
 | Tiny Dangerous Dungeons Remake | 333369 | [333369-tiny-dangerous-dungeons-remake.json](./333369-tiny-dangerous-dungeons-remake.json) |
 | Tiny Defender | 149538 | [149538-tiny-defender.json](./149538-tiny-defender.json) |
+| Tiny Defense 2 | 102602 | [102602-tiny-defense-2.json](./102602-tiny-defense-2.json) |
 | Tiny Defense 2 - Mini Robot Wars | 105764 | [105764-tiny-defense-2-mini-robot-wars.json](./105764-tiny-defense-2-mini-robot-wars.json) |
 | Tiny Derby | 119538 | [119538-tiny-derby.json](./119538-tiny-derby.json) |
 | Tiny Devil Adventure | 158648 | [158648-tiny-devil-adventure.json](./158648-tiny-devil-adventure.json) |
@@ -8856,6 +8857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tractor Farming Simulator 3D | 300844 | [300844-tractor-farming-simulator-3d.json](./300844-tractor-farming-simulator-3d.json) |
 | Tractor Journey | 223154 | [223154-tractor-journey.json](./223154-tractor-journey.json) |
 | Tractor Racers | 392288 | [392288-tractor-racers.json](./392288-tractor-racers.json) |
+| Tractor Racing ( 3D Heavy Monster Truck Race Game on Dirt Track ) | 102577 | [102577-tractor-racing-3d-heavy-monster-truck-race-game-on-dirt-track.json](./102577-tractor-racing-3d-heavy-monster-truck-race-game-on-dirt-track.json) |
 | Trade And Fight | 306366 | [306366-trade-and-fight.json](./306366-trade-and-fight.json) |
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
 | Trade Conquest | 326281 | [326281-trade-conquest.json](./326281-trade-conquest.json) |
@@ -10050,6 +10052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Reporter | 110292 | [110292-true-reporter.json](./110292-true-reporter.json) |
 | True Swing Golf | 20493 | [20493-true-swing-golf.json](./20493-true-swing-golf.json) |
 | True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
+| True Wishes | 102622 | [102622-true-wishes.json](./102622-true-wishes.json) |
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
 | Trulon | 197766 | [197766-trulon.json](./197766-trulon.json) |
 | Trump and Virus | 393451 | [393451-trump-and-virus.json](./393451-trump-and-virus.json) |
