@@ -607,9 +607,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Music Star | 229957 | [229957-tamagotchi-music-star.json](./229957-tamagotchi-music-star.json) |
 | Tamagotchi Nano Colorful Detective Conan | 304044 | [304044-tamagotchi-nano-colorful-detective-conan.json](./304044-tamagotchi-nano-colorful-detective-conan.json) |
 | Tamagotchi Nano Colorful Hololive Fantasitchi | 320984 | [320984-tamagotchi-nano-colorful-hololive-fantasitchi.json](./320984-tamagotchi-nano-colorful-hololive-fantasitchi.json) |
+| Tamagotchi no Appare! Niji-Venture | 77623 | [77623-tamagotchi-no-appare-niji-venture.json](./77623-tamagotchi-no-appare-niji-venture.json) |
+| Tamagotchi no Furi Furi Kagekidan! | 77620 | [77620-tamagotchi-no-furi-furi-kagekidan.json](./77620-tamagotchi-no-furi-furi-kagekidan.json) |
+| Tamagotchi no Kira-kira Omisecchi | 77625 | [77625-tamagotchi-no-kira-kira-omisecchi.json](./77625-tamagotchi-no-kira-kira-omisecchi.json) |
+| Tamagotchi no Narikiri Challenge | 77626 | [77626-tamagotchi-no-narikiri-challenge.json](./77626-tamagotchi-no-narikiri-challenge.json) |
+| Tamagotchi no Narikiri Channel | 77624 | [77624-tamagotchi-no-narikiri-channel.json](./77624-tamagotchi-no-narikiri-channel.json) |
+| Tamagotchi no Pichi Pichi Omisecchi | 77622 | [77622-tamagotchi-no-pichi-pichi-omisecchi.json](./77622-tamagotchi-no-pichi-pichi-omisecchi.json) |
 | Tamagotchi no Pika Pika Daitouryou! | 20652 | [20652-tamagotchi-no-pika-pika-daitouryou.json](./20652-tamagotchi-no-pika-pika-daitouryou.json) |
 | Tamagotchi Town | 37792 | [37792-tamagotchi-town.json](./37792-tamagotchi-town.json) |
 | Tamagotchi: Party On! | 5211 | [5211-tamagotchi-party-on.json](./5211-tamagotchi-party-on.json) |
+| Tamagotchi! Seishun no Dream School | 77621 | [77621-tamagotchi-seishun-no-dream-school.json](./77621-tamagotchi-seishun-no-dream-school.json) |
 | Tamak. | 263593 | [263593-tamak.json](./263593-tamak.json) |
 | Tamako | 366315 | [366315-tamako.json](./366315-tamako.json) |
 | Tamara In The Forsaken Dungeon | 276284 | [276284-tamara-in-the-forsaken-dungeon.json](./276284-tamara-in-the-forsaken-dungeon.json) |
@@ -6005,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Very Big Cave Adventure | 26477 | [26477-the-very-big-cave-adventure.json](./26477-the-very-big-cave-adventure.json) |
 | The Very Idle Game | 310750 | [310750-the-very-idle-game.json](./310750-the-very-idle-game.json) |
 | The very last farm | 185020 | [185020-the-very-last-farm.json](./185020-the-very-last-farm.json) |
+| The very long walk | 77655 | [77655-the-very-long-walk.json](./77655-the-very-long-walk.json) |
 | The VHS Paradise | 281553 | [281553-the-vhs-paradise.json](./281553-the-vhs-paradise.json) |
 | The Vice Squad | 47252 | [47252-the-vice-squad.json](./47252-the-vice-squad.json) |
 | The Victor Initiative | 320732 | [320732-the-victor-initiative.json](./320732-the-victor-initiative.json) |
@@ -7974,6 +7982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Highway Battle | 20797 | [20797-tokyo-highway-battle.json](./20797-tokyo-highway-battle.json) |
 | Tokyo Hosto | 35767 | [35767-tokyo-hosto.json](./35767-tokyo-hosto.json) |
 | Tokyo Hotel | 379964 | [379964-tokyo-hotel.json](./379964-tokyo-hotel.json) |
+| Tokyo Kowloon | 77679 | [77679-tokyo-kowloon.json](./77679-tokyo-kowloon.json) |
 | Tokyo Love Hustle | 239872 | [239872-tokyo-love-hustle.json](./239872-tokyo-love-hustle.json) |
 | Tokyo Majin Gakuen | 91924 | [91924-tokyo-majin-gakuen.json](./91924-tokyo-majin-gakuen.json) |
 | Tokyo Majin Gakuen: Gehoujou | 91926 | [91926-tokyo-majin-gakuen-gehoujou.json](./91926-tokyo-majin-gakuen-gehoujou.json) |
@@ -9851,6 +9860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trialspire | 397782 | [397782-trialspire.json](./397782-trialspire.json) |
 | Trianga's Project: Battle Splash 2.0 - Earth's Legacy M.A.I.A | 289466 | [289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json](./289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json) |
 | Triangle Defense | 371970 | [371970-triangle-defense.json](./371970-triangle-defense.json) |
+| Triangle Heart | 77678 | [77678-triangle-heart.json](./77678-triangle-heart.json) |
 | Triangle Legacy Revolution | 112317 | [112317-triangle-legacy-revolution.json](./112317-triangle-legacy-revolution.json) |
 | Triangle Project Otome Visual Novels | 116382 | [116382-triangle-project-otome-visual-novels.json](./116382-triangle-project-otome-visual-novels.json) |
 | Triangle Strategy | 143610 | [143610-triangle-strategy.json](./143610-triangle-strategy.json) |
