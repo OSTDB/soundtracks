@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering | 242077 | [242077-wandering.json](./242077-wandering.json) |
 | Wandering Dreams of Yuri | 339131 | [339131-wandering-dreams-of-yuri.json](./339131-wandering-dreams-of-yuri.json) |
 | Wandering Duelist | 215670 | [215670-wandering-duelist.json](./215670-wandering-duelist.json) |
+| Wandering Gem Jockeying | 121463 | [121463-wandering-gem-jockeying.json](./121463-wandering-gem-jockeying.json) |
 | Wandering Maung | 381682 | [381682-wandering-maung.json](./381682-wandering-maung.json) |
 | Wandering Planet: Prelude | 298599 | [298599-wandering-planet-prelude.json](./298599-wandering-planet-prelude.json) |
 | Wandering Trails: A Hiking Game | 152742 | [152742-wandering-trails-a-hiking-game.json](./152742-wandering-trails-a-hiking-game.json) |
@@ -1071,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet Warfare | 109679 | [109679-wet-warfare.json](./109679-wet-warfare.json) |
 | Wet-Dry World | 308233 | [308233-wet-dry-world.json](./308233-wet-dry-world.json) |
 | WetBread | 222934 | [222934-wetbread.json](./222934-wetbread.json) |
+| Wetpants | 121471 | [121471-wetpants.json](./121471-wetpants.json) |
 | Wettop | 358871 | [358871-wettop.json](./358871-wettop.json) |
 | Wetware | 142259 | [142259-wetware.json](./142259-wetware.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
@@ -2792,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K17: New Moves Pack | 168354 | [168354-wwe-2k17-new-moves-pack.json](./168354-wwe-2k17-new-moves-pack.json) |
 | WWE 2K17: Nxt Edition | 205827 | [205827-wwe-2k17-nxt-edition.json](./205827-wwe-2k17-nxt-edition.json) |
 | WWE 2K17: NXT Enhancement Pack | 168351 | [168351-wwe-2k17-nxt-enhancement-pack.json](./168351-wwe-2k17-nxt-enhancement-pack.json) |
+| WWE 2K20: Deluxe Edition | 121437 | [121437-wwe-2k20-deluxe-edition.json](./121437-wwe-2k20-deluxe-edition.json) |
 | WWE 2K20: SmackDown! 20th Anniversary Edition | 136276 | [136276-wwe-2k20-smackdown-20th-anniversary-edition.json](./136276-wwe-2k20-smackdown-20th-anniversary-edition.json) |
 | WWE 2K21 | 132815 | [132815-wwe-2k21.json](./132815-wwe-2k21.json) |
 | WWE 2K22: Deluxe Edition | 188127 | [188127-wwe-2k22-deluxe-edition.json](./188127-wwe-2k22-deluxe-edition.json) |
