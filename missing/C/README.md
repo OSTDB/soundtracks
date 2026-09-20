@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Cartoon Summer Resort | 130744 | [130744-cartoon-cartoon-summer-resort.json](./130744-cartoon-cartoon-summer-resort.json) |
 | Cartoon Collection | 53777 | [53777-cartoon-collection.json](./53777-cartoon-collection.json) |
 | Cartoon Dungeon VIP | 95865 | [95865-cartoon-dungeon-vip.json](./95865-cartoon-dungeon-vip.json) |
+| Cartoon Kingdom | 66957 | [66957-cartoon-kingdom.json](./66957-cartoon-kingdom.json) |
 | Cartoon Network Collection: Limited Edition | 49362 | [49362-cartoon-network-collection-limited-edition.json](./49362-cartoon-network-collection-limited-edition.json) |
 | Cartoon Network Journeys VR | 124165 | [124165-cartoon-network-journeys-vr.json](./124165-cartoon-network-journeys-vr.json) |
 | Cartoon Network Racing | 2785 | [2785-cartoon-network-racing.json](./2785-cartoon-network-racing.json) |
@@ -1967,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chelsea of the South Sea Islands | 309339 | [309339-chelsea-of-the-south-sea-islands.json](./309339-chelsea-of-the-south-sea-islands.json) |
 | Chemical Cubes | 62698 | [62698-chemical-cubes.json](./62698-chemical-cubes.json) |
 | Chemical Existence | 222305 | [222305-chemical-existence.json](./222305-chemical-existence.json) |
+| Chemist Tycoon | 66959 | [66959-chemist-tycoon.json](./66959-chemist-tycoon.json) |
 | Chemistry World | 207333 | [207333-chemistry-world.json](./207333-chemistry-world.json) |
 | Cheney Wood the Ultimate Revenge | 111499 | [111499-cheney-wood-the-ultimate-revenge.json](./111499-cheney-wood-the-ultimate-revenge.json) |
 | Chenmo de Xishuai | 250445 | [250445-chenmo-de-xishuai.json](./250445-chenmo-de-xishuai.json) |
@@ -2707,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciggy World | 314299 | [314299-ciggy-world.json](./314299-ciggy-world.json) |
 | Cinco Noches en Casa Rosada 2 | 353900 | [353900-cinco-noches-en-casa-rosada-2.json](./353900-cinco-noches-en-casa-rosada-2.json) |
 | Cinder City | 361814 | [361814-cinder-city.json](./361814-cinder-city.json) |
+| Cinderella | 66954 | [66954-cinderella.json](./66954-cinderella.json) |
 | Cinderella Nine in August | 82121 | [82121-cinderella-nine-in-august.json](./82121-cinderella-nine-in-august.json) |
 | Cinderella Phenomenon | 30030 | [30030-cinderella-phenomenon.json](./30030-cinderella-phenomenon.json) |
 | Cinderella: An Interactive Fairytale | 114183 | [114183-cinderella-an-interactive-fairytale.json](./114183-cinderella-an-interactive-fairytale.json) |
@@ -2898,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Slicker | 12985 | [12985-city-slicker.json](./12985-city-slicker.json) |
 | City Slickers | 250647 | [250647-city-slickers.json](./250647-city-slickers.json) |
 | City Sniper | 151007 | [151007-city-sniper.json](./151007-city-sniper.json) |
+| City Soccer Challenge | 66956 | [66956-city-soccer-challenge.json](./66956-city-soccer-challenge.json) |
 | City States: Medieval | 381155 | [381155-city-states-medieval.json](./381155-city-states-medieval.json) |
 | City Super Hero 3D: Flying Legend Warriors Deluxe Simulator | 212276 | [212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json](./212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json) |
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
@@ -3325,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Rush: Ultimate Guys - Platinum Edition | 241399 | [241399-clumsy-rush-ultimate-guys-platinum-edition.json](./241399-clumsy-rush-ultimate-guys-platinum-edition.json) |
 | Clumsy Rush: Ultimate Guys - Special Edition | 223571 | [223571-clumsy-rush-ultimate-guys-special-edition.json](./223571-clumsy-rush-ultimate-guys-special-edition.json) |
 | Clumsy Rush: Ultimate Guys - Superb Edition | 271504 | [271504-clumsy-rush-ultimate-guys-superb-edition.json](./271504-clumsy-rush-ultimate-guys-superb-edition.json) |
+| Clumsy Shumsy | 66958 | [66958-clumsy-shumsy.json](./66958-clumsy-shumsy.json) |
 | Cluppets | 224557 | [224557-cluppets.json](./224557-cluppets.json) |
 | Cluster | 182549 | [182549-cluster.json](./182549-cluster.json) |
 | Cluster Buster | 264305 | [264305-cluster-buster.json](./264305-cluster-buster.json) |
@@ -4425,6 +4430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Kid Cody: Season 3 - Episode 09 | 312007 | [312007-cool-kid-cody-season-3-episode-09.json](./312007-cool-kid-cody-season-3-episode-09.json) |
 | Cool People Club | 211762 | [211762-cool-people-club.json](./211762-cool-people-club.json) |
 | Cool Pizza | 172700 | [172700-cool-pizza.json](./172700-cool-pizza.json) |
+| Cool Shot | 66955 | [66955-cool-shot.json](./66955-cool-shot.json) |
 | Cool Spot | 2621 | [2621-cool-spot.json](./2621-cool-spot.json) |
 | Cool Thief Guy | 398316 | [398316-cool-thief-guy.json](./398316-cool-thief-guy.json) |
 | Cooler Super Mario Bros. Land | 394347 | [394347-cooler-super-mario-bros-land.json](./394347-cooler-super-mario-bros-land.json) |
@@ -4884,6 +4890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab Raid Tactics | 247749 | [247749-crab-raid-tactics.json](./247749-crab-raid-tactics.json) |
 | Crab-Ball | 370111 | [370111-crab-ball.json](./370111-crab-ball.json) |
 | CrabbleUp | 295018 | [295018-crabbleup.json](./295018-crabbleup.json) |
+| Crabby Adventure | 66953 | [66953-crabby-adventure.json](./66953-crabby-adventure.json) |
 | Crabby Beach | 191830 | [191830-crabby-beach.json](./191830-crabby-beach.json) |
 | Crabby Fishes | 335367 | [335367-crabby-fishes.json](./335367-crabby-fishes.json) |
 | Crabity | 301807 | [301807-crabity.json](./301807-crabity.json) |
