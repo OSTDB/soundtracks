@@ -2531,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Zero | 319356 | [319356-chroma-zero.json](./319356-chroma-zero.json) |
 | Chroma+Elektron | 199564 | [199564-chroma-elektron.json](./199564-chroma-elektron.json) |
 | Chromacell | 290540 | [290540-chromacell.json](./290540-chromacell.json) |
+| Chromadrome | 73511 | [73511-chromadrome.json](./73511-chromadrome.json) |
 | Chromahertz | 211739 | [211739-chromahertz.json](./211739-chromahertz.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
 | Chromatic | 200719 | [200719-chromatic.json](./200719-chromatic.json) |
@@ -3458,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Run | 74470 | [74470-coffee-run.json](./74470-coffee-run.json) |
 | Coffee Shop Tycoon | 35274 | [35274-coffee-shop-tycoon.json](./35274-coffee-shop-tycoon.json) |
 | Coffee Talk | 106847 | [106847-coffee-talk.json](./106847-coffee-talk.json) |
+| Coffee Tycoon | 73561 | [73561-coffee-tycoon.json](./73561-coffee-tycoon.json) |
 | Coffee VendoR | 113685 | [113685-coffee-vendor.json](./113685-coffee-vendor.json) |
 | Coffee with Prescilla | 169428 | [169428-coffee-with-prescilla.json](./169428-coffee-with-prescilla.json) |
 | Coffee, Plis | 257964 | [257964-coffee-plis.json](./257964-coffee-plis.json) |
@@ -5586,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruel | 282123 | [282123-cruel.json](./282123-cruel.json) |
 | Cruel Jewels | 261327 | [261327-cruel-jewels.json](./261327-cruel-jewels.json) |
 | Cruel Reality: A Horrible Dream | 249868 | [249868-cruel-reality-a-horrible-dream.json](./249868-cruel-reality-a-horrible-dream.json) |
+| Cruel World | 73545 | [73545-cruel-world.json](./73545-cruel-world.json) |
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
