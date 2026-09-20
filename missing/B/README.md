@@ -1993,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben and Holly: Big Star Fun | 109009 | [109009-ben-and-holly-big-star-fun.json](./109009-ben-and-holly-big-star-fun.json) |
 | Ben Bero Beh | 40265 | [40265-ben-bero-beh.json](./40265-ben-bero-beh.json) |
 | Ben Jordan: Paranormal Investigator - Case 1: In Search of the Skunk-Ape | 78058 | [78058-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape.json](./78058-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape.json) |
+| Ben Jordan: Paranormal Investigator - Case 2: The Lost Galleon of the Salton Sea | 71216 | [71216-ben-jordan-paranormal-investigator-case-2-the-lost-galleon-of-the-salton-sea.json](./71216-ben-jordan-paranormal-investigator-case-2-the-lost-galleon-of-the-salton-sea.json) |
 | Ben Jordan: Paranormal Investigator - Case 4: Horror at Number 50 | 70981 | [70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json](./70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json) |
 | Ben Jordan: Paranormal Investigator - Case 6: Scourge of the Sea People | 73276 | [73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json](./73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json) |
 | Ben Pixel 10: Raging Fist | 193864 | [193864-ben-pixel-10-raging-fist.json](./193864-ben-pixel-10-raging-fist.json) |
