@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venus One: Galactic Overlords | 253602 | [253602-venus-one-galactic-overlords.json](./253602-venus-one-galactic-overlords.json) |
 | Venus Puzzles | 272572 | [272572-venus-puzzles.json](./272572-venus-puzzles.json) |
 | Venus Scrumble | 174734 | [174734-venus-scrumble.json](./174734-venus-scrumble.json) |
+| Venus the Flytrap | 69560 | [69560-venus-the-flytrap.json](./69560-venus-the-flytrap.json) |
 | Venus Vacation Prism: Dead or Alive Xtreme | 318023 | [318023-venus-vacation-prism-dead-or-alive-xtreme.json](./318023-venus-vacation-prism-dead-or-alive-xtreme.json) |
 | Venus Voyager 2 | 292882 | [292882-venus-voyager-2.json](./292882-venus-voyager-2.json) |
 | Vera Blanc: Ghost in the Castle | 142852 | [142852-vera-blanc-ghost-in-the-castle.json](./142852-vera-blanc-ghost-in-the-castle.json) |
