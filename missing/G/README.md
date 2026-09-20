@@ -1426,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gliderman | 202752 | [202752-gliderman.json](./202752-gliderman.json) |
 | Glides | 100610 | [100610-glides.json](./100610-glides.json) |
 | Gliding Square | 207893 | [207893-gliding-square.json](./207893-gliding-square.json) |
+| Glight | 86559 | [86559-glight.json](./86559-glight.json) |
 | Glimby | 246412 | [246412-glimby.json](./246412-glimby.json) |
 | Glimpo | 414380 | [414380-glimpo.json](./414380-glimpo.json) |
 | Glimpse | 235988 | [235988-glimpse.json](./235988-glimpse.json) |
@@ -2618,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed's Grub | 349365 | [349365-greeds-grub.json](./349365-greeds-grub.json) |
 | Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
 | Greedy Dungeon | 153395 | [153395-greedy-dungeon.json](./153395-greedy-dungeon.json) |
+| Greedy Dungeons | 86521 | [86521-greedy-dungeons.json](./86521-greedy-dungeons.json) |
 | Greedy Frog | 55120 | [55120-greedy-frog.json](./55120-greedy-frog.json) |
 | Greedy Guns | 40556 | [40556-greedy-guns.json](./40556-greedy-guns.json) |
 | Greedy in the Dark | 272349 | [272349-greedy-in-the-dark.json](./272349-greedy-in-the-dark.json) |
@@ -2786,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The White Lady - Collector's Edition | 250594 | [250594-grim-tales-the-white-lady-collectors-edition.json](./250594-grim-tales-the-white-lady-collectors-edition.json) |
 | Grim Tales: Threads of Destiny | 153388 | [153388-grim-tales-threads-of-destiny.json](./153388-grim-tales-threads-of-destiny.json) |
 | Grim Tales: Trace in Time | 187964 | [187964-grim-tales-trace-in-time.json](./187964-grim-tales-trace-in-time.json) |
+| Grim Wanderings | 86552 | [86552-grim-wanderings.json](./86552-grim-wanderings.json) |
 | Grim-World: Survival | 253447 | [253447-grim-world-survival.json](./253447-grim-world-survival.json) |
 | Grim's Gambit | 280936 | [280936-grims-gambit.json](./280936-grims-gambit.json) |
 | Grimace Run | 192796 | [192796-grimace-run.json](./192796-grimace-run.json) |
