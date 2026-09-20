@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Bites Make & Bake: Cooking Dessert Kids Game | 109012 | [109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json](./109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json) |
 | Cake Kills Candy | 184988 | [184988-cake-kills-candy.json](./184988-cake-kills-candy.json) |
 | Cake Laboratory | 114184 | [114184-cake-laboratory.json](./114184-cake-laboratory.json) |
+| Cake Maker Deluxe | 103151 | [103151-cake-maker-deluxe.json](./103151-cake-maker-deluxe.json) |
 | Cake Shop | 109015 | [109015-cake-shop.json](./109015-cake-shop.json) |
 | Cake Shop 3 | 410232 | [410232-cake-shop-3.json](./410232-cake-shop-3.json) |
 | Cake Up | 335273 | [335273-cake-up.json](./335273-cake-up.json) |
@@ -3329,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Romantic | 105104 | [105104-code-romantic.json](./105104-code-romantic.json) |
 | Code Tracer | 124227 | [124227-code-tracer.json](./124227-code-tracer.json) |
 | Code Tycoon | 397058 | [397058-code-tycoon.json](./397058-code-tycoon.json) |
+| Code Vein: Collector's Edition | 103212 | [103212-code-vein-collectors-edition.json](./103212-code-vein-collectors-edition.json) |
 | Code Vein: Hellfire Knight | 129134 | [129134-code-vein-hellfire-knight.json](./129134-code-vein-hellfire-knight.json) |
 | Code Zero | 161896 | [161896-code-zero.json](./161896-code-zero.json) |
 | Code Zodiac | 251853 | [251853-code-zodiac.json](./251853-code-zodiac.json) |
@@ -4879,6 +4881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Drive 3 | 153824 | [153824-crash-drive-3.json](./153824-crash-drive-3.json) |
 | Crash Dummy | 35855 | [35855-crash-dummy.json](./35855-crash-dummy.json) |
 | Crash Effects Inc. | 217514 | [217514-crash-effects-inc.json](./217514-crash-effects-inc.json) |
+| Crash Fortress! + | 103173 | [103173-crash-fortress.json](./103173-crash-fortress.json) |
 | Crash Forts 2 | 205273 | [205273-crash-forts-2.json](./205273-crash-forts-2.json) |
 | Crash Metal: Cyber Racing Punk Cars | 269858 | [269858-crash-metal-cyber-racing-punk-cars.json](./269858-crash-metal-cyber-racing-punk-cars.json) |
 | Crash Mole | 223551 | [223551-crash-mole.json](./223551-crash-mole.json) |
@@ -5048,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Vacation | 310553 | [310553-crazy-vacation.json](./310553-crazy-vacation.json) |
 | Crazy Valet | 40719 | [40719-crazy-valet.json](./40719-crazy-valet.json) |
 | Crazy Wheel Rider HD | 213395 | [213395-crazy-wheel-rider-hd.json](./213395-crazy-wheel-rider-hd.json) |
+| Crazy Wheels | 103161 | [103161-crazy-wheels.json](./103161-crazy-wheels.json) |
 | Crazy World of Caleb | 302946 | [302946-crazy-world-of-caleb.json](./302946-crazy-world-of-caleb.json) |
 | Crazy-Spy | 58772 | [58772-crazy-spy.json](./58772-crazy-spy.json) |
 | CrazyCar | 93612 | [93612-crazycar.json](./93612-crazycar.json) |
