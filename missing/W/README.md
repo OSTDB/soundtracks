@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warera Mitsurin Tankentai!! | 179034 | [179034-warera-mitsurin-tankentai.json](./179034-warera-mitsurin-tankentai.json) |
 | Warface: Chernobyl | 114759 | [114759-warface-chernobyl.json](./114759-warface-chernobyl.json) |
 | Warface: Global Operations | 172778 | [172778-warface-global-operations.json](./172778-warface-global-operations.json) |
+| WarFallen | 82438 | [82438-warfallen.json](./82438-warfallen.json) |
 | Warfare 1917 | 61588 | [61588-warfare-1917.json](./61588-warfare-1917.json) |
 | Warfare 1944 | 103393 | [103393-warfare-1944.json](./103393-warfare-1944.json) |
 | Warfare 1944 | 61589 | [61589-warfare-1944.json](./61589-warfare-1944.json) |
@@ -1935,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Hunter | 218158 | [218158-witch-hunter.json](./218158-witch-hunter.json) |
 | Witch Hunters: Full Moon Ceremony - Collector's Edition | 74350 | [74350-witch-hunters-full-moon-ceremony-collectors-edition.json](./74350-witch-hunters-full-moon-ceremony-collectors-edition.json) |
 | Witch Isis | 82835 | [82835-witch-isis.json](./82835-witch-isis.json) |
+| Witch Island II | 82367 | [82367-witch-island-ii.json](./82367-witch-island-ii.json) |
 | Witch n' Wiz | 179670 | [179670-witch-n-wiz.json](./179670-witch-n-wiz.json) |
 | Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
 | Witch Ring Meister | 116867 | [116867-witch-ring-meister.json](./116867-witch-ring-meister.json) |
