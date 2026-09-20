@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idun | 237048 | [237048-idun.json](./237048-idun.json) |
 | Idyllic | 253042 | [253042-idyllic.json](./253042-idyllic.json) |
 | Idylls of the Lunar Maria | 302923 | [302923-idylls-of-the-lunar-maria.json](./302923-idylls-of-the-lunar-maria.json) |
+| Ie Naki Ko - Suzu no Sentaku | 92276 | [92276-ie-naki-ko-suzu-no-sentaku.json](./92276-ie-naki-ko-suzu-no-sentaku.json) |
 | Iesabel | 16645 | [16645-iesabel.json](./16645-iesabel.json) |
 | If 2 | 204478 | [204478-if-2.json](./204478-if-2.json) |
 | If 3 | 204479 | [204479-if-3.json](./204479-if-3.json) |
@@ -621,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignition Arena | 314896 | [314896-ignition-arena.json](./314896-ignition-arena.json) |
 | Ignore the Blackbird | 400951 | [400951-ignore-the-blackbird.json](./400951-ignore-the-blackbird.json) |
 | Igo Shinan | 63890 | [63890-igo-shinan.json](./63890-igo-shinan.json) |
+| Igo-Shinan '91 | 92295 | [92295-igo-shinan-91.json](./92295-igo-shinan-91.json) |
 | Igo: Kyuu Roban Taikyoku | 41367 | [41367-igo-kyuu-roban-taikyoku.json](./41367-igo-kyuu-roban-taikyoku.json) |
 | Igor: The Game | 21269 | [21269-igor-the-game.json](./21269-igor-the-game.json) |
 | iGP Manager | 59353 | [59353-igp-manager.json](./59353-igp-manager.json) |
