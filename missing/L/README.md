@@ -1696,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lina: Witches of the Moon | 411578 | [411578-lina-witches-of-the-moon.json](./411578-lina-witches-of-the-moon.json) |
 | Linch | 80978 | [80978-linch.json](./80978-linch.json) |
 | Lincoln Green | 231086 | [231086-lincoln-green.json](./231086-lincoln-green.json) |
+| Linda Cube Again | 65761 | [65761-linda-cube-again.json](./65761-linda-cube-again.json) |
 | Lindsi Luna Blast | 62215 | [62215-lindsi-luna-blast.json](./62215-lindsi-luna-blast.json) |
 | Line 88 | 240472 | [240472-line-88.json](./240472-line-88.json) |
 | Line Bender | 275329 | [275329-line-bender.json](./275329-line-bender.json) |
@@ -2497,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Realm | 12669 | [12669-lords-of-the-realm.json](./12669-lords-of-the-realm.json) |
 | Lords of the Shattered Kingdom | 133787 | [133787-lords-of-the-shattered-kingdom.json](./133787-lords-of-the-shattered-kingdom.json) |
 | Lords of Time | 23050 | [23050-lords-of-time.json](./23050-lords-of-time.json) |
+| Lords of Uberdark | 65774 | [65774-lords-of-uberdark.json](./65774-lords-of-uberdark.json) |
 | Lore Finder | 112762 | [112762-lore-finder.json](./112762-lore-finder.json) |
 | Lore of Luvarith: The Hollow Crown | 384079 | [384079-lore-of-luvarith-the-hollow-crown.json](./384079-lore-of-luvarith-the-hollow-crown.json) |
 | Lore Restore | 368477 | [368477-lore-restore.json](./368477-lore-restore.json) |
