@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afternoon in the House of Secrets | 221820 | [221820-afternoon-in-the-house-of-secrets.json](./221820-afternoon-in-the-house-of-secrets.json) |
 | Afterplace | 232032 | [232032-afterplace.json](./232032-afterplace.json) |
 | AfterQuest | 394314 | [394314-afterquest.json](./394314-afterquest.json) |
+| AfterTheDawn | 81753 | [81753-afterthedawn.json](./81753-afterthedawn.json) |
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
 | AftLife: Girl and Cats, and Lost World | 284326 | [284326-aftlife-girl-and-cats-and-lost-world.json](./284326-aftlife-girl-and-cats-and-lost-world.json) |
 | Again | 117019 | [117019-again.json](./117019-again.json) |
@@ -934,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent Action | 138003 | [138003-agent-action.json](./138003-agent-action.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
+| Agent X: Equation Rider | 81754 | [81754-agent-x-equation-rider.json](./81754-agent-x-equation-rider.json) |
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
 | Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
@@ -1173,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AisleRiot Solitaire | 63236 | [63236-aisleriot-solitaire.json](./63236-aisleriot-solitaire.json) |
 | Aislin's Story: The Bloodbath Trials | 177534 | [177534-aislins-story-the-bloodbath-trials.json](./177534-aislins-story-the-bloodbath-trials.json) |
 | Aisling and the Tavern of Elves | 169855 | [169855-aisling-and-the-tavern-of-elves.json](./169855-aisling-and-the-tavern-of-elves.json) |
+| Aiso | 81774 | [81774-aiso.json](./81774-aiso.json) |
 | Aisu Kuriimu Simulator | 186730 | [186730-aisu-kuriimu-simulator.json](./186730-aisu-kuriimu-simulator.json) |
 | Aiten Eishi: Blue Guardians | 252408 | [252408-aiten-eishi-blue-guardians.json](./252408-aiten-eishi-blue-guardians.json) |
 | Aitta: Finnish folktales | 203868 | [203868-aitta-finnish-folktales.json](./203868-aitta-finnish-folktales.json) |
@@ -1988,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Fix | 163815 | [163815-amazing-fix.json](./163815-amazing-fix.json) |
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
 | Amazing Gardens | 344366 | [344366-amazing-gardens.json](./344366-amazing-gardens.json) |
+| Amazing Human | 81741 | [81741-amazing-human.json](./81741-amazing-human.json) |
 | Amazing Jewel Switch | 240196 | [240196-amazing-jewel-switch.json](./240196-amazing-jewel-switch.json) |
 | Amazing Joes Journey | 157045 | [157045-amazing-joes-journey.json](./157045-amazing-joes-journey.json) |
 | Amazing Lab! Science Experiments Quiz | 399607 | [399607-amazing-lab-science-experiments-quiz.json](./399607-amazing-lab-science-experiments-quiz.json) |
@@ -3087,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appare! Shogi Jiisan | 269650 | [269650-appare-shogi-jiisan.json](./269650-appare-shogi-jiisan.json) |
 | Appearances | 244774 | [244774-appearances.json](./244774-appearances.json) |
 | Appeeling Personality | 346103 | [346103-appeeling-personality.json](./346103-appeeling-personality.json) |
+| Apperception | 81733 | [81733-apperception.json](./81733-apperception.json) |
 | Appetit | 325662 | [325662-appetit.json](./325662-appetit.json) |
 | Appetite for Detestation | 147482 | [147482-appetite-for-detestation.json](./147482-appetite-for-detestation.json) |
 | Apple Bag | 280197 | [280197-apple-bag.json](./280197-apple-bag.json) |
