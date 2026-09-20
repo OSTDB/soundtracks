@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Tales | 200573 | [200573-raccoon-tales.json](./200573-raccoon-tales.json) |
 | Raccoon Valley Tycoon | 373083 | [373083-raccoon-valley-tycoon.json](./373083-raccoon-valley-tycoon.json) |
 | Raccoonwave | 307120 | [307120-raccoonwave.json](./307120-raccoonwave.json) |
+| Race 07: Formula RaceRoom | 120183 | [120183-race-07-formula-raceroom.json](./120183-race-07-formula-raceroom.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race Driver: Grid Reloaded | 44555 | [44555-race-driver-grid-reloaded.json](./44555-race-driver-grid-reloaded.json) |
@@ -1769,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Respublica | 126426 | [126426-respublica.json](./126426-respublica.json) |
 | Resquid | 182916 | [182916-resquid.json](./182916-resquid.json) |
 | Ressolve Steps | 375841 | [375841-ressolve-steps.json](./375841-ressolve-steps.json) |
+| Rest | 120149 | [120149-rest.json](./120149-rest.json) |
 | Rest Area Simulator | 373009 | [373009-rest-area-simulator.json](./373009-rest-area-simulator.json) |
 | Rest House 2: The Wizard | 131593 | [131593-rest-house-2-the-wizard.json](./131593-rest-house-2-the-wizard.json) |
 | Rest in Paws | 358877 | [358877-rest-in-paws.json](./358877-rest-in-paws.json) |
@@ -2651,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadCraft: Invictus Type A Scout | 374733 | [374733-roadcraft-invictus-type-a-scout.json](./374733-roadcraft-invictus-type-a-scout.json) |
 | RoadCraft: Rebuild Edition | 374732 | [374732-roadcraft-rebuild-edition.json](./374732-roadcraft-rebuild-edition.json) |
 | Roadracer Bowler | 24850 | [24850-roadracer-bowler.json](./24850-roadracer-bowler.json) |
+| RoadRunner | 120156 | [120156-roadrunner.json](./120156-roadrunner.json) |
 | Roads of Rome 2 | 34258 | [34258-roads-of-rome-2.json](./34258-roads-of-rome-2.json) |
 | Roads of Rome 3 | 34264 | [34264-roads-of-rome-3.json](./34264-roads-of-rome-3.json) |
 | Roadtrip | 266233 | [266233-roadtrip.json](./266233-roadtrip.json) |
@@ -3982,6 +3985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RV There Yet? | 373580 | [373580-rv-there-yet.json](./373580-rv-there-yet.json) |
 | RV-7 My Drone | 84909 | [84909-rv-7-my-drone.json](./84909-rv-7-my-drone.json) |
 | RWBY: Amity Arena | 107151 | [107151-rwby-amity-arena.json](./107151-rwby-amity-arena.json) |
+| RWBY: Crystal Match | 120203 | [120203-rwby-crystal-match.json](./120203-rwby-crystal-match.json) |
 | RWBY: Grimm Eclipse - JNPR | 282712 | [282712-rwby-grimm-eclipse-jnpr.json](./282712-rwby-grimm-eclipse-jnpr.json) |
 | RWBY: Vale of Darkness | 236806 | [236806-rwby-vale-of-darkness.json](./236806-rwby-vale-of-darkness.json) |
 | Rwen's Day Out | 185025 | [185025-rwens-day-out.json](./185025-rwens-day-out.json) |
