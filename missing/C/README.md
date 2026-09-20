@@ -3832,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commanders: Attack of the Genos | 20775 | [20775-commanders-attack-of-the-genos.json](./20775-commanders-attack-of-the-genos.json) |
 | CommanderTux | 320161 | [320161-commandertux.json](./320161-commandertux.json) |
 | Commando | 282623 | [282623-commando.json](./282623-commando.json) |
+| Commando Dog | 119550 | [119550-commando-dog.json](./119550-commando-dog.json) |
 | Commando Jack | 9801 | [9801-commando-jack.json](./9801-commando-jack.json) |
 | Commando Jack Respawn | 136393 | [136393-commando-jack-respawn.json](./136393-commando-jack-respawn.json) |
 | Commando Raid | 11153 | [11153-commando-raid.json](./11153-commando-raid.json) |
@@ -5759,6 +5760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culinary Cooking Master Simulator | 300860 | [300860-culinary-cooking-master-simulator.json](./300860-culinary-cooking-master-simulator.json) |
 | Culinary Survivors | 264676 | [264676-culinary-survivors.json](./264676-culinary-survivors.json) |
 | Culino | 174221 | [174221-culino.json](./174221-culino.json) |
+| Cult 2112 | 119553 | [119553-cult-2112.json](./119553-cult-2112.json) |
 | Cult Game | 362875 | [362875-cult-game.json](./362875-cult-game.json) |
 | Cult Master: Ultraman ni Miserarete | 60529 | [60529-cult-master-ultraman-ni-miserarete.json](./60529-cult-master-ultraman-ni-miserarete.json) |
 | Cult Of Blood | 319965 | [319965-cult-of-blood.json](./319965-cult-of-blood.json) |
