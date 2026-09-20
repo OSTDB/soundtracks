@@ -1467,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoko Dogeza Zigoku | 63870 | [63870-otoko-dogeza-zigoku.json](./63870-otoko-dogeza-zigoku.json) |
 | Otome Chat Connection | 199051 | [199051-otome-chat-connection.json](./199051-otome-chat-connection.json) |
 | Otome ga Musubu Tsukiyo no Kirameki | 194593 | [194593-otome-ga-musubu-tsukiyo-no-kirameki.json](./194593-otome-ga-musubu-tsukiyo-no-kirameki.json) |
+| Otome Games: Is It Love? Ryan | 105778 | [105778-otome-games-is-it-love-ryan.json](./105778-otome-games-is-it-love-ryan.json) |
 | Otome no Himitsu | 188526 | [188526-otome-no-himitsu.json](./188526-otome-no-himitsu.json) |
 | Otome Senki | 304733 | [304733-otome-senki.json](./304733-otome-senki.json) |
 | Otome the Exorcist | 158045 | [158045-otome-the-exorcist.json](./158045-otome-the-exorcist.json) |
