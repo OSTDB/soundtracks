@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Horizons | 210898 | [210898-7-horizons.json](./210898-7-horizons.json) |
 | 7 Invaders | 293240 | [293240-7-invaders.json](./293240-7-invaders.json) |
 | 7 Little Words | 115641 | [115641-7-little-words.json](./115641-7-little-words.json) |
+| 7 Lives | 119530 | [119530-7-lives.json](./119530-7-lives.json) |
 | 7 Mages Complete | 52541 | [52541-7-mages-complete.json](./52541-7-mages-complete.json) |
 | 7 Meters Away: Oscar and the Cell of the Soul | 308955 | [308955-7-meters-away-oscar-and-the-cell-of-the-soul.json](./308955-7-meters-away-oscar-and-the-cell-of-the-soul.json) |
 | 7 Pillars | 41974 | [41974-7-pillars.json](./41974-7-pillars.json) |
