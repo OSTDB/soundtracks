@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Failure Drill | 241518 | [241518-failure-drill.json](./241518-failure-drill.json) |
 | Faily Brakes Classic | 174310 | [174310-faily-brakes-classic.json](./174310-faily-brakes-classic.json) |
 | Faily Rider | 101534 | [101534-faily-rider.json](./101534-faily-rider.json) |
+| Faily Tumbler | 90351 | [90351-faily-tumbler.json](./90351-faily-tumbler.json) |
 | Fair And Balanced | 411716 | [411716-fair-and-balanced.json](./411716-fair-and-balanced.json) |
 | Fair Deal: Las Vegas | 110129 | [110129-fair-deal-las-vegas.json](./110129-fair-deal-las-vegas.json) |
 | Fair Food Maker Game | 97153 | [97153-fair-food-maker-game.json](./97153-fair-food-maker-game.json) |
@@ -1937,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Blood | 312895 | [312895-first-blood.json](./312895-first-blood.json) |
 | First Break | 293639 | [293639-first-break.json](./293639-first-break.json) |
 | First Christmas | 248907 | [248907-first-christmas.json](./248907-first-christmas.json) |
+| First Class Flurry | 90372 | [90372-first-class-flurry.json](./90372-first-class-flurry.json) |
 | First Class Rescue | 407312 | [407312-first-class-rescue.json](./407312-first-class-rescue.json) |
 | First Comes Love | 313885 | [313885-first-comes-love.json](./313885-first-comes-love.json) |
 | First Crusader | 274044 | [274044-first-crusader.json](./274044-first-crusader.json) |
@@ -3094,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forge & Fortune | 264701 | [264701-forge-and-fortune.json](./264701-forge-and-fortune.json) |
 | Forge Front | 287768 | [287768-forge-front.json](./287768-forge-front.json) |
 | Forge of Freedom: The American Civil War 1861-1865 | 230545 | [230545-forge-of-freedom-the-american-civil-war-1861-1865.json](./230545-forge-of-freedom-the-american-civil-war-1861-1865.json) |
+| Forge of Neon 3D | 90350 | [90350-forge-of-neon-3d.json](./90350-forge-of-neon-3d.json) |
 | Forge the Fates | 361765 | [361765-forge-the-fates.json](./361765-forge-the-fates.json) |
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
 | Forged Alliance Forever | 142868 | [142868-forged-alliance-forever.json](./142868-forged-alliance-forever.json) |
