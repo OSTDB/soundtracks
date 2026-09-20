@@ -4267,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Rage II | 167154 | [167154-primal-rage-ii.json](./167154-primal-rage-ii.json) |
 | Primal Roar: Jurassic Dinosaur Era | 220652 | [220652-primal-roar-jurassic-dinosaur-era.json](./220652-primal-roar-jurassic-dinosaur-era.json) |
 | Primal Survivors | 224627 | [224627-primal-survivors.json](./224627-primal-survivors.json) |
+| Primals.io | 80884 | [80884-primals-io.json](./80884-primals-io.json) |
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
 | Prime Elements | 99403 | [99403-prime-elements.json](./99403-prime-elements.json) |
