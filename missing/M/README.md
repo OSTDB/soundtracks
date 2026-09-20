@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maestro! Jump in Music | 22980 | [22980-maestro-jump-in-music.json](./22980-maestro-jump-in-music.json) |
 | Mǎfǎ Chuánqí | 159812 | [159812-mafa-chuanqi.json](./159812-mafa-chuanqi.json) |
 | Mafalda: Jugando con Números y Palabras | 167760 | [167760-mafalda-jugando-con-numeros-y-palabras.json](./167760-mafalda-jugando-con-numeros-y-palabras.json) |
+| Mafdet and the Book of the Dead | 72377 | [72377-mafdet-and-the-book-of-the-dead.json](./72377-mafdet-and-the-book-of-the-dead.json) |
 | Mafia 1x1 | 307327 | [307327-mafia-1x1.json](./307327-mafia-1x1.json) |
 | Mafia Alive | 68686 | [68686-mafia-alive.json](./68686-mafia-alive.json) |
 | Mafia Clicker | 241956 | [241956-mafia-clicker.json](./241956-mafia-clicker.json) |
@@ -2567,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MekaFighters | 146350 | [146350-mekafighters.json](./146350-mekafighters.json) |
 | Mekakare | 242063 | [242063-mekakare.json](./242063-mekakare.json) |
 | Mekanikko | 265227 | [265227-mekanikko.json](./265227-mekanikko.json) |
+| Mekanizm | 72332 | [72332-mekanizm.json](./72332-mekanizm.json) |
 | Mekazoo | 19203 | [19203-mekazoo.json](./19203-mekazoo.json) |
 | Melancholia Maze | 366305 | [366305-melancholia-maze.json](./366305-melancholia-maze.json) |
 | Melancholic Night | 399688 | [399688-melancholic-night.json](./399688-melancholic-night.json) |
@@ -2704,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Grove | 189195 | [189195-memory-grove.json](./189195-memory-grove.json) |
 | Memory Holders: The Colors II | 392171 | [392171-memory-holders-the-colors-ii.json](./392171-memory-holders-the-colors-ii.json) |
 | Memory I | 68610 | [68610-memory-i.json](./68610-memory-i.json) |
+| Memory II / Melodie | 72371 | [72371-memory-ii-melodie.json](./72371-memory-ii-melodie.json) |
 | Memory Illusions | 157199 | [157199-memory-illusions.json](./157199-memory-illusions.json) |
 | Memory Kong | 328596 | [328596-memory-kong.json](./328596-memory-kong.json) |
 | Memory Lane | 171451 | [171451-memory-lane.json](./171451-memory-lane.json) |
@@ -5470,6 +5473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto X3M 2 | 95990 | [95990-moto-x3m-2.json](./95990-moto-x3m-2.json) |
 | Moto X3M 3 | 142394 | [142394-moto-x3m-3.json](./142394-moto-x3m-3.json) |
 | Motobug the Badnik in Sonic the Hedgehog | 201831 | [201831-motobug-the-badnik-in-sonic-the-hedgehog.json](./201831-motobug-the-badnik-in-sonic-the-hedgehog.json) |
+| Motocross | 72336 | [72336-motocross.json](./72336-motocross.json) |
 | Motocross Maniacs 2 | 49891 | [49891-motocross-maniacs-2.json](./49891-motocross-maniacs-2.json) |
 | Motocross Racer | 23841 | [23841-motocross-racer.json](./23841-motocross-racer.json) |
 | Motocross The Game | 337185 | [337185-motocross-the-game.json](./337185-motocross-the-game.json) |
