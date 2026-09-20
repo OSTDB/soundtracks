@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Wagon | 254763 | [254763-happy-wagon.json](./254763-happy-wagon.json) |
 | Happy Wars | 8410 | [8410-happy-wars.json](./8410-happy-wars.json) |
 | Happy Weekend | 333579 | [333579-happy-weekend.json](./333579-happy-weekend.json) |
+| Happy Wheels 2 | 95839 | [95839-happy-wheels-2.json](./95839-happy-wheels-2.json) |
 | Happy Wonderland Solitaire | 276200 | [276200-happy-wonderland-solitaire.json](./276200-happy-wonderland-solitaire.json) |
 | Happy Words | 117051 | [117051-happy-words.json](./117051-happy-words.json) |
 | Happy World | 273979 | [273979-happy-world.json](./273979-happy-world.json) |
@@ -3807,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntscape | 219692 | [219692-huntscape.json](./219692-huntscape.json) |
 | Huntsman Against Darkness | 408937 | [408937-huntsman-against-darkness.json](./408937-huntsman-against-darkness.json) |
 | Hupsi | 177436 | [177436-hupsi.json](./177436-hupsi.json) |
+| Huracan Drift Simulator | 95875 | [95875-huracan-drift-simulator.json](./95875-huracan-drift-simulator.json) |
 | Hurdle Turtle 2 | 58264 | [58264-hurdle-turtle-2.json](./58264-hurdle-turtle-2.json) |
 | Hurdle Turtle Forever | 58262 | [58262-hurdle-turtle-forever.json](./58262-hurdle-turtle-forever.json) |
 | Hurdles | 192295 | [192295-hurdles.json](./192295-hurdles.json) |
