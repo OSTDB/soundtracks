@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrabox | 267943 | [267943-ultrabox.json](./267943-ultrabox.json) |
 | Ultrabox No. 2 | 267942 | [267942-ultrabox-no-2.json](./267942-ultrabox-no-2.json) |
 | Ultracore | 107188 | [107188-ultracore.json](./107188-ultracore.json) |
+| Ultracore: Collector's Edition | 116153 | [116153-ultracore-collectors-edition.json](./116153-ultracore-collectors-edition.json) |
 | Ultradian | 265132 | [265132-ultradian.json](./265132-ultradian.json) |
 | Ultraflow 2 | 129790 | [129790-ultraflow-2.json](./129790-ultraflow-2.json) |
 | Ultrafrog and the City of Destruction | 56426 | [56426-ultrafrog-and-the-city-of-destruction.json](./56426-ultrafrog-and-the-city-of-destruction.json) |
@@ -851,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Golf | 154408 | [154408-unreal-golf.json](./154408-unreal-golf.json) |
 | Unreal II: The Awakening - Special Edition | 46625 | [46625-unreal-ii-the-awakening-special-edition.json](./46625-unreal-ii-the-awakening-special-edition.json) |
 | Unreal Land | 62220 | [62220-unreal-land.json](./62220-unreal-land.json) |
+| Unreal Maze Survival | 116107 | [116107-unreal-maze-survival.json](./116107-unreal-maze-survival.json) |
 | Unreal Tournament 2004: Editor's Choice Edition | 27811 | [27811-unreal-tournament-2004-editors-choice-edition.json](./27811-unreal-tournament-2004-editors-choice-edition.json) |
 | Unreal Vendetta | 213414 | [213414-unreal-vendetta.json](./213414-unreal-vendetta.json) |
 | Unreal World | 250449 | [250449-unreal-world.json](./250449-unreal-world.json) |
@@ -1120,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utter Inverse | 213415 | [213415-utter-inverse.json](./213415-utter-inverse.json) |
 | UtuRoom | 416648 | [416648-uturoom.json](./416648-uturoom.json) |
 | Uuno Turhapuro muuttaa maalle | 9074 | [9074-uuno-turhapuro-muuttaa-maalle.json](./9074-uuno-turhapuro-muuttaa-maalle.json) |
+| Uuu so Smislom | 116096 | [116096-uuu-so-smislom.json](./116096-uuu-so-smislom.json) |
 | uVolley | 149921 | [149921-uvolley.json](./149921-uvolley.json) |
 | UvsU | 258704 | [258704-uvsu.json](./258704-uvsu.json) |
 | UWAR | 338579 | [338579-uwar.json](./338579-uwar.json) |
