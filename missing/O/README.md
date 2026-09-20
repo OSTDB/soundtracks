@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onitama | 183438 | [183438-onitama.json](./183438-onitama.json) |
 | Oniwaki Village | 331881 | [331881-oniwaki-village.json](./331881-oniwaki-village.json) |
 | Online Artillery 2 | 58748 | [58748-online-artillery-2.json](./58748-online-artillery-2.json) |
+| Online Chess Kingdoms | 93388 | [93388-online-chess-kingdoms.json](./93388-online-chess-kingdoms.json) |
 | Online Open World RPG | 234078 | [234078-online-open-world-rpg.json](./234078-online-open-world-rpg.json) |
 | Online Retro Tennis | 156702 | [156702-online-retro-tennis.json](./156702-online-retro-tennis.json) |
 | OnlineCTR | 313093 | [313093-onlinectr.json](./313093-onlinectr.json) |
