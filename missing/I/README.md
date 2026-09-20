@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial D: Street Stage | 45992 | [45992-initial-d-street-stage.json](./45992-initial-d-street-stage.json) |
 | Initial Drift Online | 148573 | [148573-initial-drift-online.json](./148573-initial-drift-online.json) |
 | Initium Legenda | 192972 | [192972-initium-legenda.json](./192972-initium-legenda.json) |
+| Injection π 23: No Name, No Number | 121486 | [121486-injection-23-no-name-no-number.json](./121486-injection-23-no-name-no-number.json) |
 | Injustice 2 Mobile | 76547 | [76547-injustice-2-mobile.json](./76547-injustice-2-mobile.json) |
 | Injustice 2: Black Lightning | 323321 | [323321-injustice-2-black-lightning.json](./323321-injustice-2-black-lightning.json) |
 | Injustice 2: Black Manta | 165041 | [165041-injustice-2-black-manta.json](./165041-injustice-2-black-manta.json) |
@@ -1317,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innadreem | 383938 | [383938-innadreem.json](./383938-innadreem.json) |
 | Innchanted | 138239 | [138239-innchanted.json](./138239-innchanted.json) |
 | Innecto | 87097 | [87097-innecto.json](./87097-innecto.json) |
+| Inner | 121487 | [121487-inner.json](./121487-inner.json) |
 | Inner Ashes | 217007 | [217007-inner-ashes.json](./217007-inner-ashes.json) |
 | Inner Blade | 244753 | [244753-inner-blade.json](./244753-inner-blade.json) |
 | Inner Fire | 97341 | [97341-inner-fire.json](./97341-inner-fire.json) |
@@ -1640,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inu Dai Suki! | 46604 | [46604-inu-dai-suki.json](./46604-inu-dai-suki.json) |
 | Inu no Osanpo | 169323 | [169323-inu-no-osanpo.json](./169323-inu-no-osanpo.json) |
 | Inuyasha Awakening | 174825 | [174825-inuyasha-awakening.json](./174825-inuyasha-awakening.json) |
+| Inuyasha: Battle of Hell | 121442 | [121442-inuyasha-battle-of-hell.json](./121442-inuyasha-battle-of-hell.json) |
 | Inuyasha: Battle of Naraku | 193963 | [193963-inuyasha-battle-of-naraku.json](./193963-inuyasha-battle-of-naraku.json) |
 | Inuyasha: Secret of the Divine Jewel | 20653 | [20653-inuyasha-secret-of-the-divine-jewel.json](./20653-inuyasha-secret-of-the-divine-jewel.json) |
 | Inv | 100134 | [100134-inv.json](./100134-inv.json) |
