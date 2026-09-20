@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometric Sniper Z | 163944 | [163944-geometric-sniper-z.json](./163944-geometric-sniper-z.json) |
 | Geometrix | 159728 | [159728-geometrix.json](./159728-geometrix.json) |
 | Geometry Arena | 152133 | [152133-geometry-arena.json](./152133-geometry-arena.json) |
+| Geometry Darkness 2.2 :D | 101984 | [101984-geometry-darkness-2-2-d.json](./101984-geometry-darkness-2-2-d.json) |
 | Geometry Dash Meltdown | 38693 | [38693-geometry-dash-meltdown.json](./38693-geometry-dash-meltdown.json) |
 | Geometry Dodge Pro | 86908 | [86908-geometry-dodge-pro.json](./86908-geometry-dodge-pro.json) |
 | Geometry Hero | 126612 | [126612-geometry-hero.json](./126612-geometry-hero.json) |
