@@ -2213,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner: Domdom Dan no Yabou! | 109026 | [109026-lode-runner-domdom-dan-no-yabou.json](./109026-lode-runner-domdom-dan-no-yabou.json) |
 | Lodestone: The crazy cave adventures of mad Stony Tony and his encounter with the exploding rolling stones | 130188 | [130188-lodestone-the-crazy-cave-adventures-of-mad-stony-tony-and-his-encounter-with-the-exploding-rolling-stones.json](./130188-lodestone-the-crazy-cave-adventures-of-mad-stony-tony-and-his-encounter-with-the-exploding-rolling-stones.json) |
 | Lodge | 351692 | [351692-lodge.json](./351692-lodge.json) |
+| Lodoss-tou Senki: Eiyuu Kishiden GB | 80222 | [80222-lodoss-tou-senki-eiyuu-kishiden-gb.json](./80222-lodoss-tou-senki-eiyuu-kishiden-gb.json) |
 | Lodoss-tou Senki: Fuku Zinduke | 66143 | [66143-lodoss-tou-senki-fuku-zinduke.json](./66143-lodoss-tou-senki-fuku-zinduke.json) |
 | Lofi Ball | 256276 | [256276-lofi-ball.json](./256276-lofi-ball.json) |
 | Lofi Ball: Dessert | 255981 | [255981-lofi-ball-dessert.json](./255981-lofi-ball-dessert.json) |
