@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Hands | 195711 | [195711-idol-hands.json](./195711-idol-hands.json) |
 | Idol Hunter: Hentai | 211719 | [211719-idol-hunter-hentai.json](./211719-idol-hunter-hentai.json) |
 | Idol Janshi R: Janguru Project | 248627 | [248627-idol-janshi-r-janguru-project.json](./248627-idol-janshi-r-janguru-project.json) |
+| Idol Janshi Suchi-Pai III Remix | 98808 | [98808-idol-janshi-suchi-pai-iii-remix.json](./98808-idol-janshi-suchi-pai-iii-remix.json) |
 | Idol Janshi Suchie-Pai III | 76610 | [76610-idol-janshi-suchie-pai-iii.json](./76610-idol-janshi-suchie-pai-iii.json) |
 | Idol Janshi Suchie-Pai IV Portable | 379905 | [379905-idol-janshi-suchie-pai-iv-portable.json](./379905-idol-janshi-suchie-pai-iv-portable.json) |
 | Idol Janshi Suchie-Pai: Milky no Yabou | 299296 | [299296-idol-janshi-suchie-pai-milky-no-yabou.json](./299296-idol-janshi-suchie-pai-milky-no-yabou.json) |
@@ -1163,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinita Strada | 61682 | [61682-infinita-strada.json](./61682-infinita-strada.json) |
 | Infinite Backrooms | 405531 | [405531-infinite-backrooms.json](./405531-infinite-backrooms.json) |
 | Infinite Ball Well | 384513 | [384513-infinite-ball-well.json](./384513-infinite-ball-well.json) |
+| Infinite Block Puzzle | 98792 | [98792-infinite-block-puzzle.json](./98792-infinite-block-puzzle.json) |
 | Infinite Blue | 337650 | [337650-infinite-blue.json](./337650-infinite-blue.json) |
 | Infinite Borders | 264030 | [264030-infinite-borders.json](./264030-infinite-borders.json) |
 | Infinite Canyon | 360646 | [360646-infinite-canyon.json](./360646-infinite-canyon.json) |
