@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quatro!: This is fine DLC | 253368 | [253368-quatro-this-is-fine-dlc.json](./253368-quatro-this-is-fine-dlc.json) |
 | Quatros Noir | 298159 | [298159-quatros-noir.json](./298159-quatros-noir.json) |
 | Quattro Combat | 72124 | [72124-quattro-combat.json](./72124-quattro-combat.json) |
+| Quattro Skills | 71815 | [71815-quattro-skills.json](./71815-quattro-skills.json) |
 | Quattro Super Hits | 57617 | [57617-quattro-super-hits.json](./57617-quattro-super-hits.json) |
 | Quattro Super Hits | 57619 | [57619-quattro-super-hits.json](./57619-quattro-super-hits.json) |
 | Quazatron | 23061 | [23061-quazatron.json](./23061-quazatron.json) |
