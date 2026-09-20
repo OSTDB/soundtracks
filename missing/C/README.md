@@ -6176,6 +6176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut Off From The World | 245318 | [245318-cut-off-from-the-world.json](./245318-cut-off-from-the-world.json) |
 | Cut Short | 179693 | [179693-cut-short.json](./179693-cut-short.json) |
 | Cut Smash Wrap | 127771 | [127771-cut-smash-wrap.json](./127771-cut-smash-wrap.json) |
+| Cut the Birds | 65195 | [65195-cut-the-birds.json](./65195-cut-the-birds.json) |
 | Cut the Box | 117724 | [117724-cut-the-box.json](./117724-cut-the-box.json) |
 | Cut the Ex-Girlfriends | 102225 | [102225-cut-the-ex-girlfriends.json](./102225-cut-the-ex-girlfriends.json) |
 | Cut the Rope | 9761 | [9761-cut-the-rope.json](./9761-cut-the-rope.json) |
