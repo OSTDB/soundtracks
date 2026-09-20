@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Pets | 233615 | [233615-garden-pets.json](./233615-garden-pets.json) |
 | Garden Simulator 2010 | 63817 | [63817-garden-simulator-2010.json](./63817-garden-simulator-2010.json) |
 | Garden Tails | 215156 | [215156-garden-tails.json](./215156-garden-tails.json) |
+| Garden Variety Body Horror | 110153 | [110153-garden-variety-body-horror.json](./110153-garden-variety-body-horror.json) |
 | Garden Warfare: Crab Invasion | 337632 | [337632-garden-warfare-crab-invasion.json](./337632-garden-warfare-crab-invasion.json) |
 | Garden's Bane: DG's Quest | 208610 | [208610-gardens-bane-dgs-quest.json](./208610-gardens-bane-dgs-quest.json) |
 | Gardener | 285578 | [285578-gardener.json](./285578-gardener.json) |
@@ -1289,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Next Door | 169406 | [169406-girl-next-door.json](./169406-girl-next-door.json) |
 | Girl Purgatoriem | 343365 | [343365-girl-purgatoriem.json](./343365-girl-purgatoriem.json) |
 | Girl Raid | 195172 | [195172-girl-raid.json](./195172-girl-raid.json) |
+| Girl Rugby Dash | 110139 | [110139-girl-rugby-dash.json](./110139-girl-rugby-dash.json) |
 | Girl Terminal | 410241 | [410241-girl-terminal.json](./410241-girl-terminal.json) |
 | Girl Who Cried Wolf | 298891 | [298891-girl-who-cried-wolf.json](./298891-girl-who-cried-wolf.json) |
 | Girl with a Big Sword | 110174 | [110174-girl-with-a-big-sword.json](./110174-girl-with-a-big-sword.json) |
@@ -2677,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridz | 229815 | [229815-gridz.json](./229815-gridz.json) |
 | Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
 | Griffin | 353993 | [353993-griffin.json](./353993-griffin.json) |
+| Grigala Runner | 110140 | [110140-grigala-runner.json](./110140-grigala-runner.json) |
 | Grill-Off with Ultra Hand! | 50696 | [50696-grill-off-with-ultra-hand.json](./50696-grill-off-with-ultra-hand.json) |
 | Grim | 196319 | [196319-grim.json](./196319-grim.json) |
 | Grim | 379863 | [379863-grim.json](./379863-grim.json) |
