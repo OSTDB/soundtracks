@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D3D | 291042 | [291042-3d3d.json](./291042-3d3d.json) |
 | 3DC | 274564 | [274564-3dc.json](./274564-3dc.json) |
 | 3DO Games: Decathlon | 100219 | [100219-3do-games-decathlon.json](./100219-3do-games-decathlon.json) |
+| 3eality | 115470 | [115470-3eality.json](./115470-3eality.json) |
 | 3in1 Adrenalin Pack | 137477 | [137477-3in1-adrenalin-pack.json](./137477-3in1-adrenalin-pack.json) |
 | 3M Spain Foundation: Stem + VR | 187449 | [187449-3m-spain-foundation-stem-vr.json](./187449-3m-spain-foundation-stem-vr.json) |
 | 3on3 FreeStyle: Battle Pass 2023 Autumn Bundle Part 2 | 276857 | [276857-3on3-freestyle-battle-pass-2023-autumn-bundle-part-2.json](./276857-3on3-freestyle-battle-pass-2023-autumn-bundle-part-2.json) |
