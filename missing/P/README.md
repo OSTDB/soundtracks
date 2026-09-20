@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passage | 204687 | [204687-passage.json](./204687-passage.json) |
 | Passage | 209700 | [209700-passage.json](./209700-passage.json) |
 | Passage 3 | 210017 | [210017-passage-3.json](./210017-passage-3.json) |
+| Passage 4: Christmas Edition | 97132 | [97132-passage-4-christmas-edition.json](./97132-passage-4-christmas-edition.json) |
 | Passage: A Job Interview Simulator! | 237360 | [237360-passage-a-job-interview-simulator.json](./237360-passage-a-job-interview-simulator.json) |
 | Passage: Path of Betrayal | 70958 | [70958-passage-path-of-betrayal.json](./70958-passage-path-of-betrayal.json) |
 | Passageway of the Ancients | 258490 | [258490-passageway-of-the-ancients.json](./258490-passageway-of-the-ancients.json) |
@@ -2305,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Jigsaw 2 | 98778 | [98778-pirate-jigsaw-2.json](./98778-pirate-jigsaw-2.json) |
 | Pirate Kings | 98927 | [98927-pirate-kings.json](./98927-pirate-kings.json) |
 | Pirate Life | 395538 | [395538-pirate-life.json](./395538-pirate-life.json) |
+| Pirate Mosaic Puzzle: Caribbean Treasures | 97144 | [97144-pirate-mosaic-puzzle-caribbean-treasures.json](./97144-pirate-mosaic-puzzle-caribbean-treasures.json) |
 | Pirate Plight | 245911 | [245911-pirate-plight.json](./245911-pirate-plight.json) |
 | Pirate Royalty | 345583 | [345583-pirate-royalty.json](./345583-pirate-royalty.json) |
 | Pirate Ship | 231924 | [231924-pirate-ship.json](./231924-pirate-ship.json) |
@@ -2390,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pivross | 96125 | [96125-pivross.json](./96125-pivross.json) |
 | Piworld | 318224 | [318224-piworld.json](./318224-piworld.json) |
 | Pix Arts Masters Tennis | 335083 | [335083-pix-arts-masters-tennis.json](./335083-pix-arts-masters-tennis.json) |
+| Pix! - Virtual Pet Widget Game | 97137 | [97137-pix-virtual-pet-widget-game.json](./97137-pix-virtual-pet-widget-game.json) |
 | Pix3D | 84819 | [84819-pix3d.json](./84819-pix3d.json) |
 | Pixadom | 317582 | [317582-pixadom.json](./317582-pixadom.json) |
 | Pixapple Adventure | 388011 | [388011-pixapple-adventure.json](./388011-pixapple-adventure.json) |
@@ -3889,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Sack Racing Simulator 2024 | 274581 | [274581-potato-sack-racing-simulator-2024.json](./274581-potato-sack-racing-simulator-2024.json) |
 | Potato Salad | 290960 | [290960-potato-salad.json](./290960-potato-salad.json) |
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
+| Potato Thriller | 97100 | [97100-potato-thriller.json](./97100-potato-thriller.json) |
 | Potato Vs. Potato | 341560 | [341560-potato-vs-potato.json](./341560-potato-vs-potato.json) |
 | Potion Commotion | 130128 | [130128-potion-commotion.json](./130128-potion-commotion.json) |
 | Potion Commotion | 246494 | [246494-potion-commotion.json](./246494-potion-commotion.json) |
