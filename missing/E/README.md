@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equinox | 264123 | [264123-equinox.json](./264123-equinox.json) |
 | Equinox | 329147 | [329147-equinox.json](./329147-equinox.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
+| Er-Spectro | 81769 | [81769-er-spectro.json](./81769-er-spectro.json) |
 | Era | 83940 | [83940-era.json](./83940-era.json) |
 | Era of Combat: Boxing | 189055 | [189055-era-of-combat-boxing.json](./189055-era-of-combat-boxing.json) |
 | Era of Miracles | 124167 | [124167-era-of-miracles.json](./124167-era-of-miracles.json) |
