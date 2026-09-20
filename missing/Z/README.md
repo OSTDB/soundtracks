@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zonbi Panic | 138734 | [138734-zonbi-panic.json](./138734-zonbi-panic.json) |
 | Zonder: Real-World Travel Game | 282723 | [282723-zonder-real-world-travel-game.json](./282723-zonder-real-world-travel-game.json) |
 | Zone | 358929 | [358929-zone.json](./358929-zone.json) |
+| Zone 10 | 119559 | [119559-zone-10.json](./119559-zone-10.json) |
 | Zone 300 | 255337 | [255337-zone-300.json](./255337-zone-300.json) |
 | Zone 400 | 255338 | [255338-zone-400.json](./255338-zone-400.json) |
 | Zone 404 | 388763 | [388763-zone-404.json](./388763-zone-404.json) |
