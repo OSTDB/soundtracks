@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Life | 11822 | [11822-beach-life.json](./11822-beach-life.json) |
 | Beach Life Simulator | 371247 | [371247-beach-life-simulator.json](./371247-beach-life-simulator.json) |
 | Beach Pong | 109736 | [109736-beach-pong.json](./109736-beach-pong.json) |
+| Beach Restaurant | 80924 | [80924-beach-restaurant.json](./80924-beach-restaurant.json) |
 | Beach Rules | 81784 | [81784-beach-rules.json](./81784-beach-rules.json) |
 | Beach Secrets | 312172 | [312172-beach-secrets.json](./312172-beach-secrets.json) |
 | Beach-Head | 8526 | [8526-beach-head.json](./8526-beach-head.json) |
@@ -1846,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle Ju 3 | 117669 | [117669-beetle-ju-3.json](./117669-beetle-ju-3.json) |
 | Beetle Junior DS | 92471 | [92471-beetle-junior-ds.json](./92471-beetle-junior-ds.json) |
 | Beetle.io | 240338 | [240338-beetle-io.json](./240338-beetle-io.json) |
+| Beetlejuice: Horrific Hijinx from the Neitherworld! | 80889 | [80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json](./80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json) |
 | Beetlenaut | 62197 | [62197-beetlenaut.json](./62197-beetlenaut.json) |
 | BeetleQuest 2023 | 271289 | [271289-beetlequest-2023.json](./271289-beetlequest-2023.json) |
 | Beetles | 163819 | [163819-beetles.json](./163819-beetles.json) |
