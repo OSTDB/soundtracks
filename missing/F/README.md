@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy Prostokvashino | 320397 | [320397-farm-frenzy-prostokvashino.json](./320397-farm-frenzy-prostokvashino.json) |
 | Farm Frenzy: Animal Country | 201278 | [201278-farm-frenzy-animal-country.json](./201278-farm-frenzy-animal-country.json) |
 | Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
+| Farm Girl am Nil | 85883 | [85883-farm-girl-am-nil.json](./85883-farm-girl-am-nil.json) |
 | Farm Invaders | 285555 | [285555-farm-invaders.json](./285555-farm-invaders.json) |
 | Farm Invaders | 324319 | [324319-farm-invaders.json](./324319-farm-invaders.json) |
 | Farm Invasion USA | 61125 | [61125-farm-invasion-usa.json](./61125-farm-invasion-usa.json) |
@@ -1738,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Hannah | 237954 | [237954-finding-hannah.json](./237954-finding-hannah.json) |
 | Finding Light | 110390 | [110390-finding-light.json](./110390-finding-light.json) |
 | Finding Mosey | 214158 | [214158-finding-mosey.json](./214158-finding-mosey.json) |
+| Finding Nemo: Nemo's Ocean Discoveries | 85838 | [85838-finding-nemo-nemos-ocean-discoveries.json](./85838-finding-nemo-nemos-ocean-discoveries.json) |
 | Finding Nemo: Nemo's Underwater World of Fun | 18258 | [18258-finding-nemo-nemos-underwater-world-of-fun.json](./18258-finding-nemo-nemos-underwater-world-of-fun.json) |
 | Finding Santa Christmas Special | 175440 | [175440-finding-santa-christmas-special.json](./175440-finding-santa-christmas-special.json) |
 | Finding summer | 114396 | [114396-finding-summer.json](./114396-finding-summer.json) |
@@ -2093,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Sim World: Pro Tour - Talon Fishery | 170475 | [170475-fishing-sim-world-pro-tour-talon-fishery.json](./170475-fishing-sim-world-pro-tour-talon-fishery.json) |
 | Fishing Sim World: Pro Tour - Tournament Bass Pack | 156156 | [156156-fishing-sim-world-pro-tour-tournament-bass-pack.json](./156156-fishing-sim-world-pro-tour-tournament-bass-pack.json) |
 | Fishing Sim World: Pro Tour - Trophy Hunter's Equipment Pack | 170483 | [170483-fishing-sim-world-pro-tour-trophy-hunters-equipment-pack.json](./170483-fishing-sim-world-pro-tour-trophy-hunters-equipment-pack.json) |
+| Fishing Star | 85837 | [85837-fishing-star.json](./85837-fishing-star.json) |
 | Fishing Superstars | 233640 | [233640-fishing-superstars.json](./233640-fishing-superstars.json) |
 | Fishing the Abyss | 333091 | [333091-fishing-the-abyss.json](./333091-fishing-the-abyss.json) |
 | Fishing Time | 364504 | [364504-fishing-time.json](./364504-fishing-time.json) |
@@ -3004,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden City Journey | 240778 | [240778-forbidden-city-journey.json](./240778-forbidden-city-journey.json) |
 | Forbidden Compass | 404206 | [404206-forbidden-compass.json](./404206-forbidden-compass.json) |
 | Forbidden Dojo | 239737 | [239737-forbidden-dojo.json](./239737-forbidden-dojo.json) |
+| Forbidden Forgiveness | 85836 | [85836-forbidden-forgiveness.json](./85836-forbidden-forgiveness.json) |
 | Forbidden Ghost Photo | 283286 | [283286-forbidden-ghost-photo.json](./283286-forbidden-ghost-photo.json) |
 | Forbidden Ingress | 126566 | [126566-forbidden-ingress.json](./126566-forbidden-ingress.json) |
 | Forbidden Island | 381031 | [381031-forbidden-island.json](./381031-forbidden-island.json) |
@@ -3577,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Trip: Special Edition | 283175 | [283175-freaky-trip-special-edition.json](./283175-freaky-trip-special-edition.json) |
 | Freaky Trip: Superb Edition | 315864 | [315864-freaky-trip-superb-edition.json](./315864-freaky-trip-superb-edition.json) |
 | Frebbventure | 215240 | [215240-frebbventure.json](./215240-frebbventure.json) |
+| Fred | 85866 | [85866-fred.json](./85866-fred.json) |
 | Fred Fuches Around | 397693 | [397693-fred-fuches-around.json](./397693-fred-fuches-around.json) |
 | Fred Johnson's: Mech Simulator | 326429 | [326429-fred-johnsons-mech-simulator.json](./326429-fred-johnsons-mech-simulator.json) |
 | Fred Penner's Company Coming | 209566 | [209566-fred-penners-company-coming.json](./209566-fred-penners-company-coming.json) |
@@ -4264,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furni-Jumpin' | 255132 | [255132-furni-jumpin.json](./255132-furni-jumpin.json) |
 | Furnish Master | 212816 | [212816-furnish-master.json](./212816-furnish-master.json) |
 | Furniture Assembler Simulator | 402351 | [402351-furniture-assembler-simulator.json](./402351-furniture-assembler-simulator.json) |
+| Furopon World | 85822 | [85822-furopon-world.json](./85822-furopon-world.json) |
 | Furries & Scalies & Bears Oh My! 2: Return to Kale Bay | 169296 | [169296-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay.json](./169296-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay.json) |
 | Furries & Scalies & Bears OH MY! 2: Return to Kale Bay - Beyond the Monster Sea | 254146 | [254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json](./254146-furries-and-scalies-and-bears-oh-my-2-return-to-kale-bay-beyond-the-monster-sea.json) |
 | Furries & Scalies & Bears OH MY!: Charity Bonus | 171044 | [171044-furries-and-scalies-and-bears-oh-my-charity-bonus.json](./171044-furries-and-scalies-and-bears-oh-my-charity-bonus.json) |
