@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| S Mahjong 2 | 97722 | [97722-s-mahjong-2.json](./97722-s-mahjong-2.json) |
 | S-Copter | 76653 | [76653-s-copter.json](./76653-s-copter.json) |
 | S. Cargo | 275916 | [275916-s-cargo.json](./275916-s-cargo.json) |
 | S.A.B.A.H. (Sun As Biased As Harmony) | 264596 | [264596-s-a-b-a-h-sun-as-biased-as-harmony.json](./264596-s-a-b-a-h-sun-as-biased-as-harmony.json) |
@@ -545,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandwich Runner | 193845 | [193845-sandwich-runner.json](./193845-sandwich-runner.json) |
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
 | Sang-Froid: Tales of Werewolves | 5446 | [5446-sang-froid-tales-of-werewolves.json](./5446-sang-froid-tales-of-werewolves.json) |
+| Sangeki wo Kuzuse! | 97674 | [97674-sangeki-wo-kuzuse.json](./97674-sangeki-wo-kuzuse.json) |
 | Sangoku Heroes | 69253 | [69253-sangoku-heroes.json](./69253-sangoku-heroes.json) |
 | Sangoku Hime 2 | 63301 | [63301-sangoku-hime-2.json](./63301-sangoku-hime-2.json) |
 | Sangoku Hime: Ransei, Tenka Sanbun no Kei | 62130 | [62130-sangoku-hime-ransei-tenka-sanbun-no-kei.json](./62130-sangoku-hime-ransei-tenka-sanbun-no-kei.json) |
@@ -819,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SBX 5K | 132214 | [132214-sbx-5k.json](./132214-sbx-5k.json) |
 | Scab | 402285 | [402285-scab.json](./402285-scab.json) |
 | Scale | 9042 | [9042-scale.json](./9042-scale.json) |
+| Scale Star | 97686 | [97686-scale-star.json](./97686-scale-star.json) |
 | Scalebound | 264882 | [264882-scalebound.json](./264882-scalebound.json) |
 | Scalebound | 7345 | [7345-scalebound.json](./7345-scalebound.json) |
 | Scales of Silence | 398317 | [398317-scales-of-silence.json](./398317-scales-of-silence.json) |
@@ -1206,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scum: Vehicle Skins Pack | 288905 | [288905-scum-vehicle-skins-pack.json](./288905-scum-vehicle-skins-pack.json) |
 | Scumball | 45361 | [45361-scumball.json](./45361-scumball.json) |
 | Scuos | 116167 | [116167-scuos.json](./116167-scuos.json) |
+| Scurry | 97711 | [97711-scurry.json](./97711-scurry.json) |
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
 | Scythe Shepard | 276717 | [276717-scythe-shepard.json](./276717-scythe-shepard.json) |
 | Scythe X | 137667 | [137667-scythe-x.json](./137667-scythe-x.json) |
@@ -2973,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shougakusei no Uchi ni Oboetai Eitango | 260693 | [260693-shougakusei-no-uchi-ni-oboetai-eitango.json](./260693-shougakusei-no-uchi-ni-oboetai-eitango.json) |
 | Shoujo Activity | 194606 | [194606-shoujo-activity.json](./194606-shoujo-activity.json) |
 | Shoujo Gidan | 167130 | [167130-shoujo-gidan.json](./167130-shoujo-gidan.json) |
+| Shoujo Houkai: Oniichan no Catharsis | 97702 | [97702-shoujo-houkai-oniichan-no-catharsis.json](./97702-shoujo-houkai-oniichan-no-catharsis.json) |
 | Shoujo Kaisen | 174837 | [174837-shoujo-kaisen.json](./174837-shoujo-kaisen.json) |
 | Shoujo Mahou Gaku Little Witch Romanesque Bangai Hen "Sayonara, Mauresumo" | 332429 | [332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json](./332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json) |
 | Shoujo Minority: Nagusame no Ai | 194607 | [194607-shoujo-minority-nagusame-no-ai.json](./194607-shoujo-minority-nagusame-no-ai.json) |
@@ -4383,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slyders | 274462 | [274462-slyders.json](./274462-slyders.json) |
 | Slydris | 22271 | [22271-slydris.json](./22271-slydris.json) |
 | Slyme Breaker | 248336 | [248336-slyme-breaker.json](./248336-slyme-breaker.json) |
+| SM Escalation | 97675 | [97675-sm-escalation.json](./97675-sm-escalation.json) |
 | SM Word | 93041 | [93041-sm-word.json](./93041-sm-word.json) |
 | SM64 Colorful Stars | 313109 | [313109-sm64-colorful-stars.json](./313109-sm64-colorful-stars.json) |
 | SM64 Coop Deluxe: Mario in the Multiverse | 378261 | [378261-sm64-coop-deluxe-mario-in-the-multiverse.json](./378261-sm64-coop-deluxe-mario-in-the-multiverse.json) |
@@ -6775,6 +6781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spermula 1 | 131598 | [131598-spermula-1.json](./131598-spermula-1.json) |
 | SPGP Super Polygon Grand Prix | 274542 | [274542-spgp-super-polygon-grand-prix.json](./274542-spgp-super-polygon-grand-prix.json) |
 | Sphaera | 103771 | [103771-sphaera.json](./103771-sphaera.json) |
+| Spherakill | 97717 | [97717-spherakill.json](./97717-spherakill.json) |
 | Sphere | 264887 | [264887-sphere.json](./264887-sphere.json) |
 | Sphere | 313887 | [313887-sphere.json](./313887-sphere.json) |
 | Sphere Arena | 166762 | [166762-sphere-arena.json](./166762-sphere-arena.json) |
@@ -9646,6 +9653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Auto Racing | 245581 | [245581-super-auto-racing.json](./245581-super-auto-racing.json) |
 | Super Auto Salon: Custom Car Contest | 133782 | [133782-super-auto-salon-custom-car-contest.json](./133782-super-auto-salon-custom-car-contest.json) |
 | Super B-Dino's adventures | 101386 | [101386-super-b-dinos-adventures.json](./101386-super-b-dinos-adventures.json) |
+| Super Baby | 97678 | [97678-super-baby.json](./97678-super-baby.json) |
 | Super Bad Hero | 296504 | [296504-super-bad-hero.json](./296504-super-bad-hero.json) |
 | Super Ball Arena | 215707 | [215707-super-ball-arena.json](./215707-super-ball-arena.json) |
 | Super Barista | 128408 | [128408-super-barista.json](./128408-super-barista.json) |
@@ -11092,6 +11100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Treat Solitaire | 386150 | [386150-sweet-treat-solitaire.json](./386150-sweet-treat-solitaire.json) |
 | Sweet Treats | 104043 | [104043-sweet-treats.json](./104043-sweet-treats.json) |
 | Sweet Valentine Chocolatier | 401644 | [401644-sweet-valentine-chocolatier.json](./401644-sweet-valentine-chocolatier.json) |
+| Sweet Wave | 97710 | [97710-sweet-wave.json](./97710-sweet-wave.json) |
 | SweeTARTS 3D | 373551 | [373551-sweetarts-3d.json](./373551-sweetarts-3d.json) |
 | Sweetest Monster | 300720 | [300720-sweetest-monster.json](./300720-sweetest-monster.json) |
 | Sweetest Thing | 85412 | [85412-sweetest-thing.json](./85412-sweetest-thing.json) |
