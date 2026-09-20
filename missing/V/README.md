@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varsapura | 378268 | [378268-varsapura.json](./378268-varsapura.json) |
 | Varyznex | 329154 | [329154-varyznex.json](./329154-varyznex.json) |
 | Vasilisa the Beautiful | 360566 | [360566-vasilisa-the-beautiful.json](./360566-vasilisa-the-beautiful.json) |
+| Vast | 116103 | [116103-vast.json](./116103-vast.json) |
 | Vast Haven-1 VR | 350495 | [350495-vast-haven-1-vr.json](./350495-vast-haven-1-vr.json) |
 | Vaster Claws 3: Dragon Slayer of the God World | 132243 | [132243-vaster-claws-3-dragon-slayer-of-the-god-world.json](./132243-vaster-claws-3-dragon-slayer-of-the-god-world.json) |
 | Vaster Claws 3: Dragon Slayer of the God World - Special Pack | 156116 | [156116-vaster-claws-3-dragon-slayer-of-the-god-world-special-pack.json](./156116-vaster-claws-3-dragon-slayer-of-the-god-world-special-pack.json) |
