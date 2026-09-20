@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Puff MacFly | 361728 | [361728-captain-puff-macfly.json](./361728-captain-puff-macfly.json) |
 | Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
 | Captain Rocket | 344959 | [344959-captain-rocket.json](./344959-captain-rocket.json) |
+| Captain Scarlet | 83233 | [83233-captain-scarlet.json](./83233-captain-scarlet.json) |
 | Captain Speedfin | 391071 | [391071-captain-speedfin.json](./391071-captain-speedfin.json) |
 | Captain StarOne | 114939 | [114939-captain-starone.json](./114939-captain-starone.json) |
 | Captain Superhero Flying Robot Rescue | 101981 | [101981-captain-superhero-flying-robot-rescue.json](./101981-captain-superhero-flying-robot-rescue.json) |
@@ -622,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Racing Extreme | 99398 | [99398-car-racing-extreme.json](./99398-car-racing-extreme.json) |
 | Car Racing Ice: Classic | 288372 | [288372-car-racing-ice-classic.json](./288372-car-racing-ice-classic.json) |
 | Car Racing: Highway Driving Simulator - Premium Edition | 283153 | [283153-car-racing-highway-driving-simulator-premium-edition.json](./283153-car-racing-highway-driving-simulator-premium-edition.json) |
+| Car Simulator 2015 | 83216 | [83216-car-simulator-2015.json](./83216-car-simulator-2015.json) |
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Tycoon | 362291 | [362291-car-tycoon.json](./362291-car-tycoon.json) |
@@ -965,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CasinoRPG | 82057 | [82057-casinorpg.json](./82057-casinorpg.json) |
 | Casio Handheld Games CG-5X emulator for ZX Spectrum | 279735 | [279735-casio-handheld-games-cg-5x-emulator-for-zx-spectrum.json](./279735-casio-handheld-games-cg-5x-emulator-for-zx-spectrum.json) |
 | Casos Extravagantes Poco Complicados | 151531 | [151531-casos-extravagantes-poco-complicados.json](./151531-casos-extravagantes-poco-complicados.json) |
+| Casper and the Ghostly Trio | 83232 | [83232-casper-and-the-ghostly-trio.json](./83232-casper-and-the-ghostly-trio.json) |
 | Casper: Friends Around the World | 44956 | [44956-casper-friends-around-the-world.json](./44956-casper-friends-around-the-world.json) |
 | Cassandra's Fabulous Foray | 67931 | [67931-cassandras-fabulous-foray.json](./67931-cassandras-fabulous-foray.json) |
 | Cassette 50 | 93344 | [93344-cassette-50.json](./93344-cassette-50.json) |
@@ -1310,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Category Challenge | 246955 | [246955-category-challenge.json](./246955-category-challenge.json) |
 | Catena | 342033 | [342033-catena.json](./342033-catena.json) |
 | Cateran | 96767 | [96767-cateran.json](./96767-cateran.json) |
+| Caterpilla | 83266 | [83266-caterpilla.json](./83266-caterpilla.json) |
 | Caterpillar King | 384085 | [384085-caterpillar-king.json](./384085-caterpillar-king.json) |
 | Caterpillar Royale | 115466 | [115466-caterpillar-royale.json](./115466-caterpillar-royale.json) |
 | Caterra | 224079 | [224079-caterra.json](./224079-caterra.json) |
@@ -2111,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Gun | 413002 | [413002-chicken-gun.json](./413002-chicken-gun.json) |
 | Chicken Hill | 324310 | [324310-chicken-hill.json](./324310-chicken-hill.json) |
 | Chicken Holmes: The Mystery of Bartolomeu | 163827 | [163827-chicken-holmes-the-mystery-of-bartolomeu.json](./163827-chicken-holmes-the-mystery-of-bartolomeu.json) |
+| Chicken Hunter | 83235 | [83235-chicken-hunter.json](./83235-chicken-hunter.json) |
 | Chicken in the Darkness | 110341 | [110341-chicken-in-the-darkness.json](./110341-chicken-in-the-darkness.json) |
 | Chicken Invaders | 11713 | [11713-chicken-invaders.json](./11713-chicken-invaders.json) |
 | Chicken Invaders 2 Xmas | 99974 | [99974-chicken-invaders-2-xmas.json](./99974-chicken-invaders-2-xmas.json) |
@@ -4702,6 +4707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country House | 169983 | [169983-country-house.json](./169983-country-house.json) |
 | Country Park | 105136 | [105136-country-park.json](./105136-country-park.json) |
 | Country Star | 292826 | [292826-country-star.json](./292826-country-star.json) |
+| Country Varmint Hunter | 83236 | [83236-country-varmint-hunter.json](./83236-country-varmint-hunter.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
 | Countryballs: The Heist | 302945 | [302945-countryballs-the-heist.json](./302945-countryballs-the-heist.json) |
 | Countryside Farm Clues | 402930 | [402930-countryside-farm-clues.json](./402930-countryside-farm-clues.json) |
@@ -5039,7 +5045,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken Jump'n Run: Atlantis Quest | 282571 | [282571-crazy-chicken-jumpn-run-atlantis-quest.json](./282571-crazy-chicken-jumpn-run-atlantis-quest.json) |
 | Crazy Chicken Kart Extra | 92853 | [92853-crazy-chicken-kart-extra.json](./92853-crazy-chicken-kart-extra.json) |
 | Crazy Chicken Pinball Vol. 1 | 96540 | [96540-crazy-chicken-pinball-vol-1.json](./96540-crazy-chicken-pinball-vol-1.json) |
+| Crazy Chicken Strikes Back | 83239 | [83239-crazy-chicken-strikes-back.json](./83239-crazy-chicken-strikes-back.json) |
 | Crazy Chicken Xtreme | 198390 | [198390-crazy-chicken-xtreme.json](./198390-crazy-chicken-xtreme.json) |
+| Crazy Chicken: Director's Cut | 83234 | [83234-crazy-chicken-directors-cut.json](./83234-crazy-chicken-directors-cut.json) |
 | Crazy Chicken: Pirates | 282572 | [282572-crazy-chicken-pirates.json](./282572-crazy-chicken-pirates.json) |
 | Crazy Chicken: Shooter Edition | 143060 | [143060-crazy-chicken-shooter-edition.json](./143060-crazy-chicken-shooter-edition.json) |
 | Crazy Climber | 347695 | [347695-crazy-climber.json](./347695-crazy-climber.json) |
