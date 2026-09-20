@@ -2172,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderland Quest | 216482 | [216482-wonderland-quest.json](./216482-wonderland-quest.json) |
 | Wonderland Secret Worlds | 260964 | [260964-wonderland-secret-worlds.json](./260964-wonderland-secret-worlds.json) |
 | Wonderland Solitaire | 415955 | [415955-wonderland-solitaire.json](./415955-wonderland-solitaire.json) |
+| Wonderland Trails | 110179 | [110179-wonderland-trails.json](./110179-wonderland-trails.json) |
 | Wonderland Wars | 138597 | [138597-wonderland-wars.json](./138597-wonderland-wars.json) |
 | WonderLang French | 312549 | [312549-wonderlang-french.json](./312549-wonderlang-french.json) |
 | Wonderlang Korean | 345031 | [345031-wonderlang-korean.json](./345031-wonderlang-korean.json) |
