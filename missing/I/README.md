@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imi ga Wakaru to Kowai Shashin | 251604 | [251604-imi-ga-wakaru-to-kowai-shashin.json](./251604-imi-ga-wakaru-to-kowai-shashin.json) |
 | iMimic: 80's Vintage Electronic Memory Game | 232142 | [232142-imimic-80s-vintage-electronic-memory-game.json](./232142-imimic-80s-vintage-electronic-memory-game.json) |
 | Imitating Zombies | 189191 | [189191-imitating-zombies.json](./189191-imitating-zombies.json) |
+| Imitation City | 64680 | [64680-imitation-city.json](./64680-imitation-city.json) |
 | Imitation Girl | 382343 | [382343-imitation-girl.json](./382343-imitation-girl.json) |
 | IMM Defense | 86769 | [86769-imm-defense.json](./86769-imm-defense.json) |
 | Immay | 253922 | [253922-immay.json](./253922-immay.json) |
