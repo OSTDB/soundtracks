@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escalation: Aggressors | 127759 | [127759-escalation-aggressors.json](./127759-escalation-aggressors.json) |
 | Escalation! | 150099 | [150099-escalation.json](./150099-escalation.json) |
 | Escapatoria | 125195 | [125195-escapatoria.json](./125195-escapatoria.json) |
+| Escape | 114755 | [114755-escape.json](./114755-escape.json) |
 | Escape | 154377 | [154377-escape.json](./154377-escape.json) |
 | Escape | 175910 | [175910-escape.json](./175910-escape.json) |
 | Escape | 230863 | [230863-escape.json](./230863-escape.json) |
