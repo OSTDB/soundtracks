@@ -3492,6 +3492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HQ Trivia | 214770 | [214770-hq-trivia.json](./214770-hq-trivia.json) |
 | HR Simulator | 322971 | [322971-hr-simulator.json](./322971-hr-simulator.json) |
 | HR2 | 178540 | [178540-hr2.json](./178540-hr2.json) |
+| Hrdina | 119543 | [119543-hrdina.json](./119543-hrdina.json) |
 | Hrumka | 277825 | [277825-hrumka.json](./277825-hrumka.json) |
 | HS Galaxy | 147450 | [147450-hs-galaxy.json](./147450-hs-galaxy.json) |
 | HSNU Academy 79th Anniversary | 396207 | [396207-hsnu-academy-79th-anniversary.json](./396207-hsnu-academy-79th-anniversary.json) |
