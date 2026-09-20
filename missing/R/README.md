@@ -1185,6 +1185,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Crow Mysteries: Legion | 9410 | [9410-red-crow-mysteries-legion.json](./9410-red-crow-mysteries-legion.json) |
 | Red Crucible: Phoenix Rising | 240786 | [240786-red-crucible-phoenix-rising.json](./240786-red-crucible-phoenix-rising.json) |
 | Red Dead Online | 141338 | [141338-red-dead-online.json](./141338-red-dead-online.json) |
+| Red Dead Redemption 2: Collector's Box | 103207 | [103207-red-dead-redemption-2-collectors-box.json](./103207-red-dead-redemption-2-collectors-box.json) |
+| Red Dead Redemption 2: Special Edition | 103205 | [103205-red-dead-redemption-2-special-edition.json](./103205-red-dead-redemption-2-special-edition.json) |
 | Red Dead Redemption: Gunslingers | 355106 | [355106-red-dead-redemption-gunslingers.json](./355106-red-dead-redemption-gunslingers.json) |
 | Red Dead Redemption: Liars and Cheats | 114990 | [114990-red-dead-redemption-liars-and-cheats.json](./114990-red-dead-redemption-liars-and-cheats.json) |
 | Red Dead Redemption: Myths and Mavericks | 43356 | [43356-red-dead-redemption-myths-and-mavericks.json](./43356-red-dead-redemption-myths-and-mavericks.json) |
@@ -1199,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Embrace: Hollywood | 110753 | [110753-red-embrace-hollywood.json](./110753-red-embrace-hollywood.json) |
 | Red Embrace: Paradisus | 186332 | [186332-red-embrace-paradisus.json](./186332-red-embrace-paradisus.json) |
 | Red Entity | 181917 | [181917-red-entity.json](./181917-red-entity.json) |
+| Red Eyes | 103195 | [103195-red-eyes.json](./103195-red-eyes.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
 | Red Flood | 321567 | [321567-red-flood.json](./321567-red-flood.json) |
@@ -1377,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reenchant | 365732 | [365732-reenchant.json](./365732-reenchant.json) |
 | ReEstate | 197409 | [197409-reestate.json](./197409-reestate.json) |
 | Reeve | 223463 | [223463-reeve.json](./223463-reeve.json) |
+| ReEvolve | 103178 | [103178-reevolve.json](./103178-reevolve.json) |
 | Refactor | 155510 | [155510-refactor.json](./155510-refactor.json) |
 | Refactor | 35928 | [35928-refactor.json](./35928-refactor.json) |
 | Refantasia: Charm and Conquer | 200744 | [200744-refantasia-charm-and-conquer.json](./200744-refantasia-charm-and-conquer.json) |
