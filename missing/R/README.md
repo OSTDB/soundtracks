@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranma ½: Chounai Gekitou-hen | 75857 | [75857-ranma-1-2-chounai-gekitou-hen.json](./75857-ranma-1-2-chounai-gekitou-hen.json) |
 | Ranma ½: Datou, Ganso Musabetsu Kakutou-ryuu! | 75858 | [75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json](./75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json) |
 | Ransomware Dating Sim | 124221 | [124221-ransomware-dating-sim.json](./124221-ransomware-dating-sim.json) |
+| Rantou Proresu | 83211 | [83211-rantou-proresu.json](./83211-rantou-proresu.json) |
 | Rap Quest | 295037 | [295037-rap-quest.json](./295037-rap-quest.json) |
 | Rapala Fishing Frenzy 2009 | 7155 | [7155-rapala-fishing-frenzy-2009.json](./7155-rapala-fishing-frenzy-2009.json) |
 | Rapala's Fishing Frenzy | 50605 | [50605-rapalas-fishing-frenzy.json](./50605-rapalas-fishing-frenzy.json) |
