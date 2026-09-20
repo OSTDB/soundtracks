@@ -1414,6 +1414,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mart Racer | 21060 | [21060-mart-racer.json](./21060-mart-racer.json) |
 | Martha | 144357 | [144357-martha.json](./144357-martha.json) |
 | Martha Is Dead: Digital Deluxe | 192310 | [192310-martha-is-dead-digital-deluxe.json](./192310-martha-is-dead-digital-deluxe.json) |
+| Martha Madison: Electricity | 83960 | [83960-martha-madison-electricity.json](./83960-martha-madison-electricity.json) |
+| Martha Madison: Energy | 83961 | [83961-martha-madison-energy.json](./83961-martha-madison-energy.json) |
+| Martha Madison: Forces | 83956 | [83956-martha-madison-forces.json](./83956-martha-madison-forces.json) |
+| Martha Madison: Magnetism | 83959 | [83959-martha-madison-magnetism.json](./83959-martha-madison-magnetism.json) |
+| Martha Madison: Optics | 83932 | [83932-martha-madison-optics.json](./83932-martha-madison-optics.json) |
+| Martha Madison: Simple Machines Volume 1 | 83957 | [83957-martha-madison-simple-machines-volume-1.json](./83957-martha-madison-simple-machines-volume-1.json) |
+| Martha Madison: Simple Machines Volume 2 | 83958 | [83958-martha-madison-simple-machines-volume-2.json](./83958-martha-madison-simple-machines-volume-2.json) |
+| Martha Madison: Waves | 83962 | [83962-martha-madison-waves.json](./83962-martha-madison-waves.json) |
 | Martial Arts Peerless War | 259000 | [259000-martial-arts-peerless-war.json](./259000-martial-arts-peerless-war.json) |
 | Martial Arts Tycoon: Brazil | 253906 | [253906-martial-arts-tycoon-brazil.json](./253906-martial-arts-tycoon-brazil.json) |
 | Martial Arts: God of War | 294271 | [294271-martial-arts-god-of-war.json](./294271-martial-arts-god-of-war.json) |
@@ -1962,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Doors | 414417 | [414417-maze-of-doors.json](./414417-maze-of-doors.json) |
 | Maze of Mayhem | 329726 | [329726-maze-of-mayhem.json](./329726-maze-of-mayhem.json) |
 | Maze of Moros | 297510 | [297510-maze-of-moros.json](./297510-maze-of-moros.json) |
+| Maze of Pain | 83951 | [83951-maze-of-pain.json](./83951-maze-of-pain.json) |
 | Maze of Realities: Reflection of Light - Collector's Edition | 218702 | [218702-maze-of-realities-reflection-of-light-collectors-edition.json](./218702-maze-of-realities-reflection-of-light-collectors-edition.json) |
 | Maze of Realities: Symphony of Invention - Collector's Edition | 289460 | [289460-maze-of-realities-symphony-of-invention-collectors-edition.json](./289460-maze-of-realities-symphony-of-invention-collectors-edition.json) |
 | Maze of Realities: Symphony of Invention DLC | 289859 | [289859-maze-of-realities-symphony-of-invention-dlc.json](./289859-maze-of-realities-symphony-of-invention-dlc.json) |
@@ -6737,6 +6746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths and Legends Bundle: Tunche & Black Book | 188026 | [188026-myths-and-legends-bundle-tunche-and-black-book.json](./188026-myths-and-legends-bundle-tunche-and-black-book.json) |
 | Myths of Moonrise | 214170 | [214170-myths-of-moonrise.json](./214170-myths-of-moonrise.json) |
 | Myths of Rules | 262452 | [262452-myths-of-rules.json](./262452-myths-of-rules.json) |
+| Myths of the World: Behind the Veil - Collector's Edition | 83915 | [83915-myths-of-the-world-behind-the-veil-collectors-edition.json](./83915-myths-of-the-world-behind-the-veil-collectors-edition.json) |
 | Myths of the World: Black Rose HD | 104490 | [104490-myths-of-the-world-black-rose-hd.json](./104490-myths-of-the-world-black-rose-hd.json) |
 | Myths of the World: Of Fiends and Fairies HD | 106644 | [106644-myths-of-the-world-of-fiends-and-fairies-hd.json](./106644-myths-of-the-world-of-fiends-and-fairies-hd.json) |
 | Myths of the World: Spirit Wolf - Collector's Edition | 83555 | [83555-myths-of-the-world-spirit-wolf-collectors-edition.json](./83555-myths-of-the-world-spirit-wolf-collectors-edition.json) |
