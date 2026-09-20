@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoids: The Battle Begins | 75873 | [75873-zoids-the-battle-begins.json](./75873-zoids-the-battle-begins.json) |
 | Zoidtrip | 344908 | [344908-zoidtrip.json](./344908-zoidtrip.json) |
 | Zoinho in the Garden of Fools | 217922 | [217922-zoinho-in-the-garden-of-fools.json](./217922-zoinho-in-the-garden-of-fools.json) |
+| Zok Zok Heroes | 65766 | [65766-zok-zok-heroes.json](./65766-zok-zok-heroes.json) |
 | Zoku Mikagura Shoujo Tanteidan: Kanketsuhen | 60574 | [60574-zoku-mikagura-shoujo-tanteidan-kanketsuhen.json](./60574-zoku-mikagura-shoujo-tanteidan-kanketsuhen.json) |
 | Zoku Sono Higurashi vs Touhou Universe 2 | 135659 | [135659-zoku-sono-higurashi-vs-touhou-universe-2.json](./135659-zoku-sono-higurashi-vs-touhou-universe-2.json) |
 | Zolana: Girl Galactic | 404943 | [404943-zolana-girl-galactic.json](./404943-zolana-girl-galactic.json) |
