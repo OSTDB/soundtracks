@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FastBall 2 | 257370 | [257370-fastball-2.json](./257370-fastball-2.json) |
 | FastBall 2 F. | 259077 | [259077-fastball-2-f.json](./259077-fastball-2-f.json) |
 | Faster Harder More Challenging Q*bert | 39671 | [39671-faster-harder-more-challenging-q-bert.json](./39671-faster-harder-more-challenging-q-bert.json) |
+| Fastest 1 | 122854 | [122854-fastest-1.json](./122854-fastest-1.json) |
 | Fastest Finger First! 3 Hint Quiz | 283287 | [283287-fastest-finger-first-3-hint-quiz.json](./283287-fastest-finger-first-3-hint-quiz.json) |
 | FastGo Running | 104021 | [104021-fastgo-running.json](./104021-fastgo-running.json) |
 | Fastidious | 381013 | [381013-fastidious.json](./381013-fastidious.json) |
@@ -3993,6 +3994,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fugue in Void | 105212 | [105212-fugue-in-void.json](./105212-fugue-in-void.json) |
 | Fuhrer in LA: Special Edition | 252177 | [252177-fuhrer-in-la-special-edition.json](./252177-fuhrer-in-la-special-edition.json) |
 | Fujiwara Phoenix | 245869 | [245869-fujiwara-phoenix.json](./245869-fujiwara-phoenix.json) |
+| Fukakutei Sekai no Tantei Shinshi | 122877 | [122877-fukakutei-sekai-no-tantei-shinshi.json](./122877-fukakutei-sekai-no-tantei-shinshi.json) |
+| Fukakutei Sekai no Tantei Shinshi Hardcore! | 122874 | [122874-fukakutei-sekai-no-tantei-shinshi-hardcore.json](./122874-fukakutei-sekai-no-tantei-shinshi-hardcore.json) |
+| Fukakutei Sekai no Tantei Shinshi Origin! | 122880 | [122880-fukakutei-sekai-no-tantei-shinshi-origin.json](./122880-fukakutei-sekai-no-tantei-shinshi-origin.json) |
+| Fukakutei Sekai no Tantei Shinshi Rebirth! | 122878 | [122878-fukakutei-sekai-no-tantei-shinshi-rebirth.json](./122878-fukakutei-sekai-no-tantei-shinshi-rebirth.json) |
+| Fukakutei Sekai no Tantei Shinshi Virginal Vol. 1 | 122875 | [122875-fukakutei-sekai-no-tantei-shinshi-virginal-vol-1.json](./122875-fukakutei-sekai-no-tantei-shinshi-virginal-vol-1.json) |
+| Fukakutei Sekai no Tantei Shinshi Virginal Vol. 2 | 122876 | [122876-fukakutei-sekai-no-tantei-shinshi-virginal-vol-2.json](./122876-fukakutei-sekai-no-tantei-shinshi-virginal-vol-2.json) |
+| Fukakutei Sekai no Tantei Shinshi: Akugyou Futaasa no Jiken File | 122879 | [122879-fukakutei-sekai-no-tantei-shinshi-akugyou-futaasa-no-jiken-file.json](./122879-fukakutei-sekai-no-tantei-shinshi-akugyou-futaasa-no-jiken-file.json) |
 | Fukoumori: Moririi no Unhappy Project | 269677 | [269677-fukoumori-moririi-no-unhappy-project.json](./269677-fukoumori-moririi-no-unhappy-project.json) |
 | FukTopia 3 | 173833 | [173833-fuktopia-3.json](./173833-fuktopia-3.json) |
 | Fukufuku no Shima | 59373 | [59373-fukufuku-no-shima.json](./59373-fukufuku-no-shima.json) |
