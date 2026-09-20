@@ -6333,6 +6333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybernated | 313681 | [313681-cybernated.json](./313681-cybernated.json) |
 | CyberNet Duel | 258525 | [258525-cybernet-duel.json](./258525-cybernet-duel.json) |
 | Cybernetic Fault | 161369 | [161369-cybernetic-fault.json](./161369-cybernetic-fault.json) |
+| Cybernetic Hi-School Part 2: Highway Buster | 70080 | [70080-cybernetic-hi-school-part-2-highway-buster.json](./70080-cybernetic-hi-school-part-2-highway-buster.json) |
 | Cybernetica: Final | 190738 | [190738-cybernetica-final.json](./190738-cybernetica-final.json) |
 | Cybernoid II: The Revenge | 12025 | [12025-cybernoid-ii-the-revenge.json](./12025-cybernoid-ii-the-revenge.json) |
 | Cyberpedia | 364522 | [364522-cyberpedia.json](./364522-cyberpedia.json) |
