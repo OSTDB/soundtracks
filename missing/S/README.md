@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Paranormal Laboratory | 294289 | [294289-school-paranormal-laboratory.json](./294289-school-paranormal-laboratory.json) |
 | School Race GP | 219281 | [219281-school-race-gp.json](./219281-school-race-gp.json) |
 | School Romance: Love or Lose | 250639 | [250639-school-romance-love-or-lose.json](./250639-school-romance-love-or-lose.json) |
+| School Rumble: Nee-san Jiken Desu! | 67683 | [67683-school-rumble-nee-san-jiken-desu.json](./67683-school-rumble-nee-san-jiken-desu.json) |
 | School Tycoon | 9203 | [9203-school-tycoon.json](./9203-school-tycoon.json) |
 | School Years | 132045 | [132045-school-years.json](./132045-school-years.json) |
 | School: The Hardest RPG in Your Life | 263765 | [263765-school-the-hardest-rpg-in-your-life.json](./263765-school-the-hardest-rpg-in-your-life.json) |
@@ -6819,6 +6820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway Challenge 2024 | 292550 | [292550-speedway-challenge-2024.json](./292550-speedway-challenge-2024.json) |
 | Speedway Challenge Career | 107685 | [107685-speedway-challenge-career.json](./107685-speedway-challenge-career.json) |
 | Speedway League | 54382 | [54382-speedway-league.json](./54382-speedway-league.json) |
+| Speedway Liga | 67675 | [67675-speedway-liga.json](./67675-speedway-liga.json) |
 | Speedway Ringer | 238627 | [238627-speedway-ringer.json](./238627-speedway-ringer.json) |
 | Speedway/Tag | 92529 | [92529-speedway-tag.json](./92529-speedway-tag.json) |
 | Speedy 500 | 303110 | [303110-speedy-500.json](./303110-speedy-500.json) |
@@ -11687,6 +11689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Control | 157184 | [157184-system-control.json](./157184-system-control.json) |
 | System Death | 319794 | [319794-system-death.json](./319794-system-death.json) |
 | System Escape | 237067 | [237067-system-escape.json](./237067-system-escape.json) |
+| System Flaw | 67695 | [67695-system-flaw.json](./67695-system-flaw.json) |
 | System Flaw Recruit | 79880 | [79880-system-flaw-recruit.json](./79880-system-flaw-recruit.json) |
 | System Goose Overload | 90651 | [90651-system-goose-overload.json](./90651-system-goose-overload.json) |
 | System Intrusion | 169367 | [169367-system-intrusion.json](./169367-system-intrusion.json) |
