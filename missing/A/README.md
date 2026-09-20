@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent Action | 138003 | [138003-agent-action.json](./138003-agent-action.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
+| Agent MOO: Maximum Overdeath | 66387 | [66387-agent-moo-maximum-overdeath.json](./66387-agent-moo-maximum-overdeath.json) |
 | Agent X: Equation Rider | 81754 | [81754-agent-x-equation-rider.json](./81754-agent-x-equation-rider.json) |
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
 | Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
@@ -1247,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akazukin Cha-cha | 228473 | [228473-akazukin-cha-cha.json](./228473-akazukin-cha-cha.json) |
 | Akazukin Dark Side | 150154 | [150154-akazukin-dark-side.json](./150154-akazukin-dark-side.json) |
 | AKB1/153: Renai Sousenkyo - Ultra Luxury Limited Box | 89867 | [89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json](./89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json) |
+| AKB1/48: Idol to Koishitara | 66373 | [66373-akb1-48-idol-to-koishitara.json](./66373-akb1-48-idol-to-koishitara.json) |
 | Akcionář II | 391053 | [391053-akcionar-ii.json](./391053-akcionar-ii.json) |
 | Akechi to Iu Otoko: A Danshaku-tei Satsujin Jiken | 340395 | [340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json](./340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json) |
 | Akeno's Veil | 343874 | [343874-akenos-veil.json](./343874-akenos-veil.json) |
@@ -2739,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankh Guardian: Treasure of the Demon's Temple | 120180 | [120180-ankh-guardian-treasure-of-the-demons-temple.json](./120180-ankh-guardian-treasure-of-the-demons-temple.json) |
 | Ankh: Anniversary Edition | 35651 | [35651-ankh-anniversary-edition.json](./35651-ankh-anniversary-edition.json) |
 | Ankh: Curse of the Scarab King | 21271 | [21271-ankh-curse-of-the-scarab-king.json](./21271-ankh-curse-of-the-scarab-king.json) |
+| Ankh: The Tales of Mystery | 66357 | [66357-ankh-the-tales-of-mystery.json](./66357-ankh-the-tales-of-mystery.json) |
 | Ankhet | 213958 | [213958-ankhet.json](./213958-ankhet.json) |
 | Ankoku Shinwa: Yamato Takeru Densetsu | 48633 | [48633-ankoku-shinwa-yamato-takeru-densetsu.json](./48633-ankoku-shinwa-yamato-takeru-densetsu.json) |
 | Ankora: Lost Days | 108867 | [108867-ankora-lost-days.json](./108867-ankora-lost-days.json) |
