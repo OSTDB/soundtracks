@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooga Booga | 10961 | [10961-ooga-booga.json](./10961-ooga-booga.json) |
 | Ooga Booga Battle | 341512 | [341512-ooga-booga-battle.json](./341512-ooga-booga-battle.json) |
 | Oogy: Can You Help | 190086 | [190086-oogy-can-you-help.json](./190086-oogy-can-you-help.json) |
+| Ookami to Koushinryou: Boku to Holo no Ichi-nen | 123449 | [123449-ookami-to-koushinryou-boku-to-holo-no-ichi-nen.json](./123449-ookami-to-koushinryou-boku-to-holo-no-ichi-nen.json) |
 | Ookibloks | 34516 | [34516-ookibloks.json](./34516-ookibloks.json) |
 | Ookouchi Gengorou Ikka | 247528 | [247528-ookouchi-gengorou-ikka.json](./247528-ookouchi-gengorou-ikka.json) |
 | Oolite | 47274 | [47274-oolite.json](./47274-oolite.json) |
