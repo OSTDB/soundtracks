@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will: A Wonderful World | 34657 | [34657-will-a-wonderful-world.json](./34657-will-a-wonderful-world.json) |
 | Will: The Beginning | 368050 | [368050-will-the-beginning.json](./368050-will-the-beginning.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
+| Williams Arcade Classics | 71782 | [71782-williams-arcade-classics.json](./71782-williams-arcade-classics.json) |
 | Williams Arcade's Greatest Hits | 20713 | [20713-williams-arcades-greatest-hits.json](./20713-williams-arcades-greatest-hits.json) |
 | Williams Arcade's Greatest Hits | 287084 | [287084-williams-arcades-greatest-hits.json](./287084-williams-arcades-greatest-hits.json) |
 | Williams Pinball: Attack from Mars | 354452 | [354452-williams-pinball-attack-from-mars.json](./354452-williams-pinball-attack-from-mars.json) |
