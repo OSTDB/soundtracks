@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 of Me | 221177 | [221177-2-of-me.json](./221177-2-of-me.json) |
 | 2 Player Baseball | 245578 | [245578-2-player-baseball.json](./245578-2-player-baseball.json) |
 | 2 Sectors | 260785 | [260785-2-sectors.json](./260785-2-sectors.json) |
+| 2 Spicy | 66967 | [66967-2-spicy.json](./66967-2-spicy.json) |
 | 2 Synchro Hedgehogs | 167831 | [167831-2-synchro-hedgehogs.json](./167831-2-synchro-hedgehogs.json) |
 | 2-3-5-7 | 186187 | [186187-2-3-5-7.json](./186187-2-3-5-7.json) |
 | 2-Bit Cowboy Rides Again | 316061 | [316061-2-bit-cowboy-rides-again.json](./316061-2-bit-cowboy-rides-again.json) |
@@ -824,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Bottles of Beer | 249256 | [249256-99-bottles-of-beer.json](./249256-99-bottles-of-beer.json) |
 | 99 Cars: Zig Zag Racer | 240209 | [240209-99-cars-zig-zag-racer.json](./240209-99-cars-zig-zag-racer.json) |
 | 99 Dead Pirates | 240886 | [240886-99-dead-pirates.json](./240886-99-dead-pirates.json) |
+| 99 no Namida | 66970 | [66970-99-no-namida.json](./66970-99-no-namida.json) |
 | 99 Problems | 353316 | [353316-99-problems.json](./353316-99-problems.json) |
 | 99 Waves | 283870 | [283870-99-waves.json](./283870-99-waves.json) |
 | 99% Can't Spot It! Common Sense Battle | 409671 | [409671-99-cant-spot-it-common-sense-battle.json](./409671-99-cant-spot-it-common-sense-battle.json) |
@@ -852,4 +854,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ​Our Life: Beginnings & Always - Step 3 Expansion | 161753 | [161753-our-life-beginnings-and-always-step-3-expansion.json](./161753-our-life-beginnings-and-always-step-3-expansion.json) |
 | ​Outer Wilds: A Thrilling Graphical Text Adventure | 304188 | [304188-outer-wilds-a-thrilling-graphical-text-adventure.json](./304188-outer-wilds-a-thrilling-graphical-text-adventure.json) |
 | Život Není Krásný: Poslední Exekuce | 401633 | [401633-zivot-neni-krasny-posledni-exekuce.json](./401633-zivot-neni-krasny-posledni-exekuce.json) |
+| µTanks | 66920 | [66920-tanks.json](./66920-tanks.json) |
 | 一>◇ | 100203 | [100203-.json](./100203-.json) |
