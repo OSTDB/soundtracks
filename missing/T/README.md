@@ -4835,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Queen's Footsteps | 304181 | [304181-the-queens-footsteps.json](./304181-the-queens-footsteps.json) |
 | The Queen's Gambit Chess | 204451 | [204451-the-queens-gambit-chess.json](./204451-the-queens-gambit-chess.json) |
 | The Queens Gondola | 404841 | [404841-the-queens-gondola.json](./404841-the-queens-gondola.json) |
+| The Quest - Hero of Lukomorye III | 105770 | [105770-the-quest-hero-of-lukomorye-iii.json](./105770-the-quest-hero-of-lukomorye-iii.json) |
 | The Quest Classic: Asteroids | 205603 | [205603-the-quest-classic-asteroids.json](./205603-the-quest-classic-asteroids.json) |
 | The Quest for Achievements | 334744 | [334744-the-quest-for-achievements.json](./334744-the-quest-for-achievements.json) |
 | The Quest for Achievements II | 334753 | [334753-the-quest-for-achievements-ii.json](./334753-the-quest-for-achievements-ii.json) |
@@ -5809,6 +5810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trials of Goodbye | 312876 | [312876-the-trials-of-goodbye.json](./312876-the-trials-of-goodbye.json) |
 | The Trials of Olympus 2: Wrath of the Gods | 114357 | [114357-the-trials-of-olympus-2-wrath-of-the-gods.json](./114357-the-trials-of-olympus-2-wrath-of-the-gods.json) |
 | The Trials: Chapter Two | 400372 | [400372-the-trials-chapter-two.json](./400372-the-trials-chapter-two.json) |
+| The Tribloos 3 | 105746 | [105746-the-tribloos-3.json](./105746-the-tribloos-3.json) |
 | The Tribulation Entanglement | 190189 | [190189-the-tribulation-entanglement.json](./190189-the-tribulation-entanglement.json) |
 | The Trip | 287216 | [287216-the-trip.json](./287216-the-trip.json) |
 | The Trip Adventure | 66636 | [66636-the-trip-adventure.json](./66636-the-trip-adventure.json) |
@@ -7511,6 +7513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Crown | 401562 | [401562-tiny-crown.json](./401562-tiny-crown.json) |
 | Tiny Dangerous Dungeons Remake | 333369 | [333369-tiny-dangerous-dungeons-remake.json](./333369-tiny-dangerous-dungeons-remake.json) |
 | Tiny Defender | 149538 | [149538-tiny-defender.json](./149538-tiny-defender.json) |
+| Tiny Defense 2 - Mini Robot Wars | 105764 | [105764-tiny-defense-2-mini-robot-wars.json](./105764-tiny-defense-2-mini-robot-wars.json) |
 | Tiny Derby | 119538 | [119538-tiny-derby.json](./119538-tiny-derby.json) |
 | Tiny Devil Adventure | 158648 | [158648-tiny-devil-adventure.json](./158648-tiny-devil-adventure.json) |
 | Tiny Devils | 325476 | [325476-tiny-devils.json](./325476-tiny-devils.json) |
@@ -9765,6 +9768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Questions | 233074 | [233074-tricky-questions.json](./233074-tricky-questions.json) |
 | Tricky Quicky | 78066 | [78066-tricky-quicky.json](./78066-tricky-quicky.json) |
 | Tricky Test 2: Genius Brain? | 88863 | [88863-tricky-test-2-genius-brain.json](./88863-tricky-test-2-genius-brain.json) |
+| Tricky Test 2018 | 105794 | [105794-tricky-test-2018.json](./105794-tricky-test-2018.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
 | Tricky Tube | 106524 | [106524-tricky-tube.json](./106524-tricky-tube.json) |
 | Tricky Typing | 195604 | [195604-tricky-typing.json](./195604-tricky-typing.json) |
