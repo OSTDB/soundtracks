@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart on Your Sleeve | 178533 | [178533-heart-on-your-sleeve.json](./178533-heart-on-your-sleeve.json) |
 | Heart Piano Tiles | 96697 | [96697-heart-piano-tiles.json](./96697-heart-piano-tiles.json) |
 | Heart Rocket | 177410 | [177410-heart-rocket.json](./177410-heart-rocket.json) |
+| Heart to Heart | 114832 | [114832-heart-to-heart.json](./114832-heart-to-heart.json) |
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
 | Heart-Warming Deliveries | 345598 | [345598-heart-warming-deliveries.json](./345598-heart-warming-deliveries.json) |
 | Heart.HalfHalf | 260384 | [260384-heart-halfhalf.json](./260384-heart-halfhalf.json) |
@@ -1701,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hephep Fever: Retold | 334476 | [334476-hephep-fever-retold.json](./334476-hephep-fever-retold.json) |
 | Hepo | 266318 | [266318-hepo.json](./266318-hepo.json) |
 | Her | 105347 | [105347-her.json](./105347-her.json) |
+| Her 2: I Want to See You Again | 114821 | [114821-her-2-i-want-to-see-you-again.json](./114821-her-2-i-want-to-see-you-again.json) |
 | Her Apartment | 323898 | [323898-her-apartment.json](./323898-her-apartment.json) |
 | Her Heart's Desire: A Landlord Epic | 224235 | [224235-her-hearts-desire-a-landlord-epic.json](./224235-her-hearts-desire-a-landlord-epic.json) |
 | Her Knights: All for the Princess | 66048 | [66048-her-knights-all-for-the-princess.json](./66048-her-knights-all-for-the-princess.json) |
@@ -1762,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Blaze: Three Kingdoms | 212463 | [212463-hero-blaze-three-kingdoms.json](./212463-hero-blaze-three-kingdoms.json) |
 | Hero Bootcamp | 380573 | [380573-hero-bootcamp.json](./380573-hero-bootcamp.json) |
 | Hero Bump | 184101 | [184101-hero-bump.json](./184101-hero-bump.json) |
+| Hero Emblems II | 114777 | [114777-hero-emblems-ii.json](./114777-hero-emblems-ii.json) |
 | Hero Fighter | 66720 | [66720-hero-fighter.json](./66720-hero-fighter.json) |
 | Hero Fighters Club | 62693 | [62693-hero-fighters-club.json](./62693-hero-fighters-club.json) |
 | Hero Great Wars | 252131 | [252131-hero-great-wars.json](./252131-hero-great-wars.json) |
@@ -1968,6 +1971,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexachess | 374634 | [374634-hexachess.json](./374634-hexachess.json) |
 | HexaCycle | 115643 | [115643-hexacycle.json](./115643-hexacycle.json) |
 | Hexagon Defense | 147909 | [147909-hexagon-defense.json](./147909-hexagon-defense.json) |
+| Hexagon Dungeon | 114785 | [114785-hexagon-dungeon.json](./114785-hexagon-dungeon.json) |
+| Hexagon Dungeon: The Arcana Stone | 114786 | [114786-hexagon-dungeon-the-arcana-stone.json](./114786-hexagon-dungeon-the-arcana-stone.json) |
 | Hexagon Hamlet | 183529 | [183529-hexagon-hamlet.json](./183529-hexagon-hamlet.json) |
 | Hexagon Heroes | 132272 | [132272-hexagon-heroes.json](./132272-hexagon-heroes.json) |
 | Hexagon Survivors | 249855 | [249855-hexagon-survivors.json](./249855-hexagon-survivors.json) |
@@ -2855,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homicipher | 247905 | [247905-homicipher.json](./247905-homicipher.json) |
 | Homing Instinct | 296913 | [296913-homing-instinct.json](./296913-homing-instinct.json) |
 | Homing Missiles! | 25786 | [25786-homing-missiles.json](./25786-homing-missiles.json) |
+| Homing Shapes | 114820 | [114820-homing-shapes.json](./114820-homing-shapes.json) |
 | Hommage 25 | 269560 | [269560-hommage-25.json](./269560-hommage-25.json) |
 | Homo Flimsy | 103433 | [103433-homo-flimsy.json](./103433-homo-flimsy.json) |
 | Homunculus | 319807 | [319807-homunculus.json](./319807-homunculus.json) |
