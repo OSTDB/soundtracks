@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop III: Toretate Zoukangou! | 171031 | [171031-magical-drop-iii-toretate-zoukangou.json](./171031-magical-drop-iii-toretate-zoukangou.json) |
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
 | Magical Girl | 158086 | [158086-magical-girl.json](./158086-magical-girl.json) |
+| Magical Girl Attack | 117473 | [117473-magical-girl-attack.json](./117473-magical-girl-attack.json) |
 | Magical Girl Konoha | 261828 | [261828-magical-girl-konoha.json](./261828-magical-girl-konoha.json) |
 | Magical Girl Leaky Sara | 58810 | [58810-magical-girl-leaky-sara.json](./58810-magical-girl-leaky-sara.json) |
 | Magical Girl Momo | 82820 | [82820-magical-girl-momo.json](./82820-magical-girl-momo.json) |
