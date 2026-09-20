@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargame: Red Dragon - The Millionth Mile | 170457 | [170457-wargame-red-dragon-the-millionth-mile.json](./170457-wargame-red-dragon-the-millionth-mile.json) |
 | Wargroove | 27441 | [27441-wargroove.json](./27441-wargroove.json) |
 | WarGround | 114441 | [114441-warground.json](./114441-warground.json) |
+| Warhalla | 100589 | [100589-warhalla.json](./100589-warhalla.json) |
 | Warhammer 40,000: Armageddon - Angels of Death | 53889 | [53889-warhammer-40-000-armageddon-angels-of-death.json](./53889-warhammer-40-000-armageddon-angels-of-death.json) |
 | Warhammer 40,000: Armageddon - Da Orks | 33186 | [33186-warhammer-40-000-armageddon-da-orks.json](./33186-warhammer-40-000-armageddon-da-orks.json) |
 | Warhammer 40,000: Armageddon - Glory of Macragge | 53890 | [53890-warhammer-40-000-armageddon-glory-of-macragge.json](./53890-warhammer-40-000-armageddon-glory-of-macragge.json) |
@@ -2018,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Pulse | 304573 | [304573-wizard-pulse.json](./304573-wizard-pulse.json) |
 | Wizard Soup | 408812 | [408812-wizard-soup.json](./408812-wizard-soup.json) |
 | Wizard Tournament | 304012 | [304012-wizard-tournament.json](./304012-wizard-tournament.json) |
+| Wizard Vs Zombie Unlocked | 100609 | [100609-wizard-vs-zombie-unlocked.json](./100609-wizard-vs-zombie-unlocked.json) |
 | Wizard Warfare | 127196 | [127196-wizard-warfare.json](./127196-wizard-warfare.json) |
 | Wizard Wars | 300031 | [300031-wizard-wars.json](./300031-wizard-wars.json) |
 | Wizard Warz | 12830 | [12830-wizard-warz.json](./12830-wizard-warz.json) |
@@ -2084,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Adventures | 164518 | [164518-wolf-adventures.json](./164518-wolf-adventures.json) |
 | Wolf And Moon: Nonogram | 312365 | [312365-wolf-and-moon-nonogram.json](./312365-wolf-and-moon-nonogram.json) |
 | Wolf And Moon: Sudoku | 312362 | [312362-wolf-and-moon-sudoku.json](./312362-wolf-and-moon-sudoku.json) |
+| Wolf Balls | 100590 | [100590-wolf-balls.json](./100590-wolf-balls.json) |
 | Wolf Boot Camp | 232052 | [232052-wolf-boot-camp.json](./232052-wolf-boot-camp.json) |
 | Wolf Bride | 313856 | [313856-wolf-bride.json](./313856-wolf-bride.json) |
 | Wolf Hero: Animals vs. Robots | 312541 | [312541-wolf-hero-animals-vs-robots.json](./312541-wolf-hero-animals-vs-robots.json) |
