@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurous Mind | 259670 | [259670-adventurous-mind.json](./259670-adventurous-mind.json) |
 | Advisors at the End of the Universe | 122184 | [122184-advisors-at-the-end-of-the-universe.json](./122184-advisors-at-the-end-of-the-universe.json) |
 | Aebal | 167174 | [167174-aebal.json](./167174-aebal.json) |
+| Aegis Online | 103881 | [103881-aegis-online.json](./103881-aegis-online.json) |
 | Aelfric the Wondrous | 299301 | [299301-aelfric-the-wondrous.json](./299301-aelfric-the-wondrous.json) |
 | Aenigmarch | 360655 | [360655-aenigmarch.json](./360655-aenigmarch.json) |
 | Aeon Nightmares | 282133 | [282133-aeon-nightmares.json](./282133-aeon-nightmares.json) |
