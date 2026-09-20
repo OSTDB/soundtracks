@@ -2225,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Travel to Future - Ancient Portals | 261529 | [261529-hidden-object-travel-to-future-ancient-portals.json](./261529-hidden-object-travel-to-future-ancient-portals.json) |
 | Hidden Object: Underground Treasures Gold | 233224 | [233224-hidden-object-underground-treasures-gold.json](./233224-hidden-object-underground-treasures-gold.json) |
 | Hidden Objects - Forest Fairies | 89286 | [89286-hidden-objects-forest-fairies.json](./89286-hidden-objects-forest-fairies.json) |
+| Hidden Objects Collection | 93969 | [93969-hidden-objects-collection.json](./93969-hidden-objects-collection.json) |
 | Hidden Objects Lost Worlds | 70913 | [70913-hidden-objects-lost-worlds.json](./70913-hidden-objects-lost-worlds.json) |
 | Hidden Objects Magical Places | 99397 | [99397-hidden-objects-magical-places.json](./99397-hidden-objects-magical-places.json) |
 | Hidden Objects Painted Forest | 415893 | [415893-hidden-objects-painted-forest.json](./415893-hidden-objects-painted-forest.json) |
@@ -3764,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Hitman | 340494 | [340494-hunter-hitman.json](./340494-hunter-hitman.json) |
 | Hunter in the Lost Forest | 293202 | [293202-hunter-in-the-lost-forest.json](./293202-hunter-in-the-lost-forest.json) |
 | Hunter Island: Monsters & Dragons | 200113 | [200113-hunter-island-monsters-and-dragons.json](./200113-hunter-island-monsters-and-dragons.json) |
+| Hunter Killer | 94008 | [94008-hunter-killer.json](./94008-hunter-killer.json) |
 | Hunter of the Disowned | 156088 | [156088-hunter-of-the-disowned.json](./156088-hunter-of-the-disowned.json) |
 | Hunter x Hunter: Nen x Impact | 281740 | [281740-hunter-x-hunter-nen-x-impact.json](./281740-hunter-x-hunter-nen-x-impact.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 2 Phinks | 375152 | [375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json](./375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json) |
