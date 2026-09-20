@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sai | 185100 | [185100-sai.json](./185100-sai.json) |
 | Saiaku Tantei Kanojo | 150115 | [150115-saiaku-tantei-kanojo.json](./150115-saiaku-tantei-kanojo.json) |
 | SaiBorRai | 292674 | [292674-saiborrai.json](./292674-saiborrai.json) |
+| Saier's Light | 103177 | [103177-saiers-light.json](./103177-saiers-light.json) |
 | Saihai no Yukue | 302503 | [302503-saihai-no-yukue.json](./302503-saihai-no-yukue.json) |
 | Saihate Hospital | 204496 | [204496-saihate-hospital.json](./204496-saihate-hospital.json) |
 | Saihate no Ima | 62736 | [62736-saihate-no-ima.json](./62736-saihate-no-ima.json) |
@@ -638,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanyo Pachinko Paradise | 55926 | [55926-sanyo-pachinko-paradise.json](./55926-sanyo-pachinko-paradise.json) |
 | Sanyo Pachinko Paradise 2: Umi Monogatari Special | 55942 | [55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json](./55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json) |
 | Sanyo Pachinko Paradise 3 | 55927 | [55927-sanyo-pachinko-paradise-3.json](./55927-sanyo-pachinko-paradise-3.json) |
+| Sanzen Sekai Yuugi: Re Multi Universe Myself | 103175 | [103175-sanzen-sekai-yuugi-re-multi-universe-myself.json](./103175-sanzen-sekai-yuugi-re-multi-universe-myself.json) |
 | Sanzensekai no Ko wo Koroshi | 399061 | [399061-sanzensekai-no-ko-wo-koroshi.json](./399061-sanzensekai-no-ko-wo-koroshi.json) |
 | Sapan | 104477 | [104477-sapan.json](./104477-sapan.json) |
 | Saphyro | 164978 | [164978-saphyro.json](./164978-saphyro.json) |
@@ -2877,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Gallery Mayhem | 117516 | [117516-shooting-gallery-mayhem.json](./117516-shooting-gallery-mayhem.json) |
 | Shooting Game Kari | 211718 | [211718-shooting-game-kari.json](./211718-shooting-game-kari.json) |
 | Shooting girl | 201669 | [201669-shooting-girl.json](./201669-shooting-girl.json) |
+| Shooting Hunter Terrorist | 103155 | [103155-shooting-hunter-terrorist.json](./103155-shooting-hunter-terrorist.json) |
 | Shooting Master | 366914 | [366914-shooting-master.json](./366914-shooting-master.json) |
 | Shooting Range by Thornbury Software | 84871 | [84871-shooting-range-by-thornbury-software.json](./84871-shooting-range-by-thornbury-software.json) |
 | Shooting Range Simulator | 309532 | [309532-shooting-range-simulator.json](./309532-shooting-range-simulator.json) |
@@ -4169,6 +4172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide! Throw! Snow Party | 379977 | [379977-slide-throw-snow-party.json](./379977-slide-throw-snow-party.json) |
 | SlideNGlide | 336015 | [336015-slidenglide.json](./336015-slidenglide.json) |
 | SlideNSlip | 166774 | [166774-slidenslip.json](./166774-slidenslip.json) |
+| Slider | 103172 | [103172-slider.json](./103172-slider.json) |
 | Slider Scouts | 340387 | [340387-slider-scouts.json](./340387-slider-scouts.json) |
 | Slidercrash | 251656 | [251656-slidercrash.json](./251656-slidercrash.json) |
 | SlideRow | 120355 | [120355-sliderow.json](./120355-sliderow.json) |
@@ -6546,6 +6550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Specimen #14 | 263006 | [263006-specimen-14.json](./263006-specimen-14.json) |
 | Specimen 15 | 263009 | [263009-specimen-15.json](./263009-specimen-15.json) |
 | Specimen 42 | 133829 | [133829-specimen-42.json](./133829-specimen-42.json) |
+| Speckle: Chill Puzzle Game | 103190 | [103190-speckle-chill-puzzle-game.json](./103190-speckle-chill-puzzle-game.json) |
 | Specshong | 398459 | [398459-specshong.json](./398459-specshong.json) |
 | Spectacle | 280338 | [280338-spectacle.json](./280338-spectacle.json) |
 | Spectacular Sparky | 165613 | [165613-spectacular-sparky.json](./165613-spectacular-sparky.json) |
@@ -10709,6 +10714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Virtual Detective - Collector's Edition | 166076 | [166076-surface-virtual-detective-collectors-edition.json](./166076-surface-virtual-detective-collectors-edition.json) |
 | Surfacer+ | 85529 | [85529-surfacer.json](./85529-surfacer.json) |
 | Surfacing | 152116 | [152116-surfacing.json](./152116-surfacing.json) |
+| Surfatron | 103174 | [103174-surfatron.json](./103174-surfatron.json) |
 | Surferboy | 346044 | [346044-surferboy.json](./346044-surferboy.json) |
 | Surfin' Sam: Attack of the Aqualites | 85416 | [85416-surfin-sam-attack-of-the-aqualites.json](./85416-surfin-sam-attack-of-the-aqualites.json) |
 | Surfing H3O | 43344 | [43344-surfing-h3o.json](./43344-surfing-h3o.json) |
