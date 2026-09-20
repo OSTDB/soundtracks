@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladylike | 152769 | [152769-ladylike.json](./152769-ladylike.json) |
 | Laf Pak | 279740 | [279740-laf-pak.json](./279740-laf-pak.json) |
 | Laf the game | 226204 | [226204-laf-the-game.json](./226204-laf-the-game.json) |
+| Laff Pack | 100022 | [100022-laff-pack.json](./100022-laff-pack.json) |
 | Laffy Taffy Long-Lasting 3D Pyramid Challenge | 373555 | [373555-laffy-taffy-long-lasting-3d-pyramid-challenge.json](./373555-laffy-taffy-long-lasting-3d-pyramid-challenge.json) |
 | Lafuma Unlimit 2 | 94694 | [94694-lafuma-unlimit-2.json](./94694-lafuma-unlimit-2.json) |
 | Lagnacure Legend | 93533 | [93533-lagnacure-legend.json](./93533-lagnacure-legend.json) |
@@ -523,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laughingstock Apocalypse Redux | 364491 | [364491-laughingstock-apocalypse-redux.json](./364491-laughingstock-apocalypse-redux.json) |
 | LaughterLost | 303622 | [303622-laughterlost.json](./303622-laughterlost.json) |
 | Launch & Loot | 340902 | [340902-launch-and-loot.json](./340902-launch-and-loot.json) |
+| Launch & Merge : Hexa Puzzle | 100014 | [100014-launch-and-merge-hexa-puzzle.json](./100014-launch-and-merge-hexa-puzzle.json) |
 | Launch Dude | 339285 | [339285-launch-dude.json](./339285-launch-dude.json) |
 | Launch The Baby | 246413 | [246413-launch-the-baby.json](./246413-launch-the-baby.json) |
 | Launcher | 358923 | [358923-launcher.json](./358923-launcher.json) |
