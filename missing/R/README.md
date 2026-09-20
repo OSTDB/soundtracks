@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxing Kite | 148571 | [148571-relaxing-kite.json](./148571-relaxing-kite.json) |
 | Relaxing Rain Sounds: Amayadori | 151669 | [151669-relaxing-rain-sounds-amayadori.json](./151669-relaxing-rain-sounds-amayadori.json) |
 | Relaxing Time: Paradise Resort - Collector's Edition | 304591 | [304591-relaxing-time-paradise-resort-collectors-edition.json](./304591-relaxing-time-paradise-resort-collectors-edition.json) |
+| RelayCars | 113521 | [113521-relaycars.json](./113521-relaycars.json) |
 | Relayer: Limited Edition | 172776 | [172776-relayer-limited-edition.json](./172776-relayer-limited-edition.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
 | Relentless | 129699 | [129699-relentless.json](./129699-relentless.json) |
@@ -3077,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Rampage | 334130 | [334130-rogue-rampage.json](./334130-rogue-rampage.json) |
 | Rogue Randy | 166778 | [166778-rogue-randy.json](./166778-rogue-randy.json) |
 | Rogue Realms | 239748 | [239748-rogue-realms.json](./239748-rogue-realms.json) |
+| Rogue Reaper | 113522 | [113522-rogue-reaper.json](./113522-rogue-reaper.json) |
 | Rogue Rhythm | 312747 | [312747-rogue-rhythm.json](./312747-rogue-rhythm.json) |
 | Rogue Rising | 171504 | [171504-rogue-rising.json](./171504-rogue-rising.json) |
 | Rogue Robot: Escape Protocol | 304616 | [304616-rogue-robot-escape-protocol.json](./304616-rogue-robot-escape-protocol.json) |
@@ -3186,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollie | 143073 | [143073-rollie.json](./143073-rollie.json) |
 | Rolling Ball on Sky | 86734 | [86734-rolling-ball-on-sky.json](./86734-rolling-ball-on-sky.json) |
 | Rolling Balls | 193428 | [193428-rolling-balls.json](./193428-rolling-balls.json) |
+| Rolling Bird | 113510 | [113510-rolling-bird.json](./113510-rolling-bird.json) |
 | Rolling Cube | 358942 | [358942-rolling-cube.json](./358942-rolling-cube.json) |
 | Rolling Down Bottles | 262341 | [262341-rolling-down-bottles.json](./262341-rolling-down-bottles.json) |
 | Rolling Ex.tre.me | 321752 | [321752-rolling-ex-tre-me.json](./321752-rolling-ex-tre-me.json) |
@@ -3763,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run or Boom | 215927 | [215927-run-or-boom.json](./215927-run-or-boom.json) |
 | Run or Die | 14721 | [14721-run-or-die.json](./14721-run-or-die.json) |
 | Run or Fight | 161325 | [161325-run-or-fight.json](./161325-run-or-fight.json) |
+| Run Part Two \| Can you trust me? | 113484 | [113484-run-part-two-can-you-trust-me.json](./113484-run-part-two-can-you-trust-me.json) |
 | Run Pharaoh Run! | 181329 | [181329-run-pharaoh-run.json](./181329-run-pharaoh-run.json) |
 | Run Pizza Run | 275705 | [275705-run-pizza-run.json](./275705-run-pizza-run.json) |
 | Run Pizza Run 2 | 332988 | [332988-run-pizza-run-2.json](./332988-run-pizza-run-2.json) |
