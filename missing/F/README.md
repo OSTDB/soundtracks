@@ -1590,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Gun | 241517 | [241517-final-gun.json](./241517-final-gun.json) |
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
 | Final Inferno | 179068 | [179068-final-inferno.json](./179068-final-inferno.json) |
+| Final Islands | 113476 | [113476-final-islands.json](./113476-final-islands.json) |
 | Final Judgment - Damnation Day | 110302 | [110302-final-judgment-damnation-day.json](./110302-final-judgment-damnation-day.json) |
 | Final Justice | 266892 | [266892-final-justice.json](./266892-final-justice.json) |
 | Final Legacy | 25697 | [25697-final-legacy.json](./25697-final-legacy.json) |
@@ -1680,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find X | 310038 | [310038-find-x.json](./310038-find-x.json) |
 | Find Yer Treasure! | 176454 | [176454-find-yer-treasure.json](./176454-find-yer-treasure.json) |
 | Find Your IF | 305349 | [305349-find-your-if.json](./305349-find-your-if.json) |
+| Find-Life EP1 | 113500 | [113500-find-life-ep1.json](./113500-find-life-ep1.json) |
 | Finder Love: Hara Fumina - Futari no Futari de... | 196716 | [196716-finder-love-hara-fumina-futari-no-futari-de.json](./196716-finder-love-hara-fumina-futari-no-futari-de.json) |
 | Finder Love: Hoshino Aki - Nangoku Trouble Rendezvous | 196715 | [196715-finder-love-hoshino-aki-nangoku-trouble-rendezvous.json](./196715-finder-love-hoshino-aki-nangoku-trouble-rendezvous.json) |
 | Finder Love: Kudo Risa - First Shoot ha Kimi to | 196717 | [196717-finder-love-kudo-risa-first-shoot-ha-kimi-to.json](./196717-finder-love-kudo-risa-first-shoot-ha-kimi-to.json) |
@@ -3033,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foretales | 195096 | [195096-foretales.json](./195096-foretales.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
 | Forever Drive | 246964 | [246964-forever-drive.json](./246964-forever-drive.json) |
+| Forever Forest | 113461 | [113461-forever-forest.json](./113461-forever-forest.json) |
 | Forever Growing Garden | 62158 | [62158-forever-growing-garden.json](./62158-forever-growing-garden.json) |
 | Forever Indy | 256924 | [256924-forever-indy.json](./256924-forever-indy.json) |
 | Forever Lost in the Never Ending Museum of Still Life | 129603 | [129603-forever-lost-in-the-never-ending-museum-of-still-life.json](./129603-forever-lost-in-the-never-ending-museum-of-still-life.json) |
@@ -3486,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franklin's Great Adventures | 48044 | [48044-franklins-great-adventures.json](./48044-franklins-great-adventures.json) |
 | Franky Lettuce | 113667 | [113667-franky-lettuce.json](./113667-franky-lettuce.json) |
 | Frantic Birdies | 357849 | [357849-frantic-birdies.json](./357849-frantic-birdies.json) |
+| Frantic Dimension | 113514 | [113514-frantic-dimension.json](./113514-frantic-dimension.json) |
 | Frantic Flea | 42620 | [42620-frantic-flea.json](./42620-frantic-flea.json) |
 | Frantic Freddie | 55018 | [55018-frantic-freddie.json](./55018-frantic-freddie.json) |
 | Fraud Camp: Survival Escape | 372455 | [372455-fraud-camp-survival-escape.json](./372455-fraud-camp-survival-escape.json) |
