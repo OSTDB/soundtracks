@@ -2735,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension of Monster Girls | 89608 | [89608-dimension-of-monster-girls.json](./89608-dimension-of-monster-girls.json) |
 | Dimension of the Diminished | 271723 | [271723-dimension-of-the-diminished.json](./271723-dimension-of-the-diminished.json) |
 | Dimension Ranger | 349330 | [349330-dimension-ranger.json](./349330-dimension-ranger.json) |
+| Dimension Summoner: Hero Arena 3D Fantasy RPG | 95873 | [95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json](./95873-dimension-summoner-hero-arena-3d-fantasy-rpg.json) |
 | Dimension Tripper Neptune: TOP NEP | 187445 | [187445-dimension-tripper-neptune-top-nep.json](./187445-dimension-tripper-neptune-top-nep.json) |
 | Dimension X | 246067 | [246067-dimension-x.json](./246067-dimension-x.json) |
 | Dimensional Dexterity | 252179 | [252179-dimensional-dexterity.json](./252179-dimensional-dexterity.json) |
@@ -2786,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Crisis: 5th Anniversary | 161345 | [161345-dino-crisis-5th-anniversary.json](./161345-dino-crisis-5th-anniversary.json) |
 | Dino Crisis: Dungeon in Chaos | 146923 | [146923-dino-crisis-dungeon-in-chaos.json](./146923-dino-crisis-dungeon-in-chaos.json) |
 | Dino Dan: Dino Dig Site | 105897 | [105897-dino-dan-dino-dig-site.json](./105897-dino-dan-dino-dig-site.json) |
+| Dino Dana - Experiments | 95828 | [95828-dino-dana-experiments.json](./95828-dino-dana-experiments.json) |
 | Dino Dave 2 | 80542 | [80542-dino-dave-2.json](./80542-dino-dave-2.json) |
 | Dino Dave in Sokoman | 150084 | [150084-dino-dave-in-sokoman.json](./150084-dino-dave-in-sokoman.json) |
 | Dino Dino | 287770 | [287770-dino-dino.json](./287770-dino-dino.json) |
@@ -3364,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Nanobot | 207530 | [207530-doctor-nanobot.json](./207530-doctor-nanobot.json) |
 | Doctor Pigeon Simulator | 407360 | [407360-doctor-pigeon-simulator.json](./407360-doctor-pigeon-simulator.json) |
 | Doctor Root | 318980 | [318980-doctor-root.json](./318980-doctor-root.json) |
+| Doctor Surgeon: Hospital games | 95850 | [95850-doctor-surgeon-hospital-games.json](./95850-doctor-surgeon-hospital-games.json) |
 | Doctor Tsunami | 111708 | [111708-doctor-tsunami.json](./111708-doctor-tsunami.json) |
 | Doctor Voldritch's experiment | 302502 | [302502-doctor-voldritchs-experiment.json](./302502-doctor-voldritchs-experiment.json) |
 | Doctor Who and the Mines of Terror | 13597 | [13597-doctor-who-and-the-mines-of-terror.json](./13597-doctor-who-and-the-mines-of-terror.json) |
