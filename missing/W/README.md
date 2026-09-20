@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Colony | 184033 | [184033-welcome-to-the-colony.json](./184033-welcome-to-the-colony.json) |
 | Welcome to the Dark Place | 121599 | [121599-welcome-to-the-dark-place.json](./121599-welcome-to-the-dark-place.json) |
 | Welcome to the Dreamscape | 103442 | [103442-welcome-to-the-dreamscape.json](./103442-welcome-to-the-dreamscape.json) |
+| Welcome to the Future | 70096 | [70096-welcome-to-the-future.json](./70096-welcome-to-the-future.json) |
 | Welcome to the Galaxy | 178639 | [178639-welcome-to-the-galaxy.json](./178639-welcome-to-the-galaxy.json) |
 | Welcome to the Game 2+ | 265928 | [265928-welcome-to-the-game-2.json](./265928-welcome-to-the-game-2.json) |
 | Welcome to the Game III | 375315 | [375315-welcome-to-the-game-iii.json](./375315-welcome-to-the-game-iii.json) |
