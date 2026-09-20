@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.I.S. | 382221 | [382221-p-i-s.json](./382221-p-i-s.json) |
 | P.M.P. Project Murder Party | 176911 | [176911-p-m-p-project-murder-party.json](./176911-p-m-p-project-murder-party.json) |
 | P.N.03 | 4060 | [4060-p-n-03.json](./4060-p-n-03.json) |
+| P.O.W. | 72333 | [72333-p-o-w.json](./72333-p-o-w.json) |
 | P.O.W.: Prisoners of War | 274103 | [274103-p-o-w-prisoners-of-war.json](./274103-p-o-w-prisoners-of-war.json) |
 | P.R.O.T.O.C.O.O.L.: Silver Pack | 267078 | [267078-p-r-o-t-o-c-o-o-l-silver-pack.json](./267078-p-r-o-t-o-c-o-o-l-silver-pack.json) |
 | P.S.Rose | 202318 | [202318-p-s-rose.json](./202318-p-s-rose.json) |
@@ -1467,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persevera | 264685 | [264685-persevera.json](./264685-persevera.json) |
 | Persha and the Magic Labyrinth: Arabian Nyaights | 264901 | [264901-persha-and-the-magic-labyrinth-arabian-nyaights.json](./264901-persha-and-the-magic-labyrinth-arabian-nyaights.json) |
 | Persha and the Magic Puzzle: Arabian Nyaights | 235210 | [235210-persha-and-the-magic-puzzle-arabian-nyaights.json](./235210-persha-and-the-magic-puzzle-arabian-nyaights.json) |
+| Persian Gulf Inferno | 72329 | [72329-persian-gulf-inferno.json](./72329-persian-gulf-inferno.json) |
 | Persist | 223681 | [223681-persist.json](./223681-persist.json) |
 | Persnippety | 305942 | [305942-persnippety.json](./305942-persnippety.json) |
 | Perso | 30781 | [30781-perso.json](./30781-perso.json) |
@@ -2105,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pimp My Dungeon | 243959 | [243959-pimp-my-dungeon.json](./243959-pimp-my-dungeon.json) |
 | Pimp My Ride | 5098 | [5098-pimp-my-ride.json](./5098-pimp-my-ride.json) |
 | Pimp My Ride Street Racing | 274184 | [274184-pimp-my-ride-street-racing.json](./274184-pimp-my-ride-street-racing.json) |
+| PimpWars | 72318 | [72318-pimpwars.json](./72318-pimpwars.json) |
 | Pin Bot | 217973 | [217973-pin-bot.json](./217973-pin-bot.json) |
 | Pin Climb | 318755 | [318755-pin-climb.json](./318755-pin-climb.json) |
 | Pin Crasher | 258989 | [258989-pin-crasher.json](./258989-pin-crasher.json) |
@@ -5207,6 +5210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse of Love | 258719 | [258719-pulse-of-love.json](./258719-pulse-of-love.json) |
 | Pulse Online | 288333 | [288333-pulse-online.json](./288333-pulse-online.json) |
 | Pulse Phobia | 342133 | [342133-pulse-phobia.json](./342133-pulse-phobia.json) |
+| Pulse Warrior | 72376 | [72376-pulse-warrior.json](./72376-pulse-warrior.json) |
 | PulseChaser | 112320 | [112320-pulsechaser.json](./112320-pulsechaser.json) |
 | Pulseman | 45760 | [45760-pulseman.json](./45760-pulseman.json) |
 | Pulseman Amabilis | 215241 | [215241-pulseman-amabilis.json](./215241-pulseman-amabilis.json) |
