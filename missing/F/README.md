@@ -2433,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Commander 2 | 73854 | [73854-flight-commander-2.json](./73854-flight-commander-2.json) |
 | Flight Control HD | 15064 | [15064-flight-control-hd.json](./15064-flight-control-hd.json) |
 | Flight Date | 403710 | [403710-flight-date.json](./403710-flight-date.json) |
+| Flight Fight 2s | 89699 | [89699-flight-fight-2s.json](./89699-flight-fight-2s.json) |
 | Flight Light Plus | 96504 | [96504-flight-light-plus.json](./96504-flight-light-plus.json) |
 | Flight of a Dragon | 270406 | [270406-flight-of-a-dragon.json](./270406-flight-of-a-dragon.json) |
 | Flight of the Amazon Queen | 8789 | [8789-flight-of-the-amazon-queen.json](./8789-flight-of-the-amazon-queen.json) |
@@ -4399,6 +4400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future War: Reborn | 78061 | [78061-future-war-reborn.json](./78061-future-war-reborn.json) |
 | Future Wars | 2478 | [2478-future-wars.json](./2478-future-wars.json) |
 | Future Zero | 378172 | [378172-future-zero.json](./378172-future-zero.json) |
+| Futurejam | 89661 | [89661-futurejam.json](./89661-futurejam.json) |
 | FutureKreate | 170435 | [170435-futurekreate.json](./170435-futurekreate.json) |
 | FutureMage: Spellmaker | 102582 | [102582-futuremage-spellmaker.json](./102582-futuremage-spellmaker.json) |
 | Futurewar | 234634 | [234634-futurewar.json](./234634-futurewar.json) |
