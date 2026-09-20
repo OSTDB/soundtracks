@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarioWare, Inc.: Mega Microgame$! | 341062 | [341062-warioware-inc-mega-microgame.json](./341062-warioware-inc-mega-microgame.json) |
 | Warja | 277295 | [277295-warja.json](./277295-warja.json) |
 | Warka Flarka Flim Flam | 29942 | [29942-warka-flarka-flim-flam.json](./29942-warka-flarka-flim-flam.json) |
+| Warkanoid II: Wildlife | 122851 | [122851-warkanoid-ii-wildlife.json](./122851-warkanoid-ii-wildlife.json) |
 | Warkestra | 275336 | [275336-warkestra.json](./275336-warkestra.json) |
 | Warlanes | 301264 | [301264-warlanes.json](./301264-warlanes.json) |
 | WarLeague | 230308 | [230308-warleague.json](./230308-warleague.json) |
