@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Willie | 285033 | [285033-captain-willie.json](./285033-captain-willie.json) |
 | Captive | 196698 | [196698-captive.json](./196698-captive.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
+| Capture | 72369 | [72369-capture.json](./72369-capture.json) |
 | Capture Corps: Archipelago | 217867 | [217867-capture-corps-archipelago.json](./217867-capture-corps-archipelago.json) |
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
 | Capture the Flag | 23901 | [23901-capture-the-flag.json](./23901-capture-the-flag.json) |
@@ -3040,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay Soldiers | 237520 | [237520-clay-soldiers.json](./237520-clay-soldiers.json) |
 | Clayborn Idle | 382301 | [382301-clayborn-idle.json](./382301-clayborn-idle.json) |
 | Clayers | 348326 | [348326-clayers.json](./348326-clayers.json) |
+| Clayton's Quest | 72325 | [72325-claytons-quest.json](./72325-claytons-quest.json) |
 | ClayTown Horror | 217403 | [217403-claytown-horror.json](./217403-claytown-horror.json) |
 | Clean Attack! | 135025 | [135025-clean-attack.json](./135025-clean-attack.json) |
 | Clean City Project | 292521 | [292521-clean-city-project.json](./292521-clean-city-project.json) |
@@ -5974,6 +5976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Lamb: Relics of the Old Faith | 246406 | [246406-cult-of-the-lamb-relics-of-the-old-faith.json](./246406-cult-of-the-lamb-relics-of-the-old-faith.json) |
 | Cult of the Lamb: The One Who Waits | 408806 | [408806-cult-of-the-lamb-the-one-who-waits.json](./408806-cult-of-the-lamb-the-one-who-waits.json) |
 | Cult of the Lamb: Unholy Pack Bundle | 324472 | [324472-cult-of-the-lamb-unholy-pack-bundle.json](./324472-cult-of-the-lamb-unholy-pack-bundle.json) |
+| Cult: Fear Inside | 72341 | [72341-cult-fear-inside.json](./72341-cult-fear-inside.json) |
 | Cult&Card | 291765 | [291765-cult-and-card.json](./291765-cult-and-card.json) |
 | Cultist Astronaut | 203968 | [203968-cultist-astronaut.json](./203968-cultist-astronaut.json) |
 | Cultivation Fantasy | 274042 | [274042-cultivation-fantasy.json](./274042-cultivation-fantasy.json) |
@@ -6291,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
 | Cyberchase: Mission Motherboard | 143086 | [143086-cyberchase-mission-motherboard.json](./143086-cyberchase-mission-motherboard.json) |
 | Cyberchase: The Quest 1 - Mission Motherboard | 140627 | [140627-cyberchase-the-quest-1-mission-motherboard.json](./140627-cyberchase-the-quest-1-mission-motherboard.json) |
+| CyberClub-2077 | 72342 | [72342-cyberclub-2077.json](./72342-cyberclub-2077.json) |
 | Cybercop | 287115 | [287115-cybercop.json](./287115-cybercop.json) |
 | Cybercum 2069 | 305763 | [305763-cybercum-2069.json](./305763-cybercum-2069.json) |
 | Cyberdillo | 39014 | [39014-cyberdillo.json](./39014-cyberdillo.json) |
