@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galvatia | 169474 | [169474-galvatia.json](./169474-galvatia.json) |
 | Galves Adventure | 230310 | [230310-galves-adventure.json](./230310-galves-adventure.json) |
 | Galxagar | 207320 | [207320-galxagar.json](./207320-galxagar.json) |
+| Gambit | 124622 | [124622-gambit.json](./124622-gambit.json) |
 | Gambit | 328064 | [328064-gambit.json](./328064-gambit.json) |
 | Gambit | 403008 | [403008-gambit.json](./403008-gambit.json) |
 | Gambit Gardens | 415159 | [415159-gambit-gardens.json](./415159-gambit-gardens.json) |
@@ -448,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameOn! | 348239 | [348239-gameon.json](./348239-gameon.json) |
 | GamePack 2 | 122308 | [122308-gamepack-2.json](./122308-gamepack-2.json) |
 | GamePigeon | 229787 | [229787-gamepigeon.json](./229787-gamepigeon.json) |
+| Gamer 2 | 124608 | [124608-gamer-2.json](./124608-gamer-2.json) |
 | Gamer Den | 177928 | [177928-gamer-den.json](./177928-gamer-den.json) |
 | Gamer Girls 2 | 162842 | [162842-gamer-girls-2.json](./162842-gamer-girls-2.json) |
 | Gamer Girls: Futanari | 210858 | [210858-gamer-girls-futanari.json](./210858-gamer-girls-futanari.json) |
@@ -1109,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Story | 184585 | [184585-ghost-story.json](./184585-ghost-story.json) |
 | Ghost Story | 311269 | [311269-ghost-story.json](./311269-ghost-story.json) |
 | Ghost Study | 229328 | [229328-ghost-study.json](./229328-ghost-study.json) |
+| Ghost Suburb II: From Beyond Sleep into the Eyes of Madness | 124602 | [124602-ghost-suburb-ii-from-beyond-sleep-into-the-eyes-of-madness.json](./124602-ghost-suburb-ii-from-beyond-sleep-into-the-eyes-of-madness.json) |
 | Ghost Suburb Zero | 169884 | [169884-ghost-suburb-zero.json](./169884-ghost-suburb-zero.json) |
 | Ghost Survivors | 231947 | [231947-ghost-survivors.json](./231947-ghost-survivors.json) |
 | Ghost Talker | 295768 | [295768-ghost-talker.json](./295768-ghost-talker.json) |
@@ -1431,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globetrotter XL | 237500 | [237500-globetrotter-xl.json](./237500-globetrotter-xl.json) |
 | GlobeXplore | 284883 | [284883-globexplore.json](./284883-globexplore.json) |
 | Globs | 322758 | [322758-globs.json](./322758-globs.json) |
+| Globulation 2 | 124609 | [124609-globulation-2.json](./124609-globulation-2.json) |
 | Globy | 326061 | [326061-globy.json](./326061-globy.json) |
 | Glogwillette | 306968 | [306968-glogwillette.json](./306968-glogwillette.json) |
 | Gloom | 151203 | [151203-gloom.json](./151203-gloom.json) |
