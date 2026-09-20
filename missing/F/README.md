@@ -3191,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Legends: Season Early 2010 + Turbo Pack | 403583 | [403583-formula-legends-season-early-2010-turbo-pack.json](./403583-formula-legends-season-early-2010-turbo-pack.json) |
 | Formula Legends: Tech Power Pack | 403564 | [403564-formula-legends-tech-power-pack.json](./403564-formula-legends-tech-power-pack.json) |
 | Formula Legends: Turbo Power Pack | 403566 | [403566-formula-legends-turbo-power-pack.json](./403566-formula-legends-turbo-power-pack.json) |
+| Formula Nippon | 91738 | [91738-formula-nippon.json](./91738-formula-nippon.json) |
 | Formula One | 12082 | [12082-formula-one.json](./12082-formula-one.json) |
 | Formula One | 250341 | [250341-formula-one.json](./250341-formula-one.json) |
 | Formula One 2002 | 8300 | [8300-formula-one-2002.json](./8300-formula-one-2002.json) |
