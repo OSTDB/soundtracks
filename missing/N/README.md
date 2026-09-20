@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromancer Nonsense | 347151 | [347151-necromancer-nonsense.json](./347151-necromancer-nonsense.json) |
 | Necromancer: Winter | 156183 | [156183-necromancer-winter.json](./156183-necromancer-winter.json) |
 | Necromancer's Gift | 173317 | [173317-necromancers-gift.json](./173317-necromancers-gift.json) |
+| Necromania: Trap of Darkness | 68965 | [68965-necromania-trap-of-darkness.json](./68965-necromania-trap-of-darkness.json) |
 | Necromanicide | 271734 | [271734-necromanicide.json](./271734-necromanicide.json) |
 | NecroMarch | 415899 | [415899-necromarch.json](./415899-necromarch.json) |
 | NecroMerger | 200549 | [200549-necromerger.json](./200549-necromerger.json) |
