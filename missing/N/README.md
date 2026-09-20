@@ -2141,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not a Hero - Me, Myself & Bunnylord | 140548 | [140548-not-a-hero-me-myself-and-bunnylord.json](./140548-not-a-hero-me-myself-and-bunnylord.json) |
 | Not a Prank | 118977 | [118977-not-a-prank.json](./118977-not-a-prank.json) |
 | Not All There | 229781 | [229781-not-all-there.json](./229781-not-all-there.json) |
+| Not Alone | 108847 | [108847-not-alone.json](./108847-not-alone.json) |
 | Not Alone | 184094 | [184094-not-alone.json](./184094-not-alone.json) |
 | Not Alone | 223040 | [223040-not-alone.json](./223040-not-alone.json) |
 | Not an Aim Trainer | 305776 | [305776-not-an-aim-trainer.json](./305776-not-an-aim-trainer.json) |
@@ -2392,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyakori's Rabbit Doll | 130403 | [130403-nyakoris-rabbit-doll.json](./130403-nyakoris-rabbit-doll.json) |
 | Nyakori's Rabbit Doll: After Story | 157552 | [157552-nyakoris-rabbit-doll-after-story.json](./157552-nyakoris-rabbit-doll-after-story.json) |
 | Nyamo's Adventure | 182513 | [182513-nyamos-adventure.json](./182513-nyamos-adventure.json) |
+| Nyan to Suteki na Natsuiro Days | 108872 | [108872-nyan-to-suteki-na-natsuiro-days.json](./108872-nyan-to-suteki-na-natsuiro-days.json) |
 | Nyan to Wonderful | 143674 | [143674-nyan-to-wonderful.json](./143674-nyan-to-wonderful.json) |
 | Nyancle Racing | 94668 | [94668-nyancle-racing.json](./94668-nyancle-racing.json) |
 | Nyanco Dream | 126557 | [126557-nyanco-dream.json](./126557-nyanco-dream.json) |
