@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong by Dogmelon | 101489 | [101489-mahjong-by-dogmelon.json](./101489-mahjong-by-dogmelon.json) |
 | Mahjong Cards - Play classic mahjong solitaire with playing cards | 102830 | [102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json](./102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json) |
 | Mahjong Cascade: Bamboo and Dragons | 334100 | [334100-mahjong-cascade-bamboo-and-dragons.json](./334100-mahjong-cascade-bamboo-and-dragons.json) |
+| Mahjong Collection | 110813 | [110813-mahjong-collection.json](./110813-mahjong-collection.json) |
 | Mahjong Connect Onet Puzzle | 215120 | [215120-mahjong-connect-onet-puzzle.json](./215120-mahjong-connect-onet-puzzle.json) |
 | Mahjong Deluxe 2: Astral Planes | 105996 | [105996-mahjong-deluxe-2-astral-planes.json](./105996-mahjong-deluxe-2-astral-planes.json) |
 | Mahjong Detective: The Stolen Love | 295919 | [295919-mahjong-detective-the-stolen-love.json](./295919-mahjong-detective-the-stolen-love.json) |
@@ -2247,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 2 Lite | 206149 | [206149-mega-man-2-lite.json](./206149-mega-man-2-lite.json) |
 | Mega Man 2 Randomizer | 324885 | [324885-mega-man-2-randomizer.json](./324885-mega-man-2-randomizer.json) |
 | Mega Man 2: The Power Fighters | 1725 | [1725-mega-man-2-the-power-fighters.json](./1725-mega-man-2-the-power-fighters.json) |
+| Mega Man 30th Anniversary Bundle | 110814 | [110814-mega-man-30th-anniversary-bundle.json](./110814-mega-man-30th-anniversary-bundle.json) |
 | Mega Man 4 Voyage: Blue Version | 252392 | [252392-mega-man-4-voyage-blue-version.json](./252392-mega-man-4-voyage-blue-version.json) |
 | Mega Man 6 Mobile | 103490 | [103490-mega-man-6-mobile.json](./103490-mega-man-6-mobile.json) |
 | Mega Man 64: Recompiled | 400965 | [400965-mega-man-64-recompiled.json](./400965-mega-man-64-recompiled.json) |
@@ -3125,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Scooter Challenge | 209025 | [209025-micro-scooter-challenge.json](./209025-micro-scooter-challenge.json) |
 | Micro Slaughter Community Project | 221847 | [221847-micro-slaughter-community-project.json](./221847-micro-slaughter-community-project.json) |
 | Micro Smash | 220184 | [220184-micro-smash.json](./220184-micro-smash.json) |
+| Micro Vendor Adventures | 110796 | [110796-micro-vendor-adventures.json](./110796-micro-vendor-adventures.json) |
 | Micro-Breakout | 320150 | [320150-micro-breakout.json](./320150-micro-breakout.json) |
 | Micro$oft Simulaattori | 98940 | [98940-micro-oft-simulaattori.json](./98940-micro-oft-simulaattori.json) |
 | MicroBuddies | 196712 | [196712-microbuddies.json](./196712-microbuddies.json) |
@@ -4335,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Reversi | 113482 | [113482-moe-reversi.json](./113482-moe-reversi.json) |
 | Moe Waifu H: BlockBlast | 317213 | [317213-moe-waifu-h-blockblast.json](./317213-moe-waifu-h-blockblast.json) |
 | Moe Waifu H: Push-Box | 337988 | [337988-moe-waifu-h-push-box.json](./337988-moe-waifu-h-push-box.json) |
+| Moe! Ninja Girls | 110797 | [110797-moe-ninja-girls.json](./110797-moe-ninja-girls.json) |
 | Moeboid | 77352 | [77352-moeboid.json](./77352-moeboid.json) |
 | Moekasu | 321540 | [321540-moekasu.json](./321540-moekasu.json) |
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
