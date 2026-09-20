@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A 2ª Jornada | 299470 | [299470-a-2a-jornada.json](./299470-a-2a-jornada.json) |
 | A Army Base | 277571 | [277571-a-army-base.json](./277571-a-army-base.json) |
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
+| A Bear's Night Out | 124606 | [124606-a-bears-night-out.json](./124606-a-bears-night-out.json) |
 | A Better World | 345591 | [345591-a-better-world.json](./345591-a-better-world.json) |
 | A Bewitching Revolution | 124258 | [124258-a-bewitching-revolution.json](./124258-a-bewitching-revolution.json) |
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
@@ -129,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Heroine Story | 249856 | [249856-a-heroine-story.json](./249856-a-heroine-story.json) |
 | A Holiday Yarn | 183952 | [183952-a-holiday-yarn.json](./183952-a-holiday-yarn.json) |
 | A Hollow Doorway | 94785 | [94785-a-hollow-doorway.json](./94785-a-hollow-doorway.json) |
+| A Home Far Away | 124617 | [124617-a-home-far-away.json](./124617-a-home-far-away.json) |
 | A Horrible Evil Spider Head Love Story | 179040 | [179040-a-horrible-evil-spider-head-love-story.json](./179040-a-horrible-evil-spider-head-love-story.json) |
 | A Host of Gentle Terrors | 136437 | [136437-a-host-of-gentle-terrors.json](./136437-a-host-of-gentle-terrors.json) |
 | A House 4 Alesa | 305785 | [305785-a-house-4-alesa.json](./305785-a-house-4-alesa.json) |
@@ -289,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
 | A Vampyre Story: Year One | 3137 | [3137-a-vampyre-story-year-one.json](./3137-a-vampyre-story-year-one.json) |
 | A Very British Summer | 375941 | [375941-a-very-british-summer.json](./375941-a-very-british-summer.json) |
+| A Very Long Rope to the Top of the Sky | 124616 | [124616-a-very-long-rope-to-the-top-of-the-sky.json](./124616-a-very-long-rope-to-the-top-of-the-sky.json) |
 | A Very Pilkington Christmas | 280752 | [280752-a-very-pilkington-christmas.json](./280752-a-very-pilkington-christmas.json) |
 | A Very Scandalous Proposal | 313852 | [313852-a-very-scandalous-proposal.json](./313852-a-very-scandalous-proposal.json) |
 | A Very Splendid Otome Game | 321555 | [321555-a-very-splendid-otome-game.json](./321555-a-very-splendid-otome-game.json) |
@@ -673,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AdVenture Capitalist | 9591 | [9591-adventure-capitalist.json](./9591-adventure-capitalist.json) |
 | Adventure D: Espionage Island | 45370 | [45370-adventure-d-espionage-island.json](./45370-adventure-d-espionage-island.json) |
 | Adventure Elf | 72132 | [72132-adventure-elf.json](./72132-adventure-elf.json) |
+| Adventure Escape Mysteries | 124620 | [124620-adventure-escape-mysteries.json](./124620-adventure-escape-mysteries.json) |
 | Adventure Field | 274001 | [274001-adventure-field.json](./274001-adventure-field.json) |
 | Adventure Field 2 | 274002 | [274002-adventure-field-2.json](./274002-adventure-field-2.json) |
 | Adventure Field 3: Definitive Edition | 274003 | [274003-adventure-field-3-definitive-edition.json](./274003-adventure-field-3-definitive-edition.json) |
@@ -1437,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Rampage | 46630 | [46630-alien-rampage.json](./46630-alien-rampage.json) |
 | Alien Resurrection | 44995 | [44995-alien-resurrection.json](./44995-alien-resurrection.json) |
 | Alien Robot Monsters | 34724 | [34724-alien-robot-monsters.json](./34724-alien-robot-monsters.json) |
+| Alien Scumbags | 124627 | [124627-alien-scumbags.json](./124627-alien-scumbags.json) |
 | Alien Shepherd | 190200 | [190200-alien-shepherd.json](./190200-alien-shepherd.json) |
 | Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
 | Alien Shooter 3D | 152770 | [152770-alien-shooter-3d.json](./152770-alien-shooter-3d.json) |
@@ -1571,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All New Origins | 283907 | [283907-all-new-origins.json](./283907-all-new-origins.json) |
 | All New World of Lemmings | 14246 | [14246-all-new-world-of-lemmings.json](./14246-all-new-world-of-lemmings.json) |
+| All of Our Friends Are Dead | 124630 | [124630-all-of-our-friends-are-dead.json](./124630-all-of-our-friends-are-dead.json) |
 | All of Us: Her Story | 313877 | [313877-all-of-us-her-story.json](./313877-all-of-us-her-story.json) |
 | All of Us: His Story | 313878 | [313878-all-of-us-his-story.json](./313878-all-of-us-his-story.json) |
 | All On Board! | 305146 | [305146-all-on-board.json](./305146-all-on-board.json) |
@@ -3996,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt: Urban GT 2 | 243030 | [243030-asphalt-urban-gt-2.json](./243030-asphalt-urban-gt-2.json) |
 | Aspic: Majaou no Noroi | 41327 | [41327-aspic-majaou-no-noroi.json](./41327-aspic-majaou-no-noroi.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
+| Assassin Blue | 124628 | [124628-assassin-blue.json](./124628-assassin-blue.json) |
 | Assassin In the City | 181767 | [181767-assassin-in-the-city.json](./181767-assassin-in-the-city.json) |
 | Assassin of Monsters | 370186 | [370186-assassin-of-monsters.json](./370186-assassin-of-monsters.json) |
 | Assassin of Monsters 2: Spacenator | 404810 | [404810-assassin-of-monsters-2-spacenator.json](./404810-assassin-of-monsters-2-spacenator.json) |
