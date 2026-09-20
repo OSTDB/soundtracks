@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kioku Hanabi | 309356 | [309356-kioku-hanabi.json](./309356-kioku-hanabi.json) |
 | Kioku Shoujo | 151533 | [151533-kioku-shoujo.json](./151533-kioku-shoujo.json) |
 | Kip and Odosan | 236938 | [236938-kip-and-odosan.json](./236938-kip-and-odosan.json) |
+| Kip!: Space Runner | 101376 | [101376-kip-space-runner.json](./101376-kip-space-runner.json) |
 | Kipi Oppi | 403043 | [403043-kipi-oppi.json](./403043-kipi-oppi.json) |
 | Kipidon: We Will Always Love You | 337455 | [337455-kipidon-we-will-always-love-you.json](./337455-kipidon-we-will-always-love-you.json) |
 | KIPP: Untouched | 225632 | [225632-kipp-untouched.json](./225632-kipp-untouched.json) |
@@ -1325,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knife Aim Hit: Throwing Games | 235297 | [235297-knife-aim-hit-throwing-games.json](./235297-knife-aim-hit-throwing-games.json) |
 | Knife Club VR | 68607 | [68607-knife-club-vr.json](./68607-knife-club-vr.json) |
 | Knife Flip - Hit Geometry Cube | 104666 | [104666-knife-flip-hit-geometry-cube.json](./104666-knife-flip-hit-geometry-cube.json) |
+| Knife Flipping | 101334 | [101334-knife-flipping.json](./101334-knife-flipping.json) |
 | Knife road | 122434 | [122434-knife-road.json](./122434-knife-road.json) |
 | Knife Rush | 104093 | [104093-knife-rush.json](./104093-knife-rush.json) |
 | Knife Sisters | 110158 | [110158-knife-sisters.json](./110158-knife-sisters.json) |
