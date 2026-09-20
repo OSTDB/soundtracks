@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiker | 26547 | [26547-taiker.json](./26547-taiker.json) |
 | Taiko Drum Master | 37148 | [37148-taiko-drum-master.json](./37148-taiko-drum-master.json) |
 | Taiko Frenzy | 276824 | [276824-taiko-frenzy.json](./276824-taiko-frenzy.json) |
+| Taiko no Tatsujin Arcade | 85872 | [85872-taiko-no-tatsujin-arcade.json](./85872-taiko-no-tatsujin-arcade.json) |
 | Taiko no Tatsujin: Appare Sandaime | 123432 | [123432-taiko-no-tatsujin-appare-sandaime.json](./123432-taiko-no-tatsujin-appare-sandaime.json) |
 | Taiko no Tatsujin: Atsumare! Matsuri da!! Yondaime | 123415 | [123415-taiko-no-tatsujin-atsumare-matsuri-da-yondaime.json](./123415-taiko-no-tatsujin-atsumare-matsuri-da-yondaime.json) |
 | Taiko no Tatsujin: Chibi Dragon to Fushigi na Orb | 63850 | [63850-taiko-no-tatsujin-chibi-dragon-to-fushigi-na-orb.json](./63850-taiko-no-tatsujin-chibi-dragon-to-fushigi-na-orb.json) |
@@ -715,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank War Nexus | 149080 | [149080-tank-war-nexus.json](./149080-tank-war-nexus.json) |
 | Tank Warfare: El Guettar | 154531 | [154531-tank-warfare-el-guettar.json](./154531-tank-warfare-el-guettar.json) |
 | Tank Warfare: Operation Pugilist | 155088 | [155088-tank-warfare-operation-pugilist.json](./155088-tank-warfare-operation-pugilist.json) |
+| Tank Wars | 85827 | [85827-tank-wars.json](./85827-tank-wars.json) |
 | Tank Warz! | 61609 | [61609-tank-warz.json](./61609-tank-warz.json) |
 | Tank-O-Box | 78682 | [78682-tank-o-box.json](./78682-tank-o-box.json) |
 | Tank: The M1A1 Abrams Battle Tank Simulation | 90602 | [90602-tank-the-m1a1-abrams-battle-tank-simulation.json](./90602-tank-the-m1a1-abrams-battle-tank-simulation.json) |
@@ -1726,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thanks, Light. | 262934 | [262934-thanks-light.json](./262934-thanks-light.json) |
 | Thanksgiving | 184573 | [184573-thanksgiving.json](./184573-thanksgiving.json) |
 | ThanksKilling Day | 223452 | [223452-thankskilling-day.json](./223452-thankskilling-day.json) |
+| Thapster TV | 85831 | [85831-thapster-tv.json](./85831-thapster-tv.json) |
 | Tharaba | 280321 | [280321-tharaba.json](./280321-tharaba.json) |
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
@@ -5172,6 +5175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers III: Mission CD | 125210 | [125210-the-settlers-iii-mission-cd.json](./125210-the-settlers-iii-mission-cd.json) |
 | The Settlers III: Quest of the Amazons | 11334 | [11334-the-settlers-iii-quest-of-the-amazons.json](./11334-the-settlers-iii-quest-of-the-amazons.json) |
 | The Settlers IV: The Trojans and the Elixir of Power | 21858 | [21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json](./21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json) |
+| The Settlers Mobile | 85862 | [85862-the-settlers-mobile.json](./85862-the-settlers-mobile.json) |
 | The Settlers: Explorer Edition | 136377 | [136377-the-settlers-explorer-edition.json](./136377-the-settlers-explorer-edition.json) |
 | The Settlers: History Edition | 107232 | [107232-the-settlers-history-edition.json](./107232-the-settlers-history-edition.json) |
 | The Settlers: Kingdoms of Anteria | 7440 | [7440-the-settlers-kingdoms-of-anteria.json](./7440-the-settlers-kingdoms-of-anteria.json) |
@@ -5628,6 +5632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terminator | 198940 | [198940-the-terminator.json](./198940-the-terminator.json) |
 | The Terminator | 4372 | [4372-the-terminator.json](./4372-the-terminator.json) |
 | The Terminator | 7688 | [7688-the-terminator.json](./7688-the-terminator.json) |
+| The Terminator | 85846 | [85846-the-terminator.json](./85846-the-terminator.json) |
 | The Terminator 2029: Deluxe CD Edition | 358341 | [358341-the-terminator-2029-deluxe-cd-edition.json](./358341-the-terminator-2029-deluxe-cd-edition.json) |
 | The Terminator 2029: Operation Scour | 15508 | [15508-the-terminator-2029-operation-scour.json](./15508-the-terminator-2029-operation-scour.json) |
 | The Terminator: Future Shock | 8413 | [8413-the-terminator-future-shock.json](./8413-the-terminator-future-shock.json) |
