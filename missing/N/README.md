@@ -1584,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden: Master Collection - Version D | 222501 | [222501-ninja-gaiden-master-collection-version-d.json](./222501-ninja-gaiden-master-collection-version-d.json) |
 | Ninja Gardening Simulator | 281531 | [281531-ninja-gardening-simulator.json](./281531-ninja-gardening-simulator.json) |
 | Ninja Gear | 322583 | [322583-ninja-gear.json](./322583-ninja-gear.json) |
+| Ninja Girl and the Mysterious Army of Urban Legend Monsters! ~Hunt of the Headless Horseman~ | 119562 | [119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json](./119562-ninja-girl-and-the-mysterious-army-of-urban-legend-monsters-hunt-of-the-headless-horseman.json) |
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
 | Ninja Hattori-kun | 346042 | [346042-ninja-hattori-kun.json](./346042-ninja-hattori-kun.json) |
 | Ninja Hero Revenge | 102728 | [102728-ninja-hero-revenge.json](./102728-ninja-hero-revenge.json) |
