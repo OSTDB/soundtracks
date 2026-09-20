@@ -1126,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reckless Getaway 2 | 237666 | [237666-reckless-getaway-2.json](./237666-reckless-getaway-2.json) |
 | Reckless Racing HD | 90542 | [90542-reckless-racing-hd.json](./90542-reckless-racing-hd.json) |
 | Reckless Rally | 276830 | [276830-reckless-rally.json](./276830-reckless-rally.json) |
+| Reckon | 74074 | [74074-reckon.json](./74074-reckon.json) |
 | Reclaimer | 404308 | [404308-reclaimer.json](./404308-reclaimer.json) |
 | Reclamation | 268463 | [268463-reclamation.json](./268463-reclamation.json) |
 | Reclamation of Xanthros | 298177 | [298177-reclamation-of-xanthros.json](./298177-reclamation-of-xanthros.json) |
