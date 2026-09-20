@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PapiJump | 72701 | [72701-papijump.json](./72701-papijump.json) |
 | PapiMountain | 87234 | [87234-papimountain.json](./87234-papimountain.json) |
 | Papiny Dochki | 188598 | [188598-papiny-dochki.json](./188598-papiny-dochki.json) |
+| PapiPole | 88787 | [88787-papipole.json](./88787-papipole.json) |
 | PapiTap | 87528 | [87528-papitap.json](./87528-papitap.json) |
 | Papo & Yo | 7388 | [7388-papo-and-yo.json](./7388-papo-and-yo.json) |
 | Papo Learn & Play | 299275 | [299275-papo-learn-and-play.json](./299275-papo-learn-and-play.json) |
@@ -3062,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plus Ultra: Legado | 276828 | [276828-plus-ultra-legado.json](./276828-plus-ultra-legado.json) |
 | Plush | 24629 | [24629-plush.json](./24629-plush.json) |
 | Plush Shop Simulator | 349852 | [349852-plush-shop-simulator.json](./349852-plush-shop-simulator.json) |
+| Plush Wars | 88753 | [88753-plush-wars.json](./88753-plush-wars.json) |
 | Plushie Bomber | 237083 | [237083-plushie-bomber.json](./237083-plushie-bomber.json) |
 | Plusris | 316074 | [316074-plusris.json](./316074-plusris.json) |
 | Plust: Loving U So True | 239874 | [239874-plust-loving-u-so-true.json](./239874-plust-loving-u-so-true.json) |
