@@ -2859,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Clash Run | 233113 | [233113-robot-clash-run.json](./233113-robot-clash-run.json) |
 | Robot Female Hero 2 | 120939 | [120939-robot-female-hero-2.json](./120939-robot-female-hero-2.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
+| Robot King Part I: Rebooted and Ready | 72383 | [72383-robot-king-part-i-rebooted-and-ready.json](./72383-robot-king-part-i-rebooted-and-ready.json) |
 | Robot Labs: Remake | 171568 | [171568-robot-labs-remake.json](./171568-robot-labs-remake.json) |
 | Robot Mil | 387341 | [387341-robot-mil.json](./387341-robot-mil.json) |
 | Robot Odyssey | 73313 | [73313-robot-odyssey.json](./73313-robot-odyssey.json) |
@@ -2907,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboWarrior Arena | 266473 | [266473-robowarrior-arena.json](./266473-robowarrior-arena.json) |
 | Robox | 147916 | [147916-robox.json](./147916-robox.json) |
 | Robozarro 2: Operation Atlantic | 187386 | [187386-robozarro-2-operation-atlantic.json](./187386-robozarro-2-operation-atlantic.json) |
+| RoboZone | 72335 | [72335-robozone.json](./72335-robozone.json) |
 | Robsu e o Caminho da Água | 142249 | [142249-robsu-e-o-caminho-da-agua.json](./142249-robsu-e-o-caminho-da-agua.json) |
 | Roburst | 199647 | [199647-roburst.json](./199647-roburst.json) |
 | Robzawar | 295395 | [295395-robzawar.json](./295395-robzawar.json) |
