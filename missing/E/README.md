@@ -2179,6 +2179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Dungeons 2 | 323160 | [323160-evil-dungeons-2.json](./323160-evil-dungeons-2.json) |
 | Evil Egg | 351117 | [351117-evil-egg.json](./351117-evil-egg.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
+| Evil Factory | 74790 | [74790-evil-factory.json](./74790-evil-factory.json) |
 | Evil Fire | 87979 | [87979-evil-fire.json](./87979-evil-fire.json) |
 | Evil Genius 2: World Domination - Abomination Pack | 226849 | [226849-evil-genius-2-world-domination-abomination-pack.json](./226849-evil-genius-2-world-domination-abomination-pack.json) |
 | Evil Genius 2: World Domination - Cabal Pack | 226850 | [226850-evil-genius-2-world-domination-cabal-pack.json](./226850-evil-genius-2-world-domination-cabal-pack.json) |
