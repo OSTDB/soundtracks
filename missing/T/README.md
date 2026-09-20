@@ -2964,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Explorers | 177416 | [177416-the-explorers.json](./177416-the-explorers.json) |
 | The Eye | 141836 | [141836-the-eye.json](./141836-the-eye.json) |
 | The Eye of Judgment: Legends | 46020 | [46020-the-eye-of-judgment-legends.json](./46020-the-eye-of-judgment-legends.json) |
+| The Eye of Modern Mali | 103185 | [103185-the-eye-of-modern-mali.json](./103185-the-eye-of-modern-mali.json) |
 | The Eyes of Dr Kautzmann | 219256 | [219256-the-eyes-of-dr-kautzmann.json](./219256-the-eyes-of-dr-kautzmann.json) |
 | The F.A. Premier League Football Manager 2000 | 70974 | [70974-the-f-a-premier-league-football-manager-2000.json](./70974-the-f-a-premier-league-football-manager-2000.json) |
 | The Fable of Fairy Glen | 355030 | [355030-the-fable-of-fairy-glen.json](./355030-the-fable-of-fairy-glen.json) |
@@ -3492,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Howler | 11838 | [11838-the-howler.json](./11838-the-howler.json) |
 | The Human Heart | 177913 | [177913-the-human-heart.json](./177913-the-human-heart.json) |
 | The Humans 2: Jurassic Levels | 39032 | [39032-the-humans-2-jurassic-levels.json](./39032-the-humans-2-jurassic-levels.json) |
+| The Humans Collection | 103199 | [103199-the-humans-collection.json](./103199-the-humans-collection.json) |
 | The Hundred Line: Last Defense Academy - Digital Deluxe Edition | 338007 | [338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json](./338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json) |
 | The Hundred Line: Last Defense Academy - Nintendo Switch Version with Sleeve | 385732 | [385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json](./385732-the-hundred-line-last-defense-academy-nintendo-switch-version-with-sleeve.json) |
 | The Hundred Year Kingdom | 151737 | [151737-the-hundred-year-kingdom.json](./151737-the-hundred-year-kingdom.json) |
@@ -3750,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King's Courier | 335242 | [335242-the-kings-courier.json](./335242-the-kings-courier.json) |
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
 | The King's League: Emblems | 294421 | [294421-the-kings-league-emblems.json](./294421-the-kings-league-emblems.json) |
+| The King's Request | 103193 | [103193-the-kings-request.json](./103193-the-kings-request.json) |
 | The Kingdom of Christmas: Santa's Elves | 328474 | [328474-the-kingdom-of-christmas-santas-elves.json](./328474-the-kingdom-of-christmas-santas-elves.json) |
 | The Kings Crusade: Arabian Nights | 10975 | [10975-the-kings-crusade-arabian-nights.json](./10975-the-kings-crusade-arabian-nights.json) |
 | The Kings Crusade: New Allies | 10976 | [10976-the-kings-crusade-new-allies.json](./10976-the-kings-crusade-new-allies.json) |
@@ -8160,6 +8163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Wars: Tank Battles | 87898 | [87898-toon-wars-tank-battles.json](./87898-toon-wars-tank-battles.json) |
 | Tooncop | 260249 | [260249-tooncop.json](./260249-tooncop.json) |
 | TooneQuest | 407402 | [407402-toonequest.json](./407402-toonequest.json) |
+| Toonix! | 103171 | [103171-toonix.json](./103171-toonix.json) |
 | Toonkars Racer | 202763 | [202763-toonkars-racer.json](./202763-toonkars-racer.json) |
 | Toons City | 201664 | [201664-toons-city.json](./201664-toons-city.json) |
 | Toontown Online | 25326 | [25326-toontown-online.json](./25326-toontown-online.json) |
