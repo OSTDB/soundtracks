@@ -1424,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erase: Missing Link | 361802 | [361802-erase-missing-link.json](./361802-erase-missing-link.json) |
 | Eraser | 339263 | [339263-eraser.json](./339263-eraser.json) |
 | Eraser vs. Ruler | 323706 | [323706-eraser-vs-ruler.json](./323706-eraser-vs-ruler.json) |
+| Erasure | 125282 | [125282-erasure.json](./125282-erasure.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
 | Eremidia: Archivist's Curse | 208588 | [208588-eremidia-archivists-curse.json](./208588-eremidia-archivists-curse.json) |
 | Erepublik | 63258 | [63258-erepublik.json](./63258-erepublik.json) |
@@ -1488,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escalation VR! | 150110 | [150110-escalation-vr.json](./150110-escalation-vr.json) |
 | Escalation: Aggressors | 127759 | [127759-escalation-aggressors.json](./127759-escalation-aggressors.json) |
 | Escalation! | 150099 | [150099-escalation.json](./150099-escalation.json) |
+| Escapatoria | 125195 | [125195-escapatoria.json](./125195-escapatoria.json) |
 | Escape | 154377 | [154377-escape.json](./154377-escape.json) |
 | Escape | 175910 | [175910-escape.json](./175910-escape.json) |
 | Escape | 230863 | [230863-escape.json](./230863-escape.json) |
@@ -2083,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Advisor Verdict | 359995 | [359995-evil-advisor-verdict.json](./359995-evil-advisor-verdict.json) |
 | Evil Apples: Dirty as ____. | 86996 | [86996-evil-apples-dirty-as.json](./86996-evil-apples-dirty-as.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
+| Evil Clowns | 125267 | [125267-evil-clowns.json](./125267-evil-clowns.json) |
 | Evil Crown | 45328 | [45328-evil-crown.json](./45328-evil-crown.json) |
 | Evil Cucumber | 169374 | [169374-evil-cucumber.json](./169374-evil-cucumber.json) |
 | Evil Dead: The Game | 66308 | [66308-evil-dead-the-game.json](./66308-evil-dead-the-game.json) |
