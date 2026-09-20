@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day on Mars | 186853 | [186853-day-on-mars.json](./186853-day-on-mars.json) |
 | Day One: Garry's Incident | 3046 | [3046-day-one-garrys-incident.json](./3046-day-one-garrys-incident.json) |
 | Day R | 82855 | [82855-day-r.json](./82855-day-r.json) |
+| Day Seven | 125268 | [125268-day-seven.json](./125268-day-seven.json) |
 | Day Trader Tycoon | 386890 | [386890-day-trader-tycoon.json](./386890-day-trader-tycoon.json) |
 | Daybreakers | 259062 | [259062-daybreakers.json](./259062-daybreakers.json) |
 | Daycare Descent | 256909 | [256909-daycare-descent.json](./256909-daycare-descent.json) |
@@ -2507,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Cook | 277024 | [277024-die-cook.json](./277024-die-cook.json) |
 | Die Die Die and Try | 195116 | [195116-die-die-die-and-try.json](./195116-die-die-die-and-try.json) |
 | Die DillyBillys | 398477 | [398477-die-dillybillys.json](./398477-die-dillybillys.json) |
+| Die drei ??? 2 - Bomben in Rocky Beach | 125284 | [125284-die-drei-2-bomben-in-rocky-beach.json](./125284-die-drei-2-bomben-in-rocky-beach.json) |
 | Die drei ??? 3 - Gespensterjagd | 142239 | [142239-die-drei-3-gespensterjagd.json](./142239-die-drei-3-gespensterjagd.json) |
 | Die drei Freunde von der Reitschule | 291073 | [291073-die-drei-freunde-von-der-reitschule.json](./291073-die-drei-freunde-von-der-reitschule.json) |
 | Die drei???: Plan der Chamäleonbande | 302665 | [302665-die-drei-plan-der-chamaleonbande.json](./302665-die-drei-plan-der-chamaleonbande.json) |
@@ -3492,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dollar King | 257942 | [257942-dollar-king.json](./257942-dollar-king.json) |
 | Dollarluigi's Quest | 324105 | [324105-dollarluigis-quest.json](./324105-dollarluigis-quest.json) |
 | Dollhouse | 11668 | [11668-dollhouse.json](./11668-dollhouse.json) |
+| Dollhouse | 125217 | [125217-dollhouse.json](./125217-dollhouse.json) |
 | DollHouse: Survive or Death | 263026 | [263026-dollhouse-survive-or-death.json](./263026-dollhouse-survive-or-death.json) |
 | Dolls | 244497 | [244497-dolls.json](./244497-dolls.json) |
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
@@ -5449,6 +5452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Guns | 158081 | [158081-dungeons-and-guns.json](./158081-dungeons-and-guns.json) |
 | Dungeons & Keyboards | 250953 | [250953-dungeons-and-keyboards.json](./250953-dungeons-and-keyboards.json) |
 | Dungeons & Warbands | 390685 | [390685-dungeons-and-warbands.json](./390685-dungeons-and-warbands.json) |
+| Dungeons & Zombies | 125215 | [125215-dungeons-and-zombies.json](./125215-dungeons-and-zombies.json) |
 | Dungeons 2: A Clash of Pumpkins | 138050 | [138050-dungeons-2-a-clash-of-pumpkins.json](./138050-dungeons-2-a-clash-of-pumpkins.json) |
 | Dungeons 3: Evil of the Caribbean | 124825 | [124825-dungeons-3-evil-of-the-caribbean.json](./124825-dungeons-3-evil-of-the-caribbean.json) |
 | Dungeons 4 | 215915 | [215915-dungeons-4.json](./215915-dungeons-4.json) |
