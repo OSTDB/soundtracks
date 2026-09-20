@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sare Inception | 120931 | [120931-sare-inception.json](./120931-sare-inception.json) |
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
 | Sargon Chess | 46568 | [46568-sargon-chess.json](./46568-sargon-chess.json) |
+| Sargon I | 83263 | [83263-sargon-i.json](./83263-sargon-i.json) |
 | Sargon II | 47209 | [47209-sargon-ii.json](./47209-sargon-ii.json) |
 | Sarkwo | 197229 | [197229-sarkwo.json](./197229-sarkwo.json) |
 | SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
@@ -3325,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SilhouetteGirl Zan | 233219 | [233219-silhouettegirl-zan.json](./233219-silhouettegirl-zan.json) |
 | Silica | 247621 | [247621-silica.json](./247621-silica.json) |
 | Silicon Dreams | 132497 | [132497-silicon-dreams.json](./132497-silicon-dreams.json) |
+| Silicon Fish | 83268 | [83268-silicon-fish.json](./83268-silicon-fish.json) |
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
 | Silicone Heart | 358369 | [358369-silicone-heart.json](./358369-silicone-heart.json) |
@@ -3677,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sirius: Age of the Free Agents | 115075 | [115075-sirius-age-of-the-free-agents.json](./115075-sirius-age-of-the-free-agents.json) |
 | SirKwitz | 306336 | [306336-sirkwitz.json](./306336-sirkwitz.json) |
 | Sister Lumina and the Hypnosis Cult | 327395 | [327395-sister-lumina-and-the-hypnosis-cult.json](./327395-sister-lumina-and-the-hypnosis-cult.json) |
+| Sister Slave: Faithful Girl's Slave Training | 83230 | [83230-sister-slave-faithful-girls-slave-training.json](./83230-sister-slave-faithful-girls-slave-training.json) |
 | Sister's Dream | 202330 | [202330-sisters-dream.json](./202330-sisters-dream.json) |
 | Sisters of Silent Liberty | 154410 | [154410-sisters-of-silent-liberty.json](./154410-sisters-of-silent-liberty.json) |
 | Sisters of Sweetwater | 225091 | [225091-sisters-of-sweetwater.json](./225091-sisters-of-sweetwater.json) |
@@ -5860,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
 | Sorcery Saga: Curse of the Great Curry God | 19915 | [19915-sorcery-saga-curse-of-the-great-curry-god.json](./19915-sorcery-saga-curse-of-the-great-curry-god.json) |
+| Sorcery Tempest | 83261 | [83261-sorcery-tempest.json](./83261-sorcery-tempest.json) |
 | Sorcery! | 88541 | [88541-sorcery.json](./88541-sorcery.json) |
 | Sorcevival | 276169 | [276169-sorcevival.json](./276169-sorcevival.json) |
 | Sorcières & Compagnie | 351105 | [351105-sorcieres-and-compagnie.json](./351105-sorcieres-and-compagnie.json) |
@@ -9316,6 +9320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Connect! | 147388 | [147388-succubus-connect.json](./147388-succubus-connect.json) |
 | Succubus Farm | 151166 | [151166-succubus-farm.json](./151166-succubus-farm.json) |
 | Succubus Girl Story | 192443 | [192443-succubus-girl-story.json](./192443-succubus-girl-story.json) |
+| Succubus Imprisoned | 83258 | [83258-succubus-imprisoned.json](./83258-succubus-imprisoned.json) |
 | Succubus Sessions: Mami Mamiya's Sweet Slice of Hell | 371233 | [371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json](./371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json) |
 | Succubus Waifu | 127998 | [127998-succubus-waifu.json](./127998-succubus-waifu.json) |
 | Succubus War | 186830 | [186830-succubus-war.json](./186830-succubus-war.json) |
@@ -11398,7 +11403,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvan Tale | 19691 | [19691-sylvan-tale.json](./19691-sylvan-tale.json) |
 | Sylvana's Chronicles | 259016 | [259016-sylvanas-chronicles.json](./259016-sylvanas-chronicles.json) |
 | Sylvania Melody | 50555 | [50555-sylvania-melody.json](./50555-sylvania-melody.json) |
+| Sylvanian Families 2: Irozuku Mori no Fantasy | 83228 | [83228-sylvanian-families-2-irozuku-mori-no-fantasy.json](./83228-sylvanian-families-2-irozuku-mori-no-fantasy.json) |
+| Sylvanian Families 3: Hoshifuru Yoru no Sunadokei | 83226 | [83226-sylvanian-families-3-hoshifuru-yoru-no-sunadokei.json](./83226-sylvanian-families-3-hoshifuru-yoru-no-sunadokei.json) |
+| Sylvanian Families 4: Meguru Kisetsu no Tapestry | 83224 | [83224-sylvanian-families-4-meguru-kisetsu-no-tapestry.json](./83224-sylvanian-families-4-meguru-kisetsu-no-tapestry.json) |
 | Sylvanian Families: Otogi no Kuni no Pendant | 50556 | [50556-sylvanian-families-otogi-no-kuni-no-pendant.json](./50556-sylvanian-families-otogi-no-kuni-no-pendant.json) |
+| Sylvanian Families: Yousei no Stick to Fushigi no Ki - Maron Inu no Onna no ko | 83242 | [83242-sylvanian-families-yousei-no-stick-to-fushigi-no-ki-maron-inu-no-onna-no-ko.json](./83242-sylvanian-families-yousei-no-stick-to-fushigi-no-ki-maron-inu-no-onna-no-ko.json) |
+| Sylvanian Melody: Mori no Nakama to Odorimasho! | 83231 | [83231-sylvanian-melody-mori-no-nakama-to-odorimasho.json](./83231-sylvanian-melody-mori-no-nakama-to-odorimasho.json) |
 | Sylvantia | 258542 | [258542-sylvantia.json](./258542-sylvantia.json) |
 | Sylvarcon 2049: A Cybersecurity Aventure | 213966 | [213966-sylvarcon-2049-a-cybersecurity-aventure.json](./213966-sylvarcon-2049-a-cybersecurity-aventure.json) |
 | Sylviana: Ai Ippai no Boukensha | 299761 | [299761-sylviana-ai-ippai-no-boukensha.json](./299761-sylviana-ai-ippai-no-boukensha.json) |
