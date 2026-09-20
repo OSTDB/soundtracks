@@ -1489,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazooka Boy | 227498 | [227498-bazooka-boy.json](./227498-bazooka-boy.json) |
 | Bazooka Cafe | 72633 | [72633-bazooka-cafe.json](./72633-bazooka-cafe.json) |
 | Bazooka Cat: First Episode | 233635 | [233635-bazooka-cat-first-episode.json](./233635-bazooka-cat-first-episode.json) |
+| Bazooka of the Red Dragon | 68969 | [68969-bazooka-of-the-red-dragon.json](./68969-bazooka-of-the-red-dragon.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
 | BBlocks | 109737 | [109737-bblocks.json](./109737-bblocks.json) |
 | BBOnline | 130327 | [130327-bbonline.json](./130327-bbonline.json) |
@@ -2114,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beta Decay | 250957 | [250957-beta-decay.json](./250957-beta-decay.json) |
 | Beta Runner | 47989 | [47989-beta-runner.json](./47989-beta-runner.json) |
 | Betaman 2000: Special Edition | 330521 | [330521-betaman-2000-special-edition.json](./330521-betaman-2000-special-edition.json) |
+| Betasuppe | 68968 | [68968-betasuppe.json](./68968-betasuppe.json) |
 | BeTrapped! | 71522 | [71522-betrapped.json](./71522-betrapped.json) |
 | Betray Me Not | 239679 | [239679-betray-me-not.json](./239679-betray-me-not.json) |
 | Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
@@ -4491,6 +4493,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain On: Can You Pass It? | 224089 | [224089-brain-on-can-you-pass-it.json](./224089-brain-on-can-you-pass-it.json) |
 | Brain Pump | 116155 | [116155-brain-pump.json](./116155-brain-pump.json) |
 | Brain Puzzle | 90203 | [90203-brain-puzzle.json](./90203-brain-puzzle.json) |
+| Brain Quest Grades 3 & 4 | 68941 | [68941-brain-quest-grades-3-and-4.json](./68941-brain-quest-grades-3-and-4.json) |
+| Brain Quest Grades 5 & 6 | 68940 | [68940-brain-quest-grades-5-and-6.json](./68940-brain-quest-grades-5-and-6.json) |
 | Brain Sanguo | 158666 | [158666-brain-sanguo.json](./158666-brain-sanguo.json) |
 | Brain Spa | 69207 | [69207-brain-spa.json](./69207-brain-spa.json) |
 | Brain Teaser Bundle | 231073 | [231073-brain-teaser-bundle.json](./231073-brain-teaser-bundle.json) |
