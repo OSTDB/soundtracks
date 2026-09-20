@@ -2665,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital City | 260209 | [260209-digital-city.json](./260209-digital-city.json) |
 | Digital Combat Simulator: Black Shark 2 | 65434 | [65434-digital-combat-simulator-black-shark-2.json](./65434-digital-combat-simulator-black-shark-2.json) |
 | Digital Dance Mix Vol. 1: Namie Amuro | 96091 | [96091-digital-dance-mix-vol-1-namie-amuro.json](./96091-digital-dance-mix-vol-1-namie-amuro.json) |
+| Digital Dance Mix Vol.1 Namie Amuro | 108828 | [108828-digital-dance-mix-vol-1-namie-amuro.json](./108828-digital-dance-mix-vol-1-namie-amuro.json) |
 | Digital Devil Saga: Avatar Tuner - A's Test Server | 136416 | [136416-digital-devil-saga-avatar-tuner-as-test-server.json](./136416-digital-devil-saga-avatar-tuner-as-test-server.json) |
 | Digital Eclipse Arcade: Invasion of the Buffet Snatchers | 236851 | [236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json](./236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json) |
 | Digital Eclipse Arcade: Q.P.I.D. | 239655 | [239655-digital-eclipse-arcade-q-p-i-d.json](./239655-digital-eclipse-arcade-q-p-i-d.json) |
