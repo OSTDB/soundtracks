@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ch'ti Bundle | 147792 | [147792-a-chti-bundle.json](./147792-a-chti-bundle.json) |
 | A Challenging Game About Parkour | 379464 | [379464-a-challenging-game-about-parkour.json](./379464-a-challenging-game-about-parkour.json) |
 | A Chicken In The Office | 379463 | [379463-a-chicken-in-the-office.json](./379463-a-chicken-in-the-office.json) |
+| A Chinese Ghost Story | 77653 | [77653-a-chinese-ghost-story.json](./77653-a-chinese-ghost-story.json) |
 | A Christmas Carol: But With Anime Girls | 379470 | [379470-a-christmas-carol-but-with-anime-girls.json](./379470-a-christmas-carol-but-with-anime-girls.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
 | A Christmas Nightmare | 165502 | [165502-a-christmas-nightmare.json](./165502-a-christmas-nightmare.json) |
@@ -226,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
 | A Right to Rule | 347228 | [347228-a-right-to-rule.json](./347228-a-right-to-rule.json) |
 | A Rite from the Stars: Remaster Edition | 298690 | [298690-a-rite-from-the-stars-remaster-edition.json](./298690-a-rite-from-the-stars-remaster-edition.json) |
+| A Road That May Lead Nowhere | 77658 | [77658-a-road-that-may-lead-nowhere.json](./77658-a-road-that-may-lead-nowhere.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
 | A Room Without You In It | 165503 | [165503-a-room-without-you-in-it.json](./165503-a-room-without-you-in-it.json) |
 | A Room You Can't Exit Unless You Find the Numbers | 311643 | [311643-a-room-you-cant-exit-unless-you-find-the-numbers.json](./311643-a-room-you-cant-exit-unless-you-find-the-numbers.json) |
@@ -1093,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Kingdom: Deluxe Edition | 216228 | [216228-airborne-kingdom-deluxe-edition.json](./216228-airborne-kingdom-deluxe-edition.json) |
 | Airborne Ranger | 11891 | [11891-airborne-ranger.json](./11891-airborne-ranger.json) |
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
+| AirBurst | 77643 | [77643-airburst.json](./77643-airburst.json) |
 | Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
 | Aircraft Carrier Survival | 139380 | [139380-aircraft-carrier-survival.json](./139380-aircraft-carrier-survival.json) |
 | Aircraft Pushback Simulator | 234744 | [234744-aircraft-pushback-simulator.json](./234744-aircraft-pushback-simulator.json) |
