@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz It | 102758 | [102758-quiz-it.json](./102758-quiz-it.json) |
 | Quiz Kidou Senshi Gundam: Toi Senshi DX | 62758 | [62758-quiz-kidou-senshi-gundam-toi-senshi-dx.json](./62758-quiz-kidou-senshi-gundam-toi-senshi-dx.json) |
 | Quiz Kit | 138593 | [138593-quiz-kit.json](./138593-quiz-kit.json) |
+| Quiz Magic Academy | 112143 | [112143-quiz-magic-academy.json](./112143-quiz-magic-academy.json) |
 | Quiz Master Zero and the Silky Road | 110313 | [110313-quiz-master-zero-and-the-silky-road.json](./110313-quiz-master-zero-and-the-silky-road.json) |
 | Quiz Minister | 208029 | [208029-quiz-minister.json](./208029-quiz-minister.json) |
 | Quiz Party | 84835 | [84835-quiz-party.json](./84835-quiz-party.json) |
