@@ -4639,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
 | Draw | 258014 | [258014-draw.json](./258014-draw.json) |
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
+| Draw A Stickman: Episode 2 | 99999 | [99999-draw-a-stickman-episode-2.json](./99999-draw-a-stickman-episode-2.json) |
 | Draw and Color: Kawaii - Complete Edition | 242047 | [242047-draw-and-color-kawaii-complete-edition.json](./242047-draw-and-color-kawaii-complete-edition.json) |
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
 | Draw and Color: Kawaii - Magnificent Edition | 268554 | [268554-draw-and-color-kawaii-magnificent-edition.json](./268554-draw-and-color-kawaii-magnificent-edition.json) |
