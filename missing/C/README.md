@@ -2748,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circumference Encompass | 306955 | [306955-circumference-encompass.json](./306955-circumference-encompass.json) |
 | Circus | 12944 | [12944-circus.json](./12944-circus.json) |
 | Circus | 206349 | [206349-circus.json](./206349-circus.json) |
+| Circus Atari | 78374 | [78374-circus-atari.json](./78374-circus-atari.json) |
 | Circus Caper | 48099 | [48099-circus-caper.json](./48099-circus-caper.json) |
 | Circus Lido | 37724 | [37724-circus-lido.json](./37724-circus-lido.json) |
 | Circus of Clowns | 342085 | [342085-circus-of-clowns.json](./342085-circus-of-clowns.json) |
@@ -2883,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Turn | 311472 | [311472-city-turn.json](./311472-city-turn.json) |
 | City-Racing | 358887 | [358887-city-racing.json](./358887-city-racing.json) |
 | City: Battle Ground | 345012 | [345012-city-battle-ground.json](./345012-city-battle-ground.json) |
+| CityBattle: Virtual Earth | 78358 | [78358-citybattle-virtual-earth.json](./78358-citybattle-virtual-earth.json) |
 | Citybound | 18151 | [18151-citybound.json](./18151-citybound.json) |
 | CityBuilder | 206348 | [206348-citybuilder.json](./206348-citybuilder.json) |
 | Cityconomy: Service for your City | 17494 | [17494-cityconomy-service-for-your-city.json](./17494-cityconomy-service-for-your-city.json) |
