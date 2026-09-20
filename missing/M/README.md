@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maseylia: Echoes of the Past | 302107 | [302107-maseylia-echoes-of-the-past.json](./302107-maseylia-echoes-of-the-past.json) |
 | Mash | 100606 | [100606-mash.json](./100606-mash.json) |
 | Masha and Medved | 216457 | [216457-masha-and-medved.json](./216457-masha-and-medved.json) |
+| Masha and the Bear Child Games: Cooking Adventure | 95847 | [95847-masha-and-the-bear-child-games-cooking-adventure.json](./95847-masha-and-the-bear-child-games-cooking-adventure.json) |
 | Masha and the Bear: Dentist | 227487 | [227487-masha-and-the-bear-dentist.json](./227487-masha-and-the-bear-dentist.json) |
 | Mashinky | 55590 | [55590-mashinky.json](./55590-mashinky.json) |
 | Mashiroiro Symphony HD: Love is Pure White | 292527 | [292527-mashiroiro-symphony-hd-love-is-pure-white.json](./292527-mashiroiro-symphony-hd-love-is-pure-white.json) |
@@ -1676,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match | 119019 | [119019-match.json](./119019-match.json) |
 | Match 10 Puzzle | 99404 | [99404-match-10-puzzle.json](./99404-match-10-puzzle.json) |
 | Match 22 | 86042 | [86042-match-22.json](./86042-match-22.json) |
+| Match 3 Amazon | 95823 | [95823-match-3-amazon.json](./95823-match-3-amazon.json) |
 | Match 3 Bundle of 3 | 218716 | [218716-match-3-bundle-of-3.json](./218716-match-3-bundle-of-3.json) |
 | Match 3 Fantasy | 197389 | [197389-match-3-fantasy.json](./197389-match-3-fantasy.json) |
 | Match 3 Games | 98816 | [98816-match-3-games.json](./98816-match-3-games.json) |
@@ -2819,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Colony | 117788 | [117788-mermaid-colony.json](./117788-mermaid-colony.json) |
 | Mermaid Land | 89263 | [89263-mermaid-land.json](./89263-mermaid-land.json) |
 | Mermaid Prism | 203341 | [203341-mermaid-prism.json](./203341-mermaid-prism.json) |
+| Mermaid Secrets10-First Crush in high school | 95877 | [95877-mermaid-secrets10-first-crush-in-high-school.json](./95877-mermaid-secrets10-first-crush-in-high-school.json) |
 | Mermaid Secrets14 - Prison Escape | 104465 | [104465-mermaid-secrets14-prison-escape.json](./104465-mermaid-secrets14-prison-escape.json) |
 | Mermaid Stories: Book 1 - The Lost Gift | 339377 | [339377-mermaid-stories-book-1-the-lost-gift.json](./339377-mermaid-stories-book-1-the-lost-gift.json) |
 | Mermaid Story | 219289 | [219289-mermaid-story.json](./219289-mermaid-story.json) |
@@ -4256,6 +4259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob War | 90546 | [90546-mob-war.json](./90546-mob-war.json) |
 | Mob Wars: La Cosa Nostra | 125364 | [125364-mob-wars-la-cosa-nostra.json](./125364-mob-wars-la-cosa-nostra.json) |
 | Mobenium 2D | 336040 | [336040-mobenium-2d.json](./336040-mobenium-2d.json) |
+| Mobg.io Survive Battle Royale | 95837 | [95837-mobg-io-survive-battle-royale.json](./95837-mobg-io-survive-battle-royale.json) |
 | Mobia's Trip | 364602 | [364602-mobias-trip.json](./364602-mobias-trip.json) |
 | Mobil 1 Rally Championship | 793 | [793-mobil-1-rally-championship.json](./793-mobil-1-rally-championship.json) |
 | Mobile Ball | 109476 | [109476-mobile-ball.json](./109476-mobile-ball.json) |
