@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scars of Summer | 169438 | [169438-scars-of-summer.json](./169438-scars-of-summer.json) |
 | Scars of Summer: After | 381696 | [381696-scars-of-summer-after.json](./381696-scars-of-summer-after.json) |
 | Scary 8 Bits | 404207 | [404207-scary-8-bits.json](./404207-scary-8-bits.json) |
+| Scary Bendy Neighbor Simulator - Bendy Games 2018 | 103902 | [103902-scary-bendy-neighbor-simulator-bendy-games-2018.json](./103902-scary-bendy-neighbor-simulator-bendy-games-2018.json) |
 | Scary Bucketman | 319950 | [319950-scary-bucketman.json](./319950-scary-bucketman.json) |
 | Scary Buddies | 167717 | [167717-scary-buddies.json](./167717-scary-buddies.json) |
 | Scary Doll: Twin Sister | 303094 | [303094-scary-doll-twin-sister.json](./303094-scary-doll-twin-sister.json) |
@@ -922,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sceptorn | 391211 | [391211-sceptorn.json](./391211-sceptorn.json) |
 | Schar: Blue Shield Alliance | 35941 | [35941-schar-blue-shield-alliance.json](./35941-schar-blue-shield-alliance.json) |
 | SchattenJagd | 98954 | [98954-schattenjagd.json](./98954-schattenjagd.json) |
+| Schattenspiel | 103873 | [103873-schattenspiel.json](./103873-schattenspiel.json) |
 | Schedule I | 328373 | [328373-schedule-i.json](./328373-schedule-i.json) |
 | Schism | 266227 | [266227-schism.json](./266227-schism.json) |
 | Schizo Dark | 368481 | [368481-schizo-dark.json](./368481-schizo-dark.json) |
@@ -1421,8 +1423,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Mode's Cozy Collection | 328500 | [328500-secret-modes-cozy-collection.json](./328500-secret-modes-cozy-collection.json) |
 | Secret Mysteries in London | 84900 | [84900-secret-mysteries-in-london.json](./84900-secret-mysteries-in-london.json) |
 | Secret Mysteries in New York | 84899 | [84899-secret-mysteries-in-new-york.json](./84899-secret-mysteries-in-new-york.json) |
+| Secret Mystery: Door of Stealth | 103910 | [103910-secret-mystery-door-of-stealth.json](./103910-secret-mystery-door-of-stealth.json) |
 | Secret of Evangelion | 61670 | [61670-secret-of-evangelion.json](./61670-secret-of-evangelion.json) |
 | Secret of Harrow Manor 2 | 164877 | [164877-secret-of-harrow-manor-2.json](./164877-secret-of-harrow-manor-2.json) |
+| Secret of Lost Pyramid | 103876 | [103876-secret-of-lost-pyramid.json](./103876-secret-of-lost-pyramid.json) |
 | Secret of Mana: Relocalized | 249276 | [249276-secret-of-mana-relocalized.json](./249276-secret-of-mana-relocalized.json) |
 | Secret of the Royal Throne | 32913 | [32913-secret-of-the-royal-throne.json](./32913-secret-of-the-royal-throne.json) |
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
@@ -3709,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skategirl Destroys the Universe | 147275 | [147275-skategirl-destroys-the-universe.json](./147275-skategirl-destroys-the-universe.json) |
 | Skatemasta Tcheco | 118401 | [118401-skatemasta-tcheco.json](./118401-skatemasta-tcheco.json) |
 | SkateNationXL | 272579 | [272579-skatenationxl.json](./272579-skatenationxl.json) |
+| Skater Girl Ice Skating | 103866 | [103866-skater-girl-ice-skating.json](./103866-skater-girl-ice-skating.json) |
 | Skater XL: Tampa Pro 2022 Gear Pack For Charity | 225094 | [225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json](./225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json) |
 | SkateRide | 180776 | [180776-skateride.json](./180776-skateride.json) |
 | Skautfold: Moonless Knight | 152142 | [152142-skautfold-moonless-knight.json](./152142-skautfold-moonless-knight.json) |
@@ -3854,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Chuter | 328226 | [328226-sky-chuter.json](./328226-sky-chuter.json) |
 | Sky City Blues | 132824 | [132824-sky-city-blues.json](./132824-sky-city-blues.json) |
 | Sky City Rush | 364502 | [364502-sky-city-rush.json](./364502-sky-city-rush.json) |
+| Sky Crew | 103888 | [103888-sky-crew.json](./103888-sky-crew.json) |
 | Sky Dancer Run | 174755 | [174755-sky-dancer-run.json](./174755-sky-dancer-run.json) |
 | Sky Dancer: Free Falling | 87498 | [87498-sky-dancer-free-falling.json](./87498-sky-dancer-free-falling.json) |
 | Sky Dancers: They Magically Fly! | 49401 | [49401-sky-dancers-they-magically-fly.json](./49401-sky-dancers-they-magically-fly.json) |
@@ -6080,6 +6086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Commander: War and Trade | 146222 | [146222-space-commander-war-and-trade.json](./146222-space-commander-war-and-trade.json) |
 | Space Conquest: A Galactic Odyssey | 73295 | [73295-space-conquest-a-galactic-odyssey.json](./73295-space-conquest-a-galactic-odyssey.json) |
 | Space Contact | 340198 | [340198-space-contact.json](./340198-space-contact.json) |
+| Space Core | 103869 | [103869-space-core.json](./103869-space-core.json) |
 | Space Court | 137684 | [137684-space-court.json](./137684-space-court.json) |
 | Space Cowboy | 25603 | [25603-space-cowboy.json](./25603-space-cowboy.json) |
 | Space Crafter | 291585 | [291585-space-crafter.json](./291585-space-crafter.json) |
@@ -6348,6 +6355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Wars: Interstellar Empires | 76586 | [76586-space-wars-interstellar-empires.json](./76586-space-wars-interstellar-empires.json) |
 | Space Wave | 181912 | [181912-space-wave.json](./181912-space-wave.json) |
 | Space Waves | 189170 | [189170-space-waves.json](./189170-space-waves.json) |
+| Space World | 103886 | [103886-space-world.json](./103886-space-world.json) |
 | Space Worm | 337468 | [337468-space-worm.json](./337468-space-worm.json) |
 | Space Wreck | 122417 | [122417-space-wreck.json](./122417-space-wreck.json) |
 | Space X Collector | 166168 | [166168-space-x-collector.json](./166168-space-x-collector.json) |
@@ -6460,6 +6468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkle | 88277 | [88277-sparkle.json](./88277-sparkle.json) |
 | Sparkle 2 | 20069 | [20069-sparkle-2.json](./20069-sparkle-2.json) |
 | Sparkle 4 Tales | 116326 | [116326-sparkle-4-tales.json](./116326-sparkle-4-tales.json) |
+| Sparkle HD | 103894 | [103894-sparkle-hd.json](./103894-sparkle-hd.json) |
 | Sparkle Milla: Eight Genetic Abnormalities and a Blood Ghost | 230371 | [230371-sparkle-milla-eight-genetic-abnormalities-and-a-blood-ghost.json](./230371-sparkle-milla-eight-genetic-abnormalities-and-a-blood-ghost.json) |
 | Sparkle Piglet | 212795 | [212795-sparkle-piglet.json](./212795-sparkle-piglet.json) |
 | Sparkle Snapshots | 67332 | [67332-sparkle-snapshots.json](./67332-sparkle-snapshots.json) |
