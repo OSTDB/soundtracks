@@ -2923,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Boy | 93514 | [93514-play-boy.json](./93514-play-boy.json) |
 | Play Chess with Lady Bongcloud | 255696 | [255696-play-chess-with-lady-bongcloud.json](./255696-play-chess-with-lady-bongcloud.json) |
 | Play Club | 22478 | [22478-play-club.json](./22478-play-club.json) |
+| Play Cubes with Uncle Billy | 84539 | [84539-play-cubes-with-uncle-billy.json](./84539-play-cubes-with-uncle-billy.json) |
 | Play Dead! #2 | 183073 | [183073-play-dead-2.json](./183073-play-dead-2.json) |
 | Play Dice | 277867 | [277867-play-dice.json](./277867-play-dice.json) |
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
@@ -5286,6 +5287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrrfect Love | 204066 | [204066-purrrfect-love.json](./204066-purrrfect-love.json) |
 | Purrrification | 365161 | [365161-purrrification.json](./365161-purrrification.json) |
 | Purrrifiers: Cleaning Chaos | 322196 | [322196-purrrifiers-cleaning-chaos.json](./322196-purrrifiers-cleaning-chaos.json) |
+| Pursuing Susie | 84534 | [84534-pursuing-susie.json](./84534-pursuing-susie.json) |
 | Pursuit of Power 2 | 30866 | [30866-pursuit-of-power-2.json](./30866-pursuit-of-power-2.json) |
 | Purumui Purumui | 143677 | [143677-purumui-purumui.json](./143677-purumui-purumui.json) |
 | Pururun! Shizuku-chan: Asonde Tanoshiku Nouryoku Up | 327618 | [327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json](./327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json) |
