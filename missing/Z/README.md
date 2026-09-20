@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Crush Driver | 192283 | [192283-zombie-crush-driver.json](./192283-zombie-crush-driver.json) |
 | Zombie Dash | 377133 | [377133-zombie-dash.json](./377133-zombie-dash.json) |
 | Zombie Dead Smasher Shooter: Premium Edition | 283163 | [283163-zombie-dead-smasher-shooter-premium-edition.json](./283163-zombie-dead-smasher-shooter-premium-edition.json) |
+| Zombie Deathrace Feeding Frenzy | 114185 | [114185-zombie-deathrace-feeding-frenzy.json](./114185-zombie-deathrace-feeding-frenzy.json) |
 | Zombie Defense Shelter | 130195 | [130195-zombie-defense-shelter.json](./130195-zombie-defense-shelter.json) |
 | Zombie Defense: Emerald Edition | 400206 | [400206-zombie-defense-emerald-edition.json](./400206-zombie-defense-emerald-edition.json) |
 | Zombie Defense: Perfect Cut Edition | 284932 | [284932-zombie-defense-perfect-cut-edition.json](./284932-zombie-defense-perfect-cut-edition.json) |
