@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jantei Monogatari 3: Saver Angels | 321173 | [321173-jantei-monogatari-3-saver-angels.json](./321173-jantei-monogatari-3-saver-angels.json) |
 | Janusz: The Handyman Simulator | 163404 | [163404-janusz-the-handyman-simulator.json](./163404-janusz-the-handyman-simulator.json) |
 | Japan Mahjong | 334660 | [334660-japan-mahjong.json](./334660-japan-mahjong.json) |
+| Japan Studio VR Music Festival | 68296 | [68296-japan-studio-vr-music-festival.json](./68296-japan-studio-vr-music-festival.json) |
 | Japan Train Models: JR Kyushu Edition | 286104 | [286104-japan-train-models-jr-kyushu-edition.json](./286104-japan-train-models-jr-kyushu-edition.json) |
 | Japan Train Models: JR West Edition | 278130 | [278130-japan-train-models-jr-west-edition.json](./278130-japan-train-models-jr-west-edition.json) |
 | Japan Trip | 340767 | [340767-japan-trip.json](./340767-japan-trip.json) |
