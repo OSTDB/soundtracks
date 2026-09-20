@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Fly | 115451 | [115451-i-wanna-fly.json](./115451-i-wanna-fly.json) |
 | I Wanna How Many Bottles of Coke Zero Can Badlands Chug in 3 Minutes? Watch & See! | 210657 | [210657-i-wanna-how-many-bottles-of-coke-zero-can-badlands-chug-in-3-minutes-watch-and-see.json](./210657-i-wanna-how-many-bottles-of-coke-zero-can-badlands-chug-in-3-minutes-watch-and-see.json) |
 | I Wanna Kill the Guy | 80532 | [80532-i-wanna-kill-the-guy.json](./80532-i-wanna-kill-the-guy.json) |
+| I Wanna Kill the Kamilia 3 | 113466 | [113466-i-wanna-kill-the-kamilia-3.json](./113466-i-wanna-kill-the-kamilia-3.json) |
 | I Wanna Lap Around | 329182 | [329182-i-wanna-lap-around.json](./329182-i-wanna-lap-around.json) |
 | I Wanna Make a Dragon Game | 349291 | [349291-i-wanna-make-a-dragon-game.json](./349291-i-wanna-make-a-dragon-game.json) |
 | I Wanna Ponder | 361758 | [361758-i-wanna-ponder.json](./361758-i-wanna-ponder.json) |
@@ -1134,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infestus | 235456 | [235456-infestus.json](./235456-infestus.json) |
 | Infiltrate | 22413 | [22413-infiltrate.json](./22413-infiltrate.json) |
 | Infiltration: Alone in Combat | 151196 | [151196-infiltration-alone-in-combat.json](./151196-infiltration-alone-in-combat.json) |
+| Infiltria | 113499 | [113499-infiltria.json](./113499-infiltria.json) |
 | Infinadeck Medieval Maze | 192818 | [192818-infinadeck-medieval-maze.json](./192818-infinadeck-medieval-maze.json) |
 | Infini: #InfiniPrison | 170440 | [170440-infini-infiniprison.json](./170440-infini-infiniprison.json) |
 | Infiniball | 129737 | [129737-infiniball.json](./129737-infiniball.json) |
