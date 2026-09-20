@@ -1815,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Going Into the Unknown | 205577 | [205577-going-into-the-unknown.json](./205577-going-into-the-unknown.json) |
 | Going Nuts | 70405 | [70405-going-nuts.json](./70405-going-nuts.json) |
 | Going Up | 31946 | [31946-going-up.json](./31946-going-up.json) |
+| Goinund | 105095 | [105095-goinund.json](./105095-goinund.json) |
 | Gojira tai 3 Daikaijuu | 75884 | [75884-gojira-tai-3-daikaijuu.json](./75884-gojira-tai-3-daikaijuu.json) |
 | Gojira-kun | 75886 | [75886-gojira-kun.json](./75886-gojira-kun.json) |
 | GOKA Street | 297250 | [297250-goka-street.json](./297250-goka-street.json) |
@@ -2351,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granny in Paradise | 71333 | [71333-granny-in-paradise.json](./71333-granny-in-paradise.json) |
 | Granny Legend | 245381 | [245381-granny-legend.json](./245381-granny-legend.json) |
 | Granny Unleashed | 177561 | [177561-granny-unleashed.json](./177561-granny-unleashed.json) |
+| Granny's Grantastic Granventure | 105096 | [105096-grannys-grantastic-granventure.json](./105096-grannys-grantastic-granventure.json) |
 | Granny's House | 182449 | [182449-grannys-house.json](./182449-grannys-house.json) |
 | Granola Jumps | 297252 | [297252-granola-jumps.json](./297252-granola-jumps.json) |
 | Grant of God | 247180 | [247180-grant-of-god.json](./247180-grant-of-god.json) |
