@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samantha Wins | 128561 | [128561-samantha-wins.json](./128561-samantha-wins.json) |
 | Samara | 291084 | [291084-samara.json](./291084-samara.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
+| Same Game for Windows | 80229 | [80229-same-game-for-windows.json](./80229-same-game-for-windows.json) |
 | Same Room Same Day | 316610 | [316610-same-room-same-day.json](./316610-same-room-same-day.json) |
 | Same-X | 64429 | [64429-same-x.json](./64429-same-x.json) |
 | Samedi Manor | 260672 | [260672-samedi-manor.json](./260672-samedi-manor.json) |
@@ -2543,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheltered 2 | 152285 | [152285-sheltered-2.json](./152285-sheltered-2.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
 | Shelves and Sorcery: Tidy Up the Enchanted Shop | 411566 | [411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json](./411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json) |
+| Shengnü Zhi Ge: Heroine Anthem - The Elect of Wassernixe | 80192 | [80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json](./80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json) |
 | Shēngwù Zhīshì Gédòu Dàsài | 130968 | [130968-shengwu-zhishi-gedou-dasai.json](./130968-shengwu-zhishi-gedou-dasai.json) |
 | Shénhuà Zhànshì II: Shìjiè zhī Mí | 394205 | [394205-shenhua-zhanshi-ii-shijie-zhi-mi.json](./394205-shenhua-zhanshi-ii-shijie-zhi-mi.json) |
 | Shénhuà Zhànshì: Fùchóu de Qiánzòu Qǔ | 394207 | [394207-shenhua-zhanshi-fuchou-de-qianzou-qu.json](./394207-shenhua-zhanshi-fuchou-de-qianzou-qu.json) |
@@ -6070,6 +6072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soups Christmas | 310606 | [310606-soups-christmas.json](./310606-soups-christmas.json) |
 | Soupsoup | 265948 | [265948-soupsoup.json](./265948-soupsoup.json) |
 | Souptown Matty | 304709 | [304709-souptown-matty.json](./304709-souptown-matty.json) |
+| Source | 80232 | [80232-source.json](./80232-source.json) |
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
 | Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
@@ -10090,6 +10093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Koopa RPG: Here Comes the Koopa Bros.! | 338834 | [338834-super-koopa-rpg-here-comes-the-koopa-bros.json](./338834-super-koopa-rpg-here-comes-the-koopa-bros.json) |
 | Super Kyuukyoku Harikiri Stadium 2 | 37815 | [37815-super-kyuukyoku-harikiri-stadium-2.json](./37815-super-kyuukyoku-harikiri-stadium-2.json) |
 | Super Laura Up | 276163 | [276163-super-laura-up.json](./276163-super-laura-up.json) |
+| Super League Pro Rugby | 80239 | [80239-super-league-pro-rugby.json](./80239-super-league-pro-rugby.json) |
 | Super Ledgehop: Double Laser | 110857 | [110857-super-ledgehop-double-laser.json](./110857-super-ledgehop-double-laser.json) |
 | Super Lee World | 120950 | [120950-super-lee-world.json](./120950-super-lee-world.json) |
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
