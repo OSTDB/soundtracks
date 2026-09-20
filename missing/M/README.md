@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars 2055 | 208437 | [208437-mars-2055.json](./208437-mars-2055.json) |
 | Mars Assault: 3D Shooter | 294849 | [294849-mars-assault-3d-shooter.json](./294849-mars-assault-3d-shooter.json) |
 | Mars Base Excavation Incident | 271746 | [271746-mars-base-excavation-incident.json](./271746-mars-base-excavation-incident.json) |
+| Mars Chaos Madness | 111452 | [111452-mars-chaos-madness.json](./111452-mars-chaos-madness.json) |
 | Mars Colony Builder | 151145 | [151145-mars-colony-builder.json](./151145-mars-colony-builder.json) |
 | Mars Dash | 224013 | [224013-mars-dash.json](./224013-mars-dash.json) |
 | Mars Farming 2034 | 300845 | [300845-mars-farming-2034.json](./300845-mars-farming-2034.json) |
