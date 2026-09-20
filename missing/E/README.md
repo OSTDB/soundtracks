@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt Collection | 195099 | [195099-egypt-collection.json](./195099-egypt-collection.json) |
 | Egypt Frontiers | 266293 | [266293-egypt-frontiers.json](./266293-egypt-frontiers.json) |
 | Egypt Picross. Pharaoh's Riddles. | 99990 | [99990-egypt-picross-pharaohs-riddles.json](./99990-egypt-picross-pharaohs-riddles.json) |
+| Egypt Series: The Prophecy - Part 2 | 88830 | [88830-egypt-series-the-prophecy-part-2.json](./88830-egypt-series-the-prophecy-part-2.json) |
 | Egypt Solitaire: Match 2 Cards | 127237 | [127237-egypt-solitaire-match-2-cards.json](./127237-egypt-solitaire-match-2-cards.json) |
 | Egypt: Old Kingdom - Master of History | 124796 | [124796-egypt-old-kingdom-master-of-history.json](./124796-egypt-old-kingdom-master-of-history.json) |
 | Eidolons: Nethergate | 116818 | [116818-eidolons-nethergate.json](./116818-eidolons-nethergate.json) |
