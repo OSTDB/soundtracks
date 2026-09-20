@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoga Therapy | 235220 | [235220-yoga-therapy.json](./235220-yoga-therapy.json) |
 | Yoga tte! Oku-sama | 157547 | [157547-yoga-tte-oku-sama.json](./157547-yoga-tte-oku-sama.json) |
 | Yoga Wii | 19655 | [19655-yoga-wii.json](./19655-yoga-wii.json) |
+| Yogho Yogho spel | 78953 | [78953-yogho-yogho-spel.json](./78953-yogho-yogho-spel.json) |
 | Yogi Bear: Great Balloon Blast | 49900 | [49900-yogi-bear-great-balloon-blast.json](./49900-yogi-bear-great-balloon-blast.json) |
 | Yogi's Great Escape | 12833 | [12833-yogis-great-escape.json](./12833-yogis-great-escape.json) |
 | Yogoe Hunter | 320178 | [320178-yogoe-hunter.json](./320178-yogoe-hunter.json) |
