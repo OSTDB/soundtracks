@@ -2470,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Sword | 46671 | [46671-lord-of-the-sword.json](./46671-lord-of-the-sword.json) |
 | Lord of the Сlick | 207815 | [207815-lord-of-the-lick.json](./207815-lord-of-the-lick.json) |
 | Lord of Ultima | 66713 | [66713-lord-of-ultima.json](./66713-lord-of-ultima.json) |
+| Lord of Vermilion | 68298 | [68298-lord-of-vermilion.json](./68298-lord-of-vermilion.json) |
 | Lord of Vermilion II | 65461 | [65461-lord-of-vermilion-ii.json](./65461-lord-of-vermilion-ii.json) |
 | Lord of War | 208934 | [208934-lord-of-war.json](./208934-lord-of-war.json) |
 | Lord Temin's Fortress | 187441 | [187441-lord-temins-fortress.json](./187441-lord-temins-fortress.json) |
