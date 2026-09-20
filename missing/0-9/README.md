@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1112: Episode 01 | 213381 | [213381-1112-episode-01.json](./213381-1112-episode-01.json) |
 | 1193 Anno Domini: Merchants and Crusaders | 71494 | [71494-1193-anno-domini-merchants-and-crusaders.json](./71494-1193-anno-domini-merchants-and-crusaders.json) |
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
+| 12 | 97108 | [97108-12.json](./97108-12.json) |
 | 12 Hours Before Christmas | 113483 | [113483-12-hours-before-christmas.json](./113483-12-hours-before-christmas.json) |
 | 12 Hours Museum | 308938 | [308938-12-hours-museum.json](./308938-12-hours-museum.json) |
 | 12 Labours of Hercules II: The Cretan Bull | 35493 | [35493-12-labours-of-hercules-ii-the-cretan-bull.json](./35493-12-labours-of-hercules-ii-the-cretan-bull.json) |
@@ -492,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Days of Tower | 290955 | [290955-30-days-of-tower.json](./290955-30-days-of-tower.json) |
 | 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
 | 30 Seconds to Jail | 97110 | [97110-30-seconds-to-jail.json](./97110-30-seconds-to-jail.json) |
+| 30,000 Games | 97119 | [97119-30-000-games.json](./97119-30-000-games.json) |
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
 | 300 Miles to Pigsland | 286646 | [286646-300-miles-to-pigsland.json](./286646-300-miles-to-pigsland.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
@@ -548,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D MiniGolf | 143059 | [143059-3d-minigolf.json](./143059-3d-minigolf.json) |
 | 3D Morpion | 324513 | [324513-3d-morpion.json](./324513-3d-morpion.json) |
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
+| 3D Pinball Express | 97104 | [97104-3d-pinball-express.json](./97104-3d-pinball-express.json) |
 | 3D Pool Game | 88273 | [88273-3d-pool-game.json](./88273-3d-pool-game.json) |
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
 | 3D Puzzle: Abandoned Prison | 308949 | [308949-3d-puzzle-abandoned-prison.json](./308949-3d-puzzle-abandoned-prison.json) |
