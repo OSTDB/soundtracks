@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest: Treasure Lands | 151542 | [151542-tempest-treasure-lands.json](./151542-tempest-treasure-lands.json) |
 | Tempete sur les Bermudes | 310966 | [310966-tempete-sur-les-bermudes.json](./310966-tempete-sur-les-bermudes.json) |
 | Templar | 324332 | [324332-templar.json](./324332-templar.json) |
+| Templar Battleforce Elite | 89703 | [89703-templar-battleforce-elite.json](./89703-templar-battleforce-elite.json) |
 | Templars | 133833 | [133833-templars.json](./133833-templars.json) |
 | Temple Dash: Jungle Adventure | 218497 | [218497-temple-dash-jungle-adventure.json](./218497-temple-dash-jungle-adventure.json) |
 | Temple Knight Saga: Oath of the Knight's Sword | 267682 | [267682-temple-knight-saga-oath-of-the-knights-sword.json](./267682-temple-knight-saga-oath-of-the-knights-sword.json) |
@@ -3827,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lar | 118380 | [118380-the-lar.json](./118380-the-lar.json) |
 | The Larper | 402988 | [402988-the-larper.json](./402988-the-larper.json) |
 | The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
+| The last Baron's stunt | 89652 | [89652-the-last-barons-stunt.json](./89652-the-last-barons-stunt.json) |
 | The Last Bastion | 188504 | [188504-the-last-bastion.json](./188504-the-last-bastion.json) |
 | The Last Birdling | 44162 | [44162-the-last-birdling.json](./44162-the-last-birdling.json) |
 | The Last Blade 2 | 76045 | [76045-the-last-blade-2.json](./76045-the-last-blade-2.json) |
@@ -4933,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Raven and the Light | 406782 | [406782-the-raven-and-the-light.json](./406782-the-raven-and-the-light.json) |
 | The Raven: Legacy of a Master Thief - Digital Deluxe Edition | 53771 | [53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json](./53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json) |
 | The Raven: Legacy of a Master Thief - Episode 2 | 172592 | [172592-the-raven-legacy-of-a-master-thief-episode-2.json](./172592-the-raven-legacy-of-a-master-thief-episode-2.json) |
+| The Reaction | 89680 | [89680-the-reaction.json](./89680-the-reaction.json) |
 | The Real Deal 2 | 130849 | [130849-the-real-deal-2.json](./130849-the-real-deal-2.json) |
 | The Real Ghostbusters | 12841 | [12841-the-real-ghostbusters.json](./12841-the-real-ghostbusters.json) |
 | The Real Texas: Cellpop Goes Out At Night | 51923 | [51923-the-real-texas-cellpop-goes-out-at-night.json](./51923-the-real-texas-cellpop-goes-out-at-night.json) |
@@ -5130,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Grisly Manor | 61104 | [61104-the-secret-of-grisly-manor.json](./61104-the-secret-of-grisly-manor.json) |
 | The Secret of Little Hodcome | 232554 | [232554-the-secret-of-little-hodcome.json](./232554-the-secret-of-little-hodcome.json) |
 | The Secret of Maike Island | 318396 | [318396-the-secret-of-maike-island.json](./318396-the-secret-of-maike-island.json) |
+| The Secret of Raven Rock | 89708 | [89708-the-secret-of-raven-rock.json](./89708-the-secret-of-raven-rock.json) |
 | The Secret of Rooms | 207518 | [207518-the-secret-of-rooms.json](./207518-the-secret-of-rooms.json) |
 | The Secret of St. Brides | 12965 | [12965-the-secret-of-st-brides.json](./12965-the-secret-of-st-brides.json) |
 | The Secret of the Four Winds | 388965 | [388965-the-secret-of-the-four-winds.json](./388965-the-secret-of-the-four-winds.json) |
@@ -5973,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Video Game Machine | 123066 | [123066-the-video-game-machine.json](./123066-the-video-game-machine.json) |
 | The Vigil | 271494 | [271494-the-vigil.json](./271494-the-vigil.json) |
 | The Vigilante: Single Shot Justice | 179117 | [179117-the-vigilante-single-shot-justice.json](./179117-the-vigilante-single-shot-justice.json) |
+| The Viking Game | 89704 | [89704-the-viking-game.json](./89704-the-viking-game.json) |
 | The Vikings | 37188 | [37188-the-vikings.json](./37188-the-vikings.json) |
 | The Villa of Pain | 272925 | [272925-the-villa-of-pain.json](./272925-the-villa-of-pain.json) |
 | The Village | 74391 | [74391-the-village.json](./74391-the-village.json) |
@@ -7805,6 +7810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To-Fu: The Trials of Chi | 364556 | [364556-to-fu-the-trials-of-chi.json](./364556-to-fu-the-trials-of-chi.json) |
 | To:ri | 317222 | [317222-to-ri.json](./317222-to-ri.json) |
 | Toad in SMB1 | 198470 | [198470-toad-in-smb1.json](./198470-toad-in-smb1.json) |
+| Toad Line | 89701 | [89701-toad-line.json](./89701-toad-line.json) |
 | Toad on Fire | 139482 | [139482-toad-on-fire.json](./139482-toad-on-fire.json) |
 | Toad Strikes Back | 134068 | [134068-toad-strikes-back.json](./134068-toad-strikes-back.json) |
 | Toad Tales | 272578 | [272578-toad-tales.json](./272578-toad-tales.json) |
@@ -9716,6 +9722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Aegean: Collector's Edition | 170031 | [170031-treasures-of-the-aegean-collectors-edition.json](./170031-treasures-of-the-aegean-collectors-edition.json) |
 | Treasures of the Ancients: Egypt | 102184 | [102184-treasures-of-the-ancients-egypt.json](./102184-treasures-of-the-ancients-egypt.json) |
 | Treasures of the Haunted Forest | 273645 | [273645-treasures-of-the-haunted-forest.json](./273645-treasures-of-the-haunted-forest.json) |
+| Treble Cat | 89690 | [89690-treble-cat.json](./89690-treble-cat.json) |
 | Trebuchet | 36086 | [36086-trebuchet.json](./36086-trebuchet.json) |
 | Trebuchet Town | 175993 | [175993-trebuchet-town.json](./175993-trebuchet-town.json) |
 | Tree Kingdoms | 345485 | [345485-tree-kingdoms.json](./345485-tree-kingdoms.json) |
@@ -9788,6 +9795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Guinevere | 127611 | [127611-trials-of-guinevere.json](./127611-trials-of-guinevere.json) |
 | Trials of Heroes | 108256 | [108256-trials-of-heroes.json](./108256-trials-of-heroes.json) |
 | Trials of Imorah | 258531 | [258531-trials-of-imorah.json](./258531-trials-of-imorah.json) |
+| Trials of the Gauntlet | 89662 | [89662-trials-of-the-gauntlet.json](./89662-trials-of-the-gauntlet.json) |
 | Trials of the Illuminati: Amazing Wildlife Jigsaws | 68201 | [68201-trials-of-the-illuminati-amazing-wildlife-jigsaws.json](./68201-trials-of-the-illuminati-amazing-wildlife-jigsaws.json) |
 | Trials of The Illuminati: Animated Christmas Time Jigsaws | 334758 | [334758-trials-of-the-illuminati-animated-christmas-time-jigsaws.json](./334758-trials-of-the-illuminati-animated-christmas-time-jigsaws.json) |
 | Trials of the Illuminati: Sea Creatures Jigsaws | 334759 | [334759-trials-of-the-illuminati-sea-creatures-jigsaws.json](./334759-trials-of-the-illuminati-sea-creatures-jigsaws.json) |
