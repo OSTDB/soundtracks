@@ -1135,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teen Titans Battle Blitz | 144130 | [144130-teen-titans-battle-blitz.json](./144130-teen-titans-battle-blitz.json) |
 | Teen Titans Go! Arcade | 59358 | [59358-teen-titans-go-arcade.json](./59358-teen-titans-go-arcade.json) |
 | Teenage Lawnmower | 308559 | [308559-teenage-lawnmower.json](./308559-teenage-lawnmower.json) |
+| Teenage Mutant Ninja Turtles Double Pack | 78938 | [78938-teenage-mutant-ninja-turtles-double-pack.json](./78938-teenage-mutant-ninja-turtles-double-pack.json) |
 | Teenage Mutant Ninja Turtles Fast Forward: Ninja Training NYC | 146104 | [146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json](./146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json) |
 | Teenage Mutant Ninja Turtles II: The Arcade Game | 3816 | [3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json](./3816-teenage-mutant-ninja-turtles-ii-the-arcade-game.json) |
 | Teenage Mutant Ninja Turtles: Arcade Attack | 21156 | [21156-teenage-mutant-ninja-turtles-arcade-attack.json](./21156-teenage-mutant-ninja-turtles-arcade-attack.json) |
@@ -6466,6 +6467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | THiNK-X | 94539 | [94539-think-x.json](./94539-think-x.json) |
 | Think! Think! Monsters | 233512 | [233512-think-think-monsters.json](./233512-think-think-monsters.json) |
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
+| Thinkin' Things Collection 3 | 78954 | [78954-thinkin-things-collection-3.json](./78954-thinkin-things-collection-3.json) |
 | Thinking Games 2 | 72064 | [72064-thinking-games-2.json](./72064-thinking-games-2.json) |
 | Thinkrolls Space | 119571 | [119571-thinkrolls-space.json](./119571-thinkrolls-space.json) |
 | ThinkTanks | 84240 | [84240-thinktanks.json](./84240-thinktanks.json) |
@@ -8293,6 +8295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Speed 2: Racing Legends | 121448 | [121448-top-speed-2-racing-legends.json](./121448-top-speed-2-racing-legends.json) |
 | Top Spin | 5234 | [5234-top-spin.json](./5234-top-spin.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
+| Top Striker | 78967 | [78967-top-striker.json](./78967-top-striker.json) |
 | Top Troops! | 228123 | [228123-top-troops.json](./228123-top-troops.json) |
 | Top Truck Driver | 156642 | [156642-top-truck-driver.json](./156642-top-truck-driver.json) |
 | Top Truck Free | 131352 | [131352-top-truck-free.json](./131352-top-truck-free.json) |
