@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aldro | 247747 | [247747-aldro.json](./247747-aldro.json) |
 | Aldroy: Chapter 1 | 133959 | [133959-aldroy-chapter-1.json](./133959-aldroy-chapter-1.json) |
 | Ale Abbey | 305173 | [305173-ale-abbey.json](./305173-ale-abbey.json) |
+| Alea | 86551 | [86551-alea.json](./86551-alea.json) |
 | Alea Jacta Est: Birth of Rome | 169292 | [169292-alea-jacta-est-birth-of-rome.json](./169292-alea-jacta-est-birth-of-rome.json) |
 | Alea Jacta Est: Cantabrian Wars | 169291 | [169291-alea-jacta-est-cantabrian-wars.json](./169291-alea-jacta-est-cantabrian-wars.json) |
 | Alea Jacta Est: Hannibal Terror of Rome | 169289 | [169289-alea-jacta-est-hannibal-terror-of-rome.json](./169289-alea-jacta-est-hannibal-terror-of-rome.json) |
@@ -3799,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Mayhem | 264330 | [264330-armor-mayhem.json](./264330-armor-mayhem.json) |
 | Armor of Heroes | 140015 | [140015-armor-of-heroes.json](./140015-armor-of-heroes.json) |
 | Armored | 151201 | [151201-armored.json](./151201-armored.json) |
+| Armored Animals: H1N1z | 86567 | [86567-armored-animals-h1n1z.json](./86567-armored-animals-h1n1z.json) |
 | Armored Battle Crew | 111339 | [111339-armored-battle-crew.json](./111339-armored-battle-crew.json) |
 | Armored Brigade | 109035 | [109035-armored-brigade.json](./109035-armored-brigade.json) |
 | Armored Brigade Nation Pack: France - Belgium | 155059 | [155059-armored-brigade-nation-pack-france-belgium.json](./155059-armored-brigade-nation-pack-france-belgium.json) |
