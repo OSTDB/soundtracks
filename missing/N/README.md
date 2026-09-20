@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja no Gakko | 290402 | [290402-ninja-no-gakko.json](./290402-ninja-no-gakko.json) |
 | Ninja Numpties | 324333 | [324333-ninja-numpties.json](./324333-ninja-numpties.json) |
 | Ninja or Die: Shadow of the Sun | 204717 | [204717-ninja-or-die-shadow-of-the-sun.json](./204717-ninja-or-die-shadow-of-the-sun.json) |
+| Ninja Pac Man | 66382 | [66382-ninja-pac-man.json](./66382-ninja-pac-man.json) |
 | Ninja Ponk HD | 232184 | [232184-ninja-ponk-hd.json](./232184-ninja-ponk-hd.json) |
 | Ninja Power Slasher | 114371 | [114371-ninja-power-slasher.json](./114371-ninja-power-slasher.json) |
 | Ninja Prime: Tap Quest | 241632 | [241632-ninja-prime-tap-quest.json](./241632-ninja-prime-tap-quest.json) |
@@ -2033,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nofsky Zombies | 235838 | [235838-nofsky-zombies.json](./235838-nofsky-zombies.json) |
 | Noga | 264703 | [264703-noga.json](./264703-noga.json) |
 | Nogard | 94729 | [94729-nogard.json](./94729-nogard.json) |
+| Nogginknockers | 66381 | [66381-nogginknockers.json](./66381-nogginknockers.json) |
 | Nohra | 156659 | [156659-nohra.json](./156659-nohra.json) |
 | Nohzdyve | 123624 | [123624-nohzdyve.json](./123624-nohzdyve.json) |
 | Noir Crime Bundle: Mafia, Mystery & Investigation | 402297 | [402297-noir-crime-bundle-mafia-mystery-and-investigation.json](./402297-noir-crime-bundle-mafia-mystery-and-investigation.json) |
