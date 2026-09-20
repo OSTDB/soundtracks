@@ -1684,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match 3 Games | 98816 | [98816-match-3-games.json](./98816-match-3-games.json) |
 | Match 3 Madness | 209552 | [209552-match-3-madness.json](./209552-match-3-madness.json) |
 | Match 3 Revolution | 34498 | [34498-match-3-revolution.json](./34498-match-3-revolution.json) |
+| Match 3x3 Collection | 93972 | [93972-match-3x3-collection.json](./93972-match-3x3-collection.json) |
 | Match Gems Evolved | 101969 | [101969-match-gems-evolved.json](./101969-match-gems-evolved.json) |
 | Match it | 337989 | [337989-match-it.json](./337989-match-it.json) |
 | Match It | 402993 | [402993-match-it.json](./402993-match-it.json) |
@@ -1914,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze 3D | 113478 | [113478-maze-3d.json](./113478-maze-3d.json) |
 | Maze 4D | 112921 | [112921-maze-4d.json](./112921-maze-4d.json) |
 | Maze 95 Ultimate | 406807 | [406807-maze-95-ultimate.json](./406807-maze-95-ultimate.json) |
+| Maze Action | 94006 | [94006-maze-action.json](./94006-maze-action.json) |
 | Maze Ball Neon | 176367 | [176367-maze-ball-neon.json](./176367-maze-ball-neon.json) |
 | Maze Bandit | 43177 | [43177-maze-bandit.json](./43177-maze-bandit.json) |
 | Maze Company | 326093 | [326093-maze-company.json](./326093-maze-company.json) |
@@ -1930,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Lord | 33305 | [33305-maze-lord.json](./33305-maze-lord.json) |
 | Maze Madness | 101598 | [101598-maze-madness.json](./101598-maze-madness.json) |
 | Maze Maid | 287656 | [287656-maze-maid.json](./287656-maze-maid.json) |
+| Maze Master | 94010 | [94010-maze-master.json](./94010-maze-master.json) |
 | Maze Masters | 148913 | [148913-maze-masters.json](./148913-maze-masters.json) |
 | Maze of Acheron | 172098 | [172098-maze-of-acheron.json](./172098-maze-of-acheron.json) |
 | Maze of Bears | 186321 | [186321-maze-of-bears.json](./186321-maze-of-bears.json) |
@@ -2089,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecho Wars | 52567 | [52567-mecho-wars.json](./52567-mecho-wars.json) |
 | Mecho Wars: Desert Ashes | 114174 | [114174-mecho-wars-desert-ashes.json](./114174-mecho-wars-desert-ashes.json) |
 | MechQuest | 78644 | [78644-mechquest.json](./78644-mechquest.json) |
+| MechScape | 94019 | [94019-mechscape.json](./94019-mechscape.json) |
 | Mechsternmination Force | 115705 | [115705-mechsternmination-force.json](./115705-mechsternmination-force.json) |
 | MechWarrior 2: The Titanium Trilogy | 209534 | [209534-mechwarrior-2-the-titanium-trilogy.json](./209534-mechwarrior-2-the-titanium-trilogy.json) |
 | MechWarrior 3 | 19190 | [19190-mechwarrior-3.json](./19190-mechwarrior-3.json) |
@@ -2255,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Babies | 209532 | [209532-mega-babies.json](./209532-mega-babies.json) |
 | Mega Blaster | 311664 | [311664-mega-blaster.json](./311664-mega-blaster.json) |
 | Mega Bowling Dash | 136431 | [136431-mega-bowling-dash.json](./136431-mega-bowling-dash.json) |
+| Mega Brain Boost | 94017 | [94017-mega-brain-boost.json](./94017-mega-brain-boost.json) |
 | Mega Bundle: Cats | 208046 | [208046-mega-bundle-cats.json](./208046-mega-bundle-cats.json) |
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
 | Mega Cat Studios Collection 1 | 130688 | [130688-mega-cat-studios-collection-1.json](./130688-mega-cat-studios-collection-1.json) |
@@ -3979,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miramagia | 209560 | [209560-miramagia.json](./209560-miramagia.json) |
 | Mírame | 271728 | [271728-mirame.json](./271728-mirame.json) |
 | Miraneko | 404307 | [404307-miraneko.json](./404307-miraneko.json) |
+| Miraroma | 93979 | [93979-miraroma.json](./93979-miraroma.json) |
 | Mirastell | 132782 | [132782-mirastell.json](./132782-mirastell.json) |
 | Mirax | 39592 | [39592-mirax.json](./39592-mirax.json) |
 | Mirax Force | 55208 | [55208-mirax-force.json](./55208-mirax-force.json) |
@@ -4408,6 +4414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moero!! Nettou Yakyuu '88 | 59990 | [59990-moero-nettou-yakyuu-88.json](./59990-moero-nettou-yakyuu-88.json) |
 | Moeru Danmaku STG Moedan | 204490 | [204490-moeru-danmaku-stg-moedan.json](./204490-moeru-danmaku-stg-moedan.json) |
 | Moeru Mahjong: Moejong! | 398475 | [398475-moeru-mahjong-moejong.json](./398475-moeru-mahjong-moejong.json) |
+| Moetan DS | 94002 | [94002-moetan-ds.json](./94002-moetan-ds.json) |
 | Mogeko Castle | 213382 | [213382-mogeko-castle.json](./213382-mogeko-castle.json) |
 | Mogo Invasion | 48004 | [48004-mogo-invasion.json](./48004-mogo-invasion.json) |
 | Mogul Maniac | 40788 | [40788-mogul-maniac.json](./40788-mogul-maniac.json) |
@@ -6248,6 +6255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Noblewomen | 148339 | [148339-my-lovely-noblewomen.json](./148339-my-lovely-noblewomen.json) |
 | My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
+| My Make-Up | 93985 | [93985-my-make-up.json](./93985-my-make-up.json) |
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
 | My Mermaid Girlfriend | 208366 | [208366-my-mermaid-girlfriend.json](./208366-my-mermaid-girlfriend.json) |
 | My Merry Maybe | 247509 | [247509-my-merry-maybe.json](./247509-my-merry-maybe.json) |
