@@ -2168,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bickadoodle | 185088 | [185088-bickadoodle.json](./185088-bickadoodle.json) |
 | Bicolor | 208385 | [208385-bicolor.json](./208385-bicolor.json) |
 | BiColor: Lazy Eye Game Trainer | 360672 | [360672-bicolor-lazy-eye-game-trainer.json](./360672-bicolor-lazy-eye-game-trainer.json) |
+| Bicqlo Vader | 125216 | [125216-bicqlo-vader.json](./125216-bicqlo-vader.json) |
 | Bicycle Casino | 5747 | [5747-bicycle-casino.json](./5747-bicycle-casino.json) |
 | Bicycle Rider Simulator | 195612 | [195612-bicycle-rider-simulator.json](./195612-bicycle-rider-simulator.json) |
 | Bicycle Tour | 234606 | [234606-bicycle-tour.json](./234606-bicycle-tour.json) |
@@ -3262,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Kiss | 146247 | [146247-blood-kiss.json](./146247-blood-kiss.json) |
 | Blood Knights | 8421 | [8421-blood-knights.json](./8421-blood-knights.json) |
 | Blood Mall: Part II | 380553 | [380553-blood-mall-part-ii.json](./380553-blood-mall-part-ii.json) |
+| Blood Maniac | 125265 | [125265-blood-maniac.json](./125265-blood-maniac.json) |
 | Blood Memery | 114948 | [114948-blood-memery.json](./114948-blood-memery.json) |
 | Blood Message | 350503 | [350503-blood-message.json](./350503-blood-message.json) |
 | Blood Metal | 137449 | [137449-blood-metal.json](./137449-blood-metal.json) |
@@ -5418,6 +5420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz Lightyear of Star Command | 282150 | [282150-buzz-lightyear-of-star-command.json](./282150-buzz-lightyear-of-star-command.json) |
 | Buzz Off, Buddy | 383521 | [383521-buzz-off-buddy.json](./383521-buzz-off-buddy.json) |
 | Buzz or Die | 295233 | [295233-buzz-or-die.json](./295233-buzz-or-die.json) |
+| Buzz-Saw Blood House | 125260 | [125260-buzz-saw-blood-house.json](./125260-buzz-saw-blood-house.json) |
 | Buzz! Brain Bender | 23267 | [23267-buzz-brain-bender.json](./23267-buzz-brain-bender.json) |
 | Buzz! De slimste van Nederland | 77281 | [77281-buzz-de-slimste-van-nederland.json](./77281-buzz-de-slimste-van-nederland.json) |
 | Buzz! Junior Ace Racers | 21305 | [21305-buzz-junior-ace-racers.json](./21305-buzz-junior-ace-racers.json) |
