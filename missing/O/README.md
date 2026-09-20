@@ -1354,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Organize My Shop | 405541 | [405541-organize-my-shop.json](./405541-organize-my-shop.json) |
 | Organosphere | 96117 | [96117-organosphere.json](./96117-organosphere.json) |
 | Orgarhythm | 21009 | [21009-orgarhythm.json](./21009-orgarhythm.json) |
+| Orge Battle Gaiden | 75500 | [75500-orge-battle-gaiden.json](./75500-orge-battle-gaiden.json) |
 | Oricmunch | 137472 | [137472-oricmunch.json](./137472-oricmunch.json) |
 | Orient Arcadia | 197331 | [197331-orient-arcadia.json](./197331-orient-arcadia.json) |
 | Oriental Blue: Ao no Tengai | 49414 | [49414-oriental-blue-ao-no-tengai.json](./49414-oriental-blue-ao-no-tengai.json) |
