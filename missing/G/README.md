@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy on Fire 3: Manticore | 87183 | [87183-galaxy-on-fire-3-manticore.json](./87183-galaxy-on-fire-3-manticore.json) |
 | Galaxy on Fire 3D | 9038 | [9038-galaxy-on-fire-3d.json](./9038-galaxy-on-fire-3d.json) |
 | Galaxy on Fire: Alliances | 261530 | [261530-galaxy-on-fire-alliances.json](./261530-galaxy-on-fire-alliances.json) |
+| Galaxy Online | 67649 | [67649-galaxy-online.json](./67649-galaxy-online.json) |
 | Galaxy Protectors | 188015 | [188015-galaxy-protectors.json](./188015-galaxy-protectors.json) |
 | Galaxy Raiders | 287789 | [287789-galaxy-raiders.json](./287789-galaxy-raiders.json) |
 | Galaxy Reavers | 24411 | [24411-galaxy-reavers.json](./24411-galaxy-reavers.json) |
@@ -2782,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid-M | 257921 | [257921-grid-m.json](./257921-grid-m.json) |
 | Grid: Autosport - Drag Pack | 365684 | [365684-grid-autosport-drag-pack.json](./365684-grid-autosport-drag-pack.json) |
 | Gridblocked | 204719 | [204719-gridblocked.json](./204719-gridblocked.json) |
+| Gridbug | 67680 | [67680-gridbug.json](./67680-gridbug.json) |
 | gridCrack | 89250 | [89250-gridcrack.json](./89250-gridcrack.json) |
 | Griddler | 242208 | [242208-griddler.json](./242208-griddler.json) |
 | GridEnergy | 416665 | [416665-gridenergy.json](./416665-gridenergy.json) |
