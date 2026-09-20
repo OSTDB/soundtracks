@@ -3889,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeseekers | 381699 | [381699-runeseekers.json](./381699-runeseekers.json) |
 | Runeseekers 2 | 381721 | [381721-runeseekers-2.json](./381721-runeseekers-2.json) |
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
+| RuneTech | 101341 | [101341-runetech.json](./101341-runetech.json) |
 | Runeth | 385723 | [385723-runeth.json](./385723-runeth.json) |
 | Runeverse | 137597 | [137597-runeverse.json](./137597-runeverse.json) |
 | Runewaker | 186803 | [186803-runewaker.json](./186803-runewaker.json) |
