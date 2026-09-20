@@ -6327,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thing-Thing 3 | 92453 | [92453-thing-thing-3.json](./92453-thing-thing-3.json) |
 | Thing-Thing 4 | 92454 | [92454-thing-thing-4.json](./92454-thing-thing-4.json) |
 | Thing-Thing Arena 3 | 234938 | [234938-thing-thing-arena-3.json](./234938-thing-thing-arena-3.json) |
+| Thingamajig | 114167 | [114167-thingamajig.json](./114167-thingamajig.json) |
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
 | Think About Aliens! | 150088 | [150088-think-about-aliens.json](./150088-think-about-aliens.json) |
 | Think in Two | 388758 | [388758-think-in-two.json](./388758-think-in-two.json) |
