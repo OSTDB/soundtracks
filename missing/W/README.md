@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
 | WattGames | 298138 | [298138-wattgames.json](./298138-wattgames.json) |
 | Wave | 152147 | [152147-wave.json](./152147-wave.json) |
+| Wave Arrow | 106374 | [106374-wave-arrow.json](./106374-wave-arrow.json) |
 | Wave Buxters | 329574 | [329574-wave-buxters.json](./329574-wave-buxters.json) |
 | Wave Circles | 117840 | [117840-wave-circles.json](./117840-wave-circles.json) |
 | Wave Machine | 179602 | [179602-wave-machine.json](./179602-wave-machine.json) |
@@ -2261,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Bomb | 365087 | [365087-word-bomb.json](./365087-word-bomb.json) |
 | Word Bound - Word Game Puzzles | 105869 | [105869-word-bound-word-game-puzzles.json](./105869-word-bound-word-game-puzzles.json) |
 | Word Chaos | 217984 | [217984-word-chaos.json](./217984-word-chaos.json) |
+| Word Club: Word Puzzle Game | 106358 | [106358-word-club-word-puzzle-game.json](./106358-word-club-word-puzzle-game.json) |
 | Word Connect 2 | 105965 | [105965-word-connect-2.json](./105965-word-connect-2.json) |
 | Word Connect HD | 96069 | [96069-word-connect-hd.json](./96069-word-connect-hd.json) |
 | Word Crack | 402312 | [402312-word-crack.json](./402312-word-crack.json) |
@@ -2808,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wumpus | 61029 | [61029-wumpus.json](./61029-wumpus.json) |
 | Wunderhaven | 166763 | [166763-wunderhaven.json](./166763-wunderhaven.json) |
 | Wunderheilung | 128560 | [128560-wunderheilung.json](./128560-wunderheilung.json) |
+| Wunderverse | 106359 | [106359-wunderverse.json](./106359-wunderverse.json) |
 | Wurd Torn | 58230 | [58230-wurd-torn.json](./58230-wurd-torn.json) |
 | Wurdweb | 165047 | [165047-wurdweb.json](./165047-wurdweb.json) |
 | Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
