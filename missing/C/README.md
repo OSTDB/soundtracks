@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Rush | 185145 | [185145-castle-rush.json](./185145-castle-rush.json) |
 | Castle Rush | 234046 | [234046-castle-rush.json](./234046-castle-rush.json) |
 | Castle Rush Zombies | 241620 | [241620-castle-rush-zombies.json](./241620-castle-rush-zombies.json) |
+| Castle Secrets: Between Day and Night | 87998 | [87998-castle-secrets-between-day-and-night.json](./87998-castle-secrets-between-day-and-night.json) |
 | Castle survival | 158047 | [158047-castle-survival.json](./158047-castle-survival.json) |
 | Castle Terroretra | 217868 | [217868-castle-terroretra.json](./217868-castle-terroretra.json) |
 | Castle Terroretra In Space | 217870 | [217870-castle-terroretra-in-space.json](./217870-castle-terroretra-in-space.json) |
@@ -2836,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Rott: Streets of Rott | 29766 | [29766-city-of-rott-streets-of-rott.json](./29766-city-of-rott-streets-of-rott.json) |
 | City of Scrap | 183575 | [183575-city-of-scrap.json](./183575-city-of-scrap.json) |
 | City of Secrets 2: Episode 1 | 146872 | [146872-city-of-secrets-2-episode-1.json](./146872-city-of-secrets-2-episode-1.json) |
+| City of sky | 88013 | [88013-city-of-sky.json](./88013-city-of-sky.json) |
 | City of Stolen Worlds | 319210 | [319210-city-of-stolen-worlds.json](./319210-city-of-stolen-worlds.json) |
 | City of Stories: Stephan's Journey - Collector's Edition | 362835 | [362835-city-of-stories-stephans-journey-collectors-edition.json](./362835-city-of-stories-stephans-journey-collectors-edition.json) |
 | City of Stories: The Professor's Secret - Collector's Edition | 362839 | [362839-city-of-stories-the-professors-secret-collectors-edition.json](./362839-city-of-stories-the-professors-secret-collectors-edition.json) |
@@ -5015,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
 | Crazy Battle Pets | 339337 | [339337-crazy-battle-pets.json](./339337-crazy-battle-pets.json) |
 | Crazy Belts | 35610 | [35610-crazy-belts.json](./35610-crazy-belts.json) |
+| Crazy Bigheads | 88001 | [88001-crazy-bigheads.json](./88001-crazy-bigheads.json) |
 | Crazy Bike | 412995 | [412995-crazy-bike.json](./412995-crazy-bike.json) |
 | Crazy Bill: Smashing Zelebrities at the Zombie Stars Hotel | 175875 | [175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json](./175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json) |
 | Crazy Boom | 147386 | [147386-crazy-boom.json](./147386-crazy-boom.json) |
