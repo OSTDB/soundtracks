@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick the Buddy: Forever | 331673 | [331673-kick-the-buddy-forever.json](./331673-kick-the-buddy-forever.json) |
 | Kick the Buddy: Remastered | 212447 | [212447-kick-the-buddy-remastered.json](./212447-kick-the-buddy-remastered.json) |
 | Kick Them All | 312204 | [312204-kick-them-all.json](./312204-kick-them-all.json) |
+| Kick Them Out!!! | 103194 | [103194-kick-them-out.json](./103194-kick-them-out.json) |
 | Kick-Ass 2 | 17488 | [17488-kick-ass-2.json](./17488-kick-ass-2.json) |
 | Kick-Flight | 130350 | [130350-kick-flight.json](./130350-kick-flight.json) |
 | Kick-the-Can | 296101 | [296101-kick-the-can.json](./296101-kick-the-can.json) |
@@ -1613,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Odong-do Dragon Cave | 358360 | [358360-korean-drone-flying-tour-odong-do-dragon-cave.json](./358360-korean-drone-flying-tour-odong-do-dragon-cave.json) |
 | Korean Monorail Panorama Line Hwagaesan | 378809 | [378809-korean-monorail-panorama-line-hwagaesan.json](./378809-korean-monorail-panorama-line-hwagaesan.json) |
 | Korean Rail Driving Tour: LRT Busan-Gimhae | 303617 | [303617-korean-rail-driving-tour-lrt-busan-gimhae.json](./303617-korean-rail-driving-tour-lrt-busan-gimhae.json) |
+| Korean Scary Folk Tales VR : The Forbidden Book | 103181 | [103181-korean-scary-folk-tales-vr-the-forbidden-book.json](./103181-korean-scary-folk-tales-vr-the-forbidden-book.json) |
 | Korekiyo's Epic Quest for Pussy | 272851 | [272851-korekiyos-epic-quest-for-pussy.json](./272851-korekiyos-epic-quest-for-pussy.json) |
 | Korg DS-10 | 73009 | [73009-korg-ds-10.json](./73009-korg-ds-10.json) |
 | KORG Gadget | 77537 | [77537-korg-gadget.json](./77537-korg-gadget.json) |
@@ -1633,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koshchei the Immortal | 372460 | [372460-koshchei-the-immortal.json](./372460-koshchei-the-immortal.json) |
 | Koshka | 157145 | [157145-koshka.json](./157145-koshka.json) |
 | Koshka's Kofe | 135683 | [135683-koshkas-kofe.json](./135683-koshkas-kofe.json) |
+| Koshotengai no Hashihime Noma | 103176 | [103176-koshotengai-no-hashihime-noma.json](./103176-koshotengai-no-hashihime-noma.json) |
 | Kosmik Pirate | 300032 | [300032-kosmik-pirate.json](./300032-kosmik-pirate.json) |
 | Kosmo Azs | 257922 | [257922-kosmo-azs.json](./257922-kosmo-azs.json) |
 | Kosmo Skirmish | 291771 | [291771-kosmo-skirmish.json](./291771-kosmo-skirmish.json) |
