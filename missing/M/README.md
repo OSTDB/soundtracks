@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 13 | 243258 | [243258-madden-nfl-13.json](./243258-madden-nfl-13.json) |
 | Madden NFL 13 | 243259 | [243259-madden-nfl-13.json](./243259-madden-nfl-13.json) |
 | Madden NFL 13 Social | 243260 | [243260-madden-nfl-13-social.json](./243260-madden-nfl-13-social.json) |
+| Madden NFL 20: Superstar Edition | 118152 | [118152-madden-nfl-20-superstar-edition.json](./118152-madden-nfl-20-superstar-edition.json) |
 | Madden NFL 20: Ultimate Superstar Edition | 119063 | [119063-madden-nfl-20-ultimate-superstar-edition.json](./119063-madden-nfl-20-ultimate-superstar-edition.json) |
 | Madden NFL 2000 | 3537 | [3537-madden-nfl-2000.json](./3537-madden-nfl-2000.json) |
 | Madden NFL 2001 | 243263 | [243263-madden-nfl-2001.json](./243263-madden-nfl-2001.json) |
@@ -3840,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
 | Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
 | Miniverse | 179059 | [179059-miniverse.json](./179059-miniverse.json) |
+| MiniWood VR | 118159 | [118159-miniwood-vr.json](./118159-miniwood-vr.json) |
 | MiniWorld | 184032 | [184032-miniworld.json](./184032-miniworld.json) |
 | Miniworld Royale | 208969 | [208969-miniworld-royale.json](./208969-miniworld-royale.json) |
 | Minky | 246979 | [246979-minky.json](./246979-minky.json) |
@@ -4113,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MixMaster Online | 77363 | [77363-mixmaster-online.json](./77363-mixmaster-online.json) |
 | Mixology | 402922 | [402922-mixology.json](./402922-mixology.json) |
 | Mixtape Fever | 177004 | [177004-mixtape-fever.json](./177004-mixtape-fever.json) |
+| Mixups by POWGI | 118158 | [118158-mixups-by-powgi.json](./118158-mixups-by-powgi.json) |
 | Mixx Island: Remix Plus - Amazing Edition | 290431 | [290431-mixx-island-remix-plus-amazing-edition.json](./290431-mixx-island-remix-plus-amazing-edition.json) |
 | Mixx Island: Remix Plus - Definitive Edition | 268550 | [268550-mixx-island-remix-plus-definitive-edition.json](./268550-mixx-island-remix-plus-definitive-edition.json) |
 | Mixx Island: Remix Plus - Deluxe Edition | 248725 | [248725-mixx-island-remix-plus-deluxe-edition.json](./248725-mixx-island-remix-plus-deluxe-edition.json) |
