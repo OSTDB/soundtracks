@@ -7981,12 +7981,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell | 90689 | [90689-tom-clancys-splinter-cell.json](./90689-tom-clancys-splinter-cell.json) |
 | Tom Clancy's Splinter Cell 3D | 47626 | [47626-tom-clancys-splinter-cell-3d.json](./47626-tom-clancys-splinter-cell-3d.json) |
 | Tom Clancy's Splinter Cell Collection | 53821 | [53821-tom-clancys-splinter-cell-collection.json](./53821-tom-clancys-splinter-cell-collection.json) |
+| Tom Clancy's Splinter Cell HD | 100003 | [100003-tom-clancys-splinter-cell-hd.json](./100003-tom-clancys-splinter-cell-hd.json) |
 | Tom Clancy's Splinter Cell: Blacklist - 5th Freedom Edition | 44568 | [44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json](./44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json) |
+| Tom Clancy's Splinter Cell: Chaos Theory HD | 100004 | [100004-tom-clancys-splinter-cell-chaos-theory-hd.json](./100004-tom-clancys-splinter-cell-chaos-theory-hd.json) |
 | Tom Clancy's Splinter Cell: Conviction - Insurgency Pack | 11010 | [11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json](./11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json) |
 | Tom Clancy's Splinter Cell: Double Agent | 182225 | [182225-tom-clancys-splinter-cell-double-agent.json](./182225-tom-clancys-splinter-cell-double-agent.json) |
 | Tom Clancy's Splinter Cell: Double Agent | 7469 | [7469-tom-clancys-splinter-cell-double-agent.json](./7469-tom-clancys-splinter-cell-double-agent.json) |
 | Tom Clancy's Splinter Cell: Elite Echelon Edition | 27866 | [27866-tom-clancys-splinter-cell-elite-echelon-edition.json](./27866-tom-clancys-splinter-cell-elite-echelon-edition.json) |
 | Tom Clancy's Splinter Cell: Pandora Tomorrow | 874 | [874-tom-clancys-splinter-cell-pandora-tomorrow.json](./874-tom-clancys-splinter-cell-pandora-tomorrow.json) |
+| Tom Clancy's Splinter Cell: Pandora Tomorrow HD | 100002 | [100002-tom-clancys-splinter-cell-pandora-tomorrow-hd.json](./100002-tom-clancys-splinter-cell-pandora-tomorrow-hd.json) |
 | Tom Clancy's SSN | 57686 | [57686-tom-clancys-ssn.json](./57686-tom-clancys-ssn.json) |
 | Tom Clancy’s The Division - Definitive Edition | 394852 | [394852-tom-clancy-s-the-division-definitive-edition.json](./394852-tom-clancy-s-the-division-definitive-edition.json) |
 | Tom Clancy's The Division 2: Fang Pack | 408900 | [408900-tom-clancys-the-division-2-fang-pack.json](./408900-tom-clancys-the-division-2-fang-pack.json) |
