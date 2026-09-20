@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardinal Land: Jigsaw & Tangram Puzzle Blend | 87213 | [87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json](./87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json) |
 | CardioCasino | 177924 | [177924-cardiocasino.json](./177924-cardiocasino.json) |
 | CardioEX | 215246 | [215246-cardioex.json](./215246-cardioex.json) |
+| Cardiophobia | 124601 | [124601-cardiophobia.json](./124601-cardiophobia.json) |
 | Cardlike | 224647 | [224647-cardlike.json](./224647-cardlike.json) |
 | Cardlock | 184582 | [184582-cardlock.json](./184582-cardlock.json) |
 | Cardmare: Descent | 398444 | [398444-cardmare-descent.json](./398444-cardmare-descent.json) |
@@ -2058,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Journey | 204513 | [204513-chicken-journey.json](./204513-chicken-journey.json) |
 | Chicken Jump | 108521 | [108521-chicken-jump.json](./108521-chicken-jump.json) |
 | Chicken Nuggets | 180224 | [180224-chicken-nuggets.json](./180224-chicken-nuggets.json) |
+| Chicken of the Farm | 124612 | [124612-chicken-of-the-farm.json](./124612-chicken-of-the-farm.json) |
 | Chicken Party: Animal Farm | 314873 | [314873-chicken-party-animal-farm.json](./314873-chicken-party-animal-farm.json) |
 | Chicken Range Bundle | 139947 | [139947-chicken-range-bundle.json](./139947-chicken-range-bundle.json) |
 | Chicken Rescue | 213048 | [213048-chicken-rescue.json](./213048-chicken-rescue.json) |
@@ -2208,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiyo | 266815 | [266815-chiyo.json](./266815-chiyo.json) |
 | Chkn | 34021 | [34021-chkn.json](./34021-chkn.json) |
 | Chloe Puzzle Game | 162247 | [162247-chloe-puzzle-game.json](./162247-chloe-puzzle-game.json) |
+| Chloe's Requiem | 124639 | [124639-chloes-requiem.json](./124639-chloes-requiem.json) |
 | Chlorofell | 334156 | [334156-chlorofell.json](./334156-chlorofell.json) |
 | ChloroLink | 374061 | [374061-chlorolink.json](./374061-chlorolink.json) |
 | Chlorophos | 119742 | [119742-chlorophos.json](./119742-chlorophos.json) |
@@ -3875,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes: Modern Combat | 127895 | [127895-company-of-heroes-modern-combat.json](./127895-company-of-heroes-modern-combat.json) |
 | Compare the Meerkat | 313280 | [313280-compare-the-meerkat.json](./313280-compare-the-meerkat.json) |
 | Compartmentalize | 326610 | [326610-compartmentalize.json](./326610-compartmentalize.json) |
+| Compass Rose | 124632 | [124632-compass-rose.json](./124632-compass-rose.json) |
 | Compassion | 179680 | [179680-compassion.json](./179680-compassion.json) |
 | Compensated Girl | 369100 | [369100-compensated-girl.json](./369100-compensated-girl.json) |
 | Competition Karate | 25780 | [25780-competition-karate.json](./25780-competition-karate.json) |
@@ -4378,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corsairs: Conquest at Sea | 10107 | [10107-corsairs-conquest-at-sea.json](./10107-corsairs-conquest-at-sea.json) |
 | Corsairs: The New Conquerors | 11048 | [11048-corsairs-the-new-conquerors.json](./11048-corsairs-the-new-conquerors.json) |
 | CorsixTH | 127904 | [127904-corsixth.json](./127904-corsixth.json) |
+| Corum Online | 124615 | [124615-corum-online.json](./124615-corum-online.json) |
 | Corvax | 398314 | [398314-corvax.json](./398314-corvax.json) |
 | Corvian Curse | 269852 | [269852-corvian-curse.json](./269852-corvian-curse.json) |
 | Corvid's Night | 277849 | [277849-corvids-night.json](./277849-corvids-night.json) |
@@ -4609,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid 23: Test Labs | 255975 | [255975-covid-23-test-labs.json](./255975-covid-23-test-labs.json) |
 | Covid Chaos | 163821 | [163821-covid-chaos.json](./163821-covid-chaos.json) |
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
+| Cow Catcher | 124594 | [124594-cow-catcher.json](./124594-cow-catcher.json) |
 | Cow Project 1986 | 401643 | [401643-cow-project-1986.json](./401643-cow-project-1986.json) |
 | Coward | 132664 | [132664-coward.json](./132664-coward.json) |
 | Cowardice | 199512 | [199512-cowardice.json](./199512-cowardice.json) |
@@ -4723,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Control HD | 107223 | [107223-craft-control-hd.json](./107223-craft-control-hd.json) |
 | Craft Elements | 126577 | [126577-craft-elements.json](./126577-craft-elements.json) |
 | Craft Jam | 176416 | [176416-craft-jam.json](./176416-craft-jam.json) |
+| Craft Legend | 124631 | [124631-craft-legend.json](./124631-craft-legend.json) |
 | Craft the Mapcrafter: Gathering Magic Words | 151676 | [151676-craft-the-mapcrafter-gathering-magic-words.json](./151676-craft-the-mapcrafter-gathering-magic-words.json) |
 | Craft the World: Heart of Evil | 154959 | [154959-craft-the-world-heart-of-evil.json](./154959-craft-the-world-heart-of-evil.json) |
 | Craft The World: Invasion | 286536 | [286536-craft-the-world-invasion.json](./286536-craft-the-world-invasion.json) |
