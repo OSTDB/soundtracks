@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Nalaxion | 260158 | [260158-escape-from-nalaxion.json](./260158-escape-from-nalaxion.json) |
 | Escape from Naraka | 149961 | [149961-escape-from-naraka.json](./149961-escape-from-naraka.json) |
 | Escape from Puzzlegate | 34373 | [34373-escape-from-puzzlegate.json](./34373-escape-from-puzzlegate.json) |
+| Escape from Rio de Janeiro | 104456 | [104456-escape-from-rio-de-janeiro.json](./104456-escape-from-rio-de-janeiro.json) |
 | Escape From Roswell | 225901 | [225901-escape-from-roswell.json](./225901-escape-from-roswell.json) |
 | Escape From Ruby Castle | 149034 | [149034-escape-from-ruby-castle.json](./149034-escape-from-ruby-castle.json) |
 | Escape From School | 167681 | [167681-escape-from-school.json](./167681-escape-from-school.json) |
