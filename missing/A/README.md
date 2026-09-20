@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | Affinity: Fallen from Paradise | 211262 | [211262-affinity-fallen-from-paradise.json](./211262-affinity-fallen-from-paradise.json) |
 | AFK Champions | 193866 | [193866-afk-champions.json](./193866-afk-champions.json) |
+| AFL Challenge | 68302 | [68302-afl-challenge.json](./68302-afl-challenge.json) |
 | Afloat | 120829 | [120829-afloat.json](./120829-afloat.json) |
 | Afo | 78330 | [78330-afo.json](./78330-afo.json) |
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
@@ -1084,8 +1085,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Racer | 382187 | [382187-air-racer.json](./382187-air-racer.json) |
 | Air Racer: Sky Traffic | 232156 | [232156-air-racer-sky-traffic.json](./232156-air-racer-sky-traffic.json) |
 | Air Racing VR | 192445 | [192445-air-racing-vr.json](./192445-air-racing-vr.json) |
+| Air Raid 3 | 68270 | [68270-air-raid-3.json](./68270-air-raid-3.json) |
 | Air Raid Over Britain | 89949 | [89949-air-raid-over-britain.json](./89949-air-raid-over-britain.json) |
 | Air Raiders | 11114 | [11114-air-raiders.json](./11114-air-raiders.json) |
+| Air Ranger 2: Rescue Helicopter | 68268 | [68268-air-ranger-2-rescue-helicopter.json](./68268-air-ranger-2-rescue-helicopter.json) |
 | Air Rescue | 45671 | [45671-air-rescue.json](./45671-air-rescue.json) |
 | Air Soccer Impossible | 234072 | [234072-air-soccer-impossible.json](./234072-air-soccer-impossible.json) |
 | Air Stacky | 291589 | [291589-air-stacky.json](./291589-air-stacky.json) |
@@ -1888,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine Alpaca | 181218 | [181218-alpine-alpaca.json](./181218-alpine-alpaca.json) |
 | Alpine Crawler Wild | 174199 | [174199-alpine-crawler-wild.json](./174199-alpine-crawler-wild.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
+| Alpine Racer 3 | 68269 | [68269-alpine-racer-3.json](./68269-alpine-racer-3.json) |
 | Alpine Sky | 352793 | [352793-alpine-sky.json](./352793-alpine-sky.json) |
 | Alpine Train 3D | 90709 | [90709-alpine-train-3d.json](./90709-alpine-train-3d.json) |
 | Alquiem | 330857 | [330857-alquiem.json](./330857-alquiem.json) |
@@ -3340,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Dragon Spirit | 192950 | [192950-arcade-archives-dragon-spirit.json](./192950-arcade-archives-dragon-spirit.json) |
 | Arcade Archives: Earth Defense Force | 146843 | [146843-arcade-archives-earth-defense-force.json](./146843-arcade-archives-earth-defense-force.json) |
 | Arcade Archives: Emeraldia | 298583 | [298583-arcade-archives-emeraldia.json](./298583-arcade-archives-emeraldia.json) |
+| Arcade Archives: Excitebike | 68312 | [68312-arcade-archives-excitebike.json](./68312-arcade-archives-excitebike.json) |
 | Arcade Archives: Fighting Hawk | 200579 | [200579-arcade-archives-fighting-hawk.json](./200579-arcade-archives-fighting-hawk.json) |
 | Arcade Archives: Finalizer Super Transformation | 315828 | [315828-arcade-archives-finalizer-super-transformation.json](./315828-arcade-archives-finalizer-super-transformation.json) |
 | Arcade Archives: Flipull | 202800 | [202800-arcade-archives-flipull.json](./202800-arcade-archives-flipull.json) |
@@ -3352,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Guttang Gottong | 271477 | [271477-arcade-archives-guttang-gottong.json](./271477-arcade-archives-guttang-gottong.json) |
 | Arcade Archives: Hacha Mecha Fighter | 151164 | [151164-arcade-archives-hacha-mecha-fighter.json](./151164-arcade-archives-hacha-mecha-fighter.json) |
 | Arcade Archives: Hyper Crash | 409673 | [409673-arcade-archives-hyper-crash.json](./409673-arcade-archives-hyper-crash.json) |
+| Arcade Archives: Ice Climber | 68333 | [68333-arcade-archives-ice-climber.json](./68333-arcade-archives-ice-climber.json) |
 | Arcade Archives: Ikki | 99567 | [99567-arcade-archives-ikki.json](./99567-arcade-archives-ikki.json) |
 | Arcade Archives: Kid's Horehore Daisakusen | 99544 | [99544-arcade-archives-kids-horehore-daisakusen.json](./99544-arcade-archives-kids-horehore-daisakusen.json) |
 | Arcade Archives: Knuckle Heads | 314877 | [314877-arcade-archives-knuckle-heads.json](./314877-arcade-archives-knuckle-heads.json) |
@@ -3401,10 +3407,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Touki Denshou Angel Eyes | 222390 | [222390-arcade-archives-touki-denshou-angel-eyes.json](./222390-arcade-archives-touki-denshou-angel-eyes.json) |
 | Arcade Archives: Trio the Punch | 202769 | [202769-arcade-archives-trio-the-punch.json](./202769-arcade-archives-trio-the-punch.json) |
 | Arcade Archives: Tutankham | 300732 | [300732-arcade-archives-tutankham.json](./300732-arcade-archives-tutankham.json) |
+| Arcade Archives: Urban Champion | 68314 | [68314-arcade-archives-urban-champion.json](./68314-arcade-archives-urban-champion.json) |
 | Arcade Archives: Vigilante | 121716 | [121716-arcade-archives-vigilante.json](./121716-arcade-archives-vigilante.json) |
 | Arcade Archives: Volfied | 294820 | [294820-arcade-archives-volfied.json](./294820-arcade-archives-volfied.json) |
+| Arcade Archives: Vs. Balloon Fight | 68332 | [68332-arcade-archives-vs-balloon-fight.json](./68332-arcade-archives-vs-balloon-fight.json) |
 | Arcade Archives: vs. Battle City | 317219 | [317219-arcade-archives-vs-battle-city.json](./317219-arcade-archives-vs-battle-city.json) |
 | Arcade Archives: vs. Mystery Tower | 335093 | [335093-arcade-archives-vs-mystery-tower.json](./335093-arcade-archives-vs-mystery-tower.json) |
+| Arcade Archives: Vs. Wrecking Crew | 68313 | [68313-arcade-archives-vs-wrecking-crew.json](./68313-arcade-archives-vs-wrecking-crew.json) |
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
 | Arcade Archives: XX Mission | 129194 | [129194-arcade-archives-xx-mission.json](./129194-arcade-archives-xx-mission.json) |
