@@ -3817,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skateball | 45329 | [45329-skateball.json](./45329-skateball.json) |
 | Skateboard Drifting Simulator with Maxwell Cat: The Game | 259231 | [259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json](./259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json) |
 | Skateboard Knight | 338300 | [338300-skateboard-knight.json](./338300-skateboard-knight.json) |
+| Skateboard Madness Xtreme Edition | 66933 | [66933-skateboard-madness-xtreme-edition.json](./66933-skateboard-madness-xtreme-edition.json) |
 | Skateboard Party 2 | 38937 | [38937-skateboard-party-2.json](./38937-skateboard-party-2.json) |
 | Skateboard Party 3 | 38936 | [38936-skateboard-party-3.json](./38936-skateboard-party-3.json) |
 | Skateboarding | 358842 | [358842-skateboarding.json](./358842-skateboarding.json) |
@@ -4859,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Assassin 3D Shooter 2 | 104101 | [104101-sniper-assassin-3d-shooter-2.json](./104101-sniper-assassin-3d-shooter-2.json) |
 | Sniper Assassin 4 | 316088 | [316088-sniper-assassin-4.json](./316088-sniper-assassin-4.json) |
 | Sniper Assassin 5: Final Mission | 316090 | [316090-sniper-assassin-5-final-mission.json](./316090-sniper-assassin-5-final-mission.json) |
+| Sniper Assault | 66932 | [66932-sniper-assault.json](./66932-sniper-assault.json) |
 | Sniper Blacklist | 34465 | [34465-sniper-blacklist.json](./34465-sniper-blacklist.json) |
 | Sniper Elite 3: Camouflage Weapons Pack | 254534 | [254534-sniper-elite-3-camouflage-weapons-pack.json](./254534-sniper-elite-3-camouflage-weapons-pack.json) |
 | Sniper Elite 4: Deathstorm Part 1 - Inception | 27868 | [27868-sniper-elite-4-deathstorm-part-1-inception.json](./27868-sniper-elite-4-deathstorm-part-1-inception.json) |
@@ -6452,6 +6454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rangers | 7592 | [7592-space-rangers.json](./7592-space-rangers.json) |
 | Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
 | Space raven quest - Tiny planet | 120965 | [120965-space-raven-quest-tiny-planet.json](./120965-space-raven-quest-tiny-planet.json) |
+| Space Rebellion | 66930 | [66930-space-rebellion.json](./66930-space-rebellion.json) |
 | Space Rescue: Code Pink | 169417 | [169417-space-rescue-code-pink.json](./169417-space-rescue-code-pink.json) |
 | Space Restaurant | 337722 | [337722-space-restaurant.json](./337722-space-restaurant.json) |
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
@@ -6799,6 +6802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedball 2: Brutal Deluxe | 147273 | [147273-speedball-2-brutal-deluxe.json](./147273-speedball-2-brutal-deluxe.json) |
 | SpeedBall! | 105788 | [105788-speedball.json](./105788-speedball.json) |
 | Speedboat Alchemy | 180828 | [180828-speedboat-alchemy.json](./180828-speedboat-alchemy.json) |
+| Speedboat GP | 66931 | [66931-speedboat-gp.json](./66931-speedboat-gp.json) |
 | Speedboat Racing | 144387 | [144387-speedboat-racing.json](./144387-speedboat-racing.json) |
 | Speeder | 152934 | [152934-speeder.json](./152934-speeder.json) |
 | Speedin' Shotgun | 263500 | [263500-speedin-shotgun.json](./263500-speedin-shotgun.json) |
