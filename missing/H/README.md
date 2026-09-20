@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangoverse: Season 1 | 370755 | [370755-hangoverse-season-1.json](./370755-hangoverse-season-1.json) |
 | Hangul Attack | 141664 | [141664-hangul-attack.json](./141664-hangul-attack.json) |
 | Hangzo | 141238 | [141238-hangzo.json](./141238-hangzo.json) |
+| Hanjuku Hero | 78948 | [78948-hanjuku-hero.json](./78948-hanjuku-hero.json) |
 | Hank Loves the Beach | 240797 | [240797-hank-loves-the-beach.json](./240797-hank-loves-the-beach.json) |
 | Hank: Drowning on Dry Land | 195168 | [195168-hank-drowning-on-dry-land.json](./195168-hank-drowning-on-dry-land.json) |
 | Hank: Straightjacket | 232458 | [232458-hank-straightjacket.json](./232458-hank-straightjacket.json) |
@@ -3340,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shots Soccer | 101570 | [101570-hot-shots-soccer.json](./101570-hot-shots-soccer.json) |
 | Hot Slice: Lust Exposed | 340487 | [340487-hot-slice-lust-exposed.json](./340487-hot-slice-lust-exposed.json) |
 | Hot Slide | 152920 | [152920-hot-slide.json](./152920-hot-slide.json) |
+| Hot Slots | 78980 | [78980-hot-slots.json](./78980-hot-slots.json) |
 | Hot Spring Beauties Japanese Inn Date Memory | 415061 | [415061-hot-spring-beauties-japanese-inn-date-memory.json](./415061-hot-spring-beauties-japanese-inn-date-memory.json) |
 | Hot Spring Hero | 171065 | [171065-hot-spring-hero.json](./171065-hot-spring-hero.json) |
 | Hot Springs Story 2 | 180274 | [180274-hot-springs-story-2.json](./180274-hot-springs-story-2.json) |
@@ -3670,6 +3672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huglings | 388756 | [388756-huglings.json](./388756-huglings.json) |
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
 | Hugo III, Jungle of Doom! | 8883 | [8883-hugo-iii-jungle-of-doom.json](./8883-hugo-iii-jungle-of-doom.json) |
+| Hugo in Space | 78983 | [78983-hugo-in-space.json](./78983-hugo-in-space.json) |
 | Hugo på nye Eventyr | 300687 | [300687-hugo-pa-nye-eventyr.json](./300687-hugo-pa-nye-eventyr.json) |
 | Hugo: Bukkazoom | 165052 | [165052-hugo-bukkazoom.json](./165052-hugo-bukkazoom.json) |
 | Hugo: De Første Tegn | 301394 | [301394-hugo-de-f-rste-tegn.json](./301394-hugo-de-f-rste-tegn.json) |
