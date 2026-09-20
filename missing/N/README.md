@@ -897,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nested Lands | 270136 | [270136-nested-lands.json](./270136-nested-lands.json) |
 | Nested Rooms | 186812 | [186812-nested-rooms.json](./186812-nested-rooms.json) |
 | Nestor the Nesting Bird | 259548 | [259548-nestor-the-nesting-bird.json](./259548-nestor-the-nesting-bird.json) |
+| Net de Bomberman | 77673 | [77673-net-de-bomberman.json](./77673-net-de-bomberman.json) |
 | Net de Get: Minigame @100 | 107186 | [107186-net-de-get-minigame-100.json](./107186-net-de-get-minigame-100.json) |
 | Net Defender | 266476 | [266476-net-defender.json](./266476-net-defender.json) |
 | Net Enjou Jikenbo: Moete Moeru SNS Idol Tenraku Illustration Quiz Game | 225898 | [225898-net-enjou-jikenbo-moete-moeru-sns-idol-tenraku-illustration-quiz-game.json](./225898-net-enjou-jikenbo-moete-moeru-sns-idol-tenraku-illustration-quiz-game.json) |
