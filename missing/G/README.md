@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geist Force | 62131 | [62131-geist-force.json](./62131-geist-force.json) |
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
 | Geki Yaba Runner Habanero | 222389 | [222389-geki-yaba-runner-habanero.json](./222389-geki-yaba-runner-habanero.json) |
+| Gekiden Youitan: Ep.1 | 83244 | [83244-gekiden-youitan-ep-1.json](./83244-gekiden-youitan-ep-1.json) |
 | Gekitotsu! Saikyou Pro Yakyuu Dream Battle | 220303 | [220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json](./220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json) |
 | Gekitou Burning Pro Wrestling | 42593 | [42593-gekitou-burning-pro-wrestling.json](./42593-gekitou-burning-pro-wrestling.json) |
 | Gekko and Luna Girl's Moths | 359430 | [359430-gekko-and-luna-girls-moths.json](./359430-gekko-and-luna-girls-moths.json) |
