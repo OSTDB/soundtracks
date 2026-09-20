@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Estate | 387367 | [387367-rail-estate.json](./387367-rail-estate.json) |
 | Rail Gunner | 263567 | [263567-rail-gunner.json](./263567-rail-gunner.json) |
 | Rail Heist | 318410 | [318410-rail-heist.json](./318410-rail-heist.json) |
+| Rail Maze : Train puzzle | 88743 | [88743-rail-maze-train-puzzle.json](./88743-rail-maze-train-puzzle.json) |
 | Rail of Möbius | 147810 | [147810-rail-of-mobius.json](./147810-rail-of-mobius.json) |
 | Rail Racing | 174215 | [174215-rail-racing.json](./174215-rail-racing.json) |
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
