@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Bruce | 141228 | [141228-adventures-of-bruce.json](./141228-adventures-of-bruce.json) |
 | Adventures of DaKoo the Dragon | 214026 | [214026-adventures-of-dakoo-the-dragon.json](./214026-adventures-of-dakoo-the-dragon.json) |
 | Adventures of Deliveryman | 267481 | [267481-adventures-of-deliveryman.json](./267481-adventures-of-deliveryman.json) |
+| Adventures of Heroes | 65783 | [65783-adventures-of-heroes.json](./65783-adventures-of-heroes.json) |
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of Mike | 101344 | [101344-adventures-of-mike.json](./101344-adventures-of-mike.json) |
@@ -1082,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air patrol | 40768 | [40768-air-patrol.json](./40768-air-patrol.json) |
 | Air Port Panic | 300008 | [300008-air-port-panic.json](./300008-air-port-panic.json) |
 | Air Power: Battle in the Skies | 22622 | [22622-air-power-battle-in-the-skies.json](./22622-air-power-battle-in-the-skies.json) |
+| Air Pressure | 65776 | [65776-air-pressure.json](./65776-air-pressure.json) |
 | Air Race | 249506 | [249506-air-race.json](./249506-air-race.json) |
 | Air Race Championship | 143645 | [143645-air-race-championship.json](./143645-air-race-championship.json) |
 | Air Racer | 382187 | [382187-air-racer.json](./382187-air-racer.json) |
@@ -1195,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airstrife: Assault of the Aviators | 143691 | [143691-airstrife-assault-of-the-aviators.json](./143691-airstrife-assault-of-the-aviators.json) |
 | AirStrike 3D: Operation W.A.T. | 70123 | [70123-airstrike-3d-operation-w-a-t.json](./70123-airstrike-3d-operation-w-a-t.json) |
 | Airstrike II | 68967 | [68967-airstrike-ii.json](./68967-airstrike-ii.json) |
+| Airstrike One | 65781 | [65781-airstrike-one.json](./65781-airstrike-one.json) |
 | Airstrip DLC and Can Touch This DLC Bundle | 305497 | [305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
 | Airtight City 1.0 | 119724 | [119724-airtight-city-1-0.json](./119724-airtight-city-1-0.json) |
 | AirTycoon 3 | 101538 | [101538-airtycoon-3.json](./101538-airtycoon-3.json) |
@@ -4307,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault at Wounded Ankle | 350993 | [350993-assault-at-wounded-ankle.json](./350993-assault-at-wounded-ankle.json) |
 | Assault Bandit | 240347 | [240347-assault-bandit.json](./240347-assault-bandit.json) |
 | Assault Commander Rearmed | 371888 | [371888-assault-commander-rearmed.json](./371888-assault-commander-rearmed.json) |
+| Assault Dragon: The Day 5 | 65735 | [65735-assault-dragon-the-day-5.json](./65735-assault-dragon-the-day-5.json) |
 | Assault Gunners HD Edition | 87854 | [87854-assault-gunners-hd-edition.json](./87854-assault-gunners-hd-edition.json) |
 | Assault Mayhem | 351607 | [351607-assault-mayhem.json](./351607-assault-mayhem.json) |
 | Assault on Arnhem | 33307 | [33307-assault-on-arnhem.json](./33307-assault-on-arnhem.json) |
@@ -4329,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assemble the Car | 233488 | [233488-assemble-the-car.json](./233488-assemble-the-car.json) |
 | Assemble! | 304679 | [304679-assemble.json](./304679-assemble.json) |
 | Assembloids 2600 | 321557 | [321557-assembloids-2600.json](./321557-assembloids-2600.json) |
+| Assembly Line | 65756 | [65756-assembly-line.json](./65756-assembly-line.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
 | Assembly Required | 96496 | [96496-assembly-required.json](./96496-assembly-required.json) |
 | Assenizator | 355116 | [355116-assenizator.json](./355116-assenizator.json) |
