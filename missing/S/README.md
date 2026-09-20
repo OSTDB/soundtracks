@@ -2836,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Fever | 64888 | [64888-shooting-fever.json](./64888-shooting-fever.json) |
 | Shooting Filling | 288358 | [288358-shooting-filling.json](./288358-shooting-filling.json) |
 | Shooting Gallery | 218543 | [218543-shooting-gallery.json](./218543-shooting-gallery.json) |
+| Shooting Gallery Mayhem | 117516 | [117516-shooting-gallery-mayhem.json](./117516-shooting-gallery-mayhem.json) |
 | Shooting Game Kari | 211718 | [211718-shooting-game-kari.json](./211718-shooting-game-kari.json) |
 | Shooting girl | 201669 | [201669-shooting-girl.json](./201669-shooting-girl.json) |
 | Shooting Master | 366914 | [366914-shooting-master.json](./366914-shooting-master.json) |
@@ -4461,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smite 2: Deluxe Founder's Edition | 331849 | [331849-smite-2-deluxe-founders-edition.json](./331849-smite-2-deluxe-founders-edition.json) |
 | Smite 2: Founder's Edition | 331848 | [331848-smite-2-founders-edition.json](./331848-smite-2-founders-edition.json) |
 | Smite 2: Ultimate Founder's Edition | 331847 | [331847-smite-2-ultimate-founders-edition.json](./331847-smite-2-ultimate-founders-edition.json) |
+| Smite Blitz | 117503 | [117503-smite-blitz.json](./117503-smite-blitz.json) |
 | Smite Rivals | 26693 | [26693-smite-rivals.json](./26693-smite-rivals.json) |
 | Smith & Dungeon | 361801 | [361801-smith-and-dungeon.json](./361801-smith-and-dungeon.json) |
 | Smith and Winston | 111093 | [111093-smith-and-winston.json](./111093-smith-and-winston.json) |
@@ -8947,6 +8949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuffo the Puzzle Bot | 236848 | [236848-stuffo-the-puzzle-bot.json](./236848-stuffo-the-puzzle-bot.json) |
 | Stug | 180219 | [180219-stug.json](./180219-stug.json) |
 | Stumble And Fall | 310388 | [310388-stumble-and-fall.json](./310388-stumble-and-fall.json) |
+| Stumblehill | 117510 | [117510-stumblehill.json](./117510-stumblehill.json) |
 | Stump Me | 312886 | [312886-stump-me.json](./312886-stump-me.json) |
 | Stump Simulator | 272284 | [272284-stump-simulator.json](./272284-stump-simulator.json) |
 | Stunt Derby | 216863 | [216863-stunt-derby.json](./216863-stunt-derby.json) |
@@ -10322,6 +10325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Space Invaders | 12859 | [12859-super-space-invaders.json](./12859-super-space-invaders.json) |
 | Super Space Jump Man | 115628 | [115628-super-space-jump-man.json](./115628-super-space-jump-man.json) |
 | Super Space Serpent SE + Perpetuum: Mobile Bundle | 212789 | [212789-super-space-serpent-se-perpetuum-mobile-bundle.json](./212789-super-space-serpent-se-perpetuum-mobile-bundle.json) |
+| Super Space Serpent: Secondary Edition | 117529 | [117529-super-space-serpent-secondary-edition.json](./117529-super-space-serpent-secondary-edition.json) |
 | Super Space Shooter Arena | 127204 | [127204-super-space-shooter-arena.json](./127204-super-space-shooter-arena.json) |
 | Super Spatial | 225738 | [225738-super-spatial.json](./225738-super-spatial.json) |
 | Super Speed Race 64 | 136856 | [136856-super-speed-race-64.json](./136856-super-speed-race-64.json) |
