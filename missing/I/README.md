@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iblis3: Phenomena | 372013 | [372013-iblis3-phenomena.json](./372013-iblis3-phenomena.json) |
 | IBloxx | 359476 | [359476-ibloxx.json](./359476-ibloxx.json) |
 | IBM: Cityone, A Smarter Planet Game | 66626 | [66626-ibm-cityone-a-smarter-planet-game.json](./66626-ibm-cityone-a-smarter-planet-game.json) |
+| IBowl | 93983 | [93983-ibowl.json](./93983-ibowl.json) |
 | Ibreak! | 103895 | [103895-ibreak.json](./103895-ibreak.json) |
 | IC Carddass DragonBall | 59995 | [59995-ic-carddass-dragonball.json](./59995-ic-carddass-dragonball.json) |
 | ic2005 | 256861 | [256861-ic2005.json](./256861-ic2005.json) |
@@ -1061,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indonesian Dominatrixes Are the Best | 385705 | [385705-indonesian-dominatrixes-are-the-best.json](./385705-indonesian-dominatrixes-are-the-best.json) |
 | Indoor Air Soccer | 175338 | [175338-indoor-air-soccer.json](./175338-indoor-air-soccer.json) |
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
+| Indoor Soccer for the TI 99/4A | 93990 | [93990-indoor-soccer-for-the-ti-99-4a.json](./93990-indoor-soccer-for-the-ti-99-4a.json) |
 | Indoors: The Alston Manor | 269005 | [269005-indoors-the-alston-manor.json](./269005-indoors-the-alston-manor.json) |
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
 | Inductor | 211282 | [211282-inductor.json](./211282-inductor.json) |
