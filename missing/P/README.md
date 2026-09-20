@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Play Mania | 361688 | [361688-party-play-mania.json](./361688-party-play-mania.json) |
 | Party Poopers | 112345 | [112345-party-poopers.json](./112345-party-poopers.json) |
 | Party Poppers | 113684 | [113684-party-poppers.json](./113684-party-poppers.json) |
+| Party Print 'N Play | 79607 | [79607-party-print-n-play.json](./79607-party-print-n-play.json) |
 | Party Project | 273981 | [273981-party-project.json](./273981-party-project.json) |
 | Party Quiz Mega Q 2022 | 216258 | [216258-party-quiz-mega-q-2022.json](./216258-party-quiz-mega-q-2022.json) |
 | Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
@@ -975,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathogenesis: Overcome | 122387 | [122387-pathogenesis-overcome.json](./122387-pathogenesis-overcome.json) |
 | Pathologic 3 | 319087 | [319087-pathologic-3.json](./319087-pathologic-3.json) |
 | Pathologic 3: Quarantine | 326595 | [326595-pathologic-3-quarantine.json](./326595-pathologic-3-quarantine.json) |
+| Pathology | 79606 | [79606-pathology.json](./79606-pathology.json) |
 | PathPix Alice | 102614 | [102614-pathpix-alice.json](./102614-pathpix-alice.json) |
 | PathPix Bubble | 96533 | [96533-pathpix-bubble.json](./96533-pathpix-bubble.json) |
 | PathPix Color | 106552 | [106552-pathpix-color.json](./106552-pathpix-color.json) |
@@ -3994,6 +3996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Ball 2022 | 211954 | [211954-power-ball-2022.json](./211954-power-ball-2022.json) |
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
 | Power Chips | 382344 | [382344-power-chips.json](./382344-power-chips.json) |
+| Power Dolls FX | 79614 | [79614-power-dolls-fx.json](./79614-power-dolls-fx.json) |
 | Power Drill Massacre | 320349 | [320349-power-drill-massacre.json](./320349-power-drill-massacre.json) |
 | Power Eleven | 42043 | [42043-power-eleven.json](./42043-power-eleven.json) |
 | Power Factory Featuring C+C Music Factory | 5420 | [5420-power-factory-featuring-c-c-music-factory.json](./5420-power-factory-featuring-c-c-music-factory.json) |
