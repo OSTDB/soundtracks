@@ -2314,6 +2314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Joy | 88270 | [88270-word-search-joy.json](./88270-word-search-joy.json) |
 | Word Search Puzzle | 102213 | [102213-word-search-puzzle.json](./102213-word-search-puzzle.json) |
 | Word Search: Classic Game | 323326 | [323326-word-search-classic-game.json](./323326-word-search-classic-game.json) |
+| Word Seek English Unlimited | 103874 | [103874-word-seek-english-unlimited.json](./103874-word-seek-english-unlimited.json) |
 | Word Shop - Brain Puzzle Games | 101487 | [101487-word-shop-brain-puzzle-games.json](./101487-word-shop-brain-puzzle-games.json) |
 | Word Shuffle | 108263 | [108263-word-shuffle.json](./108263-word-shuffle.json) |
 | Word Soup | 23405 | [23405-word-soup.json](./23405-word-soup.json) |
@@ -2589,6 +2590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Travel Solitaire | 415964 | [415964-world-travel-solitaire.json](./415964-world-travel-solitaire.json) |
 | World Traveler VR | 118990 | [118990-world-traveler-vr.json](./118990-world-traveler-vr.json) |
 | World Trigger: Borderless Mission | 12892 | [12892-world-trigger-borderless-mission.json](./12892-world-trigger-borderless-mission.json) |
+| World Truck Driving Simulator | 103891 | [103891-world-truck-driving-simulator.json](./103891-world-truck-driving-simulator.json) |
 | World Ultimate Mafia | 323546 | [323546-world-ultimate-mafia.json](./323546-world-ultimate-mafia.json) |
 | World War | 78611 | [78611-world-war.json](./78611-world-war.json) |
 | World War 3: Card Battler | 216480 | [216480-world-war-3-card-battler.json](./216480-world-war-3-card-battler.json) |
