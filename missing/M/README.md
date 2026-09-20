@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
 | Mad Yu: Rural Idle | 412391 | [412391-mad-yu-rural-idle.json](./412391-mad-yu-rural-idle.json) |
+| Mad Zombie | 86562 | [86562-mad-zombie.json](./86562-mad-zombie.json) |
 | Madagascar 3: Europe's Most Wanted | 243270 | [243270-madagascar-3-europes-most-wanted.json](./243270-madagascar-3-europes-most-wanted.json) |
 | Madagascar Mini-Mayhem | 137609 | [137609-madagascar-mini-mayhem.json](./137609-madagascar-mini-mayhem.json) |
 | Madame Ching's Dungeon of Ecstasy | 133802 | [133802-madame-chings-dungeon-of-ecstasy.json](./133802-madame-chings-dungeon-of-ecstasy.json) |
@@ -2025,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mea’s Saifu Collection Party | 411618 | [411618-mea-s-saifu-collection-party.json](./411618-mea-s-saifu-collection-party.json) |
 | Meadow Assault | 304582 | [304582-meadow-assault.json](./304582-meadow-assault.json) |
 | Meadowside Mayor | 354517 | [354517-meadowside-mayor.json](./354517-meadowside-mayor.json) |
+| Meal Escape | 86513 | [86513-meal-escape.json](./86513-meal-escape.json) |
 | Meal Quest | 376460 | [376460-meal-quest.json](./376460-meal-quest.json) |
 | Meal: Mystery Escape Room | 311828 | [311828-meal-mystery-escape-room.json](./311828-meal-mystery-escape-room.json) |
 | Mealmates | 151009 | [151009-mealmates.json](./151009-mealmates.json) |
@@ -4181,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistfall | 239042 | [239042-mistfall.json](./239042-mistfall.json) |
 | Mistful Crimson Morning | 341911 | [341911-mistful-crimson-morning.json](./341911-mistful-crimson-morning.json) |
 | Mistletoe Hotel | 323731 | [323731-mistletoe-hotel.json](./323731-mistletoe-hotel.json) |
+| Mistress of Maids | 86510 | [86510-mistress-of-maids.json](./86510-mistress-of-maids.json) |
 | Mistress of Maids: First Castle | 115627 | [115627-mistress-of-maids-first-castle.json](./115627-mistress-of-maids-first-castle.json) |
 | Mistrogue: Mist and the Living Dungeons | 217313 | [217313-mistrogue-mist-and-the-living-dungeons.json](./217313-mistrogue-mist-and-the-living-dungeons.json) |
 | Mists of Aiden | 135840 | [135840-mists-of-aiden.json](./135840-mists-of-aiden.json) |
@@ -4328,6 +4331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Battle Operation Code Fairy | 178045 | [178045-mobile-suit-gundam-battle-operation-code-fairy.json](./178045-mobile-suit-gundam-battle-operation-code-fairy.json) |
 | Mobile Suit Gundam: Climax U.C. | 68012 | [68012-mobile-suit-gundam-climax-u-c.json](./68012-mobile-suit-gundam-climax-u-c.json) |
 | Mobile Suit Gundam: Extreme Versus 2 - Infinite Boost | 355089 | [355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json](./355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json) |
+| Mobile Suit Gundam: Extreme Vs. 2 | 86532 | [86532-mobile-suit-gundam-extreme-vs-2.json](./86532-mobile-suit-gundam-extreme-vs-2.json) |
 | Mobile Suit Gundam: Extreme vs. Maxi Boost | 79865 | [79865-mobile-suit-gundam-extreme-vs-maxi-boost.json](./79865-mobile-suit-gundam-extreme-vs-maxi-boost.json) |
 | Mobile Suit Gundam: Extreme Vs.2 XBoost | 196283 | [196283-mobile-suit-gundam-extreme-vs-2-xboost.json](./196283-mobile-suit-gundam-extreme-vs-2-xboost.json) |
 | Mobile Suit Gundam: Lost War Chronicles | 66609 | [66609-mobile-suit-gundam-lost-war-chronicles.json](./66609-mobile-suit-gundam-lost-war-chronicles.json) |
@@ -4497,6 +4501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole's World | 245050 | [245050-moles-world.json](./245050-moles-world.json) |
 | Molecule - a chemistry challenge | 98265 | [98265-molecule-a-chemistry-challenge.json](./98265-molecule-a-chemistry-challenge.json) |
 | Molecule Make Lab | 201133 | [201133-molecule-make-lab.json](./201133-molecule-make-lab.json) |
+| Molecule: A Chemical Challenge | 86584 | [86584-molecule-a-chemical-challenge.json](./86584-molecule-a-chemical-challenge.json) |
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
 | Mollie | 180688 | [180688-mollie.json](./180688-mollie.json) |
 | Molly and the Gunmids | 185687 | [185687-molly-and-the-gunmids.json](./185687-molly-and-the-gunmids.json) |
@@ -5669,6 +5674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Whiskers Bubbles | 385088 | [385088-mr-whiskers-bubbles.json](./385088-mr-whiskers-bubbles.json) |
 | Mr. Wings | 255714 | [255714-mr-wings.json](./255714-mr-wings.json) |
 | Mr.Addon in Sulpicius Gallus M | 187384 | [187384-mr-addon-in-sulpicius-gallus-m.json](./187384-mr-addon-in-sulpicius-gallus-m.json) |
+| Mr.Jezko | 86579 | [86579-mr-jezko.json](./86579-mr-jezko.json) |
 | MR.KungFu | 174737 | [174737-mr-kungfu.json](./174737-mr-kungfu.json) |
 | Mr.Mine | 157130 | [157130-mr-mine.json](./157130-mr-mine.json) |
 | Mr.Ninja!! Fever | 248283 | [248283-mr-ninja-fever.json](./248283-mr-ninja-fever.json) |
