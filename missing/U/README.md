@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Spider-Man in the Villain Round-Up | 220114 | [220114-ultimate-spider-man-in-the-villain-round-up.json](./220114-ultimate-spider-man-in-the-villain-round-up.json) |
 | Ultimate Spider-Man: Limited Edition | 381722 | [381722-ultimate-spider-man-limited-edition.json](./381722-ultimate-spider-man-limited-edition.json) |
 | Ultimate Starfighter | 201245 | [201245-ultimate-starfighter.json](./201245-ultimate-starfighter.json) |
+| Ultimate Sudoku Collection | 100576 | [100576-ultimate-sudoku-collection.json](./100576-ultimate-sudoku-collection.json) |
 | Ultimate Sudoku Collection: Basic Diagonal Pack | 163324 | [163324-ultimate-sudoku-collection-basic-diagonal-pack.json](./163324-ultimate-sudoku-collection-basic-diagonal-pack.json) |
 | Ultimate Sudoku Collection: Basic Pack | 163316 | [163316-ultimate-sudoku-collection-basic-pack.json](./163316-ultimate-sudoku-collection-basic-pack.json) |
 | Ultimate Sudoku Collection: Cross Pack | 163320 | [163320-ultimate-sudoku-collection-cross-pack.json](./163320-ultimate-sudoku-collection-cross-pack.json) |
