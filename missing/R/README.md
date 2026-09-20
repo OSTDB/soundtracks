@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
 | Race Project | 152729 | [152729-race-project.json](./152729-race-project.json) |
 | Race Race Racer | 126996 | [126996-race-race-racer.json](./126996-race-race-racer.json) |
+| Race the Nags | 93379 | [93379-race-the-nags.json](./93379-race-the-nags.json) |
 | Race the Sun | 7876 | [7876-race-the-sun.json](./7876-race-the-sun.json) |
 | Race Time | 347696 | [347696-race-time.json](./347696-race-time.json) |
 | Race Time! | 245015 | [245015-race-time.json](./245015-race-time.json) |
@@ -474,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Bike | 282119 | [282119-rally-bike.json](./282119-rally-bike.json) |
 | Rally Bike | 39568 | [39568-rally-bike.json](./39568-rally-bike.json) |
 | Rally Championship: The X-Miles | 100179 | [100179-rally-championship-the-x-miles.json](./100179-rally-championship-the-x-miles.json) |
+| Rally Cross Challenge | 93365 | [93365-rally-cross-challenge.json](./93365-rally-cross-challenge.json) |
 | Rally de Africa | 138176 | [138176-rally-de-africa.json](./138176-rally-de-africa.json) |
 | Rally Drift Cars | 123558 | [123558-rally-drift-cars.json](./123558-rally-drift-cars.json) |
 | Rally Drifters Racing Cars 3D: Ultimate Fast Car Gang Challange | 232164 | [232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json](./232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json) |
@@ -490,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Rumble | 280787 | [280787-rally-rumble.json](./280787-rally-rumble.json) |
 | Rally Run | 237371 | [237371-rally-run.json](./237371-rally-run.json) |
 | Rally Shift | 399086 | [399086-rally-shift.json](./399086-rally-shift.json) |
+| Rally Shift | 93356 | [93356-rally-shift.json](./93356-rally-shift.json) |
 | Rally Speedway | 47213 | [47213-rally-speedway.json](./47213-rally-speedway.json) |
 | Rally TS | 406194 | [406194-rally-ts.json](./406194-rally-ts.json) |
 | Rally-X | 18620 | [18620-rally-x.json](./18620-rally-x.json) |
@@ -1159,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red and the Whispering Woods | 181357 | [181357-red-and-the-whispering-woods.json](./181357-red-and-the-whispering-woods.json) |
 | Red and White | 154018 | [154018-red-and-white.json](./154018-red-and-white.json) |
 | Red Archer | 150143 | [150143-red-archer.json](./150143-red-archer.json) |
+| Red Babe | 93342 | [93342-red-babe.json](./93342-red-babe.json) |
 | Red Ball | 55917 | [55917-red-ball.json](./55917-red-ball.json) |
 | Red Ball 4 | 88924 | [88924-red-ball-4.json](./88924-red-ball-4.json) |
 | Red Ball Adventure 3D | 102778 | [102778-red-ball-adventure-3d.json](./102778-red-ball-adventure-3d.json) |
@@ -3591,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Workplace Worries | 264042 | [264042-roxy-raccoons-pinball-panic-workplace-worries.json](./264042-roxy-raccoons-pinball-panic-workplace-worries.json) |
 | Roxy's Windows | 241477 | [241477-roxys-windows.json](./241477-roxys-windows.json) |
 | Royal Alchemist | 109734 | [109734-royal-alchemist.json](./109734-royal-alchemist.json) |
+| Royal Birkdale Championship Golf | 93341 | [93341-royal-birkdale-championship-golf.json](./93341-royal-birkdale-championship-golf.json) |
 | Royal Blade | 95879 | [95879-royal-blade.json](./95879-royal-blade.json) |
 | Royal Block | 269309 | [269309-royal-block.json](./269309-royal-block.json) |
 | Royal Booty Quest | 111692 | [111692-royal-booty-quest.json](./111692-royal-booty-quest.json) |
