@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sandwich, A Leash, and A Storm | 337701 | [337701-a-sandwich-a-leash-and-a-storm.json](./337701-a-sandwich-a-leash-and-a-storm.json) |
 | A Second Before the War | 192814 | [192814-a-second-before-the-war.json](./192814-a-second-before-the-war.json) |
 | A Second Chance | 201290 | [201290-a-second-chance.json](./201290-a-second-chance.json) |
+| A Second Face: The Eye of Geltz is watching Us | 67684 | [67684-a-second-face-the-eye-of-geltz-is-watching-us.json](./67684-a-second-face-the-eye-of-geltz-is-watching-us.json) |
 | A Second Mario Bros. X Thing: Analog Funk | 304212 | [304212-a-second-mario-bros-x-thing-analog-funk.json](./304212-a-second-mario-bros-x-thing-analog-funk.json) |
 | A Sexy Tour With Marie | 368576 | [368576-a-sexy-tour-with-marie.json](./368576-a-sexy-tour-with-marie.json) |
 | A Sexy Tour With Stella | 368573 | [368573-a-sexy-tour-with-stella.json](./368573-a-sexy-tour-with-stella.json) |
@@ -3490,6 +3491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcaea | 147946 | [147946-arcaea.json](./147946-arcaea.json) |
 | Arcaea | 27997 | [27997-arcaea.json](./27997-arcaea.json) |
 | Arcana | 3652 | [3652-arcana.json](./3652-arcana.json) |
+| Arcana | 67701 | [67701-arcana.json](./67701-arcana.json) |
 | Arcana Academy | 367968 | [367968-arcana-academy.json](./367968-arcana-academy.json) |
 | Arcana Famiglia Collezione! Piccola Amore | 218493 | [218493-arcana-famiglia-collezione-piccola-amore.json](./218493-arcana-famiglia-collezione-piccola-amore.json) |
 | Arcana Heart | 243694 | [243694-arcana-heart.json](./243694-arcana-heart.json) |
@@ -4867,6 +4869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auro: A Monster-Bumping Adventure | 33099 | [33099-auro-a-monster-bumping-adventure.json](./33099-auro-a-monster-bumping-adventure.json) |
 | Aurora | 170459 | [170459-aurora.json](./170459-aurora.json) |
 | Aurora Dusk: Steam Age | 34581 | [34581-aurora-dusk-steam-age.json](./34581-aurora-dusk-steam-age.json) |
+| Aurora Feint II: Tower Puzzles | 67694 | [67694-aurora-feint-ii-tower-puzzles.json](./67694-aurora-feint-ii-tower-puzzles.json) |
 | Aurora Memoria: Philosophical Data Session 2093 | 75146 | [75146-aurora-memoria-philosophical-data-session-2093.json](./75146-aurora-memoria-philosophical-data-session-2093.json) |
 | Aurora Nova | 269044 | [269044-aurora-nova.json](./269044-aurora-nova.json) |
 | Aurora: Genesis | 349367 | [349367-aurora-genesis.json](./349367-aurora-genesis.json) |
