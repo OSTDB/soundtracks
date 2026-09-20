@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SameGame Fighter | 64436 | [64436-samegame-fighter.json](./64436-samegame-fighter.json) |
 | SameGame HD | 64432 | [64432-samegame-hd.json](./64432-samegame-hd.json) |
 | Samgugji: Paewang | 368040 | [368040-samgugji-paewang.json](./368040-samgugji-paewang.json) |
+| Samhain | 125269 | [125269-samhain.json](./125269-samhain.json) |
 | Samhain | 179687 | [179687-samhain.json](./179687-samhain.json) |
 | Samhain | 267442 | [267442-samhain.json](./267442-samhain.json) |
 | Sami | 367959 | [367959-sami.json](./367959-sami.json) |
@@ -6701,6 +6702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiderbro 2 | 298042 | [298042-spiderbro-2.json](./298042-spiderbro-2.json) |
 | SpiderHeck | 137073 | [137073-spiderheck.json](./137073-spiderheck.json) |
 | SpiderPunks | 163847 | [163847-spiderpunks.json](./163847-spiderpunks.json) |
+| Spiders | 125263 | [125263-spiders.json](./125263-spiders.json) |
 | Spiders | 346138 | [346138-spiders.json](./346138-spiders.json) |
 | Spiders Everywhere | 187375 | [187375-spiders-everywhere.json](./187375-spiders-everywhere.json) |
 | Spidey & His Amazing Friends | 230277 | [230277-spidey-and-his-amazing-friends.json](./230277-spidey-and-his-amazing-friends.json) |
@@ -8231,6 +8233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stern Pinball Arcade: Ripley's Believe It or Not! | 161234 | [161234-stern-pinball-arcade-ripleys-believe-it-or-not.json](./161234-stern-pinball-arcade-ripleys-believe-it-or-not.json) |
 | Stern Pinball Arcade: Star Trek | 161231 | [161231-stern-pinball-arcade-star-trek.json](./161231-stern-pinball-arcade-star-trek.json) |
 | Stern Pinball Arcade: Starship Troopers | 161226 | [161226-stern-pinball-arcade-starship-troopers.json](./161226-stern-pinball-arcade-starship-troopers.json) |
+| Sternenschweif 3D - Das Geheimnis im Zauberwald | 125212 | [125212-sternenschweif-3d-das-geheimnis-im-zauberwald.json](./125212-sternenschweif-3d-das-geheimnis-im-zauberwald.json) |
 | Steve Davis Snooker | 45323 | [45323-steve-davis-snooker.json](./45323-steve-davis-snooker.json) |
 | Steve Magal: Fists of Brutal Truth | 341888 | [341888-steve-magal-fists-of-brutal-truth.json](./341888-steve-magal-fists-of-brutal-truth.json) |
 | Steve Reich’s Clapping Music | 312322 | [312322-steve-reich-s-clapping-music.json](./312322-steve-reich-s-clapping-music.json) |
