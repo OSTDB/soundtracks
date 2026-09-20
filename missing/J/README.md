@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
 | Jack | 369658 | [369658-jack.json](./369658-jack.json) |
 | Jack & Detectives: Black Magic Expansion | 364562 | [364562-jack-and-detectives-black-magic-expansion.json](./364562-jack-and-detectives-black-magic-expansion.json) |
+| Jack & The Diamonds | 115457 | [115457-jack-and-the-diamonds.json](./115457-jack-and-the-diamonds.json) |
 | Jack and the Beanstalk | 25724 | [25724-jack-and-the-beanstalk.json](./25724-jack-and-the-beanstalk.json) |
 | Jack and the Beanstalk | 394188 | [394188-jack-and-the-beanstalk.json](./394188-jack-and-the-beanstalk.json) |
 | Jack and the Beanstalk Jigsaw Puzzle | 163406 | [163406-jack-and-the-beanstalk-jigsaw-puzzle.json](./163406-jack-and-the-beanstalk-jigsaw-puzzle.json) |
@@ -418,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JettFuel | 316277 | [316277-jettfuel.json](./316277-jettfuel.json) |
 | JetTurbo | 261865 | [261865-jetturbo.json](./261865-jetturbo.json) |
 | JetWireClimber | 312166 | [312166-jetwireclimber.json](./312166-jetwireclimber.json) |
+| JetX Racing | 115476 | [115476-jetx-racing.json](./115476-jetx-racing.json) |
 | JetX: Space Edition | 118333 | [118333-jetx-space-edition.json](./118333-jetx-space-edition.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
 | Jewel Drops 2 - Match three puzzle | 101637 | [101637-jewel-drops-2-match-three-puzzle.json](./101637-jewel-drops-2-match-three-puzzle.json) |
