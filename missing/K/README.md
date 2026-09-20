@@ -1541,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kommissar Kugelblitz: Der Fall Wüstenkönig | 221256 | [221256-kommissar-kugelblitz-der-fall-wustenkonig.json](./221256-kommissar-kugelblitz-der-fall-wustenkonig.json) |
 | Kommissar Kugelblitz: Vermisst am Mississippi | 282691 | [282691-kommissar-kugelblitz-vermisst-am-mississippi.json](./282691-kommissar-kugelblitz-vermisst-am-mississippi.json) |
 | Komori Fruit Rush | 126633 | [126633-komori-fruit-rush.json](./126633-komori-fruit-rush.json) |
+| Kőműves Kelemen | 120803 | [120803-komuves-kelemen.json](./120803-komuves-kelemen.json) |
 | Kona Project | 299742 | [299742-kona-project.json](./299742-kona-project.json) |
 | Konae-chan no Doki-doki Penguin Kazoku | 134464 | [134464-konae-chan-no-doki-doki-penguin-kazoku.json](./134464-konae-chan-no-doki-doki-penguin-kazoku.json) |
 | Konami 88 | 40228 | [40228-konami-88.json](./40228-konami-88.json) |
