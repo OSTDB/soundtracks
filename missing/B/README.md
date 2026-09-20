@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandit Kings of Ancient China | 273085 | [273085-bandit-kings-of-ancient-china.json](./273085-bandit-kings-of-ancient-china.json) |
 | Bandit Kings of Ancient China | 9496 | [9496-bandit-kings-of-ancient-china.json](./9496-bandit-kings-of-ancient-china.json) |
 | Bandit Knight | 258991 | [258991-bandit-knight.json](./258991-bandit-knight.json) |
+| Bandit Simulator | 121474 | [121474-bandit-simulator.json](./121474-bandit-simulator.json) |
 | Bandit Skies | 96720 | [96720-bandit-skies.json](./96720-bandit-skies.json) |
 | Bandit Trap | 306417 | [306417-bandit-trap.json](./306417-bandit-trap.json) |
 | Bandits | 228079 | [228079-bandits.json](./228079-bandits.json) |
