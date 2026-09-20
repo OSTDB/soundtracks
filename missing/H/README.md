@@ -1115,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Slash | 139372 | [139372-heaven-slash.json](./139372-heaven-slash.json) |
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
 | Heaven's Glaive | 387362 | [387362-heavens-glaive.json](./387362-heavens-glaive.json) |
+| Heaven's Grave | 121473 | [121473-heavens-grave.json](./121473-heavens-grave.json) |
 | Heaven's Hope | 17992 | [17992-heavens-hope.json](./17992-heavens-hope.json) |
 | Heaven's Machine | 181296 | [181296-heavens-machine.json](./181296-heavens-machine.json) |
 | Heavenly Bodies: Cleanup | 260747 | [260747-heavenly-bodies-cleanup.json](./260747-heavenly-bodies-cleanup.json) |
