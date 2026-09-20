@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Ship Sailing | 403707 | [403707-last-ship-sailing.json](./403707-last-ship-sailing.json) |
 | Last Shooter: Apocalypse | 227266 | [227266-last-shooter-apocalypse.json](./227266-last-shooter-apocalypse.json) |
 | Last Spirit PBT | 326250 | [326250-last-spirit-pbt.json](./326250-last-spirit-pbt.json) |
+| Last Stand: Reborn | 113490 | [113490-last-stand-reborn.json](./113490-last-stand-reborn.json) |
 | Last Stanza | 105279 | [105279-last-stanza.json](./105279-last-stanza.json) |
 | Last Star | 316097 | [316097-last-star.json](./316097-last-star.json) |
 | Last Stop | 345518 | [345518-last-stop.json](./345518-last-stop.json) |
