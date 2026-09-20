@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N+1: New Life For Unemployed Youth! | 290518 | [290518-n-1-new-life-for-unemployed-youth.json](./290518-n-1-new-life-for-unemployed-youth.json) |
 | N0-Exit | 31987 | [31987-n0-exit.json](./31987-n0-exit.json) |
 | N00b's Guide | 404956 | [404956-n00bs-guide.json](./404956-n00bs-guide.json) |
+| N0de: Machina Omega | 82470 | [82470-n0de-machina-omega.json](./82470-n0de-machina-omega.json) |
 | N1RV Ann-A: Cyberpunk Bartender Action | 109582 | [109582-n1rv-ann-a-cyberpunk-bartender-action.json](./109582-n1rv-ann-a-cyberpunk-bartender-action.json) |
 | N3Rally | 310204 | [310204-n3rally.json](./310204-n3rally.json) |
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
@@ -1950,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Taishi - The Battle of Okitanawate Scenario | 150665 | [150665-nobunagas-ambition-taishi-the-battle-of-okitanawate-scenario.json](./150665-nobunagas-ambition-taishi-the-battle-of-okitanawate-scenario.json) |
 | Nobunaga's Ambition: Taishi - The Dutiful Lord of Echigo Scenario | 150663 | [150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json](./150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json) |
 | Nobunaga's Ambition: Taishi Deluxe Edition | 122363 | [122363-nobunagas-ambition-taishi-deluxe-edition.json](./122363-nobunagas-ambition-taishi-deluxe-edition.json) |
+| Nobunaga's Ambition: Tenkasousei with Power Up Kit | 82400 | [82400-nobunagas-ambition-tenkasousei-with-power-up-kit.json](./82400-nobunagas-ambition-tenkasousei-with-power-up-kit.json) |
 | Nobunaga's Ambition: Tenshouki with Power-Up Kit HD Version | 90610 | [90610-nobunagas-ambition-tenshouki-with-power-up-kit-hd-version.json](./90610-nobunagas-ambition-tenshouki-with-power-up-kit-hd-version.json) |
 | NoCanNoTap | 254158 | [254158-nocannotap.json](./254158-nocannotap.json) |
 | Nociception: Simple Outlook From Hell | 142414 | [142414-nociception-simple-outlook-from-hell.json](./142414-nociception-simple-outlook-from-hell.json) |
