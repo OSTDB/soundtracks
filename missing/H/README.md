@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's New World | 217513 | [217513-hells-new-world.json](./217513-hells-new-world.json) |
 | Hell's Scream | 290532 | [290532-hells-scream.json](./290532-hells-scream.json) |
 | Hell`s Little Story 2 | 109757 | [109757-hell-s-little-story-2.json](./109757-hell-s-little-story-2.json) |
+| Hellbanger | 116162 | [116162-hellbanger.json](./116162-hellbanger.json) |
 | Hellbender | 84176 | [84176-hellbender.json](./84176-hellbender.json) |
 | Hellblade: Senua's Sacrifice - VR Edition | 106107 | [106107-hellblade-senuas-sacrifice-vr-edition.json](./106107-hellblade-senuas-sacrifice-vr-edition.json) |
 | Hellblusser | 162410 | [162410-hellblusser.json](./162410-hellblusser.json) |
@@ -2693,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Inn | 400349 | [400349-hollow-inn.json](./400349-hollow-inn.json) |
 | Hollow Knight | 365702 | [365702-hollow-knight.json](./365702-hollow-knight.json) |
 | Hollow Knight Silksong | 372563 | [372563-hollow-knight-silksong.json](./372563-hollow-knight-silksong.json) |
+| Hollow Knight: Collector's Edition | 116151 | [116151-hollow-knight-collectors-edition.json](./116151-hollow-knight-collectors-edition.json) |
 | Hollow Knight: Silksong - Sea of Sorrow | 381684 | [381684-hollow-knight-silksong-sea-of-sorrow.json](./381684-hollow-knight-silksong-sea-of-sorrow.json) |
 | Hollow Knight: The Glimmering Realm | 375989 | [375989-hollow-knight-the-glimmering-realm.json](./375989-hollow-knight-the-glimmering-realm.json) |
 | Hollow Minds | 311469 | [311469-hollow-minds.json](./311469-hollow-minds.json) |
@@ -3446,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Escape a Kidnapper | 367450 | [367450-how-to-escape-a-kidnapper.json](./367450-how-to-escape-a-kidnapper.json) |
 | How to Fly a Cannon | 405537 | [405537-how-to-fly-a-cannon.json](./405537-how-to-fly-a-cannon.json) |
 | How to Live a Healthy Hentai Lifestyle! | 200645 | [200645-how-to-live-a-healthy-hentai-lifestyle.json](./200645-how-to-live-a-healthy-hentai-lifestyle.json) |
+| How to Make a Floating City | 116114 | [116114-how-to-make-a-floating-city.json](./116114-how-to-make-a-floating-city.json) |
 | How to Make an Atomic Bomb in Your Garden | 391727 | [391727-how-to-make-an-atomic-bomb-in-your-garden.json](./391727-how-to-make-an-atomic-bomb-in-your-garden.json) |
 | How to Make Slime: DIY Jelly Toy Play Fun | 96975 | [96975-how-to-make-slime-diy-jelly-toy-play-fun.json](./96975-how-to-make-slime-diy-jelly-toy-play-fun.json) |
 | How to Melt a Maiden's Heart | 326280 | [326280-how-to-melt-a-maidens-heart.json](./326280-how-to-melt-a-maidens-heart.json) |
