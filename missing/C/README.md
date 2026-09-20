@@ -3207,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluster Dust | 89653 | [89653-cluster-dust.json](./89653-cluster-dust.json) |
 | Cluster Fly | 226305 | [226305-cluster-fly.json](./226305-cluster-fly.json) |
 | Cluster Six | 58756 | [58756-cluster-six.json](./58756-cluster-six.json) |
+| Cluster Tumble | 118156 | [118156-cluster-tumble.json](./118156-cluster-tumble.json) |
 | Clusterball Arcade | 63838 | [63838-clusterball-arcade.json](./63838-clusterball-arcade.json) |
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
 | Clutter 18: Joe's Ultimate Challenge - Collector's Edition | 369562 | [369562-clutter-18-joes-ultimate-challenge-collectors-edition.json](./369562-clutter-18-joes-ultimate-challenge-collectors-edition.json) |
