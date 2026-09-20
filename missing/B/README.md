@@ -1598,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Ball | 340954 | [340954-beat-ball.json](./340954-beat-ball.json) |
 | Beat Ball 2 | 345615 | [345615-beat-ball-2.json](./345615-beat-ball-2.json) |
 | Beat Banger | 253039 | [253039-beat-banger.json](./253039-beat-banger.json) |
+| Beat Blaster | 114817 | [114817-beat-blaster.json](./114817-beat-blaster.json) |
 | Beat Blitz | 217028 | [217028-beat-blitz.json](./217028-beat-blitz.json) |
 | Beat Boxers | 110997 | [110997-beat-boxers.json](./110997-beat-boxers.json) |
 | Beat Bros | 52633 | [52633-beat-bros.json](./52633-beat-bros.json) |
@@ -2160,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BGPA Missions Liberation | 256849 | [256849-bgpa-missions-liberation.json](./256849-bgpa-missions-liberation.json) |
 | Bhangarh: The Untold Story | 391173 | [391173-bhangarh-the-untold-story.json](./391173-bhangarh-the-untold-story.json) |
 | Bhard | 401525 | [401525-bhard.json](./401525-bhard.json) |
+| Bhavacakra Grace | 114829 | [114829-bhavacakra-grace.json](./114829-bhavacakra-grace.json) |
 | BHB: BioHazard Bot | 75047 | [75047-bhb-biohazard-bot.json](./75047-bhb-biohazard-bot.json) |
 | Bhop PRO | 144294 | [144294-bhop-pro.json](./144294-bhop-pro.json) |
 | Bi-Color | 176381 | [176381-bi-color.json](./176381-bi-color.json) |
