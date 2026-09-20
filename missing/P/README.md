@@ -1884,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross DS | 10617 | [10617-picross-ds.json](./10617-picross-ds.json) |
 | Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
+| Picross Floof | 116104 | [116104-picross-floof.json](./116104-picross-floof.json) |
 | Picross for a Cause | 139253 | [139253-picross-for-a-cause.json](./139253-picross-for-a-cause.json) |
 | Picross S Capcom Classics Edition | 378164 | [378164-picross-s-capcom-classics-edition.json](./378164-picross-s-capcom-classics-edition.json) |
 | Picross S Doraemon & F Characters Edition | 335349 | [335349-picross-s-doraemon-and-f-characters-edition.json](./335349-picross-s-doraemon-and-f-characters-edition.json) |
@@ -3400,6 +3401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokkén Tournament: Update Ver.C07 | 300366 | [300366-pokken-tournament-update-ver-c07.json](./300366-pokken-tournament-update-ver-c07.json) |
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
 | Pokor | 397770 | [397770-pokor.json](./397770-pokor.json) |
+| Pokris | 116099 | [116099-pokris.json](./116099-pokris.json) |
 | Pokubittu | 97836 | [97836-pokubittu.json](./97836-pokubittu.json) |
 | Polar Bear Cub: games for kids | 90028 | [90028-polar-bear-cub-games-for-kids.json](./90028-polar-bear-cub-games-for-kids.json) |
 | Polar Bear in Space! | 250934 | [250934-polar-bear-in-space.json](./250934-polar-bear-in-space.json) |
@@ -4219,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Nightmare | 72674 | [72674-princess-nightmare.json](./72674-princess-nightmare.json) |
 | Princess of Seas | 201702 | [201702-princess-of-seas.json](./201702-princess-of-seas.json) |
 | Princess of the Tomb | 353862 | [353862-princess-of-the-tomb.json](./353862-princess-of-the-tomb.json) |
+| Princess of Zeven | 116165 | [116165-princess-of-zeven.json](./116165-princess-of-zeven.json) |
 | Princess Pajama | 316803 | [316803-princess-pajama.json](./316803-princess-pajama.json) |
 | Princess Paladin | 258034 | [258034-princess-paladin.json](./258034-princess-paladin.json) |
 | Princess Paloma's Rescue | 360109 | [360109-princess-palomas-rescue.json](./360109-princess-palomas-rescue.json) |
@@ -4884,6 +4887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proxball | 125852 | [125852-proxball.json](./125852-proxball.json) |
 | Proxima | 406840 | [406840-proxima.json](./406840-proxima.json) |
 | Proximate | 282108 | [282108-proximate.json](./282108-proximate.json) |
+| Proze: Enlightenment | 116132 | [116132-proze-enlightenment.json](./116132-proze-enlightenment.json) |
 | Prší | 99579 | [99579-prsi.json](./99579-prsi.json) |
 | Prueba Humana | 361231 | [361231-prueba-humana.json](./361231-prueba-humana.json) |
 | Prune & Milo | 294134 | [294134-prune-and-milo.json](./294134-prune-and-milo.json) |
