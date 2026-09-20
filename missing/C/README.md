@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campaign Series Vietnam | 150123 | [150123-campaign-series-vietnam.json](./150123-campaign-series-vietnam.json) |
 | Camper Jumper Simulator | 31541 | [31541-camper-jumper-simulator.json](./31541-camper-jumper-simulator.json) |
 | Camper Renovator | 172131 | [172131-camper-renovator.json](./172131-camper-renovator.json) |
+| Camper Van Race Driving Simulator 2018 | 107001 | [107001-camper-van-race-driving-simulator-2018.json](./107001-camper-van-race-driving-simulator-2018.json) |
 | Campfire | 177999 | [177999-campfire.json](./177999-campfire.json) |
 | Campfire | 275600 | [275600-campfire.json](./275600-campfire.json) |
 | Campfire Cat Cafe | 250431 | [250431-campfire-cat-cafe.json](./250431-campfire-cat-cafe.json) |
@@ -326,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Escape | 189033 | [189033-can-you-escape.json](./189033-can-you-escape.json) |
 | Can You Escape Modern Office | 167290 | [167290-can-you-escape-modern-office.json](./167290-can-you-escape-modern-office.json) |
 | Can You Escape- Jail Break | 106550 | [106550-can-you-escape-jail-break.json](./106550-can-you-escape-jail-break.json) |
+| Can you escape: Room Escape 1 | 106954 | [106954-can-you-escape-room-escape-1.json](./106954-can-you-escape-room-escape-1.json) |
 | Can You Reach 60 Seconds | 339940 | [339940-can-you-reach-60-seconds.json](./339940-can-you-reach-60-seconds.json) |
 | Can You Save the World? | 182902 | [182902-can-you-save-the-world.json](./182902-can-you-save-the-world.json) |
 | Can't buy me love! | 363940 | [363940-cant-buy-me-love.json](./363940-cant-buy-me-love.json) |
@@ -979,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Clash | 38890 | [38890-castle-clash.json](./38890-castle-clash.json) |
 | Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
 | Castle Creeps Battle | 105908 | [105908-castle-creeps-battle.json](./105908-castle-creeps-battle.json) |
+| Castle Creeps TD | 106963 | [106963-castle-creeps-td.json](./106963-castle-creeps-td.json) |
 | Castle Crisis | 40782 | [40782-castle-crisis.json](./40782-castle-crisis.json) |
 | Castle Crumble | 235306 | [235306-castle-crumble.json](./235306-castle-crumble.json) |
 | Castle Defender | 273909 | [273909-castle-defender.json](./273909-castle-defender.json) |
@@ -1248,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catbo | 311477 | [311477-catbo.json](./311477-catbo.json) |
 | Catburglar | 406789 | [406789-catburglar.json](./406789-catburglar.json) |
 | Catch 'Em | 80503 | [80503-catch-em.json](./80503-catch-em.json) |
+| Catch 'Em! Goldfish Scooping | 106973 | [106973-catch-em-goldfish-scooping.json](./106973-catch-em-goldfish-scooping.json) |
 | Catch & Cook | 244231 | [244231-catch-and-cook.json](./244231-catch-and-cook.json) |
 | Catch a Falling Star | 33285 | [33285-catch-a-falling-star.json](./33285-catch-a-falling-star.json) |
 | Catch Bus | 232033 | [232033-catch-bus.json](./232033-catch-bus.json) |
@@ -4264,6 +4268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Chaos | 246492 | [246492-cooking-chaos.json](./246492-cooking-chaos.json) |
 | Cooking Craze | 88770 | [88770-cooking-craze.json](./88770-cooking-craze.json) |
 | Cooking Crew | 262954 | [262954-cooking-crew.json](./262954-cooking-crew.json) |
+| Cooking Diary: Welcome to Tasty Hills | 106991 | [106991-cooking-diary-welcome-to-tasty-hills.json](./106991-cooking-diary-welcome-to-tasty-hills.json) |
 | Cooking Fever | 87046 | [87046-cooking-fever.json](./87046-cooking-fever.json) |
 | Cooking For Ma! | 404941 | [404941-cooking-for-ma.json](./404941-cooking-for-ma.json) |
 | Cooking Mama World: Hobbies & Fun | 47957 | [47957-cooking-mama-world-hobbies-and-fun.json](./47957-cooking-mama-world-hobbies-and-fun.json) |
