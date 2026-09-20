@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.E.C.H.A.: Memory Erasure Control of Hover Attractor | 348770 | [348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json](./348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json) |
 | M.E.R.C. | 26540 | [26540-m-e-r-c.json](./26540-m-e-r-c.json) |
 | M.I.A | 75044 | [75044-m-i-a.json](./75044-m-i-a.json) |
+| M.I.N.D. | 95234 | [95234-m-i-n-d.json](./95234-m-i-n-d.json) |
 | M.O.O.D.S. | 199487 | [199487-m-o-o-d-s.json](./199487-m-o-o-d-s.json) |
 | M.o.o.n. | 243951 | [243951-m-o-o-n.json](./243951-m-o-o-n.json) |
 | M.O.Z.O.X.: Space Salvager | 209157 | [209157-m-o-z-o-x-space-salvager.json](./209157-m-o-z-o-x-space-salvager.json) |
@@ -2622,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory | 152143 | [152143-memory.json](./152143-memory.json) |
 | Memory | 219288 | [219288-memory.json](./219288-memory.json) |
 | Memory | 383929 | [383929-memory.json](./383929-memory.json) |
+| Memory | 95230 | [95230-memory.json](./95230-memory.json) |
 | Memory Battle | 138574 | [138574-memory-battle.json](./138574-memory-battle.json) |
 | Memory Chase | 243811 | [243811-memory-chase.json](./243811-memory-chase.json) |
 | Memory Color! | 252145 | [252145-memory-color.json](./252145-memory-color.json) |
@@ -2869,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metacity Patrol | 339796 | [339796-metacity-patrol.json](./339796-metacity-patrol.json) |
 | Metaforces Bowling Center | 279122 | [279122-metaforces-bowling-center.json](./279122-metaforces-bowling-center.json) |
 | Metagal | 19321 | [19321-metagal.json](./19321-metagal.json) |
+| Metal | 95217 | [95217-metal.json](./95217-metal.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
 | Metal Army War Revenge | 221714 | [221714-metal-army-war-revenge.json](./221714-metal-army-war-revenge.json) |
 | Metal Assault | 9040 | [9040-metal-assault.json](./9040-metal-assault.json) |
@@ -3111,6 +3114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miaou Moon | 31790 | [31790-miaou-moon.json](./31790-miaou-moon.json) |
 | MiaouVSRG | 351047 | [351047-miaouvsrg.json](./351047-miaouvsrg.json) |
 | Miasma | 253908 | [253908-miasma.json](./253908-miasma.json) |
+| Miasma Caves | 95179 | [95179-miasma-caves.json](./95179-miasma-caves.json) |
 | Miazma or the Devil's Stone | 99012 | [99012-miazma-or-the-devils-stone.json](./99012-miazma-or-the-devils-stone.json) |
 | Mibibli's Quest | 33229 | [33229-mibiblis-quest.json](./33229-mibiblis-quest.json) |
 | Miburi and Teburi | 230271 | [230271-miburi-and-teburi.json](./230271-miburi-and-teburi.json) |
@@ -4876,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters James P. Sullivan Stomach Doctor | 380550 | [380550-monsters-james-p-sullivan-stomach-doctor.json](./380550-monsters-james-p-sullivan-stomach-doctor.json) |
 | Monsters Lair | 356669 | [356669-monsters-lair.json](./356669-monsters-lair.json) |
 | Monsters Love Candy | 63852 | [63852-monsters-love-candy.json](./63852-monsters-love-candy.json) |
+| Monsters of Kanji | 95181 | [95181-monsters-of-kanji.json](./95181-monsters-of-kanji.json) |
 | Monsters of Kanji 2 | 124205 | [124205-monsters-of-kanji-2.json](./124205-monsters-of-kanji-2.json) |
 | Monsters of Seabrook | 224653 | [224653-monsters-of-seabrook.json](./224653-monsters-of-seabrook.json) |
 | Monsters sandbox | 127085 | [127085-monsters-sandbox.json](./127085-monsters-sandbox.json) |
