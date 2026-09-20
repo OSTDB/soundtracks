@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Ways From Sunday | 165500 | [165500-10-ways-from-sunday.json](./165500-10-ways-from-sunday.json) |
 | 10 Years After | 36024 | [36024-10-years-after.json](./36024-10-years-after.json) |
 | 10-Pin Bowling | 153453 | [153453-10-pin-bowling.json](./153453-10-pin-bowling.json) |
+| 10-Pin Bowling | 92273 | [92273-10-pin-bowling.json](./92273-10-pin-bowling.json) |
 | 10-Yard Fight | 2733 | [2733-10-yard-fight.json](./2733-10-yard-fight.json) |
 | 10,000 Feet Below | 271729 | [271729-10-000-feet-below.json](./271729-10-000-feet-below.json) |
 | 10:59 | 308936 | [308936-10-59.json](./308936-10-59.json) |
@@ -491,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-in-1 Animated Jigsaws Bundle | 399632 | [399632-3-in-1-animated-jigsaws-bundle.json](./399632-3-in-1-animated-jigsaws-bundle.json) |
 | 3-in-1 Christmas Collection | 331411 | [331411-3-in-1-christmas-collection.json](./331411-3-in-1-christmas-collection.json) |
 | 3-in-1 fun bundle | 223575 | [223575-3-in-1-fun-bundle.json](./223575-3-in-1-fun-bundle.json) |
+| 3-in-One Game Compilation | 92275 | [92275-3-in-one-game-compilation.json](./92275-3-in-one-game-compilation.json) |
 | 3:33 A.M. | 318976 | [318976-3-33-a-m.json](./318976-3-33-a-m.json) |
 | 30 Days of Tower | 290955 | [290955-30-days-of-tower.json](./290955-30-days-of-tower.json) |
 | 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
@@ -555,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
 | 3D Pinball Express | 97104 | [97104-3d-pinball-express.json](./97104-3d-pinball-express.json) |
 | 3D Pitfall | 92859 | [92859-3d-pitfall.json](./92859-3d-pitfall.json) |
+| 3D Pocket Pool | 92272 | [92272-3d-pocket-pool.json](./92272-3d-pocket-pool.json) |
 | 3D Pool Game | 88273 | [88273-3d-pool-game.json](./88273-3d-pool-game.json) |
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
 | 3D Puzzle: Abandoned Prison | 308949 | [308949-3d-puzzle-abandoned-prison.json](./308949-3d-puzzle-abandoned-prison.json) |
