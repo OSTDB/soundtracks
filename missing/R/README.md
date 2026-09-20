@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoonwave | 307120 | [307120-raccoonwave.json](./307120-raccoonwave.json) |
 | Race 07: Formula RaceRoom | 120183 | [120183-race-07-formula-raceroom.json](./120183-race-07-formula-raceroom.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
+| Race Arcade | 105127 | [105127-race-arcade.json](./105127-race-arcade.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race Driver: Grid Reloaded | 44555 | [44555-race-driver-grid-reloaded.json](./44555-race-driver-grid-reloaded.json) |
 | Race For Nuts | 359481 | [359481-race-for-nuts.json](./359481-race-for-nuts.json) |
@@ -1477,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rekea: GOTY Edition | 181333 | [181333-rekea-goty-edition.json](./181333-rekea-goty-edition.json) |
 | Rekindled Trails | 342079 | [342079-rekindled-trails.json](./342079-rekindled-trails.json) |
 | Rekindling The Flame | 276833 | [276833-rekindling-the-flame.json](./276833-rekindling-the-flame.json) |
+| Rekkr | 105118 | [105118-rekkr.json](./105118-rekkr.json) |
 | Rekkr: Sunken Land | 167786 | [167786-rekkr-sunken-land.json](./167786-rekkr-sunken-land.json) |
 | Reknum | 130401 | [130401-reknum.json](./130401-reknum.json) |
 | Reknum DX | 182475 | [182475-reknum-dx.json](./182475-reknum-dx.json) |
@@ -2681,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Warrior | 364536 | [364536-road-warrior.json](./364536-road-warrior.json) |
 | Road Wars | 265943 | [265943-road-wars.json](./265943-road-wars.json) |
 | Road Works | 35687 | [35687-road-works.json](./35687-road-works.json) |
+| Road Z Survival: The Last Winter | 105089 | [105089-road-z-survival-the-last-winter.json](./105089-road-z-survival-the-last-winter.json) |
 | RoadCraft | 314239 | [314239-roadcraft.json](./314239-roadcraft.json) |
 | RoadCraft: Aramatsu Bowhead 30T | 374731 | [374731-roadcraft-aramatsu-bowhead-30t.json](./374731-roadcraft-aramatsu-bowhead-30t.json) |
 | RoadCraft: Invictus Type A Scout | 374733 | [374733-roadcraft-invictus-type-a-scout.json](./374733-roadcraft-invictus-type-a-scout.json) |
