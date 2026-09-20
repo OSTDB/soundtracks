@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Have an Item | 384113 | [384113-i-have-an-item.json](./384113-i-have-an-item.json) |
 | I Have Died | 375956 | [375956-i-have-died.json](./375956-i-have-died.json) |
 | I Have Hired This Anime Girl to Talk to You | 275003 | [275003-i-have-hired-this-anime-girl-to-talk-to-you.json](./275003-i-have-hired-this-anime-girl-to-talk-to-you.json) |
+| I Have Low Stats But My Class is "Leader", So I Recruited Everyone I Know to Fight the Dark Lord | 123423 | [123423-i-have-low-stats-but-my-class-is-leader-so-i-recruited-everyone-i-know-to-fight-the-dark-lord.json](./123423-i-have-low-stats-but-my-class-is-leader-so-i-recruited-everyone-i-know-to-fight-the-dark-lord.json) |
 | I Have No Change | 348311 | [348311-i-have-no-change.json](./348311-i-have-no-change.json) |
 | I Have No Nose and I Must Climb | 244345 | [244345-i-have-no-nose-and-i-must-climb.json](./244345-i-have-no-nose-and-i-must-climb.json) |
 | I Hear Them | 398454 | [398454-i-hear-them.json](./398454-i-hear-them.json) |
