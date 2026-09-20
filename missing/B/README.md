@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie's Team Gymnastics | 59942 | [59942-barbies-team-gymnastics.json](./59942-barbies-team-gymnastics.json) |
 | Barboozeled | 214732 | [214732-barboozeled.json](./214732-barboozeled.json) |
 | Barbuta | 317573 | [317573-barbuta.json](./317573-barbuta.json) |
+| Barcelona Fighter 92' | 98261 | [98261-barcelona-fighter-92.json](./98261-barcelona-fighter-92.json) |
 | Barcode Battler II: Senyou Card Software - Super Mario World | 329117 | [329117-barcode-battler-ii-senyou-card-software-super-mario-world.json](./329117-barcode-battler-ii-senyou-card-software-super-mario-world.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Doraemon (Comics Ichizoku) | 329356 | [329356-barcode-battler-ii-shogaku-ninensei-special-barcode-card-doraemon-comics-ichizoku.json](./329356-barcode-battler-ii-shogaku-ninensei-special-barcode-card-doraemon-comics-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Dr. Eggman (Game Ichizoku) | 329355 | [329355-barcode-battler-ii-shogaku-ninensei-special-barcode-card-dr-eggman-game-ichizoku.json](./329355-barcode-battler-ii-shogaku-ninensei-special-barcode-card-dr-eggman-game-ichizoku.json) |
