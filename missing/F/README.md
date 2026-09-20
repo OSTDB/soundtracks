@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Expert 2016: Farm Machines Pack | 263190 | [263190-farm-expert-2016-farm-machines-pack.json](./263190-farm-expert-2016-farm-machines-pack.json) |
 | Farm Expert 2017 | 25105 | [25105-farm-expert-2017.json](./25105-farm-expert-2017.json) |
 | Farm Expert 2019 | 112334 | [112334-farm-expert-2019.json](./112334-farm-expert-2019.json) |
+| Farm Frenzy 3 HD | 88808 | [88808-farm-frenzy-3-hd.json](./88808-farm-frenzy-3-hd.json) |
 | Farm Frenzy Collection | 34762 | [34762-farm-frenzy-collection.json](./34762-farm-frenzy-collection.json) |
 | Farm Frenzy Prostokvashino | 320397 | [320397-farm-frenzy-prostokvashino.json](./320397-farm-frenzy-prostokvashino.json) |
 | Farm Frenzy: Animal Country | 201278 | [201278-farm-frenzy-animal-country.json](./201278-farm-frenzy-animal-country.json) |
@@ -2405,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Fishing | 79238 | [79238-flick-fishing.json](./79238-flick-fishing.json) |
 | Flick Golf Extreme | 58206 | [58206-flick-golf-extreme.json](./58206-flick-golf-extreme.json) |
 | Flick Home Run ! HD | 89537 | [89537-flick-home-run-hd.json](./89537-flick-home-run-hd.json) |
+| Flick Home Run! | 88782 | [88782-flick-home-run.json](./88782-flick-home-run.json) |
 | Flick Kick Football Legends | 305151 | [305151-flick-kick-football-legends.json](./305151-flick-kick-football-legends.json) |
 | Flick Nations Rugby | 58182 | [58182-flick-nations-rugby.json](./58182-flick-nations-rugby.json) |
 | Flick Quarterback 16 | 58207 | [58207-flick-quarterback-16.json](./58207-flick-quarterback-16.json) |
@@ -2504,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlipPix Art - Dollhouse | 107118 | [107118-flippix-art-dollhouse.json](./107118-flippix-art-dollhouse.json) |
 | FlipPix Jigsaw - Retro | 91997 | [91997-flippix-jigsaw-retro.json](./91997-flippix-jigsaw-retro.json) |
 | FlipPix Jigsaw - Spicy | 96047 | [96047-flippix-jigsaw-spicy.json](./96047-flippix-jigsaw-spicy.json) |
+| Flippy | 88759 | [88759-flippy.json](./88759-flippy.json) |
 | Flippy Boat | 104471 | [104471-flippy-boat.json](./104471-flippy-boat.json) |
 | Flippy Bottle Extreme 2! | 340996 | [340996-flippy-bottle-extreme-2.json](./340996-flippy-bottle-extreme-2.json) |
 | Flippy Bottle Extreme! | 98790 | [98790-flippy-bottle-extreme.json](./98790-flippy-bottle-extreme.json) |
@@ -4152,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Park Simulator | 394165 | [394165-fun-park-simulator.json](./394165-fun-park-simulator.json) |
 | Fun Quest | 195702 | [195702-fun-quest.json](./195702-fun-quest.json) |
 | Fun Run | 257410 | [257410-fun-run.json](./257410-fun-run.json) |
+| Fun Run 2 | 88780 | [88780-fun-run-2.json](./88780-fun-run-2.json) |
 | Fun Run 3 | 57120 | [57120-fun-run-3.json](./57120-fun-run-3.json) |
 | Fun Run 4 | 257400 | [257400-fun-run-4.json](./257400-fun-run-4.json) |
 | Fun School | 334200 | [334200-fun-school.json](./334200-fun-school.json) |
@@ -4404,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FutureKreate | 170435 | [170435-futurekreate.json](./170435-futurekreate.json) |
 | FutureMage: Spellmaker | 102582 | [102582-futuremage-spellmaker.json](./102582-futuremage-spellmaker.json) |
 | Futurewar | 234634 | [234634-futurewar.json](./234634-futurewar.json) |
+| Futuridium EP | 88752 | [88752-futuridium-ep.json](./88752-futuridium-ep.json) |
 | Futuridium EP Deluxe | 8500 | [8500-futuridium-ep-deluxe.json](./8500-futuridium-ep-deluxe.json) |
 | Fuu | 393493 | [393493-fuu.json](./393493-fuu.json) |
 | Fuu3's Fuun Journey | 265927 | [265927-fuu3s-fuun-journey.json](./265927-fuu3s-fuun-journey.json) |
