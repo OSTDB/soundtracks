@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illwind | 251835 | [251835-illwind.json](./251835-illwind.json) |
 | Ilomilo: Autumn Tale | 288340 | [288340-ilomilo-autumn-tale.json](./288340-ilomilo-autumn-tale.json) |
 | Iltami | 311646 | [311646-iltami.json](./311646-iltami.json) |
+| iLudo | 90359 | [90359-iludo.json](./90359-iludo.json) |
 | Ilysia | 123575 | [123575-ilysia.json](./123575-ilysia.json) |
 | Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
 | Ima Survivor | 305950 | [305950-ima-survivor.json](./305950-ima-survivor.json) |
