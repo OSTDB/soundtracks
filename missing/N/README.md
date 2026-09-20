@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nation War: Chronicles | 48008 | [48008-nation-war-chronicles.json](./48008-nation-war-chronicles.json) |
 | National Geographic Challenge! | 52603 | [52603-national-geographic-challenge.json](./52603-national-geographic-challenge.json) |
 | National Geographic Lilly Wu and the Terra Cotta Mystery | 209148 | [209148-national-geographic-lilly-wu-and-the-terra-cotta-mystery.json](./209148-national-geographic-lilly-wu-and-the-terra-cotta-mystery.json) |
+| National Girls | 111503 | [111503-national-girls.json](./111503-national-girls.json) |
 | National Lacrosse League 2010 | 61034 | [61034-national-lacrosse-league-2010.json](./61034-national-lacrosse-league-2010.json) |
 | National Lacrosse League 2011 | 61035 | [61035-national-lacrosse-league-2011.json](./61035-national-lacrosse-league-2011.json) |
 | National Machine | 103451 | [103451-national-machine.json](./103451-national-machine.json) |
@@ -2320,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Num Yumms | 252143 | [252143-num-yumms.json](./252143-num-yumms.json) |
 | Numachina | 350412 | [350412-numachina.json](./350412-numachina.json) |
 | Numb: Just Don't Think About It | 255103 | [255103-numb-just-dont-think-about-it.json](./255103-numb-just-dont-think-about-it.json) |
+| Numbala | 111453 | [111453-numbala.json](./111453-numbala.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
 | Number Crush | 366321 | [366321-number-crush.json](./366321-number-crush.json) |
 | Number Guesser | 97905 | [97905-number-guesser.json](./97905-number-guesser.json) |
