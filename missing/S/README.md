@@ -8328,6 +8328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Lit, Find Radio | 151042 | [151042-stay-lit-find-radio.json](./151042-stay-lit-find-radio.json) |
 | Stay Out | 63813 | [63813-stay-out.json](./63813-stay-out.json) |
 | Stay Safe | 96481 | [96481-stay-safe.json](./96481-stay-safe.json) |
+| Stay Woke Etheral Edition | 75499 | [75499-stay-woke-etheral-edition.json](./75499-stay-woke-etheral-edition.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
 | Stay.: Fragments of Memories | 308972 | [308972-stay-fragments-of-memories.json](./308972-stay-fragments-of-memories.json) |
 | Steadfast | 417535 | [417535-steadfast.json](./417535-steadfast.json) |
