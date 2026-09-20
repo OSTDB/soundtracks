@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac Adventures 3D | 105307 | [105307-pac-adventures-3d.json](./105307-pac-adventures-3d.json) |
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
 | Pac Rabbit | 319590 | [319590-pac-rabbit.json](./319590-pac-rabbit.json) |
+| Pac the Man 2 | 78960 | [78960-pac-the-man-2.json](./78960-pac-the-man-2.json) |
 | Pac-Athlon | 320352 | [320352-pac-athlon.json](./320352-pac-athlon.json) |
 | Pac-Attack | 239188 | [239188-pac-attack.json](./239188-pac-attack.json) |
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
@@ -701,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Watcher | 335082 | [335082-paranormal-watcher.json](./335082-paranormal-watcher.json) |
 | Paranormal: The Town | 61627 | [61627-paranormal-the-town.json](./61627-paranormal-the-town.json) |
 | Paranormasight: The Seven Mysteries of Honjo | 236694 | [236694-paranormasight-the-seven-mysteries-of-honjo.json](./236694-paranormasight-the-seven-mysteries-of-honjo.json) |
+| ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
 | PaRappa the Rapper | 269666 | [269666-parappa-the-rapper.json](./269666-parappa-the-rapper.json) |
 | Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
 | Parashotical Arktivibeatings | 235189 | [235189-parashotical-arktivibeatings.json](./235189-parashotical-arktivibeatings.json) |
@@ -1179,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peach Clicker | 312761 | [312761-peach-clicker.json](./312761-peach-clicker.json) |
 | Peach Up | 338831 | [338831-peach-up.json](./338831-peach-up.json) |
 | Peach's Christmas Invitation | 135215 | [135215-peachs-christmas-invitation.json](./135215-peachs-christmas-invitation.json) |
+| Peachboy Legend | 78941 | [78941-peachboy-legend.json](./78941-peachboy-legend.json) |
 | Peachleaf Valley: Seeds of Love | 152935 | [152935-peachleaf-valley-seeds-of-love.json](./152935-peachleaf-valley-seeds-of-love.json) |
 | Peachy | 92284 | [92284-peachy.json](./92284-peachy.json) |
 | Peachy Adventure | 173818 | [173818-peachy-adventure.json](./173818-peachy-adventure.json) |
@@ -2952,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Something Different Vol. 1 | 173788 | [173788-play-something-different-vol-1.json](./173788-play-something-different-vol-1.json) |
 | Play Tag | 116810 | [116810-play-tag.json](./116810-play-tag.json) |
 | Play Tennis | 323171 | [323171-play-tennis.json](./323171-play-tennis.json) |
+| Play the Industry | 78982 | [78982-play-the-industry.json](./78982-play-the-industry.json) |
 | Play this life | 365675 | [365675-play-this-life.json](./365675-play-this-life.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
 | Play With My Balls | 309674 | [309674-play-with-my-balls.json](./309674-play-with-my-balls.json) |
@@ -3753,8 +3757,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop-up Fox | 101471 | [101471-pop-up-fox.json](./101471-pop-up-fox.json) |
 | Pop! Slots | 370752 | [370752-pop-slots.json](./370752-pop-slots.json) |
 | Pop'n Music | 281400 | [281400-popn-music.json](./281400-popn-music.json) |
+| Pop'n Music 2 | 78975 | [78975-popn-music-2.json](./78975-popn-music-2.json) |
+| Pop'n music 3 | 78977 | [78977-popn-music-3.json](./78977-popn-music-3.json) |
 | Pop'n Music 3 Append Disc | 280791 | [280791-popn-music-3-append-disc.json](./280791-popn-music-3-append-disc.json) |
+| Pop'n Music 4 | 78978 | [78978-popn-music-4.json](./78978-popn-music-4.json) |
 | Pop'n Music 4: Append Disc | 283737 | [283737-popn-music-4-append-disc.json](./283737-popn-music-4-append-disc.json) |
+| Pop'n music 5 | 78971 | [78971-popn-music-5.json](./78971-popn-music-5.json) |
+| Pop'n music 6 | 78974 | [78974-popn-music-6.json](./78974-popn-music-6.json) |
+| Pop'n music 7 | 78976 | [78976-popn-music-7.json](./78976-popn-music-7.json) |
+| Pop'n music 8 | 78972 | [78972-popn-music-8.json](./78972-popn-music-8.json) |
+| Pop'n music 9 | 78973 | [78973-popn-music-9.json](./78973-popn-music-9.json) |
 | Pop'n Music GB: Animation Melody | 209619 | [209619-popn-music-gb-animation-melody.json](./209619-popn-music-gb-animation-melody.json) |
 | Pop'n Music Iroha | 79935 | [79935-popn-music-iroha.json](./79935-popn-music-iroha.json) |
 | Pop'n Music Lapistoria | 79936 | [79936-popn-music-lapistoria.json](./79936-popn-music-lapistoria.json) |
@@ -4082,6 +4094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerHits: BattleTech | 69864 | [69864-powerhits-battletech.json](./69864-powerhits-battletech.json) |
 | Powerline.io | 191257 | [191257-powerline-io.json](./191257-powerline-io.json) |
 | Powerplay | 311141 | [311141-powerplay.json](./311141-powerplay.json) |
+| Powerplay Hockey | 78947 | [78947-powerplay-hockey.json](./78947-powerplay-hockey.json) |
 | Powerpuff Girls: Mojo's Pet Project | 19427 | [19427-powerpuff-girls-mojos-pet-project.json](./19427-powerpuff-girls-mojos-pet-project.json) |
 | Powers of Hex | 230943 | [230943-powers-of-hex.json](./230943-powers-of-hex.json) |
 | PowerShift | 242673 | [242673-powershift.json](./242673-powershift.json) |
@@ -4157,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistoric Animals | 69223 | [69223-prehistoric-animals.json](./69223-prehistoric-animals.json) |
 | Prehistoric Dude | 138774 | [138774-prehistoric-dude.json](./138774-prehistoric-dude.json) |
 | Prehistoric Gal | 293656 | [293656-prehistoric-gal.json](./293656-prehistoric-gal.json) |
+| Prehistoric Isle | 78964 | [78964-prehistoric-isle.json](./78964-prehistoric-isle.json) |
 | Prehistoric Isle 2 | 39280 | [39280-prehistoric-isle-2.json](./39280-prehistoric-isle-2.json) |
 | Prehistoric Park | 62709 | [62709-prehistoric-park.json](./62709-prehistoric-park.json) |
 | Prehistoric Relations | 177922 | [177922-prehistoric-relations.json](./177922-prehistoric-relations.json) |
@@ -4582,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Bubbles | 280790 | [280790-professor-bubbles.json](./280790-professor-bubbles.json) |
 | Professor Chuckenhope | 109682 | [109682-professor-chuckenhope.json](./109682-professor-chuckenhope.json) |
 | Professor Doctor Jetpack | 301268 | [301268-professor-doctor-jetpack.json](./301268-professor-doctor-jetpack.json) |
+| Professor Fizzwizzle | 78943 | [78943-professor-fizzwizzle.json](./78943-professor-fizzwizzle.json) |
 | Professor Fizzwizzle and the Molten Mystery | 16175 | [16175-professor-fizzwizzle-and-the-molten-mystery.json](./16175-professor-fizzwizzle-and-the-molten-mystery.json) |
 | Professor Goodboi's Ballistics | 248654 | [248654-professor-goodbois-ballistics.json](./248654-professor-goodbois-ballistics.json) |
 | Professor Heinz Wolff's Gravity | 5109 | [5109-professor-heinz-wolffs-gravity.json](./5109-professor-heinz-wolffs-gravity.json) |
@@ -5447,6 +5462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Cube | 275146 | [275146-puzzle-cube.json](./275146-puzzle-cube.json) |
 | Puzzle Cube: Magic Urbik Game | 207876 | [207876-puzzle-cube-magic-urbik-game.json](./207876-puzzle-cube-magic-urbik-game.json) |
 | Puzzle da Moro! | 259828 | [259828-puzzle-da-moro.json](./259828-puzzle-da-moro.json) |
+| Puzzle DeFusion | 78979 | [78979-puzzle-defusion.json](./78979-puzzle-defusion.json) |
 | Puzzle Dungeon | 62776 | [62776-puzzle-dungeon.json](./62776-puzzle-dungeon.json) |
 | Puzzle Escapes: Paws & Claws | 351097 | [351097-puzzle-escapes-paws-and-claws.json](./351097-puzzle-escapes-paws-and-claws.json) |
 | Puzzle Expedition | 35614 | [35614-puzzle-expedition.json](./35614-puzzle-expedition.json) |
