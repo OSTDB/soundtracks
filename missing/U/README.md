@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | United Heist | 215677 | [215677-united-heist.json](./215677-united-heist.json) |
 | United State Presidental Race | 48604 | [48604-united-state-presidental-race.json](./48604-united-state-presidental-race.json) |
 | United States Capitals: Breakthrough Gaming Activity Center | 221976 | [221976-united-states-capitals-breakthrough-gaming-activity-center.json](./221976-united-states-capitals-breakthrough-gaming-activity-center.json) |
+| United States Quiz | 92820 | [92820-united-states-quiz.json](./92820-united-states-quiz.json) |
 | Unitied | 126373 | [126373-unitied.json](./126373-unitied.json) |
 | uniTower | 121693 | [121693-unitower.json](./121693-unitower.json) |
 | Unity Heroes | 297635 | [297635-unity-heroes.json](./297635-unity-heroes.json) |
