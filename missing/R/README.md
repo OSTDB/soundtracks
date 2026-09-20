@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replicators | 98785 | [98785-replicators.json](./98785-replicators.json) |
 | Replics | 129765 | [129765-replics.json](./129765-replics.json) |
 | Replik Survivors | 266296 | [266296-replik-survivors.json](./266296-replik-survivors.json) |
+| Replika | 92274 | [92274-replika.json](./92274-replika.json) |
 | Report One | 322808 | [322808-report-one.json](./322808-report-one.json) |
 | Report One: Operation Alive | 322809 | [322809-report-one-operation-alive.json](./322809-report-one-operation-alive.json) |
 | Reporter | 105975 | [105975-reporter.json](./105975-reporter.json) |
