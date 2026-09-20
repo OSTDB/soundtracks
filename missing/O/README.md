@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omoide ni Kawaru Kimi: Memories Off | 288773 | [288773-omoide-ni-kawaru-kimi-memories-off.json](./288773-omoide-ni-kawaru-kimi-memories-off.json) |
 | Omoikkiri Tanteidan Haado-gumi: Matenrou no Chousenjou | 41336 | [41336-omoikkiri-tanteidan-haado-gumi-matenrou-no-chousenjou.json](./41336-omoikkiri-tanteidan-haado-gumi-matenrou-no-chousenjou.json) |
 | Omoiyari wo Hagukumu Katarikake Ehon: Miffy to Asobou Utaou | 327627 | [327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json](./327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json) |
+| OMON Simulator | 122859 | [122859-omon-simulator.json](./122859-omon-simulator.json) |
 | OmOneko | 335651 | [335651-omoneko.json](./335651-omoneko.json) |
 | Omori | 26673 | [26673-omori.json](./26673-omori.json) |
 | Omoshiroi Moro | 259826 | [259826-omoshiroi-moro.json](./259826-omoshiroi-moro.json) |
