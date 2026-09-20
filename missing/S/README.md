@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sasa | 48602 | [48602-sasa.json](./48602-sasa.json) |
 | Sasayu Meshiki | 357807 | [357807-sasayu-meshiki.json](./357807-sasayu-meshiki.json) |
 | Sasuke Library 23rd | 78957 | [78957-sasuke-library-23rd.json](./78957-sasuke-library-23rd.json) |
+| SAT Prep Math 2008 | 76976 | [76976-sat-prep-math-2008.json](./76976-sat-prep-math-2008.json) |
 | SatAM Online | 331950 | [331950-satam-online.json](./331950-satam-online.json) |
 | Satan II | 380552 | [380552-satan-ii.json](./380552-satan-ii.json) |
 | Satan's Dungeon | 329593 | [329593-satans-dungeon.json](./329593-satans-dungeon.json) |
@@ -1012,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby Doc 4: The Destroyer | 356757 | [356757-scooby-doc-4-the-destroyer.json](./356757-scooby-doc-4-the-destroyer.json) |
 | Scooby Doo: Horror of the High Seas - Episode 3: Reef Relief | 337126 | [337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json](./337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json) |
 | Scooby Doo: The Motion Picture | 57641 | [57641-scooby-doo-the-motion-picture.json](./57641-scooby-doo-the-motion-picture.json) |
+| Scooby Doo! Case File #3: Frights, Camera, Mystery! | 76980 | [76980-scooby-doo-case-file-3-frights-camera-mystery.json](./76980-scooby-doo-case-file-3-frights-camera-mystery.json) |
 | Scooby-Doo | 2856 | [2856-scooby-doo.json](./2856-scooby-doo.json) |
 | Scooby-Doo 2: Monsters Unleashed - Escape from the Coolsonian | 327821 | [327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json](./327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json) |
 | Scooby-Doo and the Mystery of the Castle | 220107 | [220107-scooby-doo-and-the-mystery-of-the-castle.json](./220107-scooby-doo-and-the-mystery-of-the-castle.json) |
@@ -1504,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector 01 | 177577 | [177577-sector-01.json](./177577-sector-01.json) |
 | Sector 40: The Soviet Legacy | 133228 | [133228-sector-40-the-soviet-legacy.json](./133228-sector-40-the-soviet-legacy.json) |
 | Sector 666 | 308256 | [308256-sector-666.json](./308256-sector-666.json) |
+| Sector 724 | 76967 | [76967-sector-724.json](./76967-sector-724.json) |
 | Sector a Training Facilitea | 253029 | [253029-sector-a-training-facilitea.json](./253029-sector-a-training-facilitea.json) |
 | Sector Alpha | 183518 | [183518-sector-alpha.json](./183518-sector-alpha.json) |
 | Sector Lockdown | 382335 | [382335-sector-lockdown.json](./382335-sector-lockdown.json) |
@@ -3135,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutter | 244861 | [244861-shutter.json](./244861-shutter.json) |
 | Shutter 2 | 158547 | [158547-shutter-2.json](./158547-shutter-2.json) |
 | Shutter Chance Love | 72699 | [72699-shutter-chance-love.json](./72699-shutter-chance-love.json) |
+| Shutter Island | 76992 | [76992-shutter-island.json](./76992-shutter-island.json) |
 | Shutter Story | 358396 | [358396-shutter-story.json](./358396-shutter-story.json) |
 | Shutter Stroll | 134671 | [134671-shutter-stroll.json](./134671-shutter-stroll.json) |
 | Shutterbuds | 341475 | [341475-shutterbuds.json](./341475-shutterbuds.json) |
@@ -3428,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simnetzero | 234751 | [234751-simnetzero.json](./234751-simnetzero.json) |
 | Simon and Friends | 401687 | [401687-simon-and-friends.json](./401687-simon-and-friends.json) |
 | Simon Says | 288364 | [288364-simon-says.json](./288364-simon-says.json) |
+| Simon Says... | 76987 | [76987-simon-says.json](./76987-simon-says.json) |
 | Simon Scoop: Ace Attorney | 308551 | [308551-simon-scoop-ace-attorney.json](./308551-simon-scoop-ace-attorney.json) |
 | Simon Sees | 317438 | [317438-simon-sees.json](./317438-simon-sees.json) |
 | Simon Shotgun Arms | 302377 | [302377-simon-shotgun-arms.json](./302377-simon-shotgun-arms.json) |
@@ -3474,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Series Vol. 115: The Roomshare to Iu Seikatsu | 203336 | [203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json](./203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json) |
 | Simple 2000 Series Vol. 117: The Zerosen | 203338 | [203338-simple-2000-series-vol-117-the-zerosen.json](./203338-simple-2000-series-vol-117-the-zerosen.json) |
 | Simple 2000 Series Vol. 118: The Ochimusha - Doemu Samurai Toujou | 203339 | [203339-simple-2000-series-vol-118-the-ochimusha-doemu-samurai-toujou.json](./203339-simple-2000-series-vol-118-the-ochimusha-doemu-samurai-toujou.json) |
+| Simple 2000 Series Vol. 12: The Quiz 20000 Mon | 77013 | [77013-simple-2000-series-vol-12-the-quiz-20000-mon.json](./77013-simple-2000-series-vol-12-the-quiz-20000-mon.json) |
 | Simple 2000 Series Vol. 120: Saigo no Nippon Hei - Utsukushiki Kokudo Dakkan Sakusen | 203340 | [203340-simple-2000-series-vol-120-saigo-no-nippon-hei-utsukushiki-kokudo-dakkan-sakusen.json](./203340-simple-2000-series-vol-120-saigo-no-nippon-hei-utsukushiki-kokudo-dakkan-sakusen.json) |
 | Simple 2000 Series Vol. 14: The Billiard | 335904 | [335904-simple-2000-series-vol-14-the-billiard.json](./335904-simple-2000-series-vol-14-the-billiard.json) |
 | Simple 2000 Series Vol. 19: The Renai Simulation - Watashi ni Oma Cafe | 70431 | [70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json](./70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json) |
@@ -4409,6 +4415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slots of the Season | 147975 | [147975-slots-of-the-season.json](./147975-slots-of-the-season.json) |
 | Slots Royale: 777 Casino Games | 231072 | [231072-slots-royale-777-casino-games.json](./231072-slots-royale-777-casino-games.json) |
 | SlotsNStocks | 399718 | [399718-slotsnstocks.json](./399718-slotsnstocks.json) |
+| Slotter Chou Mania: Antonio Inoki ga Genki ni Suru Pachi-Slot Ki | 77014 | [77014-slotter-chou-mania-antonio-inoki-ga-genki-ni-suru-pachi-slot-ki.json](./77014-slotter-chou-mania-antonio-inoki-ga-genki-ni-suru-pachi-slot-ki.json) |
 | Slotter Mania 8 | 78653 | [78653-slotter-mania-8.json](./78653-slotter-mania-8.json) |
 | Slotter Mania P: Tetsuya Shinjuku vs Ueno | 62738 | [62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json](./62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json) |
 | Slotter Up Core 7: Dekitou da! Street Fighter II | 55060 | [55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json](./55060-slotter-up-core-7-dekitou-da-street-fighter-ii.json) |
@@ -6100,6 +6107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souten Koihime: Shigen no Ou | 326788 | [326788-souten-koihime-shigen-no-ou.json](./326788-souten-koihime-shigen-no-ou.json) |
 | South of Midnight: Weaver’s Edition | 329136 | [329136-south-of-midnight-weaver-s-edition.json](./329136-south-of-midnight-weaver-s-edition.json) |
 | South Park | 198486 | [198486-south-park.json](./198486-south-park.json) |
+| South Park 201 - Quizner's Trivia | 76981 | [76981-south-park-201-quizners-trivia.json](./76981-south-park-201-quizners-trivia.json) |
 | South Park Let's Go Tower Defense Play! | 1260 | [1260-south-park-lets-go-tower-defense-play.json](./1260-south-park-lets-go-tower-defense-play.json) |
 | South Park Rally | 1259 | [1259-south-park-rally.json](./1259-south-park-rally.json) |
 | South Park: Cartman's Authoritah | 144780 | [144780-south-park-cartmans-authoritah.json](./144780-south-park-cartmans-authoritah.json) |
@@ -6175,6 +6183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bubble Cat | 145476 | [145476-space-bubble-cat.json](./145476-space-bubble-cat.json) |
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
 | Space Bust-A-Move | 20484 | [20484-space-bust-a-move.json](./20484-space-bust-a-move.json) |
+| Space Cadet | 76997 | [76997-space-cadet.json](./76997-space-cadet.json) |
 | Space Cake | 61114 | [61114-space-cake.json](./61114-space-cake.json) |
 | Space Candy | 125398 | [125398-space-candy.json](./125398-space-candy.json) |
 | Space Cantina | 259073 | [259073-space-cantina.json](./259073-space-cantina.json) |
@@ -8874,6 +8883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratapath TD | 390662 | [390662-stratapath-td.json](./390662-stratapath-td.json) |
 | StratDots RTS | 381138 | [381138-stratdots-rts.json](./381138-stratdots-rts.json) |
 | Strategems | 353271 | [353271-strategems.json](./353271-strategems.json) |
+| Strategic Command Classic: WWI | 77003 | [77003-strategic-command-classic-wwi.json](./77003-strategic-command-classic-wwi.json) |
 | Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
 | Strategic Command WWII: War in the Pacific | 292538 | [292538-strategic-command-wwii-war-in-the-pacific.json](./292538-strategic-command-wwii-war-in-the-pacific.json) |
 | Strategic Command: European Theater | 51892 | [51892-strategic-command-european-theater.json](./51892-strategic-command-european-theater.json) |
@@ -9219,6 +9229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stumblehill | 117510 | [117510-stumblehill.json](./117510-stumblehill.json) |
 | Stump Me | 312886 | [312886-stump-me.json](./312886-stump-me.json) |
 | Stump Simulator | 272284 | [272284-stump-simulator.json](./272284-stump-simulator.json) |
+| Stunt Corgi | 76989 | [76989-stunt-corgi.json](./76989-stunt-corgi.json) |
 | Stunt Derby | 216863 | [216863-stunt-derby.json](./216863-stunt-derby.json) |
 | Stunt Destroyer | 204086 | [204086-stunt-destroyer.json](./204086-stunt-destroyer.json) |
 | Stunt Drifters | 124604 | [124604-stunt-drifters.json](./124604-stunt-drifters.json) |
@@ -9956,6 +9967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gears N Gators | 136228 | [136228-super-gears-n-gators.json](./136228-super-gears-n-gators.json) |
 | Super Gerball | 89179 | [89179-super-gerball.json](./89179-super-gerball.json) |
 | Super Gerry | 113641 | [113641-super-gerry.json](./113641-super-gerry.json) |
+| Super Goal! | 76999 | [76999-super-goal.json](./76999-super-goal.json) |
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
 | Super Gorilla Quest 2: A Space Chimpanzee | 347230 | [347230-super-gorilla-quest-2-a-space-chimpanzee.json](./347230-super-gorilla-quest-2-a-space-chimpanzee.json) |
 | Super Grand Prix | 15381 | [15381-super-grand-prix.json](./15381-super-grand-prix.json) |
@@ -10521,6 +10533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen Z | 79342 | [79342-super-robot-taisen-z.json](./79342-super-robot-taisen-z.json) |
 | Super Robot Taisen Z: Special Disc | 182490 | [182490-super-robot-taisen-z-special-disc.json](./182490-super-robot-taisen-z-special-disc.json) |
 | Super Robot Taisen: Scramble Commander | 62710 | [62710-super-robot-taisen-scramble-commander.json](./62710-super-robot-taisen-scramble-commander.json) |
+| Super Robot Taisen: Scramble Commander the 2nd | 76970 | [76970-super-robot-taisen-scramble-commander-the-2nd.json](./76970-super-robot-taisen-scramble-commander-the-2nd.json) |
 | Super Robot Wars 30: Limited Edition | 155096 | [155096-super-robot-wars-30-limited-edition.json](./155096-super-robot-wars-30-limited-edition.json) |
 | Super Robot Wars BX | 79337 | [79337-super-robot-wars-bx.json](./79337-super-robot-wars-bx.json) |
 | Super Robot Wars IV Scramble | 240917 | [240917-super-robot-wars-iv-scramble.json](./240917-super-robot-wars-iv-scramble.json) |
@@ -10734,6 +10747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wumpus | 152915 | [152915-super-wumpus.json](./152915-super-wumpus.json) |
 | Super X Chess | 111044 | [111044-super-x-chess.json](./111044-super-x-chess.json) |
 | Super XYX | 140036 | [140036-super-xyx.json](./140036-super-xyx.json) |
+| Super Yakyuu-dou | 76993 | [76993-super-yakyuu-dou.json](./76993-super-yakyuu-dou.json) |
 | Super Zangyura | 151652 | [151652-super-zangyura.json](./151652-super-zangyura.json) |
 | Super Zugan: Hakotenjou kara no Shoutai | 60498 | [60498-super-zugan-hakotenjou-kara-no-shoutai.json](./60498-super-zugan-hakotenjou-kara-no-shoutai.json) |
 | Super ZZT | 46656 | [46656-super-zzt.json](./46656-super-zzt.json) |
