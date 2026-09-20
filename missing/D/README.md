@@ -2366,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devastated | 129211 | [129211-devastated.json](./129211-devastated.json) |
 | Devastated Path | 265436 | [265436-devastated-path.json](./265436-devastated-path.json) |
 | Devastating Fog | 285018 | [285018-devastating-fog.json](./285018-devastating-fog.json) |
+| Devastator | 80872 | [80872-devastator.json](./80872-devastator.json) |
 | Devastators | 39632 | [39632-devastators.json](./39632-devastators.json) |
 | Devestor | 375808 | [375808-devestor.json](./375808-devestor.json) |
 | Devi & Pii | 215752 | [215752-devi-and-pii.json](./215752-devi-and-pii.json) |
@@ -2428,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devilish League | 285017 | [285017-devilish-league.json](./285017-devilish-league.json) |
 | Devilition | 318597 | [318597-devilition.json](./318597-devilition.json) |
 | Devilman | 43896 | [43896-devilman.json](./43896-devilman.json) |
+| Devilman | 80868 | [80868-devilman.json](./80868-devilman.json) |
 | Devils Due | 359520 | [359520-devils-due.json](./359520-devils-due.json) |
 | Devils of the Deep | 294738 | [294738-devils-of-the-deep.json](./294738-devils-of-the-deep.json) |
 | Devils Share | 26513 | [26513-devils-share.json](./26513-devils-share.json) |
@@ -3715,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don Pan | 55860 | [55860-don-pan.json](./55860-don-pan.json) |
 | Don Quixote: A Dream in Seven Crystals | 273124 | [273124-don-quixote-a-dream-in-seven-crystals.json](./273124-don-quixote-a-dream-in-seven-crystals.json) |
 | Don't Ask Succubus | 173822 | [173822-dont-ask-succubus.json](./173822-dont-ask-succubus.json) |
+| Don't Be Afraid | 80904 | [80904-dont-be-afraid.json](./80904-dont-be-afraid.json) |
 | Don't Be Afraid 2 | 287825 | [287825-dont-be-afraid-2.json](./287825-dont-be-afraid-2.json) |
 | Don't Be Greedy | 233522 | [233522-dont-be-greedy.json](./233522-dont-be-greedy.json) |
 | Don't Blame You | 229809 | [229809-dont-blame-you.json](./229809-dont-blame-you.json) |
@@ -5204,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Samurai | 157042 | [157042-drunken-samurai.json](./157042-drunken-samurai.json) |
 | Drunken Way to Home | 266795 | [266795-drunken-way-to-home.json](./266795-drunken-way-to-home.json) |
 | Drunken Wolf | 358880 | [358880-drunken-wolf.json](./358880-drunken-wolf.json) |
+| Drunkenpants | 80934 | [80934-drunkenpants.json](./80934-drunkenpants.json) |
 | Drunkknight | 195689 | [195689-drunkknight.json](./195689-drunkknight.json) |
 | Drunkle Ted's Wet and Wreckless | 226819 | [226819-drunkle-teds-wet-and-wreckless.json](./226819-drunkle-teds-wet-and-wreckless.json) |
 | Drunkonauts | 375201 | [375201-drunkonauts.json](./375201-drunkonauts.json) |
@@ -5491,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dungeon! | 224631 | [224631-dungeon-dungeon.json](./224631-dungeon-dungeon.json) |
 | Dungeon Duos | 83939 | [83939-dungeon-duos.json](./83939-dungeon-duos.json) |
 | Dungeon Escape | 372573 | [372573-dungeon-escape.json](./372573-dungeon-escape.json) |
+| Dungeon Escapist | 80905 | [80905-dungeon-escapist.json](./80905-dungeon-escapist.json) |
 | Dungeon Explorer | 193425 | [193425-dungeon-explorer.json](./193425-dungeon-explorer.json) |
 | Dungeon Explorer II | 42022 | [42022-dungeon-explorer-ii.json](./42022-dungeon-explorer-ii.json) |
 | Dungeon Explorer: Warriors of the Ancient Arts | 20274 | [20274-dungeon-explorer-warriors-of-the-ancient-arts.json](./20274-dungeon-explorer-warriors-of-the-ancient-arts.json) |
@@ -5697,6 +5702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duplicity Loop | 278525 | [278525-duplicity-loop.json](./278525-duplicity-loop.json) |
 | Duppy Detective Tashia | 215885 | [215885-duppy-detective-tashia.json](./215885-duppy-detective-tashia.json) |
 | Durak Online | 369668 | [369668-durak-online.json](./369668-durak-online.json) |
+| Duralumin Wind | 80914 | [80914-duralumin-wind.json](./80914-duralumin-wind.json) |
 | Durarara!! Relay | 61661 | [61661-durarara-relay.json](./61661-durarara-relay.json) |
 | Durga: The Lionhearted | 352203 | [352203-durga-the-lionhearted.json](./352203-durga-the-lionhearted.json) |
 | Duriano | 311483 | [311483-duriano.json](./311483-duriano.json) |
