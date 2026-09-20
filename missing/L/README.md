@@ -1707,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Wobbler | 219119 | [219119-line-wobbler.json](./219119-line-wobbler.json) |
 | Lineage | 388008 | [388008-lineage.json](./388008-lineage.json) |
 | Lineage | 75854 | [75854-lineage.json](./75854-lineage.json) |
+| Lineage Eternal: Twilight Resistance | 72981 | [72981-lineage-eternal-twilight-resistance.json](./72981-lineage-eternal-twilight-resistance.json) |
 | Lineage II Classic | 109600 | [109600-lineage-ii-classic.json](./109600-lineage-ii-classic.json) |
 | Lineal Distancing | 299769 | [299769-lineal-distancing.json](./299769-lineal-distancing.json) |
 | Linear S | 349331 | [349331-linear-s.json](./349331-linear-s.json) |
