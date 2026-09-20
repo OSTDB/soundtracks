@@ -3249,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship 2000 | 12129 | [12129-gunship-2000.json](./12129-gunship-2000.json) |
 | Gunship Assault | 188006 | [188006-gunship-assault.json](./188006-gunship-assault.json) |
 | Gunship Battle | 174901 | [174901-gunship-battle.json](./174901-gunship-battle.json) |
+| Gunship Battle: Total Warfare | 109500 | [109500-gunship-battle-total-warfare.json](./109500-gunship-battle-total-warfare.json) |
 | Gunship Origins | 394127 | [394127-gunship-origins.json](./394127-gunship-origins.json) |
 | Gunship Recon: Character Puzzles | 163418 | [163418-gunship-recon-character-puzzles.json](./163418-gunship-recon-character-puzzles.json) |
 | Gunship Recon: Purchase Privilege | 156168 | [156168-gunship-recon-purchase-privilege.json](./156168-gunship-recon-purchase-privilege.json) |
@@ -3351,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyre | 347749 | [347749-gyre.json](./347749-gyre.json) |
 | Gyro Gear Tournament+ | 211733 | [211733-gyro-gear-tournament.json](./211733-gyro-gear-tournament.json) |
 | Gyro Star VIP | 106553 | [106553-gyro-star-vip.json](./106553-gyro-star-vip.json) |
+| GyroCube VR | 109433 | [109433-gyrocube-vr.json](./109433-gyrocube-vr.json) |
 | Gyrodine | 39682 | [39682-gyrodine.json](./39682-gyrodine.json) |
 | Gyruss | 343878 | [343878-gyruss.json](./343878-gyruss.json) |
 | Gyruss | 343879 | [343879-gyruss.json](./343879-gyruss.json) |
