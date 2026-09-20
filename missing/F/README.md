@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Favillesco Episode 1: Genuflected on Io | 313853 | [313853-favillesco-episode-1-genuflected-on-io.json](./313853-favillesco-episode-1-genuflected-on-io.json) |
 | Fawning Over a Corpse | 266862 | [266862-fawning-over-a-corpse.json](./266862-fawning-over-a-corpse.json) |
 | Fax These to Smith!!! | 128562 | [128562-fax-these-to-smith.json](./128562-fax-these-to-smith.json) |
+| Faxion | 92271 | [92271-faxion.json](./92271-faxion.json) |
 | Faye Falling | 189136 | [189136-faye-falling.json](./189136-faye-falling.json) |
 | Faye: A Tale of Shadow | 192885 | [192885-faye-a-tale-of-shadow.json](./192885-faye-a-tale-of-shadow.json) |
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
@@ -3804,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
 | Frog Story: The Power Tongue | 289451 | [289451-frog-story-the-power-tongue.json](./289451-frog-story-the-power-tongue.json) |
 | Frog Street A-Z | 100818 | [100818-frog-street-a-z.json](./100818-frog-street-a-z.json) |
+| Frogatto | 92280 | [92280-frogatto.json](./92280-frogatto.json) |
 | Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
 | FrogFlop | 313295 | [313295-frogflop.json](./313295-frogflop.json) |
 | Froggee | 93020 | [93020-froggee.json](./93020-froggee.json) |
