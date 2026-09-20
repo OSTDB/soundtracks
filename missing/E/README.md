@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force: World Brothers 2 - Humanity Dominates!? Air Raider (EDF6) Up & Coming: Reskin | 325433 | [325433-earth-defense-force-world-brothers-2-humanity-dominates-air-raider-edf6-up-and-coming-reskin.json](./325433-earth-defense-force-world-brothers-2-humanity-dominates-air-raider-edf6-up-and-coming-reskin.json) |
 | Earth Invasion | 72085 | [72085-earth-invasion.json](./72085-earth-invasion.json) |
 | Earth Marines | 153862 | [153862-earth-marines.json](./153862-earth-marines.json) |
+| Earth Muncher | 95178 | [95178-earth-muncher.json](./95178-earth-muncher.json) |
 | Earth Saver | 59386 | [59386-earth-saver.json](./59386-earth-saver.json) |
 | Earth Saves Our Love | 267392 | [267392-earth-saves-our-love.json](./267392-earth-saves-our-love.json) |
 | Earth Science | 159176 | [159176-earth-science.json](./159176-earth-science.json) |
@@ -1466,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erik: Phantom of the Opera | 55082 | [55082-erik-phantom-of-the-opera.json](./55082-erik-phantom-of-the-opera.json) |
 | Erika America | 351008 | [351008-erika-america.json](./351008-erika-america.json) |
 | Erina & A Mansao Rosaria | 219253 | [219253-erina-and-a-mansao-rosaria.json](./219253-erina-and-a-mansao-rosaria.json) |
+| Erinye | 95222 | [95222-erinye.json](./95222-erinye.json) |
 | Erion | 228699 | [228699-erion.json](./228699-erion.json) |
 | Eris and the Fading Kingdom | 208589 | [208589-eris-and-the-fading-kingdom.json](./208589-eris-and-the-fading-kingdom.json) |
 | Eris Dysnomia | 253379 | [253379-eris-dysnomia.json](./253379-eris-dysnomia.json) |
@@ -1677,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Challenge | 120973 | [120973-escape-the-challenge.json](./120973-escape-the-challenge.json) |
 | Escape the City | 170910 | [170910-escape-the-city.json](./170910-escape-the-city.json) |
 | Escape the Dark Tower | 260233 | [260233-escape-the-dark-tower.json](./260233-escape-the-dark-tower.json) |
+| Escape the Darkness | 95166 | [95166-escape-the-darkness.json](./95166-escape-the-darkness.json) |
 | Escape The Escape Rooms | 237066 | [237066-escape-the-escape-rooms.json](./237066-escape-the-escape-rooms.json) |
 | Escape The Evil | 297093 | [297093-escape-the-evil.json](./297093-escape-the-evil.json) |
 | Escape the Farm | 274486 | [274486-escape-the-farm.json](./274486-escape-the-farm.json) |
@@ -1834,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Liiivie: EP1 Liiivie - Isolated From the World | 284348 | [284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json](./284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json) |
 | Eternal Magic: Keeper | 171013 | [171013-eternal-magic-keeper.json](./171013-eternal-magic-keeper.json) |
 | Eternal Man: Jump | 99605 | [99605-eternal-man-jump.json](./99605-eternal-man-jump.json) |
+| Eternal Man: Mountain | 95194 | [95194-eternal-man-mountain.json](./95194-eternal-man-mountain.json) |
 | Eternal Mansion | 323743 | [323743-eternal-mansion.json](./323743-eternal-mansion.json) |
 | Eternal Night Glory | 326253 | [326253-eternal-night-glory.json](./326253-eternal-night-glory.json) |
 | Eternal Night Town | 339802 | [339802-eternal-night-town.json](./339802-eternal-night-town.json) |
