@@ -4044,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Poets | 399698 | [399698-slam-poets.json](./399698-slam-poets.json) |
 | Slam Tilt | 70944 | [70944-slam-tilt.json](./70944-slam-tilt.json) |
 | Slam! | 94696 | [94696-slam.json](./94696-slam.json) |
+| Slamball | 94553 | [94553-slamball.json](./94553-slamball.json) |
 | Slammer Caps Xtreme | 358854 | [358854-slammer-caps-xtreme.json](./358854-slammer-caps-xtreme.json) |
 | Slamslide | 183594 | [183594-slamslide.json](./183594-slamslide.json) |
 | Slap Circle | 237644 | [237644-slap-circle.json](./237644-slap-circle.json) |
@@ -10457,6 +10458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sky Arena | 9569 | [9569-super-sky-arena.json](./9569-super-sky-arena.json) |
 | Super Skyland | 175406 | [175406-super-skyland.json](./175406-super-skyland.json) |
 | Super Slam Dunk Touchdown | 27664 | [27664-super-slam-dunk-touchdown.json](./27664-super-slam-dunk-touchdown.json) |
+| Super Slap Shot | 94561 | [94561-super-slap-shot.json](./94561-super-slap-shot.json) |
 | Super Slide 64 | 135179 | [135179-super-slide-64.json](./135179-super-slide-64.json) |
 | Super Slime Blitz: Gumball | 102603 | [102603-super-slime-blitz-gumball.json](./102603-super-slime-blitz-gumball.json) |
 | Super Slime Boy | 335956 | [335956-super-slime-boy.json](./335956-super-slime-boy.json) |
