@@ -952,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivaldia 2 | 272358 | [272358-vivaldia-2.json](./272358-vivaldia-2.json) |
 | Vivat Slovakia | 216496 | [216496-vivat-slovakia.json](./216496-vivat-slovakia.json) |
 | Vive le Roi | 31789 | [31789-vive-le-roi.json](./31789-vive-le-roi.json) |
+| Vive le Roi 2 | 101356 | [101356-vive-le-roi-2.json](./101356-vive-le-roi-2.json) |
 | Vivecraft | 370146 | [370146-vivecraft.json](./370146-vivecraft.json) |
 | Vivian and Kyuma | 282021 | [282021-vivian-and-kyuma.json](./282021-vivian-and-kyuma.json) |
 | Vivian's Kurse | 151037 | [151037-vivians-kurse.json](./151037-vivians-kurse.json) |
