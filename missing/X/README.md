@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Man | 79301 | [79301-x-man.json](./79301-x-man.json) |
 | X-Mas Bubble Mania | 385066 | [385066-x-mas-bubble-mania.json](./385066-x-mas-bubble-mania.json) |
 | X-Mas Eve | 224572 | [224572-x-mas-eve.json](./224572-x-mas-eve.json) |
+| X-mas Lamers | 72320 | [72320-x-mas-lamers.json](./72320-x-mas-lamers.json) |
 | X-Men | 363894 | [363894-x-men.json](./363894-x-men.json) |
 | X-Men | 80408 | [80408-x-men.json](./80408-x-men.json) |
 | X-Men | 81251 | [81251-x-men.json](./81251-x-men.json) |
