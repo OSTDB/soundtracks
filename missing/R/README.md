@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re Rive | 202323 | [202323-re-rive.json](./202323-re-rive.json) |
 | Re-Blood | 198357 | [198357-re-blood.json](./198357-re-blood.json) |
 | Re-bot | 75906 | [75906-re-bot.json](./75906-re-bot.json) |
+| Re-O-Ri | 111493 | [111493-re-o-ri.json](./111493-re-o-ri.json) |
 | Re-Pair | 139249 | [139249-re-pair.json](./139249-re-pair.json) |
 | Re-Spawn Tournament | 213465 | [213465-re-spawn-tournament.json](./213465-re-spawn-tournament.json) |
 | Re-telling | 176955 | [176955-re-telling.json](./176955-re-telling.json) |
@@ -2736,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roboban: Colors | 302938 | [302938-roboban-colors.json](./302938-roboban-colors.json) |
 | Robobeat | 192534 | [192534-robobeat.json](./192534-robobeat.json) |
 | RoboBlaster | 181869 | [181869-roboblaster.json](./181869-roboblaster.json) |
+| RoboBunnies In Space! | 111495 | [111495-robobunnies-in-space.json](./111495-robobunnies-in-space.json) |
 | Robocco Wars | 72649 | [72649-robocco-wars.json](./72649-robocco-wars.json) |
 | RoboCo | 121739 | [121739-roboco.json](./121739-roboco.json) |
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
@@ -2891,6 +2893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocka Feller | 100122 | [100122-rocka-feller.json](./100122-rocka-feller.json) |
 | Rockabilly Kid | 171549 | [171549-rockabilly-kid.json](./171549-rockabilly-kid.json) |
 | Rockaroids | 63808 | [63808-rockaroids.json](./63808-rockaroids.json) |
+| Rocket Adventure | 111448 | [111448-rocket-adventure.json](./111448-rocket-adventure.json) |
 | Rocket Angels Inc | 239770 | [239770-rocket-angels-inc.json](./239770-rocket-angels-inc.json) |
 | Rocket Arena: Mythic Edition | 136456 | [136456-rocket-arena-mythic-edition.json](./136456-rocket-arena-mythic-edition.json) |
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
