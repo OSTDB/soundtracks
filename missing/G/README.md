@@ -2674,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Facade: The Artist and The Pretender - Collector's Edition | 110373 | [110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json](./110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json) |
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Joggers | 336014 | [336014-grim-joggers.json](./336014-grim-joggers.json) |
+| Grim Legends Collection | 118847 | [118847-grim-legends-collection.json](./118847-grim-legends-collection.json) |
 | Grim Legions | 23842 | [23842-grim-legions.json](./23842-grim-legions.json) |
 | Grim Nights | 110185 | [110185-grim-nights.json](./110185-grim-nights.json) |
 | Grim Omens | 319199 | [319199-grim-omens.json](./319199-grim-omens.json) |
