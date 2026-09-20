@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Phone Found in Tall Grass | 245025 | [245025-a-phone-found-in-tall-grass.json](./245025-a-phone-found-in-tall-grass.json) |
 | A Piano Tale | 201677 | [201677-a-piano-tale.json](./201677-a-piano-tale.json) |
 | A Place Far Away | 367479 | [367479-a-place-far-away.json](./367479-a-place-far-away.json) |
+| A Plague Tale: Innocence - Coats of Arms | 118201 | [118201-a-plague-tale-innocence-coats-of-arms.json](./118201-a-plague-tale-innocence-coats-of-arms.json) |
 | A Plague Tale: Requiem - Cloud Version | 206817 | [206817-a-plague-tale-requiem-cloud-version.json](./206817-a-plague-tale-requiem-cloud-version.json) |
 | A Plant's Life | 63845 | [63845-a-plants-life.json](./63845-a-plants-life.json) |
 | A Platformer for Ants | 82150 | [82150-a-platformer-for-ants.json](./82150-a-platformer-for-ants.json) |
@@ -585,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Act of Aggression: Reboot Edition | 52552 | [52552-act-of-aggression-reboot-edition.json](./52552-act-of-aggression-reboot-edition.json) |
 | Actala: The Hero's Shadow | 219700 | [219700-actala-the-heros-shadow.json](./219700-actala-the-heros-shadow.json) |
 | Action 52 | 238205 | [238205-action-52.json](./238205-action-52.json) |
+| Action 69 | 118200 | [118200-action-69.json](./118200-action-69.json) |
 | Action Ball Deluxe | 177040 | [177040-action-ball-deluxe.json](./177040-action-ball-deluxe.json) |
 | Action Biker | 13671 | [13671-action-biker.json](./13671-action-biker.json) |
 | Action Biker Starring Clumsy Colin | 45338 | [45338-action-biker-starring-clumsy-colin.json](./45338-action-biker-starring-clumsy-colin.json) |
@@ -673,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Academia: The Fractured Continent - Vol.2 Bonus Unit: Kiesel | 220753 | [220753-adventure-academia-the-fractured-continent-vol-2-bonus-unit-kiesel.json](./220753-adventure-academia-the-fractured-continent-vol-2-bonus-unit-kiesel.json) |
 | Adventure Academia: The Fractured Continent - Vol.2 Bonus Unit: Lazuli | 220754 | [220754-adventure-academia-the-fractured-continent-vol-2-bonus-unit-lazuli.json](./220754-adventure-academia-the-fractured-continent-vol-2-bonus-unit-lazuli.json) |
 | Adventure Academia: The Fractured Continent - Vol.2 Challenge Quest: Danger Mountain March EX | 220755 | [220755-adventure-academia-the-fractured-continent-vol-2-challenge-quest-danger-mountain-march-ex.json](./220755-adventure-academia-the-fractured-continent-vol-2-challenge-quest-danger-mountain-march-ex.json) |
+| Adventure Academy | 118175 | [118175-adventure-academy.json](./118175-adventure-academy.json) |
 | Adventure Apes and the Mayan Mystery | 33017 | [33017-adventure-apes-and-the-mayan-mystery.json](./33017-adventure-apes-and-the-mayan-mystery.json) |
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
 | Adventure C: The Ship of Doom | 72641 | [72641-adventure-c-the-ship-of-doom.json](./72641-adventure-c-the-ship-of-doom.json) |
@@ -985,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat MF | 121009 | [121009-air-combat-mf.json](./121009-air-combat-mf.json) |
 | Air Combat Revolution | 61062 | [61062-air-combat-revolution.json](./61062-air-combat-revolution.json) |
 | Air Conflicts Collection | 52572 | [52572-air-conflicts-collection.json](./52572-air-conflicts-collection.json) |
+| Air Conflicts: Double Pack | 118198 | [118198-air-conflicts-double-pack.json](./118198-air-conflicts-double-pack.json) |
 | Air Conflicts: Secret Wars | 3830 | [3830-air-conflicts-secret-wars.json](./3830-air-conflicts-secret-wars.json) |
 | Air Conflicts: Secret Wars - Ultimate Edition | 27783 | [27783-air-conflicts-secret-wars-ultimate-edition.json](./27783-air-conflicts-secret-wars-ultimate-edition.json) |
 | Air Conflicts: Vietnam Ultimate Edition | 44546 | [44546-air-conflicts-vietnam-ultimate-edition.json](./44546-air-conflicts-vietnam-ultimate-edition.json) |
@@ -1507,6 +1511,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens vs. Predator Collection | 52587 | [52587-aliens-vs-predator-collection.json](./52587-aliens-vs-predator-collection.json) |
 | Aliens, Plasma Guns & Chewing Gum | 305385 | [305385-aliens-plasma-guns-and-chewing-gum.json](./305385-aliens-plasma-guns-and-chewing-gum.json) |
 | Aliens: Colonial Marines | 1021 | [1021-aliens-colonial-marines.json](./1021-aliens-colonial-marines.json) |
+| Aliens: Colonial Marines - Bug Hunt | 118179 | [118179-aliens-colonial-marines-bug-hunt.json](./118179-aliens-colonial-marines-bug-hunt.json) |
+| Aliens: Colonial Marines - Collector's Edition Pack | 118184 | [118184-aliens-colonial-marines-collectors-edition-pack.json](./118184-aliens-colonial-marines-collectors-edition-pack.json) |
+| Aliens: Colonial Marines - Limited Edition Pack | 118185 | [118185-aliens-colonial-marines-limited-edition-pack.json](./118185-aliens-colonial-marines-limited-edition-pack.json) |
+| Aliens: Colonial Marines - Movie Map Pack | 118182 | [118182-aliens-colonial-marines-movie-map-pack.json](./118182-aliens-colonial-marines-movie-map-pack.json) |
+| Aliens: Colonial Marines - Reconnaissance Pack | 118183 | [118183-aliens-colonial-marines-reconnaissance-pack.json](./118183-aliens-colonial-marines-reconnaissance-pack.json) |
+| Aliens: Colonial Marines - Sawed-off Double Barrel Shotgun | 118186 | [118186-aliens-colonial-marines-sawed-off-double-barrel-shotgun.json](./118186-aliens-colonial-marines-sawed-off-double-barrel-shotgun.json) |
+| Aliens: Colonial Marines - Sharp Sticks | 118187 | [118187-aliens-colonial-marines-sharp-sticks.json](./118187-aliens-colonial-marines-sharp-sticks.json) |
 | Aliens: Fireteam Elite | 144153 | [144153-aliens-fireteam-elite.json](./144153-aliens-fireteam-elite.json) |
 | Aliens: Fireteam Elite - Hardened Marine Pack | 247755 | [247755-aliens-fireteam-elite-hardened-marine-pack.json](./247755-aliens-fireteam-elite-hardened-marine-pack.json) |
 | Aliens: Fireteam Elite - Pathogen | 204435 | [204435-aliens-fireteam-elite-pathogen.json](./204435-aliens-fireteam-elite-pathogen.json) |
@@ -2008,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American McGee Presents: Scrapland | 20289 | [20289-american-mcgee-presents-scrapland.json](./20289-american-mcgee-presents-scrapland.json) |
 | American Motorcycle Simulator | 133223 | [133223-american-motorcycle-simulator.json](./133223-american-motorcycle-simulator.json) |
 | American Navy Seals | 410967 | [410967-american-navy-seals.json](./410967-american-navy-seals.json) |
+| American Ninja Warrior: Challenge | 118196 | [118196-american-ninja-warrior-challenge.json](./118196-american-ninja-warrior-challenge.json) |
 | American Patriots: The Swamp Fox | 111018 | [111018-american-patriots-the-swamp-fox.json](./111018-american-patriots-the-swamp-fox.json) |
 | American Poker | 14252 | [14252-american-poker.json](./14252-american-poker.json) |
 | American Pool | 43928 | [43928-american-pool.json](./43928-american-pool.json) |
@@ -2840,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
 | Any Other Color | 408133 | [408133-any-other-color.json](./408133-any-other-color.json) |
 | Anykey Simulator | 31787 | [31787-anykey-simulator.json](./31787-anykey-simulator.json) |
+| Anyone's Diary | 118160 | [118160-anyones-diary.json](./118160-anyones-diary.json) |
 | Anything Simulator | 391181 | [391181-anything-simulator.json](./391181-anything-simulator.json) |
 | Anytime Pool | 65488 | [65488-anytime-pool.json](./65488-anytime-pool.json) |
 | AnyWay! | 102412 | [102412-anyway.json](./102412-anyway.json) |
