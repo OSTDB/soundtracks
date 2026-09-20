@@ -2494,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlipPix Jigsaw - Spicy | 96047 | [96047-flippix-jigsaw-spicy.json](./96047-flippix-jigsaw-spicy.json) |
 | Flippy Boat | 104471 | [104471-flippy-boat.json](./104471-flippy-boat.json) |
 | Flippy Bottle Extreme 2! | 340996 | [340996-flippy-bottle-extreme-2.json](./340996-flippy-bottle-extreme-2.json) |
+| Flippy Bottle Extreme! | 98790 | [98790-flippy-bottle-extreme.json](./98790-flippy-bottle-extreme.json) |
 | Flippy Hills | 107666 | [107666-flippy-hills.json](./107666-flippy-hills.json) |
 | FlipRide Rush | 409526 | [409526-flipride-rush.json](./409526-flipride-rush.json) |
 | Flips: Artemis Fowl | 66667 | [66667-flips-artemis-fowl.json](./66667-flips-artemis-fowl.json) |
