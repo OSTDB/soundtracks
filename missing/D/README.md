@@ -1001,10 +1001,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Blue Rose | 304881 | [304881-dead-blue-rose.json](./304881-dead-blue-rose.json) |
 | Dead Body Falls | 120331 | [120331-dead-body-falls.json](./120331-dead-body-falls.json) |
 | Dead by Daylight: A Binding of Kin Chapter | 168867 | [168867-dead-by-daylight-a-binding-of-kin-chapter.json](./168867-dead-by-daylight-a-binding-of-kin-chapter.json) |
+| Dead by Daylight: A Lullaby for the Dark Chapter | 76224 | [76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json](./76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json) |
 | Dead by Daylight: Chucky Chapter | 278424 | [278424-dead-by-daylight-chucky-chapter.json](./278424-dead-by-daylight-chucky-chapter.json) |
 | Dead by Daylight: Gold Edition | 282124 | [282124-dead-by-daylight-gold-edition.json](./282124-dead-by-daylight-gold-edition.json) |
 | Dead by Daylight: Hellraiser Chapter | 167819 | [167819-dead-by-daylight-hellraiser-chapter.json](./167819-dead-by-daylight-hellraiser-chapter.json) |
+| Dead by Daylight: Leatherface | 76225 | [76225-dead-by-daylight-leatherface.json](./76225-dead-by-daylight-leatherface.json) |
 | Dead by Daylight: Macabre Tales Pack | 283186 | [283186-dead-by-daylight-macabre-tales-pack.json](./283186-dead-by-daylight-macabre-tales-pack.json) |
+| Dead by Daylight: Of Flesh and Mud Chapter | 76222 | [76222-dead-by-daylight-of-flesh-and-mud-chapter.json](./76222-dead-by-daylight-of-flesh-and-mud-chapter.json) |
 | Dead by Daylight: Old Wounds Pack | 283185 | [283185-dead-by-daylight-old-wounds-pack.json](./283185-dead-by-daylight-old-wounds-pack.json) |
 | Dead by Daylight: Resident Evil - Chris Redfield | 358419 | [358419-dead-by-daylight-resident-evil-chris-redfield.json](./358419-dead-by-daylight-resident-evil-chris-redfield.json) |
 | Dead by Daylight: Resident Evil - Claire Redfield | 358416 | [358416-dead-by-daylight-resident-evil-claire-redfield.json](./358416-dead-by-daylight-resident-evil-claire-redfield.json) |
@@ -1015,7 +1018,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Silent Hill - James Sunderland | 358415 | [358415-dead-by-daylight-silent-hill-james-sunderland.json](./358415-dead-by-daylight-silent-hill-james-sunderland.json) |
 | Dead by Daylight: Silent Hill - Lisa Garland | 358411 | [358411-dead-by-daylight-silent-hill-lisa-garland.json](./358411-dead-by-daylight-silent-hill-lisa-garland.json) |
 | Dead by Daylight: Silent Hill Edition | 139976 | [139976-dead-by-daylight-silent-hill-edition.json](./139976-dead-by-daylight-silent-hill-edition.json) |
+| Dead by Daylight: Spark of Madness Chapter | 76223 | [76223-dead-by-daylight-spark-of-madness-chapter.json](./76223-dead-by-daylight-spark-of-madness-chapter.json) |
 | Dead by Daylight: Stranger Things - Jonathan Byers | 358410 | [358410-dead-by-daylight-stranger-things-jonathan-byers.json](./358410-dead-by-daylight-stranger-things-jonathan-byers.json) |
+| Dead by Daylight: The Halloween Chapter | 76221 | [76221-dead-by-daylight-the-halloween-chapter.json](./76221-dead-by-daylight-the-halloween-chapter.json) |
+| Dead by Daylight: The Last Breath Chapter | 76220 | [76220-dead-by-daylight-the-last-breath-chapter.json](./76220-dead-by-daylight-the-last-breath-chapter.json) |
 | Dead by Daylight: The Walking Dead | 358407 | [358407-dead-by-daylight-the-walking-dead.json](./358407-dead-by-daylight-the-walking-dead.json) |
 | Dead by Daylight: The Walking Dead - Daryl Dixon | 358409 | [358409-dead-by-daylight-the-walking-dead-daryl-dixon.json](./358409-dead-by-daylight-the-walking-dead-daryl-dixon.json) |
 | Dead by Wheel: Battle Royal | 109718 | [109718-dead-by-wheel-battle-royal.json](./109718-dead-by-wheel-battle-royal.json) |
@@ -3204,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disorder | 229692 | [229692-disorder.json](./229692-disorder.json) |
 | Disorder | 229817 | [229817-disorder.json](./229817-disorder.json) |
 | Disorderly | 356625 | [356625-disorderly.json](./356625-disorderly.json) |
+| Disoriented | 76212 | [76212-disoriented.json](./76212-disoriented.json) |
 | Dispersio | 26489 | [26489-dispersio.json](./26489-dispersio.json) |
 | Dispersio 2 | 143652 | [143652-dispersio-2.json](./143652-dispersio-2.json) |
 | Displaced | 28939 | [28939-displaced.json](./28939-displaced.json) |
@@ -3970,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Eternal: The Ancient Gods - Part Two | 144731 | [144731-doom-eternal-the-ancient-gods-part-two.json](./144731-doom-eternal-the-ancient-gods-part-two.json) |
 | Doom Eternal: Year One Pass | 293919 | [293919-doom-eternal-year-one-pass.json](./293919-doom-eternal-year-one-pass.json) |
 | Doom Fighters | 202839 | [202839-doom-fighters.json](./202839-doom-fighters.json) |
+| Doom GTS | 76246 | [76246-doom-gts.json](./76246-doom-gts.json) |
 | Doom II + Final Doom | 132823 | [132823-doom-ii-final-doom.json](./132823-doom-ii-final-doom.json) |
 | Doom II: 'D'-Radys Companion Mod | 202834 | [202834-doom-ii-d-radys-companion-mod.json](./202834-doom-ii-d-radys-companion-mod.json) |
 | Doom II: Ascension | 202842 | [202842-doom-ii-ascension.json](./202842-doom-ii-ascension.json) |
