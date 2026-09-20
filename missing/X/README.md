@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xióng Chuǎng Tiānxià | 325062 | [325062-xiong-chuang-tianxia.json](./325062-xiong-chuang-tianxia.json) |
 | Xiuzhen Idle | 237480 | [237480-xiuzhen-idle.json](./237480-xiuzhen-idle.json) |
 | XIX | 282701 | [282701-xix.json](./282701-xix.json) |
+| Xixit | 94532 | [94532-xixit.json](./94532-xixit.json) |
 | Xjump | 291602 | [291602-xjump.json](./291602-xjump.json) |
 | xkcd: Hoverboard | 59459 | [59459-xkcd-hoverboard.json](./59459-xkcd-hoverboard.json) |
 | Xmas Boom | 254136 | [254136-xmas-boom.json](./254136-xmas-boom.json) |
