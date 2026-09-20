@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Day Solitaire | 339789 | [339789-easter-day-solitaire.json](./339789-easter-day-solitaire.json) |
 | Easter Egg | 127225 | [127225-easter-egg.json](./127225-easter-egg.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
+| Easteria | 105747 | [105747-easteria.json](./105747-easteria.json) |
 | Eastern Europe 1259 | 356157 | [356157-eastern-europe-1259.json](./356157-eastern-europe-1259.json) |
 | Eastern Europe Bus Sim | 232454 | [232454-eastern-europe-bus-sim.json](./232454-eastern-europe-bus-sim.json) |
 | Eastern Exorcist | 121235 | [121235-eastern-exorcist.json](./121235-eastern-exorcist.json) |
@@ -785,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
 | Elmo's Monster Maker HD | 89732 | [89732-elmos-monster-maker-hd.json](./89732-elmos-monster-maker-hd.json) |
 | Elo 1100 Chess | 192404 | [192404-elo-1100-chess.json](./192404-elo-1100-chess.json) |
+| Elo Hell | 105744 | [105744-elo-hell.json](./105744-elo-hell.json) |
 | ELOA: Elite Lord of Alliance | 26535 | [26535-eloa-elite-lord-of-alliance.json](./26535-eloa-elite-lord-of-alliance.json) |
 | Elon and the Divine Proof | 326066 | [326066-elon-and-the-divine-proof.json](./326066-elon-and-the-divine-proof.json) |
 | Elon on Mars | 120997 | [120997-elon-on-mars.json](./120997-elon-on-mars.json) |
@@ -1283,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entity | 282713 | [282713-entity.json](./282713-entity.json) |
 | Entity Research Group | 388947 | [388947-entity-research-group.json](./388947-entity-research-group.json) |
 | Entity Researchers | 159260 | [159260-entity-researchers.json](./159260-entity-researchers.json) |
+| Entity: A Horror Escape | 105790 | [105790-entity-a-horror-escape.json](./105790-entity-a-horror-escape.json) |
 | Entity: The Black Day | 260168 | [260168-entity-the-black-day.json](./260168-entity-the-black-day.json) |
 | Entomophobia | 195153 | [195153-entomophobia.json](./195153-entomophobia.json) |
 | Entomorph: Plague of the Darkfall | 3138 | [3138-entomorph-plague-of-the-darkfall.json](./3138-entomorph-plague-of-the-darkfall.json) |
