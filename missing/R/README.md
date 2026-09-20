@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders5 | 40166 | [40166-raiders5.json](./40166-raiders5.json) |
 | RaidersSphere4th | 35981 | [35981-raiderssphere4th.json](./35981-raiderssphere4th.json) |
 | Raidfield 2 | 160242 | [160242-raidfield-2.json](./160242-raidfield-2.json) |
+| Raidlands | 125826 | [125826-raidlands.json](./125826-raidlands.json) |
 | Raidol: Injoku ni Ochita Seiningyou | 108970 | [108970-raidol-injoku-ni-ochita-seiningyou.json](./108970-raidol-injoku-ni-ochita-seiningyou.json) |
 | Raids of Nohosphere | 116395 | [116395-raids-of-nohosphere.json](./116395-raids-of-nohosphere.json) |
 | Raik | 135688 | [135688-raik.json](./135688-raik.json) |
@@ -543,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randungeon | 326073 | [326073-randungeon.json](./326073-randungeon.json) |
 | Rangarok End Girls | 309357 | [309357-rangarok-end-girls.json](./309357-rangarok-end-girls.json) |
 | Range Ball | 104056 | [104056-range-ball.json](./104056-range-ball.json) |
+| Range Game | 125837 | [125837-range-game.json](./125837-range-game.json) |
 | Range is HOT! | 146230 | [146230-range-is-hot.json](./146230-range-is-hot.json) |
 | Range Royale | 108426 | [108426-range-royale.json](./108426-range-royale.json) |
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
