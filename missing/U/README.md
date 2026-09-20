@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Truco | 132768 | [132768-ultimate-truco.json](./132768-ultimate-truco.json) |
 | Ultimate Under Water | 155658 | [155658-ultimate-under-water.json](./155658-ultimate-under-water.json) |
 | Ultimate Vitality of Imagination | 210685 | [210685-ultimate-vitality-of-imagination.json](./210685-ultimate-vitality-of-imagination.json) |
+| Ultimate VR Collection | 108863 | [108863-ultimate-vr-collection.json](./108863-ultimate-vr-collection.json) |
 | Ultimate Wall Defense Force | 149566 | [149566-ultimate-wall-defense-force.json](./149566-ultimate-wall-defense-force.json) |
 | Ultimate Yahtzee | 69218 | [69218-ultimate-yahtzee.json](./69218-ultimate-yahtzee.json) |
 | Ultimate Zombie Defense 2 | 211801 | [211801-ultimate-zombie-defense-2.json](./211801-ultimate-zombie-defense-2.json) |
