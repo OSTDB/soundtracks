@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
 | Kaisho | 276270 | [276270-kaisho.json](./276270-kaisho.json) |
 | Kaite Oboeru Doragana | 66034 | [66034-kaite-oboeru-doragana.json](./66034-kaite-oboeru-doragana.json) |
+| Kaite Shabette Hajimeyou! Monster Farm DS | 98248 | [98248-kaite-shabette-hajimeyou-monster-farm-ds.json](./98248-kaite-shabette-hajimeyou-monster-farm-ds.json) |
 | Kaitei Daisensou | 40215 | [40215-kaitei-daisensou.json](./40215-kaitei-daisensou.json) |
 | Kaitei Takara Sagashi | 40214 | [40214-kaitei-takara-sagashi.json](./40214-kaitei-takara-sagashi.json) |
 | Kaitou Elf Liely | 246107 | [246107-kaitou-elf-liely.json](./246107-kaitou-elf-liely.json) |
