@@ -1210,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle For Dream Island Again 5b | 138011 | [138011-battle-for-dream-island-again-5b.json](./138011-battle-for-dream-island-again-5b.json) |
 | Battle For It All | 87192 | [87192-battle-for-it-all.json](./87192-battle-for-it-all.json) |
 | Battle For Life | 63801 | [63801-battle-for-life.json](./63801-battle-for-life.json) |
+| Battle For Presidency | 64653 | [64653-battle-for-presidency.json](./64653-battle-for-presidency.json) |
 | Battle for the Ashes | 14290 | [14290-battle-for-the-ashes.json](./14290-battle-for-the-ashes.json) |
 | Battle for the Board | 259091 | [259091-battle-for-the-board.json](./259091-battle-for-the-board.json) |
 | Battle for the Kingdom | 156631 | [156631-battle-for-the-kingdom.json](./156631-battle-for-the-kingdom.json) |
