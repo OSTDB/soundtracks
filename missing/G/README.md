@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts'n DJs | 129198 | [129198-ghostsn-djs.json](./129198-ghostsn-djs.json) |
 | Ghoststory | 89954 | [89954-ghoststory.json](./89954-ghoststory.json) |
 | Ghostwinter | 148558 | [148558-ghostwinter.json](./148558-ghostwinter.json) |
+| Ghostwire | 91724 | [91724-ghostwire.json](./91724-ghostwire.json) |
 | Ghostwire Tokyo: Spider's Thread | 246125 | [246125-ghostwire-tokyo-spiders-thread.json](./246125-ghostwire-tokyo-spiders-thread.json) |
 | Ghostwire: Tokyo - Deluxe Edition | 192309 | [192309-ghostwire-tokyo-deluxe-edition.json](./192309-ghostwire-tokyo-deluxe-edition.json) |
 | Ghosty Party | 232532 | [232532-ghosty-party.json](./232532-ghosty-party.json) |
