@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
 | Adventure Inlay: Safari Edition | 52550 | [52550-adventure-inlay-safari-edition.json](./52550-adventure-inlay-safari-edition.json) |
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
+| Adventure Llama | 104463 | [104463-adventure-llama.json](./104463-adventure-llama.json) |
 | Adventure Maker: Runiya | 107638 | [107638-adventure-maker-runiya.json](./107638-adventure-maker-runiya.json) |
 | Adventure Mansion | 283899 | [283899-adventure-mansion.json](./283899-adventure-mansion.json) |
 | Adventure Master | 381130 | [381130-adventure-master.json](./381130-adventure-master.json) |
@@ -2526,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Zodiac | 298880 | [298880-animal-zodiac.json](./298880-animal-zodiac.json) |
 | Animal Zoo: The Forgotten Land | 314879 | [314879-animal-zoo-the-forgotten-land.json](./314879-animal-zoo-the-forgotten-land.json) |
 | Animalia | 216337 | [216337-animalia.json](./216337-animalia.json) |
+| Animalia Education: Family | 104484 | [104484-animalia-education-family.json](./104484-animalia-education-family.json) |
 | Animalia Survival | 167832 | [167832-animalia-survival.json](./167832-animalia-survival.json) |
 | Animalia Survival: Haloween Pack | 263051 | [263051-animalia-survival-haloween-pack.json](./263051-animalia-survival-haloween-pack.json) |
 | Animallica | 43361 | [43361-animallica.json](./43361-animallica.json) |
@@ -4666,6 +4668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
 | Atypian | 369046 | [369046-atypian.json](./369046-atypian.json) |
 | Au Sable | 125855 | [125855-au-sable.json](./125855-au-sable.json) |
+| Aube | 104450 | [104450-aube.json](./104450-aube.json) |
 | Audica: 5 Seconds of Summer - "Youngblood" | 358945 | [358945-audica-5-seconds-of-summer-youngblood.json](./358945-audica-5-seconds-of-summer-youngblood.json) |
 | Audica: Ariana Grande - "Into You" | 358946 | [358946-audica-ariana-grande-into-you.json](./358946-audica-ariana-grande-into-you.json) |
 | Audica: Chvrches - "The Mother We Share" | 358947 | [358947-audica-chvrches-the-mother-we-share.json](./358947-audica-chvrches-the-mother-we-share.json) |
