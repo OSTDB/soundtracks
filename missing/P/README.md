@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Battle | 172781 | [172781-paddle-battle.json](./172781-paddle-battle.json) |
 | Paddle Cats | 411573 | [411573-paddle-cats.json](./411573-paddle-cats.json) |
 | Paddle Combat | 164441 | [164441-paddle-combat.json](./164441-paddle-combat.json) |
+| Paddle Fall | 115454 | [115454-paddle-fall.json](./115454-paddle-fall.json) |
 | Paddle Together | 366244 | [366244-paddle-together.json](./366244-paddle-together.json) |
 | Paddler | 403650 | [403650-paddler.json](./403650-paddler.json) |
 | Paddles | 214545 | [214545-paddles.json](./214545-paddles.json) |
@@ -909,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile 2: The Last of the Druids | 378276 | [378276-path-of-exile-2-the-last-of-the-druids.json](./378276-path-of-exile-2-the-last-of-the-druids.json) |
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
 | Path of Exile: Settlers of Kalguur | 310958 | [310958-path-of-exile-settlers-of-kalguur.json](./310958-path-of-exile-settlers-of-kalguur.json) |
+| Path of Exile: Synthesis | 115463 | [115463-path-of-exile-synthesis.json](./115463-path-of-exile-synthesis.json) |
 | Path of Gear: Blacksmith’s Legend | 358971 | [358971-path-of-gear-blacksmith-s-legend.json](./358971-path-of-gear-blacksmith-s-legend.json) |
 | Path of Heaven | 278142 | [278142-path-of-heaven.json](./278142-path-of-heaven.json) |
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
@@ -5175,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Back | 133445 | [133445-push-back.json](./133445-push-back.json) |
 | Push Box | 167261 | [167261-push-box.json](./167261-push-box.json) |
 | Push Comes to Shovel | 211783 | [211783-push-comes-to-shovel.json](./211783-push-comes-to-shovel.json) |
+| Push Pull | 115442 | [115442-push-pull.json](./115442-push-pull.json) |
 | Push Push Cat | 234333 | [234333-push-push-cat.json](./234333-push-push-cat.json) |
 | Push Push Penguin | 209600 | [209600-push-push-penguin.json](./209600-push-push-penguin.json) |
 | Push Puzzle: Rescue Adventure | 179205 | [179205-push-puzzle-rescue-adventure.json](./179205-push-puzzle-rescue-adventure.json) |
