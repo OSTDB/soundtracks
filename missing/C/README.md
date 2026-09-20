@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Digger: Riches | 107230 | [107230-cave-digger-riches.json](./107230-cave-digger-riches.json) |
 | Cave Diver | 362819 | [362819-cave-diver.json](./362819-cave-diver.json) |
 | Cave Escape | 294272 | [294272-cave-escape.json](./294272-cave-escape.json) |
+| Cave Escape | 83949 | [83949-cave-escape.json](./83949-cave-escape.json) |
 | Cave Escape With FNIA Chica | 280909 | [280909-cave-escape-with-fnia-chica.json](./280909-cave-escape-with-fnia-chica.json) |
 | Cave Explorer | 165675 | [165675-cave-explorer.json](./165675-cave-explorer.json) |
 | Cave Fighter | 7898 | [7898-cave-fighter.json](./7898-cave-fighter.json) |
