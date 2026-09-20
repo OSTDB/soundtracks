@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Testbed Terror | 50541 | [50541-testbed-terror.json](./50541-testbed-terror.json) |
 | Tested With Robots! | 85433 | [85433-tested-with-robots.json](./85433-tested-with-robots.json) |
 | Tester | 397704 | [397704-tester.json](./397704-tester.json) |
+| Tester Phase One | 98809 | [98809-tester-phase-one.json](./98809-tester-phase-one.json) |
 | Testimony of Help | 268228 | [268228-testimony-of-help.json](./268228-testimony-of-help.json) |
 | Testing Facility | 274181 | [274181-testing-facility.json](./274181-testing-facility.json) |
 | Testing Pool | 262424 | [262424-testing-pool.json](./262424-testing-pool.json) |
@@ -9501,6 +9502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transylvania | 12262 | [12262-transylvania.json](./12262-transylvania.json) |
 | Transylvania III: Vanquish the Night | 15533 | [15533-transylvania-iii-vanquish-the-night.json](./15533-transylvania-iii-vanquish-the-night.json) |
 | Tranz Am | 45358 | [45358-tranz-am.json](./45358-tranz-am.json) |
+| Trap | 98772 | [98772-trap.json](./98772-trap.json) |
 | Trap Adventure 2: Origins | 196322 | [196322-trap-adventure-2-origins.json](./196322-trap-adventure-2-origins.json) |
 | Trap and Turn | 210640 | [210640-trap-and-turn.json](./210640-trap-and-turn.json) |
 | Trap Attack | 257107 | [257107-trap-attack.json](./257107-trap-attack.json) |
