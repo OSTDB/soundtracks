@@ -1966,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herta's Chess Game | 309371 | [309371-hertas-chess-game.json](./309371-hertas-chess-game.json) |
 | HertenHeld | 322183 | [322183-hertenheld.json](./322183-hertenheld.json) |
 | Hertz | 244902 | [244902-hertz.json](./244902-hertz.json) |
+| Herzog | 93370 | [93370-herzog.json](./93370-herzog.json) |
 | HesGames | 84269 | [84269-hesgames.json](./84269-hesgames.json) |
 | Hesperian Wars | 229367 | [229367-hesperian-wars.json](./229367-hesperian-wars.json) |
 | Hessian Landing | 386268 | [386268-hessian-landing.json](./386268-hessian-landing.json) |
@@ -3084,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
 | Hopepunk City | 255098 | [255098-hopepunk-city.json](./255098-hopepunk-city.json) |
 | Hopfall | 370126 | [370126-hopfall.json](./370126-hopfall.json) |
+| Hopkins FBI | 93389 | [93389-hopkins-fbi.json](./93389-hopkins-fbi.json) |
 | Hoplichess | 156013 | [156013-hoplichess.json](./156013-hoplichess.json) |
 | Hoppa | 129574 | [129574-hoppa.json](./129574-hoppa.json) |
 | Hoppe Chan: Punitto Shibotte Daibouken! | 222538 | [222538-hoppe-chan-punitto-shibotte-daibouken.json](./222538-hoppe-chan-punitto-shibotte-daibouken.json) |
