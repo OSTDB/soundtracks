@@ -1965,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rev. Noir | 389436 | [389436-rev-noir.json](./389436-rev-noir.json) |
 | Rev'd Up Racing | 312195 | [312195-revd-up-racing.json](./312195-revd-up-racing.json) |
 | Revamped | 260216 | [260216-revamped.json](./260216-revamped.json) |
+| Reveal Fantasia | 112136 | [112136-reveal-fantasia.json](./112136-reveal-fantasia.json) |
 | Revealed | 388705 | [388705-revealed.json](./388705-revealed.json) |
 | Revelation | 263510 | [263510-revelation.json](./263510-revelation.json) |
 | Revelation of Decay | 301606 | [301606-revelation-of-decay.json](./301606-revelation-of-decay.json) |
@@ -3635,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubicon | 79242 | [79242-rubicon.json](./79242-rubicon.json) |
 | Rubik's Cube 3-D | 40755 | [40755-rubiks-cube-3-d.json](./40755-rubiks-cube-3-d.json) |
 | Rubik's Cube Challenge | 209026 | [209026-rubiks-cube-challenge.json](./209026-rubiks-cube-challenge.json) |
+| Rubik's Cube VR | 112126 | [112126-rubiks-cube-vr.json](./112126-rubiks-cube-vr.json) |
 | Rubix Roller | 153821 | [153821-rubix-roller.json](./153821-rubix-roller.json) |
 | Ruby and the Lost Crystals | 360581 | [360581-ruby-and-the-lost-crystals.json](./360581-ruby-and-the-lost-crystals.json) |
 | Ruby Crush | 270417 | [270417-ruby-crush.json](./270417-ruby-crush.json) |
