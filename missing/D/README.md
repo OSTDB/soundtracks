@@ -1747,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliver Us Mars: Deluxe Edition | 204468 | [204468-deliver-us-mars-deluxe-edition.json](./204468-deliver-us-mars-deluxe-edition.json) |
 | Deliver us the Moon: Deluxe Edition | 166177 | [166177-deliver-us-the-moon-deluxe-edition.json](./166177-deliver-us-the-moon-deluxe-edition.json) |
 | Deliver us the Moon: Digital Deluxe | 227351 | [227351-deliver-us-the-moon-digital-deluxe.json](./227351-deliver-us-the-moon-digital-deluxe.json) |
+| Deliverace | 97101 | [97101-deliverace.json](./97101-deliverace.json) |
 | Deliverage | 406212 | [406212-deliverage.json](./406212-deliverage.json) |
 | Deliverance | 195242 | [195242-deliverance.json](./195242-deliverance.json) |
 | Deliverance | 322990 | [322990-deliverance.json](./322990-deliverance.json) |
@@ -5473,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Grandmasters | 322802 | [322802-dungeon-of-grandmasters.json](./322802-dungeon-of-grandmasters.json) |
 | Dungeon of Memories | 295807 | [295807-dungeon-of-memories.json](./295807-dungeon-of-memories.json) |
 | Dungeon of Minos | 175346 | [175346-dungeon-of-minos.json](./175346-dungeon-of-minos.json) |
+| Dungeon of Minos - movable maze | 97142 | [97142-dungeon-of-minos-movable-maze.json](./97142-dungeon-of-minos-movable-maze.json) |
 | Dungeon of Souls | 103900 | [103900-dungeon-of-souls.json](./103900-dungeon-of-souls.json) |
 | Dungeon of the Damned | 200585 | [200585-dungeon-of-the-damned.json](./200585-dungeon-of-the-damned.json) |
 | Dungeon of the Endless: Deep Freeze | 168244 | [168244-dungeon-of-the-endless-deep-freeze.json](./168244-dungeon-of-the-endless-deep-freeze.json) |
