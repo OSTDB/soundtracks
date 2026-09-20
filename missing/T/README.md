@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taking Root | 263045 | [263045-taking-root.json](./263045-taking-root.json) |
 | Takishawa is Dead | 242655 | [242655-takishawa-is-dead.json](./242655-takishawa-is-dead.json) |
 | Tako no Himitsu: Ocean of Secrets | 250031 | [250031-tako-no-himitsu-ocean-of-secrets.json](./250031-tako-no-himitsu-ocean-of-secrets.json) |
+| Tako no Marine | 107647 | [107647-tako-no-marine.json](./107647-tako-no-marine.json) |
 | Takorita Meets Fries | 158181 | [158181-takorita-meets-fries.json](./158181-takorita-meets-fries.json) |
 | Takoyaki Party Survival | 213972 | [213972-takoyaki-party-survival.json](./213972-takoyaki-party-survival.json) |
 | Takuhai Maid Shiiko-san | 77944 | [77944-takuhai-maid-shiiko-san.json](./77944-takuhai-maid-shiiko-san.json) |
@@ -1272,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Of Snek | 127777 | [127777-temple-of-snek.json](./127777-temple-of-snek.json) |
 | Temple of Spider | 316982 | [316982-temple-of-spider.json](./316982-temple-of-spider.json) |
 | Temple of Tangram | 198519 | [198519-temple-of-tangram.json](./198519-temple-of-tangram.json) |
+| Temple of the Abyssal Winds | 107673 | [107673-temple-of-the-abyssal-winds.json](./107673-temple-of-the-abyssal-winds.json) |
 | Temple of the Apsara | 31835 | [31835-temple-of-the-apsara.json](./31835-temple-of-the-apsara.json) |
 | Temple of the Faceless Minotaur Who Sees the Burning Light | 128616 | [128616-temple-of-the-faceless-minotaur-who-sees-the-burning-light.json](./128616-temple-of-the-faceless-minotaur-who-sees-the-burning-light.json) |
 | Temple of the Lizardmen | 142486 | [142486-temple-of-the-lizardmen.json](./142486-temple-of-the-lizardmen.json) |
@@ -1678,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text Wall | 339272 | [339272-text-wall.json](./339272-text-wall.json) |
 | Text Your Life | 339270 | [339270-text-your-life.json](./339270-text-your-life.json) |
 | Text: Russia | 160233 | [160233-text-russia.json](./160233-text-russia.json) |
+| Texthoth Ludo: Arcanum Senki | 107631 | [107631-texthoth-ludo-arcanum-senki.json](./107631-texthoth-ludo-arcanum-senki.json) |
 | Textiling | 182904 | [182904-textiling.json](./182904-textiling.json) |
 | TextQuests | 397056 | [397056-textquests.json](./397056-textquests.json) |
 | Textris | 62713 | [62713-textris.json](./62713-textris.json) |
@@ -8788,6 +8791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toypunk | 403575 | [403575-toypunk.json](./403575-toypunk.json) |
 | Toys Dream | 82822 | [82822-toys-dream.json](./82822-toys-dream.json) |
 | Toys Jigsaw Puzzle | 100748 | [100748-toys-jigsaw-puzzle.json](./100748-toys-jigsaw-puzzle.json) |
+| Toys Moto | 107664 | [107664-toys-moto.json](./107664-toys-moto.json) |
 | Toys vs. Monsters | 85451 | [85451-toys-vs-monsters.json](./85451-toys-vs-monsters.json) |
 | Toys: Crash Arena | 221396 | [221396-toys-crash-arena.json](./221396-toys-crash-arena.json) |
 | ToyShot VR | 112982 | [112982-toyshot-vr.json](./112982-toyshot-vr.json) |
