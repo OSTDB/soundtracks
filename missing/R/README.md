@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Aktor | 383382 | [383382-re-aktor.json](./383382-re-aktor.json) |
 | Re:Award | 171460 | [171460-re-award.json](./171460-re-award.json) |
 | Re:Bf | 193405 | [193405-re-bf.json](./193405-re-bf.json) |
+| Re:Bounding | 107668 | [107668-re-bounding.json](./107668-re-bounding.json) |
 | Re:Call | 92486 | [92486-re-call.json](./92486-re-call.json) |
 | Re:Connect | 306064 | [306064-re-connect.json](./306064-re-connect.json) |
 | Re:D Cherish! SS: Desperado's One Operation | 370696 | [370696-re-d-cherish-ss-desperados-one-operation.json](./370696-re-d-cherish-ss-desperados-one-operation.json) |
@@ -836,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Legend | 51535 | [51535-re-legend.json](./51535-re-legend.json) |
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
 | Re:Ozma | 118162 | [118162-re-ozma.json](./118162-re-ozma.json) |
+| Re:Spite | 107644 | [107644-re-spite.json](./107644-re-spite.json) |
 | Re:Turn - One Way Trip | 138021 | [138021-re-turn-one-way-trip.json](./138021-re-turn-one-way-trip.json) |
 | Re:Vessel | 202321 | [202321-re-vessel.json](./202321-re-vessel.json) |
 | Re:Zero - Infinity | 193944 | [193944-re-zero-infinity.json](./193944-re-zero-infinity.json) |
