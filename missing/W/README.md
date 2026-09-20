@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warblade | 128358 | [128358-warblade.json](./128358-warblade.json) |
 | Warborn: Variable Armour Command | 112598 | [112598-warborn-variable-armour-command.json](./112598-warborn-variable-armour-command.json) |
 | Warborne: Above Ashes | 333102 | [333102-warborne-above-ashes.json](./333102-warborne-above-ashes.json) |
+| Warbot | 86523 | [86523-warbot.json](./86523-warbot.json) |
 | Warbot Engineer | 337458 | [337458-warbot-engineer.json](./337458-warbot-engineer.json) |
 | Warbox | 232010 | [232010-warbox.json](./232010-warbox.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
