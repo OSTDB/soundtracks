@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absinth | 68905 | [68905-absinth.json](./68905-absinth.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
 | Absolute Alchemical Potion | 158555 | [158555-absolute-alchemical-potion.json](./158555-absolute-alchemical-potion.json) |
+| Absolute Backgammon | 100605 | [100605-absolute-backgammon.json](./100605-absolute-backgammon.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
@@ -4129,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed III: The Battle Hardened Pack | 151548 | [151548-assassins-creed-iii-the-battle-hardened-pack.json](./151548-assassins-creed-iii-the-battle-hardened-pack.json) |
 | Assassin's Creed IV Black Flag: Aveline | 26095 | [26095-assassins-creed-iv-black-flag-aveline.json](./26095-assassins-creed-iv-black-flag-aveline.json) |
 | Assassin's Creed IV: Black Flag - Buccaneer Edition | 89872 | [89872-assassins-creed-iv-black-flag-buccaneer-edition.json](./89872-assassins-creed-iv-black-flag-buccaneer-edition.json) |
+| Assassin's Creed IV: Black Flag - Jackdaw Edition | 100553 | [100553-assassins-creed-iv-black-flag-jackdaw-edition.json](./100553-assassins-creed-iv-black-flag-jackdaw-edition.json) |
 | Assassin's Creed Jade | 216319 | [216319-assassins-creed-jade.json](./216319-assassins-creed-jade.json) |
 | Assassin's Creed Mirage & Assassin's Creed Valhalla Bundle | 271474 | [271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json](./271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json) |
 | Assassin's Creed Mirage Master Assassin Upgrade Bundle 2 | 360574 | [360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json](./360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json) |
