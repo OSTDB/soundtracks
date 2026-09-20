@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep | 184605 | [184605-deep.json](./184605-deep.json) |
 | Deep Alchemy Dungeon | 207500 | [207500-deep-alchemy-dungeon.json](./207500-deep-alchemy-dungeon.json) |
 | Deep Among the Swarm | 285013 | [285013-deep-among-the-swarm.json](./285013-deep-among-the-swarm.json) |
+| Deep Blue | 75524 | [75524-deep-blue.json](./75524-deep-blue.json) |
 | Deep Blue Fantasy | 253612 | [253612-deep-blue-fantasy.json](./253612-deep-blue-fantasy.json) |
 | Deep Blue Odyssey | 244475 | [244475-deep-blue-odyssey.json](./244475-deep-blue-odyssey.json) |
 | Deep Blue Sea | 73300 | [73300-deep-blue-sea.json](./73300-deep-blue-sea.json) |
@@ -1947,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Tier+ | 134015 | [134015-demons-tier.json](./134015-demons-tier.json) |
 | Demon's Tilt | 106363 | [106363-demons-tilt.json](./106363-demons-tilt.json) |
 | Demon's World | 39634 | [39634-demons-world.json](./39634-demons-world.json) |
+| Demon&Fairy | 75521 | [75521-demon-and-fairy.json](./75521-demon-and-fairy.json) |
 | Demonborg Mining Co | 367391 | [367391-demonborg-mining-co.json](./367391-demonborg-mining-co.json) |
 | DemonCrawl: Arena Plus | 172150 | [172150-demoncrawl-arena-plus.json](./172150-demoncrawl-arena-plus.json) |
 | Demonic Bundle | 192305 | [192305-demonic-bundle.json](./192305-demonic-bundle.json) |
