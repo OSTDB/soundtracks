@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittengumi: The Sakabato's Thief | 258467 | [258467-kittengumi-the-sakabatos-thief.json](./258467-kittengumi-the-sakabatos-thief.json) |
 | Kittenrock Cats - A Hidden Object Game | 255973 | [255973-kittenrock-cats-a-hidden-object-game.json](./255973-kittenrock-cats-a-hidden-object-game.json) |
 | Kittenrock Cats - A Hidden Object Game | 287657 | [287657-kittenrock-cats-a-hidden-object-game.json](./287657-kittenrock-cats-a-hidden-object-game.json) |
+| Kittens and Cacti | 71236 | [71236-kittens-and-cacti.json](./71236-kittens-and-cacti.json) |
 | Kittens of Fear | 155664 | [155664-kittens-of-fear.json](./155664-kittens-of-fear.json) |
 | Kittens with Cannons | 179122 | [179122-kittens-with-cannons.json](./179122-kittens-with-cannons.json) |
 | Kittens' Maze | 149950 | [149950-kittens-maze.json](./149950-kittens-maze.json) |
