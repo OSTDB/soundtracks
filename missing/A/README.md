@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Quake 2 | 221842 | [221842-action-quake-2.json](./221842-action-quake-2.json) |
 | Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
+| Action Reactor | 119558 | [119558-action-reactor.json](./119558-action-reactor.json) |
 | Action Study Runner | 379472 | [379472-action-study-runner.json](./379472-action-study-runner.json) |
 | ActionCam: Supernatural Case | 333529 | [333529-actioncam-supernatural-case.json](./333529-actioncam-supernatural-case.json) |
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
@@ -818,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Fall: Frontrunner Season | 204497 | [204497-after-the-fall-frontrunner-season.json](./204497-after-the-fall-frontrunner-season.json) |
 | After the Fall: Launch Edition | 196313 | [196313-after-the-fall-launch-edition.json](./196313-after-the-fall-launch-edition.json) |
 | After the Meteor Shower | 230940 | [230940-after-the-meteor-shower.json](./230940-after-the-meteor-shower.json) |
+| After the Suns | 119533 | [119533-after-the-suns.json](./119533-after-the-suns.json) |
 | After the Wane | 387356 | [387356-after-the-wane.json](./387356-after-the-wane.json) |
 | After Work | 360586 | [360586-after-work.json](./360586-after-work.json) |
 | After-H : Zombies | 141798 | [141798-after-h-zombies.json](./141798-after-h-zombies.json) |
@@ -3832,6 +3834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Reading Games | 59948 | [59948-arthurs-reading-games.json](./59948-arthurs-reading-games.json) |
 | Arthur's Revenge | 141141 | [141141-arthurs-revenge.json](./141141-arthurs-revenge.json) |
 | Arthur’s Tale | 405578 | [405578-arthur-s-tale.json](./405578-arthur-s-tale.json) |
+| Artifact Adventure Gaiden DX | 119527 | [119527-artifact-adventure-gaiden-dx.json](./119527-artifact-adventure-gaiden-dx.json) |
 | Artifact Run | 384534 | [384534-artifact-run.json](./384534-artifact-run.json) |
 | Artifact Seekers | 366306 | [366306-artifact-seekers.json](./366306-artifact-seekers.json) |
 | Artifacto | 180103 | [180103-artifacto.json](./180103-artifacto.json) |
@@ -4314,6 +4317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrohazard Solutions Ltd. | 75772 | [75772-astrohazard-solutions-ltd.json](./75772-astrohazard-solutions-ltd.json) |
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
 | Astroman | 91944 | [91944-astroman.json](./91944-astroman.json) |
+| AstroMiner | 119546 | [119546-astrominer.json](./119546-astrominer.json) |
 | AstroN | 91912 | [91912-astron.json](./91912-astron.json) |
 | Astronaut Simulator | 396223 | [396223-astronaut-simulator.json](./396223-astronaut-simulator.json) |
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
@@ -4750,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AV Bishoujo Senshi Girl Fighting | 48591 | [48591-av-bishoujo-senshi-girl-fighting.json](./48591-av-bishoujo-senshi-girl-fighting.json) |
 | AV Director Life! | 346669 | [346669-av-director-life.json](./346669-av-director-life.json) |
 | AV Pachinko | 242089 | [242089-av-pachinko.json](./242089-av-pachinko.json) |
+| Ava | 119569 | [119569-ava.json](./119569-ava.json) |
 | AVA | 367997 | [367997-ava.json](./367997-ava.json) |
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
 | Ava's Adventure | 258693 | [258693-avas-adventure.json](./258693-avas-adventure.json) |
