@@ -1877,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChatBattlers | 316821 | [316821-chatbattlers.json](./316821-chatbattlers.json) |
 | ChatBBT | 291451 | [291451-chatbbt.json](./291451-chatbbt.json) |
 | Chatbotaged | 208471 | [208471-chatbotaged.json](./208471-chatbotaged.json) |
+| ChatChat | 80226 | [80226-chatchat.json](./80226-chatchat.json) |
 | Château Pluie: The New Cellar Keeper | 412309 | [412309-chateau-pluie-the-new-cellar-keeper.json](./412309-chateau-pluie-the-new-cellar-keeper.json) |
 | Château Royale Jigsaw | 357875 | [357875-chateau-royale-jigsaw.json](./357875-chateau-royale-jigsaw.json) |
 | Château Royale Jigsaw: Expansion Pack 1 | 357876 | [357876-chateau-royale-jigsaw-expansion-pack-1.json](./357876-chateau-royale-jigsaw-expansion-pack-1.json) |
@@ -3370,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Dungeon | 185592 | [185592-code-dungeon.json](./185592-code-dungeon.json) |
 | Code Eagle! | 246438 | [246438-code-eagle.json](./246438-code-eagle.json) |
 | Code Exit | 292540 | [292540-code-exit.json](./292540-code-exit.json) |
+| Code Geass: Hangyaku no Lelouch | 80230 | [80230-code-geass-hangyaku-no-lelouch.json](./80230-code-geass-hangyaku-no-lelouch.json) |
 | Code Lyoko: Get Ready to Virtualize | 8453 | [8453-code-lyoko-get-ready-to-virtualize.json](./8453-code-lyoko-get-ready-to-virtualize.json) |
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
 | Code Name: MA | 174835 | [174835-code-name-ma.json](./174835-code-name-ma.json) |
@@ -6384,4 +6386,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cytus Alpha | 106290 | [106290-cytus-alpha.json](./106290-cytus-alpha.json) |
 | Cytus II | 89095 | [89095-cytus-ii.json](./89095-cytus-ii.json) |
 | Cytus II: Miku | 358866 | [358866-cytus-ii-miku.json](./358866-cytus-ii-miku.json) |
+| Cytus Lambda | 80227 | [80227-cytus-lambda.json](./80227-cytus-lambda.json) |
 | Cyyer | 298698 | [298698-cyyer.json](./298698-cyyer.json) |
