@@ -3876,6 +3876,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Hostess | 240888 | [240888-hyper-hostess.json](./240888-hyper-hostess.json) |
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
 | Hyper Metroid Super | 349938 | [349938-hyper-metroid-super.json](./349938-hyper-metroid-super.json) |
+| Hyper Olympic '84 Vol. 1 | 98245 | [98245-hyper-olympic-84-vol-1.json](./98245-hyper-olympic-84-vol-1.json) |
+| Hyper Olympic '84 Vol. 2 | 98246 | [98246-hyper-olympic-84-vol-2.json](./98246-hyper-olympic-84-vol-2.json) |
 | Hyper Olympic: Challenge 5 | 385738 | [385738-hyper-olympic-challenge-5.json](./385738-hyper-olympic-challenge-5.json) |
 | Hyper Olympic: Jumping Type | 385734 | [385734-hyper-olympic-jumping-type.json](./385734-hyper-olympic-jumping-type.json) |
 | Hyper Paddle Block Rusher | 222323 | [222323-hyper-paddle-block-rusher.json](./222323-hyper-paddle-block-rusher.json) |
