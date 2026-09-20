@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Strike '75 | 310172 | [310172-oil-strike-75.json](./310172-oil-strike-75.json) |
 | Oil Truck Transporter | 310055 | [310055-oil-truck-transporter.json](./310055-oil-truck-transporter.json) |
 | Oil Tycoon 2 | 219261 | [219261-oil-tycoon-2.json](./219261-oil-tycoon-2.json) |
+| Oiled | 101361 | [101361-oiled.json](./101361-oiled.json) |
 | Oink Royale | 185600 | [185600-oink-royale.json](./185600-oink-royale.json) |
 | Oirbo | 118398 | [118398-oirbo.json](./118398-oirbo.json) |
 | Oishii Puzzle ha Irimasen ka | 312364 | [312364-oishii-puzzle-ha-irimasen-ka.json](./312364-oishii-puzzle-ha-irimasen-ka.json) |
@@ -1872,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ovus Nova | 185623 | [185623-ovus-nova.json](./185623-ovus-nova.json) |
 | Owarinaki Natsu, Towa Naru Shirabe | 202383 | [202383-owarinaki-natsu-towa-naru-shirabe.json](./202383-owarinaki-natsu-towa-naru-shirabe.json) |
 | Owe Money Pay Money | 301251 | [301251-owe-money-pay-money.json](./301251-owe-money-pay-money.json) |
+| Owen to have fun! | 101363 | [101363-owen-to-have-fun.json](./101363-owen-to-have-fun.json) |
 | Owl Bounce | 378912 | [378912-owl-bounce.json](./378912-owl-bounce.json) |
 | Owl Glider Adventure | 359432 | [359432-owl-glider-adventure.json](./359432-owl-glider-adventure.json) |
 | Owl Observatory | 278717 | [278717-owl-observatory.json](./278717-owl-observatory.json) |
