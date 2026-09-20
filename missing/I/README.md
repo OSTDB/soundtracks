@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernal Chess | 333398 | [333398-infernal-chess.json](./333398-infernal-chess.json) |
 | Infernal Dream Collection | 53230 | [53230-infernal-dream-collection.json](./53230-infernal-dream-collection.json) |
 | Infernal Eclipse of Ragnarok | 379350 | [379350-infernal-eclipse-of-ragnarok.json](./379350-infernal-eclipse-of-ragnarok.json) |
+| Infernal Racket | 72355 | [72355-infernal-racket.json](./72355-infernal-racket.json) |
 | Infernal Wave | 259645 | [259645-infernal-wave.json](./259645-infernal-wave.json) |
 | Infernal West | 415107 | [415107-infernal-west.json](./415107-infernal-west.json) |
 | Infernax | 122386 | [122386-infernax.json](./122386-infernax.json) |
