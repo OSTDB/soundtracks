@@ -2539,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippo Teeth | 41422 | [41422-hippo-teeth.json](./41422-hippo-teeth.json) |
 | Hippo: Little Red Riding Hood | 233007 | [233007-hippo-little-red-riding-hood.json](./233007-hippo-little-red-riding-hood.json) |
 | Hippodrome | 39680 | [39680-hippodrome.json](./39680-hippodrome.json) |
+| Hippy's Quest | 78362 | [78362-hippys-quest.json](./78362-hippys-quest.json) |
 | Hipster Cafe | 99649 | [99649-hipster-cafe.json](./99649-hipster-cafe.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
 | Hiraeth | 291584 | [291584-hiraeth.json](./291584-hiraeth.json) |
