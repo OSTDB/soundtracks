@@ -5039,6 +5039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montone | 415887 | [415887-montone.json](./415887-montone.json) |
 | MonTowers2 | 224008 | [224008-montowers2.json](./224008-montowers2.json) |
 | Monty Mole Island | 282731 | [282731-monty-mole-island.json](./282731-monty-mole-island.json) |
+| Monty on the Norm | 71243 | [71243-monty-on-the-norm.json](./71243-monty-on-the-norm.json) |
 | Monty Python & the Quest for the Holy Grail | 8552 | [8552-monty-python-and-the-quest-for-the-holy-grail.json](./8552-monty-python-and-the-quest-for-the-holy-grail.json) |
 | Monty Python's Invasion from the Planet Skyron | 45924 | [45924-monty-pythons-invasion-from-the-planet-skyron.json](./45924-monty-pythons-invasion-from-the-planet-skyron.json) |
 | Monty the Komodo Dragon | 324505 | [324505-monty-the-komodo-dragon.json](./324505-monty-the-komodo-dragon.json) |
