@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Cinema Tycoon | 369567 | [369567-idle-cinema-tycoon.json](./369567-idle-cinema-tycoon.json) |
 | Idle Colony | 299782 | [299782-idle-colony.json](./299782-idle-colony.json) |
 | Idle Colors | 402893 | [402893-idle-colors.json](./402893-idle-colors.json) |
+| Idle Cooking Emperor | 117480 | [117480-idle-cooking-emperor.json](./117480-idle-cooking-emperor.json) |
 | Idle Craft | 333081 | [333081-idle-craft.json](./333081-idle-craft.json) |
 | Idle Cutter | 247213 | [247213-idle-cutter.json](./247213-idle-cutter.json) |
 | Idle Death Knight | 208031 | [208031-idle-death-knight.json](./208031-idle-death-knight.json) |
@@ -579,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If I Were in a Sealed Room With a Girl, I'd Probably XXX | 93530 | [93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json](./93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json) |
 | If Monks Had Macs... | 366833 | [366833-if-monks-had-macs.json](./366833-if-monks-had-macs.json) |
 | If My Heart Had Wings | 196874 | [196874-if-my-heart-had-wings.json](./196874-if-my-heart-had-wings.json) |
+| If My Heart had Wings: Flight Diary - New Wings: Akari | 117522 | [117522-if-my-heart-had-wings-flight-diary-new-wings-akari.json](./117522-if-my-heart-had-wings-flight-diary-new-wings-akari.json) |
 | If Nil then | 201326 | [201326-if-nil-then.json](./201326-if-nil-then.json) |
 | If Platformers Were Rpgs | 181796 | [181796-if-platformers-were-rpgs.json](./181796-if-platformers-were-rpgs.json) |
 | If U Seek Amy | 327415 | [327415-if-u-seek-amy.json](./327415-if-u-seek-amy.json) |
@@ -617,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IHRA Drag Racing: Sportsman Edition | 20547 | [20547-ihra-drag-racing-sportsman-edition.json](./20547-ihra-drag-racing-sportsman-edition.json) |
 | IHugU | 68611 | [68611-ihugu.json](./68611-ihugu.json) |
 | II-III-V | 180808 | [180808-ii-iii-v.json](./180808-ii-iii-v.json) |
+| Iii | 117539 | [117539-iii.json](./117539-iii.json) |
 | III Spy | 71453 | [71453-iii-spy.json](./71453-iii-spy.json) |
 | iii: Revolving Wonderland | 151701 | [151701-iii-revolving-wonderland.json](./151701-iii-revolving-wonderland.json) |
 | IIslands of War | 126162 | [126162-iislands-of-war.json](./126162-iislands-of-war.json) |
@@ -1007,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Bungle 2: Breakout Indies | 414340 | [414340-indie-bungle-2-breakout-indies.json](./414340-indie-bungle-2-breakout-indies.json) |
 | Indie Darling Bundle Vol 2 | 147790 | [147790-indie-darling-bundle-vol-2.json](./147790-indie-darling-bundle-vol-2.json) |
 | Indie Darling Bundle Vol. 1 | 146693 | [146693-indie-darling-bundle-vol-1.json](./146693-indie-darling-bundle-vol-1.json) |
+| Indie Darling Bundle Vol.3 | 117528 | [117528-indie-darling-bundle-vol-3.json](./117528-indie-darling-bundle-vol-3.json) |
 | Indie Dream | 118975 | [118975-indie-dream.json](./118975-indie-dream.json) |
 | Indie Game Sim | 26552 | [26552-indie-game-sim.json](./26552-indie-game-sim.json) |
 | Indie Gems Bundle - Explosions Edition | 147802 | [147802-indie-gems-bundle-explosions-edition.json](./147802-indie-gems-bundle-explosions-edition.json) |
@@ -1943,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Simulator 2016 | 31914 | [31914-island-simulator-2016.json](./31914-island-simulator-2016.json) |
 | Island Survival: Craft, Build, Grow | 314858 | [314858-island-survival-craft-build-grow.json](./314858-island-survival-craft-build-grow.json) |
 | Island Survival: Escape from Paradise | 413088 | [413088-island-survival-escape-from-paradise.json](./413088-island-survival-escape-from-paradise.json) |
+| Island Town Zombie Paradise | 117478 | [117478-island-town-zombie-paradise.json](./117478-island-town-zombie-paradise.json) |
 | Island Tribe 4 | 76635 | [76635-island-tribe-4.json](./76635-island-tribe-4.json) |
 | Island Tribe 4 | 76646 | [76646-island-tribe-4.json](./76646-island-tribe-4.json) |
 | Island Tribe! | 180118 | [180118-island-tribe.json](./180118-island-tribe.json) |
