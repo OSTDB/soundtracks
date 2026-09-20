@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
 | Metamorphosis | 115657 | [115657-metamorphosis.json](./115657-metamorphosis.json) |
 | Metamorphosis | 131990 | [131990-metamorphosis.json](./131990-metamorphosis.json) |
+| Metanoia | 101326 | [101326-metanoia.json](./101326-metanoia.json) |
 | Metanoia | 322564 | [322564-metanoia.json](./322564-metanoia.json) |
 | MetaOps | 186241 | [186241-metaops.json](./186241-metaops.json) |
 | Metaphobia | 127907 | [127907-metaphobia.json](./127907-metaphobia.json) |
@@ -6527,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: The Shrouded Village | 416698 | [416698-mystery-trackers-the-shrouded-village.json](./416698-mystery-trackers-the-shrouded-village.json) |
 | Mystery Trackers: Train to Hellswich | 187965 | [187965-mystery-trackers-train-to-hellswich.json](./187965-mystery-trackers-train-to-hellswich.json) |
 | Mystery Trackers: Train to Hellswich - Collector's Edition | 169278 | [169278-mystery-trackers-train-to-hellswich-collectors-edition.json](./169278-mystery-trackers-train-to-hellswich-collectors-edition.json) |
+| Mystery USA! - Fun Seek and Find Hidden Object Puzzles | 101391 | [101391-mystery-usa-fun-seek-and-find-hidden-object-puzzles.json](./101391-mystery-usa-fun-seek-and-find-hidden-object-puzzles.json) |
 | Mystery Voyage | 229777 | [229777-mystery-voyage.json](./229777-mystery-voyage.json) |
 | Mystery: London | 146926 | [146926-mystery-london.json](./146926-mystery-london.json) |
 | Mystery: Moscow | 146690 | [146690-mystery-moscow.json](./146690-mystery-moscow.json) |
