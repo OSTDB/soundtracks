@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bananametr | 304691 | [304691-bananametr.json](./304691-bananametr.json) |
 | Bananarun | 157698 | [157698-bananarun.json](./157698-bananarun.json) |
 | Bananas in Pajamas: It's Fun Time | 221980 | [221980-bananas-in-pajamas-its-fun-time.json](./221980-bananas-in-pajamas-its-fun-time.json) |
+| BananaTron | 74066 | [74066-bananatron.json](./74066-bananatron.json) |
 | Bananounce | 320974 | [320974-bananounce.json](./320974-bananounce.json) |
 | Banban Isle Rangers | 405584 | [405584-banban-isle-rangers.json](./405584-banban-isle-rangers.json) |
 | Banchou Tactics | 202786 | [202786-banchou-tactics.json](./202786-banchou-tactics.json) |
@@ -2024,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benign Land | 329137 | [329137-benign-land.json](./329137-benign-land.json) |
 | Benji and the Crystal of Light | 324325 | [324325-benji-and-the-crystal-of-light.json](./324325-benji-and-the-crystal-of-light.json) |
 | Benji Bananas | 234749 | [234749-benji-bananas.json](./234749-benji-bananas.json) |
+| Benji: Space Rescue | 74047 | [74047-benji-space-rescue.json](./74047-benji-space-rescue.json) |
 | Benkei Gaiden | 80572 | [80572-benkei-gaiden.json](./80572-benkei-gaiden.json) |
 | Bennett Foddy's Speed Chess | 342167 | [342167-bennett-foddys-speed-chess.json](./342167-bennett-foddys-speed-chess.json) |
 | Bennu Bennu: Protect the Pyramid | 253378 | [253378-bennu-bennu-protect-the-pyramid.json](./253378-bennu-bennu-protect-the-pyramid.json) |
@@ -2205,6 +2207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Kingdom 2 | 294737 | [294737-beyond-the-kingdom-2.json](./294737-beyond-the-kingdom-2.json) |
 | Beyond the Kingdom 2: Collector's Edition | 341042 | [341042-beyond-the-kingdom-2-collectors-edition.json](./341042-beyond-the-kingdom-2-collectors-edition.json) |
 | Beyond the Kingdom: Collector's Edition | 341041 | [341041-beyond-the-kingdom-collectors-edition.json](./341041-beyond-the-kingdom-collectors-edition.json) |
+| Beyond the Law: The Third Wave | 74077 | [74077-beyond-the-law-the-third-wave.json](./74077-beyond-the-law-the-third-wave.json) |
 | Beyond the Legend: Mysteries of Olympus | 106968 | [106968-beyond-the-legend-mysteries-of-olympus.json](./106968-beyond-the-legend-mysteries-of-olympus.json) |
 | Beyond the Phone Screen | 169886 | [169886-beyond-the-phone-screen.json](./169886-beyond-the-phone-screen.json) |
 | Beyond the Rust | 362895 | [362895-beyond-the-rust.json](./362895-beyond-the-rust.json) |
@@ -3628,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blueberry Garden | 9983 | [9983-blueberry-garden.json](./9983-blueberry-garden.json) |
 | Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
 | Bluebird of Happiness | 213470 | [213470-bluebird-of-happiness.json](./213470-bluebird-of-happiness.json) |
+| Bluebush Chess | 74058 | [74058-bluebush-chess.json](./74058-bluebush-chess.json) |
 | BlueCloud Summit | 254005 | [254005-bluecloud-summit.json](./254005-bluecloud-summit.json) |
 | BlueGlow | 116283 | [116283-blueglow.json](./116283-blueglow.json) |
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
@@ -3765,6 +3769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodyguard: Cellwars | 365160 | [365160-bodyguard-cellwars.json](./365160-bodyguard-cellwars.json) |
 | BodyRecords | 340943 | [340943-bodyrecords.json](./340943-bodyrecords.json) |
 | BodySlam! | 180705 | [180705-bodyslam.json](./180705-bodyslam.json) |
+| Bodyworks Voyager: Mission in Anatomy | 74084 | [74084-bodyworks-voyager-mission-in-anatomy.json](./74084-bodyworks-voyager-mission-in-anatomy.json) |
 | Boeckham's Football Manager | 337456 | [337456-boeckhams-football-manager.json](./337456-boeckhams-football-manager.json) |
 | Boffin 2 | 261891 | [261891-boffin-2.json](./261891-boffin-2.json) |
 | BOFH: Servers Under Siege | 51277 | [51277-bofh-servers-under-siege.json](./51277-bofh-servers-under-siege.json) |
