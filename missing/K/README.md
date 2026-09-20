@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Champ | 285600 | [285600-karate-champ.json](./285600-karate-champ.json) |
 | Karate Combat | 13732 | [13732-karate-combat.json](./13732-karate-combat.json) |
 | Karate Hero | 234318 | [234318-karate-hero.json](./234318-karate-hero.json) |
+| Karate Kat Times Tables | 102608 | [102608-karate-kat-times-tables.json](./102608-karate-kat-times-tables.json) |
 | Karate Krab | 76650 | [76650-karate-krab.json](./76650-karate-krab.json) |
 | Karate Krab: Karate Krab In Space | 172051 | [172051-karate-krab-karate-krab-in-space.json](./172051-karate-krab-karate-krab-in-space.json) |
 | Karate Krab: Red Sea | 167248 | [167248-karate-krab-red-sea.json](./167248-karate-krab-red-sea.json) |
