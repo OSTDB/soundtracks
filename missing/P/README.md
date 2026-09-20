@@ -1798,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physio Fun Balance Training | 84828 | [84828-physio-fun-balance-training.json](./84828-physio-fun-balance-training.json) |
 | Physiofun: Pelvic Floor Training | 84827 | [84827-physiofun-pelvic-floor-training.json](./84827-physiofun-pelvic-floor-training.json) |
 | Phytomancer | 175886 | [175886-phytomancer.json](./175886-phytomancer.json) |
+| Pi Story | 93987 | [93987-pi-story.json](./93987-pi-story.json) |
 | Pi.exe | 192463 | [192463-pi-exe.json](./192463-pi-exe.json) |
 | Pia Carrot e Youkoso!! 2.2 | 62747 | [62747-pia-carrot-e-youkoso-2-2.json](./62747-pia-carrot-e-youkoso-2-2.json) |
 | Pia Carrot e Youkoso!! 3 | 62746 | [62746-pia-carrot-e-youkoso-3.json](./62746-pia-carrot-e-youkoso-3.json) |
@@ -4018,6 +4019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Slave | 45972 | [45972-power-slave.json](./45972-power-slave.json) |
 | Power Sled | 130872 | [130872-power-sled.json](./130872-power-sled.json) |
 | Power Soccer | 320968 | [320968-power-soccer.json](./320968-power-soccer.json) |
+| Power Soccer 2 | 93996 | [93996-power-soccer-2.json](./93996-power-soccer-2.json) |
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
 | Power Stakes | 301385 | [301385-power-stakes.json](./301385-power-stakes.json) |
 | Power Stakes 2 | 301386 | [301386-power-stakes-2.json](./301386-power-stakes-2.json) |
