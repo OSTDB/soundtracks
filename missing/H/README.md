@@ -2350,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High $take$ by Dick Francis | 79887 | [79887-high-take-by-dick-francis.json](./79887-high-take-by-dick-francis.json) |
 | High Burger | 256257 | [256257-high-burger.json](./256257-high-burger.json) |
 | High Clouds | 372995 | [372995-high-clouds.json](./372995-high-clouds.json) |
+| High Command: Europe 1939-'45 | 71806 | [71806-high-command-europe-1939-45.json](./71806-high-command-europe-1939-45.json) |
 | High Dive | 233747 | [233747-high-dive.json](./233747-high-dive.json) |
 | High Dragon Tower | 357842 | [357842-high-dragon-tower.json](./357842-high-dragon-tower.json) |
 | High Energy Heroes | 271207 | [271207-high-energy-heroes.json](./271207-high-energy-heroes.json) |
