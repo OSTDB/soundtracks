@@ -3306,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Toolman | 248683 | [248683-rolling-toolman.json](./248683-rolling-toolman.json) |
 | Rolling Toolman 2 Deathly Traps | 267446 | [267446-rolling-toolman-2-deathly-traps.json](./267446-rolling-toolman-2-deathly-traps.json) |
 | Rolling Valley | 192876 | [192876-rolling-valley.json](./192876-rolling-valley.json) |
+| Rolling Voltorb | 70084 | [70084-rolling-voltorb.json](./70084-rolling-voltorb.json) |
 | RollingSky | 129747 | [129747-rollingsky.json](./129747-rollingsky.json) |
 | RollMe | 169883 | [169883-rollme.json](./169883-rollme.json) |
 | Rollo Pollo | 348352 | [348352-rollo-pollo.json](./348352-rollo-pollo.json) |
