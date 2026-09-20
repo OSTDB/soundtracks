@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Melody Pack | 235331 | [235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json](./235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Octavo's Ode | 235330 | [235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json](./235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json) |
 | Cadenza: Havana Nights | 188030 | [188030-cadenza-havana-nights.json](./188030-cadenza-havana-nights.json) |
+| Cadenza: The Kiss of Death | 88811 | [88811-cadenza-the-kiss-of-death.json](./88811-cadenza-the-kiss-of-death.json) |
 | Cadillacs and Dinosaurs: The Second Cataclysm | 5367 | [5367-cadillacs-and-dinosaurs-the-second-cataclysm.json](./5367-cadillacs-and-dinosaurs-the-second-cataclysm.json) |
 | Cadria Item Shop | 107894 | [107894-cadria-item-shop.json](./107894-cadria-item-shop.json) |
 | Caduca | 412969 | [412969-caduca.json](./412969-caduca.json) |
@@ -2961,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Pool and Cyber Pool Bundle | 251804 | [251804-classic-pool-and-cyber-pool-bundle.json](./251804-classic-pool-and-cyber-pool-bundle.json) |
 | Classic Racing Pack: Moto Roader MC + Rider's Spirits | 317238 | [317238-classic-racing-pack-moto-roader-mc-riders-spirits.json](./317238-classic-racing-pack-moto-roader-mc-riders-spirits.json) |
 | Classic Snake Adventures | 130395 | [130395-classic-snake-adventures.json](./130395-classic-snake-adventures.json) |
+| Classic snake final | 88791 | [88791-classic-snake-final.json](./88791-classic-snake-final.json) |
 | Classic Snake Game Gold | 100962 | [100962-classic-snake-game-gold.json](./100962-classic-snake-game-gold.json) |
 | Classic Solitaire | 323511 | [323511-classic-solitaire.json](./323511-classic-solitaire.json) |
 | Classic Sudoku | 126741 | [126741-classic-sudoku.json](./126741-classic-sudoku.json) |
@@ -4334,6 +4336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking For Ma! | 404941 | [404941-cooking-for-ma.json](./404941-cooking-for-ma.json) |
 | Cooking Joy - Fun Cooking Game | 103872 | [103872-cooking-joy-fun-cooking-game.json](./103872-cooking-joy-fun-cooking-game.json) |
 | Cooking Mama World: Hobbies & Fun | 47957 | [47957-cooking-mama-world-hobbies-and-fun.json](./47957-cooking-mama-world-hobbies-and-fun.json) |
+| Cooking Mama: Let's Cook! | 88776 | [88776-cooking-mama-lets-cook.json](./88776-cooking-mama-lets-cook.json) |
 | Cooking Papa: Cookstar | 237641 | [237641-cooking-papa-cookstar.json](./237641-cooking-papa-cookstar.json) |
 | Cooking Simulator: Cakes and Cookies | 129196 | [129196-cooking-simulator-cakes-and-cookies.json](./129196-cooking-simulator-cakes-and-cookies.json) |
 | Cooking Simulator: Sushi | 273371 | [273371-cooking-simulator-sushi.json](./273371-cooking-simulator-sushi.json) |
@@ -4851,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft & Conquer | 339334 | [339334-craft-and-conquer.json](./339334-craft-and-conquer.json) |
 | Craft Battle Simulator | 90640 | [90640-craft-battle-simulator.json](./90640-craft-battle-simulator.json) |
 | Craft City Gangs | 86711 | [86711-craft-city-gangs.json](./86711-craft-city-gangs.json) |
+| Craft Control | 88795 | [88795-craft-control.json](./88795-craft-control.json) |
 | Craft Control HD | 107223 | [107223-craft-control-hd.json](./107223-craft-control-hd.json) |
 | Craft Elements | 126577 | [126577-craft-elements.json](./126577-craft-elements.json) |
 | Craft Jam | 176416 | [176416-craft-jam.json](./176416-craft-jam.json) |
