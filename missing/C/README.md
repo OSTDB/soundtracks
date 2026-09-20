@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule Force | 11184 | [11184-capsule-force.json](./11184-capsule-force.json) |
 | Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
+| Capsule Servant | 121441 | [121441-capsule-servant.json](./121441-capsule-servant.json) |
 | Capt Crabs a Slimy Adventure | 249821 | [249821-capt-crabs-a-slimy-adventure.json](./249821-capt-crabs-a-slimy-adventure.json) |
 | Captain 25 | 346086 | [346086-captain-25.json](./346086-captain-25.json) |
 | Captain Alexia | 181907 | [181907-captain-alexia.json](./181907-captain-alexia.json) |
@@ -3029,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliffhanger | 5370 | [5370-cliffhanger.json](./5370-cliffhanger.json) |
 | Cliffhanger | 81446 | [81446-cliffhanger.json](./81446-cliffhanger.json) |
 | Clifford: Ready-to-Read | 230359 | [230359-clifford-ready-to-read.json](./230359-clifford-ready-to-read.json) |
+| Climatic Survival: Northern Storm | 121485 | [121485-climatic-survival-northern-storm.json](./121485-climatic-survival-northern-storm.json) |
 | Climb | 362343 | [362343-climb.json](./362343-climb.json) |
 | Climb and Fall Dice Adventure | 242205 | [242205-climb-and-fall-dice-adventure.json](./242205-climb-and-fall-dice-adventure.json) |
 | Climb Challenge | 125385 | [125385-climb-challenge.json](./125385-climb-challenge.json) |
