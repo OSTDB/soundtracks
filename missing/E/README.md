@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploaris: Vermis story | 167837 | [167837-exploaris-vermis-story.json](./167837-exploaris-vermis-story.json) |
 | Explode on Contact | 148546 | [148546-explode-on-contact.json](./148546-explode-on-contact.json) |
 | Explodera | 388218 | [388218-explodera.json](./388218-explodera.json) |
+| Exploding Babies | 120165 | [120165-exploding-babies.json](./120165-exploding-babies.json) |
 | Exploding Fist | 48584 | [48584-exploding-fist.json](./48584-exploding-fist.json) |
 | Exploding Kittens | 88938 | [88938-exploding-kittens.json](./88938-exploding-kittens.json) |
 | Explomania | 81033 | [81033-explomania.json](./81033-explomania.json) |
