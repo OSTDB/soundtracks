@@ -1822,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Absolutely Hilarious Cat Game | 153959 | [153959-the-absolutely-hilarious-cat-game.json](./153959-the-absolutely-hilarious-cat-game.json) |
 | The Abyss | 237353 | [237353-the-abyss.json](./237353-the-abyss.json) |
 | The Abyss Has Walls | 195760 | [195760-the-abyss-has-walls.json](./195760-the-abyss-has-walls.json) |
+| The Abyss: Incident at Europa | 74076 | [74076-the-abyss-incident-at-europa.json](./74076-the-abyss-incident-at-europa.json) |
 | The Abyssal Diplomat | 400939 | [400939-the-abyssal-diplomat.json](./400939-the-abyssal-diplomat.json) |
 | The Abyssal Zone | 12246 | [12246-the-abyssal-zone.json](./12246-the-abyssal-zone.json) |
 | The Academy | 302947 | [302947-the-academy.json](./302947-the-academy.json) |
@@ -3617,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible VR Game Show | 83946 | [83946-the-incredible-vr-game-show.json](./83946-the-incredible-vr-game-show.json) |
 | The Incredibles: Mission Incredible | 213375 | [213375-the-incredibles-mission-incredible.json](./213375-the-incredibles-mission-incredible.json) |
 | The Incredibles: When Danger Calls | 18261 | [18261-the-incredibles-when-danger-calls.json](./18261-the-incredibles-when-danger-calls.json) |
+| The Indian in the Cupboard | 74044 | [74044-the-indian-in-the-cupboard.json](./74044-the-indian-in-the-cupboard.json) |
 | The Indigo Initiative | 358848 | [358848-the-indigo-initiative.json](./358848-the-indigo-initiative.json) |
 | The Indigo Parallel | 157128 | [157128-the-indigo-parallel.json](./157128-the-indigo-parallel.json) |
 | The Indirect Castle Retreat | 322765 | [322765-the-indirect-castle-retreat.json](./322765-the-indirect-castle-retreat.json) |
@@ -3627,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infernal Return | 195156 | [195156-the-infernal-return.json](./195156-the-infernal-return.json) |
 | The Infernalist | 371355 | [371355-the-infernalist.json](./371355-the-infernalist.json) |
 | The Inferno | 358963 | [358963-the-inferno.json](./358963-the-inferno.json) |
+| The Infinity String | 74043 | [74043-the-infinity-string.json](./74043-the-infinity-string.json) |
 | The Initial | 44187 | [44187-the-initial.json](./44187-the-initial.json) |
 | The Initiate | 44181 | [44181-the-initiate.json](./44181-the-initiate.json) |
 | The Inkspire | 416676 | [416676-the-inkspire.json](./416676-the-inkspire.json) |
@@ -3644,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Interactive Adventures of Dog Mendonça and Pizzaboy | 17976 | [17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json](./17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json) |
 | The Interdiction Zone | 274191 | [274191-the-interdiction-zone.json](./274191-the-interdiction-zone.json) |
 | The Interlude | 118172 | [118172-the-interlude.json](./118172-the-interlude.json) |
+| The Interstate '76 Arsenal | 74075 | [74075-the-interstate-76-arsenal.json](./74075-the-interstate-76-arsenal.json) |
 | The Interview | 35786 | [35786-the-interview.json](./35786-the-interview.json) |
 | The Invasion 2 | 268038 | [268038-the-invasion-2.json](./268038-the-invasion-2.json) |
 | The Invasion of Area 51 | 130871 | [130871-the-invasion-of-area-51.json](./130871-the-invasion-of-area-51.json) |
@@ -5016,10 +5020,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Renovator: Origins | 193413 | [193413-the-renovator-origins.json](./193413-the-renovator-origins.json) |
 | The Report: The Eastwind Creature | 319767 | [319767-the-report-the-eastwind-creature.json](./319767-the-report-the-eastwind-creature.json) |
 | The Repossessor | 81338 | [81338-the-repossessor.json](./81338-the-repossessor.json) |
+| The Rescue of Lorri in Lorrinitron | 74052 | [74052-the-rescue-of-lorri-in-lorrinitron.json](./74052-the-rescue-of-lorri-in-lorrinitron.json) |
 | The Rescue Squad | 164916 | [164916-the-rescue-squad.json](./164916-the-rescue-squad.json) |
 | The Research Facility No.507 | 90576 | [90576-the-research-facility-no-507.json](./90576-the-research-facility-no-507.json) |
 | The Reshaping of Googol 1B: The Tower | 299157 | [299157-the-reshaping-of-googol-1b-the-tower.json](./299157-the-reshaping-of-googol-1b-the-tower.json) |
 | The Resident | 366283 | [366283-the-resident.json](./366283-the-resident.json) |
+| The Residents: Freak Show | 74045 | [74045-the-residents-freak-show.json](./74045-the-residents-freak-show.json) |
 | The Resistance | 75764 | [75764-the-resistance.json](./75764-the-resistance.json) |
 | The Resonant | 289971 | [289971-the-resonant.json](./289971-the-resonant.json) |
 | The Rest is Silence | 271770 | [271770-the-rest-is-silence.json](./271770-the-rest-is-silence.json) |
