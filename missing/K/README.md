@@ -1278,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Powers' Matchmaker: Deluxe Edition | 146689 | [146689-kitty-powers-matchmaker-deluxe-edition.json](./146689-kitty-powers-matchmaker-deluxe-edition.json) |
 | Kitty Rainbow | 136466 | [136466-kitty-rainbow.json](./136466-kitty-rainbow.json) |
 | Kitty Rhythm TD | 306996 | [306996-kitty-rhythm-td.json](./306996-kitty-rhythm-td.json) |
+| Kitty Spangles Solitaire | 90369 | [90369-kitty-spangles-solitaire.json](./90369-kitty-spangles-solitaire.json) |
 | Kitty's Adventure for XBox One | 358365 | [358365-kittys-adventure-for-xbox-one.json](./358365-kittys-adventure-for-xbox-one.json) |
 | Kitty's Last Adventure | 295372 | [295372-kittys-last-adventure.json](./295372-kittys-last-adventure.json) |
 | Kity Builder | 204525 | [204525-kity-builder.json](./204525-kity-builder.json) |
