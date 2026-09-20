@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecstatic | 204546 | [204546-ecstatic.json](./204546-ecstatic.json) |
 | Ecto | 298341 | [298341-ecto.json](./298341-ecto.json) |
 | Ecto Portal | 163951 | [163951-ecto-portal.json](./163951-ecto-portal.json) |
+| Ectolibrium | 110770 | [110770-ectolibrium.json](./110770-ectolibrium.json) |
 | Ecumene Aztec | 253442 | [253442-ecumene-aztec.json](./253442-ecumene-aztec.json) |
 | ECW Anarchy Rulz | 72029 | [72029-ecw-anarchy-rulz.json](./72029-ecw-anarchy-rulz.json) |
 | ECW Hardcore Revolution | 3483 | [3483-ecw-hardcore-revolution.json](./3483-ecw-hardcore-revolution.json) |
@@ -917,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emiru Game | 315718 | [315718-emiru-game.json](./315718-emiru-game.json) |
 | Emissary | 413714 | [413714-emissary.json](./413714-emissary.json) |
 | Emissary One | 411620 | [411620-emissary-one.json](./411620-emissary-one.json) |
+| Emitters: Drone Invasions | 110818 | [110818-emitters-drone-invasions.json](./110818-emitters-drone-invasions.json) |
 | Emlis | 304585 | [304585-emlis.json](./304585-emlis.json) |
 | Emlyn Hughes Arcade Quiz | 13636 | [13636-emlyn-hughes-arcade-quiz.json](./13636-emlyn-hughes-arcade-quiz.json) |
 | Emma's Armaments | 213017 | [213017-emmas-armaments.json](./213017-emmas-armaments.json) |
