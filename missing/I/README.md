@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Fishing Derby | 103909 | [103909-ice-fishing-derby.json](./103909-ice-fishing-derby.json) |
 | Ice Hockey | 57656 | [57656-ice-hockey.json](./57656-ice-hockey.json) |
 | Ice Hockey Slovakia 2011 | 85187 | [85187-ice-hockey-slovakia-2011.json](./85187-ice-hockey-slovakia-2011.json) |
+| Ice Hunter | 76249 | [76249-ice-hunter.json](./76249-ice-hunter.json) |
 | Ice King in Secret Santa | 339824 | [339824-ice-king-in-secret-santa.json](./339824-ice-king-in-secret-santa.json) |
 | Ice Lakes | 20206 | [20206-ice-lakes.json](./20206-ice-lakes.json) |
 | Ice Land | 276843 | [276843-ice-land.json](./276843-ice-land.json) |
