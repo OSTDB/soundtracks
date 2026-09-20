@@ -1597,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' Herder | 146891 | [146891-lil-herder.json](./146891-lil-herder.json) |
 | Lil' Monster | 49920 | [49920-lil-monster.json](./49920-lil-monster.json) |
 | Lil' Robo | 331305 | [331305-lil-robo.json](./331305-lil-robo.json) |
+| lilGunBois | 101364 | [101364-lilgunbois.json](./101364-lilgunbois.json) |
 | Lili | 63277 | [63277-lili.json](./63277-lili.json) |
 | Lilia | 362325 | [362325-lilia.json](./362325-lilia.json) |
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
