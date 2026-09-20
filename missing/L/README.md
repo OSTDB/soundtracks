@@ -2979,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luise and Secret Basement Rooms | 157705 | [157705-luise-and-secret-basement-rooms.json](./157705-luise-and-secret-basement-rooms.json) |
 | Luka Tim Incident | 318624 | [318624-luka-tim-incident.json](./318624-luka-tim-incident.json) |
 | Luke | 310612 | [310612-luke.json](./310612-luke.json) |
+| Luke & Rebecca | 111455 | [111455-luke-and-rebecca.json](./111455-luke-and-rebecca.json) |
 | Lukewarm Ironclad | 113702 | [113702-lukewarm-ironclad.json](./113702-lukewarm-ironclad.json) |
 | Lukewarm Massacre: The Spirit of Light | 303641 | [303641-lukewarm-massacre-the-spirit-of-light.json](./303641-lukewarm-massacre-the-spirit-of-light.json) |
 | LUL inc. | 186238 | [186238-lul-inc.json](./186238-lul-inc.json) |
