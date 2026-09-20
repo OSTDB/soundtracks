@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZoneRacer | 331441 | [331441-zoneracer.json](./331441-zoneracer.json) |
 | Zoners | 167716 | [167716-zoners.json](./167716-zoners.json) |
 | Zonic 4 My New Life Turbo HD Remastered Edition | 322594 | [322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json](./322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json) |
+| Zoo Animals ~ Touch, Look, Listen | 89706 | [89706-zoo-animals-touch-look-listen.json](./89706-zoo-animals-touch-look-listen.json) |
 | Zoo Chess | 213403 | [213403-zoo-chess.json](./213403-zoo-chess.json) |
 | Zoo Clues | 397781 | [397781-zoo-clues.json](./397781-zoo-clues.json) |
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
