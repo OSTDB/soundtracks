@@ -2832,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Writer Rumble | 92514 | [92514-writer-rumble.json](./92514-writer-rumble.json) |
 | Writer Tycoon | 346580 | [346580-writer-tycoon.json](./346580-writer-tycoon.json) |
 | Writer: Chapter 1 | 327616 | [327616-writer-chapter-1.json](./327616-writer-chapter-1.json) |
+| Writer's Block | 80234 | [80234-writers-block.json](./80234-writers-block.json) |
 | Writhe | 213466 | [213466-writhe.json](./213466-writhe.json) |
 | WrldCraft | 120169 | [120169-wrldcraft.json](./120169-wrldcraft.json) |
 | wrldDivision | 181379 | [181379-wrlddivision.json](./181379-wrlddivision.json) |
