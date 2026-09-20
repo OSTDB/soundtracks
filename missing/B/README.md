@@ -3671,6 +3671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Morane: Science Fiction 1 | 55096 | [55096-bob-morane-science-fiction-1.json](./55096-bob-morane-science-fiction-1.json) |
 | Bob Ross: The Joy of Painting | 205647 | [205647-bob-ross-the-joy-of-painting.json](./205647-bob-ross-the-joy-of-painting.json) |
 | Bob the Block: Rebooted | 296499 | [296499-bob-the-block-rebooted.json](./296499-bob-the-block-rebooted.json) |
+| Bob the Builder | 83246 | [83246-bob-the-builder.json](./83246-bob-the-builder.json) |
 | Bob the Builder: Bob Builds A Park | 72055 | [72055-bob-the-builder-bob-builds-a-park.json](./72055-bob-the-builder-bob-builds-a-park.json) |
 | Bob the Builder: Build City | 91335 | [91335-bob-the-builder-build-city.json](./91335-bob-the-builder-build-city.json) |
 | Bob the Builder: Festival of Fun | 374680 | [374680-bob-the-builder-festival-of-fun.json](./374680-bob-the-builder-festival-of-fun.json) |
