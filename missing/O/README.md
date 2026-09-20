@@ -607,6 +607,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omnivael: Chronicles of the realm | 274763 | [274763-omnivael-chronicles-of-the-realm.json](./274763-omnivael-chronicles-of-the-realm.json) |
 | Omno | 111661 | [111661-omno.json](./111661-omno.json) |
 | OmOchim | 415098 | [415098-omochim.json](./415098-omochim.json) |
+| Omoi o Sasageru Otome no Melody | 82496 | [82496-omoi-o-sasageru-otome-no-melody.json](./82496-omoi-o-sasageru-otome-no-melody.json) |
+| Omoi o Sasageru Otome no Melody: Afureru Omoi o Shirabe ni Nosete | 82494 | [82494-omoi-o-sasageru-otome-no-melody-afureru-omoi-o-shirabe-ni-nosete.json](./82494-omoi-o-sasageru-otome-no-melody-afureru-omoi-o-shirabe-ni-nosete.json) |
 | Omoide ni Kawaru Kimi: Memories Off | 288773 | [288773-omoide-ni-kawaru-kimi-memories-off.json](./288773-omoide-ni-kawaru-kimi-memories-off.json) |
 | Omoikkiri Tanteidan Haado-gumi: Matenrou no Chousenjou | 41336 | [41336-omoikkiri-tanteidan-haado-gumi-matenrou-no-chousenjou.json](./41336-omoikkiri-tanteidan-haado-gumi-matenrou-no-chousenjou.json) |
 | Omoiyari wo Hagukumu Katarikake Ehon: Miffy to Asobou Utaou | 327627 | [327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json](./327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json) |
