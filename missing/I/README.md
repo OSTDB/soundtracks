@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink. | 169442 | [169442-ink.json](./169442-ink.json) |
 | Inka Aventura: Saga de Pachakutiq | 285558 | [285558-inka-aventura-saga-de-pachakutiq.json](./285558-inka-aventura-saga-de-pachakutiq.json) |
 | Inkblood | 380440 | [380440-inkblood.json](./380440-inkblood.json) |
+| Inko Joshikosei | 97692 | [97692-inko-joshikosei.json](./97692-inko-joshikosei.json) |
 | Inkoid | 390615 | [390615-inkoid.json](./390615-inkoid.json) |
 | Inkremental | 397793 | [397793-inkremental.json](./397793-inkremental.json) |
 | Inkronos | 345014 | [345014-inkronos.json](./345014-inkronos.json) |
