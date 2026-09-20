@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station: Trucker Parking | 231950 | [231950-gas-station-trucker-parking.json](./231950-gas-station-trucker-parking.json) |
 | Gas vs. Dwarves | 185112 | [185112-gas-vs-dwarves.json](./185112-gas-vs-dwarves.json) |
 | GasCraft | 255157 | [255157-gascraft.json](./255157-gascraft.json) |
+| Gash | 126421 | [126421-gash.json](./126421-gash.json) |
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
 | Gaslamp Cases 6: Haunted Waters | 294732 | [294732-gaslamp-cases-6-haunted-waters.json](./294732-gaslamp-cases-6-haunted-waters.json) |
 | Gaslamp Cases 7: The Faith of Rasputin | 294735 | [294735-gaslamp-cases-7-the-faith-of-rasputin.json](./294735-gaslamp-cases-7-the-faith-of-rasputin.json) |
@@ -867,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genki Village | 143036 | [143036-genki-village.json](./143036-genki-village.json) |
 | GenMobile | 202810 | [202810-genmobile.json](./202810-genmobile.json) |
 | Geno 2 the Generals' Orders | 265933 | [265933-geno-2-the-generals-orders.json](./265933-geno-2-the-generals-orders.json) |
+| Geno the Fallen King | 126410 | [126410-geno-the-fallen-king.json](./126410-geno-the-fallen-king.json) |
 | Genocide | 212859 | [212859-genocide.json](./212859-genocide.json) |
 | Genocide | 56419 | [56419-genocide.json](./56419-genocide.json) |
 | Genocide 2 | 38334 | [38334-genocide-2.json](./38334-genocide-2.json) |
@@ -2349,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grauen no Torikago: Kapitel 4 - Kaikou | 318052 | [318052-grauen-no-torikago-kapitel-4-kaikou.json](./318052-grauen-no-torikago-kapitel-4-kaikou.json) |
 | Grauen no Torikago: Kapitel 5 - Shokuzai | 318054 | [318054-grauen-no-torikago-kapitel-5-shokuzai.json](./318054-grauen-no-torikago-kapitel-5-shokuzai.json) |
 | Grauen no Torikago: Kapitel 6 - Senritsu | 315063 | [315063-grauen-no-torikago-kapitel-6-senritsu.json](./315063-grauen-no-torikago-kapitel-6-senritsu.json) |
+| Graularm | 126430 | [126430-graularm.json](./126430-graularm.json) |
 | Grav Blazer | 43082 | [43082-grav-blazer.json](./43082-grav-blazer.json) |
 | GravBlocks | 34436 | [34436-gravblocks.json](./34436-gravblocks.json) |
 | GravBlocks+ | 147964 | [147964-gravblocks.json](./147964-gravblocks.json) |
@@ -2760,7 +2763,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
 | Groove Catcher | 171583 | [171583-groove-catcher.json](./171583-groove-catcher.json) |
 | Groove Coaster + Undertale DLC Bundle | 362273 | [362273-groove-coaster-undertale-dlc-bundle.json](./362273-groove-coaster-undertale-dlc-bundle.json) |
+| Groove Coaster 2 Heavenly Festival | 126464 | [126464-groove-coaster-2-heavenly-festival.json](./126464-groove-coaster-2-heavenly-festival.json) |
+| Groove Coaster 3 Link Fever | 126465 | [126465-groove-coaster-3-link-fever.json](./126465-groove-coaster-3-link-fever.json) |
 | Groove Coaster 4EX Infinity Highway | 383978 | [383978-groove-coaster-4ex-infinity-highway.json](./383978-groove-coaster-4ex-infinity-highway.json) |
+| Groove Coaster AC | 126462 | [126462-groove-coaster-ac.json](./126462-groove-coaster-ac.json) |
+| Groove Coaster EX | 126463 | [126463-groove-coaster-ex.json](./126463-groove-coaster-ex.json) |
 | Groove Coaster: Bad Apple!! feat. nomico | 358959 | [358959-groove-coaster-bad-apple-feat-nomico.json](./358959-groove-coaster-bad-apple-feat-nomico.json) |
 | Groove Coaster: Darius Cozmic Collection Pack | 361704 | [361704-groove-coaster-darius-cozmic-collection-pack.json](./361704-groove-coaster-darius-cozmic-collection-pack.json) |
 | Groove Coaster: Game Music Pack 01 | 361700 | [361700-groove-coaster-game-music-pack-01.json](./361700-groove-coaster-game-music-pack-01.json) |
