@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Maker: Runiya | 107638 | [107638-adventure-maker-runiya.json](./107638-adventure-maker-runiya.json) |
 | Adventure Mansion | 283899 | [283899-adventure-mansion.json](./283899-adventure-mansion.json) |
 | Adventure Master | 381130 | [381130-adventure-master.json](./381130-adventure-master.json) |
+| Adventure Math | 94016 | [94016-adventure-math.json](./94016-adventure-math.json) |
 | Adventure Mosaics: Moto-Trip | 196155 | [196155-adventure-mosaics-moto-trip.json](./196155-adventure-mosaics-moto-trip.json) |
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
@@ -2062,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | American Marksman | 239912 | [239912-american-marksman.json](./239912-american-marksman.json) |
 | American McGee Presents: Scrapland | 20289 | [20289-american-mcgee-presents-scrapland.json](./20289-american-mcgee-presents-scrapland.json) |
+| American McGee's Oz | 93984 | [93984-american-mcgees-oz.json](./93984-american-mcgees-oz.json) |
 | American Motorcycle Simulator | 133223 | [133223-american-motorcycle-simulator.json](./133223-american-motorcycle-simulator.json) |
 | American Navy Seals | 410967 | [410967-american-navy-seals.json](./410967-american-navy-seals.json) |
 | American Ninja Warrior: Challenge | 118196 | [118196-american-ninja-warrior-challenge.json](./118196-american-ninja-warrior-challenge.json) |
@@ -2107,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMF Bowling 2004 | 5723 | [5723-amf-bowling-2004.json](./5723-amf-bowling-2004.json) |
 | AMF Bowling Deluxe 2D | 206116 | [206116-amf-bowling-deluxe-2d.json](./206116-amf-bowling-deluxe-2d.json) |
 | AMF Bowling Deluxe 3D | 206117 | [206117-amf-bowling-deluxe-3d.json](./206117-amf-bowling-deluxe-3d.json) |
+| AMF Pro Bowl 3D | 93999 | [93999-amf-pro-bowl-3d.json](./93999-amf-pro-bowl-3d.json) |
 | Amid Evil: Champion Edition | 263589 | [263589-amid-evil-champion-edition.json](./263589-amid-evil-champion-edition.json) |
 | Amid the Grid | 394824 | [394824-amid-the-grid.json](./394824-amid-the-grid.json) |
 | Amid the Lines | 165530 | [165530-amid-the-lines.json](./165530-amid-the-lines.json) |
@@ -2129,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amma: A Quest for Light | 138223 | [138223-amma-a-quest-for-light.json](./138223-amma-a-quest-for-light.json) |
 | Ammo Pigs: Armed and Delicious | 107889 | [107889-ammo-pigs-armed-and-delicious.json](./107889-ammo-pigs-armed-and-delicious.json) |
 | Ammossum | 275884 | [275884-ammossum.json](./275884-ammossum.json) |
+| Ammotrack | 93993 | [93993-ammotrack.json](./93993-ammotrack.json) |
 | Amnea 28: Dve Vechnosti | 272822 | [272822-amnea-28-dve-vechnosti.json](./272822-amnea-28-dve-vechnosti.json) |
 | Amnea28: Two Eternities | 291461 | [291461-amnea28-two-eternities.json](./291461-amnea28-two-eternities.json) |
 | Amneron's Legacy | 152152 | [152152-amnerons-legacy.json](./152152-amnerons-legacy.json) |
@@ -2577,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animated Jigsaw Puzzles | 269286 | [269286-animated-jigsaw-puzzles.json](./269286-animated-jigsaw-puzzles.json) |
 | Animated Puzzles: Spooky Pack | 163420 | [163420-animated-puzzles-spooky-pack.json](./163420-animated-puzzles-spooky-pack.json) |
 | Animated StoryBook: Winnie the Pooh and the Honey Tree | 342669 | [342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json](./342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json) |
+| AniMates | 93977 | [93977-animates.json](./93977-animates.json) |
 | Animation Hangman | 117024 | [117024-animation-hangman.json](./117024-animation-hangman.json) |
 | Animators Hell | 159134 | [159134-animators-hell.json](./159134-animators-hell.json) |
 | Animdle | 337097 | [337097-animdle.json](./337097-animdle.json) |
@@ -3620,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArenaWar | 275109 | [275109-arenawar.json](./275109-arenawar.json) |
 | Arengius | 132653 | [132653-arengius.json](./132653-arengius.json) |
 | Arenum | 324897 | [324897-arenum.json](./324897-arenum.json) |
+| Ares | 93968 | [93968-ares.json](./93968-ares.json) |
 | Ares Omega | 34382 | [34382-ares-omega.json](./34382-ares-omega.json) |
 | Aretha II | 137076 | [137076-aretha-ii.json](./137076-aretha-ii.json) |
 | Aretisia: Tenebris Dominus | 125391 | [125391-aretisia-tenebris-dominus.json](./125391-aretisia-tenebris-dominus.json) |
