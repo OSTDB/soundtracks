@@ -1872,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wisp Child | 265257 | [265257-wisp-child.json](./265257-wisp-child.json) |
 | Wisps of the Elements | 312544 | [312544-wisps-of-the-elements.json](./312544-wisps-of-the-elements.json) |
 | Wisps: The Redeeming | 2961 | [2961-wisps-the-redeeming.json](./2961-wisps-the-redeeming.json) |
+| Witch | 120153 | [120153-witch.json](./120153-witch.json) |
 | Witch | 299159 | [299159-witch.json](./299159-witch.json) |
 | Witch & Cats | 258177 | [258177-witch-and-cats.json](./258177-witch-and-cats.json) |
 | Witch & Hero 2 | 21925 | [21925-witch-and-hero-2.json](./21925-witch-and-hero-2.json) |
@@ -2186,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodla: The Tower | 251199 | [251199-woodla-the-tower.json](./251199-woodla-the-tower.json) |
 | Woodland Rebels | 385604 | [385604-woodland-rebels.json](./385604-woodland-rebels.json) |
 | Woodlands National Park | 312546 | [312546-woodlands-national-park.json](./312546-woodlands-national-park.json) |
+| Woodle Tree 2: Deluxe | 120186 | [120186-woodle-tree-2-deluxe.json](./120186-woodle-tree-2-deluxe.json) |
 | Woodle Tree 2: Deluxe Plus | 194438 | [194438-woodle-tree-2-deluxe-plus.json](./194438-woodle-tree-2-deluxe-plus.json) |
 | Woodle Tree Adventures Deluxe | 122354 | [122354-woodle-tree-adventures-deluxe.json](./122354-woodle-tree-adventures-deluxe.json) |
 | Woodle Tree Bundle | 173795 | [173795-woodle-tree-bundle.json](./173795-woodle-tree-bundle.json) |
@@ -2737,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Writer Tycoon | 346580 | [346580-writer-tycoon.json](./346580-writer-tycoon.json) |
 | Writer: Chapter 1 | 327616 | [327616-writer-chapter-1.json](./327616-writer-chapter-1.json) |
 | Writhe | 213466 | [213466-writhe.json](./213466-writhe.json) |
+| WrldCraft | 120169 | [120169-wrldcraft.json](./120169-wrldcraft.json) |
 | wrldDivision | 181379 | [181379-wrlddivision.json](./181379-wrlddivision.json) |
 | Wrong Door | 320958 | [320958-wrong-door.json](./320958-wrong-door.json) |
 | Wrong Floor | 177032 | [177032-wrong-floor.json](./177032-wrong-floor.json) |
