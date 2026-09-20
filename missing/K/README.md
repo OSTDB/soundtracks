@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Wars | 346014 | [346014-kanji-wars.json](./346014-kanji-wars.json) |
 | Kannagi no Mori Samidare Tsuzuri | 136476 | [136476-kannagi-no-mori-samidare-tsuzuri.json](./136476-kannagi-no-mori-samidare-tsuzuri.json) |
 | Kanojo ha Ira-ira Jirai Girl | 251613 | [251613-kanojo-ha-ira-ira-jirai-girl.json](./251613-kanojo-ha-ira-ira-jirai-girl.json) |
+| Kanojo ha Sensei no Model | 97697 | [97697-kanojo-ha-sensei-no-model.json](./97697-kanojo-ha-sensei-no-model.json) |
 | Kanojo to Ore to Koibito to. | 194609 | [194609-kanojo-to-ore-to-koibito-to.json](./194609-kanojo-to-ore-to-koibito-to.json) |
 | Kanojo xx Switch | 156614 | [156614-kanojo-xx-switch.json](./156614-kanojo-xx-switch.json) |
 | Kansensei Nightmare | 151532 | [151532-kansensei-nightmare.json](./151532-kansensei-nightmare.json) |
@@ -551,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kero Kero Keroppi to Origami no Tabibito | 125960 | [125960-kero-kero-keroppi-to-origami-no-tabibito.json](./125960-kero-kero-keroppi-to-origami-no-tabibito.json) |
 | Kero Quest 64 | 326620 | [326620-kero-quest-64.json](./326620-kero-quest-64.json) |
 | Keroro RPG: Kishi to Busha to Densetsu no Kaizoku | 67306 | [67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json](./67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json) |
+| Kesenai Boken no Sho | 97693 | [97693-kesenai-boken-no-sho.json](./97693-kesenai-boken-no-sho.json) |
 | Kessakusen! Ganbare Goemon 1+2: Yuki-hime to McGuiness | 82068 | [82068-kessakusen-ganbare-goemon-1-2-yuki-hime-to-mcguiness.json](./82068-kessakusen-ganbare-goemon-1-2-yuki-hime-to-mcguiness.json) |
 | Kessen III | 20200 | [20200-kessen-iii.json](./20200-kessen-iii.json) |
 | Kestrel | 152386 | [152386-kestrel.json](./152386-kestrel.json) |
@@ -1692,6 +1694,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraft & Slash | 176348 | [176348-kraft-and-slash.json](./176348-kraft-and-slash.json) |
 | Krafteers | 174863 | [174863-krafteers.json](./174863-krafteers.json) |
 | Krakatoa | 45368 | [45368-krakatoa.json](./45368-krakatoa.json) |
+| Krakels ABC: Den galna dammsugaren | 97704 | [97704-krakels-abc-den-galna-dammsugaren.json](./97704-krakels-abc-den-galna-dammsugaren.json) |
+| Krakels ABC: Det Magiska Äventyret | 97703 | [97703-krakels-abc-det-magiska-aventyret.json](./97703-krakels-abc-det-magiska-aventyret.json) |
+| Krakels ABC: Storm Över Allemansland | 97705 | [97705-krakels-abc-storm-over-allemansland.json](./97705-krakels-abc-storm-over-allemansland.json) |
 | Kraken | 74458 | [74458-kraken.json](./74458-kraken.json) |
 | Kraken Attack | 318228 | [318228-kraken-attack.json](./318228-kraken-attack.json) |
 | Kraken City | 325652 | [325652-kraken-city.json](./325652-kraken-city.json) |
