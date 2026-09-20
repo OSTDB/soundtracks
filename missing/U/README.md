@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater and Seafaring Duo | 271827 | [271827-underwater-and-seafaring-duo.json](./271827-underwater-and-seafaring-duo.json) |
 | Underwater Diving | 224547 | [224547-underwater-diving.json](./224547-underwater-diving.json) |
 | Underwater Life | 148514 | [148514-underwater-life.json](./148514-underwater-life.json) |
+| Underwater: Stay Alive | 114194 | [114194-underwater-stay-alive.json](./114194-underwater-stay-alive.json) |
 | Underwheels | 355073 | [355073-underwheels.json](./355073-underwheels.json) |
 | Underworld | 349298 | [349298-underworld.json](./349298-underworld.json) |
 | Underworld Capital Incident | 146232 | [146232-underworld-capital-incident.json](./146232-underworld-capital-incident.json) |
@@ -608,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undisputed | 146957 | [146957-undisputed.json](./146957-undisputed.json) |
 | Undisputed: Deluxe WBC Edition | 325656 | [325656-undisputed-deluxe-wbc-edition.json](./325656-undisputed-deluxe-wbc-edition.json) |
 | Undockable | 361782 | [361782-undockable.json](./361782-undockable.json) |
+| Undoing | 114157 | [114157-undoing.json](./114157-undoing.json) |
 | Undoing Evil | 195271 | [195271-undoing-evil.json](./195271-undoing-evil.json) |
 | Undress! | 369653 | [369653-undress.json](./369653-undress.json) |
 | Undying Dusk | 146286 | [146286-undying-dusk.json](./146286-undying-dusk.json) |
@@ -781,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited Farm Tycoon: Cozy Idle Farm Game | 377063 | [377063-unlimited-farm-tycoon-cozy-idle-farm-game.json](./377063-unlimited-farm-tycoon-cozy-idle-farm-game.json) |
 | Unlimited Fight Ultimate Strike | 235353 | [235353-unlimited-fight-ultimate-strike.json](./235353-unlimited-fight-ultimate-strike.json) |
 | Unlimited Hearts | 67243 | [67243-unlimited-hearts.json](./67243-unlimited-hearts.json) |
+| Unlock Me | 114165 | [114165-unlock-me.json](./114165-unlock-me.json) |
 | Unlock Me | 338587 | [338587-unlock-me.json](./338587-unlock-me.json) |
 | Unlock the Block | 166756 | [166756-unlock-the-block.json](./166756-unlock-the-block.json) |
 | Unlock the Feelings | 199094 | [199094-unlock-the-feelings.json](./199094-unlock-the-feelings.json) |
