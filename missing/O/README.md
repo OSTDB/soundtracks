@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Arcade | 389981 | [389981-offroad-arcade.json](./389981-offroad-arcade.json) |
 | Offroad Delivery Service | 216979 | [216979-offroad-delivery-service.json](./216979-offroad-delivery-service.json) |
 | Offroad Driving Simulator 4x4: Trucks & SUV Trophy | 147933 | [147933-offroad-driving-simulator-4x4-trucks-and-suv-trophy.json](./147933-offroad-driving-simulator-4x4-trucks-and-suv-trophy.json) |
+| Offroad Extreme! | 66935 | [66935-offroad-extreme.json](./66935-offroad-extreme.json) |
 | Offroad Moto Bike | 232464 | [232464-offroad-moto-bike.json](./232464-offroad-moto-bike.json) |
 | Offroad Oil Tanker Hill Drivin | 108488 | [108488-offroad-oil-tanker-hill-drivin.json](./108488-offroad-oil-tanker-hill-drivin.json) |
 | Offroad Racing | 125843 | [125843-offroad-racing.json](./125843-offroad-racing.json) |
