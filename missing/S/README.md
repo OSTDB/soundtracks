@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Princess? Save a Fart! | 405464 | [405464-save-the-princess-save-a-fart.json](./405464-save-the-princess-save-a-fart.json) |
 | Save the Puppy: Pet Dog Rescue | 221384 | [221384-save-the-puppy-pet-dog-rescue.json](./221384-save-the-puppy-pet-dog-rescue.json) |
 | Save the Reactor | 190174 | [190174-save-the-reactor.json](./190174-save-the-reactor.json) |
+| Save the Villy | 101389 | [101389-save-the-villy.json](./101389-save-the-villy.json) |
 | Save Them | 106536 | [106536-save-them.json](./106536-save-them.json) |
 | Save Your Soul | 370187 | [370187-save-your-soul.json](./370187-save-your-soul.json) |
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
@@ -3747,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelets | 140620 | [140620-skelets.json](./140620-skelets.json) |
 | Skeljump | 257377 | [257377-skeljump.json](./257377-skeljump.json) |
 | Skellboy | 113101 | [113101-skellboy.json](./113101-skellboy.json) |
+| Skelli Tower Defense | 101390 | [101390-skelli-tower-defense.json](./101390-skelli-tower-defense.json) |
 | Skellington | 224758 | [224758-skellington.json](./224758-skellington.json) |
 | Skepixel | 75154 | [75154-skepixel.json](./75154-skepixel.json) |
 | Sker Ritual: Bloody Night | 279012 | [279012-sker-ritual-bloody-night.json](./279012-sker-ritual-bloody-night.json) |
@@ -4303,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slipways | 176372 | [176372-slipways.json](./176372-slipways.json) |
 | Slit Your Wrists! | 234729 | [234729-slit-your-wrists.json](./234729-slit-your-wrists.json) |
 | Slither Realm | 388946 | [388946-slither-realm.json](./388946-slither-realm.json) |
+| Slither Snake IO 2018 | 101372 | [101372-slither-snake-io-2018.json](./101372-slither-snake-io-2018.json) |
 | Slither.io | 239311 | [239311-slither-io.json](./239311-slither-io.json) |
 | Slitherin' | 176363 | [176363-slitherin.json](./176363-slitherin.json) |
 | Slitherine's Legion | 200109 | [200109-slitherines-legion.json](./200109-slitherines-legion.json) |
@@ -5150,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire | 246627 | [246627-solitaire.json](./246627-solitaire.json) |
 | Solitaire | 80744 | [80744-solitaire.json](./80744-solitaire.json) |
 | Solitaire - Smart Moves | 102725 | [102725-solitaire-smart-moves.json](./102725-solitaire-smart-moves.json) |
+| Solitaire - The Perfect Game for Your Short Office Break | 101346 | [101346-solitaire-the-perfect-game-for-your-short-office-break.json](./101346-solitaire-the-perfect-game-for-your-short-office-break.json) |
 | Solitaire (Klondike) | 89221 | [89221-solitaire-klondike.json](./89221-solitaire-klondike.json) |
 | Solitaire & Mahjong | 117660 | [117660-solitaire-and-mahjong.json](./117660-solitaire-and-mahjong.json) |
 | Solitaire 3D | 89738 | [89738-solitaire-3d.json](./89738-solitaire-3d.json) |
@@ -9614,6 +9618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Auto Pets | 146641 | [146641-super-auto-pets.json](./146641-super-auto-pets.json) |
 | Super Auto Racing | 245581 | [245581-super-auto-racing.json](./245581-super-auto-racing.json) |
 | Super Auto Salon: Custom Car Contest | 133782 | [133782-super-auto-salon-custom-car-contest.json](./133782-super-auto-salon-custom-car-contest.json) |
+| Super B-Dino's adventures | 101386 | [101386-super-b-dinos-adventures.json](./101386-super-b-dinos-adventures.json) |
 | Super Bad Hero | 296504 | [296504-super-bad-hero.json](./296504-super-bad-hero.json) |
 | Super Ball Arena | 215707 | [215707-super-ball-arena.json](./215707-super-ball-arena.json) |
 | Super Barista | 128408 | [128408-super-barista.json](./128408-super-barista.json) |
