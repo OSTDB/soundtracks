@@ -4030,6 +4030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer: Twins' Day | 275577 | [275577-dora-the-explorer-twins-day.json](./275577-dora-the-explorer-twins-day.json) |
 | Dora's Ballet Adventures | 209122 | [209122-doras-ballet-adventures.json](./209122-doras-ballet-adventures.json) |
 | Dora's Cooking Club | 47964 | [47964-doras-cooking-club.json](./47964-doras-cooking-club.json) |
+| Dorabase: Dramatic Stadium | 91771 | [91771-dorabase-dramatic-stadium.json](./91771-dorabase-dramatic-stadium.json) |
 | Dorachan | 178099 | [178099-dorachan.json](./178099-dorachan.json) |
 | Doradora Panic | 151679 | [151679-doradora-panic.json](./151679-doradora-panic.json) |
 | Doraemon 2: Nobita to Hikari no Shinden | 3473 | [3473-doraemon-2-nobita-to-hikari-no-shinden.json](./3473-doraemon-2-nobita-to-hikari-no-shinden.json) |
@@ -4039,10 +4040,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Story of Seasons: Friends of the Great Kingdom | 206815 | [206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json](./206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json) |
 | Doraemon Tanoshii Enseikatsu Youchien Hoikuen | 313284 | [313284-doraemon-tanoshii-enseikatsu-youchien-hoikuen.json](./313284-doraemon-tanoshii-enseikatsu-youchien-hoikuen.json) |
 | Doraemon Waku-waku Sekai Isshuu Game: Asonde Oboeru Chizu Kokki | 327575 | [327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json](./327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json) |
+| Doraemon Wii: Himitsu Douguou Ketteisen! | 91773 | [91773-doraemon-wii-himitsu-douguou-ketteisen.json](./91773-doraemon-wii-himitsu-douguou-ketteisen.json) |
 | Doraemon: Minna de Asobou! Mini Doland | 50587 | [50587-doraemon-minna-de-asobou-mini-doland.json](./50587-doraemon-minna-de-asobou-mini-doland.json) |
 | Doraemon: Nobita no Doki-doki! Obake Land | 231512 | [231512-doraemon-nobita-no-doki-doki-obake-land.json](./231512-doraemon-nobita-no-doki-doki-obake-land.json) |
 | Doraemon: Nobita no Himitsu Dougu Hakubutsukan | 60544 | [60544-doraemon-nobita-no-himitsu-dougu-hakubutsukan.json](./60544-doraemon-nobita-no-himitsu-dougu-hakubutsukan.json) |
 | Doraemon: Nobita to 3-tsu no Seireiseki | 70797 | [70797-doraemon-nobita-to-3-tsu-no-seireiseki.json](./70797-doraemon-nobita-to-3-tsu-no-seireiseki.json) |
+| Doraemon: Nobita to Fukkatsu no Hoshi | 91772 | [91772-doraemon-nobita-to-fukkatsu-no-hoshi.json](./91772-doraemon-nobita-to-fukkatsu-no-hoshi.json) |
 | Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai | 60545 | [60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json](./60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json) |
 | DoraKone | 116849 | [116849-dorakone.json](./116849-dorakone.json) |
 | Dorasyeoda | 278528 | [278528-dorasyeoda.json](./278528-dorasyeoda.json) |
