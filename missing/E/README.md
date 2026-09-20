@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ele-Mental | 149082 | [149082-ele-mental.json](./149082-ele-mental.json) |
 | Eleanor 3 | 286502 | [286502-eleanor-3.json](./286502-eleanor-3.json) |
 | Eleanor's Handmaid | 253967 | [253967-eleanors-handmaid.json](./253967-eleanors-handmaid.json) |
+| Elearning Development Intern | 116115 | [116115-elearning-development-intern.json](./116115-elearning-development-intern.json) |
 | EleBall | 302944 | [302944-eleball.json](./302944-eleball.json) |
 | Elecade | 400907 | [400907-elecade.json](./400907-elecade.json) |
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
@@ -1191,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Tanks | 269270 | [269270-energy-tanks.json](./269270-energy-tanks.json) |
 | Energy Warrior | 55100 | [55100-energy-warrior.json](./55100-energy-warrior.json) |
 | Energy Warrior + Molecule Man | 92999 | [92999-energy-warrior-molecule-man.json](./92999-energy-warrior-molecule-man.json) |
+| Enersify | 116123 | [116123-enersify.json](./116123-enersify.json) |
 | ENF Novels: Dress Code | 286526 | [286526-enf-novels-dress-code.json](./286526-enf-novels-dress-code.json) |
 | Enga Extreme Battle Race | 172104 | [172104-enga-extreme-battle-race.json](./172104-enga-extreme-battle-race.json) |
 | Engage Princess: Nemureru Himegimi to Yume no Mahoutsukai | 205618 | [205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json](./205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json) |
@@ -1882,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eureka Seven AO: Jungfrau no Hanabanatachi | 44590 | [44590-eureka-seven-ao-jungfrau-no-hanabanatachi.json](./44590-eureka-seven-ao-jungfrau-no-hanabanatachi.json) |
 | Eureka Seven Vol.1: The New Wave | 19641 | [19641-eureka-seven-vol-1-the-new-wave.json](./19641-eureka-seven-vol-1-the-new-wave.json) |
 | Eureka Seven: AO - The Flowers of Jungfrau | 64905 | [64905-eureka-seven-ao-the-flowers-of-jungfrau.json](./64905-eureka-seven-ao-the-flowers-of-jungfrau.json) |
+| Eurgava: Tomb of Senza | 116122 | [116122-eurgava-tomb-of-senza.json](./116122-eurgava-tomb-of-senza.json) |
 | Euro Club Manager 2003-04 | 94706 | [94706-euro-club-manager-2003-04.json](./94706-euro-club-manager-2003-04.json) |
 | Euro Fishing: Urban Edition | 52979 | [52979-euro-fishing-urban-edition.json](./52979-euro-fishing-urban-edition.json) |
 | Euro Rally Champion | 43298 | [43298-euro-rally-champion.json](./43298-euro-rally-champion.json) |
