@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James' Fun House: Episode 1 | 276856 | [276856-james-fun-house-episode-1.json](./276856-james-fun-house-episode-1.json) |
 | Jamestown: Legend of the Lost Colony | 6278 | [6278-jamestown-legend-of-the-lost-colony.json](./6278-jamestown-legend-of-the-lost-colony.json) |
 | Jamie Quest | 327373 | [327373-jamie-quest.json](./327373-jamie-quest.json) |
+| JamLegend | 93992 | [93992-jamlegend.json](./93992-jamlegend.json) |
 | Jammer | 67972 | [67972-jammer.json](./67972-jammer.json) |
 | Jammin' | 126016 | [126016-jammin.json](./126016-jammin.json) |
 | Jammin' With Mario | 283911 | [283911-jammin-with-mario.json](./283911-jammin-with-mario.json) |
@@ -1269,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juuden Youshuugi: Crimson Paraselene | 253929 | [253929-juuden-youshuugi-crimson-paraselene.json](./253929-juuden-youshuugi-crimson-paraselene.json) |
 | Juuken Sentai Gekiranger: Niki-niki! Kazu Katachi ni Challenge! | 327594 | [327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json](./327594-juuken-sentai-gekiranger-niki-niki-kazu-katachi-ni-challenge.json) |
 | Juukou Senki: Bullet Battlers | 228567 | [228567-juukou-senki-bullet-battlers.json](./228567-juukou-senki-bullet-battlers.json) |
+| Juurin | 93986 | [93986-juurin.json](./93986-juurin.json) |
 | Juuryoku Shisen-shou | 206352 | [206352-juuryoku-shisen-shou.json](./206352-juuryoku-shisen-shou.json) |
 | Juuyoku no Jousai | 134624 | [134624-juuyoku-no-jousai.json](./134624-juuyoku-no-jousai.json) |
 | Juuzaengi: Engetsu Sangoku Den 1 & 2 | 135859 | [135859-juuzaengi-engetsu-sangoku-den-1-and-2.json](./135859-juuzaengi-engetsu-sangoku-den-1-and-2.json) |
