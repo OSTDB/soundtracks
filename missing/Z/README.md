@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero: Circle of Flow | 145579 | [145579-zero-circle-of-flow.json](./145579-zero-circle-of-flow.json) |
 | Zero4 Champ DooZy-J | 125856 | [125856-zero4-champ-doozy-j.json](./125856-zero4-champ-doozy-j.json) |
 | Zero4 Champ II | 125857 | [125857-zero4-champ-ii.json](./125857-zero4-champ-ii.json) |
+| Zero4 Champ Series: Drift Champ | 124629 | [124629-zero4-champ-series-drift-champ.json](./124629-zero4-champ-series-drift-champ.json) |
 | Zeroentity | 193942 | [193942-zeroentity.json](./193942-zeroentity.json) |
 | Zeromiss | 327210 | [327210-zeromiss.json](./327210-zeromiss.json) |
 | Zerone 2D | 161899 | [161899-zerone-2d.json](./161899-zerone-2d.json) |
@@ -562,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
 | Zombies in City: Apocalypse Survival | 215115 | [215115-zombies-in-city-apocalypse-survival.json](./215115-zombies-in-city-apocalypse-survival.json) |
 | Zombies Inc | 104617 | [104617-zombies-inc.json](./104617-zombies-inc.json) |
+| Zombies Overloaded | 124618 | [124618-zombies-overloaded.json](./124618-zombies-overloaded.json) |
 | Zombies TD | 213404 | [213404-zombies-td.json](./213404-zombies-td.json) |
 | Zombies vs. Sheep | 67294 | [67294-zombies-vs-sheep.json](./67294-zombies-vs-sheep.json) |
 | Zombies vs. You | 289339 | [289339-zombies-vs-you.json](./289339-zombies-vs-you.json) |
