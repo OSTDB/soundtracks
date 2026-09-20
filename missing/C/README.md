@@ -5857,6 +5857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Royale | 269035 | [269035-cube-royale.json](./269035-cube-royale.json) |
 | Cube RPG | 260211 | [260211-cube-rpg.json](./260211-cube-rpg.json) |
 | Cube Runner | 30128 | [30128-cube-runner.json](./30128-cube-runner.json) |
+| Cube Runner | 72964 | [72964-cube-runner.json](./72964-cube-runner.json) |
 | Cube Rush | 112340 | [112340-cube-rush.json](./112340-cube-rush.json) |
 | Cube School | 408905 | [408905-cube-school.json](./408905-cube-school.json) |
 | Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
