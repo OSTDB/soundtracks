@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Operation: Episode 1 - Healer Rugitta | 256557 | [256557-lethal-operation-episode-1-healer-rugitta.json](./256557-lethal-operation-episode-1-healer-rugitta.json) |
 | Lethal Pongbat | 161904 | [161904-lethal-pongbat.json](./161904-lethal-pongbat.json) |
 | Lethal RPG Destiny: Rebirth | 309094 | [309094-lethal-rpg-destiny-rebirth.json](./309094-lethal-rpg-destiny-rebirth.json) |
+| Lethal RPG: War | 101991 | [101991-lethal-rpg-war.json](./101991-lethal-rpg-war.json) |
 | Lethal Weapon | 39024 | [39024-lethal-weapon.json](./39024-lethal-weapon.json) |
 | Lethal Women: World of Femdom and Espionage | 340913 | [340913-lethal-women-world-of-femdom-and-espionage.json](./340913-lethal-women-world-of-femdom-and-espionage.json) |
 | LethalRpgDestiny | 309093 | [309093-lethalrpgdestiny.json](./309093-lethalrpgdestiny.json) |
@@ -2323,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking for Something | 316653 | [316653-looking-for-something.json](./316653-looking-for-something.json) |
 | Lookouts | 177910 | [177910-lookouts.json](./177910-lookouts.json) |
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
+| Looney Tune Dash | 101947 | [101947-looney-tune-dash.json](./101947-looney-tune-dash.json) |
 | Looney Tunes World of Mayhem | 97314 | [97314-looney-tunes-world-of-mayhem.json](./97314-looney-tunes-world-of-mayhem.json) |
 | Looney Tunes: Acme Antics | 137000 | [137000-looney-tunes-acme-antics.json](./137000-looney-tunes-acme-antics.json) |
 | Looney Tunes: Back in Action | 3979 | [3979-looney-tunes-back-in-action.json](./3979-looney-tunes-back-in-action.json) |
@@ -2577,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Islands: Legend Pack | 326265 | [326265-lost-islands-legend-pack.json](./326265-lost-islands-legend-pack.json) |
 | Lost Islands: Pioneer Pack | 326266 | [326266-lost-islands-pioneer-pack.json](./326266-lost-islands-pioneer-pack.json) |
 | Lost Isle | 269320 | [269320-lost-isle.json](./269320-lost-isle.json) |
+| Lost Journey (Dreamsky) | 101986 | [101986-lost-journey-dreamsky.json](./101986-lost-journey-dreamsky.json) |
 | Lost Judgment | 146851 | [146851-lost-judgment.json](./146851-lost-judgment.json) |
 | Lost Judgment: Detective Essentials Pack | 264067 | [264067-lost-judgment-detective-essentials-pack.json](./264067-lost-judgment-detective-essentials-pack.json) |
 | Lost Judgment: Digital Deluxe Edition | 173165 | [173165-lost-judgment-digital-deluxe-edition.json](./173165-lost-judgment-digital-deluxe-edition.json) |
