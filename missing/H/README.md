@@ -2821,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Is Where the Haunt Is | 362881 | [362881-home-is-where-the-haunt-is.json](./362881-home-is-where-the-haunt-is.json) |
 | Home Makeover: Hidden Object | 146710 | [146710-home-makeover-hidden-object.json](./146710-home-makeover-hidden-object.json) |
 | Home Pin 2: Family Adventure | 227362 | [227362-home-pin-2-family-adventure.json](./227362-home-pin-2-family-adventure.json) |
+| Home Renovate 'N Sale | 105789 | [105789-home-renovate-n-sale.json](./105789-home-renovate-n-sale.json) |
 | Home Rescue Clean And Restore Collector's Edition | 399642 | [399642-home-rescue-clean-and-restore-collectors-edition.json](./399642-home-rescue-clean-and-restore-collectors-edition.json) |
 | Home Run High | 109008 | [109008-home-run-high.json](./109008-home-run-high.json) |
 | Home Run King | 242809 | [242809-home-run-king.json](./242809-home-run-king.json) |
@@ -3323,6 +3324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Tome ws | 340486 | [340486-hotel-tome-ws.json](./340486-hotel-tome-ws.json) |
 | Hotel Transylvania 2: The Game | 108822 | [108822-hotel-transylvania-2-the-game.json](./108822-hotel-transylvania-2-the-game.json) |
 | Hotel Transylvania Dash | 108820 | [108820-hotel-transylvania-dash.json](./108820-hotel-transylvania-dash.json) |
+| Hotel Transylvania: Crazy Cruise | 105769 | [105769-hotel-transylvania-crazy-cruise.json](./105769-hotel-transylvania-crazy-cruise.json) |
 | Hotel Transylvania: Social Game | 108821 | [108821-hotel-transylvania-social-game.json](./108821-hotel-transylvania-social-game.json) |
 | Hotelnomaly | 318062 | [318062-hotelnomaly.json](./318062-hotelnomaly.json) |
 | HotFloor | 102406 | [102406-hotfloor.json](./102406-hotfloor.json) |
