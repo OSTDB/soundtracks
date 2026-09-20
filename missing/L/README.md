@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaderboard | 15246 | [15246-leaderboard.json](./15246-leaderboard.json) |
 | Leadersheep | 183509 | [183509-leadersheep.json](./183509-leadersheep.json) |
 | Leading Company | 46004 | [46004-leading-company.json](./46004-leading-company.json) |
+| Leaf | 116865 | [116865-leaf.json](./116865-leaf.json) |
 | Leaf Blower Sim | 276272 | [276272-leaf-blower-sim.json](./276272-leaf-blower-sim.json) |
 | Leaf Blowing Simulator | 290556 | [290556-leaf-blowing-simulator.json](./290556-leaf-blowing-simulator.json) |
 | Leaf Clicker: Grow Your Green Thumb! | 340908 | [340908-leaf-clicker-grow-your-green-thumb.json](./340908-leaf-clicker-grow-your-green-thumb.json) |
@@ -1664,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linear S | 349331 | [349331-linear-s.json](./349331-linear-s.json) |
 | LinearShooter Remixed | 186327 | [186327-linearshooter-remixed.json](./186327-linearshooter-remixed.json) |
 | Linecook | 179198 | [179198-linecook.json](./179198-linecook.json) |
+| Linehot Putin: All Stars | 116855 | [116855-linehot-putin-all-stars.json](./116855-linehot-putin-all-stars.json) |
 | Lineoff | 181913 | [181913-lineoff.json](./181913-lineoff.json) |
 | Lines | 91339 | [91339-lines.json](./91339-lines.json) |
 | Lines - Best Puzzle Game | 87073 | [87073-lines-best-puzzle-game.json](./87073-lines-best-puzzle-game.json) |
@@ -2452,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Amulets: Four Guardians | 223170 | [223170-lost-amulets-four-guardians.json](./223170-lost-amulets-four-guardians.json) |
 | Lost and Flounder | 108985 | [108985-lost-and-flounder.json](./108985-lost-and-flounder.json) |
 | Lost and Found Co. | 224629 | [224629-lost-and-found-co.json](./224629-lost-and-found-co.json) |
+| Lost and Hound | 116833 | [116833-lost-and-hound.json](./116833-lost-and-hound.json) |
 | Lost Assassin | 157574 | [157574-lost-assassin.json](./157574-lost-assassin.json) |
 | Lost at Sea | 209139 | [209139-lost-at-sea.json](./209139-lost-at-sea.json) |
 | Lost Boy | 179063 | [179063-lost-boy.json](./179063-lost-boy.json) |
