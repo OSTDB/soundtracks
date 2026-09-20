@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.U.M. Slay Uncool Monsters: Wizard | 168249 | [168249-s-u-m-slay-uncool-monsters-wizard.json](./168249-s-u-m-slay-uncool-monsters-wizard.json) |
 | S4Game | 213463 | [213463-s4game.json](./213463-s4game.json) |
 | S7 Mexico | 218728 | [218728-s7-mexico.json](./218728-s7-mexico.json) |
+| Saaam | 108848 | [108848-saaam.json](./108848-saaam.json) |
 | Saadex: Perpetual Storm | 270933 | [270933-saadex-perpetual-storm.json](./270933-saadex-perpetual-storm.json) |
 | Saap2003 | 77319 | [77319-saap2003.json](./77319-saap2003.json) |
 | Sabak Legend | 123563 | [123563-sabak-legend.json](./123563-sabak-legend.json) |
@@ -156,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SaGa 2: A Haniwa's Contingency | 360104 | [360104-saga-2-a-haniwas-contingency.json](./360104-saga-2-a-haniwas-contingency.json) |
 | SaGa Frontier 2 Remastered | 294870 | [294870-saga-frontier-2-remastered.json](./294870-saga-frontier-2-remastered.json) |
 | Saga of Guardians | 322764 | [322764-saga-of-guardians.json](./322764-saga-of-guardians.json) |
+| Saga of Nine Worlds: The Stags | 108853 | [108853-saga-of-nine-worlds-the-stags.json](./108853-saga-of-nine-worlds-the-stags.json) |
 | Saga of Sins | 211238 | [211238-saga-of-sins.json](./211238-saga-of-sins.json) |
 | Saga of the Moon Priestess | 274507 | [274507-saga-of-the-moon-priestess.json](./274507-saga-of-the-moon-priestess.json) |
 | Saga of the Nine Worlds: The Gathering | 74311 | [74311-saga-of-the-nine-worlds-the-gathering.json](./74311-saga-of-the-nine-worlds-the-gathering.json) |
@@ -209,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailwind | 180225 | [180225-sailwind.json](./180225-sailwind.json) |
 | Saily Seas | 297507 | [297507-saily-seas.json](./297507-saily-seas.json) |
 | Saimazoom | 45326 | [45326-saimazoom.json](./45326-saimazoom.json) |
+| Saimin Choukyou Shimai | 108866 | [108866-saimin-choukyou-shimai.json](./108866-saimin-choukyou-shimai.json) |
 | Saint | 94739 | [94739-saint.json](./94739-saint.json) |
 | Saint Dragon | 12207 | [12207-saint-dragon.json](./12207-saint-dragon.json) |
 | Saint George's Tavern | 388731 | [388731-saint-georges-tavern.json](./388731-saint-georges-tavern.json) |
@@ -1555,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Genesis Ultimate Portable Game Player | 202787 | [202787-sega-genesis-ultimate-portable-game-player.json](./202787-sega-genesis-ultimate-portable-game-player.json) |
 | Sega GT | 28838 | [28838-sega-gt.json](./28838-sega-gt.json) |
 | Sega GT 2002 / Jet Set Radio Future | 144128 | [144128-sega-gt-2002-jet-set-radio-future.json](./144128-sega-gt-2002-jet-set-radio-future.json) |
+| Sega Legends | 108842 | [108842-sega-legends.json](./108842-sega-legends.json) |
 | Sega Mega Drive Portable Video Game Player | 202781 | [202781-sega-mega-drive-portable-video-game-player.json](./202781-sega-mega-drive-portable-video-game-player.json) |
 | Sega Mega Drive Portable Video Game Player: Streets of Rage Special Edition | 202782 | [202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json](./202782-sega-mega-drive-portable-video-game-player-streets-of-rage-special-edition.json) |
 | Sega Rally 2 | 1572 | [1572-sega-rally-2.json](./1572-sega-rally-2.json) |
@@ -4111,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendr | 64361 | [64361-slendr.json](./64361-slendr.json) |
 | Slendrina | 233774 | [233774-slendrina.json](./233774-slendrina.json) |
 | Slendrina Must Die: The Asylum | 321384 | [321384-slendrina-must-die-the-asylum.json](./321384-slendrina-must-die-the-asylum.json) |
+| Slendrina Must Die: The Cellar | 108844 | [108844-slendrina-must-die-the-cellar.json](./108844-slendrina-must-die-the-cellar.json) |
 | Slendrina Must Die: The House | 321382 | [321382-slendrina-must-die-the-house.json](./321382-slendrina-must-die-the-house.json) |
 | Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
@@ -5786,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soter | 157139 | [157139-soter.json](./157139-soter.json) |
 | Sotidrokhima | 226396 | [226396-sotidrokhima.json](./226396-sotidrokhima.json) |
 | Soto Nemuri | 229671 | [229671-soto-nemuri.json](./229671-soto-nemuri.json) |
+| Sotsugyou Crossworld | 108838 | [108838-sotsugyou-crossworld.json](./108838-sotsugyou-crossworld.json) |
 | Sotsugyou: Graduation | 242774 | [242774-sotsugyou-graduation.json](./242774-sotsugyou-graduation.json) |
 | Sotsugyou: Graduation - Final | 268543 | [268543-sotsugyou-graduation-final.json](./268543-sotsugyou-graduation-final.json) |
 | Sou Desu, Anata no Koibito Desu. | 285992 | [285992-sou-desu-anata-no-koibito-desu.json](./285992-sou-desu-anata-no-koibito-desu.json) |
@@ -7368,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stakeholder Game | 190069 | [190069-stakeholder-game.json](./190069-stakeholder-game.json) |
 | Stakes Winner | 39626 | [39626-stakes-winner.json](./39626-stakes-winner.json) |
 | Stakes Winner 2 | 39625 | [39625-stakes-winner-2.json](./39625-stakes-winner-2.json) |
+| Stalagflight | 108861 | [108861-stalagflight.json](./108861-stalagflight.json) |
 | Stalcraft | 321393 | [321393-stalcraft.json](./321393-stalcraft.json) |
 | Stale Nation | 235762 | [235762-stale-nation.json](./235762-stale-nation.json) |
 | Stalin vs. Martians | 8543 | [8543-stalin-vs-martians.json](./8543-stalin-vs-martians.json) |
@@ -7389,9 +7396,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand O'Food 3 | 87189 | [87189-stand-ofood-3.json](./87189-stand-ofood-3.json) |
 | Stand Out: VR Battle Royale | 115729 | [115729-stand-out-vr-battle-royale.json](./115729-stand-out-vr-battle-royale.json) |
 | Stand Your Ground | 259098 | [259098-stand-your-ground.json](./259098-stand-your-ground.json) |
+| Standard Bits | 108835 | [108835-standard-bits.json](./108835-standard-bits.json) |
 | Standard Legend | 116365 | [116365-standard-legend.json](./116365-standard-legend.json) |
 | Standby | 248069 | [248069-standby.json](./248069-standby.json) |
 | Standby | 26715 | [26715-standby.json](./26715-standby.json) |
+| Standby Say You! | 108836 | [108836-standby-say-you.json](./108836-standby-say-you.json) |
 | StandOff | 348831 | [348831-standoff.json](./348831-standoff.json) |
 | Standoff Multiplayer | 138172 | [138172-standoff-multiplayer.json](./138172-standoff-multiplayer.json) |
 | Stanga | 133210 | [133210-stanga.json](./133210-stanga.json) |
@@ -10923,6 +10932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Adventure | 392916 | [392916-sweet-adventure.json](./392916-sweet-adventure.json) |
 | Sweet and Cute | 169381 | [169381-sweet-and-cute.json](./169381-sweet-and-cute.json) |
 | Sweet Baby Girl Christmas 2 | 227474 | [227474-sweet-baby-girl-christmas-2.json](./227474-sweet-baby-girl-christmas-2.json) |
+| Sweet Baby Girl Mermaid Life | 108852 | [108852-sweet-baby-girl-mermaid-life.json](./108852-sweet-baby-girl-mermaid-life.json) |
 | Sweet Bakery Tycoon: Complete Edition | 284931 | [284931-sweet-bakery-tycoon-complete-edition.json](./284931-sweet-bakery-tycoon-complete-edition.json) |
 | Sweet Bakery Tycoon: Super Edition | 315851 | [315851-sweet-bakery-tycoon-super-edition.json](./315851-sweet-bakery-tycoon-super-edition.json) |
 | Sweet Bakery Tycoon: Value Edition | 317243 | [317243-sweet-bakery-tycoon-value-edition.json](./317243-sweet-bakery-tycoon-value-edition.json) |
