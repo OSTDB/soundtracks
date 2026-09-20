@@ -190,7 +190,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ylands | 36297 | [36297-ylands.json](./36297-ylands.json) |
 | Ymir | 50092 | [50092-ymir.json](./50092-ymir.json) |
 | Yni^ | 339804 | [339804-yni.json](./339804-yni.json) |
+| Ynth | 67673 | [67673-ynth.json](./67673-ynth.json) |
 | Yo My Yo! | 112355 | [112355-yo-my-yo.json](./112355-yo-my-yo.json) |
+| Yo-Ho Kablammo | 67690 | [67690-yo-ho-kablammo.json](./67690-yo-ho-kablammo.json) |
 | Yo-Ho-Ho Cannon | 349842 | [349842-yo-ho-ho-cannon.json](./349842-yo-ho-ho-cannon.json) |
 | Yo-Jin-Bo: The Bodyguards | 72679 | [72679-yo-jin-bo-the-bodyguards.json](./72679-yo-jin-bo-the-bodyguards.json) |
 | Yo-kai Sangokushi: Kunitori Wars | 77356 | [77356-yo-kai-sangokushi-kunitori-wars.json](./77356-yo-kai-sangokushi-kunitori-wars.json) |
