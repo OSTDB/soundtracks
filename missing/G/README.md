@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxity: Terminal 21 VR | 191132 | [191132-galaxity-terminal-21-vr.json](./191132-galaxity-terminal-21-vr.json) |
 | GalaxIverse | 31881 | [31881-galaxiverse.json](./31881-galaxiverse.json) |
 | GalaxIverse II | 304895 | [304895-galaxiverse-ii.json](./304895-galaxiverse-ii.json) |
+| GalaxSeed | 97714 | [97714-galaxseed.json](./97714-galaxseed.json) |
 | Galaxy | 154578 | [154578-galaxy.json](./154578-galaxy.json) |
 | Galaxy | 381043 | [381043-galaxy.json](./381043-galaxy.json) |
 | Galaxy Angel | 70414 | [70414-galaxy-angel.json](./70414-galaxy-angel.json) |
