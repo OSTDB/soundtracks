@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casos Extravagantes Poco Complicados | 151531 | [151531-casos-extravagantes-poco-complicados.json](./151531-casos-extravagantes-poco-complicados.json) |
 | Casper: Friends Around the World | 44956 | [44956-casper-friends-around-the-world.json](./44956-casper-friends-around-the-world.json) |
 | Cassandra's Fabulous Foray | 67931 | [67931-cassandras-fabulous-foray.json](./67931-cassandras-fabulous-foray.json) |
+| Cassette 50 | 93344 | [93344-cassette-50.json](./93344-cassette-50.json) |
 | Cassette Boy | 248898 | [248898-cassette-boy.json](./248898-cassette-boy.json) |
 | Cassette Five | 153853 | [153853-cassette-five.json](./153853-cassette-five.json) |
 | Cassidy | 145032 | [145032-cassidy.json](./145032-cassidy.json) |
@@ -3918,6 +3919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commando Jack Respawn | 136393 | [136393-commando-jack-respawn.json](./136393-commando-jack-respawn.json) |
 | Commando Raid | 11153 | [11153-commando-raid.json](./11153-commando-raid.json) |
 | Commando vs Zombies | 99002 | [99002-commando-vs-zombies.json](./99002-commando-vs-zombies.json) |
+| Commando Xenidis | 93355 | [93355-commando-xenidis.json](./93355-commando-xenidis.json) |
 | Commandos 2 & 3: HD Remaster Double Pack | 212870 | [212870-commandos-2-and-3-hd-remaster-double-pack.json](./212870-commandos-2-and-3-hd-remaster-double-pack.json) |
 | Commandos 2 & Praetorians HD Remaster Double Pack | 139932 | [139932-commandos-2-and-praetorians-hd-remaster-double-pack.json](./139932-commandos-2-and-praetorians-hd-remaster-double-pack.json) |
 | Commandos 2: HD Remaster | 119381 | [119381-commandos-2-hd-remaster.json](./119381-commandos-2-hd-remaster.json) |
