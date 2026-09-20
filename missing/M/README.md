@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad News | 265973 | [265973-mad-news.json](./265973-mad-news.json) |
 | Mad Nords: Probably an Epic Quest | 34327 | [34327-mad-nords-probably-an-epic-quest.json](./34327-mad-nords-probably-an-epic-quest.json) |
 | Mad Octahedron | 104483 | [104483-mad-octahedron.json](./104483-mad-octahedron.json) |
+| Mad Quad | 80906 | [80906-mad-quad.json](./80906-mad-quad.json) |
 | Mad Rat | 279741 | [279741-mad-rat.json](./279741-mad-rat.json) |
 | Mad Rider | 145025 | [145025-mad-rider.json](./145025-mad-rider.json) |
 | Mad Road: Apocalyptic Shooter Survival Killer | 251597 | [251597-mad-road-apocalyptic-shooter-survival-killer.json](./251597-mad-road-apocalyptic-shooter-survival-killer.json) |
@@ -1918,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayday: The Survival Island | 169856 | [169856-mayday-the-survival-island.json](./169856-mayday-the-survival-island.json) |
 | Mayflower Reflections | 191836 | [191836-mayflower-reflections.json](./191836-mayflower-reflections.json) |
 | Mayhem | 7066 | [7066-mayhem.json](./7066-mayhem.json) |
+| Mayhem | 80875 | [80875-mayhem.json](./80875-mayhem.json) |
 | Mayhem 1500 | 269126 | [269126-mayhem-1500.json](./269126-mayhem-1500.json) |
 | Mayhem 2012 | 269123 | [269123-mayhem-2012.json](./269123-mayhem-2012.json) |
 | Mayhem 2013 | 269124 | [269124-mayhem-2013.json](./269124-mayhem-2013.json) |
@@ -2614,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memento Mori | 209527 | [209527-memento-mori.json](./209527-memento-mori.json) |
 | Memento Mori | 28231 | [28231-memento-mori.json](./28231-memento-mori.json) |
 | Memento Mori 2 | 16529 | [16529-memento-mori-2.json](./16529-memento-mori-2.json) |
+| Memento of Spring | 80923 | [80923-memento-of-spring.json](./80923-memento-of-spring.json) |
 | Memento Vivere | 161355 | [161355-memento-vivere.json](./161355-memento-vivere.json) |
 | Memento*Fragment | 410256 | [410256-memento-fragment.json](./410256-memento-fragment.json) |
 | Memes | 51564 | [51564-memes.json](./51564-memes.json) |
@@ -3581,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimi the Cat: New Friends | 253911 | [253911-mimi-the-cat-new-friends.json](./253911-mimi-the-cat-new-friends.json) |
 | Mimi Wuhui | 410959 | [410959-mimi-wuhui.json](./410959-mimi-wuhui.json) |
 | Mimic | 286103 | [286103-mimic.json](./286103-mimic.json) |
+| Mimic | 80902 | [80902-mimic.json](./80902-mimic.json) |
 | Mimic Hunters | 239761 | [239761-mimic-hunters.json](./239761-mimic-hunters.json) |
 | Mimic Party | 413646 | [413646-mimic-party.json](./413646-mimic-party.json) |
 | Mimic Search | 278678 | [278678-mimic-search.json](./278678-mimic-search.json) |
@@ -5987,6 +5991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musical Balls | 149525 | [149525-musical-balls.json](./149525-musical-balls.json) |
 | Musical de Primeiro de Abril | 243404 | [243404-musical-de-primeiro-de-abril.json](./243404-musical-de-primeiro-de-abril.json) |
 | Musical Range | 30819 | [30819-musical-range.json](./30819-musical-range.json) |
+| Musical Reflex | 80937 | [80937-musical-reflex.json](./80937-musical-reflex.json) |
 | Musical Vibes | 257971 | [257971-musical-vibes.json](./257971-musical-vibes.json) |
 | Musical Zoo | 79934 | [79934-musical-zoo.json](./79934-musical-zoo.json) |
 | Musicmenia | 314477 | [314477-musicmenia.json](./314477-musicmenia.json) |
