@@ -4954,6 +4954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Girls | 58786 | [58786-drift-girls.json](./58786-drift-girls.json) |
 | Drift Journey: Nitro | 214499 | [214499-drift-journey-nitro.json](./214499-drift-journey-nitro.json) |
 | Drift King Shuto-kou Battle 2: Tsuchiya Keiichi & Bandou Masaaki | 46582 | [46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json](./46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json) |
+| Drift Legends | 89647 | [89647-drift-legends.json](./89647-drift-legends.json) |
 | Drift Mania | 161412 | [161412-drift-mania.json](./161412-drift-mania.json) |
 | Drift Mania: Street Outlaws | 38938 | [38938-drift-mania-street-outlaws.json](./38938-drift-mania-street-outlaws.json) |
 | Drift Market | 388757 | [388757-drift-market.json](./388757-drift-market.json) |
@@ -5462,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Explorer II | 42022 | [42022-dungeon-explorer-ii.json](./42022-dungeon-explorer-ii.json) |
 | Dungeon Explorer: Warriors of the Ancient Arts | 20274 | [20274-dungeon-explorer-warriors-of-the-ancient-arts.json](./20274-dungeon-explorer-warriors-of-the-ancient-arts.json) |
 | Dungeon Full Dive: True Supporter Dice | 305780 | [305780-dungeon-full-dive-true-supporter-dice.json](./305780-dungeon-full-dive-true-supporter-dice.json) |
+| Dungeon Gambit Boy | 89666 | [89666-dungeon-gambit-boy.json](./89666-dungeon-gambit-boy.json) |
 | Dungeon Girl Scouts | 210693 | [210693-dungeon-girl-scouts.json](./210693-dungeon-girl-scouts.json) |
 | Dungeon Golf | 244507 | [244507-dungeon-golf.json](./244507-dungeon-golf.json) |
 | Dungeon Hotpot | 404814 | [404814-dungeon-hotpot.json](./404814-dungeon-hotpot.json) |
