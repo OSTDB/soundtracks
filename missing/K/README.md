@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kensei: Sacred Fist | 36746 | [36746-kensei-sacred-fist.json](./36746-kensei-sacred-fist.json) |
 | Kenshin Dragon Quest: Yomigaerishi Densetsu no Tsurugi | 267376 | [267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json](./267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json) |
 | Kentilla | 26465 | [26465-kentilla.json](./26465-kentilla.json) |
+| Kentris | 93343 | [93343-kentris.json](./93343-kentris.json) |
 | Kentucky Route Zero: Act V | 144981 | [144981-kentucky-route-zero-act-v.json](./144981-kentucky-route-zero-act-v.json) |
 | Kepler Galaxy Wars: Rebel Alliance Mission | 99981 | [99981-kepler-galaxy-wars-rebel-alliance-mission.json](./99981-kepler-galaxy-wars-rebel-alliance-mission.json) |
 | Keplerth | 95587 | [95587-keplerth.json](./95587-keplerth.json) |
@@ -1325,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klonoa Phantasy Reverie Series | 191405 | [191405-klonoa-phantasy-reverie-series.json](./191405-klonoa-phantasy-reverie-series.json) |
 | Klorbiest Catch | 410324 | [410324-klorbiest-catch.json](./410324-klorbiest-catch.json) |
 | Klung | 182533 | [182533-klung.json](./182533-klung.json) |
+| Klustar | 93363 | [93363-klustar.json](./93363-klustar.json) |
 | Kly-Kly | 192942 | [192942-kly-kly.json](./192942-kly-kly.json) |
 | Kmenta | 109653 | [109653-kmenta.json](./109653-kmenta.json) |
 | Kmf | 184484 | [184484-kmf.json](./184484-kmf.json) |
@@ -1887,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KYM-tan Shoots Things | 198387 | [198387-kym-tan-shoots-things.json](./198387-kym-tan-shoots-things.json) |
 | Kyn | 11451 | [11451-kyn.json](./11451-kyn.json) |
 | Kyobi | 314683 | [314683-kyobi.json](./314683-kyobi.json) |
+| Kyodai | 93377 | [93377-kyodai.json](./93377-kyodai.json) |
 | Kyodai Mahjongg | 126457 | [126457-kyodai-mahjongg.json](./126457-kyodai-mahjongg.json) |
 | Kyojin-tachi | 260983 | [260983-kyojin-tachi.json](./260983-kyojin-tachi.json) |
 | Kyoki | 172160 | [172160-kyoki.json](./172160-kyoki.json) |
