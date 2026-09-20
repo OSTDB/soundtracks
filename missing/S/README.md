@@ -3123,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shukusai no Utahime: Kimi to Tsumugu Asu he no Uta | 194605 | [194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json](./194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json) |
 | Shultz's Treasure | 292839 | [292839-shultzs-treasure.json](./292839-shultzs-treasure.json) |
 | Shunkyoku no Tyrhhia: What a Beautiful Dawn | 144958 | [144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json](./144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json) |
+| Shurado | 74775 | [74775-shurado.json](./74775-shurado.json) |
 | Shuriken & Aliens | 124144 | [124144-shuriken-and-aliens.json](./124144-shuriken-and-aliens.json) |
 | Shuriken Block | 61058 | [61058-shuriken-block.json](./61058-shuriken-block.json) |
 | Shuriken Master! | 108493 | [108493-shuriken-master.json](./108493-shuriken-master.json) |
@@ -3250,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sig | 231087 | [231087-sig.json](./231087-sig.json) |
 | Sight's Adventure | 182909 | [182909-sights-adventure.json](./182909-sights-adventure.json) |
 | Sightline | 202944 | [202944-sightline.json](./202944-sightline.json) |
+| SightLineVR | 74763 | [74763-sightlinevr.json](./74763-sightlinevr.json) |
 | SightWords Pro | 89157 | [89157-sightwords-pro.json](./89157-sightwords-pro.json) |
 | Sigi: A Fart for Melusina | 75066 | [75066-sigi-a-fart-for-melusina.json](./75066-sigi-a-fart-for-melusina.json) |
 | Sigma | 260791 | [260791-sigma.json](./260791-sigma.json) |
@@ -3778,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate It | 5157 | [5157-skate-it.json](./5157-skate-it.json) |
 | Skate Jam | 251207 | [251207-skate-jam.json](./251207-skate-jam.json) |
 | Skate Mates | 406098 | [406098-skate-mates.json](./406098-skate-mates.json) |
+| Skate of Emergency | 74773 | [74773-skate-of-emergency.json](./74773-skate-of-emergency.json) |
 | Skate or Die | 12267 | [12267-skate-or-die.json](./12267-skate-or-die.json) |
 | Skate Samurai | 185096 | [185096-skate-samurai.json](./185096-skate-samurai.json) |
 | Skate Shop Simulator | 211269 | [211269-skate-shop-simulator.json](./211269-skate-shop-simulator.json) |
@@ -4680,6 +4683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snaccoon | 214496 | [214496-snaccoon.json](./214496-snaccoon.json) |
 | Snack and Quack | 366221 | [366221-snack-and-quack.json](./366221-snack-and-quack.json) |
 | Snack Attack | 374133 | [374133-snack-attack.json](./374133-snack-attack.json) |
+| Snack Attack and Friends | 74750 | [74750-snack-attack-and-friends.json](./74750-snack-attack-and-friends.json) |
 | Snack Invaders | 392275 | [392275-snack-invaders.json](./392275-snack-invaders.json) |
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
 | Snack Scoffer | 198515 | [198515-snack-scoffer.json](./198515-snack-scoffer.json) |
@@ -6093,6 +6097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoundSelf | 61869 | [61869-soundself.json](./61869-soundself.json) |
 | Soundsphere | 176885 | [176885-soundsphere.json](./176885-soundsphere.json) |
 | SoundTown | 276820 | [276820-soundtown.json](./276820-soundtown.json) |
+| Soundtrack Attack | 74791 | [74791-soundtrack-attack.json](./74791-soundtrack-attack.json) |
 | Soup | 188612 | [188612-soup.json](./188612-soup.json) |
 | Soup: The Vibe Explorer | 406710 | [406710-soup-the-vibe-explorer.json](./406710-soup-the-vibe-explorer.json) |
 | Souper Bloody | 397651 | [397651-souper-bloody.json](./397651-souper-bloody.json) |
@@ -6122,7 +6127,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: Snow Day! - Nonconformist Weapon Variation Pack | 316257 | [316257-south-park-snow-day-nonconformist-weapon-variation-pack.json](./316257-south-park-snow-day-nonconformist-weapon-variation-pack.json) |
 | South Park: Snow Day! - To Danse with the Veiled Horde | 316258 | [316258-south-park-snow-day-to-danse-with-the-veiled-horde.json](./316258-south-park-snow-day-to-danse-with-the-veiled-horde.json) |
 | South Park: The Fractured but Whole - Collector's Edition | 11003 | [11003-south-park-the-fractured-but-whole-collectors-edition.json](./11003-south-park-the-fractured-but-whole-collectors-edition.json) |
+| South Park: The Fractured But Whole - Relics of Zaron | 74745 | [74745-south-park-the-fractured-but-whole-relics-of-zaron.json](./74745-south-park-the-fractured-but-whole-relics-of-zaron.json) |
 | South Park: The Fractured but Whole - Remote Control Coon Mobile Bundle | 7394 | [7394-south-park-the-fractured-but-whole-remote-control-coon-mobile-bundle.json](./7394-south-park-the-fractured-but-whole-remote-control-coon-mobile-bundle.json) |
+| South Park: The Stick of Truth - Super Samurai Spaceman Pack | 74744 | [74744-south-park-the-stick-of-truth-super-samurai-spaceman-pack.json](./74744-south-park-the-stick-of-truth-super-samurai-spaceman-pack.json) |
+| South Park: The Stick of Truth - Ultimate Fellowship Pack | 74743 | [74743-south-park-the-stick-of-truth-ultimate-fellowship-pack.json](./74743-south-park-the-stick-of-truth-ultimate-fellowship-pack.json) |
 | South Pole Bebop | 298875 | [298875-south-pole-bebop.json](./298875-south-pole-bebop.json) |
 | South Scrimshaw, Part One | 183581 | [183581-south-scrimshaw-part-one.json](./183581-south-scrimshaw-part-one.json) |
 | South Surfers Park | 96716 | [96716-south-surfers-park.json](./96716-south-surfers-park.json) |
@@ -8002,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starexcess | 124248 | [124248-starexcess.json](./124248-starexcess.json) |
 | Starfall | 99376 | [99376-starfall.json](./99376-starfall.json) |
 | Starfall Defenders | 350433 | [350433-starfall-defenders.json](./350433-starfall-defenders.json) |
+| Starfall Numbers | 74753 | [74753-starfall-numbers.json](./74753-starfall-numbers.json) |
 | Starfall Online | 131612 | [131612-starfall-online.json](./131612-starfall-online.json) |
 | Starfall: Operation Outro | 298037 | [298037-starfall-operation-outro.json](./298037-starfall-operation-outro.json) |
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
@@ -10527,6 +10536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rising Ball | 350485 | [350485-super-rising-ball.json](./350485-super-rising-ball.json) |
 | Super Robin Hood | 223024 | [223024-super-robin-hood.json](./223024-super-robin-hood.json) |
 | Super Robolom | 83485 | [83485-super-robolom.json](./83485-super-robolom.json) |
+| Super Robot Shooting | 74768 | [74768-super-robot-shooting.json](./74768-super-robot-shooting.json) |
 | Super Robot Taisen | 240916 | [240916-super-robot-taisen.json](./240916-super-robot-taisen.json) |
 | Super Robot Taisen A Portable | 79841 | [79841-super-robot-taisen-a-portable.json](./79841-super-robot-taisen-a-portable.json) |
 | Super Robot Taisen EX | 240915 | [240915-super-robot-taisen-ex.json](./240915-super-robot-taisen-ex.json) |
