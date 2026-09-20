@@ -1531,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightmatter Anniversary | 340919 | [340919-lightmatter-anniversary.json](./340919-lightmatter-anniversary.json) |
 | Lightner | 136242 | [136242-lightner.json](./136242-lightner.json) |
 | Lightness | 214035 | [214035-lightness.json](./214035-lightness.json) |
+| Lightning Angel Litona Liliche | 110133 | [110133-lightning-angel-litona-liliche.json](./110133-lightning-angel-litona-liliche.json) |
 | Lightning Fast | 157141 | [157141-lightning-fast.json](./157141-lightning-fast.json) |
 | Lightning Fighter | 335329 | [335329-lightning-fighter.json](./335329-lightning-fighter.json) |
 | Lightning Link | 386224 | [386224-lightning-link.json](./386224-lightning-link.json) |
