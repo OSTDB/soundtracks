@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Tides: Port Royal | 400940 | [400940-uncharted-tides-port-royal.json](./400940-uncharted-tides-port-royal.json) |
 | Uncharted Waters | 351120 | [351120-uncharted-waters.json](./351120-uncharted-waters.json) |
 | Uncharted Waters | 351137 | [351137-uncharted-waters.json](./351137-uncharted-waters.json) |
+| Uncharted Waters Online | 102570 | [102570-uncharted-waters-online.json](./102570-uncharted-waters-online.json) |
 | Uncharted Waters: New Horizons | 102810 | [102810-uncharted-waters-new-horizons.json](./102810-uncharted-waters-new-horizons.json) |
 | Uncharted Waters: New Horizons | 38412 | [38412-uncharted-waters-new-horizons.json](./38412-uncharted-waters-new-horizons.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
