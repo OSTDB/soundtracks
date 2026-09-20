@@ -1643,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kouchuuouja Mushiking: Atsumete Asobou Kabutomushi Zukan | 125806 | [125806-kouchuuouja-mushiking-atsumete-asobou-kabutomushi-zukan.json](./125806-kouchuuouja-mushiking-atsumete-asobou-kabutomushi-zukan.json) |
 | Kouei no Tou | 206373 | [206373-kouei-no-tou.json](./206373-kouei-no-tou.json) |
 | Kouenji Joshi Soccer | 229201 | [229201-kouenji-joshi-soccer.json](./229201-kouenji-joshi-soccer.json) |
+| Kouenji Joshi Soccer 2: Koi wa Nebagiba Kouenji | 115443 | [115443-kouenji-joshi-soccer-2-koi-wa-nebagiba-kouenji.json](./115443-kouenji-joshi-soccer-2-koi-wa-nebagiba-kouenji.json) |
 | Kouhai wo Iwau Saisho no Fuyu | 406204 | [406204-kouhai-wo-iwau-saisho-no-fuyu.json](./406204-kouhai-wo-iwau-saisho-no-fuyu.json) |
 | Koukiatsu Boy | 228584 | [228584-koukiatsu-boy.json](./228584-koukiatsu-boy.json) |
 | Kounai Shasei Vol.1: Yonimo H na Monogatari | 248107 | [248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json](./248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json) |
