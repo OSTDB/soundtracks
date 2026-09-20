@@ -2458,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
 | Pixel Push Football | 240868 | [240868-pixel-push-football.json](./240868-pixel-push-football.json) |
 | Pixel Puzzle Makeout League | 121603 | [121603-pixel-puzzle-makeout-league.json](./121603-pixel-puzzle-makeout-league.json) |
+| Pixel Puzzles 2: Christmas | 112743 | [112743-pixel-puzzles-2-christmas.json](./112743-pixel-puzzles-2-christmas.json) |
 | Pixel Puzzles 4k: Japan | 163411 | [163411-pixel-puzzles-4k-japan.json](./163411-pixel-puzzles-4k-japan.json) |
 | Pixel Puzzles Christmas Jigsaws | 389397 | [389397-pixel-puzzles-christmas-jigsaws.json](./389397-pixel-puzzles-christmas-jigsaws.json) |
 | Pixel Puzzles Fantasy Jigsaws | 389396 | [389396-pixel-puzzles-fantasy-jigsaws.json](./389396-pixel-puzzles-fantasy-jigsaws.json) |
@@ -3606,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Hustler | 23153 | [23153-pool-hustler.json](./23153-pool-hustler.json) |
 | Pool Live Pro | 38947 | [38947-pool-live-pro.json](./38947-pool-live-pro.json) |
 | Pool Master | 43257 | [43257-pool-master.json](./43257-pool-master.json) |
+| Pool Nation Snooker Bundle | 112733 | [112733-pool-nation-snooker-bundle.json](./112733-pool-nation-snooker-bundle.json) |
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
 | Pool Pro | 246384 | [246384-pool-pro.json](./246384-pool-pro.json) |
 | Pool Pro 2022 | 275611 | [275611-pool-pro-2022.json](./275611-pool-pro-2022.json) |
@@ -4473,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profiler: The Hopscotch Killer - Extended Edition | 262360 | [262360-profiler-the-hopscotch-killer-extended-edition.json](./262360-profiler-the-hopscotch-killer-extended-edition.json) |
 | Profiles of the Forgotten | 123419 | [123419-profiles-of-the-forgotten.json](./123419-profiles-of-the-forgotten.json) |
 | Profound | 277594 | [277594-profound.json](./277594-profound.json) |
+| Profundum | 112769 | [112769-profundum.json](./112769-profundum.json) |
 | Profundus | 341468 | [341468-profundus.json](./341468-profundus.json) |
 | PROG | 301955 | [301955-prog.json](./301955-prog.json) |
 | Progear: Airplane Shooter | 231908 | [231908-progear-airplane-shooter.json](./231908-progear-airplane-shooter.json) |
