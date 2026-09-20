@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caribbean Rhythms Lite | 232151 | [232151-caribbean-rhythms-lite.json](./232151-caribbean-rhythms-lite.json) |
 | Cario | 220341 | [220341-cario.json](./220341-cario.json) |
 | Carious Weltling | 354450 | [354450-carious-weltling.json](./354450-carious-weltling.json) |
+| CarJacker: Hotwired and Gone! | 66365 | [66365-carjacker-hotwired-and-gone.json](./66365-carjacker-hotwired-and-gone.json) |
 | Carl Currency, Expert Exchanger | 229345 | [229345-carl-currency-expert-exchanger.json](./229345-carl-currency-expert-exchanger.json) |
 | Carl the Caveman | 281419 | [281419-carl-the-caveman.json](./281419-carl-the-caveman.json) |
 | Carl the Caveman: Christmas Adventures | 281421 | [281421-carl-the-caveman-christmas-adventures.json](./281421-carl-the-caveman-christmas-adventures.json) |
@@ -5208,6 +5209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Create & Conquer | 305771 | [305771-create-and-conquer.json](./305771-create-and-conquer.json) |
 | Create Real Games | 89283 | [89283-create-real-games.json](./89283-create-real-games.json) |
 | Create With Garfield! | 67238 | [67238-create-with-garfield.json](./67238-create-with-garfield.json) |
+| Create Your Own Caricature with Spitting Image | 66359 | [66359-create-your-own-caricature-with-spitting-image.json](./66359-create-your-own-caricature-with-spitting-image.json) |
 | Create: Above and Beyond | 331400 | [331400-create-above-and-beyond.json](./331400-create-above-and-beyond.json) |
 | CreateTech | 127359 | [127359-createtech.json](./127359-createtech.json) |
 | Creatio Ex Nihilo II: Deus Otiosus | 81762 | [81762-creatio-ex-nihilo-ii-deus-otiosus.json](./81762-creatio-ex-nihilo-ii-deus-otiosus.json) |
