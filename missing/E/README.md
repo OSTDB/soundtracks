@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elaborate Lands | 188584 | [188584-elaborate-lands.json](./188584-elaborate-lands.json) |
 | Elan Plus | 166161 | [166161-elan-plus.json](./166161-elan-plus.json) |
 | Elana Champion of Lust | 198549 | [198549-elana-champion-of-lust.json](./198549-elana-champion-of-lust.json) |
+| Elarel | 83922 | [83922-elarel.json](./83922-elarel.json) |
 | Elarienne | 348777 | [348777-elarienne.json](./348777-elarienne.json) |
 | Elarooh | 61086 | [61086-elarooh.json](./61086-elarooh.json) |
 | Elastic car 2 (engineer mode) | 96004 | [96004-elastic-car-2-engineer-mode.json](./96004-elastic-car-2-engineer-mode.json) |
@@ -1448,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equinox | 264123 | [264123-equinox.json](./264123-equinox.json) |
 | Equinox | 329147 | [329147-equinox.json](./329147-equinox.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
+| Era | 83940 | [83940-era.json](./83940-era.json) |
 | Era of Combat: Boxing | 189055 | [189055-era-of-combat-boxing.json](./189055-era-of-combat-boxing.json) |
 | Era of Miracles | 124167 | [124167-era-of-miracles.json](./124167-era-of-miracles.json) |
 | Era of Samurai: Code of Love | 163356 | [163356-era-of-samurai-code-of-love.json](./163356-era-of-samurai-code-of-love.json) |
@@ -2040,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Event World VR | 295523 | [295523-event-world-vr.json](./295523-event-world-vr.json) |
 | Eventide 2: The Sorcerers Mirror | 31825 | [31825-eventide-2-the-sorcerers-mirror.json](./31825-eventide-2-the-sorcerers-mirror.json) |
 | Eventide 3: Legacy of Legends | 68713 | [68713-eventide-3-legacy-of-legends.json](./68713-eventide-3-legacy-of-legends.json) |
+| Eventide Escape | 83952 | [83952-eventide-escape.json](./83952-eventide-escape.json) |
 | Eventide Night | 28940 | [28940-eventide-night.json](./28940-eventide-night.json) |
 | Events | 339278 | [339278-events.json](./339278-events.json) |
 | Ever After Again: A Stories Adventure | 414459 | [414459-ever-after-again-a-stories-adventure.json](./414459-ever-after-again-a-stories-adventure.json) |
