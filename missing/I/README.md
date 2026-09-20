@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice on the Edge | 335288 | [335288-ice-on-the-edge.json](./335288-ice-on-the-edge.json) |
 | Ice Pops & Popsicles | 102607 | [102607-ice-pops-and-popsicles.json](./102607-ice-pops-and-popsicles.json) |
 | Ice Princess Crystals | 353998 | [353998-ice-princess-crystals.json](./353998-ice-princess-crystals.json) |
+| Ice Queen Prom Salon: Princess Makeover Girls Game | 91117 | [91117-ice-queen-prom-salon-princess-makeover-girls-game.json](./91117-ice-queen-prom-salon-princess-makeover-girls-game.json) |
 | Ice Queen Wedding Salon: Frost Bridal Game | 86832 | [86832-ice-queen-wedding-salon-frost-bridal-game.json](./86832-ice-queen-wedding-salon-frost-bridal-game.json) |
 | Ice Run | 309531 | [309531-ice-run.json](./309531-ice-run.json) |
 | Ice Scream 4: Rod's Factory | 275007 | [275007-ice-scream-4-rods-factory.json](./275007-ice-scream-4-rods-factory.json) |
@@ -1840,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Helix | 5394 | [5394-iron-helix.json](./5394-iron-helix.json) |
 | Iron Hunters | 296943 | [296943-iron-hunters.json](./296943-iron-hunters.json) |
 | Iron John Hawk: The Shards Of Power | 210025 | [210025-iron-john-hawk-the-shards-of-power.json](./210025-iron-john-hawk-the-shards-of-power.json) |
+| Iron Knight 3D | 91146 | [91146-iron-knight-3d.json](./91146-iron-knight-3d.json) |
 | Iron Legacy | 400865 | [400865-iron-legacy.json](./400865-iron-legacy.json) |
 | Iron Line | 287785 | [287785-iron-line.json](./287785-iron-line.json) |
 | Iron Maiden: Legacy of the Beast | 16473 | [16473-iron-maiden-legacy-of-the-beast.json](./16473-iron-maiden-legacy-of-the-beast.json) |
