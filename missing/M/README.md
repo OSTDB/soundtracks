@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
 | Mahjong Realms | 336012 | [336012-mahjong-realms.json](./336012-mahjong-realms.json) |
 | Mahjong Sengoku Monogatari | 37743 | [37743-mahjong-sengoku-monogatari.json](./37743-mahjong-sengoku-monogatari.json) |
+| Mahjong Solitaire Refresh | 114173 | [114173-mahjong-solitaire-refresh.json](./114173-mahjong-solitaire-refresh.json) |
 | Mahjong Solitaire Refresh: Ex Panels | 170928 | [170928-mahjong-solitaire-refresh-ex-panels.json](./170928-mahjong-solitaire-refresh-ex-panels.json) |
 | Mahjong Taikai IV | 66091 | [66091-mahjong-taikai-iv.json](./66091-mahjong-taikai-iv.json) |
 | Mahjong Tales: Ancient Wisdom | 52577 | [52577-mahjong-tales-ancient-wisdom.json](./52577-mahjong-tales-ancient-wisdom.json) |
@@ -1375,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallow Madness | 122431 | [122431-marshmallow-madness.json](./122431-marshmallow-madness.json) |
 | Marshmallow Marvin: Templestone | 336928 | [336928-marshmallow-marvin-templestone.json](./336928-marshmallow-marvin-templestone.json) |
 | Marshmallow Melee | 67600 | [67600-marshmallow-melee.json](./67600-marshmallow-melee.json) |
+| Marshmellow Day Spa | 114153 | [114153-marshmellow-day-spa.json](./114153-marshmellow-day-spa.json) |
 | Marsport | 45327 | [45327-marsport.json](./45327-marsport.json) |
 | Marsupilami: Hoobadventure - Tropical Edition | 152337 | [152337-marsupilami-hoobadventure-tropical-edition.json](./152337-marsupilami-hoobadventure-tropical-edition.json) |
 | Marswar TD | 169465 | [169465-marswar-td.json](./169465-marswar-td.json) |
@@ -2055,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechCube: Dark Stories | 174283 | [174283-mechcube-dark-stories.json](./174283-mechcube-dark-stories.json) |
 | Mechjestic | 293653 | [293653-mechjestic.json](./293653-mechjestic.json) |
 | Mecho Wars | 52567 | [52567-mecho-wars.json](./52567-mecho-wars.json) |
+| Mecho Wars: Desert Ashes | 114174 | [114174-mecho-wars-desert-ashes.json](./114174-mecho-wars-desert-ashes.json) |
 | MechQuest | 78644 | [78644-mechquest.json](./78644-mechquest.json) |
 | Mechsternmination Force | 115705 | [115705-mechsternmination-force.json](./115705-mechsternmination-force.json) |
 | MechWarrior 2: The Titanium Trilogy | 209534 | [209534-mechwarrior-2-the-titanium-trilogy.json](./209534-mechwarrior-2-the-titanium-trilogy.json) |
