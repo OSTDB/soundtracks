@@ -2444,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond | 314304 | [314304-diamond.json](./314304-diamond.json) |
 | Diamond | 35826 | [35826-diamond.json](./35826-diamond.json) |
 | Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
+| Diamond Diaries Saga | 105793 | [105793-diamond-diaries-saga.json](./105793-diamond-diaries-saga.json) |
 | Diamond Digger Saga | 391081 | [391081-diamond-digger-saga.json](./391081-diamond-digger-saga.json) |
 | Diamond Girl: An Earnest Education in Love | 147996 | [147996-diamond-girl-an-earnest-education-in-love.json](./147996-diamond-girl-an-earnest-education-in-love.json) |
 | Diamond Giza | 157193 | [157193-diamond-giza.json](./157193-diamond-giza.json) |
@@ -2971,6 +2972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovering Colors - Animals (Coloring Book) | 106572 | [106572-discovering-colors-animals-coloring-book.json](./106572-discovering-colors-animals-coloring-book.json) |
 | Discovering Galimore | 294154 | [294154-discovering-galimore.json](./294154-discovering-galimore.json) |
 | Discovering Space 2 | 32205 | [32205-discovering-space-2.json](./32205-discovering-space-2.json) |
+| Discovering the Dinosaurs | 105755 | [105755-discovering-the-dinosaurs.json](./105755-discovering-the-dinosaurs.json) |
 | Discovery Freelancer | 111445 | [111445-discovery-freelancer.json](./111445-discovery-freelancer.json) |
 | Discovery Islands | 399706 | [399706-discovery-islands.json](./399706-discovery-islands.json) |
 | Discovery Kids: Pony Paradise | 69273 | [69273-discovery-kids-pony-paradise.json](./69273-discovery-kids-pony-paradise.json) |
@@ -4972,6 +4974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Essentials | 37071 | [37071-driving-essentials.json](./37071-driving-essentials.json) |
 | Driving Force | 340214 | [340214-driving-force.json](./340214-driving-force.json) |
 | Driving Me Crazy | 182933 | [182933-driving-me-crazy.json](./182933-driving-me-crazy.json) |
+| Driving Pro: Island Delivery | 105779 | [105779-driving-pro-island-delivery.json](./105779-driving-pro-island-delivery.json) |
 | Driving Quest | 209691 | [209691-driving-quest.json](./209691-driving-quest.json) |
 | Driving School 2016 | 89273 | [89273-driving-school-2016.json](./89273-driving-school-2016.json) |
 | Driving School 3D | 102104 | [102104-driving-school-3d.json](./102104-driving-school-3d.json) |
