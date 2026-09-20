@@ -2277,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Corgi and the Mysterious Mansion | 179753 | [179753-detective-corgi-and-the-mysterious-mansion.json](./179753-detective-corgi-and-the-mysterious-mansion.json) |
 | Detective Dave | 277290 | [277290-detective-dave.json](./277290-detective-dave.json) |
 | Detective Diaries | 302499 | [302499-detective-diaries.json](./302499-detective-diaries.json) |
+| Detective Driver: Miami Files | 90352 | [90352-detective-driver-miami-files.json](./90352-detective-driver-miami-files.json) |
 | Detective Eustaquio | 320737 | [320737-detective-eustaquio.json](./320737-detective-eustaquio.json) |
 | Detective Fantasia: Excalimurder | 274562 | [274562-detective-fantasia-excalimurder.json](./274562-detective-fantasia-excalimurder.json) |
 | Detective Firefly | 348257 | [348257-detective-firefly.json](./348257-detective-firefly.json) |
@@ -2469,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond | 247022 | [247022-diamond.json](./247022-diamond.json) |
 | Diamond | 314304 | [314304-diamond.json](./314304-diamond.json) |
 | Diamond | 35826 | [35826-diamond.json](./35826-diamond.json) |
+| Diamond Battle | 90385 | [90385-diamond-battle.json](./90385-diamond-battle.json) |
 | Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
 | Diamond Diaries Saga | 105793 | [105793-diamond-diaries-saga.json](./105793-diamond-diaries-saga.json) |
 | Diamond Digger Saga | 391081 | [391081-diamond-digger-saga.json](./391081-diamond-digger-saga.json) |
