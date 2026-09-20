@@ -3873,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
 | The Last Three | 261337 | [261337-the-last-three.json](./261337-the-last-three.json) |
 | The Last Tiger | 295285 | [295285-the-last-tiger.json](./295285-the-last-tiger.json) |
+| The Last Town | 118829 | [118829-the-last-town.json](./118829-the-last-town.json) |
 | The Last Train | 109625 | [109625-the-last-train.json](./109625-the-last-train.json) |
 | The Last Train: Baquedano | 343255 | [343255-the-last-train-baquedano.json](./343255-the-last-train-baquedano.json) |
 | The Last Train: Final Ride | 175364 | [175364-the-last-train-final-ride.json](./175364-the-last-train-final-ride.json) |
@@ -4710,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Plus Point | 89950 | [89950-the-plus-point.json](./89950-the-plus-point.json) |
 | The Plutonia Experiment | 46615 | [46615-the-plutonia-experiment.json](./46615-the-plutonia-experiment.json) |
 | The Pointless Car Chase | 121701 | [121701-the-pointless-car-chase.json](./121701-the-pointless-car-chase.json) |
+| The Poisoner | 118825 | [118825-the-poisoner.json](./118825-the-poisoner.json) |
 | The Polar Express | 210732 | [210732-the-polar-express.json](./210732-the-polar-express.json) |
 | The Political Machine 2008 | 50866 | [50866-the-political-machine-2008.json](./50866-the-political-machine-2008.json) |
 | The Political Machine 2024 | 275696 | [275696-the-political-machine-2024.json](./275696-the-political-machine-2024.json) |
@@ -5805,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Undead | 378155 | [378155-the-undead.json](./378155-the-undead.json) |
 | The Under Presents | 132208 | [132208-the-under-presents.json](./132208-the-under-presents.json) |
 | The Underdog | 373013 | [373013-the-underdog.json](./373013-the-underdog.json) |
+| The Underground King | 118843 | [118843-the-underground-king.json](./118843-the-underground-king.json) |
 | The Undergrounders | 339847 | [339847-the-undergrounders.json](./339847-the-undergrounders.json) |
 | The Underworld | 271804 | [271804-the-underworld.json](./271804-the-underworld.json) |
 | The Undying Plague | 35759 | [35759-the-undying-plague.json](./35759-the-undying-plague.json) |
