@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
 | F1 2018: Headline Edition | 110984 | [110984-f1-2018-headline-edition.json](./110984-f1-2018-headline-edition.json) |
 | F1 2019 | 116667 | [116667-f1-2019.json](./116667-f1-2019.json) |
+| F1 2019: Legends Edition | 125192 | [125192-f1-2019-legends-edition.json](./125192-f1-2019-legends-edition.json) |
 | F1 22 | 198200 | [198200-f1-22.json](./198200-f1-22.json) |
 | F1 22: Champions Content Bundle | 226843 | [226843-f1-22-champions-content-bundle.json](./226843-f1-22-champions-content-bundle.json) |
 | F1 25 | 336964 | [336964-f1-25.json](./336964-f1-25.json) |
@@ -1088,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Garfield | 63865 | [63865-feed-garfield.json](./63865-feed-garfield.json) |
 | Feed It Souls | 278719 | [278719-feed-it-souls.json](./278719-feed-it-souls.json) |
 | Feed Me | 381015 | [381015-feed-me.json](./381015-feed-me.json) |
+| Feed Me Billy | 125264 | [125264-feed-me-billy.json](./125264-feed-me-billy.json) |
 | Feed Me More Brains | 410907 | [410907-feed-me-more-brains.json](./410907-feed-me-more-brains.json) |
 | Feed Me Oil 2: Liquid Puzzle Adventure | 108499 | [108499-feed-me-oil-2-liquid-puzzle-adventure.json](./108499-feed-me-oil-2-liquid-puzzle-adventure.json) |
 | Feed the Animals | 75916 | [75916-feed-the-animals.json](./75916-feed-the-animals.json) |
@@ -1899,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Frog | 136457 | [136457-first-frog.json](./136457-first-frog.json) |
 | First Kiss at a Spooky Soiree | 144233 | [144233-first-kiss-at-a-spooky-soiree.json](./144233-first-kiss-at-a-spooky-soiree.json) |
 | First Kiss Stories | 384644 | [384644-first-kiss-stories.json](./384644-first-kiss-stories.json) |
+| First Kiss Story II | 125206 | [125206-first-kiss-story-ii.json](./125206-first-kiss-story-ii.json) |
 | First Light | 191155 | [191155-first-light.json](./191155-first-light.json) |
 | First Love / Late Spring | 204493 | [204493-first-love-late-spring.json](./204493-first-love-late-spring.json) |
 | First Made Break Rock | 395542 | [395542-first-made-break-rock.json](./395542-first-made-break-rock.json) |
