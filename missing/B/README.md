@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Ghost: Jump Away With Jewel | 175361 | [175361-baby-ghost-jump-away-with-jewel.json](./175361-baby-ghost-jump-away-with-jewel.json) |
 | Baby Goat Billy | 159826 | [159826-baby-goat-billy.json](./159826-baby-goat-billy.json) |
 | Baby Hands | 68834 | [68834-baby-hands.json](./68834-baby-hands.json) |
+| Baby Hazel Easter Fun | 89710 | [89710-baby-hazel-easter-fun.json](./89710-baby-hazel-easter-fun.json) |
 | Baby Kaizo World | 145478 | [145478-baby-kaizo-world.json](./145478-baby-kaizo-world.json) |
 | Baby Killer | 117733 | [117733-baby-killer.json](./117733-baby-killer.json) |
 | Baby Life | 91752 | [91752-baby-life.json](./91752-baby-life.json) |
@@ -2937,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Brim | 28822 | [28822-blades-of-brim.json](./28822-blades-of-brim.json) |
 | Blades of Exile | 19579 | [19579-blades-of-exile.json](./19579-blades-of-exile.json) |
 | Blades of Fury | 23260 | [23260-blades-of-fury.json](./23260-blades-of-fury.json) |
+| Blades of Orterra | 89665 | [89665-blades-of-orterra.json](./89665-blades-of-orterra.json) |
 | Blades of Passage | 297482 | [297482-blades-of-passage.json](./297482-blades-of-passage.json) |
 | Blades of Steel | 7788 | [7788-blades-of-steel.json](./7788-blades-of-steel.json) |
 | Blades of Thunder | 49309 | [49309-blades-of-thunder.json](./49309-blades-of-thunder.json) |
@@ -4800,6 +4802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brightfall | 378215 | [378215-brightfall.json](./378215-brightfall.json) |
 | Brightstone Mysteries: The Others | 234630 | [234630-brightstone-mysteries-the-others.json](./234630-brightstone-mysteries-the-others.json) |
 | Brigitte: Ernaehrungs Coach | 269678 | [269678-brigitte-ernaehrungs-coach.json](./269678-brigitte-ernaehrungs-coach.json) |
+| Briks 2 | 89668 | [89668-briks-2.json](./89668-briks-2.json) |
 | Briks Boss Battle | 374669 | [374669-briks-boss-battle.json](./374669-briks-boss-battle.json) |
 | Briks Head to Head | 187547 | [187547-briks-head-to-head.json](./187547-briks-head-to-head.json) |
 | Briley Witch Chronicles | 194474 | [194474-briley-witch-chronicles.json](./194474-briley-witch-chronicles.json) |
