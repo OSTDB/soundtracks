@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Offered You the Crown | 355016 | [355016-i-offered-you-the-crown.json](./355016-i-offered-you-the-crown.json) |
 | I Opened the Walls and Found Something Beautiful | 177498 | [177498-i-opened-the-walls-and-found-something-beautiful.json](./177498-i-opened-the-walls-and-found-something-beautiful.json) |
 | I Picked Up a Mysterious Smartphone That You Can Change Everything as You Like | 98462 | [98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json](./98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json) |
+| I Play: 3D Tennis | 70090 | [70090-i-play-3d-tennis.json](./70090-i-play-3d-tennis.json) |
 | I R Teh More Amazzzzing! | 330515 | [330515-i-r-teh-more-amazzzzing.json](./330515-i-r-teh-more-amazzzzing.json) |
 | I Remember the Light | 152864 | [152864-i-remember-the-light.json](./152864-i-remember-the-light.json) |
 | I Remember the Rain | 223669 | [223669-i-remember-the-rain.json](./223669-i-remember-the-rain.json) |
