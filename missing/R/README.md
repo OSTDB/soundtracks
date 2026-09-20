@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raver Champions | 129589 | [129589-raver-champions.json](./129589-raver-champions.json) |
 | Ravesta Racing | 127752 | [127752-ravesta-racing.json](./127752-ravesta-racing.json) |
 | Raving Mad | 93004 | [93004-raving-mad.json](./93004-raving-mad.json) |
+| Raving Rabbids Travel in Time Browser | 83902 | [83902-raving-rabbids-travel-in-time-browser.json](./83902-raving-rabbids-travel-in-time-browser.json) |
 | Raving Rabbids: Travel in Time | 5116 | [5116-raving-rabbids-travel-in-time.json](./5116-raving-rabbids-travel-in-time.json) |
 | Ravon | 142390 | [142390-ravon.json](./142390-ravon.json) |
 | Raw | 119581 | [119581-raw.json](./119581-raw.json) |
@@ -3714,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubelike | 176377 | [176377-rubelike.json](./176377-rubelike.json) |
 | Rubi: The Wayward Mira | 55180 | [55180-rubi-the-wayward-mira.json](./55180-rubi-the-wayward-mira.json) |
 | Rubicon | 79242 | [79242-rubicon.json](./79242-rubicon.json) |
+| Rubicon Approach | 83944 | [83944-rubicon-approach.json](./83944-rubicon-approach.json) |
 | Rubik's Cube 3-D | 40755 | [40755-rubiks-cube-3-d.json](./40755-rubiks-cube-3-d.json) |
 | Rubik's Cube Challenge | 209026 | [209026-rubiks-cube-challenge.json](./209026-rubiks-cube-challenge.json) |
 | Rubik's Cube VR | 112126 | [112126-rubiks-cube-vr.json](./112126-rubiks-cube-vr.json) |
