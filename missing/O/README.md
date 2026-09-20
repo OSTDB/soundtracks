@@ -1359,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origin | 126648 | [126648-origin.json](./126648-origin.json) |
 | Origin Hunt | 180772 | [180772-origin-hunt.json](./180772-origin-hunt.json) |
 | Original Journey | 40968 | [40968-original-journey.json](./40968-original-journey.json) |
+| Original Switch Color 2 | 90379 | [90379-original-switch-color-2.json](./90379-original-switch-color-2.json) |
 | Origins | 300704 | [300704-origins.json](./300704-origins.json) |
 | Origins of Merlin: Muscles and Magic | 166710 | [166710-origins-of-merlin-muscles-and-magic.json](./166710-origins-of-merlin-muscles-and-magic.json) |
 | Origins TCG | 412262 | [412262-origins-tcg.json](./412262-origins-tcg.json) |
