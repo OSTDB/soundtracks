@@ -2918,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Valley: Flip the Gun | 96015 | [96015-blast-valley-flip-the-gun.json](./96015-blast-valley-flip-the-gun.json) |
 | Blast X | 97819 | [97819-blast-x.json](./97819-blast-x.json) |
 | Blast-a-Bug! | 324338 | [324338-blast-a-bug.json](./324338-blast-a-bug.json) |
+| Blast-Axis | 119542 | [119542-blast-axis.json](./119542-blast-axis.json) |
 | Blastar | 14317 | [14317-blastar.json](./14317-blastar.json) |
 | Blastarock! | 196842 | [196842-blastarock.json](./196842-blastarock.json) |
 | Blastboard | 129124 | [129124-blastboard.json](./129124-blastboard.json) |
@@ -5206,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Maid's Estrus Diary | 82777 | [82777-bunny-maids-estrus-diary.json](./82777-bunny-maids-estrus-diary.json) |
 | Bunny Minesweeper | 106579 | [106579-bunny-minesweeper.json](./106579-bunny-minesweeper.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
+| Bunny Reversi | 119535 | [119535-bunny-reversi.json](./119535-bunny-reversi.json) |
 | Bunny Sword Master | 109043 | [109043-bunny-sword-master.json](./109043-bunny-sword-master.json) |
 | Bunny Swordmaster Story | 133954 | [133954-bunny-swordmaster-story.json](./133954-bunny-swordmaster-story.json) |
 | Bunny's Flowers | 142422 | [142422-bunnys-flowers.json](./142422-bunnys-flowers.json) |
