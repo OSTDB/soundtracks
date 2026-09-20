@@ -4262,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Many Sins of House Ocampo | 251651 | [251651-the-many-sins-of-house-ocampo.json](./251651-the-many-sins-of-house-ocampo.json) |
 | The Marauder Chronicles: Curse over Valdria | 161901 | [161901-the-marauder-chronicles-curse-over-valdria.json](./161901-the-marauder-chronicles-curse-over-valdria.json) |
 | The Marbians | 336387 | [336387-the-marbians.json](./336387-the-marbians.json) |
+| The Marionette | 124595 | [124595-the-marionette.json](./124595-the-marionette.json) |
 | The Mark | 10956 | [10956-the-mark.json](./10956-the-mark.json) |
 | The Market of Light | 170545 | [170545-the-market-of-light.json](./170545-the-market-of-light.json) |
 | The Marson Home | 207913 | [207913-the-marson-home.json](./207913-the-marson-home.json) |
@@ -6054,6 +6055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wrong Floor | 391069 | [391069-the-wrong-floor.json](./391069-the-wrong-floor.json) |
 | The Wylde | 23875 | [23875-the-wylde.json](./23875-the-wylde.json) |
 | The X Factor Sing | 84261 | [84261-the-x-factor-sing.json](./84261-the-x-factor-sing.json) |
+| The Yakutsu Noroi Game | 124641 | [124641-the-yakutsu-noroi-game.json](./124641-the-yakutsu-noroi-game.json) |
 | The Yawhg | 3031 | [3031-the-yawhg.json](./3031-the-yawhg.json) |
 | The Year of the Carrot | 235758 | [235758-the-year-of-the-carrot.json](./235758-the-year-of-the-carrot.json) |
 | The Yellow Quiz | 114365 | [114365-the-yellow-quiz.json](./114365-the-yellow-quiz.json) |
@@ -6469,6 +6471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thugging | 370682 | [370682-thugging.json](./370682-thugging.json) |
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
 | Thumb Drift | 58840 | [58840-thumb-drift.json](./58840-thumb-drift.json) |
+| ThumBeat | 124623 | [124623-thumbeat.json](./124623-thumbeat.json) |
 | ThumBeat: Button Basher Edition | 196136 | [196136-thumbeat-button-basher-edition.json](./196136-thumbeat-button-basher-edition.json) |
 | Thumblemania | 348346 | [348346-thumblemania.json](./348346-thumblemania.json) |
 | Thumps & Blows | 348327 | [348327-thumps-and-blows.json](./348327-thumps-and-blows.json) |
