@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Conflict TD | 271276 | [271276-zero-conflict-td.json](./271276-zero-conflict-td.json) |
 | Zero Core: Exile | 140579 | [140579-zero-core-exile.json](./140579-zero-core-exile.json) |
 | Zero Days Since | 289337 | [289337-zero-days-since.json](./289337-zero-days-since.json) |
+| Zero Deaths | 116129 | [116129-zero-deaths.json](./116129-zero-deaths.json) |
 | Zero Degrees | 258702 | [258702-zero-degrees.json](./258702-zero-degrees.json) |
 | Zero Divide | 20709 | [20709-zero-divide.json](./20709-zero-divide.json) |
 | Zero Escape: Nine Hours, Nine Persons, Nine Doors | 319754 | [319754-zero-escape-nine-hours-nine-persons-nine-doors.json](./319754-zero-escape-nine-hours-nine-persons-nine-doors.json) |
