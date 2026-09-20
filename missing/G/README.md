@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War 3: Fenix Rising | 20656 | [20656-gears-of-war-3-fenix-rising.json](./20656-gears-of-war-3-fenix-rising.json) |
 | Gears of War: E-Day | 305160 | [305160-gears-of-war-e-day.json](./305160-gears-of-war-e-day.json) |
 | GearStorm | 117651 | [117651-gearstorm.json](./117651-gearstorm.json) |
+| Gearz | 71763 | [71763-gearz.json](./71763-gearz.json) |
 | Geas | 228695 | [228695-geas.json](./228695-geas.json) |
 | Gecko Blaster | 43256 | [43256-gecko-blaster.json](./43256-gecko-blaster.json) |
 | Geckos & Deckos | 379367 | [379367-geckos-and-deckos.json](./379367-geckos-and-deckos.json) |
@@ -1063,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get in the Car, Loser!: The Fate of Another World | 226411 | [226411-get-in-the-car-loser-the-fate-of-another-world.json](./226411-get-in-the-car-loser-the-fate-of-another-world.json) |
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
 | Get Me Outta Here: Deluxe/Remastered Edition | 126574 | [126574-get-me-outta-here-deluxe-remastered-edition.json](./126574-get-me-outta-here-deluxe-remastered-edition.json) |
+| Get Medieval | 71795 | [71795-get-medieval.json](./71795-get-medieval.json) |
 | Get Money | 57049 | [57049-get-money.json](./57049-get-money.json) |
 | Get on Slime Level | 393614 | [393614-get-on-slime-level.json](./393614-get-on-slime-level.json) |
 | Get Order! | 274465 | [274465-get-order.json](./274465-get-order.json) |
@@ -2043,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf-Like | 385215 | [385215-golf-like.json](./385215-golf-like.json) |
 | Golf: Hole in One | 253579 | [253579-golf-hole-in-one.json](./253579-golf-hole-in-one.json) |
 | Golf: The Ultimate Collection | 314665 | [314665-golf-the-ultimate-collection.json](./314665-golf-the-ultimate-collection.json) |
+| Golf's Best: St. Andrews - The Home of Golf | 71773 | [71773-golfs-best-st-andrews-the-home-of-golf.json](./71773-golfs-best-st-andrews-the-home-of-golf.json) |
 | Golfing Around | 108442 | [108442-golfing-around.json](./108442-golfing-around.json) |
 | Golfing Greats 2 | 222908 | [222908-golfing-greats-2.json](./222908-golfing-greats-2.json) |
 | Golfing In Aether: Dustbowl | 275124 | [275124-golfing-in-aether-dustbowl.json](./275124-golfing-in-aether-dustbowl.json) |
