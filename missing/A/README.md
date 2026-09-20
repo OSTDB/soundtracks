@@ -3061,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arabilis | 197787 | [197787-arabilis.json](./197787-arabilis.json) |
 | Arachnid | 83489 | [83489-arachnid.json](./83489-arachnid.json) |
 | Arachnoid | 23886 | [23886-arachnoid.json](./23886-arachnoid.json) |
+| ArachnoSplat | 126406 | [126406-arachnosplat.json](./126406-arachnosplat.json) |
 | Aracnidium | 193462 | [193462-aracnidium.json](./193462-aracnidium.json) |
 | Arae: Requiem of a Lonely Spirit | 133784 | [133784-arae-requiem-of-a-lonely-spirit.json](./133784-arae-requiem-of-a-lonely-spirit.json) |
 | Aragami | 18853 | [18853-aragami.json](./18853-aragami.json) |
@@ -3078,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arbalester | 39621 | [39621-arbalester.json](./39621-arbalester.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
 | Arborea: Magnicidio en la Corte | 316835 | [316835-arborea-magnicidio-en-la-corte.json](./316835-arborea-magnicidio-en-la-corte.json) |
+| Arboria | 126432 | [126432-arboria.json](./126432-arboria.json) |
 | Arby | 377051 | [377051-arby.json](./377051-arby.json) |
 | ARC Continuum | 27671 | [27671-arc-continuum.json](./27671-arc-continuum.json) |
 | Arc Intelligence | 212905 | [212905-arc-intelligence.json](./212905-arc-intelligence.json) |
@@ -3088,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Symphony | 74332 | [74332-arc-symphony.json](./74332-arc-symphony.json) |
 | Arc TCG | 290934 | [290934-arc-tcg.json](./290934-arc-tcg.json) |
 | Arc Tracker | 338265 | [338265-arc-tracker.json](./338265-arc-tracker.json) |
+| Arc Vector | 126409 | [126409-arc-vector.json](./126409-arc-vector.json) |
 | ARC: Antic Runes Combat | 294277 | [294277-arc-antic-runes-combat.json](./294277-arc-antic-runes-combat.json) |
 | ARCA Sim Racing 08' | 197936 | [197936-arca-sim-racing-08.json](./197936-arca-sim-racing-08.json) |
 | ARCA Sim Racing X | 197923 | [197923-arca-sim-racing-x.json](./197923-arca-sim-racing-x.json) |
@@ -3622,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armen Noir | 56525 | [56525-armen-noir.json](./56525-armen-noir.json) |
 | Armies of Exigo | 18855 | [18855-armies-of-exigo.json](./18855-armies-of-exigo.json) |
 | Armies of Ganivar | 130322 | [130322-armies-of-ganivar.json](./130322-armies-of-ganivar.json) |
+| Armies of Riddle E.X. (Extreme) | 126440 | [126440-armies-of-riddle-e-x-extreme.json](./126440-armies-of-riddle-e-x-extreme.json) |
 | Armobiles | 122976 | [122976-armobiles.json](./122976-armobiles.json) |
 | Armor Assault | 24898 | [24898-armor-assault.json](./24898-armor-assault.json) |
 | Armor Attack | 382918 | [382918-armor-attack.json](./382918-armor-attack.json) |
@@ -4594,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Memoria: Philosophical Data Session 2093 | 75146 | [75146-aurora-memoria-philosophical-data-session-2093.json](./75146-aurora-memoria-philosophical-data-session-2093.json) |
 | Aurora Nova | 269044 | [269044-aurora-nova.json](./269044-aurora-nova.json) |
 | Aurora: Genesis | 349367 | [349367-aurora-genesis.json](./349367-aurora-genesis.json) |
+| Aurora: Hidden Colors | 126411 | [126411-aurora-hidden-colors.json](./126411-aurora-hidden-colors.json) |
 | Aurora: Weather Warfare | 129207 | [129207-aurora-weather-warfare.json](./129207-aurora-weather-warfare.json) |
 | AuroraBound | 263585 | [263585-aurorabound.json](./263585-aurorabound.json) |
 | AuroraRL: Special Edition | 52622 | [52622-aurorarl-special-edition.json](./52622-aurorarl-special-edition.json) |
@@ -4785,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid the Threats | 359439 | [359439-avoid-the-threats.json](./359439-avoid-the-threats.json) |
 | Avoid Them: Breakthrough Gaming Arcade | 146250 | [146250-avoid-them-breakthrough-gaming-arcade.json](./146250-avoid-them-breakthrough-gaming-arcade.json) |
 | Avoider | 57056 | [57056-avoider.json](./57056-avoider.json) |
+| Avoidon | 126435 | [126435-avoidon.json](./126435-avoidon.json) |
 | Avoidvania | 159802 | [159802-avoidvania.json](./159802-avoidvania.json) |
 | Avoidy Virus | 338183 | [338183-avoidy-virus.json](./338183-avoidy-virus.json) |
 | Avolteha | 208022 | [208022-avolteha.json](./208022-avolteha.json) |
