@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Clicker Defense | 83526 | [83526-zombie-clicker-defense.json](./83526-zombie-clicker-defense.json) |
 | Zombie Conspiracy: Shooter | 174750 | [174750-zombie-conspiracy-shooter.json](./174750-zombie-conspiracy-shooter.json) |
 | Zombie Crisis | 292119 | [292119-zombie-crisis.json](./292119-zombie-crisis.json) |
+| Zombie Crisis 3D | 91113 | [91113-zombie-crisis-3d.json](./91113-zombie-crisis-3d.json) |
 | Zombie Crush Driver | 192283 | [192283-zombie-crush-driver.json](./192283-zombie-crush-driver.json) |
 | Zombie Dash | 377133 | [377133-zombie-dash.json](./377133-zombie-dash.json) |
 | Zombie Dead Smasher Shooter: Premium Edition | 283163 | [283163-zombie-dead-smasher-shooter-premium-edition.json](./283163-zombie-dead-smasher-shooter-premium-edition.json) |
