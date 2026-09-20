@@ -2076,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist Food | 285557 | [285557-fist-food.json](./285557-fist-food.json) |
 | Fist Hell | 318602 | [318602-fist-hell.json](./318602-fist-hell.json) |
 | Fist of Awesome | 17501 | [17501-fist-of-awesome.json](./17501-fist-of-awesome.json) |
+| Fist of the North Star Legends Revive | 120171 | [120171-fist-of-the-north-star-legends-revive.json](./120171-fist-of-the-north-star-legends-revive.json) |
 | Fist of the North Star: Ken's Rage 2 | 5313 | [5313-fist-of-the-north-star-kens-rage-2.json](./5313-fist-of-the-north-star-kens-rage-2.json) |
 | Fist of the North Star: Lost Paradise - Premium Edition | 212335 | [212335-fist-of-the-north-star-lost-paradise-premium-edition.json](./212335-fist-of-the-north-star-lost-paradise-premium-edition.json) |
 | Fist Puncher | 9088 | [9088-fist-puncher.json](./9088-fist-puncher.json) |
