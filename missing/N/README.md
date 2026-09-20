@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neopets: Island Builders | 254592 | [254592-neopets-island-builders.json](./254592-neopets-island-builders.json) |
 | Neopets: Mega Mini Games Collection - The Neopian Arcade Odyssey | 386211 | [386211-neopets-mega-mini-games-collection-the-neopian-arcade-odyssey.json](./386211-neopets-mega-mini-games-collection-the-neopian-arcade-odyssey.json) |
 | Neopets: The Darkest Faerie | 43641 | [43641-neopets-the-darkest-faerie.json](./43641-neopets-the-darkest-faerie.json) |
+| Neopets: The Wheel of Monotony | 97687 | [97687-neopets-the-wheel-of-monotony.json](./97687-neopets-the-wheel-of-monotony.json) |
 | Neophyte | 197366 | [197366-neophyte.json](./197366-neophyte.json) |
 | Neophyte: Koplio's Story | 145695 | [145695-neophyte-koplios-story.json](./145695-neophyte-koplios-story.json) |
 | Neophyte: The Spirit Master | 145696 | [145696-neophyte-the-spirit-master.json](./145696-neophyte-the-spirit-master.json) |
@@ -2311,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nudist Beach Survival Simulator 2 | 171465 | [171465-nudist-beach-survival-simulator-2.json](./171465-nudist-beach-survival-simulator-2.json) |
 | Nugatory | 399690 | [399690-nugatory.json](./399690-nugatory.json) |
 | Nugget & Penny: Adventure Machine | 121604 | [121604-nugget-and-penny-adventure-machine.json](./121604-nugget-and-penny-adventure-machine.json) |
+| Nugimus | 97669 | [97669-nugimus.json](./97669-nugimus.json) |
 | NugQuest | 341488 | [341488-nugquest.json](./341488-nugquest.json) |
 | Nui Goes to Town! | 354410 | [354410-nui-goes-to-town.json](./354410-nui-goes-to-town.json) |
 | Nuign Specter | 251242 | [251242-nuign-specter.json](./251242-nuign-specter.json) |
@@ -2385,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nursery Mania | 209014 | [209014-nursery-mania.json](./209014-nursery-mania.json) |
 | Nursery Rhyme | 69306 | [69306-nursery-rhyme.json](./69306-nursery-rhyme.json) |
 | Nursery Slime | 195642 | [195642-nursery-slime.json](./195642-nursery-slime.json) |
+| Nurujiru | 97671 | [97671-nurujiru.json](./97671-nurujiru.json) |
 | Nusantara | 240772 | [240772-nusantara.json](./240772-nusantara.json) |
 | Nushi Tsuri Adventure: Kite no Bouken | 50560 | [50560-nushi-tsuri-adventure-kite-no-bouken.json](./50560-nushi-tsuri-adventure-kite-no-bouken.json) |
 | Nusrat | 19495 | [19495-nusrat.json](./19495-nusrat.json) |
