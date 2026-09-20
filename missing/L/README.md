@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' Robo | 331305 | [331305-lil-robo.json](./331305-lil-robo.json) |
 | lilGunBois | 101364 | [101364-lilgunbois.json](./101364-lilgunbois.json) |
 | Lili | 63277 | [63277-lili.json](./63277-lili.json) |
+| Lili:Miesta | 77682 | [77682-lili-miesta.json](./77682-lili-miesta.json) |
 | Lilia | 362325 | [362325-lilia.json](./362325-lilia.json) |
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
 | Lilim Wants to Lv Up | 275138 | [275138-lilim-wants-to-lv-up.json](./275138-lilim-wants-to-lv-up.json) |
