@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fido 2: Puppy Power | 315278 | [315278-fido-2-puppy-power.json](./315278-fido-2-puppy-power.json) |
 | Fido Dido | 93010 | [93010-fido-dido.json](./93010-fido-dido.json) |
 | Field & Stream: Total Outdoorsman Challenge | 67081 | [67081-field-and-stream-total-outdoorsman-challenge.json](./67081-field-and-stream-total-outdoorsman-challenge.json) |
+| Field & Stream: Trophy Bass 3D | 70127 | [70127-field-and-stream-trophy-bass-3d.json](./70127-field-and-stream-trophy-bass-3d.json) |
 | Field & Stream: Trophy Bass 4 | 71459 | [71459-field-and-stream-trophy-bass-4.json](./71459-field-and-stream-trophy-bass-4.json) |
 | Field and Stream Fishing | 99003 | [99003-field-and-stream-fishing.json](./99003-field-and-stream-fishing.json) |
 | Field Breaking | 37040 | [37040-field-breaking.json](./37040-field-breaking.json) |
@@ -3778,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendly Sheeps: A Cozy Simulator | 326430 | [326430-friendly-sheeps-a-cozy-simulator.json](./326430-friendly-sheeps-a-cozy-simulator.json) |
 | Friendly Steps | 396887 | [396887-friendly-steps.json](./396887-friendly-steps.json) |
 | Friendly Warfare | 211938 | [211938-friendly-warfare.json](./211938-friendly-warfare.json) |
+| FriendlyWare P.C. Arcade | 70091 | [70091-friendlyware-p-c-arcade.json](./70091-friendlyware-p-c-arcade.json) |
 | FriendOS | 374604 | [374604-friendos.json](./374604-friendos.json) |
 | Friends and Fangs | 391712 | [391712-friends-and-fangs.json](./391712-friends-and-fangs.json) |
 | Friends in a Room | 295770 | [295770-friends-in-a-room.json](./295770-friends-in-a-room.json) |
