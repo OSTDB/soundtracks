@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss Rock City: Be A Rockstar | 265419 | [265419-kiss-rock-city-be-a-rockstar.json](./265419-kiss-rock-city-be-a-rockstar.json) |
 | Kiss Yori... | 73766 | [73766-kiss-yori.json](./73766-kiss-yori.json) |
 | Kissa | 181891 | [181891-kissa.json](./181891-kissa.json) |
+| Kissed by the Baddest Bidder | 125276 | [125276-kissed-by-the-baddest-bidder.json](./125276-kissed-by-the-baddest-bidder.json) |
 | Kissed by the Baddest Bidder: Engagement Cruise - Eisuke | 212343 | [212343-kissed-by-the-baddest-bidder-engagement-cruise-eisuke.json](./212343-kissed-by-the-baddest-bidder-engagement-cruise-eisuke.json) |
 | Kissed by the Baddest Bidder: Engagement Cruise - Eisuke DLC Pack | 212350 | [212350-kissed-by-the-baddest-bidder-engagement-cruise-eisuke-dlc-pack.json](./212350-kissed-by-the-baddest-bidder-engagement-cruise-eisuke-dlc-pack.json) |
 | Kissed by the Baddest Bidder: Engagement Cruise - His PoV: Eisuke | 212344 | [212344-kissed-by-the-baddest-bidder-engagement-cruise-his-pov-eisuke.json](./212344-kissed-by-the-baddest-bidder-engagement-cruise-his-pov-eisuke.json) |
