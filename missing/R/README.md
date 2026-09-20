@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rag Doll Kung Fu: Black Belt Edition | 201793 | [201793-rag-doll-kung-fu-black-belt-edition.json](./201793-rag-doll-kung-fu-black-belt-edition.json) |
 | RaGaBa | 27780 | [27780-ragaba.json](./27780-ragaba.json) |
 | RagBlo Set2 | 97824 | [97824-ragblo-set2.json](./97824-ragblo-set2.json) |
+| Ragdoll Blaster | 67691 | [67691-ragdoll-blaster.json](./67691-ragdoll-blaster.json) |
 | Ragdoll Boxing Multiplayer | 360670 | [360670-ragdoll-boxing-multiplayer.json](./360670-ragdoll-boxing-multiplayer.json) |
 | Ragdoll LABS | 204069 | [204069-ragdoll-labs.json](./204069-ragdoll-labs.json) |
 | Ragdoll Laser Battle | 163979 | [163979-ragdoll-laser-battle.json](./163979-ragdoll-laser-battle.json) |
@@ -598,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranx | 77645 | [77645-ranx.json](./77645-ranx.json) |
 | Rap Quest | 295037 | [295037-rap-quest.json](./295037-rap-quest.json) |
 | Rapala Fishing Frenzy 2009 | 7155 | [7155-rapala-fishing-frenzy-2009.json](./7155-rapala-fishing-frenzy-2009.json) |
+| Rapala: We Fish | 67697 | [67697-rapala-we-fish.json](./67697-rapala-we-fish.json) |
 | Rapala's Fishing Frenzy | 50605 | [50605-rapalas-fishing-frenzy.json](./50605-rapalas-fishing-frenzy.json) |
 | RaphaelGer's Plane | 229973 | [229973-raphaelgers-plane.json](./229973-raphaelgers-plane.json) |
 | Rapid Ascent | 413663 | [413663-rapid-ascent.json](./413663-rapid-ascent.json) |
@@ -2527,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Flight: Furious Wings | 156173 | [156173-rise-of-flight-furious-wings.json](./156173-rise-of-flight-furious-wings.json) |
 | Rise of Flight: The First Great Air War | 21108 | [21108-rise-of-flight-the-first-great-air-war.json](./21108-rise-of-flight-the-first-great-air-war.json) |
 | Rise of Fox Hero | 211753 | [211753-rise-of-fox-hero.json](./211753-rise-of-fox-hero.json) |
+| Rise of Heroes | 67671 | [67671-rise-of-heroes.json](./67671-rise-of-heroes.json) |
 | Rise of Industry: 2130 | 154521 | [154521-rise-of-industry-2130.json](./154521-rise-of-industry-2130.json) |
 | Rise of Jericho | 248027 | [248027-rise-of-jericho.json](./248027-rise-of-jericho.json) |
 | Rise of Kenshin | 310731 | [310731-rise-of-kenshin.json](./310731-rise-of-kenshin.json) |
@@ -3791,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby | 94199 | [94199-rugby.json](./94199-rugby.json) |
 | Rugby 18: The British and Irish Lions 2017 Team | 169953 | [169953-rugby-18-the-british-and-irish-lions-2017-team.json](./169953-rugby-18-the-british-and-irish-lions-2017-team.json) |
 | Rugby 20 | 122704 | [122704-rugby-20.json](./122704-rugby-20.json) |
+| Rugby 2001 | 67655 | [67655-rugby-2001.json](./67655-rugby-2001.json) |
 | Rugby Challenge 3 | 17275 | [17275-rugby-challenge-3.json](./17275-rugby-challenge-3.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
 | Rugby Leage Live 2: Game of the Year Edition | 323373 | [323373-rugby-leage-live-2-game-of-the-year-edition.json](./323373-rugby-leage-live-2-game-of-the-year-edition.json) |
