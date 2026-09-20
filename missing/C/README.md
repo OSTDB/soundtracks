@@ -4533,6 +4533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Kitchen | 295272 | [295272-cosmic-kitchen.json](./295272-cosmic-kitchen.json) |
 | Cosmic League | 57108 | [57108-cosmic-league.json](./57108-cosmic-league.json) |
 | Cosmic League | 57134 | [57134-cosmic-league.json](./57134-cosmic-league.json) |
+| Cosmic Math | 91745 | [91745-cosmic-math.json](./91745-cosmic-math.json) |
 | Cosmic Mirage | 297100 | [297100-cosmic-mirage.json](./297100-cosmic-mirage.json) |
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
 | Cosmic Payback | 318230 | [318230-cosmic-payback.json](./318230-cosmic-payback.json) |
@@ -5335,6 +5336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crocodile Blood: The Final Moments of Kurumizawa Keiko | 394154 | [394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json](./394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json) |
 | Crocodile Transformator | 217388 | [217388-crocodile-transformator.json](./217388-crocodile-transformator.json) |
 | Crocodracula: The Beginning | 216331 | [216331-crocodracula-the-beginning.json](./216331-crocodracula-the-beginning.json) |
+| CrocPond | 91741 | [91741-crocpond.json](./91741-crocpond.json) |
 | Crocro Adventure | 96341 | [96341-crocro-adventure.json](./96341-crocro-adventure.json) |
 | Crocs World Construction Kit 2 | 253986 | [253986-crocs-world-construction-kit-2.json](./253986-crocs-world-construction-kit-2.json) |
 | Croissants | 135012 | [135012-croissants.json](./135012-croissants.json) |
