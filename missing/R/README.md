@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray Mohawk 2: Ray Wreaks Havoc! | 259660 | [259660-ray-mohawk-2-ray-wreaks-havoc.json](./259660-ray-mohawk-2-ray-wreaks-havoc.json) |
 | Ray Mohawk's Manic Monday | 259659 | [259659-ray-mohawks-manic-monday.json](./259659-ray-mohawks-manic-monday.json) |
 | Ray of Light | 105384 | [105384-ray-of-light.json](./105384-ray-of-light.json) |
+| Ray Scramble | 97670 | [97670-ray-scramble.json](./97670-ray-scramble.json) |
 | Ray the Flying Squirrel in Sonic the Hedgehog | 198536 | [198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json](./198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json) |
 | Ray-Gun | 64969 | [64969-ray-gun.json](./64969-ray-gun.json) |
 | Ray-Hound | 78702 | [78702-ray-hound.json](./78702-ray-hound.json) |
@@ -879,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reading World VR | 296082 | [296082-reading-world-vr.json](./296082-reading-world-vr.json) |
 | Ready Action | 196893 | [196893-ready-action.json](./196893-ready-action.json) |
 | Ready or Not: Boiling Point | 394376 | [394376-ready-or-not-boiling-point.json](./394376-ready-or-not-boiling-point.json) |
+| Ready Player Fuck | 97689 | [97689-ready-player-fuck.json](./97689-ready-player-fuck.json) |
 | Ready Player One: Oasis | 99013 | [99013-ready-player-one-oasis.json](./99013-ready-player-one-oasis.json) |
 | Ready Set Dress! | 182936 | [182936-ready-set-dress.json](./182936-ready-set-dress.json) |
 | Ready Set Golf | 235351 | [235351-ready-set-golf.json](./235351-ready-set-golf.json) |
