@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Dreams | 229716 | [229716-dawn-of-dreams.json](./229716-dawn-of-dreams.json) |
 | Dawn of Dynasty | 163439 | [163439-dawn-of-dynasty.json](./163439-dawn-of-dynasty.json) |
 | Dawn of Gray | 288791 | [288791-dawn-of-gray.json](./288791-dawn-of-gray.json) |
+| Dawn of Hope: Thunder Daughter | 103870 | [103870-dawn-of-hope-thunder-daughter.json](./103870-dawn-of-hope-thunder-daughter.json) |
 | Dawn of Magic 2 | 11025 | [11025-dawn-of-magic-2.json](./11025-dawn-of-magic-2.json) |
 | Dawn of Shadow | 237082 | [237082-dawn-of-shadow.json](./237082-dawn-of-shadow.json) |
 | Dawn of the Dead | 262432 | [262432-dawn-of-the-dead.json](./262432-dawn-of-the-dead.json) |
@@ -5443,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Grandmasters | 322802 | [322802-dungeon-of-grandmasters.json](./322802-dungeon-of-grandmasters.json) |
 | Dungeon of Memories | 295807 | [295807-dungeon-of-memories.json](./295807-dungeon-of-memories.json) |
 | Dungeon of Minos | 175346 | [175346-dungeon-of-minos.json](./175346-dungeon-of-minos.json) |
+| Dungeon of Souls | 103900 | [103900-dungeon-of-souls.json](./103900-dungeon-of-souls.json) |
 | Dungeon of the Damned | 200585 | [200585-dungeon-of-the-damned.json](./200585-dungeon-of-the-damned.json) |
 | Dungeon of the Endless: Deep Freeze | 168244 | [168244-dungeon-of-the-endless-deep-freeze.json](./168244-dungeon-of-the-endless-deep-freeze.json) |
 | Dungeon of the Endless: Rescue Team | 168245 | [168245-dungeon-of-the-endless-rescue-team.json](./168245-dungeon-of-the-endless-rescue-team.json) |
