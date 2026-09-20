@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Mom: Happy Family 3D | 106962 | [106962-virtual-mom-happy-family-3d.json](./106962-virtual-mom-happy-family-3d.json) |
 | Virtual Mom: Job Simulator Manager | 268462 | [268462-virtual-mom-job-simulator-manager.json](./268462-virtual-mom-job-simulator-manager.json) |
 | Virtual Mother Family Game: Working Mom Simulator | 101587 | [101587-virtual-mother-family-game-working-mom-simulator.json](./101587-virtual-mother-family-game-working-mom-simulator.json) |
+| Virtual Mother Home Chef Family Simulator | 103903 | [103903-virtual-mother-home-chef-family-simulator.json](./103903-virtual-mother-home-chef-family-simulator.json) |
 | Virtual Perspective | 391756 | [391756-virtual-perspective.json](./391756-virtual-perspective.json) |
 | Virtual Pet | 315292 | [315292-virtual-pet.json](./315292-virtual-pet.json) |
 | Virtual Pet Great White Shark | 106574 | [106574-virtual-pet-great-white-shark.json](./106574-virtual-pet-great-white-shark.json) |
