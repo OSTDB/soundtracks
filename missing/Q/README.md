@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrivium: Paths of History | 341317 | [341317-quadrivium-paths-of-history.json](./341317-quadrivium-paths-of-history.json) |
 | Quadrofriend | 347172 | [347172-quadrofriend.json](./347172-quadrofriend.json) |
 | Quadroids | 264136 | [264136-quadroids.json](./264136-quadroids.json) |
+| QuadroX-2 | 80242 | [80242-quadrox-2.json](./80242-quadrox-2.json) |
 | Quadruzzle | 270944 | [270944-quadruzzle.json](./270944-quadruzzle.json) |
 | Quadulo | 371266 | [371266-quadulo.json](./371266-quadulo.json) |
 | Quake | 332258 | [332258-quake.json](./332258-quake.json) |
