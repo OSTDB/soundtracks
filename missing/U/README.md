@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Inc. | 252855 | [252855-undead-inc.json](./252855-undead-inc.json) |
 | Undead Kingdom Survivors | 303063 | [303063-undead-kingdom-survivors.json](./303063-undead-kingdom-survivors.json) |
 | Undead Knights | 23358 | [23358-undead-knights.json](./23358-undead-knights.json) |
+| Undead Legions II | 106353 | [106353-undead-legions-ii.json](./106353-undead-legions-ii.json) |
 | Undead Mayhem | 277614 | [277614-undead-mayhem.json](./277614-undead-mayhem.json) |
 | Undead Pixels | 163365 | [163365-undead-pixels.json](./163365-undead-pixels.json) |
 | Undead Realm: Ego | 327836 | [327836-undead-realm-ego.json](./327836-undead-realm-ego.json) |
