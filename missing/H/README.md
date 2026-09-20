@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween is Crazy as Hell | 172026 | [172026-halloween-is-crazy-as-hell.json](./172026-halloween-is-crazy-as-hell.json) |
 | Halloween Jigsaw Puzzles: Puzzle Game for Kids & Toddlers | 187359 | [187359-halloween-jigsaw-puzzles-puzzle-game-for-kids-and-toddlers.json](./187359-halloween-jigsaw-puzzles-puzzle-game-for-kids-and-toddlers.json) |
 | Halloween Madness | 75118 | [75118-halloween-madness.json](./75118-halloween-madness.json) |
+| Halloween Makeover: Spa, Makeup & Dressup Salon | 90374 | [90374-halloween-makeover-spa-makeup-and-dressup-salon.json](./90374-halloween-makeover-spa-makeup-and-dressup-salon.json) |
 | Halloween Mysteries | 30806 | [30806-halloween-mysteries.json](./30806-halloween-mysteries.json) |
 | Halloween Online Horror Night | 274764 | [274764-halloween-online-horror-night.json](./274764-halloween-online-horror-night.json) |
 | Halloween Pinball | 89159 | [89159-halloween-pinball.json](./89159-halloween-pinball.json) |
@@ -2139,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden City Top-Down 3D | 267460 | [267460-hidden-city-top-down-3d.json](./267460-hidden-city-top-down-3d.json) |
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
 | Hidden Collection | 86714 | [86714-hidden-collection.json](./86714-hidden-collection.json) |
+| Hidden Collection - Fun Seek and Find Hidden Object Puzzles | 90370 | [90370-hidden-collection-fun-seek-and-find-hidden-object-puzzles.json](./90370-hidden-collection-fun-seek-and-find-hidden-object-puzzles.json) |
 | Hidden Cubes | 74459 | [74459-hidden-cubes.json](./74459-hidden-cubes.json) |
 | Hidden Cursed Crypt | 323930 | [323930-hidden-cursed-crypt.json](./323930-hidden-cursed-crypt.json) |
 | Hidden Dose | 184598 | [184598-hidden-dose.json](./184598-hidden-dose.json) |
