@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veridus: The Walking Nightmare | 416672 | [416672-veridus-the-walking-nightmare.json](./416672-veridus-the-walking-nightmare.json) |
 | Verisim Skies | 244899 | [244899-verisim-skies.json](./244899-verisim-skies.json) |
 | Veriventure | 400851 | [400851-veriventure.json](./400851-veriventure.json) |
+| Verliebt in Berlin | 92839 | [92839-verliebt-in-berlin.json](./92839-verliebt-in-berlin.json) |
 | Verlies | 94195 | [94195-verlies.json](./94195-verlies.json) |
 | Vermeer | 46659 | [46659-vermeer.json](./46659-vermeer.json) |
 | Vermilion Desert | 69316 | [69316-vermilion-desert.json](./69316-vermilion-desert.json) |
@@ -597,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vibin'Vendetta | 302671 | [302671-vibinvendetta.json](./302671-vibinvendetta.json) |
 | Vibrant Venture | 127991 | [127991-vibrant-venture.json](./127991-vibrant-venture.json) |
 | Vic Panic | 130371 | [130371-vic-panic.json](./130371-vic-panic.json) |
+| VIC Scramble | 92825 | [92825-vic-scramble.json](./92825-vic-scramble.json) |
 | ViCam | 142857 | [142857-vicam.json](./142857-vicam.json) |
 | Vice City Race | 272392 | [272392-vice-city-race.json](./272392-vice-city-race.json) |
 | Vice Undercover | 204447 | [204447-vice-undercover.json](./204447-vice-undercover.json) |
