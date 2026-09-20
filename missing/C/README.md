@@ -2769,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel | 13704 | [13704-citadel.json](./13704-citadel.json) |
 | Citadel | 276477 | [276477-citadel.json](./276477-citadel.json) |
 | Citadel | 404944 | [404944-citadel.json](./404944-citadel.json) |
+| Citadel | 75523 | [75523-citadel.json](./75523-citadel.json) |
 | Citadel of Fire | 271812 | [271812-citadel-of-fire.json](./271812-citadel-of-fire.json) |
 | Citadel of the Dead | 169981 | [169981-citadel-of-the-dead.json](./169981-citadel-of-the-dead.json) |
 | Citadel Siege | 360659 | [360659-citadel-siege.json](./360659-citadel-siege.json) |
@@ -5279,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Code | 96022 | [96022-crime-code.json](./96022-crime-code.json) |
 | Crime Corporation | 174829 | [174829-crime-corporation.json](./174829-crime-corporation.json) |
 | Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
+| Crime Fighters | 75525 | [75525-crime-fighters.json](./75525-crime-fighters.json) |
 | Crime Investigation Escape | 240203 | [240203-crime-investigation-escape.json](./240203-crime-investigation-escape.json) |
 | Crime Kings | 233489 | [233489-crime-kings.json](./233489-crime-kings.json) |
 | Crime Map: Spot the Hidden Differences | 234625 | [234625-crime-map-spot-the-hidden-differences.json](./234625-crime-map-spot-the-hidden-differences.json) |
