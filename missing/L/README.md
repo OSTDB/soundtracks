@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Escape! | 299450 | [299450-lab-escape.json](./299450-lab-escape.json) |
 | Lab Rat | 94244 | [94244-lab-rat.json](./94244-lab-rat.json) |
 | Lab Rat Escape | 323541 | [323541-lab-rat-escape.json](./323541-lab-rat-escape.json) |
+| Lab Runner: X | 126437 | [126437-lab-runner-x.json](./126437-lab-runner-x.json) |
 | Lab47 | 407425 | [407425-lab47.json](./407425-lab47.json) |
 | Laballatory | 409584 | [409584-laballatory.json](./409584-laballatory.json) |
 | Labarynth of Legendary Loot | 143044 | [143044-labarynth-of-legendary-loot.json](./143044-labarynth-of-legendary-loot.json) |
@@ -2332,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootbane | 370125 | [370125-lootbane.json](./370125-lootbane.json) |
 | Lootbox Gungeon | 179162 | [179162-lootbox-gungeon.json](./179162-lootbox-gungeon.json) |
 | Lootbox Lyfe+ | 238185 | [238185-lootbox-lyfe.json](./238185-lootbox-lyfe.json) |
+| Lootcraft | 126418 | [126418-lootcraft.json](./126418-lootcraft.json) |
 | LootLite | 144919 | [144919-lootlite.json](./144919-lootlite.json) |
 | LootOnline | 333592 | [333592-lootonline.json](./333592-lootonline.json) |
 | LootSlime | 397710 | [397710-lootslime.json](./397710-lootslime.json) |
