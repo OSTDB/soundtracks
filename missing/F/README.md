@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Oann | 335368 | [335368-find-oann.json](./335368-find-oann.json) |
 | Find Pairs | 246490 | [246490-find-pairs.json](./246490-find-pairs.json) |
 | Find Room 96 | 291457 | [291457-find-room-96.json](./291457-find-room-96.json) |
+| Find someone else | 95237 | [95237-find-someone-else.json](./95237-find-someone-else.json) |
 | Find Sort Match | 358351 | [358351-find-sort-match.json](./358351-find-sort-match.json) |
 | Find the Birds | 230912 | [230912-find-the-birds.json](./230912-find-the-birds.json) |
 | Find the Bug | 234076 | [234076-find-the-bug.json](./234076-find-the-bug.json) |
