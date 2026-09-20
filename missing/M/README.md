@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malkyrs: Arenas of Eternity | 74365 | [74365-malkyrs-arenas-of-eternity.json](./74365-malkyrs-arenas-of-eternity.json) |
 | Mall Control | 358898 | [358898-mall-control.json](./358898-mall-control.json) |
 | Mall Manager | 291255 | [291255-mall-manager.json](./291255-mall-manager.json) |
+| Mall Maniacs | 70681 | [70681-mall-maniacs.json](./70681-mall-maniacs.json) |
 | Mall of Mayhem | 188502 | [188502-mall-of-mayhem.json](./188502-mall-of-mayhem.json) |
 | Mall Simulator | 326402 | [326402-mall-simulator.json](./326402-mall-simulator.json) |
 | Mall Together | 400213 | [400213-mall-together.json](./400213-mall-together.json) |
@@ -2947,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
 | Metal Army War Revenge | 221714 | [221714-metal-army-war-revenge.json](./221714-metal-army-war-revenge.json) |
 | Metal Assault | 9040 | [9040-metal-assault.json](./9040-metal-assault.json) |
+| Metal Black: Alternative | 70648 | [70648-metal-black-alternative.json](./70648-metal-black-alternative.json) |
 | Metal Brigade Tactics Versus | 256254 | [256254-metal-brigade-tactics-versus.json](./256254-metal-brigade-tactics-versus.json) |
 | Metal Bunny | 309894 | [309894-metal-bunny.json](./309894-metal-bunny.json) |
 | Metal Coffin | 335256 | [335256-metal-coffin.json](./335256-metal-coffin.json) |
@@ -6464,6 +6466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Spelling Words | 93073 | [93073-my-spelling-words.json](./93073-my-spelling-words.json) |
 | My Step Sisters | 344946 | [344946-my-step-sisters.json](./344946-my-step-sisters.json) |
 | My Sticker Room | 383969 | [383969-my-sticker-room.json](./383969-my-sticker-room.json) |
+| My Stop Smoking Coach with Allen Carr | 70638 | [70638-my-stop-smoking-coach-with-allen-carr.json](./70638-my-stop-smoking-coach-with-allen-carr.json) |
 | My Strange Girlfriends | 248926 | [248926-my-strange-girlfriends.json](./248926-my-strange-girlfriends.json) |
 | My Strongest Girlfriend | 316651 | [316651-my-strongest-girlfriend.json](./316651-my-strongest-girlfriend.json) |
 | My Sudoku | 321960 | [321960-my-sudoku.json](./321960-my-sudoku.json) |
