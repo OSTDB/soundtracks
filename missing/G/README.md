@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaming Burnout Treatment Center | 408063 | [408063-gaming-burnout-treatment-center.json](./408063-gaming-burnout-treatment-center.json) |
 | Gaming Cafe Simulator | 318807 | [318807-gaming-cafe-simulator.json](./318807-gaming-cafe-simulator.json) |
 | Gaming Constructor Simulator | 121002 | [121002-gaming-constructor-simulator.json](./121002-gaming-constructor-simulator.json) |
+| Gamino | 94551 | [94551-gamino.json](./94551-gamino.json) |
 | Gamitate the Meditation Game | 147374 | [147374-gamitate-the-meditation-game.json](./147374-gamitate-the-meditation-game.json) |
 | Gamius Type IV | 51175 | [51175-gamius-type-iv.json](./51175-gamius-type-iv.json) |
 | Gamlet | 146109 | [146109-gamlet.json](./146109-gamlet.json) |
@@ -1414,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gli Animotosi e la Macchina Motante | 213625 | [213625-gli-animotosi-e-la-macchina-motante.json](./213625-gli-animotosi-e-la-macchina-motante.json) |
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
+| Glider: Collect'n Kill | 94537 | [94537-glider-collectn-kill.json](./94537-glider-collectn-kill.json) |
 | Gliderman | 202752 | [202752-gliderman.json](./202752-gliderman.json) |
 | Glides | 100610 | [100610-glides.json](./100610-glides.json) |
 | Gliding Square | 207893 | [207893-gliding-square.json](./207893-gliding-square.json) |
@@ -1860,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
 | Gold Knight | 277269 | [277269-gold-knight.json](./277269-gold-knight.json) |
 | Gold Miner Challenger | 215360 | [215360-gold-miner-challenger.json](./215360-gold-miner-challenger.json) |
+| Gold Miner Joe | 94580 | [94580-gold-miner-joe.json](./94580-gold-miner-joe.json) |
 | Gold Miner: Classic Edition | 360579 | [360579-gold-miner-classic-edition.json](./360579-gold-miner-classic-edition.json) |
 | Gold Miner: Vegas | 188566 | [188566-gold-miner-vegas.json](./188566-gold-miner-vegas.json) |
 | Gold Monkey | 63280 | [63280-gold-monkey.json](./63280-gold-monkey.json) |
@@ -2433,9 +2436,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave | 7411 | [7411-grave.json](./7411-grave.json) |
 | Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
+| Grave Yardage | 94545 | [94545-grave-yardage.json](./94545-grave-yardage.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
 | GraveBond | 272390 | [272390-gravebond.json](./272390-gravebond.json) |
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
+| Gravedigger | 94557 | [94557-gravedigger.json](./94557-gravedigger.json) |
 | Gravel Gang | 243791 | [243791-gravel-gang.json](./243791-gravel-gang.json) |
 | Gravel: Armored Operation | 167805 | [167805-gravel-armored-operation.json](./167805-gravel-armored-operation.json) |
 | Gravel: King of Buggies | 172061 | [172061-gravel-king-of-buggies.json](./172061-gravel-king-of-buggies.json) |
