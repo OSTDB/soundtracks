@@ -1894,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Three Kingdoms | 77303 | [77303-heroes-of-three-kingdoms.json](./77303-heroes-of-three-kingdoms.json) |
 | Heroes of Valhalla | 224104 | [224104-heroes-of-valhalla.json](./224104-heroes-of-valhalla.json) |
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
+| Heroes of Warland | 112141 | [112141-heroes-of-warland.json](./112141-heroes-of-warland.json) |
 | Heroes Origins | 266205 | [266205-heroes-origins.json](./266205-heroes-origins.json) |
 | Heroes Phantasia | 65495 | [65495-heroes-phantasia.json](./65495-heroes-phantasia.json) |
 | Heroes Ravage | 114433 | [114433-heroes-ravage.json](./114433-heroes-ravage.json) |
@@ -2970,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook, Line, and Axe | 360652 | [360652-hook-line-and-axe.json](./360652-hook-line-and-axe.json) |
 | Hook, Line, and Spelunker | 214730 | [214730-hook-line-and-spelunker.json](./214730-hook-line-and-spelunker.json) |
 | Hook: Complete Edition | 340742 | [340742-hook-complete-edition.json](./340742-hook-complete-edition.json) |
+| Hookbots | 112138 | [112138-hookbots.json](./112138-hookbots.json) |
 | HookCat | 159267 | [159267-hookcat.json](./159267-hookcat.json) |
 | Hooked on Bass Fishing | 78610 | [78610-hooked-on-bass-fishing.json](./78610-hooked-on-bass-fishing.json) |
 | Hooked On Speed | 316604 | [316604-hooked-on-speed.json](./316604-hooked-on-speed.json) |
@@ -3108,6 +3110,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Girls | 382287 | [382287-horror-girls.json](./382287-horror-girls.json) |
 | Horror Hospital | 29915 | [29915-horror-hospital.json](./29915-horror-hospital.json) |
 | Horror Hotel: Mystery Quest | 206726 | [206726-horror-hotel-mystery-quest.json](./206726-horror-hotel-mystery-quest.json) |
+| Horror House | 112161 | [112161-horror-house.json](./112161-horror-house.json) |
+| Horror House Part II | 112160 | [112160-horror-house-part-ii.json](./112160-horror-house-part-ii.json) |
 | Horror Hunt | 121600 | [121600-horror-hunt.json](./121600-horror-hunt.json) |
 | Horror In Valkeala | 192951 | [192951-horror-in-valkeala.json](./192951-horror-in-valkeala.json) |
 | Horror Ken | 262374 | [262374-horror-ken.json](./262374-horror-ken.json) |
