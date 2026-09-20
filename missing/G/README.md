@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Rush | 321618 | [321618-giant-rush.json](./321618-giant-rush.json) |
 | Giant Rush: Gold Edition | 385201 | [385201-giant-rush-gold-edition.json](./385201-giant-rush-gold-edition.json) |
 | Giant Snake Girl Wants the Burger! | 383379 | [383379-giant-snake-girl-wants-the-burger.json](./383379-giant-snake-girl-wants-the-burger.json) |
+| Giant Trucks Driving Simulator | 90355 | [90355-giant-trucks-driving-simulator.json](./90355-giant-trucks-driving-simulator.json) |
 | GiAnt: Warfare | 172118 | [172118-giant-warfare.json](./172118-giant-warfare.json) |
 | Giant’s Heart | 349948 | [349948-giant-s-heart.json](./349948-giant-s-heart.json) |
 | Giant's Revenge | 25726 | [25726-giants-revenge.json](./25726-giants-revenge.json) |
@@ -3419,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Rat Simulator | 410888 | [410888-gym-rat-simulator.json](./410888-gym-rat-simulator.json) |
 | Gym Simulator 24 | 263793 | [263793-gym-simulator-24.json](./263793-gym-simulator-24.json) |
 | Gym Simulator 26 | 397070 | [397070-gym-simulator-26.json](./397070-gym-simulator-26.json) |
+| Gymnastics Girl | 90349 | [90349-gymnastics-girl.json](./90349-gymnastics-girl.json) |
 | Gynogenesis: The Next Day | 256899 | [256899-gynogenesis-the-next-day.json](./256899-gynogenesis-the-next-day.json) |
 | Gyossait | 42684 | [42684-gyossait.json](./42684-gyossait.json) |
 | Gyossait: Deluxe Edition | 134001 | [134001-gyossait-deluxe-edition.json](./134001-gyossait-deluxe-edition.json) |
