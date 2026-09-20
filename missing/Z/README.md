@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zegapain NOT | 68015 | [68015-zegapain-not.json](./68015-zegapain-not.json) |
 | Zegapain XOR | 68017 | [68017-zegapain-xor.json](./68017-zegapain-xor.json) |
 | Zehlar | 258023 | [258023-zehlar.json](./258023-zehlar.json) |
+| Zehn Adventures | 94541 | [94541-zehn-adventures.json](./94541-zehn-adventures.json) |
 | Zeitgeist | 178539 | [178539-zeitgeist.json](./178539-zeitgeist.json) |
 | Zekkyo Senshi Sakebrain | 72648 | [72648-zekkyo-senshi-sakebrain.json](./72648-zekkyo-senshi-sakebrain.json) |
 | Zelda | 152362 | [152362-zelda.json](./152362-zelda.json) |
@@ -587,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies. | 95370 | [95370-zombies.json](./95370-zombies.json) |
 | Zombies.io | 130359 | [130359-zombies-io.json](./130359-zombies-io.json) |
 | ZombieSquad | 216475 | [216475-zombiesquad.json](./216475-zombiesquad.json) |
+| Zombietron 1: Cemetery Guy | 94555 | [94555-zombietron-1-cemetery-guy.json](./94555-zombietron-1-cemetery-guy.json) |
 | ZombieVital DG | 147267 | [147267-zombievital-dg.json](./147267-zombievital-dg.json) |
 | ZombieZoid Zenith | 34435 | [34435-zombiezoid-zenith.json](./34435-zombiezoid-zenith.json) |
 | Zombiezz | 268453 | [268453-zombiezz.json](./268453-zombiezz.json) |
