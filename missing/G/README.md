@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoEmpires | 342644 | [342644-geoempires.json](./342644-geoempires.json) |
 | GeoExpert - Russia Geography | 103152 | [103152-geoexpert-russia-geography.json](./103152-geoexpert-russia-geography.json) |
 | GeoExpert - USA Geography | 98998 | [98998-geoexpert-usa-geography.json](./98998-geoexpert-usa-geography.json) |
+| GeoExpert - World | 100616 | [100616-geoexpert-world.json](./100616-geoexpert-world.json) |
 | Geograph Seal | 63819 | [63819-geograph-seal.json](./63819-geograph-seal.json) |
 | Geography Champion | 105933 | [105933-geography-champion.json](./105933-geography-champion.json) |
 | GeoJelly | 232457 | [232457-geojelly.json](./232457-geojelly.json) |
@@ -1403,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
 | Gliderman | 202752 | [202752-gliderman.json](./202752-gliderman.json) |
+| Glides | 100610 | [100610-glides.json](./100610-glides.json) |
 | Gliding Square | 207893 | [207893-gliding-square.json](./207893-gliding-square.json) |
 | Glimby | 246412 | [246412-glimby.json](./246412-glimby.json) |
 | Glimpo | 414380 | [414380-glimpo.json](./414380-glimpo.json) |
@@ -1495,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory Warrior: Lord of Darkness | 32963 | [32963-glory-warrior-lord-of-darkness.json](./32963-glory-warrior-lord-of-darkness.json) |
 | Glory's Witness | 161407 | [161407-glorys-witness.json](./161407-glorys-witness.json) |
 | Glove Pilot | 380537 | [380537-glove-pilot.json](./380537-glove-pilot.json) |
+| Glow Ball: Not a Billiard Puzzle Game | 100582 | [100582-glow-ball-not-a-billiard-puzzle-game.json](./100582-glow-ball-not-a-billiard-puzzle-game.json) |
 | Glow Chess | 106583 | [106583-glow-chess.json](./106583-glow-chess.json) |
 | Glow Hockey 2 | 228068 | [228068-glow-hockey-2.json](./228068-glow-hockey-2.json) |
 | Glow Hockey 2 HD | 91984 | [91984-glow-hockey-2-hd.json](./91984-glow-hockey-2-hd.json) |
@@ -2098,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goose Goose Duck | 144442 | [144442-goose-goose-duck.json](./144442-goose-goose-duck.json) |
 | Goose Simulator | 199063 | [199063-goose-simulator.json](./199063-goose-simulator.json) |
 | Goose.io | 130858 | [130858-goose-io.json](./130858-goose-io.json) |
+| Goosebumps HorrorTown | 100554 | [100554-goosebumps-horrortown.json](./100554-goosebumps-horrortown.json) |
 | Goosebumps: Attack of the Mutant | 19667 | [19667-goosebumps-attack-of-the-mutant.json](./19667-goosebumps-attack-of-the-mutant.json) |
 | Goosebumps: Escape from Horrorland | 79276 | [79276-goosebumps-escape-from-horrorland.json](./79276-goosebumps-escape-from-horrorland.json) |
 | Goosebumps: HorrorLand | 43301 | [43301-goosebumps-horrorland.json](./43301-goosebumps-horrorland.json) |
