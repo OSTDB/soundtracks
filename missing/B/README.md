@@ -1356,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefleet Gothic: Armada - Deluxe Edition | 186341 | [186341-battlefleet-gothic-armada-deluxe-edition.json](./186341-battlefleet-gothic-armada-deluxe-edition.json) |
 | Battlefleet Gothic: Armada - Space Marines | 52637 | [52637-battlefleet-gothic-armada-space-marines.json](./52637-battlefleet-gothic-armada-space-marines.json) |
 | Battlefleet Gothic: Armada - Tau Empire | 52636 | [52636-battlefleet-gothic-armada-tau-empire.json](./52636-battlefleet-gothic-armada-tau-empire.json) |
+| Battlefleet Gothic: Armada 2 - Chaos Campaign Expansion | 120157 | [120157-battlefleet-gothic-armada-2-chaos-campaign-expansion.json](./120157-battlefleet-gothic-armada-2-chaos-campaign-expansion.json) |
 | Battlefleet Gothic: Armada 2 - Complete Edition | 154949 | [154949-battlefleet-gothic-armada-2-complete-edition.json](./154949-battlefleet-gothic-armada-2-complete-edition.json) |
 | Battlefleet Gothic: Armada 2 - Deluxe Edition | 186340 | [186340-battlefleet-gothic-armada-2-deluxe-edition.json](./186340-battlefleet-gothic-armada-2-deluxe-edition.json) |
 | Battlefleet Gothic: Leviathan | 34371 | [34371-battlefleet-gothic-leviathan.json](./34371-battlefleet-gothic-leviathan.json) |
@@ -5326,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Driver Simulator | 141689 | [141689-bus-driver-simulator.json](./141689-bus-driver-simulator.json) |
 | Bus Driving Sim 22 | 203890 | [203890-bus-driving-sim-22.json](./203890-bus-driving-sim-22.json) |
 | Bus Driving Simulator 24 City Roads & Farmer Simulator Bundle | 390509 | [390509-bus-driving-simulator-24-city-roads-and-farmer-simulator-bundle.json](./390509-bus-driving-simulator-24-city-roads-and-farmer-simulator-bundle.json) |
+| Bus Fix 2019 | 120179 | [120179-bus-fix-2019.json](./120179-bus-fix-2019.json) |
 | Bus Simulator | 130938 | [130938-bus-simulator.json](./130938-bus-simulator.json) |
 | Bus Simulator 16: Man Lion's City CNG Pack | 163355 | [163355-bus-simulator-16-man-lions-city-cng-pack.json](./163355-bus-simulator-16-man-lions-city-cng-pack.json) |
 | Bus Simulator 18: Man Bus Pack 1 | 225061 | [225061-bus-simulator-18-man-bus-pack-1.json](./225061-bus-simulator-18-man-bus-pack-1.json) |
