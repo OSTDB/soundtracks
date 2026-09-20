@@ -4340,12 +4340,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart Bomber | 247035 | [247035-smart-bomber.json](./247035-smart-bomber.json) |
 | Smart Boy's Gameroom II | 208958 | [208958-smart-boys-gameroom-ii.json](./208958-smart-boys-gameroom-ii.json) |
+| Smart Boy's: Toy Club | 124044 | [124044-smart-boys-toy-club.json](./124044-smart-boys-toy-club.json) |
+| Smart Boy's: Winter Wonderland | 124048 | [124048-smart-boys-winter-wonderland.json](./124048-smart-boys-winter-wonderland.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
 | Smart Fart | 149938 | [149938-smart-fart.json](./149938-smart-fart.json) |
 | Smart Frog | 246480 | [246480-smart-frog.json](./246480-smart-frog.json) |
 | Smart Frog | 358941 | [358941-smart-frog.json](./358941-smart-frog.json) |
 | Smart Games Puzzle Challenge 2 | 73256 | [73256-smart-games-puzzle-challenge-2.json](./73256-smart-games-puzzle-challenge-2.json) |
 | Smart Girl's Playhouse Mini | 21011 | [21011-smart-girls-playhouse-mini.json](./21011-smart-girls-playhouse-mini.json) |
+| Smart Girl's: Magical Book Club | 124047 | [124047-smart-girls-magical-book-club.json](./124047-smart-girls-magical-book-club.json) |
+| Smart Girl's: Party Games | 124046 | [124046-smart-girls-party-games.json](./124046-smart-girls-party-games.json) |
+| Smart Girl's: Playhouse | 124045 | [124045-smart-girls-playhouse.json](./124045-smart-girls-playhouse.json) |
+| Smart Girl's: Winter Wonderland | 124049 | [124049-smart-girls-winter-wonderland.json](./124049-smart-girls-winter-wonderland.json) |
+| Smart Kid's: Gameclub | 124050 | [124050-smart-kids-gameclub.json](./124050-smart-kids-gameclub.json) |
+| Smart Kid's: Party Fun Pack | 124059 | [124059-smart-kids-party-fun-pack.json](./124059-smart-kids-party-fun-pack.json) |
 | Smart Moves Bundle | 218459 | [218459-smart-moves-bundle.json](./218459-smart-moves-bundle.json) |
 | Smart Puzzles Collection | 140398 | [140398-smart-puzzles-collection.json](./140398-smart-puzzles-collection.json) |
 | Smart Technology | 230266 | [230266-smart-technology.json](./230266-smart-technology.json) |
@@ -5035,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solemn Warriors | 330187 | [330187-solemn-warriors.json](./330187-solemn-warriors.json) |
 | Soletrando: Nova Ortografia | 181940 | [181940-soletrando-nova-ortografia.json](./181940-soletrando-nova-ortografia.json) |
 | SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
+| Solid Body Picross | 124053 | [124053-solid-body-picross.json](./124053-solid-body-picross.json) |
 | Solid Void Art Nonograms | 378770 | [378770-solid-void-art-nonograms.json](./378770-solid-void-art-nonograms.json) |
 | Solidarność | 318229 | [318229-solidarnosc.json](./318229-solidarnosc.json) |
 | Solidus | 100745 | [100745-solidus.json](./100745-solidus.json) |
@@ -5180,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somewhere Strange | 184091 | [184091-somewhere-strange.json](./184091-somewhere-strange.json) |
 | Somewhere: Sect of Relic | 56440 | [56440-somewhere-sect-of-relic.json](./56440-somewhere-sect-of-relic.json) |
 | Sommad | 51957 | [51957-sommad.json](./51957-sommad.json) |
+| Sommelier DS | 124052 | [124052-sommelier-ds.json](./124052-sommelier-ds.json) |
 | SomnaBuster | 281378 | [281378-somnabuster.json](./281378-somnabuster.json) |
 | Somni | 172738 | [172738-somni.json](./172738-somni.json) |
 | Somnifuge | 330702 | [330702-somnifuge.json](./330702-somnifuge.json) |
@@ -5726,6 +5736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sougou Kakutougi: Astral Bout | 38295 | [38295-sougou-kakutougi-astral-bout.json](./38295-sougou-kakutougi-astral-bout.json) |
 | Sougou Kakutougi: Astral Bout 2 - The Total Fighters | 38296 | [38296-sougou-kakutougi-astral-bout-2-the-total-fighters.json](./38296-sougou-kakutougi-astral-bout-2-the-total-fighters.json) |
 | Soukh | 358304 | [358304-soukh.json](./358304-soukh.json) |
+| Soukoku no Kusabi: Hiiro no Kakera 3 | 124051 | [124051-soukoku-no-kusabi-hiiro-no-kakera-3.json](./124051-soukoku-no-kusabi-hiiro-no-kakera-3.json) |
 | Soukou Akki Muramasa: Janen-hen | 170502 | [170502-soukou-akki-muramasa-janen-hen.json](./170502-soukou-akki-muramasa-janen-hen.json) |
 | Soukou Kihei Votoms: The Battling Road | 38273 | [38273-soukou-kihei-votoms-the-battling-road.json](./38273-soukou-kihei-votoms-the-battling-road.json) |
 | Soukou Seiki Ysphere ~Ingyaku no Sennou Kaizou~ | 133247 | [133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json](./133247-soukou-seiki-ysphere-ingyaku-no-sennou-kaizou.json) |
@@ -6607,6 +6618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellUp | 233102 | [233102-spellup.json](./233102-spellup.json) |
 | Spellweaver | 18010 | [18010-spellweaver.json](./18010-spellweaver.json) |
 | Spellwheel | 322968 | [322968-spellwheel.json](./322968-spellwheel.json) |
+| Spellworm | 124054 | [124054-spellworm.json](./124054-spellworm.json) |
 | Spellz: Mastery or Death | 278680 | [278680-spellz-mastery-or-death.json](./278680-spellz-mastery-or-death.json) |
 | Spelp | 232711 | [232711-spelp.json](./232711-spelp.json) |
 | Spelunker HD | 45281 | [45281-spelunker-hd.json](./45281-spelunker-hd.json) |
@@ -6815,6 +6827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirulena Interceptor | 291231 | [291231-spirulena-interceptor.json](./291231-spirulena-interceptor.json) |
 | Spish | 169421 | [169421-spish.json](./169421-spish.json) |
 | Spiteful Lovers in a Perfect World | 308539 | [308539-spiteful-lovers-in-a-perfect-world.json](./308539-spiteful-lovers-in-a-perfect-world.json) |
+| Spitfire Heroes: Tales of the Royal Air Force | 124055 | [124055-spitfire-heroes-tales-of-the-royal-air-force.json](./124055-spitfire-heroes-tales-of-the-royal-air-force.json) |
 | Spitfire: Moonpies Mission | 307950 | [307950-spitfire-moonpies-mission.json](./307950-spitfire-moonpies-mission.json) |
 | Spitting Z | 156517 | [156517-spitting-z.json](./156517-spitting-z.json) |
 | Splash Adventure: The Maze of Morla | 83524 | [83524-splash-adventure-the-maze-of-morla.json](./83524-splash-adventure-the-maze-of-morla.json) |
@@ -7091,6 +7104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Kids Challenger | 49385 | [49385-spy-kids-challenger.json](./49385-spy-kids-challenger.json) |
 | Spy Kids Learning Adventures: Mission - Man in the Moon | 73833 | [73833-spy-kids-learning-adventures-mission-man-in-the-moon.json](./73833-spy-kids-learning-adventures-mission-man-in-the-moon.json) |
 | Spy Kids Learning Adventures: Mission - The Underground Affair | 72075 | [72075-spy-kids-learning-adventures-mission-the-underground-affair.json](./72075-spy-kids-learning-adventures-mission-the-underground-affair.json) |
+| Spy Kids: All the Time in the World | 124058 | [124058-spy-kids-all-the-time-in-the-world.json](./124058-spy-kids-all-the-time-in-the-world.json) |
 | Spy Muppets: License to Croak | 210723 | [210723-spy-muppets-license-to-croak.json](./210723-spy-muppets-license-to-croak.json) |
 | Spy Network | 188111 | [188111-spy-network.json](./188111-spy-network.json) |
 | Spy Snatcher | 73817 | [73817-spy-snatcher.json](./73817-spy-snatcher.json) |
@@ -7126,6 +7140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Conflicts | 174906 | [174906-squad-conflicts.json](./174906-squad-conflicts.json) |
 | Squadika | 401693 | [401693-squadika.json](./401693-squadika.json) |
 | Squally | 111118 | [111118-squally.json](./111118-squally.json) |
+| Squarcat | 124056 | [124056-squarcat.json](./124056-squarcat.json) |
 | Square | 195626 | [195626-square.json](./195626-square.json) |
 | Square | 208591 | [208591-square.json](./208591-square.json) |
 | Square | 247020 | [247020-square.json](./247020-square.json) |
@@ -7653,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
+| StarBlox Inc. | 124060 | [124060-starblox-inc.json](./124060-starblox-inc.json) |
 | Starboard | 192366 | [192366-starboard.json](./192366-starboard.json) |
 | Starboard | 334157 | [334157-starboard.json](./334157-starboard.json) |
 | Starboi | 360603 | [360603-starboi.json](./360603-starboi.json) |
@@ -8793,6 +8809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike the Planets! | 226765 | [226765-strike-the-planets.json](./226765-strike-the-planets.json) |
 | Strike Wing: Raptor Rising | 3148 | [3148-strike-wing-raptor-rising.json](./3148-strike-wing-raptor-rising.json) |
 | Strike Witches: Doki! Otome Darake no Jouriku Sakusen | 69278 | [69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json](./69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json) |
+| Strike Witches: Soukuu no Dengekisen - Shin Taichou Funtousuru! | 124061 | [124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json](./124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json) |
 | Strikeforce | 361229 | [361229-strikeforce.json](./361229-strikeforce.json) |
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
 | Striker | 237503 | [237503-striker.json](./237503-striker.json) |
