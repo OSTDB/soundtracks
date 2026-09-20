@@ -1376,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis World Tour: Kristina Mladenovic | 169941 | [169941-tennis-world-tour-kristina-mladenovic.json](./169941-tennis-world-tour-kristina-mladenovic.json) |
 | Tennis World Tour: Legends Bonus Pack | 169942 | [169942-tennis-world-tour-legends-bonus-pack.json](./169942-tennis-world-tour-legends-bonus-pack.json) |
 | Tennis World Tour: Rafael Nadal | 169938 | [169938-tennis-world-tour-rafael-nadal.json](./169938-tennis-world-tour-rafael-nadal.json) |
+| Tennis World Tour: Roland-Garros Edition | 118167 | [118167-tennis-world-tour-roland-garros-edition.json](./118167-tennis-world-tour-roland-garros-edition.json) |
 | Tennis World Tour: Stadium Pack | 169940 | [169940-tennis-world-tour-stadium-pack.json](./169940-tennis-world-tour-stadium-pack.json) |
 | Tennis-e | 170010 | [170010-tennis-e.json](./170010-tennis-e.json) |
 | Tennis/Squash | 92528 | [92528-tennis-squash.json](./92528-tennis-squash.json) |
@@ -3546,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Instruction Manual | 202384 | [202384-the-instruction-manual.json](./202384-the-instruction-manual.json) |
 | The Interactive Adventures of Dog Mendonça and Pizzaboy | 17976 | [17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json](./17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json) |
 | The Interdiction Zone | 274191 | [274191-the-interdiction-zone.json](./274191-the-interdiction-zone.json) |
+| The Interlude | 118172 | [118172-the-interlude.json](./118172-the-interlude.json) |
 | The Interview | 35786 | [35786-the-interview.json](./35786-the-interview.json) |
 | The Invasion 2 | 268038 | [268038-the-invasion-2.json](./268038-the-invasion-2.json) |
 | The Invasion of Area 51 | 130871 | [130871-the-invasion-of-area-51.json](./130871-the-invasion-of-area-51.json) |
@@ -4259,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magical Unicorn | 145611 | [145611-the-magical-unicorn.json](./145611-the-magical-unicorn.json) |
 | The Magician Of Justice | 289986 | [289986-the-magician-of-justice.json](./289986-the-magician-of-justice.json) |
 | The Magician VR: The Cursed Wand | 406169 | [406169-the-magician-vr-the-cursed-wand.json](./406169-the-magician-vr-the-cursed-wand.json) |
+| The Magician's Handbook: Cursed Valley | 118180 | [118180-the-magicians-handbook-cursed-valley.json](./118180-the-magicians-handbook-cursed-valley.json) |
 | The Magician's Research | 123571 | [123571-the-magicians-research.json](./123571-the-magicians-research.json) |
 | The Magistrate | 247750 | [247750-the-magistrate.json](./247750-the-magistrate.json) |
 | The Magnet: First Night | 181299 | [181299-the-magnet-first-night.json](./181299-the-magnet-first-night.json) |
@@ -5422,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Summit High | 178666 | [178666-the-summit-high.json](./178666-the-summit-high.json) |
 | The Summoning | 50134 | [50134-the-summoning.json](./50134-the-summoning.json) |
 | The Sun and Moon | 17811 | [17811-the-sun-and-moon.json](./17811-the-sun-and-moon.json) |
+| The Sun Crosswords: Volume 1 & 2 | 118165 | [118165-the-sun-crosswords-volume-1-and-2.json](./118165-the-sun-crosswords-volume-1-and-2.json) |
 | The Sun Never Sets | 38962 | [38962-the-sun-never-sets.json](./38962-the-sun-never-sets.json) |
 | The Sun Will Rise | 31833 | [31833-the-sun-will-rise.json](./31833-the-sun-will-rise.json) |
 | The Sun: Evaluation | 174761 | [174761-the-sun-evaluation.json](./174761-the-sun-evaluation.json) |
@@ -5557,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing at the Window | 221750 | [221750-the-thing-at-the-window.json](./221750-the-thing-at-the-window.json) |
 | The Thing That Happened | 294284 | [294284-the-thing-that-happened.json](./294284-the-thing-that-happened.json) |
 | The Thing You Can't Defeat | 251239 | [251239-the-thing-you-cant-defeat.json](./251239-the-thing-you-cant-defeat.json) |
+| The Things We Lost in the Flood | 118170 | [118170-the-things-we-lost-in-the-flood.json](./118170-the-things-we-lost-in-the-flood.json) |
 | The Third Age | 264137 | [264137-the-third-age.json](./264137-the-third-age.json) |
 | The Third Pig | 337176 | [337176-the-third-pig.json](./337176-the-third-pig.json) |
 | The Third Shift | 139451 | [139451-the-third-shift.json](./139451-the-third-shift.json) |
