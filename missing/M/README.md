@@ -1043,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Märchen Maze | 212861 | [212861-marchen-maze.json](./212861-marchen-maze.json) |
 | Marchen Veil | 41337 | [41337-marchen-veil.json](./41337-marchen-veil.json) |
 | Marching Order | 330151 | [330151-marching-order.json](./330151-marching-order.json) |
+| Marching Simulator | 96516 | [96516-marching-simulator.json](./96516-marching-simulator.json) |
 | Marchland | 183457 | [183457-marchland.json](./183457-marchland.json) |
 | Marcianito Go | 228470 | [228470-marcianito-go.json](./228470-marcianito-go.json) |
 | Marco Polo | 45916 | [45916-marco-polo.json](./45916-marco-polo.json) |
@@ -1651,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Chaos | 268757 | [268757-masters-of-chaos.json](./268757-masters-of-chaos.json) |
 | Masters of Light | 285367 | [285367-masters-of-light.json](./285367-masters-of-light.json) |
 | Masters of Mayhem | 314266 | [314266-masters-of-mayhem.json](./314266-masters-of-mayhem.json) |
+| Masters of Puzzle | 96480 | [96480-masters-of-puzzle.json](./96480-masters-of-puzzle.json) |
 | Masters of Puzzle: Autumn Fuji | 151213 | [151213-masters-of-puzzle-autumn-fuji.json](./151213-masters-of-puzzle-autumn-fuji.json) |
 | Masters of Puzzle: Childhood | 151216 | [151216-masters-of-puzzle-childhood.json](./151216-masters-of-puzzle-childhood.json) |
 | Masters of Puzzle: Christmas Edition - Mystery Town | 151215 | [151215-masters-of-puzzle-christmas-edition-mystery-town.json](./151215-masters-of-puzzle-christmas-edition-mystery-town.json) |
@@ -2234,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet the Vowels | 102773 | [102773-meet-the-vowels.json](./102773-meet-the-vowels.json) |
 | Meet Your Maker: Deluxe Edition | 243798 | [243798-meet-your-maker-deluxe-edition.json](./243798-meet-your-maker-deluxe-edition.json) |
 | Meet Your Maker: Sector 3 Arsenal Pack | 284882 | [284882-meet-your-maker-sector-3-arsenal-pack.json](./284882-meet-your-maker-sector-3-arsenal-pack.json) |
+| Meet.Hunter | 96479 | [96479-meet-hunter.json](./96479-meet-hunter.json) |
 | Meet'N'Fuck Denise Milani | 221728 | [221728-meetnfuck-denise-milani.json](./221728-meetnfuck-denise-milani.json) |
 | Meet'N'Fuck Office Romance | 221724 | [221724-meetnfuck-office-romance.json](./221724-meetnfuck-office-romance.json) |
 | Meet'N'Fuck: BDSM Club | 221726 | [221726-meetnfuck-bdsm-club.json](./221726-meetnfuck-bdsm-club.json) |
@@ -3187,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Action Pack | 86036 | [86036-microsoft-action-pack.json](./86036-microsoft-action-pack.json) |
 | Microsoft Arcade | 94214 | [94214-microsoft-arcade.json](./94214-microsoft-arcade.json) |
 | Microsoft Blackboard | 209517 | [209517-microsoft-blackboard.json](./209517-microsoft-blackboard.json) |
+| Microsoft Casino | 96510 | [96510-microsoft-casino.json](./96510-microsoft-casino.json) |
 | Microsoft Children's Miracle Network Games Bundle | 7069 | [7069-microsoft-childrens-miracle-network-games-bundle.json](./7069-microsoft-childrens-miracle-network-games-bundle.json) |
 | Microsoft Combat Flight Simulator 3: Battle for Europe | 23768 | [23768-microsoft-combat-flight-simulator-3-battle-for-europe.json](./23768-microsoft-combat-flight-simulator-3-battle-for-europe.json) |
 | Microsoft Combat Flight Simulator: WWII Europe Series | 243975 | [243975-microsoft-combat-flight-simulator-wwii-europe-series.json](./243975-microsoft-combat-flight-simulator-wwii-europe-series.json) |
@@ -4836,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Tower | 348775 | [348775-monster-tower.json](./348775-monster-tower.json) |
 | Monster Trampoline | 113477 | [113477-monster-trampoline.json](./113477-monster-trampoline.json) |
 | Monster Trivia | 100119 | [100119-monster-trivia.json](./100119-monster-trivia.json) |
+| Monster Truck Drive | 96518 | [96518-monster-truck-drive.json](./96518-monster-truck-drive.json) |
 | Monster Truck Freestyle | 283279 | [283279-monster-truck-freestyle.json](./283279-monster-truck-freestyle.json) |
 | Monster Truck Madness | 146887 | [146887-monster-truck-madness.json](./146887-monster-truck-madness.json) |
 | Monster Truck Madness | 6513 | [6513-monster-truck-madness.json](./6513-monster-truck-madness.json) |
