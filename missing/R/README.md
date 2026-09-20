@@ -2442,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rilakkuma Nakayoshi Collection | 222506 | [222506-rilakkuma-nakayoshi-collection.json](./222506-rilakkuma-nakayoshi-collection.json) |
 | Riley Short: Analog Boy - Episode 1 | 37051 | [37051-riley-short-analog-boy-episode-1.json](./37051-riley-short-analog-boy-episode-1.json) |
 | Rilu Rilu Fairilu Kirakira: Hajimete no Fairilu Magic | 222537 | [222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json](./222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json) |
+| Rim Runners | 64661 | [64661-rim-runners.json](./64661-rim-runners.json) |
 | Rim: Battle Planets | 71747 | [71747-rim-battle-planets.json](./71747-rim-battle-planets.json) |
 | Rima: The Story Begins | 207859 | [207859-rima-the-story-begins.json](./207859-rima-the-story-begins.json) |
 | Rimal Game | 290535 | [290535-rimal-game.json](./290535-rimal-game.json) |
@@ -3261,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
 | Roll Ball Adventures | 188668 | [188668-roll-ball-adventures.json](./188668-roll-ball-adventures.json) |
 | Roll For Confidence | 171091 | [171091-roll-for-confidence.json](./171091-roll-for-confidence.json) |
+| Roll in the Hole | 64670 | [64670-roll-in-the-hole.json](./64670-roll-in-the-hole.json) |
 | Roll or Die | 382911 | [382911-roll-or-die.json](./382911-roll-or-die.json) |
 | Roll the Dark Heart | 251850 | [251850-roll-the-dark-heart.json](./251850-roll-the-dark-heart.json) |
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
@@ -3428,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronister Adventure | 164898 | [164898-ronister-adventure.json](./164898-ronister-adventure.json) |
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
 | Ronnie O'Sullivan's Snooker | 312350 | [312350-ronnie-osullivans-snooker.json](./312350-ronnie-osullivans-snooker.json) |
+| Ronnie O'Sullivan's Snooker | 64669 | [64669-ronnie-osullivans-snooker.json](./64669-ronnie-osullivans-snooker.json) |
 | Ronny's Climb | 291079 | [291079-ronnys-climb.json](./291079-ronnys-climb.json) |
 | Ronshade | 264639 | [264639-ronshade.json](./264639-ronshade.json) |
 | Ronza | 370781 | [370781-ronza.json](./370781-ronza.json) |
