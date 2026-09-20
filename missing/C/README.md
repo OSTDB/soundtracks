@@ -1645,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chacha Fighter V | 98258 | [98258-chacha-fighter-v.json](./98258-chacha-fighter-v.json) |
 | Chachacha Slot | 87296 | [87296-chachacha-slot.json](./87296-chachacha-slot.json) |
 | Chadboy | 241618 | [241618-chadboy.json](./241618-chadboy.json) |
+| Chagunitzu | 79586 | [79586-chagunitzu.json](./79586-chagunitzu.json) |
 | Chai | 236280 | [236280-chai.json](./236280-chai.json) |
 | Chai Glide | 414443 | [414443-chai-glide.json](./414443-chai-glide.json) |
 | Chain Break | 159355 | [159355-chain-break.json](./159355-chain-break.json) |
@@ -2204,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of the World | 256901 | [256901-children-of-the-world.json](./256901-children-of-the-world.json) |
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
 | Children's Jigsaw Puzzles: Beautifully Illustrated - Expansion Pack | 225859 | [225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json](./225859-childrens-jigsaw-puzzles-beautifully-illustrated-expansion-pack.json) |
+| Chill | 79608 | [79608-chill.json](./79608-chill.json) |
 | Chill Fishing | 337457 | [337457-chill-fishing.json](./337457-chill-fishing.json) |
 | Chill of Death's: Breath | 269280 | [269280-chill-of-deaths-breath.json](./269280-chill-of-deaths-breath.json) |
 | Chill Out | 413050 | [413050-chill-out.json](./413050-chill-out.json) |
@@ -4021,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Complex Sky | 144097 | [144097-complex-sky.json](./144097-complex-sky.json) |
 | Componut | 174195 | [174195-componut.json](./174195-componut.json) |
 | Compound Word Puzzles 2 | 359997 | [359997-compound-word-puzzles-2.json](./359997-compound-word-puzzles-2.json) |
+| Compromised | 79596 | [79596-compromised.json](./79596-compromised.json) |
 | Compu-Tron x3000 | 338291 | [338291-compu-tron-x3000.json](./338291-compu-tron-x3000.json) |
 | Compulsive | 250661 | [250661-compulsive.json](./250661-compulsive.json) |
 | Computer Baseball | 245531 | [245531-computer-baseball.json](./245531-computer-baseball.json) |
