@@ -3051,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetalArms | 122418 | [122418-metalarms.json](./122418-metalarms.json) |
 | MetälBörn | 209490 | [209490-metalborn.json](./209490-metalborn.json) |
 | Metallicars | 234319 | [234319-metallicars.json](./234319-metallicars.json) |
+| Metalocalypse: Dethgame | 68300 | [68300-metalocalypse-dethgame.json](./68300-metalocalypse-dethgame.json) |
 | Metaloids | 92837 | [92837-metaloids.json](./92837-metaloids.json) |
 | Metalstorm | 196031 | [196031-metalstorm.json](./196031-metalstorm.json) |
 | Metaltech: Battledrome | 73516 | [73516-metaltech-battledrome.json](./73516-metaltech-battledrome.json) |
@@ -3844,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mines & Dragons | 163994 | [163994-mines-and-dragons.json](./163994-mines-and-dragons.json) |
 | Mines of Moria | 248063 | [248063-mines-of-moria.json](./248063-mines-of-moria.json) |
 | Mines Of Moritania | 253446 | [253446-mines-of-moritania.json](./253446-mines-of-moritania.json) |
+| Mines of Titan | 68301 | [68301-mines-of-titan.json](./68301-mines-of-titan.json) |
 | Minescroller | 178612 | [178612-minescroller.json](./178612-minescroller.json) |
 | Mineshaft | 333023 | [333023-mineshaft.json](./333023-mineshaft.json) |
 | Minestrife | 158157 | [158157-minestrife.json](./158157-minestrife.json) |
@@ -4221,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Escape from Island 3 | 82473 | [82473-mission-escape-from-island-3.json](./82473-mission-escape-from-island-3.json) |
 | Mission: Humanity | 73325 | [73325-mission-humanity.json](./73325-mission-humanity.json) |
 | Mission: Impossible | 219019 | [219019-mission-impossible.json](./219019-mission-impossible.json) |
+| Mission: Impossible | 68337 | [68337-mission-impossible.json](./68337-mission-impossible.json) |
 | Mission: Impossible - New Dawn | 216344 | [216344-mission-impossible-new-dawn.json](./216344-mission-impossible-new-dawn.json) |
 | Mission: In Boxes | 150628 | [150628-mission-in-boxes.json](./150628-mission-in-boxes.json) |
 | Mission: Invasion Force | 70403 | [70403-mission-invasion-force.json](./70403-mission-invasion-force.json) |
@@ -5508,6 +5511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
 | MotoGP 24: Test Suits | 309662 | [309662-motogp-24-test-suits.json](./309662-motogp-24-test-suits.json) |
 | Motomancer: Auto Battle | 181939 | [181939-motomancer-auto-battle.json](./181939-motomancer-auto-battle.json) |
+| Motor Cycle | 68274 | [68274-motor-cycle.json](./68274-motor-cycle.json) |
 | Motor Duels: Outcast | 55841 | [55841-motor-duels-outcast.json](./55841-motor-duels-outcast.json) |
 | Motor Mayhem | 43305 | [43305-motor-mayhem.json](./43305-motor-mayhem.json) |
 | Motor Money Crash! | 185552 | [185552-motor-money-crash.json](./185552-motor-money-crash.json) |
@@ -6778,6 +6782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystik Belle | 36144 | [36144-mystik-belle.json](./36144-mystik-belle.json) |
 | Mystik Belle: Enchanted Edition | 187501 | [187501-mystik-belle-enchanted-edition.json](./187501-mystik-belle-enchanted-edition.json) |
 | Mystillion | 245910 | [245910-mystillion.json](./245910-mystillion.json) |
+| MyStylist | 68303 | [68303-mystylist.json](./68303-mystylist.json) |
 | Myth | 12186 | [12186-myth.json](./12186-myth.json) |
 | Myth | 252374 | [252374-myth.json](./252374-myth.json) |
 | Myth & Mirage | 310727 | [310727-myth-and-mirage.json](./310727-myth-and-mirage.json) |
