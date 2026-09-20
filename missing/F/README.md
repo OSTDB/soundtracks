@@ -3625,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Strategy Chess Game | 349862 | [349862-free-strategy-chess-game.json](./349862-free-strategy-chess-game.json) |
 | Free the Lazy Dogs | 258516 | [258516-free-the-lazy-dogs.json](./258516-free-the-lazy-dogs.json) |
 | Free Will | 291462 | [291462-free-will.json](./291462-free-will.json) |
+| Free Yourself - The Gravity Puzzle Game Starring YOU | 81789 | [81789-free-yourself-the-gravity-puzzle-game-starring-you.json](./81789-free-yourself-the-gravity-puzzle-game-starring-you.json) |
 | Free.ksPeak | 285999 | [285999-free-kspeak.json](./285999-free-kspeak.json) |
 | Freebie | 32400 | [32400-freebie.json](./32400-freebie.json) |
 | FreeCell | 383490 | [383490-freecell.json](./383490-freecell.json) |
