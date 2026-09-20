@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy in Turmoil | 19436 | [19436-galaxy-in-turmoil.json](./19436-galaxy-in-turmoil.json) |
 | Galaxy Invader 1000 | 47282 | [47282-galaxy-invader-1000.json](./47282-galaxy-invader-1000.json) |
 | Galaxy Life | 324894 | [324894-galaxy-life.json](./324894-galaxy-life.json) |
+| Galaxy Mirror Glaze Cake - Sweet Desserts Maker | 101347 | [101347-galaxy-mirror-glaze-cake-sweet-desserts-maker.json](./101347-galaxy-mirror-glaze-cake-sweet-desserts-maker.json) |
 | Galaxy of Arcade Classics | 206136 | [206136-galaxy-of-arcade-classics.json](./206136-galaxy-of-arcade-classics.json) |
 | Galaxy of Pen and Paper +1 Edition | 205270 | [205270-galaxy-of-pen-and-paper-1-edition.json](./205270-galaxy-of-pen-and-paper-1-edition.json) |
 | Galaxy on Fire 2 Full HD | 25471 | [25471-galaxy-on-fire-2-full-hd.json](./25471-galaxy-on-fire-2-full-hd.json) |
@@ -2073,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google Cricket | 230854 | [230854-google-cricket.json](./230854-google-cricket.json) |
 | Google Minesweeper | 184478 | [184478-google-minesweeper.json](./184478-google-minesweeper.json) |
 | Google Santa Tracker | 229336 | [229336-google-santa-tracker.json](./229336-google-santa-tracker.json) |
+| Google Spotlight Stories: Back to the Moon | 101384 | [101384-google-spotlight-stories-back-to-the-moon.json](./101384-google-spotlight-stories-back-to-the-moon.json) |
 | Google Spotlight Stories: On Ice | 103200 | [103200-google-spotlight-stories-on-ice.json](./103200-google-spotlight-stories-on-ice.json) |
 | Google Spotlight Stories: Pearl | 74401 | [74401-google-spotlight-stories-pearl.json](./74401-google-spotlight-stories-pearl.json) |
 | Google Spotlight Stories: Son of Jaguar | 75041 | [75041-google-spotlight-stories-son-of-jaguar.json](./75041-google-spotlight-stories-son-of-jaguar.json) |
