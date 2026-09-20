@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Swords | 113734 | [113734-tale-of-swords.json](./113734-tale-of-swords.json) |
 | Tale of Swords: Mystery Scroll | 83544 | [83544-tale-of-swords-mystery-scroll.json](./83544-tale-of-swords-mystery-scroll.json) |
 | Tale of the Bear and the Beech Tree | 398347 | [398347-tale-of-the-bear-and-the-beech-tree.json](./398347-tale-of-the-bear-and-the-beech-tree.json) |
+| Tale of the Fragmented Star: Single Fragment Version | 109477 | [109477-tale-of-the-fragmented-star-single-fragment-version.json](./109477-tale-of-the-fragmented-star-single-fragment-version.json) |
 | Tale of the Seas | 287744 | [287744-tale-of-the-seas.json](./287744-tale-of-the-seas.json) |
 | Tale of the Shadow World | 267681 | [267681-tale-of-the-shadow-world.json](./267681-tale-of-the-shadow-world.json) |
 | Tale of the Singing Peaks | 301846 | [301846-tale-of-the-singing-peaks.json](./301846-tale-of-the-singing-peaks.json) |
@@ -2277,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Captive | 362814 | [362814-the-captive.json](./362814-the-captive.json) |
 | The Captives: Plot of the Demiurge | 90137 | [90137-the-captives-plot-of-the-demiurge.json](./90137-the-captives-plot-of-the-demiurge.json) |
 | The Capybara P | 219049 | [219049-the-capybara-p.json](./219049-the-capybara-p.json) |
+| THE Card: Poker, Texas hold 'em, Blackjack and Page One | 109491 | [109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json](./109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json) |
 | The Carnival Of Company | 293632 | [293632-the-carnival-of-company.json](./293632-the-carnival-of-company.json) |
 | The Cartographer's Tale | 103509 | [103509-the-cartographers-tale.json](./103509-the-cartographers-tale.json) |
 | The Case Book of Arne | 139219 | [139219-the-case-book-of-arne.json](./139219-the-case-book-of-arne.json) |
@@ -10130,6 +10132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tug of Words | 198947 | [198947-tug-of-words.json](./198947-tug-of-words.json) |
 | Tui Shou: Sokoban | 372023 | [372023-tui-shou-sokoban.json](./372023-tui-shou-sokoban.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
+| Tuk Tuk Trials | 109502 | [109502-tuk-tuk-trials.json](./109502-tuk-tuk-trials.json) |
 | Tukiyono | 205668 | [205668-tukiyono.json](./205668-tukiyono.json) |
 | Tukoni: Forest Keepers | 141273 | [141273-tukoni-forest-keepers.json](./141273-tukoni-forest-keepers.json) |
 | TukTuk | 196240 | [196240-tuktuk.json](./196240-tuktuk.json) |
