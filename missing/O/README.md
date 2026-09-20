@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssey of the Explorer | 302108 | [302108-odyssey-of-the-explorer.json](./302108-odyssey-of-the-explorer.json) |
 | Odyssey: Altar of Norax | 191159 | [191159-odyssey-altar-of-norax.json](./191159-odyssey-altar-of-norax.json) |
 | Odyssey: Realm of Echoes | 341499 | [341499-odyssey-realm-of-echoes.json](./341499-odyssey-realm-of-echoes.json) |
+| Oedipus Dating Sim | 89660 | [89660-oedipus-dating-sim.json](./89660-oedipus-dating-sim.json) |
 | Oedipus In My Inventory | 124597 | [124597-oedipus-in-my-inventory.json](./124597-oedipus-in-my-inventory.json) |
 | Oedo Developer | 369089 | [369089-oedo-developer.json](./369089-oedo-developer.json) |
 | Oedo Trigger VR!! | 263229 | [263229-oedo-trigger-vr.json](./263229-oedo-trigger-vr.json) |
