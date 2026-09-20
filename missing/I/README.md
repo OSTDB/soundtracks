@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Have No Nose and I Must Climb | 244345 | [244345-i-have-no-nose-and-i-must-climb.json](./244345-i-have-no-nose-and-i-must-climb.json) |
 | I Hear Them | 398454 | [398454-i-hear-them.json](./398454-i-hear-them.json) |
 | I heard a dog barking | 177522 | [177522-i-heard-a-dog-barking.json](./177522-i-heard-a-dog-barking.json) |
+| I Heart Shift | 67672 | [67672-i-heart-shift.json](./67672-i-heart-shift.json) |
 | I hope she's ok | 142893 | [142893-i-hope-shes-ok.json](./142893-i-hope-shes-ok.json) |
 | I Human Machine | 195222 | [195222-i-human-machine.json](./195222-i-human-machine.json) |
 | I Hurt Myself | 198455 | [198455-i-hurt-myself.json](./198455-i-hurt-myself.json) |
