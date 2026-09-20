@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waddle Paddle | 365718 | [365718-waddle-paddle.json](./365718-waddle-paddle.json) |
 | Waffle Spin Ball | 360671 | [360671-waffle-spin-ball.json](./360671-waffle-spin-ball.json) |
 | Wag | 312562 | [312562-wag.json](./312562-wag.json) |
+| Wag Royale | 124613 | [124613-wag-royale.json](./124613-wag-royale.json) |
 | Waga Seishun no Arcadia | 385731 | [385731-waga-seishun-no-arcadia.json](./385731-waga-seishun-no-arcadia.json) |
 | Wages of War: The Business of Battle | 70982 | [70982-wages-of-war-the-business-of-battle.json](./70982-wages-of-war-the-business-of-battle.json) |
 | WaggaSim | 312563 | [312563-waggasim.json](./312563-waggasim.json) |
