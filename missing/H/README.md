@@ -2512,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinterhalt 2 | 110361 | [110361-hinterhalt-2.json](./110361-hinterhalt-2.json) |
 | Hinterhalt 3 | 132211 | [132211-hinterhalt-3.json](./132211-hinterhalt-3.json) |
 | Hinterland: Orc Lords | 24996 | [24996-hinterland-orc-lords.json](./24996-hinterland-orc-lords.json) |
+| Hints Hunter | 85171 | [85171-hints-hunter.json](./85171-hints-hunter.json) |
 | Hiouden | 38384 | [38384-hiouden.json](./38384-hiouden.json) |
 | Hiouden: Mamono-tachi to no Chikai | 60499 | [60499-hiouden-mamono-tachi-to-no-chikai.json](./60499-hiouden-mamono-tachi-to-no-chikai.json) |
 | Hip Hop King: Rytmik Edition | 65460 | [65460-hip-hop-king-rytmik-edition.json](./65460-hip-hop-king-rytmik-edition.json) |
@@ -2576,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Him | 195254 | [195254-hit-him.json](./195254-hit-him.json) |
 | Hit Hit Alaska | 326607 | [326607-hit-hit-alaska.json](./326607-hit-hit-alaska.json) |
 | Hit n' Bit | 319010 | [319010-hit-n-bit.json](./319010-hit-n-bit.json) |
+| Hit Ninja | 85183 | [85183-hit-ninja.json](./85183-hit-ninja.json) |
 | Hit Single | 299720 | [299720-hit-single.json](./299720-hit-single.json) |
 | Hit Tank PRO | 57129 | [57129-hit-tank-pro.json](./57129-hit-tank-pro.json) |
 | Hit The Beat | 305164 | [305164-hit-the-beat.json](./305164-hit-the-beat.json) |
@@ -2611,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitme 2 | 225273 | [225273-hitme-2.json](./225273-hitme-2.json) |
 | Hitokata | 337114 | [337114-hitokata.json](./337114-hitokata.json) |
 | Hitori | 334771 | [334771-hitori.json](./334771-hitori.json) |
+| Hitori by Nikoli | 85184 | [85184-hitori-by-nikoli.json](./85184-hitori-by-nikoli.json) |
 | Hitori Kakurenbo | 150131 | [150131-hitori-kakurenbo.json](./150131-hitori-kakurenbo.json) |
 | Hitori Kakurenbo Online | 187450 | [187450-hitori-kakurenbo-online.json](./187450-hitori-kakurenbo-online.json) |
 | Hitotsu Tobashi Renai V | 217545 | [217545-hitotsu-tobashi-renai-v.json](./217545-hitotsu-tobashi-renai-v.json) |
@@ -2677,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobs | 121630 | [121630-hobs.json](./121630-hobs.json) |
 | Hockey | 175898 | [175898-hockey.json](./175898-hockey.json) |
 | Hockey Agent | 244802 | [244802-hockey-agent.json](./244802-hockey-agent.json) |
+| Hockey Allstar Shootout | 85182 | [85182-hockey-allstar-shootout.json](./85182-hockey-allstar-shootout.json) |
 | Hockey Blitz | 244800 | [244800-hockey-blitz.json](./244800-hockey-blitz.json) |
 | Hockey Fight Pro | 102579 | [102579-hockey-fight-pro.json](./102579-hockey-fight-pro.json) |
 | Hockey Fights | 93559 | [93559-hockey-fights.json](./93559-hockey-fights.json) |
@@ -3235,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Racing Manager 2020 | 233117 | [233117-horse-racing-manager-2020.json](./233117-horse-racing-manager-2020.json) |
 | Horse Tales: Emerald Valley Ranch | 206679 | [206679-horse-tales-emerald-valley-ranch.json](./206679-horse-tales-emerald-valley-ranch.json) |
 | Horse Tales: Emerald Valley Ranch - Deluxe | 283268 | [283268-horse-tales-emerald-valley-ranch-deluxe.json](./283268-horse-tales-emerald-valley-ranch-deluxe.json) |
+| Horse Vet 3D | 85181 | [85181-horse-vet-3d.json](./85181-horse-vet-3d.json) |
 | Horses of Hoofprint Bay | 376483 | [376483-horses-of-hoofprint-bay.json](./376483-horses-of-hoofprint-bay.json) |
 | Horses.io: Horse Herd Racing | 269010 | [269010-horses-io-horse-herd-racing.json](./269010-horses-io-horse-herd-racing.json) |
 | Horticular: Complete Edition | 395680 | [395680-horticular-complete-edition.json](./395680-horticular-complete-edition.json) |
@@ -3254,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshizora Testudou to Shiro no Tabi | 147405 | [147405-hoshizora-testudou-to-shiro-no-tabi.json](./147405-hoshizora-testudou-to-shiro-no-tabi.json) |
 | Hospice | 55161 | [55161-hospice.json](./55161-hospice.json) |
 | Hospital 9: Puzzles | 163417 | [163417-hospital-9-puzzles.json](./163417-hospital-9-puzzles.json) |
+| Hospital Havoc | 85179 | [85179-hospital-havoc.json](./85179-hospital-havoc.json) |
 | Host | 104007 | [104007-host.json](./104007-host.json) |
 | Host 714 | 153440 | [153440-host-714.json](./153440-host-714.json) |
 | Host Master and the Conquest of Humor | 62186 | [62186-host-master-and-the-conquest-of-humor.json](./62186-host-master-and-the-conquest-of-humor.json) |
@@ -3305,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Pot For One | 139811 | [139811-hot-pot-for-one.json](./139811-hot-pot-for-one.json) |
 | Hot Racing | 246461 | [246461-hot-racing.json](./246461-hot-racing.json) |
 | Hot Rider Racing Simulator | 290428 | [290428-hot-rider-racing-simulator.json](./290428-hot-rider-racing-simulator.json) |
+| Hot Rod Racer | 85180 | [85180-hot-rod-racer.json](./85180-hot-rod-racer.json) |
 | Hot Runback: VR Runner | 68656 | [68656-hot-runback-vr-runner.json](./68656-hot-runback-vr-runner.json) |
 | Hot Shot | 317877 | [317877-hot-shot.json](./317877-hot-shot.json) |
 | Hot Shot Burn | 121036 | [121036-hot-shot-burn.json](./121036-hot-shot-burn.json) |
@@ -3430,6 +3437,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper: Pets | 171462 | [171462-house-flipper-pets.json](./171462-house-flipper-pets.json) |
 | House in the village by the river v2.0 | 173813 | [173813-house-in-the-village-by-the-river-v2-0.json](./173813-house-in-the-village-by-the-river-v2-0.json) |
 | House M.D. Episode 5: Under the Big Top | 65508 | [65508-house-m-d-episode-5-under-the-big-top.json](./65508-house-m-d-episode-5-under-the-big-top.json) |
+| House M.D.: Episode 1 - Globetrotting | 85178 | [85178-house-m-d-episode-1-globetrotting.json](./85178-house-m-d-episode-1-globetrotting.json) |
+| House M.D.: Episode 2 - Blue Meanie | 85177 | [85177-house-m-d-episode-2-blue-meanie.json](./85177-house-m-d-episode-2-blue-meanie.json) |
+| House M.D.: Episode 3 - Skull and Bones | 85176 | [85176-house-m-d-episode-3-skull-and-bones.json](./85176-house-m-d-episode-3-skull-and-bones.json) |
+| House M.D.: Episode 4 - Crashed | 85175 | [85175-house-m-d-episode-4-crashed.json](./85175-house-m-d-episode-4-crashed.json) |
 | House Maid Asuka | 97368 | [97368-house-maid-asuka.json](./97368-house-maid-asuka.json) |
 | House of 1000 Doors: Evil Inside - Collector's Edition | 273946 | [273946-house-of-1000-doors-evil-inside-collectors-edition.json](./273946-house-of-1000-doors-evil-inside-collectors-edition.json) |
 | House of 1000 Doors: Family Secrets | 36371 | [36371-house-of-1000-doors-family-secrets.json](./36371-house-of-1000-doors-family-secrets.json) |
@@ -3606,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HSNU Academy 79th Anniversary | 396207 | [396207-hsnu-academy-79th-anniversary.json](./396207-hsnu-academy-79th-anniversary.json) |
 | HSX: Hypersonic Xtreme | 43656 | [43656-hsx-hypersonic-xtreme.json](./43656-hsx-hypersonic-xtreme.json) |
 | htoL#NiQ: The Firefly Diary - Limited Edition | 89918 | [89918-htol-niq-the-firefly-diary-limited-edition.json](./89918-htol-niq-the-firefly-diary-limited-edition.json) |
+| HTR High Tech Racing | 85174 | [85174-htr-high-tech-racing.json](./85174-htr-high-tech-racing.json) |
 | Hua-Z | 397788 | [397788-hua-z.json](./397788-hua-z.json) |
 | Huāngdǎo Qiúshēng | 123555 | [123555-huangdao-qiusheng.json](./123555-huangdao-qiusheng.json) |
 | Huànrèn Lù | 158155 | [158155-huanren-lu.json](./158155-huanren-lu.json) |
@@ -3650,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugungui Beopchik | 212858 | [212858-hugungui-beopchik.json](./212858-hugungui-beopchik.json) |
 | Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
 | Huli the Mage | 111466 | [111466-huli-the-mage.json](./111466-huli-the-mage.json) |
+| HullBreach: Uncloaked | 85173 | [85173-hullbreach-uncloaked.json](./85173-hullbreach-uncloaked.json) |
 | Hullbreaker | 329157 | [329157-hullbreaker.json](./329157-hullbreaker.json) |
 | Hullbreakers | 240792 | [240792-hullbreakers.json](./240792-hullbreakers.json) |
 | Hulu Has Live Sports '20: The Video Game | 125457 | [125457-hulu-has-live-sports-20-the-video-game.json](./125457-hulu-has-live-sports-20-the-video-game.json) |
@@ -3676,6 +3689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human.exe | 391074 | [391074-human-exe.json](./391074-human-exe.json) |
 | Human's Red Destiny | 410266 | [410266-humans-red-destiny.json](./410266-humans-red-destiny.json) |
 | HumanBloodSandwich | 389406 | [389406-humanbloodsandwich.json](./389406-humanbloodsandwich.json) |
+| Humanitarian Helicopter | 85172 | [85172-humanitarian-helicopter.json](./85172-humanitarian-helicopter.json) |
 | Humanitas | 117001 | [117001-humanitas.json](./117001-humanitas.json) |
 | Humanity Is Dead | 181302 | [181302-humanity-is-dead.json](./181302-humanity-is-dead.json) |
 | Humanity Lost | 229047 | [229047-humanity-lost.json](./229047-humanity-lost.json) |
