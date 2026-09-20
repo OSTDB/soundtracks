@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra 64 Mario Bros. | 294715 | [294715-ultra-64-mario-bros.json](./294715-ultra-64-mario-bros.json) |
 | Ultra ADHD | 131407 | [131407-ultra-adhd.json](./131407-ultra-adhd.json) |
 | Ultra Age: Rebirth Project | 224203 | [224203-ultra-age-rebirth-project.json](./224203-ultra-age-rebirth-project.json) |
+| Ultra Assault | 94564 | [94564-ultra-assault.json](./94564-ultra-assault.json) |
 | Ultra Baseball Jitsumei-ban 3 | 37775 | [37775-ultra-baseball-jitsumei-ban-3.json](./37775-ultra-baseball-jitsumei-ban-3.json) |
 | Ultra Boat Game!!! | 154379 | [154379-ultra-boat-game.json](./154379-ultra-boat-game.json) |
 | Ultra Bonk Survivors | 378181 | [378181-ultra-bonk-survivors.json](./378181-ultra-bonk-survivors.json) |
