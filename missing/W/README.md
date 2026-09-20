@@ -1431,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Sky | 151583 | [151583-white-sky.json](./151583-white-sky.json) |
 | White Space | 60500 | [60500-white-space.json](./60500-white-space.json) |
 | White Tiles Master | 233743 | [233743-white-tiles-master.json](./233743-white-tiles-master.json) |
+| White Tiles: Widescreen | 91149 | [91149-white-tiles-widescreen.json](./91149-white-tiles-widescreen.json) |
 | White Trip | 174735 | [174735-white-trip.json](./174735-white-trip.json) |
 | White Viper | 47239 | [47239-white-viper.json](./47239-white-viper.json) |
 | White Wall | 149582 | [149582-white-wall.json](./149582-white-wall.json) |
@@ -2287,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Bomb | 365087 | [365087-word-bomb.json](./365087-word-bomb.json) |
 | Word Bound - Word Game Puzzles | 105869 | [105869-word-bound-word-game-puzzles.json](./105869-word-bound-word-game-puzzles.json) |
 | Word Chaos | 217984 | [217984-word-chaos.json](./217984-word-chaos.json) |
+| Word Chums | 91135 | [91135-word-chums.json](./91135-word-chums.json) |
 | Word Club: Word Puzzle Game | 106358 | [106358-word-club-word-puzzle-game.json](./106358-word-club-word-puzzle-game.json) |
 | Word Connect 2 | 105965 | [105965-word-connect-2.json](./105965-word-connect-2.json) |
 | Word Connect HD | 96069 | [96069-word-connect-hd.json](./96069-word-connect-hd.json) |
