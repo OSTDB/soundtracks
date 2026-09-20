@@ -1713,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 17 Sirius | 66644 | [66644-beatmania-iidx-17-sirius.json](./66644-beatmania-iidx-17-sirius.json) |
 | Beatmania IIDX 20 Tricoro | 61664 | [61664-beatmania-iidx-20-tricoro.json](./61664-beatmania-iidx-20-tricoro.json) |
 | Beatmania IIDX 26 Rootage | 112148 | [112148-beatmania-iidx-26-rootage.json](./112148-beatmania-iidx-26-rootage.json) |
+| Beatmania IIDX 2nd style | 94021 | [94021-beatmania-iidx-2nd-style.json](./94021-beatmania-iidx-2nd-style.json) |
 | Beatmania IIDX 31 Epolis | 258714 | [258714-beatmania-iidx-31-epolis.json](./258714-beatmania-iidx-31-epolis.json) |
 | Beatmania IIDX 32 Pinky Crush | 310590 | [310590-beatmania-iidx-32-pinky-crush.json](./310590-beatmania-iidx-32-pinky-crush.json) |
 | Beatmania IIDX 33 Sparkle Shower | 367970 | [367970-beatmania-iidx-33-sparkle-shower.json](./367970-beatmania-iidx-33-sparkle-shower.json) |
@@ -3630,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob & Dob | 177570 | [177570-bob-and-dob.json](./177570-bob-and-dob.json) |
 | Bob and the Alien Fire Flies | 304224 | [304224-bob-and-the-alien-fire-flies.json](./304224-bob-and-the-alien-fire-flies.json) |
 | Bob Does Not Care | 181903 | [181903-bob-does-not-care.json](./181903-bob-does-not-care.json) |
+| Bob et Bobette: Les Dompteurs du Temps | 93967 | [93967-bob-et-bobette-les-dompteurs-du-temps.json](./93967-bob-et-bobette-les-dompteurs-du-temps.json) |
 | Bob Invasion | 294693 | [294693-bob-invasion.json](./294693-bob-invasion.json) |
 | Bob Morane: Chevalerie 1 | 55094 | [55094-bob-morane-chevalerie-1.json](./55094-bob-morane-chevalerie-1.json) |
 | Bob Morane: Jungle 1 | 55095 | [55095-bob-morane-jungle-1.json](./55095-bob-morane-jungle-1.json) |
