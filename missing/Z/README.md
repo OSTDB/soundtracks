@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenforms: Protectors | 96043 | [96043-zenforms-protectors.json](./96043-zenforms-protectors.json) |
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
 | Zengoku Juudan Ultra Shinri Game | 37745 | [37745-zengoku-juudan-ultra-shinri-game.json](./37745-zengoku-juudan-ultra-shinri-game.json) |
+| Zengrams | 68948 | [68948-zengrams.json](./68948-zengrams.json) |
 | Zenith | 377137 | [377137-zenith.json](./377137-zenith.json) |
 | Zenith Heroes | 306371 | [306371-zenith-heroes.json](./306371-zenith-heroes.json) |
 | Zenith Hunter | 107816 | [107816-zenith-hunter.json](./107816-zenith-hunter.json) |
