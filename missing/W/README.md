@@ -2139,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderful mini golf | 175301 | [175301-wonderful-mini-golf.json](./175301-wonderful-mini-golf.json) |
 | Wonderful Waking World | 203873 | [203873-wonderful-waking-world.json](./203873-wonderful-waking-world.json) |
 | Wonderful Wizard Reverie | 415892 | [415892-wonderful-wizard-reverie.json](./415892-wonderful-wizard-reverie.json) |
+| Wonderglade | 123424 | [123424-wonderglade.json](./123424-wonderglade.json) |
 | Wonderia | 285979 | [285979-wonderia.json](./285979-wonderia.json) |
 | Wonderland | 377143 | [377143-wonderland.json](./377143-wonderland.json) |
 | Wonderland | 95460 | [95460-wonderland.json](./95460-wonderland.json) |
