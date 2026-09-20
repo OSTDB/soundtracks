@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
 | 1Second | 363873 | [363873-1second.json](./363873-1second.json) |
 | 1st Core | 103444 | [103444-1st-core.json](./103444-1st-core.json) |
+| 1st Grade | 91743 | [91743-1st-grade.json](./91743-1st-grade.json) |
 | 1st Homizio | 378278 | [378278-1st-homizio.json](./378278-1st-homizio.json) |
 | 1st Kochobo Dourado | 215199 | [215199-1st-kochobo-dourado.json](./215199-1st-kochobo-dourado.json) |
 | 1x! Space Adventure | 169847 | [169847-1x-space-adventure.json](./169847-1x-space-adventure.json) |
@@ -435,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2351: Apocalypsis | 304667 | [304667-2351-apocalypsis.json](./304667-2351-apocalypsis.json) |
 | 24 Lustful Hours | 382296 | [382296-24-lustful-hours.json](./382296-24-lustful-hours.json) |
 | 24 Solar Terms | 158663 | [158663-24-solar-terms.json](./158663-24-solar-terms.json) |
+| 24: Special Ops | 91747 | [91747-24-special-ops.json](./91747-24-special-ops.json) |
 | 24H Stories: The Blackout | 276706 | [276706-24h-stories-the-blackout.json](./276706-24h-stories-the-blackout.json) |
 | 24H Stories: The Cabin In The Forest | 308942 | [308942-24h-stories-the-cabin-in-the-forest.json](./308942-24h-stories-the-cabin-in-the-forest.json) |
 | 25,000 Sudoku Puzzles | 125838 | [125838-25-000-sudoku-puzzles.json](./125838-25-000-sudoku-puzzles.json) |
