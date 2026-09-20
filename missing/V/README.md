@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Resort: Spring Break | 205978 | [205978-virtual-resort-spring-break.json](./205978-virtual-resort-spring-break.json) |
 | Virtual Rides 3: Northstar | 273396 | [273396-virtual-rides-3-northstar.json](./273396-virtual-rides-3-northstar.json) |
 | Virtual Sailor NG | 220717 | [220717-virtual-sailor-ng.json](./220717-virtual-sailor-ng.json) |
+| Virtual Silence | 94014 | [94014-virtual-silence.json](./94014-virtual-silence.json) |
 | Virtual Skydiving | 116866 | [116866-virtual-skydiving.json](./116866-virtual-skydiving.json) |
 | Virtual Soccer | 46005 | [46005-virtual-soccer.json](./46005-virtual-soccer.json) |
 | Virtual Succubus | 194447 | [194447-virtual-succubus.json](./194447-virtual-succubus.json) |
@@ -1137,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voron: Raven's Story | 235968 | [235968-voron-ravens-story.json](./235968-voron-ravens-story.json) |
 | Vortex | 81436 | [81436-vortex.json](./81436-vortex.json) |
 | Vortex Attack EX | 124235 | [124235-vortex-attack-ex.json](./124235-vortex-attack-ex.json) |
+| Vortex of Hostility | 93998 | [93998-vortex-of-hostility.json](./93998-vortex-of-hostility.json) |
 | Vortex Rolling | 152743 | [152743-vortex-rolling.json](./152743-vortex-rolling.json) |
 | Vortex: The Gateway | 34348 | [34348-vortex-the-gateway.json](./34348-vortex-the-gateway.json) |
 | Vortle | 186286 | [186286-vortle.json](./186286-vortle.json) |
