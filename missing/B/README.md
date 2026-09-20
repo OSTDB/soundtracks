@@ -1732,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatLine | 260773 | [260773-beatline.json](./260773-beatline.json) |
 | Beatmania 2ndMix | 94746 | [94746-beatmania-2ndmix.json](./94746-beatmania-2ndmix.json) |
 | Beatmania 3rdMix | 94745 | [94745-beatmania-3rdmix.json](./94745-beatmania-3rdmix.json) |
+| Beatmania 4thMix: The Beat Goes On | 70632 | [70632-beatmania-4thmix-the-beat-goes-on.json](./70632-beatmania-4thmix-the-beat-goes-on.json) |
 | Beatmania 6thMix: The UK Underground Music | 79612 | [79612-beatmania-6thmix-the-uk-underground-music.json](./79612-beatmania-6thmix-the-uk-underground-music.json) |
 | Beatmania 7thMix: Keepin' Evolution | 94743 | [94743-beatmania-7thmix-keepin-evolution.json](./94743-beatmania-7thmix-keepin-evolution.json) |
 | Beatmania Append 5thMix: Time to Get Down | 70994 | [70994-beatmania-append-5thmix-time-to-get-down.json](./70994-beatmania-append-5thmix-time-to-get-down.json) |
@@ -2238,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bhop PRO | 144294 | [144294-bhop-pro.json](./144294-bhop-pro.json) |
 | Bi-Color | 176381 | [176381-bi-color.json](./176381-bi-color.json) |
 | Bi! Bi! | 40742 | [40742-bi-bi.json](./40742-bi-bi.json) |
+| Biathlon 2008 | 70651 | [70651-biathlon-2008.json](./70651-biathlon-2008.json) |
 | Bibi & Tina: Das große Unwetter | 216453 | [216453-bibi-and-tina-das-gro-e-unwetter.json](./216453-bibi-and-tina-das-gro-e-unwetter.json) |
 | Bibi & Tina: Jump & Ride | 148356 | [148356-bibi-and-tina-jump-and-ride.json](./148356-bibi-and-tina-jump-and-ride.json) |
 | Bibi & Tina: Mikoschs großer Auftritt | 151206 | [151206-bibi-and-tina-mikoschs-gro-er-auftritt.json](./151206-bibi-and-tina-mikoschs-gro-er-auftritt.json) |
