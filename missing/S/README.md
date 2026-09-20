@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scourge of War: Waterloo - Ligny | 171038 | [171038-scourge-of-war-waterloo-ligny.json](./171038-scourge-of-war-waterloo-ligny.json) |
 | Scourge of War: Waterloo - Quatre Bras | 171039 | [171039-scourge-of-war-waterloo-quatre-bras.json](./171039-scourge-of-war-waterloo-quatre-bras.json) |
 | Scourge of War: Waterloo - Wavre | 171040 | [171040-scourge-of-war-waterloo-wavre.json](./171040-scourge-of-war-waterloo-wavre.json) |
+| Scourge of Worlds | 107628 | [107628-scourge-of-worlds.json](./107628-scourge-of-worlds.json) |
 | Scourge Outbreak: Blindside | 167710 | [167710-scourge-outbreak-blindside.json](./167710-scourge-outbreak-blindside.json) |
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
 | Scouts Out | 413034 | [413034-scouts-out.json](./413034-scouts-out.json) |
@@ -6610,6 +6611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway Blast | 23868 | [23868-speedway-blast.json](./23868-speedway-blast.json) |
 | Speedway Challenge 2022 | 203562 | [203562-speedway-challenge-2022.json](./203562-speedway-challenge-2022.json) |
 | Speedway Challenge 2024 | 292550 | [292550-speedway-challenge-2024.json](./292550-speedway-challenge-2024.json) |
+| Speedway Challenge Career | 107685 | [107685-speedway-challenge-career.json](./107685-speedway-challenge-career.json) |
 | Speedway League | 54382 | [54382-speedway-league.json](./54382-speedway-league.json) |
 | Speedway Ringer | 238627 | [238627-speedway-ringer.json](./238627-speedway-ringer.json) |
 | Speedway/Tag | 92529 | [92529-speedway-tag.json](./92529-speedway-tag.json) |
@@ -8172,6 +8174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamGear Mash | 91943 | [91943-steamgear-mash.json](./91943-steamgear-mash.json) |
 | SteamHammerVR | 31589 | [31589-steamhammervr.json](./31589-steamhammervr.json) |
 | SteamHammerVR - The Rogue Apprentice | 55903 | [55903-steamhammervr-the-rogue-apprentice.json](./55903-steamhammervr-the-rogue-apprentice.json) |
+| Steamhounds | 107636 | [107636-steamhounds.json](./107636-steamhounds.json) |
 | Steaming Penguins | 200046 | [200046-steaming-penguins.json](./200046-steaming-penguins.json) |
 | Steamlands | 216317 | [216317-steamlands.json](./216317-steamlands.json) |
 | Steamle | 353897 | [353897-steamle.json](./353897-steamle.json) |
