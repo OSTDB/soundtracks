@@ -1799,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Journey | 368005 | [368005-heros-journey.json](./368005-heros-journey.json) |
 | Hero's Quest: Automatic Roguelite RPG | 199663 | [199663-heros-quest-automatic-roguelite-rpg.json](./199663-heros-quest-automatic-roguelite-rpg.json) |
 | Hero's Quest: Lost Memories | 251836 | [251836-heros-quest-lost-memories.json](./251836-heros-quest-lost-memories.json) |
+| Hero's Realm | 122883 | [122883-heros-realm.json](./122883-heros-realm.json) |
 | Hero's Song | 25870 | [25870-heros-song.json](./25870-heros-song.json) |
 | Hero's War | 224214 | [224214-heros-war.json](./224214-heros-war.json) |
 | HeroBattle | 369647 | [369647-herobattle.json](./369647-herobattle.json) |
@@ -2619,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hogvalord: The Ranch | 236389 | [236389-hogvalord-the-ranch.json](./236389-hogvalord-the-ranch.json) |
 | Hogwash | 125386 | [125386-hogwash.json](./125386-hogwash.json) |
 | Hohokum | 10088 | [10088-hohokum.json](./10088-hohokum.json) |
+| Hoisan's Random Game | 122857 | [122857-hoisans-random-game.json](./122857-hoisans-random-game.json) |
 | Hoist Sail for the Heliopause and Home | 7847 | [7847-hoist-sail-for-the-heliopause-and-home.json](./7847-hoist-sail-for-the-heliopause-and-home.json) |
 | Hokkaido Hatsu!! Dosanko Wide ga DS ni Narimashita! Hoshizawa Sachiko no Temanashi Raku Raku Gohan | 269584 | [269584-hokkaido-hatsu-dosanko-wide-ga-ds-ni-narimashita-hoshizawa-sachiko-no-temanashi-raku-raku-gohan.json](./269584-hokkaido-hatsu-dosanko-wide-ga-ds-ni-narimashita-hoshizawa-sachiko-no-temanashi-raku-raku-gohan.json) |
 | Hokkaido Rensa Satsujin: Okhotsk ni Kiyu | 206134 | [206134-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json](./206134-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json) |
@@ -3666,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter x Hunter: Nen x Impact - Additional Character 2 Phinks | 375152 | [375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json](./375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 3 Shizuku | 375153 | [375153-hunter-x-hunter-nen-x-impact-additional-character-3-shizuku.json](./375153-hunter-x-hunter-nen-x-impact-additional-character-3-shizuku.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 4 Zeno | 375154 | [375154-hunter-x-hunter-nen-x-impact-additional-character-4-zeno.json](./375154-hunter-x-hunter-nen-x-impact-additional-character-4-zeno.json) |
+| Hunter x Hunter: World Hunt | 122886 | [122886-hunter-x-hunter-world-hunt.json](./122886-hunter-x-hunter-world-hunt.json) |
 | Hunter X: Begin | 171067 | [171067-hunter-x-begin.json](./171067-hunter-x-begin.json) |
 | Hunter: Avendzer Dragon | 145646 | [145646-hunter-avendzer-dragon.json](./145646-hunter-avendzer-dragon.json) |
 | Hunter: The Reckoning - Day for Night | 408918 | [408918-hunter-the-reckoning-day-for-night.json](./408918-hunter-the-reckoning-day-for-night.json) |
