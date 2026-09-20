@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymare Town 4 | 62702 | [62702-daymare-town-4.json](./62702-daymare-town-4.json) |
 | Days After | 169990 | [169990-days-after.json](./169990-days-after.json) |
 | Days Gone By | 127102 | [127102-days-gone-by.json](./127102-days-gone-by.json) |
+| Days Gone: Special Edition | 117508 | [117508-days-gone-special-edition.json](./117508-days-gone-special-edition.json) |
 | Days Like A Nightmare | 285451 | [285451-days-like-a-nightmare.json](./285451-days-like-a-nightmare.json) |
 | Days Of My Life | 270190 | [270190-days-of-my-life.json](./270190-days-of-my-life.json) |
 | Days of Oblivion | 69805 | [69805-days-of-oblivion.json](./69805-days-of-oblivion.json) |
@@ -2516,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die 3 | 269641 | [269641-die-3.json](./269641-die-3.json) |
 | Die Alien Slime | 13593 | [13593-die-alien-slime.json](./13593-die-alien-slime.json) |
 | Die Bahnwelt | 82035 | [82035-die-bahnwelt.json](./82035-die-bahnwelt.json) |
+| Die Bloody Nazi Die! | 117543 | [117543-die-bloody-nazi-die.json](./117543-die-bloody-nazi-die.json) |
 | Die CD-ROM mit der Maus 1 | 250609 | [250609-die-cd-rom-mit-der-maus-1.json](./250609-die-cd-rom-mit-der-maus-1.json) |
 | Die CD-ROM mit der Maus 2 | 250610 | [250610-die-cd-rom-mit-der-maus-2.json](./250610-die-cd-rom-mit-der-maus-2.json) |
 | Die CD-ROM mit der Maus 3 | 250611 | [250611-die-cd-rom-mit-der-maus-3.json](./250611-die-cd-rom-mit-der-maus-3.json) |
