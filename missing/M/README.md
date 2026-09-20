@@ -4739,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster High Skulltimate Secrets | 314521 | [314521-monster-high-skulltimate-secrets.json](./314521-monster-high-skulltimate-secrets.json) |
 | Monster High: Beauty Shop | 89146 | [89146-monster-high-beauty-shop.json](./89146-monster-high-beauty-shop.json) |
 | Monster High: New Ghoul in School | 19318 | [19318-monster-high-new-ghoul-in-school.json](./19318-monster-high-new-ghoul-in-school.json) |
+| Monster Hospital - Kids Game | 90368 | [90368-monster-hospital-kids-game.json](./90368-monster-hospital-kids-game.json) |
 | Monster House | 112156 | [112156-monster-house.json](./112156-monster-house.json) |
 | Monster Hunt | 79235 | [79235-monster-hunt.json](./79235-monster-hunt.json) |
 | Monster Hunter 2 | 43668 | [43668-monster-hunter-2.json](./43668-monster-hunter-2.json) |
@@ -6265,6 +6266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Grand Puzzleventure | 220097 | [220097-my-little-pony-grand-puzzleventure.json](./220097-my-little-pony-grand-puzzleventure.json) |
 | My Little Pony: Magic Garden | 282122 | [282122-my-little-pony-magic-garden.json](./282122-my-little-pony-magic-garden.json) |
 | My Little Prince: A Jigsaw Puzzle Tale | 159852 | [159852-my-little-prince-a-jigsaw-puzzle-tale.json](./159852-my-little-prince-a-jigsaw-puzzle-tale.json) |
+| My Little Princess | 90367 | [90367-my-little-princess.json](./90367-my-little-princess.json) |
 | My Little Princess : Castle | 86878 | [86878-my-little-princess-castle.json](./86878-my-little-princess-castle.json) |
 | My Little Puppy | 335660 | [335660-my-little-puppy.json](./335660-my-little-puppy.json) |
 | My Little Ramenbar | 175815 | [175815-my-little-ramenbar.json](./175815-my-little-ramenbar.json) |
