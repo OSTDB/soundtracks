@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeper's Toll | 216882 | [216882-keepers-toll.json](./216882-keepers-toll.json) |
 | Keepers | 257385 | [257385-keepers.json](./257385-keepers.json) |
 | Keepers 1477 | 306062 | [306062-keepers-1477.json](./306062-keepers-1477.json) |
+| Keepers Dungeon | 116811 | [116811-keepers-dungeon.json](./116811-keepers-dungeon.json) |
 | Keepers of Ancient Lands | 295892 | [295892-keepers-of-ancient-lands.json](./295892-keepers-of-ancient-lands.json) |
 | Keepers of the Forest | 228085 | [228085-keepers-of-the-forest.json](./228085-keepers-of-the-forest.json) |
 | Keepers of the Keep | 346693 | [346693-keepers-of-the-keep.json](./346693-keepers-of-the-keep.json) |
@@ -1672,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krampus | 25317 | [25317-krampus.json](./25317-krampus.json) |
 | Krampus Kills | 191094 | [191094-krampus-kills.json](./191094-krampus-kills.json) |
 | Krampus Quest | 76674 | [76674-krampus-quest.json](./76674-krampus-quest.json) |
+| krAsAvA Shot | 116831 | [116831-krasava-shot.json](./116831-krasava-shot.json) |
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
 | Kratoria | 187540 | [187540-kratoria.json](./187540-kratoria.json) |
 | Krautscape | 16903 | [16903-krautscape.json](./16903-krautscape.json) |
