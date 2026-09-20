@@ -4469,6 +4469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Pool | 49952 | [49952-pro-pool.json](./49952-pro-pool.json) |
 | Pro Rugby Manager 2 | 67949 | [67949-pro-rugby-manager-2.json](./67949-pro-rugby-manager-2.json) |
 | Pro Skateboard Simulator | 69867 | [69867-pro-skateboard-simulator.json](./69867-pro-skateboard-simulator.json) |
+| PRO Soccer Challenges 2018 - World Football Stars | 95881 | [95881-pro-soccer-challenges-2018-world-football-stars.json](./95881-pro-soccer-challenges-2018-world-football-stars.json) |
 | Pro Soccer Cup 2002 | 251053 | [251053-pro-soccer-cup-2002.json](./251053-pro-soccer-cup-2002.json) |
 | Pro Stadium | 268525 | [268525-pro-stadium.json](./268525-pro-stadium.json) |
 | Pro Strategy Football 2022 | 165623 | [165623-pro-strategy-football-2022.json](./165623-pro-strategy-football-2022.json) |
