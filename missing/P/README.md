@@ -1780,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano: Learn and Play - Ultra Director's Cut | 328828 | [328828-piano-learn-and-play-ultra-directors-cut.json](./328828-piano-learn-and-play-ultra-directors-cut.json) |
 | Piāomiǎo Xī Yóu | 407318 | [407318-piaomiao-xi-you.json](./407318-piaomiao-xi-you.json) |
 | Piàozhě! Xiǎohuì de Dǎgōng Dàzuòzhàn | 156626 | [156626-piaozhe-xiaohui-de-dagong-dazuozhan.json](./156626-piaozhe-xiaohui-de-dagong-dazuozhan.json) |
+| Pic-a-Pix Color 2 | 120799 | [120799-pic-a-pix-color-2.json](./120799-pic-a-pix-color-2.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 10 | 404290 | [404290-pic-a-pix-pieces-15x15-pieces-pack-10.json](./404290-pic-a-pix-pieces-15x15-pieces-pack-10.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 11 | 404291 | [404291-pic-a-pix-pieces-15x15-pieces-pack-11.json](./404291-pic-a-pix-pieces-15x15-pieces-pack-11.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 12 | 404292 | [404292-pic-a-pix-pieces-15x15-pieces-pack-12.json](./404292-pic-a-pix-pieces-15x15-pieces-pack-12.json) |
@@ -3474,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Party | 158664 | [158664-poly-party.json](./158664-poly-party.json) |
 | Poly Racing | 173290 | [173290-poly-racing.json](./173290-poly-racing.json) |
 | Poly S.A.E. | 185541 | [185541-poly-s-a-e.json](./185541-poly-s-a-e.json) |
+| Poly Soldiers | 120811 | [120811-poly-soldiers.json](./120811-poly-soldiers.json) |
 | Poly Squad | 149076 | [149076-poly-squad.json](./149076-poly-squad.json) |
 | Poly Survivor | 270946 | [270946-poly-survivor.json](./270946-poly-survivor.json) |
 | Poly Tower | 347712 | [347712-poly-tower.json](./347712-poly-tower.json) |
@@ -4960,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pudding | 312022 | [312022-pudding.json](./312022-pudding.json) |
 | Pudding Frog | 334201 | [334201-pudding-frog.json](./334201-pudding-frog.json) |
 | Pudding Juice | 301840 | [301840-pudding-juice.json](./301840-pudding-juice.json) |
+| Pudding Monster | 120805 | [120805-pudding-monster.json](./120805-pudding-monster.json) |
 | Pudding Up! | 371324 | [371324-pudding-up.json](./371324-pudding-up.json) |
 | Pudding: Lyre Knight | 375851 | [375851-pudding-lyre-knight.json](./375851-pudding-lyre-knight.json) |
 | Puddle | 377567 | [377567-puddle.json](./377567-puddle.json) |
