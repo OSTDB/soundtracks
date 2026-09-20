@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lacuna: Save the World Edition | 159699 | [159699-lacuna-save-the-world-edition.json](./159699-lacuna-save-the-world-edition.json) |
 | Lacus Opportunitas | 347149 | [347149-lacus-opportunitas.json](./347149-lacus-opportunitas.json) |
 | Ladder Climbing | 301818 | [301818-ladder-climbing.json](./301818-ladder-climbing.json) |
+| Ladder Man | 70089 | [70089-ladder-man.json](./70089-ladder-man.json) |
 | Ladders by Powgi | 146927 | [146927-ladders-by-powgi.json](./146927-ladders-by-powgi.json) |
 | Ladderway | 255990 | [255990-ladderway.json](./255990-ladderway.json) |
 | Lade's Sandbox | 303621 | [303621-lades-sandbox.json](./303621-lades-sandbox.json) |
@@ -340,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Puzzle | 270413 | [270413-laser-puzzle.json](./270413-laser-puzzle.json) |
 | Laser Quest | 296069 | [296069-laser-quest.json](./296069-laser-quest.json) |
 | Laser Robot | 66605 | [66605-laser-robot.json](./66605-laser-robot.json) |
+| Laser Run | 70119 | [70119-laser-run.json](./70119-laser-run.json) |
 | Laser Shield | 334082 | [334082-laser-shield.json](./334082-laser-shield.json) |
 | Laser Skirmish | 205059 | [205059-laser-skirmish.json](./205059-laser-skirmish.json) |
 | Laser Stallion Disco Junkie: One Hit | 115680 | [115680-laser-stallion-disco-junkie-one-hit.json](./115680-laser-stallion-disco-junkie-one-hit.json) |
@@ -2079,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liveza: Death of the Earth | 32960 | [32960-liveza-death-of-the-earth.json](./32960-liveza-death-of-the-earth.json) |
 | Livid Meadow | 271209 | [271209-livid-meadow.json](./271209-livid-meadow.json) |
 | Living Books: Dr. Seuss's ABC | 134447 | [134447-living-books-dr-seusss-abc.json](./134447-living-books-dr-seusss-abc.json) |
+| Living Books: Harry and the Haunted House | 70079 | [70079-living-books-harry-and-the-haunted-house.json](./70079-living-books-harry-and-the-haunted-house.json) |
 | Living Books: Little Monster at School | 45917 | [45917-living-books-little-monster-at-school.json](./45917-living-books-little-monster-at-school.json) |
 | Living Books: Sheila Rae, the Brave | 71796 | [71796-living-books-sheila-rae-the-brave.json](./71796-living-books-sheila-rae-the-brave.json) |
 | Living Books: Stellaluna | 229068 | [229068-living-books-stellaluna.json](./229068-living-books-stellaluna.json) |
