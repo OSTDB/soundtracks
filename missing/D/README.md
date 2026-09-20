@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlocked | 197796 | [197796-deadlocked.json](./197796-deadlocked.json) |
 | Deadly Burrito | 111506 | [111506-deadly-burrito.json](./111506-deadly-burrito.json) |
 | Deadly Contagion | 275130 | [275130-deadly-contagion.json](./275130-deadly-contagion.json) |
+| Deadly Curse | 107683 | [107683-deadly-curse.json](./107683-deadly-curse.json) |
 | Deadly Dainosaur: Hunting Safari | 147289 | [147289-deadly-dainosaur-hunting-safari.json](./147289-deadly-dainosaur-hunting-safari.json) |
 | Deadly Danger Dungeon | 323742 | [323742-deadly-danger-dungeon.json](./323742-deadly-danger-dungeon.json) |
 | Deadly Dozen | 27479 | [27479-deadly-dozen.json](./27479-deadly-dozen.json) |
@@ -2088,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desertopia | 244804 | [244804-desertopia.json](./244804-desertopia.json) |
 | Deserved | 391598 | [391598-deserved.json](./391598-deserved.json) |
 | Desespejos | 181799 | [181799-desespejos.json](./181799-desespejos.json) |
+| Design My Room: Fashion | 107667 | [107667-design-my-room-fashion.json](./107667-design-my-room-fashion.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
 | Désiré | 88080 | [88080-desire.json](./88080-desire.json) |
 | Desire & Decorum: Book 1 | 313713 | [313713-desire-and-decorum-book-1.json](./313713-desire-and-decorum-book-1.json) |
@@ -2308,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Mankind Divided - Tactical Pack | 374696 | [374696-deus-ex-mankind-divided-tactical-pack.json](./374696-deus-ex-mankind-divided-tactical-pack.json) |
 | Deus Ex: The Conspiracy | 347125 | [347125-deus-ex-the-conspiracy.json](./347125-deus-ex-the-conspiracy.json) |
 | Deus Ex: Transcended | 276277 | [276277-deus-ex-transcended.json](./276277-deus-ex-transcended.json) |
+| Deus Vult VR | 107634 | [107634-deus-vult-vr.json](./107634-deus-vult-vr.json) |
 | Deuteros: The Next Millennium | 9575 | [9575-deuteros-the-next-millennium.json](./9575-deuteros-the-next-millennium.json) |
 | Deutschland sucht den Superstar | 130904 | [130904-deutschland-sucht-den-superstar.json](./130904-deutschland-sucht-den-superstar.json) |
 | Dev Inc | 152835 | [152835-dev-inc.json](./152835-dev-inc.json) |
@@ -2617,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIG: Deep In Galaxies | 228455 | [228455-dig-deep-in-galaxies.json](./228455-dig-deep-in-galaxies.json) |
 | Dig!t | 232042 | [232042-dig-t.json](./232042-dig-t.json) |
 | Dig2China | 247515 | [247515-dig2china.json](./247515-dig2china.json) |
+| Digan no Maseki | 107632 | [107632-digan-no-maseki.json](./107632-digan-no-maseki.json) |
 | Digby's Donuts | 122893 | [122893-digbys-donuts.json](./122893-digbys-donuts.json) |
 | Digdig | 316611 | [316611-digdig.json](./316611-digdig.json) |
 | Digerati Couch Co-op Vol. 2 | 166688 | [166688-digerati-couch-co-op-vol-2.json](./166688-digerati-couch-co-op-vol-2.json) |
@@ -2839,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaurs - Connect the Dots and Add Colors | 86725 | [86725-dinosaurs-connect-the-dots-and-add-colors.json](./86725-dinosaurs-connect-the-dots-and-add-colors.json) |
 | Dinosaurs A Prehistoric Adventure | 57128 | [57128-dinosaurs-a-prehistoric-adventure.json](./57128-dinosaurs-a-prehistoric-adventure.json) |
 | Dinosaurs and Animal Friends to the Rescue | 353999 | [353999-dinosaurs-and-animal-friends-to-the-rescue.json](./353999-dinosaurs-and-animal-friends-to-the-rescue.json) |
+| Dinosaurs Are People Too | 107662 | [107662-dinosaurs-are-people-too.json](./107662-dinosaurs-are-people-too.json) |
 | Dinosaurs Outbreak | 370789 | [370789-dinosaurs-outbreak.json](./370789-dinosaurs-outbreak.json) |
 | Dinosaurs: Mission Dino Camp | 252172 | [252172-dinosaurs-mission-dino-camp.json](./252172-dinosaurs-mission-dino-camp.json) |
 | DinoScape | 143335 | [143335-dinoscape.json](./143335-dinoscape.json) |
@@ -3555,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolor's Dwelling | 390006 | [390006-dolors-dwelling.json](./390006-dolors-dwelling.json) |
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
 | Dolphin Olympics 2 | 159287 | [159287-dolphin-olympics-2.json](./159287-dolphin-olympics-2.json) |
+| Dolphin Paradise | 107676 | [107676-dolphin-paradise.json](./107676-dolphin-paradise.json) |
 | Dolphy Dash | 104003 | [104003-dolphy-dash.json](./104003-dolphy-dash.json) |
 | Døm Rusalok | 132625 | [132625-d-m-rusalok.json](./132625-d-m-rusalok.json) |
 | Domain | 149957 | [149957-domain.json](./149957-domain.json) |
@@ -4740,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of Tiny Snow | 244786 | [244786-dream-of-tiny-snow.json](./244786-dream-of-tiny-snow.json) |
 | Dream of Tomorrow | 161354 | [161354-dream-of-tomorrow.json](./161354-dream-of-tomorrow.json) |
 | Dream Park Story | 175874 | [175874-dream-park-story.json](./175874-dream-park-story.json) |
+| Dream Piano Tiles 2018 | 107665 | [107665-dream-piano-tiles-2018.json](./107665-dream-piano-tiles-2018.json) |
 | Dream Ploy Will | 242672 | [242672-dream-ploy-will.json](./242672-dream-ploy-will.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
 | Dream Sequences | 202247 | [202247-dream-sequences.json](./202247-dream-sequences.json) |
