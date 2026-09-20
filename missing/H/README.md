@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hahakigami Sweep | 386106 | [386106-hahakigami-sweep.json](./386106-hahakigami-sweep.json) |
 | Hai Byouin Tansaku | 261547 | [261547-hai-byouin-tansaku.json](./261547-hai-byouin-tansaku.json) |
 | Hai Shuuraku Tansaku | 261546 | [261546-hai-shuuraku-tansaku.json](./261546-hai-shuuraku-tansaku.json) |
+| Hǎidǐ Xúnbǎo | 110136 | [110136-haidi-xunbao.json](./110136-haidi-xunbao.json) |
 | Haiki | 141134 | [141134-haiki.json](./141134-haiki.json) |
 | Hail Britannia | 340408 | [340408-hail-britannia.json](./340408-hail-britannia.json) |
 | Hail to the Chimp | 7005 | [7005-hail-to-the-chimp.json](./7005-hail-to-the-chimp.json) |
@@ -3119,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Ken | 262374 | [262374-horror-ken.json](./262374-horror-ken.json) |
 | Horror Legends | 111603 | [111603-horror-legends.json](./111603-horror-legends.json) |
 | Horror Loop | 259590 | [259590-horror-loop.json](./259590-horror-loop.json) |
+| Horror Maze: Sci-Fi Edition | 110155 | [110155-horror-maze-sci-fi-edition.json](./110155-horror-maze-sci-fi-edition.json) |
 | Horror Night with Tung Tung Tung Sahur | 351096 | [351096-horror-night-with-tung-tung-tung-sahur.json](./351096-horror-night-with-tung-tung-tung-sahur.json) |
 | Horror Night: Spooky Night Vol. 1 | 221735 | [221735-horror-night-spooky-night-vol-1.json](./221735-horror-night-spooky-night-vol-1.json) |
 | Horror Night: The Slenderman Takings | 236824 | [236824-horror-night-the-slenderman-takings.json](./236824-horror-night-the-slenderman-takings.json) |
