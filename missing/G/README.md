@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnostic: Survivors | 262373 | [262373-gnostic-survivors.json](./262373-gnostic-survivors.json) |
 | GNU Sudoku 64 | 264098 | [264098-gnu-sudoku-64.json](./264098-gnu-sudoku-64.json) |
 | Gnubbl | 370720 | [370720-gnubbl.json](./370720-gnubbl.json) |
+| Gnumz: Arcane Power | 103877 | [103877-gnumz-arcane-power.json](./103877-gnumz-arcane-power.json) |
 | Go | 13722 | [13722-go.json](./13722-go.json) |
 | Go | 218000 | [218000-go.json](./218000-go.json) |
 | Go 3D | 68624 | [68624-go-3d.json](./68624-go-3d.json) |
@@ -2650,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Wolf | 56499 | [56499-grey-wolf.json](./56499-grey-wolf.json) |
 | Grey Zone | 68620 | [68620-grey-zone.json](./68620-grey-zone.json) |
 | Grey-Box Testing | 135222 | [135222-grey-box-testing.json](./135222-grey-box-testing.json) |
+| Greyhound Racing Tournament 2 | 103858 | [103858-greyhound-racing-tournament-2.json](./103858-greyhound-racing-tournament-2.json) |
 | Greyish White | 289345 | [289345-greyish-white.json](./289345-greyish-white.json) |
 | Greyskin | 214049 | [214049-greyskin.json](./214049-greyskin.json) |
 | Grid Crypt | 398466 | [398466-grid-crypt.json](./398466-grid-crypt.json) |
@@ -2867,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grove: Nostalgia's End | 192952 | [192952-grove-nostalgias-end.json](./192952-grove-nostalgias-end.json) |
 | Grow & Go: Cozy Deliveries | 414406 | [414406-grow-and-go-cozy-deliveries.json](./414406-grow-and-go-cozy-deliveries.json) |
 | Grow a Girlfriend | 353394 | [353394-grow-a-girlfriend.json](./353394-grow-a-girlfriend.json) |
+| Grow Battle: Fish and Feed | 103865 | [103865-grow-battle-fish-and-feed.json](./103865-grow-battle-fish-and-feed.json) |
 | Grow Beets Clicker | 259556 | [259556-grow-beets-clicker.json](./259556-grow-beets-clicker.json) |
 | Grow Big (or Go Home) | 141221 | [141221-grow-big-or-go-home.json](./141221-grow-big-or-go-home.json) |
 | Grow Golf | 394884 | [394884-grow-golf.json](./394884-grow-golf.json) |
