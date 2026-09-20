@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camisole | 128366 | [128366-camisole.json](./128366-camisole.json) |
 | Camo Sniper | 337157 | [337157-camo-sniper.json](./337157-camo-sniper.json) |
 | Camp Counsellor Collector | 272271 | [272271-camp-counsellor-collector.json](./272271-camp-counsellor-collector.json) |
+| Camp Grizzly | 104449 | [104449-camp-grizzly.json](./104449-camp-grizzly.json) |
 | Camp Lazlo: Jumping Jelly Beans | 314031 | [314031-camp-lazlo-jumping-jelly-beans.json](./314031-camp-lazlo-jumping-jelly-beans.json) |
 | Camp Palut | 173827 | [173827-camp-palut.json](./173827-camp-palut.json) |
 | Camp Rock | 221995 | [221995-camp-rock.json](./221995-camp-rock.json) |
@@ -2751,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
 | Citizens Unite!: Earth x Space | 139994 | [139994-citizens-unite-earth-x-space.json](./139994-citizens-unite-earth-x-space.json) |
 | Citri Plays Noirwood | 220635 | [220635-citri-plays-noirwood.json](./220635-citri-plays-noirwood.json) |
+| Citrus | 104440 | [104440-citrus.json](./104440-citrus.json) |
 | Citrus Rampage | 189073 | [189073-citrus-rampage.json](./189073-citrus-rampage.json) |
 | City 7: Toronto Conflict | 281410 | [281410-city-7-toronto-conflict.json](./281410-city-7-toronto-conflict.json) |
 | City Ambulance Car Driving | 265731 | [265731-city-ambulance-car-driving.json](./265731-city-ambulance-car-driving.json) |
@@ -4230,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convent Of Magical Chambers | 404962 | [404962-convent-of-magical-chambers.json](./404962-convent-of-magical-chambers.json) |
 | Conventional Vampires | 301407 | [301407-conventional-vampires.json](./301407-conventional-vampires.json) |
 | Conversation With a Rock | 297099 | [297099-conversation-with-a-rock.json](./297099-conversation-with-a-rock.json) |
+| Convertible Wop | 104442 | [104442-convertible-wop.json](./104442-convertible-wop.json) |
 | Conveyor Belt Sushi Simulator | 334129 | [334129-conveyor-belt-sushi-simulator.json](./334129-conveyor-belt-sushi-simulator.json) |
 | Conveyor VR | 112970 | [112970-conveyor-vr.json](./112970-conveyor-vr.json) |
 | Convict Team Tactics | 326264 | [326264-convict-team-tactics.json](./326264-convict-team-tactics.json) |
