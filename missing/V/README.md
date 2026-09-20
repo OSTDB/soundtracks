@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Age: Odin’s Warrior | 103414 | [103414-viking-age-odin-s-warrior.json](./103414-viking-age-odin-s-warrior.json) |
 | Viking Breaker | 346586 | [346586-viking-breaker.json](./346586-viking-breaker.json) |
 | Viking Brothers 2 | 53872 | [53872-viking-brothers-2.json](./53872-viking-brothers-2.json) |
+| Viking Brothers 3 CE | 104452 | [104452-viking-brothers-3-ce.json](./104452-viking-brothers-3-ce.json) |
 | Viking City Tycoon | 317441 | [317441-viking-city-tycoon.json](./317441-viking-city-tycoon.json) |
 | Viking Colony Builder Valhalla | 322979 | [322979-viking-colony-builder-valhalla.json](./322979-viking-colony-builder-valhalla.json) |
 | Viking Dodge | 7837 | [7837-viking-dodge.json](./7837-viking-dodge.json) |
@@ -1180,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VPet-Simulator | 292021 | [292021-vpet-simulator.json](./292021-vpet-simulator.json) |
 | VPetlings | 395580 | [395580-vpetlings.json](./395580-vpetlings.json) |
 | VPN Simulator | 371306 | [371306-vpn-simulator.json](./371306-vpn-simulator.json) |
+| VR - Talk to her | 104475 | [104475-vr-talk-to-her.json](./104475-vr-talk-to-her.json) |
 | VR AirHockey | 195221 | [195221-vr-airhockey.json](./195221-vr-airhockey.json) |
 | VR Angry Cow Farm Simulator | 109021 | [109021-vr-angry-cow-farm-simulator.json](./109021-vr-angry-cow-farm-simulator.json) |
 | VR Animal Kids Rumble | 371902 | [371902-vr-animal-kids-rumble.json](./371902-vr-animal-kids-rumble.json) |
