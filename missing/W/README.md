@@ -2381,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words for a bird | 134692 | [134692-words-for-a-bird.json](./134692-words-for-a-bird.json) |
 | Words for Evil | 36107 | [36107-words-for-evil.json](./36107-words-for-evil.json) |
 | Words Guesser | 314664 | [314664-words-guesser.json](./314664-words-guesser.json) |
+| Words Inc - Endless Vocabulary Definition Competition | 99411 | [99411-words-inc-endless-vocabulary-definition-competition.json](./99411-words-inc-endless-vocabulary-definition-competition.json) |
 | Words N Words | 240345 | [240345-words-n-words.json](./240345-words-n-words.json) |
 | Words Scramble: Cities | 245329 | [245329-words-scramble-cities.json](./245329-words-scramble-cities.json) |
 | Words UP | 104464 | [104464-words-up.json](./104464-words-up.json) |
