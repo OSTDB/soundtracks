@@ -4360,6 +4360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Tacocat | 120362 | [120362-dr-tacocat.json](./120362-dr-tacocat.json) |
 | Dr. Trolley's Problem | 117072 | [117072-dr-trolleys-problem.json](./117072-dr-trolleys-problem.json) |
 | Dr. Umgebung's School of Life | 128992 | [128992-dr-umgebungs-school-of-life.json](./128992-dr-umgebungs-school-of-life.json) |
+| Dr. Wise: Medical Mysteries | 65185 | [65185-dr-wise-medical-mysteries.json](./65185-dr-wise-medical-mysteries.json) |
 | Dr.Green | 36001 | [36001-dr-green.json](./36001-dr-green.json) |
 | Dr.Pumpkin | 210678 | [210678-dr-pumpkin.json](./210678-dr-pumpkin.json) |
 | Dr.Roland | 270768 | [270768-dr-roland.json](./270768-dr-roland.json) |
