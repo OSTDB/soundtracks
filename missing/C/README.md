@@ -1977,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess | 128646 | [128646-chess.json](./128646-chess.json) |
 | Chess | 277419 | [277419-chess.json](./277419-chess.json) |
 | Chess | 9165 | [9165-chess.json](./9165-chess.json) |
+| Chess - tactics and strategy | 91100 | [91100-chess-tactics-and-strategy.json](./91100-chess-tactics-and-strategy.json) |
 | Chess - tChess Pro | 104610 | [104610-chess-tchess-pro.json](./104610-chess-tchess-pro.json) |
 | Chess '98 | 204703 | [204703-chess-98.json](./204703-chess-98.json) |
 | Chess & Backgammon Classics | 79907 | [79907-chess-and-backgammon-classics.json](./79907-chess-and-backgammon-classics.json) |
@@ -3832,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come to Jesus | 179726 | [179726-come-to-jesus.json](./179726-come-to-jesus.json) |
 | Come with Me | 147401 | [147401-come-with-me.json](./147401-come-with-me.json) |
 | Comer | 94225 | [94225-comer.json](./94225-comer.json) |
+| Comet | 91155 | [91155-comet.json](./91155-comet.json) |
 | Comet Clash | 253460 | [253460-comet-clash.json](./253460-comet-clash.json) |
 | Comet Crash | 21246 | [21246-comet-crash.json](./21246-comet-crash.json) |
 | Comet Culling | 249779 | [249779-comet-culling.json](./249779-comet-culling.json) |
@@ -5199,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage | 83492 | [83492-cribbage.json](./83492-cribbage.json) |
 | Cribbage Blitz | 125940 | [125940-cribbage-blitz.json](./125940-cribbage-blitz.json) |
 | Cribbage Forever | 90023 | [90023-cribbage-forever.json](./90023-cribbage-forever.json) |
+| Cribbage HD | 91118 | [91118-cribbage-hd.json](./91118-cribbage-hd.json) |
 | Cribbage JD | 144781 | [144781-cribbage-jd.json](./144781-cribbage-jd.json) |
 | Cribbage Pro | 141872 | [141872-cribbage-pro.json](./141872-cribbage-pro.json) |
 | Cribbage With Grandpas | 94781 | [94781-cribbage-with-grandpas.json](./94781-cribbage-with-grandpas.json) |
