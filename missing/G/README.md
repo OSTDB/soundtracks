@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Sultans | 106526 | [106526-game-of-sultans.json](./106526-game-of-sultans.json) |
 | Game Of Thrall'an | 321365 | [321365-game-of-thrallan.json](./321365-game-of-thrallan.json) |
 | Game of Throne | 179199 | [179199-game-of-throne.json](./179199-game-of-throne.json) |
+| Game of Thrones Beyond the Wall | 120205 | [120205-game-of-thrones-beyond-the-wall.json](./120205-game-of-thrones-beyond-the-wall.json) |
 | Game of Thrones: A Telltale Games Series - Episode 1: Iron From Ice | 127067 | [127067-game-of-thrones-a-telltale-games-series-episode-1-iron-from-ice.json](./127067-game-of-thrones-a-telltale-games-series-episode-1-iron-from-ice.json) |
 | Game of Thrones: A Telltale Games Series - Episode 2: The Lost Lords | 127068 | [127068-game-of-thrones-a-telltale-games-series-episode-2-the-lost-lords.json](./127068-game-of-thrones-a-telltale-games-series-episode-2-the-lost-lords.json) |
 | Game of Thrones: A Telltale Games Series - Episode 3: The Sword in the Darkness | 127069 | [127069-game-of-thrones-a-telltale-games-series-episode-3-the-sword-in-the-darkness.json](./127069-game-of-thrones-a-telltale-games-series-episode-3-the-sword-in-the-darkness.json) |
