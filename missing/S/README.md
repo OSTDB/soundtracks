@@ -3641,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Erik | 301439 | [301439-sir-erik.json](./301439-sir-erik.json) |
 | Sir Fallen: Supporter Pack | 312008 | [312008-sir-fallen-supporter-pack.json](./312008-sir-fallen-supporter-pack.json) |
 | Sir Fred | 270668 | [270668-sir-fred.json](./270668-sir-fred.json) |
+| Sir Loin | 93997 | [93997-sir-loin.json](./93997-sir-loin.json) |
 | Sir Noggin | 376556 | [376556-sir-noggin.json](./376556-sir-noggin.json) |
 | Sir Stretchalot: The Plight of the Elves | 216227 | [216227-sir-stretchalot-the-plight-of-the-elves.json](./216227-sir-stretchalot-the-plight-of-the-elves.json) |
 | Sir Whoopass & Switchball HD Bundle | 244792 | [244792-sir-whoopass-and-switchball-hd-bundle.json](./244792-sir-whoopass-and-switchball-hd-bundle.json) |
@@ -3940,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Seeker | 159840 | [159840-sky-seeker.json](./159840-sky-seeker.json) |
 | Sky Shepherd | 117103 | [117103-sky-shepherd.json](./117103-sky-shepherd.json) |
 | Sky Skipper | 288336 | [288336-sky-skipper.json](./288336-sky-skipper.json) |
+| Sky Sports Football Manager | 94003 | [94003-sky-sports-football-manager.json](./94003-sky-sports-football-manager.json) |
 | Sky Squadron | 139477 | [139477-sky-squadron.json](./139477-sky-squadron.json) |
 | Sky Taxi 2: Storm 2012 | 54368 | [54368-sky-taxi-2-storm-2012.json](./54368-sky-taxi-2-storm-2012.json) |
 | Sky Taxi 3: The Movie | 54369 | [54369-sky-taxi-3-the-movie.json](./54369-sky-taxi-3-the-movie.json) |
