@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire III: Armageddon | 24894 | [24894-empire-iii-armageddon.json](./24894-empire-iii-armageddon.json) |
 | Empire in Decay | 352199 | [352199-empire-in-decay.json](./352199-empire-in-decay.json) |
 | Empire of Angels IV | 78589 | [78589-empire-of-angels-iv.json](./78589-empire-of-angels-iv.json) |
+| Empire of Atlantis | 66950 | [66950-empire-of-atlantis.json](./66950-empire-of-atlantis.json) |
 | Empire of Empires | 211966 | [211966-empire-of-empires.json](./211966-empire-of-empires.json) |
 | Empire of Revenant | 221180 | [221180-empire-of-revenant.json](./221180-empire-of-revenant.json) |
 | Empire of Sin: Day One Edition | 176888 | [176888-empire-of-sin-day-one-edition.json](./176888-empire-of-sin-day-one-edition.json) |
@@ -2013,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Mystery: The Face of Envy | 68947 | [68947-european-mystery-the-face-of-envy.json](./68947-european-mystery-the-face-of-envy.json) |
 | European Soccer Cup 2016 Slot | 232535 | [232535-european-soccer-cup-2016-slot.json](./232535-european-soccer-cup-2016-slot.json) |
 | European Super League | 334686 | [334686-european-super-league.json](./334686-european-super-league.json) |
+| European Tennis Pro | 66949 | [66949-european-tennis-pro.json](./66949-european-tennis-pro.json) |
 | European War | 100604 | [100604-european-war.json](./100604-european-war.json) |
 | European War 5: Empire | 89709 | [89709-european-war-5-empire.json](./89709-european-war-5-empire.json) |
 | Eurydice Exhumed | 264122 | [264122-eurydice-exhumed.json](./264122-eurydice-exhumed.json) |
@@ -2562,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Snowboard | 228110 | [228110-extreme-snowboard.json](./228110-extreme-snowboard.json) |
 | Extreme Speed Bundle: Go! Fish Go! Adrenaline Rush, Jet Ski Rush | 196823 | [196823-extreme-speed-bundle-go-fish-go-adrenaline-rush-jet-ski-rush.json](./196823-extreme-speed-bundle-go-fish-go-adrenaline-rush-jet-ski-rush.json) |
 | Extreme Sports with the Berenstain Bears | 49932 | [49932-extreme-sports-with-the-berenstain-bears.json](./49932-extreme-sports-with-the-berenstain-bears.json) |
+| Extreme Sprint 3010 | 66948 | [66948-extreme-sprint-3010.json](./66948-extreme-sprint-3010.json) |
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
 | ExtremeBiking | 90383 | [90383-extremebiking.json](./90383-extremebiking.json) |
