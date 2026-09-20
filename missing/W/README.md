@@ -1333,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Our Ouis? | 408927 | [408927-wheres-our-ouis.json](./408927-wheres-our-ouis.json) |
 | Where's Tess | 298869 | [298869-wheres-tess.json](./298869-wheres-tess.json) |
 | Where's That Clown?! | 367487 | [367487-wheres-that-clown.json](./367487-wheres-that-clown.json) |
+| Where's the Blanket Charlie Brown? | 69583 | [69583-wheres-the-blanket-charlie-brown.json](./69583-wheres-the-blanket-charlie-brown.json) |
 | Where's the Fck*ng Light - VR | 30948 | [30948-wheres-the-fck-ng-light-vr.json](./30948-wheres-the-fck-ng-light-vr.json) |
 | Where’s the Food!? | 378787 | [378787-where-s-the-food.json](./378787-where-s-the-food.json) |
 | Where’s the Insect? | 378788 | [378788-where-s-the-insect.json](./378788-where-s-the-insect.json) |
@@ -1810,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Honour: Battles of the Red Baron | 21341 | [21341-wings-of-honour-battles-of-the-red-baron.json](./21341-wings-of-honour-battles-of-the-red-baron.json) |
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
 | Wings of Virtus | 112772 | [112772-wings-of-virtus.json](./112772-wings-of-virtus.json) |
+| Wings Over China: Air Battles of the Flying Tigers | 69563 | [69563-wings-over-china-air-battles-of-the-flying-tigers.json](./69563-wings-over-china-air-battles-of-the-flying-tigers.json) |
 | Wings Through Time | 174731 | [174731-wings-through-time.json](./174731-wings-through-time.json) |
 | Wings VR | 211221 | [211221-wings-vr.json](./211221-wings-vr.json) |
 | Wings: Emulated Amiga Edition | 154945 | [154945-wings-emulated-amiga-edition.json](./154945-wings-emulated-amiga-edition.json) |
