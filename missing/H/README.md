@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headquarters: World War II - Ardennes | 324926 | [324926-headquarters-world-war-ii-ardennes.json](./324926-headquarters-world-war-ii-ardennes.json) |
 | Headrooms | 334472 | [334472-headrooms.json](./334472-headrooms.json) |
 | Heads Run | 82128 | [82128-heads-run.json](./82128-heads-run.json) |
+| Heads Up Texas Hold 'Em | 92293 | [92293-heads-up-texas-hold-em.json](./92293-heads-up-texas-hold-em.json) |
 | Heads Up! Hot Dogs | 175345 | [175345-heads-up-hot-dogs.json](./175345-heads-up-hot-dogs.json) |
 | Heads Up! Netflix Edition | 362897 | [362897-heads-up-netflix-edition.json](./362897-heads-up-netflix-edition.json) |
 | Heads Will Roll: Reforged - Not a Hero | 296904 | [296904-heads-will-roll-reforged-not-a-hero.json](./296904-heads-will-roll-reforged-not-a-hero.json) |
@@ -3832,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Husky's Adventures | 152733 | [152733-huskys-adventures.json](./152733-huskys-adventures.json) |
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
+| Hustler | 92282 | [92282-hustler.json](./92282-hustler.json) |
 | Huts | 129575 | [129575-huts.json](./129575-huts.json) |
 | Hv Rebellion | 184568 | [184568-hv-rebellion.json](./184568-hv-rebellion.json) |
 | HVRGun | 29707 | [29707-hvrgun.json](./29707-hvrgun.json) |
