@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Ramen | 176503 | [176503-tasty-ramen.json](./176503-tasty-ramen.json) |
 | Tasty Shafts | 128402 | [128402-tasty-shafts.json](./128402-tasty-shafts.json) |
 | Tasty Slot Machine | 242552 | [242552-tasty-slot-machine.json](./242552-tasty-slot-machine.json) |
+| Tasty Town | 114793 | [114793-tasty-town.json](./114793-tasty-town.json) |
 | Tasty Words - Free Word Games | 105973 | [105973-tasty-words-free-word-games.json](./105973-tasty-words-free-word-games.json) |
 | Tatara Kogasa's Surprise Operation | 273948 | [273948-tatara-kogasas-surprise-operation.json](./273948-tatara-kogasas-surprise-operation.json) |
 | Tatari: Curse Road | 293382 | [293382-tatari-curse-road.json](./293382-tatari-curse-road.json) |
@@ -1572,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Testing Facility | 274181 | [274181-testing-facility.json](./274181-testing-facility.json) |
 | Testing Pool | 262424 | [262424-testing-pool.json](./262424-testing-pool.json) |
 | Tet Story | 400370 | [400370-tet-story.json](./400370-tet-story.json) |
+| Tether | 114816 | [114816-tether.json](./114816-tether.json) |
 | Tether | 186336 | [186336-tether.json](./186336-tether.json) |
 | Tether | 333088 | [333088-tether.json](./333088-tether.json) |
 | Tetjis | 361756 | [361756-tetjis.json](./361756-tetjis.json) |
@@ -2521,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Culling II | 103367 | [103367-the-culling-ii.json](./103367-the-culling-ii.json) |
 | The Cult of Chanseville | 211820 | [211820-the-cult-of-chanseville.json](./211820-the-cult-of-chanseville.json) |
 | The Cult: Marduk's Longest Night | 121742 | [121742-the-cult-marduks-longest-night.json](./121742-the-cult-marduks-longest-night.json) |
+| The Cup | 114805 | [114805-the-cup.json](./114805-the-cup.json) |
 | The Curator | 137668 | [137668-the-curator.json](./137668-the-curator.json) |
 | The Curator | 343331 | [343331-the-curator.json](./343331-the-curator.json) |
 | The Cure | 184647 | [184647-the-cure.json](./184647-the-cure.json) |
@@ -2790,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition: Splat Jaypak's Arenas | 199115 | [199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json](./199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Deluxe Edition | 154540 | [154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json](./154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Ultimate Edition | 159705 | [159705-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-ultimate-edition.json](./159705-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-ultimate-edition.json) |
+| The Dungeon Paradox | 114806 | [114806-the-dungeon-paradox.json](./114806-the-dungeon-paradox.json) |
 | The Dungeon Tower | 255996 | [255996-the-dungeon-tower.json](./255996-the-dungeon-tower.json) |
 | The Dungeoning | 17310 | [17310-the-dungeoning.json](./17310-the-dungeoning.json) |
 | The Dungeons of Castle Madness | 22403 | [22403-the-dungeons-of-castle-madness.json](./22403-the-dungeons-of-castle-madness.json) |
@@ -4898,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Return of Bantara | 334748 | [334748-the-return-of-bantara.json](./334748-the-return-of-bantara.json) |
 | The Return of the Heroes | 259561 | [259561-the-return-of-the-heroes.json](./259561-the-return-of-the-heroes.json) |
 | The Return of the King | 287767 | [287767-the-return-of-the-king.json](./287767-the-return-of-the-king.json) |
+| The Return: Survival | 114771 | [114771-the-return-survival.json](./114771-the-return-survival.json) |
 | The Revanchist | 338722 | [338722-the-revanchist.json](./338722-the-revanchist.json) |
 | The Revelation of Gensokyo | 157121 | [157121-the-revelation-of-gensokyo.json](./157121-the-revelation-of-gensokyo.json) |
 | The Revenant Prince | 129761 | [129761-the-revenant-prince.json](./129761-the-revenant-prince.json) |
@@ -5401,6 +5406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story Goes On Chapter 6 | 337694 | [337694-the-story-goes-on-chapter-6.json](./337694-the-story-goes-on-chapter-6.json) |
 | The Story of King Aress | 125464 | [125464-the-story-of-king-aress.json](./125464-the-story-of-king-aress.json) |
 | The Story of Mikagoyama | 390661 | [390661-the-story-of-mikagoyama.json](./390661-the-story-of-mikagoyama.json) |
+| The Story of My Life | 114774 | [114774-the-story-of-my-life.json](./114774-the-story-of-my-life.json) |
 | The Story of Red Cloud | 361223 | [361223-the-story-of-red-cloud.json](./361223-the-story-of-red-cloud.json) |
 | The Story of the Revolutionary Watermelon That Wanted to Live Free as a Bird and Learned How to Escape | 144241 | [144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json](./144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json) |
 | The Storyteller | 302369 | [302369-the-storyteller.json](./302369-the-storyteller.json) |
@@ -6517,6 +6523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThrustWorks | 156010 | [156010-thrustworks.json](./156010-thrustworks.json) |
 | Thrusty Ship | 113660 | [113660-thrusty-ship.json](./113660-thrusty-ship.json) |
 | Thugging | 370682 | [370682-thugging.json](./370682-thugging.json) |
+| Thugs Law | 114827 | [114827-thugs-law.json](./114827-thugs-law.json) |
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
 | Thumb Drift | 58840 | [58840-thumb-drift.json](./58840-thumb-drift.json) |
 | ThumBeat | 124623 | [124623-thumbeat.json](./124623-thumbeat.json) |
@@ -8207,6 +8214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torn | 253595 | [253595-torn.json](./253595-torn.json) |
 | Torn | 90106 | [90106-torn.json](./90106-torn.json) |
 | Torn | 94720 | [94720-torn.json](./94720-torn.json) |
+| Torn Earth | 114803 | [114803-torn-earth.json](./114803-torn-earth.json) |
 | Torn Sails | 27909 | [27909-torn-sails.json](./27909-torn-sails.json) |
 | Tornado | 266469 | [266469-tornado.json](./266469-tornado.json) |
 | Tornado Baseball / Tennis / Handball / Hockey | 93564 | [93564-tornado-baseball-tennis-handball-hockey.json](./93564-tornado-baseball-tennis-handball-hockey.json) |
@@ -8455,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mukyuushi: Glory of Deep Skies | 246677 | [246677-touhou-mukyuushi-glory-of-deep-skies.json](./246677-touhou-mukyuushi-glory-of-deep-skies.json) |
 | Touhou Mutsuigeki: Concealed the Conclusion | 51266 | [51266-touhou-mutsuigeki-concealed-the-conclusion.json](./51266-touhou-mutsuigeki-concealed-the-conclusion.json) |
 | Touhou Mystery Reel | 192886 | [192886-touhou-mystery-reel.json](./192886-touhou-mystery-reel.json) |
+| TouHou Nil Soul | 114801 | [114801-touhou-nil-soul.json](./114801-touhou-nil-soul.json) |
 | Touhou Pocket Wars | 128382 | [128382-touhou-pocket-wars.json](./128382-touhou-pocket-wars.json) |
 | Touhou Pocket Wars Evolution | 128383 | [128383-touhou-pocket-wars-evolution.json](./128383-touhou-pocket-wars-evolution.json) |
 | Touhou Pocket Wars Evolution Plus | 128384 | [128384-touhou-pocket-wars-evolution-plus.json](./128384-touhou-pocket-wars-evolution-plus.json) |
