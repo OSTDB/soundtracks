@@ -4496,6 +4496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Quest V: The New Beginning | 98472 | [98472-cosmos-quest-v-the-new-beginning.json](./98472-cosmos-quest-v-the-new-beginning.json) |
 | Cosmos Remake | 179032 | [179032-cosmos-remake.json](./179032-cosmos-remake.json) |
 | Cosmos Rings | 197752 | [197752-cosmos-rings.json](./197752-cosmos-rings.json) |
+| Cosmosa | 117548 | [117548-cosmosa.json](./117548-cosmosa.json) |
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
 | Cosmotroid | 263041 | [263041-cosmotroid.json](./263041-cosmotroid.json) |
 | CosmoWarrior Zero | 43875 | [43875-cosmowarrior-zero.json](./43875-cosmowarrior-zero.json) |
@@ -4988,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy World of Caleb | 302946 | [302946-crazy-world-of-caleb.json](./302946-crazy-world-of-caleb.json) |
 | Crazy-Spy | 58772 | [58772-crazy-spy.json](./58772-crazy-spy.json) |
 | CrazyCar | 93612 | [93612-crazycar.json](./93612-crazycar.json) |
+| CrazyCubes - Mobile Low Poly Game | 117483 | [117483-crazycubes-mobile-low-poly-game.json](./117483-crazycubes-mobile-low-poly-game.json) |
 | CrazyDoc | 148503 | [148503-crazydoc.json](./148503-crazydoc.json) |
 | CrazyDriving | 107853 | [107853-crazydriving.json](./107853-crazydriving.json) |
 | CrazyHousePlanes | 99607 | [99607-crazyhouseplanes.json](./99607-crazyhouseplanes.json) |
@@ -5326,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossout: Wholesale Recall Pack | 226838 | [226838-crossout-wholesale-recall-pack.json](./226838-crossout-wholesale-recall-pack.json) |
 | Crossover Collab | 379890 | [379890-crossover-collab.json](./379890-crossover-collab.json) |
 | CrossOver: Roll For Initiative | 202861 | [202861-crossover-roll-for-initiative.json](./202861-crossover-roll-for-initiative.json) |
+| Crossovers by Powgi | 117488 | [117488-crossovers-by-powgi.json](./117488-crossovers-by-powgi.json) |
 | Crossroad of Worlds: Cursed Letters - Collector's Edition | 257434 | [257434-crossroad-of-worlds-cursed-letters-collectors-edition.json](./257434-crossroad-of-worlds-cursed-letters-collectors-edition.json) |
 | Crossroad of Worlds: Magic Stars - Collector's Edition | 255708 | [255708-crossroad-of-worlds-magic-stars-collectors-edition.json](./255708-crossroad-of-worlds-magic-stars-collectors-edition.json) |
 | Crossroad OS | 259007 | [259007-crossroad-os.json](./259007-crossroad-os.json) |
