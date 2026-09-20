@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am an Air Traffic Controller 4 | 166065 | [166065-i-am-an-air-traffic-controller-4.json](./166065-i-am-an-air-traffic-controller-4.json) |
 | I am an Air Traffic Controller 4: Airport Naha - Roah | 166066 | [166066-i-am-an-air-traffic-controller-4-airport-naha-roah.json](./166066-i-am-an-air-traffic-controller-4-airport-naha-roah.json) |
 | I am an Air Traffic Controller 4: Airport Narita - RJAA | 310386 | [310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json](./310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json) |
+| I am an Air Traffic Controller Airport Hero Hawaii | 84545 | [84545-i-am-an-air-traffic-controller-airport-hero-hawaii.json](./84545-i-am-an-air-traffic-controller-airport-hero-hawaii.json) |
 | I am an Air Traffic Controller: Airport Hero Haneda - Sky Day! Variety Pack | 237971 | [237971-i-am-an-air-traffic-controller-airport-hero-haneda-sky-day-variety-pack.json](./237971-i-am-an-air-traffic-controller-airport-hero-haneda-sky-day-variety-pack.json) |
 | I Am An Air Traffic Controller: Airport Hero Naha | 56475 | [56475-i-am-an-air-traffic-controller-airport-hero-naha.json](./56475-i-am-an-air-traffic-controller-airport-hero-naha.json) |
 | I Am An Air Traffic Controller: Airport Hero Narita | 56474 | [56474-i-am-an-air-traffic-controller-airport-hero-narita.json](./56474-i-am-an-air-traffic-controller-airport-hero-narita.json) |
@@ -56,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Ball II: Quest for the Past | 70351 | [70351-i-ball-ii-quest-for-the-past.json](./70351-i-ball-ii-quest-for-the-past.json) |
 | I Believe in Capybara Supremacy! | 250992 | [250992-i-believe-in-capybara-supremacy.json](./250992-i-believe-in-capybara-supremacy.json) |
 | I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
+| I C Redd | 84543 | [84543-i-c-redd.json](./84543-i-c-redd.json) |
 | I Can Destroy Everything!!! | 274739 | [274739-i-can-destroy-everything.json](./274739-i-can-destroy-everything.json) |
 | I Can Gun | 111502 | [111502-i-can-gun.json](./111502-i-can-gun.json) |
 | I Can Hold My Breath Forever | 139813 | [139813-i-can-hold-my-breath-forever.json](./139813-i-can-hold-my-breath-forever.json) |
@@ -145,6 +147,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Hue Too | 177555 | [177555-i-love-hue-too.json](./177555-i-love-hue-too.json) |
 | I Love Math | 337474 | [337474-i-love-math.json](./337474-i-love-math.json) |
 | I Love Me, I Love Me Not | 313095 | [313095-i-love-me-i-love-me-not.json](./313095-i-love-me-i-love-me-not.json) |
+| I Love my Cats | 84542 | [84542-i-love-my-cats.json](./84542-i-love-my-cats.json) |
+| I Love My Dogs | 84541 | [84541-i-love-my-dogs.json](./84541-i-love-my-dogs.json) |
+| I Love My Little Girl | 84540 | [84540-i-love-my-little-girl.json](./84540-i-love-my-little-girl.json) |
 | I Love My Pony | 85190 | [85190-i-love-my-pony.json](./85190-i-love-my-pony.json) |
 | I Love Puppies! | 210080 | [210080-i-love-puppies.json](./210080-i-love-puppies.json) |
 | I Love Spelling! | 339135 | [339135-i-love-spelling.json](./339135-i-love-spelling.json) |
