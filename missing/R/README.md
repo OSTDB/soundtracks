@@ -3105,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue | 183032 | [183032-rogue.json](./183032-rogue.json) |
 | Rogue Aces | 84848 | [84848-rogue-aces.json](./84848-rogue-aces.json) |
 | Rogue Agent | 99655 | [99655-rogue-agent.json](./99655-rogue-agent.json) |
+| Rogue Alliance | 78968 | [78968-rogue-alliance.json](./78968-rogue-alliance.json) |
 | Rogue Ascent VR | 191914 | [191914-rogue-ascent-vr.json](./191914-rogue-ascent-vr.json) |
 | Rogue Bit | 110363 | [110363-rogue-bit.json](./110363-rogue-bit.json) |
 | Rogue Blaster | 232435 | [232435-rogue-blaster.json](./232435-rogue-blaster.json) |
