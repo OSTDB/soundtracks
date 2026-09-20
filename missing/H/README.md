@@ -2256,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Fairy Princess | 98384 | [98384-hidden-object-fairy-princess.json](./98384-hidden-object-fairy-princess.json) |
 | Hidden Object: Fairy Tale | 98388 | [98388-hidden-object-fairy-tale.json](./98388-hidden-object-fairy-tale.json) |
 | Hidden Object: Faries Trail | 98387 | [98387-hidden-object-faries-trail.json](./98387-hidden-object-faries-trail.json) |
+| Hidden Object: Food | 65782 | [65782-hidden-object-food.json](./65782-hidden-object-food.json) |
 | Hidden Object: Ghost of King Black Magic | 200196 | [200196-hidden-object-ghost-of-king-black-magic.json](./200196-hidden-object-ghost-of-king-black-magic.json) |
 | Hidden Object: Golden Trails - Secret of the Princess | 240197 | [240197-hidden-object-golden-trails-secret-of-the-princess.json](./240197-hidden-object-golden-trails-secret-of-the-princess.json) |
 | Hidden Object: Hunter Secrets of Aztec and Mayan Tribes | 233248 | [233248-hidden-object-hunter-secrets-of-aztec-and-mayan-tribes.json](./233248-hidden-object-hunter-secrets-of-aztec-and-mayan-tribes.json) |
