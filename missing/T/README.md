@@ -3611,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Shiny Colors | 97876 | [97876-the-idolmaster-shiny-colors.json](./97876-the-idolmaster-shiny-colors.json) |
 | The Idolmaster: Shiny Colors - Song for Prism | 248115 | [248115-the-idolmaster-shiny-colors-song-for-prism.json](./248115-the-idolmaster-shiny-colors-song-for-prism.json) |
 | The Idolmaster: Shiny Colors - With Open() | 413755 | [413755-the-idolmaster-shiny-colors-with-open.json](./413755-the-idolmaster-shiny-colors-with-open.json) |
+| The Idolmaster: Stella Stage | 68288 | [68288-the-idolmaster-stella-stage.json](./68288-the-idolmaster-stella-stage.json) |
 | The Ignition Factor | 42607 | [42607-the-ignition-factor.json](./42607-the-ignition-factor.json) |
 | The IL Tempo Game | 83601 | [83601-the-il-tempo-game.json](./83601-the-il-tempo-game.json) |
 | The Illusory Abyss | 118368 | [118368-the-illusory-abyss.json](./118368-the-illusory-abyss.json) |
@@ -4753,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Order: 1886 - Blackwater Edition | 62666 | [62666-the-order-1886-blackwater-edition.json](./62666-the-order-1886-blackwater-edition.json) |
 | The Oregon Trail: 3rd Edition | 73240 | [73240-the-oregon-trail-3rd-edition.json](./73240-the-oregon-trail-3rd-edition.json) |
 | The Oregon Trail: 40th Anniversary Edition | 202693 | [202693-the-oregon-trail-40th-anniversary-edition.json](./202693-the-oregon-trail-40th-anniversary-edition.json) |
+| The Oregon Trail: 5th Edition | 68343 | [68343-the-oregon-trail-5th-edition.json](./68343-the-oregon-trail-5th-edition.json) |
 | The Oregon Trail: Boom Town | 247177 | [247177-the-oregon-trail-boom-town.json](./247177-the-oregon-trail-boom-town.json) |
 | The Oregon Trail: Classic Edition | 82073 | [82073-the-oregon-trail-classic-edition.json](./82073-the-oregon-trail-classic-edition.json) |
 | The Origin of Hope | 241504 | [241504-the-origin-of-hope.json](./241504-the-origin-of-hope.json) |
