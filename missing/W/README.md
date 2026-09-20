@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Fantasy | 220750 | [220750-west-fantasy.json](./220750-west-fantasy.json) |
 | West Game | 199076 | [199076-west-game.json](./199076-west-game.json) |
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
+| West Mafia Redemption | 95882 | [95882-west-mafia-redemption.json](./95882-west-mafia-redemption.json) |
 | West of Dead: Path of the Crow Edition | 154954 | [154954-west-of-dead-path-of-the-crow-edition.json](./154954-west-of-dead-path-of-the-crow-edition.json) |
 | West Ride | 256334 | [256334-west-ride.json](./256334-west-ride.json) |
 | West Sweety | 127019 | [127019-west-sweety.json](./127019-west-sweety.json) |
