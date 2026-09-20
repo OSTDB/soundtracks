@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ketsugou Danshi: Elements with Emotions - Zenshi Konkan Pack | 260691 | [260691-ketsugou-danshi-elements-with-emotions-zenshi-konkan-pack.json](./260691-ketsugou-danshi-elements-with-emotions-zenshi-konkan-pack.json) |
 | Ketsui: Kizuna Jigoku Tachi Extra | 79853 | [79853-ketsui-kizuna-jigoku-tachi-extra.json](./79853-ketsui-kizuna-jigoku-tachi-extra.json) |
 | Ketsui: Kizuna Jigoku-tachi | 214717 | [214717-ketsui-kizuna-jigoku-tachi.json](./214717-ketsui-kizuna-jigoku-tachi.json) |
+| Ketto Majiku | 105123 | [105123-ketto-majiku.json](./105123-ketto-majiku.json) |
 | Kevin Keegan's Player Manager | 42618 | [42618-kevin-keegans-player-manager.json](./42618-kevin-keegans-player-manager.json) |
 | Kevin's Playing In Berlin | 383397 | [383397-kevins-playing-in-berlin.json](./383397-kevins-playing-in-berlin.json) |
 | Kevtris | 68719 | [68719-kevtris.json](./68719-kevtris.json) |
@@ -701,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Vehicles Fire Truck games | 107649 | [107649-kids-vehicles-fire-truck-games.json](./107649-kids-vehicles-fire-truck-games.json) |
 | Kids: Zoo Puzzle | 215395 | [215395-kids-zoo-puzzle.json](./215395-kids-zoo-puzzle.json) |
 | Kidsongs: Musical Mystery | 197865 | [197865-kidsongs-musical-mystery.json](./197865-kidsongs-musical-mystery.json) |
+| Kidz | 105088 | [105088-kidz.json](./105088-kidz.json) |
 | Kiem Ma 3D | 224032 | [224032-kiem-ma-3d.json](./224032-kiem-ma-3d.json) |
 | Kiipluu | 360602 | [360602-kiipluu.json](./360602-kiipluu.json) |
 | Kiitsu | 96734 | [96734-kiitsu.json](./96734-kiitsu.json) |
@@ -1252,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Kitty Bang Bang | 179146 | [179146-kitty-kitty-bang-bang.json](./179146-kitty-kitty-bang-bang.json) |
 | Kitty Letter | 145044 | [145044-kitty-letter.json](./145044-kitty-letter.json) |
 | Kitty Loves Birds | 346601 | [346601-kitty-loves-birds.json](./346601-kitty-loves-birds.json) |
+| Kitty Play | 105079 | [105079-kitty-play.json](./105079-kitty-play.json) |
 | Kitty Powers' Matchmaker Makeover | 388047 | [388047-kitty-powers-matchmaker-makeover.json](./388047-kitty-powers-matchmaker-makeover.json) |
 | Kitty Powers' Matchmaker: Deluxe Edition | 146689 | [146689-kitty-powers-matchmaker-deluxe-edition.json](./146689-kitty-powers-matchmaker-deluxe-edition.json) |
 | Kitty Rainbow | 136466 | [136466-kitty-rainbow.json](./136466-kitty-rainbow.json) |
