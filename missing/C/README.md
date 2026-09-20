@@ -3274,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clouzy! | 136984 | [136984-clouzy.json](./136984-clouzy.json) |
 | Clover Day's Plus | 254554 | [254554-clover-days-plus.json](./254554-clover-days-plus.json) |
 | Clover Heart's: Looking for Happiness | 69282 | [69282-clover-hearts-looking-for-happiness.json](./69282-clover-hearts-looking-for-happiness.json) |
+| Clover no Kuni no Alice: Wonderful Wonder World | 64667 | [64667-clover-no-kuni-no-alice-wonderful-wonder-world.json](./64667-clover-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Clover's Quadrants | 392120 | [392120-clovers-quadrants.json](./392120-clovers-quadrants.json) |
 | Cloverheart | 140019 | [140019-cloverheart.json](./140019-cloverheart.json) |
 | Clown | 169966 | [169966-clown.json](./169966-clown.json) |
@@ -5378,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cringegolf | 296386 | [296386-cringegolf.json](./296386-cringegolf.json) |
 | Crisis Action | 86093 | [86093-crisis-action.json](./86093-crisis-action.json) |
 | Crisis Brigade 2: Reloaded | 223144 | [223144-crisis-brigade-2-reloaded.json](./223144-crisis-brigade-2-reloaded.json) |
+| Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
 | Crisis of the Middle Ages | 118408 | [118408-crisis-of-the-middle-ages.json](./118408-crisis-of-the-middle-ages.json) |
 | Crisis on Nova 2 | 157192 | [157192-crisis-on-nova-2.json](./157192-crisis-on-nova-2.json) |
