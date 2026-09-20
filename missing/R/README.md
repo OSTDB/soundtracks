@@ -1084,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Roar | 408736 | [408736-rebel-roar.json](./408736-rebel-roar.json) |
 | Rebellion: A Rogue Souls Like | 153393 | [153393-rebellion-a-rogue-souls-like.json](./153393-rebellion-a-rogue-souls-like.json) |
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
+| Rebels Prison Escape | 71233 | [71233-rebels-prison-escape.json](./71233-rebels-prison-escape.json) |
 | Rebirth | 116854 | [116854-rebirth.json](./116854-rebirth.json) |
 | Rebirth | 345525 | [345525-rebirth.json](./345525-rebirth.json) |
 | Rebirth | 78571 | [78571-rebirth.json](./78571-rebirth.json) |
@@ -1308,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Wings: Coloring Planes | 192405 | [192405-red-wings-coloring-planes.json](./192405-red-wings-coloring-planes.json) |
 | Red Wolf | 378200 | [378200-red-wolf.json](./378200-red-wolf.json) |
 | Red World Fan Fork | 398440 | [398440-red-world-fan-fork.json](./398440-red-world-fan-fork.json) |
+| Red Wrecker | 71204 | [71204-red-wrecker.json](./71204-red-wrecker.json) |
 | Red Yet Capers: Math vs Mayhem | 193420 | [193420-red-yet-capers-math-vs-mayhem.json](./193420-red-yet-capers-math-vs-mayhem.json) |
 | Red-Handed Robin | 179691 | [179691-red-handed-robin.json](./179691-red-handed-robin.json) |
 | Red, Blue, and Green | 135253 | [135253-red-blue-and-green.json](./135253-red-blue-and-green.json) |
@@ -3389,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
 | RON 13:13 Retaliation | 71005 | [71005-ron-13-13-retaliation.json](./71005-ron-13-13-retaliation.json) |
 | Ron 13:13^2: The Thickening | 71003 | [71003-ron-13-13-2-the-thickening.json](./71003-ron-13-13-2-the-thickening.json) |
+| RON Quiz Part 1 | 71239 | [71239-ron-quiz-part-1.json](./71239-ron-quiz-part-1.json) |
 | Ron-Q! Highland in DS | 123403 | [123403-ron-q-highland-in-ds.json](./123403-ron-q-highland-in-ds.json) |
 | Ronald McDonalds | 255715 | [255715-ronald-mcdonalds.json](./255715-ronald-mcdonalds.json) |
 | Ronald Rubberduck | 47205 | [47205-ronald-rubberduck.json](./47205-ronald-rubberduck.json) |
@@ -3649,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Dungeon | 205605 | [205605-royal-dungeon.json](./205605-royal-dungeon.json) |
 | Royal Envoy 2: Collector's Edition | 201855 | [201855-royal-envoy-2-collectors-edition.json](./201855-royal-envoy-2-collectors-edition.json) |
 | Royal Envoy 3: Collector's Edition | 132804 | [132804-royal-envoy-3-collectors-edition.json](./132804-royal-envoy-3-collectors-edition.json) |
+| Royal Escape | 71203 | [71203-royal-escape.json](./71203-royal-escape.json) |
 | Royal Farm | 254750 | [254750-royal-farm.json](./254750-royal-farm.json) |
 | Royal Garden Tales | 95878 | [95878-royal-garden-tales.json](./95878-royal-garden-tales.json) |
 | Royal Gems | 116332 | [116332-royal-gems.json](./116332-royal-gems.json) |
@@ -3743,6 +3747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubi: The Wayward Mira | 55180 | [55180-rubi-the-wayward-mira.json](./55180-rubi-the-wayward-mira.json) |
 | Rubicon | 79242 | [79242-rubicon.json](./79242-rubicon.json) |
 | Rubicon Approach | 83944 | [83944-rubicon-approach.json](./83944-rubicon-approach.json) |
+| Rubik's Cube | 71210 | [71210-rubiks-cube.json](./71210-rubiks-cube.json) |
 | Rubik's Cube 3-D | 40755 | [40755-rubiks-cube-3-d.json](./40755-rubiks-cube-3-d.json) |
 | Rubik's Cube Challenge | 209026 | [209026-rubiks-cube-challenge.json](./209026-rubiks-cube-challenge.json) |
 | Rubik's Cube VR | 112126 | [112126-rubiks-cube-vr.json](./112126-rubiks-cube-vr.json) |
