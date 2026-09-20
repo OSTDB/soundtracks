@@ -3637,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rozalin and the Palace of Flowers | 150669 | [150669-rozalin-and-the-palace-of-flowers.json](./150669-rozalin-and-the-palace-of-flowers.json) |
 | Rozen Maiden AliBat: Record of Rozen War | 124736 | [124736-rozen-maiden-alibat-record-of-rozen-war.json](./124736-rozen-maiden-alibat-record-of-rozen-war.json) |
 | Rozen Maiden: Wechseln Sie Welt ab | 86091 | [86091-rozen-maiden-wechseln-sie-welt-ab.json](./86091-rozen-maiden-wechseln-sie-welt-ab.json) |
+| RPaints | 91727 | [91727-rpaints.json](./91727-rpaints.json) |
 | RPG Alchemy: Bestiary I | 324487 | [324487-rpg-alchemy-bestiary-i.json](./324487-rpg-alchemy-bestiary-i.json) |
 | RPG Boss Battle | 104441 | [104441-rpg-boss-battle.json](./104441-rpg-boss-battle.json) |
 | RPG Bundle | 263559 | [263559-rpg-bundle.json](./263559-rpg-bundle.json) |
