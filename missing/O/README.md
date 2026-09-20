@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenLoco | 138233 | [138233-openloco.json](./138233-openloco.json) |
 | OpenMMO | 410878 | [410878-openmmo.json](./410878-openmmo.json) |
 | OpenMW | 111444 | [111444-openmw.json](./111444-openmw.json) |
+| OpenQuest | 94550 | [94550-openquest.json](./94550-openquest.json) |
 | OpenQuiz | 246110 | [246110-openquiz.json](./246110-openquiz.json) |
 | OpenSpades | 98371 | [98371-openspades.json](./98371-openspades.json) |
 | OpenTaiko | 323888 | [323888-opentaiko.json](./323888-opentaiko.json) |
@@ -1785,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over the Net | 87181 | [87181-over-the-net.json](./87181-over-the-net.json) |
 | Over The Phone | 282676 | [282676-over-the-phone.json](./282676-over-the-phone.json) |
 | Over the Radio | 369086 | [369086-over-the-radio.json](./369086-over-the-radio.json) |
+| Over the Top: The World Arm Wrestling Championship | 94563 | [94563-over-the-top-the-world-arm-wrestling-championship.json](./94563-over-the-top-the-world-arm-wrestling-championship.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
 | Overage: Child of Chaos | 203306 | [203306-overage-child-of-chaos.json](./203306-overage-child-of-chaos.json) |
 | Overbeast | 247169 | [247169-overbeast.json](./247169-overbeast.json) |
