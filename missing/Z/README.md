@@ -88,6 +88,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zanfium Tower | 173838 | [173838-zanfium-tower.json](./173838-zanfium-tower.json) |
 | Zangyura | 138717 | [138717-zangyura.json](./138717-zangyura.json) |
 | Zankoi's Chronicles | 255959 | [255959-zankois-chronicles.json](./255959-zankois-chronicles.json) |
+| Zany Kong | 98231 | [98231-zany-kong.json](./98231-zany-kong.json) |
+| Zany Kong Junior | 98232 | [98232-zany-kong-junior.json](./98232-zany-kong-junior.json) |
 | Zǎojiào Lèyuán: Wǒ de Tónghuà Huìběn - Xiǎo Hǎitù de Gùshì | 260973 | [260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json](./260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json) |
 | Zap 21 | 78067 | [78067-zap-21.json](./78067-zap-21.json) |
 | Zap Dem Rats | 195194 | [195194-zap-dem-rats.json](./195194-zap-dem-rats.json) |
