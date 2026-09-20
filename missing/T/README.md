@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Ants | 232143 | [232143-tap-tap-ants.json](./232143-tap-tap-ants.json) |
 | Tap Tap Blocks | 27647 | [27647-tap-tap-blocks.json](./27647-tap-tap-blocks.json) |
 | Tap Tap Builder | 75141 | [75141-tap-tap-builder.json](./75141-tap-tap-builder.json) |
+| Tap tap cartoonist - Cartoon999 | 95824 | [95824-tap-tap-cartoonist-cartoon999.json](./95824-tap-tap-cartoonist-cartoon999.json) |
 | Tap Tap Dash | 88877 | [88877-tap-tap-dash.json](./88877-tap-tap-dash.json) |
 | Tap Tap Dig 2 | 220192 | [220192-tap-tap-dig-2.json](./220192-tap-tap-dig-2.json) |
 | Tap Tap Dunk | 102161 | [102161-tap-tap-dunk.json](./102161-tap-tap-dunk.json) |
@@ -3873,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Mage | 350430 | [350430-the-last-mage.json](./350430-the-last-mage.json) |
 | The Last Man Survivor | 258529 | [258529-the-last-man-survivor.json](./258529-the-last-man-survivor.json) |
 | The Last Matches | 213960 | [213960-the-last-matches.json](./213960-the-last-matches.json) |
+| The Last Maverick: Survival Raft Adventure | 95876 | [95876-the-last-maverick-survival-raft-adventure.json](./95876-the-last-maverick-survival-raft-adventure.json) |
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
 | The Last Mission | 55078 | [55078-the-last-mission.json](./55078-the-last-mission.json) |
 | The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
@@ -3960,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Leeds Devil | 188514 | [188514-the-leeds-devil.json](./188514-the-leeds-devil.json) |
 | The Left Eye | 351114 | [351114-the-left-eye.json](./351114-the-left-eye.json) |
 | The Legacy | 378776 | [378776-the-legacy.json](./378776-the-legacy.json) |
+| The Legacy 2 | 95830 | [95830-the-legacy-2.json](./95830-the-legacy-2.json) |
 | The Legacy of Lunatic Omsk | 321748 | [321748-the-legacy-of-lunatic-omsk.json](./321748-the-legacy-of-lunatic-omsk.json) |
 | The Legacy: Realm of Terror | 79233 | [79233-the-legacy-realm-of-terror.json](./79233-the-legacy-realm-of-terror.json) |
 | The Legacy: The Tree of Might | 112988 | [112988-the-legacy-the-tree-of-might.json](./112988-the-legacy-the-tree-of-might.json) |
@@ -10458,6 +10461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Rockets | 392290 | [392290-twin-rockets.json](./392290-twin-rockets.json) |
 | Twin Ruin | 119729 | [119729-twin-ruin.json](./119729-twin-ruin.json) |
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
+| Twin Sisters Ballerina: Dance, Ballet, Dress up | 95845 | [95845-twin-sisters-ballerina-dance-ballet-dress-up.json](./95845-twin-sisters-ballerina-dance-ballet-dress-up.json) |
 | Twin Soul | 356067 | [356067-twin-soul.json](./356067-twin-soul.json) |
 | Twin Soul | 96113 | [96113-twin-soul.json](./96113-twin-soul.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
