@@ -1420,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty: Sweet Little Shops | 206159 | [206159-hello-kitty-sweet-little-shops.json](./206159-hello-kitty-sweet-little-shops.json) |
 | Hello Kitty: Tennis School | 205626 | [205626-hello-kitty-tennis-school.json](./205626-hello-kitty-tennis-school.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
+| Hello Lady! | 95168 | [95168-hello-lady.json](./95168-hello-lady.json) |
 | Hello Lady! Complete Edition | 187447 | [187447-hello-lady-complete-edition.json](./187447-hello-lady-complete-edition.json) |
 | Hello Loaf | 367496 | [367496-hello-loaf.json](./367496-hello-loaf.json) |
 | Hello Neighbor 2: Deluxe Edition | 196805 | [196805-hello-neighbor-2-deluxe-edition.json](./196805-hello-neighbor-2-deluxe-edition.json) |
@@ -3025,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooked on You: A Dead by Daylight Dating Sim | 202141 | [202141-hooked-on-you-a-dead-by-daylight-dating-sim.json](./202141-hooked-on-you-a-dead-by-daylight-dating-sim.json) |
 | Hooked! Again: Real Motion Fishing | 50627 | [50627-hooked-again-real-motion-fishing.json](./50627-hooked-again-real-motion-fishing.json) |
 | Hooking Season | 211192 | [211192-hooking-season.json](./211192-hooking-season.json) |
+| Hooligan Vasja 2: Journey through time | 95177 | [95177-hooligan-vasja-2-journey-through-time.json](./95177-hooligan-vasja-2-journey-through-time.json) |
 | Hooligan Vasja: Halloween | 41899 | [41899-hooligan-vasja-halloween.json](./41899-hooligan-vasja-halloween.json) |
 | Hooligans: Storm Over Europe | 73846 | [73846-hooligans-storm-over-europe.json](./73846-hooligans-storm-over-europe.json) |
 | Hools: Football Club Territory | 81353 | [81353-hools-football-club-territory.json](./81353-hools-football-club-territory.json) |
