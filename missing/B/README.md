@@ -2125,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Lost Planets | 386300 | [386300-beyond-lost-planets.json](./386300-beyond-lost-planets.json) |
 | Beyond Magic | 32941 | [32941-beyond-magic.json](./32941-beyond-magic.json) |
 | Beyond Memoria | 386302 | [386302-beyond-memoria.json](./386302-beyond-memoria.json) |
+| Beyond Perception | 108845 | [108845-beyond-perception.json](./108845-beyond-perception.json) |
 | Beyond Protocol | 72646 | [72646-beyond-protocol.json](./72646-beyond-protocol.json) |
 | Beyond Senses | 124169 | [124169-beyond-senses.json](./124169-beyond-senses.json) |
 | Beyond Silence | 363964 | [363964-beyond-silence.json](./363964-beyond-silence.json) |
@@ -2859,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Blazer | 370154 | [370154-blade-blazer.json](./370154-blade-blazer.json) |
 | Blade Bouncer 2: Revolution | 317823 | [317823-blade-bouncer-2-revolution.json](./317823-blade-bouncer-2-revolution.json) |
 | Blade Bound | 174817 | [174817-blade-bound.json](./174817-blade-bound.json) |
+| Blade Crafter | 108871 | [108871-blade-crafter.json](./108871-blade-crafter.json) |
 | Blade Crafter | 248151 | [248151-blade-crafter.json](./248151-blade-crafter.json) |
 | Blade Crusade | 190210 | [190210-blade-crusade.json](./190210-blade-crusade.json) |
 | Blade of Chaos: Immortal Titan | 224093 | [224093-blade-of-chaos-immortal-titan.json](./224093-blade-of-chaos-immortal-titan.json) |
@@ -2878,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Warrior | 14313 | [14313-blade-warrior.json](./14313-blade-warrior.json) |
 | Blade: Trinity | 322358 | [322358-blade-trinity.json](./322358-blade-trinity.json) |
 | Blade's Legacy | 88081 | [88081-blades-legacy.json](./88081-blades-legacy.json) |
+| Blademaker: Arms Shop | 108825 | [108825-blademaker-arms-shop.json](./108825-blademaker-arms-shop.json) |
 | Bladenet | 68166 | [68166-bladenet.json](./68166-bladenet.json) |
 | Bladequest: The First Chapter - Gold | 106548 | [106548-bladequest-the-first-chapter-gold.json](./106548-bladequest-the-first-chapter-gold.json) |
 | Blades and Bullets | 277279 | [277279-blades-and-bullets.json](./277279-blades-and-bullets.json) |
@@ -4375,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain You Later | 135677 | [135677-brain-you-later.json](./135677-brain-you-later.json) |
 | BrainBread | 138773 | [138773-brainbread.json](./138773-brainbread.json) |
 | brainCloud Bombers | 120400 | [120400-braincloud-bombers.json](./120400-braincloud-bombers.json) |
+| Braindead, Your Majesty | 108827 | [108827-braindead-your-majesty.json](./108827-braindead-your-majesty.json) |
 | Brainmelter Deluxe | 112780 | [112780-brainmelter-deluxe.json](./112780-brainmelter-deluxe.json) |
 | BrainRot | 336518 | [336518-brainrot.json](./336518-brainrot.json) |
 | Brainrot Dash | 338791 | [338791-brainrot-dash.json](./338791-brainrot-dash.json) |
@@ -5314,6 +5318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burglar Inc | 290923 | [290923-burglar-inc.json](./290923-burglar-inc.json) |
 | BuriBoard | 173256 | [173256-buriboard.json](./173256-buriboard.json) |
 | Buried Alive: Breathless Rescue | 258999 | [258999-buried-alive-breathless-rescue.json](./258999-buried-alive-breathless-rescue.json) |
+| Buried Beneath | 108849 | [108849-buried-beneath.json](./108849-buried-beneath.json) |
 | Buried Buck$ | 76595 | [76595-buried-buck.json](./76595-buried-buck.json) |
 | Buried Chambers | 129704 | [129704-buried-chambers.json](./129704-buried-chambers.json) |
 | Buried Memories | 317448 | [317448-buried-memories.json](./317448-buried-memories.json) |
