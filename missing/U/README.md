@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Vleurette | 267356 | [267356-ultra-vleurette.json](./267356-ultra-vleurette.json) |
 | Ultra Void | 402985 | [402985-ultra-void.json](./402985-ultra-void.json) |
 | Ultra Vortek | 40822 | [40822-ultra-vortek.json](./40822-ultra-vortek.json) |
+| Ultra Vortex | 78986 | [78986-ultra-vortex.json](./78986-ultra-vortex.json) |
 | Ultra0 | 391033 | [391033-ultra0.json](./391033-ultra0.json) |
 | Ultrabox | 267943 | [267943-ultrabox.json](./267943-ultrabox.json) |
 | Ultrabox No. 2 | 267942 | [267942-ultrabox-no-2.json](./267942-ultrabox-no-2.json) |
@@ -321,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman 2: Shutsugeki Katoku Tai | 41323 | [41323-ultraman-2-shutsugeki-katoku-tai.json](./41323-ultraman-2-shutsugeki-katoku-tai.json) |
 | Ultraman All-Star Chronicle | 59362 | [59362-ultraman-all-star-chronicle.json](./59362-ultraman-all-star-chronicle.json) |
 | Ultraman Ball | 76600 | [76600-ultraman-ball.json](./76600-ultraman-ball.json) |
+| Ultraman Fighting Evolution | 78940 | [78940-ultraman-fighting-evolution.json](./78940-ultraman-fighting-evolution.json) |
 | Ultraman Fighting Evolution 2 | 72608 | [72608-ultraman-fighting-evolution-2.json](./72608-ultraman-fighting-evolution-2.json) |
 | Ultraman: Kaijuu Teikoku no Gyakushuu | 41333 | [41333-ultraman-kaijuu-teikoku-no-gyakushuu.json](./41333-ultraman-kaijuu-teikoku-no-gyakushuu.json) |
 | Ultranatural | 337447 | [337447-ultranatural.json](./337447-ultranatural.json) |
@@ -1125,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UT Realms Reborn | 122992 | [122992-ut-realms-reborn.json](./122992-ut-realms-reborn.json) |
 | Ut: Kissy Cutie | 179615 | [179615-ut-kissy-cutie.json](./179615-ut-kissy-cutie.json) |
 | Uta Kumi 575 | 42670 | [42670-uta-kumi-575.json](./42670-uta-kumi-575.json) |
+| Uta Macross Sma-Pho De-Culture | 78969 | [78969-uta-macross-sma-pho-de-culture.json](./78969-uta-macross-sma-pho-de-culture.json) |
 | Uta no Prince-sama: All Star After Secret for Nintendo Switch | 222998 | [222998-uta-no-prince-sama-all-star-after-secret-for-nintendo-switch.json](./222998-uta-no-prince-sama-all-star-after-secret-for-nintendo-switch.json) |
 | Uta no Prince-sama: Amazing Aria & Sweet Serenade Love | 136840 | [136840-uta-no-prince-sama-amazing-aria-and-sweet-serenade-love.json](./136840-uta-no-prince-sama-amazing-aria-and-sweet-serenade-love.json) |
 | Uta no Prince-sama: Dolce Vita | 222999 | [222999-uta-no-prince-sama-dolce-vita.json](./222999-uta-no-prince-sama-dolce-vita.json) |
