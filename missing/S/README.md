@@ -2509,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherman Commander | 155650 | [155650-sherman-commander.json](./155650-sherman-commander.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
+| Shí zhī Fēi | 119565 | [119565-shi-zhi-fei.json](./119565-shi-zhi-fei.json) |
 | Shi's Summer Battle | 360683 | [360683-shis-summer-battle.json](./360683-shis-summer-battle.json) |
 | Shia LaBeouf: Meme Master Dating Simulator | 12076 | [12076-shia-labeouf-meme-master-dating-simulator.json](./12076-shia-labeouf-meme-master-dating-simulator.json) |
 | Shiba Cafe | 177516 | [177516-shiba-cafe.json](./177516-shiba-cafe.json) |
@@ -6568,6 +6569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Blocks | 182968 | [182968-spell-blocks.json](./182968-spell-blocks.json) |
 | Spell Breakers | 233104 | [233104-spell-breakers.json](./233104-spell-breakers.json) |
 | Spell Caster: Puzzle RPG | 233107 | [233107-spell-caster-puzzle-rpg.json](./233107-spell-caster-puzzle-rpg.json) |
+| Spell Casting: Purrfectly Portable Edition | 119541 | [119541-spell-casting-purrfectly-portable-edition.json](./119541-spell-casting-purrfectly-portable-edition.json) |
 | Spell Castle | 84181 | [84181-spell-castle.json](./84181-spell-castle.json) |
 | Spell Dash | 174320 | [174320-spell-dash.json](./174320-spell-dash.json) |
 | Spell Defender | 215715 | [215715-spell-defender.json](./215715-spell-defender.json) |
@@ -7018,6 +7020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Party | 110057 | [110057-sports-party.json](./110057-sports-party.json) |
 | Sports Pinball Bundle | 153837 | [153837-sports-pinball-bundle.json](./153837-sports-pinball-bundle.json) |
 | Sports: Renovations | 314456 | [314456-sports-renovations.json](./314456-sports-renovations.json) |
+| Spot | 119584 | [119584-spot.json](./119584-spot.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
 | Spot the Cat | 378285 | [378285-spot-the-cat.json](./378285-spot-the-cat.json) |
