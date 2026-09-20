@@ -3509,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokkén Tournament DX: Battle Pack | 237933 | [237933-pokken-tournament-dx-battle-pack.json](./237933-pokken-tournament-dx-battle-pack.json) |
 | Pokkén Tournament: Update Ver.C07 | 300366 | [300366-pokken-tournament-update-ver-c07.json](./300366-pokken-tournament-update-ver-c07.json) |
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
+| Poko Memorial: 18th Hole Miniature Golf | 73537 | [73537-poko-memorial-18th-hole-miniature-golf.json](./73537-poko-memorial-18th-hole-miniature-golf.json) |
 | Pokor | 397770 | [397770-pokor.json](./397770-pokor.json) |
 | Pokris | 116099 | [116099-pokris.json](./116099-pokris.json) |
 | Pokubittu | 97836 | [97836-pokubittu.json](./97836-pokubittu.json) |
@@ -5505,6 +5506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Light: Rotate | 152763 | [152763-puzzle-light-rotate.json](./152763-puzzle-light-rotate.json) |
 | Puzzle Lights and Mushrooms 1000 | 334103 | [334103-puzzle-lights-and-mushrooms-1000.json](./334103-puzzle-lights-and-mushrooms-1000.json) |
 | Puzzle Maker | 291238 | [291238-puzzle-maker.json](./291238-puzzle-maker.json) |
+| Puzzle Mania: Chronicles of the Unicorn | 73523 | [73523-puzzle-mania-chronicles-of-the-unicorn.json](./73523-puzzle-mania-chronicles-of-the-unicorn.json) |
 | Puzzle Master | 49951 | [49951-puzzle-master.json](./49951-puzzle-master.json) |
 | Puzzle Master 2 | 145642 | [145642-puzzle-master-2.json](./145642-puzzle-master-2.json) |
 | Puzzle Masters | 104657 | [104657-puzzle-masters.json](./104657-puzzle-masters.json) |
