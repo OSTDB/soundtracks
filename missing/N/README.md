@@ -1402,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightline | 132031 | [132031-nightline.json](./132031-nightline.json) |
 | Nightly Maintenance | 196852 | [196852-nightly-maintenance.json](./196852-nightly-maintenance.json) |
 | NightmAR Protocol | 158074 | [158074-nightmar-protocol.json](./158074-nightmar-protocol.json) |
+| Nightmare | 118819 | [118819-nightmare.json](./118819-nightmare.json) |
 | Nightmare | 216987 | [216987-nightmare.json](./216987-nightmare.json) |
 | Nightmare | 252735 | [252735-nightmare.json](./252735-nightmare.json) |
 | Nightmare | 393515 | [393515-nightmare.json](./393515-nightmare.json) |
