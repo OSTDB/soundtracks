@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icee Maker | 159259 | [159259-icee-maker.json](./159259-icee-maker.json) |
 | Icee Slush Rush | 352751 | [352751-icee-slush-rush.json](./352751-icee-slush-rush.json) |
 | Iceman: Digital PlayStage | 180837 | [180837-iceman-digital-playstage.json](./180837-iceman-digital-playstage.json) |
+| Icesolation | 116121 | [116121-icesolation.json](./116121-icesolation.json) |
 | Icewind Dale | 753 | [753-icewind-dale.json](./753-icewind-dale.json) |
 | Icewind Dale II: Collector's Edition | 232152 | [232152-icewind-dale-ii-collectors-edition.json](./232152-icewind-dale-ii-collectors-edition.json) |
 | Icewind Dale: Complete | 143699 | [143699-icewind-dale-complete.json](./143699-icewind-dale-complete.json) |
@@ -1420,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspector Gadget: Mad Time Party | 247190 | [247190-inspector-gadget-mad-time-party.json](./247190-inspector-gadget-mad-time-party.json) |
 | Inspector Ooh: The Great Monkey Detective | 98470 | [98470-inspector-ooh-the-great-monkey-detective.json](./98470-inspector-ooh-the-great-monkey-detective.json) |
 | Inspector Waffles: Purrluxe Edition | 154522 | [154522-inspector-waffles-purrluxe-edition.json](./154522-inspector-waffles-purrluxe-edition.json) |
+| Inspektor Zebok: Das Erbe | 116139 | [116139-inspektor-zebok-das-erbe.json](./116139-inspektor-zebok-das-erbe.json) |
 | InSpheration | 53234 | [53234-inspheration.json](./53234-inspheration.json) |
 | Inspiral: Echoes of Gravity | 372462 | [372462-inspiral-echoes-of-gravity.json](./372462-inspiral-echoes-of-gravity.json) |
 | Inspire | 298302 | [298302-inspire.json](./298302-inspire.json) |
