@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Space Station | 116989 | [116989-universal-space-station.json](./116989-universal-space-station.json) |
 | Universal Studios Monsters: Monsterville | 12904 | [12904-universal-studios-monsters-monsterville.json](./12904-universal-studios-monsters-monsterville.json) |
 | Universal Truck Simulator | 220211 | [220211-universal-truck-simulator.json](./220211-universal-truck-simulator.json) |
+| Universal Warrior | 70115 | [70115-universal-warrior.json](./70115-universal-warrior.json) |
 | Universally Loved | 106561 | [106561-universally-loved.json](./106561-universally-loved.json) |
 | Universe | 130867 | [130867-universe.json](./130867-universe.json) |
 | Universe 24 | 116301 | [116301-universe-24.json](./116301-universe-24.json) |
