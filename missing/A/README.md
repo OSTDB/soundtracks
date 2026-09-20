@@ -3184,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: A-Jax | 99563 | [99563-arcade-archives-a-jax.json](./99563-arcade-archives-a-jax.json) |
 | Arcade Archives: Adventure Canoe | 392765 | [392765-arcade-archives-adventure-canoe.json](./392765-arcade-archives-adventure-canoe.json) |
 | Arcade Archives: Aero Fighters | 280360 | [280360-arcade-archives-aero-fighters.json](./280360-arcade-archives-aero-fighters.json) |
+| Arcade Archives: Alpha Mission | 111459 | [111459-arcade-archives-alpha-mission.json](./111459-arcade-archives-alpha-mission.json) |
 | Arcade Archives: Aqua Jet | 361237 | [361237-arcade-archives-aqua-jet.json](./361237-arcade-archives-aqua-jet.json) |
 | Arcade Archives: Ark Area | 121425 | [121425-arcade-archives-ark-area.json](./121425-arcade-archives-ark-area.json) |
 | Arcade Archives: Armed F | 99546 | [99546-arcade-archives-armed-f.json](./99546-arcade-archives-armed-f.json) |
@@ -3236,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Mutant Night | 121427 | [121427-arcade-archives-mutant-night.json](./121427-arcade-archives-mutant-night.json) |
 | Arcade Archives: Mystic Warriors | 282155 | [282155-arcade-archives-mystic-warriors.json](./282155-arcade-archives-mystic-warriors.json) |
 | Arcade Archives: Ninja Spirit | 120330 | [120330-arcade-archives-ninja-spirit.json](./120330-arcade-archives-ninja-spirit.json) |
+| Arcade Archives: Ninja-Kid II | 111458 | [111458-arcade-archives-ninja-kid-ii.json](./111458-arcade-archives-ninja-kid-ii.json) |
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
 | Arcade Archives: Phelios | 234631 | [234631-arcade-archives-phelios.json](./234631-arcade-archives-phelios.json) |
@@ -4217,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Blockade | 359444 | [359444-asteroid-blockade.json](./359444-asteroid-blockade.json) |
 | Asteroid Breaker: Avoid the DizAsteroid | 105955 | [105955-asteroid-breaker-avoid-the-dizasteroid.json](./105955-asteroid-breaker-avoid-the-dizasteroid.json) |
 | Asteroid Challenge | 85505 | [85505-asteroid-challenge.json](./85505-asteroid-challenge.json) |
+| Asteroid Deathmatch | 111472 | [111472-asteroid-deathmatch.json](./111472-asteroid-deathmatch.json) |
 | Asteroid Evader | 178624 | [178624-asteroid-evader.json](./178624-asteroid-evader.json) |
 | Asteroid Fire | 40722 | [40722-asteroid-fire.json](./40722-asteroid-fire.json) |
 | Asteroid Hunter | 67932 | [67932-asteroid-hunter.json](./67932-asteroid-hunter.json) |
@@ -4351,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrodle | 291592 | [291592-astrodle.json](./291592-astrodle.json) |
 | Astrodrifter | 304682 | [304682-astrodrifter.json](./304682-astrodrifter.json) |
 | Astroflux | 32875 | [32875-astroflux.json](./32875-astroflux.json) |
+| AstroGenesis | 111498 | [111498-astrogenesis.json](./111498-astrogenesis.json) |
 | AstroGenesis: Boss Rush | 121041 | [121041-astrogenesis-boss-rush.json](./121041-astrogenesis-boss-rush.json) |
 | Astrogon | 139920 | [139920-astrogon.json](./139920-astrogon.json) |
 | Astrohazard Solutions Ltd. | 75772 | [75772-astrohazard-solutions-ltd.json](./75772-astrohazard-solutions-ltd.json) |
