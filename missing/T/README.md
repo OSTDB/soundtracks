@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Odyssey | 277406 | [277406-temporal-odyssey.json](./277406-temporal-odyssey.json) |
 | Temporal Purge: Z | 154378 | [154378-temporal-purge-z.json](./154378-temporal-purge-z.json) |
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
+| Temporus | 120797 | [120797-temporus.json](./120797-temporus.json) |
 | Tempres | 142881 | [142881-tempres.json](./142881-tempres.json) |
 | Temptations X: Darkest Fantasy | 149408 | [149408-temptations-x-darkest-fantasy.json](./149408-temptations-x-darkest-fantasy.json) |
 | Tempter | 309887 | [309887-tempter.json](./309887-tempter.json) |
@@ -2458,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crazed Chicken | 71000 | [71000-the-crazed-chicken.json](./71000-the-crazed-chicken.json) |
 | The Crazy Journalist | 199056 | [199056-the-crazy-journalist.json](./199056-the-crazy-journalist.json) |
 | The Creation of a Self | 149033 | [149033-the-creation-of-a-self.json](./149033-the-creation-of-a-self.json) |
+| The Creature | 120783 | [120783-the-creature.json](./120783-the-creature.json) |
 | The Creature Mafia | 415162 | [415162-the-creature-mafia.json](./415162-the-creature-mafia.json) |
 | The Creature Zone VR: Nightfall | 259834 | [259834-the-creature-zone-vr-nightfall.json](./259834-the-creature-zone-vr-nightfall.json) |
 | The Creature: Escape Room | 207538 | [207538-the-creature-escape-room.json](./207538-the-creature-escape-room.json) |
@@ -2489,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Croods: Prehistoric Party and Rise of the Guardians Combo Pack | 79313 | [79313-the-croods-prehistoric-party-and-rise-of-the-guardians-combo-pack.json](./79313-the-croods-prehistoric-party-and-rise-of-the-guardians-combo-pack.json) |
 | The Crooked Man | 46989 | [46989-the-crooked-man.json](./46989-the-crooked-man.json) |
 | The Crosley Tower Horror | 399709 | [399709-the-crosley-tower-horror.json](./399709-the-crosley-tower-horror.json) |
+| The Cross Horror Game | 120812 | [120812-the-cross-horror-game.json](./120812-the-cross-horror-game.json) |
 | The Crossroads | 179684 | [179684-the-crossroads.json](./179684-the-crossroads.json) |
 | The Crossroads | 326269 | [326269-the-crossroads.json](./326269-the-crossroads.json) |
 | The Crossroads | 411592 | [411592-the-crossroads.json](./411592-the-crossroads.json) |
@@ -3297,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Green Room Experiment: Episode 3 | 290011 | [290011-the-green-room-experiment-episode-3.json](./290011-the-green-room-experiment-episode-3.json) |
 | The Greenskins | 74374 | [74374-the-greenskins.json](./74374-the-greenskins.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
+| The Grim and I | 120837 | [120837-the-grim-and-i.json](./120837-the-grim-and-i.json) |
 | The Grim Ending | 148919 | [148919-the-grim-ending.json](./148919-the-grim-ending.json) |
 | The Grim Outpost | 271323 | [271323-the-grim-outpost.json](./271323-the-grim-outpost.json) |
 | The Grinding of Teeth | 271852 | [271852-the-grinding-of-teeth.json](./271852-the-grinding-of-teeth.json) |
