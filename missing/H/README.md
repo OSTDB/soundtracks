@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Bootcamp | 380573 | [380573-hero-bootcamp.json](./380573-hero-bootcamp.json) |
 | Hero Bump | 184101 | [184101-hero-bump.json](./184101-hero-bump.json) |
 | Hero Conquest | 83215 | [83215-hero-conquest.json](./83215-hero-conquest.json) |
+| Hero Defense: Haunted Island | 80217 | [80217-hero-defense-haunted-island.json](./80217-hero-defense-haunted-island.json) |
 | Hero Emblems II | 114777 | [114777-hero-emblems-ii.json](./114777-hero-emblems-ii.json) |
 | Hero Fighter | 66720 | [66720-hero-fighter.json](./66720-hero-fighter.json) |
 | Hero Fighters Club | 62693 | [62693-hero-fighters-club.json](./62693-hero-fighters-club.json) |
@@ -2509,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himig | 136989 | [136989-himig.json](./136989-himig.json) |
 | Himiko-Den Renge | 58779 | [58779-himiko-den-renge.json](./58779-himiko-den-renge.json) |
 | Himiko: I Must Kill Chikushoumaru | 82790 | [82790-himiko-i-must-kill-chikushoumaru.json](./82790-himiko-i-must-kill-chikushoumaru.json) |
+| Himitsu Chouhou Buin: 00Nanako-chan | 80246 | [80246-himitsu-chouhou-buin-00nanako-chan.json](./80246-himitsu-chouhou-buin-00nanako-chan.json) |
 | Himitsu Chouhou Buin: 00Nanako-chan II | 66055 | [66055-himitsu-chouhou-buin-00nanako-chan-ii.json](./66055-himitsu-chouhou-buin-00nanako-chan-ii.json) |
 | Himitsu Chouhou Buin: 00Nanako-chan III | 85875 | [85875-himitsu-chouhou-buin-00nanako-chan-iii.json](./85875-himitsu-chouhou-buin-00nanako-chan-iii.json) |
 | Himitsu no AiPri | 284918 | [284918-himitsu-no-aipri.json](./284918-himitsu-no-aipri.json) |
