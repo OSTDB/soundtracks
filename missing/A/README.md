@@ -3837,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arnaud Thion's Dragons | 185115 | [185115-arnaud-thions-dragons.json](./185115-arnaud-thions-dragons.json) |
 | Arnie | 14268 | [14268-arnie.json](./14268-arnie.json) |
 | Arnold Palmer Tournament Golf | 12869 | [12869-arnold-palmer-tournament-golf.json](./12869-arnold-palmer-tournament-golf.json) |
+| Aro | 96529 | [96529-aro.json](./96529-aro.json) |
 | Aro & Elmi | 146716 | [146716-aro-and-elmi.json](./146716-aro-and-elmi.json) |
 | Arobynn: Below The Surface | 248893 | [248893-arobynn-below-the-surface.json](./248893-arobynn-below-the-surface.json) |
 | Aroma | 226231 | [226231-aroma.json](./226231-aroma.json) |
@@ -4218,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assemble! | 304679 | [304679-assemble.json](./304679-assemble.json) |
 | Assembloids 2600 | 321557 | [321557-assembloids-2600.json](./321557-assembloids-2600.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
+| Assembly Required | 96496 | [96496-assembly-required.json](./96496-assembly-required.json) |
 | Assenizator | 355116 | [355116-assenizator.json](./355116-assenizator.json) |
 | Assetto Corsa | 5597 | [5597-assetto-corsa.json](./5597-assetto-corsa.json) |
 | Assetto Corsa Competizione | 171274 | [171274-assetto-corsa-competizione.json](./171274-assetto-corsa-competizione.json) |
