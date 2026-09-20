@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goalie VR | 67936 | [67936-goalie-vr.json](./67936-goalie-vr.json) |
 | GoalkeepVr | 29946 | [29946-goalkeepvr.json](./29946-goalkeepvr.json) |
 | goalunited PRO | 29778 | [29778-goalunited-pro.json](./29778-goalunited-pro.json) |
+| Goat Detective Supah Star | 115453 | [115453-goat-detective-supah-star.json](./115453-goat-detective-supah-star.json) |
 | Goat Herd and the Gods | 169889 | [169889-goat-herd-and-the-gods.json](./169889-goat-herd-and-the-gods.json) |
 | Goat of Duty | 118115 | [118115-goat-of-duty.json](./118115-goat-of-duty.json) |
 | Goat Runner | 84873 | [84873-goat-runner.json](./84873-goat-runner.json) |
@@ -2985,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars: Reforged | 380421 | [380421-guild-wars-reforged.json](./380421-guild-wars-reforged.json) |
 | GuildBound | 119791 | [119791-guildbound.json](./119791-guildbound.json) |
 | Guilded Hearts | 214037 | [214037-guilded-hearts.json](./214037-guilded-hearts.json) |
+| Guildmaster Story | 115475 | [115475-guildmaster-story.json](./115475-guildmaster-story.json) |
 | Guildmaster: Gratuitous Subtitle | 141021 | [141021-guildmaster-gratuitous-subtitle.json](./141021-guildmaster-gratuitous-subtitle.json) |
 | Guilds n Glory | 213001 | [213001-guilds-n-glory.json](./213001-guilds-n-glory.json) |
 | Guilds of Gods | 130775 | [130775-guilds-of-gods.json](./130775-guilds-of-gods.json) |
