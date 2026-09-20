@@ -1587,8 +1587,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Survivor Survivors | 413626 | [413626-internet-survivor-survivors.json](./413626-internet-survivor-survivors.json) |
 | Interphase | 129210 | [129210-interphase.json](./129210-interphase.json) |
 | Interplay Collection 2 | 130687 | [130687-interplay-collection-2.json](./130687-interplay-collection-2.json) |
+| Interplay's 10 Year Anthology: Classic Collection | 93381 | [93381-interplays-10-year-anthology-classic-collection.json](./93381-interplays-10-year-anthology-classic-collection.json) |
 | Interplay's Learn to Program Basic | 371865 | [371865-interplays-learn-to-program-basic.json](./371865-interplays-learn-to-program-basic.json) |
 | Interpoint | 115674 | [115674-interpoint.json](./115674-interpoint.json) |
+| Interpose | 93337 | [93337-interpose.json](./93337-interpose.json) |
 | Interrogation 091 | 184592 | [184592-interrogation-091.json](./184592-interrogation-091.json) |
 | Interrogation: You Will Be Deceived | 115118 | [115118-interrogation-you-will-be-deceived.json](./115118-interrogation-you-will-be-deceived.json) |
 | Intersection | 299751 | [299751-intersection.json](./299751-intersection.json) |
