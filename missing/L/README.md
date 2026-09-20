@@ -1655,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines - Best Puzzle Game | 87073 | [87073-lines-best-puzzle-game.json](./87073-lines-best-puzzle-game.json) |
 | Lines 3D | 140567 | [140567-lines-3d.json](./140567-lines-3d.json) |
 | Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
+| Lines Infinite | 124024 | [124024-lines-infinite.json](./124024-lines-infinite.json) |
 | Lines on Sides | 174224 | [174224-lines-on-sides.json](./174224-lines-on-sides.json) |
 | Lines Splitter | 142876 | [142876-lines-splitter.json](./142876-lines-splitter.json) |
 | Lines X Free | 107263 | [107263-lines-x-free.json](./107263-lines-x-free.json) |
@@ -1897,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Postman | 247758 | [247758-little-postman.json](./247758-little-postman.json) |
 | Little Princess | 70945 | [70945-little-princess.json](./70945-little-princess.json) |
 | Little Princess: Marl Oukoku no Ningyou Hime 2 | 43903 | [43903-little-princess-marl-oukoku-no-ningyou-hime-2.json](./43903-little-princess-marl-oukoku-no-ningyou-hime-2.json) |
+| Little Racer | 124023 | [124023-little-racer.json](./124023-little-racer.json) |
 | Little Rats' Big Top | 180804 | [180804-little-rats-big-top.json](./180804-little-rats-big-top.json) |
 | Little Re-collector | 369059 | [369059-little-re-collector.json](./369059-little-re-collector.json) |
 | Little Red Ball | 176384 | [176384-little-red-ball.json](./176384-little-red-ball.json) |
@@ -2690,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love of Renai Koutei of Love! | 172713 | [172713-love-of-renai-koutei-of-love.json](./172713-love-of-renai-koutei-of-love.json) |
 | Love on Leave | 247495 | [247495-love-on-leave.json](./247495-love-on-leave.json) |
 | Love on Paper | 158220 | [158220-love-on-paper.json](./158220-love-on-paper.json) |
+| Love or Die | 124041 | [124041-love-or-die.json](./124041-love-or-die.json) |
 | Love or Loved | 83592 | [83592-love-or-loved.json](./83592-love-or-loved.json) |
 | Love Pheromone | 205609 | [205609-love-pheromone.json](./205609-love-pheromone.json) |
 | Love Potion | 272364 | [272364-love-potion.json](./272364-love-potion.json) |
