@@ -2498,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himawari no Kyoukai to Nagai Natsuyasumi | 137108 | [137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json](./137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json) |
 | Himawari to Koi no Kioku | 194574 | [194574-himawari-to-koi-no-kioku.json](./194574-himawari-to-koi-no-kioku.json) |
 | Hime Hibi Zoku! 2 Gakki: New Princess Days!! | 59372 | [59372-hime-hibi-zoku-2-gakki-new-princess-days.json](./59372-hime-hibi-zoku-2-gakki-new-princess-days.json) |
+| Hime to Boin | 77669 | [77669-hime-to-boin.json](./77669-hime-to-boin.json) |
 | Hime to Otome no Yakimochi Love | 416692 | [416692-hime-to-otome-no-yakimochi-love.json](./416692-hime-to-otome-no-yakimochi-love.json) |
 | Hime's Blossom | 249473 | [249473-himes-blossom.json](./249473-himes-blossom.json) |
 | Himehibi: New Princess Days Zoku! Nigakki | 218483 | [218483-himehibi-new-princess-days-zoku-nigakki.json](./218483-himehibi-new-princess-days-zoku-nigakki.json) |
@@ -3268,6 +3269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horus Idle | 340485 | [340485-horus-idle.json](./340485-horus-idle.json) |
 | Hose Hero | 314032 | [314032-hose-hero.json](./314032-hose-hero.json) |
 | Hoshi & Ishi | 76673 | [76673-hoshi-and-ishi.json](./76673-hoshi-and-ishi.json) |
+| Hoshi de Hakken!! Tamagotchi | 77630 | [77630-hoshi-de-hakken-tamagotchi.json](./77630-hoshi-de-hakken-tamagotchi.json) |
 | Hoshi no Kakera no Monogatari. Shikake-ban | 220328 | [220328-hoshi-no-kakera-no-monogatari-shikake-ban.json](./220328-hoshi-no-kakera-no-monogatari-shikake-ban.json) |
 | Hoshi no Mahoroba | 204481 | [204481-hoshi-no-mahoroba.json](./204481-hoshi-no-mahoroba.json) |
 | Hoshi no Natchan | 285452 | [285452-hoshi-no-natchan.json](./285452-hoshi-no-natchan.json) |
