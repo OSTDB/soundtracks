@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Army Battle Simulator | 102734 | [102734-tank-army-battle-simulator.json](./102734-tank-army-battle-simulator.json) |
 | Tank Army: Fast Fingers Shmup | 175366 | [175366-tank-army-fast-fingers-shmup.json](./175366-tank-army-fast-fingers-shmup.json) |
 | Tank Attack | 273913 | [273913-tank-attack.json](./273913-tank-attack.json) |
+| Tank Ball | 95174 | [95174-tank-ball.json](./95174-tank-ball.json) |
 | Tank Battle | 172044 | [172044-tank-battle.json](./172044-tank-battle.json) |
 | Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
 | Tank Battle: 1944 | 34600 | [34600-tank-battle-1944.json](./34600-tank-battle-1944.json) |
@@ -1754,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's So Raven 2: Supernatural Style | 49406 | [49406-thats-so-raven-2-supernatural-style.json](./49406-thats-so-raven-2-supernatural-style.json) |
 | That's So Raven: Psychic on the Scene | 47951 | [47951-thats-so-raven-psychic-on-the-scene.json](./47951-thats-so-raven-psychic-on-the-scene.json) |
 | Thawed Waters | 260254 | [260254-thawed-waters.json](./260254-thawed-waters.json) |
+| The "Quiet, Please!" Collection | 95193 | [95193-the-quiet-please-collection.json](./95193-the-quiet-please-collection.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
 | The 13th Floor | 356709 | [356709-the-13th-floor.json](./356709-the-13th-floor.json) |
 | The 13th Month | 166148 | [166148-the-13th-month.json](./166148-the-13th-month.json) |
@@ -2313,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Castle | 121470 | [121470-the-castle.json](./121470-the-castle.json) |
 | The Castle | 223010 | [223010-the-castle.json](./223010-the-castle.json) |
 | The Castle Burns! | 239153 | [239153-the-castle-burns.json](./239153-the-castle-burns.json) |
+| The Castle Disaster | 95192 | [95192-the-castle-disaster.json](./95192-the-castle-disaster.json) |
 | The Castle Disaster 2 | 105318 | [105318-the-castle-disaster-2.json](./105318-the-castle-disaster-2.json) |
 | The Castle Doctrine | 16651 | [16651-the-castle-doctrine.json](./16651-the-castle-doctrine.json) |
 | The Cat | 289315 | [289315-the-cat.json](./289315-the-cat.json) |
@@ -4535,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of a Lost Planet | 34522 | [34522-the-mystery-of-a-lost-planet.json](./34522-the-mystery-of-a-lost-planet.json) |
 | The Mystery of Bikini Island | 286519 | [286519-the-mystery-of-bikini-island.json](./286519-the-mystery-of-bikini-island.json) |
 | The Mystery of Blackthorn Castle 2 | 289974 | [289974-the-mystery-of-blackthorn-castle-2.json](./289974-the-mystery-of-blackthorn-castle-2.json) |
+| The Mystery of Devils House | 95236 | [95236-the-mystery-of-devils-house.json](./95236-the-mystery-of-devils-house.json) |
 | The Mystery of Haunted Hollow | 89746 | [89746-the-mystery-of-haunted-hollow.json](./89746-the-mystery-of-haunted-hollow.json) |
 | The Mystery of the Art School | 321162 | [321162-the-mystery-of-the-art-school.json](./321162-the-mystery-of-the-art-school.json) |
 | The Mystery of the Buttons Family | 101971 | [101971-the-mystery-of-the-buttons-family.json](./101971-the-mystery-of-the-buttons-family.json) |
@@ -5919,6 +5923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unknown | 336516 | [336516-the-unknown.json](./336516-the-unknown.json) |
 | The Unknown | 397076 | [397076-the-unknown.json](./397076-the-unknown.json) |
 | The Unknown | 53789 | [53789-the-unknown.json](./53789-the-unknown.json) |
+| The Unknown City | 95199 | [95199-the-unknown-city.json](./95199-the-unknown-city.json) |
 | The Unknown City (Episode 1) | 105987 | [105987-the-unknown-city-episode-1.json](./105987-the-unknown-city-episode-1.json) |
 | The Unknown Force | 179580 | [179580-the-unknown-force.json](./179580-the-unknown-force.json) |
 | The Unknown Planet | 270684 | [270684-the-unknown-planet.json](./270684-the-unknown-planet.json) |
@@ -6156,6 +6161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wonderful End of the World | 14905 | [14905-the-wonderful-end-of-the-world.json](./14905-the-wonderful-end-of-the-world.json) |
 | The Wonders of the Animal Kingdom | 14256 | [14256-the-wonders-of-the-animal-kingdom.json](./14256-the-wonders-of-the-animal-kingdom.json) |
 | The Wood Story | 226306 | [226306-the-wood-story.json](./226306-the-wood-story.json) |
+| The Woods | 95165 | [95165-the-woods.json](./95165-the-woods.json) |
 | The Woods: VR Escape the Room | 114975 | [114975-the-woods-vr-escape-the-room.json](./114975-the-woods-vr-escape-the-room.json) |
 | The Word is Not the Thing | 74468 | [74468-the-word-is-not-the-thing.json](./74468-the-word-is-not-the-thing.json) |
 | The World 3: Rise of Demon | 91965 | [91965-the-world-3-rise-of-demon.json](./91965-the-world-3-rise-of-demon.json) |
@@ -8289,6 +8295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toree's 3D Platformer Collection | 218452 | [218452-torees-3d-platformer-collection.json](./218452-torees-3d-platformer-collection.json) |
 | Toree's Panic Pack | 308530 | [308530-torees-panic-pack.json](./308530-torees-panic-pack.json) |
 | Torej: Red Cubes | 61611 | [61611-torej-red-cubes.json](./61611-torej-red-cubes.json) |
+| Tori | 95218 | [95218-tori.json](./95218-tori.json) |
 | Toricky S | 151650 | [151650-toricky-s.json](./151650-toricky-s.json) |
 | Torico's B-day Gift Hunt | 232968 | [232968-toricos-b-day-gift-hunt.json](./232968-toricos-b-day-gift-hunt.json) |
 | Toridama 2: Brave Challenge | 300841 | [300841-toridama-2-brave-challenge.json](./300841-toridama-2-brave-challenge.json) |
@@ -9235,6 +9242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Training Lab | 156004 | [156004-training-lab.json](./156004-training-lab.json) |
 | Training Mode | 180276 | [180276-training-mode.json](./180276-training-mode.json) |
 | TrainingPeaks Virtual | 328624 | [328624-trainingpeaks-virtual.json](./328624-trainingpeaks-virtual.json) |
+| Trainpunk Run | 95201 | [95201-trainpunk-run.json](./95201-trainpunk-run.json) |
 | Trains | 95443 | [95443-trains.json](./95443-trains.json) |
 | Trains & Things | 105314 | [105314-trains-and-things.json](./105314-trains-and-things.json) |
 | Trains Vs Zombies 2 | 64392 | [64392-trains-vs-zombies-2.json](./64392-trains-vs-zombies-2.json) |
@@ -10120,6 +10128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth & Trolls [Episode 1: Broken Promises] | 109069 | [109069-truth-and-trolls-episode-1-broken-promises.json](./109069-truth-and-trolls-episode-1-broken-promises.json) |
 | Truth Loop | 218735 | [218735-truth-loop.json](./218735-truth-loop.json) |
 | Truth Loop 2 | 246120 | [246120-truth-loop-2.json](./246120-truth-loop-2.json) |
+| Truth of Falchion | 95203 | [95203-truth-of-falchion.json](./95203-truth-of-falchion.json) |
 | Truth or Dare Party | 86909 | [86909-truth-or-dare-party.json](./86909-truth-or-dare-party.json) |
 | Truth or Lies | 25217 | [25217-truth-or-lies.json](./25217-truth-or-lies.json) |
 | Truth Universally Acknowledged | 296370 | [296370-truth-universally-acknowledged.json](./296370-truth-universally-acknowledged.json) |
@@ -10312,6 +10321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurboRaketti II | 94239 | [94239-turboraketti-ii.json](./94239-turboraketti-ii.json) |
 | Turboroko: Passion Fever | 142471 | [142471-turboroko-passion-fever.json](./142471-turboroko-passion-fever.json) |
 | Turboroko: Path to Passion Fever | 142470 | [142470-turboroko-path-to-passion-fever.json](./142470-turboroko-path-to-passion-fever.json) |
+| TurbOT Racing | 95204 | [95204-turbot-racing.json](./95204-turbot-racing.json) |
 | Turbotron | 184567 | [184567-turbotron.json](./184567-turbotron.json) |
 | Turbulence: Airplane Survival Simulator | 161754 | [161754-turbulence-airplane-survival-simulator.json](./161754-turbulence-airplane-survival-simulator.json) |
 | Turdy | 172195 | [172195-turdy.json](./172195-turdy.json) |
