@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakoh: Shinobi Ops | 389431 | [389431-yakoh-shinobi-ops.json](./389431-yakoh-shinobi-ops.json) |
 | Yakouchuu | 37761 | [37761-yakouchuu.json](./37761-yakouchuu.json) |
 | Yaku Slap | 329976 | [329976-yaku-slap.json](./329976-yaku-slap.json) |
+| Yaku: Yuujou Dangi | 124642 | [124642-yaku-yuujou-dangi.json](./124642-yaku-yuujou-dangi.json) |
 | Yakuman | 67330 | [67330-yakuman.json](./67330-yakuman.json) |
 | Yakuza 2 Restored | 349856 | [349856-yakuza-2-restored.json](./349856-yakuza-2-restored.json) |
 | Yakuza 5 Remastered | 103017 | [103017-yakuza-5-remastered.json](./103017-yakuza-5-remastered.json) |
