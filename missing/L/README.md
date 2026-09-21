@@ -1821,8 +1821,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LinkIt! | 26506 | [26506-linkit.json](./26506-linkit.json) |
 | Linkle Liver Story | 94005 | [94005-linkle-liver-story.json](./94005-linkle-liver-story.json) |
 | Linkrealms | 34467 | [34467-linkrealms.json](./34467-linkrealms.json) |
+| Links 2001 | 770 | [770-links-2001.json](./770-links-2001.json) |
 | Links E6: Course Pack 1 | 153464 | [153464-links-e6-course-pack-1.json](./153464-links-e6-course-pack-1.json) |
 | Links E6: Course Pack 3 | 153465 | [153465-links-e6-course-pack-3.json](./153465-links-e6-course-pack-3.json) |
+| Links LS 1999 | 772 | [772-links-ls-1999.json](./772-links-ls-1999.json) |
+| Links LS: 1998 Edition | 771 | [771-links-ls-1998-edition.json](./771-links-ls-1998-edition.json) |
 | Links: Championship Course - Mauna Kea | 71555 | [71555-links-championship-course-mauna-kea.json](./71555-links-championship-course-mauna-kea.json) |
 | Links: Championship Course - Troon North | 73319 | [73319-links-championship-course-troon-north.json](./73319-links-championship-course-troon-north.json) |
 | Linkz | 92995 | [92995-linkz.json](./92995-linkz.json) |
