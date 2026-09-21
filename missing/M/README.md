@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Alive | 68686 | [68686-mafia-alive.json](./68686-mafia-alive.json) |
 | Mafia Clicker | 241956 | [241956-mafia-clicker.json](./241956-mafia-clicker.json) |
 | Mafia Gambling | 89266 | [89266-mafia-gambling.json](./89266-mafia-gambling.json) |
+| Mafia II: The Betrayal of Jimmy | 18395 | [18395-mafia-ii-the-betrayal-of-jimmy.json](./18395-mafia-ii-the-betrayal-of-jimmy.json) |
 | Mafia III: Definitive Edition | 134073 | [134073-mafia-iii-definitive-edition.json](./134073-mafia-iii-definitive-edition.json) |
 | Mafia III: Faster, Baby! | 39761 | [39761-mafia-iii-faster-baby.json](./39761-mafia-iii-faster-baby.json) |
 | Mafia in Town | 239756 | [239756-mafia-in-town.json](./239756-mafia-in-town.json) |
@@ -4290,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misao: Definitive Edition | 74567 | [74567-misao-definitive-edition.json](./74567-misao-definitive-edition.json) |
 | Mischief Dungeon Life: Isekai Tensei shita Ore no Itazura Dungeon Life - Clara Edition | 232996 | [232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json](./232996-mischief-dungeon-life-isekai-tensei-shita-ore-no-itazura-dungeon-life-clara-edition.json) |
 | Mischief Motors | 294130 | [294130-mischief-motors.json](./294130-mischief-motors.json) |
+| Miscreated | 17379 | [17379-miscreated.json](./17379-miscreated.json) |
 | Miscreated: Canyonlands | 171581 | [171581-miscreated-canyonlands.json](./171581-miscreated-canyonlands.json) |
 | Miscrits: Volcano Island | 98465 | [98465-miscrits-volcano-island.json](./98465-miscrits-volcano-island.json) |
 | Miscrits: World of Creatures | 98466 | [98466-miscrits-world-of-creatures.json](./98466-miscrits-world-of-creatures.json) |
@@ -4729,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moeru! Onii-san | 48327 | [48327-moeru-onii-san.json](./48327-moeru-onii-san.json) |
 | Moetan DS | 94002 | [94002-moetan-ds.json](./94002-moetan-ds.json) |
 | Mogeko Castle | 213382 | [213382-mogeko-castle.json](./213382-mogeko-castle.json) |
+| Mogeko Castle | 61296 | [61296-mogeko-castle.json](./61296-mogeko-castle.json) |
 | Mogo Invasion | 48004 | [48004-mogo-invasion.json](./48004-mogo-invasion.json) |
 | Moguchan | 38584 | [38584-moguchan.json](./38584-moguchan.json) |
 | Mogul Maniac | 40788 | [40788-mogul-maniac.json](./40788-mogul-maniac.json) |
