@@ -1983,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes and Forsaken: The Official Wheel of Time Digital Card Game | 362304 | [362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json](./362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json) |
 | Heroes and Test of Succubus | 294165 | [294165-heroes-and-test-of-succubus.json](./294165-heroes-and-test-of-succubus.json) |
 | Heroes Call | 22209 | [22209-heroes-call.json](./22209-heroes-call.json) |
+| Heroes Chronicles: Masters of the Elements | 8434 | [8434-heroes-chronicles-masters-of-the-elements.json](./8434-heroes-chronicles-masters-of-the-elements.json) |
 | Heroes Clash | 226778 | [226778-heroes-clash.json](./226778-heroes-clash.json) |
 | Heroes For Hire | 295559 | [295559-heroes-for-hire.json](./295559-heroes-for-hire.json) |
 | Heroes Guard: The Journal | 200041 | [200041-heroes-guard-the-journal.json](./200041-heroes-guard-the-journal.json) |
@@ -1994,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Arcana | 211759 | [211759-heroes-of-arcana.json](./211759-heroes-of-arcana.json) |
 | Heroes of Book & Paper | 199506 | [199506-heroes-of-book-and-paper.json](./199506-heroes-of-book-and-paper.json) |
 | Heroes of Camelot | 7449 | [7449-heroes-of-camelot.json](./7449-heroes-of-camelot.json) |
+| Heroes of Dragon Age | 22258 | [22258-heroes-of-dragon-age.json](./22258-heroes-of-dragon-age.json) |
 | Heroes of Drakerealm | 235485 | [235485-heroes-of-drakerealm.json](./235485-heroes-of-drakerealm.json) |
 | Heroes of Egypt: The Curse of Sethos | 191119 | [191119-heroes-of-egypt-the-curse-of-sethos.json](./191119-heroes-of-egypt-the-curse-of-sethos.json) |
 | Heroes of Eroticism: Amorous Advances | 244349 | [244349-heroes-of-eroticism-amorous-advances.json](./244349-heroes-of-eroticism-amorous-advances.json) |
