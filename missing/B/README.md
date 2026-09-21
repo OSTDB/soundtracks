@@ -1921,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being a DIK: Season 2 | 186507 | [186507-being-a-dik-season-2.json](./186507-being-a-dik-season-2.json) |
 | Being Dead Simulator | 280925 | [280925-being-dead-simulator.json](./280925-being-dead-simulator.json) |
 | Being Faust: Enter Mephisto | 56459 | [56459-being-faust-enter-mephisto.json](./56459-being-faust-enter-mephisto.json) |
+| Being Her Darkest Friend | 60216 | [60216-being-her-darkest-friend.json](./60216-being-her-darkest-friend.json) |
 | Being One: Episode 1 | 184076 | [184076-being-one-episode-1.json](./184076-being-one-episode-1.json) |
 | Being Struck By Lightning is Probably the Best Way That You Could Die On Account of All of Its Awesomeness | 242647 | [242647-being-struck-by-lightning-is-probably-the-best-way-that-you-could-die-on-account-of-all-of-its-awesomeness.json](./242647-being-struck-by-lightning-is-probably-the-best-way-that-you-could-die-on-account-of-all-of-its-awesomeness.json) |
 | Bejeweled | 121723 | [121723-bejeweled.json](./121723-bejeweled.json) |
@@ -2394,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigfoot Monster Hunter | 97050 | [97050-bigfoot-monster-hunter.json](./97050-bigfoot-monster-hunter.json) |
 | Bigfoot vs. Scots | 244257 | [244257-bigfoot-vs-scots.json](./244257-bigfoot-vs-scots.json) |
 | Bigger Than Me | 183431 | [183431-bigger-than-me.json](./183431-bigger-than-me.json) |
+| Bigger Than You Think | 60208 | [60208-bigger-than-you-think.json](./60208-bigger-than-you-think.json) |
 | BiggerNouis | 181802 | [181802-biggernouis.json](./181802-biggernouis.json) |
 | Biggest Impossible Ramp Ever | 100895 | [100895-biggest-impossible-ramp-ever.json](./100895-biggest-impossible-ramp-ever.json) |
 | Biggest Piano | 353385 | [353385-biggest-piano.json](./353385-biggest-piano.json) |
@@ -2763,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizarre Journey | 103164 | [103164-bizarre-journey.json](./103164-bizarre-journey.json) |
 | Bizarre Tale | 76671 | [76671-bizarre-tale.json](./76671-bizarre-tale.json) |
 | Bizerta: Silent Evil | 60570 | [60570-bizerta-silent-evil.json](./60570-bizerta-silent-evil.json) |
+| Bizy Beezzzz | 60207 | [60207-bizy-beezzzz.json](./60207-bizy-beezzzz.json) |
 | Bizzarioware | 185148 | [185148-bizzarioware.json](./185148-bizzarioware.json) |
 | Björnes Magasin | 92829 | [92829-bjornes-magasin.json](./92829-bjornes-magasin.json) |
 | BK: OSRS | 313105 | [313105-bk-osrs.json](./313105-bk-osrs.json) |
@@ -3518,6 +3521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodlust Online | 157015 | [157015-bloodlust-online.json](./157015-bloodlust-online.json) |
 | BloodMoon | 267484 | [267484-bloodmoon.json](./267484-bloodmoon.json) |
 | Bloodmoon Church | 144129 | [144129-bloodmoon-church.json](./144129-bloodmoon-church.json) |
+| BloodPact | 60218 | [60218-bloodpact.json](./60218-bloodpact.json) |
 | Bloodpath | 329922 | [329922-bloodpath.json](./329922-bloodpath.json) |
 | BloodRayne: Definitive Collection | 400996 | [400996-bloodrayne-definitive-collection.json](./400996-bloodrayne-definitive-collection.json) |
 | BloodRayne: The Shroud | 77344 | [77344-bloodrayne-the-shroud.json](./77344-bloodrayne-the-shroud.json) |
@@ -3829,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogie's Super Pick: Value Pack 1 | 98965 | [98965-bogies-super-pick-value-pack-1.json](./98965-bogies-super-pick-value-pack-1.json) |
 | Bograts: The Puzzling Misadventure | 14330 | [14330-bograts-the-puzzling-misadventure.json](./14330-bograts-the-puzzling-misadventure.json) |
 | Bogwater | 381727 | [381727-bogwater.json](./381727-bogwater.json) |
+| Bogy Men | 60206 | [60206-bogy-men.json](./60206-bogy-men.json) |
 | Bohemian Yard | 217866 | [217866-bohemian-yard.json](./217866-bohemian-yard.json) |
 | Bohrdom | 112947 | [112947-bohrdom.json](./112947-bohrdom.json) |
 | Boid | 17646 | [17646-boid.json](./17646-boid.json) |
