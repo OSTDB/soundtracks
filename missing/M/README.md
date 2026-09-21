@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Magic | 45914 | [45914-max-magic.json](./45914-max-magic.json) |
 | Max Mix Game | 46669 | [46669-max-mix-game.json](./46669-max-mix-game.json) |
 | Max on the Moon | 209536 | [209536-max-on-the-moon.json](./209536-max-on-the-moon.json) |
+| Max Payne | 133860 | [133860-max-payne.json](./133860-max-payne.json) |
 | Max Payne | 196251 | [196251-max-payne.json](./196251-max-payne.json) |
 | Max Payne 2 | 196252 | [196252-max-payne-2.json](./196252-max-payne-2.json) |
 | Max Payne 2: Mona the Assassin | 320154 | [320154-max-payne-2-mona-the-assassin.json](./320154-max-payne-2-mona-the-assassin.json) |
@@ -3435,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 2000 | 788 | [788-microsoft-flight-simulator-2000.json](./788-microsoft-flight-simulator-2000.json) |
 | Microsoft Flight Simulator 2002: Professional Edition | 711 | [711-microsoft-flight-simulator-2002-professional-edition.json](./711-microsoft-flight-simulator-2002-professional-edition.json) |
 | Microsoft Flight Simulator 2004: A Century of Flight | 712 | [712-microsoft-flight-simulator-2004-a-century-of-flight.json](./712-microsoft-flight-simulator-2004-a-century-of-flight.json) |
+| Microsoft Flight Simulator 2024 | 252830 | [252830-microsoft-flight-simulator-2024.json](./252830-microsoft-flight-simulator-2024.json) |
 | Microsoft Flight Simulator 2024: World Update 20 - Japan | 370133 | [370133-microsoft-flight-simulator-2024-world-update-20-japan.json](./370133-microsoft-flight-simulator-2024-world-update-20-japan.json) |
 | Microsoft Flight Simulator 4.0: Aircraft & Scenery Designer | 84204 | [84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json](./84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json) |
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
