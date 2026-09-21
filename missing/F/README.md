@@ -1137,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Tall Grass | 399074 | [399074-fear-tall-grass.json](./399074-fear-tall-grass.json) |
 | Fear the Dark Unknown: Chloe | 132250 | [132250-fear-the-dark-unknown-chloe.json](./132250-fear-the-dark-unknown-chloe.json) |
 | Fear the Dark Unknown: James | 159722 | [159722-fear-the-dark-unknown-james.json](./159722-fear-the-dark-unknown-james.json) |
+| Fear the Dead | 29220 | [29220-fear-the-dead.json](./29220-fear-the-dead.json) |
 | Fear the Flossom | 138814 | [138814-fear-the-flossom.json](./138814-fear-the-flossom.json) |
 | Fear the Moon | 294261 | [294261-fear-the-moon.json](./294261-fear-the-moon.json) |
 | Fear the Night | 112973 | [112973-fear-the-night.json](./112973-fear-the-night.json) |
@@ -4091,6 +4092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Mayhem | 301288 | [301288-frontier-mayhem.json](./301288-frontier-mayhem.json) |
 | Frontier Mech: Ash Walkers | 356075 | [356075-frontier-mech-ash-walkers.json](./356075-frontier-mech-ash-walkers.json) |
 | Frontier Paladin | 292542 | [292542-frontier-paladin.json](./292542-frontier-paladin.json) |
+| Frontier VR | 29150 | [29150-frontier-vr.json](./29150-frontier-vr.json) |
 | Frontier Wars: Defense Heroes | 129609 | [129609-frontier-wars-defense-heroes.json](./129609-frontier-wars-defense-heroes.json) |
 | Frontier: Elite II | 2953 | [2953-frontier-elite-ii.json](./2953-frontier-elite-ii.json) |
 | Frontier: First Encounters | 2954 | [2954-frontier-first-encounters.json](./2954-frontier-first-encounters.json) |
