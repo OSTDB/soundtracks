@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rank: Warmaster Bunker Buster | 343871 | [343871-rank-warmaster-bunker-buster.json](./343871-rank-warmaster-bunker-buster.json) |
 | Ranking Narabete Joushiki Quiz | 251615 | [251615-ranking-narabete-joushiki-quiz.json](./251615-ranking-narabete-joushiki-quiz.json) |
 | Ranma 1/2 | 75853 | [75853-ranma-1-2.json](./75853-ranma-1-2.json) |
+| Ranma 1/2: Battle Renaissance | 44822 | [44822-ranma-1-2-battle-renaissance.json](./44822-ranma-1-2-battle-renaissance.json) |
 | Ranma 1/2: Hiryuu Densetsu | 75856 | [75856-ranma-1-2-hiryuu-densetsu.json](./75856-ranma-1-2-hiryuu-densetsu.json) |
 | Ranma 1/2: Kakuren Bodesu Match | 75852 | [75852-ranma-1-2-kakuren-bodesu-match.json](./75852-ranma-1-2-kakuren-bodesu-match.json) |
 | Ranma 1/2: Toraware no Hanayome | 72691 | [72691-ranma-1-2-toraware-no-hanayome.json](./72691-ranma-1-2-toraware-no-hanayome.json) |
