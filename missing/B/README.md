@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie: Legend of the Crystal Jiggy | 172671 | [172671-banjo-kazooie-legend-of-the-crystal-jiggy.json](./172671-banjo-kazooie-legend-of-the-crystal-jiggy.json) |
 | Banjo-Pilot | 6316 | [6316-banjo-pilot.json](./6316-banjo-pilot.json) |
 | Banjo-Threeie | 200644 | [200644-banjo-threeie.json](./200644-banjo-threeie.json) |
+| Banjo-Tooie | 3418 | [3418-banjo-tooie.json](./3418-banjo-tooie.json) |
 | Bank | 364595 | [364595-bank.json](./364595-bank.json) |
 | Bank Panic | 6083 | [6083-bank-panic.json](./6083-bank-panic.json) |
 | Bank Robber | 319569 | [319569-bank-robber.json](./319569-bank-robber.json) |
@@ -5173,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Sword: Shadow of the Templars Reforged | 262651 | [262651-broken-sword-shadow-of-the-templars-reforged.json](./262651-broken-sword-shadow-of-the-templars-reforged.json) |
 | Broken Sword: The Shadow of the Templars | 206502 | [206502-broken-sword-the-shadow-of-the-templars.json](./206502-broken-sword-the-shadow-of-the-templars.json) |
 | Broken Sword: The Shadow of the Templars | 206503 | [206503-broken-sword-the-shadow-of-the-templars.json](./206503-broken-sword-the-shadow-of-the-templars.json) |
+| Broken Sword: The Smoking Mirror | 1150 | [1150-broken-sword-the-smoking-mirror.json](./1150-broken-sword-the-smoking-mirror.json) |
 | Broken System | 236007 | [236007-broken-system.json](./236007-broken-system.json) |
 | Broken Thorns: West Gate | 158058 | [158058-broken-thorns-west-gate.json](./158058-broken-thorns-west-gate.json) |
 | Broken Ties | 96684 | [96684-broken-ties.json](./96684-broken-ties.json) |
