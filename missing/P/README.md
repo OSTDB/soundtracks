@@ -4345,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerSimulator | 251808 | [251808-powersimulator.json](./251808-powersimulator.json) |
 | PowerSkate | 233238 | [233238-powerskate.json](./233238-powerskate.json) |
 | PowerSlave | 188071 | [188071-powerslave.json](./188071-powerslave.json) |
+| PowerSlave: Exhumed | 165054 | [165054-powerslave-exhumed.json](./165054-powerslave-exhumed.json) |
 | Powerup | 327194 | [327194-powerup.json](./327194-powerup.json) |
 | PowerWash Simulator | 138590 | [138590-powerwash-simulator.json](./138590-powerwash-simulator.json) |
 | PowerWash Simulator | 400248 | [400248-powerwash-simulator.json](./400248-powerwash-simulator.json) |
