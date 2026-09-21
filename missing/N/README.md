@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights | 216 | [216-neverwinter-nights.json](./216-neverwinter-nights.json) |
 | Neverwinter Nights | 96492 | [96492-neverwinter-nights.json](./96492-neverwinter-nights.json) |
 | Neverwinter Nights 2: Complete | 50322 | [50322-neverwinter-nights-2-complete.json](./50322-neverwinter-nights-2-complete.json) |
+| Neverwinter Nights 2: Mask of the Betrayer | 1840 | [1840-neverwinter-nights-2-mask-of-the-betrayer.json](./1840-neverwinter-nights-2-mask-of-the-betrayer.json) |
 | Neverwinter Nights 2: Platinum | 28972 | [28972-neverwinter-nights-2-platinum.json](./28972-neverwinter-nights-2-platinum.json) |
 | Neverwinter Nights: Dark Dreams of Furiae | 155077 | [155077-neverwinter-nights-dark-dreams-of-furiae.json](./155077-neverwinter-nights-dark-dreams-of-furiae.json) |
 | Neverwinter Nights: Gold Edition | 210036 | [210036-neverwinter-nights-gold-edition.json](./210036-neverwinter-nights-gold-edition.json) |
