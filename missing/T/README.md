@@ -2685,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crypts | 268469 | [268469-the-crypts.json](./268469-the-crypts.json) |
 | The Crypts of Anak Shaba | 30188 | [30188-the-crypts-of-anak-shaba.json](./30188-the-crypts-of-anak-shaba.json) |
 | The Crystal Golem | 152273 | [152273-the-crystal-golem.json](./152273-the-crystal-golem.json) |
+| The Crystal Maze | 13247 | [13247-the-crystal-maze.json](./13247-the-crystal-maze.json) |
 | The Crystal Rainforest | 151716 | [151716-the-crystal-rainforest.json](./151716-the-crystal-rainforest.json) |
 | The Crystal Skull | 69558 | [69558-the-crystal-skull.json](./69558-the-crystal-skull.json) |
 | The Cube Factory | 147365 | [147365-the-cube-factory.json](./147365-the-cube-factory.json) |
@@ -4875,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old Realms | 356162 | [356162-the-old-realms.json](./356162-the-old-realms.json) |
 | The Old Ways | 356756 | [356756-the-old-ways.json](./356756-the-old-ways.json) |
 | The Oldest Edda | 190721 | [190721-the-oldest-edda.json](./190721-the-oldest-edda.json) |
+| The Olympics | 13260 | [13260-the-olympics.json](./13260-the-olympics.json) |
 | The Omega Stone: Riddle of the Sphinx II | 71524 | [71524-the-omega-stone-riddle-of-the-sphinx-ii.json](./71524-the-omega-stone-riddle-of-the-sphinx-ii.json) |
 | The One | 289973 | [289973-the-one.json](./289973-the-one.json) |
 | The One Fish | 410892 | [410892-the-one-fish.json](./410892-the-one-fish.json) |
@@ -6316,6 +6318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: The Telltale Definitive Series - Protector Pack | 117677 | [117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json](./117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json) |
 | The Walking Dead: The Telltale Definitive Series - Signature Pack | 117679 | [117679-the-walking-dead-the-telltale-definitive-series-signature-pack.json](./117679-the-walking-dead-the-telltale-definitive-series-signature-pack.json) |
 | The Walking Vegetables | 61617 | [61617-the-walking-vegetables.json](./61617-the-walking-vegetables.json) |
+| The Wall | 13086 | [13086-the-wall.json](./13086-the-wall.json) |
 | The Wall | 200750 | [200750-the-wall.json](./200750-the-wall.json) |
 | The Wall Mustn't Fall | 215793 | [215793-the-wall-mustnt-fall.json](./215793-the-wall-mustnt-fall.json) |
 | The Walsingham Files: Chapter 1 | 116120 | [116120-the-walsingham-files-chapter-1.json](./116120-the-walsingham-files-chapter-1.json) |
@@ -8272,6 +8275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Friend Park II Ketteiban: Minna de Chousen! Taikan Attraction | 139255 | [139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json](./139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json) |
 | Tokyo Ghoul: Break the Chains | 275897 | [275897-tokyo-ghoul-break-the-chains.json](./275897-tokyo-ghoul-break-the-chains.json) |
 | Tokyo Ghoul: Carnaval | 123630 | [123630-tokyo-ghoul-carnaval.json](./123630-tokyo-ghoul-carnaval.json) |
+| Tokyo Ghoul: Jail | 13195 | [13195-tokyo-ghoul-jail.json](./13195-tokyo-ghoul-jail.json) |
 | Tokyo Ghoul: Re Birth | 56144 | [56144-tokyo-ghoul-re-birth.json](./56144-tokyo-ghoul-re-birth.json) |
 | Tokyo Highway Battle | 20797 | [20797-tokyo-highway-battle.json](./20797-tokyo-highway-battle.json) |
 | Tokyo Hosto | 35767 | [35767-tokyo-hosto.json](./35767-tokyo-hosto.json) |
