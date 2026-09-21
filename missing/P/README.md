@@ -4354,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime World: Classic | 368006 | [368006-prime-world-classic.json](./368006-prime-world-classic.json) |
 | Prime World: Defenders | 16507 | [16507-prime-world-defenders.json](./16507-prime-world-defenders.json) |
 | Prime World: Defenders 2 | 112944 | [112944-prime-world-defenders-2.json](./112944-prime-world-defenders-2.json) |
+| Prime's Quest | 63555 | [63555-primes-quest.json](./63555-primes-quest.json) |
 | Primedice | 76563 | [76563-primedice.json](./76563-primedice.json) |
 | Primeval | 158688 | [158688-primeval.json](./158688-primeval.json) |
 | Primeval Horizon | 295527 | [295527-primeval-horizon.json](./295527-primeval-horizon.json) |
@@ -5333,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet Team | 332982 | [332982-puppet-team.json](./332982-puppet-team.json) |
 | Puppet: Hide And Seek | 302934 | [302934-puppet-hide-and-seek.json](./302934-puppet-hide-and-seek.json) |
 | PuppeTNetiK: Speedrun Challenge | 152365 | [152365-puppetnetik-speedrun-challenge.json](./152365-puppetnetik-speedrun-challenge.json) |
+| PuppetShow: Destiny Undone | 63571 | [63571-puppetshow-destiny-undone.json](./63571-puppetshow-destiny-undone.json) |
 | PuppetShow: Destiny Undone - Collector's Edition | 105749 | [105749-puppetshow-destiny-undone-collectors-edition.json](./105749-puppetshow-destiny-undone-collectors-edition.json) |
 | Puppies World 3D | 84800 | [84800-puppies-world-3d.json](./84800-puppies-world-3d.json) |
 | Puppy Balloon Ride | 213392 | [213392-puppy-balloon-ride.json](./213392-puppy-balloon-ride.json) |
