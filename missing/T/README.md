@@ -2470,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Christmas Spirit: Golden Ticket | 187968 | [187968-the-christmas-spirit-golden-ticket.json](./187968-the-christmas-spirit-golden-ticket.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
 | The Chronicler | 150631 | [150631-the-chronicler.json](./150631-the-chronicler.json) |
+| The Chronicles of Dragon Wing - Reborn | 44160 | [44160-the-chronicles-of-dragon-wing-reborn.json](./44160-the-chronicles-of-dragon-wing-reborn.json) |
 | The Chronicles of Ezra Blackwell: Episode 1 - Pappi's Peril | 277281 | [277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json](./277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json) |
 | The Chronicles of Hercules: The 12 Labours | 169366 | [169366-the-chronicles-of-hercules-the-12-labours.json](./169366-the-chronicles-of-hercules-the-12-labours.json) |
 | The Chronicles of Jonah and the Whale | 113480 | [113480-the-chronicles-of-jonah-and-the-whale.json](./113480-the-chronicles-of-jonah-and-the-whale.json) |
@@ -2937,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Deluxe Edition | 154540 | [154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json](./154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Ultimate Edition | 159705 | [159705-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-ultimate-edition.json](./159705-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-ultimate-edition.json) |
 | The Dungeon Paradox | 114806 | [114806-the-dungeon-paradox.json](./114806-the-dungeon-paradox.json) |
+| The Dungeon Power | 44204 | [44204-the-dungeon-power.json](./44204-the-dungeon-power.json) |
 | The Dungeon Tower | 255996 | [255996-the-dungeon-tower.json](./255996-the-dungeon-tower.json) |
 | The Dungeoning | 17310 | [17310-the-dungeoning.json](./17310-the-dungeoning.json) |
 | The Dungeons of Castle Madness | 22403 | [22403-the-dungeons-of-castle-madness.json](./22403-the-dungeons-of-castle-madness.json) |
@@ -3671,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster Heardle | 205625 | [205625-the-idolmaster-heardle.json](./205625-the-idolmaster-heardle.json) |
 | The Idolmaster: Gravure for You! Vol. 6 | 65224 | [65224-the-idolmaster-gravure-for-you-vol-6.json](./65224-the-idolmaster-gravure-for-you-vol-6.json) |
 | The Idolmaster: Gravure for You! Vol. 8 | 79352 | [79352-the-idolmaster-gravure-for-you-vol-8.json](./79352-the-idolmaster-gravure-for-you-vol-8.json) |
+| The Idolmaster: Million Live! Theater Days | 44154 | [44154-the-idolmaster-million-live-theater-days.json](./44154-the-idolmaster-million-live-theater-days.json) |
 | The Idolmaster: Shiny Colors | 97876 | [97876-the-idolmaster-shiny-colors.json](./97876-the-idolmaster-shiny-colors.json) |
 | The Idolmaster: Shiny Colors - Song for Prism | 248115 | [248115-the-idolmaster-shiny-colors-song-for-prism.json](./248115-the-idolmaster-shiny-colors-song-for-prism.json) |
 | The Idolmaster: Shiny Colors - With Open() | 413755 | [413755-the-idolmaster-shiny-colors-with-open.json](./413755-the-idolmaster-shiny-colors-with-open.json) |
@@ -4779,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Northern Gate: Special Agent | 191118 | [191118-the-northern-gate-special-agent.json](./191118-the-northern-gate-special-agent.json) |
 | The Northern Passage | 301414 | [301414-the-northern-passage.json](./301414-the-northern-passage.json) |
 | The Not-Deer Stew | 382797 | [382797-the-not-deer-stew.json](./382797-the-not-deer-stew.json) |
+| The Nothing | 44211 | [44211-the-nothing.json](./44211-the-nothing.json) |
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
 | The Nova Era | 209712 | [209712-the-nova-era.json](./209712-the-nova-era.json) |
 | The Now We've Named | 215226 | [215226-the-now-weve-named.json](./215226-the-now-weve-named.json) |
@@ -5848,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Textorcist: The Story of Ray Bibbia | 107178 | [107178-the-textorcist-the-story-of-ray-bibbia.json](./107178-the-textorcist-the-story-of-ray-bibbia.json) |
 | The Thaumaturge | 239942 | [239942-the-thaumaturge.json](./239942-the-thaumaturge.json) |
 | The Theater | 183077 | [183077-the-theater.json](./183077-the-theater.json) |
+| The Theodore Adventures | 44175 | [44175-the-theodore-adventures.json](./44175-the-theodore-adventures.json) |
 | The Thief in the Dark | 194650 | [194650-the-thief-in-the-dark.json](./194650-the-thief-in-the-dark.json) |
 | The Thief, the Witch, the Toad, and the Mushroom. | 235726 | [235726-the-thief-the-witch-the-toad-and-the-mushroom.json](./235726-the-thief-the-witch-the-toad-and-the-mushroom.json) |
 | The Thing | 238608 | [238608-the-thing.json](./238608-the-thing.json) |
@@ -6303,6 +6308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Werehouse | 337107 | [337107-the-werehouse.json](./337107-the-werehouse.json) |
 | The Werewolf of Kitakyushu -Beast- | 83478 | [83478-the-werewolf-of-kitakyushu-beast.json](./83478-the-werewolf-of-kitakyushu-beast.json) |
 | The West | 23639 | [23639-the-west.json](./23639-the-west.json) |
+| The Western Hunter | 44210 | [44210-the-western-hunter.json](./44210-the-western-hunter.json) |
 | The Wheel of Fortune | 182396 | [182396-the-wheel-of-fortune.json](./182396-the-wheel-of-fortune.json) |
 | The Whisker Watch | 368049 | [368049-the-whisker-watch.json](./368049-the-whisker-watch.json) |
 | The Whiskey Story | 208383 | [208383-the-whiskey-story.json](./208383-the-whiskey-story.json) |
@@ -6577,6 +6583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheTruth.exe | 109623 | [109623-thetruth-exe.json](./109623-thetruth-exe.json) |
 | Theurgy Architect | 333365 | [333365-theurgy-architect.json](./333365-theurgy-architect.json) |
 | theViewer | 111479 | [111479-theviewer.json](./111479-theviewer.json) |
+| TheWalkerKiller VR | 44230 | [44230-thewalkerkiller-vr.json](./44230-thewalkerkiller-vr.json) |
 | TheWaveVR | 25014 | [25014-thewavevr.json](./25014-thewavevr.json) |
 | They | 80613 | [80613-they.json](./80613-they.json) |
 | They Are Beasts | 119753 | [119753-they-are-beasts.json](./119753-they-are-beasts.json) |
@@ -7649,6 +7656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Gentlemen, Please! and Ben There, Dan That! Special Edition Double Pack | 27846 | [27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json](./27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json) |
 | Time Glitch | 278506 | [278506-time-glitch.json](./278506-time-glitch.json) |
 | Time Golf Squad | 31863 | [31863-time-golf-squad.json](./31863-time-golf-squad.json) |
+| Time Gun | 44167 | [44167-time-gun.json](./44167-time-gun.json) |
 | Time Hacker | 129013 | [129013-time-hacker.json](./129013-time-hacker.json) |
 | Time Handlers | 253388 | [253388-time-handlers.json](./253388-time-handlers.json) |
 | Time Heist | 180753 | [180753-time-heist.json](./180753-time-heist.json) |
