@@ -2497,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The City of the Damned | 141239 | [141239-the-city-of-the-damned.json](./141239-the-city-of-the-damned.json) |
 | The City of the Damned: Apocalypse | 141240 | [141240-the-city-of-the-damned-apocalypse.json](./141240-the-city-of-the-damned-apocalypse.json) |
 | The City of Time | 134415 | [134415-the-city-of-time.json](./134415-the-city-of-time.json) |
+| The Civil War A Nation Divided | 43548 | [43548-the-civil-war-a-nation-divided.json](./43548-the-civil-war-a-nation-divided.json) |
 | The Clans - Saga of the Twins | 35943 | [35943-the-clans-saga-of-the-twins.json](./35943-the-clans-saga-of-the-twins.json) |
 | The Class President is Home From School Today! | 97700 | [97700-the-class-president-is-home-from-school-today.json](./97700-the-class-president-is-home-from-school-today.json) |
 | The Classic Episode | 196249 | [196249-the-classic-episode.json](./196249-the-classic-episode.json) |
@@ -5418,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silence After | 361769 | [361769-the-silence-after.json](./361769-the-silence-after.json) |
 | The Silent Age | 11444 | [11444-the-silent-age.json](./11444-the-silent-age.json) |
 | The Silent Cartographer: Evolved | 375319 | [375319-the-silent-cartographer-evolved.json](./375319-the-silent-cartographer-evolved.json) |
+| The Silent Hill Collection | 43551 | [43551-the-silent-hill-collection.json](./43551-the-silent-hill-collection.json) |
 | The Silent Huntress | 218587 | [218587-the-silent-huntress.json](./218587-the-silent-huntress.json) |
 | The Silent Islands | 211939 | [211939-the-silent-islands.json](./211939-the-silent-islands.json) |
 | The Silent One | 347763 | [347763-the-silent-one.json](./347763-the-silent-one.json) |
@@ -5590,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snow Fable: Mystery of the Flame | 207515 | [207515-the-snow-fable-mystery-of-the-flame.json](./207515-the-snow-fable-mystery-of-the-flame.json) |
 | The Snow of Basidia | 176504 | [176504-the-snow-of-basidia.json](./176504-the-snow-of-basidia.json) |
 | The Snow Queen | 26476 | [26476-the-snow-queen.json](./26476-the-snow-queen.json) |
+| The Snow Queen Quest | 43560 | [43560-the-snow-queen-quest.json](./43560-the-snow-queen-quest.json) |
 | The Snow Reach | 266805 | [266805-the-snow-reach.json](./266805-the-snow-reach.json) |
 | The Snowfield | 144323 | [144323-the-snowfield.json](./144323-the-snowfield.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
@@ -8565,6 +8568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torbaci Oyunu | 274769 | [274769-torbaci-oyunu.json](./274769-torbaci-oyunu.json) |
 | Torch | 232977 | [232977-torch.json](./232977-torch.json) |
 | Torch 2081 | 86047 | [86047-torch-2081.json](./86047-torch-2081.json) |
+| Torch Cave 3 | 43542 | [43542-torch-cave-3.json](./43542-torch-cave-3.json) |
 | Torch of Shadows | 374074 | [374074-torch-of-shadows.json](./374074-torch-of-shadows.json) |
 | Torchbear | 341898 | [341898-torchbear.json](./341898-torchbear.json) |
 | Torched | 370799 | [370799-torched.json](./370799-torched.json) |
@@ -10185,6 +10189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
 | Triggered | 87988 | [87988-triggered.json](./87988-triggered.json) |
 | TriggerHeart Exelica Enhanced | 326579 | [326579-triggerheart-exelica-enhanced.json](./326579-triggerheart-exelica-enhanced.json) |
+| Triggerman | 43555 | [43555-triggerman.json](./43555-triggerman.json) |
 | Triggore | 182913 | [182913-triggore.json](./182913-triggore.json) |
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
 | Trigonarium | 34718 | [34718-trigonarium.json](./34718-trigonarium.json) |
@@ -10393,6 +10398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Mechanic: Dangerous Paths | 134668 | [134668-truck-mechanic-dangerous-paths.json](./134668-truck-mechanic-dangerous-paths.json) |
 | Truck Mondai | 244351 | [244351-truck-mondai.json](./244351-truck-mondai.json) |
 | Truck Parking Simulator VR | 305943 | [305943-truck-parking-simulator-vr.json](./305943-truck-parking-simulator-vr.json) |
+| Truck Racing 2 | 43540 | [43540-truck-racing-2.json](./43540-truck-racing-2.json) |
 | Truck Raid | 252816 | [252816-truck-raid.json](./252816-truck-raid.json) |
 | Truck Simulation 19 | 111747 | [111747-truck-simulation-19.json](./111747-truck-simulation-19.json) |
 | Truck Simulator & World of Machines: Game Bundle Collection | 263562 | [263562-truck-simulator-and-world-of-machines-game-bundle-collection.json](./263562-truck-simulator-and-world-of-machines-game-bundle-collection.json) |
