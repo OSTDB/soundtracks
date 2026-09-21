@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fahrenheit: Special Edition | 43281 | [43281-fahrenheit-special-edition.json](./43281-fahrenheit-special-edition.json) |
 | Faif | 128576 | [128576-faif.json](./128576-faif.json) |
 | Fail Factory! | 196314 | [196314-fail-factory.json](./196314-fail-factory.json) |
+| Fail Hard | 39225 | [39225-fail-hard.json](./39225-fail-hard.json) |
 | Fail to Win: Chapter 1 | 114988 | [114988-fail-to-win-chapter-1.json](./114988-fail-to-win-chapter-1.json) |
 | Fail World | 356064 | [356064-fail-world.json](./356064-fail-world.json) |
 | Failed State | 98375 | [98375-failed-state.json](./98375-failed-state.json) |
@@ -1177,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Me | 381015 | [381015-feed-me.json](./381015-feed-me.json) |
 | Feed Me Billy | 125264 | [125264-feed-me-billy.json](./125264-feed-me-billy.json) |
 | Feed Me More Brains | 410907 | [410907-feed-me-more-brains.json](./410907-feed-me-more-brains.json) |
+| Feed Me Oil 2 | 39207 | [39207-feed-me-oil-2.json](./39207-feed-me-oil-2.json) |
 | Feed Me Oil 2: Liquid Puzzle Adventure | 108499 | [108499-feed-me-oil-2-liquid-puzzle-adventure.json](./108499-feed-me-oil-2-liquid-puzzle-adventure.json) |
 | Feed the Animals | 75916 | [75916-feed-the-animals.json](./75916-feed-the-animals.json) |
 | Feed The Beast | 292539 | [292539-feed-the-beast.json](./292539-feed-the-beast.json) |
@@ -2429,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashing Lights: Thunder Sport Sedan Pack (Police, Fire, EMS) | 277591 | [277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json](./277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json) |
 | Flashlight Sim | 304602 | [304602-flashlight-sim.json](./304602-flashlight-sim.json) |
 | Flashloop | 348337 | [348337-flashloop.json](./348337-flashloop.json) |
+| Flashout 3D | 39206 | [39206-flashout-3d.json](./39206-flashout-3d.json) |
 | Flashout III | 199568 | [199568-flashout-iii.json](./199568-flashout-iii.json) |
 | Flashy Maze | 130742 | [130742-flashy-maze.json](./130742-flashy-maze.json) |
 | Flaskoman | 153852 | [153852-flaskoman.json](./153852-flaskoman.json) |
@@ -4094,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline 1942 | 275732 | [275732-frontline-1942.json](./275732-frontline-1942.json) |
 | Frontline Berlin 1945 | 25003 | [25003-frontline-berlin-1945.json](./25003-frontline-berlin-1945.json) |
 | Frontline Commando 2 | 127046 | [127046-frontline-commando-2.json](./127046-frontline-commando-2.json) |
+| Frontline Commando: D-Day | 39223 | [39223-frontline-commando-d-day.json](./39223-frontline-commando-d-day.json) |
 | Frontline Commando: WW2 Shooter | 127048 | [127048-frontline-commando-ww2-shooter.json](./127048-frontline-commando-ww2-shooter.json) |
 | Frontline Crisis | 312168 | [312168-frontline-crisis.json](./312168-frontline-crisis.json) |
 | Frontline Defense | 234934 | [234934-frontline-defense.json](./234934-frontline-defense.json) |
