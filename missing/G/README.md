@@ -2463,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Trak 10 | 7429 | [7429-gran-trak-10.json](./7429-gran-trak-10.json) |
 | Gran Turismo 2 | 1597 | [1597-gran-turismo-2.json](./1597-gran-turismo-2.json) |
 | Gran Turismo 2000 | 298017 | [298017-gran-turismo-2000.json](./298017-gran-turismo-2000.json) |
+| Gran Turismo 4 | 1601 | [1601-gran-turismo-4.json](./1601-gran-turismo-4.json) |
 | Gran Turismo 4 Spec II | 336043 | [336043-gran-turismo-4-spec-ii.json](./336043-gran-turismo-4-spec-ii.json) |
 | Gran Turismo 4: Spec II | 339256 | [339256-gran-turismo-4-spec-ii.json](./339256-gran-turismo-4-spec-ii.json) |
 | Gran Turismo 5 Prologue | 1599 | [1599-gran-turismo-5-prologue.json](./1599-gran-turismo-5-prologue.json) |
@@ -2928,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greyish White | 289345 | [289345-greyish-white.json](./289345-greyish-white.json) |
 | Greyskin | 214049 | [214049-greyskin.json](./214049-greyskin.json) |
 | Greystorm | 73557 | [73557-greystorm.json](./73557-greystorm.json) |
+| Grid 2 | 2138 | [2138-grid-2.json](./2138-grid-2.json) |
 | Grid Crypt | 398466 | [398466-grid-crypt.json](./398466-grid-crypt.json) |
 | Grid Glyphs | 316281 | [316281-grid-glyphs.json](./316281-grid-glyphs.json) |
 | Grid Iron 2 | 94220 | [94220-grid-iron-2.json](./94220-grid-iron-2.json) |
