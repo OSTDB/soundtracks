@@ -942,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barry Bradford's Putt Panic Party | 122865 | [122865-barry-bradfords-putt-panic-party.json](./122865-barry-bradfords-putt-panic-party.json) |
 | Barry Has a Secret | 102173 | [102173-barry-has-a-secret.json](./102173-barry-has-a-secret.json) |
 | Barry Mcguigan Championship Boxing | 45336 | [45336-barry-mcguigan-championship-boxing.json](./45336-barry-mcguigan-championship-boxing.json) |
+| Barry McGuigan World Championship Boxing | 13862 | [13862-barry-mcguigan-world-championship-boxing.json](./13862-barry-mcguigan-world-championship-boxing.json) |
 | Barry the Bunny | 151187 | [151187-barry-the-bunny.json](./151187-barry-the-bunny.json) |
 | Bart Bash | 350404 | [350404-bart-bash.json](./350404-bart-bash.json) |
 | Bart Bird | 26935 | [26935-bart-bird.json](./26935-bart-bird.json) |
@@ -1399,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Tanks: Arena | 240476 | [240476-battle-tanks-arena.json](./240476-battle-tanks-arena.json) |
 | Battle Tap Tap | 233239 | [233239-battle-tap-tap.json](./233239-battle-tap-tap.json) |
 | Battle Teams 2: Wishlist Pack | 310384 | [310384-battle-teams-2-wishlist-pack.json](./310384-battle-teams-2-wishlist-pack.json) |
+| Battle Through Time | 13864 | [13864-battle-through-time.json](./13864-battle-through-time.json) |
 | Battle Thunder Front | 220354 | [220354-battle-thunder-front.json](./220354-battle-thunder-front.json) |
 | Battle Tracks | 207403 | [207403-battle-tracks.json](./207403-battle-tracks.json) |
 | Battle Train | 311876 | [311876-battle-train.json](./311876-battle-train.json) |
@@ -1413,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Zombie Shooter: Survival of the Dead | 100565 | [100565-battle-zombie-shooter-survival-of-the-dead.json](./100565-battle-zombie-shooter-survival-of-the-dead.json) |
 | Battle Zone | 245551 | [245551-battle-zone.json](./245551-battle-zone.json) |
 | Battle Zone: Clicker | 183521 | [183521-battle-zone-clicker.json](./183521-battle-zone-clicker.json) |
+| Battle-field | 13868 | [13868-battle-field.json](./13868-battle-field.json) |
 | Battle-X | 256305 | [256305-battle-x.json](./256305-battle-x.json) |
 | BattleBalls | 365156 | [365156-battleballs.json](./365156-battleballs.json) |
 | BattleBeasts | 99615 | [99615-battlebeasts.json](./99615-battlebeasts.json) |
@@ -1518,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestar Galactica Deadlock: Reinforcement Pack | 171016 | [171016-battlestar-galactica-deadlock-reinforcement-pack.json](./171016-battlestar-galactica-deadlock-reinforcement-pack.json) |
 | Battlestar Galactica Deadlock: Sin and Sacrifice | 115672 | [115672-battlestar-galactica-deadlock-sin-and-sacrifice.json](./115672-battlestar-galactica-deadlock-sin-and-sacrifice.json) |
 | BattleStar Mazay | 104068 | [104068-battlestar-mazay.json](./104068-battlestar-mazay.json) |
+| Battlestations | 13872 | [13872-battlestations.json](./13872-battlestations.json) |
 | Battlestations: Midway | 4223 | [4223-battlestations-midway.json](./4223-battlestations-midway.json) |
 | BattleTabs | 140591 | [140591-battletabs.json](./140591-battletabs.json) |
 | Battletank: L.O.B.A. | 52635 | [52635-battletank-l-o-b-a.json](./52635-battletank-l-o-b-a.json) |
@@ -2649,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Chainsaw Pogo Gorilla | 14526 | [14526-bionic-chainsaw-pogo-gorilla.json](./14526-bionic-chainsaw-pogo-gorilla.json) |
 | Bionic Commando | 9242 | [9242-bionic-commando.json](./9242-bionic-commando.json) |
 | Bionic Dues | 9221 | [9221-bionic-dues.json](./9221-bionic-dues.json) |
+| Bionic Granny | 13880 | [13880-bionic-granny.json](./13880-bionic-granny.json) |
 | Bionic Hunter VR | 127190 | [127190-bionic-hunter-vr.json](./127190-bionic-hunter-vr.json) |
 | Bionic Shield: Battle for Space Nebula Omega | 189123 | [189123-bionic-shield-battle-for-space-nebula-omega.json](./189123-bionic-shield-battle-for-space-nebula-omega.json) |
 | Bionicle Defenders | 343283 | [343283-bionicle-defenders.json](./343283-bionicle-defenders.json) |
@@ -3963,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bohemian Yard | 217866 | [217866-bohemian-yard.json](./217866-bohemian-yard.json) |
 | Bohrdom | 112947 | [112947-bohrdom.json](./112947-bohrdom.json) |
 | Boid | 17646 | [17646-boid.json](./17646-boid.json) |
+| Boing | 13886 | [13886-boing.json](./13886-boing.json) |
 | Boing Boing Bros | 404976 | [404976-boing-boing-bros.json](./404976-boing-boing-bros.json) |
 | Boing Noir | 140356 | [140356-boing-noir.json](./140356-boing-noir.json) |
 | Boing Odyssey | 280889 | [280889-boing-odyssey.json](./280889-boing-odyssey.json) |
