@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Over! | 380539 | [380539-game-over.json](./380539-game-over.json) |
 | Game Party 3 | 76982 | [76982-game-party-3.json](./76982-game-party-3.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
+| Game Set and Match 2 | 41001 | [41001-game-set-and-match-2.json](./41001-game-set-and-match-2.json) |
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
 | Game Software wo Tsukurou | 333557 | [333557-game-software-wo-tsukurou.json](./333557-game-software-wo-tsukurou.json) |
 | Game Soup | 112966 | [112966-game-soup.json](./112966-game-soup.json) |
@@ -478,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game with Car | 192895 | [192895-game-with-car.json](./192895-game-with-car.json) |
 | Game with Friends | 299748 | [299748-game-with-friends.json](./299748-game-with-friends.json) |
 | Game-Pac | 319582 | [319582-game-pac.json](./319582-game-pac.json) |
+| Game, Set & Match | 41002 | [41002-game-set-and-match.json](./41002-game-set-and-match.json) |
 | Game.exe | 142467 | [142467-game-exe.json](./142467-game-exe.json) |
 | Gamebook Adventures 8: Curse of the Assassin | 174344 | [174344-gamebook-adventures-8-curse-of-the-assassin.json](./174344-gamebook-adventures-8-curse-of-the-assassin.json) |
 | Gamebox | 291782 | [291782-gamebox.json](./291782-gamebox.json) |
@@ -751,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaze of the Eyeless | 191089 | [191089-gaze-of-the-eyeless.json](./191089-gaze-of-the-eyeless.json) |
 | Gazed | 393476 | [393476-gazed.json](./393476-gazed.json) |
 | Gazmatera: Return of the Generals | 149039 | [149039-gazmatera-return-of-the-generals.json](./149039-gazmatera-return-of-the-generals.json) |
+| Gazza II | 41000 | [41000-gazza-ii.json](./41000-gazza-ii.json) |
 | GB Genjin Land: Viva! Chikkun Oukoku | 64344 | [64344-gb-genjin-land-viva-chikkun-oukoku.json](./64344-gb-genjin-land-viva-chikkun-oukoku.json) |
 | GB Rober | 152875 | [152875-gb-rober.json](./152875-gb-rober.json) |
 | GBA Championship Basketball: Two-on-Two | 12114 | [12114-gba-championship-basketball-two-on-two.json](./12114-gba-championship-basketball-two-on-two.json) |
