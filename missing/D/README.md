@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D3ad Hand | 315098 | [315098-d3ad-hand.json](./315098-d3ad-hand.json) |
 | D3d Inside | 126659 | [126659-d3d-inside.json](./126659-d3d-inside.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
+| D4 Complete Edition | 52846 | [52846-d4-complete-edition.json](./52846-d4-complete-edition.json) |
 | Da Box | 59672 | [59672-da-box.json](./59672-da-box.json) |
 | Dà Fùwēng | 125469 | [125469-da-fuweng.json](./125469-da-fuweng.json) |
 | Da Paper Boy | 259017 | [259017-da-paper-boy.json](./259017-da-paper-boy.json) |
@@ -113,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DaGame | 146238 | [146238-dagame.json](./146238-dagame.json) |
 | Dagat-i Kal Kal Kal | 63262 | [63262-dagat-i-kal-kal-kal.json](./63262-dagat-i-kal-kal-kal.json) |
 | Dagdrom | 183468 | [183468-dagdrom.json](./183468-dagdrom.json) |
+| Dagestan Technology Anthology | 52844 | [52844-dagestan-technology-anthology.json](./52844-dagestan-technology-anthology.json) |
 | Dagger Woods VR | 333016 | [333016-dagger-woods-vr.json](./333016-dagger-woods-vr.json) |
 | Daggerhood | 115426 | [115426-daggerhood.json](./115426-daggerhood.json) |
 | Dah-Varsity | 304205 | [304205-dah-varsity.json](./304205-dah-varsity.json) |
@@ -333,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Forever | 169866 | [169866-danger-forever.json](./169866-danger-forever.json) |
 | Danger Horizon | 329178 | [329178-danger-horizon.json](./329178-danger-horizon.json) |
 | Danger Ramps | 282005 | [282005-danger-ramps.json](./282005-danger-ramps.json) |
+| Danger Wall! | 52843 | [52843-danger-wall.json](./52843-danger-wall.json) |
 | Danger World | 121616 | [121616-danger-world.json](./121616-danger-world.json) |
 | Danger Zone Friends | 135044 | [135044-danger-zone-friends.json](./135044-danger-zone-friends.json) |
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
@@ -503,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Lord | 85882 | [85882-dark-lord.json](./85882-dark-lord.json) |
 | Dark Lord's Maze | 209472 | [209472-dark-lords-maze.json](./209472-dark-lords-maze.json) |
 | Dark Lords Don't Give A :) | 113519 | [113519-dark-lords-dont-give-a.json](./113519-dark-lords-dont-give-a.json) |
+| Dark Lore Mysteries: Hunt For the Truth | 52841 | [52841-dark-lore-mysteries-hunt-for-the-truth.json](./52841-dark-lore-mysteries-hunt-for-the-truth.json) |
 | Dark Magic 2 | 192387 | [192387-dark-magic-2.json](./192387-dark-magic-2.json) |
 | Dark Magician | 192380 | [192380-dark-magician.json](./192380-dark-magician.json) |
 | Dark Maze | 148912 | [148912-dark-maze.json](./148912-dark-maze.json) |
@@ -587,6 +591,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls: Prepare to Die Edition | 21040 | [21040-dark-souls-prepare-to-die-edition.json](./21040-dark-souls-prepare-to-die-edition.json) |
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
 | Dark Static | 362886 | [362886-dark-static.json](./362886-dark-static.json) |
+| Dark Strokes: Sins of the Fathers | 52839 | [52839-dark-strokes-sins-of-the-fathers.json](./52839-dark-strokes-sins-of-the-fathers.json) |
+| Dark Strokes: Sins of the Fathers - Collector's Edition | 52838 | [52838-dark-strokes-sins-of-the-fathers-collectors-edition.json](./52838-dark-strokes-sins-of-the-fathers-collectors-edition.json) |
 | Dark Summoner | 38900 | [38900-dark-summoner.json](./38900-dark-summoner.json) |
 | Dark Sun | 278964 | [278964-dark-sun.json](./278964-dark-sun.json) |
 | Dark Sun: Shattered Lands | 2466 | [2466-dark-sun-shattered-lands.json](./2466-dark-sun-shattered-lands.json) |
@@ -877,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day at the Office: Prologue | 315717 | [315717-day-at-the-office-prologue.json](./315717-day-at-the-office-prologue.json) |
 | Day at the Races | 242821 | [242821-day-at-the-races.json](./242821-day-at-the-races.json) |
 | Day D: Through Time - Collector's Edition | 355556 | [355556-day-d-through-time-collectors-edition.json](./355556-day-d-through-time-collectors-edition.json) |
+| Day D: Time Mayhem | 52874 | [52874-day-d-time-mayhem.json](./52874-day-d-time-mayhem.json) |
 | Day Hard | 222413 | [222413-day-hard.json](./222413-day-hard.json) |
 | Day In Dementia | 103170 | [103170-day-in-dementia.json](./103170-day-in-dementia.json) |
 | Day of Defeat | 7551 | [7551-day-of-defeat.json](./7551-day-of-defeat.json) |
@@ -1217,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadeus | 122405 | [122405-deadeus.json](./122405-deadeus.json) |
 | DeadEye | 116340 | [116340-deadeye.json](./116340-deadeye.json) |
 | Deadeye Deepfake Simulacrum | 156161 | [156161-deadeye-deepfake-simulacrum.json](./156161-deadeye-deepfake-simulacrum.json) |
+| Deadfall Adventures: Deluxe Edition | 52868 | [52868-deadfall-adventures-deluxe-edition.json](./52868-deadfall-adventures-deluxe-edition.json) |
 | Deadfall Tropics | 99644 | [99644-deadfall-tropics.json](./99644-deadfall-tropics.json) |
 | Deadhikers | 385565 | [385565-deadhikers.json](./385565-deadhikers.json) |
 | Deadhunt | 33709 | [33709-deadhunt.json](./33709-deadhunt.json) |
@@ -1262,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Survival | 277022 | [277022-deadly-survival.json](./277022-deadly-survival.json) |
 | Deadly Tecknology | 188655 | [188655-deadly-tecknology.json](./188655-deadly-tecknology.json) |
 | Deadly Tide | 3139 | [3139-deadly-tide.json](./3139-deadly-tide.json) |
+| Deadly Voltage: Rise of the Invincible | 52866 | [52866-deadly-voltage-rise-of-the-invincible.json](./52866-deadly-voltage-rise-of-the-invincible.json) |
 | Deadly Way | 151004 | [151004-deadly-way.json](./151004-deadly-way.json) |
 | Deadman Diaries | 197848 | [197848-deadman-diaries.json](./197848-deadman-diaries.json) |
 | Deadnaut | 51755 | [51755-deadnaut.json](./51755-deadnaut.json) |
@@ -1553,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep | 184605 | [184605-deep.json](./184605-deep.json) |
 | Deep Alchemy Dungeon | 207500 | [207500-deep-alchemy-dungeon.json](./207500-deep-alchemy-dungeon.json) |
 | Deep Among the Swarm | 285013 | [285013-deep-among-the-swarm.json](./285013-deep-among-the-swarm.json) |
+| Deep Black: Reloaded | 52863 | [52863-deep-black-reloaded.json](./52863-deep-black-reloaded.json) |
 | Deep Blue | 75524 | [75524-deep-blue.json](./75524-deep-blue.json) |
 | Deep Blue Fantasy | 253612 | [253612-deep-blue-fantasy.json](./253612-deep-blue-fantasy.json) |
 | Deep Blue Odyssey | 244475 | [244475-deep-blue-odyssey.json](./244475-deep-blue-odyssey.json) |
@@ -1707,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender's Quest 2: Mists of Ruin | 7889 | [7889-defenders-quest-2-mists-of-ruin.json](./7889-defenders-quest-2-mists-of-ruin.json) |
 | Defenders | 309497 | [309497-defenders.json](./309497-defenders.json) |
 | Defenders Glory | 195638 | [195638-defenders-glory.json](./195638-defenders-glory.json) |
+| Defenders of Ardania: The Conjurer's Tricks | 52862 | [52862-defenders-of-ardania-the-conjurers-tricks.json](./52862-defenders-of-ardania-the-conjurers-tricks.json) |
 | Defenders of Asteria | 207537 | [207537-defenders-of-asteria.json](./207537-defenders-of-asteria.json) |
 | Defenders of Cardom | 257959 | [257959-defenders-of-cardom.json](./257959-defenders-of-cardom.json) |
 | Defenders of Dynatron City | 48066 | [48066-defenders-of-dynatron-city.json](./48066-defenders-of-dynatron-city.json) |
@@ -1927,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Heart | 158588 | [158588-demon-heart.json](./158588-demon-heart.json) |
 | Demon Hunt | 319555 | [319555-demon-hunt.json](./319555-demon-hunt.json) |
 | Demon Hunter 2: New Chapter | 32774 | [32774-demon-hunter-2-new-chapter.json](./32774-demon-hunter-2-new-chapter.json) |
+| Demon Hunter Collection | 52892 | [52892-demon-hunter-collection.json](./52892-demon-hunter-collection.json) |
 | Demon Hunter Mai | 134603 | [134603-demon-hunter-mai.json](./134603-demon-hunter-mai.json) |
 | Demon Hunter: Chronicles from Beyond | 17987 | [17987-demon-hunter-chronicles-from-beyond.json](./17987-demon-hunter-chronicles-from-beyond.json) |
 | Demon Hunter: New Chapter | 232987 | [232987-demon-hunter-new-chapter.json](./232987-demon-hunter-new-chapter.json) |
@@ -1996,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons of Problematique 2 | 260127 | [260127-demons-of-problematique-2.json](./260127-demons-of-problematique-2.json) |
 | Demons Rise Up! | 192877 | [192877-demons-rise-up.json](./192877-demons-rise-up.json) |
 | Demons vs. Fairyland | 245328 | [245328-demons-vs-fairyland.json](./245328-demons-vs-fairyland.json) |
+| Demons with Shotguns: Deluxe Edition | 52890 | [52890-demons-with-shotguns-deluxe-edition.json](./52890-demons-with-shotguns-deluxe-edition.json) |
 | Demonspire | 381701 | [381701-demonspire.json](./381701-demonspire.json) |
 | Demonstar | 9117 | [9117-demonstar.json](./9117-demonstar.json) |
 | DemonStar: Original Missions | 272391 | [272391-demonstar-original-missions.json](./272391-demonstar-original-missions.json) |
@@ -2073,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth Hunter 2: Treasure Hunter | 167272 | [167272-depth-hunter-2-treasure-hunter.json](./167272-depth-hunter-2-treasure-hunter.json) |
 | Depth Loop | 317854 | [317854-depth-loop.json](./317854-depth-loop.json) |
 | Depth Siege Atlantis | 96521 | [96521-depth-siege-atlantis.json](./96521-depth-siege-atlantis.json) |
+| Depth: Digital Deluxe Edition | 52889 | [52889-depth-digital-deluxe-edition.json](./52889-depth-digital-deluxe-edition.json) |
 | DepthMera | 55511 | [55511-depthmera.json](./55511-depthmera.json) |
 | Depths Of Apollyon | 351123 | [351123-depths-of-apollyon.json](./351123-depths-of-apollyon.json) |
 | Depths of Betrayal | 175800 | [175800-depths-of-betrayal.json](./175800-depths-of-betrayal.json) |
@@ -2258,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destination Dungeons: Catacombs of Dreams | 103482 | [103482-destination-dungeons-catacombs-of-dreams.json](./103482-destination-dungeons-catacombs-of-dreams.json) |
 | Destination Earthstar | 22410 | [22410-destination-earthstar.json](./22410-destination-earthstar.json) |
 | Destination Paradise | 295273 | [295273-destination-paradise.json](./295273-destination-paradise.json) |
+| Destination Treasure Island | 52888 | [52888-destination-treasure-island.json](./52888-destination-treasure-island.json) |
 | Destination: Dragons! | 292819 | [292819-destination-dragons.json](./292819-destination-dragons.json) |
 | Destination: Mars! | 72101 | [72101-destination-mars.json](./72101-destination-mars.json) |
 | Destinies | 152884 | [152884-destinies.json](./152884-destinies.json) |
@@ -2266,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Beyond Light | 134830 | [134830-destiny-2-beyond-light.json](./134830-destiny-2-beyond-light.json) |
 | Destiny 2: Beyond Light - Deluxe Edition | 139825 | [139825-destiny-2-beyond-light-deluxe-edition.json](./139825-destiny-2-beyond-light-deluxe-edition.json) |
 | Destiny 2: Beyond Light - Season of the Hunt | 140978 | [140978-destiny-2-beyond-light-season-of-the-hunt.json](./140978-destiny-2-beyond-light-season-of-the-hunt.json) |
+| Destiny 2: Digital Deluxe Edition | 52887 | [52887-destiny-2-digital-deluxe-edition.json](./52887-destiny-2-digital-deluxe-edition.json) |
 | Destiny 2: Echoes | 305328 | [305328-destiny-2-echoes.json](./305328-destiny-2-echoes.json) |
 | Destiny 2: Forsaken - Digital Deluxe Edition | 132150 | [132150-destiny-2-forsaken-digital-deluxe-edition.json](./132150-destiny-2-forsaken-digital-deluxe-edition.json) |
 | Destiny 2: Forsaken Pack | 227352 | [227352-destiny-2-forsaken-pack.json](./227352-destiny-2-forsaken-pack.json) |
@@ -2287,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny of an Emperor | 48064 | [48064-destiny-of-an-emperor.json](./48064-destiny-of-an-emperor.json) |
 | Destiny of Spirits | 42682 | [42682-destiny-of-spirits.json](./42682-destiny-of-spirits.json) |
 | Destiny of Thrones | 97322 | [97322-destiny-of-thrones.json](./97322-destiny-of-thrones.json) |
+| Destiny RPG | 52886 | [52886-destiny-rpg.json](./52886-destiny-rpg.json) |
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
 | Destiny's Plan | 182355 | [182355-destinys-plan.json](./182355-destinys-plan.json) |
@@ -2379,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detention | 26776 | [26776-detention.json](./26776-detention.json) |
 | Detention | 320745 | [320745-detention.json](./320745-detention.json) |
 | Detention Club: School's Out | 167813 | [167813-detention-club-schools-out.json](./167813-detention-club-schools-out.json) |
+| Detention: Deluxe Edition | 52885 | [52885-detention-deluxe-edition.json](./52885-detention-deluxe-edition.json) |
 | Dethcube | 148487 | [148487-dethcube.json](./148487-dethcube.json) |
 | DethKarz | 51252 | [51252-dethkarz.json](./51252-dethkarz.json) |
 | Dethrone | 182977 | [182977-dethrone.json](./182977-dethrone.json) |
@@ -2397,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex Machina | 130344 | [130344-deus-ex-machina.json](./130344-deus-ex-machina.json) |
 | Deus Ex Machina: Game of the Year - 30th Anniversary Collector's Edition | 91098 | [91098-deus-ex-machina-game-of-the-year-30th-anniversary-collectors-edition.json](./91098-deus-ex-machina-game-of-the-year-30th-anniversary-collectors-edition.json) |
 | Deus Ex: Breach | 30494 | [30494-deus-ex-breach.json](./30494-deus-ex-breach.json) |
+| Deus Ex: Collection | 52883 | [52883-deus-ex-collection.json](./52883-deus-ex-collection.json) |
 | Deus Ex: Game of the Year Edition | 25358 | [25358-deus-ex-game-of-the-year-edition.json](./25358-deus-ex-game-of-the-year-edition.json) |
 | Deus Ex: Invisible War | 42 | [42-deus-ex-invisible-war.json](./42-deus-ex-invisible-war.json) |
 | Deus Ex: Mankind Divided - Assault Pack | 374695 | [374695-deus-ex-mankind-divided-assault-pack.json](./374695-deus-ex-mankind-divided-assault-pack.json) |
