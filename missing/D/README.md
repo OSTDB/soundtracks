@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dahalo | 127252 | [127252-dahalo.json](./127252-dahalo.json) |
 | Dahlia | 58839 | [58839-dahlia.json](./58839-dahlia.json) |
 | Dahliphoria | 224768 | [224768-dahliphoria.json](./224768-dahliphoria.json) |
+| Dahna: Megami Tanjou | 46185 | [46185-dahna-megami-tanjou.json](./46185-dahna-megami-tanjou.json) |
 | Dai Datsugoku! Hell chama Prison no Yabou | 353376 | [353376-dai-datsugoku-hell-chama-prison-no-yabou.json](./353376-dai-datsugoku-hell-chama-prison-no-yabou.json) |
 | Dai-2-ji Super Robot Taisen | 240912 | [240912-dai-2-ji-super-robot-taisen.json](./240912-dai-2-ji-super-robot-taisen.json) |
 | Dai-2-ji Super Robot Taisen | 48636 | [48636-dai-2-ji-super-robot-taisen.json](./48636-dai-2-ji-super-robot-taisen.json) |
@@ -732,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daruino | 185536 | [185536-daruino.json](./185536-daruino.json) |
 | Darumeshi Sports Store | 230306 | [230306-darumeshi-sports-store.json](./230306-darumeshi-sports-store.json) |
 | Darwin | 309853 | [309853-darwin.json](./309853-darwin.json) |
+| Darwin 4081 | 46187 | [46187-darwin-4081.json](./46187-darwin-4081.json) |
 | Darwin's Demons | 30105 | [30105-darwins-demons.json](./30105-darwins-demons.json) |
 | Darwin's Legacy | 184596 | [184596-darwins-legacy.json](./184596-darwins-legacy.json) |
 | Darwins Trash | 370149 | [370149-darwins-trash.json](./370149-darwins-trash.json) |
@@ -762,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dasher | 158205 | [158205-dasher.json](./158205-dasher.json) |
 | Dashes & Squares | 272377 | [272377-dashes-and-squares.json](./272377-dashes-and-squares.json) |
 | DashFire | 339367 | [339367-dashfire.json](./339367-dashfire.json) |
+| Dashin' Desperadoes | 46247 | [46247-dashin-desperadoes.json](./46247-dashin-desperadoes.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
 | Dashpunch | 319805 | [319805-dashpunch.json](./319805-dashpunch.json) |
@@ -1266,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Maze | 156601 | [156601-deadly-maze.json](./156601-deadly-maze.json) |
 | Deadly Metal | 31788 | [31788-deadly-metal.json](./31788-deadly-metal.json) |
 | Deadly Metropolis | 359516 | [359516-deadly-metropolis.json](./359516-deadly-metropolis.json) |
+| Deadly Moves | 46225 | [46225-deadly-moves.json](./46225-deadly-moves.json) |
 | Deadly Night | 207405 | [207405-deadly-night.json](./207405-deadly-night.json) |
 | Deadly Nightmare | 190084 | [190084-deadly-nightmare.json](./190084-deadly-nightmare.json) |
 | Deadly Parkour | 295407 | [295407-deadly-parkour.json](./295407-deadly-parkour.json) |
@@ -1372,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Dojo | 30913 | [30913-death-dojo.json](./30913-death-dojo.json) |
 | Death Drive | 197775 | [197775-death-drive.json](./197775-death-drive.json) |
 | Death Drome | 73755 | [73755-death-drome.json](./73755-death-drome.json) |
+| Death Duel | 46224 | [46224-death-duel.json](./46224-death-duel.json) |
 | Death Dungeon | 193995 | [193995-death-dungeon.json](./193995-death-dungeon.json) |
 | Death Education | 301263 | [301263-death-education.json](./301263-death-education.json) |
 | Death Elevator | 255717 | [255717-death-elevator.json](./255717-death-elevator.json) |
@@ -2507,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devilish Charms | 227946 | [227946-devilish-charms.json](./227946-devilish-charms.json) |
 | Devilish Girl | 261885 | [261885-devilish-girl.json](./261885-devilish-girl.json) |
 | Devilish League | 285017 | [285017-devilish-league.json](./285017-devilish-league.json) |
+| Devilish: The Next Possession | 46222 | [46222-devilish-the-next-possession.json](./46222-devilish-the-next-possession.json) |
 | Devilition | 318597 | [318597-devilition.json](./318597-devilition.json) |
 | Devilman | 43896 | [43896-devilman.json](./43896-devilman.json) |
 | Devilman | 80868 | [80868-devilman.json](./80868-devilman.json) |
@@ -3170,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disillusions Manga Horror | 9825 | [9825-disillusions-manga-horror.json](./9825-disillusions-manga-horror.json) |
 | Disintegration | 243254 | [243254-disintegration.json](./243254-disintegration.json) |
 | Disjunction | 112005 | [112005-disjunction.json](./112005-disjunction.json) |
+| Disk Jockey Boy | 46220 | [46220-disk-jockey-boy.json](./46220-disk-jockey-boy.json) |
 | Disk NG 1 | 220140 | [220140-disk-ng-1.json](./220140-disk-ng-1.json) |
 | Disk Station #0 | 78958 | [78958-disk-station-0.json](./78958-disk-station-0.json) |
 | Disk-0 Madness | 255074 | [255074-disk-0-madness.json](./255074-disk-0-madness.json) |
@@ -4785,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair: Daring Edition | 100722 | [100722-dragons-lair-daring-edition.json](./100722-dragons-lair-daring-edition.json) |
 | Dragon's Lair: The Legend | 117950 | [117950-dragons-lair-the-legend.json](./117950-dragons-lair-the-legend.json) |
 | Dragon's Playground | 178010 | [178010-dragons-playground.json](./178010-dragons-playground.json) |
+| Dragon's Revenge | 46219 | [46219-dragons-revenge.json](./46219-dragons-revenge.json) |
 | Dragon's Valkyrie: Wings of Fire | 337667 | [337667-dragons-valkyrie-wings-of-fire.json](./337667-dragons-valkyrie-wings-of-fire.json) |
 | Dragon's Wake | 34533 | [34533-dragons-wake.json](./34533-dragons-wake.json) |
 | Dragon's Wandering Tavern | 153985 | [153985-dragons-wandering-tavern.json](./153985-dragons-wandering-tavern.json) |
