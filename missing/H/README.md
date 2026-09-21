@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | h What is the Common | 89806 | [89806-h-what-is-the-common.json](./89806-h-what-is-the-common.json) |
 | H.A.V.E. Online | 137476 | [137476-h-a-v-e-online.json](./137476-h-a-v-e-online.json) |
 | H.E. | 108252 | [108252-h-e.json](./108252-h-e.json) |
+| H.E.D.Z. - Head Extreme Destruction Zone | 50140 | [50140-h-e-d-z-head-extreme-destruction-zone.json](./50140-h-e-d-z-head-extreme-destruction-zone.json) |
 | H.E.R.O. | 6112 | [6112-h-e-r-o.json](./6112-h-e-r-o.json) |
 | H.I.v.C.A.: Human Intelligence vs Computer Algorithm | 311102 | [311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json](./311102-h-i-v-c-a-human-intelligence-vs-computer-algorithm.json) |
 | H.O.G.S | 296914 | [296914-h-o-g-s.json](./296914-h-o-g-s.json) |
@@ -3971,6 +3972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurricane | 25928 | [25928-hurricane.json](./25928-hurricane.json) |
 | Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
 | Hush | 95475 | [95475-hush.json](./95475-hush.json) |
+| Hush - Into the Darkness | 50155 | [50155-hush-into-the-darkness.json](./50155-hush-into-the-darkness.json) |
 | Hush Darling | 415099 | [415099-hush-darling.json](./415099-hush-darling.json) |
 | Hush Little Lily | 177395 | [177395-hush-little-lily.json](./177395-hush-little-lily.json) |
 | Hush: In Search of Dominic Ward | 116298 | [116298-hush-in-search-of-dominic-ward.json](./116298-hush-in-search-of-dominic-ward.json) |
