@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Genesis Evangelion: Girlfriend of Steel - Special Edition | 255105 | [255105-neon-genesis-evangelion-girlfriend-of-steel-special-edition.json](./255105-neon-genesis-evangelion-girlfriend-of-steel-special-edition.json) |
 | Neon Genesis Evangelion: Shinji Ikari Raising Project | 75878 | [75878-neon-genesis-evangelion-shinji-ikari-raising-project.json](./75878-neon-genesis-evangelion-shinji-ikari-raising-project.json) |
 | Neon Genesis Evangelion: The Iron Maiden 2nd | 75879 | [75879-neon-genesis-evangelion-the-iron-maiden-2nd.json](./75879-neon-genesis-evangelion-the-iron-maiden-2nd.json) |
+| Neon Genesis Evangelion: Tsukurareshi Sekai - Another Cases | 42840 | [42840-neon-genesis-evangelion-tsukurareshi-sekai-another-cases.json](./42840-neon-genesis-evangelion-tsukurareshi-sekai-another-cases.json) |
 | Neon Geometry Dash | 279004 | [279004-neon-geometry-dash.json](./279004-neon-geometry-dash.json) |
 | Neon Girls | 140563 | [140563-neon-girls.json](./140563-neon-girls.json) |
 | Neon Goddess | 278967 | [278967-neon-goddess.json](./278967-neon-goddess.json) |
@@ -1872,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Friends | 244337 | [244337-no-friends.json](./244337-no-friends.json) |
 | No Ghost in Circus Caravan | 311999 | [311999-no-ghost-in-circus-caravan.json](./311999-no-ghost-in-circus-caravan.json) |
 | No Gods, Only Ducks | 415902 | [415902-no-gods-only-ducks.json](./415902-no-gods-only-ducks.json) |
+| No Gravity: The Plague Of Mind | 42846 | [42846-no-gravity-the-plague-of-mind.json](./42846-no-gravity-the-plague-of-mind.json) |
 | No Heroes Allowed! | 234732 | [234732-no-heroes-allowed.json](./234732-no-heroes-allowed.json) |
 | No Horizon | 109572 | [109572-no-horizon.json](./109572-no-horizon.json) |
 | No JetPacks For Chattini | 346015 | [346015-no-jetpacks-for-chattini.json](./346015-no-jetpacks-for-chattini.json) |
