@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Apples | 141636 | [141636-bad-apples.json](./141636-bad-apples.json) |
 | Bad Bad | 195235 | [195235-bad-bad.json](./195235-bad-bad.json) |
 | Bad Bitch Blasters | 337996 | [337996-bad-bitch-blasters.json](./337996-bad-bitch-blasters.json) |
+| Bad Blood | 11335 | [11335-bad-blood.json](./11335-bad-blood.json) |
 | Bad Bots Battle Arena | 166699 | [166699-bad-bots-battle-arena.json](./166699-bad-bots-battle-arena.json) |
 | Bad Bots Rises | 27758 | [27758-bad-bots-rises.json](./27758-bad-bots-rises.json) |
 | Bad Business | 118304 | [118304-bad-business.json](./118304-bad-business.json) |
@@ -970,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Jump: Wing Suit Flying | 199114 | [199114-base-jump-wing-suit-flying.json](./199114-base-jump-wing-suit-flying.json) |
 | Base Raid | 31808 | [31808-base-raid.json](./31808-base-raid.json) |
 | Base Squad 49 | 33026 | [33026-base-squad-49.json](./33026-base-squad-49.json) |
+| Baseball | 11412 | [11412-baseball.json](./11412-baseball.json) |
 | Baseball | 131527 | [131527-baseball.json](./131527-baseball.json) |
 | Baseball | 245560 | [245560-baseball.json](./245560-baseball.json) |
 | Baseball | 245561 | [245561-baseball.json](./245561-baseball.json) |
@@ -3356,6 +3358,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzkrieg 3: Deluxe Edition | 52653 | [52653-blitzkrieg-3-deluxe-edition.json](./52653-blitzkrieg-3-deluxe-edition.json) |
 | Blitzkrieg: Battle at the Ardennes | 14318 | [14318-blitzkrieg-battle-at-the-ardennes.json](./14318-blitzkrieg-battle-at-the-ardennes.json) |
 | Blitzkrieg: Complete Collection | 52652 | [52652-blitzkrieg-complete-collection.json](./52652-blitzkrieg-complete-collection.json) |
+| Blitzkrieg: Iron Division | 11264 | [11264-blitzkrieg-iron-division.json](./11264-blitzkrieg-iron-division.json) |
+| Blitzkrieg: Rolling Thunder | 11263 | [11263-blitzkrieg-rolling-thunder.json](./11263-blitzkrieg-rolling-thunder.json) |
 | BlitzPunch | 188123 | [188123-blitzpunch.json](./188123-blitzpunch.json) |
 | Blix & Chocolate Mine | 145031 | [145031-blix-and-chocolate-mine.json](./145031-blix-and-chocolate-mine.json) |
 | Blizzard Blowout 64 | 177563 | [177563-blizzard-blowout-64.json](./177563-blizzard-blowout-64.json) |
