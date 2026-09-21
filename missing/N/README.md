@@ -1894,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Paper! | 240224 | [240224-no-paper.json](./240224-no-paper.json) |
 | No Place For Bravery | 23690 | [23690-no-place-for-bravery.json](./23690-no-place-for-bravery.json) |
 | No Place for the Dissident | 141136 | [141136-no-place-for-the-dissident.json](./141136-no-place-for-the-dissident.json) |
+| No Plumbing Required | 58506 | [58506-no-plumbing-required.json](./58506-no-plumbing-required.json) |
 | No Prey, No Pay | 176458 | [176458-no-prey-no-pay.json](./176458-no-prey-no-pay.json) |
 | No Reality | 130307 | [130307-no-reality.json](./130307-no-reality.json) |
 | No Recollection: Swimsuit DLC! | 315486 | [315486-no-recollection-swimsuit-dlc.json](./315486-no-recollection-swimsuit-dlc.json) |
