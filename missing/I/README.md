@@ -1772,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaded | 121698 | [121698-invaded.json](./121698-invaded.json) |
 | Invader Signal | 207404 | [207404-invader-signal.json](./207404-invader-signal.json) |
 | Invader Simulator | 351616 | [351616-invader-simulator.json](./351616-invader-simulator.json) |
+| Invader's Revenge | 38572 | [38572-invaders-revenge.json](./38572-invaders-revenge.json) |
 | Invaders | 170422 | [170422-invaders.json](./170422-invaders.json) |
 | Invaders | 217960 | [217960-invaders.json](./217960-invaders.json) |
 | Invaders | 271990 | [271990-invaders.json](./271990-invaders.json) |
