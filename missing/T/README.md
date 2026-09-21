@@ -10421,6 +10421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Stormfront | 9442 | [9442-tropical-stormfront.json](./9442-tropical-stormfront.json) |
 | Tropical Treasure Hunt | 386882 | [386882-tropical-treasure-hunt.json](./386882-tropical-treasure-hunt.json) |
 | Tropical Treats | 103885 | [103885-tropical-treats.json](./103885-tropical-treats.json) |
+| Tropical Trouble | 18589 | [18589-tropical-trouble.json](./18589-tropical-trouble.json) |
 | Tropicalia | 138612 | [138612-tropicalia.json](./138612-tropicalia.json) |
 | Tropico 4 Collector's Bundle | 50872 | [50872-tropico-4-collectors-bundle.json](./50872-tropico-4-collectors-bundle.json) |
 | Tropico 4: Apocalypse | 53848 | [53848-tropico-4-apocalypse.json](./53848-tropico-4-apocalypse.json) |
@@ -10780,6 +10781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turma da Mônica na Terra dos Monstros | 98931 | [98931-turma-da-monica-na-terra-dos-monstros.json](./98931-turma-da-monica-na-terra-dos-monstros.json) |
 | Turma do Arrepio: Grand Prix | 249456 | [249456-turma-do-arrepio-grand-prix.json](./249456-turma-do-arrepio-grand-prix.json) |
 | Turma do Chico Bento | 251580 | [251580-turma-do-chico-bento.json](./251580-turma-do-chico-bento.json) |
+| Turmoil | 18559 | [18559-turmoil.json](./18559-turmoil.json) |
 | Turmoil | 19438 | [19438-turmoil.json](./19438-turmoil.json) |
 | Turmoil | 305530 | [305530-turmoil.json](./305530-turmoil.json) |
 | Turmoil: The Heat Is On | 124826 | [124826-turmoil-the-heat-is-on.json](./124826-turmoil-the-heat-is-on.json) |
