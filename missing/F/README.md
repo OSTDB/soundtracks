@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order Lostbelt No. 3: SIN | 414304 | [414304-fate-grand-order-lostbelt-no-3-sin.json](./414304-fate-grand-order-lostbelt-no-3-sin.json) |
 | Fate/Grand Order Lostbelt No. 5: Atlantis | 414306 | [414306-fate-grand-order-lostbelt-no-5-atlantis.json](./414306-fate-grand-order-lostbelt-no-5-atlantis.json) |
 | Fate/Grand Order Lostbelt No. 5: Olympus | 414357 | [414357-fate-grand-order-lostbelt-no-5-olympus.json](./414357-fate-grand-order-lostbelt-no-5-olympus.json) |
+| Fate/Grand Order VR feat. Mash Kyrielight | 26933 | [26933-fate-grand-order-vr-feat-mash-kyrielight.json](./26933-fate-grand-order-vr-feat-mash-kyrielight.json) |
 | Fate/Grand Order: Epic of Remnant EX - SE.RA.PH | 414365 | [414365-fate-grand-order-epic-of-remnant-ex-se-ra-ph.json](./414365-fate-grand-order-epic-of-remnant-ex-se-ra-ph.json) |
 | Fate/Grand Order: Epic of Remnant I - Shinjuku | 414364 | [414364-fate-grand-order-epic-of-remnant-i-shinjuku.json](./414364-fate-grand-order-epic-of-remnant-i-shinjuku.json) |
 | Fate/Grand Order: Epic of Remnant III - Shimousa | 414363 | [414363-fate-grand-order-epic-of-remnant-iii-shimousa.json](./414363-fate-grand-order-epic-of-remnant-iii-shimousa.json) |
