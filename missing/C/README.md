@@ -1826,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Change | 81724 | [81724-change.json](./81724-change.json) |
 | Change Air Blade | 39833 | [39833-change-air-blade.json](./39833-change-air-blade.json) |
 | Change Maker | 71769 | [71769-change-maker.json](./71769-change-maker.json) |
+| Change: A Homeless Survival Experience | 109339 | [109339-change-a-homeless-survival-experience.json](./109339-change-a-homeless-survival-experience.json) |
 | Change: A Homeless Survival Experience - Living City Expansion | 199664 | [199664-change-a-homeless-survival-experience-living-city-expansion.json](./199664-change-a-homeless-survival-experience-living-city-expansion.json) |
 | Changelog | 360569 | [360569-changelog.json](./360569-changelog.json) |
 | Changes | 152903 | [152903-changes.json](./152903-changes.json) |
@@ -3000,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Gangsters: Deluxe Edition | 173783 | [173783-city-of-gangsters-deluxe-edition.json](./173783-city-of-gangsters-deluxe-edition.json) |
 | City of Gangsters: Shadow Government | 203928 | [203928-city-of-gangsters-shadow-government.json](./203928-city-of-gangsters-shadow-government.json) |
 | City of God I: Prison Empire - Outrage | 170431 | [170431-city-of-god-i-prison-empire-outrage.json](./170431-city-of-god-i-prison-empire-outrage.json) |
+| City of Heroes | 7830 | [7830-city-of-heroes.json](./7830-city-of-heroes.json) |
 | City of Love: Paris | 227511 | [227511-city-of-love-paris.json](./227511-city-of-love-paris.json) |
 | City of Mist | 112328 | [112328-city-of-mist.json](./112328-city-of-mist.json) |
 | City of Mist 2 | 123536 | [123536-city-of-mist-2.json](./123536-city-of-mist-2.json) |
@@ -3625,6 +3627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Run | 74470 | [74470-coffee-run.json](./74470-coffee-run.json) |
 | Coffee Shop Tycoon | 35274 | [35274-coffee-shop-tycoon.json](./35274-coffee-shop-tycoon.json) |
 | Coffee Talk | 106847 | [106847-coffee-talk.json](./106847-coffee-talk.json) |
+| Coffee Talk: Episode 2 - Hibiscus & Butterfly | 186528 | [186528-coffee-talk-episode-2-hibiscus-and-butterfly.json](./186528-coffee-talk-episode-2-hibiscus-and-butterfly.json) |
 | Coffee Tycoon | 73561 | [73561-coffee-tycoon.json](./73561-coffee-tycoon.json) |
 | Coffee VendoR | 113685 | [113685-coffee-vendor.json](./113685-coffee-vendor.json) |
 | Coffee with Prescilla | 169428 | [169428-coffee-with-prescilla.json](./169428-coffee-with-prescilla.json) |
