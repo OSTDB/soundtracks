@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K3 | 4030 | [4030-nba-2k3.json](./4030-nba-2k3.json) |
 | NBA 2K6 | 257114 | [257114-nba-2k6.json](./257114-nba-2k6.json) |
 | NBA 3 on 3 Featuring Kobe Bryant | 49904 | [49904-nba-3-on-3-featuring-kobe-bryant.json](./49904-nba-3-on-3-featuring-kobe-bryant.json) |
+| NBA Action '94 | 45552 | [45552-nba-action-94.json](./45552-nba-action-94.json) |
 | NBA Baller Beats | 47414 | [47414-nba-baller-beats.json](./47414-nba-baller-beats.json) |
 | NBA Ballers: Rebound | 72721 | [72721-nba-ballers-rebound.json](./72721-nba-ballers-rebound.json) |
 | NBA Courtside 2 Featuring Kobe Bryant | 3549 | [3549-nba-courtside-2-featuring-kobe-bryant.json](./3549-nba-courtside-2-featuring-kobe-bryant.json) |
@@ -475,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Now 23 | 239884 | [239884-nba-now-23.json](./239884-nba-now-23.json) |
 | NBA Playgrounds: Hot 'N Frosty | 170913 | [170913-nba-playgrounds-hot-n-frosty.json](./170913-nba-playgrounds-hot-n-frosty.json) |
 | NBA Show Time: NBA on NBC | 49902 | [49902-nba-show-time-nba-on-nbc.json](./49902-nba-show-time-nba-on-nbc.json) |
+| NBA Showdown | 45573 | [45573-nba-showdown.json](./45573-nba-showdown.json) |
 | NBA Street Homecourt | 7108 | [7108-nba-street-homecourt.json](./7108-nba-street-homecourt.json) |
 | NBA Street Vol. 2 | 4036 | [4036-nba-street-vol-2.json](./4036-nba-street-vol-2.json) |
 | NBA Supercard | 142270 | [142270-nba-supercard.json](./142270-nba-supercard.json) |
