@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kipi Oppi | 403043 | [403043-kipi-oppi.json](./403043-kipi-oppi.json) |
 | Kipidon: We Will Always Love You | 337455 | [337455-kipidon-we-will-always-love-you.json](./337455-kipidon-we-will-always-love-you.json) |
 | KIPP: Untouched | 225632 | [225632-kipp-untouched.json](./225632-kipp-untouched.json) |
+| Kira | 29151 | [29151-kira.json](./29151-kira.json) |
 | Kira Kira | 140523 | [140523-kira-kira.json](./140523-kira-kira.json) |
 | Kira Kira Pop Princess | 26560 | [26560-kira-kira-pop-princess.json](./26560-kira-kira-pop-princess.json) |
 | Kira Kira Rainbow Pack | 26562 | [26562-kira-kira-rainbow-pack.json](./26562-kira-kira-rainbow-pack.json) |
@@ -1999,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuroinu 2 Redux | 262080 | [262080-kuroinu-2-redux.json](./262080-kuroinu-2-redux.json) |
 | Kuroko no Basket: Mirai he no Kizuna | 60492 | [60492-kuroko-no-basket-mirai-he-no-kizuna.json](./60492-kuroko-no-basket-mirai-he-no-kizuna.json) |
 | Kuroneko-sou Souzoku Satsujin Jiken | 222910 | [222910-kuroneko-sou-souzoku-satsujin-jiken.json](./222910-kuroneko-sou-souzoku-satsujin-jiken.json) |
+| Kursk - Battle at Prochorovka | 29223 | [29223-kursk-battle-at-prochorovka.json](./29223-kursk-battle-at-prochorovka.json) |
 | Kurt: Der Fussballmanager | 171616 | [171616-kurt-der-fussballmanager.json](./171616-kurt-der-fussballmanager.json) |
 | Kuru-kuru Action Kuru Pachi 6 | 220845 | [220845-kuru-kuru-action-kuru-pachi-6.json](./220845-kuru-kuru-action-kuru-pachi-6.json) |
 | Kuru-kuru Puzzle Sekai-shi B | 276465 | [276465-kuru-kuru-puzzle-sekai-shi-b.json](./276465-kuru-kuru-puzzle-sekai-shi-b.json) |
