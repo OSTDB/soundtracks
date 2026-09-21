@@ -3687,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Station Cop Inc: Tycoon | 174884 | [174884-police-station-cop-inc-tycoon.json](./174884-police-station-cop-inc-tycoon.json) |
 | Police Stories: Zombie Case | 195756 | [195756-police-stories-zombie-case.json](./195756-police-stories-zombie-case.json) |
 | Police Tactical Training | 57657 | [57657-police-tactical-training.json](./57657-police-tactical-training.json) |
+| Police Trainer | 39838 | [39838-police-trainer.json](./39838-police-trainer.json) |
 | Police Transporter Simulator | 220650 | [220650-police-transporter-simulator.json](./220650-police-transporter-simulator.json) |
 | Police X Heroine Lovepatrina! Love na Rhythm de Taiho Shimasu! | 152332 | [152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json](./152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json) |
 | Police: Chase Down | 82131 | [82131-police-chase-down.json](./82131-police-chase-down.json) |
