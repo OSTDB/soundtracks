@@ -1754,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Pool | 307111 | [307111-championship-pool.json](./307111-championship-pool.json) |
 | Championship Pool | 307113 | [307113-championship-pool.json](./307113-championship-pool.json) |
 | Championship Rugby Manager | 71223 | [71223-championship-rugby-manager.json](./71223-championship-rugby-manager.json) |
+| Championship Soccer | 46882 | [46882-championship-soccer.json](./46882-championship-soccer.json) |
 | Championship Wrestling Promoter | 199124 | [199124-championship-wrestling-promoter.json](./199124-championship-wrestling-promoter.json) |
 | ChampionsTCG | 273920 | [273920-championstcg.json](./273920-championstcg.json) |
 | Champoo Club | 172200 | [172200-champoo-club.json](./172200-champoo-club.json) |
@@ -3026,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of the Metal | 173298 | [173298-clash-of-the-metal.json](./173298-clash-of-the-metal.json) |
 | Clash of Vikings | 382912 | [382912-clash-of-vikings.json](./382912-clash-of-vikings.json) |
 | Clash of Warriors: 9 Legends | 56428 | [56428-clash-of-warriors-9-legends.json](./56428-clash-of-warriors-9-legends.json) |
+| Clash-Road | 46863 | [46863-clash-road.json](./46863-clash-road.json) |
 | Clash: Heroes of Feralia Terra | 269107 | [269107-clash-heroes-of-feralia-terra.json](./269107-clash-heroes-of-feralia-terra.json) |
 | Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
 | Classic Arcades: Pong | 353953 | [353953-classic-arcades-pong.json](./353953-classic-arcades-pong.json) |
