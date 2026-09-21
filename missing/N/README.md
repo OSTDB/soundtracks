@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon: Total War - Imperial Eagle Pack | 82110 | [82110-napoleon-total-war-imperial-eagle-pack.json](./82110-napoleon-total-war-imperial-eagle-pack.json) |
 | Napoleon: Total War - The Peninsular Campaign | 82109 | [82109-napoleon-total-war-the-peninsular-campaign.json](./82109-napoleon-total-war-the-peninsular-campaign.json) |
 | Napoleon's Campaigns | 21362 | [21362-napoleons-campaigns.json](./21362-napoleons-campaigns.json) |
+| Napple Tale: Arsia in Daydream | 28152 | [28152-napple-tale-arsia-in-daydream.json](./28152-napple-tale-arsia-in-daydream.json) |
 | Nara: Facing Fire | 210086 | [210086-nara-facing-fire.json](./210086-nara-facing-fire.json) |
 | Naraba: The Labyrinth of Light | 206781 | [206781-naraba-the-labyrinth-of-light.json](./206781-naraba-the-labyrinth-of-light.json) |
 | Narabete Quiz Kotowaza Tsukurou | 251612 | [251612-narabete-quiz-kotowaza-tsukurou.json](./251612-narabete-quiz-kotowaza-tsukurou.json) |
@@ -241,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Ultimate Ninja Impact | 19649 | [19649-naruto-shippuden-ultimate-ninja-impact.json](./19649-naruto-shippuden-ultimate-ninja-impact.json) |
 | Naruto Shippuden: Ultimate Ninja Storm Collection | 44562 | [44562-naruto-shippuden-ultimate-ninja-storm-collection.json](./44562-naruto-shippuden-ultimate-ninja-storm-collection.json) |
 | Naruto Shippuden: Ultimate Ninja Storm Generations | 7100 | [7100-naruto-shippuden-ultimate-ninja-storm-generations.json](./7100-naruto-shippuden-ultimate-ninja-storm-generations.json) |
+| Naruto Shippuden: Ultimate Ninja Storm Legacy | 28177 | [28177-naruto-shippuden-ultimate-ninja-storm-legacy.json](./28177-naruto-shippuden-ultimate-ninja-storm-legacy.json) |
 | Naruto To Boruto: Shinobi Stricker - Master Character Training Pack: Boruto Uzumaki (Karma Progression) | 275885 | [275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json](./275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json) |
 | Naruto to Boruto: Shinobi Striker | 28175 | [28175-naruto-to-boruto-shinobi-striker.json](./28175-naruto-to-boruto-shinobi-striker.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack - Kawaki: Karma Progression | 307760 | [307760-naruto-to-boruto-shinobi-striker-master-character-training-pack-kawaki-karma-progression.json](./307760-naruto-to-boruto-shinobi-striker-master-character-training-pack-kawaki-karma-progression.json) |
@@ -350,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature of Dread | 403683 | [403683-nature-of-dread.json](./403683-nature-of-dread.json) |
 | Nature Park | 274729 | [274729-nature-park.json](./274729-nature-park.json) |
 | Nature Prhysm | 206374 | [206374-nature-prhysm.json](./206374-nature-prhysm.json) |
+| Nature Walk Simulator | 28199 | [28199-nature-walk-simulator.json](./28199-nature-walk-simulator.json) |
 | Nature's Element | 270972 | [270972-natures-element.json](./270972-natures-element.json) |
 | Nature's Habit | 195103 | [195103-natures-habit.json](./195103-natures-habit.json) |
 | NatureFly | 86534 | [86534-naturefly.json](./86534-naturefly.json) |
