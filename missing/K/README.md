@@ -1799,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraken Invasion: RPG Idle | 233504 | [233504-kraken-invasion-rpg-idle.json](./233504-kraken-invasion-rpg-idle.json) |
 | Krakout | 37171 | [37171-krakout.json](./37171-krakout.json) |
 | Kraktures | 318981 | [318981-kraktures.json](./318981-kraktures.json) |
+| Kram | 46878 | [46878-kram.json](./46878-kram.json) |
 | Kramer Hentai Adventure 3 | 138588 | [138588-kramer-hentai-adventure-3.json](./138588-kramer-hentai-adventure-3.json) |
 | Krampus | 25317 | [25317-krampus.json](./25317-krampus.json) |
 | Krampus Kills | 191094 | [191094-krampus-kills.json](./191094-krampus-kills.json) |
