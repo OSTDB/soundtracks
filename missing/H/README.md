@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenly Heroes of Antidomi | 211784 | [211784-heavenly-heroes-of-antidomi.json](./211784-heavenly-heroes-of-antidomi.json) |
 | Heavenly Sword | 7318 | [7318-heavenly-sword.json](./7318-heavenly-sword.json) |
 | Heavenstrafer | 267461 | [267461-heavenstrafer.json](./267461-heavenstrafer.json) |
+| Heavenstrike Rivals | 26904 | [26904-heavenstrike-rivals.json](./26904-heavenstrike-rivals.json) |
 | Heaventaker | 176917 | [176917-heaventaker.json](./176917-heaventaker.json) |
 | HeavenX | 339841 | [339841-heavenx.json](./339841-heavenx.json) |
 | Heavy As Stone | 322601 | [322601-heavy-as-stone.json](./322601-heavy-as-stone.json) |
