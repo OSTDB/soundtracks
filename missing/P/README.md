@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Destruction | 195773 | [195773-path-of-destruction.json](./195773-path-of-destruction.json) |
 | Path of Dragoon | 275127 | [275127-path-of-dragoon.json](./275127-path-of-dragoon.json) |
 | Path of Evil: Immortal Hunter | 174758 | [174758-path-of-evil-immortal-hunter.json](./174758-path-of-evil-immortal-hunter.json) |
+| Path of Exile 2 | 125642 | [125642-path-of-exile-2.json](./125642-path-of-exile-2.json) |
 | Path of Exile 2: The Last of the Druids | 378276 | [378276-path-of-exile-2-the-last-of-the-druids.json](./378276-path-of-exile-2-the-last-of-the-druids.json) |
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
 | Path of Exile: Settlers of Kalguur | 310958 | [310958-path-of-exile-settlers-of-kalguur.json](./310958-path-of-exile-settlers-of-kalguur.json) |
@@ -5114,6 +5115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project XY | 178645 | [178645-project-xy.json](./178645-project-xy.json) |
 | Project Z | 126431 | [126431-project-z.json](./126431-project-z.json) |
 | Project Zero | 236252 | [236252-project-zero.json](./236252-project-zero.json) |
+| Project Zomboid | 3189 | [3189-project-zomboid.json](./3189-project-zomboid.json) |
 | Project_8 | 387524 | [387524-project-8.json](./387524-project-8.json) |
 | Project_Arktik | 410881 | [410881-project-arktik.json](./410881-project-arktik.json) |
 | Project_Escape | 133418 | [133418-project-escape.json](./133418-project-escape.json) |
