@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viewpoint 2064 | 225296 | [225296-viewpoint-2064.json](./225296-viewpoint-2064.json) |
 | Viewpoints | 51715 | [51715-viewpoints.json](./51715-viewpoints.json) |
 | ViewSelect the Game | 140588 | [140588-viewselect-the-game.json](./140588-viewselect-the-game.json) |
+| Viewtiful Joe | 4229 | [4229-viewtiful-joe.json](./4229-viewtiful-joe.json) |
 | Viewtiful Joe 2 | 4230 | [4230-viewtiful-joe-2.json](./4230-viewtiful-joe-2.json) |
 | Vifa | 379374 | [379374-vifa.json](./379374-vifa.json) |
 | Vigaro Runner 2: Return | 338569 | [338569-vigaro-runner-2-return.json](./338569-vigaro-runner-2-return.json) |
