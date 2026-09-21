@@ -2235,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked Together | 405617 | [405617-locked-together.json](./405617-locked-together.json) |
 | Locked-In | 146138 | [146138-locked-in.json](./146138-locked-in.json) |
 | Lockes the Thief | 211793 | [211793-lockes-the-thief.json](./211793-lockes-the-thief.json) |
+| Locksmith | 48906 | [48906-locksmith.json](./48906-locksmith.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
 | LOCO Online | 361771 | [361771-loco-online.json](./361771-loco-online.json) |
 | Loco-Coconuts | 246495 | [246495-loco-coconuts.json](./246495-loco-coconuts.json) |
