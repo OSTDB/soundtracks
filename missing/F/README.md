@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Mukashibanashi: Shin Onigashima - Kouhen | 41418 | [41418-famicom-mukashibanashi-shin-onigashima-kouhen.json](./41418-famicom-mukashibanashi-shin-onigashima-kouhen.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Zenpen | 41417 | [41417-famicom-mukashibanashi-shin-onigashima-zenpen.json](./41417-famicom-mukashibanashi-shin-onigashima-zenpen.json) |
 | Famicom Shogi: Ryuu-Ou-Sen | 48713 | [48713-famicom-shogi-ryuu-ou-sen.json](./48713-famicom-shogi-ryuu-ou-sen.json) |
+| Famicom Study Box | 48908 | [48908-famicom-study-box.json](./48908-famicom-study-box.json) |
 | Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo - Kouhen | 47249 | [47249-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-kouhen.json](./47249-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-kouhen.json) |
 | Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo - Zenpen | 41415 | [41415-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-zenpen.json](./41415-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-zenpen.json) |
 | Famicom Tantei Club: Kieta Koukeisha - Kouhen | 41381 | [41381-famicom-tantei-club-kieta-koukeisha-kouhen.json](./41381-famicom-tantei-club-kieta-koukeisha-kouhen.json) |
@@ -4178,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuck the Police | 159889 | [159889-fuck-the-police.json](./159889-fuck-the-police.json) |
 | Fucked by the Princesses of the Realm | 372488 | [372488-fucked-by-the-princesses-of-the-realm.json](./372488-fucked-by-the-princesses-of-the-realm.json) |
 | Fuddo & Slam | 250342 | [250342-fuddo-and-slam.json](./250342-fuddo-and-slam.json) |
+| Fudou Myouou Den | 48909 | [48909-fudou-myouou-den.json](./48909-fudou-myouou-den.json) |
 | Fuel Me Up | 342719 | [342719-fuel-me-up.json](./342719-fuel-me-up.json) |
 | Fuel Station Simulator | 336369 | [336369-fuel-station-simulator.json](./336369-fuel-station-simulator.json) |
 | Fuel Tanker Truck | 105918 | [105918-fuel-tanker-truck.json](./105918-fuel-tanker-truck.json) |
