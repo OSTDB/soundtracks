@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Existence | 179029 | [179029-fading-existence.json](./179029-fading-existence.json) |
 | Fading Haven | 402260 | [402260-fading-haven.json](./402260-fading-haven.json) |
 | Fading Hearts | 16778 | [16778-fading-hearts.json](./16778-fading-hearts.json) |
+| Fading Shadows | 42880 | [42880-fading-shadows.json](./42880-fading-shadows.json) |
 | Fading Skies | 291768 | [291768-fading-skies.json](./291768-fading-skies.json) |
 | Fading Visage | 101622 | [101622-fading-visage.json](./101622-fading-visage.json) |
 | Fadó | 124188 | [124188-fado.json](./124188-fado.json) |
@@ -242,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail 2: Digital Deluxe | 324470 | [324470-fairy-tail-2-digital-deluxe.json](./324470-fairy-tail-2-digital-deluxe.json) |
 | Fairy Tail 2: Outfit Set - Swimsuit | 332229 | [332229-fairy-tail-2-outfit-set-swimsuit.json](./332229-fairy-tail-2-outfit-set-swimsuit.json) |
 | Fairy Tail Online | 59427 | [59427-fairy-tail-online.json](./59427-fairy-tail-online.json) |
+| Fairy Tail Portable Guild 2 | 42834 | [42834-fairy-tail-portable-guild-2.json](./42834-fairy-tail-portable-guild-2.json) |
 | Fairy Tail: Additional Dungeon - Rift in Time and Space | 238053 | [238053-fairy-tail-additional-dungeon-rift-in-time-and-space.json](./238053-fairy-tail-additional-dungeon-rift-in-time-and-space.json) |
 | Fairy Tail: Beach Volleyball Havoc | 313127 | [313127-fairy-tail-beach-volleyball-havoc.json](./313127-fairy-tail-beach-volleyball-havoc.json) |
 | Fairy Tail: Brave Guild | 144100 | [144100-fairy-tail-brave-guild.json](./144100-fairy-tail-brave-guild.json) |
@@ -1035,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
 | Fate of the Seventh Scholar | 366260 | [366260-fate-of-the-seventh-scholar.json](./366260-fate-of-the-seventh-scholar.json) |
 | Fate Seeker II | 182359 | [182359-fate-seeker-ii.json](./182359-fate-seeker-ii.json) |
+| Fate U.C.P | 42868 | [42868-fate-u-c-p.json](./42868-fate-u-c-p.json) |
 | Fate's Reflection Tthe Case of Detective Kotomu | 348793 | [348793-fates-reflection-tthe-case-of-detective-kotomu.json](./348793-fates-reflection-tthe-case-of-detective-kotomu.json) |
 | Fate/Empire of Dirt: Made in Heaven | 382874 | [382874-fate-empire-of-dirt-made-in-heaven.json](./382874-fate-empire-of-dirt-made-in-heaven.json) |
 | Fate/Extella Link: Digital Deluxe Edition | 119067 | [119067-fate-extella-link-digital-deluxe-edition.json](./119067-fate-extella-link-digital-deluxe-edition.json) |
@@ -1052,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Stay Night | 12328 | [12328-fate-stay-night.json](./12328-fate-stay-night.json) |
 | Fate/Stay Night: First Press Limited Edition | 307303 | [307303-fate-stay-night-first-press-limited-edition.json](./307303-fate-stay-night-first-press-limited-edition.json) |
 | Fate/Stay Night: Réalta Nua - Fate | 47067 | [47067-fate-stay-night-realta-nua-fate.json](./47067-fate-stay-night-realta-nua-fate.json) |
+| Fate/unlimited codes Portable | 42863 | [42863-fate-unlimited-codes-portable.json](./42863-fate-unlimited-codes-portable.json) |
 | Fate/Zero the Visual Novel | 297459 | [297459-fate-zero-the-visual-novel.json](./297459-fate-zero-the-visual-novel.json) |
 | Fatebreak | 181244 | [181244-fatebreak.json](./181244-fatebreak.json) |
 | Fatec's Out | 132274 | [132274-fatecs-out.json](./132274-fatecs-out.json) |
@@ -1338,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field & Stream: Trophy Bass 4 | 71459 | [71459-field-and-stream-trophy-bass-4.json](./71459-field-and-stream-trophy-bass-4.json) |
 | Field and Stream Fishing | 99003 | [99003-field-and-stream-fishing.json](./99003-field-and-stream-fishing.json) |
 | Field Breaking | 37040 | [37040-field-breaking.json](./37040-field-breaking.json) |
+| Field Commander | 42873 | [42873-field-commander.json](./42873-field-commander.json) |
 | Field Goal | 172656 | [172656-field-goal.json](./172656-field-goal.json) |
 | Field of Enemies | 374058 | [374058-field-of-enemies.json](./374058-field-of-enemies.json) |
 | Field of Fate | 184622 | [184622-field-of-fate.json](./184622-field-of-fate.json) |
@@ -1379,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiets-Together | 395014 | [395014-fiets-together.json](./395014-fiets-together.json) |
 | FIFA 09 | 240317 | [240317-fifa-09.json](./240317-fifa-09.json) |
 | FIFA 14 | 240422 | [240422-fifa-14.json](./240422-fifa-14.json) |
+| FIFA 15: Ultimate Team Edition | 42898 | [42898-fifa-15-ultimate-team-edition.json](./42898-fifa-15-ultimate-team-edition.json) |
 | FIFA 16 | 11071 | [11071-fifa-16.json](./11071-fifa-16.json) |
 | FIFA 19 | 96209 | [96209-fifa-19.json](./96209-fifa-19.json) |
 | FIFA 19: Ultimate Edition | 111047 | [111047-fifa-19-ultimate-edition.json](./111047-fifa-19-ultimate-edition.json) |
@@ -3022,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2024 | 266382 | [266382-football-manager-2024.json](./266382-football-manager-2024.json) |
 | Football Manager 26 | 365487 | [365487-football-manager-26.json](./365487-football-manager-26.json) |
 | Football Manager Handheld 2010 | 52218 | [52218-football-manager-handheld-2010.json](./52218-football-manager-handheld-2010.json) |
+| Football Manager Handheld 2013 | 42867 | [42867-football-manager-handheld-2013.json](./42867-football-manager-handheld-2013.json) |
 | Football Manager Live | 21249 | [21249-football-manager-live.json](./21249-football-manager-live.json) |
 | Football Manager Quiz | 318991 | [318991-football-manager-quiz.json](./318991-football-manager-quiz.json) |
 | Football Mogul 15 | 31694 | [31694-football-mogul-15.json](./31694-football-mogul-15.json) |
