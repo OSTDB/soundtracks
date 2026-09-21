@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where’s the Food!? | 378787 | [378787-where-s-the-food.json](./378787-where-s-the-food.json) |
 | Where’s the Insect? | 378788 | [378788-where-s-the-insect.json](./378788-where-s-the-insect.json) |
 | Where’s the Octopus!? | 378789 | [378789-where-s-the-octopus.json](./378789-where-s-the-octopus.json) |
+| Where's Waldo & Friends | 60242 | [60242-wheres-waldo-and-friends.json](./60242-wheres-waldo-and-friends.json) |
 | Where's Waldo at the Circus | 205123 | [205123-wheres-waldo-at-the-circus.json](./205123-wheres-waldo-at-the-circus.json) |
 | Where's Waldo in Hollywood | 205124 | [205124-wheres-waldo-in-hollywood.json](./205124-wheres-waldo-in-hollywood.json) |
 | Where's Waldo? Exploring Geography | 201790 | [201790-wheres-waldo-exploring-geography.json](./201790-wheres-waldo-exploring-geography.json) |
@@ -2819,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrap The Zap | 392786 | [392786-wrap-the-zap.json](./392786-wrap-the-zap.json) |
 | Wrath of Anias | 191826 | [191826-wrath-of-anias.json](./191826-wrath-of-anias.json) |
 | Wrath of Denethenor | 37155 | [37155-wrath-of-denethenor.json](./37155-wrath-of-denethenor.json) |
+| Wrath of Olympus | 60232 | [60232-wrath-of-olympus.json](./60232-wrath-of-olympus.json) |
 | Wrath of Psychobos | 349944 | [349944-wrath-of-psychobos.json](./349944-wrath-of-psychobos.json) |
 | Wrath of the Arcane Realms | 387377 | [387377-wrath-of-the-arcane-realms.json](./387377-wrath-of-the-arcane-realms.json) |
 | Wrath of the Demon | 12832 | [12832-wrath-of-the-demon.json](./12832-wrath-of-the-demon.json) |
