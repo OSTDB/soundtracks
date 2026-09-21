@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramble Planet | 152374 | [152374-ramble-planet.json](./152374-ramble-planet.json) |
 | Ramblings | 204678 | [204678-ramblings.json](./204678-ramblings.json) |
 | Rambo: First Blood Part II | 12963 | [12963-rambo-first-blood-part-ii.json](./12963-rambo-first-blood-part-ii.json) |
+| Rambo: First Blood Part II | 39127 | [39127-rambo-first-blood-part-ii.json](./39127-rambo-first-blood-part-ii.json) |
 | Ramen Chain | 159345 | [159345-ramen-chain.json](./159345-ramen-chain.json) |
 | Ramen in the 90's | 141190 | [141190-ramen-in-the-90s.json](./141190-ramen-in-the-90s.json) |
 | Ramen no Megami | 283716 | [283716-ramen-no-megami.json](./283716-ramen-no-megami.json) |
