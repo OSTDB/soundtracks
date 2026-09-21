@@ -959,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Party | 20238 | [20238-kinect-party.json](./20238-kinect-party.json) |
 | Kinect PlayFit | 64925 | [64925-kinect-playfit.json](./64925-kinect-playfit.json) |
 | Kinect Sesame Street TV | 20235 | [20235-kinect-sesame-street-tv.json](./20235-kinect-sesame-street-tv.json) |
+| Kinect Sports | 17478 | [17478-kinect-sports.json](./17478-kinect-sports.json) |
 | Kinect Star Wars | 8560 | [8560-kinect-star-wars.json](./8560-kinect-star-wars.json) |
 | Kinectimals | 2755 | [2755-kinectimals.json](./2755-kinectimals.json) |
 | Kinesis | 141783 | [141783-kinesis.json](./141783-kinesis.json) |
@@ -1077,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts HD 1.5 + 2.5 Remix | 27979 | [27979-kingdom-hearts-hd-1-5-2-5-remix.json](./27979-kingdom-hearts-hd-1-5-2-5-remix.json) |
 | Kingdom Hearts HD 1.5 Remix: Limited Edition | 81206 | [81206-kingdom-hearts-hd-1-5-remix-limited-edition.json](./81206-kingdom-hearts-hd-1-5-remix-limited-edition.json) |
 | Kingdom Hearts HD 2.8 Final Chapter Prologue: Limited Edition | 44535 | [44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json](./44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json) |
+| Kingdom Hearts II Final Mix | 221998 | [221998-kingdom-hearts-ii-final-mix.json](./221998-kingdom-hearts-ii-final-mix.json) |
 | Kingdom Hearts III + Re Mind | 306474 | [306474-kingdom-hearts-iii-re-mind.json](./306474-kingdom-hearts-iii-re-mind.json) |
 | Kingdom Hearts III + Re Mind: Cloud Version | 187459 | [187459-kingdom-hearts-iii-re-mind-cloud-version.json](./187459-kingdom-hearts-iii-re-mind-cloud-version.json) |
 | Kingdom Hearts Integrum Masterpiece | 305216 | [305216-kingdom-hearts-integrum-masterpiece.json](./305216-kingdom-hearts-integrum-masterpiece.json) |
