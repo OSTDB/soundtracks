@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabat Fight Arena | 116110 | [116110-sabat-fight-arena.json](./116110-sabat-fight-arena.json) |
 | Sabbat of the Witch | 105342 | [105342-sabbat-of-the-witch.json](./105342-sabbat-of-the-witch.json) |
 | Saber Fight VR | 127529 | [127529-saber-fight-vr.json](./127529-saber-fight-vr.json) |
+| Saber Marionette J: Battle Sabers | 44821 | [44821-saber-marionette-j-battle-sabers.json](./44821-saber-marionette-j-battle-sabers.json) |
 | Saber Punks | 152309 | [152309-saber-punks.json](./152309-saber-punks.json) |
 | Saber Rider and the Star Sheriffs | 66399 | [66399-saber-rider-and-the-star-sheriffs.json](./66399-saber-rider-and-the-star-sheriffs.json) |
 | Saber Ship | 213462 | [213462-saber-ship.json](./213462-saber-ship.json) |
@@ -425,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samosbor 2D | 120986 | [120986-samosbor-2d.json](./120986-samosbor-2d.json) |
 | Samozbor ID:Heaven | 129231 | [129231-samozbor-id-heaven.json](./129231-samozbor-id-heaven.json) |
 | Sampling | 107874 | [107874-sampling.json](./107874-sampling.json) |
+| Sampras Extreme Tennis | 44851 | [44851-sampras-extreme-tennis.json](./44851-sampras-extreme-tennis.json) |
 | Sampras Tennis 96 | 46183 | [46183-sampras-tennis-96.json](./46183-sampras-tennis-96.json) |
 | Samsara | 143042 | [143042-samsara.json](./143042-samsara.json) |
 | Samsara | 192957 | [192957-samsara.json](./192957-samsara.json) |
@@ -4217,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap Circle | 237644 | [237644-slap-circle.json](./237644-slap-circle.json) |
 | Slap City | 87935 | [87935-slap-city.json](./87935-slap-city.json) |
 | Slap Fight | 37296 | [37296-slap-fight.json](./37296-slap-fight.json) |
+| Slap Happy Rhythm Busters | 44861 | [44861-slap-happy-rhythm-busters.json](./44861-slap-happy-rhythm-busters.json) |
 | Slap Shot | 81281 | [81281-slap-shot.json](./81281-slap-shot.json) |
 | Slap That | 311263 | [311263-slap-that.json](./311263-slap-that.json) |
 | Slap The King | 290552 | [290552-slap-the-king.json](./290552-slap-the-king.json) |
@@ -10803,6 +10806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Shooting | 74768 | [74768-super-robot-shooting.json](./74768-super-robot-shooting.json) |
 | Super Robot Taisen | 240916 | [240916-super-robot-taisen.json](./240916-super-robot-taisen.json) |
 | Super Robot Taisen A Portable | 79841 | [79841-super-robot-taisen-a-portable.json](./79841-super-robot-taisen-a-portable.json) |
+| Super Robot Taisen Alpha Gaiden | 44850 | [44850-super-robot-taisen-alpha-gaiden.json](./44850-super-robot-taisen-alpha-gaiden.json) |
 | Super Robot Taisen EX | 240915 | [240915-super-robot-taisen-ex.json](./240915-super-robot-taisen-ex.json) |
 | Super Robot Taisen F | 46667 | [46667-super-robot-taisen-f.json](./46667-super-robot-taisen-f.json) |
 | Super Robot Taisen OE: Operation Extend | 79344 | [79344-super-robot-taisen-oe-operation-extend.json](./79344-super-robot-taisen-oe-operation-extend.json) |
