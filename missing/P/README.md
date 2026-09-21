@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacman Club | 289882 | [289882-pacman-club.json](./289882-pacman-club.json) |
 | Pacman Cube | 230500 | [230500-pacman-cube.json](./230500-pacman-cube.json) |
 | Pacman2 | 62686 | [62686-pacman2.json](./62686-pacman2.json) |
+| Pacmania | 41014 | [41014-pacmania.json](./41014-pacmania.json) |
 | PacMania II | 245391 | [245391-pacmania-ii.json](./245391-pacmania-ii.json) |
 | Paco | 149422 | [149422-paco.json](./149422-paco.json) |
 | Paco and the Tumbling Seed Box | 138051 | [138051-paco-and-the-tumbling-seed-box.json](./138051-paco-and-the-tumbling-seed-box.json) |
@@ -1767,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantomphobia: Yijie | 331945 | [331945-phantomphobia-yijie.json](./331945-phantomphobia-yijie.json) |
 | Phantomphobia: Zhenli | 331946 | [331946-phantomphobia-zhenli.json](./331946-phantomphobia-zhenli.json) |
 | Phantoms | 278152 | [278152-phantoms.json](./278152-phantoms.json) |
+| Phantoms of the Asteroid | 40959 | [40959-phantoms-of-the-asteroid.json](./40959-phantoms-of-the-asteroid.json) |
 | Phar Lap: Horse Racing Challenge | 116374 | [116374-phar-lap-horse-racing-challenge.json](./116374-phar-lap-horse-racing-challenge.json) |
 | Pharaoh | 7510 | [7510-pharaoh.json](./7510-pharaoh.json) |
 | Pharaoh's Purse | 314514 | [314514-pharaohs-purse.json](./314514-pharaohs-purse.json) |
@@ -3334,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poibos Part 1: Dasshutsu | 298547 | [298547-poibos-part-1-dasshutsu.json](./298547-poibos-part-1-dasshutsu.json) |
 | Poinie's Poin | 56153 | [56153-poinies-poin.json](./56153-poinies-poin.json) |
 | Point | 97929 | [97929-point.json](./97929-point.json) |
+| Point Blank 2 | 40988 | [40988-point-blank-2.json](./40988-point-blank-2.json) |
 | Point Gakushuu: 10-masu Keisan | 327621 | [327621-point-gakushuu-10-masu-keisan.json](./327621-point-gakushuu-10-masu-keisan.json) |
 | Point Gakushuu: Kakijun | 327620 | [327620-point-gakushuu-kakijun.json](./327620-point-gakushuu-kakijun.json) |
 | Point Gakushuu: Tokei | 327619 | [327619-point-gakushuu-tokei.json](./327619-point-gakushuu-tokei.json) |
