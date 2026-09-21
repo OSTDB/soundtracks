@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultris: The Ultimate Tetris | 14520 | [14520-ultris-the-ultimate-tetris.json](./14520-ultris-the-ultimate-tetris.json) |
 | Ultron | 57133 | [57133-ultron.json](./57133-ultron.json) |
 | Ultrono Arena | 94211 | [94211-ultrono-arena.json](./94211-ultrono-arena.json) |
+| Um Jammer Lammy | 6081 | [6081-um-jammer-lammy.json](./6081-um-jammer-lammy.json) |
 | Um Jammer Lammy Now | 243420 | [243420-um-jammer-lammy-now.json](./243420-um-jammer-lammy-now.json) |
 | Uma Casa Que Não é Sua | 178625 | [178625-uma-casa-que-nao-e-sua.json](./178625-uma-casa-que-nao-e-sua.json) |
 | UMA-War VR | 30175 | [30175-uma-war-vr.json](./30175-uma-war-vr.json) |
