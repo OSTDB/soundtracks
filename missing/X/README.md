@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XS Moto | 49350 | [49350-xs-moto.json](./49350-xs-moto.json) |
 | Xscorch | 63240 | [63240-xscorch.json](./63240-xscorch.json) |
 | XSpelunker | 360106 | [360106-xspelunker.json](./360106-xspelunker.json) |
+| Xtodie | 62991 | [62991-xtodie.json](./62991-xtodie.json) |
 | Xtom 3D | 45978 | [45978-xtom-3d.json](./45978-xtom-3d.json) |
 | Xtract | 277966 | [277966-xtract.json](./277966-xtract.json) |
 | Xtraction Royale | 115728 | [115728-xtraction-royale.json](./115728-xtraction-royale.json) |
