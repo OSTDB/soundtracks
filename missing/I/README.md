@@ -2047,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ishi | 58757 | [58757-ishi.json](./58757-ishi.json) |
 | Ishi GO | 58759 | [58759-ishi-go.json](./58759-ishi-go.json) |
 | Ishidó: The Way of Stones | 126453 | [126453-ishido-the-way-of-stones.json](./126453-ishido-the-way-of-stones.json) |
+| Ishidó: The Way of Stones | 14525 | [14525-ishido-the-way-of-stones.json](./14525-ishido-the-way-of-stones.json) |
 | Ishidó: The Way of Stones | 152385 | [152385-ishido-the-way-of-stones.json](./152385-ishido-the-way-of-stones.json) |
 | Ishika & Honori | 124241 | [124241-ishika-and-honori.json](./124241-ishika-and-honori.json) |
 | Ishin no Arashi | 30923 | [30923-ishin-no-arashi.json](./30923-ishin-no-arashi.json) |
