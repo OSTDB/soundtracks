@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of Ragnarök | 123578 | [123578-warriors-of-ragnarok.json](./123578-warriors-of-ragnarok.json) |
 | Warriors of Releyne | 12820 | [12820-warriors-of-releyne.json](./12820-warriors-of-releyne.json) |
 | Warriors of Thalyrion | 310749 | [310749-warriors-of-thalyrion.json](./310749-warriors-of-thalyrion.json) |
+| Warriors of the Lost Empire | 42839 | [42839-warriors-of-the-lost-empire.json](./42839-warriors-of-the-lost-empire.json) |
 | Warriors of Vilvatikta | 31628 | [31628-warriors-of-vilvatikta.json](./31628-warriors-of-vilvatikta.json) |
 | Warriors Orochi 3 | 5324 | [5324-warriors-orochi-3.json](./5324-warriors-orochi-3.json) |
 | Warriors Orochi 4: Scenario Pack | 237975 | [237975-warriors-orochi-4-scenario-pack.json](./237975-warriors-orochi-4-scenario-pack.json) |
@@ -2679,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series Basketball | 45316 | [45316-world-series-basketball.json](./45316-world-series-basketball.json) |
 | World Series Major League Baseball | 5711 | [5711-world-series-major-league-baseball.json](./5711-world-series-major-league-baseball.json) |
 | World Series of Poker Hold'em Legend | 61028 | [61028-world-series-of-poker-holdem-legend.json](./61028-world-series-of-poker-holdem-legend.json) |
+| World Snooker Challenge 2007 | 42848 | [42848-world-snooker-challenge-2007.json](./42848-world-snooker-challenge-2007.json) |
 | World Snooker Championship 2007 | 7248 | [7248-world-snooker-championship-2007.json](./7248-world-snooker-championship-2007.json) |
 | World Snooker Championship: Season 2007-08 | 64994 | [64994-world-snooker-championship-season-2007-08.json](./64994-world-snooker-championship-season-2007-08.json) |
 | World Soccer | 12893 | [12893-world-soccer.json](./12893-world-soccer.json) |
@@ -2918,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WTC: Recruitment Day | 192462 | [192462-wtc-recruitment-day.json](./192462-wtc-recruitment-day.json) |
 | WTC: Relentless Protagonist [SxS] | 187446 | [187446-wtc-relentless-protagonist-sxs.json](./187446-wtc-relentless-protagonist-sxs.json) |
 | WTF: Waifu Tactical Force | 244256 | [244256-wtf-waifu-tactical-force.json](./244256-wtf-waifu-tactical-force.json) |
+| WTF: Work Time Fun | 42853 | [42853-wtf-work-time-fun.json](./42853-wtf-work-time-fun.json) |
 | WTP Story 1 | 201696 | [201696-wtp-story-1.json](./201696-wtp-story-1.json) |
 | Wu Shi Hun | 223020 | [223020-wu-shi-hun.json](./223020-wu-shi-hun.json) |
 | Wu Xing Chess | 364591 | [364591-wu-xing-chess.json](./364591-wu-xing-chess.json) |
