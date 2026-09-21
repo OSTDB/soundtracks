@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Nose Guy Suika | 280326 | [280326-red-nose-guy-suika.json](./280326-red-nose-guy-suika.json) |
 | Red Oddities | 239155 | [239155-red-oddities.json](./239155-red-oddities.json) |
 | Red or Blue | 333620 | [333620-red-or-blue.json](./333620-red-or-blue.json) |
+| Red Orchestra: Ostfront 41-45 | 9409 | [9409-red-orchestra-ostfront-41-45.json](./9409-red-orchestra-ostfront-41-45.json) |
 | Red Pixel | 59925 | [59925-red-pixel.json](./59925-red-pixel.json) |
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
 | Red Rebellion | 224554 | [224554-red-rebellion.json](./224554-red-rebellion.json) |
@@ -1935,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonant Tale | 266481 | [266481-resonant-tale.json](./266481-resonant-tale.json) |
 | Resonark X | 141900 | [141900-resonark-x.json](./141900-resonark-x.json) |
 | Resonating Worlds | 305930 | [305930-resonating-worlds.json](./305930-resonating-worlds.json) |
+| Resonite | 269473 | [269473-resonite.json](./269473-resonite.json) |
 | Résop Paz Yandere True | 320149 | [320149-resop-paz-yandere-true.json](./320149-resop-paz-yandere-true.json) |
 | Resort Beauties: Hentai Photo Puzzle | 409560 | [409560-resort-beauties-hentai-photo-puzzle.json](./409560-resort-beauties-hentai-photo-puzzle.json) |
 | Resort Boss: Golf | 114798 | [114798-resort-boss-golf.json](./114798-resort-boss-golf.json) |
@@ -2271,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rezon | 40186 | [40186-rezon.json](./40186-rezon.json) |
 | Rezzil Player | 220710 | [220710-rezzil-player.json](./220710-rezzil-player.json) |
 | RFA Station | 244907 | [244907-rfa-station.json](./244907-rfa-station.json) |
+| rFactor 2 | 9494 | [9494-rfactor-2.json](./9494-rfactor-2.json) |
 | Rg-ft | 176997 | [176997-rg-ft.json](./176997-rg-ft.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
@@ -4153,6 +4156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
 | Rune Factory 3 Special | 217557 | [217557-rune-factory-3-special.json](./217557-rune-factory-3-special.json) |
 | Rune Factory 3 Special: Digital Deluxe Edition | 261329 | [261329-rune-factory-3-special-digital-deluxe-edition.json](./261329-rune-factory-3-special-digital-deluxe-edition.json) |
+| Rune Factory 3: A Fantasy Harvest Moon | 9640 | [9640-rune-factory-3-a-fantasy-harvest-moon.json](./9640-rune-factory-3-a-fantasy-harvest-moon.json) |
 | Rune Factory 4 Special | 115278 | [115278-rune-factory-4-special.json](./115278-rune-factory-4-special.json) |
 | Rune Factory 5 | 115279 | [115279-rune-factory-5.json](./115279-rune-factory-5.json) |
 | Rune Factory 6 | 250924 | [250924-rune-factory-6.json](./250924-rune-factory-6.json) |
@@ -4346,6 +4350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty's Real Deal Baseball: Cage Match | 258739 | [258739-rustys-real-deal-baseball-cage-match.json](./258739-rustys-real-deal-baseball-cage-match.json) |
 | Rusty's Real Deal Baseball: Gear Games | 258730 | [258730-rustys-real-deal-baseball-gear-games.json](./258730-rustys-real-deal-baseball-gear-games.json) |
 | Rusty's Real Deal Baseball: Volley Bats | 258738 | [258738-rustys-real-deal-baseball-volley-bats.json](./258738-rustys-real-deal-baseball-volley-bats.json) |
+| Rusty's Retirement | 278251 | [278251-rustys-retirement.json](./278251-rustys-retirement.json) |
 | Rusty's Retirement x Vampire Survivors | 339632 | [339632-rustys-retirement-x-vampire-survivors.json](./339632-rustys-retirement-x-vampire-survivors.json) |
 | Rusty's Retirement: Supporter Pack | 305770 | [305770-rustys-retirement-supporter-pack.json](./305770-rustys-retirement-supporter-pack.json) |
 | Rustyard | 322354 | [322354-rustyard.json](./322354-rustyard.json) |
