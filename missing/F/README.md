@@ -2571,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fling with a Tiefling | 322001 | [322001-fling-with-a-tiefling.json](./322001-fling-with-a-tiefling.json) |
 | Fling! | 264361 | [264361-fling.json](./264361-fling.json) |
 | Flint | 368493 | [368493-flint.json](./368493-flint.json) |
+| Flint and Charlie | 19957 | [19957-flint-and-charlie.json](./19957-flint-and-charlie.json) |
 | Flint: Treasure of Oblivion | 295635 | [295635-flint-treasure-of-oblivion.json](./295635-flint-treasure-of-oblivion.json) |
 | Flintlock: The Siege of Dawn - Deluxe Edition | 305332 | [305332-flintlock-the-siege-of-dawn-deluxe-edition.json](./305332-flintlock-the-siege-of-dawn-deluxe-edition.json) |
 | Flintstones & Jetsons: Timewarp | 46610 | [46610-flintstones-and-jetsons-timewarp.json](./46610-flintstones-and-jetsons-timewarp.json) |
