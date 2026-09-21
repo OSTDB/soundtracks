@@ -2212,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot 3 Kabuto Version | 55140 | [55140-medarot-3-kabuto-version.json](./55140-medarot-3-kabuto-version.json) |
 | Medarot 3 Kuwagata Version | 76575 | [76575-medarot-3-kuwagata-version.json](./76575-medarot-3-kuwagata-version.json) |
 | Medarot 3 Parts Collection: Z Kara no Chousenjou | 92536 | [92536-medarot-3-parts-collection-z-kara-no-chousenjou.json](./92536-medarot-3-parts-collection-z-kara-no-chousenjou.json) |
+| Medarot 9 Kabuto/Kuwagata | 59661 | [59661-medarot-9-kabuto-kuwagata.json](./59661-medarot-9-kabuto-kuwagata.json) |
 | Medarot Classics Plus Kabuto Version | 136832 | [136832-medarot-classics-plus-kabuto-version.json](./136832-medarot-classics-plus-kabuto-version.json) |
 | Medarot DS: Kabuto Version | 67687 | [67687-medarot-ds-kabuto-version.json](./67687-medarot-ds-kabuto-version.json) |
 | Medarot G: Kabuto Version | 188653 | [188653-medarot-g-kabuto-version.json](./188653-medarot-g-kabuto-version.json) |
@@ -4616,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molecule Make Lab | 201133 | [201133-molecule-make-lab.json](./201133-molecule-make-lab.json) |
 | Molecule: A Chemical Challenge | 86584 | [86584-molecule-a-chemical-challenge.json](./86584-molecule-a-chemical-challenge.json) |
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
+| Moley Christmas | 59679 | [59679-moley-christmas.json](./59679-moley-christmas.json) |
 | Mollie | 180688 | [180688-mollie.json](./180688-mollie.json) |
 | Molly and the Gunmids | 185687 | [185687-molly-and-the-gunmids.json](./185687-molly-and-the-gunmids.json) |
 | Molly n' D.O.G.'s Records | 376609 | [376609-molly-n-d-o-g-s-records.json](./376609-molly-n-d-o-g-s-records.json) |
@@ -5124,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Cresta | 18762 | [18762-moon-cresta.json](./18762-moon-cresta.json) |
 | Moon Crystal | 48620 | [48620-moon-crystal.json](./48620-moon-crystal.json) |
 | Moon Crystals | 172710 | [172710-moon-crystals.json](./172710-moon-crystals.json) |
+| Moon Eater | 59659 | [59659-moon-eater.json](./59659-moon-eater.json) |
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
 | Moon Farming | 161352 | [161352-moon-farming.json](./161352-moon-farming.json) |
 | Moon Intern | 63547 | [63547-moon-intern.json](./63547-moon-intern.json) |
