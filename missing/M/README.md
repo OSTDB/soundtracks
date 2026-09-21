@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macrocosm | 200180 | [200180-macrocosm.json](./200180-macrocosm.json) |
 | Macross - Eternal Love Song | 41994 | [41994-macross-eternal-love-song.json](./41994-macross-eternal-love-song.json) |
 | Macross 30: Voices across the Galaxy | 79292 | [79292-macross-30-voices-across-the-galaxy.json](./79292-macross-30-voices-across-the-galaxy.json) |
+| Macross Plus | 46867 | [46867-macross-plus.json](./46867-macross-plus.json) |
 | Macross Trial Frontier | 65536 | [65536-macross-trial-frontier.json](./65536-macross-trial-frontier.json) |
 | Macross Ultimate Frontier | 68013 | [68013-macross-ultimate-frontier.json](./68013-macross-ultimate-frontier.json) |
 | Macross: Last Frontier | 65467 | [65467-macross-last-frontier.json](./65467-macross-last-frontier.json) |
@@ -2494,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaball | 93348 | [93348-megaball.json](./93348-megaball.json) |
 | Megabat | 253913 | [253913-megabat.json](./253913-megabat.json) |
 | MegaBattle | 158561 | [158561-megabattle.json](./158561-megabattle.json) |
+| Megablast | 46860 | [46860-megablast.json](./46860-megablast.json) |
 | Megabonk | 327405 | [327405-megabonk.json](./327405-megabonk.json) |
 | Megabonk Smash | 376471 | [376471-megabonk-smash.json](./376471-megabonk-smash.json) |
 | Megachess | 345590 | [345590-megachess.json](./345590-megachess.json) |
