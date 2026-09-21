@@ -2189,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Scintilla | 238634 | [238634-shadow-of-scintilla.json](./238634-shadow-of-scintilla.json) |
 | Shadow of the Beast | 5434 | [5434-shadow-of-the-beast.json](./5434-shadow-of-the-beast.json) |
 | Shadow of the Beast III | 12221 | [12221-shadow-of-the-beast-iii.json](./12221-shadow-of-the-beast-iii.json) |
+| Shadow of the Colossus: Special Edition | 52192 | [52192-shadow-of-the-colossus-special-edition.json](./52192-shadow-of-the-colossus-special-edition.json) |
 | Shadow of the Devil | 291048 | [291048-shadow-of-the-devil.json](./291048-shadow-of-the-devil.json) |
 | Shadow of The Forgotten | 336006 | [336006-shadow-of-the-forgotten.json](./336006-shadow-of-the-forgotten.json) |
 | Shadow of the Game | 54355 | [54355-shadow-of-the-game.json](./54355-shadow-of-the-game.json) |
@@ -5871,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Spinball | 237308 | [237308-sonic-the-hedgehog-spinball.json](./237308-sonic-the-hedgehog-spinball.json) |
 | Sonic the Hedgehog: The Blue Blur! Super Sonic - Quiz Game | 325095 | [325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json](./325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json) |
 | Sonic the Hedgehog: The Freedom Fighters | 330700 | [330700-sonic-the-hedgehog-the-freedom-fighters.json](./330700-sonic-the-hedgehog-the-freedom-fighters.json) |
+| Sonic the Hedgehog's Gameworld | 52188 | [52188-sonic-the-hedgehogs-gameworld.json](./52188-sonic-the-hedgehogs-gameworld.json) |
 | Sonic Triple Link | 330522 | [330522-sonic-triple-link.json](./330522-sonic-triple-link.json) |
 | Sonic Turbo 2 | 331707 | [331707-sonic-turbo-2.json](./331707-sonic-turbo-2.json) |
 | Sonic Tweet | 63904 | [63904-sonic-tweet.json](./63904-sonic-tweet.json) |
@@ -9240,6 +9242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Rider | 210637 | [210637-street-rider.json](./210637-street-rider.json) |
 | Street Riders | 46017 | [46017-street-riders.json](./46017-street-riders.json) |
 | Street Shuffle | 134659 | [134659-street-shuffle.json](./134659-street-shuffle.json) |
+| Street Sports Baseball | 52201 | [52201-street-sports-baseball.json](./52201-street-sports-baseball.json) |
 | Street Sports Basketball | 37163 | [37163-street-sports-basketball.json](./37163-street-sports-basketball.json) |
 | Street Sports Football | 55153 | [55153-street-sports-football.json](./55153-street-sports-football.json) |
 | Street Sports Soccer | 55152 | [55152-street-sports-soccer.json](./55152-street-sports-soccer.json) |
