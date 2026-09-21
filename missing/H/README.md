@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Fire: Afghanistan | 982 | [982-heavy-fire-afghanistan.json](./982-heavy-fire-afghanistan.json) |
 | Heavy Fire: Black Arms | 65497 | [65497-heavy-fire-black-arms.json](./65497-heavy-fire-black-arms.json) |
 | Heavy Gear Assault | 26704 | [26704-heavy-gear-assault.json](./26704-heavy-gear-assault.json) |
+| Heavy Gear II | 742 | [742-heavy-gear-ii.json](./742-heavy-gear-ii.json) |
 | Heavy Gear III | 100191 | [100191-heavy-gear-iii.json](./100191-heavy-gear-iii.json) |
 | Heavy Hand: Pixel Tree Forest Fury - Deluxe Edition | 317254 | [317254-heavy-hand-pixel-tree-forest-fury-deluxe-edition.json](./317254-heavy-hand-pixel-tree-forest-fury-deluxe-edition.json) |
 | Heavy Hearts | 219825 | [219825-heavy-hearts.json](./219825-heavy-hearts.json) |
@@ -2150,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexed Time | 356115 | [356115-hexed-time.json](./356115-hexed-time.json) |
 | Hexelectric | 119689 | [119689-hexelectric.json](./119689-hexelectric.json) |
 | Hexement | 68621 | [68621-hexement.json](./68621-hexement.json) |
+| Hexen II Mission Pack: Portal of Praevus | 745 | [745-hexen-ii-mission-pack-portal-of-praevus.json](./745-hexen-ii-mission-pack-portal-of-praevus.json) |
 | HexenHold | 340469 | [340469-hexenhold.json](./340469-hexenhold.json) |
 | Hexes | 147416 | [147416-hexes.json](./147416-hexes.json) |
 | Hexes | 243780 | [243780-hexes.json](./243780-hexes.json) |
@@ -2452,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Fidelity | 34749 | [34749-high-fidelity.json](./34749-high-fidelity.json) |
 | High Five! | 132819 | [132819-high-five.json](./132819-high-five.json) |
 | High Fructose | 277011 | [277011-high-fructose.json](./277011-high-fructose.json) |
+| High Heat Baseball 2000 | 746 | [746-high-heat-baseball-2000.json](./746-high-heat-baseball-2000.json) |
 | High Heat Major League Baseball 2002 | 248754 | [248754-high-heat-major-league-baseball-2002.json](./248754-high-heat-major-league-baseball-2002.json) |
 | High Heat Major League Baseball 2002 | 49399 | [49399-high-heat-major-league-baseball-2002.json](./49399-high-heat-major-league-baseball-2002.json) |
 | High Heat Major League Baseball 2004 | 24089 | [24089-high-heat-major-league-baseball-2004.json](./24089-high-heat-major-league-baseball-2004.json) |
@@ -2635,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hina-chan no Yakiniku Party | 208404 | [208404-hina-chan-no-yakiniku-party.json](./208404-hina-chan-no-yakiniku-party.json) |
 | Hina-chan's Sticker Survival | 315088 | [315088-hina-chans-sticker-survival.json](./315088-hina-chans-sticker-survival.json) |
 | Hind Strike | 42215 | [42215-hind-strike.json](./42215-hind-strike.json) |
+| HIND: The Russian Combat Helicopter Simulation | 747 | [747-hind-the-russian-combat-helicopter-simulation.json](./747-hind-the-russian-combat-helicopter-simulation.json) |
 | Hinekuremono no Gakuen Seishun Monogatari: Ore to Kanojo no Reversible | 194557 | [194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json](./194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json) |
 | Hinge VR | 141170 | [141170-hinge-vr.json](./141170-hinge-vr.json) |
 | Hinokakera the Fragments of Innocent Sinner | 64642 | [64642-hinokakera-the-fragments-of-innocent-sinner.json](./64642-hinokakera-the-fragments-of-innocent-sinner.json) |
@@ -3529,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Detective | 71468 | [71468-hotel-detective.json](./71468-hotel-detective.json) |
 | Hotel Empire: Check Inn | 413097 | [413097-hotel-empire-check-inn.json](./413097-hotel-empire-check-inn.json) |
 | Hotel for Dogs | 21256 | [21256-hotel-for-dogs.json](./21256-hotel-for-dogs.json) |
+| Hotel Giant | 292 | [292-hotel-giant.json](./292-hotel-giant.json) |
 | Hotel Giant: Edition 2012 | 53200 | [53200-hotel-giant-edition-2012.json](./53200-hotel-giant-edition-2012.json) |
 | Hotel Hysteria! | 316261 | [316261-hotel-hysteria.json](./316261-hotel-hysteria.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
