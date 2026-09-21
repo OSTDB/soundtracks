@@ -476,6 +476,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falsion | 64648 | [64648-falsion.json](./64648-falsion.json) |
 | Fame or Folly | 394181 | [394181-fame-or-folly.json](./394181-fame-or-folly.json) |
 | Famicom Hinshi Tai | 328619 | [328619-famicom-hinshi-tai.json](./328619-famicom-hinshi-tai.json) |
+| Famicom Igo Nyuumon | 48331 | [48331-famicom-igo-nyuumon.json](./48331-famicom-igo-nyuumon.json) |
+| Famicom Meijinsen | 48330 | [48330-famicom-meijinsen.json](./48330-famicom-meijinsen.json) |
 | Famicom Mini: Dai-2-ji Super Robot Taisen | 170948 | [170948-famicom-mini-dai-2-ji-super-robot-taisen.json](./170948-famicom-mini-dai-2-ji-super-robot-taisen.json) |
 | Famicom Mini: Kidou Senshi Z Gundam - Hot Scramble | 170947 | [170947-famicom-mini-kidou-senshi-z-gundam-hot-scramble.json](./170947-famicom-mini-kidou-senshi-z-gundam-hot-scramble.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Kouhen | 41418 | [41418-famicom-mukashibanashi-shin-onigashima-kouhen.json](./41418-famicom-mukashibanashi-shin-onigashima-kouhen.json) |
@@ -1260,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrari Challenge: Trofeo Pirelli | 259269 | [259269-ferrari-challenge-trofeo-pirelli.json](./259269-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259270 | [259270-ferrari-challenge-trofeo-pirelli.json](./259270-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Formula One | 12093 | [12093-ferrari-formula-one.json](./12093-ferrari-formula-one.json) |
+| Ferrari Grand Prix Challenge | 48290 | [48290-ferrari-grand-prix-challenge.json](./48290-ferrari-grand-prix-challenge.json) |
 | Ferrari GT: Evolution | 66696 | [66696-ferrari-gt-evolution.json](./66696-ferrari-gt-evolution.json) |
 | Ferrari Virtual Race | 129811 | [129811-ferrari-virtual-race.json](./129811-ferrari-virtual-race.json) |
 | Ferret Frenzy | 381734 | [381734-ferret-frenzy.json](./381734-ferret-frenzy.json) |
@@ -3299,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula One 2002 | 8300 | [8300-formula-one-2002.json](./8300-formula-one-2002.json) |
 | Formula One 2003 | 8301 | [8301-formula-one-2003.json](./8301-formula-one-2003.json) |
 | Formula One World Championship: Beyond the Limit | 5388 | [5388-formula-one-world-championship-beyond-the-limit.json](./5388-formula-one-world-championship-beyond-the-limit.json) |
+| Formula One: Built to Win | 48297 | [48297-formula-one-built-to-win.json](./48297-formula-one-built-to-win.json) |
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
 | Formula X | 99643 | [99643-formula-x.json](./99643-formula-x.json) |
