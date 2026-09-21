@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EigenGauge | 283771 | [283771-eigengauge.json](./283771-eigengauge.json) |
 | Eigenstate | 176470 | [176470-eigenstate.json](./176470-eigenstate.json) |
 | Eight Ball | 93592 | [93592-eight-ball.json](./93592-eight-ball.json) |
+| Eight Forces | 39868 | [39868-eight-forces.json](./39868-eight-forces.json) |
 | Eight Pool Fever | 322586 | [322586-eight-pool-fever.json](./322586-eight-pool-fever.json) |
 | Eight-Minute Empire | 43080 | [43080-eight-minute-empire.json](./43080-eight-minute-empire.json) |
 | Eighteen | 295244 | [295244-eighteen.json](./295244-eighteen.json) |
@@ -1709,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Initiative | 132659 | [132659-escape-initiative.json](./132659-escape-initiative.json) |
 | Escape Island | 290915 | [290915-escape-island.json](./290915-escape-island.json) |
 | Escape IV - Prison Break | 90665 | [90665-escape-iv-prison-break.json](./90665-escape-iv-prison-break.json) |
+| Escape Kids | 39867 | [39867-escape-kids.json](./39867-escape-kids.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
 | Escape Memoirs: Mini Stories - Bunker Scenario | 235840 | [235840-escape-memoirs-mini-stories-bunker-scenario.json](./235840-escape-memoirs-mini-stories-bunker-scenario.json) |
 | Escape Memoirs: Questionable Side Stories | 247615 | [247615-escape-memoirs-questionable-side-stories.json](./247615-escape-memoirs-questionable-side-stories.json) |
@@ -1867,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estigma | 142497 | [142497-estigma.json](./142497-estigma.json) |
 | Estium Online | 417541 | [417541-estium-online.json](./417541-estium-online.json) |
 | Estra | 13711 | [13711-estra.json](./13711-estra.json) |
+| ESWAT: Cyber Police | 39869 | [39869-eswat-cyber-police.json](./39869-eswat-cyber-police.json) |
 | ET Superman: Wrath of Tyrannosaurus Rex | 195258 | [195258-et-superman-wrath-of-tyrannosaurus-rex.json](./195258-et-superman-wrath-of-tyrannosaurus-rex.json) |
 | ETA: Unknown | 389437 | [389437-eta-unknown.json](./389437-eta-unknown.json) |
 | eTabu | 23909 | [23909-etabu.json](./23909-etabu.json) |
@@ -2366,6 +2369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excavatorrr | 242574 | [242574-excavatorrr.json](./242574-excavatorrr.json) |
 | Exceed Gear | 298676 | [298676-exceed-gear.json](./298676-exceed-gear.json) |
 | eXceed Gun Bullet Children | 9290 | [9290-exceed-gun-bullet-children.json](./9290-exceed-gun-bullet-children.json) |
+| Excelsior | 39852 | [39852-excelsior.json](./39852-excelsior.json) |
 | Exception; | 129166 | [129166-exception.json](./129166-exception.json) |
 | Exchange Student | 252247 | [252247-exchange-student.json](./252247-exchange-student.json) |
 | Excised | 260223 | [260223-excised.json](./260223-excised.json) |
@@ -2377,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excitebots: Trick Racing | 4836 | [4836-excitebots-trick-racing.json](./4836-excitebots-trick-racing.json) |
 | Exciting Golf | 91962 | [91962-exciting-golf.json](./91962-exciting-golf.json) |
 | Exciting Soccer | 46851 | [46851-exciting-soccer.json](./46851-exciting-soccer.json) |
+| Exciting Soccer II | 39834 | [39834-exciting-soccer-ii.json](./39834-exciting-soccer-ii.json) |
 | Exclusion Zone: Hunting Ground | 134616 | [134616-exclusion-zone-hunting-ground.json](./134616-exclusion-zone-hunting-ground.json) |
 | Exclusion Zone: Shadow Island | 134615 | [134615-exclusion-zone-shadow-island.json](./134615-exclusion-zone-shadow-island.json) |
 | Exclusive Memory | 319938 | [319938-exclusive-memory.json](./319938-exclusive-memory.json) |
