@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magistrangers | 392793 | [392793-magistrangers.json](./392793-magistrangers.json) |
 | Magitech Requiem | 336011 | [336011-magitech-requiem.json](./336011-magitech-requiem.json) |
 | Magium | 207821 | [207821-magium.json](./207821-magium.json) |
+| Magix Music Maker | 43495 | [43495-magix-music-maker.json](./43495-magix-music-maker.json) |
 | Magma | 229163 | [229163-magma.json](./229163-magma.json) |
 | Magma Chamber | 32968 | [32968-magma-chamber.json](./32968-magma-chamber.json) |
 | Magma Project Hacker | 41313 | [41313-magma-project-hacker.json](./41313-magma-project-hacker.json) |
@@ -624,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Kazoku | 41364 | [41364-mahjong-kazoku.json](./41364-mahjong-kazoku.json) |
 | Mahjong Lemon Angel | 42004 | [42004-mahjong-lemon-angel.json](./42004-mahjong-lemon-angel.json) |
 | Mahjong Masters Club | 385090 | [385090-mahjong-masters-club.json](./385090-mahjong-masters-club.json) |
+| Mahjong Masters: Temple of the Ten Gods | 43539 | [43539-mahjong-masters-temple-of-the-ten-gods.json](./43539-mahjong-masters-temple-of-the-ten-gods.json) |
 | Mahjong Match Puzzle | 99420 | [99420-mahjong-match-puzzle.json](./99420-mahjong-match-puzzle.json) |
 | Mahjong on the Beach | 305195 | [305195-mahjong-on-the-beach.json](./305195-mahjong-on-the-beach.json) |
 | Mahjong Ou Densetsu | 91932 | [91932-mahjong-ou-densetsu.json](./91932-mahjong-ou-densetsu.json) |
