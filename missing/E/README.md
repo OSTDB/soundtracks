@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Starfighter | 59932 | [59932-elite-starfighter.json](./59932-elite-starfighter.json) |
 | Elite Tanks | 139414 | [139414-elite-tanks.json](./139414-elite-tanks.json) |
 | Elite Trials | 96778 | [96778-elite-trials.json](./96778-elite-trials.json) |
+| Elitserien 96 | 45560 | [45560-elitserien-96.json](./45560-elitserien-96.json) |
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
 | Elixirs | 274561 | [274561-elixirs.json](./274561-elixirs.json) |
 | Elk Attack | 282714 | [282714-elk-attack.json](./282714-elk-attack.json) |
@@ -2061,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evade the Light | 151157 | [151157-evade-the-light.json](./151157-evade-the-light.json) |
 | Evader | 290693 | [290693-evader.json](./290693-evader.json) |
 | Evan Quest 2 | 192929 | [192929-evan-quest-2.json](./192929-evan-quest-2.json) |
+| Evander Holyfield's Real Deal Boxing | 45557 | [45557-evander-holyfields-real-deal-boxing.json](./45557-evander-holyfields-real-deal-boxing.json) |
 | Evanesce Theory | 399738 | [399738-evanesce-theory.json](./399738-evanesce-theory.json) |
 | Evangeline's Defense | 203556 | [203556-evangelines-defense.json](./203556-evangelines-defense.json) |
 | Evangelion: Breaking Dawn | 382795 | [382795-evangelion-breaking-dawn.json](./382795-evangelion-breaking-dawn.json) |
