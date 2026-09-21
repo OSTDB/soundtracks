@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .kkrieger: Chapter 1 | 94683 | [94683-kkrieger-chapter-1.json](./94683-kkrieger-chapter-1.json) |
 | .Script | 180795 | [180795-script.json](./180795-script.json) |
 | '90s Football Stars | 103883 | [103883-90s-football-stars.json](./103883-90s-football-stars.json) |
+| '90s Super GP | 51541 | [51541-90s-super-gp.json](./51541-90s-super-gp.json) |
 | '98 Year Koushien | 58510 | [58510-98-year-koushien.json](./58510-98-year-koushien.json) |
 | 'Allo 'Allo! Cartoon Fun! | 14249 | [14249-allo-allo-cartoon-fun.json](./14249-allo-allo-cartoon-fun.json) |
 | 'Er*Bert | 98236 | [98236-er-bert.json](./98236-er-bert.json) |
