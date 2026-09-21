@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet another tower defence | 110367 | [110367-yet-another-tower-defence.json](./110367-yet-another-tower-defence.json) |
 | Yet Another Vanilla SMA2 Hack | 342622 | [342622-yet-another-vanilla-sma2-hack.json](./342622-yet-another-vanilla-sma2-hack.json) |
 | Yet Another World | 34190 | [34190-yet-another-world.json](./34190-yet-another-world.json) |
+| Yet Another Zombie Defense | 9201 | [9201-yet-another-zombie-defense.json](./9201-yet-another-zombie-defense.json) |
 | Yet, I Despise Him | 140543 | [140543-yet-i-despise-him.json](./140543-yet-i-despise-him.json) |
 | Yeth | 201832 | [201832-yeth.json](./201832-yeth.json) |
 | Yeti | 68350 | [68350-yeti.json](./68350-yeti.json) |
