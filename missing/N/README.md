@@ -1815,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nishan Shaman | 105117 | [105117-nishan-shaman.json](./105117-nishan-shaman.json) |
 | Nitebear on Sleepystreet | 304198 | [304198-nitebear-on-sleepystreet.json](./304198-nitebear-on-sleepystreet.json) |
 | Niteline | 304722 | [304722-niteline.json](./304722-niteline.json) |
+| Nitemare 3D | 50139 | [50139-nitemare-3d.json](./50139-nitemare-3d.json) |
 | Nitori Dungeon | 216460 | [216460-nitori-dungeon.json](./216460-nitori-dungeon.json) |
 | Nitori-chan Dash | 208396 | [208396-nitori-chan-dash.json](./208396-nitori-chan-dash.json) |
 | Nitro | 12188 | [12188-nitro.json](./12188-nitro.json) |
