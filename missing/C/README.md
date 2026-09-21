@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| C-evo | 10033 | [10033-c-evo.json](./10033-c-evo.json) |
 | C-Rush | 16833 | [16833-c-rush.json](./16833-c-rush.json) |
 | C-Smash VRS: New Dimension | 321377 | [321377-c-smash-vrs-new-dimension.json](./321377-c-smash-vrs-new-dimension.json) |
 | C-War 2 | 119010 | [119010-c-war-2.json](./119010-c-war-2.json) |
@@ -79,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactus McCoy 2: The Ruins of Calavera | 98117 | [98117-cactus-mccoy-2-the-ruins-of-calavera.json](./98117-cactus-mccoy-2-the-ruins-of-calavera.json) |
 | Cactus Simulator | 394357 | [394357-cactus-simulator.json](./394357-cactus-simulator.json) |
 | Cad Cam Warrior | 313335 | [313335-cad-cam-warrior.json](./313335-cad-cam-warrior.json) |
+| Cadalion Online | 9872 | [9872-cadalion-online.json](./9872-cadalion-online.json) |
 | Cadaver | 11983 | [11983-cadaver.json](./11983-cadaver.json) |
 | Cadaver: The Payoff | 37130 | [37130-cadaver-the-payoff.json](./37130-cadaver-the-payoff.json) |
 | Cadde | 265401 | [265401-cadde.json](./265401-cadde.json) |
@@ -3478,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coat of Many Feathers | 318780 | [318780-coat-of-many-feathers.json](./318780-coat-of-many-feathers.json) |
 | Coated | 35628 | [35628-coated.json](./35628-coated.json) |
 | Cobble and Trouble | 182986 | [182986-cobble-and-trouble.json](./182986-cobble-and-trouble.json) |
+| Cobi Treasure | 9798 | [9798-cobi-treasure.json](./9798-cobi-treasure.json) |
 | CoBots | 62707 | [62707-cobots.json](./62707-cobots.json) |
 | Cobra | 12945 | [12945-cobra.json](./12945-cobra.json) |
 | Cobra | 74748 | [74748-cobra.json](./74748-cobra.json) |
@@ -4118,6 +4121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commandos 2 & Praetorians HD Remaster Double Pack | 139932 | [139932-commandos-2-and-praetorians-hd-remaster-double-pack.json](./139932-commandos-2-and-praetorians-hd-remaster-double-pack.json) |
 | Commandos 2: HD Remaster | 119381 | [119381-commandos-2-hd-remaster.json](./119381-commandos-2-hd-remaster.json) |
 | Commandos 2: Men of Courage | 653 | [653-commandos-2-men-of-courage.json](./653-commandos-2-men-of-courage.json) |
+| Commandos 5 | 9760 | [9760-commandos-5.json](./9760-commandos-5.json) |
 | Commandos Pro Simulator | 287761 | [287761-commandos-pro-simulator.json](./287761-commandos-pro-simulator.json) |
 | Commandos: Behind Enemy Lines | 879 | [879-commandos-behind-enemy-lines.json](./879-commandos-behind-enemy-lines.json) |
 | Commandos: Origins - Shadows over Crete | 377670 | [377670-commandos-origins-shadows-over-crete.json](./377670-commandos-origins-shadows-over-crete.json) |
@@ -6503,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Souls | 238591 | [238591-cyber-souls.json](./238591-cyber-souls.json) |
 | Cyber Spin | 42615 | [42615-cyber-spin.json](./42615-cyber-spin.json) |
 | Cyber Sprinters | 386839 | [386839-cyber-sprinters.json](./386839-cyber-sprinters.json) |
+| Cyber Stadium Series: Base Wars | 9876 | [9876-cyber-stadium-series-base-wars.json](./9876-cyber-stadium-series-base-wars.json) |
 | Cyber Storm Edge 64 | 294866 | [294866-cyber-storm-edge-64.json](./294866-cyber-storm-edge-64.json) |
 | Cyber Strider | 248028 | [248028-cyber-strider.json](./248028-cyber-strider.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
