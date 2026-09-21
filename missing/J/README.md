@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jar Head Cauldron | 333633 | [333633-jar-head-cauldron.json](./333633-jar-head-cauldron.json) |
 | Jardin | 186163 | [186163-jardin.json](./186163-jardin.json) |
 | Jargon | 390629 | [390629-jargon.json](./390629-jargon.json) |
+| Jarheads | 55510 | [55510-jarheads.json](./55510-jarheads.json) |
 | Jarinko Chie | 346029 | [346029-jarinko-chie.json](./346029-jarinko-chie.json) |
 | Jarnasmal | 405569 | [405569-jarnasmal.json](./405569-jarnasmal.json) |
 | Jaro Adventures | 305927 | [305927-jaro-adventures.json](./305927-jaro-adventures.json) |
