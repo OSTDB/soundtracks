@@ -9083,6 +9083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Chasing Sim 2025: Tornado Hunter | 374676 | [374676-storm-chasing-sim-2025-tornado-hunter.json](./374676-storm-chasing-sim-2025-tornado-hunter.json) |
 | Storm Generations | 99666 | [99666-storm-generations.json](./99666-storm-generations.json) |
 | Storm Horse Simulator | 357860 | [357860-storm-horse-simulator.json](./357860-storm-horse-simulator.json) |
+| Storm in Desert | 29174 | [29174-storm-in-desert.json](./29174-storm-in-desert.json) |
 | Storm Master | 10853 | [10853-storm-master.json](./10853-storm-master.json) |
 | Storm of Darkness | 233500 | [233500-storm-of-darkness.json](./233500-storm-of-darkness.json) |
 | Storm of Idigidragon | 58503 | [58503-storm-of-idigidragon.json](./58503-storm-of-idigidragon.json) |
