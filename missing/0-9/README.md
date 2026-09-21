@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Second Mixtape | 308935 | [308935-10-second-mixtape.json](./308935-10-second-mixtape.json) |
 | 10 Second Rule: Infinity Labo | 308934 | [308934-10-second-rule-infinity-labo.json](./308934-10-second-rule-infinity-labo.json) |
 | 10 Seconds | 105287 | [105287-10-seconds.json](./105287-10-seconds.json) |
+| 10 Seconds or Less | 59652 | [59652-10-seconds-or-less.json](./59652-10-seconds-or-less.json) |
 | 10 Sectors | 260793 | [260793-10-sectors.json](./260793-10-sectors.json) |
 | 10 Solo | 175258 | [175258-10-solo.json](./175258-10-solo.json) |
 | 10 Talismans | 205801 | [205801-10-talismans.json](./205801-10-talismans.json) |
@@ -348,6 +349,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
 | 1Key Rocket Launcher | 70099 | [70099-1key-rocket-launcher.json](./70099-1key-rocket-launcher.json) |
 | 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
+| 1on1 Basketball | 59651 | [59651-1on1-basketball.json](./59651-1on1-basketball.json) |
+| 1on1 Soccer | 59649 | [59649-1on1-soccer.json](./59649-1on1-soccer.json) |
 | 1Second | 363873 | [363873-1second.json](./363873-1second.json) |
 | 1st Core | 103444 | [103444-1st-core.json](./103444-1st-core.json) |
 | 1st Grade | 91743 | [91743-1st-grade.json](./91743-1st-grade.json) |
@@ -464,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Dogfight: Secret Project | 297055 | [297055-2d-dogfight-secret-project.json](./297055-2d-dogfight-secret-project.json) |
 | 2D Dogfight: Sunset and Sunrise | 308943 | [308943-2d-dogfight-sunset-and-sunrise.json](./308943-2d-dogfight-sunset-and-sunrise.json) |
 | 2D Dogfight: World War II - Eastern Front and Pacific | 276268 | [276268-2d-dogfight-world-war-ii-eastern-front-and-pacific.json](./276268-2d-dogfight-world-war-ii-eastern-front-and-pacific.json) |
+| 2D Heroes | 59646 | [59646-2d-heroes.json](./59646-2d-heroes.json) |
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
 | 2D Owen | 134578 | [134578-2d-owen.json](./134578-2d-owen.json) |
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
