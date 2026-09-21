@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NGT: Next Generation Tennis | 49320 | [49320-ngt-next-generation-tennis.json](./49320-ngt-next-generation-tennis.json) |
 | Nhero2 | 225723 | [225723-nhero2.json](./225723-nhero2.json) |
 | NHK Kouhaku Quiz Kassen | 67280 | [67280-nhk-kouhaku-quiz-kassen.json](./67280-nhk-kouhaku-quiz-kassen.json) |
+| NHL 06 | 4044 | [4044-nhl-06.json](./4044-nhl-06.json) |
 | NHL 07 | 5964 | [5964-nhl-07.json](./5964-nhl-07.json) |
 | NHL 10 | 953 | [953-nhl-10.json](./953-nhl-10.json) |
 | NHL 18 | 36847 | [36847-nhl-18.json](./36847-nhl-18.json) |
