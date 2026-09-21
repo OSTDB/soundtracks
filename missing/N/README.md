@@ -894,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
 | Neptune Island | 319796 | [319796-neptune-island.json](./319796-neptune-island.json) |
 | Neptune's Pride | 65746 | [65746-neptunes-pride.json](./65746-neptunes-pride.json) |
+| Neptune's Pride II: Triton | 62443 | [62443-neptunes-pride-ii-triton.json](./62443-neptunes-pride-ii-triton.json) |
 | Neptune's Secret | 210039 | [210039-neptunes-secret.json](./210039-neptunes-secret.json) |
 | NeptuneGL | 83563 | [83563-neptunegl.json](./83563-neptunegl.json) |
 | Neptunia reVerse | 139072 | [139072-neptunia-reverse.json](./139072-neptunia-reverse.json) |
@@ -1561,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nike+ Kinect Training | 21010 | [21010-nike-kinect-training.json](./21010-nike-kinect-training.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Nikkan Berutomo Club | 64904 | [64904-nikkan-berutomo-club.json](./64904-nikkan-berutomo-club.json) |
+| Nikki Up2U: A Dressing Story | 62427 | [62427-nikki-up2u-a-dressing-story.json](./62427-nikki-up2u-a-dressing-story.json) |
 | Niko | 410351 | [410351-niko.json](./410351-niko.json) |
 | Niko and the Cubic Curse | 169339 | [169339-niko-and-the-cubic-curse.json](./169339-niko-and-the-cubic-curse.json) |
 | Niko Niko Pun | 42057 | [42057-niko-niko-pun.json](./42057-niko-niko-pun.json) |
