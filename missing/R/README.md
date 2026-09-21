@@ -3770,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rover’s Radventure: The New Millennium | 411733 | [411733-rover-s-radventure-the-new-millennium.json](./411733-rover-s-radventure-the-new-millennium.json) |
 | Rovercraft 2 | 220195 | [220195-rovercraft-2.json](./220195-rovercraft-2.json) |
 | Roving in the Dark | 106602 | [106602-roving-in-the-dark.json](./106602-roving-in-the-dark.json) |
+| Roving Rogue | 19982 | [19982-roving-rogue.json](./19982-roving-rogue.json) |
 | Rovio Classics: Angry Birds | 197792 | [197792-rovio-classics-angry-birds.json](./197792-rovio-classics-angry-birds.json) |
 | Rovonaut Comrade | 128656 | [128656-rovonaut-comrade.json](./128656-rovonaut-comrade.json) |
 | RoVR | 55127 | [55127-rovr.json](./55127-rovr.json) |
