@@ -2052,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
 | Chesh | 15551 | [15551-chesh.json](./15551-chesh.json) |
 | Chess | 128646 | [128646-chess.json](./128646-chess.json) |
+| Chess | 25126 | [25126-chess.json](./25126-chess.json) |
 | Chess | 277419 | [277419-chess.json](./277419-chess.json) |
 | Chess | 9165 | [9165-chess.json](./9165-chess.json) |
 | Chess - tactics and strategy | 91100 | [91100-chess-tactics-and-strategy.json](./91100-chess-tactics-and-strategy.json) |
@@ -2753,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chymicalia | 294180 | [294180-chymicalia.json](./294180-chymicalia.json) |
 | Chyrza | 142395 | [142395-chyrza.json](./142395-chyrza.json) |
 | Cì Shā | 158675 | [158675-ci-sha.json](./158675-ci-sha.json) |
+| CIA | 25130 | [25130-cia.json](./25130-cia.json) |
 | CIA Operative: Solo Missions | 71228 | [71228-cia-operative-solo-missions.json](./71228-cia-operative-solo-missions.json) |
 | Ciao Bella: la Bella Romanza | 133957 | [133957-ciao-bella-la-bella-romanza.json](./133957-ciao-bella-la-bella-romanza.json) |
 | Cicada Springs | 248714 | [248714-cicada-springs.json](./248714-cicada-springs.json) |
@@ -4172,6 +4174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
 | Computer Othello | 242573 | [242573-computer-othello.json](./242573-computer-othello.json) |
 | Computer Physics Simulator 2020 | 132008 | [132008-computer-physics-simulator-2020.json](./132008-computer-physics-simulator-2020.json) |
+| Computer Quarterback | 25128 | [25128-computer-quarterback.json](./25128-computer-quarterback.json) |
 | Computer Repair Shop | 256284 | [256284-computer-repair-shop.json](./256284-computer-repair-shop.json) |
 | Computer Space | 11245 | [11245-computer-space.json](./11245-computer-space.json) |
 | Computer Store Simulator | 382744 | [382744-computer-store-simulator.json](./382744-computer-store-simulator.json) |
