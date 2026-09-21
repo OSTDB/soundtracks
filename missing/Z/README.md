@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zimbo | 96517 | [96517-zimbo.json](./96517-zimbo.json) |
 | Zine Fair Lady | 176956 | [176956-zine-fair-lady.json](./176956-zine-fair-lady.json) |
 | Zineth | 64122 | [64122-zineth.json](./64122-zineth.json) |
+| Zing Zing Zip | 40973 | [40973-zing-zing-zip.json](./40973-zing-zing-zip.json) |
 | Zinkara | 348343 | [348343-zinkara.json](./348343-zinkara.json) |
 | Zinnia | 145595 | [145595-zinnia.json](./145595-zinnia.json) |
 | Zinuru the Great | 157213 | [157213-zinuru-the-great.json](./157213-zinuru-the-great.json) |
@@ -536,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Quest | 377129 | [377129-zombie-quest.json](./377129-zombie-quest.json) |
 | Zombie Race: Undead Smasher | 247179 | [247179-zombie-race-undead-smasher.json](./247179-zombie-race-undead-smasher.json) |
 | Zombie Raid | 150528 | [150528-zombie-raid.json](./150528-zombie-raid.json) |
+| Zombie Raid | 40987 | [40987-zombie-raid.json](./40987-zombie-raid.json) |
 | Zombie Raid: No One Survives | 195274 | [195274-zombie-raid-no-one-survives.json](./195274-zombie-raid-no-one-survives.json) |
 | Zombie Road Rider | 126590 | [126590-zombie-road-rider.json](./126590-zombie-road-rider.json) |
 | Zombie Roguelite | 291209 | [291209-zombie-roguelite.json](./291209-zombie-roguelite.json) |
@@ -749,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
 | Zunius | 121740 | [121740-zunius.json](./121740-zunius.json) |
 | ZunZun Block | 172657 | [172657-zunzun-block.json](./172657-zunzun-block.json) |
+| Zunzunkyou No Yabou | 40972 | [40972-zunzunkyou-no-yabou.json](./40972-zunzunkyou-no-yabou.json) |
 | Zup! 5 | 38784 | [38784-zup-5.json](./38784-zup-5.json) |
 | Zup! S | 111200 | [111200-zup-s.json](./111200-zup-s.json) |
 | Zup! Zero 2 | 105879 | [105879-zup-zero-2.json](./105879-zup-zero-2.json) |
@@ -760,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zusi 3: Aerosoft Edition | 117612 | [117612-zusi-3-aerosoft-edition.json](./117612-zusi-3-aerosoft-edition.json) |
 | Zutto Atai no Turn! | 216458 | [216458-zutto-atai-no-turn.json](./216458-zutto-atai-no-turn.json) |
 | Zwaard | 235973 | [235973-zwaard.json](./235973-zwaard.json) |
+| Zwackery | 40975 | [40975-zwackery.json](./40975-zwackery.json) |
 | Zwerg: A Tale of Beer and Hunger | 413710 | [413710-zwerg-a-tale-of-beer-and-hunger.json](./413710-zwerg-a-tale-of-beer-and-hunger.json) |
 | ZX Asteroids | 319602 | [319602-zx-asteroids.json](./319602-zx-asteroids.json) |
 | ZXC | 266803 | [266803-zxc.json](./266803-zxc.json) |
