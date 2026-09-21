@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Evolution | 334792 | [334792-fallen-evolution.json](./334792-fallen-evolution.json) |
 | Fallen Fates | 345579 | [345579-fallen-fates.json](./345579-fallen-fates.json) |
 | Fallen from Grace | 271220 | [271220-fallen-from-grace.json](./271220-fallen-from-grace.json) |
+| Fallen Haven | 24072 | [24072-fallen-haven.json](./24072-fallen-haven.json) |
 | Fallen Haven: Liberation Day | 154493 | [154493-fallen-haven-liberation-day.json](./154493-fallen-haven-liberation-day.json) |
 | Fallen Hero: Rebirth | 88044 | [88044-fallen-hero-rebirth.json](./88044-fallen-hero-rebirth.json) |
 | Fallen Kingdom | 75023 | [75023-fallen-kingdom.json](./75023-fallen-kingdom.json) |
@@ -1014,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Flash | 98227 | [98227-fatal-flash.json](./98227-fatal-flash.json) |
 | Fatal Frame | 321739 | [321739-fatal-frame.json](./321739-fatal-frame.json) |
 | Fatal Frame | 5106 | [5106-fatal-frame.json](./5106-fatal-frame.json) |
+| Fatal Frame II: Crimson Butterfly - Director's Cut | 24161 | [24161-fatal-frame-ii-crimson-butterfly-directors-cut.json](./24161-fatal-frame-ii-crimson-butterfly-directors-cut.json) |
 | Fatal Frame: Maiden of Black Water - Digital Deluxe Edition | 188050 | [188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json](./188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json) |
 | Fatal Frontier 1869 | 396362 | [396362-fatal-frontier-1869.json](./396362-fatal-frontier-1869.json) |
 | Fatal Fury | 71128 | [71128-fatal-fury.json](./71128-fatal-fury.json) |
@@ -2863,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Hamster HD | 52220 | [52220-flying-hamster-hd.json](./52220-flying-hamster-hd.json) |
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
 | Flying Hero X | 146684 | [146684-flying-hero-x.json](./146684-flying-hero-x.json) |
+| Flying Heroes | 24119 | [24119-flying-heroes.json](./24119-flying-heroes.json) |
 | Flying Islands Games Bundle | 147812 | [147812-flying-islands-games-bundle.json](./147812-flying-islands-games-bundle.json) |
 | Flying Kick | 181237 | [181237-flying-kick.json](./181237-flying-kick.json) |
 | Flying Motorcycle Simulator Pro | 87258 | [87258-flying-motorcycle-simulator-pro.json](./87258-flying-motorcycle-simulator-pro.json) |
@@ -4254,6 +4257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuggedaboutit Farm | 372996 | [372996-fuggedaboutit-farm.json](./372996-fuggedaboutit-farm.json) |
 | Fugitive | 249871 | [249871-fugitive.json](./249871-fugitive.json) |
 | Fugitive 3D | 152758 | [152758-fugitive-3d.json](./152758-fugitive-3d.json) |
+| Fugitive Hunter | 24101 | [24101-fugitive-hunter.json](./24101-fugitive-hunter.json) |
 | Fugue | 104072 | [104072-fugue.json](./104072-fugue.json) |
 | Fugue in Void | 105212 | [105212-fugue-in-void.json](./105212-fugue-in-void.json) |
 | Fugue State | 106420 | [106420-fugue-state.json](./106420-fugue-state.json) |
