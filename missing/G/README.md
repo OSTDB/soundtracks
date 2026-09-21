@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia Attack 4 | 64962 | [64962-gaia-attack-4.json](./64962-gaia-attack-4.json) |
 | Gaia Crusaders | 39550 | [39550-gaia-crusaders.json](./39550-gaia-crusaders.json) |
 | Gaia Eternal | 56175 | [56175-gaia-eternal.json](./56175-gaia-eternal.json) |
+| Gaia Saver: Hero Saidai no Sakusen | 42239 | [42239-gaia-saver-hero-saidai-no-sakusen.json](./42239-gaia-saver-hero-saidai-no-sakusen.json) |
 | Gaia Trek | 248039 | [248039-gaia-trek.json](./248039-gaia-trek.json) |
 | Gaia-ttack | 330159 | [330159-gaia-ttack.json](./330159-gaia-ttack.json) |
 | Gaia: Adapt and Evolve | 74756 | [74756-gaia-adapt-and-evolve.json](./74756-gaia-adapt-and-evolve.json) |
