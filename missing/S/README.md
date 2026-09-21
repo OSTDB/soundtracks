@@ -2538,6 +2538,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShedHorror | 308549 | [308549-shedhorror.json](./308549-shedhorror.json) |
 | Sheep | 229705 | [229705-sheep.json](./229705-sheep.json) |
 | Sheep Game | 99636 | [99636-sheep-game.json](./99636-sheep-game.json) |
+| Sheep Goes Left | 61908 | [61908-sheep-goes-left.json](./61908-sheep-goes-left.json) |
+| Sheep Goes Right | 61907 | [61907-sheep-goes-right.json](./61907-sheep-goes-right.json) |
 | Sheep happens | 19500 | [19500-sheep-happens.json](./19500-sheep-happens.json) |
 | Sheep in Love | 245017 | [245017-sheep-in-love.json](./245017-sheep-in-love.json) |
 | Sheep Island | 373072 | [373072-sheep-island.json](./373072-sheep-island.json) |
@@ -5894,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SonicE | 330709 | [330709-sonice.json](./330709-sonice.json) |
 | SonicN | 175927 | [175927-sonicn.json](./175927-sonicn.json) |
 | Sonik Adventure | 330875 | [330875-sonik-adventure.json](./330875-sonik-adventure.json) |
+| SoniPro | 61906 | [61906-sonipro.json](./61906-sonipro.json) |
 | Sonki's Lagoon | 391193 | [391193-sonkis-lagoon.json](./391193-sonkis-lagoon.json) |
 | SonKnuck Adventure 3 | 326805 | [326805-sonknuck-adventure-3.json](./326805-sonknuck-adventure-3.json) |
 | SonKnuck RPG | 330337 | [330337-sonknuck-rpg.json](./330337-sonknuck-rpg.json) |
@@ -6561,6 +6564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Wars: Interstellar Empires | 76586 | [76586-space-wars-interstellar-empires.json](./76586-space-wars-interstellar-empires.json) |
 | Space Wave | 181912 | [181912-space-wave.json](./181912-space-wave.json) |
 | Space Waves | 189170 | [189170-space-waves.json](./189170-space-waves.json) |
+| Space Whip | 61903 | [61903-space-whip.json](./61903-space-whip.json) |
 | Space World | 103886 | [103886-space-world.json](./103886-space-world.json) |
 | Space Worm | 337468 | [337468-space-worm.json](./337468-space-worm.json) |
 | Space Wreck | 122417 | [122417-space-wreck.json](./122417-space-wreck.json) |
@@ -6899,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbrew Express | 296361 | [296361-spellbrew-express.json](./296361-spellbrew-express.json) |
 | Spellcaster University | 111086 | [111086-spellcaster-university.json](./111086-spellcaster-university.json) |
 | Spellcaster University: Gears and Gobelins | 347676 | [347676-spellcaster-university-gears-and-gobelins.json](./347676-spellcaster-university-gears-and-gobelins.json) |
+| Spellcaster: The Forgotten Spell | 61895 | [61895-spellcaster-the-forgotten-spell.json](./61895-spellcaster-the-forgotten-spell.json) |
 | Spellcaster's Assistant | 96733 | [96733-spellcasters-assistant.json](./96733-spellcasters-assistant.json) |
 | Spellcasting 1+2+3 | 124795 | [124795-spellcasting-1-2-3.json](./124795-spellcasting-1-2-3.json) |
 | Spellcasting 101: Sorcerers get all the Girls | 92973 | [92973-spellcasting-101-sorcerers-get-all-the-girls.json](./92973-spellcasting-101-sorcerers-get-all-the-girls.json) |
@@ -7462,6 +7467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Mouse | 92300 | [92300-spy-mouse.json](./92300-spy-mouse.json) |
 | Spy Muppets: License to Croak | 210723 | [210723-spy-muppets-license-to-croak.json](./210723-spy-muppets-license-to-croak.json) |
 | Spy Network | 188111 | [188111-spy-network.json](./188111-spy-network.json) |
+| Spy of Deimos | 61880 | [61880-spy-of-deimos.json](./61880-spy-of-deimos.json) |
 | Spy Snatcher | 73817 | [73817-spy-snatcher.json](./73817-spy-snatcher.json) |
 | Spy Tactics | 120359 | [120359-spy-tactics.json](./120359-spy-tactics.json) |
 | Spy Vs. Spy: Volumes I & II | 77397 | [77397-spy-vs-spy-volumes-i-and-ii.json](./77397-spy-vs-spy-volumes-i-and-ii.json) |
@@ -7966,6 +7972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Conquest | 356198 | [356198-star-wars-conquest.json](./356198-star-wars-conquest.json) |
 | Star Wars: Dark Forces Remaster | 262973 | [262973-star-wars-dark-forces-remaster.json](./262973-star-wars-dark-forces-remaster.json) |
 | Star Wars: Demolition | 143 | [143-star-wars-demolition.json](./143-star-wars-demolition.json) |
+| Star Wars: Droids - The Adventures of R2-D2 and C-3PO | 61864 | [61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json](./61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json) |
 | Star Wars: DroidWorks | 95480 | [95480-star-wars-droidworks.json](./95480-star-wars-droidworks.json) |
 | Star Wars: Empire at War | 144 | [144-star-wars-empire-at-war.json](./144-star-wars-empire-at-war.json) |
 | Star Wars: Episode I - Battle for Naboo | 156 | [156-star-wars-episode-i-battle-for-naboo.json](./156-star-wars-episode-i-battle-for-naboo.json) |
@@ -10896,6 +10903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superbike Masters | 43860 | [43860-superbike-masters.json](./43860-superbike-masters.json) |
 | Superbike Racing | 54415 | [54415-superbike-racing.json](./54415-superbike-racing.json) |
 | Superboss of the Turnabout | 308537 | [308537-superboss-of-the-turnabout.json](./308537-superboss-of-the-turnabout.json) |
+| Superbowl | 61912 | [61912-superbowl.json](./61912-superbowl.json) |
 | SuperBoys: The Big Fight | 58851 | [58851-superboys-the-big-fight.json](./58851-superboys-the-big-fight.json) |
 | Supercar Collection Simulator | 329962 | [329962-supercar-collection-simulator.json](./329962-supercar-collection-simulator.json) |
 | Supercat Survivors: Meow or Die | 346124 | [346124-supercat-survivors-meow-or-die.json](./346124-supercat-survivors-meow-or-die.json) |
