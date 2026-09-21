@@ -4022,6 +4022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Chuter | 328226 | [328226-sky-chuter.json](./328226-sky-chuter.json) |
 | Sky City Blues | 132824 | [132824-sky-city-blues.json](./132824-sky-city-blues.json) |
 | Sky City Rush | 364502 | [364502-sky-city-rush.json](./364502-sky-city-rush.json) |
+| Sky Clash: Lords of Clans 3D | 51563 | [51563-sky-clash-lords-of-clans-3d.json](./51563-sky-clash-lords-of-clans-3d.json) |
 | Sky Crew | 103888 | [103888-sky-crew.json](./103888-sky-crew.json) |
 | Sky Dancer Run | 174755 | [174755-sky-dancer-run.json](./174755-sky-dancer-run.json) |
 | Sky Dancer: Free Falling | 87498 | [87498-sky-dancer-free-falling.json](./87498-sky-dancer-free-falling.json) |
@@ -4651,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Karts | 130348 | [130348-smash-karts.json](./130348-smash-karts.json) |
 | Smash Land | 145571 | [145571-smash-land.json](./145571-smash-land.json) |
 | Smash MAGA! Trump Zombie Apocalypse | 168336 | [168336-smash-maga-trump-zombie-apocalypse.json](./168336-smash-maga-trump-zombie-apocalypse.json) |
+| Smash Mobs | 51551 | [51551-smash-mobs.json](./51551-smash-mobs.json) |
 | Smash Monkeys | 142850 | [142850-smash-monkeys.json](./142850-smash-monkeys.json) |
 | Smash N' Crash | 367455 | [367455-smash-n-crash.json](./367455-smash-n-crash.json) |
 | Smash Pixel Racing | 33154 | [33154-smash-pixel-racing.json](./33154-smash-pixel-racing.json) |
@@ -4738,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smol Toad | 390127 | [390127-smol-toad.json](./390127-smol-toad.json) |
 | Smolsies | 127989 | [127989-smolsies.json](./127989-smolsies.json) |
 | Smooth Criminal | 91913 | [91913-smooth-criminal.json](./91913-smooth-criminal.json) |
+| Smooth Criminals | 51526 | [51526-smooth-criminals.json](./51526-smooth-criminals.json) |
 | Smooth Mover | 120956 | [120956-smooth-mover.json](./120956-smooth-mover.json) |
 | Smoothie Galaxy | 182518 | [182518-smoothie-galaxy.json](./182518-smoothie-galaxy.json) |
 | Smoothie Swipe | 248646 | [248646-smoothie-swipe.json](./248646-smoothie-swipe.json) |
@@ -6288,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Battalion Alpha | 186194 | [186194-space-battalion-alpha.json](./186194-space-battalion-alpha.json) |
 | Space Battle | 328486 | [328486-space-battle.json](./328486-space-battle.json) |
 | Space Battle Arena | 60231 | [60231-space-battle-arena.json](./60231-space-battle-arena.json) |
+| Space Battle: Humanity | 51507 | [51507-space-battle-humanity.json](./51507-space-battle-humanity.json) |
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
 | Space Battlefield | 187979 | [187979-space-battlefield.json](./187979-space-battlefield.json) |
 | Space Beastz | 195078 | [195078-space-beastz.json](./195078-space-beastz.json) |
@@ -7182,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of the Island: Beach Resort | 251664 | [251664-spirit-of-the-island-beach-resort.json](./251664-spirit-of-the-island-beach-resort.json) |
 | Spirit Overflow | 173249 | [173249-spirit-overflow.json](./173249-spirit-overflow.json) |
 | Spirit Parade | 56500 | [56500-spirit-parade.json](./56500-spirit-parade.json) |
+| Spirit Realm | 51498 | [51498-spirit-realm.json](./51498-spirit-realm.json) |
 | Spirit Riding Free: Ride Along Adventure | 256866 | [256866-spirit-riding-free-ride-along-adventure.json](./256866-spirit-riding-free-ride-along-adventure.json) |
 | Spirit Rover | 107208 | [107208-spirit-rover.json](./107208-spirit-rover.json) |
 | Spirit Shift | 181365 | [181365-spirit-shift.json](./181365-spirit-shift.json) |
@@ -8768,6 +8773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Veterans | 176360 | [176360-stick-veterans.json](./176360-stick-veterans.json) |
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
 | Stick War: Saga | 233777 | [233777-stick-war-saga.json](./233777-stick-war-saga.json) |
+| StickDodgeVR | 51573 | [51573-stickdodgevr.json](./51573-stickdodgevr.json) |
 | Sticker Business | 356738 | [356738-sticker-business.json](./356738-sticker-business.json) |
 | Stickerino | 396195 | [396195-stickerino.json](./396195-stickerino.json) |
 | Stickfight Battle | 197328 | [197328-stickfight-battle.json](./197328-stickfight-battle.json) |
