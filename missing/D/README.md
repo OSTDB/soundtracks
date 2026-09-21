@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Ages | 72251 | [72251-dark-ages.json](./72251-dark-ages.json) |
 | Dark Ages: Volume I - Prince of Destiny | 70337 | [70337-dark-ages-volume-i-prince-of-destiny.json](./70337-dark-ages-volume-i-prince-of-destiny.json) |
 | Dark Alley Escape | 315671 | [315671-dark-alley-escape.json](./315671-dark-alley-escape.json) |
+| Dark and Bright | 51552 | [51552-dark-and-bright.json](./51552-dark-and-bright.json) |
 | Dark and Light Mobile | 227497 | [227497-dark-and-light-mobile.json](./227497-dark-and-light-mobile.json) |
 | Dark and Light: Tales of Gaia | 51999 | [51999-dark-and-light-tales-of-gaia.json](./51999-dark-and-light-tales-of-gaia.json) |
 | Dark Angael | 206964 | [206964-dark-angael.json](./206964-dark-angael.json) |
@@ -1113,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Maze | 55494 | [55494-dead-maze.json](./55494-dead-maze.json) |
 | Dead Meets Lead | 65444 | [65444-dead-meets-lead.json](./65444-dead-meets-lead.json) |
 | Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
+| Dead Moon: Revenge on Phobos | 51509 | [51509-dead-moon-revenge-on-phobos.json](./51509-dead-moon-revenge-on-phobos.json) |
 | Dead Mountaineer's Hotel | 14851 | [14851-dead-mountaineers-hotel.json](./14851-dead-mountaineers-hotel.json) |
 | Dead Nation | 2134 | [2134-dead-nation.json](./2134-dead-nation.json) |
 | Dead Nation: Road to Devastation | 20336 | [20336-dead-nation-road-to-devastation.json](./20336-dead-nation-road-to-devastation.json) |
@@ -1265,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Night | 207405 | [207405-deadly-night.json](./207405-deadly-night.json) |
 | Deadly Nightmare | 190084 | [190084-deadly-nightmare.json](./190084-deadly-nightmare.json) |
 | Deadly Parkour | 295407 | [295407-deadly-parkour.json](./295407-deadly-parkour.json) |
+| Deadly Premonition: The Director's Cut - Classified Edition | 51538 | [51538-deadly-premonition-the-directors-cut-classified-edition.json](./51538-deadly-premonition-the-directors-cut-classified-edition.json) |
 | Deadly Rehearsal | 326599 | [326599-deadly-rehearsal.json](./326599-deadly-rehearsal.json) |
 | Deadly Secret Beneath the Dark Wood | 269657 | [269657-deadly-secret-beneath-the-dark-wood.json](./269657-deadly-secret-beneath-the-dark-wood.json) |
 | Deadly Sky | 51981 | [51981-deadly-sky.json](./51981-deadly-sky.json) |
@@ -1866,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltagun | 336347 | [336347-deltagun.json](./336347-deltagun.json) |
 | Deltagun Deluxe | 336349 | [336349-deltagun-deluxe.json](./336349-deltagun-deluxe.json) |
 | Deltamount | 384652 | [384652-deltamount.json](./384652-deltamount.json) |
+| Deltaplan Simulator | 51553 | [51553-deltaplan-simulator.json](./51553-deltaplan-simulator.json) |
 | Deltarune 97 | 277964 | [277964-deltarune-97.json](./277964-deltarune-97.json) |
 | Deltarune Paraphrase: Steamton Edition | 374683 | [374683-deltarune-paraphrase-steamton-edition.json](./374683-deltarune-paraphrase-steamton-edition.json) |
 | Deltarune Sakuya Battle | 347258 | [347258-deltarune-sakuya-battle.json](./347258-deltarune-sakuya-battle.json) |
@@ -4652,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Lair | 298548 | [298548-dragon-lair.json](./298548-dragon-lair.json) |
 | Dragon Lair Depths | 251005 | [251005-dragon-lair-depths.json](./251005-dragon-lair-depths.json) |
 | Dragon Land | 101958 | [101958-dragon-land.json](./101958-dragon-land.json) |
+| Dragon Lords 3D | 51506 | [51506-dragon-lords-3d.json](./51506-dragon-lords-3d.json) |
 | Dragon Mania | 241469 | [241469-dragon-mania.json](./241469-dragon-mania.json) |
 | Dragon Marked for Death: Advanced Attackers | 147998 | [147998-dragon-marked-for-death-advanced-attackers.json](./147998-dragon-marked-for-death-advanced-attackers.json) |
 | Dragon Master | 209127 | [209127-dragon-master.json](./209127-dragon-master.json) |
@@ -5048,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Adventure | 173177 | [173177-dreams-of-adventure.json](./173177-dreams-of-adventure.json) |
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
 | Dreams of Dead | 202249 | [202249-dreams-of-dead.json](./202249-dreams-of-dead.json) |
+| Dreams of Greatness | 51583 | [51583-dreams-of-greatness.json](./51583-dreams-of-greatness.json) |
 | Dreams of Joy Departed | 317581 | [317581-dreams-of-joy-departed.json](./317581-dreams-of-joy-departed.json) |
 | Dreams of Sand | 306347 | [306347-dreams-of-sand.json](./306347-dreams-of-sand.json) |
 | Dreams of Solari - Chapter 1 | 120376 | [120376-dreams-of-solari-chapter-1.json](./120376-dreams-of-solari-chapter-1.json) |
