@@ -3722,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Faerie | 89948 | [89948-bloody-faerie.json](./89948-bloody-faerie.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
+| Bloody Roar 2 | 4140 | [4140-bloody-roar-2.json](./4140-bloody-roar-2.json) |
 | Bloody Steel | 256913 | [256913-bloody-steel.json](./256913-bloody-steel.json) |
 | Bloody Streets | 36069 | [36069-bloody-streets.json](./36069-bloody-streets.json) |
 | Bloody Walls: Hardcore | 166222 | [166222-bloody-walls-hardcore.json](./166222-bloody-walls-hardcore.json) |
@@ -4233,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogaloopers | 62752 | [62752-boogaloopers.json](./62752-boogaloopers.json) |
 | Boogerman | 242091 | [242091-boogerman.json](./242091-boogerman.json) |
 | Boogerman II: The Final Adventure | 242092 | [242092-boogerman-ii-the-final-adventure.json](./242092-boogerman-ii-the-final-adventure.json) |
+| Boogerman: A Pick and Flick Adventure | 19614 | [19614-boogerman-a-pick-and-flick-adventure.json](./19614-boogerman-a-pick-and-flick-adventure.json) |
 | Boogeyman | 19015 | [19015-boogeyman.json](./19015-boogeyman.json) |
 | Boogie | 210265 | [210265-boogie.json](./210265-boogie.json) |
 | Boogie | 85828 | [85828-boogie.json](./85828-boogie.json) |
