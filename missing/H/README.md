@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hang up Street | 333092 | [333092-hang-up-street.json](./333092-hang-up-street.json) |
 | Hang-On | 364569 | [364569-hang-on.json](./364569-hang-on.json) |
 | Hang-On | 364571 | [364571-hang-on.json](./364571-hang-on.json) |
+| Hang-On | 6110 | [6110-hang-on.json](./6110-hang-on.json) |
 | Hang-On & Astro Warrior | 86098 | [86098-hang-on-and-astro-warrior.json](./86098-hang-on-and-astro-warrior.json) |
 | Hang-On II | 6111 | [6111-hang-on-ii.json](./6111-hang-on-ii.json) |
 | Hangar 27 | 269121 | [269121-hangar-27.json](./269121-hangar-27.json) |
