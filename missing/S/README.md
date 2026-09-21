@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturnia | 267993 | [267993-saturnia.json](./267993-saturnia.json) |
 | Saturnine | 110127 | [110127-saturnine.json](./110127-saturnine.json) |
 | Saturnine Chapel | 141835 | [141835-saturnine-chapel.json](./141835-saturnine-chapel.json) |
+| Saucer Attack! | 59645 | [59645-saucer-attack.json](./59645-saucer-attack.json) |
 | Saucer Destruction 3: Armagedon | 337204 | [337204-saucer-destruction-3-armagedon.json](./337204-saucer-destruction-3-armagedon.json) |
 | Saucy Boy Adventures | 210095 | [210095-saucy-boy-adventures.json](./210095-saucy-boy-adventures.json) |
 | Sauk Mind | 326600 | [326600-sauk-mind.json](./326600-sauk-mind.json) |
@@ -881,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Manor: The Heir | 272937 | [272937-scarlet-manor-the-heir.json](./272937-scarlet-manor-the-heir.json) |
 | Scarlet Nexus: Ultimate Edition | 188044 | [188044-scarlet-nexus-ultimate-edition.json](./188044-scarlet-nexus-ultimate-edition.json) |
 | Scarlet Republics | 156693 | [156693-scarlet-republics.json](./156693-scarlet-republics.json) |
+| Scarlet Sails | 59689 | [59689-scarlet-sails.json](./59689-scarlet-sails.json) |
 | Scarlet Sand Sojourn | 266202 | [266202-scarlet-sand-sojourn.json](./266202-scarlet-sand-sojourn.json) |
 | Scarlet Skips | 398972 | [398972-scarlet-skips.json](./398972-scarlet-skips.json) |
 | Scarlet Sorceress | 382217 | [382217-scarlet-sorceress.json](./382217-scarlet-sorceress.json) |
@@ -1336,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaborn | 176450 | [176450-seaborn.json](./176450-seaborn.json) |
 | SeaCret 1 | 352464 | [352464-seacret-1.json](./352464-seacret-1.json) |
 | Seafarer's Gambit | 329172 | [329172-seafarers-gambit.json](./329172-seafarers-gambit.json) |
+| Seafight | 59655 | [59655-seafight.json](./59655-seafight.json) |
 | Seaforge: Shores of Atlantis | 415872 | [415872-seaforge-shores-of-atlantis.json](./415872-seaforge-shores-of-atlantis.json) |
 | Seafox | 22416 | [22416-seafox.json](./22416-seafox.json) |
 | Seaglass | 225763 | [225763-seaglass.json](./225763-seaglass.json) |
@@ -1426,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Saga | 392251 | [392251-second-saga.json](./392251-second-saga.json) |
 | Second Soul | 202407 | [202407-second-soul.json](./202407-second-soul.json) |
 | Second Stone | 216314 | [216314-second-stone.json](./216314-second-stone.json) |
+| Second Story | 59688 | [59688-second-story.json](./59688-second-story.json) |
 | Second Thoughts | 203543 | [203543-second-thoughts.json](./203543-second-thoughts.json) |
 | Second Wave | 242250 | [242250-second-wave.json](./242250-second-wave.json) |
 | Second Wind | 390123 | [390123-second-wind.json](./390123-second-wind.json) |
@@ -1586,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
 | Seeking Adventure | 331970 | [331970-seeking-adventure.json](./331970-seeking-adventure.json) |
 | Seeking Asylum: The Game | 390522 | [390522-seeking-asylum-the-game.json](./390522-seeking-asylum-the-game.json) |
+| Seeking Ataraxia | 59690 | [59690-seeking-ataraxia.json](./59690-seeking-ataraxia.json) |
 | Seeking for Puppies | 359415 | [359415-seeking-for-puppies.json](./359415-seeking-for-puppies.json) |
 | Seeking Light | 210698 | [210698-seeking-light.json](./210698-seeking-light.json) |
 | Seeking Revenge | 158225 | [158225-seeking-revenge.json](./158225-seeking-revenge.json) |
@@ -4231,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayer Shock | 24646 | [24646-slayer-shock.json](./24646-slayer-shock.json) |
 | Slayers Royal 2 | 72660 | [72660-slayers-royal-2.json](./72660-slayers-royal-2.json) |
 | Slaygon | 55148 | [55148-slaygon.json](./55148-slaygon.json) |
+| Slayin | 59671 | [59671-slayin.json](./59671-slayin.json) |
 | Slayin 2 | 134021 | [134021-slayin-2.json](./134021-slayin-2.json) |
 | Slayser | 238760 | [238760-slayser.json](./238760-slayser.json) |
 | Sled Bandit | 255731 | [255731-sled-bandit.json](./255731-sled-bandit.json) |
@@ -7471,6 +7477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Hunter | 21042 | [21042-spy-hunter.json](./21042-spy-hunter.json) |
 | Spy Hunter | 287079 | [287079-spy-hunter.json](./287079-spy-hunter.json) |
 | Spy Hunter Returns | 297466 | [297466-spy-hunter-returns.json](./297466-spy-hunter-returns.json) |
+| Spy Intrigue | 59687 | [59687-spy-intrigue.json](./59687-spy-intrigue.json) |
 | Spy Kids 2: Mega Mission Zone | 9207 | [9207-spy-kids-2-mega-mission-zone.json](./9207-spy-kids-2-mega-mission-zone.json) |
 | Spy Kids Challenger | 49385 | [49385-spy-kids-challenger.json](./49385-spy-kids-challenger.json) |
 | Spy Kids Learning Adventures: Mission - Man in the Moon | 73833 | [73833-spy-kids-learning-adventures-mission-man-in-the-moon.json](./73833-spy-kids-learning-adventures-mission-man-in-the-moon.json) |
@@ -11499,6 +11506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchcraft | 191802 | [191802-switchcraft.json](./191802-switchcraft.json) |
 | Switchcraft: Magical Match 3 | 219829 | [219829-switchcraft-magical-match-3.json](./219829-switchcraft-magical-match-3.json) |
 | Switcheroo | 340397 | [340397-switcheroo.json](./340397-switcheroo.json) |
+| Switcheroo | 59686 | [59686-switcheroo.json](./59686-switcheroo.json) |
 | Switchfire | 54418 | [54418-switchfire.json](./54418-switchfire.json) |
 | SWIV | 12789 | [12789-swiv.json](./12789-swiv.json) |
 | Swoon! | 153998 | [153998-swoon.json](./153998-swoon.json) |
