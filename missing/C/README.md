@@ -1482,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman HD | 102744 | [102744-caveman-hd.json](./102744-caveman-hd.json) |
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
 | Caveman Ransom | 245952 | [245952-caveman-ransom.json](./245952-caveman-ransom.json) |
+| CaveMan Rock | 43504 | [43504-caveman-rock.json](./43504-caveman-rock.json) |
 | Caveman Stories | 95184 | [95184-caveman-stories.json](./95184-caveman-stories.json) |
 | Caveman Warriors | 29250 | [29250-caveman-warriors.json](./29250-caveman-warriors.json) |
 | Cavemen vs. Aliens | 91412 | [91412-cavemen-vs-aliens.json](./91412-cavemen-vs-aliens.json) |
@@ -2564,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroam | 349858 | [349858-chroam.json](./349858-chroam.json) |
 | Chroma | 172046 | [172046-chroma.json](./172046-chroma.json) |
 | Chroma | 311799 | [311799-chroma.json](./311799-chroma.json) |
+| Chroma Blast | 43498 | [43498-chroma-blast.json](./43498-chroma-blast.json) |
 | Chroma Cannon | 136245 | [136245-chroma-cannon.json](./136245-chroma-cannon.json) |
 | Chroma Chronicles | 194450 | [194450-chroma-chronicles.json](./194450-chroma-chronicles.json) |
 | Chroma Match | 102822 | [102822-chroma-match.json](./102822-chroma-match.json) |
@@ -4828,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Varmint Hunter | 83236 | [83236-country-varmint-hunter.json](./83236-country-varmint-hunter.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
 | Countryballs: The Heist | 302945 | [302945-countryballs-the-heist.json](./302945-countryballs-the-heist.json) |
+| Countryside Bears | 43502 | [43502-countryside-bears.json](./43502-countryside-bears.json) |
 | Countryside Farm Clues | 402930 | [402930-countryside-farm-clues.json](./402930-countryside-farm-clues.json) |
 | Countup | 358882 | [358882-countup.json](./358882-countup.json) |
 | County Courier | 295782 | [295782-county-courier.json](./295782-county-courier.json) |
