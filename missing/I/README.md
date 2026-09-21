@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ideabox | 125953 | [125953-ideabox.json](./125953-ideabox.json) |
 | Identifile | 319379 | [319379-identifile.json](./319379-identifile.json) |
 | Identikit | 210062 | [210062-identikit.json](./210062-identikit.json) |
+| Identity | 26962 | [26962-identity.json](./26962-identity.json) |
 | Identity Escape | 315670 | [315670-identity-escape.json](./315670-identity-escape.json) |
 | Identity Forwarded | 220213 | [220213-identity-forwarded.json](./220213-identity-forwarded.json) |
 | Identity Sector | 119694 | [119694-identity-sector.json](./119694-identity-sector.json) |
@@ -1284,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinitely Up: Turn the Figure | 335334 | [335334-infinitely-up-turn-the-figure.json](./335334-infinitely-up-turn-the-figure.json) |
 | Infinitroid | 70380 | [70380-infinitroid.json](./70380-infinitroid.json) |
 | Infinitum: Deluxe Edition | 53232 | [53232-infinitum-deluxe-edition.json](./53232-infinitum-deluxe-edition.json) |
+| Infinitum: Legends | 26967 | [26967-infinitum-legends.json](./26967-infinitum-legends.json) |
 | Infinitum: The Backrooms Story | 258179 | [258179-infinitum-the-backrooms-story.json](./258179-infinitum-the-backrooms-story.json) |
 | Infinity | 13729 | [13729-infinity.json](./13729-infinity.json) |
 | Infinity | 313865 | [313865-infinity.json](./313865-infinity.json) |
