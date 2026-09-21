@@ -5943,6 +5943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buying Tomato | 394869 | [394869-buying-tomato.json](./394869-buying-tomato.json) |
 | Buzz | 232552 | [232552-buzz.json](./232552-buzz.json) |
 | Buzz Cut Simulation | 277313 | [277313-buzz-cut-simulation.json](./277313-buzz-cut-simulation.json) |
+| Buzz Lightyear of Star Command | 19675 | [19675-buzz-lightyear-of-star-command.json](./19675-buzz-lightyear-of-star-command.json) |
 | Buzz Lightyear of Star Command | 282150 | [282150-buzz-lightyear-of-star-command.json](./282150-buzz-lightyear-of-star-command.json) |
 | Buzz Off, Buddy | 383521 | [383521-buzz-off-buddy.json](./383521-buzz-off-buddy.json) |
 | Buzz or Die | 295233 | [295233-buzz-or-die.json](./295233-buzz-or-die.json) |
