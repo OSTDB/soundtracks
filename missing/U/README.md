@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrono Arena | 94211 | [94211-ultrono-arena.json](./94211-ultrono-arena.json) |
 | Um Jammer Lammy Now | 243420 | [243420-um-jammer-lammy-now.json](./243420-um-jammer-lammy-now.json) |
 | Uma Casa Que Não é Sua | 178625 | [178625-uma-casa-que-nao-e-sua.json](./178625-uma-casa-que-nao-e-sua.json) |
+| UMA-War VR | 30175 | [30175-uma-war-vr.json](./30175-uma-war-vr.json) |
 | Umadle | 369045 | [369045-umadle.json](./369045-umadle.json) |
 | Umami Island | 214503 | [214503-umami-island.json](./214503-umami-island.json) |
 | UmaNetto. Full Preved! | 252372 | [252372-umanetto-full-preved.json](./252372-umanetto-full-preved.json) |
@@ -773,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Combat | 70975 | [70975-universal-combat.json](./70975-universal-combat.json) |
 | Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
 | Universal Flight Simulator | 207890 | [207890-universal-flight-simulator.json](./207890-universal-flight-simulator.json) |
+| Universal Hero | 30209 | [30209-universal-hero.json](./30209-universal-hero.json) |
 | Universal History of Light | 60784 | [60784-universal-history-of-light.json](./60784-universal-history-of-light.json) |
 | Universal Hologram | 359525 | [359525-universal-hologram.json](./359525-universal-hologram.json) |
 | Universal Monsters Dracula | 198948 | [198948-universal-monsters-dracula.json](./198948-universal-monsters-dracula.json) |
