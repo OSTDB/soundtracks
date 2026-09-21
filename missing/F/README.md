@@ -1041,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury | 71128 | [71128-fatal-fury.json](./71128-fatal-fury.json) |
 | Fatal Fury 2 | 4435 | [4435-fatal-fury-2.json](./4435-fatal-fury-2.json) |
 | Fatal Fury Special | 5385 | [5385-fatal-fury-special.json](./5385-fatal-fury-special.json) |
+| Fatal Fury: City of the Wolves | 260321 | [260321-fatal-fury-city-of-the-wolves.json](./260321-fatal-fury-city-of-the-wolves.json) |
 | Fatal Fury: City of the Wolves - Chun-Li | 317832 | [317832-fatal-fury-city-of-the-wolves-chun-li.json](./317832-fatal-fury-city-of-the-wolves-chun-li.json) |
 | Fatal Fury: City of the Wolves - Deluxe Edition | 329713 | [329713-fatal-fury-city-of-the-wolves-deluxe-edition.json](./329713-fatal-fury-city-of-the-wolves-deluxe-edition.json) |
 | Fatal Fury: City of the Wolves - Ken | 317831 | [317831-fatal-fury-city-of-the-wolves-ken.json](./317831-fatal-fury-city-of-the-wolves-ken.json) |
