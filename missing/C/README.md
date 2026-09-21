@@ -2955,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Sleeper: Episode - Flux | 210738 | [210738-citizen-sleeper-episode-flux.json](./210738-citizen-sleeper-episode-flux.json) |
 | Citizen Witch | 184650 | [184650-citizen-witch.json](./184650-citizen-witch.json) |
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
+| Citizens of Earth | 8598 | [8598-citizens-of-earth.json](./8598-citizens-of-earth.json) |
 | Citizens Unite!: Earth x Space | 139994 | [139994-citizens-unite-earth-x-space.json](./139994-citizens-unite-earth-x-space.json) |
 | Citri Plays Noirwood | 220635 | [220635-citri-plays-noirwood.json](./220635-citri-plays-noirwood.json) |
 | Citrus | 104440 | [104440-citrus.json](./104440-citrus.json) |
