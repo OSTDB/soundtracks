@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Wick | 143750 | [143750-john-wick.json](./143750-john-wick.json) |
 | John Wick Chronicles | 27096 | [27096-john-wick-chronicles.json](./27096-john-wick-chronicles.json) |
 | John Wick Hex | 118219 | [118219-john-wick-hex.json](./118219-john-wick-hex.json) |
+| John: Car Transporter Truck 3D | 28156 | [28156-john-car-transporter-truck-3d.json](./28156-john-car-transporter-truck-3d.json) |
 | John:Condemned | 111011 | [111011-john-condemned.json](./111011-john-condemned.json) |
 | John's Tombstone | 187523 | [187523-johns-tombstone.json](./187523-johns-tombstone.json) |
 | John's Wizard Dungeon | 119738 | [119738-johns-wizard-dungeon.json](./119738-johns-wizard-dungeon.json) |
