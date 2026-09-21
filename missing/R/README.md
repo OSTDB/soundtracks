@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R0x | 182917 | [182917-r0x.json](./182917-r0x.json) |
 | R2 Online: Reign of Revolution | 91269 | [91269-r2-online-reign-of-revolution.json](./91269-r2-online-reign-of-revolution.json) |
 | R2Beat | 108993 | [108993-r2beat.json](./108993-r2beat.json) |
+| R2D Tank | 40394 | [40394-r2d-tank.json](./40394-r2d-tank.json) |
 | R42 | 130900 | [130900-r42.json](./130900-r42.json) |
 | Ra.One: The Game | 18295 | [18295-ra-one-the-game.json](./18295-ra-one-the-game.json) |
 | Raanaa: The Shaman Girl | 321137 | [321137-raanaa-the-shaman-girl.json](./321137-raanaa-the-shaman-girl.json) |
@@ -156,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing | 91357 | [91357-racing.json](./91357-racing.json) |
 | Racing 2020 | 129204 | [129204-racing-2020.json](./129204-racing-2020.json) |
 | Racing Aces | 5426 | [5426-racing-aces.json](./5426-racing-aces.json) |
+| Racing Beat | 40393 | [40393-racing-beat.json](./40393-racing-beat.json) |
 | Racing City | 104588 | [104588-racing-city.json](./104588-racing-city.json) |
 | Racing Clash Club | 174816 | [174816-racing-clash-club.json](./174816-racing-clash-club.json) |
 | Racing Classics Pro: Drag Race & Real Speed | 187476 | [187476-racing-classics-pro-drag-race-and-real-speed.json](./187476-racing-classics-pro-drag-race-and-real-speed.json) |
@@ -829,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RazePact | 356644 | [356644-razepact.json](./356644-razepact.json) |
 | Raziel | 174742 | [174742-raziel.json](./174742-raziel.json) |
 | Razorback | 336008 | [336008-razorback.json](./336008-razorback.json) |
+| Razzmatazz | 40392 | [40392-razzmatazz.json](./40392-razzmatazz.json) |
 | RB Axolotl | 108962 | [108962-rb-axolotl.json](./108962-rb-axolotl.json) |
 | RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
 | RC Airplane: Flight Simulator | 261352 | [261352-rc-airplane-flight-simulator.json](./261352-rc-airplane-flight-simulator.json) |
@@ -1210,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red | 29948 | [29948-red.json](./29948-red.json) |
 | Red | 75084 | [75084-red.json](./75084-red.json) |
 | Red 7 | 175986 | [175986-red-7.json](./175986-red-7.json) |
+| Red Alert | 40391 | [40391-red-alert.json](./40391-red-alert.json) |
 | Red Algorithm: Fernando | 172095 | [172095-red-algorithm-fernando.json](./172095-red-algorithm-fernando.json) |
 | Red and Blue Balls | 99395 | [99395-red-and-blue-balls.json](./99395-red-and-blue-balls.json) |
 | Red and Blue: Alien War | 56143 | [56143-red-and-blue-alien-war.json](./56143-red-and-blue-alien-war.json) |
@@ -1540,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reigns: The Council | 122844 | [122844-reigns-the-council.json](./122844-reigns-the-council.json) |
 | Reigns: Three Kingdoms | 204453 | [204453-reigns-three-kingdoms.json](./204453-reigns-three-kingdoms.json) |
 | Reijou Tantei: Office Love Jikenbo | 203342 | [203342-reijou-tantei-office-love-jikenbo.json](./203342-reijou-tantei-office-love-jikenbo.json) |
+| Reikai Doushi | 40390 | [40390-reikai-doushi.json](./40390-reikai-doushi.json) |
 | Reiko's Fragments | 125118 | [125118-reikos-fragments.json](./125118-reikos-fragments.json) |
 | Reikon Dungeon | 185153 | [185153-reikon-dungeon.json](./185153-reikon-dungeon.json) |
 | Reikon: Reawaken | 250987 | [250987-reikon-reawaken.json](./250987-reikon-reawaken.json) |
@@ -2330,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle fidget spinner | 297649 | [297649-riddle-fidget-spinner.json](./297649-riddle-fidget-spinner.json) |
 | Riddle in Riddle | 150114 | [150114-riddle-in-riddle.json](./150114-riddle-in-riddle.json) |
 | Riddle Joker | 97388 | [97388-riddle-joker.json](./97388-riddle-joker.json) |
+| Riddle of Pythagoras | 40424 | [40424-riddle-of-pythagoras.json](./40424-riddle-of-pythagoras.json) |
 | Riddle of the Jelly | 245943 | [245943-riddle-of-the-jelly.json](./245943-riddle-of-the-jelly.json) |
 | Riddle of the Sphinx | 174286 | [174286-riddle-of-the-sphinx.json](./174286-riddle-of-the-sphinx.json) |
 | Riddle of the Sphinx: Moonlight Exploration | 169930 | [169930-riddle-of-the-sphinx-moonlight-exploration.json](./169930-riddle-of-the-sphinx-moonlight-exploration.json) |
@@ -2496,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rilakkuma Nakayoshi Collection | 222506 | [222506-rilakkuma-nakayoshi-collection.json](./222506-rilakkuma-nakayoshi-collection.json) |
 | Riley Short: Analog Boy - Episode 1 | 37051 | [37051-riley-short-analog-boy-episode-1.json](./37051-riley-short-analog-boy-episode-1.json) |
 | Rilu Rilu Fairilu Kirakira: Hajimete no Fairilu Magic | 222537 | [222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json](./222537-rilu-rilu-fairilu-kirakira-hajimete-no-fairilu-magic.json) |
+| Rim Rockin' Basketball | 40423 | [40423-rim-rockin-basketball.json](./40423-rim-rockin-basketball.json) |
 | Rim Runners | 64661 | [64661-rim-runners.json](./64661-rim-runners.json) |
 | Rim: Battle Planets | 71747 | [71747-rim-battle-planets.json](./71747-rim-battle-planets.json) |
 | Rima: The Story Begins | 207859 | [207859-rima-the-story-begins.json](./207859-rima-the-story-begins.json) |
@@ -2883,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Risk | 58755 | [58755-robo-risk.json](./58755-robo-risk.json) |
 | Robo Runner | 186157 | [186157-robo-runner.json](./186157-robo-runner.json) |
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
+| Robo Wrestle 2001 | 40422 | [40422-robo-wrestle-2001.json](./40422-robo-wrestle-2001.json) |
 | Robo-Key | 181803 | [181803-robo-key.json](./181803-robo-key.json) |
 | Robo-Summit | 180683 | [180683-robo-summit.json](./180683-robo-summit.json) |
 | Robo-tea: 1cup! | 178518 | [178518-robo-tea-1cup.json](./178518-robo-tea-1cup.json) |
@@ -3026,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Boshers DX: Director's Cut | 23224 | [23224-rock-boshers-dx-directors-cut.json](./23224-rock-boshers-dx-directors-cut.json) |
 | Rock Bottom | 141856 | [141856-rock-bottom.json](./141856-rock-bottom.json) |
 | Rock Bottom | 304339 | [304339-rock-bottom.json](./304339-rock-bottom.json) |
+| Rock Climber | 40421 | [40421-rock-climber.json](./40421-rock-climber.json) |
 | Rock Climbing? | 288790 | [288790-rock-climbing.json](./288790-rock-climbing.json) |
 | Rock Defender | 26650 | [26650-rock-defender.json](./26650-rock-defender.json) |
 | Rock Flipper | 332808 | [332808-rock-flipper.json](./332808-rock-flipper.json) |
@@ -3352,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Coaster Factory 3 | 209004 | [209004-roller-coaster-factory-3.json](./209004-roller-coaster-factory-3.json) |
 | Roller Coaster Funfare | 94009 | [94009-roller-coaster-funfare.json](./94009-roller-coaster-funfare.json) |
 | Roller Coaster Rampage | 16359 | [16359-roller-coaster-rampage.json](./16359-roller-coaster-rampage.json) |
+| Roller Jammer | 40420 | [40420-roller-jammer.json](./40420-roller-jammer.json) |
 | Roller Rush | 209008 | [209008-roller-rush.json](./209008-roller-rush.json) |
 | Roller Stars | 149017 | [149017-roller-stars.json](./149017-roller-stars.json) |
 | Roller-Skating | 328498 | [328498-roller-skating.json](./328498-roller-skating.json) |
@@ -4031,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runa | 129162 | [129162-runa.json](./129162-runa.json) |
 | Runa & the Chaikurú Legacy | 238734 | [238734-runa-and-the-chaikuru-legacy.json](./238734-runa-and-the-chaikuru-legacy.json) |
 | Runaround Reaper | 276730 | [276730-runaround-reaper.json](./276730-runaround-reaper.json) |
+| Runaway | 40419 | [40419-runaway.json](./40419-runaway.json) |
 | Runaway 2: The Dream of the Turtle | 13227 | [13227-runaway-2-the-dream-of-the-turtle.json](./13227-runaway-2-the-dream-of-the-turtle.json) |
 | Runaway Animals | 207360 | [207360-runaway-animals.json](./207360-runaway-animals.json) |
 | Runaway Bride | 288240 | [288240-runaway-bride.json](./288240-runaway-bride.json) |
