@@ -2002,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Responder VR | 241516 | [241516-first-responder-vr.json](./241516-first-responder-vr.json) |
 | First Sexy Night 2: Second Date | 235760 | [235760-first-sexy-night-2-second-date.json](./235760-first-sexy-night-2-second-date.json) |
 | First Snow | 132765 | [132765-first-snow.json](./132765-first-snow.json) |
+| First South Beer Pong | 59653 | [59653-first-south-beer-pong.json](./59653-first-south-beer-pong.json) |
 | First Step: Fighting Souls | 196328 | [196328-first-step-fighting-souls.json](./196328-first-step-fighting-souls.json) |
 | First Steps | 263217 | [263217-first-steps.json](./263217-first-steps.json) |
 | First Strike | 24942 | [24942-first-strike.json](./24942-first-strike.json) |
@@ -2765,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly the Plane | 263494 | [263494-fly-the-plane.json](./263494-fly-the-plane.json) |
 | Fly to Kuma | 58788 | [58788-fly-to-kuma.json](./58788-fly-to-kuma.json) |
 | Fly Together! | 146215 | [146215-fly-together.json](./146215-fly-together.json) |
+| Fly Wars | 59662 | [59662-fly-wars.json](./59662-fly-wars.json) |
 | FLY: Forever Loving You | 179676 | [179676-fly-forever-loving-you.json](./179676-fly-forever-loving-you.json) |
 | Fly! | 69847 | [69847-fly.json](./69847-fly.json) |
 | Fly! 2K | 93065 | [93065-fly-2k.json](./93065-fly-2k.json) |
