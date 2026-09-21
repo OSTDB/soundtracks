@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires II Mobile | 144346 | [144346-age-of-empires-ii-mobile.json](./144346-age-of-empires-ii-mobile.json) |
 | Age of Empires II: Definitive Edition - Chronicles: Battle for Greece | 323348 | [323348-age-of-empires-ii-definitive-edition-chronicles-battle-for-greece.json](./323348-age-of-empires-ii-definitive-edition-chronicles-battle-for-greece.json) |
 | Age of Empires II: Definitive Edition - Dynasties of India | 197890 | [197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json](./197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json) |
+| Age of Empires II: HD Edition | 2950 | [2950-age-of-empires-ii-hd-edition.json](./2950-age-of-empires-ii-hd-edition.json) |
 | Age of Empires II: HD Edition - The Forgotten | 9951 | [9951-age-of-empires-ii-hd-edition-the-forgotten.json](./9951-age-of-empires-ii-hd-edition-the-forgotten.json) |
 | Age of Empires III Mobile | 144347 | [144347-age-of-empires-iii-mobile.json](./144347-age-of-empires-iii-mobile.json) |
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
@@ -3060,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti-TuringTest | 371914 | [371914-anti-turingtest.json](./371914-anti-turingtest.json) |
 | AntiAir | 304199 | [304199-antiair.json](./304199-antiair.json) |
 | Antiban | 302664 | [302664-antiban.json](./302664-antiban.json) |
+| Antichamber | 2064 | [2064-antichamber.json](./2064-antichamber.json) |
 | Antichromatic | 112323 | [112323-antichromatic.json](./112323-antichromatic.json) |
 | Antigrav | 43521 | [43521-antigrav.json](./43521-antigrav.json) |
 | Antigrav Racing Championship | 248329 | [248329-antigrav-racing-championship.json](./248329-antigrav-racing-championship.json) |
