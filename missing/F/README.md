@@ -2016,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireworks Simulator: Realistic | 169400 | [169400-fireworks-simulator-realistic.json](./169400-fireworks-simulator-realistic.json) |
 | Firezone | 74397 | [74397-firezone.json](./74397-firezone.json) |
 | Firmament Wars | 104042 | [104042-firmament-wars.json](./104042-firmament-wars.json) |
+| Firo & Klawd | 28218 | [28218-firo-and-klawd.json](./28218-firo-and-klawd.json) |
 | Firon | 114979 | [114979-firon.json](./114979-firon.json) |
 | First | 377569 | [377569-first.json](./377569-first.json) |
 | First Anchor | 69559 | [69559-first-anchor.json](./69559-first-anchor.json) |
@@ -2415,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Shooter | 175982 | [175982-flappy-shooter.json](./175982-flappy-shooter.json) |
 | Flappy Souls | 249191 | [249191-flappy-souls.json](./249191-flappy-souls.json) |
 | Flappy Special | 64124 | [64124-flappy-special.json](./64124-flappy-special.json) |
+| Flappy Trumpadore | 28206 | [28206-flappy-trumpadore.json](./28206-flappy-trumpadore.json) |
 | Flappy Ugandan Knuckles | 308965 | [308965-flappy-ugandan-knuckles.json](./308965-flappy-ugandan-knuckles.json) |
 | Flappy Wings | 226423 | [226423-flappy-wings.json](./226423-flappy-wings.json) |
 | Flappy Wings | 381022 | [381022-flappy-wings.json](./381022-flappy-wings.json) |
