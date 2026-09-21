@@ -2266,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LocoSoccer Classic | 34601 | [34601-locosoccer-classic.json](./34601-locosoccer-classic.json) |
 | Locotier | 193489 | [193489-locotier.json](./193489-locotier.json) |
 | Locus | 92844 | [92844-locus.json](./92844-locus.json) |
+| Locus Solus | 32243 | [32243-locus-solus.json](./32243-locus-solus.json) |
 | Loddlenaut | 152196 | [152196-loddlenaut.json](./152196-loddlenaut.json) |
 | Lode Runner | 166708 | [166708-lode-runner.json](./166708-lode-runner.json) |
 | Lode Runner | 197939 | [197939-lode-runner.json](./197939-lode-runner.json) |
