@@ -2338,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choco-Ken no Dekitate Sweets Wagon | 287630 | [287630-choco-ken-no-dekitate-sweets-wagon.json](./287630-choco-ken-no-dekitate-sweets-wagon.json) |
 | Choco-Ken no Omise: Patisserie & Sweets Shop Game | 287628 | [287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json](./287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json) |
 | Chocobo Collection | 71219 | [71219-chocobo-collection.json](./71219-chocobo-collection.json) |
+| Chocobo Land: A Game of Dice | 49559 | [49559-chocobo-land-a-game-of-dice.json](./49559-chocobo-land-a-game-of-dice.json) |
 | Chocolat Rush | 120789 | [120789-chocolat-rush.json](./120789-chocolat-rush.json) |
 | Chocolate Factory | 112995 | [112995-chocolate-factory.json](./112995-chocolate-factory.json) |
 | Chocolate makes you happy 4 | 89935 | [89935-chocolate-makes-you-happy-4.json](./89935-chocolate-makes-you-happy-4.json) |
@@ -2747,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CineNerdle | 231639 | [231639-cinenerdle.json](./231639-cinenerdle.json) |
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
 | Cinnabunny | 295008 | [295008-cinnabunny.json](./295008-cinnabunny.json) |
+| Cinnamon: Yume no Daibouken | 49558 | [49558-cinnamon-yume-no-daibouken.json](./49558-cinnamon-yume-no-daibouken.json) |
 | Cinnamoroll: Ohanashi Shiyo!: Kirakira de Kore Cafe | 240908 | [240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json](./240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json) |
 | Cions of Vega | 149925 | [149925-cions-of-vega.json](./149925-cions-of-vega.json) |
 | Cipher | 178494 | [178494-cipher.json](./178494-cipher.json) |
