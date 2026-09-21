@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.G Series: Vertex | 84560 | [84560-g-g-series-vertex.json](./84560-g-g-series-vertex.json) |
 | G.H.O.S.T. Chronicles: Phantom of the Faire | 209598 | [209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json](./209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json) |
 | G.I. Joe: Operation Blackout - Digital Deluxe | 173160 | [173160-g-i-joe-operation-blackout-digital-deluxe.json](./173160-g-i-joe-operation-blackout-digital-deluxe.json) |
+| G.I. Joe: The Atlantis Factor | 8166 | [8166-g-i-joe-the-atlantis-factor.json](./8166-g-i-joe-the-atlantis-factor.json) |
 | G.I. Joe: War on Cobra | 138573 | [138573-g-i-joe-war-on-cobra.json](./138573-g-i-joe-war-on-cobra.json) |
 | G.O.H - The God of Highschool | 137442 | [137442-g-o-h-the-god-of-highschool.json](./137442-g-o-h-the-god-of-highschool.json) |
 | G.O.P.O.T.A 2 | 291756 | [291756-g-o-p-o-t-a-2.json](./291756-g-o-p-o-t-a-2.json) |
@@ -2765,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Backpack | 278134 | [278134-gravity-backpack.json](./278134-gravity-backpack.json) |
 | Gravity Blast | 231946 | [231946-gravity-blast.json](./231946-gravity-blast.json) |
 | Gravity Block | 164511 | [164511-gravity-block.json](./164511-gravity-block.json) |
+| Gravity Bone | 7962 | [7962-gravity-bone.json](./7962-gravity-bone.json) |
 | Gravity Box | 207853 | [207853-gravity-box.json](./207853-gravity-box.json) |
 | Gravity Cab | 270132 | [270132-gravity-cab.json](./270132-gravity-cab.json) |
 | Gravity Cat | 143705 | [143705-gravity-cat.json](./143705-gravity-cat.json) |
@@ -3339,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars 2: End of Dragons | 159254 | [159254-guild-wars-2-end-of-dragons.json](./159254-guild-wars-2-end-of-dragons.json) |
 | Guild Wars 2: Heart of Thorns | 13183 | [13183-guild-wars-2-heart-of-thorns.json](./13183-guild-wars-2-heart-of-thorns.json) |
 | Guild Wars 2: Janthir Wilds | 304360 | [304360-guild-wars-2-janthir-wilds.json](./304360-guild-wars-2-janthir-wilds.json) |
+| Guild Wars 2: Secrets of the Obscure | 255088 | [255088-guild-wars-2-secrets-of-the-obscure.json](./255088-guild-wars-2-secrets-of-the-obscure.json) |
 | Guild Wars: Bonus Mission Pack | 97103 | [97103-guild-wars-bonus-mission-pack.json](./97103-guild-wars-bonus-mission-pack.json) |
 | Guild Wars: Factions | 739 | [739-guild-wars-factions.json](./739-guild-wars-factions.json) |
 | Guild Wars: Game of the Year Edition | 27842 | [27842-guild-wars-game-of-the-year-edition.json](./27842-guild-wars-game-of-the-year-edition.json) |
