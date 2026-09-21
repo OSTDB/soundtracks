@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cakey's Twisted Bakery | 307692 | [307692-cakeys-twisted-bakery.json](./307692-cakeys-twisted-bakery.json) |
 | Cal | 123082 | [123082-cal.json](./123082-cal.json) |
 | Cal II | 77989 | [77989-cal-ii.json](./77989-cal-ii.json) |
+| Cal Ripken Jr. Baseball | 46230 | [46230-cal-ripken-jr-baseball.json](./46230-cal-ripken-jr-baseball.json) |
 | Calamity Annie | 72689 | [72689-calamity-annie.json](./72689-calamity-annie.json) |
 | Calavera: Day of the Dead - Collector's Edition | 28877 | [28877-calavera-day-of-the-dead-collectors-edition.json](./28877-calavera-day-of-the-dead-collectors-edition.json) |
 | Calcium Chaos | 199353 | [199353-calcium-chaos.json](./199353-calcium-chaos.json) |
@@ -1753,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Motocross 2001 featuring Ricky Carmichael | 76978 | [76978-championship-motocross-2001-featuring-ricky-carmichael.json](./76978-championship-motocross-2001-featuring-ricky-carmichael.json) |
 | Championship Pool | 307111 | [307111-championship-pool.json](./307111-championship-pool.json) |
 | Championship Pool | 307113 | [307113-championship-pool.json](./307113-championship-pool.json) |
+| Championship Pro-Am | 46228 | [46228-championship-pro-am.json](./46228-championship-pro-am.json) |
 | Championship Rugby Manager | 71223 | [71223-championship-rugby-manager.json](./71223-championship-rugby-manager.json) |
 | Championship Soccer | 46882 | [46882-championship-soccer.json](./46882-championship-soccer.json) |
 | Championship Wrestling Promoter | 199124 | [199124-championship-wrestling-promoter.json](./199124-championship-wrestling-promoter.json) |
@@ -3392,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Co-op Kaiju Horror Cooking | 355090 | [355090-co-op-kaiju-horror-cooking.json](./355090-co-op-kaiju-horror-cooking.json) |
 | Co-Open | 146704 | [146704-co-open.json](./146704-co-open.json) |
 | Coach Bus Driving Simulator | 308809 | [308809-coach-bus-driving-simulator.json](./308809-coach-bus-driving-simulator.json) |
+| Coach K College Basketball | 46226 | [46226-coach-k-college-basketball.json](./46226-coach-k-college-basketball.json) |
 | Coagula Mappack #3 | 271482 | [271482-coagula-mappack-3.json](./271482-coagula-mappack-3.json) |
 | Coagula3: Bone | 271499 | [271499-coagula3-bone.json](./271499-coagula3-bone.json) |
 | Coagulation Station | 313307 | [313307-coagulation-station.json](./313307-coagulation-station.json) |
@@ -6475,6 +6478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberworld Online | 221376 | [221376-cyberworld-online.json](./221376-cyberworld-online.json) |
 | Cyborg City | 339359 | [339359-cyborg-city.json](./339359-cyborg-city.json) |
 | Cyborg Detonator | 32984 | [32984-cyborg-detonator.json](./32984-cyborg-detonator.json) |
+| Cyborg Justice | 46236 | [46236-cyborg-justice.json](./46236-cyborg-justice.json) |
 | Cyborg Lumberjack | 297083 | [297083-cyborg-lumberjack.json](./297083-cyborg-lumberjack.json) |
 | Cyborg Mechanic | 127017 | [127017-cyborg-mechanic.json](./127017-cyborg-mechanic.json) |
 | Cyborg Ninja vs. The Third Reich | 115585 | [115585-cyborg-ninja-vs-the-third-reich.json](./115585-cyborg-ninja-vs-the-third-reich.json) |
