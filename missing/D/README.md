@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
 | Daddy Was A Thief | 103150 | [103150-daddy-was-a-thief.json](./103150-daddy-was-a-thief.json) |
 | Dadi Kingdom | 416622 | [416622-dadi-kingdom.json](./416622-dadi-kingdom.json) |
+| Dadish | 134427 | [134427-dadish.json](./134427-dadish.json) |
 | Dadish 3 | 199111 | [199111-dadish-3.json](./199111-dadish-3.json) |
 | Dadish 3D | 294865 | [294865-dadish-3d.json](./294865-dadish-3d.json) |
 | Dadlympics | 265146 | [265146-dadlympics.json](./265146-dadlympics.json) |
@@ -319,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa Absolute Vindication | 304350 | [304350-danganronpa-absolute-vindication.json](./304350-danganronpa-absolute-vindication.json) |
 | Danganronpa Another Episode: Ultra Despair Girls | 9708 | [9708-danganronpa-another-episode-ultra-despair-girls.json](./9708-danganronpa-another-episode-ultra-despair-girls.json) |
 | Danganronpa Another Episode: Ultra Despair Girls - Limited Edition | 42675 | [42675-danganronpa-another-episode-ultra-despair-girls-limited-edition.json](./42675-danganronpa-another-episode-ultra-despair-girls-limited-edition.json) |
+| Danganronpa Another: Another Despair Academy | 143213 | [143213-danganronpa-another-another-despair-academy.json](./143213-danganronpa-another-another-despair-academy.json) |
 | Danganronpa Blowback: The Stage of Repeated Despair and Hope | 304343 | [304343-danganronpa-blowback-the-stage-of-repeated-despair-and-hope.json](./304343-danganronpa-blowback-the-stage-of-repeated-despair-and-hope.json) |
 | Danganronpa Croxx: The Beginning of the Despair Plan | 304340 | [304340-danganronpa-croxx-the-beginning-of-the-despair-plan.json](./304340-danganronpa-croxx-the-beginning-of-the-despair-plan.json) |
 | Danganronpa Daydream | 304352 | [304352-danganronpa-daydream.json](./304352-danganronpa-daydream.json) |
@@ -1921,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Quest | 208428 | [208428-delivery-quest.json](./208428-delivery-quest.json) |
 | Delivery Simulator | 161335 | [161335-delivery-simulator.json](./161335-delivery-simulator.json) |
 | Delivery Up | 361168 | [361168-delivery-up.json](./361168-delivery-up.json) |
+| Delores: A Thimbleweed Park Mini-Adventure | 134408 | [134408-delores-a-thimbleweed-park-mini-adventure.json](./134408-delores-a-thimbleweed-park-mini-adventure.json) |
 | Delta | 319816 | [319816-delta.json](./319816-delta.json) |
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
 | Delta Directive | 412266 | [412266-delta-directive.json](./412266-delta-directive.json) |
