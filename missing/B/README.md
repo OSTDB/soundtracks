@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bananamana | 314257 | [314257-bananamana.json](./314257-bananamana.json) |
 | Bananametr | 304691 | [304691-bananametr.json](./304691-bananametr.json) |
 | Bananarun | 157698 | [157698-bananarun.json](./157698-bananarun.json) |
+| Bananas de Pijamas | 42200 | [42200-bananas-de-pijamas.json](./42200-bananas-de-pijamas.json) |
 | Bananas in Pajamas: It's Fun Time | 221980 | [221980-bananas-in-pajamas-its-fun-time.json](./221980-bananas-in-pajamas-its-fun-time.json) |
 | BananaTron | 74066 | [74066-bananatron.json](./74066-bananatron.json) |
 | Bananounce | 320974 | [320974-bananounce.json](./320974-bananounce.json) |
@@ -1918,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beggar to Emperor | 353367 | [353367-beggar-to-emperor.json](./353367-beggar-to-emperor.json) |
 | Beggar's Life | 391612 | [391612-beggars-life.json](./391612-beggars-life.json) |
 | Beggar's Road | 406195 | [406195-beggars-road.json](./406195-beggars-road.json) |
+| Beginning Grammer | 42195 | [42195-beginning-grammer.json](./42195-beginning-grammer.json) |
 | BeGone | 109038 | [109038-begone.json](./109038-begone.json) |
 | Behemoth | 320724 | [320724-behemoth.json](./320724-behemoth.json) |
 | BeHero: Be Your Legend | 122889 | [122889-behero-be-your-legend.json](./122889-behero-be-your-legend.json) |
@@ -4635,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brand | 63553 | [63553-brand.json](./63553-brand.json) |
 | Brand! New! Friends! | 372477 | [372477-brand-new-friends.json](./372477-brand-new-friends.json) |
 | Brandins Buttons | 151176 | [151176-brandins-buttons.json](./151176-brandins-buttons.json) |
+| Brandish 2: The Planet Buster | 42212 | [42212-brandish-2-the-planet-buster.json](./42212-brandish-2-the-planet-buster.json) |
 | Brandnew Boy | 38975 | [38975-brandnew-boy.json](./38975-brandnew-boy.json) |
 | Branmarker 2 | 64977 | [64977-branmarker-2.json](./64977-branmarker-2.json) |
 | Bras | 353918 | [353918-bras.json](./353918-bras.json) |
