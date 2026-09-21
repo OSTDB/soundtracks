@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum Vol. 2 | 20259 | [20259-namco-museum-vol-2.json](./20259-namco-museum-vol-2.json) |
 | Namco Museum Vol. 4 | 39934 | [39934-namco-museum-vol-4.json](./39934-namco-museum-vol-4.json) |
 | Namco Museum Vol. 5 | 39986 | [39986-namco-museum-vol-5.json](./39986-namco-museum-vol-5.json) |
+| Namco Soccer Prime Goal | 40396 | [40396-namco-soccer-prime-goal.json](./40396-namco-soccer-prime-goal.json) |
 | Namco Vintage | 206782 | [206782-namco-vintage.json](./206782-namco-vintage.json) |
 | namCollection | 94721 | [94721-namcollection.json](./94721-namcollection.json) |
 | Name That Letter - a Phonics Game | 107661 | [107661-name-that-letter-a-phonics-game.json](./107661-name-that-letter-a-phonics-game.json) |
