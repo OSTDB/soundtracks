@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Lords | 377155 | [377155-war-lords.json](./377155-war-lords.json) |
 | War Machine | 93015 | [93015-war-machine.json](./93015-war-machine.json) |
 | War Never Changes | 333590 | [333590-war-never-changes.json](./333590-war-never-changes.json) |
+| War of Aero | 39849 | [39849-war-of-aero.json](./39849-war-of-aero.json) |
 | War of Angels | 66400 | [66400-war-of-angels.json](./66400-war-of-angels.json) |
 | War Of Celestials | 253389 | [253389-war-of-celestials.json](./253389-war-of-celestials.json) |
 | War of Charge | 309676 | [309676-war-of-charge.json](./309676-war-of-charge.json) |
@@ -738,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water & Domestic Animals Bundle | 271832 | [271832-water-and-domestic-animals-bundle.json](./271832-water-and-domestic-animals-bundle.json) |
 | Water 2050 | 239680 | [239680-water-2050.json](./239680-water-2050.json) |
 | Water Balloon Mania | 147467 | [147467-water-balloon-mania.json](./147467-water-balloon-mania.json) |
+| Water balls | 39847 | [39847-water-balls.json](./39847-water-balls.json) |
 | Water Bears VR | 34719 | [34719-water-bears-vr.json](./34719-water-bears-vr.json) |
 | Water Castle | 268473 | [268473-water-castle.json](./268473-water-castle.json) |
 | Water City | 268472 | [268472-water-city.json](./268472-water-city.json) |
