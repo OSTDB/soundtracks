@@ -2408,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Empire | 203296 | [203296-nuclear-empire.json](./203296-nuclear-empire.json) |
 | Nuclear Engineer Tycoon | 414331 | [414331-nuclear-engineer-tycoon.json](./414331-nuclear-engineer-tycoon.json) |
 | Nuclear Gladiators 3000 | 273447 | [273447-nuclear-gladiators-3000.json](./273447-nuclear-gladiators-3000.json) |
+| Nuclear Heist | 30213 | [30213-nuclear-heist.json](./30213-nuclear-heist.json) |
 | Nuclear Inc 2 | 100862 | [100862-nuclear-inc-2.json](./100862-nuclear-inc-2.json) |
 | Nuclear Lizard Island Rampage | 318434 | [318434-nuclear-lizard-island-rampage.json](./318434-nuclear-lizard-island-rampage.json) |
 | Nuclear Mages | 230942 | [230942-nuclear-mages.json](./230942-nuclear-mages.json) |
