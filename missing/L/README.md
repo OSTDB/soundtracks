@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Dark War God | 340909 | [340909-legend-of-the-dark-war-god.json](./340909-legend-of-the-dark-war-god.json) |
 | Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
 | Legend of the Holy Sword | 340910 | [340910-legend-of-the-holy-sword.json](./340910-legend-of-the-holy-sword.json) |
+| Legend of the Knucker-Hole | 62452 | [62452-legend-of-the-knucker-hole.json](./62452-legend-of-the-knucker-hole.json) |
 | Legend of the Lost Dragons | 134580 | [134580-legend-of-the-lost-dragons.json](./134580-legend-of-the-lost-dragons.json) |
 | Legend of the Master Baiter | 303625 | [303625-legend-of-the-master-baiter.json](./303625-legend-of-the-master-baiter.json) |
 | Legend of the Moon | 207830 | [207830-legend-of-the-moon.json](./207830-legend-of-the-moon.json) |
@@ -2021,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Tree Kingdom | 381625 | [381625-little-tree-kingdom.json](./381625-little-tree-kingdom.json) |
 | Little Triangle | 29985 | [29985-little-triangle.json](./29985-little-triangle.json) |
 | Little Trouble on Tribuda Island | 236281 | [236281-little-trouble-on-tribuda-island.json](./236281-little-trouble-on-tribuda-island.json) |
+| Little Trus Man | 62412 | [62412-little-trus-man.json](./62412-little-trus-man.json) |
 | Little Warlings | 181763 | [181763-little-warlings.json](./181763-little-warlings.json) |
 | Little White Man vs. X | 252221 | [252221-little-white-man-vs-x.json](./252221-little-white-man-vs-x.json) |
 | Little Wing | 79591 | [79591-little-wing.json](./79591-little-wing.json) |
@@ -2892,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Planet Remix | 165030 | [165030-lovely-planet-remix.json](./165030-lovely-planet-remix.json) |
 | Lovely Pop 2-in-1: Jan Jan Koi Shimasho | 130300 | [130300-lovely-pop-2-in-1-jan-jan-koi-shimasho.json](./130300-lovely-pop-2-in-1-jan-jan-koi-shimasho.json) |
 | Lovely Pop Mahjong: JangJang Shimasho | 130298 | [130298-lovely-pop-mahjong-jangjang-shimasho.json](./130298-lovely-pop-mahjong-jangjang-shimasho.json) |
+| Lovely Quest | 62445 | [62445-lovely-quest.json](./62445-lovely-quest.json) |
 | Lovely Quest: Unlimited | 147302 | [147302-lovely-quest-unlimited.json](./147302-lovely-quest-unlimited.json) |
 | Lovely Sweet Dream | 172766 | [172766-lovely-sweet-dream.json](./172766-lovely-sweet-dream.json) |
 | Lovely Tesserae | 382311 | [382311-lovely-tesserae.json](./382311-lovely-tesserae.json) |
