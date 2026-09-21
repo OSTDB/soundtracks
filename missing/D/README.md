@@ -3543,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DMBX 2: Mountain Bike and BMX | 232159 | [232159-dmbx-2-mountain-bike-and-bmx.json](./232159-dmbx-2-mountain-bike-and-bmx.json) |
 | DMBX 2.5: Mountain Bike and BMX | 174338 | [174338-dmbx-2-5-mountain-bike-and-bmx.json](./174338-dmbx-2-5-mountain-bike-and-bmx.json) |
 | DMBX: Mountain Biking | 174213 | [174213-dmbx-mountain-biking.json](./174213-dmbx-mountain-biking.json) |
+| DmC: Devil May Cry - Definitive Edition | 20869 | [20869-dmc-devil-may-cry-definitive-edition.json](./20869-dmc-devil-may-cry-definitive-edition.json) |
 | DMCA's Sky | 127260 | [127260-dmcas-sky.json](./127260-dmcas-sky.json) |
 | DMD Mars Mission | 86516 | [86516-dmd-mars-mission.json](./86516-dmd-mars-mission.json) |
 | Dmod | 275917 | [275917-dmod.json](./275917-dmod.json) |
@@ -3575,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Crash | 252391 | [252391-do-not-crash.json](./252391-do-not-crash.json) |
 | Do not Donut. | 208474 | [208474-do-not-donut.json](./208474-do-not-donut.json) |
 | Do Not Enter | 393492 | [393492-do-not-enter.json](./393492-do-not-enter.json) |
+| Do Not Feed the Monkeys | 52014 | [52014-do-not-feed-the-monkeys.json](./52014-do-not-feed-the-monkeys.json) |
 | Do Not Kill Me Jacob!! JAM Ver. | 176482 | [176482-do-not-kill-me-jacob-jam-ver.json](./176482-do-not-kill-me-jacob-jam-ver.json) |
 | Do Not Look at the Moon | 309360 | [309360-do-not-look-at-the-moon.json](./309360-do-not-look-at-the-moon.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
@@ -4801,6 +4803,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Princess: Meikyuu no Madoushi | 67256 | [67256-dragon-princess-meikyuu-no-madoushi.json](./67256-dragon-princess-meikyuu-no-madoushi.json) |
 | Dragon Puncher | 332997 | [332997-dragon-puncher.json](./332997-dragon-puncher.json) |
 | Dragon Quest 25th Anniversary Collection | 136885 | [136885-dragon-quest-25th-anniversary-collection.json](./136885-dragon-quest-25th-anniversary-collection.json) |
+| Dragon Quest Builders | 24069 | [24069-dragon-quest-builders.json](./24069-dragon-quest-builders.json) |
+| Dragon Quest Builders 2 | 54548 | [54548-dragon-quest-builders-2.json](./54548-dragon-quest-builders-2.json) |
 | Dragon Quest III HD-2D Remake | 149980 | [149980-dragon-quest-iii-hd-2d-remake.json](./149980-dragon-quest-iii-hd-2d-remake.json) |
 | Dragon Quest III: The Seeds of Salvation | 1814 | [1814-dragon-quest-iii-the-seeds-of-salvation.json](./1814-dragon-quest-iii-the-seeds-of-salvation.json) |
 | Dragon Quest IV: Chapters of the Chosen | 216304 | [216304-dragon-quest-iv-chapters-of-the-chosen.json](./216304-dragon-quest-iv-chapters-of-the-chosen.json) |
