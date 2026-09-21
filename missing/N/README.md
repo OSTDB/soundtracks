@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netto de Tennis | 58169 | [58169-netto-de-tennis.json](./58169-netto-de-tennis.json) |
 | Netty | 181211 | [181211-netty.json](./181211-netty.json) |
 | NetWalk | 283745 | [283745-netwalk.json](./283745-netwalk.json) |
+| NetWars | 14505 | [14505-netwars.json](./14505-netwars.json) |
 | NetWits | 57655 | [57655-netwits.json](./57655-netwits.json) |
 | Network | 147404 | [147404-network.json](./147404-network.json) |
 | Network | 95442 | [95442-network.json](./95442-network.json) |
@@ -2342,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nous | 142387 | [142387-nous.json](./142387-nous.json) |
 | Nous | 231094 | [231094-nous.json](./231094-nous.json) |
 | Nova 2001 | 38563 | [38563-nova-2001.json](./38563-nova-2001.json) |
+| Nova 9: The Return of Gir Draxon | 14516 | [14516-nova-9-the-return-of-gir-draxon.json](./14516-nova-9-the-return-of-gir-draxon.json) |
 | Nova Antarctica | 213605 | [213605-nova-antarctica.json](./213605-nova-antarctica.json) |
 | Nova Assault | 389402 | [389402-nova-assault.json](./389402-nova-assault.json) |
 | Nova Battles | 205584 | [205584-nova-battles.json](./205584-nova-battles.json) |
