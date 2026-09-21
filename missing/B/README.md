@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakery Magnate: Beginning | 292692 | [292692-bakery-magnate-beginning.json](./292692-bakery-magnate-beginning.json) |
 | Bakery Shop Match Up | 338187 | [338187-bakery-shop-match-up.json](./338187-bakery-shop-match-up.json) |
 | Bakery Shop Simulator | 145637 | [145637-bakery-shop-simulator.json](./145637-bakery-shop-simulator.json) |
+| Bakery Story | 39198 | [39198-bakery-story.json](./39198-bakery-story.json) |
 | Bakery Story 2 | 349297 | [349297-bakery-story-2.json](./349297-bakery-story-2.json) |
 | Baki Hanma: Blood Arena | 337462 | [337462-baki-hanma-blood-arena.json](./337462-baki-hanma-blood-arena.json) |
 | Baking Fun | 359405 | [359405-baking-fun.json](./359405-baking-fun.json) |
@@ -3039,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Warrior | 14313 | [14313-blade-warrior.json](./14313-blade-warrior.json) |
 | Blade: Trinity | 322358 | [322358-blade-trinity.json](./322358-blade-trinity.json) |
 | Blade's Legacy | 88081 | [88081-blades-legacy.json](./88081-blades-legacy.json) |
+| Bladelords: The fighting game | 39220 | [39220-bladelords-the-fighting-game.json](./39220-bladelords-the-fighting-game.json) |
 | Blademaker: Arms Shop | 108825 | [108825-blademaker-arms-shop.json](./108825-blademaker-arms-shop.json) |
 | Bladenet | 68166 | [68166-bladenet.json](./68166-bladenet.json) |
 | Bladequest: The First Chapter - Gold | 106548 | [106548-bladequest-the-first-chapter-gold.json](./106548-bladequest-the-first-chapter-gold.json) |
@@ -3169,6 +3171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Legion: Ignition | 78064 | [78064-blazing-legion-ignition.json](./78064-blazing-legion-ignition.json) |
 | Blazing Snake | 257372 | [257372-blazing-snake.json](./257372-blazing-snake.json) |
 | Blazing Snow | 142418 | [142418-blazing-snow.json](./142418-blazing-snow.json) |
+| Blazing Souls Accelate | 39193 | [39193-blazing-souls-accelate.json](./39193-blazing-souls-accelate.json) |
 | Blazing Strike | 193531 | [193531-blazing-strike.json](./193531-blazing-strike.json) |
 | Blazing Tornado | 39582 | [39582-blazing-tornado.json](./39582-blazing-tornado.json) |
 | Blazing Trail | 293100 | [293100-blazing-trail.json](./293100-blazing-trail.json) |
@@ -4676,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Arms | 65527 | [65527-brave-arms.json](./65527-brave-arms.json) |
 | Brave Battle Saga the Space Fighter | 45542 | [45542-brave-battle-saga-the-space-fighter.json](./45542-brave-battle-saga-the-space-fighter.json) |
 | Brave Blades | 224075 | [224075-brave-blades.json](./224075-brave-blades.json) |
+| Brave Brigade | 39176 | [39176-brave-brigade.json](./39176-brave-brigade.json) |
 | Brave Cano | 174350 | [174350-brave-cano.json](./174350-brave-cano.json) |
 | Brave Doggy Quest | 190156 | [190156-brave-doggy-quest.json](./190156-brave-doggy-quest.json) |
 | Brave Dungeon II | 112766 | [112766-brave-dungeon-ii.json](./112766-brave-dungeon-ii.json) |
