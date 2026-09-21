@@ -1793,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Quest | 346597 | [346597-rescue-quest.json](./346597-rescue-quest.json) |
 | Rescue Quest Gold: Collector's Edition | 203375 | [203375-rescue-quest-gold-collectors-edition.json](./203375-rescue-quest-gold-collectors-edition.json) |
 | Rescue Race | 243810 | [243810-rescue-race.json](./243810-rescue-race.json) |
+| Rescue Raider | 38564 | [38564-rescue-raider.json](./38564-rescue-raider.json) |
 | Rescue Raiders | 25777 | [25777-rescue-raiders.json](./25777-rescue-raiders.json) |
 | Rescue Roby | 68933 | [68933-rescue-roby.json](./68933-rescue-roby.json) |
 | Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
