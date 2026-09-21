@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Dream | 132615 | [132615-hidden-dream.json](./132615-hidden-dream.json) |
 | Hidden Dungeon Top-Down 3D | 222935 | [222935-hidden-dungeon-top-down-3d.json](./222935-hidden-dungeon-top-down-3d.json) |
 | Hidden Epee | 248116 | [248116-hidden-epee.json](./248116-hidden-epee.json) |
+| Hidden Expedition Collection | 50860 | [50860-hidden-expedition-collection.json](./50860-hidden-expedition-collection.json) |
 | Hidden Expedition: Crown of Solomon | 140034 | [140034-hidden-expedition-crown-of-solomon.json](./140034-hidden-expedition-crown-of-solomon.json) |
 | Hidden Expedition: Neptune's Gift | 187960 | [187960-hidden-expedition-neptunes-gift.json](./187960-hidden-expedition-neptunes-gift.json) |
 | Hidden Expedition: Smithsonian Castle | 187950 | [187950-hidden-expedition-smithsonian-castle.json](./187950-hidden-expedition-smithsonian-castle.json) |
