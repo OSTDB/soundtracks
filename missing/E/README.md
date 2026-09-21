@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elitserien 96 | 45560 | [45560-elitserien-96.json](./45560-elitserien-96.json) |
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
 | Elixirs | 274561 | [274561-elixirs.json](./274561-elixirs.json) |
+| Eliza | 92919 | [92919-eliza.json](./92919-eliza.json) |
 | Elk Attack | 282714 | [282714-elk-attack.json](./282714-elk-attack.json) |
 | Elk Simulator | 158565 | [158565-elk-simulator.json](./158565-elk-simulator.json) |
 | Ella Stars | 334127 | [334127-ella-stars.json](./334127-ella-stars.json) |
@@ -1085,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enarian: Orbital Command | 415158 | [415158-enarian-orbital-command.json](./415158-enarian-orbital-command.json) |
 | Enbody | 176999 | [176999-enbody.json](./176999-enbody.json) |
 | EnbornX | 61108 | [61108-enbornx.json](./61108-enbornx.json) |
+| Encased | 95407 | [95407-encased.json](./95407-encased.json) |
 | Encaved | 92981 | [92981-encaved.json](./92981-encaved.json) |
 | Enceladus | 261819 | [261819-enceladus.json](./261819-enceladus.json) |
 | Enceladus | 75049 | [75049-enceladus.json](./75049-enceladus.json) |
@@ -2490,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Plan b | 364515 | [364515-exit-plan-b.json](./364515-exit-plan-b.json) |
 | Exit Strategy | 143103 | [143103-exit-strategy.json](./143103-exit-strategy.json) |
 | Exit Terminal | 320180 | [320180-exit-terminal.json](./320180-exit-terminal.json) |
+| Exit the Gungeon | 122311 | [122311-exit-the-gungeon.json](./122311-exit-the-gungeon.json) |
 | Exit Together | 333662 | [333662-exit-together.json](./333662-exit-together.json) |
 | Exit Veil | 264054 | [264054-exit-veil.json](./264054-exit-veil.json) |
 | Exit Ways | 346652 | [346652-exit-ways.json](./346652-exit-ways.json) |
