@@ -2238,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Marvel Pinball Original Pack | 164003 | [164003-pinball-fx3-marvel-pinball-original-pack.json](./164003-pinball-fx3-marvel-pinball-original-pack.json) |
 | Pinball FX3: Marvel Pinball Vengeance and Virtue Pack | 163999 | [163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json](./163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json) |
 | Pinball FX3: Marvel's Women of Power | 164006 | [164006-pinball-fx3-marvels-women-of-power.json](./164006-pinball-fx3-marvels-women-of-power.json) |
+| Pinball FX3: Star Wars Pinball - Heroes Within | 52877 | [52877-pinball-fx3-star-wars-pinball-heroes-within.json](./52877-pinball-fx3-star-wars-pinball-heroes-within.json) |
 | Pinball FX3: Star Wars Pinball - Rogue One | 26928 | [26928-pinball-fx3-star-wars-pinball-rogue-one.json](./26928-pinball-fx3-star-wars-pinball-rogue-one.json) |
 | Pinball FX3: Star Wars Pinball Season 1 Bundle | 265254 | [265254-pinball-fx3-star-wars-pinball-season-1-bundle.json](./265254-pinball-fx3-star-wars-pinball-season-1-bundle.json) |
 | Pinball FX3: The Walking Dead Pinball | 164001 | [164001-pinball-fx3-the-walking-dead-pinball.json](./164001-pinball-fx3-the-walking-dead-pinball.json) |
