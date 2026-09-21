@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeGeGe no Kitaro: Kiki Ippatsu! Yokai Rettou | 49609 | [49609-gegege-no-kitaro-kiki-ippatsu-yokai-rettou.json](./49609-gegege-no-kitaro-kiki-ippatsu-yokai-rettou.json) |
 | GeGeGe no Kitaro: Maboroshi Fuyu Kaikitan | 64110 | [64110-gegege-no-kitaro-maboroshi-fuyu-kaikitan.json](./64110-gegege-no-kitaro-maboroshi-fuyu-kaikitan.json) |
 | GeGeGe no Kitaro: Yokai Daigekisen | 64111 | [64111-gegege-no-kitaro-yokai-daigekisen.json](./64111-gegege-no-kitaro-yokai-daigekisen.json) |
+| GeGeGe no Kitaro: Yokai Daimakyou | 48317 | [48317-gegege-no-kitaro-yokai-daimakyou.json](./48317-gegege-no-kitaro-yokai-daimakyou.json) |
 | GeGeGe no Kitaro: Yokai Daiundoukai | 64105 | [64105-gegege-no-kitaro-yokai-daiundoukai.json](./64105-gegege-no-kitaro-yokai-daiundoukai.json) |
 | GeGeGe no Kitaro: Yokai Donjara | 64107 | [64107-gegege-no-kitaro-yokai-donjara.json](./64107-gegege-no-kitaro-yokai-donjara.json) |
 | GeGeGe no Kitaro: Yokai Souzoushu Arawaru! | 64109 | [64109-gegege-no-kitaro-yokai-souzoushu-arawaru.json](./64109-gegege-no-kitaro-yokai-souzoushu-arawaru.json) |
@@ -1744,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go-Kart Simulator | 326417 | [326417-go-kart-simulator.json](./326417-go-kart-simulator.json) |
 | Go, Diego, Go! Great Dinosaur Rescue | 292114 | [292114-go-diego-go-great-dinosaur-rescue.json](./292114-go-diego-go-great-dinosaur-rescue.json) |
 | Go, Diego, Go! Great Dinosaur Rescue | 47978 | [47978-go-diego-go-great-dinosaur-rescue.json](./47978-go-diego-go-great-dinosaur-rescue.json) |
+| Go! Benny! | 48321 | [48321-go-benny.json](./48321-go-benny.json) |
 | Go! Birdie | 146859 | [146859-go-birdie.json](./146859-go-birdie.json) |
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
@@ -1759,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal 94 | 78065 | [78065-goal-94.json](./78065-goal-94.json) |
 | Goal and Crossbones | 178649 | [178649-goal-and-crossbones.json](./178649-goal-and-crossbones.json) |
 | Goal FH | 217879 | [217879-goal-fh.json](./217879-goal-fh.json) |
+| Goal II | 48286 | [48286-goal-ii.json](./48286-goal-ii.json) |
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
 | Goal! | 218001 | [218001-goal.json](./218001-goal.json) |
 | Goal! | 348225 | [348225-goal.json](./348225-goal.json) |
@@ -2085,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf For Fun in Ice | 173229 | [173229-golf-for-fun-in-ice.json](./173229-golf-for-fun-in-ice.json) |
 | Golf for Workgroups | 30109 | [30109-golf-for-workgroups.json](./30109-golf-for-workgroups.json) |
 | Golf Gang | 142998 | [142998-golf-gang.json](./142998-golf-gang.json) |
+| Golf Grand Slam | 48285 | [48285-golf-grand-slam.json](./48285-golf-grand-slam.json) |
 | Golf Guys: Complete Edition | 283174 | [283174-golf-guys-complete-edition.json](./283174-golf-guys-complete-edition.json) |
 | Golf is Hard | 237963 | [237963-golf-is-hard.json](./237963-golf-is-hard.json) |
 | Golf Island | 58211 | [58211-golf-island.json](./58211-golf-island.json) |
