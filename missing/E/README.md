@@ -1340,6 +1340,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ensol | 253963 | [253963-ensol.json](./253963-ensol.json) |
 | Ensou | 141212 | [141212-ensou.json](./141212-ensou.json) |
 | Enspell | 275145 | [275145-enspell.json](./275145-enspell.json) |
+| Entaku no Seito | 13201 | [13201-entaku-no-seito.json](./13201-entaku-no-seito.json) |
+| Entaku no Seito: The Eternal Legend | 13216 | [13216-entaku-no-seito-the-eternal-legend.json](./13216-entaku-no-seito-the-eternal-legend.json) |
 | Entangled | 105321 | [105321-entangled.json](./105321-entangled.json) |
 | Entanglement | 212913 | [212913-entanglement.json](./212913-entanglement.json) |
 | Enter the Backrooms | 157710 | [157710-enter-the-backrooms.json](./157710-enter-the-backrooms.json) |
@@ -2198,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: Night of Shadows | 239190 | [239190-everquest-night-of-shadows.json](./239190-everquest-night-of-shadows.json) |
 | EverQuest: Omens of War | 24247 | [24247-everquest-omens-of-war.json](./24247-everquest-omens-of-war.json) |
 | EverQuest: Seeds of Destruction | 69284 | [69284-everquest-seeds-of-destruction.json](./69284-everquest-seeds-of-destruction.json) |
+| EverQuest: The Broken Mirror | 13184 | [13184-everquest-the-broken-mirror.json](./13184-everquest-the-broken-mirror.json) |
 | EverQuest: The Planes of Power | 79300 | [79300-everquest-the-planes-of-power.json](./79300-everquest-the-planes-of-power.json) |
 | EverQuest: Torment of Velious | 125475 | [125475-everquest-torment-of-velious.json](./125475-everquest-torment-of-velious.json) |
 | EverRun | 90704 | [90704-everrun.json](./90704-everrun.json) |
