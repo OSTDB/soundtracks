@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Scooter | 91142 | [91142-king-of-scooter.json](./91142-king-of-scooter.json) |
 | King of Seas | 136091 | [136091-king-of-seas.json](./136091-king-of-seas.json) |
 | King of Snatchers | 306338 | [306338-king-of-snatchers.json](./306338-king-of-snatchers.json) |
+| King of Solitaire | 39196 | [39196-king-of-solitaire.json](./39196-king-of-solitaire.json) |
 | King of Space | 345515 | [345515-king-of-space.json](./345515-king-of-space.json) |
 | King of Spin VR | 31980 | [31980-king-of-spin-vr.json](./31980-king-of-spin-vr.json) |
 | King of Sports: New Japan Pro-Wrestling | 109574 | [109574-king-of-sports-new-japan-pro-wrestling.json](./109574-king-of-sports-new-japan-pro-wrestling.json) |
@@ -1834,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krispain Hero VR: Roguelite Dungeon Shooter Simulator | 282144 | [282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json](./282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json) |
 | KrissX | 67327 | [67327-krissx.json](./67327-krissx.json) |
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
+| Kritika: The White Knights | 39231 | [39231-kritika-the-white-knights.json](./39231-kritika-the-white-knights.json) |
 | Kromer Kollector | 181875 | [181875-kromer-kollector.json](./181875-kromer-kollector.json) |
 | Kromex | 400850 | [400850-kromex.json](./400850-kromex.json) |
 | Kromlech | 253588 | [253588-kromlech.json](./253588-kromlech.json) |
