@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Maid | 160223 | [160223-marble-maid.json](./160223-marble-maid.json) |
 | Marble Man: Marble Madness II | 125477 | [125477-marble-man-marble-madness-ii.json](./125477-marble-man-marble-madness-ii.json) |
 | Marble Mash | 337104 | [337104-marble-mash.json](./337104-marble-mash.json) |
+| Marble Masters: The Pit | 44231 | [44231-marble-masters-the-pit.json](./44231-marble-masters-the-pit.json) |
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
 | Marble Mechanics | 302526 | [302526-marble-mechanics.json](./302526-marble-mechanics.json) |
 | Marble Monster | 253025 | [253025-marble-monster.json](./253025-marble-monster.json) |
@@ -3725,6 +3726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minazuki-tan: InfiltraTitty Lewd Beast Academy | 82848 | [82848-minazuki-tan-infiltratitty-lewd-beast-academy.json](./82848-minazuki-tan-infiltratitty-lewd-beast-academy.json) |
 | Mincer City | 270693 | [270693-mincer-city.json](./270693-mincer-city.json) |
 | Mind At Sea | 149958 | [149958-mind-at-sea.json](./149958-mind-at-sea.json) |
+| Mind Blox | 44203 | [44203-mind-blox.json](./44203-mind-blox.json) |
 | Mind Control: Bloody Renaissance | 253910 | [253910-mind-control-bloody-renaissance.json](./253910-mind-control-bloody-renaissance.json) |
 | Mind Detective Psychology Test | 409539 | [409539-mind-detective-psychology-test.json](./409539-mind-detective-psychology-test.json) |
 | Mind Diver | 236519 | [236519-mind-diver.json](./236519-mind-diver.json) |
@@ -5777,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Love: Queen's Choice | 118949 | [118949-mr-love-queens-choice.json](./118949-mr-love-queens-choice.json) |
 | Mr Mosco Bizarre Climbing | 263770 | [263770-mr-mosco-bizarre-climbing.json](./263770-mr-mosco-bizarre-climbing.json) |
 | Mr Ninja | 208060 | [208060-mr-ninja.json](./208060-mr-ninja.json) |
+| Mr Rabbit's Alphabet Forest Adventure | 44168 | [44168-mr-rabbits-alphabet-forest-adventure.json](./44168-mr-rabbits-alphabet-forest-adventure.json) |
 | Mr Right Simulator | 348795 | [348795-mr-right-simulator.json](./348795-mr-right-simulator.json) |
 | Mr Snuggles Dungeon Adventure | 310748 | [310748-mr-snuggles-dungeon-adventure.json](./310748-mr-snuggles-dungeon-adventure.json) |
 | Mr Tomato Adventures | 341342 | [341342-mr-tomato-adventures.json](./341342-mr-tomato-adventures.json) |
@@ -6744,6 +6747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteries of the Forbidden Forest | 337464 | [337464-mysteries-of-the-forbidden-forest.json](./337464-mysteries-of-the-forbidden-forest.json) |
 | Mysteries of the Heart: The Psychic Detective Case Files | 299138 | [299138-mysteries-of-the-heart-the-psychic-detective-case-files.json](./299138-mysteries-of-the-heart-the-psychic-detective-case-files.json) |
 | Mysteries of the Past: Shadow of the Deamon | 87275 | [87275-mysteries-of-the-past-shadow-of-the-deamon.json](./87275-mysteries-of-the-past-shadow-of-the-deamon.json) |
+| Mysterious Adventure of Michael | 44205 | [44205-mysterious-adventure-of-michael.json](./44205-mysterious-adventure-of-michael.json) |
 | Mysterious Adventure of Michael 2 | 190103 | [190103-mysterious-adventure-of-michael-2.json](./190103-mysterious-adventure-of-michael-2.json) |
 | Mysterious Blocks 2 | 152857 | [152857-mysterious-blocks-2.json](./152857-mysterious-blocks-2.json) |
 | Mysterious Forum and 7 Rumors | 115484 | [115484-mysterious-forum-and-7-rumors.json](./115484-mysterious-forum-and-7-rumors.json) |
