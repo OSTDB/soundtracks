@@ -1261,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Fantasy | 395540 | [395540-vr-fantasy.json](./395540-vr-fantasy.json) |
 | VR Fishtank | 244772 | [244772-vr-fishtank.json](./244772-vr-fishtank.json) |
 | VR Formula | 51517 | [51517-vr-formula.json](./51517-vr-formula.json) |
+| VR Fun World | 31140 | [31140-vr-fun-world.json](./31140-vr-fun-world.json) |
 | VR Funhouse: Christmas Edition | 216848 | [216848-vr-funhouse-christmas-edition.json](./216848-vr-funhouse-christmas-edition.json) |
 | VR Furballs: Demolition | 81062 | [81062-vr-furballs-demolition.json](./81062-vr-furballs-demolition.json) |
 | VR Giants | 107183 | [107183-vr-giants.json](./107183-vr-giants.json) |
