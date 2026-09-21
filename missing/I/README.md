@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IIslands of War | 126162 | [126162-iislands-of-war.json](./126162-iislands-of-war.json) |
 | Iiwake Docchi!? | 251621 | [251621-iiwake-docchi.json](./251621-iiwake-docchi.json) |
 | iJezzball | 88218 | [88218-ijezzball.json](./88218-ijezzball.json) |
+| Iji | 9778 | [9778-iji.json](./9778-iji.json) |
 | Ijigen Kara no Dasshutsu: Escape from Twilight Zone | 97326 | [97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json](./97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json) |
 | IkachanDS | 339243 | [339243-ikachands.json](./339243-ikachands.json) |
 | Ikari III: The Rescue | 48054 | [48054-ikari-iii-the-rescue.json](./48054-ikari-iii-the-rescue.json) |
