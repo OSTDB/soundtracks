@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankalot Remastered | 188007 | [188007-tankalot-remastered.json](./188007-tankalot-remastered.json) |
 | TankCraft | 31193 | [31193-tankcraft.json](./31193-tankcraft.json) |
 | Tanked Out! | 270107 | [270107-tanked-out.json](./270107-tanked-out.json) |
+| Tanki X | 29163 | [29163-tanki-x.json](./29163-tanki-x.json) |
 | Tanking Tanks | 112375 | [112375-tanking-tanks.json](./112375-tanking-tanks.json) |
 | Tankitos | 201788 | [201788-tankitos.json](./201788-tankitos.json) |
 | Tankman | 121635 | [121635-tankman.json](./121635-tankman.json) |
@@ -5324,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Séance of Blake Manor | 335833 | [335833-the-seance-of-blake-manor.json](./335833-the-seance-of-blake-manor.json) |
 | The Search | 30193 | [30193-the-search.json](./30193-the-search.json) |
 | The Search For Above Average Life | 361752 | [361752-the-search-for-above-average-life.json](./361752-the-search-for-above-average-life.json) |
+| The Search for Amelia Earhart | 29199 | [29199-the-search-for-amelia-earhart.json](./29199-the-search-for-amelia-earhart.json) |
 | The Search For Sonic Mania 2 | 352175 | [352175-the-search-for-sonic-mania-2.json](./352175-the-search-for-sonic-mania-2.json) |
 | The Search for Tikiman | 265679 | [265679-the-search-for-tikiman.json](./265679-the-search-for-tikiman.json) |
 | The Search Master: Metal Gear Solid Edition | 270390 | [270390-the-search-master-metal-gear-solid-edition.json](./270390-the-search-master-metal-gear-solid-edition.json) |
@@ -9975,6 +9977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Mosaics 3: Tokyo Animated | 134058 | [134058-travel-mosaics-3-tokyo-animated.json](./134058-travel-mosaics-3-tokyo-animated.json) |
 | Travel Riddles: Mahjong | 106588 | [106588-travel-riddles-mahjong.json](./106588-travel-riddles-mahjong.json) |
 | Travel Riddles: Trip to France | 41937 | [41937-travel-riddles-trip-to-france.json](./41937-travel-riddles-trip-to-france.json) |
+| Travel Riddles: Trip to India | 29230 | [29230-travel-riddles-trip-to-india.json](./29230-travel-riddles-trip-to-india.json) |
 | Travel Riddles: Trip to Italy | 41938 | [41938-travel-riddles-trip-to-italy.json](./41938-travel-riddles-trip-to-italy.json) |
 | Travel the Countries | 154358 | [154358-travel-the-countries.json](./154358-travel-the-countries.json) |
 | Travel to Canada | 315043 | [315043-travel-to-canada.json](./315043-travel-to-canada.json) |
