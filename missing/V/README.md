@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Casino & Slots: Slottist | 364505 | [364505-vegas-casino-and-slots-slottist.json](./364505-vegas-casino-and-slots-slottist.json) |
 | Vegas Casino 2 | 66925 | [66925-vegas-casino-2.json](./66925-vegas-casino-2.json) |
 | Vegas Connection: Casino Kara Ai wo Komete | 48872 | [48872-vegas-connection-casino-kara-ai-wo-komete.json](./48872-vegas-connection-casino-kara-ai-wo-komete.json) |
+| Vegas Dream | 3661 | [3661-vegas-dream.json](./3661-vegas-dream.json) |
 | Vegas Fever: High Roller Edition | 206203 | [206203-vegas-fever-high-roller-edition.json](./206203-vegas-fever-high-roller-edition.json) |
 | Vegas Games | 282708 | [282708-vegas-games.json](./282708-vegas-games.json) |
 | Vegas Games 2000 | 46639 | [46639-vegas-games-2000.json](./46639-vegas-games-2000.json) |
@@ -899,6 +900,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pet Kitty Cat | 89227 | [89227-virtual-pet-kitty-cat.json](./89227-virtual-pet-kitty-cat.json) |
 | Virtual Pool 4 | 36070 | [36070-virtual-pool-4.json](./36070-virtual-pool-4.json) |
 | Virtual Pool 4 Online | 91991 | [91991-virtual-pool-4-online.json](./91991-virtual-pool-4-online.json) |
+| Virtual Pro Wrestling 2: Oudou Keishou | 3625 | [3625-virtual-pro-wrestling-2-oudou-keishou.json](./3625-virtual-pro-wrestling-2-oudou-keishou.json) |
+| Virtual Pro Wrestling 64 | 3626 | [3626-virtual-pro-wrestling-64.json](./3626-virtual-pro-wrestling-64.json) |
 | Virtual Reality Studio 2.0 | 100130 | [100130-virtual-reality-studio-2-0.json](./100130-virtual-reality-studio-2-0.json) |
 | Virtual Reality Vol. 2 | 100128 | [100128-virtual-reality-vol-2.json](./100128-virtual-reality-vol-2.json) |
 | Virtual Rehab Art 4 Health | 172181 | [172181-virtual-rehab-art-4-health.json](./172181-virtual-rehab-art-4-health.json) |
