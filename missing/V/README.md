@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Therapist: Couples Therapy | 398340 | [398340-vampire-therapist-couples-therapy.json](./398340-vampire-therapist-couples-therapy.json) |
 | Vampire vs. Devil | 145688 | [145688-vampire-vs-devil.json](./145688-vampire-vs-devil.json) |
 | Vampire: Darkness Falls | 300826 | [300826-vampire-darkness-falls.json](./300826-vampire-darkness-falls.json) |
+| Vampire: Darkstalkers Collection | 20012 | [20012-vampire-darkstalkers-collection.json](./20012-vampire-darkstalkers-collection.json) |
 | Vampire: No Survivors | 364597 | [364597-vampire-no-survivors.json](./364597-vampire-no-survivors.json) |
 | Vampire: The Masquerade - Bloodhunt | 152087 | [152087-vampire-the-masquerade-bloodhunt.json](./152087-vampire-the-masquerade-bloodhunt.json) |
 | Vampire: The Masquerade - Bloodlines 2 - Loose Cannon | 370209 | [370209-vampire-the-masquerade-bloodlines-2-loose-cannon.json](./370209-vampire-the-masquerade-bloodlines-2-loose-cannon.json) |
