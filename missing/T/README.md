@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
 | Territorial.io | 152149 | [152149-territorial-io.json](./152149-territorial-io.json) |
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
+| Territory | 57897 | [57897-territory.json](./57897-territory.json) |
 | Territory War 3 | 234156 | [234156-territory-war-3.json](./234156-territory-war-3.json) |
 | Territory: Farming and Fighting | 230944 | [230944-territory-farming-and-fighting.json](./230944-territory-farming-and-fighting.json) |
 | Terro Lunkka Adventures | 127022 | [127022-terro-lunkka-adventures.json](./127022-terro-lunkka-adventures.json) |
@@ -2241,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bleakest Keep | 344344 | [344344-the-bleakest-keep.json](./344344-the-bleakest-keep.json) |
 | The Bleeding Tower Of Pisa | 272924 | [272924-the-bleeding-tower-of-pisa.json](./272924-the-bleeding-tower-of-pisa.json) |
 | The Blight RPG | 112127 | [112127-the-blight-rpg.json](./112127-the-blight-rpg.json) |
+| The Blind Griffin | 57899 | [57899-the-blind-griffin.json](./57899-the-blind-griffin.json) |
 | The Blobjob | 261797 | [261797-the-blobjob.json](./261797-the-blobjob.json) |
 | The Block | 204712 | [204712-the-block.json](./204712-the-block.json) |
 | The Blockheads Server | 87690 | [87690-the-blockheads-server.json](./87690-the-blockheads-server.json) |
@@ -5553,6 +5555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Song of Survivors | 165015 | [165015-the-song-of-survivors.json](./165015-the-song-of-survivors.json) |
 | The Song of the Nightrider | 244874 | [244874-the-song-of-the-nightrider.json](./244874-the-song-of-the-nightrider.json) |
 | The Song of the Stars II | 284328 | [284328-the-song-of-the-stars-ii.json](./284328-the-song-of-the-stars-ii.json) |
+| The Sopranos Poker | 57931 | [57931-the-sopranos-poker.json](./57931-the-sopranos-poker.json) |
 | The Sorceress | 29788 | [29788-the-sorceress.json](./29788-the-sorceress.json) |
 | The Sorceror's Appraisal | 71240 | [71240-the-sorcerors-appraisal.json](./71240-the-sorcerors-appraisal.json) |
 | The Sorrowvirus | 245014 | [245014-the-sorrowvirus.json](./245014-the-sorrowvirus.json) |
@@ -6345,6 +6348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Kungfu: Dragon and Eagle | 156090 | [156090-the-world-of-kungfu-dragon-and-eagle.json](./156090-the-world-of-kungfu-dragon-and-eagle.json) |
 | The World of Legend VR | 75824 | [75824-the-world-of-legend-vr.json](./75824-the-world-of-legend-vr.json) |
 | The World of Magic | 174728 | [174728-the-world-of-magic.json](./174728-the-world-of-magic.json) |
+| The World of Magic: IMO | 57926 | [57926-the-world-of-magic-imo.json](./57926-the-world-of-magic-imo.json) |
 | The World of Marius | 369581 | [369581-the-world-of-marius.json](./369581-the-world-of-marius.json) |
 | The World of Nifty Craft | 256263 | [256263-the-world-of-nifty-craft.json](./256263-the-world-of-nifty-craft.json) |
 | The World to Reverse. | 125983 | [125983-the-world-to-reverse.json](./125983-the-world-to-reverse.json) |
@@ -7609,6 +7613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time of War | 27638 | [27638-time-of-war.json](./27638-time-of-war.json) |
 | Time on Frog Island: Prologue | 209641 | [209641-time-on-frog-island-prologue.json](./209641-time-on-frog-island-prologue.json) |
 | Time Only Knows | 208411 | [208411-time-only-knows.json](./208411-time-only-knows.json) |
+| Time Out Sports: Baseball | 57936 | [57936-time-out-sports-baseball.json](./57936-time-out-sports-baseball.json) |
 | Time Pilot | 246402 | [246402-time-pilot.json](./246402-time-pilot.json) |
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
 | Time Raiders | 252232 | [252232-time-raiders.json](./252232-time-raiders.json) |
@@ -7862,6 +7867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic II: Orchestra for Dying at Sea | 204471 | [204471-titanic-ii-orchestra-for-dying-at-sea.json](./204471-titanic-ii-orchestra-for-dying-at-sea.json) |
 | Titanic Mystery: Ao no Senritsu | 41312 | [41312-titanic-mystery-ao-no-senritsu.json](./41312-titanic-mystery-ao-no-senritsu.json) |
 | Titanic Shipwreck Exploration | 111180 | [111180-titanic-shipwreck-exploration.json](./111180-titanic-shipwreck-exploration.json) |
+| Titanic: Honor and Glory | 57921 | [57921-titanic-honor-and-glory.json](./57921-titanic-honor-and-glory.json) |
 | Titanic: Iceberg Ahead | 91966 | [91966-titanic-iceberg-ahead.json](./91966-titanic-iceberg-ahead.json) |
 | Titanic: The Recovery Mission | 12962 | [12962-titanic-the-recovery-mission.json](./12962-titanic-the-recovery-mission.json) |
 | Titanigods | 328469 | [328469-titanigods.json](./328469-titanigods.json) |
@@ -10044,6 +10050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrickShot | 147406 | [147406-trickshot.json](./147406-trickshot.json) |
 | Trickshot Tactics | 382753 | [382753-trickshot-tactics.json](./382753-trickshot-tactics.json) |
 | TrickShot VR | 133457 | [133457-trickshot-vr.json](./133457-trickshot-vr.json) |
+| Trickster | 57935 | [57935-trickster.json](./57935-trickster.json) |
 | Trickster Trove | 314642 | [314642-trickster-trove.json](./314642-trickster-trove.json) |
 | Trickster VR | 31766 | [31766-trickster-vr.json](./31766-trickster-vr.json) |
 | Trickster VR: Horde Attack! | 119759 | [119759-trickster-vr-horde-attack.json](./119759-trickster-vr-horde-attack.json) |
