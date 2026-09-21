@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Thieves HD | 343368 | [343368-we-thieves-hd.json](./343368-we-thieves-hd.json) |
 | We Walked In Darkness | 81734 | [81734-we-walked-in-darkness.json](./81734-we-walked-in-darkness.json) |
 | We Want You | 242646 | [242646-we-want-you.json](./242646-we-want-you.json) |
+| We Were Here Together | 109535 | [109535-we-were-here-together.json](./109535-we-were-here-together.json) |
 | We Were Here Too | 54486 | [54486-we-were-here-too.json](./54486-we-were-here-too.json) |
 | We, Junk Artists | 369043 | [369043-we-junk-artists.json](./369043-we-junk-artists.json) |
 | We'll Be Alright | 310564 | [310564-well-be-alright.json](./310564-well-be-alright.json) |
@@ -2724,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer: Winning Eleven | 68693 | [68693-world-soccer-winning-eleven.json](./68693-world-soccer-winning-eleven.json) |
 | World Soccer: Winning Eleven 2010 - Arcade Championship | 64960 | [64960-world-soccer-winning-eleven-2010-arcade-championship.json](./64960-world-soccer-winning-eleven-2010-arcade-championship.json) |
 | World Soccer: Winning Eleven 7 | 77321 | [77321-world-soccer-winning-eleven-7.json](./77321-world-soccer-winning-eleven-7.json) |
+| World Soccer: Winning Eleven 7 International | 936 | [936-world-soccer-winning-eleven-7-international.json](./936-world-soccer-winning-eleven-7-international.json) |
 | World Sports Competition | 37731 | [37731-world-sports-competition.json](./37731-world-sports-competition.json) |
 | World Strategy War | 388261 | [388261-world-strategy-war.json](./388261-world-strategy-war.json) |
 | World Subway Simulator | 89234 | [89234-world-subway-simulator.json](./89234-world-subway-simulator.json) |
