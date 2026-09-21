@@ -1844,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
 | Overage: Child of Chaos | 203306 | [203306-overage-child-of-chaos.json](./203306-overage-child-of-chaos.json) |
 | Overbeast | 247169 | [247169-overbeast.json](./247169-overbeast.json) |
+| OverBlood 2 | 20000 | [20000-overblood-2.json](./20000-overblood-2.json) |
 | Overboard | 122430 | [122430-overboard.json](./122430-overboard.json) |
 | Overbooked | 413044 | [413044-overbooked.json](./413044-overbooked.json) |
 | Overboss | 214604 | [214604-overboss.json](./214604-overboss.json) |
