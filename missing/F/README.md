@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Guy: The Quest for Stuff | 38908 | [38908-family-guy-the-quest-for-stuff.json](./38908-family-guy-the-quest-for-stuff.json) |
 | Family Guy: Time Warped | 66114 | [66114-family-guy-time-warped.json](./66114-family-guy-time-warped.json) |
 | Family Igo: Super Strong | 83472 | [83472-family-igo-super-strong.json](./83472-family-igo-super-strong.json) |
+| Family Jockey | 63542 | [63542-family-jockey.json](./63542-family-jockey.json) |
 | Family Mysteries 2: Echoes of Tomorrow | 132610 | [132610-family-mysteries-2-echoes-of-tomorrow.json](./132610-family-mysteries-2-echoes-of-tomorrow.json) |
 | Family Party: 30 Great Games Obstacle Arcade | 5312 | [5312-family-party-30-great-games-obstacle-arcade.json](./5312-family-party-30-great-games-obstacle-arcade.json) |
 | Family Party: 30 Great Games Winter Fun | 23360 | [23360-family-party-30-great-games-winter-fun.json](./23360-family-party-30-great-games-winter-fun.json) |
@@ -1069,6 +1070,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fava Beans | 252212 | [252212-fava-beans.json](./252212-fava-beans.json) |
 | Favela Defender | 347229 | [347229-favela-defender.json](./347229-favela-defender.json) |
 | Favillesco Episode 1: Genuflected on Io | 313853 | [313853-favillesco-episode-1-genuflected-on-io.json](./313853-favillesco-episode-1-genuflected-on-io.json) |
+| Favorite Dear | 63532 | [63532-favorite-dear.json](./63532-favorite-dear.json) |
+| Favorite Dear: Enkan no Monogatari | 63530 | [63530-favorite-dear-enkan-no-monogatari.json](./63530-favorite-dear-enkan-no-monogatari.json) |
+| Favorite Dear: Junpaku no Yogensha | 63531 | [63531-favorite-dear-junpaku-no-yogensha.json](./63531-favorite-dear-junpaku-no-yogensha.json) |
 | Fawning Over a Corpse | 266862 | [266862-fawning-over-a-corpse.json](./266862-fawning-over-a-corpse.json) |
 | Fax These to Smith!!! | 128562 | [128562-fax-these-to-smith.json](./128562-fax-these-to-smith.json) |
 | Faxion | 92271 | [92271-faxion.json](./92271-faxion.json) |
@@ -3070,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forced Abroad | 193976 | [193976-forced-abroad.json](./193976-forced-abroad.json) |
 | Forced Sacrifice: Hejled | 247771 | [247771-forced-sacrifice-hejled.json](./247771-forced-sacrifice-hejled.json) |
 | Forced: Eternal Arenas | 80540 | [80540-forced-eternal-arenas.json](./80540-forced-eternal-arenas.json) |
+| Forceline | 63579 | [63579-forceline.json](./63579-forceline.json) |
 | Ford Mustang: The Legend Lives | 43306 | [43306-ford-mustang-the-legend-lives.json](./43306-ford-mustang-the-legend-lives.json) |
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
