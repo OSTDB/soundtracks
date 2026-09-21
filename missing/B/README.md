@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance Balls 2 | 262442 | [262442-balance-balls-2.json](./262442-balance-balls-2.json) |
 | Balance of Kingdoms | 66144 | [66144-balance-of-kingdoms.json](./66144-balance-of-kingdoms.json) |
 | Balance of Power | 183072 | [183072-balance-of-power.json](./183072-balance-of-power.json) |
+| Balance of Power: The 1990 Edition | 14608 | [14608-balance-of-power-the-1990-edition.json](./14608-balance-of-power-the-1990-edition.json) |
 | Balance of the Planet | 50499 | [50499-balance-of-the-planet.json](./50499-balance-of-the-planet.json) |
 | Balance the Beam | 58218 | [58218-balance-the-beam.json](./58218-balance-the-beam.json) |
 | Balance: Umbilical Wake | 410977 | [410977-balance-umbilical-wake.json](./410977-balance-umbilical-wake.json) |
@@ -1041,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Arcade Stars | 250660 | [250660-basketball-arcade-stars.json](./250660-basketball-arcade-stars.json) |
 | Basketball Baby | 186838 | [186838-basketball-baby.json](./186838-basketball-baby.json) |
 | Basketball Battle | 89288 | [89288-basketball-battle.json](./89288-basketball-battle.json) |
+| Basketball Challenge | 14498 | [14498-basketball-challenge.json](./14498-basketball-challenge.json) |
 | Basketball Court VR | 32166 | [32166-basketball-court-vr.json](./32166-basketball-court-vr.json) |
 | Basketball Dunk Tournament | 197336 | [197336-basketball-dunk-tournament.json](./197336-basketball-dunk-tournament.json) |
 | Basketball Grand Slam 2024 | 269089 | [269089-basketball-grand-slam-2024.json](./269089-basketball-grand-slam-2024.json) |
@@ -2644,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biomisland | 199578 | [199578-biomisland.json](./199578-biomisland.json) |
 | Biomorph | 213287 | [213287-biomorph.json](./213287-biomorph.json) |
 | Bionic Attack | 36527 | [36527-bionic-attack.json](./36527-bionic-attack.json) |
+| Bionic Chainsaw Pogo Gorilla | 14526 | [14526-bionic-chainsaw-pogo-gorilla.json](./14526-bionic-chainsaw-pogo-gorilla.json) |
 | Bionic Commando | 9242 | [9242-bionic-commando.json](./9242-bionic-commando.json) |
 | Bionic Dues | 9221 | [9221-bionic-dues.json](./9221-bionic-dues.json) |
 | Bionic Hunter VR | 127190 | [127190-bionic-hunter-vr.json](./127190-bionic-hunter-vr.json) |
@@ -2903,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Friday: The Game | 68600 | [68600-black-friday-the-game.json](./68600-black-friday-the-game.json) |
 | Black Geyser: Couriers of Darkness - Tales of the Moon Cult | 379444 | [379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json](./379444-black-geyser-couriers-of-darkness-tales-of-the-moon-cult.json) |
 | Black Gold | 136436 | [136436-black-gold.json](./136436-black-gold.json) |
+| Black Gold | 14609 | [14609-black-gold.json](./14609-black-gold.json) |
 | Black Gold Online | 63338 | [63338-black-gold-online.json](./63338-black-gold-online.json) |
 | Black Hangman | 112122 | [112122-black-hangman.json](./112122-black-hangman.json) |
 | Black Hawk | 25711 | [25711-black-hawk.json](./25711-black-hawk.json) |
@@ -2921,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Lily's Tale: Famitsu Wedding DX Pack | 408135 | [408135-black-lilys-tale-famitsu-wedding-dx-pack.json](./408135-black-lilys-tale-famitsu-wedding-dx-pack.json) |
 | Black Lotus Motel | 159894 | [159894-black-lotus-motel.json](./159894-black-lotus-motel.json) |
 | Black Magic | 12258 | [12258-black-magic.json](./12258-black-magic.json) |
+| Black Magic | 14610 | [14610-black-magic.json](./14610-black-magic.json) |
 | Black Magic Gamebox | 192798 | [192798-black-magic-gamebox.json](./192798-black-magic-gamebox.json) |
 | Black Market Bowling | 57643 | [57643-black-market-bowling.json](./57643-black-market-bowling.json) |
 | Black Market of Bulletphilia: 100th Black Market | 210247 | [210247-black-market-of-bulletphilia-100th-black-market.json](./210247-black-market-of-bulletphilia-100th-black-market.json) |
@@ -3329,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitz Smash Ultimate | 369023 | [369023-blitz-smash-ultimate.json](./369023-blitz-smash-ultimate.json) |
 | Blitz Society | 386109 | [386109-blitz-society.json](./386109-blitz-society.json) |
 | Blitz Sonic | 332549 | [332549-blitz-sonic.json](./332549-blitz-sonic.json) |
+| Blitz Tennis | 14611 | [14611-blitz-tennis.json](./14611-blitz-tennis.json) |
 | Blitz: The League | 264860 | [264860-blitz-the-league.json](./264860-blitz-the-league.json) |
 | Blitz: The League | 5753 | [5753-blitz-the-league.json](./5753-blitz-the-league.json) |
 | Blitz!: Action Football | 41991 | [41991-blitz-action-football.json](./41991-blitz-action-football.json) |
@@ -5357,6 +5363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Borris in Action | 152842 | [152842-buck-borris-in-action.json](./152842-buck-borris-in-action.json) |
 | Buck Bradley: Comic Adventure | 133213 | [133213-buck-bradley-comic-adventure.json](./133213-buck-bradley-comic-adventure.json) |
 | Buck Bumble | 3368 | [3368-buck-bumble.json](./3368-buck-bumble.json) |
+| Buck Rogers: Matrix Cubed | 14499 | [14499-buck-rogers-matrix-cubed.json](./14499-buck-rogers-matrix-cubed.json) |
 | Buck Trucker in Rowdy Business | 352200 | [352200-buck-trucker-in-rowdy-business.json](./352200-buck-trucker-in-rowdy-business.json) |
 | Bucket Balls | 103201 | [103201-bucket-balls.json](./103201-bucket-balls.json) |
 | Bucket Brawl: Ahlman Edition | 253354 | [253354-bucket-brawl-ahlman-edition.json](./253354-bucket-brawl-ahlman-edition.json) |
