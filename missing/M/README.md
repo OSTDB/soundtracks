@@ -2437,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 7 Refit | 219080 | [219080-mega-man-7-refit.json](./219080-mega-man-7-refit.json) |
 | Mega Man 8-bit Deathmatch | 136285 | [136285-mega-man-8-bit-deathmatch.json](./136285-mega-man-8-bit-deathmatch.json) |
 | Mega Man Arkanoid | 245035 | [245035-mega-man-arkanoid.json](./245035-mega-man-arkanoid.json) |
+| Mega Man Battle Network 2 | 1756 | [1756-mega-man-battle-network-2.json](./1756-mega-man-battle-network-2.json) |
 | Mega Man Battle Network 2 | 352862 | [352862-mega-man-battle-network-2.json](./352862-mega-man-battle-network-2.json) |
 | Mega Man Battle Network 3 Blue | 352864 | [352864-mega-man-battle-network-3-blue.json](./352864-mega-man-battle-network-3-blue.json) |
 | Mega Man Battle Network 3 White | 352863 | [352863-mega-man-battle-network-3-white.json](./352863-mega-man-battle-network-3-white.json) |
@@ -3091,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid: Peace Walker | 382 | [382-metal-gear-solid-peace-walker.json](./382-metal-gear-solid-peace-walker.json) |
 | Metal Gear Solid: Portable Ops Plus - Deluxe Pack | 294698 | [294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json](./294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json) |
 | Metal Gear Solid: Snake Eater 3D | 21073 | [21073-metal-gear-solid-snake-eater-3d.json](./21073-metal-gear-solid-snake-eater-3d.json) |
+| Metal Gear Solid: The Legacy Collection | 20196 | [20196-metal-gear-solid-the-legacy-collection.json](./20196-metal-gear-solid-the-legacy-collection.json) |
 | Metal Gear: Ghost Babel | 5600 | [5600-metal-gear-ghost-babel.json](./5600-metal-gear-ghost-babel.json) |
 | Metal Glove: Exodus | 235458 | [235458-metal-glove-exodus.json](./235458-metal-glove-exodus.json) |
 | Metal Goose | 388948 | [388948-metal-goose.json](./388948-metal-goose.json) |
@@ -3134,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 3 | 347162 | [347162-metal-slug-3.json](./347162-metal-slug-3.json) |
 | Metal Slug 3: ACA Neo Geo | 347163 | [347163-metal-slug-3-aca-neo-geo.json](./347163-metal-slug-3-aca-neo-geo.json) |
 | Metal Slug 3: Classic Edition | 347164 | [347164-metal-slug-3-classic-edition.json](./347164-metal-slug-3-classic-edition.json) |
+| Metal Slug Anthology | 5004 | [5004-metal-slug-anthology.json](./5004-metal-slug-anthology.json) |
 | Metal Slug Collection | 51223 | [51223-metal-slug-collection.json](./51223-metal-slug-collection.json) |
 | Metal Slug Defense | 35593 | [35593-metal-slug-defense.json](./35593-metal-slug-defense.json) |
 | Metal Slug Revolution | 98432 | [98432-metal-slug-revolution.json](./98432-metal-slug-revolution.json) |
@@ -3218,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Architect | 407458 | [407458-metro-architect.json](./407458-metro-architect.json) |
 | Metro Blossom | 203519 | [203519-metro-blossom.json](./203519-metro-blossom.json) |
 | Metro Exodus: Aurora Limited Edition | 109587 | [109587-metro-exodus-aurora-limited-edition.json](./109587-metro-exodus-aurora-limited-edition.json) |
+| Metro Exodus: Enhanced Edition | 143292 | [143292-metro-exodus-enhanced-edition.json](./143292-metro-exodus-enhanced-edition.json) |
 | Metro Exodus: Gold Edition | 95059 | [95059-metro-exodus-gold-edition.json](./95059-metro-exodus-gold-edition.json) |
 | Metro Exodus: Sam's Story | 121756 | [121756-metro-exodus-sams-story.json](./121756-metro-exodus-sams-story.json) |
 | Metro Rivals: New York | 373617 | [373617-metro-rivals-new-york.json](./373617-metro-rivals-new-york.json) |
@@ -6139,6 +6143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muramasa Burden | 341344 | [341344-muramasa-burden.json](./341344-muramasa-burden.json) |
 | Muramasa Rebirth Complete Collection | 122359 | [122359-muramasa-rebirth-complete-collection.json](./122359-muramasa-rebirth-complete-collection.json) |
 | Muramasa Rebirth: Blessing of Amitabha Collector's Edition | 89921 | [89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json](./89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json) |
+| Muramasa: The Demon Blade | 2266 | [2266-muramasa-the-demon-blade.json](./2266-muramasa-the-demon-blade.json) |
 | Murasaki Mist: Akara's Journey | 61043 | [61043-murasaki-mist-akaras-journey.json](./61043-murasaki-mist-akaras-journey.json) |
 | Murasaki no Honoo | 215190 | [215190-murasaki-no-honoo.json](./215190-murasaki-no-honoo.json) |
 | Murasaki7 | 127306 | [127306-murasaki7.json](./127306-murasaki7.json) |
