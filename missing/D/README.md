@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakota Winchester's Adventures 2 | 310557 | [310557-dakota-winchesters-adventures-2.json](./310557-dakota-winchesters-adventures-2.json) |
 | Dakota Winchester's Adventures 3 | 310558 | [310558-dakota-winchesters-adventures-3.json](./310558-dakota-winchesters-adventures-3.json) |
 | Daldzah | 277978 | [277978-daldzah.json](./277978-daldzah.json) |
+| Dale & Dawson Stationery Supplies | 296326 | [296326-dale-and-dawson-stationery-supplies.json](./296326-dale-and-dawson-stationery-supplies.json) |
 | Dalek Mod | 232664 | [232664-dalek-mod.json](./232664-dalek-mod.json) |
 | Daley Thompson's Decathlon | 13564 | [13564-daley-thompsons-decathlon.json](./13564-daley-thompsons-decathlon.json) |
 | Dallyeola Pigu Wang | 125971 | [125971-dallyeola-pigu-wang.json](./125971-dallyeola-pigu-wang.json) |
@@ -1500,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Tank | 21259 | [21259-death-tank.json](./21259-death-tank.json) |
 | Death the Guitar | 257925 | [257925-death-the-guitar.json](./257925-death-the-guitar.json) |
 | Death to Spies: Gold Edition | 51291 | [51291-death-to-spies-gold-edition.json](./51291-death-to-spies-gold-edition.json) |
+| Death to Spies: Moment of Truth | 9377 | [9377-death-to-spies-moment-of-truth.json](./9377-death-to-spies-moment-of-truth.json) |
 | Death Tormention: The Complete Trilogy | 261287 | [261287-death-tormention-the-complete-trilogy.json](./261287-death-tormention-the-complete-trilogy.json) |
 | Death Tour | 242798 | [242798-death-tour.json](./242798-death-tour.json) |
 | Death Trading Card Game | 196879 | [196879-death-trading-card-game.json](./196879-death-trading-card-game.json) |
@@ -4195,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dookie Nukem 3D | 218115 | [218115-dookie-nukem-3d.json](./218115-dookie-nukem-3d.json) |
 | Dooly Soccer 2002 | 92313 | [92313-dooly-soccer-2002.json](./92313-dooly-soccer-2002.json) |
 | Doom | 170995 | [170995-doom.json](./170995-doom.json) |
+| Doom | 259941 | [259941-doom.json](./259941-doom.json) |
 | Doom | 259944 | [259944-doom.json](./259944-doom.json) |
 | Doom | 313161 | [313161-doom.json](./313161-doom.json) |
 | Doom & Destiny Advanced | 25944 | [25944-doom-and-destiny-advanced.json](./25944-doom-and-destiny-advanced.json) |
@@ -4844,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest 25th Anniversary Collection | 136885 | [136885-dragon-quest-25th-anniversary-collection.json](./136885-dragon-quest-25th-anniversary-collection.json) |
 | Dragon Quest Builders | 24069 | [24069-dragon-quest-builders.json](./24069-dragon-quest-builders.json) |
 | Dragon Quest Builders 2 | 54548 | [54548-dragon-quest-builders-2.json](./54548-dragon-quest-builders-2.json) |
+| Dragon Quest I & II HD-2D Remake | 306144 | [306144-dragon-quest-i-and-ii-hd-2d-remake.json](./306144-dragon-quest-i-and-ii-hd-2d-remake.json) |
 | Dragon Quest III HD-2D Remake | 149980 | [149980-dragon-quest-iii-hd-2d-remake.json](./149980-dragon-quest-iii-hd-2d-remake.json) |
 | Dragon Quest III: The Seeds of Salvation | 1814 | [1814-dragon-quest-iii-the-seeds-of-salvation.json](./1814-dragon-quest-iii-the-seeds-of-salvation.json) |
 | Dragon Quest IV: Chapters of the Chosen | 1815 | [1815-dragon-quest-iv-chapters-of-the-chosen.json](./1815-dragon-quest-iv-chapters-of-the-chosen.json) |
