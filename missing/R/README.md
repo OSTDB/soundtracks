@@ -3969,9 +3969,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugida | 169384 | [169384-rugida.json](./169384-rugida.json) |
 | Rugon | 108991 | [108991-rugon.json](./108991-rugon.json) |
 | Rugosi | 106417 | [106417-rugosi.json](./106417-rugosi.json) |
+| Rugrats Go Wild! | 7999 | [7999-rugrats-go-wild.json](./7999-rugrats-go-wild.json) |
 | Rugrats in Paris: The Movie | 2792 | [2792-rugrats-in-paris-the-movie.json](./2792-rugrats-in-paris-the-movie.json) |
 | Rugrats Munchin Land | 70346 | [70346-rugrats-munchin-land.json](./70346-rugrats-munchin-land.json) |
 | Rugrats: Adventures in Gameland | 299152 | [299152-rugrats-adventures-in-gameland.json](./299152-rugrats-adventures-in-gameland.json) |
+| Rugrats: All Growed-Up | 7990 | [7990-rugrats-all-growed-up.json](./7990-rugrats-all-growed-up.json) |
 | Rugrats: Scavenger Hunt | 2786 | [2786-rugrats-scavenger-hunt.json](./2786-rugrats-scavenger-hunt.json) |
 | Rúguǒ Yīshēng Zhǐ Yǒu Sān Shí Suì | 121646 | [121646-ruguo-yisheng-zhi-you-san-shi-sui.json](./121646-ruguo-yisheng-zhi-you-san-shi-sui.json) |
 | Ruh & the Glow | 178597 | [178597-ruh-and-the-glow.json](./178597-ruh-and-the-glow.json) |
