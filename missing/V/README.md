@@ -670,6 +670,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Tennis but the Computer Asks About Your Ex-Girlfriend | 177413 | [177413-video-tennis-but-the-computer-asks-about-your-ex-girlfriend.json](./177413-video-tennis-but-the-computer-asks-about-your-ex-girlfriend.json) |
 | Video Time Machine | 40770 | [40770-video-time-machine.json](./40770-video-time-machine.json) |
 | Video's Revenge | 178065 | [178065-videos-revenge.json](./178065-videos-revenge.json) |
+| Videocart 20 - Schach | 18586 | [18586-videocart-20-schach.json](./18586-videocart-20-schach.json) |
+| Videocart-25: Casino Poker | 18603 | [18603-videocart-25-casino-poker.json](./18603-videocart-25-casino-poker.json) |
+| Videocart-26: Alien Invasion | 18604 | [18604-videocart-26-alien-invasion.json](./18604-videocart-26-alien-invasion.json) |
 | Videocart-27: Pac-Man | 245385 | [245385-videocart-27-pac-man.json](./245385-videocart-27-pac-man.json) |
 | Videoclub Simulator | 339093 | [339093-videoclub-simulator.json](./339093-videoclub-simulator.json) |
 | VideoHole: Episode 1 | 132757 | [132757-videohole-episode-1.json](./132757-videohole-episode-1.json) |
@@ -1171,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volume | 9647 | [9647-volume.json](./9647-volume.json) |
 | Volunteer | 216850 | [216850-volunteer.json](./216850-volunteer.json) |
 | Volvalis | 200702 | [200702-volvalis.json](./200702-volvalis.json) |
+| Volvox | 18551 | [18551-volvox.json](./18551-volvox.json) |
 | Volvy’s Adventure: Reslimed | 323369 | [323369-volvy-s-adventure-reslimed.json](./323369-volvy-s-adventure-reslimed.json) |
 | Vomitoreum | 142271 | [142271-vomitoreum.json](./142271-vomitoreum.json) |
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
