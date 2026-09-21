@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Deere: Drive Green | 139805 | [139805-john-deere-drive-green.json](./139805-john-deere-drive-green.json) |
 | John Deere: North American Farmer | 210130 | [210130-john-deere-north-american-farmer.json](./210130-john-deere-north-american-farmer.json) |
 | John Gleep | 410343 | [410343-john-gleep.json](./410343-john-gleep.json) |
+| John Madden American Football | 45589 | [45589-john-madden-american-football.json](./45589-john-madden-american-football.json) |
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
 | John Madden Football | 295035 | [295035-john-madden-football.json](./295035-john-madden-football.json) |
 | John Wheel Memorial | 269568 | [269568-john-wheel-memorial.json](./269568-john-wheel-memorial.json) |
