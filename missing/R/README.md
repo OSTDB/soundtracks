@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race with Ryan: Road Trip - Deluxe Edition | 141036 | [141036-race-with-ryan-road-trip-deluxe-edition.json](./141036-race-with-ryan-road-trip-deluxe-edition.json) |
 | Race: Rocket Arena Car Extreme | 226724 | [226724-race-rocket-arena-car-extreme.json](./226724-race-rocket-arena-car-extreme.json) |
 | Race.a.bit | 36114 | [36114-race-a-bit.json](./36114-race-a-bit.json) |
+| Race07 | 50162 | [50162-race07.json](./50162-race07.json) |
 | Raceborn | 311638 | [311638-raceborn.json](./311638-raceborn.json) |
 | Racecraft | 18188 | [18188-racecraft.json](./18188-racecraft.json) |
 | Racer | 79859 | [79859-racer.json](./79859-racer.json) |
@@ -1218,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ball Escape | 150633 | [150633-red-ball-escape.json](./150633-red-ball-escape.json) |
 | Red Ball Escape Adventure | 218477 | [218477-red-ball-escape-adventure.json](./218477-red-ball-escape-adventure.json) |
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
+| Red Baron 3D | 50124 | [50124-red-baron-3d.json](./50124-red-baron-3d.json) |
 | Red Baron Arcade | 21266 | [21266-red-baron-arcade.json](./21266-red-baron-arcade.json) |
 | Red Baron History | 9411 | [9411-red-baron-history.json](./9411-red-baron-history.json) |
 | Red Baron: Mission Builder | 9224 | [9224-red-baron-mission-builder.json](./9224-red-baron-mission-builder.json) |
@@ -3058,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Fruit | 144778 | [144778-rocket-fruit.json](./144778-rocket-fruit.json) |
 | Rocket Hat | 329397 | [329397-rocket-hat.json](./329397-rocket-hat.json) |
 | Rocket Horizon | 256928 | [256928-rocket-horizon.json](./256928-rocket-horizon.json) |
+| Rocket Jockey | 50137 | [50137-rocket-jockey.json](./50137-rocket-jockey.json) |
 | Rocket Joust | 174183 | [174183-rocket-joust.json](./174183-rocket-joust.json) |
 | Rocket Jump Race | 273653 | [273653-rocket-jump-race.json](./273653-rocket-jump-race.json) |
 | Rocket Jumping Sounds Dangerous | 179131 | [179131-rocket-jumping-sounds-dangerous.json](./179131-rocket-jumping-sounds-dangerous.json) |
