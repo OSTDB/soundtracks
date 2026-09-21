@@ -2739,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off 6: T-wave | 288772 | [288772-memories-off-6-t-wave.json](./288772-memories-off-6-t-wave.json) |
 | Memories Off 6: T-wave | 7068 | [7068-memories-off-6-t-wave.json](./7068-memories-off-6-t-wave.json) |
 | Memories Off Pure | 43974 | [43974-memories-off-pure.json](./43974-memories-off-pure.json) |
+| Memories Off: Festa | 37361 | [37361-memories-off-festa.json](./37361-memories-off-festa.json) |
 | Memories Off: Historia - Vol. 1 | 140386 | [140386-memories-off-historia-vol-1.json](./140386-memories-off-historia-vol-1.json) |
 | Memories Off: Historia - Volume 2 | 140387 | [140387-memories-off-historia-volume-2.json](./140387-memories-off-historia-volume-2.json) |
 | Memories Off: Sorekara | 288771 | [288771-memories-off-sorekara.json](./288771-memories-off-sorekara.json) |
@@ -3015,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal | 95217 | [95217-metal.json](./95217-metal.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
 | Metal Army War Revenge | 221714 | [221714-metal-army-war-revenge.json](./221714-metal-army-war-revenge.json) |
+| Metal Assault | 37375 | [37375-metal-assault.json](./37375-metal-assault.json) |
 | Metal Assault | 9040 | [9040-metal-assault.json](./9040-metal-assault.json) |
 | Metal Black: Alternative | 70648 | [70648-metal-black-alternative.json](./70648-metal-black-alternative.json) |
 | Metal Brigade Tactics Versus | 256254 | [256254-metal-brigade-tactics-versus.json](./256254-metal-brigade-tactics-versus.json) |
@@ -3616,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike V: Skateboard Party HD | 87709 | [87709-mike-v-skateboard-party-hd.json](./87709-mike-v-skateboard-party-hd.json) |
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
 | Mikene's Aspects | 267440 | [267440-mikenes-aspects.json](./267440-mikenes-aspects.json) |
+| Mikeneko Holmes: Ghost Panic | 37360 | [37360-mikeneko-holmes-ghost-panic.json](./37360-mikeneko-holmes-ghost-panic.json) |
 | Mikey Boots | 140610 | [140610-mikey-boots.json](./140610-mikey-boots.json) |
 | Mikie: High School Graffiti | 84164 | [84164-mikie-high-school-graffiti.json](./84164-mikie-high-school-graffiti.json) |
 | Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
