@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Fast Run | 330185 | [330185-balloon-fast-run.json](./330185-balloon-fast-run.json) |
 | Balloon Fight | 269842 | [269842-balloon-fight.json](./269842-balloon-fight.json) |
 | Balloon Fight | 273083 | [273083-balloon-fight.json](./273083-balloon-fight.json) |
+| Balloon Fight | 2735 | [2735-balloon-fight.json](./2735-balloon-fight.json) |
 | Balloon Fight-e | 170004 | [170004-balloon-fight-e.json](./170004-balloon-fight-e.json) |
 | Balloon Fighter | 122196 | [122196-balloon-fighter.json](./122196-balloon-fighter.json) |
 | Balloon Gun | 63847 | [63847-balloon-gun.json](./63847-balloon-gun.json) |
@@ -2587,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binaries | 18207 | [18207-binaries.json](./18207-binaries.json) |
 | Binary | 172678 | [172678-binary.json](./172678-binary.json) |
 | Binary Boy | 125407 | [125407-binary-boy.json](./125407-binary-boy.json) |
+| Binary Domain | 6913 | [6913-binary-domain.json](./6913-binary-domain.json) |
 | Binary Domain Collection | 52629 | [52629-binary-domain-collection.json](./52629-binary-domain-collection.json) |
 | Binary Land | 366925 | [366925-binary-land.json](./366925-binary-land.json) |
 | Binary Quest | 178616 | [178616-binary-quest.json](./178616-binary-quest.json) |
@@ -5784,6 +5786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnout Legends | 10916 | [10916-burnout-legends.json](./10916-burnout-legends.json) |
 | Burnout Mobile | 342038 | [342038-burnout-mobile.json](./342038-burnout-mobile.json) |
 | Burnout Paradise: The Ultimate Box | 10067 | [10067-burnout-paradise-the-ultimate-box.json](./10067-burnout-paradise-the-ultimate-box.json) |
+| Burnout Revenge | 2626 | [2626-burnout-revenge.json](./2626-burnout-revenge.json) |
 | Burnouts | 111640 | [111640-burnouts.json](./111640-burnouts.json) |
 | Burnt | 273137 | [273137-burnt.json](./273137-burnt.json) |
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
