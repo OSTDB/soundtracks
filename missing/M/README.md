@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariko: Hot Nightlife | 88052 | [88052-mariko-hot-nightlife.json](./88052-mariko-hot-nightlife.json) |
 | Marina Militare It Navy Sim | 193849 | [193849-marina-militare-it-navy-sim.json](./193849-marina-militare-it-navy-sim.json) |
 | Marina's Cuckolding Report | 143063 | [143063-marinas-cuckolding-report.json](./143063-marinas-cuckolding-report.json) |
+| Marinatide | 30200 | [30200-marinatide.json](./30200-marinatide.json) |
 | Marine Buster | 45969 | [45969-marine-buster.json](./45969-marine-buster.json) |
 | Marine Chan | 97846 | [97846-marine-chan.json](./97846-marine-chan.json) |
 | Marine Quest | 313683 | [313683-marine-quest.json](./313683-marine-quest.json) |
@@ -4112,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Quest: The Search for Bowser | 266891 | [266891-minion-quest-the-search-for-bowser.json](./266891-minion-quest-the-search-for-bowser.json) |
 | Minions of Elden | 176423 | [176423-minions-of-elden.json](./176423-minions-of-elden.json) |
 | Minions of Elden Online | 170924 | [170924-minions-of-elden-online.json](./170924-minions-of-elden-online.json) |
+| Minions, Monsters, and Madness | 30194 | [30194-minions-monsters-and-madness.json](./30194-minions-monsters-and-madness.json) |
 | Minions. Five nights at Despicable Hospital 3D | 99418 | [99418-minions-five-nights-at-despicable-hospital-3d.json](./99418-minions-five-nights-at-despicable-hospital-3d.json) |
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
 | Ministry of Sound: Club Manager | 57933 | [57933-ministry-of-sound-club-manager.json](./57933-ministry-of-sound-club-manager.json) |
