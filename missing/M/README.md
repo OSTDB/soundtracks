@@ -1969,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem 2018: Purple Edition | 269130 | [269130-mayhem-2018-purple-edition.json](./269130-mayhem-2018-purple-edition.json) |
 | Mayhem 2019: Blood for the Doom God! | 269132 | [269132-mayhem-2019-blood-for-the-doom-god.json](./269132-mayhem-2019-blood-for-the-doom-god.json) |
 | Mayhem 2048 | 269125 | [269125-mayhem-2048.json](./269125-mayhem-2048.json) |
+| Mayhem Above | 55502 | [55502-mayhem-above.json](./55502-mayhem-above.json) |
 | Mayhem Fortress | 224575 | [224575-mayhem-fortress.json](./224575-mayhem-fortress.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
 | Mayhem Pantera | 271807 | [271807-mayhem-pantera.json](./271807-mayhem-pantera.json) |
@@ -2965,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta Form | 198485 | [198485-meta-form.json](./198485-meta-form.json) |
 | Meta Fox | 39689 | [39689-meta-fox.json](./39689-meta-fox.json) |
 | Meta Nanos: Rumble Race | 263521 | [263521-meta-nanos-rumble-race.json](./263521-meta-nanos-rumble-race.json) |
+| Meta Star | 55514 | [55514-meta-star.json](./55514-meta-star.json) |
 | Meta World: My City | 193861 | [193861-meta-world-my-city.json](./193861-meta-world-my-city.json) |
 | Meta: Assembled | 392795 | [392795-meta-assembled.json](./392795-meta-assembled.json) |
 | Metaball: Face Bundle | 310047 | [310047-metaball-face-bundle.json](./310047-metaball-face-bundle.json) |
@@ -3941,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Star Retro Golf Game | 104695 | [104695-mini-golf-star-retro-golf-game.json](./104695-mini-golf-star-retro-golf-game.json) |
 | Mini Golf Worlds VR | 186810 | [186810-mini-golf-worlds-vr.json](./186810-mini-golf-worlds-vr.json) |
 | Mini Guns | 55846 | [55846-mini-guns.json](./55846-mini-guns.json) |
+| Mini Hockey VR | 55478 | [55478-mini-hockey-vr.json](./55478-mini-hockey-vr.json) |
 | Mini Island Challenge Bundle | 147426 | [147426-mini-island-challenge-bundle.json](./147426-mini-island-challenge-bundle.json) |
 | Mini Island: Aroma | 192371 | [192371-mini-island-aroma.json](./192371-mini-island-aroma.json) |
 | Mini Island: Autumn | 166601 | [166601-mini-island-autumn.json](./166601-mini-island-autumn.json) |
