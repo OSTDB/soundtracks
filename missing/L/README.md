@@ -3295,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lupo Alberto: The VideoGame | 98958 | [98958-lupo-alberto-the-videogame.json](./98958-lupo-alberto-the-videogame.json) |
 | Luqman Reloaded | 361742 | [361742-luqman-reloaded.json](./361742-luqman-reloaded.json) |
 | Lure | 139953 | [139953-lure.json](./139953-lure.json) |
+| Lure of the Temptress | 8482 | [8482-lure-of-the-temptress.json](./8482-lure-of-the-temptress.json) |
 | Lure: The King's Gold | 120167 | [120167-lure-the-kings-gold.json](./120167-lure-the-kings-gold.json) |
 | Lurk and Rouse | 217316 | [217316-lurk-and-rouse.json](./217316-lurk-and-rouse.json) |
 | Lurk in Abyss | 390141 | [390141-lurk-in-abyss.json](./390141-lurk-in-abyss.json) |
