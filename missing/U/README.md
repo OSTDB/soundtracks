@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U-Boot - submarine game | 87713 | [87713-u-boot-submarine-game.json](./87713-u-boot-submarine-game.json) |
 | U-Force Power Games | 48873 | [48873-u-force-power-games.json](./48873-u-force-power-games.json) |
 | U-jin no Furi-furi Girls | 37751 | [37751-u-jin-no-furi-furi-girls.json](./37751-u-jin-no-furi-furi-girls.json) |
+| U-jin: Janjuu Gakuen | 42210 | [42210-u-jin-janjuu-gakuen.json](./42210-u-jin-janjuu-gakuen.json) |
 | U-jin: Janjuu Gakuen 2 | 37752 | [37752-u-jin-janjuu-gakuen-2.json](./37752-u-jin-janjuu-gakuen-2.json) |
 | U-Ropa | 89214 | [89214-u-ropa.json](./89214-u-ropa.json) |
 | U-Sing | 50600 | [50600-u-sing.json](./50600-u-sing.json) |
