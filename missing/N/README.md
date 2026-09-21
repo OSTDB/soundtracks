@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neyyah | 133474 | [133474-neyyah.json](./133474-neyyah.json) |
 | Nezumi Man | 276480 | [276480-nezumi-man.json](./276480-nezumi-man.json) |
 | NFL 2 Minute Drill | 130949 | [130949-nfl-2-minute-drill.json](./130949-nfl-2-minute-drill.json) |
+| NFL Blitz 2000 | 4366 | [4366-nfl-blitz-2000.json](./4366-nfl-blitz-2000.json) |
 | NFL Blitz 2000: Gold Edition | 39598 | [39598-nfl-blitz-2000-gold-edition.json](./39598-nfl-blitz-2000-gold-edition.json) |
 | NFL Blitz 99 | 39599 | [39599-nfl-blitz-99.json](./39599-nfl-blitz-99.json) |
 | NFL Blitz Pro | 47337 | [47337-nfl-blitz-pro.json](./47337-nfl-blitz-pro.json) |
@@ -1610,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights of Azure: GS Saikyou Combo Set - Super Limited Edition | 212324 | [212324-nights-of-azure-gs-saikyou-combo-set-super-limited-edition.json](./212324-nights-of-azure-gs-saikyou-combo-set-super-limited-edition.json) |
 | Nights of Azure: Limited Edition | 51533 | [51533-nights-of-azure-limited-edition.json](./51533-nights-of-azure-limited-edition.json) |
 | Nights To Remember | 263772 | [263772-nights-to-remember.json](./263772-nights-to-remember.json) |
+| Nights: Journey of Dreams | 5074 | [5074-nights-journey-of-dreams.json](./5074-nights-journey-of-dreams.json) |
 | Nights: Moonlight Dreams... | 264895 | [264895-nights-moonlight-dreams.json](./264895-nights-moonlight-dreams.json) |
 | Nightshade | 39119 | [39119-nightshade.json](./39119-nightshade.json) |
 | Nightshift | 163295 | [163295-nightshift.json](./163295-nightshift.json) |
@@ -1743,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden Trilogy | 42729 | [42729-ninja-gaiden-trilogy.json](./42729-ninja-gaiden-trilogy.json) |
 | Ninja Gaiden: Dragon Scroll | 269875 | [269875-ninja-gaiden-dragon-scroll.json](./269875-ninja-gaiden-dragon-scroll.json) |
 | Ninja Gaiden: Hurricane Pack I | 215249 | [215249-ninja-gaiden-hurricane-pack-i.json](./215249-ninja-gaiden-hurricane-pack-i.json) |
+| Ninja Gaiden: Master Collection | 143619 | [143619-ninja-gaiden-master-collection.json](./143619-ninja-gaiden-master-collection.json) |
 | Ninja Gaiden: Master Collection - Version D | 222501 | [222501-ninja-gaiden-master-collection-version-d.json](./222501-ninja-gaiden-master-collection-version-d.json) |
 | Ninja Gardening Simulator | 281531 | [281531-ninja-gardening-simulator.json](./281531-ninja-gardening-simulator.json) |
 | Ninja Gear | 322583 | [322583-ninja-gear.json](./322583-ninja-gear.json) |
@@ -2464,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Contingency | 30963 | [30963-nuclear-contingency.json](./30963-nuclear-contingency.json) |
 | Nuclear Corps | 187519 | [187519-nuclear-corps.json](./187519-nuclear-corps.json) |
 | Nuclear Creatures | 288338 | [288338-nuclear-creatures.json](./288338-nuclear-creatures.json) |
+| Nuclear Dawn | 5055 | [5055-nuclear-dawn.json](./5055-nuclear-dawn.json) |
 | Nuclear Day | 223996 | [223996-nuclear-day.json](./223996-nuclear-day.json) |
 | Nuclear Embargo | 31182 | [31182-nuclear-embargo.json](./31182-nuclear-embargo.json) |
 | Nuclear Empire | 203296 | [203296-nuclear-empire.json](./203296-nuclear-empire.json) |
