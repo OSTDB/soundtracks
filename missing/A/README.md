@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advent Calendar | 379475 | [379475-advent-calendar.json](./379475-advent-calendar.json) |
 | Advent Crossroad | 154404 | [154404-advent-crossroad.json](./154404-advent-crossroad.json) |
 | Advent of God: Legends | 304168 | [304168-advent-of-god-legends.json](./304168-advent-of-god-legends.json) |
+| Adventure | 8253 | [8253-adventure.json](./8253-adventure.json) |
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
 | Adventure Academia: The Fractured Continent - New Adventure Volume 2: Danger Mountain March 1- 3 | 220752 | [220752-adventure-academia-the-fractured-continent-new-adventure-volume-2-danger-mountain-march-1-3.json](./220752-adventure-academia-the-fractured-continent-new-adventure-volume-2-danger-mountain-march-1-3.json) |
 | Adventure Academia: The Fractured Continent - Vol.2 Bonus Unit: Kiesel | 220753 | [220753-adventure-academia-the-fractured-continent-vol-2-bonus-unit-kiesel.json](./220753-adventure-academia-the-fractured-continent-vol-2-bonus-unit-kiesel.json) |
@@ -785,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure In Aellion | 117691 | [117691-adventure-in-aellion.json](./117691-adventure-in-aellion.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
 | Adventure Inlay: Safari Edition | 52550 | [52550-adventure-inlay-safari-edition.json](./52550-adventure-inlay-safari-edition.json) |
+| Adventure Island II | 6471 | [6471-adventure-island-ii.json](./6471-adventure-island-ii.json) |
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
 | Adventure Llama | 104463 | [104463-adventure-llama.json](./104463-adventure-llama.json) |
 | Adventure Maker: Runiya | 107638 | [107638-adventure-maker-runiya.json](./107638-adventure-maker-runiya.json) |
@@ -988,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires II: HD Edition - The Forgotten | 9951 | [9951-age-of-empires-ii-hd-edition-the-forgotten.json](./9951-age-of-empires-ii-hd-edition-the-forgotten.json) |
 | Age of Empires II: The Conquerors | 599 | [599-age-of-empires-ii-the-conquerors.json](./599-age-of-empires-ii-the-conquerors.json) |
 | Age of Empires III Mobile | 144347 | [144347-age-of-empires-iii-mobile.json](./144347-age-of-empires-iii-mobile.json) |
+| Age of Empires III: Definitive Edition | 55057 | [55057-age-of-empires-iii-definitive-edition.json](./55057-age-of-empires-iii-definitive-edition.json) |
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
 | Age of Empires III: The Asian Dynasties Mobile | 145574 | [145574-age-of-empires-iii-the-asian-dynasties-mobile.json](./145574-age-of-empires-iii-the-asian-dynasties-mobile.json) |
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
@@ -1004,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Talisman | 26954 | [26954-age-of-talisman.json](./26954-age-of-talisman.json) |
 | Age of Time | 254542 | [254542-age-of-time.json](./254542-age-of-time.json) |
 | Age of Warscape | 28209 | [28209-age-of-warscape.json](./28209-age-of-warscape.json) |
+| Age of Wonders | 589 | [589-age-of-wonders.json](./589-age-of-wonders.json) |
 | Age of Wonders 4: Empires & Ashes | 259051 | [259051-age-of-wonders-4-empires-and-ashes.json](./259051-age-of-wonders-4-empires-and-ashes.json) |
 | Age of Wonders 4: Expansion Pass | 293731 | [293731-age-of-wonders-4-expansion-pass.json](./293731-age-of-wonders-4-expansion-pass.json) |
 | Age of Wonders III | 5652 | [5652-age-of-wonders-iii.json](./5652-age-of-wonders-iii.json) |
@@ -3928,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arindama | 378898 | [378898-arindama.json](./378898-arindama.json) |
 | Arinn | 261787 | [261787-arinn.json](./261787-arinn.json) |
 | Aripi | 158136 | [158136-aripi.json](./158136-aripi.json) |
+| Arise: A Simple Story | 122563 | [122563-arise-a-simple-story.json](./122563-arise-a-simple-story.json) |
 | Arise: A Simple Story - Definitive Edition | 199171 | [199171-arise-a-simple-story-definitive-edition.json](./199171-arise-a-simple-story-definitive-edition.json) |
 | Arisen Force: Life Devotee of Wukong | 322972 | [322972-arisen-force-life-devotee-of-wukong.json](./322972-arisen-force-life-devotee-of-wukong.json) |
 | Arisen Force: LifeDevotee | 366210 | [366210-arisen-force-lifedevotee.json](./366210-arisen-force-lifedevotee.json) |
@@ -4912,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom Universe | 18180 | [18180-atom-universe.json](./18180-atom-universe.json) |
 | Atom-X | 111755 | [111755-atom-x.json](./111755-atom-x.json) |
 | Atomaders | 94264 | [94264-atomaders.json](./94264-atomaders.json) |
+| Atomfall | 305159 | [305159-atomfall.json](./305159-atomfall.json) |
 | Atomfall: Wicked Isle | 344476 | [344476-atomfall-wicked-isle.json](./344476-atomfall-wicked-isle.json) |
 | AtomHex | 67943 | [67943-atomhex.json](./67943-atomhex.json) |
 | Atomic 79 | 30119 | [30119-atomic-79.json](./30119-atomic-79.json) |
