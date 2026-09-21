@@ -2234,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner Extra | 109027 | [109027-lode-runner-extra.json](./109027-lode-runner-extra.json) |
 | Lode Runner Legacy | 37008 | [37008-lode-runner-legacy.json](./37008-lode-runner-legacy.json) |
 | Lode Runner: Domdom Dan no Yabou! | 109026 | [109026-lode-runner-domdom-dan-no-yabou.json](./109026-lode-runner-domdom-dan-no-yabou.json) |
+| Lode Runner: Lost Labyrinth | 64123 | [64123-lode-runner-lost-labyrinth.json](./64123-lode-runner-lost-labyrinth.json) |
 | Lodestone: The crazy cave adventures of mad Stony Tony and his encounter with the exploding rolling stones | 130188 | [130188-lodestone-the-crazy-cave-adventures-of-mad-stony-tony-and-his-encounter-with-the-exploding-rolling-stones.json](./130188-lodestone-the-crazy-cave-adventures-of-mad-stony-tony-and-his-encounter-with-the-exploding-rolling-stones.json) |
 | Lodge | 351692 | [351692-lodge.json](./351692-lodge.json) |
 | Lodoss-tou Senki: Eiyuu Kishiden GB | 80222 | [80222-lodoss-tou-senki-eiyuu-kishiden-gb.json](./80222-lodoss-tou-senki-eiyuu-kishiden-gb.json) |
