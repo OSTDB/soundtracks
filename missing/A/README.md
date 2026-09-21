@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronaut | 178522 | [178522-aeronaut.json](./178522-aeronaut.json) |
 | Aeronautica Imperialis: Flight Command - Skulls Pack | 162754 | [162754-aeronautica-imperialis-flight-command-skulls-pack.json](./162754-aeronautica-imperialis-flight-command-skulls-pack.json) |
 | Aerospace Forces | 101387 | [101387-aerospace-forces.json](./101387-aerospace-forces.json) |
+| AeroWings 2: Airstrike | 3708 | [3708-aerowings-2-airstrike.json](./3708-aerowings-2-airstrike.json) |
 | Aery: Ancient Empires | 283897 | [283897-aery-ancient-empires.json](./283897-aery-ancient-empires.json) |
 | Aery: Best of Bundle | 302512 | [302512-aery-best-of-bundle.json](./302512-aery-best-of-bundle.json) |
 | Aery: Calm Mind | 153831 | [153831-aery-calm-mind.json](./153831-aery-calm-mind.json) |
@@ -1606,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Engine | 207897 | [207897-alien-engine.json](./207897-alien-engine.json) |
 | Alien Extraction | 195691 | [195691-alien-extraction.json](./195691-alien-extraction.json) |
 | Alien Fish World VR | 379446 | [379446-alien-fish-world-vr.json](./379446-alien-fish-world-vr.json) |
+| Alien Front Online | 3711 | [3711-alien-front-online.json](./3711-alien-front-online.json) |
 | Alien Frontier | 240500 | [240500-alien-frontier.json](./240500-alien-frontier.json) |
 | Alien Galaxy Clicker | 58255 | [58255-alien-galaxy-clicker.json](./58255-alien-galaxy-clicker.json) |
 | Alien Gate | 46611 | [46611-alien-gate.json](./46611-alien-gate.json) |
@@ -3307,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Bubble 2 | 70927 | [70927-aqua-bubble-2.json](./70927-aqua-bubble-2.json) |
 | Aqua Forest | 72989 | [72989-aqua-forest.json](./72989-aqua-forest.json) |
 | Aqua Fry | 288331 | [288331-aqua-fry.json](./288331-aqua-fry.json) |
+| Aqua GT | 3714 | [3714-aqua-gt.json](./3714-aqua-gt.json) |
 | Aqua Journey | 176987 | [176987-aqua-journey.json](./176987-aqua-journey.json) |
 | Aqua Kitty DX: Pawsome Bundle | 118853 | [118853-aqua-kitty-dx-pawsome-bundle.json](./118853-aqua-kitty-dx-pawsome-bundle.json) |
 | Aqua Marbles: Ocean | 240804 | [240804-aqua-marbles-ocean.json](./240804-aqua-marbles-ocean.json) |
@@ -4948,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Mutant Camels '89 | 318633 | [318633-attack-of-the-mutant-camels-89.json](./318633-attack-of-the-mutant-camels-89.json) |
 | Attack of the Mutant Penguins | 40819 | [40819-attack-of-the-mutant-penguins.json](./40819-attack-of-the-mutant-penguins.json) |
 | Attack of the Petscii Robots | 159163 | [159163-attack-of-the-petscii-robots.json](./159163-attack-of-the-petscii-robots.json) |
+| Attack of the Saucerman | 4143 | [4143-attack-of-the-saucerman.json](./4143-attack-of-the-saucerman.json) |
 | Attack of the Toy Tanks | 120178 | [120178-attack-of-the-toy-tanks.json](./120178-attack-of-the-toy-tanks.json) |
 | Attack of the Trafalas | 213435 | [213435-attack-of-the-trafalas.json](./213435-attack-of-the-trafalas.json) |
 | Attack of the Trolls! | 234713 | [234713-attack-of-the-trolls.json](./234713-attack-of-the-trolls.json) |
@@ -4991,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Offroad Fury: Blazin' Trails | 8272 | [8272-atv-offroad-fury-blazin-trails.json](./8272-atv-offroad-fury-blazin-trails.json) |
 | ATV Pure | 99978 | [99978-atv-pure.json](./99978-atv-pure.json) |
 | ATV Quad Frenzy | 69810 | [69810-atv-quad-frenzy.json](./69810-atv-quad-frenzy.json) |
+| ATV Quad Power Racing | 4142 | [4142-atv-quad-power-racing.json](./4142-atv-quad-power-racing.json) |
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
 | Atypian | 369046 | [369046-atypian.json](./369046-atypian.json) |
 | Au Sable | 125855 | [125855-au-sable.json](./125855-au-sable.json) |
