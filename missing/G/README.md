@@ -3306,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilds n Glory | 213001 | [213001-guilds-n-glory.json](./213001-guilds-n-glory.json) |
 | Guilds of Gods | 130775 | [130775-guilds-of-gods.json](./130775-guilds-of-gods.json) |
 | Guilds of Mountgate | 405523 | [405523-guilds-of-mountgate.json](./405523-guilds-of-mountgate.json) |
+| Guile | 13249 | [13249-guile.json](./13249-guile.json) |
 | Guillermo Tell | 146307 | [146307-guillermo-tell.json](./146307-guillermo-tell.json) |
 | Guilt | 345521 | [345521-guilt.json](./345521-guilt.json) |
 | Guilty | 215389 | [215389-guilty.json](./215389-guilty.json) |
