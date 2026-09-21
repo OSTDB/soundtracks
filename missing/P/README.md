@@ -2007,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickochet | 388959 | [388959-pickochet.json](./388959-pickochet.json) |
 | Pickup One | 202753 | [202753-pickup-one.json](./202753-pickup-one.json) |
 | Pickup Point Simulator | 304613 | [304613-pickup-point-simulator.json](./304613-pickup-point-simulator.json) |
+| Picnic | 22817 | [22817-picnic.json](./22817-picnic.json) |
 | Picnic Syndrome | 341578 | [341578-picnic-syndrome.json](./341578-picnic-syndrome.json) |
 | Picnic Wars | 20805 | [20805-picnic-wars.json](./20805-picnic-wars.json) |
 | Pico de Pon | 279771 | [279771-pico-de-pon.json](./279771-pico-de-pon.json) |
@@ -4007,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porcupine's Fate: Chapter 1 | 196694 | [196694-porcupines-fate-chapter-1.json](./196694-porcupines-fate-chapter-1.json) |
 | Porgy | 318416 | [318416-porgy.json](./318416-porgy.json) |
 | Porkerpillar | 89209 | [89209-porkerpillar.json](./89209-porkerpillar.json) |
+| Porky's | 22761 | [22761-porkys.json](./22761-porkys.json) |
 | Porno Empire | 270786 | [270786-porno-empire.json](./270786-porno-empire.json) |
 | Pornocrates | 158065 | [158065-pornocrates.json](./158065-pornocrates.json) |
 | Porntris | 299467 | [299467-porntris.json](./299467-porntris.json) |
@@ -4389,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prepare the First RPG Village: The Adventures of Nyanzou&Kumakichi - Escape Game Series | 173143 | [173143-prepare-the-first-rpg-village-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json](./173143-prepare-the-first-rpg-village-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json) |
 | Prepare to Dine | 28140 | [28140-prepare-to-dine.json](./28140-prepare-to-dine.json) |
 | Prepper | 229790 | [229790-prepper.json](./229790-prepper.json) |
+| Preppie! | 22766 | [22766-preppie.json](./22766-preppie.json) |
 | Preppie! II | 23684 | [23684-preppie-ii.json](./23684-preppie-ii.json) |
 | Prequel | 388971 | [388971-prequel.json](./388971-prequel.json) |
 | Preschool & Kindergarten 2 | 88279 | [88279-preschool-and-kindergarten-2.json](./88279-preschool-and-kindergarten-2.json) |
@@ -4548,6 +4551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess and the Ice Dragon | 237660 | [237660-princess-and-the-ice-dragon.json](./237660-princess-and-the-ice-dragon.json) |
 | Princess Burst | 382279 | [382279-princess-burst.json](./382279-princess-burst.json) |
 | Princess Coloring Book + | 87326 | [87326-princess-coloring-book.json](./87326-princess-coloring-book.json) |
+| Princess Connect! | 22792 | [22792-princess-connect.json](./22792-princess-connect.json) |
 | Princess Edge: Dragonstone | 26525 | [26525-princess-edge-dragonstone.json](./26525-princess-edge-dragonstone.json) |
 | Princess Evangile W Happiness | 140525 | [140525-princess-evangile-w-happiness.json](./140525-princess-evangile-w-happiness.json) |
 | Princess Evangile W Happiness | 43360 | [43360-princess-evangile-w-happiness.json](./43360-princess-evangile-w-happiness.json) |
@@ -4868,6 +4872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Atlas | 142385 | [142385-project-atlas.json](./142385-project-atlas.json) |
 | Project Atlas | 387321 | [387321-project-atlas.json](./387321-project-atlas.json) |
 | Project Atno | 272947 | [272947-project-atno.json](./272947-project-atno.json) |
+| Project Awakening | 22790 | [22790-project-awakening.json](./22790-project-awakening.json) |
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
 | Project Backrooms | 236529 | [236529-project-backrooms.json](./236529-project-backrooms.json) |
 | Project Battle | 37378 | [37378-project-battle.json](./37378-project-battle.json) |
