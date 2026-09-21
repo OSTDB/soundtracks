@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Attack | 117473 | [117473-magical-girl-attack.json](./117473-magical-girl-attack.json) |
 | Magical Girl Konoha | 261828 | [261828-magical-girl-konoha.json](./261828-magical-girl-konoha.json) |
 | Magical Girl Leaky Sara | 58810 | [58810-magical-girl-leaky-sara.json](./58810-magical-girl-leaky-sara.json) |
+| Magical Girl Lyrical Nanoha A's Portable: The Battle of Aces | 42836 | [42836-magical-girl-lyrical-nanoha-as-portable-the-battle-of-aces.json](./42836-magical-girl-lyrical-nanoha-as-portable-the-battle-of-aces.json) |
 | Magical Girl Momo | 82820 | [82820-magical-girl-momo.json](./82820-magical-girl-momo.json) |
 | Magical Girl Noble Rose | 173817 | [173817-magical-girl-noble-rose.json](./173817-magical-girl-noble-rose.json) |
 | Magical Girl Opal | 354444 | [354444-magical-girl-opal.json](./354444-magical-girl-opal.json) |
@@ -4996,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Showdown: The Odd Couple | 308822 | [308822-monster-jam-showdown-the-odd-couple.json](./308822-monster-jam-showdown-the-odd-couple.json) |
 | Monster Jam Showdown: Yeti | 332228 | [332228-monster-jam-showdown-yeti.json](./332228-monster-jam-showdown-yeti.json) |
 | Monster Jam Steel Titans 2: Inverse Truck Pack | 223548 | [223548-monster-jam-steel-titans-2-inverse-truck-pack.json](./223548-monster-jam-steel-titans-2-inverse-truck-pack.json) |
+| Monster Kingdom: Jewel Summoner | 42890 | [42890-monster-kingdom-jewel-summoner.json](./42890-monster-kingdom-jewel-summoner.json) |
 | Monster Knockout | 224755 | [224755-monster-knockout.json](./224755-monster-knockout.json) |
 | Monster Knockout: Bounce DLC | 361774 | [361774-monster-knockout-bounce-dlc.json](./361774-monster-knockout-bounce-dlc.json) |
 | Monster Knockout: Idle DLC | 361773 | [361773-monster-knockout-idle-dlc.json](./361773-monster-knockout-idle-dlc.json) |
