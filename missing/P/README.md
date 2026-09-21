@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox! | 329952 | [329952-paradox.json](./329952-paradox.json) |
 | Paradoxical Heat | 327179 | [327179-paradoxical-heat.json](./327179-paradoxical-heat.json) |
 | Paradroid | 22518 | [22518-paradroid.json](./22518-paradroid.json) |
+| Paradroid 90 | 13253 | [13253-paradroid-90.json](./13253-paradroid-90.json) |
 | Paragnosia | 320184 | [320184-paragnosia.json](./320184-paragnosia.json) |
 | Paragon of Time | 339907 | [339907-paragon-of-time.json](./339907-paragon-of-time.json) |
 | Paragon Pioneers | 206351 | [206351-paragon-pioneers.json](./206351-paragon-pioneers.json) |
@@ -5671,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Dragons Nintendo Switch Edition | 191724 | [191724-puzzle-and-dragons-nintendo-switch-edition.json](./191724-puzzle-and-dragons-nintendo-switch-edition.json) |
 | Puzzle & Dragons Story | 279762 | [279762-puzzle-and-dragons-story.json](./279762-puzzle-and-dragons-story.json) |
 | Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition | 85357 | [85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json](./85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json) |
+| Puzzle & Glory | 13105 | [13105-puzzle-and-glory.json](./13105-puzzle-and-glory.json) |
 | Puzzle & Maze | 152870 | [152870-puzzle-and-maze.json](./152870-puzzle-and-maze.json) |
 | Puzzle & Monarch | 345589 | [345589-puzzle-and-monarch.json](./345589-puzzle-and-monarch.json) |
 | Puzzle 3D | 88180 | [88180-puzzle-3d.json](./88180-puzzle-3d.json) |
