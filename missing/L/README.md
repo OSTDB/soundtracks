@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Las Vegas | 41423 | [41423-las-vegas.json](./41423-las-vegas.json) |
 | Las Vegas | 91384 | [91384-las-vegas.json](./91384-las-vegas.json) |
 | Las Vegas Gambling | 47291 | [47291-las-vegas-gambling.json](./47291-las-vegas-gambling.json) |
+| Las Vegas Girls | 38568 | [38568-las-vegas-girls.json](./38568-las-vegas-girls.json) |
 | Las Vegas Roulette | 47278 | [47278-las-vegas-roulette.json](./47278-las-vegas-roulette.json) |
 | Laser | 322581 | [322581-laser.json](./322581-laser.json) |
 | Laser Arena | 9060 | [9060-laser-arena.json](./9060-laser-arena.json) |
@@ -1528,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Bearers 2 | 303629 | [303629-light-bearers-2.json](./303629-light-bearers-2.json) |
 | Light Box | 295903 | [295903-light-box.json](./295903-light-box.json) |
 | Light Bringer | 199516 | [199516-light-bringer.json](./199516-light-bringer.json) |
+| Light Bringer | 38575 | [38575-light-bringer.json](./38575-light-bringer.json) |
 | Light Catcher | 100226 | [100226-light-catcher.json](./100226-light-catcher.json) |
 | Light Chaser: End of Dawn | 108269 | [108269-light-chaser-end-of-dawn.json](./108269-light-chaser-end-of-dawn.json) |
 | Light Cubed | 121443 | [121443-light-cubed.json](./121443-light-cubed.json) |
