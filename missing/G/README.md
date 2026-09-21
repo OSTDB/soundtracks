@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garenburg Woods | 75915 | [75915-garenburg-woods.json](./75915-garenburg-woods.json) |
 | Garetto | 163917 | [163917-garetto.json](./163917-garetto.json) |
 | Garfield | 179595 | [179595-garfield.json](./179595-garfield.json) |
+| Garfield 2 | 43528 | [43528-garfield-2.json](./43528-garfield-2.json) |
 | Garfield 2: Royal Adventure | 309657 | [309657-garfield-2-royal-adventure.json](./309657-garfield-2-royal-adventure.json) |
 | Garfield Collection 2 in 1 | 340739 | [340739-garfield-collection-2-in-1.json](./340739-garfield-collection-2-in-1.json) |
 | Garfield Kart 2: All You Can Drift | 345489 | [345489-garfield-kart-2-all-you-can-drift.json](./345489-garfield-kart-2-all-you-can-drift.json) |
@@ -641,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield: A Tail of Two Kitties - Odie's Photo Album Game | 325088 | [325088-garfield-a-tail-of-two-kitties-odies-photo-album-game.json](./325088-garfield-a-tail-of-two-kitties-odies-photo-album-game.json) |
 | Garfield: Big, Fat, Hairy Deal | 12111 | [12111-garfield-big-fat-hairy-deal.json](./12111-garfield-big-fat-hairy-deal.json) |
 | Garfield: Escape from Monday | 407405 | [407405-garfield-escape-from-monday.json](./407405-garfield-escape-from-monday.json) |
+| Garfield: Lasagna World Tour | 43545 | [43545-garfield-lasagna-world-tour.json](./43545-garfield-lasagna-world-tour.json) |
 | Garfield: Winter's Tail | 12112 | [12112-garfield-winters-tail.json](./12112-garfield-winters-tail.json) |
 | Garfield's Defense 2: The Food Invaders Strike Back | 63862 | [63862-garfields-defense-2-the-food-invaders-strike-back.json](./63862-garfields-defense-2-the-food-invaders-strike-back.json) |
 | Garfield's Defense: Attack of the Food Invaders | 63864 | [63864-garfields-defense-attack-of-the-food-invaders.json](./63864-garfields-defense-attack-of-the-food-invaders.json) |
@@ -3411,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunbrella: Deluxe Edition | 266822 | [266822-gunbrella-deluxe-edition.json](./266822-gunbrella-deluxe-edition.json) |
 | Guncaster | 142417 | [142417-guncaster.json](./142417-guncaster.json) |
 | Guncho | 275604 | [275604-guncho.json](./275604-guncho.json) |
+| Guncom 2 | 43532 | [43532-guncom-2.json](./43532-guncom-2.json) |
 | Guncrafter | 343805 | [343805-guncrafter.json](./343805-guncrafter.json) |
 | GunCrank | 414292 | [414292-guncrank.json](./414292-guncrank.json) |
 | Guncrypt | 405589 | [405589-guncrypt.json](./405589-guncrypt.json) |
@@ -3443,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfight Arena | 373003 | [373003-gunfight-arena.json](./373003-gunfight-arena.json) |
 | Gunfighter | 347675 | [347675-gunfighter.json](./347675-gunfighter.json) |
 | Gunfighter | 95448 | [95448-gunfighter.json](./95448-gunfighter.json) |
+| Gunfighter II: Revenge of Jesse James | 43531 | [43531-gunfighter-ii-revenge-of-jesse-james.json](./43531-gunfighter-ii-revenge-of-jesse-james.json) |
 | Gunfire Reborn: Artisan and Magician | 270764 | [270764-gunfire-reborn-artisan-and-magician.json](./270764-gunfire-reborn-artisan-and-magician.json) |
 | Gunfire Reborn: Realm of Frost and Inkwash | 316833 | [316833-gunfire-reborn-realm-of-frost-and-inkwash.json](./316833-gunfire-reborn-realm-of-frost-and-inkwash.json) |
 | Gunfire Reborn: Visitors of Spirit Realm | 213979 | [213979-gunfire-reborn-visitors-of-spirit-realm.json](./213979-gunfire-reborn-visitors-of-spirit-realm.json) |
