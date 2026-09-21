@@ -2748,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Perspective | 137602 | [137602-lost-perspective.json](./137602-lost-perspective.json) |
 | Lost Phone Stories | 105887 | [105887-lost-phone-stories.json](./105887-lost-phone-stories.json) |
 | Lost Pixel | 274536 | [274536-lost-pixel.json](./274536-lost-pixel.json) |
+| Lost Planet 2 | 1915 | [1915-lost-planet-2.json](./1915-lost-planet-2.json) |
 | Lost Planet 3 | 1916 | [1916-lost-planet-3.json](./1916-lost-planet-3.json) |
 | Lost Planet: Extreme Condition | 1913 | [1913-lost-planet-extreme-condition.json](./1913-lost-planet-extreme-condition.json) |
 | Lost Player | 185103 | [185103-lost-player.json](./185103-lost-player.json) |
