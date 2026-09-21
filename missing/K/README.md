@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom at War | 84254 | [84254-kingdom-at-war.json](./84254-kingdom-at-war.json) |
 | Kingdom Builder | 61049 | [61049-kingdom-builder.json](./61049-kingdom-builder.json) |
 | Kingdom Chronicles | 89714 | [89714-kingdom-chronicles.json](./89714-kingdom-chronicles.json) |
+| Kingdom Come: Deliverance - A Woman's Lot | 119899 | [119899-kingdom-come-deliverance-a-womans-lot.json](./119899-kingdom-come-deliverance-a-womans-lot.json) |
 | Kingdom Come: Deliverance - From the Ashes | 104985 | [104985-kingdom-come-deliverance-from-the-ashes.json](./104985-kingdom-come-deliverance-from-the-ashes.json) |
 | Kingdom Come: Deliverance - Limited Edition | 166176 | [166176-kingdom-come-deliverance-limited-edition.json](./166176-kingdom-come-deliverance-limited-edition.json) |
 | Kingdom Come: Deliverance - Royal DLC Package | 155078 | [155078-kingdom-come-deliverance-royal-dlc-package.json](./155078-kingdom-come-deliverance-royal-dlc-package.json) |
@@ -1264,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Adventure | 3717 | [3717-kirbys-adventure.json](./3717-kirbys-adventure.json) |
 | Kirby's Air Raid | 323917 | [323917-kirbys-air-raid.json](./323917-kirbys-air-raid.json) |
 | Kirby's Ballin' Adventure | 324102 | [324102-kirbys-ballin-adventure.json](./324102-kirbys-ballin-adventure.json) |
+| Kirby's Block Ball | 3728 | [3728-kirbys-block-ball.json](./3728-kirbys-block-ball.json) |
 | Kirby's Dream Collection Special Edition | 84168 | [84168-kirbys-dream-collection-special-edition.json](./84168-kirbys-dream-collection-special-edition.json) |
 | Kirby's Dream Land | 1063 | [1063-kirbys-dream-land.json](./1063-kirbys-dream-land.json) |
 | Kirby's Dream Land 3 | 3720 | [3720-kirbys-dream-land-3.json](./3720-kirbys-dream-land-3.json) |
@@ -1671,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KoiGig: Devil x Angel | 202373 | [202373-koigig-devil-x-angel.json](./202373-koigig-devil-x-angel.json) |
 | Koihana Bakumeiroku | 229034 | [229034-koihana-bakumeiroku.json](./229034-koihana-bakumeiroku.json) |
 | Koihime Enbu RyoRaiRai: Jokou and Kakuka | 159307 | [159307-koihime-enbu-ryorairai-jokou-and-kakuka.json](./159307-koihime-enbu-ryorairai-jokou-and-kakuka.json) |
+| Koikatsu Party | 119656 | [119656-koikatsu-party.json](./119656-koikatsu-party.json) |
 | Koikoi | 105266 | [105266-koikoi.json](./105266-koikoi.json) |
 | KoiKoi Revolution RX | 97850 | [97850-koikoi-revolution-rx.json](./97850-koikoi-revolution-rx.json) |
 | Koinori | 415117 | [415117-koinori.json](./415117-koinori.json) |
