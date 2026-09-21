@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperialism: The Dark Continent | 97113 | [97113-imperialism-the-dark-continent.json](./97113-imperialism-the-dark-continent.json) |
 | Imperialist | 400247 | [400247-imperialist.json](./400247-imperialist.json) |
 | Imperian | 78655 | [78655-imperian.json](./78655-imperian.json) |
+| Imperium Galactum | 25976 | [25976-imperium-galactum.json](./25976-imperium-galactum.json) |
 | Imperium Revolution | 188564 | [188564-imperium-revolution.json](./188564-imperium-revolution.json) |
 | Imperium Romanum | 20776 | [20776-imperium-romanum.json](./20776-imperium-romanum.json) |
 | Imperius | 195640 | [195640-imperius.json](./195640-imperius.json) |
@@ -1104,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indigenous | 26555 | [26555-indigenous.json](./26555-indigenous.json) |
 | Indignum | 397664 | [397664-indignum.json](./397664-indignum.json) |
 | Indigo | 257441 | [257441-indigo.json](./257441-indigo.json) |
+| Indigo | 25945 | [25945-indigo.json](./25945-indigo.json) |
 | Indigo | 388713 | [388713-indigo.json](./388713-indigo.json) |
 | Indigo Horizon | 336528 | [336528-indigo-horizon.json](./336528-indigo-horizon.json) |
 | Indigo Prohecy: 15th Anniversary Edition | 139933 | [139933-indigo-prohecy-15th-anniversary-edition.json](./139933-indigo-prohecy-15th-anniversary-edition.json) |
