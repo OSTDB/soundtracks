@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ichorian Tales | 415923 | [415923-ichorian-tales.json](./415923-ichorian-tales.json) |
 | Ichorless | 365180 | [365180-ichorless.json](./365180-ichorless.json) |
 | Icing: Love Coating | 194541 | [194541-icing-love-coating.json](./194541-icing-love-coating.json) |
+| Icity | 31157 | [31157-icity.json](./31157-icity.json) |
 | iClub Manager | 200159 | [200159-iclub-manager.json](./200159-iclub-manager.json) |
 | IClub Manager 2 | 175340 | [175340-iclub-manager-2.json](./175340-iclub-manager-2.json) |
 | Ico | 144612 | [144612-ico.json](./144612-ico.json) |
@@ -929,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Drmzzz | 225288 | [225288-in-drmzzz.json](./225288-in-drmzzz.json) |
 | In Essence: Nil - MaidxMan / Chapel | 340750 | [340750-in-essence-nil-maidxman-chapel.json](./340750-in-essence-nil-maidxman-chapel.json) |
 | In Extremis | 115429 | [115429-in-extremis.json](./115429-in-extremis.json) |
+| In Extremis | 31162 | [31162-in-extremis.json](./31162-in-extremis.json) |
 | In Extremis DX | 225759 | [225759-in-extremis-dx.json](./225759-in-extremis-dx.json) |
 | In Harness | 369083 | [369083-in-harness.json](./369083-in-harness.json) |
 | In Her Head | 276846 | [276846-in-her-head.json](./276846-in-her-head.json) |
