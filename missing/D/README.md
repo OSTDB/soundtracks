@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
 | Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
 | Dash Quest | 99402 | [99402-dash-quest.json](./99402-dash-quest.json) |
+| Dash till Puff 2 | 39229 | [39229-dash-till-puff-2.json](./39229-dash-till-puff-2.json) |
 | Dash Valley | 108447 | [108447-dash-valley.json](./108447-dash-valley.json) |
 | Dash x Survivors | 266276 | [266276-dash-x-survivors.json](./266276-dash-x-survivors.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
@@ -2478,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Jam | 291855 | [291855-devil-jam.json](./291855-devil-jam.json) |
 | Devil Legion: Battle war | 193889 | [193889-devil-legion-battle-war.json](./193889-devil-legion-battle-war.json) |
 | Devil Mail | 318758 | [318758-devil-mail.json](./318758-devil-mail.json) |
+| Devil Maker: Tokyo | 39183 | [39183-devil-maker-tokyo.json](./39183-devil-maker-tokyo.json) |
 | Devil May Cry | 302712 | [302712-devil-may-cry.json](./302712-devil-may-cry.json) |
 | Devil May Cry 2 | 135 | [135-devil-may-cry-2.json](./135-devil-may-cry-2.json) |
 | Devil May Cry 3: Dante's Awakening - Special Edition | 218390 | [218390-devil-may-cry-3-dantes-awakening-special-edition.json](./218390-devil-may-cry-3-dantes-awakening-special-edition.json) |
