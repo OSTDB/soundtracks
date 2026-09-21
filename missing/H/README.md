@@ -2493,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highland Panic | 248077 | [248077-highland-panic.json](./248077-highland-panic.json) |
 | Highlander | 28851 | [28851-highlander.json](./28851-highlander.json) |
 | Highlander: The Gathering | 67240 | [67240-highlander-the-gathering.json](./67240-highlander-the-gathering.json) |
+| Highnoon | 11304 | [11304-highnoon.json](./11304-highnoon.json) |
 | Highpoint | 202917 | [202917-highpoint.json](./202917-highpoint.json) |
 | Highreach | 348331 | [348331-highreach.json](./348331-highreach.json) |
 | Highrise | 292832 | [292832-highrise.json](./292832-highrise.json) |
