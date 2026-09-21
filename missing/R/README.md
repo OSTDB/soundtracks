@@ -499,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Master Pro | 91897 | [91897-rally-master-pro.json](./91897-rally-master-pro.json) |
 | Rally of Rockets | 112330 | [112330-rally-of-rockets.json](./112330-rally-of-rockets.json) |
 | Rally Point 3 | 237953 | [237953-rally-point-3.json](./237953-rally-point-3.json) |
+| Rally Poland | 62454 | [62454-rally-poland.json](./62454-rally-poland.json) |
 | Rally Pro Contest | 325692 | [325692-rally-pro-contest.json](./325692-rally-pro-contest.json) |
 | Rally Racer: Offroad Racing Car Game | 153822 | [153822-rally-racer-offroad-racing-car-game.json](./153822-rally-racer-offroad-racing-car-game.json) |
 | Rally Racers | 76648 | [76648-rally-racers.json](./76648-rally-racers.json) |
@@ -3481,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Football: Royale Lands | 368558 | [368558-room-football-royale-lands.json](./368558-room-football-royale-lands.json) |
 | Room Football: Wetlands | 339282 | [339282-room-football-wetlands.json](./339282-room-football-wetlands.json) |
 | Room For One! | 367478 | [367478-room-for-one.json](./367478-room-for-one.json) |
+| Room of 1000 Snakes | 62436 | [62436-room-of-1000-snakes.json](./62436-room-of-1000-snakes.json) |
 | Room of Halloween | 229153 | [229153-room-of-halloween.json](./229153-room-of-halloween.json) |
 | Room of Roilands | 177501 | [177501-room-of-roilands.json](./177501-room-of-roilands.json) |
 | Room231 | 297206 | [297206-room231.json](./297206-room231.json) |
