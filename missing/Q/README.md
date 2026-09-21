@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadrax III | 69590 | [69590-quadrax-iii.json](./69590-quadrax-iii.json) |
 | Quadremor | 235977 | [235977-quadremor.json](./235977-quadremor.json) |
 | Quadrilateral Battle | 174846 | [174846-quadrilateral-battle.json](./174846-quadrilateral-battle.json) |
+| Quadrilateral Cowboy: Deluxe Edition | 53486 | [53486-quadrilateral-cowboy-deluxe-edition.json](./53486-quadrilateral-cowboy-deluxe-edition.json) |
 | Quadrium | 244865 | [244865-quadrium.json](./244865-quadrium.json) |
 | Quadrium 3 | 287228 | [287228-quadrium-3.json](./287228-quadrium-3.json) |
 | Quadrivium: Paths of History | 341317 | [341317-quadrivium-paths-of-history.json](./341317-quadrivium-paths-of-history.json) |
@@ -219,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quebrantar: The Black Swamp | 315696 | [315696-quebrantar-the-black-swamp.json](./315696-quebrantar-the-black-swamp.json) |
 | Quecksilber | 245872 | [245872-quecksilber.json](./245872-quecksilber.json) |
 | Queen Ant Perfume Episode 0: The Mad Love of Jack the Ripper | 339111 | [339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json](./339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json) |
+| Queen At Arms: Deluxe Edition | 53488 | [53488-queen-at-arms-deluxe-edition.json](./53488-queen-at-arms-deluxe-edition.json) |
 | Queen Elsa and Her Horse Girl Games | 107862 | [107862-queen-elsa-and-her-horse-girl-games.json](./107862-queen-elsa-and-her-horse-girl-games.json) |
 | Queen Frances and the Rat Rebellion | 112307 | [112307-queen-frances-and-the-rat-rebellion.json](./112307-queen-frances-and-the-rat-rebellion.json) |
 | Queen Mary's Script Retold | 215778 | [215778-queen-marys-script-retold.json](./215778-queen-marys-script-retold.json) |
@@ -235,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Quest 2: Stories of Forgotten Past | 30424 | [30424-queens-quest-2-stories-of-forgotten-past.json](./30424-queens-quest-2-stories-of-forgotten-past.json) |
 | Queen's Quest 2: Stories of Forgotten Past - Collector's Edition | 343352 | [343352-queens-quest-2-stories-of-forgotten-past-collectors-edition.json](./343352-queens-quest-2-stories-of-forgotten-past-collectors-edition.json) |
 | Queen's Quest 4: Sacred Truce | 97109 | [97109-queens-quest-4-sacred-truce.json](./97109-queens-quest-4-sacred-truce.json) |
+| Queen's Quest Collection | 53489 | [53489-queens-quest-collection.json](./53489-queens-quest-collection.json) |
 | Queen's Tales: Sins of the Past HD | 108963 | [108963-queens-tales-sins-of-the-past-hd.json](./108963-queens-tales-sins-of-the-past-hd.json) |
 | Queen's Wish: The Conqueror | 109539 | [109539-queens-wish-the-conqueror.json](./109539-queens-wish-the-conqueror.json) |
 | Queenchantment | 192801 | [192801-queenchantment.json](./192801-queenchantment.json) |
