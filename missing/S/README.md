@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saviors of Sapphire Wings | 117732 | [117732-saviors-of-sapphire-wings.json](./117732-saviors-of-sapphire-wings.json) |
 | Savvy | 410904 | [410904-savvy.json](./410904-savvy.json) |
 | Saw Counter | 347112 | [347112-saw-counter.json](./347112-saw-counter.json) |
+| Saw II: Flesh & Blood | 7177 | [7177-saw-ii-flesh-and-blood.json](./7177-saw-ii-flesh-and-blood.json) |
 | Saw Lab | 290692 | [290692-saw-lab.json](./290692-saw-lab.json) |
 | Sawdust | 219612 | [219612-sawdust.json](./219612-sawdust.json) |
 | Sawdust | 314039 | [314039-sawdust.json](./314039-sawdust.json) |
@@ -5484,6 +5485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Crusade | 45908 | [45908-solar-crusade.json](./45908-solar-crusade.json) |
 | Solar Echoes: The Star Legation | 149056 | [149056-solar-echoes-the-star-legation.json](./149056-solar-echoes-the-star-legation.json) |
 | Solar Expanse | 219595 | [219595-solar-expanse.json](./219595-solar-expanse.json) |
+| Solar Jetman: Hunt for the Golden Warpship | 7853 | [7853-solar-jetman-hunt-for-the-golden-warpship.json](./7853-solar-jetman-hunt-for-the-golden-warpship.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
 | Solar Minotaur Rescue Frenzy | 66133 | [66133-solar-minotaur-rescue-frenzy.json](./66133-solar-minotaur-rescue-frenzy.json) |
 | Solar Pall | 267443 | [267443-solar-pall.json](./267443-solar-pall.json) |
@@ -5823,6 +5825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Boom | 12855 | [12855-sonic-boom.json](./12855-sonic-boom.json) |
 | Sonic Boom Cannon | 297603 | [297603-sonic-boom-cannon.json](./297603-sonic-boom-cannon.json) |
 | Sonic Boom Cannon 2 | 297604 | [297604-sonic-boom-cannon-2.json](./297604-sonic-boom-cannon-2.json) |
+| Sonic Boom: Shattered Crystal | 7855 | [7855-sonic-boom-shattered-crystal.json](./7855-sonic-boom-shattered-crystal.json) |
 | Sonic Bowling | 261248 | [261248-sonic-bowling.json](./261248-sonic-bowling.json) |
 | Sonic Bowling | 261293 | [261293-sonic-bowling.json](./261293-sonic-bowling.json) |
 | Sonic Breaking Point | 370212 | [370212-sonic-breaking-point.json](./370212-sonic-breaking-point.json) |
@@ -6004,6 +6007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Blast 2: Top Down | 282704 | [282704-sonic-robo-blast-2-top-down.json](./282704-sonic-robo-blast-2-top-down.json) |
 | Sonic Robo Christmas Blast | 280224 | [280224-sonic-robo-christmas-blast.json](./280224-sonic-robo-christmas-blast.json) |
 | Sonic Roller 1 & 2 Deluxe | 330550 | [330550-sonic-roller-1-and-2-deluxe.json](./330550-sonic-roller-1-and-2-deluxe.json) |
+| Sonic Rumble Party | 300454 | [300454-sonic-rumble-party.json](./300454-sonic-rumble-party.json) |
 | Sonic Run 3 | 331983 | [331983-sonic-run-3.json](./331983-sonic-run-3.json) |
 | Sonic Runners Revival | 205607 | [205607-sonic-runners-revival.json](./205607-sonic-runners-revival.json) |
 | Sonic Rush | 19258 | [19258-sonic-rush.json](./19258-sonic-rush.json) |
@@ -6772,6 +6776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
 | Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
 | Space Run | 202768 | [202768-space-run.json](./202768-space-run.json) |
+| Space Run: Fast and Safe Delivery | 7421 | [7421-space-run-fast-and-safe-delivery.json](./7421-space-run-fast-and-safe-delivery.json) |
 | Space runner | 27903 | [27903-space-runner.json](./27903-space-runner.json) |
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
 | Space Science Investigations | 215211 | [215211-space-science-investigations.json](./215211-space-science-investigations.json) |
@@ -12155,6 +12160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sympathia | 277608 | [277608-sympathia.json](./277608-sympathia.json) |
 | Symphonica | 63584 | [63584-symphonica.json](./63584-symphonica.json) |
 | Symphonics | 107934 | [107934-symphonics.json](./107934-symphonics.json) |
+| Symphony | 7401 | [7401-symphony.json](./7401-symphony.json) |
 | Symphony of Science | 271850 | [271850-symphony-of-science.json](./271850-symphony-of-science.json) |
 | Symphony of Souls | 253573 | [253573-symphony-of-souls.json](./253573-symphony-of-souls.json) |
 | Symphony of War: Legends | 252370 | [252370-symphony-of-war-legends.json](./252370-symphony-of-war-legends.json) |
