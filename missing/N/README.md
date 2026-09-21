@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nations of Darkness | 233484 | [233484-nations-of-darkness.json](./233484-nations-of-darkness.json) |
 | Nations: WWII Fighter Command | 62210 | [62210-nations-wwii-fighter-command.json](./62210-nations-wwii-fighter-command.json) |
 | NATO Commander | 24988 | [24988-nato-commander.json](./24988-nato-commander.json) |
+| Nato defense | 40991 | [40991-nato-defense.json](./40991-nato-defense.json) |
 | Natsu Ecchi 2: Futago to Inaka no Natsuyasumi | 109001 | [109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json](./109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json) |
 | Natsu Koi High Pressure | 194597 | [194597-natsu-koi-high-pressure.json](./194597-natsu-koi-high-pressure.json) |
 | Natsu no Hi no Resonance | 201810 | [201810-natsu-no-hi-no-resonance.json](./201810-natsu-no-hi-no-resonance.json) |
@@ -357,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty | 348778 | [348778-naughty.json](./348778-naughty.json) |
 | Naughty & Nice | 283732 | [283732-naughty-and-nice.json](./283732-naughty-and-nice.json) |
 | Naughty Bear | 2633 | [2633-naughty-bear.json](./2633-naughty-bear.json) |
+| Naughty Boy | 40990 | [40990-naughty-boy.json](./40990-naughty-boy.json) |
 | Naughty College 18+ | 258984 | [258984-naughty-college-18.json](./258984-naughty-college-18.json) |
 | Naughty Kitties | 19593 | [19593-naughty-kitties.json](./19593-naughty-kitties.json) |
 | Naughty Tales of Rabbits: A Cuckold RPG | 301986 | [301986-naughty-tales-of-rabbits-a-cuckold-rpg.json](./301986-naughty-tales-of-rabbits-a-cuckold-rpg.json) |
@@ -658,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbours: The Adventure | 267373 | [267373-neighbours-the-adventure.json](./267373-neighbours-the-adventure.json) |
 | Neil The Nail | 270742 | [270742-neil-the-nail.json](./270742-neil-the-nail.json) |
 | Nekketsu Dodgeball-bu i | 191804 | [191804-nekketsu-dodgeball-bu-i.json](./191804-nekketsu-dodgeball-bu-i.json) |
+| Nekketsu Kouha Kunio-kun | 40969 | [40969-nekketsu-kouha-kunio-kun.json](./40969-nekketsu-kouha-kunio-kun.json) |
 | Nekketsu Koukou Dodgeball-bu | 191741 | [191741-nekketsu-koukou-dodgeball-bu.json](./191741-nekketsu-koukou-dodgeball-bu.json) |
 | Nekketsu Koukou Dodgeball-bu: PC Bangai-hen | 191740 | [191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json](./191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json) |
 | Nekketsu Koukou Dodgeball-bu: Soccer-hen | 191746 | [191746-nekketsu-koukou-dodgeball-bu-soccer-hen.json](./191746-nekketsu-koukou-dodgeball-bu-soccer-hen.json) |
@@ -906,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
 | Nephise: Ascension | 88057 | [88057-nephise-ascension.json](./88057-nephise-ascension.json) |
 | Neptune Island | 319796 | [319796-neptune-island.json](./319796-neptune-island.json) |
+| Neptune's Daughters | 40958 | [40958-neptunes-daughters.json](./40958-neptunes-daughters.json) |
 | Neptune's Pride | 65746 | [65746-neptunes-pride.json](./65746-neptunes-pride.json) |
 | Neptune's Pride II: Triton | 62443 | [62443-neptunes-pride-ii-triton.json](./62443-neptunes-pride-ii-triton.json) |
 | Neptune's Secret | 210039 | [210039-neptunes-secret.json](./210039-neptunes-secret.json) |
@@ -913,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia reVerse | 139072 | [139072-neptunia-reverse.json](./139072-neptunia-reverse.json) |
 | Neptunia: Virtual Stars | 135338 | [135338-neptunia-virtual-stars.json](./135338-neptunia-virtual-stars.json) |
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
+| Neratte chu | 40989 | [40989-neratte-chu.json](./40989-neratte-chu.json) |
 | Nerds & Ammo | 391585 | [391585-nerds-and-ammo.json](./391585-nerds-and-ammo.json) |
 | Nerds Rope: Follow the Leader Game | 373535 | [373535-nerds-rope-follow-the-leader-game.json](./373535-nerds-rope-follow-the-leader-game.json) |
 | Nerdtastic Norman & The Soul Fragments | 295400 | [295400-nerdtastic-norman-and-the-soul-fragments.json](./295400-nerdtastic-norman-and-the-soul-fragments.json) |
@@ -1512,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare House: The Original Mod | 321582 | [321582-nightmare-house-the-original-mod.json](./321582-nightmare-house-the-original-mod.json) |
 | Nightmare Hunter | 207344 | [207344-nightmare-hunter.json](./207344-nightmare-hunter.json) |
 | Nightmare Hunter | 211259 | [211259-nightmare-hunter.json](./211259-nightmare-hunter.json) |
+| Nightmare in the Dark | 40992 | [40992-nightmare-in-the-dark.json](./40992-nightmare-in-the-dark.json) |
 | Nightmare Invasion | 352749 | [352749-nightmare-invasion.json](./352749-nightmare-invasion.json) |
 | Nightmare Kitchen | 334501 | [334501-nightmare-kitchen.json](./334501-nightmare-kitchen.json) |
 | Nightmare Knight: Sacred Maiden & Fallen Magic | 270955 | [270955-nightmare-knight-sacred-maiden-and-fallen-magic.json](./270955-nightmare-knight-sacred-maiden-and-fallen-magic.json) |
@@ -1649,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Chicken 2 | 233763 | [233763-ninja-chicken-2.json](./233763-ninja-chicken-2.json) |
 | Ninja Chowdown: Glaze of Glory | 290513 | [290513-ninja-chowdown-glaze-of-glory.json](./290513-ninja-chowdown-glaze-of-glory.json) |
 | Ninja Clan | 311498 | [311498-ninja-clan.json](./311498-ninja-clan.json) |
+| Ninja Clowns | 40993 | [40993-ninja-clowns.json](./40993-ninja-clowns.json) |
 | Ninja Code | 110362 | [110362-ninja-code.json](./110362-ninja-code.json) |
 | Ninja Cop Saizou | 215137 | [215137-ninja-cop-saizou.json](./215137-ninja-cop-saizou.json) |
 | Ninja Dash - Ronin Jump RPG | 104648 | [104648-ninja-dash-ronin-jump-rpg.json](./104648-ninja-dash-ronin-jump-rpg.json) |
@@ -1833,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitori-chan Dash | 208396 | [208396-nitori-chan-dash.json](./208396-nitori-chan-dash.json) |
 | Nitro | 12188 | [12188-nitro.json](./12188-nitro.json) |
 | Nitro Back | 216985 | [216985-nitro-back.json](./216985-nitro-back.json) |
+| Nitro Ball | 40983 | [40983-nitro-ball.json](./40983-nitro-ball.json) |
 | Nitro Boost Challenge | 72624 | [72624-nitro-boost-challenge.json](./72624-nitro-boost-challenge.json) |
 | Nitro Derby | 280786 | [280786-nitro-derby.json](./280786-nitro-derby.json) |
 | Nitro Express | 313096 | [313096-nitro-express.json](./313096-nitro-express.json) |
@@ -2430,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numb: Just Don't Think About It | 255103 | [255103-numb-just-dont-think-about-it.json](./255103-numb-just-dont-think-about-it.json) |
 | Numbala | 111453 | [111453-numbala.json](./111453-numbala.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
+| Number Chaser | 41011 | [41011-number-chaser.json](./41011-number-chaser.json) |
 | Number Crush | 366321 | [366321-number-crush.json](./366321-number-crush.json) |
 | Number Guesser | 97905 | [97905-number-guesser.json](./97905-number-guesser.json) |
 | Number Islands | 139923 | [139923-number-islands.json](./139923-number-islands.json) |
