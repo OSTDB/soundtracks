@@ -4082,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Chips | 382344 | [382344-power-chips.json](./382344-power-chips.json) |
 | Power Dolls FX | 79614 | [79614-power-dolls-fx.json](./79614-power-dolls-fx.json) |
 | Power Drill Massacre | 320349 | [320349-power-drill-massacre.json](./320349-power-drill-massacre.json) |
+| Power Drive 2000 | 60239 | [60239-power-drive-2000.json](./60239-power-drive-2000.json) |
 | Power Eleven | 42043 | [42043-power-eleven.json](./42043-power-eleven.json) |
 | Power Factory Featuring C+C Music Factory | 5420 | [5420-power-factory-featuring-c-c-music-factory.json](./5420-power-factory-featuring-c-c-music-factory.json) |
 | Power Fantasy | 258465 | [258465-power-fantasy.json](./258465-power-fantasy.json) |
@@ -5009,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProjectL | 63241 | [63241-projectl.json](./63241-projectl.json) |
 | ProjectNimbus | 100205 | [100205-projectnimbus.json](./100205-projectnimbus.json) |
 | Projector | 202937 | [202937-projector.json](./202937-projector.json) |
+| ProjectRIK | 60244 | [60244-projectrik.json](./60244-projectrik.json) |
 | ProjectTeo | 149932 | [149932-projectteo.json](./149932-projectteo.json) |
 | Projekt Everblood | 213590 | [213590-projekt-everblood.json](./213590-projekt-everblood.json) |
 | Projekt Z: Beyond Order | 138752 | [138752-projekt-z-beyond-order.json](./138752-projekt-z-beyond-order.json) |
@@ -5382,6 +5384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Song Garden! | 194575 | [194575-pure-song-garden.json](./194575-pure-song-garden.json) |
 | Pure Stat College Basketball | 47212 | [47212-pure-stat-college-basketball.json](./47212-pure-stat-college-basketball.json) |
 | Pure White Chord | 230386 | [230386-pure-white-chord.json](./230386-pure-white-chord.json) |
+| Pure x Connect | 60203 | [60203-pure-x-connect.json](./60203-pure-x-connect.json) |
 | Pure Yome | 415141 | [415141-pure-yome.json](./415141-pure-yome.json) |
 | PureSim Baseball 2005 | 23784 | [23784-puresim-baseball-2005.json](./23784-puresim-baseball-2005.json) |
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
