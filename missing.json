@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T04:32:18.163Z",
-  "total_missing": 100221,
+  "generated_at": "2026-09-21T04:47:20.354Z",
+  "total_missing": 100271,
   "games": [
     {
       "igdb_id": 176875,
@@ -74713,6 +74713,11 @@
       "file": "missing/C/85539-classic-card-games.json"
     },
     {
+      "igdb_id": 52848,
+      "game_name": "Classic Collection",
+      "file": "missing/C/52848-classic-collection.json"
+    },
+    {
       "igdb_id": 169982,
       "game_name": "Classic Cribbage",
       "file": "missing/C/169982-classic-cribbage.json"
@@ -79903,6 +79908,11 @@
       "file": "missing/C/168290-company-of-heroes-2-us-forces-commander-rifle-company.json"
     },
     {
+      "igdb_id": 52834,
+      "game_name": "Company of Heroes 2: Victory at Stalingrad",
+      "file": "missing/C/52834-company-of-heroes-2-victory-at-stalingrad.json"
+    },
+    {
       "igdb_id": 156150,
       "game_name": "Company of Heroes 3",
       "file": "missing/C/156150-company-of-heroes-3.json"
@@ -80011,6 +80021,11 @@
       "igdb_id": 84163,
       "game_name": "Compilation I Tom Clancy's Ghost Recon: Advanced Warfighter 2 + Tom Clancy's EndWar",
       "file": "missing/C/84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json"
+    },
+    {
+      "igdb_id": 52833,
+      "game_name": "Complete Costume Collection",
+      "file": "missing/C/52833-complete-costume-collection.json"
     },
     {
       "igdb_id": 90396,
@@ -80371,6 +80386,11 @@
       "igdb_id": 179599,
       "game_name": "Conductor",
       "file": "missing/C/179599-conductor.json"
+    },
+    {
+      "igdb_id": 52831,
+      "game_name": "Conductor & Abode",
+      "file": "missing/C/52831-conductor-and-abode.json"
     },
     {
       "igdb_id": 335364,
@@ -81258,6 +81278,11 @@
       "file": "missing/C/256337-continent-of-the-ninth-golden.json"
     },
     {
+      "igdb_id": 52830,
+      "game_name": "Continental Cafe",
+      "file": "missing/C/52830-continental-cafe.json"
+    },
+    {
       "igdb_id": 135834,
       "game_name": "Continental Drift",
       "file": "missing/C/135834-continental-drift.json"
@@ -81566,6 +81591,11 @@
       "igdb_id": 236392,
       "game_name": "Cook Fest",
       "file": "missing/C/236392-cook-fest.json"
+    },
+    {
+      "igdb_id": 52827,
+      "game_name": "Cook for the Giant",
+      "file": "missing/C/52827-cook-for-the-giant.json"
     },
     {
       "igdb_id": 288908,
@@ -82921,6 +82951,11 @@
       "igdb_id": 75818,
       "game_name": "Cosmic Trail",
       "file": "missing/C/75818-cosmic-trail.json"
+    },
+    {
+      "igdb_id": 52825,
+      "game_name": "Cosmic Trip: Deluxe Edition",
+      "file": "missing/C/52825-cosmic-trip-deluxe-edition.json"
     },
     {
       "igdb_id": 23899,
@@ -87963,6 +87998,21 @@
       "file": "missing/C/26426-crusader-kings-ii-monks-and-mystics.json"
     },
     {
+      "igdb_id": 52859,
+      "game_name": "Crusader Kings II: Songs of the RU",
+      "file": "missing/C/52859-crusader-kings-ii-songs-of-the-ru.json"
+    },
+    {
+      "igdb_id": 52858,
+      "game_name": "Crusader Kings II: The Reaper's Due Collection",
+      "file": "missing/C/52858-crusader-kings-ii-the-reapers-due-collection.json"
+    },
+    {
+      "igdb_id": 52857,
+      "game_name": "Crusader Kings II: Way of Life Collection",
+      "file": "missing/C/52857-crusader-kings-ii-way-of-life-collection.json"
+    },
+    {
       "igdb_id": 124954,
       "game_name": "Crusader Kings III",
       "file": "missing/C/124954-crusader-kings-iii.json"
@@ -88106,6 +88156,11 @@
       "igdb_id": 158700,
       "game_name": "Crush the Industry",
       "file": "missing/C/158700-crush-the-industry.json"
+    },
+    {
+      "igdb_id": 52856,
+      "game_name": "Crush Your Enemies: Complete Plundered Edition",
+      "file": "missing/C/52856-crush-your-enemies-complete-plundered-edition.json"
     },
     {
       "igdb_id": 199626,
@@ -88503,6 +88558,11 @@
       "file": "missing/C/165127-crysis-3-remastered.json"
     },
     {
+      "igdb_id": 52850,
+      "game_name": "Crysis 3: Digital Deluxe Edition",
+      "file": "missing/C/52850-crysis-3-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 46635,
       "game_name": "Crysis 3: Hunter Edition",
       "file": "missing/C/46635-crysis-3-hunter-edition.json"
@@ -88516,6 +88576,11 @@
       "igdb_id": 150564,
       "game_name": "Crysis Remastered Trilogy",
       "file": "missing/C/150564-crysis-remastered-trilogy.json"
+    },
+    {
+      "igdb_id": 52852,
+      "game_name": "Crysis Trilogy",
+      "file": "missing/C/52852-crysis-trilogy.json"
     },
     {
       "igdb_id": 336,
@@ -89691,6 +89756,11 @@
       "igdb_id": 39638,
       "game_name": "Cue Brick",
       "file": "missing/C/39638-cue-brick.json"
+    },
+    {
+      "igdb_id": 52849,
+      "game_name": "Cue Club 2 - Pool & Snooker",
+      "file": "missing/C/52849-cue-club-2-pool-and-snooker.json"
     },
     {
       "igdb_id": 404871,
@@ -91098,6 +91168,11 @@
       "file": "missing/C/260230-cyber-cell.json"
     },
     {
+      "igdb_id": 52847,
+      "game_name": "Cyber Chicken: Extreme Edition",
+      "file": "missing/C/52847-cyber-chicken-extreme-edition.json"
+    },
+    {
       "igdb_id": 300374,
       "game_name": "Cyber Citizen Shockman 3: The Princess From Another World",
       "file": "missing/C/300374-cyber-citizen-shockman-3-the-princess-from-another-world.json"
@@ -92298,6 +92373,11 @@
       "file": "missing/D/264331-d3l3t3-exe.json"
     },
     {
+      "igdb_id": 52846,
+      "game_name": "D4 Complete Edition",
+      "file": "missing/D/52846-d4-complete-edition.json"
+    },
+    {
       "igdb_id": 59672,
       "game_name": "Da Box",
       "file": "missing/D/59672-da-box.json"
@@ -92596,6 +92676,11 @@
       "igdb_id": 183468,
       "game_name": "Dagdrom",
       "file": "missing/D/183468-dagdrom.json"
+    },
+    {
+      "igdb_id": 52844,
+      "game_name": "Dagestan Technology Anthology",
+      "file": "missing/D/52844-dagestan-technology-anthology.json"
     },
     {
       "igdb_id": 333016,
@@ -93698,6 +93783,11 @@
       "file": "missing/D/282005-danger-ramps.json"
     },
     {
+      "igdb_id": 52843,
+      "game_name": "Danger Wall!",
+      "file": "missing/D/52843-danger-wall.json"
+    },
+    {
       "igdb_id": 121616,
       "game_name": "Danger World",
       "file": "missing/D/121616-danger-world.json"
@@ -94548,6 +94638,11 @@
       "file": "missing/D/113519-dark-lords-dont-give-a.json"
     },
     {
+      "igdb_id": 52841,
+      "game_name": "Dark Lore Mysteries: Hunt For the Truth",
+      "file": "missing/D/52841-dark-lore-mysteries-hunt-for-the-truth.json"
+    },
+    {
       "igdb_id": 192387,
       "game_name": "Dark Magic 2",
       "file": "missing/D/192387-dark-magic-2.json"
@@ -94966,6 +95061,16 @@
       "igdb_id": 362886,
       "game_name": "Dark Static",
       "file": "missing/D/362886-dark-static.json"
+    },
+    {
+      "igdb_id": 52839,
+      "game_name": "Dark Strokes: Sins of the Fathers",
+      "file": "missing/D/52839-dark-strokes-sins-of-the-fathers.json"
+    },
+    {
+      "igdb_id": 52838,
+      "game_name": "Dark Strokes: Sins of the Fathers - Collector's Edition",
+      "file": "missing/D/52838-dark-strokes-sins-of-the-fathers-collectors-edition.json"
     },
     {
       "igdb_id": 38900,
@@ -96416,6 +96521,11 @@
       "igdb_id": 355556,
       "game_name": "Day D: Through Time - Collector's Edition",
       "file": "missing/D/355556-day-d-through-time-collectors-edition.json"
+    },
+    {
+      "igdb_id": 52874,
+      "game_name": "Day D: Time Mayhem",
+      "file": "missing/D/52874-day-d-time-mayhem.json"
     },
     {
       "igdb_id": 222413,
@@ -98118,6 +98228,11 @@
       "file": "missing/D/156161-deadeye-deepfake-simulacrum.json"
     },
     {
+      "igdb_id": 52868,
+      "game_name": "Deadfall Adventures: Deluxe Edition",
+      "file": "missing/D/52868-deadfall-adventures-deluxe-edition.json"
+    },
+    {
       "igdb_id": 99644,
       "game_name": "Deadfall Tropics",
       "file": "missing/D/99644-deadfall-tropics.json"
@@ -98341,6 +98456,11 @@
       "igdb_id": 3139,
       "game_name": "Deadly Tide",
       "file": "missing/D/3139-deadly-tide.json"
+    },
+    {
+      "igdb_id": 52866,
+      "game_name": "Deadly Voltage: Rise of the Invincible",
+      "file": "missing/D/52866-deadly-voltage-rise-of-the-invincible.json"
     },
     {
       "igdb_id": 151004,
@@ -99798,6 +99918,11 @@
       "file": "missing/D/285013-deep-among-the-swarm.json"
     },
     {
+      "igdb_id": 52863,
+      "game_name": "Deep Black: Reloaded",
+      "file": "missing/D/52863-deep-black-reloaded.json"
+    },
+    {
       "igdb_id": 75524,
       "game_name": "Deep Blue",
       "file": "missing/D/75524-deep-blue.json"
@@ -100566,6 +100691,11 @@
       "igdb_id": 195638,
       "game_name": "Defenders Glory",
       "file": "missing/D/195638-defenders-glory.json"
+    },
+    {
+      "igdb_id": 52862,
+      "game_name": "Defenders of Ardania: The Conjurer's Tricks",
+      "file": "missing/D/52862-defenders-of-ardania-the-conjurers-tricks.json"
     },
     {
       "igdb_id": 207537,
@@ -101668,6 +101798,11 @@
       "file": "missing/D/32774-demon-hunter-2-new-chapter.json"
     },
     {
+      "igdb_id": 52892,
+      "game_name": "Demon Hunter Collection",
+      "file": "missing/D/52892-demon-hunter-collection.json"
+    },
+    {
       "igdb_id": 134603,
       "game_name": "Demon Hunter Mai",
       "file": "missing/D/134603-demon-hunter-mai.json"
@@ -102011,6 +102146,11 @@
       "igdb_id": 245328,
       "game_name": "Demons vs. Fairyland",
       "file": "missing/D/245328-demons-vs-fairyland.json"
+    },
+    {
+      "igdb_id": 52890,
+      "game_name": "Demons with Shotguns: Deluxe Edition",
+      "file": "missing/D/52890-demons-with-shotguns-deluxe-edition.json"
     },
     {
       "igdb_id": 381701,
@@ -102396,6 +102536,11 @@
       "igdb_id": 96521,
       "game_name": "Depth Siege Atlantis",
       "file": "missing/D/96521-depth-siege-atlantis.json"
+    },
+    {
+      "igdb_id": 52889,
+      "game_name": "Depth: Digital Deluxe Edition",
+      "file": "missing/D/52889-depth-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 55511,
@@ -103323,6 +103468,11 @@
       "file": "missing/D/295273-destination-paradise.json"
     },
     {
+      "igdb_id": 52888,
+      "game_name": "Destination Treasure Island",
+      "file": "missing/D/52888-destination-treasure-island.json"
+    },
+    {
       "igdb_id": 292819,
       "game_name": "Destination: Dragons!",
       "file": "missing/D/292819-destination-dragons.json"
@@ -103361,6 +103511,11 @@
       "igdb_id": 140978,
       "game_name": "Destiny 2: Beyond Light - Season of the Hunt",
       "file": "missing/D/140978-destiny-2-beyond-light-season-of-the-hunt.json"
+    },
+    {
+      "igdb_id": 52887,
+      "game_name": "Destiny 2: Digital Deluxe Edition",
+      "file": "missing/D/52887-destiny-2-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 305328,
@@ -103466,6 +103621,11 @@
       "igdb_id": 97322,
       "game_name": "Destiny of Thrones",
       "file": "missing/D/97322-destiny-of-thrones.json"
+    },
+    {
+      "igdb_id": 52886,
+      "game_name": "Destiny RPG",
+      "file": "missing/D/52886-destiny-rpg.json"
     },
     {
       "igdb_id": 319758,
@@ -103928,6 +104088,11 @@
       "file": "missing/D/167813-detention-club-schools-out.json"
     },
     {
+      "igdb_id": 52885,
+      "game_name": "Detention: Deluxe Edition",
+      "file": "missing/D/52885-detention-deluxe-edition.json"
+    },
+    {
       "igdb_id": 148487,
       "game_name": "Dethcube",
       "file": "missing/D/148487-dethcube.json"
@@ -104016,6 +104181,11 @@
       "igdb_id": 30494,
       "game_name": "Deus Ex: Breach",
       "file": "missing/D/30494-deus-ex-breach.json"
+    },
+    {
+      "igdb_id": 52883,
+      "game_name": "Deus Ex: Collection",
+      "file": "missing/D/52883-deus-ex-collection.json"
     },
     {
       "igdb_id": 25358,
@@ -309253,6 +309423,11 @@
       "file": "missing/P/164006-pinball-fx3-marvels-women-of-power.json"
     },
     {
+      "igdb_id": 52877,
+      "game_name": "Pinball FX3: Star Wars Pinball - Heroes Within",
+      "file": "missing/P/52877-pinball-fx3-star-wars-pinball-heroes-within.json"
+    },
+    {
       "igdb_id": 26928,
       "game_name": "Pinball FX3: Star Wars Pinball - Rogue One",
       "file": "missing/P/26928-pinball-fx3-star-wars-pinball-rogue-one.json"
@@ -363758,6 +363933,11 @@
       "file": "missing/S/229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json"
     },
     {
+      "igdb_id": 52832,
+      "game_name": "Shin Gundam Musou",
+      "file": "missing/S/52832-shin-gundam-musou.json"
+    },
+    {
       "igdb_id": 79331,
       "game_name": "Shin Hayarigami",
       "file": "missing/S/79331-shin-hayarigami.json"
@@ -368698,6 +368878,11 @@
       "file": "missing/S/268746-singstar-starter-pack.json"
     },
     {
+      "igdb_id": 52829,
+      "game_name": "SingStar Vol. 3: Party Edition",
+      "file": "missing/S/52829-singstar-vol-3-party-edition.json"
+    },
+    {
       "igdb_id": 268743,
       "game_name": "SingStar: A Tutto Pop",
       "file": "missing/S/268743-singstar-a-tutto-pop.json"
@@ -369796,6 +369981,11 @@
       "igdb_id": 397778,
       "game_name": "Sketchbook Squad",
       "file": "missing/S/397778-sketchbook-squad.json"
+    },
+    {
+      "igdb_id": 52824,
+      "game_name": "Sketchcross",
+      "file": "missing/S/52824-sketchcross.json"
     },
     {
       "igdb_id": 32920,
@@ -375733,6 +375923,11 @@
       "file": "missing/S/69835-snowy-space-trip.json"
     },
     {
+      "igdb_id": 52855,
+      "game_name": "Snowy: Treasure Hunter",
+      "file": "missing/S/52855-snowy-treasure-hunter.json"
+    },
+    {
       "igdb_id": 180149,
       "game_name": "Snufkin: Melody of Moominvalley",
       "file": "missing/S/180149-snufkin-melody-of-moominvalley.json"
@@ -375836,6 +376031,11 @@
       "igdb_id": 250948,
       "game_name": "Soak & Splash",
       "file": "missing/S/250948-soak-and-splash.json"
+    },
+    {
+      "igdb_id": 52854,
+      "game_name": "Soaked!",
+      "file": "missing/S/52854-soaked.json"
     },
     {
       "igdb_id": 399075,
@@ -381281,6 +381481,11 @@
       "igdb_id": 304709,
       "game_name": "Souptown Matty",
       "file": "missing/S/304709-souptown-matty.json"
+    },
+    {
+      "igdb_id": 52845,
+      "game_name": "Sour Patch Kids: World Gone Sour",
+      "file": "missing/S/52845-sour-patch-kids-world-gone-sour.json"
     },
     {
       "igdb_id": 80232,
@@ -387223,6 +387428,11 @@
       "file": "missing/S/314456-sports-renovations.json"
     },
     {
+      "igdb_id": 52837,
+      "game_name": "SportsBarVR",
+      "file": "missing/S/52837-sportsbarvr.json"
+    },
+    {
       "igdb_id": 119584,
       "game_name": "Spot",
       "file": "missing/S/119584-spot.json"
@@ -389433,6 +389643,11 @@
       "file": "missing/S/197364-star-hacker.json"
     },
     {
+      "igdb_id": 52860,
+      "game_name": "Star Hammer Tactics",
+      "file": "missing/S/52860-star-hammer-tactics.json"
+    },
+    {
       "igdb_id": 36049,
       "game_name": "Star Hammer: The Vanguard Prophecy",
       "file": "missing/S/36049-star-hammer-the-vanguard-prophecy.json"
@@ -390216,6 +390431,11 @@
       "igdb_id": 115714,
       "game_name": "Star Wars Battlefront: Hoth Bundle",
       "file": "missing/S/115714-star-wars-battlefront-hoth-bundle.json"
+    },
+    {
+      "igdb_id": 52879,
+      "game_name": "Star Wars Battlefront: Rogue One - X-Wing VR Mission",
+      "file": "missing/S/52879-star-wars-battlefront-rogue-one-x-wing-vr-mission.json"
     },
     {
       "igdb_id": 86087,
@@ -392733,6 +392953,11 @@
       "file": "missing/S/97098-stealth-horror-grand-daddy.json"
     },
     {
+      "igdb_id": 52872,
+      "game_name": "Stealth Inc: A Clone in the Dark - Ultimate Edition",
+      "file": "missing/S/52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json"
+    },
+    {
       "igdb_id": 51893,
       "game_name": "Stealth Inc. 2: A Game of Clones Deluxe",
       "file": "missing/S/51893-stealth-inc-2-a-game-of-clones-deluxe.json"
@@ -393341,6 +393566,11 @@
       "igdb_id": 34763,
       "game_name": "Stellar 2D",
       "file": "missing/S/34763-stellar-2d.json"
+    },
+    {
+      "igdb_id": 52870,
+      "game_name": "Stellar Attack",
+      "file": "missing/S/52870-stellar-attack.json"
     },
     {
       "igdb_id": 314057,
@@ -396468,6 +396698,11 @@
       "file": "missing/S/9466-streetdance-3d.json"
     },
     {
+      "igdb_id": 52865,
+      "game_name": "Streetkix Freestyle",
+      "file": "missing/S/52865-streetkix-freestyle.json"
+    },
+    {
       "igdb_id": 305186,
       "game_name": "Streets of Fortuna",
       "file": "missing/S/305186-streets-of-fortuna.json"
@@ -396556,6 +396791,11 @@
       "igdb_id": 283734,
       "game_name": "Strength & Skill: Guiness Book of Records",
       "file": "missing/S/283734-strength-and-skill-guiness-book-of-records.json"
+    },
+    {
+      "igdb_id": 52864,
+      "game_name": "Strength of the Sword 3",
+      "file": "missing/S/52864-strength-of-the-sword-3.json"
     },
     {
       "igdb_id": 285448,
@@ -399651,6 +399891,11 @@
       "igdb_id": 384519,
       "game_name": "Sunflower Stronghold",
       "file": "missing/S/384519-sunflower-stronghold.json"
+    },
+    {
+      "igdb_id": 52861,
+      "game_name": "SunFlowers",
+      "file": "missing/S/52861-sunflowers.json"
     },
     {
       "igdb_id": 322980,
@@ -404591,6 +404836,11 @@
       "igdb_id": 223025,
       "game_name": "Super Stacey World",
       "file": "missing/S/223025-super-stacey-world.json"
+    },
+    {
+      "igdb_id": 52894,
+      "game_name": "Super Stacker",
+      "file": "missing/S/52894-super-stacker.json"
     },
     {
       "igdb_id": 32027,
