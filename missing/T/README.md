@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamura Mitsuaki no Mahjong Seminar | 48886 | [48886-tamura-mitsuaki-no-mahjong-seminar.json](./48886-tamura-mitsuaki-no-mahjong-seminar.json) |
 | Tan-Tan-Tanuki | 307142 | [307142-tan-tan-tanuki.json](./307142-tan-tan-tanuki.json) |
 | Tanat Online | 366226 | [366226-tanat-online.json](./366226-tanat-online.json) |
+| Tane o Maku Tori | 20174 | [20174-tane-o-maku-tori.json](./20174-tane-o-maku-tori.json) |
 | Tang Dynasty Architecture | 275341 | [275341-tang-dynasty-architecture.json](./275341-tang-dynasty-architecture.json) |
 | Tángdì zhī Huá | 394820 | [394820-tangdi-zhi-hua.json](./394820-tangdi-zhi-hua.json) |
 | Tangerine Clicker | 247212 | [247212-tangerine-clicker.json](./247212-tangerine-clicker.json) |
@@ -1287,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleglitch: Die More Edition | 7884 | [7884-teleglitch-die-more-edition.json](./7884-teleglitch-die-more-edition.json) |
 | Telegraph Sudoku & Kakuro | 85429 | [85429-telegraph-sudoku-and-kakuro.json](./85429-telegraph-sudoku-and-kakuro.json) |
 | Telegrum Clicker | 100574 | [100574-telegrum-clicker.json](./100574-telegrum-clicker.json) |
+| Telekinesis Kyle | 20116 | [20116-telekinesis-kyle.json](./20116-telekinesis-kyle.json) |
 | Telemount | 413083 | [413083-telemount.json](./413083-telemount.json) |
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
 | Teleportal Customer Service | 181374 | [181374-teleportal-customer-service.json](./181374-teleportal-customer-service.json) |
@@ -3793,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Invisible Guardian | 185670 | [185670-the-invisible-guardian.json](./185670-the-invisible-guardian.json) |
 | The Invisible Hand | 25224 | [25224-the-invisible-hand.json](./25224-the-invisible-hand.json) |
 | The Invisible Hand: Deep Pockets Edition | 155051 | [155051-the-invisible-hand-deep-pockets-edition.json](./155051-the-invisible-hand-deep-pockets-edition.json) |
+| The Irate Gamer Game | 20195 | [20195-the-irate-gamer-game.json](./20195-the-irate-gamer-game.json) |
 | The Iron Age | 223151 | [223151-the-iron-age.json](./223151-the-iron-age.json) |
 | The Island | 274188 | [274188-the-island.json](./274188-the-island.json) |
 | The Island | 287239 | [287239-the-island.json](./287239-the-island.json) |
