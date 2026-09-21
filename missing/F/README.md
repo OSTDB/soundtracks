@@ -2249,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Boxing 2: Rhythm & Exercise | 138952 | [138952-fitness-boxing-2-rhythm-and-exercise.json](./138952-fitness-boxing-2-rhythm-and-exercise.json) |
 | Fitness Boxing 3: Your Personal Trainer | 314941 | [314941-fitness-boxing-3-your-personal-trainer.json](./314941-fitness-boxing-3-your-personal-trainer.json) |
 | Fitness Boxing Fist of the North Star | 217551 | [217551-fitness-boxing-fist-of-the-north-star.json](./217551-fitness-boxing-fist-of-the-north-star.json) |
+| Fitness Dash | 16078 | [16078-fitness-dash.json](./16078-fitness-dash.json) |
 | Fitness Game: Romance Story | 256250 | [256250-fitness-game-romance-story.json](./256250-fitness-game-romance-story.json) |
 | Fitness Girl - Studio Coach | 86814 | [86814-fitness-girl-studio-coach.json](./86814-fitness-girl-studio-coach.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
