@@ -5270,6 +5270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive to The Top | 411690 | [411690-drive-to-the-top.json](./411690-drive-to-the-top.json) |
 | Drive Your Car | 199629 | [199629-drive-your-car.json](./199629-drive-your-car.json) |
 | Drive Zone Online | 269096 | [269096-drive-zone-online.json](./269096-drive-zone-online.json) |
+| Drive-In | 25134 | [25134-drive-in.json](./25134-drive-in.json) |
 | Driveby Gangster | 34452 | [34452-driveby-gangster.json](./34452-driveby-gangster.json) |
 | DriveCraft | 392909 | [392909-drivecraft.json](./392909-drivecraft.json) |
 | DriveCrazy | 151746 | [151746-drivecrazy.json](./151746-drivecrazy.json) |
@@ -5476,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duality | 305337 | [305337-duality.json](./305337-duality.json) |
 | Duality Paradox | 385566 | [385566-duality-paradox.json](./385566-duality-paradox.json) |
 | Duality Shift | 373109 | [373109-duality-shift.json](./373109-duality-shift.json) |
+| DualPenSports | 25179 | [25179-dualpensports.json](./25179-dualpensports.json) |
 | Duàndāo Kè | 166674 | [166674-duandao-ke.json](./166674-duandao-ke.json) |
 | Duat: Beyond Light & Shadow | 415919 | [415919-duat-beyond-light-and-shadow.json](./415919-duat-beyond-light-and-shadow.json) |
 | Dub Dash | 19977 | [19977-dub-dash.json](./19977-dub-dash.json) |
