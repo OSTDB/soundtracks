@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Deck | 371340 | [371340-panzer-deck.json](./371340-panzer-deck.json) |
 | Panzer Dragoon | 199012 | [199012-panzer-dragoon.json](./199012-panzer-dragoon.json) |
 | Panzer Dragoon Voyage Record | 330321 | [330321-panzer-dragoon-voyage-record.json](./330321-panzer-dragoon-voyage-record.json) |
+| Panzer Dragoon: Remake | 113350 | [113350-panzer-dragoon-remake.json](./113350-panzer-dragoon-remake.json) |
 | Panzer General III: Scorched Earth | 24154 | [24154-panzer-general-iii-scorched-earth.json](./24154-panzer-general-iii-scorched-earth.json) |
 | Panzer Killer | 41978 | [41978-panzer-killer.json](./41978-panzer-killer.json) |
 | Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
@@ -885,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Particles | 262696 | [262696-particles.json](./262696-particles.json) |
 | Particulate | 127244 | [127244-particulate.json](./127244-particulate.json) |
 | Particulitix | 390515 | [390515-particulitix.json](./390515-particulitix.json) |
+| Partisans 1941 | 117497 | [117497-partisans-1941.json](./117497-partisans-1941.json) |
 | Partition Sector | 144383 | [144383-partition-sector.json](./144383-partition-sector.json) |
 | Partivity! | 115655 | [115655-partivity.json](./115655-partivity.json) |
 | Partner In TV!!! O-Uchi ni Wan-chan ga Yattekita | 327623 | [327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json](./327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json) |
