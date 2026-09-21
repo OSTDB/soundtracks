@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Spider-Man 2: Collector's Edition | 272315 | [272315-marvels-spider-man-2-collectors-edition.json](./272315-marvels-spider-man-2-collectors-edition.json) |
 | Marvel's Spider-Man 2: Digital Deluxe Edition | 272508 | [272508-marvels-spider-man-2-digital-deluxe-edition.json](./272508-marvels-spider-man-2-digital-deluxe-edition.json) |
 | Marvel's Spider-Man: Silver Lining | 109422 | [109422-marvels-spider-man-silver-lining.json](./109422-marvels-spider-man-silver-lining.json) |
+| Marvel's Spider-Man: The Heist | 109419 | [109419-marvels-spider-man-the-heist.json](./109419-marvels-spider-man-the-heist.json) |
 | Marvel's Wolverine: Digital Deluxe Edition | 407453 | [407453-marvels-wolverine-digital-deluxe-edition.json](./407453-marvels-wolverine-digital-deluxe-edition.json) |
 | Marvellous Inc. | 96638 | [96638-marvellous-inc.json](./96638-marvellous-inc.json) |
 | Marvellous Inc.: MarvGPT | 296521 | [296521-marvellous-inc-marvgpt.json](./296521-marvellous-inc-marvgpt.json) |
@@ -2267,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: 10th Anniversary Edition | 45980 | [45980-medal-of-honor-10th-anniversary-edition.json](./45980-medal-of-honor-10th-anniversary-edition.json) |
 | Medal of Honor: Airborne | 264877 | [264877-medal-of-honor-airborne.json](./264877-medal-of-honor-airborne.json) |
 | Medal of Honor: Allied Assault - Breakthrough | 9229 | [9229-medal-of-honor-allied-assault-breakthrough.json](./9229-medal-of-honor-allied-assault-breakthrough.json) |
+| Medal of Honor: European Assault | 1311 | [1311-medal-of-honor-european-assault.json](./1311-medal-of-honor-european-assault.json) |
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
 | Medal of Honor: Pacific Assault | 1310 | [1310-medal-of-honor-pacific-assault.json](./1310-medal-of-honor-pacific-assault.json) |
 | Medal of Honor: Warfighter | 1306 | [1306-medal-of-honor-warfighter.json](./1306-medal-of-honor-warfighter.json) |
@@ -2500,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Xtreme 2 | 1750 | [1750-mega-man-xtreme-2.json](./1750-mega-man-xtreme-2.json) |
 | Mega Man Y+1: Operation X.M.A.S. | 279729 | [279729-mega-man-y-1-operation-x-m-a-s.json](./279729-mega-man-y-1-operation-x-m-a-s.json) |
 | Mega Man Zero | 1775 | [1775-mega-man-zero.json](./1775-mega-man-zero.json) |
+| Mega Man Zero 3 | 1777 | [1777-mega-man-zero-3.json](./1777-mega-man-zero-3.json) |
 | Mega Man Zero 4 | 1778 | [1778-mega-man-zero-4.json](./1778-mega-man-zero-4.json) |
 | Mega Man ZX | 1779 | [1779-mega-man-zx.json](./1779-mega-man-zx.json) |
 | Mega Man ZX Zeta | 334149 | [334149-mega-man-zx-zeta.json](./334149-mega-man-zx-zeta.json) |
@@ -2911,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries Saga 2 | 77691 | [77691-mercenaries-saga-2.json](./77691-mercenaries-saga-2.json) |
 | Mercenaries Saga Chronicles: Physical Edition | 109435 | [109435-mercenaries-saga-chronicles-physical-edition.json](./109435-mercenaries-saga-chronicles-physical-edition.json) |
 | Mercenaries Series Bundle | 175818 | [175818-mercenaries-series-bundle.json](./175818-mercenaries-series-bundle.json) |
+| Mercenaries: Playground of Destruction | 2683 | [2683-mercenaries-playground-of-destruction.json](./2683-mercenaries-playground-of-destruction.json) |
 | Mercenary Ops | 65175 | [65175-mercenary-ops.json](./65175-mercenary-ops.json) |
 | Mercenary: The Second City | 15500 | [15500-mercenary-the-second-city.json](./15500-mercenary-the-second-city.json) |
 | Mercforce: 30X1 | 120380 | [120380-mercforce-30x1.json](./120380-mercforce-30x1.json) |
@@ -6748,6 +6752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sudoku: Classic 9x9 Medium 2 | 321995 | [321995-my-sudoku-classic-9x9-medium-2.json](./321995-my-sudoku-classic-9x9-medium-2.json) |
 | My Sudoku: Classic 9x9 Medium 3 | 321976 | [321976-my-sudoku-classic-9x9-medium-3.json](./321976-my-sudoku-classic-9x9-medium-3.json) |
 | My Summer Adventure: Memories of Another Life - Day 1 | 240809 | [240809-my-summer-adventure-memories-of-another-life-day-1.json](./240809-my-summer-adventure-memories-of-another-life-day-1.json) |
+| My Summer Car | 21453 | [21453-my-summer-car.json](./21453-my-summer-car.json) |
 | My Summer Jobs: Dialing for Dreams! | 238513 | [238513-my-summer-jobs-dialing-for-dreams.json](./238513-my-summer-jobs-dialing-for-dreams.json) |
 | My Summer Love | 391596 | [391596-my-summer-love.json](./391596-my-summer-love.json) |
 | My Sunny Resort | 98981 | [98981-my-sunny-resort.json](./98981-my-sunny-resort.json) |
