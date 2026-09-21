@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops Cold War | 137001 | [137001-call-of-duty-black-ops-cold-war.json](./137001-call-of-duty-black-ops-cold-war.json) |
 | Call of Duty: Black Ops Cold War - Season Four | 152117 | [152117-call-of-duty-black-ops-cold-war-season-four.json](./152117-call-of-duty-black-ops-cold-war-season-four.json) |
 | Call of Duty: Black Ops Cold War - Season Six | 172674 | [172674-call-of-duty-black-ops-cold-war-season-six.json](./172674-call-of-duty-black-ops-cold-war-season-six.json) |
+| Call of Duty: Black Ops II | 21865 | [21865-call-of-duty-black-ops-ii.json](./21865-call-of-duty-black-ops-ii.json) |
 | Call of Duty: Black Ops II - Care Package | 18352 | [18352-call-of-duty-black-ops-ii-care-package.json](./18352-call-of-duty-black-ops-ii-care-package.json) |
 | Call of Duty: Black Ops II - Nuketown 2025 | 295256 | [295256-call-of-duty-black-ops-ii-nuketown-2025.json](./295256-call-of-duty-black-ops-ii-nuketown-2025.json) |
 | Call of Duty: Black Ops II - Nuketown Zombies | 295255 | [295255-call-of-duty-black-ops-ii-nuketown-zombies.json](./295255-call-of-duty-black-ops-ii-nuketown-zombies.json) |
@@ -2432,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choco-Ken no Omise: Patisserie & Sweets Shop Game | 287628 | [287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json](./287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json) |
 | Chocobo Collection | 71219 | [71219-chocobo-collection.json](./71219-chocobo-collection.json) |
 | Chocobo Land: A Game of Dice | 49559 | [49559-chocobo-land-a-game-of-dice.json](./49559-chocobo-land-a-game-of-dice.json) |
+| Chocobo Racing | 22896 | [22896-chocobo-racing.json](./22896-chocobo-racing.json) |
 | Chocolat Rush | 120789 | [120789-chocolat-rush.json](./120789-chocolat-rush.json) |
 | Chocolate Factory | 112995 | [112995-chocolate-factory.json](./112995-chocolate-factory.json) |
 | Chocolate makes you happy 4 | 89935 | [89935-chocolate-makes-you-happy-4.json](./89935-chocolate-makes-you-happy-4.json) |
@@ -3587,6 +3589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code: Dead Ends | 254612 | [254612-code-dead-ends.json](./254612-code-dead-ends.json) |
 | Code: Europe | 73848 | [73848-code-europe.json](./73848-code-europe.json) |
 | Code: Realize - Future Blessings | 41821 | [41821-code-realize-future-blessings.json](./41821-code-realize-future-blessings.json) |
+| Code: Realize - Guardian of Rebirth | 19475 | [19475-code-realize-guardian-of-rebirth.json](./19475-code-realize-guardian-of-rebirth.json) |
 | Code: Realize ~Future Blessings~ Day One Edition | 136263 | [136263-code-realize-future-blessings-day-one-edition.json](./136263-code-realize-future-blessings-day-one-edition.json) |
 | Code: Realize ~Wintertide Miracles~ Limited Edition | 112919 | [112919-code-realize-wintertide-miracles-limited-edition.json](./112919-code-realize-wintertide-miracles-limited-edition.json) |
 | Code: To Jin Yong | 208466 | [208466-code-to-jin-yong.json](./208466-code-to-jin-yong.json) |
@@ -4199,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company is Watching | 401498 | [401498-company-is-watching.json](./401498-company-is-watching.json) |
 | Company of Heroes | 654 | [654-company-of-heroes.json](./654-company-of-heroes.json) |
 | Company of Heroes 2: All Out War Edition | 139845 | [139845-company-of-heroes-2-all-out-war-edition.json](./139845-company-of-heroes-2-all-out-war-edition.json) |
+| Company of Heroes 2: Ardennes Assault | 8445 | [8445-company-of-heroes-2-ardennes-assault.json](./8445-company-of-heroes-2-ardennes-assault.json) |
 | Company of Heroes 2: Complete Collection | 145682 | [145682-company-of-heroes-2-complete-collection.json](./145682-company-of-heroes-2-complete-collection.json) |
 | Company of Heroes 2: German Commander - Spearhead Doctrine | 168294 | [168294-company-of-heroes-2-german-commander-spearhead-doctrine.json](./168294-company-of-heroes-2-german-commander-spearhead-doctrine.json) |
 | Company of Heroes 2: Soviet Commander - Partisan Tactics | 168291 | [168291-company-of-heroes-2-soviet-commander-partisan-tactics.json](./168291-company-of-heroes-2-soviet-commander-partisan-tactics.json) |
@@ -5618,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimsonland | 253323 | [253323-crimsonland.json](./253323-crimsonland.json) |
 | Crimzon Clover | 137065 | [137065-crimzon-clover.json](./137065-crimzon-clover.json) |
 | Crimzon Clover: World EXplosion | 140395 | [140395-crimzon-clover-world-explosion.json](./140395-crimzon-clover-world-explosion.json) |
+| Crimzon Clover: World Ignition | 8763 | [8763-crimzon-clover-world-ignition.json](./8763-crimzon-clover-world-ignition.json) |
 | Cringegolf | 296386 | [296386-cringegolf.json](./296386-cringegolf.json) |
 | Crisis Action | 86093 | [86093-crisis-action.json](./86093-crisis-action.json) |
 | Crisis Action VR | 51500 | [51500-crisis-action-vr.json](./51500-crisis-action-vr.json) |
