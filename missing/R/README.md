@@ -1844,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 4: Collector's Edition | 24211 | [24211-resident-evil-4-collectors-edition.json](./24211-resident-evil-4-collectors-edition.json) |
 | Resident Evil 4: Gold Edition | 284920 | [284920-resident-evil-4-gold-edition.json](./284920-resident-evil-4-gold-edition.json) |
 | Resident Evil 4: Limited Edition | 145054 | [145054-resident-evil-4-limited-edition.json](./145054-resident-evil-4-limited-edition.json) |
+| Resident Evil 4: Otome Edition | 29145 | [29145-resident-evil-4-otome-edition.json](./29145-resident-evil-4-otome-edition.json) |
 | Resident Evil 4: The Mercenaries - Separate Ways Update | 266859 | [266859-resident-evil-4-the-mercenaries-separate-ways-update.json](./266859-resident-evil-4-the-mercenaries-separate-ways-update.json) |
 | Resident Evil 4: Ultimate HD Edition | 24223 | [24223-resident-evil-4-ultimate-hd-edition.json](./24223-resident-evil-4-ultimate-hd-edition.json) |
 | Resident Evil 4: VR Mode | 250644 | [250644-resident-evil-4-vr-mode.json](./250644-resident-evil-4-vr-mode.json) |
@@ -2241,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rg-ft | 176997 | [176997-rg-ft.json](./176997-rg-ft.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
+| RGBverse | 29231 | [29231-rgbverse.json](./29231-rgbverse.json) |
 | Rgby | 199473 | [199473-rgby.json](./199473-rgby.json) |
 | RGT Cycling | 138571 | [138571-rgt-cycling.json](./138571-rgt-cycling.json) |
 | RGX Showdown | 109588 | [109588-rgx-showdown.json](./109588-rgx-showdown.json) |
