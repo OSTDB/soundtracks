@@ -1942,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Payne | 196251 | [196251-max-payne.json](./196251-max-payne.json) |
 | Max Payne 2 | 196252 | [196252-max-payne-2.json](./196252-max-payne-2.json) |
 | Max Payne 2: Mona the Assassin | 320154 | [320154-max-payne-2-mona-the-assassin.json](./320154-max-payne-2-mona-the-assassin.json) |
+| Max Payne: Kung Fu Edition v3 | 24085 | [24085-max-payne-kung-fu-edition-v3.json](./24085-max-payne-kung-fu-edition-v3.json) |
 | Max Speed | 409543 | [409543-max-speed.json](./409543-max-speed.json) |
 | Max Steel: Laptop Bilíngue Power | 294463 | [294463-max-steel-laptop-bilingue-power.json](./294463-max-steel-laptop-bilingue-power.json) |
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
@@ -3631,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike Builds a Shelter | 174793 | [174793-mike-builds-a-shelter.json](./174793-mike-builds-a-shelter.json) |
 | Mike Goes on Hike | 110125 | [110125-mike-goes-on-hike.json](./110125-mike-goes-on-hike.json) |
 | Mike Piazza's Strike Zone | 3410 | [3410-mike-piazzas-strike-zone.json](./3410-mike-piazzas-strike-zone.json) |
+| Mike Tyson Heavyweight Boxing | 24076 | [24076-mike-tyson-heavyweight-boxing.json](./24076-mike-tyson-heavyweight-boxing.json) |
 | Mike V: Skateboard Party HD | 87709 | [87709-mike-v-skateboard-party-hd.json](./87709-mike-v-skateboard-party-hd.json) |
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
 | Mikene's Aspects | 267440 | [267440-mikenes-aspects.json](./267440-mikenes-aspects.json) |
@@ -3841,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineCart - 3D Mine Cart Game for MineCraft | 86692 | [86692-minecart-3d-mine-cart-game-for-minecraft.json](./86692-minecart-3d-mine-cart-game-for-minecraft.json) |
 | Minecart Madness | 188687 | [188687-minecart-madness.json](./188687-minecart-madness.json) |
 | MineClicker | 180121 | [180121-mineclicker.json](./180121-mineclicker.json) |
+| MineColony | 24095 | [24095-minecolony.json](./24095-minecolony.json) |
 | Minecraft 4k | 238607 | [238607-minecraft-4k.json](./238607-minecraft-4k.json) |
 | Minecraft Blast | 377668 | [377668-minecraft-blast.json](./377668-minecraft-blast.json) |
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
@@ -4458,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 2001 | 28193 | [28193-mlb-2001.json](./28193-mlb-2001.json) |
 | MLB 2002 | 28194 | [28194-mlb-2002.json](./28194-mlb-2002.json) |
 | MLB 2003 | 28196 | [28196-mlb-2003.json](./28196-mlb-2003.json) |
+| MLB 2005 | 24132 | [24132-mlb-2005.json](./24132-mlb-2005.json) |
 | MLB 2006 | 28197 | [28197-mlb-2006.json](./28197-mlb-2006.json) |
 | MLB 2K10 DS | 21157 | [21157-mlb-2k10-ds.json](./21157-mlb-2k10-ds.json) |
 | MLB 9 Innings | 304051 | [304051-mlb-9-innings.json](./304051-mlb-9-innings.json) |
@@ -5367,6 +5371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mops & Mobs: A Sweeping Dungeon Adventure | 291767 | [291767-mops-and-mobs-a-sweeping-dungeon-adventure.json](./291767-mops-and-mobs-a-sweeping-dungeon-adventure.json) |
 | Moraff's Entrap | 69815 | [69815-moraffs-entrap.json](./69815-moraffs-entrap.json) |
 | Moraff's Escapade | 135666 | [135666-moraffs-escapade.json](./135666-moraffs-escapade.json) |
+| Moraff's Maximum Mahjongg 2 | 24077 | [24077-moraffs-maximum-mahjongg-2.json](./24077-moraffs-maximum-mahjongg-2.json) |
 | Moraff's World | 74053 | [74053-moraffs-world.json](./74053-moraffs-world.json) |
 | Morbid | 145591 | [145591-morbid.json](./145591-morbid.json) |
 | Morbid Catastrophe | 248313 | [248313-morbid-catastrophe.json](./248313-morbid-catastrophe.json) |
