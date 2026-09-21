@@ -1244,13 +1244,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Baseball - Home Run Competition | 33105 | [33105-vr-baseball-home-run-competition.json](./33105-vr-baseball-home-run-competition.json) |
 | VR Baseball '97 | 20819 | [20819-vr-baseball-97.json](./20819-vr-baseball-97.json) |
 | VR Basketball Sweetie | 384516 | [384516-vr-basketball-sweetie.json](./384516-vr-basketball-sweetie.json) |
+| VR Batting | 29172 | [29172-vr-batting.json](./29172-vr-batting.json) |
 | VR Boyfriend | 196337 | [196337-vr-boyfriend.json](./196337-vr-boyfriend.json) |
 | VR Catgirl | 162846 | [162846-vr-catgirl.json](./162846-vr-catgirl.json) |
+| VR Chair Games | 29227 | [29227-vr-chair-games.json](./29227-vr-chair-games.json) |
 | VR Cops | 253019 | [253019-vr-cops.json](./253019-vr-cops.json) |
 | VR Cops: Pack 1 | 253020 | [253020-vr-cops-pack-1.json](./253020-vr-cops-pack-1.json) |
 | VR Cricket | 114187 | [114187-vr-cricket.json](./114187-vr-cricket.json) |
 | VR Cute Tanks: Girls and Dinosaurs | 148474 | [148474-vr-cute-tanks-girls-and-dinosaurs.json](./148474-vr-cute-tanks-girls-and-dinosaurs.json) |
 | VR Dart Zone | 54459 | [54459-vr-dart-zone.json](./54459-vr-dart-zone.json) |
+| VR Darts | 29153 | [29153-vr-darts.json](./29153-vr-darts.json) |
 | VR Dinosaur Invasion | 235730 | [235730-vr-dinosaur-invasion.json](./235730-vr-dinosaur-invasion.json) |
 | VR Dinosaur Island Paradise | 265260 | [265260-vr-dinosaur-island-paradise.json](./265260-vr-dinosaur-island-paradise.json) |
 | VR Dinosaur Pingpong | 235188 | [235188-vr-dinosaur-pingpong.json](./235188-vr-dinosaur-pingpong.json) |
