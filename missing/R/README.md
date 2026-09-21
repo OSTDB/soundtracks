@@ -2576,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rinne no Hate de Kimi wo Matsu | 417545 | [417545-rinne-no-hate-de-kimi-wo-matsu.json](./417545-rinne-no-hate-de-kimi-wo-matsu.json) |
 | Rinne no Lagrange: Kamogawa Match | 268741 | [268741-rinne-no-lagrange-kamogawa-match.json](./268741-rinne-no-lagrange-kamogawa-match.json) |
 | Rinne Tsukihime | 282562 | [282562-rinne-tsukihime.json](./282562-rinne-tsukihime.json) |
+| Rinse and Repeat | 13158 | [13158-rinse-and-repeat.json](./13158-rinse-and-repeat.json) |
 | Rinth Island | 22333 | [22333-rinth-island.json](./22333-rinth-island.json) |
 | Rio Rex | 102223 | [102223-rio-rex.json](./102223-rio-rex.json) |
 | Rio Warzone | 150699 | [150699-rio-warzone.json](./150699-rio-warzone.json) |
@@ -3256,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodeo Judge | 57068 | [57068-rodeo-judge.json](./57068-rodeo-judge.json) |
 | Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
 | Rododendron | 370721 | [370721-rododendron.json](./370721-rododendron.json) |
+| Rody & Mastico | 13077 | [13077-rody-and-mastico.json](./13077-rody-and-mastico.json) |
 | Rog & Roll | 139401 | [139401-rog-and-roll.json](./139401-rog-and-roll.json) |
 | Rogalik | 99654 | [99654-rogalik.json](./99654-rogalik.json) |
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
@@ -3723,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RotoCore | 414291 | [414291-rotocore.json](./414291-rotocore.json) |
 | RotoDefendo | 137055 | [137055-rotodefendo.json](./137055-rotodefendo.json) |
 | Rotolla | 21021 | [21021-rotolla.json](./21021-rotolla.json) |
+| Rotor | 13255 | [13255-rotor.json](./13255-rotor.json) |
 | Rotor | 144254 | [144254-rotor.json](./144254-rotor.json) |
 | RotorScape | 311495 | [311495-rotorscape.json](./311495-rotorscape.json) |
 | Rotorsim: Helicopter Simulator | 348878 | [348878-rotorsim-helicopter-simulator.json](./348878-rotorsim-helicopter-simulator.json) |
