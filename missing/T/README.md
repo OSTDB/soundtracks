@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technosphere Reload | 116829 | [116829-technosphere-reload.json](./116829-technosphere-reload.json) |
 | Technuclear | 180812 | [180812-technuclear.json](./180812-technuclear.json) |
 | Techtonica | 194465 | [194465-techtonica.json](./194465-techtonica.json) |
+| TechWars | 47562 | [47562-techwars.json](./47562-techwars.json) |
 | Techwars Global Conflict: Demigod Legacy Edition | 188028 | [188028-techwars-global-conflict-demigod-legacy-edition.json](./188028-techwars-global-conflict-demigod-legacy-edition.json) |
 | Techwars Global Conflict: Heroic Edition | 188019 | [188019-techwars-global-conflict-heroic-edition.json](./188019-techwars-global-conflict-heroic-edition.json) |
 | Techwars Global Conflict: The Last Emperor From Hell Edition | 188045 | [188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json](./188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json) |
@@ -2799,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Defiant | 375948 | [375948-the-defiant.json](./375948-the-defiant.json) |
 | The Deletion | 34768 | [34768-the-deletion.json](./34768-the-deletion.json) |
 | The Delirium Dimension | 269658 | [269658-the-delirium-dimension.json](./269658-the-delirium-dimension.json) |
+| The Demon Crystal | 47555 | [47555-the-demon-crystal.json](./47555-the-demon-crystal.json) |
 | The Demon Lord and the Guardian Knights | 134641 | [134641-the-demon-lord-and-the-guardian-knights.json](./134641-the-demon-lord-and-the-guardian-knights.json) |
 | The Demon Lord is Mine! | 215189 | [215189-the-demon-lord-is-mine.json](./215189-the-demon-lord-is-mine.json) |
 | The Demon Lord is New in Town! | 159736 | [159736-the-demon-lord-is-new-in-town.json](./159736-the-demon-lord-is-new-in-town.json) |
@@ -2969,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Summerset - Collector's Editions | 96024 | [96024-the-elder-scrolls-online-summerset-collectors-editions.json](./96024-the-elder-scrolls-online-summerset-collectors-editions.json) |
 | The Elder Scrolls Online: Wrathstone | 116150 | [116150-the-elder-scrolls-online-wrathstone.json](./116150-the-elder-scrolls-online-wrathstone.json) |
 | The Elder Scrolls Renewal: Skywind | 143732 | [143732-the-elder-scrolls-renewal-skywind.json](./143732-the-elder-scrolls-renewal-skywind.json) |
+| The Elder Scrolls Travels: Dawnstar | 47571 | [47571-the-elder-scrolls-travels-dawnstar.json](./47571-the-elder-scrolls-travels-dawnstar.json) |
 | The Elder Scrolls V: Skyrim - Dawnguard | 2992 | [2992-the-elder-scrolls-v-skyrim-dawnguard.json](./2992-the-elder-scrolls-v-skyrim-dawnguard.json) |
 | The Elder Scrolls V: Skyrim - Dragonborn | 6069 | [6069-the-elder-scrolls-v-skyrim-dragonborn.json](./6069-the-elder-scrolls-v-skyrim-dragonborn.json) |
 | The Elder Scrolls V: Skyrim - Premium Edition | 44556 | [44556-the-elder-scrolls-v-skyrim-premium-edition.json](./44556-the-elder-scrolls-v-skyrim-premium-edition.json) |
@@ -3877,6 +3880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters 2001 | 15432 | [15432-the-king-of-fighters-2001.json](./15432-the-king-of-fighters-2001.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
 | The King of Fighters EX2: Howling Blood | 49169 | [49169-the-king-of-fighters-ex2-howling-blood.json](./49169-the-king-of-fighters-ex2-howling-blood.json) |
+| The King of Fighters Extreme | 47572 | [47572-the-king-of-fighters-extreme.json](./47572-the-king-of-fighters-extreme.json) |
 | The King of Fighters Online | 76968 | [76968-the-king-of-fighters-online.json](./76968-the-king-of-fighters-online.json) |
 | The King of Fighters XIII: Galaxy Edition | 126461 | [126461-the-king-of-fighters-xiii-galaxy-edition.json](./126461-the-king-of-fighters-xiii-galaxy-edition.json) |
 | The King of Fighters XIII: Iori with the Power of Flames | 404927 | [404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json](./404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json) |
@@ -4766,6 +4770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
 | The Nova Era | 209712 | [209712-the-nova-era.json](./209712-the-nova-era.json) |
 | The Now We've Named | 215226 | [215226-the-now-weve-named.json](./215226-the-now-weve-named.json) |
+| The Numarin | 47543 | [47543-the-numarin.json](./47543-the-numarin.json) |
 | The Numzle | 233096 | [233096-the-numzle.json](./233096-the-numzle.json) |
 | The Nutcracker | 216997 | [216997-the-nutcracker.json](./216997-the-nutcracker.json) |
 | The Nutshack But It's A Game | 326591 | [326591-the-nutshack-but-its-a-game.json](./326591-the-nutshack-but-its-a-game.json) |
@@ -5195,6 +5200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Room Syndrome | 124218 | [124218-the-room-syndrome.json](./124218-the-room-syndrome.json) |
 | The Room Tribute | 92463 | [92463-the-room-tribute.json](./92463-the-room-tribute.json) |
 | The Rooms | 191855 | [191855-the-rooms.json](./191855-the-rooms.json) |
+| The Roots: Gates of Chaos | 47566 | [47566-the-roots-gates-of-chaos.json](./47566-the-roots-gates-of-chaos.json) |
 | The Roottrees Are Dead | 276492 | [276492-the-roottrees-are-dead.json](./276492-the-roottrees-are-dead.json) |
 | The Roscoe: Who's Ya Daddy? | 183587 | [183587-the-roscoe-whos-ya-daddy.json](./183587-the-roscoe-whos-ya-daddy.json) |
 | The Rose Garden | 105113 | [105113-the-rose-garden.json](./105113-the-rose-garden.json) |
@@ -5268,6 +5274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sea Hotel: Umineko Tei | 169416 | [169416-the-sea-hotel-umineko-tei.json](./169416-the-sea-hotel-umineko-tei.json) |
 | The Sea Lion | 386845 | [386845-the-sea-lion.json](./386845-the-sea-lion.json) |
 | The Seal Hunter | 345555 | [345555-the-seal-hunter.json](./345555-the-seal-hunter.json) |
+| The Seal of Hades | 47536 | [47536-the-seal-of-hades.json](./47536-the-seal-of-hades.json) |
 | The Séance of Blake Manor | 335833 | [335833-the-seance-of-blake-manor.json](./335833-the-seance-of-blake-manor.json) |
 | The Search | 30193 | [30193-the-search.json](./30193-the-search.json) |
 | The Search For Above Average Life | 361752 | [361752-the-search-for-above-average-life.json](./361752-the-search-for-above-average-life.json) |
@@ -8089,6 +8096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToHeart2 | 132039 | [132039-toheart2.json](./132039-toheart2.json) |
 | Tohotopia | 391609 | [391609-tohotopia.json](./391609-tohotopia.json) |
 | Tohu-Teka | 120159 | [120159-tohu-teka.json](./120159-tohu-teka.json) |
+| Toi Acid Game | 47525 | [47525-toi-acid-game.json](./47525-toi-acid-game.json) |
 | Toil & Trubble | 404933 | [404933-toil-and-trubble.json](./404933-toil-and-trubble.json) |
 | Toilet 8 | 378306 | [378306-toilet-8.json](./378306-toilet-8.json) |
 | Toilet Farm | 185005 | [185005-toilet-farm.json](./185005-toilet-farm.json) |
@@ -9735,6 +9743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trans-Galactic Tournament | 77963 | [77963-trans-galactic-tournament.json](./77963-trans-galactic-tournament.json) |
 | Trans-Siberian Railway Simulator | 114950 | [114950-trans-siberian-railway-simulator.json](./114950-trans-siberian-railway-simulator.json) |
 | Transarctica | 10857 | [10857-transarctica.json](./10857-transarctica.json) |
+| Transball | 47554 | [47554-transball.json](./47554-transball.json) |
 | TransBot | 29136 | [29136-transbot.json](./29136-transbot.json) |
 | Transcontinental | 328281 | [328281-transcontinental.json](./328281-transcontinental.json) |
 | Transformers | 241501 | [241501-transformers.json](./241501-transformers.json) |
