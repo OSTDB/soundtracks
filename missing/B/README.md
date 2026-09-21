@@ -1401,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 3: Aftershock | 23916 | [23916-battlefield-3-aftershock.json](./23916-battlefield-3-aftershock.json) |
 | Battlefield 4: China Rising | 3091 | [3091-battlefield-4-china-rising.json](./3091-battlefield-4-china-rising.json) |
 | Battlefield 4: Dragon's Teeth | 3095 | [3095-battlefield-4-dragons-teeth.json](./3095-battlefield-4-dragons-teeth.json) |
+| Battlefield 4: Limited Edition | 51530 | [51530-battlefield-4-limited-edition.json](./51530-battlefield-4-limited-edition.json) |
 | Battlefield 6 Season 1 | 375280 | [375280-battlefield-6-season-1.json](./375280-battlefield-6-season-1.json) |
 | Battlefield 6 Season 4 | 410995 | [410995-battlefield-6-season-4.json](./410995-battlefield-6-season-4.json) |
 | Battlefield Armor | 105359 | [105359-battlefield-armor.json](./105359-battlefield-armor.json) |
@@ -2852,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mesa Inbound | 253030 | [253030-black-mesa-inbound.json](./253030-black-mesa-inbound.json) |
 | Black Mesa: Classic | 283761 | [283761-black-mesa-classic.json](./283761-black-mesa-classic.json) |
 | Black Mirror: Thronglets | 339816 | [339816-black-mirror-thronglets.json](./339816-black-mirror-thronglets.json) |
+| Black Mist | 51515 | [51515-black-mist.json](./51515-black-mist.json) |
 | Black Monday | 94217 | [94217-black-monday.json](./94217-black-monday.json) |
 | Black Morph | 165519 | [165519-black-morph.json](./165519-black-morph.json) |
 | Black My White | 334763 | [334763-black-my-white.json](./334763-black-my-white.json) |
@@ -2998,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Prince Academy | 244382 | [244382-blade-prince-academy.json](./244382-blade-prince-academy.json) |
 | Blade Reborn: Forge Your Destiny | 102787 | [102787-blade-reborn-forge-your-destiny.json](./102787-blade-reborn-forge-your-destiny.json) |
 | Blade Runner 2033: Labyrinth | 255093 | [255093-blade-runner-2033-labyrinth.json](./255093-blade-runner-2033-labyrinth.json) |
+| Blade Runner 2049: Replicant Pursuit | 51529 | [51529-blade-runner-2049-replicant-pursuit.json](./51529-blade-runner-2049-replicant-pursuit.json) |
 | Blade Strangers | 37032 | [37032-blade-strangers.json](./37032-blade-strangers.json) |
 | Blade Tempest | 372454 | [372454-blade-tempest.json](./372454-blade-tempest.json) |
 | Blade Tournament | 86583 | [86583-blade-tournament.json](./86583-blade-tournament.json) |
