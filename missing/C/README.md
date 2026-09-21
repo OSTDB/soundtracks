@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| C So! | 6095 | [6095-c-so.json](./6095-c-so.json) |
 | C-evo | 10033 | [10033-c-evo.json](./10033-c-evo.json) |
 | C-Rush | 16833 | [16833-c-rush.json](./16833-c-rush.json) |
 | C-Smash VRS: New Dimension | 321377 | [321377-c-smash-vrs-new-dimension.json](./321377-c-smash-vrs-new-dimension.json) |
@@ -1697,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ch1mpnotic | 141686 | [141686-ch1mpnotic.json](./141686-ch1mpnotic.json) |
 | Chacha Fighter V | 98258 | [98258-chacha-fighter-v.json](./98258-chacha-fighter-v.json) |
 | Chachacha Slot | 87296 | [87296-chachacha-slot.json](./87296-chachacha-slot.json) |
+| Chack'n Pop | 6103 | [6103-chackn-pop.json](./6103-chackn-pop.json) |
 | Chadboy | 241618 | [241618-chadboy.json](./241618-chadboy.json) |
 | Chagunitzu | 79586 | [79586-chagunitzu.json](./79586-chagunitzu.json) |
 | Chai | 236280 | [236280-chai.json](./236280-chai.json) |
@@ -1763,10 +1765,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champ Man 15 | 60223 | [60223-champ-man-15.json](./60223-champ-man-15.json) |
 | Champ's Nightmare | 238076 | [238076-champs-nightmare.json](./238076-champs-nightmare.json) |
 | Champion Base Ball Part-2 | 125958 | [125958-champion-base-ball-part-2.json](./125958-champion-base-ball-part-2.json) |
+| Champion Baseball | 6084 | [6084-champion-baseball.json](./6084-champion-baseball.json) |
+| Champion Billiards | 6085 | [6085-champion-billiards.json](./6085-champion-billiards.json) |
+| Champion Boxing | 6086 | [6086-champion-boxing.json](./6086-champion-boxing.json) |
 | Champion Cup Goal 2 | 242220 | [242220-champion-cup-goal-2.json](./242220-champion-cup-goal-2.json) |
+| Champion Golf | 6087 | [6087-champion-golf.json](./6087-champion-golf.json) |
+| Champion Ice Hockey | 6088 | [6088-champion-ice-hockey.json](./6088-champion-ice-hockey.json) |
+| Champion Kendo | 6089 | [6089-champion-kendo.json](./6089-champion-kendo.json) |
 | Champion of Andia | 272282 | [272282-champion-of-andia.json](./272282-champion-of-andia.json) |
+| Champion Pro Wrestling | 6090 | [6090-champion-pro-wrestling.json](./6090-champion-pro-wrestling.json) |
 | Champion ProWres Special | 125978 | [125978-champion-prowres-special.json](./125978-champion-prowres-special.json) |
 | Champion Shift | 249837 | [249837-champion-shift.json](./249837-champion-shift.json) |
+| Champion Soccer | 6092 | [6092-champion-soccer.json](./6092-champion-soccer.json) |
+| Champion Tennis | 6093 | [6093-champion-tennis.json](./6093-champion-tennis.json) |
 | Champions and Challengers | 174739 | [174739-champions-and-challengers.json](./174739-champions-and-challengers.json) |
 | Champions of Breakfast | 33423 | [33423-champions-of-breakfast.json](./33423-champions-of-breakfast.json) |
 | Champions of Midgard | 111632 | [111632-champions-of-midgard.json](./111632-champions-of-midgard.json) |
@@ -1776,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions Tactics Reforged | 343807 | [343807-champions-tactics-reforged.json](./343807-champions-tactics-reforged.json) |
 | Champions: Return to Arms | 10237 | [10237-champions-return-to-arms.json](./10237-champions-return-to-arms.json) |
 | Championship Chess | 56776 | [56776-championship-chess.json](./56776-championship-chess.json) |
+| Championship Lode Runner | 6091 | [6091-championship-lode-runner.json](./6091-championship-lode-runner.json) |
 | Championship Manager '93 | 11306 | [11306-championship-manager-93.json](./11306-championship-manager-93.json) |
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
 | Championship Manager 2008 | 14840 | [14840-championship-manager-2008.json](./14840-championship-manager-2008.json) |
