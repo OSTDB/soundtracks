@@ -1472,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tequila Sunrise | 135821 | [135821-tequila-sunrise.json](./135821-tequila-sunrise.json) |
 | Tequila Zombies | 93552 | [93552-tequila-zombies.json](./93552-tequila-zombies.json) |
 | Tequila Zombies 2 | 93551 | [93551-tequila-zombies-2.json](./93551-tequila-zombies-2.json) |
+| Tequila Zombies 3: Things to Die For | 59063 | [59063-tequila-zombies-3-things-to-die-for.json](./59063-tequila-zombies-3-things-to-die-for.json) |
 | Teraburst | 394174 | [394174-teraburst.json](./394174-teraburst.json) |
 | Teraphobia | 159250 | [159250-teraphobia.json](./159250-teraphobia.json) |
 | Terasene The Light of Her Life | 273102 | [273102-terasene-the-light-of-her-life.json](./273102-terasene-the-light-of-her-life.json) |
@@ -1976,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Andesia Project | 279100 | [279100-the-andesia-project.json](./279100-the-andesia-project.json) |
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
+| The Angry Viking | 59068 | [59068-the-angry-viking.json](./59068-the-angry-viking.json) |
 | The Animal Detectives | 206190 | [206190-the-animal-detectives.json](./206190-the-animal-detectives.json) |
 | The Animals of Farthing Wood | 364539 | [364539-the-animals-of-farthing-wood.json](./364539-the-animals-of-farthing-wood.json) |
 | The Annual Ghost Town Pumpkin Festival | 141145 | [141145-the-annual-ghost-town-pumpkin-festival.json](./141145-the-annual-ghost-town-pumpkin-festival.json) |
@@ -2154,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beast | 100210 | [100210-the-beast.json](./100210-the-beast.json) |
 | The Beast Inside | 88116 | [88116-the-beast-inside.json](./88116-the-beast-inside.json) |
 | The Beast of the Rosewood | 302134 | [302134-the-beast-of-the-rosewood.json](./302134-the-beast-of-the-rosewood.json) |
+| The Beat, The Step, and the Cowboys | 59041 | [59041-the-beat-the-step-and-the-cowboys.json](./59041-the-beat-the-step-and-the-cowboys.json) |
 | The Beatles: Adventures in Pepperland | 198501 | [198501-the-beatles-adventures-in-pepperland.json](./198501-the-beatles-adventures-in-pepperland.json) |
 | The Bee Hive | 378786 | [378786-the-bee-hive.json](./378786-the-bee-hive.json) |
 | The Beginner Investor | 384087 | [384087-the-beginner-investor.json](./384087-the-beginner-investor.json) |
@@ -4564,6 +4567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Missing Part | 349880 | [349880-the-missing-part.json](./349880-the-missing-part.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
 | The Mission | 78027 | [78027-the-mission.json](./78027-the-mission.json) |
+| The Mission Unpossible | 59061 | [59061-the-mission-unpossible.json](./59061-the-mission-unpossible.json) |
 | The Mist City | 284333 | [284333-the-mist-city.json](./284333-the-mist-city.json) |
 | The Mistcaller | 234641 | [234641-the-mistcaller.json](./234641-the-mistcaller.json) |
 | The Misty Tale | 190190 | [190190-the-misty-tale.json](./190190-the-misty-tale.json) |
@@ -7951,6 +7955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the HeIghts of My Heart | 178044 | [178044-to-the-heights-of-my-heart.json](./178044-to-the-heights-of-my-heart.json) |
 | To the Home | 405478 | [405478-to-the-home.json](./405478-to-the-home.json) |
 | To the Kingdom | 352287 | [352287-to-the-kingdom.json](./352287-to-the-kingdom.json) |
+| To the Mars! | 59074 | [59074-to-the-mars.json](./59074-to-the-mars.json) |
 | To the Moon | 339932 | [339932-to-the-moon.json](./339932-to-the-moon.json) |
 | To the Moon: Sigmund Minisode 1 & 2 (Holiday Special) | 332533 | [332533-to-the-moon-sigmund-minisode-1-and-2-holiday-special.json](./332533-to-the-moon-sigmund-minisode-1-and-2-holiday-special.json) |
 | To the Mountain | 331128 | [331128-to-the-mountain.json](./331128-to-the-mountain.json) |
