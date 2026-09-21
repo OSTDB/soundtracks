@@ -1979,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireFly Studios' Stronghold Warchest | 78021 | [78021-firefly-studios-stronghold-warchest.json](./78021-firefly-studios-stronghold-warchest.json) |
 | Firefly Witch | 275345 | [275345-firefly-witch.json](./275345-firefly-witch.json) |
 | FireForce Online | 240907 | [240907-fireforce-online.json](./240907-fireforce-online.json) |
+| Firefox | 7970 | [7970-firefox.json](./7970-firefox.json) |
 | Firefox Boulder Dash 01 | 116158 | [116158-firefox-boulder-dash-01.json](./116158-firefox-boulder-dash-01.json) |
 | Firefrost | 286091 | [286091-firefrost.json](./286091-firefrost.json) |
 | Firegirl: Hack 'n Splash Rescue | 117527 | [117527-firegirl-hack-n-splash-rescue.json](./117527-firegirl-hack-n-splash-rescue.json) |
@@ -3519,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossil Skater | 318214 | [318214-fossil-skater.json](./318214-fossil-skater.json) |
 | Fossilpunk | 327189 | [327189-fossilpunk.json](./327189-fossilpunk.json) |
 | Foster's Home for Imaginary Friends | 230313 | [230313-fosters-home-for-imaginary-friends.json](./230313-fosters-home-for-imaginary-friends.json) |
+| Foster's Home for Imaginary Friends: Imagination Invaders | 8004 | [8004-fosters-home-for-imaginary-friends-imagination-invaders.json](./8004-fosters-home-for-imaginary-friends-imagination-invaders.json) |
 | Fostering Apocalypse | 153991 | [153991-fostering-apocalypse.json](./153991-fostering-apocalypse.json) |
 | Foto Boy: A New Job | 290932 | [290932-foto-boy-a-new-job.json](./290932-foto-boy-a-new-job.json) |
 | Foto Face: The Face Stealer Strikes | 67286 | [67286-foto-face-the-face-stealer-strikes.json](./67286-foto-face-the-face-stealer-strikes.json) |
