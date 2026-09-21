@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ageless Machine: Cup of Tea | 180716 | [180716-ageless-machine-cup-of-tea.json](./180716-ageless-machine-cup-of-tea.json) |
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent Action | 138003 | [138003-agent-action.json](./138003-agent-action.json) |
+| Agent Armstrong | 11293 | [11293-agent-armstrong.json](./11293-agent-armstrong.json) |
 | Agent Hugo: Hula Holiday | 43512 | [43512-agent-hugo-hula-holiday.json](./43512-agent-hugo-hula-holiday.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
 | Agent MOO: Maximum Overdeath | 66387 | [66387-agent-moo-maximum-overdeath.json](./66387-agent-moo-maximum-overdeath.json) |
@@ -1591,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Dogfight | 38942 | [38942-alien-dogfight.json](./38942-alien-dogfight.json) |
 | Alien Dropout | 15593 | [15593-alien-dropout.json](./15593-alien-dropout.json) |
 | Alien Drug Lords: The Chyropian Connection | 14242 | [14242-alien-drug-lords-the-chyropian-connection.json](./14242-alien-drug-lords-the-chyropian-connection.json) |
+| Alien Earth | 11294 | [11294-alien-earth.json](./11294-alien-earth.json) |
 | Alien Egg: Ascent | 137671 | [137671-alien-egg-ascent.json](./137671-alien-egg-ascent.json) |
 | Alien Engine | 207897 | [207897-alien-engine.json](./207897-alien-engine.json) |
 | Alien Extraction | 195691 | [195691-alien-extraction.json](./195691-alien-extraction.json) |
@@ -1869,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alligator Hunt | 38519 | [38519-alligator-hunt.json](./38519-alligator-hunt.json) |
 | Alligator Mix | 42194 | [42194-alligator-mix.json](./42194-alligator-mix.json) |
 | Alligori | 272866 | [272866-alligori.json](./272866-alligori.json) |
+| Allison Road | 11296 | [11296-allison-road.json](./11296-allison-road.json) |
 | Allison's Diary: Rebirth | 112771 | [112771-allisons-diary-rebirth.json](./112771-allisons-diary-rebirth.json) |
 | Allkpop Allstar | 59657 | [59657-allkpop-allstar.json](./59657-allkpop-allstar.json) |
 | Allogloom | 277935 | [277935-allogloom.json](./277935-allogloom.json) |
