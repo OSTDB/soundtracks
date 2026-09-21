@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Ends Act | 208441 | [208441-never-ends-act.json](./208441-never-ends-act.json) |
 | Never Experiment On Cats! | 332830 | [332830-never-experiment-on-cats.json](./332830-never-experiment-on-cats.json) |
 | Never Fall | 334187 | [334187-never-fall.json](./334187-never-fall.json) |
+| Never Forget Me | 31168 | [31168-never-forget-me.json](./31168-never-forget-me.json) |
 | Never Forgotten | 239639 | [239639-never-forgotten.json](./239639-never-forgotten.json) |
 | Never Immortal | 235741 | [235741-never-immortal.json](./235741-never-immortal.json) |
 | Never out of Time | 193476 | [193476-never-out-of-time.json](./193476-never-out-of-time.json) |
@@ -2403,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Corps | 187519 | [187519-nuclear-corps.json](./187519-nuclear-corps.json) |
 | Nuclear Creatures | 288338 | [288338-nuclear-creatures.json](./288338-nuclear-creatures.json) |
 | Nuclear Day | 223996 | [223996-nuclear-day.json](./223996-nuclear-day.json) |
+| Nuclear Embargo | 31182 | [31182-nuclear-embargo.json](./31182-nuclear-embargo.json) |
 | Nuclear Empire | 203296 | [203296-nuclear-empire.json](./203296-nuclear-empire.json) |
 | Nuclear Engineer Tycoon | 414331 | [414331-nuclear-engineer-tycoon.json](./414331-nuclear-engineer-tycoon.json) |
 | Nuclear Gladiators 3000 | 273447 | [273447-nuclear-gladiators-3000.json](./273447-nuclear-gladiators-3000.json) |
