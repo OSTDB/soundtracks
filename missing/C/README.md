@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions Stable: Equestrian Dynasty | 386838 | [386838-champions-stable-equestrian-dynasty.json](./386838-champions-stable-equestrian-dynasty.json) |
 | Champions Tactics Reforged | 343807 | [343807-champions-tactics-reforged.json](./343807-champions-tactics-reforged.json) |
 | Champions: Return to Arms | 10237 | [10237-champions-return-to-arms.json](./10237-champions-return-to-arms.json) |
+| Championship Chess | 56776 | [56776-championship-chess.json](./56776-championship-chess.json) |
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
 | Championship Manager 2008 | 14840 | [14840-championship-manager-2008.json](./14840-championship-manager-2008.json) |
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
