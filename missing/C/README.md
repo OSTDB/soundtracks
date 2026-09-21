@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats & Dice | 319342 | [319342-cats-and-dice.json](./319342-cats-and-dice.json) |
 | Cats & Soup | 174818 | [174818-cats-and-soup.json](./174818-cats-and-soup.json) |
 | Cats and Jigsaws | 188124 | [188124-cats-and-jigsaws.json](./188124-cats-and-jigsaws.json) |
+| Cats and Seek: Osaka | 275525 | [275525-cats-and-seek-osaka.json](./275525-cats-and-seek-osaka.json) |
 | Cats and Seek: Tokyo | 315298 | [315298-cats-and-seek-tokyo.json](./315298-cats-and-seek-tokyo.json) |
 | Cats Are Jerks | 232172 | [232172-cats-are-jerks.json](./232172-cats-are-jerks.json) |
 | Cats Away | 352180 | [352180-cats-away.json](./352180-cats-away.json) |
@@ -1598,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrity Life | 157138 | [157138-celebrity-life.json](./157138-celebrity-life.json) |
 | Celebrity Slot Machine | 242550 | [242550-celebrity-slot-machine.json](./242550-celebrity-slot-machine.json) |
 | Celestarium | 226300 | [226300-celestarium.json](./226300-celestarium.json) |
+| Celeste 64: Fragments of the Mountain | 284430 | [284430-celeste-64-fragments-of-the-mountain.json](./284430-celeste-64-fragments-of-the-mountain.json) |
 | Celeste Classic | 215762 | [215762-celeste-classic.json](./215762-celeste-classic.json) |
 | Celeste Classic 2: Lani's Trek | 142841 | [142841-celeste-classic-2-lanis-trek.json](./142841-celeste-classic-2-lanis-trek.json) |
 | Celeste Fusion Collab | 358282 | [358282-celeste-fusion-collab.json](./358282-celeste-fusion-collab.json) |
@@ -2504,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choplifter | 343894 | [343894-choplifter.json](./343894-choplifter.json) |
 | Choplifter HD | 15158 | [15158-choplifter-hd.json](./15158-choplifter-hd.json) |
 | Choplifter II: Rescue Survive | 7823 | [7823-choplifter-ii-rescue-survive.json](./7823-choplifter-ii-rescue-survive.json) |
+| Choplifter III: Rescue Survive | 7824 | [7824-choplifter-iii-rescue-survive.json](./7824-choplifter-iii-rescue-survive.json) |
 | Choplifter! | 343884 | [343884-choplifter.json](./343884-choplifter.json) |
 | Choplifter! | 343885 | [343885-choplifter.json](./343885-choplifter.json) |
 | Choplifter! | 343886 | [343886-choplifter.json](./343886-choplifter.json) |
@@ -4433,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Store Simulator | 391748 | [391748-console-store-simulator.json](./391748-console-store-simulator.json) |
 | Console War Giant | 407313 | [407313-console-war-giant.json](./407313-console-war-giant.json) |
 | Consonance | 374596 | [374596-consonance.json](./374596-consonance.json) |
+| Constance | 258950 | [258950-constance.json](./258950-constance.json) |
 | ConsTance | 323524 | [323524-constance.json](./323524-constance.json) |
 | Constantine | 236004 | [236004-constantine.json](./236004-constantine.json) |
 | Constantine | 5787 | [5787-constantine.json](./5787-constantine.json) |
