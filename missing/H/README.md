@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Lady! | 95168 | [95168-hello-lady.json](./95168-hello-lady.json) |
 | Hello Lady! Complete Edition | 187447 | [187447-hello-lady-complete-edition.json](./187447-hello-lady-complete-edition.json) |
 | Hello Loaf | 367496 | [367496-hello-loaf.json](./367496-hello-loaf.json) |
+| Hello Neighbor 2 | 135991 | [135991-hello-neighbor-2.json](./135991-hello-neighbor-2.json) |
 | Hello Neighbor 2: Deluxe Edition | 196805 | [196805-hello-neighbor-2-deluxe-edition.json](./196805-hello-neighbor-2-deluxe-edition.json) |
 | Hello Neighbor Bundle | 118852 | [118852-hello-neighbor-bundle.json](./118852-hello-neighbor-bundle.json) |
 | Hello Neighbor: Hide and Seek | 107614 | [107614-hello-neighbor-hide-and-seek.json](./107614-hello-neighbor-hide-and-seek.json) |
@@ -2853,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey: Strategy of Success | 115690 | [115690-hockey-strategy-of-success.json](./115690-hockey-strategy-of-success.json) |
 | Hoco Poco | 129577 | [129577-hoco-poco.json](./129577-hoco-poco.json) |
 | Hocus 2 | 149537 | [149537-hocus-2.json](./149537-hocus-2.json) |
+| Hocus Pocus | 8476 | [8476-hocus-pocus.json](./8476-hocus-pocus.json) |
 | Hocus Pocus Prince | 183563 | [183563-hocus-pocus-prince.json](./183563-hocus-pocus-prince.json) |
 | HocusDOOM | 201232 | [201232-hocusdoom.json](./201232-hocusdoom.json) |
 | HoD: On open seas | 90612 | [90612-hod-on-open-seas.json](./90612-hod-on-open-seas.json) |
