@@ -1529,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BBS (Bulletin Board System) Magica | 399740 | [399740-bbs-bulletin-board-system-magica.json](./399740-bbs-bulletin-board-system-magica.json) |
 | BC Racers | 5362 | [5362-bc-racers.json](./5362-bc-racers.json) |
 | Bckspce | 411576 | [411576-bckspce.json](./411576-bckspce.json) |
+| BCV: Battle Construction Vehicles | 43534 | [43534-bcv-battle-construction-vehicles.json](./43534-bcv-battle-construction-vehicles.json) |
 | BDSM Sex | 294129 | [294129-bdsm-sex.json](./294129-bdsm-sex.json) |
 | BDSM Sex: Episode 2 | 295381 | [295381-bdsm-sex-episode-2.json](./295381-bdsm-sex-episode-2.json) |
 | BDSM Sex: Episode 3 | 295382 | [295382-bdsm-sex-episode-3.json](./295382-bdsm-sex-episode-3.json) |
@@ -1655,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast League | 251206 | [251206-beast-league.json](./251206-beast-league.json) |
 | Beast Lord: The New Land | 297500 | [297500-beast-lord-the-new-land.json](./297500-beast-lord-the-new-land.json) |
 | Beast Master and Prince: Snow Bride | 136452 | [136452-beast-master-and-prince-snow-bride.json](./136452-beast-master-and-prince-snow-bride.json) |
+| Beast Mode: Night of the Werewolf | 43541 | [43541-beast-mode-night-of-the-werewolf.json](./43541-beast-mode-night-of-the-werewolf.json) |
 | Beast Mode: Night of the Werewolf Silver Bullet Edition | 273113 | [273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json](./273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json) |
 | Beast Wrestler | 46239 | [46239-beast-wrestler.json](./46239-beast-wrestler.json) |
 | Beastie Land | 148922 | [148922-beastie-land.json](./148922-beastie-land.json) |
@@ -3160,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Trail | 293100 | [293100-blazing-trail.json](./293100-blazing-trail.json) |
 | Blazing War | 203915 | [203915-blazing-war.json](./203915-blazing-war.json) |
 | Bleach vs Naruto | 228437 | [228437-bleach-vs-naruto.json](./228437-bleach-vs-naruto.json) |
+| Bleach: Erabareshi Tamashi | 43533 | [43533-bleach-erabareshi-tamashi.json](./43533-bleach-erabareshi-tamashi.json) |
 | Bleach: Heat the Soul 4 | 46001 | [46001-bleach-heat-the-soul-4.json](./46001-bleach-heat-the-soul-4.json) |
 | Bleach: Heat the Soul 5 | 72958 | [72958-bleach-heat-the-soul-5.json](./72958-bleach-heat-the-soul-5.json) |
 | Bleach: Paradise Lost | 52199 | [52199-bleach-paradise-lost.json](./52199-bleach-paradise-lost.json) |
@@ -3370,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
 | Blockage | 306966 | [306966-blockage.json](./306966-blockage.json) |
 | BlockAid | 32882 | [32882-blockaid.json](./32882-blockaid.json) |
+| Blockara | 43493 | [43493-blockara.json](./43493-blockara.json) |
 | BlockBawks | 293102 | [293102-blockbawks.json](./293102-blockbawks.json) |
 | BlockBuster | 68647 | [68647-blockbuster.json](./68647-blockbuster.json) |
 | Blockbuster Inc. | 189965 | [189965-blockbuster-inc.json](./189965-blockbuster-inc.json) |
@@ -3842,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bochi Collection | 391029 | [391029-bochi-collection.json](./391029-bochi-collection.json) |
 | Bod Squad | 47236 | [47236-bod-squad.json](./47236-bod-squad.json) |
 | Bodacious Babes: Nightlife | 295370 | [295370-bodacious-babes-nightlife.json](./295370-bodacious-babes-nightlife.json) |
+| Bode Miller Alpine Skiing | 43553 | [43553-bode-miller-alpine-skiing.json](./43553-bode-miller-alpine-skiing.json) |
 | Bodhi 'n' Friends | 236264 | [236264-bodhi-n-friends.json](./236264-bodhi-n-friends.json) |
 | Bodi Pripravljen: Be Prepared | 379887 | [379887-bodi-pripravljen-be-prepared.json](./379887-bodi-pripravljen-be-prepared.json) |
 | Bodian's Bay Wash | 405519 | [405519-bodians-bay-wash.json](./405519-bodians-bay-wash.json) |
@@ -4004,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman GB | 135909 | [135909-bomberman-gb.json](./135909-bomberman-gb.json) |
 | Bomberman Generation | 3832 | [3832-bomberman-generation.json](./3832-bomberman-generation.json) |
 | Bomberman Hardball | 45295 | [45295-bomberman-hardball.json](./45295-bomberman-hardball.json) |
+| Bomberman Kart | 43535 | [43535-bomberman-kart.json](./43535-bomberman-kart.json) |
 | Bomberman Land | 77674 | [77674-bomberman-land.json](./77674-bomberman-land.json) |
 | Bomberman Land 3 | 64947 | [64947-bomberman-land-3.json](./64947-bomberman-land-3.json) |
 | Bomberman Land Touch! | 20612 | [20612-bomberman-land-touch.json](./20612-bomberman-land-touch.json) |
@@ -5707,6 +5713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust a date | 173829 | [173829-bust-a-date.json](./173829-bust-a-date.json) |
 | Bust A Groove | 4138 | [4138-bust-a-groove.json](./4138-bust-a-groove.json) |
 | Bust Out | 174878 | [174878-bust-out.json](./174878-bust-out.json) |
+| Bust-A-Bloc | 43509 | [43509-bust-a-bloc.json](./43509-bust-a-bloc.json) |
 | Bust-A-Move | 246391 | [246391-bust-a-move.json](./246391-bust-a-move.json) |
 | Bust-a-Move '99 | 44958 | [44958-bust-a-move-99.json](./44958-bust-a-move-99.json) |
 | Bust-A-Move 2: Arcade Edition | 3455 | [3455-bust-a-move-2-arcade-edition.json](./3455-bust-a-move-2-arcade-edition.json) |
@@ -5783,8 +5790,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz! Brain Bender | 23267 | [23267-buzz-brain-bender.json](./23267-buzz-brain-bender.json) |
 | Buzz! De slimste van Nederland | 77281 | [77281-buzz-de-slimste-van-nederland.json](./77281-buzz-de-slimste-van-nederland.json) |
 | Buzz! Junior Ace Racers | 21305 | [21305-buzz-junior-ace-racers.json](./21305-buzz-junior-ace-racers.json) |
+| Buzz! Junior: Dino Den | 43507 | [43507-buzz-junior-dino-den.json](./43507-buzz-junior-dino-den.json) |
 | Buzz! Junior: Monster Rumble | 43506 | [43506-buzz-junior-monster-rumble.json](./43506-buzz-junior-monster-rumble.json) |
 | Buzz! Junior: Robo Jam | 44710 | [44710-buzz-junior-robo-jam.json](./44710-buzz-junior-robo-jam.json) |
+| Buzz! The Sports Quiz | 43520 | [43520-buzz-the-sports-quiz.json](./43520-buzz-the-sports-quiz.json) |
 | Buzz! The Ultimate Music Quiz | 44586 | [44586-buzz-the-ultimate-music-quiz.json](./44586-buzz-the-ultimate-music-quiz.json) |
 | Buzz!: Brain of the World | 7282 | [7282-buzz-brain-of-the-world.json](./7282-buzz-brain-of-the-world.json) |
 | Buzz!: Quiz TV Special Edition | 268768 | [268768-buzz-quiz-tv-special-edition.json](./268768-buzz-quiz-tv-special-edition.json) |
