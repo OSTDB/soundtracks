@@ -3267,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze Out | 94698 | [94698-blaze-out.json](./94698-blaze-out.json) |
 | BlazePunk | 415092 | [415092-blazepunk.json](./415092-blazepunk.json) |
 | Blazer | 46842 | [46842-blazer.json](./46842-blazer.json) |
+| BlazeRush | 14567 | [14567-blazerush.json](./14567-blazerush.json) |
 | BlazeSky | 131611 | [131611-blazesky.json](./131611-blazesky.json) |
 | Blazin' Aces | 61107 | [61107-blazin-aces.json](./61107-blazin-aces.json) |
 | Blazing Dragons | 45514 | [45514-blazing-dragons.json](./45514-blazing-dragons.json) |
