@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleStar Mazay | 104068 | [104068-battlestar-mazay.json](./104068-battlestar-mazay.json) |
 | Battlestations | 13872 | [13872-battlestations.json](./13872-battlestations.json) |
 | Battlestations: Midway | 4223 | [4223-battlestations-midway.json](./4223-battlestations-midway.json) |
+| Battlestations: Pacific | 4222 | [4222-battlestations-pacific.json](./4222-battlestations-pacific.json) |
 | BattleTabs | 140591 | [140591-battletabs.json](./140591-battletabs.json) |
 | Battletank: L.O.B.A. | 52635 | [52635-battletank-l-o-b-a.json](./52635-battletank-l-o-b-a.json) |
 | BattleTanx | 3421 | [3421-battletanx.json](./3421-battletanx.json) |
@@ -2107,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Omni-Charge | 363892 | [363892-ben-10-omni-charge.json](./363892-ben-10-omni-charge.json) |
 | Ben 10: Omniverse | 2800 | [2800-ben-10-omniverse.json](./2800-ben-10-omniverse.json) |
 | Ben 10: Omniverse 2 | 5310 | [5310-ben-10-omniverse-2.json](./5310-ben-10-omniverse-2.json) |
+| Ben 10: Power Trip | 136659 | [136659-ben-10-power-trip.json](./136659-ben-10-power-trip.json) |
 | Ben 10: Protector of Earth | 210263 | [210263-ben-10-protector-of-earth.json](./210263-ben-10-protector-of-earth.json) |
 | Ben 10: Savage Pursuit | 142388 | [142388-ben-10-savage-pursuit.json](./142388-ben-10-savage-pursuit.json) |
 | Ben 10: Ultimate Alien - Cosmic Destruction | 377688 | [377688-ben-10-ultimate-alien-cosmic-destruction.json](./377688-ben-10-ultimate-alien-cosmic-destruction.json) |
@@ -3706,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodpath | 329922 | [329922-bloodpath.json](./329922-bloodpath.json) |
 | BloodRayne 2 | 1016 | [1016-bloodrayne-2.json](./1016-bloodrayne-2.json) |
 | BloodRayne: Definitive Collection | 400996 | [400996-bloodrayne-definitive-collection.json](./400996-bloodrayne-definitive-collection.json) |
+| BloodRayne: Terminal Cut | 140689 | [140689-bloodrayne-terminal-cut.json](./140689-bloodrayne-terminal-cut.json) |
 | BloodRayne: The Shroud | 77344 | [77344-bloodrayne-the-shroud.json](./77344-bloodrayne-the-shroud.json) |
 | BloodRealm: War of Gods | 341055 | [341055-bloodrealm-war-of-gods.json](./341055-bloodrealm-war-of-gods.json) |
 | Bloodreaper | 308959 | [308959-bloodreaper.json](./308959-bloodreaper.json) |
@@ -3874,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluevolution | 149419 | [149419-bluevolution.json](./149419-bluevolution.json) |
 | Bluewater: Private Military Operations VR | 190066 | [190066-bluewater-private-military-operations-vr.json](./190066-bluewater-private-military-operations-vr.json) |
 | Bluey Wackadoo Watch | 230557 | [230557-bluey-wackadoo-watch.json](./230557-bluey-wackadoo-watch.json) |
+| Bluey: The Videogame | 257332 | [257332-bluey-the-videogame.json](./257332-bluey-the-videogame.json) |
 | Bluff: Fun Family Card Game | 227852 | [227852-bluff-fun-family-card-game.json](./227852-bluff-fun-family-card-game.json) |
 | Blukaty | 291241 | [291241-blukaty.json](./291241-blukaty.json) |
 | Blumgi Castle | 219262 | [219262-blumgi-castle.json](./219262-blumgi-castle.json) |
@@ -4073,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolo | 95468 | [95468-bolo.json](./95468-bolo.json) |
 | Bolo Ball | 94224 | [94224-bolo-ball.json](./94224-bolo-ball.json) |
 | Bolt | 222926 | [222926-bolt.json](./222926-bolt.json) |
+| Bolt | 4723 | [4723-bolt.json](./4723-bolt.json) |
 | Bolt Action | 380996 | [380996-bolt-action.json](./380996-bolt-action.json) |
 | Bolt: Be-Awesome Edition | 269667 | [269667-bolt-be-awesome-edition.json](./269667-bolt-be-awesome-edition.json) |
 | BoltBreak 2 | 276281 | [276281-boltbreak-2.json](./276281-boltbreak-2.json) |
