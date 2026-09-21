@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Pixels | 163365 | [163365-undead-pixels.json](./163365-undead-pixels.json) |
 | Undead Realm: Ego | 327836 | [327836-undead-realm-ego.json](./327836-undead-realm-ego.json) |
 | Undead Residence | 411662 | [411662-undead-residence.json](./411662-undead-residence.json) |
+| Undead Souls | 55496 | [55496-undead-souls.json](./55496-undead-souls.json) |
 | Undead Village | 244375 | [244375-undead-village.json](./244375-undead-village.json) |
 | Undead vs. Plants | 18120 | [18120-undead-vs-plants.json](./18120-undead-vs-plants.json) |
 | Undead West | 269587 | [269587-undead-west.json](./269587-undead-west.json) |
@@ -671,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unformed | 129015 | [129015-unformed.json](./129015-unformed.json) |
 | Unfortunate Spacemen | 34300 | [34300-unfortunate-spacemen.json](./34300-unfortunate-spacemen.json) |
 | Ungrounded | 134593 | [134593-ungrounded.json](./134593-ungrounded.json) |
+| Ungrounded: Ripple Unleashed VR | 55456 | [55456-ungrounded-ripple-unleashed-vr.json](./55456-ungrounded-ripple-unleashed-vr.json) |
 | Unhallowed | 256834 | [256834-unhallowed.json](./256834-unhallowed.json) |
 | Unhatched | 144113 | [144113-unhatched.json](./144113-unhatched.json) |
 | Unheard: The Lethal Script | 228720 | [228720-unheard-the-lethal-script.json](./228720-unheard-the-lethal-script.json) |
