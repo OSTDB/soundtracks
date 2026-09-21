@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Achievements for Achievements | 188527 | [188527-get-achievements-for-achievements.json](./188527-get-achievements-for-achievements.json) |
 | Get Away From The Cube | 335678 | [335678-get-away-from-the-cube.json](./335678-get-away-from-the-cube.json) |
 | Get Bigger! Mola | 120321 | [120321-get-bigger-mola.json](./120321-get-bigger-mola.json) |
+| Get Carnage!!! | 29222 | [29222-get-carnage.json](./29222-get-carnage.json) |
 | Get Dexter 2 | 55203 | [55203-get-dexter-2.json](./55203-get-dexter-2.json) |
 | Get Fit: Power Workout | 399639 | [399639-get-fit-power-workout.json](./399639-get-fit-power-workout.json) |
 | Get Fit: Women’s Fitness | 394999 | [394999-get-fit-women-s-fitness.json](./394999-get-fit-women-s-fitness.json) |
@@ -3372,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gummy Slide | 251236 | [251236-gummy-slide.json](./251236-gummy-slide.json) |
 | Gumnaam | 215353 | [215353-gumnaam.json](./215353-gumnaam.json) |
 | Gump Jump | 209647 | [209647-gump-jump.json](./209647-gump-jump.json) |
+| Gump Runner | 29183 | [29183-gump-runner.json](./29183-gump-runner.json) |
 | Gumslinger | 138594 | [138594-gumslinger.json](./138594-gumslinger.json) |
 | Gumtrix | 60761 | [60761-gumtrix.json](./60761-gumtrix.json) |
 | Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
