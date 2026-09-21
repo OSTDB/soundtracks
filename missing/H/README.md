@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | He Was | 184060 | [184060-he-was.json](./184060-he-was.json) |
 | He Watches Me | 264342 | [264342-he-watches-me.json](./264342-he-watches-me.json) |
 | He-Man | 198343 | [198343-he-man.json](./198343-he-man.json) |
+| He-Man: The Most Powerful Game in the Universe | 39210 | [39210-he-man-the-most-powerful-game-in-the-universe.json](./39210-he-man-the-most-powerful-game-in-the-universe.json) |
 | He's Just My Buddy | 393503 | [393503-hes-just-my-buddy.json](./393503-hes-just-my-buddy.json) |
 | He's Not My | 179045 | [179045-hes-not-my.json](./179045-hes-not-my.json) |
 | He@rtstrings | 248285 | [248285-he-rtstrings.json](./248285-he-rtstrings.json) |
@@ -1976,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic IV: Winds of War | 369 | [369-heroes-of-might-and-magic-iv-winds-of-war.json](./369-heroes-of-might-and-magic-iv-winds-of-war.json) |
 | Heroes of Normandie: Bulletproof Edition | 53190 | [53190-heroes-of-normandie-bulletproof-edition.json](./53190-heroes-of-normandie-bulletproof-edition.json) |
 | Heroes of Normandie: US Rangers | 172010 | [172010-heroes-of-normandie-us-rangers.json](./172010-heroes-of-normandie-us-rangers.json) |
+| Heroes of Order & Chaos | 39181 | [39181-heroes-of-order-and-chaos.json](./39181-heroes-of-order-and-chaos.json) |
 | Heroes of Rome: Dangerous Roads | 195722 | [195722-heroes-of-rome-dangerous-roads.json](./195722-heroes-of-rome-dangerous-roads.json) |
 | Heroes of Scene | 35623 | [35623-heroes-of-scene.json](./35623-heroes-of-scene.json) |
 | Heroes of Science and Fiction | 219606 | [219606-heroes-of-science-and-fiction.json](./219606-heroes-of-science-and-fiction.json) |
@@ -2447,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School of Blitz | 166207 | [166207-high-school-of-blitz.json](./166207-high-school-of-blitz.json) |
 | High School of Memories | 165007 | [165007-high-school-of-memories.json](./165007-high-school-of-memories.json) |
 | High School of the Dead Day 0 | 402943 | [402943-high-school-of-the-dead-day-0.json](./402943-high-school-of-the-dead-day-0.json) |
+| High School Story | 39189 | [39189-high-school-story.json](./39189-high-school-story.json) |
 | High School: Bisexual Experience | 106590 | [106590-high-school-bisexual-experience.json](./106590-high-school-bisexual-experience.json) |
 | High Sea Saga | 202849 | [202849-high-sea-saga.json](./202849-high-sea-saga.json) |
 | High Seas Havoc | 10150 | [10150-high-seas-havoc.json](./10150-high-seas-havoc.json) |
