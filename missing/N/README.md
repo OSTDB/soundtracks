@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | namCollection | 94721 | [94721-namcollection.json](./94721-namcollection.json) |
 | Name That Letter - a Phonics Game | 107661 | [107661-name-that-letter-a-phonics-game.json](./107661-name-that-letter-a-phonics-game.json) |
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
+| Name This Game | 22838 | [22838-name-this-game.json](./22838-name-this-game.json) |
 | Nameko | 68311 | [68311-nameko.json](./68311-nameko.json) |
 | Nameless | 256829 | [256829-nameless.json](./256829-nameless.json) |
 | Nameless | 294822 | [294822-nameless.json](./294822-nameless.json) |
@@ -278,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Racing 3 :Craftsman Truck Series - Expansion Pack | 69538 | [69538-nascar-racing-3-craftsman-truck-series-expansion-pack.json](./69538-nascar-racing-3-craftsman-truck-series-expansion-pack.json) |
 | NASCAR Racing Arcade | 131360 | [131360-nascar-racing-arcade.json](./131360-nascar-racing-arcade.json) |
 | NASCAR Racing: 1999 Edition | 69565 | [69565-nascar-racing-1999-edition.json](./69565-nascar-racing-1999-edition.json) |
+| NASCAR Revolution | 22832 | [22832-nascar-revolution.json](./22832-nascar-revolution.json) |
 | NASCAR Rivals: 2022 Patriotic Pack | 231360 | [231360-nascar-rivals-2022-patriotic-pack.json](./231360-nascar-rivals-2022-patriotic-pack.json) |
 | NASCAR Unleashed | 334075 | [334075-nascar-unleashed.json](./334075-nascar-unleashed.json) |
 | NASCAR Unleashed | 334076 | [334076-nascar-unleashed.json](./334076-nascar-unleashed.json) |
@@ -1194,6 +1196,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newgothic Movement 2 | 275571 | [275571-newgothic-movement-2.json](./275571-newgothic-movement-2.json) |
 | Newgrounds Rumble | 92467 | [92467-newgrounds-rumble.json](./92467-newgrounds-rumble.json) |
 | Newly-wedded Woman Stealing Life | 279603 | [279603-newly-wedded-woman-stealing-life.json](./279603-newly-wedded-woman-stealing-life.json) |
+| Newman/Haas IndyCar featuring Nigel Mansell | 22841 | [22841-newman-haas-indycar-featuring-nigel-mansell.json](./22841-newman-haas-indycar-featuring-nigel-mansell.json) |
+| Newman/Haas Racing | 22842 | [22842-newman-haas-racing.json](./22842-newman-haas-racing.json) |
 | NewPark Simon XL | 101507 | [101507-newpark-simon-xl.json](./101507-newpark-simon-xl.json) |
 | Newspaper Puzzle Challenge: Sudoku Edition | 210035 | [210035-newspaper-puzzle-challenge-sudoku-edition.json](./210035-newspaper-puzzle-challenge-sudoku-edition.json) |
 | Newsun | 324519 | [324519-newsun.json](./324519-newsun.json) |
