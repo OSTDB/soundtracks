@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby no Omochabako: Ball Rally | 134457 | [134457-kirby-no-omochabako-ball-rally.json](./134457-kirby-no-omochabako-ball-rally.json) |
 | Kirby no Omochabako: Cannonball | 134454 | [134454-kirby-no-omochabako-cannonball.json](./134454-kirby-no-omochabako-cannonball.json) |
 | Kirby no Omochabako: Guru-guru Ball | 134453 | [134453-kirby-no-omochabako-guru-guru-ball.json](./134453-kirby-no-omochabako-guru-guru-ball.json) |
+| Kirby no Omochabako: Hoshi Kuzushi | 42217 | [42217-kirby-no-omochabako-hoshi-kuzushi.json](./42217-kirby-no-omochabako-hoshi-kuzushi.json) |
 | Kirby no Omochabako: Pachinko | 134456 | [134456-kirby-no-omochabako-pachinko.json](./134456-kirby-no-omochabako-pachinko.json) |
 | Kirby no Omochabako: Pinball | 134452 | [134452-kirby-no-omochabako-pinball.json](./134452-kirby-no-omochabako-pinball.json) |
 | Kirby Puzzle | 84259 | [84259-kirby-puzzle.json](./84259-kirby-puzzle.json) |
@@ -1979,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kutsushita Nyanko: Kutsushita o Haita Neko to Kurashi Hajime Mashita | 130723 | [130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json](./130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json) |
 | Kuukiyomi 4: Consider It - Nintendo Switch 2 Edition | 378813 | [378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json](./378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json) |
 | Kuukiyomi: Consider It! Online | 187529 | [187529-kuukiyomi-consider-it-online.json](./187529-kuukiyomi-consider-it-online.json) |
+| Kuusou Kagaku Sekai Gulliver Boy | 42211 | [42211-kuusou-kagaku-sekai-gulliver-boy.json](./42211-kuusou-kagaku-sekai-gulliver-boy.json) |
 | Kuusou Kagaku Sekai Gulliver Boy | 81278 | [81278-kuusou-kagaku-sekai-gulliver-boy.json](./81278-kuusou-kagaku-sekai-gulliver-boy.json) |
 | Kuusou Sakaba: A Great Banquet Of Liars | 288361 | [288361-kuusou-sakaba-a-great-banquet-of-liars.json](./288361-kuusou-sakaba-a-great-banquet-of-liars.json) |
 | Kuzgakai's Dungeon | 215794 | [215794-kuzgakais-dungeon.json](./215794-kuzgakais-dungeon.json) |
