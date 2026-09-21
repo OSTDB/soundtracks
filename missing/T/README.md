@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Arise: Classic Characters Costume & Arranged BGM Pack | 275691 | [275691-tales-of-arise-classic-characters-costume-and-arranged-bgm-pack.json](./275691-tales-of-arise-classic-characters-costume-and-arranged-bgm-pack.json) |
 | Tales of Arise: Premium Edition | 146339 | [146339-tales-of-arise-premium-edition.json](./146339-tales-of-arise-premium-edition.json) |
 | Tales of Arise: SAO Collaboration Pack | 259813 | [259813-tales-of-arise-sao-collaboration-pack.json](./259813-tales-of-arise-sao-collaboration-pack.json) |
+| Tales of Asteria | 61863 | [61863-tales-of-asteria.json](./61863-tales-of-asteria.json) |
 | Tales of Beasteria | 127249 | [127249-tales-of-beasteria.json](./127249-tales-of-beasteria.json) |
 | Tales of Berseria Remastered: Super Growth Support Herb Set | 378867 | [378867-tales-of-berseria-remastered-super-growth-support-herb-set.json](./378867-tales-of-berseria-remastered-super-growth-support-herb-set.json) |
 | Tales of Corneria | 323906 | [323906-tales-of-corneria.json](./323906-tales-of-corneria.json) |
@@ -487,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Unknown: Volume I - The Bard's Tale | 394230 | [394230-tales-of-the-unknown-volume-i-the-bards-tale.json](./394230-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 394234 | [394234-tales-of-the-unknown-volume-i-the-bards-tale.json](./394234-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of The White Knight | 320546 | [320546-tales-of-the-white-knight.json](./320546-tales-of-the-white-knight.json) |
+| Tales of the World: Reve Unitia | 61871 | [61871-tales-of-the-world-reve-unitia.json](./61871-tales-of-the-world-reve-unitia.json) |
 | Tales of Three Kingdoms: The Mortal World | 277579 | [277579-tales-of-three-kingdoms-the-mortal-world.json](./277579-tales-of-three-kingdoms-the-mortal-world.json) |
 | Tales of TianYuan Dynasty | 220747 | [220747-tales-of-tianyuan-dynasty.json](./220747-tales-of-tianyuan-dynasty.json) |
 | Tales of Tyria | 135808 | [135808-tales-of-tyria.json](./135808-tales-of-tyria.json) |
@@ -1655,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetraminis Deffect | 284352 | [284352-tetraminis-deffect.json](./284352-tetraminis-deffect.json) |
 | Tetraminos | 308977 | [308977-tetraminos.json](./308977-tetraminos.json) |
 | Tetraphobia | 124740 | [124740-tetraphobia.json](./124740-tetraphobia.json) |
+| Tetrapulse | 61868 | [61868-tetrapulse.json](./61868-tetrapulse.json) |
 | Tetraspace | 59929 | [59929-tetraspace.json](./59929-tetraspace.json) |
 | TetraTower | 183506 | [183506-tetratower.json](./183506-tetratower.json) |
 | Tetri-Pentix | 87930 | [87930-tetri-pentix.json](./87930-tetri-pentix.json) |
@@ -4874,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pet Squad | 332810 | [332810-the-pet-squad.json](./332810-the-pet-squad.json) |
 | The Petrified King | 232548 | [232548-the-petrified-king.json](./232548-the-petrified-king.json) |
 | The Phantom Agent | 313873 | [313873-the-phantom-agent.json](./313873-the-phantom-agent.json) |
+| The Phantom P.I. Mission Apparition | 61894 | [61894-the-phantom-p-i-mission-apparition.json](./61894-the-phantom-p-i-mission-apparition.json) |
 | The Phantom Slayer | 71212 | [71212-the-phantom-slayer.json](./71212-the-phantom-slayer.json) |
 | The Phantom Thief Stina and 30 Jewels | 85438 | [85438-the-phantom-thief-stina-and-30-jewels.json](./85438-the-phantom-thief-stina-and-30-jewels.json) |
 | The Photo of God | 341467 | [341467-the-photo-of-god.json](./341467-the-photo-of-god.json) |
