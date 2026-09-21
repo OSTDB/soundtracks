@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Watch Donkey Kong Jr | 339261 | [339261-game-and-watch-donkey-kong-jr.json](./339261-game-and-watch-donkey-kong-jr.json) |
 | Game & Watch Donkey Kong Jr. | 206932 | [206932-game-and-watch-donkey-kong-jr.json](./206932-game-and-watch-donkey-kong-jr.json) |
 | Game & Watch Flagman | 84554 | [84554-game-and-watch-flagman.json](./84554-game-and-watch-flagman.json) |
+| Game & Watch Gallery 3 | 77907 | [77907-game-and-watch-gallery-3.json](./77907-game-and-watch-gallery-3.json) |
 | Game & Watch Helmet | 84550 | [84550-game-and-watch-helmet.json](./84550-game-and-watch-helmet.json) |
 | Game & Watch Manhole | 84549 | [84549-game-and-watch-manhole.json](./84549-game-and-watch-manhole.json) |
 | Game & Watch Mario's Cement Factory | 206933 | [206933-game-and-watch-marios-cement-factory.json](./206933-game-and-watch-marios-cement-factory.json) |
@@ -1080,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Boxer | 98768 | [98768-geometry-boxer.json](./98768-geometry-boxer.json) |
 | Geometry Darkness 2.2 :D | 101984 | [101984-geometry-darkness-2-2-d.json](./101984-geometry-darkness-2-2-d.json) |
 | Geometry Dash Meltdown | 38693 | [38693-geometry-dash-meltdown.json](./38693-geometry-dash-meltdown.json) |
+| Geometry Dash SubZero | 87023 | [87023-geometry-dash-subzero.json](./87023-geometry-dash-subzero.json) |
 | Geometry Dodge Pro | 86908 | [86908-geometry-dodge-pro.json](./86908-geometry-dodge-pro.json) |
 | Geometry Hero | 126612 | [126612-geometry-hero.json](./126612-geometry-hero.json) |
 | Geometry Rocket | 150534 | [150534-geometry-rocket.json](./150534-geometry-rocket.json) |
@@ -2795,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravulse | 141882 | [141882-gravulse.json](./141882-gravulse.json) |
 | Gravv: Between Two Worlds | 195725 | [195725-gravv-between-two-worlds.json](./195725-gravv-between-two-worlds.json) |
 | GravytX The Gravytoid | 265734 | [265734-gravytx-the-gravytoid.json](./265734-gravytx-the-gravytoid.json) |
+| Gray Dawn | 100367 | [100367-gray-dawn.json](./100367-gray-dawn.json) |
 | Gray Matter | 264873 | [264873-gray-matter.json](./264873-gray-matter.json) |
 | Gray platformer | 142420 | [142420-gray-platformer.json](./142420-gray-platformer.json) |
 | Gray Zone Warfare | 275070 | [275070-gray-zone-warfare.json](./275070-gray-zone-warfare.json) |
