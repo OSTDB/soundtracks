@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tag.Io | 129726 | [129726-tag-io.json](./129726-tag-io.json) |
 | TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
 | Tagger Mascot | 244862 | [244862-tagger-mascot.json](./244862-tagger-mascot.json) |
+| Taghairm | 59685 | [59685-taghairm.json](./59685-taghairm.json) |
 | Tago Akira no Atama no Taisou Dai-1-Shuu: Nazotoki Sekai Isshuu Ryokou | 282125 | [282125-tago-akira-no-atama-no-taisou-dai-1-shuu-nazotoki-sekai-isshuu-ryokou.json](./282125-tago-akira-no-atama-no-taisou-dai-1-shuu-nazotoki-sekai-isshuu-ryokou.json) |
 | Tago Akira no Atama no Taisou Dai-2-Shuu: Ginga Oudan Nazotoki Adventure | 402967 | [402967-tago-akira-no-atama-no-taisou-dai-2-shuu-ginga-oudan-nazotoki-adventure.json](./402967-tago-akira-no-atama-no-taisou-dai-2-shuu-ginga-oudan-nazotoki-adventure.json) |
 | Tago Akira no Atama no Taisou Dai-3-Shuu: Fushigi no Kuni no Nazotoki Otogibanashi | 402968 | [402968-tago-akira-no-atama-no-taisou-dai-3-shuu-fushigi-no-kuni-no-nazotoki-otogibanashi.json](./402968-tago-akira-no-atama-no-taisou-dai-3-shuu-fushigi-no-kuni-no-nazotoki-otogibanashi.json) |
@@ -1768,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tharaba | 280321 | [280321-tharaba.json](./280321-tharaba.json) |
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
+| That Dam Level | 59660 | [59660-that-dam-level.json](./59660-that-dam-level.json) |
 | That Friday Again | 391720 | [391720-that-friday-again.json](./391720-that-friday-again.json) |
 | That Gun Crafter Cat | 257934 | [257934-that-gun-crafter-cat.json](./257934-that-gun-crafter-cat.json) |
 | That Hole-in-the-Wall Place | 215234 | [215234-that-hole-in-the-wall-place.json](./215234-that-hole-in-the-wall-place.json) |
@@ -2081,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Baconing | 2251 | [2251-the-baconing.json](./2251-the-baconing.json) |
 | The Bad Gravedigger | 104073 | [104073-the-bad-gravedigger.json](./104073-the-bad-gravedigger.json) |
 | The Bad Son | 192888 | [192888-the-bad-son.json](./192888-the-bad-son.json) |
+| The Baker of Shireton | 59683 | [59683-the-baker-of-shireton.json](./59683-the-baker-of-shireton.json) |
 | The Bakerville Case | 217383 | [217383-the-bakerville-case.json](./217383-the-bakerville-case.json) |
 | The Bakery Tales | 328475 | [328475-the-bakery-tales.json](./328475-the-bakery-tales.json) |
 | The Ball | 363961 | [363961-the-ball.json](./363961-the-ball.json) |
@@ -3687,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inquisitor | 202718 | [202718-the-inquisitor.json](./202718-the-inquisitor.json) |
 | The Inquisitor 3D | 202846 | [202846-the-inquisitor-3d.json](./202846-the-inquisitor-3d.json) |
 | The Inquisitor: Book 2 - The Village | 10972 | [10972-the-inquisitor-book-2-the-village.json](./10972-the-inquisitor-book-2-the-village.json) |
+| The Insect Massacre | 59680 | [59680-the-insect-massacre.json](./59680-the-insect-massacre.json) |
 | The Inseparables | 410209 | [410209-the-inseparables.json](./410209-the-inseparables.json) |
 | The Inspector | 175911 | [175911-the-inspector.json](./175911-the-inspector.json) |
 | The Institute: A Becky Brogan Adventure | 125380 | [125380-the-institute-a-becky-brogan-adventure.json](./125380-the-institute-a-becky-brogan-adventure.json) |
@@ -3825,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kill Zone | 235827 | [235827-the-kill-zone.json](./235827-the-kill-zone.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
 | The King & I: Coming Out of Your Shell | 141824 | [141824-the-king-and-i-coming-out-of-your-shell.json](./141824-the-king-and-i-coming-out-of-your-shell.json) |
+| The King and the Crown | 59684 | [59684-the-king-and-the-crown.json](./59684-the-king-and-the-crown.json) |
 | The King Cat Clicker | 312724 | [312724-the-king-cat-clicker.json](./312724-the-king-cat-clicker.json) |
 | The King in the Shades | 259852 | [259852-the-king-in-the-shades.json](./259852-the-king-in-the-shades.json) |
 | The King is Watching: Crowns of History | 394315 | [394315-the-king-is-watching-crowns-of-history.json](./394315-the-king-is-watching-crowns-of-history.json) |
@@ -4460,6 +4465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Man Called Merc | 55045 | [55045-the-man-called-merc.json](./55045-the-man-called-merc.json) |
 | The Man from the Window 2 | 272352 | [272352-the-man-from-the-window-2.json](./272352-the-man-from-the-window-2.json) |
 | The Man Outside | 323396 | [323396-the-man-outside.json](./323396-the-man-outside.json) |
+| The Man Who Killed Time | 59681 | [59681-the-man-who-killed-time.json](./59681-the-man-who-killed-time.json) |
 | The Man Who Walked | 374051 | [374051-the-man-who-walked.json](./374051-the-man-who-walked.json) |
 | The Manager | 79581 | [79581-the-manager.json](./79581-the-manager.json) |
 | The Mandate | 61567 | [61567-the-mandate.json](./61567-the-mandate.json) |
@@ -4654,6 +4660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of Blackthorn Castle 2 | 289974 | [289974-the-mystery-of-blackthorn-castle-2.json](./289974-the-mystery-of-blackthorn-castle-2.json) |
 | The Mystery of Devils House | 95236 | [95236-the-mystery-of-devils-house.json](./95236-the-mystery-of-devils-house.json) |
 | The Mystery of Haunted Hollow | 89746 | [89746-the-mystery-of-haunted-hollow.json](./89746-the-mystery-of-haunted-hollow.json) |
+| The Mystery of Nile | 59644 | [59644-the-mystery-of-nile.json](./59644-the-mystery-of-nile.json) |
 | The Mystery of the Art School | 321162 | [321162-the-mystery-of-the-art-school.json](./321162-the-mystery-of-the-art-school.json) |
 | The Mystery of the Buttons Family | 101971 | [101971-the-mystery-of-the-buttons-family.json](./101971-the-mystery-of-the-buttons-family.json) |
 | The Mystery of the Crystal Portal: Beyond the Horizon | 140614 | [140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json](./140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json) |
@@ -4955,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prison | 117089 | [117089-the-prison.json](./117089-the-prison.json) |
 | The Prisoning: Fletcher's Quest | 284895 | [284895-the-prisoning-fletchers-quest.json](./284895-the-prisoning-fletchers-quest.json) |
 | The Problem With Golf | 330156 | [330156-the-problem-with-golf.json](./330156-the-problem-with-golf.json) |
+| The Problems Compound | 59677 | [59677-the-problems-compound.json](./59677-the-problems-compound.json) |
 | The Procession to Calvary | 106985 | [106985-the-procession-to-calvary.json](./106985-the-procession-to-calvary.json) |
 | The Professor Presents: Got Handles? | 28937 | [28937-the-professor-presents-got-handles.json](./28937-the-professor-presents-got-handles.json) |
 | The Projection Room of Malka Spitzer | 262953 | [262953-the-projection-room-of-malka-spitzer.json](./262953-the-projection-room-of-malka-spitzer.json) |
@@ -5556,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Space Sim | 179057 | [179057-the-space-sim.json](./179057-the-space-sim.json) |
 | The Spatials | 51520 | [51520-the-spatials.json](./51520-the-spatials.json) |
 | The Spatials Collection | 53775 | [53775-the-spatials-collection.json](./53775-the-spatials-collection.json) |
+| The Speaker | 59676 | [59676-the-speaker.json](./59676-the-speaker.json) |
 | The Spearman | 323316 | [323316-the-spearman.json](./323316-the-spearman.json) |
 | The Specialists | 138772 | [138772-the-specialists.json](./138772-the-specialists.json) |
 | The Specter Chronicles: Episode 1 - The False Prophet | 236376 | [236376-the-specter-chronicles-episode-1-the-false-prophet.json](./236376-the-specter-chronicles-episode-1-the-false-prophet.json) |
@@ -6181,6 +6190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War of Genesis IV: Spiral Genesis | 58763 | [58763-the-war-of-genesis-iv-spiral-genesis.json](./58763-the-war-of-genesis-iv-spiral-genesis.json) |
 | The War of Genesis: Battle of Antaria | 110293 | [110293-the-war-of-genesis-battle-of-antaria.json](./110293-the-war-of-genesis-battle-of-antaria.json) |
 | The War of Genesis: Remnants of Gray | 137626 | [137626-the-war-of-genesis-remnants-of-gray.json](./137626-the-war-of-genesis-remnants-of-gray.json) |
+| The War of the Willows | 59675 | [59675-the-war-of-the-willows.json](./59675-the-war-of-the-willows.json) |
 | The War of the Worlds | 25730 | [25730-the-war-of-the-worlds.json](./25730-the-war-of-the-worlds.json) |
 | The War of the Worlds: Siberia | 323955 | [323955-the-war-of-the-worlds-siberia.json](./323955-the-war-of-the-worlds-siberia.json) |
 | The War Zone Crisis | 339122 | [339122-the-war-zone-crisis.json](./339122-the-war-zone-crisis.json) |
@@ -7699,6 +7709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinkerQuarry | 47231 | [47231-tinkerquarry.json](./47231-tinkerquarry.json) |
 | TinkerTech | 310929 | [310929-tinkertech.json](./310929-tinkertech.json) |
 | Tinkertown x Among Us | 222931 | [222931-tinkertown-x-among-us.json](./222931-tinkertown-x-among-us.json) |
+| Tinkle Pit | 59666 | [59666-tinkle-pit.json](./59666-tinkle-pit.json) |
 | Tint The Saver | 334181 | [334181-tint-the-saver.json](./334181-tint-the-saver.json) |
 | Tint. | 125817 | [125817-tint.json](./125817-tint.json) |
 | TinTin: Destination Adventure | 43902 | [43902-tintin-destination-adventure.json](./43902-tintin-destination-adventure.json) |
@@ -8267,6 +8278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomboy Adventure | 154577 | [154577-tomboy-adventure.json](./154577-tomboy-adventure.json) |
 | Tomboys Need Love Too! | 36470 | [36470-tomboys-need-love-too.json](./36470-tomboys-need-love-too.json) |
 | Tombs & Treasure | 215142 | [215142-tombs-and-treasure.json](./215142-tombs-and-treasure.json) |
+| Tombs of Reschette | 59678 | [59678-tombs-of-reschette.json](./59678-tombs-of-reschette.json) |
 | Tombstone Tally | 319361 | [319361-tombstone-tally.json](./319361-tombstone-tally.json) |
 | Tomcat | 74428 | [74428-tomcat.json](./74428-tomcat.json) |
 | Tome | 373070 | [373070-tome.json](./373070-tome.json) |
@@ -10669,6 +10681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Struggle: Red Sea | 249852 | [249852-twilight-struggle-red-sea.json](./249852-twilight-struggle-red-sea.json) |
 | Twilight Syndrome Kyuumei-hen | 65454 | [65454-twilight-syndrome-kyuumei-hen.json](./65454-twilight-syndrome-kyuumei-hen.json) |
 | Twilight Syndrome Saikai | 65456 | [65456-twilight-syndrome-saikai.json](./65456-twilight-syndrome-saikai.json) |
+| Twilight Syndrome Special | 59667 | [59667-twilight-syndrome-special.json](./59667-twilight-syndrome-special.json) |
 | Twilight Syndrome Tansaku-hen | 65452 | [65452-twilight-syndrome-tansaku-hen.json](./65452-twilight-syndrome-tansaku-hen.json) |
 | Twilight Syndrome: Kinjirareta Toshi Densetsu | 128360 | [128360-twilight-syndrome-kinjirareta-toshi-densetsu.json](./128360-twilight-syndrome-kinjirareta-toshi-densetsu.json) |
 | Twilight Tales: Hollow's Store | 337195 | [337195-twilight-tales-hollows-store.json](./337195-twilight-tales-hollows-store.json) |
