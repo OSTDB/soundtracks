@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night With Angel | 266280 | [266280-a-night-with-angel.json](./266280-a-night-with-angel.json) |
 | A night with Natalie VR | 111376 | [111376-a-night-with-natalie-vr.json](./111376-a-night-with-natalie-vr.json) |
 | A Night With: Succubus | 331291 | [331291-a-night-with-succubus.json](./331291-a-night-with-succubus.json) |
+| A Nightmare on Elm Street | 129595 | [129595-a-nightmare-on-elm-street.json](./129595-a-nightmare-on-elm-street.json) |
 | A Ninja in Training | 161738 | [161738-a-ninja-in-training.json](./161738-a-ninja-in-training.json) |
 | A Noble Circle | 174207 | [174207-a-noble-circle.json](./174207-a-noble-circle.json) |
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
