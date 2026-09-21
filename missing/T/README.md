@@ -3591,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The High Tower | 373613 | [373613-the-high-tower.json](./373613-the-high-tower.json) |
 | The Hiker | 279102 | [279102-the-hiker.json](./279102-the-hiker.json) |
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
+| The HinterLands | 33427 | [33427-the-hinterlands.json](./33427-the-hinterlands.json) |
 | The History Channel: Civil War - Secret Missions | 47404 | [47404-the-history-channel-civil-war-secret-missions.json](./47404-the-history-channel-civil-war-secret-missions.json) |
 | The History Channel: Crusades - Quest for Power | 69799 | [69799-the-history-channel-crusades-quest-for-power.json](./69799-the-history-channel-crusades-quest-for-power.json) |
 | The History Channel: Great Battles of Rome | 20375 | [20375-the-history-channel-great-battles-of-rome.json](./20375-the-history-channel-great-battles-of-rome.json) |
@@ -7864,6 +7865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Invaders | 92501 | [92501-tiny-invaders.json](./92501-tiny-invaders.json) |
 | Tiny Jump | 254559 | [254559-tiny-jump.json](./254559-tiny-jump.json) |
 | Tiny Kingdoms | 311119 | [311119-tiny-kingdoms.json](./311119-tiny-kingdoms.json) |
+| Tiny Knight | 33472 | [33472-tiny-knight.json](./33472-tiny-knight.json) |
 | Tiny Little Farm | 304332 | [304332-tiny-little-farm.json](./304332-tiny-little-farm.json) |
 | TIny Little Farm Plus Milk Seller | 328473 | [328473-tiny-little-farm-plus-milk-seller.json](./328473-tiny-little-farm-plus-milk-seller.json) |
 | Tiny Mage in Puzzle Land | 402928 | [402928-tiny-mage-in-puzzle-land.json](./402928-tiny-mage-in-puzzle-land.json) |
