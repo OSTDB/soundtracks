@@ -2224,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Childish Life Prologue | 374609 | [374609-childish-life-prologue.json](./374609-childish-life-prologue.json) |
 | Childlike | 191171 | [191171-childlike.json](./191171-childlike.json) |
 | Children of a Dead Earth | 25221 | [25221-children-of-a-dead-earth.json](./25221-children-of-a-dead-earth.json) |
+| Children of Apollo | 55526 | [55526-children-of-apollo.json](./55526-children-of-apollo.json) |
 | Children of Birch | 391213 | [391213-children-of-birch.json](./391213-children-of-birch.json) |
 | Children of Morta: Complete Edition | 175878 | [175878-children-of-morta-complete-edition.json](./175878-children-of-morta-complete-edition.json) |
 | Children of Orc | 30920 | [30920-children-of-orc.json](./30920-children-of-orc.json) |
@@ -2951,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil War II | 17527 | [17527-civil-war-ii.json](./17527-civil-war-ii.json) |
 | Civil War II: The Bloody Road South | 172111 | [172111-civil-war-ii-the-bloody-road-south.json](./172111-civil-war-ii-the-bloody-road-south.json) |
 | Civil War: 1865 | 28795 | [28795-civil-war-1865.json](./28795-civil-war-1865.json) |
+| Civil War: Gettysburg | 55501 | [55501-civil-war-gettysburg.json](./55501-civil-war-gettysburg.json) |
 | Civil Warfare: Another Bullet in the War | 79136 | [79136-civil-warfare-another-bullet-in-the-war.json](./79136-civil-warfare-another-bullet-in-the-war.json) |
 | CivilContractRPG | 125847 | [125847-civilcontractrpg.json](./125847-civilcontractrpg.json) |
 | Civilization | 175915 | [175915-civilization.json](./175915-civilization.json) |
@@ -3733,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
 | Coloramba! | 200036 | [200036-coloramba.json](./200036-coloramba.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
+| ColorCode | 55481 | [55481-colorcode.json](./55481-colorcode.json) |
 | ColorCube | 208378 | [208378-colorcube.json](./208378-colorcube.json) |
 | ColorFold | 108273 | [108273-colorfold.json](./108273-colorfold.json) |
 | Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
@@ -5698,6 +5701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crushed | 141171 | [141171-crushed.json](./141171-crushed.json) |
 | Crushed Baseball | 49306 | [49306-crushed-baseball.json](./49306-crushed-baseball.json) |
 | Crushiator | 339676 | [339676-crushiator.json](./339676-crushiator.json) |
+| Crushing Blow | 55525 | [55525-crushing-blow.json](./55525-crushing-blow.json) |
 | Crushing on the Clock | 376461 | [376461-crushing-on-the-clock.json](./376461-crushing-on-the-clock.json) |
 | Crustacean Frustration | 395021 | [395021-crustacean-frustration.json](./395021-crustacean-frustration.json) |
 | Crustacean Nations | 211254 | [211254-crustacean-nations.json](./211254-crustacean-nations.json) |
