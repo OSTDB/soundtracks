@@ -5474,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Snow | 221719 | [221719-crimson-snow.json](./221719-crimson-snow.json) |
 | Crimson Snow Deluxe | 310030 | [310030-crimson-snow-deluxe.json](./310030-crimson-snow-deluxe.json) |
 | Crimson Souls | 109696 | [109696-crimson-souls.json](./109696-crimson-souls.json) |
+| Crimson Sword Saga: The Peloran Wars | 32183 | [32183-crimson-sword-saga-the-peloran-wars.json](./32183-crimson-sword-saga-the-peloran-wars.json) |
 | Crimson Tale | 334656 | [334656-crimson-tale.json](./334656-crimson-tale.json) |
 | Crimson Theory | 339290 | [339290-crimson-theory.json](./339290-crimson-theory.json) |
 | Crimson Thread of Fate | 318769 | [318769-crimson-thread-of-fate.json](./318769-crimson-thread-of-fate.json) |
@@ -5572,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Channel | 78650 | [78650-cross-channel.json](./78650-cross-channel.json) |
 | Cross Chase | 293229 | [293229-cross-chase.json](./293229-cross-chase.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
+| Cross Death VR | 32215 | [32215-cross-death-vr.json](./32215-cross-death-vr.json) |
 | Cross Dungeon | 274029 | [274029-cross-dungeon.json](./274029-cross-dungeon.json) |
 | Cross Edge Dash | 320956 | [320956-cross-edge-dash.json](./320956-cross-edge-dash.json) |
 | Cross Guardian | 381110 | [381110-cross-guardian.json](./381110-cross-guardian.json) |
@@ -5875,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Clear | 129587 | [129587-crystal-clear.json](./129587-crystal-clear.json) |
 | Crystal Confines | 69319 | [69319-crystal-confines.json](./69319-crystal-confines.json) |
 | Crystal core | 124212 | [124212-crystal-core.json](./124212-crystal-core.json) |
+| Crystal Cosmos | 32244 | [32244-crystal-cosmos.json](./32244-crystal-cosmos.json) |
 | Crystal Defenders R1 | 21126 | [21126-crystal-defenders-r1.json](./21126-crystal-defenders-r1.json) |
 | Crystal Defenders R2 | 21133 | [21133-crystal-defenders-r2.json](./21133-crystal-defenders-r2.json) |
 | Crystal Edge: Retribution | 394898 | [394898-crystal-edge-retribution.json](./394898-crystal-edge-retribution.json) |
