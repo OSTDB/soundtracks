@@ -1472,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Cells Project | 278388 | [278388-perfect-cells-project.json](./278388-perfect-cells-project.json) |
 | Perfect Choro Q | 63794 | [63794-perfect-choro-q.json](./63794-perfect-choro-q.json) |
 | Perfect Circle: Stand Alone | 346650 | [346650-perfect-circle-stand-alone.json](./346650-perfect-circle-stand-alone.json) |
+| Perfect Dark | 1463 | [1463-perfect-dark.json](./1463-perfect-dark.json) |
 | Perfect Dark | 1464 | [1464-perfect-dark.json](./1464-perfect-dark.json) |
 | Perfect Dark | 1466 | [1466-perfect-dark.json](./1466-perfect-dark.json) |
 | Perfect Dark Zero | 292158 | [292158-perfect-dark-zero.json](./292158-perfect-dark-zero.json) |
@@ -2881,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague | 185680 | [185680-plague.json](./185680-plague.json) |
 | Plague Doctor | 287790 | [287790-plague-doctor.json](./287790-plague-doctor.json) |
 | Plague Inc: Aliens & Anti-Vaxxers | 398971 | [398971-plague-inc-aliens-and-anti-vaxxers.json](./398971-plague-inc-aliens-and-anti-vaxxers.json) |
+| Plague Inc: Evolved | 7601 | [7601-plague-inc-evolved.json](./7601-plague-inc-evolved.json) |
 | Plague Inc: The Cure | 170560 | [170560-plague-inc-the-cure.json](./170560-plague-inc-the-cure.json) |
 | Plague M.D. | 140631 | [140631-plague-m-d.json](./140631-plague-m-d.json) |
 | Plague Masters | 154012 | [154012-plague-masters.json](./154012-plague-masters.json) |
