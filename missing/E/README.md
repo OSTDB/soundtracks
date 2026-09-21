@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementalist: 0 | 182995 | [182995-elementalist-0.json](./182995-elementalist-0.json) |
 | Elementalist.io | 184104 | [184104-elementalist-io.json](./184104-elementalist-io.json) |
 | Elementals | 130933 | [130933-elementals.json](./130933-elementals.json) |
+| Elementals Reborn | 55484 | [55484-elementals-reborn.json](./55484-elementals-reborn.json) |
 | Elementals: The Magic Key | 209679 | [209679-elementals-the-magic-key.json](./209679-elementals-the-magic-key.json) |
 | Elementary Arithmetic Game | 113021 | [113021-elementary-arithmetic-game.json](./113021-elementary-arithmetic-game.json) |
 | Elementary My Dear Majesty! | 35902 | [35902-elementary-my-dear-majesty.json](./35902-elementary-my-dear-majesty.json) |
@@ -1465,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
 | Epstein 2 | 315091 | [315091-epstein-2.json](./315091-epstein-2.json) |
 | EQ Survival Manual | 406819 | [406819-eq-survival-manual.json](./406819-eq-survival-manual.json) |
+| Equalizer | 55498 | [55498-equalizer.json](./55498-equalizer.json) |
 | Equestria | 128563 | [128563-equestria.json](./128563-equestria.json) |
 | EquestriaBound: Return of the Nightmare | 205642 | [205642-equestriabound-return-of-the-nightmare.json](./205642-equestriabound-return-of-the-nightmare.json) |
 | Equilibrium | 170999 | [170999-equilibrium.json](./170999-equilibrium.json) |
