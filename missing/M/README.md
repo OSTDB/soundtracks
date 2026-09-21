@@ -4291,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command | 209503 | [209503-missile-command.json](./209503-missile-command.json) |
 | Missile Command | 280782 | [280782-missile-command.json](./280782-missile-command.json) |
 | Missile Command 3D | 40810 | [40810-missile-command-3d.json](./40810-missile-command-3d.json) |
+| Missile Control | 13252 | [13252-missile-control.json](./13252-missile-control.json) |
 | Missile Survivor | 319240 | [319240-missile-survivor.json](./319240-missile-survivor.json) |
 | Missile Tank | 160256 | [160256-missile-tank.json](./160256-missile-tank.json) |
 | Missileman Clone Commandos! | 131586 | [131586-missileman-clone-commandos.json](./131586-missileman-clone-commandos.json) |
@@ -5554,6 +5555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morton's Fork | 56128 | [56128-mortons-fork.json](./56128-mortons-fork.json) |
 | MorTown | 383528 | [383528-mortown.json](./383528-mortown.json) |
 | Mortu | 408929 | [408929-mortu.json](./408929-mortu.json) |
+| Mortuum | 13090 | [13090-mortuum.json](./13090-mortuum.json) |
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
 | Morwen Estate | 342068 | [342068-morwen-estate.json](./342068-morwen-estate.json) |
 | Mos Speedrun | 92279 | [92279-mos-speedrun.json](./92279-mos-speedrun.json) |
