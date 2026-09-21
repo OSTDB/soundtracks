@@ -1005,6 +1005,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Demon | 397666 | [397666-welcome-demon.json](./397666-welcome-demon.json) |
 | Welcome Googoo | 330889 | [330889-welcome-googoo.json](./330889-welcome-googoo.json) |
 | Welcome Home | 146327 | [146327-welcome-home.json](./146327-welcome-home.json) |
+| Welcome House | 62987 | [62987-welcome-house.json](./62987-welcome-house.json) |
+| Welcome House 2: Keaton and His Uncle | 62985 | [62985-welcome-house-2-keaton-and-his-uncle.json](./62985-welcome-house-2-keaton-and-his-uncle.json) |
 | Welcome into the Forest of Aurora !! | 70344 | [70344-welcome-into-the-forest-of-aurora.json](./70344-welcome-into-the-forest-of-aurora.json) |
 | Welcome Kokuri-san | 241976 | [241976-welcome-kokuri-san.json](./241976-welcome-kokuri-san.json) |
 | Welcome Teacher | 266798 | [266798-welcome-teacher.json](./266798-welcome-teacher.json) |
