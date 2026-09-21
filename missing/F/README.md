@@ -1032,6 +1032,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Frame: Maiden of Black Water - Digital Deluxe Edition | 188050 | [188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json](./188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json) |
 | Fatal Frontier 1869 | 396362 | [396362-fatal-frontier-1869.json](./396362-fatal-frontier-1869.json) |
 | Fatal Fury | 71128 | [71128-fatal-fury.json](./71128-fatal-fury.json) |
+| Fatal Fury 2 | 4435 | [4435-fatal-fury-2.json](./4435-fatal-fury-2.json) |
+| Fatal Fury Special | 5385 | [5385-fatal-fury-special.json](./5385-fatal-fury-special.json) |
 | Fatal Fury: City of the Wolves - Chun-Li | 317832 | [317832-fatal-fury-city-of-the-wolves-chun-li.json](./317832-fatal-fury-city-of-the-wolves-chun-li.json) |
 | Fatal Fury: City of the Wolves - Deluxe Edition | 329713 | [329713-fatal-fury-city-of-the-wolves-deluxe-edition.json](./329713-fatal-fury-city-of-the-wolves-deluxe-edition.json) |
 | Fatal Fury: City of the Wolves - Ken | 317831 | [317831-fatal-fury-city-of-the-wolves-ken.json](./317831-fatal-fury-city-of-the-wolves-ken.json) |
@@ -3522,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 5: VIP | 387371 | [387371-forza-horizon-5-vip.json](./387371-forza-horizon-5-vip.json) |
 | Forza Horizon 5: Welcome Pack | 387369 | [387369-forza-horizon-5-welcome-pack.json](./387369-forza-horizon-5-welcome-pack.json) |
 | Forza Horizon: Limited Collector's Edition | 41594 | [41594-forza-horizon-limited-collectors-edition.json](./41594-forza-horizon-limited-collectors-edition.json) |
+| Forza Motorsport | 3073 | [3073-forza-motorsport.json](./3073-forza-motorsport.json) |
 | Forza Motorsport 2018 Mercedes-AMG GT3 | 278521 | [278521-forza-motorsport-2018-mercedes-amg-gt3.json](./278521-forza-motorsport-2018-mercedes-amg-gt3.json) |
 | Forza Motorsport 4 | 3068 | [3068-forza-motorsport-4.json](./3068-forza-motorsport-4.json) |
 | Forza Motorsport 4: Limited Collector's Edition | 41600 | [41600-forza-motorsport-4-limited-collectors-edition.json](./41600-forza-motorsport-4-limited-collectors-edition.json) |
