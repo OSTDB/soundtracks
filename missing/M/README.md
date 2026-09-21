@@ -2325,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meeuw | 135829 | [135829-meeuw.json](./135829-meeuw.json) |
 | MEFB | 130736 | [130736-mefb.json](./130736-mefb.json) |
 | MEG 9: Lost Echoes | 59944 | [59944-meg-9-lost-echoes.json](./59944-meg-9-lost-echoes.json) |
+| MEG:RVO | 62434 | [62434-meg-rvo.json](./62434-meg-rvo.json) |
 | Mega 99Vidas | 274000 | [274000-mega-99vidas.json](./274000-mega-99vidas.json) |
 | Mega Babies | 209532 | [209532-mega-babies.json](./209532-mega-babies.json) |
 | Mega Blaster | 311664 | [311664-mega-blaster.json](./311664-mega-blaster.json) |
@@ -3304,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Action Pack | 86036 | [86036-microsoft-action-pack.json](./86036-microsoft-action-pack.json) |
 | Microsoft Arcade | 94214 | [94214-microsoft-arcade.json](./94214-microsoft-arcade.json) |
 | Microsoft Baseball 2001 | 74046 | [74046-microsoft-baseball-2001.json](./74046-microsoft-baseball-2001.json) |
+| Microsoft Bingo | 62463 | [62463-microsoft-bingo.json](./62463-microsoft-bingo.json) |
 | Microsoft Blackboard | 209517 | [209517-microsoft-blackboard.json](./209517-microsoft-blackboard.json) |
 | Microsoft Casino | 96510 | [96510-microsoft-casino.json](./96510-microsoft-casino.json) |
 | Microsoft Children's Miracle Network Games Bundle | 7069 | [7069-microsoft-childrens-miracle-network-games-bundle.json](./7069-microsoft-childrens-miracle-network-games-bundle.json) |
