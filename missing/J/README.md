@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JailBreaker | 274775 | [274775-jailbreaker.json](./274775-jailbreaker.json) |
 | JailBreaker | 98478 | [98478-jailbreaker.json](./98478-jailbreaker.json) |
 | Jak & Daxter: The Lost Levels | 319202 | [319202-jak-and-daxter-the-lost-levels.json](./319202-jak-and-daxter-the-lost-levels.json) |
+| Jak and Daxter Collection | 20113 | [20113-jak-and-daxter-collection.json](./20113-jak-and-daxter-collection.json) |
 | Jak and Daxter: The Precursor Legacy | 302690 | [302690-jak-and-daxter-the-precursor-legacy.json](./302690-jak-and-daxter-the-precursor-legacy.json) |
 | Jak and Daxter: The Precursor Legacy | 325261 | [325261-jak-and-daxter-the-precursor-legacy.json](./325261-jak-and-daxter-the-precursor-legacy.json) |
 | Jak II | 1529 | [1529-jak-ii.json](./1529-jak-ii.json) |
@@ -1226,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Lab: Dinosarium DNA | 211780 | [211780-jurassic-lab-dinosarium-dna.json](./211780-jurassic-lab-dinosarium-dna.json) |
 | Jurassic Park | 147274 | [147274-jurassic-park.json](./147274-jurassic-park.json) |
 | Jurassic Park | 15543 | [15543-jurassic-park.json](./15543-jurassic-park.json) |
+| Jurassic Park | 25880 | [25880-jurassic-park.json](./25880-jurassic-park.json) |
 | Jurassic Park | 4519 | [4519-jurassic-park.json](./4519-jurassic-park.json) |
 | Jurassic Park III: Dino Defender | 74091 | [74091-jurassic-park-iii-dino-defender.json](./74091-jurassic-park-iii-dino-defender.json) |
 | Jurassic Park: Survival | 279640 | [279640-jurassic-park-survival.json](./279640-jurassic-park-survival.json) |
