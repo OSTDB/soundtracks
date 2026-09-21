@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garten of Banban 7 | 280891 | [280891-garten-of-banban-7.json](./280891-garten-of-banban-7.json) |
 | Garten of Banban Bundle: 0 + 1 + 2 + 3 + 4 + 6 + 7 + 8 | 379359 | [379359-garten-of-banban-bundle-0-1-2-3-4-6-7-8.json](./379359-garten-of-banban-bundle-0-1-2-3-4-6-7-8.json) |
 | Garten of Banban: Last Ticket to the Abyss | 363986 | [363986-garten-of-banban-last-ticket-to-the-abyss.json](./363986-garten-of-banban-last-ticket-to-the-abyss.json) |
+| Gartic | 50158 | [50158-gartic.json](./50158-gartic.json) |
 | Gartic on Stream | 185152 | [185152-gartic-on-stream.json](./185152-gartic-on-stream.json) |
 | Gartic.io | 191695 | [191695-gartic-io.json](./191695-gartic-io.json) |
 | Garuda Emblem | 327176 | [327176-garuda-emblem.json](./327176-garuda-emblem.json) |
@@ -863,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genbu's Favour | 322556 | [322556-genbus-favour.json](./322556-genbus-favour.json) |
 | Gendai Daisenryaku: Ultimate War | 231510 | [231510-gendai-daisenryaku-ultimate-war.json](./231510-gendai-daisenryaku-ultimate-war.json) |
 | Gender Dysphoria | 177502 | [177502-gender-dysphoria.json](./177502-gender-dysphoria.json) |
+| Gender Wars | 50141 | [50141-gender-wars.json](./50141-gender-wars.json) |
 | Genderman | 391600 | [391600-genderman.json](./391600-genderman.json) |
 | Gene | 35898 | [35898-gene.json](./35898-gene.json) |
 | Gene Crawl: Dungeon Descent | 406136 | [406136-gene-crawl-dungeon-descent.json](./406136-gene-crawl-dungeon-descent.json) |
@@ -1409,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlfriend Note | 58812 | [58812-girlfriend-note.json](./58812-girlfriend-note.json) |
 | Girlfriend's sister | 75784 | [75784-girlfriends-sister.json](./75784-girlfriends-sister.json) |
 | Girlfriends Forever: Magic Skate | 84511 | [84511-girlfriends-forever-magic-skate.json](./84511-girlfriends-forever-magic-skate.json) |
+| Girlish Grimoire Littlewitch Romanesque: Editio Perfecta | 50166 | [50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json](./50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json) |
 | Girlish Love Revolution | 80610 | [80610-girlish-love-revolution.json](./80610-girlish-love-revolution.json) |
 | GirlJail | 97348 | [97348-girljail.json](./97348-girljail.json) |
 | Girls Battlegrounds | 284340 | [284340-girls-battlegrounds.json](./284340-girls-battlegrounds.json) |
