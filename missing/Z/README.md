@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeus vs Monsters: Math Game for Kids | 33492 | [33492-zeus-vs-monsters-math-game-for-kids.json](./33492-zeus-vs-monsters-math-game-for-kids.json) |
 | Zeus: Master of Olympus | 958 | [958-zeus-master-of-olympus.json](./958-zeus-master-of-olympus.json) |
 | Zewels | 250433 | [250433-zewels.json](./250433-zewels.json) |
+| Zezenia Online | 32195 | [32195-zezenia-online.json](./32195-zezenia-online.json) |
 | Zgirls | 303227 | [303227-zgirls.json](./303227-zgirls.json) |
 | Zgirls II: Last One | 174892 | [174892-zgirls-ii-last-one.json](./174892-zgirls-ii-last-one.json) |
 | Zgr3d | 241657 | [241657-zgr3d.json](./241657-zgr3d.json) |
