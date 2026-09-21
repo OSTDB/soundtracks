@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Harmony of Dissonance - Revenge of the Findesiecle | 215165 | [215165-castlevania-harmony-of-dissonance-revenge-of-the-findesiecle.json](./215165-castlevania-harmony-of-dissonance-revenge-of-the-findesiecle.json) |
 | Castlevania: Lords of Shadow | 491 | [491-castlevania-lords-of-shadow.json](./491-castlevania-lords-of-shadow.json) |
 | Castlevania: Lords of Shadow - Limited Edition | 41602 | [41602-castlevania-lords-of-shadow-limited-edition.json](./41602-castlevania-lords-of-shadow-limited-edition.json) |
+| Castlevania: Lords of Shadow - Mirror of Fate HD | 9715 | [9715-castlevania-lords-of-shadow-mirror-of-fate-hd.json](./9715-castlevania-lords-of-shadow-mirror-of-fate-hd.json) |
 | Castlevania: Lords of Shadow - Reverie | 10075 | [10075-castlevania-lords-of-shadow-reverie.json](./10075-castlevania-lords-of-shadow-reverie.json) |
 | Castlevania: Lords of Shadow - Special Edition | 386289 | [386289-castlevania-lords-of-shadow-special-edition.json](./386289-castlevania-lords-of-shadow-special-edition.json) |
 | Castlevania: Maria of Sorrow | 248309 | [248309-castlevania-maria-of-sorrow.json](./248309-castlevania-maria-of-sorrow.json) |
@@ -4098,6 +4099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: Red Alert 3 | 959 | [959-command-and-conquer-red-alert-3.json](./959-command-and-conquer-red-alert-3.json) |
 | Command & Conquer: Red Alert 3 - Premier Edition | 210703 | [210703-command-and-conquer-red-alert-3-premier-edition.json](./210703-command-and-conquer-red-alert-3-premier-edition.json) |
 | Command & Conquer: Red Alert 3 - Ultimate Edition | 21205 | [21205-command-and-conquer-red-alert-3-ultimate-edition.json](./21205-command-and-conquer-red-alert-3-ultimate-edition.json) |
+| Command & Conquer: Red Alert 3 - Uprising | 759 | [759-command-and-conquer-red-alert-3-uprising.json](./759-command-and-conquer-red-alert-3-uprising.json) |
 | Command & Conquer: The Covert Operations | 663 | [663-command-and-conquer-the-covert-operations.json](./663-command-and-conquer-the-covert-operations.json) |
 | Command Ant Conquer | 176357 | [176357-command-ant-conquer.json](./176357-command-ant-conquer.json) |
 | Command Center Earth | 273634 | [273634-command-center-earth.json](./273634-command-center-earth.json) |
@@ -5636,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croaked | 251652 | [251652-croaked.json](./251652-croaked.json) |
 | Croaking Around | 265696 | [265696-croaking-around.json](./265696-croaking-around.json) |
 | Croakspire | 361224 | [361224-croakspire.json](./361224-croakspire.json) |
+| Croc 2 | 7902 | [7902-croc-2.json](./7902-croc-2.json) |
 | Croc 2: Kingdom of the Gobbos | 411706 | [411706-croc-2-kingdom-of-the-gobbos.json](./411706-croc-2-kingdom-of-the-gobbos.json) |
 | Croc Cannon | 317435 | [317435-croc-cannon.json](./317435-croc-cannon.json) |
 | Croc Legend of the Gobbos | 315020 | [315020-croc-legend-of-the-gobbos.json](./315020-croc-legend-of-the-gobbos.json) |
