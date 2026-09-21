@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanban-mura | 310719 | [310719-kanban-mura.json](./310719-kanban-mura.json) |
 | Kanbutsu Himouto! Umaru-chan Daratto Puzzle | 222392 | [222392-kanbutsu-himouto-umaru-chan-daratto-puzzle.json](./222392-kanbutsu-himouto-umaru-chan-daratto-puzzle.json) |
 | Kanchayudha | 57106 | [57106-kanchayudha.json](./57106-kanchayudha.json) |
+| KanColle Kai | 11461 | [11461-kancolle-kai.json](./11461-kancolle-kai.json) |
 | Kandagawa Jet Girls | 121202 | [121202-kandagawa-jet-girls.json](./121202-kandagawa-jet-girls.json) |
 | Kandagawa Jet Girls: Ikaruga & Yomi Character Set | 225914 | [225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json](./225914-kandagawa-jet-girls-ikaruga-and-yomi-character-set.json) |
 | Kandidatos | 146303 | [146303-kandidatos.json](./146303-kandidatos.json) |
