@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Quest 4: Sacred Truce | 97109 | [97109-queens-quest-4-sacred-truce.json](./97109-queens-quest-4-sacred-truce.json) |
 | Queen's Quest Collection | 53489 | [53489-queens-quest-collection.json](./53489-queens-quest-collection.json) |
 | Queen's Tales: Sins of the Past HD | 108963 | [108963-queens-tales-sins-of-the-past-hd.json](./108963-queens-tales-sins-of-the-past-hd.json) |
+| Queen's Tales: The Beast and the Nightingale - Collector's Edition | 29189 | [29189-queens-tales-the-beast-and-the-nightingale-collectors-edition.json](./29189-queens-tales-the-beast-and-the-nightingale-collectors-edition.json) |
 | Queen's Wish: The Conqueror | 109539 | [109539-queens-wish-the-conqueror.json](./109539-queens-wish-the-conqueror.json) |
 | Queenchantment | 192801 | [192801-queenchantment.json](./192801-queenchantment.json) |
 | Queensrÿche's Promised Land | 71465 | [71465-queensryches-promised-land.json](./71465-queensryches-promised-land.json) |
