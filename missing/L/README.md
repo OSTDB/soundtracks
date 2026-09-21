@@ -1223,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play with Nanai! | 111069 | [111069-lets-play-with-nanai.json](./111069-lets-play-with-nanai.json) |
 | Let's Play! Oink Games - Complete Edition | 315859 | [315859-lets-play-oink-games-complete-edition.json](./315859-lets-play-oink-games-complete-edition.json) |
 | Let's Play! Oink Games: Rafter Five | 275559 | [275559-lets-play-oink-games-rafter-five.json](./275559-lets-play-oink-games-rafter-five.json) |
+| Let's Quip | 61896 | [61896-lets-quip.json](./61896-lets-quip.json) |
 | Let's Ride!: Dreamer | 49396 | [49396-lets-ride-dreamer.json](./49396-lets-ride-dreamer.json) |
 | Let's Ride!: Sunshine Stables | 49395 | [49395-lets-ride-sunshine-stables.json](./49395-lets-ride-sunshine-stables.json) |
 | Let's See What You Got | 124768 | [124768-lets-see-what-you-got.json](./124768-lets-see-what-you-got.json) |
@@ -1916,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Jumper! | 175403 | [175403-little-jumper.json](./175403-little-jumper.json) |
 | Little Kingdom RTS | 349319 | [349319-little-kingdom-rts.json](./349319-little-kingdom-rts.json) |
 | Little Kingdoms: Chapters 1-3 | 262930 | [262930-little-kingdoms-chapters-1-3.json](./262930-little-kingdoms-chapters-1-3.json) |
+| Little Kite | 61892 | [61892-little-kite.json](./61892-little-kite.json) |
 | Little Kitten: My Favorite Cat | 200119 | [200119-little-kitten-my-favorite-cat.json](./200119-little-kitten-my-favorite-cat.json) |
 | Little Kitty Meow | 403717 | [403717-little-kitty-meow.json](./403717-little-kitty-meow.json) |
 | Little Kitty, Big City: Picture Purrfect | 360076 | [360076-little-kitty-big-city-picture-purrfect.json](./360076-little-kitty-big-city-picture-purrfect.json) |
