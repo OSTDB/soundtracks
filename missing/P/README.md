@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Heroes | 229161 | [229161-pinball-heroes.json](./229161-pinball-heroes.json) |
 | Pinball Heroes Bundle 2 | 99584 | [99584-pinball-heroes-bundle-2.json](./99584-pinball-heroes-bundle-2.json) |
 | Pinball Heroes: Wipeout HD Fury | 52655 | [52655-pinball-heroes-wipeout-hd-fury.json](./52655-pinball-heroes-wipeout-hd-fury.json) |
+| Pinball Illusions | 6025 | [6025-pinball-illusions.json](./6025-pinball-illusions.json) |
 | Pinball Inside: A VR Arcade Game | 29187 | [29187-pinball-inside-a-vr-arcade-game.json](./29187-pinball-inside-a-vr-arcade-game.json) |
 | Pinball Jam | 187479 | [187479-pinball-jam.json](./187479-pinball-jam.json) |
 | Pinball Lockdown | 133432 | [133432-pinball-lockdown.json](./133432-pinball-lockdown.json) |
@@ -3895,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Pro Gold | 147914 | [147914-pool-pro-gold.json](./147914-pool-pro-gold.json) |
 | Pool Quiz | 246477 | [246477-pool-quiz.json](./246477-pool-quiz.json) |
 | Pool Revolution: Cue Sports | 70649 | [70649-pool-revolution-cue-sports.json](./70649-pool-revolution-cue-sports.json) |
+| Pool Shark 2 | 5984 | [5984-pool-shark-2.json](./5984-pool-shark-2.json) |
 | Pool Sharks | 92437 | [92437-pool-sharks.json](./92437-pool-sharks.json) |
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
 | Pool: 8 Ball Billiards | 173139 | [173139-pool-8-ball-billiards.json](./173139-pool-8-ball-billiards.json) |
@@ -4208,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Down | 52203 | [52203-power-down.json](./52203-power-down.json) |
 | Power Drill Massacre | 320349 | [320349-power-drill-massacre.json](./320349-power-drill-massacre.json) |
 | Power Drive 2000 | 60239 | [60239-power-drive-2000.json](./60239-power-drive-2000.json) |
+| Power Drome | 5985 | [5985-power-drome.json](./5985-power-drome.json) |
 | Power Eleven | 42043 | [42043-power-eleven.json](./42043-power-eleven.json) |
 | Power Factory Featuring C+C Music Factory | 5420 | [5420-power-factory-featuring-c-c-music-factory.json](./5420-power-factory-featuring-c-c-music-factory.json) |
 | Power Fantasy | 258465 | [258465-power-fantasy.json](./258465-power-fantasy.json) |
@@ -5355,6 +5358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psytraxx | 57356 | [57356-psytraxx.json](./57356-psytraxx.json) |
 | Psytron | 25749 | [25749-psytron.json](./25749-psytron.json) |
 | PsyUp | 392255 | [392255-psyup.json](./392255-psyup.json) |
+| Psyvariar 2: The Will to Fabricate | 5993 | [5993-psyvariar-2-the-will-to-fabricate.json](./5993-psyvariar-2-the-will-to-fabricate.json) |
 | Psyvariar 2: Ultimate Final | 43346 | [43346-psyvariar-2-ultimate-final.json](./43346-psyvariar-2-ultimate-final.json) |
 | Psyvariar: Complete Edition | 43351 | [43351-psyvariar-complete-edition.json](./43351-psyvariar-complete-edition.json) |
 | Pteranodon | 260700 | [260700-pteranodon.json](./260700-pteranodon.json) |
@@ -5444,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse of Love | 258719 | [258719-pulse-of-love.json](./258719-pulse-of-love.json) |
 | Pulse Online | 288333 | [288333-pulse-online.json](./288333-pulse-online.json) |
 | Pulse Phobia | 342133 | [342133-pulse-phobia.json](./342133-pulse-phobia.json) |
+| Pulse Racer | 6010 | [6010-pulse-racer.json](./6010-pulse-racer.json) |
 | Pulse Warrior | 72376 | [72376-pulse-warrior.json](./72376-pulse-warrior.json) |
 | PulseChaser | 112320 | [112320-pulsechaser.json](./112320-pulsechaser.json) |
 | Pulseman | 45760 | [45760-pulseman.json](./45760-pulseman.json) |
