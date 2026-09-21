@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanabi: A Haunted Day | 377665 | [377665-sanabi-a-haunted-day.json](./377665-sanabi-a-haunted-day.json) |
 | Sanabi: A Haunted Day - Signal Redux Edition | 396192 | [396192-sanabi-a-haunted-day-signal-redux-edition.json](./396192-sanabi-a-haunted-day-signal-redux-edition.json) |
 | Sanabi: Collector's Edition | 272293 | [272293-sanabi-collectors-edition.json](./272293-sanabi-collectors-edition.json) |
+| Sanada Juu Yuushi | 48862 | [48862-sanada-juu-yuushi.json](./48862-sanada-juu-yuushi.json) |
 | Sanae no Chou Tokkyuu: TheExpressTrial | 206929 | [206929-sanae-no-chou-tokkyuu-theexpresstrial.json](./206929-sanae-no-chou-tokkyuu-theexpresstrial.json) |
 | Sanae's Sylphid Breeze | 300377 | [300377-sanaes-sylphid-breeze.json](./300377-sanaes-sylphid-breeze.json) |
 | Sanalika | 180296 | [180296-sanalika.json](./180296-sanalika.json) |
@@ -572,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangoku Xiangqi | 259096 | [259096-sangoku-xiangqi.json](./259096-sangoku-xiangqi.json) |
 | Sangokushi 11: Power Up Kit | 350410 | [350410-sangokushi-11-power-up-kit.json](./350410-sangokushi-11-power-up-kit.json) |
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
+| Sangokushi II: Haou no Tairiku | 48861 | [48861-sangokushi-ii-haou-no-tairiku.json](./48861-sangokushi-ii-haou-no-tairiku.json) |
 | Sangokushi Taisen | 27624 | [27624-sangokushi-taisen.json](./27624-sangokushi-taisen.json) |
 | Sangokushi Taisen 3 War Begins | 64974 | [64974-sangokushi-taisen-3-war-begins.json](./64974-sangokushi-taisen-3-war-begins.json) |
 | Sangokushi Taisen: Battle of Three Kingdoms | 268026 | [268026-sangokushi-taisen-battle-of-three-kingdoms.json](./268026-sangokushi-taisen-battle-of-three-kingdoms.json) |
@@ -717,9 +719,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satiszone | 332420 | [332420-satiszone.json](./332420-satiszone.json) |
 | Sato Killing Time Chat.exe | 395020 | [395020-sato-killing-time-chat-exe.json](./395020-sato-killing-time-chat-exe.json) |
 | Satogaeri | 192382 | [192382-satogaeri.json](./192382-satogaeri.json) |
+| Satomi Hakkenden | 48860 | [48860-satomi-hakkenden.json](./48860-satomi-hakkenden.json) |
 | Satori | 285571 | [285571-satori.json](./285571-satori.json) |
 | Satori | 336391 | [336391-satori.json](./336391-satori.json) |
 | Satori's Atelier 1+2 | 210664 | [210664-satoris-atelier-1-2.json](./210664-satoris-atelier-1-2.json) |
+| Satsui no Kaisou: Power Soft Satsujin Jiken | 48859 | [48859-satsui-no-kaisou-power-soft-satsujin-jiken.json](./48859-satsui-no-kaisou-power-soft-satsujin-jiken.json) |
 | Saturated Outer Space | 116836 | [116836-saturated-outer-space.json](./116836-saturated-outer-space.json) |
 | Saturday Night is the Loneliest Night of the Week | 230855 | [230855-saturday-night-is-the-loneliest-night-of-the-week.json](./230855-saturday-night-is-the-loneliest-night-of-the-week.json) |
 | Saturday Night is the Loneliest Night of the Week II | 230856 | [230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json](./230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json) |
@@ -868,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarab | 84223 | [84223-scarab.json](./84223-scarab.json) |
 | Scarab Shooter | 72065 | [72065-scarab-shooter.json](./72065-scarab-shooter.json) |
 | Scarab Solitaire | 209029 | [209029-scarab-solitaire.json](./209029-scarab-solitaire.json) |
+| Scarabeus | 48858 | [48858-scarabeus.json](./48858-scarabeus.json) |
 | Scarecrow vs. Big Butt Birds | 296389 | [296389-scarecrow-vs-big-butt-birds.json](./296389-scarecrow-vs-big-butt-birds.json) |
 | Scarecrow: Heart of Straw | 408146 | [408146-scarecrow-heart-of-straw.json](./408146-scarecrow-heart-of-straw.json) |
 | Scarecrows of Illyria | 211758 | [211758-scarecrows-of-illyria.json](./211758-scarecrows-of-illyria.json) |
@@ -1269,9 +1274,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Next | 38324 | [38324-sd-gundam-g-next.json](./38324-sd-gundam-g-next.json) |
 | SD Gundam G Next: Tsuika Unit Map Data | 234760 | [234760-sd-gundam-g-next-tsuika-unit-map-data.json](./234760-sd-gundam-g-next-tsuika-unit-map-data.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari | 38326 | [38326-sd-gundam-gaiden-knight-gundam-monogatari.json](./38326-sd-gundam-gaiden-knight-gundam-monogatari.json) |
+| SD Gundam Gaiden: Knight Gundam Monogatari 2 - Hikari no Knight | 48854 | [48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json](./48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json) |
+| SD Gundam Gaiden: Knight Gundam Monogatari 3 - Densetsu no Kishi-dan | 48853 | [48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json](./48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json) |
 | SD Gundam GX | 38323 | [38323-sd-gundam-gx.json](./38323-sd-gundam-gx.json) |
 | SD Gundam Power Formation Puzzle | 38327 | [38327-sd-gundam-power-formation-puzzle.json](./38327-sd-gundam-power-formation-puzzle.json) |
 | SD Gundam World: Gachapon Senshi - Scramble Wars | 41334 | [41334-sd-gundam-world-gachapon-senshi-scramble-wars.json](./41334-sd-gundam-world-gachapon-senshi-scramble-wars.json) |
+| SD Gundam World: Gachapon Senshi 3 - Eiyuu Senki | 48857 | [48857-sd-gundam-world-gachapon-senshi-3-eiyuu-senki.json](./48857-sd-gundam-world-gachapon-senshi-3-eiyuu-senki.json) |
+| SD Gundam World: Gachapon Senshi 4 - New Type Story | 48856 | [48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json](./48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json) |
+| SD Gundam World: Gachapon Senshi 5 - Battle of Universal Century | 48855 | [48855-sd-gundam-world-gachapon-senshi-5-battle-of-universal-century.json](./48855-sd-gundam-world-gachapon-senshi-5-battle-of-universal-century.json) |
 | SD Hero Soukessen: Taose! Aku no Gundan | 79278 | [79278-sd-hero-soukessen-taose-aku-no-gundan.json](./79278-sd-hero-soukessen-taose-aku-no-gundan.json) |
 | SD Hiryuu no Ken | 38322 | [38322-sd-hiryuu-no-ken.json](./38322-sd-hiryuu-no-ken.json) |
 | SD Hiryuu no Ken Gaiden | 64968 | [64968-sd-hiryuu-no-ken-gaiden.json](./64968-sd-hiryuu-no-ken-gaiden.json) |
@@ -5223,6 +5233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soft Drizzle | 177527 | [177527-soft-drizzle.json](./177527-soft-drizzle.json) |
 | Soft Serve | 252811 | [252811-soft-serve.json](./252811-soft-serve.json) |
 | Soft(A)ware | 370123 | [370123-soft-a-ware.json](./370123-soft-a-ware.json) |
+| Softball Tengoku | 48907 | [48907-softball-tengoku.json](./48907-softball-tengoku.json) |
 | Softball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 213633 | [213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Softly Placed | 379978 | [379978-softly-placed.json](./379978-softly-placed.json) |
 | Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
@@ -10106,6 +10117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Concentration | 262370 | [262370-super-concentration.json](./262370-super-concentration.json) |
 | Super Console Kid | 296506 | [296506-super-console-kid.json](./296506-super-console-kid.json) |
 | Super Contra | 217546 | [217546-super-contra.json](./217546-super-contra.json) |
+| Super Contra X | 48892 | [48892-super-contra-x.json](./48892-super-contra-x.json) |
 | Super Converger | 177997 | [177997-super-converger.json](./177997-super-converger.json) |
 | Super Corners | 100776 | [100776-super-corners.json](./100776-super-corners.json) |
 | Super CosmoJet | 160248 | [160248-super-cosmojet.json](./160248-super-cosmojet.json) |
@@ -10636,6 +10648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mini Mart | 204530 | [204530-super-mini-mart.json](./204530-super-mini-mart.json) |
 | Super Mombo Quest | 139438 | [139438-super-mombo-quest.json](./139438-super-mombo-quest.json) |
 | Super Momos Crushers | 370197 | [370197-super-momos-crushers.json](./370197-super-momos-crushers.json) |
+| Super Momotaro Dentetsu | 48888 | [48888-super-momotaro-dentetsu.json](./48888-super-momotaro-dentetsu.json) |
 | Super Momotaro Dentetsu DX | 38344 | [38344-super-momotaro-dentetsu-dx.json](./38344-super-momotaro-dentetsu-dx.json) |
 | Super Momotaro Dentetsu II | 37810 | [37810-super-momotaro-dentetsu-ii.json](./37810-super-momotaro-dentetsu-ii.json) |
 | Super Momotaro Dentetsu III | 38343 | [38343-super-momotaro-dentetsu-iii.json](./38343-super-momotaro-dentetsu-iii.json) |
@@ -10716,6 +10729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pinkie World | 231496 | [231496-super-pinkie-world.json](./231496-super-pinkie-world.json) |
 | Super Pinkie World 2 | 231497 | [231497-super-pinkie-world-2.json](./231497-super-pinkie-world-2.json) |
 | Super Pinkie World 3 | 231498 | [231498-super-pinkie-world-3.json](./231498-super-pinkie-world-3.json) |
+| Super Pitfall: 30th Anniversary Edition | 48864 | [48864-super-pitfall-30th-anniversary-edition.json](./48864-super-pitfall-30th-anniversary-edition.json) |
 | Super Pixel Racers | 111185 | [111185-super-pixel-racers.json](./111185-super-pixel-racers.json) |
 | Super Pixelander | 124757 | [124757-super-pixelander.json](./124757-super-pixelander.json) |
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
