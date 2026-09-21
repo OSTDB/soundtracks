@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lauras Tierklinik | 163974 | [163974-lauras-tierklinik.json](./163974-lauras-tierklinik.json) |
 | Laurel's Day | 393486 | [393486-laurels-day.json](./393486-laurels-day.json) |
 | Laureli: Blood-Dipped Manor | 382183 | [382183-laureli-blood-dipped-manor.json](./382183-laureli-blood-dipped-manor.json) |
+| Lava Fever | 22786 | [22786-lava-fever.json](./22786-lava-fever.json) |
 | Lava Joe | 181258 | [181258-lava-joe.json](./181258-lava-joe.json) |
 | Lava Rolling Kid | 75053 | [75053-lava-rolling-kid.json](./75053-lava-rolling-kid.json) |
 | Lava-Runners | 331680 | [331680-lava-runners.json](./331680-lava-runners.json) |
@@ -2724,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Oasis | 334099 | [334099-lost-oasis.json](./334099-lost-oasis.json) |
 | Lost Odyssey: Seeker of the Deep! | 120313 | [120313-lost-odyssey-seeker-of-the-deep.json](./120313-lost-odyssey-seeker-of-the-deep.json) |
 | Lost Orbit: Terminal Velocity | 120185 | [120185-lost-orbit-terminal-velocity.json](./120185-lost-orbit-terminal-velocity.json) |
+| Lost Order | 22789 | [22789-lost-order.json](./22789-lost-order.json) |
 | Lost Pages: The First Cycle | 226755 | [226755-lost-pages-the-first-cycle.json](./226755-lost-pages-the-first-cycle.json) |
 | Lost Passage: Ushinawareta Hitofushi | 165536 | [165536-lost-passage-ushinawareta-hitofushi.json](./165536-lost-passage-ushinawareta-hitofushi.json) |
 | Lost Paws | 207343 | [207343-lost-paws.json](./207343-lost-paws.json) |
@@ -3107,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
 | Lufia: The Ruins of Lore | 1180 | [1180-lufia-the-ruins-of-lore.json](./1180-lufia-the-ruins-of-lore.json) |
 | Luft Gears | 377060 | [377060-luft-gears.json](./377060-luft-gears.json) |
+| Luftwaffe Commander | 22840 | [22840-luftwaffe-commander.json](./22840-luftwaffe-commander.json) |
 | Lufulus' Creatures | 129000 | [129000-lufulus-creatures.json](./129000-lufulus-creatures.json) |
 | Lug's Delightful Dioramas | 198463 | [198463-lugs-delightful-dioramas.json](./198463-lugs-delightful-dioramas.json) |
 | Lug's Delightful Dioramas PC | 378296 | [378296-lugs-delightful-dioramas-pc.json](./378296-lugs-delightful-dioramas-pc.json) |
