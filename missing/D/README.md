@@ -1313,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Nightmare | 190084 | [190084-deadly-nightmare.json](./190084-deadly-nightmare.json) |
 | Deadly Parkour | 295407 | [295407-deadly-parkour.json](./295407-deadly-parkour.json) |
 | Deadly Premonition | 1276 | [1276-deadly-premonition.json](./1276-deadly-premonition.json) |
+| Deadly Premonition 2: A Blessing in Disguise | 122232 | [122232-deadly-premonition-2-a-blessing-in-disguise.json](./122232-deadly-premonition-2-a-blessing-in-disguise.json) |
 | Deadly Premonition: Director's Cut | 9245 | [9245-deadly-premonition-directors-cut.json](./9245-deadly-premonition-directors-cut.json) |
 | Deadly Premonition: The Director's Cut - Classified Edition | 51538 | [51538-deadly-premonition-the-directors-cut-classified-edition.json](./51538-deadly-premonition-the-directors-cut-classified-edition.json) |
 | Deadly Premonition: The Director's Cut Ultimate Edition | 26925 | [26925-deadly-premonition-the-directors-cut-ultimate-edition.json](./26925-deadly-premonition-the-directors-cut-ultimate-edition.json) |
@@ -1978,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demetrios: The Big Cynical Adventure - Replastered | 194005 | [194005-demetrios-the-big-cynical-adventure-replastered.json](./194005-demetrios-the-big-cynical-adventure-replastered.json) |
 | Demetrios: The Big Cynical Adventure & Xenon Valkyrie+ | 145053 | [145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json](./145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json) |
 | Demian | 338825 | [338825-demian.json](./338825-demian.json) |
+| Demigod | 9279 | [9279-demigod.json](./9279-demigod.json) |
 | Demigod Idle: Rise of a legend | 265426 | [265426-demigod-idle-rise-of-a-legend.json](./265426-demigod-idle-rise-of-a-legend.json) |
 | Demigod Islands: A Puzzle to Die For | 390620 | [390620-demigod-islands-a-puzzle-to-die-for.json](./390620-demigod-islands-a-puzzle-to-die-for.json) |
 | Demigods | 34304 | [34304-demigods.json](./34304-demigods.json) |
@@ -3263,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disillusion ST | 276494 | [276494-disillusion-st.json](./276494-disillusion-st.json) |
 | Disillusioned Reunion | 393607 | [393607-disillusioned-reunion.json](./393607-disillusioned-reunion.json) |
 | Disillusions Manga Horror | 9825 | [9825-disillusions-manga-horror.json](./9825-disillusions-manga-horror.json) |
+| Disintegration | 120625 | [120625-disintegration.json](./120625-disintegration.json) |
 | Disintegration | 243254 | [243254-disintegration.json](./243254-disintegration.json) |
 | Disjunction | 112005 | [112005-disjunction.json](./112005-disjunction.json) |
 | Disk Jockey Boy | 46220 | [46220-disk-jockey-boy.json](./46220-disk-jockey-boy.json) |
@@ -3586,6 +3589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DND | 2888 | [2888-dnd.json](./2888-dnd.json) |
 | DnD Dice | 105951 | [105951-dnd-dice.json](./105951-dnd-dice.json) |
 | DNetHack | 351129 | [351129-dnethack.json](./351129-dnethack.json) |
+| DNF Duel | 142063 | [142063-dnf-duel.json](./142063-dnf-duel.json) |
 | DNF Duel: DLC 2 - Brawler | 265719 | [265719-dnf-duel-dlc-2-brawler.json](./265719-dnf-duel-dlc-2-brawler.json) |
 | DNF Duel: Who's Next | 242667 | [242667-dnf-duel-whos-next.json](./242667-dnf-duel-whos-next.json) |
 | Do a Crime | 390110 | [390110-do-a-crime.json](./390110-do-a-crime.json) |
@@ -4992,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drake's Tower | 89229 | [89229-drakes-tower.json](./89229-drakes-tower.json) |
 | Drakengard 2 | 11663 | [11663-drakengard-2.json](./11663-drakengard-2.json) |
 | Drakens Värld | 139804 | [139804-drakens-varld.json](./139804-drakens-varld.json) |
+| Drakensang Online | 8772 | [8772-drakensang-online.json](./8772-drakensang-online.json) |
 | Drakensang: The River of Time | 8769 | [8769-drakensang-the-river-of-time.json](./8769-drakensang-the-river-of-time.json) |
 | Drakheir | 279389 | [279389-drakheir.json](./279389-drakheir.json) |
 | Drakkar | 13611 | [13611-drakkar.json](./13611-drakkar.json) |
