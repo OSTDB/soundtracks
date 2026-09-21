@@ -1115,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AIR Summer Solstice | 308416 | [308416-air-summer-solstice.json](./308416-air-summer-solstice.json) |
 | Air Threat | 97276 | [97276-air-threat.json](./97276-air-threat.json) |
 | Air Traffic Control | 15590 | [15590-air-traffic-control.json](./15590-air-traffic-control.json) |
+| Air Traffic Controller 4 | 59031 | [59031-air-traffic-controller-4.json](./59031-air-traffic-controller-4.json) |
 | Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
 | Air Traffic Disruptor | 51990 | [51990-air-traffic-disruptor.json](./51990-air-traffic-disruptor.json) |
 | Air Trix | 18048 | [18048-air-trix.json](./18048-air-trix.json) |
@@ -2915,9 +2916,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anoun | 384681 | [384681-anoun.json](./384681-anoun.json) |
 | Anovill | 355529 | [355529-anovill.json](./355529-anovill.json) |
 | Anoyo: Zero | 157551 | [157551-anoyo-zero.json](./157551-anoyo-zero.json) |
+| Anpanman Niko-niko Party | 59054 | [59054-anpanman-niko-niko-party.json](./59054-anpanman-niko-niko-party.json) |
 | Anpanman no Waku-waku Game Oekaki | 123617 | [123617-anpanman-no-waku-waku-game-oekaki.json](./123617-anpanman-no-waku-waku-game-oekaki.json) |
 | Anpanman to Asobo: ABC Kyoushitsu | 67283 | [67283-anpanman-to-asobo-abc-kyoushitsu.json](./67283-anpanman-to-asobo-abc-kyoushitsu.json) |
 | Anpanman to Asobo: AIUEO Kyoushitsu DX | 67285 | [67285-anpanman-to-asobo-aiueo-kyoushitsu-dx.json](./67285-anpanman-to-asobo-aiueo-kyoushitsu-dx.json) |
+| Anpanman to Asobo: New AIUEO Kyoushitsu | 59053 | [59053-anpanman-to-asobo-new-aiueo-kyoushitsu.json](./59053-anpanman-to-asobo-new-aiueo-kyoushitsu.json) |
 | Anpanman to Asobu: AIUEO Kyoushitsu | 67284 | [67284-anpanman-to-asobu-aiueo-kyoushitsu.json](./67284-anpanman-to-asobu-aiueo-kyoushitsu.json) |
 | Anstorm | 111214 | [111214-anstorm.json](./111214-anstorm.json) |
 | Anstoss | 37126 | [37126-anstoss.json](./37126-anstoss.json) |
