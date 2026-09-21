@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 3: Point Lookout | 10302 | [10302-fallout-3-point-lookout.json](./10302-fallout-3-point-lookout.json) |
 | Fallout 3: Survival Edition | 72381 | [72381-fallout-3-survival-edition.json](./72381-fallout-3-survival-edition.json) |
 | Fallout 4: Automatron | 18029 | [18029-fallout-4-automatron.json](./18029-fallout-4-automatron.json) |
+| Fallout 4: Contraptions Workshop | 19532 | [19532-fallout-4-contraptions-workshop.json](./19532-fallout-4-contraptions-workshop.json) |
 | Fallout 4: Far Harbor | 18031 | [18031-fallout-4-far-harbor.json](./18031-fallout-4-far-harbor.json) |
 | Fallout 4: Game of the Year Pip-Boy Edition | 72379 | [72379-fallout-4-game-of-the-year-pip-boy-edition.json](./72379-fallout-4-game-of-the-year-pip-boy-edition.json) |
 | Fallout 76: Atlantic City | 252834 | [252834-fallout-76-atlantic-city.json](./252834-fallout-76-atlantic-city.json) |
@@ -1242,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felix VR | 163916 | [163916-felix-vr.json](./163916-felix-vr.json) |
 | Fell from another world | 213478 | [213478-fell-from-another-world.json](./213478-fell-from-another-world.json) |
 | Fell Seal DLC Bundle | 154965 | [154965-fell-seal-dlc-bundle.json](./154965-fell-seal-dlc-bundle.json) |
+| Fell Seal: Arbiter's Mark | 55771 | [55771-fell-seal-arbiters-mark.json](./55771-fell-seal-arbiters-mark.json) |
 | Fell Seal: Arbiter's Mark - Missions and Monsters | 154969 | [154969-fell-seal-arbiters-mark-missions-and-monsters.json](./154969-fell-seal-arbiters-mark-missions-and-monsters.json) |
 | Fellas | 408143 | [408143-fellas.json](./408143-fellas.json) |
 | Felon-E | 302356 | [302356-felon-e.json](./302356-felon-e.json) |
