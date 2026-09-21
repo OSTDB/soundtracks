@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Driving Simulator | 153835 | [153835-car-driving-simulator.json](./153835-car-driving-simulator.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
+| Car Fighter | 47539 | [47539-car-fighter.json](./47539-car-fighter.json) |
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
 | Car Go Fast | 206121 | [206121-car-go-fast.json](./206121-car-go-fast.json) |
 | Car Guy Soundboard | 323375 | [323375-car-guy-soundboard.json](./323375-car-guy-soundboard.json) |
@@ -1013,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Cat 3 | 356074 | [356074-castle-cat-3.json](./356074-castle-cat-3.json) |
 | Castle Champion | 154390 | [154390-castle-champion.json](./154390-castle-champion.json) |
 | Castle Clash | 38890 | [38890-castle-clash.json](./38890-castle-clash.json) |
+| Castle Combat | 47551 | [47551-castle-combat.json](./47551-castle-combat.json) |
 | Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
 | Castle Creeps Battle | 105908 | [105908-castle-creeps-battle.json](./105908-castle-creeps-battle.json) |
 | Castle Creeps TD | 106963 | [106963-castle-creeps-td.json](./106963-castle-creeps-td.json) |
@@ -1496,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Karvella | 114324 | [114324-caverns-of-karvella.json](./114324-caverns-of-karvella.json) |
 | Caverns of Khafka | 25674 | [25674-caverns-of-khafka.json](./25674-caverns-of-khafka.json) |
 | Caverns of Mars: Recharged | 233624 | [233624-caverns-of-mars-recharged.json](./233624-caverns-of-mars-recharged.json) |
+| Caverns of Titan | 47550 | [47550-caverns-of-titan.json](./47550-caverns-of-titan.json) |
 | Caverns of Toros | 226750 | [226750-caverns-of-toros.json](./226750-caverns-of-toros.json) |
 | Caverns of Xaskazien II | 217871 | [217871-caverns-of-xaskazien-ii.json](./217871-caverns-of-xaskazien-ii.json) |
 | Caverns of Zoarre | 2874 | [2874-caverns-of-zoarre.json](./2874-caverns-of-zoarre.json) |
@@ -2113,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Escape | 301285 | [301285-chibi-escape.json](./301285-chibi-escape.json) |
 | Chibi Fighters 2.0 | 130375 | [130375-chibi-fighters-2-0.json](./130375-chibi-fighters-2-0.json) |
 | Chibi Knight | 386258 | [386258-chibi-knight.json](./386258-chibi-knight.json) |
+| Chibi Maruko-chan Deluxe Quiz | 47574 | [47574-chibi-maruko-chan-deluxe-quiz.json](./47574-chibi-maruko-chan-deluxe-quiz.json) |
 | Chibi Survivor Weather Lord - Survival | 89189 | [89189-chibi-survivor-weather-lord-survival.json](./89189-chibi-survivor-weather-lord-survival.json) |
 | Chibi Town | 395539 | [395539-chibi-town.json](./395539-chibi-town.json) |
 | ChibiTama | 211224 | [211224-chibitama.json](./211224-chibitama.json) |
@@ -3937,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come Home. | 203971 | [203971-come-home.json](./203971-come-home.json) |
 | Come Inside My Inner World | 156615 | [156615-come-inside-my-inner-world.json](./156615-come-inside-my-inner-world.json) |
 | Come on Kitty | 214521 | [214521-come-on-kitty.json](./214521-come-on-kitty.json) |
+| Come on Picot | 47559 | [47559-come-on-picot.json](./47559-come-on-picot.json) |
 | Come Out, Cat | 363947 | [363947-come-out-cat.json](./363947-come-out-cat.json) |
 | Come To Dust | 283730 | [283730-come-to-dust.json](./283730-come-to-dust.json) |
 | Come to Jesus | 179726 | [179726-come-to-jesus.json](./179726-come-to-jesus.json) |
@@ -4111,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Board Game: Genpei Touma-den | 42035 | [42035-computer-board-game-genpei-touma-den.json](./42035-computer-board-game-genpei-touma-den.json) |
 | Computer bugs stole my grandmas tax files and I gotta go get them back in cyberspace | 227918 | [227918-computer-bugs-stole-my-grandmas-tax-files-and-i-gotta-go-get-them-back-in-cyberspace.json](./227918-computer-bugs-stole-my-grandmas-tax-files-and-i-gotta-go-get-them-back-in-cyberspace.json) |
 | Computer Cats | 226431 | [226431-computer-cats.json](./226431-computer-cats.json) |
+| Computer Chess | 47531 | [47531-computer-chess.json](./47531-computer-chess.json) |
 | Computer Circus Maximus | 72039 | [72039-computer-circus-maximus.json](./72039-computer-circus-maximus.json) |
 | Computer Foreign Exchange | 282121 | [282121-computer-foreign-exchange.json](./282121-computer-foreign-exchange.json) |
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
@@ -4825,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courage the Cowardly Dog: Creep TV | 186279 | [186279-courage-the-cowardly-dog-creep-tv.json](./186279-courage-the-cowardly-dog-creep-tv.json) |
 | Courage: The Videogame | 170005 | [170005-courage-the-videogame.json](./170005-courage-the-videogame.json) |
 | Courage: ZaGame | 338284 | [338284-courage-zagame.json](./338284-courage-zagame.json) |
+| Courageous Perseus | 47530 | [47530-courageous-perseus.json](./47530-courageous-perseus.json) |
 | Courageous Reasoning Nori 6 MikiEdition Last | 298567 | [298567-courageous-reasoning-nori-6-mikiedition-last.json](./298567-courageous-reasoning-nori-6-mikiedition-last.json) |
 | Courageous Reasoning Nori 7 New World | 309077 | [309077-courageous-reasoning-nori-7-new-world.json](./309077-courageous-reasoning-nori-7-new-world.json) |
 | Courageous Reasoning Nori 9 Reasoning Tournament Sticking Nori | 330129 | [330129-courageous-reasoning-nori-9-reasoning-tournament-sticking-nori.json](./330129-courageous-reasoning-nori-9-reasoning-tournament-sticking-nori.json) |
