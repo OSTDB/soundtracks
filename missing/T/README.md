@@ -3071,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
 | The Evil Within Bundle | 154961 | [154961-the-evil-within-bundle.json](./154961-the-evil-within-bundle.json) |
 | The Evil Within Double Feature | 146135 | [146135-the-evil-within-double-feature.json](./146135-the-evil-within-double-feature.json) |
+| The Evil Within: Limited Edition | 41607 | [41607-the-evil-within-limited-edition.json](./41607-the-evil-within-limited-edition.json) |
 | The exact moment | 144790 | [144790-the-exact-moment.json](./144790-the-exact-moment.json) |
 | The Exaggerated Epoch of Edward O'Hare | 147378 | [147378-the-exaggerated-epoch-of-edward-ohare.json](./147378-the-exaggerated-epoch-of-edward-ohare.json) |
 | The eXceed Collection | 64895 | [64895-the-exceed-collection.json](./64895-the-exceed-collection.json) |
@@ -4675,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mourne's | 207338 | [207338-the-mournes.json](./207338-the-mournes.json) |
 | The Mouse and The Cat | 247055 | [247055-the-mouse-and-the-cat.json](./247055-the-mouse-and-the-cat.json) |
 | The Mouse Police | 66928 | [66928-the-mouse-police.json](./66928-the-mouse-police.json) |
+| The Mousing Cat | 41564 | [41564-the-mousing-cat.json](./41564-the-mousing-cat.json) |
 | The Movie Trivia Challenge | 102100 | [102100-the-movie-trivia-challenge.json](./102100-the-movie-trivia-challenge.json) |
 | The Mulldoon Legacy | 60025 | [60025-the-mulldoon-legacy.json](./60025-the-mulldoon-legacy.json) |
 | The Mulldoon Murders | 60029 | [60029-the-mulldoon-murders.json](./60029-the-mulldoon-murders.json) |
@@ -5068,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest for Achievements Remix | 121008 | [121008-the-quest-for-achievements-remix.json](./121008-the-quest-for-achievements-remix.json) |
 | The Quest for Moe's | 112977 | [112977-the-quest-for-moes.json](./112977-the-quest-for-moes.json) |
 | The Quest for One | 202970 | [202970-the-quest-for-one.json](./202970-the-quest-for-one.json) |
+| The Quest for the Rings | 41575 | [41575-the-quest-for-the-rings.json](./41575-the-quest-for-the-rings.json) |
 | The Quest Keeper | 344939 | [344939-the-quest-keeper.json](./344939-the-quest-keeper.json) |
 | The Quest of Merravid | 12961 | [12961-the-quest-of-merravid.json](./12961-the-quest-of-merravid.json) |
 | The Quest of the Tiny Hero | 275134 | [275134-the-quest-of-the-tiny-hero.json](./275134-the-quest-of-the-tiny-hero.json) |
@@ -10960,6 +10963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyler Tactics | 236953 | [236953-tyler-tactics.json](./236953-tyler-tactics.json) |
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
 | Type 'n Jump | 183995 | [183995-type-n-jump.json](./183995-type-n-jump.json) |
+| Type & Tell | 41579 | [41579-type-and-tell.json](./41579-type-and-tell.json) |
 | Type da Puyo Puyo | 63839 | [63839-type-da-puyo-puyo.json](./63839-type-da-puyo-puyo.json) |
 | Type Dreams | 116969 | [116969-type-dreams.json](./116969-type-dreams.json) |
 | Type Galaxy | 310065 | [310065-type-galaxy.json](./310065-type-galaxy.json) |
