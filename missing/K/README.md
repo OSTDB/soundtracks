@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Bounty 2 | 74329 | [74329-kings-bounty-2.json](./74329-kings-bounty-2.json) |
 | King's Bounty II: Day One Edition | 146330 | [146330-kings-bounty-ii-day-one-edition.json](./146330-kings-bounty-ii-day-one-edition.json) |
 | King's Bounty II: Lord's Edition | 155100 | [155100-kings-bounty-ii-lords-edition.json](./155100-kings-bounty-ii-lords-edition.json) |
+| King's Bounty: Dark Side | 8073 | [8073-kings-bounty-dark-side.json](./8073-kings-bounty-dark-side.json) |
 | King's Bounty: Dark Side - Premium Edition | 53238 | [53238-kings-bounty-dark-side-premium-edition.json](./53238-kings-bounty-dark-side-premium-edition.json) |
 | King's Bounty: Legions - Beast Master Pack | 169933 | [169933-kings-bounty-legions-beast-master-pack.json](./169933-kings-bounty-legions-beast-master-pack.json) |
 | King's Bounty: Legions - Champion of the Realm Pack | 169934 | [169934-kings-bounty-legions-champion-of-the-realm-pack.json](./169934-kings-bounty-legions-champion-of-the-realm-pack.json) |
