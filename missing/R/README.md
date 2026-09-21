@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Laser Disco Dungeon | 169469 | [169469-rainbow-laser-disco-dungeon.json](./169469-rainbow-laser-disco-dungeon.json) |
 | Rainbow Legends | 369119 | [369119-rainbow-legends.json](./369119-rainbow-legends.json) |
 | Rainbow Lines HD | 174362 | [174362-rainbow-lines-hd.json](./174362-rainbow-lines-hd.json) |
+| Rainbow Meteor | 28155 | [28155-rainbow-meteor.json](./28155-rainbow-meteor.json) |
 | Rainbow Mix | 210744 | [210744-rainbow-mix.json](./210744-rainbow-mix.json) |
 | Rainbow Monster: Blue Survivor | 223976 | [223976-rainbow-monster-blue-survivor.json](./223976-rainbow-monster-blue-survivor.json) |
 | Rainbow Mosaics 11: Helper's Valentine | 337618 | [337618-rainbow-mosaics-11-helpers-valentine.json](./337618-rainbow-mosaics-11-helpers-valentine.json) |
@@ -1235,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ball Escape | 150633 | [150633-red-ball-escape.json](./150633-red-ball-escape.json) |
 | Red Ball Escape Adventure | 218477 | [218477-red-ball-escape-adventure.json](./218477-red-ball-escape-adventure.json) |
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
+| Red Ball vs Green King | 28184 | [28184-red-ball-vs-green-king.json](./28184-red-ball-vs-green-king.json) |
 | Red Baron 3D | 50124 | [50124-red-baron-3d.json](./50124-red-baron-3d.json) |
 | Red Baron Arcade | 21266 | [21266-red-baron-arcade.json](./21266-red-baron-arcade.json) |
 | Red Baron History | 9411 | [9411-red-baron-history.json](./9411-red-baron-history.json) |
@@ -2851,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Wars | 265943 | [265943-road-wars.json](./265943-road-wars.json) |
 | Road Works | 35687 | [35687-road-works.json](./35687-road-works.json) |
 | Road Z Survival: The Last Winter | 105089 | [105089-road-z-survival-the-last-winter.json](./105089-road-z-survival-the-last-winter.json) |
+| Road's Edge | 28135 | [28135-roads-edge.json](./28135-roads-edge.json) |
 | RoadCraft | 314239 | [314239-roadcraft.json](./314239-roadcraft.json) |
 | RoadCraft: Aramatsu Bowhead 30T | 374731 | [374731-roadcraft-aramatsu-bowhead-30t.json](./374731-roadcraft-aramatsu-bowhead-30t.json) |
 | RoadCraft: Invictus Type A Scout | 374733 | [374733-roadcraft-invictus-type-a-scout.json](./374733-roadcraft-invictus-type-a-scout.json) |
