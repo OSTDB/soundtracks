@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neutrino | 212826 | [212826-neutrino.json](./212826-neutrino.json) |
 | Neutrois | 183580 | [183580-neutrois.json](./183580-neutrois.json) |
 | Neutron and the Tri-Spark | 166635 | [166635-neutron-and-the-tri-spark.json](./166635-neutron-and-the-tri-spark.json) |
+| Neutron Star | 41562 | [41562-neutron-star.json](./41562-neutron-star.json) |
 | Nev's Jam Buster | 235337 | [235337-nevs-jam-buster.json](./235337-nevs-jam-buster.json) |
 | Never / Together | 402908 | [402908-never-together.json](./402908-never-together.json) |
 | Never Alone: Arctic Collection | 46702 | [46702-never-alone-arctic-collection.json](./46702-never-alone-arctic-collection.json) |
@@ -1395,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Drone | 373654 | [373654-night-drone.json](./373654-night-drone.json) |
 | Night Escaper | 201266 | [201266-night-escaper.json](./201266-night-escaper.json) |
 | Night Feeder | 279104 | [279104-night-feeder.json](./279104-night-feeder.json) |
+| Night Fighter | 41570 | [41570-night-fighter.json](./41570-night-fighter.json) |
 | Night Flight | 297492 | [297492-night-flight.json](./297492-night-flight.json) |
 | Night Fright | 318402 | [318402-night-fright.json](./318402-night-fright.json) |
 | Night Furries | 367512 | [367512-night-furries.json](./367512-night-furries.json) |
@@ -1602,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nim | 100217 | [100217-nim.json](./100217-nim.json) |
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
 | Nimble Bunn | 68805 | [68805-nimble-bunn.json](./68805-nimble-bunn.json) |
+| Nimble Numbers Ned | 41561 | [41561-nimble-numbers-ned.json](./41561-nimble-numbers-ned.json) |
 | Nimble Quest | 16780 | [16780-nimble-quest.json](./16780-nimble-quest.json) |
 | Nimian Legends: BrightRidge | 89183 | [89183-nimian-legends-brightridge.json](./89183-nimian-legends-brightridge.json) |
 | Nimpize Adventure | 135170 | [135170-nimpize-adventure.json](./135170-nimpize-adventure.json) |
@@ -2180,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norse | 188562 | [188562-norse.json](./188562-norse.json) |
 | Norse by Norse West: The Return of the Lost Vikings | 2615 | [2615-norse-by-norse-west-the-return-of-the-lost-vikings.json](./2615-norse-by-norse-west-the-return-of-the-lost-vikings.json) |
 | Norse Noir: Loki's Exile | 19264 | [19264-norse-noir-lokis-exile.json](./19264-norse-noir-lokis-exile.json) |
+| Norseman | 41560 | [41560-norseman.json](./41560-norseman.json) |
 | North American Hunting Extravaganza 2 | 50619 | [50619-north-american-hunting-extravaganza-2.json](./50619-north-american-hunting-extravaganza-2.json) |
 | North Modding Company: Bergsbruk | 143689 | [143689-north-modding-company-bergsbruk.json](./143689-north-modding-company-bergsbruk.json) |
 | North Salvation | 246475 | [246475-north-salvation.json](./246475-north-salvation.json) |
