@@ -6542,6 +6542,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybersonic Strike | 258538 | [258538-cybersonic-strike.json](./258538-cybersonic-strike.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
 | CyberStorm 2: Corporate Wars | 11028 | [11028-cyberstorm-2-corporate-wars.json](./11028-cyberstorm-2-corporate-wars.json) |
+| Cyberstrike | 22809 | [22809-cyberstrike.json](./22809-cyberstrike.json) |
+| Cyberstrike 2 | 22810 | [22810-cyberstrike-2.json](./22810-cyberstrike-2.json) |
 | CyberTaxi | 140602 | [140602-cybertaxi.json](./140602-cybertaxi.json) |
 | CyberTaxi: Lunatic Nights | 296388 | [296388-cybertaxi-lunatic-nights.json](./296388-cybertaxi-lunatic-nights.json) |
 | CyberThreat | 31603 | [31603-cyberthreat.json](./31603-cyberthreat.json) |
