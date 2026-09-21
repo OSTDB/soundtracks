@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egglia: Legend of the Redcap Offline | 107144 | [107144-egglia-legend-of-the-redcap-offline.json](./107144-egglia-legend-of-the-redcap-offline.json) |
 | Eggman | 309664 | [309664-eggman.json](./309664-eggman.json) |
 | Eggman no Kazuate Panic! | 261249 | [261249-eggman-no-kazuate-panic.json](./261249-eggman-no-kazuate-panic.json) |
+| Eggomania | 22765 | [22765-eggomania.json](./22765-eggomania.json) |
 | Eggplant | 338180 | [338180-eggplant.json](./338180-eggplant.json) |
 | Eggrolls Shoot | 379881 | [379881-eggrolls-shoot.json](./379881-eggrolls-shoot.json) |
 | Eggs of Steel: Charlie's Eggcellent Adventure | 68023 | [68023-eggs-of-steel-charlies-eggcellent-adventure.json](./68023-eggs-of-steel-charlies-eggcellent-adventure.json) |
@@ -1359,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entity Researchers | 159260 | [159260-entity-researchers.json](./159260-entity-researchers.json) |
 | Entity: A Horror Escape | 105790 | [105790-entity-a-horror-escape.json](./105790-entity-a-horror-escape.json) |
 | Entity: The Black Day | 260168 | [260168-entity-the-black-day.json](./260168-entity-the-black-day.json) |
+| Entombed | 22820 | [22820-entombed.json](./22820-entombed.json) |
 | Entomophobia | 195153 | [195153-entomophobia.json](./195153-entomophobia.json) |
 | Entomorph: Plague of the Darkfall | 3138 | [3138-entomorph-plague-of-the-darkfall.json](./3138-entomorph-plague-of-the-darkfall.json) |
 | Entre Laços e Amassos | 215790 | [215790-entre-lacos-e-amassos.json](./215790-entre-lacos-e-amassos.json) |
