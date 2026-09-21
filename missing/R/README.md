@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenlok | 204626 | [204626-ravenlok.json](./204626-ravenlok.json) |
 | Ravenmark: Mercenaries | 63534 | [63534-ravenmark-mercenaries.json](./63534-ravenmark-mercenaries.json) |
 | Ravenmoore Psychiatric Hospital | 376463 | [376463-ravenmoore-psychiatric-hospital.json](./376463-ravenmoore-psychiatric-hospital.json) |
+| Ravenous Devils | 173033 | [173033-ravenous-devils.json](./173033-ravenous-devils.json) |
 | Ravens Battle Fields | 174849 | [174849-ravens-battle-fields.json](./174849-ravens-battle-fields.json) |
 | Ravensburger Labyrinth | 200049 | [200049-ravensburger-labyrinth.json](./200049-ravensburger-labyrinth.json) |
 | Ravensburger Puzzle | 25495 | [25495-ravensburger-puzzle.json](./25495-ravensburger-puzzle.json) |
@@ -1993,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Asylum | 409559 | [409559-retro-asylum.json](./409559-retro-asylum.json) |
 | Retro Battle | 306533 | [306533-retro-battle.json](./306533-retro-battle.json) |
 | Retro Bowl | 141684 | [141684-retro-bowl.json](./141684-retro-bowl.json) |
+| Retro City Rampage DX | 15276 | [15276-retro-city-rampage-dx.json](./15276-retro-city-rampage-dx.json) |
 | Retro Classix 2-in-1 Pack: Gate of Doom & Wizard Fire | 147913 | [147913-retro-classix-2-in-1-pack-gate-of-doom-and-wizard-fire.json](./147913-retro-classix-2-in-1-pack-gate-of-doom-and-wizard-fire.json) |
 | Retro Classix 2-in-1 Pack: Heavy Barrel & Super Burger Time | 147896 | [147896-retro-classix-2-in-1-pack-heavy-barrel-and-super-burger-time.json](./147896-retro-classix-2-in-1-pack-heavy-barrel-and-super-burger-time.json) |
 | Retro Classix 2in1 pack: Bad Dudes & Two Crude Dudes | 147897 | [147897-retro-classix-2in1-pack-bad-dudes-and-two-crude-dudes.json](./147897-retro-classix-2in1-pack-bad-dudes-and-two-crude-dudes.json) |
