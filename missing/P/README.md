@@ -2456,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates | 197378 | [197378-pirates.json](./197378-pirates.json) |
 | Pirates Adventure Solitaire | 341574 | [341574-pirates-adventure-solitaire.json](./341574-pirates-adventure-solitaire.json) |
 | Pirates Ahoy! | 182379 | [182379-pirates-ahoy.json](./182379-pirates-ahoy.json) |
+| Pirates and Traders | 39174 | [39174-pirates-and-traders.json](./39174-pirates-and-traders.json) |
 | Pirates are Blanking Awesome | 117475 | [117475-pirates-are-blanking-awesome.json](./117475-pirates-are-blanking-awesome.json) |
 | Pirates Bay | 211802 | [211802-pirates-bay.json](./211802-pirates-bay.json) |
 | Pirates CSG Online | 20643 | [20643-pirates-csg-online.json](./20643-pirates-csg-online.json) |
@@ -3269,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Luna | 193878 | [193878-pocket-luna.json](./193878-pocket-luna.json) |
 | Pocket Mario | 318031 | [318031-pocket-mario.json](./318031-pocket-mario.json) |
 | Pocket Mine | 38909 | [38909-pocket-mine.json](./38909-pocket-mine.json) |
+| Pocket Mine 2 | 39218 | [39218-pocket-mine-2.json](./39218-pocket-mine-2.json) |
 | Pocket Mine 3 | 68340 | [68340-pocket-mine-3.json](./68340-pocket-mine-3.json) |
 | Pocket Mine 3 | 77666 | [77666-pocket-mine-3.json](./77666-pocket-mine-3.json) |
 | Pocket Mini Golf | 132027 | [132027-pocket-mini-golf.json](./132027-pocket-mini-golf.json) |
@@ -4090,6 +4092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postmortem Hero | 184111 | [184111-postmortem-hero.json](./184111-postmortem-hero.json) |
 | PostZ: Zombies VR | 172148 | [172148-postz-zombies-vr.json](./172148-postz-zombies-vr.json) |
 | Pot Breaker | 223444 | [223444-pot-breaker.json](./223444-pot-breaker.json) |
+| Pot Farm - Grass Roots | 39215 | [39215-pot-farm-grass-roots.json](./39215-pot-farm-grass-roots.json) |
 | Pot Farmer | 235972 | [235972-pot-farmer.json](./235972-pot-farmer.json) |
 | Potat | 372535 | [372535-potat.json](./372535-potat.json) |
 | Potato | 314306 | [314306-potato.json](./314306-potato.json) |
@@ -5131,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prop Cycle | 40395 | [40395-prop-cycle.json](./40395-prop-cycle.json) |
 | Prop Game | 256000 | [256000-prop-game.json](./256000-prop-game.json) |
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
+| Prop Hunt Portable | 39195 | [39195-prop-hunt-portable.json](./39195-prop-hunt-portable.json) |
 | Prop Sumo | 355620 | [355620-prop-sumo.json](./355620-prop-sumo.json) |
 | Propa. | 326255 | [326255-propa.json](./326255-propa.json) |
 | Propaganda vs. Zombies 2 | 391742 | [391742-propaganda-vs-zombies-2.json](./391742-propaganda-vs-zombies-2.json) |
