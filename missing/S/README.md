@@ -4477,6 +4477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
 | Slice 'Em Up! | 185130 | [185130-slice-em-up.json](./185130-slice-em-up.json) |
+| Slice & Dice | 176099 | [176099-slice-and-dice.json](./176099-slice-and-dice.json) |
 | Slice It! | 147957 | [147957-slice-it.json](./147957-slice-it.json) |
 | Slice N' Hook | 67335 | [67335-slice-n-hook.json](./67335-slice-n-hook.json) |
 | Slice of Life Fantasy | 191192 | [191192-slice-of-life-fantasy.json](./191192-slice-of-life-fantasy.json) |
@@ -6346,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
 | SoulCalibur II | 1565 | [1565-soulcalibur-ii.json](./1565-soulcalibur-ii.json) |
 | SoulCalibur III: Arcade Edition | 299306 | [299306-soulcalibur-iii-arcade-edition.json](./299306-soulcalibur-iii-arcade-edition.json) |
+| Soulcalibur Legends | 5170 | [5170-soulcalibur-legends.json](./5170-soulcalibur-legends.json) |
 | SoulCalibur V | 1013 | [1013-soulcalibur-v.json](./1013-soulcalibur-v.json) |
 | SoulCalibur V: Collectors Edition | 44655 | [44655-soulcalibur-v-collectors-edition.json](./44655-soulcalibur-v-collectors-edition.json) |
 | Soulcalibur: Broken Destiny | 272550 | [272550-soulcalibur-broken-destiny.json](./272550-soulcalibur-broken-destiny.json) |
@@ -8322,6 +8324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Galactic Battlegrounds Saga | 35596 | [35596-star-wars-galactic-battlegrounds-saga.json](./35596-star-wars-galactic-battlegrounds-saga.json) |
 | Star Wars: Heritage Pack | 200175 | [200175-star-wars-heritage-pack.json](./200175-star-wars-heritage-pack.json) |
 | Star Wars: Heritage Pack | 247756 | [247756-star-wars-heritage-pack.json](./247756-star-wars-heritage-pack.json) |
+| Star Wars: Hunters | 143611 | [143611-star-wars-hunters.json](./143611-star-wars-hunters.json) |
 | Star Wars: Hunters - Frosty Nerf Herder Cosmetic Pack | 328991 | [328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json](./328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json) |
 | Star Wars: Hunters - Season 4: Survival Instinct | 347673 | [347673-star-wars-hunters-season-4-survival-instinct.json](./347673-star-wars-hunters-season-4-survival-instinct.json) |
 | Star Wars: Hunters - Season 5: Scum & Villainy | 347677 | [347677-star-wars-hunters-season-5-scum-and-villainy.json](./347677-star-wars-hunters-season-5-scum-and-villainy.json) |
@@ -10751,6 +10754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 DOS Port | 307320 | [307320-super-mario-64-dos-port.json](./307320-super-mario-64-dos-port.json) |
 | Super Mario 64 DS | 22301 | [22301-super-mario-64-ds.json](./22301-super-mario-64-ds.json) |
 | Super Mario 64 EX Alo | 307321 | [307321-super-mario-64-ex-alo.json](./307321-super-mario-64-ex-alo.json) |
+| Super Mario 64 FPS | 144163 | [144163-super-mario-64-fps.json](./144163-super-mario-64-fps.json) |
 | Super Mario 64 HD | 176900 | [176900-super-mario-64-hd.json](./176900-super-mario-64-hd.json) |
 | Super Mario 64 in Tomb Raider | 262677 | [262677-super-mario-64-in-tomb-raider.json](./262677-super-mario-64-in-tomb-raider.json) |
 | Super Mario 64 Land | 132609 | [132609-super-mario-64-land.json](./132609-super-mario-64-land.json) |
@@ -11501,6 +11505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supervive | 255078 | [255078-supervive.json](./255078-supervive.json) |
 | SuperWeird | 353883 | [353883-superweird.json](./353883-superweird.json) |
 | Supesu | 103445 | [103445-supesu.json](./103445-supesu.json) |
+| Supfly Delivery Simulator | 140158 | [140158-supfly-delivery-simulator.json](./140158-supfly-delivery-simulator.json) |
 | Supipara: Chapter 1 | 32232 | [32232-supipara-chapter-1.json](./32232-supipara-chapter-1.json) |
 | Supipara: Chapter 2 | 90149 | [90149-supipara-chapter-2.json](./90149-supipara-chapter-2.json) |
 | Supplice | 165070 | [165070-supplice.json](./165070-supplice.json) |
