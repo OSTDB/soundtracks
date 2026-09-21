@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ian Botham's Test Match | 15574 | [15574-ian-bothams-test-match.json](./15574-ian-bothams-test-match.json) |
 | Ibara | 44623 | [44623-ibara.json](./44623-ibara.json) |
 | Ibb & Obb | 9139 | [9139-ibb-and-obb.json](./9139-ibb-and-obb.json) |
+| Ibix the Viking | 13250 | [13250-ibix-the-viking.json](./13250-ibix-the-viking.json) |
 | Iblis3: Phenomena | 372013 | [372013-iblis3-phenomena.json](./372013-iblis3-phenomena.json) |
 | IBloxx | 359476 | [359476-ibloxx.json](./359476-ibloxx.json) |
 | IBM: Cityone, A Smarter Planet Game | 66626 | [66626-ibm-cityone-a-smarter-planet-game.json](./66626-ibm-cityone-a-smarter-planet-game.json) |
