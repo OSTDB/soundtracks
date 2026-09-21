@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider V3 | 43862 | [43862-kamen-rider-v3.json](./43862-kamen-rider-v3.json) |
 | Kamen Rider: Battride War II | 62184 | [62184-kamen-rider-battride-war-ii.json](./62184-kamen-rider-battride-war-ii.json) |
 | Kamen Rider: Memory of Heroez | 137453 | [137453-kamen-rider-memory-of-heroez.json](./137453-kamen-rider-memory-of-heroez.json) |
+| Kamen Rider: Seigi no Keifu | 61914 | [61914-kamen-rider-seigi-no-keifu.json](./61914-kamen-rider-seigi-no-keifu.json) |
 | Kamen Rider: Super Climax Heroes | 62705 | [62705-kamen-rider-super-climax-heroes.json](./62705-kamen-rider-super-climax-heroes.json) |
 | Kameo: Elements of Power | 7029 | [7029-kameo-elements-of-power.json](./7029-kameo-elements-of-power.json) |
 | Kamer | 129567 | [129567-kamer.json](./129567-kamer.json) |
