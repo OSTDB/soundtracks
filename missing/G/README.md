@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer Girls: Futanari | 210858 | [210858-gamer-girls-futanari.json](./210858-gamer-girls-futanari.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
 | Gamer Shop Simulator | 129309 | [129309-gamer-shop-simulator.json](./129309-gamer-shop-simulator.json) |
+| Gamera 2000 | 44865 | [44865-gamera-2000.json](./44865-gamera-2000.json) |
 | Gamera: The Time Adventure | 66081 | [66081-gamera-the-time-adventure.json](./66081-gamera-the-time-adventure.json) |
 | Gamers Choice | 86083 | [86083-gamers-choice.json](./86083-gamers-choice.json) |
 | Gamers Pack | 72043 | [72043-gamers-pack.json](./72043-gamers-pack.json) |
@@ -3443,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfire Reborn: Visitors of Spirit Realm | 213979 | [213979-gunfire-reborn-visitors-of-spirit-realm.json](./213979-gunfire-reborn-visitors-of-spirit-realm.json) |
 | GunFleet | 30023 | [30023-gunfleet.json](./30023-gunfleet.json) |
 | Gunfright | 14102 | [14102-gunfright.json](./14102-gunfright.json) |
+| Gungage | 44863 | [44863-gungage.json](./44863-gungage.json) |
 | GunGirl 2 | 23720 | [23720-gungirl-2.json](./23720-gungirl-2.json) |
 | Gungrave G.O.R.E: Blood Heat | 370130 | [370130-gungrave-g-o-r-e-blood-heat.json](./370130-gungrave-g-o-r-e-blood-heat.json) |
 | Gungrave G.O.R.E: Street Grave | 357271 | [357271-gungrave-g-o-r-e-street-grave.json](./357271-gungrave-g-o-r-e-street-grave.json) |
