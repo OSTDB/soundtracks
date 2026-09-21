@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Fun City | 80975 | [80975-rc-fun-city.json](./80975-rc-fun-city.json) |
 | Rc Plane 2 | 260654 | [260654-rc-plane-2.json](./260654-rc-plane-2.json) |
 | RC Plane 3: Canyon Scenario | 167718 | [167718-rc-plane-3-canyon-scenario.json](./167718-rc-plane-3-canyon-scenario.json) |
+| RC Racing Off Road 2.0 | 32233 | [32233-rc-racing-off-road-2-0.json](./32233-rc-racing-off-road-2-0.json) |
 | RC Revenge Pro | 43253 | [43253-rc-revenge-pro.json](./43253-rc-revenge-pro.json) |
 | RC SIM 2022 | 369554 | [369554-rc-sim-2022.json](./369554-rc-sim-2022.json) |
 | RC Toy Machines | 100173 | [100173-rc-toy-machines.json](./100173-rc-toy-machines.json) |
@@ -1166,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reckless Racing HD | 90542 | [90542-reckless-racing-hd.json](./90542-reckless-racing-hd.json) |
 | Reckless Rally | 276830 | [276830-reckless-rally.json](./276830-reckless-rally.json) |
 | Reckon | 74074 | [74074-reckon.json](./74074-reckon.json) |
+| Reckpunk | 32262 | [32262-reckpunk.json](./32262-reckpunk.json) |
 | Reclaimer | 404308 | [404308-reclaimer.json](./404308-reclaimer.json) |
 | Reclamation | 268463 | [268463-reclamation.json](./268463-reclamation.json) |
 | Reclamation of Xanthros | 298177 | [298177-reclamation-of-xanthros.json](./298177-reclamation-of-xanthros.json) |
@@ -1668,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants | 168318 | [168318-remnants.json](./168318-remnants.json) |
 | Remnants of Flesh | 322608 | [322608-remnants-of-flesh.json](./322608-remnants-of-flesh.json) |
 | Remnants of Naezith | 29520 | [29520-remnants-of-naezith.json](./29520-remnants-of-naezith.json) |
+| Remnants of the Arcane | 32168 | [32168-remnants-of-the-arcane.json](./32168-remnants-of-the-arcane.json) |
 | Remnants of the Rift | 154369 | [154369-remnants-of-the-rift.json](./154369-remnants-of-the-rift.json) |
 | Remnants of Yore | 342654 | [342654-remnants-of-yore.json](./342654-remnants-of-yore.json) |
 | Remote Control | 388921 | [388921-remote-control.json](./388921-remote-control.json) |
@@ -2582,6 +2585,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riptale: Deluxe Edition | 53509 | [53509-riptale-deluxe-edition.json](./53509-riptale-deluxe-edition.json) |
 | Riptide | 291236 | [291236-riptide.json](./291236-riptide.json) |
 | Riptide GP2 | 16735 | [16735-riptide-gp2.json](./16735-riptide-gp2.json) |
+| Rise | 32198 | [32198-rise.json](./32198-rise.json) |
+| Rise | 32218 | [32218-rise.json](./32218-rise.json) |
 | Rise | 338219 | [338219-rise.json](./338219-rise.json) |
 | Rise & Muse | 298142 | [298142-rise-and-muse.json](./298142-rise-and-muse.json) |
 | Rise & Reign | 277277 | [277277-rise-and-reign.json](./277277-rise-and-reign.json) |
@@ -3894,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruck | 232422 | [232422-ruck.json](./232422-ruck.json) |
 | Rucoy 2: Mirror World MMORPG | 231916 | [231916-rucoy-2-mirror-world-mmorpg.json](./231916-rucoy-2-mirror-world-mmorpg.json) |
 | Rucoy Online | 76572 | [76572-rucoy-online.json](./76572-rucoy-online.json) |
+| Ruction: The Golden Tablet | 32207 | [32207-ruction-the-golden-tablet.json](./32207-ruction-the-golden-tablet.json) |
 | Rudo Resurrection | 66646 | [66646-rudo-resurrection.json](./66646-rudo-resurrection.json) |
 | Rudolph the Red-Nosed Reindeer | 358391 | [358391-rudolph-the-red-nosed-reindeer.json](./358391-rudolph-the-red-nosed-reindeer.json) |
 | Rudra no Hihou | 15838 | [15838-rudra-no-hihou.json](./15838-rudra-no-hihou.json) |
@@ -4131,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Black | 120990 | [120990-running-black.json](./120990-running-black.json) |
 | Running Challenge | 190152 | [190152-running-challenge.json](./190152-running-challenge.json) |
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
+| Running Gods | 32231 | [32231-running-gods.json](./32231-running-gods.json) |
 | Running into the Cyberpunk | 219655 | [219655-running-into-the-cyberpunk.json](./219655-running-into-the-cyberpunk.json) |
 | Running King | 83559 | [83559-running-king.json](./83559-running-king.json) |
 | Running Knight | 308401 | [308401-running-knight.json](./308401-running-knight.json) |
