@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
 | Mad Yu: Rural Idle | 412391 | [412391-mad-yu-rural-idle.json](./412391-mad-yu-rural-idle.json) |
 | Mad Zombie | 86562 | [86562-mad-zombie.json](./86562-mad-zombie.json) |
+| Madagascar | 3764 | [3764-madagascar.json](./3764-madagascar.json) |
 | Madagascar 3: Europe's Most Wanted | 243270 | [243270-madagascar-3-europes-most-wanted.json](./243270-madagascar-3-europes-most-wanted.json) |
 | Madagascar Mini-Mayhem | 137609 | [137609-madagascar-mini-mayhem.json](./137609-madagascar-mini-mayhem.json) |
 | Madagascar: Join the Circus | 25186 | [25186-madagascar-join-the-circus.json](./25186-madagascar-join-the-circus.json) |
@@ -1171,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi | 117772 | [117772-mario-and-luigi.json](./117772-mario-and-luigi.json) |
 | Mario & Luigi Sokoban | 349855 | [349855-mario-and-luigi-sokoban.json](./349855-mario-and-luigi-sokoban.json) |
 | Mario & Luigi vs. The Furbies | 323179 | [323179-mario-and-luigi-vs-the-furbies.json](./323179-mario-and-luigi-vs-the-furbies.json) |
+| Mario & Luigi: Dream Team | 3365 | [3365-mario-and-luigi-dream-team.json](./3365-mario-and-luigi-dream-team.json) |
 | Mario & Luigi: Kola Kingdom Quest | 132856 | [132856-mario-and-luigi-kola-kingdom-quest.json](./132856-mario-and-luigi-kola-kingdom-quest.json) |
 | Mario & Luigi: Partners in Time | 3364 | [3364-mario-and-luigi-partners-in-time.json](./3364-mario-and-luigi-partners-in-time.json) |
 | Mario & Luigi: Power Blast | 313327 | [313327-mario-and-luigi-power-blast.json](./313327-mario-and-luigi-power-blast.json) |
@@ -1663,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Brawl | 256354 | [256354-mass-brawl.json](./256354-mass-brawl.json) |
 | Mass Effect 2: Collector's Edition | 43957 | [43957-mass-effect-2-collectors-edition.json](./43957-mass-effect-2-collectors-edition.json) |
 | Mass Effect 2: Digital Deluxe Edition | 202309 | [202309-mass-effect-2-digital-deluxe-edition.json](./202309-mass-effect-2-digital-deluxe-edition.json) |
+| Mass Effect 2: Lair of the Shadow Broker | 782 | [782-mass-effect-2-lair-of-the-shadow-broker.json](./782-mass-effect-2-lair-of-the-shadow-broker.json) |
 | Mass Effect 3: Extended Cut | 78460 | [78460-mass-effect-3-extended-cut.json](./78460-mass-effect-3-extended-cut.json) |
 | Mass Effect: Andromeda - Deluxe Recruit Edition | 91212 | [91212-mass-effect-andromeda-deluxe-recruit-edition.json](./91212-mass-effect-andromeda-deluxe-recruit-edition.json) |
 | Mass Effect: Andromeda - Super Deluxe Edition | 27767 | [27767-mass-effect-andromeda-super-deluxe-edition.json](./27767-mass-effect-andromeda-super-deluxe-edition.json) |
@@ -2338,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Wars | 165697 | [165697-medieval-wars.json](./165697-medieval-wars.json) |
 | Medieval: Defense & Conquest | 255792 | [255792-medieval-defense-and-conquest.json](./255792-medieval-defense-and-conquest.json) |
 | Medieval: Idle Prayer | 364603 | [364603-medieval-idle-prayer.json](./364603-medieval-idle-prayer.json) |
+| Medieval: Total War | 437 | [437-medieval-total-war.json](./437-medieval-total-war.json) |
 | Medieval: Total War - Collection | 82055 | [82055-medieval-total-war-collection.json](./82055-medieval-total-war-collection.json) |
 | Medieval: Total War - Gold Edition | 35894 | [35894-medieval-total-war-gold-edition.json](./35894-medieval-total-war-gold-edition.json) |
 | Medieval: Total War - Viking Invasion | 444 | [444-medieval-total-war-viking-invasion.json](./444-medieval-total-war-viking-invasion.json) |
