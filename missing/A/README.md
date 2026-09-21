@@ -1949,6 +1949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alquiem | 330857 | [330857-alquiem.json](./330857-alquiem.json) |
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
 | Alt254 | 135287 | [135287-alt254.json](./135287-alt254.json) |
+| Altair | 38550 | [38550-altair.json](./38550-altair.json) |
 | Altar of Evil | 269116 | [269116-altar-of-evil.json](./269116-altar-of-evil.json) |
 | Altar War | 218585 | [218585-altar-war.json](./218585-altar-war.json) |
 | Altarage | 157150 | [157150-altarage.json](./157150-altarage.json) |
