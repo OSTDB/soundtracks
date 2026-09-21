@@ -1059,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Racers 2 | 390 | [390-lego-racers-2.json](./390-lego-racers-2.json) |
 | LEGO Racers: The Video Game | 341908 | [341908-lego-racers-the-video-game.json](./341908-lego-racers-the-video-game.json) |
 | LEGO Star Wars II | 286107 | [286107-lego-star-wars-ii.json](./286107-lego-star-wars-ii.json) |
+| LEGO Star Wars II: The Original Trilogy | 190 | [190-lego-star-wars-ii-the-original-trilogy.json](./190-lego-star-wars-ii-the-original-trilogy.json) |
 | Lego Star Wars the Force Awakens - First Order Siege of Takodana Level Pack | 355113 | [355113-lego-star-wars-the-force-awakens-first-order-siege-of-takodana-level-pack.json](./355113-lego-star-wars-the-force-awakens-first-order-siege-of-takodana-level-pack.json) |
 | Lego Star Wars the Force Awakens - Star Wars Rebels Character Pack | 355112 | [355112-lego-star-wars-the-force-awakens-star-wars-rebels-character-pack.json](./355112-lego-star-wars-the-force-awakens-star-wars-rebels-character-pack.json) |
 | Lego Star Wars the Force Awakens - The Freemaker Adventures Character Pack | 355114 | [355114-lego-star-wars-the-force-awakens-the-freemaker-adventures-character-pack.json](./355114-lego-star-wars-the-force-awakens-the-freemaker-adventures-character-pack.json) |
@@ -1084,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO The Hobbit: Side Quest Character Pack | 168771 | [168771-lego-the-hobbit-side-quest-character-pack.json](./168771-lego-the-hobbit-side-quest-character-pack.json) |
 | LEGO The Hobbit: The Battle Pack | 168773 | [168773-lego-the-hobbit-the-battle-pack.json](./168773-lego-the-hobbit-the-battle-pack.json) |
 | LEGO The Hobbit: The Big Little Character Pack | 168772 | [168772-lego-the-hobbit-the-big-little-character-pack.json](./168772-lego-the-hobbit-the-big-little-character-pack.json) |
+| LEGO The Lord of the Rings | 4969 | [4969-lego-the-lord-of-the-rings.json](./4969-lego-the-lord-of-the-rings.json) |
 | LEGO The Lord of the Rings: Toy Edition | 139957 | [139957-lego-the-lord-of-the-rings-toy-edition.json](./139957-lego-the-lord-of-the-rings-toy-edition.json) |
 | LEGO Tower | 119579 | [119579-lego-tower.json](./119579-lego-tower.json) |
 | LEGO World Builder 2 | 243690 | [243690-lego-world-builder-2.json](./243690-lego-world-builder-2.json) |
@@ -1297,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's! Splat! Machigai Sagashi | 222528 | [222528-lets-splat-machigai-sagashi.json](./222528-lets-splat-machigai-sagashi.json) |
 | Lethal Application | 256555 | [256555-lethal-application.json](./256555-lethal-application.json) |
 | Lethal Beach | 267109 | [267109-lethal-beach.json](./267109-lethal-beach.json) |
+| Lethal Company | 212089 | [212089-lethal-company.json](./212089-lethal-company.json) |
 | Lethal Dose | 241950 | [241950-lethal-dose.json](./241950-lethal-dose.json) |
 | Lethal Encounter | 297477 | [297477-lethal-encounter.json](./297477-lethal-encounter.json) |
 | Lethal Enforcers 3 | 5399 | [5399-lethal-enforcers-3.json](./5399-lethal-enforcers-3.json) |
