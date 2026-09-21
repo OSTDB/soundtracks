@@ -3946,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skaza | 141159 | [141159-skaza.json](./141159-skaza.json) |
 | Skeal | 185682 | [185682-skeal.json](./185682-skeal.json) |
 | Skedaddling In Egypt | 244244 | [244244-skedaddling-in-egypt.json](./244244-skedaddling-in-egypt.json) |
+| Skeet: VR Target Shooting | 33453 | [33453-skeet-vr-target-shooting.json](./33453-skeet-vr-target-shooting.json) |
 | Skeeter's Grid | 190082 | [190082-skeeters-grid.json](./190082-skeeters-grid.json) |
 | Skeetshoot | 81284 | [81284-skeetshoot.json](./81284-skeetshoot.json) |
 | Skelattack | 54837 | [54837-skelattack.json](./54837-skelattack.json) |
@@ -4597,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sluggerpunk | 298141 | [298141-sluggerpunk.json](./298141-sluggerpunk.json) |
 | Sluggish Morss: Days of the Purple Sun | 30831 | [30831-sluggish-morss-days-of-the-purple-sun.json](./30831-sluggish-morss-days-of-the-purple-sun.json) |
 | Sluggy Jean Takes a Hike | 169365 | [169365-sluggy-jean-takes-a-hike.json](./169365-sluggy-jean-takes-a-hike.json) |
+| Sluggy's Fruit Emporium | 33401 | [33401-sluggys-fruit-emporium.json](./33401-sluggys-fruit-emporium.json) |
 | Slugmania | 225098 | [225098-slugmania.json](./225098-slugmania.json) |
 | Slugterra: Dark Waters | 327630 | [327630-slugterra-dark-waters.json](./327630-slugterra-dark-waters.json) |
 | Slugterra: Slug it Out! | 60757 | [60757-slugterra-slug-it-out.json](./60757-slugterra-slug-it-out.json) |
@@ -5185,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
 | So I'm a Spider, So What? Ruler of the Labyrinth | 323711 | [323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json](./323711-so-im-a-spider-so-what-ruler-of-the-labyrinth.json) |
 | So Let Us Melt | 68276 | [68276-so-let-us-melt.json](./68276-so-let-us-melt.json) |
+| So Long Earth | 33376 | [33376-so-long-earth.json](./33376-so-long-earth.json) |
 | So Long Grandma | 87995 | [87995-so-long-grandma.json](./87995-so-long-grandma.json) |
 | So Many Cubes | 31791 | [31791-so-many-cubes.json](./31791-so-many-cubes.json) |
 | So Many Words | 308548 | [308548-so-many-words.json](./308548-so-many-words.json) |
@@ -6923,6 +6926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
 | Spectrolite | 176361 | [176361-spectrolite.json](./176361-spectrolite.json) |
 | Spectromancer: Gathering of Power | 164383 | [164383-spectromancer-gathering-of-power.json](./164383-spectromancer-gathering-of-power.json) |
+| Spectrubes | 33415 | [33415-spectrubes.json](./33415-spectrubes.json) |
 | Spectrubes Infinity | 96663 | [96663-spectrubes-infinity.json](./96663-spectrubes-infinity.json) |
 | Spectrum | 260129 | [260129-spectrum.json](./260129-spectrum.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
@@ -7072,6 +7076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelling Go! | 240344 | [240344-spelling-go.json](./240344-spelling-go.json) |
 | Spellirium | 63549 | [63549-spellirium.json](./63549-spellirium.json) |
 | Spellisimo | 400896 | [400896-spellisimo.json](./400896-spellisimo.json) |
+| SpellKnights | 33500 | [33500-spellknights.json](./33500-spellknights.json) |
 | Spellloom | 337487 | [337487-spellloom.json](./337487-spellloom.json) |
 | Spellmasons | 215714 | [215714-spellmasons.json](./215714-spellmasons.json) |
 | SpellMaster: The Saga | 130158 | [130158-spellmaster-the-saga.json](./130158-spellmaster-the-saga.json) |
@@ -7680,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Valley | 200051 | [200051-square-valley.json](./200051-square-valley.json) |
 | Square Worlds | 185538 | [185538-square-worlds.json](./185538-square-worlds.json) |
 | Square: Trial and Error | 361781 | [361781-square-trial-and-error.json](./361781-square-trial-and-error.json) |
+| Square's Route | 33390 | [33390-squares-route.json](./33390-squares-route.json) |
 | Square's Tom Sawyer | 73518 | [73518-squares-tom-sawyer.json](./73518-squares-tom-sawyer.json) |
 | Squared Adventure | 311262 | [311262-squared-adventure.json](./311262-squared-adventure.json) |
 | Squared: Adjacent Stones | 241996 | [241996-squared-adjacent-stones.json](./241996-squared-adjacent-stones.json) |
@@ -8039,6 +8045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sign | 217309 | [217309-star-sign.json](./217309-star-sign.json) |
 | Star Sky | 18015 | [18015-star-sky.json](./18015-star-sky.json) |
 | Star Sky 2 | 18462 | [18462-star-sky-2.json](./18462-star-sky-2.json) |
+| Star Sky 2 | 33512 | [33512-star-sky-2.json](./33512-star-sky-2.json) |
 | Star Sky 3 | 109702 | [109702-star-sky-3.json](./109702-star-sky-3.json) |
 | Star Soldier | 48240 | [48240-star-soldier.json](./48240-star-soldier.json) |
 | Star Soldier vs. DoDonPachi Daioujou Caravan'06 | 365107 | [365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json](./365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json) |
@@ -8807,6 +8814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellights | 102102 | [102102-stellights.json](./102102-stellights.json) |
 | Stellona | 152861 | [152861-stellona.json](./152861-stellona.json) |
 | Stem | 24944 | [24944-stem.json](./24944-stem.json) |
+| Steno Arcade | 33369 | [33369-steno-arcade.json](./33369-steno-arcade.json) |
 | Step Away | 369037 | [369037-step-away.json](./369037-step-away.json) |
 | Step Into the Dark | 400365 | [400365-step-into-the-dark.json](./400365-step-into-the-dark.json) |
 | Step Journey | 215711 | [215711-step-journey.json](./215711-step-journey.json) |
