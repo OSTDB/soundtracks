@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: The Red Riding Hood Sisters | 80228 | [80228-dark-parables-the-red-riding-hood-sisters.json](./80228-dark-parables-the-red-riding-hood-sisters.json) |
 | Dark Parables: The Swan Princess and The Dire Tree | 139795 | [139795-dark-parables-the-swan-princess-and-the-dire-tree.json](./139795-dark-parables-the-swan-princess-and-the-dire-tree.json) |
 | Dark Parables: The Thief and the Tinderbox | 139796 | [139796-dark-parables-the-thief-and-the-tinderbox.json](./139796-dark-parables-the-thief-and-the-tinderbox.json) |
+| Dark Passenger - An experimental audio game | 24071 | [24071-dark-passenger-an-experimental-audio-game.json](./24071-dark-passenger-an-experimental-audio-game.json) |
 | Dark Past | 211817 | [211817-dark-past.json](./211817-dark-past.json) |
 | Dark Place | 366307 | [366307-dark-place.json](./366307-dark-place.json) |
 | Dark Place 1 | 272026 | [272026-dark-place-1.json](./272026-dark-place-1.json) |
@@ -3407,6 +3408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
 | Divid[E]: D[E]Ad Letters | 396196 | [396196-divid-e-d-e-ad-letters.json](./396196-divid-e-d-e-ad-letters.json) |
 | Divided | 94762 | [94762-divided.json](./94762-divided.json) |
+| Divided Ground: Middle East Conflict 1948-1973 | 24111 | [24111-divided-ground-middle-east-conflict-1948-1973.json](./24111-divided-ground-middle-east-conflict-1948-1973.json) |
 | Divided Kingdoms | 158206 | [158206-divided-kingdoms.json](./158206-divided-kingdoms.json) |
 | Divilixa | 149456 | [149456-divilixa.json](./149456-divilixa.json) |
 | Divination | 339102 | [339102-divination.json](./339102-divination.json) |
@@ -5278,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driven Out | 117524 | [117524-driven-out.json](./117524-driven-out.json) |
 | Driver | 675 | [675-driver.json](./675-driver.json) |
 | Driver Dan's Story Train | 269827 | [269827-driver-dans-story-train.json](./269827-driver-dans-story-train.json) |
+| Driver Platinum | 24140 | [24140-driver-platinum.json](./24140-driver-platinum.json) |
 | Driver Pro: 2017 | 68602 | [68602-driver-pro-2017.json](./68602-driver-pro-2017.json) |
 | Driver Test | 98799 | [98799-driver-test.json](./98799-driver-test.json) |
 | Driver: San Francisco | 554 | [554-driver-san-francisco.json](./554-driver-san-francisco.json) |
@@ -5554,6 +5557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Jousting | 75770 | [75770-duel-jousting.json](./75770-duel-jousting.json) |
 | Duel Masters 2 - Kirifuda Shoubu Ver. | 49583 | [49583-duel-masters-2-kirifuda-shoubu-ver.json](./49583-duel-masters-2-kirifuda-shoubu-ver.json) |
 | Duel Masters 2: Invincible Advance | 49584 | [49584-duel-masters-2-invincible-advance.json](./49584-duel-masters-2-invincible-advance.json) |
+| Duel Masters: Kaijudo Showdown | 24257 | [24257-duel-masters-kaijudo-showdown.json](./24257-duel-masters-kaijudo-showdown.json) |
 | Duel Masters: Shadow of the Code | 49402 | [49402-duel-masters-shadow-of-the-code.json](./49402-duel-masters-shadow-of-the-code.json) |
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
 | Duelant | 311456 | [311456-duelant.json](./311456-duelant.json) |
