@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sargon II | 47209 | [47209-sargon-ii.json](./47209-sargon-ii.json) |
 | Sarkwo | 197229 | [197229-sarkwo.json](./197229-sarkwo.json) |
 | SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
+| SAS: Zombie Assault 4 | 39197 | [39197-sas-zombie-assault-4.json](./39197-sas-zombie-assault-4.json) |
 | Sasa | 48602 | [48602-sasa.json](./48602-sasa.json) |
 | Sasayu Meshiki | 357807 | [357807-sasayu-meshiki.json](./357807-sasayu-meshiki.json) |
 | Sasuke Library 23rd | 78957 | [78957-sasuke-library-23rd.json](./78957-sasuke-library-23rd.json) |
@@ -1836,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensible Train-Spotting | 77374 | [77374-sensible-train-spotting.json](./77374-sensible-train-spotting.json) |
 | Sensible World of Soccer: European Championship Edition | 79251 | [79251-sensible-world-of-soccer-european-championship-edition.json](./79251-sensible-world-of-soccer-european-championship-edition.json) |
 | Sensitive | 320188 | [320188-sensitive.json](./320188-sensitive.json) |
+| Sensitive Data: THE Math Game | 39224 | [39224-sensitive-data-the-math-game.json](./39224-sensitive-data-the-math-game.json) |
 | Sensorium | 138740 | [138740-sensorium.json](./138740-sensorium.json) |
 | Sensory Baby Toddler Learning Extra | 99392 | [99392-sensory-baby-toddler-learning-extra.json](./99392-sensory-baby-toddler-learning-extra.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
@@ -2297,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowgate Classic | 8699 | [8699-shadowgate-classic.json](./8699-shadowgate-classic.json) |
 | Shadowgate: MacVenture Series | 35911 | [35911-shadowgate-macventure-series.json](./35911-shadowgate-macventure-series.json) |
 | Shadowgate: Special Edition | 51913 | [51913-shadowgate-special-edition.json](./51913-shadowgate-special-edition.json) |
+| Shadowgun: DeadZone | 39172 | [39172-shadowgun-deadzone.json](./39172-shadowgun-deadzone.json) |
 | Shadowhand Solitaire | 322568 | [322568-shadowhand-solitaire.json](./322568-shadowhand-solitaire.json) |
 | Shadowkin | 244515 | [244515-shadowkin.json](./244515-shadowkin.json) |
 | Shadowland | 119020 | [119020-shadowland.json](./119020-shadowland.json) |
@@ -3337,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege of Osaka | 239181 | [239181-siege-of-osaka.json](./239181-siege-of-osaka.json) |
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
 | Siege Saga | 77633 | [77633-siege-saga.json](./77633-siege-saga.json) |
+| Siegecraft TD | 39212 | [39212-siegecraft-td.json](./39212-siegecraft-td.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
 | Sienna | 51221 | [51221-sienna.json](./51221-sienna.json) |
 | Sierra Championship Boxing | 73238 | [73238-sierra-championship-boxing.json](./73238-sierra-championship-boxing.json) |
@@ -6145,6 +6149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Getter | 63294 | [63294-soul-getter.json](./63294-soul-getter.json) |
 | Soul Grabber | 83537 | [83537-soul-grabber.json](./83537-soul-grabber.json) |
 | Soul Grinder | 184649 | [184649-soul-grinder.json](./184649-soul-grinder.json) |
+| Soul Guardians: Age of Midgard | 39177 | [39177-soul-guardians-age-of-midgard.json](./39177-soul-guardians-age-of-midgard.json) |
 | Soul Historica | 118181 | [118181-soul-historica.json](./118181-soul-historica.json) |
 | Soul Injector Commando | 322603 | [322603-soul-injector-commando.json](./322603-soul-injector-commando.json) |
 | Soul Interface | 302382 | [302382-soul-interface.json](./302382-soul-interface.json) |
@@ -6892,6 +6897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Keep | 258557 | [258557-spectral-keep.json](./258557-spectral-keep.json) |
 | Spectral Shades: Fragments | 191199 | [191199-spectral-shades-fragments.json](./191199-spectral-shades-fragments.json) |
 | Spectral Showdown | 211799 | [211799-spectral-showdown.json](./211799-spectral-showdown.json) |
+| Spectral Souls | 39194 | [39194-spectral-souls.json](./39194-spectral-souls.json) |
 | Spectral Souls: Resurrection of the Ethereal Empires | 44519 | [44519-spectral-souls-resurrection-of-the-ethereal-empires.json](./44519-spectral-souls-resurrection-of-the-ethereal-empires.json) |
 | Spectral Survivor | 307581 | [307581-spectral-survivor.json](./307581-spectral-survivor.json) |
 | SpectralClimb | 271281 | [271281-spectralclimb.json](./271281-spectralclimb.json) |
@@ -7263,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Rover | 107208 | [107208-spirit-rover.json](./107208-spirit-rover.json) |
 | Spirit Shift | 181365 | [181365-spirit-shift.json](./181365-spirit-shift.json) |
 | Spirit Speaker | 335854 | [335854-spirit-speaker.json](./335854-spirit-speaker.json) |
+| Spirit Stones | 39178 | [39178-spirit-stones.json](./39178-spirit-stones.json) |
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
 | Spirit Vendor | 374618 | [374618-spirit-vendor.json](./374618-spirit-vendor.json) |
 | Spirit Whisperer Conversation With Akari | 363409 | [363409-spirit-whisperer-conversation-with-akari.json](./363409-spirit-whisperer-conversation-with-akari.json) |
@@ -8868,6 +8875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Adventures | 347781 | [347781-stickman-adventures.json](./347781-stickman-adventures.json) |
 | Stickman Arc Hero Fight | 235234 | [235234-stickman-arc-hero-fight.json](./235234-stickman-arc-hero-fight.json) |
 | Stickman Archers: Archery Rampage | 101575 | [101575-stickman-archers-archery-rampage.json](./101575-stickman-archers-archery-rampage.json) |
+| Stickman Battlefields | 39226 | [39226-stickman-battlefields.json](./39226-stickman-battlefields.json) |
 | Stickman Destruction | 75112 | [75112-stickman-destruction.json](./75112-stickman-destruction.json) |
 | Stickman Downhill | 117758 | [117758-stickman-downhill.json](./117758-stickman-downhill.json) |
 | Stickman Downhill Monstertruck | 233228 | [233228-stickman-downhill-monstertruck.json](./233228-stickman-downhill-monstertruck.json) |
