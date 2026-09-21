@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-1 Grand Prix Part II | 38335 | [38335-f-1-grand-prix-part-ii.json](./38335-f-1-grand-prix-part-ii.json) |
 | F-1 Grand Prix Part III | 38362 | [38362-f-1-grand-prix-part-iii.json](./38362-f-1-grand-prix-part-iii.json) |
 | F-1 World Grand Prix | 248741 | [248741-f-1-world-grand-prix.json](./248741-f-1-world-grand-prix.json) |
+| F-1 World Grand Prix | 3487 | [3487-f-1-world-grand-prix.json](./3487-f-1-world-grand-prix.json) |
 | F-1 World Grand Prix for Dreamcast | 248742 | [248742-f-1-world-grand-prix-for-dreamcast.json](./248742-f-1-world-grand-prix-for-dreamcast.json) |
 | F-117 Night Storm | 46216 | [46216-f-117-night-storm.json](./46216-f-117-night-storm.json) |
 | F-117A Stealth Fighter | 69582 | [69582-f-117a-stealth-fighter.json](./69582-f-117a-stealth-fighter.json) |
@@ -2766,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow | 315530 | [315530-flow.json](./315530-flow.json) |
 | Flow Dot | 105328 | [105328-flow-dot.json](./105328-flow-dot.json) |
 | Flow Fox | 307907 | [307907-flow-fox.json](./307907-flow-fox.json) |
+| Flow Free | 109184 | [109184-flow-free.json](./109184-flow-free.json) |
 | Flow Free: Bridges | 99393 | [99393-flow-free-bridges.json](./99393-flow-free-bridges.json) |
 | Flow Gear Racing | 153399 | [153399-flow-gear-racing.json](./153399-flow-gear-racing.json) |
 | Flow of War | 272262 | [272262-flow-of-war.json](./272262-flow-of-war.json) |
@@ -3789,6 +3791,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fred's Cereal Company | 253950 | [253950-freds-cereal-company.json](./253950-freds-cereal-company.json) |
 | Fred3ric | 139225 | [139225-fred3ric.json](./139225-fred3ric.json) |
 | Fredbear's Fright | 225631 | [225631-fredbears-fright.json](./225631-fredbears-fright.json) |
+| Freddi Fish 2: The Case of the Haunted Schoolhouse | 3744 | [3744-freddi-fish-2-the-case-of-the-haunted-schoolhouse.json](./3744-freddi-fish-2-the-case-of-the-haunted-schoolhouse.json) |
+| Freddi Fish 3: The Case of the Stolen Conch Shell | 3745 | [3745-freddi-fish-3-the-case-of-the-stolen-conch-shell.json](./3745-freddi-fish-3-the-case-of-the-stolen-conch-shell.json) |
 | Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch | 3746 | [3746-freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch.json](./3746-freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch.json) |
 | Freddi Fish 5: The Case of the Creature of Coral Cove | 3747 | [3747-freddi-fish-5-the-case-of-the-creature-of-coral-cove.json](./3747-freddi-fish-5-the-case-of-the-creature-of-coral-cove.json) |
 | Freddi Fish Collection | 300717 | [300717-freddi-fish-collection.json](./300717-freddi-fish-collection.json) |
