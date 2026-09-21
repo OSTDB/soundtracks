@@ -353,6 +353,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangeresque Roomisode 1: Behind the Dangerdesque | 135845 | [135845-dangeresque-roomisode-1-behind-the-dangerdesque.json](./135845-dangeresque-roomisode-1-behind-the-dangerdesque.json) |
 | Dangerous Blaster | 126617 | [126617-dangerous-blaster.json](./126617-dangerous-blaster.json) |
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
+| Dangerous Dave GS | 11385 | [11385-dangerous-dave-gs.json](./11385-dangerous-dave-gs.json) |
+| Dangerous Dave in the Deserted Pirate's Hideout | 11384 | [11384-dangerous-dave-in-the-deserted-pirates-hideout.json](./11384-dangerous-dave-in-the-deserted-pirates-hideout.json) |
+| Dangerous Dave Returns | 11387 | [11387-dangerous-dave-returns.json](./11387-dangerous-dave-returns.json) |
+| Dangerous Dave's Risky Rescue | 11388 | [11388-dangerous-daves-risky-rescue.json](./11388-dangerous-daves-risky-rescue.json) |
 | Dangerous Fellows | 133817 | [133817-dangerous-fellows.json](./133817-dangerous-fellows.json) |
 | Dangerous Fists | 219673 | [219673-dangerous-fists.json](./219673-dangerous-fists.json) |
 | Dangerous Ivan | 262462 | [262462-dangerous-ivan.json](./262462-dangerous-ivan.json) |
@@ -852,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daughter of Serpents | 12416 | [12416-daughter-of-serpents.json](./12416-daughter-of-serpents.json) |
 | Daughter of Shadows: An SCP Breach Event - Friend and Foe Expansion | 167317 | [167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json](./167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json) |
 | Dave | 111682 | [111682-dave.json](./111682-dave.json) |
+| Dave Goes Nutz! | 11389 | [11389-dave-goes-nutz.json](./11389-dave-goes-nutz.json) |
 | Dave Mirra Freestyle BMX: Maximum Remix | 84166 | [84166-dave-mirra-freestyle-bmx-maximum-remix.json](./84166-dave-mirra-freestyle-bmx-maximum-remix.json) |
 | Dave the Bird | 244367 | [244367-dave-the-bird.json](./244367-dave-the-bird.json) |
 | Dave the Diver | 203722 | [203722-dave-the-diver.json](./203722-dave-the-diver.json) |
@@ -904,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DAWN: Darkness Awaits Withstand the Night | 333664 | [333664-dawn-darkness-awaits-withstand-the-night.json](./333664-dawn-darkness-awaits-withstand-the-night.json) |
 | Dawn's Light 2 | 31176 | [31176-dawns-light-2.json](./31176-dawns-light-2.json) |
 | Dawnbringer | 129604 | [129604-dawnbringer.json](./129604-dawnbringer.json) |
+| Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
 | Dawnspire: Prelude | 70476 | [70476-dawnspire-prelude.json](./70476-dawnspire-prelude.json) |
 | Day and Night | 124009 | [124009-day-and-night.json](./124009-day-and-night.json) |
 | Day at the Counter | 178596 | [178596-day-at-the-counter.json](./178596-day-at-the-counter.json) |
@@ -1958,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demise Sanctuary | 201243 | [201243-demise-sanctuary.json](./201243-demise-sanctuary.json) |
 | Demo Disc: Flipside Frights | 398993 | [398993-demo-disc-flipside-frights.json](./398993-demo-disc-flipside-frights.json) |
 | Demo Disc: Spectral Mall | 214745 | [214745-demo-disc-spectral-mall.json](./214745-demo-disc-spectral-mall.json) |
+| Democracy 3: Social Engineering | 11399 | [11399-democracy-3-social-engineering.json](./11399-democracy-3-social-engineering.json) |
 | Democracy 4 | 109483 | [109483-democracy-4.json](./109483-democracy-4.json) |
 | Demolition Company | 344435 | [344435-demolition-company.json](./344435-demolition-company.json) |
 | Demolition Company: Gold Edition | 23397 | [23397-demolition-company-gold-edition.json](./23397-demolition-company-gold-edition.json) |
@@ -2198,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent | 110983 | [110983-descent.json](./110983-descent.json) |
 | Descent | 282010 | [282010-descent.json](./282010-descent.json) |
 | Descent 3 | 667 | [667-descent-3.json](./667-descent-3.json) |
+| Descent 3: Mercenary | 11401 | [11401-descent-3-mercenary.json](./11401-descent-3-mercenary.json) |
 | Descent 3: White Label Edition | 70336 | [70336-descent-3-white-label-edition.json](./70336-descent-3-white-label-edition.json) |
 | Descent Down Infinity | 411612 | [411612-descent-down-infinity.json](./411612-descent-down-infinity.json) |
 | Descent from Arkov's Tower | 277273 | [277273-descent-from-arkovs-tower.json](./277273-descent-from-arkovs-tower.json) |
@@ -4344,6 +4352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Cross | 96135 | [96135-double-cross.json](./96135-double-cross.json) |
 | Double Cubes | 34727 | [34727-double-cubes.json](./34727-double-cubes.json) |
 | Double Damnation | 213981 | [213981-double-damnation.json](./213981-double-damnation.json) |
+| Double Dangerous Dave | 11383 | [11383-double-dangerous-dave.json](./11383-double-dangerous-dave.json) |
 | Double Dealers | 403675 | [403675-double-dealers.json](./403675-double-dealers.json) |
 | Double Death | 33426 | [33426-double-death.json](./33426-double-death.json) |
 | Double Dodgers | 133820 | [133820-double-dodgers.json](./133820-double-dodgers.json) |
