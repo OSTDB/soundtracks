@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostrunner II: Deluxe Edition | 262415 | [262415-ghostrunner-ii-deluxe-edition.json](./262415-ghostrunner-ii-deluxe-edition.json) |
 | Ghostrunner II: Dragon Pack | 292679 | [292679-ghostrunner-ii-dragon-pack.json](./292679-ghostrunner-ii-dragon-pack.json) |
 | Ghostrunner II: Endless Moto Mode | 371318 | [371318-ghostrunner-ii-endless-moto-mode.json](./371318-ghostrunner-ii-endless-moto-mode.json) |
+| Ghosts | 11337 | [11337-ghosts.json](./11337-ghosts.json) |
 | Ghosts | 306496 | [306496-ghosts.json](./306496-ghosts.json) |
 | Ghosts 'n Goblins | 178021 | [178021-ghosts-n-goblins.json](./178021-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins 64 | 297480 | [297480-ghosts-n-goblins-64.json](./297480-ghosts-n-goblins-64.json) |
@@ -2437,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius V | 1488 | [1488-gradius-v.json](./1488-gradius-v.json) |
 | Graffiti Cozy | 189061 | [189061-graffiti-cozy.json](./189061-graffiti-cozy.json) |
 | Graffiti Groovin' | 228465 | [228465-graffiti-groovin.json](./228465-graffiti-groovin.json) |
+| Graffiti Kingdom | 11358 | [11358-graffiti-kingdom.json](./11358-graffiti-kingdom.json) |
 | Graffiti Simulator | 326418 | [326418-graffiti-simulator.json](./326418-graffiti-simulator.json) |
 | GraFi | 117476 | [117476-grafi.json](./117476-grafi.json) |
 | GraFi 2 | 119013 | [119013-grafi-2.json](./119013-grafi-2.json) |
