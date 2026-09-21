@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbearian | 90157 | [90157-barbearian.json](./90157-barbearian.json) |
 | Barbershop Simulator | 220351 | [220351-barbershop-simulator.json](./220351-barbershop-simulator.json) |
 | Barbie | 245570 | [245570-barbie.json](./245570-barbie.json) |
+| Barbie and Her Sisters: Puppy Rescue | 25143 | [25143-barbie-and-her-sisters-puppy-rescue.json](./25143-barbie-and-her-sisters-puppy-rescue.json) |
 | Barbie and the Magic of Pegasus | 248681 | [248681-barbie-and-the-magic-of-pegasus.json](./248681-barbie-and-the-magic-of-pegasus.json) |
 | Barbie as Princess Bride | 200600 | [200600-barbie-as-princess-bride.json](./200600-barbie-as-princess-bride.json) |
 | Barbie as Rapunzel | 200599 | [200599-barbie-as-rapunzel.json](./200599-barbie-as-rapunzel.json) |
