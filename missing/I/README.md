@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice | 342173 | [342173-ice.json](./342173-ice.json) |
 | Ice Age Hunter: Evolution-U | 100963 | [100963-ice-age-hunter-evolution-u.json](./100963-ice-age-hunter-evolution-u.json) |
 | Ice Age Race | 105986 | [105986-ice-age-race.json](./105986-ice-age-race.json) |
+| Ice Age Village | 64140 | [64140-ice-age-village.json](./64140-ice-age-village.json) |
 | Ice Age: Continental Drift | 282576 | [282576-ice-age-continental-drift.json](./282576-ice-age-continental-drift.json) |
 | Ice Age: Continental Drift - Arctic Games | 20002 | [20002-ice-age-continental-drift-arctic-games.json](./20002-ice-age-continental-drift-arctic-games.json) |
 | Ice Age: The DVD Game | 364525 | [364525-ice-age-the-dvd-game.json](./364525-ice-age-the-dvd-game.json) |
