@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementyle | 309513 | [309513-elementyle.json](./309513-elementyle.json) |
 | EleMetals: Deluxe Edition | 212283 | [212283-elemetals-deluxe-edition.json](./212283-elemetals-deluxe-edition.json) |
 | ElePass: Only Elephants Can Unlock the Passcode | 317855 | [317855-elepass-only-elephants-can-unlock-the-passcode.json](./317855-elepass-only-elephants-can-unlock-the-passcode.json) |
+| Elephant Express VR | 30191 | [30191-elephant-express-vr.json](./30191-elephant-express-vr.json) |
 | Elephant Hunter Hunter | 133991 | [133991-elephant-hunter-hunter.json](./133991-elephant-hunter-hunter.json) |
 | Elephant Rave | 276834 | [276834-elephant-rave.json](./276834-elephant-rave.json) |
 | Elerena | 153855 | [153855-elerena.json](./153855-elerena.json) |
@@ -1755,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Farm | 274486 | [274486-escape-the-farm.json](./274486-escape-the-farm.json) |
 | Escape the Floor | 329011 | [329011-escape-the-floor.json](./329011-escape-the-floor.json) |
 | Escape The Forest | 301828 | [301828-escape-the-forest.json](./301828-escape-the-forest.json) |
+| Escape the Loop | 30183 | [30183-escape-the-loop.json](./30183-escape-the-loop.json) |
 | Escape the Marine Lab | 406693 | [406693-escape-the-marine-lab.json](./406693-escape-the-marine-lab.json) |
 | Escape the Museum | 6668 | [6668-escape-the-museum.json](./6668-escape-the-museum.json) |
 | Escape the Museum 2 | 143483 | [143483-escape-the-museum-2.json](./143483-escape-the-museum-2.json) |
