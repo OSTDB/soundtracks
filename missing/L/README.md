@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A. Meltdown 2047 | 308236 | [308236-l-a-meltdown-2047.json](./308236-l-a-meltdown-2047.json) |
 | L.A.2 | 135900 | [135900-l-a-2.json](./135900-l-a-2.json) |
 | L.C.D. Bowling | 346111 | [346111-l-c-d-bowling.json](./346111-l-c-d-bowling.json) |
+| L.F.O. -Lost Future Omega- | 30207 | [30207-l-f-o-lost-future-omega.json](./30207-l-f-o-lost-future-omega.json) |
 | L.O.C.K. | 144364 | [144364-l-o-c-k.json](./144364-l-o-c-k.json) |
 | L.S.S II | 220836 | [220836-l-s-s-ii.json](./220836-l-s-s-ii.json) |
 | L'Angolo Di Farenz: Avventure Vampiresche | 256922 | [256922-langolo-di-farenz-avventure-vampiresche.json](./256922-langolo-di-farenz-avventure-vampiresche.json) |
@@ -295,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lantern of Worlds - The Story of Layla | 116290 | [116290-lantern-of-worlds-the-story-of-layla.json](./116290-lantern-of-worlds-the-story-of-layla.json) |
 | Lanterns | 89967 | [89967-lanterns.json](./89967-lanterns.json) |
 | Lanternwood | 375827 | [375827-lanternwood.json](./375827-lanternwood.json) |
+| Lap of the Gods | 30210 | [30210-lap-of-the-gods.json](./30210-lap-of-the-gods.json) |
 | Lapis x Labyrinth: Limited Edition | 107260 | [107260-lapis-x-labyrinth-limited-edition.json](./107260-lapis-x-labyrinth-limited-edition.json) |
 | Lapistasia | 377675 | [377675-lapistasia.json](./377675-lapistasia.json) |
 | Laplace | 109651 | [109651-laplace.json](./109651-laplace.json) |
@@ -3291,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux Sine | 149030 | [149030-lux-sine.json](./149030-lux-sine.json) |
 | Lux: Dream.Girl | 280928 | [280928-lux-dream-girl.json](./280928-lux-dream-girl.json) |
 | Luxcustos | 322605 | [322605-luxcustos.json](./322605-luxcustos.json) |
+| Luxor 2 HD | 30226 | [30226-luxor-2-hd.json](./30226-luxor-2-hd.json) |
 | Luxor Pharaoh's Challenge | 42879 | [42879-luxor-pharaohs-challenge.json](./42879-luxor-pharaohs-challenge.json) |
 | Luxsor: Nights Over Egypt | 400338 | [400338-luxsor-nights-over-egypt.json](./400338-luxsor-nights-over-egypt.json) |
 | Luxuria Superbia | 10630 | [10630-luxuria-superbia.json](./10630-luxuria-superbia.json) |
