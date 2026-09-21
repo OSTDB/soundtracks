@@ -1294,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pekoe | 136988 | [136988-pekoe.json](./136988-pekoe.json) |
 | Pelagicland | 320177 | [320177-pelagicland.json](./320177-pelagicland.json) |
 | Pelé: Soccer Legend | 234613 | [234613-pele-soccer-legend.json](./234613-pele-soccer-legend.json) |
+| Pelea | 51546 | [51546-pelea.json](./51546-pelea.json) |
 | Pellet Packer: Cookie Crunch | 270965 | [270965-pellet-packer-cookie-crunch.json](./270965-pellet-packer-cookie-crunch.json) |
 | Pellet Packer: Micro Munch | 270956 | [270956-pellet-packer-micro-munch.json](./270956-pellet-packer-micro-munch.json) |
 | Pembrey | 63729 | [63729-pembrey.json](./63729-pembrey.json) |
@@ -1500,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persha and the Magic Labyrinth: Arabian Nyaights | 264901 | [264901-persha-and-the-magic-labyrinth-arabian-nyaights.json](./264901-persha-and-the-magic-labyrinth-arabian-nyaights.json) |
 | Persha and the Magic Puzzle: Arabian Nyaights | 235210 | [235210-persha-and-the-magic-puzzle-arabian-nyaights.json](./235210-persha-and-the-magic-puzzle-arabian-nyaights.json) |
 | Persian Gulf Inferno | 72329 | [72329-persian-gulf-inferno.json](./72329-persian-gulf-inferno.json) |
+| Persian: The Great Lamp Heist | 51505 | [51505-persian-the-great-lamp-heist.json](./51505-persian-the-great-lamp-heist.json) |
 | Persist | 223681 | [223681-persist.json](./223681-persist.json) |
 | Persnippety | 305942 | [305942-persnippety.json](./305942-persnippety.json) |
 | Perso | 30781 | [30781-perso.json](./30781-perso.json) |
@@ -4012,6 +4014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portraits of Doom | 318067 | [318067-portraits-of-doom.json](./318067-portraits-of-doom.json) |
 | Porzellanhaus | 367407 | [367407-porzellanhaus.json](./367407-porzellanhaus.json) |
 | Poseidon | 301831 | [301831-poseidon.json](./301831-poseidon.json) |
+| Poseidon - Project Dark Sky | 51585 | [51585-poseidon-project-dark-sky.json](./51585-poseidon-project-dark-sky.json) |
 | Poseidon Kiugi: Bangchihyeong Aeksyeon RPG | 212855 | [212855-poseidon-kiugi-bangchihyeong-aeksyeon-rpg.json](./212855-poseidon-kiugi-bangchihyeong-aeksyeon-rpg.json) |
 | Poseidon: Planet Eleven | 67276 | [67276-poseidon-planet-eleven.json](./67276-poseidon-planet-eleven.json) |
 | Posh Boutique | 53468 | [53468-posh-boutique.json](./53468-posh-boutique.json) |
