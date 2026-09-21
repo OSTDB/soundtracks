@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Langoth | 29756 | [29756-langoth.json](./29756-langoth.json) |
 | Langrisser I & II | 62775 | [62775-langrisser-i-and-ii.json](./62775-langrisser-i-and-ii.json) |
 | Langrisser IV | 69226 | [69226-langrisser-iv.json](./69226-langrisser-iv.json) |
+| Langrisser IV & V: Final Edition | 44862 | [44862-langrisser-iv-and-v-final-edition.json](./44862-langrisser-iv-and-v-final-edition.json) |
 | Langrisser V: The End of Legend | 78665 | [78665-langrisser-v-the-end-of-legend.json](./78665-langrisser-v-the-end-of-legend.json) |
 | Langrisser: Hikari no Matsuei | 42010 | [42010-langrisser-hikari-no-matsuei.json](./42010-langrisser-hikari-no-matsuei.json) |
 | LanguageGuessr | 259618 | [259618-languageguessr.json](./259618-languageguessr.json) |
