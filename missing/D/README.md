@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Zone Friends | 135044 | [135044-danger-zone-friends.json](./135044-danger-zone-friends.json) |
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
 | Danger: Electric Shock | 166620 | [166620-danger-electric-shock.json](./166620-danger-electric-shock.json) |
+| Dangerbots | 58499 | [58499-dangerbots.json](./58499-dangerbots.json) |
 | Dangeresque Roomisode 1: Behind the Dangerdesque | 135845 | [135845-dangeresque-roomisode-1-behind-the-dangerdesque.json](./135845-dangeresque-roomisode-1-behind-the-dangerdesque.json) |
 | Dangerous Blaster | 126617 | [126617-dangerous-blaster.json](./126617-dangerous-blaster.json) |
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
@@ -849,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Dreams | 229716 | [229716-dawn-of-dreams.json](./229716-dawn-of-dreams.json) |
 | Dawn of Dynasty | 163439 | [163439-dawn-of-dynasty.json](./163439-dawn-of-dynasty.json) |
 | Dawn of Gray | 288791 | [288791-dawn-of-gray.json](./288791-dawn-of-gray.json) |
+| Dawn of H'btakh: Get Lost and Die | 58487 | [58487-dawn-of-hbtakh-get-lost-and-die.json](./58487-dawn-of-hbtakh-get-lost-and-die.json) |
 | Dawn of Hope: Thunder Daughter | 103870 | [103870-dawn-of-hope-thunder-daughter.json](./103870-dawn-of-hope-thunder-daughter.json) |
 | Dawn of Magic 2 | 11025 | [11025-dawn-of-magic-2.json](./11025-dawn-of-magic-2.json) |
 | Dawn of Shadow | 237082 | [237082-dawn-of-shadow.json](./237082-dawn-of-shadow.json) |
@@ -4570,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Dragon Fire Fire Deluxe | 384497 | [384497-dragon-dragon-fire-fire-deluxe.json](./384497-dragon-dragon-fire-fire-deluxe.json) |
 | Dragon Drill | 294691 | [294691-dragon-drill.json](./294691-dragon-drill.json) |
 | Dragon Drop | 159251 | [159251-dragon-drop.json](./159251-dragon-drop.json) |
+| Dragon Drop | 58481 | [58481-dragon-drop.json](./58481-dragon-drop.json) |
 | Dragon Egg! | 37722 | [37722-dragon-egg.json](./37722-dragon-egg.json) |
 | Dragon Eternity | 59981 | [59981-dragon-eternity.json](./59981-dragon-eternity.json) |
 | Dragon Expedition | 332993 | [332993-dragon-expedition.json](./332993-dragon-expedition.json) |
