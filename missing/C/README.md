@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Rush | 234046 | [234046-castle-rush.json](./234046-castle-rush.json) |
 | Castle Rush Zombies | 241620 | [241620-castle-rush-zombies.json](./241620-castle-rush-zombies.json) |
 | Castle Secrets: Between Day and Night | 87998 | [87998-castle-secrets-between-day-and-night.json](./87998-castle-secrets-between-day-and-night.json) |
+| Castle Shikigami 2 | 4149 | [4149-castle-shikigami-2.json](./4149-castle-shikigami-2.json) |
 | Castle survival | 158047 | [158047-castle-survival.json](./158047-castle-survival.json) |
 | Castle Terroretra | 217868 | [217868-castle-terroretra.json](./217868-castle-terroretra.json) |
 | Castle Terroretra In Space | 217870 | [217870-castle-terroretra-in-space.json](./217870-castle-terroretra-in-space.json) |
@@ -2912,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities of the World Jigsaw Puzzles: Sao Paulo | 249298 | [249298-cities-of-the-world-jigsaw-puzzles-sao-paulo.json](./249298-cities-of-the-world-jigsaw-puzzles-sao-paulo.json) |
 | Cities of the World Jigsaw Puzzles: Venice | 249297 | [249297-cities-of-the-world-jigsaw-puzzles-venice.json](./249297-cities-of-the-world-jigsaw-puzzles-venice.json) |
 | Cities Skylines Mobile Edition | 237630 | [237630-cities-skylines-mobile-edition.json](./237630-cities-skylines-mobile-edition.json) |
+| Cities XL 2012 | 4213 | [4213-cities-xl-2012.json](./4213-cities-xl-2012.json) |
 | Cities XL: Limited Edition | 29202 | [29202-cities-xl-limited-edition.json](./29202-cities-xl-limited-edition.json) |
 | Cities XXL | 10094 | [10094-cities-xxl.json](./10094-cities-xxl.json) |
 | Cities: Skylines - 90s Pop Radio | 257082 | [257082-cities-skylines-90s-pop-radio.json](./257082-cities-skylines-90s-pop-radio.json) |
