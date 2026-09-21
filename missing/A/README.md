@@ -5362,6 +5362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azazel's Christmas Fable | 221174 | [221174-azazels-christmas-fable.json](./221174-azazels-christmas-fable.json) |
 | Azera Online | 76612 | [76612-azera-online.json](./76612-azera-online.json) |
 | Azimuth | 395550 | [395550-azimuth.json](./395550-azimuth.json) |
+| Azimuth: Head Alignment Kit | 13829 | [13829-azimuth-head-alignment-kit.json](./13829-azimuth-head-alignment-kit.json) |
 | Azito | 63270 | [63270-azito.json](./63270-azito.json) |
 | Azito 2 | 63269 | [63269-azito-2.json](./63269-azito-2.json) |
 | Azito 3 | 63268 | [63268-azito-3.json](./63268-azito-3.json) |
