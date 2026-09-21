@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Burning Blood - Wanted | 171048 | [171048-one-piece-burning-blood-wanted.json](./171048-one-piece-burning-blood-wanted.json) |
 | One Piece: Burning Blood - Wanted 2 | 171050 | [171050-one-piece-burning-blood-wanted-2.json](./171050-one-piece-burning-blood-wanted-2.json) |
 | One Piece: Chopper no Daibouken | 75751 | [75751-one-piece-chopper-no-daibouken.json](./75751-one-piece-chopper-no-daibouken.json) |
+| One Piece: Dai Kaizoku Colosseum | 58468 | [58468-one-piece-dai-kaizoku-colosseum.json](./58468-one-piece-dai-kaizoku-colosseum.json) |
 | One Piece: Dai Kaizoku Colosseum | 75835 | [75835-one-piece-dai-kaizoku-colosseum.json](./75835-one-piece-dai-kaizoku-colosseum.json) |
 | One Piece: Dance Battle | 62120 | [62120-one-piece-dance-battle.json](./62120-one-piece-dance-battle.json) |
 | One Piece: Gigant Battle! | 47818 | [47818-one-piece-gigant-battle.json](./47818-one-piece-gigant-battle.json) |
