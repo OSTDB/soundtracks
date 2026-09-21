@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachapin Nikki DS | 124012 | [124012-gachapin-nikki-ds.json](./124012-gachapin-nikki-ds.json) |
 | Gachi Heroes 2: Flexboll | 127191 | [127191-gachi-heroes-2-flexboll.json](./127191-gachi-heroes-2-flexboll.json) |
 | Gachimuchi Reloaded | 86314 | [86314-gachimuchi-reloaded.json](./86314-gachimuchi-reloaded.json) |
+| Gachinko Pro Yakyuu | 49567 | [49567-gachinko-pro-yakyuu.json](./49567-gachinko-pro-yakyuu.json) |
 | Gadget Racers | 250446 | [250446-gadget-racers.json](./250446-gadget-racers.json) |
 | Gado Fight | 132222 | [132222-gado-fight.json](./132222-gado-fight.json) |
 | Gaelic Football Laochra | 394897 | [394897-gaelic-football-laochra.json](./394897-gaelic-football-laochra.json) |
@@ -115,9 +116,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakkoi 2: Unmei Ai ha Inochigake | 212262 | [212262-gakkoi-2-unmei-ai-ha-inochigake.json](./212262-gakkoi-2-unmei-ai-ha-inochigake.json) |
 | Gakkoi: Ai to Noroi to Valentine | 212263 | [212263-gakkoi-ai-to-noroi-to-valentine.json](./212263-gakkoi-ai-to-noroi-to-valentine.json) |
 | Gakkou de Atta Koii Hanashi | 212261 | [212261-gakkou-de-atta-koii-hanashi.json](./212261-gakkou-de-atta-koii-hanashi.json) |
+| Gakkou no Kaidan: Hyakuyoubako no Fuuin | 49566 | [49566-gakkou-no-kaidan-hyakuyoubako-no-fuuin.json](./49566-gakkou-no-kaidan-hyakuyoubako-no-fuuin.json) |
 | Gakkou wo Tsukurou!! 2 | 363956 | [363956-gakkou-wo-tsukurou-2.json](./363956-gakkou-wo-tsukurou-2.json) |
+| Gakkou wo Tsukurou!! Advance | 49565 | [49565-gakkou-wo-tsukurou-advance.json](./49565-gakkou-wo-tsukurou-advance.json) |
 | Gakkyu Ou Yamazaki | 281423 | [281423-gakkyu-ou-yamazaki.json](./281423-gakkyu-ou-yamazaki.json) |
 | Gakkyuu-ou Yamazaki: Yamazaki Oukoku Daifunsou! | 130351 | [130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json](./130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json) |
+| Gakuen Alice: Doki-doki Fushigi Taiken | 49564 | [49564-gakuen-alice-doki-doki-fushigi-taiken.json](./49564-gakuen-alice-doki-doki-fushigi-taiken.json) |
 | Gakuen Alice: Waku-waku Happy Friends | 70676 | [70676-gakuen-alice-waku-waku-happy-friends.json](./70676-gakuen-alice-waku-waku-happy-friends.json) |
 | Gakuen Battle Fishers: Yoky Shiimono wa Tsure | 281424 | [281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json](./281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json) |
 | Gakuen Club | 31975 | [31975-gakuen-club.json](./31975-gakuen-club.json) |
@@ -126,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Hyouryuu Senki Dai 2 Wa | 191873 | [191873-gakuen-hyouryuu-senki-dai-2-wa.json](./191873-gakuen-hyouryuu-senki-dai-2-wa.json) |
 | Gakuen K: Wonderful School Days - V Edition | 108826 | [108826-gakuen-k-wonderful-school-days-v-edition.json](./108826-gakuen-k-wonderful-school-days-v-edition.json) |
 | Gakuen Senki | 251188 | [251188-gakuen-senki.json](./251188-gakuen-senki.json) |
+| Gakuen Senki Muryou | 49563 | [49563-gakuen-senki-muryou.json](./49563-gakuen-senki-muryou.json) |
 | Gakuen Sentai Solblast | 322189 | [322189-gakuen-sentai-solblast.json](./322189-gakuen-sentai-solblast.json) |
 | Gakuin Makyo: High School Crisis | 322577 | [322577-gakuin-makyo-high-school-crisis.json](./322577-gakuin-makyo-high-school-crisis.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
@@ -262,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy | 154578 | [154578-galaxy.json](./154578-galaxy.json) |
 | Galaxy | 381043 | [381043-galaxy.json](./381043-galaxy.json) |
 | Galaxy Angel | 70414 | [70414-galaxy-angel.json](./70414-galaxy-angel.json) |
+| Galaxy Angel Game Boy Advance: Moridakusan Tenshi no Full Course Okawari Jiyuu | 49562 | [49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json](./49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json) |
 | Galaxy Angel: Eternal Lovers | 79291 | [79291-galaxy-angel-eternal-lovers.json](./79291-galaxy-angel-eternal-lovers.json) |
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
 | Galaxy Blaster | 56156 | [56156-galaxy-blaster.json](./56156-galaxy-blaster.json) |
@@ -540,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki | 73299 | [73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json](./73299-ganbare-goemon-toukai-douchuu-ooedo-tengurigaeshi-no-maki.json) |
 | Ganbare Natsuki-san | 270676 | [270676-ganbare-natsuki-san.json](./270676-ganbare-natsuki-san.json) |
 | Ganbare Neo Poke-Kun | 43970 | [43970-ganbare-neo-poke-kun.json](./43970-ganbare-neo-poke-kun.json) |
+| Ganbare! Dodge Fighters | 49610 | [49610-ganbare-dodge-fighters.json](./49610-ganbare-dodge-fighters.json) |
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
 | Gang Man Shooter | 351691 | [351691-gang-man-shooter.json](./351691-gang-man-shooter.json) |
 | Gang of Four | 127053 | [127053-gang-of-four.json](./127053-gang-of-four.json) |
@@ -782,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geg 2: Nazad v Budushchee | 303242 | [303242-geg-2-nazad-v-budushchee.json](./303242-geg-2-nazad-v-budushchee.json) |
 | GeGeGe no Kitaro: Fukkatsu! Tenma Daiou | 64106 | [64106-gegege-no-kitaro-fukkatsu-tenma-daiou.json](./64106-gegege-no-kitaro-fukkatsu-tenma-daiou.json) |
 | GeGeGe no Kitaro: Ibun Yokai Kitan | 64108 | [64108-gegege-no-kitaro-ibun-yokai-kitan.json](./64108-gegege-no-kitaro-ibun-yokai-kitan.json) |
+| GeGeGe no Kitaro: Kiki Ippatsu! Yokai Rettou | 49609 | [49609-gegege-no-kitaro-kiki-ippatsu-yokai-rettou.json](./49609-gegege-no-kitaro-kiki-ippatsu-yokai-rettou.json) |
 | GeGeGe no Kitaro: Maboroshi Fuyu Kaikitan | 64110 | [64110-gegege-no-kitaro-maboroshi-fuyu-kaikitan.json](./64110-gegege-no-kitaro-maboroshi-fuyu-kaikitan.json) |
 | GeGeGe no Kitaro: Yokai Daigekisen | 64111 | [64111-gegege-no-kitaro-yokai-daigekisen.json](./64111-gegege-no-kitaro-yokai-daigekisen.json) |
 | GeGeGe no Kitaro: Yokai Daiundoukai | 64105 | [64105-gegege-no-kitaro-yokai-daiundoukai.json](./64105-gegege-no-kitaro-yokai-daiundoukai.json) |
@@ -966,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genomon: Genetic Monsters | 142842 | [142842-genomon-genetic-monsters.json](./142842-genomon-genetic-monsters.json) |
 | Genre Hopper | 182532 | [182532-genre-hopper.json](./182532-genre-hopper.json) |
 | Gensei Suikoden | 97282 | [97282-gensei-suikoden.json](./97282-gensei-suikoden.json) |
+| Genseijin Justirisers | 49607 | [49607-genseijin-justirisers.json](./49607-genseijin-justirisers.json) |
 | Genshin Impact: A Nocturne of the Far North | 378320 | [378320-genshin-impact-a-nocturne-of-the-far-north.json](./378320-genshin-impact-a-nocturne-of-the-far-north.json) |
 | Genshin Impact: Akasha Pulses, the Kalpa Flame Rises | 257453 | [257453-genshin-impact-akasha-pulses-the-kalpa-flame-rises.json](./257453-genshin-impact-akasha-pulses-the-kalpa-flame-rises.json) |
 | Genshin Impact: All Senses Clear, All Existence Void | 257465 | [257465-genshin-impact-all-senses-clear-all-existence-void.json](./257465-genshin-impact-all-senses-clear-all-existence-void.json) |
@@ -985,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensokyo Odyssey | 192364 | [192364-gensokyo-odyssey.json](./192364-gensokyo-odyssey.json) |
 | Gensokyo Rolling Force | 105313 | [105313-gensokyo-rolling-force.json](./105313-gensokyo-rolling-force.json) |
 | Gensokyo: Presumption of Guilt - Pansies Before Dawn | 311149 | [311149-gensokyo-presumption-of-guilt-pansies-before-dawn.json](./311149-gensokyo-presumption-of-guilt-pansies-before-dawn.json) |
+| Gensou Maden Saiyuuki: Hangyaku no Toshin Taishi | 49606 | [49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json](./49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json) |
 | Gensou Makyou Kitan | 388734 | [388734-gensou-makyou-kitan.json](./388734-gensou-makyou-kitan.json) |
 | Gensou Ningyou Embu Gaiden: Yuki-chan no Shugyou | 312327 | [312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json](./312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json) |
 | Gensou no Idea: Oratorio Phantasm Historia | 137081 | [137081-gensou-no-idea-oratorio-phantasm-historia.json](./137081-gensou-no-idea-oratorio-phantasm-historia.json) |
@@ -1112,6 +1122,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Rich | 311645 | [311645-get-rich.json](./311645-get-rich.json) |
 | Get Rich! | 180704 | [180704-get-rich.json](./180704-get-rich.json) |
 | Get Rid Of Those Corners | 401523 | [401523-get-rid-of-those-corners.json](./401523-get-rid-of-those-corners.json) |
+| Get Ride! AMDriver: Senkou no Hero Tanjou | 49605 | [49605-get-ride-amdriver-senkou-no-hero-tanjou.json](./49605-get-ride-amdriver-senkou-no-hero-tanjou.json) |
+| Get Ride! AMDriver: Shutsugeki! Battle Party | 49604 | [49604-get-ride-amdriver-shutsugeki-battle-party.json](./49604-get-ride-amdriver-shutsugeki-battle-party.json) |
 | Get Tanked! | 169863 | [169863-get-tanked.json](./169863-get-tanked.json) |
 | Get the Ball Rolling | 211929 | [211929-get-the-ball-rolling.json](./211929-get-the-ball-rolling.json) |
 | Get The Beer | 273914 | [273914-get-the-beer.json](./273914-get-the-beer.json) |
@@ -1128,12 +1140,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Your Sheep Together | 195160 | [195160-get-your-sheep-together.json](./195160-get-your-sheep-together.json) |
 | Get Your Tentacles Off My Waifu | 244765 | [244765-get-your-tentacles-off-my-waifu.json](./244765-get-your-tentacles-off-my-waifu.json) |
 | Get_the_Key | 180124 | [180124-get-the-key.json](./180124-get-the-key.json) |
+| GET! Boku no Mushi Tsukamaete | 49603 | [49603-get-boku-no-mushi-tsukamaete.json](./49603-get-boku-no-mushi-tsukamaete.json) |
 | Getamped 2 | 57925 | [57925-getamped-2.json](./57925-getamped-2.json) |
 | GetAmped Mobile | 114178 | [114178-getamped-mobile.json](./114178-getamped-mobile.json) |
 | Getaway Entertainment 6 Pack | 201851 | [201851-getaway-entertainment-6-pack.json](./201851-getaway-entertainment-6-pack.json) |
 | Getaway Girls | 313876 | [313876-getaway-girls.json](./313876-getaway-girls.json) |
 | Getaway Golf | 414298 | [414298-getaway-golf.json](./414298-getaway-golf.json) |
 | Getaway! | 78981 | [78981-getaway.json](./78981-getaway.json) |
+| GetBackers Dakkanya: Jagan Fuuin! | 49602 | [49602-getbackers-dakkanya-jagan-fuuin.json](./49602-getbackers-dakkanya-jagan-fuuin.json) |
+| GetBackers Dakkanya: Jigoku no Scaramouche | 49601 | [49601-getbackers-dakkanya-jigoku-no-scaramouche.json](./49601-getbackers-dakkanya-jigoku-no-scaramouche.json) |
+| GetBackers Dakkanya: Metropolis Dakkan Sakusen! | 49600 | [49600-getbackers-dakkanya-metropolis-dakkan-sakusen.json](./49600-getbackers-dakkanya-metropolis-dakkan-sakusen.json) |
 | GetClose | 61658 | [61658-getclose.json](./61658-getclose.json) |
 | Geten no Hana with Yume Akari Aizouban | 135857 | [135857-geten-no-hana-with-yume-akari-aizouban.json](./135857-geten-no-hana-with-yume-akari-aizouban.json) |
 | GetRektBambi | 59656 | [59656-getrektbambi.json](./59656-getrektbambi.json) |
@@ -1229,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Town Mine Ride & Shootin' Gallery | 33079 | [33079-ghost-town-mine-ride-and-shootin-gallery.json](./33079-ghost-town-mine-ride-and-shootin-gallery.json) |
 | Ghost Town: Dawn of War | 152317 | [152317-ghost-town-dawn-of-war.json](./152317-ghost-town-dawn-of-war.json) |
 | Ghost Trap | 208607 | [208607-ghost-trap.json](./208607-ghost-trap.json) |
+| Ghost Trap | 49599 | [49599-ghost-trap.json](./49599-ghost-trap.json) |
 | Ghost Vanguard | 264694 | [264694-ghost-vanguard.json](./264694-ghost-vanguard.json) |
 | Ghost Village | 224237 | [224237-ghost-village.json](./224237-ghost-village.json) |
 | Ghost Voyage | 269837 | [269837-ghost-voyage.json](./269837-ghost-voyage.json) |
@@ -1926,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: The Game | 8731 | [8731-godzilla-the-game.json](./8731-godzilla-the-game.json) |
 | Godzilla: The Series | 75893 | [75893-godzilla-the-series.json](./75893-godzilla-the-series.json) |
 | Goemon: Mononoke Sugoroku | 3507 | [3507-goemon-mononoke-sugoroku.json](./3507-goemon-mononoke-sugoroku.json) |
+| Goemon: New Age Shutsudou! | 49598 | [49598-goemon-new-age-shutsudou.json](./49598-goemon-new-age-shutsudou.json) |
 | Goethe's Last Laugh | 376569 | [376569-goethes-last-laugh.json](./376569-goethes-last-laugh.json) |
 | Goetia: The Infinite Tower | 222511 | [222511-goetia-the-infinite-tower.json](./222511-goetia-the-infinite-tower.json) |
 | GoetiaX | 145665 | [145665-goetiax.json](./145665-goetiax.json) |
@@ -3006,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gronk Want Rock | 249502 | [249502-gronk-want-rock.json](./249502-gronk-want-rock.json) |
 | Grood | 90116 | [90116-grood.json](./90116-grood.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
+| Groove Adventure Rave: Hikari to Yami no Daikessen | 49597 | [49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json](./49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json) |
 | Groove Catcher | 171583 | [171583-groove-catcher.json](./171583-groove-catcher.json) |
 | Groove Coaster + Undertale DLC Bundle | 362273 | [362273-groove-coaster-undertale-dlc-bundle.json](./362273-groove-coaster-undertale-dlc-bundle.json) |
 | Groove Coaster 2 Heavenly Festival | 126464 | [126464-groove-coaster-2-heavenly-festival.json](./126464-groove-coaster-2-heavenly-festival.json) |
@@ -3531,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guójì Xiàngqí: Dānshuāngrén Duìzhàn Qípái Xiǎoyóuxì | 109011 | [109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json](./109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json) |
 | Gura's Adventure | 184097 | [184097-guras-adventure.json](./184097-guras-adventure.json) |
 | Guragura Oden | 296948 | [296948-guragura-oden.json](./296948-guragura-oden.json) |
+| Guranbo | 49596 | [49596-guranbo.json](./49596-guranbo.json) |
 | Gurei | 235913 | [235913-gurei.json](./235913-gurei.json) |
 | Guri-guri Europe | 151667 | [151667-guri-guri-europe.json](./151667-guri-guri-europe.json) |
 | Gurk III: the 8-bit RPG | 200671 | [200671-gurk-iii-the-8-bit-rpg.json](./200671-gurk-iii-the-8-bit-rpg.json) |
