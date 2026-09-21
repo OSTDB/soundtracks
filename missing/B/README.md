@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle Ju | 117668 | [117668-beetle-ju.json](./117668-beetle-ju.json) |
 | Beetle Ju 3 | 117669 | [117669-beetle-ju-3.json](./117669-beetle-ju-3.json) |
 | Beetle Junior DS | 92471 | [92471-beetle-junior-ds.json](./92471-beetle-junior-ds.json) |
+| Beetle King | 18540 | [18540-beetle-king.json](./18540-beetle-king.json) |
 | Beetle.io | 240338 | [240338-beetle-io.json](./240338-beetle-io.json) |
 | Beetlejuice: Horrific Hijinx from the Neitherworld! | 80889 | [80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json](./80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json) |
 | Beetlenaut | 62197 | [62197-beetlenaut.json](./62197-beetlenaut.json) |
