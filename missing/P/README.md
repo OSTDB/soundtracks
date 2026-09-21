@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parry King | 263044 | [263044-parry-king.json](./263044-parry-king.json) |
 | Parse Ally | 114442 | [114442-parse-ally.json](./114442-parse-ally.json) |
 | Parse-O-Rhythm | 305940 | [305940-parse-o-rhythm.json](./305940-parse-o-rhythm.json) |
+| Parsec | 18563 | [18563-parsec.json](./18563-parsec.json) |
 | Parsec | 341593 | [341593-parsec.json](./341593-parsec.json) |
 | Parsec Lost in Space | 255972 | [255972-parsec-lost-in-space.json](./255972-parsec-lost-in-space.json) |
 | Parsnip | 96108 | [96108-parsnip.json](./96108-parsnip.json) |
@@ -1811,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phase Shift | 50165 | [50165-phase-shift.json](./50165-phase-shift.json) |
 | Phase Zero | 335684 | [335684-phase-zero.json](./335684-phase-zero.json) |
 | Phaser Fire | 172725 | [172725-phaser-fire.json](./172725-phaser-fire.json) |
+| Phaser Patrol | 18564 | [18564-phaser-patrol.json](./18564-phaser-patrol.json) |
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
 | Phat Phrog | 30892 | [30892-phat-phrog.json](./30892-phat-phrog.json) |
 | Phat Phrog Clicker | 314308 | [314308-phat-phrog-clicker.json](./314308-phat-phrog-clicker.json) |
@@ -2008,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickup One | 202753 | [202753-pickup-one.json](./202753-pickup-one.json) |
 | Pickup Point Simulator | 304613 | [304613-pickup-point-simulator.json](./304613-pickup-point-simulator.json) |
 | Picnic | 22817 | [22817-picnic.json](./22817-picnic.json) |
+| Picnic Paranoia | 18560 | [18560-picnic-paranoia.json](./18560-picnic-paranoia.json) |
 | Picnic Syndrome | 341578 | [341578-picnic-syndrome.json](./341578-picnic-syndrome.json) |
 | Picnic Wars | 20805 | [20805-picnic-wars.json](./20805-picnic-wars.json) |
 | Pico de Pon | 279771 | [279771-pico-de-pon.json](./279771-pico-de-pon.json) |
@@ -5210,6 +5213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protection Civile Simulator 2013 | 50822 | [50822-protection-civile-simulator-2013.json](./50822-protection-civile-simulator-2013.json) |
 | Protective Clothing | 132616 | [132616-protective-clothing.json](./132616-protective-clothing.json) |
 | Protector | 95461 | [95461-protector.json](./95461-protector.json) |
+| Protector II | 18571 | [18571-protector-ii.json](./18571-protector-ii.json) |
 | Protector: Special Edition | 40809 | [40809-protector-special-edition.json](./40809-protector-special-edition.json) |
 | Protector/Y*A*S*I | 63809 | [63809-protector-y-a-s-i.json](./63809-protector-y-a-s-i.json) |
 | Protectors | 223988 | [223988-protectors.json](./223988-protectors.json) |
