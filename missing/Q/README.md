@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qīyún Yìmèng | 250442 | [250442-qiyun-yimeng.json](./250442-qiyun-yimeng.json) |
 | QL Pawn | 203377 | [203377-ql-pawn.json](./203377-ql-pawn.json) |
 | Qlanet | 206376 | [206376-qlanet.json](./206376-qlanet.json) |
+| Qlione | 50840 | [50840-qlione.json](./50840-qlione.json) |
 | Qliphah in Providence's Shadow | 408068 | [408068-qliphah-in-providences-shadow.json](./408068-qliphah-in-providences-shadow.json) |
 | Qlorb 2 | 88241 | [88241-qlorb-2.json](./88241-qlorb-2.json) |
 | Qomp | 142475 | [142475-qomp.json](./142475-qomp.json) |
