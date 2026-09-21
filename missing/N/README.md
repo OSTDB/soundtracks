@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 19: The One Edition | 118944 | [118944-nba-live-19-the-one-edition.json](./118944-nba-live-19-the-one-edition.json) |
 | NBA Live 2000 | 264855 | [264855-nba-live-2000.json](./264855-nba-live-2000.json) |
 | NBA Live 2003 | 808 | [808-nba-live-2003.json](./808-nba-live-2003.json) |
+| NBA Live 2005 | 4033 | [4033-nba-live-2005.json](./4033-nba-live-2005.json) |
 | NBA Live 96 | 809 | [809-nba-live-96.json](./809-nba-live-96.json) |
 | NBA Maximum Hangtime | 39596 | [39596-nba-maximum-hangtime.json](./39596-nba-maximum-hangtime.json) |
 | NBA Now | 303807 | [303807-nba-now.json](./303807-nba-now.json) |
