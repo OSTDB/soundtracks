@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
 | Rage of the Wasteland | 157137 | [157137-rage-of-the-wasteland.json](./157137-rage-of-the-wasteland.json) |
 | Rage of Tiger 2: Blood, Money and Tears | 64350 | [64350-rage-of-tiger-2-blood-money-and-tears.json](./64350-rage-of-tiger-2-blood-money-and-tears.json) |
+| Rage Parking Simulator 2016 | 26955 | [26955-rage-parking-simulator-2016.json](./26955-rage-parking-simulator-2016.json) |
 | Rage Quest | 75052 | [75052-rage-quest.json](./75052-rage-quest.json) |
 | Rage Quest: The Worst Game | 81254 | [81254-rage-quest-the-worst-game.json](./81254-rage-quest-the-worst-game.json) |
 | Rage Quit | 239165 | [239165-rage-quit.json](./239165-rage-quit.json) |
@@ -3055,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band Blitz | 2696 | [2696-rock-band-blitz.json](./2696-rock-band-blitz.json) |
 | Rock Band Sessions | 250663 | [250663-rock-band-sessions.json](./250663-rock-band-sessions.json) |
 | Rock Band Unplugged | 2721 | [2721-rock-band-unplugged.json](./2721-rock-band-unplugged.json) |
+| Rock Band VR | 26988 | [26988-rock-band-vr.json](./26988-rock-band-vr.json) |
 | Rock Band: Metal Track Pack | 67778 | [67778-rock-band-metal-track-pack.json](./67778-rock-band-metal-track-pack.json) |
 | Rock Boshers DX: Director's Cut | 23224 | [23224-rock-boshers-dx-directors-cut.json](./23224-rock-boshers-dx-directors-cut.json) |
 | Rock Bottom | 141856 | [141856-rock-bottom.json](./141856-rock-bottom.json) |
