@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable Anniversary | 7658 | [7658-fable-anniversary.json](./7658-fable-anniversary.json) |
 | Fable Anniversary: Heroes and Villains Content Pack | 226844 | [226844-fable-anniversary-heroes-and-villains-content-pack.json](./226844-fable-anniversary-heroes-and-villains-content-pack.json) |
 | Fable Anniversary: Scythe Content Pack | 226845 | [226845-fable-anniversary-scythe-content-pack.json](./226845-fable-anniversary-scythe-content-pack.json) |
+| Fable Clinic | 56768 | [56768-fable-clinic.json](./56768-fable-clinic.json) |
 | Fable Forts! | 261883 | [261883-fable-forts.json](./261883-fable-forts.json) |
 | Fable II: Pub Games | 21328 | [21328-fable-ii-pub-games.json](./21328-fable-ii-pub-games.json) |
 | Fable III: Limited Collector's Edition | 43958 | [43958-fable-iii-limited-collectors-edition.json](./43958-fable-iii-limited-collectors-edition.json) |
@@ -2672,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower | 1354 | [1354-flower.json](./1354-flower.json) |
 | Flower and Animal 3D Encyclopedia | 77006 | [77006-flower-and-animal-3d-encyclopedia.json](./77006-flower-and-animal-3d-encyclopedia.json) |
 | Flower Bears | 307732 | [307732-flower-bears.json](./307732-flower-bears.json) |
+| Flower Defence | 56761 | [56761-flower-defence.json](./56761-flower-defence.json) |
 | Flower Design II | 384522 | [384522-flower-design-ii.json](./384522-flower-design-ii.json) |
 | Flower Escape | 363364 | [363364-flower-escape.json](./363364-flower-escape.json) |
 | Flower Flurry | 255129 | [255129-flower-flurry.json](./255129-flower-flurry.json) |
@@ -4101,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Ninja vs Skittles | 352285 | [352285-fruit-ninja-vs-skittles.json](./352285-fruit-ninja-vs-skittles.json) |
 | Fruit Ninja: Pac-Man Theme | 400979 | [400979-fruit-ninja-pac-man-theme.json](./400979-fruit-ninja-pac-man-theme.json) |
 | Fruit of Choice | 309495 | [309495-fruit-of-choice.json](./309495-fruit-of-choice.json) |
+| Fruit Panic | 56754 | [56754-fruit-panic.json](./56754-fruit-panic.json) |
 | Fruit Postal Service | 119777 | [119777-fruit-postal-service.json](./119777-fruit-postal-service.json) |
 | Fruit Salad Theory | 186807 | [186807-fruit-salad-theory.json](./186807-fruit-salad-theory.json) |
 | Fruit Search | 277379 | [277379-fruit-search.json](./277379-fruit-search.json) |
