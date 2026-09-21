@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1 | 356086 | [356086-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-1.json](./356086-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-1.json) |
 | Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 2 | 356087 | [356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json](./356087-taiko-no-tatsujin-rhythm-festival-touhou-project-arrangements-pack-vol-2.json) |
 | Taiko no Tatsujin: Rhythm Festival - Vocaloid Songs Collection | 356197 | [356197-taiko-no-tatsujin-rhythm-festival-vocaloid-songs-collection.json](./356197-taiko-no-tatsujin-rhythm-festival-vocaloid-songs-collection.json) |
+| Taiko no Tatsujin: Rhythmic Adventure 2 | 58471 | [58471-taiko-no-tatsujin-rhythmic-adventure-2.json](./58471-taiko-no-tatsujin-rhythmic-adventure-2.json) |
 | Taiko no Tatsujin: The Drum Master! | 188551 | [188551-taiko-no-tatsujin-the-drum-master.json](./188551-taiko-no-tatsujin-the-drum-master.json) |
 | Taiko no Tatsujin: The Drum Master! - One Piece Anime Songs Pack | 257467 | [257467-taiko-no-tatsujin-the-drum-master-one-piece-anime-songs-pack.json](./257467-taiko-no-tatsujin-the-drum-master-one-piece-anime-songs-pack.json) |
 | Taiko no Tatsujin: The Drum Master! - Touhou Project Arrangements Pack | 358952 | [358952-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack.json](./358952-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack.json) |
@@ -2660,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Tape | 302677 | [302677-the-cursed-tape.json](./302677-the-cursed-tape.json) |
 | The Cursed Underground Parking Lot | 344351 | [344351-the-cursed-underground-parking-lot.json](./344351-the-cursed-underground-parking-lot.json) |
 | The Cute Whale | 378182 | [378182-the-cute-whale.json](./378182-the-cute-whale.json) |
+| The CW Quest | 58501 | [58501-the-cw-quest.json](./58501-the-cw-quest.json) |
 | The Cycle: Season 3 | 137010 | [137010-the-cycle-season-3.json](./137010-the-cycle-season-3.json) |
 | The Cyclist: Tactics | 159354 | [159354-the-cyclist-tactics.json](./159354-the-cyclist-tactics.json) |
 | The Cyclop | 301814 | [301814-the-cyclop.json](./301814-the-cyclop.json) |
@@ -3419,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Ghoul Duel 2 | 223047 | [223047-the-great-ghoul-duel-2.json](./223047-the-great-ghoul-duel-2.json) |
 | The Great Hero's Cat | 209605 | [209605-the-great-heros-cat.json](./209605-the-great-heros-cat.json) |
 | The Great House Escape | 386220 | [386220-the-great-house-escape.json](./386220-the-great-house-escape.json) |
+| The Great Language Game | 58488 | [58488-the-great-language-game.json](./58488-the-great-language-game.json) |
 | The Great Menace | 154029 | [154029-the-great-menace.json](./154029-the-great-menace.json) |
 | The Great Mushroom Hunt | 114321 | [114321-the-great-mushroom-hunt.json](./114321-the-great-mushroom-hunt.json) |
 | The Great Ocean | 199519 | [199519-the-great-ocean.json](./199519-the-great-ocean.json) |
