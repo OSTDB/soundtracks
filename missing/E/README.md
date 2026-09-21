@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Errant: Hunter's Soul | 200748 | [200748-errant-hunters-soul.json](./200748-errant-hunters-soul.json) |
 | Errante | 185559 | [185559-errante.json](./185559-errante.json) |
 | Errasaga | 381599 | [381599-errasaga.json](./381599-errasaga.json) |
+| Error #53 | 63010 | [63010-error-53.json](./63010-error-53.json) |
 | Error 0: New World Found | 178685 | [178685-error-0-new-world-found.json](./178685-error-0-new-world-found.json) |
 | Error Codes | 325654 | [325654-error-codes.json](./325654-error-codes.json) |
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
@@ -1978,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Soul of Anatolia | 398433 | [398433-euro-truck-simulator-2-soul-of-anatolia.json](./398433-euro-truck-simulator-2-soul-of-anatolia.json) |
 | Euro-Man | 71554 | [71554-euro-man.json](./71554-euro-man.json) |
 | Eurobi Racing | 112940 | [112940-eurobi-racing.json](./112940-eurobi-racing.json) |
+| EuroCops | 62984 | [62984-eurocops.json](./62984-eurocops.json) |
 | EuroGoal 2012 | 343818 | [343818-eurogoal-2012.json](./343818-eurogoal-2012.json) |
 | Europa | 130893 | [130893-europa.json](./130893-europa.json) |
 | Europa 1400: The Guild | 681 | [681-europa-1400-the-guild.json](./681-europa-1400-the-guild.json) |
