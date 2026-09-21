@@ -4509,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magnets | 148534 | [148534-the-magnets.json](./148534-the-magnets.json) |
 | The Magnificent Trufflepigs | 144508 | [144508-the-magnificent-trufflepigs.json](./144508-the-magnificent-trufflepigs.json) |
 | The Magpie Takes the Train | 216336 | [216336-the-magpie-takes-the-train.json](./216336-the-magpie-takes-the-train.json) |
+| The Mahjong Touhai-den | 37935 | [37935-the-mahjong-touhai-den.json](./37935-the-mahjong-touhai-den.json) |
 | The Maid | 335680 | [335680-the-maid.json](./335680-the-maid.json) |
 | The Maid-san's Caving Adventure | 90644 | [90644-the-maid-sans-caving-adventure.json](./90644-the-maid-sans-caving-adventure.json) |
 | The Majestic | 211745 | [211745-the-majestic.json](./211745-the-majestic.json) |
