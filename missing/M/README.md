@@ -1668,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masked Wolf: Astronaut Tiles Hop Beat | 182442 | [182442-masked-wolf-astronaut-tiles-hop-beat.json](./182442-masked-wolf-astronaut-tiles-hop-beat.json) |
 | Maskless | 135267 | [135267-maskless.json](./135267-maskless.json) |
 | Masks of Deception | 200705 | [200705-masks-of-deception.json](./200705-masks-of-deception.json) |
+| Masochisia | 13189 | [13189-masochisia.json](./13189-masochisia.json) |
 | Masochistic Maiden Aria and the Cavern of Blissful Agony | 252178 | [252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json](./252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json) |
 | Mason and Strings | 183606 | [183606-mason-and-strings.json](./183606-mason-and-strings.json) |
 | Masq | 93353 | [93353-masq.json](./93353-masq.json) |
@@ -4468,6 +4469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mito da Criação | 131368 | [131368-mito-da-criacao.json](./131368-mito-da-criacao.json) |
 | Mitoosis | 144788 | [144788-mitoosis.json](./144788-mitoosis.json) |
 | Mitos.is: The Game | 34786 | [34786-mitos-is-the-game.json](./34786-mitos-is-the-game.json) |
+| Mitoza | 144270 | [144270-mitoza.json](./144270-mitoza.json) |
 | Mitrasphere | 146911 | [146911-mitrasphere.json](./146911-mitrasphere.json) |
 | MITS: Monsters in the Shadows | 198376 | [198376-mits-monsters-in-the-shadows.json](./198376-mits-monsters-in-the-shadows.json) |
 | Mitsubachi Gakuen | 107646 | [107646-mitsubachi-gakuen.json](./107646-mitsubachi-gakuen.json) |
