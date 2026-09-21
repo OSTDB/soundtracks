@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal22 | 279099 | [279099-terminal22.json](./279099-terminal22.json) |
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
 | Terminator | 208419 | [208419-terminator.json](./208419-terminator.json) |
+| Terminator 2: Judgment Day - Chess Wars | 14557 | [14557-terminator-2-judgment-day-chess-wars.json](./14557-terminator-2-judgment-day-chess-wars.json) |
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
 | Terminator: Resistance | 122611 | [122611-terminator-resistance.json](./122611-terminator-resistance.json) |
 | Terminators: The Video Game | 62965 | [62965-terminators-the-video-game.json](./62965-terminators-the-video-game.json) |
@@ -2016,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anacrusis: Deluxe Edition | 192304 | [192304-the-anacrusis-deluxe-edition.json](./192304-the-anacrusis-deluxe-edition.json) |
 | The Analyst | 211289 | [211289-the-analyst.json](./211289-the-analyst.json) |
 | The Anchorite | 325079 | [325079-the-anchorite.json](./325079-the-anchorite.json) |
+| The Ancient Art of War | 14600 | [14600-the-ancient-art-of-war.json](./14600-the-ancient-art-of-war.json) |
 | The Ancient Land of Ys | 2411 | [2411-the-ancient-land-of-ys.json](./2411-the-ancient-land-of-ys.json) |
 | The Ancients AR | 103884 | [103884-the-ancients-ar.json](./103884-the-ancients-ar.json) |
 | The Andesia Project | 279100 | [279100-the-andesia-project.json](./279100-the-andesia-project.json) |
@@ -2339,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
 | The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
+| The Brain Blasters | 14612 | [14612-the-brain-blasters.json](./14612-the-brain-blasters.json) |
 | The Brain's Brain Game | 307913 | [307913-the-brains-brain-game.json](./307913-the-brains-brain-game.json) |
 | The Brainies | 42634 | [42634-the-brainies.json](./42634-the-brainies.json) |
 | The Brave Mouse | 51513 | [51513-the-brave-mouse.json](./51513-the-brave-mouse.json) |
@@ -2741,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Book | 248713 | [248713-the-dark-book.json](./248713-the-dark-book.json) |
 | The Dark Book 2 | 274489 | [274489-the-dark-book-2.json](./274489-the-dark-book-2.json) |
 | The Dark Climb | 253423 | [253423-the-dark-climb.json](./253423-the-dark-climb.json) |
+| The Dark Crystal | 14575 | [14575-the-dark-crystal.json](./14575-the-dark-crystal.json) |
 | The Dark Curiosity | 381002 | [381002-the-dark-curiosity.json](./381002-the-dark-curiosity.json) |
 | The Dark Debt | 283769 | [283769-the-dark-debt.json](./283769-the-dark-debt.json) |
 | The Dark Defender | 199092 | [199092-the-dark-defender.json](./199092-the-dark-defender.json) |
@@ -5220,6 +5224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Restless Resort | 271987 | [271987-the-restless-resort.json](./271987-the-restless-resort.json) |
 | The Resurrected | 366314 | [366314-the-resurrected.json](./366314-the-resurrected.json) |
 | The Return of Bantara | 334748 | [334748-the-return-of-bantara.json](./334748-the-return-of-bantara.json) |
+| The Return of Medusa | 14508 | [14508-the-return-of-medusa.json](./14508-the-return-of-medusa.json) |
 | The Return of the Heroes | 259561 | [259561-the-return-of-the-heroes.json](./259561-the-return-of-the-heroes.json) |
 | The Return of the King | 287767 | [287767-the-return-of-the-king.json](./287767-the-return-of-the-king.json) |
 | The Return: Survival | 114771 | [114771-the-return-survival.json](./114771-the-return-survival.json) |
@@ -6744,6 +6749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Front | 89656 | [89656-third-front.json](./89656-third-front.json) |
 | Third Grade Learning Games | 86903 | [86903-third-grade-learning-games.json](./86903-third-grade-learning-games.json) |
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
+| Third Reich | 14518 | [14518-third-reich.json](./14518-third-reich.json) |
 | Third Wild | 208600 | [208600-third-wild.json](./208600-third-wild.json) |
 | ThirdMiracle | 197764 | [197764-thirdmiracle.json](./197764-thirdmiracle.json) |
 | Thirst | 31836 | [31836-thirst.json](./31836-thirst.json) |
@@ -7795,6 +7801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Up | 68597 | [68597-time-up.json](./68597-time-up.json) |
 | Time Warpers | 110073 | [110073-time-warpers.json](./110073-time-warpers.json) |
 | Time Warriors | 10859 | [10859-time-warriors.json](./10859-time-warriors.json) |
+| Time Zone | 14574 | [14574-time-zone.json](./14574-time-zone.json) |
 | Time's Prison | 318423 | [318423-times-prison.json](./318423-times-prison.json) |
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
 | TimeCluster | 105295 | [105295-timecluster.json](./105295-timecluster.json) |
