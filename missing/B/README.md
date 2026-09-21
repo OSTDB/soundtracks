@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being One: Episode 1 | 184076 | [184076-being-one-episode-1.json](./184076-being-one-episode-1.json) |
 | Being Struck By Lightning is Probably the Best Way That You Could Die On Account of All of Its Awesomeness | 242647 | [242647-being-struck-by-lightning-is-probably-the-best-way-that-you-could-die-on-account-of-all-of-its-awesomeness.json](./242647-being-struck-by-lightning-is-probably-the-best-way-that-you-could-die-on-account-of-all-of-its-awesomeness.json) |
 | Bejeweled | 121723 | [121723-bejeweled.json](./121723-bejeweled.json) |
+| Bejeweled | 8318 | [8318-bejeweled.json](./8318-bejeweled.json) |
 | Bejeweled 2 Deluxe | 14806 | [14806-bejeweled-2-deluxe.json](./14806-bejeweled-2-deluxe.json) |
 | Bejeweled Blitz | 20435 | [20435-bejeweled-blitz.json](./20435-bejeweled-blitz.json) |
 | Bejeweled Classic | 187382 | [187382-bejeweled-classic.json](./187382-bejeweled-classic.json) |
@@ -2237,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
 | Betrayal Beach: Supporter Pack | 310051 | [310051-betrayal-beach-supporter-pack.json](./310051-betrayal-beach-supporter-pack.json) |
 | Betrayed Alliance: Book 2 | 239894 | [239894-betrayed-alliance-book-2.json](./239894-betrayed-alliance-book-2.json) |
+| Betrayer | 7711 | [7711-betrayer.json](./7711-betrayer.json) |
 | Betrayer: Curse of the Spine | 168381 | [168381-betrayer-curse-of-the-spine.json](./168381-betrayer-curse-of-the-spine.json) |
 | Betroyal | 245839 | [245839-betroyal.json](./245839-betroyal.json) |
 | Bets on Pets | 278170 | [278170-bets-on-pets.json](./278170-bets-on-pets.json) |
