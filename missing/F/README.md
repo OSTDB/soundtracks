@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Sport | 346056 | [346056-family-sport.json](./346056-family-sport.json) |
 | Family Tales: The Sisters | 356181 | [356181-family-tales-the-sisters.json](./356181-family-tales-the-sisters.json) |
 | Family Tennis | 239162 | [239162-family-tennis.json](./239162-family-tennis.json) |
+| Family Tennis Advance | 49581 | [49581-family-tennis-advance.json](./49581-family-tennis-advance.json) |
 | Family Town | 219265 | [219265-family-town.json](./219265-family-town.json) |
 | Family Tree | 124625 | [124625-family-tree.json](./124625-family-tree.json) |
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
@@ -541,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famine Way | 277437 | [277437-famine-way.json](./277437-famine-way.json) |
 | Famista 2 | 86101 | [86101-famista-2.json](./86101-famista-2.json) |
 | Famista 3 | 95372 | [95372-famista-3.json](./95372-famista-3.json) |
+| Famista Advance | 49580 | [49580-famista-advance.json](./49580-famista-advance.json) |
 | Famory | 252158 | [252158-famory.json](./252158-famory.json) |
 | Famous | 91389 | [91389-famous.json](./91389-famous.json) |
 | Famous - The Road to Glory! | 47971 | [47971-famous-the-road-to-glory.json](./47971-famous-the-road-to-glory.json) |
@@ -557,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy | 247033 | [247033-fancy.json](./247033-fancy.json) |
 | Fancy Island | 172735 | [172735-fancy-island.json](./172735-fancy-island.json) |
 | Fancy Nancy: Tea Party Time! | 66370 | [66370-fancy-nancy-tea-party-time.json](./66370-fancy-nancy-tea-party-time.json) |
+| Fancy Pocket | 49579 | [49579-fancy-pocket.json](./49579-fancy-pocket.json) |
 | Fancy Skiing 2: Online | 105312 | [105312-fancy-skiing-2-online.json](./105312-fancy-skiing-2-online.json) |
 | Fancy Skiing VR | 31759 | [31759-fancy-skiing-vr.json](./31759-fancy-skiing-vr.json) |
 | Fancy Solitaire | 147422 | [147422-fancy-solitaire.json](./147422-fancy-solitaire.json) |
@@ -586,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasteroids | 218588 | [218588-fantasteroids.json](./218588-fantasteroids.json) |
 | Fantastic 4 | 3914 | [3914-fantastic-4.json](./3914-fantastic-4.json) |
 | Fantastic 4 in a Row HD | 70407 | [70407-fantastic-4-in-a-row-hd.json](./70407-fantastic-4-in-a-row-hd.json) |
+| Fantastic Children | 49578 | [49578-fantastic-children.json](./49578-fantastic-children.json) |
 | Fantastic Dizzy | 12089 | [12089-fantastic-dizzy.json](./12089-fantastic-dizzy.json) |
 | Fantastic Fetus: Prebirth | 205113 | [205113-fantastic-fetus-prebirth.json](./205113-fantastic-fetus-prebirth.json) |
 | Fantastic Fossils | 62148 | [62148-fantastic-fossils.json](./62148-fantastic-fossils.json) |
@@ -595,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Honey | 154400 | [154400-fantastic-honey.json](./154400-fantastic-honey.json) |
 | Fantastic Journey | 38391 | [38391-fantastic-journey.json](./38391-fantastic-journey.json) |
 | Fantastic Kingdom | 120421 | [120421-fantastic-kingdom.json](./120421-fantastic-kingdom.json) |
+| Fantastic Marchen: Cake-ya-san Monogatari + Doubutsu Chara Navi Uranai Kosei Shinri Gaku | 49577 | [49577-fantastic-marchen-cake-ya-san-monogatari-doubutsu-chara-navi-uranai-kosei-shinri-gaku.json](./49577-fantastic-marchen-cake-ya-san-monogatari-doubutsu-chara-navi-uranai-kosei-shinri-gaku.json) |
 | Fantasy & Blade | 119021 | [119021-fantasy-and-blade.json](./119021-fantasy-and-blade.json) |
 | Fantasy & Blade II | 124223 | [124223-fantasy-and-blade-ii.json](./124223-fantasy-and-blade-ii.json) |
 | Fantasy 6 Pack | 86035 | [86035-fantasy-6-pack.json](./86035-fantasy-6-pack.json) |
@@ -1338,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory II: Rise of Persia | 124818 | [124818-field-of-glory-ii-rise-of-persia.json](./124818-field-of-glory-ii-rise-of-persia.json) |
 | Field of Glory: Empires | 112588 | [112588-field-of-glory-empires.json](./112588-field-of-glory-empires.json) |
 | Field of Glory: Empires - Persia 550-330 BCE | 154941 | [154941-field-of-glory-empires-persia-550-330-bce.json](./154941-field-of-glory-empires-persia-550-330-bce.json) |
+| Field of Nine: Digital Edition 2001 | 49576 | [49576-field-of-nine-digital-edition-2001.json](./49576-field-of-nine-digital-edition-2001.json) |
 | Field of Polarity | 392145 | [392145-field-of-polarity.json](./392145-field-of-polarity.json) |
 | Field of Screams | 375279 | [375279-field-of-screams.json](./375279-field-of-screams.json) |
 | Field of the Dead | 309370 | [309370-field-of-the-dead.json](./309370-field-of-the-dead.json) |
@@ -3262,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Form of a Legend | 132800 | [132800-form-of-a-legend.json](./132800-form-of-a-legend.json) |
 | Format | 312580 | [312580-format.json](./312580-format.json) |
 | Formation | 258690 | [258690-formation.json](./258690-formation.json) |
+| Formation Soccer 2002 | 49575 | [49575-formation-soccer-2002.json](./49575-formation-soccer-2002.json) |
 | Formation Soccer 95: della Serie A | 65179 | [65179-formation-soccer-95-della-serie-a.json](./65179-formation-soccer-95-della-serie-a.json) |
 | Formation Soccer: Human Cup '90 | 42046 | [42046-formation-soccer-human-cup-90.json](./42046-formation-soccer-human-cup-90.json) |
 | Formation Z | 37190 | [37190-formation-z.json](./37190-formation-z.json) |
@@ -4146,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruits Jigsaw Puzzle | 88167 | [88167-fruits-jigsaw-puzzle.json](./88167-fruits-jigsaw-puzzle.json) |
 | Fruits of Fury | 260205 | [260205-fruits-of-fury.json](./260205-fruits-of-fury.json) |
 | Fruits of Fury | 413618 | [413618-fruits-of-fury.json](./413618-fruits-of-fury.json) |
+| Fruits-mura no Doubutsu-tachi | 49572 | [49572-fruits-mura-no-doubutsu-tachi.json](./49572-fruits-mura-no-doubutsu-tachi.json) |
 | Fruitwolf | 183017 | [183017-fruitwolf.json](./183017-fruitwolf.json) |
 | Fruity Fauna | 374146 | [374146-fruity-fauna.json](./374146-fruity-fauna.json) |
 | Frutakia | 299776 | [299776-frutakia.json](./299776-frutakia.json) |
@@ -4240,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Throttle: Hell on Wheels | 72722 | [72722-full-throttle-hell-on-wheels.json](./72722-full-throttle-hell-on-wheels.json) |
 | Full Tilt! Pinball 2 | 74316 | [74316-full-tilt-pinball-2.json](./74316-full-tilt-pinball-2.json) |
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
+| Fullmetal Alchemist: Omoide no Sonata | 49594 | [49594-fullmetal-alchemist-omoide-no-sonata.json](./49594-fullmetal-alchemist-omoide-no-sonata.json) |
 | Fullmetal Alchemist: To the Promised Day | 62757 | [62757-fullmetal-alchemist-to-the-promised-day.json](./62757-fullmetal-alchemist-to-the-promised-day.json) |
 | Fully Dogomatic | 301289 | [301289-fully-dogomatic.json](./301289-fully-dogomatic.json) |
 | fullybroKen#4 | 115640 | [115640-fullybroken-4.json](./115640-fullybroken-4.json) |
@@ -4448,6 +4457,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi no Gensoukyou Chronicle | 206942 | [206942-fushigi-no-gensoukyou-chronicle.json](./206942-fushigi-no-gensoukyou-chronicle.json) |
 | Fushigi no Gensoukyou Origin: Hajimari no Kamikakushi-hen | 206941 | [206941-fushigi-no-gensoukyou-origin-hajimari-no-kamikakushi-hen.json](./206941-fushigi-no-gensoukyou-origin-hajimari-no-kamikakushi-hen.json) |
 | Fushigi no Gensoukyou: Another Face | 206943 | [206943-fushigi-no-gensoukyou-another-face.json](./206943-fushigi-no-gensoukyou-another-face.json) |
+| Fushigi no Kuni no Alice | 49571 | [49571-fushigi-no-kuni-no-alice.json](./49571-fushigi-no-kuni-no-alice.json) |
+| Fushigi no Kuni no Angelique | 49570 | [49570-fushigi-no-kuni-no-angelique.json](./49570-fushigi-no-kuni-no-angelique.json) |
 | Fushigi no Umi no Nadia: Gekichin! Garfish | 385710 | [385710-fushigi-no-umi-no-nadia-gekichin-garfish.json](./385710-fushigi-no-umi-no-nadia-gekichin-garfish.json) |
 | Fushigi no Yume no Alice | 66157 | [66157-fushigi-no-yume-no-alice.json](./66157-fushigi-no-yume-no-alice.json) |
 | Fushigi Yuugi DS | 68021 | [68021-fushigi-yuugi-ds.json](./68021-fushigi-yuugi-ds.json) |
@@ -4481,8 +4492,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Vampire Girlfriend | 163978 | [163978-futanari-vampire-girlfriend.json](./163978-futanari-vampire-girlfriend.json) |
 | Futanari's Sex World! | 382314 | [382314-futanaris-sex-world.json](./382314-futanaris-sex-world.json) |
 | Futari ha Haipuri | 97718 | [97718-futari-ha-haipuri.json](./97718-futari-ha-haipuri.json) |
+| Futari ha Precure: Arienai! Yume no Sono ha Daimeikyuu | 49569 | [49569-futari-ha-precure-arienai-yume-no-sono-ha-daimeikyuu.json](./49569-futari-ha-precure-arienai-yume-no-sono-ha-daimeikyuu.json) |
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futari ha Pretty Cure Splash Star: Panpaka Game de Zekkou-chou! | 168329 | [168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json](./168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json) |
+| Futari wa Precure Max Heart: Maji? Maji!? Fight de IN Janai | 49568 | [49568-futari-wa-precure-max-heart-maji-maji-fight-de-in-janai.json](./49568-futari-wa-precure-max-heart-maji-maji-fight-de-in-janai.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
 | Fútbol | 86007 | [86007-futbol.json](./86007-futbol.json) |
 | Fútbol Club Barcelona | 217959 | [217959-futbol-club-barcelona.json](./217959-futbol-club-barcelona.json) |
