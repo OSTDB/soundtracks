@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadNeverStop | 289450 | [289450-deadneverstop.json](./289450-deadneverstop.json) |
 | DeadOS | 158207 | [158207-deados.json](./158207-deados.json) |
 | Deadpool | 1919 | [1919-deadpool.json](./1919-deadpool.json) |
+| Deadrock Divide | 63007 | [63007-deadrock-divide.json](./63007-deadrock-divide.json) |
 | Deadrock Salvation | 382752 | [382752-deadrock-salvation.json](./382752-deadrock-salvation.json) |
 | DeadRoot | 404919 | [404919-deadroot.json](./404919-deadroot.json) |
 | Deadrop | 210684 | [210684-deadrop.json](./210684-deadrop.json) |
@@ -1471,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debt Deadline | 272383 | [272383-debt-deadline.json](./272383-debt-deadline.json) |
 | Debug | 190097 | [190097-debug.json](./190097-debug.json) |
 | Decadent Heir | 334217 | [334217-decadent-heir.json](./334217-decadent-heir.json) |
+| DeCalc | 62972 | [62972-decalc.json](./62972-decalc.json) |
 | Decamped | 157028 | [157028-decamped.json](./157028-decamped.json) |
 | Decathlon | 242097 | [242097-decathlon.json](./242097-decathlon.json) |
 | Decay | 122884 | [122884-decay.json](./122884-decay.json) |
@@ -4729,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonRealms | 66380 | [66380-dragonrealms.json](./66380-dragonrealms.json) |
 | Dragons and Titans | 10195 | [10195-dragons-and-titans.json](./10195-dragons-and-titans.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
+| Dragons of Elanthia | 62998 | [62998-dragons-of-elanthia.json](./62998-dragons-of-elanthia.json) |
 | Dragons of Hong Kong | 55836 | [55836-dragons-of-hong-kong.json](./55836-dragons-of-hong-kong.json) |
 | Dragons Vs Aircrafts | 101500 | [101500-dragons-vs-aircrafts.json](./101500-dragons-vs-aircrafts.json) |
 | Dragons: Titan Uprising | 123626 | [123626-dragons-titan-uprising.json](./123626-dragons-titan-uprising.json) |
@@ -4969,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamless: The Madness from the Sea | 146846 | [146846-dreamless-the-madness-from-the-sea.json](./146846-dreamless-the-madness-from-the-sea.json) |
 | Dreamlight | 151025 | [151025-dreamlight.json](./151025-dreamlight.json) |
 | Dreampainters | 360005 | [360005-dreampainters.json](./360005-dreampainters.json) |
+| DreamPark Tycoon | 63012 | [63012-dreampark-tycoon.json](./63012-dreampark-tycoon.json) |
 | Dreampath: Curse of the Swamps HD | 99378 | [99378-dreampath-curse-of-the-swamps-hd.json](./99378-dreampath-curse-of-the-swamps-hd.json) |
 | DreamPusher | 368047 | [368047-dreampusher.json](./368047-dreampusher.json) |
 | Dreamrealm's Tower of Despair | 353379 | [353379-dreamrealms-tower-of-despair.json](./353379-dreamrealms-tower-of-despair.json) |
@@ -5840,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarfs Fight | 224663 | [224663-dwarfs-fight.json](./224663-dwarfs-fight.json) |
 | Dwarrows | 25229 | [25229-dwarrows.json](./25229-dwarrows.json) |
 | Dwarven Alchemist | 382332 | [382332-dwarven-alchemist.json](./382332-dwarven-alchemist.json) |
+| Dwarven Descent | 63006 | [63006-dwarven-descent.json](./63006-dwarven-descent.json) |
 | Dwarven Destiny | 206148 | [206148-dwarven-destiny.json](./206148-dwarven-destiny.json) |
 | Dwarven Forge | 149554 | [149554-dwarven-forge.json](./149554-dwarven-forge.json) |
 | Dwarven Forge | 398335 | [398335-dwarven-forge.json](./398335-dwarven-forge.json) |
