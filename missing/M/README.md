@@ -3398,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Entertainment Pack for Windows | 78025 | [78025-microsoft-entertainment-pack-for-windows.json](./78025-microsoft-entertainment-pack-for-windows.json) |
 | Microsoft Flight Simulator | 119295 | [119295-microsoft-flight-simulator.json](./119295-microsoft-flight-simulator.json) |
 | Microsoft Flight Simulator 2000 | 788 | [788-microsoft-flight-simulator-2000.json](./788-microsoft-flight-simulator-2000.json) |
+| Microsoft Flight Simulator 2002: Professional Edition | 711 | [711-microsoft-flight-simulator-2002-professional-edition.json](./711-microsoft-flight-simulator-2002-professional-edition.json) |
 | Microsoft Flight Simulator 2004: A Century of Flight | 712 | [712-microsoft-flight-simulator-2004-a-century-of-flight.json](./712-microsoft-flight-simulator-2004-a-century-of-flight.json) |
 | Microsoft Flight Simulator 2024: World Update 20 - Japan | 370133 | [370133-microsoft-flight-simulator-2024-world-update-20-japan.json](./370133-microsoft-flight-simulator-2024-world-update-20-japan.json) |
 | Microsoft Flight Simulator 4.0: Aircraft & Scenery Designer | 84204 | [84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json](./84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json) |
@@ -3578,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midwinter | 79580 | [79580-midwinter.json](./79580-midwinter.json) |
 | MidZone | 110484 | [110484-midzone.json](./110484-midzone.json) |
 | Miffed | 180821 | [180821-miffed.json](./180821-miffed.json) |
+| MiG Alley | 789 | [789-mig-alley.json](./789-mig-alley.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
 | Might & Magic: Duel of Champions - Forgotten Wars | 52586 | [52586-might-and-magic-duel-of-champions-forgotten-wars.json](./52586-might-and-magic-duel-of-champions-forgotten-wars.json) |
 | Might & Magic: Elemental Guardians | 70707 | [70707-might-and-magic-elemental-guardians.json](./70707-might-and-magic-elemental-guardians.json) |
@@ -4365,6 +4367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Invasion Force | 70403 | [70403-mission-invasion-force.json](./70403-mission-invasion-force.json) |
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
 | Mission: Space | 264028 | [264028-mission-space.json](./264028-mission-space.json) |
+| MissionForce: CyberStorm | 792 | [792-missionforce-cyberstorm.json](./792-missionforce-cyberstorm.json) |
 | Missland 2 | 277427 | [277427-missland-2.json](./277427-missland-2.json) |
 | Missman | 295360 | [295360-missman.json](./295360-missman.json) |
 | MissPedaling Simulator | 230949 | [230949-misspedaling-simulator.json](./230949-misspedaling-simulator.json) |
