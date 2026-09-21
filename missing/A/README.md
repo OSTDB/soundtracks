@@ -4641,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroman | 91944 | [91944-astroman.json](./91944-astroman.json) |
 | AstroMiner | 119546 | [119546-astrominer.json](./119546-astrominer.json) |
 | AstroN | 91912 | [91912-astron.json](./91912-astron.json) |
+| Astron Belt | 22732 | [22732-astron-belt.json](./22732-astron-belt.json) |
 | Astronaut Simulator | 396223 | [396223-astronaut-simulator.json](./396223-astronaut-simulator.json) |
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
 | AstroNest | 19527 | [19527-astronest.json](./19527-astronest.json) |
