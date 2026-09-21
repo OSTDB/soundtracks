@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T17:03:56.202Z",
-  "total_missing": 102721,
+  "generated_at": "2026-09-21T17:17:58.120Z",
+  "total_missing": 102771,
   "games": [
     {
       "igdb_id": 176875,
@@ -1161,6 +1161,11 @@
       "igdb_id": 98429,
       "game_name": "1001-Kai-me no Aoi Tsuki",
       "file": "missing/0-9/98429-1001-kai-me-no-aoi-tsuki.json"
+    },
+    {
+      "igdb_id": 582,
+      "game_name": "101 Airborne: The Airborne Invasion of Normandy",
+      "file": "missing/0-9/582-101-airborne-the-airborne-invasion-of-normandy.json"
     },
     {
       "igdb_id": 365159,
@@ -9188,6 +9193,11 @@
       "file": "missing/A/193934-age-of-chaos-legends.json"
     },
     {
+      "igdb_id": 588,
+      "game_name": "Age of Conan: Rise of the Godslayer",
+      "file": "missing/A/588-age-of-conan-rise-of-the-godslayer.json"
+    },
+    {
       "igdb_id": 27653,
       "game_name": "Age of Conan: Secrets of Dragon's Spine",
       "file": "missing/A/27653-age-of-conan-secrets-of-dragons-spine.json"
@@ -10646,6 +10656,11 @@
       "igdb_id": 68967,
       "game_name": "Airstrike II",
       "file": "missing/A/68967-airstrike-ii.json"
+    },
+    {
+      "igdb_id": 593,
+      "game_name": "Airstrike II: Gulf Thunder",
+      "file": "missing/A/593-airstrike-ii-gulf-thunder.json"
     },
     {
       "igdb_id": 65781,
@@ -13628,6 +13643,11 @@
       "file": "missing/A/198489-allboomgame.json"
     },
     {
+      "igdb_id": 595,
+      "game_name": "Allegiance",
+      "file": "missing/A/595-allegiance.json"
+    },
+    {
       "igdb_id": 339094,
       "game_name": "Allegro Molto wo Hakobu Game",
       "file": "missing/A/339094-allegro-molto-wo-hakobu-game.json"
@@ -16366,6 +16386,11 @@
       "igdb_id": 1996,
       "game_name": "Anarchy Online",
       "file": "missing/A/1996-anarchy-online.json"
+    },
+    {
+      "igdb_id": 598,
+      "game_name": "Anarchy Online: Shadowlands",
+      "file": "missing/A/598-anarchy-online-shadowlands.json"
     },
     {
       "igdb_id": 262655,
@@ -20176,6 +20201,11 @@
       "igdb_id": 146296,
       "game_name": "Ape Escape",
       "file": "missing/A/146296-ape-escape.json"
+    },
+    {
+      "igdb_id": 511,
+      "game_name": "Ape Escape 4",
+      "file": "missing/A/511-ape-escape-4.json"
     },
     {
       "igdb_id": 272555,
@@ -38908,6 +38938,11 @@
       "file": "missing/B/174893-battlefield-mobile.json"
     },
     {
+      "igdb_id": 353,
+      "game_name": "Battlefield Online",
+      "file": "missing/B/353-battlefield-online.json"
+    },
+    {
       "igdb_id": 211427,
       "game_name": "Battlefield Priest",
       "file": "missing/B/211427-battlefield-priest.json"
@@ -38986,6 +39021,21 @@
       "igdb_id": 147923,
       "game_name": "Battleground",
       "file": "missing/B/147923-battleground.json"
+    },
+    {
+      "igdb_id": 608,
+      "game_name": "Battleground 3: Waterloo",
+      "file": "missing/B/608-battleground-3-waterloo.json"
+    },
+    {
+      "igdb_id": 609,
+      "game_name": "Battleground 4: Shiloh",
+      "file": "missing/B/609-battleground-4-shiloh.json"
+    },
+    {
+      "igdb_id": 610,
+      "game_name": "Battleground 5: Antietam",
+      "file": "missing/B/610-battleground-5-antietam.json"
     },
     {
       "igdb_id": 77287,
@@ -39121,6 +39171,11 @@
       "igdb_id": 370135,
       "game_name": "Battles Game",
       "file": "missing/B/370135-battles-game.json"
+    },
+    {
+      "igdb_id": 611,
+      "game_name": "Battles in Normandy",
+      "file": "missing/B/611-battles-in-normandy.json"
     },
     {
       "igdb_id": 69826,
@@ -43786,6 +43841,11 @@
       "igdb_id": 34803,
       "game_name": "Big Journey to Home",
       "file": "missing/B/34803-big-journey-to-home.json"
+    },
+    {
+      "igdb_id": 615,
+      "game_name": "Big Kahuna Reef",
+      "file": "missing/B/615-big-kahuna-reef.json"
     },
     {
       "igdb_id": 205122,
@@ -65903,6 +65963,11 @@
       "file": "missing/C/78637-cart-fury-championship-racing.json"
     },
     {
+      "igdb_id": 627,
+      "game_name": "Cart Precision Racing",
+      "file": "missing/C/627-cart-precision-racing.json"
+    },
+    {
       "igdb_id": 388046,
       "game_name": "Cartagra: First Press Limited Edition",
       "file": "missing/C/388046-cartagra-first-press-limited-edition.json"
@@ -70643,6 +70708,11 @@
       "file": "missing/C/159864-chaos-of-fallen-city.json"
     },
     {
+      "igdb_id": 629,
+      "game_name": "Chaos Overlords",
+      "file": "missing/C/629-chaos-overlords.json"
+    },
+    {
       "igdb_id": 139410,
       "game_name": "Chaos Party",
       "file": "missing/C/139410-chaos-party.json"
@@ -72021,6 +72091,11 @@
       "igdb_id": 343921,
       "game_name": "Chessmaster",
       "file": "missing/C/343921-chessmaster.json"
+    },
+    {
+      "igdb_id": 631,
+      "game_name": "Chessmaster 5500",
+      "file": "missing/C/631-chessmaster-5500.json"
     },
     {
       "igdb_id": 15880,
@@ -78028,6 +78103,21 @@
       "file": "missing/C/288337-close-cities.json"
     },
     {
+      "igdb_id": 637,
+      "game_name": "Close Combat",
+      "file": "missing/C/637-close-combat.json"
+    },
+    {
+      "igdb_id": 638,
+      "game_name": "Close Combat III: The Russian Front",
+      "file": "missing/C/638-close-combat-iii-the-russian-front.json"
+    },
+    {
+      "igdb_id": 639,
+      "game_name": "Close Combat: A Bridge Too Far",
+      "file": "missing/C/639-close-combat-a-bridge-too-far.json"
+    },
+    {
       "igdb_id": 149923,
       "game_name": "Close Contact",
       "file": "missing/C/149923-close-contact.json"
@@ -81218,6 +81308,11 @@
       "file": "missing/C/36321-coma-mortuary.json"
     },
     {
+      "igdb_id": 643,
+      "game_name": "Comanche 3",
+      "file": "missing/C/643-comanche-3.json"
+    },
+    {
       "igdb_id": 94240,
       "game_name": "Comanche: Maximum Overkill - Mission Disk 1",
       "file": "missing/C/94240-comanche-maximum-overkill-mission-disk-1.json"
@@ -81333,6 +81428,11 @@
       "file": "missing/C/318437-combat-master-season-1.json"
     },
     {
+      "igdb_id": 645,
+      "game_name": "Combat Mission 2",
+      "file": "missing/C/645-combat-mission-2.json"
+    },
+    {
       "igdb_id": 78011,
       "game_name": "Combat Mission Anthology",
       "file": "missing/C/78011-combat-mission-anthology.json"
@@ -81346,6 +81446,11 @@
       "igdb_id": 21263,
       "game_name": "Combat Mission Shock Force: Marines",
       "file": "missing/C/21263-combat-mission-shock-force-marines.json"
+    },
+    {
+      "igdb_id": 646,
+      "game_name": "Combat Mission: Beyond Overlord",
+      "file": "missing/C/646-combat-mission-beyond-overlord.json"
     },
     {
       "igdb_id": 77292,
@@ -97638,6 +97743,11 @@
       "file": "missing/D/73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json"
     },
     {
+      "igdb_id": 658,
+      "game_name": "Dark Reign: The Future of War - Rise of the Shadowhand",
+      "file": "missing/D/658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json"
+    },
+    {
       "igdb_id": 310577,
       "game_name": "Dark Ride Escape",
       "file": "missing/D/310577-dark-ride-escape.json"
@@ -102591,6 +102701,11 @@
       "igdb_id": 25923,
       "game_name": "Decision in the Desert",
       "file": "missing/D/25923-decision-in-the-desert.json"
+    },
+    {
+      "igdb_id": 768,
+      "game_name": "Decisive Battles of WWII: Korsun Pocket",
+      "file": "missing/D/768-decisive-battles-of-wwii-korsun-pocket.json"
     },
     {
       "igdb_id": 33205,
@@ -135923,6 +136038,11 @@
       "file": "missing/E/70128-european-2.json"
     },
     {
+      "igdb_id": 685,
+      "game_name": "European Air War",
+      "file": "missing/E/685-european-air-war.json"
+    },
+    {
       "igdb_id": 291229,
       "game_name": "European Card Wars",
       "file": "missing/E/291229-european-card-wars.json"
@@ -139218,6 +139338,11 @@
       "file": "missing/F/49931-f-18-thunder-strike.json"
     },
     {
+      "igdb_id": 693,
+      "game_name": "F-22 Air Dominance Fighter",
+      "file": "missing/F/693-f-22-air-dominance-fighter.json"
+    },
+    {
       "igdb_id": 19494,
       "game_name": "F-22 Interceptor",
       "file": "missing/F/19494-f-22-interceptor.json"
@@ -139413,6 +139538,11 @@
       "file": "missing/F/12081-f-a-18-interceptor.json"
     },
     {
+      "igdb_id": 688,
+      "game_name": "F/A-18 Korea",
+      "file": "missing/F/688-f-a-18-korea.json"
+    },
+    {
       "igdb_id": 84201,
       "game_name": "F/A-18E Super Hornet: The Albanian Campaign",
       "file": "missing/F/84201-f-a-18e-super-hornet-the-albanian-campaign.json"
@@ -139561,6 +139691,11 @@
       "igdb_id": 137653,
       "game_name": "F1 Racing Championship 2",
       "file": "missing/F/137653-f1-racing-championship-2.json"
+    },
+    {
+      "igdb_id": 691,
+      "game_name": "F1 Racing Simulation",
+      "file": "missing/F/691-f1-racing-simulation.json"
     },
     {
       "igdb_id": 42572,
@@ -140616,6 +140751,11 @@
       "igdb_id": 33853,
       "game_name": "Falcon 4.0",
       "file": "missing/F/33853-falcon-4-0.json"
+    },
+    {
+      "igdb_id": 695,
+      "game_name": "Falcon 4.0: Allied Force",
+      "file": "missing/F/695-falcon-4-0-allied-force.json"
     },
     {
       "igdb_id": 286123,
@@ -147433,6 +147573,11 @@
       "file": "missing/F/255774-final-fantasy-xi-vision-of-abyssea.json"
     },
     {
+      "igdb_id": 402,
+      "game_name": "Final Fantasy XI: Wings of the Goddess",
+      "file": "missing/F/402-final-fantasy-xi-wings-of-the-goddess.json"
+    },
+    {
       "igdb_id": 386,
       "game_name": "Final Fantasy XIV Online",
       "file": "missing/F/386-final-fantasy-xiv-online.json"
@@ -151333,6 +151478,11 @@
       "file": "missing/F/114159-flash-point.json"
     },
     {
+      "igdb_id": 710,
+      "game_name": "Flash Point Korea: AH-64D Longbow",
+      "file": "missing/F/710-flash-point-korea-ah-64d-longbow.json"
+    },
+    {
       "igdb_id": 49378,
       "game_name": "Flashback Legend",
       "file": "missing/F/49378-flashback-legend.json"
@@ -151946,6 +152096,16 @@
       "igdb_id": 87550,
       "game_name": "Flight Unlimited 2K17",
       "file": "missing/F/87550-flight-unlimited-2k17.json"
+    },
+    {
+      "igdb_id": 714,
+      "game_name": "Flight Unlimited II",
+      "file": "missing/F/714-flight-unlimited-ii.json"
+    },
+    {
+      "igdb_id": 715,
+      "game_name": "Flight Unlimited III",
+      "file": "missing/F/715-flight-unlimited-iii.json"
     },
     {
       "igdb_id": 395670,
@@ -186978,6 +187138,11 @@
       "file": "missing/H/26704-heavy-gear-assault.json"
     },
     {
+      "igdb_id": 742,
+      "game_name": "Heavy Gear II",
+      "file": "missing/H/742-heavy-gear-ii.json"
+    },
+    {
       "igdb_id": 100191,
       "game_name": "Heavy Gear III",
       "file": "missing/H/100191-heavy-gear-iii.json"
@@ -191623,6 +191788,11 @@
       "file": "missing/H/68621-hexement.json"
     },
     {
+      "igdb_id": 745,
+      "game_name": "Hexen II Mission Pack: Portal of Praevus",
+      "file": "missing/H/745-hexen-ii-mission-pack-portal-of-praevus.json"
+    },
+    {
       "igdb_id": 340469,
       "game_name": "HexenHold",
       "file": "missing/H/340469-hexenhold.json"
@@ -193133,6 +193303,11 @@
       "file": "missing/H/277011-high-fructose.json"
     },
     {
+      "igdb_id": 746,
+      "game_name": "High Heat Baseball 2000",
+      "file": "missing/H/746-high-heat-baseball-2000.json"
+    },
+    {
       "igdb_id": 248754,
       "game_name": "High Heat Major League Baseball 2002",
       "file": "missing/H/248754-high-heat-major-league-baseball-2002.json"
@@ -194046,6 +194221,11 @@
       "igdb_id": 42215,
       "game_name": "Hind Strike",
       "file": "missing/H/42215-hind-strike.json"
+    },
+    {
+      "igdb_id": 747,
+      "game_name": "HIND: The Russian Combat Helicopter Simulation",
+      "file": "missing/H/747-hind-the-russian-combat-helicopter-simulation.json"
     },
     {
       "igdb_id": 194557,
@@ -198516,6 +198696,11 @@
       "igdb_id": 21256,
       "game_name": "Hotel for Dogs",
       "file": "missing/H/21256-hotel-for-dogs.json"
+    },
+    {
+      "igdb_id": 292,
+      "game_name": "Hotel Giant",
+      "file": "missing/H/292-hotel-giant.json"
     },
     {
       "igdb_id": 53200,
@@ -205701,6 +205886,11 @@
       "igdb_id": 755,
       "game_name": "IL-2 Sturmovik: Forgotten Battles",
       "file": "missing/I/755-il-2-sturmovik-forgotten-battles.json"
+    },
+    {
+      "igdb_id": 756,
+      "game_name": "IL-2 Sturmovik: Forgotten Battles - Ace",
+      "file": "missing/I/756-il-2-sturmovik-forgotten-battles-ace.json"
     },
     {
       "igdb_id": 272376,
@@ -214178,6 +214368,16 @@
       "file": "missing/J/94690-jack-nicklaus-4.json"
     },
     {
+      "igdb_id": 761,
+      "game_name": "Jack Nicklaus 5",
+      "file": "missing/J/761-jack-nicklaus-5.json"
+    },
+    {
+      "igdb_id": 762,
+      "game_name": "Jack Nicklaus 6: Golden Bear Challenge",
+      "file": "missing/J/762-jack-nicklaus-6-golden-bear-challenge.json"
+    },
+    {
       "igdb_id": 18101,
       "game_name": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf",
       "file": "missing/J/18101-jack-nicklaus-greatest-18-holes-of-major-championship-golf.json"
@@ -214891,6 +215091,11 @@
       "igdb_id": 72071,
       "game_name": "Jane's Combat Simulations: Israeli Air Force",
       "file": "missing/J/72071-janes-combat-simulations-israeli-air-force.json"
+    },
+    {
+      "igdb_id": 687,
+      "game_name": "Jane's F/A-18",
+      "file": "missing/J/687-janes-f-a-18.json"
     },
     {
       "igdb_id": 20549,
@@ -219191,6 +219396,11 @@
       "igdb_id": 94708,
       "game_name": "Jumpgate Evolution",
       "file": "missing/J/94708-jumpgate-evolution.json"
+    },
+    {
+      "igdb_id": 765,
+      "game_name": "Jumpgate: The Reconstruction Initiative",
+      "file": "missing/J/765-jumpgate-the-reconstruction-initiative.json"
     },
     {
       "igdb_id": 108291,
@@ -240123,6 +240333,11 @@
       "file": "missing/L/34467-linkrealms.json"
     },
     {
+      "igdb_id": 770,
+      "game_name": "Links 2001",
+      "file": "missing/L/770-links-2001.json"
+    },
+    {
       "igdb_id": 153464,
       "game_name": "Links E6: Course Pack 1",
       "file": "missing/L/153464-links-e6-course-pack-1.json"
@@ -240131,6 +240346,16 @@
       "igdb_id": 153465,
       "game_name": "Links E6: Course Pack 3",
       "file": "missing/L/153465-links-e6-course-pack-3.json"
+    },
+    {
+      "igdb_id": 772,
+      "game_name": "Links LS 1999",
+      "file": "missing/L/772-links-ls-1999.json"
+    },
+    {
+      "igdb_id": 771,
+      "game_name": "Links LS: 1998 Edition",
+      "file": "missing/L/771-links-ls-1998-edition.json"
     },
     {
       "igdb_id": 71555,
@@ -264663,6 +264888,11 @@
       "file": "missing/M/788-microsoft-flight-simulator-2000.json"
     },
     {
+      "igdb_id": 711,
+      "game_name": "Microsoft Flight Simulator 2002: Professional Edition",
+      "file": "missing/M/711-microsoft-flight-simulator-2002-professional-edition.json"
+    },
+    {
       "igdb_id": 712,
       "game_name": "Microsoft Flight Simulator 2004: A Century of Flight",
       "file": "missing/M/712-microsoft-flight-simulator-2004-a-century-of-flight.json"
@@ -265561,6 +265791,11 @@
       "igdb_id": 180821,
       "game_name": "Miffed",
       "file": "missing/M/180821-miffed.json"
+    },
+    {
+      "igdb_id": 789,
+      "game_name": "MiG Alley",
+      "file": "missing/M/789-mig-alley.json"
     },
     {
       "igdb_id": 229931,
@@ -269496,6 +269731,11 @@
       "igdb_id": 264028,
       "game_name": "Mission: Space",
       "file": "missing/M/264028-mission-space.json"
+    },
+    {
+      "igdb_id": 792,
+      "game_name": "MissionForce: CyberStorm",
+      "file": "missing/M/792-missionforce-cyberstorm.json"
     },
     {
       "igdb_id": 277427,
@@ -328218,6 +328458,11 @@
       "file": "missing/P/229791-pretty-visitors.json"
     },
     {
+      "igdb_id": 525,
+      "game_name": "Prey 2",
+      "file": "missing/P/525-prey-2.json"
+    },
+    {
       "igdb_id": 325626,
       "game_name": "Prey of the Night",
       "file": "missing/P/325626-prey-of-the-night.json"
@@ -377381,6 +377626,11 @@
       "igdb_id": 459,
       "game_name": "Simon the Sorcerer",
       "file": "missing/S/459-simon-the-sorcerer.json"
+    },
+    {
+      "igdb_id": 463,
+      "game_name": "Simon the Sorcerer 5: Who'd Even Want Contact?!",
+      "file": "missing/S/463-simon-the-sorcerer-5-whod-even-want-contact.json"
     },
     {
       "igdb_id": 460,
