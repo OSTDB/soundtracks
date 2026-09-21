@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Star: Chapter 2 | 168842 | [168842-ice-star-chapter-2.json](./168842-ice-star-chapter-2.json) |
 | Ice Sugar | 189119 | [189119-ice-sugar.json](./189119-ice-sugar.json) |
 | Ice Survival | 270783 | [270783-ice-survival.json](./270783-ice-survival.json) |
+| Ice Trek | 18590 | [18590-ice-trek.json](./18590-ice-trek.json) |
 | Ice World: The Frozen Age | 314882 | [314882-ice-world-the-frozen-age.json](./314882-ice-world-the-frozen-age.json) |
 | Ice-Story | 130886 | [130886-ice-story.json](./130886-ice-story.json) |
 | Ice! | 370207 | [370207-ice.json](./370207-ice.json) |
@@ -1142,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industry Giant 4.0 | 284886 | [284886-industry-giant-4-0.json](./284886-industry-giant-4-0.json) |
 | Industry Giant: Expansion Set | 100137 | [100137-industry-giant-expansion-set.json](./100137-industry-giant-expansion-set.json) |
 | IndustryPlayer | 79239 | [79239-industryplayer.json](./79239-industryplayer.json) |
+| Indy 4 | 18583 | [18583-indy-4.json](./18583-indy-4.json) |
 | Indy Cat and Ball of Fate | 59449 | [59449-indy-cat-and-ball-of-fate.json](./59449-indy-cat-and-ball-of-fate.json) |
 | Indy Pro '22: Rebirth of the Territories | 195633 | [195633-indy-pro-22-rebirth-of-the-territories.json](./195633-indy-pro-22-rebirth-of-the-territories.json) |
 | IndyCar Racing | 77644 | [77644-indycar-racing.json](./77644-indycar-racing.json) |
