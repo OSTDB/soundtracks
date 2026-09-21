@@ -3404,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Castle | 399717 | [399717-silent-castle.json](./399717-silent-castle.json) |
 | Silent Cause | 287238 | [287238-silent-cause.json](./287238-silent-cause.json) |
 | Silent Depth 2: Pacific | 272932 | [272932-silent-depth-2-pacific.json](./272932-silent-depth-2-pacific.json) |
+| Silent Dragon US | 39850 | [39850-silent-dragon-us.json](./39850-silent-dragon-us.json) |
 | Silent Escape: Induction | 127945 | [127945-silent-escape-induction.json](./127945-silent-escape-induction.json) |
 | Silent Fangs: Stealthy Vampire's Tale | 371264 | [371264-silent-fangs-stealthy-vampires-tale.json](./371264-silent-fangs-stealthy-vampires-tale.json) |
 | Silent Frontiers | 304606 | [304606-silent-frontiers.json](./304606-silent-frontiers.json) |
@@ -5053,7 +5054,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Battle Princess Sayuki | 191180 | [191180-snow-battle-princess-sayuki.json](./191180-snow-battle-princess-sayuki.json) |
 | Snow Blocks 2 | 272929 | [272929-snow-blocks-2.json](./272929-snow-blocks-2.json) |
 | Snow Break | 94210 | [94210-snow-break.json](./94210-snow-break.json) |
+| Snow Bros. 2: With New Elves | 39842 | [39842-snow-bros-2-with-new-elves.json](./39842-snow-bros-2-with-new-elves.json) |
 | Snow Bros. Wonderland | 309256 | [309256-snow-bros-wonderland.json](./309256-snow-bros-wonderland.json) |
+| Snow Brothers 3: Magical Adventure | 39841 | [39841-snow-brothers-3-magical-adventure.json](./39841-snow-brothers-3-magical-adventure.json) |
 | Snow Cone | 341474 | [341474-snow-cone.json](./341474-snow-cone.json) |
 | Snow Day: The GapKids Quest | 73548 | [73548-snow-day-the-gapkids-quest.json](./73548-snow-day-the-gapkids-quest.json) |
 | Snow Drop | 71444 | [71444-snow-drop.json](./71444-snow-drop.json) |
@@ -5198,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer America International Cup | 43307 | [43307-soccer-america-international-cup.json](./43307-soccer-america-international-cup.json) |
 | Soccer Battle Royale | 108973 | [108973-soccer-battle-royale.json](./108973-soccer-battle-royale.json) |
 | Soccer Boss | 190209 | [190209-soccer-boss.json](./190209-soccer-boss.json) |
+| Soccer Brawl | 39843 | [39843-soccer-brawl.json](./39843-soccer-brawl.json) |
 | Soccer But Different | 209666 | [209666-soccer-but-different.json](./209666-soccer-but-different.json) |
 | Soccer Championship | 108468 | [108468-soccer-championship.json](./108468-soccer-championship.json) |
 | Soccer Club Story | 92485 | [92485-soccer-club-story.json](./92485-soccer-club-story.json) |
@@ -6249,6 +6253,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Slide | 114378 | [114378-sound-slide.json](./114378-sound-slide.json) |
 | Sound Soarer | 74357 | [74357-sound-soarer.json](./74357-sound-soarer.json) |
 | Sound Voltex Booth | 64128 | [64128-sound-voltex-booth.json](./64128-sound-voltex-booth.json) |
+| Sound Voltex II: Infinite Infection | 39859 | [39859-sound-voltex-ii-infinite-infection.json](./39859-sound-voltex-ii-infinite-infection.json) |
+| Sound Voltex III: Gravity Wars | 39883 | [39883-sound-voltex-iii-gravity-wars.json](./39883-sound-voltex-iii-gravity-wars.json) |
 | Sound Voltex IV: Heavenly Haven | 79244 | [79244-sound-voltex-iv-heavenly-haven.json](./79244-sound-voltex-iv-heavenly-haven.json) |
 | Sound Voltex: Ultimate Mobile | 197332 | [197332-sound-voltex-ultimate-mobile.json](./197332-sound-voltex-ultimate-mobile.json) |
 | Sound Voltex: Vivid Wave | 126031 | [126031-sound-voltex-vivid-wave.json](./126031-sound-voltex-vivid-wave.json) |
