@@ -2105,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards & Warriors | 80498 | [80498-wizards-and-warriors.json](./80498-wizards-and-warriors.json) |
 | Wizards & Warriors III: Kuros - Visions of Power | 48092 | [48092-wizards-and-warriors-iii-kuros-visions-of-power.json](./48092-wizards-and-warriors-iii-kuros-visions-of-power.json) |
 | Wizards and Warlords | 30132 | [30132-wizards-and-warlords.json](./30132-wizards-and-warlords.json) |
+| Wizards and Warp Drives | 63538 | [63538-wizards-and-warp-drives.json](./63538-wizards-and-warp-drives.json) |
 | Wizards Legacy: Nightmare Park Manager Simulator | 261345 | [261345-wizards-legacy-nightmare-park-manager-simulator.json](./261345-wizards-legacy-nightmare-park-manager-simulator.json) |
 | Wizards Spell | 73834 | [73834-wizards-spell.json](./73834-wizards-spell.json) |
 | Wizards Tourney | 109438 | [109438-wizards-tourney.json](./109438-wizards-tourney.json) |
@@ -2439,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words for a bird | 134692 | [134692-words-for-a-bird.json](./134692-words-for-a-bird.json) |
 | Words for Evil | 36107 | [36107-words-for-evil.json](./36107-words-for-evil.json) |
 | Words Guesser | 314664 | [314664-words-guesser.json](./314664-words-guesser.json) |
+| Words in Space | 63557 | [63557-words-in-space.json](./63557-words-in-space.json) |
 | Words Inc - Endless Vocabulary Definition Competition | 99411 | [99411-words-inc-endless-vocabulary-definition-competition.json](./99411-words-inc-endless-vocabulary-definition-competition.json) |
 | Words N Words | 240345 | [240345-words-n-words.json](./240345-words-n-words.json) |
 | Words of Fate | 83259 | [83259-words-of-fate.json](./83259-words-of-fate.json) |
