@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss World | 235746 | [235746-abyss-world.json](./235746-abyss-world.json) |
 | Abyss: House | 356070 | [356070-abyss-house.json](./356070-abyss-house.json) |
 | Abyss: New Dawn | 283878 | [283878-abyss-new-dawn.json](./283878-abyss-new-dawn.json) |
+| Abyss: The Wraiths of Eden | 17136 | [17136-abyss-the-wraiths-of-eden.json](./17136-abyss-the-wraiths-of-eden.json) |
 | Abyssal | 249850 | [249850-abyssal.json](./249850-abyssal.json) |
 | Abyssal | 308956 | [308956-abyssal.json](./308956-abyssal.json) |
 | Abyssal | 385571 | [385571-abyssal.json](./385571-abyssal.json) |
@@ -1011,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Heroes II: Underground Horror | 320973 | [320973-age-of-heroes-ii-underground-horror.json](./320973-age-of-heroes-ii-underground-horror.json) |
 | Age of Heroes: The Beginning | 187985 | [187985-age-of-heroes-the-beginning.json](./187985-age-of-heroes-the-beginning.json) |
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
+| Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
 | Age of Sokoban | 152157 | [152157-age-of-sokoban.json](./152157-age-of-sokoban.json) |
 | Age of Talisman | 26954 | [26954-age-of-talisman.json](./26954-age-of-talisman.json) |
 | Age of Time | 254542 | [254542-age-of-time.json](./254542-age-of-time.json) |
@@ -1198,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
 | Airborne Empire | 252769 | [252769-airborne-empire.json](./252769-airborne-empire.json) |
 | Airborne Justice | 321533 | [321533-airborne-justice.json](./321533-airborne-justice.json) |
+| Airborne Kingdom | 115473 | [115473-airborne-kingdom.json](./115473-airborne-kingdom.json) |
 | Airborne Kingdom: Deluxe Edition | 216228 | [216228-airborne-kingdom-deluxe-edition.json](./216228-airborne-kingdom-deluxe-edition.json) |
 | Airborne Ranger | 11891 | [11891-airborne-ranger.json](./11891-airborne-ranger.json) |
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
@@ -1952,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the School | 302385 | [302385-alone-in-the-school.json](./302385-alone-in-the-school.json) |
 | Alone on Mars | 165544 | [165544-alone-on-mars.json](./165544-alone-on-mars.json) |
 | Alone To Melt | 365753 | [365753-alone-to-melt.json](./365753-alone-to-melt.json) |
+| Alone With You | 8635 | [8635-alone-with-you.json](./8635-alone-with-you.json) |
 | Alone Without Her | 19380 | [19380-alone-without-her.json](./19380-alone-without-her.json) |
 | Alone: Cold Winter | 239202 | [239202-alone-cold-winter.json](./239202-alone-cold-winter.json) |
 | Alone: Mnemophobia | 377076 | [377076-alone-mnemophobia.json](./377076-alone-mnemophobia.json) |
@@ -4766,6 +4770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrox Imperium | 115500 | [115500-astrox-imperium.json](./115500-astrox-imperium.json) |
 | Astrozombies | 138617 | [138617-astrozombies.json](./138617-astrozombies.json) |
 | Astrune Academy | 303834 | [303834-astrune-academy.json](./303834-astrune-academy.json) |
+| Astyanax | 9036 | [9036-astyanax.json](./9036-astyanax.json) |
 | Asu Kano! Asu mo Kanojo to Issho! | 209141 | [209141-asu-kano-asu-mo-kanojo-to-issho.json](./209141-asu-kano-asu-mo-kanojo-to-issho.json) |
 | Asu Owaru Sekai, Sono Zenya | 255325 | [255325-asu-owaru-sekai-sono-zenya.json](./255325-asu-owaru-sekai-sono-zenya.json) |
 | Asuka 120% Burning Fest. Exallent | 382789 | [382789-asuka-120-burning-fest-exallent.json](./382789-asuka-120-burning-fest-exallent.json) |
@@ -4885,6 +4890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Yumia: The Art of Aladiss Expansion Pack | 356745 | [356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json](./356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json) |
 | Atelier: The Alchemist of Arland 1-2-3 DX - Premium Box | 167138 | [167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json](./167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
+| Athena | 9052 | [9052-athena.json](./9052-athena.json) |
 | Athena Cykes: Ace Attorney - Dark Ace Saga | 308427 | [308427-athena-cykes-ace-attorney-dark-ace-saga.json](./308427-athena-cykes-ace-attorney-dark-ace-saga.json) |
 | Athena Cykes: Ace Attorney - Trials of time. | 305191 | [305191-athena-cykes-ace-attorney-trials-of-time.json](./305191-athena-cykes-ace-attorney-trials-of-time.json) |
 | Athena no Kateiban: Family Games | 285988 | [285988-athena-no-kateiban-family-games.json](./285988-athena-no-kateiban-family-games.json) |
