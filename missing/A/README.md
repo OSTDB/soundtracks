@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in Odyssey! The Sword of the Spirit | 66066 | [66066-adventures-in-odyssey-the-sword-of-the-spirit.json](./66066-adventures-in-odyssey-the-sword-of-the-spirit.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
+| Adventures of Beetlejuice: Skeletons in the Closet | 50826 | [50826-adventures-of-beetlejuice-skeletons-in-the-closet.json](./50826-adventures-of-beetlejuice-skeletons-in-the-closet.json) |
 | Adventures of Bruce | 141228 | [141228-adventures-of-bruce.json](./141228-adventures-of-bruce.json) |
 | Adventures of DaKoo the Dragon | 214026 | [214026-adventures-of-dakoo-the-dragon.json](./214026-adventures-of-dakoo-the-dragon.json) |
 | Adventures of Deliveryman | 267481 | [267481-adventures-of-deliveryman.json](./267481-adventures-of-deliveryman.json) |
@@ -903,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterblast | 164434 | [164434-afterblast.json](./164434-afterblast.json) |
 | Afterbright | 357794 | [357794-afterbright.json](./357794-afterbright.json) |
 | Aftercare Sessions | 322175 | [322175-aftercare-sessions.json](./322175-aftercare-sessions.json) |
+| AfterFall: Insanity - Dirty Arena Edition | 50832 | [50832-afterfall-insanity-dirty-arena-edition.json](./50832-afterfall-insanity-dirty-arena-edition.json) |
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
 | Afterlife Beans | 164979 | [164979-afterlife-beans.json](./164979-afterlife-beans.json) |
 | Afterlife Harem | 316822 | [316822-afterlife-harem.json](./316822-afterlife-harem.json) |
@@ -1597,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shepherd | 190200 | [190200-alien-shepherd.json](./190200-alien-shepherd.json) |
 | Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
 | Alien Shooter 3D | 152770 | [152770-alien-shooter-3d.json](./152770-alien-shooter-3d.json) |
+| Alien Shooter: Revisted | 50844 | [50844-alien-shooter-revisted.json](./50844-alien-shooter-revisted.json) |
 | Alien Shooter: The Experiment | 11090 | [11090-alien-shooter-the-experiment.json](./11090-alien-shooter-the-experiment.json) |
 | Alien Slayer | 275099 | [275099-alien-slayer.json](./275099-alien-slayer.json) |
 | Alien Slayers | 233772 | [233772-alien-slayers.json](./233772-alien-slayers.json) |
