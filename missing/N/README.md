@@ -62,6 +62,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nak Sim: Fallen Warriors | 153380 | [153380-nak-sim-fallen-warriors.json](./153380-nak-sim-fallen-warriors.json) |
 | Nakadashi Banzai 4 | 163920 | [163920-nakadashi-banzai-4.json](./163920-nakadashi-banzai-4.json) |
 | Nakajima Satoru F-1 Hero GB: World Championship '91 | 94204 | [94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json](./94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json) |
+| Nakajima Satoru: F-1 Hero | 48302 | [48302-nakajima-satoru-f-1-hero.json](./48302-nakajima-satoru-f-1-hero.json) |
+| Nakajima Satoru: F-1 Hero 2 | 48301 | [48301-nakajima-satoru-f-1-hero-2.json](./48301-nakajima-satoru-f-1-hero-2.json) |
 | Nakamers: La Huida | 305946 | [305946-nakamers-la-huida.json](./305946-nakamers-la-huida.json) |
 | Nakamon | 392129 | [392129-nakamon.json](./392129-nakamon.json) |
 | Nakamoto | 60237 | [60237-nakamoto.json](./60237-nakamoto.json) |
@@ -1983,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition | 307124 | [307124-nobunagas-ambition.json](./307124-nobunagas-ambition.json) |
 | Nobunaga's Ambition | 307131 | [307131-nobunagas-ambition.json](./307131-nobunagas-ambition.json) |
 | Nobunaga's Ambition II | 307125 | [307125-nobunagas-ambition-ii.json](./307125-nobunagas-ambition-ii.json) |
+| Nobunaga's Ambition II | 48287 | [48287-nobunagas-ambition-ii.json](./48287-nobunagas-ambition-ii.json) |
 | Nobunaga's Ambition Mobile | 131367 | [131367-nobunagas-ambition-mobile.json](./131367-nobunagas-ambition-mobile.json) |
 | Nobunaga's Ambition: Awakening - Scenario "Brotherly Revolt" | 294852 | [294852-nobunagas-ambition-awakening-scenario-brotherly-revolt.json](./294852-nobunagas-ambition-awakening-scenario-brotherly-revolt.json) |
 | Nobunaga's Ambition: Awakening - Scenario: Battle of Komaki-Nagakute | 283260 | [283260-nobunagas-ambition-awakening-scenario-battle-of-komaki-nagakute.json](./283260-nobunagas-ambition-awakening-scenario-battle-of-komaki-nagakute.json) |
