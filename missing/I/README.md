@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperi | 75791 | [75791-imperi.json](./75791-imperi.json) |
 | Imperi II | 100591 | [100591-imperi-ii.json](./100591-imperi-ii.json) |
 | Imperial Destiny: Path of Gold | 231939 | [231939-imperial-destiny-path-of-gold.json](./231939-imperial-destiny-path-of-gold.json) |
+| Imperial Glory | 9059 | [9059-imperial-glory.json](./9059-imperial-glory.json) |
 | Imperial Grace | 159717 | [159717-imperial-grace.json](./159717-imperial-grace.json) |
 | Imperial Hero | 58747 | [58747-imperial-hero.json](./58747-imperial-hero.json) |
 | Imperial Island 5: Ski Resort | 294858 | [294858-imperial-island-5-ski-resort.json](./294858-imperial-island-5-ski-resort.json) |
