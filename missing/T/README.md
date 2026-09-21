@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Bowl | 198937 | [198937-tecmo-bowl.json](./198937-tecmo-bowl.json) |
 | Tecmo Bowl NCAA 2017 | 48895 | [48895-tecmo-bowl-ncaa-2017.json](./48895-tecmo-bowl-ncaa-2017.json) |
 | Tecmo Bowl: Kickoff | 264889 | [264889-tecmo-bowl-kickoff.json](./264889-tecmo-bowl-kickoff.json) |
+| Tecmo Secret of the Stars | 15893 | [15893-tecmo-secret-of-the-stars.json](./15893-tecmo-secret-of-the-stars.json) |
 | Tecmo Stackers | 43939 | [43939-tecmo-stackers.json](./43939-tecmo-stackers.json) |
 | Tecmo Super Baseball | 46246 | [46246-tecmo-super-baseball.json](./46246-tecmo-super-baseball.json) |
 | Tecmo Super Bowl | 237471 | [237471-tecmo-super-bowl.json](./237471-tecmo-super-bowl.json) |
@@ -2476,6 +2477,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cheetah Girls: Passport to Stardom | 117498 | [117498-the-cheetah-girls-passport-to-stardom.json](./117498-the-cheetah-girls-passport-to-stardom.json) |
 | The Chef | 71238 | [71238-the-chef.json](./71238-the-chef.json) |
 | The Chess | 351729 | [351729-the-chess.json](./351729-the-chess.json) |
+| The Chessmaster 3-D | 15879 | [15879-the-chessmaster-3-d.json](./15879-the-chessmaster-3-d.json) |
+| The Chessmaster 3000 | 15876 | [15876-the-chessmaster-3000.json](./15876-the-chessmaster-3000.json) |
+| The Chessmaster 4000 | 15877 | [15877-the-chessmaster-4000.json](./15877-the-chessmaster-4000.json) |
+| The Chessmaster 4000 Turbo | 15878 | [15878-the-chessmaster-4000-turbo.json](./15878-the-chessmaster-4000-turbo.json) |
 | The Chewllers | 151686 | [151686-the-chewllers.json](./151686-the-chewllers.json) |
 | The Chick C | 191265 | [191265-the-chick-c.json](./191265-the-chick-c.json) |
 | The Chicken Bandit | 61117 | [61117-the-chicken-bandit.json](./61117-the-chicken-bandit.json) |
@@ -3193,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Few | 211932 | [211932-the-few.json](./211932-the-few.json) |
 | The Few | 407334 | [407334-the-few.json](./407334-the-few.json) |
 | The Fidelio Incident | 36707 | [36707-the-fidelio-incident.json](./36707-the-fidelio-incident.json) |
+| The Fidelity Chessmaster 2100 | 15875 | [15875-the-fidelity-chessmaster-2100.json](./15875-the-fidelity-chessmaster-2100.json) |
 | The Field Trip Murders | 231460 | [231460-the-field-trip-murders.json](./231460-the-field-trip-murders.json) |
 | The Fiend's Tavern | 104077 | [104077-the-fiends-tavern.json](./104077-the-fiends-tavern.json) |
 | The Fierce Livid | 271764 | [271764-the-fierce-livid.json](./271764-the-fierce-livid.json) |
@@ -4816,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nightmare Of Arrival Chapter 1 | 298561 | [298561-the-nightmare-of-arrival-chapter-1.json](./298561-the-nightmare-of-arrival-chapter-1.json) |
 | The Nightmare of Pandemic: Kyle's Story | 339801 | [339801-the-nightmare-of-pandemic-kyles-story.json](./339801-the-nightmare-of-pandemic-kyles-story.json) |
 | The Nights on Arcade | 267073 | [267073-the-nights-on-arcade.json](./267073-the-nights-on-arcade.json) |
+| The Nightshift Code | 16076 | [16076-the-nightshift-code.json](./16076-the-nightshift-code.json) |
 | The Nightwatch | 289977 | [289977-the-nightwatch.json](./289977-the-nightwatch.json) |
 | The Ninja | 346067 | [346067-the-ninja.json](./346067-the-ninja.json) |
 | The Ninja Gaiden as Interpreted by MiniMacro Sound | 311650 | [311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json](./311650-the-ninja-gaiden-as-interpreted-by-minimacro-sound.json) |
