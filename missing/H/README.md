@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Escape: Wrath of Victoria | 62759 | [62759-haunted-escape-wrath-of-victoria.json](./62759-haunted-escape-wrath-of-victoria.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
 | Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
+| Haunted Hotel II: Believe the Lies | 36450 | [36450-haunted-hotel-ii-believe-the-lies.json](./36450-haunted-hotel-ii-believe-the-lies.json) |
 | Haunted Hotel: A Past Redeemed | 182399 | [182399-haunted-hotel-a-past-redeemed.json](./182399-haunted-hotel-a-past-redeemed.json) |
 | Haunted Hotel: A Past Redeemed - Collector's Edition | 152889 | [152889-haunted-hotel-a-past-redeemed-collectors-edition.json](./152889-haunted-hotel-a-past-redeemed-collectors-edition.json) |
 | Haunted Hotel: Ancient Bane | 180306 | [180306-haunted-hotel-ancient-bane.json](./180306-haunted-hotel-ancient-bane.json) |
@@ -890,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
 | Haunted Train: Frozen in Time | 140032 | [140032-haunted-train-frozen-in-time.json](./140032-haunted-train-frozen-in-time.json) |
 | Haunted Train: Spirits of Charon | 140033 | [140033-haunted-train-spirits-of-charon.json](./140033-haunted-train-spirits-of-charon.json) |
+| Haunted Train: Spirits of Charon - Collector's Edition | 36486 | [36486-haunted-train-spirits-of-charon-collectors-edition.json](./36486-haunted-train-spirits-of-charon-collectors-edition.json) |
 | Haunted Village | 358939 | [358939-haunted-village.json](./358939-haunted-village.json) |
 | Haunted Vlogs | 209473 | [209473-haunted-vlogs.json](./209473-haunted-vlogs.json) |
 | Haunted Zombie School | 205225 | [205225-haunted-zombie-school.json](./205225-haunted-zombie-school.json) |
@@ -2032,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroine Dream | 61566 | [61566-heroine-dream.json](./61566-heroine-dream.json) |
 | Heroine Dream 2 | 61565 | [61565-heroine-dream-2.json](./61565-heroine-dream-2.json) |
 | Heroine Dusk | 181260 | [181260-heroine-dusk.json](./181260-heroine-dusk.json) |
+| Heroine's Quest: The Herald of Ragnarok | 36441 | [36441-heroines-quest-the-herald-of-ragnarok.json](./36441-heroines-quest-the-herald-of-ragnarok.json) |
 | Heroines of Swords & Spells | 130129 | [130129-heroines-of-swords-and-spells.json](./130129-heroines-of-swords-and-spells.json) |
 | Heroish | 207215 | [207215-heroish.json](./207215-heroish.json) |
 | Heroism | 155055 | [155055-heroism.json](./155055-heroism.json) |
