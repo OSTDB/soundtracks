@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barb Wire | 92451 | [92451-barb-wire.json](./92451-barb-wire.json) |
 | Barbarian | 206238 | [206238-barbarian.json](./206238-barbarian.json) |
 | Barbarian | 376532 | [376532-barbarian.json](./376532-barbarian.json) |
+| Barbarian | 3793 | [3793-barbarian.json](./3793-barbarian.json) |
 | Barbarian Brawl | 10021 | [10021-barbarian-brawl.json](./10021-barbarian-brawl.json) |
 | Barbarian Simulator | 157718 | [157718-barbarian-simulator.json](./157718-barbarian-simulator.json) |
 | Barbarian Trash | 110827 | [110827-barbarian-trash.json](./110827-barbarian-trash.json) |
@@ -1091,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Pro Shops Fishing Sim World | 139982 | [139982-bass-pro-shops-fishing-sim-world.json](./139982-bass-pro-shops-fishing-sim-world.json) |
 | Bass Pro Shops Trophy Hunter 2007 | 5737 | [5737-bass-pro-shops-trophy-hunter-2007.json](./5737-bass-pro-shops-trophy-hunter-2007.json) |
 | Bass Pro Shops: The Strike - Championship Edition | 110428 | [110428-bass-pro-shops-the-strike-championship-edition.json](./110428-bass-pro-shops-the-strike-championship-edition.json) |
+| Bass Rise | 4141 | [4141-bass-rise.json](./4141-bass-rise.json) |
 | Bass Rush Dream | 67301 | [67301-bass-rush-dream.json](./67301-bass-rush-dream.json) |
 | Bass Strike | 43286 | [43286-bass-strike.json](./43286-bass-strike.json) |
 | Bassai-Dai | 403654 | [403654-bassai-dai.json](./403654-bassai-dai.json) |
@@ -2263,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bewitched Hearts | 179703 | [179703-bewitched-hearts.json](./179703-bewitched-hearts.json) |
 | Bewitching Boba | 388701 | [388701-bewitching-boba.json](./388701-bewitching-boba.json) |
 | Bewitching Sinners Royal Blood | 375292 | [375292-bewitching-sinners-royal-blood.json](./375292-bewitching-sinners-royal-blood.json) |
+| Beyblade V-Force: Super Tournament Battle | 3807 | [3807-beyblade-v-force-super-tournament-battle.json](./3807-beyblade-v-force-super-tournament-battle.json) |
 | Beyblade X Evobattle | 369115 | [369115-beyblade-x-evobattle.json](./369115-beyblade-x-evobattle.json) |
 | Beyblade x Evobattle: Digital Beybooster Metal Coat | 378877 | [378877-beyblade-x-evobattle-digital-beybooster-metal-coat.json](./378877-beyblade-x-evobattle-digital-beybooster-metal-coat.json) |
 | Beyblade x Evobattle: Digital Beybooster Vol. 2 | 378878 | [378878-beyblade-x-evobattle-digital-beybooster-vol-2.json](./378878-beyblade-x-evobattle-digital-beybooster-vol-2.json) |
@@ -3260,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: Soul Puzzle | 317846 | [317846-bleach-soul-puzzle.json](./317846-bleach-soul-puzzle.json) |
 | Bleach: Soul Resurrección | 7280 | [7280-bleach-soul-resurreccion.json](./7280-bleach-soul-resurreccion.json) |
 | Bleach: The Blade of Fate | 20530 | [20530-bleach-the-blade-of-fate.json](./20530-bleach-the-blade-of-fate.json) |
+| Bleach: Versus Crusade | 3822 | [3822-bleach-versus-crusade.json](./3822-bleach-versus-crusade.json) |
 | Bleak | 106641 | [106641-bleak.json](./106641-bleak.json) |
 | Bleak Dystopia | 226314 | [226314-bleak-dystopia.json](./226314-bleak-dystopia.json) |
 | Bleak Frontier | 258707 | [258707-bleak-frontier.json](./258707-bleak-frontier.json) |
@@ -4192,6 +4196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonnie Blob in Shapeville | 323368 | [323368-bonnie-blob-in-shapeville.json](./323368-bonnie-blob-in-shapeville.json) |
 | Bonnie Fell | 329113 | [329113-bonnie-fell.json](./329113-bonnie-fell.json) |
 | Bonnie's Bakery | 219034 | [219034-bonnies-bakery.json](./219034-bonnies-bakery.json) |
+| Bonnie's Bookstore | 3757 | [3757-bonnies-bookstore.json](./3757-bonnies-bookstore.json) |
 | Bonsai Calendar | 142859 | [142859-bonsai-calendar.json](./142859-bonsai-calendar.json) |
 | Bonza Planet | 354445 | [354445-bonza-planet.json](./354445-bonza-planet.json) |
 | Bonza Word Puzzle | 90678 | [90678-bonza-word-puzzle.json](./90678-bonza-word-puzzle.json) |
