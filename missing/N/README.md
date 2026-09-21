@@ -1847,6 +1847,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Express | 313096 | [313096-nitro-express.json](./313096-nitro-express.json) |
 | Nitro Gen Omega | 319146 | [319146-nitro-gen-omega.json](./319146-nitro-gen-omega.json) |
 | Nitro Kid | 204438 | [204438-nitro-kid.json](./204438-nitro-kid.json) |
+| Nitro Nation Online | 39221 | [39221-nitro-nation-online.json](./39221-nitro-nation-online.json) |
+| Nitro Nation Stories | 39222 | [39222-nitro-nation-stories.json](./39222-nitro-nation-stories.json) |
 | Nitro Nation World Tour | 261519 | [261519-nitro-nation-world-tour.json](./261519-nitro-nation-world-tour.json) |
 | Nitro Nation: Drag Racing | 233762 | [233762-nitro-nation-drag-racing.json](./233762-nitro-nation-drag-racing.json) |
 | Nitro Royale -Heroines Duel- | 70685 | [70685-nitro-royale-heroines-duel.json](./70685-nitro-royale-heroines-duel.json) |
