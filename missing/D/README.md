@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dagdrom | 183468 | [183468-dagdrom.json](./183468-dagdrom.json) |
 | Dagestan Technology Anthology | 52844 | [52844-dagestan-technology-anthology.json](./52844-dagestan-technology-anthology.json) |
 | Dagger Woods VR | 333016 | [333016-dagger-woods-vr.json](./333016-dagger-woods-vr.json) |
+| Daggerfall Unity | 127936 | [127936-daggerfall-unity.json](./127936-daggerfall-unity.json) |
 | Daggerhood | 115426 | [115426-daggerhood.json](./115426-daggerhood.json) |
 | Dah-Varsity | 304205 | [304205-dah-varsity.json](./304205-dah-varsity.json) |
 | Dahalo | 127252 | [127252-dahalo.json](./127252-dahalo.json) |
@@ -3114,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diorama Builder: Medieval Castle | 298321 | [298321-diorama-builder-medieval-castle.json](./298321-diorama-builder-medieval-castle.json) |
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
 | Dioramos | 333556 | [333556-dioramos.json](./333556-dioramos.json) |
+| Diplomacy is Not an Option | 132334 | [132334-diplomacy-is-not-an-option.json](./132334-diplomacy-is-not-an-option.json) |
 | Diplomacy is Not an Option: Fog of War | 415090 | [415090-diplomacy-is-not-an-option-fog-of-war.json](./415090-diplomacy-is-not-an-option-fog-of-war.json) |
 | Dipod: The Foot Legacy | 146831 | [146831-dipod-the-foot-legacy.json](./146831-dipod-the-foot-legacy.json) |
 | Diptych: The Great War | 199135 | [199135-diptych-the-great-war.json](./199135-diptych-the-great-war.json) |
@@ -5012,6 +5014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drak(c)ula | 298682 | [298682-drak-c-ula.json](./298682-drak-c-ula.json) |
 | Drakan: Order of the Flame | 7576 | [7576-drakan-order-of-the-flame.json](./7576-drakan-order-of-the-flame.json) |
 | Drake | 134654 | [134654-drake.json](./134654-drake.json) |
+| Drake Hollow | 125630 | [125630-drake-hollow.json](./125630-drake-hollow.json) |
 | Drake's Tower | 89229 | [89229-drakes-tower.json](./89229-drakes-tower.json) |
 | Drakengard 2 | 11663 | [11663-drakengard-2.json](./11663-drakengard-2.json) |
 | Drakens Värld | 139804 | [139804-drakens-varld.json](./139804-drakens-varld.json) |
