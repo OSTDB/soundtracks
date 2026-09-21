@@ -1713,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koshachʼya Lyubovʼ | 301404 | [301404-koshach-ya-lyubov.json](./301404-koshach-ya-lyubov.json) |
 | Koshchei the Immortal | 372460 | [372460-koshchei-the-immortal.json](./372460-koshchei-the-immortal.json) |
 | Koshien Pocket | 65190 | [65190-koshien-pocket.json](./65190-koshien-pocket.json) |
+| Koshien Story | 57915 | [57915-koshien-story.json](./57915-koshien-story.json) |
 | Koshka | 157145 | [157145-koshka.json](./157145-koshka.json) |
 | Koshka's Kofe | 135683 | [135683-koshkas-kofe.json](./135683-koshkas-kofe.json) |
 | Koshotengai no Hashihime Noma | 103176 | [103176-koshotengai-no-hashihime-noma.json](./103176-koshotengai-no-hashihime-noma.json) |
