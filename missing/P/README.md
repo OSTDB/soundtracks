@@ -5124,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
 | Proto_1987_01_IT | 339817 | [339817-proto-1987-01-it.json](./339817-proto-1987-01-it.json) |
 | ProtoBound | 333099 | [333099-protobound.json](./333099-protobound.json) |
+| Protocell | 50152 | [50152-protocell.json](./50152-protocell.json) |
 | Protocol Aftertime | 210751 | [210751-protocol-aftertime.json](./210751-protocol-aftertime.json) |
 | Protocol Bound | 410964 | [410964-protocol-bound.json](./410964-protocol-bound.json) |
 | Protocol Endfall | 159834 | [159834-protocol-endfall.json](./159834-protocol-endfall.json) |
