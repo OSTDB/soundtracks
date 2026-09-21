@@ -4471,6 +4471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Safe Airlines | 125480 | [125480-pretty-safe-airlines.json](./125480-pretty-safe-airlines.json) |
 | Pretty Soldier Sailor Moon S | 316798 | [316798-pretty-soldier-sailor-moon-s.json](./316798-pretty-soldier-sailor-moon-s.json) |
 | Pretty Visitors | 229791 | [229791-pretty-visitors.json](./229791-pretty-visitors.json) |
+| Prey 2 | 525 | [525-prey-2.json](./525-prey-2.json) |
 | Prey of the Night | 325626 | [325626-prey-of-the-night.json](./325626-prey-of-the-night.json) |
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
 | Prezzemolo in una Giornata da Incubo | 93026 | [93026-prezzemolo-in-una-giornata-da-incubo.json](./93026-prezzemolo-in-una-giornata-da-incubo.json) |
