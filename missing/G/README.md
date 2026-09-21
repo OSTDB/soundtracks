@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamlet | 146109 | [146109-gamlet.json](./146109-gamlet.json) |
 | Gamma 19 | 213480 | [213480-gamma-19.json](./213480-gamma-19.json) |
 | Gamma Bros | 33675 | [33675-gamma-bros.json](./33675-gamma-bros.json) |
+| Gamma Goblins | 59664 | [59664-gamma-goblins.json](./59664-gamma-goblins.json) |
 | Gamma Protocol | 285592 | [285592-gamma-protocol.json](./285592-gamma-protocol.json) |
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
 | Ganbare Goemon Gaiden 2: Tenka no Zaihou | 48612 | [48612-ganbare-goemon-gaiden-2-tenka-no-zaihou.json](./48612-ganbare-goemon-gaiden-2-tenka-no-zaihou.json) |
@@ -1122,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getaway! | 78981 | [78981-getaway.json](./78981-getaway.json) |
 | GetClose | 61658 | [61658-getclose.json](./61658-getclose.json) |
 | Geten no Hana with Yume Akari Aizouban | 135857 | [135857-geten-no-hana-with-yume-akari-aizouban.json](./135857-geten-no-hana-with-yume-akari-aizouban.json) |
+| GetRektBambi | 59656 | [59656-getrektbambi.json](./59656-getrektbambi.json) |
 | Getsuei Gakuen -kou- | 34263 | [34263-getsuei-gakuen-kou.json](./34263-getsuei-gakuen-kou.json) |
 | Getsuei no Kusari: Kyouran Moratoriamu | 136449 | [136449-getsuei-no-kusari-kyouran-moratoriamu.json](./136449-getsuei-no-kusari-kyouran-moratoriamu.json) |
 | Getsuei no Kusari: Sakuran Paranoia | 136448 | [136448-getsuei-no-kusari-sakuran-paranoia.json](./136448-getsuei-no-kusari-sakuran-paranoia.json) |
