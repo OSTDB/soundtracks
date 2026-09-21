@@ -795,10 +795,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Warrior | 70115 | [70115-universal-warrior.json](./70115-universal-warrior.json) |
 | Universally Loved | 106561 | [106561-universally-loved.json](./106561-universally-loved.json) |
 | Universe | 130867 | [130867-universe.json](./130867-universe.json) |
+| Universe | 13088 | [13088-universe.json](./13088-universe.json) |
 | Universe 24 | 116301 | [116301-universe-24.json](./116301-universe-24.json) |
 | Universe 25: The Loop | 171072 | [171072-universe-25-the-loop.json](./171072-universe-25-the-loop.json) |
+| Universe 3 | 13085 | [13085-universe-3.json](./13085-universe-3.json) |
 | Universe Apart | 199491 | [199491-universe-apart.json](./199491-universe-apart.json) |
 | Universe Has No Favorites | 286093 | [286093-universe-has-no-favorites.json](./286093-universe-has-no-favorites.json) |
+| Universe II | 13089 | [13089-universe-ii.json](./13089-universe-ii.json) |
 | Universe of Trials | 318789 | [318789-universe-of-trials.json](./318789-universe-of-trials.json) |
 | Universe Rhythm Shooting | 337606 | [337606-universe-rhythm-shooting.json](./337606-universe-rhythm-shooting.json) |
 | Universe Size Comparison VR | 295281 | [295281-universe-size-comparison-vr.json](./295281-universe-size-comparison-vr.json) |
