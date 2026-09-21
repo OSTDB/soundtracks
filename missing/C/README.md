@@ -4078,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commando Jack | 9801 | [9801-commando-jack.json](./9801-commando-jack.json) |
 | Commando Jack Respawn | 136393 | [136393-commando-jack-respawn.json](./136393-commando-jack-respawn.json) |
 | Commando Raid | 11153 | [11153-commando-raid.json](./11153-commando-raid.json) |
+| Commando Sniper Counter Strike | 28212 | [28212-commando-sniper-counter-strike.json](./28212-commando-sniper-counter-strike.json) |
 | Commando vs Zombies | 99002 | [99002-commando-vs-zombies.json](./99002-commando-vs-zombies.json) |
 | Commando Xenidis | 93355 | [93355-commando-xenidis.json](./93355-commando-xenidis.json) |
 | Commandos 2 & 3: HD Remaster Double Pack | 212870 | [212870-commandos-2-and-3-hd-remaster-double-pack.json](./212870-commandos-2-and-3-hd-remaster-double-pack.json) |
@@ -4574,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cordelia | 248044 | [248044-cordelia.json](./248044-cordelia.json) |
 | Cordial Minuet | 97298 | [97298-cordial-minuet.json](./97298-cordial-minuet.json) |
 | Core | 400887 | [400887-core.json](./400887-core.json) |
+| Core Blaze | 28130 | [28130-core-blaze.json](./28130-core-blaze.json) |
 | Core Decay | 132771 | [132771-core-decay.json](./132771-core-decay.json) |
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
 | Core Devourer | 235764 | [235764-core-devourer.json](./235764-core-devourer.json) |
