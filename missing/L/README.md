@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'Impiccato in Italiano | 96042 | [96042-limpiccato-in-italiano.json](./96042-limpiccato-in-italiano.json) |
 | L@ve Once | 139450 | [139450-l-ve-once.json](./139450-l-ve-once.json) |
 | L2 Love x Loop | 219132 | [219132-l2-love-x-loop.json](./219132-l2-love-x-loop.json) |
+| La Abadía del Crimen | 12375 | [12375-la-abadia-del-crimen.json](./12375-la-abadia-del-crimen.json) |
 | La Bestia: The Migrant's Long Journey | 296485 | [296485-la-bestia-the-migrants-long-journey.json](./296485-la-bestia-the-migrants-long-journey.json) |
 | La Carbonara | 323172 | [323172-la-carbonara.json](./323172-la-carbonara.json) |
 | La Caza del Espía | 323175 | [323175-la-caza-del-espia.json](./323175-la-caza-del-espia.json) |
