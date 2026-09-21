@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.Stain | 147298 | [147298-m-stain.json](./147298-m-stain.json) |
 | M.U.D. Rally | 233244 | [233244-m-u-d-rally.json](./233244-m-u-d-rally.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
+| M*A*S*H | 22734 | [22734-m-a-s-h.json](./22734-m-a-s-h.json) |
 | M&M's Blast! | 49330 | [49330-m-and-ms-blast.json](./49330-m-and-ms-blast.json) |
 | M&M's Minis Madness | 49918 | [49918-m-and-ms-minis-madness.json](./49918-m-and-ms-minis-madness.json) |
 | M&M's: The Lost Formulas | 79613 | [79613-m-and-ms-the-lost-formulas.json](./79613-m-and-ms-the-lost-formulas.json) |
