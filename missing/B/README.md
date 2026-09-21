@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barboozeled | 214732 | [214732-barboozeled.json](./214732-barboozeled.json) |
 | Barbuta | 317573 | [317573-barbuta.json](./317573-barbuta.json) |
 | Barcelona Fighter 92' | 98261 | [98261-barcelona-fighter-92.json](./98261-barcelona-fighter-92.json) |
+| Barclay: The Marrowdale Murder | 29219 | [29219-barclay-the-marrowdale-murder.json](./29219-barclay-the-marrowdale-murder.json) |
 | Barcode Battler II: Senyou Card Software - Super Mario World | 329117 | [329117-barcode-battler-ii-senyou-card-software-super-mario-world.json](./329117-barcode-battler-ii-senyou-card-software-super-mario-world.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Doraemon (Comics Ichizoku) | 329356 | [329356-barcode-battler-ii-shogaku-ninensei-special-barcode-card-doraemon-comics-ichizoku.json](./329356-barcode-battler-ii-shogaku-ninensei-special-barcode-card-doraemon-comics-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Dr. Eggman (Game Ichizoku) | 329355 | [329355-barcode-battler-ii-shogaku-ninensei-special-barcode-card-dr-eggman-game-ichizoku.json](./329355-barcode-battler-ii-shogaku-ninensei-special-barcode-card-dr-eggman-game-ichizoku.json) |
@@ -3160,6 +3161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Squad | 132215 | [132215-blaster-squad.json](./132215-blaster-squad.json) |
 | Blaster! | 26483 | [26483-blaster.json](./26483-blaster.json) |
 | Blasterball 2: Revolution | 73221 | [73221-blasterball-2-revolution.json](./73221-blasterball-2-revolution.json) |
+| Blastercell | 29146 | [29146-blastercell.json](./29146-blastercell.json) |
 | Blasteroids | 11967 | [11967-blasteroids.json](./11967-blasteroids.json) |
 | Blasteron | 75176 | [75176-blasteron.json](./75176-blasteron.json) |
 | BlastMorph: Pinball | 372572 | [372572-blastmorph-pinball.json](./372572-blastmorph-pinball.json) |
@@ -5446,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulanci: Hero Factory | 267668 | [267668-bulanci-hero-factory.json](./267668-bulanci-hero-factory.json) |
 | Bulanci: Map Pack | 267669 | [267669-bulanci-map-pack.json](./267669-bulanci-map-pack.json) |
 | Bulb Boy 2: Jar of Despair | 172747 | [172747-bulb-boy-2-jar-of-despair.json](./172747-bulb-boy-2-jar-of-despair.json) |
+| Bulb Out | 29135 | [29135-bulb-out.json](./29135-bulb-out.json) |
 | Bulb! | 215384 | [215384-bulb.json](./215384-bulb.json) |
 | Bulbo and the Lizard-King | 58822 | [58822-bulbo-and-the-lizard-king.json](./58822-bulbo-and-the-lizard-king.json) |
 | Bulbs 2.0 | 306353 | [306353-bulbs-2-0.json](./306353-bulbs-2-0.json) |
