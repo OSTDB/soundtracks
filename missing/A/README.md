@@ -701,6 +701,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
 | Advance, Fish! | 379476 | [379476-advance-fish.json](./379476-advance-fish.json) |
+| Advanced Daisenryaku 2001 | 60805 | [60805-advanced-daisenryaku-2001.json](./60805-advanced-daisenryaku-2001.json) |
+| Advanced Daisenryaku 98 II | 60802 | [60802-advanced-daisenryaku-98-ii.json](./60802-advanced-daisenryaku-98-ii.json) |
+| Advanced Daisenryaku 98: Storm Over Europe | 60806 | [60806-advanced-daisenryaku-98-storm-over-europe.json](./60806-advanced-daisenryaku-98-storm-over-europe.json) |
+| Advanced Daisenryaku: Europe no Arashi - Doitsu Dengeki Sakusen | 60804 | [60804-advanced-daisenryaku-europe-no-arashi-doitsu-dengeki-sakusen.json](./60804-advanced-daisenryaku-europe-no-arashi-doitsu-dengeki-sakusen.json) |
 | Advanced Dungeons & Dragons: DragonStrike | 48113 | [48113-advanced-dungeons-and-dragons-dragonstrike.json](./48113-advanced-dungeons-and-dragons-dragonstrike.json) |
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
 | Advanced Kick Challenge | 379477 | [379477-advanced-kick-challenge.json](./379477-advanced-kick-challenge.json) |
@@ -780,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Trip: Amazing World 3 - Collector's Edition | 283900 | [283900-adventure-trip-amazing-world-3-collectors-edition.json](./283900-adventure-trip-amazing-world-3-collectors-edition.json) |
 | Adventure Value Pack #2 | 77327 | [77327-adventure-value-pack-2.json](./77327-adventure-value-pack-2.json) |
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
+| Adventure: The Inside Job | 60796 | [60796-adventure-the-inside-job.json](./60796-adventure-the-inside-job.json) |
 | Adventure: Welcome to the Genre | 165506 | [165506-adventure-welcome-to-the-genre.json](./165506-adventure-welcome-to-the-genre.json) |
 | Adventure4+ | 305199 | [305199-adventure4.json](./305199-adventure4.json) |
 | Adventurer | 391046 | [391046-adventurer.json](./391046-adventurer.json) |
@@ -1436,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALF's Thinking Skills | 78720 | [78720-alfs-thinking-skills.json](./78720-alfs-thinking-skills.json) |
 | ALF's U.S. Geography | 94247 | [94247-alfs-u-s-geography.json](./94247-alfs-u-s-geography.json) |
 | Alfa Romeo Racing Italiano | 5721 | [5721-alfa-romeo-racing-italiano.json](./5721-alfa-romeo-racing-italiano.json) |
+| Alfa-Arkiv | 60793 | [60793-alfa-arkiv.json](./60793-alfa-arkiv.json) |
 | Alfabet Śmierci | 14238 | [14238-alfabet-smierci.json](./14238-alfabet-smierci.json) |
 | Alfal's Grove | 132651 | [132651-alfals-grove.json](./132651-alfals-grove.json) |
 | Alfred Chicken | 272843 | [272843-alfred-chicken.json](./272843-alfred-chicken.json) |
