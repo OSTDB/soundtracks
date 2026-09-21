@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece Unlimited World Red: Chopper Edition | 223469 | [223469-one-piece-unlimited-world-red-chopper-edition.json](./223469-one-piece-unlimited-world-red-chopper-edition.json) |
 | One Piece: Bon! Bon! Journey!! | 117667 | [117667-one-piece-bon-bon-journey.json](./117667-one-piece-bon-bon-journey.json) |
 | One Piece: Burning Blood - Character Pack | 171053 | [171053-one-piece-burning-blood-character-pack.json](./171053-one-piece-burning-blood-character-pack.json) |
+| One Piece: Burning Blood - Marineford Edition | 51534 | [51534-one-piece-burning-blood-marineford-edition.json](./51534-one-piece-burning-blood-marineford-edition.json) |
 | One Piece: Burning Blood - Platinum Luffy | 171051 | [171051-one-piece-burning-blood-platinum-luffy.json](./171051-one-piece-burning-blood-platinum-luffy.json) |
 | One Piece: Burning Blood - Wanted | 171048 | [171048-one-piece-burning-blood-wanted.json](./171048-one-piece-burning-blood-wanted.json) |
 | One Piece: Burning Blood - Wanted 2 | 171050 | [171050-one-piece-burning-blood-wanted-2.json](./171050-one-piece-burning-blood-wanted-2.json) |
@@ -1769,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost Delta | 123030 | [123030-outpost-delta.json](./123030-outpost-delta.json) |
 | Outpost L5 | 50509 | [50509-outpost-l5.json](./50509-outpost-l5.json) |
 | Outpost Luna | 174363 | [174363-outpost-luna.json](./174363-outpost-luna.json) |
+| Outracer | 51575 | [51575-outracer.json](./51575-outracer.json) |
 | Outrage | 33144 | [33144-outrage.json](./33144-outrage.json) |
 | OutRage: Fight Fest | 262662 | [262662-outrage-fight-fest.json](./262662-outrage-fight-fest.json) |
 | Outriders: Complete Edition | 286513 | [286513-outriders-complete-edition.json](./286513-outriders-complete-edition.json) |
@@ -1942,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owner | 295528 | [295528-owner.json](./295528-owner.json) |
 | OwnRulesRPG | 259845 | [259845-ownrulesrpg.json](./259845-ownrulesrpg.json) |
 | Owyn's Adventure | 116482 | [116482-owyns-adventure.json](./116482-owyns-adventure.json) |
+| Oxenfree: Collector's Edition | 51536 | [51536-oxenfree-collectors-edition.json](./51536-oxenfree-collectors-edition.json) |
 | Oxxonian | 74424 | [74424-oxxonian.json](./74424-oxxonian.json) |
 | Oxyblack Fortress | 271317 | [271317-oxyblack-fortress.json](./271317-oxyblack-fortress.json) |
 | Oxyd Extra | 93036 | [93036-oxyd-extra.json](./93036-oxyd-extra.json) |
