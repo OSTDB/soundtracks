@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F/A-18E Super Hornet: The Albanian Campaign | 84201 | [84201-f-a-18e-super-hornet-the-albanian-campaign.json](./84201-f-a-18e-super-hornet-the-albanian-campaign.json) |
 | F1 06 | 7308 | [7308-f1-06.json](./7308-f1-06.json) |
 | F1 2000 | 45305 | [45305-f1-2000.json](./45305-f1-2000.json) |
+| F1 2009 | 4837 | [4837-f1-2009.json](./4837-f1-2009.json) |
 | F1 2010 | 1375 | [1375-f1-2010.json](./1375-f1-2010.json) |
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
 | F1 2018: Headline Edition | 110984 | [110984-f1-2018-headline-edition.json](./110984-f1-2018-headline-edition.json) |
@@ -749,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry Instincts: Evolution | 22584 | [22584-far-cry-instincts-evolution.json](./22584-far-cry-instincts-evolution.json) |
 | Far Cry Primal: Collector's Edition | 41617 | [41617-far-cry-primal-collectors-edition.json](./41617-far-cry-primal-collectors-edition.json) |
 | Far Cry Primal: Deluxe Edition | 44543 | [44543-far-cry-primal-deluxe-edition.json](./44543-far-cry-primal-deluxe-edition.json) |
+| Far Cry Vengeance | 4854 | [4854-far-cry-vengeance.json](./4854-far-cry-vengeance.json) |
 | Far Cry VR | 138767 | [138767-far-cry-vr.json](./138767-far-cry-vr.json) |
 | Far Cry: Bronze Pack | 223557 | [223557-far-cry-bronze-pack.json](./223557-far-cry-bronze-pack.json) |
 | Far Cry: Delta Sector | 51227 | [51227-far-cry-delta-sector.json](./51227-far-cry-delta-sector.json) |
