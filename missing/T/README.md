@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Fortress 2: Mann vs. Machine - Two Cities Update | 256881 | [256881-team-fortress-2-mann-vs-machine-two-cities-update.json](./256881-team-fortress-2-mann-vs-machine-two-cities-update.json) |
 | Team Fortress 2: Rebalanced | 400339 | [400339-team-fortress-2-rebalanced.json](./400339-team-fortress-2-rebalanced.json) |
 | Team Fortress 2: The Gun Mettle Update | 256889 | [256889-team-fortress-2-the-gun-mettle-update.json](./256889-team-fortress-2-the-gun-mettle-update.json) |
+| Team Fortress Classic | 6359 | [6359-team-fortress-classic.json](./6359-team-fortress-classic.json) |
 | Team Fortress Kart | 371244 | [371244-team-fortress-kart.json](./371244-team-fortress-kart.json) |
 | Team Four Star RPG | 75043 | [75043-team-four-star-rpg.json](./75043-team-four-star-rpg.json) |
 | Team Hogus: GHAMEMFAIFTH OTHIYLTIM | 185659 | [185659-team-hogus-ghamemfaifth-othiyltim.json](./185659-team-hogus-ghamemfaifth-othiyltim.json) |
@@ -3561,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guestlist | 244381 | [244381-the-guestlist.json](./244381-the-guestlist.json) |
 | The Guild 2: Renaissance | 11620 | [11620-the-guild-2-renaissance.json](./11620-the-guild-2-renaissance.json) |
 | The Guild of Thieves | 12126 | [12126-the-guild-of-thieves.json](./12126-the-guild-of-thieves.json) |
+| The Gunk | 136000 | [136000-the-gunk.json](./136000-the-gunk.json) |
 | The Gurgling | 381594 | [381594-the-gurgling.json](./381594-the-gurgling.json) |
 | The Gurion Mountains | 148915 | [148915-the-gurion-mountains.json](./148915-the-gurion-mountains.json) |
 | The Hacker | 13724 | [13724-the-hacker.json](./13724-the-hacker.json) |
@@ -5305,6 +5307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Roof | 23418 | [23418-the-roof.json](./23418-the-roof.json) |
 | The Rookery | 312744 | [312744-the-rookery.json](./312744-the-rookery.json) |
 | The Room | 11625 | [11625-the-room.json](./11625-the-room.json) |
+| The Room 4: Old Sins | 27725 | [27725-the-room-4-old-sins.json](./27725-the-room-4-old-sins.json) |
 | The Room in a Glass Box | 339934 | [339934-the-room-in-a-glass-box.json](./339934-the-room-in-a-glass-box.json) |
 | The Room of Black & White | 34455 | [34455-the-room-of-black-and-white.json](./34455-the-room-of-black-and-white.json) |
 | The Room Syndrome | 124218 | [124218-the-room-syndrome.json](./124218-the-room-syndrome.json) |
@@ -5524,6 +5527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silver Age | 209556 | [209556-the-silver-age.json](./209556-the-silver-age.json) |
 | The Silver Case: Deluxe Edition | 51921 | [51921-the-silver-case-deluxe-edition.json](./51921-the-silver-case-deluxe-edition.json) |
 | The Silver Lining | 50807 | [50807-the-silver-lining.json](./50807-the-silver-lining.json) |
+| The Simpsons Arcade Game | 2826 | [2826-the-simpsons-arcade-game.json](./2826-the-simpsons-arcade-game.json) |
 | The Simpsons Game | 2656 | [2656-the-simpsons-game.json](./2656-the-simpsons-game.json) |
 | The Simpsons Skateboarding | 2843 | [2843-the-simpsons-skateboarding.json](./2843-the-simpsons-skateboarding.json) |
 | The Simpsons Trivia | 221270 | [221270-the-simpsons-trivia.json](./221270-the-simpsons-trivia.json) |
@@ -6344,6 +6348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Season Two - Episode 2: A House Divided | 127058 | [127058-the-walking-dead-season-two-episode-2-a-house-divided.json](./127058-the-walking-dead-season-two-episode-2-a-house-divided.json) |
 | The Walking Dead: The Complete First Season | 41623 | [41623-the-walking-dead-the-complete-first-season.json](./41623-the-walking-dead-the-complete-first-season.json) |
 | The Walking Dead: The Final Season - Episode 2: Suffer the Children | 110328 | [110328-the-walking-dead-the-final-season-episode-2-suffer-the-children.json](./110328-the-walking-dead-the-final-season-episode-2-suffer-the-children.json) |
+| The Walking Dead: The Telltale Definitive Series | 117514 | [117514-the-walking-dead-the-telltale-definitive-series.json](./117514-the-walking-dead-the-telltale-definitive-series.json) |
 | The Walking Dead: The Telltale Definitive Series - Guardian Pack | 117678 | [117678-the-walking-dead-the-telltale-definitive-series-guardian-pack.json](./117678-the-walking-dead-the-telltale-definitive-series-guardian-pack.json) |
 | The Walking Dead: The Telltale Definitive Series - Protector Pack | 117677 | [117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json](./117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json) |
 | The Walking Dead: The Telltale Definitive Series - Signature Pack | 117679 | [117679-the-walking-dead-the-telltale-definitive-series-signature-pack.json](./117679-the-walking-dead-the-telltale-definitive-series-signature-pack.json) |
@@ -6734,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Bird | 109614 | [109614-thief-bird.json](./109614-thief-bird.json) |
 | Thief City | 221424 | [221424-thief-city.json](./221424-thief-city.json) |
 | Thief Collection | 53796 | [53796-thief-collection.json](./53796-thief-collection.json) |
+| Thief Gold | 9227 | [9227-thief-gold.json](./9227-thief-gold.json) |
 | Thief of Hearts | 179697 | [179697-thief-of-hearts.json](./179697-thief-of-hearts.json) |
 | Thief of Smiles | 239745 | [239745-thief-of-smiles.json](./239745-thief-of-smiles.json) |
 | Thief of Thieves: Season One | 95116 | [95116-thief-of-thieves-season-one.json](./95116-thief-of-thieves-season-one.json) |
@@ -8711,6 +8717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torched | 370799 | [370799-torched.json](./370799-torched.json) |
 | Torches of Fate | 133458 | [133458-torches-of-fate.json](./133458-torches-of-fate.json) |
 | Torchless | 329112 | [329112-torchless.json](./329112-torchless.json) |
+| Torchlight III | 106987 | [106987-torchlight-iii.json](./106987-torchlight-iii.json) |
 | Torchlight Mobile | 26905 | [26905-torchlight-mobile.json](./26905-torchlight-mobile.json) |
 | Torchlight: Infinite | 174897 | [174897-torchlight-infinite.json](./174897-torchlight-infinite.json) |
 | Torchure | 180183 | [180183-torchure.json](./180183-torchure.json) |
@@ -9944,6 +9951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Dark of the Moon - Stealth Force Edition | 51021 | [51021-transformers-dark-of-the-moon-stealth-force-edition.json](./51021-transformers-dark-of-the-moon-stealth-force-edition.json) |
 | Transformers: Decepticons | 206749 | [206749-transformers-decepticons.json](./206749-transformers-decepticons.json) |
 | Transformers: Devastation | 11175 | [11175-transformers-devastation.json](./11175-transformers-devastation.json) |
+| Transformers: Fall of Cybertron | 8361 | [8361-transformers-fall-of-cybertron.json](./8361-transformers-fall-of-cybertron.json) |
 | Transformers: Galactic Trials | 307442 | [307442-transformers-galactic-trials.json](./307442-transformers-galactic-trials.json) |
 | Transformers: Reactivate | 228536 | [228536-transformers-reactivate.json](./228536-transformers-reactivate.json) |
 | Transformers: Revenge of the Fallen | 335116 | [335116-transformers-revenge-of-the-fallen.json](./335116-transformers-revenge-of-the-fallen.json) |
