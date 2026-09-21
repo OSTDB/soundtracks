@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazotoki Suiri! Yuuzai? Muzai? | 251606 | [251606-nazotoki-suiri-yuuzai-muzai.json](./251606-nazotoki-suiri-yuuzai-muzai.json) |
 | Nb107a | 184572 | [184572-nb107a.json](./184572-nb107a.json) |
 | NBA | 100222 | [100222-nba.json](./100222-nba.json) |
+| NBA 06 | 24143 | [24143-nba-06.json](./24143-nba-06.json) |
 | NBA 08: Featuring the Life - Vol.3 | 43526 | [43526-nba-08-featuring-the-life-vol-3.json](./43526-nba-08-featuring-the-life-vol-3.json) |
 | NBA 2K | 8832 | [8832-nba-2k.json](./8832-nba-2k.json) |
 | NBA 2K Mobile Basketball | 127918 | [127918-nba-2k-mobile-basketball.json](./127918-nba-2k-mobile-basketball.json) |
@@ -1635,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nina Aquila: Legal Eagle, Chapter II - Broken Wings | 134658 | [134658-nina-aquila-legal-eagle-chapter-ii-broken-wings.json](./134658-nina-aquila-legal-eagle-chapter-ii-broken-wings.json) |
 | Nina Aquila: Legal Eagle, Season One | 152936 | [152936-nina-aquila-legal-eagle-season-one.json](./152936-nina-aquila-legal-eagle-season-one.json) |
 | Nina in Depravity | 333615 | [333615-nina-in-depravity.json](./333615-nina-in-depravity.json) |
+| Nina: Agent Chronicles | 24090 | [24090-nina-agent-chronicles.json](./24090-nina-agent-chronicles.json) |
 | Nindo: Guardian of the Starlit Shadow | 342050 | [342050-nindo-guardian-of-the-starlit-shadow.json](./342050-nindo-guardian-of-the-starlit-shadow.json) |
 | Nine Errand | 274512 | [274512-nine-errand.json](./274512-nine-errand.json) |
 | Nine Hentai Babes | 368513 | [368513-nine-hentai-babes.json](./368513-nine-hentai-babes.json) |
