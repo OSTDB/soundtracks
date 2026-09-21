@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts Lite | 91330 | [91330-hearts-lite.json](./91330-hearts-lite.json) |
 | Hearts of Iron 2 Complete | 27833 | [27833-hearts-of-iron-2-complete.json](./27833-hearts-of-iron-2-complete.json) |
 | Hearts of Iron III Collection | 53177 | [53177-hearts-of-iron-iii-collection.json](./53177-hearts-of-iron-iii-collection.json) |
+| Hearts of Iron IV | 15894 | [15894-hearts-of-iron-iv.json](./15894-hearts-of-iron-iv.json) |
 | Hearts of Iron IV: Allied Armor Pack | 165012 | [165012-hearts-of-iron-iv-allied-armor-pack.json](./165012-hearts-of-iron-iv-allied-armor-pack.json) |
 | Hearts of Iron IV: Arms Against Tyranny | 253959 | [253959-hearts-of-iron-iv-arms-against-tyranny.json](./253959-hearts-of-iron-iv-arms-against-tyranny.json) |
 | Hearts of Iron IV: By Blood Alone | 206963 | [206963-hearts-of-iron-iv-by-blood-alone.json](./206963-hearts-of-iron-iv-by-blood-alone.json) |
@@ -3055,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
 | Homecoming | 271314 | [271314-homecoming.json](./271314-homecoming.json) |
 | Homecoming: Kitaku | 323708 | [323708-homecoming-kitaku.json](./323708-homecoming-kitaku.json) |
+| Homefront | 1885 | [1885-homefront.json](./1885-homefront.json) |
 | Homefront: The Revolution - Aftermath | 53206 | [53206-homefront-the-revolution-aftermath.json](./53206-homefront-the-revolution-aftermath.json) |
 | Homefront: The Revolution - Beyond the Walls | 53207 | [53207-homefront-the-revolution-beyond-the-walls.json](./53207-homefront-the-revolution-beyond-the-walls.json) |
 | Homefront: The Revolution - The Voice Of Freedom | 53205 | [53205-homefront-the-revolution-the-voice-of-freedom.json](./53205-homefront-the-revolution-the-voice-of-freedom.json) |
@@ -3309,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Source | 86511 | [86511-horizon-source.json](./86511-horizon-source.json) |
 | Horizon V | 24880 | [24880-horizon-v.json](./24880-horizon-v.json) |
 | Horizon X | 57645 | [57645-horizon-x.json](./57645-horizon-x.json) |
+| Horizon Zero Dawn: Complete Edition | 72870 | [72870-horizon-zero-dawn-complete-edition.json](./72870-horizon-zero-dawn-complete-edition.json) |
 | Horizons Light | 376466 | [376466-horizons-light.json](./376466-horizons-light.json) |
 | Horizons: The End Of Words | 314473 | [314473-horizons-the-end-of-words.json](./314473-horizons-the-end-of-words.json) |
 | Hormiga Escape | 315255 | [315255-hormiga-escape.json](./315255-hormiga-escape.json) |
