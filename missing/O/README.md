@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other Submarine | 124143 | [124143-other-submarine.json](./124143-other-submarine.json) |
 | Other World | 154360 | [154360-other-world.json](./154360-other-world.json) |
 | Other World Survivors | 235742 | [235742-other-world-survivors.json](./235742-other-world-survivors.json) |
+| Othercide | 107140 | [107140-othercide.json](./107140-othercide.json) |
 | Otherlights | 275113 | [275113-otherlights.json](./275113-otherlights.json) |
 | Others | 117662 | [117662-others.json](./117662-others.json) |
 | Otherside | 209129 | [209129-otherside.json](./209129-otherside.json) |
@@ -1595,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Friend Sloth | 179196 | [179196-our-friend-sloth.json](./179196-our-friend-sloth.json) |
 | Our Great Revolution! | 180133 | [180133-our-great-revolution.json](./180133-our-great-revolution.json) |
 | Our Life on Water | 276186 | [276186-our-life-on-water.json](./276186-our-life-on-water.json) |
+| Our Life: Beginnings & Always | 122028 | [122028-our-life-beginnings-and-always.json](./122028-our-life-beginnings-and-always.json) |
 | Our Life: Beginnings & Always - Baxter's Story | 248049 | [248049-our-life-beginnings-and-always-baxters-story.json](./248049-our-life-beginnings-and-always-baxters-story.json) |
 | Our Life: Now & Forever | 187392 | [187392-our-life-now-and-forever.json](./187392-our-life-now-and-forever.json) |
 | Our Lovely Escape | 111878 | [111878-our-lovely-escape.json](./111878-our-lovely-escape.json) |
