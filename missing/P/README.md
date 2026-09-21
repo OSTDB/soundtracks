@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pen and Paper Games Bundle | 147799 | [147799-pen-and-paper-games-bundle.json](./147799-pen-and-paper-games-bundle.json) |
 | Pen Fight | 233760 | [233760-pen-fight.json](./233760-pen-fight.json) |
 | Pen Guns | 210098 | [210098-pen-guns.json](./210098-pen-guns.json) |
+| Pen Island VR | 31169 | [31169-pen-island-vr.json](./31169-pen-island-vr.json) |
 | Pen Pals | 145020 | [145020-pen-pals.json](./145020-pen-pals.json) |
 | Pen-chan | 385718 | [385718-pen-chan.json](./385718-pen-chan.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
