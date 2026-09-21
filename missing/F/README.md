@@ -704,6 +704,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far a Night | 389617 | [389617-far-a-night.json](./389617-far-a-night.json) |
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
+| Far Cry 3: Wish You Were Here Edition | 51544 | [51544-far-cry-3-wish-you-were-here-edition.json](./51544-far-cry-3-wish-you-were-here-edition.json) |
+| Far Cry 4: Steelbook Edition | 51531 | [51531-far-cry-4-steelbook-edition.json](./51531-far-cry-4-steelbook-edition.json) |
 | Far Cry 6: Gold Edition | 136403 | [136403-far-cry-6-gold-edition.json](./136403-far-cry-6-gold-edition.json) |
 | Far Cry 6: Lost Between Worlds | 228591 | [228591-far-cry-6-lost-between-worlds.json](./228591-far-cry-6-lost-between-worlds.json) |
 | Far Cry 6: Ultimate Edition | 136404 | [136404-far-cry-6-ultimate-edition.json](./136404-far-cry-6-ultimate-edition.json) |
@@ -1175,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feeding the Monster | 69237 | [69237-feeding-the-monster.json](./69237-feeding-the-monster.json) |
 | Feel the Fear Around | 310737 | [310737-feel-the-fear-around.json](./310737-feel-the-fear-around.json) |
 | Feeling Arrow | 208975 | [208975-feeling-arrow.json](./208975-feeling-arrow.json) |
+| FeeSoeeD | 51556 | [51556-feesoeed.json](./51556-feesoeed.json) |
 | Feet Sweeper | 244495 | [244495-feet-sweeper.json](./244495-feet-sweeper.json) |
 | Feevo HD | 232546 | [232546-feevo-hd.json](./232546-feevo-hd.json) |
 | Fei Duanmu VS Kobayashi | 87955 | [87955-fei-duanmu-vs-kobayashi.json](./87955-fei-duanmu-vs-kobayashi.json) |
@@ -1628,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV: A Realm Reborn - Collector's Edition | 41839 | [41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json](./41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
+| Final Fantasy XIV: Heavensward - Collector's Edition | 51532 | [51532-final-fantasy-xiv-heavensward-collectors-edition.json](./51532-final-fantasy-xiv-heavensward-collectors-edition.json) |
 | Final Fantasy XIV: Stormblood | 26625 | [26625-final-fantasy-xiv-stormblood.json](./26625-final-fantasy-xiv-stormblood.json) |
 | Final Fantasy XIV: The Dark Throne | 246956 | [246956-final-fantasy-xiv-the-dark-throne.json](./246956-final-fantasy-xiv-the-dark-throne.json) |
 | Final Fantasy XV Mobile | 129157 | [129157-final-fantasy-xv-mobile.json](./129157-final-fantasy-xv-mobile.json) |
@@ -2326,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flambo's Inferno | 196164 | [196164-flambos-inferno.json](./196164-flambos-inferno.json) |
 | Flame Gunner | 267397 | [267397-flame-gunner.json](./267397-flame-gunner.json) |
 | Flame Man | 96014 | [96014-flame-man.json](./96014-flame-man.json) |
+| Flame of Mirrors | 51567 | [51567-flame-of-mirrors.json](./51567-flame-of-mirrors.json) |
 | Flame of Rebellion | 238085 | [238085-flame-of-rebellion.json](./238085-flame-of-rebellion.json) |
 | Flame of Recca | 49412 | [49412-flame-of-recca.json](./49412-flame-of-recca.json) |
 | Flame of Valhalla | 329022 | [329022-flame-of-valhalla.json](./329022-flame-of-valhalla.json) |
@@ -2596,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flirting with Yasmine | 238479 | [238479-flirting-with-yasmine.json](./238479-flirting-with-yasmine.json) |
 | Flixy Cats | 165034 | [165034-flixy-cats.json](./165034-flixy-cats.json) |
 | Floain Plus | 375978 | [375978-floain-plus.json](./375978-floain-plus.json) |
+| Float Gallery | 51560 | [51560-float-gallery.json](./51560-float-gallery.json) |
 | Float: Champions | 257948 | [257948-float-champions.json](./257948-float-champions.json) |
 | Floathink | 149936 | [149936-floathink.json](./149936-floathink.json) |
 | Floating Cloud God Saves the Pilgrims in HD! | 84154 | [84154-floating-cloud-god-saves-the-pilgrims-in-hd.json](./84154-floating-cloud-god-saves-the-pilgrims-in-hd.json) |
