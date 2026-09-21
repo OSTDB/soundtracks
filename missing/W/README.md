@@ -2838,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Reloaded: Puzzle Pack | 163430 | [163430-worms-reloaded-puzzle-pack.json](./163430-worms-reloaded-puzzle-pack.json) |
 | Worms Reloaded: Retro Pack | 164380 | [164380-worms-reloaded-retro-pack.json](./164380-worms-reloaded-retro-pack.json) |
 | Worms Reloaded: Time Attack Pack | 164381 | [164381-worms-reloaded-time-attack-pack.json](./164381-worms-reloaded-time-attack-pack.json) |
+| Worms Revolution | 9334 | [9334-worms-revolution.json](./9334-worms-revolution.json) |
 | Worms Revolution: Customization Pack | 225085 | [225085-worms-revolution-customization-pack.json](./225085-worms-revolution-customization-pack.json) |
 | Worms Rumble: Action All-Stars Pack | 261333 | [261333-worms-rumble-action-all-stars-pack.json](./261333-worms-rumble-action-all-stars-pack.json) |
 | Worms Rumble: Bank Heist Double Pack | 225086 | [225086-worms-rumble-bank-heist-double-pack.json](./225086-worms-rumble-bank-heist-double-pack.json) |
@@ -2848,6 +2849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms: Open Warfare 2 | 18314 | [18314-worms-open-warfare-2.json](./18314-worms-open-warfare-2.json) |
 | Worms: Reinforcements | 24938 | [24938-worms-reinforcements.json](./24938-worms-reinforcements.json) |
 | Worms: The Revolution Collection | 44577 | [44577-worms-the-revolution-collection.json](./44577-worms-the-revolution-collection.json) |
+| Worms: Ultimate Mayhem | 9333 | [9333-worms-ultimate-mayhem.json](./9333-worms-ultimate-mayhem.json) |
 | Worms: Ultimate Mayhem - Customization Pack | 225090 | [225090-worms-ultimate-mayhem-customization-pack.json](./225090-worms-ultimate-mayhem-customization-pack.json) |
 | Wormswarm | 275344 | [275344-wormswarm.json](./275344-wormswarm.json) |
 | Wormventures: Barrier 51 | 196132 | [196132-wormventures-barrier-51.json](./196132-wormventures-barrier-51.json) |
