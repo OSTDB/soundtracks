@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Of Death | 266887 | [266887-dance-of-death.json](./266887-dance-of-death.json) |
 | Dance of the Butterflies | 412278 | [412278-dance-of-the-butterflies.json](./412278-dance-of-the-butterflies.json) |
 | Dance of the Vampires | 168323 | [168323-dance-of-the-vampires.json](./168323-dance-of-the-vampires.json) |
+| Dance On | 54685 | [54685-dance-on.json](./54685-dance-on.json) |
 | Dance Praise 2: The ReMix | 209002 | [209002-dance-praise-2-the-remix.json](./209002-dance-praise-2-the-remix.json) |
 | Dance Praise: The Original | 209001 | [209001-dance-praise-the-original.json](./209001-dance-praise-the-original.json) |
 | Dance School Stories | 89824 | [89824-dance-school-stories.json](./89824-dance-school-stories.json) |
@@ -1953,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Seed | 218135 | [218135-demon-seed.json](./218135-demon-seed.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Nezuko Advanced Demon Form | 213410 | [213410-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-nezuko-advanced-demon-form.json](./213410-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-nezuko-advanced-demon-form.json) |
+| Demon Stalkers | 54711 | [54711-demon-stalkers.json](./54711-demon-stalkers.json) |
 | Demon Still Alive | 306344 | [306344-demon-still-alive.json](./306344-demon-still-alive.json) |
 | Demon Strikes Back | 156647 | [156647-demon-strikes-back.json](./156647-demon-strikes-back.json) |
 | Demon Survival | 226756 | [226756-demon-survival.json](./226756-demon-survival.json) |
@@ -3290,6 +3292,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distorted Echos | 217323 | [217323-distorted-echos.json](./217323-distorted-echos.json) |
 | Distorted Minds | 414409 | [414409-distorted-minds.json](./414409-distorted-minds.json) |
 | Distorted Signal | 413667 | [413667-distorted-signal.json](./413667-distorted-signal.json) |
+| Distorted Travesty | 54745 | [54745-distorted-travesty.json](./54745-distorted-travesty.json) |
+| Distorted Travesty 2: The Sequel to the Prequel | 54746 | [54746-distorted-travesty-2-the-sequel-to-the-prequel.json](./54746-distorted-travesty-2-the-sequel-to-the-prequel.json) |
 | Distorted world | 157030 | [157030-distorted-world.json](./157030-distorted-world.json) |
 | Distortion Nation | 135048 | [135048-distortion-nation.json](./135048-distortion-nation.json) |
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
