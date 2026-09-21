@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zarktor's Realm | 189172 | [189172-zarktors-realm.json](./189172-zarktors-realm.json) |
 | Zarth | 45977 | [45977-zarth.json](./45977-zarth.json) |
 | Zarya | 290961 | [290961-zarya.json](./290961-zarya.json) |
+| Zarya and the Cursed Skull | 29229 | [29229-zarya-and-the-cursed-skull.json](./29229-zarya-and-the-cursed-skull.json) |
 | Zatch Bell! Mamodo Fury Update | 358308 | [358308-zatch-bell-mamodo-fury-update.json](./358308-zatch-bell-mamodo-fury-update.json) |
 | Zatsugaku Olympic Quiz Part II | 41419 | [41419-zatsugaku-olympic-quiz-part-ii.json](./41419-zatsugaku-olympic-quiz-part-ii.json) |
 | Zavix Tower | 25104 | [25104-zavix-tower.json](./25104-zavix-tower.json) |
