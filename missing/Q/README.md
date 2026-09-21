@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Thiz USA: Gold Edition | 227881 | [227881-quiz-thiz-usa-gold-edition.json](./227881-quiz-thiz-usa-gold-edition.json) |
 | Quiz VS! | 361230 | [361230-quiz-vs.json](./361230-quiz-vs.json) |
 | Quiz.com | 221386 | [221386-quiz-com.json](./221386-quiz-com.json) |
+| Quizality | 30199 | [30199-quizality.json](./30199-quizality.json) |
 | Quizania | 62704 | [62704-quizania.json](./62704-quizania.json) |
 | Quizarium | 232569 | [232569-quizarium.json](./232569-quizarium.json) |
 | Quizball Goal | 94167 | [94167-quizball-goal.json](./94167-quizball-goal.json) |
