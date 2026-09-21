@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenka Banchou Otome: Kanzen Muketsu no My Honey | 54743 | [54743-kenka-banchou-otome-kanzen-muketsu-no-my-honey.json](./54743-kenka-banchou-otome-kanzen-muketsu-no-my-honey.json) |
 | Kenka ga Tsuyokute Cool de Tsuyoki no Furyou Kanojo ga Yowai Boku o Kabatte Kegasaremasu | 82481 | [82481-kenka-ga-tsuyokute-cool-de-tsuyoki-no-furyou-kanojo-ga-yowai-boku-o-kabatte-kegasaremasu.json](./82481-kenka-ga-tsuyokute-cool-de-tsuyoki-no-furyou-kanojo-ga-yowai-boku-o-kabatte-kegasaremasu.json) |
 | KenKen: Train Your Brain | 68022 | [68022-kenken-train-your-brain.json](./68022-kenken-train-your-brain.json) |
+| Kennedy Approach | 25920 | [25920-kennedy-approach.json](./25920-kennedy-approach.json) |
 | Kenny vs. Spenny: The Handheld Game | 395002 | [395002-kenny-vs-spenny-the-handheld-game.json](./395002-kenny-vs-spenny-the-handheld-game.json) |
 | Kenny's Adventure | 268204 | [268204-kennys-adventure.json](./268204-kennys-adventure.json) |
 | Kenny's Adventure: In search of family treasures | 70352 | [70352-kennys-adventure-in-search-of-family-treasures.json](./70352-kennys-adventure-in-search-of-family-treasures.json) |
