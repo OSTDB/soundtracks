@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idiom Royale | 392929 | [392929-idiom-royale.json](./392929-idiom-royale.json) |
 | Idiot | 158656 | [158656-idiot.json](./158656-idiot.json) |
 | Idiot Brain Evolution | 368013 | [368013-idiot-brain-evolution.json](./368013-idiot-brain-evolution.json) |
+| Idiot Squad | 52247 | [52247-idiot-squad.json](./52247-idiot-squad.json) |
 | Idiot Test | 122436 | [122436-idiot-test.json](./122436-idiot-test.json) |
 | Idle Acorns | 365117 | [365117-idle-acorns.json](./365117-idle-acorns.json) |
 | Idle Adventure | 75814 | [75814-idle-adventure.json](./75814-idle-adventure.json) |
@@ -1107,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
 | Indoor Rock Climbing VR | 81757 | [81757-indoor-rock-climbing-vr.json](./81757-indoor-rock-climbing-vr.json) |
 | Indoor Soccer for the TI 99/4A | 93990 | [93990-indoor-soccer-for-the-ti-99-4a.json](./93990-indoor-soccer-for-the-ti-99-4a.json) |
+| Indoor Sports World | 52246 | [52246-indoor-sports-world.json](./52246-indoor-sports-world.json) |
 | Indoors: The Alston Manor | 269005 | [269005-indoors-the-alston-manor.json](./269005-indoors-the-alston-manor.json) |
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
 | Inductor | 211282 | [211282-inductor.json](./211282-inductor.json) |
@@ -1417,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner | 121487 | [121487-inner.json](./121487-inner.json) |
 | Inner Ashes | 217007 | [217007-inner-ashes.json](./217007-inner-ashes.json) |
 | Inner Blade | 244753 | [244753-inner-blade.json](./244753-inner-blade.json) |
+| Inner City Kids | 52245 | [52245-inner-city-kids.json](./52245-inner-city-kids.json) |
 | Inner Fire | 97341 | [97341-inner-fire.json](./97341-inner-fire.json) |
 | Inner Life | 185081 | [185081-inner-life.json](./185081-inner-life.json) |
 | Inner Riddle | 96669 | [96669-inner-riddle.json](./96669-inner-riddle.json) |
@@ -1842,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inzipid | 74476 | [74476-inzipid.json](./74476-inzipid.json) |
 | Inzo | 99609 | [99609-inzo.json](./99609-inzo.json) |
 | IOI Collection | 154503 | [154503-ioi-collection.json](./154503-ioi-collection.json) |
+| Ion Assault HD | 52244 | [52244-ion-assault-hd.json](./52244-ion-assault-hd.json) |
 | Ion Fury: Aftershock | 145471 | [145471-ion-fury-aftershock.json](./145471-ion-fury-aftershock.json) |
 | Ion Shift | 257941 | [257941-ion-shift.json](./257941-ion-shift.json) |
 | Ion.A | 290541 | [290541-ion-a.json](./290541-ion-a.json) |
