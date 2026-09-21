@@ -1548,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decimated | 206358 | [206358-decimated.json](./206358-decimated.json) |
 | Decimation X | 66374 | [66374-decimation-x.json](./66374-decimation-x.json) |
 | Decision | 299762 | [299762-decision.json](./299762-decision.json) |
+| Decision in the Desert | 25923 | [25923-decision-in-the-desert.json](./25923-decision-in-the-desert.json) |
 | Decisive Campaigns: Barbarossa | 33205 | [33205-decisive-campaigns-barbarossa.json](./33205-decisive-campaigns-barbarossa.json) |
 | Deck Adventurers II | 199570 | [199570-deck-adventurers-ii.json](./199570-deck-adventurers-ii.json) |
 | Deck Collector | 404827 | [404827-deck-collector.json](./404827-deck-collector.json) |
@@ -3303,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Mulan Training Game | 246946 | [246946-disneys-mulan-training-game.json](./246946-disneys-mulan-training-game.json) |
 | Disney's Party | 242808 | [242808-disneys-party.json](./242808-disneys-party.json) |
 | Disney's Pocahantas: Riverbend Adventures | 76602 | [76602-disneys-pocahantas-riverbend-adventures.json](./76602-disneys-pocahantas-riverbend-adventures.json) |
+| Disney's Stitch: Experiment 626 | 25911 | [25911-disneys-stitch-experiment-626.json](./25911-disneys-stitch-experiment-626.json) |
 | Disney's TaleSpin | 198936 | [198936-disneys-talespin.json](./198936-disneys-talespin.json) |
 | Disney's Tarzan Activity Center | 57923 | [57923-disneys-tarzan-activity-center.json](./57923-disneys-tarzan-activity-center.json) |
 | Disney's Tarzan: Return to the Jungle | 49339 | [49339-disneys-tarzan-return-to-the-jungle.json](./49339-disneys-tarzan-return-to-the-jungle.json) |
@@ -3468,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Djinn Caster | 129605 | [129605-djinn-caster.json](./129605-djinn-caster.json) |
 | Djinni & Thaco: Trial By Spire | 132779 | [132779-djinni-and-thaco-trial-by-spire.json](./132779-djinni-and-thaco-trial-by-spire.json) |
 | DJLand | 371909 | [371909-djland.json](./371909-djland.json) |
+| DJMax Portable | 25913 | [25913-djmax-portable.json](./25913-djmax-portable.json) |
 | DJMax Portable: Clazziquai Edition | 79327 | [79327-djmax-portable-clazziquai-edition.json](./79327-djmax-portable-clazziquai-edition.json) |
 | DJMax Respect | 28192 | [28192-djmax-respect.json](./28192-djmax-respect.json) |
 | DJMax Respect V: Arcaea Pack | 366929 | [366929-djmax-respect-v-arcaea-pack.json](./366929-djmax-respect-v-arcaea-pack.json) |
