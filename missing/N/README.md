@@ -1381,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick's Night Out | 123052 | [123052-nicks-night-out.json](./123052-nicks-night-out.json) |
 | Nickelback Revenge | 66043 | [66043-nickelback-revenge.json](./66043-nickelback-revenge.json) |
 | Nickelodeon 3D Movie Maker | 62966 | [62966-nickelodeon-3d-movie-maker.json](./62966-nickelodeon-3d-movie-maker.json) |
+| Nickelodeon All-Star Brawl 2 | 259206 | [259206-nickelodeon-all-star-brawl-2.json](./259206-nickelodeon-all-star-brawl-2.json) |
 | Nickelodeon All-Star Brawl 2: Costume Pack | 275617 | [275617-nickelodeon-all-star-brawl-2-costume-pack.json](./275617-nickelodeon-all-star-brawl-2-costume-pack.json) |
 | Nickelodeon All-Star Brawl 2: Iroh Brawl Pack | 313298 | [313298-nickelodeon-all-star-brawl-2-iroh-brawl-pack.json](./313298-nickelodeon-all-star-brawl-2-iroh-brawl-pack.json) |
 | Nickelodeon All-Star Brawl 2: Season Pass | 275618 | [275618-nickelodeon-all-star-brawl-2-season-pass.json](./275618-nickelodeon-all-star-brawl-2-season-pass.json) |
@@ -2021,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Time Left | 104111 | [104111-no-time-left.json](./104111-no-time-left.json) |
 | No Time Left | 385729 | [385729-no-time-left.json](./385729-no-time-left.json) |
 | No Time to Build | 337484 | [337484-no-time-to-build.json](./337484-no-time-to-build.json) |
+| No Time to Explain | 9560 | [9560-no-time-to-explain.json](./9560-no-time-to-explain.json) |
 | No Time to Relax | 111370 | [111370-no-time-to-relax.json](./111370-no-time-to-relax.json) |
 | No toilet paper!! | 151682 | [151682-no-toilet-paper.json](./151682-no-toilet-paper.json) |
 | No Transmission | 183070 | [183070-no-transmission.json](./183070-no-transmission.json) |
@@ -2477,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Inc 2 | 100862 | [100862-nuclear-inc-2.json](./100862-nuclear-inc-2.json) |
 | Nuclear Lizard Island Rampage | 318434 | [318434-nuclear-lizard-island-rampage.json](./318434-nuclear-lizard-island-rampage.json) |
 | Nuclear Mages | 230942 | [230942-nuclear-mages.json](./230942-nuclear-mages.json) |
+| Nuclear Nightmare | 297163 | [297163-nuclear-nightmare.json](./297163-nuclear-nightmare.json) |
 | Nuclear Outrun | 234601 | [234601-nuclear-outrun.json](./234601-nuclear-outrun.json) |
 | Nuclear Plant 2024 | 308267 | [308267-nuclear-plant-2024.json](./308267-nuclear-plant-2024.json) |
 | Nuclear Platypus Adventure | 179141 | [179141-nuclear-platypus-adventure.json](./179141-nuclear-platypus-adventure.json) |
