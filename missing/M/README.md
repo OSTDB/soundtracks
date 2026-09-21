@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martian Space Blaster | 186261 | [186261-martian-space-blaster.json](./186261-martian-space-blaster.json) |
 | Martian Successor Nadesico ~Yappari Saigo ha [Ai ga Katsu] ?~ | 125375 | [125375-martian-successor-nadesico-yappari-saigo-ha-ai-ga-katsu.json](./125375-martian-successor-nadesico-yappari-saigo-ha-ai-ga-katsu.json) |
 | Martian Successor Nadesico: Nadesico the Mission | 125366 | [125366-martian-successor-nadesico-nadesico-the-mission.json](./125366-martian-successor-nadesico-nadesico-the-mission.json) |
+| Martian Threat | 41568 | [41568-martian-threat.json](./41568-martian-threat.json) |
 | Martian Wars | 137692 | [137692-martian-wars.json](./137692-martian-wars.json) |
 | Martin Mystère: Operation Dorian Gray | 9102 | [9102-martin-mystere-operation-dorian-gray.json](./9102-martin-mystere-operation-dorian-gray.json) |
 | Martin Mystery: Monster Invasion | 194613 | [194613-martin-mystery-monster-invasion.json](./194613-martin-mystery-monster-invasion.json) |
@@ -4185,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Quest Dog and Cat | 368566 | [368566-mirror-quest-dog-and-cat.json](./368566-mirror-quest-dog-and-cat.json) |
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
 | Mirror's Edge 2D | 77347 | [77347-mirrors-edge-2d.json](./77347-mirrors-edge-2d.json) |
+| Mirror's Edge Catalyst: Collector's Edition | 41618 | [41618-mirrors-edge-catalyst-collectors-edition.json](./41618-mirrors-edge-catalyst-collectors-edition.json) |
 | Mirrorama | 186824 | [186824-mirrorama.json](./186824-mirrorama.json) |
 | Mirrored Souls | 244278 | [244278-mirrored-souls.json](./244278-mirrored-souls.json) |
 | Mirrorscape | 270120 | [270120-mirrorscape.json](./270120-mirrorscape.json) |
@@ -4811,6 +4813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkeys & Typewriters! | 319798 | [319798-monkeys-and-typewriters.json](./319798-monkeys-and-typewriters.json) |
 | Monkeys to the Moon | 57097 | [57097-monkeys-to-the-moon.json](./57097-monkeys-to-the-moon.json) |
 | Monkeys With Guns | 177414 | [177414-monkeys-with-guns.json](./177414-monkeys-with-guns.json) |
+| Monkeyshines | 41566 | [41566-monkeyshines.json](./41566-monkeyshines.json) |
 | Monkeytype | 137456 | [137456-monkeytype.json](./137456-monkeytype.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
 | Mono Grav | 185110 | [185110-mono-grav.json](./185110-mono-grav.json) |
@@ -5589,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto X Maniac | 66936 | [66936-moto-x-maniac.json](./66936-moto-x-maniac.json) |
 | Moto X3M 2 | 95990 | [95990-moto-x3m-2.json](./95990-moto-x3m-2.json) |
 | Moto X3M 3 | 142394 | [142394-moto-x3m-3.json](./142394-moto-x3m-3.json) |
+| Moto-Crash + | 41565 | [41565-moto-crash.json](./41565-moto-crash.json) |
 | Motobug the Badnik in Sonic the Hedgehog | 201831 | [201831-motobug-the-badnik-in-sonic-the-hedgehog.json](./201831-motobug-the-badnik-in-sonic-the-hedgehog.json) |
 | Motocross | 72336 | [72336-motocross.json](./72336-motocross.json) |
 | Motocross Maniacs 2 | 49891 | [49891-motocross-maniacs-2.json](./49891-motocross-maniacs-2.json) |
@@ -5860,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Rescue | 51222 | [51222-mr-rescue.json](./51222-mr-rescue.json) |
 | Mr. Rightaway | 341341 | [341341-mr-rightaway.json](./341341-mr-rightaway.json) |
 | Mr. Robot and His Robot Factory | 23900 | [23900-mr-robot-and-his-robot-factory.json](./23900-mr-robot-and-his-robot-factory.json) |
+| Mr. Roboto! | 41578 | [41578-mr-roboto.json](./41578-mr-roboto.json) |
 | Mr. Run and Jump 2600 | 280753 | [280753-mr-run-and-jump-2600.json](./280753-mr-run-and-jump-2600.json) |
 | Mr. Runner | 246474 | [246474-mr-runner.json](./246474-mr-runner.json) |
 | Mr. Setam: Lady Killer | 61118 | [61118-mr-setam-lady-killer.json](./61118-mr-setam-lady-killer.json) |
@@ -6176,6 +6181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musical Reflex | 80937 | [80937-musical-reflex.json](./80937-musical-reflex.json) |
 | Musical Vibes | 257971 | [257971-musical-vibes.json](./257971-musical-vibes.json) |
 | Musical Zoo | 79934 | [79934-musical-zoo.json](./79934-musical-zoo.json) |
+| Musician | 41563 | [41563-musician.json](./41563-musician.json) |
 | Musicmenia | 314477 | [314477-musicmenia.json](./314477-musicmenia.json) |
 | Musicus! | 125432 | [125432-musicus.json](./125432-musicus.json) |
 | Musicus! | 185708 | [185708-musicus.json](./185708-musicus.json) |
