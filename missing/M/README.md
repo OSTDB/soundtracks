@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MageRun | 192361 | [192361-magerun.json](./192361-magerun.json) |
 | Mages of Osmea | 312199 | [312199-mages-of-osmea.json](./312199-mages-of-osmea.json) |
 | Maggie's Apartment | 50504 | [50504-maggies-apartment.json](./50504-maggies-apartment.json) |
+| Maggie's Movies - Camera, Action! | 61879 | [61879-maggies-movies-camera-action.json](./61879-maggies-movies-camera-action.json) |
 | Maggie's Movies: Second Shot | 132789 | [132789-maggies-movies-second-shot.json](./132789-maggies-movies-second-shot.json) |
 | Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
 | Magi: Mind Game | 197917 | [197917-magi-mind-game.json](./197917-magi-mind-game.json) |
@@ -1559,6 +1560,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Help Me! | 258518 | [258518-mary-help-me.json](./258518-mary-help-me.json) |
 | Mary Jane | 374154 | [374154-mary-jane.json](./374154-mary-jane.json) |
 | Mary Kate and Ashley's Dance Party of the Century | 209555 | [209555-mary-kate-and-ashleys-dance-party-of-the-century.json](./209555-mary-kate-and-ashleys-dance-party-of-the-century.json) |
+| Mary King's Riding School | 61856 | [61856-mary-kings-riding-school.json](./61856-mary-kings-riding-school.json) |
+| Mary King's Riding School 2 | 61857 | [61857-mary-kings-riding-school-2.json](./61857-mary-kings-riding-school-2.json) |
 | Mary King's Riding Star | 64921 | [64921-mary-kings-riding-star.json](./64921-mary-kings-riding-star.json) |
 | Mary Knots: Garden Wedding | 170554 | [170554-mary-knots-garden-wedding.json](./170554-mary-knots-garden-wedding.json) |
 | Mary Shelley's Frankenstein | 257663 | [257663-mary-shelleys-frankenstein.json](./257663-mary-shelleys-frankenstein.json) |
@@ -5822,6 +5825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Rufiia's Struggle for Repayment: To Be a Lewd Arcdaemon | 82882 | [82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json](./82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json) |
 | Ms. Squeaker's Home for the Sick | 109402 | [109402-ms-squeakers-home-for-the-sick.json](./109402-ms-squeakers-home-for-the-sick.json) |
 | MSCR | 310930 | [310930-mscr.json](./310930-mscr.json) |
+| MSI Electric City: Core Assault | 61878 | [61878-msi-electric-city-core-assault.json](./61878-msi-electric-city-core-assault.json) |
 | MSO FreeCell Arena | 417561 | [417561-mso-freecell-arena.json](./417561-mso-freecell-arena.json) |
 | Msoids | 199081 | [199081-msoids.json](./199081-msoids.json) |
 | MSSP 9: New Pietniemi | 308263 | [308263-mssp-9-new-pietniemi.json](./308263-mssp-9-new-pietniemi.json) |
