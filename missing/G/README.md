@@ -782,10 +782,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War 2: Combustible Map Pack | 299997 | [299997-gears-of-war-2-combustible-map-pack.json](./299997-gears-of-war-2-combustible-map-pack.json) |
 | Gears of War 2: Flashback Map Pack | 299996 | [299996-gears-of-war-2-flashback-map-pack.json](./299996-gears-of-war-2-flashback-map-pack.json) |
 | Gears of War 2: Game of the Year Edition | 47465 | [47465-gears-of-war-2-game-of-the-year-edition.json](./47465-gears-of-war-2-game-of-the-year-edition.json) |
+| Gears of War 2: Limited Edition | 41599 | [41599-gears-of-war-2-limited-edition.json](./41599-gears-of-war-2-limited-edition.json) |
 | Gears of War 2: Snowblind Map Pack | 299998 | [299998-gears-of-war-2-snowblind-map-pack.json](./299998-gears-of-war-2-snowblind-map-pack.json) |
 | Gears of War 3: Fenix Rising | 20656 | [20656-gears-of-war-3-fenix-rising.json](./20656-gears-of-war-3-fenix-rising.json) |
 | Gears of War 4: Amazon Exclusive Collector's Edition | 51540 | [51540-gears-of-war-4-amazon-exclusive-collectors-edition.json](./51540-gears-of-war-4-amazon-exclusive-collectors-edition.json) |
 | Gears of War: E-Day | 305160 | [305160-gears-of-war-e-day.json](./305160-gears-of-war-e-day.json) |
+| Gears of War: Ultimate Edition and Rare Replay | 41613 | [41613-gears-of-war-ultimate-edition-and-rare-replay.json](./41613-gears-of-war-ultimate-edition-and-rare-replay.json) |
 | GearStorm | 117651 | [117651-gearstorm.json](./117651-gearstorm.json) |
 | Gearz | 71763 | [71763-gearz.json](./71763-gearz.json) |
 | Geas | 228695 | [228695-geas.json](./228695-geas.json) |
