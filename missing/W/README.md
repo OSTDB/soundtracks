@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winzer | 77383 | [77383-winzer.json](./77383-winzer.json) |
 | Wipe Out | 18160 | [18160-wipe-out.json](./18160-wipe-out.json) |
 | Wipe Out VR | 81248 | [81248-wipe-out-vr.json](./81248-wipe-out-vr.json) |
+| Wipeout | 1083 | [1083-wipeout.json](./1083-wipeout.json) |
 | Wipeout | 109445 | [109445-wipeout.json](./109445-wipeout.json) |
 | Wipeout | 265970 | [265970-wipeout.json](./265970-wipeout.json) |
 | Wipeout | 351100 | [351100-wipeout.json](./351100-wipeout.json) |
