@@ -2469,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 5 Prologue | 1599 | [1599-gran-turismo-5-prologue.json](./1599-gran-turismo-5-prologue.json) |
 | Gran Turismo 5 Spec 2.0 | 136852 | [136852-gran-turismo-5-spec-2-0.json](./136852-gran-turismo-5-spec-2-0.json) |
 | Gran Turismo 5: Prologue Spec III | 77993 | [77993-gran-turismo-5-prologue-spec-iii.json](./77993-gran-turismo-5-prologue-spec-iii.json) |
+| Gran Turismo Sport | 14363 | [14363-gran-turismo-sport.json](./14363-gran-turismo-sport.json) |
 | Gran Turismo Sport: Collector's Edition | 138775 | [138775-gran-turismo-sport-collectors-edition.json](./138775-gran-turismo-sport-collectors-edition.json) |
 | Gran Turismo Sport: Day One Edition | 138770 | [138770-gran-turismo-sport-day-one-edition.json](./138770-gran-turismo-sport-day-one-edition.json) |
 | Gran Turismo Sport: Digital Deluxe Edition | 138776 | [138776-gran-turismo-sport-digital-deluxe-edition.json](./138776-gran-turismo-sport-digital-deluxe-edition.json) |
@@ -2550,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto | 44870 | [44870-grand-theft-auto.json](./44870-grand-theft-auto.json) |
 | Grand Theft Auto III: 10 Year Anniversary Edition | 22930 | [22930-grand-theft-auto-iii-10-year-anniversary-edition.json](./22930-grand-theft-auto-iii-10-year-anniversary-edition.json) |
 | Grand Theft Auto III: The Definitive Edition | 178123 | [178123-grand-theft-auto-iii-the-definitive-edition.json](./178123-grand-theft-auto-iii-the-definitive-edition.json) |
+| Grand Theft Auto IV: Complete Edition | 27912 | [27912-grand-theft-auto-iv-complete-edition.json](./27912-grand-theft-auto-iv-complete-edition.json) |
 | Grand Theft Auto Online | 134710 | [134710-grand-theft-auto-online.json](./134710-grand-theft-auto-online.json) |
 | Grand Theft Auto Online: A Safehouse in the Hills | 380532 | [380532-grand-theft-auto-online-a-safehouse-in-the-hills.json](./380532-grand-theft-auto-online-a-safehouse-in-the-hills.json) |
 | Grand Theft Auto Online: Criminal Enterprise Starter Pack | 334770 | [334770-grand-theft-auto-online-criminal-enterprise-starter-pack.json](./334770-grand-theft-auto-online-criminal-enterprise-starter-pack.json) |
@@ -3157,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Beets Clicker | 259556 | [259556-grow-beets-clicker.json](./259556-grow-beets-clicker.json) |
 | Grow Big (or Go Home) | 141221 | [141221-grow-big-or-go-home.json](./141221-grow-big-or-go-home.json) |
 | Grow Golf | 394884 | [394884-grow-golf.json](./394884-grow-golf.json) |
+| Grow Home | 8774 | [8774-grow-home.json](./8774-grow-home.json) |
 | Grow Home & Grow Up | 354503 | [354503-grow-home-and-grow-up.json](./354503-grow-home-and-grow-up.json) |
 | Grow Recovery | 175835 | [175835-grow-recovery.json](./175835-grow-recovery.json) |
 | Grow RPG | 175831 | [175831-grow-rpg.json](./175831-grow-rpg.json) |
@@ -3302,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Receptionist: Good Luck | 339103 | [339103-guild-receptionist-good-luck.json](./339103-guild-receptionist-good-luck.json) |
 | Guild Saga: Vanished Worlds | 244758 | [244758-guild-saga-vanished-worlds.json](./244758-guild-saga-vanished-worlds.json) |
 | Guild Soup | 408907 | [408907-guild-soup.json](./408907-guild-soup.json) |
+| Guild Wars | 234 | [234-guild-wars.json](./234-guild-wars.json) |
 | Guild Wars 2: Elder Dragon Saga - Complete Collection | 293924 | [293924-guild-wars-2-elder-dragon-saga-complete-collection.json](./293924-guild-wars-2-elder-dragon-saga-complete-collection.json) |
 | Guild Wars 2: End of Dragons | 159254 | [159254-guild-wars-2-end-of-dragons.json](./159254-guild-wars-2-end-of-dragons.json) |
 | Guild Wars 2: Heart of Thorns | 13183 | [13183-guild-wars-2-heart-of-thorns.json](./13183-guild-wars-2-heart-of-thorns.json) |
