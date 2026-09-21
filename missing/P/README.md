@@ -1750,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2: Howzer Pack | 225863 | [225863-phantasy-star-online-2-howzer-pack.json](./225863-phantasy-star-online-2-howzer-pack.json) |
 | Phantasy Star Online 2: Sonic Collaboration Edition | 132156 | [132156-phantasy-star-online-2-sonic-collaboration-edition.json](./132156-phantasy-star-online-2-sonic-collaboration-edition.json) |
 | Phantasy Star Online 2: Vivienne Pack | 225862 | [225862-phantasy-star-online-2-vivienne-pack.json](./225862-phantasy-star-online-2-vivienne-pack.json) |
+| Phantasy Star Online Episode I & II | 9890 | [9890-phantasy-star-online-episode-i-and-ii.json](./9890-phantasy-star-online-episode-i-and-ii.json) |
 | Phantasy Star: Fukkoku-ban | 45529 | [45529-phantasy-star-fukkoku-ban.json](./45529-phantasy-star-fukkoku-ban.json) |
 | PhantazmA | 125429 | [125429-phantazma.json](./125429-phantazma.json) |
 | Phantom | 258994 | [258994-phantom.json](./258994-phantom.json) |
@@ -2627,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Dash | 265778 | [265778-pixel-dash.json](./265778-pixel-dash.json) |
 | Pixel Drifters | 234320 | [234320-pixel-drifters.json](./234320-pixel-drifters.json) |
 | Pixel Driver | 185656 | [185656-pixel-driver.json](./185656-pixel-driver.json) |
+| Pixel Dungeon | 9795 | [9795-pixel-dungeon.json](./9795-pixel-dungeon.json) |
 | Pixel Dungeon RPG | 326616 | [326616-pixel-dungeon-rpg.json](./326616-pixel-dungeon-rpg.json) |
 | Pixel Exploration: Craft Edition | 101574 | [101574-pixel-exploration-craft-edition.json](./101574-pixel-exploration-craft-edition.json) |
 | Pixel Express | 107835 | [107835-pixel-express.json](./107835-pixel-express.json) |
@@ -3780,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
 | Polterquest | 345027 | [345027-polterquest.json](./345027-polterquest.json) |
+| Poly Bridge 2 | 132002 | [132002-poly-bridge-2.json](./132002-poly-bridge-2.json) |
 | Poly Bridge 3 | 243400 | [243400-poly-bridge-3.json](./243400-poly-bridge-3.json) |
 | Poly City : Vengeance | 114423 | [114423-poly-city-vengeance.json](./114423-poly-city-vengeance.json) |
 | Poly Gangs | 159724 | [159724-poly-gangs.json](./159724-poly-gangs.json) |
