@@ -2024,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Digger: The Simulator | 315835 | [315835-gold-digger-the-simulator.json](./315835-gold-digger-the-simulator.json) |
 | Gold Drill | 215688 | [215688-gold-drill.json](./215688-gold-drill.json) |
 | Gold Drop Mania | 329919 | [329919-gold-drop-mania.json](./329919-gold-drop-mania.json) |
+| Gold Fever | 22731 | [22731-gold-fever.json](./22731-gold-fever.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
 | Gold Knight | 277269 | [277269-gold-knight.json](./277269-gold-knight.json) |
 | Gold Miner 8bit HD | 91124 | [91124-gold-miner-8bit-hd.json](./91124-gold-miner-8bit-hd.json) |
@@ -2303,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GooseGogs | 92290 | [92290-goosegogs.json](./92290-goosegogs.json) |
 | Goospace | 240812 | [240812-goospace.json](./240812-goospace.json) |
 | GoPets: Vacation Island | 124019 | [124019-gopets-vacation-island.json](./124019-gopets-vacation-island.json) |
+| Gopher | 22764 | [22764-gopher.json](./22764-gopher.json) |
 | Gophers | 185035 | [185035-gophers.json](./185035-gophers.json) |
 | Gophy | 234325 | [234325-gophy.json](./234325-gophy.json) |
 | Gopnik | 153461 | [153461-gopnik.json](./153461-gopnik.json) |
@@ -3588,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunstable | 180800 | [180800-gunstable.json](./180800-gunstable.json) |
 | Gunstar | 13003 | [13003-gunstar.json](./13003-gunstar.json) |
 | Gunstar Heroes | 248636 | [248636-gunstar-heroes.json](./248636-gunstar-heroes.json) |
+| Gunstar Heroes: Treasure Box | 22745 | [22745-gunstar-heroes-treasure-box.json](./22745-gunstar-heroes-treasure-box.json) |
 | GunStar's Gambit | 340405 | [340405-gunstars-gambit.json](./340405-gunstars-gambit.json) |
 | Gunstars | 209467 | [209467-gunstars.json](./209467-gunstars.json) |
 | Gunswitch | 306373 | [306373-gunswitch.json](./306373-gunswitch.json) |
