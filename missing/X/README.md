@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XenoShyft: Dreadmire | 170380 | [170380-xenoshyft-dreadmire.json](./170380-xenoshyft-dreadmire.json) |
 | XenoShyft: Forbidden Sciences | 170378 | [170378-xenoshyft-forbidden-sciences.json](./170378-xenoshyft-forbidden-sciences.json) |
 | XenoShyft: NorTec Elite | 170379 | [170379-xenoshyft-nortec-elite.json](./170379-xenoshyft-nortec-elite.json) |
+| Xenoslaive Overdrive | 51501 | [51501-xenoslaive-overdrive.json](./51501-xenoslaive-overdrive.json) |
 | Xenosphere | 301956 | [301956-xenosphere.json](./301956-xenosphere.json) |
 | XenoTown | 192884 | [192884-xenotown.json](./192884-xenotown.json) |
 | Xenowar | 70390 | [70390-xenowar.json](./70390-xenowar.json) |
