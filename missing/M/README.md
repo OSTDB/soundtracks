@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic: ManaStrike | 125270 | [125270-magic-manastrike.json](./125270-magic-manastrike.json) |
 | Magic: Puzzle Quest | 111748 | [111748-magic-puzzle-quest.json](./111748-magic-puzzle-quest.json) |
 | Magic: The Gathering - Battlegrounds | 5907 | [5907-magic-the-gathering-battlegrounds.json](./5907-magic-the-gathering-battlegrounds.json) |
+| Magic: The Gathering - Duels of the Planeswalkers 2013 | 1891 | [1891-magic-the-gathering-duels-of-the-planeswalkers-2013.json](./1891-magic-the-gathering-duels-of-the-planeswalkers-2013.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2015 | 18218 | [18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json](./18218-magic-the-gathering-duels-of-the-planeswalkers-2015.json) |
 | Magica X Magica | 200018 | [200018-magica-x-magica.json](./200018-magica-x-magica.json) |
 | Magicafe | 299127 | [299127-magicafe.json](./299127-magicafe.json) |
@@ -1399,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Picross | 71976 | [71976-marios-picross.json](./71976-marios-picross.json) |
 | Mario's Pride: Mini Quest | 254516 | [254516-marios-pride-mini-quest.json](./254516-marios-pride-mini-quest.json) |
 | Mario's Rules: Variety on 3 | 323748 | [323748-marios-rules-variety-on-3.json](./323748-marios-rules-variety-on-3.json) |
+| Mario's Super Picross | 80174 | [80174-marios-super-picross.json](./80174-marios-super-picross.json) |
 | Mario's Time Machine | 210116 | [210116-marios-time-machine.json](./210116-marios-time-machine.json) |
 | Mario's Timeship Battle | 318041 | [318041-marios-timeship-battle.json](./318041-marios-timeship-battle.json) |
 | Mario/Rabbids Crossover Adventure Game | 231477 | [231477-mario-rabbids-crossover-adventure-game.json](./231477-mario-rabbids-crossover-adventure-game.json) |
@@ -3081,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Force | 48325 | [48325-metal-force.json](./48325-metal-force.json) |
 | Metal Freezer | 267644 | [267644-metal-freezer.json](./267644-metal-freezer.json) |
 | Metal Fury 3000 | 124179 | [124179-metal-fury-3000.json](./124179-metal-fury-3000.json) |
+| Metal Gear Acid | 12211 | [12211-metal-gear-acid.json](./12211-metal-gear-acid.json) |
 | Metal Gear GB | 181868 | [181868-metal-gear-gb.json](./181868-metal-gear-gb.json) |
 | Metal Gear Noah | 107207 | [107207-metal-gear-noah.json](./107207-metal-gear-noah.json) |
 | Metal Gear Rising: Revengeance - Limited Edition | 44557 | [44557-metal-gear-rising-revengeance-limited-edition.json](./44557-metal-gear-rising-revengeance-limited-edition.json) |
@@ -5764,6 +5767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorhome: Traveling North America 3 - Collector's Edition | 377672 | [377672-motorhome-traveling-north-america-3-collectors-edition.json](./377672-motorhome-traveling-north-america-3-collectors-edition.json) |
 | MotoRodeo | 40787 | [40787-motorodeo.json](./40787-motorodeo.json) |
 | Motorsiege: Warriors of Primetime | 44637 | [44637-motorsiege-warriors-of-primetime.json](./44637-motorsiege-warriors-of-primetime.json) |
+| Motorsport Manager | 19293 | [19293-motorsport-manager.json](./19293-motorsport-manager.json) |
 | Motorsport Manager 2 | 408153 | [408153-motorsport-manager-2.json](./408153-motorsport-manager-2.json) |
 | Motorsport Manager Mobile 3 | 105772 | [105772-motorsport-manager-mobile-3.json](./105772-motorsport-manager-mobile-3.json) |
 | Motorstorm: 3D Rift | 74322 | [74322-motorstorm-3d-rift.json](./74322-motorstorm-3d-rift.json) |
@@ -5806,6 +5810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount Everest Story | 174331 | [174331-mount-everest-story.json](./174331-mount-everest-story.json) |
 | Mount Farewell | 221178 | [221178-mount-farewell.json](./221178-mount-farewell.json) |
 | Mount Lomyst | 369112 | [369112-mount-lomyst.json](./369112-mount-lomyst.json) |
+| Mount Your Friends | 15916 | [15916-mount-your-friends.json](./15916-mount-your-friends.json) |
 | Mountain 78 | 338212 | [338212-mountain-78.json](./338212-mountain-78.json) |
 | Mountain Bike Hill Climb Race: Real 2D Arcade Dirt Racing Games | 173137 | [173137-mountain-bike-hill-climb-race-real-2d-arcade-dirt-racing-games.json](./173137-mountain-bike-hill-climb-race-real-2d-arcade-dirt-racing-games.json) |
 | Mountain Biker | 116402 | [116402-mountain-biker.json](./116402-mountain-biker.json) |
@@ -6669,6 +6674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Music Oasis | 287204 | [287204-my-music-oasis.json](./287204-my-music-oasis.json) |
 | My Mystic Secretary | 254614 | [254614-my-mystic-secretary.json](./254614-my-mystic-secretary.json) |
 | My name is human | 153927 | [153927-my-name-is-human.json](./153927-my-name-is-human.json) |
+| My Name is Mayo | 33747 | [33747-my-name-is-mayo.json](./33747-my-name-is-mayo.json) |
 | My Name is Mayo 3 | 200699 | [200699-my-name-is-mayo-3.json](./200699-my-name-is-mayo-3.json) |
 | My Name is Sarah | 129221 | [129221-my-name-is-sarah.json](./129221-my-name-is-sarah.json) |
 | My Naughty Shotgun | 197400 | [197400-my-naughty-shotgun.json](./197400-my-naughty-shotgun.json) |
