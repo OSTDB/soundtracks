@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman | 131387 | [131387-ultraman.json](./131387-ultraman.json) |
 | Ultraman | 373643 | [373643-ultraman.json](./373643-ultraman.json) |
 | Ultraman | 42579 | [42579-ultraman.json](./42579-ultraman.json) |
+| Ultraman | 46875 | [46875-ultraman.json](./46875-ultraman.json) |
 | Ultraman 2: Shutsugeki Katoku Tai | 41323 | [41323-ultraman-2-shutsugeki-katoku-tai.json](./41323-ultraman-2-shutsugeki-katoku-tai.json) |
 | Ultraman All-Star Chronicle | 59362 | [59362-ultraman-all-star-chronicle.json](./59362-ultraman-all-star-chronicle.json) |
 | Ultraman Ball | 76600 | [76600-ultraman-ball.json](./76600-ultraman-ball.json) |
@@ -512,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Defeat HD: Deluxe Edition | 20239 | [20239-under-defeat-hd-deluxe-edition.json](./20239-under-defeat-hd-deluxe-edition.json) |
 | Under Defeat HD+ | 21016 | [21016-under-defeat-hd.json](./21016-under-defeat-hd.json) |
 | Under Destruction | 356760 | [356760-under-destruction.json](./356760-under-destruction.json) |
+| Under Fire | 46876 | [46876-under-fire.json](./46876-under-fire.json) |
 | Under Lock | 142265 | [142265-under-lock.json](./142265-under-lock.json) |
 | Under Night In-Birth II: Character - Uzuki | 309084 | [309084-under-night-in-birth-ii-character-uzuki.json](./309084-under-night-in-birth-ii-character-uzuki.json) |
 | Under Night In-Bright II Sys:Celes - Deluxe Edition | 277303 | [277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json](./277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json) |
