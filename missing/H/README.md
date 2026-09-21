@@ -3303,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horgihugh and Friends | 193534 | [193534-horgihugh-and-friends.json](./193534-horgihugh-and-friends.json) |
 | Horizon | 16513 | [16513-horizon.json](./16513-horizon.json) |
 | Horizon Beyond | 121592 | [121592-horizon-beyond.json](./121592-horizon-beyond.json) |
+| Horizon Chase Turbo | 96476 | [96476-horizon-chase-turbo.json](./96476-horizon-chase-turbo.json) |
 | Horizon Chase Turbo: Senna Forever | 176882 | [176882-horizon-chase-turbo-senna-forever.json](./176882-horizon-chase-turbo-senna-forever.json) |
 | Horizon Forbidden West: Complete Edition | 268842 | [268842-horizon-forbidden-west-complete-edition.json](./268842-horizon-forbidden-west-complete-edition.json) |
 | Horizon Odyssey | 158558 | [158558-horizon-odyssey.json](./158558-horizon-odyssey.json) |
