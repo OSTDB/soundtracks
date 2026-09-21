@@ -3739,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy's Rescue Roundup | 72088 | [72088-freddys-rescue-roundup.json](./72088-freddys-rescue-roundup.json) |
 | Frederic: Evil Strikes Back | 9845 | [9845-frederic-evil-strikes-back.json](./9845-frederic-evil-strikes-back.json) |
 | Frederic: Resurrection of Music - Director's Cut | 33261 | [33261-frederic-resurrection-of-music-directors-cut.json](./33261-frederic-resurrection-of-music-directors-cut.json) |
+| Free Balling | 32263 | [32263-free-balling.json](./32263-free-balling.json) |
 | Free Bees | 224245 | [224245-free-bees.json](./224245-free-bees.json) |
 | Free Chess: Cheese Set | 305534 | [305534-free-chess-cheese-set.json](./305534-free-chess-cheese-set.json) |
 | Free Chess: Primitives Set | 310390 | [310390-free-chess-primitives-set.json](./310390-free-chess-primitives-set.json) |
