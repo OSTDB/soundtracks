@@ -2176,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Brain Damage | 69591 | [69591-pinball-brain-damage.json](./69591-pinball-brain-damage.json) |
 | Pinball Breaker 3 | 146686 | [146686-pinball-breaker-3.json](./146686-pinball-breaker-3.json) |
 | Pinball Breaker 4 | 146685 | [146685-pinball-breaker-4.json](./146685-pinball-breaker-4.json) |
+| Pinball Breakout | 57322 | [57322-pinball-breakout.json](./57322-pinball-breakout.json) |
 | Pinball Breakout 2 | 112114 | [112114-pinball-breakout-2.json](./112114-pinball-breakout-2.json) |
 | Pinball Breeze | 354432 | [354432-pinball-breeze.json](./354432-pinball-breeze.json) |
 | Pinball Challenge Deluxe | 49361 | [49361-pinball-challenge-deluxe.json](./49361-pinball-challenge-deluxe.json) |
@@ -3638,6 +3639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Political Arena | 180303 | [180303-political-arena.json](./180303-political-arena.json) |
 | Political Mastery | 263053 | [263053-political-mastery.json](./263053-political-mastery.json) |
 | Politically Yours | 23798 | [23798-politically-yours.json](./23798-politically-yours.json) |
+| PolitiCats | 57365 | [57365-politicats.json](./57365-politicats.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
 | Politiks | 391176 | [391176-politiks.json](./391176-politiks.json) |
 | Politon | 259099 | [259099-politon.json](./259099-politon.json) |
@@ -5194,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PsyHotel | 132197 | [132197-psyhotel.json](./132197-psyhotel.json) |
 | Psyia | 111670 | [111670-psyia.json](./111670-psyia.json) |
 | Psyko | 295909 | [295909-psyko.json](./295909-psyko.json) |
+| Psytraxx | 57356 | [57356-psytraxx.json](./57356-psytraxx.json) |
 | Psytron | 25749 | [25749-psytron.json](./25749-psytron.json) |
 | PsyUp | 392255 | [392255-psyup.json](./392255-psyup.json) |
 | Psyvariar 2: Ultimate Final | 43346 | [43346-psyvariar-2-ultimate-final.json](./43346-psyvariar-2-ultimate-final.json) |
