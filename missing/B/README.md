@@ -3125,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Crafter | 108871 | [108871-blade-crafter.json](./108871-blade-crafter.json) |
 | Blade Crafter | 248151 | [248151-blade-crafter.json](./248151-blade-crafter.json) |
 | Blade Crusade | 190210 | [190210-blade-crusade.json](./190210-blade-crusade.json) |
+| Blade Kitten | 14847 | [14847-blade-kitten.json](./14847-blade-kitten.json) |
 | Blade Mistress | 57888 | [57888-blade-mistress.json](./57888-blade-mistress.json) |
 | Blade of Chaos: Immortal Titan | 224093 | [224093-blade-of-chaos-immortal-titan.json](./224093-blade-of-chaos-immortal-titan.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
@@ -3167,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blair Witch | 119298 | [119298-blair-witch.json](./119298-blair-witch.json) |
 | Blair Witch Volume 2: The Legend of Coffin Rock | 18490 | [18490-blair-witch-volume-2-the-legend-of-coffin-rock.json](./18490-blair-witch-volume-2-the-legend-of-coffin-rock.json) |
 | Blair Witch: Deluxe Edition | 154467 | [154467-blair-witch-deluxe-edition.json](./154467-blair-witch-deluxe-edition.json) |
+| Blake Stone: Planet Strike | 8490 | [8490-blake-stone-planet-strike.json](./8490-blake-stone-planet-strike.json) |
 | Blake Strongflank | 182515 | [182515-blake-strongflank.json](./182515-blake-strongflank.json) |
 | Blake Turner: Ace Attorney | 308528 | [308528-blake-turner-ace-attorney.json](./308528-blake-turner-ace-attorney.json) |
 | Blaloon Blalympia | 187505 | [187505-blaloon-blalympia.json](./187505-blaloon-blalympia.json) |
