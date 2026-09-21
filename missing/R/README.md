@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaching for Petals: VR Edition | 68664 | [68664-reaching-for-petals-vr-edition.json](./68664-reaching-for-petals-vr-edition.json) |
 | Reaching the Seven: Asteroids | 178627 | [178627-reaching-the-seven-asteroids.json](./178627-reaching-the-seven-asteroids.json) |
 | Reaction | 152347 | [152347-reaction.json](./152347-reaction.json) |
+| Reaction Game: Hit the Color! | 56764 | [56764-reaction-game-hit-the-color.json](./56764-reaction-game-hit-the-color.json) |
 | Reaction Quake 3 | 200651 | [200651-reaction-quake-3.json](./200651-reaction-quake-3.json) |
 | Reactor 09 | 123596 | [123596-reactor-09.json](./123596-reactor-09.json) |
 | Reactor Tech 2 | 163975 | [163975-reactor-tech-2.json](./163975-reactor-tech-2.json) |
