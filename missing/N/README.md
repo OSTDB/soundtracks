@@ -489,6 +489,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Now 22 | 303806 | [303806-nba-now-22.json](./303806-nba-now-22.json) |
 | NBA Now 23 | 239884 | [239884-nba-now-23.json](./239884-nba-now-23.json) |
 | NBA Playgrounds: Hot 'N Frosty | 170913 | [170913-nba-playgrounds-hot-n-frosty.json](./170913-nba-playgrounds-hot-n-frosty.json) |
+| NBA ShootOut | 20260 | [20260-nba-shootout.json](./20260-nba-shootout.json) |
+| NBA ShootOut 2000 | 20263 | [20263-nba-shootout-2000.json](./20263-nba-shootout-2000.json) |
+| NBA ShootOut 2001 | 20264 | [20264-nba-shootout-2001.json](./20264-nba-shootout-2001.json) |
+| NBA ShootOut 2002 | 20265 | [20265-nba-shootout-2002.json](./20265-nba-shootout-2002.json) |
+| NBA ShootOut 2003 | 20266 | [20266-nba-shootout-2003.json](./20266-nba-shootout-2003.json) |
+| NBA ShootOut 2004 | 20267 | [20267-nba-shootout-2004.json](./20267-nba-shootout-2004.json) |
+| NBA ShootOut 98 | 20262 | [20262-nba-shootout-98.json](./20262-nba-shootout-98.json) |
 | NBA Show Time: NBA on NBC | 49902 | [49902-nba-show-time-nba-on-nbc.json](./49902-nba-show-time-nba-on-nbc.json) |
 | NBA Showdown | 45573 | [45573-nba-showdown.json](./45573-nba-showdown.json) |
 | NBA Street Homecourt | 7108 | [7108-nba-street-homecourt.json](./7108-nba-street-homecourt.json) |
@@ -1683,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Dash - Ronin Jump RPG | 104648 | [104648-ninja-dash-ronin-jump-rpg.json](./104648-ninja-dash-ronin-jump-rpg.json) |
 | Ninja Dojo | 181771 | [181771-ninja-dojo.json](./181771-ninja-dojo.json) |
 | Ninja Duck | 181770 | [181770-ninja-duck.json](./181770-ninja-duck.json) |
+| Ninja Dude vs. Zombies | 20334 | [20334-ninja-dude-vs-zombies.json](./20334-ninja-dude-vs-zombies.json) |
 | Ninja Dude vs. Zombies 2 | 117030 | [117030-ninja-dude-vs-zombies-2.json](./117030-ninja-dude-vs-zombies-2.json) |
 | Ninja Epic Adventure | 147458 | [147458-ninja-epic-adventure.json](./147458-ninja-epic-adventure.json) |
 | Ninja Feet of Fury | 64102 | [64102-ninja-feet-of-fury.json](./64102-ninja-feet-of-fury.json) |
