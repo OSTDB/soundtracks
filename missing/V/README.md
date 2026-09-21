@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vironics | 390121 | [390121-vironics.json](./390121-vironics.json) |
 | Virt-U-Mate | 156646 | [156646-virt-u-mate.json](./156646-virt-u-mate.json) |
 | Virtu-Pilot | 282019 | [282019-virtu-pilot.json](./282019-virtu-pilot.json) |
+| Virtua Athlete 2000 | 24159 | [24159-virtua-athlete-2000.json](./24159-virtua-athlete-2000.json) |
 | Virtua Bowling | 354530 | [354530-virtua-bowling.json](./354530-virtua-bowling.json) |
 | Virtua Cop | 199018 | [199018-virtua-cop.json](./199018-virtua-cop.json) |
 | Virtua Fighter | 199019 | [199019-virtua-fighter.json](./199019-virtua-fighter.json) |
