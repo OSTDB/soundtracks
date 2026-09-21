@@ -3685,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane's Watch | 264155 | [264155-arcanes-watch.json](./264155-arcanes-watch.json) |
 | Arcaneering: Beyond Automation | 356681 | [356681-arcaneering-beyond-automation.json](./356681-arcaneering-beyond-automation.json) |
 | Arcania: Fall of Setarrif | 8331 | [8331-arcania-fall-of-setarrif.json](./8331-arcania-fall-of-setarrif.json) |
+| Arcania: Gothic 4 | 3234 | [3234-arcania-gothic-4.json](./3234-arcania-gothic-4.json) |
 | Arcanight | 25760 | [25760-arcanight.json](./25760-arcanight.json) |
 | Arcanion: Tale of Magi | 149026 | [149026-arcanion-tale-of-magi.json](./149026-arcanion-tale-of-magi.json) |
 | Arcanist Revival | 110181 | [110181-arcanist-revival.json](./110181-arcanist-revival.json) |
