@@ -3032,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The ER: Patient Typhon | 146320 | [146320-the-er-patient-typhon.json](./146320-the-er-patient-typhon.json) |
 | The Era of Pioneers | 302924 | [302924-the-era-of-pioneers.json](./302924-the-era-of-pioneers.json) |
 | The Escape | 112115 | [112115-the-escape.json](./112115-the-escape.json) |
+| The Escape From Atlantis | 48312 | [48312-the-escape-from-atlantis.json](./48312-the-escape-from-atlantis.json) |
 | The Escape from the Hen-Roost | 69866 | [69866-the-escape-from-the-hen-roost.json](./69866-the-escape-from-the-hen-roost.json) |
 | The Escape Room Chronicles ep 4: The 24-Hour TV Station | 324122 | [324122-the-escape-room-chronicles-ep-4-the-24-hour-tv-station.json](./324122-the-escape-room-chronicles-ep-4-the-24-hour-tv-station.json) |
 | The Escape Room Chronicles ep1: The Mysterious KumaDonald's | 324119 | [324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json](./324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json) |
@@ -6039,6 +6040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trials of Goodbye | 312876 | [312876-the-trials-of-goodbye.json](./312876-the-trials-of-goodbye.json) |
 | The Trials of Olympus 2: Wrath of the Gods | 114357 | [114357-the-trials-of-olympus-2-wrath-of-the-gods.json](./114357-the-trials-of-olympus-2-wrath-of-the-gods.json) |
 | The Trials: Chapter Two | 400372 | [400372-the-trials-chapter-two.json](./400372-the-trials-chapter-two.json) |
+| The Triathron | 48326 | [48326-the-triathron.json](./48326-the-triathron.json) |
 | The Tribloos 3 | 105746 | [105746-the-tribloos-3.json](./105746-the-tribloos-3.json) |
 | The Tribulation Entanglement | 190189 | [190189-the-tribulation-entanglement.json](./190189-the-tribulation-entanglement.json) |
 | The Trip | 287216 | [287216-the-trip.json](./287216-the-trip.json) |
@@ -6110,6 +6112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Uninvited 2: Let Nothing You Dismay | 370106 | [370106-the-uninvited-2-let-nothing-you-dismay.json](./370106-the-uninvited-2-let-nothing-you-dismay.json) |
 | The Universal Equalizer | 71242 | [71242-the-universal-equalizer.json](./71242-the-universal-equalizer.json) |
 | The Universal Symphony | 398460 | [398460-the-universal-symphony.json](./398460-the-universal-symphony.json) |
+| The Universe Soldiers | 48323 | [48323-the-universe-soldiers.json](./48323-the-universe-soldiers.json) |
 | The Universim | 9943 | [9943-the-universim.json](./9943-the-universim.json) |
 | The Unknown | 336516 | [336516-the-unknown.json](./336516-the-unknown.json) |
 | The Unknown | 397076 | [397076-the-unknown.json](./397076-the-unknown.json) |
@@ -8022,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toad on Fire | 139482 | [139482-toad-on-fire.json](./139482-toad-on-fire.json) |
 | Toad Strikes Back | 134068 | [134068-toad-strikes-back.json](./134068-toad-strikes-back.json) |
 | Toad Tales | 272578 | [272578-toad-tales.json](./272578-toad-tales.json) |
+| Toad's Adventure | 48318 | [48318-toads-adventure.json](./48318-toads-adventure.json) |
 | Toad's Soul Hopper | 301024 | [301024-toads-soul-hopper.json](./301024-toads-soul-hopper.json) |
 | Toad's Trees | 346132 | [346132-toads-trees.json](./346132-toads-trees.json) |
 | Toad's World | 38306 | [38306-toads-world.json](./38306-toads-world.json) |
