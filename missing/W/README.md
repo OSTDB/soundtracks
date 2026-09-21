@@ -2137,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Warfare | 127196 | [127196-wizard-warfare.json](./127196-wizard-warfare.json) |
 | Wizard Wars | 300031 | [300031-wizard-wars.json](./300031-wizard-wars.json) |
 | Wizard Warz | 12830 | [12830-wizard-warz.json](./12830-wizard-warz.json) |
+| Wizard With a Gun | 152204 | [152204-wizard-with-a-gun.json](./152204-wizard-with-a-gun.json) |
 | Wizard with a Gun: Bounty Hunter Pack | 293391 | [293391-wizard-with-a-gun-bounty-hunter-pack.json](./293391-wizard-with-a-gun-bounty-hunter-pack.json) |
 | Wizard's Adventure | 186243 | [186243-wizards-adventure.json](./186243-wizards-adventure.json) |
 | Wizard's Beard | 277606 | [277606-wizards-beard.json](./277606-wizards-beard.json) |
@@ -2353,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodlands National Park | 312546 | [312546-woodlands-national-park.json](./312546-woodlands-national-park.json) |
 | Woodle Tree 2: Deluxe | 120186 | [120186-woodle-tree-2-deluxe.json](./120186-woodle-tree-2-deluxe.json) |
 | Woodle Tree 2: Deluxe Plus | 194438 | [194438-woodle-tree-2-deluxe-plus.json](./194438-woodle-tree-2-deluxe-plus.json) |
+| Woodle Tree Adventures | 15325 | [15325-woodle-tree-adventures.json](./15325-woodle-tree-adventures.json) |
 | Woodle Tree Adventures Deluxe | 122354 | [122354-woodle-tree-adventures-deluxe.json](./122354-woodle-tree-adventures-deluxe.json) |
 | Woodle Tree Bundle | 173795 | [173795-woodle-tree-bundle.json](./173795-woodle-tree-bundle.json) |
 | Woodroid HD+ | 233742 | [233742-woodroid-hd.json](./233742-woodroid-hd.json) |
