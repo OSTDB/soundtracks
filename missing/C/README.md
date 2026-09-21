@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops II - Nuketown Zombies | 295255 | [295255-call-of-duty-black-ops-ii-nuketown-zombies.json](./295255-call-of-duty-black-ops-ii-nuketown-zombies.json) |
 | Call of Duty: Black Ops III - Awakening | 19948 | [19948-call-of-duty-black-ops-iii-awakening.json](./19948-call-of-duty-black-ops-iii-awakening.json) |
 | Call of Duty: Black Ops III - Game of the Year Edition | 202222 | [202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json](./202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json) |
+| Call of Duty: Black Ops III - Hardened Edition | 41615 | [41615-call-of-duty-black-ops-iii-hardened-edition.json](./41615-call-of-duty-black-ops-iii-hardened-edition.json) |
 | Call of Duty: Black Ops Mobile | 135300 | [135300-call-of-duty-black-ops-mobile.json](./135300-call-of-duty-black-ops-mobile.json) |
 | Call of Duty: Endowment (C.O.D.E.) Warrior Pack | 276273 | [276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json](./276273-call-of-duty-endowment-c-o-d-e-warrior-pack.json) |
 | Call of Duty: Future Warfare | 294871 | [294871-call-of-duty-future-warfare.json](./294871-call-of-duty-future-warfare.json) |
@@ -1124,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Harmony of Dissonance | 222411 | [222411-castlevania-harmony-of-dissonance.json](./222411-castlevania-harmony-of-dissonance.json) |
 | Castlevania: Harmony of Dissonance - Revenge of the Findesiecle | 215165 | [215165-castlevania-harmony-of-dissonance-revenge-of-the-findesiecle.json](./215165-castlevania-harmony-of-dissonance-revenge-of-the-findesiecle.json) |
 | Castlevania: Lords of Shadow | 491 | [491-castlevania-lords-of-shadow.json](./491-castlevania-lords-of-shadow.json) |
+| Castlevania: Lords of Shadow - Limited Edition | 41602 | [41602-castlevania-lords-of-shadow-limited-edition.json](./41602-castlevania-lords-of-shadow-limited-edition.json) |
 | Castlevania: Lords of Shadow - Reverie | 10075 | [10075-castlevania-lords-of-shadow-reverie.json](./10075-castlevania-lords-of-shadow-reverie.json) |
 | Castlevania: Lords of Shadow - Special Edition | 386289 | [386289-castlevania-lords-of-shadow-special-edition.json](./386289-castlevania-lords-of-shadow-special-edition.json) |
 | Castlevania: Maria of Sorrow | 248309 | [248309-castlevania-maria-of-sorrow.json](./248309-castlevania-maria-of-sorrow.json) |
