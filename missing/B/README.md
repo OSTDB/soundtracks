@@ -1460,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 1918 | 317836 | [317836-battlefield-1918.json](./317836-battlefield-1918.json) |
 | Battlefield 1942: The Complete Collection | 284924 | [284924-battlefield-1942-the-complete-collection.json](./284924-battlefield-1942-the-complete-collection.json) |
 | Battlefield 1942: World War II Anthology | 136467 | [136467-battlefield-1942-world-war-ii-anthology.json](./136467-battlefield-1942-world-war-ii-anthology.json) |
+| Battlefield 2: Armored Fury | 3814 | [3814-battlefield-2-armored-fury.json](./3814-battlefield-2-armored-fury.json) |
 | Battlefield 2: Special Forces | 347 | [347-battlefield-2-special-forces.json](./347-battlefield-2-special-forces.json) |
 | Battlefield 2042: Year 1 Pass | 293915 | [293915-battlefield-2042-year-1-pass.json](./293915-battlefield-2042-year-1-pass.json) |
 | Battlefield 3 | 273136 | [273136-battlefield-3.json](./273136-battlefield-3.json) |
@@ -2021,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being Struck By Lightning is Probably the Best Way That You Could Die On Account of All of Its Awesomeness | 242647 | [242647-being-struck-by-lightning-is-probably-the-best-way-that-you-could-die-on-account-of-all-of-its-awesomeness.json](./242647-being-struck-by-lightning-is-probably-the-best-way-that-you-could-die-on-account-of-all-of-its-awesomeness.json) |
 | Bejeweled | 121723 | [121723-bejeweled.json](./121723-bejeweled.json) |
 | Bejeweled | 8318 | [8318-bejeweled.json](./8318-bejeweled.json) |
+| Bejeweled 2 | 614 | [614-bejeweled-2.json](./614-bejeweled-2.json) |
 | Bejeweled 2 Deluxe | 14806 | [14806-bejeweled-2-deluxe.json](./14806-bejeweled-2-deluxe.json) |
 | Bejeweled Blitz | 20435 | [20435-bejeweled-blitz.json](./20435-bejeweled-blitz.json) |
 | Bejeweled Classic | 187382 | [187382-bejeweled-classic.json](./187382-bejeweled-classic.json) |
@@ -3035,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackfall | 258551 | [258551-blackfall.json](./258551-blackfall.json) |
 | Blackgate | 138226 | [138226-blackgate.json](./138226-blackgate.json) |
 | BlackGate | 325837 | [325837-blackgate.json](./325837-blackgate.json) |
+| Blackguards | 5522 | [5522-blackguards.json](./5522-blackguards.json) |
 | Blackhole on the Road | 269047 | [269047-blackhole-on-the-road.json](./269047-blackhole-on-the-road.json) |
 | Blackhole Simulator | 333385 | [333385-blackhole-simulator.json](./333385-blackhole-simulator.json) |
 | Blackhole: Challenge Vault | 170521 | [170521-blackhole-challenge-vault.json](./170521-blackhole-challenge-vault.json) |
