@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco All-Stars: Dig Dug | 284372 | [284372-namco-all-stars-dig-dug.json](./284372-namco-all-stars-dig-dug.json) |
 | Namco All-Stars: Pac-Man | 284371 | [284371-namco-all-stars-pac-man.json](./284371-namco-all-stars-pac-man.json) |
 | Namco All-Stars: Pac-Man and Dig Dug | 284373 | [284373-namco-all-stars-pac-man-and-dig-dug.json](./284373-namco-all-stars-pac-man-and-dig-dug.json) |
+| Namco Arcade | 25183 | [25183-namco-arcade.json](./25183-namco-arcade.json) |
 | Namco Classic | 239158 | [239158-namco-classic.json](./239158-namco-classic.json) |
 | Namco Classic Fighter Collection | 43282 | [43282-namco-classic-fighter-collection.json](./43282-namco-classic-fighter-collection.json) |
 | Namco Logic | 343342 | [343342-namco-logic.json](./343342-namco-logic.json) |
@@ -1428,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Light: Nightmare | 156187 | [156187-night-light-nightmare.json](./156187-night-light-nightmare.json) |
 | Night Lights | 26698 | [26698-night-lights.json](./26698-night-lights.json) |
 | Night Magic | 109747 | [109747-night-magic.json](./109747-night-magic.json) |
+| Night Mission Pinball | 25138 | [25138-night-mission-pinball.json](./25138-night-mission-pinball.json) |
 | Night Monsters | 157554 | [157554-night-monsters.json](./157554-night-monsters.json) |
 | Night O'Clock | 364565 | [364565-night-oclock.json](./364565-night-oclock.json) |
 | Night of Full Moon: Apothecary's Blessing | 170462 | [170462-night-of-full-moon-apothecarys-blessing.json](./170462-night-of-full-moon-apothecarys-blessing.json) |
