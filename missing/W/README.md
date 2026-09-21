@@ -1931,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout | 265970 | [265970-wipeout.json](./265970-wipeout.json) |
 | Wipeout | 351100 | [351100-wipeout.json](./351100-wipeout.json) |
 | Wipeout 2600 | 279595 | [279595-wipeout-2600.json](./279595-wipeout-2600.json) |
+| Wipeout 3 Special Edition | 44855 | [44855-wipeout-3-special-edition.json](./44855-wipeout-3-special-edition.json) |
 | Wipeout Pure | 1542 | [1542-wipeout-pure.json](./1542-wipeout-pure.json) |
 | Wipeout XL | 1538 | [1538-wipeout-xl.json](./1538-wipeout-xl.json) |
 | WipeOuters | 203917 | [203917-wipeouters.json](./203917-wipeouters.json) |
