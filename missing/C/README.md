@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Tycoon | 362291 | [362291-car-tycoon.json](./362291-car-tycoon.json) |
+| Car Wars | 42214 | [42214-car-wars.json](./42214-car-wars.json) |
 | Car Wash | 295261 | [295261-car-wash.json](./295261-car-wash.json) |
 | Car Wash | 323503 | [323503-car-wash.json](./323503-car-wash.json) |
 | Car-Toon Chaos | 298170 | [298170-car-toon-chaos.json](./298170-car-toon-chaos.json) |
@@ -4221,6 +4222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congo The Movie: The Lost City of Zinj | 45516 | [45516-congo-the-movie-the-lost-city-of-zinj.json](./45516-congo-the-movie-the-lost-city-of-zinj.json) |
 | Congo the Movie: The Secret of Zinj | 38289 | [38289-congo-the-movie-the-secret-of-zinj.json](./38289-congo-the-movie-the-secret-of-zinj.json) |
 | Conjuror's Eye | 88069 | [88069-conjurors-eye.json](./88069-conjurors-eye.json) |
+| Conker's High Rule Tail | 42207 | [42207-conkers-high-rule-tail.json](./42207-conkers-high-rule-tail.json) |
 | Conker's Other Bad Fur Day | 77970 | [77970-conkers-other-bad-fur-day.json](./77970-conkers-other-bad-fur-day.json) |
 | Conker's Pocket Tales | 1424 | [1424-conkers-pocket-tales.json](./1424-conkers-pocket-tales.json) |
 | Conludus | 253993 | [253993-conludus.json](./253993-conludus.json) |
