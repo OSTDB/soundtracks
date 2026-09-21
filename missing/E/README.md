@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Capitán Trueno en la Montaña de los Suspiros | 70085 | [70085-el-capitan-trueno-en-la-montana-de-los-suspiros.json](./70085-el-capitan-trueno-en-la-montana-de-los-suspiros.json) |
 | El Chavo | 331122 | [331122-el-chavo.json](./331122-el-chavo.json) |
 | El Chavo | 79918 | [79918-el-chavo.json](./79918-el-chavo.json) |
+| El Chavo kart | 62461 | [62461-el-chavo-kart.json](./62461-el-chavo-kart.json) |
 | El Cid | 13629 | [13629-el-cid.json](./13629-el-cid.json) |
 | El Coco | 353884 | [353884-el-coco.json](./353884-el-coco.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
