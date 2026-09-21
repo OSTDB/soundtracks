@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates of Devoroth | 211288 | [211288-gates-of-devoroth.json](./211288-gates-of-devoroth.json) |
 | Gates of Mirnah | 148998 | [148998-gates-of-mirnah.json](./148998-gates-of-mirnah.json) |
 | Gates of Nowhere | 50892 | [50892-gates-of-nowhere.json](./50892-gates-of-nowhere.json) |
+| Gates of Osiris | 61899 | [61899-gates-of-osiris.json](./61899-gates-of-osiris.json) |
 | Gates of Yomi | 274480 | [274480-gates-of-yomi.json](./274480-gates-of-yomi.json) |
 | Gates to Terra II | 126646 | [126646-gates-to-terra-ii.json](./126646-gates-to-terra-ii.json) |
 | Gatestriders | 365750 | [365750-gatestriders.json](./365750-gatestriders.json) |
