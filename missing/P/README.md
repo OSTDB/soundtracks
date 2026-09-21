@@ -1482,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Permission VR | 108425 | [108425-permission-vr.json](./108425-permission-vr.json) |
 | Peropero Candy: You no Shou | 373030 | [373030-peropero-candy-you-no-shou.json](./373030-peropero-candy-you-no-shou.json) |
 | Perpession | 334506 | [334506-perpession.json](./334506-perpession.json) |
+| Perpetual Blast | 59670 | [59670-perpetual-blast.json](./59670-perpetual-blast.json) |
 | Perpetuum | 16433 | [16433-perpetuum.json](./16433-perpetuum.json) |
 | PerPuzzle | 105911 | [105911-perpuzzle.json](./105911-perpuzzle.json) |
 | Perrengue de escritor | 341894 | [341894-perrengue-de-escritor.json](./341894-perrengue-de-escritor.json) |
@@ -2099,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilgrim | 301813 | [301813-pilgrim.json](./301813-pilgrim.json) |
 | Pilgrim of Darkness | 346145 | [346145-pilgrim-of-darkness.json](./346145-pilgrim-of-darkness.json) |
 | Pilgrim: Faith as a Weapon | 71229 | [71229-pilgrim-faith-as-a-weapon.json](./71229-pilgrim-faith-as-a-weapon.json) |
+| Pilgrimage | 59694 | [59694-pilgrimage.json](./59694-pilgrimage.json) |
 | Pilki Filki 2 | 99987 | [99987-pilki-filki-2.json](./99987-pilki-filki-2.json) |
 | Pill Cosbi | 74359 | [74359-pill-cosbi.json](./74359-pill-cosbi.json) |
 | Pill Fight | 345017 | [345017-pill-fight.json](./345017-pill-fight.json) |
@@ -2442,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit of 100 Wonders | 394348 | [394348-pit-of-100-wonders.json](./394348-pit-of-100-wonders.json) |
 | Pit of Ascension | 155986 | [155986-pit-of-ascension.json](./155986-pit-of-ascension.json) |
 | Pit of Goblin | 321166 | [321166-pit-of-goblin.json](./321166-pit-of-goblin.json) |
+| Pit of the Condemned | 59692 | [59692-pit-of-the-condemned.json](./59692-pit-of-the-condemned.json) |
 | Pit Pioneers | 391153 | [391153-pit-pioneers.json](./391153-pit-pioneers.json) |
 | Pit Stop Racing: Club Vs. Club | 251662 | [251662-pit-stop-racing-club-vs-club.json](./251662-pit-stop-racing-club-vs-club.json) |
 | Pit Stop Racing: Manager | 234612 | [234612-pit-stop-racing-manager.json](./234612-pit-stop-racing-manager.json) |
@@ -2500,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cafe: Discovery Edition | 395682 | [395682-pixel-cafe-discovery-edition.json](./395682-pixel-cafe-discovery-edition.json) |
 | Pixel Card Crawl | 180120 | [180120-pixel-card-crawl.json](./180120-pixel-card-crawl.json) |
 | Pixel Caveman | 118435 | [118435-pixel-caveman.json](./118435-pixel-caveman.json) |
+| Pixel Champions | 59648 | [59648-pixel-champions.json](./59648-pixel-champions.json) |
 | Pixel Collector | 312165 | [312165-pixel-collector.json](./312165-pixel-collector.json) |
 | Pixel Coloring Book Game | 106566 | [106566-pixel-coloring-book-game.json](./106566-pixel-coloring-book-game.json) |
 | Pixel Coloring Paint | 283262 | [283262-pixel-coloring-paint.json](./283262-pixel-coloring-paint.json) |
@@ -2858,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of the Apes | 282720 | [282720-planet-of-the-apes.json](./282720-planet-of-the-apes.json) |
 | Planet Oio | 317420 | [317420-planet-oio.json](./317420-planet-oio.json) |
 | Planet Omnia | 197912 | [197912-planet-omnia.json](./197912-planet-omnia.json) |
+| Planet Pilots | 59647 | [59647-planet-pilots.json](./59647-planet-pilots.json) |
 | Planet Protector VR | 67939 | [67939-planet-protector-vr.json](./67939-planet-protector-vr.json) |
 | Planet Quiz: Learn & Discover | 187494 | [187494-planet-quiz-learn-and-discover.json](./187494-planet-quiz-learn-and-discover.json) |
 | Planet R-12 | 26522 | [26522-planet-r-12.json](./26522-planet-r-12.json) |
@@ -5553,6 +5558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Cube: Magic Urbik Game | 207876 | [207876-puzzle-cube-magic-urbik-game.json](./207876-puzzle-cube-magic-urbik-game.json) |
 | Puzzle da Moro! | 259828 | [259828-puzzle-da-moro.json](./259828-puzzle-da-moro.json) |
 | Puzzle DeFusion | 78979 | [78979-puzzle-defusion.json](./78979-puzzle-defusion.json) |
+| Puzzle Depot | 59650 | [59650-puzzle-depot.json](./59650-puzzle-depot.json) |
 | Puzzle Dungeon | 62776 | [62776-puzzle-dungeon.json](./62776-puzzle-dungeon.json) |
 | Puzzle Escapes: Paws & Claws | 351097 | [351097-puzzle-escapes-paws-and-claws.json](./351097-puzzle-escapes-paws-and-claws.json) |
 | Puzzle Expedition | 35614 | [35614-puzzle-expedition.json](./35614-puzzle-expedition.json) |
