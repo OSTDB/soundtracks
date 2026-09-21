@@ -3608,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sacred Gold | 145626 | [145626-pokemon-sacred-gold.json](./145626-pokemon-sacred-gold.json) |
 | Pokémon Sapphire Version | 355533 | [355533-pokemon-sapphire-version.json](./355533-pokemon-sapphire-version.json) |
 | Pokémon Shield | 115653 | [115653-pokemon-shield.json](./115653-pokemon-shield.json) |
+| Pokémon Showdown | 87797 | [87797-pokemon-showdown.json](./87797-pokemon-showdown.json) |
 | Pokémon Sigma Platinum | 197927 | [197927-pokemon-sigma-platinum.json](./197927-pokemon-sigma-platinum.json) |
 | Pokémon Sky Stacker | 288369 | [288369-pokemon-sky-stacker.json](./288369-pokemon-sky-stacker.json) |
 | Pokémon Snap 3DS | 401507 | [401507-pokemon-snap-3ds.json](./401507-pokemon-snap-3ds.json) |
@@ -4285,6 +4286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers S.P.D.: Escape of the Five Fugitives | 220103 | [220103-power-rangers-s-p-d-escape-of-the-five-fugitives.json](./220103-power-rangers-s-p-d-escape-of-the-five-fugitives.json) |
 | Power Rangers Samurai | 25181 | [25181-power-rangers-samurai.json](./25181-power-rangers-samurai.json) |
 | Power Rangers Super Samurai | 25162 | [25162-power-rangers-super-samurai.json](./25162-power-rangers-super-samurai.json) |
+| Power Rangers Time Force | 3293 | [3293-power-rangers-time-force.json](./3293-power-rangers-time-force.json) |
 | Power Rangers: Battle for the Grid - Anubis Cruger SPD Shadow Ranger | 167794 | [167794-power-rangers-battle-for-the-grid-anubis-cruger-spd-shadow-ranger.json](./167794-power-rangers-battle-for-the-grid-anubis-cruger-spd-shadow-ranger.json) |
 | Power Rangers: Battle for the Grid - Chun-Li Blue Phoenix Ranger | 167793 | [167793-power-rangers-battle-for-the-grid-chun-li-blue-phoenix-ranger.json](./167793-power-rangers-battle-for-the-grid-chun-li-blue-phoenix-ranger.json) |
 | Power Rangers: Battle for the Grid - Collector's Edition | 119069 | [119069-power-rangers-battle-for-the-grid-collectors-edition.json](./119069-power-rangers-battle-for-the-grid-collectors-edition.json) |
