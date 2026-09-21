@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T04:17:12.987Z",
-  "total_missing": 100171,
+  "generated_at": "2026-09-21T04:32:18.163Z",
+  "total_missing": 100221,
   "games": [
     {
       "igdb_id": 176875,
@@ -306548,6 +306548,11 @@
       "file": "missing/P/293626-phantom-bound.json"
     },
     {
+      "igdb_id": 53457,
+      "game_name": "Phantom Brave PC: Digital Chroma Edition",
+      "file": "missing/P/53457-phantom-brave-pc-digital-chroma-edition.json"
+    },
+    {
       "igdb_id": 144246,
       "game_name": "Phantom Brave: The Hermuda Triangle Remastered",
       "file": "missing/P/144246-phantom-brave-the-hermuda-triangle-remastered.json"
@@ -306841,6 +306846,11 @@
       "igdb_id": 347787,
       "game_name": "Phase Cross",
       "file": "missing/P/347787-phase-cross.json"
+    },
+    {
+      "igdb_id": 53458,
+      "game_name": "Phase Edge",
+      "file": "missing/P/53458-phase-edge.json"
     },
     {
       "igdb_id": 239667,
@@ -308606,6 +308616,11 @@
       "igdb_id": 301813,
       "game_name": "Pilgrim",
       "file": "missing/P/301813-pilgrim.json"
+    },
+    {
+      "igdb_id": 53459,
+      "game_name": "Pilgrim Adventures Complete",
+      "file": "missing/P/53459-pilgrim-adventures-complete.json"
     },
     {
       "igdb_id": 346145,
@@ -311023,6 +311038,11 @@
       "file": "missing/P/130201-pixel-pileup-party.json"
     },
     {
+      "igdb_id": 53460,
+      "game_name": "Pixel Pirates",
+      "file": "missing/P/53460-pixel-pirates.json"
+    },
+    {
       "igdb_id": 157054,
       "game_name": "Pixel Poops",
       "file": "missing/P/157054-pixel-poops.json"
@@ -311126,6 +311146,11 @@
       "igdb_id": 293071,
       "game_name": "Pixel Puzzles Ultimate Jigsaw: Variety Pack 23",
       "file": "missing/P/293071-pixel-puzzles-ultimate-jigsaw-variety-pack-23.json"
+    },
+    {
+      "igdb_id": 53461,
+      "game_name": "Pixel Puzzles Ultimate: 2016 Jigsaw Collection",
+      "file": "missing/P/53461-pixel-puzzles-ultimate-2016-jigsaw-collection.json"
     },
     {
       "igdb_id": 226860,
@@ -312203,6 +312228,11 @@
       "file": "missing/P/194038-planes-io.json"
     },
     {
+      "igdb_id": 53462,
+      "game_name": "Planescape Torment: Enhanced Edition - Digital Deluxe",
+      "file": "missing/P/53462-planescape-torment-enhanced-edition-digital-deluxe.json"
+    },
+    {
       "igdb_id": 195613,
       "game_name": "Planet After Us",
       "file": "missing/P/195613-planet-after-us.json"
@@ -312741,6 +312771,11 @@
       "igdb_id": 333098,
       "game_name": "Plantasia",
       "file": "missing/P/333098-plantasia.json"
+    },
+    {
+      "igdb_id": 53463,
+      "game_name": "Plantasia",
+      "file": "missing/P/53463-plantasia.json"
     },
     {
       "igdb_id": 398336,
@@ -314536,6 +314571,11 @@
       "igdb_id": 19278,
       "game_name": "Poi",
       "file": "missing/P/19278-poi.json"
+    },
+    {
+      "igdb_id": 53464,
+      "game_name": "Poi: Deluxe Edition",
+      "file": "missing/P/53464-poi-deluxe-edition.json"
     },
     {
       "igdb_id": 298547,
@@ -316753,6 +316793,11 @@
       "file": "missing/P/319389-pomo-post.json"
     },
     {
+      "igdb_id": 53465,
+      "game_name": "Pompei: The Legend of Vesuvius",
+      "file": "missing/P/53465-pompei-the-legend-of-vesuvius.json"
+    },
+    {
       "igdb_id": 40774,
       "game_name": "Pompeii",
       "file": "missing/P/40774-pompeii.json"
@@ -317733,6 +317778,11 @@
       "file": "missing/P/45023-porsche-challenge.json"
     },
     {
+      "igdb_id": 53467,
+      "game_name": "Port Royale 3: Harbour Master",
+      "file": "missing/P/53467-port-royale-3-harbour-master.json"
+    },
+    {
       "igdb_id": 154504,
       "game_name": "Port Royale 4: Buccaneers",
       "file": "missing/P/154504-port-royale-4-buccaneers.json"
@@ -318076,6 +318126,11 @@
       "igdb_id": 67276,
       "game_name": "Poseidon: Planet Eleven",
       "file": "missing/P/67276-poseidon-planet-eleven.json"
+    },
+    {
+      "igdb_id": 53468,
+      "game_name": "Posh Boutique",
+      "file": "missing/P/53468-posh-boutique.json"
     },
     {
       "igdb_id": 294454,
@@ -318573,6 +318628,11 @@
       "file": "missing/P/162429-power-and-revolution-2021-edition.json"
     },
     {
+      "igdb_id": 53469,
+      "game_name": "Power & Revolution: Geo-Political Simulator 4",
+      "file": "missing/P/53469-power-and-revolution-geo-political-simulator-4.json"
+    },
+    {
       "igdb_id": 55151,
       "game_name": "Power at Sea",
       "file": "missing/P/55151-power-at-sea.json"
@@ -318596,6 +318656,11 @@
       "igdb_id": 382344,
       "game_name": "Power Chips",
       "file": "missing/P/382344-power-chips.json"
+    },
+    {
+      "igdb_id": 53470,
+      "game_name": "Power Defence",
+      "file": "missing/P/53470-power-defence.json"
     },
     {
       "igdb_id": 79614,
@@ -318926,6 +318991,11 @@
       "igdb_id": 251845,
       "game_name": "Power Solenoid",
       "file": "missing/P/251845-power-solenoid.json"
+    },
+    {
+      "igdb_id": 53471,
+      "game_name": "Power Sphere",
+      "file": "missing/P/53471-power-sphere.json"
     },
     {
       "igdb_id": 301385,
@@ -319656,6 +319726,11 @@
       "igdb_id": 13619,
       "game_name": "Press X to Not Die",
       "file": "missing/P/13619-press-x-to-not-die.json"
+    },
+    {
+      "igdb_id": 53472,
+      "game_name": "Press X to Not Die: Special Edition",
+      "file": "missing/P/53472-press-x-to-not-die-special-edition.json"
     },
     {
       "igdb_id": 52646,
@@ -320868,6 +320943,11 @@
       "file": "missing/P/32978-pristine-world.json"
     },
     {
+      "igdb_id": 53474,
+      "game_name": "Pristine World: Deluxe Edition",
+      "file": "missing/P/53474-pristine-world-deluxe-edition.json"
+    },
+    {
       "igdb_id": 72657,
       "game_name": "Pristontale II: The 2nd Enigma",
       "file": "missing/P/72657-pristontale-ii-the-2nd-enigma.json"
@@ -321513,6 +321593,21 @@
       "file": "missing/P/197887-professional-darts-championship.json"
     },
     {
+      "igdb_id": 53476,
+      "game_name": "Professional Farmer 2014 America",
+      "file": "missing/P/53476-professional-farmer-2014-america.json"
+    },
+    {
+      "igdb_id": 53477,
+      "game_name": "Professional Farmer 2014: Collector's Edition",
+      "file": "missing/P/53477-professional-farmer-2014-collectors-edition.json"
+    },
+    {
+      "igdb_id": 53478,
+      "game_name": "Professional Farmer 2014: Platinum Edition",
+      "file": "missing/P/53478-professional-farmer-2014-platinum-edition.json"
+    },
+    {
       "igdb_id": 84808,
       "game_name": "Professional Farmer 2016",
       "file": "missing/P/84808-professional-farmer-2016.json"
@@ -321768,6 +321863,11 @@
       "file": "missing/P/343266-prohibeast.json"
     },
     {
+      "igdb_id": 53480,
+      "game_name": "Prohibition 1930",
+      "file": "missing/P/53480-prohibition-1930.json"
+    },
+    {
       "igdb_id": 310382,
       "game_name": "Project 13: Nightwatch - Canteen",
       "file": "missing/P/310382-project-13-nightwatch-canteen.json"
@@ -321911,6 +322011,11 @@
       "igdb_id": 335324,
       "game_name": "Project Carrot",
       "file": "missing/P/335324-project-carrot.json"
+    },
+    {
+      "igdb_id": 53479,
+      "game_name": "Project CARS 2: Deluxe Edition",
+      "file": "missing/P/53479-project-cars-2-deluxe-edition.json"
     },
     {
       "igdb_id": 120193,
@@ -322256,6 +322361,11 @@
       "igdb_id": 130920,
       "game_name": "Project Heartbeat",
       "file": "missing/P/130920-project-heartbeat.json"
+    },
+    {
+      "igdb_id": 53481,
+      "game_name": "Project Hedra",
+      "file": "missing/P/53481-project-hedra.json"
     },
     {
       "igdb_id": 317608,
@@ -324036,6 +324146,11 @@
       "igdb_id": 358969,
       "game_name": "Psycho Strafe",
       "file": "missing/P/358969-psycho-strafe.json"
+    },
+    {
+      "igdb_id": 53483,
+      "game_name": "Psycho Train",
+      "file": "missing/P/53483-psycho-train.json"
     },
     {
       "igdb_id": 55193,
@@ -326093,6 +326208,11 @@
       "file": "missing/P/263571-puzzle-grid.json"
     },
     {
+      "igdb_id": 53484,
+      "game_name": "Puzzle Hero",
+      "file": "missing/P/53484-puzzle-hero.json"
+    },
+    {
       "igdb_id": 340743,
       "game_name": "Puzzle Islands: Ancient & Modern - Bundle",
       "file": "missing/P/340743-puzzle-islands-ancient-and-modern-bundle.json"
@@ -326843,6 +326963,11 @@
       "file": "missing/P/129780-pyrus-alletiders-jul.json"
     },
     {
+      "igdb_id": 53485,
+      "game_name": "Pyschotic Adventures",
+      "file": "missing/P/53485-pyschotic-adventures.json"
+    },
+    {
       "igdb_id": 309096,
       "game_name": "Pythagorea 60°",
       "file": "missing/P/309096-pythagorea-60.json"
@@ -327261,6 +327386,11 @@
       "igdb_id": 174846,
       "game_name": "Quadrilateral Battle",
       "file": "missing/Q/174846-quadrilateral-battle.json"
+    },
+    {
+      "igdb_id": 53486,
+      "game_name": "Quadrilateral Cowboy: Deluxe Edition",
+      "file": "missing/Q/53486-quadrilateral-cowboy-deluxe-edition.json"
     },
     {
       "igdb_id": 244865,
@@ -327943,6 +328073,11 @@
       "file": "missing/Q/339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json"
     },
     {
+      "igdb_id": 53488,
+      "game_name": "Queen At Arms: Deluxe Edition",
+      "file": "missing/Q/53488-queen-at-arms-deluxe-edition.json"
+    },
+    {
       "igdb_id": 107862,
       "game_name": "Queen Elsa and Her Horse Girl Games",
       "file": "missing/Q/107862-queen-elsa-and-her-horse-girl-games.json"
@@ -328021,6 +328156,11 @@
       "igdb_id": 97109,
       "game_name": "Queen's Quest 4: Sacred Truce",
       "file": "missing/Q/97109-queens-quest-4-sacred-truce.json"
+    },
+    {
+      "igdb_id": 53489,
+      "game_name": "Queen's Quest Collection",
+      "file": "missing/Q/53489-queens-quest-collection.json"
     },
     {
       "igdb_id": 108963,
@@ -330678,6 +330818,11 @@
       "file": "missing/R/175393-railroad-story-hd.json"
     },
     {
+      "igdb_id": 53490,
+      "game_name": "Railroad Tycoon Collection",
+      "file": "missing/R/53490-railroad-tycoon-collection.json"
+    },
+    {
       "igdb_id": 71480,
       "game_name": "Railroad Tycoon II: The Second Century",
       "file": "missing/R/71480-railroad-tycoon-ii-the-second-century.json"
@@ -331146,6 +331291,11 @@
       "igdb_id": 258476,
       "game_name": "Rainette",
       "file": "missing/R/258476-rainette.json"
+    },
+    {
+      "igdb_id": 53491,
+      "game_name": "Rainforest Adventure",
+      "file": "missing/R/53491-rainforest-adventure.json"
     },
     {
       "igdb_id": 69845,
@@ -334403,6 +334553,11 @@
       "file": "missing/R/408736-rebel-roar.json"
     },
     {
+      "igdb_id": 53492,
+      "game_name": "Rebellion Anthology",
+      "file": "missing/R/53492-rebellion-anthology.json"
+    },
+    {
       "igdb_id": 153393,
       "game_name": "Rebellion: A Rogue Souls Like",
       "file": "missing/R/153393-rebellion-a-rogue-souls-like.json"
@@ -334798,6 +334953,11 @@
       "file": "missing/R/235868-recovery-syndicate.json"
     },
     {
+      "igdb_id": 53493,
+      "game_name": "Recovery: Search & Rescue",
+      "file": "missing/R/53493-recovery-search-and-rescue.json"
+    },
+    {
       "igdb_id": 83574,
       "game_name": "Recreational Dreaming",
       "file": "missing/R/83574-recreational-dreaming.json"
@@ -335173,6 +335333,11 @@
       "file": "missing/R/103195-red-eyes.json"
     },
     {
+      "igdb_id": 53495,
+      "game_name": "Red Faction Collection",
+      "file": "missing/R/53495-red-faction-collection.json"
+    },
+    {
       "igdb_id": 264880,
       "game_name": "Red Faction: B.E.A.S.T.",
       "file": "missing/R/264880-red-faction-b-e-a-s-t.json"
@@ -335511,6 +335676,11 @@
       "igdb_id": 226968,
       "game_name": "Red Tape",
       "file": "missing/R/226968-red-tape.json"
+    },
+    {
+      "igdb_id": 53496,
+      "game_name": "Red Tentacle",
+      "file": "missing/R/53496-red-tentacle.json"
     },
     {
       "igdb_id": 391177,
@@ -335873,6 +336043,11 @@
       "file": "missing/R/226970-redout-back-to-earth-pack.json"
     },
     {
+      "igdb_id": 53497,
+      "game_name": "Redout: Deluxe Edition",
+      "file": "missing/R/53497-redout-deluxe-edition.json"
+    },
+    {
       "igdb_id": 226971,
       "game_name": "Redout: Mars Pack",
       "file": "missing/R/226971-redout-mars-pack.json"
@@ -336193,6 +336368,11 @@
       "file": "missing/R/362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json"
     },
     {
+      "igdb_id": 53498,
+      "game_name": "Reflections of Life: Dark Architect - Collector's Edition",
+      "file": "missing/R/53498-reflections-of-life-dark-architect-collectors-edition.json"
+    },
+    {
       "igdb_id": 362833,
       "game_name": "Reflections of Life: Dream Box - Collector's Edition",
       "file": "missing/R/362833-reflections-of-life-dream-box-collectors-edition.json"
@@ -336291,6 +336471,11 @@
       "igdb_id": 64892,
       "game_name": "Refrain Love: Anata ni Aitai",
       "file": "missing/R/64892-refrain-love-anata-ni-aitai.json"
+    },
+    {
+      "igdb_id": 53499,
+      "game_name": "RefRain: Prism Memories - Collector's Edition",
+      "file": "missing/R/53499-refrain-prism-memories-collectors-edition.json"
     },
     {
       "igdb_id": 226969,
@@ -337643,9 +337828,19 @@
       "file": "missing/R/235981-rescape.json"
     },
     {
+      "igdb_id": 53500,
+      "game_name": "Rescue 2: Everyday Heroes",
+      "file": "missing/R/53500-rescue-2-everyday-heroes.json"
+    },
+    {
       "igdb_id": 230927,
       "game_name": "Rescue Dash: Time Management Simulator",
       "file": "missing/R/230927-rescue-dash-time-management-simulator.json"
+    },
+    {
+      "igdb_id": 53501,
+      "game_name": "Rescue Frenzy",
+      "file": "missing/R/53501-rescue-frenzy.json"
     },
     {
       "igdb_id": 156544,
@@ -337736,6 +337931,21 @@
       "igdb_id": 36019,
       "game_name": "Rescue Team",
       "file": "missing/R/36019-rescue-team.json"
+    },
+    {
+      "igdb_id": 53502,
+      "game_name": "Rescue Team 4",
+      "file": "missing/R/53502-rescue-team-4.json"
+    },
+    {
+      "igdb_id": 53503,
+      "game_name": "Rescue Team 6",
+      "file": "missing/R/53503-rescue-team-6.json"
+    },
+    {
+      "igdb_id": 53504,
+      "game_name": "Rescue Team 7: Collector's Edition",
+      "file": "missing/R/53504-rescue-team-7-collectors-edition.json"
     },
     {
       "igdb_id": 122212,
@@ -340548,6 +340758,11 @@
       "file": "missing/R/226951-ride-2-rising-sun-bikes-pack.json"
     },
     {
+      "igdb_id": 53507,
+      "game_name": "Ride 2: Special Edition",
+      "file": "missing/R/53507-ride-2-special-edition.json"
+    },
+    {
       "igdb_id": 103497,
       "game_name": "Ride 3",
       "file": "missing/R/103497-ride-3.json"
@@ -340696,6 +340911,11 @@
       "igdb_id": 158706,
       "game_name": "Riders 2491",
       "file": "missing/R/158706-riders-2491.json"
+    },
+    {
+      "igdb_id": 53508,
+      "game_name": "Riders of Asgard: Deluxe Edition",
+      "file": "missing/R/53508-riders-of-asgard-deluxe-edition.json"
     },
     {
       "igdb_id": 263514,
@@ -341543,6 +341763,11 @@
       "file": "missing/R/158041-ripshot.json"
     },
     {
+      "igdb_id": 53509,
+      "game_name": "Riptale: Deluxe Edition",
+      "file": "missing/R/53509-riptale-deluxe-edition.json"
+    },
+    {
       "igdb_id": 291236,
       "game_name": "Riptide",
       "file": "missing/R/291236-riptide.json"
@@ -341848,6 +342073,11 @@
       "file": "missing/R/312030-rise-of-the-white-sun-the-yellow-way.json"
     },
     {
+      "igdb_id": 53510,
+      "game_name": "Rise of Venice: Gold Edition",
+      "file": "missing/R/53510-rise-of-venice-gold-edition.json"
+    },
+    {
       "igdb_id": 155475,
       "game_name": "Rise of Warlords",
       "file": "missing/R/155475-rise-of-warlords.json"
@@ -341878,6 +342108,21 @@
       "file": "missing/R/3802-risen-2-dark-waters.json"
     },
     {
+      "igdb_id": 53511,
+      "game_name": "Risen 2: Dark Waters - A Pirate's Clothes",
+      "file": "missing/R/53511-risen-2-dark-waters-a-pirates-clothes.json"
+    },
+    {
+      "igdb_id": 53512,
+      "game_name": "Risen 2: Dark Waters - The Air Temple",
+      "file": "missing/R/53512-risen-2-dark-waters-the-air-temple.json"
+    },
+    {
+      "igdb_id": 53513,
+      "game_name": "Risen 2: Dark Waters - Treasure Isle",
+      "file": "missing/R/53513-risen-2-dark-waters-treasure-isle.json"
+    },
+    {
       "igdb_id": 238516,
       "game_name": "Risen 3: Fog Island",
       "file": "missing/R/238516-risen-3-fog-island.json"
@@ -341886,6 +342131,11 @@
       "igdb_id": 6142,
       "game_name": "Risen 3: Titan Lords",
       "file": "missing/R/6142-risen-3-titan-lords.json"
+    },
+    {
+      "igdb_id": 53514,
+      "game_name": "Risen Dragons",
+      "file": "missing/R/53514-risen-dragons.json"
     },
     {
       "igdb_id": 274556,
