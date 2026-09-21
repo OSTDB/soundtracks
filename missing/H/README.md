@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hameln no Violin Hiki | 38365 | [38365-hameln-no-violin-hiki.json](./38365-hameln-no-violin-hiki.json) |
 | Hamepane Tokyo Mew Mew | 49593 | [49593-hamepane-tokyo-mew-mew.json](./49593-hamepane-tokyo-mew-mew.json) |
 | Hametsu no Mars | 70124 | [70124-hametsu-no-mars.json](./70124-hametsu-no-mars.json) |
+| Hamilton's Great Adventure: Retro Fever DLC | 29212 | [29212-hamiltons-great-adventure-retro-fever-dlc.json](./29212-hamiltons-great-adventure-retro-fever-dlc.json) |
 | HamJam!! | 108972 | [108972-hamjam.json](./108972-hamjam.json) |
 | Hamlet in a Pond | 306081 | [306081-hamlet-in-a-pond.json](./306081-hamlet-in-a-pond.json) |
 | Hammer | 247029 | [247029-hammer.json](./247029-hammer.json) |
