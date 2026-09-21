@@ -2701,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman World of Assassination: 25th Anniversary Edition | 347699 | [347699-hitman-world-of-assassination-25th-anniversary-edition.json](./347699-hitman-world-of-assassination-25th-anniversary-edition.json) |
 | Hitman World of Assassination: Bruce Lee | 370132 | [370132-hitman-world-of-assassination-bruce-lee.json](./370132-hitman-world-of-assassination-bruce-lee.json) |
 | Hitman: Blood Money HD | 99816 | [99816-hitman-blood-money-hd.json](./99816-hitman-blood-money-hd.json) |
+| Hitman: Collector's Edition | 41619 | [41619-hitman-collectors-edition.json](./41619-hitman-collectors-edition.json) |
 | Hitman: Episode 5 - Colorado | 91024 | [91024-hitman-episode-5-colorado.json](./91024-hitman-episode-5-colorado.json) |
 | Hitman: Freelancer | 323712 | [323712-hitman-freelancer.json](./323712-hitman-freelancer.json) |
 | Hitman: Patient Zero | 76414 | [76414-hitman-patient-zero.json](./76414-hitman-patient-zero.json) |
