@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waters of Ragnarok | 403653 | [403653-waters-of-ragnarok.json](./403653-waters-of-ragnarok.json) |
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
+| Watson's Watch | 33477 | [33477-watsons-watch.json](./33477-watsons-watch.json) |
 | WattGames | 298138 | [298138-wattgames.json](./298138-wattgames.json) |
 | Wauies | 81760 | [81760-wauies.json](./81760-wauies.json) |
 | Wave | 152147 | [152147-wave.json](./152147-wave.json) |
