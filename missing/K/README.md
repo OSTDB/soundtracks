@@ -733,8 +733,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kidney Stone Clicker | 369630 | [369630-kidney-stone-clicker.json](./369630-kidney-stone-clicker.json) |
 | Kido Keisatstsu Patlabor: Griffon-hen | 75897 | [75897-kido-keisatstsu-patlabor-griffon-hen.json](./75897-kido-keisatstsu-patlabor-griffon-hen.json) |
+| Kidou Senshi Gundam Seed | 37371 | [37371-kidou-senshi-gundam-seed.json](./37371-kidou-senshi-gundam-seed.json) |
+| Kidou Senshi Gundam Vol. 1 Side7 | 37370 | [37370-kidou-senshi-gundam-vol-1-side7.json](./37370-kidou-senshi-gundam-vol-1-side7.json) |
+| Kidou Senshi Gundam Vol. 2 Jaburo | 37369 | [37369-kidou-senshi-gundam-vol-2-jaburo.json](./37369-kidou-senshi-gundam-vol-2-jaburo.json) |
+| Kidou Senshi Gundam Vol. 3 A Baoa Qu | 37368 | [37368-kidou-senshi-gundam-vol-3-a-baoa-qu.json](./37368-kidou-senshi-gundam-vol-3-a-baoa-qu.json) |
 | Kidou Senshi Gundam: Fushigi no Dungeon | 311283 | [311283-kidou-senshi-gundam-fushigi-no-dungeon.json](./311283-kidou-senshi-gundam-fushigi-no-dungeon.json) |
 | Kidou Senshi Gundam: Gihren no Yabou | 76598 | [76598-kidou-senshi-gundam-gihren-no-yabou.json](./76598-kidou-senshi-gundam-gihren-no-yabou.json) |
+| Kidou Senshi Gundam: Giren no Yabou - Tokubetsu-hen Aokisei no Hasha | 37367 | [37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json](./37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json) |
 | Kidou Senshi Gundam: Senjou No Kizuna Portable | 56744 | [56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json](./56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json) |
 | Kids ABC and Counting Jigsaw Puzzles Pre school | 87151 | [87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json](./87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json) |
 | Kids Cars | 213647 | [213647-kids-cars.json](./213647-kids-cars.json) |
@@ -1161,6 +1166,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinnikuman II: Tatakae! Ramenman | 346032 | [346032-kinnikuman-ii-tatakae-ramenman.json](./346032-kinnikuman-ii-tatakae-ramenman.json) |
 | Kinnikuman III: Ougon no Mask-hen | 346034 | [346034-kinnikuman-iii-ougon-no-mask-hen.json](./346034-kinnikuman-iii-ougon-no-mask-hen.json) |
 | Kinnikuman Muscle Grand Prix Max | 66662 | [66662-kinnikuman-muscle-grand-prix-max.json](./66662-kinnikuman-muscle-grand-prix-max.json) |
+| Kinnikuman Nisei: Choujin Seisenshi | 37366 | [37366-kinnikuman-nisei-choujin-seisenshi.json](./37366-kinnikuman-nisei-choujin-seisenshi.json) |
+| Kinnikuman Nisei: Dream Tag Match | 37365 | [37365-kinnikuman-nisei-dream-tag-match.json](./37365-kinnikuman-nisei-dream-tag-match.json) |
 | Kinnikuman: Colosseum Deathmatch | 71803 | [71803-kinnikuman-colosseum-deathmatch.json](./71803-kinnikuman-colosseum-deathmatch.json) |
 | Kinnikuman: Kinniku-sei Oui Soudatsusen | 41324 | [41324-kinnikuman-kinniku-sei-oui-soudatsusen.json](./41324-kinnikuman-kinniku-sei-oui-soudatsusen.json) |
 | Kinnikuman: Sakuretsu! Muscle Power | 346022 | [346022-kinnikuman-sakuretsu-muscle-power.json](./346022-kinnikuman-sakuretsu-muscle-power.json) |
@@ -1845,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kredolis | 151143 | [151143-kredolis.json](./151143-kredolis.json) |
 | Kreed | 95498 | [95498-kreed.json](./95498-kreed.json) |
 | Kreed: Battle for Savitar | 69822 | [69822-kreed-battle-for-savitar.json](./69822-kreed-battle-for-savitar.json) |
+| Kreedz Climbing | 37396 | [37396-kreedz-climbing.json](./37396-kreedz-climbing.json) |
 | Kreepy Krawlers | 171468 | [171468-kreepy-krawlers.json](./171468-kreepy-krawlers.json) |
 | Krell | 93032 | [93032-krell.json](./93032-krell.json) |
 | Kremlin 3D | 320717 | [320717-kremlin-3d.json](./320717-kremlin-3d.json) |
@@ -1995,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KuruKuru Princess: Yume no White Quartet | 70668 | [70668-kurukuru-princess-yume-no-white-quartet.json](./70668-kurukuru-princess-yume-no-white-quartet.json) |
 | Kuruma de DS | 302675 | [302675-kuruma-de-ds.json](./302675-kuruma-de-ds.json) |
 | Kurumi-chan A-so-bo | 97385 | [97385-kurumi-chan-a-so-bo.json](./97385-kurumi-chan-a-so-bo.json) |
+| Kurupara! | 37364 | [37364-kurupara.json](./37364-kurupara.json) |
 | Kururin Donuts: Okashi Recipe | 228453 | [228453-kururin-donuts-okashi-recipe.json](./228453-kururin-donuts-okashi-recipe.json) |
 | Kururin Sushi | 222321 | [222321-kururin-sushi.json](./222321-kururin-sushi.json) |
 | Kururuga | 412967 | [412967-kururuga.json](./412967-kururuga.json) |
