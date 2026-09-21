@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gênio Quiz BBB 21 | 241943 | [241943-genio-quiz-bbb-21.json](./241943-genio-quiz-bbb-21.json) |
 | Gênio Quiz Poke 2 | 241969 | [241969-genio-quiz-poke-2.json](./241969-genio-quiz-poke-2.json) |
 | Genital Jousting | 18387 | [18387-genital-jousting.json](./18387-genital-jousting.json) |
+| Geniu$: The Tech Tycoon Game | 9925 | [9925-geniu-the-tech-tycoon-game.json](./9925-geniu-the-tech-tycoon-game.json) |
 | Genius Killer | 174749 | [174749-genius-killer.json](./174749-genius-killer.json) |
 | Genius Quiz | 240245 | [240245-genius-quiz.json](./240245-genius-quiz.json) |
 | Genius Quiz 1 | 240246 | [240246-genius-quiz-1.json](./240246-genius-quiz-1.json) |
