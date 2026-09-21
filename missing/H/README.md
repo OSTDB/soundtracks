@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of Fate 2: The Servant and the Beast | 111062 | [111062-hand-of-fate-2-the-servant-and-the-beast.json](./111062-hand-of-fate-2-the-servant-and-the-beast.json) |
 | Hand of Seasons | 298687 | [298687-hand-of-seasons.json](./298687-hand-of-seasons.json) |
 | Hand of the Goddess | 273919 | [273919-hand-of-the-goddess.json](./273919-hand-of-the-goddess.json) |
+| Hand Simulator | 44143 | [44143-hand-simulator.json](./44143-hand-simulator.json) |
 | Hand Simulator: Shooter | 326407 | [326407-hand-simulator-shooter.json](./326407-hand-simulator-shooter.json) |
 | Hand to Hand Combat | 118004 | [118004-hand-to-hand-combat.json](./118004-hand-to-hand-combat.json) |
 | Hand to Hand Combat VR | 122984 | [122984-hand-to-hand-combat-vr.json](./122984-hand-to-hand-combat-vr.json) |
@@ -1860,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here and There Along the Echo | 74392 | [74392-here-and-there-along-the-echo.json](./74392-here-and-there-along-the-echo.json) |
 | Here Be Dragons | 110355 | [110355-here-be-dragons.json](./110355-here-be-dragons.json) |
 | Here For Sweethearts | 184036 | [184036-here-for-sweethearts.json](./184036-here-for-sweethearts.json) |
+| Here They Lie | 19572 | [19572-here-they-lie.json](./19572-here-they-lie.json) |
 | Hereafter | 47988 | [47988-hereafter.json](./47988-hereafter.json) |
 | Hereford 1642 | 190138 | [190138-hereford-1642.json](./190138-hereford-1642.json) |
 | Heresis | 340465 | [340465-heresis.json](./340465-heresis.json) |
@@ -2004,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Maidan 3 | 127754 | [127754-heroes-of-maidan-3.json](./127754-heroes-of-maidan-3.json) |
 | Heroes of Mana | 14990 | [14990-heroes-of-mana.json](./14990-heroes-of-mana.json) |
 | Heroes of Might & Magic: Olden Era | 314543 | [314543-heroes-of-might-and-magic-olden-era.json](./314543-heroes-of-might-and-magic-olden-era.json) |
+| Heroes of Might and Magic 3.5: In the Wake of Gods | 19775 | [19775-heroes-of-might-and-magic-3-5-in-the-wake-of-gods.json](./19775-heroes-of-might-and-magic-3-5-in-the-wake-of-gods.json) |
 | Heroes of Might and Magic II: Desecrated Lands | 223031 | [223031-heroes-of-might-and-magic-ii-desecrated-lands.json](./223031-heroes-of-might-and-magic-ii-desecrated-lands.json) |
 | Heroes of Might and Magic II: Gold | 51821 | [51821-heroes-of-might-and-magic-ii-gold.json](./51821-heroes-of-might-and-magic-ii-gold.json) |
 | Heroes of Might and Magic II: The Price of Loyalty | 7742 | [7742-heroes-of-might-and-magic-ii-the-price-of-loyalty.json](./7742-heroes-of-might-and-magic-ii-the-price-of-loyalty.json) |
@@ -2758,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Episode 5 - Colorado | 91024 | [91024-hitman-episode-5-colorado.json](./91024-hitman-episode-5-colorado.json) |
 | Hitman: Freelancer | 323712 | [323712-hitman-freelancer.json](./323712-hitman-freelancer.json) |
 | Hitman: Patient Zero | 76414 | [76414-hitman-patient-zero.json](./76414-hitman-patient-zero.json) |
+| Hitman: Sniper | 19488 | [19488-hitman-sniper.json](./19488-hitman-sniper.json) |
 | Hitman: Sniper Challenge | 5567 | [5567-hitman-sniper-challenge.json](./5567-hitman-sniper-challenge.json) |
 | Hitmasters | 220177 | [220177-hitmasters.json](./220177-hitmasters.json) |
 | Hitme | 178096 | [178096-hitme.json](./178096-hitme.json) |
