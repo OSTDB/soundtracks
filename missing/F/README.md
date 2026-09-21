@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F/A-18E Super Hornet: The Albanian Campaign | 84201 | [84201-f-a-18e-super-hornet-the-albanian-campaign.json](./84201-f-a-18e-super-hornet-the-albanian-campaign.json) |
 | F1 06 | 7308 | [7308-f1-06.json](./7308-f1-06.json) |
 | F1 2000 | 45305 | [45305-f1-2000.json](./45305-f1-2000.json) |
+| F1 2010 | 1375 | [1375-f1-2010.json](./1375-f1-2010.json) |
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
 | F1 2018: Headline Edition | 110984 | [110984-f1-2018-headline-edition.json](./110984-f1-2018-headline-edition.json) |
 | F1 2019 | 116667 | [116667-f1-2019.json](./116667-f1-2019.json) |
@@ -1901,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Dream of Five - Definitive Edition | 316621 | [316621-fire-emblem-dream-of-five-definitive-edition.json](./316621-fire-emblem-dream-of-five-definitive-edition.json) |
 | Fire Emblem: Fortune's Weave | 366896 | [366896-fire-emblem-fortunes-weave.json](./366896-fire-emblem-fortunes-weave.json) |
 | Fire Emblem: Four Kings - Deposition | 214495 | [214495-fire-emblem-four-kings-deposition.json](./214495-fire-emblem-four-kings-deposition.json) |
+| Fire Emblem: Fuuin no Tsurugi | 1438 | [1438-fire-emblem-fuuin-no-tsurugi.json](./1438-fire-emblem-fuuin-no-tsurugi.json) |
 | Fire Emblem: Gilmore Girls | 146274 | [146274-fire-emblem-gilmore-girls.json](./146274-fire-emblem-gilmore-girls.json) |
 | Fire Emblem: Hetja's Quest | 356720 | [356720-fire-emblem-hetjas-quest.json](./356720-fire-emblem-hetjas-quest.json) |
 | Fire Emblem: Host of the Dark | 296106 | [296106-fire-emblem-host-of-the-dark.json](./296106-fire-emblem-host-of-the-dark.json) |
@@ -3779,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddi Fish: ABC's Under the Sea | 3749 | [3749-freddi-fish-abcs-under-the-sea.json](./3749-freddi-fish-abcs-under-the-sea.json) |
 | Freddy | 280774 | [280774-freddy.json](./280774-freddy.json) |
 | Freddy Fazbear's Pizza Massacre | 272297 | [272297-freddy-fazbears-pizza-massacre.json](./272297-freddy-fazbears-pizza-massacre.json) |
+| Freddy Fazbear's Pizzeria Simulator | 76725 | [76725-freddy-fazbears-pizzeria-simulator.json](./76725-freddy-fazbears-pizzeria-simulator.json) |
 | Freddy Fazbear's Pizzeria Simulator VR | 231618 | [231618-freddy-fazbears-pizzeria-simulator-vr.json](./231618-freddy-fazbears-pizzeria-simulator-vr.json) |
 | Freddy Fish | 94579 | [94579-freddy-fish.json](./94579-freddy-fish.json) |
 | Freddy Hardest in Manhattan South | 45333 | [45333-freddy-hardest-in-manhattan-south.json](./45333-freddy-hardest-in-manhattan-south.json) |
