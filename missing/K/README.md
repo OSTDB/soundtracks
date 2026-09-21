@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanojo to Ore to Koibito to. | 194609 | [194609-kanojo-to-ore-to-koibito-to.json](./194609-kanojo-to-ore-to-koibito-to.json) |
 | Kanojo xx Switch | 156614 | [156614-kanojo-xx-switch.json](./156614-kanojo-xx-switch.json) |
 | Kansensei Nightmare | 151532 | [151532-kansensei-nightmare.json](./151532-kansensei-nightmare.json) |
+| Kantai Collection | 12737 | [12737-kantai-collection.json](./12737-kantai-collection.json) |
 | Kanuchi: Futatsu No Tsubasa | 56765 | [56765-kanuchi-futatsu-no-tsubasa.json](./56765-kanuchi-futatsu-no-tsubasa.json) |
 | Kanye Zone | 274745 | [274745-kanye-zone.json](./274745-kanye-zone.json) |
 | Kanyu: Sword Tomb | 224033 | [224033-kanyu-sword-tomb.json](./224033-kanyu-sword-tomb.json) |
