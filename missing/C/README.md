@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Melody Pack | 235331 | [235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json](./235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Octavo's Ode | 235330 | [235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json](./235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json) |
 | Cadenza: Havana Nights | 188030 | [188030-cadenza-havana-nights.json](./188030-cadenza-havana-nights.json) |
+| Cadenza: Music, Betrayal and Death - Collector's Edition | 36465 | [36465-cadenza-music-betrayal-and-death-collectors-edition.json](./36465-cadenza-music-betrayal-and-death-collectors-edition.json) |
 | Cadenza: The Kiss of Death | 88811 | [88811-cadenza-the-kiss-of-death.json](./88811-cadenza-the-kiss-of-death.json) |
 | Cadillacs and Dinosaurs: The Second Cataclysm | 5367 | [5367-cadillacs-and-dinosaurs-the-second-cataclysm.json](./5367-cadillacs-and-dinosaurs-the-second-cataclysm.json) |
 | Cadria Item Shop | 107894 | [107894-cadria-item-shop.json](./107894-cadria-item-shop.json) |
@@ -810,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmageddon | 246743 | [246743-carmageddon.json](./246743-carmageddon.json) |
 | Carmageddon | 626 | [626-carmageddon.json](./626-carmageddon.json) |
 | Carmageddon Max Pack | 93899 | [93899-carmageddon-max-pack.json](./93899-carmageddon-max-pack.json) |
+| Carmageddon: Crashers | 36505 | [36505-carmageddon-crashers.json](./36505-carmageddon-crashers.json) |
 | Carmageddon: Max Damage | 18075 | [18075-carmageddon-max-damage.json](./18075-carmageddon-max-damage.json) |
 | Carmageddon: Splat Pack | 2403 | [2403-carmageddon-splat-pack.json](./2403-carmageddon-splat-pack.json) |
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
@@ -6233,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Omelette | 370114 | [370114-cursed-omelette.json](./370114-cursed-omelette.json) |
 | Cursed Queen : Wicked Witch | 105371 | [105371-cursed-queen-wicked-witch.json](./105371-cursed-queen-wicked-witch.json) |
 | Cursed Realm | 258722 | [258722-cursed-realm.json](./258722-cursed-realm.json) |
+| Cursed Roots | 36507 | [36507-cursed-roots.json](./36507-cursed-roots.json) |
 | Cursed Silence | 269273 | [269273-cursed-silence.json](./269273-cursed-silence.json) |
 | Cursed Spire | 195250 | [195250-cursed-spire.json](./195250-cursed-spire.json) |
 | Cursed Swamp Escape 3 | 315470 | [315470-cursed-swamp-escape-3.json](./315470-cursed-swamp-escape-3.json) |
