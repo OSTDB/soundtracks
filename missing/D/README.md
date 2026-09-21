@@ -3328,6 +3328,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Gambit | 375314 | [375314-divine-gambit.json](./375314-divine-gambit.json) |
 | Divine Gate Zero | 227486 | [227486-divine-gate-zero.json](./227486-divine-gate-zero.json) |
 | Divine Heart Karen SP Season 2: Nari Henshin Heroine Crisis! | 80492 | [80492-divine-heart-karen-sp-season-2-nari-henshin-heroine-crisis.json](./80492-divine-heart-karen-sp-season-2-nari-henshin-heroine-crisis.json) |
+| Divine Heart Machina Gaiden 04 ~Onna Kanbu Toujoku Hen~ | 59083 | [59083-divine-heart-machina-gaiden-04-onna-kanbu-toujoku-hen.json](./59083-divine-heart-machina-gaiden-04-onna-kanbu-toujoku-hen.json) |
+| Divine Heart Makina ~Haijoku no Intsui Senshi~ | 59084 | [59084-divine-heart-makina-haijoku-no-intsui-senshi.json](./59084-divine-heart-makina-haijoku-no-intsui-senshi.json) |
+| Divine Heart Makina Gaiden 03 ~Makina Akuochi Hen~ | 59085 | [59085-divine-heart-makina-gaiden-03-makina-akuochi-hen.json](./59085-divine-heart-makina-gaiden-03-makina-akuochi-hen.json) |
+| Divine Heart Makina Gaiden 05 ~Akuma no Choukagaku! Hen~ | 59082 | [59082-divine-heart-makina-gaiden-05-akuma-no-choukagaku-hen.json](./59082-divine-heart-makina-gaiden-05-akuma-no-choukagaku-hen.json) |
+| Divine Heart Makina Gaiden 06 ~Shougeki no Marunomi Haiboku!~ | 59081 | [59081-divine-heart-makina-gaiden-06-shougeki-no-marunomi-haiboku.json](./59081-divine-heart-makina-gaiden-06-shougeki-no-marunomi-haiboku.json) |
+| Divine Heart Makina Gaiden 07 ~5-dai Kaijinshuu Shingeki!~ | 59073 | [59073-divine-heart-makina-gaiden-07-5-dai-kaijinshuu-shingeki.json](./59073-divine-heart-makina-gaiden-07-5-dai-kaijinshuu-shingeki.json) |
+| Divine Heart Makina Gaiden 08 ~Kindan no Junai Shokushu Hen~ | 59072 | [59072-divine-heart-makina-gaiden-08-kindan-no-junai-shokushu-hen.json](./59072-divine-heart-makina-gaiden-08-kindan-no-junai-shokushu-hen.json) |
 | Divine Intervention (Pt. 1) | 141017 | [141017-divine-intervention-pt-1.json](./141017-divine-intervention-pt-1.json) |
 | Divine Journey: The Life of Jesus | 280199 | [280199-divine-journey-the-life-of-jesus.json](./280199-divine-journey-the-life-of-jesus.json) |
 | Divine Justice Zero | 65757 | [65757-divine-justice-zero.json](./65757-divine-justice-zero.json) |
@@ -3559,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog's Garden | 188009 | [188009-dogs-garden.json](./188009-dogs-garden.json) |
 | Dog's Quest | 103454 | [103454-dogs-quest.json](./103454-dogs-quest.json) |
 | Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
+| Dogchild | 59062 | [59062-dogchild.json](./59062-dogchild.json) |
 | Doge and the Lost Kitten | 103409 | [103409-doge-and-the-lost-kitten.json](./103409-doge-and-the-lost-kitten.json) |
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
 | Doge Jump | 62678 | [62678-doge-jump.json](./62678-doge-jump.json) |
@@ -4145,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Minna de Asobou! Mini Doland | 50587 | [50587-doraemon-minna-de-asobou-mini-doland.json](./50587-doraemon-minna-de-asobou-mini-doland.json) |
 | Doraemon: Nobita no Doki-doki! Obake Land | 231512 | [231512-doraemon-nobita-no-doki-doki-obake-land.json](./231512-doraemon-nobita-no-doki-doki-obake-land.json) |
 | Doraemon: Nobita no Himitsu Dougu Hakubutsukan | 60544 | [60544-doraemon-nobita-no-himitsu-dougu-hakubutsukan.json](./60544-doraemon-nobita-no-himitsu-dougu-hakubutsukan.json) |
+| Doraemon: Nobita no Time Machine Daibouken | 59056 | [59056-doraemon-nobita-no-time-machine-daibouken.json](./59056-doraemon-nobita-no-time-machine-daibouken.json) |
 | Doraemon: Nobita to 3-tsu no Seireiseki | 70797 | [70797-doraemon-nobita-to-3-tsu-no-seireiseki.json](./70797-doraemon-nobita-to-3-tsu-no-seireiseki.json) |
 | Doraemon: Nobita to Fukkatsu no Hoshi | 91772 | [91772-doraemon-nobita-to-fukkatsu-no-hoshi.json](./91772-doraemon-nobita-to-fukkatsu-no-hoshi.json) |
 | Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai | 60545 | [60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json](./60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json) |
