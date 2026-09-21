@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force 3 for Nintendo Switch | 172720 | [172720-earth-defense-force-3-for-nintendo-switch.json](./172720-earth-defense-force-3-for-nintendo-switch.json) |
 | Earth Defense Force 4.1: Wing Diver the Shooter | 57020 | [57020-earth-defense-force-4-1-wing-diver-the-shooter.json](./57020-earth-defense-force-4-1-wing-diver-the-shooter.json) |
 | Earth Defense Force 4.1: Wing Diver the Shooter - Training Mode | 168224 | [168224-earth-defense-force-4-1-wing-diver-the-shooter-training-mode.json](./168224-earth-defense-force-4-1-wing-diver-the-shooter-training-mode.json) |
+| Earth Defense Force 5 | 27283 | [27283-earth-defense-force-5.json](./27283-earth-defense-force-5.json) |
 | Earth Defense Force 5: Air Raider Weapon Singing and Dancing Pure Decoy Launcher Set of 8 | 168230 | [168230-earth-defense-force-5-air-raider-weapon-singing-and-dancing-pure-decoy-launcher-set-of-8.json](./168230-earth-defense-force-5-air-raider-weapon-singing-and-dancing-pure-decoy-launcher-set-of-8.json) |
 | Earth Defense Force 5: Deluxe Edition | 118953 | [118953-earth-defense-force-5-deluxe-edition.json](./118953-earth-defense-force-5-deluxe-edition.json) |
 | Earth Defense Force 5: Mission Pack 2 - Super Challenge | 168223 | [168223-earth-defense-force-5-mission-pack-2-super-challenge.json](./168223-earth-defense-force-5-mission-pack-2-super-challenge.json) |
@@ -1070,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
 | Empyrean Swarm | 273649 | [273649-empyrean-swarm.json](./273649-empyrean-swarm.json) |
 | Empyrion - Galactic Survival: Complete Edition | 371228 | [371228-empyrion-galactic-survival-complete-edition.json](./371228-empyrion-galactic-survival-complete-edition.json) |
+| Empyrion: Galactic Survival | 19249 | [19249-empyrion-galactic-survival.json](./19249-empyrion-galactic-survival.json) |
 | EmuDevz | 386285 | [386285-emudevz.json](./386285-emudevz.json) |
 | Emzombed | 267473 | [267473-emzombed.json](./267473-emzombed.json) |
 | En Passant | 234059 | [234059-en-passant.json](./234059-en-passant.json) |
@@ -1436,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Loon | 55216 | [55216-epic-loon.json](./55216-epic-loon.json) |
 | Epic Loot | 110310 | [110310-epic-loot.json](./110310-epic-loot.json) |
 | Epic Manager - Create Your Own Adventuring Agency | 26553 | [26553-epic-manager-create-your-own-adventuring-agency.json](./26553-epic-manager-create-your-own-adventuring-agency.json) |
+| Epic Mickey: Rebrushed | 287849 | [287849-epic-mickey-rebrushed.json](./287849-epic-mickey-rebrushed.json) |
 | Epic of Tarot | 285963 | [285963-epic-of-tarot.json](./285963-epic-of-tarot.json) |
 | Epic Palace: Knossos | 147370 | [147370-epic-palace-knossos.json](./147370-epic-palace-knossos.json) |
 | Epic Pandemonium | 253961 | [253961-epic-pandemonium.json](./253961-epic-pandemonium.json) |
