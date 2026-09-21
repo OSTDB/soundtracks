@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questizin | 180666 | [180666-questizin.json](./180666-questizin.json) |
 | Questland: Swords & Spirits | 100896 | [100896-questland-swords-and-spirits.json](./100896-questland-swords-and-spirits.json) |
 | QuestMania | 79305 | [79305-questmania.json](./79305-questmania.json) |
+| Questor's Quest | 59693 | [59693-questors-quest.json](./59693-questors-quest.json) |
 | Questscape | 294145 | [294145-questscape.json](./294145-questscape.json) |
 | Quetzal | 299302 | [299302-quetzal.json](./299302-quetzal.json) |
 | Queue | 180255 | [180255-queue.json](./180255-queue.json) |
