@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A2 Racer III: Europa Tour | 44841 | [44841-a2-racer-iii-europa-tour.json](./44841-a2-racer-iii-europa-tour.json) |
 | AAA Clock: Extreme Premium | 304762 | [304762-aaa-clock-extreme-premium.json](./304762-aaa-clock-extreme-premium.json) |
 | Aaaaaaaaaaaaaaaaaaaaaaaa!!! Remastered | 219696 | [219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json](./219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json) |
+| AaaaaAAaaaAAAaaAAAAaAAAAA!!!: Force = Mass x Acceleration | 39233 | [39233-aaaaaaaaaaaaaaaaaaaaaaaaa-force-mass-x-acceleration.json](./39233-aaaaaaaaaaaaaaaaaaaaaaaaa-force-mass-x-acceleration.json) |
 | Aaahh!!! Real Monsters | 5339 | [5339-aaahh-real-monsters.json](./5339-aaahh-real-monsters.json) |
 | Aabahran: The Forsaken Lands | 229139 | [229139-aabahran-the-forsaken-lands.json](./229139-aabahran-the-forsaken-lands.json) |
 | Aaero + Aaero2 Bundle | 331448 | [331448-aaero-aaero2-bundle.json](./331448-aaero-aaero2-bundle.json) |
@@ -5277,6 +5278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayakashi Koi Gikyoku -Forbidden Romance with Mysterious Spirit- | 106974 | [106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json](./106974-ayakashi-koi-gikyoku-forbidden-romance-with-mysterious-spirit.json) |
 | Ayakashi Rumble | 208034 | [208034-ayakashi-rumble.json](./208034-ayakashi-rumble.json) |
+| Ayakashi: Ghost Guild | 39179 | [39179-ayakashi-ghost-guild.json](./39179-ayakashi-ghost-guild.json) |
 | Ayakashi: Romance Reborn Dawn Chapter & Twilight Chapter | 147817 | [147817-ayakashi-romance-reborn-dawn-chapter-and-twilight-chapter.json](./147817-ayakashi-romance-reborn-dawn-chapter-and-twilight-chapter.json) |
 | Ayakashibito: Genyou Ibunroku | 56521 | [56521-ayakashibito-genyou-ibunroku.json](./56521-ayakashibito-genyou-ibunroku.json) |
 | Ayame no Machi to Ohime-sama | 194546 | [194546-ayame-no-machi-to-ohime-sama.json](./194546-ayame-no-machi-to-ohime-sama.json) |
