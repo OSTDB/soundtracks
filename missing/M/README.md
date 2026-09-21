@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Arcade GP VR | 48711 | [48711-mario-kart-arcade-gp-vr.json](./48711-mario-kart-arcade-gp-vr.json) |
 | Mario Kart DS: GameCube Grand Prix | 313347 | [313347-mario-kart-ds-gamecube-grand-prix.json](./313347-mario-kart-ds-gamecube-grand-prix.json) |
 | Mario Kart PC | 294712 | [294712-mario-kart-pc.json](./294712-mario-kart-pc.json) |
+| Mario Kart R | 42204 | [42204-mario-kart-r.json](./42204-mario-kart-r.json) |
 | Mario Kart RiiBalanced | 202370 | [202370-mario-kart-riibalanced.json](./202370-mario-kart-riibalanced.json) |
 | Mario Kart SX | 198448 | [198448-mario-kart-sx.json](./198448-mario-kart-sx.json) |
 | Mario Kart Tour | 85663 | [85663-mario-kart-tour.json](./85663-mario-kart-tour.json) |
@@ -3205,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: HD | 310611 | [310611-metroid-hd.json](./310611-metroid-hd.json) |
 | Metroid: Rechoose | 318019 | [318019-metroid-rechoose.json](./318019-metroid-rechoose.json) |
 | Metroid: Samus Returns | 37140 | [37140-metroid-samus-returns.json](./37140-metroid-samus-returns.json) |
+| Metroid: Super Zero Mission | 42205 | [42205-metroid-super-zero-mission.json](./42205-metroid-super-zero-mission.json) |
 | Metroid: Takeover | 255384 | [255384-metroid-takeover.json](./255384-metroid-takeover.json) |
 | Metroidvania Bundle | 268482 | [268482-metroidvania-bundle.json](./268482-metroidvania-bundle.json) |
 | Metroland | 201688 | [201688-metroland.json](./201688-metroland.json) |
