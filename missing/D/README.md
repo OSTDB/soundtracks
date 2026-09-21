@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daigasso! Band Brothers P | 64394 | [64394-daigasso-band-brothers-p.json](./64394-daigasso-band-brothers-p.json) |
 | Daigasso! Band Brothers Request Selection | 69240 | [69240-daigasso-band-brothers-request-selection.json](./69240-daigasso-band-brothers-request-selection.json) |
 | Daikaiju Daikessen: Versus | 173188 | [173188-daikaiju-daikessen-versus.json](./173188-daikaiju-daikessen-versus.json) |
+| Daikaijuu Deburas | 48313 | [48313-daikaijuu-deburas.json](./48313-daikaijuu-deburas.json) |
 | Daikon Set | 55911 | [55911-daikon-set.json](./55911-daikon-set.json) |
 | Daikoukai Jidai III: Costa del Sol | 186736 | [186736-daikoukai-jidai-iii-costa-del-sol.json](./186736-daikoukai-jidai-iii-costa-del-sol.json) |
 | Daikoukai Jidai IV: Porto Estado - Power Up Kit | 351127 | [351127-daikoukai-jidai-iv-porto-estado-power-up-kit.json](./351127-daikoukai-jidai-iv-porto-estado-power-up-kit.json) |
