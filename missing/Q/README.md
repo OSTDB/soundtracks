@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarter Five | 355561 | [355561-quarter-five.json](./355561-quarter-five.json) |
 | Quarter Monkey | 233759 | [233759-quarter-monkey.json](./233759-quarter-monkey.json) |
 | Quarter Past Curse | 185548 | [185548-quarter-past-curse.json](./185548-quarter-past-curse.json) |
+| Quarterback | 46853 | [46853-quarterback.json](./46853-quarterback.json) |
 | Quartermaster | 368478 | [368478-quartermaster.json](./368478-quartermaster.json) |
 | Quartermaster General | 110295 | [110295-quartermaster-general.json](./110295-quartermaster-general.json) |
 | Quarterstaff | 70924 | [70924-quarterstaff.json](./70924-quarterstaff.json) |
@@ -287,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuestBall | 245019 | [245019-questball.json](./245019-questball.json) |
 | Questboard | 333914 | [333914-questboard.json](./333914-questboard.json) |
 | Quester | 197387 | [197387-quester.json](./197387-quester.json) |
+| Quester | 46852 | [46852-quester.json](./46852-quester.json) |
 | Questinarium | 393467 | [393467-questinarium.json](./393467-questinarium.json) |
 | Question Mark | 388254 | [388254-question-mark.json](./388254-question-mark.json) |
 | QuestionBank | 341316 | [341316-questionbank.json](./341316-questionbank.json) |
