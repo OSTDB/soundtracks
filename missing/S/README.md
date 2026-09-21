@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & MaRU | 158079 | [158079-sam-and-maru.json](./158079-sam-and-maru.json) |
 | Sam & Max Plunge Through Space | 131364 | [131364-sam-and-max-plunge-through-space.json](./131364-sam-and-max-plunge-through-space.json) |
 | Sam & Max Save the World + Beyond Time and Space Bundle | 219053 | [219053-sam-and-max-save-the-world-beyond-time-and-space-bundle.json](./219053-sam-and-max-save-the-world-beyond-time-and-space-bundle.json) |
+| Sam & Max: Beyond Time and Space | 854 | [854-sam-and-max-beyond-time-and-space.json](./854-sam-and-max-beyond-time-and-space.json) |
 | Sam & Max: Beyond Time and Space - Episode 1: Ice Station Santa | 27835 | [27835-sam-and-max-beyond-time-and-space-episode-1-ice-station-santa.json](./27835-sam-and-max-beyond-time-and-space-episode-1-ice-station-santa.json) |
 | Sam & Max: Beyond Time and Space - Episode 2: Moai Better Blues | 27836 | [27836-sam-and-max-beyond-time-and-space-episode-2-moai-better-blues.json](./27836-sam-and-max-beyond-time-and-space-episode-2-moai-better-blues.json) |
 | Sam & Max: Beyond Time and Space - Episode 3: Night of the Raving Dead | 27837 | [27837-sam-and-max-beyond-time-and-space-episode-3-night-of-the-raving-dead.json](./27837-sam-and-max-beyond-time-and-space-episode-3-night-of-the-raving-dead.json) |
@@ -1105,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Score a goal (Physical football) | 29951 | [29951-score-a-goal-physical-football.json](./29951-score-a-goal-physical-football.json) |
 | Score International Baja 1000 | 7446 | [7446-score-international-baja-1000.json](./7446-score-international-baja-1000.json) |
 | Score Rush Extended | 19854 | [19854-score-rush-extended.json](./19854-score-rush-extended.json) |
+| Score! Hero | 15851 | [15851-score-hero.json](./15851-score-hero.json) |
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
 | Scorpion | 22729 | [22729-scorpion.json](./22729-scorpion.json) |
 | Scorpion Garrison | 280227 | [280227-scorpion-garrison.json](./280227-scorpion-garrison.json) |
@@ -2473,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shankala | 377045 | [377045-shankala.json](./377045-shankala.json) |
 | Shantae Advance: Risky Revolution | 276506 | [276506-shantae-advance-risky-revolution.json](./276506-shantae-advance-risky-revolution.json) |
 | Shantae and the Pirate's Curse: Collector's Edition | 136272 | [136272-shantae-and-the-pirates-curse-collectors-edition.json](./136272-shantae-and-the-pirates-curse-collectors-edition.json) |
+| Shantae and the Seven Sirens | 116589 | [116589-shantae-and-the-seven-sirens.json](./116589-shantae-and-the-seven-sirens.json) |
 | Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
 | Shantae: Costume Pack | 275016 | [275016-shantae-costume-pack.json](./275016-shantae-costume-pack.json) |
 | Shantae: Half-Genie Hero - Ultimate Day One Edition | 136277 | [136277-shantae-half-genie-hero-ultimate-day-one-edition.json](./136277-shantae-half-genie-hero-ultimate-day-one-edition.json) |
@@ -5294,6 +5297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer | 346058 | [346058-soccer.json](./346058-soccer.json) |
 | Soccer | 346099 | [346099-soccer.json](./346099-soccer.json) |
 | Soccer | 72370 | [72370-soccer.json](./72370-soccer.json) |
+| Soccer | 86375 | [86375-soccer.json](./86375-soccer.json) |
 | Soccer - Ultimate Team | 104472 | [104472-soccer-ultimate-team.json](./104472-soccer-ultimate-team.json) |
 | Soccer 2 | 245405 | [245405-soccer-2.json](./245405-soccer-2.json) |
 | Soccer 86 | 98233 | [98233-soccer-86.json](./98233-soccer-86.json) |
@@ -7264,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man & Friends: Secret Missions | 73001 | [73001-spider-man-and-friends-secret-missions.json](./73001-spider-man-and-friends-secret-missions.json) |
 | Spider-Man 2 | 200980 | [200980-spider-man-2.json](./200980-spider-man-2.json) |
 | Spider-Man 2 Pinball | 224659 | [224659-spider-man-2-pinball.json](./224659-spider-man-2-pinball.json) |
+| Spider-Man 2: The Game | 149275 | [149275-spider-man-2-the-game.json](./149275-spider-man-2-the-game.json) |
 | Spider-Man 2: The Sinister Six | 49971 | [49971-spider-man-2-the-sinister-six.json](./49971-spider-man-2-the-sinister-six.json) |
 | Spider-Man 2: The Snap Game | 224660 | [224660-spider-man-2-the-snap-game.json](./224660-spider-man-2-the-snap-game.json) |
 | Spider-Man 3 | 218140 | [218140-spider-man-3.json](./218140-spider-man-3.json) |
@@ -7751,6 +7756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro 2: Ripto's Rage! | 1577 | [1577-spyro-2-riptos-rage.json](./1577-spyro-2-riptos-rage.json) |
 | Spyro 2: Season of Flame | 1588 | [1588-spyro-2-season-of-flame.json](./1588-spyro-2-season-of-flame.json) |
 | Spyro Superpack | 130303 | [130303-spyro-superpack.json](./130303-spyro-superpack.json) |
+| Spyro the Dragon | 142213 | [142213-spyro-the-dragon.json](./142213-spyro-the-dragon.json) |
 | Spyro the Dragon | 280768 | [280768-spyro-the-dragon.json](./280768-spyro-the-dragon.json) |
 | Spyro the Dragon | 290718 | [290718-spyro-the-dragon.json](./290718-spyro-the-dragon.json) |
 | Spyro the Dragon 8 | 253357 | [253357-spyro-the-dragon-8.json](./253357-spyro-the-dragon-8.json) |
@@ -8306,6 +8312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Clone Wars | 3760 | [3760-star-wars-the-clone-wars.json](./3760-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 78357 | [78357-star-wars-the-clone-wars.json](./78357-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars - Path of the Jedi | 343373 | [343373-star-wars-the-clone-wars-path-of-the-jedi.json](./343373-star-wars-the-clone-wars-path-of-the-jedi.json) |
+| Star Wars: The Clone Wars - Republic Heroes | 210 | [210-star-wars-the-clone-wars-republic-heroes.json](./210-star-wars-the-clone-wars-republic-heroes.json) |
 | Star Wars: The Empire Strikes Back | 12732 | [12732-star-wars-the-empire-strikes-back.json](./12732-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Empire Strikes Back | 219021 | [219021-star-wars-the-empire-strikes-back.json](./219021-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Force Unleashed | 197926 | [197926-star-wars-the-force-unleashed.json](./197926-star-wars-the-force-unleashed.json) |
@@ -8661,6 +8668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StartPlay | 339669 | [339669-startplay.json](./339669-startplay.json) |
 | StarTrash | 68347 | [68347-startrash.json](./68347-startrash.json) |
 | Startron | 333022 | [333022-startron.json](./333022-startron.json) |
+| StarTropics | 15901 | [15901-startropics.json](./15901-startropics.json) |
 | Startup Freak | 74369 | [74369-startup-freak.json](./74369-startup-freak.json) |
 | Starva Saga | 391184 | [391184-starva-saga.json](./391184-starva-saga.json) |
 | Starvania: Tales Of The Past | 372498 | [372498-starvania-tales-of-the-past.json](./372498-starvania-tales-of-the-past.json) |
