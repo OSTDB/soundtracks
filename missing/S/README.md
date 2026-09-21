@@ -9178,6 +9178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormy Castle | 330847 | [330847-stormy-castle.json](./330847-stormy-castle.json) |
 | Story About Times | 113009 | [113009-story-about-times.json](./113009-story-about-times.json) |
 | Story City | 228518 | [228518-story-city.json](./228518-story-city.json) |
+| Story Hour: Fairy Tales | 9756 | [9756-story-hour-fairy-tales.json](./9756-story-hour-fairy-tales.json) |
 | Story Machine | 95450 | [95450-story-machine.json](./95450-story-machine.json) |
 | Story Maker | 66615 | [66615-story-maker.json](./66615-story-maker.json) |
 | Story of a Gladiator | 125747 | [125747-story-of-a-gladiator.json](./125747-story-of-a-gladiator.json) |
