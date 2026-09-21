@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing a Superstar | 160228 | [160228-killing-a-superstar.json](./160228-killing-a-superstar.json) |
 | Killing Baby Hitler | 399088 | [399088-killing-baby-hitler.json](./399088-killing-baby-hitler.json) |
 | Killing Bites | 59412 | [59412-killing-bites.json](./59412-killing-bites.json) |
+| Killing Floor | 2949 | [2949-killing-floor.json](./2949-killing-floor.json) |
 | Killing Floor 2: Deluxe Edition | 53242 | [53242-killing-floor-2-deluxe-edition.json](./53242-killing-floor-2-deluxe-edition.json) |
 | Killing Floor 2: Digital Deluxe Edition | 53241 | [53241-killing-floor-2-digital-deluxe-edition.json](./53241-killing-floor-2-digital-deluxe-edition.json) |
 | Killing Floor III: Operation Breakout | 380411 | [380411-killing-floor-iii-operation-breakout.json](./380411-killing-floor-iii-operation-breakout.json) |
@@ -889,7 +890,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killover | 361815 | [361815-killover.json](./361815-killover.json) |
 | Killpaku! | 321380 | [321380-killpaku.json](./321380-killpaku.json) |
 | Killzone | 1865 | [1865-killzone.json](./1865-killzone.json) |
+| Killzone 2 | 1866 | [1866-killzone-2.json](./1866-killzone-2.json) |
 | Killzone: Liberation - Chapter 5 DLC | 243224 | [243224-killzone-liberation-chapter-5-dlc.json](./243224-killzone-liberation-chapter-5-dlc.json) |
+| Killzone: Shadow Fall | 1937 | [1937-killzone-shadow-fall.json](./1937-killzone-shadow-fall.json) |
 | Killzone: Special Limited Edition | 43261 | [43261-killzone-special-limited-edition.json](./43261-killzone-special-limited-edition.json) |
 | Kiln: Cats & Dogs Decoration Pack | 407414 | [407414-kiln-cats-and-dogs-decoration-pack.json](./407414-kiln-cats-and-dogs-decoration-pack.json) |
 | Kiln: Pride Decoration Pack | 407415 | [407415-kiln-pride-decoration-pack.json](./407415-kiln-pride-decoration-pack.json) |
