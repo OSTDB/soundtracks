@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macaroni Houren-sou Interactive | 234183 | [234183-macaroni-houren-sou-interactive.json](./234183-macaroni-houren-sou-interactive.json) |
 | Macaroni in a Pot | 299156 | [299156-macaroni-in-a-pot.json](./299156-macaroni-in-a-pot.json) |
 | MacArthur's War: Battles for Korea | 62152 | [62152-macarthurs-war-battles-for-korea.json](./62152-macarthurs-war-battles-for-korea.json) |
+| Macbeth | 25915 | [25915-macbeth.json](./25915-macbeth.json) |
 | MacBlaster | 93358 | [93358-macblaster.json](./93358-macblaster.json) |
 | Mace Knight | 391572 | [391572-mace-knight.json](./391572-mace-knight.json) |
 | Mace: The Dark Age | 3535 | [3535-mace-the-dark-age.json](./3535-mace-the-dark-age.json) |
@@ -1129,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mardek RPG: Chapter 1 | 62756 | [62756-mardek-rpg-chapter-1.json](./62756-mardek-rpg-chapter-1.json) |
 | Mardek RPG: Chapter 2 | 62729 | [62729-mardek-rpg-chapter-2.json](./62729-mardek-rpg-chapter-2.json) |
 | Mare | 177407 | [177407-mare.json](./177407-mare.json) |
+| Mare | 25933 | [25933-mare.json](./25933-mare.json) |
 | Mare Nostrvm | 137077 | [137077-mare-nostrvm.json](./137077-mare-nostrvm.json) |
 | Marginal Break | 236260 | [236260-marginal-break.json](./236260-marginal-break.json) |
 | Margo: The Bean Adventure | 174305 | [174305-margo-the-bean-adventure.json](./174305-margo-the-bean-adventure.json) |
@@ -1973,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxo Scringle's "Human Rocket" Mini-Type Rocket Golf | 402367 | [402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json](./402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json) |
 | MaxRacer | 143670 | [143670-maxracer.json](./143670-maxracer.json) |
 | MaxSwitch | 220214 | [220214-maxswitch.json](./220214-maxswitch.json) |
+| Maxwell Manor | 25979 | [25979-maxwell-manor.json](./25979-maxwell-manor.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
 | May Club | 73791 | [73791-may-club.json](./73791-may-club.json) |
@@ -3760,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mincer City | 270693 | [270693-mincer-city.json](./270693-mincer-city.json) |
 | Mind At Sea | 149958 | [149958-mind-at-sea.json](./149958-mind-at-sea.json) |
 | Mind Blox | 44203 | [44203-mind-blox.json](./44203-mind-blox.json) |
+| Mind Control | 25965 | [25965-mind-control.json](./25965-mind-control.json) |
 | Mind Control: Bloody Renaissance | 253910 | [253910-mind-control-bloody-renaissance.json](./253910-mind-control-bloody-renaissance.json) |
 | Mind Detective Psychology Test | 409539 | [409539-mind-detective-psychology-test.json](./409539-mind-detective-psychology-test.json) |
 | Mind Diver | 236519 | [236519-mind-diver.json](./236519-mind-diver.json) |
