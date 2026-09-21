@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D3ad Hand | 315098 | [315098-d3ad-hand.json](./315098-d3ad-hand.json) |
 | D3d Inside | 126659 | [126659-d3d-inside.json](./126659-d3d-inside.json) |
 | D3L3T3.exe | 264331 | [264331-d3l3t3-exe.json](./264331-d3l3t3-exe.json) |
+| Da Box | 59672 | [59672-da-box.json](./59672-da-box.json) |
 | Dà Fùwēng | 125469 | [125469-da-fuweng.json](./125469-da-fuweng.json) |
 | Da Paper Boy | 259017 | [259017-da-paper-boy.json](./259017-da-paper-boy.json) |
 | Dà Sānguó Shídài | 347226 | [347226-da-sanguo-shidai.json](./347226-da-sanguo-shidai.json) |
@@ -920,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days Gone By | 127102 | [127102-days-gone-by.json](./127102-days-gone-by.json) |
 | Days Gone: Special Edition | 117508 | [117508-days-gone-special-edition.json](./117508-days-gone-special-edition.json) |
 | Days Like A Nightmare | 285451 | [285451-days-like-a-nightmare.json](./285451-days-like-a-nightmare.json) |
+| Days of Discord | 59654 | [59654-days-of-discord.json](./59654-days-of-discord.json) |
 | Days Of My Life | 270190 | [270190-days-of-my-life.json](./270190-days-of-my-life.json) |
 | Days of Oblivion | 69805 | [69805-days-of-oblivion.json](./69805-days-of-oblivion.json) |
 | Days of Reckoning: Last Battle | 402898 | [402898-days-of-reckoning-last-battle.json](./402898-days-of-reckoning-last-battle.json) |
