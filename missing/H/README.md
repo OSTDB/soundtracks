@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawthorn | 319345 | [319345-hawthorn.json](./319345-hawthorn.json) |
 | Haxware Comgam | 219816 | [219816-haxware-comgam.json](./219816-haxware-comgam.json) |
 | Hay Day Pop | 165527 | [165527-hay-day-pop.json](./165527-hay-day-pop.json) |
+| Hay Ewe | 22736 | [22736-hay-ewe.json](./22736-hay-ewe.json) |
 | Hayai | 200715 | [200715-hayai.json](./200715-hayai.json) |
 | Hayama Reiko no Date de Blackjack | 41349 | [41349-hayama-reiko-no-date-de-blackjack.json](./41349-hayama-reiko-no-date-de-blackjack.json) |
 | Hayami-Chan | 199033 | [199033-hayami-chan.json](./199033-hayami-chan.json) |
