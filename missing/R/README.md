@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman 4 | 193361 | [193361-rayman-4.json](./193361-rayman-4.json) |
 | Rayman 4 You | 178599 | [178599-rayman-4-you.json](./178599-rayman-4-you.json) |
 | Rayman 60 Levels | 193336 | [193336-rayman-60-levels.json](./193336-rayman-60-levels.json) |
+| Rayman Activity Center | 61353 | [61353-rayman-activity-center.json](./61353-rayman-activity-center.json) |
 | Rayman Adventures | 193360 | [193360-rayman-adventures.json](./193360-rayman-adventures.json) |
 | Rayman Adventures | 20032 | [20032-rayman-adventures.json](./20032-rayman-adventures.json) |
 | Rayman and Rabbids Family Pack | 56449 | [56449-rayman-and-rabbids-family-pack.json](./56449-rayman-and-rabbids-family-pack.json) |
@@ -782,12 +783,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Collector | 193335 | [193335-rayman-collector.json](./193335-rayman-collector.json) |
 | Rayman Collectors Edition | 193341 | [193341-rayman-collectors-edition.json](./193341-rayman-collectors-edition.json) |
 | Rayman Compilation | 193339 | [193339-rayman-compilation.json](./193339-rayman-compilation.json) |
+| Rayman Designer | 61351 | [61351-rayman-designer.json](./61351-rayman-designer.json) |
 | Rayman Funpack | 193340 | [193340-rayman-funpack.json](./193340-rayman-funpack.json) |
 | Rayman Garden | 61095 | [61095-rayman-garden.json](./61095-rayman-garden.json) |
 | Rayman Gold | 61096 | [61096-rayman-gold.json](./61096-rayman-gold.json) |
 | Rayman Golf | 61094 | [61094-rayman-golf.json](./61094-rayman-golf.json) |
 | Rayman IV | 312033 | [312033-rayman-iv.json](./312033-rayman-iv.json) |
 | Rayman Kart | 61091 | [61091-rayman-kart.json](./61091-rayman-kart.json) |
+| Rayman Legends Beatbox | 61350 | [61350-rayman-legends-beatbox.json](./61350-rayman-legends-beatbox.json) |
 | Rayman Legends Challenges App | 2925 | [2925-rayman-legends-challenges-app.json](./2925-rayman-legends-challenges-app.json) |
 | Rayman Mini | 122560 | [122560-rayman-mini.json](./122560-rayman-mini.json) |
 | Rayman Origins | 288944 | [288944-rayman-origins.json](./288944-rayman-origins.json) |
