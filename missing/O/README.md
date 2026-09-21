@@ -1323,8 +1323,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs Coming TD | 230913 | [230913-orcs-coming-td.json](./230913-orcs-coming-td.json) |
 | Orcs Must Die! | 2355 | [2355-orcs-must-die.json](./2355-orcs-must-die.json) |
 | Orcs Must Die! 2 | 8372 | [8372-orcs-must-die-2.json](./8372-orcs-must-die-2.json) |
+| Orcs Must Die! 2: Are We There Yeti? | 14537 | [14537-orcs-must-die-2-are-we-there-yeti.json](./14537-orcs-must-die-2-are-we-there-yeti.json) |
+| Orcs Must Die! 2: Family Ties Booster Pack | 14538 | [14538-orcs-must-die-2-family-ties-booster-pack.json](./14538-orcs-must-die-2-family-ties-booster-pack.json) |
 | Orcs Must Die! 3 Bundle | 196681 | [196681-orcs-must-die-3-bundle.json](./196681-orcs-must-die-3-bundle.json) |
 | Orcs Must Die! Unchained | 9637 | [9637-orcs-must-die-unchained.json](./9637-orcs-must-die-unchained.json) |
+| Orcs Must Die!: Artifacts of Power | 14540 | [14540-orcs-must-die-artifacts-of-power.json](./14540-orcs-must-die-artifacts-of-power.json) |
+| Orcs Must Die!: Lost Adventures | 14541 | [14541-orcs-must-die-lost-adventures.json](./14541-orcs-must-die-lost-adventures.json) |
 | Ordeeer! | 181347 | [181347-ordeeer.json](./181347-ordeeer.json) |
 | Orden des Drachen | 314294 | [314294-orden-des-drachen.json](./314294-orden-des-drachen.json) |
 | Order 13 VR | 402889 | [402889-order-13-vr.json](./402889-order-13-vr.json) |
@@ -1731,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Factory | 279106 | [279106-outer-factory.json](./279106-outer-factory.json) |
 | Outer Outage | 265964 | [265964-outer-outage.json](./265964-outer-outage.json) |
 | Outer Rat | 143020 | [143020-outer-rat.json](./143020-outer-rat.json) |
+| Outer Ridge | 14506 | [14506-outer-ridge.json](./14506-outer-ridge.json) |
 | Outer Rim: Survivor | 95191 | [95191-outer-rim-survivor.json](./95191-outer-rim-survivor.json) |
 | Outer Terror | 206226 | [206226-outer-terror.json](./206226-outer-terror.json) |
 | Outer Wards: Proving Grounds | 260234 | [260234-outer-wards-proving-grounds.json](./260234-outer-wards-proving-grounds.json) |
