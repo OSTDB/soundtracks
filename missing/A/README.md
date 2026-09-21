@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
 | Against the Storm: Keepers of the Stone | 315116 | [315116-against-the-storm-keepers-of-the-stone.json](./315116-against-the-storm-keepers-of-the-stone.json) |
 | Against the Storm: Nightwatchers | 356650 | [356650-against-the-storm-nightwatchers.json](./356650-against-the-storm-nightwatchers.json) |
+| Against the Wall | 63004 | [63004-against-the-wall.json](./63004-against-the-wall.json) |
 | Against Twilight | 349927 | [349927-against-twilight.json](./349927-against-twilight.json) |
 | Agame | 269042 | [269042-agame.json](./269042-agame.json) |
 | Agarest Senki Mariage: Limited Edition | 64119 | [64119-agarest-senki-mariage-limited-edition.json](./64119-agarest-senki-mariage-limited-edition.json) |
@@ -3287,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Araka: JK Exorcist Horror RPG | 235870 | [235870-araka-jk-exorcist-horror-rpg.json](./235870-araka-jk-exorcist-horror-rpg.json) |
 | Arali | 203881 | [203881-arali.json](./203881-arali.json) |
 | Aralon: Sword and Shadow | 38985 | [38985-aralon-sword-and-shadow.json](./38985-aralon-sword-and-shadow.json) |
+| Aranock Online | 62986 | [62986-aranock-online.json](./62986-aranock-online.json) |
 | Aranuri: Badachingudeulkkwa hamkke Mandeuneun Sesang | 269648 | [269648-aranuri-badachingudeulkkwa-hamkke-mandeuneun-sesang.json](./269648-aranuri-badachingudeulkkwa-hamkke-mandeuneun-sesang.json) |
 | Arashi Gaiden | 307254 | [307254-arashi-gaiden.json](./307254-arashi-gaiden.json) |
 | Arashi no Yoru ni | 269645 | [269645-arashi-no-yoru-ni.json](./269645-arashi-no-yoru-ni.json) |
