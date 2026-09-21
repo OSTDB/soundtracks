@@ -3429,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dj 8 Beats: Infinite | 303480 | [303480-dj-8-beats-infinite.json](./303480-dj-8-beats-infinite.json) |
 | DJ Beats: Waifus | 186237 | [186237-dj-beats-waifus.json](./186237-dj-beats-waifus.json) |
 | DJ Life | 67978 | [67978-dj-life.json](./67978-dj-life.json) |
+| DJ Max Fever | 42892 | [42892-dj-max-fever.json](./42892-dj-max-fever.json) |
 | DJ Mix Tour | 68028 | [68028-dj-mix-tour.json](./68028-dj-mix-tour.json) |
 | DJ Puff | 13596 | [13596-dj-puff.json](./13596-dj-puff.json) |
 | DJ Puff's Volcanic Capers | 47215 | [47215-dj-puffs-volcanic-capers.json](./47215-dj-puffs-volcanic-capers.json) |
@@ -4049,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Escape | 338011 | [338011-doodle-escape.json](./338011-doodle-escape.json) |
 | Doodle Factory | 295801 | [295801-doodle-factory.json](./295801-doodle-factory.json) |
 | Doodle Farm: Breeds and Beasts | 375303 | [375303-doodle-farm-breeds-and-beasts.json](./375303-doodle-farm-breeds-and-beasts.json) |
+| Doodle Fit | 42828 | [42828-doodle-fit.json](./42828-doodle-fit.json) |
 | Doodle Games Bundle | 147800 | [147800-doodle-games-bundle.json](./147800-doodle-games-bundle.json) |
 | Doodle God | 18528 | [18528-doodle-god.json](./18528-doodle-god.json) |
 | Doodle God Blitz | 68341 | [68341-doodle-god-blitz.json](./68341-doodle-god-blitz.json) |
@@ -4485,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula: Crazy Vampire | 49941 | [49941-dracula-crazy-vampire.json](./49941-dracula-crazy-vampire.json) |
 | Dracula: Origin 2 | 95433 | [95433-dracula-origin-2.json](./95433-dracula-origin-2.json) |
 | Dracula: Restless Legs Syndrome | 411611 | [411611-dracula-restless-legs-syndrome.json](./411611-dracula-restless-legs-syndrome.json) |
+| Dracula: Undead Awakening | 42858 | [42858-dracula-undead-awakening.json](./42858-dracula-undead-awakening.json) |
 | Dracula: Vampires vs. Zombies | 43169 | [43169-dracula-vampires-vs-zombies.json](./43169-dracula-vampires-vs-zombies.json) |
 | Dracula's Library | 43142 | [43142-draculas-library.json](./43142-draculas-library.json) |
 | Dracula's Secret | 73228 | [73228-draculas-secret.json](./73228-draculas-secret.json) |
@@ -5403,6 +5406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DTXMania GR | 123016 | [123016-dtxmania-gr.json](./123016-dtxmania-gr.json) |
 | DTXMania2 | 123017 | [123017-dtxmania2.json](./123017-dtxmania2.json) |
 | DTXPlayer | 130948 | [130948-dtxplayer.json](./130948-dtxplayer.json) |
+| Duael Invaders | 42827 | [42827-duael-invaders.json](./42827-duael-invaders.json) |
 | Dual Brain: Complete Edition | 196178 | [196178-dual-brain-complete-edition.json](./196178-dual-brain-complete-edition.json) |
 | Dual Bus Simulator | 269028 | [269028-dual-bus-simulator.json](./269028-dual-bus-simulator.json) |
 | Dual Chroma: Far Shore | 196699 | [196699-dual-chroma-far-shore.json](./196699-dual-chroma-far-shore.json) |
@@ -5671,6 +5675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Escapist | 80905 | [80905-dungeon-escapist.json](./80905-dungeon-escapist.json) |
 | Dungeon Explorer | 193425 | [193425-dungeon-explorer.json](./193425-dungeon-explorer.json) |
 | Dungeon Explorer II | 42022 | [42022-dungeon-explorer-ii.json](./42022-dungeon-explorer-ii.json) |
+| Dungeon Explorer: Warriors of Ancient Arts | 42865 | [42865-dungeon-explorer-warriors-of-ancient-arts.json](./42865-dungeon-explorer-warriors-of-ancient-arts.json) |
 | Dungeon Explorer: Warriors of the Ancient Arts | 20274 | [20274-dungeon-explorer-warriors-of-the-ancient-arts.json](./20274-dungeon-explorer-warriors-of-the-ancient-arts.json) |
 | Dungeon Full Dive: True Supporter Dice | 305780 | [305780-dungeon-full-dive-true-supporter-dice.json](./305780-dungeon-full-dive-true-supporter-dice.json) |
 | Dungeon Gambit Boy | 89666 | [89666-dungeon-gambit-boy.json](./89666-dungeon-gambit-boy.json) |
@@ -6028,10 +6033,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 9: Zhou Yu Additional Hypothetical Scenarios Set | 225909 | [225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json](./225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json) |
 | Dynasty Warriors Online | 72612 | [72612-dynasty-warriors-online.json](./72612-dynasty-warriors-online.json) |
 | Dynasty Warriors Online Z | 257658 | [257658-dynasty-warriors-online-z.json](./257658-dynasty-warriors-online-z.json) |
+| Dynasty Warriors Vol. 2 | 42886 | [42886-dynasty-warriors-vol-2.json](./42886-dynasty-warriors-vol-2.json) |
 | Dynasty Warriors: God Seekers | 44537 | [44537-dynasty-warriors-god-seekers.json](./44537-dynasty-warriors-god-seekers.json) |
 | Dynasty Warriors: Gundam | 6977 | [6977-dynasty-warriors-gundam.json](./6977-dynasty-warriors-gundam.json) |
 | Dynasty Wars | 12060 | [12060-dynasty-wars.json](./12060-dynasty-wars.json) |
 | Dynasty's Defender: The Scroll's Curse | 312745 | [312745-dynastys-defender-the-scrolls-curse.json](./312745-dynastys-defender-the-scrolls-curse.json) |
+| Dynogems | 42826 | [42826-dynogems.json](./42826-dynogems.json) |
 | Dynowarz: Destruction of Spondylus | 48029 | [48029-dynowarz-destruction-of-spondylus.json](./48029-dynowarz-destruction-of-spondylus.json) |
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
