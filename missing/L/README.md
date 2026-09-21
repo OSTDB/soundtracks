@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Half of Darkness: Shadows of the Servants | 59956 | [59956-last-half-of-darkness-shadows-of-the-servants.json](./59956-last-half-of-darkness-shadows-of-the-servants.json) |
 | Last Harvest | 138779 | [138779-last-harvest.json](./138779-last-harvest.json) |
 | Last Helion | 317863 | [317863-last-helion.json](./317863-last-helion.json) |
+| Last Heroes 4 | 29167 | [29167-last-heroes-4.json](./29167-last-heroes-4.json) |
 | Last Hit Titan | 337476 | [337476-last-hit-titan.json](./337476-last-hit-titan.json) |
 | Last Holiday | 224568 | [224568-last-holiday.json](./224568-last-holiday.json) |
 | Last Home: Battle of Island | 124186 | [124186-last-home-battle-of-island.json](./124186-last-home-battle-of-island.json) |
