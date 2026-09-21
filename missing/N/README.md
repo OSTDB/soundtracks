@@ -921,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neonoen | 120782 | [120782-neonoen.json](./120782-neonoen.json) |
 | Neonsomnia | 257087 | [257087-neonsomnia.json](./257087-neonsomnia.json) |
 | NeonTunnel | 176365 | [176365-neontunnel.json](./176365-neontunnel.json) |
+| Neopets Browser | 131370 | [131370-neopets-browser.json](./131370-neopets-browser.json) |
 | Neopets Petpet Adventures: The Wand of Wishing | 78340 | [78340-neopets-petpet-adventures-the-wand-of-wishing.json](./78340-neopets-petpet-adventures-the-wand-of-wishing.json) |
 | Neopets: Codestone Quest | 210104 | [210104-neopets-codestone-quest.json](./210104-neopets-codestone-quest.json) |
 | Neopets: Island Builders | 254592 | [254592-neopets-island-builders.json](./254592-neopets-island-builders.json) |
@@ -1306,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ngolf: Platinum Edition | 317247 | [317247-ngolf-platinum-edition.json](./317247-ngolf-platinum-edition.json) |
 | Ngolf: Premium Edition | 308791 | [308791-ngolf-premium-edition.json](./308791-ngolf-premium-edition.json) |
 | NGT: Next Generation Tennis | 49320 | [49320-ngt-next-generation-tennis.json](./49320-ngt-next-generation-tennis.json) |
+| NGU Idle | 124926 | [124926-ngu-idle.json](./124926-ngu-idle.json) |
 | Nhero2 | 225723 | [225723-nhero2.json](./225723-nhero2.json) |
 | NHK Kouhaku Quiz Kassen | 67280 | [67280-nhk-kouhaku-quiz-kassen.json](./67280-nhk-kouhaku-quiz-kassen.json) |
 | NHL 06 | 4044 | [4044-nhl-06.json](./4044-nhl-06.json) |
@@ -1336,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Hockey 2000 | 299312 | [299312-nhl-hockey-2000.json](./299312-nhl-hockey-2000.json) |
 | NHL Rock the Rink | 44843 | [44843-nhl-rock-the-rink.json](./44843-nhl-rock-the-rink.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
+| NHLPA Hockey 93 | 42479 | [42479-nhlpa-hockey-93.json](./42479-nhlpa-hockey-93.json) |
 | NHRA Championship Drag Racing | 18269 | [18269-nhra-championship-drag-racing.json](./18269-nhra-championship-drag-racing.json) |
 | NHRA Championship Drag Racing: Speed for All - Deluxe Edition | 214728 | [214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json](./214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json) |
 | NHRA Championship Drag Racing: Speed for All - John Force Racing Pack | 263055 | [263055-nhra-championship-drag-racing-speed-for-all-john-force-racing-pack.json](./263055-nhra-championship-drag-racing-speed-for-all-john-force-racing-pack.json) |
@@ -1389,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon All-Star Brawl 2: The Elastic Waistband Costume | 315081 | [315081-nickelodeon-all-star-brawl-2-the-elastic-waistband-costume.json](./315081-nickelodeon-all-star-brawl-2-the-elastic-waistband-costume.json) |
 | Nickelodeon All-Star Brawl: Hugh Neutron | 212790 | [212790-nickelodeon-all-star-brawl-hugh-neutron.json](./212790-nickelodeon-all-star-brawl-hugh-neutron.json) |
 | Nickelodeon Director's Lab | 243145 | [243145-nickelodeon-directors-lab.json](./243145-nickelodeon-directors-lab.json) |
+| Nickelodeon Kart Racers 2: Grand Prix | 134680 | [134680-nickelodeon-kart-racers-2-grand-prix.json](./134680-nickelodeon-kart-racers-2-grand-prix.json) |
 | Nickelodeon Kart Racers 3: Slime Speedway Turbo Pack | 263234 | [263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json](./263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json) |
 | Nickelodeon Kids Bundle | 286512 | [286512-nickelodeon-kids-bundle.json](./286512-nickelodeon-kids-bundle.json) |
 | Nickelodeon Nick O Matic Design Factory | 210031 | [210031-nickelodeon-nick-o-matic-design-factory.json](./210031-nickelodeon-nick-o-matic-design-factory.json) |
@@ -1412,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nictheroy | 154031 | [154031-nictheroy.json](./154031-nictheroy.json) |
 | Nidhogg | 5551 | [5551-nidhogg.json](./5551-nidhogg.json) |
 | Nie no Hakoniwa: Dollhouse of Offerings | 268012 | [268012-nie-no-hakoniwa-dollhouse-of-offerings.json](./268012-nie-no-hakoniwa-dollhouse-of-offerings.json) |
+| NieR Re[in]carnation | 132005 | [132005-nier-re-in-carnation.json](./132005-nier-re-in-carnation.json) |
 | NieR Re[in]carnation: The People and the World | 259669 | [259669-nier-re-in-carnation-the-people-and-the-world.json](./259669-nier-re-in-carnation-the-people-and-the-world.json) |
 | NieR Re[in]carnation: The Sun and the Moon | 259657 | [259657-nier-re-in-carnation-the-sun-and-the-moon.json](./259657-nier-re-in-carnation-the-sun-and-the-moon.json) |
 | NieR Replicant ver.1.22474487139...: Lunar Tear Edition | 167139 | [167139-nier-replicant-ver-1-22474487139-lunar-tear-edition.json](./167139-nier-replicant-ver-1-22474487139-lunar-tear-edition.json) |
