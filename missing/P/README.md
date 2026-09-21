@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathologic 3: Quarantine | 326595 | [326595-pathologic-3-quarantine.json](./326595-pathologic-3-quarantine.json) |
 | Pathological | 74085 | [74085-pathological.json](./74085-pathological.json) |
 | Pathology | 79606 | [79606-pathology.json](./79606-pathology.json) |
+| PathPix | 62462 | [62462-pathpix.json](./62462-pathpix.json) |
 | PathPix Alice | 102614 | [102614-pathpix-alice.json](./102614-pathpix-alice.json) |
 | PathPix Bubble | 96533 | [96533-pathpix-bubble.json](./96533-pathpix-bubble.json) |
 | PathPix Color | 106552 | [106552-pathpix-color.json](./106552-pathpix-color.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix, Write! | 306483 | [306483-phoenix-write.json](./306483-phoenix-write.json) |
 | Phoenix! | 233641 | [233641-phoenix.json](./233641-phoenix.json) |
 | Phoenotopia | 313272 | [313272-phoenotopia.json](./313272-phoenotopia.json) |
+| Phone Story | 62455 | [62455-phone-story.json](./62455-phone-story.json) |
 | Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
 | Phonics Fun with Biff, Chip & Kipper Vol. 1 | 61657 | [61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json](./61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json) |
 | Phonics-Diagraphsgame | 96535 | [96535-phonics-diagraphsgame.json](./96535-phonics-diagraphsgame.json) |
@@ -2361,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Cannons Ahoy! | 115675 | [115675-pirate-cannons-ahoy.json](./115675-pirate-cannons-ahoy.json) |
 | Pirate Code | 62727 | [62727-pirate-code.json](./62727-pirate-code.json) |
 | Pirate Cove Simulator | 326381 | [326381-pirate-cove-simulator.json](./326381-pirate-cove-simulator.json) |
+| Pirate Dawn | 62414 | [62414-pirate-dawn.json](./62414-pirate-dawn.json) |
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
 | Pirate Escape | 323506 | [323506-pirate-escape.json](./323506-pirate-escape.json) |
 | Pirate Fishing | 200173 | [200173-pirate-fishing.json](./200173-pirate-fishing.json) |
