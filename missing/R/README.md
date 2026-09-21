@@ -1391,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: Grave Testimony - Collector's Edition | 102189 | [102189-redemption-cemetery-grave-testimony-collectors-edition.json](./102189-redemption-cemetery-grave-testimony-collectors-edition.json) |
 | Redemption Cemetery: Salvation of the Lost | 61077 | [61077-redemption-cemetery-salvation-of-the-lost.json](./61077-redemption-cemetery-salvation-of-the-lost.json) |
 | Redemption Cemetery: Terrors | 94776 | [94776-redemption-cemetery-terrors.json](./94776-redemption-cemetery-terrors.json) |
+| Redemption Cemetery: The Island of the Lost - Collector's Edition | 36493 | [36493-redemption-cemetery-the-island-of-the-lost-collectors-edition.json](./36493-redemption-cemetery-the-island-of-the-lost-collectors-edition.json) |
 | Redemption Cemetery: The Stolen Time - Collector's Edition | 201144 | [201144-redemption-cemetery-the-stolen-time-collectors-edition.json](./201144-redemption-cemetery-the-stolen-time-collectors-edition.json) |
 | Redemption of Liuyin | 333635 | [333635-redemption-of-liuyin.json](./333635-redemption-of-liuyin.json) |
 | Redemption: Eternal Quest | 34754 | [34754-redemption-eternal-quest.json](./34754-redemption-eternal-quest.json) |
@@ -1772,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem Hurts: Rainy Escape | 22405 | [22405-requiem-hurts-rainy-escape.json](./22405-requiem-hurts-rainy-escape.json) |
 | Requiem Reverie | 284898 | [284898-requiem-reverie.json](./284898-requiem-reverie.json) |
 | Requiem: Memento Mori | 80593 | [80593-requiem-memento-mori.json](./80593-requiem-memento-mori.json) |
+| Requiem: Rise of the Reaver | 36343 | [36343-requiem-rise-of-the-reaver.json](./36343-requiem-rise-of-the-reaver.json) |
 | Reroll | 104065 | [104065-reroll.json](./104065-reroll.json) |
 | ReRoll | 19700 | [19700-reroll.json](./19700-reroll.json) |
 | Reroute | 291487 | [291487-reroute.json](./291487-reroute.json) |
