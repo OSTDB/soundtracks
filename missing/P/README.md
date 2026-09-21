@@ -4300,6 +4300,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerline.io | 191257 | [191257-powerline-io.json](./191257-powerline-io.json) |
 | Powerplay | 311141 | [311141-powerplay.json](./311141-powerplay.json) |
 | Powerplay Hockey | 78947 | [78947-powerplay-hockey.json](./78947-powerplay-hockey.json) |
+| Powerpuff Girls: Gamesville | 8007 | [8007-powerpuff-girls-gamesville.json](./8007-powerpuff-girls-gamesville.json) |
+| Powerpuff Girls: Mojo Jojo's Clone Zone | 8008 | [8008-powerpuff-girls-mojo-jojos-clone-zone.json](./8008-powerpuff-girls-mojo-jojos-clone-zone.json) |
+| Powerpuff Girls: Mojo Jojo's Pet Project | 8009 | [8009-powerpuff-girls-mojo-jojos-pet-project.json](./8009-powerpuff-girls-mojo-jojos-pet-project.json) |
 | Powerpuff Girls: Mojo's Pet Project | 19427 | [19427-powerpuff-girls-mojos-pet-project.json](./19427-powerpuff-girls-mojos-pet-project.json) |
 | Powers of Hex | 230943 | [230943-powers-of-hex.json](./230943-powers-of-hex.json) |
 | PowerShift | 242673 | [242673-powershift.json](./242673-powershift.json) |
