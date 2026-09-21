@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Agency Tycoon | 137679 | [137679-ad-agency-tycoon.json](./137679-ad-agency-tycoon.json) |
 | Ad Astra | 45371 | [45371-ad-astra.json](./45371-ad-astra.json) |
 | Ad Exitum | 33466 | [33466-ad-exitum.json](./33466-ad-exitum.json) |
+| Ad Infinitum | 77338 | [77338-ad-infinitum.json](./77338-ad-infinitum.json) |
 | Ad Mortem | 262441 | [262441-ad-mortem.json](./262441-ad-mortem.json) |
 | Ad Nauseam | 304201 | [304201-ad-nauseam.json](./304201-ad-nauseam.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
@@ -818,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
 | Adventure the Four Swords | 179576 | [179576-adventure-the-four-swords.json](./179576-adventure-the-four-swords.json) |
 | Adventure Time Puzzle Quest | 19952 | [19952-adventure-time-puzzle-quest.json](./19952-adventure-time-puzzle-quest.json) |
+| Adventure Time: Explore the Dungeon Because I Don't Know! | 4557 | [4557-adventure-time-explore-the-dungeon-because-i-dont-know.json](./4557-adventure-time-explore-the-dungeon-because-i-dont-know.json) |
 | Adventure Time: Finn and Bones | 176870 | [176870-adventure-time-finn-and-bones.json](./176870-adventure-time-finn-and-bones.json) |
 | Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! | 2797 | [2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json](./2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json) |
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
@@ -2479,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Conquest: The Golden Fleece | 7713 | [7713-ancient-conquest-the-golden-fleece.json](./7713-ancient-conquest-the-golden-fleece.json) |
 | Ancient Cultures: Tikal's Realm | 216466 | [216466-ancient-cultures-tikals-realm.json](./216466-ancient-cultures-tikals-realm.json) |
 | Ancient Egypt | 358911 | [358911-ancient-egypt.json](./358911-ancient-egypt.json) |
+| Ancient Enemy | 111842 | [111842-ancient-enemy.json](./111842-ancient-enemy.json) |
 | Ancient Erotic Monster in the Labyrinth | 97833 | [97833-ancient-erotic-monster-in-the-labyrinth.json](./97833-ancient-erotic-monster-in-the-labyrinth.json) |
 | Ancient Evil | 170504 | [170504-ancient-evil.json](./170504-ancient-evil.json) |
 | Ancient Evil | 217854 | [217854-ancient-evil.json](./217854-ancient-evil.json) |
@@ -4585,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix and the Great Rescue | 8501 | [8501-asterix-and-the-great-rescue.json](./8501-asterix-and-the-great-rescue.json) |
 | Asterix and the Magic Carpet | 14272 | [14272-asterix-and-the-magic-carpet.json](./14272-asterix-and-the-magic-carpet.json) |
 | Astérix and the Secret Mission | 12888 | [12888-asterix-and-the-secret-mission.json](./12888-asterix-and-the-secret-mission.json) |
+| Asterix at the Olympic Games | 4681 | [4681-asterix-at-the-olympic-games.json](./4681-asterix-at-the-olympic-games.json) |
 | Asterix Brain Trainer | 67236 | [67236-asterix-brain-trainer.json](./67236-asterix-brain-trainer.json) |
 | Astérix et la Potion Magique | 342056 | [342056-asterix-et-la-potion-magique.json](./342056-asterix-et-la-potion-magique.json) |
 | Asterix Maxi Collection | 331410 | [331410-asterix-maxi-collection.json](./331410-asterix-maxi-collection.json) |
@@ -5171,6 +5175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autograv | 288194 | [288194-autograv.json](./288194-autograv.json) |
 | AutoGuessr | 331319 | [331319-autoguessr.json](./331319-autoguessr.json) |
 | AutoHeroes | 248883 | [248883-autoheroes.json](./248883-autoheroes.json) |
+| Automachef | 107217 | [107217-automachef.json](./107217-automachef.json) |
 | Automania | 30216 | [30216-automania.json](./30216-automania.json) |
 | Automata 10 Pack Volume 2 | 258188 | [258188-automata-10-pack-volume-2.json](./258188-automata-10-pack-volume-2.json) |
 | Automata Break | 139455 | [139455-automata-break.json](./139455-automata-break.json) |
