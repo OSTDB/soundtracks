@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Fries | 116977 | [116977-call-of-fries.json](./116977-call-of-fries.json) |
 | Call of Hentai Neko | 367511 | [367511-call-of-hentai-neko.json](./367511-call-of-hentai-neko.json) |
 | Call of Juarez | 429 | [429-call-of-juarez.json](./429-call-of-juarez.json) |
+| Call of Juarez: Bound In Blood | 430 | [430-call-of-juarez-bound-in-blood.json](./430-call-of-juarez-bound-in-blood.json) |
 | Call of Myth | 153969 | [153969-call-of-myth.json](./153969-call-of-myth.json) |
 | Call of Nature: Jigsaw Puzzle | 103531 | [103531-call-of-nature-jigsaw-puzzle.json](./103531-call-of-nature-jigsaw-puzzle.json) |
 | Call of Pixel: Close Quarters | 112948 | [112948-call-of-pixel-close-quarters.json](./112948-call-of-pixel-close-quarters.json) |
@@ -3098,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Champs | 56529 | [56529-clash-of-champs.json](./56529-clash-of-champs.json) |
 | Clash of Chefs VR | 111704 | [111704-clash-of-chefs-vr.json](./111704-clash-of-chefs-vr.json) |
 | Clash of Chess | 174898 | [174898-clash-of-chess.json](./174898-clash-of-chess.json) |
+| Clash of Clans | 5589 | [5589-clash-of-clans.json](./5589-clash-of-clans.json) |
 | Clash of Coins | 135029 | [135029-clash-of-coins.json](./135029-clash-of-coins.json) |
 | Clash of Digital: Rumble Smash | 241666 | [241666-clash-of-digital-rumble-smash.json](./241666-clash-of-digital-rumble-smash.json) |
 | Clash of Elements | 233216 | [233216-clash-of-elements.json](./233216-clash-of-elements.json) |
