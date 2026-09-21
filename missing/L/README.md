@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last $50 | 400954 | [400954-last-50.json](./400954-last-50.json) |
 | Last Alive | 37363 | [37363-last-alive.json](./37363-last-alive.json) |
 | Last Answer | 30062 | [30062-last-answer.json](./30062-last-answer.json) |
+| Last Battalion | 20127 | [20127-last-battalion.json](./20127-last-battalion.json) |
 | Last Bible III | 38354 | [38354-last-bible-iii.json](./38354-last-bible-iii.json) |
 | Last Bloody Snack | 256553 | [256553-last-bloody-snack.json](./256553-last-bloody-snack.json) |
 | Last Blossom | 148337 | [148337-last-blossom.json](./148337-last-blossom.json) |
@@ -952,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of the Shadows | 208391 | [208391-legends-of-the-shadows.json](./208391-legends-of-the-shadows.json) |
 | Legends of Time | 31673 | [31673-legends-of-time.json](./31673-legends-of-time.json) |
 | Legends of Valour | 12903 | [12903-legends-of-valour.json](./12903-legends-of-valour.json) |
+| Legends of War | 20014 | [20014-legends-of-war.json](./20014-legends-of-war.json) |
 | Legends of Zork | 69302 | [69302-legends-of-zork.json](./69302-legends-of-zork.json) |
 | Legends Scrolls | 247215 | [247215-legends-scrolls.json](./247215-legends-scrolls.json) |
 | Legenne | 70381 | [70381-legenne.json](./70381-legenne.json) |
