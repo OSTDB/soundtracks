@@ -3549,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle Ages: Peasants & Knights | 304662 | [304662-middle-ages-peasants-and-knights.json](./304662-middle-ages-peasants-and-knights.json) |
 | Middle Kingdom | 356658 | [356658-middle-kingdom.json](./356658-middle-kingdom.json) |
 | Middle Manager of Justice | 9133 | [9133-middle-manager-of-justice.json](./9133-middle-manager-of-justice.json) |
+| Middle-earth: Shadow of War - Definitive Edition | 106764 | [106764-middle-earth-shadow-of-war-definitive-edition.json](./106764-middle-earth-shadow-of-war-definitive-edition.json) |
 | Middle-earth: Shadow of War Mobile | 52198 | [52198-middle-earth-shadow-of-war-mobile.json](./52198-middle-earth-shadow-of-war-mobile.json) |
 | Miden Tower: Experience & SP x2 | 171021 | [171021-miden-tower-experience-and-sp-x2.json](./171021-miden-tower-experience-and-sp-x2.json) |
 | Miden Tower: Experience x3 | 171020 | [171020-miden-tower-experience-x3.json](./171020-miden-tower-experience-x3.json) |
@@ -3972,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Vault-Tec Mash-up | 235319 | [235319-minecraft-vault-tec-mash-up.json](./235319-minecraft-vault-tec-mash-up.json) |
 | MInecraft: Weapon Fusion 2 | 333585 | [333585-minecraft-weapon-fusion-2.json](./333585-minecraft-weapon-fusion-2.json) |
 | Minecraft: Winter Whimsy Skin Pack | 324892 | [324892-minecraft-winter-whimsy-skin-pack.json](./324892-minecraft-winter-whimsy-skin-pack.json) |
+| Minecraft: Xbox 360 Edition | 94029 | [94029-minecraft-xbox-360-edition.json](./94029-minecraft-xbox-360-edition.json) |
 | Minecraftle | 306695 | [306695-minecraftle.json](./306695-minecraftle.json) |
 | Minecranker | 259636 | [259636-minecranker.json](./259636-minecranker.json) |
 | Mined | 183983 | [183983-mined.json](./183983-mined.json) |
@@ -5216,6 +5218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Freestyle | 283279 | [283279-monster-truck-freestyle.json](./283279-monster-truck-freestyle.json) |
 | Monster Truck Madness | 146887 | [146887-monster-truck-madness.json](./146887-monster-truck-madness.json) |
 | Monster Truck Madness | 6513 | [6513-monster-truck-madness.json](./6513-monster-truck-madness.json) |
+| Monster Truck Madness 2 | 3542 | [3542-monster-truck-madness-2.json](./3542-monster-truck-madness-2.json) |
 | Monster Truck Madness 64 | 10615 | [10615-monster-truck-madness-64.json](./10615-monster-truck-madness-64.json) |
 | Monster Truck Montain Offroad | 228105 | [228105-monster-truck-montain-offroad.json](./228105-monster-truck-montain-offroad.json) |
 | Monster Truck Ramp Stunt | 246431 | [246431-monster-truck-ramp-stunt.json](./246431-monster-truck-ramp-stunt.json) |
@@ -6443,6 +6446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Brick Breaker | 307158 | [307158-my-brick-breaker.json](./307158-my-brick-breaker.json) |
 | My Brother is a Superhero | 242559 | [242559-my-brother-is-a-superhero.json](./242559-my-brother-is-a-superhero.json) |
 | My brother lives in a canyon | 152725 | [152725-my-brother-lives-in-a-canyon.json](./152725-my-brother-lives-in-a-canyon.json) |
+| My Brother Rabbit | 104522 | [104522-my-brother-rabbit.json](./104522-my-brother-rabbit.json) |
 | My Brother the Sacrifice | 123643 | [123643-my-brother-the-sacrifice.json](./123643-my-brother-the-sacrifice.json) |
 | My Bullied Bride | 112950 | [112950-my-bullied-bride.json](./112950-my-bullied-bride.json) |
 | My Business | 152154 | [152154-my-business.json](./152154-my-business.json) |
