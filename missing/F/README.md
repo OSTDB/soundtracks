@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Journey | 38391 | [38391-fantastic-journey.json](./38391-fantastic-journey.json) |
 | Fantastic Kingdom | 120421 | [120421-fantastic-kingdom.json](./120421-fantastic-kingdom.json) |
 | Fantastic Marchen: Cake-ya-san Monogatari + Doubutsu Chara Navi Uranai Kosei Shinri Gaku | 49577 | [49577-fantastic-marchen-cake-ya-san-monogatari-doubutsu-chara-navi-uranai-kosei-shinri-gaku.json](./49577-fantastic-marchen-cake-ya-san-monogatari-doubutsu-chara-navi-uranai-kosei-shinri-gaku.json) |
+| Fantastic Voyage | 18558 | [18558-fantastic-voyage.json](./18558-fantastic-voyage.json) |
 | Fantasy & Blade | 119021 | [119021-fantasy-and-blade.json](./119021-fantasy-and-blade.json) |
 | Fantasy & Blade II | 124223 | [124223-fantasy-and-blade-ii.json](./124223-fantasy-and-blade-ii.json) |
 | Fantasy 6 Pack | 86035 | [86035-fantasy-6-pack.json](./86035-fantasy-6-pack.json) |
@@ -1943,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Woman: Matoi Gumi | 45958 | [45958-fire-woman-matoi-gumi.json](./45958-fire-woman-matoi-gumi.json) |
 | Fire: The First Dreamer | 333552 | [333552-fire-the-first-dreamer.json](./333552-fire-the-first-dreamer.json) |
 | Firearms Master | 335326 | [335326-firearms-master.json](./335326-firearms-master.json) |
+| Fireball | 18565 | [18565-fireball.json](./18565-fireball.json) |
 | Fireball Classic | 91446 | [91446-fireball-classic.json](./91446-fireball-classic.json) |
 | Fireball SE | 22313 | [22313-fireball-se.json](./22313-fireball-se.json) |
 | Fireball Spam | 243788 | [243788-fireball-spam.json](./243788-fireball-spam.json) |
