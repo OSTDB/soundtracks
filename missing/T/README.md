@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
 | Tetris: Flower Garden | 195739 | [195739-tetris-flower-garden.json](./195739-tetris-flower-garden.json) |
 | Tetris: Rosy Retrospection | 247519 | [247519-tetris-rosy-retrospection.json](./247519-tetris-rosy-retrospection.json) |
+| Tetrisphere | 3612 | [3612-tetrisphere.json](./3612-tetrisphere.json) |
 | Tetro Runner | 386245 | [386245-tetro-runner.json](./386245-tetro-runner.json) |
 | Tetrogue | 413659 | [413659-tetrogue.json](./413659-tetrogue.json) |
 | Tetromino Chill | 186197 | [186197-tetromino-chill.json](./186197-tetromino-chill.json) |
@@ -2590,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colorful Biplane | 377719 | [377719-the-colorful-biplane.json](./377719-the-colorful-biplane.json) |
 | The Colossus Is Coming: The Interactive Experience | 180287 | [180287-the-colossus-is-coming-the-interactive-experience.json](./180287-the-colossus-is-coming-the-interactive-experience.json) |
 | The Colour Beyond: A Zeroth Kind | 409590 | [409590-the-colour-beyond-a-zeroth-kind.json](./409590-the-colour-beyond-a-zeroth-kind.json) |
+| The Coma 2: Vicious Sisters | 121617 | [121617-the-coma-2-vicious-sisters.json](./121617-the-coma-2-vicious-sisters.json) |
 | The Coma 2: Vicious Sisters - Deluxe Edition | 154510 | [154510-the-coma-2-vicious-sisters-deluxe-edition.json](./154510-the-coma-2-vicious-sisters-deluxe-edition.json) |
 | The Coma 2B: Catacomb | 293779 | [293779-the-coma-2b-catacomb.json](./293779-the-coma-2b-catacomb.json) |
 | The Coma 2B: Catacomb - The Gamer Youngho | 324473 | [324473-the-coma-2b-catacomb-the-gamer-youngho.json](./324473-the-coma-2b-catacomb-the-gamer-youngho.json) |
@@ -6402,6 +6404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
 | The Walking Dead: March to War | 25642 | [25642-the-walking-dead-march-to-war.json](./25642-the-walking-dead-march-to-war.json) |
 | The Walking Dead: Michonne | 11204 | [11204-the-walking-dead-michonne.json](./11204-the-walking-dead-michonne.json) |
+| The Walking Dead: Michonne - Episode 2: Give No Shelter | 127034 | [127034-the-walking-dead-michonne-episode-2-give-no-shelter.json](./127034-the-walking-dead-michonne-episode-2-give-no-shelter.json) |
 | The Walking Dead: Onslaught - Survivors Edition | 139842 | [139842-the-walking-dead-onslaught-survivors-edition.json](./139842-the-walking-dead-onslaught-survivors-edition.json) |
 | The Walking Dead: Onslaught - The Golden Weapons Deluxe Pack | 139956 | [139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json](./139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json) |
 | The Walking Dead: Our World | 55177 | [55177-the-walking-dead-our-world.json](./55177-the-walking-dead-our-world.json) |
@@ -6560,6 +6563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizards of Trinity Bellwoods | 58265 | [58265-the-wizards-of-trinity-bellwoods.json](./58265-the-wizards-of-trinity-bellwoods.json) |
 | The Wizards Pet | 108955 | [108955-the-wizards-pet.json](./108955-the-wizards-pet.json) |
 | The Wolf Among Us 2 | 51523 | [51523-the-wolf-among-us-2.json](./51523-the-wolf-among-us-2.json) |
+| The Wolf Among Us: Episode 2 - Smoke and Mirrors | 127108 | [127108-the-wolf-among-us-episode-2-smoke-and-mirrors.json](./127108-the-wolf-among-us-episode-2-smoke-and-mirrors.json) |
 | The Wolf's Bite | 28215 | [28215-the-wolfs-bite.json](./28215-the-wolfs-bite.json) |
 | The Woman Above | 398476 | [398476-the-woman-above.json](./398476-the-woman-above.json) |
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
@@ -6592,6 +6596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Marius | 369581 | [369581-the-world-of-marius.json](./369581-the-world-of-marius.json) |
 | The World of Nifty Craft | 256263 | [256263-the-world-of-nifty-craft.json](./256263-the-world-of-nifty-craft.json) |
 | The World to Reverse. | 125983 | [125983-the-world-to-reverse.json](./125983-the-world-to-reverse.json) |
+| The World's Hardest Game | 141086 | [141086-the-worlds-hardest-game.json](./141086-the-worlds-hardest-game.json) |
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
 | The Worlds Best Board Games | 51208 | [51208-the-worlds-best-board-games.json](./51208-the-worlds-best-board-games.json) |
 | The Worm | 34419 | [34419-the-worm.json](./34419-the-worm.json) |
