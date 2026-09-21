@@ -2258,10 +2258,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medabots Classic Collection | 55143 | [55143-medabots-classic-collection.json](./55143-medabots-classic-collection.json) |
 | Medal Bound | 245327 | [245327-medal-bound.json](./245327-medal-bound.json) |
 | Medal Masters | 110299 | [110299-medal-masters.json](./110299-medal-masters.json) |
+| Medal of Honor | 1307 | [1307-medal-of-honor.json](./1307-medal-of-honor.json) |
 | Medal of Honor: 10th Anniversary Edition | 45980 | [45980-medal-of-honor-10th-anniversary-edition.json](./45980-medal-of-honor-10th-anniversary-edition.json) |
 | Medal of Honor: Airborne | 264877 | [264877-medal-of-honor-airborne.json](./264877-medal-of-honor-airborne.json) |
 | Medal of Honor: Allied Assault - Breakthrough | 9229 | [9229-medal-of-honor-allied-assault-breakthrough.json](./9229-medal-of-honor-allied-assault-breakthrough.json) |
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
+| Medal of Honor: Pacific Assault | 1310 | [1310-medal-of-honor-pacific-assault.json](./1310-medal-of-honor-pacific-assault.json) |
+| Medal of Honor: Warfighter | 1306 | [1306-medal-of-honor-warfighter.json](./1306-medal-of-honor-warfighter.json) |
 | MedArc | 70391 | [70391-medarc.json](./70391-medarc.json) |
 | Medarot 2 Parts Collection | 92535 | [92535-medarot-2-parts-collection.json](./92535-medarot-2-parts-collection.json) |
 | Medarot 2: Kabuto Version | 55139 | [55139-medarot-2-kabuto-version.json](./55139-medarot-2-kabuto-version.json) |
@@ -3114,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 1st Mission (Version B) | 75485 | [75485-metal-slug-1st-mission-version-b.json](./75485-metal-slug-1st-mission-version-b.json) |
 | Metal Slug 1st Mission (Version C) | 75486 | [75486-metal-slug-1st-mission-version-c.json](./75486-metal-slug-1st-mission-version-c.json) |
 | Metal Slug 1st Mission (Version D) | 75487 | [75487-metal-slug-1st-mission-version-d.json](./75487-metal-slug-1st-mission-version-d.json) |
+| Metal Slug 2 | 1407 | [1407-metal-slug-2.json](./1407-metal-slug-2.json) |
 | Metal Slug 2nd Mission (Best Collection) | 75489 | [75489-metal-slug-2nd-mission-best-collection.json](./75489-metal-slug-2nd-mission-best-collection.json) |
 | Metal Slug 3 | 191479 | [191479-metal-slug-3.json](./191479-metal-slug-3.json) |
 | Metal Slug 3 | 347159 | [347159-metal-slug-3.json](./347159-metal-slug-3.json) |
@@ -5329,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Syndrome | 65450 | [65450-moonlight-syndrome.json](./65450-moonlight-syndrome.json) |
 | Moonlight Walks | 51178 | [51178-moonlight-walks.json](./51178-moonlight-walks.json) |
 | Moonlight Warrior | 117107 | [117107-moonlight-warrior.json](./117107-moonlight-warrior.json) |
+| Moonlighter | 27771 | [27771-moonlighter.json](./27771-moonlighter.json) |
 | Moonlighter: Between Dimensions | 119236 | [119236-moonlighter-between-dimensions.json](./119236-moonlighter-between-dimensions.json) |
 | Moonlit Nights | 386146 | [386146-moonlit-nights.json](./386146-moonlit-nights.json) |
 | MoonLost | 387344 | [387344-moonlost.json](./387344-moonlost.json) |
@@ -5618,6 +5623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mothdude | 184126 | [184126-mothdude.json](./184126-mothdude.json) |
 | Mother 1+2 | 78585 | [78585-mother-1-2.json](./78585-mother-1-2.json) |
 | Mother 2: Perfect Edition | 305370 | [305370-mother-2-perfect-edition.json](./305370-mother-2-perfect-edition.json) |
+| Mother 3 | 3683 | [3683-mother-3.json](./3683-mother-3.json) |
 | Mother 3.5 | 310951 | [310951-mother-3-5.json](./310951-mother-3-5.json) |
 | Mother Christmas | 394818 | [394818-mother-christmas.json](./394818-mother-christmas.json) |
 | Mother Fucker Galaxy | 254523 | [254523-mother-fucker-galaxy.json](./254523-mother-fucker-galaxy.json) |
