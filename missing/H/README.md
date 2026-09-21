@@ -2784,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Legacy Manager 25 | 340475 | [340475-hockey-legacy-manager-25.json](./340475-hockey-legacy-manager-25.json) |
 | Hockey Player VR | 117837 | [117837-hockey-player-vr.json](./117837-hockey-player-vr.json) |
 | Hockey Solitaire | 102578 | [102578-hockey-solitaire.json](./102578-hockey-solitaire.json) |
+| Hockey Space | 44174 | [44174-hockey-space.json](./44174-hockey-space.json) |
 | Hockey Super Squad | 321537 | [321537-hockey-super-squad.json](./321537-hockey-super-squad.json) |
 | Hockey: Strategy of Success | 115690 | [115690-hockey-strategy-of-success.json](./115690-hockey-strategy-of-success.json) |
 | Hoco Poco | 129577 | [129577-hoco-poco.json](./129577-hoco-poco.json) |
@@ -3312,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Run | 201237 | [201237-horror-run.json](./201237-horror-run.json) |
 | Horror Scary Granny Pink Barby | 231936 | [231936-horror-scary-granny-pink-barby.json](./231936-horror-scary-granny-pink-barby.json) |
 | Horror School: The Classroom | 303090 | [303090-horror-school-the-classroom.json](./303090-horror-school-the-classroom.json) |
+| Horror Sense: Daruma-san ga Koronda | 44156 | [44156-horror-sense-daruma-san-ga-koronda.json](./44156-horror-sense-daruma-san-ga-koronda.json) |
 | Horror Simulator: Co-Op | 318059 | [318059-horror-simulator-co-op.json](./318059-horror-simulator-co-op.json) |
 | Horror Stories | 60496 | [60496-horror-stories.json](./60496-horror-stories.json) |
 | Horror Story | 42001 | [42001-horror-story.json](./42001-horror-story.json) |
