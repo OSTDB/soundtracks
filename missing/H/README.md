@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Deathly Hallows: Part 2 - The Mobile Game | 266199 | [266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json](./266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json) |
 | Harry Potter and the Goblet of Fire: The Triwizard Tournament | 266502 | [266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json](./266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json) |
 | Harry Potter and the Half-Blood Prince | 266197 | [266197-harry-potter-and-the-half-blood-prince.json](./266197-harry-potter-and-the-half-blood-prince.json) |
+| Harry Potter and the Half-Blood Prince | 4906 | [4906-harry-potter-and-the-half-blood-prince.json](./4906-harry-potter-and-the-half-blood-prince.json) |
 | Harry Potter and the Order of the Phoenix | 366316 | [366316-harry-potter-and-the-order-of-the-phoenix.json](./366316-harry-potter-and-the-order-of-the-phoenix.json) |
 | Harry Potter and the Prisoner of Azkaban | 3943 | [3943-harry-potter-and-the-prisoner-of-azkaban.json](./3943-harry-potter-and-the-prisoner-of-azkaban.json) |
 | Harry Potter and the Prisoner of Azkaban | 96159 | [96159-harry-potter-and-the-prisoner-of-azkaban.json](./96159-harry-potter-and-the-prisoner-of-azkaban.json) |
@@ -3818,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hudson Selection Vol. 3: PC Genjin - Pithecanthropus Computerurus | 50580 | [50580-hudson-selection-vol-3-pc-genjin-pithecanthropus-computerurus.json](./50580-hudson-selection-vol-3-pc-genjin-pithecanthropus-computerurus.json) |
 | Hudson Selection Vol. 4: Takahashi Meijin no Bouken-jima | 50574 | [50574-hudson-selection-vol-4-takahashi-meijin-no-bouken-jima.json](./50574-hudson-selection-vol-4-takahashi-meijin-no-bouken-jima.json) |
 | Hudson x Greeeen Live!? Deeees!? | 97682 | [97682-hudson-x-greeeen-live-deeees.json](./97682-hudson-x-greeeen-live-deeees.json) |
+| Hue | 18927 | [18927-hue.json](./18927-hue.json) |
 | Hue Hop | 311642 | [311642-hue-hop.json](./311642-hue-hop.json) |
 | Huebi's Adventure | 394339 | [394339-huebis-adventure.json](./394339-huebis-adventure.json) |
 | HueBots | 34589 | [34589-huebots.json](./34589-huebots.json) |
