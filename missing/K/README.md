@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Running | 104071 | [104071-keep-running.json](./104071-keep-running.json) |
 | Keep Talking and Nobody Explodes | 13226 | [13226-keep-talking-and-nobody-explodes.json](./13226-keep-talking-and-nobody-explodes.json) |
 | Keep The Beat | 381598 | [381598-keep-the-beat.json](./381598-keep-the-beat.json) |
+| Keep Them Below | 59037 | [59037-keep-them-below.json](./59037-keep-them-below.json) |
 | Keep Up | 277580 | [277580-keep-up.json](./277580-keep-up.json) |
 | Keep Walking | 114751 | [114751-keep-walking.json](./114751-keep-walking.json) |
 | Keeper | 152141 | [152141-keeper.json](./152141-keeper.json) |
@@ -555,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenomaze | 207400 | [207400-kenomaze.json](./207400-kenomaze.json) |
 | Kenophobia | 267103 | [267103-kenophobia.json](./267103-kenophobia.json) |
 | Kenopsia | 175387 | [175387-kenopsia.json](./175387-kenopsia.json) |
+| Kenran Butou Sai: The Mars Daybreak | 59077 | [59077-kenran-butou-sai-the-mars-daybreak.json](./59077-kenran-butou-sai-the-mars-daybreak.json) |
 | Kens Labyrinth | 46651 | [46651-kens-labyrinth.json](./46651-kens-labyrinth.json) |
 | Kensei: Sacred Fist | 36746 | [36746-kensei-sacred-fist.json](./36746-kensei-sacred-fist.json) |
 | Kenshin Dragon Quest: Yomigaerishi Densetsu no Tsurugi | 267376 | [267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json](./267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json) |
@@ -753,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiko's Apple Adventure | 336635 | [336635-kikos-apple-adventure.json](./336635-kikos-apple-adventure.json) |
 | Kikokugai | 232662 | [232662-kikokugai.json](./232662-kikokugai.json) |
 | Kikou Seiki Unitron | 43969 | [43969-kikou-seiki-unitron.json](./43969-kikou-seiki-unitron.json) |
+| Kikou Souhei Armodyne | 59076 | [59076-kikou-souhei-armodyne.json](./59076-kikou-souhei-armodyne.json) |
 | Kikstart | 25966 | [25966-kikstart.json](./25966-kikstart.json) |
 | Kikstart: Off-Road Simulator | 57616 | [57616-kikstart-off-road-simulator.json](./57616-kikstart-off-road-simulator.json) |
 | Kikuni Masahiko: Jirushi Warau Fukei-san Pachi-Slot Hunter | 65214 | [65214-kikuni-masahiko-jirushi-warau-fukei-san-pachi-slot-hunter.json](./65214-kikuni-masahiko-jirushi-warau-fukei-san-pachi-slot-hunter.json) |
@@ -1961,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyojin-tachi | 260983 | [260983-kyojin-tachi.json](./260983-kyojin-tachi.json) |
 | Kyoki | 172160 | [172160-kyoki.json](./172160-kyoki.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
+| Kyonyuu Hitozuma Shimai wa Nakadashi Niku Benki: Oi no Wakai Kyokon ni Soku Ochi Mesu Yorokobi de Netori Haramase Onedari | 59029 | [59029-kyonyuu-hitozuma-shimai-wa-nakadashi-niku-benki-oi-no-wakai-kyokon-ni-soku-ochi-mesu-yorokobi-de-netori-haramase-onedari.json](./59029-kyonyuu-hitozuma-shimai-wa-nakadashi-niku-benki-oi-no-wakai-kyokon-ni-soku-ochi-mesu-yorokobi-de-netori-haramase-onedari.json) |
 | Kyoryu | 315130 | [315130-kyoryu.json](./315130-kyoryu.json) |
 | Kyoto | 128630 | [128630-kyoto.json](./128630-kyoto.json) |
 | Kyoto Maiko Monogatari | 333558 | [333558-kyoto-maiko-monogatari.json](./333558-kyoto-maiko-monogatari.json) |
