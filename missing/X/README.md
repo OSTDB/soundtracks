@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: Wolverine's Rage | 49899 | [49899-x-men-wolverines-rage.json](./49899-x-men-wolverines-rage.json) |
 | X-Mercs | 59982 | [59982-x-mercs.json](./59982-x-mercs.json) |
 | X-Moon | 112325 | [112325-x-moon.json](./112325-x-moon.json) |
+| X-Motor Racing | 50110 | [50110-x-motor-racing.json](./50110-x-motor-racing.json) |
 | X-Noir | 124598 | [124598-x-noir.json](./124598-x-noir.json) |
 | X-Note | 36055 | [36055-x-note.json](./36055-x-note.json) |
 | X-Out: Resurfaced | 312309 | [312309-x-out-resurfaced.json](./312309-x-out-resurfaced.json) |
