@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 994 W 24th | 31147 | [31147-994-w-24th.json](./31147-994-w-24th.json) |
 | 9999 in 1 | 279737 | [279737-9999-in-1.json](./279737-9999-in-1.json) |
 | 999Seconds!Survivors | 400259 | [400259-999seconds-survivors.json](./400259-999seconds-survivors.json) |
+| 99Vidas | 26678 | [26678-99vidas.json](./26678-99vidas.json) |
 | 9pm | 177510 | [177510-9pm.json](./177510-9pm.json) |
 | 9th Sentinel Sisters | 266819 | [266819-9th-sentinel-sisters.json](./266819-9th-sentinel-sisters.json) |
 | Ａ Class | 245879 | [245879-a-class.json](./245879-a-class.json) |
