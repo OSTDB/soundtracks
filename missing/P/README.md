@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Station VR | 130151 | [130151-panic-station-vr.json](./130151-panic-station-vr.json) |
 | Panic-Chan | 209623 | [209623-panic-chan.json](./209623-panic-chan.json) |
 | Panic! at the Dog Show | 106364 | [106364-panic-at-the-dog-show.json](./106364-panic-at-the-dog-show.json) |
+| Panicore | 277278 | [277278-panicore.json](./277278-panicore.json) |
 | Panik | 289300 | [289300-panik.json](./289300-panik.json) |
 | Panin | 358331 | [358331-panin.json](./358331-panin.json) |
 | Panmorphia | 96536 | [96536-panmorphia.json](./96536-panmorphia.json) |
@@ -1570,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Aigis Edition | 262640 | [262640-persona-3-reload-aigis-edition.json](./262640-persona-3-reload-aigis-edition.json) |
 | Persona 3 Reload: Digital Deluxe Edition | 262642 | [262642-persona-3-reload-digital-deluxe-edition.json](./262642-persona-3-reload-digital-deluxe-edition.json) |
 | Persona 3 Reload: Digital Premium Edition | 262643 | [262643-persona-3-reload-digital-premium-edition.json](./262643-persona-3-reload-digital-premium-edition.json) |
+| Persona 3 Reload: Episode Aigis | 289703 | [289703-persona-3-reload-episode-aigis.json](./289703-persona-3-reload-episode-aigis.json) |
 | Persona 3 Reload: FemC Reloaded Project | 328622 | [328622-persona-3-reload-femc-reloaded-project.json](./328622-persona-3-reload-femc-reloaded-project.json) |
 | Persona 3 Reload: Limited Box | 262641 | [262641-persona-3-reload-limited-box.json](./262641-persona-3-reload-limited-box.json) |
 | Persona 3 Reload: Persona 4 Golden Persona Set | 301578 | [301578-persona-3-reload-persona-4-golden-persona-set.json](./301578-persona-3-reload-persona-4-golden-persona-set.json) |
@@ -2456,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PipeMan | 80538 | [80538-pipeman.json](./80538-pipeman.json) |
 | Piper | 356068 | [356068-piper.json](./356068-piper.json) |
 | Pipes Maze | 240354 | [240354-pipes-maze.json](./240354-pipes-maze.json) |
+| Pipistrello and the Cursed Yoyo | 292157 | [292157-pipistrello-and-the-cursed-yoyo.json](./292157-pipistrello-and-the-cursed-yoyo.json) |
 | Pipkin | 315712 | [315712-pipkin.json](./315712-pipkin.json) |
 | Pipler | 57701 | [57701-pipler.json](./57701-pipler.json) |
 | Pipo Park | 141225 | [141225-pipo-park.json](./141225-pipo-park.json) |
@@ -2933,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet B24 | 154374 | [154374-planet-b24.json](./154374-planet-b24.json) |
 | Planet Ballet | 179051 | [179051-planet-ballet.json](./179051-planet-ballet.json) |
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
+| Planet Coaster 2 | 308099 | [308099-planet-coaster-2.json](./308099-planet-coaster-2.json) |
 | Planet Coaster 2: Bonus Ride Collection | 371960 | [371960-planet-coaster-2-bonus-ride-collection.json](./371960-planet-coaster-2-bonus-ride-collection.json) |
 | Planet Coaster 2: Deluxe Edition | 331854 | [331854-planet-coaster-2-deluxe-edition.json](./331854-planet-coaster-2-deluxe-edition.json) |
 | Planet Coaster: Adventure Pack | 76963 | [76963-planet-coaster-adventure-pack.json](./76963-planet-coaster-adventure-pack.json) |
@@ -5838,6 +5842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Pleasant | 384070 | [384070-puzzle-pleasant.json](./384070-puzzle-pleasant.json) |
 | Puzzle Putt | 197246 | [197246-puzzle-putt.json](./197246-puzzle-putt.json) |
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
+| Puzzle Quest: Galactrix | 8980 | [8980-puzzle-quest-galactrix.json](./8980-puzzle-quest-galactrix.json) |
 | Puzzle Sages | 34493 | [34493-puzzle-sages.json](./34493-puzzle-sages.json) |
 | Puzzle Scape | 46021 | [46021-puzzle-scape.json](./46021-puzzle-scape.json) |
 | Puzzle Series Vol. 12: Akari | 184569 | [184569-puzzle-series-vol-12-akari.json](./184569-puzzle-series-vol-12-akari.json) |
