@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Meadow | 38957 | [38957-the-dark-meadow.json](./38957-the-dark-meadow.json) |
 | The Dark Mind | 320529 | [320529-the-dark-mind.json](./320529-the-dark-mind.json) |
 | The Dark Pictures Anthology: Intercession | 257076 | [257076-the-dark-pictures-anthology-intercession.json](./257076-the-dark-pictures-anthology-intercession.json) |
+| The Dark Pictures Anthology: Little Hope | 122120 | [122120-the-dark-pictures-anthology-little-hope.json](./122120-the-dark-pictures-anthology-little-hope.json) |
 | The Dark Pictures Anthology: Season One | 225775 | [225775-the-dark-pictures-anthology-season-one.json](./225775-the-dark-pictures-anthology-season-one.json) |
 | The Dark Pictures Anthology: The Craven Man | 257078 | [257078-the-dark-pictures-anthology-the-craven-man.json](./257078-the-dark-pictures-anthology-the-craven-man.json) |
 | The Dark Pictures Anthology: Winterfold | 257077 | [257077-the-dark-pictures-anthology-winterfold.json](./257077-the-dark-pictures-anthology-winterfold.json) |
@@ -5749,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stadium Project | 62177 | [62177-the-stadium-project.json](./62177-the-stadium-project.json) |
 | The Stairwell | 347177 | [347177-the-stairwell.json](./347177-the-stairwell.json) |
 | The Stanley Parable | 18453 | [18453-the-stanley-parable.json](./18453-the-stanley-parable.json) |
+| The Stanley Parable: Ultra Deluxe | 113119 | [113119-the-stanley-parable-ultra-deluxe.json](./113119-the-stanley-parable-ultra-deluxe.json) |
 | The Star Bowling DX | 386680 | [386680-the-star-bowling-dx.json](./386680-the-star-bowling-dx.json) |
 | The Starfire Soccer Challenge | 70383 | [70383-the-starfire-soccer-challenge.json](./70383-the-starfire-soccer-challenge.json) |
 | The Static | 408196 | [408196-the-static.json](./408196-the-static.json) |
@@ -6322,6 +6324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Aftermath | 410938 | [410938-the-walking-dead-aftermath.json](./410938-the-walking-dead-aftermath.json) |
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
 | The Walking Dead: March to War | 25642 | [25642-the-walking-dead-march-to-war.json](./25642-the-walking-dead-march-to-war.json) |
+| The Walking Dead: Michonne | 11204 | [11204-the-walking-dead-michonne.json](./11204-the-walking-dead-michonne.json) |
 | The Walking Dead: Onslaught - Survivors Edition | 139842 | [139842-the-walking-dead-onslaught-survivors-edition.json](./139842-the-walking-dead-onslaught-survivors-edition.json) |
 | The Walking Dead: Onslaught - The Golden Weapons Deluxe Pack | 139956 | [139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json](./139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json) |
 | The Walking Dead: Our World | 55177 | [55177-the-walking-dead-our-world.json](./55177-the-walking-dead-our-world.json) |
@@ -8799,6 +8802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Rome II - Hannibal at the Gates Campaign Pack | 167824 | [167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json](./167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json) |
 | Total War: Rome II - Imperator Augustus Campaign Pack | 167822 | [167822-total-war-rome-ii-imperator-augustus-campaign-pack.json](./167822-total-war-rome-ii-imperator-augustus-campaign-pack.json) |
 | Total War: Rome II - Unit Pack: Daughters of Mars | 53827 | [53827-total-war-rome-ii-unit-pack-daughters-of-mars.json](./53827-total-war-rome-ii-unit-pack-daughters-of-mars.json) |
+| Total War: Shogun 2 | 432 | [432-total-war-shogun-2.json](./432-total-war-shogun-2.json) |
 | Total War: Shogun 2 - Blood Pack DLC | 83513 | [83513-total-war-shogun-2-blood-pack-dlc.json](./83513-total-war-shogun-2-blood-pack-dlc.json) |
 | Total War: Shogun 2 - Collection | 53812 | [53812-total-war-shogun-2-collection.json](./53812-total-war-shogun-2-collection.json) |
 | Total War: Shogun 2 - Dragon War Battle Pack | 83517 | [83517-total-war-shogun-2-dragon-war-battle-pack.json](./83517-total-war-shogun-2-dragon-war-battle-pack.json) |
