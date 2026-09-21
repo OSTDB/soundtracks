@@ -1309,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Company | 212089 | [212089-lethal-company.json](./212089-lethal-company.json) |
 | Lethal Dose | 241950 | [241950-lethal-dose.json](./241950-lethal-dose.json) |
 | Lethal Encounter | 297477 | [297477-lethal-encounter.json](./297477-lethal-encounter.json) |
+| Lethal Enforcers | 4501 | [4501-lethal-enforcers.json](./4501-lethal-enforcers.json) |
 | Lethal Enforcers 3 | 5399 | [5399-lethal-enforcers-3.json](./5399-lethal-enforcers-3.json) |
 | Lethal Infiltration: Ghost Reconnaissance | 296932 | [296932-lethal-infiltration-ghost-reconnaissance.json](./296932-lethal-infiltration-ghost-reconnaissance.json) |
 | Lethal Laser | 55489 | [55489-lethal-laser.json](./55489-lethal-laser.json) |
@@ -1977,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Islanders | 211251 | [211251-little-islanders.json](./211251-little-islanders.json) |
 | Little Jack's Adventures | 30101 | [30101-little-jacks-adventures.json](./30101-little-jacks-adventures.json) |
 | Little Jumper! | 175403 | [175403-little-jumper.json](./175403-little-jumper.json) |
+| Little King's Story | 4974 | [4974-little-kings-story.json](./4974-little-kings-story.json) |
 | Little Kingdom RTS | 349319 | [349319-little-kingdom-rts.json](./349319-little-kingdom-rts.json) |
 | Little Kingdoms: Chapters 1-3 | 262930 | [262930-little-kingdoms-chapters-1-3.json](./262930-little-kingdoms-chapters-1-3.json) |
 | Little Kite | 61892 | [61892-little-kite.json](./61892-little-kite.json) |
@@ -2287,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lockes the Thief | 211793 | [211793-lockes-the-thief.json](./211793-lockes-the-thief.json) |
 | Locksmith | 48906 | [48906-locksmith.json](./48906-locksmith.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
+| Loco Motive | 141805 | [141805-loco-motive.json](./141805-loco-motive.json) |
 | LOCO Online | 361771 | [361771-loco-online.json](./361771-loco-online.json) |
 | Loco-Coconuts | 246495 | [246495-loco-coconuts.json](./246495-loco-coconuts.json) |
 | Loco-Sort | 272265 | [272265-loco-sort.json](./272265-loco-sort.json) |
@@ -3073,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucinda Green's Equestrian Challenge | 43254 | [43254-lucinda-greens-equestrian-challenge.json](./43254-lucinda-greens-equestrian-challenge.json) |
 | Lucipurr | 346603 | [346603-lucipurr.json](./346603-lucipurr.json) |
 | Lucius II | 17329 | [17329-lucius-ii.json](./17329-lucius-ii.json) |
+| Luck be a Landlord | 142035 | [142035-luck-be-a-landlord.json](./142035-luck-be-a-landlord.json) |
 | Luck of the Draw | 415123 | [415123-luck-of-the-draw.json](./415123-luck-of-the-draw.json) |
 | Luckcatchers2 | 285483 | [285483-luckcatchers2.json](./285483-luckcatchers2.json) |
 | Luckier | 185614 | [185614-luckier.json](./185614-luckier.json) |
@@ -3265,6 +3269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Rescue Mission | 197755 | [197755-lunar-rescue-mission.json](./197755-lunar-rescue-mission.json) |
 | Lunar Resilience | 302918 | [302918-lunar-resilience.json](./302918-lunar-resilience.json) |
 | Lunar: Dragon Song | 13908 | [13908-lunar-dragon-song.json](./13908-lunar-dragon-song.json) |
+| Lunar: The Silver Star | 5334 | [5334-lunar-the-silver-star.json](./5334-lunar-the-silver-star.json) |
 | Lunar's Chosen | 280781 | [280781-lunars-chosen.json](./280781-lunars-chosen.json) |
 | Lunarball | 291250 | [291250-lunarball.json](./291250-lunarball.json) |
 | Lunarrota | 198483 | [198483-lunarrota.json](./198483-lunarrota.json) |
