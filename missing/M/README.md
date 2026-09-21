@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Prisma | 130404 | [130404-magical-prisma.json](./130404-magical-prisma.json) |
 | Magical School Girls Battle Arena | 316643 | [316643-magical-school-girls-battle-arena.json](./316643-magical-school-girls-battle-arena.json) |
 | Magical Sound Car | 159359 | [159359-magical-sound-car.json](./159359-magical-sound-car.json) |
+| Magical Sports: 2001 Pro Yakyuu | 58511 | [58511-magical-sports-2001-pro-yakyuu.json](./58511-magical-sports-2001-pro-yakyuu.json) |
 | Magical Star Pillars | 87976 | [87976-magical-star-pillars.json](./87976-magical-star-pillars.json) |
 | Magical Stick Girl Miracle Kurun | 125427 | [125427-magical-stick-girl-miracle-kurun.json](./125427-magical-stick-girl-miracle-kurun.json) |
 | Magical Strings | 157719 | [157719-magical-strings.json](./157719-magical-strings.json) |
@@ -2761,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Stamps | 174223 | [174223-memory-stamps.json](./174223-memory-stamps.json) |
 | Memory Train | 412986 | [412986-memory-train.json](./412986-memory-train.json) |
 | Memory Wonderland: Bond | 259083 | [259083-memory-wonderland-bond.json](./259083-memory-wonderland-bond.json) |
+| Memory: Match & Catch! | 58485 | [58485-memory-match-and-catch.json](./58485-memory-match-and-catch.json) |
 | Memory: Unlocked | 264124 | [264124-memory-unlocked.json](./264124-memory-unlocked.json) |
 | MemoryMaze | 319367 | [319367-memorymaze.json](./319367-memorymaze.json) |
 | Men at Work! 2: Hunter Academy he Youkoso | 112298 | [112298-men-at-work-2-hunter-academy-he-youkoso.json](./112298-men-at-work-2-hunter-academy-he-youkoso.json) |
@@ -5725,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Flippers Out For Vengeance | 278668 | [278668-mr-flippers-out-for-vengeance.json](./278668-mr-flippers-out-for-vengeance.json) |
 | Mr Giggle | 138201 | [138201-mr-giggle.json](./138201-mr-giggle.json) |
 | Mr Giggle 2 | 143043 | [143043-mr-giggle-2.json](./143043-mr-giggle-2.json) |
+| Mr Henry and his Magical Hat | 58508 | [58508-mr-henry-and-his-magical-hat.json](./58508-mr-henry-and-his-magical-hat.json) |
 | Mr Jack Pocket | 175410 | [175410-mr-jack-pocket.json](./175410-mr-jack-pocket.json) |
 | Mr Jorries! | 157136 | [157136-mr-jorries.json](./157136-mr-jorries.json) |
 | Mr Love: Queen's Choice | 118949 | [118949-mr-love-queens-choice.json](./118949-mr-love-queens-choice.json) |
@@ -5897,6 +5900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mühle-Online | 84275 | [84275-muhle-online.json](./84275-muhle-online.json) |
 | Mujina | 259060 | [259060-mujina.json](./259060-mujina.json) |
 | Mujina: Maze Game VR | 261504 | [261504-mujina-maze-game-vr.json](./261504-mujina-maze-game-vr.json) |
+| Mujintou Monogatari Memorial Version | 58461 | [58461-mujintou-monogatari-memorial-version.json](./58461-mujintou-monogatari-memorial-version.json) |
 | Mukaeute Uchuu Gundan Galack | 66130 | [66130-mukaeute-uchuu-gundan-galack.json](./66130-mukaeute-uchuu-gundan-galack.json) |
 | Mukbang 3D | 240883 | [240883-mukbang-3d.json](./240883-mukbang-3d.json) |
 | Mukougawa no Reisetsu | 341594 | [341594-mukougawa-no-reisetsu.json](./341594-mukougawa-no-reisetsu.json) |
