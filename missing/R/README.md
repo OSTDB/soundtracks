@@ -1811,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team | 36019 | [36019-rescue-team.json](./36019-rescue-team.json) |
 | Rescue Team 4 | 53502 | [53502-rescue-team-4.json](./53502-rescue-team-4.json) |
 | Rescue Team 6 | 53503 | [53503-rescue-team-6.json](./53503-rescue-team-6.json) |
+| Rescue Team 6: Collector's Edition | 30160 | [30160-rescue-team-6-collectors-edition.json](./30160-rescue-team-6-collectors-edition.json) |
 | Rescue Team 7 | 44193 | [44193-rescue-team-7.json](./44193-rescue-team-7.json) |
 | Rescue Team 7: Collector's Edition | 53504 | [53504-rescue-team-7-collectors-edition.json](./53504-rescue-team-7-collectors-edition.json) |
 | Rescue Team 8 | 122212 | [122212-rescue-team-8.json](./122212-rescue-team-8.json) |
@@ -1882,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Fear 3: Ascension | 365758 | [365758-resident-fear-3-ascension.json](./365758-resident-fear-3-ascension.json) |
 | Resident Fear: Redistribution | 264102 | [264102-resident-fear-redistribution.json](./264102-resident-fear-redistribution.json) |
 | Residual Christmas | 379366 | [379366-residual-christmas.json](./379366-residual-christmas.json) |
+| Residue: Final Cut | 30250 | [30250-residue-final-cut.json](./30250-residue-final-cut.json) |
 | Residuum | 239752 | [239752-residuum.json](./239752-residuum.json) |
 | Resilience | 273443 | [273443-resilience.json](./273443-resilience.json) |
 | Resist Resist Resist | 299153 | [299153-resist-resist-resist.json](./299153-resist-resist-resist.json) |
