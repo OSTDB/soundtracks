@@ -1313,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Simulator: Search and Rescue 2014 | 53186 | [53186-helicopter-simulator-search-and-rescue-2014.json](./53186-helicopter-simulator-search-and-rescue-2014.json) |
 | Helidroid 3B PRO : 3D RC Copter | 82113 | [82113-helidroid-3b-pro-3d-rc-copter.json](./82113-helidroid-3b-pro-3d-rc-copter.json) |
 | HeliInvasion 2 | 200043 | [200043-heliinvasion-2.json](./200043-heliinvasion-2.json) |
+| Helion: Void Wars | 18591 | [18591-helion-void-wars.json](./18591-helion-void-wars.json) |
 | Heliopedia | 175891 | [175891-heliopedia.json](./175891-heliopedia.json) |
 | Helios | 185086 | [185086-helios.json](./185086-helios.json) |
 | Helios Battle Universe | 157180 | [157180-helios-battle-universe.json](./157180-helios-battle-universe.json) |
@@ -2800,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobonichi Rozenzu | 80543 | [80543-hobonichi-rozenzu.json](./80543-hobonichi-rozenzu.json) |
 | Hobs | 121630 | [121630-hobs.json](./121630-hobs.json) |
 | Hockey | 175898 | [175898-hockey.json](./175898-hockey.json) |
+| Hockey | 18585 | [18585-hockey.json](./18585-hockey.json) |
 | Hockey Agent | 244802 | [244802-hockey-agent.json](./244802-hockey-agent.json) |
 | Hockey Allstar Shootout | 85182 | [85182-hockey-allstar-shootout.json](./85182-hockey-allstar-shootout.json) |
 | Hockey Blitz | 244800 | [244800-hockey-blitz.json](./244800-hockey-blitz.json) |
