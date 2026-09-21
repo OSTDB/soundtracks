@@ -2597,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hina-chan Breaker: 2nd Break | 212293 | [212293-hina-chan-breaker-2nd-break.json](./212293-hina-chan-breaker-2nd-break.json) |
 | Hina-chan no Yakiniku Party | 208404 | [208404-hina-chan-no-yakiniku-party.json](./208404-hina-chan-no-yakiniku-party.json) |
 | Hina-chan's Sticker Survival | 315088 | [315088-hina-chans-sticker-survival.json](./315088-hina-chans-sticker-survival.json) |
+| Hind Strike | 42215 | [42215-hind-strike.json](./42215-hind-strike.json) |
 | Hinekuremono no Gakuen Seishun Monogatari: Ore to Kanojo no Reversible | 194557 | [194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json](./194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json) |
 | Hinge VR | 141170 | [141170-hinge-vr.json](./141170-hinge-vr.json) |
 | Hinokakera the Fragments of Innocent Sinner | 64642 | [64642-hinokakera-the-fragments-of-innocent-sinner.json](./64642-hinokakera-the-fragments-of-innocent-sinner.json) |
@@ -3605,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Party: Valentine's Day Holiday Pack | 287076 | [287076-house-party-valentines-day-holiday-pack.json](./287076-house-party-valentines-day-holiday-pack.json) |
 | House spirit cat | 279768 | [279768-house-spirit-cat.json](./279768-house-spirit-cat.json) |
 | House with Puzzles | 274762 | [274762-house-with-puzzles.json](./274762-house-with-puzzles.json) |
+| Household Budget Management | 42197 | [42197-household-budget-management.json](./42197-household-budget-management.json) |
 | Housekeeper: Anomaly | 350532 | [350532-housekeeper-anomaly.json](./350532-housekeeper-anomaly.json) |
 | Housekeeping to Room 501 | 325267 | [325267-housekeeping-to-room-501.json](./325267-housekeeping-to-room-501.json) |
 | Housemates | 291063 | [291063-housemates.json](./291063-housemates.json) |
@@ -4088,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Ski | 385739 | [385739-hyper-ski.json](./385739-hyper-ski.json) |
 | Hyper Sports | 6115 | [6115-hyper-sports.json](./6115-hyper-sports.json) |
 | Hyper Street Fighter II: The Anniversary Edition | 45198 | [45198-hyper-street-fighter-ii-the-anniversary-edition.json](./45198-hyper-street-fighter-ii-the-anniversary-edition.json) |
+| Hyper Street Kart | 42206 | [42206-hyper-street-kart.json](./42206-hyper-street-kart.json) |
 | Hyper Strike | 151179 | [151179-hyper-strike.json](./151179-hyper-strike.json) |
 | Hyper Tank | 94672 | [94672-hyper-tank.json](./94672-hyper-tank.json) |
 | Hyper Team Recon | 138209 | [138209-hyper-team-recon.json](./138209-hyper-team-recon.json) |
