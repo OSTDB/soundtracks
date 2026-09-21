@@ -1859,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura Burst Re:Newal - Miyabi Character and Campaign | 248315 | [248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json](./248315-senran-kagura-burst-re-newal-miyabi-character-and-campaign.json) |
 | Senran Kagura Burst Re:Newal - Yumi Character and Campaign | 248311 | [248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json](./248311-senran-kagura-burst-re-newal-yumi-character-and-campaign.json) |
 | Senran Kagura Reflexions | 28129 | [28129-senran-kagura-reflexions.json](./28129-senran-kagura-reflexions.json) |
+| Senran Kagura: Estival Versus | 11006 | [11006-senran-kagura-estival-versus.json](./11006-senran-kagura-estival-versus.json) |
 | Senran Kagura: Estival Versus - Endless Summer Edition | 42677 | [42677-senran-kagura-estival-versus-endless-summer-edition.json](./42677-senran-kagura-estival-versus-endless-summer-edition.json) |
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
@@ -2225,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
 | Shadow Council: The Puppeteers | 102949 | [102949-shadow-council-the-puppeteers.json](./102949-shadow-council-the-puppeteers.json) |
 | Shadow Dancer | 308420 | [308420-shadow-dancer.json](./308420-shadow-dancer.json) |
+| Shadow Dancer: The Secret of Shinobi | 10217 | [10217-shadow-dancer-the-secret-of-shinobi.json](./10217-shadow-dancer-the-secret-of-shinobi.json) |
 | Shadow Dream | 330306 | [330306-shadow-dream.json](./330306-shadow-dream.json) |
 | Shadow Dwellers: Deliverance | 391729 | [391729-shadow-dwellers-deliverance.json](./391729-shadow-dwellers-deliverance.json) |
 | Shadow Eclipse | 166766 | [166766-shadow-eclipse.json](./166766-shadow-eclipse.json) |
@@ -2281,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of The Forgotten | 336006 | [336006-shadow-of-the-forgotten.json](./336006-shadow-of-the-forgotten.json) |
 | Shadow of the Game | 54355 | [54355-shadow-of-the-game.json](./54355-shadow-of-the-game.json) |
 | Shadow of the Night: Monsters | 256339 | [256339-shadow-of-the-night-monsters.json](./256339-shadow-of-the-night-monsters.json) |
+| Shadow of the Ninja | 9154 | [9154-shadow-of-the-ninja.json](./9154-shadow-of-the-ninja.json) |
 | Shadow of the Ninja Reborn: Deluxe Edition | 317229 | [317229-shadow-of-the-ninja-reborn-deluxe-edition.json](./317229-shadow-of-the-ninja-reborn-deluxe-edition.json) |
 | Shadow of the Road | 124209 | [124209-shadow-of-the-road.json](./124209-shadow-of-the-road.json) |
 | Shadow of the Tomb Raider: The Path Home | 117711 | [117711-shadow-of-the-tomb-raider-the-path-home.json](./117711-shadow-of-the-tomb-raider-the-path-home.json) |
@@ -3039,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi Shodan Icchokusen | 42032 | [42032-shogi-shodan-icchokusen.json](./42032-shogi-shodan-icchokusen.json) |
 | Shogi Shoshisha Muyo | 42031 | [42031-shogi-shoshisha-muyo.json](./42031-shogi-shoshisha-muyo.json) |
 | Shogi Wars | 312359 | [312359-shogi-wars.json](./312359-shogi-wars.json) |
+| Shogo: Mobile Armor Division | 12464 | [12464-shogo-mobile-armor-division.json](./12464-shogo-mobile-armor-division.json) |
 | Shogun Castle | 336590 | [336590-shogun-castle.json](./336590-shogun-castle.json) |
 | Shogun Warriors | 39584 | [39584-shogun-warriors.json](./39584-shogun-warriors.json) |
 | Shogun: Total War - Mongol Invasion | 443 | [443-shogun-total-war-mongol-invasion.json](./443-shogun-total-war-mongol-invasion.json) |
@@ -5489,6 +5493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solasta: Lightbringers Edition | 251208 | [251208-solasta-lightbringers-edition.json](./251208-solasta-lightbringers-edition.json) |
 | Solbot Energy Rush | 105401 | [105401-solbot-energy-rush.json](./105401-solbot-energy-rush.json) |
 | Solcialists | 272581 | [272581-solcialists.json](./272581-solcialists.json) |
+| Soldat | 8722 | [8722-soldat.json](./8722-soldat.json) |
 | Soldier Blade Special: Caravan Stage | 42024 | [42024-soldier-blade-special-caravan-stage.json](./42024-soldier-blade-special-caravan-stage.json) |
 | Soldier Blaster | 412972 | [412972-soldier-blaster.json](./412972-soldier-blaster.json) |
 | Soldier Boyz | 69225 | [69225-soldier-boyz.json](./69225-soldier-boyz.json) |
@@ -7627,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Talk Baseball | 46261 | [46261-sports-talk-baseball.json](./46261-sports-talk-baseball.json) |
 | Sports: Renovations | 314456 | [314456-sports-renovations.json](./314456-sports-renovations.json) |
 | SportsBarVR | 52837 | [52837-sportsbarvr.json](./52837-sportsbarvr.json) |
+| Sportsfriends | 9865 | [9865-sportsfriends.json](./9865-sportsfriends.json) |
 | Spot | 119584 | [119584-spot.json](./119584-spot.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
