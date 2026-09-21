@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Game: Pinball | 384069 | [384069-lawnmower-game-pinball.json](./384069-lawnmower-game-pinball.json) |
 | LawnMower: Mortal Race | 219284 | [219284-lawnmower-mortal-race.json](./219284-lawnmower-mortal-race.json) |
 | Lawnpocalypse | 379370 | [379370-lawnpocalypse.json](./379370-lawnpocalypse.json) |
+| Laxius Force | 50802 | [50802-laxius-force.json](./50802-laxius-force.json) |
 | Laxius Power II | 72040 | [72040-laxius-power-ii.json](./72040-laxius-power-ii.json) |
 | Laxius Soul | 287223 | [287223-laxius-soul.json](./287223-laxius-soul.json) |
 | Laxy Bro | 61037 | [61037-laxy-bro.json](./61037-laxy-bro.json) |
@@ -912,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Eisenwald | 10388 | [10388-legends-of-eisenwald.json](./10388-legends-of-eisenwald.json) |
 | Legends of Elementia | 262957 | [262957-legends-of-elementia.json](./262957-legends-of-elementia.json) |
 | Legends of Elumia | 330891 | [330891-legends-of-elumia.json](./330891-legends-of-elumia.json) |
+| Legends of Fate | 50857 | [50857-legends-of-fate.json](./50857-legends-of-fate.json) |
 | Legends of Future Past | 65515 | [65515-legends-of-future-past.json](./65515-legends-of-future-past.json) |
 | Legends of Heropolis | 202851 | [202851-legends-of-heropolis.json](./202851-legends-of-heropolis.json) |
 | Legends Of Heropolis DX | 317840 | [317840-legends-of-heropolis-dx.json](./317840-legends-of-heropolis-dx.json) |
