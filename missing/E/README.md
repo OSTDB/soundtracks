@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ears of the Killer | 206957 | [206957-ears-of-the-killer.json](./206957-ears-of-the-killer.json) |
 | Earth 2025 | 92497 | [92497-earth-2025.json](./92497-earth-2025.json) |
 | Earth 2140: Mission Pack 1 | 79919 | [79919-earth-2140-mission-pack-1.json](./79919-earth-2140-mission-pack-1.json) |
+| Earth 2150 | 8932 | [8932-earth-2150.json](./8932-earth-2150.json) |
 | Earth and Legend | 205086 | [205086-earth-and-legend.json](./205086-earth-and-legend.json) |
 | Earth and Sky | 9427 | [9427-earth-and-sky.json](./9427-earth-and-sky.json) |
 | Earth and Sky 2: Another Earth, Another Sky | 9504 | [9504-earth-and-sky-2-another-earth-another-sky.json](./9504-earth-and-sky-2-another-earth-another-sky.json) |
@@ -235,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi: Time to Oppai | 349303 | [349303-ecchi-time-to-oppai.json](./349303-ecchi-time-to-oppai.json) |
 | Ecco 2: Sentinels of the Universe | 19682 | [19682-ecco-2-sentinels-of-the-universe.json](./19682-ecco-2-sentinels-of-the-universe.json) |
 | Ecco the Dolphin | 5378 | [5378-ecco-the-dolphin.json](./5378-ecco-the-dolphin.json) |
+| Ecco the Dolphin: Defender of the Future | 9188 | [9188-ecco-the-dolphin-defender-of-the-future.json](./9188-ecco-the-dolphin-defender-of-the-future.json) |
 | ECH8 | 395554 | [395554-ech8.json](./395554-ech8.json) |
 | Echelon | 269106 | [269106-echelon.json](./269106-echelon.json) |
 | Echelon | 277845 | [277845-echelon.json](./277845-echelon.json) |
@@ -255,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo in Capistrano | 303510 | [303510-echo-in-capistrano.json](./303510-echo-in-capistrano.json) |
 | Echo Night | 9514 | [9514-echo-night.json](./9514-echo-night.json) |
 | Echo Night 2: Nemuri no Shihaisha | 43882 | [43882-echo-night-2-nemuri-no-shihaisha.json](./43882-echo-night-2-nemuri-no-shihaisha.json) |
+| Echo Night: Beyond | 9515 | [9515-echo-night-beyond.json](./9515-echo-night-beyond.json) |
 | Echo Night: The First Voyage | 213604 | [213604-echo-night-the-first-voyage.json](./213604-echo-night-the-first-voyage.json) |
 | Echo of Extinction | 274039 | [274039-echo-of-extinction.json](./274039-echo-of-extinction.json) |
 | Echo of Mobius | 303509 | [303509-echo-of-mobius.json](./303509-echo-of-mobius.json) |
