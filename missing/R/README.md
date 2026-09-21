@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality Check 3 | 70372 | [70372-reality-check-3.json](./70372-reality-check-3.json) |
 | Reality Core | 309677 | [309677-reality-core.json](./309677-reality-core.json) |
 | Reality Mod | 209539 | [209539-reality-mod.json](./209539-reality-mod.json) |
+| Reality Raiders | 44216 | [44216-reality-raiders.json](./44216-reality-raiders.json) |
 | Reality Rifts | 320517 | [320517-reality-rifts.json](./320517-reality-rifts.json) |
 | Reality's Reverse Side | 156523 | [156523-realitys-reverse-side.json](./156523-realitys-reverse-side.json) |
 | RealityMinds | 165651 | [165651-realityminds.json](./165651-realityminds.json) |
@@ -1792,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team | 36019 | [36019-rescue-team.json](./36019-rescue-team.json) |
 | Rescue Team 4 | 53502 | [53502-rescue-team-4.json](./53502-rescue-team-4.json) |
 | Rescue Team 6 | 53503 | [53503-rescue-team-6.json](./53503-rescue-team-6.json) |
+| Rescue Team 7 | 44193 | [44193-rescue-team-7.json](./44193-rescue-team-7.json) |
 | Rescue Team 7: Collector's Edition | 53504 | [53504-rescue-team-7-collectors-edition.json](./53504-rescue-team-7-collectors-edition.json) |
 | Rescue Team 8 | 122212 | [122212-rescue-team-8.json](./122212-rescue-team-8.json) |
 | Rescue Team: Attack of the Atom - Collector's Edition | 337626 | [337626-rescue-team-attack-of-the-atom-collectors-edition.json](./337626-rescue-team-attack-of-the-atom-collectors-edition.json) |
