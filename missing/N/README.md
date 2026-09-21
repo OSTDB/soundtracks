@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbourhood Cat | 214510 | [214510-neighbourhood-cat.json](./214510-neighbourhood-cat.json) |
 | Neighbourhood Necromancer | 36451 | [36451-neighbourhood-necromancer.json](./36451-neighbourhood-necromancer.json) |
 | Neighbours back From Hell | 139447 | [139447-neighbours-back-from-hell.json](./139447-neighbours-back-from-hell.json) |
+| Neighbours from Hell | 3132 | [3132-neighbours-from-hell.json](./3132-neighbours-from-hell.json) |
 | Neighbours: The Adventure | 267373 | [267373-neighbours-the-adventure.json](./267373-neighbours-the-adventure.json) |
 | Neil The Nail | 270742 | [270742-neil-the-nail.json](./270742-neil-the-nail.json) |
 | Nekketsu Dodgeball-bu i | 191804 | [191804-nekketsu-dodgeball-bu-i.json](./191804-nekketsu-dodgeball-bu-i.json) |
