@@ -5269,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
 | Sokoban | 47946 | [47946-sokoban.json](./47946-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
+| Sokoban Land DX | 44206 | [44206-sokoban-land-dx.json](./44206-sokoban-land-dx.json) |
 | Sokoban World | 308565 | [308565-sokoban-world.json](./308565-sokoban-world.json) |
 | Sokoban: Bunny Tales | 168220 | [168220-sokoban-bunny-tales.json](./168220-sokoban-bunny-tales.json) |
 | Sokobear: Autumn | 219591 | [219591-sokobear-autumn.json](./219591-sokobear-autumn.json) |
@@ -7255,6 +7256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Mystery: The Moon Crystal | 187959 | [187959-spirits-of-mystery-the-moon-crystal.json](./187959-spirits-of-mystery-the-moon-crystal.json) |
 | Spirits of the Silicium Forest | 237049 | [237049-spirits-of-the-silicium-forest.json](./237049-spirits-of-the-silicium-forest.json) |
 | Spirits of Yendor | 216879 | [216879-spirits-of-yendor.json](./216879-spirits-of-yendor.json) |
+| Spirits: Ciel Bleu | 44214 | [44214-spirits-ciel-bleu.json](./44214-spirits-ciel-bleu.json) |
 | Spirits' Forest | 383366 | [383366-spirits-forest.json](./383366-spirits-forest.json) |
 | Spiritual Bond: Breaking the Curse, Intertwining Fates | 316635 | [316635-spiritual-bond-breaking-the-curse-intertwining-fates.json](./316635-spiritual-bond-breaking-the-curse-intertwining-fates.json) |
 | Spiritually Unemployed | 375832 | [375832-spiritually-unemployed.json](./375832-spiritually-unemployed.json) |
@@ -7609,6 +7611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square | 208591 | [208591-square.json](./208591-square.json) |
 | Square | 247020 | [247020-square.json](./247020-square.json) |
 | Square & Circles | 352292 | [352292-square-and-circles.json](./352292-square-and-circles.json) |
+| Square Box | 44185 | [44185-square-box.json](./44185-square-box.json) |
 | Square Deal: The Game of Two Dimensional Poker | 7815 | [7815-square-deal-the-game-of-two-dimensional-poker.json](./7815-square-deal-the-game-of-two-dimensional-poker.json) |
 | Square Enix Masterpieces: Tomb Raider Bundle | 286664 | [286664-square-enix-masterpieces-tomb-raider-bundle.json](./286664-square-enix-masterpieces-tomb-raider-bundle.json) |
 | Square Fighters | 131591 | [131591-square-fighters.json](./131591-square-fighters.json) |
@@ -8981,6 +8984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stopots | 50157 | [50157-stopots.json](./50157-stopots.json) |
 | Stopping Santa | 335240 | [335240-stopping-santa.json](./335240-stopping-santa.json) |
 | StopSign | 167253 | [167253-stopsign.json](./167253-stopsign.json) |
+| StopTime Drive | 44226 | [44226-stoptime-drive.json](./44226-stoptime-drive.json) |
 | Storage Anomaly | 325821 | [325821-storage-anomaly.json](./325821-storage-anomaly.json) |
 | Storage Guys | 318046 | [318046-storage-guys.json](./318046-storage-guys.json) |
 | Storage Looter | 298154 | [298154-storage-looter.json](./298154-storage-looter.json) |
@@ -11443,6 +11447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swampstar | 201177 | [201177-swampstar.json](./201177-swampstar.json) |
 | Swampstar | 201178 | [201178-swampstar.json](./201178-swampstar.json) |
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
+| Swap Blocks | 44217 | [44217-swap-blocks.json](./44217-swap-blocks.json) |
 | Swap Heroes | 197242 | [197242-swap-heroes.json](./197242-swap-heroes.json) |
 | Swap the Matrix | 54417 | [54417-swap-the-matrix.json](./54417-swap-the-matrix.json) |
 | Swap: Mobile Edition | 250439 | [250439-swap-mobile-edition.json](./250439-swap-mobile-edition.json) |
