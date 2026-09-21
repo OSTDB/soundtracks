@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw Data/Sprint Vector | 139965 | [139965-raw-data-sprint-vector.json](./139965-raw-data-sprint-vector.json) |
 | Raw Element | 341307 | [341307-raw-element.json](./341307-raw-element.json) |
 | Raw Nerve | 253567 | [253567-raw-nerve.json](./253567-raw-nerve.json) |
+| Rawbots | 62969 | [62969-rawbots.json](./62969-rawbots.json) |
 | Rawisland | 267449 | [267449-rawisland.json](./267449-rawisland.json) |
 | Rawshire the Last Hatchling | 158214 | [158214-rawshire-the-last-hatchling.json](./158214-rawshire-the-last-hatchling.json) |
 | Rax Runner! | 338288 | [338288-rax-runner.json](./338288-rax-runner.json) |
@@ -2802,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robert: Space Stories and Battles | 190064 | [190064-robert-space-stories-and-battles.json](./190064-robert-space-stories-and-battles.json) |
 | Robes | 176343 | [176343-robes.json](./176343-robes.json) |
 | Robin & Orchid | 60013 | [60013-robin-and-orchid.json](./60013-robin-and-orchid.json) |
+| Robin Lloyd no Bouken | 62988 | [62988-robin-lloyd-no-bouken.json](./62988-robin-lloyd-no-bouken.json) |
 | Robin Morningwood Adventure: A Gay RPG | 156097 | [156097-robin-morningwood-adventure-a-gay-rpg.json](./156097-robin-morningwood-adventure-a-gay-rpg.json) |
 | Robin of Sherwood: The Touchstones of Rhiannon | 73825 | [73825-robin-of-sherwood-the-touchstones-of-rhiannon.json](./73825-robin-of-sherwood-the-touchstones-of-rhiannon.json) |
 | Robin's Quest: A Legend Born | 17223 | [17223-robins-quest-a-legend-born.json](./17223-robins-quest-a-legend-born.json) |
@@ -2927,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots 2 Unknown World | 105369 | [105369-robots-2-unknown-world.json](./105369-robots-2-unknown-world.json) |
 | Robots at Midnight | 276180 | [276180-robots-at-midnight.json](./276180-robots-at-midnight.json) |
 | Robots Coop | 174736 | [174736-robots-coop.json](./174736-robots-coop.json) |
+| Robots Love Ice Cream | 62997 | [62997-robots-love-ice-cream.json](./62997-robots-love-ice-cream.json) |
 | Robots under attack! | 129608 | [129608-robots-under-attack.json](./129608-robots-under-attack.json) |
 | Robots, Death & Venice | 172127 | [172127-robots-death-and-venice.json](./172127-robots-death-and-venice.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
