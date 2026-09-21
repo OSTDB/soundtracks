@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quinn's Aquarium | 354994 | [354994-quinns-aquarium.json](./354994-quinns-aquarium.json) |
 | Quinterra | 145023 | [145023-quinterra.json](./145023-quinterra.json) |
 | Quip Anomaly | 31938 | [31938-quip-anomaly.json](./31938-quip-anomaly.json) |
+| Quiplash | 11588 | [11588-quiplash.json](./11588-quiplash.json) |
 | Quirk | 139801 | [139801-quirk.json](./139801-quirk.json) |
 | Quit the Game to Win | 179167 | [179167-quit-the-game-to-win.json](./179167-quit-the-game-to-win.json) |
 | Quit Your Job | 413605 | [413605-quit-your-job.json](./413605-quit-your-job.json) |
