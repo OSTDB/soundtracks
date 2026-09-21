@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Rails | 89985 | [89985-open-rails.json](./89985-open-rails.json) |
 | Open Saber Plus | 343918 | [343918-open-saber-plus.json](./343918-open-saber-plus.json) |
 | Open School World | 297505 | [297505-open-school-world.json](./297505-open-school-world.json) |
+| Open Season | 4055 | [4055-open-season.json](./4055-open-season.json) |
 | Open Source Objects: The Game | 361751 | [361751-open-source-objects-the-game.json](./361751-open-source-objects-the-game.json) |
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
 | Open Star Fighter | 339288 | [339288-open-star-fighter.json](./339288-open-star-fighter.json) |
@@ -1770,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlanders: Hunt and Survive | 348854 | [348854-outlanders-hunt-and-survive.json](./348854-outlanders-hunt-and-survive.json) |
 | Outlanders: The Keeper's Shanty | 298174 | [298174-outlanders-the-keepers-shanty.json](./298174-outlanders-the-keepers-shanty.json) |
 | Outlands Safehouse | 405475 | [405475-outlands-safehouse.json](./405475-outlands-safehouse.json) |
+| Outlast: Bundle of Terror | 82441 | [82441-outlast-bundle-of-terror.json](./82441-outlast-bundle-of-terror.json) |
 | Outlast: Journey of a Gladiator | 157186 | [157186-outlast-journey-of-a-gladiator.json](./157186-outlast-journey-of-a-gladiator.json) |
 | Outlaw | 123065 | [123065-outlaw.json](./123065-outlaw.json) |
 | Outlaw 1997 | 148389 | [148389-outlaw-1997.json](./148389-outlaw-1997.json) |
