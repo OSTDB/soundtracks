@@ -3103,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Goddess | 255177 | [255177-guardian-goddess.json](./255177-guardian-goddess.json) |
 | Guardian Goddess | 291577 | [291577-guardian-goddess.json](./291577-guardian-goddess.json) |
 | Guardian Hearts Online | 64445 | [64445-guardian-hearts-online.json](./64445-guardian-hearts-online.json) |
+| Guardian Kingdoms | 54686 | [54686-guardian-kingdoms.json](./54686-guardian-kingdoms.json) |
 | Guardian Legend | 284351 | [284351-guardian-legend.json](./284351-guardian-legend.json) |
 | Guardian Master VR | 113735 | [113735-guardian-master-vr.json](./113735-guardian-master-vr.json) |
 | Guardian of Altai | 362923 | [362923-guardian-of-altai.json](./362923-guardian-of-altai.json) |
