@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpath | 229007 | [229007-outpath.json](./229007-outpath.json) |
 | Outpost | 100123 | [100123-outpost.json](./100123-outpost.json) |
 | Outpost 13 | 35744 | [35744-outpost-13.json](./35744-outpost-13.json) |
+| Outpost 2: Divided Destiny | 50138 | [50138-outpost-2-divided-destiny.json](./50138-outpost-2-divided-destiny.json) |
 | Outpost 3 | 312729 | [312729-outpost-3.json](./312729-outpost-3.json) |
 | Outpost Delta | 123030 | [123030-outpost-delta.json](./123030-outpost-delta.json) |
 | Outpost L5 | 50509 | [50509-outpost-l5.json](./50509-outpost-l5.json) |
