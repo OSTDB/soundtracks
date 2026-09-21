@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacif Warriors 2 | 43538 | [43538-pacif-warriors-2.json](./43538-pacif-warriors-2.json) |
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
+| Pacific Strike | 14562 | [14562-pacific-strike.json](./14562-pacific-strike.json) |
 | Pacific Warships | 254748 | [254748-pacific-warships.json](./254748-pacific-warships.json) |
 | Pacifish | 203545 | [203545-pacifish.json](./203545-pacifish.json) |
 | Pacifix War Iwo Jima | 231922 | [231922-pacifix-war-iwo-jima.json](./231922-pacifix-war-iwo-jima.json) |
@@ -3897,6 +3898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
 | Pool: 8 Ball Billiards | 173139 | [173139-pool-8-ball-billiards.json](./173139-pool-8-ball-billiards.json) |
 | Pool: 8 Ball Mania | 213386 | [213386-pool-8-ball-mania.json](./213386-pool-8-ball-mania.json) |
+| Pool:Shark | 14532 | [14532-pool-shark.json](./14532-pool-shark.json) |
 | Pool! | 88287 | [88287-pool.json](./88287-pool.json) |
 | Poolcore | 238742 | [238742-poolcore.json](./238742-poolcore.json) |
 | Poolcore: Submersion | 354485 | [354485-poolcore-submersion.json](./354485-poolcore-submersion.json) |
