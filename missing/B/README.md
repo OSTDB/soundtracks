@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleCourt | 132219 | [132219-battlecourt.json](./132219-battlecourt.json) |
 | BattleCrew: Space Pirates | 26807 | [26807-battlecrew-space-pirates.json](./26807-battlecrew-space-pirates.json) |
 | Battlecruiser 3000AD | 77288 | [77288-battlecruiser-3000ad.json](./77288-battlecruiser-3000ad.json) |
+| Battlecruiser Millennium | 61898 | [61898-battlecruiser-millennium.json](./61898-battlecruiser-millennium.json) |
 | BattleCry | 7210 | [7210-battlecry.json](./7210-battlecry.json) |
 | Battlecry Berserkers | 277288 | [277288-battlecry-berserkers.json](./277288-battlecry-berserkers.json) |
 | BattleCrypt Bombers | 226238 | [226238-battlecrypt-bombers.json](./226238-battlecrypt-bombers.json) |
@@ -2386,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigface Marsh | 179179 | [179179-bigface-marsh.json](./179179-bigface-marsh.json) |
 | BigFool | 307942 | [307942-bigfool.json](./307942-bigfool.json) |
 | Bigfoot Bonkers | 18117 | [18117-bigfoot-bonkers.json](./18117-bigfoot-bonkers.json) |
+| Bigfoot Hunter | 61902 | [61902-bigfoot-hunter.json](./61902-bigfoot-hunter.json) |
 | Bigfoot Hunting | 353950 | [353950-bigfoot-hunting.json](./353950-bigfoot-hunting.json) |
 | Bigfoot Monster Hunter | 97050 | [97050-bigfoot-monster-hunter.json](./97050-bigfoot-monster-hunter.json) |
 | Bigfoot vs. Scots | 244257 | [244257-bigfoot-vs-scots.json](./244257-bigfoot-vs-scots.json) |
@@ -4331,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundary: Elite Cosmetic Bundle Founders Pack | 263047 | [263047-boundary-elite-cosmetic-bundle-founders-pack.json](./263047-boundary-elite-cosmetic-bundle-founders-pack.json) |
 | Bounded Box | 176426 | [176426-bounded-box.json](./176426-bounded-box.json) |
 | Boundel | 33230 | [33230-boundel.json](./33230-boundel.json) |
+| Bounden | 61876 | [61876-bounden.json](./61876-bounden.json) |
 | Boundless | 369560 | [369560-boundless.json](./369560-boundless.json) |
 | Boundless Skies | 278969 | [278969-boundless-skies.json](./278969-boundless-skies.json) |
 | Bounters | 199119 | [199119-bounters.json](./199119-bounters.json) |
@@ -4457,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxocost | 144962 | [144962-boxocost.json](./144962-boxocost.json) |
 | Boxpast Lov3you | 392301 | [392301-boxpast-lov3you.json](./392301-boxpast-lov3you.json) |
 | BoxRunner | 107901 | [107901-boxrunner.json](./107901-boxrunner.json) |
+| Boxsplodings | 61911 | [61911-boxsplodings.json](./61911-boxsplodings.json) |
 | Boxstacker | 349369 | [349369-boxstacker.json](./349369-boxstacker.json) |
 | BoxTheTop | 113730 | [113730-boxthetop.json](./113730-boxthetop.json) |
 | Boxville | 190160 | [190160-boxville.json](./190160-boxville.json) |
@@ -5207,6 +5211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddi Bot: Your Machine Learning AI Helper With Advanced Neural Networking! | 166720 | [166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json](./166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json) |
 | Budding Destiny | 316649 | [316649-budding-destiny.json](./316649-budding-destiny.json) |
 | Buddy & Friends: Santa's Workshop Animal Party | 283299 | [283299-buddy-and-friends-santas-workshop-animal-party.json](./283299-buddy-and-friends-santas-workshop-animal-party.json) |
+| Buddy & Me | 61874 | [61874-buddy-and-me.json](./61874-buddy-and-me.json) |
 | Buddy Bug | 335359 | [335359-buddy-bug.json](./335359-buddy-bug.json) |
 | Buddy Collection | 241521 | [241521-buddy-collection.json](./241521-buddy-collection.json) |
 | Buddy Shell | 328071 | [328071-buddy-shell.json](./328071-buddy-shell.json) |
@@ -5564,6 +5569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
 | Burrito Bison | 284172 | [284172-burrito-bison.json](./284172-burrito-bison.json) |
 | Burrito Bison: Launcha Libre | 80360 | [80360-burrito-bison-launcha-libre.json](./80360-burrito-bison-launcha-libre.json) |
+| Burrito Galaxy 65 | 61875 | [61875-burrito-galaxy-65.json](./61875-burrito-galaxy-65.json) |
 | Burrow | 158717 | [158717-burrow.json](./158717-burrow.json) |
 | Burst Error: Eve the First | 59434 | [59434-burst-error-eve-the-first.json](./59434-burst-error-eve-the-first.json) |
 | Burst Hero | 237042 | [237042-burst-hero.json](./237042-burst-hero.json) |
