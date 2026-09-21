@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackal | 212707 | [212707-jackal.json](./212707-jackal.json) |
 | Jackie Chan in Fists of Fire | 39606 | [39606-jackie-chan-in-fists-of-fire.json](./39606-jackie-chan-in-fists-of-fire.json) |
 | Jackie Chan: The Kung-Fu Master | 39607 | [39607-jackie-chan-the-kung-fu-master.json](./39607-jackie-chan-the-kung-fu-master.json) |
+| Jackie Chan's Action Kung Fu | 12522 | [12522-jackie-chans-action-kung-fu.json](./12522-jackie-chans-action-kung-fu.json) |
 | Jackpoison | 361689 | [361689-jackpoison.json](./361689-jackpoison.json) |
 | Jackpot | 246954 | [246954-jackpot.json](./246954-jackpot.json) |
 | Jackpot 777 | 85201 | [85201-jackpot-777.json](./85201-jackpot-777.json) |
@@ -739,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jockey Zero | 143662 | [143662-jockey-zero.json](./143662-jockey-zero.json) |
 | Jockey's Road | 62228 | [62228-jockeys-road.json](./62228-jockeys-road.json) |
 | Jocky Wilson's Compendium of Darts | 45352 | [45352-jocky-wilsons-compendium-of-darts.json](./45352-jocky-wilsons-compendium-of-darts.json) |
+| Joe & Mac | 213880 | [213880-joe-and-mac.json](./213880-joe-and-mac.json) |
 | Joe & Mac: Caveman Ninja HD Remake | 83906 | [83906-joe-and-mac-caveman-ninja-hd-remake.json](./83906-joe-and-mac-caveman-ninja-hd-remake.json) |
 | Joe Biden For The PS2 2: Re-elected | 268202 | [268202-joe-biden-for-the-ps2-2-re-elected.json](./268202-joe-biden-for-the-ps2-2-re-elected.json) |
 | Joe Biden: Escape From MAGA | 263790 | [263790-joe-biden-escape-from-maga.json](./263790-joe-biden-escape-from-maga.json) |
