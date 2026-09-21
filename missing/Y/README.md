@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurutto Manaberu Tetsugaku | 260694 | [260694-yurutto-manaberu-tetsugaku.json](./260694-yurutto-manaberu-tetsugaku.json) |
 | Yury | 17823 | [17823-yury.json](./17823-yury.json) |
 | Yusha no Hanamichi | 331863 | [331863-yusha-no-hanamichi.json](./331863-yusha-no-hanamichi.json) |
+| Yusha: Heaven's Gate | 44868 | [44868-yusha-heavens-gate.json](./44868-yusha-heavens-gate.json) |
 | Yuugao | 308415 | [308415-yuugao.json](./308415-yuugao.json) |
 | Yuugen Gaisha Chikyuu Boueitai | 166152 | [166152-yuugen-gaisha-chikyuu-boueitai.json](./166152-yuugen-gaisha-chikyuu-boueitai.json) |
 | Yuugen Mikaidou Tanteisha 1-Shou | 221260 | [221260-yuugen-mikaidou-tanteisha-1-shou.json](./221260-yuugen-mikaidou-tanteisha-1-shou.json) |
