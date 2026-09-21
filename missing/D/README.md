@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Corners | 404867 | [404867-darkest-corners.json](./404867-darkest-corners.json) |
 | Darkest Days | 332225 | [332225-darkest-days.json](./332225-darkest-days.json) |
 | Darkest Descent | 370670 | [370670-darkest-descent.json](./370670-darkest-descent.json) |
+| Darkest Dungeon II | 115425 | [115425-darkest-dungeon-ii.json](./115425-darkest-dungeon-ii.json) |
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
 | Darkest Dungeon: The Butcher's Circus | 172134 | [172134-darkest-dungeon-the-butchers-circus.json](./172134-darkest-dungeon-the-butchers-circus.json) |
 | Darkest Dungeon: The Shieldbreaker | 111167 | [111167-darkest-dungeon-the-shieldbreaker.json](./111167-darkest-dungeon-the-shieldbreaker.json) |
@@ -1305,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Night | 207405 | [207405-deadly-night.json](./207405-deadly-night.json) |
 | Deadly Nightmare | 190084 | [190084-deadly-nightmare.json](./190084-deadly-nightmare.json) |
 | Deadly Parkour | 295407 | [295407-deadly-parkour.json](./295407-deadly-parkour.json) |
+| Deadly Premonition | 1276 | [1276-deadly-premonition.json](./1276-deadly-premonition.json) |
 | Deadly Premonition: The Director's Cut - Classified Edition | 51538 | [51538-deadly-premonition-the-directors-cut-classified-edition.json](./51538-deadly-premonition-the-directors-cut-classified-edition.json) |
 | Deadly Premonition: The Director's Cut Ultimate Edition | 26925 | [26925-deadly-premonition-the-directors-cut-ultimate-edition.json](./26925-deadly-premonition-the-directors-cut-ultimate-edition.json) |
 | Deadly Rehearsal | 326599 | [326599-deadly-rehearsal.json](./326599-deadly-rehearsal.json) |
@@ -3324,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Chip 'n Dale Rescue Rangers: The Adventure in Nimnul's Castle | 78641 | [78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json](./78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json) |
 | Disney's Cinderella: Magical Dreams | 49376 | [49376-disneys-cinderella-magical-dreams.json](./49376-disneys-cinderella-magical-dreams.json) |
 | Disney's Classic Games | 205612 | [205612-disneys-classic-games.json](./205612-disneys-classic-games.json) |
+| Disney's Darkwing Duck | 8452 | [8452-disneys-darkwing-duck.json](./8452-disneys-darkwing-duck.json) |
 | Disney's Dinosaur Activity Center | 72123 | [72123-disneys-dinosaur-activity-center.json](./72123-disneys-dinosaur-activity-center.json) |
 | Disney's Donald Duck Advance | 63272 | [63272-disneys-donald-duck-advance.json](./63272-disneys-donald-duck-advance.json) |
 | Disney's Doug: Doug's Big Game | 49942 | [49942-disneys-doug-dougs-big-game.json](./49942-disneys-doug-dougs-big-game.json) |
