@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayarigami Portable: Keishichou Kaii Jiken File | 79329 | [79329-hayarigami-portable-keishichou-kaii-jiken-file.json](./79329-hayarigami-portable-keishichou-kaii-jiken-file.json) |
 | Hayate no Gotoku! Boku ga Romeo de Romeo ga Boku de | 78727 | [78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json](./78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json) |
 | Hayate no Gotoku! Ojousama Produce Daisakusen Boku Iro ni Somare! | 72684 | [72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json](./72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json) |
+| Hayauchi Super Igo | 48329 | [48329-hayauchi-super-igo.json](./48329-hayauchi-super-igo.json) |
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
 | Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
 | Haypi Monster 3 | 129610 | [129610-haypi-monster-3.json](./129610-haypi-monster-3.json) |
@@ -3051,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Bunny | 265699 | [265699-honey-bunny.json](./265699-honey-bunny.json) |
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
 | Honey Magician | 277969 | [277969-honey-magician.json](./277969-honey-magician.json) |
+| Honey Peach | 48307 | [48307-honey-peach.json](./48307-honey-peach.json) |
 | Honey Select 2: Libido | 134622 | [134622-honey-select-2-libido.json](./134622-honey-select-2-libido.json) |
 | Honey Toast | 207508 | [207508-honey-toast.json](./207508-honey-toast.json) |
 | Honey Trap Amnesia | 371915 | [371915-honey-trap-amnesia.json](./371915-honey-trap-amnesia.json) |
