@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent X: Equation Rider | 81754 | [81754-agent-x-equation-rider.json](./81754-agent-x-equation-rider.json) |
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
 | Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
+| Aggressive Inline | 3783 | [3783-aggressive-inline.json](./3783-aggressive-inline.json) |
 | Aggressor | 13241 | [13241-aggressor.json](./13241-aggressor.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
@@ -4930,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis: The Last Resort | 45947 | [45947-atlantis-the-last-resort.json](./45947-atlantis-the-last-resort.json) |
 | Atlantis: The Lost Empire - The Lost Games | 132153 | [132153-atlantis-the-lost-empire-the-lost-games.json](./132153-atlantis-the-lost-empire-the-lost-games.json) |
 | Atlantis: Underwater Tycoon | 24091 | [24091-atlantis-underwater-tycoon.json](./24091-atlantis-underwater-tycoon.json) |
+| Atlas | 113116 | [113116-atlas.json](./113116-atlas.json) |
 | Atlas Architect | 157191 | [157191-atlas-architect.json](./157191-atlas-architect.json) |
 | Atlas Earth: Buy Virtual Land | 247217 | [247217-atlas-earth-buy-virtual-land.json](./247217-atlas-earth-buy-virtual-land.json) |
 | Atlas Fallen: Limited Edition | 252210 | [252210-atlas-fallen-limited-edition.json](./252210-atlas-fallen-limited-edition.json) |
