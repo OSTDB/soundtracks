@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Platform | 112752 | [112752-war-platform.json](./112752-war-platform.json) |
 | War Remains | 124265 | [124265-war-remains.json](./124265-war-remains.json) |
 | War Robots Shooting Simulator | 270181 | [270181-war-robots-shooting-simulator.json](./270181-war-robots-shooting-simulator.json) |
+| War Robots VR: The Skirmish | 55477 | [55477-war-robots-vr-the-skirmish.json](./55477-war-robots-vr-the-skirmish.json) |
 | War Robots: Frontiers - Lancelot Rising | 335099 | [335099-war-robots-frontiers-lancelot-rising.json](./335099-war-robots-frontiers-lancelot-rising.json) |
 | War Robots: Planet Defender | 127379 | [127379-war-robots-planet-defender.json](./127379-war-robots-planet-defender.json) |
 | War Room | 335325 | [335325-war-room.json](./335325-war-room.json) |
@@ -1977,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Spring 2 | 174732 | [174732-witch-spring-2.json](./174732-witch-spring-2.json) |
 | Witch Spring 4 | 174733 | [174733-witch-spring-4.json](./174733-witch-spring-4.json) |
 | Witch Stone | 165665 | [165665-witch-stone.json](./165665-witch-stone.json) |
+| Witch Thief | 55464 | [55464-witch-thief.json](./55464-witch-thief.json) |
 | Witch You Want | 318407 | [318407-witch-you-want.json](./318407-witch-you-want.json) |
 | Witch Zoe: Hentai Shuffle | 367969 | [367969-witch-zoe-hentai-shuffle.json](./367969-witch-zoe-hentai-shuffle.json) |
 | Witch: A Special Delivery | 178071 | [178071-witch-a-special-delivery.json](./178071-witch-a-special-delivery.json) |
