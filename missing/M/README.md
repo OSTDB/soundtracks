@@ -5361,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morph Animals | 266772 | [266772-morph-animals.json](./266772-morph-animals.json) |
 | Morph Space | 370153 | [370153-morph-space.json](./370153-morph-space.json) |
 | Morphcat Games Collection 1 | 191899 | [191899-morphcat-games-collection-1.json](./191899-morphcat-games-collection-1.json) |
+| Morpheus | 40966 | [40966-morpheus.json](./40966-morpheus.json) |
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
 | Morphology | 185075 | [185075-morphology.json](./185075-morphology.json) |
 | Morphscape: The Stylized Prop Pursuit | 301833 | [301833-morphscape-the-stylized-prop-pursuit.json](./301833-morphscape-the-stylized-prop-pursuit.json) |
