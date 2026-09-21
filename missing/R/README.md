@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Lightning | 57630 | [57630-red-lightning.json](./57630-red-lightning.json) |
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
 | Red Matter 2 | 198227 | [198227-red-matter-2.json](./198227-red-matter-2.json) |
+| Red Max | 49561 | [49561-red-max.json](./49561-red-max.json) |
 | Red Mercenary | 129127 | [129127-red-mercenary.json](./129127-red-mercenary.json) |
 | Red Mist | 131993 | [131993-red-mist.json](./131993-red-mist.json) |
 | Red Moon | 382317 | [382317-red-moon.json](./382317-red-moon.json) |
