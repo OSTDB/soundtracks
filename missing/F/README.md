@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 16 | 11071 | [11071-fifa-16.json](./11071-fifa-16.json) |
 | FIFA 19 | 96209 | [96209-fifa-19.json](./96209-fifa-19.json) |
 | FIFA 19: Ultimate Edition | 111047 | [111047-fifa-19-ultimate-edition.json](./111047-fifa-19-ultimate-edition.json) |
+| FIFA 20 | 114287 | [114287-fifa-20.json](./114287-fifa-20.json) |
 | FIFA 2001: Major League Soccer | 240243 | [240243-fifa-2001-major-league-soccer.json](./240243-fifa-2001-major-league-soccer.json) |
 | FIFA 22 | 240455 | [240455-fifa-22.json](./240455-fifa-22.json) |
 | FIFA 22: Legacy Edition | 155102 | [155102-fifa-22-legacy-edition.json](./155102-fifa-22-legacy-edition.json) |
