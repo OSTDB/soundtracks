@@ -1832,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invizimals | 2994 | [2994-invizimals.json](./2994-invizimals.json) |
 | Invizimals: The Alliance | 23417 | [23417-invizimals-the-alliance.json](./23417-invizimals-the-alliance.json) |
 | Invizimals: The Lost Kingdom | 23357 | [23357-invizimals-the-lost-kingdom.json](./23357-invizimals-the-lost-kingdom.json) |
+| Invokers Tournament | 60781 | [60781-invokers-tournament.json](./60781-invokers-tournament.json) |
 | Inzipid | 74476 | [74476-inzipid.json](./74476-inzipid.json) |
 | Inzo | 99609 | [99609-inzo.json](./99609-inzo.json) |
 | IOI Collection | 154503 | [154503-ioi-collection.json](./154503-ioi-collection.json) |
