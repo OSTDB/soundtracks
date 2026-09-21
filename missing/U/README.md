@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Farm | 184648 | [184648-under-the-farm.json](./184648-under-the-farm.json) |
 | Under the Island | 151501 | [151501-under-the-island.json](./151501-under-the-island.json) |
 | Under the Moon: Tsukiiro Ehon | 72682 | [72682-under-the-moon-tsukiiro-ehon.json](./72682-under-the-moon-tsukiiro-ehon.json) |
+| Under the Ocean | 50821 | [50821-under-the-ocean.json](./50821-under-the-ocean.json) |
 | Under the Rainbow: Prologue | 129010 | [129010-under-the-rainbow-prologue.json](./129010-under-the-rainbow-prologue.json) |
 | Under the Sand | 117364 | [117364-under-the-sand.json](./117364-under-the-sand.json) |
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
@@ -649,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unearther | 326245 | [326245-unearther.json](./326245-unearther.json) |
 | Unearthing Invasions | 302362 | [302362-unearthing-invasions.json](./302362-unearthing-invasions.json) |
 | Unearthing Mars 2: The Ancient War | 107243 | [107243-unearthing-mars-2-the-ancient-war.json](./107243-unearthing-mars-2-the-ancient-war.json) |
+| Unemployment Quest | 50803 | [50803-unemployment-quest.json](./50803-unemployment-quest.json) |
 | Unending | 260416 | [260416-unending.json](./260416-unending.json) |
 | Unending Dawn | 298846 | [298846-unending-dawn.json](./298846-unending-dawn.json) |
 | Unending Dusk | 104005 | [104005-unending-dusk.json](./104005-unending-dusk.json) |
