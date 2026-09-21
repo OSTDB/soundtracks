@@ -1547,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light of Reversing Destiny | 344362 | [344362-light-of-reversing-destiny.json](./344362-light-of-reversing-destiny.json) |
 | Light of the Eternal Night | 358922 | [358922-light-of-the-eternal-night.json](./358922-light-of-the-eternal-night.json) |
 | Light of the Locked World | 119762 | [119762-light-of-the-locked-world.json](./119762-light-of-the-locked-world.json) |
+| Light of the Mountain | 44213 | [44213-light-of-the-mountain.json](./44213-light-of-the-mountain.json) |
 | Light of the Past | 199480 | [199480-light-of-the-past.json](./199480-light-of-the-past.json) |
 | Light of Veilendor | 261779 | [261779-light-of-veilendor.json](./261779-light-of-veilendor.json) |
 | Light on Earth | 383971 | [383971-light-on-earth.json](./383971-light-on-earth.json) |
@@ -3207,6 +3208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunch Box Ready | 212458 | [212458-lunch-box-ready.json](./212458-lunch-box-ready.json) |
 | Lunch Lord: The Doom of Black Philip | 184634 | [184634-lunch-lord-the-doom-of-black-philip.json](./184634-lunch-lord-the-doom-of-black-philip.json) |
 | Lunch Rush HD | 87903 | [87903-lunch-rush-hd.json](./87903-lunch-rush-hd.json) |
+| Lunch Truck Tycoon 2 | 44220 | [44220-lunch-truck-tycoon-2.json](./44220-lunch-truck-tycoon-2.json) |
 | Lunch with Ronan | 292023 | [292023-lunch-with-ronan.json](./292023-lunch-with-ronan.json) |
 | Lunchy | 320401 | [320401-lunchy.json](./320401-lunchy.json) |
 | Lunera | 356673 | [356673-lunera.json](./356673-lunera.json) |
