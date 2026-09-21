@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ha/ck | 113710 | [113710-ha-ck.json](./113710-ha-ck.json) |
 | Habanero-tan House | 279758 | [279758-habanero-tan-house.json](./279758-habanero-tan-house.json) |
 | Habblet | 274195 | [274195-habblet.json](./274195-habblet.json) |
+| Habbo | 27522 | [27522-habbo.json](./27522-habbo.json) |
 | Habilis | 313898 | [313898-habilis.json](./313898-habilis.json) |
 | Habitat | 181243 | [181243-habitat.json](./181243-habitat.json) |
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
@@ -2003,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Mana | 14990 | [14990-heroes-of-mana.json](./14990-heroes-of-mana.json) |
 | Heroes of Might & Magic: Olden Era | 314543 | [314543-heroes-of-might-and-magic-olden-era.json](./314543-heroes-of-might-and-magic-olden-era.json) |
 | Heroes of Might and Magic II: Desecrated Lands | 223031 | [223031-heroes-of-might-and-magic-ii-desecrated-lands.json](./223031-heroes-of-might-and-magic-ii-desecrated-lands.json) |
+| Heroes of Might and Magic II: Gold | 51821 | [51821-heroes-of-might-and-magic-ii-gold.json](./51821-heroes-of-might-and-magic-ii-gold.json) |
 | Heroes of Might and Magic II: The Price of Loyalty | 7742 | [7742-heroes-of-might-and-magic-ii-the-price-of-loyalty.json](./7742-heroes-of-might-and-magic-ii-the-price-of-loyalty.json) |
 | Heroes of Might and Magic III: Complete | 51820 | [51820-heroes-of-might-and-magic-iii-complete.json](./51820-heroes-of-might-and-magic-iii-complete.json) |
 | Heroes of Might and Magic III: The Shadow of Death | 366 | [366-heroes-of-might-and-magic-iii-the-shadow-of-death.json](./366-heroes-of-might-and-magic-iii-the-shadow-of-death.json) |
@@ -2744,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3: The Splitter Pack | 357257 | [357257-hitman-3-the-splitter-pack.json](./357257-hitman-3-the-splitter-pack.json) |
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
 | Hitman Absolution: Elite Edition | 53210 | [53210-hitman-absolution-elite-edition.json](./53210-hitman-absolution-elite-edition.json) |
+| Hitman Go: Definitive Edition | 21580 | [21580-hitman-go-definitive-edition.json](./21580-hitman-go-definitive-edition.json) |
 | Hitman Reborn! | 174722 | [174722-hitman-reborn.json](./174722-hitman-reborn.json) |
 | Hitman Sniper: The Shadows | 144772 | [144772-hitman-sniper-the-shadows.json](./144772-hitman-sniper-the-shadows.json) |
 | Hitman World of Assassination | 233571 | [233571-hitman-world-of-assassination.json](./233571-hitman-world-of-assassination.json) |
