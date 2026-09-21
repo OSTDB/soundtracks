@@ -3343,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress | 319195 | [319195-fortress.json](./319195-fortress.json) |
 | Fortress 1024 | 261282 | [261282-fortress-1024.json](./261282-fortress-1024.json) |
 | Fortress 2 Blue | 340237 | [340237-fortress-2-blue.json](./340237-fortress-2-blue.json) |
+| Fortress Europe | 61897 | [61897-fortress-europe.json](./61897-fortress-europe.json) |
 | Fortress Forge | 310928 | [310928-fortress-forge.json](./310928-fortress-forge.json) |
 | Fortress of the Undead | 248075 | [248075-fortress-of-the-undead.json](./248075-fortress-of-the-undead.json) |
 | Fortress of Zorlac | 319579 | [319579-fortress-of-zorlac.json](./319579-fortress-of-zorlac.json) |
@@ -3827,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendsmob | 391590 | [391590-friendsmob.json](./391590-friendsmob.json) |
 | Frigate | 250923 | [250923-frigate.json](./250923-frigate.json) |
 | Fright Cops | 216459 | [216459-fright-cops.json](./216459-fright-cops.json) |
+| Fright Fight | 61901 | [61901-fright-fight.json](./61901-fright-fight.json) |
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
 | Fright Light | 31539 | [31539-fright-light.json](./31539-fright-light.json) |
 | Fright Night | 205031 | [205031-fright-night.json](./205031-fright-night.json) |
