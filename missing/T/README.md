@@ -7908,6 +7908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Biomes | 385071 | [385071-tiny-biomes.json](./385071-tiny-biomes.json) |
 | Tiny Boxes | 368574 | [368574-tiny-boxes.json](./368574-tiny-boxes.json) |
 | Tiny Brains | 7649 | [7649-tiny-brains.json](./7649-tiny-brains.json) |
+| Tiny Bullets | 4146 | [4146-tiny-bullets.json](./4146-tiny-bullets.json) |
 | Tiny Bunny | 131653 | [131653-tiny-bunny.json](./131653-tiny-bunny.json) |
 | Tiny Candy Guardian | 264034 | [264034-tiny-candy-guardian.json](./264034-tiny-candy-guardian.json) |
 | Tiny Card Battle | 181249 | [181249-tiny-card-battle.json](./181249-tiny-card-battle.json) |
@@ -8820,6 +8821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer - Realm of the Wood Elves | 26423 | [26423-total-war-warhammer-realm-of-the-wood-elves.json](./26423-total-war-warhammer-realm-of-the-wood-elves.json) |
 | Total War: Warhammer - Wurrzag | 81295 | [81295-total-war-warhammer-wurrzag.json](./81295-total-war-warhammer-wurrzag.json) |
 | Total War: Warhammer II - Curse of the Vampire Coast | 110863 | [110863-total-war-warhammer-ii-curse-of-the-vampire-coast.json](./110863-total-war-warhammer-ii-curse-of-the-vampire-coast.json) |
+| Total War: Warhammer II - Limited Edition | 4131 | [4131-total-war-warhammer-ii-limited-edition.json](./4131-total-war-warhammer-ii-limited-edition.json) |
 | Total War: Warhammer II - Thorek Ironbrow | 157543 | [157543-total-war-warhammer-ii-thorek-ironbrow.json](./157543-total-war-warhammer-ii-thorek-ironbrow.json) |
 | Total War: Warhammer II - Tretch Craventail | 167825 | [167825-total-war-warhammer-ii-tretch-craventail.json](./167825-total-war-warhammer-ii-tretch-craventail.json) |
 | Total War: Warhammer III - Limited Edition | 146143 | [146143-total-war-warhammer-iii-limited-edition.json](./146143-total-war-warhammer-iii-limited-edition.json) |
@@ -10997,6 +10999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted | 30260 | [30260-twisted.json](./30260-twisted.json) |
 | Twisted Citadel | 182526 | [182526-twisted-citadel.json](./182526-twisted-citadel.json) |
 | Twisted Draw | 199649 | [199649-twisted-draw.json](./199649-twisted-draw.json) |
+| Twisted Edge Extreme Snowboarding | 3622 | [3622-twisted-edge-extreme-snowboarding.json](./3622-twisted-edge-extreme-snowboarding.json) |
 | Twisted Lands Trilogy | 53864 | [53864-twisted-lands-trilogy.json](./53864-twisted-lands-trilogy.json) |
 | Twisted Lands: Insomniac - Collector's Edition | 53863 | [53863-twisted-lands-insomniac-collectors-edition.json](./53863-twisted-lands-insomniac-collectors-edition.json) |
 | Twisted Lands: Origin | 50228 | [50228-twisted-lands-origin.json](./50228-twisted-lands-origin.json) |
