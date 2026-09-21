@@ -769,6 +769,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geeste | 99667 | [99667-geeste.json](./99667-geeste.json) |
 | Geflect | 181908 | [181908-geflect.json](./181908-geflect.json) |
 | Geg 2: Nazad v Budushchee | 303242 | [303242-geg-2-nazad-v-budushchee.json](./303242-geg-2-nazad-v-budushchee.json) |
+| GeGeGe no Kitaro: Fukkatsu! Tenma Daiou | 64106 | [64106-gegege-no-kitaro-fukkatsu-tenma-daiou.json](./64106-gegege-no-kitaro-fukkatsu-tenma-daiou.json) |
+| GeGeGe no Kitaro: Ibun Yokai Kitan | 64108 | [64108-gegege-no-kitaro-ibun-yokai-kitan.json](./64108-gegege-no-kitaro-ibun-yokai-kitan.json) |
+| GeGeGe no Kitaro: Maboroshi Fuyu Kaikitan | 64110 | [64110-gegege-no-kitaro-maboroshi-fuyu-kaikitan.json](./64110-gegege-no-kitaro-maboroshi-fuyu-kaikitan.json) |
+| GeGeGe no Kitaro: Yokai Daigekisen | 64111 | [64111-gegege-no-kitaro-yokai-daigekisen.json](./64111-gegege-no-kitaro-yokai-daigekisen.json) |
+| GeGeGe no Kitaro: Yokai Daiundoukai | 64105 | [64105-gegege-no-kitaro-yokai-daiundoukai.json](./64105-gegege-no-kitaro-yokai-daiundoukai.json) |
+| GeGeGe no Kitaro: Yokai Donjara | 64107 | [64107-gegege-no-kitaro-yokai-donjara.json](./64107-gegege-no-kitaro-yokai-donjara.json) |
+| GeGeGe no Kitaro: Yokai Souzoushu Arawaru! | 64109 | [64109-gegege-no-kitaro-yokai-souzoushu-arawaru.json](./64109-gegege-no-kitaro-yokai-souzoushu-arawaru.json) |
 | Geheimprojekt DMSO | 84227 | [84227-geheimprojekt-dmso.json](./84227-geheimprojekt-dmso.json) |
 | Gehena | 192459 | [192459-gehena.json](./192459-gehena.json) |
 | Gehirn Sport Sammlung | 81388 | [81388-gehirn-sport-sammlung.json](./81388-gehirn-sport-sammlung.json) |
