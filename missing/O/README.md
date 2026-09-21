@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octo Curse | 251015 | [251015-octo-curse.json](./251015-octo-curse.json) |
 | Octo's Balloon Challenge | 301022 | [301022-octos-balloon-challenge.json](./301022-octos-balloon-challenge.json) |
 | OctoCraps | 365169 | [365169-octocraps.json](./365169-octocraps.json) |
+| Octodad | 8110 | [8110-octodad.json](./8110-octodad.json) |
 | Octodad Shorts | 382904 | [382904-octodad-shorts.json](./382904-octodad-shorts.json) |
 | Octofight Escape | 180250 | [180250-octofight-escape.json](./180250-octofight-escape.json) |
 | OctoFurry | 128971 | [128971-octofurry.json](./128971-octofurry.json) |
@@ -231,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odessa | 333649 | [333649-odessa.json](./333649-odessa.json) |
 | Odezie | 129753 | [129753-odezie.json](./129753-odezie.json) |
 | ODIA | 135709 | [135709-odia.json](./135709-odia.json) |
+| Odin Sphere | 9110 | [9110-odin-sphere.json](./9110-odin-sphere.json) |
 | Odin's Ring | 213443 | [213443-odins-ring.json](./213443-odins-ring.json) |
 | Odo Odo Oddity | 143676 | [143676-odo-odo-oddity.json](./143676-odo-odo-oddity.json) |
 | Odysseus Kosmos and his Robot Quest | 65838 | [65838-odysseus-kosmos-and-his-robot-quest.json](./65838-odysseus-kosmos-and-his-robot-quest.json) |
