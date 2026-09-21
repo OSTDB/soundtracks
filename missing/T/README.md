@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techno BB | 59397 | [59397-techno-bb.json](./59397-techno-bb.json) |
 | Techno Boy | 86529 | [86529-techno-boy.json](./86529-techno-boy.json) |
 | Techno Cop | 132021 | [132021-techno-cop.json](./132021-techno-cop.json) |
+| Techno Cop | 22746 | [22746-techno-cop.json](./22746-techno-cop.json) |
 | Techno Prank | 345553 | [345553-techno-prank.json](./345553-techno-prank.json) |
 | Techno Tanks | 146223 | [146223-techno-tanks.json](./146223-techno-tanks.json) |
 | Techno: The Gamma Project | 331976 | [331976-techno-the-gamma-project.json](./331976-techno-the-gamma-project.json) |
@@ -2974,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The EA Games Collection | 30219 | [30219-the-ea-games-collection.json](./30219-the-ea-games-collection.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
 | The Earth Defend | 46674 | [46674-the-earth-defend.json](./46674-the-earth-defend.json) |
+| The Earth Dies Screaming | 22759 | [22759-the-earth-dies-screaming.json](./22759-the-earth-dies-screaming.json) |
 | The Earth Is Flat | 298144 | [298144-the-earth-is-flat.json](./298144-the-earth-is-flat.json) |
 | The Eastern Edge | 341897 | [341897-the-eastern-edge.json](./341897-the-eastern-edge.json) |
 | The Eastern Sacrifice | 273659 | [273659-the-eastern-sacrifice.json](./273659-the-eastern-sacrifice.json) |
@@ -3426,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Goblins are Coming | 246949 | [246949-the-goblins-are-coming.json](./246949-the-goblins-are-coming.json) |
 | The God | 100568 | [100568-the-god.json](./100568-the-god.json) |
 | The GoD Unit | 127756 | [127756-the-god-unit.json](./127756-the-god-unit.json) |
+| The God's Chain | 22787 | [22787-the-gods-chain.json](./22787-the-gods-chain.json) |
 | The Godbeast | 108299 | [108299-the-godbeast.json](./108299-the-godbeast.json) |
 | The Goddess Robbery | 307906 | [307906-the-goddess-robbery.json](./307906-the-goddess-robbery.json) |
 | The Godfather: The Don's Edition | 20683 | [20683-the-godfather-the-dons-edition.json](./20683-the-godfather-the-dons-edition.json) |
@@ -10709,6 +10712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Divers | 41953 | [41953-tunnel-divers.json](./41953-tunnel-divers.json) |
 | Tunnel Racer | 176383 | [176383-tunnel-racer.json](./176383-tunnel-racer.json) |
 | Tunnel Run | 87226 | [87226-tunnel-run.json](./87226-tunnel-run.json) |
+| Tunnel Runner | 22757 | [22757-tunnel-runner.json](./22757-tunnel-runner.json) |
 | Tunnel Town | 106380 | [106380-tunnel-town.json](./106380-tunnel-town.json) |
 | Tunnel View | 180699 | [180699-tunnel-view.json](./180699-tunnel-view.json) |
 | Tunnels of Armageddon | 71808 | [71808-tunnels-of-armageddon.json](./71808-tunnels-of-armageddon.json) |
