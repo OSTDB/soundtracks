@@ -7246,6 +7246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin City | 189199 | [189199-spin-city.json](./189199-spin-city.json) |
 | Spin Doctor | 175389 | [175389-spin-doctor.json](./175389-spin-doctor.json) |
 | Spin Evolution | 116288 | [116288-spin-evolution.json](./116288-spin-evolution.json) |
+| Spin Jam | 24129 | [24129-spin-jam.json](./24129-spin-jam.json) |
 | Spin Off 2 | 54381 | [54381-spin-off-2.json](./54381-spin-off-2.json) |
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
 | Spin Quest: A Slot Adventure | 220670 | [220670-spin-quest-a-slot-adventure.json](./220670-spin-quest-a-slot-adventure.json) |
@@ -8101,6 +8102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek | 326626 | [326626-star-trek.json](./326626-star-trek.json) |
 | Star Trek Alien Domain: Incursion | 123597 | [123597-star-trek-alien-domain-incursion.json](./123597-star-trek-alien-domain-incursion.json) |
 | Star Trek Bridge Crew: The Next Generation Bundle | 118846 | [118846-star-trek-bridge-crew-the-next-generation-bundle.json](./118846-star-trek-bridge-crew-the-next-generation-bundle.json) |
+| Star Trek Catan | 24191 | [24191-star-trek-catan.json](./24191-star-trek-catan.json) |
 | Star Trek First Contact | 362902 | [362902-star-trek-first-contact.json](./362902-star-trek-first-contact.json) |
 | Star Trek III | 69258 | [69258-star-trek-iii.json](./69258-star-trek-iii.json) |
 | Star Trek Online | 7584 | [7584-star-trek-online.json](./7584-star-trek-online.json) |
@@ -11254,6 +11256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
 | Supermarket Manager Empire 2024 | 316240 | [316240-supermarket-manager-empire-2024.json](./316240-supermarket-manager-empire-2024.json) |
 | Supermarket Manager Simulator | 314863 | [314863-supermarket-manager-simulator.json](./314863-supermarket-manager-simulator.json) |
+| Supermarket Mania HD | 24271 | [24271-supermarket-mania-hd.json](./24271-supermarket-mania-hd.json) |
 | Supermarket Shriek | 107170 | [107170-supermarket-shriek.json](./107170-supermarket-shriek.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
