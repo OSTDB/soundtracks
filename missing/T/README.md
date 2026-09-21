@@ -2043,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arcane Tower | 166744 | [166744-the-arcane-tower.json](./166744-the-arcane-tower.json) |
 | The Archer | 287646 | [287646-the-archer.json](./287646-the-archer.json) |
 | The Archer | 311814 | [311814-the-archer.json](./311814-the-archer.json) |
+| The Archetype | 34765 | [34765-the-archetype.json](./34765-the-archetype.json) |
 | The Archipelago | 180765 | [180765-the-archipelago.json](./180765-the-archipelago.json) |
 | The Architects of the Universe: The Orbital Wars | 402294 | [402294-the-architects-of-the-universe-the-orbital-wars.json](./402294-the-architects-of-the-universe-the-orbital-wars.json) |
 | The Archives of Evil Dr BA | 135702 | [135702-the-archives-of-evil-dr-ba.json](./135702-the-archives-of-evil-dr-ba.json) |
@@ -2575,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
 | The Consumist Journey | 270099 | [270099-the-consumist-journey.json](./270099-the-consumist-journey.json) |
+| The Contact | 34717 | [34717-the-contact.json](./34717-the-contact.json) |
 | The Contender: Fight of the Century | 108519 | [108519-the-contender-fight-of-the-century.json](./108519-the-contender-fight-of-the-century.json) |
 | The Continuum | 258520 | [258520-the-continuum.json](./258520-the-continuum.json) |
 | The Contract | 177530 | [177530-the-contract.json](./177530-the-contract.json) |
@@ -4103,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Stand: Union City | 61586 | [61586-the-last-stand-union-city.json](./61586-the-last-stand-union-city.json) |
 | The Last Stop | 290001 | [290001-the-last-stop.json](./290001-the-last-stop.json) |
 | The Last Strand | 318621 | [318621-the-last-strand.json](./318621-the-last-strand.json) |
+| The Last Sunshine | 34760 | [34760-the-last-sunshine.json](./34760-the-last-sunshine.json) |
 | The Last Sunshine: Rekindled | 150612 | [150612-the-last-sunshine-rekindled.json](./150612-the-last-sunshine-rekindled.json) |
 | The Last Tale | 403004 | [403004-the-last-tale.json](./403004-the-last-tale.json) |
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
@@ -6981,6 +6984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tick Hop 2 | 391186 | [391186-tick-hop-2.json](./391186-tick-hop-2.json) |
 | Tick Tock Clock | 308235 | [308235-tick-tock-clock.json](./308235-tick-tock-clock.json) |
 | Tick, Tank, Boom | 235867 | [235867-tick-tank-boom.json](./235867-tick-tank-boom.json) |
+| Tick: The Time Based Puzzle Game | 34794 | [34794-tick-the-time-based-puzzle-game.json](./34794-tick-the-time-based-puzzle-game.json) |
 | Ticket to Earth | 38757 | [38757-ticket-to-earth.json](./38757-ticket-to-earth.json) |
 | Ticket to Ride: France | 154475 | [154475-ticket-to-ride-france.json](./154475-ticket-to-ride-france.json) |
 | Ticket to Ride: Germany | 154470 | [154470-ticket-to-ride-germany.json](./154470-ticket-to-ride-germany.json) |
@@ -8620,6 +8624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torment: Tides of Numenera - Collector's Edition | 26537 | [26537-torment-tides-of-numenera-collectors-edition.json](./26537-torment-tides-of-numenera-collectors-edition.json) |
 | Torment: Tides of Numenera - Day One Edition | 26538 | [26538-torment-tides-of-numenera-day-one-edition.json](./26538-torment-tides-of-numenera-day-one-edition.json) |
 | Tormentarium | 271730 | [271730-tormentarium.json](./271730-tormentarium.json) |
+| Tormented 12 | 34730 | [34730-tormented-12.json](./34730-tormented-12.json) |
 | Tormentor | 167259 | [167259-tormentor.json](./167259-tormentor.json) |
 | Tormentor: Action Fire Counter Shooter Game Simulator - Premium Edition | 283161 | [283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json](./283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json) |
 | Torn | 253595 | [253595-torn.json](./253595-torn.json) |
@@ -8627,6 +8632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torn | 94720 | [94720-torn.json](./94720-torn.json) |
 | Torn Earth | 114803 | [114803-torn-earth.json](./114803-torn-earth.json) |
 | Torn Sails | 27909 | [27909-torn-sails.json](./27909-torn-sails.json) |
+| Torn Tales | 34773 | [34773-torn-tales.json](./34773-torn-tales.json) |
 | Tornado | 266469 | [266469-tornado.json](./266469-tornado.json) |
 | Tornado Baseball / Tennis / Handball / Hockey | 93564 | [93564-tornado-baseball-tennis-handball-hockey.json](./93564-tornado-baseball-tennis-handball-hockey.json) |
 | Tornado Emergency | 301244 | [301244-tornado-emergency.json](./301244-tornado-emergency.json) |
@@ -10143,6 +10149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribe of Pok | 31979 | [31979-tribe-of-pok.json](./31979-tribe-of-pok.json) |
 | Tribe of the Accord | 268221 | [268221-tribe-of-the-accord.json](./268221-tribe-of-the-accord.json) |
 | Tribe Quest | 258998 | [258998-tribe-quest.json](./258998-tribe-quest.json) |
+| TribeQuest: Red Killer | 34771 | [34771-tribequest-red-killer.json](./34771-tribequest-red-killer.json) |
 | Tribes 2 | 922 | [922-tribes-2.json](./922-tribes-2.json) |
 | Tribes Action Pack | 100118 | [100118-tribes-action-pack.json](./100118-tribes-action-pack.json) |
 | Tribes of Midgard | 120619 | [120619-tribes-of-midgard.json](./120619-tribes-of-midgard.json) |
@@ -10974,6 +10981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tycoon Legends | 245855 | [245855-tycoon-legends.json](./245855-tycoon-legends.json) |
 | Tyd wag vir Niemand | 52012 | [52012-tyd-wag-vir-niemand.json](./52012-tyd-wag-vir-niemand.json) |
 | Tyga | 303079 | [303079-tyga.json](./303079-tyga.json) |
+| Tyler | 34770 | [34770-tyler.json](./34770-tyler.json) |
 | Tyler Tactics | 236953 | [236953-tyler-tactics.json](./236953-tyler-tactics.json) |
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
 | Type 'n Jump | 183995 | [183995-type-n-jump.json](./183995-type-n-jump.json) |
