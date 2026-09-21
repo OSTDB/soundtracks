@@ -1752,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
 | Championship Manager: Season 97/98 | 50125 | [50125-championship-manager-season-97-98.json](./50125-championship-manager-season-97-98.json) |
 | Championship Motocross 2001 featuring Ricky Carmichael | 76978 | [76978-championship-motocross-2001-featuring-ricky-carmichael.json](./76978-championship-motocross-2001-featuring-ricky-carmichael.json) |
+| Championship Motocross featuring Ricky Carmichael | 44830 | [44830-championship-motocross-featuring-ricky-carmichael.json](./44830-championship-motocross-featuring-ricky-carmichael.json) |
 | Championship Pool | 307111 | [307111-championship-pool.json](./307111-championship-pool.json) |
 | Championship Pool | 307113 | [307113-championship-pool.json](./307113-championship-pool.json) |
 | Championship Pro-Am | 46228 | [46228-championship-pro-am.json](./46228-championship-pro-am.json) |
@@ -4355,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Containment Initiative: PC Standalone | 99583 | [99583-containment-initiative-pc-standalone.json](./99583-containment-initiative-pc-standalone.json) |
 | Containment Zone | 235749 | [235749-containment-zone.json](./235749-containment-zone.json) |
 | Contamination | 12986 | [12986-contamination.json](./12986-contamination.json) |
+| Contender | 44853 | [44853-contender.json](./44853-contender.json) |
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
 | Content Warning: Scary Filming | 337073 | [337073-content-warning-scary-filming.json](./337073-content-warning-scary-filming.json) |
 | Continent of the Ninth Golden | 256337 | [256337-continent-of-the-ninth-golden.json](./256337-continent-of-the-ninth-golden.json) |
