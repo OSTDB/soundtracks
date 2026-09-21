@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Baseball Jitsumei-ban 3 | 37775 | [37775-ultra-baseball-jitsumei-ban-3.json](./37775-ultra-baseball-jitsumei-ban-3.json) |
 | Ultra Boat Game!!! | 154379 | [154379-ultra-boat-game.json](./154379-ultra-boat-game.json) |
 | Ultra Bonk Survivors | 378181 | [378181-ultra-bonk-survivors.json](./378181-ultra-bonk-survivors.json) |
+| Ultra Business Tycoon III | 62974 | [62974-ultra-business-tycoon-iii.json](./62974-ultra-business-tycoon-iii.json) |
 | Ultra Business Tycoon IV: Whitewater Rafting | 290389 | [290389-ultra-business-tycoon-iv-whitewater-rafting.json](./290389-ultra-business-tycoon-iv-whitewater-rafting.json) |
 | Ultra Bust-A-Move | 47317 | [47317-ultra-bust-a-move.json](./47317-ultra-bust-a-move.json) |
 | Ultra CDi Soccer | 45904 | [45904-ultra-cdi-soccer.json](./45904-ultra-cdi-soccer.json) |
