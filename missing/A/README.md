@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akatsuki: Shisei Ichi-go | 61628 | [61628-akatsuki-shisei-ichi-go.json](./61628-akatsuki-shisei-ichi-go.json) |
 | Akayashiki | 297794 | [297794-akayashiki.json](./297794-akayashiki.json) |
 | Akazukin Cha Cha Cha | 265971 | [265971-akazukin-cha-cha-cha.json](./265971-akazukin-cha-cha-cha.json) |
+| Akazukin Cha-cha | 15887 | [15887-akazukin-cha-cha.json](./15887-akazukin-cha-cha.json) |
 | Akazukin Cha-cha | 228473 | [228473-akazukin-cha-cha.json](./228473-akazukin-cha-cha.json) |
 | Akazukin Dark Side | 150154 | [150154-akazukin-dark-side.json](./150154-akazukin-dark-side.json) |
 | AKB1/153: Renai Sousenkyo - Ultra Luxury Limited Box | 89867 | [89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json](./89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json) |
@@ -1385,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albert | 185094 | [185094-albert.json](./185094-albert.json) |
 | Albert and Otto: The Adventure Begins | 13223 | [13223-albert-and-otto-the-adventure-begins.json](./13223-albert-and-otto-the-adventure-begins.json) |
 | Albert Mort: Desert Heat | 51510 | [51510-albert-mort-desert-heat.json](./51510-albert-mort-desert-heat.json) |
+| Albert Odyssey | 15889 | [15889-albert-odyssey.json](./15889-albert-odyssey.json) |
 | Albert Odyssey 2: Jashin no Taidou | 38346 | [38346-albert-odyssey-2-jashin-no-taidou.json](./38346-albert-odyssey-2-jashin-no-taidou.json) |
 | Albert's Journey | 219659 | [219659-alberts-journey.json](./219659-alberts-journey.json) |
 | Albino Lullaby: Episode 3 | 238615 | [238615-albino-lullaby-episode-3.json](./238615-albino-lullaby-episode-3.json) |
@@ -2421,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Guardians: The Dragon | 234203 | [234203-ancient-guardians-the-dragon.json](./234203-ancient-guardians-the-dragon.json) |
 | Ancient Islands | 192031 | [192031-ancient-islands.json](./192031-ancient-islands.json) |
 | Ancient Islands | 192835 | [192835-ancient-islands.json](./192835-ancient-islands.json) |
+| Ancient Magic: Bazuu! Mahou Sekai | 15892 | [15892-ancient-magic-bazuu-mahou-sekai.json](./15892-ancient-magic-bazuu-mahou-sekai.json) |
 | Ancient Mahjong | 267370 | [267370-ancient-mahjong.json](./267370-ancient-mahjong.json) |
 | Ancient Military | 392800 | [392800-ancient-military.json](./392800-ancient-military.json) |
 | Ancient Mind | 244879 | [244879-ancient-mind.json](./244879-ancient-mind.json) |
@@ -2554,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angkor: Beginnings | 209699 | [209699-angkor-beginnings.json](./209699-angkor-beginnings.json) |
 | Angkot d Game | 214753 | [214753-angkot-d-game.json](./214753-angkot-d-game.json) |
 | Angle | 396218 | [396218-angle.json](./396218-angle.json) |
+| Angle of Attack | 16064 | [16064-angle-of-attack.json](./16064-angle-of-attack.json) |
 | Angler Dangler | 386681 | [386681-angler-dangler.json](./386681-angler-dangler.json) |
 | Angler King | 249778 | [249778-angler-king.json](./249778-angler-king.json) |
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
@@ -3592,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Famiglia Collezione! Piccola Amore | 218493 | [218493-arcana-famiglia-collezione-piccola-amore.json](./218493-arcana-famiglia-collezione-piccola-amore.json) |
 | Arcana Famiglia: Vascello Phantasma no Majutsushi | 64668 | [64668-arcana-famiglia-vascello-phantasma-no-majutsushi.json](./64668-arcana-famiglia-vascello-phantasma-no-majutsushi.json) |
 | Arcana Heart | 243694 | [243694-arcana-heart.json](./243694-arcana-heart.json) |
+| Arcana Heart 2 | 15865 | [15865-arcana-heart-2.json](./15865-arcana-heart-2.json) |
 | Arcana Ritter | 91422 | [91422-arcana-ritter.json](./91422-arcana-ritter.json) |
 | Arcana: Boundless Horizon | 220306 | [220306-arcana-boundless-horizon.json](./220306-arcana-boundless-horizon.json) |
 | Arcana: Heat and Cold - Season 2 | 191241 | [191241-arcana-heat-and-cold-season-2.json](./191241-arcana-heat-and-cold-season-2.json) |
@@ -3820,7 +3825,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ares | 93968 | [93968-ares.json](./93968-ares.json) |
 | Ares Omega | 34382 | [34382-ares-omega.json](./34382-ares-omega.json) |
 | Aretha II | 137076 | [137076-aretha-ii.json](./137076-aretha-ii.json) |
+| Aretha II: Ariel no Fushigi na Tabi | 15896 | [15896-aretha-ii-ariel-no-fushigi-na-tabi.json](./15896-aretha-ii-ariel-no-fushigi-na-tabi.json) |
 | Aretha III | 71777 | [71777-aretha-iii.json](./71777-aretha-iii.json) |
+| Aretha the Super Famicom | 15895 | [15895-aretha-the-super-famicom.json](./15895-aretha-the-super-famicom.json) |
 | Aretisia: Tenebris Dominus | 125391 | [125391-aretisia-tenebris-dominus.json](./125391-aretisia-tenebris-dominus.json) |
 | Arex | 55886 | [55886-arex.json](./55886-arex.json) |
 | Argentum Online | 176876 | [176876-argentum-online.json](./176876-argentum-online.json) |
@@ -3912,6 +3919,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arlcoco: The One Winged Princess Pet | 82774 | [82774-arlcoco-the-one-winged-princess-pet.json](./82774-arlcoco-the-one-winged-princess-pet.json) |
 | Arlyeh Center for Heart Diseases | 271218 | [271218-arlyeh-center-for-heart-diseases.json](./271218-arlyeh-center-for-heart-diseases.json) |
 | Arm Joe | 130876 | [130876-arm-joe.json](./130876-arm-joe.json) |
+| Arma 2: Army of the Czech Republic | 15869 | [15869-arma-2-army-of-the-czech-republic.json](./15869-arma-2-army-of-the-czech-republic.json) |
+| Arma 2: British Armed Forces | 15867 | [15867-arma-2-british-armed-forces.json](./15867-arma-2-british-armed-forces.json) |
+| Arma 2: Private Military Company | 15868 | [15868-arma-2-private-military-company.json](./15868-arma-2-private-military-company.json) |
 | Arma 3 Creator DLC: S.O.G. Prairie Fire | 234181 | [234181-arma-3-creator-dlc-s-o-g-prairie-fire.json](./234181-arma-3-creator-dlc-s-o-g-prairie-fire.json) |
 | Arma 3: Creator DLC - CSLA Iron Curtain | 168912 | [168912-arma-3-creator-dlc-csla-iron-curtain.json](./168912-arma-3-creator-dlc-csla-iron-curtain.json) |
 | Arma 3: Creator DLC - Spearhead 1944 | 259281 | [259281-arma-3-creator-dlc-spearhead-1944.json](./259281-arma-3-creator-dlc-spearhead-1944.json) |
