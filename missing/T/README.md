@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Fall of the Foot Clan | 48928 | [48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json](./48928-teenage-mutant-ninja-turtles-fall-of-the-foot-clan.json) |
 | Teenage Mutant Ninja Turtles: Mutant Madness | 138015 | [138015-teenage-mutant-ninja-turtles-mutant-madness.json](./138015-teenage-mutant-ninja-turtles-mutant-madness.json) |
 | Teenage Mutant Ninja Turtles: Mutants & Monsters Mayhem | 146239 | [146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json](./146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json) |
+| Teenage Mutant Ninja Turtles: Mutants in Manhattan | 16989 | [16989-teenage-mutant-ninja-turtles-mutants-in-manhattan.json](./16989-teenage-mutant-ninja-turtles-mutants-in-manhattan.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - Deluxe Edition | 323945 | [323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json](./323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge | 144465 | [144465-teenage-mutant-ninja-turtles-shredders-revenge.json](./144465-teenage-mutant-ninja-turtles-shredders-revenge.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Limited Edition | 207919 | [207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json](./207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tessel Run | 391753 | [391753-tessel-run.json](./391753-tessel-run.json) |
 | Tessera | 333113 | [333113-tessera.json](./333113-tessera.json) |
 | Tesseract VR | 99602 | [99602-tesseract-vr.json](./99602-tesseract-vr.json) |
+| Test Drive | 2200 | [2200-test-drive.json](./2200-test-drive.json) |
 | Test Drive 2001 | 49876 | [49876-test-drive-2001.json](./49876-test-drive-2001.json) |
 | Test Drive 4 | 78297 | [78297-test-drive-4.json](./78297-test-drive-4.json) |
 | Test Drive Cycles | 49906 | [49906-test-drive-cycles.json](./49906-test-drive-cycles.json) |
@@ -3042,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls V: Skyrim - Dawnguard | 2992 | [2992-the-elder-scrolls-v-skyrim-dawnguard.json](./2992-the-elder-scrolls-v-skyrim-dawnguard.json) |
 | The Elder Scrolls V: Skyrim - Dragonborn | 6069 | [6069-the-elder-scrolls-v-skyrim-dragonborn.json](./6069-the-elder-scrolls-v-skyrim-dragonborn.json) |
 | The Elder Scrolls V: Skyrim - Premium Edition | 44556 | [44556-the-elder-scrolls-v-skyrim-premium-edition.json](./44556-the-elder-scrolls-v-skyrim-premium-edition.json) |
+| The Elder Scrolls V: Skyrim VR | 37088 | [37088-the-elder-scrolls-v-skyrim-vr.json](./37088-the-elder-scrolls-v-skyrim-vr.json) |
 | The Elder Scrolls VI | 81249 | [81249-the-elder-scrolls-vi.json](./81249-the-elder-scrolls-vi.json) |
 | The Elder Tales | 264606 | [264606-the-elder-tales.json](./264606-the-elder-tales.json) |
 | The Eldritch Monarch | 324692 | [324692-the-eldritch-monarch.json](./324692-the-eldritch-monarch.json) |
@@ -4988,6 +4991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Packages | 212916 | [212916-the-packages.json](./212916-the-packages.json) |
 | The Pagemaster | 209009 | [209009-the-pagemaster.json](./209009-the-pagemaster.json) |
 | The Pagemaster | 49032 | [49032-the-pagemaster.json](./49032-the-pagemaster.json) |
+| The Painscreek Killings | 68682 | [68682-the-painscreek-killings.json](./68682-the-painscreek-killings.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
 | The Pale Man | 232547 | [232547-the-pale-man.json](./232547-the-pale-man.json) |
@@ -5788,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Star Bowling DX | 386680 | [386680-the-star-bowling-dx.json](./386680-the-star-bowling-dx.json) |
 | The Starfire Soccer Challenge | 70383 | [70383-the-starfire-soccer-challenge.json](./70383-the-starfire-soccer-challenge.json) |
 | The Static | 408196 | [408196-the-static.json](./408196-the-static.json) |
+| The Static Speaks My Name | 11765 | [11765-the-static-speaks-my-name.json](./11765-the-static-speaks-my-name.json) |
 | The Station: Escape Room | 151011 | [151011-the-station-escape-room.json](./151011-the-station-escape-room.json) |
 | The Statue Got Me High | 358371 | [358371-the-statue-got-me-high.json](./358371-the-statue-got-me-high.json) |
 | The Stick and the Basket | 215786 | [215786-the-stick-and-the-basket.json](./215786-the-stick-and-the-basket.json) |
@@ -6246,6 +6251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unachievable Game | 205232 | [205232-the-unachievable-game.json](./205232-the-unachievable-game.json) |
 | The Unbreakable Chain | 62967 | [62967-the-unbreakable-chain.json](./62967-the-unbreakable-chain.json) |
 | The Uncanny X-Men | 48050 | [48050-the-uncanny-x-men.json](./48050-the-uncanny-x-men.json) |
+| The Uncertain: Last Quiet Day | 34366 | [34366-the-uncertain-last-quiet-day.json](./34366-the-uncertain-last-quiet-day.json) |
 | The Unclogging: An Unsanitary Saga | 51979 | [51979-the-unclogging-an-unsanitary-saga.json](./51979-the-unclogging-an-unsanitary-saga.json) |
 | The UNDA Legacy | 408073 | [408073-the-unda-legacy.json](./408073-the-unda-legacy.json) |
 | The Undead | 378155 | [378155-the-undead.json](./378155-the-undead.json) |
@@ -8978,6 +8984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Danmaku: Infinity | 233785 | [233785-touhou-danmaku-infinity.json](./233785-touhou-danmaku-infinity.json) |
 | TouHou Dew Valley | 262654 | [262654-touhou-dew-valley.json](./262654-touhou-dew-valley.json) |
 | Touhou Doumeiju: Mystical Power Plant | 246671 | [246671-touhou-doumeiju-mystical-power-plant.json](./246671-touhou-doumeiju-mystical-power-plant.json) |
+| Touhou Eiyashou: Imperishable Night | 27162 | [27162-touhou-eiyashou-imperishable-night.json](./27162-touhou-eiyashou-imperishable-night.json) |
 | Touhou Emblem | 315050 | [315050-touhou-emblem.json](./315050-touhou-emblem.json) |
 | Touhou Emblem 2 | 315051 | [315051-touhou-emblem-2.json](./315051-touhou-emblem-2.json) |
 | Touhou Fan-made Virtual Autography | 151683 | [151683-touhou-fan-made-virtual-autography.json](./151683-touhou-fan-made-virtual-autography.json) |
