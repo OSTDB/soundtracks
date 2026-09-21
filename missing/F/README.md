@@ -2378,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Golf 2 | 88291 | [88291-flappy-golf-2.json](./88291-flappy-golf-2.json) |
 | Flappy Helix | 265757 | [265757-flappy-helix.json](./265757-flappy-helix.json) |
 | Flappy Horse | 309373 | [309373-flappy-horse.json](./309373-flappy-horse.json) |
+| Flappy Limited '85 | 47528 | [47528-flappy-limited-85.json](./47528-flappy-limited-85.json) |
 | Flappy Meatbag | 23731 | [23731-flappy-meatbag.json](./23731-flappy-meatbag.json) |
 | Flappy Monkey | 325099 | [325099-flappy-monkey.json](./325099-flappy-monkey.json) |
 | Flappy Navalny | 137665 | [137665-flappy-navalny.json](./137665-flappy-navalny.json) |
@@ -2611,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flirting With Girls in Fantasy World | 386866 | [386866-flirting-with-girls-in-fantasy-world.json](./386866-flirting-with-girls-in-fantasy-world.json) |
 | Flirting with Yasmine | 238479 | [238479-flirting-with-yasmine.json](./238479-flirting-with-yasmine.json) |
 | Flixy Cats | 165034 | [165034-flixy-cats.json](./165034-flixy-cats.json) |
+| Flo Boarding | 47563 | [47563-flo-boarding.json](./47563-flo-boarding.json) |
 | Floain Plus | 375978 | [375978-floain-plus.json](./375978-floain-plus.json) |
 | Float Gallery | 51560 | [51560-float-gallery.json](./51560-float-gallery.json) |
 | Float: Champions | 257948 | [257948-float-champions.json](./257948-float-champions.json) |
@@ -3095,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Compass | 404206 | [404206-forbidden-compass.json](./404206-forbidden-compass.json) |
 | Forbidden Dojo | 239737 | [239737-forbidden-dojo.json](./239737-forbidden-dojo.json) |
 | Forbidden Forgiveness | 85836 | [85836-forbidden-forgiveness.json](./85836-forbidden-forgiveness.json) |
+| Forbidden Fruit | 47527 | [47527-forbidden-fruit.json](./47527-forbidden-fruit.json) |
 | Forbidden Ghost Photo | 283286 | [283286-forbidden-ghost-photo.json](./283286-forbidden-ghost-photo.json) |
 | Forbidden Ingress | 126566 | [126566-forbidden-ingress.json](./126566-forbidden-ingress.json) |
 | Forbidden Island | 381031 | [381031-forbidden-island.json](./381031-forbidden-island.json) |
