@@ -2968,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Hero | 262060 | [262060-football-hero.json](./262060-football-hero.json) |
 | Football Kicks | 231060 | [231060-football-kicks.json](./231060-football-kicks.json) |
 | Football Killer | 188096 | [188096-football-killer.json](./188096-football-killer.json) |
+| Football Legend | 59080 | [59080-football-legend.json](./59080-football-legend.json) |
 | Football Legends 2025: Gold Edition | 396917 | [396917-football-legends-2025-gold-edition.json](./396917-football-legends-2025-gold-edition.json) |
 | Football Life 2023 | 225767 | [225767-football-life-2023.json](./225767-football-life-2023.json) |
 | Football Life Simulator | 326426 | [326426-football-life-simulator.json](./326426-football-life-simulator.json) |
