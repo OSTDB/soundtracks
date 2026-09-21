@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFindo | 262454 | [262454-ufindo.json](./262454-ufindo.json) |
 | UFL | 165352 | [165352-ufl.json](./165352-ufl.json) |
 | UFO | 100199 | [100199-ufo.json](./100199-ufo.json) |
+| UFO 50 | 54555 | [54555-ufo-50.json](./54555-ufo-50.json) |
 | UFO Enemy Known | 310768 | [310768-ufo-enemy-known.json](./310768-ufo-enemy-known.json) |
 | UFO Hunter | 97156 | [97156-ufo-hunter.json](./97156-ufo-hunter.json) |
 | UFO Joe | 263475 | [263475-ufo-joe.json](./263475-ufo-joe.json) |
