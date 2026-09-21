@@ -2237,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 131514 | [131514-pinball.json](./131514-pinball.json) |
 | Pinball | 131522 | [131522-pinball.json](./131522-pinball.json) |
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
+| Pinball | 86428 | [86428-pinball.json](./86428-pinball.json) |
 | Pinball | 86507 | [86507-pinball.json](./86507-pinball.json) |
 | Pinball Advance | 49316 | [49316-pinball-advance.json](./49316-pinball-advance.json) |
 | Pinball Arcade Season 2 | 141861 | [141861-pinball-arcade-season-2.json](./141861-pinball-arcade-season-2.json) |
