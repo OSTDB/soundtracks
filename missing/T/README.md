@@ -3076,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enforcer | 60493 | [60493-the-enforcer.json](./60493-the-enforcer.json) |
 | The Engraved Dispatch | 181366 | [181366-the-engraved-dispatch.json](./181366-the-engraved-dispatch.json) |
 | The Enigma Lounge | 380439 | [380439-the-enigma-lounge.json](./380439-the-enigma-lounge.json) |
+| The Entente: Battlefields WW1 | 9829 | [9829-the-entente-battlefields-ww1.json](./9829-the-entente-battlefields-ww1.json) |
 | The Entertainment | 128622 | [128622-the-entertainment.json](./128622-the-entertainment.json) |
 | The Entity | 101331 | [101331-the-entity.json](./101331-the-entity.json) |
 | The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
@@ -6120,6 +6121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trailblazer | 201185 | [201185-the-trailblazer.json](./201185-the-trailblazer.json) |
 | The Trailer Incident | 390652 | [390652-the-trailer-incident.json](./390652-the-trailer-incident.json) |
 | The Train Can't Escape Without XXX!? | 353915 | [353915-the-train-cant-escape-without-xxx.json](./353915-the-train-cant-escape-without-xxx.json) |
+| The Train Giant | 10002 | [10002-the-train-giant.json](./10002-the-train-giant.json) |
 | The Training Diary of a Novice Magician Shin | 82810 | [82810-the-training-diary-of-a-novice-magician-shin.json](./82810-the-training-diary-of-a-novice-magician-shin.json) |
 | The Tram | 413738 | [413738-the-tram.json](./413738-the-tram.json) |
 | The tram of wishes | 152836 | [152836-the-tram-of-wishes.json](./152836-the-tram-of-wishes.json) |
@@ -8656,6 +8658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TopSpin 2K25: Deluxe Edition | 292137 | [292137-topspin-2k25-deluxe-edition.json](./292137-topspin-2k25-deluxe-edition.json) |
 | TopSpin 2K25: Grand Slam Edition | 293925 | [293925-topspin-2k25-grand-slam-edition.json](./293925-topspin-2k25-grand-slam-edition.json) |
 | Topsy Turvy | 147414 | [147414-topsy-turvy.json](./147414-topsy-turvy.json) |
+| Topsy Turvy | 9832 | [9832-topsy-turvy.json](./9832-topsy-turvy.json) |
 | Topzerah | 365164 | [365164-topzerah.json](./365164-topzerah.json) |
 | ToQger Maze Game | 60491 | [60491-toqger-maze-game.json](./60491-toqger-maze-game.json) |
 | Tor Eternum | 148496 | [148496-tor-eternum.json](./148496-tor-eternum.json) |
