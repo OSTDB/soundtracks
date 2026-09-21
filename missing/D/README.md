@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Day | 14768 | [14768-d-day.json](./14768-d-day.json) |
 | D-Day VR Museum | 295790 | [295790-d-day-vr-museum.json](./295790-d-day-vr-museum.json) |
 | D-Day: Normandy | 180210 | [180210-d-day-normandy.json](./180210-d-day-normandy.json) |
+| D-Day: The Beginning of the End | 12417 | [12417-d-day-the-beginning-of-the-end.json](./12417-d-day-the-beginning-of-the-end.json) |
 | D-Pad Hero 2 | 48649 | [48649-d-pad-hero-2.json](./48649-d-pad-hero-2.json) |
 | D-Paddle vs. Crankquet | 232463 | [232463-d-paddle-vs-crankquet.json](./232463-d-paddle-vs-crankquet.json) |
 | D-Virus: Devilnitive Edition | 259847 | [259847-d-virus-devilnitive-edition.json](./259847-d-virus-devilnitive-edition.json) |
@@ -848,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Datswer | 35820 | [35820-datswer.json](./35820-datswer.json) |
 | Datura Time | 219143 | [219143-datura-time.json](./219143-datura-time.json) |
 | Daughter of Essence | 158654 | [158654-daughter-of-essence.json](./158654-daughter-of-essence.json) |
+| Daughter of Serpents | 12416 | [12416-daughter-of-serpents.json](./12416-daughter-of-serpents.json) |
 | Daughter of Shadows: An SCP Breach Event - Friend and Foe Expansion | 167317 | [167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json](./167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json) |
 | Dave | 111682 | [111682-dave.json](./111682-dave.json) |
 | Dave Mirra Freestyle BMX: Maximum Remix | 84166 | [84166-dave-mirra-freestyle-bmx-maximum-remix.json](./84166-dave-mirra-freestyle-bmx-maximum-remix.json) |
@@ -1820,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deity Quest: Extended | 172114 | [172114-deity-quest-extended.json](./172114-deity-quest-extended.json) |
 | Deity's Domain | 306383 | [306383-deitys-domain.json](./306383-deitys-domain.json) |
 | Deja Vu | 229690 | [229690-deja-vu.json](./229690-deja-vu.json) |
+| Deja Vu 2: Lost in Las Vegas!! | 12418 | [12418-deja-vu-2-lost-in-las-vegas.json](./12418-deja-vu-2-lost-in-las-vegas.json) |
 | Déjà Vu I | 310192 | [310192-deja-vu-i.json](./310192-deja-vu-i.json) |
 | Déjà Vu I & II: The Casebooks of Ace Harding | 49895 | [49895-deja-vu-i-and-ii-the-casebooks-of-ace-harding.json](./49895-deja-vu-i-and-ii-the-casebooks-of-ace-harding.json) |
 | Déjà Vu II | 310193 | [310193-deja-vu-ii.json](./310193-deja-vu-ii.json) |
@@ -2224,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert of Vice | 95169 | [95169-desert-of-vice.json](./95169-desert-of-vice.json) |
 | Desert Racer | 61646 | [61646-desert-racer.json](./61646-desert-racer.json) |
 | Desert Raider | 151174 | [151174-desert-raider.json](./151174-desert-raider.json) |
+| Desert Rats | 12419 | [12419-desert-rats.json](./12419-desert-rats.json) |
 | Desert Rigs | 134060 | [134060-desert-rigs.json](./134060-desert-rigs.json) |
 | Desert Rush | 265430 | [265430-desert-rush.json](./265430-desert-rush.json) |
 | Desert Spirit Grave | 253978 | [253978-desert-spirit-grave.json](./253978-desert-spirit-grave.json) |
@@ -3417,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diver's | 373028 | [373028-divers.json](./373028-divers.json) |
 | Diver's Dream | 180281 | [180281-divers-dream.json](./180281-divers-dream.json) |
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
+| Divi-Dead | 12420 | [12420-divi-dead.json](./12420-divi-dead.json) |
 | Divid[E]: D[E]Ad Letters | 396196 | [396196-divid-e-d-e-ad-letters.json](./396196-divid-e-d-e-ad-letters.json) |
 | Divided | 94762 | [94762-divided.json](./94762-divided.json) |
 | Divided Ground: Middle East Conflict 1948-1973 | 24111 | [24111-divided-ground-middle-east-conflict-1948-1973.json](./24111-divided-ground-middle-east-conflict-1948-1973.json) |
@@ -5384,6 +5389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropzone | 369618 | [369618-dropzone.json](./369618-dropzone.json) |
 | DropZone | 19546 | [19546-dropzone.json](./19546-dropzone.json) |
 | Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
+| Drowned God: Conspiracy of the Ages | 12421 | [12421-drowned-god-conspiracy-of-the-ages.json](./12421-drowned-god-conspiracy-of-the-ages.json) |
 | Drowned Helicopter | 166695 | [166695-drowned-helicopter.json](./166695-drowned-helicopter.json) |
 | Drowning Cross | 119750 | [119750-drowning-cross.json](./119750-drowning-cross.json) |
 | Drowning In Problems | 134444 | [134444-drowning-in-problems.json](./134444-drowning-in-problems.json) |
@@ -6078,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying: Reborn | 27569 | [27569-dying-reborn.json](./27569-dying-reborn.json) |
 | Dying: Reborn + Dying: Reborn VR Bundle | 217861 | [217861-dying-reborn-dying-reborn-vr-bundle.json](./217861-dying-reborn-dying-reborn-vr-bundle.json) |
 | Dylan Dog: Horror Luna Park | 70970 | [70970-dylan-dog-horror-luna-park.json](./70970-dylan-dog-horror-luna-park.json) |
+| Dylan Dog: Through the Looking Glass | 12422 | [12422-dylan-dog-through-the-looking-glass.json](./12422-dylan-dog-through-the-looking-glass.json) |
 | Dymension | 191262 | [191262-dymension.json](./191262-dymension.json) |
 | Dynacat | 196958 | [196958-dynacat.json](./196958-dynacat.json) |
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
