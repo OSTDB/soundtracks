@@ -1635,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics of ancestors | 161334 | [161334-relics-of-ancestors.json](./161334-relics-of-ancestors.json) |
 | Relics of Cilldrea | 236915 | [236915-relics-of-cilldrea.json](./236915-relics-of-cilldrea.json) |
 | Relics of Deldroneye 2: Island of Debreen | 137454 | [137454-relics-of-deldroneye-2-island-of-debreen.json](./137454-relics-of-deldroneye-2-island-of-debreen.json) |
+| Relics of Gods | 11352 | [11352-relics-of-gods.json](./11352-relics-of-gods.json) |
 | Relics: Dark Hours | 92494 | [92494-relics-dark-hours.json](./92494-relics-dark-hours.json) |
 | Relics: The 2nd Birth | 281393 | [281393-relics-the-2nd-birth.json](./281393-relics-the-2nd-birth.json) |
 | Relics: The Recur of Origin | 281392 | [281392-relics-the-recur-of-origin.json](./281392-relics-the-recur-of-origin.json) |
@@ -2543,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RimWorld: Anomaly | 291070 | [291070-rimworld-anomaly.json](./291070-rimworld-anomaly.json) |
 | RimWorld: Console Edition - Digital Deluxe | 211246 | [211246-rimworld-console-edition-digital-deluxe.json](./211246-rimworld-console-edition-digital-deluxe.json) |
 | RimWorld: Console Edition - Ideology | 312014 | [312014-rimworld-console-edition-ideology.json](./312014-rimworld-console-edition-ideology.json) |
+| Ring | 11308 | [11308-ring.json](./11308-ring.json) |
 | Ring Academy | 306957 | [306957-ring-academy.json](./306957-ring-academy.json) |
 | Ring Battle | 361737 | [361737-ring-battle.json](./361737-ring-battle.json) |
 | Ring Fit Adventure: Rhythm Game | 320954 | [320954-ring-fit-adventure-rhythm-game.json](./320954-ring-fit-adventure-rhythm-game.json) |
