@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard Of Armor | 394159 | [394159-vanguard-of-armor.json](./394159-vanguard-of-armor.json) |
 | Vanguard Princess | 9433 | [9433-vanguard-princess.json](./9433-vanguard-princess.json) |
 | Vanguard Princess: Hilda Rize | 170929 | [170929-vanguard-princess-hilda-rize.json](./170929-vanguard-princess-hilda-rize.json) |
+| Vanguard Run | 57345 | [57345-vanguard-run.json](./57345-vanguard-run.json) |
 | Vanguard Tides | 405596 | [405596-vanguard-tides.json](./405596-vanguard-tides.json) |
 | Vanguard Valiants | 394826 | [394826-vanguard-valiants.json](./394826-vanguard-valiants.json) |
 | Vanguard: Fight For Rudiarius | 110996 | [110996-vanguard-fight-for-rudiarius.json](./110996-vanguard-fight-for-rudiarius.json) |
@@ -506,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vereda | 192807 | [192807-vereda.json](./192807-vereda.json) |
 | Veredilia: The Sacred Forest | 265932 | [265932-veredilia-the-sacred-forest.json](./265932-veredilia-the-sacred-forest.json) |
 | Verfall | 338572 | [338572-verfall.json](./338572-verfall.json) |
+| Verge | 57348 | [57348-verge.json](./57348-verge.json) |
 | VergeWorld | 204440 | [204440-vergeworld.json](./204440-vergeworld.json) |
 | Verho: Curse of Faces | 318767 | [318767-verho-curse-of-faces.json](./318767-verho-curse-of-faces.json) |
 | Verho: Curse of Faces | 410369 | [410369-verho-curse-of-faces.json](./410369-verho-curse-of-faces.json) |
