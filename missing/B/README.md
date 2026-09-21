@@ -4071,6 +4071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman B-Daman | 42545 | [42545-bomberman-b-daman.json](./42545-bomberman-b-daman.json) |
 | Bomberman Blitz | 67318 | [67318-bomberman-blitz.json](./67318-bomberman-blitz.json) |
 | Bomberman Chaos | 141782 | [141782-bomberman-chaos.json](./141782-bomberman-chaos.json) |
+| Bomberman Fantasy Race | 22773 | [22773-bomberman-fantasy-race.json](./22773-bomberman-fantasy-race.json) |
 | Bomberman GB | 135909 | [135909-bomberman-gb.json](./135909-bomberman-gb.json) |
 | Bomberman Generation | 3832 | [3832-bomberman-generation.json](./3832-bomberman-generation.json) |
 | Bomberman Hardball | 45295 | [45295-bomberman-hardball.json](./45295-bomberman-hardball.json) |
@@ -5355,6 +5356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket Balls | 103201 | [103201-bucket-balls.json](./103201-bucket-balls.json) |
 | Bucket Brawl: Ahlman Edition | 253354 | [253354-bucket-brawl-ahlman-edition.json](./253354-bucket-brawl-ahlman-edition.json) |
 | Bucket Crusher: Complete Edition | 290440 | [290440-bucket-crusher-complete-edition.json](./290440-bucket-crusher-complete-edition.json) |
+| Bucket List | 22741 | [22741-bucket-list.json](./22741-bucket-list.json) |
 | Bucko | 236359 | [236359-bucko.json](./236359-bucko.json) |
 | Bucky O'Hare | 18808 | [18808-bucky-ohare.json](./18808-bucky-ohare.json) |
 | Bud Farm: Munchie Match | 245347 | [245347-bud-farm-munchie-match.json](./245347-bud-farm-munchie-match.json) |
@@ -5582,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bungie Mac Action Sack | 172660 | [172660-bungie-mac-action-sack.json](./172660-bungie-mac-action-sack.json) |
 | Bungmyeong | 145640 | [145640-bungmyeong.json](./145640-bungmyeong.json) |
 | Bungo to Alchemist | 314458 | [314458-bungo-to-alchemist.json](./314458-bungo-to-alchemist.json) |
+| Bunker | 22780 | [22780-bunker.json](./22780-bunker.json) |
 | Bunker 22 | 203892 | [203892-bunker-22.json](./203892-bunker-22.json) |
 | Bunker 2322 | 196263 | [196263-bunker-2322.json](./196263-bunker-2322.json) |
 | Bunker 58 | 29638 | [29638-bunker-58.json](./29638-bunker-58.json) |
