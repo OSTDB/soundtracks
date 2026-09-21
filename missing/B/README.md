@@ -1803,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bebe Miner | 416664 | [416664-bebe-miner.json](./416664-bebe-miner.json) |
 | Beboop to the Rescue! | 211431 | [211431-beboop-to-the-rescue.json](./211431-beboop-to-the-rescue.json) |
 | Bebop and Tempo | 43893 | [43893-bebop-and-tempo.json](./43893-bebop-and-tempo.json) |
+| Bebylon Battle Royale | 56757 | [56757-bebylon-battle-royale.json](./56757-bebylon-battle-royale.json) |
 | Becalm | 113863 | [113863-becalm.json](./113863-becalm.json) |
 | Because It's a Dream, It Must Be Romance: Connecting Hearts Across Realities | 399613 | [399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json](./399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json) |
 | Beckett | 89504 | [89504-beckett.json](./89504-beckett.json) |
@@ -3362,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks Stacking | 153352 | [153352-blocks-stacking.json](./153352-blocks-stacking.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
 | Blockshock | 83482 | [83482-blockshock.json](./83482-blockshock.json) |
+| BlockShot Champion | 56783 | [56783-blockshot-champion.json](./56783-blockshot-champion.json) |
 | BlockStarPlanet | 55168 | [55168-blockstarplanet.json](./55168-blockstarplanet.json) |
 | Blockstory | 137030 | [137030-blockstory.json](./137030-blockstory.json) |
 | Blocksworld | 68685 | [68685-blocksworld.json](./68685-blocksworld.json) |
