@@ -2699,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
 | Shin Fumi Ikemen Ouoku Kinjirareta Koi | 229027 | [229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json](./229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json) |
+| Shin Gundam Musou | 52832 | [52832-shin-gundam-musou.json](./52832-shin-gundam-musou.json) |
 | Shin Hayarigami | 79331 | [79331-shin-hayarigami.json](./79331-shin-hayarigami.json) |
 | Shin Hayarigami: Blindman | 95861 | [95861-shin-hayarigami-blindman.json](./95861-shin-hayarigami-blindman.json) |
 | Shin Hayarigami: Doll | 196705 | [196705-shin-hayarigami-doll.json](./196705-shin-hayarigami-doll.json) |
@@ -3687,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar MegaHits | 268748 | [268748-singstar-megahits.json](./268748-singstar-megahits.json) |
 | SingStar Patito Feo | 268749 | [268749-singstar-patito-feo.json](./268749-singstar-patito-feo.json) |
 | SingStar Starter Pack | 268746 | [268746-singstar-starter-pack.json](./268746-singstar-starter-pack.json) |
+| SingStar Vol. 3: Party Edition | 52829 | [52829-singstar-vol-3-party-edition.json](./52829-singstar-vol-3-party-edition.json) |
 | SingStar: A Tutto Pop | 268743 | [268743-singstar-a-tutto-pop.json](./268743-singstar-a-tutto-pop.json) |
 | SingStar: Afrikaanse Treffers | 15439 | [15439-singstar-afrikaanse-treffers.json](./15439-singstar-afrikaanse-treffers.json) |
 | SingStar: Cantautori Italiani | 15440 | [15440-singstar-cantautori-italiani.json](./15440-singstar-cantautori-italiani.json) |
@@ -3907,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
 | Sketch! Run! | 105886 | [105886-sketch-run.json](./105886-sketch-run.json) |
 | Sketchbook Squad | 397778 | [397778-sketchbook-squad.json](./397778-sketchbook-squad.json) |
+| Sketchcross | 52824 | [52824-sketchcross.json](./52824-sketchcross.json) |
 | Sketchfab VR | 32920 | [32920-sketchfab-vr.json](./32920-sketchfab-vr.json) |
 | Sketchful.io | 122975 | [122975-sketchful-io.json](./122975-sketchful-io.json) |
 | Sketchy | 54461 | [54461-sketchy.json](./54461-sketchy.json) |
@@ -5094,6 +5097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowy: Fish Frenzy | 71519 | [71519-snowy-fish-frenzy.json](./71519-snowy-fish-frenzy.json) |
 | Snowy: Lunch Rush | 73289 | [73289-snowy-lunch-rush.json](./73289-snowy-lunch-rush.json) |
 | Snowy: Space Trip | 69835 | [69835-snowy-space-trip.json](./69835-snowy-space-trip.json) |
+| Snowy: Treasure Hunter | 52855 | [52855-snowy-treasure-hunter.json](./52855-snowy-treasure-hunter.json) |
 | Snufkin: Melody of Moominvalley | 180149 | [180149-snufkin-melody-of-moominvalley.json](./180149-snufkin-melody-of-moominvalley.json) |
 | Snug Finder | 207879 | [207879-snug-finder.json](./207879-snug-finder.json) |
 | Snug Finder & Puzzles | 231059 | [231059-snug-finder-and-puzzles.json](./231059-snug-finder-and-puzzles.json) |
@@ -5115,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Who's Dr. Rabbit? | 291974 | [291974-so-whos-dr-rabbit.json](./291974-so-whos-dr-rabbit.json) |
 | So-Gnar | 176465 | [176465-so-gnar.json](./176465-so-gnar.json) |
 | Soak & Splash | 250948 | [250948-soak-and-splash.json](./250948-soak-and-splash.json) |
+| Soaked! | 52854 | [52854-soaked.json](./52854-soaked.json) |
 | Soap Killer | 399075 | [399075-soap-killer.json](./399075-soap-killer.json) |
 | Soapy Tales | 392763 | [392763-soapy-tales.json](./392763-soapy-tales.json) |
 | Soar | 306951 | [306951-soar.json](./306951-soar.json) |
@@ -6204,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soups Christmas | 310606 | [310606-soups-christmas.json](./310606-soups-christmas.json) |
 | Soupsoup | 265948 | [265948-soupsoup.json](./265948-soupsoup.json) |
 | Souptown Matty | 304709 | [304709-souptown-matty.json](./304709-souptown-matty.json) |
+| Sour Patch Kids: World Gone Sour | 52845 | [52845-sour-patch-kids-world-gone-sour.json](./52845-sour-patch-kids-world-gone-sour.json) |
 | Source | 80232 | [80232-source.json](./80232-source.json) |
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
@@ -7392,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Party | 110057 | [110057-sports-party.json](./110057-sports-party.json) |
 | Sports Pinball Bundle | 153837 | [153837-sports-pinball-bundle.json](./153837-sports-pinball-bundle.json) |
 | Sports: Renovations | 314456 | [314456-sports-renovations.json](./314456-sports-renovations.json) |
+| SportsBarVR | 52837 | [52837-sportsbarvr.json](./52837-sportsbarvr.json) |
 | Spot | 119584 | [119584-spot.json](./119584-spot.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
@@ -7834,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Gun | 348780 | [348780-star-gun.json](./348780-star-gun.json) |
 | Star gunner | 40795 | [40795-star-gunner.json](./40795-star-gunner.json) |
 | Star Hacker | 197364 | [197364-star-hacker.json](./197364-star-hacker.json) |
+| Star Hammer Tactics | 52860 | [52860-star-hammer-tactics.json](./52860-star-hammer-tactics.json) |
 | Star Hammer: The Vanguard Prophecy | 36049 | [36049-star-hammer-the-vanguard-prophecy.json](./36049-star-hammer-the-vanguard-prophecy.json) |
 | Star Hearts: Launch Point | 200713 | [200713-star-hearts-launch-point.json](./200713-star-hearts-launch-point.json) |
 | Star Hogs: Online & Campaign Battles | 79625 | [79625-star-hogs-online-and-campaign-battles.json](./79625-star-hogs-online-and-campaign-battles.json) |
@@ -7991,6 +7999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Battlefront: Battle of Jakku | 23293 | [23293-star-wars-battlefront-battle-of-jakku.json](./23293-star-wars-battlefront-battle-of-jakku.json) |
 | Star Wars Battlefront: Death Star | 20470 | [20470-star-wars-battlefront-death-star.json](./20470-star-wars-battlefront-death-star.json) |
 | Star Wars Battlefront: Hoth Bundle | 115714 | [115714-star-wars-battlefront-hoth-bundle.json](./115714-star-wars-battlefront-hoth-bundle.json) |
+| Star Wars Battlefront: Rogue One - X-Wing VR Mission | 52879 | [52879-star-wars-battlefront-rogue-one-x-wing-vr-mission.json](./52879-star-wars-battlefront-rogue-one-x-wing-vr-mission.json) |
 | Star Wars Challenge | 86087 | [86087-star-wars-challenge.json](./86087-star-wars-challenge.json) |
 | Star Wars Chess | 11289 | [11289-star-wars-chess.json](./11289-star-wars-chess.json) |
 | Star Wars Collection | 54400 | [54400-star-wars-collection.json](./54400-star-wars-collection.json) |
@@ -8494,6 +8503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Blade | 278402 | [278402-stealth-blade.json](./278402-stealth-blade.json) |
 | Stealth Force: The War on Terror | 43291 | [43291-stealth-force-the-war-on-terror.json](./43291-stealth-force-the-war-on-terror.json) |
 | Stealth Horror: Grand Daddy | 97098 | [97098-stealth-horror-grand-daddy.json](./97098-stealth-horror-grand-daddy.json) |
+| Stealth Inc: A Clone in the Dark - Ultimate Edition | 52872 | [52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json](./52872-stealth-inc-a-clone-in-the-dark-ultimate-edition.json) |
 | Stealth Inc. 2: A Game of Clones Deluxe | 51893 | [51893-stealth-inc-2-a-game-of-clones-deluxe.json](./51893-stealth-inc-2-a-game-of-clones-deluxe.json) |
 | Stealth Operative Syn: Virtual Training | 406221 | [406221-stealth-operative-syn-virtual-training.json](./406221-stealth-operative-syn-virtual-training.json) |
 | Stealth Prankster | 180126 | [180126-stealth-prankster.json](./180126-stealth-prankster.json) |
@@ -8616,6 +8626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella Supernova: The Astral Vale | 417538 | [417538-stella-supernova-the-astral-vale.json](./417538-stella-supernova-the-astral-vale.json) |
 | Stellanova | 216264 | [216264-stellanova.json](./216264-stellanova.json) |
 | Stellar 2D | 34763 | [34763-stellar-2d.json](./34763-stellar-2d.json) |
+| Stellar Attack | 52870 | [52870-stellar-attack.json](./52870-stellar-attack.json) |
 | Stellar Bewitching | 314057 | [314057-stellar-bewitching.json](./314057-stellar-bewitching.json) |
 | Stellar Blade x Nier: Automata | 317626 | [317626-stellar-blade-x-nier-automata.json](./317626-stellar-blade-x-nier-automata.json) |
 | Stellar Blade: Digital Deluxe Edition | 286672 | [286672-stellar-blade-digital-deluxe-edition.json](./286672-stellar-blade-digital-deluxe-edition.json) |
@@ -9241,6 +9252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreetCraft | 32933 | [32933-streetcraft.json](./32933-streetcraft.json) |
 | StreetCricket | 105902 | [105902-streetcricket.json](./105902-streetcricket.json) |
 | Streetdance 3D | 9466 | [9466-streetdance-3d.json](./9466-streetdance-3d.json) |
+| Streetkix Freestyle | 52865 | [52865-streetkix-freestyle.json](./52865-streetkix-freestyle.json) |
 | Streets of Fortuna | 305186 | [305186-streets-of-fortuna.json](./305186-streets-of-fortuna.json) |
 | Streets of Gotham City | 272015 | [272015-streets-of-gotham-city.json](./272015-streets-of-gotham-city.json) |
 | Streets of Handbags | 317835 | [317835-streets-of-handbags.json](./317835-streets-of-handbags.json) |
@@ -9259,6 +9271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreetSync | 332983 | [332983-streetsync.json](./332983-streetsync.json) |
 | Strength & Honour 2 | 54404 | [54404-strength-and-honour-2.json](./54404-strength-and-honour-2.json) |
 | Strength & Skill: Guiness Book of Records | 283734 | [283734-strength-and-skill-guiness-book-of-records.json](./283734-strength-and-skill-guiness-book-of-records.json) |
+| Strength of the Sword 3 | 52864 | [52864-strength-of-the-sword-3.json](./52864-strength-of-the-sword-3.json) |
 | Stress Ball | 285448 | [285448-stress-ball.json](./285448-stress-ball.json) |
 | Stress Test | 200168 | [200168-stress-test.json](./200168-stress-test.json) |
 | Stress, Out! | 258716 | [258716-stress-out.json](./258716-stress-out.json) |
@@ -9878,6 +9891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunflower Land | 196770 | [196770-sunflower-land.json](./196770-sunflower-land.json) |
 | Sunflower Maintenance | 186260 | [186260-sunflower-maintenance.json](./186260-sunflower-maintenance.json) |
 | Sunflower Stronghold | 384519 | [384519-sunflower-stronghold.json](./384519-sunflower-stronghold.json) |
+| SunFlowers | 52861 | [52861-sunflowers.json](./52861-sunflowers.json) |
 | Sunforge Solar Survival | 322980 | [322980-sunforge-solar-survival.json](./322980-sunforge-solar-survival.json) |
 | Sungaia Saga | 337731 | [337731-sungaia-saga.json](./337731-sungaia-saga.json) |
 | Sunken Brawl | 75147 | [75147-sunken-brawl.json](./75147-sunken-brawl.json) |
@@ -10866,6 +10880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Squad | 127075 | [127075-super-squad.json](./127075-super-squad.json) |
 | Super Squad: Super Pack | 155467 | [155467-super-squad-super-pack.json](./155467-super-squad-super-pack.json) |
 | Super Stacey World | 223025 | [223025-super-stacey-world.json](./223025-super-stacey-world.json) |
+| Super Stacker | 52894 | [52894-super-stacker.json](./52894-super-stacker.json) |
 | Super Star | 32027 | [32027-super-star.json](./32027-super-star.json) |
 | Super Star Car | 146714 | [146714-super-star-car.json](./146714-super-star-car.json) |
 | Super Star Panda | 80950 | [80950-super-star-panda.json](./80950-super-star-panda.json) |
