@@ -991,6 +991,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire II: Interstellar Sharks | 24893 | [24893-empire-ii-interstellar-sharks.json](./24893-empire-ii-interstellar-sharks.json) |
 | Empire III: Armageddon | 24894 | [24894-empire-iii-armageddon.json](./24894-empire-iii-armageddon.json) |
 | Empire in Decay | 352199 | [352199-empire-in-decay.json](./352199-empire-in-decay.json) |
+| Empire of Angels | 56126 | [56126-empire-of-angels.json](./56126-empire-of-angels.json) |
+| Empire of Angels II | 56124 | [56124-empire-of-angels-ii.json](./56124-empire-of-angels-ii.json) |
 | Empire of Angels IV | 78589 | [78589-empire-of-angels-iv.json](./78589-empire-of-angels-iv.json) |
 | Empire of Atlantis | 66950 | [66950-empire-of-atlantis.json](./66950-empire-of-atlantis.json) |
 | Empire of Empires | 211966 | [211966-empire-of-empires.json](./211966-empire-of-empires.json) |
@@ -2299,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution Soccer | 137690 | [137690-evolution-soccer.json](./137690-evolution-soccer.json) |
 | Evolution: Dino Dudes | 40801 | [40801-evolution-dino-dudes.json](./40801-evolution-dino-dudes.json) |
 | Evolution: Dragon X | 267354 | [267354-evolution-dragon-x.json](./267354-evolution-dragon-x.json) |
+| Evolution: Heroes of Utopia | 56138 | [56138-evolution-heroes-of-utopia.json](./56138-evolution-heroes-of-utopia.json) |
 | Evolution: Indian Hunter - Unlimited Edition | 201261 | [201261-evolution-indian-hunter-unlimited-edition.json](./201261-evolution-indian-hunter-unlimited-edition.json) |
 | Evolution: The Game of Intelligent Life | 37049 | [37049-evolution-the-game-of-intelligent-life.json](./37049-evolution-the-game-of-intelligent-life.json) |
 | Evolutis: Duality | 129170 | [129170-evolutis-duality.json](./129170-evolutis-duality.json) |
