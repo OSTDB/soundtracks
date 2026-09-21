@@ -3376,6 +3376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroLink Shut the Box | 74063 | [74063-microlink-shut-the-box.json](./74063-microlink-shut-the-box.json) |
 | Micromon Adventures | 105865 | [105865-micromon-adventures.json](./105865-micromon-adventures.json) |
 | Micron Defense Force | 303062 | [303062-micron-defense-force.json](./303062-micron-defense-force.json) |
+| Micropede | 14504 | [14504-micropede.json](./14504-micropede.json) |
 | Micropolis | 46622 | [46622-micropolis.json](./46622-micropolis.json) |
 | MicroProse Entertainment Pack Vol #1: Dr Floyd's Desktop Toys | 98962 | [98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json](./98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json) |
 | Microscape | 411686 | [411686-microscape.json](./411686-microscape.json) |
