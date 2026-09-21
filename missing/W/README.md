@@ -2016,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Hunters: Full Moon Ceremony - Collector's Edition | 74350 | [74350-witch-hunters-full-moon-ceremony-collectors-edition.json](./74350-witch-hunters-full-moon-ceremony-collectors-edition.json) |
 | Witch Isis | 82835 | [82835-witch-isis.json](./82835-witch-isis.json) |
 | Witch Island II | 82367 | [82367-witch-island-ii.json](./82367-witch-island-ii.json) |
+| Witch It | 30408 | [30408-witch-it.json](./30408-witch-it.json) |
 | Witch n' Wiz | 179670 | [179670-witch-n-wiz.json](./179670-witch-n-wiz.json) |
 | Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
 | Witch Ring Meister | 116867 | [116867-witch-ring-meister.json](./116867-witch-ring-meister.json) |
