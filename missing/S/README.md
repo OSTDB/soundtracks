@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Files: Tunguska | 5145 | [5145-secret-files-tunguska.json](./5145-secret-files-tunguska.json) |
 | Secret Forest | 295277 | [295277-secret-forest.json](./295277-secret-forest.json) |
 | Secret Government | 110178 | [110178-secret-government.json](./110178-secret-government.json) |
+| Secret Habitat | 56176 | [56176-secret-habitat.json](./56176-secret-habitat.json) |
 | Secret HavEat | 352209 | [352209-secret-haveat.json](./352209-secret-haveat.json) |
 | Secret House | 133224 | [133224-secret-house.json](./133224-secret-house.json) |
 | Secret in Flower | 395578 | [395578-secret-in-flower.json](./395578-secret-in-flower.json) |
@@ -1694,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai no Hate Made Itte Q! Chinjuu Hunter Imoto no Daibouken | 133797 | [133797-sekai-no-hate-made-itte-q-chinjuu-hunter-imoto-no-daibouken.json](./133797-sekai-no-hate-made-itte-q-chinjuu-hunter-imoto-no-daibouken.json) |
 | Sekai Saikyou Ginsei Igo | 107136 | [107136-sekai-saikyou-ginsei-igo.json](./107136-sekai-saikyou-ginsei-igo.json) |
 | Sekai Saikyou Ginsei Igo 3 | 347157 | [347157-sekai-saikyou-ginsei-igo-3.json](./347157-sekai-saikyou-ginsei-igo-3.json) |
+| Sekai Saikyou Ginsei Shogi | 56158 | [56158-sekai-saikyou-ginsei-shogi.json](./56158-sekai-saikyou-ginsei-shogi.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
 | Sekure Fuumin no Omocha Hako | 254500 | [254500-sekure-fuumin-no-omocha-hako.json](./254500-sekure-fuumin-no-omocha-hako.json) |
@@ -4685,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMH | 277393 | [277393-smh.json](./277393-smh.json) |
 | Smile | 129706 | [129706-smile.json](./129706-smile.json) |
 | Smile For Me: Collector's Edition | 229691 | [229691-smile-for-me-collectors-edition.json](./229691-smile-for-me-collectors-edition.json) |
+| Smile Guide: The Apple Escape | 56136 | [56136-smile-guide-the-apple-escape.json](./56136-smile-guide-the-apple-escape.json) |
 | Smile More | 395023 | [395023-smile-more.json](./395023-smile-more.json) |
 | Smile Simulation | 303078 | [303078-smile-simulation.json](./303078-smile-simulation.json) |
 | Smile Town | 338191 | [338191-smile-town.json](./338191-smile-town.json) |
