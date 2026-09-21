@@ -1849,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of the Kingdom Collection | 53187 | [53187-hero-of-the-kingdom-collection.json](./53187-hero-of-the-kingdom-collection.json) |
 | Hero or Foe | 173232 | [173232-hero-or-foe.json](./173232-hero-or-foe.json) |
 | Hero Pack | 340466 | [340466-hero-pack.json](./340466-hero-pack.json) |
+| Hero Panda Bomber | 60794 | [60794-hero-panda-bomber.json](./60794-hero-panda-bomber.json) |
 | Hero Park | 156651 | [156651-hero-park.json](./156651-hero-park.json) |
 | Hero Quest | 331670 | [331670-hero-quest.json](./331670-hero-quest.json) |
 | Hero Quest: Tower Conflict | 33248 | [33248-hero-quest-tower-conflict.json](./33248-hero-quest-tower-conflict.json) |
@@ -2486,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Matsuri: Ch.8 Minagoroshi-hen | 262694 | [262694-higurashi-no-naku-koro-ni-matsuri-ch-8-minagoroshi-hen.json](./262694-higurashi-no-naku-koro-ni-matsuri-ch-8-minagoroshi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Final Chapter - Miotsukushi-hen | 262697 | [262697-higurashi-no-naku-koro-ni-matsuri-final-chapter-miotsukushi-hen.json](./262697-higurashi-no-naku-koro-ni-matsuri-final-chapter-miotsukushi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Kakera Asobi | 262698 | [262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json](./262698-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json) |
+| Higurashi no Naku Koro ni Sui | 60788 | [60788-higurashi-no-naku-koro-ni-sui.json](./60788-higurashi-no-naku-koro-ni-sui.json) |
 | Higurashi When They Cry | 9700 | [9700-higurashi-when-they-cry.json](./9700-higurashi-when-they-cry.json) |
 | Higurashi When They Cry Hou - Console Arcs | 347709 | [347709-higurashi-when-they-cry-hou-console-arcs.json](./347709-higurashi-when-they-cry-hou-console-arcs.json) |
 | Higurashi When They Cry Hou: Ch.4 Himatsubushi | 31363 | [31363-higurashi-when-they-cry-hou-ch-4-himatsubushi.json](./31363-higurashi-when-they-cry-hou-ch-4-himatsubushi.json) |
@@ -3943,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hwajilguji | 219147 | [219147-hwajilguji.json](./219147-hwajilguji.json) |
 | Hyacinth | 225747 | [225747-hyacinth.json](./225747-hyacinth.json) |
 | Hyacinthus | 120942 | [120942-hyacinthus.json](./120942-hyacinthus.json) |
+| Hyakka Ryouran Elixir | 60776 | [60776-hyakka-ryouran-elixir.json](./60776-hyakka-ryouran-elixir.json) |
 | Hyakkano: 100 Girlfriends | 408167 | [408167-hyakkano-100-girlfriends.json](./408167-hyakkano-100-girlfriends.json) |
 | Hyakki Yako Survivor | 331332 | [331332-hyakki-yako-survivor.json](./331332-hyakki-yako-survivor.json) |
 | Hyakki Yako: OH&S | 259289 | [259289-hyakki-yako-oh-and-s.json](./259289-hyakki-yako-oh-and-s.json) |
