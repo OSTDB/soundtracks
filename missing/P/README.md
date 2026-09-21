@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
 | Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
 | Pac-Man Social | 64682 | [64682-pac-man-social.json](./64682-pac-man-social.json) |
+| Pac-Man World | 6530 | [6530-pac-man-world.json](./6530-pac-man-world.json) |
 | Pac-Man World | 84190 | [84190-pac-man-world.json](./84190-pac-man-world.json) |
 | Pac-Man World 2 | 134428 | [134428-pac-man-world-2.json](./134428-pac-man-world-2.json) |
 | Pac-Man World 2 Re-Pac | 358530 | [358530-pac-man-world-2-re-pac.json](./358530-pac-man-world-2-re-pac.json) |
@@ -2357,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pine: A Story of Loss | 300365 | [300365-pine-a-story-of-loss.json](./300365-pine-a-story-of-loss.json) |
 | Pineapple | 311242 | [311242-pineapple.json](./311242-pineapple.json) |
 | Pineapple Defense | 298152 | [298152-pineapple-defense.json](./298152-pineapple-defense.json) |
+| Pineapple on Pizza | 240496 | [240496-pineapple-on-pizza.json](./240496-pineapple-on-pizza.json) |
 | Pineapple Panic! | 337652 | [337652-pineapple-panic.json](./337652-pineapple-panic.json) |
 | Pineapple Smash Crew | 16330 | [16330-pineapple-smash-crew.json](./16330-pineapple-smash-crew.json) |
 | PineapplePizza | 28159 | [28159-pineapplepizza.json](./28159-pineapplepizza.json) |
@@ -4132,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post-Soviet Yandere | 159838 | [159838-post-soviet-yandere.json](./159838-post-soviet-yandere.json) |
 | Postal 2: A Very Postal Christmas | 129788 | [129788-postal-2-a-very-postal-christmas.json](./129788-postal-2-a-very-postal-christmas.json) |
 | Postal 2: A Week in Paradise | 129789 | [129789-postal-2-a-week-in-paradise.json](./129789-postal-2-a-week-in-paradise.json) |
+| Postal 2: Apocalypse Weekend | 3131 | [3131-postal-2-apocalypse-weekend.json](./3131-postal-2-apocalypse-weekend.json) |
 | Postal 2: CO-OP | 360077 | [360077-postal-2-co-op.json](./360077-postal-2-co-op.json) |
 | Postal F: The Thursday Expansion - A Mod for Friday Night Funkin'. | 298715 | [298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json](./298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json) |
 | Postal: Redux | 8716 | [8716-postal-redux.json](./8716-postal-redux.json) |
@@ -5248,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protectors | 223988 | [223988-protectors.json](./223988-protectors.json) |
 | Protektor | 176516 | [176516-protektor.json](./176516-protektor.json) |
 | Protestal | 393634 | [393634-protestal.json](./393634-protestal.json) |
+| Proteus | 2163 | [2163-proteus.json](./2163-proteus.json) |
 | Proteus Zone | 355111 | [355111-proteus-zone.json](./355111-proteus-zone.json) |
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
 | Proto_1987_01_IT | 339817 | [339817-proto-1987-01-it.json](./339817-proto-1987-01-it.json) |
