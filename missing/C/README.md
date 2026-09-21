@@ -1827,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Front | 291490 | [291490-chaos-front.json](./291490-chaos-front.json) |
 | Chaos Galaxy 2 | 148997 | [148997-chaos-galaxy-2.json](./148997-chaos-galaxy-2.json) |
 | Chaos Hero | 335328 | [335328-chaos-hero.json](./335328-chaos-hero.json) |
+| Chaos In Andromeda | 15873 | [15873-chaos-in-andromeda.json](./15873-chaos-in-andromeda.json) |
 | Chaos Islands | 296395 | [296395-chaos-islands.json](./296395-chaos-islands.json) |
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
 | Chaos League | 50120 | [50120-chaos-league.json](./50120-chaos-league.json) |
@@ -1947,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Château Royale Jigsaw: Expansion Pack 2 | 357877 | [357877-chateau-royale-jigsaw-expansion-pack-2.json](./357877-chateau-royale-jigsaw-expansion-pack-2.json) |
 | Château Royale Jigsaw: Expansion Pack 3 | 357878 | [357878-chateau-royale-jigsaw-expansion-pack-3.json](./357878-chateau-royale-jigsaw-expansion-pack-3.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
+| CHE: Guerrilla In Bolivia | 15874 | [15874-che-guerrilla-in-bolivia.json](./15874-che-guerrilla-in-bolivia.json) |
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
 | Cheapshot | 130885 | [130885-cheapshot.json](./130885-cheapshot.json) |
 | CheatCheat | 402363 | [402363-cheatcheat.json](./402363-cheatcheat.json) |
@@ -2110,6 +2112,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChessLocke | 144118 | [144118-chesslocke.json](./144118-chesslocke.json) |
 | Chessmaster | 23714 | [23714-chessmaster.json](./23714-chessmaster.json) |
 | Chessmaster | 343921 | [343921-chessmaster.json](./343921-chessmaster.json) |
+| Chessmaster 7000 | 15880 | [15880-chessmaster-7000.json](./15880-chessmaster-7000.json) |
+| Chessmaster 8000 | 15881 | [15881-chessmaster-8000.json](./15881-chessmaster-8000.json) |
+| Chessmaster 9000 | 15882 | [15882-chessmaster-9000.json](./15882-chessmaster-9000.json) |
 | Chessmaster Live: Calvert Chess Set | 344953 | [344953-chessmaster-live-calvert-chess-set.json](./344953-chessmaster-live-calvert-chess-set.json) |
 | Chessmaster Live: Classic Set | 347216 | [347216-chessmaster-live-classic-set.json](./347216-chessmaster-live-classic-set.json) |
 | Chessmaster Live: Egypt Chess Set | 347215 | [347215-chessmaster-live-egypt-chess-set.json](./347215-chessmaster-live-egypt-chess-set.json) |
@@ -2117,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster Live: Mongol Chess Set | 347214 | [347214-chessmaster-live-mongol-chess-set.json](./347214-chessmaster-live-mongol-chess-set.json) |
 | Chessmaster Live: Mushrooms Set | 347139 | [347139-chessmaster-live-mushrooms-set.json](./347139-chessmaster-live-mushrooms-set.json) |
 | Chessmaster Live: Pyramids Chess Set | 347213 | [347213-chessmaster-live-pyramids-chess-set.json](./347213-chessmaster-live-pyramids-chess-set.json) |
+| Chessmaster: Grandmaster Edition | 15884 | [15884-chessmaster-grandmaster-edition.json](./15884-chessmaster-grandmaster-edition.json) |
 | Chessmaster: The Art of Learning | 20777 | [20777-chessmaster-the-art-of-learning.json](./20777-chessmaster-the-art-of-learning.json) |
 | Chessmate | 413719 | [413719-chessmate.json](./413719-chessmate.json) |
 | Chesst | 400891 | [400891-chesst.json](./400891-chesst.json) |
@@ -2322,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Checkers Deluxe | 67983 | [67983-chinese-checkers-deluxe.json](./67983-chinese-checkers-deluxe.json) |
 | Chinese Chess Deluxe | 146922 | [146922-chinese-chess-deluxe.json](./146922-chinese-chess-deluxe.json) |
 | Chinese Expeditionary Force: Assault Team | 233783 | [233783-chinese-expeditionary-force-assault-team.json](./233783-chinese-expeditionary-force-assault-team.json) |
+| Chinese Karate | 15885 | [15885-chinese-karate.json](./15885-chinese-karate.json) |
 | Chinese mother in law | 158166 | [158166-chinese-mother-in-law.json](./158166-chinese-mother-in-law.json) |
 | Chinese New Year 2013 | 233779 | [233779-chinese-new-year-2013.json](./233779-chinese-new-year-2013.json) |
 | Chinese Paladin 5 Prequel | 68175 | [68175-chinese-paladin-5-prequel.json](./68175-chinese-paladin-5-prequel.json) |
@@ -4255,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict: Global Terror | 5785 | [5785-conflict-global-terror.json](./5785-conflict-global-terror.json) |
 | Conflict: Korea the First Year 1950-1951 | 77318 | [77318-conflict-korea-the-first-year-1950-1951.json](./77318-conflict-korea-the-first-year-1950-1951.json) |
 | Conflict: Middle East | 69884 | [69884-conflict-middle-east.json](./69884-conflict-middle-east.json) |
+| Conflict: Middle East - Arab/Israeli Wars: 1973-? | 15917 | [15917-conflict-middle-east-arab-israeli-wars-1973.json](./15917-conflict-middle-east-arab-israeli-wars-1973.json) |
 | ConflictCraft 2 | 190087 | [190087-conflictcraft-2.json](./190087-conflictcraft-2.json) |
 | Conflux | 320520 | [320520-conflux.json](./320520-conflux.json) |
 | Confrontation | 282719 | [282719-confrontation.json](./282719-confrontation.json) |
@@ -4699,6 +4707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmi-Cave 64 | 106414 | [106414-cosmi-cave-64.json](./106414-cosmi-cave-64.json) |
 | Cosmic Badger | 197746 | [197746-cosmic-badger.json](./197746-cosmic-badger.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
+| Cosmic Bouncer | 15918 | [15918-cosmic-bouncer.json](./15918-cosmic-bouncer.json) |
 | Cosmic Break | 80556 | [80556-cosmic-break.json](./80556-cosmic-break.json) |
 | Cosmic Call | 319212 | [319212-cosmic-call.json](./319212-cosmic-call.json) |
 | Cosmic Cannon | 327195 | [327195-cosmic-cannon.json](./327195-cosmic-cannon.json) |
@@ -4832,6 +4841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couic d'or ! | 328595 | [328595-couic-dor.json](./328595-couic-dor.json) |
 | Count 427 | 287624 | [287624-count-427.json](./287624-count-427.json) |
 | Count Downula | 109040 | [109040-count-downula.json](./109040-count-downula.json) |
+| Count Duckula 2: Featuring Tremendous Terence | 15919 | [15919-count-duckula-2-featuring-tremendous-terence.json](./15919-count-duckula-2-featuring-tremendous-terence.json) |
 | Count Logica | 110135 | [110135-count-logica.json](./110135-count-logica.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
 | Count to Ten: Supporter Edition | 310385 | [310385-count-to-ten-supporter-edition.json](./310385-count-to-ten-supporter-edition.json) |
@@ -5625,6 +5635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossbow Crusade | 148568 | [148568-crossbow-crusade.json](./148568-crossbow-crusade.json) |
 | Crossbow Potato | 112311 | [112311-crossbow-potato.json](./112311-crossbow-potato.json) |
 | Crossbow Warrior: The Legend of William Tell | 34196 | [34196-crossbow-warrior-the-legend-of-william-tell.json](./34196-crossbow-warrior-the-legend-of-william-tell.json) |
+| CrossCheck | 15920 | [15920-crosscheck.json](./15920-crosscheck.json) |
 | Crossclimb | 321118 | [321118-crossclimb.json](./321118-crossclimb.json) |
 | Crosscountry BC | 399085 | [399085-crosscountry-bc.json](./399085-crosscountry-bc.json) |
 | Crosscountry California | 399068 | [399068-crosscountry-california.json](./399068-crosscountry-california.json) |
@@ -5925,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Gal Mahjong II | 123071 | [123071-crystal-gal-mahjong-ii.json](./123071-crystal-gal-mahjong-ii.json) |
 | Crystal Guardian | 296668 | [296668-crystal-guardian.json](./296668-crystal-guardian.json) |
 | Crystal Guardians | 316058 | [316058-crystal-guardians.json](./316058-crystal-guardians.json) |
+| Crystal Hammer | 15921 | [15921-crystal-hammer.json](./15921-crystal-hammer.json) |
 | Crystal Hearts 2: Compass of Dimension | 174729 | [174729-crystal-hearts-2-compass-of-dimension.json](./174729-crystal-hearts-2-compass-of-dimension.json) |
 | Crystal Horizons | 295787 | [295787-crystal-horizons.json](./295787-crystal-horizons.json) |
 | Crystal Ice Quest | 146899 | [146899-crystal-ice-quest.json](./146899-crystal-ice-quest.json) |
@@ -6492,6 +6504,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberchase: Mission Motherboard | 143086 | [143086-cyberchase-mission-motherboard.json](./143086-cyberchase-mission-motherboard.json) |
 | Cyberchase: The Quest 1 - Mission Motherboard | 140627 | [140627-cyberchase-the-quest-1-mission-motherboard.json](./140627-cyberchase-the-quest-1-mission-motherboard.json) |
 | CyberClub-2077 | 72342 | [72342-cyberclub-2077.json](./72342-cyberclub-2077.json) |
+| Cybercon | 15923 | [15923-cybercon.json](./15923-cybercon.json) |
+| Cybercon II | 15922 | [15922-cybercon-ii.json](./15922-cybercon-ii.json) |
 | Cybercop | 287115 | [287115-cybercop.json](./287115-cybercop.json) |
 | Cybercum 2069 | 305763 | [305763-cybercum-2069.json](./305763-cybercum-2069.json) |
 | Cyberdillo | 39014 | [39014-cyberdillo.json](./39014-cyberdillo.json) |
