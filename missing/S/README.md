@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SaGaS | 272938 | [272938-sagas.json](./272938-sagas.json) |
 | Sagashimono ha, Natsu desuka. | 263237 | [263237-sagashimono-ha-natsu-desuka.json](./263237-sagashimono-ha-natsu-desuka.json) |
 | Sage Mountain | 118331 | [118331-sage-mountain.json](./118331-sage-mountain.json) |
+| Sage Solitaire | 59059 | [59059-sage-solitaire.json](./59059-sage-solitaire.json) |
 | Sages Of Kaboom | 255989 | [255989-sages-of-kaboom.json](./255989-sages-of-kaboom.json) |
 | Saghala: Heroes of the Last World | 195646 | [195646-saghala-heroes-of-the-last-world.json](./195646-saghala-heroes-of-the-last-world.json) |
 | Sagittarius: The Lost and Cursed | 352225 | [352225-sagittarius-the-lost-and-cursed.json](./352225-sagittarius-the-lost-and-cursed.json) |
@@ -218,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saily Seas | 297507 | [297507-saily-seas.json](./297507-saily-seas.json) |
 | Saimazoom | 45326 | [45326-saimazoom.json](./45326-saimazoom.json) |
 | Saimin Choukyou Shimai | 108866 | [108866-saimin-choukyou-shimai.json](./108866-saimin-choukyou-shimai.json) |
+| Saimin Reiki | 59036 | [59036-saimin-reiki.json](./59036-saimin-reiki.json) |
 | Saint | 94739 | [94739-saint.json](./94739-saint.json) |
 | Saint Dragon | 12207 | [12207-saint-dragon.json](./12207-saint-dragon.json) |
 | Saint George's Tavern | 388731 | [388731-saint-georges-tavern.json](./388731-saint-georges-tavern.json) |
@@ -1659,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seifuku: High School Countdown | 234180 | [234180-seifuku-high-school-countdown.json](./234180-seifuku-high-school-countdown.json) |
 | Seigi no Torishirabe | 240230 | [240230-seigi-no-torishirabe.json](./240230-seigi-no-torishirabe.json) |
 | Seijundrop | 252176 | [252176-seijundrop.json](./252176-seijundrop.json) |
+| Seikai Kishi Lynn Knight: Chikyuu wa Mamorete mo Kimo Otoko no Inshitsu Tanezuke Seme ni wa Katenakatta yo… | 59028 | [59028-seikai-kishi-lynn-knight-chikyuu-wa-mamorete-mo-kimo-otoko-no-inshitsu-tanezuke-seme-ni-wa-katenakatta-yo.json](./59028-seikai-kishi-lynn-knight-chikyuu-wa-mamorete-mo-kimo-otoko-no-inshitsu-tanezuke-seme-ni-wa-katenakatta-yo.json) |
 | Seiken Densetsu | 297610 | [297610-seiken-densetsu.json](./297610-seiken-densetsu.json) |
 | Seiki: Ryoujoku no Kamen | 66052 | [66052-seiki-ryoujoku-no-kamen.json](./66052-seiki-ryoujoku-no-kamen.json) |
 | Seikimatsu Tanemaki Densetsu: Shoujo Yuugi - Ai Notameni Shine! | 67265 | [67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json](./67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json) |
@@ -3511,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 12: The Quiz | 209497 | [209497-simple-1500-series-vol-12-the-quiz.json](./209497-simple-1500-series-vol-12-the-quiz.json) |
 | Simple 1500 Series Vol. 15: The Pachinko | 209498 | [209498-simple-1500-series-vol-15-the-pachinko.json](./209498-simple-1500-series-vol-15-the-pachinko.json) |
 | Simple 1500 Series Vol. 16: The Pachislot | 209499 | [209499-simple-1500-series-vol-16-the-pachislot.json](./209499-simple-1500-series-vol-16-the-pachislot.json) |
+| Simple 1500 Series Vol. 17: The Bike Race | 59052 | [59052-simple-1500-series-vol-17-the-bike-race.json](./59052-simple-1500-series-vol-17-the-bike-race.json) |
 | Simple 1500 Series Vol. 42: The Igo 2 | 82129 | [82129-simple-1500-series-vol-42-the-igo-2.json](./82129-simple-1500-series-vol-42-the-igo-2.json) |
 | Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
 | Simple 1500 Series Vol. 65: The Golf | 130774 | [130774-simple-1500-series-vol-65-the-golf.json](./130774-simple-1500-series-vol-65-the-golf.json) |
@@ -9932,6 +9936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Auto Pets | 146641 | [146641-super-auto-pets.json](./146641-super-auto-pets.json) |
 | Super Auto Racing | 245581 | [245581-super-auto-racing.json](./245581-super-auto-racing.json) |
 | Super Auto Salon: Custom Car Contest | 133782 | [133782-super-auto-salon-custom-car-contest.json](./133782-super-auto-salon-custom-car-contest.json) |
+| Super Awesome Quest | 59075 | [59075-super-awesome-quest.json](./59075-super-awesome-quest.json) |
 | Super B-Dino's adventures | 101386 | [101386-super-b-dinos-adventures.json](./101386-super-b-dinos-adventures.json) |
 | Super Baby | 97678 | [97678-super-baby.json](./97678-super-baby.json) |
 | Super Bad Hero | 296504 | [296504-super-bad-hero.json](./296504-super-bad-hero.json) |
@@ -9973,6 +9978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bowl Trivia Challenge | 88832 | [88832-super-bowl-trivia-challenge.json](./88832-super-bowl-trivia-challenge.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Brain Eat 3 | 63854 | [63854-super-brain-eat-3.json](./63854-super-brain-eat-3.json) |
+| Super Brawl 4 | 59042 | [59042-super-brawl-4.json](./59042-super-brawl-4.json) |
 | Super Breakout | 239502 | [239502-super-breakout.json](./239502-super-breakout.json) |
 | Super Breakout Ultra | 64401 | [64401-super-breakout-ultra.json](./64401-super-breakout-ultra.json) |
 | Super Brothers Escape | 213384 | [213384-super-brothers-escape.json](./213384-super-brothers-escape.json) |
