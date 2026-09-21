@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vlad Circus: Curse of Asmodeus | 337993 | [337993-vlad-circus-curse-of-asmodeus.json](./337993-vlad-circus-curse-of-asmodeus.json) |
 | Vlad the Impaler | 17309 | [17309-vlad-the-impaler.json](./17309-vlad-the-impaler.json) |
 | Vladiators | 141831 | [141831-vladiators.json](./141831-vladiators.json) |
+| Vladik Brutal | 159796 | [159796-vladik-brutal.json](./159796-vladik-brutal.json) |
 | Vladimere's Lhore | 216497 | [216497-vladimeres-lhore.json](./216497-vladimeres-lhore.json) |
 | Vladimir 2021 | 156542 | [156542-vladimir-2021.json](./156542-vladimir-2021.json) |
 | Vlogger Go Viral | 102765 | [102765-vlogger-go-viral.json](./102765-vlogger-go-viral.json) |
