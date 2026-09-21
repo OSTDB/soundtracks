@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectrexit | 273915 | [273915-vectrexit.json](./273915-vectrexit.json) |
 | Vectris | 273099 | [273099-vectris.json](./273099-vectris.json) |
 | VectroMirror | 140006 | [140006-vectromirror.json](./140006-vectromirror.json) |
+| Vecxis | 59058 | [59058-vecxis.json](./59058-vecxis.json) |
 | Ved | 126673 | [126673-ved.json](./126673-ved.json) |
 | VED: Purification | 367955 | [367955-ved-purification.json](./367955-ved-purification.json) |
 | Vedal's Secret | 386121 | [386121-vedals-secret.json](./386121-vedals-secret.json) |
