@@ -4281,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Peach | 264593 | [264593-miss-peach.json](./264593-miss-peach.json) |
 | Miss Peach World | 133780 | [133780-miss-peach-world.json](./133780-miss-peach-world.json) |
 | Miss Perfect Miss Ending | 320753 | [320753-miss-perfect-miss-ending.json](./320753-miss-perfect-miss-ending.json) |
+| Miss Spider's Sunny Patch Friends: Harvest Time Hop and Fly | 7979 | [7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json](./7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json) |
 | Miss Spider's Tea Party | 73804 | [73804-miss-spiders-tea-party.json](./73804-miss-spiders-tea-party.json) |
 | Miss World '96 | 38567 | [38567-miss-world-96.json](./38567-miss-world-96.json) |
 | Missile Base | 13740 | [13740-missile-base.json](./13740-missile-base.json) |
