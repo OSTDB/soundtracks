@@ -1847,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's the Spirit | 57354 | [57354-thats-the-spirit.json](./57354-thats-the-spirit.json) |
 | Thawed Waters | 260254 | [260254-thawed-waters.json](./260254-thawed-waters.json) |
 | The "Quiet, Please!" Collection | 95193 | [95193-the-quiet-please-collection.json](./95193-the-quiet-please-collection.json) |
+| The $100,000 Pyramid | 12372 | [12372-the-100-000-pyramid.json](./12372-the-100-000-pyramid.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
 | The 13th Floor | 356709 | [356709-the-13th-floor.json](./356709-the-13th-floor.json) |
 | The 13th Month | 166148 | [166148-the-13th-month.json](./166148-the-13th-month.json) |
@@ -2243,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Mining | 235866 | [235866-the-big-mining.json](./235866-the-big-mining.json) |
 | The Big One | 239081 | [239081-the-big-one.json](./239081-the-big-one.json) |
 | The Big Picture | 206346 | [206346-the-big-picture.json](./206346-the-big-picture.json) |
+| The Big Red Adventure | 12404 | [12404-the-big-red-adventure.json](./12404-the-big-red-adventure.json) |
 | The Big Robot Project | 146089 | [146089-the-big-robot-project.json](./146089-the-big-robot-project.json) |
 | The Big Three | 102130 | [102130-the-big-three.json](./102130-the-big-three.json) |
 | The Big Wall | 221292 | [221292-the-big-wall.json](./221292-the-big-wall.json) |
@@ -2561,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Collector | 238210 | [238210-the-collector.json](./238210-the-collector.json) |
 | The College Brickout | 306485 | [306485-the-college-brickout.json](./306485-the-college-brickout.json) |
 | The Collider 2 | 18685 | [18685-the-collider-2.json](./18685-the-collider-2.json) |
+| The Colony | 12411 | [12411-the-colony.json](./12411-the-colony.json) |
 | The Colony | 178020 | [178020-the-colony.json](./178020-the-colony.json) |
 | The Colored Moth | 184070 | [184070-the-colored-moth.json](./184070-the-colored-moth.json) |
 | The Colorful Biplane | 377719 | [377719-the-colorful-biplane.json](./377719-the-colorful-biplane.json) |
@@ -3197,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fear Island | 153866 | [153866-the-fear-island.json](./153866-the-fear-island.json) |
 | The Feast | 228727 | [228727-the-feast.json](./228727-the-feast.json) |
 | The FED | 200016 | [200016-the-fed.json](./200016-the-fed.json) |
+| The Feeble Files | 12428 | [12428-the-feeble-files.json](./12428-the-feeble-files.json) |
 | The Feral Child | 112304 | [112304-the-feral-child.json](./112304-the-feral-child.json) |
 | The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
 | The Ferryman | 201760 | [201760-the-ferryman.json](./201760-the-ferryman.json) |
@@ -4172,6 +4176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ledge | 262425 | [262425-the-ledge.json](./262425-the-ledge.json) |
 | The Leeds Devil | 188514 | [188514-the-leeds-devil.json](./188514-the-leeds-devil.json) |
 | The Left Eye | 351114 | [351114-the-left-eye.json](./351114-the-left-eye.json) |
+| The Legacy | 12437 | [12437-the-legacy.json](./12437-the-legacy.json) |
 | The Legacy | 378776 | [378776-the-legacy.json](./378776-the-legacy.json) |
 | The Legacy 2 | 95830 | [95830-the-legacy-2.json](./95830-the-legacy-2.json) |
 | The Legacy of Lunatic Omsk | 321748 | [321748-the-legacy-of-lunatic-omsk.json](./321748-the-legacy-of-lunatic-omsk.json) |
@@ -4338,6 +4343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life Threads | 225261 | [225261-the-life-threads.json](./225261-the-life-threads.json) |
 | The Lifetime | 218473 | [218473-the-lifetime.json](./218473-the-lifetime.json) |
 | The Light Box | 242557 | [242557-the-light-box.json](./242557-the-light-box.json) |
+| The Light Corridor | 12438 | [12438-the-light-corridor.json](./12438-the-light-corridor.json) |
 | The Light Empire | 34245 | [34245-the-light-empire.json](./34245-the-light-empire.json) |
 | The Light Inside Us | 55922 | [55922-the-light-inside-us.json](./55922-the-light-inside-us.json) |
 | The Light of Celestia | 335268 | [335268-the-light-of-celestia.json](./335268-the-light-of-celestia.json) |
@@ -8159,6 +8165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaplan Arcade Collection 4 | 325236 | [325236-toaplan-arcade-collection-4.json](./325236-toaplan-arcade-collection-4.json) |
 | Toaplan Arcade Garage: Flying Fire Shark | 414454 | [414454-toaplan-arcade-garage-flying-fire-shark.json](./414454-toaplan-arcade-garage-flying-fire-shark.json) |
 | Toaplan Shooting Battle 1 | 125986 | [125986-toaplan-shooting-battle-1.json](./125986-toaplan-shooting-battle-1.json) |
+| Toaru Kagaku no Railgun | 12380 | [12380-toaru-kagaku-no-railgun.json](./12380-toaru-kagaku-no-railgun.json) |
 | Toaru Majutsu no Virtual-On | 55040 | [55040-toaru-majutsu-no-virtual-on.json](./55040-toaru-majutsu-no-virtual-on.json) |
 | Toast Ghost | 307739 | [307739-toast-ghost.json](./307739-toast-ghost.json) |
 | Toast the Chicken: Hard Puzzle Game Unique Brain Teaser | 232534 | [232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json](./232534-toast-the-chicken-hard-puzzle-game-unique-brain-teaser.json) |
