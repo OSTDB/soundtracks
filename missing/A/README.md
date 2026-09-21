@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Forest Tale: Porasy | 330330 | [330330-a-forest-tale-porasy.json](./330330-a-forest-tale-porasy.json) |
 | A Forever Solitude | 211396 | [211396-a-forever-solitude.json](./211396-a-forever-solitude.json) |
 | A Fox Tale | 142477 | [142477-a-fox-tale.json](./142477-a-fox-tale.json) |
+| A Fragment of Her | 60215 | [60215-a-fragment-of-her.json](./60215-a-fragment-of-her.json) |
 | A Friday Night Real Music Funkin Game | 325105 | [325105-a-friday-night-real-music-funkin-game.json](./325105-a-friday-night-real-music-funkin-game.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
 | A G-G-Ghost! | 311656 | [311656-a-g-g-ghost.json](./311656-a-g-g-ghost.json) |
@@ -1514,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Mergeland Adventure | 220223 | [220223-alices-mergeland-adventure.json](./220223-alices-mergeland-adventure.json) |
 | Alice's Warped Wonderland | 145633 | [145633-alices-warped-wonderland.json](./145633-alices-warped-wonderland.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
+| Alicia Online | 60233 | [60233-alicia-online.json](./60233-alicia-online.json) |
 | Alien 3 | 8908 | [8908-alien-3.json](./8908-alien-3.json) |
 | Alien 911 | 117523 | [117523-alien-911.json](./117523-alien-911.json) |
 | Alien Animals: Sandbox | 154463 | [154463-alien-animals-sandbox.json](./154463-alien-animals-sandbox.json) |
@@ -1834,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
 | Almost There: The Platformer | 113722 | [113722-almost-there-the-platformer.json](./113722-almost-there-the-platformer.json) |
 | Alnahsha Run | 202235 | [202235-alnahsha-run.json](./202235-alnahsha-run.json) |
+| Alnory | 60195 | [60195-alnory.json](./60195-alnory.json) |
 | Aloha Play | 91408 | [91408-aloha-play.json](./91408-aloha-play.json) |
 | Aloisius | 183469 | [183469-aloisius.json](./183469-aloisius.json) |
 | Alone but Strong | 369625 | [369625-alone-but-strong.json](./369625-alone-but-strong.json) |
@@ -2268,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ampsball | 398443 | [398443-ampsball.json](./398443-ampsball.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
 | Amstrad Eterno X | 376589 | [376589-amstrad-eterno-x.json](./376589-amstrad-eterno-x.json) |
+| Amstrad Shuffle Card Games | 60234 | [60234-amstrad-shuffle-card-games.json](./60234-amstrad-shuffle-card-games.json) |
 | Amulet of Lovar | 245957 | [245957-amulet-of-lovar.json](./245957-amulet-of-lovar.json) |
 | Amulet of Time: Shadow of La Rochelle | 169858 | [169858-amulet-of-time-shadow-of-la-rochelle.json](./169858-amulet-of-time-shadow-of-la-rochelle.json) |
 | Amulet of Yendor | 2882 | [2882-amulet-of-yendor.json](./2882-amulet-of-yendor.json) |
@@ -2519,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Double Crossed | 240248 | [240248-angry-birds-double-crossed.json](./240248-angry-birds-double-crossed.json) |
 | Angry Birds Dream Blast | 114424 | [114424-angry-birds-dream-blast.json](./114424-angry-birds-dream-blast.json) |
 | Angry Birds Epic | 19276 | [19276-angry-birds-epic.json](./19276-angry-birds-epic.json) |
+| Angry Birds Fight! | 60226 | [60226-angry-birds-fight.json](./60226-angry-birds-fight.json) |
 | Angry Birds FPS: First Person Slingshot | 111021 | [111021-angry-birds-fps-first-person-slingshot.json](./111021-angry-birds-fps-first-person-slingshot.json) |
 | Angry Birds Google+ | 245001 | [245001-angry-birds-google.json](./245001-angry-birds-google.json) |
 | Angry Birds Hatchery Island | 280801 | [280801-angry-birds-hatchery-island.json](./280801-angry-birds-hatchery-island.json) |
@@ -3112,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse | 15598 | [15598-apocalypse.json](./15598-apocalypse.json) |
 | Apocalypse Clash City Free: A Cyberpunk Clan War Death Race game | 351032 | [351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json](./351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json) |
 | Apocalypse Delivery Service | 304576 | [304576-apocalypse-delivery-service.json](./304576-apocalypse-delivery-service.json) |
+| Apocalypse Gardening | 60210 | [60210-apocalypse-gardening.json](./60210-apocalypse-gardening.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - Museum of Horror! | 171089 | [171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json](./171089-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-museum-of-horror.json) |
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
 | Apocalypse Mechanism | 103499 | [103499-apocalypse-mechanism.json](./103499-apocalypse-mechanism.json) |
