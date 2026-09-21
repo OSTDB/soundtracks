@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damn Daniel: White Vans Adventure | 201236 | [201236-damn-daniel-white-vans-adventure.json](./201236-damn-daniel-white-vans-adventure.json) |
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
 | Damn Love | 402274 | [402274-damn-love.json](./402274-damn-love.json) |
+| Damnation | 6952 | [6952-damnation.json](./6952-damnation.json) |
 | Damnation City of Death | 35837 | [35837-damnation-city-of-death.json](./35837-damnation-city-of-death.json) |
 | Damned 2 | 253375 | [253375-damned-2.json](./253375-damned-2.json) |
 | Damned Cold | 30775 | [30775-damned-cold.json](./30775-damned-cold.json) |
@@ -1269,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadeus | 122405 | [122405-deadeus.json](./122405-deadeus.json) |
 | DeadEye | 116340 | [116340-deadeye.json](./116340-deadeye.json) |
 | Deadeye Deepfake Simulacrum | 156161 | [156161-deadeye-deepfake-simulacrum.json](./156161-deadeye-deepfake-simulacrum.json) |
+| Deadfall Adventures | 6961 | [6961-deadfall-adventures.json](./6961-deadfall-adventures.json) |
 | Deadfall Adventures: Deluxe Edition | 52868 | [52868-deadfall-adventures-deluxe-edition.json](./52868-deadfall-adventures-deluxe-edition.json) |
 | Deadfall Adventures: Heart of Atlantis | 52182 | [52182-deadfall-adventures-heart-of-atlantis.json](./52182-deadfall-adventures-heart-of-atlantis.json) |
 | Deadfall Tropics | 99644 | [99644-deadfall-tropics.json](./99644-deadfall-tropics.json) |
@@ -1488,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Stranding: Higgs Variant | 386264 | [386264-death-stranding-higgs-variant.json](./386264-death-stranding-higgs-variant.json) |
 | Death Strike | 182918 | [182918-death-strike.json](./182918-death-strike.json) |
 | Death Swap: End As One | 231350 | [231350-death-swap-end-as-one.json](./231350-death-swap-end-as-one.json) |
+| Death Sword | 4639 | [4639-death-sword.json](./4639-death-sword.json) |
 | Death Tank | 21259 | [21259-death-tank.json](./21259-death-tank.json) |
 | Death the Guitar | 257925 | [257925-death-the-guitar.json](./257925-death-the-guitar.json) |
 | Death to Spies: Gold Edition | 51291 | [51291-death-to-spies-gold-edition.json](./51291-death-to-spies-gold-edition.json) |
@@ -3368,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Little Mermaid: Ariel's Majestic Journey | 258692 | [258692-disneys-the-little-mermaid-ariels-majestic-journey.json](./258692-disneys-the-little-mermaid-ariels-majestic-journey.json) |
 | Disney's The Little Mermaid: Magic in Two Kingdoms | 49404 | [49404-disneys-the-little-mermaid-magic-in-two-kingdoms.json](./49404-disneys-the-little-mermaid-magic-in-two-kingdoms.json) |
 | Disney's Tigger Activity Center | 209031 | [209031-disneys-tigger-activity-center.json](./209031-disneys-tigger-activity-center.json) |
+| Disney's Tigger's Honey Hunt | 3613 | [3613-disneys-tiggers-honey-hunt.json](./3613-disneys-tiggers-honey-hunt.json) |
 | Disney's Toy Story | 198945 | [198945-disneys-toy-story.json](./198945-disneys-toy-story.json) |
 | Disney's Treasure Planet: Broadside Blast | 213035 | [213035-disneys-treasure-planet-broadside-blast.json](./213035-disneys-treasure-planet-broadside-blast.json) |
 | Disney's Treasure Planet: Etherium Rescue | 213037 | [213037-disneys-treasure-planet-etherium-rescue.json](./213037-disneys-treasure-planet-etherium-rescue.json) |
@@ -5027,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
 | Drawn Before | 401615 | [401615-drawn-before.json](./401615-drawn-before.json) |
 | Drawn to Kill | 60512 | [60512-drawn-to-kill.json](./60512-drawn-to-kill.json) |
+| Drawn to Life | 4821 | [4821-drawn-to-life.json](./4821-drawn-to-life.json) |
 | Drawn to Life 64 | 165550 | [165550-drawn-to-life-64.json](./165550-drawn-to-life-64.json) |
 | Drawn to Light | 110305 | [110305-drawn-to-light.json](./110305-drawn-to-light.json) |
 | Drawn Together | 404311 | [404311-drawn-together.json](./404311-drawn-together.json) |
