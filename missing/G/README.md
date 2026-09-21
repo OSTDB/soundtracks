@@ -1969,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goethe's Last Laugh | 376569 | [376569-goethes-last-laugh.json](./376569-goethes-last-laugh.json) |
 | Goetia: The Infinite Tower | 222511 | [222511-goetia-the-infinite-tower.json](./222511-goetia-the-infinite-tower.json) |
 | GoetiaX | 145665 | [145665-goetiax.json](./145665-goetiax.json) |
+| Gogetsuji Legends | 37341 | [37341-gogetsuji-legends.json](./37341-gogetsuji-legends.json) |
 | GoGo Sentai Boukenger Kazu to Katachi wo Oboeyou! | 327590 | [327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json](./327590-gogo-sentai-boukenger-kazu-to-katachi-wo-oboeyou.json) |
 | GoGoGo | 270934 | [270934-gogogo.json](./270934-gogogo.json) |
 | Gogoo | 151001 | [151001-gogoo.json](./151001-gogoo.json) |
@@ -3449,6 +3450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GundeadliGne | 16233 | [16233-gundeadligne.json](./16233-gundeadligne.json) |
 | Gundemonium | 365664 | [365664-gundemonium.json](./365664-gundemonium.json) |
 | Gundertale | 336351 | [336351-gundertale.json](./336351-gundertale.json) |
+| Gundhara: Juudan Arashi | 37336 | [37336-gundhara-juudan-arashi.json](./37336-gundhara-juudan-arashi.json) |
 | GunDress | 213042 | [213042-gundress.json](./213042-gundress.json) |
 | Gundroid | 249799 | [249799-gundroid.json](./249799-gundroid.json) |
 | Gunducky Industries | 54455 | [54455-gunducky-industries.json](./54455-gunducky-industries.json) |
