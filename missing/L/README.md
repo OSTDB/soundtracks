@@ -921,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Tales: Cataclysm | 186322 | [186322-legendary-tales-cataclysm.json](./186322-legendary-tales-cataclysm.json) |
 | Legendary Tales: Dawn of History | 413598 | [413598-legendary-tales-dawn-of-history.json](./413598-legendary-tales-dawn-of-history.json) |
 | Legendary Wars | 63233 | [63233-legendary-wars.json](./63233-legendary-wars.json) |
+| Legendary Wings | 39705 | [39705-legendary-wings.json](./39705-legendary-wings.json) |
 | Legendino | 224021 | [224021-legendino.json](./224021-legendino.json) |
 | Legendo's the Three Musketeers | 71533 | [71533-legendos-the-three-musketeers.json](./71533-legendos-the-three-musketeers.json) |
 | Legends Aligned | 335085 | [335085-legends-aligned.json](./335085-legends-aligned.json) |
@@ -2657,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Dream Chronicle | 316632 | [316632-lost-dream-chronicle.json](./316632-lost-dream-chronicle.json) |
 | Lost Dream: Darkness | 240799 | [240799-lost-dream-darkness.json](./240799-lost-dream-darkness.json) |
 | Lost Dutchman's Gold | 25133 | [25133-lost-dutchmans-gold.json](./25133-lost-dutchmans-gold.json) |
+| Lost Echo | 39007 | [39007-lost-echo.json](./39007-lost-echo.json) |
 | Lost Eden | 2167 | [2167-lost-eden.json](./2167-lost-eden.json) |
 | Lost Egg 2: Be Together | 148559 | [148559-lost-egg-2-be-together.json](./148559-lost-egg-2-be-together.json) |
 | Lost Egg 3: The Final | 229966 | [229966-lost-egg-3-the-final.json](./229966-lost-egg-3-the-final.json) |
