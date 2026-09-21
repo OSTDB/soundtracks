@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laira Cut Me Open | 408179 | [408179-laira-cut-me-open.json](./408179-laira-cut-me-open.json) |
 | Lake Adventure | 279780 | [279780-lake-adventure.json](./279780-lake-adventure.json) |
 | Lake Hero | 412959 | [412959-lake-hero.json](./412959-lake-hero.json) |
+| Lake House: Children of Silence | 40967 | [40967-lake-house-children-of-silence.json](./40967-lake-house-children-of-silence.json) |
 | Lake Masters | 67302 | [67302-lake-masters.json](./67302-lake-masters.json) |
 | Lake Masters 2 | 67298 | [67298-lake-masters-2.json](./67298-lake-masters-2.json) |
 | Lake Masters Pro | 67300 | [67300-lake-masters-pro.json](./67300-lake-masters-pro.json) |
