@@ -1925,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Alvis | 28925 | [28925-the-adventures-of-alvis.json](./28925-the-adventures-of-alvis.json) |
 | The Adventures of Badgersaw: Chapter 1 | 333061 | [333061-the-adventures-of-badgersaw-chapter-1.json](./333061-the-adventures-of-badgersaw-chapter-1.json) |
 | The Adventures of Basildon Bond | 67700 | [67700-the-adventures-of-basildon-bond.json](./67700-the-adventures-of-basildon-bond.json) |
+| The Adventures of Bayou Billy | 8740 | [8740-the-adventures-of-bayou-billy.json](./8740-the-adventures-of-bayou-billy.json) |
 | The Adventures of Big Faz | 206721 | [206721-the-adventures-of-big-faz.json](./206721-the-adventures-of-big-faz.json) |
 | The Adventures of Bruce Flea | 258474 | [258474-the-adventures-of-bruce-flea.json](./258474-the-adventures-of-bruce-flea.json) |
 | The Adventures of Bunny and Pig | 265127 | [265127-the-adventures-of-bunny-and-pig.json](./265127-the-adventures-of-bunny-and-pig.json) |
@@ -2631,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Copperfield Department | 326967 | [326967-the-copperfield-department.json](./326967-the-copperfield-department.json) |
 | The Corn Maze: Rebirth | 362289 | [362289-the-corn-maze-rebirth.json](./362289-the-corn-maze-rebirth.json) |
 | The Coroner Saga | 114335 | [114335-the-coroner-saga.json](./114335-the-coroner-saga.json) |
+| The Corridor | 148443 | [148443-the-corridor.json](./148443-the-corridor.json) |
 | The Corrupted Turnabout | 308529 | [308529-the-corrupted-turnabout.json](./308529-the-corrupted-turnabout.json) |
 | The Corruption Within | 153387 | [153387-the-corruption-within.json](./153387-the-corruption-within.json) |
 | The Cosmic Tunnels | 62760 | [62760-the-cosmic-tunnels.json](./62760-the-cosmic-tunnels.json) |
@@ -4490,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Siege of Mirkwood | 21155 | [21155-the-lord-of-the-rings-online-siege-of-mirkwood.json](./21155-the-lord-of-the-rings-online-siege-of-mirkwood.json) |
 | The Lord of the Rings Online: War of Three Peaks | 275925 | [275925-the-lord-of-the-rings-online-war-of-three-peaks.json](./275925-the-lord-of-the-rings-online-war-of-three-peaks.json) |
 | The Lord of the Rings: Adventure Card Game - Definitive Edition | 147962 | [147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json](./147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json) |
+| The Lord of the Rings: Gollum | 116584 | [116584-the-lord-of-the-rings-gollum.json](./116584-the-lord-of-the-rings-gollum.json) |
 | The Lord of the Rings: Gollum - Precious Edition | 248677 | [248677-the-lord-of-the-rings-gollum-precious-edition.json](./248677-the-lord-of-the-rings-gollum-precious-edition.json) |
 | The Lord of the Rings: Journey to Rivendell | 46888 | [46888-the-lord-of-the-rings-journey-to-rivendell.json](./46888-the-lord-of-the-rings-journey-to-rivendell.json) |
 | The Lord of the Rings: Return to Moria - Ent-craft Pack | 336898 | [336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json](./336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json) |
@@ -4988,6 +4991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Space Bugs | 224751 | [224751-the-outer-space-bugs.json](./224751-the-outer-space-bugs.json) |
 | The Outer Worlds 2: Premium Edition | 348309 | [348309-the-outer-worlds-2-premium-edition.json](./348309-the-outer-worlds-2-premium-edition.json) |
 | The Outer Worlds: Expansion Pass | 293732 | [293732-the-outer-worlds-expansion-pass.json](./293732-the-outer-worlds-expansion-pass.json) |
+| The Outer Worlds: Peril on Gorgon | 135996 | [135996-the-outer-worlds-peril-on-gorgon.json](./135996-the-outer-worlds-peril-on-gorgon.json) |
 | The Outer Worlds: Spacer's Choice Edition | 239999 | [239999-the-outer-worlds-spacers-choice-edition.json](./239999-the-outer-worlds-spacers-choice-edition.json) |
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
 | The Outlast Trials | 127165 | [127165-the-outlast-trials.json](./127165-the-outlast-trials.json) |
@@ -6387,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Onslaught - The Golden Weapons Deluxe Pack | 139956 | [139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json](./139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json) |
 | The Walking Dead: Our World | 55177 | [55177-the-walking-dead-our-world.json](./55177-the-walking-dead-our-world.json) |
 | The Walking Dead: Saints & Sinners - Ch 2: Retribution | 198232 | [198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json](./198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json) |
+| The Walking Dead: Season One - Episode 4: Around Every Corner | 114943 | [114943-the-walking-dead-season-one-episode-4-around-every-corner.json](./114943-the-walking-dead-season-one-episode-4-around-every-corner.json) |
 | The Walking Dead: Season Two - Episode 2: A House Divided | 127058 | [127058-the-walking-dead-season-two-episode-2-a-house-divided.json](./127058-the-walking-dead-season-two-episode-2-a-house-divided.json) |
 | The Walking Dead: The Complete First Season | 41623 | [41623-the-walking-dead-the-complete-first-season.json](./41623-the-walking-dead-the-complete-first-season.json) |
 | The Walking Dead: The Final Season - Episode 2: Suffer the Children | 110328 | [110328-the-walking-dead-the-final-season-episode-2-suffer-the-children.json](./110328-the-walking-dead-the-final-season-episode-2-suffer-the-children.json) |
@@ -6481,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Widow's Shadow | 271212 | [271212-the-widows-shadow.json](./271212-the-widows-shadow.json) |
 | The Wiggles: Wiggle Bay | 206228 | [206228-the-wiggles-wiggle-bay.json](./206228-the-wiggles-wiggle-bay.json) |
 | The Wild | 64971 | [64971-the-wild.json](./64971-the-wild.json) |
+| The Wild at Heart | 116522 | [116522-the-wild-at-heart.json](./116522-the-wild-at-heart.json) |
 | The Wild Case | 126639 | [126639-the-wild-case.json](./126639-the-wild-case.json) |
 | The Wild Darkness | 212474 | [212474-the-wild-darkness.json](./212474-the-wild-darkness.json) |
 | The Wild Science Arcade | 72038 | [72038-the-wild-science-arcade.json](./72038-the-wild-science-arcade.json) |
@@ -7795,6 +7801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Jump VR | 149589 | [149589-timber-jump-vr.json](./149589-timber-jump-vr.json) |
 | Timber Slash | 108473 | [108473-timber-slash.json](./108473-timber-slash.json) |
 | Timber Tales | 291443 | [291443-timber-tales.json](./291443-timber-tales.json) |
+| Timberborn | 126381 | [126381-timberborn.json](./126381-timberborn.json) |
 | Timberdoku | 300840 | [300840-timberdoku.json](./300840-timberdoku.json) |
 | Timberholt | 388253 | [388253-timberholt.json](./388253-timberholt.json) |
 | Timberquest | 245859 | [245859-timberquest.json](./245859-timberquest.json) |
@@ -7974,6 +7981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Barbarian DX | 16693 | [16693-tiny-barbarian-dx.json](./16693-tiny-barbarian-dx.json) |
 | Tiny Battles | 287743 | [287743-tiny-battles.json](./287743-tiny-battles.json) |
 | Tiny Biomes | 385071 | [385071-tiny-biomes.json](./385071-tiny-biomes.json) |
+| Tiny Bookshop | 216718 | [216718-tiny-bookshop.json](./216718-tiny-bookshop.json) |
 | Tiny Boxes | 368574 | [368574-tiny-boxes.json](./368574-tiny-boxes.json) |
 | Tiny Brains | 7649 | [7649-tiny-brains.json](./7649-tiny-brains.json) |
 | Tiny Bullets | 4146 | [4146-tiny-bullets.json](./4146-tiny-bullets.json) |
@@ -8269,6 +8277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toby's Topsy Tale | 293615 | [293615-tobys-topsy-tale.json](./293615-tobys-topsy-tale.json) |
 | Toc | 183004 | [183004-toc.json](./183004-toc.json) |
 | Toca Boca Hair Salon 4 | 380522 | [380522-toca-boca-hair-salon-4.json](./380522-toca-boca-hair-salon-4.json) |
+| TOCA Championship Racing | 8000 | [8000-toca-championship-racing.json](./8000-toca-championship-racing.json) |
 | Toca Life World | 126005 | [126005-toca-life-world.json](./126005-toca-life-world.json) |
 | Toca Pisadinha | 237621 | [237621-toca-pisadinha.json](./237621-toca-pisadinha.json) |
 | TOCA Race Driver 2 | 246667 | [246667-toca-race-driver-2.json](./246667-toca-race-driver-2.json) |
@@ -10160,6 +10169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travelers in Space Crack | 193424 | [193424-travelers-in-space-crack.json](./193424-travelers-in-space-crack.json) |
 | Traveller's Hymn | 319560 | [319560-travellers-hymn.json](./319560-travellers-hymn.json) |
 | Travellers | 172033 | [172033-travellers.json](./172033-travellers.json) |
+| Travellers Rest | 121967 | [121967-travellers-rest.json](./121967-travellers-rest.json) |
 | Travellin Cats in Paris | 239812 | [239812-travellin-cats-in-paris.json](./239812-travellin-cats-in-paris.json) |
 | Travelling Light | 404812 | [404812-travelling-light.json](./404812-travelling-light.json) |
 | Travelogue 360: Paris | 65182 | [65182-travelogue-360-paris.json](./65182-travelogue-360-paris.json) |
