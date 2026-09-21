@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Combat | 70975 | [70975-universal-combat.json](./70975-universal-combat.json) |
 | Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
 | Universal Flight Simulator | 207890 | [207890-universal-flight-simulator.json](./207890-universal-flight-simulator.json) |
+| Universal History of Light | 60784 | [60784-universal-history-of-light.json](./60784-universal-history-of-light.json) |
 | Universal Hologram | 359525 | [359525-universal-hologram.json](./359525-universal-hologram.json) |
 | Universal Monsters Dracula | 198948 | [198948-universal-monsters-dracula.json](./198948-universal-monsters-dracula.json) |
 | Universal Monsters the Mummy | 198949 | [198949-universal-monsters-the-mummy.json](./198949-universal-monsters-the-mummy.json) |
