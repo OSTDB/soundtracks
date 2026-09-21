@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vespera_Hotel | 296105 | [296105-vespera-hotel.json](./296105-vespera-hotel.json) |
 | Vesperia Bononia | 332268 | [332268-vesperia-bononia.json](./332268-vesperia-bononia.json) |
 | Vesperis | 391754 | [391754-vesperis.json](./391754-vesperis.json) |
+| Vessel | 8382 | [8382-vessel.json](./8382-vessel.json) |
 | Vessel Blue | 238638 | [238638-vessel-blue.json](./238638-vessel-blue.json) |
 | Vessel Damage Control Trainer | 243417 | [243417-vessel-damage-control-trainer.json](./243417-vessel-damage-control-trainer.json) |
 | Vessels | 375938 | [375938-vessels.json](./375938-vessels.json) |
