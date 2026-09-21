@@ -860,6 +860,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mambo Wave | 142261 | [142261-mambo-wave.json](./142261-mambo-wave.json) |
 | Mamegoma 2: Uchi no Ko ga Ichiban! | 241032 | [241032-mamegoma-2-uchi-no-ko-ga-ichiban.json](./241032-mamegoma-2-uchi-no-ko-ga-ichiban.json) |
 | Mamegoma 3: Kawaii ga Ippai! | 241043 | [241043-mamegoma-3-kawaii-ga-ippai.json](./241043-mamegoma-3-kawaii-ga-ippai.json) |
+| Mami no Doki-doki Tiro Finale | 56758 | [56758-mami-no-doki-doki-tiro-finale.json](./56758-mami-no-doki-doki-tiro-finale.json) |
+| Mami no Doki-doki Tiro Finale | 56759 | [56759-mami-no-doki-doki-tiro-finale.json](./56759-mami-no-doki-doki-tiro-finale.json) |
 | Mamiya | 145621 | [145621-mamiya.json](./145621-mamiya.json) |
 | Mamiya: Complete Collection | 405491 | [405491-mamiya-complete-collection.json](./405491-mamiya-complete-collection.json) |
 | Mamiya: Downfall | 368583 | [368583-mamiya-downfall.json](./368583-mamiya-downfall.json) |
@@ -1083,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March of the Living | 18901 | [18901-march-of-the-living.json](./18901-march-of-the-living.json) |
 | March of the Penguins | 20648 | [20648-march-of-the-penguins.json](./20648-march-of-the-penguins.json) |
 | March of War: StormSiege | 170494 | [170494-march-of-war-stormsiege.json](./170494-march-of-war-stormsiege.json) |
+| March to a Million | 56730 | [56730-march-to-a-million.json](./56730-march-to-a-million.json) |
 | March to the Heart | 349313 | [349313-march-to-the-heart.json](./349313-march-to-the-heart.json) |
 | March! Offworld Recon | 92318 | [92318-march-offworld-recon.json](./92318-march-offworld-recon.json) |
 | Märchen Forest | 181313 | [181313-marchen-forest.json](./181313-marchen-forest.json) |
@@ -4442,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam 00: Gundam Meisters | 72982 | [72982-mobile-suit-gundam-00-gundam-meisters.json](./72982-mobile-suit-gundam-00-gundam-meisters.json) |
 | Mobile Suit Gundam Extreme Versus 2 Cross Boost | 265951 | [265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json](./265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json) |
 | Mobile Suit Gundam Federation vs. Zeon | 43311 | [43311-mobile-suit-gundam-federation-vs-zeon.json](./43311-mobile-suit-gundam-federation-vs-zeon.json) |
+| Mobile Suit Gundam Gihren's Greed: The fear of Axis | 56745 | [56745-mobile-suit-gundam-gihrens-greed-the-fear-of-axis.json](./56745-mobile-suit-gundam-gihrens-greed-the-fear-of-axis.json) |
 | Mobile Suit Gundam SEED: Battle Assault | 49325 | [49325-mobile-suit-gundam-seed-battle-assault.json](./49325-mobile-suit-gundam-seed-battle-assault.json) |
 | Mobile Suit Gundam Side Story II: Aoi wo Uketsugu Mono | 66077 | [66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json](./66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json) |
 | Mobile Suit Gundam Side Story III: Sabakareshi Mono | 66076 | [66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json](./66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json) |
@@ -4458,11 +4462,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Extreme Vs. 2 | 86532 | [86532-mobile-suit-gundam-extreme-vs-2.json](./86532-mobile-suit-gundam-extreme-vs-2.json) |
 | Mobile Suit Gundam: Extreme vs. Maxi Boost | 79865 | [79865-mobile-suit-gundam-extreme-vs-maxi-boost.json](./79865-mobile-suit-gundam-extreme-vs-maxi-boost.json) |
 | Mobile Suit Gundam: Extreme Vs.2 XBoost | 196283 | [196283-mobile-suit-gundam-extreme-vs-2-xboost.json](./196283-mobile-suit-gundam-extreme-vs-2-xboost.json) |
+| Mobile Suit Gundam: Giren no Yabou - Axis No Kyoui V | 56743 | [56743-mobile-suit-gundam-giren-no-yabou-axis-no-kyoui-v.json](./56743-mobile-suit-gundam-giren-no-yabou-axis-no-kyoui-v.json) |
 | Mobile Suit Gundam: Lost War Chronicles | 66609 | [66609-mobile-suit-gundam-lost-war-chronicles.json](./66609-mobile-suit-gundam-lost-war-chronicles.json) |
 | Mobile Suit Gundam: One Year War | 66612 | [66612-mobile-suit-gundam-one-year-war.json](./66612-mobile-suit-gundam-one-year-war.json) |
 | Mobile Suit Gundam: Operation - Troy | 7074 | [7074-mobile-suit-gundam-operation-troy.json](./7074-mobile-suit-gundam-operation-troy.json) |
 | Mobile Suit Gundam: Return of Zion | 222898 | [222898-mobile-suit-gundam-return-of-zion.json](./222898-mobile-suit-gundam-return-of-zion.json) |
 | Mobile Suit Gundam: Senjo No Kazuna | 69294 | [69294-mobile-suit-gundam-senjo-no-kazuna.json](./69294-mobile-suit-gundam-senjo-no-kazuna.json) |
+| Mobile Suit Gundam: Shin Gihren No Yabou | 56746 | [56746-mobile-suit-gundam-shin-gihren-no-yabou.json](./56746-mobile-suit-gundam-shin-gihren-no-yabou.json) |
 | Mobile Suit Gundam: The One Year War | 43240 | [43240-mobile-suit-gundam-the-one-year-war.json](./43240-mobile-suit-gundam-the-one-year-war.json) |
 | Mobile Tomodachi | 143671 | [143671-mobile-tomodachi.json](./143671-mobile-tomodachi.json) |
 | Mobile Wars X: Ultimate Simulation Battle | 252197 | [252197-mobile-wars-x-ultimate-simulation-battle.json](./252197-mobile-wars-x-ultimate-simulation-battle.json) |
