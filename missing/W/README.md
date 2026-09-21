@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Kawai | 97837 | [97837-welcome-to-the-kawai.json](./97837-welcome-to-the-kawai.json) |
 | Welcome to the Polyverse | 150518 | [150518-welcome-to-the-polyverse.json](./150518-welcome-to-the-polyverse.json) |
 | Welcome to the World of ZJ the Ball | 215121 | [215121-welcome-to-the-world-of-zj-the-ball.json](./215121-welcome-to-the-world-of-zj-the-ball.json) |
+| Welcome to West Feedback | 60764 | [60764-welcome-to-west-feedback.json](./60764-welcome-to-west-feedback.json) |
 | Welcome to your Life | 403672 | [403672-welcome-to-your-life.json](./403672-welcome-to-your-life.json) |
 | Welcome To... Chicheser OVN 3 : The Mysterious Affair At The Violet Hotel | 131587 | [131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
 | Welcome to... Chichester 2: Part II - No Extra Regrets For the Future | 170400 | [170400-welcome-to-chichester-2-part-ii-no-extra-regrets-for-the-future.json](./170400-welcome-to-chichester-2-part-ii-no-extra-regrets-for-the-future.json) |
@@ -1851,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 2 | 37767 | [37767-winning-post-2.json](./37767-winning-post-2.json) |
 | Winning Post 7 2010 | 194007 | [194007-winning-post-7-2010.json](./194007-winning-post-7-2010.json) |
 | Winning Post 7 Maximum 2008 | 5283 | [5283-winning-post-7-maximum-2008.json](./5283-winning-post-7-maximum-2008.json) |
+| Winning Post 8 2015 | 60780 | [60780-winning-post-8-2015.json](./60780-winning-post-8-2015.json) |
 | Winning Post 9: 2021 | 141651 | [141651-winning-post-9-2021.json](./141651-winning-post-9-2021.json) |
 | Winning Tactics | 368492 | [368492-winning-tactics.json](./368492-winning-tactics.json) |
 | WinPlex | 94723 | [94723-winplex.json](./94723-winplex.json) |
@@ -2474,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Working Days | 408762 | [408762-working-days.json](./408762-working-days.json) |
 | Workshop Blooming in the Field & the Dark Dragon | 82901 | [82901-workshop-blooming-in-the-field-and-the-dark-dragon.json](./82901-workshop-blooming-in-the-field-and-the-dark-dragon.json) |
 | Workshop Invaders: Bouncy | 108990 | [108990-workshop-invaders-bouncy.json](./108990-workshop-invaders-bouncy.json) |
+| World Advanced Daisenryaku: Sakusen File | 60803 | [60803-world-advanced-daisenryaku-sakusen-file.json](./60803-world-advanced-daisenryaku-sakusen-file.json) |
 | World At War 85 Digital | 216481 | [216481-world-at-war-85-digital.json](./216481-world-at-war-85-digital.json) |
 | World at War: Nazi Zombies Remastered | 299137 | [299137-world-at-war-nazi-zombies-remastered.json](./299137-world-at-war-nazi-zombies-remastered.json) |
 | World at War: WW2 Strategy MMO | 141899 | [141899-world-at-war-ww2-strategy-mmo.json](./141899-world-at-war-ww2-strategy-mmo.json) |
