@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Glass | 58215 | [58215-echo-glass.json](./58215-echo-glass.json) |
 | Echo Harvest | 415160 | [415160-echo-harvest.json](./415160-echo-harvest.json) |
 | Echo in Capistrano | 303510 | [303510-echo-in-capistrano.json](./303510-echo-in-capistrano.json) |
+| Echo Night | 9514 | [9514-echo-night.json](./9514-echo-night.json) |
 | Echo Night 2: Nemuri no Shihaisha | 43882 | [43882-echo-night-2-nemuri-no-shihaisha.json](./43882-echo-night-2-nemuri-no-shihaisha.json) |
 | Echo Night: The First Voyage | 213604 | [213604-echo-night-the-first-voyage.json](./213604-echo-night-the-first-voyage.json) |
 | Echo of Extinction | 274039 | [274039-echo-of-extinction.json](./274039-echo-of-extinction.json) |
@@ -2014,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euchre by Webfoot | 88323 | [88323-euchre-by-webfoot.json](./88323-euchre-by-webfoot.json) |
 | EUcraft | 398401 | [398401-eucraft.json](./398401-eucraft.json) |
 | Eudemons Online | 76594 | [76594-eudemons-online.json](./76594-eudemons-online.json) |
+| Eufloria | 7596 | [7596-eufloria.json](./7596-eufloria.json) |
 | Eufloria 2 | 413631 | [413631-eufloria-2.json](./413631-eufloria-2.json) |
 | Eukarion Tales: Origins | 259581 | [259581-eukarion-tales-origins.json](./259581-eukarion-tales-origins.json) |
 | Euler Wars | 130166 | [130166-euler-wars.json](./130166-euler-wars.json) |
