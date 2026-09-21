@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnNecessary | 316983 | [316983-unnecessary.json](./316983-unnecessary.json) |
 | UnNethack | 351140 | [351140-unnethack.json](./351140-unnethack.json) |
 | Unno | 235227 | [235227-unno.json](./235227-unno.json) |
+| UnnyWorld | 33438 | [33438-unnyworld.json](./33438-unnyworld.json) |
 | Uno 2 Go | 229062 | [229062-uno-2-go.json](./229062-uno-2-go.json) |
 | Uno DX | 91956 | [91956-uno-dx.json](./91956-uno-dx.json) |
 | Uno: Assassin's Creed Valhalla Theme Cards | 196679 | [196679-uno-assassins-creed-valhalla-theme-cards.json](./196679-uno-assassins-creed-valhalla-theme-cards.json) |
