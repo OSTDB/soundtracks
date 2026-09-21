@@ -1979,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayan Reynolds | 260664 | [260664-mayan-reynolds.json](./260664-mayan-reynolds.json) |
 | Maybe I Can | 153957 | [153957-maybe-i-can.json](./153957-maybe-i-can.json) |
 | Maybe Tomorrow | 238740 | [238740-maybe-tomorrow.json](./238740-maybe-tomorrow.json) |
+| Mayday | 38577 | [38577-mayday.json](./38577-mayday.json) |
 | Mayday Protocol | 382328 | [382328-mayday-protocol.json](./382328-mayday-protocol.json) |
 | Mayday: The Survival Island | 169856 | [169856-mayday-the-survival-island.json](./169856-mayday-the-survival-island.json) |
 | Mayflower Reflections | 191836 | [191836-mayflower-reflections.json](./191836-mayflower-reflections.json) |
@@ -2556,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaquarium: Invertebrilliant Collection | 392780 | [392780-megaquarium-invertebrilliant-collection.json](./392780-megaquarium-invertebrilliant-collection.json) |
 | MegaRace 3 | 46634 | [46634-megarace-3.json](./46634-megarace-3.json) |
 | Megaspectre | 70361 | [70361-megaspectre.json](./70361-megaspectre.json) |
+| Megatack | 38576 | [38576-megatack.json](./38576-megatack.json) |
 | Megaton Musashi W: V Navigator "Dragon" | 301016 | [301016-megaton-musashi-w-v-navigator-dragon.json](./301016-megaton-musashi-w-v-navigator-dragon.json) |
 | Megaton Musashi W: V Navigator "Jibanyan" | 301014 | [301014-megaton-musashi-w-v-navigator-jibanyan.json](./301014-megaton-musashi-w-v-navigator-jibanyan.json) |
 | Megaton Musashi W: V Navigator "Korone Inugami" | 301015 | [301015-megaton-musashi-w-v-navigator-korone-inugami.json](./301015-megaton-musashi-w-v-navigator-korone-inugami.json) |
@@ -4160,6 +4162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirages | 223433 | [223433-mirages.json](./223433-mirages.json) |
 | Miragine War | 176890 | [176890-miragine-war.json](./176890-miragine-war.json) |
 | Mirai | 200755 | [200755-mirai.json](./200755-mirai.json) |
+| Mirai Ninja | 38548 | [38548-mirai-ninja.json](./38548-mirai-ninja.json) |
 | Mirai Ninja: Keigumo Kinin Gaiden | 70997 | [70997-mirai-ninja-keigumo-kinin-gaiden.json](./70997-mirai-ninja-keigumo-kinin-gaiden.json) |
 | Mirai Shounen Conan | 42021 | [42021-mirai-shounen-conan.json](./42021-mirai-shounen-conan.json) |
 | Mirai's Midnight Stream | 351085 | [351085-mirais-midnight-stream.json](./351085-mirais-midnight-stream.json) |
@@ -4238,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Peach World | 133780 | [133780-miss-peach-world.json](./133780-miss-peach-world.json) |
 | Miss Perfect Miss Ending | 320753 | [320753-miss-perfect-miss-ending.json](./320753-miss-perfect-miss-ending.json) |
 | Miss Spider's Tea Party | 73804 | [73804-miss-spiders-tea-party.json](./73804-miss-spiders-tea-party.json) |
+| Miss World '96 | 38567 | [38567-miss-world-96.json](./38567-miss-world-96.json) |
 | Missile Base | 13740 | [13740-missile-base.json](./13740-missile-base.json) |
 | Missile City AeroLeague | 249807 | [249807-missile-city-aeroleague.json](./249807-missile-city-aeroleague.json) |
 | Missile Comes Back to Me | 361693 | [361693-missile-comes-back-to-me.json](./361693-missile-comes-back-to-me.json) |
@@ -4630,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moetan DS | 94002 | [94002-moetan-ds.json](./94002-moetan-ds.json) |
 | Mogeko Castle | 213382 | [213382-mogeko-castle.json](./213382-mogeko-castle.json) |
 | Mogo Invasion | 48004 | [48004-mogo-invasion.json](./48004-mogo-invasion.json) |
+| Moguchan | 38584 | [38584-moguchan.json](./38584-moguchan.json) |
 | Mogul Maniac | 40788 | [40788-mogul-maniac.json](./40788-mogul-maniac.json) |
 | Mogura de Pon! | 342739 | [342739-mogura-de-pon.json](./342739-mogura-de-pon.json) |
 | Mogutte Nanbo | 366907 | [366907-mogutte-nanbo.json](./366907-mogutte-nanbo.json) |
@@ -4708,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momoe Link | 183052 | [183052-momoe-link.json](./183052-momoe-link.json) |
 | Momogatari | 258526 | [258526-momogatari.json](./258526-momogatari.json) |
 | Momoiro Zousan | 295039 | [295039-momoiro-zousan.json](./295039-momoiro-zousan.json) |
+| Momoko 120% | 38583 | [38583-momoko-120.json](./38583-momoko-120.json) |
 | Momolu and Friends | 166678 | [166678-momolu-and-friends.json](./166678-momolu-and-friends.json) |
 | Momon: Relic Seekers | 273455 | [273455-momon-relic-seekers.json](./273455-momon-relic-seekers.json) |
 | Momotaro Collection | 64418 | [64418-momotaro-collection.json](./64418-momotaro-collection.json) |
@@ -4774,6 +4780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Go! | 246471 | [246471-money-go.json](./246471-money-go.json) |
 | Money Laundering Simulator | 358344 | [358344-money-laundering-simulator.json](./358344-money-laundering-simulator.json) |
 | Money Loves Silence | 126608 | [126608-money-loves-silence.json](./126608-money-loves-silence.json) |
+| Money Money | 38582 | [38582-money-money.json](./38582-money-money.json) |
 | Money Mouse in Full Barn House | 281535 | [281535-money-mouse-in-full-barn-house.json](./281535-money-mouse-in-full-barn-house.json) |
 | Money Parasite: Usotsuki na Onna | 225885 | [225885-money-parasite-usotsuki-na-onna.json](./225885-money-parasite-usotsuki-na-onna.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
@@ -5185,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon | 242775 | [242775-moon.json](./242775-moon.json) |
 | Moon 2999 | 302939 | [302939-moon-2999.json](./302939-moon-2999.json) |
 | Moon Alert | 73795 | [73795-moon-alert.json](./73795-moon-alert.json) |
+| Moon Alien Part II | 38581 | [38581-moon-alien-part-ii.json](./38581-moon-alien-part-ii.json) |
 | Moon Archer Shooting Stars | 177917 | [177917-moon-archer-shooting-stars.json](./177917-moon-archer-shooting-stars.json) |
 | Moon Ball Magic | 41402 | [41402-moon-ball-magic.json](./41402-moon-ball-magic.json) |
 | Moon Blue Legend Remake | 394175 | [394175-moon-blue-legend-remake.json](./394175-moon-blue-legend-remake.json) |
@@ -5835,6 +5843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Fast | 127751 | [127751-mr-fast.json](./127751-mr-fast.json) |
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
 | Mr. Fluffykins' Great Sorting Adventure | 97707 | [97707-mr-fluffykins-great-sorting-adventure.json](./97707-mr-fluffykins-great-sorting-adventure.json) |
+| Mr. Goemon | 38580 | [38580-mr-goemon.json](./38580-mr-goemon.json) |
 | Mr. Gold: Tooyama no Kinsan Space Chou | 41317 | [41317-mr-gold-tooyama-no-kinsan-space-chou.json](./41317-mr-gold-tooyama-no-kinsan-space-chou.json) |
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
@@ -6227,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant League Football | 46254 | [46254-mutant-league-football.json](./46254-mutant-league-football.json) |
 | Mutant Monty | 66711 | [66711-mutant-monty.json](./66711-mutant-monty.json) |
 | Mutant Mudds Collection + Xeodrifter | 248705 | [248705-mutant-mudds-collection-xeodrifter.json](./248705-mutant-mudds-collection-xeodrifter.json) |
+| Mutant Night | 38562 | [38562-mutant-night.json](./38562-mutant-night.json) |
 | Mutant Rampage: Bodyslam | 45912 | [45912-mutant-rampage-bodyslam.json](./45912-mutant-rampage-bodyslam.json) |
 | Mutant Roadkill | 233532 | [233532-mutant-roadkill.json](./233532-mutant-roadkill.json) |
 | Mutant Storm: Reloaded | 16266 | [16266-mutant-storm-reloaded.json](./16266-mutant-storm-reloaded.json) |
@@ -6898,6 +6908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Kingdoms | 328456 | [328456-mystic-kingdoms.json](./328456-mystic-kingdoms.json) |
 | Mystic Labyrinth | 295408 | [295408-mystic-labyrinth.json](./295408-mystic-labyrinth.json) |
 | Mystic Land: The search for Maphaldo | 270967 | [270967-mystic-land-the-search-for-maphaldo.json](./270967-mystic-land-the-search-for-maphaldo.json) |
+| Mystic Marathon | 38579 | [38579-mystic-marathon.json](./38579-mystic-marathon.json) |
 | Mystic Mayhem | 64647 | [64647-mystic-mayhem.json](./64647-mystic-mayhem.json) |
 | Mystic Melee | 33218 | [33218-mystic-melee.json](./33218-mystic-melee.json) |
 | Mystic Messenger | 27259 | [27259-mystic-messenger.json](./27259-mystic-messenger.json) |
