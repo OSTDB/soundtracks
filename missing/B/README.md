@@ -5264,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Gun 3D | 150690 | [150690-bubble-gun-3d.json](./150690-bubble-gun-3d.json) |
 | Bubble Hero | 246436 | [246436-bubble-hero.json](./246436-bubble-hero.json) |
 | Bubble Investor | 361727 | [361727-bubble-investor.json](./361727-bubble-investor.json) |
+| Bubble Jungle | 31209 | [31209-bubble-jungle.json](./31209-bubble-jungle.json) |
 | Bubble Mags | 90388 | [90388-bubble-mags.json](./90388-bubble-mags.json) |
 | Bubble Mix 3 in 1 Plus | 90685 | [90685-bubble-mix-3-in-1-plus.json](./90685-bubble-mix-3-in-1-plus.json) |
 | Bubble People | 173265 | [173265-bubble-people.json](./173265-bubble-people.json) |
