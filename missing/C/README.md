@@ -5583,6 +5583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Action | 86093 | [86093-crisis-action.json](./86093-crisis-action.json) |
 | Crisis Action VR | 51500 | [51500-crisis-action-vr.json](./51500-crisis-action-vr.json) |
 | Crisis Brigade 2: Reloaded | 223144 | [223144-crisis-brigade-2-reloaded.json](./223144-crisis-brigade-2-reloaded.json) |
+| Crisis Core: Final Fantasy VII | 2407 | [2407-crisis-core-final-fantasy-vii.json](./2407-crisis-core-final-fantasy-vii.json) |
 | Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
 | Crisis of the Middle Ages | 118408 | [118408-crisis-of-the-middle-ages.json](./118408-crisis-of-the-middle-ages.json) |
@@ -5915,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt of Medea | 15512 | [15512-crypt-of-medea.json](./15512-crypt-of-medea.json) |
 | Crypt of Shadows | 130183 | [130183-crypt-of-shadows.json](./130183-crypt-of-shadows.json) |
 | Crypt of the Fungal Lord | 179140 | [179140-crypt-of-the-fungal-lord.json](./179140-crypt-of-the-fungal-lord.json) |
+| Crypt of the NecroDancer | 7886 | [7886-crypt-of-the-necrodancer.json](./7886-crypt-of-the-necrodancer.json) |
 | Crypt of the Necrodancer: Amplified | 26613 | [26613-crypt-of-the-necrodancer-amplified.json](./26613-crypt-of-the-necrodancer-amplified.json) |
 | Crypt of the Serpent King: Remastered - 4K Edition | 208456 | [208456-crypt-of-the-serpent-king-remastered-4k-edition.json](./208456-crypt-of-the-serpent-king-remastered-4k-edition.json) |
 | Crypt of the Undead | 24862 | [24862-crypt-of-the-undead.json](./24862-crypt-of-the-undead.json) |
