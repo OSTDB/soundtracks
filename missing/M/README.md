@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madeline: European Adventures | 210114 | [210114-madeline-european-adventures.json](./210114-madeline-european-adventures.json) |
 | Madhouse13 | 204553 | [204553-madhouse13.json](./204553-madhouse13.json) |
 | Madievals | 120378 | [120378-madievals.json](./120378-madievals.json) |
+| Madison | 164243 | [164243-madison.json](./164243-madison.json) |
 | Madison VR | 252791 | [252791-madison-vr.json](./252791-madison-vr.json) |
 | Madison: Possessed Edition | 198392 | [198392-madison-possessed-edition.json](./198392-madison-possessed-edition.json) |
 | Madland | 121598 | [121598-madland.json](./121598-madland.json) |
@@ -285,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Alive | 68686 | [68686-mafia-alive.json](./68686-mafia-alive.json) |
 | Mafia Clicker | 241956 | [241956-mafia-clicker.json](./241956-mafia-clicker.json) |
 | Mafia Gambling | 89266 | [89266-mafia-gambling.json](./89266-mafia-gambling.json) |
+| Mafia III: Definitive Edition | 134073 | [134073-mafia-iii-definitive-edition.json](./134073-mafia-iii-definitive-edition.json) |
 | Mafia III: Faster, Baby! | 39761 | [39761-mafia-iii-faster-baby.json](./39761-mafia-iii-faster-baby.json) |
 | Mafia in Town | 239756 | [239756-mafia-in-town.json](./239756-mafia-in-town.json) |
 | Mafia Live! | 78327 | [78327-mafia-live.json](./78327-mafia-live.json) |
@@ -1358,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Sports Mix | 3989 | [3989-mario-sports-mix.json](./3989-mario-sports-mix.json) |
 | Mario Spy | 318030 | [318030-mario-spy.json](./318030-mario-spy.json) |
 | Mario Strikers: Battle League | 191398 | [191398-mario-strikers-battle-league.json](./191398-mario-strikers-battle-league.json) |
+| Mario Super Sluggers | 3987 | [3987-mario-super-sluggers.json](./3987-mario-super-sluggers.json) |
 | Mario Super Sluggers Cards | 339844 | [339844-mario-super-sluggers-cards.json](./339844-mario-super-sluggers-cards.json) |
 | Mario Superstar | 275325 | [275325-mario-superstar.json](./275325-mario-superstar.json) |
 | Mario Takes America | 175956 | [175956-mario-takes-america.json](./175956-mario-takes-america.json) |
@@ -1467,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Type I | 181855 | [181855-mars-type-i.json](./181855-mars-type-i.json) |
 | Mars Underground | 110490 | [110490-mars-underground.json](./110490-mars-underground.json) |
 | Mars: Chaos Menace | 111712 | [111712-mars-chaos-menace.json](./111712-mars-chaos-menace.json) |
+| Mars: War Logs | 1830 | [1830-mars-war-logs.json](./1830-mars-war-logs.json) |
 | Marsel: The Alien Clown | 245920 | [245920-marsel-the-alien-clown.json](./245920-marsel-the-alien-clown.json) |
 | Marsh Into the New Dimension | 396227 | [396227-marsh-into-the-new-dimension.json](./396227-marsh-into-the-new-dimension.json) |
 | Marshals of War: Orcblood | 408044 | [408044-marshals-of-war-orcblood.json](./408044-marshals-of-war-orcblood.json) |
@@ -3594,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midori Budou-den | 339121 | [339121-midori-budou-den.json](./339121-midori-budou-den.json) |
 | Midsummer Leg's Dream | 303791 | [303791-midsummer-legs-dream.json](./303791-midsummer-legs-dream.json) |
 | Midtown Madness | 2348 | [2348-midtown-madness.json](./2348-midtown-madness.json) |
+| Midtown Madness 2 | 5930 | [5930-midtown-madness-2.json](./5930-midtown-madness-2.json) |
 | Midvinter | 19281 | [19281-midvinter.json](./19281-midvinter.json) |
 | Midway: Sink the Japanese Aircraft Carriers | 196293 | [196293-midway-sink-the-japanese-aircraft-carriers.json](./196293-midway-sink-the-japanese-aircraft-carriers.json) |
 | Midwinter | 79580 | [79580-midwinter.json](./79580-midwinter.json) |
@@ -3601,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miffed | 180821 | [180821-miffed.json](./180821-miffed.json) |
 | MiG Alley | 789 | [789-mig-alley.json](./789-mig-alley.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
+| Might & Magic: Clash of Heroes | 1889 | [1889-might-and-magic-clash-of-heroes.json](./1889-might-and-magic-clash-of-heroes.json) |
 | Might & Magic: Duel of Champions - Forgotten Wars | 52586 | [52586-might-and-magic-duel-of-champions-forgotten-wars.json](./52586-might-and-magic-duel-of-champions-forgotten-wars.json) |
 | Might & Magic: Elemental Guardians | 70707 | [70707-might-and-magic-elemental-guardians.json](./70707-might-and-magic-elemental-guardians.json) |
 | Might & Magic: Heroes Online | 20177 | [20177-might-and-magic-heroes-online.json](./20177-might-and-magic-heroes-online.json) |
@@ -3631,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Mike (Power Pete) | 72658 | [72658-mighty-mike-power-pete.json](./72658-mighty-mike-power-pete.json) |
 | Mighty Monkey | 40389 | [40389-mighty-monkey.json](./40389-mighty-monkey.json) |
 | Mighty Monster Mayhem | 29622 | [29622-mighty-monster-mayhem.json](./29622-mighty-monster-mayhem.json) |
+| Mighty Morphin Power Rangers | 3324 | [3324-mighty-morphin-power-rangers.json](./3324-mighty-morphin-power-rangers.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Mulan | 66940 | [66940-mighty-mulan.json](./66940-mighty-mulan.json) |
 | Mighty No. 9: Ganbare! Beck | 78361 | [78361-mighty-no-9-ganbare-beck.json](./78361-mighty-no-9-ganbare-beck.json) |
@@ -3929,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Steven Universe Mash-up | 235338 | [235338-minecraft-steven-universe-mash-up.json](./235338-minecraft-steven-universe-mash-up.json) |
 | Minecraft: Story Mode - Episode 1: The Order of the Stone | 85612 | [85612-minecraft-story-mode-episode-1-the-order-of-the-stone.json](./85612-minecraft-story-mode-episode-1-the-order-of-the-stone.json) |
 | Minecraft: Story Mode - Episode 5: Order Up! | 91295 | [91295-minecraft-story-mode-episode-5-order-up.json](./91295-minecraft-story-mode-episode-5-order-up.json) |
+| Minecraft: Story Mode - Season Two | 44158 | [44158-minecraft-story-mode-season-two.json](./44158-minecraft-story-mode-season-two.json) |
 | Minecraft: Story Mode Season Two - Episode 1: Hero in Residence | 91298 | [91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json](./91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json) |
 | Minecraft: Teenage Mutant Ninja Turtles | 259850 | [259850-minecraft-teenage-mutant-ninja-turtles.json](./259850-minecraft-teenage-mutant-ninja-turtles.json) |
 | Minecraft: The Cake Is A Lie | 325863 | [325863-minecraft-the-cake-is-a-lie.json](./325863-minecraft-the-cake-is-a-lie.json) |
@@ -6080,6 +6088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mukti | 106382 | [106382-mukti.json](./106382-mukti.json) |
 | MULE Returns | 91151 | [91151-mule-returns.json](./91151-mule-returns.json) |
 | Mullet Hell | 233596 | [233596-mullet-hell.json](./233596-mullet-hell.json) |
+| Mullet Madjack | 252445 | [252445-mullet-madjack.json](./252445-mullet-madjack.json) |
 | Mullet Madjack: Deluxe Edition | 318218 | [318218-mullet-madjack-deluxe-edition.json](./318218-mullet-madjack-deluxe-edition.json) |
 | Multi Level Car Parking Simulator | 255738 | [255738-multi-level-car-parking-simulator.json](./255738-multi-level-car-parking-simulator.json) |
 | Multi Maze 3D | 221380 | [221380-multi-maze-3d.json](./221380-multi-maze-3d.json) |
