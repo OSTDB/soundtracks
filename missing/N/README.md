@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum Vol. 4 | 39934 | [39934-namco-museum-vol-4.json](./39934-namco-museum-vol-4.json) |
 | Namco Museum Vol. 5 | 39986 | [39986-namco-museum-vol-5.json](./39986-namco-museum-vol-5.json) |
 | Namco Soccer Prime Goal | 40396 | [40396-namco-soccer-prime-goal.json](./40396-namco-soccer-prime-goal.json) |
+| Namco Super Wars | 37359 | [37359-namco-super-wars.json](./37359-namco-super-wars.json) |
 | Namco Vintage | 206782 | [206782-namco-vintage.json](./206782-namco-vintage.json) |
 | namCollection | 94721 | [94721-namcollection.json](./94721-namcollection.json) |
 | Name That Letter - a Phonics Game | 107661 | [107661-name-that-letter-a-phonics-game.json](./107661-name-that-letter-a-phonics-game.json) |
@@ -251,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 1 | 284509 | [284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json](./284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections | 239385 | [239385-naruto-x-boruto-ultimate-ninja-storm-connections.json](./239385-naruto-x-boruto-ultimate-ninja-storm-connections.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections - Ultimate Edition | 268549 | [268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json](./268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json) |
+| Naruto: Konoha Ninpouchou | 37358 | [37358-naruto-konoha-ninpouchou.json](./37358-naruto-konoha-ninpouchou.json) |
 | Naruto: Konoha Senki | 75842 | [75842-naruto-konoha-senki.json](./75842-naruto-konoha-senki.json) |
 | Naruto: Ninja Cards | 388751 | [388751-naruto-ninja-cards.json](./388751-naruto-ninja-cards.json) |
 | Naruto: Ninja Council 2 - European Version | 79297 | [79297-naruto-ninja-council-2-european-version.json](./79297-naruto-ninja-council-2-european-version.json) |
@@ -1479,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightboarder | 179031 | [179031-nightboarder.json](./179031-nightboarder.json) |
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
 | Nightclub Royale: Let's Party! | 254608 | [254608-nightclub-royale-lets-party.json](./254608-nightclub-royale-lets-party.json) |
+| Nightcrawler VR Bowling | 37400 | [37400-nightcrawler-vr-bowling.json](./37400-nightcrawler-vr-bowling.json) |
 | NightCry | 19132 | [19132-nightcry.json](./19132-nightcry.json) |
 | Nightdawn | 72330 | [72330-nightdawn.json](./72330-nightdawn.json) |
 | Nightenfell: Shared AR | 96780 | [96780-nightenfell-shared-ar.json](./96780-nightenfell-shared-ar.json) |
