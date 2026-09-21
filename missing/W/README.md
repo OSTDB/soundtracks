@@ -2462,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Wow Big City | 87127 | [87127-word-wow-big-city.json](./87127-word-wow-big-city.json) |
 | Word Zapper | 46884 | [46884-word-zapper.json](./46884-word-zapper.json) |
 | Word Zip - Free Word Games | 105972 | [105972-word-zip-free-word-games.json](./105972-word-zip-free-word-games.json) |
+| Wordament: Snap Attack | 14592 | [14592-wordament-snap-attack.json](./14592-wordament-snap-attack.json) |
 | WordApt | 109504 | [109504-wordapt.json](./109504-wordapt.json) |
 | Wordatro! | 331665 | [331665-wordatro.json](./331665-wordatro.json) |
 | Wordban | 319358 | [319358-wordban.json](./319358-wordban.json) |
