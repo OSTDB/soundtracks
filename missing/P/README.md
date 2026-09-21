@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pass Your Driving Theory Test | 69205 | [69205-pass-your-driving-theory-test.json](./69205-pass-your-driving-theory-test.json) |
 | Passage | 204687 | [204687-passage.json](./204687-passage.json) |
 | Passage | 209700 | [209700-passage.json](./209700-passage.json) |
+| Passage | 36502 | [36502-passage.json](./36502-passage.json) |
 | Passage 3 | 210017 | [210017-passage-3.json](./210017-passage-3.json) |
 | Passage 4: Christmas Edition | 97132 | [97132-passage-4-christmas-edition.json](./97132-passage-4-christmas-edition.json) |
 | Passage: A Job Interview Simulator! | 237360 | [237360-passage-a-job-interview-simulator.json](./237360-passage-a-job-interview-simulator.json) |
@@ -1332,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pencil Marks | 365144 | [365144-pencil-marks.json](./365144-pencil-marks.json) |
 | Pencil Peril | 176356 | [176356-pencil-peril.json](./176356-pencil-peril.json) |
 | Pencil Plus: The Wrath of The Spankster | 242245 | [242245-pencil-plus-the-wrath-of-the-spankster.json](./242245-pencil-plus-the-wrath-of-the-spankster.json) |
+| Pencil Story - Free Logic Game | 36487 | [36487-pencil-story-free-logic-game.json](./36487-pencil-story-free-logic-game.json) |
 | Pendragon Rising | 34210 | [34210-pendragon-rising.json](./34210-pendragon-rising.json) |
 | Penelope Pendrick and the Art of Deceit | 316422 | [316422-penelope-pendrick-and-the-art-of-deceit.json](./316422-penelope-pendrick-and-the-art-of-deceit.json) |
 | Penelope Syndrome | 341585 | [341585-penelope-syndrome.json](./341585-penelope-syndrome.json) |
@@ -2781,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixiescape | 217389 | [217389-pixiescape.json](./217389-pixiescape.json) |
 | PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
+| Pixplode | 36494 | [36494-pixplode.json](./36494-pixplode.json) |
 | Pixsaw | 279112 | [279112-pixsaw.json](./279112-pixsaw.json) |
 | Pixtights | 97286 | [97286-pixtights.json](./97286-pixtights.json) |
 | Pixxelverse Online | 243239 | [243239-pixxelverse-online.json](./243239-pixxelverse-online.json) |
