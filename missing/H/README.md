@@ -2006,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic III: Complete | 51820 | [51820-heroes-of-might-and-magic-iii-complete.json](./51820-heroes-of-might-and-magic-iii-complete.json) |
 | Heroes of Might and Magic III: The Shadow of Death | 366 | [366-heroes-of-might-and-magic-iii-the-shadow-of-death.json](./366-heroes-of-might-and-magic-iii-the-shadow-of-death.json) |
 | Heroes of Might and Magic IV: Winds of War | 369 | [369-heroes-of-might-and-magic-iv-winds-of-war.json](./369-heroes-of-might-and-magic-iv-winds-of-war.json) |
+| Heroes of Newerth | 763 | [763-heroes-of-newerth.json](./763-heroes-of-newerth.json) |
 | Heroes of Normandie: Bulletproof Edition | 53190 | [53190-heroes-of-normandie-bulletproof-edition.json](./53190-heroes-of-normandie-bulletproof-edition.json) |
 | Heroes of Normandie: US Rangers | 172010 | [172010-heroes-of-normandie-us-rangers.json](./172010-heroes-of-normandie-us-rangers.json) |
 | Heroes of Order & Chaos | 39181 | [39181-heroes-of-order-and-chaos.json](./39181-heroes-of-order-and-chaos.json) |
@@ -2848,6 +2849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hodl: The God of Crypto | 97922 | [97922-hodl-the-god-of-crypto.json](./97922-hodl-the-god-of-crypto.json) |
 | HodlGod | 175895 | [175895-hodlgod.json](./175895-hodlgod.json) |
 | Hog Heist | 360645 | [360645-hog-heist.json](./360645-hog-heist.json) |
+| Hogan's Alley | 4601 | [4601-hogans-alley.json](./4601-hogans-alley.json) |
 | Hoggy 2 | 28916 | [28916-hoggy-2.json](./28916-hoggy-2.json) |
 | Hoglands | 231651 | [231651-hoglands.json](./231651-hoglands.json) |
 | Hogtie | 348335 | [348335-hogtie.json](./348335-hogtie.json) |
@@ -4185,6 +4187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperCore: Rhythm Bullet Hell | 122388 | [122388-hypercore-rhythm-bullet-hell.json](./122388-hypercore-rhythm-bullet-hell.json) |
 | HyperCycle League | 383979 | [383979-hypercycle-league.json](./383979-hypercycle-league.json) |
 | Hyperdimension Neptunia | 7319 | [7319-hyperdimension-neptunia.json](./7319-hyperdimension-neptunia.json) |
+| Hyperdimension Neptunia Re;Birth1 | 8902 | [8902-hyperdimension-neptunia-re-birth1.json](./8902-hyperdimension-neptunia-re-birth1.json) |
 | Hyperdimension Neptunia Re;Birth1: Additional Content 1 | 167238 | [167238-hyperdimension-neptunia-re-birth1-additional-content-1.json](./167238-hyperdimension-neptunia-re-birth1-additional-content-1.json) |
 | Hyperdimension Neptunia Re;Birth1: Additional Content 2 | 167240 | [167240-hyperdimension-neptunia-re-birth1-additional-content-2.json](./167240-hyperdimension-neptunia-re-birth1-additional-content-2.json) |
 | Hyperdimension Neptunia Re;Birth1: Additional Content 3 | 167234 | [167234-hyperdimension-neptunia-re-birth1-additional-content-3.json](./167234-hyperdimension-neptunia-re-birth1-additional-content-3.json) |
