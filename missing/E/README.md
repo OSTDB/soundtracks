@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember & Blade | 340741 | [340741-ember-and-blade.json](./340741-ember-and-blade.json) |
 | Ember Island | 391189 | [391189-ember-island.json](./391189-ember-island.json) |
 | Ember Knight Solitaire | 156107 | [156107-ember-knight-solitaire.json](./156107-ember-knight-solitaire.json) |
+| Ember Knights | 146609 | [146609-ember-knights.json](./146609-ember-knights.json) |
 | Ember Knights: Wrath of the Architect | 310371 | [310371-ember-knights-wrath-of-the-architect.json](./310371-ember-knights-wrath-of-the-architect.json) |
 | Ember Point | 296349 | [296349-ember-point.json](./296349-ember-point.json) |
 | Ember Storia | 323334 | [323334-ember-storia.json](./323334-ember-storia.json) |
@@ -2226,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverRun | 90704 | [90704-everrun.json](./90704-everrun.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
 | Evershard: Heroes of Gallan's Landing | 404828 | [404828-evershard-heroes-of-gallans-landing.json](./404828-evershard-heroes-of-gallans-landing.json) |
+| Eversion | 14402 | [14402-eversion.json](./14402-eversion.json) |
 | Everslash | 122424 | [122424-everslash.json](./122424-everslash.json) |
 | Everspace: Stellar Edition | 102126 | [102126-everspace-stellar-edition.json](./102126-everspace-stellar-edition.json) |
 | Everstill Valley | 394899 | [394899-everstill-valley.json](./394899-everstill-valley.json) |
@@ -2307,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Hand | 176435 | [176435-evil-hand.json](./176435-evil-hand.json) |
 | Evil Hunter Tycoon | 197357 | [197357-evil-hunter-tycoon.json](./197357-evil-hunter-tycoon.json) |
 | Evil Icebox | 149001 | [149001-evil-icebox.json](./149001-evil-icebox.json) |
+| Evil Islands: Curse of the Lost Soul | 13156 | [13156-evil-islands-curse-of-the-lost-soul.json](./13156-evil-islands-curse-of-the-lost-soul.json) |
 | Evil Manor | 137485 | [137485-evil-manor.json](./137485-evil-manor.json) |
 | Evil Maze 2 | 111637 | [111637-evil-maze-2.json](./111637-evil-maze-2.json) |
 | Evil Next Door | 217366 | [217366-evil-next-door.json](./217366-evil-next-door.json) |
@@ -2567,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expeditions: A MudRunner Game - Season 3: Icy Shores | 397702 | [397702-expeditions-a-mudrunner-game-season-3-icy-shores.json](./397702-expeditions-a-mudrunner-game-season-3-icy-shores.json) |
 | Expeditions: A MudRunner Game - The Great Don 71 | 289860 | [289860-expeditions-a-mudrunner-game-the-great-don-71.json](./289860-expeditions-a-mudrunner-game-the-great-don-71.json) |
 | Expeditions: Conquistador | 16523 | [16523-expeditions-conquistador.json](./16523-expeditions-conquistador.json) |
+| Expeditions: Rome | 146650 | [146650-expeditions-rome.json](./146650-expeditions-rome.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
 | Expendabots | 404929 | [404929-expendabots.json](./404929-expendabots.json) |
 | eXperience 112 | 17873 | [17873-experience-112.json](./17873-experience-112.json) |
