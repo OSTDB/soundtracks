@@ -2890,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Miner | 199496 | [199496-grid-miner.json](./199496-grid-miner.json) |
 | Grid Ranger | 304905 | [304905-grid-ranger.json](./304905-grid-ranger.json) |
 | Grid Runner | 20738 | [20738-grid-runner.json](./20738-grid-runner.json) |
+| Grid Seeker: Project Storm Hammer | 39866 | [39866-grid-seeker-project-storm-hammer.json](./39866-grid-seeker-project-storm-hammer.json) |
 | Grid Wars II | 51233 | [51233-grid-wars-ii.json](./51233-grid-wars-ii.json) |
 | Grid-M | 257921 | [257921-grid-m.json](./257921-grid-m.json) |
 | Grid: Autosport - Drag Pack | 365684 | [365684-grid-autosport-drag-pack.json](./365684-grid-autosport-drag-pack.json) |
@@ -3483,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunman Tales | 102450 | [102450-gunman-tales.json](./102450-gunman-tales.json) |
 | Gunmancer | 164963 | [164963-gunmancer.json](./164963-gunmancer.json) |
 | GunMaster | 266491 | [266491-gunmaster.json](./266491-gunmaster.json) |
+| GunNail | 39837 | [39837-gunnail.json](./39837-gunnail.json) |
 | Gunner 2 | 54073 | [54073-gunner-2.json](./54073-gunner-2.json) |
 | Gunner 3 | 259821 | [259821-gunner-3.json](./259821-gunner-3.json) |
 | Gunners Heart | 54072 | [54072-gunners-heart.json](./54072-gunners-heart.json) |
