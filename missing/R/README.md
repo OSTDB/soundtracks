@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabi Laby 2 | 84834 | [84834-rabi-laby-2.json](./84834-rabi-laby-2.json) |
 | Rabi Laby 3 | 84833 | [84833-rabi-laby-3.json](./84833-rabi-laby-3.json) |
 | Rabi to Navi no Daibouken | 206179 | [206179-rabi-to-navi-no-daibouken.json](./206179-rabi-to-navi-no-daibouken.json) |
+| Rabi-Ribi | 28545 | [28545-rabi-ribi.json](./28545-rabi-ribi.json) |
 | Rabi-Ribi: Is the order a DLC? | 171637 | [171637-rabi-ribi-is-the-order-a-dlc.json](./171637-rabi-ribi-is-the-order-a-dlc.json) |
 | Rabid Helix | 257656 | [257656-rabid-helix.json](./257656-rabid-helix.json) |
 | Rabio | 219169 | [219169-rabio.json](./219169-rabio.json) |
@@ -4356,6 +4357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryclaw: Hope | 211748 | [211748-ryclaw-hope.json](./211748-ryclaw-hope.json) |
 | Ryder | 335293 | [335293-ryder.json](./335293-ryder.json) |
 | Ryewood Town | 219661 | [219661-ryewood-town.json](./219661-ryewood-town.json) |
+| Rygar | 28841 | [28841-rygar.json](./28841-rygar.json) |
 | Rygar | 6856 | [6856-rygar.json](./6856-rygar.json) |
 | Rygar: The Legendary Adventure | 5134 | [5134-rygar-the-legendary-adventure.json](./5134-rygar-the-legendary-adventure.json) |
 | RymdResa | 11735 | [11735-rymdresa.json](./11735-rymdresa.json) |
