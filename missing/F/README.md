@@ -2698,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy Cat Bow Golf! | 252981 | [252981-floppy-cat-bow-golf.json](./252981-floppy-cat-bow-golf.json) |
 | Floppy Disks from Hell | 236946 | [236946-floppy-disks-from-hell.json](./236946-floppy-disks-from-hell.json) |
 | Floppy Fish | 402997 | [402997-floppy-fish.json](./402997-floppy-fish.json) |
+| Floppy Frenzy | 25137 | [25137-floppy-frenzy.json](./25137-floppy-frenzy.json) |
 | Floppy Knights: Version 2.0 | 230299 | [230299-floppy-knights-version-2-0.json](./230299-floppy-knights-version-2-0.json) |
 | Floppy Minecraft | 144104 | [144104-floppy-minecraft.json](./144104-floppy-minecraft.json) |
 | Flora and the Darkness | 175906 | [175906-flora-and-the-darkness.json](./175906-flora-and-the-darkness.json) |
