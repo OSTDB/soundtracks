@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virvius | 244888 | [244888-virvius.json](./244888-virvius.json) |
 | Visagens | 282020 | [282020-visagens.json](./282020-visagens.json) |
 | Viscera Cleanup Detail: House of Horror | 167764 | [167764-viscera-cleanup-detail-house-of-horror.json](./167764-viscera-cleanup-detail-house-of-horror.json) |
+| Viscera Cleanup Detail: Shadow Warrior | 16718 | [16718-viscera-cleanup-detail-shadow-warrior.json](./16718-viscera-cleanup-detail-shadow-warrior.json) |
 | Viscera Cleanup Detail: The Vulcan Affair | 167765 | [167765-viscera-cleanup-detail-the-vulcan-affair.json](./167765-viscera-cleanup-detail-the-vulcan-affair.json) |
 | Visceral Cubes | 96462 | [96462-visceral-cubes.json](./96462-visceral-cubes.json) |
 | Viscous Realms | 269103 | [269103-viscous-realms.json](./269103-viscous-realms.json) |
