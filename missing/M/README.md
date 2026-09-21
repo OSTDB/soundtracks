@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbleous Blocks | 163825 | [163825-marbleous-blocks.json](./163825-marbleous-blocks.json) |
 | Marbles Garden | 192298 | [192298-marbles-garden.json](./192298-marbles-garden.json) |
 | Marbles HD | 101520 | [101520-marbles-hd.json](./101520-marbles-hd.json) |
+| Marblize | 31142 | [31142-marblize.json](./31142-marblize.json) |
 | Marby Baby Story | 143668 | [143668-marby-baby-story.json](./143668-marby-baby-story.json) |
 | Marce | 383531 | [383531-marce.json](./383531-marce.json) |
 | Marcella Moon: Curse of the Black Cat | 149413 | [149413-marcella-moon-curse-of-the-black-cat.json](./149413-marcella-moon-curse-of-the-black-cat.json) |
@@ -1939,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Steel: Laptop Bilíngue Power | 294463 | [294463-max-steel-laptop-bilingue-power.json](./294463-max-steel-laptop-bilingue-power.json) |
 | Max Steel: Max Technical | 294464 | [294464-max-steel-max-technical.json](./294464-max-steel-max-technical.json) |
 | Max Steel: Turbo Tablet | 294465 | [294465-max-steel-turbo-tablet.json](./294465-max-steel-turbo-tablet.json) |
+| Max Stern | 31197 | [31197-max-stern.json](./31197-max-stern.json) |
 | Max Strong 2 | 310605 | [310605-max-strong-2.json](./310605-max-strong-2.json) |
 | Max Strong: Private Investigator | 310604 | [310604-max-strong-private-investigator.json](./310604-max-strong-private-investigator.json) |
 | Max Traffic | 191887 | [191887-max-traffic.json](./191887-max-traffic.json) |
@@ -4316,6 +4318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Mars | 147390 | [147390-mission-mars.json](./147390-mission-mars.json) |
 | Mission Mars | 263479 | [263479-mission-mars.json](./263479-mission-mars.json) |
 | Mission Mars Mobile | 213047 | [213047-mission-mars-mobile.json](./213047-mission-mars-mobile.json) |
+| Mission Omega | 31183 | [31183-mission-omega.json](./31183-mission-omega.json) |
 | Mission Ring Possible | 141901 | [141901-mission-ring-possible.json](./141901-mission-ring-possible.json) |
 | Mission Supernova | 93040 | [93040-mission-supernova.json](./93040-mission-supernova.json) |
 | Mission to Earth | 388212 | [388212-mission-to-earth.json](./388212-mission-to-earth.json) |
