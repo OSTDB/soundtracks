@@ -3658,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxs | 244791 | [244791-bloxs.json](./244791-bloxs.json) |
 | Bloxtacle Course | 267485 | [267485-bloxtacle-course.json](./267485-bloxtacle-course.json) |
 | Bloxter | 84267 | [84267-bloxter.json](./84267-bloxter.json) |
+| Blu Bandana | 44198 | [44198-blu-bandana.json](./44198-blu-bandana.json) |
 | Blu-Dude In The Quest for Chocolate Milk | 312164 | [312164-blu-dude-in-the-quest-for-chocolate-milk.json](./312164-blu-dude-in-the-quest-for-chocolate-milk.json) |
 | Blub | 274497 | [274497-blub.json](./274497-blub.json) |
 | Blubber | 312582 | [312582-blubber.json](./312582-blubber.json) |
