@@ -2246,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Science | 216248 | [216248-pinball-science.json](./216248-pinball-science.json) |
 | Pinball Shuffle | 88315 | [88315-pinball-shuffle.json](./88315-pinball-shuffle.json) |
 | Pinball Sniper | 344963 | [344963-pinball-sniper.json](./344963-pinball-sniper.json) |
+| Pinball Spectacular | 61308 | [61308-pinball-spectacular.json](./61308-pinball-spectacular.json) |
 | Pinball Strike Arcade Rampage | 377720 | [377720-pinball-strike-arcade-rampage.json](./377720-pinball-strike-arcade-rampage.json) |
 | Pinball Wicked | 43121 | [43121-pinball-wicked.json](./43121-pinball-wicked.json) |
 | Pinball Wizard | 12959 | [12959-pinball-wizard.json](./12959-pinball-wizard.json) |
@@ -2475,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pix! - Virtual Pet Widget Game | 97137 | [97137-pix-virtual-pet-widget-game.json](./97137-pix-virtual-pet-widget-game.json) |
 | Pix3D | 84819 | [84819-pix3d.json](./84819-pix3d.json) |
 | Pixadom | 317582 | [317582-pixadom.json](./317582-pixadom.json) |
+| Pixalo | 61310 | [61310-pixalo.json](./61310-pixalo.json) |
 | Pixapple Adventure | 388011 | [388011-pixapple-adventure.json](./388011-pixapple-adventure.json) |
 | Pixar Pals | 230398 | [230398-pixar-pals.json](./230398-pixar-pals.json) |
 | PixArk: Jade Elegance - A Theatrical Odyssey in the East | 291059 | [291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json](./291059-pixark-jade-elegance-a-theatrical-odyssey-in-the-east.json) |
@@ -3526,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Clicker | 341566 | [341566-poker-clicker.json](./341566-poker-clicker.json) |
 | Poker Club | 138204 | [138204-poker-club.json](./138204-poker-club.json) |
 | Poker Club: Gold Edition | 277568 | [277568-poker-club-gold-edition.json](./277568-poker-club-gold-edition.json) |
+| Poker Dice Solitaire Future | 61338 | [61338-poker-dice-solitaire-future.json](./61338-poker-dice-solitaire-future.json) |
 | Poker Drop | 146691 | [146691-poker-drop.json](./146691-poker-drop.json) |
 | Poker Dungeon: Joker's Madness | 310747 | [310747-poker-dungeon-jokers-madness.json](./310747-poker-dungeon-jokers-madness.json) |
 | Poker for Dummies | 64983 | [64983-poker-for-dummies.json](./64983-poker-for-dummies.json) |
@@ -4659,6 +4662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Darts Championship | 197887 | [197887-professional-darts-championship.json](./197887-professional-darts-championship.json) |
 | Professional Farmer 2016 | 84808 | [84808-professional-farmer-2016.json](./84808-professional-farmer-2016.json) |
 | Professional Farmer 2017: Cattle & Cultivation | 172103 | [172103-professional-farmer-2017-cattle-and-cultivation.json](./172103-professional-farmer-2017-cattle-and-cultivation.json) |
+| Professional Fisherman's Tour: Northern Hemisphere | 61352 | [61352-professional-fishermans-tour-northern-hemisphere.json](./61352-professional-fishermans-tour-northern-hemisphere.json) |
 | Professional Fishing | 141801 | [141801-professional-fishing.json](./141801-professional-fishing.json) |
 | Professional Fishing 2 | 255695 | [255695-professional-fishing-2.json](./255695-professional-fishing-2.json) |
 | Professional Lumberjack 2016 | 84807 | [84807-professional-lumberjack-2016.json](./84807-professional-lumberjack-2016.json) |
