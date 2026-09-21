@@ -1119,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Era | 135862 | [135862-new-era.json](./135862-new-era.json) |
 | New Fortress | 130875 | [130875-new-fortress.json](./130875-new-fortress.json) |
 | New Ganymede | 266783 | [266783-new-ganymede.json](./266783-new-ganymede.json) |
+| New Ghostbusters II | 3658 | [3658-new-ghostbusters-ii.json](./3658-new-ghostbusters-ii.json) |
 | New Gundam Breaker: Gunpla Figure Premium Edition | 167159 | [167159-new-gundam-breaker-gunpla-figure-premium-edition.json](./167159-new-gundam-breaker-gunpla-figure-premium-edition.json) |
 | New Homestead | 159721 | [159721-new-homestead.json](./159721-new-homestead.json) |
 | New Hope | 304058 | [304058-new-hope.json](./304058-new-hope.json) |
