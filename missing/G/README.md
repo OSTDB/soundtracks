@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Killer Aria | 182473 | [182473-god-killer-aria.json](./182473-god-killer-aria.json) |
 | God Kings | 142246 | [142246-god-kings.json](./142246-god-kings.json) |
 | God Marionette | 82868 | [82868-god-marionette.json](./82868-god-marionette.json) |
+| God Medicine: Fantasy Sekai no Tanjou | 60782 | [60782-god-medicine-fantasy-sekai-no-tanjou.json](./60782-god-medicine-fantasy-sekai-no-tanjou.json) |
 | God of Attack VIP | 95864 | [95864-god-of-attack-vip.json](./95864-god-of-attack-vip.json) |
 | God of Battle | 102580 | [102580-god-of-battle.json](./102580-god-of-battle.json) |
 | God of Chaos | 408920 | [408920-god-of-chaos.json](./408920-god-of-chaos.json) |
@@ -3263,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumnaam | 215353 | [215353-gumnaam.json](./215353-gumnaam.json) |
 | Gump Jump | 209647 | [209647-gump-jump.json](./209647-gump-jump.json) |
 | Gumslinger | 138594 | [138594-gumslinger.json](./138594-gumslinger.json) |
+| Gumtrix | 60761 | [60761-gumtrix.json](./60761-gumtrix.json) |
 | Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
 | Gun Beat | 113458 | [113458-gun-beat.json](./113458-gun-beat.json) |
 | Gun Blood Cowboy Duel | 103506 | [103506-gun-blood-cowboy-duel.json](./103506-gun-blood-cowboy-duel.json) |
