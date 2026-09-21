@@ -1435,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle-X | 256305 | [256305-battle-x.json](./256305-battle-x.json) |
 | BattleBalls | 365156 | [365156-battleballs.json](./365156-battleballs.json) |
 | BattleBeasts | 99615 | [99615-battlebeasts.json](./99615-battlebeasts.json) |
+| BattleBlock Theater | 2605 | [2605-battleblock-theater.json](./2605-battleblock-theater.json) |
 | Battleborn: Attikus and the Thrall Rebellion | 25040 | [25040-battleborn-attikus-and-the-thrall-rebellion.json](./25040-battleborn-attikus-and-the-thrall-rebellion.json) |
 | Battlebots | 200686 | [200686-battlebots.json](./200686-battlebots.json) |
 | BattleCap | 302105 | [302105-battlecap.json](./302105-battlecap.json) |
