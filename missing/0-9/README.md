@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18 Wheeler: American Pro Trucker | 3706 | [3706-18-wheeler-american-pro-trucker.json](./3706-18-wheeler-american-pro-trucker.json) |
 | 18 Wheels of Steel: American Long Haul | 11427 | [11427-18-wheels-of-steel-american-long-haul.json](./11427-18-wheels-of-steel-american-long-haul.json) |
 | 18 Wheels of Steel: Extreme Trucker 2 | 11429 | [11429-18-wheels-of-steel-extreme-trucker-2.json](./11429-18-wheels-of-steel-extreme-trucker-2.json) |
+| 18: Dream World | 56137 | [56137-18-dream-world.json](./56137-18-dream-world.json) |
 | 18+ | 219040 | [219040-18.json](./219040-18.json) |
 | 180 Files: The Aegis Project | 132419 | [132419-180-files-the-aegis-project.json](./132419-180-files-the-aegis-project.json) |
 | 180° Connect | 386733 | [386733-180-connect.json](./386733-180-connect.json) |
@@ -402,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-in-1 Geminim/Siamond | 338795 | [338795-2-in-1-geminim-siamond.json](./338795-2-in-1-geminim-siamond.json) |
 | 2-taku de Koishite Mune-kyun | 251629 | [251629-2-taku-de-koishite-mune-kyun.json](./251629-2-taku-de-koishite-mune-kyun.json) |
 | 20 All-Time Favorites | 91382 | [91382-20-all-time-favorites.json](./91382-20-all-time-favorites.json) |
+| 20 Billion Wives | 56146 | [56146-20-billion-wives.json](./56146-20-billion-wives.json) |
 | 20 Challenges: Episode 2 - Witchcraft | 339249 | [339249-20-challenges-episode-2-witchcraft.json](./339249-20-challenges-episode-2-witchcraft.json) |
 | 20 Days | 371267 | [371267-20-days.json](./371267-20-days.json) |
 | 20 em 1 | 94700 | [94700-20-em-1.json](./94700-20-em-1.json) |
@@ -787,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Ball 4 | 400987 | [400987-8-ball-4.json](./400987-8-ball-4.json) |
 | 8 Ball Pool | 39185 | [39185-8-ball-pool.json](./39185-8-ball-pool.json) |
 | 8 Ball Pool Classic | 277416 | [277416-8-ball-pool-classic.json](./277416-8-ball-pool-classic.json) |
+| 8 beat Story | 56167 | [56167-8-beat-story.json](./56167-8-beat-story.json) |
 | 8 Bit Fighters | 233495 | [233495-8-bit-fighters.json](./233495-8-bit-fighters.json) |
 | 8 Bit Son-of-a-Bitch | 186235 | [186235-8-bit-son-of-a-bitch.json](./186235-8-bit-son-of-a-bitch.json) |
 | 8 Legs to Love | 181252 | [181252-8-legs-to-love.json](./181252-8-legs-to-love.json) |
