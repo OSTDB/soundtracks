@@ -4811,6 +4811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Builders 2 | 54548 | [54548-dragon-quest-builders-2.json](./54548-dragon-quest-builders-2.json) |
 | Dragon Quest III HD-2D Remake | 149980 | [149980-dragon-quest-iii-hd-2d-remake.json](./149980-dragon-quest-iii-hd-2d-remake.json) |
 | Dragon Quest III: The Seeds of Salvation | 1814 | [1814-dragon-quest-iii-the-seeds-of-salvation.json](./1814-dragon-quest-iii-the-seeds-of-salvation.json) |
+| Dragon Quest IV: Chapters of the Chosen | 1815 | [1815-dragon-quest-iv-chapters-of-the-chosen.json](./1815-dragon-quest-iv-chapters-of-the-chosen.json) |
 | Dragon Quest IV: Chapters of the Chosen | 216304 | [216304-dragon-quest-iv-chapters-of-the-chosen.json](./216304-dragon-quest-iv-chapters-of-the-chosen.json) |
 | Dragon Quest IV: Michibikareshi Mono-tachi | 145467 | [145467-dragon-quest-iv-michibikareshi-mono-tachi.json](./145467-dragon-quest-iv-michibikareshi-mono-tachi.json) |
 | Dragon Quest IV: Michibikareshi Mono-tachi | 271211 | [271211-dragon-quest-iv-michibikareshi-mono-tachi.json](./271211-dragon-quest-iv-michibikareshi-mono-tachi.json) |
@@ -6159,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Legends: Warriors Unite | 240887 | [240887-dynasty-legends-warriors-unite.json](./240887-dynasty-legends-warriors-unite.json) |
 | Dynasty Warriors | 2982 | [2982-dynasty-warriors.json](./2982-dynasty-warriors.json) |
 | Dynasty Warriors 3: Xtreme Legends | 45014 | [45014-dynasty-warriors-3-xtreme-legends.json](./45014-dynasty-warriors-3-xtreme-legends.json) |
+| Dynasty Warriors 4 | 3007 | [3007-dynasty-warriors-4.json](./3007-dynasty-warriors-4.json) |
 | Dynasty Warriors 4: Empires | 19620 | [19620-dynasty-warriors-4-empires.json](./19620-dynasty-warriors-4-empires.json) |
 | Dynasty Warriors 5 | 5820 | [5820-dynasty-warriors-5.json](./5820-dynasty-warriors-5.json) |
 | Dynasty Warriors 7 | 6832 | [6832-dynasty-warriors-7.json](./6832-dynasty-warriors-7.json) |
