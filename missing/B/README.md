@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-Rabbit | 117482 | [117482-b-rabbit.json](./117482-b-rabbit.json) |
 | B-Sides | 183582 | [183582-b-sides.json](./183582-b-sides.json) |
 | B-Wings | 273080 | [273080-b-wings.json](./273080-b-wings.json) |
+| B. C. Story | 39879 | [39879-b-c-story.json](./39879-b-c-story.json) |
 | B.A.D. | 362277 | [362277-b-a-d.json](./362277-b-a-d.json) |
 | B.A.L.L.O | 338753 | [338753-b-a-l-l-o.json](./338753-b-a-l-l-o.json) |
 | B.A.S.E. Jumping | 137095 | [137095-b-a-s-e-jumping.json](./137095-b-a-s-e-jumping.json) |
@@ -1978,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellhop | 244860 | [244860-bellhop.json](./244860-bellhop.json) |
 | Belling Coins | 149441 | [149441-belling-coins.json](./149441-belling-coins.json) |
 | Bellini: The Mad Magician | 91447 | [91447-bellini-the-mad-magician.json](./91447-bellini-the-mad-magician.json) |
+| Bells & Whistles | 39878 | [39878-bells-and-whistles.json](./39878-bells-and-whistles.json) |
 | Bellular Hexatosis | 181793 | [181793-bellular-hexatosis.json](./181793-bellular-hexatosis.json) |
 | Bellum.io | 57347 | [57347-bellum-io.json](./57347-bellum-io.json) |
 | Bellumarot | 151712 | [151712-bellumarot.json](./151712-bellumarot.json) |
@@ -2574,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Inc. Redemption | 36627 | [36627-bio-inc-redemption.json](./36627-bio-inc-redemption.json) |
 | Bio Senshi Dan: Increaser to no Tatakai | 48647 | [48647-bio-senshi-dan-increaser-to-no-tatakai.json](./48647-bio-senshi-dan-increaser-to-no-tatakai.json) |
 | Bio-Hazard Battle | 4517 | [4517-bio-hazard-battle.json](./4517-bio-hazard-battle.json) |
+| Bio-Ship Paladin | 39877 | [39877-bio-ship-paladin.json](./39877-bio-ship-paladin.json) |
 | Bio-Submariner DX | 404980 | [404980-bio-submariner-dx.json](./404980-bio-submariner-dx.json) |
 | Bio-Synthetica | 235199 | [235199-bio-synthetica.json](./235199-bio-synthetica.json) |
 | BiochRL | 61110 | [61110-biochrl.json](./61110-biochrl.json) |
@@ -3067,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blanche | 184566 | [184566-blanche.json](./184566-blanche.json) |
 | Blanco: The Color of Adventure | 23960 | [23960-blanco-the-color-of-adventure.json](./23960-blanco-the-color-of-adventure.json) |
 | Blanda | 69541 | [69541-blanda.json](./69541-blanda.json) |
+| Blandia | 39876 | [39876-blandia.json](./39876-blandia.json) |
 | Blandia Plus | 41409 | [41409-blandia-plus.json](./41409-blandia-plus.json) |
 | Blandville | 177393 | [177393-blandville.json](./177393-blandville.json) |
 | Blank | 127800 | [127800-blank.json](./127800-blank.json) |
@@ -3691,6 +3695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Fish and Underwater Worlds | 146275 | [146275-blue-fish-and-underwater-worlds.json](./146275-blue-fish-and-underwater-worlds.json) |
 | Blue Fish Yokohama | 212824 | [212824-blue-fish-yokohama.json](./212824-blue-fish-yokohama.json) |
 | Blue Forest Story: Kaze no Fuuin | 37204 | [37204-blue-forest-story-kaze-no-fuuin.json](./37204-blue-forest-story-kaze-no-fuuin.json) |
+| Blue Hawk | 39875 | [39875-blue-hawk.json](./39875-blue-hawk.json) |
 | Blue Horizon | 23930 | [23930-blue-horizon.json](./23930-blue-horizon.json) |
 | Blue Jay Joyride | 195628 | [195628-blue-jay-joyride.json](./195628-blue-jay-joyride.json) |
 | Blue June | 153405 | [153405-blue-june.json](./153405-blue-june.json) |
@@ -4120,6 +4125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogeyman | 19015 | [19015-boogeyman.json](./19015-boogeyman.json) |
 | Boogie | 210265 | [210265-boogie.json](./210265-boogie.json) |
 | Boogie | 85828 | [85828-boogie.json](./85828-boogie.json) |
+| Boogie Wings | 39873 | [39873-boogie-wings.json](./39873-boogie-wings.json) |
 | Boogie Woogi Jungle | 202347 | [202347-boogie-woogi-jungle.json](./202347-boogie-woogi-jungle.json) |
 | Boogy | 193890 | [193890-boogy.json](./193890-boogy.json) |
 | Book 5 Untold | 254549 | [254549-book-5-untold.json](./254549-book-5-untold.json) |
@@ -4292,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss! | 60766 | [60766-boss.json](./60766-boss.json) |
 | Bossfight Tactics | 346141 | [346141-bossfight-tactics.json](./346141-bossfight-tactics.json) |
 | Bossleft | 408913 | [408913-bossleft.json](./408913-bossleft.json) |
+| Bostilda | 39882 | [39882-bostilda.json](./39882-bostilda.json) |
 | Boston Bomb Club | 10865 | [10865-boston-bomb-club.json](./10865-boston-bomb-club.json) |
 | Boston Nursing Home | 157174 | [157174-boston-nursing-home.json](./157174-boston-nursing-home.json) |
 | Bot Battles | 116835 | [116835-bot-battles.json](./116835-bot-battles.json) |
@@ -4643,6 +4650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brandish 2: The Planet Buster | 42212 | [42212-brandish-2-the-planet-buster.json](./42212-brandish-2-the-planet-buster.json) |
 | Brandnew Boy | 38975 | [38975-brandnew-boy.json](./38975-brandnew-boy.json) |
 | Branmarker 2 | 64977 | [64977-branmarker-2.json](./64977-branmarker-2.json) |
+| BRap Boy | 39880 | [39880-brap-boy.json](./39880-brap-boy.json) |
 | Bras | 353918 | [353918-bras.json](./353918-bras.json) |
 | BrasFoot 2003 | 249466 | [249466-brasfoot-2003.json](./249466-brasfoot-2003.json) |
 | BrasFoot 2007 | 330851 | [330851-brasfoot-2007.json](./330851-brasfoot-2007.json) |
