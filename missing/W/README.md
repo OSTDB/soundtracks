@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Human Tanks - Complete Collection | 53884 | [53884-war-of-the-human-tanks-complete-collection.json](./53884-war-of-the-human-tanks-complete-collection.json) |
 | War of the Lance | 50494 | [50494-war-of-the-lance.json](./50494-war-of-the-lance.json) |
 | War of the Ring | 356066 | [356066-war-of-the-ring.json](./356066-war-of-the-ring.json) |
+| War of the Roses | 1385 | [1385-war-of-the-roses.json](./1385-war-of-the-roses.json) |
 | War of the Roses: Kingmaker | 11040 | [11040-war-of-the-roses-kingmaker.json](./11040-war-of-the-roses-kingmaker.json) |
 | War of the Seraphim | 117056 | [117056-war-of-the-seraphim.json](./117056-war-of-the-seraphim.json) |
 | War of the Three Kingdoms | 369624 | [369624-war-of-the-three-kingdoms.json](./369624-war-of-the-three-kingdoms.json) |
@@ -1602,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiggly Boy | 139424 | [139424-wiggly-boy.json](./139424-wiggly-boy.json) |
 | Wii Chess | 5280 | [5280-wii-chess.json](./5280-wii-chess.json) |
 | Wii Karaoke U by Joysound | 3107 | [3107-wii-karaoke-u-by-joysound.json](./3107-wii-karaoke-u-by-joysound.json) |
+| Wii Party U | 3106 | [3106-wii-party-u.json](./3106-wii-party-u.json) |
 | Wii Sports + Wii Sports Resort | 130310 | [130310-wii-sports-wii-sports-resort.json](./130310-wii-sports-wii-sports-resort.json) |
 | Wii Sports Resort | 2182 | [2182-wii-sports-resort.json](./2182-wii-sports-resort.json) |
 | Wiki Hunt | 86062 | [86062-wiki-hunt.json](./86062-wiki-hunt.json) |
@@ -1962,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout | 109445 | [109445-wipeout.json](./109445-wipeout.json) |
 | Wipeout | 265970 | [265970-wipeout.json](./265970-wipeout.json) |
 | Wipeout | 351100 | [351100-wipeout.json](./351100-wipeout.json) |
+| Wipeout 2048 | 1545 | [1545-wipeout-2048.json](./1545-wipeout-2048.json) |
 | Wipeout 2600 | 279595 | [279595-wipeout-2600.json](./279595-wipeout-2600.json) |
 | Wipeout 3 Special Edition | 44855 | [44855-wipeout-3-special-edition.json](./44855-wipeout-3-special-edition.json) |
 | Wipeout Pure | 1542 | [1542-wipeout-pure.json](./1542-wipeout-pure.json) |
