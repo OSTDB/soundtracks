@@ -5282,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Forest | 267674 | [267674-the-red-forest.json](./267674-the-red-forest.json) |
 | The Red Hood | 193482 | [193482-the-red-hood.json](./193482-the-red-hood.json) |
 | The Red Juggernaut | 272385 | [272385-the-red-juggernaut.json](./272385-the-red-juggernaut.json) |
+| The Red Lantern | 116413 | [116413-the-red-lantern.json](./116413-the-red-lantern.json) |
 | The Red Line | 269104 | [269104-the-red-line.json](./269104-the-red-line.json) |
 | The Red Moon | 105320 | [105320-the-red-moon.json](./105320-the-red-moon.json) |
 | The Red One: Occultation | 408734 | [408734-the-red-one-occultation.json](./408734-the-red-one-occultation.json) |
@@ -5641,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Cool Kitchen Stuff | 13149 | [13149-the-sims-4-cool-kitchen-stuff.json](./13149-the-sims-4-cool-kitchen-stuff.json) |
 | The Sims 4: Country Kitchen Kit | 148501 | [148501-the-sims-4-country-kitchen-kit.json](./148501-the-sims-4-country-kitchen-kit.json) |
 | The Sims 4: Decor to the Max Kit | 195598 | [195598-the-sims-4-decor-to-the-max-kit.json](./195598-the-sims-4-decor-to-the-max-kit.json) |
+| The Sims 4: Discover University | 126182 | [126182-the-sims-4-discover-university.json](./126182-the-sims-4-discover-university.json) |
 | The Sims 4: Eco Lifestyle | 135144 | [135144-the-sims-4-eco-lifestyle.json](./135144-the-sims-4-eco-lifestyle.json) |
 | The Sims 4: Essential Glam Kit | 362300 | [362300-the-sims-4-essential-glam-kit.json](./362300-the-sims-4-essential-glam-kit.json) |
 | The Sims 4: Everyday Stuff Bundle | 159341 | [159341-the-sims-4-everyday-stuff-bundle.json](./159341-the-sims-4-everyday-stuff-bundle.json) |
@@ -5669,6 +5671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Plus Journey to Batuu Bundle | 139823 | [139823-the-sims-4-plus-journey-to-batuu-bundle.json](./139823-the-sims-4-plus-journey-to-batuu-bundle.json) |
 | The Sims 4: Poolside Splash Kit | 265704 | [265704-the-sims-4-poolside-splash-kit.json](./265704-the-sims-4-poolside-splash-kit.json) |
 | The Sims 4: Prairie Dreams | 404225 | [404225-the-sims-4-prairie-dreams.json](./404225-the-sims-4-prairie-dreams.json) |
+| The Sims 4: Realm of Magic | 122317 | [122317-the-sims-4-realm-of-magic.json](./122317-the-sims-4-realm-of-magic.json) |
 | The Sims 4: Restoration Workshop Kit | 350997 | [350997-the-sims-4-restoration-workshop-kit.json](./350997-the-sims-4-restoration-workshop-kit.json) |
 | The Sims 4: Romantic Garden Stuff | 121022 | [121022-the-sims-4-romantic-garden-stuff.json](./121022-the-sims-4-romantic-garden-stuff.json) |
 | The Sims 4: Seasons, Jungle Adventure, Spooky Stuff | 159332 | [159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json](./159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json) |
@@ -6301,6 +6304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unbreakable Chain | 62967 | [62967-the-unbreakable-chain.json](./62967-the-unbreakable-chain.json) |
 | The Uncanny X-Men | 48050 | [48050-the-uncanny-x-men.json](./48050-the-uncanny-x-men.json) |
 | The Uncertain: Last Quiet Day | 34366 | [34366-the-uncertain-last-quiet-day.json](./34366-the-uncertain-last-quiet-day.json) |
+| The Uncertain: Light at the End | 110461 | [110461-the-uncertain-light-at-the-end.json](./110461-the-uncertain-light-at-the-end.json) |
 | The Unclogging: An Unsanitary Saga | 51979 | [51979-the-unclogging-an-unsanitary-saga.json](./51979-the-unclogging-an-unsanitary-saga.json) |
 | The UNDA Legacy | 408073 | [408073-the-unda-legacy.json](./408073-the-unda-legacy.json) |
 | The Undead | 378155 | [378155-the-undead.json](./378155-the-undead.json) |
@@ -6411,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wait | 128605 | [128605-the-wait.json](./128605-the-wait.json) |
 | The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
 | The Walk | 375939 | [375939-the-walk.json](./375939-the-walk.json) |
+| The Walking Dead: A New Frontier - Episode 2: Ties That Bind - Part Two | 127063 | [127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json](./127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json) |
 | The Walking Dead: A New Frontier - Episode 3: Above the Law | 127064 | [127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json](./127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json) |
 | The Walking Dead: Aftermath | 410938 | [410938-the-walking-dead-aftermath.json](./410938-the-walking-dead-aftermath.json) |
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
@@ -6747,6 +6752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
 | There Is No Escape | 396213 | [396213-there-is-no-escape.json](./396213-there-is-no-escape.json) |
 | There Is No Fangame | 406811 | [406811-there-is-no-fangame.json](./406811-there-is-no-fangame.json) |
+| There Is No Game: Jam Edition 2015 | 132522 | [132522-there-is-no-game-jam-edition-2015.json](./132522-there-is-no-game-jam-edition-2015.json) |
 | There Is No Light | 138213 | [138213-there-is-no-light.json](./138213-there-is-no-light.json) |
 | There Is No Light 616 | 180203 | [180203-there-is-no-light-616.json](./180203-there-is-no-light-616.json) |
 | There Is No Turning Back! | 111004 | [111004-there-is-no-turning-back.json](./111004-there-is-no-turning-back.json) |
@@ -7940,6 +7946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeless Solitaire Collection | 372476 | [372476-timeless-solitaire-collection.json](./372476-timeless-solitaire-collection.json) |
 | Timeless Valley | 333593 | [333593-timeless-valley.json](./333593-timeless-valley.json) |
 | Timeless: The Forgotten Town | 44597 | [44597-timeless-the-forgotten-town.json](./44597-timeless-the-forgotten-town.json) |
+| Timelie | 122385 | [122385-timelie.json](./122385-timelie.json) |
 | Timeline Traveler | 136401 | [136401-timeline-traveler.json](./136401-timeline-traveler.json) |
 | Timeline Traveler II: Dream | 170518 | [170518-timeline-traveler-ii-dream.json](./170518-timeline-traveler-ii-dream.json) |
 | TimeLock VR | 51516 | [51516-timelock-vr.json](./51516-timelock-vr.json) |
