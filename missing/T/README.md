@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks Endeavor | 117073 | [117073-tanks-endeavor.json](./117073-tanks-endeavor.json) |
 | Tanks Rebirth | 357342 | [357342-tanks-rebirth.json](./357342-tanks-rebirth.json) |
 | Tanks vs Tanks: PvP | 214044 | [214044-tanks-vs-tanks-pvp.json](./214044-tanks-vs-tanks-pvp.json) |
+| Tanks vs. Aliens | 36500 | [36500-tanks-vs-aliens.json](./36500-tanks-vs-aliens.json) |
 | Tanks: The Crusades | 154405 | [154405-tanks-the-crusades.json](./154405-tanks-the-crusades.json) |
 | Tankura: Tango Crush - Kotoba Keshi Tango Puzzle Game | 208938 | [208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json](./208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json) |
 | Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
@@ -1000,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tax Evasion | 265147 | [265147-tax-evasion.json](./265147-tax-evasion.json) |
 | Tax Return | 390679 | [390679-tax-return.json](./390679-tax-return.json) |
 | Tax-Force | 265631 | [265631-tax-force.json](./265631-tax-force.json) |
+| Taxi | 36490 | [36490-taxi.json](./36490-taxi.json) |
 | Taxi 3 | 138156 | [138156-taxi-3.json](./138156-taxi-3.json) |
 | Taxi By Night | 184653 | [184653-taxi-by-night.json](./184653-taxi-by-night.json) |
 | Taxi Challenge: London | 116972 | [116972-taxi-challenge-london.json](./116972-taxi-challenge-london.json) |
@@ -2382,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Callisto Protocol: Contagion Bundle | 241958 | [241958-the-callisto-protocol-contagion-bundle.json](./241958-the-callisto-protocol-contagion-bundle.json) |
 | The Callisto Protocol: Outer Way Skin Collection | 308274 | [308274-the-callisto-protocol-outer-way-skin-collection.json](./308274-the-callisto-protocol-outer-way-skin-collection.json) |
 | The Callisto Protocol: Riot Bundle | 272560 | [272560-the-callisto-protocol-riot-bundle.json](./272560-the-callisto-protocol-riot-bundle.json) |
+| The Campaign Series: Fall Weiss | 36457 | [36457-the-campaign-series-fall-weiss.json](./36457-the-campaign-series-fall-weiss.json) |
 | The Campsite | 326605 | [326605-the-campsite.json](./326605-the-campsite.json) |
 | The Candle | 331669 | [331669-the-candle.json](./331669-the-candle.json) |
 | The Candyman | 186729 | [186729-the-candyman.json](./186729-the-candyman.json) |
@@ -2593,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cost Of Seeds | 292857 | [292857-the-cost-of-seeds.json](./292857-the-cost-of-seeds.json) |
 | The Cottage | 59966 | [59966-the-cottage.json](./59966-the-cottage.json) |
 | The Council of Hanwell | 89956 | [89956-the-council-of-hanwell.json](./89956-the-council-of-hanwell.json) |
+| The Count of Monster Disco | 36428 | [36428-the-count-of-monster-disco.json](./36428-the-count-of-monster-disco.json) |
 | The Count of Monte Carlo | 151696 | [151696-the-count-of-monte-carlo.json](./151696-the-count-of-monte-carlo.json) |
 | The Counting Kingdom | 17435 | [17435-the-counting-kingdom.json](./17435-the-counting-kingdom.json) |
 | The Coven | 37114 | [37114-the-coven.json](./37114-the-coven.json) |
@@ -3133,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fallen Angels | 39581 | [39581-the-fallen-angels.json](./39581-the-fallen-angels.json) |
 | The Fallen Crypt of the Judgement Concrete | 328031 | [328031-the-fallen-crypt-of-the-judgement-concrete.json](./328031-the-fallen-crypt-of-the-judgement-concrete.json) |
 | The Fallen Kingdom | 324298 | [324298-the-fallen-kingdom.json](./324298-the-fallen-kingdom.json) |
+| The Falling Nights | 36481 | [36481-the-falling-nights.json](./36481-the-falling-nights.json) |
 | The Falling Star | 344441 | [344441-the-falling-star.json](./344441-the-falling-star.json) |
 | The Fame Game: Welcome to Hollywood | 362303 | [362303-the-fame-game-welcome-to-hollywood.json](./362303-the-fame-game-welcome-to-hollywood.json) |
 | The Family Skeleton | 72343 | [72343-the-family-skeleton.json](./72343-the-family-skeleton.json) |
@@ -3231,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flame's Heir | 301278 | [301278-the-flames-heir.json](./301278-the-flames-heir.json) |
 | The Flames | 176510 | [176510-the-flames.json](./176510-the-flames.json) |
 | The Flawless Cup | 156000 | [156000-the-flawless-cup.json](./156000-the-flawless-cup.json) |
+| The Flaws of Gravity | 36477 | [36477-the-flaws-of-gravity.json](./36477-the-flaws-of-gravity.json) |
 | The Flayed Man | 329396 | [329396-the-flayed-man.json](./329396-the-flayed-man.json) |
 | The Flea Evolution | 188103 | [188103-the-flea-evolution.json](./188103-the-flea-evolution.json) |
 | The Flea Evolution: Bugaboo | 189151 | [189151-the-flea-evolution-bugaboo.json](./189151-the-flea-evolution-bugaboo.json) |
@@ -7614,6 +7620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilt Brush | 36215 | [36215-tilt-brush.json](./36215-tilt-brush.json) |
 | Tilt of Fury | 56763 | [56763-tilt-of-fury.json](./56763-tilt-of-fury.json) |
 | Tilt to Live 2: Redonkulous | 194413 | [194413-tilt-to-live-2-redonkulous.json](./194413-tilt-to-live-2-redonkulous.json) |
+| Tilted Mind | 36484 | [36484-tilted-mind.json](./36484-tilted-mind.json) |
 | Tilted: A Tale of Refraction | 51947 | [51947-tilted-a-tale-of-refraction.json](./51947-tilted-a-tale-of-refraction.json) |
 | Tiltfire | 199604 | [199604-tiltfire.json](./199604-tiltfire.json) |
 | Tilting Tiles: Fires of Industry | 319945 | [319945-tilting-tiles-fires-of-industry.json](./319945-tilting-tiles-fires-of-industry.json) |
@@ -8428,6 +8435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonic Trouble | 3614 | [3614-tonic-trouble.json](./3614-tonic-trouble.json) |
 | Tonight It Follows | 120201 | [120201-tonight-it-follows.json](./120201-tonight-it-follows.json) |
 | Tonight We Hunt | 183975 | [183975-tonight-we-hunt.json](./183975-tonight-we-hunt.json) |
+| Tonight We Riot | 36352 | [36352-tonight-we-riot.json](./36352-tonight-we-riot.json) |
 | Tonka Firefighter | 206757 | [206757-tonka-firefighter.json](./206757-tonka-firefighter.json) |
 | Tonka Search & Rescue 2 | 137029 | [137029-tonka-search-and-rescue-2.json](./137029-tonka-search-and-rescue-2.json) |
 | Tonka Town | 73786 | [73786-tonka-town.json](./73786-tonka-town.json) |
