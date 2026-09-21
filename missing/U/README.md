@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfinished 2 | 338589 | [338589-unfinished-2.json](./338589-unfinished-2.json) |
 | Unforgiven: Shattered Souls | 139357 | [139357-unforgiven-shattered-souls.json](./139357-unforgiven-shattered-souls.json) |
 | Unforgiven: Shattered Souls Portable | 139358 | [139358-unforgiven-shattered-souls-portable.json](./139358-unforgiven-shattered-souls-portable.json) |
+| Unforgiving Trials: The Space Crusade | 31141 | [31141-unforgiving-trials-the-space-crusade.json](./31141-unforgiving-trials-the-space-crusade.json) |
 | Unforgotten: Ordinance | 276816 | [276816-unforgotten-ordinance.json](./276816-unforgotten-ordinance.json) |
 | Unformed | 129015 | [129015-unformed.json](./129015-unformed.json) |
 | Unfortunate Spacemen | 34300 | [34300-unfortunate-spacemen.json](./34300-unfortunate-spacemen.json) |
