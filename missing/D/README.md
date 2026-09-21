@@ -2202,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent: Silence of Mind | 41905 | [41905-descent-silence-of-mind.json](./41905-descent-silence-of-mind.json) |
 | Desecrated Deck | 338709 | [338709-desecrated-deck.json](./338709-desecrated-deck.json) |
 | Desecration | 157019 | [157019-desecration.json](./157019-desecration.json) |
+| Desert | 18605 | [18605-desert.json](./18605-desert.json) |
 | Desert Angels | 348359 | [348359-desert-angels.json](./348359-desert-angels.json) |
 | Desert Armor | 127217 | [127217-desert-armor.json](./127217-desert-armor.json) |
 | Desert Breaker | 39862 | [39862-desert-breaker.json](./39862-desert-breaker.json) |
@@ -3456,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY Slime Maker! Squishy ASMR | 106593 | [106593-diy-slime-maker-squishy-asmr.json](./106593-diy-slime-maker-squishy-asmr.json) |
 | Dizziness | 181375 | [181375-dizziness.json](./181375-dizziness.json) |
 | Dizzy Dice | 13594 | [13594-dizzy-dice.json](./13594-dizzy-dice.json) |
+| Dizzy Down the Rapids | 18543 | [18543-dizzy-down-the-rapids.json](./18543-dizzy-down-the-rapids.json) |
 | Dizzy Dwarves | 174744 | [174744-dizzy-dwarves.json](./174744-dizzy-dwarves.json) |
 | Dizzy Fight | 276294 | [276294-dizzy-fight.json](./276294-dizzy-fight.json) |
 | Dizzy the Adventurer | 48672 | [48672-dizzy-the-adventurer.json](./48672-dizzy-the-adventurer.json) |
@@ -4520,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconic Evolution | 232672 | [232672-draconic-evolution.json](./232672-draconic-evolution.json) |
 | Draconic Order VR | 31925 | [31925-draconic-order-vr.json](./31925-draconic-order-vr.json) |
 | Dracu-Riot! | 137087 | [137087-dracu-riot.json](./137087-dracu-riot.json) |
+| Dracula | 18588 | [18588-dracula.json](./18588-dracula.json) |
 | Dracula | 31184 | [31184-dracula.json](./31184-dracula.json) |
 | Dracula 4: The Shadow of the Dragon | 9090 | [9090-dracula-4-the-shadow-of-the-dragon.json](./9090-dracula-4-the-shadow-of-the-dragon.json) |
 | Dracula 4+5 | 154936 | [154936-dracula-4-5.json](./154936-dracula-4-5.json) |
@@ -4891,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonScriber | 179575 | [179575-dragonscriber.json](./179575-dragonscriber.json) |
 | DragonSpear EX | 200164 | [200164-dragonspear-ex.json](./200164-dragonspear-ex.json) |
 | Dragonsphere | 2487 | [2487-dragonsphere.json](./2487-dragonsphere.json) |
+| Dragonstomper | 18568 | [18568-dragonstomper.json](./18568-dragonstomper.json) |
 | DragonSwings | 184636 | [184636-dragonswings.json](./184636-dragonswings.json) |
 | Dragontorc | 13610 | [13610-dragontorc.json](./13610-dragontorc.json) |
 | Dragonwing | 94572 | [94572-dragonwing.json](./94572-dragonwing.json) |
