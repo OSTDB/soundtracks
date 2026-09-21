@@ -66,6 +66,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamamura Misa Suspense: Kyoto Kurama Sansou Satsujin Jiken | 268530 | [268530-yamamura-misa-suspense-kyoto-kurama-sansou-satsujin-jiken.json](./268530-yamamura-misa-suspense-kyoto-kurama-sansou-satsujin-jiken.json) |
 | Yamamura Misa Suspense: Kyoto Kurama Sansou Satsujin Jiken | 268531 | [268531-yamamura-misa-suspense-kyoto-kurama-sansou-satsujin-jiken.json](./268531-yamamura-misa-suspense-kyoto-kurama-sansou-satsujin-jiken.json) |
 | Yamamura Misa Suspense: Kyoto Ryuu no Tera Satsujin Jiken | 65474 | [65474-yamamura-misa-suspense-kyoto-ryuu-no-tera-satsujin-jiken.json](./65474-yamamura-misa-suspense-kyoto-ryuu-no-tera-satsujin-jiken.json) |
+| Yamasa Digi World 2: LCD Edition | 61328 | [61328-yamasa-digi-world-2-lcd-edition.json](./61328-yamasa-digi-world-2-lcd-edition.json) |
+| Yamasa Digi World 3 | 61327 | [61327-yamasa-digi-world-3.json](./61327-yamasa-digi-world-3.json) |
+| Yamasa Digi World 4 | 61323 | [61323-yamasa-digi-world-4.json](./61323-yamasa-digi-world-4.json) |
+| Yamasa Digi World SP | 61324 | [61324-yamasa-digi-world-sp.json](./61324-yamasa-digi-world-sp.json) |
+| Yamasa Digi World: Tetra Master | 61326 | [61326-yamasa-digi-world-tetra-master.json](./61326-yamasa-digi-world-tetra-master.json) |
 | Yami Fuku Natsu: Teito Monogatari Futatabi | 147956 | [147956-yami-fuku-natsu-teito-monogatari-futatabi.json](./147956-yami-fuku-natsu-teito-monogatari-futatabi.json) |
 | Yami Mura | 392945 | [392945-yami-mura.json](./392945-yami-mura.json) |
 | Yami no Koe | 275312 | [275312-yami-no-koe.json](./275312-yami-no-koe.json) |
