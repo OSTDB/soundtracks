@@ -2052,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wits of Gods | 208062 | [208062-wits-of-gods.json](./208062-wits-of-gods.json) |
 | Wittengrad Is No More | 386254 | [386254-wittengrad-is-no-more.json](./386254-wittengrad-is-no-more.json) |
 | Wittle Defender | 358978 | [358978-wittle-defender.json](./358978-wittle-defender.json) |
+| Wixoss | 56135 | [56135-wixoss.json](./56135-wixoss.json) |
 | Wiz | 162406 | [162406-wiz.json](./162406-wiz.json) |
 | Wizard | 104479 | [104479-wizard.json](./104479-wizard.json) |
 | Wizard Another World | 294280 | [294280-wizard-another-world.json](./294280-wizard-another-world.json) |
