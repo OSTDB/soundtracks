@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: The Devil's Playhouse | 9534 | [9534-sam-and-max-the-devils-playhouse.json](./9534-sam-and-max-the-devils-playhouse.json) |
 | Samabake! Scramble | 318056 | [318056-samabake-scramble.json](./318056-samabake-scramble.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
+| Samantha Swift and the Mystery From Atlantis | 62460 | [62460-samantha-swift-and-the-mystery-from-atlantis.json](./62460-samantha-swift-and-the-mystery-from-atlantis.json) |
 | Samantha Wins | 128561 | [128561-samantha-wins.json](./128561-samantha-wins.json) |
 | Samara | 291084 | [291084-samara.json](./291084-samara.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
@@ -529,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand: A Superfluous Game | 177946 | [177946-sand-a-superfluous-game.json](./177946-sand-a-superfluous-game.json) |
 | Sandbox | 251826 | [251826-sandbox.json](./251826-sandbox.json) |
 | Sandbox Planet | 256534 | [256534-sandbox-planet.json](./256534-sandbox-planet.json) |
+| Sandcastle Builder | 62457 | [62457-sandcastle-builder.json](./62457-sandcastle-builder.json) |
 | Sandcastles | 134693 | [134693-sandcastles.json](./134693-sandcastles.json) |
 | Sandhill Architectures | 106407 | [106407-sandhill-architectures.json](./106407-sandhill-architectures.json) |
 | Sandmade | 97924 | [97924-sandmade.json](./97924-sandmade.json) |
@@ -1559,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seedbo And That Time The Sun Exploded | 325829 | [325829-seedbo-and-that-time-the-sun-exploded.json](./325829-seedbo-and-that-time-the-sun-exploded.json) |
 | Seedborne Soldiers | 349390 | [349390-seedborne-soldiers.json](./349390-seedborne-soldiers.json) |
 | Seeders Puzzle Reboot | 123411 | [123411-seeders-puzzle-reboot.json](./123411-seeders-puzzle-reboot.json) |
+| Seedling | 62421 | [62421-seedling.json](./62421-seedling.json) |
 | Seeds | 337669 | [337669-seeds.json](./337669-seeds.json) |
 | Seeds Life | 25756 | [25756-seeds-life.json](./25756-seeds-life.json) |
 | Seeds of Calamity | 194561 | [194561-seeds-of-calamity.json](./194561-seeds-of-calamity.json) |
@@ -3913,6 +3916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skidmarks | 65506 | [65506-skidmarks.json](./65506-skidmarks.json) |
 | Skies Above | 272931 | [272931-skies-above.json](./272931-skies-above.json) |
 | Skies Above the Great War | 244876 | [244876-skies-above-the-great-war.json](./244876-skies-above-the-great-war.json) |
+| Skies of Glory | 62446 | [62446-skies-of-glory.json](./62446-skies-of-glory.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
 | Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
 | Skill Gap | 393662 | [393662-skill-gap.json](./393662-skill-gap.json) |
@@ -7275,6 +7279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Land Defenders | 415946 | [415946-spooky-land-defenders.json](./415946-spooky-land-defenders.json) |
 | Spooky Mahjong | 336565 | [336565-spooky-mahjong.json](./336565-spooky-mahjong.json) |
 | Spooky Mall | 54393 | [54393-spooky-mall.json](./54393-spooky-mall.json) |
+| Spooky Manor | 62422 | [62422-spooky-manor.json](./62422-spooky-manor.json) |
 | Spooky Milk Life | 208631 | [208631-spooky-milk-life.json](./208631-spooky-milk-life.json) |
 | Spooky Season | 361696 | [361696-spooky-season.json](./361696-spooky-season.json) |
 | Spooky Shelter | 242228 | [242228-spooky-shelter.json](./242228-spooky-shelter.json) |
@@ -8425,6 +8430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Woke Etheral Edition | 75499 | [75499-stay-woke-etheral-edition.json](./75499-stay-woke-etheral-edition.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
 | Stay.: Fragments of Memories | 308972 | [308972-stay-fragments-of-memories.json](./308972-stay-fragments-of-memories.json) |
+| STCC 2: The Game | 62410 | [62410-stcc-2-the-game.json](./62410-stcc-2-the-game.json) |
 | Steadfast | 417535 | [417535-steadfast.json](./417535-steadfast.json) |
 | Steady, Steady, Steady! | 348254 | [348254-steady-steady-steady.json](./348254-steady-steady-steady.json) |
 | Steal My Artificial Heart | 9516 | [9516-steal-my-artificial-heart.json](./9516-steal-my-artificial-heart.json) |
@@ -10491,6 +10497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Masao 2 | 165061 | [165061-super-masao-2.json](./165061-super-masao-2.json) |
 | Super Maura Bros. 3 | 267386 | [267386-super-maura-bros-3.json](./267386-super-maura-bros-3.json) |
 | Super Mayhem 17 | 269128 | [269128-super-mayhem-17.json](./269128-super-mayhem-17.json) |
+| Super Maze | 62409 | [62409-super-maze.json](./62409-super-maze.json) |
 | Super Maze Wars | 66647 | [66647-super-maze-wars.json](./66647-super-maze-wars.json) |
 | Super Meat Boy Handheld! | 77317 | [77317-super-meat-boy-handheld.json](./77317-super-meat-boy-handheld.json) |
 | Super Meat Boy: The Game | 77316 | [77316-super-meat-boy-the-game.json](./77316-super-meat-boy-the-game.json) |
@@ -11265,6 +11272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Fever | 47204 | [47204-swamp-fever.json](./47204-swamp-fever.json) |
 | Swamp Gas Visits the United States of America | 65517 | [65517-swamp-gas-visits-the-united-states-of-america.json](./65517-swamp-gas-visits-the-united-states-of-america.json) |
 | Swamp Hunt | 208347 | [208347-swamp-hunt.json](./208347-swamp-hunt.json) |
+| Swamp People | 62437 | [62437-swamp-people.json](./62437-swamp-people.json) |
 | Swamp Sim | 345586 | [345586-swamp-sim.json](./345586-swamp-sim.json) |
 | Swamp Thing | 198935 | [198935-swamp-thing.json](./198935-swamp-thing.json) |
 | Swamp Thing | 365685 | [365685-swamp-thing.json](./365685-swamp-thing.json) |
