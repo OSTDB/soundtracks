@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Arcade Stars | 250660 | [250660-basketball-arcade-stars.json](./250660-basketball-arcade-stars.json) |
 | Basketball Baby | 186838 | [186838-basketball-baby.json](./186838-basketball-baby.json) |
 | Basketball Battle | 89288 | [89288-basketball-battle.json](./89288-basketball-battle.json) |
+| Basketball Court VR | 32166 | [32166-basketball-court-vr.json](./32166-basketball-court-vr.json) |
 | Basketball Dunk Tournament | 197336 | [197336-basketball-dunk-tournament.json](./197336-basketball-dunk-tournament.json) |
 | Basketball Grand Slam 2024 | 269089 | [269089-basketball-grand-slam-2024.json](./269089-basketball-grand-slam-2024.json) |
 | Basketball Hero VR | 102198 | [102198-basketball-hero-vr.json](./102198-basketball-hero-vr.json) |
@@ -1055,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketballverse | 275021 | [275021-basketballverse.json](./275021-basketballverse.json) |
 | Basketbrawl | 11867 | [11867-basketbrawl.json](./11867-basketbrawl.json) |
 | Basketing | 148903 | [148903-basketing.json](./148903-basketing.json) |
+| Baskhead | 32254 | [32254-baskhead.json](./32254-baskhead.json) |
 | Baspetball | 346584 | [346584-baspetball.json](./346584-baspetball.json) |
 | Bass Cat: Learn to Read Music | 90382 | [90382-bass-cat-learn-to-read-music.json](./90382-bass-cat-learn-to-read-music.json) |
 | Bass Defense | 309538 | [309538-bass-defense.json](./309538-bass-defense.json) |
@@ -4499,6 +4501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling X | 68642 | [68642-bowling-x.json](./68642-bowling-x.json) |
 | Bowling! / Basketball! | 80209 | [80209-bowling-basketball.json](./80209-bowling-basketball.json) |
 | Bowls | 14337 | [14337-bowls.json](./14337-bowls.json) |
+| BowMage | 32267 | [32267-bowmage.json](./32267-bowmage.json) |
 | Bowman | 357273 | [357273-bowman.json](./357273-bowman.json) |
 | Bowman 2 | 192329 | [192329-bowman-2.json](./192329-bowman-2.json) |
 | Bowmasters | 71911 | [71911-bowmasters.json](./71911-bowmasters.json) |
@@ -4928,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bric-a-Brac Shop | 178513 | [178513-bric-a-brac-shop.json](./178513-bric-a-brac-shop.json) |
 | Brick | 356655 | [356655-brick.json](./356655-brick.json) |
 | Brick | 92294 | [92294-brick.json](./92294-brick.json) |
+| Brick Battalion | 32208 | [32208-brick-battalion.json](./32208-brick-battalion.json) |
 | Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
 | Brick Breaker | 195751 | [195751-brick-breaker.json](./195751-brick-breaker.json) |
 | Brick Breaker Bunch | 87968 | [87968-brick-breaker-bunch.json](./87968-brick-breaker-bunch.json) |
