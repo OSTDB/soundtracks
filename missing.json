@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T04:02:42.831Z",
-  "total_missing": 100121,
+  "generated_at": "2026-09-21T04:17:12.987Z",
+  "total_missing": 100171,
   "games": [
     {
       "igdb_id": 176875,
@@ -165863,6 +165863,11 @@
       "file": "missing/G/90598-gluck-auf.json"
     },
     {
+      "igdb_id": 54053,
+      "game_name": "Gluk'Oza Action",
+      "file": "missing/G/54053-glukoza-action.json"
+    },
+    {
       "igdb_id": 270184,
       "game_name": "Glukhovo",
       "file": "missing/G/270184-glukhovo.json"
@@ -167233,6 +167238,11 @@
       "file": "missing/G/267462-gods-wars-infinity-epic.json"
     },
     {
+      "igdb_id": 54054,
+      "game_name": "Gods: Lands of Infinity - Special Edition",
+      "file": "missing/G/54054-gods-lands-of-infinity-special-edition.json"
+    },
+    {
       "igdb_id": 197368,
       "game_name": "Gods' Margarita",
       "file": "missing/G/197368-gods-margarita.json"
@@ -167636,6 +167646,11 @@
       "igdb_id": 12121,
       "game_name": "Gold Rush!",
       "file": "missing/G/12121-gold-rush.json"
+    },
+    {
+      "igdb_id": 54055,
+      "game_name": "Gold Rush! Anniversary: Special Edition",
+      "file": "missing/G/54055-gold-rush-anniversary-special-edition.json"
     },
     {
       "igdb_id": 36288,
@@ -168523,6 +168538,11 @@
       "file": "missing/G/301962-good-idea.json"
     },
     {
+      "igdb_id": 54070,
+      "game_name": "Good Intentions",
+      "file": "missing/G/54070-good-intentions.json"
+    },
+    {
       "igdb_id": 261259,
       "game_name": "Good Job!",
       "file": "missing/G/261259-good-job.json"
@@ -168666,6 +168686,11 @@
       "igdb_id": 285991,
       "game_name": "Goodbye Cendrillon",
       "file": "missing/G/285991-goodbye-cendrillon.json"
+    },
+    {
+      "igdb_id": 54069,
+      "game_name": "Goodbye Deponia: Premium Edition",
+      "file": "missing/G/54069-goodbye-deponia-premium-edition.json"
     },
     {
       "igdb_id": 135905,
@@ -169308,6 +169333,16 @@
       "file": "missing/G/398348-gourgarion-incubus.json"
     },
     {
+      "igdb_id": 54068,
+      "game_name": "Gourmania 2: Great Expectations",
+      "file": "missing/G/54068-gourmania-2-great-expectations.json"
+    },
+    {
+      "igdb_id": 54067,
+      "game_name": "Gourmania 3: Zoo Zoom",
+      "file": "missing/G/54067-gourmania-3-zoo-zoom.json"
+    },
+    {
       "igdb_id": 314492,
       "game_name": "Gourmet",
       "file": "missing/G/314492-gourmet.json"
@@ -169421,6 +169456,11 @@
       "igdb_id": 248302,
       "game_name": "Grace Online",
       "file": "missing/G/248302-grace-online.json"
+    },
+    {
+      "igdb_id": 54065,
+      "game_name": "Grace's Quest: To Catch an Art Thief",
+      "file": "missing/G/54065-graces-quest-to-catch-an-art-thief.json"
     },
     {
       "igdb_id": 56130,
@@ -169933,9 +169973,19 @@
       "file": "missing/G/57640-grand-prix-3-season-2000.json"
     },
     {
+      "igdb_id": 54064,
+      "game_name": "Grand Prix Championship 2",
+      "file": "missing/G/54064-grand-prix-championship-2.json"
+    },
+    {
       "igdb_id": 12124,
       "game_name": "Grand Prix Circuit",
       "file": "missing/G/12124-grand-prix-circuit.json"
+    },
+    {
+      "igdb_id": 54063,
+      "game_name": "Grand Prix Evolution",
+      "file": "missing/G/54063-grand-prix-evolution.json"
     },
     {
       "igdb_id": 314865,
@@ -170843,6 +170893,11 @@
       "file": "missing/G/155493-graviteam-tactics-operation-star-operation-hooper.json"
     },
     {
+      "igdb_id": 54062,
+      "game_name": "Graviteam Tactics: Operation Star - Shilovo 1942",
+      "file": "missing/G/54062-graviteam-tactics-operation-star-shilovo-1942.json"
+    },
+    {
       "igdb_id": 155494,
       "game_name": "Graviteam Tactics: Operation Star - Sokolovo 1943",
       "file": "missing/G/155494-graviteam-tactics-operation-star-sokolovo-1943.json"
@@ -170851,6 +170906,11 @@
       "igdb_id": 155496,
       "game_name": "Graviteam Tactics: Operation Star - Volokonovka 1942",
       "file": "missing/G/155496-graviteam-tactics-operation-star-volokonovka-1942.json"
+    },
+    {
+      "igdb_id": 54061,
+      "game_name": "Graviteam Tactics: Operation Star - Zhalanashkol 1969",
+      "file": "missing/G/54061-graviteam-tactics-operation-star-zhalanashkol-1969.json"
     },
     {
       "igdb_id": 245575,
@@ -171146,6 +171206,11 @@
       "igdb_id": 343238,
       "game_name": "Grease Monkey Grand Prix",
       "file": "missing/G/343238-grease-monkey-grand-prix.json"
+    },
+    {
+      "igdb_id": 54060,
+      "game_name": "Great Adventures Lost Mountains",
+      "file": "missing/G/54060-great-adventures-lost-mountains.json"
     },
     {
       "igdb_id": 167280,
@@ -171558,6 +171623,11 @@
       "file": "missing/G/224620-green-valley.json"
     },
     {
+      "igdb_id": 54059,
+      "game_name": "Green Valley: Fun on the Farm",
+      "file": "missing/G/54059-green-valley-fun-on-the-farm.json"
+    },
+    {
       "igdb_id": 397088,
       "game_name": "Green Wave",
       "file": "missing/G/397088-green-wave.json"
@@ -171636,6 +171706,11 @@
       "igdb_id": 236838,
       "game_name": "Greenlander",
       "file": "missing/G/236838-greenlander.json"
+    },
+    {
+      "igdb_id": 54058,
+      "game_name": "greenTech+",
+      "file": "missing/G/54058-greentech.json"
     },
     {
       "igdb_id": 309858,
@@ -171761,6 +171836,11 @@
       "igdb_id": 236950,
       "game_name": "Grey Galactic",
       "file": "missing/G/236950-grey-galactic.json"
+    },
+    {
+      "igdb_id": 54057,
+      "game_name": "Grey Goo Definitive Edition",
+      "file": "missing/G/54057-grey-goo-definitive-edition.json"
     },
     {
       "igdb_id": 239664,
@@ -173638,6 +173718,11 @@
       "file": "missing/G/137461-guild-of-darksteel.json"
     },
     {
+      "igdb_id": 54075,
+      "game_name": "Guild of Dungeoneering: Deluxe Edition",
+      "file": "missing/G/54075-guild-of-dungeoneering-deluxe-edition.json"
+    },
+    {
       "igdb_id": 137024,
       "game_name": "Guild of Greats",
       "file": "missing/G/137024-guild-of-greats.json"
@@ -174788,9 +174873,19 @@
       "file": "missing/G/266491-gunmaster.json"
     },
     {
+      "igdb_id": 54073,
+      "game_name": "Gunner 2",
+      "file": "missing/G/54073-gunner-2.json"
+    },
+    {
       "igdb_id": 259821,
       "game_name": "Gunner 3",
       "file": "missing/G/259821-gunner-3.json"
+    },
+    {
+      "igdb_id": 54072,
+      "game_name": "Gunners Heart",
+      "file": "missing/G/54072-gunners-heart.json"
     },
     {
       "igdb_id": 20207,
@@ -175143,6 +175238,11 @@
       "file": "missing/G/213000-gunsoul-girl-2.json"
     },
     {
+      "igdb_id": 54071,
+      "game_name": "Gunspell",
+      "file": "missing/G/54071-gunspell.json"
+    },
+    {
       "igdb_id": 36221,
       "game_name": "Gunspell: Steam Edition",
       "file": "missing/G/36221-gunspell-steam-edition.json"
@@ -175391,6 +175491,11 @@
       "igdb_id": 236913,
       "game_name": "Gverse",
       "file": "missing/G/236913-gverse.json"
+    },
+    {
+      "igdb_id": 54076,
+      "game_name": "Gwen the Magic Nanny",
+      "file": "missing/G/54076-gwen-the-magic-nanny.json"
     },
     {
       "igdb_id": 340406,
@@ -178253,6 +178358,11 @@
       "file": "missing/H/97311-happy-soccer-physics.json"
     },
     {
+      "igdb_id": 54077,
+      "game_name": "Happy Tails Zoo Keeper",
+      "file": "missing/H/54077-happy-tails-zoo-keeper.json"
+    },
+    {
       "igdb_id": 362282,
       "game_name": "Happy Time",
       "file": "missing/H/362282-happy-time.json"
@@ -179716,6 +179826,11 @@
       "igdb_id": 140618,
       "game_name": "Haunted Cities Volume 4",
       "file": "missing/H/140618-haunted-cities-volume-4.json"
+    },
+    {
+      "igdb_id": 54078,
+      "game_name": "Haunted Domains",
+      "file": "missing/H/54078-haunted-domains.json"
     },
     {
       "igdb_id": 110831,
@@ -181543,6 +181658,11 @@
       "file": "missing/H/219825-heavy-hearts.json"
     },
     {
+      "igdb_id": 54079,
+      "game_name": "Heavy Hogur",
+      "file": "missing/H/54079-heavy-hogur.json"
+    },
+    {
       "igdb_id": 409528,
       "game_name": "Heavy Machinery vs. Shumai",
       "file": "missing/H/409528-heavy-machinery-vs-shumai.json"
@@ -181703,6 +181823,11 @@
       "file": "missing/H/234940-hedgehog-launch-2.json"
     },
     {
+      "igdb_id": 54080,
+      "game_name": "Hedgehogs in Space",
+      "file": "missing/H/54080-hedgehogs-in-space.json"
+    },
+    {
       "igdb_id": 217498,
       "game_name": "Hedgehot: Battle Strike",
       "file": "missing/H/217498-hedgehot-battle-strike.json"
@@ -181746,6 +181871,11 @@
       "igdb_id": 142895,
       "game_name": "Hegemony III: The Eagle King",
       "file": "missing/H/142895-hegemony-iii-the-eagle-king.json"
+    },
+    {
+      "igdb_id": 54099,
+      "game_name": "Hegemony Rome: Rise of Caesar",
+      "file": "missing/H/54099-hegemony-rome-rise-of-caesar.json"
     },
     {
       "igdb_id": 265250,
@@ -184518,6 +184648,11 @@
       "file": "missing/H/393461-her3-the-light-of-paradise-regained.json"
     },
     {
+      "igdb_id": 54098,
+      "game_name": "Heracles - Battle of the Gods",
+      "file": "missing/H/54098-heracles-battle-of-the-gods.json"
+    },
+    {
       "igdb_id": 48619,
       "game_name": "Heracles no Eikou II: Titan no Metsubou",
       "file": "missing/H/48619-heracles-no-eikou-ii-titan-no-metsubou.json"
@@ -185253,6 +185388,16 @@
       "file": "missing/H/26171-heroes-of-havoc-idle-adventures.json"
     },
     {
+      "igdb_id": 54097,
+      "game_name": "Heroes of Hellas",
+      "file": "missing/H/54097-heroes-of-hellas.json"
+    },
+    {
+      "igdb_id": 54096,
+      "game_name": "Heroes of Hellas 2: Olympia",
+      "file": "missing/H/54096-heroes-of-hellas-2-olympia.json"
+    },
+    {
       "igdb_id": 215237,
       "game_name": "Heroes of Hyrule",
       "file": "missing/H/215237-heroes-of-hyrule.json"
@@ -185261,6 +185406,11 @@
       "igdb_id": 210689,
       "game_name": "Heroes of Jin Yong",
       "file": "missing/H/210689-heroes-of-jin-yong.json"
+    },
+    {
+      "igdb_id": 54095,
+      "game_name": "Heroes of Kalevala",
+      "file": "missing/H/54095-heroes-of-kalevala.json"
     },
     {
       "igdb_id": 171561,
@@ -185456,6 +185606,11 @@
       "igdb_id": 53192,
       "game_name": "Heroes Rise Trilogy",
       "file": "missing/H/53192-heroes-rise-trilogy.json"
+    },
+    {
+      "igdb_id": 54093,
+      "game_name": "Heroes Rush: Tactics",
+      "file": "missing/H/54093-heroes-rush-tactics.json"
     },
     {
       "igdb_id": 336371,
@@ -186783,6 +186938,11 @@
       "file": "missing/H/186720-hidden-motives-the-diamond-rush-collectors-edition.json"
     },
     {
+      "igdb_id": 54092,
+      "game_name": "Hidden Mysteries: Gates of Graceland",
+      "file": "missing/H/54092-hidden-mysteries-gates-of-graceland.json"
+    },
+    {
       "igdb_id": 206730,
       "game_name": "Hidden Mysteries: Return to Titanic",
       "file": "missing/H/206730-hidden-mysteries-return-to-titanic.json"
@@ -187173,6 +187333,11 @@
       "file": "missing/H/289453-hidden-robo-cats-bonus-level.json"
     },
     {
+      "igdb_id": 54091,
+      "game_name": "Hidden Runaway",
+      "file": "missing/H/54091-hidden-runaway.json"
+    },
+    {
       "igdb_id": 257110,
       "game_name": "Hidden SciFi City Top-Down 3D",
       "file": "missing/H/257110-hidden-scifi-city-top-down-3d.json"
@@ -187226,6 +187391,11 @@
       "igdb_id": 233482,
       "game_name": "Hidden Tales",
       "file": "missing/H/233482-hidden-tales.json"
+    },
+    {
+      "igdb_id": 54090,
+      "game_name": "Hidden Target",
+      "file": "missing/H/54090-hidden-target.json"
     },
     {
       "igdb_id": 248650,
@@ -187286,6 +187456,11 @@
       "igdb_id": 108490,
       "game_name": "Hidden Words and Pictures Game",
       "file": "missing/H/108490-hidden-words-and-pictures-game.json"
+    },
+    {
+      "igdb_id": 54089,
+      "game_name": "Hidden World",
+      "file": "missing/H/54089-hidden-world.json"
     },
     {
       "igdb_id": 277826,
@@ -189623,6 +189798,11 @@
       "file": "missing/H/29929-holiday-bonus-gold.json"
     },
     {
+      "igdb_id": 54088,
+      "game_name": "Holiday Express",
+      "file": "missing/H/54088-holiday-express.json"
+    },
+    {
       "igdb_id": 279774,
       "game_name": "Holiday Hits",
       "file": "missing/H/279774-holiday-hits.json"
@@ -189641,6 +189821,11 @@
       "igdb_id": 340477,
       "game_name": "Holiday in Europe: Wonders of Germany - Collector's Edition",
       "file": "missing/H/340477-holiday-in-europe-wonders-of-germany-collectors-edition.json"
+    },
+    {
+      "igdb_id": 54087,
+      "game_name": "Holiday Jigsaw Valentines Day",
+      "file": "missing/H/54087-holiday-jigsaw-valentines-day.json"
     },
     {
       "igdb_id": 215684,
@@ -189821,6 +190006,11 @@
       "igdb_id": 177046,
       "game_name": "Holly: A Christmas Tale",
       "file": "missing/H/177046-holly-a-christmas-tale.json"
+    },
+    {
+      "igdb_id": 54086,
+      "game_name": "Holly: A Christmas Tale Deluxe",
+      "file": "missing/H/54086-holly-a-christmas-tale-deluxe.json"
     },
     {
       "igdb_id": 262653,
@@ -190511,6 +190701,11 @@
       "igdb_id": 337668,
       "game_name": "Homestead Online",
       "file": "missing/H/337668-homestead-online.json"
+    },
+    {
+      "igdb_id": 54085,
+      "game_name": "Hometown Poker Hero",
+      "file": "missing/H/54085-hometown-poker-hero.json"
     },
     {
       "igdb_id": 188126,
@@ -192233,6 +192428,11 @@
       "file": "missing/H/163417-hospital-9-puzzles.json"
     },
     {
+      "igdb_id": 54084,
+      "game_name": "Hospital Haste",
+      "file": "missing/H/54084-hospital-haste.json"
+    },
+    {
       "igdb_id": 85179,
       "game_name": "Hospital Havoc",
       "file": "missing/H/85179-hospital-havoc.json"
@@ -192373,6 +192573,11 @@
       "file": "missing/H/53202-hot-dish-2.json"
     },
     {
+      "igdb_id": 54083,
+      "game_name": "Hot Dish 2: Cross Country Cook-Off",
+      "file": "missing/H/54083-hot-dish-2-cross-country-cook-off.json"
+    },
+    {
       "igdb_id": 158721,
       "game_name": "Hot Dodge!",
       "file": "missing/H/158721-hot-dodge.json"
@@ -192396,6 +192601,11 @@
       "igdb_id": 228685,
       "game_name": "Hot Dog Stand: The Works",
       "file": "missing/H/228685-hot-dog-stand-the-works.json"
+    },
+    {
+      "igdb_id": 54082,
+      "game_name": "Hot Farm Africa",
+      "file": "missing/H/54082-hot-farm-africa.json"
     },
     {
       "igdb_id": 318408,
@@ -192801,6 +193011,16 @@
       "igdb_id": 321398,
       "game_name": "Hotel Mario ReBooked",
       "file": "missing/H/321398-hotel-mario-rebooked.json"
+    },
+    {
+      "igdb_id": 54081,
+      "game_name": "Hotel Mogul",
+      "file": "missing/H/54081-hotel-mogul.json"
+    },
+    {
+      "igdb_id": 54100,
+      "game_name": "Hotel Mogul: Las Vegas",
+      "file": "missing/H/54100-hotel-mogul-las-vegas.json"
     },
     {
       "igdb_id": 274749,
@@ -193393,6 +193613,11 @@
       "file": "missing/H/32897-hover-2030.json"
     },
     {
+      "igdb_id": 54103,
+      "game_name": "Hover Ace",
+      "file": "missing/H/54103-hover-ace.json"
+    },
+    {
       "igdb_id": 5675,
       "game_name": "Hover Force",
       "file": "missing/H/5675-hover-force.json"
@@ -193828,14 +194053,29 @@
       "file": "missing/H/362903-howlongtobeat-the-game.json"
     },
     {
+      "igdb_id": 54104,
+      "game_name": "Howlville",
+      "file": "missing/H/54104-howlville.json"
+    },
+    {
       "igdb_id": 152750,
       "game_name": "Howrse",
       "file": "missing/H/152750-howrse.json"
     },
     {
+      "igdb_id": 54105,
+      "game_name": "Hoyle Backgammon",
+      "file": "missing/H/54105-hoyle-backgammon.json"
+    },
+    {
       "igdb_id": 97126,
       "game_name": "Hoyle Board Games 2003",
       "file": "missing/H/97126-hoyle-board-games-2003.json"
+    },
+    {
+      "igdb_id": 54106,
+      "game_name": "Hoyle Bridge",
+      "file": "missing/H/54106-hoyle-bridge.json"
     },
     {
       "igdb_id": 77395,
@@ -193861,6 +194101,11 @@
       "igdb_id": 210065,
       "game_name": "Hoyle Card Games 2011",
       "file": "missing/H/210065-hoyle-card-games-2011.json"
+    },
+    {
+      "igdb_id": 54107,
+      "game_name": "Hoyle Card Games 2012",
+      "file": "missing/H/54107-hoyle-card-games-2012.json"
     },
     {
       "igdb_id": 131506,
@@ -193916,6 +194161,11 @@
       "igdb_id": 210070,
       "game_name": "Hoyle Friday Night Poker",
       "file": "missing/H/210070-hoyle-friday-night-poker.json"
+    },
+    {
+      "igdb_id": 54108,
+      "game_name": "Hoyle Illusions Mahjongg",
+      "file": "missing/H/54108-hoyle-illusions-mahjongg.json"
     },
     {
       "igdb_id": 210071,
