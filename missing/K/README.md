@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klikwerk | 225282 | [225282-klikwerk.json](./225282-klikwerk.json) |
 | Klinok Doblesti 2 | 71791 | [71791-klinok-doblesti-2.json](./71791-klinok-doblesti-2.json) |
 | Klitorax | 221173 | [221173-klitorax.json](./221173-klitorax.json) |
+| Klondike | 14503 | [14503-klondike.json](./14503-klondike.json) |
 | Klondike | 281555 | [281555-klondike.json](./281555-klondike.json) |
 | Klondike Re-Imagined | 170940 | [170940-klondike-re-imagined.json](./170940-klondike-re-imagined.json) |
 | Klondike Solitaire 2018 | 89235 | [89235-klondike-solitaire-2018.json](./89235-klondike-solitaire-2018.json) |
