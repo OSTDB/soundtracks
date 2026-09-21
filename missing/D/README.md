@@ -1270,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Parkour | 295407 | [295407-deadly-parkour.json](./295407-deadly-parkour.json) |
 | Deadly Premonition: The Director's Cut - Classified Edition | 51538 | [51538-deadly-premonition-the-directors-cut-classified-edition.json](./51538-deadly-premonition-the-directors-cut-classified-edition.json) |
 | Deadly Rehearsal | 326599 | [326599-deadly-rehearsal.json](./326599-deadly-rehearsal.json) |
+| Deadly Rooms of Death | 50147 | [50147-deadly-rooms-of-death.json](./50147-deadly-rooms-of-death.json) |
 | Deadly Secret Beneath the Dark Wood | 269657 | [269657-deadly-secret-beneath-the-dark-wood.json](./269657-deadly-secret-beneath-the-dark-wood.json) |
 | Deadly Sky | 51981 | [51981-deadly-sky.json](./51981-deadly-sky.json) |
 | Deadly Soccer | 242569 | [242569-deadly-soccer.json](./242569-deadly-soccer.json) |
@@ -1488,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathsmiles Mega Black Label | 79852 | [79852-deathsmiles-mega-black-label.json](./79852-deathsmiles-mega-black-label.json) |
 | Deathstate : Abyssal Edition | 124010 | [124010-deathstate-abyssal-edition.json](./124010-deathstate-abyssal-edition.json) |
 | Deathtide | 232007 | [232007-deathtide.json](./232007-deathtide.json) |
+| DeathTrack | 50148 | [50148-deathtrack.json](./50148-deathtrack.json) |
 | Deathtrap Dungeon: The Interactive Video Adventure | 129936 | [129936-deathtrap-dungeon-the-interactive-video-adventure.json](./129936-deathtrap-dungeon-the-interactive-video-adventure.json) |
 | Deathwatch | 221258 | [221258-deathwatch.json](./221258-deathwatch.json) |
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
@@ -2741,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig & Spike Volleyball | 94194 | [94194-dig-and-spike-volleyball.json](./94194-dig-and-spike-volleyball.json) |
 | Dig a Road | 310048 | [310048-dig-a-road.json](./310048-dig-a-road.json) |
 | Dig Baby Dig Company | 376450 | [376450-dig-baby-dig-company.json](./376450-dig-baby-dig-company.json) |
+| Dig Dogs: Streetbusters | 50160 | [50160-dig-dogs-streetbusters.json](./50160-dig-dogs-streetbusters.json) |
 | Dig Dug | 2636 | [2636-dig-dug.json](./2636-dig-dug.json) |
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
 | Dig Dungeon: Roguelike | 233498 | [233498-dig-dungeon-roguelike.json](./233498-dig-dungeon-roguelike.json) |
