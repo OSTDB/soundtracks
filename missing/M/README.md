@@ -3659,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Monkey | 40389 | [40389-mighty-monkey.json](./40389-mighty-monkey.json) |
 | Mighty Monster Mayhem | 29622 | [29622-mighty-monster-mayhem.json](./29622-mighty-monster-mayhem.json) |
 | Mighty Morphin Power Rangers | 3324 | [3324-mighty-morphin-power-rangers.json](./3324-mighty-morphin-power-rangers.json) |
+| Mighty Morphin Power Rangers: Rita's Rewind | 305016 | [305016-mighty-morphin-power-rangers-ritas-rewind.json](./305016-mighty-morphin-power-rangers-ritas-rewind.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Mulan | 66940 | [66940-mighty-mulan.json](./66940-mighty-mulan.json) |
 | Mighty No. 9: Ganbare! Beck | 78361 | [78361-mighty-no-9-ganbare-beck.json](./78361-mighty-no-9-ganbare-beck.json) |
@@ -3778,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilMo | 93509 | [93509-milmo.json](./93509-milmo.json) |
 | Milo | 187525 | [187525-milo.json](./187525-milo.json) |
 | Milo | 57606 | [57606-milo.json](./57606-milo.json) |
+| Milo and the Magpies | 139600 | [139600-milo-and-the-magpies.json](./139600-milo-and-the-magpies.json) |
 | Milo the Fuel Run | 92866 | [92866-milo-the-fuel-run.json](./92866-milo-the-fuel-run.json) |
 | Milo's Astro Lanes | 3411 | [3411-milos-astro-lanes.json](./3411-milos-astro-lanes.json) |
 | Milo's Quest | 137608 | [137608-milos-quest.json](./137608-milos-quest.json) |
