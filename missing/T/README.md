@@ -2961,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dwarf Run | 34654 | [34654-the-dwarf-run.json](./34654-the-dwarf-run.json) |
 | The Dynasty Of Cats | 258009 | [258009-the-dynasty-of-cats.json](./258009-the-dynasty-of-cats.json) |
 | The E Ball | 108416 | [108416-the-e-ball.json](./108416-the-e-ball.json) |
+| The EA Games Collection | 30219 | [30219-the-ea-games-collection.json](./30219-the-ea-games-collection.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
 | The Earth Defend | 46674 | [46674-the-earth-defend.json](./46674-the-earth-defend.json) |
 | The Earth Is Flat | 298144 | [298144-the-earth-is-flat.json](./298144-the-earth-is-flat.json) |
@@ -3809,6 +3810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jhonson Parable | 229670 | [229670-the-jhonson-parable.json](./229670-the-jhonson-parable.json) |
 | The Jianghu | 216790 | [216790-the-jianghu.json](./216790-the-jianghu.json) |
 | The Jig Is Up! | 215152 | [215152-the-jig-is-up.json](./215152-the-jig-is-up.json) |
+| The Jigsaw Puzzle Room | 30168 | [30168-the-jigsaw-puzzle-room.json](./30168-the-jigsaw-puzzle-room.json) |
 | The Jingol | 306972 | [306972-the-jingol.json](./306972-the-jingol.json) |
 | The Johnny Papa | 265124 | [265124-the-johnny-papa.json](./265124-the-johnny-papa.json) |
 | The Joker's Wild | 46562 | [46562-the-jokers-wild.json](./46562-the-jokers-wild.json) |
@@ -5444,6 +5446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Signifier: Deluxe Edition | 154550 | [154550-the-signifier-deluxe-edition.json](./154550-the-signifier-deluxe-edition.json) |
 | The Silence | 185625 | [185625-the-silence.json](./185625-the-silence.json) |
 | The Silence After | 361769 | [361769-the-silence-after.json](./361769-the-silence-after.json) |
+| The Silence of Darkness | 30186 | [30186-the-silence-of-darkness.json](./30186-the-silence-of-darkness.json) |
 | The Silent Age | 11444 | [11444-the-silent-age.json](./11444-the-silent-age.json) |
 | The Silent Cartographer: Evolved | 375319 | [375319-the-silent-cartographer-evolved.json](./375319-the-silent-cartographer-evolved.json) |
 | The Silent Hill Collection | 43551 | [43551-the-silent-hill-collection.json](./43551-the-silent-hill-collection.json) |
@@ -6114,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Turdler | 108301 | [108301-the-turdler.json](./108301-the-turdler.json) |
 | The Turgenev Study | 222885 | [222885-the-turgenev-study.json](./222885-the-turgenev-study.json) |
 | The Turing Test: Collector's Edition | 53784 | [53784-the-turing-test-collectors-edition.json](./53784-the-turing-test-collectors-edition.json) |
+| The Turkey of Christmas Past | 30203 | [30203-the-turkey-of-christmas-past.json](./30203-the-turkey-of-christmas-past.json) |
 | The Turnabout that Shouldn't Exist | 318786 | [318786-the-turnabout-that-shouldnt-exist.json](./318786-the-turnabout-that-shouldnt-exist.json) |
 | The Turned About Turnabout | 308542 | [308542-the-turned-about-turnabout.json](./308542-the-turned-about-turnabout.json) |
 | The Turrican Collection | 394895 | [394895-the-turrican-collection.json](./394895-the-turrican-collection.json) |
@@ -6822,6 +6826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Sons | 192968 | [192968-three-sons.json](./192968-three-sons.json) |
 | Three Treason Theories | 110787 | [110787-three-treason-theories.json](./110787-three-treason-theories.json) |
 | Three Verses | 298289 | [298289-three-verses.json](./298289-three-verses.json) |
+| Three Weeks in Paradise | 30218 | [30218-three-weeks-in-paradise.json](./30218-three-weeks-in-paradise.json) |
 | Three's A Crowd | 256841 | [256841-threes-a-crowd.json](./256841-threes-a-crowd.json) |
 | Threefold Recital | 327486 | [327486-threefold-recital.json](./327486-threefold-recital.json) |
 | ThreeStep | 120962 | [120962-threestep.json](./120962-threestep.json) |
@@ -7038,6 +7043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tied By Numbers | 386153 | [386153-tied-by-numbers.json](./386153-tied-by-numbers.json) |
 | Tied to the Beat | 391039 | [391039-tied-to-the-beat.json](./391039-tied-to-the-beat.json) |
 | Tien Len: Killer 13 | 175422 | [175422-tien-len-killer-13.json](./175422-tien-len-killer-13.json) |
+| Tier 1 | 30204 | [30204-tier-1.json](./30204-tier-1.json) |
 | Tierra: Adventure Mystery | 174306 | [174306-tierra-adventure-mystery.json](./174306-tierra-adventure-mystery.json) |
 | Tiffany Alvord Dream World | 233079 | [233079-tiffany-alvord-dream-world.json](./233079-tiffany-alvord-dream-world.json) |
 | Tiger & Bunny: Hero's Day | 63842 | [63842-tiger-and-bunny-heros-day.json](./63842-tiger-and-bunny-heros-day.json) |
@@ -10897,6 +10903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twist of Destiny | 28926 | [28926-twist-of-destiny.json](./28926-twist-of-destiny.json) |
 | Twist: 01 Timun Mas | 214626 | [214626-twist-01-timun-mas.json](./214626-twist-01-timun-mas.json) |
 | Twist: Majapahit | 214625 | [214625-twist-majapahit.json](./214625-twist-majapahit.json) |
+| Twisted | 30260 | [30260-twisted.json](./30260-twisted.json) |
 | Twisted Citadel | 182526 | [182526-twisted-citadel.json](./182526-twisted-citadel.json) |
 | Twisted Draw | 199649 | [199649-twisted-draw.json](./199649-twisted-draw.json) |
 | Twisted Lands Trilogy | 53864 | [53864-twisted-lands-trilogy.json](./53864-twisted-lands-trilogy.json) |
