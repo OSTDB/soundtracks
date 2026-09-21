@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 13 | 243258 | [243258-madden-nfl-13.json](./243258-madden-nfl-13.json) |
 | Madden NFL 13 | 243259 | [243259-madden-nfl-13.json](./243259-madden-nfl-13.json) |
 | Madden NFL 13 Social | 243260 | [243260-madden-nfl-13-social.json](./243260-madden-nfl-13-social.json) |
+| Madden NFL 18 | 28706 | [28706-madden-nfl-18.json](./28706-madden-nfl-18.json) |
 | Madden NFL 19: Hall of Fame Edition | 103213 | [103213-madden-nfl-19-hall-of-fame-edition.json](./103213-madden-nfl-19-hall-of-fame-edition.json) |
 | Madden NFL 20: Superstar Edition | 118152 | [118152-madden-nfl-20-superstar-edition.json](./118152-madden-nfl-20-superstar-edition.json) |
 | Madden NFL 20: Ultimate Superstar Edition | 119063 | [119063-madden-nfl-20-ultimate-superstar-edition.json](./119063-madden-nfl-20-ultimate-superstar-edition.json) |
@@ -1670,7 +1671,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Brawl | 256354 | [256354-mass-brawl.json](./256354-mass-brawl.json) |
 | Mass Effect 2: Collector's Edition | 43957 | [43957-mass-effect-2-collectors-edition.json](./43957-mass-effect-2-collectors-edition.json) |
 | Mass Effect 2: Digital Deluxe Edition | 202309 | [202309-mass-effect-2-digital-deluxe-edition.json](./202309-mass-effect-2-digital-deluxe-edition.json) |
+| Mass Effect 2: Firewalker Pack | 13790 | [13790-mass-effect-2-firewalker-pack.json](./13790-mass-effect-2-firewalker-pack.json) |
 | Mass Effect 2: Lair of the Shadow Broker | 782 | [782-mass-effect-2-lair-of-the-shadow-broker.json](./782-mass-effect-2-lair-of-the-shadow-broker.json) |
+| Mass Effect 3 | 245478 | [245478-mass-effect-3.json](./245478-mass-effect-3.json) |
 | Mass Effect 3: Extended Cut | 78460 | [78460-mass-effect-3-extended-cut.json](./78460-mass-effect-3-extended-cut.json) |
 | Mass Effect: Andromeda - Deluxe Recruit Edition | 91212 | [91212-mass-effect-andromeda-deluxe-recruit-edition.json](./91212-mass-effect-andromeda-deluxe-recruit-edition.json) |
 | Mass Effect: Andromeda - Super Deluxe Edition | 27767 | [27767-mass-effect-andromeda-super-deluxe-edition.json](./27767-mass-effect-andromeda-super-deluxe-edition.json) |
@@ -2329,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Idle: Quest | 249185 | [249185-medieval-idle-quest.json](./249185-medieval-idle-quest.json) |
 | Medieval II: Total War | 440 | [440-medieval-ii-total-war.json](./440-medieval-ii-total-war.json) |
 | Medieval II: Total War - Gold Edition | 28983 | [28983-medieval-ii-total-war-gold-edition.json](./28983-medieval-ii-total-war-gold-edition.json) |
+| Medieval II: Total War - Kingdoms | 447 | [447-medieval-ii-total-war-kingdoms.json](./447-medieval-ii-total-war-kingdoms.json) |
 | Medieval Kingdom Wars: Prologue | 266471 | [266471-medieval-kingdom-wars-prologue.json](./266471-medieval-kingdom-wars-prologue.json) |
 | Medieval Kingdom Wars: Royal Blood | 213487 | [213487-medieval-kingdom-wars-royal-blood.json](./213487-medieval-kingdom-wars-royal-blood.json) |
 | Medieval Lands | 412430 | [412430-medieval-lands.json](./412430-medieval-lands.json) |
@@ -3612,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic: Heroes Online | 20177 | [20177-might-and-magic-heroes-online.json](./20177-might-and-magic-heroes-online.json) |
 | Might & Mayhem | 38970 | [38970-might-and-mayhem.json](./38970-might-and-mayhem.json) |
 | Might and Magic III: Isles of Terra | 7735 | [7735-might-and-magic-iii-isles-of-terra.json](./7735-might-and-magic-iii-isles-of-terra.json) |
+| Might and Magic VI: The Mandate of Heaven | 790 | [790-might-and-magic-vi-the-mandate-of-heaven.json](./790-might-and-magic-vi-the-mandate-of-heaven.json) |
 | Might and Magic: Book One - The Secret of the Inner Sanctum | 7733 | [7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json](./7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json) |
 | Might and Magic: World of Xeen | 7738 | [7738-might-and-magic-world-of-xeen.json](./7738-might-and-magic-world-of-xeen.json) |
 | Might is Right | 127497 | [127497-might-is-right.json](./127497-might-is-right.json) |
