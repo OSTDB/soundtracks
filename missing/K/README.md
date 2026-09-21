@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karian Cross | 40212 | [40212-karian-cross.json](./40212-karian-cross.json) |
 | Karjala | 303606 | [303606-karjala.json](./303606-karjala.json) |
 | Karl Marx and the Ring of Communism | 217367 | [217367-karl-marx-and-the-ring-of-communism.json](./217367-karl-marx-and-the-ring-of-communism.json) |
+| Karl's Tiny Adventure | 58505 | [58505-karls-tiny-adventure.json](./58505-karls-tiny-adventure.json) |
 | Karless | 400867 | [400867-karless.json](./400867-karless.json) |
 | Karlson | 129033 | [129033-karlson.json](./129033-karlson.json) |
 | Karlson64 | 175900 | [175900-karlson64.json](./175900-karlson64.json) |
@@ -1745,6 +1746,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koukiatsu Boy | 228584 | [228584-koukiatsu-boy.json](./228584-koukiatsu-boy.json) |
 | Koumajou Densetsu: Scarlet Symphony | 65765 | [65765-koumajou-densetsu-scarlet-symphony.json](./65765-koumajou-densetsu-scarlet-symphony.json) |
 | Kounai Shasei Vol.1: Yonimo H na Monogatari | 248107 | [248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json](./248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json) |
+| Koushien V | 58512 | [58512-koushien-v.json](./58512-koushien-v.json) |
+| Koushien: Konpeki no Sora | 58509 | [58509-koushien-konpeki-no-sora.json](./58509-koushien-konpeki-no-sora.json) |
 | Koutarichou Jin'youtan: Mayoigo no Shou | 219166 | [219166-koutarichou-jinyoutan-mayoigo-no-shou.json](./219166-koutarichou-jinyoutan-mayoigo-no-shou.json) |
 | Koutetsu Yousai Strahl | 40221 | [40221-koutetsu-yousai-strahl.json](./40221-koutetsu-yousai-strahl.json) |
 | Kov | 272373 | [272373-kov.json](./272373-kov.json) |
