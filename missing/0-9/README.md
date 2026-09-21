@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 70 Seconds! Adventure | 121777 | [121777-70-seconds-adventure.json](./121777-70-seconds-adventure.json) |
 | 70's Robot Anime Geppy-X | 79588 | [79588-70s-robot-anime-geppy-x.json](./79588-70s-robot-anime-geppy-x.json) |
 | 70s-style Robot Anime Geppy-X | 392917 | [392917-70s-style-robot-anime-geppy-x.json](./392917-70s-style-robot-anime-geppy-x.json) |
+| 720 Degrees | 8580 | [8580-720-degrees.json](./8580-720-degrees.json) |
 | 723 | 180145 | [180145-723.json](./180145-723.json) |
 | 747 Flight Simulator | 15582 | [15582-747-flight-simulator.json](./15582-747-flight-simulator.json) |
 | 75 Demons | 353373 | [353373-75-demons.json](./353373-75-demons.json) |
