@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Rite from the Stars: Remaster Edition | 298690 | [298690-a-rite-from-the-stars-remaster-edition.json](./298690-a-rite-from-the-stars-remaster-edition.json) |
 | A Road That May Lead Nowhere | 77658 | [77658-a-road-that-may-lead-nowhere.json](./77658-a-road-that-may-lead-nowhere.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
+| A Room Beyond | 33421 | [33421-a-room-beyond.json](./33421-a-room-beyond.json) |
 | A Room Without You In It | 165503 | [165503-a-room-without-you-in-it.json](./165503-a-room-without-you-in-it.json) |
 | A Room You Can't Exit Unless You Find the Numbers | 311643 | [311643-a-room-you-cant-exit-unless-you-find-the-numbers.json](./311643-a-room-you-cant-exit-unless-you-find-the-numbers.json) |
 | A Rose in the Twilight | 52042 | [52042-a-rose-in-the-twilight.json](./52042-a-rose-in-the-twilight.json) |
@@ -664,11 +665,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actuator: Overt Abnormality | 379474 | [379474-actuator-overt-abnormality.json](./379474-actuator-overt-abnormality.json) |
 | Ad Agency Tycoon | 137679 | [137679-ad-agency-tycoon.json](./137679-ad-agency-tycoon.json) |
 | Ad Astra | 45371 | [45371-ad-astra.json](./45371-ad-astra.json) |
+| Ad Exitum | 33466 | [33466-ad-exitum.json](./33466-ad-exitum.json) |
 | Ad Mortem | 262441 | [262441-ad-mortem.json](./262441-ad-mortem.json) |
 | Ad Nauseam | 304201 | [304201-ad-nauseam.json](./304201-ad-nauseam.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
+| Adam and Eve: The Game - Chapter 1 | 33513 | [33513-adam-and-eve-the-game-chapter-1.json](./33513-adam-and-eve-the-game-chapter-1.json) |
 | Adanath | 219701 | [219701-adanath.json](./219701-adanath.json) |
 | Adapta Solva | 283893 | [283893-adapta-solva.json](./283893-adapta-solva.json) |
 | Adarin Farm | 187408 | [187408-adarin-farm.json](./187408-adarin-farm.json) |
@@ -3925,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed Air Forces | 193945 | [193945-armed-air-forces.json](./193945-armed-air-forces.json) |
 | Armed Air Forces | 242683 | [242683-armed-air-forces.json](./242683-armed-air-forces.json) |
 | Armed and Armoured | 190747 | [190747-armed-and-armoured.json](./190747-armed-and-armoured.json) |
+| Armed and Gelatinous: Couch Edition | 33447 | [33447-armed-and-gelatinous-couch-edition.json](./33447-armed-and-gelatinous-couch-edition.json) |
 | Armed and Gorgeous HD | 22335 | [22335-armed-and-gorgeous-hd.json](./22335-armed-and-gorgeous-hd.json) |
 | Armed Animals RPG | 365060 | [365060-armed-animals-rpg.json](./365060-armed-animals-rpg.json) |
 | Armed for Battle | 118849 | [118849-armed-for-battle.json](./118849-armed-for-battle.json) |
@@ -4828,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Pursuit | 234069 | [234069-atomic-pursuit.json](./234069-atomic-pursuit.json) |
 | Atomic Robo-Kid | 11921 | [11921-atomic-robo-kid.json](./11921-atomic-robo-kid.json) |
 | Atomic Rock Paper Scissors | 180830 | [180830-atomic-rock-paper-scissors.json](./180830-atomic-rock-paper-scissors.json) |
+| Atomic Space Command | 33475 | [33475-atomic-space-command.json](./33475-atomic-space-command.json) |
 | Atomica | 379989 | [379989-atomica.json](./379989-atomica.json) |
 | Atomicrops: Deluxe Edition | 154542 | [154542-atomicrops-deluxe-edition.json](./154542-atomicrops-deluxe-edition.json) |
 | Atomind | 93547 | [93547-atomind.json](./93547-atomind.json) |
