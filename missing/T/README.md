@@ -6418,6 +6418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizards of Trinity Bellwoods | 58265 | [58265-the-wizards-of-trinity-bellwoods.json](./58265-the-wizards-of-trinity-bellwoods.json) |
 | The Wizards Pet | 108955 | [108955-the-wizards-pet.json](./108955-the-wizards-pet.json) |
 | The Wolf Among Us 2 | 51523 | [51523-the-wolf-among-us-2.json](./51523-the-wolf-among-us-2.json) |
+| The Wolf's Bite | 28215 | [28215-the-wolfs-bite.json](./28215-the-wolfs-bite.json) |
 | The Woman Above | 398476 | [398476-the-woman-above.json](./398476-the-woman-above.json) |
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
 | The Wonderful 101 | 264890 | [264890-the-wonderful-101.json](./264890-the-wonderful-101.json) |
@@ -6497,6 +6498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theater of Death | 206191 | [206191-theater-of-death.json](./206191-theater-of-death.json) |
 | Theater of the Mind | 366286 | [366286-theater-of-the-mind.json](./366286-theater-of-the-mind.json) |
 | Theatre of Death | 15483 | [15483-theatre-of-death.json](./15483-theatre-of-death.json) |
+| Theatre of Doom | 28183 | [28183-theatre-of-doom.json](./28183-theatre-of-doom.json) |
 | Theatre of The Absurd | 17367 | [17367-theatre-of-the-absurd.json](./17367-theatre-of-the-absurd.json) |
 | Theatre of the Absurd: A Scarlet Frost Mystery | 53792 | [53792-theatre-of-the-absurd-a-scarlet-frost-mystery.json](./53792-theatre-of-the-absurd-a-scarlet-frost-mystery.json) |
 | Theatre of War | 166632 | [166632-theatre-of-war.json](./166632-theatre-of-war.json) |
@@ -6646,6 +6648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They That Feast | 113036 | [113036-they-that-feast.json](./113036-they-that-feast.json) |
 | They Walk Beyond | 386303 | [386303-they-walk-beyond.json](./386303-they-walk-beyond.json) |
 | They Watch From the Walls | 181930 | [181930-they-watch-from-the-walls.json](./181930-they-watch-from-the-walls.json) |
+| They Whisper Softly to Me | 28211 | [28211-they-whisper-softly-to-me.json](./28211-they-whisper-softly-to-me.json) |
 | They Will Come | 389421 | [389421-they-will-come.json](./389421-they-will-come.json) |
 | They'll Find You | 121636 | [121636-theyll-find-you.json](./121636-theyll-find-you.json) |
 | They're Alive! | 53795 | [53795-theyre-alive.json](./53795-theyre-alive.json) |
@@ -8293,6 +8296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Island Thunder | 307301 | [307301-tom-clancys-ghost-recon-island-thunder.json](./307301-tom-clancys-ghost-recon-island-thunder.json) |
 | Tom Clancy's Ghost Recon: Jungle Storm | 175928 | [175928-tom-clancys-ghost-recon-jungle-storm.json](./175928-tom-clancys-ghost-recon-jungle-storm.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Gold Edition | 82078 | [82078-tom-clancys-ghost-recon-wildlands-gold-edition.json](./82078-tom-clancys-ghost-recon-wildlands-gold-edition.json) |
+| Tom Clancy's Ghost Recon: Wildlands - Narco Road | 28173 | [28173-tom-clancys-ghost-recon-wildlands-narco-road.json](./28173-tom-clancys-ghost-recon-wildlands-narco-road.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Ultimate Edition | 119071 | [119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json](./119071-tom-clancys-ghost-recon-wildlands-ultimate-edition.json) |
 | Tom Clancy's H.A.W.X | 264874 | [264874-tom-clancys-h-a-w-x.json](./264874-tom-clancys-h-a-w-x.json) |
 | Tom Clancy's H.A.W.X 2 | 341328 | [341328-tom-clancys-h-a-w-x-2.json](./341328-tom-clancys-h-a-w-x-2.json) |
@@ -10210,6 +10214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Monkey Zoo | 396228 | [396228-tricky-monkey-zoo.json](./396228-tricky-monkey-zoo.json) |
 | Tricky Questions | 233074 | [233074-tricky-questions.json](./233074-tricky-questions.json) |
 | Tricky Quicky | 78066 | [78066-tricky-quicky.json](./78066-tricky-quicky.json) |
+| Tricky Shapes | 28179 | [28179-tricky-shapes.json](./28179-tricky-shapes.json) |
 | Tricky Test 2: Genius Brain? | 88863 | [88863-tricky-test-2-genius-brain.json](./88863-tricky-test-2-genius-brain.json) |
 | Tricky Test 2018 | 105794 | [105794-tricky-test-2018.json](./105794-tricky-test-2018.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
