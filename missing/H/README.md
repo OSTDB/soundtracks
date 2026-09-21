@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halmaverse | 340409 | [340409-halmaverse.json](./340409-halmaverse.json) |
 | Halo 2 Digsite: Alpha Moon | 332818 | [332818-halo-2-digsite-alpha-moon.json](./332818-halo-2-digsite-alpha-moon.json) |
 | Halo 2: Limited Collector's Edition | 45149 | [45149-halo-2-limited-collectors-edition.json](./45149-halo-2-limited-collectors-edition.json) |
+| Halo 2: Multiplayer Map Pack | 3122 | [3122-halo-2-multiplayer-map-pack.json](./3122-halo-2-multiplayer-map-pack.json) |
 | Halo 2: Project Cartographer | 241485 | [241485-halo-2-project-cartographer.json](./241485-halo-2-project-cartographer.json) |
 | Halo 3 & Fable II Double Pack | 141865 | [141865-halo-3-and-fable-ii-double-pack.json](./141865-halo-3-and-fable-ii-double-pack.json) |
 | Halo 3: Legendary Edition | 43955 | [43955-halo-3-legendary-edition.json](./43955-halo-3-legendary-edition.json) |
@@ -766,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Hero of Leaf Valley | 42887 | [42887-harvest-moon-hero-of-leaf-valley.json](./42887-harvest-moon-hero-of-leaf-valley.json) |
 | Harvest Moon: Intuitive Ranch Master | 219076 | [219076-harvest-moon-intuitive-ranch-master.json](./219076-harvest-moon-intuitive-ranch-master.json) |
 | Harvest Moon: Light of Hope | 28843 | [28843-harvest-moon-light-of-hope.json](./28843-harvest-moon-light-of-hope.json) |
+| Harvest Moon: Magical Melody | 3386 | [3386-harvest-moon-magical-melody.json](./3386-harvest-moon-magical-melody.json) |
 | Harvest Moon: One World - Collector's Edition | 200691 | [200691-harvest-moon-one-world-collectors-edition.json](./200691-harvest-moon-one-world-collectors-edition.json) |
 | Harvest Moon: One World Bundle | 173798 | [173798-harvest-moon-one-world-bundle.json](./173798-harvest-moon-one-world-bundle.json) |
 | Harvest Moon: Skytree Village | 19393 | [19393-harvest-moon-skytree-village.json](./19393-harvest-moon-skytree-village.json) |
@@ -839,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #2 | 294734 | [294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json](./294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json) |
 | Hatsune Miku: Project Diva Future Tone | 25821 | [25821-hatsune-miku-project-diva-future-tone.json](./25821-hatsune-miku-project-diva-future-tone.json) |
 | Hatsune Miku: Project Diva Future Tone DX | 117659 | [117659-hatsune-miku-project-diva-future-tone-dx.json](./117659-hatsune-miku-project-diva-future-tone-dx.json) |
+| Hatsune Miku: Project Diva Mega Mix | 120278 | [120278-hatsune-miku-project-diva-mega-mix.json](./120278-hatsune-miku-project-diva-mega-mix.json) |
 | Hatsune Miku: Project Diva Mega Mix - 10th Anniversary Collection | 136283 | [136283-hatsune-miku-project-diva-mega-mix-10th-anniversary-collection.json](./136283-hatsune-miku-project-diva-mega-mix-10th-anniversary-collection.json) |
 | Hatsune Miku: Roller Skating Music | 199044 | [199044-hatsune-miku-roller-skating-music.json](./199044-hatsune-miku-roller-skating-music.json) |
 | Hatsune Miku: Tap Wonder | 138178 | [138178-hatsune-miku-tap-wonder.json](./138178-hatsune-miku-tap-wonder.json) |
@@ -2649,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himitsu no AiPri | 284918 | [284918-himitsu-no-aipri.json](./284918-himitsu-no-aipri.json) |
 | Himitsu Sentai Metamor V | 107629 | [107629-himitsu-sentai-metamor-v.json](./107629-himitsu-sentai-metamor-v.json) |
 | Himmapan Marshmello Saga | 367516 | [367516-himmapan-marshmello-saga.json](./367516-himmapan-marshmello-saga.json) |
+| Himno | 116305 | [116305-himno.json](./116305-himno.json) |
 | Himno 2 | 118169 | [118169-himno-2.json](./118169-himno-2.json) |
 | Himno: The Silent Melody | 120166 | [120166-himno-the-silent-melody.json](./120166-himno-the-silent-melody.json) |
 | Himouto! Umaru-chan: Umaru Training Plan | 12379 | [12379-himouto-umaru-chan-umaru-training-plan.json](./12379-himouto-umaru-chan-umaru-training-plan.json) |
@@ -3308,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopshot | 331129 | [331129-hopshot.json](./331129-hopshot.json) |
 | Hopward | 372475 | [372475-hopward.json](./372475-hopward.json) |
 | Hopy-ONE | 93037 | [93037-hopy-one.json](./93037-hopy-one.json) |
+| Horace | 120323 | [120323-horace.json](./120323-horace.json) |
 | Horatama | 157159 | [157159-horatama.json](./157159-horatama.json) |
 | Horcrux College | 340215 | [340215-horcrux-college.json](./340215-horcrux-college.json) |
 | HorD: High or Die | 83590 | [83590-hord-high-or-die.json](./83590-hord-high-or-die.json) |
