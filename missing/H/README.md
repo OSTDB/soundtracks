@@ -1885,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's War | 224214 | [224214-heros-war.json](./224214-heros-war.json) |
 | HeroBattle | 369647 | [369647-herobattle.json](./369647-herobattle.json) |
 | Herobotix | 55204 | [55204-herobotix.json](./55204-herobotix.json) |
+| HeroBound: Spirit Champion | 60196 | [60196-herobound-spirit-champion.json](./60196-herobound-spirit-champion.json) |
 | HeroClix TabApp | 64098 | [64098-heroclix-tabapp.json](./64098-heroclix-tabapp.json) |
 | HeroClix TabApp ASM | 64099 | [64099-heroclix-tabapp-asm.json](./64099-heroclix-tabapp-asm.json) |
 | Heroes & Dice | 348833 | [348833-heroes-and-dice.json](./348833-heroes-and-dice.json) |
