@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zup! 5 | 38784 | [38784-zup-5.json](./38784-zup-5.json) |
 | Zup! S | 111200 | [111200-zup-s.json](./111200-zup-s.json) |
 | Zup! Zero 2 | 105879 | [105879-zup-zero-2.json](./105879-zup-zero-2.json) |
+| Zupapa! | 47577 | [47577-zupapa.json](./47577-zupapa.json) |
 | Zupay: Shadows of Independence | 374072 | [374072-zupay-shadows-of-independence.json](./374072-zupay-shadows-of-independence.json) |
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
 | Zuria | 204433 | [204433-zuria.json](./204433-zuria.json) |
