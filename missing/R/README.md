@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramen no Megami | 283716 | [283716-ramen-no-megami.json](./283716-ramen-no-megami.json) |
 | Ramenbashi | 92513 | [92513-ramenbashi.json](./92513-ramenbashi.json) |
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
+| Ramify | 31153 | [31153-ramify.json](./31153-ramify.json) |
 | Ramming Turtleship: 1592 - The Imjin War | 390000 | [390000-ramming-turtleship-1592-the-imjin-war.json](./390000-ramming-turtleship-1592-the-imjin-war.json) |
 | Ramone: Teh Gaem | 59669 | [59669-ramone-teh-gaem.json](./59669-ramone-teh-gaem.json) |
 | Ramos Ruy no World Wide Soccer | 259652 | [259652-ramos-ruy-no-world-wide-soccer.json](./259652-ramos-ruy-no-world-wide-soccer.json) |
@@ -1605,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxing Kite | 148571 | [148571-relaxing-kite.json](./148571-relaxing-kite.json) |
 | Relaxing Rain Sounds: Amayadori | 151669 | [151669-relaxing-rain-sounds-amayadori.json](./151669-relaxing-rain-sounds-amayadori.json) |
 | Relaxing Time: Paradise Resort - Collector's Edition | 304591 | [304591-relaxing-time-paradise-resort-collectors-edition.json](./304591-relaxing-time-paradise-resort-collectors-edition.json) |
+| Relaxing VR Games: Mahjong | 31166 | [31166-relaxing-vr-games-mahjong.json](./31166-relaxing-vr-games-mahjong.json) |
 | RelayCars | 113521 | [113521-relaycars.json](./113521-relaycars.json) |
 | Relayer: Limited Edition | 172776 | [172776-relayer-limited-edition.json](./172776-relayer-limited-edition.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
@@ -3580,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room of 1000 Snakes | 62436 | [62436-room-of-1000-snakes.json](./62436-room-of-1000-snakes.json) |
 | Room of Halloween | 229153 | [229153-room-of-halloween.json](./229153-room-of-halloween.json) |
 | Room of Roilands | 177501 | [177501-room-of-roilands.json](./177501-room-of-roilands.json) |
+| Room Ten | 31181 | [31181-room-ten.json](./31181-room-ten.json) |
 | Room231 | 297206 | [297206-room231.json](./297206-room231.json) |
 | Roomates | 82053 | [82053-roomates.json](./82053-roomates.json) |
 | Roomba May Cry | 185116 | [185116-roomba-may-cry.json](./185116-roomba-may-cry.json) |
