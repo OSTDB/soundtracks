@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celeste Classic | 215762 | [215762-celeste-classic.json](./215762-celeste-classic.json) |
 | Celeste Classic 2: Lani's Trek | 142841 | [142841-celeste-classic-2-lanis-trek.json](./142841-celeste-classic-2-lanis-trek.json) |
 | Celeste Fusion Collab | 358282 | [358282-celeste-fusion-collab.json](./358282-celeste-fusion-collab.json) |
+| Celeste: Farewell | 122556 | [122556-celeste-farewell.json](./122556-celeste-farewell.json) |
 | Celestia | 183432 | [183432-celestia.json](./183432-celestia.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
 | Celestial Correspondence | 135027 | [135027-celestial-correspondence.json](./135027-celestial-correspondence.json) |
@@ -1766,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chameleon | 37077 | [37077-chameleon.json](./37077-chameleon.json) |
 | Chameleon Gems | 92483 | [92483-chameleon-gems.json](./92483-chameleon-gems.json) |
 | Chameleon Run+ | 174202 | [174202-chameleon-run.json](./174202-chameleon-run.json) |
+| Chameleon Twist | 3427 | [3427-chameleon-twist.json](./3427-chameleon-twist.json) |
 | Chameleon: DYH | 203401 | [203401-chameleon-dyh.json](./203401-chameleon-dyh.json) |
 | Chameleon: To Dye For! | 72713 | [72713-chameleon-to-dye-for.json](./72713-chameleon-to-dye-for.json) |
 | Champ Against Chumps | 108839 | [108839-champ-against-chumps.json](./108839-champ-against-chumps.json) |
@@ -2316,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of Birch | 391213 | [391213-children-of-birch.json](./391213-children-of-birch.json) |
 | Children of Morta: Complete Edition | 175878 | [175878-children-of-morta-complete-edition.json](./175878-children-of-morta-complete-edition.json) |
 | Children of Orc | 30920 | [30920-children-of-orc.json](./30920-children-of-orc.json) |
+| Children of Silentown | 121016 | [121016-children-of-silentown.json](./121016-children-of-silentown.json) |
 | Children of the Gate | 57902 | [57902-children-of-the-gate.json](./57902-children-of-the-gate.json) |
 | Children of the Sun | 284925 | [284925-children-of-the-sun.json](./284925-children-of-the-sun.json) |
 | Children of the World | 256901 | [256901-children-of-the-world.json](./256901-children-of-the-world.json) |
@@ -4553,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook Out! | 250045 | [250045-cook-out.json](./250045-cook-out.json) |
 | Cook with Card | 406724 | [406724-cook-with-card.json](./406724-cook-with-card.json) |
 | Cook-A-Geddon | 265433 | [265433-cook-a-geddon.json](./265433-cook-a-geddon.json) |
+| Cook, Serve, Delicious! 3?! | 121500 | [121500-cook-serve-delicious-3.json](./121500-cook-serve-delicious-3.json) |
 | Cook'n'Slash | 244261 | [244261-cooknslash.json](./244261-cooknslash.json) |
 | Cookard | 298697 | [298697-cookard.json](./298697-cookard.json) |
 | Cooked Out | 282001 | [282001-cooked-out.json](./282001-cooked-out.json) |
@@ -5155,6 +5159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafting Story | 175326 | [175326-crafting-story.json](./175326-crafting-story.json) |
 | Crafting Town | 199660 | [199660-crafting-town.json](./199660-crafting-town.json) |
 | Craftmas | 105981 | [105981-craftmas.json](./105981-craftmas.json) |
+| Craftopia | 124448 | [124448-craftopia.json](./124448-craftopia.json) |
 | CraftOut | 149016 | [149016-craftout.json](./149016-craftout.json) |
 | CraftPunk | 339335 | [339335-craftpunk.json](./339335-craftpunk.json) |
 | Craftsman Story | 384524 | [384524-craftsman-story.json](./384524-craftsman-story.json) |
@@ -5743,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossfire 2 | 76994 | [76994-crossfire-2.json](./76994-crossfire-2.json) |
 | CrossFire: Legends | 102759 | [102759-crossfire-legends.json](./102759-crossfire-legends.json) |
 | Crossfire: The Multiplayer Adventure Game | 171544 | [171544-crossfire-the-multiplayer-adventure-game.json](./171544-crossfire-the-multiplayer-adventure-game.json) |
+| CrossfireX | 119307 | [119307-crossfirex.json](./119307-crossfirex.json) |
 | CrossfireX: Operation Spectre | 221392 | [221392-crossfirex-operation-spectre.json](./221392-crossfirex-operation-spectre.json) |
 | Crosshatch | 125946 | [125946-crosshatch.json](./125946-crosshatch.json) |
 | Crosshollow Foundations | 182508 | [182508-crosshollow-foundations.json](./182508-crosshollow-foundations.json) |
