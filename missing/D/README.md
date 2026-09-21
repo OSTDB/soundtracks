@@ -2477,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry | 302712 | [302712-devil-may-cry.json](./302712-devil-may-cry.json) |
 | Devil May Cry 2 | 135 | [135-devil-may-cry-2.json](./135-devil-may-cry-2.json) |
 | Devil May Cry 3: Dante's Awakening - Special Edition | 218390 | [218390-devil-may-cry-3-dantes-awakening-special-edition.json](./218390-devil-may-cry-3-dantes-awakening-special-edition.json) |
+| Devil May Cry 4: Collector's Edition | 41601 | [41601-devil-may-cry-4-collectors-edition.json](./41601-devil-may-cry-4-collectors-edition.json) |
 | Devil May Cry 5: Playable Character - Vergil | 169336 | [169336-devil-may-cry-5-playable-character-vergil.json](./169336-devil-may-cry-5-playable-character-vergil.json) |
 | Devil May Cry HD Collection | 20734 | [20734-devil-may-cry-hd-collection.json](./20734-devil-may-cry-hd-collection.json) |
 | Devil May Cry HD Collection & 4 Special Edition Bundle | 218517 | [218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json](./218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json) |
@@ -4119,6 +4120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Troopers: Mutant Chronicles | 4544 | [4544-doom-troopers-mutant-chronicles.json](./4544-doom-troopers-mutant-chronicles.json) |
 | Doom Ultimate Enhanced | 198487 | [198487-doom-ultimate-enhanced.json](./198487-doom-ultimate-enhanced.json) |
 | Doom: Bloodfall | 26558 | [26558-doom-bloodfall.json](./26558-doom-bloodfall.json) |
+| DOOM: Collector's Edition | 41614 | [41614-doom-collectors-edition.json](./41614-doom-collectors-edition.json) |
 | Doom: Hell Followed | 25571 | [25571-doom-hell-followed.json](./25571-doom-hell-followed.json) |
 | DooM: Infernal Attack | 198352 | [198352-doom-infernal-attack.json](./198352-doom-infernal-attack.json) |
 | Doom: The Dark Ages - Revelations | 405075 | [405075-doom-the-dark-ages-revelations.json](./405075-doom-the-dark-ages-revelations.json) |
