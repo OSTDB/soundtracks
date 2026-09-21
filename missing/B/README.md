@@ -67,6 +67,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel Defender | 318760 | [318760-babel-defender.json](./318760-babel-defender.json) |
 | Babel Defense | 338174 | [338174-babel-defense.json](./338174-babel-defense.json) |
 | Babel Deluxe | 63897 | [63897-babel-deluxe.json](./63897-babel-deluxe.json) |
+| Babel Rising: Sky's the Limit | 10018 | [10018-babel-rising-skys-the-limit.json](./10018-babel-rising-skys-the-limit.json) |
+| Babel Running | 10019 | [10019-babel-running.json](./10019-babel-running.json) |
 | Babel: The King of the Blocks | 42831 | [42831-babel-the-king-of-the-blocks.json](./42831-babel-the-king-of-the-blocks.json) |
 | Babelomania | 318390 | [318390-babelomania.json](./318390-babelomania.json) |
 | Babes Reloaded | 272024 | [272024-babes-reloaded.json](./272024-babes-reloaded.json) |
@@ -719,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barb Wire | 92451 | [92451-barb-wire.json](./92451-barb-wire.json) |
 | Barbarian | 206238 | [206238-barbarian.json](./206238-barbarian.json) |
 | Barbarian | 376532 | [376532-barbarian.json](./376532-barbarian.json) |
+| Barbarian Brawl | 10021 | [10021-barbarian-brawl.json](./10021-barbarian-brawl.json) |
 | Barbarian Simulator | 157718 | [157718-barbarian-simulator.json](./157718-barbarian-simulator.json) |
 | Barbarian Trash | 110827 | [110827-barbarian-trash.json](./110827-barbarian-trash.json) |
 | Barbarians & Beasts | 277971 | [277971-barbarians-and-beasts.json](./277971-barbarians-and-beasts.json) |
@@ -885,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bark Tank | 338194 | [338194-bark-tank.json](./338194-bark-tank.json) |
 | Barkane: The Folds of Calamity | 323718 | [323718-barkane-the-folds-of-calamity.json](./323718-barkane-the-folds-of-calamity.json) |
 | Barkelona | 251847 | [251847-barkelona.json](./251847-barkelona.json) |
+| Barker Bill's Trick Shooting | 9875 | [9875-barker-bills-trick-shooting.json](./9875-barker-bills-trick-shooting.json) |
 | Barking Irons | 57328 | [57328-barking-irons.json](./57328-barking-irons.json) |
 | Barko | 413751 | [413751-barko.json](./413751-barko.json) |
 | Barman Simulator | 334465 | [334465-barman-simulator.json](./334465-barman-simulator.json) |
@@ -911,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baron | 283906 | [283906-baron.json](./283906-baron.json) |
 | Baron Baldric: A Grave Adventure | 14287 | [14287-baron-baldric-a-grave-adventure.json](./14287-baron-baldric-a-grave-adventure.json) |
 | Baron of Blood | 159153 | [159153-baron-of-blood.json](./159153-baron-of-blood.json) |
+| Baron Wittard: Nemesis of Ragnarok | 10022 | [10022-baron-wittard-nemesis-of-ragnarok.json](./10022-baron-wittard-nemesis-of-ragnarok.json) |
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
 | Baroque | 147807 | [147807-baroque.json](./147807-baroque.json) |
 | Barp Online | 379959 | [379959-barp-online.json](./379959-barp-online.json) |
@@ -1057,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Legends 24 | 320758 | [320758-basketball-legends-24.json](./320758-basketball-legends-24.json) |
 | Basketball Pinball | 148567 | [148567-basketball-pinball.json](./148567-basketball-pinball.json) |
 | Basketball Playgrounds | 212460 | [212460-basketball-playgrounds.json](./212460-basketball-playgrounds.json) |
+| Basketball Pro Management 2013 | 10025 | [10025-basketball-pro-management-2013.json](./10025-basketball-pro-management-2013.json) |
 | Basketball PVP | 87279 | [87279-basketball-pvp.json](./87279-basketball-pvp.json) |
 | Basketball Rivals | 227267 | [227267-basketball-rivals.json](./227267-basketball-rivals.json) |
 | Basketball Showdown: Royale | 244798 | [244798-basketball-showdown-royale.json](./244798-basketball-showdown-royale.json) |
@@ -2661,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Chainsaw Pogo Gorilla | 14526 | [14526-bionic-chainsaw-pogo-gorilla.json](./14526-bionic-chainsaw-pogo-gorilla.json) |
 | Bionic Commando | 9242 | [9242-bionic-commando.json](./9242-bionic-commando.json) |
 | Bionic Dues | 9221 | [9221-bionic-dues.json](./9221-bionic-dues.json) |
+| Bionic Girl | 9896 | [9896-bionic-girl.json](./9896-bionic-girl.json) |
 | Bionic Granny | 13880 | [13880-bionic-granny.json](./13880-bionic-granny.json) |
 | Bionic Hunter VR | 127190 | [127190-bionic-hunter-vr.json](./127190-bionic-hunter-vr.json) |
 | Bionic Shield: Battle for Space Nebula Omega | 189123 | [189123-bionic-shield-battle-for-space-nebula-omega.json](./189123-bionic-shield-battle-for-space-nebula-omega.json) |
