@@ -1880,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Eleven: Pro Evolution Soccer 2007 | 43233 | [43233-winning-eleven-pro-evolution-soccer-2007.json](./43233-winning-eleven-pro-evolution-soccer-2007.json) |
 | Winning Hearts: Wrestling Otome | 244882 | [244882-winning-hearts-wrestling-otome.json](./244882-winning-hearts-wrestling-otome.json) |
 | Winning Lure | 298863 | [298863-winning-lure.json](./298863-winning-lure.json) |
+| Winning Post | 4240 | [4240-winning-post.json](./4240-winning-post.json) |
 | Winning Post 10 | 240877 | [240877-winning-post-10.json](./240877-winning-post-10.json) |
 | Winning Post 2 | 37767 | [37767-winning-post-2.json](./37767-winning-post-2.json) |
 | Winning Post 7 2010 | 194007 | [194007-winning-post-7-2010.json](./194007-winning-post-7-2010.json) |
@@ -2568,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Dai-star: Yume no Stellarium | 258691 | [258691-world-dai-star-yume-no-stellarium.json](./258691-world-dai-star-yume-no-stellarium.json) |
 | World Darts | 12873 | [12873-world-darts.json](./12873-world-darts.json) |
 | World Destruction League: Thunder Tanks | 49873 | [49873-world-destruction-league-thunder-tanks.json](./49873-world-destruction-league-thunder-tanks.json) |
+| World Driver Championship | 3642 | [3642-world-driver-championship.json](./3642-world-driver-championship.json) |
 | World Election | 143515 | [143515-world-election.json](./143515-world-election.json) |
 | World Empire III | 79578 | [79578-world-empire-iii.json](./79578-world-empire-iii.json) |
 | World Empire IV | 73753 | [73753-world-empire-iv.json](./73753-world-empire-iv.json) |
