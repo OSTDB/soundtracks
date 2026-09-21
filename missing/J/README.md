@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack: Snake Attack | 124739 | [124739-jack-snake-attack.json](./124739-jack-snake-attack.json) |
 | Jack's Attic | 210127 | [210127-jacks-attic.json](./210127-jacks-attic.json) |
 | Jack's Game | 50527 | [50527-jacks-game.json](./50527-jacks-game.json) |
+| Jack's Gang | 29159 | [29159-jacks-gang.json](./29159-jacks-gang.json) |
 | Jack's House | 210126 | [210126-jacks-house.json](./210126-jacks-house.json) |
 | Jack's House | 88314 | [88314-jacks-house.json](./88314-jacks-house.json) |
 | Jackal | 212707 | [212707-jackal.json](./212707-jackal.json) |
@@ -110,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Spring | 349863 | [349863-jade-spring.json](./349863-jade-spring.json) |
 | Jade Wolf | 197899 | [197899-jade-wolf.json](./197899-jade-wolf.json) |
 | Jade Wolf 2 | 197900 | [197900-jade-wolf-2.json](./197900-jade-wolf-2.json) |
+| Jade's Journey 2 | 29166 | [29166-jades-journey-2.json](./29166-jades-journey-2.json) |
 | Jaded | 197962 | [197962-jaded.json](./197962-jaded.json) |
 | Jaded | 280912 | [280912-jaded.json](./280912-jaded.json) |
 | Jaded Journey | 180109 | [180109-jaded-journey.json](./180109-jaded-journey.json) |
@@ -487,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest 4 Heritage | 85215 | [85215-jewel-quest-4-heritage.json](./85215-jewel-quest-4-heritage.json) |
 | Jewel Quest Mysteries 3: The Seventh Gate | 85214 | [85214-jewel-quest-mysteries-3-the-seventh-gate.json](./85214-jewel-quest-mysteries-3-the-seventh-gate.json) |
 | Jewel Quest Mysteries IV: The Oracle of Ur | 206729 | [206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json](./206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json) |
+| Jewel Quest Pack | 29206 | [29206-jewel-quest-pack.json](./29206-jewel-quest-pack.json) |
 | Jewel Quest Solitaire II | 53250 | [53250-jewel-quest-solitaire-ii.json](./53250-jewel-quest-solitaire-ii.json) |
 | Jewel Quest Trilogy | 50633 | [50633-jewel-quest-trilogy.json](./50633-jewel-quest-trilogy.json) |
 | Jewel Quest: Expeditions | 21279 | [21279-jewel-quest-expeditions.json](./21279-jewel-quest-expeditions.json) |
@@ -1254,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Another Pong Clone | 361736 | [361736-just-another-pong-clone.json](./361736-just-another-pong-clone.json) |
 | Just Another Runner | 204109 | [204109-just-another-runner.json](./204109-just-another-runner.json) |
 | Just Bat: VR Cricket | 31362 | [31362-just-bat-vr-cricket.json](./31362-just-bat-vr-cricket.json) |
+| Just Beneath the Skin 2D | 29228 | [29228-just-beneath-the-skin-2d.json](./29228-just-beneath-the-skin-2d.json) |
 | Just Black Jack | 124025 | [124025-just-black-jack.json](./124025-just-black-jack.json) |
 | Just Cause | 1042 | [1042-just-cause.json](./1042-just-cause.json) |
 | Just Cause 2: Complete Edition | 186901 | [186901-just-cause-2-complete-edition.json](./186901-just-cause-2-complete-edition.json) |
