@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tithe in Blood | 304683 | [304683-a-tithe-in-blood.json](./304683-a-tithe-in-blood.json) |
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
 | A Tome in the Attic | 363975 | [363975-a-tome-in-the-attic.json](./363975-a-tome-in-the-attic.json) |
+| A Total War Saga: Troy | 122649 | [122649-a-total-war-saga-troy.json](./122649-a-total-war-saga-troy.json) |
 | A Total War Saga: Troy - Limited Edition | 139940 | [139940-a-total-war-saga-troy-limited-edition.json](./139940-a-total-war-saga-troy-limited-edition.json) |
 | A Tower | 338718 | [338718-a-tower.json](./338718-a-tower.json) |
 | A Trans Man's Grindr DMs | 282106 | [282106-a-trans-mans-grindr-dms.json](./282106-a-trans-mans-grindr-dms.json) |
@@ -1600,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Attack | 344944 | [344944-alien-attack.json](./344944-alien-attack.json) |
 | Alien Bash | 76198 | [76198-alien-bash.json](./76198-alien-bash.json) |
 | Alien Bob | 293083 | [293083-alien-bob.json](./293083-alien-bob.json) |
+| Alien Breed | 8633 | [8633-alien-breed.json](./8633-alien-breed.json) |
 | Alien Breed 3D | 14239 | [14239-alien-breed-3d.json](./14239-alien-breed-3d.json) |
 | Alien Breed 3D 2: The Killing Grounds | 14240 | [14240-alien-breed-3d-2-the-killing-grounds.json](./14240-alien-breed-3d-2-the-killing-grounds.json) |
 | Alien Breed II: The Horror Continues | 14241 | [14241-alien-breed-ii-the-horror-continues.json](./14241-alien-breed-ii-the-horror-continues.json) |
@@ -1664,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Scumbags | 124627 | [124627-alien-scumbags.json](./124627-alien-scumbags.json) |
 | Alien Shepherd | 190200 | [190200-alien-shepherd.json](./190200-alien-shepherd.json) |
 | Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
+| Alien Shooter 2: Reloaded | 11088 | [11088-alien-shooter-2-reloaded.json](./11088-alien-shooter-2-reloaded.json) |
 | Alien Shooter 3D | 152770 | [152770-alien-shooter-3d.json](./152770-alien-shooter-3d.json) |
 | Alien Shooter: Revisted | 50844 | [50844-alien-shooter-revisted.json](./50844-alien-shooter-revisted.json) |
 | Alien Shooter: The Experiment | 11090 | [11090-alien-shooter-the-experiment.json](./11090-alien-shooter-the-experiment.json) |
@@ -1697,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien's Return | 79315 | [79315-aliens-return.json](./79315-aliens-return.json) |
 | Alienator | 332245 | [332245-alienator.json](./332245-alienator.json) |
 | Alienoid | 57685 | [57685-alienoid.json](./57685-alienoid.json) |
+| Aliens | 13680 | [13680-aliens.json](./13680-aliens.json) |
 | Aliens | 186868 | [186868-aliens.json](./186868-aliens.json) |
 | Aliens After Ava | 211212 | [211212-aliens-after-ava.json](./211212-aliens-after-ava.json) |
 | Aliens and Asteroids | 296515 | [296515-aliens-and-asteroids.json](./296515-aliens-and-asteroids.json) |
@@ -1909,6 +1913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allison Road | 11296 | [11296-allison-road.json](./11296-allison-road.json) |
 | Allison's Diary: Rebirth | 112771 | [112771-allisons-diary-rebirth.json](./112771-allisons-diary-rebirth.json) |
 | Allkpop Allstar | 59657 | [59657-allkpop-allstar.json](./59657-allkpop-allstar.json) |
+| Allods Online | 13157 | [13157-allods-online.json](./13157-allods-online.json) |
 | Allogloom | 277935 | [277935-allogloom.json](./277935-allogloom.json) |
 | Allora and the Broken Portal | 125382 | [125382-allora-and-the-broken-portal.json](./125382-allora-and-the-broken-portal.json) |
 | Allotropy | 169472 | [169472-allotropy.json](./169472-allotropy.json) |
@@ -4040,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armies of Exigo | 18855 | [18855-armies-of-exigo.json](./18855-armies-of-exigo.json) |
 | Armies of Ganivar | 130322 | [130322-armies-of-ganivar.json](./130322-armies-of-ganivar.json) |
 | Armies of Riddle E.X. (Extreme) | 126440 | [126440-armies-of-riddle-e-x-extreme.json](./126440-armies-of-riddle-e-x-extreme.json) |
+| Armikrog | 11093 | [11093-armikrog.json](./11093-armikrog.json) |
 | Armobiles | 122976 | [122976-armobiles.json](./122976-armobiles.json) |
 | Armor Assault | 24898 | [24898-armor-assault.json](./24898-armor-assault.json) |
 | Armor Attack | 382918 | [382918-armor-attack.json](./382918-armor-attack.json) |
@@ -5473,6 +5479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Hue | 336553 | [336553-azure-hue.json](./336553-azure-hue.json) |
 | Azure Influx | 322397 | [322397-azure-influx.json](./322397-azure-influx.json) |
 | Azure Orphanage | 249212 | [249212-azure-orphanage.json](./249212-azure-orphanage.json) |
+| Azure Striker Gunvolt | 10373 | [10373-azure-striker-gunvolt.json](./10373-azure-striker-gunvolt.json) |
 | Azure Striker Gunvolt 2 | 18197 | [18197-azure-striker-gunvolt-2.json](./18197-azure-striker-gunvolt-2.json) |
 | Azure Striker Gunvolt: Striker Pack | 29529 | [29529-azure-striker-gunvolt-striker-pack.json](./29529-azure-striker-gunvolt-striker-pack.json) |
 | Azurea: Sora no Uta | 216219 | [216219-azurea-sora-no-uta.json](./216219-azurea-sora-no-uta.json) |
