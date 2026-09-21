@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telemount | 413083 | [413083-telemount.json](./413083-telemount.json) |
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
 | Teleportal Customer Service | 181374 | [181374-teleportal-customer-service.json](./181374-teleportal-customer-service.json) |
+| Teleportower Plus | 62418 | [62418-teleportower-plus.json](./62418-teleportower-plus.json) |
 | Telerotation | 397061 | [397061-telerotation.json](./397061-telerotation.json) |
 | Telescape | 267059 | [267059-telescape.json](./267059-telescape.json) |
 | Telethugs | 188079 | [188079-telethugs.json](./188079-telethugs.json) |
@@ -5482,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smiler | 305365 | [305365-the-smiler.json](./305365-the-smiler.json) |
 | The Smiling Man | 194452 | [194452-the-smiling-man.json](./194452-the-smiling-man.json) |
 | The Smiling Man: Remake | 275143 | [275143-the-smiling-man-remake.json](./275143-the-smiling-man-remake.json) |
+| The Smiling, Proud Wanderer 2 | 62442 | [62442-the-smiling-proud-wanderer-2.json](./62442-the-smiling-proud-wanderer-2.json) |
 | The Smugglers | 191187 | [191187-the-smugglers.json](./191187-the-smugglers.json) |
 | The Smurfs | 80521 | [80521-the-smurfs.json](./80521-the-smurfs.json) |
 | The Smurfs 2 | 83900 | [83900-the-smurfs-2.json](./83900-the-smurfs-2.json) |
@@ -9630,6 +9632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz: A New Era - Route: The Shorts and Kerl Traction Railroad | 153300 | [153300-trainz-a-new-era-route-the-shorts-and-kerl-traction-railroad.json](./153300-trainz-a-new-era-route-the-shorts-and-kerl-traction-railroad.json) |
 | Trainz: Classic Cabon City | 27895 | [27895-trainz-classic-cabon-city.json](./27895-trainz-classic-cabon-city.json) |
 | Trainz: Driver Edition | 206748 | [206748-trainz-driver-edition.json](./206748-trainz-driver-edition.json) |
+| Trainz: Settle & Carlisle | 62419 | [62419-trainz-settle-and-carlisle.json](./62419-trainz-settle-and-carlisle.json) |
 | Trait | 326271 | [326271-trait.json](./326271-trait.json) |
 | Traitor Nightly | 183454 | [183454-traitor-nightly.json](./183454-traitor-nightly.json) |
 | Trajectile | 91417 | [91417-trajectile.json](./91417-trajectile.json) |
@@ -10420,8 +10423,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuushin Taikyoku: Igo Dojo 2700-mon | 344461 | [344461-tsuushin-taikyoku-igo-dojo-2700-mon.json](./344461-tsuushin-taikyoku-igo-dojo-2700-mon.json) |
 | Tsuushin Taisen Mahjong: Touryuumon | 67989 | [67989-tsuushin-taisen-mahjong-touryuumon.json](./67989-tsuushin-taisen-mahjong-touryuumon.json) |
 | Tsuyaga~ru | 163359 | [163359-tsuyaga-ru.json](./163359-tsuyaga-ru.json) |
+| Tsuyokiss 2gakki | 62431 | [62431-tsuyokiss-2gakki.json](./62431-tsuyokiss-2gakki.json) |
+| Tsuyokiss 3gakki | 62430 | [62430-tsuyokiss-3gakki.json](./62430-tsuyokiss-3gakki.json) |
 | Tsuyokiss Festival | 194587 | [194587-tsuyokiss-festival.json](./194587-tsuyokiss-festival.json) |
 | Tsuyokiss Next | 194588 | [194588-tsuyokiss-next.json](./194588-tsuyokiss-next.json) |
+| Tsuyokiss: Mighty Heart | 62432 | [62432-tsuyokiss-mighty-heart.json](./62432-tsuyokiss-mighty-heart.json) |
 | Tsuyoshi Shikkari Shinasai Taisen Puzzle-dama | 37778 | [37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json](./37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json) |
 | Tsykial | 270748 | [270748-tsykial.json](./270748-tsykial.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
