@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry | 247031 | [247031-harry.json](./247031-harry.json) |
 | Harry Buster | 218539 | [218539-harry-buster.json](./218539-harry-buster.json) |
 | Harry Potter and the Deathly Hallows: Part 1 - The Mobile Game | 266198 | [266198-harry-potter-and-the-deathly-hallows-part-1-the-mobile-game.json](./266198-harry-potter-and-the-deathly-hallows-part-1-the-mobile-game.json) |
+| Harry Potter and the Deathly Hallows: Part 2 | 4905 | [4905-harry-potter-and-the-deathly-hallows-part-2.json](./4905-harry-potter-and-the-deathly-hallows-part-2.json) |
 | Harry Potter and the Deathly Hallows: Part 2 - The Mobile Game | 266199 | [266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json](./266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json) |
 | Harry Potter and the Goblet of Fire: The Triwizard Tournament | 266502 | [266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json](./266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json) |
 | Harry Potter and the Half-Blood Prince | 266197 | [266197-harry-potter-and-the-half-blood-prince.json](./266197-harry-potter-and-the-half-blood-prince.json) |
@@ -1913,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Rescue Agency | 409661 | [409661-hero-rescue-agency.json](./409661-hero-rescue-agency.json) |
 | Hero Ring | 195602 | [195602-hero-ring.json](./195602-hero-ring.json) |
 | Hero Secret Realm Survivor Roguelike | 366293 | [366293-hero-secret-realm-survivor-roguelike.json](./366293-hero-secret-realm-survivor-roguelike.json) |
+| Hero Siege | 11708 | [11708-hero-siege.json](./11708-hero-siege.json) |
 | Hero Siege Complete | 53188 | [53188-hero-siege-complete.json](./53188-hero-siege-complete.json) |
 | Hero Siege: Companion Bundle | 224234 | [224234-hero-siege-companion-bundle.json](./224234-hero-siege-companion-bundle.json) |
 | Hero Siege: Pocket Edition | 108288 | [108288-hero-siege-pocket-edition.json](./108288-hero-siege-pocket-edition.json) |
@@ -2749,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Episode 5 - Colorado | 91024 | [91024-hitman-episode-5-colorado.json](./91024-hitman-episode-5-colorado.json) |
 | Hitman: Freelancer | 323712 | [323712-hitman-freelancer.json](./323712-hitman-freelancer.json) |
 | Hitman: Patient Zero | 76414 | [76414-hitman-patient-zero.json](./76414-hitman-patient-zero.json) |
+| Hitman: Sniper Challenge | 5567 | [5567-hitman-sniper-challenge.json](./5567-hitman-sniper-challenge.json) |
 | Hitmasters | 220177 | [220177-hitmasters.json](./220177-hitmasters.json) |
 | Hitme | 178096 | [178096-hitme.json](./178096-hitme.json) |
 | Hitme 2 | 225273 | [225273-hitme-2.json](./225273-hitme-2.json) |
