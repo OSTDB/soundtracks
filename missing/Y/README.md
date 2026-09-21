@@ -64,9 +64,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamakawa Shuppansha Kanshuu: Shousetsu Nihonshi DS | 124153 | [124153-yamakawa-shuppansha-kanshuu-shousetsu-nihonshi-ds.json](./124153-yamakawa-shuppansha-kanshuu-shousetsu-nihonshi-ds.json) |
 | Yamakawa Shuppansha Kanshuu: Shousetsu Sekaishi DS | 124152 | [124152-yamakawa-shuppansha-kanshuu-shousetsu-sekaishi-ds.json](./124152-yamakawa-shuppansha-kanshuu-shousetsu-sekaishi-ds.json) |
 | Yamame Climb | 335688 | [335688-yamame-climb.json](./335688-yamame-climb.json) |
+| Yamamura Misa Suspense: Kyoto Hana no Misshitsu Satsujin Jiken | 48871 | [48871-yamamura-misa-suspense-kyoto-hana-no-misshitsu-satsujin-jiken.json](./48871-yamamura-misa-suspense-kyoto-hana-no-misshitsu-satsujin-jiken.json) |
 | Yamamura Misa Suspense: Kyoto Kurama Sansou Satsujin Jiken | 268530 | [268530-yamamura-misa-suspense-kyoto-kurama-sansou-satsujin-jiken.json](./268530-yamamura-misa-suspense-kyoto-kurama-sansou-satsujin-jiken.json) |
 | Yamamura Misa Suspense: Kyoto Kurama Sansou Satsujin Jiken | 268531 | [268531-yamamura-misa-suspense-kyoto-kurama-sansou-satsujin-jiken.json](./268531-yamamura-misa-suspense-kyoto-kurama-sansou-satsujin-jiken.json) |
 | Yamamura Misa Suspense: Kyoto Ryuu no Tera Satsujin Jiken | 65474 | [65474-yamamura-misa-suspense-kyoto-ryuu-no-tera-satsujin-jiken.json](./65474-yamamura-misa-suspense-kyoto-ryuu-no-tera-satsujin-jiken.json) |
+| Yamamura Misa Suspense: Kyoto Zaiteku Satsujin Jiken | 48869 | [48869-yamamura-misa-suspense-kyoto-zaiteku-satsujin-jiken.json](./48869-yamamura-misa-suspense-kyoto-zaiteku-satsujin-jiken.json) |
 | Yamasa Digi World 2: LCD Edition | 61328 | [61328-yamasa-digi-world-2-lcd-edition.json](./61328-yamasa-digi-world-2-lcd-edition.json) |
 | Yamasa Digi World 3 | 61327 | [61327-yamasa-digi-world-3.json](./61327-yamasa-digi-world-3.json) |
 | Yamasa Digi World 4 | 61323 | [61323-yamasa-digi-world-4.json](./61323-yamasa-digi-world-4.json) |
@@ -108,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yasha: Legends of the Demon Blade - Deluxe Edition | 351139 | [351139-yasha-legends-of-the-demon-blade-deluxe-edition.json](./351139-yasha-legends-of-the-demon-blade-deluxe-edition.json) |
 | Yashi - Sand Driver | 411675 | [411675-yashi-sand-driver.json](./411675-yashi-sand-driver.json) |
 | Yasogaya Murder Cases | 238597 | [238597-yasogaya-murder-cases.json](./238597-yasogaya-murder-cases.json) |
+| Yasuda Fire & Marine: Safety Rally | 48863 | [48863-yasuda-fire-and-marine-safety-rally.json](./48863-yasuda-fire-and-marine-safety-rally.json) |
 | Yasuke Simulator | 333626 | [333626-yasuke-simulator.json](./333626-yasuke-simulator.json) |
 | Yasuke: A Lost Descendant | 222915 | [222915-yasuke-a-lost-descendant.json](./222915-yasuke-a-lost-descendant.json) |
 | Yasumeru | 202344 | [202344-yasumeru.json](./202344-yasumeru.json) |
