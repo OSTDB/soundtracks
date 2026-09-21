@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
 | Advanced Kick Challenge | 379477 | [379477-advanced-kick-challenge.json](./379477-advanced-kick-challenge.json) |
 | Advanced Pasta Cooking Simulator | 215766 | [215766-advanced-pasta-cooking-simulator.json](./215766-advanced-pasta-cooking-simulator.json) |
+| Advanced Power Dolls 2 | 56170 | [56170-advanced-power-dolls-2.json](./56170-advanced-power-dolls-2.json) |
 | Advanced Shells | 308381 | [308381-advanced-shells.json](./308381-advanced-shells.json) |
 | Advanced Shells II | 308380 | [308380-advanced-shells-ii.json](./308380-advanced-shells-ii.json) |
 | Advanced Shells III | 308382 | [308382-advanced-shells-iii.json](./308382-advanced-shells-iii.json) |
