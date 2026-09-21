@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeekOut | 391614 | [391614-seekout.json](./391614-seekout.json) |
 | Seemly Girl Escape | 233493 | [233493-seemly-girl-escape.json](./233493-seemly-girl-escape.json) |
 | Seemonster | 40784 | [40784-seemonster.json](./40784-seemonster.json) |
+| Seen | 117641 | [117641-seen.json](./117641-seen.json) |
 | Seen on Screen | 225721 | [225721-seen-on-screen.json](./225721-seen-on-screen.json) |
 | Seers Isle | 86344 | [86344-seers-isle.json](./86344-seers-isle.json) |
 | SeeYou | 381606 | [381606-seeyou.json](./381606-seeyou.json) |
@@ -3145,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Mistress NTR | 379891 | [379891-shop-mistress-ntr.json](./379891-shop-mistress-ntr.json) |
 | Shop of Forgotten Memories | 298883 | [298883-shop-of-forgotten-memories.json](./298883-shop-of-forgotten-memories.json) |
 | Shop Simulator: Supermarket | 320721 | [320721-shop-simulator-supermarket.json](./320721-shop-simulator-supermarket.json) |
+| Shop Titans | 119969 | [119969-shop-titans.json](./119969-shop-titans.json) |
 | Shop Town Dooter | 310182 | [310182-shop-town-dooter.json](./310182-shop-town-dooter.json) |
 | Shop Tycoon | 284891 | [284891-shop-tycoon.json](./284891-shop-tycoon.json) |
 | Shop Tycoon the Boss | 103537 | [103537-shop-tycoon-the-boss.json](./103537-shop-tycoon-the-boss.json) |
@@ -5718,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song Animals | 116101 | [116101-song-animals.json](./116101-song-animals.json) |
 | Song in the Smoke | 145450 | [145450-song-in-the-smoke.json](./145450-song-in-the-smoke.json) |
 | Song of Hero: Music RPG | 260763 | [260763-song-of-hero-music-rpg.json](./260763-song-of-hero-music-rpg.json) |
+| Song of Horror | 121555 | [121555-song-of-horror.json](./121555-song-of-horror.json) |
 | Song of Horror - Episode 3 | 135151 | [135151-song-of-horror-episode-3.json](./135151-song-of-horror-episode-3.json) |
 | Song of Horror - Episode 4 | 135153 | [135153-song-of-horror-episode-4.json](./135153-song-of-horror-episode-4.json) |
 | Song of Horror - Episode 5 | 135158 | [135158-song-of-horror-episode-5.json](./135158-song-of-horror-episode-5.json) |
@@ -5981,6 +5984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Blast | 280211 | [280211-sonic-robo-blast.json](./280211-sonic-robo-blast.json) |
 | Sonic Robo Blast 2 | 280214 | [280214-sonic-robo-blast-2.json](./280214-sonic-robo-blast-2.json) |
 | Sonic Robo Blast 2 | 280215 | [280215-sonic-robo-blast-2.json](./280215-sonic-robo-blast-2.json) |
+| Sonic Robo Blast 2 Kart | 121436 | [121436-sonic-robo-blast-2-kart.json](./121436-sonic-robo-blast-2-kart.json) |
 | Sonic Robo Blast 2: Adventure Sonic | 241383 | [241383-sonic-robo-blast-2-adventure-sonic.json](./241383-sonic-robo-blast-2-adventure-sonic.json) |
 | Sonic Robo Blast 2: Frontiers Adaptation Project | 264858 | [264858-sonic-robo-blast-2-frontiers-adaptation-project.json](./264858-sonic-robo-blast-2-frontiers-adaptation-project.json) |
 | Sonic Robo Blast 2: Heroes | 304182 | [304182-sonic-robo-blast-2-heroes.json](./304182-sonic-robo-blast-2-heroes.json) |
@@ -6033,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog | 6231 | [6231-sonic-the-hedgehog.json](./6231-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog 1996 | 400967 | [400967-sonic-the-hedgehog-1996.json](./400967-sonic-the-hedgehog-1996.json) |
 | Sonic the Hedgehog 2 | 112884 | [112884-sonic-the-hedgehog-2.json](./112884-sonic-the-hedgehog-2.json) |
+| Sonic the Hedgehog 2 | 112897 | [112897-sonic-the-hedgehog-2.json](./112897-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 202256 | [202256-sonic-the-hedgehog-2.json](./202256-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 239069 | [239069-sonic-the-hedgehog-2.json](./239069-sonic-the-hedgehog-2.json) |
 | Sonic The Hedgehog 2: Archives | 332835 | [332835-sonic-the-hedgehog-2-archives.json](./332835-sonic-the-hedgehog-2-archives.json) |
@@ -6289,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Injector Commando | 322603 | [322603-soul-injector-commando.json](./322603-soul-injector-commando.json) |
 | Soul Interface | 302382 | [302382-soul-interface.json](./302382-soul-interface.json) |
 | Soul King | 213453 | [213453-soul-king.json](./213453-soul-king.json) |
+| Soul Knight | 122346 | [122346-soul-knight.json](./122346-soul-knight.json) |
 | Soul Knight Prequel | 277857 | [277857-soul-knight-prequel.json](./277857-soul-knight-prequel.json) |
 | Soul Land: Advent of the Gods | 194020 | [194020-soul-land-advent-of-the-gods.json](./194020-soul-land-advent-of-the-gods.json) |
 | Soul Light | 187407 | [187407-soul-light.json](./187407-soul-light.json) |
@@ -9712,6 +9718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Struggle for the Iliac Bay | 356168 | [356168-struggle-for-the-iliac-bay.json](./356168-struggle-for-the-iliac-bay.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
 | Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
+| Stuart Little 2 | 121606 | [121606-stuart-little-2.json](./121606-stuart-little-2.json) |
 | Stuart Little 2 | 27628 | [27628-stuart-little-2.json](./27628-stuart-little-2.json) |
 | Stuart Little: Big City Adventures | 208356 | [208356-stuart-little-big-city-adventures.json](./208356-stuart-little-big-city-adventures.json) |
 | Stuart Little: His Adventures in Numberland | 208357 | [208357-stuart-little-his-adventures-in-numberland.json](./208357-stuart-little-his-adventures-in-numberland.json) |
