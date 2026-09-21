@@ -1467,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane | 291583 | [291583-insane.json](./291583-insane.json) |
 | Insane Aquarium Deluxe | 174746 | [174746-insane-aquarium-deluxe.json](./174746-insane-aquarium-deluxe.json) |
 | Insane Creations | 149528 | [149528-insane-creations.json](./149528-insane-creations.json) |
+| Insane Road | 37404 | [37404-insane-road.json](./37404-insane-road.json) |
 | Insanias | 250950 | [250950-insanias.json](./250950-insanias.json) |
 | Insaniquarium! | 334696 | [334696-insaniquarium.json](./334696-insaniquarium.json) |
 | Insanity | 94703 | [94703-insanity.json](./94703-insanity.json) |
@@ -1765,6 +1766,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inuyasha Awakening | 174825 | [174825-inuyasha-awakening.json](./174825-inuyasha-awakening.json) |
 | Inuyasha: Battle of Hell | 121442 | [121442-inuyasha-battle-of-hell.json](./121442-inuyasha-battle-of-hell.json) |
 | Inuyasha: Battle of Naraku | 193963 | [193963-inuyasha-battle-of-naraku.json](./193963-inuyasha-battle-of-naraku.json) |
+| Inuyasha: Fuuun Emaki | 37374 | [37374-inuyasha-fuuun-emaki.json](./37374-inuyasha-fuuun-emaki.json) |
+| Inuyasha: Kagome no Sengoku Nikki | 37373 | [37373-inuyasha-kagome-no-sengoku-nikki.json](./37373-inuyasha-kagome-no-sengoku-nikki.json) |
+| Inuyasha: Kagome no Yume Nikki | 37372 | [37372-inuyasha-kagome-no-yume-nikki.json](./37372-inuyasha-kagome-no-yume-nikki.json) |
 | Inuyasha: Secret of the Divine Jewel | 20653 | [20653-inuyasha-secret-of-the-divine-jewel.json](./20653-inuyasha-secret-of-the-divine-jewel.json) |
 | Inv | 100134 | [100134-inv.json](./100134-inv.json) |
 | Inva-taxi | 9076 | [9076-inva-taxi.json](./9076-inva-taxi.json) |
