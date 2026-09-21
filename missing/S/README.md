@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Seiya: Legends of Justice | 209634 | [209634-saint-seiya-legends-of-justice.json](./209634-saint-seiya-legends-of-justice.json) |
 | Saint Seiya: Ougon Densetsu | 48655 | [48655-saint-seiya-ougon-densetsu.json](./48655-saint-seiya-ougon-densetsu.json) |
 | Saint Seiya: Ougon Densetsu - Kanketsu-hen | 48654 | [48654-saint-seiya-ougon-densetsu-kanketsu-hen.json](./48654-saint-seiya-ougon-densetsu-kanketsu-hen.json) |
+| Saint Seiya: Ougon Densetsu-hen - Perfect Edition | 37353 | [37353-saint-seiya-ougon-densetsu-hen-perfect-edition.json](./37353-saint-seiya-ougon-densetsu-hen-perfect-edition.json) |
 | Saint Seiya: Rising Cosmo | 139221 | [139221-saint-seiya-rising-cosmo.json](./139221-saint-seiya-rising-cosmo.json) |
 | Saint Sword | 46199 | [46199-saint-sword.json](./46199-saint-sword.json) |
 | Saint Warner's Angels | 239768 | [239768-saint-warners-angels.json](./239768-saint-warners-angels.json) |
@@ -276,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakata Goro Kudan no Renju Kyoushitsu | 97859 | [97859-sakata-goro-kudan-no-renju-kyoushitsu.json](./97859-sakata-goro-kudan-no-renju-kyoushitsu.json) |
 | SakaTsuku Tokudai-gou 2: J.League Pro Soccer Club wo Tsukurou! | 392777 | [392777-sakatsuku-tokudai-gou-2-j-league-pro-soccer-club-wo-tsukurou.json](./392777-sakatsuku-tokudai-gou-2-j-league-pro-soccer-club-wo-tsukurou.json) |
 | Sakatsuku: Pro Soccer Club wo Tsukurou! | 63298 | [63298-sakatsuku-pro-soccer-club-wo-tsukurou.json](./63298-sakatsuku-pro-soccer-club-wo-tsukurou.json) |
+| Sakeretsu | 37393 | [37393-sakeretsu.json](./37393-sakeretsu.json) |
 | Saki: Achiga-Hen Episode of Side-A Portable | 135902 | [135902-saki-achiga-hen-episode-of-side-a-portable.json](./135902-saki-achiga-hen-episode-of-side-a-portable.json) |
 | Sakigake!! Otokojuku | 64112 | [64112-sakigake-otokojuku.json](./64112-sakigake-otokojuku.json) |
 | Sakigake!! Otokojuku: Meikoushima Kessen | 64113 | [64113-sakigake-otokojuku-meikoushima-kessen.json](./64113-sakigake-otokojuku-meikoushima-kessen.json) |
@@ -1284,6 +1286,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Battle Alliance: Unit and Scenario Pack 2 | 237976 | [237976-sd-gundam-battle-alliance-unit-and-scenario-pack-2.json](./237976-sd-gundam-battle-alliance-unit-and-scenario-pack-2.json) |
 | SD Gundam Battle Alliance: Unit and Scenario Pack 3 | 223572 | [223572-sd-gundam-battle-alliance-unit-and-scenario-pack-3.json](./223572-sd-gundam-battle-alliance-unit-and-scenario-pack-3.json) |
 | SD Gundam Eiyuden: Daikessen!! Kishi vs Musha | 223046 | [223046-sd-gundam-eiyuden-daikessen-kishi-vs-musha.json](./223046-sd-gundam-eiyuden-daikessen-kishi-vs-musha.json) |
+| SD Gundam Eiyuuden: Kishi Densetsu | 37352 | [37352-sd-gundam-eiyuuden-kishi-densetsu.json](./37352-sd-gundam-eiyuuden-kishi-densetsu.json) |
+| SD Gundam Eiyuuden: Musha Densetsu | 37351 | [37351-sd-gundam-eiyuuden-musha-densetsu.json](./37351-sd-gundam-eiyuuden-musha-densetsu.json) |
 | SD Gundam G Generation Cross Rays | 114152 | [114152-sd-gundam-g-generation-cross-rays.json](./114152-sd-gundam-g-generation-cross-rays.json) |
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 1 | 238486 | [238486-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-1.json](./238486-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-1.json) |
 | SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 3 | 225077 | [225077-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-3.json](./225077-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-3.json) |
