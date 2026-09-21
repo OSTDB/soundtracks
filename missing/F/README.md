@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | F-1 Chequered Flag | 59977 | [59977-f-1-chequered-flag.json](./59977-f-1-chequered-flag.json) |
+| F-1 Grand Prix | 46837 | [46837-f-1-grand-prix.json](./46837-f-1-grand-prix.json) |
 | F-1 Grand Prix 1996: Team Unei Simulation | 382916 | [382916-f-1-grand-prix-1996-team-unei-simulation.json](./382916-f-1-grand-prix-1996-team-unei-simulation.json) |
 | F-1 Grand Prix Part II | 38335 | [38335-f-1-grand-prix-part-ii.json](./38335-f-1-grand-prix-part-ii.json) |
 | F-1 Grand Prix Part III | 38362 | [38362-f-1-grand-prix-part-iii.json](./38362-f-1-grand-prix-part-iii.json) |
@@ -3501,6 +3502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Seasons - A fan-created Avatar Game | 143730 | [143730-four-seasons-a-fan-created-avatar-game.json](./143730-four-seasons-a-fan-created-avatar-game.json) |
 | Four Second Forever | 302121 | [302121-four-second-forever.json](./302121-four-second-forever.json) |
 | Four Second Frenzy | 196796 | [196796-four-second-frenzy.json](./196796-four-second-frenzy.json) |
+| Four Trax | 46864 | [46864-four-trax.json](./46864-four-trax.json) |
 | Four Ways | 129702 | [129702-four-ways.json](./129702-four-ways.json) |
 | Four Ways: Block Puzzle | 131554 | [131554-four-ways-block-puzzle.json](./131554-four-ways-block-puzzle.json) |
 | Four Winds Mah Jong | 92985 | [92985-four-winds-mah-jong.json](./92985-four-winds-mah-jong.json) |
@@ -4250,6 +4252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Strength Strongman Competition | 62202 | [62202-full-strength-strongman-competition.json](./62202-full-strength-strongman-competition.json) |
 | Full Swing Golf | 299472 | [299472-full-swing-golf.json](./299472-full-swing-golf.json) |
 | Full Throttle | 180 | [180-full-throttle.json](./180-full-throttle.json) |
+| Full Throttle | 46843 | [46843-full-throttle.json](./46843-full-throttle.json) |
 | Full Throttle 2 | 327805 | [327805-full-throttle-2.json](./327805-full-throttle-2.json) |
 | Full Throttle Parking | 388010 | [388010-full-throttle-parking.json](./388010-full-throttle-parking.json) |
 | Full Throttle Racing | 42594 | [42594-full-throttle-racing.json](./42594-full-throttle-racing.json) |
