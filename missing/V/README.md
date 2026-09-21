@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Boy Wario Land | 1696 | [1696-virtual-boy-wario-land.json](./1696-virtual-boy-wario-land.json) |
 | Virtual Cameraman Part 4: Toya Shiori | 217878 | [217878-virtual-cameraman-part-4-toya-shiori.json](./217878-virtual-cameraman-part-4-toya-shiori.json) |
 | Virtual Cameraman Part 5: Anzo Ari | 216769 | [216769-virtual-cameraman-part-5-anzo-ari.json](./216769-virtual-cameraman-part-5-anzo-ari.json) |
+| Virtual Casino | 45517 | [45517-virtual-casino.json](./45517-virtual-casino.json) |
 | Virtual Cell | 63000 | [63000-virtual-cell.json](./63000-virtual-cell.json) |
 | Virtual Chess | 351645 | [351645-virtual-chess.json](./351645-virtual-chess.json) |
 | Virtual country: Yuan fairy summon | 201668 | [201668-virtual-country-yuan-fairy-summon.json](./201668-virtual-country-yuan-fairy-summon.json) |
