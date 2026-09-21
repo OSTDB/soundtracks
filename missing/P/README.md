@@ -3028,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playback Trauma: The Beach | 159888 | [159888-playback-trauma-the-beach.json](./159888-playback-trauma-the-beach.json) |
 | Playbook VR | 344434 | [344434-playbook-vr.json](./344434-playbook-vr.json) |
 | PlayBound | 126662 | [126662-playbound.json](./126662-playbound.json) |
+| Playboy Casino | 57922 | [57922-playboy-casino.json](./57922-playboy-casino.json) |
 | Playboy Manager | 68309 | [68309-playboy-manager.json](./68309-playboy-manager.json) |
 | Playboy: The Mansion - Private Party | 68037 | [68037-playboy-the-mansion-private-party.json](./68037-playboy-the-mansion-private-party.json) |
 | PlayChapas | 177934 | [177934-playchapas.json](./177934-playchapas.json) |
@@ -3212,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Mine 3 | 68340 | [68340-pocket-mine-3.json](./68340-pocket-mine-3.json) |
 | Pocket Mine 3 | 77666 | [77666-pocket-mine-3.json](./77666-pocket-mine-3.json) |
 | Pocket Mini Golf | 132027 | [132027-pocket-mini-golf.json](./132027-pocket-mini-golf.json) |
+| Pocket Mirror | 57894 | [57894-pocket-mirror.json](./57894-pocket-mirror.json) |
 | Pocket Monsters RPG | 130335 | [130335-pocket-monsters-rpg.json](./130335-pocket-monsters-rpg.json) |
 | Pocket Monsters: Suuji wo Tsukamaeyou! | 63849 | [63849-pocket-monsters-suuji-wo-tsukamaeyou.json](./63849-pocket-monsters-suuji-wo-tsukamaeyou.json) |
 | Pocket Music | 98797 | [98797-pocket-music.json](./98797-pocket-music.json) |
@@ -5082,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol Paradox | 373512 | [373512-protocol-paradox.json](./373512-protocol-paradox.json) |
 | Protocol VR | 116289 | [116289-protocol-vr.json](./116289-protocol-vr.json) |
 | Protocol Xeno | 211967 | [211967-protocol-xeno.json](./211967-protocol-xeno.json) |
+| Protocol Zero | 57929 | [57929-protocol-zero.json](./57929-protocol-zero.json) |
 | Protocol: Chapter 1 - Limbo | 415150 | [415150-protocol-chapter-1-limbo.json](./415150-protocol-chapter-1-limbo.json) |
 | Protocol:Null | 301982 | [301982-protocol-null.json](./301982-protocol-null.json) |
 | Protocole: Hedera | 270101 | [270101-protocole-hedera.json](./270101-protocole-hedera.json) |
