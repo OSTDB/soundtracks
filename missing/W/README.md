@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of Thalyrion | 310749 | [310749-warriors-of-thalyrion.json](./310749-warriors-of-thalyrion.json) |
 | Warriors of the Lost Empire | 42839 | [42839-warriors-of-the-lost-empire.json](./42839-warriors-of-the-lost-empire.json) |
 | Warriors of Vilvatikta | 31628 | [31628-warriors-of-vilvatikta.json](./31628-warriors-of-vilvatikta.json) |
+| Warriors Orochi | 7242 | [7242-warriors-orochi.json](./7242-warriors-orochi.json) |
 | Warriors Orochi 3 | 5324 | [5324-warriors-orochi-3.json](./5324-warriors-orochi-3.json) |
 | Warriors Orochi 4: Scenario Pack | 237975 | [237975-warriors-orochi-4-scenario-pack.json](./237975-warriors-orochi-4-scenario-pack.json) |
 | Warriors Orochi 4: Scenario Pack 1 | 252804 | [252804-warriors-orochi-4-scenario-pack-1.json](./252804-warriors-orochi-4-scenario-pack-1.json) |
@@ -1473,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Men Can't Jump | 40821 | [40821-white-men-cant-jump.json](./40821-white-men-cant-jump.json) |
 | White Mirror | 214734 | [214734-white-mirror.json](./214734-white-mirror.json) |
 | White Night | 352190 | [352190-white-night.json](./352190-white-night.json) |
+| White Night | 8921 | [8921-white-night.json](./8921-white-night.json) |
 | White Noise: Ghost Signal | 374145 | [374145-white-noise-ghost-signal.json](./374145-white-noise-ghost-signal.json) |
 | White Pearl | 76663 | [76663-white-pearl.json](./76663-white-pearl.json) |
 | White Rabbit | 161356 | [161356-white-rabbit.json](./161356-white-rabbit.json) |
@@ -2603,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Heroes Anthology | 20993 | [20993-world-heroes-anthology.json](./20993-world-heroes-anthology.json) |
 | World Heroes Perfect | 46779 | [46779-world-heroes-perfect.json](./46779-world-heroes-perfect.json) |
 | World Heroes Supreme Justice Extra | 358960 | [358960-world-heroes-supreme-justice-extra.json](./358960-world-heroes-supreme-justice-extra.json) |
+| World in Conflict: Soviet Assault | 9338 | [9338-world-in-conflict-soviet-assault.json](./9338-world-in-conflict-soviet-assault.json) |
 | World Karate Championship | 79620 | [79620-world-karate-championship.json](./79620-world-karate-championship.json) |
 | World Leader Card Game | 119779 | [119779-world-leader-card-game.json](./119779-world-leader-card-game.json) |
 | World Leaders | 274046 | [274046-world-leaders.json](./274046-world-leaders.json) |
@@ -2839,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormi | 269083 | [269083-wormi.json](./269083-wormi.json) |
 | WormJuice Skateboarding Olympics | 159795 | [159795-wormjuice-skateboarding-olympics.json](./159795-wormjuice-skateboarding-olympics.json) |
 | Worms | 9331 | [9331-worms.json](./9331-worms.json) |
+| Worms | 9332 | [9332-worms.json](./9332-worms.json) |
 | Worms Crazy Golf | 15070 | [15070-worms-crazy-golf.json](./15070-worms-crazy-golf.json) |
 | Worms Forts 3D | 218730 | [218730-worms-forts-3d.json](./218730-worms-forts-3d.json) |
 | Worms Reloaded | 1017 | [1017-worms-reloaded.json](./1017-worms-reloaded.json) |
