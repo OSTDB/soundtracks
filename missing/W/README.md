@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warshmallows | 132613 | [132613-warshmallows.json](./132613-warshmallows.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
 | Warsino | 232539 | [232539-warsino.json](./232539-warsino.json) |
+| Warsong | 3196 | [3196-warsong.json](./3196-warsong.json) |
 | Warspace | 242065 | [242065-warspace.json](./242065-warspace.json) |
 | Warspace 2 | 158652 | [158652-warspace-2.json](./158652-warspace-2.json) |
 | Warspear Online | 87077 | [87077-warspear-online.json](./87077-warspear-online.json) |
@@ -868,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCP Word Girlfriend | 259058 | [259058-wcp-word-girlfriend.json](./259058-wcp-word-girlfriend.json) |
 | WCW Diamond Dallas Page | 198955 | [198955-wcw-diamond-dallas-page.json](./198955-wcw-diamond-dallas-page.json) |
 | WCW Hollywood Hulk Hogan Power Fighter | 198958 | [198958-wcw-hollywood-hulk-hogan-power-fighter.json](./198958-wcw-hollywood-hulk-hogan-power-fighter.json) |
+| WCW Nitro | 3634 | [3634-wcw-nitro.json](./3634-wcw-nitro.json) |
 | WCW Nitro Giant | 198961 | [198961-wcw-nitro-giant.json](./198961-wcw-nitro-giant.json) |
 | WCW Nitro Goldberg Smash & Bash Game | 198959 | [198959-wcw-nitro-goldberg-smash-and-bash-game.json](./198959-wcw-nitro-goldberg-smash-and-bash-game.json) |
 | WCW Nitro Hollywood Hogan | 217969 | [217969-wcw-nitro-hollywood-hogan.json](./217969-wcw-nitro-hollywood-hogan.json) |
@@ -1143,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet-Dry World | 308233 | [308233-wet-dry-world.json](./308233-wet-dry-world.json) |
 | WetBread | 222934 | [222934-wetbread.json](./222934-wetbread.json) |
 | Wetpants | 121471 | [121471-wetpants.json](./121471-wetpants.json) |
+| Wetrix | 3637 | [3637-wetrix.json](./3637-wetrix.json) |
 | Wettop | 358871 | [358871-wettop.json](./358871-wettop.json) |
 | Wetware | 142259 | [142259-wetware.json](./142259-wetware.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
