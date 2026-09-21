@@ -5000,6 +5000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Ltd: Part I | 256821 | [256821-monster-hunter-ltd-part-i.json](./256821-monster-hunter-ltd-part-i.json) |
 | Monster Hunter Ltd: Part II | 256822 | [256822-monster-hunter-ltd-part-ii.json](./256822-monster-hunter-ltd-part-ii.json) |
 | Monster Hunter Now: Season 3 | 317847 | [317847-monster-hunter-now-season-3.json](./317847-monster-hunter-now-season-3.json) |
+| Monster Hunter Online | 26901 | [26901-monster-hunter-online.json](./26901-monster-hunter-online.json) |
 | Monster Hunter Portable 3rd HD Ver. | 78633 | [78633-monster-hunter-portable-3rd-hd-ver.json](./78633-monster-hunter-portable-3rd-hd-ver.json) |
 | Monster Hunter Rise + Sunbreak | 207388 | [207388-monster-hunter-rise-sunbreak.json](./207388-monster-hunter-rise-sunbreak.json) |
 | Monster Hunter Rise + Sunbreak: Deluxe Edition | 208042 | [208042-monster-hunter-rise-sunbreak-deluxe-edition.json](./208042-monster-hunter-rise-sunbreak-deluxe-edition.json) |
