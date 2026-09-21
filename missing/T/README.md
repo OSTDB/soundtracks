@@ -1662,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive 4 | 78297 | [78297-test-drive-4.json](./78297-test-drive-4.json) |
 | Test Drive Cycles | 49906 | [49906-test-drive-cycles.json](./49906-test-drive-cycles.json) |
 | Test Drive II: The Collection | 140039 | [140039-test-drive-ii-the-collection.json](./140039-test-drive-ii-the-collection.json) |
+| Test Drive Unlimited | 7215 | [7215-test-drive-unlimited.json](./7215-test-drive-unlimited.json) |
 | Test Drive: Off-Road 2 | 45086 | [45086-test-drive-off-road-2.json](./45086-test-drive-off-road-2.json) |
 | Test Drive: Off-Road 3 | 49905 | [49905-test-drive-off-road-3.json](./49905-test-drive-off-road-3.json) |
 | Test Drive: Offroad | 206222 | [206222-test-drive-offroad.json](./206222-test-drive-offroad.json) |
@@ -2005,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Spider-Man | 203143 | [203143-the-amazing-spider-man.json](./203143-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 254522 | [254522-the-amazing-spider-man.json](./254522-the-amazing-spider-man.json) |
 | The Amazing Spider-Man 2 | 196243 | [196243-the-amazing-spider-man-2.json](./196243-the-amazing-spider-man-2.json) |
+| The Amazing Spider-Man 2 | 4755 | [4755-the-amazing-spider-man-2.json](./4755-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man 2 | 83901 | [83901-the-amazing-spider-man-2.json](./83901-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man in the Villain Round-Up | 220113 | [220113-the-amazing-spider-man-in-the-villain-round-up.json](./220113-the-amazing-spider-man-in-the-villain-round-up.json) |
 | The Amazing Spider-Man: Countdown to Doom | 230280 | [230280-the-amazing-spider-man-countdown-to-doom.json](./230280-the-amazing-spider-man-countdown-to-doom.json) |
@@ -2255,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bigs 2 | 4716 | [4716-the-bigs-2.json](./4716-the-bigs-2.json) |
 | The Bikini Bottom Massacre | 269582 | [269582-the-bikini-bottom-massacre.json](./269582-the-bikini-bottom-massacre.json) |
 | The Billionaire's Baby | 313890 | [313890-the-billionaires-baby.json](./313890-the-billionaires-baby.json) |
+| The Binding of Isaac: Afterbirth | 13177 | [13177-the-binding-of-isaac-afterbirth.json](./13177-the-binding-of-isaac-afterbirth.json) |
 | The Binding of Isaac: Epiphany | 223039 | [223039-the-binding-of-isaac-epiphany.json](./223039-the-binding-of-isaac-epiphany.json) |
 | The Binding of You | 83551 | [83551-the-binding-of-you.json](./83551-the-binding-of-you.json) |
 | The Biorift | 376550 | [376550-the-biorift.json](./376550-the-biorift.json) |
@@ -2373,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bullet Hopper | 268229 | [268229-the-bullet-hopper.json](./268229-the-bullet-hopper.json) |
 | The Bundle of Wonders | 173792 | [173792-the-bundle-of-wonders.json](./173792-the-bundle-of-wonders.json) |
 | The Bunnyman | 224579 | [224579-the-bunnyman.json](./224579-the-bunnyman.json) |
+| The Bureau: XCOM Declassified | 244 | [244-the-bureau-xcom-declassified.json](./244-the-bureau-xcom-declassified.json) |
 | The Burger Quiz | 219172 | [219172-the-burger-quiz.json](./219172-the-burger-quiz.json) |
 | The Burned Ground | 115701 | [115701-the-burned-ground.json](./115701-the-burned-ground.json) |
 | The Burnt School | 147978 | [147978-the-burnt-school.json](./147978-the-burnt-school.json) |
@@ -7863,6 +7867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Times Turn | 185132 | [185132-times-turn.json](./185132-times-turn.json) |
 | TimeScape: Journey to Pompeii | 73819 | [73819-timescape-journey-to-pompeii.json](./73819-timescape-journey-to-pompeii.json) |
 | TimeScar: Hyperion | 110769 | [110769-timescar-hyperion.json](./110769-timescar-hyperion.json) |
+| TimeShift | 2030 | [2030-timeshift.json](./2030-timeshift.json) |
 | Timeslip | 77974 | [77974-timeslip.json](./77974-timeslip.json) |
 | TimeSplitters | 317415 | [317415-timesplitters.json](./317415-timesplitters.json) |
 | TimeSplitters 2 | 317414 | [317414-timesplitters-2.json](./317414-timesplitters-2.json) |
@@ -8468,6 +8473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Shanty Town | 172133 | [172133-tomb-raider-shanty-town.json](./172133-tomb-raider-shanty-town.json) |
 | Tomb Raider: Survival Edition | 53817 | [53817-tomb-raider-survival-edition.json](./53817-tomb-raider-survival-edition.json) |
 | Tomb Raider: The Action Adventure | 123009 | [123009-tomb-raider-the-action-adventure.json](./123009-tomb-raider-the-action-adventure.json) |
+| Tomb Raider: The Angel of Darkness | 1159 | [1159-tomb-raider-the-angel-of-darkness.json](./1159-tomb-raider-the-angel-of-darkness.json) |
 | Tomb Raider: The Angel of Darkness 1.5 | 156178 | [156178-tomb-raider-the-angel-of-darkness-1-5.json](./156178-tomb-raider-the-angel-of-darkness-1-5.json) |
 | Tomb Raider: Underworld | 146720 | [146720-tomb-raider-underworld.json](./146720-tomb-raider-underworld.json) |
 | Tomb Raider: Underworld | 371964 | [371964-tomb-raider-underworld.json](./371964-tomb-raider-underworld.json) |
