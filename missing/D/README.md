@@ -2018,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denny's Atari Remix | 305367 | [305367-dennys-atari-remix.json](./305367-dennys-atari-remix.json) |
 | Denpa Ningen no RPG 2 | 221987 | [221987-denpa-ningen-no-rpg-2.json](./221987-denpa-ningen-no-rpg-2.json) |
 | Denpa Ningen no RPG 3 | 221988 | [221988-denpa-ningen-no-rpg-3.json](./221988-denpa-ningen-no-rpg-3.json) |
+| Denpa Ningen no RPG Free! | 61348 | [61348-denpa-ningen-no-rpg-free.json](./61348-denpa-ningen-no-rpg-free.json) |
 | Dense forest | 282009 | [282009-dense-forest.json](./282009-dense-forest.json) |
 | Densetsu no Ogre Battle Gaiden: Zenobia no Ouji | 43975 | [43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json](./43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json) |
 | Densha de D: Burning Stage | 55923 | [55923-densha-de-d-burning-stage.json](./55923-densha-de-d-burning-stage.json) |
@@ -3928,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Konga Beat | 231646 | [231646-donkey-konga-beat.json](./231646-donkey-konga-beat.json) |
 | Donkey Konk | 231608 | [231608-donkey-konk.json](./231608-donkey-konk.json) |
 | Donkey Racing | 248057 | [248057-donkey-racing.json](./248057-donkey-racing.json) |
+| Donkey Xote | 61341 | [61341-donkey-xote.json](./61341-donkey-xote.json) |
 | Donkey.Bas | 19382 | [19382-donkey-bas.json](./19382-donkey-bas.json) |
 | Donki Hills | 358294 | [358294-donki-hills.json](./358294-donki-hills.json) |
 | Donna Brave: Paris Strangler | 104592 | [104592-donna-brave-paris-strangler.json](./104592-donna-brave-paris-strangler.json) |
@@ -4104,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doppelganger | 180112 | [180112-doppelganger.json](./180112-doppelganger.json) |
 | Doppelgänger | 275029 | [275029-doppelganger.json](./275029-doppelganger.json) |
 | Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
+| Doppelganger: Dawn of the Inverted Souls | 61306 | [61306-doppelganger-dawn-of-the-inverted-souls.json](./61306-doppelganger-dawn-of-the-inverted-souls.json) |
 | Doppelscape | 288228 | [288228-doppelscape.json](./288228-doppelscape.json) |
 | DoppelTest | 352746 | [352746-doppeltest.json](./352746-doppeltest.json) |
 | Doppleganger | 13606 | [13606-doppleganger.json](./13606-doppleganger.json) |
@@ -5908,6 +5911,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Düx | 12730 | [12730-dynamite-dux.json](./12730-dynamite-dux.json) |
 | Dynamite Flare | 293616 | [293616-dynamite-flare.json](./293616-dynamite-flare.json) |
 | Dynamite It! | 297087 | [297087-dynamite-it.json](./297087-dynamite-it.json) |
+| Dynamite Soccer 2000 | 61336 | [61336-dynamite-soccer-2000.json](./61336-dynamite-soccer-2000.json) |
+| Dynamite Soccer 2002 | 61340 | [61340-dynamite-soccer-2002.json](./61340-dynamite-soccer-2002.json) |
+| Dynamite Soccer 2004 Final | 61335 | [61335-dynamite-soccer-2004-final.json](./61335-dynamite-soccer-2004-final.json) |
+| Dynamite Soccer 98 | 61337 | [61337-dynamite-soccer-98.json](./61337-dynamite-soccer-98.json) |
 | Dynamo Frank | 413035 | [413035-dynamo-frank.json](./413035-dynamo-frank.json) |
 | Dynasty Legends: Warriors Unite | 240887 | [240887-dynasty-legends-warriors-unite.json](./240887-dynasty-legends-warriors-unite.json) |
 | Dynasty Warriors | 2982 | [2982-dynasty-warriors.json](./2982-dynasty-warriors.json) |
