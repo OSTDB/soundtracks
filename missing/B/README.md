@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Chef Brigade | 23689 | [23689-battle-chef-brigade.json](./23689-battle-chef-brigade.json) |
 | Battle Chef Brigade Deluxe | 111825 | [111825-battle-chef-brigade-deluxe.json](./111825-battle-chef-brigade-deluxe.json) |
 | Battle Chopper | 38542 | [38542-battle-chopper.json](./38542-battle-chopper.json) |
+| Battle Commanders | 36471 | [36471-battle-commanders.json](./36471-battle-commanders.json) |
 | Battle Craft | 257926 | [257926-battle-craft.json](./257926-battle-craft.json) |
 | Battle Cross | 40242 | [40242-battle-cross.json](./40242-battle-cross.json) |
 | Battle Cross | 95412 | [95412-battle-cross.json](./95412-battle-cross.json) |
@@ -2290,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Your Wall | 369593 | [369593-beyond-your-wall.json](./369593-beyond-your-wall.json) |
 | Beyond Zero Line | 386299 | [386299-beyond-zero-line.json](./386299-beyond-zero-line.json) |
 | Beyond: Fire & Ice | 386301 | [386301-beyond-fire-and-ice.json](./386301-beyond-fire-and-ice.json) |
+| Beyond: Light Advent - Collector's Edition | 36464 | [36464-beyond-light-advent-collectors-edition.json](./36464-beyond-light-advent-collectors-edition.json) |
 | BeYourCat | 309851 | [309851-beyourcat.json](./309851-beyourcat.json) |
 | BeZombie Anime Invasion | 261825 | [261825-bezombie-anime-invasion.json](./261825-bezombie-anime-invasion.json) |
 | BFDI: Branches | 305909 | [305909-bfdi-branches.json](./305909-bfdi-branches.json) |
@@ -2614,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biomes: Survival Era | 217412 | [217412-biomes-survival-era.json](./217412-biomes-survival-era.json) |
 | Biomisland | 199578 | [199578-biomisland.json](./199578-biomisland.json) |
 | Biomorph | 213287 | [213287-biomorph.json](./213287-biomorph.json) |
+| Bionic Attack | 36527 | [36527-bionic-attack.json](./36527-bionic-attack.json) |
 | Bionic Commando | 9242 | [9242-bionic-commando.json](./9242-bionic-commando.json) |
 | Bionic Dues | 9221 | [9221-bionic-dues.json](./9221-bionic-dues.json) |
 | Bionic Hunter VR | 127190 | [127190-bionic-hunter-vr.json](./127190-bionic-hunter-vr.json) |
@@ -3324,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobbins | 151745 | [151745-blobbins.json](./151745-blobbins.json) |
 | Blobbton | 315687 | [315687-blobbton.json](./315687-blobbton.json) |
 | Blobby Online | 58458 | [58458-blobby-online.json](./58458-blobby-online.json) |
+| Blobby Tennis | 36475 | [36475-blobby-tennis.json](./36475-blobby-tennis.json) |
 | Blobbz Online | 186144 | [186144-blobbz-online.json](./186144-blobbz-online.json) |
 | Blobert | 158598 | [158598-blobert.json](./158598-blobert.json) |
 | Blobi Sprint | 248291 | [248291-blobi-sprint.json](./248291-blobi-sprint.json) |
