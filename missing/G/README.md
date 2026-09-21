@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| G Prime into the Rain | 32201 | [32201-g-prime-into-the-rain.json](./32201-g-prime-into-the-rain.json) |
 | G Warrior | 278666 | [278666-g-warrior.json](./278666-g-warrior.json) |
 | G-Darius | 39691 | [39691-g-darius.json](./39691-g-darius.json) |
 | G-Dino's Jungle Adventure | 101630 | [101630-g-dinos-jungle-adventure.json](./101630-g-dinos-jungle-adventure.json) |
@@ -1261,12 +1262,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Suburb II: From Beyond Sleep into the Eyes of Madness | 124602 | [124602-ghost-suburb-ii-from-beyond-sleep-into-the-eyes-of-madness.json](./124602-ghost-suburb-ii-from-beyond-sleep-into-the-eyes-of-madness.json) |
 | Ghost Suburb Zero | 169884 | [169884-ghost-suburb-zero.json](./169884-ghost-suburb-zero.json) |
 | Ghost Survivors | 231947 | [231947-ghost-survivors.json](./231947-ghost-survivors.json) |
+| Ghost Sweeper | 32214 | [32214-ghost-sweeper.json](./32214-ghost-sweeper.json) |
 | Ghost Talker | 295768 | [295768-ghost-talker.json](./295768-ghost-talker.json) |
 | Ghost Teen Escape from Limbo | 300996 | [300996-ghost-teen-escape-from-limbo.json](./300996-ghost-teen-escape-from-limbo.json) |
 | Ghost Terminal | 307734 | [307734-ghost-terminal.json](./307734-ghost-terminal.json) |
 | Ghost Terminator | 173286 | [173286-ghost-terminator.json](./173286-ghost-terminator.json) |
 | Ghost Town Mine Ride & Shootin' Gallery | 33079 | [33079-ghost-town-mine-ride-and-shootin-gallery.json](./33079-ghost-town-mine-ride-and-shootin-gallery.json) |
 | Ghost Town: Dawn of War | 152317 | [152317-ghost-town-dawn-of-war.json](./152317-ghost-town-dawn-of-war.json) |
+| Ghost Train VR | 32260 | [32260-ghost-train-vr.json](./32260-ghost-train-vr.json) |
 | Ghost Trap | 208607 | [208607-ghost-trap.json](./208607-ghost-trap.json) |
 | Ghost Trap | 49599 | [49599-ghost-trap.json](./49599-ghost-trap.json) |
 | Ghost Vanguard | 264694 | [264694-ghost-vanguard.json](./264694-ghost-vanguard.json) |
@@ -2735,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity: Sylux's Crusade | 338822 | [338822-gravity-syluxs-crusade.json](./338822-gravity-syluxs-crusade.json) |
 | Gravity+ | 84530 | [84530-gravity.json](./84530-gravity.json) |
 | GravityBall | 409647 | [409647-gravityball.json](./409647-gravityball.json) |
+| GravPool | 32180 | [32180-gravpool.json](./32180-gravpool.json) |
 | Gravulse | 141882 | [141882-gravulse.json](./141882-gravulse.json) |
 | Gravv: Between Two Worlds | 195725 | [195725-gravv-between-two-worlds.json](./195725-gravv-between-two-worlds.json) |
 | GravytX The Gravytoid | 265734 | [265734-gravytx-the-gravytoid.json](./265734-gravytx-the-gravytoid.json) |
