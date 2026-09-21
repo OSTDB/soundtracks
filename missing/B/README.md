@@ -1470,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Hardline: Robbery | 18024 | [18024-battlefield-hardline-robbery.json](./18024-battlefield-hardline-robbery.json) |
 | Battlefield Hardline: Ultimate Edition | 52638 | [52638-battlefield-hardline-ultimate-edition.json](./52638-battlefield-hardline-ultimate-edition.json) |
 | Battlefield Mobile | 174893 | [174893-battlefield-mobile.json](./174893-battlefield-mobile.json) |
+| Battlefield Online | 353 | [353-battlefield-online.json](./353-battlefield-online.json) |
 | Battlefield Priest | 211427 | [211427-battlefield-priest.json](./211427-battlefield-priest.json) |
 | Battlefield REDSEC | 371393 | [371393-battlefield-redsec.json](./371393-battlefield-redsec.json) |
 | Battlefield: Bad Company 2 - Specact Kit Upgrade | 27654 | [27654-battlefield-bad-company-2-specact-kit-upgrade.json](./27654-battlefield-bad-company-2-specact-kit-upgrade.json) |
@@ -1486,6 +1487,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefront Trench Warriors: Ops of Warfare | 283294 | [283294-battlefront-trench-warriors-ops-of-warfare.json](./283294-battlefront-trench-warriors-ops-of-warfare.json) |
 | Battlegods CCG: Card Battle | 91104 | [91104-battlegods-ccg-card-battle.json](./91104-battlegods-ccg-card-battle.json) |
 | Battleground | 147923 | [147923-battleground.json](./147923-battleground.json) |
+| Battleground 3: Waterloo | 608 | [608-battleground-3-waterloo.json](./608-battleground-3-waterloo.json) |
+| Battleground 4: Shiloh | 609 | [609-battleground-4-shiloh.json](./609-battleground-4-shiloh.json) |
+| Battleground 5: Antietam | 610 | [610-battleground-5-antietam.json](./610-battleground-5-antietam.json) |
 | Battleground Collection 1 | 77287 | [77287-battleground-collection-1.json](./77287-battleground-collection-1.json) |
 | Battleground Fire Strike | 224096 | [224096-battleground-fire-strike.json](./224096-battleground-fire-strike.json) |
 | Battleground's Survivor: Battle Royale | 174853 | [174853-battlegrounds-survivor-battle-royale.json](./174853-battlegrounds-survivor-battle-royale.json) |
@@ -1513,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlerite Royale: All Champions Pack | 168365 | [168365-battlerite-royale-all-champions-pack.json](./168365-battlerite-royale-all-champions-pack.json) |
 | Battlers of Ekrasys | 339948 | [339948-battlers-of-ekrasys.json](./339948-battlers-of-ekrasys.json) |
 | Battles Game | 370135 | [370135-battles-game.json](./370135-battles-game.json) |
+| Battles in Normandy | 611 | [611-battles-in-normandy.json](./611-battles-in-normandy.json) |
 | Battles in Time | 69826 | [69826-battles-in-time.json](./69826-battles-in-time.json) |
 | Battles of Cardista | 356653 | [356653-battles-of-cardista.json](./356653-battles-of-cardista.json) |
 | Battles of the Ancient World III | 197344 | [197344-battles-of-the-ancient-world-iii.json](./197344-battles-of-the-ancient-world-iii.json) |
@@ -2446,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Ice Tower Tiny Square | 212887 | [212887-big-ice-tower-tiny-square.json](./212887-big-ice-tower-tiny-square.json) |
 | Big Ichigeki! Pachislot Daikouryaku: Universal Museum | 137596 | [137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json](./137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json) |
 | Big Journey to Home | 34803 | [34803-big-journey-to-home.json](./34803-big-journey-to-home.json) |
+| Big Kahuna Reef | 615 | [615-big-kahuna-reef.json](./615-big-kahuna-reef.json) |
 | Big Kahuna Reef 2: Chain Reaction | 205122 | [205122-big-kahuna-reef-2-chain-reaction.json](./205122-big-kahuna-reef-2-chain-reaction.json) |
 | Big Karnak | 39614 | [39614-big-karnak.json](./39614-big-karnak.json) |
 | Big Klondike: Classic Solitaire | 168335 | [168335-big-klondike-classic-solitaire.json](./168335-big-klondike-classic-solitaire.json) |
