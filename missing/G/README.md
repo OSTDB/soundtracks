@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates of Nowhere | 50892 | [50892-gates-of-nowhere.json](./50892-gates-of-nowhere.json) |
 | Gates of Osiris | 61899 | [61899-gates-of-osiris.json](./61899-gates-of-osiris.json) |
 | Gates of Yomi | 274480 | [274480-gates-of-yomi.json](./274480-gates-of-yomi.json) |
+| Gates of Zendocon | 6035 | [6035-gates-of-zendocon.json](./6035-gates-of-zendocon.json) |
 | Gates to Terra II | 126646 | [126646-gates-to-terra-ii.json](./126646-gates-to-terra-ii.json) |
 | Gatestriders | 365750 | [365750-gatestriders.json](./365750-gatestriders.json) |
 | Gateway to English: Eigo de Go! | 245313 | [245313-gateway-to-english-eigo-de-go.json](./245313-gateway-to-english-eigo-de-go.json) |
@@ -1462,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Zone | 66945 | [66945-girl-zone.json](./66945-girl-zone.json) |
 | Girl!Panic!!! | 415108 | [415108-girl-panic.json](./415108-girl-panic.json) |
 | Girl's Blossom Project: Unbelievable Real Love | 245022 | [245022-girls-blossom-project-unbelievable-real-love.json](./245022-girls-blossom-project-unbelievable-real-love.json) |
+| Girl's Garden | 6106 | [6106-girls-garden.json](./6106-girls-garden.json) |
 | Girl's Memories | 295569 | [295569-girls-memories.json](./295569-girls-memories.json) |
 | Girlfailure Art Club | 412374 | [412374-girlfailure-art-club.json](./412374-girlfailure-art-club.json) |
 | Girlfriend Cards | 106582 | [106582-girlfriend-cards.json](./106582-girlfriend-cards.json) |
@@ -2175,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golftacular! | 351646 | [351646-golftacular.json](./351646-golftacular.json) |
 | Golftroidvania | 360012 | [360012-golftroidvania.json](./360012-golftroidvania.json) |
 | Golful | 257991 | [257991-golful.json](./257991-golful.json) |
+| Golgo 13 | 6107 | [6107-golgo-13.json](./6107-golgo-13.json) |
 | Golgo 13: Carlyle no Yabou | 91931 | [91931-golgo-13-carlyle-no-yabou.json](./91931-golgo-13-carlyle-no-yabou.json) |
 | Golgo 13: File G-13 o Oe | 77335 | [77335-golgo-13-file-g-13-o-oe.json](./77335-golgo-13-file-g-13-o-oe.json) |
 | Golgo 13: Mienai Guntai | 91930 | [91930-golgo-13-mienai-guntai.json](./91930-golgo-13-mienai-guntai.json) |
@@ -2407,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
 | Goya's Inferno | 345601 | [345601-goyas-inferno.json](./345601-goyas-inferno.json) |
 | GP Fight | 92311 | [92311-gp-fight.json](./92311-gp-fight.json) |
+| GP World | 6108 | [6108-gp-world.json](./6108-gp-world.json) |
 | GP-1 Part II | 42591 | [42591-gp-1-part-ii.json](./42591-gp-1-part-ii.json) |
 | GraalOnline Era | 55842 | [55842-graalonline-era.json](./55842-graalonline-era.json) |
 | GraalOnline: Delteria | 82153 | [82153-graalonline-delteria.json](./82153-graalonline-delteria.json) |
@@ -3377,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gujian 3 | 113649 | [113649-gujian-3.json](./113649-gujian-3.json) |
 | Gulag | 268773 | [268773-gulag.json](./268773-gulag.json) |
 | Gulf of Aden - Task Force Somalia | 34370 | [34370-gulf-of-aden-task-force-somalia.json](./34370-gulf-of-aden-task-force-somalia.json) |
+| Gulkave | 6109 | [6109-gulkave.json](./6109-gulkave.json) |
 | Gull Kebap VR | 104058 | [104058-gull-kebap-vr.json](./104058-gull-kebap-vr.json) |
 | Gulman 3D | 199059 | [199059-gulman-3d.json](./199059-gulman-3d.json) |
 | Gǔlóng Chuánshuō | 155990 | [155990-gulong-chuanshuo.json](./155990-gulong-chuanshuo.json) |
