@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mirror Puzzle | 209705 | [209705-a-mirror-puzzle.json](./209705-a-mirror-puzzle.json) |
 | A Moderately Uncomfortable Night with Tux | 338711 | [338711-a-moderately-uncomfortable-night-with-tux.json](./338711-a-moderately-uncomfortable-night-with-tux.json) |
 | A Mole in a Hole | 211249 | [211249-a-mole-in-a-hole.json](./211249-a-mole-in-a-hole.json) |
+| A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
 | A Moth Argent | 135835 | [135835-a-moth-argent.json](./135835-a-moth-argent.json) |
 | A Mystic Journey With: Aria | 392957 | [392957-a-mystic-journey-with-aria.json](./392957-a-mystic-journey-with-aria.json) |
 | A Mystic Journey With: Nova | 392947 | [392947-a-mystic-journey-with-nova.json](./392947-a-mystic-journey-with-nova.json) |
@@ -354,9 +355,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Red Walking Robot | 276712 | [276712-a-red-walking-robot.json](./276712-a-red-walking-robot.json) |
 | A-Ressha de Ikou 4 | 98268 | [98268-a-ressha-de-ikou-4.json](./98268-a-ressha-de-ikou-4.json) |
 | A-Ressha de Ikou DS | 98272 | [98272-a-ressha-de-ikou-ds.json](./98272-a-ressha-de-ikou-ds.json) |
+| A-Ressha de Ikou: The 21st Century | 9999 | [9999-a-ressha-de-ikou-the-21st-century.json](./9999-a-ressha-de-ikou-the-21st-century.json) |
 | A-Sock-Ellipse Now! | 70077 | [70077-a-sock-ellipse-now.json](./70077-a-sock-ellipse-now.json) |
 | A-Train 9 Evolution | 388239 | [388239-a-train-9-evolution.json](./388239-a-train-9-evolution.json) |
 | A-Train 9 V3.0: Railway Simulator | 52560 | [52560-a-train-9-v3-0-railway-simulator.json](./52560-a-train-9-v3-0-railway-simulator.json) |
+| A-Train 9 Version 2.0: Professional Edition | 10003 | [10003-a-train-9-version-2-0-professional-edition.json](./10003-a-train-9-version-2-0-professional-edition.json) |
 | A-Train: City Simulator | 85874 | [85874-a-train-city-simulator.json](./85874-a-train-city-simulator.json) |
 | A-Train: Trains, Power, Money | 98269 | [98269-a-train-trains-power-money.json](./98269-a-train-trains-power-money.json) |
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
@@ -376,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A&E Crime Scene: AR | 95872 | [95872-a-and-e-crime-scene-ar.json](./95872-a-and-e-crime-scene-ar.json) |
 | A2 Racer III: Europa Tour | 44841 | [44841-a2-racer-iii-europa-tour.json](./44841-a2-racer-iii-europa-tour.json) |
 | A320 Airbus: Edition USA | 14595 | [14595-a320-airbus-edition-usa.json](./14595-a320-airbus-edition-usa.json) |
+| A6: A-Train 6 | 9997 | [9997-a6-a-train-6.json](./9997-a6-a-train-6.json) |
 | AAA Clock: Extreme Premium | 304762 | [304762-aaa-clock-extreme-premium.json](./304762-aaa-clock-extreme-premium.json) |
 | Aaaaaaaaaaaaaaaaaaaaaaaa!!! Remastered | 219696 | [219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json](./219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json) |
 | AaaaaAAaaaAAAaaAAAAaAAAAA!!!: Force = Mass x Acceleration | 39233 | [39233-aaaaaaaaaaaaaaaaaaaaaaaaa-force-mass-x-acceleration.json](./39233-aaaaaaaaaaaaaaaaaaaaaaaaa-force-mass-x-acceleration.json) |
@@ -1021,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahegal Seasons | 203381 | [203381-ahegal-seasons.json](./203381-ahegal-seasons.json) |
 | AHH!!! MazeZing | 158046 | [158046-ahh-mazezing.json](./158046-ahh-mazezing.json) |
 | Ahlgrens Bilspelet | 74070 | [74070-ahlgrens-bilspelet.json](./74070-ahlgrens-bilspelet.json) |
+| Ahriman's Prophecy | 10009 | [10009-ahrimans-prophecy.json](./10009-ahrimans-prophecy.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
 | AHTS Ship Simulator | 44207 | [44207-ahts-ship-simulator.json](./44207-ahts-ship-simulator.json) |
 | AI Battle Royale Generator | 148364 | [148364-ai-battle-royale-generator.json](./148364-ai-battle-royale-generator.json) |
@@ -1202,8 +1207,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Commander: A Real Flight Experience | 106598 | [106598-airline-commander-a-real-flight-experience.json](./106598-airline-commander-a-real-flight-experience.json) |
 | Airline Empire: Stewardess Simulator | 370786 | [370786-airline-empire-stewardess-simulator.json](./370786-airline-empire-stewardess-simulator.json) |
 | Airline Flight Attendant Simulator VR | 236016 | [236016-airline-flight-attendant-simulator-vr.json](./236016-airline-flight-attendant-simulator-vr.json) |
+| Airline Tycoon 2: Falcon Airlines | 9956 | [9956-airline-tycoon-2-falcon-airlines.json](./9956-airline-tycoon-2-falcon-airlines.json) |
 | Airline Tycoon 2: Falcon Lines | 52568 | [52568-airline-tycoon-2-falcon-lines.json](./52568-airline-tycoon-2-falcon-lines.json) |
 | Airline Tycoon 2: Gold Edition | 52569 | [52569-airline-tycoon-2-gold-edition.json](./52569-airline-tycoon-2-gold-edition.json) |
+| Airline Tycoon 2: Honey Airlines | 9959 | [9959-airline-tycoon-2-honey-airlines.json](./9959-airline-tycoon-2-honey-airlines.json) |
 | Airline Tycoon Deluxe | 11086 | [11086-airline-tycoon-deluxe.json](./11086-airline-tycoon-deluxe.json) |
 | Airlock Arena: Profit or Perish | 149453 | [149453-airlock-arena-profit-or-perish.json](./149453-airlock-arena-profit-or-perish.json) |
 | AirMech | 1365 | [1365-airmech.json](./1365-airmech.json) |
@@ -1229,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport CEO | 52524 | [52524-airport-ceo.json](./52524-airport-ceo.json) |
 | Airport CEO: Helicopters | 272868 | [272868-airport-ceo-helicopters.json](./272868-airport-ceo-helicopters.json) |
 | Airport Control 27 | 398961 | [398961-airport-control-27.json](./398961-airport-control-27.json) |
+| Airport Control Simulator | 9960 | [9960-airport-control-simulator.json](./9960-airport-control-simulator.json) |
 | Airport Firefighter Simulator 2013 | 87447 | [87447-airport-firefighter-simulator-2013.json](./87447-airport-firefighter-simulator-2013.json) |
 | Airport Flight Administrator Simulator & Air Traffic-Sky Airplane Sim Plane | 220873 | [220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json](./220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json) |
 | Airport Inspector | 382320 | [382320-airport-inspector.json](./382320-airport-inspector.json) |
@@ -1643,6 +1651,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Slayers | 233772 | [233772-alien-slayers.json](./233772-alien-slayers.json) |
 | Alien Space Bastards | 188688 | [188688-alien-space-bastards.json](./188688-alien-space-bastards.json) |
 | Alien SpaceCraft | 96773 | [96773-alien-spacecraft.json](./96773-alien-spacecraft.json) |
+| Alien Spidy: Between a Rock and a Hard Place | 9966 | [9966-alien-spidy-between-a-rock-and-a-hard-place.json](./9966-alien-spidy-between-a-rock-and-a-hard-place.json) |
+| Alien Spidy: Easy Breezy | 9967 | [9967-alien-spidy-easy-breezy.json](./9967-alien-spidy-easy-breezy.json) |
 | Alien Strike | 76228 | [76228-alien-strike.json](./76228-alien-strike.json) |
 | Alien Swarm: Reactive Drop | 27523 | [27523-alien-swarm-reactive-drop.json](./27523-alien-swarm-reactive-drop.json) |
 | Alien Swirl | 15594 | [15594-alien-swirl.json](./15594-alien-swirl.json) |
@@ -2158,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambulance Driver | 311816 | [311816-ambulance-driver.json](./311816-ambulance-driver.json) |
 | Ambulance Life: A Paramedic Simulator - Bay Side Expansion | 334668 | [334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json](./334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json) |
 | Ambulance Race | 221712 | [221712-ambulance-race.json](./221712-ambulance-race.json) |
+| Ambulance Simulator | 9973 | [9973-ambulance-simulator.json](./9973-ambulance-simulator.json) |
 | Ambush in Sector 9 | 311279 | [311279-ambush-in-sector-9.json](./311279-ambush-in-sector-9.json) |
 | Ambush Tactics | 61604 | [61604-ambush-tactics.json](./61604-ambush-tactics.json) |
 | Ambush Tactics Advanced | 256921 | [256921-ambush-tactics-advanced.json](./256921-ambush-tactics-advanced.json) |
@@ -2551,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelic Vale | 202376 | [202376-angelic-vale.json](./202376-angelic-vale.json) |
 | Angelic Waves | 176886 | [176886-angelic-waves.json](./176886-angelic-waves.json) |
 | Angelic Wishes | 223487 | [223487-angelic-wishes.json](./223487-angelic-wishes.json) |
+| Angelica Weaver: Catch Me When You Can | 9975 | [9975-angelica-weaver-catch-me-when-you-can.json](./9975-angelica-weaver-catch-me-when-you-can.json) |
 | Angeline Era | 252768 | [252768-angeline-era.json](./252768-angeline-era.json) |
 | Angelique Etoile | 72680 | [72680-angelique-etoile.json](./72680-angelique-etoile.json) |
 | Angelique Retour | 59958 | [59958-angelique-retour.json](./59958-angelique-retour.json) |
@@ -4120,6 +4132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsenic & Absinthe | 327191 | [327191-arsenic-and-absinthe.json](./327191-arsenic-and-absinthe.json) |
 | Arson | 223660 | [223660-arson.json](./223660-arson.json) |
 | Arson & Plunder: Unleashed | 36323 | [36323-arson-and-plunder-unleashed.json](./36323-arson-and-plunder-unleashed.json) |
+| Arson and Plunder | 9985 | [9985-arson-and-plunder.json](./9985-arson-and-plunder.json) |
 | ArsonVille | 25729 | [25729-arsonville.json](./25729-arsonville.json) |
 | Art Academy: First Semester | 79260 | [79260-art-academy-first-semester.json](./79260-art-academy-first-semester.json) |
 | Art Appreciation | 307736 | [307736-art-appreciation.json](./307736-art-appreciation.json) |
@@ -4970,6 +4983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attrition | 378197 | [378197-attrition.json](./378197-attrition.json) |
 | Atum | 128624 | [128624-atum.json](./128624-atum.json) |
 | ATV Bike Games | 294255 | [294255-atv-bike-games.json](./294255-atv-bike-games.json) |
+| ATV Fever | 10006 | [10006-atv-fever.json](./10006-atv-fever.json) |
 | ATV Madness | 88324 | [88324-atv-madness.json](./88324-atv-madness.json) |
 | ATV Offroad Fury 3 | 8271 | [8271-atv-offroad-fury-3.json](./8271-atv-offroad-fury-3.json) |
 | ATV Offroad Fury Pro | 8274 | [8274-atv-offroad-fury-pro.json](./8274-atv-offroad-fury-pro.json) |
@@ -5208,7 +5222,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avernum 5 | 16338 | [16338-avernum-5.json](./16338-avernum-5.json) |
 | Avert Fate | 63245 | [63245-avert-fate.json](./63245-avert-fate.json) |
 | Avery Cardoza's Casino 2000 | 78694 | [78694-avery-cardozas-casino-2000.json](./78694-avery-cardozas-casino-2000.json) |
+| Aveyond 1: Rhen's Quest | 10010 | [10010-aveyond-1-rhens-quest.json](./10010-aveyond-1-rhens-quest.json) |
+| Aveyond 2: Ean's Quest | 10011 | [10011-aveyond-2-eans-quest.json](./10011-aveyond-2-eans-quest.json) |
 | Aveyond 3-3: The Lost Orb | 36241 | [36241-aveyond-3-3-the-lost-orb.json](./36241-aveyond-3-3-the-lost-orb.json) |
+| Aveyond 3: Orbs of Magic - Chapter 1: Lord of Twilight | 10012 | [10012-aveyond-3-orbs-of-magic-chapter-1-lord-of-twilight.json](./10012-aveyond-3-orbs-of-magic-chapter-1-lord-of-twilight.json) |
+| Aveyond 3: Orbs of Magic - Chapter 2: Gates of Night | 10013 | [10013-aveyond-3-orbs-of-magic-chapter-2-gates-of-night.json](./10013-aveyond-3-orbs-of-magic-chapter-2-gates-of-night.json) |
+| Aveyond 3: Orbs of Magic - Chapter 3: The Lost Orb | 10014 | [10014-aveyond-3-orbs-of-magic-chapter-3-the-lost-orb.json](./10014-aveyond-3-orbs-of-magic-chapter-3-the-lost-orb.json) |
+| Aveyond 3: Orbs of Magic - Chapter 4: The Darkthrop Prophecy | 10015 | [10015-aveyond-3-orbs-of-magic-chapter-4-the-darkthrop-prophecy.json](./10015-aveyond-3-orbs-of-magic-chapter-4-the-darkthrop-prophecy.json) |
 | Avian | 177440 | [177440-avian.json](./177440-avian.json) |
 | Aviãozinho do tráfico 1: despacito 5 quem ler é arrombado 2 | 341879 | [341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json](./341879-aviaozinho-do-trafico-1-despacito-5-quem-ler-e-arrombado-2.json) |
 | Aviãozinho do tráfico 2: 3D resenha de pasta base de cocaína com Sorrizo Ronaldo | 341880 | [341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json](./341880-aviaozinho-do-trafico-2-3d-resenha-de-pasta-base-de-cocaina-com-sorrizo-ronaldo.json) |
