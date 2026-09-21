@@ -1790,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Breakfast | 33423 | [33423-champions-of-breakfast.json](./33423-champions-of-breakfast.json) |
 | Champions of Midgard | 111632 | [111632-champions-of-midgard.json](./111632-champions-of-midgard.json) |
 | Champions of Quortz | 249215 | [249215-champions-of-quortz.json](./249215-champions-of-quortz.json) |
+| Champions of Regnum | 16426 | [16426-champions-of-regnum.json](./16426-champions-of-regnum.json) |
 | Champions of Titan | 105082 | [105082-champions-of-titan.json](./105082-champions-of-titan.json) |
 | Champions Stable: Equestrian Dynasty | 386838 | [386838-champions-stable-equestrian-dynasty.json](./386838-champions-stable-equestrian-dynasty.json) |
 | Champions Tactics Reforged | 343807 | [343807-champions-tactics-reforged.json](./343807-champions-tactics-reforged.json) |
@@ -4484,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ContiTireRace 2: The Continental Racing Game | 261351 | [261351-contitirerace-2-the-continental-racing-game.json](./261351-contitirerace-2-the-continental-racing-game.json) |
 | Contorted | 274578 | [274578-contorted.json](./274578-contorted.json) |
 | Contra | 186226 | [186226-contra.json](./186226-contra.json) |
+| Contra 4 | 9545 | [9545-contra-4.json](./9545-contra-4.json) |
 | Contra Force | 24978 | [24978-contra-force.json](./24978-contra-force.json) |
 | Contra Run & Gun Bundle | 317236 | [317236-contra-run-and-gun-bundle.json](./317236-contra-run-and-gun-bundle.json) |
 | Contra Spirits | 242088 | [242088-contra-spirits.json](./242088-contra-spirits.json) |
