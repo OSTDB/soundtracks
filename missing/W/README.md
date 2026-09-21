@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Sweety | 127019 | [127019-west-sweety.json](./127019-west-sweety.json) |
 | West Water | 196822 | [196822-west-water.json](./196822-west-water.json) |
 | Westbound: Perils Ranch | 323325 | [323325-westbound-perils-ranch.json](./323325-westbound-perils-ranch.json) |
+| Westbound: Pioneer Adventure | 39170 | [39170-westbound-pioneer-adventure.json](./39170-westbound-pioneer-adventure.json) |
 | Westerlands: Girly runaways story | 147247 | [147247-westerlands-girly-runaways-story.json](./147247-westerlands-girly-runaways-story.json) |
 | Western Bank VR | 76678 | [76678-western-bank-vr.json](./76678-western-bank-vr.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
