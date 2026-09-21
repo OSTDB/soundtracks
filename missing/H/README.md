@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HangOutGame | 166755 | [166755-hangoutgame.json](./166755-hangoutgame.json) |
 | Hangover | 389994 | [389994-hangover.json](./389994-hangover.json) |
 | Hangoverse: Season 1 | 370755 | [370755-hangoverse-season-1.json](./370755-hangoverse-season-1.json) |
+| Hangry Bunnies From Mars | 54698 | [54698-hangry-bunnies-from-mars.json](./54698-hangry-bunnies-from-mars.json) |
 | Hangul Attack | 141664 | [141664-hangul-attack.json](./141664-hangul-attack.json) |
 | Hangzo | 141238 | [141238-hangzo.json](./141238-hangzo.json) |
 | Hanjuku Hero | 78948 | [78948-hanjuku-hero.json](./78948-hanjuku-hero.json) |
