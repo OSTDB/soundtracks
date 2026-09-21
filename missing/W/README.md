@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy | 5560 | [5560-wonder-boy.json](./5560-wonder-boy.json) |
 | Wonder Boy III: Monster Lair | 4481 | [4481-wonder-boy-iii-monster-lair.json](./4481-wonder-boy-iii-monster-lair.json) |
 | Wonder Boy in Monster World | 212866 | [212866-wonder-boy-in-monster-world.json](./212866-wonder-boy-in-monster-world.json) |
+| Wonder Boy in Monster World | 9540 | [9540-wonder-boy-in-monster-world.json](./9540-wonder-boy-in-monster-world.json) |
 | Wonder Boy: Anniversary Collection | 233787 | [233787-wonder-boy-anniversary-collection.json](./233787-wonder-boy-anniversary-collection.json) |
 | Wonder Boy: Asha in Monster World Collector's Edition | 147917 | [147917-wonder-boy-asha-in-monster-world-collectors-edition.json](./147917-wonder-boy-asha-in-monster-world-collectors-edition.json) |
 | Wonder Boy: Asha in Monster World Limited Edition | 147920 | [147920-wonder-boy-asha-in-monster-world-limited-edition.json](./147920-wonder-boy-asha-in-monster-world-limited-edition.json) |
