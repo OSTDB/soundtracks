@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthworm Jim 2 | 242099 | [242099-earthworm-jim-2.json](./242099-earthworm-jim-2.json) |
 | Earthworm Jim 2 | 242100 | [242100-earthworm-jim-2.json](./242100-earthworm-jim-2.json) |
 | Earthworm Jim 2 | 3481 | [3481-earthworm-jim-2.json](./3481-earthworm-jim-2.json) |
+| Earthworm Jim 3D | 3479 | [3479-earthworm-jim-3d.json](./3479-earthworm-jim-3d.json) |
 | Earthworm Jim Collection | 237402 | [237402-earthworm-jim-collection.json](./237402-earthworm-jim-collection.json) |
 | Earthworm Jim HD | 20420 | [20420-earthworm-jim-hd.json](./20420-earthworm-jim-hd.json) |
 | Earthworm Jim: Menace 2 the Galaxy | 3482 | [3482-earthworm-jim-menace-2-the-galaxy.json](./3482-earthworm-jim-menace-2-the-galaxy.json) |
@@ -1175,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Depths 2 RPG | 197784 | [197784-endless-depths-2-rpg.json](./197784-endless-depths-2-rpg.json) |
 | Endless Desert TD | 275340 | [275340-endless-desert-td.json](./275340-endless-desert-td.json) |
 | Endless Drive | 234610 | [234610-endless-drive.json](./234610-endless-drive.json) |
+| Endless Dungeon | 109970 | [109970-endless-dungeon.json](./109970-endless-dungeon.json) |
 | Endless Escape | 38912 | [38912-endless-escape.json](./38912-endless-escape.json) |
 | Endless Evolution | 390641 | [390641-endless-evolution.json](./390641-endless-evolution.json) |
 | Endless Fables 3: Dark Moor | 105085 | [105085-endless-fables-3-dark-moor.json](./105085-endless-fables-3-dark-moor.json) |
@@ -2363,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvoGene | 248314 | [248314-evogene.json](./248314-evogene.json) |
 | Evoids | 331434 | [331434-evoids.json](./331434-evoids.json) |
 | Evoker's Gambit | 333361 | [333361-evokers-gambit.json](./333361-evokers-gambit.json) |
+| Evoland Legendary Edition | 114910 | [114910-evoland-legendary-edition.json](./114910-evoland-legendary-edition.json) |
 | EvoLife | 323744 | [323744-evolife.json](./323744-evolife.json) |
 | Evolings | 181255 | [181255-evolings.json](./181255-evolings.json) |
 | Evolit | 346152 | [346152-evolit.json](./346152-evolit.json) |
