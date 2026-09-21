@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaizo Mario Galaxy | 249454 | [249454-kaizo-mario-galaxy.json](./249454-kaizo-mario-galaxy.json) |
 | Kaizo Mario Galaxy: Rebalanced | 262668 | [262668-kaizo-mario-galaxy-rebalanced.json](./262668-kaizo-mario-galaxy-rebalanced.json) |
 | Kaizo Mario World | 132654 | [132654-kaizo-mario-world.json](./132654-kaizo-mario-world.json) |
+| Kaizoku Sentai Gokaiger: Atsumete Henshin! 35 Sentai | 63580 | [63580-kaizoku-sentai-gokaiger-atsumete-henshin-35-sentai.json](./63580-kaizoku-sentai-gokaiger-atsumete-henshin-35-sentai.json) |
 | Kaizou Choujin Schbibinman | 42052 | [42052-kaizou-choujin-schbibinman.json](./42052-kaizou-choujin-schbibinman.json) |
 | Kajiri Kamui Kagura | 63822 | [63822-kajiri-kamui-kagura.json](./63822-kajiri-kamui-kagura.json) |
 | Kajko i Kokosz | 93588 | [93588-kajko-i-kokosz.json](./93588-kajko-i-kokosz.json) |
@@ -1683,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korekiyo's Epic Quest for Pussy | 272851 | [272851-korekiyos-epic-quest-for-pussy.json](./272851-korekiyos-epic-quest-for-pussy.json) |
 | Korg DS-10 | 73009 | [73009-korg-ds-10.json](./73009-korg-ds-10.json) |
 | KORG Gadget | 77537 | [77537-korg-gadget.json](./77537-korg-gadget.json) |
+| Korg M01 | 63564 | [63564-korg-m01.json](./63564-korg-m01.json) |
 | Kori DRoP | 234591 | [234591-kori-drop.json](./234591-kori-drop.json) |
 | Kori's Fable Visual Novel | 232442 | [232442-koris-fable-visual-novel.json](./232442-koris-fable-visual-novel.json) |
 | Korin's Mines | 323167 | [323167-korins-mines.json](./323167-korins-mines.json) |
