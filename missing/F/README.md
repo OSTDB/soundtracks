@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Zero: Falcon Densetsu e+ - Silence: Kamitoba | 329551 | [329551-f-zero-falcon-densetsu-e-silence-kamitoba.json](./329551-f-zero-falcon-densetsu-e-silence-kamitoba.json) |
 | F-Zero: Falcon Densetsu e+ - Twin Noritta | 329559 | [329559-f-zero-falcon-densetsu-e-twin-noritta.json](./329559-f-zero-falcon-densetsu-e-twin-noritta.json) |
 | F-Zero: Falcon Densetsu e+ - White Land: Yeti Foot | 329553 | [329553-f-zero-falcon-densetsu-e-white-land-yeti-foot.json](./329553-f-zero-falcon-densetsu-e-white-land-yeti-foot.json) |
+| F-Zero: GP Legend | 3493 | [3493-f-zero-gp-legend.json](./3493-f-zero-gp-legend.json) |
 | F.A Cup Football | 93372 | [93372-f-a-cup-football.json](./93372-f-a-cup-football.json) |
 | F.A.G.E.N. | 413041 | [413041-f-a-g-e-n.json](./413041-f-a-g-e-n.json) |
 | F.E.A.R. 3 | 514 | [514-f-e-a-r-3.json](./514-f-e-a-r-3.json) |
@@ -290,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faith & Shield: Tower Defense - Space Wars Game 2022 | 209694 | [209694-faith-and-shield-tower-defense-space-wars-game-2022.json](./209694-faith-and-shield-tower-defense-space-wars-game-2022.json) |
 | Faith Fighter 2 | 64375 | [64375-faith-fighter-2.json](./64375-faith-fighter-2.json) |
 | Faith of the Guardians | 65743 | [65743-faith-of-the-guardians.json](./65743-faith-of-the-guardians.json) |
+| Faith: The Unholy Trinity | 125171 | [125171-faith-the-unholy-trinity.json](./125171-faith-the-unholy-trinity.json) |
 | Faithfall | 401662 | [401662-faithfall.json](./401662-faithfall.json) |
 | Faithful Backrooms | 212883 | [212883-faithful-backrooms.json](./212883-faithful-backrooms.json) |
 | Fake Block | 96711 | [96711-fake-block.json](./96711-fake-block.json) |
