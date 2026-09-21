@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromanicide | 271734 | [271734-necromanicide.json](./271734-necromanicide.json) |
 | NecroMarch | 415899 | [415899-necromarch.json](./415899-necromarch.json) |
 | NecroMerger | 200549 | [200549-necromerger.json](./200549-necromerger.json) |
+| Necromonads | 34743 | [34743-necromonads.json](./34743-necromonads.json) |
 | Necromunda: Underhive Wars | 26846 | [26846-necromunda-underhive-wars.json](./26846-necromunda-underhive-wars.json) |
 | Necromunda: Underhive Wars - Cawdor Gang | 162858 | [162858-necromunda-underhive-wars-cawdor-gang.json](./162858-necromunda-underhive-wars-cawdor-gang.json) |
 | Necromunda: Underhive Wars - Van Saar Gang | 162857 | [162857-necromunda-underhive-wars-van-saar-gang.json](./162857-necromunda-underhive-wars-van-saar-gang.json) |
@@ -1479,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightbanes | 9518 | [9518-nightbanes.json](./9518-nightbanes.json) |
 | Nightbird Society | 196309 | [196309-nightbird-society.json](./196309-nightbird-society.json) |
 | Nightboarder | 179031 | [179031-nightboarder.json](./179031-nightboarder.json) |
+| Nightclub Emporium | 34788 | [34788-nightclub-emporium.json](./34788-nightclub-emporium.json) |
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
 | Nightclub Royale: Let's Party! | 254608 | [254608-nightclub-royale-lets-party.json](./254608-nightclub-royale-lets-party.json) |
 | Nightcrawler VR Bowling | 37400 | [37400-nightcrawler-vr-bowling.json](./37400-nightcrawler-vr-bowling.json) |
@@ -2315,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Antarctica | 213605 | [213605-nova-antarctica.json](./213605-nova-antarctica.json) |
 | Nova Assault | 389402 | [389402-nova-assault.json](./389402-nova-assault.json) |
 | Nova Battles | 205584 | [205584-nova-battles.json](./205584-nova-battles.json) |
+| Nova Blitz | 34801 | [34801-nova-blitz.json](./34801-nova-blitz.json) |
 | Nova Chasers | 397094 | [397094-nova-chasers.json](./397094-nova-chasers.json) |
 | Nova City Original | 230270 | [230270-nova-city-original.json](./230270-nova-city-original.json) |
 | Nova Core Chaos | 286105 | [286105-nova-core-chaos.json](./286105-nova-core-chaos.json) |
