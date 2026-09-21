@@ -3130,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dismantled Director's Cut | 201695 | [201695-dismantled-directors-cut.json](./201695-dismantled-directors-cut.json) |
 | Dismaya | 180694 | [180694-dismaya.json](./180694-dismaya.json) |
 | Disney 100 | 275590 | [275590-disney-100.json](./275590-disney-100.json) |
+| Disney City Girl | 62415 | [62415-disney-city-girl.json](./62415-disney-city-girl.json) |
 | Disney Classic Games: Aladdin and The Lion King | 122082 | [122082-disney-classic-games-aladdin-and-the-lion-king.json](./122082-disney-classic-games-aladdin-and-the-lion-king.json) |
 | Disney Classic Games: Aladdin and The Lion King - The Jungle Book and More Aladdin Pack | 204668 | [204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json](./204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json) |
 | Disney Classics: Master Mouse - Show Time Quiz | 228447 | [228447-disney-classics-master-mouse-show-time-quiz.json](./228447-disney-classics-master-mouse-show-time-quiz.json) |
@@ -3609,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Ace Attorney | 314043 | [314043-doki-doki-ace-attorney.json](./314043-doki-doki-ace-attorney.json) |
 | Doki Doki Another Moment With You | 333604 | [333604-doki-doki-another-moment-with-you.json](./333604-doki-doki-another-moment-with-you.json) |
 | Doki Doki Brazilian Club Puts! | 332837 | [332837-doki-doki-brazilian-club-puts.json](./332837-doki-doki-brazilian-club-puts.json) |
+| Doki Doki Card League | 62429 | [62429-doki-doki-card-league.json](./62429-doki-doki-card-league.json) |
 | Doki Doki Carpe Diem: Somnium | 333622 | [333622-doki-doki-carpe-diem-somnium.json](./333622-doki-doki-carpe-diem-somnium.json) |
 | Doki Doki Chefs | 185083 | [185083-doki-doki-chefs.json](./185083-doki-doki-chefs.json) |
 | Doki Doki Corrupted Files | 259649 | [259649-doki-doki-corrupted-files.json](./259649-doki-doki-corrupted-files.json) |
