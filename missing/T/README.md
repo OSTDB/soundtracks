@@ -1082,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Sonic Racing | 103018 | [103018-team-sonic-racing.json](./103018-team-sonic-racing.json) |
 | Team Umizoomi | 47958 | [47958-team-umizoomi.json](./47958-team-umizoomi.json) |
 | Team Umizoomi: Umi City Heroes! | 230405 | [230405-team-umizoomi-umi-city-heroes.json](./230405-team-umizoomi-umi-city-heroes.json) |
+| Team USA Basketball | 46260 | [46260-team-usa-basketball.json](./46260-team-usa-basketball.json) |
 | Team Xtreme: Operation Weather Disaster | 70983 | [70983-team-xtreme-operation-weather-disaster.json](./70983-team-xtreme-operation-weather-disaster.json) |
 | Team Yankee | 15382 | [15382-team-yankee.json](./15382-team-yankee.json) |
 | Team:Cars | 138238 | [138238-team-cars.json](./138238-team-cars.json) |
@@ -1139,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Bowl NCAA 2017 | 48895 | [48895-tecmo-bowl-ncaa-2017.json](./48895-tecmo-bowl-ncaa-2017.json) |
 | Tecmo Bowl: Kickoff | 264889 | [264889-tecmo-bowl-kickoff.json](./264889-tecmo-bowl-kickoff.json) |
 | Tecmo Stackers | 43939 | [43939-tecmo-stackers.json](./43939-tecmo-stackers.json) |
+| Tecmo Super Baseball | 46246 | [46246-tecmo-super-baseball.json](./46246-tecmo-super-baseball.json) |
 | Tecmo Super Bowl | 237471 | [237471-tecmo-super-bowl.json](./237471-tecmo-super-bowl.json) |
 | Tecmo Super Bowl 2015 | 48896 | [48896-tecmo-super-bowl-2015.json](./48896-tecmo-super-bowl-2015.json) |
 | Tecmo Super Bowl 2016 | 48899 | [48899-tecmo-super-bowl-2016.json](./48899-tecmo-super-bowl-2016.json) |
@@ -7958,6 +7960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNM | 100227 | [100227-tnm.json](./100227-tnm.json) |
 | TNN Bass Tournament of Champions | 46592 | [46592-tnn-bass-tournament-of-champions.json](./46592-tnn-bass-tournament-of-champions.json) |
 | TNN Motorsports Hardcore 4X4 | 20718 | [20718-tnn-motorsports-hardcore-4x4.json](./20718-tnn-motorsports-hardcore-4x4.json) |
+| TNN Outdoors Bass Tournament '96 | 46244 | [46244-tnn-outdoors-bass-tournament-96.json](./46244-tnn-outdoors-bass-tournament-96.json) |
 | TNN Outdoors Pro Hunter | 23150 | [23150-tnn-outdoors-pro-hunter.json](./23150-tnn-outdoors-pro-hunter.json) |
 | TNT 2: Devilution | 280913 | [280913-tnt-2-devilution.json](./280913-tnt-2-devilution.json) |
 | TNT Goes Boom! | 269661 | [269661-tnt-goes-boom.json](./269661-tnt-goes-boom.json) |
@@ -8627,6 +8630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Extreme Wrestling 2004 | 73008 | [73008-total-extreme-wrestling-2004.json](./73008-total-extreme-wrestling-2004.json) |
 | Total Extreme Wrestling 2008 | 73010 | [73010-total-extreme-wrestling-2008.json](./73010-total-extreme-wrestling-2008.json) |
 | Total Extreme Wrestling 2016 | 27681 | [27681-total-extreme-wrestling-2016.json](./27681-total-extreme-wrestling-2016.json) |
+| Total Football | 46184 | [46184-total-football.json](./46184-total-football.json) |
 | Total Football Online | 406683 | [406683-total-football-online.json](./406683-total-football-online.json) |
 | Total Incremental Battle | 390134 | [390134-total-incremental-battle.json](./390134-total-incremental-battle.json) |
 | Total Miner | 77339 | [77339-total-miner.json](./77339-total-miner.json) |
@@ -9935,6 +9939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traxion | 257688 | [257688-traxion.json](./257688-traxion.json) |
 | TraxWorld | 190167 | [190167-traxworld.json](./190167-traxworld.json) |
 | Tray Racers! | 204540 | [204540-tray-racers.json](./204540-tray-racers.json) |
+| Traysia | 46259 | [46259-traysia.json](./46259-traysia.json) |
 | Trazz | 173185 | [173185-trazz.json](./173185-trazz.json) |
 | Treachery | 277292 | [277292-treachery.json](./277292-treachery.json) |
 | Treachery in Beatdown City: U.N. Trouble | 272568 | [272568-treachery-in-beatdown-city-u-n-trouble.json](./272568-treachery-in-beatdown-city-u-n-trouble.json) |
@@ -10210,6 +10215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Header Sports | 220127 | [220127-triple-header-sports.json](./220127-triple-header-sports.json) |
 | Triple Jump | 247050 | [247050-triple-jump.json](./247050-triple-jump.json) |
 | Triple Jumping Sports | 85453 | [85453-triple-jumping-sports.json](./85453-triple-jumping-sports.json) |
+| Triple Play 96 | 46245 | [46245-triple-play-96.json](./46245-triple-play-96.json) |
 | Triple Play 97 | 20649 | [20649-triple-play-97.json](./20649-triple-play-97.json) |
 | Triple Play 98 | 20813 | [20813-triple-play-98.json](./20813-triple-play-98.json) |
 | Triple Running Sports | 85460 | [85460-triple-running-sports.json](./85460-triple-running-sports.json) |
@@ -10812,6 +10818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinkle Crusaders GoGo! | 59417 | [59417-twinkle-crusaders-gogo.json](./59417-twinkle-crusaders-gogo.json) |
 | Twinkle Knights | 39016 | [39016-twinkle-knights.json](./39016-twinkle-knights.json) |
 | Twinkle Star Sprites | 35378 | [35378-twinkle-star-sprites.json](./35378-twinkle-star-sprites.json) |
+| Twinkle Tale | 46179 | [46179-twinkle-tale.json](./46179-twinkle-tale.json) |
 | Twinkle Yohane | 405501 | [405501-twinkle-yohane.json](./405501-twinkle-yohane.json) |
 | Twinora | 126636 | [126636-twinora.json](./126636-twinora.json) |
 | Twins Dash | 200028 | [200028-twins-dash.json](./200028-twins-dash.json) |
