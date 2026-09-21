@@ -4495,6 +4495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra Force | 24978 | [24978-contra-force.json](./24978-contra-force.json) |
 | Contra Run & Gun Bundle | 317236 | [317236-contra-run-and-gun-bundle.json](./317236-contra-run-and-gun-bundle.json) |
 | Contra Spirits | 242088 | [242088-contra-spirits.json](./242088-contra-spirits.json) |
+| Contra: Rogue Corps | 119385 | [119385-contra-rogue-corps.json](./119385-contra-rogue-corps.json) |
 | Contra: The War of the Worlds | 216358 | [216358-contra-the-war-of-the-worlds.json](./216358-contra-the-war-of-the-worlds.json) |
 | Contract Bridge Solo | 398415 | [398415-contract-bridge-solo.json](./398415-contract-bridge-solo.json) |
 | Contract Cooks | 403578 | [403578-contract-cooks.json](./403578-contract-cooks.json) |
