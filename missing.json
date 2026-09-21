@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T14:33:18.941Z",
-  "total_missing": 102221,
+  "generated_at": "2026-09-21T14:47:55.337Z",
+  "total_missing": 102271,
   "games": [
     {
       "igdb_id": 176875,
@@ -3181,6 +3181,11 @@
       "igdb_id": 312887,
       "game_name": "3x3",
       "file": "missing/0-9/312887-3x3.json"
+    },
+    {
+      "igdb_id": 15886,
+      "game_name": "3x3 Eyes: Seima Kourin-den",
+      "file": "missing/0-9/15886-3x3-eyes-seima-kourin-den.json"
     },
     {
       "igdb_id": 249269,
@@ -10768,6 +10773,11 @@
       "file": "missing/A/265971-akazukin-cha-cha-cha.json"
     },
     {
+      "igdb_id": 15887,
+      "game_name": "Akazukin Cha-cha",
+      "file": "missing/A/15887-akazukin-cha-cha.json"
+    },
+    {
       "igdb_id": 228473,
       "game_name": "Akazukin Cha-cha",
       "file": "missing/A/228473-akazukin-cha-cha.json"
@@ -11216,6 +11226,11 @@
       "igdb_id": 51510,
       "game_name": "Albert Mort: Desert Heat",
       "file": "missing/A/51510-albert-mort-desert-heat.json"
+    },
+    {
+      "igdb_id": 15889,
+      "game_name": "Albert Odyssey",
+      "file": "missing/A/15889-albert-odyssey.json"
     },
     {
       "igdb_id": 38346,
@@ -16403,6 +16418,11 @@
       "file": "missing/A/192835-ancient-islands.json"
     },
     {
+      "igdb_id": 15892,
+      "game_name": "Ancient Magic: Bazuu! Mahou Sekai",
+      "file": "missing/A/15892-ancient-magic-bazuu-mahou-sekai.json"
+    },
+    {
       "igdb_id": 267370,
       "game_name": "Ancient Mahjong",
       "file": "missing/A/267370-ancient-mahjong.json"
@@ -17066,6 +17086,11 @@
       "igdb_id": 396218,
       "game_name": "Angle",
       "file": "missing/A/396218-angle.json"
+    },
+    {
+      "igdb_id": 16064,
+      "game_name": "Angle of Attack",
+      "file": "missing/A/16064-angle-of-attack.json"
     },
     {
       "igdb_id": 386681,
@@ -22283,6 +22308,11 @@
       "file": "missing/A/243694-arcana-heart.json"
     },
     {
+      "igdb_id": 15865,
+      "game_name": "Arcana Heart 2",
+      "file": "missing/A/15865-arcana-heart-2.json"
+    },
+    {
       "igdb_id": 91422,
       "game_name": "Arcana Ritter",
       "file": "missing/A/91422-arcana-ritter.json"
@@ -23428,9 +23458,19 @@
       "file": "missing/A/137076-aretha-ii.json"
     },
     {
+      "igdb_id": 15896,
+      "game_name": "Aretha II: Ariel no Fushigi na Tabi",
+      "file": "missing/A/15896-aretha-ii-ariel-no-fushigi-na-tabi.json"
+    },
+    {
       "igdb_id": 71777,
       "game_name": "Aretha III",
       "file": "missing/A/71777-aretha-iii.json"
+    },
+    {
+      "igdb_id": 15895,
+      "game_name": "Aretha the Super Famicom",
+      "file": "missing/A/15895-aretha-the-super-famicom.json"
     },
     {
       "igdb_id": 125391,
@@ -23886,6 +23926,21 @@
       "igdb_id": 130876,
       "game_name": "Arm Joe",
       "file": "missing/A/130876-arm-joe.json"
+    },
+    {
+      "igdb_id": 15869,
+      "game_name": "Arma 2: Army of the Czech Republic",
+      "file": "missing/A/15869-arma-2-army-of-the-czech-republic.json"
+    },
+    {
+      "igdb_id": 15867,
+      "game_name": "Arma 2: British Armed Forces",
+      "file": "missing/A/15867-arma-2-british-armed-forces.json"
+    },
+    {
+      "igdb_id": 15868,
+      "game_name": "Arma 2: Private Military Company",
+      "file": "missing/A/15868-arma-2-private-military-company.json"
     },
     {
       "igdb_id": 234181,
@@ -33071,6 +33126,11 @@
       "igdb_id": 65745,
       "game_name": "Bakuman: Mangaka he no Michi",
       "file": "missing/B/65745-bakuman-mangaka-he-no-michi.json"
+    },
+    {
+      "igdb_id": 15897,
+      "game_name": "Bakumatsu Kourinden Oni",
+      "file": "missing/B/15897-bakumatsu-kourinden-oni.json"
     },
     {
       "igdb_id": 122864,
@@ -69918,6 +69978,11 @@
       "file": "missing/C/335328-chaos-hero.json"
     },
     {
+      "igdb_id": 15873,
+      "game_name": "Chaos In Andromeda",
+      "file": "missing/C/15873-chaos-in-andromeda.json"
+    },
+    {
       "igdb_id": 296395,
       "game_name": "Chaos Islands",
       "file": "missing/C/296395-chaos-islands.json"
@@ -70516,6 +70581,11 @@
       "igdb_id": 306678,
       "game_name": "ChatTDT: Tower Defense Twitch",
       "file": "missing/C/306678-chattdt-tower-defense-twitch.json"
+    },
+    {
+      "igdb_id": 15874,
+      "game_name": "CHE: Guerrilla In Bolivia",
+      "file": "missing/C/15874-che-guerrilla-in-bolivia.json"
     },
     {
       "igdb_id": 153984,
@@ -71333,6 +71403,21 @@
       "file": "missing/C/343921-chessmaster.json"
     },
     {
+      "igdb_id": 15880,
+      "game_name": "Chessmaster 7000",
+      "file": "missing/C/15880-chessmaster-7000.json"
+    },
+    {
+      "igdb_id": 15881,
+      "game_name": "Chessmaster 8000",
+      "file": "missing/C/15881-chessmaster-8000.json"
+    },
+    {
+      "igdb_id": 15882,
+      "game_name": "Chessmaster 9000",
+      "file": "missing/C/15882-chessmaster-9000.json"
+    },
+    {
       "igdb_id": 344953,
       "game_name": "Chessmaster Live: Calvert Chess Set",
       "file": "missing/C/344953-chessmaster-live-calvert-chess-set.json"
@@ -71366,6 +71451,11 @@
       "igdb_id": 347213,
       "game_name": "Chessmaster Live: Pyramids Chess Set",
       "file": "missing/C/347213-chessmaster-live-pyramids-chess-set.json"
+    },
+    {
+      "igdb_id": 15884,
+      "game_name": "Chessmaster: Grandmaster Edition",
+      "file": "missing/C/15884-chessmaster-grandmaster-edition.json"
     },
     {
       "igdb_id": 20777,
@@ -72391,6 +72481,11 @@
       "igdb_id": 233783,
       "game_name": "Chinese Expeditionary Force: Assault Team",
       "file": "missing/C/233783-chinese-expeditionary-force-assault-team.json"
+    },
+    {
+      "igdb_id": 15885,
+      "game_name": "Chinese Karate",
+      "file": "missing/C/15885-chinese-karate.json"
     },
     {
       "igdb_id": 158166,
@@ -82058,6 +82153,11 @@
       "file": "missing/C/69884-conflict-middle-east.json"
     },
     {
+      "igdb_id": 15917,
+      "game_name": "Conflict: Middle East - Arab/Israeli Wars: 1973-?",
+      "file": "missing/C/15917-conflict-middle-east-arab-israeli-wars-1973.json"
+    },
+    {
       "igdb_id": 190087,
       "game_name": "ConflictCraft 2",
       "file": "missing/C/190087-conflictcraft-2.json"
@@ -84278,6 +84378,11 @@
       "file": "missing/C/275873-cosmic-blastards.json"
     },
     {
+      "igdb_id": 15918,
+      "game_name": "Cosmic Bouncer",
+      "file": "missing/C/15918-cosmic-bouncer.json"
+    },
+    {
       "igdb_id": 80556,
       "game_name": "Cosmic Break",
       "file": "missing/C/80556-cosmic-break.json"
@@ -84941,6 +85046,11 @@
       "igdb_id": 109040,
       "game_name": "Count Downula",
       "file": "missing/C/109040-count-downula.json"
+    },
+    {
+      "igdb_id": 15919,
+      "game_name": "Count Duckula 2: Featuring Tremendous Terence",
+      "file": "missing/C/15919-count-duckula-2-featuring-tremendous-terence.json"
     },
     {
       "igdb_id": 110135,
@@ -88908,6 +89018,11 @@
       "file": "missing/C/34196-crossbow-warrior-the-legend-of-william-tell.json"
     },
     {
+      "igdb_id": 15920,
+      "game_name": "CrossCheck",
+      "file": "missing/C/15920-crosscheck.json"
+    },
+    {
       "igdb_id": 321118,
       "game_name": "Crossclimb",
       "file": "missing/C/321118-crossclimb.json"
@@ -90406,6 +90521,11 @@
       "igdb_id": 316058,
       "game_name": "Crystal Guardians",
       "file": "missing/C/316058-crystal-guardians.json"
+    },
+    {
+      "igdb_id": 15921,
+      "game_name": "Crystal Hammer",
+      "file": "missing/C/15921-crystal-hammer.json"
     },
     {
       "igdb_id": 174729,
@@ -93241,6 +93361,16 @@
       "igdb_id": 72342,
       "game_name": "CyberClub-2077",
       "file": "missing/C/72342-cyberclub-2077.json"
+    },
+    {
+      "igdb_id": 15923,
+      "game_name": "Cybercon",
+      "file": "missing/C/15923-cybercon.json"
+    },
+    {
+      "igdb_id": 15922,
+      "game_name": "Cybercon II",
+      "file": "missing/C/15922-cybercon-ii.json"
     },
     {
       "igdb_id": 287115,
@@ -96421,6 +96551,11 @@
       "igdb_id": 339365,
       "game_name": "Dark Jump: Endless Ascent",
       "file": "missing/D/339365-dark-jump-endless-ascent.json"
+    },
+    {
+      "igdb_id": 15898,
+      "game_name": "Dark Law: Meaning of Death",
+      "file": "missing/D/15898-dark-law-meaning-of-death.json"
     },
     {
       "igdb_id": 279134,
@@ -107038,6 +107173,11 @@
       "file": "missing/D/374597-diapause.json"
     },
     {
+      "igdb_id": 16069,
+      "game_name": "Diaper Dash",
+      "file": "missing/D/16069-diaper-dash.json"
+    },
+    {
       "igdb_id": 159891,
       "game_name": "Diarrhea Don",
       "file": "missing/D/159891-diarrhea-don.json"
@@ -115258,6 +115398,11 @@
       "file": "missing/D/203936-dorfs-hammers-for-hire.json"
     },
     {
+      "igdb_id": 15855,
+      "game_name": "Doriath",
+      "file": "missing/D/15855-doriath.json"
+    },
+    {
       "igdb_id": 63573,
       "game_name": "Doritos Crash Course Go!",
       "file": "missing/D/63573-doritos-crash-course-go.json"
@@ -117838,6 +117983,11 @@
       "file": "missing/D/218553-dragon-run-classic.json"
     },
     {
+      "igdb_id": 15888,
+      "game_name": "Dragon Saga",
+      "file": "missing/D/15888-dragon-saga.json"
+    },
+    {
       "igdb_id": 122988,
       "game_name": "Dragon Side II: The Twisted Speare",
       "file": "missing/D/122988-dragon-side-ii-the-twisted-speare.json"
@@ -118896,6 +119046,11 @@
       "igdb_id": 50501,
       "game_name": "Dream Chronicles: The Book of Air",
       "file": "missing/D/50501-dream-chronicles-the-book-of-air.json"
+    },
+    {
+      "igdb_id": 16071,
+      "game_name": "Dream Chronicles: The Chosen Child",
+      "file": "missing/D/16071-dream-chronicles-the-chosen-child.json"
     },
     {
       "igdb_id": 256352,
@@ -121241,6 +121396,16 @@
       "igdb_id": 3477,
       "game_name": "Dual Heroes",
       "file": "missing/D/3477-dual-heroes.json"
+    },
+    {
+      "igdb_id": 15906,
+      "game_name": "Dual Orb",
+      "file": "missing/D/15906-dual-orb.json"
+    },
+    {
+      "igdb_id": 15907,
+      "game_name": "Dual Orb II",
+      "file": "missing/D/15907-dual-orb-ii.json"
     },
     {
       "igdb_id": 201857,
@@ -127111,6 +127276,11 @@
       "igdb_id": 116818,
       "game_name": "Eidolons: Nethergate",
       "file": "missing/E/116818-eidolons-nethergate.json"
+    },
+    {
+      "igdb_id": 15899,
+      "game_name": "Eien no Filena",
+      "file": "missing/E/15899-eien-no-filena.json"
     },
     {
       "igdb_id": 372564,
@@ -149191,6 +149361,11 @@
       "igdb_id": 217551,
       "game_name": "Fitness Boxing Fist of the North Star",
       "file": "missing/F/217551-fitness-boxing-fist-of-the-north-star.json"
+    },
+    {
+      "igdb_id": 16078,
+      "game_name": "Fitness Dash",
+      "file": "missing/F/16078-fitness-dash.json"
     },
     {
       "igdb_id": 256250,
@@ -210418,6 +210593,11 @@
       "file": "missing/I/157194-iron-reich.json"
     },
     {
+      "igdb_id": 16063,
+      "game_name": "Iron Roses",
+      "file": "missing/I/16063-iron-roses.json"
+    },
+    {
       "igdb_id": 273641,
       "game_name": "Iron Saga VS",
       "file": "missing/I/273641-iron-saga-vs.json"
@@ -211961,6 +212141,11 @@
       "igdb_id": 229951,
       "game_name": "Iwai Keitai Kaitsuu! Tamagotchi Plus Akai",
       "file": "missing/I/229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json"
+    },
+    {
+      "igdb_id": 15930,
+      "game_name": "Iwaihime",
+      "file": "missing/I/15930-iwaihime.json"
     },
     {
       "igdb_id": 168844,
@@ -229133,6 +229318,11 @@
       "file": "missing/K/222910-kuroneko-sou-souzoku-satsujin-jiken.json"
     },
     {
+      "igdb_id": 16059,
+      "game_name": "Kuros",
+      "file": "missing/K/16059-kuros.json"
+    },
+    {
       "igdb_id": 29223,
       "game_name": "Kursk - Battle at Prochorovka",
       "file": "missing/K/29223-kursk-battle-at-prochorovka.json"
@@ -245966,6 +246156,11 @@
       "igdb_id": 42879,
       "game_name": "Luxor Pharaoh's Challenge",
       "file": "missing/L/42879-luxor-pharaohs-challenge.json"
+    },
+    {
+      "igdb_id": 16004,
+      "game_name": "Luxor: Mah Jong",
+      "file": "missing/L/16004-luxor-mah-jong.json"
     },
     {
       "igdb_id": 400338,
@@ -284798,6 +284993,11 @@
       "file": "missing/N/61633-nekketsu-oyako.json"
     },
     {
+      "igdb_id": 15935,
+      "game_name": "Nekketsu Tairiku: Burning Heroes",
+      "file": "missing/N/15935-nekketsu-tairiku-burning-heroes.json"
+    },
+    {
       "igdb_id": 78965,
       "game_name": "Neko",
       "file": "missing/N/78965-neko.json"
@@ -288098,6 +288298,11 @@
       "file": "missing/N/295038-nick-faldo-championship-golf.json"
     },
     {
+      "igdb_id": 15872,
+      "game_name": "Nick Faldo's Championship Golf",
+      "file": "missing/N/15872-nick-faldos-championship-golf.json"
+    },
+    {
       "igdb_id": 112133,
       "game_name": "Nick Football Champions",
       "file": "missing/N/112133-nick-football-champions.json"
@@ -289286,6 +289491,11 @@
       "igdb_id": 408141,
       "game_name": "Nightshift at the Beta Museum",
       "file": "missing/N/408141-nightshift-at-the-beta-museum.json"
+    },
+    {
+      "igdb_id": 16077,
+      "game_name": "Nightshift Legacy: The Jaguar's Eye",
+      "file": "missing/N/16077-nightshift-legacy-the-jaguars-eye.json"
     },
     {
       "igdb_id": 165643,
@@ -423643,6 +423853,11 @@
       "file": "missing/T/264889-tecmo-bowl-kickoff.json"
     },
     {
+      "igdb_id": 15893,
+      "game_name": "Tecmo Secret of the Stars",
+      "file": "missing/T/15893-tecmo-secret-of-the-stars.json"
+    },
+    {
       "igdb_id": 43939,
       "game_name": "Tecmo Stackers",
       "file": "missing/T/43939-tecmo-stackers.json"
@@ -430268,6 +430483,26 @@
       "file": "missing/T/351729-the-chess.json"
     },
     {
+      "igdb_id": 15879,
+      "game_name": "The Chessmaster 3-D",
+      "file": "missing/T/15879-the-chessmaster-3-d.json"
+    },
+    {
+      "igdb_id": 15876,
+      "game_name": "The Chessmaster 3000",
+      "file": "missing/T/15876-the-chessmaster-3000.json"
+    },
+    {
+      "igdb_id": 15877,
+      "game_name": "The Chessmaster 4000",
+      "file": "missing/T/15877-the-chessmaster-4000.json"
+    },
+    {
+      "igdb_id": 15878,
+      "game_name": "The Chessmaster 4000 Turbo",
+      "file": "missing/T/15878-the-chessmaster-4000-turbo.json"
+    },
+    {
       "igdb_id": 151686,
       "game_name": "The Chewllers",
       "file": "missing/T/151686-the-chewllers.json"
@@ -433851,6 +434086,11 @@
       "igdb_id": 36707,
       "game_name": "The Fidelio Incident",
       "file": "missing/T/36707-the-fidelio-incident.json"
+    },
+    {
+      "igdb_id": 15875,
+      "game_name": "The Fidelity Chessmaster 2100",
+      "file": "missing/T/15875-the-fidelity-chessmaster-2100.json"
     },
     {
       "igdb_id": 231460,
@@ -441966,6 +442206,11 @@
       "igdb_id": 267073,
       "game_name": "The Nights on Arcade",
       "file": "missing/T/267073-the-nights-on-arcade.json"
+    },
+    {
+      "igdb_id": 16076,
+      "game_name": "The Nightshift Code",
+      "file": "missing/T/16076-the-nightshift-code.json"
     },
     {
       "igdb_id": 289977,
@@ -508091,6 +508336,11 @@
       "igdb_id": 163844,
       "game_name": "Zenbones",
       "file": "missing/Z/163844-zenbones.json"
+    },
+    {
+      "igdb_id": 16075,
+      "game_name": "Zenerchi",
+      "file": "missing/Z/16075-zenerchi.json"
     },
     {
       "igdb_id": 96043,
