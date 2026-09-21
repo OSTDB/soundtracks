@@ -2302,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderbook: Diggs Nightcrawler | 25090 | [25090-wonderbook-diggs-nightcrawler.json](./25090-wonderbook-diggs-nightcrawler.json) |
 | Wonderful Dizzy | 141687 | [141687-wonderful-dizzy.json](./141687-wonderful-dizzy.json) |
 | Wonderful Duck | 182991 | [182991-wonderful-duck.json](./182991-wonderful-duck.json) |
+| Wonderful Everyday: Down the Rabbit-Hole | 172667 | [172667-wonderful-everyday-down-the-rabbit-hole.json](./172667-wonderful-everyday-down-the-rabbit-hole.json) |
 | Wonderful Girls | 156620 | [156620-wonderful-girls.json](./156620-wonderful-girls.json) |
 | Wonderful mini golf | 175301 | [175301-wonderful-mini-golf.json](./175301-wonderful-mini-golf.json) |
 | Wonderful Waking World | 203873 | [203873-wonderful-waking-world.json](./203873-wonderful-waking-world.json) |
