@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Stallion Disco Junkie: One Hit | 115680 | [115680-laser-stallion-disco-junkie-one-hit.json](./115680-laser-stallion-disco-junkie-one-hit.json) |
 | Laser Surgeon: The Microscopic Mission | 69552 | [69552-laser-surgeon-the-microscopic-mission.json](./69552-laser-surgeon-the-microscopic-mission.json) |
 | Laser Tag Massacre | 329376 | [329376-laser-tag-massacre.json](./329376-laser-tag-massacre.json) |
+| Laser War | 41567 | [41567-laser-war.json](./41567-laser-war.json) |
 | Laser Z | 127081 | [127081-laser-z.json](./127081-laser-z.json) |
 | Laser! | 253011 | [253011-laser.json](./253011-laser.json) |
 | Laserbirds | 217986 | [217986-laserbirds.json](./217986-laserbirds.json) |
