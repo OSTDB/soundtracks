@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T16:18:01.740Z",
-  "total_missing": 102571,
+  "generated_at": "2026-09-21T16:33:09.165Z",
+  "total_missing": 102621,
   "games": [
     {
       "igdb_id": 176875,
@@ -8506,6 +8506,11 @@
       "igdb_id": 211395,
       "game_name": "Adventures of the Old Testament: The Bible Video Game",
       "file": "missing/A/211395-adventures-of-the-old-testament-the-bible-video-game.json"
+    },
+    {
+      "igdb_id": 8010,
+      "game_name": "Adventures of Yogi Bear",
+      "file": "missing/A/8010-adventures-of-yogi-bear.json"
     },
     {
       "igdb_id": 369557,
@@ -32148,6 +32153,11 @@
       "file": "missing/B/397092-back-alley-chronicle-episode-saeki.json"
     },
     {
+      "igdb_id": 7994,
+      "game_name": "Back at the Barnyard: Slop Bucket Games",
+      "file": "missing/B/7994-back-at-the-barnyard-slop-bucket-games.json"
+    },
+    {
       "igdb_id": 24877,
       "game_name": "Back From Hell",
       "file": "missing/B/24877-back-from-hell.json"
@@ -50591,6 +50601,11 @@
       "igdb_id": 229070,
       "game_name": "Blue's Birthday",
       "file": "missing/B/229070-blues-birthday.json"
+    },
+    {
+      "igdb_id": 7973,
+      "game_name": "Blue's Clues Kindergarten",
+      "file": "missing/B/7973-blues-clues-kindergarten.json"
     },
     {
       "igdb_id": 49911,
@@ -107523,6 +107538,11 @@
       "file": "missing/D/125963-dexlinhale.json"
     },
     {
+      "igdb_id": 8003,
+      "game_name": "Dexter's Laboratory: Science Ain't Fair",
+      "file": "missing/D/8003-dexters-laboratory-science-aint-fair.json"
+    },
+    {
       "igdb_id": 34445,
       "game_name": "Dexterity Ball 3D",
       "file": "missing/D/34445-dexterity-ball-3d.json"
@@ -115933,6 +115953,11 @@
       "file": "missing/D/209123-dora-the-explorer-carnival-2-boardwalk-adventure.json"
     },
     {
+      "igdb_id": 7977,
+      "game_name": "Dora the Explorer: Dora Saves the Crystal Kingdom",
+      "file": "missing/D/7977-dora-the-explorer-dora-saves-the-crystal-kingdom.json"
+    },
+    {
       "igdb_id": 50624,
       "game_name": "Dora the Explorer: Dora's Big Birthday Adventure",
       "file": "missing/D/50624-dora-the-explorer-doras-big-birthday-adventure.json"
@@ -115946,6 +115971,11 @@
       "igdb_id": 209124,
       "game_name": "Dora the Explorer: Lost and Found Adventure",
       "file": "missing/D/209124-dora-the-explorer-lost-and-found-adventure.json"
+    },
+    {
+      "igdb_id": 7974,
+      "game_name": "Dora the Explorer: Super Star Adventures",
+      "file": "missing/D/7974-dora-the-explorer-super-star-adventures.json"
     },
     {
       "igdb_id": 275577,
@@ -116376,6 +116406,11 @@
       "igdb_id": 11383,
       "game_name": "Double Dangerous Dave",
       "file": "missing/D/11383-double-dangerous-dave.json"
+    },
+    {
+      "igdb_id": 7998,
+      "game_name": "Double Dare",
+      "file": "missing/D/7998-double-dare.json"
     },
     {
       "igdb_id": 403675,
@@ -148803,6 +148838,11 @@
       "file": "missing/F/240907-fireforce-online.json"
     },
     {
+      "igdb_id": 7970,
+      "game_name": "Firefox",
+      "file": "missing/F/7970-firefox.json"
+    },
+    {
       "igdb_id": 116158,
       "game_name": "Firefox Boulder Dash 01",
       "file": "missing/F/116158-firefox-boulder-dash-01.json"
@@ -156501,6 +156541,11 @@
       "igdb_id": 230313,
       "game_name": "Foster's Home for Imaginary Friends",
       "file": "missing/F/230313-fosters-home-for-imaginary-friends.json"
+    },
+    {
+      "igdb_id": 8004,
+      "game_name": "Foster's Home for Imaginary Friends: Imagination Invaders",
+      "file": "missing/F/8004-fosters-home-for-imaginary-friends-imagination-invaders.json"
     },
     {
       "igdb_id": 153991,
@@ -205683,9 +205728,64 @@
       "file": "missing/I/122419-imaginator.json"
     },
     {
+      "igdb_id": 7948,
+      "game_name": "Imagine: Animal Doctor Care Center",
+      "file": "missing/I/7948-imagine-animal-doctor-care-center.json"
+    },
+    {
+      "igdb_id": 7944,
+      "game_name": "Imagine: Artist",
+      "file": "missing/I/7944-imagine-artist.json"
+    },
+    {
+      "igdb_id": 7951,
+      "game_name": "Imagine: Babies 3D",
+      "file": "missing/I/7951-imagine-babies-3d.json"
+    },
+    {
+      "igdb_id": 7946,
+      "game_name": "Imagine: Babyz Fashion",
+      "file": "missing/I/7946-imagine-babyz-fashion.json"
+    },
+    {
+      "igdb_id": 7953,
+      "game_name": "Imagine: Champion Rider 3D",
+      "file": "missing/I/7953-imagine-champion-rider-3d.json"
+    },
+    {
+      "igdb_id": 7945,
+      "game_name": "Imagine: Fashion Designer World Tour",
+      "file": "missing/I/7945-imagine-fashion-designer-world-tour.json"
+    },
+    {
+      "igdb_id": 7950,
+      "game_name": "Imagine: Fashion Life",
+      "file": "missing/I/7950-imagine-fashion-life.json"
+    },
+    {
+      "igdb_id": 7949,
+      "game_name": "Imagine: Fashion Stylist",
+      "file": "missing/I/7949-imagine-fashion-stylist.json"
+    },
+    {
+      "igdb_id": 7942,
+      "game_name": "Imagine: Reporter",
+      "file": "missing/I/7942-imagine-reporter.json"
+    },
+    {
       "igdb_id": 147432,
       "game_name": "Imagine: Rescue Vet",
       "file": "missing/I/147432-imagine-rescue-vet.json"
+    },
+    {
+      "igdb_id": 7947,
+      "game_name": "Imagine: Resort Owner",
+      "file": "missing/I/7947-imagine-resort-owner.json"
+    },
+    {
+      "igdb_id": 7943,
+      "game_name": "Imagine: Zookeeper",
+      "file": "missing/I/7943-imagine-zookeeper.json"
     },
     {
       "igdb_id": 97864,
@@ -268713,6 +268813,11 @@
       "file": "missing/M/320753-miss-perfect-miss-ending.json"
     },
     {
+      "igdb_id": 7979,
+      "game_name": "Miss Spider's Sunny Patch Friends: Harvest Time Hop and Fly",
+      "file": "missing/M/7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json"
+    },
+    {
       "igdb_id": 73804,
       "game_name": "Miss Spider's Tea Party",
       "file": "missing/M/73804-miss-spiders-tea-party.json"
@@ -289473,9 +289578,19 @@
       "file": "missing/N/220098-nicktoons.json"
     },
     {
+      "igdb_id": 7984,
+      "game_name": "Nicktoons Basketball",
+      "file": "missing/N/7984-nicktoons-basketball.json"
+    },
+    {
       "igdb_id": 210028,
       "game_name": "Nicktoons Nick Tunes",
       "file": "missing/N/210028-nicktoons-nick-tunes.json"
+    },
+    {
+      "igdb_id": 7981,
+      "game_name": "Nicktoons Nitro",
+      "file": "missing/N/7981-nicktoons-nitro.json"
     },
     {
       "igdb_id": 248732,
@@ -289491,6 +289606,11 @@
       "igdb_id": 2774,
       "game_name": "Nicktoons: Attack of the Toybots",
       "file": "missing/N/2774-nicktoons-attack-of-the-toybots.json"
+    },
+    {
+      "igdb_id": 7982,
+      "game_name": "Nicktoons: Movin'",
+      "file": "missing/N/7982-nicktoons-movin.json"
     },
     {
       "igdb_id": 308564,
@@ -326928,6 +327048,21 @@
       "file": "missing/P/78947-powerplay-hockey.json"
     },
     {
+      "igdb_id": 8007,
+      "game_name": "Powerpuff Girls: Gamesville",
+      "file": "missing/P/8007-powerpuff-girls-gamesville.json"
+    },
+    {
+      "igdb_id": 8008,
+      "game_name": "Powerpuff Girls: Mojo Jojo's Clone Zone",
+      "file": "missing/P/8008-powerpuff-girls-mojo-jojos-clone-zone.json"
+    },
+    {
+      "igdb_id": 8009,
+      "game_name": "Powerpuff Girls: Mojo Jojo's Pet Project",
+      "file": "missing/P/8009-powerpuff-girls-mojo-jojos-pet-project.json"
+    },
+    {
       "igdb_id": 19427,
       "game_name": "Powerpuff Girls: Mojo's Pet Project",
       "file": "missing/P/19427-powerpuff-girls-mojos-pet-project.json"
@@ -336316,6 +336451,11 @@
       "igdb_id": 238508,
       "game_name": "Quest for the Pinnacle",
       "file": "missing/Q/238508-quest-for-the-pinnacle.json"
+    },
+    {
+      "igdb_id": 7986,
+      "game_name": "Quest for the Shaven Yak Starring Ren Hoëk and Stimpy",
+      "file": "missing/Q/7986-quest-for-the-shaven-yak-starring-ren-hoek-and-stimpy.json"
     },
     {
       "igdb_id": 259822,
@@ -356908,6 +357048,11 @@
       "file": "missing/R/106417-rugosi.json"
     },
     {
+      "igdb_id": 7999,
+      "game_name": "Rugrats Go Wild!",
+      "file": "missing/R/7999-rugrats-go-wild.json"
+    },
+    {
       "igdb_id": 2792,
       "game_name": "Rugrats in Paris: The Movie",
       "file": "missing/R/2792-rugrats-in-paris-the-movie.json"
@@ -356921,6 +357066,11 @@
       "igdb_id": 299152,
       "game_name": "Rugrats: Adventures in Gameland",
       "file": "missing/R/299152-rugrats-adventures-in-gameland.json"
+    },
+    {
+      "igdb_id": 7990,
+      "game_name": "Rugrats: All Growed-Up",
+      "file": "missing/R/7990-rugrats-all-growed-up.json"
     },
     {
       "igdb_id": 2786,
@@ -424878,6 +425028,11 @@
       "file": "missing/T/47958-team-umizoomi.json"
     },
     {
+      "igdb_id": 7980,
+      "game_name": "Team Umizoomi & Dora's Fantastic Flight",
+      "file": "missing/T/7980-team-umizoomi-and-doras-fantastic-flight.json"
+    },
+    {
       "igdb_id": 230405,
       "game_name": "Team Umizoomi: Umi City Heroes!",
       "file": "missing/T/230405-team-umizoomi-umi-city-heroes.json"
@@ -439553,6 +439708,11 @@
       "file": "missing/T/31802-the-last.json"
     },
     {
+      "igdb_id": 7983,
+      "game_name": "The Last Airbender",
+      "file": "missing/T/7983-the-last-airbender.json"
+    },
+    {
       "igdb_id": 89652,
       "game_name": "The last Baron's stunt",
       "file": "missing/T/89652-the-last-barons-stunt.json"
@@ -440576,6 +440736,11 @@
       "igdb_id": 318175,
       "game_name": "The Legend of Khiimori",
       "file": "missing/T/318175-the-legend-of-khiimori.json"
+    },
+    {
+      "igdb_id": 7996,
+      "game_name": "The Legend of Korra: A New Era Begins",
+      "file": "missing/T/7996-the-legend-of-korra-a-new-era-begins.json"
     },
     {
       "igdb_id": 11317,
@@ -445508,6 +445673,16 @@
       "file": "missing/T/268726-the-remote-outpost.json"
     },
     {
+      "igdb_id": 7987,
+      "game_name": "The Ren & Stimpy Show: Buckeroo$!",
+      "file": "missing/T/7987-the-ren-and-stimpy-show-buckeroo.json"
+    },
+    {
+      "igdb_id": 7985,
+      "game_name": "The Ren & Stimpy Show: Fire Dogs",
+      "file": "missing/T/7985-the-ren-and-stimpy-show-fire-dogs.json"
+    },
+    {
       "igdb_id": 365695,
       "game_name": "The Ren & Stimpy Show: Veediots!",
       "file": "missing/T/365695-the-ren-and-stimpy-show-veediots.json"
@@ -450048,6 +450223,11 @@
       "file": "missing/T/152836-the-tram-of-wishes.json"
     },
     {
+      "igdb_id": 8015,
+      "game_name": "The Transformers",
+      "file": "missing/T/8015-the-transformers.json"
+    },
+    {
       "igdb_id": 196838,
       "game_name": "The Trap",
       "file": "missing/T/196838-the-trap.json"
@@ -451506,6 +451686,11 @@
       "igdb_id": 49373,
       "game_name": "The Wild Thornberrys: Chimp Chase",
       "file": "missing/T/49373-the-wild-thornberrys-chimp-chase.json"
+    },
+    {
+      "igdb_id": 8014,
+      "game_name": "The Wild Thornberrys' Animal Adventures",
+      "file": "missing/T/8014-the-wild-thornberrys-animal-adventures.json"
     },
     {
       "igdb_id": 100117,
@@ -461083,6 +461268,11 @@
       "file": "missing/T/47255-tom-and-jerry-popper.json"
     },
     {
+      "igdb_id": 8024,
+      "game_name": "Tom & Jerry: Hunting High and Low",
+      "file": "missing/T/8024-tom-and-jerry-hunting-high-and-low.json"
+    },
+    {
       "igdb_id": 57689,
       "game_name": "Tom & Jerry: Yankee Doodle’s Cat-astrophe",
       "file": "missing/T/57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json"
@@ -461091,6 +461281,11 @@
       "igdb_id": 2650,
       "game_name": "Tom and Jerry in War of the Whiskers",
       "file": "missing/T/2650-tom-and-jerry-in-war-of-the-whiskers.json"
+    },
+    {
+      "igdb_id": 8027,
+      "game_name": "Tom and Jerry Tales",
+      "file": "missing/T/8027-tom-and-jerry-tales.json"
     },
     {
       "igdb_id": 355622,
@@ -462013,14 +462208,39 @@
       "file": "missing/T/36352-tonight-we-riot.json"
     },
     {
+      "igdb_id": 7954,
+      "game_name": "Tonka Construction",
+      "file": "missing/T/7954-tonka-construction.json"
+    },
+    {
+      "igdb_id": 7958,
+      "game_name": "Tonka Construction 2",
+      "file": "missing/T/7958-tonka-construction-2.json"
+    },
+    {
       "igdb_id": 206757,
       "game_name": "Tonka Firefighter",
       "file": "missing/T/206757-tonka-firefighter.json"
     },
     {
+      "igdb_id": 7956,
+      "game_name": "Tonka Garage",
+      "file": "missing/T/7956-tonka-garage.json"
+    },
+    {
+      "igdb_id": 7957,
+      "game_name": "Tonka Raceway",
+      "file": "missing/T/7957-tonka-raceway.json"
+    },
+    {
       "igdb_id": 137029,
       "game_name": "Tonka Search & Rescue 2",
       "file": "missing/T/137029-tonka-search-and-rescue-2.json"
+    },
+    {
+      "igdb_id": 7955,
+      "game_name": "Tonka Search and Rescue",
+      "file": "missing/T/7955-tonka-search-and-rescue.json"
     },
     {
       "igdb_id": 73786,
@@ -463546,6 +463766,11 @@
       "igdb_id": 308576,
       "game_name": "Totally Reliable Delivery Service: Dress Code",
       "file": "missing/T/308576-totally-reliable-delivery-service-dress-code.json"
+    },
+    {
+      "igdb_id": 8021,
+      "game_name": "Totally Spies!",
+      "file": "missing/T/8021-totally-spies.json"
     },
     {
       "igdb_id": 304040,
@@ -465526,6 +465751,11 @@
       "igdb_id": 23730,
       "game_name": "Toxic Bubbles",
       "file": "missing/T/23730-toxic-bubbles.json"
+    },
+    {
+      "igdb_id": 8022,
+      "game_name": "Toxic Crusaders",
+      "file": "missing/T/8022-toxic-crusaders.json"
     },
     {
       "igdb_id": 170391,
@@ -468966,6 +469196,16 @@
       "igdb_id": 125822,
       "game_name": "Transformers: Shadows Rising",
       "file": "missing/T/125822-transformers-shadows-rising.json"
+    },
+    {
+      "igdb_id": 8016,
+      "game_name": "Transformers: The Battle to Save the Earth",
+      "file": "missing/T/8016-transformers-the-battle-to-save-the-earth.json"
+    },
+    {
+      "igdb_id": 8017,
+      "game_name": "Transformers: The Headmasters",
+      "file": "missing/T/8017-transformers-the-headmasters.json"
     },
     {
       "igdb_id": 61090,
@@ -500018,9 +500258,19 @@
       "file": "missing/W/268527-woody-woodpecker-and-friends-volume-2.json"
     },
     {
+      "igdb_id": 8012,
+      "game_name": "Woody Woodpecker in Crazy Castle 5",
+      "file": "missing/W/8012-woody-woodpecker-in-crazy-castle-5.json"
+    },
+    {
       "igdb_id": 135894,
       "game_name": "Woody Woodpecker in Waterfools",
       "file": "missing/W/135894-woody-woodpecker-in-waterfools.json"
+    },
+    {
+      "igdb_id": 8013,
+      "game_name": "Woody Woodpecker Racing",
+      "file": "missing/W/8013-woody-woodpecker-racing.json"
     },
     {
       "igdb_id": 43561,
