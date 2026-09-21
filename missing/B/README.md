@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Faith | 329027 | [329027-bad-faith.json](./329027-bad-faith.json) |
 | Bad Girl Confidential: The Pleasure Den | 286530 | [286530-bad-girl-confidential-the-pleasure-den.json](./286530-bad-girl-confidential-the-pleasure-den.json) |
 | Bad Girls | 92432 | [92432-bad-girls.json](./92432-bad-girls.json) |
+| Bad Government | 55499 | [55499-bad-government.json](./55499-bad-government.json) |
 | Bad Guy Adventure | 151136 | [151136-bad-guy-adventure.json](./151136-bad-guy-adventure.json) |
 | Bad Guy: Neighborhood | 193494 | [193494-bad-guy-neighborhood.json](./193494-bad-guy-neighborhood.json) |
 | Bad Guys at School | 128352 | [128352-bad-guys-at-school.json](./128352-bad-guys-at-school.json) |
@@ -2146,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Days | 341862 | [341862-better-days.json](./341862-better-days.json) |
 | Better Late Than Dead | 16291 | [16291-better-late-than-dead.json](./16291-better-late-than-dead.json) |
 | Better Me Tree | 238764 | [238764-better-me-tree.json](./238764-better-me-tree.json) |
+| Better Off Tread | 55521 | [55521-better-off-tread.json](./55521-better-off-tread.json) |
 | Better Save Souls | 235731 | [235731-better-save-souls.json](./235731-better-save-souls.json) |
 | Better to Upload | 183429 | [183429-better-to-upload.json](./183429-better-to-upload.json) |
 | Better Tomorrows | 180829 | [180829-better-tomorrows.json](./180829-better-tomorrows.json) |
@@ -4722,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breadbox | 321736 | [321736-breadbox.json](./321736-breadbox.json) |
 | Breadieval | 361683 | [361683-breadieval.json](./361683-breadieval.json) |
 | BreadKnight Adventures | 355568 | [355568-breadknight-adventures.json](./355568-breadknight-adventures.json) |
+| Breadwinner VR | 55493 | [55493-breadwinner-vr.json](./55493-breadwinner-vr.json) |
 | Break an Egg | 305336 | [305336-break-an-egg.json](./305336-break-an-egg.json) |
 | Break Arts III | 265210 | [265210-break-arts-iii.json](./265210-break-arts-iii.json) |
 | Break Bounds: Exile | 190741 | [190741-break-bounds-exile.json](./190741-break-bounds-exile.json) |
