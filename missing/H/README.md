@@ -1849,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Fate: Darkness Land | 292647 | [292647-hero-of-fate-darkness-land.json](./292647-hero-of-fate-darkness-land.json) |
 | Hero of Law | 351679 | [351679-hero-of-law.json](./351679-hero-of-law.json) |
 | Hero of Not Our Time | 144818 | [144818-hero-of-not-our-time.json](./144818-hero-of-not-our-time.json) |
+| Hero of the Galactic Core | 55512 | [55512-hero-of-the-galactic-core.json](./55512-hero-of-the-galactic-core.json) |
 | Hero of the Kingdom Collection | 53187 | [53187-hero-of-the-kingdom-collection.json](./53187-hero-of-the-kingdom-collection.json) |
 | Hero or Foe | 173232 | [173232-hero-or-foe.json](./173232-hero-or-foe.json) |
 | Hero Pack | 340466 | [340466-hero-pack.json](./340466-hero-pack.json) |
@@ -2779,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokuto no Ken: Shinpan no Sousousei Kengo Retsuden | 77991 | [77991-hokuto-no-ken-shinpan-no-sousousei-kengo-retsuden.json](./77991-hokuto-no-ken-shinpan-no-sousousei-kengo-retsuden.json) |
 | Hola! Reversi | 248655 | [248655-hola-reversi.json](./248655-hola-reversi.json) |
 | Hold My Beer | 51581 | [51581-hold-my-beer.json](./51581-hold-my-beer.json) |
+| Hold the Line: The American Revolution | 55518 | [55518-hold-the-line-the-american-revolution.json](./55518-hold-the-line-the-american-revolution.json) |
 | Hold the Mine | 362284 | [362284-hold-the-mine.json](./362284-hold-the-mine.json) |
 | Hold The Noise | 292286 | [292286-hold-the-noise.json](./292286-hold-the-noise.json) |
 | Hold-Up | 240779 | [240779-hold-up.json](./240779-hold-up.json) |
