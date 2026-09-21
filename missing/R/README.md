@@ -3881,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Nations 18 | 86865 | [86865-rugby-nations-18.json](./86865-rugby-nations-18.json) |
 | Rugby Sevens 23 | 240817 | [240817-rugby-sevens-23.json](./240817-rugby-sevens-23.json) |
 | Rugby Union Team Manager 4 | 225072 | [225072-rugby-union-team-manager-4.json](./225072-rugby-union-team-manager-4.json) |
+| Rugby World Cup 1995 | 45551 | [45551-rugby-world-cup-1995.json](./45551-rugby-world-cup-1995.json) |
 | Rugby World Cup 2015 | 20861 | [20861-rugby-world-cup-2015.json](./20861-rugby-world-cup-2015.json) |
 | Rugby World Cup 95 | 50809 | [50809-rugby-world-cup-95.json](./50809-rugby-world-cup-95.json) |
 | Rugged Rovers | 380548 | [380548-rugged-rovers.json](./380548-rugged-rovers.json) |
