@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sainthum | 149557 | [149557-sainthum.json](./149557-sainthum.json) |
 | Saints & Sinners Bingo | 206744 | [206744-saints-and-sinners-bingo.json](./206744-saints-and-sinners-bingo.json) |
 | Saints of Virtue | 67312 | [67312-saints-of-virtue.json](./67312-saints-of-virtue.json) |
+| Saints Row | 825 | [825-saints-row.json](./825-saints-row.json) |
 | Saints Row 2: Ultimate Edition | 99971 | [99971-saints-row-2-ultimate-edition.json](./99971-saints-row-2-ultimate-edition.json) |
 | Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
 | Saints Row IV: Re-Elected | 7707 | [7707-saints-row-iv-re-elected.json](./7707-saints-row-iv-re-elected.json) |
@@ -2307,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Walker | 252726 | [252726-shadow-walker.json](./252726-shadow-walker.json) |
 | Shadow Walls | 149933 | [149933-shadow-walls.json](./149933-shadow-walls.json) |
 | Shadow Warren | 356631 | [356631-shadow-warren.json](./356631-shadow-warren.json) |
+| Shadow Warrior | 2947 | [2947-shadow-warrior.json](./2947-shadow-warrior.json) |
 | Shadow Warrior | 6057 | [6057-shadow-warrior.json](./6057-shadow-warrior.json) |
 | Shadow Warrior 2 Deluxe | 51915 | [51915-shadow-warrior-2-deluxe.json](./51915-shadow-warrior-2-deluxe.json) |
 | Shadow Warrior 2: Bounty Hunt Part 1 | 27876 | [27876-shadow-warrior-2-bounty-hunt-part-1.json](./27876-shadow-warrior-2-bounty-hunt-part-1.json) |
@@ -9529,6 +9531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striatum | 342647 | [342647-striatum.json](./342647-striatum.json) |
 | Striden | 237059 | [237059-striden.json](./237059-striden.json) |
 | Strider | 198929 | [198929-strider.json](./198929-strider.json) |
+| Strider | 5333 | [5333-strider.json](./5333-strider.json) |
 | Strider Mountain | 222415 | [222415-strider-mountain.json](./222415-strider-mountain.json) |
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
 | Strike at Night | 349835 | [349835-strike-at-night.json](./349835-strike-at-night.json) |
@@ -9983,6 +9986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suikan Quest | 82857 | [82857-suikan-quest.json](./82857-suikan-quest.json) |
 | Suikarad Gold | 280766 | [280766-suikarad-gold.json](./280766-suikarad-gold.json) |
 | Suikawa Lead | 316290 | [316290-suikawa-lead.json](./316290-suikawa-lead.json) |
+| Suikoden | 1447 | [1447-suikoden.json](./1447-suikoden.json) |
 | Suikoden II | 1454 | [1454-suikoden-ii.json](./1454-suikoden-ii.json) |
 | Suikoden: Star Leap | 334108 | [334108-suikoden-star-leap.json](./334108-suikoden-star-leap.json) |
 | Suikoden: Tenmei no Chikai | 351030 | [351030-suikoden-tenmei-no-chikai.json](./351030-suikoden-tenmei-no-chikai.json) |
@@ -11289,6 +11293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superboss of the Turnabout | 308537 | [308537-superboss-of-the-turnabout.json](./308537-superboss-of-the-turnabout.json) |
 | Superbowl | 61912 | [61912-superbowl.json](./61912-superbowl.json) |
 | SuperBoys: The Big Fight | 58851 | [58851-superboys-the-big-fight.json](./58851-superboys-the-big-fight.json) |
+| Superbrothers: Sword & Sworcery EP | 2991 | [2991-superbrothers-sword-and-sworcery-ep.json](./2991-superbrothers-sword-and-sworcery-ep.json) |
 | Supercar Collection Simulator | 329962 | [329962-supercar-collection-simulator.json](./329962-supercar-collection-simulator.json) |
 | Supercat Survivors: Meow or Die | 346124 | [346124-supercat-survivors-meow-or-die.json](./346124-supercat-survivors-meow-or-die.json) |
 | Supercells | 309891 | [309891-supercells.json](./309891-supercells.json) |
@@ -12144,6 +12149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syobon Action NES Edition | 198474 | [198474-syobon-action-nes-edition.json](./198474-syobon-action-nes-edition.json) |
 | Syon | 296383 | [296383-syon.json](./296383-syon.json) |
 | Syphon Filter | 4115 | [4115-syphon-filter.json](./4115-syphon-filter.json) |
+| Syphon Filter 2 | 4116 | [4116-syphon-filter-2.json](./4116-syphon-filter-2.json) |
 | Syphon Filter: Dark Mirror | 20764 | [20764-syphon-filter-dark-mirror.json](./20764-syphon-filter-dark-mirror.json) |
 | Syphon Filter: Logan's Shadow | 19430 | [19430-syphon-filter-logans-shadow.json](./19430-syphon-filter-logans-shadow.json) |
 | Syrian Warfare: Return to Palmyra | 167798 | [167798-syrian-warfare-return-to-palmyra.json](./167798-syrian-warfare-return-to-palmyra.json) |
