@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Awakening: Elven Sword Chronicles Survival | 373020 | [373020-vampire-awakening-elven-sword-chronicles-survival.json](./373020-vampire-awakening-elven-sword-chronicles-survival.json) |
 | Vampire Circus | 297481 | [297481-vampire-circus.json](./297481-vampire-circus.json) |
 | Vampire Clans | 216493 | [216493-vampire-clans.json](./216493-vampire-clans.json) |
+| Vampire Crystals | 64093 | [64093-vampire-crystals.json](./64093-vampire-crystals.json) |
 | Vampire Crystals: Rebirth | 85471 | [85471-vampire-crystals-rebirth.json](./85471-vampire-crystals-rebirth.json) |
 | Vampire Domain | 319020 | [319020-vampire-domain.json](./319020-vampire-domain.json) |
 | Vampire Family | 236837 | [236837-vampire-family.json](./236837-vampire-family.json) |
