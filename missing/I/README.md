@@ -1387,9 +1387,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink Paper Minesweeper: L'animal dans la décoration Free Pack | 336346 | [336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json](./336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json) |
 | Ink Paper Minesweeper: Traditional Japanese Paintings Pack | 336345 | [336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json](./336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json) |
 | Ink Shapes: Book One | 161392 | [161392-ink-shapes-book-one.json](./161392-ink-shapes-book-one.json) |
+| Ink Wars | 57359 | [57359-ink-wars.json](./57359-ink-wars.json) |
 | Ink World | 202758 | [202758-ink-world.json](./202758-ink-world.json) |
 | Ink. | 169442 | [169442-ink.json](./169442-ink.json) |
 | Inka Aventura: Saga de Pachakutiq | 285558 | [285558-inka-aventura-saga-de-pachakutiq.json](./285558-inka-aventura-saga-de-pachakutiq.json) |
+| Inkay's Topsy-Turvey World | 57382 | [57382-inkays-topsy-turvey-world.json](./57382-inkays-topsy-turvey-world.json) |
 | Inkblood | 380440 | [380440-inkblood.json](./380440-inkblood.json) |
 | Inko Joshikosei | 97692 | [97692-inko-joshikosei.json](./97692-inko-joshikosei.json) |
 | Inkoid | 390615 | [390615-inkoid.json](./390615-inkoid.json) |
