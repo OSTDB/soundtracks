@@ -328,8 +328,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18+ | 219040 | [219040-18.json](./219040-18.json) |
 | 180 Files: The Aegis Project | 132419 | [132419-180-files-the-aegis-project.json](./132419-180-files-the-aegis-project.json) |
 | 180° Connect | 386733 | [386733-180-connect.json](./386733-180-connect.json) |
+| 1830: Railroads & Robber Barons | 12373 | [12373-1830-railroads-and-robber-barons.json](./12373-1830-railroads-and-robber-barons.json) |
 | 1848 | 76205 | [76205-1848.json](./76205-1848.json) |
 | 1873 | 316846 | [316846-1873.json](./316846-1873.json) |
+| 1893: A World's Fair Mystery | 12374 | [12374-1893-a-worlds-fair-mystery.json](./12374-1893-a-worlds-fair-mystery.json) |
 | 18th Airborne | 299485 | [299485-18th-airborne.json](./299485-18th-airborne.json) |
 | 19 Part One: Boot Camp | 41010 | [41010-19-part-one-boot-camp.json](./41010-19-part-one-boot-camp.json) |
 | 19: Neunzehn | 41342 | [41342-19-neunzehn.json](./41342-19-neunzehn.json) |
@@ -362,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1st Grade | 91743 | [91743-1st-grade.json](./91743-1st-grade.json) |
 | 1st Homizio | 378278 | [378278-1st-homizio.json](./378278-1st-homizio.json) |
 | 1st Kochobo Dourado | 215199 | [215199-1st-kochobo-dourado.json](./215199-1st-kochobo-dourado.json) |
+| 1st Person Pinball | 12429 | [12429-1st-person-pinball.json](./12429-1st-person-pinball.json) |
 | 1v1 Arcade Soccer | 58469 | [58469-1v1-arcade-soccer.json](./58469-1v1-arcade-soccer.json) |
 | 1x! Space Adventure | 169847 | [169847-1x-space-adventure.json](./169847-1x-space-adventure.json) |
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
@@ -672,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-Play Action Pack (Volume 1) | 86046 | [86046-4-play-action-pack-volume-1.json](./86046-4-play-action-pack-volume-1.json) |
 | 4.1.60Co | 295543 | [295543-4-1-60co.json](./295543-4-1-60co.json) |
 | 40 Days | 76539 | [76539-40-days.json](./76539-40-days.json) |
+| 400 Years | 12383 | [12383-400-years.json](./12383-400-years.json) |
 | 4004Ripper | 342062 | [342062-4004ripper.json](./342062-4004ripper.json) |
 | 404 Knight | 277397 | [277397-404-knight.json](./277397-404-knight.json) |
 | 404: Game Not Found | 379456 | [379456-404-game-not-found.json](./379456-404-game-not-found.json) |
