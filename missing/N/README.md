@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Hitz 2003 | 4047 | [4047-nhl-hitz-2003.json](./4047-nhl-hitz-2003.json) |
 | NHL Hockey | 210102 | [210102-nhl-hockey.json](./210102-nhl-hockey.json) |
 | NHL Hockey 2000 | 299312 | [299312-nhl-hockey-2000.json](./299312-nhl-hockey-2000.json) |
+| NHL Rock the Rink | 44843 | [44843-nhl-rock-the-rink.json](./44843-nhl-rock-the-rink.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
 | NHRA Championship Drag Racing | 18269 | [18269-nhra-championship-drag-racing.json](./18269-nhra-championship-drag-racing.json) |
 | NHRA Championship Drag Racing: Speed for All - Deluxe Edition | 214728 | [214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json](./214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json) |
