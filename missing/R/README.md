@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakshasa | 318411 | [318411-rakshasa.json](./318411-rakshasa.json) |
 | Rakshasa | 384678 | [384678-rakshasa.json](./384678-rakshasa.json) |
 | Rakshasa Street: Wargod | 193894 | [193894-rakshasa-street-wargod.json](./193894-rakshasa-street-wargod.json) |
+| Raku Jongg | 37356 | [37356-raku-jongg.json](./37356-raku-jongg.json) |
 | Rakuen | 28544 | [28544-rakuen.json](./28544-rakuen.json) |
 | Rakuen Yuki | 205645 | [205645-rakuen-yuki.json](./205645-rakuen-yuki.json) |
 | Rakuga Fantasy | 183436 | [183436-rakuga-fantasy.json](./183436-rakuga-fantasy.json) |
@@ -2242,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhino Runner | 261557 | [261557-rhino-runner.json](./261557-rhino-runner.json) |
 | Rhodes | 229023 | [229023-rhodes.json](./229023-rhodes.json) |
 | Rhom Bus | 197231 | [197231-rhom-bus.json](./197231-rhom-bus.json) |
+| Rhyme Rider Kerorican | 37355 | [37355-rhyme-rider-kerorican.json](./37355-rhyme-rider-kerorican.json) |
 | Rhyme Star | 361719 | [361719-rhyme-star.json](./361719-rhyme-star.json) |
 | Rhyolite | 335351 | [335351-rhyolite.json](./335351-rhyolite.json) |
 | Rhythm 'n Notes: Improve Your Music Skills | 79176 | [79176-rhythm-n-notes-improve-your-music-skills.json](./79176-rhythm-n-notes-improve-your-music-skills.json) |
@@ -2520,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Battle | 361737 | [361737-ring-battle.json](./361737-ring-battle.json) |
 | Ring Fit Adventure: Rhythm Game | 320954 | [320954-ring-fit-adventure-rhythm-game.json](./320954-ring-fit-adventure-rhythm-game.json) |
 | Ring Jongg | 209020 | [209020-ring-jongg.json](./209020-ring-jongg.json) |
+| Ring King | 37335 | [37335-ring-king.json](./37335-ring-king.json) |
 | Ring King | 48208 | [48208-ring-king.json](./48208-ring-king.json) |
 | Ring of Destruction: Slam Masters II | 39567 | [39567-ring-of-destruction-slam-masters-ii.json](./39567-ring-of-destruction-slam-masters-ii.json) |
 | Ring of Elysium | 95308 | [95308-ring-of-elysium.json](./95308-ring-of-elysium.json) |
@@ -3168,6 +3171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman EXE 6: Kaizou Card - Part 1 | 352736 | [352736-rockman-exe-6-kaizou-card-part-1.json](./352736-rockman-exe-6-kaizou-card-part-1.json) |
 | Rockman EXE 6: Kaizou Card - Part 2 | 352738 | [352738-rockman-exe-6-kaizou-card-part-2.json](./352738-rockman-exe-6-kaizou-card-part-2.json) |
 | Rockman EXE Legend of Network | 265959 | [265959-rockman-exe-legend-of-network.json](./265959-rockman-exe-legend-of-network.json) |
+| RockMan EXE N1 Battle | 37354 | [37354-rockman-exe-n1-battle.json](./37354-rockman-exe-n1-battle.json) |
 | Rockman EXE Phantom of Network | 265957 | [265957-rockman-exe-phantom-of-network.json](./265957-rockman-exe-phantom-of-network.json) |
 | Rockman GP | 309669 | [309669-rockman-gp.json](./309669-rockman-gp.json) |
 | Rockman No Constancy | 48027 | [48027-rockman-no-constancy.json](./48027-rockman-no-constancy.json) |
