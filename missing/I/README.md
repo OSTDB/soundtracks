@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immoral Ward | 22483 | [22483-immoral-ward.json](./22483-immoral-ward.json) |
 | Immortal | 320348 | [320348-immortal.json](./320348-immortal.json) |
 | Immortal Awakening | 227252 | [227252-immortal-awakening.json](./227252-immortal-awakening.json) |
+| Immortal Cities: Nile Online | 11274 | [11274-immortal-cities-nile-online.json](./11274-immortal-cities-nile-online.json) |
 | Immortal Clan: Grandmastery | 395726 | [395726-immortal-clan-grandmastery.json](./395726-immortal-clan-grandmastery.json) |
 | Immortal Coil | 411722 | [411722-immortal-coil.json](./411722-immortal-coil.json) |
 | Immortal Conquest | 174830 | [174830-immortal-conquest.json](./174830-immortal-conquest.json) |
@@ -865,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperial Grace | 159717 | [159717-imperial-grace.json](./159717-imperial-grace.json) |
 | Imperial Hero | 58747 | [58747-imperial-hero.json](./58747-imperial-hero.json) |
 | Imperial Island 5: Ski Resort | 294858 | [294858-imperial-island-5-ski-resort.json](./294858-imperial-island-5-ski-resort.json) |
+| Imperial SaGa | 11316 | [11316-imperial-saga.json](./11316-imperial-saga.json) |
 | Imperial Saga: Eclipse | 265624 | [265624-imperial-saga-eclipse.json](./265624-imperial-saga-eclipse.json) |
 | Imperial Settlers Roll & Write | 175292 | [175292-imperial-settlers-roll-and-write.json](./175292-imperial-settlers-roll-and-write.json) |
 | Imperial Storm | 249218 | [249218-imperial-storm.json](./249218-imperial-storm.json) |
