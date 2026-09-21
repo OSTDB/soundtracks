@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
 | F1 GP Circuits | 47210 | [47210-f1-gp-circuits.json](./47210-f1-gp-circuits.json) |
 | F1 Manager 2023 | 247383 | [247383-f1-manager-2023.json](./247383-f1-manager-2023.json) |
+| F1 Manager 2024 | 290808 | [290808-f1-manager-2024.json](./290808-f1-manager-2024.json) |
 | F1 Manager 2024: Abstract Livery Pack | 339292 | [339292-f1-manager-2024-abstract-livery-pack.json](./339292-f1-manager-2024-abstract-livery-pack.json) |
 | F1 Manager 2024: Deluxe Upgrade Pack | 328996 | [328996-f1-manager-2024-deluxe-upgrade-pack.json](./328996-f1-manager-2024-deluxe-upgrade-pack.json) |
 | F1 Manager 2024: Historical Livery Pack | 339293 | [339293-f1-manager-2024-historical-livery-pack.json](./339293-f1-manager-2024-historical-livery-pack.json) |
@@ -2936,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Wings HoverCraft | 248763 | [248763-flying-wings-hovercraft.json](./248763-flying-wings-hovercraft.json) |
 | Flying Wizards | 412968 | [412968-flying-wizards.json](./412968-flying-wizards.json) |
 | FlyingChicken | 371894 | [371894-flyingchicken.json](./371894-flyingchicken.json) |
+| FlyKnight | 310121 | [310121-flyknight.json](./310121-flyknight.json) |
 | Flyland Wars: 2 Not Yours Mine | 173785 | [173785-flyland-wars-2-not-yours-mine.json](./173785-flyland-wars-2-not-yours-mine.json) |
 | Flynguin Station | 121006 | [121006-flynguin-station.json](./121006-flynguin-station.json) |
 | Flyon RC | 406173 | [406173-flyon-rc.json](./406173-flyon-rc.json) |
@@ -3381,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formless Adventure | 44232 | [44232-formless-adventure.json](./44232-formless-adventure.json) |
 | Formless Star | 343872 | [343872-formless-star.json](./343872-formless-star.json) |
 | Formula 1 | 217961 | [217961-formula-1.json](./217961-formula-1.json) |
+| Formula 1 | 8294 | [8294-formula-1.json](./8294-formula-1.json) |
 | Formula 1 Simulator | 12998 | [12998-formula-1-simulator.json](./12998-formula-1-simulator.json) |
 | Formula 1: Championship Edition | 8295 | [8295-formula-1-championship-edition.json](./8295-formula-1-championship-edition.json) |
 | Formula 11 Mini Racing | 411563 | [411563-formula-11-mini-racing.json](./411563-formula-11-mini-racing.json) |
