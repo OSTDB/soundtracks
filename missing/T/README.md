@@ -4084,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Earth Fighter | 371239 | [371239-the-last-earth-fighter.json](./371239-the-last-earth-fighter.json) |
 | The Last Errant | 396934 | [396934-the-last-errant.json](./396934-the-last-errant.json) |
 | The Last Experiment: A Memetric Story | 370118 | [370118-the-last-experiment-a-memetric-story.json](./370118-the-last-experiment-a-memetric-story.json) |
+| The Last Express | 7650 | [7650-the-last-express.json](./7650-the-last-express.json) |
 | The Last Express: Gold Edition | 30235 | [30235-the-last-express-gold-edition.json](./30235-the-last-express-gold-edition.json) |
 | The Last Federation Collection | 51924 | [51924-the-last-federation-collection.json](./51924-the-last-federation-collection.json) |
 | The Last Fighter | 209662 | [209662-the-last-fighter.json](./209662-the-last-fighter.json) |
@@ -5571,6 +5572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Lunar Lakes | 14573 | [14573-the-sims-3-lunar-lakes.json](./14573-the-sims-3-lunar-lakes.json) |
 | The Sims 3: Midnight Hollow | 14584 | [14584-the-sims-3-midnight-hollow.json](./14584-the-sims-3-midnight-hollow.json) |
 | The Sims 3: Roaring Heights | 14585 | [14585-the-sims-3-roaring-heights.json](./14585-the-sims-3-roaring-heights.json) |
+| The Sims 3: Seasons | 13114 | [13114-the-sims-3-seasons.json](./13114-the-sims-3-seasons.json) |
 | The Sims 3: Sunlit Tides | 14579 | [14579-the-sims-3-sunlit-tides.json](./14579-the-sims-3-sunlit-tides.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
 | The Sims 4 Love & Family Bundle | 366930 | [366930-the-sims-4-love-and-family-bundle.json](./366930-the-sims-4-love-and-family-bundle.json) |
@@ -7790,6 +7792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Break 2121 | 121464 | [121464-time-break-2121.json](./121464-time-break-2121.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
 | Time Crisis | 389440 | [389440-time-crisis.json](./389440-time-crisis.json) |
+| Time Crisis 3 | 13894 | [13894-time-crisis-3.json](./13894-time-crisis-3.json) |
 | Time Crisis 4 | 7466 | [7466-time-crisis-4.json](./7466-time-crisis-4.json) |
 | Time Crisis: Crisis Zone | 43287 | [43287-time-crisis-crisis-zone.json](./43287-time-crisis-crisis-zone.json) |
 | Time Crisis: Project Titan | 12899 | [12899-time-crisis-project-titan.json](./12899-time-crisis-project-titan.json) |
@@ -9178,6 +9181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Fortune | 130751 | [130751-tower-of-fortune.json](./130751-tower-of-fortune.json) |
 | Tower of Greed | 216326 | [216326-tower-of-greed.json](./216326-tower-of-greed.json) |
 | Tower of Guardian | 153946 | [153946-tower-of-guardian.json](./153946-tower-of-guardian.json) |
+| Tower of Guns | 16880 | [16880-tower-of-guns.json](./16880-tower-of-guns.json) |
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
 | Tower of Heresy | 127799 | [127799-tower-of-heresy.json](./127799-tower-of-heresy.json) |
 | Tower of Myraglen | 57381 | [57381-tower-of-myraglen.json](./57381-tower-of-myraglen.json) |
@@ -11215,5 +11219,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyto Ecology: Himalayas Ecosystem | 171002 | [171002-tyto-ecology-himalayas-ecosystem.json](./171002-tyto-ecology-himalayas-ecosystem.json) |
 | Tyto Online | 30789 | [30789-tyto-online.json](./30789-tyto-online.json) |
 | Tzakol in Exile | 189112 | [189112-tzakol-in-exile.json](./189112-tzakol-in-exile.json) |
+| Tzar: The Burden of the Crown | 9691 | [9691-tzar-the-burden-of-the-crown.json](./9691-tzar-the-burden-of-the-crown.json) |
 | Tzimtzum | 343856 | [343856-tzimtzum.json](./343856-tzimtzum.json) |
 | Tzompantli | 30941 | [30941-tzompantli.json](./30941-tzompantli.json) |
