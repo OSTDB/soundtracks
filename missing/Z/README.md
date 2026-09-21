@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZoomnBoom | 107876 | [107876-zoomnboom.json](./107876-zoomnboom.json) |
 | Zoop | 301393 | [301393-zoop.json](./301393-zoop.json) |
 | Zoop | 301395 | [301395-zoop.json](./301395-zoop.json) |
+| Zoor: Majuu Tsukai Densetsu | 3650 | [3650-zoor-majuu-tsukai-densetsu.json](./3650-zoor-majuu-tsukai-densetsu.json) |
 | Zootto Mahjong! | 37744 | [37744-zootto-mahjong.json](./37744-zootto-mahjong.json) |
 | ZooZooGo! | 64396 | [64396-zoozoogo.json](./64396-zoozoogo.json) |
 | Zoria: Age of Shattering - Ancestors' Weapon Pack | 402944 | [402944-zoria-age-of-shattering-ancestors-weapon-pack.json](./402944-zoria-age-of-shattering-ancestors-weapon-pack.json) |
