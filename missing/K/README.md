@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Senshi Gundam: Gihren no Yabou | 76598 | [76598-kidou-senshi-gundam-gihren-no-yabou.json](./76598-kidou-senshi-gundam-gihren-no-yabou.json) |
 | Kidou Senshi Gundam: Giren no Yabou - Tokubetsu-hen Aokisei no Hasha | 37367 | [37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json](./37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json) |
 | Kidou Senshi Gundam: Senjou No Kizuna Portable | 56744 | [56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json](./56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json) |
+| Kids | 95167 | [95167-kids.json](./95167-kids.json) |
 | Kids ABC and Counting Jigsaw Puzzles Pre school | 87151 | [87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json](./87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json) |
 | Kids Cars | 213647 | [213647-kids-cars.json](./213647-kids-cars.json) |
 | Kids Dinosaur Rex Jigsaw Puzzles | 96749 | [96749-kids-dinosaur-rex-jigsaw-puzzles.json](./96749-kids-dinosaur-rex-jigsaw-puzzles.json) |
@@ -1053,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest 4+5+6 | 154935 | [154935-kings-quest-4-5-6.json](./154935-kings-quest-4-5-6.json) |
 | King's Quest Collection | 27852 | [27852-kings-quest-collection.json](./27852-kings-quest-collection.json) |
 | King's Quest IV: The Perils of Rosella Retold | 230506 | [230506-kings-quest-iv-the-perils-of-rosella-retold.json](./230506-kings-quest-iv-the-perils-of-rosella-retold.json) |
+| King's Quest V: Absence Makes the Heart Go Yonder! | 2238 | [2238-kings-quest-v-absence-makes-the-heart-go-yonder.json](./2238-kings-quest-v-absence-makes-the-heart-go-yonder.json) |
 | King's Son | 255694 | [255694-kings-son.json](./255694-kings-son.json) |
 | King's Table: Hnefatafl | 379892 | [379892-kings-table-hnefatafl.json](./379892-kings-table-hnefatafl.json) |
 | King's Throne: Royal Delights | 208592 | [208592-kings-throne-royal-delights.json](./208592-kings-throne-royal-delights.json) |
