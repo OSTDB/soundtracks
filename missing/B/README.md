@@ -2698,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishi Bachi Special 3 | 43866 | [43866-bishi-bachi-special-3.json](./43866-bishi-bachi-special-3.json) |
 | Bishi Bashi Special | 316812 | [316812-bishi-bashi-special.json](./316812-bishi-bashi-special.json) |
 | Bishi Bashi Special | 45047 | [45047-bishi-bashi-special.json](./45047-bishi-bashi-special.json) |
+| Bishi Bashi Special 2 | 44840 | [44840-bishi-bashi-special-2.json](./44840-bishi-bashi-special-2.json) |
 | Bishi Bashi Special 3: Step Champ | 55867 | [55867-bishi-bashi-special-3-step-champ.json](./55867-bishi-bashi-special-3-step-champ.json) |
 | Bishojou Mahjong Club | 41339 | [41339-bishojou-mahjong-club.json](./41339-bishojou-mahjong-club.json) |
 | Bishoujo Mangekyou: Kami ga Tsukuritamouta Shoujo-tachi | 115725 | [115725-bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi.json](./115725-bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi.json) |
@@ -3084,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast It | 245549 | [245549-blast-it.json](./245549-blast-it.json) |
 | Blast Judgment | 324328 | [324328-blast-judgment.json](./324328-blast-judgment.json) |
 | Blast Killer | 338280 | [338280-blast-killer.json](./338280-blast-killer.json) |
+| Blast Lacrosse | 44876 | [44876-blast-lacrosse.json](./44876-blast-lacrosse.json) |
 | Blast Linkers | 399616 | [399616-blast-linkers.json](./399616-blast-linkers.json) |
 | Blast Motors | 235298 | [235298-blast-motors.json](./235298-blast-motors.json) |
 | Blast Off | 136855 | [136855-blast-off.json](./136855-blast-off.json) |
@@ -5486,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bun Wars: Best of fun for Boys Girls and Kids | 101533 | [101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json](./101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json) |
 | Bunch of Heroes: Holiday Pack | 226274 | [226274-bunch-of-heroes-holiday-pack.json](./226274-bunch-of-heroes-holiday-pack.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
+| Bundesliga Stars 2000 | 44832 | [44832-bundesliga-stars-2000.json](./44832-bundesliga-stars-2000.json) |
 | Bundle: Journey of the Broken Circle + Cosmic Top Secret | 218468 | [218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json](./218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json) |
 | Bung Ball | 252808 | [252808-bung-ball.json](./252808-bung-ball.json) |
 | Bungie Mac Action Sack | 172660 | [172660-bungie-mac-action-sack.json](./172660-bungie-mac-action-sack.json) |
@@ -5616,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Questions | 302494 | [302494-burning-questions.json](./302494-burning-questions.json) |
 | Burning Ravager | 180816 | [180816-burning-ravager.json](./180816-burning-ravager.json) |
 | Burning Rival | 39556 | [39556-burning-rival.json](./39556-burning-rival.json) |
+| Burning Road | 44857 | [44857-burning-road.json](./44857-burning-road.json) |
 | Burning Sand | 146739 | [146739-burning-sand.json](./146739-burning-sand.json) |
 | Burning Sand 2 | 146740 | [146740-burning-sand-2.json](./146740-burning-sand-2.json) |
 | Burning Sand 3 | 146742 | [146742-burning-sand-3.json](./146742-burning-sand-3.json) |
