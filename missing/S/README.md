@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribbleman Army | 217026 | [217026-scribbleman-army.json](./217026-scribbleman-army.json) |
 | Scribblemania | 327177 | [327177-scribblemania.json](./327177-scribblemania.json) |
 | Scribblenauts Remix | 8806 | [8806-scribblenauts-remix.json](./8806-scribblenauts-remix.json) |
+| Scribblenauts Unmasked: A DC Comics Adventure | 5033 | [5033-scribblenauts-unmasked-a-dc-comics-adventure.json](./5033-scribblenauts-unmasked-a-dc-comics-adventure.json) |
 | Scribbly Walrus | 128571 | [128571-scribbly-walrus.json](./128571-scribbly-walrus.json) |
 | Scribe RPG | 339089 | [339089-scribe-rpg.json](./339089-scribe-rpg.json) |
 | Scripted Land | 219620 | [219620-scripted-land.json](./219620-scripted-land.json) |
@@ -2059,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sever the Wicked! | 363470 | [363470-sever-the-wicked.json](./363470-sever-the-wicked.json) |
 | Severance | 196235 | [196235-severance.json](./196235-severance.json) |
 | Severance | 327843 | [327843-severance.json](./327843-severance.json) |
+| Severed | 6066 | [6066-severed.json](./6066-severed.json) |
 | Severed Love | 342754 | [342754-severed-love.json](./342754-severed-love.json) |
 | Severity | 93615 | [93615-severity.json](./93615-severity.json) |
 | Sewage | 202329 | [202329-sewage.json](./202329-sewage.json) |
@@ -8370,6 +8372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarCraft: Evolution Complete | 305329 | [305329-starcraft-evolution-complete.json](./305329-starcraft-evolution-complete.json) |
 | Starcraft: Ghost | 11355 | [11355-starcraft-ghost.json](./11355-starcraft-ghost.json) |
 | StarCraft: Precursor | 224108 | [224108-starcraft-precursor.json](./224108-starcraft-precursor.json) |
+| StarCraft: Remastered | 25683 | [25683-starcraft-remastered.json](./25683-starcraft-remastered.json) |
 | StarCraft: Retribution | 66116 | [66116-starcraft-retribution.json](./66116-starcraft-retribution.json) |
 | Starcraft: Stellar Forces | 135274 | [135274-starcraft-stellar-forces.json](./135274-starcraft-stellar-forces.json) |
 | StarCraft: Stratospace | 135273 | [135273-starcraft-stratospace.json](./135273-starcraft-stratospace.json) |
