@@ -2161,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Llamagotchi | 223597 | [223597-llamagotchi.json](./223597-llamagotchi.json) |
 | Llamalandia | 258002 | [258002-llamalandia.json](./258002-llamalandia.json) |
 | Llamas With Hats: Cruise Catastrophe | 63336 | [63336-llamas-with-hats-cruise-catastrophe.json](./63336-llamas-with-hats-cruise-catastrophe.json) |
+| Llamatron: 2112 | 50117 | [50117-llamatron-2112.json](./50117-llamatron-2112.json) |
 | LLM x Quiz | 369055 | [369055-llm-x-quiz.json](./369055-llm-x-quiz.json) |
 | Lloyd the Monkey | 266214 | [266214-lloyd-the-monkey.json](./266214-lloyd-the-monkey.json) |
 | Lloyd the Monkey 3: Judgement Day | 266221 | [266221-lloyd-the-monkey-3-judgement-day.json](./266221-lloyd-the-monkey-3-judgement-day.json) |
@@ -2712,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Shipwreck | 72367 | [72367-lost-shipwreck.json](./72367-lost-shipwreck.json) |
 | Lost Snowmen | 187983 | [187983-lost-snowmen.json](./187983-lost-snowmen.json) |
 | Lost Soul | 184128 | [184128-lost-soul.json](./184128-lost-soul.json) |
+| Lost Soul | 50115 | [50115-lost-soul.json](./50115-lost-soul.json) |
 | Lost Soul: Escape the Doom Museum | 344347 | [344347-lost-soul-escape-the-doom-museum.json](./344347-lost-soul-escape-the-doom-museum.json) |
 | Lost Summoner Kitty | 80900 | [80900-lost-summoner-kitty.json](./80900-lost-summoner-kitty.json) |
 | Lost Sunday Comics | 192797 | [192797-lost-sunday-comics.json](./192797-lost-sunday-comics.json) |
