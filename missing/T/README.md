@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cyclist: Tactics | 159354 | [159354-the-cyclist-tactics.json](./159354-the-cyclist-tactics.json) |
 | The Cyclop | 301814 | [301814-the-cyclop.json](./301814-the-cyclop.json) |
 | The Czech Run | 208384 | [208384-the-czech-run.json](./208384-the-czech-run.json) |
+| The D.R.G. Initiative | 54689 | [54689-the-d-r-g-initiative.json](./54689-the-d-r-g-initiative.json) |
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
 | The Daedalus Encounter | 4237 | [4237-the-daedalus-encounter.json](./4237-the-daedalus-encounter.json) |
 | The Dallas Quest | 47218 | [47218-the-dallas-quest.json](./47218-the-dallas-quest.json) |
@@ -5192,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Royal Heir: Book 1 | 313675 | [313675-the-royal-heir-book-1.json](./313675-the-royal-heir-book-1.json) |
 | The Royal Heir: Book 2 | 313684 | [313684-the-royal-heir-book-2.json](./313684-the-royal-heir-book-2.json) |
 | The Royal Heir: Book 3 | 313685 | [313685-the-royal-heir-book-3.json](./313685-the-royal-heir-book-3.json) |
+| The Ruins of Cawdor | 54682 | [54682-the-ruins-of-cawdor.json](./54682-the-ruins-of-cawdor.json) |
 | The Ruins of Machi Itcza | 182520 | [182520-the-ruins-of-machi-itcza.json](./182520-the-ruins-of-machi-itcza.json) |
 | The Ruins of the Lost Kingdom: Chronicle | 77960 | [77960-the-ruins-of-the-lost-kingdom-chronicle.json](./77960-the-ruins-of-the-lost-kingdom-chronicle.json) |
 | The Rules | 224762 | [224762-the-rules.json](./224762-the-rules.json) |
@@ -5335,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow in the Cathedral | 10939 | [10939-the-shadow-in-the-cathedral.json](./10939-the-shadow-in-the-cathedral.json) |
 | The Shadow of Shadows | 377047 | [377047-the-shadow-of-shadows.json](./377047-the-shadow-of-shadows.json) |
 | The Shadow of the Warring States Period | 348872 | [348872-the-shadow-of-the-warring-states-period.json](./348872-the-shadow-of-the-warring-states-period.json) |
+| The Shadow of Yserbius | 54684 | [54684-the-shadow-of-yserbius.json](./54684-the-shadow-of-yserbius.json) |
 | The Shadow People | 222938 | [222938-the-shadow-people.json](./222938-the-shadow-people.json) |
 | The Shadow Sun | 108496 | [108496-the-shadow-sun.json](./108496-the-shadow-sun.json) |
 | The Shadows Within: Nightmare's Game | 304615 | [304615-the-shadows-within-nightmares-game.json](./304615-the-shadows-within-nightmares-game.json) |
@@ -5467,6 +5470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Stuff Bundle | 159340 | [159340-the-sims-4-stuff-bundle.json](./159340-the-sims-4-stuff-bundle.json) |
 | The Sims 4: Tea Time Solarium Kit | 404224 | [404224-the-sims-4-tea-time-solarium-kit.json](./404224-the-sims-4-tea-time-solarium-kit.json) |
 | The Sims 4: The Daring Lifestyle Bundle | 249484 | [249484-the-sims-4-the-daring-lifestyle-bundle.json](./249484-the-sims-4-the-daring-lifestyle-bundle.json) |
+| The Sims 4: Toddler Stuff | 54696 | [54696-the-sims-4-toddler-stuff.json](./54696-the-sims-4-toddler-stuff.json) |
 | The Sims 4: Vintage Glamour Stuff | 121025 | [121025-the-sims-4-vintage-glamour-stuff.json](./121025-the-sims-4-vintage-glamour-stuff.json) |
 | The Sims 4: Wonderland Playroom Kit | 404231 | [404231-the-sims-4-wonderland-playroom-kit.json](./404231-the-sims-4-wonderland-playroom-kit.json) |
 | The Sims 4: Yard Charm Kit | 404230 | [404230-the-sims-4-yard-charm-kit.json](./404230-the-sims-4-yard-charm-kit.json) |
@@ -6388,6 +6392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zero Dome | 72349 | [72349-the-zero-dome.json](./72349-the-zero-dome.json) |
 | The Zodiac Mystery | 392122 | [392122-the-zodiac-mystery.json](./392122-the-zodiac-mystery.json) |
 | The Zombie Fortress | 327861 | [327861-the-zombie-fortress.json](./327861-the-zombie-fortress.json) |
+| The Zombie Shotgun Massacre 2 | 54705 | [54705-the-zombie-shotgun-massacre-2.json](./54705-the-zombie-shotgun-massacre-2.json) |
 | The Zombie Slayers | 329958 | [329958-the-zombie-slayers.json](./329958-the-zombie-slayers.json) |
 | The Zombie Smasher | 219279 | [219279-the-zombie-smasher.json](./219279-the-zombie-smasher.json) |
 | The Zombie Wave | 294259 | [294259-the-zombie-wave.json](./294259-the-zombie-wave.json) |
@@ -6776,6 +6781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Frame | 169402 | [169402-through-the-frame.json](./169402-through-the-frame.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
 | Through the Nest | 374131 | [374131-through-the-nest.json](./374131-through-the-nest.json) |
+| Through the Trap Door | 54718 | [54718-through-the-trap-door.json](./54718-through-the-trap-door.json) |
 | Through the Wall | 339294 | [339294-through-the-wall.json](./339294-through-the-wall.json) |
 | Through the Woods: Collector's Edition | 51920 | [51920-through-the-woods-collectors-edition.json](./51920-through-the-woods-collectors-edition.json) |
 | Through the Woods: Digital Collector's Edition | 53798 | [53798-through-the-woods-digital-collectors-edition.json](./53798-through-the-woods-digital-collectors-edition.json) |
@@ -8029,6 +8035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toblo | 93989 | [93989-toblo.json](./93989-toblo.json) |
 | Tobor | 217406 | [217406-tobor.json](./217406-tobor.json) |
 | Toby | 378190 | [378190-toby.json](./378190-toby.json) |
+| Toby's Island | 54728 | [54728-tobys-island.json](./54728-tobys-island.json) |
 | Toby's Topsy Tale | 293615 | [293615-tobys-topsy-tale.json](./293615-tobys-topsy-tale.json) |
 | Toc | 183004 | [183004-toc.json](./183004-toc.json) |
 | Toca Boca Hair Salon 4 | 380522 | [380522-toca-boca-hair-salon-4.json](./380522-toca-boca-hair-salon-4.json) |
@@ -8101,6 +8108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokumei Sentai Go-Busters | 63581 | [63581-tokumei-sentai-go-busters.json](./63581-tokumei-sentai-go-busters.json) |
 | Tokusatsu Bouken Katsugeki Super Hero Retsuden | 58778 | [58778-tokusatsu-bouken-katsugeki-super-hero-retsuden.json](./58778-tokusatsu-bouken-katsugeki-super-hero-retsuden.json) |
 | Tokusen! | 108996 | [108996-tokusen.json](./108996-tokusen.json) |
+| Tokusou Kidoutai J-SWAT | 54732 | [54732-tokusou-kidoutai-j-swat.json](./54732-tokusou-kidoutai-j-swat.json) |
 | Tokyo 23-Ku Seifuku Wars | 61572 | [61572-tokyo-23-ku-seifuku-wars.json](./61572-tokyo-23-ku-seifuku-wars.json) |
 | Tokyo 24-Ku | 165063 | [165063-tokyo-24-ku.json](./165063-tokyo-24-ku.json) |
 | Tokyo 42 | 18930 | [18930-tokyo-42.json](./18930-tokyo-42.json) |
@@ -9993,6 +10001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri.Defender | 30933 | [30933-tri-defender.json](./30933-tri-defender.json) |
 | Triachnid | 63255 | [63255-triachnid.json](./63255-triachnid.json) |
 | Triad | 304367 | [304367-triad.json](./304367-triad.json) |
+| Triad | 54692 | [54692-triad.json](./54692-triad.json) |
 | Triage | 353861 | [353861-triage.json](./353861-triage.json) |
 | Trial by Chat | 414332 | [414332-trial-by-chat.json](./414332-trial-by-chat.json) |
 | Trial of Ariah | 372469 | [372469-trial-of-ariah.json](./372469-trial-of-ariah.json) |
