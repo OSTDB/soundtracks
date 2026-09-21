@@ -1369,10 +1369,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Nick O Matic Design Factory | 210031 | [210031-nickelodeon-nick-o-matic-design-factory.json](./210031-nickelodeon-nick-o-matic-design-factory.json) |
 | Nickelodeon Pixel Town | 128374 | [128374-nickelodeon-pixel-town.json](./128374-nickelodeon-pixel-town.json) |
 | Nicktoons | 220098 | [220098-nicktoons.json](./220098-nicktoons.json) |
+| Nicktoons Basketball | 7984 | [7984-nicktoons-basketball.json](./7984-nicktoons-basketball.json) |
 | Nicktoons Nick Tunes | 210028 | [210028-nicktoons-nick-tunes.json](./210028-nicktoons-nick-tunes.json) |
+| Nicktoons Nitro | 7981 | [7981-nicktoons-nitro.json](./7981-nicktoons-nitro.json) |
 | Nicktoons Racing | 248732 | [248732-nicktoons-racing.json](./248732-nicktoons-racing.json) |
 | Nicktoons Racing | 248733 | [248733-nicktoons-racing.json](./248733-nicktoons-racing.json) |
 | Nicktoons: Attack of the Toybots | 2774 | [2774-nicktoons-attack-of-the-toybots.json](./2774-nicktoons-attack-of-the-toybots.json) |
+| Nicktoons: Movin' | 7982 | [7982-nicktoons-movin.json](./7982-nicktoons-movin.json) |
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
 | Nico Puchi Girls Runway | 222519 | [222519-nico-puchi-girls-runway.json](./222519-nico-puchi-girls-runway.json) |
 | Nico Yazawa is Dreaming | 242094 | [242094-nico-yazawa-is-dreaming.json](./242094-nico-yazawa-is-dreaming.json) |
