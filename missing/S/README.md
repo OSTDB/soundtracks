@@ -1548,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Mysteries in London | 84900 | [84900-secret-mysteries-in-london.json](./84900-secret-mysteries-in-london.json) |
 | Secret Mysteries in New York | 84899 | [84899-secret-mysteries-in-new-york.json](./84899-secret-mysteries-in-new-york.json) |
 | Secret Mystery: Door of Stealth | 103910 | [103910-secret-mystery-door-of-stealth.json](./103910-secret-mystery-door-of-stealth.json) |
+| Secret Neighbor | 103295 | [103295-secret-neighbor.json](./103295-secret-neighbor.json) |
 | Secret of Evangelion | 61670 | [61670-secret-of-evangelion.json](./61670-secret-of-evangelion.json) |
 | Secret of Harrow Manor 2 | 164877 | [164877-secret-of-harrow-manor-2.json](./164877-secret-of-harrow-manor-2.json) |
 | Secret of Lost Pyramid | 103876 | [103876-secret-of-lost-pyramid.json](./103876-secret-of-lost-pyramid.json) |
@@ -6607,6 +6608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Harrier | 306475 | [306475-space-harrier.json](./306475-space-harrier.json) |
 | Space Harrier | 341883 | [341883-space-harrier.json](./341883-space-harrier.json) |
 | Space Harrier II | 215751 | [215751-space-harrier-ii.json](./215751-space-harrier-ii.json) |
+| Space Harrier II | 4498 | [4498-space-harrier-ii.json](./4498-space-harrier-ii.json) |
 | Space Harvest II | 97916 | [97916-space-harvest-ii.json](./97916-space-harvest-ii.json) |
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
 | Space Hero Line | 43518 | [43518-space-hero-line.json](./43518-space-hero-line.json) |
@@ -9480,6 +9482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter II | 48280 | [48280-street-fighter-ii.json](./48280-street-fighter-ii.json) |
 | Street Fighter II Uno | 55063 | [55063-street-fighter-ii-uno.json](./55063-street-fighter-ii-uno.json) |
 | Street Fighter II: Ryu vs. Sagat | 155516 | [155516-street-fighter-ii-ryu-vs-sagat.json](./155516-street-fighter-ii-ryu-vs-sagat.json) |
+| Street Fighter II: Special Champion Edition | 4367 | [4367-street-fighter-ii-special-champion-edition.json](./4367-street-fighter-ii-special-champion-edition.json) |
 | Street Fighter II' Turbo | 18626 | [18626-street-fighter-ii-turbo.json](./18626-street-fighter-ii-turbo.json) |
 | Street Fighter III 2nd Impact: Giant Attack | 6709 | [6709-street-fighter-iii-2nd-impact-giant-attack.json](./6709-street-fighter-iii-2nd-impact-giant-attack.json) |
 | Street Fighter III: 3rd Strike | 243237 | [243237-street-fighter-iii-3rd-strike.json](./243237-street-fighter-iii-3rd-strike.json) |
@@ -10133,6 +10136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon Night 4 | 13109 | [13109-summon-night-4.json](./13109-summon-night-4.json) |
 | Summon Night Ex-These: Yoake no Tsubasa | 69844 | [69844-summon-night-ex-these-yoake-no-tsubasa.json](./69844-summon-night-ex-these-yoake-no-tsubasa.json) |
 | Summon Night Gran-These: Horobi no Tsurugi to Yakusoku no Kishi | 43267 | [43267-summon-night-gran-these-horobi-no-tsurugi-to-yakusoku-no-kishi.json](./43267-summon-night-gran-these-horobi-no-tsurugi-to-yakusoku-no-kishi.json) |
+| Summon Night: Swordcraft Story | 6615 | [6615-summon-night-swordcraft-story.json](./6615-summon-night-swordcraft-story.json) |
 | Summon Night: Swordcraft Story 2 | 6616 | [6616-summon-night-swordcraft-story-2.json](./6616-summon-night-swordcraft-story-2.json) |
 | Summon of Asmodeus | 117652 | [117652-summon-of-asmodeus.json](./117652-summon-of-asmodeus.json) |
 | Summon Quest | 291980 | [291980-summon-quest.json](./291980-summon-quest.json) |
@@ -10214,6 +10218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunken Seeker | 386693 | [386693-sunken-seeker.json](./386693-sunken-seeker.json) |
 | Sunkenland | 213475 | [213475-sunkenland.json](./213475-sunkenland.json) |
 | Sunland Hike | 264613 | [264613-sunland-hike.json](./264613-sunland-hike.json) |
+| Sunless Skies | 24427 | [24427-sunless-skies.json](./24427-sunless-skies.json) |
 | Sunlight In A Tin | 188602 | [188602-sunlight-in-a-tin.json](./188602-sunlight-in-a-tin.json) |
 | Sunlit's Star Fox Minihack | 233606 | [233606-sunlits-star-fox-minihack.json](./233606-sunlits-star-fox-minihack.json) |
 | Sunman | 48651 | [48651-sunman.json](./48651-sunman.json) |
