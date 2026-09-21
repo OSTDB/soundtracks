@@ -2855,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Messiah | 229805 | [229805-digital-messiah.json](./229805-digital-messiah.json) |
 | Digital Paint: Paintball 2 | 67950 | [67950-digital-paint-paintball-2.json](./67950-digital-paint-paintball-2.json) |
 | Digital Processing | 400284 | [400284-digital-processing.json](./400284-digital-processing.json) |
+| Digital Spacecade | 28181 | [28181-digital-spacecade.json](./28181-digital-spacecade.json) |
 | Digital Survivor | 411728 | [411728-digital-survivor.json](./411728-digital-survivor.json) |
 | Digital Virus | 236008 | [236008-digital-virus.json](./236008-digital-virus.json) |
 | Digital Zoo Gallery | 154465 | [154465-digital-zoo-gallery.json](./154465-digital-zoo-gallery.json) |
@@ -4273,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorpie | 360015 | [360015-dorpie.json](./360015-dorpie.json) |
 | Doshin the Giant 1 | 159279 | [159279-doshin-the-giant-1.json](./159279-doshin-the-giant-1.json) |
 | Dosi | 221158 | [221158-dosi.json](./221158-dosi.json) |
+| DoSolFa-lite | 28146 | [28146-dosolfa-lite.json](./28146-dosolfa-lite.json) |
 | Dossun! Ganseki Battle | 42560 | [42560-dossun-ganseki-battle.json](./42560-dossun-ganseki-battle.json) |
 | Dostavka | 358930 | [358930-dostavka.json](./358930-dostavka.json) |
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
