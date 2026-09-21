@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint-guin | 310060 | [310060-paint-guin.json](./310060-paint-guin.json) |
 | Paintball 3: Candy Match Factory | 270960 | [270960-paintball-3-candy-match-factory.json](./270960-paintball-3-candy-match-factory.json) |
 | Paintball Champs | 237386 | [237386-paintball-champs.json](./237386-paintball-champs.json) |
+| Paintball eXtreme | 34793 | [34793-paintball-extreme.json](./34793-paintball-extreme.json) |
 | Paintball NET | 125951 | [125951-paintball-net.json](./125951-paintball-net.json) |
 | PaintBall War 2 | 154464 | [154464-paintball-war-2.json](./154464-paintball-war-2.json) |
 | Paintboss - Car Painting VR | 75909 | [75909-paintboss-car-painting-vr.json](./75909-paintboss-car-painting-vr.json) |
@@ -2588,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Fireplace | 134645 | [134645-pixel-fireplace.json](./134645-pixel-fireplace.json) |
 | Pixel Fish | 114342 | [114342-pixel-fish.json](./114342-pixel-fish.json) |
 | Pixel Fish | 310755 | [310755-pixel-fish.json](./310755-pixel-fish.json) |
+| Pixel Fodder | 34858 | [34858-pixel-fodder.json](./34858-pixel-fodder.json) |
 | Pixel Force 2 | 175278 | [175278-pixel-force-2.json](./175278-pixel-force-2.json) |
 | Pixel Forest | 108489 | [108489-pixel-forest.json](./108489-pixel-forest.json) |
 | Pixel Fruit Platform | 388237 | [388237-pixel-fruit-platform.json](./388237-pixel-fruit-platform.json) |
