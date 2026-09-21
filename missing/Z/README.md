@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z World | 252223 | [252223-z-world.json](./252223-z-world.json) |
 | Z-89 | 93371 | [93371-z-89.json](./93371-z-89.json) |
 | Z-Ape: Tower Defense | 304009 | [304009-z-ape-tower-defense.json](./304009-z-ape-tower-defense.json) |
+| Z-Arena | 28153 | [28153-z-arena.json](./28153-z-arena.json) |
 | Z-axys | 102210 | [102210-z-axys.json](./102210-z-axys.json) |
 | Z-Exemplar | 26010 | [26010-z-exemplar.json](./26010-z-exemplar.json) |
 | Z-Factor | 305933 | [305933-z-factor.json](./305933-z-factor.json) |
