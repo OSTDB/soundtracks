@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty 4: Survival Mode | 299136 | [299136-call-of-duty-4-survival-mode.json](./299136-call-of-duty-4-survival-mode.json) |
 | Call of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack | 310052 | [310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json](./310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json) |
 | Call of Duty Tactics | 276488 | [276488-call-of-duty-tactics.json](./276488-call-of-duty-tactics.json) |
+| Call of Duty: Advanced Warfare - Atlas Digital Pack | 25973 | [25973-call-of-duty-advanced-warfare-atlas-digital-pack.json](./25973-call-of-duty-advanced-warfare-atlas-digital-pack.json) |
 | Call of Duty: Black Ops | 343819 | [343819-call-of-duty-black-ops.json](./343819-call-of-duty-black-ops.json) |
 | Call of Duty: Black Ops - Annihilation | 22636 | [22636-call-of-duty-black-ops-annihilation.json](./22636-call-of-duty-black-ops-annihilation.json) |
 | Call of Duty: Black Ops 6 - Season 1 | 324925 | [324925-call-of-duty-black-ops-6-season-1.json](./324925-call-of-duty-black-ops-6-season-1.json) |
@@ -1278,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacomb Towers | 316075 | [316075-catacomb-towers.json](./316075-catacomb-towers.json) |
 | Catacombs | 142466 | [142466-catacombs.json](./142466-catacombs.json) |
 | Catacombs | 169979 | [169979-catacombs.json](./169979-catacombs.json) |
+| Catacombs | 25918 | [25918-catacombs.json](./25918-catacombs.json) |
 | Catacombs 1: Demon War | 43505 | [43505-catacombs-1-demon-war.json](./43505-catacombs-1-demon-war.json) |
 | Catacombs of the Phantoms | 356691 | [356691-catacombs-of-the-phantoms.json](./356691-catacombs-of-the-phantoms.json) |
 | Catacombs: The Asper Case | 235854 | [235854-catacombs-the-asper-case.json](./235854-catacombs-the-asper-case.json) |
@@ -1664,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceramic Soul | 198556 | [198556-ceramic-soul.json](./198556-ceramic-soul.json) |
 | Ceraphic Requiem | 399700 | [399700-ceraphic-requiem.json](./399700-ceraphic-requiem.json) |
 | Cerasus | 202331 | [202331-cerasus.json](./202331-cerasus.json) |
+| Cerberus | 25955 | [25955-cerberus.json](./25955-cerberus.json) |
 | Cerberus | 272016 | [272016-cerberus.json](./272016-cerberus.json) |
 | Cerberus Corporation: Red Room | 335246 | [335246-cerberus-corporation-red-room.json](./335246-cerberus-corporation-red-room.json) |
 | Cerebrawl | 70367 | [70367-cerebrawl.json](./70367-cerebrawl.json) |
@@ -2127,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chevrolet Camaro Wild Ride 3D | 84575 | [84575-chevrolet-camaro-wild-ride-3d.json](./84575-chevrolet-camaro-wild-ride-3d.json) |
 | Chewing | 113741 | [113741-chewing.json](./113741-chewing.json) |
 | Chex | 232978 | [232978-chex.json](./232978-chex.json) |
+| Cheyenne | 25957 | [25957-cheyenne.json](./25957-cheyenne.json) |
 | Chez Croggy | 264153 | [264153-chez-croggy.json](./264153-chez-croggy.json) |
 | Chezz | 242660 | [242660-chezz.json](./242660-chezz.json) |
 | Chezz | 56445 | [56445-chezz.json](./56445-chezz.json) |
@@ -5758,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crunchball 3000 | 346564 | [346564-crunchball-3000.json](./346564-crunchball-3000.json) |
 | Cruncher | 60202 | [60202-cruncher.json](./60202-cruncher.json) |
 | Crunchy Numbers Math Arcade | 205082 | [205082-crunchy-numbers-math-arcade.json](./205082-crunchy-numbers-math-arcade.json) |
+| Crusade in Europe | 25922 | [25922-crusade-in-europe.json](./25922-crusade-in-europe.json) |
 | Crusade of Deitra | 173296 | [173296-crusade-of-deitra.json](./173296-crusade-of-deitra.json) |
 | Crusade of Destiny | 66721 | [66721-crusade-of-destiny.json](./66721-crusade-of-destiny.json) |
 | Crusader Kings | 2922 | [2922-crusader-kings.json](./2922-crusader-kings.json) |
@@ -6047,6 +6052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubeism 2: Baroque Edition | 218149 | [218149-cubeism-2-baroque-edition.json](./218149-cubeism-2-baroque-edition.json) |
 | CubeLines | 191251 | [191251-cubelines.json](./191251-cubelines.json) |
 | Cubelz | 101357 | [101357-cubelz.json](./101357-cubelz.json) |
+| Cubemash | 25961 | [25961-cubemash.json](./25961-cubemash.json) |
 | CubeMator - Mine the MC World | 102203 | [102203-cubemator-mine-the-mc-world.json](./102203-cubemator-mine-the-mc-world.json) |
 | Cuber | 254584 | [254584-cuber.json](./254584-cuber.json) |
 | Cuber 3: Schmidt | 284357 | [284357-cuber-3-schmidt.json](./284357-cuber-3-schmidt.json) |
