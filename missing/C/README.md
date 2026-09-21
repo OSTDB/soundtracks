@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campido | 111756 | [111756-campido.json](./111756-campido.json) |
 | Camping Builder | 192838 | [192838-camping-builder.json](./192838-camping-builder.json) |
 | Camping Simulator: The Squad | 150072 | [150072-camping-simulator-the-squad.json](./150072-camping-simulator-the-squad.json) |
+| Camping Tycoon | 62979 | [62979-camping-tycoon.json](./62979-camping-tycoon.json) |
 | Campire of Oasis: The Story | 397659 | [397659-campire-of-oasis-the-story.json](./397659-campire-of-oasis-the-story.json) |
 | Camplandia | 249872 | [249872-camplandia.json](./249872-camplandia.json) |
 | CampNight | 223502 | [223502-campnight.json](./223502-campnight.json) |
@@ -1278,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | catAnod | 96429 | [96429-catanod.json](./96429-catanod.json) |
 | Cataplexy | 186826 | [186826-cataplexy.json](./186826-cataplexy.json) |
 | Catapult Battle Simulator! | 122399 | [122399-catapult-battle-simulator.json](./122399-catapult-battle-simulator.json) |
+| Catapult for Hire | 63002 | [63002-catapult-for-hire.json](./63002-catapult-for-hire.json) |
 | Cataractnacon & Zeangala | 271801 | [271801-cataractnacon-and-zeangala.json](./271801-cataractnacon-and-zeangala.json) |
 | Catarsis: Catventure | 295259 | [295259-catarsis-catventure.json](./295259-catarsis-catventure.json) |
 | Catass | 254758 | [254758-catass.json](./254758-catass.json) |
@@ -2547,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromacell | 290540 | [290540-chromacell.json](./290540-chromacell.json) |
 | Chromadrome | 73511 | [73511-chromadrome.json](./73511-chromadrome.json) |
 | Chromahertz | 211739 | [211739-chromahertz.json](./211739-chromahertz.json) |
+| Chromancer | 63008 | [63008-chromancer.json](./63008-chromancer.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
 | Chromatic | 200719 | [200719-chromatic.json](./200719-chromatic.json) |
 | Chromatic Fantasia EX | 98442 | [98442-chromatic-fantasia-ex.json](./98442-chromatic-fantasia-ex.json) |
@@ -3449,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codedoor | 281997 | [281997-codedoor.json](./281997-codedoor.json) |
 | Codemakers | 193411 | [193411-codemakers.json](./193411-codemakers.json) |
 | Codemount | 301436 | [301436-codemount.json](./301436-codemount.json) |
+| Codename Cygnus | 63001 | [63001-codename-cygnus.json](./63001-codename-cygnus.json) |
 | Codename Kids Next Door: Operation B.E.S.T. | 342736 | [342736-codename-kids-next-door-operation-b-e-s-t.json](./342736-codename-kids-next-door-operation-b-e-s-t.json) |
 | Codename Kids Next Door: Tummy Trouble | 349934 | [349934-codename-kids-next-door-tummy-trouble.json](./349934-codename-kids-next-door-tummy-trouble.json) |
 | Codename Mallow | 139251 | [139251-codename-mallow.json](./139251-codename-mallow.json) |
@@ -5098,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Boom | 147386 | [147386-crazy-boom.json](./147386-crazy-boom.json) |
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
 | Crazy Car | 94263 | [94263-crazy-car.json](./94263-crazy-car.json) |
+| Crazy Cars: Hit the Road | 62976 | [62976-crazy-cars-hit-the-road.json](./62976-crazy-cars-hit-the-road.json) |
 | Crazy Cauldron | 176968 | [176968-crazy-cauldron.json](./176968-crazy-cauldron.json) |
 | Crazy Chewy | 47267 | [47267-crazy-chewy.json](./47267-crazy-chewy.json) |
 | Crazy Chicken Carnival | 135816 | [135816-crazy-chicken-carnival.json](./135816-crazy-chicken-carnival.json) |
