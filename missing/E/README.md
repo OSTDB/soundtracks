@@ -987,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmoteGuesser | 232687 | [232687-emoteguesser.json](./232687-emoteguesser.json) |
 | Emotions: A Day In A Life | 178603 | [178603-emotions-a-day-in-a-life.json](./178603-emotions-a-day-in-a-life.json) |
 | Emperium | 155661 | [155661-emperium.json](./155661-emperium.json) |
+| Emperor of the Fading Suns | 50145 | [50145-emperor-of-the-fading-suns.json](./50145-emperor-of-the-fading-suns.json) |
 | Empire Chronicles | 163985 | [163985-empire-chronicles.json](./163985-empire-chronicles.json) |
 | Empire FactionWar | 290512 | [290512-empire-factionwar.json](./290512-empire-factionwar.json) |
 | Empire I: World Builders | 24892 | [24892-empire-i-world-builders.json](./24892-empire-i-world-builders.json) |
@@ -1752,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape to School | 192804 | [192804-escape-to-school.json](./192804-escape-to-school.json) |
 | Escape to the Ocean | 231061 | [231061-escape-to-the-ocean.json](./231061-escape-to-the-ocean.json) |
 | Escape Velocity | 377579 | [377579-escape-velocity.json](./377579-escape-velocity.json) |
+| Escape Velocity Nova | 50144 | [50144-escape-velocity-nova.json](./50144-escape-velocity-nova.json) |
 | Escape War | 153960 | [153960-escape-war.json](./153960-escape-war.json) |
 | Escape Whisper Valley | 61673 | [61673-escape-whisper-valley.json](./61673-escape-whisper-valley.json) |
 | Escape With Bombs | 179134 | [179134-escape-with-bombs.json](./179134-escape-with-bombs.json) |
