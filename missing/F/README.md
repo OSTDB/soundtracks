@@ -1500,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter's Fury | 72082 | [72082-fighters-fury.json](./72082-fighters-fury.json) |
 | Fighter's History 2 | 58791 | [58791-fighters-history-2.json](./58791-fighters-history-2.json) |
 | Fighter's Rampage | 235309 | [235309-fighters-rampage.json](./235309-fighters-rampage.json) |
+| Fighters Unleashed | 30166 | [30166-fighters-unleashed.json](./30166-fighters-unleashed.json) |
 | Fighters Wizards | 131595 | [131595-fighters-wizards.json](./131595-fighters-wizards.json) |
 | Fighters' Glory | 129700 | [129700-fighters-glory.json](./129700-fighters-glory.json) |
 | Fighters' Impact | 44826 | [44826-fighters-impact.json](./44826-fighters-impact.json) |
@@ -3598,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FR Master: Formula Racing Simulator | 261356 | [261356-fr-master-formula-racing-simulator.json](./261356-fr-master-formula-racing-simulator.json) |
 | Fracas | 25691 | [25691-fracas.json](./25691-fracas.json) |
 | Frackin' Universe | 279760 | [279760-frackin-universe.json](./279760-frackin-universe.json) |
+| Fractal | 30192 | [30192-fractal.json](./30192-fractal.json) |
 | Fractal | 381036 | [381036-fractal.json](./381036-fractal.json) |
 | Fractal Block World | 152744 | [152744-fractal-block-world.json](./152744-fractal-block-world.json) |
 | Fractal Fly | 196135 | [196135-fractal-fly.json](./196135-fractal-fly.json) |
@@ -4137,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen | 206151 | [206151-frozen.json](./206151-frozen.json) |
 | Frozen | 230377 | [230377-frozen.json](./230377-frozen.json) |
 | Frozen Cortex | 16521 | [16521-frozen-cortex.json](./16521-frozen-cortex.json) |
+| Frozen Drift Race | 30185 | [30185-frozen-drift-race.json](./30185-frozen-drift-race.json) |
 | Frozen Feathers | 362266 | [362266-frozen-feathers.json](./362266-frozen-feathers.json) |
 | Frozen Forward | 383967 | [383967-frozen-forward.json](./383967-frozen-forward.json) |
 | Frozen Friends | 146683 | [146683-frozen-friends.json](./146683-frozen-friends.json) |
