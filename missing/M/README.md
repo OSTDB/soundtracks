@@ -3505,6 +3505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Revenge of Arcade | 84228 | [84228-microsoft-revenge-of-arcade.json](./84228-microsoft-revenge-of-arcade.json) |
 | Microsoft Soccer | 93003 | [93003-microsoft-soccer.json](./93003-microsoft-soccer.json) |
 | Microsoft Solitaire | 242378 | [242378-microsoft-solitaire.json](./242378-microsoft-solitaire.json) |
+| Microsoft Solitaire | 8177 | [8177-microsoft-solitaire.json](./8177-microsoft-solitaire.json) |
 | Microsoft Space Simulator | 50116 | [50116-microsoft-space-simulator.json](./50116-microsoft-space-simulator.json) |
 | Microsoft Spider Solitaire | 8196 | [8196-microsoft-spider-solitaire.json](./8196-microsoft-spider-solitaire.json) |
 | Microsoft Sudoku | 60285 | [60285-microsoft-sudoku.json](./60285-microsoft-sudoku.json) |
@@ -6850,6 +6851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst | 236 | [236-myst.json](./236-myst.json) |
 | Myst | 272031 | [272031-myst.json](./272031-myst.json) |
 | Myst | 347130 | [347130-myst.json](./347130-myst.json) |
+| Myst III: Exile | 797 | [797-myst-iii-exile.json](./797-myst-iii-exile.json) |
 | Myst IV: Revelation | 798 | [798-myst-iv-revelation.json](./798-myst-iv-revelation.json) |
 | Myst Mobile | 237366 | [237366-myst-mobile.json](./237366-myst-mobile.json) |
 | Myst: Through the Ages Collection | 230816 | [230816-myst-through-the-ages-collection.json](./230816-myst-through-the-ages-collection.json) |
