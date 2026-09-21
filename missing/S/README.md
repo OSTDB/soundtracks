@@ -620,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanrio Characters Miracle Match: Magical Onigokko | 334648 | [334648-sanrio-characters-miracle-match-magical-onigokko.json](./334648-sanrio-characters-miracle-match-magical-onigokko.json) |
 | Sanrio Danshi: Watashi, Koi Wo, Shirimashita | 229031 | [229031-sanrio-danshi-watashi-koi-wo-shirimashita.json](./229031-sanrio-danshi-watashi-koi-wo-shirimashita.json) |
 | Sanrio Timenet World | 302682 | [302682-sanrio-timenet-world.json](./302682-sanrio-timenet-world.json) |
+| Sanrio World: Kero Kero Keroppi no Bouken Nikki | 37964 | [37964-sanrio-world-kero-kero-keroppi-no-bouken-nikki.json](./37964-sanrio-world-kero-kero-keroppi-no-bouken-nikki.json) |
 | Sans & Papyrus: Salsa Lesson | 367395 | [367395-sans-and-papyrus-salsa-lesson.json](./367395-sans-and-papyrus-salsa-lesson.json) |
 | Sansara Naga 1 | 341472 | [341472-sansara-naga-1.json](./341472-sansara-naga-1.json) |
 | Sansara Naga 2 | 341473 | [341473-sansara-naga-2.json](./341473-sansara-naga-2.json) |
@@ -11084,6 +11085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ultra Monster Smash! | 51597 | [51597-super-ultra-monster-smash.json](./51597-super-ultra-monster-smash.json) |
 | Super Ultra Mustard Man | 351737 | [351737-super-ultra-mustard-man.json](./351737-super-ultra-mustard-man.json) |
 | Super Ultra Star Shooter | 85417 | [85417-super-ultra-star-shooter.json](./85417-super-ultra-star-shooter.json) |
+| Super Uno | 37946 | [37946-super-uno.json](./37946-super-uno.json) |
 | Super Uwol | 299173 | [299173-super-uwol.json](./299173-super-uwol.json) |
 | Super Vadimka II: Revenge of Dr. Kulik | 194612 | [194612-super-vadimka-ii-revenge-of-dr-kulik.json](./194612-super-vadimka-ii-revenge-of-dr-kulik.json) |
 | Super Vadimka III: Enter ALJ | 202324 | [202324-super-vadimka-iii-enter-alj.json](./202324-super-vadimka-iii-enter-alj.json) |
