@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barry Mcguigan Championship Boxing | 45336 | [45336-barry-mcguigan-championship-boxing.json](./45336-barry-mcguigan-championship-boxing.json) |
 | Barry the Bunny | 151187 | [151187-barry-the-bunny.json](./151187-barry-the-bunny.json) |
 | Bart Bash | 350404 | [350404-bart-bash.json](./350404-bart-bash.json) |
+| Bart Bird | 26935 | [26935-bart-bird.json](./26935-bart-bird.json) |
 | Bart's Nightmare Redux | 219272 | [219272-barts-nightmare-redux.json](./219272-barts-nightmare-redux.json) |
 | Bartholomew.exe | 358899 | [358899-bartholomew-exe.json](./358899-bartholomew-exe.json) |
 | Bartolomeu Odyssey | 248891 | [248891-bartolomeu-odyssey.json](./248891-bartolomeu-odyssey.json) |
@@ -1298,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Blades | 68330 | [68330-battle-of-blades.json](./68330-battle-of-blades.json) |
 | Battle of Britain | 82058 | [82058-battle-of-britain.json](./82058-battle-of-britain.json) |
 | Battle of Decay: Survival | 217015 | [217015-battle-of-decay-survival.json](./217015-battle-of-decay-survival.json) |
+| Battle of Dry Lake 24 | 26910 | [26910-battle-of-dry-lake-24.json](./26910-battle-of-dry-lake-24.json) |
 | Battle of Elemental | 376544 | [376544-battle-of-elemental.json](./376544-battle-of-elemental.json) |
 | Battle of Elemental Reboost | 97305 | [97305-battle-of-elemental-reboost.json](./97305-battle-of-elemental-reboost.json) |
 | Battle of Emperor Tian | 339114 | [339114-battle-of-emperor-tian.json](./339114-battle-of-emperor-tian.json) |
@@ -1629,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean Climb | 138576 | [138576-bean-climb.json](./138576-bean-climb.json) |
 | Bean Story | 203904 | [203904-bean-story.json](./203904-bean-story.json) |
 | Bean There Won That | 311497 | [311497-bean-there-won-that.json](./311497-bean-there-won-that.json) |
+| Bean's Quest 2: Bean Dreams | 26919 | [26919-beans-quest-2-bean-dreams.json](./26919-beans-quest-2-bean-dreams.json) |
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
 | Beans Dash | 256255 | [256255-beans-dash.json](./256255-beans-dash.json) |
 | BeanShooter | 256359 | [256359-beanshooter.json](./256359-beanshooter.json) |
@@ -4738,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Meow World | 318061 | [318061-brave-meow-world.json](./318061-brave-meow-world.json) |
 | Brave Mouse Cartographer Trilogy | 139476 | [139476-brave-mouse-cartographer-trilogy.json](./139476-brave-mouse-cartographer-trilogy.json) |
 | Brave Nine | 112120 | [112120-brave-nine.json](./112120-brave-nine.json) |
+| Brave Odyssea | 26976 | [26976-brave-odyssea.json](./26976-brave-odyssea.json) |
 | Brave Path | 48002 | [48002-brave-path.json](./48002-brave-path.json) |
 | Brave Prove | 91891 | [91891-brave-prove.json](./91891-brave-prove.json) |
 | Brave Quest | 296378 | [296378-brave-quest.json](./296378-brave-quest.json) |
@@ -5039,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brilliance shines in Zhejiang | 201797 | [201797-brilliance-shines-in-zhejiang.json](./201797-brilliance-shines-in-zhejiang.json) |
 | Brilliant Bob | 19484 | [19484-brilliant-bob.json](./19484-brilliant-bob.json) |
 | Brilliant Jigsaw | 357871 | [357871-brilliant-jigsaw.json](./357871-brilliant-jigsaw.json) |
+| Brimstone | 26957 | [26957-brimstone.json](./26957-brimstone.json) |
 | Brimstone Brawlers | 105267 | [105267-brimstone-brawlers.json](./105267-brimstone-brawlers.json) |
 | Brincando com Ariê | 341885 | [341885-brincando-com-arie.json](./341885-brincando-com-arie.json) |
 | Brinefall | 190220 | [190220-brinefall.json](./190220-brinefall.json) |
