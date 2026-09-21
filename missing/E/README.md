@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enlisted: M3A1 Squad | 293771 | [293771-enlisted-m3a1-squad.json](./293771-enlisted-m3a1-squad.json) |
 | Enlisted: Nambu Type 1 Squad | 293767 | [293767-enlisted-nambu-type-1-squad.json](./293767-enlisted-nambu-type-1-squad.json) |
 | Enlisted: Sherman IC "Firefly" Squad | 293770 | [293770-enlisted-sherman-ic-firefly-squad.json](./293770-enlisted-sherman-ic-firefly-squad.json) |
+| Enlysia | 44191 | [44191-enlysia.json](./44191-enlysia.json) |
 | Ennuigi | 175880 | [175880-ennuigi.json](./175880-ennuigi.json) |
 | Ennuigi: A Time for Monsters | 396200 | [396200-ennuigi-a-time-for-monsters.json](./396200-ennuigi-a-time-for-monsters.json) |
 | Enoah's Quest | 303516 | [303516-enoahs-quest.json](./303516-enoahs-quest.json) |
@@ -1509,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eraser vs. Ruler | 323706 | [323706-eraser-vs-ruler.json](./323706-eraser-vs-ruler.json) |
 | Erasure | 125282 | [125282-erasure.json](./125282-erasure.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
+| Erefia | 44212 | [44212-erefia.json](./44212-erefia.json) |
 | Eremidia: Archivist's Curse | 208588 | [208588-eremidia-archivists-curse.json](./208588-eremidia-archivists-curse.json) |
 | Erepublik | 63258 | [63258-erepublik.json](./63258-erepublik.json) |
 | Eret Link | 229385 | [229385-eret-link.json](./229385-eret-link.json) |
@@ -1935,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eterspire | 143526 | [143526-eterspire.json](./143526-eterspire.json) |
 | Ethan's Watch | 390613 | [390613-ethans-watch.json](./390613-ethans-watch.json) |
 | Ether | 311502 | [311502-ether.json](./311502-ether.json) |
+| Ether Awakening | 44229 | [44229-ether-awakening.json](./44229-ether-awakening.json) |
 | Ether Loop | 126735 | [126735-ether-loop.json](./126735-ether-loop.json) |
 | Ether Quest | 97283 | [97283-ether-quest.json](./97283-ether-quest.json) |
 | Ether Saga Online | 51195 | [51195-ether-saga-online.json](./51195-ether-saga-online.json) |
@@ -2351,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exalted Seracthon | 235856 | [235856-exalted-seracthon.json](./235856-exalted-seracthon.json) |
 | Exanimora | 371959 | [371959-exanimora.json](./371959-exanimora.json) |
 | Exanimum: The Silent Call | 290410 | [290410-exanimum-the-silent-call.json](./290410-exanimum-the-silent-call.json) |
+| Exatron Quest 2 | 44201 | [44201-exatron-quest-2.json](./44201-exatron-quest-2.json) |
 | Excalibur 2555 A.D. | 15514 | [15514-excalibur-2555-a-d.json](./15514-excalibur-2555-a-d.json) |
 | Excaliburian!! | 186153 | [186153-excaliburian.json](./186153-excaliburian.json) |
 | Excavate Diamond | 228111 | [228111-excavate-diamond.json](./228111-excavate-diamond.json) |
