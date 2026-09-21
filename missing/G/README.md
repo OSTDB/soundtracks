@@ -1557,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Hime to Kagami no Juusha: Limited Edition | 172588 | [172588-glass-hime-to-kagami-no-juusha-limited-edition.json](./172588-glass-hime-to-kagami-no-juusha-limited-edition.json) |
 | Glass Horizon | 322604 | [322604-glass-horizon.json](./322604-glass-horizon.json) |
 | Glass Joe's Punch Out!! | 360100 | [360100-glass-joes-punch-out.json](./360100-glass-joes-punch-out.json) |
+| Glass Masquerade | 25871 | [25871-glass-masquerade.json](./25871-glass-masquerade.json) |
 | Glass Masquerade 2: Illusions | 109763 | [109763-glass-masquerade-2-illusions.json](./109763-glass-masquerade-2-illusions.json) |
 | Glass Masquerade 3: Honeylines | 249809 | [249809-glass-masquerade-3-honeylines.json](./249809-glass-masquerade-3-honeylines.json) |
 | Glass Smash 64 | 338801 | [338801-glass-smash-64.json](./338801-glass-smash-64.json) |
@@ -2674,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraveBond | 272390 | [272390-gravebond.json](./272390-gravebond.json) |
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
 | Gravedigger | 94557 | [94557-gravedigger.json](./94557-gravedigger.json) |
+| Gravel | 27514 | [27514-gravel.json](./27514-gravel.json) |
 | Gravel Gang | 243791 | [243791-gravel-gang.json](./243791-gravel-gang.json) |
 | Gravel: Armored Operation | 167805 | [167805-gravel-armored-operation.json](./167805-gravel-armored-operation.json) |
 | Gravel: King of Buggies | 172061 | [172061-gravel-king-of-buggies.json](./172061-gravel-king-of-buggies.json) |
