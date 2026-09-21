@@ -4638,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobiles Tycoon | 304584 | [304584-mobiles-tycoon.json](./304584-mobiles-tycoon.json) |
 | Mobiloid | 64104 | [64104-mobiloid.json](./64104-mobiloid.json) |
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
+| Mobius Final Fantasy | 21628 | [21628-mobius-final-fantasy.json](./21628-mobius-final-fantasy.json) |
 | Mobmania | 211807 | [211807-mobmania.json](./211807-mobmania.json) |
 | Mobo Greenhouse Garden | 256903 | [256903-mobo-greenhouse-garden.json](./256903-mobo-greenhouse-garden.json) |
 | Mobo Hide and Seek | 200128 | [200128-mobo-hide-and-seek.json](./200128-mobo-hide-and-seek.json) |
@@ -5835,6 +5836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motus Paintball VR | 336593 | [336593-motus-paintball-vr.json](./336593-motus-paintball-vr.json) |
 | Moubootaur Legends | 177425 | [177425-moubootaur-legends.json](./177425-moubootaur-legends.json) |
 | Mouja | 197958 | [197958-mouja.json](./197958-mouja.json) |
+| Mount & Blade: Warband - Napoleonic Wars | 8784 | [8784-mount-and-blade-warband-napoleonic-wars.json](./8784-mount-and-blade-warband-napoleonic-wars.json) |
 | Mount Everest Story | 174331 | [174331-mount-everest-story.json](./174331-mount-everest-story.json) |
 | Mount Farewell | 221178 | [221178-mount-farewell.json](./221178-mount-farewell.json) |
 | Mount Lomyst | 369112 | [369112-mount-lomyst.json](./369112-mount-lomyst.json) |
