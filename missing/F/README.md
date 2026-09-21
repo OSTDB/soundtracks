@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F18 Pilot Simulator | 174355 | [174355-f18-pilot-simulator.json](./174355-f18-pilot-simulator.json) |
 | F22 Air Dominance Fighter: Red Sea Operations | 59926 | [59926-f22-air-dominance-fighter-red-sea-operations.json](./59926-f22-air-dominance-fighter-red-sea-operations.json) |
 | F40 Pursuit Simulator | 47217 | [47217-f40-pursuit-simulator.json](./47217-f40-pursuit-simulator.json) |
+| FA Manager | 44818 | [44818-fa-manager.json](./44818-fa-manager.json) |
 | FA Tetris | 250372 | [250372-fa-tetris.json](./250372-fa-tetris.json) |
 | Fab 5 Soccer | 124633 | [124633-fab-5-soccer.json](./124633-fab-5-soccer.json) |
 | Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
@@ -1488,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter's Rampage | 235309 | [235309-fighters-rampage.json](./235309-fighters-rampage.json) |
 | Fighters Wizards | 131595 | [131595-fighters-wizards.json](./131595-fighters-wizards.json) |
 | Fighters' Glory | 129700 | [129700-fighters-glory.json](./129700-fighters-glory.json) |
+| Fighters' Impact | 44826 | [44826-fighters-impact.json](./44826-fighters-impact.json) |
 | FightGirl | 310025 | [310025-fightgirl.json](./310025-fightgirl.json) |
 | Fightin' Spirit | 12096 | [12096-fightin-spirit.json](./12096-fightin-spirit.json) |
 | Fightin' Words | 297074 | [297074-fightin-words.json](./297074-fightin-words.json) |
@@ -1514,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Layer | 39552 | [39552-fighting-layer.json](./39552-fighting-layer.json) |
 | Fighting Mad Lads | 187396 | [187396-fighting-mad-lads.json](./187396-fighting-mad-lads.json) |
 | Fighting Moore | 127015 | [127015-fighting-moore.json](./127015-fighting-moore.json) |
+| Fighting Network Rings | 44825 | [44825-fighting-network-rings.json](./44825-fighting-network-rings.json) |
 | Fighting of School | 306953 | [306953-fighting-of-school.json](./306953-fighting-of-school.json) |
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
 | Fighting Soccer | 12097 | [12097-fighting-soccer.json](./12097-fighting-soccer.json) |
