@@ -1784,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape: Backrooms Horror VR | 391175 | [391175-escape-backrooms-horror-vr.json](./391175-escape-backrooms-horror-vr.json) |
 | Escape: Immersion | 391205 | [391205-escape-immersion.json](./391205-escape-immersion.json) |
 | Escape: Lia | 195173 | [195173-escape-lia.json](./195173-escape-lia.json) |
+| Escape: VR | 29157 | [29157-escape-vr.json](./29157-escape-vr.json) |
 | Escape! | 89659 | [89659-escape.json](./89659-escape.json) |
 | Escape30DayCircle | 360650 | [360650-escape30daycircle.json](./360650-escape30daycircle.json) |
 | Escaped Chasm | 116988 | [116988-escaped-chasm.json](./116988-escaped-chasm.json) |
