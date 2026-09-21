@@ -2461,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
 | Gran Empire | 149443 | [149443-gran-empire.json](./149443-gran-empire.json) |
 | Gran Trak 10 | 7429 | [7429-gran-trak-10.json](./7429-gran-trak-10.json) |
+| Gran Turismo 2 | 1597 | [1597-gran-turismo-2.json](./1597-gran-turismo-2.json) |
 | Gran Turismo 2000 | 298017 | [298017-gran-turismo-2000.json](./298017-gran-turismo-2000.json) |
 | Gran Turismo 4 Spec II | 336043 | [336043-gran-turismo-4-spec-ii.json](./336043-gran-turismo-4-spec-ii.json) |
 | Gran Turismo 4: Spec II | 339256 | [339256-gran-turismo-4-spec-ii.json](./339256-gran-turismo-4-spec-ii.json) |
