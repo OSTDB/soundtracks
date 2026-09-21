@@ -1765,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deja Vu II: MacVenture Series | 35914 | [35914-deja-vu-ii-macventure-series.json](./35914-deja-vu-ii-macventure-series.json) |
 | Deja Vu: MacVenture Series | 35913 | [35913-deja-vu-macventure-series.json](./35913-deja-vu-macventure-series.json) |
 | DejaVu by dropout.tv | 299994 | [299994-dejavu-by-dropout-tv.json](./299994-dejavu-by-dropout-tv.json) |
+| Dejection: An Ode | 57901 | [57901-dejection-an-ode.json](./57901-dejection-an-ode.json) |
 | Deka Voice | 64928 | [64928-deka-voice.json](./64928-deka-voice.json) |
 | DekaBlox Arena | 104001 | [104001-dekablox-arena.json](./104001-dekablox-arena.json) |
 | Dekaron | 60258 | [60258-dekaron.json](./60258-dekaron.json) |
@@ -3200,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Animated Storybook: Toy Story | 239203 | [239203-disneys-animated-storybook-toy-story.json](./239203-disneys-animated-storybook-toy-story.json) |
 | Disney's Arcade Frenzy | 120809 | [120809-disneys-arcade-frenzy.json](./120809-disneys-arcade-frenzy.json) |
 | Disney's Atlantis: The Lost Empire - Trial by Fire | 78004 | [78004-disneys-atlantis-the-lost-empire-trial-by-fire.json](./78004-disneys-atlantis-the-lost-empire-trial-by-fire.json) |
+| Disney's Beauty and the Beast: Magical Ballroom | 57919 | [57919-disneys-beauty-and-the-beast-magical-ballroom.json](./57919-disneys-beauty-and-the-beast-magical-ballroom.json) |
 | Disney's Bonkers: Wax Up! | 57622 | [57622-disneys-bonkers-wax-up.json](./57622-disneys-bonkers-wax-up.json) |
 | Disney's Brother Bear | 248637 | [248637-disneys-brother-bear.json](./248637-disneys-brother-bear.json) |
 | Disney's Chicken Little: Ace in Action | 20627 | [20627-disneys-chicken-little-ace-in-action.json](./20627-disneys-chicken-little-ace-in-action.json) |
@@ -3222,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Party | 242808 | [242808-disneys-party.json](./242808-disneys-party.json) |
 | Disney's Pocahantas: Riverbend Adventures | 76602 | [76602-disneys-pocahantas-riverbend-adventures.json](./76602-disneys-pocahantas-riverbend-adventures.json) |
 | Disney's TaleSpin | 198936 | [198936-disneys-talespin.json](./198936-disneys-talespin.json) |
+| Disney's Tarzan Activity Center | 57923 | [57923-disneys-tarzan-activity-center.json](./57923-disneys-tarzan-activity-center.json) |
 | Disney's Tarzan: Return to the Jungle | 49339 | [49339-disneys-tarzan-return-to-the-jungle.json](./49339-disneys-tarzan-return-to-the-jungle.json) |
 | Disney's Tarzan: Untamed | 10625 | [10625-disneys-tarzan-untamed.json](./10625-disneys-tarzan-untamed.json) |
 | Disney's The Lion King | 204572 | [204572-disneys-the-lion-king.json](./204572-disneys-the-lion-king.json) |
