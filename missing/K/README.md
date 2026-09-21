@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kivi, Toilet and Shotgun | 16308 | [16308-kivi-toilet-and-shotgun.json](./16308-kivi-toilet-and-shotgun.json) |
 | Kiwame Mahjong Deluxe: Mirai Senshi 21 | 128365 | [128365-kiwame-mahjong-deluxe-mirai-senshi-21.json](./128365-kiwame-mahjong-deluxe-mirai-senshi-21.json) |
 | Kiwame Mahjong DX II | 97872 | [97872-kiwame-mahjong-dx-ii.json](./97872-kiwame-mahjong-dx-ii.json) |
+| Kiwanuka | 61305 | [61305-kiwanuka.json](./61305-kiwanuka.json) |
 | Kiwi | 186256 | [186256-kiwi.json](./186256-kiwi.json) |
 | Kiwi | 306688 | [306688-kiwi.json](./306688-kiwi.json) |
 | Kiwi 64 | 128579 | [128579-kiwi-64.json](./128579-kiwi-64.json) |
