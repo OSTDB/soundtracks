@@ -440,6 +440,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
 | 2069 AD | 98267 | [98267-2069-ad.json](./98267-2069-ad.json) |
 | 2084 | 113154 | [113154-2084.json](./113154-2084.json) |
+| 2088: The Cryllan Mission | 57377 | [57377-2088-the-cryllan-mission.json](./57377-2088-the-cryllan-mission.json) |
+| 2088: The Cryllan Mission - The Second Scenario | 57374 | [57374-2088-the-cryllan-mission-the-second-scenario.json](./57374-2088-the-cryllan-mission-the-second-scenario.json) |
 | 20Q | 320398 | [320398-20q.json](./320398-20q.json) |
 | 20Q: The Simpsons | 320399 | [320399-20q-the-simpsons.json](./320399-20q-the-simpsons.json) |
 | 20x20x20 | 175786 | [175786-20x20x20.json](./175786-20x20x20.json) |
@@ -536,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 35 Electric | 382899 | [382899-35-electric.json](./382899-35-electric.json) |
 | 35MM | 19396 | [19396-35mm.json](./19396-35mm.json) |
 | 36 Nights | 277942 | [277942-36-nights.json](./277942-36-nights.json) |
+| 360 Breakout | 57321 | [57321-360-breakout.json](./57321-360-breakout.json) |
 | 360 Mega App Pack HD | 78352 | [78352-360-mega-app-pack-hd.json](./78352-360-mega-app-pack-hd.json) |
 | 360 Mega Pack HD Remix | 98814 | [98814-360-mega-pack-hd-remix.json](./98814-360-mega-pack-hd-remix.json) |
 | 360: Three Sixty | 45318 | [45318-360-three-sixty.json](./45318-360-three-sixty.json) |
