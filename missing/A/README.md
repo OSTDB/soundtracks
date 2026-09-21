@@ -2346,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anastasia: Adventures with Pooka and Bartok | 69561 | [69561-anastasia-adventures-with-pooka-and-bartok.json](./69561-anastasia-adventures-with-pooka-and-bartok.json) |
 | Anata dake no Private Lesson: DS de Hajimeru Tipness no Yoga | 269550 | [269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json](./269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json) |
 | Anata o Yurusanai | 59396 | [59396-anata-o-yurusanai.json](./59396-anata-o-yurusanai.json) |
+| Anathema | 54688 | [54688-anathema.json](./54688-anathema.json) |
 | Anbar | 387545 | [387545-anbar.json](./387545-anbar.json) |
 | Ancestor's Legacy: Conqueror's Edition | 202221 | [202221-ancestors-legacy-conquerors-edition.json](./202221-ancestors-legacy-conquerors-edition.json) |
 | Ancestors Legacy: Saladin's Conquest | 122203 | [122203-ancestors-legacy-saladins-conquest.json](./122203-ancestors-legacy-saladins-conquest.json) |
@@ -3038,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anzu | 325056 | [325056-anzu.json](./325056-anzu.json) |
 | Ao no Kanata no Four Rhythm 4th Anniversary Box | 124030 | [124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json](./124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json) |
 | Ao no Kanata no Four Rhythm Extra1+2P | 280892 | [280892-ao-no-kanata-no-four-rhythm-extra1-2p.json](./280892-ao-no-kanata-no-four-rhythm-extra1-2p.json) |
+| Ao Oni 2 | 54708 | [54708-ao-oni-2.json](./54708-ao-oni-2.json) |
 | Ao Oni X | 313275 | [313275-ao-oni-x.json](./313275-ao-oni-x.json) |
 | AO Tennis | 76726 | [76726-ao-tennis.json](./76726-ao-tennis.json) |
 | AO Tennis | 80907 | [80907-ao-tennis.json](./80907-ao-tennis.json) |
@@ -3977,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army of One | 199494 | [199494-army-of-one.json](./199494-army-of-one.json) |
 | Army of Pixels | 34757 | [34757-army-of-pixels.json](./34757-army-of-pixels.json) |
 | Army of Ruin | 219057 | [219057-army-of-ruin.json](./219057-army-of-ruin.json) |
+| Army of Squirrels | 54721 | [54721-army-of-squirrels.json](./54721-army-of-squirrels.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim - Halloween | 172178 | [172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json](./172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim 2 - DLC 2 | 254147 | [254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json](./254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json) |
 | Army of Tentacles: Assault on Rainbow Unicorn Island | 226232 | [226232-army-of-tentacles-assault-on-rainbow-unicorn-island.json](./226232-army-of-tentacles-assault-on-rainbow-unicorn-island.json) |
@@ -5066,6 +5069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
 | Avatar Legends: The Fighting Game - Deluxe Edition | 412376 | [412376-avatar-legends-the-fighting-game-deluxe-edition.json](./412376-avatar-legends-the-fighting-game-deluxe-edition.json) |
 | Avatar Ninja! | 94738 | [94738-avatar-ninja.json](./94738-avatar-ninja.json) |
+| Avatar Racedrome | 54704 | [54704-avatar-racedrome.json](./54704-avatar-racedrome.json) |
 | Avatar: Frontiers of Pandora - Secrets of the Spire | 319229 | [319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json](./319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json) |
 | Avatar: Ice Wars | 378930 | [378930-avatar-ice-wars.json](./378930-avatar-ice-wars.json) |
 | Avatar: The Last Airbender | 210487 | [210487-avatar-the-last-airbender.json](./210487-avatar-the-last-airbender.json) |
