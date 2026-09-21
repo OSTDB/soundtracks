@@ -2551,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Battle Royale | 113686 | [113686-pixel-battle-royale.json](./113686-pixel-battle-royale.json) |
 | Pixel Blocked! | 92491 | [92491-pixel-blocked.json](./92491-pixel-blocked.json) |
 | Pixel Boat Rush | 91110 | [91110-pixel-boat-rush.json](./91110-pixel-boat-rush.json) |
+| Pixel Bomb! Bomb!! | 30171 | [30171-pixel-bomb-bomb.json](./30171-pixel-bomb-bomb.json) |
 | Pixel Boy | 62783 | [62783-pixel-boy.json](./62783-pixel-boy.json) |
 | Pixel Boy 2: The Castle Revenge | 315090 | [315090-pixel-boy-2-the-castle-revenge.json](./315090-pixel-boy-2-the-castle-revenge.json) |
 | Pixel Boy and the Ever Expanding Dungeon | 16836 | [16836-pixel-boy-and-the-ever-expanding-dungeon.json](./16836-pixel-boy-and-the-ever-expanding-dungeon.json) |
