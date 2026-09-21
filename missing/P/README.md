@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: Great Star Offensive | 338742 | [338742-paper-mario-great-star-offensive.json](./338742-paper-mario-great-star-offensive.json) |
 | Paper Mario: Star Nova | 358284 | [358284-paper-mario-star-nova.json](./358284-paper-mario-star-nova.json) |
 | Paper Mario: Sticker Star | 3350 | [3350-paper-mario-sticker-star.json](./3350-paper-mario-sticker-star.json) |
+| Paper Mario: The Thousand-Year Door | 266690 | [266690-paper-mario-the-thousand-year-door.json](./266690-paper-mario-the-thousand-year-door.json) |
 | Paper Mario: The Thousand-Year Door - Hero Mode | 257966 | [257966-paper-mario-the-thousand-year-door-hero-mode.json](./257966-paper-mario-the-thousand-year-door-hero-mode.json) |
 | Paper Mario: Time Strewn Star | 323363 | [323363-paper-mario-time-strewn-star.json](./323363-paper-mario-time-strewn-star.json) |
 | Paper Mario: TTYD - Tower of Trials v3.0 | 358321 | [358321-paper-mario-ttyd-tower-of-trials-v3-0.json](./358321-paper-mario-ttyd-tower-of-trials-v3-0.json) |
@@ -1317,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pegasis | 298866 | [298866-pegasis.json](./298866-pegasis.json) |
 | Peggle | 3751 | [3751-peggle.json](./3751-peggle.json) |
 | Peggle | 95409 | [95409-peggle.json](./95409-peggle.json) |
+| Peggle 2 | 3752 | [3752-peggle-2.json](./3752-peggle-2.json) |
 | Peggle Deluxe | 28975 | [28975-peggle-deluxe.json](./28975-peggle-deluxe.json) |
 | Pegglo | 302689 | [302689-pegglo.json](./302689-pegglo.json) |
 | Peggy's Farm | 274048 | [274048-peggys-farm.json](./274048-peggys-farm.json) |
@@ -2407,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinochle Plus | 105937 | [105937-pinochle-plus.json](./105937-pinochle-plus.json) |
 | Pinono and the Magic Fiddle | 355101 | [355101-pinono-and-the-magic-fiddle.json](./355101-pinono-and-the-magic-fiddle.json) |
 | Pinpoint | 321116 | [321116-pinpoint.json](./321116-pinpoint.json) |
+| Pinstripe | 20454 | [20454-pinstripe.json](./20454-pinstripe.json) |
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
 | Pintern | 353377 | [353377-pintern.json](./353377-pintern.json) |
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
@@ -3546,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Monomyth | 413611 | [413611-pokemon-monomyth.json](./413611-pokemon-monomyth.json) |
 | Pokémon Mystery Dungeon: Blue Rescue Team | 2320 | [2320-pokemon-mystery-dungeon-blue-rescue-team.json](./2320-pokemon-mystery-dungeon-blue-rescue-team.json) |
 | Pokémon Mystery Dungeon: Explorers of Alpha | 381141 | [381141-pokemon-mystery-dungeon-explorers-of-alpha.json](./381141-pokemon-mystery-dungeon-explorers-of-alpha.json) |
+| Pokémon Mystery Dungeon: Explorers of Darkness | 2322 | [2322-pokemon-mystery-dungeon-explorers-of-darkness.json](./2322-pokemon-mystery-dungeon-explorers-of-darkness.json) |
 | Pokémon Mystery Dungeon: Origins | 365792 | [365792-pokemon-mystery-dungeon-origins.json](./365792-pokemon-mystery-dungeon-origins.json) |
 | Pokémon Mystery Dungeon: Outlaw's Paradise | 294718 | [294718-pokemon-mystery-dungeon-outlaws-paradise.json](./294718-pokemon-mystery-dungeon-outlaws-paradise.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
@@ -4082,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal: Prelude | 136390 | [136390-portal-prelude.json](./136390-portal-prelude.json) |
 | Portal: Project Beta | 219158 | [219158-portal-project-beta.json](./219158-portal-project-beta.json) |
 | Portal: Prospekt | 219159 | [219159-portal-prospekt.json](./219159-portal-prospekt.json) |
+| Portal: Revolution | 171704 | [171704-portal-revolution.json](./171704-portal-revolution.json) |
 | Portal: Singularity Collapse | 322172 | [322172-portal-singularity-collapse.json](./322172-portal-singularity-collapse.json) |
 | Portal: Still Alive For PC | 136389 | [136389-portal-still-alive-for-pc.json](./136389-portal-still-alive-for-pc.json) |
 | Portal: System Failure | 322169 | [322169-portal-system-failure.json](./322169-portal-system-failure.json) |
@@ -4513,6 +4518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Man Simulator | 149560 | [149560-primal-man-simulator.json](./149560-primal-man-simulator.json) |
 | Primal Planet | 243924 | [243924-primal-planet.json](./243924-primal-planet.json) |
 | Primal Rage | 199013 | [199013-primal-rage.json](./199013-primal-rage.json) |
+| Primal Rage | 4271 | [4271-primal-rage.json](./4271-primal-rage.json) |
 | Primal Rage II | 167154 | [167154-primal-rage-ii.json](./167154-primal-rage-ii.json) |
 | Primal Roar: Jurassic Dinosaur Era | 220652 | [220652-primal-roar-jurassic-dinosaur-era.json](./220652-primal-roar-jurassic-dinosaur-era.json) |
 | Primal Survivors | 224627 | [224627-primal-survivors.json](./224627-primal-survivors.json) |
