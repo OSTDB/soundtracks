@@ -3551,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DMBX 2.5: Mountain Bike and BMX | 174338 | [174338-dmbx-2-5-mountain-bike-and-bmx.json](./174338-dmbx-2-5-mountain-bike-and-bmx.json) |
 | DMBX: Mountain Biking | 174213 | [174213-dmbx-mountain-biking.json](./174213-dmbx-mountain-biking.json) |
 | DmC: Devil May Cry - Definitive Edition | 20869 | [20869-dmc-devil-may-cry-definitive-edition.json](./20869-dmc-devil-may-cry-definitive-edition.json) |
+| DmC: Devil May Cry - Vergil's Downfall | 21024 | [21024-dmc-devil-may-cry-vergils-downfall.json](./21024-dmc-devil-may-cry-vergils-downfall.json) |
 | DMCA's Sky | 127260 | [127260-dmcas-sky.json](./127260-dmcas-sky.json) |
 | DMD Mars Mission | 86516 | [86516-dmd-mars-mission.json](./86516-dmd-mars-mission.json) |
 | Dmod | 275917 | [275917-dmod.json](./275917-dmod.json) |
@@ -4636,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age II: Bioware Signature Edition | 141834 | [141834-dragon-age-ii-bioware-signature-edition.json](./141834-dragon-age-ii-bioware-signature-edition.json) |
 | Dragon Age II: The Black Emporium | 367421 | [367421-dragon-age-ii-the-black-emporium.json](./367421-dragon-age-ii-the-black-emporium.json) |
 | Dragon Age II: Ultimate Edition | 306726 | [306726-dragon-age-ii-ultimate-edition.json](./306726-dragon-age-ii-ultimate-edition.json) |
+| Dragon Age: Inquisition - Game of the Year Edition | 44545 | [44545-dragon-age-inquisition-game-of-the-year-edition.json](./44545-dragon-age-inquisition-game-of-the-year-edition.json) |
 | Dragon Age: Inquisition - Spoils of the Avvar | 367437 | [367437-dragon-age-inquisition-spoils-of-the-avvar.json](./367437-dragon-age-inquisition-spoils-of-the-avvar.json) |
 | Dragon Age: Inquisition - Spoils of the Qunari | 367438 | [367438-dragon-age-inquisition-spoils-of-the-qunari.json](./367438-dragon-age-inquisition-spoils-of-the-qunari.json) |
 | Dragon Age: Inquisition - The Black Emporium | 367431 | [367431-dragon-age-inquisition-the-black-emporium.json](./367431-dragon-age-inquisition-the-black-emporium.json) |
@@ -4701,6 +4703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: The Legacy of Goku | 6387 | [6387-dragon-ball-z-the-legacy-of-goku.json](./6387-dragon-ball-z-the-legacy-of-goku.json) |
 | Dragon Ball Z: The Legacy of Goku II | 19834 | [19834-dragon-ball-z-the-legacy-of-goku-ii.json](./19834-dragon-ball-z-the-legacy-of-goku-ii.json) |
 | Dragon Ball Z: The Legacy Of Tenkaichi | 308554 | [308554-dragon-ball-z-the-legacy-of-tenkaichi.json](./308554-dragon-ball-z-the-legacy-of-tenkaichi.json) |
+| Dragon Ball Z: The Legend | 2579 | [2579-dragon-ball-z-the-legend.json](./2579-dragon-ball-z-the-legend.json) |
 | Dragon Ball Z: XKeeperZ | 98436 | [98436-dragon-ball-z-xkeeperz.json](./98436-dragon-ball-z-xkeeperz.json) |
 | Dragon Ball: Origins 2 | 20412 | [20412-dragon-ball-origins-2.json](./20412-dragon-ball-origins-2.json) |
 | Dragon Ball: Sparking! Zero | 279634 | [279634-dragon-ball-sparking-zero.json](./279634-dragon-ball-sparking-zero.json) |
