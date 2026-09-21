@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest For The X | 259822 | [259822-quest-for-the-x.json](./259822-quest-for-the-x.json) |
 | Quest For Wartorn Brotherhood | 118389 | [118389-quest-for-wartorn-brotherhood.json](./118389-quest-for-wartorn-brotherhood.json) |
 | Quest for Yrolg | 57098 | [57098-quest-for-yrolg.json](./57098-quest-for-yrolg.json) |
+| Quest Forge: By Order of Kings | 48889 | [48889-quest-forge-by-order-of-kings.json](./48889-quest-forge-by-order-of-kings.json) |
 | Quest Hunter | 32396 | [32396-quest-hunter.json](./32396-quest-hunter.json) |
 | Quest Master's Realm | 235966 | [235966-quest-masters-realm.json](./235966-quest-masters-realm.json) |
 | Quest of Dungeons | 16932 | [16932-quest-of-dungeons.json](./16932-quest-of-dungeons.json) |
