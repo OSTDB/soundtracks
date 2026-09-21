@@ -2659,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Sprint 3010 | 66948 | [66948-extreme-sprint-3010.json](./66948-extreme-sprint-3010.json) |
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
+| Extreme: Rise of the Triad | 9980 | [9980-extreme-rise-of-the-triad.json](./9980-extreme-rise-of-the-triad.json) |
 | ExtremeBiking | 90383 | [90383-extremebiking.json](./90383-extremebiking.json) |
 | Extremely Realistic Siege Warfare Simulator | 130957 | [130957-extremely-realistic-siege-warfare-simulator.json](./130957-extremely-realistic-siege-warfare-simulator.json) |
 | ExtremeTK | 136861 | [136861-extremetk.json](./136861-extremetk.json) |
