@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once You Understand the Meaning These Comics Become Scary | 409696 | [409696-once-you-understand-the-meaning-these-comics-become-scary.json](./409696-once-you-understand-the-meaning-these-comics-become-scary.json) |
 | Once' | 113662 | [113662-once.json](./113662-once.json) |
 | Once10 | 113664 | [113664-once10.json](./113664-once10.json) |
+| Oncoming Death Steam Edition | 36377 | [36377-oncoming-death-steam-edition.json](./36377-oncoming-death-steam-edition.json) |
 | OncPangTzu Man | 116341 | [116341-oncpangtzu-man.json](./116341-oncpangtzu-man.json) |
 | Ondal | 345022 | [345022-ondal.json](./345022-ondal.json) |
 | One Bear Army | 272275 | [272275-one-bear-army.json](./272275-one-bear-army.json) |
@@ -1216,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operencia: The Stolen Sun - Explorer's Edition | 154541 | [154541-operencia-the-stolen-sun-explorers-edition.json](./154541-operencia-the-stolen-sun-explorers-edition.json) |
 | Operius DX | 347184 | [347184-operius-dx.json](./347184-operius-dx.json) |
 | Ophelia´s Paradise | 400313 | [400313-ophelia-s-paradise.json](./400313-ophelia-s-paradise.json) |
+| Ophidia | 36523 | [36523-ophidia.json](./36523-ophidia.json) |
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
 | Oplitak | 155982 | [155982-oplitak.json](./155982-oplitak.json) |
 | Oppai Academy Big, Bouncy, Booby Babes! | 147454 | [147454-oppai-academy-big-bouncy-booby-babes.json](./147454-oppai-academy-big-bouncy-booby-babes.json) |
