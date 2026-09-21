@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fech the Ferret | 156607 | [156607-fech-the-ferret.json](./156607-fech-the-ferret.json) |
 | FED Chairman | 391733 | [391733-fed-chairman.json](./391733-fed-chairman.json) |
 | Feda: The Emblem of Justice | 42555 | [42555-feda-the-emblem-of-justice.json](./42555-feda-the-emblem-of-justice.json) |
+| Feda: The Emblem of Justice Remake | 45521 | [45521-feda-the-emblem-of-justice-remake.json](./45521-feda-the-emblem-of-justice-remake.json) |
 | Fedanheim | 415921 | [415921-fedanheim.json](./415921-fedanheim.json) |
 | Federation Quest 1: BSS Jane Seymour | 65210 | [65210-federation-quest-1-bss-jane-seymour.json](./65210-federation-quest-1-bss-jane-seymour.json) |
 | Fedora Spade: Prologue | 57678 | [57678-fedora-spade-prologue.json](./57678-fedora-spade-prologue.json) |
@@ -1898,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Man | 247018 | [247018-fire-man.json](./247018-fire-man.json) |
 | Fire Power | 110821 | [110821-fire-power.json](./110821-fire-power.json) |
 | Fire Pro Joshi: All Star Dream Slam | 42614 | [42614-fire-pro-joshi-all-star-dream-slam.json](./42614-fire-pro-joshi-all-star-dream-slam.json) |
+| Fire Pro Wrestling Gaiden | 45534 | [45534-fire-pro-wrestling-gaiden.json](./45534-fire-pro-wrestling-gaiden.json) |
 | Fire Pro Wrestling World: Entrance Craft | 170445 | [170445-fire-pro-wrestling-world-entrance-craft.json](./170445-fire-pro-wrestling-world-entrance-craft.json) |
 | Fire Pro Wrestling World: Fighting Road - 2017 NJPW Junior Heavyweight Championship | 170447 | [170447-fire-pro-wrestling-world-fighting-road-2017-njpw-junior-heavyweight-championship.json](./170447-fire-pro-wrestling-world-fighting-road-2017-njpw-junior-heavyweight-championship.json) |
 | Fire Pro Wrestling World: Fighting Road - Champion Road Beyond | 170444 | [170444-fire-pro-wrestling-world-fighting-road-champion-road-beyond.json](./170444-fire-pro-wrestling-world-fighting-road-champion-road-beyond.json) |
