@@ -864,6 +864,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Dead Pirates | 240886 | [240886-99-dead-pirates.json](./240886-99-dead-pirates.json) |
 | 99 no Namida | 66970 | [66970-99-no-namida.json](./66970-99-no-namida.json) |
 | 99 Problems | 353316 | [353316-99-problems.json](./353316-99-problems.json) |
+| 99 Spirits: Cage of Night | 11438 | [11438-99-spirits-cage-of-night.json](./11438-99-spirits-cage-of-night.json) |
+| 99 Spirits: Weeping Demon's Bell | 11439 | [11439-99-spirits-weeping-demons-bell.json](./11439-99-spirits-weeping-demons-bell.json) |
 | 99 Waves | 283870 | [283870-99-waves.json](./283870-99-waves.json) |
 | 99% Can't Spot It! Common Sense Battle | 409671 | [409671-99-cant-spot-it-common-sense-battle.json](./409671-99-cant-spot-it-common-sense-battle.json) |
 | 99% Sky Car Racing | 108858 | [108858-99-sky-car-racing.json](./108858-99-sky-car-racing.json) |
