@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helga the Viking Warrior 5: Dawn of Doom | 318609 | [318609-helga-the-viking-warrior-5-dawn-of-doom.json](./318609-helga-the-viking-warrior-5-dawn-of-doom.json) |
 | Helga the Viking Warrior 8: Valhalla's Last War | 417509 | [417509-helga-the-viking-warrior-8-valhallas-last-war.json](./417509-helga-the-viking-warrior-8-valhallas-last-war.json) |
 | Heli Commando in Hell | 124752 | [124752-heli-commando-in-hell.json](./124752-heli-commando-in-hell.json) |
+| Heli Fire | 38565 | [38565-heli-fire.json](./38565-heli-fire.json) |
 | Heli Golf | 150602 | [150602-heli-golf.json](./150602-heli-golf.json) |
 | Heli Good Spelunker | 67975 | [67975-heli-good-spelunker.json](./67975-heli-good-spelunker.json) |
 | Heli Mission | 277865 | [277865-heli-mission.json](./277865-heli-mission.json) |
