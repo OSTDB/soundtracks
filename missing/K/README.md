@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
 | Kabod Online | 65209 | [65209-kabod-online.json](./65209-kabod-online.json) |
 | Kaboom Swing | 179151 | [179151-kaboom-swing.json](./179151-kaboom-swing.json) |
+| Kaboom! | 12309 | [12309-kaboom.json](./12309-kaboom.json) |
 | Kaboom! | 172030 | [172030-kaboom.json](./172030-kaboom.json) |
 | Kabuki Rocks | 37971 | [37971-kabuki-rocks.json](./37971-kabuki-rocks.json) |
 | Kabuki-chou Reach Mahjong: Toupuusen | 42630 | [42630-kabuki-chou-reach-mahjong-toupuusen.json](./42630-kabuki-chou-reach-mahjong-toupuusen.json) |
@@ -934,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinacoustic | 33093 | [33093-kinacoustic.json](./33093-kinacoustic.json) |
 | Kind Gals | 41325 | [41325-kind-gals.json](./41325-kind-gals.json) |
 | Kind Nature | 250958 | [250958-kind-nature.json](./250958-kind-nature.json) |
+| Kind Words | 120646 | [120646-kind-words.json](./120646-kind-words.json) |
 | Kinda Heroes | 172107 | [172107-kinda-heroes.json](./172107-kinda-heroes.json) |
 | Kindai Mahjong Special | 37960 | [37960-kindai-mahjong-special.json](./37960-kindai-mahjong-special.json) |
 | Kindaichi Shounen no Jikenbo: 10-nenme no Shoutaijou | 228581 | [228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json](./228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json) |
