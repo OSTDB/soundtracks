@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gems of Fate: the Charmed King | 133426 | [133426-gems-of-fate-the-charmed-king.json](./133426-gems-of-fate-the-charmed-king.json) |
 | Gems of Magic: Double Pack | 242051 | [242051-gems-of-magic-double-pack.json](./242051-gems-of-magic-double-pack.json) |
 | Gems of Magic: Lost Family | 116367 | [116367-gems-of-magic-lost-family.json](./116367-gems-of-magic-lost-family.json) |
+| Gems of War | 9531 | [9531-gems-of-war.json](./9531-gems-of-war.json) |
 | Gems Rush | 319964 | [319964-gems-rush.json](./319964-gems-rush.json) |
 | Gemsa | 243966 | [243966-gemsa.json](./243966-gemsa.json) |
 | Gemstone Guardians | 239640 | [239640-gemstone-guardians.json](./239640-gemstone-guardians.json) |
