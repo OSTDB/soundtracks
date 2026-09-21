@@ -3577,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
 | Might & Magic: Duel of Champions - Forgotten Wars | 52586 | [52586-might-and-magic-duel-of-champions-forgotten-wars.json](./52586-might-and-magic-duel-of-champions-forgotten-wars.json) |
 | Might & Magic: Elemental Guardians | 70707 | [70707-might-and-magic-elemental-guardians.json](./70707-might-and-magic-elemental-guardians.json) |
+| Might & Magic: Heroes Online | 20177 | [20177-might-and-magic-heroes-online.json](./20177-might-and-magic-heroes-online.json) |
 | Might & Mayhem | 38970 | [38970-might-and-mayhem.json](./38970-might-and-mayhem.json) |
 | Might and Magic III: Isles of Terra | 7735 | [7735-might-and-magic-iii-isles-of-terra.json](./7735-might-and-magic-iii-isles-of-terra.json) |
 | Might and Magic: Book One - The Secret of the Inner Sanctum | 7733 | [7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json](./7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json) |
