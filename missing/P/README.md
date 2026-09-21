@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pew Pew Zombies | 88300 | [88300-pew-pew-zombies.json](./88300-pew-pew-zombies.json) |
 | PewDiePie: Legend of the Brofist | 15182 | [15182-pewdiepie-legend-of-the-brofist.json](./15182-pewdiepie-legend-of-the-brofist.json) |
 | PewDiePie's Paradise Island | 200637 | [200637-pewdiepies-paradise-island.json](./200637-pewdiepies-paradise-island.json) |
+| PewDiePie's Tuber Simulator | 23867 | [23867-pewdiepies-tuber-simulator.json](./23867-pewdiepies-tuber-simulator.json) |
 | Pewduckpie 2 - An Unexpected Journey | 101988 | [101988-pewduckpie-2-an-unexpected-journey.json](./101988-pewduckpie-2-an-unexpected-journey.json) |
 | PewDuckPie: On the Run | 159178 | [159178-pewduckpie-on-the-run.json](./159178-pewduckpie-on-the-run.json) |
 | PewPew 2 | 140606 | [140606-pewpew-2.json](./140606-pewpew-2.json) |
@@ -4381,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predator: Hunting Grounds - Viking Predator | 168761 | [168761-predator-hunting-grounds-viking-predator.json](./168761-predator-hunting-grounds-viking-predator.json) |
 | Predator: Hunting Grounds - Yautja Edition | 320763 | [320763-predator-hunting-grounds-yautja-edition.json](./320763-predator-hunting-grounds-yautja-edition.json) |
 | Predatory Islands | 251832 | [251832-predatory-islands.json](./251832-predatory-islands.json) |
+| Predecessor | 115078 | [115078-predecessor.json](./115078-predecessor.json) |
 | Predefined | 253585 | [253585-predefined.json](./253585-predefined.json) |
 | Predestination | 35997 | [35997-predestination.json](./35997-predestination.json) |
 | Predictile | 304890 | [304890-predictile.json](./304890-predictile.json) |
