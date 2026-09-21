@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceball 2000 DX | 279728 | [279728-faceball-2000-dx.json](./279728-faceball-2000-dx.json) |
 | Faced | 181377 | [181377-faced.json](./181377-faced.json) |
 | Facemaker | 326621 | [326621-facemaker.json](./326621-facemaker.json) |
+| FaceRig | 11305 | [11305-facerig.json](./11305-facerig.json) |
 | Faces...tris III | 79320 | [79320-faces-tris-iii.json](./79320-faces-tris-iii.json) |
 | Facewound | 243111 | [243111-facewound.json](./243111-facewound.json) |
 | Facility 079 | 291041 | [291041-facility-079.json](./291041-facility-079.json) |
@@ -4026,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger II: ThreeeDeep! | 11464 | [11464-frogger-ii-threeedeep.json](./11464-frogger-ii-threeedeep.json) |
 | Frogger Returns | 11484 | [11484-frogger-returns.json](./11484-frogger-returns.json) |
 | Frogger: The Great Quest | 11467 | [11467-frogger-the-great-quest.json](./11467-frogger-the-great-quest.json) |
+| Frogger's Adventures 2: The Lost Wand | 11468 | [11468-froggers-adventures-2-the-lost-wand.json](./11468-froggers-adventures-2-the-lost-wand.json) |
 | Froggerty Arcade | 161384 | [161384-froggerty-arcade.json](./161384-froggerty-arcade.json) |
 | Froggerty Arcade 2 | 189185 | [189185-froggerty-arcade-2.json](./189185-froggerty-arcade-2.json) |
 | Froggie: A Retro Platformer | 211968 | [211968-froggie-a-retro-platformer.json](./211968-froggie-a-retro-platformer.json) |
