@@ -5583,6 +5583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
 | Puzzle Block Wood - Wooden Block & Puzzle Game | 100936 | [100936-puzzle-block-wood-wooden-block-and-puzzle-game.json](./100936-puzzle-block-wood-wooden-block-and-puzzle-game.json) |
 | Puzzle Blocks | 83937 | [83937-puzzle-blocks.json](./83937-puzzle-blocks.json) |
+| Puzzle Bobble VS | 47567 | [47567-puzzle-bobble-vs.json](./47567-puzzle-bobble-vs.json) |
 | Puzzle Bonsai | 259558 | [259558-puzzle-bonsai.json](./259558-puzzle-bonsai.json) |
 | Puzzle Book: Adventure Pack | 237980 | [237980-puzzle-book-adventure-pack.json](./237980-puzzle-book-adventure-pack.json) |
 | Puzzle Book: Furry Friends Bundle | 223564 | [223564-puzzle-book-furry-friends-bundle.json](./223564-puzzle-book-furry-friends-bundle.json) |
@@ -5618,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Cube | 275146 | [275146-puzzle-cube.json](./275146-puzzle-cube.json) |
 | Puzzle Cube: Magic Urbik Game | 207876 | [207876-puzzle-cube-magic-urbik-game.json](./207876-puzzle-cube-magic-urbik-game.json) |
 | Puzzle da Moro! | 259828 | [259828-puzzle-da-moro.json](./259828-puzzle-da-moro.json) |
+| Puzzle de Pon! R | 47579 | [47579-puzzle-de-pon-r.json](./47579-puzzle-de-pon-r.json) |
 | Puzzle DeFusion | 78979 | [78979-puzzle-defusion.json](./78979-puzzle-defusion.json) |
 | Puzzle Depot | 59650 | [59650-puzzle-depot.json](./59650-puzzle-depot.json) |
 | Puzzle Dungeon | 62776 | [62776-puzzle-dungeon.json](./62776-puzzle-dungeon.json) |
