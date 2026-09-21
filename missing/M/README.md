@@ -534,6 +534,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka 2 Upgrade Pack | 321759 | [321759-magicka-2-upgrade-pack.json](./321759-magicka-2-upgrade-pack.json) |
 | Magicka 2: Three Cardinals Robe Pack | 321758 | [321758-magicka-2-three-cardinals-robe-pack.json](./321758-magicka-2-three-cardinals-robe-pack.json) |
 | Magicka Complete Edition | 384629 | [384629-magicka-complete-edition.json](./384629-magicka-complete-edition.json) |
+| Magicka: Final Frontier | 50819 | [50819-magicka-final-frontier.json](./50819-magicka-final-frontier.json) |
+| Magicka: Frozen Lake | 50818 | [50818-magicka-frozen-lake.json](./50818-magicka-frozen-lake.json) |
+| Magicka: Nippon | 50817 | [50817-magicka-nippon.json](./50817-magicka-nippon.json) |
+| Magicka: Party Robes | 50816 | [50816-magicka-party-robes.json](./50816-magicka-party-robes.json) |
+| Magicka: The Watchtower | 50815 | [50815-magicka-the-watchtower.json](./50815-magicka-the-watchtower.json) |
+| Magicka: Wizard's Survival Kit | 50820 | [50820-magicka-wizards-survival-kit.json](./50820-magicka-wizards-survival-kit.json) |
 | Magicland Dizzy | 12182 | [12182-magicland-dizzy.json](./12182-magicland-dizzy.json) |
 | Magicliment | 261260 | [261260-magicliment.json](./261260-magicliment.json) |
 | Magicolor TD | 280173 | [280173-magicolor-td.json](./280173-magicolor-td.json) |
