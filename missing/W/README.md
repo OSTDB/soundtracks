@@ -1942,6 +1942,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wintersdawn in the Deep | 183591 | [183591-wintersdawn-in-the-deep.json](./183591-wintersdawn-in-the-deep.json) |
 | Wintersport | 68677 | [68677-wintersport.json](./68677-wintersport.json) |
 | WinTrek | 69859 | [69859-wintrek.json](./69859-wintrek.json) |
+| Winx Club: Believix in You | 25174 | [25174-winx-club-believix-in-you.json](./25174-winx-club-believix-in-you.json) |
+| Winx Club: Magical Fairy Party | 25166 | [25166-winx-club-magical-fairy-party.json](./25166-winx-club-magical-fairy-party.json) |
 | Winx Club: Winx Fairy School | 96728 | [96728-winx-club-winx-fairy-school.json](./96728-winx-club-winx-fairy-school.json) |
 | Winzer | 77383 | [77383-winzer.json](./77383-winzer.json) |
 | Wipe Out | 18160 | [18160-wipe-out.json](./18160-wipe-out.json) |
