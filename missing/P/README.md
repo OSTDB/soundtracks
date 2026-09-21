@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PachiSlot Aruze Kingdom - Delsol 2 | 75507 | [75507-pachislot-aruze-kingdom-delsol-2.json](./75507-pachislot-aruze-kingdom-delsol-2.json) |
 | PachiSlot Aruze Kingdom - Porcano 2 | 75508 | [75508-pachislot-aruze-kingdom-porcano-2.json](./75508-pachislot-aruze-kingdom-porcano-2.json) |
 | PachiSlot Aruze Kingdom - Ward of Lights | 75509 | [75509-pachislot-aruze-kingdom-ward-of-lights.json](./75509-pachislot-aruze-kingdom-ward-of-lights.json) |
+| Pachislot Ring: Noroi no 7-Kakan | 60808 | [60808-pachislot-ring-noroi-no-7-kakan.json](./60808-pachislot-ring-noroi-no-7-kakan.json) |
 | Pachislot Sengoku Musou | 64358 | [64358-pachislot-sengoku-musou.json](./64358-pachislot-sengoku-musou.json) |
 | Pachitte Chonmage Tatsujin 5: CR Kamen Rider | 61913 | [61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json](./61913-pachitte-chonmage-tatsujin-5-cr-kamen-rider.json) |
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
@@ -4820,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project I | 274579 | [274579-project-i.json](./274579-project-i.json) |
 | Project II: Final Fantasy IV | 379344 | [379344-project-ii-final-fantasy-iv.json](./379344-project-ii-final-fantasy-iv.json) |
 | Project Impulse | 203304 | [203304-project-impulse.json](./203304-project-impulse.json) |
+| Project Jump Scare | 60769 | [60769-project-jump-scare.json](./60769-project-jump-scare.json) |
 | Project Justice | 13096 | [13096-project-justice.json](./13096-project-justice.json) |
 | Project Kinesis | 301954 | [301954-project-kinesis.json](./301954-project-kinesis.json) |
 | Project Kizuna | 321764 | [321764-project-kizuna.json](./321764-project-kizuna.json) |
