@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tears of Magic | 224574 | [224574-tears-of-magic.json](./224574-tears-of-magic.json) |
 | Tears of Themis | 146245 | [146245-tears-of-themis.json](./146245-tears-of-themis.json) |
 | Tears to Tiara Gaiden: Avalon no Nazo | 76907 | [76907-tears-to-tiara-gaiden-avalon-no-nazo.json](./76907-tears-to-tiara-gaiden-avalon-no-nazo.json) |
+| Tears To Tiara II: Heir Of The Overlord | 21874 | [21874-tears-to-tiara-ii-heir-of-the-overlord.json](./21874-tears-to-tiara-ii-heir-of-the-overlord.json) |
 | Tearscape | 318752 | [318752-tearscape.json](./318752-tearscape.json) |
 | Tearstone: Thieves of the Heart | 195699 | [195699-tearstone-thieves-of-the-heart.json](./195699-tearstone-thieves-of-the-heart.json) |
 | Tearstone: Thieves of the Heart - Collector's Edition | 322791 | [322791-tearstone-thieves-of-the-heart-collectors-edition.json](./322791-tearstone-thieves-of-the-heart-collectors-edition.json) |
@@ -3725,6 +3726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of the Dead 2 | 13777 | [13777-the-house-of-the-dead-2.json](./13777-the-house-of-the-dead-2.json) |
 | The House of the Dead 2 & 3 Return | 4918 | [4918-the-house-of-the-dead-2-and-3-return.json](./4918-the-house-of-the-dead-2-and-3-return.json) |
 | The House of the Dead 2: Remake | 327808 | [327808-the-house-of-the-dead-2-remake.json](./327808-the-house-of-the-dead-2-remake.json) |
+| The House of the Dead 4 | 21721 | [21721-the-house-of-the-dead-4.json](./21721-the-house-of-the-dead-4.json) |
 | The House of the Dead: Remake | 145787 | [145787-the-house-of-the-dead-remake.json](./145787-the-house-of-the-dead-remake.json) |
 | The House of the Dead: Remake - Limidead Edition | 194406 | [194406-the-house-of-the-dead-remake-limidead-edition.json](./194406-the-house-of-the-dead-remake-limidead-edition.json) |
 | The House of the Dead: Scarlet Dawn | 82081 | [82081-the-house-of-the-dead-scarlet-dawn.json](./82081-the-house-of-the-dead-scarlet-dawn.json) |
@@ -4517,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: Journey to Rivendell | 46888 | [46888-the-lord-of-the-rings-journey-to-rivendell.json](./46888-the-lord-of-the-rings-journey-to-rivendell.json) |
 | The Lord of the Rings: Return to Moria - Ent-craft Pack | 336898 | [336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json](./336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json) |
 | The Lord of the Rings: Rise to War | 174867 | [174867-the-lord-of-the-rings-rise-to-war.json](./174867-the-lord-of-the-rings-rise-to-war.json) |
+| The Lord of the Rings: Tactics | 22458 | [22458-the-lord-of-the-rings-tactics.json](./22458-the-lord-of-the-rings-tactics.json) |
 | The Lord of the Rings: The Battle for Middle-earth | 3154 | [3154-the-lord-of-the-rings-the-battle-for-middle-earth.json](./3154-the-lord-of-the-rings-the-battle-for-middle-earth.json) |
 | The Lord of the Rings: The Battle for Middle-earth Anthology | 260701 | [260701-the-lord-of-the-rings-the-battle-for-middle-earth-anthology.json](./260701-the-lord-of-the-rings-the-battle-for-middle-earth-anthology.json) |
 | The Lord of the Rings: The Fellowship of the Ring | 201347 | [201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json](./201347-the-lord-of-the-rings-the-fellowship-of-the-ring.json) |
@@ -8508,6 +8511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell: Double Agent | 182225 | [182225-tom-clancys-splinter-cell-double-agent.json](./182225-tom-clancys-splinter-cell-double-agent.json) |
 | Tom Clancy's Splinter Cell: Double Agent | 7469 | [7469-tom-clancys-splinter-cell-double-agent.json](./7469-tom-clancys-splinter-cell-double-agent.json) |
 | Tom Clancy's Splinter Cell: Elite Echelon Edition | 27866 | [27866-tom-clancys-splinter-cell-elite-echelon-edition.json](./27866-tom-clancys-splinter-cell-elite-echelon-edition.json) |
+| Tom Clancy's Splinter Cell: Essentials | 22632 | [22632-tom-clancys-splinter-cell-essentials.json](./22632-tom-clancys-splinter-cell-essentials.json) |
 | Tom Clancy's Splinter Cell: Mission-Pack | 80186 | [80186-tom-clancys-splinter-cell-mission-pack.json](./80186-tom-clancys-splinter-cell-mission-pack.json) |
 | Tom Clancy's Splinter Cell: Pandora Tomorrow | 874 | [874-tom-clancys-splinter-cell-pandora-tomorrow.json](./874-tom-clancys-splinter-cell-pandora-tomorrow.json) |
 | Tom Clancy's Splinter Cell: Pandora Tomorrow HD | 100002 | [100002-tom-clancys-splinter-cell-pandora-tomorrow-hd.json](./100002-tom-clancys-splinter-cell-pandora-tomorrow-hd.json) |
@@ -9209,6 +9213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower | 315714 | [315714-tower.json](./315714-tower.json) |
 | Tower and Guardian | 54466 | [54466-tower-and-guardian.json](./54466-tower-and-guardian.json) |
 | Tower Attack | 352301 | [352301-tower-attack.json](./352301-tower-attack.json) |
+| Tower Bloxx | 9452 | [9452-tower-bloxx.json](./9452-tower-bloxx.json) |
 | Tower Bloxx Deluxe | 9453 | [9453-tower-bloxx-deluxe.json](./9453-tower-bloxx-deluxe.json) |
 | Tower climber | 90193 | [90193-tower-climber.json](./90193-tower-climber.json) |
 | Tower Defence | 80216 | [80216-tower-defence.json](./80216-tower-defence.json) |
@@ -9386,6 +9391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Scrappers | 333549 | [333549-toy-scrappers.json](./333549-toy-scrappers.json) |
 | Toy Shire | 253387 | [253387-toy-shire.json](./253387-toy-shire.json) |
 | Toy Shop | 21299 | [21299-toy-shop.json](./21299-toy-shop.json) |
+| Toy Soldiers | 9450 | [9450-toy-soldiers.json](./9450-toy-soldiers.json) |
 | Toy Soldiers: War Chest - Assassin’s Creed Pack | 410330 | [410330-toy-soldiers-war-chest-assassin-s-creed-pack.json](./410330-toy-soldiers-war-chest-assassin-s-creed-pack.json) |
 | Toy Soldiers: War Chest - Cobra Pack | 410323 | [410323-toy-soldiers-war-chest-cobra-pack.json](./410323-toy-soldiers-war-chest-cobra-pack.json) |
 | Toy Soldiers: War Chest - G.I. Joe Pack | 410322 | [410322-toy-soldiers-war-chest-g-i-joe-pack.json](./410322-toy-soldiers-war-chest-g-i-joe-pack.json) |
@@ -10609,6 +10615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Treats | 103885 | [103885-tropical-treats.json](./103885-tropical-treats.json) |
 | Tropical Trouble | 18589 | [18589-tropical-trouble.json](./18589-tropical-trouble.json) |
 | Tropicalia | 138612 | [138612-tropicalia.json](./138612-tropicalia.json) |
+| Tropico 3: Absolute Power | 8926 | [8926-tropico-3-absolute-power.json](./8926-tropico-3-absolute-power.json) |
 | Tropico 4 Collector's Bundle | 50872 | [50872-tropico-4-collectors-bundle.json](./50872-tropico-4-collectors-bundle.json) |
 | Tropico 4: Apocalypse | 53848 | [53848-tropico-4-apocalypse.json](./53848-tropico-4-apocalypse.json) |
 | Tropico 4: Junta Military | 53851 | [53851-tropico-4-junta-military.json](./53851-tropico-4-junta-military.json) |
