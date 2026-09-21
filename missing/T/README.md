@@ -3020,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enchanted Kingdom: Elisa's Adventure | 54440 | [54440-the-enchanted-kingdom-elisas-adventure.json](./54440-the-enchanted-kingdom-elisas-adventure.json) |
 | The Enchanted Worlds | 290020 | [290020-the-enchanted-worlds.json](./290020-the-enchanted-worlds.json) |
 | The Enchanting Islands | 54441 | [54441-the-enchanting-islands.json](./54441-the-enchanting-islands.json) |
+| The End | 38578 | [38578-the-end.json](./38578-the-end.json) |
 | The End Grows | 274580 | [274580-the-end-grows.json](./274580-the-end-grows.json) |
 | The End is Never the End | 269850 | [269850-the-end-is-never-the-end.json](./269850-the-end-is-never-the-end.json) |
 | The End o,,,o | 31847 | [31847-the-end-o-o.json](./31847-the-end-o-o.json) |
@@ -10251,6 +10252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Play 96 | 46245 | [46245-triple-play-96.json](./46245-triple-play-96.json) |
 | Triple Play 97 | 20649 | [20649-triple-play-97.json](./20649-triple-play-97.json) |
 | Triple Play 98 | 20813 | [20813-triple-play-98.json](./20813-triple-play-98.json) |
+| Triple Punch | 38552 | [38552-triple-punch.json](./38552-triple-punch.json) |
 | Triple Running Sports | 85460 | [85460-triple-running-sports.json](./85460-triple-running-sports.json) |
 | Triple Take | 173277 | [173277-triple-take.json](./173277-triple-take.json) |
 | Triple Threat Pinball | 125861 | [125861-triple-threat-pinball.json](./125861-triple-threat-pinball.json) |
@@ -10755,6 +10757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Invaders | 252138 | [252138-turtle-invaders.json](./252138-turtle-invaders.json) |
 | Turtle Racing | 331872 | [331872-turtle-racing.json](./331872-turtle-racing.json) |
 | Turtle Rush | 122368 | [122368-turtle-rush.json](./122368-turtle-rush.json) |
+| Turtle Ship | 38554 | [38554-turtle-ship.json](./38554-turtle-ship.json) |
 | Turtle Tale | 79280 | [79280-turtle-tale.json](./79280-turtle-tale.json) |
 | Turtle Wax | 317430 | [317430-turtle-wax.json](./317430-turtle-wax.json) |
 | Turtle WoW: Mysteries of Azeroth | 253071 | [253071-turtle-wow-mysteries-of-azeroth.json](./253071-turtle-wow-mysteries-of-azeroth.json) |
