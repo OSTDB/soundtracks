@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kensei: Sacred Fist | 36746 | [36746-kensei-sacred-fist.json](./36746-kensei-sacred-fist.json) |
 | Kenshin Dragon Quest: Yomigaerishi Densetsu no Tsurugi | 267376 | [267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json](./267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json) |
 | Kentilla | 26465 | [26465-kentilla.json](./26465-kentilla.json) |
+| Kentoushi Gladiator Begins | 42871 | [42871-kentoushi-gladiator-begins.json](./42871-kentoushi-gladiator-begins.json) |
 | Kentris | 93343 | [93343-kentris.json](./93343-kentris.json) |
 | Kentucky Dash | 89678 | [89678-kentucky-dash.json](./89678-kentucky-dash.json) |
 | Kentucky Route Zero: Act V | 144981 | [144981-kentucky-route-zero-act-v.json](./144981-kentucky-route-zero-act-v.json) |
@@ -1229,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kishin Douji Zenki: Tenchi Meidou | 38360 | [38360-kishin-douji-zenki-tenchi-meidou.json](./38360-kishin-douji-zenki-tenchi-meidou.json) |
 | Kishin Hishou Demonbane | 72666 | [72666-kishin-hishou-demonbane.json](./72666-kishin-hishou-demonbane.json) |
 | Kishki | 376480 | [376480-kishki.json](./376480-kishki.json) |
+| Kisou Ryouhei Gunhound EX | 42872 | [42872-kisou-ryouhei-gunhound-ex.json](./42872-kisou-ryouhei-gunhound-ex.json) |
 | Kisoubanashi Kureha | 108865 | [108865-kisoubanashi-kureha.json](./108865-kisoubanashi-kureha.json) |
 | Kiss & Crisis | 194570 | [194570-kiss-and-crisis.json](./194570-kiss-and-crisis.json) |
 | Kiss Ato | 147429 | [147429-kiss-ato.json](./147429-kiss-ato.json) |
