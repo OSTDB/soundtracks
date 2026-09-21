@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K12 | 256895 | [256895-nba-2k12.json](./256895-nba-2k12.json) |
 | NBA 2K12 | 256896 | [256896-nba-2k12.json](./256896-nba-2k12.json) |
 | NBA 2K12 | 256897 | [256897-nba-2k12.json](./256897-nba-2k12.json) |
+| NBA 2K12 | 5057 | [5057-nba-2k12.json](./5057-nba-2k12.json) |
 | NBA 2K17: The Prelude | 83763 | [83763-nba-2k17-the-prelude.json](./83763-nba-2k17-the-prelude.json) |
 | NBA 2K18 | 26772 | [26772-nba-2k18.json](./26772-nba-2k18.json) |
 | NBA 2K19 | 103218 | [103218-nba-2k19.json](./103218-nba-2k19.json) |
@@ -651,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
 | Need to Know | 18234 | [18234-need-to-know.json](./18234-need-to-know.json) |
 | Needle & Thread | 330155 | [330155-needle-and-thread.json](./330155-needle-and-thread.json) |
+| Needy Streamer Overload | 146564 | [146564-needy-streamer-overload.json](./146564-needy-streamer-overload.json) |
 | Neeko: Your 3D Interactive Monster | 262354 | [262354-neeko-your-3d-interactive-monster.json](./262354-neeko-your-3d-interactive-monster.json) |
 | NEET Simulator | 113768 | [113768-neet-simulator.json](./113768-neet-simulator.json) |
 | Nefarious Dreams | 330855 | [330855-nefarious-dreams.json](./330855-nefarious-dreams.json) |
@@ -2295,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not a Creature Was Stirring... | 177435 | [177435-not-a-creature-was-stirring.json](./177435-not-a-creature-was-stirring.json) |
 | Not a Customer | 406711 | [406711-not-a-customer.json](./406711-not-a-customer.json) |
 | Not A Fake Game | 366868 | [366868-not-a-fake-game.json](./366868-not-a-fake-game.json) |
+| Not a Hero | 6045 | [6045-not-a-hero.json](./6045-not-a-hero.json) |
 | Not a Hero - Me, Myself & Bunnylord | 140548 | [140548-not-a-hero-me-myself-and-bunnylord.json](./140548-not-a-hero-me-myself-and-bunnylord.json) |
 | Not a Prank | 118977 | [118977-not-a-prank.json](./118977-not-a-prank.json) |
 | Not All There | 229781 | [229781-not-all-there.json](./229781-not-all-there.json) |
