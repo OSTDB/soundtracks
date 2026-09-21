@@ -1502,6 +1502,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Strange: Before the Storm - Deluxe Edition | 53273 | [53273-life-is-strange-before-the-storm-deluxe-edition.json](./53273-life-is-strange-before-the-storm-deluxe-edition.json) |
 | Life is Strange: Before the Storm - Vinyl Edition | 82388 | [82388-life-is-strange-before-the-storm-vinyl-edition.json](./82388-life-is-strange-before-the-storm-vinyl-edition.json) |
 | Life is Strange: Before the Storm Remastered | 144776 | [144776-life-is-strange-before-the-storm-remastered.json](./144776-life-is-strange-before-the-storm-remastered.json) |
+| Life is Strange: Episode 2 - Out of Time | 93903 | [93903-life-is-strange-episode-2-out-of-time.json](./93903-life-is-strange-episode-2-out-of-time.json) |
+| Life is Strange: Episode 5 - Polarized | 93915 | [93915-life-is-strange-episode-5-polarized.json](./93915-life-is-strange-episode-5-polarized.json) |
 | Life is Strange: True Colors | 144765 | [144765-life-is-strange-true-colors.json](./144765-life-is-strange-true-colors.json) |
 | Life is Strange: Wavelengths | 144873 | [144873-life-is-strange-wavelengths.json](./144873-life-is-strange-wavelengths.json) |
 | Life Not Supported | 210704 | [210704-life-not-supported.json](./210704-life-not-supported.json) |
