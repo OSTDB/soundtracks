@@ -1690,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From the Hospital | 100742 | [100742-escape-from-the-hospital.json](./100742-escape-from-the-hospital.json) |
 | Escape From The Island | 283290 | [283290-escape-from-the-island.json](./283290-escape-from-the-island.json) |
 | Escape from the Lockdown: The Demon Fortress | 166061 | [166061-escape-from-the-lockdown-the-demon-fortress.json](./166061-escape-from-the-lockdown-the-demon-fortress.json) |
+| Escape from the Mindmaster | 18567 | [18567-escape-from-the-mindmaster.json](./18567-escape-from-the-mindmaster.json) |
 | Escape from the Planet of the Robot Monsters | 12067 | [12067-escape-from-the-planet-of-the-robot-monsters.json](./12067-escape-from-the-planet-of-the-robot-monsters.json) |
 | Escape from the Princess | 108661 | [108661-escape-from-the-princess.json](./108661-escape-from-the-princess.json) |
 | Escape from the Snow Lodge: Escape after Sex3 | 82959 | [82959-escape-from-the-snow-lodge-escape-after-sex3.json](./82959-escape-from-the-snow-lodge-escape-after-sex3.json) |
@@ -1952,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternally Us | 123002 | [123002-eternally-us.json](./123002-eternally-us.json) |
 | Eternally Yours | 261545 | [261545-eternally-yours.json](./261545-eternally-yours.json) |
 | Eternals' Path | 249999 | [249999-eternals-path.json](./249999-eternals-path.json) |
+| Eternam | 18544 | [18544-eternam.json](./18544-eternam.json) |
 | Eternia: Chronicles of Meranthe | 215366 | [215366-eternia-chronicles-of-meranthe.json](./215366-eternia-chronicles-of-meranthe.json) |
 | Eternity | 313863 | [313863-eternity.json](./313863-eternity.json) |
 | Eternity Convergence | 156135 | [156135-eternity-convergence.json](./156135-eternity-convergence.json) |
@@ -2472,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exitrance | 417537 | [417537-exitrance.json](./417537-exitrance.json) |
 | Exmortis | 196724 | [196724-exmortis.json](./196724-exmortis.json) |
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
+| Exo Exit | 18542 | [18542-exo-exit.json](./18542-exo-exit.json) |
 | Exo Pexo Dots & Diamond | 226740 | [226740-exo-pexo-dots-and-diamond.json](./226740-exo-pexo-dots-and-diamond.json) |
 | Exo Rally Championship | 252862 | [252862-exo-rally-championship.json](./252862-exo-rally-championship.json) |
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
