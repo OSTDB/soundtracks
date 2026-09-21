@@ -1830,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link Letter | 53275 | [53275-link-letter.json](./53275-link-letter.json) |
 | Link of Hearts | 208012 | [208012-link-of-hearts.json](./208012-link-of-hearts.json) |
 | Link the animals | 117774 | [117774-link-the-animals.json](./117774-link-the-animals.json) |
+| Link: The Faces of Evil | 8532 | [8532-link-the-faces-of-evil.json](./8532-link-the-faces-of-evil.json) |
 | Link: The Unleashed Nexus - Restructured Heaven | 151756 | [151756-link-the-unleashed-nexus-restructured-heaven.json](./151756-link-the-unleashed-nexus-restructured-heaven.json) |
 | Linked Mask | 120386 | [120386-linked-mask.json](./120386-linked-mask.json) |
 | Linkin Hero | 234620 | [234620-linkin-hero.json](./234620-linkin-hero.json) |
