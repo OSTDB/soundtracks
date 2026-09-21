@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Cat | 303244 | [303244-i-am-cat.json](./303244-i-am-cat.json) |
 | I Am Coin | 388739 | [388739-i-am-coin.json](./388739-i-am-coin.json) |
 | I am Dave | 255716 | [255716-i-am-dave.json](./255716-i-am-dave.json) |
+| I Am Dead | 131869 | [131869-i-am-dead.json](./131869-i-am-dead.json) |
 | I Am Die | 217381 | [217381-i-am-die.json](./217381-i-am-die.json) |
 | I Am Dog | 296918 | [296918-i-am-dog.json](./296918-i-am-dog.json) |
 | I am Dog(s) | 182512 | [182512-i-am-dog-s.json](./182512-i-am-dog-s.json) |
@@ -1174,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IndyCar Racing II | 71514 | [71514-indycar-racing-ii.json](./71514-indycar-racing-ii.json) |
 | Indycar Racing: The Game | 410972 | [410972-indycar-racing-the-game.json](./410972-indycar-racing-the-game.json) |
 | IndyCar Series | 5866 | [5866-indycar-series.json](./5866-indycar-series.json) |
+| Inertial Drift | 127770 | [127770-inertial-drift.json](./127770-inertial-drift.json) |
 | Inertial Drift: Twilight Rivals Edition | 203517 | [203517-inertial-drift-twilight-rivals-edition.json](./203517-inertial-drift-twilight-rivals-edition.json) |
 | Ines | 340925 | [340925-ines.json](./340925-ines.json) |
 | Inescapable VR: Underground | 51571 | [51571-inescapable-vr-underground.json](./51571-inescapable-vr-underground.json) |
