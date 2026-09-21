@@ -619,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Major League 2009 | 69266 | [69266-jikkyou-pawafuru-major-league-2009.json](./69266-jikkyou-pawafuru-major-league-2009.json) |
 | Jikkyou Pawafuru Pro Yakyuu '96: Kaimaku-ban | 42644 | [42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json](./42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json) |
 | Jikkyou Pawafuru Pro Yakyuu: Basic-ban '98 | 37207 | [37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json](./37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json) |
+| Jikkyou Pawafuru Puroyakyu '95 | 63563 | [63563-jikkyou-pawafuru-puroyakyu-95.json](./63563-jikkyou-pawafuru-puroyakyu-95.json) |
 | Jikkyou Pawafuru Puroyakyu '99: Kaimaku-ban | 138738 | [138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json](./138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 14 | 69203 | [69203-jikkyou-pawafuru-puroyakyu-14.json](./69203-jikkyou-pawafuru-puroyakyu-14.json) |
 | Jikkyou Pawafuru Puroyakyu 15 | 69204 | [69204-jikkyou-pawafuru-puroyakyu-15.json](./69204-jikkyou-pawafuru-puroyakyu-15.json) |
@@ -734,6 +735,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joey The Duck | 370217 | [370217-joey-the-duck.json](./370217-joey-the-duck.json) |
 | Joey's Shisha Simulator | 326412 | [326412-joeys-shisha-simulator.json](./326412-joeys-shisha-simulator.json) |
 | Johan | 403561 | [403561-johan.json](./403561-johan.json) |
+| John Adventure | 63574 | [63574-john-adventure.json](./63574-john-adventure.json) |
+| John Adventure | 63575 | [63575-john-adventure.json](./63575-john-adventure.json) |
 | John Black: Memories | 108417 | [108417-john-black-memories.json](./108417-john-black-memories.json) |
 | John Carter: Warlord of Mars | 172715 | [172715-john-carter-warlord-of-mars.json](./172715-john-carter-warlord-of-mars.json) |
 | John Cena’s Sexy High School Adventure | 250376 | [250376-john-cena-s-sexy-high-school-adventure.json](./250376-john-cena-s-sexy-high-school-adventure.json) |
