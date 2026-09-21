@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneMaze.io | 98444 | [98444-onemaze-io.json](./98444-onemaze-io.json) |
 | Onenellemoo | 239638 | [239638-onenellemoo.json](./239638-onenellemoo.json) |
 | onEscapee | 93044 | [93044-onescapee.json](./93044-onescapee.json) |
+| OneScreen Solar Sails | 37399 | [37399-onescreen-solar-sails.json](./37399-onescreen-solar-sails.json) |
 | OneScreen Wagons | 74475 | [74475-onescreen-wagons.json](./74475-onescreen-wagons.json) |
 | OneShot: Fading Memory | 166079 | [166079-oneshot-fading-memory.json](./166079-oneshot-fading-memory.json) |
 | Onesimus: A Quest for Freedom | 68971 | [68971-onesimus-a-quest-for-freedom.json](./68971-onesimus-a-quest-for-freedom.json) |
@@ -1926,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OVR Dynamic Resolution | 319793 | [319793-ovr-dynamic-resolution.json](./319793-ovr-dynamic-resolution.json) |
 | Ovum City | 221428 | [221428-ovum-city.json](./221428-ovum-city.json) |
 | Ovus Nova | 185623 | [185623-ovus-nova.json](./185623-ovus-nova.json) |
+| Owari | 37389 | [37389-owari.json](./37389-owari.json) |
 | Owarinaki Natsu, Towa Naru Shirabe | 202383 | [202383-owarinaki-natsu-towa-naru-shirabe.json](./202383-owarinaki-natsu-towa-naru-shirabe.json) |
 | Owe Money Pay Money | 301251 | [301251-owe-money-pay-money.json](./301251-owe-money-pay-money.json) |
 | Owen to have fun! | 101363 | [101363-owen-to-have-fun.json](./101363-owen-to-have-fun.json) |
