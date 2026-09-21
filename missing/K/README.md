@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keda | 178509 | [178509-keda.json](./178509-keda.json) |
 | Keep Deep Sheep | 333607 | [333607-keep-deep-sheep.json](./333607-keep-deep-sheep.json) |
 | Keep Defending | 31350 | [31350-keep-defending.json](./31350-keep-defending.json) |
+| Keep Driving | 310904 | [310904-keep-driving.json](./310904-keep-driving.json) |
 | Keep Fe Chicken | 179133 | [179133-keep-fe-chicken.json](./179133-keep-fe-chicken.json) |
 | Keep Flip | 264594 | [264594-keep-flip.json](./264594-keep-flip.json) |
 | Keep Gambling | 372530 | [372530-keep-gambling.json](./372530-keep-gambling.json) |
@@ -1051,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Dungeon | 228691 | [228691-kings-dungeon.json](./228691-kings-dungeon.json) |
 | King's Field | 7422 | [7422-kings-field.json](./7422-kings-field.json) |
 | King's Field | 7423 | [7423-kings-field.json](./7423-kings-field.json) |
+| King's Field II | 9500 | [9500-kings-field-ii.json](./9500-kings-field-ii.json) |
 | King's Hand: Exotic Purgatory Pack | 230919 | [230919-kings-hand-exotic-purgatory-pack.json](./230919-kings-hand-exotic-purgatory-pack.json) |
 | King's Hand: Exotic Zeus Pack | 230920 | [230920-kings-hand-exotic-zeus-pack.json](./230920-kings-hand-exotic-zeus-pack.json) |
 | King's Hand: Seasonal Winter Pack | 230918 | [230918-kings-hand-seasonal-winter-pack.json](./230918-kings-hand-seasonal-winter-pack.json) |
@@ -1733,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kong | 142412 | [142412-kong.json](./142412-kong.json) |
 | Kong Studios | 368009 | [368009-kong-studios.json](./368009-kong-studios.json) |
 | Kong: King of Atlantis | 49334 | [49334-kong-king-of-atlantis.json](./49334-kong-king-of-atlantis.json) |
+| Kong: Survivor Instinct | 314136 | [314136-kong-survivor-instinct.json](./314136-kong-survivor-instinct.json) |
 | Kong: The 8th Wonder of the World | 49397 | [49397-kong-the-8th-wonder-of-the-world.json](./49397-kong-the-8th-wonder-of-the-world.json) |
 | Kong: The Animated Series | 49333 | [49333-kong-the-animated-series.json](./49333-kong-the-animated-series.json) |
 | Kongfu | 246465 | [246465-kongfu.json](./246465-kongfu.json) |
