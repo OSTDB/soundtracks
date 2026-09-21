@@ -475,6 +475,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Revenge 2 | 241509 | [241509-samurai-revenge-2.json](./241509-samurai-revenge-2.json) |
 | Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
 | Samurai Shaver | 177442 | [177442-samurai-shaver.json](./177442-samurai-shaver.json) |
+| Samurai Shodown 64 | 19990 | [19990-samurai-shodown-64.json](./19990-samurai-shodown-64.json) |
+| Samurai Shodown 64: Warriors Rage | 19991 | [19991-samurai-shodown-64-warriors-rage.json](./19991-samurai-shodown-64-warriors-rage.json) |
 | Samurai Shodown: Baiken | 167836 | [167836-samurai-shodown-baiken.json](./167836-samurai-shodown-baiken.json) |
 | Samurai Shodown: Deluxe Edition | 331842 | [331842-samurai-shodown-deluxe-edition.json](./331842-samurai-shodown-deluxe-edition.json) |
 | Samurai Shodown: Deluxe Pack | 237974 | [237974-samurai-shodown-deluxe-pack.json](./237974-samurai-shodown-deluxe-pack.json) |
@@ -1127,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP Area 8 | 82390 | [82390-scp-area-8.json](./82390-scp-area-8.json) |
 | SCP Observer | 188680 | [188680-scp-observer.json](./188680-scp-observer.json) |
 | SCP-087 | 336366 | [336366-scp-087.json](./336366-scp-087.json) |
+| SCP-087-B | 20204 | [20204-scp-087-b.json](./20204-scp-087-b.json) |
 | SCP-087-B UE Remake | 277856 | [277856-scp-087-b-ue-remake.json](./277856-scp-087-b-ue-remake.json) |
 | SCP-087: The Stairwell Horror | 324126 | [324126-scp-087-the-stairwell-horror.json](./324126-scp-087-the-stairwell-horror.json) |
 | SCP-167 nn5n. Horror labyrinth | 88805 | [88805-scp-167-nn5n-horror-labyrinth.json](./88805-scp-167-nn5n-horror-labyrinth.json) |
@@ -2739,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shieldmaiden | 129709 | [129709-shieldmaiden.json](./129709-shieldmaiden.json) |
 | Shields Up! VR | 102196 | [102196-shields-up-vr.json](./102196-shields-up-vr.json) |
 | Shieldwall Chronicles | 197769 | [197769-shieldwall-chronicles.json](./197769-shieldwall-chronicles.json) |
+| Shien's Revenge | 20173 | [20173-shiens-revenge.json](./20173-shiens-revenge.json) |
 | Shift | 181920 | [181920-shift.json](./181920-shift.json) |
 | Shift 0 | 352204 | [352204-shift-0.json](./352204-shift-0.json) |
 | Shift DX | 26737 | [26737-shift-dx.json](./26737-shift-dx.json) |
@@ -3796,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singulier | 413634 | [413634-singulier.json](./413634-singulier.json) |
 | Sinij Parovoz | 301402 | [301402-sinij-parovoz.json](./301402-sinij-parovoz.json) |
 | Sinistar | 18693 | [18693-sinistar.json](./18693-sinistar.json) |
+| Sinistar Unleashed | 20377 | [20377-sinistar-unleashed.json](./20377-sinistar-unleashed.json) |
 | Sinister Adventures Bundle | 199624 | [199624-sinister-adventures-bundle.json](./199624-sinister-adventures-bundle.json) |
 | Sinister City | 17898 | [17898-sinister-city.json](./17898-sinister-city.json) |
 | Sinister Fate | 38992 | [38992-sinister-fate.json](./38992-sinister-fate.json) |
@@ -8918,6 +8923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Out! | 386696 | [386696-stick-out.json](./386696-stick-out.json) |
 | Stick Ranger | 57898 | [57898-stick-ranger.json](./57898-stick-ranger.json) |
 | Stick Runner: Operation Europe | 105763 | [105763-stick-runner-operation-europe.json](./105763-stick-runner-operation-europe.json) |
+| Stick Shift | 20257 | [20257-stick-shift.json](./20257-stick-shift.json) |
 | Stick Slasher | 264615 | [264615-stick-slasher.json](./264615-stick-slasher.json) |
 | Stick Soldiers | 68700 | [68700-stick-soldiers.json](./68700-stick-soldiers.json) |
 | Stick Tennis | 277566 | [277566-stick-tennis.json](./277566-stick-tennis.json) |
@@ -9244,6 +9250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
 | Strategist | 107808 | [107808-strategist.json](./107808-strategist.json) |
 | Stratego | 72027 | [72027-stratego.json](./72027-stratego.json) |
+| Stratego Online | 20172 | [20172-stratego-online.json](./20172-stratego-online.json) |
 | Strategy & Tactics: Sandbox World War II TBS | 99992 | [99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json](./99992-strategy-and-tactics-sandbox-world-war-ii-tbs.json) |
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
 | Strategy Games | 84213 | [84213-strategy-games.json](./84213-strategy-games.json) |
@@ -9738,6 +9745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Waifu | 127998 | [127998-succubus-waifu.json](./127998-succubus-waifu.json) |
 | Succubus War | 186830 | [186830-succubus-war.json](./186830-succubus-war.json) |
 | Succubuses Love Creampie | 169424 | [169424-succubuses-love-creampie.json](./169424-succubuses-love-creampie.json) |
+| Succulent | 20252 | [20252-succulent.json](./20252-succulent.json) |
 | Succulent Studio | 400224 | [400224-succulent-studio.json](./400224-succulent-studio.json) |
 | Such Ninja | 254154 | [254154-such-ninja.json](./254154-such-ninja.json) |
 | Such, Such Were the Joys | 264352 | [264352-such-such-were-the-joys.json](./264352-such-such-were-the-joys.json) |
@@ -10200,6 +10208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bomberman R Online: Premium Pack | 150653 | [150653-super-bomberman-r-online-premium-pack.json](./150653-super-bomberman-r-online-premium-pack.json) |
 | Super Bomberman: Panic Bomber W | 42546 | [42546-super-bomberman-panic-bomber-w.json](./42546-super-bomberman-panic-bomber-w.json) |
 | Super BOO Quest | 110180 | [110180-super-boo-quest.json](./110180-super-boo-quest.json) |
+| Super Boss Gaiden | 20333 | [20333-super-boss-gaiden.json](./20333-super-boss-gaiden.json) |
 | Super Bowl Trivia Challenge | 88832 | [88832-super-bowl-trivia-challenge.json](./88832-super-bowl-trivia-challenge.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Boy III | 47524 | [47524-super-boy-iii.json](./47524-super-boy-iii.json) |
@@ -11491,6 +11500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving with a Bat | 277824 | [277824-surviving-with-a-bat.json](./277824-surviving-with-a-bat.json) |
 | Survivium | 408938 | [408938-survivium.json](./408938-survivium.json) |
 | Survivor | 155085 | [155085-survivor.json](./155085-survivor.json) |
+| Survivor | 20325 | [20325-survivor.json](./20325-survivor.json) |
 | Survivor | 22801 | [22801-survivor.json](./22801-survivor.json) |
 | Survivor Cells | 199590 | [199590-survivor-cells.json](./199590-survivor-cells.json) |
 | Survivor Cells: Virusbane | 310389 | [310389-survivor-cells-virusbane.json](./310389-survivor-cells-virusbane.json) |
