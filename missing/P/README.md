@@ -3991,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppit! Party | 354993 | [354993-poppit-party.json](./354993-poppit-party.json) |
 | Poppy Birds | 267955 | [267955-poppy-birds.json](./267955-poppy-birds.json) |
 | Poppy It! Playtime | 281420 | [281420-poppy-it-playtime.json](./281420-poppy-it-playtime.json) |
+| Poppy Kart | 13884 | [13884-poppy-kart.json](./13884-poppy-kart.json) |
 | Poppy Kart 2 | 366248 | [366248-poppy-kart-2.json](./366248-poppy-kart-2.json) |
 | Poppy Playtime Toybox Bundle 1 | 375863 | [375863-poppy-playtime-toybox-bundle-1.json](./375863-poppy-playtime-toybox-bundle-1.json) |
 | Poppy Sanctum | 396891 | [396891-poppy-sanctum.json](./396891-poppy-sanctum.json) |
