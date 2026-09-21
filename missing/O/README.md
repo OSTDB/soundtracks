@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observation at Freddy's | 318639 | [318639-observation-at-freddys.json](./318639-observation-at-freddys.json) |
 | Observation Daruma Log | 400262 | [400262-observation-daruma-log.json](./400262-observation-daruma-log.json) |
 | Observe | 410313 | [410313-observe.json](./410313-observe.json) |
+| Observer | 19545 | [19545-observer.json](./19545-observer.json) |
 | Observer | 265130 | [265130-observer.json](./265130-observer.json) |
 | Observer Protocol: The Station - Final Shift | 350432 | [350432-observer-protocol-the-station-final-shift.json](./350432-observer-protocol-the-station-final-shift.json) |
 | Observer Protocol: The Station - First Shift | 345484 | [345484-observer-protocol-the-station-first-shift.json](./345484-observer-protocol-the-station-first-shift.json) |
