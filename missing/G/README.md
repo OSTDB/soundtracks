@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GermCraft Deluxe | 208013 | [208013-germcraft-deluxe.json](./208013-germcraft-deluxe.json) |
 | Germinal | 202229 | [202229-germinal.json](./202229-germinal.json) |
 | Germinator | 21019 | [21019-germinator.json](./21019-germinator.json) |
+| Germs: Nerawareta Machi | 62438 | [62438-germs-nerawareta-machi.json](./62438-germs-nerawareta-machi.json) |
 | Germs.io | 112152 | [112152-germs-io.json](./112152-germs-io.json) |
 | Gerry Anderson's Thunderbirds: Shutsudou Thunderbird 2-gou | 385726 | [385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json](./385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json) |
 | Gerry the Germ Goes Body Poppin' | 26464 | [26464-gerry-the-germ-goes-body-poppin.json](./26464-gerry-the-germ-goes-body-poppin.json) |
@@ -1544,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GlobeXplore | 284883 | [284883-globexplore.json](./284883-globexplore.json) |
 | Globs | 322758 | [322758-globs.json](./322758-globs.json) |
 | Globulation 2 | 124609 | [124609-globulation-2.json](./124609-globulation-2.json) |
+| Globulos Mania | 62447 | [62447-globulos-mania.json](./62447-globulos-mania.json) |
 | Globy | 326061 | [326061-globy.json](./326061-globy.json) |
 | Glogwillette | 306968 | [306968-glogwillette.json](./306968-glogwillette.json) |
 | Gloom | 151203 | [151203-gloom.json](./151203-gloom.json) |
@@ -2486,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graphomata | 288878 | [288878-graphomata.json](./288878-graphomata.json) |
 | GraphSpacer | 68637 | [68637-graphspacer.json](./68637-graphspacer.json) |
 | GraphSpacer Black | 80243 | [80243-graphspacer-black.json](./80243-graphspacer-black.json) |
+| Grapple Boy | 62425 | [62425-grapple-boy.json](./62425-grapple-boy.json) |
 | Grapple Dogs Collection | 331408 | [331408-grapple-dogs-collection.json](./331408-grapple-dogs-collection.json) |
 | Grapple Flow VR | 301826 | [301826-grapple-flow-vr.json](./301826-grapple-flow-vr.json) |
 | Grapple Gal | 219804 | [219804-grapple-gal.json](./219804-grapple-gal.json) |
@@ -3493,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guuguuthropus | 143656 | [143656-guuguuthropus.json](./143656-guuguuthropus.json) |
 | Guwange Ruga Daioujou XII Kizuna Down | 377699 | [377699-guwange-ruga-daioujou-xii-kizuna-down.json](./377699-guwange-ruga-daioujou-xii-kizuna-down.json) |
 | Guy Spy and the Crystals of Armageddon | 12130 | [12130-guy-spy-and-the-crystals-of-armageddon.json](./12130-guy-spy-and-the-crystals-of-armageddon.json) |
+| Guy vs. The Wicked and Nefarious Land | 62413 | [62413-guy-vs-the-wicked-and-nefarious-land.json](./62413-guy-vs-the-wicked-and-nefarious-land.json) |
 | Gverse | 236913 | [236913-gverse.json](./236913-gverse.json) |
 | GwenBlade 2: Halloween | 340406 | [340406-gwenblade-2-halloween.json](./340406-gwenblade-2-halloween.json) |
 | Gwent: Crimson Curse | 115776 | [115776-gwent-crimson-curse.json](./115776-gwent-crimson-curse.json) |
