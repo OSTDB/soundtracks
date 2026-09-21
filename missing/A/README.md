@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Warped Wonderland | 145633 | [145633-alices-warped-wonderland.json](./145633-alices-warped-wonderland.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
 | Alicia Online | 60233 | [60233-alicia-online.json](./60233-alicia-online.json) |
+| Alien | 25132 | [25132-alien.json](./25132-alien.json) |
 | Alien 3 | 8908 | [8908-alien-3.json](./8908-alien-3.json) |
 | Alien 911 | 117523 | [117523-alien-911.json](./117523-alien-911.json) |
 | Alien Animals: Sandbox | 154463 | [154463-alien-animals-sandbox.json](./154463-alien-animals-sandbox.json) |
@@ -4616,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Warrior/Pit Pot | 93584 | [93584-astro-warrior-pit-pot.json](./93584-astro-warrior-pit-pot.json) |
 | Astro Wars | 47284 | [47284-astro-wars.json](./47284-astro-wars.json) |
 | Astro Zip VR | 157563 | [157563-astro-zip-vr.json](./157563-astro-zip-vr.json) |
+| Astro-Dodge | 25156 | [25156-astro-dodge.json](./25156-astro-dodge.json) |
 | Astro-g | 133366 | [133366-astro-g.json](./133366-astro-g.json) |
 | Astro: The Beginning | 118431 | [118431-astro-the-beginning.json](./118431-astro-the-beginning.json) |
 | Astroball | 338170 | [338170-astroball.json](./338170-astroball.json) |
