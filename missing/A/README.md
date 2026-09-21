@@ -4403,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assemble | 266778 | [266778-assemble.json](./266778-assemble.json) |
 | Assemble the Car | 233488 | [233488-assemble-the-car.json](./233488-assemble-the-car.json) |
 | Assemble! | 304679 | [304679-assemble.json](./304679-assemble.json) |
+| Assembloids | 41018 | [41018-assembloids.json](./41018-assembloids.json) |
 | Assembloids 2600 | 321557 | [321557-assembloids-2600.json](./321557-assembloids-2600.json) |
 | Assembly Line | 65756 | [65756-assembly-line.json](./65756-assembly-line.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
