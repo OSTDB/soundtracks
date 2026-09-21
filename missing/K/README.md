@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Bounty: Legions - Champion of the Realm Pack | 169934 | [169934-kings-bounty-legions-champion-of-the-realm-pack.json](./169934-kings-bounty-legions-champion-of-the-realm-pack.json) |
 | King's Bounty: Legions - Lord of Chaos Pack | 169932 | [169932-kings-bounty-legions-lord-of-chaos-pack.json](./169932-kings-bounty-legions-lord-of-chaos-pack.json) |
 | King's Bounty: Legions - True Tactician Ultimate Pack | 169931 | [169931-kings-bounty-legions-true-tactician-ultimate-pack.json](./169931-kings-bounty-legions-true-tactician-ultimate-pack.json) |
+| King's Bounty: The Legend | 5039 | [5039-kings-bounty-the-legend.json](./5039-kings-bounty-the-legend.json) |
 | King's Bounty: Ultimate Edition | 53258 | [53258-kings-bounty-ultimate-edition.json](./53258-kings-bounty-ultimate-edition.json) |
 | King's Choice | 186308 | [186308-kings-choice.json](./186308-kings-choice.json) |
 | King's Devotion | 381146 | [381146-kings-devotion.json](./381146-kings-devotion.json) |
@@ -1077,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts III + Re Mind: Cloud Version | 187459 | [187459-kingdom-hearts-iii-re-mind-cloud-version.json](./187459-kingdom-hearts-iii-re-mind-cloud-version.json) |
 | Kingdom Hearts Integrum Masterpiece | 305216 | [305216-kingdom-hearts-integrum-masterpiece.json](./305216-kingdom-hearts-integrum-masterpiece.json) |
 | Kingdom Hearts Integrum Masterpiece for Cloud | 187460 | [187460-kingdom-hearts-integrum-masterpiece-for-cloud.json](./187460-kingdom-hearts-integrum-masterpiece-for-cloud.json) |
+| Kingdom Hearts Re:Chain of Memories | 20286 | [20286-kingdom-hearts-re-chain-of-memories.json](./20286-kingdom-hearts-re-chain-of-memories.json) |
 | Kingdom Hearts Re:Chain of Memories | 214986 | [214986-kingdom-hearts-re-chain-of-memories.json](./214986-kingdom-hearts-re-chain-of-memories.json) |
 | Kingdom Hearts Rebirth | 349294 | [349294-kingdom-hearts-rebirth.json](./349294-kingdom-hearts-rebirth.json) |
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
