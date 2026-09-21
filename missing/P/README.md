@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedro's Adventures in Spanish | 159161 | [159161-pedros-adventures-in-spanish.json](./159161-pedros-adventures-in-spanish.json) |
 | Pee War! | 163861 | [163861-pee-war.json](./163861-pee-war.json) |
 | Peek a Rabbit! | 395666 | [395666-peek-a-rabbit.json](./395666-peek-a-rabbit.json) |
+| Peek-A-Boo Poker | 48277 | [48277-peek-a-boo-poker.json](./48277-peek-a-boo-poker.json) |
 | Peek-A-Mimic Christmas Castle | 326261 | [326261-peek-a-mimic-christmas-castle.json](./326261-peek-a-mimic-christmas-castle.json) |
 | Peekaboo Collection - 3 Tales of Horror | 132347 | [132347-peekaboo-collection-3-tales-of-horror.json](./132347-peekaboo-collection-3-tales-of-horror.json) |
 | Peekazoo | 211284 | [211284-peekazoo.json](./211284-peekazoo.json) |
@@ -1426,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Ace 2: The Championships | 43247 | [43247-perfect-ace-2-the-championships.json](./43247-perfect-ace-2-the-championships.json) |
 | Perfect Angle | 69321 | [69321-perfect-angle.json](./69321-perfect-angle.json) |
 | Perfect Balance | 186259 | [186259-perfect-balance.json](./186259-perfect-balance.json) |
+| Perfect Bowling | 48306 | [48306-perfect-bowling.json](./48306-perfect-bowling.json) |
 | Perfect Boyfriend | 207322 | [207322-perfect-boyfriend.json](./207322-perfect-boyfriend.json) |
 | Perfect Cells Project | 278388 | [278388-perfect-cells-project.json](./278388-perfect-cells-project.json) |
 | Perfect Choro Q | 63794 | [63794-perfect-choro-q.json](./63794-perfect-choro-q.json) |
@@ -4191,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Slave | 45972 | [45972-power-slave.json](./45972-power-slave.json) |
 | Power Sled | 130872 | [130872-power-sled.json](./130872-power-sled.json) |
 | Power Soccer | 320968 | [320968-power-soccer.json](./320968-power-soccer.json) |
+| Power Soccer | 48305 | [48305-power-soccer.json](./48305-power-soccer.json) |
 | Power Soccer 2 | 93996 | [93996-power-soccer-2.json](./93996-power-soccer-2.json) |
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
 | Power Sphere | 53471 | [53471-power-sphere.json](./53471-power-sphere.json) |
@@ -4673,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Tennis WTA Tour | 242802 | [242802-pro-tennis-wta-tour.json](./242802-pro-tennis-wta-tour.json) |
 | Pro Turkey Hunting | 234077 | [234077-pro-turkey-hunting.json](./234077-pro-turkey-hunting.json) |
 | Pro Yakyuu Dream Nine Superstars | 220313 | [220313-pro-yakyuu-dream-nine-superstars.json](./220313-pro-yakyuu-dream-nine-superstars.json) |
+| Pro Yakyuu Family Stadium '88: Nendo-ban | 48304 | [48304-pro-yakyuu-family-stadium-88-nendo-ban.json](./48304-pro-yakyuu-family-stadium-88-nendo-ban.json) |
 | Pro Yakyuu ga Suki Da! 2017 | 194032 | [194032-pro-yakyuu-ga-suki-da-2017.json](./194032-pro-yakyuu-ga-suki-da-2017.json) |
 | Pro Yakyuu GG League | 141191 | [141191-pro-yakyuu-gg-league.json](./141191-pro-yakyuu-gg-league.json) |
 | Pro Yakyuu Greatest Nine 97 | 231611 | [231611-pro-yakyuu-greatest-nine-97.json](./231611-pro-yakyuu-greatest-nine-97.json) |
