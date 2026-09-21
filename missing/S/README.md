@@ -1972,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Elmo Says | 384072 | [384072-sesame-street-elmo-says.json](./384072-sesame-street-elmo-says.json) |
 | Sesame Street: Elmo's 123s | 49934 | [49934-sesame-street-elmos-123s.json](./49934-sesame-street-elmos-123s.json) |
 | Sesame Street: Elmo's ABCs | 49933 | [49933-sesame-street-elmos-abcs.json](./49933-sesame-street-elmos-abcs.json) |
+| Sesame Street: Letter-Go-Round | 25175 | [25175-sesame-street-letter-go-round.json](./25175-sesame-street-letter-go-round.json) |
 | Sesame Street: Music Maker | 138578 | [138578-sesame-street-music-maker.json](./138578-sesame-street-music-maker.json) |
 | Sesame Street: Ready, Set, Grover! | 138577 | [138577-sesame-street-ready-set-grover.json](./138577-sesame-street-ready-set-grover.json) |
 | Sesame Street: Ready, Set, Grover! With Elmo - The Videogame | 47954 | [47954-sesame-street-ready-set-grover-with-elmo-the-videogame.json](./47954-sesame-street-ready-set-grover-with-elmo-the-videogame.json) |
@@ -4158,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Skipper | 288336 | [288336-sky-skipper.json](./288336-sky-skipper.json) |
 | Sky Sports Football Manager | 94003 | [94003-sky-sports-football-manager.json](./94003-sky-sports-football-manager.json) |
 | Sky Squadron | 139477 | [139477-sky-squadron.json](./139477-sky-squadron.json) |
+| Sky Target | 25173 | [25173-sky-target.json](./25173-sky-target.json) |
 | Sky Taxi 2: Storm 2012 | 54368 | [54368-sky-taxi-2-storm-2012.json](./54368-sky-taxi-2-storm-2012.json) |
 | Sky Taxi 3: The Movie | 54369 | [54369-sky-taxi-3-the-movie.json](./54369-sky-taxi-3-the-movie.json) |
 | Sky Taxi 4: Top Secret | 54371 | [54371-sky-taxi-4-top-secret.json](./54371-sky-taxi-4-top-secret.json) |
@@ -4781,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile | 129706 | [129706-smile.json](./129706-smile.json) |
 | Smile For Me: Collector's Edition | 229691 | [229691-smile-for-me-collectors-edition.json](./229691-smile-for-me-collectors-edition.json) |
 | Smile Guide: The Apple Escape | 56136 | [56136-smile-guide-the-apple-escape.json](./56136-smile-guide-the-apple-escape.json) |
+| Smile Inc. | 25178 | [25178-smile-inc.json](./25178-smile-inc.json) |
 | Smile More | 395023 | [395023-smile-more.json](./395023-smile-more.json) |
 | Smile Simulation | 303078 | [303078-smile-simulation.json](./303078-smile-simulation.json) |
 | Smile Town | 338191 | [338191-smile-town.json](./338191-smile-town.json) |
@@ -4860,6 +4863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack and Quack | 366221 | [366221-snack-and-quack.json](./366221-snack-and-quack.json) |
 | Snack Attack | 374133 | [374133-snack-attack.json](./374133-snack-attack.json) |
 | Snack Attack and Friends | 74750 | [74750-snack-attack-and-friends.json](./74750-snack-attack-and-friends.json) |
+| Snack Attack II | 25151 | [25151-snack-attack-ii.json](./25151-snack-attack-ii.json) |
 | Snack Invaders | 392275 | [392275-snack-invaders.json](./392275-snack-invaders.json) |
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
 | Snack Scoffer | 198515 | [198515-snack-scoffer.json](./198515-snack-scoffer.json) |
@@ -5049,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper: Ghost Warrior 3 | 10964 | [10964-sniper-ghost-warrior-3.json](./10964-sniper-ghost-warrior-3.json) |
 | Sniperpunk | 189144 | [189144-sniperpunk.json](./189144-sniperpunk.json) |
 | Snipers vs Thieves: FPS Clash | 87513 | [87513-snipers-vs-thieves-fps-clash.json](./87513-snipers-vs-thieves-fps-clash.json) |
+| Snipes | 25147 | [25147-snipes.json](./25147-snipes.json) |
 | SNK Slot Panic Kyuuji | 59399 | [59399-snk-slot-panic-kyuuji.json](./59399-snk-slot-panic-kyuuji.json) |
 | SNK vs Capcom Card Fighters DS | 21387 | [21387-snk-vs-capcom-card-fighters-ds.json](./21387-snk-vs-capcom-card-fighters-ds.json) |
 | SNK vs. Capcom: SVC Chaos | 309177 | [309177-snk-vs-capcom-svc-chaos.json](./309177-snk-vs-capcom-svc-chaos.json) |
@@ -6240,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulCalibur V | 1013 | [1013-soulcalibur-v.json](./1013-soulcalibur-v.json) |
 | SoulCalibur V: Collectors Edition | 44655 | [44655-soulcalibur-v-collectors-edition.json](./44655-soulcalibur-v-collectors-edition.json) |
 | Soulcalibur: Broken Destiny | 272550 | [272550-soulcalibur-broken-destiny.json](./272550-soulcalibur-broken-destiny.json) |
+| SoulCalibur: Unbreakable Soul | 25145 | [25145-soulcalibur-unbreakable-soul.json](./25145-soulcalibur-unbreakable-soul.json) |
 | SoulCast | 240890 | [240890-soulcast.json](./240890-soulcast.json) |
 | Soulcaster | 150680 | [150680-soulcaster.json](./150680-soulcaster.json) |
 | Soulcaster: Part I & II | 33074 | [33074-soulcaster-part-i-and-ii.json](./33074-soulcaster-part-i-and-ii.json) |
