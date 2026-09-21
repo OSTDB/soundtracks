@@ -108,20 +108,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Aruze Oukoku 6 | 56728 | [56728-pachi-slot-aruze-oukoku-6.json](./56728-pachi-slot-aruze-oukoku-6.json) |
 | Pachi-Slot Aruze Oukoku 7 | 56735 | [56735-pachi-slot-aruze-oukoku-7.json](./56735-pachi-slot-aruze-oukoku-7.json) |
 | Pachi-Slot Aruze Oukoku Pocket: Dekahel | 56737 | [56737-pachi-slot-aruze-oukoku-pocket-dekahel.json](./56737-pachi-slot-aruze-oukoku-pocket-dekahel.json) |
+| Pachi-Slot Gambler | 42238 | [42238-pachi-slot-gambler.json](./42238-pachi-slot-gambler.json) |
 | Pachi-Slot Higurashi no Naku Koro ni Matsuri | 263021 | [263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json](./263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json) |
 | Pachi-Slot Kanzen Kouryaku: Universal Shindai Nyuuka Volume 1 | 66960 | [66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json](./66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json) |
 | Pachicom | 41396 | [41396-pachicom.json](./41396-pachicom.json) |
 | Pachiko | 357310 | [357310-pachiko.json](./357310-pachiko.json) |
 | Pachillinko | 188665 | [188665-pachillinko.json](./188665-pachillinko.json) |
+| Pachinko Challenger | 42237 | [42237-pachinko-challenger.json](./42237-pachinko-challenger.json) |
+| Pachinko Fan: Shouri Sengen | 42236 | [42236-pachinko-fan-shouri-sengen.json](./42236-pachinko-fan-shouri-sengen.json) |
 | Pachinko GP | 41395 | [41395-pachinko-gp.json](./41395-pachinko-gp.json) |
 | Pachinko Kamen Rider | 91885 | [91885-pachinko-kamen-rider.json](./91885-pachinko-kamen-rider.json) |
 | Pachinko Kuunyan | 383507 | [383507-pachinko-kuunyan.json](./383507-pachinko-kuunyan.json) |
 | Pachinko Life | 402978 | [402978-pachinko-life.json](./402978-pachinko-life.json) |
+| Pachinko Maruhi Hisshouhou | 42235 | [42235-pachinko-maruhi-hisshouhou.json](./42235-pachinko-maruhi-hisshouhou.json) |
+| Pachinko Monogatari: Pachi-Slot mo Aru de yo!! | 42234 | [42234-pachinko-monogatari-pachi-slot-mo-aru-de-yo.json](./42234-pachinko-monogatari-pachi-slot-mo-aru-de-yo.json) |
 | Pachinko Party | 329016 | [329016-pachinko-party.json](./329016-pachinko-party.json) |
 | Pachinko Pocket Parlor Guide | 75502 | [75502-pachinko-pocket-parlor-guide.json](./75502-pachinko-pocket-parlor-guide.json) |
+| Pachinko Ren Chan Tengoku | 42232 | [42232-pachinko-ren-chan-tengoku.json](./42232-pachinko-ren-chan-tengoku.json) |
 | Pachinko Star Wing II | 385717 | [385717-pachinko-star-wing-ii.json](./385717-pachinko-star-wing-ii.json) |
+| Pachinko Tetsujin: Shichiban Shoubu | 42231 | [42231-pachinko-tetsujin-shichiban-shoubu.json](./42231-pachinko-tetsujin-shichiban-shoubu.json) |
+| Pachinko Wars | 42230 | [42230-pachinko-wars.json](./42230-pachinko-wars.json) |
+| Pachinko Wars 2 | 42229 | [42229-pachinko-wars-2.json](./42229-pachinko-wars-2.json) |
 | Pachinko With Nick | 184121 | [184121-pachinko-with-nick.json](./184121-pachinko-with-nick.json) |
 | Pachio-kun Game Gallery | 86125 | [86125-pachio-kun-game-gallery.json](./86125-pachio-kun-game-gallery.json) |
+| Pachio-kun Special | 42228 | [42228-pachio-kun-special.json](./42228-pachio-kun-special.json) |
 | PachiPara 13: Super Umi to Pachipro Fuuunroku | 77996 | [77996-pachipara-13-super-umi-to-pachipro-fuuunroku.json](./77996-pachipara-13-super-umi-to-pachipro-fuuunroku.json) |
 | PachiPara 14: Kaze to Kumo to Super Umi in Okinawa | 61905 | [61905-pachipara-14-kaze-to-kumo-to-super-umi-in-okinawa.json](./61905-pachipara-14-kaze-to-kumo-to-super-umi-in-okinawa.json) |
 | PachiPara 3D: Ooumi Monogatari 2 with Agnes Lum - Pachi-Pro Fuuunroku Hana Kesareta License | 141149 | [141149-pachipara-3d-ooumi-monogatari-2-with-agnes-lum-pachi-pro-fuuunroku-hana-kesareta-license.json](./141149-pachipara-3d-ooumi-monogatari-2-with-agnes-lum-pachi-pro-fuuunroku-hana-kesareta-license.json) |
