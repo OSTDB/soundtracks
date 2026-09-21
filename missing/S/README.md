@@ -4008,6 +4008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate Space | 178086 | [178086-skate-space.json](./178086-skate-space.json) |
 | Skate Tribe | 303232 | [303232-skate-tribe.json](./303232-skate-tribe.json) |
 | Skateball | 45329 | [45329-skateball.json](./45329-skateball.json) |
+| Skatebird | 111813 | [111813-skatebird.json](./111813-skatebird.json) |
 | Skateboard Drifting Simulator with Maxwell Cat: The Game | 259231 | [259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json](./259231-skateboard-drifting-simulator-with-maxwell-cat-the-game.json) |
 | Skateboard Knight | 338300 | [338300-skateboard-knight.json](./338300-skateboard-knight.json) |
 | Skateboard Madness Xtreme Edition | 66933 | [66933-skateboard-madness-xtreme-edition.json](./66933-skateboard-madness-xtreme-edition.json) |
@@ -4018,6 +4019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skatemasta Tcheco | 118401 | [118401-skatemasta-tcheco.json](./118401-skatemasta-tcheco.json) |
 | SkateNationXL | 272579 | [272579-skatenationxl.json](./272579-skatenationxl.json) |
 | Skater Girl Ice Skating | 103866 | [103866-skater-girl-ice-skating.json](./103866-skater-girl-ice-skating.json) |
+| Skater XL | 113175 | [113175-skater-xl.json](./113175-skater-xl.json) |
 | Skater XL: Tampa Pro 2022 Gear Pack For Charity | 225094 | [225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json](./225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json) |
 | SkateRide | 180776 | [180776-skateride.json](./180776-skateride.json) |
 | Skautfold: Moonless Knight | 152142 | [152142-skautfold-moonless-knight.json](./152142-skautfold-moonless-knight.json) |
@@ -9334,6 +9336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Tales of Tei-Shan | 301262 | [301262-strange-tales-of-tei-shan.json](./301262-strange-tales-of-tei-shan.json) |
 | Strange Things | 75775 | [75775-strange-things.json](./75775-strange-things.json) |
 | Strange Zoo | 415139 | [415139-strange-zoo.json](./415139-strange-zoo.json) |
+| Strangeland | 103219 | [103219-strangeland.json](./103219-strangeland.json) |
 | Strangeland: The Last Colony | 401618 | [401618-strangeland-the-last-colony.json](./401618-strangeland-the-last-colony.json) |
 | Stranger by Night | 73558 | [73558-stranger-by-night.json](./73558-stranger-by-night.json) |
 | Stranger Danger or Horror, Quest and Magic | 197390 | [197390-stranger-danger-or-horror-quest-and-magic.json](./197390-stranger-danger-or-horror-quest-and-magic.json) |
@@ -10280,6 +10283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super 2048 | 99983 | [99983-super-2048.json](./99983-super-2048.json) |
 | Super ACiD Block Attack | 82459 | [82459-super-acid-block-attack.json](./82459-super-acid-block-attack.json) |
 | Super Action Pak | 56452 | [56452-super-action-pak.json](./56452-super-action-pak.json) |
+| Super Adventure Island | 9064 | [9064-super-adventure-island.json](./9064-super-adventure-island.json) |
 | Super Adventurer | 61021 | [61021-super-adventurer.json](./61021-super-adventurer.json) |
 | Super Airwolf | 45548 | [45548-super-airwolf.json](./45548-super-airwolf.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
@@ -12154,6 +12158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SyntaxBomb | 183012 | [183012-syntaxbomb.json](./183012-syntaxbomb.json) |
 | Synth Ark | 317234 | [317234-synth-ark.json](./317234-synth-ark.json) |
 | Synth Pong | 235759 | [235759-synth-pong.json](./235759-synth-pong.json) |
+| Synth Riders | 105333 | [105333-synth-riders.json](./105333-synth-riders.json) |
 | Synth Riders | 372492 | [372492-synth-riders.json](./372492-synth-riders.json) |
 | Synth Riders: A-ha - "Take On Me" | 298699 | [298699-synth-riders-a-ha-take-on-me.json](./298699-synth-riders-a-ha-take-on-me.json) |
 | Synth Riders: Bad Religion - "21st Century (Digital Boy)" | 356085 | [356085-synth-riders-bad-religion-21st-century-digital-boy.json](./356085-synth-riders-bad-religion-21st-century-digital-boy.json) |
