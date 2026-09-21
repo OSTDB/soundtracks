@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Runner: Endless Runner Adventure | 96490 | [96490-retro-runner-endless-runner-adventure.json](./96490-retro-runner-endless-runner-adventure.json) |
 | Retro Santa Run | 327434 | [327434-retro-santa-run.json](./327434-retro-santa-run.json) |
 | Retro Shooter Rampage Bundle | 154489 | [154489-retro-shooter-rampage-bundle.json](./154489-retro-shooter-rampage-bundle.json) |
+| Retro Shooting | 57329 | [57329-retro-shooting.json](./57329-retro-shooting.json) |
 | Retro Slam Tennis | 410360 | [410360-retro-slam-tennis.json](./410360-retro-slam-tennis.json) |
 | Retro Snake | 104012 | [104012-retro-snake.json](./104012-retro-snake.json) |
 | Retro Snake Adventures | 107915 | [107915-retro-snake-adventures.json](./107915-retro-snake-adventures.json) |
@@ -2714,6 +2715,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
 | Riversiders | 253418 | [253418-riversiders.json](./253418-riversiders.json) |
 | Rixer | 260242 | [260242-rixer.json](./260242-rixer.json) |
+| Rizzoli and Isles: The Boston Butcher | 57370 | [57370-rizzoli-and-isles-the-boston-butcher.json](./57370-rizzoli-and-isles-the-boston-butcher.json) |
+| Rizzoli and Isles: The Masterpiece Murders | 57369 | [57369-rizzoli-and-isles-the-masterpiece-murders.json](./57369-rizzoli-and-isles-the-masterpiece-murders.json) |
 | RKGK | 296838 | [296838-rkgk.json](./296838-rkgk.json) |
 | RKN - Roskomnadzor banned the Internet | 100596 | [100596-rkn-roskomnadzor-banned-the-internet.json](./100596-rkn-roskomnadzor-banned-the-internet.json) |
 | RKR: Rush Kill Repeat | 217495 | [217495-rkr-rush-kill-repeat.json](./217495-rkr-rush-kill-repeat.json) |
