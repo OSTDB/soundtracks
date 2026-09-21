@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawsitive | 298873 | [298873-pawsitive.json](./298873-pawsitive.json) |
 | Pawsome Resort | 374711 | [374711-pawsome-resort.json](./374711-pawsome-resort.json) |
 | Pax | 274201 | [274201-pax.json](./274201-pax.json) |
+| Pax Corpus | 44845 | [44845-pax-corpus.json](./44845-pax-corpus.json) |
 | Pax Imperia | 95439 | [95439-pax-imperia.json](./95439-pax-imperia.json) |
 | Pax Nova | 111043 | [111043-pax-nova.json](./111043-pax-nova.json) |
 | Pax Romana | 115512 | [115512-pax-romana.json](./115512-pax-romana.json) |
@@ -4199,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Soccer 2 | 93996 | [93996-power-soccer-2.json](./93996-power-soccer-2.json) |
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
 | Power Sphere | 53471 | [53471-power-sphere.json](./53471-power-sphere.json) |
+| Power Spike: Pro Beach Volleyball | 44888 | [44888-power-spike-pro-beach-volleyball.json](./44888-power-spike-pro-beach-volleyball.json) |
 | Power Stakes | 301385 | [301385-power-stakes.json](./301385-power-stakes.json) |
 | Power Stakes 2 | 301386 | [301386-power-stakes-2.json](./301386-power-stakes-2.json) |
 | Power Stakes: Grade 1 | 141165 | [141165-power-stakes-grade-1.json](./141165-power-stakes-grade-1.json) |
@@ -5410,6 +5412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punk Wars | 150059 | [150059-punk-wars.json](./150059-punk-wars.json) |
 | Punk-o-Matic | 243144 | [243144-punk-o-matic.json](./243144-punk-o-matic.json) |
 | Punks Not Dead | 83938 | [83938-punks-not-dead.json](./83938-punks-not-dead.json) |
+| Punky Skunk | 44881 | [44881-punky-skunk.json](./44881-punky-skunk.json) |
 | PunPics | 233217 | [233217-punpics.json](./233217-punpics.json) |
 | Punt | 239675 | [239675-punt.json](./239675-punt.json) |
 | Punt: Rebirth | 401486 | [401486-punt-rebirth.json](./401486-punt-rebirth.json) |
@@ -5579,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
 | Puzzle Adventures: Forest Animals | 328490 | [328490-puzzle-adventures-forest-animals.json](./328490-puzzle-adventures-forest-animals.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
+| Puzzle Arena Toshinden | 44824 | [44824-puzzle-arena-toshinden.json](./44824-puzzle-arena-toshinden.json) |
 | Puzzle Art: Horses | 191207 | [191207-puzzle-art-horses.json](./191207-puzzle-art-horses.json) |
 | Puzzle Art: Rodents | 191208 | [191208-puzzle-art-rodents.json](./191208-puzzle-art-rodents.json) |
 | Puzzle Ball Z | 384509 | [384509-puzzle-ball-z.json](./384509-puzzle-ball-z.json) |
