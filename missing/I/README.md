@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Spelling! | 339135 | [339135-i-love-spelling.json](./339135-i-love-spelling.json) |
 | I Love Traffic | 230511 | [230511-i-love-traffic.json](./230511-i-love-traffic.json) |
 | I Love You Freddy | 277010 | [277010-i-love-you-freddy.json](./277010-i-love-you-freddy.json) |
+| I Love You, Colonel Sanders! A Finger Lickin' Good Dating Simulator | 122318 | [122318-i-love-you-colonel-sanders-a-finger-lickin-good-dating-simulator.json](./122318-i-love-you-colonel-sanders-a-finger-lickin-good-dating-simulator.json) |
 | I Luv House Pets | 210081 | [210081-i-luv-house-pets.json](./210081-i-luv-house-pets.json) |
 | I Made A Contract with 3 Cute Devils?! | 206949 | [206949-i-made-a-contract-with-3-cute-devils.json](./206949-i-made-a-contract-with-3-cute-devils.json) |
 | I Made Her Up | 374673 | [374673-i-made-her-up.json](./374673-i-made-her-up.json) |
