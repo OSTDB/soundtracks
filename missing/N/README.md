@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navitune: Dragon Koukaigi | 400944 | [400944-navitune-dragon-koukaigi.json](./400944-navitune-dragon-koukaigi.json) |
 | Navitune: Dragon Koukaigi | 400945 | [400945-navitune-dragon-koukaigi.json](./400945-navitune-dragon-koukaigi.json) |
 | Navitune: Dragon Koukaigi | 400947 | [400947-navitune-dragon-koukaigi.json](./400947-navitune-dragon-koukaigi.json) |
+| Navy Field | 55462 | [55462-navy-field.json](./55462-navy-field.json) |
 | Navy Seal | 75117 | [75117-navy-seal.json](./75117-navy-seal.json) |
 | Navy Seals | 25150 | [25150-navy-seals.json](./25150-navy-seals.json) |
 | Navy Strike | 69220 | [69220-navy-strike.json](./69220-navy-strike.json) |
@@ -763,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo's Land | 61632 | [61632-neos-land.json](./61632-neos-land.json) |
 | NeoBalls2 | 83560 | [83560-neoballs2.json](./83560-neoballs2.json) |
 | NeoCoins | 362268 | [362268-neocoins.json](./362268-neocoins.json) |
+| NeoCube | 55482 | [55482-neocube.json](./55482-neocube.json) |
 | Neodash | 148497 | [148497-neodash.json](./148497-neodash.json) |
 | NeoFables | 330552 | [330552-neofables.json](./330552-neofables.json) |
 | Neofeud 2 | 397714 | [397714-neofeud-2.json](./397714-neofeud-2.json) |
