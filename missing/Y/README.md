@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Y.M.C.A. | 333632 | [333632-y-m-c-a.json](./333632-y-m-c-a.json) |
 | Y2K: The Game | 84208 | [84208-y2k-the-game.json](./84208-y2k-the-game.json) |
 | Y2Kthulhu | 185072 | [185072-y2kthulhu.json](./185072-y2kthulhu.json) |
+| Ya Gotta, Piñata! | 58513 | [58513-ya-gotta-pinata.json](./58513-ya-gotta-pinata.json) |
 | Yaad | 289879 | [289879-yaad.json](./289879-yaad.json) |
 | Yabai Girls: Heavenly Homemaker | 385065 | [385065-yabai-girls-heavenly-homemaker.json](./385065-yabai-girls-heavenly-homemaker.json) |
 | Yabai Girls: Valentine Babe | 390508 | [390508-yabai-girls-valentine-babe.json](./390508-yabai-girls-valentine-babe.json) |
