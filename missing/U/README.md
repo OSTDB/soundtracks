@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko When They Cry: Episode 6 - Dawn of the Golden Witch | 272314 | [272314-umineko-when-they-cry-episode-6-dawn-of-the-golden-witch.json](./272314-umineko-when-they-cry-episode-6-dawn-of-the-golden-witch.json) |
 | Umineko When They Cry: Episode 7 - Requiem of the Golden Witch | 272316 | [272316-umineko-when-they-cry-episode-7-requiem-of-the-golden-witch.json](./272316-umineko-when-they-cry-episode-7-requiem-of-the-golden-witch.json) |
 | Umineko When They Cry: Episode 8 - Twilight of the Golden Witch | 272318 | [272318-umineko-when-they-cry-episode-8-twilight-of-the-golden-witch.json](./272318-umineko-when-they-cry-episode-8-twilight-of-the-golden-witch.json) |
+| Umineko When They Cry: Question Arcs | 124948 | [124948-umineko-when-they-cry-question-arcs.json](./124948-umineko-when-they-cry-question-arcs.json) |
 | Umineko: Ougon Musou Kyoku - Cross | 79850 | [79850-umineko-ougon-musou-kyoku-cross.json](./79850-umineko-ougon-musou-kyoku-cross.json) |
 | Umisho | 62407 | [62407-umisho.json](./62407-umisho.json) |
 | Umokay 64DS | 215203 | [215203-umokay-64ds.json](./215203-umokay-64ds.json) |
