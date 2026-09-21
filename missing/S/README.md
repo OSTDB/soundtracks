@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanction | 203533 | [203533-sanction.json](./203533-sanction.json) |
 | Sanctity | 282551 | [282551-sanctity.json](./282551-sanctity.json) |
 | Sanctuarium Online | 191858 | [191858-sanctuarium-online.json](./191858-sanctuarium-online.json) |
+| Sanctuary VR | 30182 | [30182-sanctuary-vr.json](./30182-sanctuary-vr.json) |
 | Sanctum 2: Road to Elysion | 10806 | [10806-sanctum-2-road-to-elysion.json](./10806-sanctum-2-road-to-elysion.json) |
 | Sanctum 2: Ruins of Brightholme | 10807 | [10807-sanctum-2-ruins-of-brightholme.json](./10807-sanctum-2-ruins-of-brightholme.json) |
 | Sanctum 2: The Last Stand | 10808 | [10808-sanctum-2-the-last-stand.json](./10808-sanctum-2-the-last-stand.json) |
@@ -3515,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Falls: Ghoul Busters | 208583 | [208583-silver-falls-ghoul-busters.json](./208583-silver-falls-ghoul-busters.json) |
 | Silver Falls: Guardians And Metal Exterminators S | 283722 | [283722-silver-falls-guardians-and-metal-exterminators-s.json](./283722-silver-falls-guardians-and-metal-exterminators-s.json) |
 | Silver Gene: The Mutia Chronicle 1 | 308414 | [308414-silver-gene-the-mutia-chronicle-1.json](./308414-silver-gene-the-mutia-chronicle-1.json) |
+| Silver Jiken: 25-ku | 30220 | [30220-silver-jiken-25-ku.json](./30220-silver-jiken-25-ku.json) |
 | Silver Level Pack | 289884 | [289884-silver-level-pack.json](./289884-silver-level-pack.json) |
 | Silver Malfeasant | 345001 | [345001-silver-malfeasant.json](./345001-silver-malfeasant.json) |
 | Silver Millennium | 40251 | [40251-silver-millennium.json](./40251-silver-millennium.json) |
@@ -7944,6 +7946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Exodus | 217306 | [217306-star-exodus.json](./217306-star-exodus.json) |
 | Star Fiction | 348276 | [348276-star-fiction.json](./348276-star-fiction.json) |
 | Star Fire: Eternal Cycle | 316656 | [316656-star-fire-eternal-cycle.json](./316656-star-fire-eternal-cycle.json) |
+| Star Firebirds | 30215 | [30215-star-firebirds.json](./30215-star-firebirds.json) |
 | Star Force | 288103 | [288103-star-force.json](./288103-star-force.json) |
 | Star Fox 2 | 9674 | [9674-star-fox-2.json](./9674-star-fox-2.json) |
 | Star Fox 2D: War of Lylat | 324097 | [324097-star-fox-2d-war-of-lylat.json](./324097-star-fox-2d-war-of-lylat.json) |
@@ -10231,6 +10234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Collapse! Puzzle Gallery 5 | 201284 | [201284-super-collapse-puzzle-gallery-5.json](./201284-super-collapse-puzzle-gallery-5.json) |
 | Super Columns | 19690 | [19690-super-columns.json](./19690-super-columns.json) |
 | Super Comboman | 63550 | [63550-super-comboman.json](./63550-super-comboman.json) |
+| Super ComboMan: Don't Mash Edition | 30231 | [30231-super-comboman-dont-mash-edition.json](./30231-super-comboman-dont-mash-edition.json) |
 | Super Company | 219580 | [219580-super-company.json](./219580-super-company.json) |
 | Super Concentration | 262370 | [262370-super-concentration.json](./262370-super-concentration.json) |
 | Super Console Kid | 296506 | [296506-super-console-kid.json](./296506-super-console-kid.json) |
@@ -11531,6 +11535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swallow | 203871 | [203871-swallow.json](./203871-swallow.json) |
 | Swallowtail Butterfly Princess of Sexual Techniques | 82887 | [82887-swallowtail-butterfly-princess-of-sexual-techniques.json](./82887-swallowtail-butterfly-princess-of-sexual-techniques.json) |
 | Swallowtail: Ano Hi, Ao wo Koete | 402897 | [402897-swallowtail-ano-hi-ao-wo-koete.json](./402897-swallowtail-ano-hi-ao-wo-koete.json) |
+| Swam | 30179 | [30179-swam.json](./30179-swam.json) |
 | Swamp & Towne | 277956 | [277956-swamp-and-towne.json](./277956-swamp-and-towne.json) |
 | Swamp Alchemy | 182981 | [182981-swamp-alchemy.json](./182981-swamp-alchemy.json) |
 | Swamp and Luig | 417555 | [417555-swamp-and-luig.json](./417555-swamp-and-luig.json) |
