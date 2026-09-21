@@ -1839,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degeneration | 107891 | [107891-degeneration.json](./107891-degeneration.json) |
 | Degradation: Kyomu's Fury | 265780 | [265780-degradation-kyomus-fury.json](./265780-degradation-kyomus-fury.json) |
 | Degraman: Act I - Vincent | 196165 | [196165-degraman-act-i-vincent.json](./196165-degraman-act-i-vincent.json) |
+| Degrees of Separation | 110503 | [110503-degrees-of-separation.json](./110503-degrees-of-separation.json) |
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
 | Dehoarder 2 | 214509 | [214509-dehoarder-2.json](./214509-dehoarder-2.json) |
 | Dehydration | 374723 | [374723-dehydration.json](./374723-dehydration.json) |
@@ -2644,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Sins of the Horadrim | 352222 | [352222-diablo-iv-sins-of-the-horadrim.json](./352222-diablo-iv-sins-of-the-horadrim.json) |
 | Diablo IV: Vessel of Hatred | 275171 | [275171-diablo-iv-vessel-of-hatred.json](./275171-diablo-iv-vessel-of-hatred.json) |
 | Diablo IV: Vessel of Hatred - Expansion Bundle | 305496 | [305496-diablo-iv-vessel-of-hatred-expansion-bundle.json](./305496-diablo-iv-vessel-of-hatred-expansion-bundle.json) |
+| Diabolik Lovers Chaos Lineage | 113463 | [113463-diabolik-lovers-chaos-lineage.json](./113463-diabolik-lovers-chaos-lineage.json) |
 | Diabolik Lovers: Haunted Dark Bridal - Limited Edition | 44509 | [44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json](./44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json) |
 | Diadem of Manstraut | 407349 | [407349-diadem-of-manstraut.json](./407349-diadem-of-manstraut.json) |
 | Diagnosis -Inma no Note- | 97381 | [97381-diagnosis-inma-no-note.json](./97381-diagnosis-inma-no-note.json) |
@@ -4690,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Heroes: Ultimate Mission - Lalabit Market Luxury Edition | 89875 | [89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json](./89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json) |
 | Dragon Ball Kart 64 | 172711 | [172711-dragon-ball-kart-64.json](./172711-dragon-ball-kart-64.json) |
 | Dragon Ball Legends | 95014 | [95014-dragon-ball-legends.json](./95014-dragon-ball-legends.json) |
+| Dragon Ball Online | 92697 | [92697-dragon-ball-online.json](./92697-dragon-ball-online.json) |
 | Dragon Ball RPG: Shounen-hen | 62726 | [62726-dragon-ball-rpg-shounen-hen.json](./62726-dragon-ball-rpg-shounen-hen.json) |
 | Dragon Ball Sparking Zero: Shallot (Dragon Ball Legends) | 366817 | [366817-dragon-ball-sparking-zero-shallot-dragon-ball-legends.json](./366817-dragon-ball-sparking-zero-shallot-dragon-ball-legends.json) |
 | Dragon Ball Xenoverse 2: Dragon Ball Daima Pack | 366824 | [366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json](./366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json) |
@@ -5047,6 +5050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn to Kill | 60512 | [60512-drawn-to-kill.json](./60512-drawn-to-kill.json) |
 | Drawn to Life | 4821 | [4821-drawn-to-life.json](./4821-drawn-to-life.json) |
 | Drawn to Life 64 | 165550 | [165550-drawn-to-life-64.json](./165550-drawn-to-life-64.json) |
+| Drawn to Life: The Next Chapter | 4820 | [4820-drawn-to-life-the-next-chapter.json](./4820-drawn-to-life-the-next-chapter.json) |
 | Drawn to Light | 110305 | [110305-drawn-to-light.json](./110305-drawn-to-light.json) |
 | Drawn Together | 404311 | [404311-drawn-together.json](./404311-drawn-together.json) |
 | Drawn: Dark Flight - Collector's Edition | 33294 | [33294-drawn-dark-flight-collectors-edition.json](./33294-drawn-dark-flight-collectors-edition.json) |
