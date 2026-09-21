@@ -3434,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronald's Run | 151003 | [151003-ronalds-run.json](./151003-ronalds-run.json) |
 | Ronaldinho Campeonato Brasileiro 98 | 38302 | [38302-ronaldinho-campeonato-brasileiro-98.json](./38302-ronaldinho-campeonato-brasileiro-98.json) |
 | Ronaldinho Soccer 97 | 38293 | [38293-ronaldinho-soccer-97.json](./38293-ronaldinho-soccer-97.json) |
+| Ronaldo & Hugo: Superstar Skaters | 60201 | [60201-ronaldo-and-hugo-superstar-skaters.json](./60201-ronaldo-and-hugo-superstar-skaters.json) |
 | Ronaldo V-Football | 44836 | [44836-ronaldo-v-football.json](./44836-ronaldo-v-football.json) |
 | Ronaldo V-Soccer | 49885 | [49885-ronaldo-v-soccer.json](./49885-ronaldo-v-soccer.json) |
 | Ronde | 78016 | [78016-ronde.json](./78016-ronde.json) |
@@ -3883,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumblade | 109269 | [109269-rumblade.json](./109269-rumblade.json) |
 | Rumble Avenue | 408757 | [408757-rumble-avenue.json](./408757-rumble-avenue.json) |
 | Rumble Box | 71498 | [71498-rumble-box.json](./71498-rumble-box.json) |
+| Rumble City | 60213 | [60213-rumble-city.json](./60213-rumble-city.json) |
 | Rumble Heroes | 242203 | [242203-rumble-heroes.json](./242203-rumble-heroes.json) |
 | Rumble League | 126042 | [126042-rumble-league.json](./126042-rumble-league.json) |
 | Rumble Racing | 43280 | [43280-rumble-racing.json](./43280-rumble-racing.json) |
