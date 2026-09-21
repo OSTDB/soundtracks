@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadbolt | 18389 | [18389-deadbolt.json](./18389-deadbolt.json) |
 | Deadboot | 360103 | [360103-deadboot.json](./360103-deadboot.json) |
 | Deadcam | 323190 | [323190-deadcam.json](./323190-deadcam.json) |
+| DeadCore | 7864 | [7864-deadcore.json](./7864-deadcore.json) |
 | DeadCore Redux | 345547 | [345547-deadcore-redux.json](./345547-deadcore-redux.json) |
 | Deadcraft: Digital Deluxe Edition | 221250 | [221250-deadcraft-digital-deluxe-edition.json](./221250-deadcraft-digital-deluxe-edition.json) |
 | Deaded | 238738 | [238738-deaded.json](./238738-deaded.json) |
@@ -1454,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Mile | 259241 | [259241-death-mile.json](./259241-death-mile.json) |
 | Death Motel | 283281 | [283281-death-motel.json](./283281-death-motel.json) |
 | Death Moto 3 | 237964 | [237964-death-moto-3.json](./237964-death-moto-3.json) |
+| Death Must Die | 244243 | [244243-death-must-die.json](./244243-death-must-die.json) |
 | Death Nomad | 236001 | [236001-death-nomad.json](./236001-death-nomad.json) |
 | Death Noodle Delivery | 207330 | [207330-death-noodle-delivery.json](./207330-death-noodle-delivery.json) |
 | Death Note: Killer Within | 320363 | [320363-death-note-killer-within.json](./320363-death-note-killer-within.json) |
@@ -1838,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
 | Dehoarder 2 | 214509 | [214509-dehoarder-2.json](./214509-dehoarder-2.json) |
 | Dehydration | 374723 | [374723-dehydration.json](./374723-dehydration.json) |
+| Deiland | 74531 | [74531-deiland.json](./74531-deiland.json) |
 | Deimos Hotel | 382280 | [382280-deimos-hotel.json](./382280-deimos-hotel.json) |
 | Deios II: Deidia | 26366 | [26366-deios-ii-deidia.json](./26366-deios-ii-deidia.json) |
 | Deirdre | 395695 | [395695-deirdre.json](./395695-deirdre.json) |
@@ -2332,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despectum Drakone | 203952 | [203952-despectum-drakone.json](./203952-despectum-drakone.json) |
 | Desperabis | 121707 | [121707-desperabis.json](./121707-desperabis.json) |
 | Desperado 2 | 13590 | [13590-desperado-2.json](./13590-desperado-2.json) |
+| Desperados 2: Cooper's Revenge | 7261 | [7261-desperados-2-coopers-revenge.json](./7261-desperados-2-coopers-revenge.json) |
 | Desperate Defence | 115433 | [115433-desperate-defence.json](./115433-desperate-defence.json) |
 | Desperate game | 82050 | [82050-desperate-game.json](./82050-desperate-game.json) |
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
@@ -5186,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming Chicken | 258041 | [258041-dreaming-chicken.json](./258041-dreaming-chicken.json) |
 | Dreaming in the Mountains | 262372 | [262372-dreaming-in-the-mountains.json](./262372-dreaming-in-the-mountains.json) |
 | Dreaming Rainbow | 191824 | [191824-dreaming-rainbow.json](./191824-dreaming-rainbow.json) |
+| Dreaming Sarah | 8702 | [8702-dreaming-sarah.json](./8702-dreaming-sarah.json) |
 | Dreaming Seal Simulator | 325288 | [325288-dreaming-seal-simulator.json](./325288-dreaming-seal-simulator.json) |
 | Dreaming with You | 267474 | [267474-dreaming-with-you.json](./267474-dreaming-with-you.json) |
 | DreamIsland | 207357 | [207357-dreamisland.json](./207357-dreamisland.json) |
