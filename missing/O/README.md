@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ongeki Bright Memory | 281570 | [281570-ongeki-bright-memory.json](./281570-ongeki-bright-memory.json) |
 | Ongeki Bright Memory Act.2 | 335953 | [335953-ongeki-bright-memory-act-2.json](./335953-ongeki-bright-memory-act-2.json) |
 | Ongeki Bright Memory Act.3 | 335954 | [335954-ongeki-bright-memory-act-3.json](./335954-ongeki-bright-memory-act-3.json) |
+| Oni | 2413 | [2413-oni.json](./2413-oni.json) |
 | Oni | 365784 | [365784-oni.json](./365784-oni.json) |
 | Oni Ama: Watashi ni Amaete, Onii-chan | 145052 | [145052-oni-ama-watashi-ni-amaete-onii-chan.json](./145052-oni-ama-watashi-ni-amaete-onii-chan.json) |
 | Oni Asobi | 151529 | [151529-oni-asobi.json](./151529-oni-asobi.json) |
@@ -1742,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Rim: Survivor | 95191 | [95191-outer-rim-survivor.json](./95191-outer-rim-survivor.json) |
 | Outer Terror | 206226 | [206226-outer-terror.json](./206226-outer-terror.json) |
 | Outer Wards: Proving Grounds | 260234 | [260234-outer-wards-proving-grounds.json](./260234-outer-wards-proving-grounds.json) |
+| Outer Wilds: Echoes of the Eye | 146761 | [146761-outer-wilds-echoes-of-the-eye.json](./146761-outer-wilds-echoes-of-the-eye.json) |
 | Outer Zone | 350505 | [350505-outer-zone.json](./350505-outer-zone.json) |
 | Outer-Rim Pod Digger | 66058 | [66058-outer-rim-pod-digger.json](./66058-outer-rim-pod-digger.json) |
 | Outergalactic Aliens Pinball | 173237 | [173237-outergalactic-aliens-pinball.json](./173237-outergalactic-aliens-pinball.json) |
