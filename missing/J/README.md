@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joustaposition | 181371 | [181371-joustaposition.json](./181371-joustaposition.json) |
 | Joustish | 251193 | [251193-joustish.json](./251193-joustish.json) |
 | JoustMania | 119743 | [119743-joustmania.json](./119743-joustmania.json) |
+| Joy Exhibition | 56177 | [56177-joy-exhibition.json](./56177-joy-exhibition.json) |
 | Joy Life | 259084 | [259084-joy-life.json](./259084-joy-life.json) |
 | Joy Life 3 | 273461 | [273461-joy-life-3.json](./273461-joy-life-3.json) |
 | Joy Life 4 | 336636 | [336636-joy-life-4.json](./336636-joy-life-4.json) |
