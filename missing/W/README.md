@@ -2140,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Symphony | 96111 | [96111-wizards-symphony.json](./96111-wizards-symphony.json) |
 | Wizard's Warp | 332398 | [332398-wizards-warp.json](./332398-wizards-warp.json) |
 | Wizard's Words | 105966 | [105966-wizards-words.json](./105966-wizards-words.json) |
+| Wizard101 | 47101 | [47101-wizard101.json](./47101-wizard101.json) |
 | Wizardas | 117648 | [117648-wizardas.json](./117648-wizardas.json) |
 | WizardCraft | 33264 | [33264-wizardcraft.json](./33264-wizardcraft.json) |
 | WizardCraft Colonies | 120947 | [120947-wizardcraft-colonies.json](./120947-wizardcraft-colonies.json) |
@@ -2927,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckfest: Vehicle Bundle 2 | 208052 | [208052-wreckfest-vehicle-bundle-2.json](./208052-wreckfest-vehicle-bundle-2.json) |
 | Wreckin Ball Adventure | 112364 | [112364-wreckin-ball-adventure.json](./112364-wreckin-ball-adventure.json) |
 | Wrecking Ball | 73514 | [73514-wrecking-ball.json](./73514-wrecking-ball.json) |
+| Wrecking Crew | 41420 | [41420-wrecking-crew.json](./41420-wrecking-crew.json) |
 | Wreckout | 123576 | [123576-wreckout.json](./123576-wreckout.json) |
 | Wreckreation | 213241 | [213241-wreckreation.json](./213241-wreckreation.json) |
 | Wrekless | 304739 | [304739-wrekless.json](./304739-wrekless.json) |
