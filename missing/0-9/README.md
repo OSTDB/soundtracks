@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3Souls | 26407 | [26407-3souls.json](./26407-3souls.json) |
 | 3SwitcheD | 9934 | [9934-3switched.json](./9934-3switched.json) |
 | 3x3 | 312887 | [312887-3x3.json](./312887-3x3.json) |
+| 3x3 Eyes: Seima Kourin-den | 15886 | [15886-3x3-eyes-seima-kourin-den.json](./15886-3x3-eyes-seima-kourin-den.json) |
 | 3X3 Puzzle | 249269 | [249269-3x3-puzzle.json](./249269-3x3-puzzle.json) |
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
 | 4 Colors Classic Multiplayer | 202767 | [202767-4-colors-classic-multiplayer.json](./202767-4-colors-classic-multiplayer.json) |
