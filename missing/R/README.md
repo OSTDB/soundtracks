@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Roach Remastered | 36311 | [36311-radical-roach-remastered.json](./36311-radical-roach-remastered.json) |
 | Radical Road | 239732 | [239732-radical-road.json](./239732-radical-road.json) |
 | Radical Sonic | 330319 | [330319-radical-sonic.json](./330319-radical-sonic.json) |
+| Radical Spectrum: Volume 2 | 55509 | [55509-radical-spectrum-volume-2.json](./55509-radical-spectrum-volume-2.json) |
 | Radicorn | 293225 | [293225-radicorn.json](./293225-radicorn.json) |
 | Radikal Bikers | 221942 | [221942-radikal-bikers.json](./221942-radikal-bikers.json) |
 | Radio Active | 73787 | [73787-radio-active.json](./73787-radio-active.json) |
@@ -1670,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rendezvous with a Stranger Girl | 57623 | [57623-rendezvous-with-a-stranger-girl.json](./57623-rendezvous-with-a-stranger-girl.json) |
 | Rendezvous: A Space Shuttle Flight Simulation | 24859 | [24859-rendezvous-a-space-shuttle-flight-simulation.json](./24859-rendezvous-a-space-shuttle-flight-simulation.json) |
 | Rending Sky | 114374 | [114374-rending-sky.json](./114374-rending-sky.json) |
+| Renegade Grounds: Episode 1 | 55508 | [55508-renegade-grounds-episode-1.json](./55508-renegade-grounds-episode-1.json) |
 | Renegade Ops: Coldstrike Campaign | 140394 | [140394-renegade-ops-coldstrike-campaign.json](./140394-renegade-ops-coldstrike-campaign.json) |
 | Renegade Ops: Reinforcement Pack | 140393 | [140393-renegade-ops-reinforcement-pack.json](./140393-renegade-ops-reinforcement-pack.json) |
 | Renegade Racing | 328010 | [328010-renegade-racing.json](./328010-renegade-racing.json) |
