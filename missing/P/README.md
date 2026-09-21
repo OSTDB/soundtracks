@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photon Blade | 404979 | [404979-photon-blade.json](./404979-photon-blade.json) |
 | Photon Cube | 104057 | [104057-photon-cube.json](./104057-photon-cube.json) |
 | Photon Flux | 68703 | [68703-photon-flux.json](./68703-photon-flux.json) |
+| Photon Rush | 44197 | [44197-photon-rush.json](./44197-photon-rush.json) |
 | Photon: The Ultimate Game on Planet Earth | 64657 | [64657-photon-the-ultimate-game-on-planet-earth.json](./64657-photon-the-ultimate-game-on-planet-earth.json) |
 | Photons | 288759 | [288759-photons.json](./288759-photons.json) |
 | Photopia | 9513 | [9513-photopia.json](./9513-photopia.json) |
@@ -4586,6 +4587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisonela | 218697 | [218697-prisonela.json](./218697-prisonela.json) |
 | Prisonela DX | 284494 | [284494-prisonela-dx.json](./284494-prisonela-dx.json) |
 | Prisonela MD | 367939 | [367939-prisonela-md.json](./367939-prisonela-md.json) |
+| Prisoner | 44170 | [44170-prisoner.json](./44170-prisoner.json) |
 | Prisoner Breaker | 372485 | [372485-prisoner-breaker.json](./372485-prisoner-breaker.json) |
 | Prisoners | 285470 | [285470-prisoners.json](./285470-prisoners.json) |
 | Prisoners of Ulag'Bol | 333358 | [333358-prisoners-of-ulagbol.json](./333358-prisoners-of-ulagbol.json) |
