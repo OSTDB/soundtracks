@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Jane and the Snake Tower | 240198 | [240198-indie-jane-and-the-snake-tower.json](./240198-indie-jane-and-the-snake-tower.json) |
 | Indie Nights | 274481 | [274481-indie-nights.json](./274481-indie-nights.json) |
 | Indie Nights: Nightmare in Yellow Pine | 277289 | [277289-indie-nights-nightmare-in-yellow-pine.json](./277289-indie-nights-nightmare-in-yellow-pine.json) |
+| Indie Stars Double-Pack! | 56780 | [56780-indie-stars-double-pack.json](./56780-indie-stars-double-pack.json) |
 | Indiemon Card Adventure | 62720 | [62720-indiemon-card-adventure.json](./62720-indiemon-card-adventure.json) |
 | Indiemon: Earth Nation - Villain Version | 62721 | [62721-indiemon-earth-nation-villain-version.json](./62721-indiemon-earth-nation-villain-version.json) |
 | Indiepocalypse #61 | 336536 | [336536-indiepocalypse-61.json](./336536-indiepocalypse-61.json) |
