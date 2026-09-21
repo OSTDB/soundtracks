@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War-Torn | 344913 | [344913-war-torn.json](./344913-war-torn.json) |
 | War, the Game | 17838 | [17838-war-the-game.json](./17838-war-the-game.json) |
 | War! Age of Imperialism | 73520 | [73520-war-age-of-imperialism.json](./73520-war-age-of-imperialism.json) |
+| War7 | 31137 | [31137-war7.json](./31137-war7.json) |
 | Warage | 155500 | [155500-warage.json](./155500-warage.json) |
 | Warage: Necromancer Campaign | 155501 | [155501-warage-necromancer-campaign.json](./155501-warage-necromancer-campaign.json) |
 | Waratte Iitomo! Tamorinpic | 37768 | [37768-waratte-iitomo-tamorinpic.json](./37768-waratte-iitomo-tamorinpic.json) |
@@ -1354,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Mickey? | 63275 | [63275-wheres-my-mickey.json](./63275-wheres-my-mickey.json) |
 | Where's My Perry? | 65064 | [65064-wheres-my-perry.json](./65064-wheres-my-perry.json) |
 | Where's My Tripod? | 180801 | [180801-wheres-my-tripod.json](./180801-wheres-my-tripod.json) |
+| Where's My What? | 31201 | [31201-wheres-my-what.json](./31201-wheres-my-what.json) |
 | Where's Our Ouis? | 408927 | [408927-wheres-our-ouis.json](./408927-wheres-our-ouis.json) |
 | Where's Tess | 298869 | [298869-wheres-tess.json](./298869-wheres-tess.json) |
 | Where's That Clown?! | 367487 | [367487-wheres-that-clown.json](./367487-wheres-that-clown.json) |
@@ -1920,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Walk | 63882 | [63882-winter-walk.json](./63882-winter-walk.json) |
 | Winter Walk 2006 | 326780 | [326780-winter-walk-2006.json](./326780-winter-walk-2006.json) |
 | Winter With You | 188108 | [188108-winter-with-you.json](./188108-winter-with-you.json) |
+| Winter Wonderland | 31179 | [31179-winter-wonderland.json](./31179-winter-wonderland.json) |
 | Winter X-Games Snowboarding 2002 | 47303 | [47303-winter-x-games-snowboarding-2002.json](./47303-winter-x-games-snowboarding-2002.json) |
 | Winter-Over | 352163 | [352163-winter-over.json](./352163-winter-over.json) |
 | Winter, 2001: Someone tell Luigi I love him | 177485 | [177485-winter-2001-someone-tell-luigi-i-love-him.json](./177485-winter-2001-someone-tell-luigi-i-love-him.json) |
