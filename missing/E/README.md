@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldercraft: Mountaineers | 336591 | [336591-eldercraft-mountaineers.json](./336591-eldercraft-mountaineers.json) |
 | Elderfeast | 408071 | [408071-elderfeast.json](./408071-elderfeast.json) |
 | Elderine: Dreams to Destiny | 31132 | [31132-elderine-dreams-to-destiny.json](./31132-elderine-dreams-to-destiny.json) |
+| Eldest Souls | 116403 | [116403-eldest-souls.json](./116403-eldest-souls.json) |
 | Eldevin | 17350 | [17350-eldevin.json](./17350-eldevin.json) |
 | Eldoria: The Cursed Crown | 310758 | [310758-eldoria-the-cursed-crown.json](./310758-eldoria-the-cursed-crown.json) |
 | Eldorion: Guardians of the Crystals | 346604 | [346604-eldorion-guardians-of-the-crystals.json](./346604-eldorion-guardians-of-the-crystals.json) |
@@ -1251,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endure or Perish | 288223 | [288223-endure-or-perish.json](./288223-endure-or-perish.json) |
 | Endzeit | 243785 | [243785-endzeit.json](./243785-endzeit.json) |
 | Endzone | 13643 | [13643-endzone.json](./13643-endzone.json) |
+| Endzone: A World Apart | 126362 | [126362-endzone-a-world-apart.json](./126362-endzone-a-world-apart.json) |
 | Endzone: A World Apart - Complete Edition | 218504 | [218504-endzone-a-world-apart-complete-edition.json](./218504-endzone-a-world-apart-complete-edition.json) |
 | Endzone: A World Apart - Save the World Edition | 154952 | [154952-endzone-a-world-apart-save-the-world-edition.json](./154952-endzone-a-world-apart-save-the-world-edition.json) |
 | Endzone: A World Apart - Survivor Edition | 193533 | [193533-endzone-a-world-apart-survivor-edition.json](./193533-endzone-a-world-apart-survivor-edition.json) |
