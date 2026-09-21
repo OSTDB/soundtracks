@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent X: Equation Rider | 81754 | [81754-agent-x-equation-rider.json](./81754-agent-x-equation-rider.json) |
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
 | Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
+| Aggressor | 13241 | [13241-aggressor.json](./13241-aggressor.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
 | Agonize | 187402 | [187402-agonize.json](./187402-agonize.json) |
@@ -1104,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Conflicts: Secret Wars | 3830 | [3830-air-conflicts-secret-wars.json](./3830-air-conflicts-secret-wars.json) |
 | Air Conflicts: Secret Wars - Ultimate Edition | 27783 | [27783-air-conflicts-secret-wars-ultimate-edition.json](./27783-air-conflicts-secret-wars-ultimate-edition.json) |
 | Air Conflicts: Vietnam Ultimate Edition | 44546 | [44546-air-conflicts-vietnam-ultimate-edition.json](./44546-air-conflicts-vietnam-ultimate-edition.json) |
+| Air Control | 13160 | [13160-air-control.json](./13160-air-control.json) |
 | Air Delivery | 285591 | [285591-air-delivery.json](./285591-air-delivery.json) |
 | Air Force Commander | 14231 | [14231-air-force-commander.json](./14231-air-force-commander.json) |
 | Air Force Commander: Combat Arms Fighter Shooting Attack | 88738 | [88738-air-force-commander-combat-arms-fighter-shooting-attack.json](./88738-air-force-commander-combat-arms-fighter-shooting-attack.json) |
@@ -3734,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arco | 263903 | [263903-arco.json](./263903-arco.json) |
 | Arcobaleno! | 59394 | [59394-arcobaleno.json](./59394-arcobaleno.json) |
 | Arcostate | 412355 | [412355-arcostate.json](./412355-arcostate.json) |
+| ArcPinball | 13242 | [13242-arcpinball.json](./13242-arcpinball.json) |
 | Arcshu: Kagerou no Jidai wo Koete | 314659 | [314659-arcshu-kagerou-no-jidai-wo-koete.json](./314659-arcshu-kagerou-no-jidai-wo-koete.json) |
 | Arctic | 56479 | [56479-arctic.json](./56479-arctic.json) |
 | Arctic Adventure | 8488 | [8488-arctic-adventure.json](./8488-arctic-adventure.json) |
