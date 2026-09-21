@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Ou Densetsu | 91932 | [91932-mahjong-ou-densetsu.json](./91932-mahjong-ou-densetsu.json) |
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
 | Mahjong Realms | 336012 | [336012-mahjong-realms.json](./336012-mahjong-realms.json) |
+| Mahjong Roadshow | 29205 | [29205-mahjong-roadshow.json](./29205-mahjong-roadshow.json) |
 | Mahjong Sengoku Monogatari | 37743 | [37743-mahjong-sengoku-monogatari.json](./37743-mahjong-sengoku-monogatari.json) |
 | Mahjong Solitaire Refresh | 114173 | [114173-mahjong-solitaire-refresh.json](./114173-mahjong-solitaire-refresh.json) |
 | Mahjong Solitaire Refresh: Ex Panels | 170928 | [170928-mahjong-solitaire-refresh-ex-panels.json](./170928-mahjong-solitaire-refresh-ex-panels.json) |
@@ -1747,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Albion | 314272 | [314272-masters-of-albion.json](./314272-masters-of-albion.json) |
 | Masters of Cards | 322585 | [322585-masters-of-cards.json](./322585-masters-of-cards.json) |
 | Masters of Chaos | 268757 | [268757-masters-of-chaos.json](./268757-masters-of-chaos.json) |
+| Masters of Chess | 29180 | [29180-masters-of-chess.json](./29180-masters-of-chess.json) |
 | Masters of Light | 285367 | [285367-masters-of-light.json](./285367-masters-of-light.json) |
 | Masters of Mayhem | 314266 | [314266-masters-of-mayhem.json](./314266-masters-of-mayhem.json) |
 | Masters of Puzzle | 96480 | [96480-masters-of-puzzle.json](./96480-masters-of-puzzle.json) |
@@ -2101,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McDonaldland | 285031 | [285031-mcdonaldland.json](./285031-mcdonaldland.json) |
 | McDroid | 16689 | [16689-mcdroid.json](./16689-mcdroid.json) |
 | McGroovz Dance Craze | 209535 | [209535-mcgroovz-dance-craze.json](./209535-mcgroovz-dance-craze.json) |
+| McOsu | 29160 | [29160-mcosu.json](./29160-mcosu.json) |
 | McTetris | 230831 | [230831-mctetris.json](./230831-mctetris.json) |
 | MDF: Magical Defense Force - Chapters 10-18 | 285445 | [285445-mdf-magical-defense-force-chapters-10-18.json](./285445-mdf-magical-defense-force-chapters-10-18.json) |
 | mdiapp+ SE | 74347 | [74347-mdiapp-se.json](./74347-mdiapp-se.json) |
@@ -2560,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMod | 287075 | [287075-megamod.json](./287075-megamod.json) |
 | MegaMorph | 97354 | [97354-megamorph.json](./97354-megamorph.json) |
 | Megan's Adventure | 310067 | [310067-megans-adventure.json](./310067-megans-adventure.json) |
+| Meganoid | 29184 | [29184-meganoid.json](./29184-meganoid.json) |
 | Megapain | 398461 | [398461-megapain.json](./398461-megapain.json) |
 | MegaPak 1 | 138754 | [138754-megapak-1.json](./138754-megapak-1.json) |
 | Megaplex | 94722 | [94722-megaplex.json](./94722-megaplex.json) |
@@ -5262,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Wars | 287233 | [287233-moon-wars.json](./287233-moon-wars.json) |
 | Moon Whistle | 166142 | [166142-moon-whistle.json](./166142-moon-whistle.json) |
 | Moon64 | 339946 | [339946-moon64.json](./339946-moon64.json) |
+| Moonatees | 29161 | [29161-moonatees.json](./29161-moonatees.json) |
 | Moonbase | 94230 | [94230-moonbase.json](./94230-moonbase.json) |
 | Mooncat's Trio | 308976 | [308976-mooncats-trio.json](./308976-mooncats-trio.json) |
 | Moonchrome. | 382931 | [382931-moonchrome.json](./382931-moonchrome.json) |
