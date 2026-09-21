@@ -297,6 +297,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lapse | 111699 | [111699-lapse.json](./111699-lapse.json) |
 | Lapsi | 120337 | [120337-lapsi.json](./120337-lapsi.json) |
 | Lapso | 126618 | [126618-lapso.json](./126618-lapso.json) |
+| Laptick | 56741 | [56741-laptick.json](./56741-laptick.json) |
+| Laptick 2 | 56742 | [56742-laptick-2.json](./56742-laptick-2.json) |
 | Lara Croft and the Guardian of Light | 769 | [769-lara-croft-and-the-guardian-of-light.json](./769-lara-croft-and-the-guardian-of-light.json) |
 | Lara Gates: The Lost Talisman Hidden Object Game | 144761 | [144761-lara-gates-the-lost-talisman-hidden-object-game.json](./144761-lara-gates-the-lost-talisman-hidden-object-game.json) |
 | Laranja! | 391059 | [391059-laranja.json](./391059-laranja.json) |
