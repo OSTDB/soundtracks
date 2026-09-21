@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walpurgis Quintet | 205253 | [205253-walpurgis-quintet.json](./205253-walpurgis-quintet.json) |
 | Walpurgis: Enkan no Meikyuu | 205252 | [205252-walpurgis-enkan-no-meikyuu.json](./205252-walpurgis-enkan-no-meikyuu.json) |
 | Walrus Fly | 406690 | [406690-walrus-fly.json](./406690-walrus-fly.json) |
+| Walt Disney World Quest: Magical Racing Tour | 8129 | [8129-walt-disney-world-quest-magical-racing-tour.json](./8129-walt-disney-world-quest-magical-racing-tour.json) |
 | Walt Disney's Snow White and the Seven Dwarfs | 59938 | [59938-walt-disneys-snow-white-and-the-seven-dwarfs.json](./59938-walt-disneys-snow-white-and-the-seven-dwarfs.json) |
 | Walt Disney's The Jungle Book | 123599 | [123599-walt-disneys-the-jungle-book.json](./123599-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book: Mowgli's Wild Adventure | 49922 | [49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json](./49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json) |
