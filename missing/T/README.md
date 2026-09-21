@@ -3301,6 +3301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flea Evolution: Bugaboo | 189151 | [189151-the-flea-evolution-bugaboo.json](./189151-the-flea-evolution-bugaboo.json) |
 | The Flight of Dowran | 75038 | [75038-the-flight-of-dowran.json](./75038-the-flight-of-dowran.json) |
 | The Flintstones | 47227 | [47227-the-flintstones.json](./47227-the-flintstones.json) |
+| The Flintstones | 51942 | [51942-the-flintstones.json](./51942-the-flintstones.json) |
 | The Flintstones in Viva Rock Vegas | 78017 | [78017-the-flintstones-in-viva-rock-vegas.json](./78017-the-flintstones-in-viva-rock-vegas.json) |
 | The Flintstones: Bedrock Jackpot | 396443 | [396443-the-flintstones-bedrock-jackpot.json](./396443-the-flintstones-bedrock-jackpot.json) |
 | The Flintstones: Burgertime in Bedrock | 49930 | [49930-the-flintstones-burgertime-in-bedrock.json](./49930-the-flintstones-burgertime-in-bedrock.json) |
@@ -4136,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us Part II Remastered: W.L.F. Edition | 279776 | [279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json](./279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json) |
 | The Last of Us Remastered: Day 1 Edition | 89931 | [89931-the-last-of-us-remastered-day-1-edition.json](./89931-the-last-of-us-remastered-day-1-edition.json) |
 | The Last of Us: Between The Years | 305372 | [305372-the-last-of-us-between-the-years.json](./305372-the-last-of-us-between-the-years.json) |
+| The Last of Us: Left Behind - Remastered | 219027 | [219027-the-last-of-us-left-behind-remastered.json](./219027-the-last-of-us-left-behind-remastered.json) |
 | The Last One and Then Another | 318206 | [318206-the-last-one-and-then-another.json](./318206-the-last-one-and-then-another.json) |
 | The Last One Month | 180307 | [180307-the-last-one-month.json](./180307-the-last-one-month.json) |
 | The Last Ones Left | 150606 | [150606-the-last-ones-left.json](./150606-the-last-ones-left.json) |
@@ -4638,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Marbians | 336387 | [336387-the-marbians.json](./336387-the-marbians.json) |
 | The Marionette | 124595 | [124595-the-marionette.json](./124595-the-marionette.json) |
 | The Mark | 10956 | [10956-the-mark.json](./10956-the-mark.json) |
+| The Mark of Kri | 9120 | [9120-the-mark-of-kri.json](./9120-the-mark-of-kri.json) |
 | The Market of Light | 170545 | [170545-the-market-of-light.json](./170545-the-market-of-light.json) |
 | The Mars Agenda | 113508 | [113508-the-mars-agenda.json](./113508-the-mars-agenda.json) |
 | The Marson Home | 207913 | [207913-the-marson-home.json](./207913-the-marson-home.json) |
