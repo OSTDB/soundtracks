@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-16 Multirole Fighter | 72715 | [72715-f-16-multirole-fighter.json](./72715-f-16-multirole-fighter.json) |
 | F-16 Renegade | 66706 | [66706-f-16-renegade.json](./66706-f-16-renegade.json) |
 | F-18 Thunder Strike | 49931 | [49931-f-18-thunder-strike.json](./49931-f-18-thunder-strike.json) |
+| F-22 Air Dominance Fighter | 693 | [693-f-22-air-dominance-fighter.json](./693-f-22-air-dominance-fighter.json) |
 | F-22 Interceptor | 19494 | [19494-f-22-interceptor.json](./19494-f-22-interceptor.json) |
 | F-4 Phantom II: Sky Defender | 253358 | [253358-f-4-phantom-ii-sky-defender.json](./253358-f-4-phantom-ii-sky-defender.json) |
 | F-out | 291616 | [291616-f-out.json](./291616-f-out.json) |
@@ -59,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F*ck This Game | 191129 | [191129-f-ck-this-game.json](./191129-f-ck-this-game.json) |
 | F/A-18 Hornet 2.0 | 47295 | [47295-f-a-18-hornet-2-0.json](./47295-f-a-18-hornet-2-0.json) |
 | F/A-18 Interceptor | 12081 | [12081-f-a-18-interceptor.json](./12081-f-a-18-interceptor.json) |
+| F/A-18 Korea | 688 | [688-f-a-18-korea.json](./688-f-a-18-korea.json) |
 | F/A-18E Super Hornet: The Albanian Campaign | 84201 | [84201-f-a-18e-super-hornet-the-albanian-campaign.json](./84201-f-a-18e-super-hornet-the-albanian-campaign.json) |
 | F1 06 | 7308 | [7308-f1-06.json](./7308-f1-06.json) |
 | F1 2000 | 45305 | [45305-f1-2000.json](./45305-f1-2000.json) |
@@ -89,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Racers | 187969 | [187969-f1-racers.json](./187969-f1-racers.json) |
 | F1 Racing Championship | 3495 | [3495-f1-racing-championship.json](./3495-f1-racing-championship.json) |
 | F1 Racing Championship 2 | 137653 | [137653-f1-racing-championship-2.json](./137653-f1-racing-championship-2.json) |
+| F1 Racing Simulation | 691 | [691-f1-racing-simulation.json](./691-f1-racing-simulation.json) |
 | F1 ROC II: Race of Champions | 42572 | [42572-f1-roc-ii-race-of-champions.json](./42572-f1-roc-ii-race-of-champions.json) |
 | F1 Super Lap | 109442 | [109442-f1-super-lap.json](./109442-f1-super-lap.json) |
 | F1 Team Simulation: Project F | 128359 | [128359-f1-team-simulation-project-f.json](./128359-f1-team-simulation-project-f.json) |
@@ -300,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon 3.0 | 137028 | [137028-falcon-3-0.json](./137028-falcon-3-0.json) |
 | Falcon 3.0: Hornet - Naval Strike Fighter | 78024 | [78024-falcon-3-0-hornet-naval-strike-fighter.json](./78024-falcon-3-0-hornet-naval-strike-fighter.json) |
 | Falcon 4.0 | 33853 | [33853-falcon-4-0.json](./33853-falcon-4-0.json) |
+| Falcon 4.0: Allied Force | 695 | [695-falcon-4-0-allied-force.json](./695-falcon-4-0-allied-force.json) |
 | Falcon Beertender 2 | 286123 | [286123-falcon-beertender-2.json](./286123-falcon-beertender-2.json) |
 | Falcon BMS | 77298 | [77298-falcon-bms.json](./77298-falcon-bms.json) |
 | Falcon Simulator | 86859 | [86859-falcon-simulator.json](./86859-falcon-simulator.json) |
@@ -1663,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XI: Rhapsodies of Vana'diel | 266861 | [266861-final-fantasy-xi-rhapsodies-of-vanadiel.json](./266861-final-fantasy-xi-rhapsodies-of-vanadiel.json) |
 | Final Fantasy XI: Scars of Abyssea | 255775 | [255775-final-fantasy-xi-scars-of-abyssea.json](./255775-final-fantasy-xi-scars-of-abyssea.json) |
 | Final Fantasy XI: Vision of Abyssea | 255774 | [255774-final-fantasy-xi-vision-of-abyssea.json](./255774-final-fantasy-xi-vision-of-abyssea.json) |
+| Final Fantasy XI: Wings of the Goddess | 402 | [402-final-fantasy-xi-wings-of-the-goddess.json](./402-final-fantasy-xi-wings-of-the-goddess.json) |
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV Online: Complete Edition | 293775 | [293775-final-fantasy-xiv-online-complete-edition.json](./293775-final-fantasy-xiv-online-complete-edition.json) |
 | Final Fantasy XIV Online: Starter Edition | 293777 | [293777-final-fantasy-xiv-online-starter-edition.json](./293777-final-fantasy-xiv-online-starter-edition.json) |
@@ -2443,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Cycle 2 | 286631 | [286631-flash-cycle-2.json](./286631-flash-cycle-2.json) |
 | Flash Gordon | 22735 | [22735-flash-gordon.json](./22735-flash-gordon.json) |
 | Flash Point | 114159 | [114159-flash-point.json](./114159-flash-point.json) |
+| Flash Point Korea: AH-64D Longbow | 710 | [710-flash-point-korea-ah-64d-longbow.json](./710-flash-point-korea-ah-64d-longbow.json) |
 | Flashback Legend | 49378 | [49378-flashback-legend.json](./49378-flashback-legend.json) |
 | Flashbound | 381023 | [381023-flashbound.json](./381023-flashbound.json) |
 | Flashcard Clash | 25734 | [25734-flashcard-clash.json](./25734-flashcard-clash.json) |
@@ -2566,6 +2572,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Squadron | 69887 | [69887-flight-squadron.json](./69887-flight-squadron.json) |
 | Flight Time | 347681 | [347681-flight-time.json](./347681-flight-time.json) |
 | Flight Unlimited 2K17 | 87550 | [87550-flight-unlimited-2k17.json](./87550-flight-unlimited-2k17.json) |
+| Flight Unlimited II | 714 | [714-flight-unlimited-ii.json](./714-flight-unlimited-ii.json) |
+| Flight Unlimited III | 715 | [715-flight-unlimited-iii.json](./715-flight-unlimited-iii.json) |
 | Flight? Youth! | 395670 | [395670-flight-youth.json](./395670-flight-youth.json) |
 | FlightGear | 51200 | [51200-flightgear.json](./51200-flightgear.json) |
 | Flightless Fighters | 391710 | [391710-flightless-fighters.json](./391710-flightless-fighters.json) |
