@@ -1806,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's So Raven | 49407 | [49407-thats-so-raven.json](./49407-thats-so-raven.json) |
 | That's So Raven 2: Supernatural Style | 49406 | [49406-thats-so-raven-2-supernatural-style.json](./49406-thats-so-raven-2-supernatural-style.json) |
 | That's So Raven: Psychic on the Scene | 47951 | [47951-thats-so-raven-psychic-on-the-scene.json](./47951-thats-so-raven-psychic-on-the-scene.json) |
+| That's the Spirit | 57354 | [57354-thats-the-spirit.json](./57354-thats-the-spirit.json) |
 | Thawed Waters | 260254 | [260254-thawed-waters.json](./260254-thawed-waters.json) |
 | The "Quiet, Please!" Collection | 95193 | [95193-the-quiet-please-collection.json](./95193-the-quiet-please-collection.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
@@ -3057,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eye | 141836 | [141836-the-eye.json](./141836-the-eye.json) |
 | The Eye of Judgment: Legends | 46020 | [46020-the-eye-of-judgment-legends.json](./46020-the-eye-of-judgment-legends.json) |
 | The Eye of Modern Mali | 103185 | [103185-the-eye-of-modern-mali.json](./103185-the-eye-of-modern-mali.json) |
+| The Eye of Typhoon | 57341 | [57341-the-eye-of-typhoon.json](./57341-the-eye-of-typhoon.json) |
 | The Eyes of Dr Kautzmann | 219256 | [219256-the-eyes-of-dr-kautzmann.json](./219256-the-eyes-of-dr-kautzmann.json) |
 | The F.A. Premier League Football Manager 2000 | 70974 | [70974-the-f-a-premier-league-football-manager-2000.json](./70974-the-f-a-premier-league-football-manager-2000.json) |
 | The Fable of Fairy Glen | 355030 | [355030-the-fable-of-fairy-glen.json](./355030-the-fable-of-fairy-glen.json) |
@@ -8332,6 +8334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tongari Boushi to Oshare na Mahou Tsukai | 109054 | [109054-tongari-boushi-to-oshare-na-mahou-tsukai.json](./109054-tongari-boushi-to-oshare-na-mahou-tsukai.json) |
 | Tongue of Dog | 355084 | [355084-tongue-of-dog.json](./355084-tongue-of-dog.json) |
 | Toni Island Adventure | 288198 | [288198-toni-island-adventure.json](./288198-toni-island-adventure.json) |
+| Tonic Tile | 57319 | [57319-tonic-tile.json](./57319-tonic-tile.json) |
 | Tonic Trouble | 3614 | [3614-tonic-trouble.json](./3614-tonic-trouble.json) |
 | Tonight It Follows | 120201 | [120201-tonight-it-follows.json](./120201-tonight-it-follows.json) |
 | Tonight We Hunt | 183975 | [183975-tonight-we-hunt.json](./183975-tonight-we-hunt.json) |
@@ -8907,6 +8910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Guardian | 153946 | [153946-tower-of-guardian.json](./153946-tower-of-guardian.json) |
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
 | Tower of Heresy | 127799 | [127799-tower-of-heresy.json](./127799-tower-of-heresy.json) |
+| Tower of Myraglen | 57381 | [57381-tower-of-myraglen.json](./57381-tower-of-myraglen.json) |
 | Tower of Nod | 313308 | [313308-tower-of-nod.json](./313308-tower-of-nod.json) |
 | Tower of Pandemonium | 253416 | [253416-tower-of-pandemonium.json](./253416-tower-of-pandemonium.json) |
 | Tower of Saviors | 22440 | [22440-tower-of-saviors.json](./22440-tower-of-saviors.json) |
@@ -9742,6 +9746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transporter Truck Simulator | 119043 | [119043-transporter-truck-simulator.json](./119043-transporter-truck-simulator.json) |
 | Transpose | 109417 | [109417-transpose.json](./109417-transpose.json) |
 | Transubstantiation Synthesis | 239879 | [239879-transubstantiation-synthesis.json](./239879-transubstantiation-synthesis.json) |
+| Transversion | 57343 | [57343-transversion.json](./57343-transversion.json) |
 | Transworld Endless Skater | 241057 | [241057-transworld-endless-skater.json](./241057-transworld-endless-skater.json) |
 | Transworld Surf: Next Wave | 69158 | [69158-transworld-surf-next-wave.json](./69158-transworld-surf-next-wave.json) |
 | Transylmania | 267402 | [267402-transylmania.json](./267402-transylmania.json) |
@@ -10581,6 +10586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turis Station | 244501 | [244501-turis-station.json](./244501-turis-station.json) |
 | Turk-A-Lurk | 186811 | [186811-turk-a-lurk.json](./186811-turk-a-lurk.json) |
 | Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
+| Turkey Hunter Deluxe | 57331 | [57331-turkey-hunter-deluxe.json](./57331-turkey-hunter-deluxe.json) |
 | Turkey Stuffin' | 62690 | [62690-turkey-stuffin.json](./62690-turkey-stuffin.json) |
 | Turkmenchay | 362858 | [362858-turkmenchay.json](./362858-turkmenchay.json) |
 | Turlock Holmes | 286086 | [286086-turlock-holmes.json](./286086-turlock-holmes.json) |
