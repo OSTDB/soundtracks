@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Blackout | 111246 | [111246-scp-blackout.json](./111246-scp-blackout.json) |
 | SCP: Bloodwater | 272936 | [272936-scp-bloodwater.json](./272936-scp-bloodwater.json) |
 | Scp: Breakout | 173187 | [173187-scp-breakout.json](./173187-scp-breakout.json) |
+| SCP: Containment Breach | 20193 | [20193-scp-containment-breach.json](./20193-scp-containment-breach.json) |
 | SCP: Containment Breach Mobile | 174756 | [174756-scp-containment-breach-mobile.json](./174756-scp-containment-breach-mobile.json) |
 | SCP: Containment Breach Remastered | 210866 | [210866-scp-containment-breach-remastered.json](./210866-scp-containment-breach-remastered.json) |
 | SCP: Cross Containment | 141786 | [141786-scp-cross-containment.json](./141786-scp-cross-containment.json) |
@@ -1934,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seraphixial | 392164 | [392164-seraphixial.json](./392164-seraphixial.json) |
 | Serbia '14 | 131997 | [131997-serbia-14.json](./131997-serbia-14.json) |
 | Serega Madness Pixel Adventures | 295276 | [295276-serega-madness-pixel-adventures.json](./295276-serega-madness-pixel-adventures.json) |
+| Serena | 14528 | [14528-serena.json](./14528-serena.json) |
 | Serendipity Hotel | 190218 | [190218-serendipity-hotel.json](./190218-serendipity-hotel.json) |
 | Serendipity: The Mafias | 254615 | [254615-serendipity-the-mafias.json](./254615-serendipity-the-mafias.json) |
 | Serene Asylum | 172740 | [172740-serene-asylum.json](./172740-serene-asylum.json) |
@@ -1961,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam HD: The Second Encounter - Legend of the Beast | 170923 | [170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json](./170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json) |
 | Serious Sam II | 787 | [787-serious-sam-ii.json](./787-serious-sam-ii.json) |
 | Serious Sam: GOG Collection | 205226 | [205226-serious-sam-gog-collection.json](./205226-serious-sam-gog-collection.json) |
+| Serious Sam: Siberian Mayhem | 187112 | [187112-serious-sam-siberian-mayhem.json](./187112-serious-sam-siberian-mayhem.json) |
 | Serious Sam: The Second Encounter | 858 | [858-serious-sam-the-second-encounter.json](./858-serious-sam-the-second-encounter.json) |
 | Serious Sam: Tormental | 116987 | [116987-serious-sam-tormental.json](./116987-serious-sam-tormental.json) |
 | Serious Solitaire | 84236 | [84236-serious-solitaire.json](./84236-serious-solitaire.json) |
@@ -3204,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovel Knight Dig | 122097 | [122097-shovel-knight-dig.json](./122097-shovel-knight-dig.json) |
 | Shovel Knight: Dig - Fate and Fortune | 305754 | [305754-shovel-knight-dig-fate-and-fortune.json](./305754-shovel-knight-dig-fate-and-fortune.json) |
 | Shovel Knight: Dig - Wicked Wishes | 305755 | [305755-shovel-knight-dig-wicked-wishes.json](./305755-shovel-knight-dig-wicked-wishes.json) |
+| Shovel Knight: King of Cards | 27241 | [27241-shovel-knight-king-of-cards.json](./27241-shovel-knight-king-of-cards.json) |
 | Shovel Knight: Pocket Dungeon - Paradox Pack DLC | 305756 | [305756-shovel-knight-pocket-dungeon-paradox-pack-dlc.json](./305756-shovel-knight-pocket-dungeon-paradox-pack-dlc.json) |
 | Shovel Knight: Pocket Dungeon - Puzzler's Pack DLC | 246405 | [246405-shovel-knight-pocket-dungeon-puzzlers-pack-dlc.json](./246405-shovel-knight-pocket-dungeon-puzzlers-pack-dlc.json) |
 | Shovel Knight: Shovel of Hope DX | 305757 | [305757-shovel-knight-shovel-of-hope-dx.json](./305757-shovel-knight-shovel-of-hope-dx.json) |
@@ -6353,6 +6357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
 | SoulWander | 348785 | [348785-soulwander.json](./348785-soulwander.json) |
 | Soulward | 183458 | [183458-soulward.json](./183458-soulward.json) |
+| SoulWorker | 57372 | [57372-soulworker.json](./57372-soulworker.json) |
 | Soulworker Academia | 143053 | [143053-soulworker-academia.json](./143053-soulworker-academia.json) |
 | SoulWorker: Anime Legends | 200736 | [200736-soulworker-anime-legends.json](./200736-soulworker-anime-legends.json) |
 | Soumei: Crescent Moon | 382781 | [382781-soumei-crescent-moon.json](./382781-soumei-crescent-moon.json) |
@@ -7164,6 +7169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce 2: Faith in Destiny - Scenario 3: The Last Stand | 144287 | [144287-spellforce-2-faith-in-destiny-scenario-3-the-last-stand.json](./144287-spellforce-2-faith-in-destiny-scenario-3-the-last-stand.json) |
 | SpellForce 2: Faith in Destiny - Scenario Pack | 144288 | [144288-spellforce-2-faith-in-destiny-scenario-pack.json](./144288-spellforce-2-faith-in-destiny-scenario-pack.json) |
 | SpellForce 2: Gold Edition | 27859 | [27859-spellforce-2-gold-edition.json](./27859-spellforce-2-gold-edition.json) |
+| SpellForce 3 | 17583 | [17583-spellforce-3.json](./17583-spellforce-3.json) |
 | SpellForce 3: Soul Harvest - Oktoberfest | 157561 | [157561-spellforce-3-soul-harvest-oktoberfest.json](./157561-spellforce-3-soul-harvest-oktoberfest.json) |
 | SpellForce 3: Versus | 144290 | [144290-spellforce-3-versus.json](./144290-spellforce-3-versus.json) |
 | SpellForce: Heroes & Magic | 118373 | [118373-spellforce-heroes-and-magic.json](./118373-spellforce-heroes-and-magic.json) |
@@ -10312,6 +10318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Boat Rescue | 25767 | [25767-super-boat-rescue.json](./25767-super-boat-rescue.json) |
 | Super Boba: Pachinko Cafe | 296505 | [296505-super-boba-pachinko-cafe.json](./296505-super-boba-pachinko-cafe.json) |
 | Super Bomberman | 3450 | [3450-super-bomberman.json](./3450-super-bomberman.json) |
+| Super Bomberman 3 | 18618 | [18618-super-bomberman-3.json](./18618-super-bomberman-3.json) |
 | Super Bomberman R Online: Premium Pack | 150653 | [150653-super-bomberman-r-online-premium-pack.json](./150653-super-bomberman-r-online-premium-pack.json) |
 | Super Bomberman: Panic Bomber W | 42546 | [42546-super-bomberman-panic-bomber-w.json](./42546-super-bomberman-panic-bomber-w.json) |
 | Super BOO Quest | 110180 | [110180-super-boo-quest.json](./110180-super-boo-quest.json) |
@@ -12205,6 +12212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Override | 277604 | [277604-system-override.json](./277604-system-override.json) |
 | System Purge | 182381 | [182381-system-purge.json](./182381-system-purge.json) |
 | System Reject | 321959 | [321959-system-reject.json](./321959-system-reject.json) |
+| System Shock: Enhanced Edition | 12987 | [12987-system-shock-enhanced-edition.json](./12987-system-shock-enhanced-edition.json) |
 | System Shock: Rewired | 353370 | [353370-system-shock-rewired.json](./353370-system-shock-rewired.json) |
 | System Zero | 148896 | [148896-system-zero.json](./148896-system-zero.json) |
 | System32 | 167763 | [167763-system32.json](./167763-system32.json) |
