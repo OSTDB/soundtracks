@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underpond | 376444 | [376444-underpond.json](./376444-underpond.json) |
 | Underponder | 151189 | [151189-underponder.json](./151189-underponder.json) |
 | Underquest | 250016 | [250016-underquest.json](./250016-underquest.json) |
+| UnderRaid | 56125 | [56125-underraid.json](./56125-underraid.json) |
 | Undersea Adventure | 69837 | [69837-undersea-adventure.json](./69837-undersea-adventure.json) |
 | Understanding of the Abyss | 151733 | [151733-understanding-of-the-abyss.json](./151733-understanding-of-the-abyss.json) |
 | Understeel | 382204 | [382204-understeel.json](./382204-understeel.json) |
