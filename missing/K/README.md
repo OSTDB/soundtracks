@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenja no Ishi | 373029 | [373029-kenja-no-ishi.json](./373029-kenja-no-ishi.json) |
 | Kenka Bancho | 91387 | [91387-kenka-bancho.json](./91387-kenka-bancho.json) |
 | Kenka Banchou Otome 2nd Rumble!! | 109571 | [109571-kenka-banchou-otome-2nd-rumble.json](./109571-kenka-banchou-otome-2nd-rumble.json) |
+| Kenka Banchou Otome: Kanzen Muketsu no My Honey | 54743 | [54743-kenka-banchou-otome-kanzen-muketsu-no-my-honey.json](./54743-kenka-banchou-otome-kanzen-muketsu-no-my-honey.json) |
 | Kenka ga Tsuyokute Cool de Tsuyoki no Furyou Kanojo ga Yowai Boku o Kabatte Kegasaremasu | 82481 | [82481-kenka-ga-tsuyokute-cool-de-tsuyoki-no-furyou-kanojo-ga-yowai-boku-o-kabatte-kegasaremasu.json](./82481-kenka-ga-tsuyokute-cool-de-tsuyoki-no-furyou-kanojo-ga-yowai-boku-o-kabatte-kegasaremasu.json) |
 | KenKen: Train Your Brain | 68022 | [68022-kenken-train-your-brain.json](./68022-kenken-train-your-brain.json) |
 | Kenny vs. Spenny: The Handheld Game | 395002 | [395002-kenny-vs-spenny-the-handheld-game.json](./395002-kenny-vs-spenny-the-handheld-game.json) |
@@ -1128,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings' Cross | 112354 | [112354-kings-cross.json](./112354-kings-cross.json) |
 | Kingsburg Serving the Crown | 205090 | [205090-kingsburg-serving-the-crown.json](./205090-kingsburg-serving-the-crown.json) |
 | Kingslayer Tactics | 117065 | [117065-kingslayer-tactics.json](./117065-kingslayer-tactics.json) |
+| Kingsman: The Golden Circle | 54712 | [54712-kingsman-the-golden-circle.json](./54712-kingsman-the-golden-circle.json) |
 | Kingspray Graffiti | 26358 | [26358-kingspray-graffiti.json](./26358-kingspray-graffiti.json) |
 | Kingsvein | 243670 | [243670-kingsvein.json](./243670-kingsvein.json) |
 | Kiniro Mosaic Memories | 202390 | [202390-kiniro-mosaic-memories.json](./202390-kiniro-mosaic-memories.json) |
