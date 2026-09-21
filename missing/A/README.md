@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aion: Dark Betrayal | 62683 | [62683-aion-dark-betrayal.json](./62683-aion-dark-betrayal.json) |
 | Aion: Echoes of Eternity | 77274 | [77274-aion-echoes-of-eternity.json](./77274-aion-echoes-of-eternity.json) |
 | Aion: Legions of War | 69007 | [69007-aion-legions-of-war.json](./69007-aion-legions-of-war.json) |
+| Aion: Steel Cavalry | 62416 | [62416-aion-steel-cavalry.json](./62416-aion-steel-cavalry.json) |
 | AionGuard | 94732 | [94732-aionguard.json](./94732-aionguard.json) |
 | AiPri Verse | 284922 | [284922-aipri-verse.json](./284922-aipri-verse.json) |
 | Air | 270385 | [270385-air.json](./270385-air.json) |
@@ -1851,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Along the River During the Qingming Festival | 295384 | [295384-along-the-river-during-the-qingming-festival.json](./295384-along-the-river-during-the-qingming-festival.json) |
 | Alpaca Ball: Allstars - Collector's Edition | 146114 | [146114-alpaca-ball-allstars-collectors-edition.json](./146114-alpaca-ball-allstars-collectors-edition.json) |
 | Alpaca Party | 326086 | [326086-alpaca-party.json](./326086-alpaca-party.json) |
+| Alpaca Run | 62451 | [62451-alpaca-run.json](./62451-alpaca-run.json) |
 | Alpaca Wonders Why | 280175 | [280175-alpaca-wonders-why.json](./280175-alpaca-wonders-why.json) |
 | Alpacapaca Dash 1 + 2 Bundle | 331445 | [331445-alpacapaca-dash-1-2-bundle.json](./331445-alpacapaca-dash-1-2-bundle.json) |
 | Alpacapaca Dash 2 | 331444 | [331444-alpacapaca-dash-2.json](./331444-alpacapaca-dash-2.json) |
@@ -5144,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Memory | 87689 | [87689-awesome-memory.json](./87689-awesome-memory.json) |
 | Awesome Metal Detecting | 77371 | [77371-awesome-metal-detecting.json](./77371-awesome-metal-detecting.json) |
 | Awesome Possum Kicks Dr. Machino's Butt | 46240 | [46240-awesome-possum-kicks-dr-machinos-butt.json](./46240-awesome-possum-kicks-dr-machinos-butt.json) |
+| Awesome Shapes | 62411 | [62411-awesome-shapes.json](./62411-awesome-shapes.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
 | Awesomenauts Overdrive | 109468 | [109468-awesomenauts-overdrive.json](./109468-awesomenauts-overdrive.json) |
