@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus.1 | 25947 | [25947-icarus-1.json](./25947-icarus-1.json) |
 | ICBM: Escalation - Endless October | 372533 | [372533-icbm-escalation-endless-october.json](./372533-icbm-escalation-endless-october.json) |
 | Ice | 342173 | [342173-ice.json](./342173-ice.json) |
+| Ice Age Adventures | 39202 | [39202-ice-age-adventures.json](./39202-ice-age-adventures.json) |
 | Ice Age Hunter: Evolution-U | 100963 | [100963-ice-age-hunter-evolution-u.json](./100963-ice-age-hunter-evolution-u.json) |
 | Ice Age Race | 105986 | [105986-ice-age-race.json](./105986-ice-age-race.json) |
 | Ice Age Village | 64140 | [64140-ice-age-village.json](./64140-ice-age-village.json) |
