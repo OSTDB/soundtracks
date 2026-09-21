@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Waters: New Horizons | 45539 | [45539-uncharted-waters-new-horizons.json](./45539-uncharted-waters-new-horizons.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
 | Unclaimed World | 17130 | [17130-unclaimed-world.json](./17130-unclaimed-world.json) |
+| Uncle Albert's Fabulous Voyage | 25916 | [25916-uncle-alberts-fabulous-voyage.json](./25916-uncle-alberts-fabulous-voyage.json) |
 | Uncle and His Friend | 393612 | [393612-uncle-and-his-friend.json](./393612-uncle-and-his-friend.json) |
 | Uncle Neighbor | 126415 | [126415-uncle-neighbor.json](./126415-uncle-neighbor.json) |
 | Uncle Slam Vice Squad | 255723 | [255723-uncle-slam-vice-squad.json](./255723-uncle-slam-vice-squad.json) |
@@ -523,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Defeat HD+ | 21016 | [21016-under-defeat-hd.json](./21016-under-defeat-hd.json) |
 | Under Destruction | 356760 | [356760-under-destruction.json](./356760-under-destruction.json) |
 | Under Fire | 46876 | [46876-under-fire.json](./46876-under-fire.json) |
+| Under Fire! | 25971 | [25971-under-fire.json](./25971-under-fire.json) |
 | Under Lock | 142265 | [142265-under-lock.json](./142265-under-lock.json) |
 | Under Night In-Birth II: Character - Uzuki | 309084 | [309084-under-night-in-birth-ii-character-uzuki.json](./309084-under-night-in-birth-ii-character-uzuki.json) |
 | Under Night In-Bright II Sys:Celes - Deluxe Edition | 277303 | [277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json](./277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json) |
@@ -715,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicorn and Sweets | 149951 | [149951-unicorn-and-sweets.json](./149951-unicorn-and-sweets.json) |
 | Unicorn Coloring Book | 96076 | [96076-unicorn-coloring-book.json](./96076-unicorn-coloring-book.json) |
 | Unicorn Fun | 227843 | [227843-unicorn-fun.json](./227843-unicorn-fun.json) |
+| Unicorn Go | 25958 | [25958-unicorn-go.json](./25958-unicorn-go.json) |
 | Unicorn Overlord: Monarch Edition | 283162 | [283162-unicorn-overlord-monarch-edition.json](./283162-unicorn-overlord-monarch-edition.json) |
 | Unicorn Overlord: Premium Edition | 292141 | [292141-unicorn-overlord-premium-edition.json](./292141-unicorn-overlord-premium-edition.json) |
 | Unicorn Shake | 177473 | [177473-unicorn-shake.json](./177473-unicorn-shake.json) |
