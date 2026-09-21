@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlings: Rotten Edition | 26822 | [26822-deadlings-rotten-edition.json](./26822-deadlings-rotten-edition.json) |
 | DeadLock | 166073 | [166073-deadlock.json](./166073-deadlock.json) |
 | Deadlocked | 197796 | [197796-deadlocked.json](./197796-deadlocked.json) |
+| Deadly Animal Duel | 61893 | [61893-deadly-animal-duel.json](./61893-deadly-animal-duel.json) |
 | Deadly Blue | 86528 | [86528-deadly-blue.json](./86528-deadly-blue.json) |
 | Deadly Burrito | 111506 | [111506-deadly-burrito.json](./111506-deadly-burrito.json) |
 | Deadly Contagion | 275130 | [275130-deadly-contagion.json](./275130-deadly-contagion.json) |
@@ -3565,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogfighter: WW2 | 219033 | [219033-dogfighter-ww2.json](./219033-dogfighter-ww2.json) |
 | Dogforce: Seasons | 179161 | [179161-dogforce-seasons.json](./179161-dogforce-seasons.json) |
 | Doggie Ninja: The Burning Strikers | 147785 | [147785-doggie-ninja-the-burning-strikers.json](./147785-doggie-ninja-the-burning-strikers.json) |
+| Doggins | 61872 | [61872-doggins.json](./61872-doggins.json) |
 | Doggo | 287098 | [287098-doggo.json](./287098-doggo.json) |
 | Doggo Dungeon | 174270 | [174270-doggo-dungeon.json](./174270-doggo-dungeon.json) |
 | Doggo Quest | 151047 | [151047-doggo-quest.json](./151047-doggo-quest.json) |
@@ -5003,6 +5005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamspace | 323342 | [323342-dreamspace.json](./323342-dreamspace.json) |
 | Dreamspring | 333372 | [333372-dreamspring.json](./333372-dreamspring.json) |
 | Dreamstate Racing | 133414 | [133414-dreamstate-racing.json](./133414-dreamstate-racing.json) |
+| Dreamstudio | 61860 | [61860-dreamstudio.json](./61860-dreamstudio.json) |
 | Dreamsweeper | 265772 | [265772-dreamsweeper.json](./265772-dreamsweeper.json) |
 | Dreamtale | 178656 | [178656-dreamtale.json](./178656-dreamtale.json) |
 | DreamTank | 72356 | [72356-dreamtank.json](./72356-dreamtank.json) |
