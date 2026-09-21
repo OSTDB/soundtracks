@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart Crawlers | 184637 | [184637-cart-crawlers.json](./184637-cart-crawlers.json) |
 | Cart Fury | 43275 | [43275-cart-fury.json](./43275-cart-fury.json) |
 | Cart Fury: Championship Racing | 78637 | [78637-cart-fury-championship-racing.json](./78637-cart-fury-championship-racing.json) |
+| Cart Precision Racing | 627 | [627-cart-precision-racing.json](./627-cart-precision-racing.json) |
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
 | Cartapli: Fold Quest | 386834 | [386834-cartapli-fold-quest.json](./386834-cartapli-fold-quest.json) |
 | Cartas de Coisas | 325623 | [325623-cartas-de-coisas.json](./325623-cartas-de-coisas.json) |
@@ -1859,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
 | Chaos of East | 101353 | [101353-chaos-of-east.json](./101353-chaos-of-east.json) |
 | Chaos of Fallen City | 159864 | [159864-chaos-of-fallen-city.json](./159864-chaos-of-fallen-city.json) |
+| Chaos Overlords | 629 | [629-chaos-overlords.json](./629-chaos-overlords.json) |
 | Chaos Party | 139410 | [139410-chaos-party.json](./139410-chaos-party.json) |
 | Chaos Ride | 60522 | [60522-chaos-ride.json](./60522-chaos-ride.json) |
 | Chaos Rings | 38898 | [38898-chaos-rings.json](./38898-chaos-rings.json) |
@@ -2135,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChessLocke | 144118 | [144118-chesslocke.json](./144118-chesslocke.json) |
 | Chessmaster | 23714 | [23714-chessmaster.json](./23714-chessmaster.json) |
 | Chessmaster | 343921 | [343921-chessmaster.json](./343921-chessmaster.json) |
+| Chessmaster 5500 | 631 | [631-chessmaster-5500.json](./631-chessmaster-5500.json) |
 | Chessmaster 7000 | 15880 | [15880-chessmaster-7000.json](./15880-chessmaster-7000.json) |
 | Chessmaster 8000 | 15881 | [15881-chessmaster-8000.json](./15881-chessmaster-8000.json) |
 | Chessmaster 9000 | 15882 | [15882-chessmaster-9000.json](./15882-chessmaster-9000.json) |
@@ -3336,6 +3339,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clonk A.P.E. | 79332 | [79332-clonk-a-p-e.json](./79332-clonk-a-p-e.json) |
 | Clonk Endeavour | 57644 | [57644-clonk-endeavour.json](./57644-clonk-endeavour.json) |
 | Close Cities | 288337 | [288337-close-cities.json](./288337-close-cities.json) |
+| Close Combat | 637 | [637-close-combat.json](./637-close-combat.json) |
+| Close Combat III: The Russian Front | 638 | [638-close-combat-iii-the-russian-front.json](./638-close-combat-iii-the-russian-front.json) |
+| Close Combat: A Bridge Too Far | 639 | [639-close-combat-a-bridge-too-far.json](./639-close-combat-a-bridge-too-far.json) |
 | Close Contact | 149923 | [149923-close-contact.json](./149923-close-contact.json) |
 | Close for the Night | 359989 | [359989-close-for-the-night.json](./359989-close-for-the-night.json) |
 | Close Quarters Supremacy: The Legis | 173234 | [173234-close-quarters-supremacy-the-legis.json](./173234-close-quarters-supremacy-the-legis.json) |
@@ -3974,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coma: A Mind Adventure | 64976 | [64976-coma-a-mind-adventure.json](./64976-coma-a-mind-adventure.json) |
 | Coma: Lost in the Maze | 186816 | [186816-coma-lost-in-the-maze.json](./186816-coma-lost-in-the-maze.json) |
 | Coma: Mortuary | 36321 | [36321-coma-mortuary.json](./36321-coma-mortuary.json) |
+| Comanche 3 | 643 | [643-comanche-3.json](./643-comanche-3.json) |
 | Comanche: Maximum Overkill - Mission Disk 1 | 94240 | [94240-comanche-maximum-overkill-mission-disk-1.json](./94240-comanche-maximum-overkill-mission-disk-1.json) |
 | Comando Rio | 297097 | [297097-comando-rio.json](./297097-comando-rio.json) |
 | Comando Tracer | 138800 | [138800-comando-tracer.json](./138800-comando-tracer.json) |
@@ -3997,9 +4004,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Lynx | 12946 | [12946-combat-lynx.json](./12946-combat-lynx.json) |
 | Combat Master | 248376 | [248376-combat-master.json](./248376-combat-master.json) |
 | Combat Master: Season 1 | 318437 | [318437-combat-master-season-1.json](./318437-combat-master-season-1.json) |
+| Combat Mission 2 | 645 | [645-combat-mission-2.json](./645-combat-mission-2.json) |
 | Combat Mission Anthology | 78011 | [78011-combat-mission-anthology.json](./78011-combat-mission-anthology.json) |
 | Combat Mission Shock Force 2 | 138217 | [138217-combat-mission-shock-force-2.json](./138217-combat-mission-shock-force-2.json) |
 | Combat Mission Shock Force: Marines | 21263 | [21263-combat-mission-shock-force-marines.json](./21263-combat-mission-shock-force-marines.json) |
+| Combat Mission: Beyond Overlord | 646 | [646-combat-mission-beyond-overlord.json](./646-combat-mission-beyond-overlord.json) |
 | Combat Mission: Black Sea | 77292 | [77292-combat-mission-black-sea.json](./77292-combat-mission-black-sea.json) |
 | Combat Mission: Final Blitzkrieg - Downfall | 288220 | [288220-combat-mission-final-blitzkrieg-downfall.json](./288220-combat-mission-final-blitzkrieg-downfall.json) |
 | Combat Mission: Red Thunder | 77293 | [77293-combat-mission-red-thunder.json](./77293-combat-mission-red-thunder.json) |
