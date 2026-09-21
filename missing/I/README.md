@@ -773,7 +773,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imaginary Girls Three Kingdoms | 235347 | [235347-imaginary-girls-three-kingdoms.json](./235347-imaginary-girls-three-kingdoms.json) |
 | Imaginary Realms Bundle | 166690 | [166690-imaginary-realms-bundle.json](./166690-imaginary-realms-bundle.json) |
 | Imaginator | 122419 | [122419-imaginator.json](./122419-imaginator.json) |
+| Imagine: Animal Doctor Care Center | 7948 | [7948-imagine-animal-doctor-care-center.json](./7948-imagine-animal-doctor-care-center.json) |
+| Imagine: Artist | 7944 | [7944-imagine-artist.json](./7944-imagine-artist.json) |
+| Imagine: Babies 3D | 7951 | [7951-imagine-babies-3d.json](./7951-imagine-babies-3d.json) |
+| Imagine: Babyz Fashion | 7946 | [7946-imagine-babyz-fashion.json](./7946-imagine-babyz-fashion.json) |
+| Imagine: Champion Rider 3D | 7953 | [7953-imagine-champion-rider-3d.json](./7953-imagine-champion-rider-3d.json) |
+| Imagine: Fashion Designer World Tour | 7945 | [7945-imagine-fashion-designer-world-tour.json](./7945-imagine-fashion-designer-world-tour.json) |
+| Imagine: Fashion Life | 7950 | [7950-imagine-fashion-life.json](./7950-imagine-fashion-life.json) |
+| Imagine: Fashion Stylist | 7949 | [7949-imagine-fashion-stylist.json](./7949-imagine-fashion-stylist.json) |
+| Imagine: Reporter | 7942 | [7942-imagine-reporter.json](./7942-imagine-reporter.json) |
 | Imagine: Rescue Vet | 147432 | [147432-imagine-rescue-vet.json](./147432-imagine-rescue-vet.json) |
+| Imagine: Resort Owner | 7947 | [7947-imagine-resort-owner.json](./7947-imagine-resort-owner.json) |
+| Imagine: Zookeeper | 7943 | [7943-imagine-zookeeper.json](./7943-imagine-zookeeper.json) |
 | Imago | 97864 | [97864-imago.json](./97864-imago.json) |
 | iMahjong - Mahjong Pairs | 90041 | [90041-imahjong-mahjong-pairs.json](./90041-imahjong-mahjong-pairs.json) |
 | iMake IcePops | 101554 | [101554-imake-icepops.json](./101554-imake-icepops.json) |
