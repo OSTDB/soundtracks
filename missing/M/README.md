@@ -1082,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marabundle | 238596 | [238596-marabundle.json](./238596-marabundle.json) |
 | Maracaïbo | 69832 | [69832-maracaibo.json](./69832-maracaibo.json) |
 | Marapets | 58762 | [58762-marapets.json](./58762-marapets.json) |
+| Marathon Infinity | 8711 | [8711-marathon-infinity.json](./8711-marathon-infinity.json) |
 | Marathon Recompiled | 358340 | [358340-marathon-recompiled.json](./358340-marathon-recompiled.json) |
 | Marathon: Durandal | 299291 | [299291-marathon-durandal.json](./299291-marathon-durandal.json) |
 | Maratoma do Faustão | 242648 | [242648-maratoma-do-faustao.json](./242648-maratoma-do-faustao.json) |
@@ -1589,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Ultimate Alliance 3: The Black Order - Shadow of Doom | 122702 | [122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json](./122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json) |
 | Marvel vs. Capcom 2: New Age of Heroes | 305168 | [305168-marvel-vs-capcom-2-new-age-of-heroes.json](./305168-marvel-vs-capcom-2-new-age-of-heroes.json) |
 | Marvel vs. Capcom 2: New Age of Heroes | 305169 | [305169-marvel-vs-capcom-2-new-age-of-heroes.json](./305169-marvel-vs-capcom-2-new-age-of-heroes.json) |
+| Marvel vs. Capcom Fighting Collection: Arcade Classics | 306147 | [306147-marvel-vs-capcom-fighting-collection-arcade-classics.json](./306147-marvel-vs-capcom-fighting-collection-arcade-classics.json) |
 | Marvel vs. Capcom: Clash of Super Heroes | 8246 | [8246-marvel-vs-capcom-clash-of-super-heroes.json](./8246-marvel-vs-capcom-clash-of-super-heroes.json) |
 | Marvel vs. Capcom: Infinite - Black Panther | 161319 | [161319-marvel-vs-capcom-infinite-black-panther.json](./161319-marvel-vs-capcom-infinite-black-panther.json) |
 | Marvel vs. Capcom: Infinite - Black Widow | 161317 | [161317-marvel-vs-capcom-infinite-black-widow.json](./161317-marvel-vs-capcom-infinite-black-widow.json) |
@@ -3853,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind-Blowing Girls 3 | 163995 | [163995-mind-blowing-girls-3.json](./163995-mind-blowing-girls-3.json) |
 | Mind-Machine Interface | 27763 | [27763-mind-machine-interface.json](./27763-mind-machine-interface.json) |
 | Mind, Body & Soul: Nutrition Matters | 209013 | [209013-mind-body-and-soul-nutrition-matters.json](./209013-mind-body-and-soul-nutrition-matters.json) |
+| Mind: Path to Thalamus | 8876 | [8876-mind-path-to-thalamus.json](./8876-mind-path-to-thalamus.json) |
 | Mind's Eye Macrogolf | 361239 | [361239-minds-eye-macrogolf.json](./361239-minds-eye-macrogolf.json) |
 | Mindaro | 355123 | [355123-mindaro.json](./355123-mindaro.json) |
 | Mindbender | 71529 | [71529-mindbender.json](./71529-mindbender.json) |
