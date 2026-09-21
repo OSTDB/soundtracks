@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of the Untitled Magic | 154033 | [154033-kingdom-of-the-untitled-magic.json](./154033-kingdom-of-the-untitled-magic.json) |
 | Kingdom Rules | 412390 | [412390-kingdom-rules.json](./412390-kingdom-rules.json) |
 | Kingdom Run VR | 235469 | [235469-kingdom-run-vr.json](./235469-kingdom-run-vr.json) |
+| Kingdom Rush | 6005 | [6005-kingdom-rush.json](./6005-kingdom-rush.json) |
 | Kingdom Rush 5: Alliance | 296924 | [296924-kingdom-rush-5-alliance.json](./296924-kingdom-rush-5-alliance.json) |
 | Kingdom Rush 5: Alliance - Colossal Dwarfare | 330136 | [330136-kingdom-rush-5-alliance-colossal-dwarfare.json](./330136-kingdom-rush-5-alliance-colossal-dwarfare.json) |
 | Kingdom Rush 6: Genesis TD | 394375 | [394375-kingdom-rush-6-genesis-td.json](./394375-kingdom-rush-6-genesis-td.json) |
