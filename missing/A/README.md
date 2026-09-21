@@ -731,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure C: The Ship of Doom | 72641 | [72641-adventure-c-the-ship-of-doom.json](./72641-adventure-c-the-ship-of-doom.json) |
 | AdVenture Capitalist | 9591 | [9591-adventure-capitalist.json](./9591-adventure-capitalist.json) |
 | Adventure Climb VR | 116821 | [116821-adventure-climb-vr.json](./116821-adventure-climb-vr.json) |
+| Adventure Company | 57326 | [57326-adventure-company.json](./57326-adventure-company.json) |
 | Adventure D: Espionage Island | 45370 | [45370-adventure-d-espionage-island.json](./45370-adventure-d-espionage-island.json) |
 | Adventure Elf | 72132 | [72132-adventure-elf.json](./72132-adventure-elf.json) |
 | Adventure Escape Mysteries | 124620 | [124620-adventure-escape-mysteries.json](./124620-adventure-escape-mysteries.json) |
@@ -4182,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
 | Asfalia: The Cranky Volcano | 196425 | [196425-asfalia-the-cranky-volcano.json](./196425-asfalia-the-cranky-volcano.json) |
+| Asgard Run | 57327 | [57327-asgard-run.json](./57327-asgard-run.json) |
 | Asgard's Wrath | 115031 | [115031-asgards-wrath.json](./115031-asgards-wrath.json) |
 | Asghan 2 | 10864 | [10864-asghan-2.json](./10864-asghan-2.json) |
 | Asghan: The Dragon Slayer | 10860 | [10860-asghan-the-dragon-slayer.json](./10860-asghan-the-dragon-slayer.json) |
