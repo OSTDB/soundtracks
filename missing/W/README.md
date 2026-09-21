@@ -2717,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Tour Fishing | 5805 | [5805-world-tour-fishing.json](./5805-world-tour-fishing.json) |
 | World Tour Golf | 37172 | [37172-world-tour-golf.json](./37172-world-tour-golf.json) |
 | World Tour Soccer 2006 | 72725 | [72725-world-tour-soccer-2006.json](./72725-world-tour-soccer-2006.json) |
+| World Tour Tennis | 29140 | [29140-world-tour-tennis.json](./29140-world-tour-tennis.json) |
 | World Travel Solitaire | 415964 | [415964-world-travel-solitaire.json](./415964-world-travel-solitaire.json) |
 | World Traveler VR | 118990 | [118990-world-traveler-vr.json](./118990-world-traveler-vr.json) |
 | World Trigger: Borderless Mission | 12892 | [12892-world-trigger-borderless-mission.json](./12892-world-trigger-borderless-mission.json) |
