@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10,000 Feet Below | 271729 | [271729-10-000-feet-below.json](./271729-10-000-feet-below.json) |
 | 10:59 | 308936 | [308936-10-59.json](./308936-10-59.json) |
 | 100 Africa Cats | 334117 | [334117-100-africa-cats.json](./334117-100-africa-cats.json) |
+| 100 Aliens Cats | 288726 | [288726-100-aliens-cats.json](./288726-100-aliens-cats.json) |
 | 100 Aliens Cats: Extra Content | 308929 | [308929-100-aliens-cats-extra-content.json](./308929-100-aliens-cats-extra-content.json) |
 | 100 Amsterdam Cats | 351683 | [351683-100-amsterdam-cats.json](./351683-100-amsterdam-cats.json) |
 | 100 Astro Cats | 347755 | [347755-100-astro-cats.json](./347755-100-astro-cats.json) |
@@ -173,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hiddensaurs: Greece | 318394 | [318394-100-hiddensaurs-greece.json](./318394-100-hiddensaurs-greece.json) |
 | 100 Hong Kong Cats | 351681 | [351681-100-hong-kong-cats.json](./351681-100-hong-kong-cats.json) |
 | 100 India Cats | 334124 | [334124-100-india-cats.json](./334124-100-india-cats.json) |
+| 100 Istanbul Cats | 288727 | [288727-100-istanbul-cats.json](./288727-100-istanbul-cats.json) |
 | 100 Italy Cats | 315290 | [315290-100-italy-cats.json](./315290-100-italy-cats.json) |
 | 100 Keys to Your Heart | 231615 | [231615-100-keys-to-your-heart.json](./231615-100-keys-to-your-heart.json) |
 | 100 Logic Games: Time Killers | 232531 | [232531-100-logic-games-time-killers.json](./232531-100-logic-games-time-killers.json) |
