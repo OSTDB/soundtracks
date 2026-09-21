@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnQuollified | 404959 | [404959-unquollified.json](./404959-unquollified.json) |
 | Unravel Cyndy | 114949 | [114949-unravel-cyndy.json](./114949-unravel-cyndy.json) |
 | Unravel Lines Puzzle | 234049 | [234049-unravel-lines-puzzle.json](./234049-unravel-lines-puzzle.json) |
+| Unravel Two | 19241 | [19241-unravel-two.json](./19241-unravel-two.json) |
 | Unravel: Yarny Bundle | 115025 | [115025-unravel-yarny-bundle.json](./115025-unravel-yarny-bundle.json) |
 | Unread Messages | 262935 | [262935-unread-messages.json](./262935-unread-messages.json) |
 | Unreal | 12806 | [12806-unreal.json](./12806-unreal.json) |
@@ -921,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal II: The Awakening - Special Edition | 46625 | [46625-unreal-ii-the-awakening-special-edition.json](./46625-unreal-ii-the-awakening-special-edition.json) |
 | Unreal Land | 62220 | [62220-unreal-land.json](./62220-unreal-land.json) |
 | Unreal Maze Survival | 116107 | [116107-unreal-maze-survival.json](./116107-unreal-maze-survival.json) |
+| Unreal Tournament 2004 | 927 | [927-unreal-tournament-2004.json](./927-unreal-tournament-2004.json) |
 | Unreal Tournament 2004: Editor's Choice Edition | 27811 | [27811-unreal-tournament-2004-editors-choice-edition.json](./27811-unreal-tournament-2004-editors-choice-edition.json) |
 | Unreal Vendetta | 213414 | [213414-unreal-vendetta.json](./213414-unreal-vendetta.json) |
 | Unreal World | 250449 | [250449-unreal-world.json](./250449-unreal-world.json) |
