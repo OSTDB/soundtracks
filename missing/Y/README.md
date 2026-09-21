@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your wife | 166731 | [166731-your-wife.json](./166731-your-wife.json) |
 | Yours Truly | 199134 | [199134-yours-truly.json](./199134-yours-truly.json) |
 | YourToy and Dying: Reborn Horror Game Bundle | 247581 | [247581-yourtoy-and-dying-reborn-horror-game-bundle.json](./247581-yourtoy-and-dying-reborn-horror-game-bundle.json) |
+| Yousei | 62968 | [62968-yousei.json](./62968-yousei.json) |
 | Yousei Rasutaru-chan to no hibi | 223009 | [223009-yousei-rasutaru-chan-to-no-hibi.json](./223009-yousei-rasutaru-chan-to-no-hibi.json) |
 | Youso Warriors | 166208 | [166208-youso-warriors.json](./166208-youso-warriors.json) |
 | Youth Feather | 121705 | [121705-youth-feather.json](./121705-youth-feather.json) |
