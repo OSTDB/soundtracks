@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Bridge | 233767 | [233767-cargo-bridge.json](./233767-cargo-bridge.json) |
 | Cargo Bridge 2 | 197233 | [197233-cargo-bridge-2.json](./197233-cargo-bridge-2.json) |
 | Cargo Company | 148504 | [148504-cargo-company.json](./148504-cargo-company.json) |
+| Cargo Cult: Shoot'n'Loot VR | 30258 | [30258-cargo-cult-shootnloot-vr.json](./30258-cargo-cult-shootnloot-vr.json) |
 | Cargo King | 344440 | [344440-cargo-king.json](./344440-cargo-king.json) |
 | Cargo Transportation: Low Poly | 144914 | [144914-cargo-transportation-low-poly.json](./144914-cargo-transportation-low-poly.json) |
 | Cargo Truck Parking | 220191 | [220191-cargo-truck-parking.json](./220191-cargo-truck-parking.json) |
@@ -2242,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CHiLD | 70908 | [70908-child.json](./70908-child.json) |
 | Child Arms | 157053 | [157053-child-arms.json](./157053-child-arms.json) |
 | Child of Abyss | 167293 | [167293-child-of-abyss.json](./167293-child-of-abyss.json) |
+| Child of Ault | 30196 | [30196-child-of-ault.json](./30196-child-of-ault.json) |
 | Child of Hope | 190228 | [190228-child-of-hope.json](./190228-child-of-hope.json) |
 | Child of Light: Limited Edition | 166238 | [166238-child-of-light-limited-edition.json](./166238-child-of-light-limited-edition.json) |
 | Child of Light: The Golem's Plight Pack | 170390 | [170390-child-of-light-the-golems-plight-pack.json](./170390-child-of-light-the-golems-plight-pack.json) |
@@ -2294,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeras: Mortal Medicine | 417570 | [417570-chimeras-mortal-medicine.json](./417570-chimeras-mortal-medicine.json) |
 | Chimeras: The Lost Film | 416624 | [416624-chimeras-the-lost-film.json](./416624-chimeras-the-lost-film.json) |
 | Chimeras: Tune of Revenge | 63816 | [63816-chimeras-tune-of-revenge.json](./63816-chimeras-tune-of-revenge.json) |
+| Chimeras: Tune of Revenge - Collector's Edition | 30263 | [30263-chimeras-tune-of-revenge-collectors-edition.json](./30263-chimeras-tune-of-revenge-collectors-edition.json) |
 | Chimes: A Kinetic Novel | 184102 | [184102-chimes-a-kinetic-novel.json](./184102-chimes-a-kinetic-novel.json) |
 | Chimp Memory | 319391 | [319391-chimp-memory.json](./319391-chimp-memory.json) |
 | Chimpact | 63851 | [63851-chimpact.json](./63851-chimpact.json) |
@@ -2523,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Crisis | 45937 | [45937-christmas-crisis.json](./45937-christmas-crisis.json) |
 | Christmas Defence | 112774 | [112774-christmas-defence.json](./112774-christmas-defence.json) |
 | Christmas Escape | 314046 | [314046-christmas-escape.json](./314046-christmas-escape.json) |
+| Christmas Eve: Midnight's Call - Collector's Edition | 30201 | [30201-christmas-eve-midnights-call-collectors-edition.json](./30201-christmas-eve-midnights-call-collectors-edition.json) |
 | Christmas Fables: Holiday Guardians | 417586 | [417586-christmas-fables-holiday-guardians.json](./417586-christmas-fables-holiday-guardians.json) |
 | Christmas Fables: Holiday Guardians - Collector's Edition | 234738 | [234738-christmas-fables-holiday-guardians-collectors-edition.json](./234738-christmas-fables-holiday-guardians-collectors-edition.json) |
 | Christmas Fables: Nutcracker's Tale - Collector's Edition | 382194 | [382194-christmas-fables-nutcrackers-tale-collectors-edition.json](./382194-christmas-fables-nutcrackers-tale-collectors-edition.json) |
@@ -3792,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorFold | 108273 | [108273-colorfold.json](./108273-colorfold.json) |
 | Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
 | Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
+| Colorful Life | 30178 | [30178-colorful-life.json](./30178-colorful-life.json) |
 | Colorful Life Simulator | 316646 | [316646-colorful-life-simulator.json](./316646-colorful-life-simulator.json) |
 | Colorful Logic | 221273 | [221273-colorful-logic.json](./221273-colorful-logic.json) |
 | Colorful Logic 2 | 221274 | [221274-colorful-logic-2.json](./221274-colorful-logic-2.json) |
@@ -5481,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Theory | 339290 | [339290-crimson-theory.json](./339290-crimson-theory.json) |
 | Crimson Thread of Fate | 318769 | [318769-crimson-thread-of-fate.json](./318769-crimson-thread-of-fate.json) |
 | Crimson Tower | 365176 | [365176-crimson-tower.json](./365176-crimson-tower.json) |
+| Crimson Trigger | 30174 | [30174-crimson-trigger.json](./30174-crimson-trigger.json) |
 | Crimsonland | 253323 | [253323-crimsonland.json](./253323-crimsonland.json) |
 | Crimzon Clover | 137065 | [137065-crimzon-clover.json](./137065-crimzon-clover.json) |
 | Crimzon Clover: World EXplosion | 140395 | [140395-crimzon-clover-world-explosion.json](./140395-crimzon-clover-world-explosion.json) |
