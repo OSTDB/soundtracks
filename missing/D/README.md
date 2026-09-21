@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Jump: Endless Ascent | 339365 | [339365-dark-jump-endless-ascent.json](./339365-dark-jump-endless-ascent.json) |
 | Dark Laws | 279134 | [279134-dark-laws.json](./279134-dark-laws.json) |
 | Dark Legacy | 314034 | [314034-dark-legacy.json](./314034-dark-legacy.json) |
+| Dark Legend | 45525 | [45525-dark-legend.json](./45525-dark-legend.json) |
 | Dark Lessons | 285002 | [285002-dark-lessons.json](./285002-dark-lessons.json) |
 | Dark Lord | 227272 | [227272-dark-lord.json](./227272-dark-lord.json) |
 | Dark Lord | 85882 | [85882-dark-lord.json](./85882-dark-lord.json) |
@@ -2512,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devilish Charms | 227946 | [227946-devilish-charms.json](./227946-devilish-charms.json) |
 | Devilish Girl | 261885 | [261885-devilish-girl.json](./261885-devilish-girl.json) |
 | Devilish League | 285017 | [285017-devilish-league.json](./285017-devilish-league.json) |
+| Devilish Mahjong Tower | 45537 | [45537-devilish-mahjong-tower.json](./45537-devilish-mahjong-tower.json) |
 | Devilish: The Next Possession | 46222 | [46222-devilish-the-next-possession.json](./46222-devilish-the-next-possession.json) |
 | Devilition | 318597 | [318597-devilition.json](./318597-devilition.json) |
 | Devilman | 43896 | [43896-devilman.json](./43896-devilman.json) |
@@ -4781,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
 | Dragon's Dogma Quest | 63310 | [63310-dragons-dogma-quest.json](./63310-dragons-dogma-quest.json) |
 | Dragon's Dogma: Dark Arisen | 16300 | [16300-dragons-dogma-dark-arisen.json](./16300-dragons-dogma-dark-arisen.json) |
+| Dragon's Fury | 45586 | [45586-dragons-fury.json](./45586-dragons-fury.json) |
 | Dragon's Gold | 13609 | [13609-dragons-gold.json](./13609-dragons-gold.json) |
 | Dragon's Heaven | 264306 | [264306-dragons-heaven.json](./264306-dragons-heaven.json) |
 | Dragon's Hoard | 93621 | [93621-dragons-hoard.json](./93621-dragons-hoard.json) |
