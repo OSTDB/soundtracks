@@ -842,6 +842,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Josephine: Portrait of an Assassin | 73512 | [73512-josephine-portrait-of-an-assassin.json](./73512-josephine-portrait-of-an-assassin.json) |
 | JoshGeoff Weiner Simulator | 327837 | [327837-joshgeoff-weiner-simulator.json](./327837-joshgeoff-weiner-simulator.json) |
 | Joshi Daisei Private | 112341 | [112341-joshi-daisei-private.json](./112341-joshi-daisei-private.json) |
+| Josou Gal Bitch Gakuen | 59047 | [59047-josou-gal-bitch-gakuen.json](./59047-josou-gal-bitch-gakuen.json) |
+| Josou Gal Bitch Gakuen: Half Musume Judy no Yuuwaku | 59049 | [59049-josou-gal-bitch-gakuen-half-musume-judy-no-yuuwaku.json](./59049-josou-gal-bitch-gakuen-half-musume-judy-no-yuuwaku.json) |
 | Jotun: Valhalla Edition | 14147 | [14147-jotun-valhalla-edition.json](./14147-jotun-valhalla-edition.json) |
 | Jötunnslayer: Hordes of Hel - Conan Edition | 403600 | [403600-jotunnslayer-hordes-of-hel-conan-edition.json](./403600-jotunnslayer-hordes-of-hel-conan-edition.json) |
 | Jötunnslayer: Hordes of Hel - Founders Edition | 403588 | [403588-jotunnslayer-hordes-of-hel-founders-edition.json](./403588-jotunnslayer-hordes-of-hel-founders-edition.json) |
