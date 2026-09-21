@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision Anthology | 301430 | [301430-activision-anthology.json](./301430-activision-anthology.json) |
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
 | Actor Tycoon 2 | 142235 | [142235-actor-tycoon-2.json](./142235-actor-tycoon-2.json) |
+| ActRaiser | 6468 | [6468-actraiser.json](./6468-actraiser.json) |
 | ActRaiser 2 | 7704 | [7704-actraiser-2.json](./7704-actraiser-2.json) |
 | Actua Golf 3 | 34501 | [34501-actua-golf-3.json](./34501-actua-golf-3.json) |
 | Actua Ice Hockey | 68964 | [68964-actua-ice-hockey.json](./68964-actua-ice-hockey.json) |
@@ -1483,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Hill: Whispers at White Oak Inn | 288752 | [288752-alex-hill-whispers-at-white-oak-inn.json](./288752-alex-hill-whispers-at-white-oak-inn.json) |
 | Alex Hunter: Lord of the Mind HD | 105936 | [105936-alex-hunter-lord-of-the-mind-hd.json](./105936-alex-hunter-lord-of-the-mind-hd.json) |
 | Alex Kidd and the Miracle Gems | 376442 | [376442-alex-kidd-and-the-miracle-gems.json](./376442-alex-kidd-and-the-miracle-gems.json) |
+| Alex Kidd in Miracle World | 26778 | [26778-alex-kidd-in-miracle-world.json](./26778-alex-kidd-in-miracle-world.json) |
 | Alex Kidd in Pico World | 279605 | [279605-alex-kidd-in-pico-world.json](./279605-alex-kidd-in-pico-world.json) |
 | Alex Kidd: BMX Trial | 37174 | [37174-alex-kidd-bmx-trial.json](./37174-alex-kidd-bmx-trial.json) |
 | Alex Kidd: High-Tech World | 46112 | [46112-alex-kidd-high-tech-world.json](./46112-alex-kidd-high-tech-world.json) |
@@ -1662,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Spidy: Between a Rock and a Hard Place | 9966 | [9966-alien-spidy-between-a-rock-and-a-hard-place.json](./9966-alien-spidy-between-a-rock-and-a-hard-place.json) |
 | Alien Spidy: Easy Breezy | 9967 | [9967-alien-spidy-easy-breezy.json](./9967-alien-spidy-easy-breezy.json) |
 | Alien Strike | 76228 | [76228-alien-strike.json](./76228-alien-strike.json) |
+| Alien Swarm | 7598 | [7598-alien-swarm.json](./7598-alien-swarm.json) |
 | Alien Swarm: Reactive Drop | 27523 | [27523-alien-swarm-reactive-drop.json](./27523-alien-swarm-reactive-drop.json) |
 | Alien Swirl | 15594 | [15594-alien-swirl.json](./15594-alien-swirl.json) |
 | Alien Tequila | 73263 | [73263-alien-tequila.json](./73263-alien-tequila.json) |
@@ -1692,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Invaded Our Planet | 103642 | [103642-aliens-invaded-our-planet.json](./103642-aliens-invaded-our-planet.json) |
 | Aliens Like Milk | 200186 | [200186-aliens-like-milk.json](./200186-aliens-like-milk.json) |
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
+| Aliens versus Predator | 9979 | [9979-aliens-versus-predator.json](./9979-aliens-versus-predator.json) |
 | Aliens Versus Predator 2: Gold Edition | 256362 | [256362-aliens-versus-predator-2-gold-edition.json](./256362-aliens-versus-predator-2-gold-edition.json) |
 | Aliens Versus Predator: Extinction | 5720 | [5720-aliens-versus-predator-extinction.json](./5720-aliens-versus-predator-extinction.json) |
 | Aliens vs. Predator | 560 | [560-aliens-vs-predator.json](./560-aliens-vs-predator.json) |
