@@ -2727,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Gears Racing | 262467 | [262467-rival-gears-racing.json](./262467-rival-gears-racing.json) |
 | Rival Goals | 272944 | [272944-rival-goals.json](./272944-rival-goals.json) |
 | Rival Kingdoms | 126044 | [126044-rival-kingdoms.json](./126044-rival-kingdoms.json) |
+| Rival Kingdoms: Age of Ruin | 39235 | [39235-rival-kingdoms-age-of-ruin.json](./39235-rival-kingdoms-age-of-ruin.json) |
 | Rival Knights | 22393 | [22393-rival-knights.json](./22393-rival-knights.json) |
 | Rival Nation Wars | 115039 | [115039-rival-nation-wars.json](./115039-rival-nation-wars.json) |
 | Rival Party | 258478 | [258478-rival-party.json](./258478-rival-party.json) |
@@ -3066,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocka Feller | 100122 | [100122-rocka-feller.json](./100122-rocka-feller.json) |
 | Rockabilly Kid | 171549 | [171549-rockabilly-kid.json](./171549-rockabilly-kid.json) |
 | Rockaroids | 63808 | [63808-rockaroids.json](./63808-rockaroids.json) |
+| Rockbot | 39199 | [39199-rockbot.json](./39199-rockbot.json) |
 | Rocket Adventure | 111448 | [111448-rocket-adventure.json](./111448-rocket-adventure.json) |
 | Rocket Angels Inc | 239770 | [239770-rocket-angels-inc.json](./239770-rocket-angels-inc.json) |
 | Rocket Arena: Mythic Edition | 136456 | [136456-rocket-arena-mythic-edition.json](./136456-rocket-arena-mythic-edition.json) |
