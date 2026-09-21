@@ -959,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Party | 20238 | [20238-kinect-party.json](./20238-kinect-party.json) |
 | Kinect PlayFit | 64925 | [64925-kinect-playfit.json](./64925-kinect-playfit.json) |
 | Kinect Sesame Street TV | 20235 | [20235-kinect-sesame-street-tv.json](./20235-kinect-sesame-street-tv.json) |
+| Kinect Star Wars | 8560 | [8560-kinect-star-wars.json](./8560-kinect-star-wars.json) |
 | Kinectimals | 2755 | [2755-kinectimals.json](./2755-kinectimals.json) |
 | Kinesis | 141783 | [141783-kinesis.json](./141783-kinesis.json) |
 | Kinesis | 276713 | [276713-kinesis.json](./276713-kinesis.json) |
@@ -1435,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike Solitaire 2018 | 89235 | [89235-klondike-solitaire-2018.json](./89235-klondike-solitaire-2018.json) |
 | Klondike Solitaire Gold | 146914 | [146914-klondike-solitaire-gold.json](./146914-klondike-solitaire-gold.json) |
 | Klonoa 2: Lunatea's Veil | 272023 | [272023-klonoa-2-lunateas-veil.json](./272023-klonoa-2-lunateas-veil.json) |
+| Klonoa 2: Lunatea's Veil | 9709 | [9709-klonoa-2-lunateas-veil.json](./9709-klonoa-2-lunateas-veil.json) |
 | Klonoa FanRPG | 331717 | [331717-klonoa-fanrpg.json](./331717-klonoa-fanrpg.json) |
 | Klonoa Phantasy Reverie Series | 191405 | [191405-klonoa-phantasy-reverie-series.json](./191405-klonoa-phantasy-reverie-series.json) |
 | Klorbiest Catch | 410324 | [410324-klorbiest-catch.json](./410324-klorbiest-catch.json) |
