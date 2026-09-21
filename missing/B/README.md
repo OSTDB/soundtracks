@@ -3146,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Warrior | 14313 | [14313-blade-warrior.json](./14313-blade-warrior.json) |
 | Blade: Trinity | 322358 | [322358-blade-trinity.json](./322358-blade-trinity.json) |
 | Blade's Legacy | 88081 | [88081-blades-legacy.json](./88081-blades-legacy.json) |
+| Bladed Fury | 108787 | [108787-bladed-fury.json](./108787-bladed-fury.json) |
 | Bladelords: The fighting game | 39220 | [39220-bladelords-the-fighting-game.json](./39220-bladelords-the-fighting-game.json) |
 | Blademaker: Arms Shop | 108825 | [108825-blademaker-arms-shop.json](./108825-blademaker-arms-shop.json) |
 | Bladenet | 68166 | [68166-bladenet.json](./68166-bladenet.json) |
@@ -4151,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberland | 179150 | [179150-bomberland.json](./179150-bomberland.json) |
 | Bomberman | 162426 | [162426-bomberman.json](./162426-bomberman.json) |
 | Bomberman | 287647 | [287647-bomberman.json](./287647-bomberman.json) |
+| Bomberman '93 | 42097 | [42097-bomberman-93.json](./42097-bomberman-93.json) |
 | Bomberman '93 Special | 42056 | [42056-bomberman-93-special.json](./42056-bomberman-93-special.json) |
 | Bomberman 64: The Second Attack! | 3452 | [3452-bomberman-64-the-second-attack.json](./3452-bomberman-64-the-second-attack.json) |
 | Bomberman B-Daman | 42545 | [42545-bomberman-b-daman.json](./42545-bomberman-b-daman.json) |
@@ -4517,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Mania | 146849 | [146849-bounce-mania.json](./146849-bounce-mania.json) |
 | Bounce Original | 344928 | [344928-bounce-original.json](./344928-bounce-original.json) |
 | Bounce Shot | 262460 | [262460-bounce-shot.json](./262460-bounce-shot.json) |
+| Bounce Tales | 133867 | [133867-bounce-tales.json](./133867-bounce-tales.json) |
 | Bounce Tales 64 | 135264 | [135264-bounce-tales-64.json](./135264-bounce-tales-64.json) |
 | Bounce Time! | 233240 | [233240-bounce-time.json](./233240-bounce-time.json) |
 | Bounce Zone | 84241 | [84241-bounce-zone.json](./84241-bounce-zone.json) |
@@ -4874,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravoman: Binja Bash! | 63290 | [63290-bravoman-binja-bash.json](./63290-bravoman-binja-bash.json) |
 | Brawl Arena Shooter | 414385 | [414385-brawl-arena-shooter.json](./414385-brawl-arena-shooter.json) |
 | Brawl Boys | 234354 | [234354-brawl-boys.json](./234354-brawl-boys.json) |
+| Brawl Brothers | 42639 | [42639-brawl-brothers.json](./42639-brawl-brothers.json) |
 | Brawl Busters | 20714 | [20714-brawl-busters.json](./20714-brawl-busters.json) |
 | Brawl Chess | 140374 | [140374-brawl-chess.json](./140374-brawl-chess.json) |
 | Brawl Chess: Fantasy Edition | 274483 | [274483-brawl-chess-fantasy-edition.json](./274483-brawl-chess-fantasy-edition.json) |
@@ -5210,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Spell | 122422 | [122422-broken-spell.json](./122422-broken-spell.json) |
 | Broken Spell 2 | 129009 | [129009-broken-spell-2.json](./129009-broken-spell-2.json) |
 | Broken Spirit | 371256 | [371256-broken-spirit.json](./371256-broken-spirit.json) |
+| Broken Sword 2.5: The Return of the Templars | 125018 | [125018-broken-sword-2-5-the-return-of-the-templars.json](./125018-broken-sword-2-5-the-return-of-the-templars.json) |
 | Broken Sword 5: The Serpent's Curse | 2924 | [2924-broken-sword-5-the-serpents-curse.json](./2924-broken-sword-5-the-serpents-curse.json) |
 | Broken Sword: Parzival’s Stone | 262650 | [262650-broken-sword-parzival-s-stone.json](./262650-broken-sword-parzival-s-stone.json) |
 | Broken Sword: Shadow of the Templars Reforged | 262651 | [262651-broken-sword-shadow-of-the-templars-reforged.json](./262651-broken-sword-shadow-of-the-templars-reforged.json) |
@@ -5805,6 +5810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Dead | 226777 | [226777-burning-dead.json](./226777-burning-dead.json) |
 | Burning Dragon | 61555 | [61555-burning-dragon.json](./61555-burning-dragon.json) |
 | Burning Empires | 356165 | [356165-burning-empires.json](./356165-burning-empires.json) |
+| Burning Fight | 39557 | [39557-burning-fight.json](./39557-burning-fight.json) |
 | Burning Knight | 117702 | [117702-burning-knight.json](./117702-burning-knight.json) |
 | Burning Love | 287082 | [287082-burning-love.json](./287082-burning-love.json) |
 | Burning Monkey Casino | 352743 | [352743-burning-monkey-casino.json](./352743-burning-monkey-casino.json) |
