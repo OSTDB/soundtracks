@@ -1981,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Normandie: Bulletproof Edition | 53190 | [53190-heroes-of-normandie-bulletproof-edition.json](./53190-heroes-of-normandie-bulletproof-edition.json) |
 | Heroes of Normandie: US Rangers | 172010 | [172010-heroes-of-normandie-us-rangers.json](./172010-heroes-of-normandie-us-rangers.json) |
 | Heroes of Order & Chaos | 39181 | [39181-heroes-of-order-and-chaos.json](./39181-heroes-of-order-and-chaos.json) |
+| Heroes of Paragon | 37394 | [37394-heroes-of-paragon.json](./37394-heroes-of-paragon.json) |
 | Heroes of Rome: Dangerous Roads | 195722 | [195722-heroes-of-rome-dangerous-roads.json](./195722-heroes-of-rome-dangerous-roads.json) |
 | Heroes of Scene | 35623 | [35623-heroes-of-scene.json](./35623-heroes-of-scene.json) |
 | Heroes of Science and Fiction | 219606 | [219606-heroes-of-science-and-fiction.json](./219606-heroes-of-science-and-fiction.json) |
@@ -3068,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey | 196245 | [196245-honey.json](./196245-honey.json) |
 | Honey Bee | 47211 | [47211-honey-bee.json](./47211-honey-bee.json) |
 | Honey Bunny | 265699 | [265699-honey-bunny.json](./265699-honey-bunny.json) |
+| Honey Dolls | 37338 | [37338-honey-dolls.json](./37338-honey-dolls.json) |
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
 | Honey Magician | 277969 | [277969-honey-magician.json](./277969-honey-magician.json) |
 | Honey Peach | 48307 | [48307-honey-peach.json](./48307-honey-peach.json) |
@@ -4086,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Olympic '84 Vol. 2 | 98246 | [98246-hyper-olympic-84-vol-2.json](./98246-hyper-olympic-84-vol-2.json) |
 | Hyper Olympic: Challenge 5 | 385738 | [385738-hyper-olympic-challenge-5.json](./385738-hyper-olympic-challenge-5.json) |
 | Hyper Olympic: Jumping Type | 385734 | [385734-hyper-olympic-jumping-type.json](./385734-hyper-olympic-jumping-type.json) |
+| Hyper Pacman | 37337 | [37337-hyper-pacman.json](./37337-hyper-pacman.json) |
 | Hyper Paddle Block Rusher | 222323 | [222323-hyper-paddle-block-rusher.json](./222323-hyper-paddle-block-rusher.json) |
 | Hyper Panda | 332832 | [332832-hyper-panda.json](./332832-hyper-panda.json) |
 | Hyper Pixel Man | 413684 | [413684-hyper-pixel-man.json](./413684-hyper-pixel-man.json) |
