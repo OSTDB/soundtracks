@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gex 3: Deep Pocket Gecko | 49929 | [49929-gex-3-deep-pocket-gecko.json](./49929-gex-3-deep-pocket-gecko.json) |
 | Gex Jr. | 195089 | [195089-gex-jr.json](./195089-gex-jr.json) |
 | Gex: Enter the Gecko | 248746 | [248746-gex-enter-the-gecko.json](./248746-gex-enter-the-gecko.json) |
+| Gex: Enter the Gecko | 3506 | [3506-gex-enter-the-gecko.json](./3506-gex-enter-the-gecko.json) |
 | GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex | 98451 | [98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json](./98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json) |
 | GG Bundle 2015 | 25986 | [25986-gg-bundle-2015.json](./25986-gg-bundle-2015.json) |
 | GG Date Me | 178567 | [178567-gg-date-me.json](./178567-gg-date-me.json) |
@@ -3374,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero III Mobile | 85864 | [85864-guitar-hero-iii-mobile.json](./85864-guitar-hero-iii-mobile.json) |
 | Guitar Hero III: Game Hits | 360102 | [360102-guitar-hero-iii-game-hits.json](./360102-guitar-hero-iii-game-hits.json) |
 | Guitar Hero III: ZV K-ON! 10th Anniversary - 2nd Version | 343370 | [343370-guitar-hero-iii-zv-k-on-10th-anniversary-2nd-version.json](./343370-guitar-hero-iii-zv-k-on-10th-anniversary-2nd-version.json) |
+| Guitar Hero Live | 9741 | [9741-guitar-hero-live.json](./9741-guitar-hero-live.json) |
 | Guitar Hero World Tour: Definitive Edition | 187448 | [187448-guitar-hero-world-tour-definitive-edition.json](./187448-guitar-hero-world-tour-definitive-edition.json) |
 | Guitar Hero: On Tour - Decades | 7089 | [7089-guitar-hero-on-tour-decades.json](./7089-guitar-hero-on-tour-decades.json) |
 | Guitar Hero: Van Halen | 2675 | [2675-guitar-hero-van-halen.json](./2675-guitar-hero-van-halen.json) |
