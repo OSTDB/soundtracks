@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umichan Sorani | 201147 | [201147-umichan-sorani.json](./201147-umichan-sorani.json) |
 | Umihara Kawase BaZooKa! | 122352 | [122352-umihara-kawase-bazooka.json](./122352-umihara-kawase-bazooka.json) |
 | Umihara Kawase Fresh! | 108155 | [108155-umihara-kawase-fresh.json](./108155-umihara-kawase-fresh.json) |
+| Umihara Kawase Portable | 42847 | [42847-umihara-kawase-portable.json](./42847-umihara-kawase-portable.json) |
 | Umihara Kawase Uku | 276489 | [276489-umihara-kawase-uku.json](./276489-umihara-kawase-uku.json) |
 | Umihara Kawase: Christmas Community Challenge | 215201 | [215201-umihara-kawase-christmas-community-challenge.json](./215201-umihara-kawase-christmas-community-challenge.json) |
 | Umihara Kawase: Shun - Second Edition | 78719 | [78719-umihara-kawase-shun-second-edition.json](./78719-umihara-kawase-shun-second-edition.json) |
