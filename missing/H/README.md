@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
 | Hacha Mecha Fighter | 40182 | [40182-hacha-mecha-fighter.json](./40182-hacha-mecha-fighter.json) |
+| Hachiemon | 49595 | [49595-hachiemon.json](./49595-hachiemon.json) |
 | Hack | 2875 | [2875-hack.json](./2875-hack.json) |
 | Hack & Turn | 180114 | [180114-hack-and-turn.json](./180114-hack-and-turn.json) |
 | Hack 0 | 272813 | [272813-hack-0.json](./272813-hack-0.json) |
@@ -312,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamekomi Lucky Puzzle Wii Returns | 344484 | [344484-hamekomi-lucky-puzzle-wii-returns.json](./344484-hamekomi-lucky-puzzle-wii-returns.json) |
 | Hamelin | 229364 | [229364-hamelin.json](./229364-hamelin.json) |
 | Hameln no Violin Hiki | 38365 | [38365-hameln-no-violin-hiki.json](./38365-hameln-no-violin-hiki.json) |
+| Hamepane Tokyo Mew Mew | 49593 | [49593-hamepane-tokyo-mew-mew.json](./49593-hamepane-tokyo-mew-mew.json) |
 | Hametsu no Mars | 70124 | [70124-hametsu-no-mars.json](./70124-hametsu-no-mars.json) |
 | HamJam!! | 108972 | [108972-hamjam.json](./108972-hamjam.json) |
 | Hamlet in a Pond | 306081 | [306081-hamlet-in-a-pond.json](./306081-hamlet-in-a-pond.json) |
@@ -344,19 +346,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Bomba | 312028 | [312028-hamster-bomba.json](./312028-hamster-bomba.json) |
 | Hamster Clicker! | 340410 | [340410-hamster-clicker.json](./340410-hamster-clicker.json) |
 | Hamster Club 2 | 281543 | [281543-hamster-club-2.json](./281543-hamster-club-2.json) |
+| Hamster Club 4: Shigessa Daidassou | 49592 | [49592-hamster-club-4-shigessa-daidassou.json](./49592-hamster-club-4-shigessa-daidassou.json) |
 | Hamster Club-i | 143657 | [143657-hamster-club-i.json](./143657-hamster-club-i.json) |
 | Hamster Club: Awasete Chu | 281541 | [281541-hamster-club-awasete-chu.json](./281541-hamster-club-awasete-chu.json) |
 | Hamster Club: Oshiema Chu | 281542 | [281542-hamster-club-oshiema-chu.json](./281542-hamster-club-oshiema-chu.json) |
 | Hamster Drop | 63545 | [63545-hamster-drop.json](./63545-hamster-drop.json) |
 | Hamster Fighter | 246459 | [246459-hamster-fighter.json](./246459-hamster-fighter.json) |
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
+| Hamster Monogatari 2 GBA | 49591 | [49591-hamster-monogatari-2-gba.json](./49591-hamster-monogatari-2-gba.json) |
+| Hamster Monogatari 3 GBA | 49590 | [49590-hamster-monogatari-3-gba.json](./49590-hamster-monogatari-3-gba.json) |
 | Hamster Monogatari 3, 4, Special | 97817 | [97817-hamster-monogatari-3-4-special.json](./97817-hamster-monogatari-3-4-special.json) |
 | Hamster Monogatari 64 | 3509 | [3509-hamster-monogatari-64.json](./3509-hamster-monogatari-64.json) |
+| Hamster Monogatari Collection | 49589 | [49589-hamster-monogatari-collection.json](./49589-hamster-monogatari-collection.json) |
 | Hamster Monogatari GB + Magi Ham Mahou no Shoujo | 97853 | [97853-hamster-monogatari-gb-magi-ham-mahou-no-shoujo.json](./97853-hamster-monogatari-gb-magi-ham-mahou-no-shoujo.json) |
 | Hamster Panic | 151743 | [151743-hamster-panic.json](./151743-hamster-panic.json) |
 | Hamster Paradise 2 | 281544 | [281544-hamster-paradise-2.json](./281544-hamster-paradise-2.json) |
 | Hamster Paradise 3 | 281546 | [281546-hamster-paradise-3.json](./281546-hamster-paradise-3.json) |
 | Hamster Paradise 4 | 281547 | [281547-hamster-paradise-4.json](./281547-hamster-paradise-4.json) |
+| Hamster Paradise: Advanchu | 49587 | [49587-hamster-paradise-advanchu.json](./49587-hamster-paradise-advanchu.json) |
+| Hamster Paradise: Pure Heart | 49588 | [49588-hamster-paradise-pure-heart.json](./49588-hamster-paradise-pure-heart.json) |
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
 | Hamsteria! | 390684 | [390684-hamsteria.json](./390684-hamsteria.json) |
