@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaverini Nuuk Adventures | 153378 | [153378-kaverini-nuuk-adventures.json](./153378-kaverini-nuuk-adventures.json) |
 | Kaves of Karkhan | 24845 | [24845-kaves-of-karkhan.json](./24845-kaves-of-karkhan.json) |
 | KaveXplorer | 157179 | [157179-kavexplorer.json](./157179-kavexplorer.json) |
+| Kavinsky | 60770 | [60770-kavinsky.json](./60770-kavinsky.json) |
 | Kawaii Anime: Cute Boys Magic World | 409535 | [409535-kawaii-anime-cute-boys-magic-world.json](./409535-kawaii-anime-cute-boys-magic-world.json) |
 | Kawaii Anime: Cute Girls Magic World | 409685 | [409685-kawaii-anime-cute-girls-magic-world.json](./409685-kawaii-anime-cute-girls-magic-world.json) |
 | Kawaii Deathu Desu | 120089 | [120089-kawaii-deathu-desu.json](./120089-kawaii-deathu-desu.json) |
