@@ -1105,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Aria of Sorrow - Persephone | 268722 | [268722-castlevania-aria-of-sorrow-persephone.json](./268722-castlevania-aria-of-sorrow-persephone.json) |
 | Castlevania: Aria of Sorrow - Reprise | 231091 | [231091-castlevania-aria-of-sorrow-reprise.json](./231091-castlevania-aria-of-sorrow-reprise.json) |
 | Castlevania: Belmont's Curse | 389434 | [389434-castlevania-belmonts-curse.json](./389434-castlevania-belmonts-curse.json) |
+| Castlevania: Chorus of Mysteries | 48299 | [48299-castlevania-chorus-of-mysteries.json](./48299-castlevania-chorus-of-mysteries.json) |
 | Castlevania: Circle of the Moon | 1132 | [1132-castlevania-circle-of-the-moon.json](./1132-castlevania-circle-of-the-moon.json) |
 | Castlevania: Circle of the Moon | 222410 | [222410-castlevania-circle-of-the-moon.json](./222410-castlevania-circle-of-the-moon.json) |
 | Castlevania: Circle of the Moon - Card Mode | 219075 | [219075-castlevania-circle-of-the-moon-card-mode.json](./219075-castlevania-circle-of-the-moon-card-mode.json) |
@@ -1701,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Challange of the Five Realms | 46576 | [46576-challange-of-the-five-realms.json](./46576-challange-of-the-five-realms.json) |
 | Challenge 100 | 359419 | [359419-challenge-100.json](./359419-challenge-100.json) |
+| Challenge of the Dragon | 48294 | [48294-challenge-of-the-dragon.json](./48294-challenge-of-the-dragon.json) |
 | Challenge of the Tentacle | 217872 | [217872-challenge-of-the-tentacle.json](./217872-challenge-of-the-tentacle.json) |
 | Challenge Party | 149518 | [149518-challenge-party.json](./149518-challenge-party.json) |
 | Challenge Shot | 385555 | [385555-challenge-shot.json](./385555-challenge-shot.json) |
@@ -2855,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citrus | 104440 | [104440-citrus.json](./104440-citrus.json) |
 | Citrus Rampage | 189073 | [189073-citrus-rampage.json](./189073-citrus-rampage.json) |
 | City 7: Toronto Conflict | 281410 | [281410-city-7-toronto-conflict.json](./281410-city-7-toronto-conflict.json) |
+| City Adventure Touch: Mystery of Triangle | 48315 | [48315-city-adventure-touch-mystery-of-triangle.json](./48315-city-adventure-touch-mystery-of-triangle.json) |
 | City Ambulance Car Driving | 265731 | [265731-city-ambulance-car-driving.json](./265731-city-ambulance-car-driving.json) |
 | City Ambulance: Rescue Express | 277018 | [277018-city-ambulance-rescue-express.json](./277018-city-ambulance-rescue-express.json) |
 | City Arena: Hero Legends | 275015 | [275015-city-arena-hero-legends.json](./275015-city-arena-hero-legends.json) |
@@ -4614,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CorsixTH | 127904 | [127904-corsixth.json](./127904-corsixth.json) |
 | Corum Online | 124615 | [124615-corum-online.json](./124615-corum-online.json) |
 | Corvax | 398314 | [398314-corvax.json](./398314-corvax.json) |
+| Corvette ZR-1 Challenge | 48293 | [48293-corvette-zr-1-challenge.json](./48293-corvette-zr-1-challenge.json) |
 | Corvian Curse | 269852 | [269852-corvian-curse.json](./269852-corvian-curse.json) |
 | Corvid's Night | 277849 | [277849-corvids-night.json](./277849-corvids-night.json) |
 | Coryoon | 37717 | [37717-coryoon.json](./37717-coryoon.json) |
@@ -4707,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmorbit | 384537 | [384537-cosmorbit.json](./384537-cosmorbit.json) |
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
 | Cosmos Club | 270747 | [270747-cosmos-club.json](./270747-cosmos-club.json) |
+| Cosmos Cop | 48314 | [48314-cosmos-cop.json](./48314-cosmos-cop.json) |
 | Cosmos Crash VR | 31761 | [31761-cosmos-crash-vr.json](./31761-cosmos-crash-vr.json) |
 | Cosmos Iter | 386884 | [386884-cosmos-iter.json](./386884-cosmos-iter.json) |
 | Cosmos Kitten | 332843 | [332843-cosmos-kitten.json](./332843-cosmos-kitten.json) |
@@ -4958,6 +4963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
+| Crackout | 48292 | [48292-crackout.json](./48292-crackout.json) |
 | Crackshot | 183982 | [183982-crackshot.json](./183982-crackshot.json) |
 | Cracksman | 346054 | [346054-cracksman.json](./346054-cracksman.json) |
 | CrackSword | 397823 | [397823-cracksword.json](./397823-cracksword.json) |
@@ -5358,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Boss: Heavy Hitters Pack | 276298 | [276298-crime-boss-heavy-hitters-pack.json](./276298-crime-boss-heavy-hitters-pack.json) |
 | Crime Boss: Rockay City - Cagnali's Order | 315500 | [315500-crime-boss-rockay-city-cagnalis-order.json](./315500-crime-boss-rockay-city-cagnalis-order.json) |
 | Crime Boss: Rockay City - Tactical Weapon Pack | 315501 | [315501-crime-boss-rockay-city-tactical-weapon-pack.json](./315501-crime-boss-rockay-city-tactical-weapon-pack.json) |
+| Crime Busters | 48320 | [48320-crime-busters.json](./48320-crime-busters.json) |
 | Crime Cities | 7872 | [7872-crime-cities.json](./7872-crime-cities.json) |
 | Crime Coast - Mob versus Mafia | 87665 | [87665-crime-coast-mob-versus-mafia.json](./87665-crime-coast-mob-versus-mafia.json) |
 | Crime Code | 96022 | [96022-crime-code.json](./96022-crime-code.json) |
