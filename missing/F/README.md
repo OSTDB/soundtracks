@@ -4562,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Futures - Command Z | 116320 | [116320-future-futures-command-z.json](./116320-future-futures-command-z.json) |
 | Future Ludo | 174370 | [174370-future-ludo.json](./174370-future-ludo.json) |
 | Future Mirror | 217407 | [217407-future-mirror.json](./217407-future-mirror.json) |
+| Future Perfect | 36415 | [36415-future-perfect.json](./36415-future-perfect.json) |
 | Future Pool | 130857 | [130857-future-pool.json](./130857-future-pool.json) |
 | Future Racer 2000 | 248909 | [248909-future-racer-2000.json](./248909-future-racer-2000.json) |
 | Future Reality: Racing League | 217364 | [217364-future-reality-racing-league.json](./217364-future-reality-racing-league.json) |
@@ -4599,6 +4600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuyu no Rondo | 69310 | [69310-fuyu-no-rondo.json](./69310-fuyu-no-rondo.json) |
 | Fuyu no Sonata DS | 124014 | [124014-fuyu-no-sonata-ds.json](./124014-fuyu-no-sonata-ds.json) |
 | Fuze4 Nintendo Switch | 85161 | [85161-fuze4-nintendo-switch.json](./85161-fuze4-nintendo-switch.json) |
+| Fuzecat | 36525 | [36525-fuzecat.json](./36525-fuzecat.json) |
 | Fuzzball | 69573 | [69573-fuzzball.json](./69573-fuzzball.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
