@@ -1825,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Ride | 60522 | [60522-chaos-ride.json](./60522-chaos-ride.json) |
 | Chaos Rings | 38898 | [38898-chaos-rings.json](./38898-chaos-rings.json) |
 | Chaos Rings II | 38896 | [38896-chaos-rings-ii.json](./38896-chaos-rings-ii.json) |
+| Chaos Rings III | 39228 | [39228-chaos-rings-iii.json](./39228-chaos-rings-iii.json) |
 | Chaos Rings Omega | 38897 | [38897-chaos-rings-omega.json](./38897-chaos-rings-omega.json) |
 | Chaos Road | 158229 | [158229-chaos-road.json](./158229-chaos-road.json) |
 | Chaos Starter | 116876 | [116876-chaos-starter.json](./116876-chaos-starter.json) |
@@ -2789,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle of Football | 137614 | [137614-circle-of-football.json](./137614-circle-of-football.json) |
 | Circle of Orion | 257930 | [257930-circle-of-orion.json](./257930-circle-of-orion.json) |
 | Circle of Sumo: Online Rumble! | 126661 | [126661-circle-of-sumo-online-rumble.json](./126661-circle-of-sumo-online-rumble.json) |
+| Circle the Dot | 39200 | [39200-circle-the-dot.json](./39200-circle-the-dot.json) |
 | Circle the Fish | 214168 | [214168-circle-the-fish.json](./214168-circle-the-fish.json) |
 | Circle the Wagons: Prima Septimana | 274506 | [274506-circle-the-wagons-prima-septimana.json](./274506-circle-the-wagons-prima-septimana.json) |
 | Circle Triangle Square | 257116 | [257116-circle-triangle-square.json](./257116-circle-triangle-square.json) |
@@ -2816,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circular | 169466 | [169466-circular.json](./169466-circular.json) |
 | Circular | 205092 | [205092-circular.json](./205092-circular.json) |
 | Circular Logic Games | 264702 | [264702-circular-logic-games.json](./264702-circular-logic-games.json) |
+| Circulets | 39184 | [39184-circulets.json](./39184-circulets.json) |
 | Circumference Encompass | 306955 | [306955-circumference-encompass.json](./306955-circumference-encompass.json) |
 | Circus | 12944 | [12944-circus.json](./12944-circus.json) |
 | Circus | 206349 | [206349-circus.json](./206349-circus.json) |
@@ -5268,6 +5271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Stunt Driver: Extreme Racing Simulator | 300859 | [300859-crazy-stunt-driver-extreme-racing-simulator.json](./300859-crazy-stunt-driver-extreme-racing-simulator.json) |
 | Crazy Tapper + | 175343 | [175343-crazy-tapper.json](./175343-crazy-tapper.json) |
 | Crazy Taxi | 1805 | [1805-crazy-taxi.json](./1805-crazy-taxi.json) |
+| Crazy Taxi | 39191 | [39191-crazy-taxi.json](./39191-crazy-taxi.json) |
 | Crazy Taxi 2 | 1806 | [1806-crazy-taxi-2.json](./1806-crazy-taxi-2.json) |
 | Crazy Taxi: Fare Wars | 1809 | [1809-crazy-taxi-fare-wars.json](./1809-crazy-taxi-fare-wars.json) |
 | Crazy Taxi: World Tour | 279633 | [279633-crazy-taxi-world-tour.json](./279633-crazy-taxi-world-tour.json) |
