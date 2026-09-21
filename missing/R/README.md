@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ralsei's got a gun! | 175924 | [175924-ralseis-got-a-gun.json](./175924-ralseis-got-a-gun.json) |
 | RAM 1982 | 349953 | [349953-ram-1982.json](./349953-ram-1982.json) |
 | RAM Ghost | 171540 | [171540-ram-ghost.json](./171540-ram-ghost.json) |
+| Ram It | 18581 | [18581-ram-it.json](./18581-ram-it.json) |
 | RAM: Random Access Mayhem | 231491 | [231491-ram-random-access-mayhem.json](./231491-ram-random-access-mayhem.json) |
 | Ram! | 94218 | [94218-ram.json](./94218-ram.json) |
 | Ramble | 102587 | [102587-ramble.json](./102587-ramble.json) |
@@ -924,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaction | 152347 | [152347-reaction.json](./152347-reaction.json) |
 | Reaction Game: Hit the Color! | 56764 | [56764-reaction-game-hit-the-color.json](./56764-reaction-game-hit-the-color.json) |
 | Reaction Quake 3 | 200651 | [200651-reaction-quake-3.json](./200651-reaction-quake-3.json) |
+| Reactor | 18545 | [18545-reactor.json](./18545-reactor.json) |
 | Reactor 09 | 123596 | [123596-reactor-09.json](./123596-reactor-09.json) |
 | Reactor Tech 2 | 163975 | [163975-reactor-tech-2.json](./163975-reactor-tech-2.json) |
 | Read Only Memories: Neurodiver - Collector's Edition | 292138 | [292138-read-only-memories-neurodiver-collectors-edition.json](./292138-read-only-memories-neurodiver-collectors-edition.json) |
@@ -3600,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Football: Wetlands | 339282 | [339282-room-football-wetlands.json](./339282-room-football-wetlands.json) |
 | Room For One! | 367478 | [367478-room-for-one.json](./367478-room-for-one.json) |
 | Room of 1000 Snakes | 62436 | [62436-room-of-1000-snakes.json](./62436-room-of-1000-snakes.json) |
+| Room of Doom | 18533 | [18533-room-of-doom.json](./18533-room-of-doom.json) |
 | Room of Halloween | 229153 | [229153-room-of-halloween.json](./229153-room-of-halloween.json) |
 | Room of Roilands | 177501 | [177501-room-of-roilands.json](./177501-room-of-roilands.json) |
 | Room Ten | 31181 | [31181-room-ten.json](./31181-room-ten.json) |
