@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
 | 4 The Elements | 212898 | [212898-4-the-elements.json](./212898-4-the-elements.json) |
 | 4 Wheel Drive | 245297 | [245297-4-wheel-drive.json](./245297-4-wheel-drive.json) |
+| 4 Wheel Thunder | 3701 | [3701-4-wheel-thunder.json](./3701-4-wheel-thunder.json) |
 | 4 x 4 Dream Racing | 9935 | [9935-4-x-4-dream-racing.json](./9935-4-x-4-dream-racing.json) |
 | 4-4-2 Soccer | 45317 | [45317-4-4-2-soccer.json](./45317-4-4-2-soccer.json) |
 | 4-Block Dungeon | 122347 | [122347-4-block-dungeon.json](./122347-4-block-dungeon.json) |
