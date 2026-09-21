@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Slay-Bells | 279727 | [279727-team-slay-bells.json](./279727-team-slay-bells.json) |
 | Team Sonic Racing | 103018 | [103018-team-sonic-racing.json](./103018-team-sonic-racing.json) |
 | Team Umizoomi | 47958 | [47958-team-umizoomi.json](./47958-team-umizoomi.json) |
+| Team Umizoomi & Dora's Fantastic Flight | 7980 | [7980-team-umizoomi-and-doras-fantastic-flight.json](./7980-team-umizoomi-and-doras-fantastic-flight.json) |
 | Team Umizoomi: Umi City Heroes! | 230405 | [230405-team-umizoomi-umi-city-heroes.json](./230405-team-umizoomi-umi-city-heroes.json) |
 | Team USA Basketball | 46260 | [46260-team-usa-basketball.json](./46260-team-usa-basketball.json) |
 | Team Xtreme: Operation Weather Disaster | 70983 | [70983-team-xtreme-operation-weather-disaster.json](./70983-team-xtreme-operation-weather-disaster.json) |
@@ -4026,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lar | 118380 | [118380-the-lar.json](./118380-the-lar.json) |
 | The Larper | 402988 | [402988-the-larper.json](./402988-the-larper.json) |
 | The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
+| The Last Airbender | 7983 | [7983-the-last-airbender.json](./7983-the-last-airbender.json) |
 | The last Baron's stunt | 89652 | [89652-the-last-barons-stunt.json](./89652-the-last-barons-stunt.json) |
 | The Last Bastion | 188504 | [188504-the-last-bastion.json](./188504-the-last-bastion.json) |
 | The Last Birdling | 44162 | [44162-the-last-birdling.json](./44162-the-last-birdling.json) |
@@ -4231,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Iowa | 269847 | [269847-the-legend-of-iowa.json](./269847-the-legend-of-iowa.json) |
 | The Legend of Karl | 143660 | [143660-the-legend-of-karl.json](./143660-the-legend-of-karl.json) |
 | The Legend of Khiimori | 318175 | [318175-the-legend-of-khiimori.json](./318175-the-legend-of-khiimori.json) |
+| The Legend of Korra: A New Era Begins | 7996 | [7996-the-legend-of-korra-a-new-era-begins.json](./7996-the-legend-of-korra-a-new-era-begins.json) |
 | The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
 | The Legend of Lumina | 302360 | [302360-the-legend-of-lumina.json](./302360-the-legend-of-lumina.json) |
 | The Legend of Maya | 78324 | [78324-the-legend-of-maya.json](./78324-the-legend-of-maya.json) |
@@ -5217,6 +5220,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Remains of El Dorado | 184570 | [184570-the-remains-of-el-dorado.json](./184570-the-remains-of-el-dorado.json) |
 | The Remission of Sins | 149042 | [149042-the-remission-of-sins.json](./149042-the-remission-of-sins.json) |
 | The Remote Outpost | 268726 | [268726-the-remote-outpost.json](./268726-the-remote-outpost.json) |
+| The Ren & Stimpy Show: Buckeroo$! | 7987 | [7987-the-ren-and-stimpy-show-buckeroo.json](./7987-the-ren-and-stimpy-show-buckeroo.json) |
+| The Ren & Stimpy Show: Fire Dogs | 7985 | [7985-the-ren-and-stimpy-show-fire-dogs.json](./7985-the-ren-and-stimpy-show-fire-dogs.json) |
 | The Ren & Stimpy Show: Veediots! | 365695 | [365695-the-ren-and-stimpy-show-veediots.json](./365695-the-ren-and-stimpy-show-veediots.json) |
 | The Renovator: Origins | 193413 | [193413-the-renovator-origins.json](./193413-the-renovator-origins.json) |
 | The Report: The Eastwind Creature | 319767 | [319767-the-report-the-eastwind-creature.json](./319767-the-report-the-eastwind-creature.json) |
@@ -6125,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Training Diary of a Novice Magician Shin | 82810 | [82810-the-training-diary-of-a-novice-magician-shin.json](./82810-the-training-diary-of-a-novice-magician-shin.json) |
 | The Tram | 413738 | [413738-the-tram.json](./413738-the-tram.json) |
 | The tram of wishes | 152836 | [152836-the-tram-of-wishes.json](./152836-the-tram-of-wishes.json) |
+| The Transformers | 8015 | [8015-the-transformers.json](./8015-the-transformers.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
 | The Trap: Remake - Winter | 351098 | [351098-the-trap-remake-winter.json](./351098-the-trap-remake-winter.json) |
 | The Trasamire Campaigns | 213418 | [213418-the-trasamire-campaigns.json](./213418-the-trasamire-campaigns.json) |
@@ -6417,6 +6423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wild Science Arcade | 72038 | [72038-the-wild-science-arcade.json](./72038-the-wild-science-arcade.json) |
 | The Wild Thornberrys Movie | 49372 | [49372-the-wild-thornberrys-movie.json](./49372-the-wild-thornberrys-movie.json) |
 | The Wild Thornberrys: Chimp Chase | 49373 | [49373-the-wild-thornberrys-chimp-chase.json](./49373-the-wild-thornberrys-chimp-chase.json) |
+| The Wild Thornberrys' Animal Adventures | 8014 | [8014-the-wild-thornberrys-animal-adventures.json](./8014-the-wild-thornberrys-animal-adventures.json) |
 | The Will of a Single Tale | 100117 | [100117-the-will-of-a-single-tale.json](./100117-the-will-of-a-single-tale.json) |
 | The Will of Dr. Frankenstein | 66715 | [66715-the-will-of-dr-frankenstein.json](./66715-the-will-of-dr-frankenstein.json) |
 | The Wind and the Wisp | 359994 | [359994-the-wind-and-the-wisp.json](./359994-the-wind-and-the-wisp.json) |
@@ -8332,8 +8339,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tollway Tycoon | 400258 | [400258-tollway-tycoon.json](./400258-tollway-tycoon.json) |
 | Tom & Jerry MMO | 79312 | [79312-tom-and-jerry-mmo.json](./79312-tom-and-jerry-mmo.json) |
 | Tom & Jerry Popper | 47255 | [47255-tom-and-jerry-popper.json](./47255-tom-and-jerry-popper.json) |
+| Tom & Jerry: Hunting High and Low | 8024 | [8024-tom-and-jerry-hunting-high-and-low.json](./8024-tom-and-jerry-hunting-high-and-low.json) |
 | Tom & Jerry: Yankee Doodle’s Cat-astrophe | 57689 | [57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json](./57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json) |
 | Tom and Jerry in War of the Whiskers | 2650 | [2650-tom-and-jerry-in-war-of-the-whiskers.json](./2650-tom-and-jerry-in-war-of-the-whiskers.json) |
+| Tom and Jerry Tales | 8027 | [8027-tom-and-jerry-tales.json](./8027-tom-and-jerry-tales.json) |
 | Tom and Jerry: Refriger-Raiders | 355622 | [355622-tom-and-jerry-refriger-raiders.json](./355622-tom-and-jerry-refriger-raiders.json) |
 | Tom Clancy's Action Pack Limited Edition | 43283 | [43283-tom-clancys-action-pack-limited-edition.json](./43283-tom-clancys-action-pack-limited-edition.json) |
 | Tom Clancy's Ghost Recon 2 | 1298 | [1298-tom-clancys-ghost-recon-2.json](./1298-tom-clancys-ghost-recon-2.json) |
@@ -8518,8 +8527,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonight It Follows | 120201 | [120201-tonight-it-follows.json](./120201-tonight-it-follows.json) |
 | Tonight We Hunt | 183975 | [183975-tonight-we-hunt.json](./183975-tonight-we-hunt.json) |
 | Tonight We Riot | 36352 | [36352-tonight-we-riot.json](./36352-tonight-we-riot.json) |
+| Tonka Construction | 7954 | [7954-tonka-construction.json](./7954-tonka-construction.json) |
+| Tonka Construction 2 | 7958 | [7958-tonka-construction-2.json](./7958-tonka-construction-2.json) |
 | Tonka Firefighter | 206757 | [206757-tonka-firefighter.json](./206757-tonka-firefighter.json) |
+| Tonka Garage | 7956 | [7956-tonka-garage.json](./7956-tonka-garage.json) |
+| Tonka Raceway | 7957 | [7957-tonka-raceway.json](./7957-tonka-raceway.json) |
 | Tonka Search & Rescue 2 | 137029 | [137029-tonka-search-and-rescue-2.json](./137029-tonka-search-and-rescue-2.json) |
+| Tonka Search and Rescue | 7955 | [7955-tonka-search-and-rescue.json](./7955-tonka-search-and-rescue.json) |
 | Tonka Town | 73786 | [73786-tonka-town.json](./73786-tonka-town.json) |
 | Tonka: Dig'n Rigs | 226412 | [226412-tonka-dign-rigs.json](./226412-tonka-dign-rigs.json) |
 | Tonkachi Mario | 200555 | [200555-tonkachi-mario.json](./200555-tonkachi-mario.json) |
@@ -8825,6 +8839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Reliable Delivery Service: Atari Attire | 381600 | [381600-totally-reliable-delivery-service-atari-attire.json](./381600-totally-reliable-delivery-service-atari-attire.json) |
 | Totally Reliable Delivery Service: Deluxe Edition | 192292 | [192292-totally-reliable-delivery-service-deluxe-edition.json](./192292-totally-reliable-delivery-service-deluxe-edition.json) |
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
+| Totally Spies! | 8021 | [8021-totally-spies.json](./8021-totally-spies.json) |
 | Totally Spies! 4: Around the World | 304040 | [304040-totally-spies-4-around-the-world.json](./304040-totally-spies-4-around-the-world.json) |
 | Totally Spies! Cyber Mission | 302511 | [302511-totally-spies-cyber-mission.json](./302511-totally-spies-cyber-mission.json) |
 | Totally Spies! The Mobile Game | 317003 | [317003-totally-spies-the-mobile-game.json](./317003-totally-spies-the-mobile-game.json) |
@@ -9221,6 +9236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowOrbs | 413726 | [413726-toworbs.json](./413726-toworbs.json) |
 | Toxic 2 | 97685 | [97685-toxic-2.json](./97685-toxic-2.json) |
 | Toxic Bubbles | 23730 | [23730-toxic-bubbles.json](./23730-toxic-bubbles.json) |
+| Toxic Crusaders | 8022 | [8022-toxic-crusaders.json](./8022-toxic-crusaders.json) |
 | Toxic Terror: Episode 2 - The Lich's Lair | 170391 | [170391-toxic-terror-episode-2-the-lichs-lair.json](./170391-toxic-terror-episode-2-the-lichs-lair.json) |
 | Toxic Toads | 322973 | [322973-toxic-toads.json](./322973-toxic-toads.json) |
 | Toxicity | 263022 | [263022-toxicity.json](./263022-toxicity.json) |
@@ -9909,6 +9925,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Rise of the Dark Spark | 192904 | [192904-transformers-rise-of-the-dark-spark.json](./192904-transformers-rise-of-the-dark-spark.json) |
 | Transformers: Robots in Disguise | 70990 | [70990-transformers-robots-in-disguise.json](./70990-transformers-robots-in-disguise.json) |
 | Transformers: Shadows Rising | 125822 | [125822-transformers-shadows-rising.json](./125822-transformers-shadows-rising.json) |
+| Transformers: The Battle to Save the Earth | 8016 | [8016-transformers-the-battle-to-save-the-earth.json](./8016-transformers-the-battle-to-save-the-earth.json) |
+| Transformers: The Headmasters | 8017 | [8017-transformers-the-headmasters.json](./8017-transformers-the-headmasters.json) |
 | Transformers: Ultimate Autobots Edition | 61090 | [61090-transformers-ultimate-autobots-edition.json](./61090-transformers-ultimate-autobots-edition.json) |
 | Transformers: War for Cybertron - Autobots | 159310 | [159310-transformers-war-for-cybertron-autobots.json](./159310-transformers-war-for-cybertron-autobots.json) |
 | Transformers: War for Cybertron - Decepticons | 47945 | [47945-transformers-war-for-cybertron-decepticons.json](./47945-transformers-war-for-cybertron-decepticons.json) |
