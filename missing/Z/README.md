@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zentris | 229052 | [229052-zentris.json](./229052-zentris.json) |
 | Zenvader | 358316 | [358316-zenvader.json](./358316-zenvader.json) |
 | Zenzizenzic | 17924 | [17924-zenzizenzic.json](./17924-zenzizenzic.json) |
+| Zeon | 57340 | [57340-zeon.json](./57340-zeon.json) |
 | Zeon 25 | 103459 | [103459-zeon-25.json](./103459-zeon-25.json) |
 | Zep | 377136 | [377136-zep.json](./377136-zep.json) |
 | Zepball Deluxe | 135696 | [135696-zepball-deluxe.json](./135696-zepball-deluxe.json) |
@@ -362,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZJ the Ball: Special | 229078 | [229078-zj-the-ball-special.json](./229078-zj-the-ball-special.json) |
 | Zjawa: Bloodstained Soul | 374587 | [374587-zjawa-bloodstained-soul.json](./374587-zjawa-bloodstained-soul.json) |
 | Zlalox | 302949 | [302949-zlalox.json](./302949-zlalox.json) |
+| Zlap.io | 57339 | [57339-zlap-io.json](./57339-zlap-io.json) |
 | Zlin City: Arch Moderna | 304008 | [304008-zlin-city-arch-moderna.json](./304008-zlin-city-arch-moderna.json) |
 | ZLM Crafter | 124206 | [124206-zlm-crafter.json](./124206-zlm-crafter.json) |
 | Zlorp Adventures | 328999 | [328999-zlorp-adventures.json](./328999-zlorp-adventures.json) |
