@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Genome | 174279 | [174279-galaxy-genome.json](./174279-galaxy-genome.json) |
 | Galaxy Groove | 200047 | [200047-galaxy-groove.json](./200047-galaxy-groove.json) |
 | Galaxy Guardian Royale | 159807 | [159807-galaxy-guardian-royale.json](./159807-galaxy-guardian-royale.json) |
+| Galaxy Gunners | 38570 | [38570-galaxy-gunners.json](./38570-galaxy-gunners.json) |
 | Galaxy Hero H2H | 233207 | [233207-galaxy-hero-h2h.json](./233207-galaxy-hero-h2h.json) |
 | Galaxy Hordes | 258978 | [258978-galaxy-hordes.json](./258978-galaxy-hordes.json) |
 | Galaxy Hunter: Into the Portal | 137639 | [137639-galaxy-hunter-into-the-portal.json](./137639-galaxy-hunter-into-the-portal.json) |
