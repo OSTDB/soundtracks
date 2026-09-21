@@ -4234,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
 | Power Sphere | 53471 | [53471-power-sphere.json](./53471-power-sphere.json) |
 | Power Spike: Pro Beach Volleyball | 44888 | [44888-power-spike-pro-beach-volleyball.json](./44888-power-spike-pro-beach-volleyball.json) |
+| Power Spikes | 38569 | [38569-power-spikes.json](./38569-power-spikes.json) |
 | Power Stakes | 301385 | [301385-power-stakes.json](./301385-power-stakes.json) |
 | Power Stakes 2 | 301386 | [301386-power-stakes-2.json](./301386-power-stakes-2.json) |
 | Power Stakes: Grade 1 | 141165 | [141165-power-stakes-grade-1.json](./141165-power-stakes-grade-1.json) |
