@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare III - Season 4 | 304046 | [304046-call-of-duty-modern-warfare-iii-season-4.json](./304046-call-of-duty-modern-warfare-iii-season-4.json) |
 | Call of Duty: Modern Warfare III - Season 5 | 308961 | [308961-call-of-duty-modern-warfare-iii-season-5.json](./308961-call-of-duty-modern-warfare-iii-season-5.json) |
 | Call of Duty: Modern Warfare III - Tech Luxe Pro Pack | 291077 | [291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json](./291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json) |
+| Call of Duty: Roads to Victory | 3120 | [3120-call-of-duty-roads-to-victory.json](./3120-call-of-duty-roads-to-victory.json) |
 | Call of Duty: The War Collection | 292856 | [292856-call-of-duty-the-war-collection.json](./292856-call-of-duty-the-war-collection.json) |
 | Call of Duty: Vanguard | 165067 | [165067-call-of-duty-vanguard.json](./165067-call-of-duty-vanguard.json) |
 | Call of Duty: Vanguard - Season Four | 205058 | [205058-call-of-duty-vanguard-season-four.json](./205058-call-of-duty-vanguard-season-four.json) |
@@ -1514,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Games | 48100 | [48100-caveman-games.json](./48100-caveman-games.json) |
 | Caveman HD | 102744 | [102744-caveman-hd.json](./102744-caveman-hd.json) |
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
+| Caveman Ninja | 12834 | [12834-caveman-ninja.json](./12834-caveman-ninja.json) |
 | Caveman Ransom | 245952 | [245952-caveman-ransom.json](./245952-caveman-ransom.json) |
 | CaveMan Rock | 43504 | [43504-caveman-rock.json](./43504-caveman-rock.json) |
 | Caveman Stories | 95184 | [95184-caveman-stories.json](./95184-caveman-stories.json) |
@@ -3315,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | clock out. | 310963 | [310963-clock-out.json](./310963-clock-out.json) |
 | Clock Rogue | 295004 | [295004-clock-rogue.json](./295004-clock-rogue.json) |
 | Clock Ticker | 253989 | [253989-clock-ticker.json](./253989-clock-ticker.json) |
+| Clock Tower 3 | 18305 | [18305-clock-tower-3.json](./18305-clock-tower-3.json) |
 | Clock Tower Madness | 386273 | [386273-clock-tower-madness.json](./386273-clock-tower-madness.json) |
 | Clocks | 41369 | [41369-clocks.json](./41369-clocks.json) |
 | Clockwatch | 315694 | [315694-clockwatch.json](./315694-clockwatch.json) |
@@ -3336,6 +3339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone 2048 | 193883 | [193883-clone-2048.json](./193883-clone-2048.json) |
 | Clone Clicker | 278431 | [278431-clone-clicker.json](./278431-clone-clicker.json) |
 | Clone Dots | 265756 | [265756-clone-dots.json](./265756-clone-dots.json) |
+| Clone Hero | 84922 | [84922-clone-hero.json](./84922-clone-hero.json) |
 | Clone Hero: Guitar Hero Tracklist | 294143 | [294143-clone-hero-guitar-hero-tracklist.json](./294143-clone-hero-guitar-hero-tracklist.json) |
 | Clone-A-Doodle-Doo | 357350 | [357350-clone-a-doodle-doo.json](./357350-clone-a-doodle-doo.json) |
 | Clones Run | 322999 | [322999-clones-run.json](./322999-clones-run.json) |
@@ -6111,6 +6115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Escape Collection | 133416 | [133416-cube-escape-collection.json](./133416-cube-escape-collection.json) |
 | Cube Escape: Paradox | 100667 | [100667-cube-escape-paradox.json](./100667-cube-escape-paradox.json) |
 | Cube Escape: Paradox - Chapter 2 | 133968 | [133968-cube-escape-paradox-chapter-2.json](./133968-cube-escape-paradox-chapter-2.json) |
+| Cube Escape: The Mill | 75128 | [75128-cube-escape-the-mill.json](./75128-cube-escape-the-mill.json) |
 | Cube Escape: Theatre | 75130 | [75130-cube-escape-theatre.json](./75130-cube-escape-theatre.json) |
 | Cube Experimental | 248122 | [248122-cube-experimental.json](./248122-cube-experimental.json) |
 | Cube Faces | 236926 | [236926-cube-faces.json](./236926-cube-faces.json) |
