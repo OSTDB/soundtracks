@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon Master | 346110 | [346110-backgammon-master.json](./346110-backgammon-master.json) |
 | Backgammon Online | 104123 | [104123-backgammon-online.json](./104123-backgammon-online.json) |
 | Backgammon Professional | 338799 | [338799-backgammon-professional.json](./338799-backgammon-professional.json) |
+| Backgammon Royale | 12397 | [12397-backgammon-royale.json](./12397-backgammon-royale.json) |
 | Backlash: A Turret Gunner Simulation | 338818 | [338818-backlash-a-turret-gunner-simulation.json](./338818-backlash-a-turret-gunner-simulation.json) |
 | Backlot: Hollywood Studio Tycoon | 416649 | [416649-backlot-hollywood-studio-tycoon.json](./416649-backlot-hollywood-studio-tycoon.json) |
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
@@ -266,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Bots Battle Arena | 166699 | [166699-bad-bots-battle-arena.json](./166699-bad-bots-battle-arena.json) |
 | Bad Bots Rises | 27758 | [27758-bad-bots-rises.json](./27758-bad-bots-rises.json) |
 | Bad Business | 118304 | [118304-bad-business.json](./118304-bad-business.json) |
+| Bad Cat | 12398 | [12398-bad-cat.json](./12398-bad-cat.json) |
 | Bad Cheese | 320146 | [320146-bad-cheese.json](./320146-bad-cheese.json) |
 | Bad Chicken | 212906 | [212906-bad-chicken.json](./212906-bad-chicken.json) |
 | Bad Delivery: Pizza Your Heart | 381617 | [381617-bad-delivery-pizza-your-heart.json](./381617-bad-delivery-pizza-your-heart.json) |
@@ -892,6 +894,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnacle Bill | 91437 | [91437-barnacle-bill.json](./91437-barnacle-bill.json) |
 | Barnanza | 119064 | [119064-barnanza.json](./119064-barnanza.json) |
 | Barney Bear Goes Camping | 14284 | [14284-barney-bear-goes-camping.json](./14284-barney-bear-goes-camping.json) |
+| Barney Bear Goes to School | 12399 | [12399-barney-bear-goes-to-school.json](./12399-barney-bear-goes-to-school.json) |
+| Barney Bear Goes to Space | 12400 | [12400-barney-bear-goes-to-space.json](./12400-barney-bear-goes-to-space.json) |
 | Barney Bear Goes to the Farm | 14285 | [14285-barney-bear-goes-to-the-farm.json](./14285-barney-bear-goes-to-the-farm.json) |
 | Barney Bear Meets Santa Claus | 14286 | [14286-barney-bear-meets-santa-claus.json](./14286-barney-bear-meets-santa-claus.json) |
 | Barney Shoot 'Em Up | 325816 | [325816-barney-shoot-em-up.json](./325816-barney-shoot-em-up.json) |
@@ -1218,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Brigade | 166167 | [166167-battle-brigade.json](./166167-battle-brigade.json) |
 | Battle Brothers | 14394 | [14394-battle-brothers.json](./14394-battle-brothers.json) |
 | Battle Brothers: Blazing Deserts | 155069 | [155069-battle-brothers-blazing-deserts.json](./155069-battle-brothers-blazing-deserts.json) |
+| Battle Bugs | 12402 | [12402-battle-bugs.json](./12402-battle-bugs.json) |
 | Battle Capacity | 332815 | [332815-battle-capacity.json](./332815-battle-capacity.json) |
 | Battle Cars | 224095 | [224095-battle-cars.json](./224095-battle-cars.json) |
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
@@ -2419,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Fat Battle | 244771 | [244771-big-fat-battle.json](./244771-big-fat-battle.json) |
 | Big Fat Neighbor | 83532 | [83532-big-fat-neighbor.json](./83532-big-fat-neighbor.json) |
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
+| Big Game Fishing | 12403 | [12403-big-game-fishing.json](./12403-big-game-fishing.json) |
 | Big Game Trophy Hunter | 94208 | [94208-big-game-trophy-hunter.json](./94208-big-game-trophy-hunter.json) |
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
 | Big Helmet Heroes | 303205 | [303205-big-helmet-heroes.json](./303205-big-helmet-heroes.json) |
@@ -4227,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookworm Adventures Deluxe | 353868 | [353868-bookworm-adventures-deluxe.json](./353868-bookworm-adventures-deluxe.json) |
 | Bookyman | 229061 | [229061-bookyman.json](./229061-bookyman.json) |
 | Boolean | 129217 | [129217-boolean.json](./129217-boolean.json) |
+| Booly | 12406 | [12406-booly.json](./12406-booly.json) |
 | Boom | 172043 | [172043-boom.json](./172043-boom.json) |
 | Boom | 339838 | [339838-boom.json](./339838-boom.json) |
 | Boom 2020 | 226196 | [226196-boom-2020.json](./226196-boom-2020.json) |
@@ -5018,6 +5025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridg | 149438 | [149438-bridg.json](./149438-bridg.json) |
 | Bridge | 55105 | [55105-bridge.json](./55105-bridge.json) |
 | Bridge | 85515 | [85515-bridge.json](./85515-bridge.json) |
+| Bridge 2000 | 12408 | [12408-bridge-2000.json](./12408-bridge-2000.json) |
 | Bridge Builder | 50121 | [50121-bridge-builder.json](./50121-bridge-builder.json) |
 | Bridge Champion with Omar Sharif | 148390 | [148390-bridge-champion-with-omar-sharif.json](./148390-bridge-champion-with-omar-sharif.json) |
 | Bridge Construction Set | 25006 | [25006-bridge-construction-set.json](./25006-bridge-construction-set.json) |
@@ -5808,6 +5816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Management | 400853 | [400853-business-management.json](./400853-business-management.json) |
 | Business Ryoku Kentei DS | 70410 | [70410-business-ryoku-kentei-ds.json](./70410-business-ryoku-kentei-ds.json) |
 | Business Superstar Idle Tycoon | 262346 | [262346-business-superstar-idle-tycoon.json](./262346-business-superstar-idle-tycoon.json) |
+| Business Tycoon | 12409 | [12409-business-tycoon.json](./12409-business-tycoon.json) |
 | Businessman Simulator | 402891 | [402891-businessman-simulator.json](./402891-businessman-simulator.json) |
 | Businessman Simulator 3 | 402973 | [402973-businessman-simulator-3.json](./402973-businessman-simulator-3.json) |
 | Businessmen | 301398 | [301398-businessmen.json](./301398-businessmen.json) |
