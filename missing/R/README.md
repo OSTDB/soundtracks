@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiolight | 170912 | [170912-radiolight.json](./170912-radiolight.json) |
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
 | RadioWave | 301273 | [301273-radiowave.json](./301273-radiowave.json) |
+| Radirgy | 4077 | [4077-radirgy.json](./4077-radirgy.json) |
 | Radirgy 2 | 254477 | [254477-radirgy-2.json](./254477-radirgy-2.json) |
 | Radirgy De Gojaru! | 222407 | [222407-radirgy-de-gojaru.json](./222407-radirgy-de-gojaru.json) |
 | Radirgy Noa Massive | 7152 | [7152-radirgy-noa-massive.json](./7152-radirgy-noa-massive.json) |
@@ -2313,6 +2314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythmy | 116315 | [116315-rhythmy.json](./116315-rhythmy.json) |
 | Ri Ri Ye Ye | 150515 | [150515-ri-ri-ye-ye.json](./150515-ri-ri-ye-ye.json) |
 | Ria's Hook | 95213 | [95213-rias-hook.json](./95213-rias-hook.json) |
+| Riana Rouge | 3713 | [3713-riana-rouge.json](./3713-riana-rouge.json) |
 | Ribbeat | 382771 | [382771-ribbeat.json](./382771-ribbeat.json) |
 | Ribbit Jump | 400368 | [400368-ribbit-jump.json](./400368-ribbit-jump.json) |
 | Ribbit Rampage | 305331 | [305331-ribbit-rampage.json](./305331-ribbit-rampage.json) |
