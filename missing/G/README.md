@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Stock Car 2013 | 62132 | [62132-game-stock-car-2013.json](./62132-game-stock-car-2013.json) |
 | Game Store Simulator | 346695 | [346695-game-store-simulator.json](./346695-game-store-simulator.json) |
 | Game Studio Simulator | 115594 | [115594-game-studio-simulator.json](./115594-game-studio-simulator.json) |
+| Game Tengoku: Cruisin Mix | 52187 | [52187-game-tengoku-cruisin-mix.json](./52187-game-tengoku-cruisin-mix.json) |
 | Game Tester Quest | 283308 | [283308-game-tester-quest.json](./283308-game-tester-quest.json) |
 | Game Time Glizzys | 266298 | [266298-game-time-glizzys.json](./266298-game-time-glizzys.json) |
 | Game Title | 139818 | [139818-game-title.json](./139818-game-title.json) |
@@ -1030,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Rush | 102366 | [102366-geometry-rush.json](./102366-geometry-rush.json) |
 | Geometry Shooter Pro | 320386 | [320386-geometry-shooter-pro.json](./320386-geometry-shooter-pro.json) |
 | Geomoth Boot Sequence | 289312 | [289312-geomoth-boot-sequence.json](./289312-geomoth-boot-sequence.json) |
+| Geon | 52226 | [52226-geon.json](./52226-geon.json) |
 | Geon Cube | 50636 | [50636-geon-cube.json](./50636-geon-cube.json) |
 | Geon: Emotions | 20376 | [20376-geon-emotions.json](./20376-geon-emotions.json) |
 | Geophobia | 271307 | [271307-geophobia.json](./271307-geophobia.json) |
@@ -1070,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Germinator | 21019 | [21019-germinator.json](./21019-germinator.json) |
 | Germs: Nerawareta Machi | 62438 | [62438-germs-nerawareta-machi.json](./62438-germs-nerawareta-machi.json) |
 | Germs.io | 112152 | [112152-germs-io.json](./112152-germs-io.json) |
+| Geronimo Stilton: The Return to the Kingdom of Fantasy | 52225 | [52225-geronimo-stilton-the-return-to-the-kingdom-of-fantasy.json](./52225-geronimo-stilton-the-return-to-the-kingdom-of-fantasy.json) |
 | Gerry Anderson's Thunderbirds: Shutsudou Thunderbird 2-gou | 385726 | [385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json](./385726-gerry-andersons-thunderbirds-shutsudou-thunderbird-2-gou.json) |
 | Gerry the Germ Goes Body Poppin' | 26464 | [26464-gerry-the-germ-goes-body-poppin.json](./26464-gerry-the-germ-goes-body-poppin.json) |
 | Gerrymandering: Red vs Blue | 27865 | [27865-gerrymandering-red-vs-blue.json](./27865-gerrymandering-red-vs-blue.json) |
@@ -2468,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto V Enhanced | 334254 | [334254-grand-theft-auto-v-enhanced.json](./334254-grand-theft-auto-v-enhanced.json) |
 | Grand Theft Auto V Enhanced | 334647 | [334647-grand-theft-auto-v-enhanced.json](./334647-grand-theft-auto-v-enhanced.json) |
 | Grand Theft Auto V: Premium Online Edition | 98077 | [98077-grand-theft-auto-v-premium-online-edition.json](./98077-grand-theft-auto-v-premium-online-edition.json) |
+| Grand Theft Auto VI | 52189 | [52189-grand-theft-auto-vi.json](./52189-grand-theft-auto-vi.json) |
 | Grand Theft Auto: Alien City | 231619 | [231619-grand-theft-auto-alien-city.json](./231619-grand-theft-auto-alien-city.json) |
 | Grand Theft Auto: Carcer City | 383392 | [383392-grand-theft-auto-carcer-city.json](./383392-grand-theft-auto-carcer-city.json) |
 | Grand Theft Auto: Chinatown Wars | 3270 | [3270-grand-theft-auto-chinatown-wars.json](./3270-grand-theft-auto-chinatown-wars.json) |
@@ -2483,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Rome | 193441 | [193441-grand-theft-rome.json](./193441-grand-theft-rome.json) |
 | Grand Tits Adventure | 366233 | [366233-grand-tits-adventure.json](./366233-grand-tits-adventure.json) |
 | Grand Trucker Aniki: Shigoto to Kenka to Koimoyou | 133781 | [133781-grand-trucker-aniki-shigoto-to-kenka-to-koimoyou.json](./133781-grand-trucker-aniki-shigoto-to-kenka-to-koimoyou.json) |
+| Grand Values: Monaco | 52224 | [52224-grand-values-monaco.json](./52224-grand-values-monaco.json) |
 | Grand Vegas Casino | 401559 | [401559-grand-vegas-casino.json](./401559-grand-vegas-casino.json) |
 | Grand Vegas Mafia Crime: Fight to Survive | 98781 | [98781-grand-vegas-mafia-crime-fight-to-survive.json](./98781-grand-vegas-mafia-crime-fight-to-survive.json) |
 | Grand War 2 | 247204 | [247204-grand-war-2.json](./247204-grand-war-2.json) |
@@ -2644,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Box | 207853 | [207853-gravity-box.json](./207853-gravity-box.json) |
 | Gravity Cab | 270132 | [270132-gravity-cab.json](./270132-gravity-cab.json) |
 | Gravity Cat | 143705 | [143705-gravity-cat.json](./143705-gravity-cat.json) |
+| Gravity Crash Ultra | 52223 | [52223-gravity-crash-ultra.json](./52223-gravity-crash-ultra.json) |
 | Gravity Dash | 287225 | [287225-gravity-dash.json](./287225-gravity-dash.json) |
 | Gravity Dash 2 | 91092 | [91092-gravity-dash-2.json](./91092-gravity-dash-2.json) |
 | Gravity Den | 33177 | [33177-gravity-den.json](./33177-gravity-den.json) |
@@ -3071,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growing Up | 155796 | [155796-growing-up.json](./155796-growing-up.json) |
 | Growing Wild | 356751 | [356751-growing-wild.json](./356751-growing-wild.json) |
 | Growlanser Generations | 21311 | [21311-growlanser-generations.json](./21311-growlanser-generations.json) |
+| Growlanser IV: Overreloaded | 52222 | [52222-growlanser-iv-overreloaded.json](./52222-growlanser-iv-overreloaded.json) |
 | Growlanser IV: Wayfarer of the Time | 21313 | [21313-growlanser-iv-wayfarer-of-the-time.json](./21313-growlanser-iv-wayfarer-of-the-time.json) |
 | Growlanser: Heritage of War | 21308 | [21308-growlanser-heritage-of-war.json](./21308-growlanser-heritage-of-war.json) |
 | Growling In My Demise | 233597 | [233597-growling-in-my-demise.json](./233597-growling-in-my-demise.json) |
@@ -3309,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Brothers | 31674 | [31674-gun-brothers.json](./31674-gun-brothers.json) |
 | Gun Builder Elite HD | 351036 | [351036-gun-builder-elite-hd.json](./351036-gun-builder-elite-hd.json) |
 | Gun Building 3 | 351042 | [351042-gun-building-3.json](./351042-gun-building-3.json) |
+| Gun Commando | 52221 | [52221-gun-commando.json](./52221-gun-commando.json) |
 | Gun Crazy | 110093 | [110093-gun-crazy.json](./110093-gun-crazy.json) |
 | Gun Done | 32888 | [32888-gun-done.json](./32888-gun-done.json) |
 | Gun Done: Who is Awesome | 97923 | [97923-gun-done-who-is-awesome.json](./97923-gun-done-who-is-awesome.json) |
@@ -3474,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship Origins | 394127 | [394127-gunship-origins.json](./394127-gunship-origins.json) |
 | Gunship Recon: Character Puzzles | 163418 | [163418-gunship-recon-character-puzzles.json](./163418-gunship-recon-character-puzzles.json) |
 | Gunship Recon: Purchase Privilege | 156168 | [156168-gunship-recon-purchase-privilege.json](./156168-gunship-recon-purchase-privilege.json) |
+| Gunship X | 52240 | [52240-gunship-x.json](./52240-gunship-x.json) |
 | Gunshoot | 76614 | [76614-gunshoot.json](./76614-gunshoot.json) |
 | Gunshot Arcade | 407339 | [407339-gunshot-arcade.json](./407339-gunshot-arcade.json) |
 | GunShy | 229376 | [229376-gunshy.json](./229376-gunshy.json) |
@@ -3494,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunSoul Girl 2 | 213000 | [213000-gunsoul-girl-2.json](./213000-gunsoul-girl-2.json) |
 | Gunspell | 54071 | [54071-gunspell.json](./54071-gunspell.json) |
 | Gunspell: Steam Edition | 36221 | [36221-gunspell-steam-edition.json](./36221-gunspell-steam-edition.json) |
+| Gunsport | 52239 | [52239-gunsport.json](./52239-gunsport.json) |
 | Gunstable | 180800 | [180800-gunstable.json](./180800-gunstable.json) |
 | Gunstar | 13003 | [13003-gunstar.json](./13003-gunstar.json) |
 | Gunstar Heroes | 248636 | [248636-gunstar-heroes.json](./248636-gunstar-heroes.json) |
