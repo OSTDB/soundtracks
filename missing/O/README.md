@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My Wrench | 322187 | [322187-oh-my-wrench.json](./322187-oh-my-wrench.json) |
 | Oh No | 135705 | [135705-oh-no.json](./135705-oh-no.json) |
 | Oh No! Bugs! | 31708 | [31708-oh-no-bugs.json](./31708-oh-no-bugs.json) |
+| Oh No! More Lemmings | 14481 | [14481-oh-no-more-lemmings.json](./14481-oh-no-more-lemmings.json) |
 | Oh No! More Zombies Ate My Neighbors | 38294 | [38294-oh-no-more-zombies-ate-my-neighbors.json](./38294-oh-no-more-zombies-ate-my-neighbors.json) |
 | Oh No! UFO! | 386730 | [386730-oh-no-ufo.json](./386730-oh-no-ufo.json) |
 | Oh Noes!!1 | 91896 | [91896-oh-noes-1.json](./91896-oh-noes-1.json) |
