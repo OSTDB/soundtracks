@@ -2692,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Box | 207853 | [207853-gravity-box.json](./207853-gravity-box.json) |
 | Gravity Cab | 270132 | [270132-gravity-cab.json](./270132-gravity-cab.json) |
 | Gravity Cat | 143705 | [143705-gravity-cat.json](./143705-gravity-cat.json) |
+| Gravity Crash Portable | 42845 | [42845-gravity-crash-portable.json](./42845-gravity-crash-portable.json) |
 | Gravity Crash Ultra | 52223 | [52223-gravity-crash-ultra.json](./52223-gravity-crash-ultra.json) |
 | Gravity Dash | 287225 | [287225-gravity-dash.json](./287225-gravity-dash.json) |
 | Gravity Dash 2 | 91092 | [91092-gravity-dash-2.json](./91092-gravity-dash-2.json) |
@@ -3454,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfright | 14102 | [14102-gunfright.json](./14102-gunfright.json) |
 | Gungage | 44863 | [44863-gungage.json](./44863-gungage.json) |
 | GunGirl 2 | 23720 | [23720-gungirl-2.json](./23720-gungirl-2.json) |
+| Gungnir | 42882 | [42882-gungnir.json](./42882-gungnir.json) |
 | Gungrave G.O.R.E: Blood Heat | 370130 | [370130-gungrave-g-o-r-e-blood-heat.json](./370130-gungrave-g-o-r-e-blood-heat.json) |
 | Gungrave G.O.R.E: Street Grave | 357271 | [357271-gungrave-g-o-r-e-street-grave.json](./357271-gungrave-g-o-r-e-street-grave.json) |
 | Gungrave VR: Loaded Coffin Edition | 166230 | [166230-gungrave-vr-loaded-coffin-edition.json](./166230-gungrave-vr-loaded-coffin-edition.json) |
