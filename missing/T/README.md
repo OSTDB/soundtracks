@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangerine Panic | 280213 | [280213-tangerine-panic.json](./280213-tangerine-panic.json) |
 | Tangled | 230404 | [230404-tangled.json](./230404-tangled.json) |
 | Tangled | 230552 | [230552-tangled.json](./230552-tangled.json) |
+| Tangled | 5212 | [5212-tangled.json](./5212-tangled.json) |
 | Tangled | 62187 | [62187-tangled.json](./62187-tangled.json) |
 | Tangled Crisis | 260246 | [260246-tangled-crisis.json](./260246-tangled-crisis.json) |
 | Tangled Slug | 374152 | [374152-tangled-slug.json](./374152-tangled-slug.json) |
@@ -1117,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tears of a Prophet | 174203 | [174203-tears-of-a-prophet.json](./174203-tears-of-a-prophet.json) |
 | Tears of Adria | 268226 | [268226-tears-of-adria.json](./268226-tears-of-adria.json) |
 | Tears of Magic | 224574 | [224574-tears-of-magic.json](./224574-tears-of-magic.json) |
+| Tears of Themis | 146245 | [146245-tears-of-themis.json](./146245-tears-of-themis.json) |
 | Tears to Tiara Gaiden: Avalon no Nazo | 76907 | [76907-tears-to-tiara-gaiden-avalon-no-nazo.json](./76907-tears-to-tiara-gaiden-avalon-no-nazo.json) |
 | Tearscape | 318752 | [318752-tearscape.json](./318752-tearscape.json) |
 | Tearstone: Thieves of the Heart | 195699 | [195699-tearstone-thieves-of-the-heart.json](./195699-tearstone-thieves-of-the-heart.json) |
@@ -1674,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive Cycles | 49906 | [49906-test-drive-cycles.json](./49906-test-drive-cycles.json) |
 | Test Drive II: The Collection | 140039 | [140039-test-drive-ii-the-collection.json](./140039-test-drive-ii-the-collection.json) |
 | Test Drive Unlimited | 7215 | [7215-test-drive-unlimited.json](./7215-test-drive-unlimited.json) |
+| Test Drive Unlimited Solar Crown | 135671 | [135671-test-drive-unlimited-solar-crown.json](./135671-test-drive-unlimited-solar-crown.json) |
 | Test Drive: Off-Road 2 | 45086 | [45086-test-drive-off-road-2.json](./45086-test-drive-off-road-2.json) |
 | Test Drive: Off-Road 3 | 49905 | [49905-test-drive-off-road-3.json](./49905-test-drive-off-road-3.json) |
 | Test Drive: Offroad | 206222 | [206222-test-drive-offroad.json](./206222-test-drive-offroad.json) |
@@ -3490,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gold and Black Keys that Cannot Open | 251192 | [251192-the-gold-and-black-keys-that-cannot-open.json](./251192-the-gold-and-black-keys-that-cannot-open.json) |
 | The Gold of the Aztecs | 12120 | [12120-the-gold-of-the-aztecs.json](./12120-the-gold-of-the-aztecs.json) |
 | The Golden Age | 213586 | [213586-the-golden-age.json](./213586-the-golden-age.json) |
+| The Golden Compass | 4892 | [4892-the-golden-compass.json](./4892-the-golden-compass.json) |
 | The Golden Pearl | 179142 | [179142-the-golden-pearl.json](./179142-the-golden-pearl.json) |
 | The Golden Tower | 362911 | [362911-the-golden-tower.json](./362911-the-golden-tower.json) |
 | The Golf Club 2019 featuring PGA Tour | 91128 | [91128-the-golf-club-2019-featuring-pga-tour.json](./91128-the-golf-club-2019-featuring-pga-tour.json) |
@@ -5631,6 +5635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Cool Kitchen Stuff | 13149 | [13149-the-sims-4-cool-kitchen-stuff.json](./13149-the-sims-4-cool-kitchen-stuff.json) |
 | The Sims 4: Country Kitchen Kit | 148501 | [148501-the-sims-4-country-kitchen-kit.json](./148501-the-sims-4-country-kitchen-kit.json) |
 | The Sims 4: Decor to the Max Kit | 195598 | [195598-the-sims-4-decor-to-the-max-kit.json](./195598-the-sims-4-decor-to-the-max-kit.json) |
+| The Sims 4: Eco Lifestyle | 135144 | [135144-the-sims-4-eco-lifestyle.json](./135144-the-sims-4-eco-lifestyle.json) |
 | The Sims 4: Essential Glam Kit | 362300 | [362300-the-sims-4-essential-glam-kit.json](./362300-the-sims-4-essential-glam-kit.json) |
 | The Sims 4: Everyday Stuff Bundle | 159341 | [159341-the-sims-4-everyday-stuff-bundle.json](./159341-the-sims-4-everyday-stuff-bundle.json) |
 | The Sims 4: Extreme Violence | 259250 | [259250-the-sims-4-extreme-violence.json](./259250-the-sims-4-extreme-violence.json) |
@@ -10032,6 +10037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Battlegrounds | 137948 | [137948-transformers-battlegrounds.json](./137948-transformers-battlegrounds.json) |
 | Transformers: Battlegrounds - Complete Edition | 188638 | [188638-transformers-battlegrounds-complete-edition.json](./188638-transformers-battlegrounds-complete-edition.json) |
 | Transformers: Cybertron Adventures | 5242 | [5242-transformers-cybertron-adventures.json](./5242-transformers-cybertron-adventures.json) |
+| Transformers: Dark of the Moon | 5243 | [5243-transformers-dark-of-the-moon.json](./5243-transformers-dark-of-the-moon.json) |
 | Transformers: Dark of the Moon - Autobots | 141825 | [141825-transformers-dark-of-the-moon-autobots.json](./141825-transformers-dark-of-the-moon-autobots.json) |
 | Transformers: Dark of the Moon - Decepticons | 141826 | [141826-transformers-dark-of-the-moon-decepticons.json](./141826-transformers-dark-of-the-moon-decepticons.json) |
 | Transformers: Dark of the Moon - Stealth Force Edition | 51021 | [51021-transformers-dark-of-the-moon-stealth-force-edition.json](./51021-transformers-dark-of-the-moon-stealth-force-edition.json) |
