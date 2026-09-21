@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Your Sheep Together | 195160 | [195160-get-your-sheep-together.json](./195160-get-your-sheep-together.json) |
 | Get Your Tentacles Off My Waifu | 244765 | [244765-get-your-tentacles-off-my-waifu.json](./244765-get-your-tentacles-off-my-waifu.json) |
 | Get_the_Key | 180124 | [180124-get-the-key.json](./180124-get-the-key.json) |
+| Getamped 2 | 57925 | [57925-getamped-2.json](./57925-getamped-2.json) |
 | GetAmped Mobile | 114178 | [114178-getamped-mobile.json](./114178-getamped-mobile.json) |
 | Getaway Entertainment 6 Pack | 201851 | [201851-getaway-entertainment-6-pack.json](./201851-getaway-entertainment-6-pack.json) |
 | Getaway Girls | 313876 | [313876-getaway-girls.json](./313876-getaway-girls.json) |
@@ -2266,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOTC: Siege on the Lightorder Citadel | 164515 | [164515-gotc-siege-on-the-lightorder-citadel.json](./164515-gotc-siege-on-the-lightorder-citadel.json) |
 | Gotcha | 250633 | [250633-gotcha.json](./250633-gotcha.json) |
 | Gotcha | 7427 | [7427-gotcha.json](./7427-gotcha.json) |
+| Gotcha Babes X-treme | 57912 | [57912-gotcha-babes-x-treme.json](./57912-gotcha-babes-x-treme.json) |
 | Gotcha Force | 3936 | [3936-gotcha-force.json](./3936-gotcha-force.json) |
 | Gotcha Number for Playdate | 276716 | [276716-gotcha-number-for-playdate.json](./276716-gotcha-number-for-playdate.json) |
 | Gotcha! The Sport! | 5848 | [5848-gotcha-the-sport.json](./5848-gotcha-the-sport.json) |
