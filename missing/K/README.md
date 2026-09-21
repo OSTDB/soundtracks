@@ -1660,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konae-chan no Doki-doki Penguin Kazoku | 134464 | [134464-konae-chan-no-doki-doki-penguin-kazoku.json](./134464-konae-chan-no-doki-doki-penguin-kazoku.json) |
 | Konami 88 | 40228 | [40228-konami-88.json](./40228-konami-88.json) |
 | Konami Collector's Series: Castlevania & Contra | 78642 | [78642-konami-collectors-series-castlevania-and-contra.json](./78642-konami-collectors-series-castlevania-and-contra.json) |
+| Konami Hyper Soccer | 48284 | [48284-konami-hyper-soccer.json](./48284-konami-hyper-soccer.json) |
 | Konami's Ping Pong | 46832 | [46832-konamis-ping-pong.json](./46832-konamis-ping-pong.json) |
 | Konamic Tennis | 41322 | [41322-konamic-tennis.json](./41322-konamic-tennis.json) |
 | Konchuu Fighters | 65191 | [65191-konchuu-fighters.json](./65191-konchuu-fighters.json) |
@@ -2010,6 +2011,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyumori Episode1 | 175985 | [175985-kyumori-episode1.json](./175985-kyumori-episode1.json) |
 | Kyurinaga's Revenge | 25308 | [25308-kyurinagas-revenge.json](./25308-kyurinagas-revenge.json) |
 | Kyuuketsu Hime Yui: Senyashou | 393601 | [393601-kyuuketsu-hime-yui-senyashou.json](./393601-kyuuketsu-hime-yui-senyashou.json) |
+| Kyuukyoku Harikiri Stadium | 48309 | [48309-kyuukyoku-harikiri-stadium.json](./48309-kyuukyoku-harikiri-stadium.json) |
+| Kyuukyoku Harikiri Stadium '88 Senshuu Shin Data | 48311 | [48311-kyuukyoku-harikiri-stadium-88-senshuu-shin-data.json](./48311-kyuukyoku-harikiri-stadium-88-senshuu-shin-data.json) |
+| Kyuukyoku Harikiri Stadium III | 48310 | [48310-kyuukyoku-harikiri-stadium-iii.json](./48310-kyuukyoku-harikiri-stadium-iii.json) |
 | Kyuukyoku Harikiri Stadium: Heisei Gannen-ban | 48635 | [48635-kyuukyoku-harikiri-stadium-heisei-gannen-ban.json](./48635-kyuukyoku-harikiri-stadium-heisei-gannen-ban.json) |
 | Kyuukyoku Sentai Dadandarn | 40219 | [40219-kyuukyoku-sentai-dadandarn.json](./40219-kyuukyoku-sentai-dadandarn.json) |
 | Kyuukyoku Tiger II Plus | 66146 | [66146-kyuukyoku-tiger-ii-plus.json](./66146-kyuukyoku-tiger-ii-plus.json) |
