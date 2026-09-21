@@ -3286,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Magic | 406726 | [406726-horse-magic.json](./406726-horse-magic.json) |
 | Horse Magnifier | 396387 | [396387-horse-magnifier.json](./396387-horse-magnifier.json) |
 | Horse Manager | 357854 | [357854-horse-manager.json](./357854-horse-manager.json) |
+| Horse Master | 62453 | [62453-horse-master.json](./62453-horse-master.json) |
 | Horse Park Tycoon | 87897 | [87897-horse-park-tycoon.json](./87897-horse-park-tycoon.json) |
 | Horse Plinko | 357855 | [357855-horse-plinko.json](./357855-horse-plinko.json) |
 | Horse Race Starter | 76958 | [76958-horse-race-starter.json](./76958-horse-race-starter.json) |
