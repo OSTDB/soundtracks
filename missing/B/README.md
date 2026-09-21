@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakugan Battle Brawlers: Arcade Battlers | 122989 | [122989-bakugan-battle-brawlers-arcade-battlers.json](./122989-bakugan-battle-brawlers-arcade-battlers.json) |
 | Bakugan: Rise of the Resistance | 26690 | [26690-bakugan-rise-of-the-resistance.json](./26690-bakugan-rise-of-the-resistance.json) |
 | Bakuman: Mangaka he no Michi | 65745 | [65745-bakuman-mangaka-he-no-michi.json](./65745-bakuman-mangaka-he-no-michi.json) |
+| Bakumatsu Kourinden Oni | 15897 | [15897-bakumatsu-kourinden-oni.json](./15897-bakumatsu-kourinden-oni.json) |
 | Bakumatsu Renka: Shinsengumi DS | 122864 | [122864-bakumatsu-renka-shinsengumi-ds.json](./122864-bakumatsu-renka-shinsengumi-ds.json) |
 | Bakumatsu Roman: Gekka no Kenshi 1+2 | 84253 | [84253-bakumatsu-roman-gekka-no-kenshi-1-2.json](./84253-bakumatsu-roman-gekka-no-kenshi-1-2.json) |
 | Bakuretsu Breaker | 40269 | [40269-bakuretsu-breaker.json](./40269-bakuretsu-breaker.json) |
