@@ -2791,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
 | Menacetide | 386238 | [386238-menacetide.json](./386238-menacetide.json) |
 | Menagerie I: Exoptable Money | 223664 | [223664-menagerie-i-exoptable-money.json](./223664-menagerie-i-exoptable-money.json) |
+| Menagerie II: Presentable Liberty | 50154 | [50154-menagerie-ii-presentable-liberty.json](./50154-menagerie-ii-presentable-liberty.json) |
 | Menara: Grass Land | 282732 | [282732-menara-grass-land.json](./282732-menara-grass-land.json) |
 | Mencabrona | 299724 | [299724-mencabrona.json](./299724-mencabrona.json) |
 | Mend Arcade Battle | 169959 | [169959-mend-arcade-battle.json](./169959-mend-arcade-battle.json) |
@@ -3439,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Revenge of Arcade | 84228 | [84228-microsoft-revenge-of-arcade.json](./84228-microsoft-revenge-of-arcade.json) |
 | Microsoft Soccer | 93003 | [93003-microsoft-soccer.json](./93003-microsoft-soccer.json) |
 | Microsoft Solitaire | 242378 | [242378-microsoft-solitaire.json](./242378-microsoft-solitaire.json) |
+| Microsoft Space Simulator | 50116 | [50116-microsoft-space-simulator.json](./50116-microsoft-space-simulator.json) |
 | Microsoft Spider Solitaire | 8196 | [8196-microsoft-spider-solitaire.json](./8196-microsoft-spider-solitaire.json) |
 | Microsoft Sudoku | 60285 | [60285-microsoft-sudoku.json](./60285-microsoft-sudoku.json) |
 | Microsoft Train Simulator: German Railroads Volume Two - Fast Railcars on the Runway | 78055 | [78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json](./78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json) |
@@ -3532,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might and Magic: World of Xeen | 7738 | [7738-might-and-magic-world-of-xeen.json](./7738-might-and-magic-world-of-xeen.json) |
 | Might is Right | 127497 | [127497-might-is-right.json](./127497-might-is-right.json) |
 | Might of Fate | 406130 | [406130-might-of-fate.json](./406130-might-of-fate.json) |
+| Mightier | 50136 | [50136-mightier.json](./50136-mightier.json) |
 | Mightreya | 314489 | [314489-mightreya.json](./314489-mightreya.json) |
 | Mighty Aphid | 135156 | [135156-mighty-aphid.json](./135156-mighty-aphid.json) |
 | Mighty Chameleon Brothers | 155469 | [155469-mighty-chameleon-brothers.json](./155469-mighty-chameleon-brothers.json) |
