@@ -1782,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChampionsTCG | 273920 | [273920-championstcg.json](./273920-championstcg.json) |
 | Champoo Club | 172200 | [172200-champoo-club.json](./172200-champoo-club.json) |
 | Champs TD | 210862 | [210862-champs-td.json](./210862-champs-td.json) |
+| Champs: Battlegrounds | 20117 | [20117-champs-battlegrounds.json](./20117-champs-battlegrounds.json) |
 | Chance | 387323 | [387323-chance.json](./387323-chance.json) |
 | Chance at Life | 203530 | [203530-chance-at-life.json](./203530-chance-at-life.json) |
 | Chance of the Dead | 166691 | [166691-chance-of-the-dead.json](./166691-chance-of-the-dead.json) |
@@ -2030,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobyl | 228687 | [228687-chernobyl.json](./228687-chernobyl.json) |
 | Chernobyl 1986 | 120929 | [120929-chernobyl-1986.json](./120929-chernobyl-1986.json) |
 | Chernobyl Commando | 9796 | [9796-chernobyl-commando.json](./9796-chernobyl-commando.json) |
+| Chernobyl VR Project | 20092 | [20092-chernobyl-vr-project.json](./20092-chernobyl-vr-project.json) |
 | Chernobyl: Escape from Pripyat | 335952 | [335952-chernobyl-escape-from-pripyat.json](./335952-chernobyl-escape-from-pripyat.json) |
 | Chernobyl: Nuclear Power Plant Simulation | 54710 | [54710-chernobyl-nuclear-power-plant-simulation.json](./54710-chernobyl-nuclear-power-plant-simulation.json) |
 | Chernobyl: Road of Death | 122380 | [122380-chernobyl-road-of-death.json](./122380-chernobyl-road-of-death.json) |
@@ -5152,6 +5154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Test Idiots 2: Multiplayer | 278692 | [278692-crash-test-idiots-2-multiplayer.json](./278692-crash-test-idiots-2-multiplayer.json) |
 | Crash the Comet | 102595 | [102595-crash-the-comet.json](./102595-crash-the-comet.json) |
 | Crash the Game | 129703 | [129703-crash-the-game.json](./129703-crash-the-game.json) |
+| Crash Time 4: The Syndicate | 19973 | [19973-crash-time-4-the-syndicate.json](./19973-crash-time-4-the-syndicate.json) |
 | Crash Time: Undercover | 226834 | [226834-crash-time-undercover.json](./226834-crash-time-undercover.json) |
 | Crash Twinsanity | 210234 | [210234-crash-twinsanity.json](./210234-crash-twinsanity.json) |
 | Crash Twinsanity 3D | 210232 | [210232-crash-twinsanity-3d.json](./210232-crash-twinsanity-3d.json) |
