@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18 Wheeler: American Pro Trucker | 3706 | [3706-18-wheeler-american-pro-trucker.json](./3706-18-wheeler-american-pro-trucker.json) |
 | 18 Wheels of Steel: American Long Haul | 11427 | [11427-18-wheels-of-steel-american-long-haul.json](./11427-18-wheels-of-steel-american-long-haul.json) |
 | 18 Wheels of Steel: Extreme Trucker 2 | 11429 | [11429-18-wheels-of-steel-extreme-trucker-2.json](./11429-18-wheels-of-steel-extreme-trucker-2.json) |
+| 18 Wheels of Steel: Pedal to the Metal | 37046 | [37046-18-wheels-of-steel-pedal-to-the-metal.json](./37046-18-wheels-of-steel-pedal-to-the-metal.json) |
 | 18: Dream World | 56137 | [56137-18-dream-world.json](./56137-18-dream-world.json) |
 | 18+ | 219040 | [219040-18.json](./219040-18.json) |
 | 180 Files: The Aegis Project | 132419 | [132419-180-files-the-aegis-project.json](./132419-180-files-the-aegis-project.json) |
