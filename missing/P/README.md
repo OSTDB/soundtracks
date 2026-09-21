@@ -2718,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
 | Pixelpusher | 177003 | [177003-pixelpusher.json](./177003-pixelpusher.json) |
 | PixelRulers | 360681 | [360681-pixelrulers.json](./360681-pixelrulers.json) |
+| Pixelry | 50848 | [50848-pixelry.json](./50848-pixelry.json) |
 | Pixels Defense | 60003 | [60003-pixels-defense.json](./60003-pixels-defense.json) |
 | Pixels Guide to Staying Dead | 109771 | [109771-pixels-guide-to-staying-dead.json](./109771-pixels-guide-to-staying-dead.json) |
 | Pixels N Pistols | 246950 | [246950-pixels-n-pistols.json](./246950-pixels-n-pistols.json) |
@@ -5111,6 +5112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect Your Gold From Barack Obama | 313343 | [313343-protect-your-gold-from-barack-obama.json](./313343-protect-your-gold-from-barack-obama.json) |
 | Protecting Santa | 192986 | [192986-protecting-santa.json](./192986-protecting-santa.json) |
 | Protecting the Diamond | 394369 | [394369-protecting-the-diamond.json](./394369-protecting-the-diamond.json) |
+| Protection Civile Simulator 2013 | 50822 | [50822-protection-civile-simulator-2013.json](./50822-protection-civile-simulator-2013.json) |
 | Protective Clothing | 132616 | [132616-protective-clothing.json](./132616-protective-clothing.json) |
 | Protector | 95461 | [95461-protector.json](./95461-protector.json) |
 | Protector: Special Edition | 40809 | [40809-protector-special-edition.json](./40809-protector-special-edition.json) |
