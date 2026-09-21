@@ -4645,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FX Chess Plus | 92864 | [92864-fx-chess-plus.json](./92864-fx-chess-plus.json) |
 | FX Eleven | 62221 | [62221-fx-eleven.json](./62221-fx-eleven.json) |
 | FX Fighter Turbo | 68982 | [68982-fx-fighter-turbo.json](./68982-fx-fighter-turbo.json) |
+| FX Football | 9788 | [9788-fx-football.json](./9788-fx-football.json) |
 | Fyd | 80898 | [80898-fyd.json](./80898-fyd.json) |
 | Fyrardien | 384525 | [384525-fyrardien.json](./384525-fyrardien.json) |
 | FZDDR | 406700 | [406700-fzddr.json](./406700-fzddr.json) |
