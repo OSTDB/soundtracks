@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Make Saints | 206926 | [206926-i-make-saints.json](./206926-i-make-saints.json) |
 | I Miss the Sunrise | 130895 | [130895-i-miss-the-sunrise.json](./130895-i-miss-the-sunrise.json) |
 | I Mother | 339629 | [339629-i-mother.json](./339629-i-mother.json) |
+| I Must Run | 42824 | [42824-i-must-run.json](./42824-i-must-run.json) |
 | I Need a Name | 192971 | [192971-i-need-a-name.json](./192971-i-need-a-name.json) |
 | I Need Space | 241369 | [241369-i-need-space.json](./241369-i-need-space.json) |
 | I Offered You the Crown | 355016 | [355016-i-offered-you-the-crown.json](./355016-i-offered-you-the-crown.json) |
