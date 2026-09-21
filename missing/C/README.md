@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call to Arms: Gates of Hell - Talvisota | 203893 | [203893-call-to-arms-gates-of-hell-talvisota.json](./203893-call-to-arms-gates-of-hell-talvisota.json) |
 | Call to Arms: Panzer Elite | 353292 | [353292-call-to-arms-panzer-elite.json](./353292-call-to-arms-panzer-elite.json) |
 | Call to Strike | 311133 | [311133-call-to-strike.json](./311133-call-to-strike.json) |
+| Callahan's Crosstime Saloon | 12410 | [12410-callahans-crosstime-saloon.json](./12410-callahans-crosstime-saloon.json) |
 | Callbreak League | 237635 | [237635-callbreak-league.json](./237635-callbreak-league.json) |
 | Caller of the Crows | 348857 | [348857-caller-of-the-crows.json](./348857-caller-of-the-crows.json) |
 | Calling | 403030 | [403030-calling.json](./403030-calling.json) |
@@ -4134,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comp IV | 245533 | [245533-comp-iv.json](./245533-comp-iv.json) |
 | Companion | 30884 | [30884-companion.json](./30884-companion.json) |
 | Companion of Darkness | 342630 | [342630-companion-of-darkness.json](./342630-companion-of-darkness.json) |
+| Companions of Xanth | 12412 | [12412-companions-of-xanth.json](./12412-companions-of-xanth.json) |
 | Company is Watching | 401498 | [401498-company-is-watching.json](./401498-company-is-watching.json) |
 | Company of Heroes | 654 | [654-company-of-heroes.json](./654-company-of-heroes.json) |
 | Company of Heroes 2: All Out War Edition | 139845 | [139845-company-of-heroes-2-all-out-war-edition.json](./139845-company-of-heroes-2-all-out-war-edition.json) |
@@ -4311,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connection | 322574 | [322574-connection.json](./322574-connection.json) |
 | Connection Haunted | 130152 | [130152-connection-haunted.json](./130152-connection-haunted.json) |
 | Connection reHaunted | 146822 | [146822-connection-rehaunted.json](./146822-connection-rehaunted.json) |
+| Connections | 12413 | [12413-connections.json](./12413-connections.json) |
 | Connections | 315093 | [315093-connections.json](./315093-connections.json) |
 | Connectris | 79232 | [79232-connectris.json](./79232-connectris.json) |
 | Conniption: Paranoia | 217392 | [217392-conniption-paranoia.json](./217392-conniption-paranoia.json) |
@@ -5324,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Seahorses | 241348 | [241348-crazy-seahorses.json](./241348-crazy-seahorses.json) |
 | Crazy Shipping | 324080 | [324080-crazy-shipping.json](./324080-crazy-shipping.json) |
 | Crazy Shooters 2 | 204475 | [204475-crazy-shooters-2.json](./204475-crazy-shooters-2.json) |
+| Crazy Shot | 12414 | [12414-crazy-shot.json](./12414-crazy-shot.json) |
 | Crazy Snowboard | 87553 | [87553-crazy-snowboard.json](./87553-crazy-snowboard.json) |
 | Crazy Sonic | 352784 | [352784-crazy-sonic.json](./352784-crazy-sonic.json) |
 | Crazy Space Goat Simulator 3D - 2 | 101960 | [101960-crazy-space-goat-simulator-3d-2.json](./101960-crazy-space-goat-simulator-3d-2.json) |
@@ -5740,6 +5744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowd Sign: Emission | 190080 | [190080-crowd-sign-emission.json](./190080-crowd-sign-emission.json) |
 | Crowd Smashers | 29176 | [29176-crowd-smashers.json](./29176-crowd-smashers.json) |
 | Crowded Dungeon Crawler | 182993 | [182993-crowded-dungeon-crawler.json](./182993-crowded-dungeon-crawler.json) |
+| Crown | 12415 | [12415-crown.json](./12415-crown.json) |
 | Crown | 146111 | [146111-crown.json](./146111-crown.json) |
 | Crown Champion: Legends of the Arena | 31349 | [31349-crown-champion-legends-of-the-arena.json](./31349-crown-champion-legends-of-the-arena.json) |
 | Crown Chase | 412268 | [412268-crown-chase.json](./412268-crown-chase.json) |
