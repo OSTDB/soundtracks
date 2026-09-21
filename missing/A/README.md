@@ -676,6 +676,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AddForce | 61881 | [61881-addforce.json](./61881-addforce.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
 | Addition | 76606 | [76606-addition.json](./76606-addition.json) |
+| Addition and Subtraction 1 | 42191 | [42191-addition-and-subtraction-1.json](./42191-addition-and-subtraction-1.json) |
+| Addition and Subtraction 2 | 42193 | [42193-addition-and-subtraction-2.json](./42193-addition-and-subtraction-2.json) |
+| Addition and Subtraction 3 | 42192 | [42192-addition-and-subtraction-3.json](./42192-addition-and-subtraction-3.json) |
 | Address1 | 265648 | [265648-address1.json](./265648-address1.json) |
 | Adebana Sacrament: Seinaru Miwaza to Akuryoutsuki no Shoujo-tachi | 77948 | [77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json](./77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json) |
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
@@ -1838,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allied Ambush | 160229 | [160229-allied-ambush.json](./160229-allied-ambush.json) |
 | Allied Star Police | 22336 | [22336-allied-star-police.json](./22336-allied-star-police.json) |
 | Alligator Hunt | 38519 | [38519-alligator-hunt.json](./38519-alligator-hunt.json) |
+| Alligator Mix | 42194 | [42194-alligator-mix.json](./42194-alligator-mix.json) |
 | Alligori | 272866 | [272866-alligori.json](./272866-alligori.json) |
 | Allison's Diary: Rebirth | 112771 | [112771-allisons-diary-rebirth.json](./112771-allisons-diary-rebirth.json) |
 | Allkpop Allstar | 59657 | [59657-allkpop-allstar.json](./59657-allkpop-allstar.json) |
