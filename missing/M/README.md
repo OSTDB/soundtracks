@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magica X Magica | 200018 | [200018-magica-x-magica.json](./200018-magica-x-magica.json) |
 | Magicafe | 299127 | [299127-magicafe.json](./299127-magicafe.json) |
 | Magical Battle Arena | 145447 | [145447-magical-battle-arena.json](./145447-magical-battle-arena.json) |
+| Magical Battle Arena: Complete Form | 61320 | [61320-magical-battle-arena-complete-form.json](./61320-magical-battle-arena-complete-form.json) |
 | Magical Beat | 52549 | [52549-magical-beat.json](./52549-magical-beat.json) |
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
 | Magical Boco | 313464 | [313464-magical-boco.json](./313464-magical-boco.json) |
@@ -629,12 +630,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongger | 93002 | [93002-mahjongger.json](./93002-mahjongger.json) |
 | MahjongSchool | 158226 | [158226-mahjongschool.json](./158226-mahjongschool.json) |
 | Mahluk: Dark demon | 31988 | [31988-mahluk-dark-demon.json](./31988-mahluk-dark-demon.json) |
+| Maho Shojo Pretty Sammy: Heart no Kimochi | 61330 | [61330-maho-shojo-pretty-sammy-heart-no-kimochi.json](./61330-maho-shojo-pretty-sammy-heart-no-kimochi.json) |
 | Mahogen | 328053 | [328053-mahogen.json](./328053-mahogen.json) |
 | Mahoroba Stories: Library of Fortune | 146244 | [146244-mahoroba-stories-library-of-fortune.json](./146244-mahoroba-stories-library-of-fortune.json) |
 | Mahou Arms | 96114 | [96114-mahou-arms.json](./96114-mahou-arms.json) |
 | Mahou Mating | 128014 | [128014-mahou-mating.json](./128014-mahou-mating.json) |
 | Mahou no Shippo na | 69587 | [69587-mahou-no-shippo-na.json](./69587-mahou-no-shippo-na.json) |
 | Mahou no Tenshi Creamy Mami: Futatsu no Sekai no Monogatari | 131375 | [131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json](./131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json) |
+| Mahou Shoujo Pretty Sammy: Osorubeshi Shintai Sokutei! Kakubakuhatsu 5 Byou Mae!! | 61329 | [61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json](./61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json) |
 | Mahou Tsukai Kurohime | 108956 | [108956-mahou-tsukai-kurohime.json](./108956-mahou-tsukai-kurohime.json) |
 | MahouSho* | 391711 | [391711-mahousho.json](./391711-mahousho.json) |
 | Mahoutsukai ni Naru Houhou | 97338 | [97338-mahoutsukai-ni-naru-houhou.json](./97338-mahoutsukai-ni-naru-houhou.json) |
@@ -3486,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight's Blessing 2 | 33040 | [33040-midnights-blessing-2.json](./33040-midnights-blessing-2.json) |
 | Midnight's Curse | 154569 | [154569-midnights-curse.json](./154569-midnights-curse.json) |
 | MidnightNears | 344342 | [344342-midnightnears.json](./344342-midnightnears.json) |
+| Midora | 61307 | [61307-midora.json](./61307-midora.json) |
 | Midori Budou-den | 339121 | [339121-midori-budou-den.json](./339121-midori-budou-den.json) |
 | Midsummer Leg's Dream | 303791 | [303791-midsummer-legs-dream.json](./303791-midsummer-legs-dream.json) |
 | Midtown Madness | 2348 | [2348-midtown-madness.json](./2348-midtown-madness.json) |
@@ -3542,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mika Dozer Spin | 90693 | [90693-mika-dozer-spin.json](./90693-mika-dozer-spin.json) |
 | Mikagami Sumika No Seifuku Katsudou | 147446 | [147446-mikagami-sumika-no-seifuku-katsudou.json](./147446-mikagami-sumika-no-seifuku-katsudou.json) |
 | Mikagura Shoujo Tanteidan | 60575 | [60575-mikagura-shoujo-tanteidan.json](./60575-mikagura-shoujo-tanteidan.json) |
+| Mikan | 61313 | [61313-mikan.json](./61313-mikan.json) |
 | Mikan Muzou | 150055 | [150055-mikan-muzou.json](./150055-mikan-muzou.json) |
 | Mikane's Hand | 406686 | [406686-mikanes-hand.json](./406686-mikanes-hand.json) |
 | Mikazuki: Hoshimeguri no Uta | 331890 | [331890-mikazuki-hoshimeguri-no-uta.json](./331890-mikazuki-hoshimeguri-no-uta.json) |
@@ -4359,6 +4364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 2K10 DS | 21157 | [21157-mlb-2k10-ds.json](./21157-mlb-2k10-ds.json) |
 | MLB 9 Innings | 304051 | [304051-mlb-9-innings.json](./304051-mlb-9-innings.json) |
 | MLB 9 Innings 23 | 243137 | [243137-mlb-9-innings-23.json](./243137-mlb-9-innings-23.json) |
+| MLB Ballpark Empire | 61354 | [61354-mlb-ballpark-empire.json](./61354-mlb-ballpark-empire.json) |
 | MLB Bobblehead Pros | 20562 | [20562-mlb-bobblehead-pros.json](./20562-mlb-bobblehead-pros.json) |
 | MLB Champions | 130783 | [130783-mlb-champions.json](./130783-mlb-champions.json) |
 | MLB Dugout Heroes | 91746 | [91746-mlb-dugout-heroes.json](./91746-mlb-dugout-heroes.json) |
@@ -4378,6 +4384,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 21 | 143260 | [143260-mlb-the-show-21.json](./143260-mlb-the-show-21.json) |
 | MLB The Show 22: MVP Edition | 196516 | [196516-mlb-the-show-22-mvp-edition.json](./196516-mlb-the-show-22-mvp-edition.json) |
 | MLB The Show 26: Digital Deluxe Edition | 390533 | [390533-mlb-the-show-26-digital-deluxe-edition.json](./390533-mlb-the-show-26-digital-deluxe-edition.json) |
+| MLB.com Franchise MVP | 61355 | [61355-mlb-com-franchise-mvp.json](./61355-mlb-com-franchise-mvp.json) |
+| MLB.com Home Run Derby 14 | 61357 | [61357-mlb-com-home-run-derby-14.json](./61357-mlb-com-home-run-derby-14.json) |
 | MLF 2 | 43242 | [43242-mlf-2.json](./43242-mlf-2.json) |
 | MM Garden | 335332 | [335332-mm-garden.json](./335332-mm-garden.json) |
 | MMA Arena | 117047 | [117047-mma-arena.json](./117047-mma-arena.json) |
@@ -6107,6 +6115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musket & Pike: Seven Years War | 132004 | [132004-musket-and-pike-seven-years-war.json](./132004-musket-and-pike-seven-years-war.json) |
 | Musketeer | 365793 | [365793-musketeer.json](./365793-musketeer.json) |
 | Musketeer Growth | 208967 | [208967-musketeer-growth.json](./208967-musketeer-growth.json) |
+| MuSquare | 61315 | [61315-musquare.json](./61315-musquare.json) |
 | Must Flee | 223434 | [223434-must-flee.json](./223434-must-flee.json) |
 | Muster my Monsters | 259074 | [259074-muster-my-monsters.json](./259074-muster-my-monsters.json) |
 | Musuko to Oyome-sama: Wakeari Tsuma ha Jirai-kei Doronuma Story | 240229 | [240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json](./240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json) |
