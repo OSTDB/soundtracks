@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazotoki Suiri! Yuuzai? Muzai? | 251606 | [251606-nazotoki-suiri-yuuzai-muzai.json](./251606-nazotoki-suiri-yuuzai-muzai.json) |
 | Nb107a | 184572 | [184572-nb107a.json](./184572-nb107a.json) |
 | NBA | 100222 | [100222-nba.json](./100222-nba.json) |
+| NBA 08: Featuring the Life - Vol.3 | 43526 | [43526-nba-08-featuring-the-life-vol-3.json](./43526-nba-08-featuring-the-life-vol-3.json) |
 | NBA 2K | 8832 | [8832-nba-2k.json](./8832-nba-2k.json) |
 | NBA 2K Mobile Basketball | 127918 | [127918-nba-2k-mobile-basketball.json](./127918-nba-2k-mobile-basketball.json) |
 | NBA 2K1 | 28836 | [28836-nba-2k1.json](./28836-nba-2k1.json) |
@@ -491,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Basketball 09 | 7109 | [7109-ncaa-basketball-09.json](./7109-ncaa-basketball-09.json) |
 | NCAA Championship Basketball | 69580 | [69580-ncaa-championship-basketball.json](./69580-ncaa-championship-basketball.json) |
 | NCAA College Football 2K3 | 4039 | [4039-ncaa-college-football-2k3.json](./4039-ncaa-college-football-2k3.json) |
+| NCAA College Hoops 2K8 | 43552 | [43552-ncaa-college-hoops-2k8.json](./43552-ncaa-college-hoops-2k8.json) |
 | NCAA Final Four 2004 | 68304 | [68304-ncaa-final-four-2004.json](./68304-ncaa-final-four-2004.json) |
 | NCAA Final Four 99 | 23154 | [23154-ncaa-final-four-99.json](./23154-ncaa-final-four-99.json) |
 | NCAA Football 07 | 5953 | [5953-ncaa-football-07.json](./5953-ncaa-football-07.json) |
@@ -594,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed Unbound: Palace Edition | 220860 | [220860-need-for-speed-unbound-palace-edition.json](./220860-need-for-speed-unbound-palace-edition.json) |
 | Need for Speed: Carbon | 248118 | [248118-need-for-speed-carbon.json](./248118-need-for-speed-carbon.json) |
 | Need for Speed: Carbon | 248123 | [248123-need-for-speed-carbon.json](./248123-need-for-speed-carbon.json) |
+| Need for Speed: Carbon - Collector's Edition | 43494 | [43494-need-for-speed-carbon-collectors-edition.json](./43494-need-for-speed-carbon-collectors-edition.json) |
 | Need for Speed: Carbon - Own the City | 197881 | [197881-need-for-speed-carbon-own-the-city.json](./197881-need-for-speed-carbon-own-the-city.json) |
 | Need for Speed: Carbon - Own the City | 248119 | [248119-need-for-speed-carbon-own-the-city.json](./248119-need-for-speed-carbon-own-the-city.json) |
 | Need for Speed: Carbon - Own the City | 248120 | [248120-need-for-speed-carbon-own-the-city.json](./248120-need-for-speed-carbon-own-the-city.json) |
@@ -2443,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numberic Puzzle Blue | 107133 | [107133-numberic-puzzle-blue.json](./107133-numberic-puzzle-blue.json) |
 | Numberic Puzzle Ocean | 107168 | [107168-numberic-puzzle-ocean.json](./107168-numberic-puzzle-ocean.json) |
 | Numberline | 29724 | [29724-numberline.json](./29724-numberline.json) |
+| Numberline 2 | 43517 | [43517-numberline-2.json](./43517-numberline-2.json) |
 | Numberline 3 | 106580 | [106580-numberline-3.json](./106580-numberline-3.json) |
 | Numbers & Nodes | 329017 | [329017-numbers-and-nodes.json](./329017-numbers-and-nodes.json) |
 | Numbers Destiny | 341489 | [341489-numbers-destiny.json](./341489-numbers-destiny.json) |
