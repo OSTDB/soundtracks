@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Jungle Simulator | 86856 | [86856-ultimate-jungle-simulator.json](./86856-ultimate-jungle-simulator.json) |
 | Ultimate Mah-Jongg | 228410 | [228410-ultimate-mah-jongg.json](./228410-ultimate-mah-jongg.json) |
 | Ultimate MMA | 133385 | [133385-ultimate-mma.json](./133385-ultimate-mma.json) |
+| Ultimate Mortal Kombat 3 | 1621 | [1621-ultimate-mortal-kombat-3.json](./1621-ultimate-mortal-kombat-3.json) |
 | Ultimate Mortal Kombat 3 | 286690 | [286690-ultimate-mortal-kombat-3.json](./286690-ultimate-mortal-kombat-3.json) |
 | Ultimate MotoCross 4 | 227948 | [227948-ultimate-motocross-4.json](./227948-ultimate-motocross-4.json) |
 | Ultimate Motorcycle Simulator | 100826 | [100826-ultimate-motorcycle-simulator.json](./100826-ultimate-motorcycle-simulator.json) |
