@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear the Moon | 294261 | [294261-fear-the-moon.json](./294261-fear-the-moon.json) |
 | Fear the Night | 112973 | [112973-fear-the-night.json](./112973-fear-the-night.json) |
 | Fear the Unknown: Jamie Story | 351601 | [351601-fear-the-unknown-jamie-story.json](./351601-fear-the-unknown-jamie-story.json) |
+| Fear the Walking Dead: Dead Run | 58483 | [58483-fear-the-walking-dead-dead-run.json](./58483-fear-the-walking-dead-dead-run.json) |
 | Fear Virtual | 302098 | [302098-fear-virtual.json](./302098-fear-virtual.json) |
 | Fear: Call of the village. | 190731 | [190731-fear-call-of-the-village.json](./190731-fear-call-of-the-village.json) |
 | Fear: Ghosts of the Past | 295377 | [295377-fear-ghosts-of-the-past.json](./295377-fear-ghosts-of-the-past.json) |
@@ -2539,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipinity | 256357 | [256357-flipinity.json](./256357-flipinity.json) |
 | Fliplomacy | 103399 | [103399-fliplomacy.json](./103399-fliplomacy.json) |
 | Flipnote Studio | 85636 | [85636-flipnote-studio.json](./85636-flipnote-studio.json) |
+| Flipominos | 58467 | [58467-flipominos.json](./58467-flipominos.json) |
 | Flipped | 190737 | [190737-flipped.json](./190737-flipped.json) |
 | Flipped in Love | 143744 | [143744-flipped-in-love.json](./143744-flipped-in-love.json) |
 | Flippen Run Mike | 158689 | [158689-flippen-run-mike.json](./158689-flippen-run-mike.json) |
