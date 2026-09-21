@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle: 1944 | 34600 | [34600-tank-battle-1944.json](./34600-tank-battle-1944.json) |
 | Tank Battle: East Front 1941 | 197886 | [197886-tank-battle-east-front-1941.json](./197886-tank-battle-east-front-1941.json) |
 | Tank Battle: East Front 1943 | 175335 | [175335-tank-battle-east-front-1943.json](./175335-tank-battle-east-front-1943.json) |
+| Tank Battle: Normandy | 46849 | [46849-tank-battle-normandy.json](./46849-tank-battle-normandy.json) |
 | Tank Brigade | 391599 | [391599-tank-brigade.json](./391599-tank-brigade.json) |
 | Tank Buddies | 101523 | [101523-tank-buddies.json](./101523-tank-buddies.json) |
 | Tank Bung | 110965 | [110965-tank-bung.json](./110965-tank-bung.json) |
@@ -873,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tape Recovery Simulator 96K | 152110 | [152110-tape-recovery-simulator-96k.json](./152110-tape-recovery-simulator-96k.json) |
 | Tape To Tape | 190280 | [190280-tape-to-tape.json](./190280-tape-to-tape.json) |
 | Tape Us Out | 332402 | [332402-tape-us-out.json](./332402-tape-us-out.json) |
+| Tape Worm | 46891 | [46891-tape-worm.json](./46891-tape-worm.json) |
 | Tapeçaria | 334711 | [334711-tapecaria.json](./334711-tapecaria.json) |
 | Tapes of Entities | 370204 | [370204-tapes-of-entities.json](./370204-tapes-of-entities.json) |
 | Tapestry | 216327 | [216327-tapestry.json](./216327-tapestry.json) |
@@ -942,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tashio Tempo | 403579 | [403579-tashio-tempo.json](./403579-tashio-tempo.json) |
 | Task Attack | 106957 | [106957-task-attack.json](./106957-task-attack.json) |
 | Task Force | 145462 | [145462-task-force.json](./145462-task-force.json) |
+| Task Force | 46890 | [46890-task-force.json](./46890-task-force.json) |
 | Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
 | Task Force 9 | 261788 | [261788-task-force-9.json](./261788-task-force-9.json) |
 | Task Force Harrier | 40248 | [40248-task-force-harrier.json](./40248-task-force-harrier.json) |
@@ -1960,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alfonzone | 256890 | [256890-the-alfonzone.json](./256890-the-alfonzone.json) |
 | The Alien Trials | 149578 | [149578-the-alien-trials.json](./149578-the-alien-trials.json) |
 | The Alliance Alive HD Remastered | 115989 | [115989-the-alliance-alive-hd-remastered.json](./115989-the-alliance-alive-hd-remastered.json) |
+| The Alligator People | 46893 | [46893-the-alligator-people.json](./46893-the-alligator-people.json) |
 | The Almost Heaven Crisis | 124040 | [124040-the-almost-heaven-crisis.json](./124040-the-almost-heaven-crisis.json) |
 | The Alpha 001 | 168369 | [168369-the-alpha-001.json](./168369-the-alpha-001.json) |
 | The Alpha Wolf | 244258 | [244258-the-alpha-wolf.json](./244258-the-alpha-wolf.json) |
@@ -4373,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: War of Three Peaks | 275925 | [275925-the-lord-of-the-rings-online-war-of-three-peaks.json](./275925-the-lord-of-the-rings-online-war-of-three-peaks.json) |
 | The Lord of the Rings: Adventure Card Game - Definitive Edition | 147962 | [147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json](./147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json) |
 | The Lord of the Rings: Gollum - Precious Edition | 248677 | [248677-the-lord-of-the-rings-gollum-precious-edition.json](./248677-the-lord-of-the-rings-gollum-precious-edition.json) |
+| The Lord of the Rings: Journey to Rivendell | 46888 | [46888-the-lord-of-the-rings-journey-to-rivendell.json](./46888-the-lord-of-the-rings-journey-to-rivendell.json) |
 | The Lord of the Rings: Return to Moria - Ent-craft Pack | 336898 | [336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json](./336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json) |
 | The Lord of the Rings: Rise to War | 174867 | [174867-the-lord-of-the-rings-rise-to-war.json](./174867-the-lord-of-the-rings-rise-to-war.json) |
 | The Lord of the Rings: The Battle for Middle-earth | 3154 | [3154-the-lord-of-the-rings-the-battle-for-middle-earth.json](./3154-the-lord-of-the-rings-the-battle-for-middle-earth.json) |
@@ -5717,6 +5722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super Mario Bros. Super Show: Mario's Greatest Movie Moments - Quiz Game | 325094 | [325094-the-super-mario-bros-super-show-marios-greatest-movie-moments-quiz-game.json](./325094-the-super-mario-bros-super-show-marios-greatest-movie-moments-quiz-game.json) |
 | The Super Mario Bros. Super Show! 64 | 135268 | [135268-the-super-mario-bros-super-show-64.json](./135268-the-super-mario-bros-super-show-64.json) |
 | The Super Robot Bros | 313134 | [313134-the-super-robot-bros.json](./313134-the-super-robot-bros.json) |
+| The Super Spy | 46838 | [46838-the-super-spy.json](./46838-the-super-spy.json) |
 | The Superfluous Sand | 133398 | [133398-the-superfluous-sand.json](./133398-the-superfluous-sand.json) |
 | The Supper | 128289 | [128289-the-supper.json](./128289-the-supper.json) |
 | The Surfeit: Episode 1 | 170497 | [170497-the-surfeit-episode-1.json](./170497-the-surfeit-episode-1.json) |
@@ -10108,6 +10114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick or Treat | 197386 | [197386-trick-or-treat.json](./197386-trick-or-treat.json) |
 | Trick or Treat Halloween Solitaire | 386125 | [386125-trick-or-treat-halloween-solitaire.json](./386125-trick-or-treat-halloween-solitaire.json) |
 | Trick the Ninjalinos | 359438 | [359438-trick-the-ninjalinos.json](./359438-trick-the-ninjalinos.json) |
+| Trick Trap | 46874 | [46874-trick-trap.json](./46874-trick-trap.json) |
 | Trick x Trick | 386689 | [386689-trick-x-trick.json](./386689-trick-x-trick.json) |
 | Trickery&Strategy | 148905 | [148905-trickery-and-strategy.json](./148905-trickery-and-strategy.json) |
 | Trickier Wii | 394343 | [394343-trickier-wii.json](./394343-trickier-wii.json) |
