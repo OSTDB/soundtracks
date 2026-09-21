@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Puppy: Pet Dog Rescue | 221384 | [221384-save-the-puppy-pet-dog-rescue.json](./221384-save-the-puppy-pet-dog-rescue.json) |
 | Save the Reactor | 190174 | [190174-save-the-reactor.json](./190174-save-the-reactor.json) |
 | Save the Villy | 101389 | [101389-save-the-villy.json](./101389-save-the-villy.json) |
+| Save the Whales | 22762 | [22762-save-the-whales.json](./22762-save-the-whales.json) |
 | Save Them | 106536 | [106536-save-them.json](./106536-save-them.json) |
 | Save Your Soul | 370187 | [370187-save-your-soul.json](./370187-save-your-soul.json) |
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
@@ -1097,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Score International Baja 1000 | 7446 | [7446-score-international-baja-1000.json](./7446-score-international-baja-1000.json) |
 | Score Rush Extended | 19854 | [19854-score-rush-extended.json](./19854-score-rush-extended.json) |
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
+| Scorpion | 22729 | [22729-scorpion.json](./22729-scorpion.json) |
 | Scorpion Garrison | 280227 | [280227-scorpion-garrison.json](./280227-scorpion-garrison.json) |
 | Scorpion Overdrive | 193464 | [193464-scorpion-overdrive.json](./193464-scorpion-overdrive.json) |
 | Scorpion's Curse | 295376 | [295376-scorpions-curse.json](./295376-scorpions-curse.json) |
@@ -1331,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Creatures | 112373 | [112373-sea-creatures.json](./112373-sea-creatures.json) |
 | Sea Dogs: Caribbean Tales | 51868 | [51868-sea-dogs-caribbean-tales.json](./51868-sea-dogs-caribbean-tales.json) |
 | Sea Dogs: To Each His Own - Hero of the Nation | 171618 | [171618-sea-dogs-to-each-his-own-hero-of-the-nation.json](./171618-sea-dogs-to-each-his-own-hero-of-the-nation.json) |
+| Sea Dragon | 22767 | [22767-sea-dragon.json](./22767-sea-dragon.json) |
 | Sea Fever | 270759 | [270759-sea-fever.json](./270759-sea-fever.json) |
 | Sea Fighter Poseidon | 40409 | [40409-sea-fighter-poseidon.json](./40409-sea-fighter-poseidon.json) |
 | Sea Fishing Simulator | 129741 | [129741-sea-fishing-simulator.json](./129741-sea-fishing-simulator.json) |
@@ -1947,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serpent of Isis: Your Journey Continues | 89291 | [89291-serpent-of-isis-your-journey-continues.json](./89291-serpent-of-isis-your-journey-continues.json) |
 | Serpent Squad | 402273 | [402273-serpent-squad.json](./402273-serpent-squad.json) |
 | Serpent Wine | 332401 | [332401-serpent-wine.json](./332401-serpent-wine.json) |
+| Serpentine | 22769 | [22769-serpentine.json](./22769-serpentine.json) |
 | Serpy | 78054 | [78054-serpy.json](./78054-serpy.json) |
 | Serra Pelada | 80551 | [80551-serra-pelada.json](./80551-serra-pelada.json) |
 | Serum X | 95229 | [95229-serum-x.json](./95229-serum-x.json) |
@@ -7517,6 +7521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Car Challenge 2 | 233243 | [233243-sports-car-challenge-2.json](./233243-sports-car-challenge-2.json) |
 | Sports Car Driver | 187493 | [187493-sports-car-driver.json](./187493-sports-car-driver.json) |
 | Sports Car Driving Simulator 2018 | 100867 | [100867-sports-car-driving-simulator-2018.json](./100867-sports-car-driving-simulator-2018.json) |
+| Sports Car GT | 22822 | [22822-sports-car-gt.json](./22822-sports-car-gt.json) |
 | Sports Car Track Racers - Real Sports Car Driving Racing With Amazing Tracks | 87529 | [87529-sports-car-track-racers-real-sports-car-driving-racing-with-amazing-tracks.json](./87529-sports-car-track-racers-real-sports-car-driving-racing-with-amazing-tracks.json) |
 | Sports Challenge: 65 Games Edition | 381708 | [381708-sports-challenge-65-games-edition.json](./381708-sports-challenge-65-games-edition.json) |
 | Sports Champions | 18237 | [18237-sports-champions.json](./18237-sports-champions.json) |
@@ -7736,6 +7741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squeakers II | 148370 | [148370-squeakers-ii.json](./148370-squeakers-ii.json) |
 | Squeakross: Free Content Update | 392279 | [392279-squeakross-free-content-update.json](./392279-squeakross-free-content-update.json) |
 | Squeen's Adventure 3: Across The Cosmos | 242255 | [242255-squeens-adventure-3-across-the-cosmos.json](./242255-squeens-adventure-3-across-the-cosmos.json) |
+| Squeeze Box | 22802 | [22802-squeeze-box.json](./22802-squeeze-box.json) |
 | Squeezils | 206708 | [206708-squeezils.json](./206708-squeezils.json) |
 | Squeezone | 31709 | [31709-squeezone.json](./31709-squeezone.json) |
 | Squewe Run | 312884 | [312884-squewe-run.json](./312884-squewe-run.json) |
@@ -9552,6 +9558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strongloween: The Escape | 192424 | [192424-strongloween-the-escape.json](./192424-strongloween-the-escape.json) |
 | Strontium Dog and the Death Gauntlet | 313333 | [313333-strontium-dog-and-the-death-gauntlet.json](./313333-strontium-dog-and-the-death-gauntlet.json) |
 | Strontium Dog: The Killing | 38924 | [38924-strontium-dog-the-killing.json](./38924-strontium-dog-the-killing.json) |
+| Struckd | 22750 | [22750-struckd.json](./22750-struckd.json) |
 | Struckd: 3D Game Creator | 80940 | [80940-struckd-3d-game-creator.json](./80940-struckd-3d-game-creator.json) |
 | Structura | 150504 | [150504-structura.json](./150504-structura.json) |
 | Structus | 192324 | [192324-structus.json](./192324-structus.json) |
@@ -11484,6 +11491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving with a Bat | 277824 | [277824-surviving-with-a-bat.json](./277824-surviving-with-a-bat.json) |
 | Survivium | 408938 | [408938-survivium.json](./408938-survivium.json) |
 | Survivor | 155085 | [155085-survivor.json](./155085-survivor.json) |
+| Survivor | 22801 | [22801-survivor.json](./22801-survivor.json) |
 | Survivor Cells | 199590 | [199590-survivor-cells.json](./199590-survivor-cells.json) |
 | Survivor Cells: Virusbane | 310389 | [310389-survivor-cells-virusbane.json](./310389-survivor-cells-virusbane.json) |
 | Survivor Challenge TD | 276158 | [276158-survivor-challenge-td.json](./276158-survivor-challenge-td.json) |
