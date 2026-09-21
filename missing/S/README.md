@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search | 250425 | [250425-search.json](./250425-search.json) |
 | Search & Destroy | 43347 | [43347-search-and-destroy.json](./43347-search-and-destroy.json) |
 | Search & Find: Hidden Objects | 264637 | [264637-search-and-find-hidden-objects.json](./264637-search-and-find-hidden-objects.json) |
+| Search & Rescue 4: Coastal Heroes | 50114 | [50114-search-and-rescue-4-coastal-heroes.json](./50114-search-and-rescue-4-coastal-heroes.json) |
 | Search 4 Bigfoot | 213460 | [213460-search-4-bigfoot.json](./213460-search-4-bigfoot.json) |
 | Search All: Balls | 291475 | [291475-search-all-balls.json](./291475-search-all-balls.json) |
 | Search All: Berries | 192377 | [192377-search-all-berries.json](./192377-search-all-berries.json) |
@@ -4312,6 +4313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slenderman History: WWII Faceless Horror | 321165 | [321165-slenderman-history-wwii-faceless-horror.json](./321165-slenderman-history-wwii-faceless-horror.json) |
 | Slenderman Must Die: Survivors | 321122 | [321122-slenderman-must-die-survivors.json](./321122-slenderman-must-die-survivors.json) |
 | Slenderman Saw Game | 385596 | [385596-slenderman-saw-game.json](./385596-slenderman-saw-game.json) |
+| Slenderman's Shadow 7th Street | 50163 | [50163-slendermans-shadow-7th-street.json](./50163-slendermans-shadow-7th-street.json) |
 | Slendr | 64361 | [64361-slendr.json](./64361-slendr.json) |
 | Slendrina | 233774 | [233774-slendrina.json](./233774-slendrina.json) |
 | Slendrina Must Die: The Asylum | 321384 | [321384-slendrina-must-die-the-asylum.json](./321384-slendrina-must-die-the-asylum.json) |
@@ -8938,6 +8940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop! Fill-in-the-Blank Word Game | 217979 | [217979-stop-fill-in-the-blank-word-game.json](./217979-stop-fill-in-the-blank-word-game.json) |
 | Stop10 | 292156 | [292156-stop10.json](./292156-stop10.json) |
 | Stoplights | 392140 | [392140-stoplights.json](./392140-stoplights.json) |
+| Stopots | 50157 | [50157-stopots.json](./50157-stopots.json) |
 | Stopping Santa | 335240 | [335240-stopping-santa.json](./335240-stopping-santa.json) |
 | StopSign | 167253 | [167253-stopsign.json](./167253-stopsign.json) |
 | Storage Anomaly | 325821 | [325821-storage-anomaly.json](./325821-storage-anomaly.json) |
@@ -9441,6 +9444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Drifters | 124604 | [124604-stunt-drifters.json](./124604-stunt-drifters.json) |
 | Stunt Driver Collection | 328478 | [328478-stunt-driver-collection.json](./328478-stunt-driver-collection.json) |
 | Stunt Flyer | 66617 | [66617-stunt-flyer.json](./66617-stunt-flyer.json) |
+| Stunt Island | 50113 | [50113-stunt-island.json](./50113-stunt-island.json) |
 | Stunt Legends | 219583 | [219583-stunt-legends.json](./219583-stunt-legends.json) |
 | Stunt Master | 337190 | [337190-stunt-master.json](./337190-stunt-master.json) |
 | Stunt Paradise 2 | 389435 | [389435-stunt-paradise-2.json](./389435-stunt-paradise-2.json) |
@@ -9482,6 +9486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Battle Simulator | 37162 | [37162-sub-battle-simulator.json](./37162-sub-battle-simulator.json) |
 | Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
 | Sub Chase Online | 211200 | [211200-sub-chase-online.json](./211200-sub-chase-online.json) |
+| Sub Culture | 50135 | [50135-sub-culture.json](./50135-sub-culture.json) |
 | Sub Duel | 97352 | [97352-sub-duel.json](./97352-sub-duel.json) |
 | Sub Four: The Uncle | 110146 | [110146-sub-four-the-uncle.json](./110146-sub-four-the-uncle.json) |
 | Sub Game | 316079 | [316079-sub-game.json](./316079-sub-game.json) |
@@ -11828,6 +11833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthbiotic Dungeon | 147286 | [147286-synthbiotic-dungeon.json](./147286-synthbiotic-dungeon.json) |
 | Synther | 99008 | [99008-synther.json](./99008-synther.json) |
 | Syntherapy | 139473 | [139473-syntherapy.json](./139473-syntherapy.json) |
+| Synthesia | 50109 | [50109-synthesia.json](./50109-synthesia.json) |
 | Synthetic Dreams | 51977 | [51977-synthetic-dreams.json](./51977-synthetic-dreams.json) |
 | Synthetic Fantasy; | 277581 | [277581-synthetic-fantasy.json](./277581-synthetic-fantasy.json) |
 | Synthetic Soul | 276159 | [276159-synthetic-soul.json](./276159-synthetic-soul.json) |
