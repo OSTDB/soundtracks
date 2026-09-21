@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CD-Run | 127226 | [127226-cd-run.json](./127226-cd-run.json) |
 | CDF Ghostship | 16844 | [16844-cdf-ghostship.json](./16844-cdf-ghostship.json) |
 | CDL for a UFO | 386115 | [386115-cdl-for-a-ufo.json](./386115-cdl-for-a-ufo.json) |
+| Ceasing to be Her Demise | 57908 | [57908-ceasing-to-be-her-demise.json](./57908-ceasing-to-be-her-demise.json) |
 | Cebus | 400341 | [400341-cebus.json](./400341-cebus.json) |
 | Cecco Collection | 138018 | [138018-cecco-collection.json](./138018-cecco-collection.json) |
 | Ceci and the Gnomes | 207812 | [207812-ceci-and-the-gnomes.json](./207812-ceci-and-the-gnomes.json) |
@@ -1781,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Brave Village | 298693 | [298693-chaos-brave-village.json](./298693-chaos-brave-village.json) |
 | Chaos Breaker | 76597 | [76597-chaos-breaker.json](./76597-chaos-breaker.json) |
 | Chaos Caves | 113680 | [113680-chaos-caves.json](./113680-chaos-caves.json) |
+| Chaos Chronicle | 57893 | [57893-chaos-chronicle.json](./57893-chaos-chronicle.json) |
 | Chaos Code: Exact Xeno Attack | 348232 | [348232-chaos-code-exact-xeno-attack.json](./348232-chaos-code-exact-xeno-attack.json) |
 | Chaos Coin | 363951 | [363951-chaos-coin.json](./363951-chaos-coin.json) |
 | Chaos Control | 325843 | [325843-chaos-control.json](./325843-chaos-control.json) |
@@ -2223,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of Birch | 391213 | [391213-children-of-birch.json](./391213-children-of-birch.json) |
 | Children of Morta: Complete Edition | 175878 | [175878-children-of-morta-complete-edition.json](./175878-children-of-morta-complete-edition.json) |
 | Children of Orc | 30920 | [30920-children-of-orc.json](./30920-children-of-orc.json) |
+| Children of the Gate | 57902 | [57902-children-of-the-gate.json](./57902-children-of-the-gate.json) |
 | Children of the Sun | 284925 | [284925-children-of-the-sun.json](./284925-children-of-the-sun.json) |
 | Children of the World | 256901 | [256901-children-of-the-world.json](./256901-children-of-the-world.json) |
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
@@ -4140,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condor | 47268 | [47268-condor.json](./47268-condor.json) |
 | Conductor | 179599 | [179599-conductor.json](./179599-conductor.json) |
 | Conductor Cat | 335364 | [335364-conductor-cat.json](./335364-conductor-cat.json) |
+| Cone Wars | 57918 | [57918-cone-wars.json](./57918-cone-wars.json) |
 | Coneru: Dimension Girl | 267466 | [267466-coneru-dimension-girl.json](./267466-coneru-dimension-girl.json) |
 | Cones in Space | 254771 | [254771-cones-in-space.json](./254771-cones-in-space.json) |
 | Conexus | 202920 | [202920-conexus.json](./202920-conexus.json) |
@@ -5298,6 +5302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent Quest: Y2K Home Expansion | 276850 | [276850-crescent-quest-y2k-home-expansion.json](./276850-crescent-quest-y2k-home-expansion.json) |
 | Crescent Satsujin Jiken: Hyena no Jijou | 273446 | [273446-crescent-satsujin-jiken-hyena-no-jijou.json](./273446-crescent-satsujin-jiken-hyena-no-jijou.json) |
 | Crescite | 262096 | [262096-crescite.json](./262096-crescite.json) |
+| Crest of the Stars | 57940 | [57940-crest-of-the-stars.json](./57940-crest-of-the-stars.json) |
 | Cresteaju | 143094 | [143094-cresteaju.json](./143094-cresteaju.json) |
 | Crevis | 59413 | [59413-crevis.json](./59413-crevis.json) |
 | Crew Crew Blocks | 150162 | [150162-crew-crew-blocks.json](./150162-crew-crew-blocks.json) |
