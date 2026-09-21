@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T05:47:36.190Z",
-  "total_missing": 100471,
+  "generated_at": "2026-09-21T06:02:22.616Z",
+  "total_missing": 100521,
   "games": [
     {
       "igdb_id": 176875,
@@ -71403,6 +71403,11 @@
       "file": "missing/C/71219-chocobo-collection.json"
     },
     {
+      "igdb_id": 49559,
+      "game_name": "Chocobo Land: A Game of Dice",
+      "file": "missing/C/49559-chocobo-land-a-game-of-dice.json"
+    },
+    {
       "igdb_id": 120789,
       "game_name": "Chocolat Rush",
       "file": "missing/C/120789-chocolat-rush.json"
@@ -73446,6 +73451,11 @@
       "igdb_id": 295008,
       "game_name": "Cinnabunny",
       "file": "missing/C/295008-cinnabunny.json"
+    },
+    {
+      "igdb_id": 49558,
+      "game_name": "Cinnamon: Yume no Daibouken",
+      "file": "missing/C/49558-cinnamon-yume-no-daibouken.json"
     },
     {
       "igdb_id": 240908,
@@ -110828,6 +110838,11 @@
       "file": "missing/D/43966-dokodemo-mahjong.json"
     },
     {
+      "igdb_id": 49586,
+      "game_name": "Dokodemo Taikyoku: Yakuman Advance",
+      "file": "missing/D/49586-dokodemo-taikyoku-yakuman-advance.json"
+    },
+    {
       "igdb_id": 370805,
       "game_name": "Doku Girls 3",
       "file": "missing/D/370805-doku-girls-3.json"
@@ -111896,6 +111911,11 @@
       "igdb_id": 57631,
       "game_name": "Donald's Alphabet Chase",
       "file": "missing/D/57631-donalds-alphabet-chase.json"
+    },
+    {
+      "igdb_id": 49585,
+      "game_name": "Donchan Puzzle Hanabi de Dohn Advance",
+      "file": "missing/D/49585-donchan-puzzle-hanabi-de-dohn-advance.json"
     },
     {
       "igdb_id": 307769,
@@ -117103,6 +117123,11 @@
       "file": "missing/D/333010-dream-life-in-the-country-side.json"
     },
     {
+      "igdb_id": 49608,
+      "game_name": "Dream Management",
+      "file": "missing/D/49608-dream-management.json"
+    },
+    {
       "igdb_id": 339127,
       "game_name": "Dream Management Company",
       "file": "missing/D/339127-dream-management-company.json"
@@ -119626,6 +119651,16 @@
       "igdb_id": 75770,
       "game_name": "Duel Jousting",
       "file": "missing/D/75770-duel-jousting.json"
+    },
+    {
+      "igdb_id": 49583,
+      "game_name": "Duel Masters 2 - Kirifuda Shoubu Ver.",
+      "file": "missing/D/49583-duel-masters-2-kirifuda-shoubu-ver.json"
+    },
+    {
+      "igdb_id": 49584,
+      "game_name": "Duel Masters 2: Invincible Advance",
+      "file": "missing/D/49584-duel-masters-2-invincible-advance.json"
     },
     {
       "igdb_id": 49402,
@@ -135538,6 +135573,11 @@
       "file": "missing/E/324878-eyes-that-hypnotise.json"
     },
     {
+      "igdb_id": 49582,
+      "game_name": "Eyeshield 21: DevilBats DevilDays",
+      "file": "missing/E/49582-eyeshield-21-devilbats-devildays.json"
+    },
+    {
       "igdb_id": 72994,
       "game_name": "Eyeshield 21: Field no Saikyou Senshi-tachi",
       "file": "missing/E/72994-eyeshield-21-field-no-saikyou-senshi-tachi.json"
@@ -138263,6 +138303,11 @@
       "file": "missing/F/239162-family-tennis.json"
     },
     {
+      "igdb_id": 49581,
+      "game_name": "Family Tennis Advance",
+      "file": "missing/F/49581-family-tennis-advance.json"
+    },
+    {
       "igdb_id": 219265,
       "game_name": "Family Town",
       "file": "missing/F/219265-family-town.json"
@@ -138296,6 +138341,11 @@
       "igdb_id": 95372,
       "game_name": "Famista 3",
       "file": "missing/F/95372-famista-3.json"
+    },
+    {
+      "igdb_id": 49580,
+      "game_name": "Famista Advance",
+      "file": "missing/F/49580-famista-advance.json"
     },
     {
       "igdb_id": 252158,
@@ -138376,6 +138426,11 @@
       "igdb_id": 66370,
       "game_name": "Fancy Nancy: Tea Party Time!",
       "file": "missing/F/66370-fancy-nancy-tea-party-time.json"
+    },
+    {
+      "igdb_id": 49579,
+      "game_name": "Fancy Pocket",
+      "file": "missing/F/49579-fancy-pocket.json"
     },
     {
       "igdb_id": 105312,
@@ -138523,6 +138578,11 @@
       "file": "missing/F/70407-fantastic-4-in-a-row-hd.json"
     },
     {
+      "igdb_id": 49578,
+      "game_name": "Fantastic Children",
+      "file": "missing/F/49578-fantastic-children.json"
+    },
+    {
       "igdb_id": 12089,
       "game_name": "Fantastic Dizzy",
       "file": "missing/F/12089-fantastic-dizzy.json"
@@ -138566,6 +138626,11 @@
       "igdb_id": 120421,
       "game_name": "Fantastic Kingdom",
       "file": "missing/F/120421-fantastic-kingdom.json"
+    },
+    {
+      "igdb_id": 49577,
+      "game_name": "Fantastic Marchen: Cake-ya-san Monogatari + Doubutsu Chara Navi Uranai Kosei Shinri Gaku",
+      "file": "missing/F/49577-fantastic-marchen-cake-ya-san-monogatari-doubutsu-chara-navi-uranai-kosei-shinri-gaku.json"
     },
     {
       "igdb_id": 119021,
@@ -142281,6 +142346,11 @@
       "igdb_id": 154941,
       "game_name": "Field of Glory: Empires - Persia 550-330 BCE",
       "file": "missing/F/154941-field-of-glory-empires-persia-550-330-bce.json"
+    },
+    {
+      "igdb_id": 49576,
+      "game_name": "Field of Nine: Digital Edition 2001",
+      "file": "missing/F/49576-field-of-nine-digital-edition-2001.json"
     },
     {
       "igdb_id": 392145,
@@ -151903,6 +151973,11 @@
       "file": "missing/F/258690-formation.json"
     },
     {
+      "igdb_id": 49575,
+      "game_name": "Formation Soccer 2002",
+      "file": "missing/F/49575-formation-soccer-2002.json"
+    },
+    {
       "igdb_id": 65179,
       "game_name": "Formation Soccer 95: della Serie A",
       "file": "missing/F/65179-formation-soccer-95-della-serie-a.json"
@@ -156323,6 +156398,11 @@
       "file": "missing/F/413618-fruits-of-fury.json"
     },
     {
+      "igdb_id": 49572,
+      "game_name": "Fruits-mura no Doubutsu-tachi",
+      "file": "missing/F/49572-fruits-mura-no-doubutsu-tachi.json"
+    },
+    {
       "igdb_id": 183017,
       "game_name": "Fruitwolf",
       "file": "missing/F/183017-fruitwolf.json"
@@ -156791,6 +156871,11 @@
       "igdb_id": 181352,
       "game_name": "Full Voice Throttle",
       "file": "missing/F/181352-full-voice-throttle.json"
+    },
+    {
+      "igdb_id": 49594,
+      "game_name": "Fullmetal Alchemist: Omoide no Sonata",
+      "file": "missing/F/49594-fullmetal-alchemist-omoide-no-sonata.json"
     },
     {
       "igdb_id": 62757,
@@ -157833,6 +157918,16 @@
       "file": "missing/F/206943-fushigi-no-gensoukyou-another-face.json"
     },
     {
+      "igdb_id": 49571,
+      "game_name": "Fushigi no Kuni no Alice",
+      "file": "missing/F/49571-fushigi-no-kuni-no-alice.json"
+    },
+    {
+      "igdb_id": 49570,
+      "game_name": "Fushigi no Kuni no Angelique",
+      "file": "missing/F/49570-fushigi-no-kuni-no-angelique.json"
+    },
+    {
       "igdb_id": 385710,
       "game_name": "Fushigi no Umi no Nadia: Gekichin! Garfish",
       "file": "missing/F/385710-fushigi-no-umi-no-nadia-gekichin-garfish.json"
@@ -157998,6 +158093,11 @@
       "file": "missing/F/97718-futari-ha-haipuri.json"
     },
     {
+      "igdb_id": 49569,
+      "game_name": "Futari ha Precure: Arienai! Yume no Sono ha Daimeikyuu",
+      "file": "missing/F/49569-futari-ha-precure-arienai-yume-no-sono-ha-daimeikyuu.json"
+    },
+    {
       "igdb_id": 327580,
       "game_name": "Futari ha Pretty Cure Splash Star",
       "file": "missing/F/327580-futari-ha-pretty-cure-splash-star.json"
@@ -158006,6 +158106,11 @@
       "igdb_id": 168329,
       "game_name": "Futari ha Pretty Cure Splash Star: Panpaka Game de Zekkou-chou!",
       "file": "missing/F/168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json"
+    },
+    {
+      "igdb_id": 49568,
+      "game_name": "Futari wa Precure Max Heart: Maji? Maji!? Fight de IN Janai",
+      "file": "missing/F/49568-futari-wa-precure-max-heart-maji-maji-fight-de-in-janai.json"
     },
     {
       "igdb_id": 310210,
@@ -158713,6 +158818,11 @@
       "file": "missing/G/86314-gachimuchi-reloaded.json"
     },
     {
+      "igdb_id": 49567,
+      "game_name": "Gachinko Pro Yakyuu",
+      "file": "missing/G/49567-gachinko-pro-yakyuu.json"
+    },
+    {
       "igdb_id": 250446,
       "game_name": "Gadget Racers",
       "file": "missing/G/250446-gadget-racers.json"
@@ -158883,9 +158993,19 @@
       "file": "missing/G/212261-gakkou-de-atta-koii-hanashi.json"
     },
     {
+      "igdb_id": 49566,
+      "game_name": "Gakkou no Kaidan: Hyakuyoubako no Fuuin",
+      "file": "missing/G/49566-gakkou-no-kaidan-hyakuyoubako-no-fuuin.json"
+    },
+    {
       "igdb_id": 363956,
       "game_name": "Gakkou wo Tsukurou!! 2",
       "file": "missing/G/363956-gakkou-wo-tsukurou-2.json"
+    },
+    {
+      "igdb_id": 49565,
+      "game_name": "Gakkou wo Tsukurou!! Advance",
+      "file": "missing/G/49565-gakkou-wo-tsukurou-advance.json"
     },
     {
       "igdb_id": 281423,
@@ -158896,6 +159016,11 @@
       "igdb_id": 130351,
       "game_name": "Gakkyuu-ou Yamazaki: Yamazaki Oukoku Daifunsou!",
       "file": "missing/G/130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json"
+    },
+    {
+      "igdb_id": 49564,
+      "game_name": "Gakuen Alice: Doki-doki Fushigi Taiken",
+      "file": "missing/G/49564-gakuen-alice-doki-doki-fushigi-taiken.json"
     },
     {
       "igdb_id": 70676,
@@ -158936,6 +159061,11 @@
       "igdb_id": 251188,
       "game_name": "Gakuen Senki",
       "file": "missing/G/251188-gakuen-senki.json"
+    },
+    {
+      "igdb_id": 49563,
+      "game_name": "Gakuen Senki Muryou",
+      "file": "missing/G/49563-gakuen-senki-muryou.json"
     },
     {
       "igdb_id": 322189,
@@ -159616,6 +159746,11 @@
       "igdb_id": 70414,
       "game_name": "Galaxy Angel",
       "file": "missing/G/70414-galaxy-angel.json"
+    },
+    {
+      "igdb_id": 49562,
+      "game_name": "Galaxy Angel Game Boy Advance: Moridakusan Tenshi no Full Course Okawari Jiyuu",
+      "file": "missing/G/49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json"
     },
     {
       "igdb_id": 79291,
@@ -161008,6 +161143,11 @@
       "file": "missing/G/43970-ganbare-neo-poke-kun.json"
     },
     {
+      "igdb_id": 49610,
+      "game_name": "Ganbare! Dodge Fighters",
+      "file": "missing/G/49610-ganbare-dodge-fighters.json"
+    },
+    {
       "igdb_id": 283265,
       "game_name": "Gang Blast",
       "file": "missing/G/283265-gang-blast.json"
@@ -162218,6 +162358,11 @@
       "file": "missing/G/64108-gegege-no-kitaro-ibun-yokai-kitan.json"
     },
     {
+      "igdb_id": 49609,
+      "game_name": "GeGeGe no Kitaro: Kiki Ippatsu! Yokai Rettou",
+      "file": "missing/G/49609-gegege-no-kitaro-kiki-ippatsu-yokai-rettou.json"
+    },
+    {
       "igdb_id": 64110,
       "game_name": "GeGeGe no Kitaro: Maboroshi Fuyu Kaikitan",
       "file": "missing/G/64110-gegege-no-kitaro-maboroshi-fuyu-kaikitan.json"
@@ -163138,6 +163283,11 @@
       "file": "missing/G/97282-gensei-suikoden.json"
     },
     {
+      "igdb_id": 49607,
+      "game_name": "Genseijin Justirisers",
+      "file": "missing/G/49607-genseijin-justirisers.json"
+    },
+    {
       "igdb_id": 378320,
       "game_name": "Genshin Impact: A Nocturne of the Far North",
       "file": "missing/G/378320-genshin-impact-a-nocturne-of-the-far-north.json"
@@ -163231,6 +163381,11 @@
       "igdb_id": 311149,
       "game_name": "Gensokyo: Presumption of Guilt - Pansies Before Dawn",
       "file": "missing/G/311149-gensokyo-presumption-of-guilt-pansies-before-dawn.json"
+    },
+    {
+      "igdb_id": 49606,
+      "game_name": "Gensou Maden Saiyuuki: Hangyaku no Toshin Taishi",
+      "file": "missing/G/49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json"
     },
     {
       "igdb_id": 388734,
@@ -163868,6 +164023,16 @@
       "file": "missing/G/401523-get-rid-of-those-corners.json"
     },
     {
+      "igdb_id": 49605,
+      "game_name": "Get Ride! AMDriver: Senkou no Hero Tanjou",
+      "file": "missing/G/49605-get-ride-amdriver-senkou-no-hero-tanjou.json"
+    },
+    {
+      "igdb_id": 49604,
+      "game_name": "Get Ride! AMDriver: Shutsugeki! Battle Party",
+      "file": "missing/G/49604-get-ride-amdriver-shutsugeki-battle-party.json"
+    },
+    {
       "igdb_id": 169863,
       "game_name": "Get Tanked!",
       "file": "missing/G/169863-get-tanked.json"
@@ -163948,6 +164113,11 @@
       "file": "missing/G/180124-get-the-key.json"
     },
     {
+      "igdb_id": 49603,
+      "game_name": "GET! Boku no Mushi Tsukamaete",
+      "file": "missing/G/49603-get-boku-no-mushi-tsukamaete.json"
+    },
+    {
       "igdb_id": 57925,
       "game_name": "Getamped 2",
       "file": "missing/G/57925-getamped-2.json"
@@ -163976,6 +164146,21 @@
       "igdb_id": 78981,
       "game_name": "Getaway!",
       "file": "missing/G/78981-getaway.json"
+    },
+    {
+      "igdb_id": 49602,
+      "game_name": "GetBackers Dakkanya: Jagan Fuuin!",
+      "file": "missing/G/49602-getbackers-dakkanya-jagan-fuuin.json"
+    },
+    {
+      "igdb_id": 49601,
+      "game_name": "GetBackers Dakkanya: Jigoku no Scaramouche",
+      "file": "missing/G/49601-getbackers-dakkanya-jigoku-no-scaramouche.json"
+    },
+    {
+      "igdb_id": 49600,
+      "game_name": "GetBackers Dakkanya: Metropolis Dakkan Sakusen!",
+      "file": "missing/G/49600-getbackers-dakkanya-metropolis-dakkan-sakusen.json"
     },
     {
       "igdb_id": 61658,
@@ -164451,6 +164636,11 @@
       "igdb_id": 208607,
       "game_name": "Ghost Trap",
       "file": "missing/G/208607-ghost-trap.json"
+    },
+    {
+      "igdb_id": 49599,
+      "game_name": "Ghost Trap",
+      "file": "missing/G/49599-ghost-trap.json"
     },
     {
       "igdb_id": 264694,
@@ -167936,6 +168126,11 @@
       "igdb_id": 3507,
       "game_name": "Goemon: Mononoke Sugoroku",
       "file": "missing/G/3507-goemon-mononoke-sugoroku.json"
+    },
+    {
+      "igdb_id": 49598,
+      "game_name": "Goemon: New Age Shutsudou!",
+      "file": "missing/G/49598-goemon-new-age-shutsudou.json"
     },
     {
       "igdb_id": 376569,
@@ -173338,6 +173533,11 @@
       "file": "missing/G/115695-groomer.json"
     },
     {
+      "igdb_id": 49597,
+      "game_name": "Groove Adventure Rave: Hikari to Yami no Daikessen",
+      "file": "missing/G/49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json"
+    },
+    {
       "igdb_id": 171583,
       "game_name": "Groove Catcher",
       "file": "missing/G/171583-groove-catcher.json"
@@ -175963,6 +176163,11 @@
       "file": "missing/G/296948-guragura-oden.json"
     },
     {
+      "igdb_id": 49596,
+      "game_name": "Guranbo",
+      "file": "missing/G/49596-guranbo.json"
+    },
+    {
       "igdb_id": 235913,
       "game_name": "Gurei",
       "file": "missing/G/235913-gurei.json"
@@ -176471,6 +176676,11 @@
       "igdb_id": 40182,
       "game_name": "Hacha Mecha Fighter",
       "file": "missing/H/40182-hacha-mecha-fighter.json"
+    },
+    {
+      "igdb_id": 49595,
+      "game_name": "Hachiemon",
+      "file": "missing/H/49595-hachiemon.json"
     },
     {
       "igdb_id": 2875,
@@ -177858,6 +178068,11 @@
       "file": "missing/H/38365-hameln-no-violin-hiki.json"
     },
     {
+      "igdb_id": 49593,
+      "game_name": "Hamepane Tokyo Mew Mew",
+      "file": "missing/H/49593-hamepane-tokyo-mew-mew.json"
+    },
+    {
       "igdb_id": 70124,
       "game_name": "Hametsu no Mars",
       "file": "missing/H/70124-hametsu-no-mars.json"
@@ -178018,6 +178233,11 @@
       "file": "missing/H/281543-hamster-club-2.json"
     },
     {
+      "igdb_id": 49592,
+      "game_name": "Hamster Club 4: Shigessa Daidassou",
+      "file": "missing/H/49592-hamster-club-4-shigessa-daidassou.json"
+    },
+    {
       "igdb_id": 143657,
       "game_name": "Hamster Club-i",
       "file": "missing/H/143657-hamster-club-i.json"
@@ -178048,6 +178268,16 @@
       "file": "missing/H/330556-hamster-hunter-rodent-rampage.json"
     },
     {
+      "igdb_id": 49591,
+      "game_name": "Hamster Monogatari 2 GBA",
+      "file": "missing/H/49591-hamster-monogatari-2-gba.json"
+    },
+    {
+      "igdb_id": 49590,
+      "game_name": "Hamster Monogatari 3 GBA",
+      "file": "missing/H/49590-hamster-monogatari-3-gba.json"
+    },
+    {
       "igdb_id": 97817,
       "game_name": "Hamster Monogatari 3, 4, Special",
       "file": "missing/H/97817-hamster-monogatari-3-4-special.json"
@@ -178056,6 +178286,11 @@
       "igdb_id": 3509,
       "game_name": "Hamster Monogatari 64",
       "file": "missing/H/3509-hamster-monogatari-64.json"
+    },
+    {
+      "igdb_id": 49589,
+      "game_name": "Hamster Monogatari Collection",
+      "file": "missing/H/49589-hamster-monogatari-collection.json"
     },
     {
       "igdb_id": 97853,
@@ -178081,6 +178316,16 @@
       "igdb_id": 281547,
       "game_name": "Hamster Paradise 4",
       "file": "missing/H/281547-hamster-paradise-4.json"
+    },
+    {
+      "igdb_id": 49587,
+      "game_name": "Hamster Paradise: Advanchu",
+      "file": "missing/H/49587-hamster-paradise-advanchu.json"
+    },
+    {
+      "igdb_id": 49588,
+      "game_name": "Hamster Paradise: Pure Heart",
+      "file": "missing/H/49588-hamster-paradise-pure-heart.json"
     },
     {
       "igdb_id": 125655,
@@ -336381,6 +336626,11 @@
       "igdb_id": 198227,
       "game_name": "Red Matter 2",
       "file": "missing/R/198227-red-matter-2.json"
+    },
+    {
+      "igdb_id": 49561,
+      "game_name": "Red Max",
+      "file": "missing/R/49561-red-max.json"
     },
     {
       "igdb_id": 129127,
