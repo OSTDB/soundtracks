@@ -346,9 +346,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1953: NATO vs Warsaw Pact | 17886 | [17886-1953-nato-vs-warsaw-pact.json](./17886-1953-nato-vs-warsaw-pact.json) |
 | 1971: Indian Naval Front | 110956 | [110956-1971-indian-naval-front.json](./110956-1971-indian-naval-front.json) |
 | 1977: Radio Aut | 135236 | [135236-1977-radio-aut.json](./135236-1977-radio-aut.json) |
+| 1979 Revolution: Black Friday | 14360 | [14360-1979-revolution-black-friday.json](./14360-1979-revolution-black-friday.json) |
 | 1983, 18th Floor | 406096 | [406096-1983-18th-floor.json](./406096-1983-18th-floor.json) |
 | 1984 | 247611 | [247611-1984.json](./247611-1984.json) |
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
+| 198X | 100562 | [100562-198x.json](./100562-198x.json) |
 | 1993 Space Machine | 19390 | [19390-1993-space-machine.json](./19390-1993-space-machine.json) |
 | 1995Card+ | 295238 | [295238-1995card.json](./295238-1995card.json) |
 | 1998 | 178550 | [178550-1998.json](./178550-1998.json) |
