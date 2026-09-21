@@ -4792,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake | 305744 | [305744-snake.json](./305744-snake.json) |
 | Snake | 307608 | [307608-snake.json](./307608-snake.json) |
 | Snake | 377165 | [377165-snake.json](./377165-snake.json) |
+| Snake & Snake | 56756 | [56756-snake-and-snake.json](./56756-snake-and-snake.json) |
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
 | Snake Battle | 111657 | [111657-snake-battle.json](./111657-snake-battle.json) |
 | Snake Blocks | 36025 | [36025-snake-blocks.json](./36025-snake-blocks.json) |
@@ -5550,6 +5551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 1 Pilot | 337708 | [337708-sonic-1-pilot.json](./337708-sonic-1-pilot.json) |
 | Sonic 1 Spike Bug Fix & Spindash | 198532 | [198532-sonic-1-spike-bug-fix-and-spindash.json](./198532-sonic-1-spike-bug-fix-and-spindash.json) |
 | Sonic 1: South Island Expedition | 215157 | [215157-sonic-1-south-island-expedition.json](./215157-sonic-1-south-island-expedition.json) |
+| Sonic 2 In 1 | 56739 | [56739-sonic-2-in-1.json](./56739-sonic-2-in-1.json) |
 | Sonic 2: Chaos Adventure | 333957 | [333957-sonic-2-chaos-adventure.json](./333957-sonic-2-chaos-adventure.json) |
 | Sonic 2006 | 310952 | [310952-sonic-2006.json](./310952-sonic-2006.json) |
 | Sonic 2006 2D | 352302 | [352302-sonic-2006-2d.json](./352302-sonic-2006-2d.json) |
@@ -9471,6 +9473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submachine: Future Loop Foundation | 19296 | [19296-submachine-future-loop-foundation.json](./19296-submachine-future-loop-foundation.json) |
 | Submarine | 346083 | [346083-submarine.json](./346083-submarine.json) |
 | Submarine Adventure | 133233 | [133233-submarine-adventure.json](./133233-submarine-adventure.json) |
+| Submarine Dash | 56762 | [56762-submarine-dash.json](./56762-submarine-dash.json) |
 | Submarine Fury | 73802 | [73802-submarine-fury.json](./73802-submarine-fury.json) |
 | Submarine Samurai | 183556 | [183556-submarine-samurai.json](./183556-submarine-samurai.json) |
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
