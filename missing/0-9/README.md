@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw. World Tour Thailand | 256365 | [256365-1001-jigsaw-world-tour-thailand.json](./256365-1001-jigsaw-world-tour-thailand.json) |
 | 1001 Ultimate Mahjong 2 | 111457 | [111457-1001-ultimate-mahjong-2.json](./111457-1001-ultimate-mahjong-2.json) |
 | 1001-Kai-me no Aoi Tsuki | 98429 | [98429-1001-kai-me-no-aoi-tsuki.json](./98429-1001-kai-me-no-aoi-tsuki.json) |
+| 101 Airborne: The Airborne Invasion of Normandy | 582 | [582-101-airborne-the-airborne-invasion-of-normandy.json](./582-101-airborne-the-airborne-invasion-of-normandy.json) |
 | 101 Cats in Chennai | 365159 | [365159-101-cats-in-chennai.json](./365159-101-cats-in-chennai.json) |
 | 101 Cats in Hanoi | 400875 | [400875-101-cats-in-hanoi.json](./400875-101-cats-in-hanoi.json) |
 | 101 Cats in Indonesia | 366304 | [366304-101-cats-in-indonesia.json](./366304-101-cats-in-indonesia.json) |
