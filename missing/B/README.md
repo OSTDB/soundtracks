@@ -1193,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Cross | 95412 | [95412-battle-cross.json](./95412-battle-cross.json) |
 | Battle Cruiser M-12 | 40241 | [40241-battle-cruiser-m-12.json](./40241-battle-cruiser-m-12.json) |
 | Battle Crusher | 66069 | [66069-battle-crusher.json](./66069-battle-crusher.json) |
+| Battle Cry of Freedom | 63551 | [63551-battle-cry-of-freedom.json](./63551-battle-cry-of-freedom.json) |
 | Battle Cube | 128598 | [128598-battle-cube.json](./128598-battle-cube.json) |
 | Battle Dawn | 139433 | [139433-battle-dawn.json](./139433-battle-dawn.json) |
 | Battle Dex | 93581 | [93581-battle-dex.json](./93581-battle-dex.json) |
@@ -3570,8 +3571,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloomyth & Strong Moon Bundle | 262055 | [262055-bloomyth-and-strong-moon-bundle.json](./262055-bloomyth-and-strong-moon-bundle.json) |
 | Bloons | 261913 | [261913-bloons.json](./261913-bloons.json) |
 | Bloons | 93561 | [93561-bloons.json](./93561-bloons.json) |
+| Bloons 2 | 63569 | [63569-bloons-2.json](./63569-bloons-2.json) |
 | Bloons 2 Christmas Expansion | 326782 | [326782-bloons-2-christmas-expansion.json](./326782-bloons-2-christmas-expansion.json) |
 | Bloons But You're the Bloon | 246094 | [246094-bloons-but-youre-the-bloon.json](./246094-bloons-but-youre-the-bloon.json) |
+| Bloons Insanity | 63568 | [63568-bloons-insanity.json](./63568-bloons-insanity.json) |
 | Bloons TD | 144754 | [144754-bloons-td.json](./144754-bloons-td.json) |
 | Bloons TD 5 | 17520 | [17520-bloons-td-5.json](./17520-bloons-td-5.json) |
 | Bloons TD 5 HD | 88911 | [88911-bloons-td-5-hd.json](./88911-bloons-td-5-hd.json) |
@@ -4552,6 +4555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brambles in the Mist | 168338 | [168338-brambles-in-the-mist.json](./168338-brambles-in-the-mist.json) |
 | Braminar | 80614 | [80614-braminar.json](./80614-braminar.json) |
 | Branchbound: Launch of the Logs | 377064 | [377064-branchbound-launch-of-the-logs.json](./377064-branchbound-launch-of-the-logs.json) |
+| Brand | 63553 | [63553-brand.json](./63553-brand.json) |
 | Brand! New! Friends! | 372477 | [372477-brand-new-friends.json](./372477-brand-new-friends.json) |
 | Brandins Buttons | 151176 | [151176-brandins-buttons.json](./151176-brandins-buttons.json) |
 | Brandnew Boy | 38975 | [38975-brandnew-boy.json](./38975-brandnew-boy.json) |
