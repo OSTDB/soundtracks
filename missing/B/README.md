@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balaball | 373012 | [373012-balaball.json](./373012-balaball.json) |
 | Balala Dà Zhuǎnhuàn | 359469 | [359469-balala-da-zhuanhuan.json](./359469-balala-da-zhuanhuan.json) |
 | Balam and the Spirit Within | 201325 | [201325-balam-and-the-spirit-within.json](./201325-balam-and-the-spirit-within.json) |
+| Balan Wonderworld | 135992 | [135992-balan-wonderworld.json](./135992-balan-wonderworld.json) |
 | Balance | 260772 | [260772-balance.json](./260772-balance.json) |
 | Balance | 297775 | [297775-balance.json](./297775-balance.json) |
 | Balance Ball | 150483 | [150483-balance-ball.json](./150483-balance-ball.json) |
@@ -1932,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Master | 366282 | [366282-bee-master.json](./366282-bee-master.json) |
 | Bee Movie Game | 372566 | [372566-bee-movie-game.json](./372566-bee-movie-game.json) |
 | Bee my Bloom | 400884 | [400884-bee-my-bloom.json](./400884-bee-my-bloom.json) |
+| Bee Simulator | 106790 | [106790-bee-simulator.json](./106790-bee-simulator.json) |
 | Bee Streamer Idler | 392773 | [392773-bee-streamer-idler.json](./392773-bee-streamer-idler.json) |
 | Bee Welcome! | 291595 | [291595-bee-welcome.json](./291595-bee-welcome.json) |
 | Bee-Ball | 40720 | [40720-bee-ball.json](./40720-bee-ball.json) |
@@ -3040,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackgate | 138226 | [138226-blackgate.json](./138226-blackgate.json) |
 | BlackGate | 325837 | [325837-blackgate.json](./325837-blackgate.json) |
 | Blackguards | 5522 | [5522-blackguards.json](./5522-blackguards.json) |
+| Blackguards 2 | 8335 | [8335-blackguards-2.json](./8335-blackguards-2.json) |
 | Blackhole on the Road | 269047 | [269047-blackhole-on-the-road.json](./269047-blackhole-on-the-road.json) |
 | Blackhole Simulator | 333385 | [333385-blackhole-simulator.json](./333385-blackhole-simulator.json) |
 | Blackhole: Challenge Vault | 170521 | [170521-blackhole-challenge-vault.json](./170521-blackhole-challenge-vault.json) |
@@ -4216,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonjin: An Ordinary Man | 349869 | [349869-bonjin-an-ordinary-man.json](./349869-bonjin-an-ordinary-man.json) |
 | Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
 | Bonk.io | 57077 | [57077-bonk-io.json](./57077-bonk-io.json) |
+| Bonk's Adventure | 7794 | [7794-bonks-adventure.json](./7794-bonks-adventure.json) |
 | Bonk's Revenge | 228469 | [228469-bonks-revenge.json](./228469-bonks-revenge.json) |
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
 | Bonkers | 78677 | [78677-bonkers.json](./78677-bonkers.json) |
