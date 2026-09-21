@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raji: An Ancient Epic - Enhanced Edition | 152175 | [152175-raji-an-ancient-epic-enhanced-edition.json](./152175-raji-an-ancient-epic-enhanced-edition.json) |
 | Raketenwashmachine | 149439 | [149439-raketenwashmachine.json](./149439-raketenwashmachine.json) |
 | Rakker and the Sinking Cities | 69569 | [69569-rakker-and-the-sinking-cities.json](./69569-rakker-and-the-sinking-cities.json) |
+| Rakoo's Adventure | 25164 | [25164-rakoos-adventure.json](./25164-rakoos-adventure.json) |
 | RaKoval~Nya: Escape Edition | 102164 | [102164-rakoval-nya-escape-edition.json](./102164-rakoval-nya-escape-edition.json) |
 | Rakshasa | 318411 | [318411-rakshasa.json](./318411-rakshasa.json) |
 | Rakshasa | 384678 | [384678-rakshasa.json](./384678-rakshasa.json) |
@@ -556,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
 | Rampart | 9684 | [9684-rampart.json](./9684-rampart.json) |
 | Ramped Up! | 234604 | [234604-ramped-up.json](./234604-ramped-up.json) |
+| Ramsak | 25139 | [25139-ramsak.json](./25139-ramsak.json) |
 | Ramshackle | 374162 | [374162-ramshackle.json](./374162-ramshackle.json) |
 | Rana Neida | 303070 | [303070-rana-neida.json](./303070-rana-neida.json) |
 | Rana Rama | 30805 | [30805-rana-rama.json](./30805-rana-rama.json) |
@@ -2431,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer | 225743 | [225743-ridge-racer.json](./225743-ridge-racer.json) |
 | Ridge Racer 7 | 7441 | [7441-ridge-racer-7.json](./7441-ridge-racer-7.json) |
 | Ridge Racer 8 | 339264 | [339264-ridge-racer-8.json](./339264-ridge-racer-8.json) |
+| Ridge Racer Driftopia | 25144 | [25144-ridge-racer-driftopia.json](./25144-ridge-racer-driftopia.json) |
 | Ridge Racer Mobile | 107012 | [107012-ridge-racer-mobile.json](./107012-ridge-racer-mobile.json) |
 | Ridge Racer Revolution | 18697 | [18697-ridge-racer-revolution.json](./18697-ridge-racer-revolution.json) |
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
@@ -2936,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop | 6013 | [6013-robocop.json](./6013-robocop.json) |
 | RoboCop 2 | 144145 | [144145-robocop-2.json](./144145-robocop-2.json) |
 | RoboCop 3 | 19695 | [19695-robocop-3.json](./19695-robocop-3.json) |
+| RoboCop 3 | 25167 | [25167-robocop-3.json](./25167-robocop-3.json) |
 | RoboCop Versus the Terminator | 288341 | [288341-robocop-versus-the-terminator.json](./288341-robocop-versus-the-terminator.json) |
 | RoboCop Versus the Terminator | 8195 | [8195-robocop-versus-the-terminator.json](./8195-robocop-versus-the-terminator.json) |
 | RoboCop: Rogue City - Alex Murphy Edition | 271282 | [271282-robocop-rogue-city-alex-murphy-edition.json](./271282-robocop-rogue-city-alex-murphy-edition.json) |
@@ -3025,6 +3029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots Love Ice Cream | 62997 | [62997-robots-love-ice-cream.json](./62997-robots-love-ice-cream.json) |
 | Robots under attack! | 129608 | [129608-robots-under-attack.json](./129608-robots-under-attack.json) |
 | Robots, Death & Venice | 172127 | [172127-robots-death-and-venice.json](./172127-robots-death-and-venice.json) |
+| RobotWar | 25129 | [25129-robotwar.json](./25129-robotwar.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
 | RoboWarrior Arena | 266473 | [266473-robowarrior-arena.json](./266473-robowarrior-arena.json) |
 | Robox | 147916 | [147916-robox.json](./147916-robox.json) |
@@ -3117,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Jump Race | 273653 | [273653-rocket-jump-race.json](./273653-rocket-jump-race.json) |
 | Rocket Jumping Sounds Dangerous | 179131 | [179131-rocket-jumping-sounds-dangerous.json](./179131-rocket-jumping-sounds-dangerous.json) |
 | Rocket Knight Adventures: Re-Sparked | 283095 | [283095-rocket-knight-adventures-re-sparked.json](./283095-rocket-knight-adventures-re-sparked.json) |
+| Rocket Lander | 25152 | [25152-rocket-lander.json](./25152-rocket-lander.json) |
 | Rocket League: Chaos Run | 202859 | [202859-rocket-league-chaos-run.json](./202859-rocket-league-chaos-run.json) |
 | Rocket League: Collector's Edition | 41620 | [41620-rocket-league-collectors-edition.json](./41620-rocket-league-collectors-edition.json) |
 | Rocket League: DC Super Heroes DLC Pack | 226939 | [226939-rocket-league-dc-super-heroes-dlc-pack.json](./226939-rocket-league-dc-super-heroes-dlc-pack.json) |
@@ -3853,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPS Saga | 38994 | [38994-rps-saga.json](./38994-rps-saga.json) |
 | RpVoid | 354505 | [354505-rpvoid.json](./354505-rpvoid.json) |
 | Rrggbb | 178004 | [178004-rrggbb.json](./178004-rrggbb.json) |
+| rRootage | 25169 | [25169-rrootage.json](./25169-rrootage.json) |
 | Rrootage Reloaded | 187358 | [187358-rrootage-reloaded.json](./187358-rrootage-reloaded.json) |
 | Rrrr | 112768 | [112768-rrrr.json](./112768-rrrr.json) |
 | RRRR 2 | 117081 | [117081-rrrr-2.json](./117081-rrrr-2.json) |
