@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Grandmasters | 84174 | [84174-final-fantasy-grandmasters.json](./84174-final-fantasy-grandmasters.json) |
 | Final Fantasy I+II Premium Package | 323153 | [323153-final-fantasy-i-ii-premium-package.json](./323153-final-fantasy-i-ii-premium-package.json) |
 | Final Fantasy II | 145817 | [145817-final-fantasy-ii.json](./145817-final-fantasy-ii.json) |
+| Final Fantasy II | 158981 | [158981-final-fantasy-ii.json](./158981-final-fantasy-ii.json) |
 | Final Fantasy II | 16474 | [16474-final-fantasy-ii.json](./16474-final-fantasy-ii.json) |
 | Final Fantasy II | 271819 | [271819-final-fantasy-ii.json](./271819-final-fantasy-ii.json) |
 | Final Fantasy II | 387 | [387-final-fantasy-ii.json](./387-final-fantasy-ii.json) |
@@ -2324,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights At Freddy's: Nightshift | 275905 | [275905-five-nights-at-freddys-nightshift.json](./275905-five-nights-at-freddys-nightshift.json) |
 | Five Nights at Freddy's: Pocket Horror | 275568 | [275568-five-nights-at-freddys-pocket-horror.json](./275568-five-nights-at-freddys-pocket-horror.json) |
 | Five Nights at Freddy's: Secret of the Mimic | 312859 | [312859-five-nights-at-freddys-secret-of-the-mimic.json](./312859-five-nights-at-freddys-secret-of-the-mimic.json) |
+| Five Nights at Freddy's: Security Breach | 138933 | [138933-five-nights-at-freddys-security-breach.json](./138933-five-nights-at-freddys-security-breach.json) |
 | Five Nights at Freddy's: Security Breach - Collector's Edition | 198389 | [198389-five-nights-at-freddys-security-breach-collectors-edition.json](./198389-five-nights-at-freddys-security-breach-collectors-edition.json) |
 | Five Nights at Freddy's: Security Breach - The Remains | 276493 | [276493-five-nights-at-freddys-security-breach-the-remains.json](./276493-five-nights-at-freddys-security-breach-the-remains.json) |
 | Five Nights at Freddy's: Sister Location | 19320 | [19320-five-nights-at-freddys-sister-location.json](./19320-five-nights-at-freddys-sister-location.json) |
