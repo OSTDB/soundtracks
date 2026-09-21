@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-ON! Houkago Rhythm Time | 269593 | [269593-k-on-houkago-rhythm-time.json](./269593-k-on-houkago-rhythm-time.json) |
 | K-ON!!: Houkago Rhythm Selection | 201262 | [201262-k-on-houkago-rhythm-selection.json](./201262-k-on-houkago-rhythm-selection.json) |
 | K-pop Idols Dating: Anime Love for B.SeveT | 334098 | [334098-k-pop-idols-dating-anime-love-for-b-sevet.json](./334098-k-pop-idols-dating-anime-love-for-b-sevet.json) |
+| K-Razy Antiks | 22768 | [22768-k-razy-antiks.json](./22768-k-razy-antiks.json) |
 | K-Tora USA | 307112 | [307112-k-tora-usa.json](./307112-k-tora-usa.json) |
 | K.C.'s Crazy Nightmare! | 40730 | [40730-k-c-s-crazy-nightmare.json](./40730-k-c-s-crazy-nightmare.json) |
 | K.O. King | 66942 | [66942-k-o-king.json](./66942-k-o-king.json) |
@@ -709,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Ball Adventure | 212274 | [212274-kid-ball-adventure.json](./212274-kid-ball-adventure.json) |
 | Kid Chameleon | 16035 | [16035-kid-chameleon.json](./16035-kid-chameleon.json) |
 | Kid Dracula | 1125 | [1125-kid-dracula.json](./1125-kid-dracula.json) |
+| Kid Grid | 22770 | [22770-kid-grid.json](./22770-kid-grid.json) |
 | Kid Hallow | 179210 | [179210-kid-hallow.json](./179210-kid-hallow.json) |
 | Kid Icarus | 279751 | [279751-kid-icarus.json](./279751-kid-icarus.json) |
 | Kid Icarus Enlightenment | 404256 | [404256-kid-icarus-enlightenment.json](./404256-kid-icarus-enlightenment.json) |
@@ -1759,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kori DRoP | 234591 | [234591-kori-drop.json](./234591-kori-drop.json) |
 | Kori's Fable Visual Novel | 232442 | [232442-koris-fable-visual-novel.json](./232442-koris-fable-visual-novel.json) |
 | Korin's Mines | 323167 | [323167-korins-mines.json](./323167-korins-mines.json) |
+| Korix | 22755 | [22755-korix.json](./22755-korix.json) |
 | Koro Koro Quest | 40226 | [40226-koro-koro-quest.json](./40226-koro-koro-quest.json) |
 | Koro Pata | 91385 | [91385-koro-pata.json](./91385-koro-pata.json) |
 | Koro-koro Reimu 2 | 255799 | [255799-koro-koro-reimu-2.json](./255799-koro-koro-reimu-2.json) |
