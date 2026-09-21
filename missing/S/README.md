@@ -2304,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady Business | 195198 | [195198-shady-business.json](./195198-shady-business.json) |
 | Shady Business | 408028 | [408028-shady-business.json](./408028-shady-business.json) |
 | Shady Wars | 260764 | [260764-shady-wars.json](./260764-shady-wars.json) |
+| Shady's Stone Smash | 63567 | [63567-shadys-stone-smash.json](./63567-shadys-stone-smash.json) |
 | Shafted | 358931 | [358931-shafted.json](./358931-shafted.json) |
 | Shaiya | 85841 | [85841-shaiya.json](./85841-shaiya.json) |
 | Shake | 383508 | [383508-shake.json](./383508-shake.json) |
@@ -2897,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoe Salesman Mania | 378280 | [378280-shoe-salesman-mania.json](./378280-shoe-salesman-mania.json) |
 | Shoebill | 151119 | [151119-shoebill.json](./151119-shoebill.json) |
 | Shoemaker | 110772 | [110772-shoemaker.json](./110772-shoemaker.json) |
+| Shogi | 63582 | [63582-shogi.json](./63582-shogi.json) |
 | Shogi Nyuumon | 126014 | [126014-shogi-nyuumon.json](./126014-shogi-nyuumon.json) |
 | Shogi Saikyou | 38299 | [38299-shogi-saikyou.json](./38299-shogi-saikyou.json) |
 | Shogi Shodan Icchokusen | 42032 | [42032-shogi-shodan-icchokusen.json](./42032-shogi-shodan-icchokusen.json) |
@@ -6917,6 +6919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelling Bee | 206122 | [206122-spelling-bee.json](./206122-spelling-bee.json) |
 | Spelling Challenges | 47952 | [47952-spelling-challenges.json](./47952-spelling-challenges.json) |
 | Spelling Go! | 240344 | [240344-spelling-go.json](./240344-spelling-go.json) |
+| Spellirium | 63549 | [63549-spellirium.json](./63549-spellirium.json) |
 | Spellisimo | 400896 | [400896-spellisimo.json](./400896-spellisimo.json) |
 | Spellloom | 337487 | [337487-spellloom.json](./337487-spellloom.json) |
 | Spellmasons | 215714 | [215714-spellmasons.json](./215714-spellmasons.json) |
@@ -7063,6 +7066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
 | Spin Quest: A Slot Adventure | 220670 | [220670-spin-quest-a-slot-adventure.json](./220670-spin-quest-a-slot-adventure.json) |
 | Spin Royale | 344459 | [344459-spin-royale.json](./344459-spin-royale.json) |
+| Spin Spell | 63556 | [63556-spin-spell.json](./63556-spin-spell.json) |
 | Spin Squared | 174281 | [174281-spin-squared.json](./174281-spin-squared.json) |
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
@@ -9658,6 +9662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sulfur Ignition | 352224 | [352224-sulfur-ignition.json](./352224-sulfur-ignition.json) |
 | Sulkyland | 214529 | [214529-sulkyland.json](./214529-sulkyland.json) |
 | Sullen | 30809 | [30809-sullen.json](./30809-sullen.json) |
+| Sully | 63552 | [63552-sully.json](./63552-sully.json) |
 | Sully: A Very Serious RPG | 216868 | [216868-sully-a-very-serious-rpg.json](./216868-sully-a-very-serious-rpg.json) |
 | Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
@@ -9981,6 +9986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Collapse! Puzzle Gallery 4 | 201283 | [201283-super-collapse-puzzle-gallery-4.json](./201283-super-collapse-puzzle-gallery-4.json) |
 | Super Collapse! Puzzle Gallery 5 | 201284 | [201284-super-collapse-puzzle-gallery-5.json](./201284-super-collapse-puzzle-gallery-5.json) |
 | Super Columns | 19690 | [19690-super-columns.json](./19690-super-columns.json) |
+| Super Comboman | 63550 | [63550-super-comboman.json](./63550-super-comboman.json) |
 | Super Company | 219580 | [219580-super-company.json](./219580-super-company.json) |
 | Super Concentration | 262370 | [262370-super-concentration.json](./262370-super-concentration.json) |
 | Super Console Kid | 296506 | [296506-super-console-kid.json](./296506-super-console-kid.json) |
@@ -10025,6 +10031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Doom TV | 299449 | [299449-super-doom-tv.json](./299449-super-doom-tv.json) |
 | Super Doopliss World | 323360 | [323360-super-doopliss-world.json](./323360-super-doopliss-world.json) |
 | Super Double Dragon | 198931 | [198931-super-double-dragon.json](./198931-super-double-dragon.json) |
+| Super Drake Tracker 2000 EX | 63558 | [63558-super-drake-tracker-2000-ex.json](./63558-super-drake-tracker-2000-ex.json) |
 | Super Dram World | 132857 | [132857-super-dram-world.json](./132857-super-dram-world.json) |
 | Super Dram World 2 | 132858 | [132858-super-dram-world-2.json](./132858-super-dram-world-2.json) |
 | Super Dream Dasher | 172189 | [172189-super-dream-dasher.json](./172189-super-dream-dasher.json) |
@@ -11402,6 +11409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swimcraft | 410911 | [410911-swimcraft.json](./410911-swimcraft.json) |
 | Swimming Dynasty | 258024 | [258024-swimming-dynasty.json](./258024-swimming-dynasty.json) |
 | Swimpossible! | 366238 | [366238-swimpossible.json](./366238-swimpossible.json) |
+| Swimsanity! | 63572 | [63572-swimsanity.json](./63572-swimsanity.json) |
 | Swindler | 51170 | [51170-swindler.json](./51170-swindler.json) |
 | Swine's Revenge | 360011 | [360011-swines-revenge.json](./360011-swines-revenge.json) |
 | Swing 2 Heli | 262356 | [262356-swing-2-heli.json](./262356-swing-2-heli.json) |
@@ -11607,6 +11615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symmetrain | 123074 | [123074-symmetrain.json](./123074-symmetrain.json) |
 | Symmodance | 263756 | [263756-symmodance.json](./263756-symmodance.json) |
 | Sympathia | 277608 | [277608-sympathia.json](./277608-sympathia.json) |
+| Symphonica | 63584 | [63584-symphonica.json](./63584-symphonica.json) |
 | Symphonics | 107934 | [107934-symphonics.json](./107934-symphonics.json) |
 | Symphony of Science | 271850 | [271850-symphony-of-science.json](./271850-symphony-of-science.json) |
 | Symphony of Souls | 253573 | [253573-symphony-of-souls.json](./253573-symphony-of-souls.json) |
