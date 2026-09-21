@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Turbo OutRun | 202923 | [202923-3d-turbo-outrun.json](./202923-3d-turbo-outrun.json) |
 | 3D Ultra Minigolf Adventures | 9899 | [9899-3d-ultra-minigolf-adventures.json](./9899-3d-ultra-minigolf-adventures.json) |
 | 3D Ultra Minigolf Adventures: Carnival | 73260 | [73260-3d-ultra-minigolf-adventures-carnival.json](./73260-3d-ultra-minigolf-adventures-carnival.json) |
+| 3D Water Driver | 47561 | [47561-3d-water-driver.json](./47561-3d-water-driver.json) |
 | 3D Watermelon Game | 277950 | [277950-3d-watermelon-game.json](./277950-3d-watermelon-game.json) |
 | 3D-Laby | 98226 | [98226-3d-laby.json](./98226-3d-laby.json) |
 | 3D3D | 291042 | [291042-3d3d.json](./291042-3d3d.json) |
