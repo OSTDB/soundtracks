@@ -1315,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2001 | 814 | [814-nhl-2001.json](./814-nhl-2001.json) |
 | NHL 2002 | 815 | [815-nhl-2002.json](./815-nhl-2002.json) |
 | NHL 22 | 165197 | [165197-nhl-22.json](./165197-nhl-22.json) |
+| NHL 23 | 214675 | [214675-nhl-23.json](./214675-nhl-23.json) |
 | NHL 27 | 408771 | [408771-nhl-27.json](./408771-nhl-27.json) |
 | NHL 2K2 | 8840 | [8840-nhl-2k2.json](./8840-nhl-2k2.json) |
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
@@ -1412,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NieR: Automata - Black Box Edition | 144331 | [144331-nier-automata-black-box-edition.json](./144331-nier-automata-black-box-edition.json) |
 | NieR: Automata - Day One Edition | 144330 | [144330-nier-automata-day-one-edition.json](./144330-nier-automata-day-one-edition.json) |
 | NieR: Automata - Limited Edition Steelbook | 44539 | [44539-nier-automata-limited-edition-steelbook.json](./44539-nier-automata-limited-edition-steelbook.json) |
+| Nier: Automata - The End of Yorha Edition | 206805 | [206805-nier-automata-the-end-of-yorha-edition.json](./206805-nier-automata-the-end-of-yorha-edition.json) |
 | Nietzsche's Shadow | 346680 | [346680-nietzsches-shadow.json](./346680-nietzsches-shadow.json) |
 | Nieuw Perspectief | 253032 | [253032-nieuw-perspectief.json](./253032-nieuw-perspectief.json) |
 | Nifa's First Mission | 248051 | [248051-nifas-first-mission.json](./248051-nifas-first-mission.json) |
@@ -1612,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightshift | 271202 | [271202-nightshift.json](./271202-nightshift.json) |
 | Nightshift at the Beta Museum | 408141 | [408141-nightshift-at-the-beta-museum.json](./408141-nightshift-at-the-beta-museum.json) |
 | Nightshift Legacy: The Jaguar's Eye | 16077 | [16077-nightshift-legacy-the-jaguars-eye.json](./16077-nightshift-legacy-the-jaguars-eye.json) |
+| NightSky | 15128 | [15128-nightsky.json](./15128-nightsky.json) |
 | Nightslink | 165643 | [165643-nightslink.json](./165643-nightslink.json) |
 | Nightstar: Starfighter | 31815 | [31815-nightstar-starfighter.json](./31815-nightstar-starfighter.json) |
 | NightStars: Project 1 | 314067 | [314067-nightstars-project-1.json](./314067-nightstars-project-1.json) |
@@ -2389,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Roma | 252867 | [252867-nova-roma.json](./252867-nova-roma.json) |
 | Nova Slash: Unparalleled Power | 195608 | [195608-nova-slash-unparalleled-power.json](./195608-nova-slash-unparalleled-power.json) |
 | Nova Survivors | 372542 | [372542-nova-survivors.json](./372542-nova-survivors.json) |
+| Nova-111 | 12561 | [12561-nova-111.json](./12561-nova-111.json) |
 | Nova: Space Armada | 319812 | [319812-nova-space-armada.json](./319812-nova-space-armada.json) |
 | Nova: The Birth | 138830 | [138830-nova-the-birth.json](./138830-nova-the-birth.json) |
 | Nova's Adventure | 316397 | [316397-novas-adventure.json](./316397-novas-adventure.json) |
