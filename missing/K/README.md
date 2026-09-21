@@ -31,10 +31,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabod Online | 65209 | [65209-kabod-online.json](./65209-kabod-online.json) |
 | Kaboom Swing | 179151 | [179151-kaboom-swing.json](./179151-kaboom-swing.json) |
 | Kaboom! | 172030 | [172030-kaboom.json](./172030-kaboom.json) |
+| Kabuki Rocks | 37971 | [37971-kabuki-rocks.json](./37971-kabuki-rocks.json) |
 | Kabuki-chou Reach Mahjong: Toupuusen | 42630 | [42630-kabuki-chou-reach-mahjong-toupuusen.json](./42630-kabuki-chou-reach-mahjong-toupuusen.json) |
 | Kabushiki Baibai Trainer Kabutore | 72977 | [72977-kabushiki-baibai-trainer-kabutore.json](./72977-kabushiki-baibai-trainer-kabutore.json) |
 | Kabuto | 239776 | [239776-kabuto.json](./239776-kabuto.json) |
 | Kabuto Kuwagata | 242093 | [242093-kabuto-kuwagata.json](./242093-kabuto-kuwagata.json) |
+| Kachou Shima Kousaku: Super Business Adventure | 37969 | [37969-kachou-shima-kousaku-super-business-adventure.json](./37969-kachou-shima-kousaku-super-business-adventure.json) |
 | Kader Mühürleri | 86127 | [86127-kader-muhurleri.json](./86127-kader-muhurleri.json) |
 | Kadin the Soul Eater | 303601 | [303601-kadin-the-soul-eater.json](./303601-kadin-the-soul-eater.json) |
 | Kado Hunter | 303600 | [303600-kado-hunter.json](./303600-kado-hunter.json) |
@@ -117,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakele Online: MMORPG | 151267 | [151267-kakele-online-mmorpg.json](./151267-kakele-online-mmorpg.json) |
 | Kakele Online: MMORPG - Bonanza | 265732 | [265732-kakele-online-mmorpg-bonanza.json](./265732-kakele-online-mmorpg-bonanza.json) |
 | Kakeochi | 415133 | [415133-kakeochi.json](./415133-kakeochi.json) |
+| Kakinoki Shogi | 37968 | [37968-kakinoki-shogi.json](./37968-kakinoki-shogi.json) |
 | Kakkouke | 284341 | [284341-kakkouke.json](./284341-kakkouke.json) |
 | Kakuge Yarou: Fighting Game Creator | 43920 | [43920-kakuge-yarou-fighting-game-creator.json](./43920-kakuge-yarou-fighting-game-creator.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
@@ -357,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kasha vs. Kritters | 382302 | [382302-kasha-vs-kritters.json](./382302-kasha-vs-kritters.json) |
 | Kashimashi Girl Meets Girl: Hajimete no Natsu Monogatari | 127900 | [127900-kashimashi-girl-meets-girl-hajimete-no-natsu-monogatari.json](./127900-kashimashi-girl-meets-girl-hajimete-no-natsu-monogatari.json) |
 | Kashiri Kyoufu no Shashin | 261374 | [261374-kashiri-kyoufu-no-shashin.json](./261374-kashiri-kyoufu-no-shashin.json) |
+| Kashiwagi Shigetaka no Top Water Bassing | 37967 | [37967-kashiwagi-shigetaka-no-top-water-bassing.json](./37967-kashiwagi-shigetaka-no-top-water-bassing.json) |
 | Kasplat | 258712 | [258712-kasplat.json](./258712-kasplat.json) |
 | Kat's Run: Zen-Nippon K-Car Senshuken | 38267 | [38267-kats-run-zen-nippon-k-car-senshuken.json](./38267-kats-run-zen-nippon-k-car-senshuken.json) |
 | Kata | 57094 | [57094-kata.json](./57094-kata.json) |
@@ -514,6 +518,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keepy Uppy | 229353 | [229353-keepy-uppy.json](./229353-keepy-uppy.json) |
 | Keg Bearer | 200127 | [200127-keg-bearer.json](./200127-keg-bearer.json) |
 | Keg War | 183444 | [183444-keg-war.json](./183444-keg-war.json) |
+| Keiba Eight Special | 37966 | [37966-keiba-eight-special.json](./37966-keiba-eight-special.json) |
+| Keiba Eight Special 2 | 37965 | [37965-keiba-eight-special-2.json](./37965-keiba-eight-special-2.json) |
+| Keiba Yosou Baken Renkinjutsu | 37970 | [37970-keiba-yosou-baken-renkinjutsu.json](./37970-keiba-yosou-baken-renkinjutsu.json) |
 | Keibatsuu Portable | 56767 | [56767-keibatsuu-portable.json](./56767-keibatsuu-portable.json) |
 | Keibatsuu Portable 2 | 56769 | [56769-keibatsuu-portable-2.json](./56769-keibatsuu-portable-2.json) |
 | Keiji J.B. Harold no Jikenbo: Murder Club | 272022 | [272022-keiji-j-b-harold-no-jikenbo-murder-club.json](./272022-keiji-j-b-harold-no-jikenbo-murder-club.json) |
@@ -597,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keshtat | 72368 | [72368-keshtat.json](./72368-keshtat.json) |
 | Kessakusen! Ganbare Goemon 1+2: Yuki-hime to McGuiness | 82068 | [82068-kessakusen-ganbare-goemon-1-2-yuki-hime-to-mcguiness.json](./82068-kessakusen-ganbare-goemon-1-2-yuki-hime-to-mcguiness.json) |
 | Kessen III | 20200 | [20200-kessen-iii.json](./20200-kessen-iii.json) |
+| Kessen! Dokapon Okukoku IV: Densetsu no Yuusha-tachi | 37963 | [37963-kessen-dokapon-okukoku-iv-densetsu-no-yuusha-tachi.json](./37963-kessen-dokapon-okukoku-iv-densetsu-no-yuusha-tachi.json) |
 | Kestrel | 152386 | [152386-kestrel.json](./152386-kestrel.json) |
 | Ketamina | 249848 | [249848-ketamina.json](./249848-ketamina.json) |
 | Ketchapp Summer Sports | 246960 | [246960-ketchapp-summer-sports.json](./246960-ketchapp-summer-sports.json) |
@@ -776,6 +784,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kikstart: Off-Road Simulator | 57616 | [57616-kikstart-off-road-simulator.json](./57616-kikstart-off-road-simulator.json) |
 | Kikuite Oboeru Eitango: Arc No Kikutan Basic | 56753 | [56753-kikuite-oboeru-eitango-arc-no-kikutan-basic.json](./56753-kikuite-oboeru-eitango-arc-no-kikutan-basic.json) |
 | Kikuite Oboeru Eitango: Arc No Kikutan Entry | 56751 | [56751-kikuite-oboeru-eitango-arc-no-kikutan-entry.json](./56751-kikuite-oboeru-eitango-arc-no-kikutan-entry.json) |
+| Kikuni Masahiko no Jantoushi Dora-ou | 37962 | [37962-kikuni-masahiko-no-jantoushi-dora-ou.json](./37962-kikuni-masahiko-no-jantoushi-dora-ou.json) |
+| Kikuni Masahiko no Jantoushi Dora-ou 2 | 37961 | [37961-kikuni-masahiko-no-jantoushi-dora-ou-2.json](./37961-kikuni-masahiko-no-jantoushi-dora-ou-2.json) |
 | Kikuni Masahiko: Jirushi Warau Fukei-san Pachi-Slot Hunter | 65214 | [65214-kikuni-masahiko-jirushi-warau-fukei-san-pachi-slot-hunter.json](./65214-kikuni-masahiko-jirushi-warau-fukei-san-pachi-slot-hunter.json) |
 | KilaFlow | 265955 | [265955-kilaflow.json](./265955-kilaflow.json) |
 | Kilari: Become a Star | 70673 | [70673-kilari-become-a-star.json](./70673-kilari-become-a-star.json) |
@@ -907,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kind Gals | 41325 | [41325-kind-gals.json](./41325-kind-gals.json) |
 | Kind Nature | 250958 | [250958-kind-nature.json](./250958-kind-nature.json) |
 | Kinda Heroes | 172107 | [172107-kinda-heroes.json](./172107-kinda-heroes.json) |
+| Kindai Mahjong Special | 37960 | [37960-kindai-mahjong-special.json](./37960-kindai-mahjong-special.json) |
 | Kindaichi Shounen no Jikenbo: 10-nenme no Shoutaijou | 228581 | [228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json](./228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json) |
 | Kindaichi Shounen no Jikenbo: Akuma no Satsujin Koukai | 122979 | [122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json](./122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json) |
 | Kindan no Jikobukken | 260690 | [260690-kindan-no-jikobukken.json](./260690-kindan-no-jikobukken.json) |
@@ -1135,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingsman: The Golden Circle | 54712 | [54712-kingsman-the-golden-circle.json](./54712-kingsman-the-golden-circle.json) |
 | Kingspray Graffiti | 26358 | [26358-kingspray-graffiti.json](./26358-kingspray-graffiti.json) |
 | Kingsvein | 243670 | [243670-kingsvein.json](./243670-kingsvein.json) |
+| Kingyo Chuuihou! Tobidase! Game Gakuen | 37959 | [37959-kingyo-chuuihou-tobidase-game-gakuen.json](./37959-kingyo-chuuihou-tobidase-game-gakuen.json) |
 | Kiniro Mosaic Memories | 202390 | [202390-kiniro-mosaic-memories.json](./202390-kiniro-mosaic-memories.json) |
 | Kiniro no Corda 2 | 57703 | [57703-kiniro-no-corda-2.json](./57703-kiniro-no-corda-2.json) |
 | Kiniro no Corda 2: Encore | 57704 | [57704-kiniro-no-corda-2-encore.json](./57704-kiniro-no-corda-2-encore.json) |
@@ -1232,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kishin Douji Zenki FX: Vajra Fight | 45957 | [45957-kishin-douji-zenki-fx-vajra-fight.json](./45957-kishin-douji-zenki-fx-vajra-fight.json) |
 | Kishin Douji Zenki: Tenchi Meidou | 38360 | [38360-kishin-douji-zenki-tenchi-meidou.json](./38360-kishin-douji-zenki-tenchi-meidou.json) |
 | Kishin Hishou Demonbane | 72666 | [72666-kishin-hishou-demonbane.json](./72666-kishin-hishou-demonbane.json) |
+| Kishin Kourinden Oni | 37957 | [37957-kishin-kourinden-oni.json](./37957-kishin-kourinden-oni.json) |
 | Kishki | 376480 | [376480-kishki.json](./376480-kishki.json) |
 | Kisou Ryouhei Gunhound EX | 42872 | [42872-kisou-ryouhei-gunhound-ex.json](./42872-kisou-ryouhei-gunhound-ex.json) |
 | Kisoubanashi Kureha | 108865 | [108865-kisoubanashi-kureha.json](./108865-kisoubanashi-kureha.json) |
@@ -1291,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kite | 31757 | [31757-kite.json](./31757-kite.json) |
 | Kiteboard Hero | 175339 | [175339-kiteboard-hero.json](./175339-kiteboard-hero.json) |
 | Kiteboarding | 304600 | [304600-kiteboarding.json](./304600-kiteboarding.json) |
+| Kiteretsu Daihyakka: Choujikuu Sugoroku | 37956 | [37956-kiteretsu-daihyakka-choujikuu-sugoroku.json](./37956-kiteretsu-daihyakka-choujikuu-sugoroku.json) |
 | Kitesurf Runner | 304379 | [304379-kitesurf-runner.json](./304379-kitesurf-runner.json) |
 | Kiting Mechanics | 239739 | [239739-kiting-mechanics.json](./239739-kiting-mechanics.json) |
 | Kito Pizzas | 397691 | [397691-kito-pizzas.json](./397691-kito-pizzas.json) |
@@ -1594,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koffi Yellow Copter | 40797 | [40797-koffi-yellow-copter.json](./40797-koffi-yellow-copter.json) |
 | Kohan: Immortal Sovereigns | 767 | [767-kohan-immortal-sovereigns.json](./767-kohan-immortal-sovereigns.json) |
 | Kohinata Yuzuki to Shoya Shitai!: Kemomimi Kamisama to Yukemuri Koimoyou | 396942 | [396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json](./396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json) |
+| Kohshien 4 | 37951 | [37951-kohshien-4.json](./37951-kohshien-4.json) |
 | Koi Farm | 143633 | [143633-koi-farm.json](./143633-koi-farm.json) |
 | Koi ha Balance: Tatoeba K-kun no Tabou na Ichinichi-hen | 134463 | [134463-koi-ha-balance-tatoeba-k-kun-no-tabou-na-ichinichi-hen.json](./134463-koi-ha-balance-tatoeba-k-kun-no-tabou-na-ichinichi-hen.json) |
 | Koi Hai Tunnel | 280878 | [280878-koi-hai-tunnel.json](./280878-koi-hai-tunnel.json) |
@@ -1701,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KonoSuba: Fantastic Days! | 138261 | [138261-konosuba-fantastic-days.json](./138261-konosuba-fantastic-days.json) |
 | KonoSuba: God's Blessing on this Wonderful World! Judgment on this Greedy Game! | 34218 | [34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json](./34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json) |
 | KonoSuba: God’s Blessing on this Wonderful World! Love for this Tempting Attire - Limited Edition | 167137 | [167137-konosuba-god-s-blessing-on-this-wonderful-world-love-for-this-tempting-attire-limited-edition.json](./167137-konosuba-god-s-blessing-on-this-wonderful-world-love-for-this-tempting-attire-limited-edition.json) |
+| Konpeki no Kantai | 37955 | [37955-konpeki-no-kantai.json](./37955-konpeki-no-kantai.json) |
 | Konpeki no Kantai 2 Advance | 91759 | [91759-konpeki-no-kantai-2-advance.json](./91759-konpeki-no-kantai-2-advance.json) |
 | Konpeki no Kantai 2 Perfect | 91761 | [91761-konpeki-no-kantai-2-perfect.json](./91761-konpeki-no-kantai-2-perfect.json) |
 | Konrad's Kittens | 31830 | [31830-konrads-kittens.json](./31830-konrads-kittens.json) |
@@ -1778,9 +1794,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koukiatsu Boy | 228584 | [228584-koukiatsu-boy.json](./228584-koukiatsu-boy.json) |
 | Koumajou Densetsu: Scarlet Symphony | 65765 | [65765-koumajou-densetsu-scarlet-symphony.json](./65765-koumajou-densetsu-scarlet-symphony.json) |
 | Kounai Shasei Vol.1: Yonimo H na Monogatari | 248107 | [248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json](./248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json) |
+| Kouryaku Casino Bar | 37954 | [37954-kouryaku-casino-bar.json](./37954-kouryaku-casino-bar.json) |
+| Koushien 2 | 37953 | [37953-koushien-2.json](./37953-koushien-2.json) |
+| Koushien 3 | 37952 | [37952-koushien-3.json](./37952-koushien-3.json) |
 | Koushien V | 58512 | [58512-koushien-v.json](./58512-koushien-v.json) |
 | Koushien: Konpeki no Sora | 58509 | [58509-koushien-konpeki-no-sora.json](./58509-koushien-konpeki-no-sora.json) |
+| Kousoku Shikou Shogi-ou | 37950 | [37950-kousoku-shikou-shogi-ou.json](./37950-kousoku-shikou-shogi-ou.json) |
 | Koutarichou Jin'youtan: Mayoigo no Shou | 219166 | [219166-koutarichou-jinyoutan-mayoigo-no-shou.json](./219166-koutarichou-jinyoutan-mayoigo-no-shou.json) |
+| Koutetsu no Kishi | 37949 | [37949-koutetsu-no-kishi.json](./37949-koutetsu-no-kishi.json) |
+| Koutetsu no Kishi 2: Sabaku no Rommel Gundan | 37948 | [37948-koutetsu-no-kishi-2-sabaku-no-rommel-gundan.json](./37948-koutetsu-no-kishi-2-sabaku-no-rommel-gundan.json) |
+| Koutetsu no Kishi 3: Gekitotsu Europe Sensen | 37947 | [37947-koutetsu-no-kishi-3-gekitotsu-europe-sensen.json](./37947-koutetsu-no-kishi-3-gekitotsu-europe-sensen.json) |
 | Koutetsu Yousai Strahl | 40221 | [40221-koutetsu-yousai-strahl.json](./40221-koutetsu-yousai-strahl.json) |
 | Kov | 272373 | [272373-kov.json](./272373-kov.json) |
 | Kova | 27883 | [27883-kova.json](./27883-kova.json) |
