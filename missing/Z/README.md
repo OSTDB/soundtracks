@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zyr | 131994 | [131994-zyr.json](./131994-zyr.json) |
 | Zyrcon | 413623 | [413623-zyrcon.json](./413623-zyrcon.json) |
 | Zythum | 30954 | [30954-zythum.json](./30954-zythum.json) |
+| Zyuden Sentai Kyoryuger: Game de Gaburincho!! | 61909 | [61909-zyuden-sentai-kyoryuger-game-de-gaburincho.json](./61909-zyuden-sentai-kyoryuger-game-de-gaburincho.json) |
 | ZYX Story | 105343 | [105343-zyx-story.json](./105343-zyx-story.json) |
 | Zzap! | 194422 | [194422-zzap.json](./194422-zzap.json) |
 | Zzoom | 45356 | [45356-zzoom.json](./45356-zzoom.json) |
