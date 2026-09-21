@@ -65,11 +65,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel Defender | 318760 | [318760-babel-defender.json](./318760-babel-defender.json) |
 | Babel Defense | 338174 | [338174-babel-defense.json](./338174-babel-defense.json) |
 | Babel Deluxe | 63897 | [63897-babel-deluxe.json](./63897-babel-deluxe.json) |
+| Babel: The King of the Blocks | 42831 | [42831-babel-the-king-of-the-blocks.json](./42831-babel-the-king-of-the-blocks.json) |
 | Babelomania | 318390 | [318390-babelomania.json](./318390-babelomania.json) |
 | Babes Reloaded | 272024 | [272024-babes-reloaded.json](./272024-babes-reloaded.json) |
 | Babies Dream of Dead Worlds | 279742 | [279742-babies-dream-of-dead-worlds.json](./279742-babies-dream-of-dead-worlds.json) |
 | Babies vs. Monsters | 304174 | [304174-babies-vs-monsters.json](./304174-babies-vs-monsters.json) |
 | Babka | 343254 | [343254-babka.json](./343254-babka.json) |
+| Baboon! | 42894 | [42894-baboon.json](./42894-baboon.json) |
 | BabushCats | 297778 | [297778-babushcats.json](./297778-babushcats.json) |
 | Baby Arms | 246432 | [246432-baby-arms.json](./246432-baby-arms.json) |
 | Baby Berks | 60533 | [60533-baby-berks.json](./60533-baby-berks.json) |
@@ -997,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bash It! | 252150 | [252150-bash-it.json](./252150-bash-it.json) |
 | Bash the Bear | 114191 | [114191-bash-the-bear.json](./114191-bash-the-bear.json) |
 | Bashed.os | 115438 | [115438-bashed-os.json](./115438-bashed-os.json) |
+| Bashi Blocks | 42830 | [42830-bashi-blocks.json](./42830-bashi-blocks.json) |
 | Bashing Brutal | 348251 | [348251-bashing-brutal.json](./348251-bashing-brutal.json) |
 | Bashtronaut | 263203 | [263203-bashtronaut.json](./263203-bashtronaut.json) |
 | Bashville | 87981 | [87981-bashville.json](./87981-bashville.json) |
@@ -5234,6 +5237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Tower 3D | 314478 | [314478-bubble-tower-3d.json](./314478-bubble-tower-3d.json) |
 | Bubble Troops | 236531 | [236531-bubble-troops.json](./236531-bubble-troops.json) |
 | Bubble Trouble | 83918 | [83918-bubble-trouble.json](./83918-bubble-trouble.json) |
+| Bubble Trubble | 42829 | [42829-bubble-trubble.json](./42829-bubble-trubble.json) |
 | Bubble Truck | 235228 | [235228-bubble-truck.json](./235228-bubble-truck.json) |
 | Bubble World | 127890 | [127890-bubble-world.json](./127890-bubble-world.json) |
 | Bubble Wrap DS | 215382 | [215382-bubble-wrap-ds.json](./215382-bubble-wrap-ds.json) |
