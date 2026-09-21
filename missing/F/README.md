@@ -1483,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
 | Fighting Fantasy Legends | 40557 | [40557-fighting-fantasy-legends.json](./40557-fighting-fantasy-legends.json) |
 | Fighting Fantasy: Island of the Lizard King | 175407 | [175407-fighting-fantasy-island-of-the-lizard-king.json](./175407-fighting-fantasy-island-of-the-lizard-king.json) |
+| Fighting Fantasy: Talisman of Death | 52211 | [52211-fighting-fantasy-talisman-of-death.json](./52211-fighting-fantasy-talisman-of-death.json) |
 | Fighting Fantasy: The Talisman of Death | 20571 | [20571-fighting-fantasy-the-talisman-of-death.json](./20571-fighting-fantasy-the-talisman-of-death.json) |
 | Fighting For Food | 72357 | [72357-fighting-for-food.json](./72357-fighting-for-food.json) |
 | Fighting for Singleship: I am Chased by a Bunch of Women But I Just Want to Play Video Games | 274558 | [274558-fighting-for-singleship-i-am-chased-by-a-bunch-of-women-but-i-just-want-to-play-video-games.json](./274558-fighting-for-singleship-i-am-chased-by-a-bunch-of-women-but-i-just-want-to-play-video-games.json) |
@@ -2743,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flurry Words | 233100 | [233100-flurry-words.json](./233100-flurry-words.json) |
 | FlurryHurry! | 323522 | [323522-flurryhurry.json](./323522-flurryhurry.json) |
 | Flushed Regrets | 257089 | [257089-flushed-regrets.json](./257089-flushed-regrets.json) |
+| Fluster Cluck | 52210 | [52210-fluster-cluck.json](./52210-fluster-cluck.json) |
 | Flute Master: Epic Christmas | 170514 | [170514-flute-master-epic-christmas.json](./170514-flute-master-epic-christmas.json) |
 | Flute Master: Trick or Treat | 170513 | [170513-flute-master-trick-or-treat.json](./170513-flute-master-trick-or-treat.json) |
 | Flutterdash | 391199 | [391199-flutterdash.json](./391199-flutterdash.json) |
@@ -2761,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Fly Dragon! | 255123 | [255123-fly-fly-dragon.json](./255123-fly-fly-dragon.json) |
 | Fly Fly Tank | 129735 | [129735-fly-fly-tank.json](./129735-fly-fly-tank.json) |
 | Fly for Fly | 380403 | [380403-fly-for-fly.json](./380403-fly-for-fly.json) |
+| Fly Fu | 52209 | [52209-fly-fu.json](./52209-fly-fu.json) |
 | Fly Guy | 230512 | [230512-fly-guy.json](./230512-fly-guy.json) |
 | Fly Hands | 291090 | [291090-fly-hands.json](./291090-fly-hands.json) |
 | Fly Hard | 306372 | [306372-fly-hard.json](./306372-fly-hard.json) |
@@ -2803,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Frogs | 209462 | [209462-flying-frogs.json](./209462-flying-frogs.json) |
 | Flying Frogs | 301991 | [301991-flying-frogs.json](./301991-flying-frogs.json) |
 | Flying Guys | 361741 | [361741-flying-guys.json](./361741-flying-guys.json) |
+| Flying Hamster HD | 52220 | [52220-flying-hamster-hd.json](./52220-flying-hamster-hd.json) |
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
 | Flying Hero X | 146684 | [146684-flying-hero-x.json](./146684-flying-hero-x.json) |
 | Flying Islands Games Bundle | 147812 | [147812-flying-islands-games-bundle.json](./147812-flying-islands-games-bundle.json) |
@@ -2944,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
 | Foolish Mortals | 217011 | [217011-foolish-mortals.json](./217011-foolish-mortals.json) |
 | Foonda | 196172 | [196172-foonda.json](./196172-foonda.json) |
+| Foosball 2012 | 52219 | [52219-foosball-2012.json](./52219-foosball-2012.json) |
 | Foosball Cup World | 237957 | [237957-foosball-cup-world.json](./237957-foosball-cup-world.json) |
 | Foosball For Two | 68627 | [68627-foosball-for-two.json](./68627-foosball-for-two.json) |
 | Foosball Runner | 318195 | [318195-foosball-runner.json](./318195-foosball-runner.json) |
@@ -2990,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2021: Limited Edition | 139962 | [139962-football-manager-2021-limited-edition.json](./139962-football-manager-2021-limited-edition.json) |
 | Football Manager 2024 | 266382 | [266382-football-manager-2024.json](./266382-football-manager-2024.json) |
 | Football Manager 26 | 365487 | [365487-football-manager-26.json](./365487-football-manager-26.json) |
+| Football Manager Handheld 2010 | 52218 | [52218-football-manager-handheld-2010.json](./52218-football-manager-handheld-2010.json) |
 | Football Manager Live | 21249 | [21249-football-manager-live.json](./21249-football-manager-live.json) |
 | Football Manager Quiz | 318991 | [318991-football-manager-quiz.json](./318991-football-manager-quiz.json) |
 | Football Mogul 15 | 31694 | [31694-football-mogul-15.json](./31694-football-mogul-15.json) |
@@ -3125,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Keeper Lookout | 383950 | [383950-forest-keeper-lookout.json](./383950-forest-keeper-lookout.json) |
 | Forest Kingdom | 186804 | [186804-forest-kingdom.json](./186804-forest-kingdom.json) |
 | Forest Knight | 134059 | [134059-forest-knight.json](./134059-forest-knight.json) |
+| Forest Legends: The Call of Love | 52217 | [52217-forest-legends-the-call-of-love.json](./52217-forest-legends-the-call-of-love.json) |
 | Forest Liberation | 149558 | [149558-forest-liberation.json](./149558-forest-liberation.json) |
 | Forest Mage | 120815 | [120815-forest-mage.json](./120815-forest-mage.json) |
 | Forest Ninja | 181774 | [181774-forest-ninja.json](./181774-forest-ninja.json) |
@@ -3713,6 +3720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeInfantry | 291224 | [291224-freeinfantry.json](./291224-freeinfantry.json) |
 | Freeing Quency | 179192 | [179192-freeing-quency.json](./179192-freeing-quency.json) |
 | FreeJack | 51276 | [51276-freejack.json](./51276-freejack.json) |
+| Freekscape: Escape From Hell | 52231 | [52231-freekscape-escape-from-hell.json](./52231-freekscape-escape-from-hell.json) |
 | Freelance Dead | 390663 | [390663-freelance-dead.json](./390663-freelance-dead.json) |
 | Freelance Simulator: Game Developer Edition | 100874 | [100874-freelance-simulator-game-developer-edition.json](./100874-freelance-simulator-game-developer-edition.json) |
 | Freelance Trucker: Insurance Fraud Edition | 150644 | [150644-freelance-trucker-insurance-fraud-edition.json](./150644-freelance-trucker-insurance-fraud-edition.json) |
@@ -3755,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fresh Tracks Snowboarding | 344907 | [344907-fresh-tracks-snowboarding.json](./344907-fresh-tracks-snowboarding.json) |
 | Fresh Tracks VR | 380569 | [380569-fresh-tracks-vr.json](./380569-fresh-tracks-vr.json) |
 | FreshWomen: Season 3 | 411674 | [411674-freshwomen-season-3.json](./411674-freshwomen-season-3.json) |
+| Fret Nice | 52230 | [52230-fret-nice.json](./52230-fret-nice.json) |
 | Freud Gate | 125200 | [125200-freud-gate.json](./125200-freud-gate.json) |
 | Freya's Potion Shop | 157702 | [157702-freyas-potion-shop.json](./157702-freyas-potion-shop.json) |
 | Freyr's Love | 165024 | [165024-freyrs-love.json](./165024-freyrs-love.json) |
@@ -3821,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fried Chicken in Wonderland | 158576 | [158576-fried-chicken-in-wonderland.json](./158576-fried-chicken-in-wonderland.json) |
 | Fried Rice Apocalypse | 338727 | [338727-fried-rice-apocalypse.json](./338727-fried-rice-apocalypse.json) |
 | Frieda is Changing | 357272 | [357272-frieda-is-changing.json](./357272-frieda-is-changing.json) |
+| Friend Network | 52229 | [52229-friend-network.json](./52229-friend-network.json) |
 | Friendly | 202253 | [202253-friendly.json](./202253-friendly.json) |
 | Friendly Facade | 232528 | [232528-friendly-facade.json](./232528-friendly-facade.json) |
 | Friendly Fire: Arena | 158653 | [158653-friendly-fire-arena.json](./158653-friendly-fire-arena.json) |
@@ -3941,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy Destroyer | 157711 | [157711-froggy-destroyer.json](./157711-froggy-destroyer.json) |
 | Froggy Drink Bar! | 329965 | [329965-froggy-drink-bar.json](./329965-froggy-drink-bar.json) |
 | Froggy Family Fort | 175963 | [175963-froggy-family-fort.json](./175963-froggy-family-fort.json) |
+| Froggy Jump | 52185 | [52185-froggy-jump.json](./52185-froggy-jump.json) |
 | FrogJump | 224242 | [224242-frogjump.json](./224242-frogjump.json) |
 | FrogLake | 267464 | [267464-froglake.json](./267464-froglake.json) |
 | Froglet | 262402 | [262402-froglet.json](./262402-froglet.json) |
@@ -4077,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Sword: Countermark RE | 216474 | [216474-frozen-sword-countermark-re.json](./216474-frozen-sword-countermark-re.json) |
 | Frozen Synapse 2 | 18435 | [18435-frozen-synapse-2.json](./18435-frozen-synapse-2.json) |
 | Frozen Synapse: Prime Soundtrack Edition | 118844 | [118844-frozen-synapse-prime-soundtrack-edition.json](./118844-frozen-synapse-prime-soundtrack-edition.json) |
+| Frozen Synapse: Tactics | 52228 | [52228-frozen-synapse-tactics.json](./52228-frozen-synapse-tactics.json) |
 | Frozen Time | 256864 | [256864-frozen-time.json](./256864-frozen-time.json) |
 | FrozenPizza | 270096 | [270096-frozenpizza.json](./270096-frozenpizza.json) |
 | Frozzic's Revenge | 57603 | [57603-frozzics-revenge.json](./57603-frozzics-revenge.json) |
@@ -4293,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Trap Jaw | 323319 | [323319-funko-fusion-trap-jaw.json](./323319-funko-fusion-trap-jaw.json) |
 | Funky Bay - Farm & Adventure | 106356 | [106356-funky-bay-farm-and-adventure.json](./106356-funky-bay-farm-and-adventure.json) |
 | Funky Fish | 39685 | [39685-funky-fish.json](./39685-funky-fish.json) |
+| Funky Lab Rat | 52227 | [52227-funky-lab-rat.json](./52227-funky-lab-rat.json) |
 | Funky Maker | 336599 | [336599-funky-maker.json](./336599-funky-maker.json) |
 | Funky Physics | 85162 | [85162-funky-physics.json](./85162-funky-physics.json) |
 | Funky Punch | 64687 | [64687-funky-punch.json](./64687-funky-punch.json) |
