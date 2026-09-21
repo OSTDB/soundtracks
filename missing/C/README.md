@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C64 & Amiga Classix Remakes Sixpack | 94773 | [94773-c64-and-amiga-classix-remakes-sixpack.json](./94773-c64-and-amiga-classix-remakes-sixpack.json) |
 | C64 & Amiga Classix Remakes Sixpack 3 | 120817 | [120817-c64-and-amiga-classix-remakes-sixpack-3.json](./120817-c64-and-amiga-classix-remakes-sixpack-3.json) |
 | C64 & AMIGA Classix Remakes Sixpack 4 | 377574 | [377574-c64-and-amiga-classix-remakes-sixpack-4.json](./377574-c64-and-amiga-classix-remakes-sixpack-4.json) |
+| C64anabalt | 41017 | [41017-c64anabalt.json](./41017-c64anabalt.json) |
 | Cabal 2 | 12132 | [12132-cabal-2.json](./12132-cabal-2.json) |
 | Cabal M: Heroes of Nevareth | 174724 | [174724-cabal-m-heroes-of-nevareth.json](./174724-cabal-m-heroes-of-nevareth.json) |
 | Cabals: Magic & Battle Cards | 33107 | [33107-cabals-magic-and-battle-cards.json](./33107-cabals-magic-and-battle-cards.json) |
@@ -559,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Toad: Treasure Tracker - Special Edition | 51139 | [51139-captain-toad-treasure-tracker-special-edition.json](./51139-captain-toad-treasure-tracker-special-edition.json) |
 | Captain Toad: Treasure Tracker - Special Episode | 132225 | [132225-captain-toad-treasure-tracker-special-episode.json](./132225-captain-toad-treasure-tracker-special-episode.json) |
 | Captain Toad: Treasure Tracker + Special Episode | 136381 | [136381-captain-toad-treasure-tracker-special-episode.json](./136381-captain-toad-treasure-tracker-special-episode.json) |
+| Captain Tomaday | 40981 | [40981-captain-tomaday.json](./40981-captain-tomaday.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
 | Captain Tsubasa III: Koutei no Chousen | 38340 | [38340-captain-tsubasa-iii-koutei-no-chousen.json](./38340-captain-tsubasa-iii-koutei-no-chousen.json) |
 | Captain Tsubasa V: Hasha no Shougou Campione | 38268 | [38268-captain-tsubasa-v-hasha-no-shougou-campione.json](./38268-captain-tsubasa-v-hasha-no-shougou-campione.json) |
@@ -1477,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CaveFiction | 216789 | [216789-cavefiction.json](./216789-cavefiction.json) |
 | Cavegirl Adventures | 163992 | [163992-cavegirl-adventures.json](./163992-cavegirl-adventures.json) |
 | CaveIn: Miner Rescue Team | 68639 | [68639-cavein-miner-rescue-team.json](./68639-cavein-miner-rescue-team.json) |
+| Cavelon | 40971 | [40971-cavelon.json](./40971-cavelon.json) |
 | Cavelon II | 74071 | [74071-cavelon-ii.json](./74071-cavelon-ii.json) |
 | Caveman | 163276 | [163276-caveman.json](./163276-caveman.json) |
 | Caveman | 47281 | [47281-caveman.json](./47281-caveman.json) |
@@ -2386,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choko Loco 2 | 321179 | [321179-choko-loco-2.json](./321179-choko-loco-2.json) |
 | Chokotto Land | 64924 | [64924-chokotto-land.json](./64924-chokotto-land.json) |
 | Chokotto Study Mijika na Kotoba | 252409 | [252409-chokotto-study-mijika-na-kotoba.json](./252409-chokotto-study-mijika-na-kotoba.json) |
+| Choky! Choky! | 40980 | [40980-choky-choky.json](./40980-choky-choky.json) |
 | Cholo | 12984 | [12984-cholo.json](./12984-cholo.json) |
 | Chomp | 79888 | [79888-chomp.json](./79888-chomp.json) |
 | Chomp Hero | 392253 | [392253-chomp-hero.json](./392253-chomp-hero.json) |
@@ -5175,6 +5179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Car | 94263 | [94263-crazy-car.json](./94263-crazy-car.json) |
 | Crazy Cars: Hit the Road | 62976 | [62976-crazy-cars-hit-the-road.json](./62976-crazy-cars-hit-the-road.json) |
 | Crazy Cauldron | 176968 | [176968-crazy-cauldron.json](./176968-crazy-cauldron.json) |
+| Crazy Caveman | 41016 | [41016-crazy-caveman.json](./41016-crazy-caveman.json) |
 | Crazy Chewy | 47267 | [47267-crazy-chewy.json](./47267-crazy-chewy.json) |
 | Crazy Chicken Carnival | 135816 | [135816-crazy-chicken-carnival.json](./135816-crazy-chicken-carnival.json) |
 | Crazy Chicken Jump'n Run: Atlantis Quest | 282571 | [282571-crazy-chicken-jumpn-run-atlantis-quest.json](./282571-crazy-chicken-jumpn-run-atlantis-quest.json) |
