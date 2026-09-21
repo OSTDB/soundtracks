@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars 2 | 230555 | [230555-cars-2.json](./230555-cars-2.json) |
 | Cars 3: Driven to Win | 28075 | [28075-cars-3-driven-to-win.json](./28075-cars-3-driven-to-win.json) |
 | Cars Mater-National Championship | 281854 | [281854-cars-mater-national-championship.json](./281854-cars-mater-national-championship.json) |
+| Cars Mater-National Championship | 4748 | [4748-cars-mater-national-championship.json](./4748-cars-mater-national-championship.json) |
 | Cars Toon: Tokyo Mater | 230550 | [230550-cars-toon-tokyo-mater.json](./230550-cars-toon-tokyo-mater.json) |
 | Cars vs Train | 230939 | [230939-cars-vs-train.json](./230939-cars-vs-train.json) |
 | Cars vs. TNT | 179154 | [179154-cars-vs-tnt.json](./179154-cars-vs-tnt.json) |
@@ -4003,6 +4004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coma: Lost in the Maze | 186816 | [186816-coma-lost-in-the-maze.json](./186816-coma-lost-in-the-maze.json) |
 | Coma: Mortuary | 36321 | [36321-coma-mortuary.json](./36321-coma-mortuary.json) |
 | Comanche 3 | 643 | [643-comanche-3.json](./643-comanche-3.json) |
+| Comanche 4 | 4203 | [4203-comanche-4.json](./4203-comanche-4.json) |
 | Comanche: Maximum Overkill - Mission Disk 1 | 94240 | [94240-comanche-maximum-overkill-mission-disk-1.json](./94240-comanche-maximum-overkill-mission-disk-1.json) |
 | Comando Rio | 297097 | [297097-comando-rio.json](./297097-comando-rio.json) |
 | Comando Tracer | 138800 | [138800-comando-tracer.json](./138800-comando-tracer.json) |
@@ -4277,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concentration | 319797 | [319797-concentration.json](./319797-concentration.json) |
 | Concept 20 | 127224 | [127224-concept-20.json](./127224-concept-20.json) |
 | Concept Destruction | 123561 | [123561-concept-destruction.json](./123561-concept-destruction.json) |
+| Conception II: Children of the Seven Stars | 4701 | [4701-conception-ii-children-of-the-seven-stars.json](./4701-conception-ii-children-of-the-seven-stars.json) |
 | Conception II: Children of the Seven Stars - Limited Edition | 42669 | [42669-conception-ii-children-of-the-seven-stars-limited-edition.json](./42669-conception-ii-children-of-the-seven-stars-limited-edition.json) |
 | ConcernedApe's Haunted Chocolatier | 178101 | [178101-concernedapes-haunted-chocolatier.json](./178101-concernedapes-haunted-chocolatier.json) |
 | Concert | 247542 | [247542-concert.json](./247542-concert.json) |
