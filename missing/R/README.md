@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenhaul | 249470 | [249470-ravenhaul.json](./249470-ravenhaul.json) |
 | RavenHeart Hospital: A Medical Visual Novel | 165009 | [165009-ravenheart-hospital-a-medical-visual-novel.json](./165009-ravenheart-hospital-a-medical-visual-novel.json) |
 | Ravenlok | 204626 | [204626-ravenlok.json](./204626-ravenlok.json) |
+| Ravenmark: Mercenaries | 63534 | [63534-ravenmark-mercenaries.json](./63534-ravenmark-mercenaries.json) |
 | Ravenmoore Psychiatric Hospital | 376463 | [376463-ravenmoore-psychiatric-hospital.json](./376463-ravenmoore-psychiatric-hospital.json) |
 | Ravens Battle Fields | 174849 | [174849-ravens-battle-fields.json](./174849-ravens-battle-fields.json) |
 | Ravensburger Labyrinth | 200049 | [200049-ravensburger-labyrinth.json](./200049-ravensburger-labyrinth.json) |
@@ -2332,6 +2333,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride or Die: A Bad Boy Romance - Book 1 | 313719 | [313719-ride-or-die-a-bad-boy-romance-book-1.json](./313719-ride-or-die-a-bad-boy-romance-book-1.json) |
 | Ride or Die! | 250997 | [250997-ride-or-die.json](./250997-ride-or-die.json) |
 | Ride the Comix | 137007 | [137007-ride-the-comix.json](./137007-ride-the-comix.json) |
+| Ride to Hell: Beatdown | 63559 | [63559-ride-to-hell-beatdown.json](./63559-ride-to-hell-beatdown.json) |
+| Ride to Hell: Route 666 | 63561 | [63561-ride-to-hell-route-666.json](./63561-ride-to-hell-route-666.json) |
 | Ride with the Reaper | 117053 | [117053-ride-with-the-reaper.json](./117053-ride-with-the-reaper.json) |
 | Ride Your Mind | 141208 | [141208-ride-your-mind.json](./141208-ride-your-mind.json) |
 | Ride Your Mind: Blossoms | 141210 | [141210-ride-your-mind-blossoms.json](./141210-ride-your-mind-blossoms.json) |
