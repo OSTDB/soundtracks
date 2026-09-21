@@ -5432,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortimer: First Launch | 341337 | [341337-mortimer-first-launch.json](./341337-mortimer-first-launch.json) |
 | Morto: Chapter 2 | 284497 | [284497-morto-chapter-2.json](./284497-morto-chapter-2.json) |
 | Morton Subotnick's Hearing Music | 70078 | [70078-morton-subotnicks-hearing-music.json](./70078-morton-subotnicks-hearing-music.json) |
+| Morton's Fork | 56128 | [56128-mortons-fork.json](./56128-mortons-fork.json) |
 | MorTown | 383528 | [383528-mortown.json](./383528-mortown.json) |
 | Mortu | 408929 | [408929-mortu.json](./408929-mortu.json) |
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
@@ -6727,12 +6728,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery at Rainy Night Manor: The Missing Invitation | 409657 | [409657-mystery-at-rainy-night-manor-the-missing-invitation.json](./409657-mystery-at-rainy-night-manor-the-missing-invitation.json) |
 | Mystery Box: The Journey | 257360 | [257360-mystery-box-the-journey.json](./257360-mystery-box-the-journey.json) |
 | Mystery Case Files: Black Crown - Collector's Edition | 127100 | [127100-mystery-case-files-black-crown-collectors-edition.json](./127100-mystery-case-files-black-crown-collectors-edition.json) |
+| Mystery Case Files: Broken Hour | 56174 | [56174-mystery-case-files-broken-hour.json](./56174-mystery-case-files-broken-hour.json) |
 | Mystery Case Files: Dire Grove, Sacred Grove - Collector's Edition | 135809 | [135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json](./135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json) |
 | Mystery Case Files: Escape from Ravenhearst | 5516 | [5516-mystery-case-files-escape-from-ravenhearst.json](./5516-mystery-case-files-escape-from-ravenhearst.json) |
 | Mystery Case Files: Incident at Pendle Tower | 187973 | [187973-mystery-case-files-incident-at-pendle-tower.json](./187973-mystery-case-files-incident-at-pendle-tower.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition | 118336 | [118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json](./118336-mystery-case-files-key-to-ravenhearst-collectors-edition.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition & Mystery Case Files: Ravenhearst Unlocked - Collector's Edition | 201821 | [201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json](./201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json) |
 | Mystery Case Files: Prime Suspects | 5510 | [5510-mystery-case-files-prime-suspects.json](./5510-mystery-case-files-prime-suspects.json) |
+| Mystery Case Files: The Black Veil | 56172 | [56172-mystery-case-files-the-black-veil.json](./56172-mystery-case-files-the-black-veil.json) |
 | Mystery Case Files: The Dalimar Legacy - Collector's Edition | 243787 | [243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json](./243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json) |
 | Mystery Case Files: The Last Resort - Collector's Edition | 236009 | [236009-mystery-case-files-the-last-resort-collectors-edition.json](./236009-mystery-case-files-the-last-resort-collectors-edition.json) |
 | Mystery Case Files: The Riddle of Mrs. Bishop | 360051 | [360051-mystery-case-files-the-riddle-of-mrs-bishop.json](./360051-mystery-case-files-the-riddle-of-mrs-bishop.json) |
