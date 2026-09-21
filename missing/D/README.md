@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
 | Dark Reign: The Future of War - Battles of the Outer Rim | 73771 | [73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json](./73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json) |
+| Dark Reign: The Future of War - Rise of the Shadowhand | 658 | [658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json](./658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json) |
 | Dark Ride Escape | 310577 | [310577-dark-ride-escape.json](./310577-dark-ride-escape.json) |
 | Dark Romance: Ashville | 139798 | [139798-dark-romance-ashville.json](./139798-dark-romance-ashville.json) |
 | Dark Romance: Heart of the Beast HD | 88814 | [88814-dark-romance-heart-of-the-beast-hd.json](./88814-dark-romance-heart-of-the-beast-hd.json) |
@@ -1568,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decimation X | 66374 | [66374-decimation-x.json](./66374-decimation-x.json) |
 | Decision | 299762 | [299762-decision.json](./299762-decision.json) |
 | Decision in the Desert | 25923 | [25923-decision-in-the-desert.json](./25923-decision-in-the-desert.json) |
+| Decisive Battles of WWII: Korsun Pocket | 768 | [768-decisive-battles-of-wwii-korsun-pocket.json](./768-decisive-battles-of-wwii-korsun-pocket.json) |
 | Decisive Campaigns: Barbarossa | 33205 | [33205-decisive-campaigns-barbarossa.json](./33205-decisive-campaigns-barbarossa.json) |
 | Deck Adventurers II | 199570 | [199570-deck-adventurers-ii.json](./199570-deck-adventurers-ii.json) |
 | Deck Collector | 404827 | [404827-deck-collector.json](./404827-deck-collector.json) |
