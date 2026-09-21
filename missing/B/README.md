@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldoo | 116822 | [116822-baldoo.json](./116822-baldoo.json) |
 | Baldr Fist | 180241 | [180241-baldr-fist.json](./180241-baldr-fist.json) |
 | Baldr Force Exe | 44622 | [44622-baldr-force-exe.json](./44622-baldr-force-exe.json) |
+| Baldr Sky: Zero 2 | 54744 | [54744-baldr-sky-zero-2.json](./54744-baldr-sky-zero-2.json) |
 | Baldrhead: Busou Kinyuu Gaiden | 180223 | [180223-baldrhead-busou-kinyuu-gaiden.json](./180223-baldrhead-busou-kinyuu-gaiden.json) |
 | Baldric's Quest | 52619 | [52619-baldrics-quest.json](./52619-baldrics-quest.json) |
 | Baldur's Gate 3: Digital Deluxe Edition | 279884 | [279884-baldurs-gate-3-digital-deluxe-edition.json](./279884-baldurs-gate-3-digital-deluxe-edition.json) |
@@ -1341,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Spirits: Connected Battlers | 146910 | [146910-battle-spirits-connected-battlers.json](./146910-battle-spirits-connected-battlers.json) |
 | Battle Spirits: Kiseki no Hasha | 56516 | [56516-battle-spirits-kiseki-no-hasha.json](./56516-battle-spirits-kiseki-no-hasha.json) |
 | Battle Squares | 322008 | [322008-battle-squares.json](./322008-battle-squares.json) |
+| Battle Squares | 54739 | [54739-battle-squares.json](./54739-battle-squares.json) |
 | Battle Stadium: Senbatsu Pro Yakyuu | 48585 | [48585-battle-stadium-senbatsu-pro-yakyuu.json](./48585-battle-stadium-senbatsu-pro-yakyuu.json) |
 | Battle Star | 157129 | [157129-battle-star.json](./157129-battle-star.json) |
 | Battle Stations | 136864 | [136864-battle-stations.json](./136864-battle-stations.json) |
@@ -1754,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania 6thMix: The UK Underground Music | 79612 | [79612-beatmania-6thmix-the-uk-underground-music.json](./79612-beatmania-6thmix-the-uk-underground-music.json) |
 | Beatmania 7thMix: Keepin' Evolution | 94743 | [94743-beatmania-7thmix-keepin-evolution.json](./94743-beatmania-7thmix-keepin-evolution.json) |
 | Beatmania Append 5thMix: Time to Get Down | 70994 | [70994-beatmania-append-5thmix-time-to-get-down.json](./70994-beatmania-append-5thmix-time-to-get-down.json) |
+| Beatmania Append ClubMix | 54706 | [54706-beatmania-append-clubmix.json](./54706-beatmania-append-clubmix.json) |
 | Beatmania Append Gottamix 2: Going Global | 292855 | [292855-beatmania-append-gottamix-2-going-global.json](./292855-beatmania-append-gottamix-2-going-global.json) |
 | beatmania complete MIX | 94744 | [94744-beatmania-complete-mix.json](./94744-beatmania-complete-mix.json) |
 | Beatmania GB | 91769 | [91769-beatmania-gb.json](./91769-beatmania-gb.json) |
