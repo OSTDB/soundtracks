@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xoo: Xeno Xafari | 149000 | [149000-xoo-xeno-xafari.json](./149000-xoo-xeno-xafari.json) |
 | Xoo: Xeno Xafari | 387523 | [387523-xoo-xeno-xafari.json](./387523-xoo-xeno-xafari.json) |
 | Xorbius | 384665 | [384665-xorbius.json](./384665-xorbius.json) |
+| XorceD - Sashiro's Laedrum | 33432 | [33432-xorced-sashiros-laedrum.json](./33432-xorced-sashiros-laedrum.json) |
 | Xordle | 197903 | [197903-xordle.json](./197903-xordle.json) |
 | Xorple | 86555 | [86555-xorple.json](./86555-xorple.json) |
 | XP Racing | 289880 | [289880-xp-racing.json](./289880-xp-racing.json) |
