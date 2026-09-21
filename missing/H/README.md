@@ -717,6 +717,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harts | 80920 | [80920-harts.json](./80920-harts.json) |
 | Haru he to Tsuzuku Oka | 388003 | [388003-haru-he-to-tsuzuku-oka.json](./388003-haru-he-to-tsuzuku-oka.json) |
 | Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
+| Harukanaru Augusta 2: Masters | 37933 | [37933-harukanaru-augusta-2-masters.json](./37933-harukanaru-augusta-2-masters.json) |
+| Harukanaru Augusta 3: Masters New | 37932 | [37932-harukanaru-augusta-3-masters-new.json](./37932-harukanaru-augusta-3-masters-new.json) |
 | Harukanaru Toki no Naka de 2 | 70658 | [70658-harukanaru-toki-no-naka-de-2.json](./70658-harukanaru-toki-no-naka-de-2.json) |
 | Harukanaru Toki no Naka de 3 | 70657 | [70657-harukanaru-toki-no-naka-de-3.json](./70657-harukanaru-toki-no-naka-de-3.json) |
 | Harukanaru Toki no Naka de 3 Ultimate | 136461 | [136461-harukanaru-toki-no-naka-de-3-ultimate.json](./136461-harukanaru-toki-no-naka-de-3-ultimate.json) |
