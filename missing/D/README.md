@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Eyes: Millennium 2000 | 145632 | [145632-dark-eyes-millennium-2000.json](./145632-dark-eyes-millennium-2000.json) |
 | Dark Fairy Fantasy | 122432 | [122432-dark-fairy-fantasy.json](./122432-dark-fairy-fantasy.json) |
 | Dark Fairy Tale | 348332 | [348332-dark-fairy-tale.json](./348332-dark-fairy-tale.json) |
+| Dark Fall | 9817 | [9817-dark-fall.json](./9817-dark-fall.json) |
 | Dark Fantasy: Epic Jigsaw Puzzle | 137441 | [137441-dark-fantasy-epic-jigsaw-puzzle.json](./137441-dark-fantasy-epic-jigsaw-puzzle.json) |
 | Dark Farm | 322995 | [322995-dark-farm.json](./322995-dark-farm.json) |
 | Dark Flowers | 157135 | [157135-dark-flowers.json](./157135-dark-flowers.json) |
@@ -3827,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki-doki Cooking Series 2: Gourmet Kitchen - Suteki na Obentou | 138030 | [138030-doki-doki-cooking-series-2-gourmet-kitchen-suteki-na-obentou.json](./138030-doki-doki-cooking-series-2-gourmet-kitchen-suteki-na-obentou.json) |
 | Doki-doki Penguin Land | 6096 | [6096-doki-doki-penguin-land.json](./6096-doki-doki-penguin-land.json) |
 | Doki-Doki Pretty League: Nekketsu Otome Seishunki | 306674 | [306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json](./306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json) |
+| Doki-Doki Universe | 8684 | [8684-doki-doki-universe.json](./8684-doki-doki-universe.json) |
 | Doki: Chapter 0 | 304217 | [304217-doki-chapter-0.json](./304217-doki-chapter-0.json) |
 | Doki! Doki! Yuuenchi: Crazy Land Daisakusen | 48663 | [48663-doki-doki-yuuenchi-crazy-land-daisakusen.json](./48663-doki-doki-yuuenchi-crazy-land-daisakusen.json) |
 | Dokis World | 269030 | [269030-dokis-world.json](./269030-dokis-world.json) |
@@ -4479,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down | 295887 | [295887-down.json](./295887-down.json) |
 | Down Beneath | 179725 | [179725-down-beneath.json](./179725-down-beneath.json) |
 | Down Fast VR | 203937 | [203937-down-fast-vr.json](./203937-down-fast-vr.json) |
+| Down in Bermuda | 124396 | [124396-down-in-bermuda.json](./124396-down-in-bermuda.json) |
 | Down in Flames | 64139 | [64139-down-in-flames.json](./64139-down-in-flames.json) |
 | Down in the Dark | 149920 | [149920-down-in-the-dark.json](./149920-down-in-the-dark.json) |
 | Down in the Depths Blind | 219263 | [219263-down-in-the-depths-blind.json](./219263-down-in-the-depths-blind.json) |
@@ -4599,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracu-Riot! | 137087 | [137087-dracu-riot.json](./137087-dracu-riot.json) |
 | Dracula | 18588 | [18588-dracula.json](./18588-dracula.json) |
 | Dracula | 31184 | [31184-dracula.json](./31184-dracula.json) |
+| Dracula 2: The Last Sanctuary | 9092 | [9092-dracula-2-the-last-sanctuary.json](./9092-dracula-2-the-last-sanctuary.json) |
 | Dracula 4: The Shadow of the Dragon | 9090 | [9090-dracula-4-the-shadow-of-the-dragon.json](./9090-dracula-4-the-shadow-of-the-dragon.json) |
 | Dracula 4+5 | 154936 | [154936-dracula-4-5.json](./154936-dracula-4-5.json) |
 | Dracula 5: The Blood Legacy | 9094 | [9094-dracula-5-the-blood-legacy.json](./9094-dracula-5-the-blood-legacy.json) |
