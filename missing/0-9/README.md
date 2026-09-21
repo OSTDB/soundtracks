@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Basketball Champs Elite | 101467 | [101467-3d-basketball-champs-elite.json](./101467-3d-basketball-champs-elite.json) |
 | 3D Battle Zone | 67681 | [67681-3d-battle-zone.json](./67681-3d-battle-zone.json) |
 | 3D Blitz | 245388 | [245388-3d-blitz.json](./245388-3d-blitz.json) |
+| 3D Block | 48905 | [48905-3d-block.json](./48905-3d-block.json) |
 | 3D Boxing | 12980 | [12980-3d-boxing.json](./12980-3d-boxing.json) |
 | 3D Brick Bustin Madness | 205832 | [205832-3d-brick-bustin-madness.json](./205832-3d-brick-bustin-madness.json) |
 | 3D Chess | 223001 | [223001-3d-chess.json](./223001-3d-chess.json) |
