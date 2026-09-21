@@ -2365,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | China Miner | 13828 | [13828-china-miner.json](./13828-china-miner.json) |
 | China Syndrome | 18554 | [18554-china-syndrome.json](./18554-china-syndrome.json) |
 | Chinatown | 272012 | [272012-chinatown.json](./272012-chinatown.json) |
+| Chinatown Detective Agency | 125715 | [125715-chinatown-detective-agency.json](./125715-chinatown-detective-agency.json) |
 | Chinese Ancient Poetry Matching Game | 274576 | [274576-chinese-ancient-poetry-matching-game.json](./274576-chinese-ancient-poetry-matching-game.json) |
 | Chinese Characters | 223507 | [223507-chinese-characters.json](./223507-chinese-characters.json) |
 | Chinese Checkers | 100228 | [100228-chinese-checkers.json](./100228-chinese-checkers.json) |
@@ -3201,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay Soldiers | 237520 | [237520-clay-soldiers.json](./237520-clay-soldiers.json) |
 | Clayborn Idle | 382301 | [382301-clayborn-idle.json](./382301-clayborn-idle.json) |
 | Clayers | 348326 | [348326-clayers.json](./348326-clayers.json) |
+| ClayFighter: Tournament Edition | 42616 | [42616-clayfighter-tournament-edition.json](./42616-clayfighter-tournament-edition.json) |
 | Clayton's Quest | 72325 | [72325-claytons-quest.json](./72325-claytons-quest.json) |
 | ClayTown Horror | 217403 | [217403-claytown-horror.json](./217403-claytown-horror.json) |
 | Clean Attack! | 135025 | [135025-clean-attack.json](./135025-clean-attack.json) |
@@ -3901,6 +3903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Bundle | 317237 | [317237-coloring-bundle.json](./317237-coloring-bundle.json) |
 | Coloring Game | 114998 | [114998-coloring-game.json](./114998-coloring-game.json) |
 | Coloring Game 10k | 362358 | [362358-coloring-game-10k.json](./362358-coloring-game-10k.json) |
+| Coloring Game 2 | 130094 | [130094-coloring-game-2.json](./130094-coloring-game-2.json) |
 | Coloring Game 3: Art Museum | 252759 | [252759-coloring-game-3-art-museum.json](./252759-coloring-game-3-art-museum.json) |
 | Coloring Game 3: Season Pass | 252761 | [252761-coloring-game-3-season-pass.json](./252761-coloring-game-3-season-pass.json) |
 | Coloring Game 3: Video Game No. 1 | 252760 | [252760-coloring-game-3-video-game-no-1.json](./252760-coloring-game-3-video-game-no-1.json) |
