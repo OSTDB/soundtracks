@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Time Is Mine | 82945 | [82945-your-time-is-mine.json](./82945-your-time-is-mine.json) |
 | Your Time to Shine: Island Existence | 205610 | [205610-your-time-to-shine-island-existence.json](./205610-your-time-to-shine-island-existence.json) |
 | Your Train 2 | 267085 | [267085-your-train-2.json](./267085-your-train-2.json) |
+| Your Turn to Die: Death Game by Majority | 120974 | [120974-your-turn-to-die-death-game-by-majority.json](./120974-your-turn-to-die-death-game-by-majority.json) |
 | Your Turn To Thrive | 413776 | [413776-your-turn-to-thrive.json](./413776-your-turn-to-thrive.json) |
 | Your Very Last Words | 352760 | [352760-your-very-last-words.json](./352760-your-very-last-words.json) |
 | Your Waifu Juice | 216478 | [216478-your-waifu-juice.json](./216478-your-waifu-juice.json) |
