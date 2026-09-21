@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Town: Birthday quest | 170498 | [170498-jungle-town-birthday-quest.json](./170498-jungle-town-birthday-quest.json) |
 | Jungle Trouble | 47207 | [47207-jungle-trouble.json](./47207-jungle-trouble.json) |
 | Jungle Wars | 138828 | [138828-jungle-wars.json](./138828-jungle-wars.json) |
+| Jungle Wars 2: Kodai Mahou Atimos no Nazo | 37972 | [37972-jungle-wars-2-kodai-mahou-atimos-no-nazo.json](./37972-jungle-wars-2-kodai-mahou-atimos-no-nazo.json) |
 | Jungledyret | 286115 | [286115-jungledyret.json](./286115-jungledyret.json) |
 | Jungledyret Hugo: Frikadellekrigen | 286117 | [286117-jungledyret-hugo-frikadellekrigen.json](./286117-jungledyret-hugo-frikadellekrigen.json) |
 | Jungledyret Hugo: Frugtkampen Med Zik Og Zak | 286116 | [286116-jungledyret-hugo-frugtkampen-med-zik-og-zak.json](./286116-jungledyret-hugo-frugtkampen-med-zik-og-zak.json) |
