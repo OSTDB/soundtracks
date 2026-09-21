@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | While You Are Downloading | 87963 | [87963-while-you-are-downloading.json](./87963-while-you-are-downloading.json) |
 | Whimre | 252228 | [252228-whimre.json](./252228-whimre.json) |
 | Whip Dummy Crash | 174902 | [174902-whip-dummy-crash.json](./174902-whip-dummy-crash.json) |
+| Whip the Vote | 37379 | [37379-whip-the-vote.json](./37379-whip-the-vote.json) |
 | Whiplash | 411608 | [411608-whiplash.json](./411608-whiplash.json) |
 | Whiplash | 95503 | [95503-whiplash.json](./95503-whiplash.json) |
 | Whiplash Taxi Co | 293768 | [293768-whiplash-taxi-co.json](./293768-whiplash-taxi-co.json) |
@@ -1607,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Arms 4 | 1681 | [1681-wild-arms-4.json](./1681-wild-arms-4.json) |
 | Wild Arms Alter Code: F | 1680 | [1680-wild-arms-alter-code-f.json](./1680-wild-arms-alter-code-f.json) |
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
+| Wild Card | 37349 | [37349-wild-card.json](./37349-wild-card.json) |
 | Wild Cats | 365662 | [365662-wild-cats.json](./365662-wild-cats.json) |
 | Wild Cheetah Sim 3D | 330725 | [330725-wild-cheetah-sim-3d.json](./330725-wild-cheetah-sim-3d.json) |
 | Wild Country | 151014 | [151014-wild-country.json](./151014-wild-country.json) |
@@ -2053,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With the Addition of Markiplier | 159181 | [159181-with-the-addition-of-markiplier.json](./159181-with-the-addition-of-markiplier.json) |
 | With The Fire And Sword | 330885 | [330885-with-the-fire-and-sword.json](./330885-with-the-fire-and-sword.json) |
 | With You | 188710 | [188710-with-you.json](./188710-with-you.json) |
+| With You: Mitsumete Itai | 37347 | [37347-with-you-mitsumete-itai.json](./37347-with-you-mitsumete-itai.json) |
 | Witherbloom | 291447 | [291447-witherbloom.json](./291447-witherbloom.json) |
 | Withered: A visual novel | 178017 | [178017-withered-a-visual-novel.json](./178017-withered-a-visual-novel.json) |
 | Witherholme | 189058 | [189058-witherholme.json](./189058-witherholme.json) |
@@ -2139,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards & Warriors III: Kuros - Visions of Power | 48092 | [48092-wizards-and-warriors-iii-kuros-visions-of-power.json](./48092-wizards-and-warriors-iii-kuros-visions-of-power.json) |
 | Wizards and Warlords | 30132 | [30132-wizards-and-warlords.json](./30132-wizards-and-warlords.json) |
 | Wizards and Warp Drives | 63538 | [63538-wizards-and-warp-drives.json](./63538-wizards-and-warp-drives.json) |
+| Wizards Home | 37381 | [37381-wizards-home.json](./37381-wizards-home.json) |
 | Wizards Legacy: Nightmare Park Manager Simulator | 261345 | [261345-wizards-legacy-nightmare-park-manager-simulator.json](./261345-wizards-legacy-nightmare-park-manager-simulator.json) |
 | Wizards Spell | 73834 | [73834-wizards-spell.json](./73834-wizards-spell.json) |
 | Wizards Tourney | 109438 | [109438-wizards-tourney.json](./109438-wizards-tourney.json) |
