@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Heropolis | 202851 | [202851-legends-of-heropolis.json](./202851-legends-of-heropolis.json) |
 | Legends Of Heropolis DX | 317840 | [317840-legends-of-heropolis-dx.json](./317840-legends-of-heropolis-dx.json) |
 | Legends of Illarion | 228438 | [228438-legends-of-illarion.json](./228438-legends-of-illarion.json) |
+| Legends of Iona RPG | 55492 | [55492-legends-of-iona-rpg.json](./55492-legends-of-iona-rpg.json) |
 | Legends of Koyannis | 110368 | [110368-legends-of-koyannis.json](./110368-legends-of-koyannis.json) |
 | Legends of Loot | 64346 | [64346-legends-of-loot.json](./64346-legends-of-loot.json) |
 | Legends of Luisa Llama | 239078 | [239078-legends-of-luisa-llama.json](./239078-legends-of-luisa-llama.json) |
@@ -1150,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Mills XR Bodycombat: Power Strike | 352211 | [352211-les-mills-xr-bodycombat-power-strike.json](./352211-les-mills-xr-bodycombat-power-strike.json) |
 | Les Mills XR Bodycombat: Ultimate Fitness Pack | 380565 | [380565-les-mills-xr-bodycombat-ultimate-fitness-pack.json](./380565-les-mills-xr-bodycombat-ultimate-fitness-pack.json) |
 | Les Portes du Temps | 86023 | [86023-les-portes-du-temps.json](./86023-les-portes-du-temps.json) |
+| Les Quatre Alices | 55490 | [55490-les-quatre-alices.json](./55490-les-quatre-alices.json) |
 | Les Ripoux | 133439 | [133439-les-ripoux.json](./133439-les-ripoux.json) |
 | Lesbian Mothman Hunters | 151751 | [151751-lesbian-mothman-hunters.json](./151751-lesbian-mothman-hunters.json) |
 | Lesbian Vampire Simulator | 177531 | [177531-lesbian-vampire-simulator.json](./177531-lesbian-vampire-simulator.json) |
@@ -1272,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Encounter | 297477 | [297477-lethal-encounter.json](./297477-lethal-encounter.json) |
 | Lethal Enforcers 3 | 5399 | [5399-lethal-enforcers-3.json](./5399-lethal-enforcers-3.json) |
 | Lethal Infiltration: Ghost Reconnaissance | 296932 | [296932-lethal-infiltration-ghost-reconnaissance.json](./296932-lethal-infiltration-ghost-reconnaissance.json) |
+| Lethal Laser | 55489 | [55489-lethal-laser.json](./55489-lethal-laser.json) |
 | Lethal Lava Land | 308231 | [308231-lethal-lava-land.json](./308231-lethal-lava-land.json) |
 | Lethal League Prototype | 382914 | [382914-lethal-league-prototype.json](./382914-lethal-league-prototype.json) |
 | Lethal Love | 287091 | [287091-lethal-love.json](./287091-lethal-love.json) |
@@ -1307,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter to a Landlord | 309345 | [309345-letter-to-a-landlord.json](./309345-letter-to-a-landlord.json) |
 | Letter Vetter | 149084 | [149084-letter-vetter.json](./149084-letter-vetter.json) |
 | Letter Zap! | 70430 | [70430-letter-zap.json](./70430-letter-zap.json) |
+| Letter-Setter | 55452 | [55452-letter-setter.json](./55452-letter-setter.json) |
 | Letteral | 242795 | [242795-letteral.json](./242795-letteral.json) |
 | Letterally | 400861 | [400861-letterally.json](./400861-letterally.json) |
 | LetterBound | 151185 | [151185-letterbound.json](./151185-letterbound.json) |
