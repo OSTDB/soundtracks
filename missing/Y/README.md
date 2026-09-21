@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza 2 Restored | 349856 | [349856-yakuza-2-restored.json](./349856-yakuza-2-restored.json) |
 | Yakuza 5 Remastered | 103017 | [103017-yakuza-5-remastered.json](./103017-yakuza-5-remastered.json) |
 | Yakuza Kiwami & Yakuza Kiwami 2 Bundle | 370796 | [370796-yakuza-kiwami-and-yakuza-kiwami-2-bundle.json](./370796-yakuza-kiwami-and-yakuza-kiwami-2-bundle.json) |
+| Yakuza Kiwami 2 | 55090 | [55090-yakuza-kiwami-2.json](./55090-yakuza-kiwami-2.json) |
 | Yakuza Kiwami 3 & Dark Ties: Flip Phone Customization Pack | 375193 | [375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json](./375193-yakuza-kiwami-3-and-dark-ties-flip-phone-customization-pack.json) |
 | Yakuza Kiwami 3 & Dark Ties: Legendary BGM CD Pack | 375194 | [375194-yakuza-kiwami-3-and-dark-ties-legendary-bgm-cd-pack.json](./375194-yakuza-kiwami-3-and-dark-ties-legendary-bgm-cd-pack.json) |
 | Yakuza Kiwami 3 & Dark Ties: Legendary Lads & Gals Set | 375195 | [375195-yakuza-kiwami-3-and-dark-ties-legendary-lads-and-gals-set.json](./375195-yakuza-kiwami-3-and-dark-ties-legendary-lads-and-gals-set.json) |
