@@ -2797,7 +2797,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cirrus Business | 253987 | [253987-cirrus-business.json](./253987-cirrus-business.json) |
 | Citadale Resurrection: Darkness my Curse | 261867 | [261867-citadale-resurrection-darkness-my-curse.json](./261867-citadale-resurrection-darkness-my-curse.json) |
 | Citadale Resurrection: Prelude to War | 250358 | [250358-citadale-resurrection-prelude-to-war.json](./250358-citadale-resurrection-prelude-to-war.json) |
+| Citadale: Gate of Souls | 56152 | [56152-citadale-gate-of-souls.json](./56152-citadale-gate-of-souls.json) |
 | Citadale: The Accursed Seal | 318212 | [318212-citadale-the-accursed-seal.json](./318212-citadale-the-accursed-seal.json) |
+| Citadale: The Legends Trilogy | 56151 | [56151-citadale-the-legends-trilogy.json](./56151-citadale-the-legends-trilogy.json) |
 | Citadel | 13704 | [13704-citadel.json](./13704-citadel.json) |
 | Citadel | 276477 | [276477-citadel.json](./276477-citadel.json) |
 | Citadel | 404944 | [404944-citadel.json](./404944-citadel.json) |
@@ -5879,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Clones | 151681 | [151681-cube-clones.json](./151681-cube-clones.json) |
 | Cube Crawler | 193939 | [193939-cube-crawler.json](./193939-cube-crawler.json) |
 | Cube Crawler | 328260 | [328260-cube-crawler.json](./328260-cube-crawler.json) |
+| Cube Creator DX | 56162 | [56162-cube-creator-dx.json](./56162-cube-creator-dx.json) |
 | Cube Creatures | 51988 | [51988-cube-creatures.json](./51988-cube-creatures.json) |
 | Cube Crisis | 156094 | [156094-cube-crisis.json](./156094-cube-crisis.json) |
 | Cube Crusaders | 265676 | [265676-cube-crusaders.json](./265676-cube-crusaders.json) |
