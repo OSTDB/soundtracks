@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicians' Chase: Missing Curry Recipe | 219286 | [219286-magicians-chase-missing-curry-recipe.json](./219286-magicians-chase-missing-curry-recipe.json) |
 | MagiCirBrk | 98786 | [98786-magicirbrk.json](./98786-magicirbrk.json) |
 | MagicJam | 113020 | [113020-magicjam.json](./113020-magicjam.json) |
+| Magicka | 2042 | [2042-magicka.json](./2042-magicka.json) |
 | Magicka 2 | 9807 | [9807-magicka-2.json](./9807-magicka-2.json) |
 | Magicka 2 Complete Collection | 321760 | [321760-magicka-2-complete-collection.json](./321760-magicka-2-complete-collection.json) |
 | Magicka 2 Upgrade Pack | 321759 | [321759-magicka-2-upgrade-pack.json](./321759-magicka-2-upgrade-pack.json) |
@@ -5507,6 +5508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 3 | 223026 | [223026-mortal-kombat-3.json](./223026-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 242251 | [242251-mortal-kombat-3.json](./242251-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 242252 | [242252-mortal-kombat-3.json](./242252-mortal-kombat-3.json) |
+| Mortal Kombat 4 | 1622 | [1622-mortal-kombat-4.json](./1622-mortal-kombat-4.json) |
 | Mortal Kombat 4 | 200683 | [200683-mortal-kombat-4.json](./200683-mortal-kombat-4.json) |
 | Mortal Kombat Advance | 45156 | [45156-mortal-kombat-advance.json](./45156-mortal-kombat-advance.json) |
 | Mortal Kombat Gold | 45155 | [45155-mortal-kombat-gold.json](./45155-mortal-kombat-gold.json) |
