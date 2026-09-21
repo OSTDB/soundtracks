@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: Double Pack | 144125 | [144125-saints-row-double-pack.json](./144125-saints-row-double-pack.json) |
 | Saints Row: Drive-By | 77307 | [77307-saints-row-drive-by.json](./77307-saints-row-drive-by.json) |
 | Saints Row: Front to Back Cosmetic Pack | 307141 | [307141-saints-row-front-to-back-cosmetic-pack.json](./307141-saints-row-front-to-back-cosmetic-pack.json) |
+| Saints Row: Gat Out of Hell | 7708 | [7708-saints-row-gat-out-of-hell.json](./7708-saints-row-gat-out-of-hell.json) |
 | Saints Row: Going Commando Cosmetic Pack | 307144 | [307144-saints-row-going-commando-cosmetic-pack.json](./307144-saints-row-going-commando-cosmetic-pack.json) |
 | Saints Row: Idols Anarchy Pack | 307146 | [307146-saints-row-idols-anarchy-pack.json](./307146-saints-row-idols-anarchy-pack.json) |
 | Saints Row: Los Panteros American Muscle Bundle | 307148 | [307148-saints-row-los-panteros-american-muscle-bundle.json](./307148-saints-row-los-panteros-american-muscle-bundle.json) |
@@ -3338,6 +3339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Classic | 158145 | [158145-sid-classic.json](./158145-sid-classic.json) |
 | Sid Meier's Alien Crossfire | 9197 | [9197-sid-meiers-alien-crossfire.json](./9197-sid-meiers-alien-crossfire.json) |
 | Sid Meier's Civil War Collection | 208996 | [208996-sid-meiers-civil-war-collection.json](./208996-sid-meiers-civil-war-collection.json) |
+| Sid Meier's Civilization II | 634 | [634-sid-meiers-civilization-ii.json](./634-sid-meiers-civilization-ii.json) |
 | Sid Meier's Civilization II: Conflicts in Civilization | 115032 | [115032-sid-meiers-civilization-ii-conflicts-in-civilization.json](./115032-sid-meiers-civilization-ii-conflicts-in-civilization.json) |
 | Sid Meier's Civilization III | 310 | [310-sid-meiers-civilization-iii.json](./310-sid-meiers-civilization-iii.json) |
 | Sid Meier's Civilization III: Gold Edition | 55119 | [55119-sid-meiers-civilization-iii-gold-edition.json](./55119-sid-meiers-civilization-iii-gold-edition.json) |
@@ -3433,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Hill | 390655 | [390655-signal-hill.json](./390655-signal-hill.json) |
 | Signal Ops | 16734 | [16734-signal-ops.json](./16734-signal-ops.json) |
 | Signal13 | 410346 | [410346-signal13.json](./410346-signal13.json) |
+| Signalis | 103244 | [103244-signalis.json](./103244-signalis.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
 | Signed by '89 | 177439 | [177439-signed-by-89.json](./177439-signed-by-89.json) |
 | Signs of Darkness | 76531 | [76531-signs-of-darkness.json](./76531-signs-of-darkness.json) |
@@ -3472,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill f: Steelbook Edition | 381094 | [381094-silent-hill-f-steelbook-edition.json](./381094-silent-hill-f-steelbook-edition.json) |
 | Silent Hill: Book of Memories | 9714 | [9714-silent-hill-book-of-memories.json](./9714-silent-hill-book-of-memories.json) |
 | Silent Hill: Cold Heart | 282700 | [282700-silent-hill-cold-heart.json](./282700-silent-hill-cold-heart.json) |
+| Silent Hill: Homecoming | 485 | [485-silent-hill-homecoming.json](./485-silent-hill-homecoming.json) |
 | Silent Hill: Play Novel | 77257 | [77257-silent-hill-play-novel.json](./77257-silent-hill-play-novel.json) |
 | Silent Hill: Shattered Memories | 486 | [486-silent-hill-shattered-memories.json](./486-silent-hill-shattered-memories.json) |
 | Silent Hill: The Arcade | 324910 | [324910-silent-hill-the-arcade.json](./324910-silent-hill-the-arcade.json) |
@@ -3576,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimAnimals | 5155 | [5155-simanimals.json](./5155-simanimals.json) |
 | SimbaQuest | 243699 | [243699-simbaquest.json](./243699-simbaquest.json) |
 | SimCasino | 141132 | [141132-simcasino.json](./141132-simcasino.json) |
+| SimCity | 1274 | [1274-simcity.json](./1274-simcity.json) |
 | SimCity | 208990 | [208990-simcity.json](./208990-simcity.json) |
 | SimCity 2000 | 330 | [330-simcity-2000.json](./330-simcity-2000.json) |
 | SimCity 2000 Urban Renewal Kit | 130907 | [130907-simcity-2000-urban-renewal-kit.json](./130907-simcity-2000-urban-renewal-kit.json) |
@@ -4659,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slums of Tetsoidea | 186820 | [186820-slums-of-tetsoidea.json](./186820-slums-of-tetsoidea.json) |
 | Slurpy | 25712 | [25712-slurpy.json](./25712-slurpy.json) |
 | Sly 3: Honor Among Thieves | 222127 | [222127-sly-3-honor-among-thieves.json](./222127-sly-3-honor-among-thieves.json) |
+| Sly Cooper and the Thievius Raccoonus | 1798 | [1798-sly-cooper-and-the-thievius-raccoonus.json](./1798-sly-cooper-and-the-thievius-raccoonus.json) |
 | Sly Panda | 198514 | [198514-sly-panda.json](./198514-sly-panda.json) |
 | Sly Slime | 156697 | [156697-sly-slime.json](./156697-sly-slime.json) |
 | Sly Spy | 12852 | [12852-sly-spy.json](./12852-sly-spy.json) |
@@ -5764,6 +5770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Bowling | 261293 | [261293-sonic-bowling.json](./261293-sonic-bowling.json) |
 | Sonic Breaking Point | 370212 | [370212-sonic-breaking-point.json](./370212-sonic-breaking-point.json) |
 | Sonic CCG | 330876 | [330876-sonic-ccg.json](./330876-sonic-ccg.json) |
+| Sonic CD | 5452 | [5452-sonic-cd.json](./5452-sonic-cd.json) |
 | Sonic CD | 86807 | [86807-sonic-cd.json](./86807-sonic-cd.json) |
 | Sonic CD 2011 Decompilation | 202234 | [202234-sonic-cd-2011-decompilation.json](./202234-sonic-cd-2011-decompilation.json) |
 | Sonic CD: Episode Metal | 201809 | [201809-sonic-cd-episode-metal.json](./201809-sonic-cd-episode-metal.json) |
@@ -5987,6 +5994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic The Hedgehog 2D | 314902 | [314902-sonic-the-hedgehog-2d.json](./314902-sonic-the-hedgehog-2d.json) |
 | Sonic the Hedgehog 3 | 239071 | [239071-sonic-the-hedgehog-3.json](./239071-sonic-the-hedgehog-3.json) |
 | Sonic the Hedgehog 3 | 375301 | [375301-sonic-the-hedgehog-3.json](./375301-sonic-the-hedgehog-3.json) |
+| Sonic the Hedgehog 3 & Knuckles | 11219 | [11219-sonic-the-hedgehog-3-and-knuckles.json](./11219-sonic-the-hedgehog-3-and-knuckles.json) |
 | Sonic the Hedgehog Chaos & Spinball | 202266 | [202266-sonic-the-hedgehog-chaos-and-spinball.json](./202266-sonic-the-hedgehog-chaos-and-spinball.json) |
 | Sonic the Hedgehog Classic Heroes | 129159 | [129159-sonic-the-hedgehog-classic-heroes.json](./129159-sonic-the-hedgehog-classic-heroes.json) |
 | Sonic the Hedgehog DVD | 334139 | [334139-sonic-the-hedgehog-dvd.json](./334139-sonic-the-hedgehog-dvd.json) |
@@ -8021,6 +8029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Firebirds | 30215 | [30215-star-firebirds.json](./30215-star-firebirds.json) |
 | Star Fleet I: The War Begins! | 25939 | [25939-star-fleet-i-the-war-begins.json](./25939-star-fleet-i-the-war-begins.json) |
 | Star Force | 288103 | [288103-star-force.json](./288103-star-force.json) |
+| Star Fox | 8581 | [8581-star-fox.json](./8581-star-fox.json) |
 | Star Fox 2 | 9674 | [9674-star-fox-2.json](./9674-star-fox-2.json) |
 | Star Fox 2D: War of Lylat | 324097 | [324097-star-fox-2d-war-of-lylat.json](./324097-star-fox-2d-war-of-lylat.json) |
 | Star Fox 64 3D | 6890 | [6890-star-fox-64-3d.json](./6890-star-fox-64-3d.json) |
@@ -10787,6 +10796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey: Fluffy Bluff Kingdom | 345487 | [345487-super-mario-odyssey-fluffy-bluff-kingdom.json](./345487-super-mario-odyssey-fluffy-bluff-kingdom.json) |
 | Super Mario Outbreak | 198557 | [198557-super-mario-outbreak.json](./198557-super-mario-outbreak.json) |
 | Super Mario Panic | 331984 | [331984-super-mario-panic.json](./331984-super-mario-panic.json) |
+| Super Mario Party | 103339 | [103339-super-mario-party.json](./103339-super-mario-party.json) |
 | Super Mario Prostate Exam | 323900 | [323900-super-mario-prostate-exam.json](./323900-super-mario-prostate-exam.json) |
 | Super Mario RPG 2 | 231474 | [231474-super-mario-rpg-2.json](./231474-super-mario-rpg-2.json) |
 | Super Mario RPG: Legend of the Seven Stars | 5418 | [5418-super-mario-rpg-legend-of-the-seven-stars.json](./5418-super-mario-rpg-legend-of-the-seven-stars.json) |
