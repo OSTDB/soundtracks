@@ -2121,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Waves | 319393 | [319393-beneath-the-waves.json](./319393-beneath-the-waves.json) |
 | Beneath the Woods | 236290 | [236290-beneath-the-woods.json](./236290-beneath-the-woods.json) |
 | Beneath their Names | 406689 | [406689-beneath-their-names.json](./406689-beneath-their-names.json) |
+| Benefactor | 6024 | [6024-benefactor.json](./6024-benefactor.json) |
 | Benefitship | 264022 | [264022-benefitship.json](./264022-benefitship.json) |
 | Bengal | 205121 | [205121-bengal.json](./205121-bengal.json) |
 | Bengarachou Hakubutsushi | 254611 | [254611-bengarachou-hakubutsushi.json](./254611-bengarachou-hakubutsushi.json) |
@@ -4339,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands: Game of the Year Enhanced | 118993 | [118993-borderlands-game-of-the-year-enhanced.json](./118993-borderlands-game-of-the-year-enhanced.json) |
 | Borderlands: The Handsome Collection | 14548 | [14548-borderlands-the-handsome-collection.json](./14548-borderlands-the-handsome-collection.json) |
 | Borderlands: The Pre-Sequel - Shock Drop Slaughter Pit | 13917 | [13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json](./13917-borderlands-the-pre-sequel-shock-drop-slaughter-pit.json) |
+| Borderline | 6101 | [6101-borderline.json](./6101-borderline.json) |
 | Borderline Project: Beta-2 | 184577 | [184577-borderline-project-beta-2.json](./184577-borderline-project-beta-2.json) |
 | BorderStrain | 115037 | [115037-borderstrain.json](./115037-borderstrain.json) |
 | Boreal Tenebrae | 195729 | [195729-boreal-tenebrae.json](./195729-boreal-tenebrae.json) |
