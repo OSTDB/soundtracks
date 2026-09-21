@@ -6108,8 +6108,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube DOA | 120363 | [120363-cube-doa.json](./120363-cube-doa.json) |
 | Cube Droid Holiday Special | 360110 | [360110-cube-droid-holiday-special.json](./360110-cube-droid-holiday-special.json) |
 | Cube Escape | 253984 | [253984-cube-escape.json](./253984-cube-escape.json) |
+| Cube Escape Collection | 133416 | [133416-cube-escape-collection.json](./133416-cube-escape-collection.json) |
 | Cube Escape: Paradox | 100667 | [100667-cube-escape-paradox.json](./100667-cube-escape-paradox.json) |
 | Cube Escape: Paradox - Chapter 2 | 133968 | [133968-cube-escape-paradox-chapter-2.json](./133968-cube-escape-paradox-chapter-2.json) |
+| Cube Escape: Theatre | 75130 | [75130-cube-escape-theatre.json](./75130-cube-escape-theatre.json) |
 | Cube Experimental | 248122 | [248122-cube-experimental.json](./248122-cube-experimental.json) |
 | Cube Faces | 236926 | [236926-cube-faces.json](./236926-cube-faces.json) |
 | Cube Fight | 213613 | [213613-cube-fight.json](./213613-cube-fight.json) |
