@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Nemesis | 197252 | [197252-galactic-nemesis.json](./197252-galactic-nemesis.json) |
 | Galactic Orbital Death Sport | 75190 | [75190-galactic-orbital-death-sport.json](./75190-galactic-orbital-death-sport.json) |
 | Galactic Overlord | 352259 | [352259-galactic-overlord.json](./352259-galactic-overlord.json) |
+| Galactic Pinball | 20381 | [20381-galactic-pinball.json](./20381-galactic-pinball.json) |
 | Galactic Pioneer | 208049 | [208049-galactic-pioneer.json](./208049-galactic-pioneer.json) |
 | Galactic Pixel Wars: The Farce Awakens | 351041 | [351041-galactic-pixel-wars-the-farce-awakens.json](./351041-galactic-pixel-wars-the-farce-awakens.json) |
 | Galactic Rivalry | 25761 | [25761-galactic-rivalry.json](./25761-galactic-rivalry.json) |
@@ -359,6 +360,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galletron | 13001 | [13001-galletron.json](./13001-galletron.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
 | Gallop Glory: Obstacle Racing & Horse Simulator | 300726 | [300726-gallop-glory-obstacle-racing-and-horse-simulator.json](./300726-gallop-glory-obstacle-racing-and-horse-simulator.json) |
+| Gallop Racer 2001 | 20144 | [20144-gallop-racer-2001.json](./20144-gallop-racer-2001.json) |
+| Gallop Racer 2003: A New Breed | 20145 | [20145-gallop-racer-2003-a-new-breed.json](./20145-gallop-racer-2003-a-new-breed.json) |
 | Gallows | 95186 | [95186-gallows.json](./95186-gallows.json) |
 | Galosphere | 341045 | [341045-galosphere.json](./341045-galosphere.json) |
 | GalRock Girls | 258440 | [258440-galrock-girls.json](./258440-galrock-girls.json) |
@@ -1794,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal FH | 217879 | [217879-goal-fh.json](./217879-goal-fh.json) |
 | Goal II | 48286 | [48286-goal-ii.json](./48286-goal-ii.json) |
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
+| Goal Storm | 20315 | [20315-goal-storm.json](./20315-goal-storm.json) |
 | Goal! | 218001 | [218001-goal.json](./218001-goal.json) |
 | Goal! | 348225 | [348225-goal.json](./348225-goal.json) |
 | Goal! Goal! Goal! | 39549 | [39549-goal-goal-goal.json](./39549-goal-goal-goal.json) |
@@ -2113,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golembert | 258017 | [258017-golembert.json](./258017-golembert.json) |
 | Golf | 131528 | [131528-golf.json](./131528-golf.json) |
 | Golf | 147820 | [147820-golf.json](./147820-golf.json) |
+| Golf | 20382 | [20382-golf.json](./20382-golf.json) |
 | Golf | 282126 | [282126-golf.json](./282126-golf.json) |
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
 | Golf Card Game | 104485 | [104485-golf-card-game.json](./104485-golf-card-game.json) |
