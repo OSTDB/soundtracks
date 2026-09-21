@@ -2535,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Ultima | 66713 | [66713-lord-of-ultima.json](./66713-lord-of-ultima.json) |
 | Lord of Vermilion | 68298 | [68298-lord-of-vermilion.json](./68298-lord-of-vermilion.json) |
 | Lord of Vermilion II | 65461 | [65461-lord-of-vermilion-ii.json](./65461-lord-of-vermilion-ii.json) |
+| Lord of Vermilion IV | 26971 | [26971-lord-of-vermilion-iv.json](./26971-lord-of-vermilion-iv.json) |
 | Lord of War | 208934 | [208934-lord-of-war.json](./208934-lord-of-war.json) |
 | Lord Temin's Fortress | 187441 | [187441-lord-temins-fortress.json](./187441-lord-temins-fortress.json) |
 | Lordlings of Yore | 25614 | [25614-lordlings-of-yore.json](./25614-lordlings-of-yore.json) |
