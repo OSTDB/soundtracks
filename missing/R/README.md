@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid Arena | 313305 | [313305-raid-arena.json](./313305-raid-arena.json) |
 | Raid Gaza! | 318205 | [318205-raid-gaza.json](./318205-raid-gaza.json) |
 | Raid Leader | 237385 | [237385-raid-leader.json](./237385-raid-leader.json) |
+| Raid on Coasts | 51574 | [51574-raid-on-coasts.json](./51574-raid-on-coasts.json) |
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
 | Raiden | 6841 | [6841-raiden.json](./6841-raiden.json) |
