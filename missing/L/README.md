@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landlord Tycoon | 127984 | [127984-landlord-tycoon.json](./127984-landlord-tycoon.json) |
 | Landmark | 9629 | [9629-landmark.json](./9629-landmark.json) |
 | Landmaster | 400859 | [400859-landmaster.json](./400859-landmaster.json) |
+| Landmine Larry | 31174 | [31174-landmine-larry.json](./31174-landmine-larry.json) |
 | Landnav | 197380 | [197380-landnav.json](./197380-landnav.json) |
 | Landomayzer | 370122 | [370122-landomayzer.json](./370122-landomayzer.json) |
 | Landrocker | 149513 | [149513-landrocker.json](./149513-landrocker.json) |
@@ -1175,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lessons in Love | 182472 | [182472-lessons-in-love.json](./182472-lessons-in-love.json) |
 | Lester the Unlikely | 42504 | [42504-lester-the-unlikely.json](./42504-lester-the-unlikely.json) |
 | Let Bions be Bygones | 202860 | [202860-let-bions-be-bygones.json](./202860-let-bions-be-bygones.json) |
+| Let Hawaii Happen VR | 31151 | [31151-let-hawaii-happen-vr.json](./31151-let-hawaii-happen-vr.json) |
 | Let Him Cook | 265138 | [265138-let-him-cook.json](./265138-let-him-cook.json) |
 | Let It Die | 304376 | [304376-let-it-die.json](./304376-let-it-die.json) |
 | Let It Die: Uncle Prime Edition | 166240 | [166240-let-it-die-uncle-prime-edition.json](./166240-let-it-die-uncle-prime-edition.json) |
