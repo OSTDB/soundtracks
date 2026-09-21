@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeus + Poseidon | 90554 | [90554-zeus-poseidon.json](./90554-zeus-poseidon.json) |
 | Zeus Quest Remastered | 147435 | [147435-zeus-quest-remastered.json](./147435-zeus-quest-remastered.json) |
 | Zeus Quest Remastered | 32893 | [32893-zeus-quest-remastered.json](./32893-zeus-quest-remastered.json) |
+| Zeus vs Monsters: Math Game for Kids | 33492 | [33492-zeus-vs-monsters-math-game-for-kids.json](./33492-zeus-vs-monsters-math-game-for-kids.json) |
 | Zeus: Master of Olympus | 958 | [958-zeus-master-of-olympus.json](./958-zeus-master-of-olympus.json) |
 | Zewels | 250433 | [250433-zewels.json](./250433-zewels.json) |
 | Zgirls | 303227 | [303227-zgirls.json](./303227-zgirls.json) |
