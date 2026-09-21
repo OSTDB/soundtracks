@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Car Stunts | 102156 | [102156-x-car-stunts.json](./102156-x-car-stunts.json) |
 | X-COM Alliance | 85869 | [85869-x-com-alliance.json](./85869-x-com-alliance.json) |
 | X-COM: em@il Games | 96507 | [96507-x-com-em-il-games.json](./96507-x-com-em-il-games.json) |
+| X-Files: Resist or Serve | 24136 | [24136-x-files-resist-or-serve.json](./24136-x-files-resist-or-serve.json) |
 | X-Force Genesis | 165652 | [165652-x-force-genesis.json](./165652-x-force-genesis.json) |
 | X-Force Under Attack | 251694 | [251694-x-force-under-attack.json](./251694-x-force-under-attack.json) |
 | X-Games: Pro Boarder | 44844 | [44844-x-games-pro-boarder.json](./44844-x-games-pro-boarder.json) |
