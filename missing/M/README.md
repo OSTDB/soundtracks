@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madagascar 3: Europe's Most Wanted | 243270 | [243270-madagascar-3-europes-most-wanted.json](./243270-madagascar-3-europes-most-wanted.json) |
 | Madagascar Mini-Mayhem | 137609 | [137609-madagascar-mini-mayhem.json](./137609-madagascar-mini-mayhem.json) |
 | Madagascar: Join the Circus | 25186 | [25186-madagascar-join-the-circus.json](./25186-madagascar-join-the-circus.json) |
+| Madagascar: Operation Penguin | 3766 | [3766-madagascar-operation-penguin.json](./3766-madagascar-operation-penguin.json) |
 | Madame Ching's Dungeon of Ecstasy | 133802 | [133802-madame-chings-dungeon-of-ecstasy.json](./133802-madame-chings-dungeon-of-ecstasy.json) |
 | Madara Saga: Youchien Senki Madara | 57072 | [57072-madara-saga-youchien-senki-madara.json](./57072-madara-saga-youchien-senki-madara.json) |
 | Madball | 198484 | [198484-madball.json](./198484-madball.json) |
@@ -724,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Main Action | 254777 | [254777-main-action.json](./254777-main-action.json) |
 | MainGuns | 56478 | [56478-mainguns.json](./56478-mainguns.json) |
 | Mainichi no Mimikaki | 227954 | [227954-mainichi-no-mimikaki.json](./227954-mainichi-no-mimikaki.json) |
+| Mainichi Suteki! Hello Kitty no Life Kit | 3690 | [3690-mainichi-suteki-hello-kitty-no-life-kit.json](./3690-mainichi-suteki-hello-kitty-no-life-kit.json) |
 | Mainly at Rest | 165669 | [165669-mainly-at-rest.json](./165669-mainly-at-rest.json) |
 | Maison Ikkoku Kanketsu Hen: Sayonara, Soshite... | 91766 | [91766-maison-ikkoku-kanketsu-hen-sayonara-soshite.json](./91766-maison-ikkoku-kanketsu-hen-sayonara-soshite.json) |
 | Maison Ikkoku Kanketsu Special | 91764 | [91764-maison-ikkoku-kanketsu-special.json](./91764-maison-ikkoku-kanketsu-special.json) |
@@ -4921,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly IO | 74747 | [74747-monopoly-io.json](./74747-monopoly-io.json) |
 | Monopoly Junior | 295935 | [295935-monopoly-junior.json](./295935-monopoly-junior.json) |
 | Monopoly One | 55944 | [55944-monopoly-one.json](./55944-monopoly-one.json) |
+| Monopoly Party | 4016 | [4016-monopoly-party.json](./4016-monopoly-party.json) |
 | Monopoly Plus and Monopoly Madness | 182497 | [182497-monopoly-plus-and-monopoly-madness.json](./182497-monopoly-plus-and-monopoly-madness.json) |
 | Monopoly Sudoku | 292005 | [292005-monopoly-sudoku.json](./292005-monopoly-sudoku.json) |
 | Monopoly Tycoon | 197249 | [197249-monopoly-tycoon.json](./197249-monopoly-tycoon.json) |
