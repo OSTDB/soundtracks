@@ -1946,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout XL | 1538 | [1538-wipeout-xl.json](./1538-wipeout-xl.json) |
 | WipeOuters | 203917 | [203917-wipeouters.json](./203917-wipeouters.json) |
 | Wiper | 312020 | [312020-wiper.json](./312020-wiper.json) |
+| Wiping | 38558 | [38558-wiping.json](./38558-wiping.json) |
 | Wire | 195755 | [195755-wire.json](./195755-wire.json) |
 | Wire Flying Maid | 129236 | [129236-wire-flying-maid.json](./129236-wire-flying-maid.json) |
 | Wire Throne | 312545 | [312545-wire-throne.json](./312545-wire-throne.json) |
@@ -2251,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Library | 377142 | [377142-wonder-library.json](./377142-wonder-library.json) |
 | Wonder Library | 45605 | [45605-wonder-library.json](./45605-wonder-library.json) |
 | Wonder Loop Village | 312548 | [312548-wonder-loop-village.json](./312548-wonder-loop-village.json) |
+| Wonder Momo | 38559 | [38559-wonder-momo.json](./38559-wonder-momo.json) |
 | Wonder Mu: Mu to Unmei no Monster | 220323 | [220323-wonder-mu-mu-to-unmei-no-monster.json](./220323-wonder-mu-mu-to-unmei-no-monster.json) |
 | Wonder of Blue | 345509 | [345509-wonder-of-blue.json](./345509-wonder-of-blue.json) |
 | Wonder Planet | 40245 | [40245-wonder-planet.json](./40245-wonder-planet.json) |
@@ -2689,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Snooker Championship: Season 2007-08 | 64994 | [64994-world-snooker-championship-season-2007-08.json](./64994-world-snooker-championship-season-2007-08.json) |
 | World Soccer | 12893 | [12893-world-soccer.json](./12893-world-soccer.json) |
 | World Soccer Challenge | 255739 | [255739-world-soccer-challenge.json](./255739-world-soccer-challenge.json) |
+| World Soccer Finals | 38560 | [38560-world-soccer-finals.json](./38560-world-soccer-finals.json) |
 | World Soccer Kid | 196827 | [196827-world-soccer-kid.json](./196827-world-soccer-kid.json) |
 | World Soccer Strikers '91 | 139423 | [139423-world-soccer-strikers-91.json](./139423-world-soccer-strikers-91.json) |
 | World Soccer: Winning Eleven | 68693 | [68693-world-soccer-winning-eleven.json](./68693-world-soccer-winning-eleven.json) |
