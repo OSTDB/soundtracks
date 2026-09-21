@@ -1592,6 +1592,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hengband | 141020 | [141020-hengband.json](./141020-hengband.json) |
 | Henka Twist Caper | 52237 | [52237-henka-twist-caper.json](./52237-henka-twist-caper.json) |
 | Henri | 222521 | [222521-henri.json](./222521-henri.json) |
+| Henry Stickmin: Escaping the Prison | 140712 | [140712-henry-stickmin-escaping-the-prison.json](./140712-henry-stickmin-escaping-the-prison.json) |
+| Henry Stickmin: Fleeing the Complex | 145664 | [145664-henry-stickmin-fleeing-the-complex.json](./145664-henry-stickmin-fleeing-the-complex.json) |
 | Henry, What Have You Done? | 180751 | [180751-henry-what-have-you-done.json](./180751-henry-what-have-you-done.json) |
 | Henry's Adventure | 268188 | [268188-henrys-adventure.json](./268188-henrys-adventure.json) |
 | Henry's Escape: Prison | 280327 | [280327-henrys-escape-prison.json](./280327-henrys-escape-prison.json) |
