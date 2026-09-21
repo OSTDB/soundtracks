@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IdleTowerDefense | 357843 | [357843-idletowerdefense.json](./357843-idletowerdefense.json) |
 | Idling Gears | 237081 | [237081-idling-gears.json](./237081-idling-gears.json) |
 | Idly God | 209637 | [209637-idly-god.json](./209637-idly-god.json) |
+| Idol Connect -AsteriskLive- | 56164 | [56164-idol-connect-asterisklive.json](./56164-idol-connect-asterisklive.json) |
 | Idol Hakken-den | 7905 | [7905-idol-hakken-den.json](./7905-idol-hakken-den.json) |
 | Idol Hands | 195711 | [195711-idol-hands.json](./195711-idol-hands.json) |
 | Idol Hunter: Hentai | 211719 | [211719-idol-hunter-hentai.json](./211719-idol-hunter-hentai.json) |
