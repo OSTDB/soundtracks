@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gene Rain Ultimate & Your Toy Bundle | 301575 | [301575-gene-rain-ultimate-and-your-toy-bundle.json](./301575-gene-rain-ultimate-and-your-toy-bundle.json) |
 | Gene Rain Wind Tower: Ultimate Edition | 249219 | [249219-gene-rain-wind-tower-ultimate-edition.json](./249219-gene-rain-wind-tower-ultimate-edition.json) |
 | Geneforge 1: Mutagen | 134650 | [134650-geneforge-1-mutagen.json](./134650-geneforge-1-mutagen.json) |
+| Geneforge Saga | 50869 | [50869-geneforge-saga.json](./50869-geneforge-saga.json) |
 | Geneki Toudai-sei ga Tsukutta!: Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen | 327587 | [327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json](./327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json) |
 | Genemon | 178546 | [178546-genemon.json](./178546-genemon.json) |
 | General Chaos | 10149 | [10149-general-chaos.json](./10149-general-chaos.json) |
@@ -1058,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geppetto 2 | 333097 | [333097-geppetto-2.json](./333097-geppetto-2.json) |
 | Gerbil Mech Program | 363908 | [363908-gerbil-mech-program.json](./363908-gerbil-mech-program.json) |
 | Gerbil Physics | 93524 | [93524-gerbil-physics.json](./93524-gerbil-physics.json) |
+| Geri's Chess | 50864 | [50864-geris-chess.json](./50864-geris-chess.json) |
 | Germ Blasters | 353910 | [353910-germ-blasters.json](./353910-germ-blasters.json) |
 | Germ Crazy | 94669 | [94669-germ-crazy.json](./94669-germ-crazy.json) |
 | German 101 | 93543 | [93543-german-101.json](./93543-german-101.json) |
@@ -2315,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gouketsuji Ichizoku 2: Chottodake Saikyou Densetsu | 39573 | [39573-gouketsuji-ichizoku-2-chottodake-saikyou-densetsu.json](./39573-gouketsuji-ichizoku-2-chottodake-saikyou-densetsu.json) |
 | Gourds Up | 311628 | [311628-gourds-up.json](./311628-gourds-up.json) |
 | Gourgarion Incubus | 398348 | [398348-gourgarion-incubus.json](./398348-gourgarion-incubus.json) |
+| Gourmania | 50837 | [50837-gourmania.json](./50837-gourmania.json) |
 | Gourmania 2: Great Expectations | 54068 | [54068-gourmania-2-great-expectations.json](./54068-gourmania-2-great-expectations.json) |
 | Gourmania 3: Zoo Zoom | 54067 | [54067-gourmania-3-zoo-zoom.json](./54067-gourmania-3-zoo-zoom.json) |
 | Gourmet | 314492 | [314492-gourmet.json](./314492-gourmet.json) |
