@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
 | Egg Harvester | 409637 | [409637-egg-harvester.json](./409637-egg-harvester.json) |
 | Egg Hunt | 110375 | [110375-egg-hunt.json](./110375-egg-hunt.json) |
+| Egg Hunt | 46846 | [46846-egg-hunt.json](./46846-egg-hunt.json) |
 | Egg Hunt 2026: The Grand Eggspress | 412312 | [412312-egg-hunt-2026-the-grand-eggspress.json](./412312-egg-hunt-2026-the-grand-eggspress.json) |
 | Egg Hunt Truck | 97143 | [97143-egg-hunt-truck.json](./97143-egg-hunt-truck.json) |
 | Egg Hunt VR | 28784 | [28784-egg-hunt-vr.json](./28784-egg-hunt-vr.json) |
@@ -1253,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Warrior + Molecule Man | 92999 | [92999-energy-warrior-molecule-man.json](./92999-energy-warrior-molecule-man.json) |
 | Enersify | 116123 | [116123-enersify.json](./116123-enersify.json) |
 | ENF Novels: Dress Code | 286526 | [286526-enf-novels-dress-code.json](./286526-enf-novels-dress-code.json) |
+| Enforce | 46845 | [46845-enforce.json](./46845-enforce.json) |
 | Enga Extreme Battle Race | 172104 | [172104-enga-extreme-battle-race.json](./172104-enga-extreme-battle-race.json) |
 | Engage Princess: Nemureru Himegimi to Yume no Mahoutsukai | 205618 | [205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json](./205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json) |
 | Engare | 34110 | [34110-engare.json](./34110-engare.json) |
@@ -2363,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excitebike: Bun-bun Mario Battle | 132030 | [132030-excitebike-bun-bun-mario-battle.json](./132030-excitebike-bun-bun-mario-battle.json) |
 | Excitebots: Trick Racing | 4836 | [4836-excitebots-trick-racing.json](./4836-excitebots-trick-racing.json) |
 | Exciting Golf | 91962 | [91962-exciting-golf.json](./91962-exciting-golf.json) |
+| Exciting Soccer | 46851 | [46851-exciting-soccer.json](./46851-exciting-soccer.json) |
 | Exclusion Zone: Hunting Ground | 134616 | [134616-exclusion-zone-hunting-ground.json](./134616-exclusion-zone-hunting-ground.json) |
 | Exclusion Zone: Shadow Island | 134615 | [134615-exclusion-zone-shadow-island.json](./134615-exclusion-zone-shadow-island.json) |
 | Exclusive Memory | 319938 | [319938-exclusive-memory.json](./319938-exclusive-memory.json) |
