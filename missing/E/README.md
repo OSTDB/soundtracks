@@ -1565,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esc-8-bit | 114369 | [114369-esc-8-bit.json](./114369-esc-8-bit.json) |
 | Esc/ape | 374142 | [374142-esc-ape.json](./374142-esc-ape.json) |
 | Escalar | 245925 | [245925-escalar.json](./245925-escalar.json) |
+| Escalation 1985 | 54734 | [54734-escalation-1985.json](./54734-escalation-1985.json) |
 | Escalation VR! | 150110 | [150110-escalation-vr.json](./150110-escalation-vr.json) |
 | Escalation: Aggressors | 127759 | [127759-escalation-aggressors.json](./127759-escalation-aggressors.json) |
 | Escalation! | 150099 | [150099-escalation.json](./150099-escalation.json) |
