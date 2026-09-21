@@ -6450,6 +6450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Debris | 103533 | [103533-space-debris.json](./103533-space-debris.json) |
 | Space Defend | 246424 | [246424-space-defend.json](./246424-space-defend.json) |
 | Space Defender Battle Infinity | 109495 | [109495-space-defender-battle-infinity.json](./109495-space-defender-battle-infinity.json) |
+| Space Demolisher | 25919 | [25919-space-demolisher.json](./25919-space-demolisher.json) |
 | Space Demon | 145469 | [145469-space-demon.json](./145469-space-demon.json) |
 | Space Demon Combat Tactics III | 186334 | [186334-space-demon-combat-tactics-iii.json](./186334-space-demon-combat-tactics-iii.json) |
 | Space Depot | 358901 | [358901-space-depot.json](./358901-space-depot.json) |
@@ -7939,6 +7940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Cruiser | 265968 | [265968-star-cruiser.json](./265968-star-cruiser.json) |
 | Star Crusade CCG | 16469 | [16469-star-crusade-ccg.json](./16469-star-crusade-ccg.json) |
 | Star Crusader | 15566 | [15566-star-crusader.json](./15566-star-crusader.json) |
+| Star Crystal Episode 1: Mertactor - The Volentine Gambit | 25982 | [25982-star-crystal-episode-1-mertactor-the-volentine-gambit.json](./25982-star-crystal-episode-1-mertactor-the-volentine-gambit.json) |
 | Star Cycle | 312900 | [312900-star-cycle.json](./312900-star-cycle.json) |
 | Star Daemon | 112309 | [112309-star-daemon.json](./112309-star-daemon.json) |
 | Star Darlings | 360009 | [360009-star-darlings.json](./360009-star-darlings.json) |
@@ -7958,6 +7960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fiction | 348276 | [348276-star-fiction.json](./348276-star-fiction.json) |
 | Star Fire: Eternal Cycle | 316656 | [316656-star-fire-eternal-cycle.json](./316656-star-fire-eternal-cycle.json) |
 | Star Firebirds | 30215 | [30215-star-firebirds.json](./30215-star-firebirds.json) |
+| Star Fleet I: The War Begins! | 25939 | [25939-star-fleet-i-the-war-begins.json](./25939-star-fleet-i-the-war-begins.json) |
 | Star Force | 288103 | [288103-star-force.json](./288103-star-force.json) |
 | Star Fox 2 | 9674 | [9674-star-fox-2.json](./9674-star-fox-2.json) |
 | Star Fox 2D: War of Lylat | 324097 | [324097-star-fox-2d-war-of-lylat.json](./324097-star-fox-2d-war-of-lylat.json) |
@@ -10290,10 +10293,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dogfight | 64931 | [64931-super-dogfight.json](./64931-super-dogfight.json) |
 | Super Domino Effect 3D | 215706 | [215706-super-domino-effect-3d.json](./215706-super-domino-effect-3d.json) |
 | Super Dominoes | 208353 | [208353-super-dominoes.json](./208353-super-dominoes.json) |
+| Super Don Quix-Ote | 25969 | [25969-super-don-quix-ote.json](./25969-super-don-quix-ote.json) |
 | Super Donkey Kong 64 | 134017 | [134017-super-donkey-kong-64.json](./134017-super-donkey-kong-64.json) |
 | Super Donuts! | 175412 | [175412-super-donuts.json](./175412-super-donuts.json) |
 | Super Doom TV | 299449 | [299449-super-doom-tv.json](./299449-super-doom-tv.json) |
 | Super Doopliss World | 323360 | [323360-super-doopliss-world.json](./323360-super-doopliss-world.json) |
+| Super Dot Jump | 25960 | [25960-super-dot-jump.json](./25960-super-dot-jump.json) |
 | Super Double Dragon | 198931 | [198931-super-double-dragon.json](./198931-super-double-dragon.json) |
 | Super Doubles Tennis | 40425 | [40425-super-doubles-tennis.json](./40425-super-doubles-tennis.json) |
 | Super Drake Tracker 2000 EX | 63558 | [63558-super-drake-tracker-2000-ex.json](./63558-super-drake-tracker-2000-ex.json) |
