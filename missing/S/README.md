@@ -2950,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoebill | 151119 | [151119-shoebill.json](./151119-shoebill.json) |
 | Shoemaker | 110772 | [110772-shoemaker.json](./110772-shoemaker.json) |
 | Shogi | 63582 | [63582-shogi.json](./63582-shogi.json) |
+| Shogi no Hoshi | 45604 | [45604-shogi-no-hoshi.json](./45604-shogi-no-hoshi.json) |
 | Shogi Nyuumon | 126014 | [126014-shogi-nyuumon.json](./126014-shogi-nyuumon.json) |
 | Shogi Saikyou | 38299 | [38299-shogi-saikyou.json](./38299-shogi-saikyou.json) |
 | Shogi Shodan Icchokusen | 42032 | [42032-shogi-shodan-icchokusen.json](./42032-shogi-shodan-icchokusen.json) |
@@ -7416,6 +7417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Ultra Special | 328830 | [328830-sport-and-fun-swimming-ultra-special.json](./328830-sport-and-fun-swimming-ultra-special.json) |
 | Sport & Fun: Swimming - Ultra Ultimate | 328829 | [328829-sport-and-fun-swimming-ultra-ultimate.json](./328829-sport-and-fun-swimming-ultra-ultimate.json) |
 | Sport Freaks | 45906 | [45906-sport-freaks.json](./45906-sport-freaks.json) |
+| Sport Games | 45603 | [45603-sport-games.json](./45603-sport-games.json) |
 | Sport Girls | 157187 | [157187-sport-girls.json](./157187-sport-girls.json) |
 | Sportaldislexicartaphobia | 376533 | [376533-sportaldislexicartaphobia.json](./376533-sportaldislexicartaphobia.json) |
 | Sportball Challenge | 54394 | [54394-sportball-challenge.json](./54394-sportball-challenge.json) |
@@ -8617,6 +8619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Dragon Ex | 43341 | [43341-steel-dragon-ex.json](./43341-steel-dragon-ex.json) |
 | Steel Dungeon | 110162 | [110162-steel-dungeon.json](./110162-steel-dungeon.json) |
 | Steel Eagle: Cave Mission | 169287 | [169287-steel-eagle-cave-mission.json](./169287-steel-eagle-cave-mission.json) |
+| Steel Empire | 45588 | [45588-steel-empire.json](./45588-steel-empire.json) |
 | Steel Empire | 49383 | [49383-steel-empire.json](./49383-steel-empire.json) |
 | Steel Flood | 275710 | [275710-steel-flood.json](./275710-steel-flood.json) |
 | Steel Force | 39670 | [39670-steel-force.json](./39670-steel-force.json) |
@@ -10013,6 +10016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super ACiD Block Attack | 82459 | [82459-super-acid-block-attack.json](./82459-super-acid-block-attack.json) |
 | Super Action Pak | 56452 | [56452-super-action-pak.json](./56452-super-action-pak.json) |
 | Super Adventurer | 61021 | [61021-super-adventurer.json](./61021-super-adventurer.json) |
+| Super Airwolf | 45548 | [45548-super-airwolf.json](./45548-super-airwolf.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
 | Super Algebrawl | 283889 | [283889-super-algebrawl.json](./283889-super-algebrawl.json) |
 | Super Alice Dolls! | 294717 | [294717-super-alice-dolls.json](./294717-super-alice-dolls.json) |
