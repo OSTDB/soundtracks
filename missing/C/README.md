@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Future Warfare | 294871 | [294871-call-of-duty-future-warfare.json](./294871-call-of-duty-future-warfare.json) |
 | Call of Duty: Ghosts - Digital Hardened Edition | 240504 | [240504-call-of-duty-ghosts-digital-hardened-edition.json](./240504-call-of-duty-ghosts-digital-hardened-edition.json) |
 | Call of Duty: Ghosts - Gold Edition | 100000 | [100000-call-of-duty-ghosts-gold-edition.json](./100000-call-of-duty-ghosts-gold-edition.json) |
+| Call of Duty: Infinite Warfare - Legacy Edition | 42896 | [42896-call-of-duty-infinite-warfare-legacy-edition.json](./42896-call-of-duty-infinite-warfare-legacy-edition.json) |
 | Call of Duty: Modern Warfare - Season Four | 135220 | [135220-call-of-duty-modern-warfare-season-four.json](./135220-call-of-duty-modern-warfare-season-four.json) |
 | Call of Duty: Modern Warfare - Season Six | 140977 | [140977-call-of-duty-modern-warfare-season-six.json](./140977-call-of-duty-modern-warfare-season-six.json) |
 | Call of Duty: Modern Warfare - Season Three | 135219 | [135219-call-of-duty-modern-warfare-season-three.json](./135219-call-of-duty-modern-warfare-season-three.json) |
@@ -2459,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chotto Magic Taizen: Nenzu Camera | 220848 | [220848-chotto-magic-taizen-nenzu-camera.json](./220848-chotto-magic-taizen-nenzu-camera.json) |
 | Chotto Magic Taizen: Suki Kirai Hakkenki | 220846 | [220846-chotto-magic-taizen-suki-kirai-hakkenki.json](./220846-chotto-magic-taizen-suki-kirai-hakkenki.json) |
 | Chou à la Crème Collect | 304665 | [304665-chou-a-la-creme-collect.json](./304665-chou-a-la-creme-collect.json) |
+| Chou Aniki Zero | 42859 | [42859-chou-aniki-zero.json](./42859-chou-aniki-zero.json) |
 | Chou Aniki: Kyuukyoku Muteki Ginga Saikyou Otoko | 95478 | [95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json](./95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json) |
 | Chou Ga Shin Zangard | 246106 | [246106-chou-ga-shin-zangard.json](./246106-chou-ga-shin-zangard.json) |
 | Chou Gekijouban Keroro Gunsou: Gekishin Dragon Warriors de Arimasu! | 69199 | [69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json](./69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json) |
