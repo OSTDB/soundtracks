@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Nectar | 416628 | [416628-open-nectar.json](./416628-open-nectar.json) |
 | Open Net Battle | 343861 | [343861-open-net-battle.json](./343861-open-net-battle.json) |
 | Open Ocarina | 271820 | [271820-open-ocarina.json](./271820-open-ocarina.json) |
+| Open Puzzle Box | 59035 | [59035-open-puzzle-box.json](./59035-open-puzzle-box.json) |
 | Open Rails | 89985 | [89985-open-rails.json](./89985-open-rails.json) |
 | Open Saber Plus | 343918 | [343918-open-saber-plus.json](./343918-open-saber-plus.json) |
 | Open School World | 297505 | [297505-open-school-world.json](./297505-open-school-world.json) |
