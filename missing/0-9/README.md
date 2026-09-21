@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
 | 1Key Rocket Launcher | 70099 | [70099-1key-rocket-launcher.json](./70099-1key-rocket-launcher.json) |
 | 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
+| 1nsane | 9894 | [9894-1nsane.json](./9894-1nsane.json) |
 | 1on1 Basketball | 59651 | [59651-1on1-basketball.json](./59651-1on1-basketball.json) |
 | 1on1 Soccer | 59649 | [59649-1on1-soccer.json](./59649-1on1-soccer.json) |
 | 1Second | 363873 | [363873-1second.json](./363873-1second.json) |
