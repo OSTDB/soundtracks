@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabin of Souls | 254002 | [254002-cabin-of-souls.json](./254002-cabin-of-souls.json) |
 | Cabinet of Curiosities VR | 201691 | [201691-cabinet-of-curiosities-vr.json](./201691-cabinet-of-curiosities-vr.json) |
 | Cabins: Jigsaw Puzzles | 103465 | [103465-cabins-jigsaw-puzzles.json](./103465-cabins-jigsaw-puzzles.json) |
+| Cable 2 | 11363 | [11363-cable-2.json](./11363-cable-2.json) |
 | Cable Clutter | 211255 | [211255-cable-clutter.json](./211255-cable-clutter.json) |
 | Cable Swiper | 22363 | [22363-cable-swiper.json](./22363-cable-swiper.json) |
 | Cache Overload | 212908 | [212908-cache-overload.json](./212908-cache-overload.json) |
@@ -1108,11 +1109,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CastleOn | 353881 | [353881-castleon.json](./353881-castleon.json) |
 | Castlepoint | 189036 | [189036-castlepoint.json](./189036-castlepoint.json) |
 | Castlequest | 48070 | [48070-castlequest.json](./48070-castlequest.json) |
+| Castles | 11267 | [11267-castles.json](./11267-castles.json) |
 | Castles & Castellans | 406688 | [406688-castles-and-castellans.json](./406688-castles-and-castellans.json) |
 | Castles & Krakens | 112280 | [112280-castles-and-krakens.json](./112280-castles-and-krakens.json) |
 | Castles II: Siege & Conquest | 51576 | [51576-castles-ii-siege-and-conquest.json](./51576-castles-ii-siege-and-conquest.json) |
 | Castles in the Sky | 62703 | [62703-castles-in-the-sky.json](./62703-castles-in-the-sky.json) |
 | Castles of War | 390630 | [390630-castles-of-war.json](./390630-castles-of-war.json) |
+| Castles: The Northern Campaign | 11269 | [11269-castles-the-northern-campaign.json](./11269-castles-the-northern-campaign.json) |
 | Castlevania 2 | 276459 | [276459-castlevania-2.json](./276459-castlevania-2.json) |
 | Castlevania II: Belmont's Revenge | 1123 | [1123-castlevania-ii-belmonts-revenge.json](./1123-castlevania-ii-belmonts-revenge.json) |
 | Castlevania II: Simon's Quest - Rebitten | 217540 | [217540-castlevania-ii-simons-quest-rebitten.json](./217540-castlevania-ii-simons-quest-rebitten.json) |
@@ -1370,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catherine Ragnor and the Legend of the Flying Dutchman | 189113 | [189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json](./189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json) |
 | Catherine: Full Body - Dynamite Full Body Box | 136282 | [136282-catherine-full-body-dynamite-full-body-box.json](./136282-catherine-full-body-dynamite-full-body-box.json) |
 | Catherine: Full Body - Heart's Desire Premium Edition | 72067 | [72067-catherine-full-body-hearts-desire-premium-edition.json](./72067-catherine-full-body-hearts-desire-premium-edition.json) |
+| Cathode Ray Tube Amusement Device | 11321 | [11321-cathode-ray-tube-amusement-device.json](./11321-cathode-ray-tube-amusement-device.json) |
 | Cathode's Journey | 232029 | [232029-cathodes-journey.json](./232029-cathodes-journey.json) |
 | CatHotel | 256531 | [256531-cathotel.json](./256531-cathotel.json) |
 | Cathulhu Detective | 193978 | [193978-cathulhu-detective.json](./193978-cathulhu-detective.json) |
@@ -1770,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions Tactics Reforged | 343807 | [343807-champions-tactics-reforged.json](./343807-champions-tactics-reforged.json) |
 | Champions: Return to Arms | 10237 | [10237-champions-return-to-arms.json](./10237-champions-return-to-arms.json) |
 | Championship Chess | 56776 | [56776-championship-chess.json](./56776-championship-chess.json) |
+| Championship Manager '93 | 11306 | [11306-championship-manager-93.json](./11306-championship-manager-93.json) |
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
 | Championship Manager 2008 | 14840 | [14840-championship-manager-2008.json](./14840-championship-manager-2008.json) |
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
@@ -3961,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Casino | 172012 | [172012-combat-casino.json](./172012-combat-casino.json) |
 | Combat Cats | 25488 | [25488-combat-cats.json](./25488-combat-cats.json) |
 | Combat Champions | 244510 | [244510-combat-champions.json](./244510-combat-champions.json) |
+| Combat Chess | 11277 | [11277-combat-chess.json](./11277-combat-chess.json) |
 | Combat Choro Q | 97362 | [97362-combat-choro-q.json](./97362-combat-choro-q.json) |
 | Combat Command | 139426 | [139426-combat-command.json](./139426-combat-command.json) |
 | Combat Command: Matrix Edition | 123421 | [123421-combat-command-matrix-edition.json](./123421-combat-command-matrix-edition.json) |
@@ -4532,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Fever | 87046 | [87046-cooking-fever.json](./87046-cooking-fever.json) |
 | Cooking For Ma! | 404941 | [404941-cooking-for-ma.json](./404941-cooking-for-ma.json) |
 | Cooking Joy - Fun Cooking Game | 103872 | [103872-cooking-joy-fun-cooking-game.json](./103872-cooking-joy-fun-cooking-game.json) |
+| Cooking Mama 4: Kitchen Magic | 11359 | [11359-cooking-mama-4-kitchen-magic.json](./11359-cooking-mama-4-kitchen-magic.json) |
 | Cooking Mama World: Hobbies & Fun | 47957 | [47957-cooking-mama-world-hobbies-and-fun.json](./47957-cooking-mama-world-hobbies-and-fun.json) |
 | Cooking Mama: Let's Cook! | 88776 | [88776-cooking-mama-lets-cook.json](./88776-cooking-mama-lets-cook.json) |
 | Cooking Papa: Cookstar | 237641 | [237641-cooking-papa-cookstar.json](./237641-cooking-papa-cookstar.json) |
@@ -4620,6 +4627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
 | Core.Sys | 351094 | [351094-core-sys.json](./351094-core-sys.json) |
 | Corecraft | 307107 | [307107-corecraft.json](./307107-corecraft.json) |
+| Coregrounds | 11344 | [11344-coregrounds.json](./11344-coregrounds.json) |
 | CorePiercer | 159716 | [159716-corepiercer.json](./159716-corepiercer.json) |
 | Corepunk | 127513 | [127513-corepunk.json](./127513-corepunk.json) |
 | Coreupt | 130328 | [130328-coreupt.json](./130328-coreupt.json) |
@@ -5055,6 +5063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crack it! | 278708 | [278708-crack-it.json](./278708-crack-it.json) |
 | Crack Mountain | 398319 | [398319-crack-mountain.json](./398319-crack-mountain.json) |
 | Crack the Pack | 411003 | [411003-crack-the-pack.json](./411003-crack-the-pack.json) |
+| Crack'ed | 11298 | [11298-cracked.json](./11298-cracked.json) |
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
@@ -5395,9 +5404,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Venture | 24846 | [24846-creature-venture.json](./24846-creature-venture.json) |
 | Creaturemin | 313355 | [313355-creaturemin.json](./313355-creaturemin.json) |
 | Creatures 2 | 11371 | [11371-creatures-2.json](./11371-creatures-2.json) |
+| Creatures Adventures | 11377 | [11377-creatures-adventures.json](./11377-creatures-adventures.json) |
 | Creatures by Candlelight | 262952 | [262952-creatures-by-candlelight.json](./262952-creatures-by-candlelight.json) |
+| Creatures Exodus | 11279 | [11279-creatures-exodus.json](./11279-creatures-exodus.json) |
+| Creatures II: Torture Trouble | 11375 | [11375-creatures-ii-torture-trouble.json](./11375-creatures-ii-torture-trouble.json) |
 | Creatures Like Us | 415171 | [415171-creatures-like-us.json](./415171-creatures-like-us.json) |
 | Creatures of War | 217338 | [217338-creatures-of-war.json](./217338-creatures-of-war.json) |
+| Creatures Playground | 11378 | [11378-creatures-playground.json](./11378-creatures-playground.json) |
 | Creep | 133462 | [133462-creep.json](./133462-creep.json) |
 | Creep Kick | 310197 | [310197-creep-kick.json](./310197-creep-kick.json) |
 | Creep Shock | 265429 | [265429-creep-shock.json](./265429-creep-shock.json) |
@@ -6201,6 +6214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culto a los dioses | 228428 | [228428-culto-a-los-dioses.json](./228428-culto-a-los-dioses.json) |
 | Culture Warz: Chess | 291757 | [291757-culture-warz-chess.json](./291757-culture-warz-chess.json) |
 | Culture Warz: Time's Up Karen! | 272864 | [272864-culture-warz-times-up-karen.json](./272864-culture-warz-times-up-karen.json) |
+| Cultures Online Heroes | 11382 | [11382-cultures-online-heroes.json](./11382-cultures-online-heroes.json) |
 | Cultures: 8th Wonder of the World | 200207 | [200207-cultures-8th-wonder-of-the-world.json](./200207-cultures-8th-wonder-of-the-world.json) |
 | Cultures: Die Rache des Regengottes | 93039 | [93039-cultures-die-rache-des-regengottes.json](./93039-cultures-die-rache-des-regengottes.json) |
 | Cultures: Northland | 11381 | [11381-cultures-northland.json](./11381-cultures-northland.json) |
