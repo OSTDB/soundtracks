@@ -1656,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Komori Fruit Rush | 126633 | [126633-komori-fruit-rush.json](./126633-komori-fruit-rush.json) |
 | Kőműves Kelemen | 120803 | [120803-komuves-kelemen.json](./120803-komuves-kelemen.json) |
 | Kona Project | 299742 | [299742-kona-project.json](./299742-kona-project.json) |
+| Kona: Day One | 50159 | [50159-kona-day-one.json](./50159-kona-day-one.json) |
 | Konae-chan no Doki-doki Penguin Kazoku | 134464 | [134464-konae-chan-no-doki-doki-penguin-kazoku.json](./134464-konae-chan-no-doki-doki-penguin-kazoku.json) |
 | Konami 88 | 40228 | [40228-konami-88.json](./40228-konami-88.json) |
 | Konami Collector's Series: Castlevania & Contra | 78642 | [78642-konami-collectors-series-castlevania-and-contra.json](./78642-konami-collectors-series-castlevania-and-contra.json) |
@@ -1820,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kriegspiel | 84274 | [84274-kriegspiel.json](./84274-kriegspiel.json) |
 | Kriegsspiel: 7 Years' War | 388760 | [388760-kriegsspiel-7-years-war.json](./388760-kriegsspiel-7-years-war.json) |
 | Krila | 260943 | [260943-krila.json](./260943-krila.json) |
+| Kriophobia | 50164 | [50164-kriophobia.json](./50164-kriophobia.json) |
 | Krispain Hero VR: Roguelite Dungeon Shooter Simulator | 282144 | [282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json](./282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json) |
 | KrissX | 67327 | [67327-krissx.json](./67327-krissx.json) |
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
@@ -2003,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyouryuu Ikusei Battle RPG: Kyouryuu Monster | 329749 | [329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json](./329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json) |
 | Kyouryuu Sentai Zyuranger | 48437 | [48437-kyouryuu-sentai-zyuranger.json](./48437-kyouryuu-sentai-zyuranger.json) |
 | Kyrie and Terra | 327182 | [327182-kyrie-and-terra.json](./327182-kyrie-and-terra.json) |
+| Kyro | 50156 | [50156-kyro.json](./50156-kyro.json) |
 | Kyub Crazy Colors | 265431 | [265431-kyub-crazy-colors.json](./265431-kyub-crazy-colors.json) |
 | Kyumori Episode1 | 175985 | [175985-kyumori-episode1.json](./175985-kyumori-episode1.json) |
 | Kyurinaga's Revenge | 25308 | [25308-kyurinagas-revenge.json](./25308-kyurinagas-revenge.json) |
