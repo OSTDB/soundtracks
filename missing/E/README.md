@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Room 3 | 73315 | [73315-emergency-room-3.json](./73315-emergency-room-3.json) |
 | Emergency Room Simulator | 253606 | [253606-emergency-room-simulator.json](./253606-emergency-room-simulator.json) |
 | Emergency Room: Code Blue | 201269 | [201269-emergency-room-code-blue.json](./201269-emergency-room-code-blue.json) |
+| Emergency Room: Disaster Strikes | 12424 | [12424-emergency-room-disaster-strikes.json](./12424-emergency-room-disaster-strikes.json) |
 | Emergency Room: Heroic Measures | 201270 | [201270-emergency-room-heroic-measures.json](./201270-emergency-room-heroic-measures.json) |
 | Emergency: Fighters for Life | 79837 | [79837-emergency-fighters-for-life.json](./79837-emergency-fighters-for-life.json) |
 | Emergency: Road Services Simulator | 217410 | [217410-emergency-road-services-simulator.json](./217410-emergency-road-services-simulator.json) |
@@ -1540,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eret Link | 229385 | [229385-eret-link.json](./229385-eret-link.json) |
 | Eri | 116282 | [116282-eri.json](./116282-eri.json) |
 | Eric and the Floaters | 45324 | [45324-eric-and-the-floaters.json](./45324-eric-and-the-floaters.json) |
+| Eric the Unready | 12426 | [12426-eric-the-unready.json](./12426-eric-the-unready.json) |
 | Eric's All-in-1 Solitaire | 86728 | [86728-erics-all-in-1-solitaire.json](./86728-erics-all-in-1-solitaire.json) |
 | Eridu | 180684 | [180684-eridu.json](./180684-eridu.json) |
 | Eriguns | 202844 | [202844-eriguns.json](./202844-eriguns.json) |
