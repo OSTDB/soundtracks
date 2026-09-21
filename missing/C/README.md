@@ -2934,6 +2934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Race Day | 393462 | [393462-cities-skylines-race-day.json](./393462-cities-skylines-race-day.json) |
 | Cities: Skylines - Remastered | 237966 | [237966-cities-skylines-remastered.json](./237966-cities-skylines-remastered.json) |
 | Cities: Skylines - World Tour Bundle | 240904 | [240904-cities-skylines-world-tour-bundle.json](./240904-cities-skylines-world-tour-bundle.json) |
+| Cities: Skylines II | 240902 | [240902-cities-skylines-ii.json](./240902-cities-skylines-ii.json) |
 | Cities: Skylines II - Ultimate Edition | 273942 | [273942-cities-skylines-ii-ultimate-edition.json](./273942-cities-skylines-ii-ultimate-edition.json) |
 | CitiesCorp Concept - Build Everything on Your Own | 33484 | [33484-citiescorp-concept-build-everything-on-your-own.json](./33484-citiescorp-concept-build-everything-on-your-own.json) |
 | Citizen Conflict | 248301 | [248301-citizen-conflict.json](./248301-citizen-conflict.json) |
@@ -4651,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
 | Core Devourer | 235764 | [235764-core-devourer.json](./235764-core-devourer.json) |
 | Core Hustlers | 369034 | [369034-core-hustlers.json](./369034-core-hustlers.json) |
+| Core Keeper | 152127 | [152127-core-keeper.json](./152127-core-keeper.json) |
 | Core Keeper: Shimmering Frontier | 270197 | [270197-core-keeper-shimmering-frontier.json](./270197-core-keeper-shimmering-frontier.json) |
 | Core Masters | 62771 | [62771-core-masters.json](./62771-core-masters.json) |
 | Core Miners | 384084 | [384084-core-miners.json](./384084-core-miners.json) |
@@ -5401,6 +5403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazyracing Kartrider | 91272 | [91272-crazyracing-kartrider.json](./91272-crazyracing-kartrider.json) |
 | Crazzers | 89957 | [89957-crazzers.json](./89957-crazzers.json) |
 | CRE1M1: Greyvein River | 276475 | [276475-cre1m1-greyvein-river.json](./276475-cre1m1-greyvein-river.json) |
+| Creaks | 110834 | [110834-creaks.json](./110834-creaks.json) |
 | Creaks: Collector's Edition | 154553 | [154553-creaks-collectors-edition.json](./154553-creaks-collectors-edition.json) |
 | Cream and Cheese in Sonic the Hedgehog | 201287 | [201287-cream-and-cheese-in-sonic-the-hedgehog.json](./201287-cream-and-cheese-in-sonic-the-hedgehog.json) |
 | Cream War | 239746 | [239746-cream-war.json](./239746-cream-war.json) |
@@ -6100,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube DOA | 120363 | [120363-cube-doa.json](./120363-cube-doa.json) |
 | Cube Droid Holiday Special | 360110 | [360110-cube-droid-holiday-special.json](./360110-cube-droid-holiday-special.json) |
 | Cube Escape | 253984 | [253984-cube-escape.json](./253984-cube-escape.json) |
+| Cube Escape: Paradox | 100667 | [100667-cube-escape-paradox.json](./100667-cube-escape-paradox.json) |
 | Cube Escape: Paradox - Chapter 2 | 133968 | [133968-cube-escape-paradox-chapter-2.json](./133968-cube-escape-paradox-chapter-2.json) |
 | Cube Experimental | 248122 | [248122-cube-experimental.json](./248122-cube-experimental.json) |
 | Cube Faces | 236926 | [236926-cube-faces.json](./236926-cube-faces.json) |
