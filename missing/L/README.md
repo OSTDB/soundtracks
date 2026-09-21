@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Cook Together | 133455 | [133455-lets-cook-together.json](./133455-lets-cook-together.json) |
 | Let's Dance | 78337 | [78337-lets-dance.json](./78337-lets-dance.json) |
 | Let's Draw | 29849 | [29849-lets-draw.json](./29849-lets-draw.json) |
+| Let's Eat! Seaside Cafe | 33465 | [33465-lets-eat-seaside-cafe.json](./33465-lets-eat-seaside-cafe.json) |
 | Let's Fight!! Nokachan | 381117 | [381117-lets-fight-nokachan.json](./381117-lets-fight-nokachan.json) |
 | Let's Find a Way | 51496 | [51496-lets-find-a-way.json](./51496-lets-find-a-way.json) |
 | Let's Fish! Hooked On | 21022 | [21022-lets-fish-hooked-on.json](./21022-lets-fish-hooked-on.json) |
@@ -2303,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Games Bundle | 242075 | [242075-logic-games-bundle.json](./242075-logic-games-bundle.json) |
 | Logic Island | 256290 | [256290-logic-island.json](./256290-logic-island.json) |
 | Logic Mahjong Souryuu | 326087 | [326087-logic-mahjong-souryuu.json](./326087-logic-mahjong-souryuu.json) |
+| Logic Missile | 33382 | [33382-logic-missile.json](./33382-logic-missile.json) |
 | Logic Pic | 212273 | [212273-logic-pic.json](./212273-logic-pic.json) |
 | Logic Puzzle Collection: Sudoku, Permudoku, Nonodoku | 147949 | [147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json](./147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json) |
 | Logic Town: Santa's Grotto | 279131 | [279131-logic-town-santas-grotto.json](./279131-logic-town-santas-grotto.json) |
@@ -2602,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Cities | 37376 | [37376-lost-cities.json](./37376-lost-cities.json) |
 | Lost City | 403010 | [403010-lost-city.json](./403010-lost-city.json) |
 | Lost Colony | 250422 | [250422-lost-colony.json](./250422-lost-colony.json) |
+| Lost Cosmonaut | 33402 | [33402-lost-cosmonaut.json](./33402-lost-cosmonaut.json) |
 | Lost Crypts | 94759 | [94759-lost-crypts.json](./94759-lost-crypts.json) |
 | Lost Crystals | 257427 | [257427-lost-crystals.json](./257427-lost-crystals.json) |
 | Lost Cube | 156619 | [156619-lost-cube.json](./156619-lost-cube.json) |
@@ -2628,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Garden | 334714 | [334714-lost-garden.json](./334714-lost-garden.json) |
 | Lost Gems | 156519 | [156519-lost-gems.json](./156519-lost-gems.json) |
 | Lost Girl In Mirror | 259820 | [259820-lost-girl-in-mirror.json](./259820-lost-girl-in-mirror.json) |
+| Lost girl's [diary] | 33473 | [33473-lost-girls-diary.json](./33473-lost-girls-diary.json) |
 | Lost God | 24939 | [24939-lost-god.json](./24939-lost-god.json) |
 | Lost Grimoires 2: Shard of Mystery | 29961 | [29961-lost-grimoires-2-shard-of-mystery.json](./29961-lost-grimoires-2-shard-of-mystery.json) |
 | Lost Hammer | 221754 | [221754-lost-hammer.json](./221754-lost-hammer.json) |
@@ -3295,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LV99: Final Fortress | 140592 | [140592-lv99-final-fortress.json](./140592-lv99-final-fortress.json) |
 | Lyantei | 114993 | [114993-lyantei.json](./114993-lyantei.json) |
 | Lycah | 51739 | [51739-lycah.json](./51739-lycah.json) |
+| Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
 | Lynne | 105107 | [105107-lynne.json](./105107-lynne.json) |
 | LyokoVR | 169337 | [169337-lyokovr.json](./169337-lyokovr.json) |
 | Lyratha: Labyrinth - Survival Escape | 115682 | [115682-lyratha-labyrinth-survival-escape.json](./115682-lyratha-labyrinth-survival-escape.json) |
