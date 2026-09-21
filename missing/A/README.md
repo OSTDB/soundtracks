@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albatroz | 255084 | [255084-albatroz.json](./255084-albatroz.json) |
 | Albert | 185094 | [185094-albert.json](./185094-albert.json) |
 | Albert and Otto: The Adventure Begins | 13223 | [13223-albert-and-otto-the-adventure-begins.json](./13223-albert-and-otto-the-adventure-begins.json) |
+| Albert Mort: Desert Heat | 51510 | [51510-albert-mort-desert-heat.json](./51510-albert-mort-desert-heat.json) |
 | Albert Odyssey 2: Jashin no Taidou | 38346 | [38346-albert-odyssey-2-jashin-no-taidou.json](./38346-albert-odyssey-2-jashin-no-taidou.json) |
 | Albert's Journey | 219659 | [219659-alberts-journey.json](./219659-alberts-journey.json) |
 | Albino Lullaby: Episode 3 | 238615 | [238615-albino-lullaby-episode-3.json](./238615-albino-lullaby-episode-3.json) |
@@ -3026,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anvil Empires | 243273 | [243273-anvil-empires.json](./243273-anvil-empires.json) |
 | Anvil Survivors | 396403 | [396403-anvil-survivors.json](./396403-anvil-survivors.json) |
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
+| Anxiety | 51572 | [51572-anxiety.json](./51572-anxiety.json) |
 | Any Other Color | 408133 | [408133-any-other-color.json](./408133-any-other-color.json) |
 | Anykey | 89671 | [89671-anykey.json](./89671-anykey.json) |
 | Anykey Simulator | 31787 | [31787-anykey-simulator.json](./31787-anykey-simulator.json) |
@@ -4710,6 +4712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza 3: Summer Look Costume Set | 242544 | [242544-atelier-ryza-3-summer-look-costume-set.json](./242544-atelier-ryza-3-summer-look-costume-set.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Secret Solitary Island | 238227 | [238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json](./238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout DX | 359424 | [359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json](./359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json) |
+| Atelier Shallie: Alchemists of the Dusk Sea - Limited Edition | 51537 | [51537-atelier-shallie-alchemists-of-the-dusk-sea-limited-edition.json](./51537-atelier-shallie-alchemists-of-the-dusk-sea-limited-edition.json) |
 | Atelier Shallie: Alchemists of the Dusk Sea DX | 122750 | [122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json](./122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream | 172822 | [172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json](./172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Digital Deluxe Edition | 221266 | [221266-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-digital-deluxe-edition.json](./221266-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-digital-deluxe-edition.json) |
