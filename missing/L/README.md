@@ -942,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Luisa Llama | 239078 | [239078-legends-of-luisa-llama.json](./239078-legends-of-luisa-llama.json) |
 | Legends of Lunia | 193974 | [193974-legends-of-lunia.json](./193974-legends-of-lunia.json) |
 | Legends of Mathmatica 2: Under the Shadow of Certainty | 193417 | [193417-legends-of-mathmatica-2-under-the-shadow-of-certainty.json](./193417-legends-of-mathmatica-2-under-the-shadow-of-certainty.json) |
+| Legends of Might and Magic | 9836 | [9836-legends-of-might-and-magic.json](./9836-legends-of-might-and-magic.json) |
 | Legends of Murder Collection | 173181 | [173181-legends-of-murder-collection.json](./173181-legends-of-murder-collection.json) |
 | Legends of Norrath | 51219 | [51219-legends-of-norrath.json](./51219-legends-of-norrath.json) |
 | Legends of Oz: Dorothy's Return | 57055 | [57055-legends-of-oz-dorothys-return.json](./57055-legends-of-oz-dorothys-return.json) |
@@ -2347,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
 | Lolita 2 | 66128 | [66128-lolita-2.json](./66128-lolita-2.json) |
 | Lollipop! | 159882 | [159882-lollipop.json](./159882-lollipop.json) |
+| Lollypop | 9762 | [9762-lollypop.json](./9762-lollypop.json) |
 | LolShot.io | 202776 | [202776-lolshot-io.json](./202776-lolshot-io.json) |
 | Lomo Overgrow | 398346 | [398346-lomo-overgrow.json](./398346-lomo-overgrow.json) |
 | Lonath Online | 34323 | [34323-lonath-online.json](./34323-lonath-online.json) |
@@ -3050,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luckier | 185614 | [185614-luckier.json](./185614-luckier.json) |
 | Luckitown | 187376 | [187376-luckitown.json](./187376-luckitown.json) |
 | LuckLand | 260423 | [260423-luckland.json](./260423-luckland.json) |
+| Luckless Seven | 9758 | [9758-luckless-seven.json](./9758-luckless-seven.json) |
 | Luckrot | 351706 | [351706-luckrot.json](./351706-luckrot.json) |
 | Lucky Coins | 175264 | [175264-lucky-coins.json](./175264-lucky-coins.json) |
 | Lucky day | 166750 | [166750-lucky-day.json](./166750-lucky-day.json) |
