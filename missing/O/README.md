@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orchard Odyssey: Pumpkin Party | 375440 | [375440-orchard-odyssey-pumpkin-party.json](./375440-orchard-odyssey-pumpkin-party.json) |
 | Orchard Outbreak: Slime Time | 383955 | [383955-orchard-outbreak-slime-time.json](./383955-orchard-outbreak-slime-time.json) |
 | Orchids to Dusk | 135906 | [135906-orchids-to-dusk.json](./135906-orchids-to-dusk.json) |
+| Orcs & Elves | 21527 | [21527-orcs-and-elves.json](./21527-orcs-and-elves.json) |
 | Orcs and Outlaws | 332995 | [332995-orcs-and-outlaws.json](./332995-orcs-and-outlaws.json) |
 | Orcs Coming TD | 230913 | [230913-orcs-coming-td.json](./230913-orcs-coming-td.json) |
 | Orcs Must Die! | 2355 | [2355-orcs-must-die.json](./2355-orcs-must-die.json) |
