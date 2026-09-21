@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edentopia | 245882 | [245882-edentopia.json](./245882-edentopia.json) |
 | EDF Secret Base | 270698 | [270698-edf-secret-base.json](./270698-edf-secret-base.json) |
 | Edgar A. Poe: The Oval Portrait | 205109 | [205109-edgar-a-poe-the-oval-portrait.json](./205109-edgar-a-poe-the-oval-portrait.json) |
+| Edgar Torronteras Extreme Biker | 24112 | [24112-edgar-torronteras-extreme-biker.json](./24112-edgar-torronteras-extreme-biker.json) |
 | Edge of Atlantis | 28946 | [28946-edge-of-atlantis.json](./28946-edge-of-atlantis.json) |
 | Edge Of Dread | 388723 | [388723-edge-of-dread.json](./388723-edge-of-dread.json) |
 | Edge of Extinction | 349323 | [349323-edge-of-extinction.json](./349323-edge-of-extinction.json) |
@@ -494,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggerland 2 | 47529 | [47529-eggerland-2.json](./47529-eggerland-2.json) |
 | Eggerland: Souzou he no Tabidachi | 41338 | [41338-eggerland-souzou-he-no-tabidachi.json](./41338-eggerland-souzou-he-no-tabidachi.json) |
 | EggGarden | 349402 | [349402-egggarden.json](./349402-egggarden.json) |
+| Eggggg | 24074 | [24074-eggggg.json](./24074-eggggg.json) |
 | Egghead Gumpty | 210852 | [210852-egghead-gumpty.json](./210852-egghead-gumpty.json) |
 | Eggies | 233770 | [233770-eggies.json](./233770-eggies.json) |
 | Egging On | 294270 | [294270-egging-on.json](./294270-egging-on.json) |
@@ -2184,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest Next | 18341 | [18341-everquest-next.json](./18341-everquest-next.json) |
 | EverQuest Online Adventures | 23742 | [23742-everquest-online-adventures.json](./23742-everquest-online-adventures.json) |
 | EverQuest: Night of Shadows | 239190 | [239190-everquest-night-of-shadows.json](./239190-everquest-night-of-shadows.json) |
+| EverQuest: Omens of War | 24247 | [24247-everquest-omens-of-war.json](./24247-everquest-omens-of-war.json) |
 | EverQuest: Seeds of Destruction | 69284 | [69284-everquest-seeds-of-destruction.json](./69284-everquest-seeds-of-destruction.json) |
 | EverQuest: The Planes of Power | 79300 | [79300-everquest-the-planes-of-power.json](./79300-everquest-the-planes-of-power.json) |
 | EverQuest: Torment of Velious | 125475 | [125475-everquest-torment-of-velious.json](./125475-everquest-torment-of-velious.json) |
