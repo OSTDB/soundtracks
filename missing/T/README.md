@@ -2722,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cubedex of Boxes and Lines | 158659 | [158659-the-cubedex-of-boxes-and-lines.json](./158659-the-cubedex-of-boxes-and-lines.json) |
 | The Cubicle. | 33273 | [33273-the-cubicle.json](./33273-the-cubicle.json) |
 | The Culling II | 103367 | [103367-the-culling-ii.json](./103367-the-culling-ii.json) |
+| The Culling of the Cows | 9399 | [9399-the-culling-of-the-cows.json](./9399-the-culling-of-the-cows.json) |
 | The Cult of Chanseville | 211820 | [211820-the-cult-of-chanseville.json](./211820-the-cult-of-chanseville.json) |
 | The Cult: Marduk's Longest Night | 121742 | [121742-the-cult-marduks-longest-night.json](./121742-the-cult-marduks-longest-night.json) |
 | The Cup | 114805 | [114805-the-cup.json](./114805-the-cup.json) |
@@ -3986,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King and the Crown | 59684 | [59684-the-king-and-the-crown.json](./59684-the-king-and-the-crown.json) |
 | The King Cat Clicker | 312724 | [312724-the-king-cat-clicker.json](./312724-the-king-cat-clicker.json) |
 | The King in the Shades | 259852 | [259852-the-king-in-the-shades.json](./259852-the-king-in-the-shades.json) |
+| The King is Watching | 282826 | [282826-the-king-is-watching.json](./282826-the-king-is-watching.json) |
 | The King is Watching: Crowns of History | 394315 | [394315-the-king-is-watching-crowns-of-history.json](./394315-the-king-is-watching-crowns-of-history.json) |
 | The King of Alzoria | 276724 | [276724-the-king-of-alzoria.json](./276724-the-king-of-alzoria.json) |
 | The King of Creation | 273414 | [273414-the-king-of-creation.json](./273414-the-king-of-creation.json) |
@@ -4994,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Othello | 91958 | [91958-the-othello.json](./91958-the-othello.json) |
 | The Other Me | 261550 | [261550-the-other-me.json](./261550-the-other-me.json) |
 | The Other Side | 178673 | [178673-the-other-side.json](./178673-the-other-side.json) |
+| The Other Side | 286264 | [286264-the-other-side.json](./286264-the-other-side.json) |
 | The Other Side | 308545 | [308545-the-other-side.json](./308545-the-other-side.json) |
 | The other side: My own horror | 161402 | [161402-the-other-side-my-own-horror.json](./161402-the-other-side-my-own-horror.json) |
 | The Other Side: Tower of Souls Remaster | 310066 | [310066-the-other-side-tower-of-souls-remaster.json](./310066-the-other-side-tower-of-souls-remaster.json) |
@@ -6047,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Musketeers: One For All! | 20486 | [20486-the-three-musketeers-one-for-all.json](./20486-the-three-musketeers-one-for-all.json) |
 | The Three Stooges | 25690 | [25690-the-three-stooges.json](./25690-the-three-stooges.json) |
 | The Three Stooges | 264852 | [264852-the-three-stooges.json](./264852-the-three-stooges.json) |
+| The Three Stooges | 8670 | [8670-the-three-stooges.json](./8670-the-three-stooges.json) |
 | The Three Stooges: Treasure Hunt Hijinks | 65184 | [65184-the-three-stooges-treasure-hunt-hijinks.json](./65184-the-three-stooges-treasure-hunt-hijinks.json) |
 | The Three-Body Problem | 135694 | [135694-the-three-body-problem.json](./135694-the-three-body-problem.json) |
 | The Throne | 144329 | [144329-the-throne.json](./144329-the-throne.json) |
@@ -8553,6 +8557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider Anthology | 44886 | [44886-tomb-raider-anthology.json](./44886-tomb-raider-anthology.json) |
 | Tomb Raider Collection 1 | 299439 | [299439-tomb-raider-collection-1.json](./299439-tomb-raider-collection-1.json) |
 | Tomb Raider I•II•III Remastered | 266683 | [266683-tomb-raider-i-ii-iii-remastered.json](./266683-tomb-raider-i-ii-iii-remastered.json) |
+| Tomb Raider II | 266698 | [266698-tomb-raider-ii.json](./266698-tomb-raider-ii.json) |
 | Tomb Raider II: Collector's Edition | 159319 | [159319-tomb-raider-ii-collectors-edition.json](./159319-tomb-raider-ii-collectors-edition.json) |
 | Tomb Raider III: Adventures of Lara Croft | 1157 | [1157-tomb-raider-iii-adventures-of-lara-croft.json](./1157-tomb-raider-iii-adventures-of-lara-croft.json) |
 | Tomb Raider IV•V•VI Remastered: Deluxe Edition | 382879 | [382879-tomb-raider-iv-v-vi-remastered-deluxe-edition.json](./382879-tomb-raider-iv-v-vi-remastered-deluxe-edition.json) |
@@ -8880,6 +8885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Apocalypse | 273128 | [273128-total-apocalypse.json](./273128-total-apocalypse.json) |
 | Total Arcade Racing | 132563 | [132563-total-arcade-racing.json](./132563-total-arcade-racing.json) |
 | Total Battle | 112718 | [112718-total-battle.json](./112718-total-battle.json) |
+| Total Chaos | 301071 | [301071-total-chaos.json](./301071-total-chaos.json) |
 | Total Driftin': Touge Dreams | 351713 | [351713-total-driftin-touge-dreams.json](./351713-total-driftin-touge-dreams.json) |
 | Total Drivin | 44871 | [44871-total-drivin.json](./44871-total-drivin.json) |
 | Total Esports Action Manager | 117036 | [117036-total-esports-action-manager.json](./117036-total-esports-action-manager.json) |
@@ -9390,6 +9396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story 2: Operation Rescue Woody | 77330 | [77330-toy-story-2-operation-rescue-woody.json](./77330-toy-story-2-operation-rescue-woody.json) |
 | Toy Story 2: Woody Sousaku Daisakusen!! | 58850 | [58850-toy-story-2-woody-sousaku-daisakusen.json](./58850-toy-story-2-woody-sousaku-daisakusen.json) |
 | Toy Story 3 | 230554 | [230554-toy-story-3.json](./230554-toy-story-3.json) |
+| Toy Story 3 | 287629 | [287629-toy-story-3.json](./287629-toy-story-3.json) |
 | Toy Story Activity Center | 79896 | [79896-toy-story-activity-center.json](./79896-toy-story-activity-center.json) |
 | Toy Story Drop! | 116973 | [116973-toy-story-drop.json](./116973-toy-story-drop.json) |
 | Toy Story Racer | 18944 | [18944-toy-story-racer.json](./18944-toy-story-racer.json) |
