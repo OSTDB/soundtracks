@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakajima Satoru F-1 Hero GB: World Championship '91 | 94204 | [94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json](./94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json) |
 | Nakamers: La Huida | 305946 | [305946-nakamers-la-huida.json](./305946-nakamers-la-huida.json) |
 | Nakamon | 392129 | [392129-nakamon.json](./392129-nakamon.json) |
+| Nakamoto | 60237 | [60237-nakamoto.json](./60237-nakamoto.json) |
 | Nakana Bundle 3: Eqqo + Lydia + Stilstand | 207900 | [207900-nakana-bundle-3-eqqo-lydia-stilstand.json](./207900-nakana-bundle-3-eqqo-lydia-stilstand.json) |
 | Nakawak | 68193 | [68193-nakawak.json](./68193-nakawak.json) |
 | Naked and Afraid: The Game | 121468 | [121468-naked-and-afraid-the-game.json](./121468-naked-and-afraid-the-game.json) |
@@ -318,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsuiro Communication | 77943 | [77943-natsuiro-communication.json](./77943-natsuiro-communication.json) |
 | Natsuiro High School: Seishun Hakusho | 52602 | [52602-natsuiro-high-school-seishun-hakusho.json](./52602-natsuiro-high-school-seishun-hakusho.json) |
 | Natsuiro Ramune | 97316 | [97316-natsuiro-ramune.json](./97316-natsuiro-ramune.json) |
+| Natsuiro Recipe | 60240 | [60240-natsuiro-recipe.json](./60240-natsuiro-recipe.json) |
 | Natsuki And Chill | 354520 | [354520-natsuki-and-chill.json](./354520-natsuki-and-chill.json) |
 | Natsumegu | 59960 | [59960-natsumegu.json](./59960-natsumegu.json) |
 | Natsumi & Fuyuko: All That's Inbetween | 212802 | [212802-natsumi-and-fuyuko-all-thats-inbetween.json](./212802-natsumi-and-fuyuko-all-thats-inbetween.json) |
