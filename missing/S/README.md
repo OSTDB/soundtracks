@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seifuku Kanojo 2 | 332551 | [332551-seifuku-kanojo-2.json](./332551-seifuku-kanojo-2.json) |
 | Seifuku: High School Countdown | 234180 | [234180-seifuku-high-school-countdown.json](./234180-seifuku-high-school-countdown.json) |
 | Seigi no Torishirabe | 240230 | [240230-seigi-no-torishirabe.json](./240230-seigi-no-torishirabe.json) |
+| Seigimatsu II: Special Attack Devil | 47535 | [47535-seigimatsu-ii-special-attack-devil.json](./47535-seigimatsu-ii-special-attack-devil.json) |
 | Seijundrop | 252176 | [252176-seijundrop.json](./252176-seijundrop.json) |
 | Seikai Kishi Lynn Knight: Chikyuu wa Mamorete mo Kimo Otoko no Inshitsu Tanezuke Seme ni wa Katenakatta yo… | 59028 | [59028-seikai-kishi-lynn-knight-chikyuu-wa-mamorete-mo-kimo-otoko-no-inshitsu-tanezuke-seme-ni-wa-katenakatta-yo.json](./59028-seikai-kishi-lynn-knight-chikyuu-wa-mamorete-mo-kimo-otoko-no-inshitsu-tanezuke-seme-ni-wa-katenakatta-yo.json) |
 | Seiken Densetsu | 297610 | [297610-seiken-densetsu.json](./297610-seiken-densetsu.json) |
@@ -6622,6 +6623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Treasure Hunters | 372489 | [372489-space-treasure-hunters.json](./372489-space-treasure-hunters.json) |
 | Space Treasure Hunters part 2 | 372491 | [372491-space-treasure-hunters-part-2.json](./372491-space-treasure-hunters-part-2.json) |
 | Space Treat Deluxe | 40752 | [40752-space-treat-deluxe.json](./40752-space-treat-deluxe.json) |
+| Space Trouble | 47542 | [47542-space-trouble.json](./47542-space-trouble.json) |
 | Space Valet | 177005 | [177005-space-valet.json](./177005-space-valet.json) |
 | Space Variance Authority | 337641 | [337641-space-variance-authority.json](./337641-space-variance-authority.json) |
 | Space Viking Raiders | 74469 | [74469-space-viking-raiders.json](./74469-space-viking-raiders.json) |
@@ -7679,6 +7681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSX 3 | 4174 | [4174-ssx-3.json](./4174-ssx-3.json) |
 | SSX Blur | 4178 | [4178-ssx-blur.json](./4178-ssx-blur.json) |
 | SSX Tricky | 186240 | [186240-ssx-tricky.json](./186240-ssx-tricky.json) |
+| SSX: Out of Bounds | 47565 | [47565-ssx-out-of-bounds.json](./47565-ssx-out-of-bounds.json) |
 | ST World | 269857 | [269857-st-world.json](./269857-st-world.json) |
 | Stab | 264620 | [264620-stab.json](./264620-stab.json) |
 | Stab It VR.com | 310022 | [310022-stab-it-vr-com.json](./310022-stab-it-vr-com.json) |
@@ -10060,6 +10063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super BOO Quest | 110180 | [110180-super-boo-quest.json](./110180-super-boo-quest.json) |
 | Super Bowl Trivia Challenge | 88832 | [88832-super-bowl-trivia-challenge.json](./88832-super-bowl-trivia-challenge.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
+| Super Boy III | 47524 | [47524-super-boy-iii.json](./47524-super-boy-iii.json) |
 | Super Brain Eat 3 | 63854 | [63854-super-brain-eat-3.json](./63854-super-brain-eat-3.json) |
 | Super Brawl 4 | 59042 | [59042-super-brawl-4.json](./59042-super-brawl-4.json) |
 | Super Breakout | 239502 | [239502-super-breakout.json](./239502-super-breakout.json) |
