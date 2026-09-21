@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Line | 254152 | [254152-z-line.json](./254152-z-line.json) |
 | Z Ops: Campus | 258545 | [258545-z-ops-campus.json](./258545-z-ops-campus.json) |
 | Z Rush | 304579 | [304579-z-rush.json](./304579-z-rush.json) |
+| Z ViRus: V.I.R.M Uprising | 44209 | [44209-z-virus-v-i-r-m-uprising.json](./44209-z-virus-v-i-r-m-uprising.json) |
 | Z World | 252223 | [252223-z-world.json](./252223-z-world.json) |
 | Z-89 | 93371 | [93371-z-89.json](./93371-z-89.json) |
 | Z-Ape: Tower Defense | 304009 | [304009-z-ape-tower-defense.json](./304009-z-ape-tower-defense.json) |
