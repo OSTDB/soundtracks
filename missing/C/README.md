@@ -1929,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkmate Heroines | 391068 | [391068-checkmate-heroines.json](./391068-checkmate-heroines.json) |
 | Checkmate in the Wild West: Chess Adventure | 373534 | [373534-checkmate-in-the-wild-west-chess-adventure.json](./373534-checkmate-in-the-wild-west-chess-adventure.json) |
 | Checkmate! My Shogi Club President can't be this Cute! | 253997 | [253997-checkmate-my-shogi-club-president-cant-be-this-cute.json](./253997-checkmate-my-shogi-club-president-cant-be-this-cute.json) |
+| Checkmates | 57371 | [57371-checkmates.json](./57371-checkmates.json) |
 | Checkpoint Gary | 281371 | [281371-checkpoint-gary.json](./281371-checkpoint-gary.json) |
 | Checkpoint Madness HD | 338829 | [338829-checkpoint-madness-hd.json](./338829-checkpoint-madness-hd.json) |
 | Cheddly and Cloud's Crazy Adventure | 332222 | [332222-cheddly-and-clouds-crazy-adventure.json](./332222-cheddly-and-clouds-crazy-adventure.json) |
