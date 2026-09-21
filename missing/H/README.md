@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuouki Shinkai: Ginsei no Shou Twin Pack | 136839 | [136839-hakuouki-shinkai-ginsei-no-shou-twin-pack.json](./136839-hakuouki-shinkai-ginsei-no-shou-twin-pack.json) |
 | Hakurei Frontier | 225725 | [225725-hakurei-frontier.json](./225725-hakurei-frontier.json) |
 | Hakurei Frontier Spell Strive | 225728 | [225728-hakurei-frontier-spell-strive.json](./225728-hakurei-frontier-spell-strive.json) |
+| Hal 21 | 25956 | [25956-hal-21.json](./25956-hal-21.json) |
 | Halcyon Days | 274472 | [274472-halcyon-days.json](./274472-halcyon-days.json) |
 | Halcyon: The WaveBorn | 259053 | [259053-halcyon-the-waveborn.json](./259053-halcyon-the-waveborn.json) |
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
