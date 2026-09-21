@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Frog | 327576 | [327576-legend-of-frog.json](./327576-legend-of-frog.json) |
 | Legend of Gallant | 295915 | [295915-legend-of-gallant.json](./295915-legend-of-gallant.json) |
 | Legend Of Ghost Slayer Idle | 245376 | [245376-legend-of-ghost-slayer-idle.json](./245376-legend-of-ghost-slayer-idle.json) |
+| Legend of Grimrock 2 | 8456 | [8456-legend-of-grimrock-2.json](./8456-legend-of-grimrock-2.json) |
 | Legend of Herkules | 66941 | [66941-legend-of-herkules.json](./66941-legend-of-herkules.json) |
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
 | Legend of Heroes: Three Kingdoms | 333603 | [333603-legend-of-heroes-three-kingdoms.json](./333603-legend-of-heroes-three-kingdoms.json) |
@@ -1098,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LeHweng LeHweng | 156683 | [156683-lehweng-lehweng.json](./156683-lehweng-lehweng.json) |
 | Leikkaus | 413620 | [413620-leikkaus.json](./413620-leikkaus.json) |
 | Leiria: Stargazer | 202865 | [202865-leiria-stargazer.json](./202865-leiria-stargazer.json) |
+| Leisure Suit Larry in the Land of the Lounge Lizards | 2906 | [2906-leisure-suit-larry-in-the-land-of-the-lounge-lizards.json](./2906-leisure-suit-larry-in-the-land-of-the-lounge-lizards.json) |
 | Leisure Suit Larry: Box Office Bust | 2914 | [2914-leisure-suit-larry-box-office-bust.json](./2914-leisure-suit-larry-box-office-bust.json) |
 | Leisure Suit Larry: Love for Sail | 221838 | [221838-leisure-suit-larry-love-for-sail.json](./221838-leisure-suit-larry-love-for-sail.json) |
 | Leisure Suit Larry: Magna Cum Laude | 2913 | [2913-leisure-suit-larry-magna-cum-laude.json](./2913-leisure-suit-larry-magna-cum-laude.json) |
@@ -2391,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Journey | 292168 | [292168-lonely-journey.json](./292168-lonely-journey.json) |
 | Lonely Kids Around the Cul-De-Sac | 362910 | [362910-lonely-kids-around-the-cul-de-sac.json](./362910-lonely-kids-around-the-cul-de-sac.json) |
 | Lonely Knight | 195123 | [195123-lonely-knight.json](./195123-lonely-knight.json) |
+| Lonely Mountains: Downhill | 29144 | [29144-lonely-mountains-downhill.json](./29144-lonely-mountains-downhill.json) |
 | Lonely Mountains: Downhill - Eldfjall Island | 138241 | [138241-lonely-mountains-downhill-eldfjall-island.json](./138241-lonely-mountains-downhill-eldfjall-island.json) |
 | Lonely Mountains: Downhill - Rivera's Revenge | 274479 | [274479-lonely-mountains-downhill-riveras-revenge.json](./274479-lonely-mountains-downhill-riveras-revenge.json) |
 | Lonely Path | 250006 | [250006-lonely-path.json](./250006-lonely-path.json) |
