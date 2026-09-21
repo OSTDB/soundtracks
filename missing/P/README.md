@@ -101,6 +101,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi Pachi: On a Roll | 143696 | [143696-pachi-pachi-on-a-roll.json](./143696-pachi-pachi-on-a-roll.json) |
 | Pachi Para 15: Super Sea in Okinawa 2 | 65538 | [65538-pachi-para-15-super-sea-in-okinawa-2.json](./65538-pachi-para-15-super-sea-in-okinawa-2.json) |
 | Pachi-Pachi Typing | 397100 | [397100-pachi-pachi-typing.json](./397100-pachi-pachi-typing.json) |
+| Pachi-Slot Aruze Oukoku | 56738 | [56738-pachi-slot-aruze-oukoku.json](./56738-pachi-slot-aruze-oukoku.json) |
+| Pachi-Slot Aruze Oukoku 2 | 56736 | [56736-pachi-slot-aruze-oukoku-2.json](./56736-pachi-slot-aruze-oukoku-2.json) |
+| Pachi-Slot Aruze Oukoku 3 | 56731 | [56731-pachi-slot-aruze-oukoku-3.json](./56731-pachi-slot-aruze-oukoku-3.json) |
+| Pachi-Slot Aruze Oukoku 6 | 56728 | [56728-pachi-slot-aruze-oukoku-6.json](./56728-pachi-slot-aruze-oukoku-6.json) |
+| Pachi-Slot Aruze Oukoku 7 | 56735 | [56735-pachi-slot-aruze-oukoku-7.json](./56735-pachi-slot-aruze-oukoku-7.json) |
+| Pachi-Slot Aruze Oukoku Pocket: Dekahel | 56737 | [56737-pachi-slot-aruze-oukoku-pocket-dekahel.json](./56737-pachi-slot-aruze-oukoku-pocket-dekahel.json) |
 | Pachi-Slot Higurashi no Naku Koro ni Matsuri | 263021 | [263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json](./263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json) |
 | Pachi-Slot Kanzen Kouryaku: Universal Shindai Nyuuka Volume 1 | 66960 | [66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json](./66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json) |
 | Pachicom | 41396 | [41396-pachicom.json](./41396-pachicom.json) |
@@ -2090,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piko Interactive Collection 3 | 241982 | [241982-piko-interactive-collection-3.json](./241982-piko-interactive-collection-3.json) |
 | Piko-piko Kiritan Island | 204730 | [204730-piko-piko-kiritan-island.json](./204730-piko-piko-kiritan-island.json) |
 | Piko-piko: Koisuru Kimochi no Nemuru Basho | 201834 | [201834-piko-piko-koisuru-kimochi-no-nemuru-basho.json](./201834-piko-piko-koisuru-kimochi-no-nemuru-basho.json) |
+| Piko-Taro Official: Ppap Run! | 56778 | [56778-piko-taro-official-ppap-run.json](./56778-piko-taro-official-ppap-run.json) |
 | Piksels | 225287 | [225287-piksels.json](./225287-piksels.json) |
 | Pikubo | 302681 | [302681-pikubo.json](./302681-pikubo.json) |
 | Pikuniku: Collector's Edition | 154528 | [154528-pikuniku-collectors-edition.json](./154528-pikuniku-collectors-edition.json) |
@@ -2289,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong | 247006 | [247006-ping-pong.json](./247006-ping-pong.json) |
 | Ping Pong 3D | 90348 | [90348-ping-pong-3d.json](./90348-ping-pong-3d.json) |
 | Ping Pong Space | 130965 | [130965-ping-pong-space.json](./130965-ping-pong-space.json) |
+| Ping Pong Trick Shot | 56779 | [56779-ping-pong-trick-shot.json](./56779-ping-pong-trick-shot.json) |
 | Ping Pong Trick Shot 2 | 84823 | [84823-ping-pong-trick-shot-2.json](./84823-ping-pong-trick-shot-2.json) |
 | Ping Pong Trick Shot Evolution | 115059 | [115059-ping-pong-trick-shot-evolution.json](./115059-ping-pong-trick-shot-evolution.json) |
 | Ping Redux | 119797 | [119797-ping-redux.json](./119797-ping-redux.json) |
