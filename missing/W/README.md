@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Ashes | 214488 | [214488-war-ashes.json](./214488-war-ashes.json) |
 | War Birds: WW2 Air strike 1942 | 33281 | [33281-war-birds-ww2-air-strike-1942.json](./33281-war-birds-ww2-air-strike-1942.json) |
 | War by Grow Games | 125982 | [125982-war-by-grow-games.json](./125982-war-by-grow-games.json) |
+| War Chariots: Royal Legion | 43503 | [43503-war-chariots-royal-legion.json](./43503-war-chariots-royal-legion.json) |
 | War Church | 271805 | [271805-war-church.json](./271805-war-church.json) |
 | War crime | 82815 | [82815-war-crime.json](./82815-war-crime.json) |
 | War Doves | 24999 | [24999-war-doves.json](./24999-war-doves.json) |
@@ -2321,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodwork Simulator | 120932 | [120932-woodwork-simulator.json](./120932-woodwork-simulator.json) |
 | Woody Woodpecker and Friends Volume 2 | 268527 | [268527-woody-woodpecker-and-friends-volume-2.json](./268527-woody-woodpecker-and-friends-volume-2.json) |
 | Woody Woodpecker in Waterfools | 135894 | [135894-woody-woodpecker-in-waterfools.json](./135894-woody-woodpecker-in-waterfools.json) |
+| Woody Woodpecker: Escape from Buzz Buzzard Park | 43561 | [43561-woody-woodpecker-escape-from-buzz-buzzard-park.json](./43561-woody-woodpecker-escape-from-buzz-buzzard-park.json) |
 | Woody's Incredible Journey to the Escape from Eternal Terror | 265684 | [265684-woodys-incredible-journey-to-the-escape-from-eternal-terror.json](./265684-woodys-incredible-journey-to-the-escape-from-eternal-terror.json) |
 | WoodZone | 107815 | [107815-woodzone.json](./107815-woodzone.json) |
 | Woofice Chair! | 183525 | [183525-woofice-chair.json](./183525-woofice-chair.json) |
