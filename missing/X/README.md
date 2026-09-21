@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-YZE | 370672 | [370672-x-yze.json](./370672-x-yze.json) |
 | X-Zero | 181210 | [181210-x-zero.json](./181210-x-zero.json) |
 | X-Zone | 42647 | [42647-x-zone.json](./42647-x-zone.json) |
+| X: Card of Fate | 37348 | [37348-x-card-of-fate.json](./37348-x-card-of-fate.json) |
 | X.E.T. Xen Exploration Team | 222306 | [222306-x-e-t-xen-exploration-team.json](./222306-x-e-t-xen-exploration-team.json) |
 | X'Treme Roller | 205814 | [205814-xtreme-roller.json](./205814-xtreme-roller.json) |
 | X2 Blocks | 220197 | [220197-x2-blocks.json](./220197-x2-blocks.json) |
