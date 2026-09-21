@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Demolition | 150485 | [150485-ultimate-demolition.json](./150485-ultimate-demolition.json) |
 | Ultimate Destruction Simulator | 343790 | [343790-ultimate-destruction-simulator.json](./343790-ultimate-destruction-simulator.json) |
 | Ultimate Disc Golf | 129001 | [129001-ultimate-disc-golf.json](./129001-ultimate-disc-golf.json) |
+| Ultimate Domain | 12430 | [12430-ultimate-domain.json](./12430-ultimate-domain.json) |
 | Ultimate Dragon Simulator | 86894 | [86894-ultimate-dragon-simulator.json](./86894-ultimate-dragon-simulator.json) |
 | Ultimate Drummer | 369031 | [369031-ultimate-drummer.json](./369031-ultimate-drummer.json) |
 | Ultimate Drunken Warrior Master | 303225 | [303225-ultimate-drunken-warrior-master.json](./303225-ultimate-drunken-warrior-master.json) |
