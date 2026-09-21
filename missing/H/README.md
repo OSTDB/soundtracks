@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakurei Frontier | 225725 | [225725-hakurei-frontier.json](./225725-hakurei-frontier.json) |
 | Hakurei Frontier Spell Strive | 225728 | [225728-hakurei-frontier-spell-strive.json](./225728-hakurei-frontier-spell-strive.json) |
 | Hal 21 | 25956 | [25956-hal-21.json](./25956-hal-21.json) |
+| HAL's Hole in One Golf | 3653 | [3653-hals-hole-in-one-golf.json](./3653-hals-hole-in-one-golf.json) |
 | Halcyon Days | 274472 | [274472-halcyon-days.json](./274472-halcyon-days.json) |
 | Halcyon: The WaveBorn | 259053 | [259053-halcyon-the-waveborn.json](./259053-halcyon-the-waveborn.json) |
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
@@ -1478,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty no 'Otonaru' Mail | 279598 | [279598-hello-kitty-no-otonaru-mail.json](./279598-hello-kitty-no-otonaru-mail.json) |
 | Hello Kitty no Beads Koubou | 228559 | [228559-hello-kitty-no-beads-koubou.json](./228559-hello-kitty-no-beads-koubou.json) |
 | Hello Kitty no Gotouchi Collection: Koi no Doki-doki Travel | 269832 | [269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json](./269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json) |
+| Hello Kitty no Hanabatake | 3688 | [3688-hello-kitty-no-hanabatake.json](./3688-hello-kitty-no-hanabatake.json) |
 | Hello Kitty no Happy Accessory | 279592 | [279592-hello-kitty-no-happy-accessory.json](./279592-hello-kitty-no-happy-accessory.json) |
 | Hello Kitty no Hiragana Katakana Onamae Kaitemiyou | 279600 | [279600-hello-kitty-no-hiragana-katakana-onamae-kaitemiyou.json](./279600-hello-kitty-no-hiragana-katakana-onamae-kaitemiyou.json) |
 | Hello Kitty no Magical Museum | 50562 | [50562-hello-kitty-no-magical-museum.json](./50562-hello-kitty-no-magical-museum.json) |
@@ -1487,11 +1489,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty no Tanoshii Okaimono | 230272 | [230272-hello-kitty-no-tanoshii-okaimono.json](./230272-hello-kitty-no-tanoshii-okaimono.json) |
 | Hello Kitty no Tanoshii Omiseyasan | 279604 | [279604-hello-kitty-no-tanoshii-omiseyasan.json](./279604-hello-kitty-no-tanoshii-omiseyasan.json) |
 | Hello Kitty no Waku-waku Quiz | 61677 | [61677-hello-kitty-no-waku-waku-quiz.json](./61677-hello-kitty-no-waku-waku-quiz.json) |
+| Hello Kitty Online | 3685 | [3685-hello-kitty-online.json](./3685-hello-kitty-online.json) |
 | Hello Kitty Racing Adventures | 279606 | [279606-hello-kitty-racing-adventures.json](./279606-hello-kitty-racing-adventures.json) |
 | Hello Kitty to Sekai Ryokou! Ironna Kuni he Odekake Shimashou! | 222307 | [222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json](./222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json) |
 | Hello Kitty World | 48626 | [48626-hello-kitty-world.json](./48626-hello-kitty-world.json) |
+| Hello Kitty: Big City Dreams | 3686 | [3686-hello-kitty-big-city-dreams.json](./3686-hello-kitty-big-city-dreams.json) |
 | Hello Kitty: Carrot Story | 206192 | [206192-hello-kitty-carrot-story.json](./206192-hello-kitty-carrot-story.json) |
 | Hello Kitty: Happy Happy Family | 83209 | [83209-hello-kitty-happy-happy-family.json](./83209-hello-kitty-happy-happy-family.json) |
+| Hello Kitty: Happy Party Pals | 3689 | [3689-hello-kitty-happy-party-pals.json](./3689-hello-kitty-happy-party-pals.json) |
 | Hello Kitty: Hello Submarine | 206193 | [206193-hello-kitty-hello-submarine.json](./206193-hello-kitty-hello-submarine.json) |
 | Hello Kitty: Kids Hospital | 377696 | [377696-hello-kitty-kids-hospital.json](./377696-hello-kitty-kids-hospital.json) |
 | Hello Kitty: Picnic with Sanrio Friends | 7437 | [7437-hello-kitty-picnic-with-sanrio-friends.json](./7437-hello-kitty-picnic-with-sanrio-friends.json) |
