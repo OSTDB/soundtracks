@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Mosaics: Christmas Lights | 294459 | [294459-rainbow-mosaics-christmas-lights.json](./294459-rainbow-mosaics-christmas-lights.json) |
 | Rainbow Mosaics: Christmas Lights 2 | 415881 | [415881-rainbow-mosaics-christmas-lights-2.json](./415881-rainbow-mosaics-christmas-lights-2.json) |
 | Rainbow Mosaics: Treasure Trip 2 | 337622 | [337622-rainbow-mosaics-treasure-trip-2.json](./337622-rainbow-mosaics-treasure-trip-2.json) |
+| Rainbow Rapture | 54702 | [54702-rainbow-rapture.json](./54702-rainbow-rapture.json) |
 | Rainbow Rockets! | 259243 | [259243-rainbow-rockets.json](./259243-rainbow-rockets.json) |
 | Rainbow Runner | 384529 | [384529-rainbow-runner.json](./384529-rainbow-runner.json) |
 | Rainbow Skies | 52676 | [52676-rainbow-skies.json](./52676-rainbow-skies.json) |
