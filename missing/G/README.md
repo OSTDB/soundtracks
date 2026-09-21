@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet Dark Legacy | 3927 | [3927-gauntlet-dark-legacy.json](./3927-gauntlet-dark-legacy.json) |
 | Gauntlet II | 3503 | [3503-gauntlet-ii.json](./3503-gauntlet-ii.json) |
 | Gauntlet III: The Final Quest | 7296 | [7296-gauntlet-iii-the-final-quest.json](./7296-gauntlet-iii-the-final-quest.json) |
+| Gauntlet IV | 46214 | [46214-gauntlet-iv.json](./46214-gauntlet-iv.json) |
 | Gauntlet: Slayer Edition | 20044 | [20044-gauntlet-slayer-edition.json](./20044-gauntlet-slayer-edition.json) |
 | Gauntlet: Slayer Edition - Lilith the Necromancer Pack | 226429 | [226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json](./226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json) |
 | Gauntlet: The Deeper Dungeons | 37164 | [37164-gauntlet-the-deeper-dungeons.json](./37164-gauntlet-the-deeper-dungeons.json) |
@@ -2230,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goof Troop ST: Space Treasure | 215378 | [215378-goof-troop-st-space-treasure.json](./215378-goof-troop-st-space-treasure.json) |
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
 | Goofy Lil Guys | 335250 | [335250-goofy-lil-guys.json](./335250-goofy-lil-guys.json) |
+| Goofy's Hysterical History Tour | 46210 | [46210-goofys-hysterical-history-tour.json](./46210-goofys-hysterical-history-tour.json) |
 | Goofy's Railway Express | 12122 | [12122-goofys-railway-express.json](./12122-goofys-railway-express.json) |
 | Goofy's Underwater Adventure | 243817 | [243817-goofys-underwater-adventure.json](./243817-goofys-underwater-adventure.json) |
 | Googass | 165667 | [165667-googass.json](./165667-googass.json) |
