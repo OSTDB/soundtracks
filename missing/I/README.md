@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Fish | 125431 | [125431-i-am-fish.json](./125431-i-am-fish.json) |
 | I Am Fish V | 237654 | [237654-i-am-fish-v.json](./237654-i-am-fish-v.json) |
 | I Am Fly | 166714 | [166714-i-am-fly.json](./166714-i-am-fly.json) |
+| I am Future | 204508 | [204508-i-am-future.json](./204508-i-am-future.json) |
 | I Am Here, I Won't Disappear. I Am Here, I Won't... | 329547 | [329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json](./329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json) |
 | I am Jesus | 57681 | [57681-i-am-jesus.json](./57681-i-am-jesus.json) |
 | I Am Kilt | 291247 | [291247-i-am-kilt.json](./291247-i-am-kilt.json) |
@@ -590,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Zoo Park | 260661 | [260661-idle-zoo-park.json](./260661-idle-zoo-park.json) |
 | IdleCraft | 289438 | [289438-idlecraft.json](./289438-idlecraft.json) |
 | Idlemon | 390637 | [390637-idlemon.json](./390637-idlemon.json) |
+| IdleOn | 143440 | [143440-idleon.json](./143440-idleon.json) |
 | Idleplex | 261270 | [261270-idleplex.json](./261270-idleplex.json) |
 | IdleTowerDefense | 357843 | [357843-idletowerdefense.json](./357843-idletowerdefense.json) |
 | Idling Gears | 237081 | [237081-idling-gears.json](./237081-idling-gears.json) |
