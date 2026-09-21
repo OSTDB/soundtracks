@@ -2201,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itouke no Urawaza DS | 79599 | [79599-itouke-no-urawaza-ds.json](./79599-itouke-no-urawaza-ds.json) |
 | iTownGamePlay UNIVERSE | 90652 | [90652-itowngameplay-universe.json](./90652-itowngameplay-universe.json) |
 | Itrill | 260769 | [260769-itrill.json](./260769-itrill.json) |
+| Itro: In the Right Order | 59668 | [59668-itro-in-the-right-order.json](./59668-itro-in-the-right-order.json) |
 | ITRP: Aero Star | 236857 | [236857-itrp-aero-star.json](./236857-itrp-aero-star.json) |
 | Its Been a While Since I Went for a Walk | 151708 | [151708-its-been-a-while-since-i-went-for-a-walk.json](./151708-its-been-a-while-since-i-went-for-a-walk.json) |
 | Its Time To Meet God | 334131 | [334131-its-time-to-meet-god.json](./334131-its-time-to-meet-god.json) |
