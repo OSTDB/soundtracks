@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Boat | 13731 | [13731-jet-boat.json](./13731-jet-boat.json) |
 | Jet Buster | 68698 | [68698-jet-buster.json](./68698-jet-buster.json) |
 | Jet Dancer | 224635 | [224635-jet-dancer.json](./224635-jet-dancer.json) |
+| Jet de GO! Let's Go By Airliner | 61334 | [61334-jet-de-go-lets-go-by-airliner.json](./61334-jet-de-go-lets-go-by-airliner.json) |
 | Jet Dog | 85208 | [85208-jet-dog.json](./85208-jet-dog.json) |
 | Jet Force Gemini | 1355 | [1355-jet-force-gemini.json](./1355-jet-force-gemini.json) |
 | Jet Hero | 29636 | [29636-jet-hero.json](./29636-jet-hero.json) |
