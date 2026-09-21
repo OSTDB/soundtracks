@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satawn | 405573 | [405573-satawn.json](./405573-satawn.json) |
 | Satella-Q: Nenmatsu Jumbo Takara Quiz | 234040 | [234040-satella-q-nenmatsu-jumbo-takara-quiz.json](./234040-satella-q-nenmatsu-jumbo-takara-quiz.json) |
 | Satellina | 128557 | [128557-satellina.json](./128557-satellina.json) |
+| Satellite Attack | 41571 | [41571-satellite-attack.json](./41571-satellite-attack.json) |
 | Satellite Command | 31778 | [31778-satellite-command.json](./31778-satellite-command.json) |
 | Satellite Repairman | 30015 | [30015-satellite-repairman.json](./30015-satellite-repairman.json) |
 | Satellites | 78342 | [78342-satellites.json](./78342-satellites.json) |
@@ -851,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara Umihara Kawase Smart | 247199 | [247199-sayonara-umihara-kawase-smart.json](./247199-sayonara-umihara-kawase-smart.json) |
 | Sayonara Wild Hearts | 333020 | [333020-sayonara-wild-hearts.json](./333020-sayonara-wild-hearts.json) |
 | Sayonara, Utsutsu. | 260977 | [260977-sayonara-utsutsu.json](./260977-sayonara-utsutsu.json) |
+| SBK 2011: Superbike World Championship | 41583 | [41583-sbk-2011-superbike-world-championship.json](./41583-sbk-2011-superbike-world-championship.json) |
 | SBK-08: Superbike World Championship | 264881 | [264881-sbk-08-superbike-world-championship.json](./264881-sbk-08-superbike-world-championship.json) |
 | Sblobber 64 | 145456 | [145456-sblobber-64.json](./145456-sblobber-64.json) |
 | SBX 5K | 132214 | [132214-sbx-5k.json](./132214-sbx-5k.json) |
@@ -956,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scene It? Comedy Movies | 66154 | [66154-scene-it-comedy-movies.json](./66154-scene-it-comedy-movies.json) |
 | Scene It? Doctor Who | 213945 | [213945-scene-it-doctor-who.json](./213945-scene-it-doctor-who.json) |
 | Scene It? Harry Potter | 66155 | [66155-scene-it-harry-potter.json](./66155-scene-it-harry-potter.json) |
+| Scene It? Movie Night | 41581 | [41581-scene-it-movie-night.json](./41581-scene-it-movie-night.json) |
 | Scene It? Movie Night: Mega Movies | 65511 | [65511-scene-it-movie-night-mega-movies.json](./65511-scene-it-movie-night-mega-movies.json) |
 | Scene It? Twilight | 5142 | [5142-scene-it-twilight.json](./5142-scene-it-twilight.json) |
 | Scenery Disk 2 | 100127 | [100127-scenery-disk-2.json](./100127-scenery-disk-2.json) |
@@ -1505,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Harrow Manor 2 | 164877 | [164877-secret-of-harrow-manor-2.json](./164877-secret-of-harrow-manor-2.json) |
 | Secret of Lost Pyramid | 103876 | [103876-secret-of-lost-pyramid.json](./103876-secret-of-lost-pyramid.json) |
 | Secret of Mana: Relocalized | 249276 | [249276-secret-of-mana-relocalized.json](./249276-secret-of-mana-relocalized.json) |
+| Secret of the Pharaohs | 41556 | [41556-secret-of-the-pharaohs.json](./41556-secret-of-the-pharaohs.json) |
 | Secret of the Royal Throne | 32913 | [32913-secret-of-the-royal-throne.json](./32913-secret-of-the-royal-throne.json) |
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
 | Secret Paths to the Sea | 70382 | [70382-secret-paths-to-the-sea.json](./70382-secret-paths-to-the-sea.json) |
@@ -2492,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Copter vs. Zombie Dancers | 147976 | [147976-shark-copter-vs-zombie-dancers.json](./147976-shark-copter-vs-zombie-dancers.json) |
 | Shark Go | 406781 | [406781-shark-go.json](./406781-shark-go.json) |
 | Shark Hunt | 346097 | [346097-shark-hunt.json](./346097-shark-hunt.json) |
+| Shark Hunter | 41572 | [41572-shark-hunter.json](./41572-shark-hunter.json) |
 | Shark or Die | 61105 | [61105-shark-or-die.json](./61105-shark-or-die.json) |
 | Shark Pinball | 165614 | [165614-shark-pinball.json](./165614-shark-pinball.json) |
 | Shark Riders | 150137 | [150137-shark-riders.json](./150137-shark-riders.json) |
@@ -3292,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Pirates! | 868 | [868-sid-meiers-pirates.json](./868-sid-meiers-pirates.json) |
 | Sid Meier's Railroads! | 10743 | [10743-sid-meiers-railroads.json](./10743-sid-meiers-railroads.json) |
 | Sid the Science Kid: Red Light Green Light | 365073 | [365073-sid-the-science-kid-red-light-green-light.json](./365073-sid-the-science-kid-red-light-green-light.json) |
+| SID the Spellbinder | 41557 | [41557-sid-the-spellbinder.json](./41557-sid-the-spellbinder.json) |
 | Side | 149025 | [149025-side.json](./149025-side.json) |
 | Side by Side Special | 93055 | [93055-side-by-side-special.json](./93055-side-by-side-special.json) |
 | Side Kicks! | 69322 | [69322-side-kicks.json](./69322-side-kicks.json) |
@@ -10071,6 +10077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Battle Sensha | 252407 | [252407-super-battle-sensha.json](./252407-super-battle-sensha.json) |
 | Super Beach Bros. Wii | 394336 | [394336-super-beach-bros-wii.json](./394336-super-beach-bros-wii.json) |
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
+| Super Bee | 41554 | [41554-super-bee.json](./41554-super-bee.json) |
 | Super Beta Tester | 335987 | [335987-super-beta-tester.json](./335987-super-beta-tester.json) |
 | Super Big 2 | 63331 | [63331-super-big-2.json](./63331-super-big-2.json) |
 | Super Big Bro Quest | 321775 | [321775-super-big-bro-quest.json](./321775-super-big-bro-quest.json) |
