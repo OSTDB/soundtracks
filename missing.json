@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T08:32:49.370Z",
-  "total_missing": 101021,
+  "generated_at": "2026-09-21T08:47:34.932Z",
+  "total_missing": 101071,
   "games": [
     {
       "igdb_id": 176875,
@@ -7628,6 +7628,21 @@
       "file": "missing/A/76606-addition.json"
     },
     {
+      "igdb_id": 42191,
+      "game_name": "Addition and Subtraction 1",
+      "file": "missing/A/42191-addition-and-subtraction-1.json"
+    },
+    {
+      "igdb_id": 42193,
+      "game_name": "Addition and Subtraction 2",
+      "file": "missing/A/42193-addition-and-subtraction-2.json"
+    },
+    {
+      "igdb_id": 42192,
+      "game_name": "Addition and Subtraction 3",
+      "file": "missing/A/42192-addition-and-subtraction-3.json"
+    },
+    {
       "igdb_id": 265648,
       "game_name": "Address1",
       "file": "missing/A/265648-address1.json"
@@ -13446,6 +13461,11 @@
       "igdb_id": 38519,
       "game_name": "Alligator Hunt",
       "file": "missing/A/38519-alligator-hunt.json"
+    },
+    {
+      "igdb_id": 42194,
+      "game_name": "Alligator Mix",
+      "file": "missing/A/42194-alligator-mix.json"
     },
     {
       "igdb_id": 272866,
@@ -33873,6 +33893,11 @@
       "file": "missing/B/157698-bananarun.json"
     },
     {
+      "igdb_id": 42200,
+      "game_name": "Bananas de Pijamas",
+      "file": "missing/B/42200-bananas-de-pijamas.json"
+    },
+    {
       "igdb_id": 221980,
       "game_name": "Bananas in Pajamas: It's Fun Time",
       "file": "missing/B/221980-bananas-in-pajamas-its-fun-time.json"
@@ -40516,6 +40541,11 @@
       "igdb_id": 406195,
       "game_name": "Beggar's Road",
       "file": "missing/B/406195-beggars-road.json"
+    },
+    {
+      "igdb_id": 42195,
+      "game_name": "Beginning Grammer",
+      "file": "missing/B/42195-beginning-grammer.json"
     },
     {
       "igdb_id": 109038,
@@ -54103,6 +54133,11 @@
       "file": "missing/B/151176-brandins-buttons.json"
     },
     {
+      "igdb_id": 42212,
+      "game_name": "Brandish 2: The Planet Buster",
+      "file": "missing/B/42212-brandish-2-the-planet-buster.json"
+    },
+    {
       "igdb_id": 38975,
       "game_name": "Brandnew Boy",
       "file": "missing/B/38975-brandnew-boy.json"
@@ -63241,6 +63276,11 @@
       "igdb_id": 362291,
       "game_name": "Car Tycoon",
       "file": "missing/C/362291-car-tycoon.json"
+    },
+    {
+      "igdb_id": 42214,
+      "game_name": "Car Wars",
+      "file": "missing/C/42214-car-wars.json"
     },
     {
       "igdb_id": 295261,
@@ -81166,6 +81206,11 @@
       "igdb_id": 88069,
       "game_name": "Conjuror's Eye",
       "file": "missing/C/88069-conjurors-eye.json"
+    },
+    {
+      "igdb_id": 42207,
+      "game_name": "Conker's High Rule Tail",
+      "file": "missing/C/42207-conkers-high-rule-tail.json"
     },
     {
       "igdb_id": 77970,
@@ -107368,6 +107413,11 @@
       "file": "missing/D/351695-dino-chomp.json"
     },
     {
+      "igdb_id": 42202,
+      "game_name": "Dino City",
+      "file": "missing/D/42202-dino-city.json"
+    },
+    {
       "igdb_id": 317628,
       "game_name": "Dino Crisis",
       "file": "missing/D/317628-dino-crisis.json"
@@ -123593,6 +123643,11 @@
       "file": "missing/E/72085-earth-invasion.json"
     },
     {
+      "igdb_id": 42247,
+      "game_name": "Earth Light: Luna Strike",
+      "file": "missing/E/42247-earth-light-luna-strike.json"
+    },
+    {
       "igdb_id": 153862,
       "game_name": "Earth Marines",
       "file": "missing/E/153862-earth-marines.json"
@@ -132933,6 +132988,11 @@
       "file": "missing/E/116122-eurgava-tomb-of-senza.json"
     },
     {
+      "igdb_id": 42246,
+      "game_name": "Eurit",
+      "file": "missing/E/42246-eurit.json"
+    },
+    {
       "igdb_id": 94706,
       "game_name": "Euro Club Manager 2003-04",
       "file": "missing/E/94706-euro-club-manager-2003-04.json"
@@ -138751,6 +138811,11 @@
       "igdb_id": 394181,
       "game_name": "Fame or Folly",
       "file": "missing/F/394181-fame-or-folly.json"
+    },
+    {
+      "igdb_id": 42245,
+      "game_name": "Famicom Bunko: Hajimari no Mori",
+      "file": "missing/F/42245-famicom-bunko-hajimari-no-mori.json"
     },
     {
       "igdb_id": 328619,
@@ -146293,6 +146358,11 @@
       "file": "missing/F/42553-firestriker.json"
     },
     {
+      "igdb_id": 42244,
+      "game_name": "Fireteam Rogue",
+      "file": "missing/F/42244-fireteam-rogue.json"
+    },
+    {
       "igdb_id": 38926,
       "game_name": "Firetrack",
       "file": "missing/F/38926-firetrack.json"
@@ -147016,6 +147086,11 @@
       "igdb_id": 92522,
       "game_name": "Fishing Kings",
       "file": "missing/F/92522-fishing-kings.json"
+    },
+    {
+      "igdb_id": 42243,
+      "game_name": "Fishing Koushien",
+      "file": "missing/F/42243-fishing-koushien.json"
     },
     {
       "igdb_id": 123045,
@@ -153473,6 +153548,11 @@
       "file": "missing/F/117729-fortune-hunters.json"
     },
     {
+      "igdb_id": 42242,
+      "game_name": "Fortune Quest: Dice wo Korogase",
+      "file": "missing/F/42242-fortune-quest-dice-wo-korogase.json"
+    },
+    {
       "igdb_id": 277939,
       "game_name": "Fortune Rewritten: Costume Pack 1",
       "file": "missing/F/277939-fortune-rewritten-costume-pack-1.json"
@@ -154261,6 +154341,11 @@
       "igdb_id": 105997,
       "game_name": "Fractasia VR",
       "file": "missing/F/105997-fractasia-vr.json"
+    },
+    {
+      "igdb_id": 42196,
+      "game_name": "Fractional Numbers",
+      "file": "missing/F/42196-fractional-numbers.json"
     },
     {
       "igdb_id": 217512,
@@ -157923,6 +158008,11 @@
       "file": "missing/F/63827-function-repair.json"
     },
     {
+      "igdb_id": 42241,
+      "game_name": "Fune Tarou",
+      "file": "missing/F/42241-fune-tarou.json"
+    },
+    {
       "igdb_id": 385063,
       "game_name": "Funeral for the Sun",
       "file": "missing/F/385063-funeral-for-the-sun.json"
@@ -159736,6 +159826,11 @@
       "igdb_id": 56175,
       "game_name": "Gaia Eternal",
       "file": "missing/G/56175-gaia-eternal.json"
+    },
+    {
+      "igdb_id": 42239,
+      "game_name": "Gaia Saver: Hero Saidai no Sakusen",
+      "file": "missing/G/42239-gaia-saver-hero-saidai-no-sakusen.json"
     },
     {
       "igdb_id": 248039,
@@ -190458,6 +190553,11 @@
       "file": "missing/H/315088-hina-chans-sticker-survival.json"
     },
     {
+      "igdb_id": 42215,
+      "game_name": "Hind Strike",
+      "file": "missing/H/42215-hind-strike.json"
+    },
+    {
       "igdb_id": 194557,
       "game_name": "Hinekuremono no Gakuen Seishun Monogatari: Ore to Kanojo no Reversible",
       "file": "missing/H/194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json"
@@ -195498,6 +195598,11 @@
       "file": "missing/H/274762-house-with-puzzles.json"
     },
     {
+      "igdb_id": 42197,
+      "game_name": "Household Budget Management",
+      "file": "missing/H/42197-household-budget-management.json"
+    },
+    {
       "igdb_id": 350532,
       "game_name": "Housekeeper: Anomaly",
       "file": "missing/H/350532-housekeeper-anomaly.json"
@@ -197911,6 +198016,11 @@
       "igdb_id": 45198,
       "game_name": "Hyper Street Fighter II: The Anniversary Edition",
       "file": "missing/H/45198-hyper-street-fighter-ii-the-anniversary-edition.json"
+    },
+    {
+      "igdb_id": 42206,
+      "game_name": "Hyper Street Kart",
+      "file": "missing/H/42206-hyper-street-kart.json"
     },
     {
       "igdb_id": 151179,
@@ -222713,6 +222823,11 @@
       "file": "missing/K/134453-kirby-no-omochabako-guru-guru-ball.json"
     },
     {
+      "igdb_id": 42217,
+      "game_name": "Kirby no Omochabako: Hoshi Kuzushi",
+      "file": "missing/K/42217-kirby-no-omochabako-hoshi-kuzushi.json"
+    },
+    {
       "igdb_id": 134456,
       "game_name": "Kirby no Omochabako: Pachinko",
       "file": "missing/K/134456-kirby-no-omochabako-pachinko.json"
@@ -226621,6 +226736,11 @@
       "igdb_id": 187529,
       "game_name": "Kuukiyomi: Consider It! Online",
       "file": "missing/K/187529-kuukiyomi-consider-it-online.json"
+    },
+    {
+      "igdb_id": 42211,
+      "game_name": "Kuusou Kagaku Sekai Gulliver Boy",
+      "file": "missing/K/42211-kuusou-kagaku-sekai-gulliver-boy.json"
     },
     {
       "igdb_id": 81278,
@@ -249408,6 +249528,11 @@
       "file": "missing/M/294712-mario-kart-pc.json"
     },
     {
+      "igdb_id": 42204,
+      "game_name": "Mario Kart R",
+      "file": "missing/M/42204-mario-kart-r.json"
+    },
+    {
       "igdb_id": 202370,
       "game_name": "Mario Kart RiiBalanced",
       "file": "missing/M/202370-mario-kart-riibalanced.json"
@@ -259281,6 +259406,11 @@
       "igdb_id": 37140,
       "game_name": "Metroid: Samus Returns",
       "file": "missing/M/37140-metroid-samus-returns.json"
+    },
+    {
+      "igdb_id": 42205,
+      "game_name": "Metroid: Super Zero Mission",
+      "file": "missing/M/42205-metroid-super-zero-mission.json"
     },
     {
       "igdb_id": 255384,
@@ -301083,6 +301213,11 @@
       "file": "missing/P/56737-pachi-slot-aruze-oukoku-pocket-dekahel.json"
     },
     {
+      "igdb_id": 42238,
+      "game_name": "Pachi-Slot Gambler",
+      "file": "missing/P/42238-pachi-slot-gambler.json"
+    },
+    {
       "igdb_id": 263021,
       "game_name": "Pachi-Slot Higurashi no Naku Koro ni Matsuri",
       "file": "missing/P/263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json"
@@ -301108,6 +301243,16 @@
       "file": "missing/P/188665-pachillinko.json"
     },
     {
+      "igdb_id": 42237,
+      "game_name": "Pachinko Challenger",
+      "file": "missing/P/42237-pachinko-challenger.json"
+    },
+    {
+      "igdb_id": 42236,
+      "game_name": "Pachinko Fan: Shouri Sengen",
+      "file": "missing/P/42236-pachinko-fan-shouri-sengen.json"
+    },
+    {
       "igdb_id": 41395,
       "game_name": "Pachinko GP",
       "file": "missing/P/41395-pachinko-gp.json"
@@ -301128,6 +301273,16 @@
       "file": "missing/P/402978-pachinko-life.json"
     },
     {
+      "igdb_id": 42235,
+      "game_name": "Pachinko Maruhi Hisshouhou",
+      "file": "missing/P/42235-pachinko-maruhi-hisshouhou.json"
+    },
+    {
+      "igdb_id": 42234,
+      "game_name": "Pachinko Monogatari: Pachi-Slot mo Aru de yo!!",
+      "file": "missing/P/42234-pachinko-monogatari-pachi-slot-mo-aru-de-yo.json"
+    },
+    {
       "igdb_id": 329016,
       "game_name": "Pachinko Party",
       "file": "missing/P/329016-pachinko-party.json"
@@ -301138,9 +301293,29 @@
       "file": "missing/P/75502-pachinko-pocket-parlor-guide.json"
     },
     {
+      "igdb_id": 42232,
+      "game_name": "Pachinko Ren Chan Tengoku",
+      "file": "missing/P/42232-pachinko-ren-chan-tengoku.json"
+    },
+    {
       "igdb_id": 385717,
       "game_name": "Pachinko Star Wing II",
       "file": "missing/P/385717-pachinko-star-wing-ii.json"
+    },
+    {
+      "igdb_id": 42231,
+      "game_name": "Pachinko Tetsujin: Shichiban Shoubu",
+      "file": "missing/P/42231-pachinko-tetsujin-shichiban-shoubu.json"
+    },
+    {
+      "igdb_id": 42230,
+      "game_name": "Pachinko Wars",
+      "file": "missing/P/42230-pachinko-wars.json"
+    },
+    {
+      "igdb_id": 42229,
+      "game_name": "Pachinko Wars 2",
+      "file": "missing/P/42229-pachinko-wars-2.json"
     },
     {
       "igdb_id": 184121,
@@ -301151,6 +301326,11 @@
       "igdb_id": 86125,
       "game_name": "Pachio-kun Game Gallery",
       "file": "missing/P/86125-pachio-kun-game-gallery.json"
+    },
+    {
+      "igdb_id": 42228,
+      "game_name": "Pachio-kun Special",
+      "file": "missing/P/42228-pachio-kun-special.json"
     },
     {
       "igdb_id": 77996,
@@ -391578,6 +391758,11 @@
       "file": "missing/S/269857-st-world.json"
     },
     {
+      "igdb_id": 42198,
+      "game_name": "St. Nick",
+      "file": "missing/S/42198-st-nick.json"
+    },
+    {
       "igdb_id": 264620,
       "game_name": "Stab",
       "file": "missing/S/264620-stab.json"
@@ -406178,6 +406363,11 @@
       "file": "missing/S/202378-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json"
     },
     {
+      "igdb_id": 42208,
+      "game_name": "Super Mario World: The Secret of the 7 Golden Statues",
+      "file": "missing/S/42208-super-mario-world-the-secret-of-the-7-golden-statues.json"
+    },
+    {
       "igdb_id": 215149,
       "game_name": "Super Mario World: Tsunami Island",
       "file": "missing/S/215149-super-mario-world-tsunami-island.json"
@@ -406421,6 +406611,11 @@
       "igdb_id": 255369,
       "game_name": "Super Metroid: Digital Cube",
       "file": "missing/S/255369-super-metroid-digital-cube.json"
+    },
+    {
+      "igdb_id": 42209,
+      "game_name": "Super Metroid: Eris",
+      "file": "missing/S/42209-super-metroid-eris.json"
     },
     {
       "igdb_id": 255370,
@@ -407048,6 +407243,11 @@
       "file": "missing/S/342132-super-real-mahjong-p7.json"
     },
     {
+      "igdb_id": 42227,
+      "game_name": "Super Real Mahjong PV: Paradise",
+      "file": "missing/S/42227-super-real-mahjong-pv-paradise.json"
+    },
+    {
       "igdb_id": 342131,
       "game_name": "Super Real Mahjong PVI",
       "file": "missing/S/342131-super-real-mahjong-pvi.json"
@@ -407258,6 +407458,11 @@
       "file": "missing/S/92509-super-samtong.json"
     },
     {
+      "igdb_id": 42226,
+      "game_name": "Super Sangokushi",
+      "file": "missing/S/42226-super-sangokushi.json"
+    },
+    {
       "igdb_id": 221710,
       "game_name": "Super Sans Race Running",
       "file": "missing/S/221710-super-sans-race-running.json"
@@ -407356,6 +407561,21 @@
       "igdb_id": 164915,
       "game_name": "Super Shield Dash",
       "file": "missing/S/164915-super-shield-dash.json"
+    },
+    {
+      "igdb_id": 42225,
+      "game_name": "Super Shogi",
+      "file": "missing/S/42225-super-shogi.json"
+    },
+    {
+      "igdb_id": 42224,
+      "game_name": "Super Shogi 2",
+      "file": "missing/S/42224-super-shogi-2.json"
+    },
+    {
+      "igdb_id": 42223,
+      "game_name": "Super Shogi 3: Kitaihei",
+      "file": "missing/S/42223-super-shogi-3-kitaihei.json"
     },
     {
       "igdb_id": 360582,
@@ -407793,6 +408013,11 @@
       "file": "missing/S/361780-super-splash-league.json"
     },
     {
+      "igdb_id": 42203,
+      "game_name": "Super SpongeBob Kart",
+      "file": "missing/S/42203-super-spongebob-kart.json"
+    },
+    {
       "igdb_id": 97963,
       "game_name": "Super Sportmatchen",
       "file": "missing/S/97963-super-sportmatchen.json"
@@ -408013,6 +408238,11 @@
       "file": "missing/S/323180-super-tanooki-goomba.json"
     },
     {
+      "igdb_id": 42222,
+      "game_name": "Super Tekkyu Fight!",
+      "file": "missing/S/42222-super-tekkyu-fight.json"
+    },
+    {
       "igdb_id": 147960,
       "game_name": "Super Tennis",
       "file": "missing/S/147960-super-tennis.json"
@@ -408088,9 +408318,24 @@
       "file": "missing/S/43352-super-trucks-racing.json"
     },
     {
+      "igdb_id": 42221,
+      "game_name": "Super Trump Collection",
+      "file": "missing/S/42221-super-trump-collection.json"
+    },
+    {
+      "igdb_id": 42220,
+      "game_name": "Super Trump Collection 2",
+      "file": "missing/S/42220-super-trump-collection-2.json"
+    },
+    {
       "igdb_id": 74431,
       "game_name": "Super Trux",
       "file": "missing/S/74431-super-trux.json"
+    },
+    {
+      "igdb_id": 42219,
+      "game_name": "Super Tsume Shogi 1000",
+      "file": "missing/S/42219-super-tsume-shogi-1000.json"
     },
     {
       "igdb_id": 339136,
@@ -467771,6 +468016,11 @@
       "igdb_id": 37751,
       "game_name": "U-jin no Furi-furi Girls",
       "file": "missing/U/37751-u-jin-no-furi-furi-girls.json"
+    },
+    {
+      "igdb_id": 42210,
+      "game_name": "U-jin: Janjuu Gakuen",
+      "file": "missing/U/42210-u-jin-janjuu-gakuen.json"
     },
     {
       "igdb_id": 37752,
