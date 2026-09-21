@@ -2228,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
 | Shadow Council: The Puppeteers | 102949 | [102949-shadow-council-the-puppeteers.json](./102949-shadow-council-the-puppeteers.json) |
 | Shadow Dancer | 308420 | [308420-shadow-dancer.json](./308420-shadow-dancer.json) |
+| Shadow Dancer | 6876 | [6876-shadow-dancer.json](./6876-shadow-dancer.json) |
 | Shadow Dancer: The Secret of Shinobi | 10217 | [10217-shadow-dancer-the-secret-of-shinobi.json](./10217-shadow-dancer-the-secret-of-shinobi.json) |
 | Shadow Dream | 330306 | [330306-shadow-dream.json](./330306-shadow-dream.json) |
 | Shadow Dwellers: Deliverance | 391729 | [391729-shadow-dwellers-deliverance.json](./391729-shadow-dwellers-deliverance.json) |
@@ -2419,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
 | Shadowverse: Wonderland Dreams | 37072 | [37072-shadowverse-wonderland-dreams.json](./37072-shadowverse-wonderland-dreams.json) |
+| Shadwen | 14747 | [14747-shadwen.json](./14747-shadwen.json) |
 | Shady Brook - A Dark Mystery Text Adventure | 30903 | [30903-shady-brook-a-dark-mystery-text-adventure.json](./30903-shady-brook-a-dark-mystery-text-adventure.json) |
 | Shady Business | 195198 | [195198-shady-business.json](./195198-shady-business.json) |
 | Shady Business | 408028 | [408028-shady-business.json](./408028-shady-business.json) |
@@ -2956,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship It | 31747 | [31747-ship-it.json](./31747-ship-it.json) |
 | Ship Miner | 402999 | [402999-ship-miner.json](./402999-ship-miner.json) |
 | Ship of Dreams | 313892 | [313892-ship-of-dreams.json](./313892-ship-of-dreams.json) |
+| Ship of Fools | 194741 | [194741-ship-of-fools.json](./194741-ship-of-fools.json) |
 | Ship of Harkinian | 194694 | [194694-ship-of-harkinian.json](./194694-ship-of-harkinian.json) |
 | Ship of Love | 340376 | [340376-ship-of-love.json](./340376-ship-of-love.json) |
 | Ship of the Line | 73845 | [73845-ship-of-the-line.json](./73845-ship-of-the-line.json) |
@@ -4698,6 +4701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slurpy | 25712 | [25712-slurpy.json](./25712-slurpy.json) |
 | Sly 3: Honor Among Thieves | 222127 | [222127-sly-3-honor-among-thieves.json](./222127-sly-3-honor-among-thieves.json) |
 | Sly Cooper and the Thievius Raccoonus | 1798 | [1798-sly-cooper-and-the-thievius-raccoonus.json](./1798-sly-cooper-and-the-thievius-raccoonus.json) |
+| Sly Cooper and the Thievius Raccoonus | 222125 | [222125-sly-cooper-and-the-thievius-raccoonus.json](./222125-sly-cooper-and-the-thievius-raccoonus.json) |
 | Sly Panda | 198514 | [198514-sly-panda.json](./198514-sly-panda.json) |
 | Sly Slime | 156697 | [156697-sly-slime.json](./156697-sly-slime.json) |
 | Sly Spy | 12852 | [12852-sly-spy.json](./12852-sly-spy.json) |
@@ -5005,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake, snake, snake! | 100586 | [100586-snake-snake-snake.json](./100586-snake-snake-snake.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
+| Snakebird | 13104 | [13104-snakebird.json](./13104-snakebird.json) |
 | Snakebird Complete | 239519 | [239519-snakebird-complete.json](./239519-snakebird-complete.json) |
 | Snakebird GB | 324694 | [324694-snakebird-gb.json](./324694-snakebird-gb.json) |
 | SnakeBird NES | 228690 | [228690-snakebird-nes.json](./228690-snakebird-nes.json) |
@@ -6219,6 +6224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry Sir, I'm out of controls | 184581 | [184581-sorry-sir-im-out-of-controls.json](./184581-sorry-sir-im-out-of-controls.json) |
 | Sorry Survivor | 343865 | [343865-sorry-survivor.json](./343865-sorry-survivor.json) |
 | Sorry to Bother You | 177399 | [177399-sorry-to-bother-you.json](./177399-sorry-to-bother-you.json) |
+| Sorry We're Closed | 190964 | [190964-sorry-were-closed.json](./190964-sorry-were-closed.json) |
 | Sorry, We're Open | 200176 | [200176-sorry-were-open.json](./200176-sorry-were-open.json) |
 | Sorry, Wrong Door | 215931 | [215931-sorry-wrong-door.json](./215931-sorry-wrong-door.json) |
 | Sorry! I surrounded beauty! | 366288 | [366288-sorry-i-surrounded-beauty.json](./366288-sorry-i-surrounded-beauty.json) |
@@ -10683,6 +10689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kill-Boi 9000 | 215705 | [215705-super-kill-boi-9000.json](./215705-super-kill-boi-9000.json) |
 | Super Killer Hornets: Resurrection | 54413 | [54413-super-killer-hornets-resurrection.json](./54413-super-killer-hornets-resurrection.json) |
 | Super Kitty Tales | 180774 | [180774-super-kitty-tales.json](./180774-super-kitty-tales.json) |
+| Super Kiwi 64 | 197198 | [197198-super-kiwi-64.json](./197198-super-kiwi-64.json) |
 | Super Knockoff Versus | 82507 | [82507-super-knockoff-versus.json](./82507-super-knockoff-versus.json) |
 | Super Kobushi de Naguru Chan | 218123 | [218123-super-kobushi-de-naguru-chan.json](./218123-super-kobushi-de-naguru-chan.json) |
 | Super Koopa RPG: Here Comes the Koopa Bros.! | 338834 | [338834-super-koopa-rpg-here-comes-the-koopa-bros.json](./338834-super-koopa-rpg-here-comes-the-koopa-bros.json) |
@@ -10975,6 +10982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball | 2927 | [2927-super-monkey-ball.json](./2927-super-monkey-ball.json) |
 | Super Monkey Ball 2 | 2928 | [2928-super-monkey-ball-2.json](./2928-super-monkey-ball-2.json) |
 | Super Monkey Ball Stardust | 352178 | [352178-super-monkey-ball-stardust.json](./352178-super-monkey-ball-stardust.json) |
+| Super Monkey Ball: Banana Mania | 152355 | [152355-super-monkey-ball-banana-mania.json](./152355-super-monkey-ball-banana-mania.json) |
 | Super Monkey Ball: Banana Mania - Digital Deluxe Edition | 158584 | [158584-super-monkey-ball-banana-mania-digital-deluxe-edition.json](./158584-super-monkey-ball-banana-mania-digital-deluxe-edition.json) |
 | Super Monkey Ball: Banana Mania - Launch Edition | 323951 | [323951-super-monkey-ball-banana-mania-launch-edition.json](./323951-super-monkey-ball-banana-mania-launch-edition.json) |
 | Super Monkey Ball: Banana Rumble - Amy | 309079 | [309079-super-monkey-ball-banana-rumble-amy.json](./309079-super-monkey-ball-banana-rumble-amy.json) |
