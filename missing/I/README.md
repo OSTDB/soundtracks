@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagine: Reporter | 7942 | [7942-imagine-reporter.json](./7942-imagine-reporter.json) |
 | Imagine: Rescue Vet | 147432 | [147432-imagine-rescue-vet.json](./147432-imagine-rescue-vet.json) |
 | Imagine: Resort Owner | 7947 | [7947-imagine-resort-owner.json](./7947-imagine-resort-owner.json) |
+| Imagine: Sweet 16 | 5989 | [5989-imagine-sweet-16.json](./5989-imagine-sweet-16.json) |
 | Imagine: Zookeeper | 7943 | [7943-imagine-zookeeper.json](./7943-imagine-zookeeper.json) |
 | Imago | 97864 | [97864-imago.json](./97864-imago.json) |
 | iMahjong - Mahjong Pairs | 90041 | [90041-imahjong-mahjong-pairs.json](./90041-imahjong-mahjong-pairs.json) |
