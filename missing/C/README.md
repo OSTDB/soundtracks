@@ -4467,6 +4467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copa City | 305177 | [305177-copa-city.json](./305177-copa-city.json) |
 | Copa Petrobras de Marcas | 90609 | [90609-copa-petrobras-de-marcas.json](./90609-copa-petrobras-de-marcas.json) |
 | Cope Island: Adrift | 113755 | [113755-cope-island-adrift.json](./113755-cope-island-adrift.json) |
+| Copper Dreams | 59674 | [59674-copper-dreams.json](./59674-copper-dreams.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Copper Odyssey | 161375 | [161375-copper-odyssey.json](./161375-copper-odyssey.json) |
 | Cops and Robbers Fight | 105917 | [105917-cops-and-robbers-fight.json](./105917-cops-and-robbers-fight.json) |
