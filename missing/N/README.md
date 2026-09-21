@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K27: Ultra Edition | 410901 | [410901-nba-2k27-ultra-edition.json](./410901-nba-2k27-ultra-edition.json) |
 | NBA 2K3 | 4030 | [4030-nba-2k3.json](./4030-nba-2k3.json) |
 | NBA 2K6 | 257114 | [257114-nba-2k6.json](./257114-nba-2k6.json) |
+| NBA 2K7 | 8836 | [8836-nba-2k7.json](./8836-nba-2k7.json) |
 | NBA 2KVR Experience | 25907 | [25907-nba-2kvr-experience.json](./25907-nba-2kvr-experience.json) |
 | NBA 3 on 3 Featuring Kobe Bryant | 49904 | [49904-nba-3-on-3-featuring-kobe-bryant.json](./49904-nba-3-on-3-featuring-kobe-bryant.json) |
 | NBA Action '94 | 45552 | [45552-nba-action-94.json](./45552-nba-action-94.json) |
@@ -1876,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo World Championships: NES Edition | 299862 | [299862-nintendo-world-championships-nes-edition.json](./299862-nintendo-world-championships-nes-edition.json) |
 | Nintendo World Cup | 191743 | [191743-nintendo-world-cup.json](./191743-nintendo-world-cup.json) |
 | Nintendogs + Cats: French Bulldog & New Friends | 85600 | [85600-nintendogs-cats-french-bulldog-and-new-friends.json](./85600-nintendogs-cats-french-bulldog-and-new-friends.json) |
+| Nintendogs + Cats: Golden Retriever & New Friends | 21935 | [21935-nintendogs-cats-golden-retriever-and-new-friends.json](./21935-nintendogs-cats-golden-retriever-and-new-friends.json) |
 | Nintendogs + Cats: Shiba Inu & New Friends | 222328 | [222328-nintendogs-cats-shiba-inu-and-new-friends.json](./222328-nintendogs-cats-shiba-inu-and-new-friends.json) |
 | Nintendogs: Best Friends | 47727 | [47727-nintendogs-best-friends.json](./47727-nintendogs-best-friends.json) |
 | Nintendogs: Labrador & Friends | 47944 | [47944-nintendogs-labrador-and-friends.json](./47944-nintendogs-labrador-and-friends.json) |
