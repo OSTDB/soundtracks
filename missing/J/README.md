@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
 | James' Fun House: Episode 1 | 276856 | [276856-james-fun-house-episode-1.json](./276856-james-fun-house-episode-1.json) |
+| Jameson: The Pilot | 62464 | [62464-jameson-the-pilot.json](./62464-jameson-the-pilot.json) |
 | Jamestown: Legend of the Lost Colony | 6278 | [6278-jamestown-legend-of-the-lost-colony.json](./6278-jamestown-legend-of-the-lost-colony.json) |
 | Jamie Quest | 327373 | [327373-jamie-quest.json](./327373-jamie-quest.json) |
 | JamLegend | 93992 | [93992-jamlegend.json](./93992-jamlegend.json) |
@@ -1067,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
 | Jumping Jacks | 243100 | [243100-jumping-jacks.json](./243100-jumping-jacks.json) |
 | Jumping Joe! Friends Edition | 170387 | [170387-jumping-joe-friends-edition.json](./170387-jumping-joe-friends-edition.json) |
+| Jumping Line | 62417 | [62417-jumping-line.json](./62417-jumping-line.json) |
 | Jumping Master | 115590 | [115590-jumping-master.json](./115590-jumping-master.json) |
 | Jumping Mellow | 133202 | [133202-jumping-mellow.json](./133202-jumping-mellow.json) |
 | Jumping Orb | 295888 | [295888-jumping-orb.json](./295888-jumping-orb.json) |
