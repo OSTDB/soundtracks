@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Unseen | 303630 | [303630-light-unseen.json](./303630-light-unseen.json) |
 | Light Up the Dark | 404960 | [404960-light-up-the-dark.json](./404960-light-up-the-dark.json) |
 | Light Up the Room | 161371 | [161371-light-up-the-room.json](./161371-light-up-the-room.json) |
+| Light-Bot | 63577 | [63577-light-bot.json](./63577-light-bot.json) |
 | Light-Bringer | 360644 | [360644-light-bringer.json](./360644-light-bringer.json) |
 | Light-It Up: Complete Edition | 283170 | [283170-light-it-up-complete-edition.json](./283170-light-it-up-complete-edition.json) |
 | Light: Path of the Archmage | 392136 | [392136-light-path-of-the-archmage.json](./392136-light-path-of-the-archmage.json) |
