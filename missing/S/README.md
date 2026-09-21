@@ -1712,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semantica: Semantic game | 231905 | [231905-semantica-semantic-game.json](./231905-semantica-semantic-game.json) |
 | Semantics | 388255 | [388255-semantics.json](./388255-semantics.json) |
 | Semblance | 55173 | [55173-semblance.json](./55173-semblance.json) |
+| Semiramis no Tenbin | 60257 | [60257-semiramis-no-tenbin.json](./60257-semiramis-no-tenbin.json) |
 | Semispheres | 17990 | [17990-semispheres.json](./17990-semispheres.json) |
 | Semmelweis | 238752 | [238752-semmelweis.json](./238752-semmelweis.json) |
 | Semo | 369104 | [369104-semo.json](./369104-semo.json) |
@@ -1962,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven: The Days Long Gone | 18908 | [18908-seven-the-days-long-gone.json](./18908-seven-the-days-long-gone.json) |
 | Sevenfall | 387540 | [387540-sevenfall.json](./387540-sevenfall.json) |
 | Seventh Angel | 189129 | [189129-seventh-angel.json](./189129-seventh-angel.json) |
+| Seventh Cavalry | 60220 | [60220-seventh-cavalry.json](./60220-seventh-cavalry.json) |
 | Seventh Choir | 337713 | [337713-seventh-choir.json](./337713-seventh-choir.json) |
 | Seventh Song | 309510 | [309510-seventh-song.json](./309510-seventh-song.json) |
 | Sever the Wicked! | 363470 | [363470-sever-the-wicked.json](./363470-sever-the-wicked.json) |
@@ -2808,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsetsu Shiawase Usagi F: Yuujou Yori mo Aiyoku | 277859 | [277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json](./277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json) |
 | Shinshuku Taisen: It's a Noni! | 123622 | [123622-shinshuku-taisen-its-a-noni.json](./123622-shinshuku-taisen-its-a-noni.json) |
 | Shinsou Seiki Elementia ~Kutsujoku no Sennou Saimin~ | 133246 | [133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json](./133246-shinsou-seiki-elementia-kutsujoku-no-sennou-saimin.json) |
+| Shinsouban Mahoutsukai to Goshujin-sama: Wizard and The Master | 60251 | [60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json](./60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json) |
 | Shiny Sisters | 336596 | [336596-shiny-sisters.json](./336596-shiny-sisters.json) |
 | Shiny Summer | 164897 | [164897-shiny-summer.json](./164897-shiny-summer.json) |
 | Shiny-Man-Adventures | 211751 | [211751-shiny-man-adventures.json](./211751-shiny-man-adventures.json) |
@@ -6251,6 +6254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bar at the End of the Galaxy | 171005 | [171005-space-bar-at-the-end-of-the-galaxy.json](./171005-space-bar-at-the-end-of-the-galaxy.json) |
 | Space Battalion Alpha | 186194 | [186194-space-battalion-alpha.json](./186194-space-battalion-alpha.json) |
 | Space Battle | 328486 | [328486-space-battle.json](./328486-space-battle.json) |
+| Space Battle Arena | 60231 | [60231-space-battle-arena.json](./60231-space-battle-arena.json) |
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
 | Space Battlefield | 187979 | [187979-space-battlefield.json](./187979-space-battlefield.json) |
 | Space Beastz | 195078 | [195078-space-beastz.json](./195078-space-beastz.json) |
@@ -9243,6 +9247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike of Kings | 56465 | [56465-strike-of-kings.json](./56465-strike-of-kings.json) |
 | Strike Solitaire | 276279 | [276279-strike-solitaire.json](./276279-strike-solitaire.json) |
 | Strike Solitaire | 54406 | [54406-strike-solitaire.json](./54406-strike-solitaire.json) |
+| Strike Solitaire 2 | 60236 | [60236-strike-solitaire-2.json](./60236-strike-solitaire-2.json) |
 | Strike Squadron: Caracará | 31958 | [31958-strike-squadron-caracara.json](./31958-strike-squadron-caracara.json) |
 | Strike Suit Infinity | 9329 | [9329-strike-suit-infinity.json](./9329-strike-suit-infinity.json) |
 | Strike Suit Zero: Collectors Edition | 54407 | [54407-strike-suit-zero-collectors-edition.json](./54407-strike-suit-zero-collectors-edition.json) |
@@ -9914,6 +9919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arcade Pinball | 217980 | [217980-super-arcade-pinball.json](./217980-super-arcade-pinball.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Artificial Intelligence Psike | 216871 | [216871-super-artificial-intelligence-psike.json](./216871-super-artificial-intelligence-psike.json) |
+| Super Astro Fighter | 60200 | [60200-super-astro-fighter.json](./60200-super-astro-fighter.json) |
 | Super Astro Space Blast | 387542 | [387542-super-astro-space-blast.json](./387542-super-astro-space-blast.json) |
 | Super Ate in Wonderland | 195192 | [195192-super-ate-in-wonderland.json](./195192-super-ate-in-wonderland.json) |
 | Super Auto Pets | 146641 | [146641-super-auto-pets.json](./146641-super-auto-pets.json) |
@@ -10846,6 +10852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Swunsh World | 214775 | [214775-super-swunsh-world.json](./214775-super-swunsh-world.json) |
 | Super Swunsh World 2 | 328044 | [328044-super-swunsh-world-2.json](./328044-super-swunsh-world-2.json) |
 | Super Taco Crew | 173845 | [173845-super-taco-crew.json](./173845-super-taco-crew.json) |
+| Super Tact | 60225 | [60225-super-tact.json](./60225-super-tact.json) |
 | Super Tank Attack | 256556 | [256556-super-tank-attack.json](./256556-super-tank-attack.json) |
 | Super Tank Battle | 175369 | [175369-super-tank-battle.json](./175369-super-tank-battle.json) |
 | Super Tank Rumble | 185695 | [185695-super-tank-rumble.json](./185695-super-tank-rumble.json) |
