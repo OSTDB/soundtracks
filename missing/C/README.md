@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatchKing | 215227 | [215227-catchking.json](./215227-catchking.json) |
 | Catchy Crystals | 19386 | [19386-catchy-crystals.json](./19386-catchy-crystals.json) |
 | Catchy Tunes | 96772 | [96772-catchy-tunes.json](./96772-catchy-tunes.json) |
+| CatCity: Smash | 59040 | [59040-catcity-smash.json](./59040-catcity-smash.json) |
 | CatClimber | 320550 | [320550-catclimber.json](./320550-catclimber.json) |
 | CatDog on Parade | 325082 | [325082-catdog-on-parade.json](./325082-catdog-on-parade.json) |
 | Catechesis | 276693 | [276693-catechesis.json](./276693-catechesis.json) |
