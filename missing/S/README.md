@@ -1394,8 +1394,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seafox | 22416 | [22416-seafox.json](./22416-seafox.json) |
 | Seaglass | 225763 | [225763-seaglass.json](./225763-seaglass.json) |
 | Seal Game's | 389608 | [389608-seal-games.json](./389608-seal-games.json) |
+| Seal of Evil | 14586 | [14586-seal-of-evil.json](./14586-seal-of-evil.json) |
 | Seal of Shadows | 410237 | [410237-seal-of-shadows.json](./410237-seal-of-shadows.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
+| SEAL Team | 14510 | [14510-seal-team.json](./14510-seal-team.json) |
 | Sealark | 64393 | [64393-sealark.json](./64393-sealark.json) |
 | Sealbreakers | 387360 | [387360-sealbreakers.json](./387360-sealbreakers.json) |
 | Sealchain | 274540 | [274540-sealchain.json](./274540-sealchain.json) |
@@ -4693,6 +4695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Pixel | 105094 | [105094-small-pixel.json](./105094-small-pixel.json) |
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
 | Small Soldiers | 71671 | [71671-small-soldiers.json](./71671-small-soldiers.json) |
+| Small Soldiers: Globotech Design Lab | 14594 | [14594-small-soldiers-globotech-design-lab.json](./14594-small-soldiers-globotech-design-lab.json) |
 | Small Soldiers: Hand to Hand Combat Game | 245408 | [245408-small-soldiers-hand-to-hand-combat-game.json](./245408-small-soldiers-hand-to-hand-combat-game.json) |
 | Small Town Detective | 310585 | [310585-small-town-detective.json](./310585-small-town-detective.json) |
 | Small Town Detective in Where are Ray And Cooper | 310586 | [310586-small-town-detective-in-where-are-ray-and-cooper.json](./310586-small-town-detective-in-where-are-ray-and-cooper.json) |
@@ -8042,6 +8045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Post | 47253 | [47253-star-post.json](./47253-star-post.json) |
 | Star Prince Dress up game | 184061 | [184061-star-prince-dress-up-game.json](./184061-star-prince-dress-up-game.json) |
 | Star Quest | 249861 | [249861-star-quest.json](./249861-star-quest.json) |
+| Star Quest 1 in the 27th Century | 14511 | [14511-star-quest-1-in-the-27th-century.json](./14511-star-quest-1-in-the-27th-century.json) |
 | Star Rage VR | 68697 | [68697-star-rage-vr.json](./68697-star-rage-vr.json) |
 | Star Raiders | 2217 | [2217-star-raiders.json](./2217-star-raiders.json) |
 | Star Rank Boxing | 57664 | [57664-star-rank-boxing.json](./57664-star-rank-boxing.json) |
@@ -8344,6 +8348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate | 245393 | [245393-stargate.json](./245393-stargate.json) |
 | Stargate | 346142 | [346142-stargate.json](./346142-stargate.json) |
 | Stargate Bullet | 379896 | [379896-stargate-bullet.json](./379896-stargate-bullet.json) |
+| Stargate Worlds | 14534 | [14534-stargate-worlds.json](./14534-stargate-worlds.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
 | StarGazers | 245873 | [245873-stargazers.json](./245873-stargazers.json) |
 | Stargazing 64 | 350523 | [350523-stargazing-64.json](./350523-stargazing-64.json) |
@@ -8797,6 +8802,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella Supernova: The Astral Vale | 417538 | [417538-stella-supernova-the-astral-vale.json](./417538-stella-supernova-the-astral-vale.json) |
 | Stellanova | 216264 | [216264-stellanova.json](./216264-stellanova.json) |
 | Stellar 2D | 34763 | [34763-stellar-2d.json](./34763-stellar-2d.json) |
+| Stellar 7 | 14513 | [14513-stellar-7.json](./14513-stellar-7.json) |
+| Stellar 7 | 14514 | [14514-stellar-7.json](./14514-stellar-7.json) |
 | Stellar Attack | 52870 | [52870-stellar-attack.json](./52870-stellar-attack.json) |
 | Stellar Bewitching | 314057 | [314057-stellar-bewitching.json](./314057-stellar-bewitching.json) |
 | Stellar Blade x Nier: Automata | 317626 | [317626-stellar-blade-x-nier-automata.json](./317626-stellar-blade-x-nier-automata.json) |
@@ -8837,6 +8844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Valkyrie | 165072 | [165072-stellar-valkyrie.json](./165072-stellar-valkyrie.json) |
 | Stellar War | 173260 | [173260-stellar-war.json](./173260-stellar-war.json) |
 | Stellar Warfare | 143701 | [143701-stellar-warfare.json](./143701-stellar-warfare.json) |
+| Stellar-Fire | 14515 | [14515-stellar-fire.json](./14515-stellar-fire.json) |
 | Stellar!: Infinity defense | 299453 | [299453-stellar-infinity-defense.json](./299453-stellar-infinity-defense.json) |
 | StellarEchoes: Terrain Explorer | 264619 | [264619-stellarechoes-terrain-explorer.json](./264619-stellarechoes-terrain-explorer.json) |
 | Stellaren | 132202 | [132202-stellaren.json](./132202-stellaren.json) |
