@@ -1190,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recorded | 59691 | [59691-recorded.json](./59691-recorded.json) |
 | Recording the Predestined Time | 135013 | [135013-recording-the-predestined-time.json](./135013-recording-the-predestined-time.json) |
 | Records of the Flycatcher | 319803 | [319803-records-of-the-flycatcher.json](./319803-records-of-the-flycatcher.json) |
+| Recore: Collector's Edition | 41624 | [41624-recore-collectors-edition.json](./41624-recore-collectors-edition.json) |
 | Recore: Eye of Obsidian | 139396 | [139396-recore-eye-of-obsidian.json](./139396-recore-eye-of-obsidian.json) |
 | Recovery Syndicate | 235868 | [235868-recovery-syndicate.json](./235868-recovery-syndicate.json) |
 | Recovery: Search & Rescue | 53493 | [53493-recovery-search-and-rescue.json](./53493-recovery-search-and-rescue.json) |
@@ -1828,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 4: The Mercenaries - Separate Ways Update | 266859 | [266859-resident-evil-4-the-mercenaries-separate-ways-update.json](./266859-resident-evil-4-the-mercenaries-separate-ways-update.json) |
 | Resident Evil 4: Ultimate HD Edition | 24223 | [24223-resident-evil-4-ultimate-hd-edition.json](./24223-resident-evil-4-ultimate-hd-edition.json) |
 | Resident Evil 4: VR Mode | 250644 | [250644-resident-evil-4-vr-mode.json](./250644-resident-evil-4-vr-mode.json) |
+| Resident Evil 5: Collector's Edition | 41593 | [41593-resident-evil-5-collectors-edition.json](./41593-resident-evil-5-collectors-edition.json) |
 | Resident Evil 6 Remastered | 41858 | [41858-resident-evil-6-remastered.json](./41858-resident-evil-6-remastered.json) |
 | Resident Evil 7 Teaser: Beginning Hour | 90566 | [90566-resident-evil-7-teaser-beginning-hour.json](./90566-resident-evil-7-teaser-beginning-hour.json) |
 | Resident Evil 7: Biohazard - Not A Hero | 27395 | [27395-resident-evil-7-biohazard-not-a-hero.json](./27395-resident-evil-7-biohazard-not-a-hero.json) |
@@ -3120,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketbirds 2: Rescue Bundle | 170516 | [170516-rocketbirds-2-rescue-bundle.json](./170516-rocketbirds-2-rescue-bundle.json) |
 | Rocketeer | 211953 | [211953-rocketeer.json](./211953-rocketeer.json) |
 | Rocketmen: Axis of Evil | 20273 | [20273-rocketmen-axis-of-evil.json](./20273-rocketmen-axis-of-evil.json) |
+| Rocketmen: It Came from Uranus | 41588 | [41588-rocketmen-it-came-from-uranus.json](./41588-rocketmen-it-came-from-uranus.json) |
 | RocketPods | 127975 | [127975-rocketpods.json](./127975-rocketpods.json) |
 | Rockets | 108514 | [108514-rockets.json](./108514-rockets.json) |
 | Rocketship Rescue | 178638 | [178638-rocketship-rescue.json](./178638-rocketship-rescue.json) |
@@ -3175,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocksmith: Rush 5-Song Pack | 226932 | [226932-rocksmith-rush-5-song-pack.json](./226932-rocksmith-rush-5-song-pack.json) |
 | Rockstar Alien Killers | 102796 | [102796-rockstar-alien-killers.json](./102796-rockstar-alien-killers.json) |
 | Rockstar DressUp | 104596 | [104596-rockstar-dressup.json](./104596-rockstar-dressup.json) |
+| Rockstar Games Collection: Edition 1 | 41587 | [41587-rockstar-games-collection-edition-1.json](./41587-rockstar-games-collection-edition-1.json) |
 | Rockstar! | 78693 | [78693-rockstar.json](./78693-rockstar.json) |
 | Rocky | 4093 | [4093-rocky.json](./4093-rocky.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
@@ -3879,6 +3883,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Leage Live 2: Game of the Year Edition | 323373 | [323373-rugby-leage-live-2-game-of-the-year-edition.json](./323373-rugby-leage-live-2-game-of-the-year-edition.json) |
 | Rugby League 26 | 355082 | [355082-rugby-league-26.json](./355082-rugby-league-26.json) |
 | Rugby League 3 | 23364 | [23364-rugby-league-3.json](./23364-rugby-league-3.json) |
+| Rugby League Live | 41586 | [41586-rugby-league-live.json](./41586-rugby-league-live.json) |
+| Rugby League Live 2 | 41585 | [41585-rugby-league-live-2.json](./41585-rugby-league-live-2.json) |
 | Rugby League Live 2: Gold Edition | 197238 | [197238-rugby-league-live-2-gold-edition.json](./197238-rugby-league-live-2-gold-edition.json) |
 | Rugby League Live 4 | 43061 | [43061-rugby-league-live-4.json](./43061-rugby-league-live-4.json) |
 | Rugby League Raw | 385080 | [385080-rugby-league-raw.json](./385080-rugby-league-raw.json) |
@@ -4148,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
 | Rush!!! | 167260 | [167260-rush.json](./167260-rush.json) |
 | Rush'n Attack | 90990 | [90990-rushn-attack.json](./90990-rushn-attack.json) |
+| Rush'N Attack Ex-Patriot | 41584 | [41584-rushn-attack-ex-patriot.json](./41584-rushn-attack-ex-patriot.json) |
 | Rushaway | 211790 | [211790-rushaway.json](./211790-rushaway.json) |
 | Rushcremental | 381635 | [381635-rushcremental.json](./381635-rushcremental.json) |
 | Rushdown Revolt | 138604 | [138604-rushdown-revolt.json](./138604-rushdown-revolt.json) |
