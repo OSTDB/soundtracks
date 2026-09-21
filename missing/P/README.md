@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.O.W.: Prisoners of War | 274103 | [274103-p-o-w-prisoners-of-war.json](./274103-p-o-w-prisoners-of-war.json) |
 | P.R.O.T.O.C.O.O.L.: Silver Pack | 267078 | [267078-p-r-o-t-o-c-o-o-l-silver-pack.json](./267078-p-r-o-t-o-c-o-o-l-silver-pack.json) |
 | P.S.Rose | 202318 | [202318-p-s-rose.json](./202318-p-s-rose.json) |
+| P.T. Barnum's Acrobats | 41558 | [41558-p-t-barnums-acrobats.json](./41558-p-t-barnums-acrobats.json) |
 | P.T. Bone-um's: Fabulous Tightrope of Terror | 180798 | [180798-p-t-bone-ums-fabulous-tightrope-of-terror.json](./180798-p-t-bone-ums-fabulous-tightrope-of-terror.json) |
 | P.T.O. II: Pacific Theater of Operations | 45527 | [45527-p-t-o-ii-pacific-theater-of-operations.json](./45527-p-t-o-ii-pacific-theater-of-operations.json) |
 | P1 Select | 139803 | [139803-p1-select.json](./139803-p1-select.json) |
@@ -1449,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Dark | 1464 | [1464-perfect-dark.json](./1464-perfect-dark.json) |
 | Perfect Dark | 1466 | [1466-perfect-dark.json](./1466-perfect-dark.json) |
 | Perfect Dark Zero | 292158 | [292158-perfect-dark-zero.json](./292158-perfect-dark-zero.json) |
+| Perfect Dark Zero: Collector's Edition | 41596 | [41596-perfect-dark-zero-collectors-edition.json](./41596-perfect-dark-zero-collectors-edition.json) |
 | Perfect Fit | 243698 | [243698-perfect-fit.json](./243698-perfect-fit.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
 | Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
@@ -2894,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Iridium | 260172 | [260172-planet-iridium.json](./260172-planet-iridium.json) |
 | Planet Joker | 91954 | [91954-planet-joker.json](./91954-planet-joker.json) |
 | Planet Jump 2 | 118441 | [118441-planet-jump-2.json](./118441-planet-jump-2.json) |
+| Planet Lander | 41577 | [41577-planet-lander.json](./41577-planet-lander.json) |
 | Planet Lust | 333573 | [333573-planet-lust.json](./333573-planet-lust.json) |
 | Planet Modular Tower Defense. Sci-Fi TD Strategy | 126597 | [126597-planet-modular-tower-defense-sci-fi-td-strategy.json](./126597-planet-modular-tower-defense-sci-fi-td-strategy.json) |
 | Planet Monsters | 49359 | [49359-planet-monsters.json](./49359-planet-monsters.json) |
@@ -3223,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Arcade Story DX | 208033 | [208033-pocket-arcade-story-dx.json](./208033-pocket-arcade-story-dx.json) |
 | Pocket Assault | 118818 | [118818-pocket-assault.json](./118818-pocket-assault.json) |
 | Pocket Billiard Funk: The 9 Ball | 50558 | [50558-pocket-billiard-funk-the-9-ball.json](./50558-pocket-billiard-funk-the-9-ball.json) |
+| Pocket Billiards! | 41559 | [41559-pocket-billiards.json](./41559-pocket-billiards.json) |
 | Pocket Bite d20 | 184616 | [184616-pocket-bite-d20.json](./184616-pocket-bite-d20.json) |
 | Pocket Bomberman | 2980 | [2980-pocket-bomberman.json](./2980-pocket-bomberman.json) |
 | Pocket Boss | 347684 | [347684-pocket-boss.json](./347684-pocket-boss.json) |
@@ -5693,6 +5697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Pests | 174366 | [174366-puzzle-pests.json](./174366-puzzle-pests.json) |
 | Puzzle Photographer | 403041 | [403041-puzzle-photographer.json](./403041-puzzle-photographer.json) |
 | Puzzle Photographer 2: Fairy Vacation | 403044 | [403044-puzzle-photographer-2-fairy-vacation.json](./403044-puzzle-photographer-2-fairy-vacation.json) |
+| Puzzle Piece Panic! | 41576 | [41576-puzzle-piece-panic.json](./41576-puzzle-piece-panic.json) |
 | Puzzle Piecer: Full Spectrum | 358358 | [358358-puzzle-piecer-full-spectrum.json](./358358-puzzle-piecer-full-spectrum.json) |
 | Puzzle Piecer: Leaves of Autumn | 370779 | [370779-puzzle-piecer-leaves-of-autumn.json](./370779-puzzle-piecer-leaves-of-autumn.json) |
 | Puzzle Pleasant | 384070 | [384070-puzzle-pleasant.json](./384070-puzzle-pleasant.json) |
