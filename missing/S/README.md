@@ -2154,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Waifu | 227518 | [227518-sexy-waifu.json](./227518-sexy-waifu.json) |
 | Seybul Tech | 264634 | [264634-seybul-tech.json](./264634-seybul-tech.json) |
 | Seymour - Take One! | 142435 | [142435-seymour-take-one.json](./142435-seymour-take-one.json) |
+| Seymour Goes to Hollywood | 18572 | [18572-seymour-goes-to-hollywood.json](./18572-seymour-goes-to-hollywood.json) |
 | Sfare: Relax your mind | 184130 | [184130-sfare-relax-your-mind.json](./184130-sfare-relax-your-mind.json) |
 | SFCave | 87233 | [87233-sfcave.json](./87233-sfcave.json) |
 | SFG Soccer | 66700 | [66700-sfg-soccer.json](./66700-sfg-soccer.json) |
@@ -2629,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Goes Right | 61907 | [61907-sheep-goes-right.json](./61907-sheep-goes-right.json) |
 | Sheep happens | 19500 | [19500-sheep-happens.json](./19500-sheep-happens.json) |
 | Sheep in Love | 245017 | [245017-sheep-in-love.json](./245017-sheep-in-love.json) |
+| Sheep In Space | 18561 | [18561-sheep-in-space.json](./18561-sheep-in-space.json) |
 | Sheep Island | 373072 | [373072-sheep-island.json](./373072-sheep-island.json) |
 | Sheep Launcher 2 | 233524 | [233524-sheep-launcher-2.json](./233524-sheep-launcher-2.json) |
 | Sheep Legion - turn-based tactical RPG game | 174321 | [174321-sheep-legion-turn-based-tactical-rpg-game.json](./174321-sheep-legion-turn-based-tactical-rpg-game.json) |
@@ -3070,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Disappearing | 288357 | [288357-shooting-disappearing.json](./288357-shooting-disappearing.json) |
 | Shooting Fever | 64888 | [64888-shooting-fever.json](./64888-shooting-fever.json) |
 | Shooting Filling | 288358 | [288358-shooting-filling.json](./288358-shooting-filling.json) |
+| Shooting Gallery | 18587 | [18587-shooting-gallery.json](./18587-shooting-gallery.json) |
 | Shooting Gallery | 218543 | [218543-shooting-gallery.json](./218543-shooting-gallery.json) |
 | Shooting Gallery Mayhem | 117516 | [117516-shooting-gallery-mayhem.json](./117516-shooting-gallery-mayhem.json) |
 | Shooting Game Kari | 211718 | [211718-shooting-game-kari.json](./211718-shooting-game-kari.json) |
@@ -3220,6 +3223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek SuperSlam | 141642 | [141642-shrek-superslam.json](./141642-shrek-superslam.json) |
 | Shrek the Third | 3669 | [3669-shrek-the-third.json](./3669-shrek-the-third.json) |
 | Shrek the Third: Arthur's School Day Adventure | 72995 | [72995-shrek-the-third-arthurs-school-day-adventure.json](./72995-shrek-the-third-arthurs-school-day-adventure.json) |
+| Shrek: Fairy Tale Freakdown | 18576 | [18576-shrek-fairy-tale-freakdown.json](./18576-shrek-fairy-tale-freakdown.json) |
 | Shrek: Fire Donkey | 229066 | [229066-shrek-fire-donkey.json](./229066-shrek-fire-donkey.json) |
 | Shrek's Vacation | 230274 | [230274-shreks-vacation.json](./230274-shreks-vacation.json) |
 | Shriddle | 143006 | [143006-shriddle.json](./143006-shriddle.json) |
@@ -4136,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Island | 308257 | [308257-sky-island.json](./308257-sky-island.json) |
 | Sky Jaguar | 69543 | [69543-sky-jaguar.json](./69543-sky-jaguar.json) |
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
+| Sky Jinks | 18529 | [18529-sky-jinks.json](./18529-sky-jinks.json) |
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
 | Sky Jumping | 336626 | [336626-sky-jumping.json](./336626-sky-jumping.json) |
 | Sky Kid | 239160 | [239160-sky-kid.json](./239160-sky-kid.json) |
@@ -4165,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Scaffold | 392131 | [392131-sky-scaffold.json](./392131-sky-scaffold.json) |
 | Sky Seeker | 159840 | [159840-sky-seeker.json](./159840-sky-seeker.json) |
 | Sky Shepherd | 117103 | [117103-sky-shepherd.json](./117103-sky-shepherd.json) |
+| Sky Skipper | 18546 | [18546-sky-skipper.json](./18546-sky-skipper.json) |
 | Sky Skipper | 288336 | [288336-sky-skipper.json](./288336-sky-skipper.json) |
 | Sky Sports Football Manager | 94003 | [94003-sky-sports-football-manager.json](./94003-sky-sports-football-manager.json) |
 | Sky Squadron | 139477 | [139477-sky-squadron.json](./139477-sky-squadron.json) |
@@ -7171,6 +7177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Canyon | 332990 | [332990-spider-canyon.json](./332990-spider-canyon.json) |
 | Spider Derby | 120370 | [120370-spider-derby.json](./120370-spider-derby.json) |
 | Spider Fear | 130914 | [130914-spider-fear.json](./130914-spider-fear.json) |
+| Spider Fighter | 18530 | [18530-spider-fighter.json](./18530-spider-fighter.json) |
 | Spider Fox | 254558 | [254558-spider-fox.json](./254558-spider-fox.json) |
 | Spider Inferno | 285460 | [285460-spider-inferno.json](./285460-spider-inferno.json) |
 | Spider Jack | 65478 | [65478-spider-jack.json](./65478-spider-jack.json) |
@@ -9598,6 +9605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stump Me | 312886 | [312886-stump-me.json](./312886-stump-me.json) |
 | Stump Simulator | 272284 | [272284-stump-simulator.json](./272284-stump-simulator.json) |
 | Stunt Corgi | 76989 | [76989-stunt-corgi.json](./76989-stunt-corgi.json) |
+| Stunt Cycle | 18584 | [18584-stunt-cycle.json](./18584-stunt-cycle.json) |
 | Stunt Derby | 216863 | [216863-stunt-derby.json](./216863-stunt-derby.json) |
 | Stunt Destroyer | 204086 | [204086-stunt-destroyer.json](./204086-stunt-destroyer.json) |
 | Stunt Drifters | 124604 | [124604-stunt-drifters.json](./124604-stunt-drifters.json) |
@@ -9896,6 +9904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suicide Guy Collection | 118151 | [118151-suicide-guy-collection.json](./118151-suicide-guy-collection.json) |
 | Suicide Guy: Sleepin' Deeply | 102917 | [102917-suicide-guy-sleepin-deeply.json](./102917-suicide-guy-sleepin-deeply.json) |
 | Suicide Hero | 244279 | [244279-suicide-hero.json](./244279-suicide-hero.json) |
+| Suicide Mission | 18566 | [18566-suicide-mission.json](./18566-suicide-mission.json) |
 | Suicide Squad: Kill The Justice League - Deluxe Edition | 239147 | [239147-suicide-squad-kill-the-justice-league-deluxe-edition.json](./239147-suicide-squad-kill-the-justice-league-deluxe-edition.json) |
 | Suicide Squad: Kill the Justice League - Season 3: Season of Lawless | 321529 | [321529-suicide-squad-kill-the-justice-league-season-3-season-of-lawless.json](./321529-suicide-squad-kill-the-justice-league-season-3-season-of-lawless.json) |
 | Suicide Squad: Kill the Justice League - Season of Freeze | 317869 | [317869-suicide-squad-kill-the-justice-league-season-of-freeze.json](./317869-suicide-squad-kill-the-justice-league-season-of-freeze.json) |
@@ -10987,6 +10996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sean 007 | 239736 | [239736-super-sean-007.json](./239736-super-sean-007.json) |
 | Super Seducer 2 | 103232 | [103232-super-seducer-2.json](./103232-super-seducer-2.json) |
 | Super Serpent Snake 3D | 412292 | [412292-super-serpent-snake-3d.json](./412292-super-serpent-snake-3d.json) |
+| Super Seymour Saves the Plant | 18573 | [18573-super-seymour-saves-the-plant.json](./18573-super-seymour-saves-the-plant.json) |
 | Super Shadow Dudes | 180186 | [180186-super-shadow-dudes.json](./180186-super-shadow-dudes.json) |
 | Super Shanghai: Dragon's Eye | 406085 | [406085-super-shanghai-dragons-eye.json](./406085-super-shanghai-dragons-eye.json) |
 | Super Shape Cascade | 268225 | [268225-super-shape-cascade.json](./268225-super-shape-cascade.json) |
@@ -11887,6 +11897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Bones: Special Edition | 242054 | [242054-swords-and-bones-special-edition.json](./242054-swords-and-bones-special-edition.json) |
 | Swords & Crystals: Dragon Hatchling Pet | 298185 | [298185-swords-and-crystals-dragon-hatchling-pet.json](./298185-swords-and-crystals-dragon-hatchling-pet.json) |
 | Swords & Darkness | 85411 | [85411-swords-and-darkness.json](./85411-swords-and-darkness.json) |
+| Swords & Serpents | 18582 | [18582-swords-and-serpents.json](./18582-swords-and-serpents.json) |
 | Swords & Slippers | 374141 | [374141-swords-and-slippers.json](./374141-swords-and-slippers.json) |
 | Swords & Soldiers | 210258 | [210258-swords-and-soldiers.json](./210258-swords-and-soldiers.json) |
 | Swords & Soldiers | 210261 | [210261-swords-and-soldiers.json](./210261-swords-and-soldiers.json) |
