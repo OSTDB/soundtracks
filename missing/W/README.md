@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walking Heavy | 61597 | [61597-walking-heavy.json](./61597-walking-heavy.json) |
 | Walking in the Abyss: Definitive Edition | 221175 | [221175-walking-in-the-abyss-definitive-edition.json](./221175-walking-in-the-abyss-definitive-edition.json) |
 | Walking on Ice | 343242 | [343242-walking-on-ice.json](./343242-walking-on-ice.json) |
+| Walking Simulator | 128376 | [128376-walking-simulator.json](./128376-walking-simulator.json) |
 | Walking Simulator | 188052 | [188052-walking-simulator.json](./188052-walking-simulator.json) |
 | Walking With Beasts: Operation Salvage | 147898 | [147898-walking-with-beasts-operation-salvage.json](./147898-walking-with-beasts-operation-salvage.json) |
 | Walking-Race | 247053 | [247053-walking-race.json](./247053-walking-race.json) |
