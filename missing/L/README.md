@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakeside Has No Lake!! | 355614 | [355614-lakeside-has-no-lake.json](./355614-lakeside-has-no-lake.json) |
 | Lakesider: Above and Below | 285477 | [285477-lakesider-above-and-below.json](./285477-lakesider-above-and-below.json) |
 | Lala Hentai 2 | 375970 | [375970-lala-hentai-2.json](./375970-lala-hentai-2.json) |
+| Lala the Magical | 48298 | [48298-lala-the-magical.json](./48298-lala-the-magical.json) |
 | Lama Drama FPS | 122370 | [122370-lama-drama-fps.json](./122370-lama-drama-fps.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
 | Lambda Fortress | 345541 | [345541-lambda-fortress.json](./345541-lambda-fortress.json) |
@@ -1940,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Lamb | 262429 | [262429-little-lamb.json](./262429-little-lamb.json) |
 | Little Lands | 177932 | [177932-little-lands.json](./177932-little-lands.json) |
 | Little Laps | 349326 | [349326-little-laps.json](./349326-little-laps.json) |
+| Little League Baseball: Championship Series | 48283 | [48283-little-league-baseball-championship-series.json](./48283-little-league-baseball-championship-series.json) |
 | Little League World Series Baseball 2008 | 47953 | [47953-little-league-world-series-baseball-2008.json](./47953-little-league-world-series-baseball-2008.json) |
 | Little League World Series Baseball 2010 | 66621 | [66621-little-league-world-series-baseball-2010.json](./66621-little-league-world-series-baseball-2010.json) |
 | Little Legs | 301002 | [301002-little-legs.json](./301002-little-legs.json) |
