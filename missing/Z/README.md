@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zinuru the Great | 157213 | [157213-zinuru-the-great.json](./157213-zinuru-the-great.json) |
 | Zion Survivors | 199091 | [199091-zion-survivors.json](./199091-zion-survivors.json) |
 | Zip | 335986 | [335986-zip.json](./335986-zip.json) |
+| Zip | 60252 | [60252-zip.json](./60252-zip.json) |
 | Zip A Doo | 91377 | [91377-zip-a-doo.json](./91377-zip-a-doo.json) |
 | Zip Zap | 45357 | [45357-zip-zap.json](./45357-zip-zap.json) |
 | Zip: Set One | 186160 | [186160-zip-set-one.json](./186160-zip-set-one.json) |
