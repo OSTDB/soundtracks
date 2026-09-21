@@ -4296,6 +4296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Bloob | 62680 | [62680-double-bloob.json](./62680-double-bloob.json) |
 | Double Breakout | 57325 | [57325-double-breakout.json](./57325-double-breakout.json) |
 | Double Bubble Blaster Madness VR | 112989 | [112989-double-bubble-blaster-madness-vr.json](./112989-double-bubble-blaster-madness-vr.json) |
+| Double Clue: Solitaire Stories | 36501 | [36501-double-clue-solitaire-stories.json](./36501-double-clue-solitaire-stories.json) |
 | Double Cross | 96135 | [96135-double-cross.json](./96135-double-cross.json) |
 | Double Cubes | 34727 | [34727-double-cubes.json](./34727-double-cubes.json) |
 | Double Damnation | 213981 | [213981-double-damnation.json](./213981-double-damnation.json) |
