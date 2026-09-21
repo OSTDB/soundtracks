@@ -2168,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Punk | 211792 | [211792-mech-punk.json](./211792-mech-punk.json) |
 | Mech Rage | 109378 | [109378-mech-rage.json](./109378-mech-rage.json) |
 | Mech Shuffle | 211964 | [211964-mech-shuffle.json](./211964-mech-shuffle.json) |
+| Mech Skeleton | 28163 | [28163-mech-skeleton.json](./28163-mech-skeleton.json) |
 | Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
 | Mech Wars | 317028 | [317028-mech-wars.json](./317028-mech-wars.json) |
 | Mech_Romancer | 134590 | [134590-mech-romancer.json](./134590-mech-romancer.json) |
@@ -2337,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medusa Frontier | 196889 | [196889-medusa-frontier.json](./196889-medusa-frontier.json) |
 | Medusa the Origin: Lost Dream of the Deep | 284324 | [284324-medusa-the-origin-lost-dream-of-the-deep.json](./284324-medusa-the-origin-lost-dream-of-the-deep.json) |
 | Medusa VR | 247181 | [247181-medusa-vr.json](./247181-medusa-vr.json) |
+| Medusa's Labyrinth VR | 28178 | [28178-medusas-labyrinth-vr.json](./28178-medusas-labyrinth-vr.json) |
 | Medusa's Mini Mystery | 177513 | [177513-medusas-mini-mystery.json](./177513-medusas-mini-mystery.json) |
 | Meeblings | 214498 | [214498-meeblings.json](./214498-meeblings.json) |
 | Meekanoid | 200174 | [200174-meekanoid.json](./200174-meekanoid.json) |
@@ -4448,10 +4450,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 10: The Show | 7372 | [7372-mlb-10-the-show.json](./7372-mlb-10-the-show.json) |
 | MLB 14: The Show | 9642 | [9642-mlb-14-the-show.json](./9642-mlb-14-the-show.json) |
 | MLB 15: The Show | 8655 | [8655-mlb-15-the-show.json](./8655-mlb-15-the-show.json) |
+| MLB 2001 | 28193 | [28193-mlb-2001.json](./28193-mlb-2001.json) |
+| MLB 2002 | 28194 | [28194-mlb-2002.json](./28194-mlb-2002.json) |
+| MLB 2003 | 28196 | [28196-mlb-2003.json](./28196-mlb-2003.json) |
+| MLB 2006 | 28197 | [28197-mlb-2006.json](./28197-mlb-2006.json) |
 | MLB 2K10 DS | 21157 | [21157-mlb-2k10-ds.json](./21157-mlb-2k10-ds.json) |
 | MLB 9 Innings | 304051 | [304051-mlb-9-innings.json](./304051-mlb-9-innings.json) |
 | MLB 9 Innings 16 | 57364 | [57364-mlb-9-innings-16.json](./57364-mlb-9-innings-16.json) |
 | MLB 9 Innings 23 | 243137 | [243137-mlb-9-innings-23.json](./243137-mlb-9-innings-23.json) |
+| MLB 98 | 28190 | [28190-mlb-98.json](./28190-mlb-98.json) |
+| MLB 99 | 28191 | [28191-mlb-99.json](./28191-mlb-99.json) |
 | MLB Ballpark Empire | 61354 | [61354-mlb-ballpark-empire.json](./61354-mlb-ballpark-empire.json) |
 | MLB Bobblehead Pros | 20562 | [20562-mlb-bobblehead-pros.json](./20562-mlb-bobblehead-pros.json) |
 | MLB Champions | 130783 | [130783-mlb-champions.json](./130783-mlb-champions.json) |
@@ -5189,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MontanaBlack Kylo's Rescue | 174274 | [174274-montanablack-kylos-rescue.json](./174274-montanablack-kylos-rescue.json) |
 | Monte Carlo | 40385 | [40385-monte-carlo.json](./40385-monte-carlo.json) |
 | Monterey Jack | 347217 | [347217-monterey-jack.json](./347217-monterey-jack.json) |
+| Montevisoft | 28198 | [28198-montevisoft.json](./28198-montevisoft.json) |
 | Montezuma Puzzle | 91341 | [91341-montezuma-puzzle.json](./91341-montezuma-puzzle.json) |
 | Montezuma's Quest | 146738 | [146738-montezumas-quest.json](./146738-montezumas-quest.json) |
 | Montezuma's Return! | 36903 | [36903-montezumas-return.json](./36903-montezumas-return.json) |
