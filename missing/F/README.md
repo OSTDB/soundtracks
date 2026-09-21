@@ -3175,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest | 187538 | [187538-forest.json](./187538-forest.json) |
 | Forest 6174 | 410354 | [410354-forest-6174.json](./410354-forest-6174.json) |
 | Forest Adventure | 195727 | [195727-forest-adventure.json](./195727-forest-adventure.json) |
+| Forest at World's End | 25917 | [25917-forest-at-worlds-end.json](./25917-forest-at-worlds-end.json) |
 | Forest Battle | 166732 | [166732-forest-battle.json](./166732-forest-battle.json) |
 | Forest Camp Story | 174297 | [174297-forest-camp-story.json](./174297-forest-camp-story.json) |
 | Forest Crossroads | 278151 | [278151-forest-crossroads.json](./278151-forest-crossroads.json) |
