@@ -328,9 +328,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zill O'll Infinite | 80486 | [80486-zill-oll-infinite.json](./80486-zill-oll-infinite.json) |
 | Zilla: Shadow of the Bridge | 257989 | [257989-zilla-shadow-of-the-bridge.json](./257989-zilla-shadow-of-the-bridge.json) |
 | Zillions of Games | 311470 | [311470-zillions-of-games.json](./311470-zillions-of-games.json) |
+| Zilm: a game of reflex | 64135 | [64135-zilm-a-game-of-reflex.json](./64135-zilm-a-game-of-reflex.json) |
 | Zim's Word Game | 216476 | [216476-zims-word-game.json](./216476-zims-word-game.json) |
 | Zimbo | 96517 | [96517-zimbo.json](./96517-zimbo.json) |
 | Zine Fair Lady | 176956 | [176956-zine-fair-lady.json](./176956-zine-fair-lady.json) |
+| Zineth | 64122 | [64122-zineth.json](./64122-zineth.json) |
 | Zinkara | 348343 | [348343-zinkara.json](./348343-zinkara.json) |
 | Zinnia | 145595 | [145595-zinnia.json](./145595-zinnia.json) |
 | Zinuru the Great | 157213 | [157213-zinuru-the-great.json](./157213-zinuru-the-great.json) |
