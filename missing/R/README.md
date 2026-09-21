@@ -1213,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recording the Predestined Time | 135013 | [135013-recording-the-predestined-time.json](./135013-recording-the-predestined-time.json) |
 | Records of the Flycatcher | 319803 | [319803-records-of-the-flycatcher.json](./319803-records-of-the-flycatcher.json) |
 | Recore: Collector's Edition | 41624 | [41624-recore-collectors-edition.json](./41624-recore-collectors-edition.json) |
+| ReCore: Definitive Edition | 54787 | [54787-recore-definitive-edition.json](./54787-recore-definitive-edition.json) |
 | Recore: Eye of Obsidian | 139396 | [139396-recore-eye-of-obsidian.json](./139396-recore-eye-of-obsidian.json) |
 | Recovery Syndicate | 235868 | [235868-recovery-syndicate.json](./235868-recovery-syndicate.json) |
 | Recovery: Search & Rescue | 53493 | [53493-recovery-search-and-rescue.json](./53493-recovery-search-and-rescue.json) |
@@ -2838,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roach Royale | 275331 | [275331-roach-royale.json](./275331-roach-royale.json) |
 | Roach's Room ~Horror Experience Series~ | 107210 | [107210-roachs-room-horror-experience-series.json](./107210-roachs-room-horror-experience-series.json) |
 | Road 3 Pack | 147992 | [147992-road-3-pack.json](./147992-road-3-pack.json) |
+| Road 96: Mile 0 | 233676 | [233676-road-96-mile-0.json](./233676-road-96-mile-0.json) |
 | Road 96: Mile 0 - Full Journey Bundle | 243799 | [243799-road-96-mile-0-full-journey-bundle.json](./243799-road-96-mile-0-full-journey-bundle.json) |
 | Road 96: Mile 0 - Stronger Together Bundle | 243802 | [243802-road-96-mile-0-stronger-together-bundle.json](./243802-road-96-mile-0-stronger-together-bundle.json) |
 | Road Avenger | 93049 | [93049-road-avenger.json](./93049-road-avenger.json) |
@@ -4144,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
 | Rune Factory 3 Special | 217557 | [217557-rune-factory-3-special.json](./217557-rune-factory-3-special.json) |
 | Rune Factory 3 Special: Digital Deluxe Edition | 261329 | [261329-rune-factory-3-special-digital-deluxe-edition.json](./261329-rune-factory-3-special-digital-deluxe-edition.json) |
+| Rune Factory 4 Special | 115278 | [115278-rune-factory-4-special.json](./115278-rune-factory-4-special.json) |
 | Rune Factory 5 | 115279 | [115279-rune-factory-5.json](./115279-rune-factory-5.json) |
 | Rune Factory 6 | 250924 | [250924-rune-factory-6.json](./250924-rune-factory-6.json) |
 | Rune Factory Frontier | 5132 | [5132-rune-factory-frontier.json](./5132-rune-factory-frontier.json) |
