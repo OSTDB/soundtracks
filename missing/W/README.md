@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warmth Of A Dying Sun | 271295 | [271295-warmth-of-a-dying-sun.json](./271295-warmth-of-a-dying-sun.json) |
 | Warna | 215667 | [215667-warna.json](./215667-warna.json) |
 | Warna | 377153 | [377153-warna.json](./377153-warna.json) |
+| Warning Forever | 50111 | [50111-warning-forever.json](./50111-warning-forever.json) |
 | Warno: Expansion Pass | 312006 | [312006-warno-expansion-pass.json](./312006-warno-expansion-pass.json) |
 | Warno: Nemesis #3 - Homefront | 403589 | [403589-warno-nemesis-3-homefront.json](./403589-warno-nemesis-3-homefront.json) |
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
@@ -1799,10 +1800,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Breakers | 180305 | [180305-wing-breakers.json](./180305-wing-breakers.json) |
 | Wing Chun: Pak Sung Bo Legends | 165702 | [165702-wing-chun-pak-sung-bo-legends.json](./165702-wing-chun-pak-sung-bo-legends.json) |
 | Wing Commander II: Speech Accessory Pack | 77320 | [77320-wing-commander-ii-speech-accessory-pack.json](./77320-wing-commander-ii-speech-accessory-pack.json) |
+| Wing Commander II: Vengeance of the Kilrathi - Special Operations 1 | 50170 | [50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json](./50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json) |
+| Wing Commander II: Vengeance of the Kilrathi - Special Operations 2 | 50169 | [50169-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2.json](./50169-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2.json) |
+| Wing Commander Privateer: Righteous Fire | 50168 | [50168-wing-commander-privateer-righteous-fire.json](./50168-wing-commander-privateer-righteous-fire.json) |
 | Wing Commander: Armada | 8824 | [8824-wing-commander-armada.json](./8824-wing-commander-armada.json) |
 | Wing Commander: Privateer | 794 | [794-wing-commander-privateer.json](./794-wing-commander-privateer.json) |
 | Wing Commander: Prophecy | 935 | [935-wing-commander-prophecy.json](./935-wing-commander-prophecy.json) |
 | Wing Commander: Standoff | 144988 | [144988-wing-commander-standoff.json](./144988-wing-commander-standoff.json) |
+| Wing Commander: The Kilrahi Saga | 50167 | [50167-wing-commander-the-kilrahi-saga.json](./50167-wing-commander-the-kilrahi-saga.json) |
 | Wing Dog | 269640 | [269640-wing-dog.json](./269640-wing-dog.json) |
 | Wing Fighter | 193955 | [193955-wing-fighter.json](./193955-wing-fighter.json) |
 | Wing Haven | 310926 | [310926-wing-haven.json](./310926-wing-haven.json) |
