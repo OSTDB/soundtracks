@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
+| Pac-Man Maker | 28186 | [28186-pac-man-maker.json](./28186-pac-man-maker.json) |
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
 | Pac-Man S | 64683 | [64683-pac-man-s.json](./64683-pac-man-s.json) |
 | Pac-Man Social | 64682 | [64682-pac-man-social.json](./64682-pac-man-social.json) |
@@ -2196,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pimp My Ride | 5098 | [5098-pimp-my-ride.json](./5098-pimp-my-ride.json) |
 | Pimp My Ride Street Racing | 274184 | [274184-pimp-my-ride-street-racing.json](./274184-pimp-my-ride-street-racing.json) |
 | PimpWars | 72318 | [72318-pimpwars.json](./72318-pimpwars.json) |
+| PiN | 28154 | [28154-pin.json](./28154-pin.json) |
 | Pin Bot | 217973 | [217973-pin-bot.json](./217973-pin-bot.json) |
 | Pin Climb | 318755 | [318755-pin-climb.json](./318755-pin-climb.json) |
 | Pin Crasher | 258989 | [258989-pin-crasher.json](./258989-pin-crasher.json) |
@@ -2334,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineapple Defense | 298152 | [298152-pineapple-defense.json](./298152-pineapple-defense.json) |
 | Pineapple Panic! | 337652 | [337652-pineapple-panic.json](./337652-pineapple-panic.json) |
 | Pineapple Smash Crew | 16330 | [16330-pineapple-smash-crew.json](./16330-pineapple-smash-crew.json) |
+| PineapplePizza | 28159 | [28159-pineapplepizza.json](./28159-pineapplepizza.json) |
 | Pineford: Part I | 302120 | [302120-pineford-part-i.json](./302120-pineford-part-i.json) |
 | Pineview Drive: Rising Storm | 234706 | [234706-pineview-drive-rising-storm.json](./234706-pineview-drive-rising-storm.json) |
 | Pinewood Island | 69388 | [69388-pinewood-island.json](./69388-pinewood-island.json) |
@@ -4373,6 +4376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PrePaladin Wars | 148482 | [148482-prepaladin-wars.json](./148482-prepaladin-wars.json) |
 | Prepare for the Jelly | 184633 | [184633-prepare-for-the-jelly.json](./184633-prepare-for-the-jelly.json) |
 | Prepare the First RPG Village: The Adventures of Nyanzou&Kumakichi - Escape Game Series | 173143 | [173143-prepare-the-first-rpg-village-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json](./173143-prepare-the-first-rpg-village-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json) |
+| Prepare to Dine | 28140 | [28140-prepare-to-dine.json](./28140-prepare-to-dine.json) |
 | Prepper | 229790 | [229790-prepper.json](./229790-prepper.json) |
 | Preppie! II | 23684 | [23684-preppie-ii.json](./23684-preppie-ii.json) |
 | Prequel | 388971 | [388971-prequel.json](./388971-prequel.json) |
