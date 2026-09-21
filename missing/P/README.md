@@ -2290,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Marvel Pinball Original Pack | 164003 | [164003-pinball-fx3-marvel-pinball-original-pack.json](./164003-pinball-fx3-marvel-pinball-original-pack.json) |
 | Pinball FX3: Marvel Pinball Vengeance and Virtue Pack | 163999 | [163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json](./163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json) |
 | Pinball FX3: Marvel's Women of Power | 164006 | [164006-pinball-fx3-marvels-women-of-power.json](./164006-pinball-fx3-marvels-women-of-power.json) |
+| Pinball FX3: Star Wars Pinball - Balance of the Force | 20005 | [20005-pinball-fx3-star-wars-pinball-balance-of-the-force.json](./20005-pinball-fx3-star-wars-pinball-balance-of-the-force.json) |
 | Pinball FX3: Star Wars Pinball - Heroes Within | 52877 | [52877-pinball-fx3-star-wars-pinball-heroes-within.json](./52877-pinball-fx3-star-wars-pinball-heroes-within.json) |
 | Pinball FX3: Star Wars Pinball - Rogue One | 26928 | [26928-pinball-fx3-star-wars-pinball-rogue-one.json](./26928-pinball-fx3-star-wars-pinball-rogue-one.json) |
 | Pinball FX3: Star Wars Pinball Season 1 Bundle | 265254 | [265254-pinball-fx3-star-wars-pinball-season-1-bundle.json](./265254-pinball-fx3-star-wars-pinball-season-1-bundle.json) |
@@ -5310,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psych: The Game | 19312 | [19312-psych-the-game.json](./19312-psych-the-game.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Boys Dating Sim | 336558 | [336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json](./336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
+| Psychic Force | 20140 | [20140-psychic-force.json](./20140-psychic-force.json) |
 | Psychic Force Complete | 71790 | [71790-psychic-force-complete.json](./71790-psychic-force-complete.json) |
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
 | Psychic Storm | 280322 | [280322-psychic-storm.json](./280322-psychic-storm.json) |
