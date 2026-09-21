@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unnamed Arcade | 338586 | [338586-unnamed-arcade.json](./338586-unnamed-arcade.json) |
 | Unnamed El Shaddai Project | 93535 | [93535-unnamed-el-shaddai-project.json](./93535-unnamed-el-shaddai-project.json) |
 | Unnamed Experiment | 265145 | [265145-unnamed-experiment.json](./265145-unnamed-experiment.json) |
+| Unnamed Fiasco | 34775 | [34775-unnamed-fiasco.json](./34775-unnamed-fiasco.json) |
 | Unnamed Project | 286012 | [286012-unnamed-project.json](./286012-unnamed-project.json) |
 | Unnamed Shovel Knight Sequel | 305758 | [305758-unnamed-shovel-knight-sequel.json](./305758-unnamed-shovel-knight-sequel.json) |
 | Unnatural Freaks: Episode 1 Wolf At Evergreen | 166605 | [166605-unnatural-freaks-episode-1-wolf-at-evergreen.json](./166605-unnatural-freaks-episode-1-wolf-at-evergreen.json) |
