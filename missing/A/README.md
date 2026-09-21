@@ -4370,6 +4370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Odyssey - Deluxe Edition | 24811 | [24811-assassins-creed-odyssey-deluxe-edition.json](./24811-assassins-creed-odyssey-deluxe-edition.json) |
 | Assassin's Creed: Odyssey - Gold Edition | 23648 | [23648-assassins-creed-odyssey-gold-edition.json](./23648-assassins-creed-odyssey-gold-edition.json) |
 | Assassin's Creed: Origins - God's Edition | 39045 | [39045-assassins-creed-origins-gods-edition.json](./39045-assassins-creed-origins-gods-edition.json) |
+| Assassin's Creed: Syndicate - Big Ben Edition | 41612 | [41612-assassins-creed-syndicate-big-ben-edition.json](./41612-assassins-creed-syndicate-big-ben-edition.json) |
 | Assassin's Creed: Syndicate - Gold Edition | 52626 | [52626-assassins-creed-syndicate-gold-edition.json](./52626-assassins-creed-syndicate-gold-edition.json) |
 | Assassin's Creed: Syndicate - Rooks Edition | 230499 | [230499-assassins-creed-syndicate-rooks-edition.json](./230499-assassins-creed-syndicate-rooks-edition.json) |
 | Assassin's Creed: The Rebel Collection | 122236 | [122236-assassins-creed-the-rebel-collection.json](./122236-assassins-creed-the-rebel-collection.json) |
