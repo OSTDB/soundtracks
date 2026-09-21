@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch_Dogs 1985 | 179119 | [179119-watch-dogs-1985.json](./179119-watch-dogs-1985.json) |
 | Watched | 383512 | [383512-watched.json](./383512-watched.json) |
 | Watching Delusion | 105386 | [105386-watching-delusion.json](./105386-watching-delusion.json) |
+| Watchlist | 44169 | [44169-watchlist.json](./44169-watchlist.json) |
 | Watchmaker's World Solitaire | 386135 | [386135-watchmakers-world-solitaire.json](./386135-watchmakers-world-solitaire.json) |
 | Watchman Golf Digipro | 215252 | [215252-watchman-golf-digipro.json](./215252-watchman-golf-digipro.json) |
 | Watchmen: The End Is Nigh | 7246 | [7246-watchmen-the-end-is-nigh.json](./7246-watchmen-the-end-is-nigh.json) |
@@ -1607,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Earth: Africa | 195802 | [195802-wild-earth-africa.json](./195802-wild-earth-africa.json) |
 | Wild Fishing Simulator | 96083 | [96083-wild-fishing-simulator.json](./96083-wild-fishing-simulator.json) |
 | Wild Frontera | 17972 | [17972-wild-frontera.json](./17972-wild-frontera.json) |
+| Wild Goo Chase | 44223 | [44223-wild-goo-chase.json](./44223-wild-goo-chase.json) |
 | Wild Gunman | 4625 | [4625-wild-gunman.json](./4625-wild-gunman.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
 | Wild Honesty: A Party Game for Deeper Conversations | 139810 | [139810-wild-honesty-a-party-game-for-deeper-conversations.json](./139810-wild-honesty-a-party-game-for-deeper-conversations.json) |
@@ -1695,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Park 3 | 17177 | [17177-wildlife-park-3.json](./17177-wildlife-park-3.json) |
 | Wildlife Park 3: Alaska | 156153 | [156153-wildlife-park-3-alaska.json](./156153-wildlife-park-3-alaska.json) |
 | Wildlife Park 3: Dino Invasion | 171071 | [171071-wildlife-park-3-dino-invasion.json](./171071-wildlife-park-3-dino-invasion.json) |
+| Wildlife Park Gold Reloaded | 44189 | [44189-wildlife-park-gold-reloaded.json](./44189-wildlife-park-gold-reloaded.json) |
 | Wildlife Park: 15 Years Anniversary Trilogy | 136379 | [136379-wildlife-park-15-years-anniversary-trilogy.json](./136379-wildlife-park-15-years-anniversary-trilogy.json) |
 | Wildlife Simulator: Bear | 86905 | [86905-wildlife-simulator-bear.json](./86905-wildlife-simulator-bear.json) |
 | Wildlife Simulator: Crocodile | 96723 | [96723-wildlife-simulator-crocodile.json](./96723-wildlife-simulator-crocodile.json) |
@@ -1720,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will You Snail? | 120816 | [120816-will-you-snail.json](./120816-will-you-snail.json) |
 | Will: A Wonderful World | 34657 | [34657-will-a-wonderful-world.json](./34657-will-a-wonderful-world.json) |
 | Will: The Beginning | 368050 | [368050-will-the-beginning.json](./368050-will-the-beginning.json) |
+| Willful | 44190 | [44190-willful.json](./44190-willful.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | Williams Arcade Classics | 71782 | [71782-williams-arcade-classics.json](./71782-williams-arcade-classics.json) |
 | Williams Arcade's Greatest Hits | 20713 | [20713-williams-arcades-greatest-hits.json](./20713-williams-arcades-greatest-hits.json) |
