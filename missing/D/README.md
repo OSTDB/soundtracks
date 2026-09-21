@@ -2137,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Weichensteller: Odyssey Live | 309108 | [309108-der-weichensteller-odyssey-live.json](./309108-der-weichensteller-odyssey-live.json) |
 | Der Zorn Gottes | 308241 | [308241-der-zorn-gottes.json](./308241-der-zorn-gottes.json) |
 | Derace | 393602 | [393602-derace.json](./393602-derace.json) |
+| Deranged Rabbits | 33389 | [33389-deranged-rabbits.json](./33389-deranged-rabbits.json) |
 | Derby Champion Club | 386250 | [386250-derby-champion-club.json](./386250-derby-champion-club.json) |
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
 | Derby Quest: Horse Manager HD | 246429 | [246429-derby-quest-horse-manager-hd.json](./246429-derby-quest-horse-manager-hd.json) |
@@ -3550,6 +3551,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Surgeon: Hospital games | 95850 | [95850-doctor-surgeon-hospital-games.json](./95850-doctor-surgeon-hospital-games.json) |
 | Doctor Tsunami | 111708 | [111708-doctor-tsunami.json](./111708-doctor-tsunami.json) |
 | Doctor Voldritch's experiment | 302502 | [302502-doctor-voldritchs-experiment.json](./302502-doctor-voldritchs-experiment.json) |
+| Doctor Watson - Treasure Island | 33442 | [33442-doctor-watson-treasure-island.json](./33442-doctor-watson-treasure-island.json) |
+| Doctor Watson: The Riddle of the Catacombs | 33443 | [33443-doctor-watson-the-riddle-of-the-catacombs.json](./33443-doctor-watson-the-riddle-of-the-catacombs.json) |
 | Doctor Who and the Mines of Terror | 13597 | [13597-doctor-who-and-the-mines-of-terror.json](./13597-doctor-who-and-the-mines-of-terror.json) |
 | Doctor Who and the Warlord | 66675 | [66675-doctor-who-and-the-warlord.json](./66675-doctor-who-and-the-warlord.json) |
 | Doctor Who Game Maker | 59457 | [59457-doctor-who-game-maker.json](./59457-doctor-who-game-maker.json) |
@@ -4304,6 +4307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Cubes | 34727 | [34727-double-cubes.json](./34727-double-cubes.json) |
 | Double Damnation | 213981 | [213981-double-damnation.json](./213981-double-damnation.json) |
 | Double Dealers | 403675 | [403675-double-dealers.json](./403675-double-dealers.json) |
+| Double Death | 33426 | [33426-double-death.json](./33426-double-death.json) |
 | Double Dodgers | 133820 | [133820-double-dodgers.json](./133820-double-dodgers.json) |
 | Double Dragon | 175799 | [175799-double-dragon.json](./175799-double-dragon.json) |
 | Double Dragon | 200154 | [200154-double-dragon.json](./200154-double-dragon.json) |
