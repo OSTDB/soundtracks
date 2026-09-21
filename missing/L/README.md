@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar! Uncover the Truth | 115483 | [115483-liar-uncover-the-truth.json](./115483-liar-uncover-the-truth.json) |
 | Liar's Bar | 317695 | [317695-liars-bar.json](./317695-liars-bar.json) |
 | Liar’s Line | 382762 | [382762-liar-s-line.json](./382762-liar-s-line.json) |
+| Libble Rabble | 37945 | [37945-libble-rabble.json](./37945-libble-rabble.json) |
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
 | Liberation | 249813 | [249813-liberation.json](./249813-liberation.json) |
@@ -1536,6 +1537,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Cycle | 96525 | [96525-light-cycle.json](./96525-light-cycle.json) |
 | Light De Deux | 338264 | [338264-light-de-deux.json](./338264-light-de-deux.json) |
 | Light Fall | 36620 | [36620-light-fall.json](./36620-light-fall.json) |
+| Light Fantasy | 37944 | [37944-light-fantasy.json](./37944-light-fantasy.json) |
+| Light Fantasy II | 37943 | [37943-light-fantasy-ii.json](./37943-light-fantasy-ii.json) |
 | Light Fighter | 165018 | [165018-light-fighter.json](./165018-light-fighter.json) |
 | Light Fingers | 69487 | [69487-light-fingers.json](./69487-light-fingers.json) |
 | Light Followers: Blinded by the Dark | 349886 | [349886-light-followers-blinded-by-the-dark.json](./349886-light-followers-blinded-by-the-dark.json) |
@@ -2318,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical: United Kingdom | 53281 | [53281-logistical-united-kingdom.json](./53281-logistical-united-kingdom.json) |
 | Logistics Simulator | 161346 | [161346-logistics-simulator.json](./161346-logistics-simulator.json) |
 | Logistique | 157572 | [157572-logistique.json](./157572-logistique.json) |
+| Logos Panic: Goaisatu | 37942 | [37942-logos-panic-goaisatu.json](./37942-logos-panic-goaisatu.json) |
 | Lohotronshchik: Crazy Loto | 280887 | [280887-lohotronshchik-crazy-loto.json](./280887-lohotronshchik-crazy-loto.json) |
 | Loihtija | 176518 | [176518-loihtija.json](./176518-loihtija.json) |
 | Lokapala | 224018 | [224018-lokapala.json](./224018-lokapala.json) |
@@ -2497,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord BullFrog | 149941 | [149941-lord-bullfrog.json](./149941-lord-bullfrog.json) |
 | Lord Clicker | 183555 | [183555-lord-clicker.json](./183555-lord-clicker.json) |
 | Lord Democrat Strikes Out! | 116314 | [116314-lord-democrat-strikes-out.json](./116314-lord-democrat-strikes-out.json) |
+| Lord Monarch | 37941 | [37941-lord-monarch.json](./37941-lord-monarch.json) |
 | Lord O' Pirates | 258528 | [258528-lord-o-pirates.json](./258528-lord-o-pirates.json) |
 | Lord of Bones | 236265 | [236265-lord-of-bones.json](./236265-lord-of-bones.json) |
 | Lord of Darkness | 42586 | [42586-lord-of-darkness.json](./42586-lord-of-darkness.json) |
@@ -2856,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love or Loved | 83592 | [83592-love-or-loved.json](./83592-love-or-loved.json) |
 | Love Pheromone | 205609 | [205609-love-pheromone.json](./205609-love-pheromone.json) |
 | Love Potion | 272364 | [272364-love-potion.json](./272364-love-potion.json) |
+| Love Quest | 37940 | [37940-love-quest.json](./37940-love-quest.json) |
 | Love Quest: Los Angeles | 303637 | [303637-love-quest-los-angeles.json](./303637-love-quest-los-angeles.json) |
 | Love Red | 302371 | [302371-love-red.json](./302371-love-red.json) |
 | Love Rhythm | 126420 | [126420-love-rhythm.json](./126420-love-rhythm.json) |
