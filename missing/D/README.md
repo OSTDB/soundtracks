@@ -4264,6 +4264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down | 295887 | [295887-down.json](./295887-down.json) |
 | Down Beneath | 179725 | [179725-down-beneath.json](./179725-down-beneath.json) |
 | Down Fast VR | 203937 | [203937-down-fast-vr.json](./203937-down-fast-vr.json) |
+| Down in Flames | 64139 | [64139-down-in-flames.json](./64139-down-in-flames.json) |
 | Down in the Dark | 149920 | [149920-down-in-the-dark.json](./149920-down-in-the-dark.json) |
 | Down in the Depths Blind | 219263 | [219263-down-in-the-depths-blind.json](./219263-down-in-the-depths-blind.json) |
 | Down in the Dungeon | 175937 | [175937-down-in-the-dungeon.json](./175937-down-in-the-dungeon.json) |
