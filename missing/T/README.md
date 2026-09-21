@@ -1504,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator | 208419 | [208419-terminator.json](./208419-terminator.json) |
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
 | Terminator: Resistance | 122611 | [122611-terminator-resistance.json](./122611-terminator-resistance.json) |
+| Terminators: The Video Game | 62965 | [62965-terminators-the-video-game.json](./62965-terminators-the-video-game.json) |
 | Terminull | 185151 | [185151-terminull.json](./185151-terminull.json) |
 | Terminus | 352261 | [352261-terminus.json](./352261-terminus.json) |
 | Terminus Machina | 230287 | [230287-terminus-machina.json](./230287-terminus-machina.json) |
@@ -4579,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moon Hell | 224652 | [224652-the-moon-hell.json](./224652-the-moon-hell.json) |
 | The Moon Night | 51962 | [51962-the-moon-night.json](./51962-the-moon-night.json) |
 | The Moon Relax | 165021 | [165021-the-moon-relax.json](./165021-the-moon-relax.json) |
+| The Moonlighters | 62993 | [62993-the-moonlighters.json](./62993-the-moonlighters.json) |
 | The Moonlit Tower | 216324 | [216324-the-moonlit-tower.json](./216324-the-moonlit-tower.json) |
 | The Mooseman | 27358 | [27358-the-mooseman.json](./27358-the-mooseman.json) |
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
@@ -6032,6 +6034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimatum: Choices | 326795 | [326795-the-ultimatum-choices.json](./326795-the-ultimatum-choices.json) |
 | The Ultra Mission | 199105 | [199105-the-ultra-mission.json](./199105-the-ultra-mission.json) |
 | The Unachievable Game | 205232 | [205232-the-unachievable-game.json](./205232-the-unachievable-game.json) |
+| The Unbreakable Chain | 62967 | [62967-the-unbreakable-chain.json](./62967-the-unbreakable-chain.json) |
 | The Uncanny X-Men | 48050 | [48050-the-uncanny-x-men.json](./48050-the-uncanny-x-men.json) |
 | The Unclogging: An Unsanitary Saga | 51979 | [51979-the-unclogging-an-unsanitary-saga.json](./51979-the-unclogging-an-unsanitary-saga.json) |
 | The UNDA Legacy | 408073 | [408073-the-unda-legacy.json](./408073-the-unda-legacy.json) |
@@ -9965,6 +9968,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Yarbil | 325835 | [325835-trials-of-yarbil.json](./325835-trials-of-yarbil.json) |
 | Trialspire | 397782 | [397782-trialspire.json](./397782-trialspire.json) |
 | Trianga's Project: Battle Splash 2.0 - Earth's Legacy M.A.I.A | 289466 | [289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json](./289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json) |
+| Triangle Again | 63017 | [63017-triangle-again.json](./63017-triangle-again.json) |
+| Triangle Again 2 | 63018 | [63018-triangle-again-2.json](./63018-triangle-again-2.json) |
 | Triangle Defense | 371970 | [371970-triangle-defense.json](./371970-triangle-defense.json) |
 | Triangle Heart | 77678 | [77678-triangle-heart.json](./77678-triangle-heart.json) |
 | Triangle Legacy Revolution | 112317 | [112317-triangle-legacy-revolution.json](./112317-triangle-legacy-revolution.json) |
