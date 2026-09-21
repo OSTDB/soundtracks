@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imasugu Tsukaeru Mamechishiki Quiz Zatsugaku Ou DS | 133799 | [133799-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou-ds.json](./133799-imasugu-tsukaeru-mamechishiki-quiz-zatsugaku-ou-ds.json) |
 | Imaze.exe 2 | 113052 | [113052-imaze-exe-2.json](./113052-imaze-exe-2.json) |
 | Imbalance | 197260 | [197260-imbalance.json](./197260-imbalance.json) |
+| IMG International Tour Tennis | 46207 | [46207-img-international-tour-tennis.json](./46207-img-international-tour-tennis.json) |
 | Imhotep | 47248 | [47248-imhotep.json](./47248-imhotep.json) |
 | Imi ga Wakaru to Kowai Shashin | 251604 | [251604-imi-ga-wakaru-to-kowai-shashin.json](./251604-imi-ga-wakaru-to-kowai-shashin.json) |
 | iMimic: 80's Vintage Electronic Memory Game | 232142 | [232142-imimic-80s-vintage-electronic-memory-game.json](./232142-imimic-80s-vintage-electronic-memory-game.json) |
