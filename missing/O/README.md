@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Fear | 335084 | [335084-one-fear.json](./335084-one-fear.json) |
 | One Final Chaos | 34286 | [34286-one-final-chaos.json](./34286-one-final-chaos.json) |
 | One Fine Tourney | 277982 | [277982-one-fine-tourney.json](./277982-one-fine-tourney.json) |
+| One Finger Death Punch | 8360 | [8360-one-finger-death-punch.json](./8360-one-finger-death-punch.json) |
 | One Giant Hole | 371869 | [371869-one-giant-hole.json](./371869-one-giant-hole.json) |
 | One Giant Leap | 31735 | [31735-one-giant-leap.json](./31735-one-giant-leap.json) |
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
