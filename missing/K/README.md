@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kartofank VR | 72358 | [72358-kartofank-vr.json](./72358-kartofank-vr.json) |
 | KartRider: Drift | 125626 | [125626-kartrider-drift.json](./125626-kartrider-drift.json) |
 | Karts With Chat | 345505 | [345505-karts-with-chat.json](./345505-karts-with-chat.json) |
+| Karyuu Jyou | 62982 | [62982-karyuu-jyou.json](./62982-karyuu-jyou.json) |
 | Kasaba | 217369 | [217369-kasaba.json](./217369-kasaba.json) |
 | Kasane Teto and Hatsune Miku are Lesbians | 333537 | [333537-kasane-teto-and-hatsune-miku-are-lesbians.json](./333537-kasane-teto-and-hatsune-miku-are-lesbians.json) |
 | Kaseki Sousei Reborn | 228578 | [228578-kaseki-sousei-reborn.json](./228578-kaseki-sousei-reborn.json) |
@@ -1640,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kong: The 8th Wonder of the World | 49397 | [49397-kong-the-8th-wonder-of-the-world.json](./49397-kong-the-8th-wonder-of-the-world.json) |
 | Kong: The Animated Series | 49333 | [49333-kong-the-animated-series.json](./49333-kong-the-animated-series.json) |
 | Kongfu | 246465 | [246465-kongfu.json](./246465-kongfu.json) |
+| Kongo Kong | 62983 | [62983-kongo-kong.json](./62983-kongo-kong.json) |
 | Konk World | 267910 | [267910-konk-world.json](./267910-konk-world.json) |
 | Konkwest | 277599 | [277599-konkwest.json](./277599-konkwest.json) |
 | KonMari Spark Joy! | 174292 | [174292-konmari-spark-joy.json](./174292-konmari-spark-joy.json) |
