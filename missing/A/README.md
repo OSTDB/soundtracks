@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Samuel: The Worst Game Ever Made | 196160 | [196160-adventures-of-samuel-the-worst-game-ever-made.json](./196160-adventures-of-samuel-the-worst-game-ever-made.json) |
 | Adventures of the Cat Leopold | 53166 | [53166-adventures-of-the-cat-leopold.json](./53166-adventures-of-the-cat-leopold.json) |
 | Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
+| Adventures of Yogi Bear | 8010 | [8010-adventures-of-yogi-bear.json](./8010-adventures-of-yogi-bear.json) |
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
 | Adventures With Oslo: World of Water | 262400 | [262400-adventures-with-oslo-world-of-water.json](./262400-adventures-with-oslo-world-of-water.json) |
 | Adventurous Mind | 259670 | [259670-adventurous-mind.json](./259670-adventurous-mind.json) |
