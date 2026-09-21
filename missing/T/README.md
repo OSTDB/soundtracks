@@ -1122,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Warriors Giga Fighters | 218015 | [218015-tech-warriors-giga-fighters.json](./218015-tech-warriors-giga-fighters.json) |
 | Techium Eclipse | 183508 | [183508-techium-eclipse.json](./183508-techium-eclipse.json) |
 | TechMate Chess | 327801 | [327801-techmate-chess.json](./327801-techmate-chess.json) |
+| Technic Beat | 24168 | [24168-technic-beat.json](./24168-technic-beat.json) |
 | Technician Ted | 84242 | [84242-technician-ted.json](./84242-technician-ted.json) |
 | Technictix | 69252 | [69252-technictix.json](./69252-technictix.json) |
 | Techno BB | 59397 | [59397-techno-bb.json](./59397-techno-bb.json) |
@@ -2014,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ancient Land of Ys | 2411 | [2411-the-ancient-land-of-ys.json](./2411-the-ancient-land-of-ys.json) |
 | The Ancients AR | 103884 | [103884-the-ancients-ar.json](./103884-the-ancients-ar.json) |
 | The Andesia Project | 279100 | [279100-the-andesia-project.json](./279100-the-andesia-project.json) |
+| The Andromeda Strain | 24167 | [24167-the-andromeda-strain.json](./24167-the-andromeda-strain.json) |
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
 | The Angry Viking | 59068 | [59068-the-angry-viking.json](./59068-the-angry-viking.json) |
@@ -2492,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of Nyanya | 68669 | [68669-the-chronicles-of-nyanya.json](./68669-the-chronicles-of-nyanya.json) |
 | The Chronicles of Penghao: Ming | 292289 | [292289-the-chronicles-of-penghao-ming.json](./292289-the-chronicles-of-penghao-ming.json) |
 | The Chronicles of Riddick: Assault on Dark Athena | 433 | [433-the-chronicles-of-riddick-assault-on-dark-athena.json](./433-the-chronicles-of-riddick-assault-on-dark-athena.json) |
+| The Chronicles of Riddick: Escape from Butcher Bay - The Developer's Cut | 24169 | [24169-the-chronicles-of-riddick-escape-from-butcher-bay-the-developers-cut.json](./24169-the-chronicles-of-riddick-escape-from-butcher-bay-the-developers-cut.json) |
 | The Chronicles of Rovania: Darkest Bridge | 244266 | [244266-the-chronicles-of-rovania-darkest-bridge.json](./244266-the-chronicles-of-rovania-darkest-bridge.json) |
 | The Chronicles of Shakespeare: A Midsummer Night's Dream | 9401 | [9401-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json](./9401-the-chronicles-of-shakespeare-a-midsummer-nights-dream.json) |
 | The Chrono Jotter | 157173 | [157173-the-chrono-jotter.json](./157173-the-chrono-jotter.json) |
@@ -4947,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Patient: Can You Escape? | 325832 | [325832-the-patient-can-you-escape.json](./325832-the-patient-can-you-escape.json) |
 | The Patrician | 7353 | [7353-the-patrician.json](./7353-the-patrician.json) |
 | The Patrick Polly Swooshball Challenge | 186748 | [186748-the-patrick-polly-swooshball-challenge.json](./186748-the-patrick-polly-swooshball-challenge.json) |
+| The Patriot | 24166 | [24166-the-patriot.json](./24166-the-patriot.json) |
 | The Paupers | 275698 | [275698-the-paupers.json](./275698-the-paupers.json) |
 | The Pawn | 12193 | [12193-the-pawn.json](./12193-the-pawn.json) |
 | The Peacekeeper | 307300 | [307300-the-peacekeeper.json](./307300-the-peacekeeper.json) |
@@ -5239,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road 2 Success | 97386 | [97386-the-road-2-success.json](./97386-the-road-2-success.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
 | The Road Less Taken | 219122 | [219122-the-road-less-taken.json](./219122-the-road-less-taken.json) |
+| The Road to Baghdad | 24108 | [24108-the-road-to-baghdad.json](./24108-the-road-to-baghdad.json) |
 | The Road to Gettysburg | 24885 | [24885-the-road-to-gettysburg.json](./24885-the-road-to-gettysburg.json) |
 | The Road to Hades | 96354 | [96354-the-road-to-hades.json](./96354-the-road-to-hades.json) |
 | The Roaring Empire | 132661 | [132661-the-roaring-empire.json](./132661-the-roaring-empire.json) |
@@ -9826,6 +9831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz: Settle & Carlisle | 62419 | [62419-trainz-settle-and-carlisle.json](./62419-trainz-settle-and-carlisle.json) |
 | Trait | 326271 | [326271-trait.json](./326271-trait.json) |
 | Traitor Nightly | 183454 | [183454-traitor-nightly.json](./183454-traitor-nightly.json) |
+| Traitors Gate 2 | 24107 | [24107-traitors-gate-2.json](./24107-traitors-gate-2.json) |
 | Trajectile | 91417 | [91417-trajectile.json](./91417-trajectile.json) |
 | Trajes Fatais: Suits of Fate | 124245 | [124245-trajes-fatais-suits-of-fate.json](./124245-trajes-fatais-suits-of-fate.json) |
 | Trakonius | 268220 | [268220-trakonius.json](./268220-trakonius.json) |
@@ -10076,6 +10082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Rangers | 153445 | [153445-treasure-rangers.json](./153445-treasure-rangers.json) |
 | Treasure Rush: Phantom Infiltration | 386293 | [386293-treasure-rush-phantom-infiltration.json](./386293-treasure-rush-phantom-infiltration.json) |
 | Treasure Seekers: The Time Has Come | 226208 | [226208-treasure-seekers-the-time-has-come.json](./226208-treasure-seekers-the-time-has-come.json) |
+| Treasure Seekers: Visions of Gold HD | 24285 | [24285-treasure-seekers-visions-of-gold-hd.json](./24285-treasure-seekers-visions-of-gold-hd.json) |
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
 | Treasure Tomb VR | 153375 | [153375-treasure-tomb-vr.json](./153375-treasure-tomb-vr.json) |
 | Treasure Trap | 70936 | [70936-treasure-trap.json](./70936-treasure-trap.json) |
