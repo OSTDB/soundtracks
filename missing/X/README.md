@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xeno's Adventure | 357259 | [357259-xenos-adventure.json](./357259-xenos-adventure.json) |
 | Xenoage Plus | 145605 | [145605-xenoage-plus.json](./145605-xenoage-plus.json) |
 | Xenoage: Knight of the Rihas | 145575 | [145575-xenoage-knight-of-the-rihas.json](./145575-xenoage-knight-of-the-rihas.json) |
+| Xenoblade Chronicles 2 | 26766 | [26766-xenoblade-chronicles-2.json](./26766-xenoblade-chronicles-2.json) |
 | Xenoblade Chronicles 3 | 191411 | [191411-xenoblade-chronicles-3.json](./191411-xenoblade-chronicles-3.json) |
 | Xenoblade Chronicles 3: Future Redeemed | 236669 | [236669-xenoblade-chronicles-3-future-redeemed.json](./236669-xenoblade-chronicles-3-future-redeemed.json) |
 | Xenoblade Chronicles 3D | 9553 | [9553-xenoblade-chronicles-3d.json](./9553-xenoblade-chronicles-3d.json) |
