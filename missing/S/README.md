@@ -2705,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift Shaft | 115633 | [115633-shift-shaft.json](./115633-shift-shaft.json) |
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shifted VR | 137439 | [137439-shifted-vr.json](./137439-shifted-vr.json) |
+| Shifters | 43557 | [43557-shifters.json](./43557-shifters.json) |
 | Shifting Sand Land | 308232 | [308232-shifting-sand-land.json](./308232-shifting-sand-land.json) |
 | Shiftlings | 9215 | [9215-shiftlings.json](./9215-shiftlings.json) |
 | Shigatsu Boujitsu, Hana Kudaru Yoru | 398357 | [398357-shigatsu-boujitsu-hana-kudaru-yoru.json](./398357-shigatsu-boujitsu-hana-kudaru-yoru.json) |
@@ -3880,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skaramazuzu | 217029 | [217029-skaramazuzu.json](./217029-skaramazuzu.json) |
 | Skarbnik | 92968 | [92968-skarbnik.json](./92968-skarbnik.json) |
 | Skat Stammtisch | 99613 | [99613-skat-stammtisch.json](./99613-skat-stammtisch.json) |
+| Skate Attack | 43524 | [43524-skate-attack.json](./43524-skate-attack.json) |
 | Skate City: New York | 324872 | [324872-skate-city-new-york.json](./324872-skate-city-new-york.json) |
 | Skate Hooligans | 182546 | [182546-skate-hooligans.json](./182546-skate-hooligans.json) |
 | Skate It | 5157 | [5157-skate-it.json](./5157-skate-it.json) |
@@ -6646,6 +6648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Voyage: The Puzzle Game | 220668 | [220668-space-voyage-the-puzzle-game.json](./220668-space-voyage-the-puzzle-game.json) |
 | Space Walk | 170527 | [170527-space-walk.json](./170527-space-walk.json) |
 | Space Walk: Memory Games for Adults | 232538 | [232538-space-walk-memory-games-for-adults.json](./232538-space-walk-memory-games-for-adults.json) |
+| Space War Attack | 43546 | [43546-space-war-attack.json](./43546-space-war-attack.json) |
 | Space War: Protect the Moon | 110289 | [110289-space-war-protect-the-moon.json](./110289-space-war-protect-the-moon.json) |
 | Space Warlord Baby Trading Simulator | 380432 | [380432-space-warlord-baby-trading-simulator.json](./380432-space-warlord-baby-trading-simulator.json) |
 | Space Wars | 125377 | [125377-space-wars.json](./125377-space-wars.json) |
@@ -7171,6 +7174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Royale | 344459 | [344459-spin-royale.json](./344459-spin-royale.json) |
 | Spin Spell | 63556 | [63556-spin-spell.json](./63556-spin-spell.json) |
 | Spin Squared | 174281 | [174281-spin-squared.json](./174281-spin-squared.json) |
+| Spin the Beat | 43500 | [43500-spin-the-beat.json](./43500-spin-the-beat.json) |
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
@@ -8918,6 +8922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stitch's Blazing Lasers | 342673 | [342673-stitchs-blazing-lasers.json](./342673-stitchs-blazing-lasers.json) |
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
 | Stlthscpe | 284320 | [284320-stlthscpe.json](./284320-stlthscpe.json) |
+| Stock Car Crash | 43523 | [43523-stock-car-crash.json](./43523-stock-car-crash.json) |
 | Stock Car Extreme | 16966 | [16966-stock-car-extreme.json](./16966-stock-car-extreme.json) |
 | Stock Car Racing | 217978 | [217978-stock-car-racing.json](./217978-stock-car-racing.json) |
 | Stock Car USA | 408152 | [408152-stock-car-usa.json](./408152-stock-car-usa.json) |
