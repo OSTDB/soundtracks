@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Mogul 2004 | 72677 | [72677-baseball-mogul-2004.json](./72677-baseball-mogul-2004.json) |
 | Baseball Mogul 2005 | 72676 | [72676-baseball-mogul-2005.json](./72676-baseball-mogul-2005.json) |
 | Baseball Mogul 2006 | 23801 | [23801-baseball-mogul-2006.json](./23801-baseball-mogul-2006.json) |
+| Baseball Mogul 2007 | 50122 | [50122-baseball-mogul-2007.json](./50122-baseball-mogul-2007.json) |
 | Baseball Mogul 2008 | 72673 | [72673-baseball-mogul-2008.json](./72673-baseball-mogul-2008.json) |
 | Baseball Mogul 2010 | 69259 | [69259-baseball-mogul-2010.json](./69259-baseball-mogul-2010.json) |
 | Baseball Mogul 2012 | 65218 | [65218-baseball-mogul-2012.json](./65218-baseball-mogul-2012.json) |
@@ -1656,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beastly Tactics | 318400 | [318400-beastly-tactics.json](./318400-beastly-tactics.json) |
 | Beastmaster and Princes | 121737 | [121737-beastmaster-and-princes.json](./121737-beastmaster-and-princes.json) |
 | Beastrun | 151205 | [151205-beastrun.json](./151205-beastrun.json) |
+| Beasts & Bumpkins | 50151 | [50151-beasts-and-bumpkins.json](./50151-beasts-and-bumpkins.json) |
 | Beasts & Chests | 105294 | [105294-beasts-and-chests.json](./105294-beasts-and-chests.json) |
 | Beasts From Beyond | 238622 | [238622-beasts-from-beyond.json](./238622-beasts-from-beyond.json) |
 | Beasts of Fortune | 352255 | [352255-beasts-of-fortune.json](./352255-beasts-of-fortune.json) |
@@ -3221,6 +3223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinky | 192832 | [192832-blinky.json](./192832-blinky.json) |
 | Blinky's Adventure | 367949 | [367949-blinkys-adventure.json](./367949-blinkys-adventure.json) |
 | Blinky's Revenge | 338832 | [338832-blinkys-revenge.json](./338832-blinkys-revenge.json) |
+| Blip & Blop: Balls of Steel | 50127 | [50127-blip-and-blop-balls-of-steel.json](./50127-blip-and-blop-balls-of-steel.json) |
 | Blippo+ | 325283 | [325283-blippo.json](./325283-blippo.json) |
 | Blips | 320157 | [320157-blips.json](./320157-blips.json) |
 | Blipz | 189050 | [189050-blipz.json](./189050-blipz.json) |
@@ -4891,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridg | 149438 | [149438-bridg.json](./149438-bridg.json) |
 | Bridge | 55105 | [55105-bridge.json](./55105-bridge.json) |
 | Bridge | 85515 | [85515-bridge.json](./85515-bridge.json) |
+| Bridge Builder | 50121 | [50121-bridge-builder.json](./50121-bridge-builder.json) |
 | Bridge Champion with Omar Sharif | 148390 | [148390-bridge-champion-with-omar-sharif.json](./148390-bridge-champion-with-omar-sharif.json) |
 | Bridge Construction Set | 25006 | [25006-bridge-construction-set.json](./25006-bridge-construction-set.json) |
 | Bridge Constructor Bundle | 196830 | [196830-bridge-constructor-bundle.json](./196830-bridge-constructor-bundle.json) |
