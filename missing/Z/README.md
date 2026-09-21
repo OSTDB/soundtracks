@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenteni: Create Creatures | 387326 | [387326-zenteni-create-creatures.json](./387326-zenteni-create-creatures.json) |
 | Zentris | 229052 | [229052-zentris.json](./229052-zentris.json) |
 | Zenvader | 358316 | [358316-zenvader.json](./358316-zenvader.json) |
+| Zenza | 25949 | [25949-zenza.json](./25949-zenza.json) |
 | Zenzizenzic | 17924 | [17924-zenzizenzic.json](./17924-zenzizenzic.json) |
 | Zeon | 57340 | [57340-zeon.json](./57340-zeon.json) |
 | Zeon 25 | 103459 | [103459-zeon-25.json](./103459-zeon-25.json) |
