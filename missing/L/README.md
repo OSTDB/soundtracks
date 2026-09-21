@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last dungeon of defeat - Humiliation for female warrior Erina | 134627 | [134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json](./134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json) |
 | Last Emperor | 258554 | [258554-last-emperor.json](./258554-last-emperor.json) |
 | Last Empire: War Z | 88093 | [88093-last-empire-war-z.json](./88093-last-empire-war-z.json) |
+| Last Epoch | 95118 | [95118-last-epoch.json](./95118-last-epoch.json) |
 | Last Epoch: Shattered Omens | 408917 | [408917-last-epoch-shattered-omens.json](./408917-last-epoch-shattered-omens.json) |
 | Last Epoch: Tombs of the Erased | 341008 | [341008-last-epoch-tombs-of-the-erased.json](./341008-last-epoch-tombs-of-the-erased.json) |
 | Last Equinox: Winds of Change | 255388 | [255388-last-equinox-winds-of-change.json](./255388-last-equinox-winds-of-change.json) |
@@ -2981,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loverboy | 24906 | [24906-loverboy.json](./24906-loverboy.json) |
 | Loveressive | 194598 | [194598-loveressive.json](./194598-loveressive.json) |
 | Lovers ' Smiles 2 | 115637 | [115637-lovers-smiles-2.json](./115637-lovers-smiles-2.json) |
+| Lovers in a Dangerous Spacetime | 12520 | [12520-lovers-in-a-dangerous-spacetime.json](./12520-lovers-in-a-dangerous-spacetime.json) |
 | Lovers in Playa Rosa | 241374 | [241374-lovers-in-playa-rosa.json](./241374-lovers-in-playa-rosa.json) |
 | Lovers of Aether | 117041 | [117041-lovers-of-aether.json](./117041-lovers-of-aether.json) |
 | Lovin House | 153845 | [153845-lovin-house.json](./153845-lovin-house.json) |
