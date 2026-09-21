@@ -1864,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 7 Maximum 2008 | 5283 | [5283-winning-post-7-maximum-2008.json](./5283-winning-post-7-maximum-2008.json) |
 | Winning Post 8 2015 | 60780 | [60780-winning-post-8-2015.json](./60780-winning-post-8-2015.json) |
 | Winning Post 9: 2021 | 141651 | [141651-winning-post-9-2021.json](./141651-winning-post-9-2021.json) |
+| Winning Solution | 47545 | [47545-winning-solution.json](./47545-winning-solution.json) |
 | Winning Tactics | 368492 | [368492-winning-tactics.json](./368492-winning-tactics.json) |
 | WinPlex | 94723 | [94723-winplex.json](./94723-winplex.json) |
 | WinRisk | 92815 | [92815-winrisk.json](./92815-winrisk.json) |
