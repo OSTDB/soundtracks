@@ -1406,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Overloaded | 253438 | [253438-knight-overloaded.json](./253438-knight-overloaded.json) |
 | Knight Shooter | 319943 | [319943-knight-shooter.json](./319943-knight-shooter.json) |
 | Knight Sim Life | 300868 | [300868-knight-sim-life.json](./300868-knight-sim-life.json) |
+| Knight Slinger | 64103 | [64103-knight-slinger.json](./64103-knight-slinger.json) |
 | Knight Speed | 264708 | [264708-knight-speed.json](./264708-knight-speed.json) |
 | Knight Without Sword | 263587 | [263587-knight-without-sword.json](./263587-knight-without-sword.json) |
 | Knight-Blade: Howling of Kerberos | 324886 | [324886-knight-blade-howling-of-kerberos.json](./324886-knight-blade-howling-of-kerberos.json) |
