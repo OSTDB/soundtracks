@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Circle of the Moon | 222410 | [222410-castlevania-circle-of-the-moon.json](./222410-castlevania-circle-of-the-moon.json) |
 | Castlevania: Circle of the Moon - Card Mode | 219075 | [219075-castlevania-circle-of-the-moon-card-mode.json](./219075-castlevania-circle-of-the-moon-card-mode.json) |
 | Castlevania: Circle of the Moon GBC | 215764 | [215764-castlevania-circle-of-the-moon-gbc.json](./215764-castlevania-circle-of-the-moon-gbc.json) |
+| Castlevania: Dawn of Sorrow | 1136 | [1136-castlevania-dawn-of-sorrow.json](./1136-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow | 315314 | [315314-castlevania-dawn-of-sorrow.json](./315314-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow | 336029 | [336029-castlevania-dawn-of-sorrow.json](./336029-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow - Definitive Edition+ | 314028 | [314028-castlevania-dawn-of-sorrow-definitive-edition.json](./314028-castlevania-dawn-of-sorrow-definitive-edition.json) |
@@ -5693,6 +5694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossbow Warrior: The Legend of William Tell | 34196 | [34196-crossbow-warrior-the-legend-of-william-tell.json](./34196-crossbow-warrior-the-legend-of-william-tell.json) |
 | CrossCheck | 15920 | [15920-crosscheck.json](./15920-crosscheck.json) |
 | Crossclimb | 321118 | [321118-crossclimb.json](./321118-crossclimb.json) |
+| CrossCode | 35282 | [35282-crosscode.json](./35282-crosscode.json) |
 | Crosscountry BC | 399085 | [399085-crosscountry-bc.json](./399085-crosscountry-bc.json) |
 | Crosscountry California | 399068 | [399068-crosscountry-california.json](./399068-crosscountry-california.json) |
 | Crosscountry Canada Photo Safari | 399084 | [399084-crosscountry-canada-photo-safari.json](./399084-crosscountry-canada-photo-safari.json) |
@@ -6601,6 +6603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberPigeon | 264679 | [264679-cyberpigeon.json](./264679-cyberpigeon.json) |
 | Cyberpunch | 158691 | [158691-cyberpunch.json](./158691-cyberpunch.json) |
 | Cyberpunk 2077: Day One Edition | 284480 | [284480-cyberpunk-2077-day-one-edition.json](./284480-cyberpunk-2077-day-one-edition.json) |
+| Cyberpunk 2077: Ultimate Edition | 277807 | [277807-cyberpunk-2077-ultimate-edition.json](./277807-cyberpunk-2077-ultimate-edition.json) |
 | Cyberpunk 3776 | 35896 | [35896-cyberpunk-3776.json](./35896-cyberpunk-3776.json) |
 | Cyberpunk Detective | 164975 | [164975-cyberpunk-detective.json](./164975-cyberpunk-detective.json) |
 | Cyberpunk Inquisitor | 306065 | [306065-cyberpunk-inquisitor.json](./306065-cyberpunk-inquisitor.json) |
