@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrain | 126588 | [126588-shadowrain.json](./126588-shadowrain.json) |
 | Shadowrite | 403712 | [403712-shadowrite.json](./403712-shadowrite.json) |
 | Shadowrun | 7643 | [7643-shadowrun.json](./7643-shadowrun.json) |
+| Shadowrun: Dragonfall | 22652 | [22652-shadowrun-dragonfall.json](./22652-shadowrun-dragonfall.json) |
 | Shadowrun: Dragonfall - Director's Cut | 8864 | [8864-shadowrun-dragonfall-directors-cut.json](./8864-shadowrun-dragonfall-directors-cut.json) |
 | Shadowrun: Hong Kong | 11772 | [11772-shadowrun-hong-kong.json](./11772-shadowrun-hong-kong.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
@@ -4259,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyjet | 47245 | [47245-skyjet.json](./47245-skyjet.json) |
 | SkyJumper | 190732 | [190732-skyjumper.json](./190732-skyjumper.json) |
 | Skyland Defense | 109672 | [109672-skyland-defense.json](./109672-skyland-defense.json) |
+| Skylanders: Giants | 1586 | [1586-skylanders-giants.json](./1586-skylanders-giants.json) |
 | Skylanders: Giants | 256679 | [256679-skylanders-giants.json](./256679-skylanders-giants.json) |
 | Skylanders: Imaginators | 317016 | [317016-skylanders-imaginators.json](./317016-skylanders-imaginators.json) |
 | Skylanders: Lost Islands | 59963 | [59963-skylanders-lost-islands.json](./59963-skylanders-lost-islands.json) |
@@ -5691,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Horror Episodes 2-5 | 135160 | [135160-song-of-horror-episodes-2-5.json](./135160-song-of-horror-episodes-2-5.json) |
 | Song of Pan | 38990 | [38990-song-of-pan.json](./38990-song-of-pan.json) |
 | Song of Slavs | 273405 | [273405-song-of-slavs.json](./273405-song-of-slavs.json) |
+| Song of the Deep | 16998 | [16998-song-of-the-deep.json](./16998-song-of-the-deep.json) |
 | Song of the Firefly | 14315 | [14315-song-of-the-firefly.json](./14315-song-of-the-firefly.json) |
 | Song of the Tides | 158172 | [158172-song-of-the-tides.json](./158172-song-of-the-tides.json) |
 | Song of Yellow River | 130952 | [130952-song-of-yellow-river.json](./130952-song-of-yellow-river.json) |
@@ -6705,6 +6708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Raiders in Space + Clumsy Rush | 230406 | [230406-space-raiders-in-space-clumsy-rush.json](./230406-space-raiders-in-space-clumsy-rush.json) |
 | Space Ranger: Return to Earth | 45907 | [45907-space-ranger-return-to-earth.json](./45907-space-ranger-return-to-earth.json) |
 | Space Rangers | 7592 | [7592-space-rangers.json](./7592-space-rangers.json) |
+| Space Rangers 2: Dominators | 7593 | [7593-space-rangers-2-dominators.json](./7593-space-rangers-2-dominators.json) |
 | Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
 | Space raven quest - Tiny planet | 120965 | [120965-space-raven-quest-tiny-planet.json](./120965-space-raven-quest-tiny-planet.json) |
 | Space Rebellion | 66930 | [66930-space-rebellion.json](./66930-space-rebellion.json) |
@@ -8310,6 +8314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: TIE Fighter - Defender of the Empire | 167 | [167-star-wars-tie-fighter-defender-of-the-empire.json](./167-star-wars-tie-fighter-defender-of-the-empire.json) |
 | Star Wars: Tiny Death Star | 39245 | [39245-star-wars-tiny-death-star.json](./39245-star-wars-tiny-death-star.json) |
 | Star Wars: Trench Run | 21743 | [21743-star-wars-trench-run.json](./21743-star-wars-trench-run.json) |
+| Star Wars: X-Wing | 168 | [168-star-wars-x-wing.json](./168-star-wars-x-wing.json) |
 | Star Wars: X-Wing Tour of Duty - B-Wing | 171 | [171-star-wars-x-wing-tour-of-duty-b-wing.json](./171-star-wars-x-wing-tour-of-duty-b-wing.json) |
 | Star Wing | 385716 | [385716-star-wing.json](./385716-star-wing.json) |
 | Star Witch | 190224 | [190224-star-witch.json](./190224-star-witch.json) |
@@ -9435,6 +9440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Alpha 3 | 242650 | [242650-street-fighter-alpha-3.json](./242650-street-fighter-alpha-3.json) |
 | Street Fighter Alpha 3 Upper | 219058 | [219058-street-fighter-alpha-3-upper.json](./219058-street-fighter-alpha-3-upper.json) |
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
+| Street Fighter Alpha: Warriors' Dreams | 6702 | [6702-street-fighter-alpha-warriors-dreams.json](./6702-street-fighter-alpha-warriors-dreams.json) |
 | Street Fighter Battle Combination | 55065 | [55065-street-fighter-battle-combination.json](./55065-street-fighter-battle-combination.json) |
 | Street Fighter EX | 39319 | [39319-street-fighter-ex.json](./39319-street-fighter-ex.json) |
 | Street Fighter II | 198927 | [198927-street-fighter-ii.json](./198927-street-fighter-ii.json) |
@@ -11438,6 +11444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supremacy 1914 | 113460 | [113460-supremacy-1914.json](./113460-supremacy-1914.json) |
 | Supreme | 80546 | [80546-supreme.json](./80546-supreme.json) |
 | Supreme Candy: Oudou ni wa Oudoutaru Riyuu ga Arun Desu! | 137107 | [137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json](./137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json) |
+| Supreme Commander 2 | 7201 | [7201-supreme-commander-2.json](./7201-supreme-commander-2.json) |
 | Supreme Duo | 227269 | [227269-supreme-duo.json](./227269-supreme-duo.json) |
 | Supreme Earth Champion | 73257 | [73257-supreme-earth-champion.json](./73257-supreme-earth-champion.json) |
 | Supreme Ruler 2020 Gold | 25062 | [25062-supreme-ruler-2020-gold.json](./25062-supreme-ruler-2020-gold.json) |
@@ -12167,6 +12174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syon | 296383 | [296383-syon.json](./296383-syon.json) |
 | Syphon Filter | 4115 | [4115-syphon-filter.json](./4115-syphon-filter.json) |
 | Syphon Filter 2 | 4116 | [4116-syphon-filter-2.json](./4116-syphon-filter-2.json) |
+| Syphon Filter 3 | 4117 | [4117-syphon-filter-3.json](./4117-syphon-filter-3.json) |
 | Syphon Filter: Dark Mirror | 20764 | [20764-syphon-filter-dark-mirror.json](./20764-syphon-filter-dark-mirror.json) |
 | Syphon Filter: Logan's Shadow | 19430 | [19430-syphon-filter-logans-shadow.json](./19430-syphon-filter-logans-shadow.json) |
 | Syrian Warfare: Return to Palmyra | 167798 | [167798-syrian-warfare-return-to-palmyra.json](./167798-syrian-warfare-return-to-palmyra.json) |
