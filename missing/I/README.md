@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IC Carddass DragonBall | 59995 | [59995-ic-carddass-dragonball.json](./59995-ic-carddass-dragonball.json) |
 | ic2005 | 256861 | [256861-ic2005.json](./256861-ic2005.json) |
 | Icarace | 125825 | [125825-icarace.json](./125825-icarace.json) |
+| iCarly: Groovy Foodie! | 25187 | [25187-icarly-groovy-foodie.json](./25187-icarly-groovy-foodie.json) |
 | iCarly: iDream in Toons | 210060 | [210060-icarly-idream-in-toons.json](./210060-icarly-idream-in-toons.json) |
 | Icarus | 245054 | [245054-icarus.json](./245054-icarus.json) |
 | Icarus Challenge | 210893 | [210893-icarus-challenge.json](./210893-icarus-challenge.json) |
