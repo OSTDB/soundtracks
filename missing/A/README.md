@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
 | A Last Will and Testament | 203869 | [203869-a-last-will-and-testament.json](./203869-a-last-will-and-testament.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
+| A Line in the Sand | 12440 | [12440-a-line-in-the-sand.json](./12440-a-line-in-the-sand.json) |
 | A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
 | A Little Piece of Healing | 308423 | [308423-a-little-piece-of-healing.json](./308423-a-little-piece-of-healing.json) |
 | A Little Rabbit Story | 83521 | [83521-a-little-rabbit-story.json](./83521-a-little-rabbit-story.json) |
@@ -461,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Duo | 92286 | [92286-absolute-duo.json](./92286-absolute-duo.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
 | Absolute Matter | 219697 | [219697-absolute-matter.json](./219697-absolute-matter.json) |
+| Absolute Pinball | 12376 | [12376-absolute-pinball.json](./12376-absolute-pinball.json) |
 | Absolute: Asse raus! | 92288 | [92288-absolute-asse-raus.json](./92288-absolute-asse-raus.json) |
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
 | Absolutely Nothing Good | 414420 | [414420-absolutely-nothing-good.json](./414420-absolutely-nothing-good.json) |
@@ -578,8 +580,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Ventura: Pet Detective - The Case of the Serial Shaver | 61643 | [61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json](./61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json) |
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
 | Aceonline: DuelX | 95871 | [95871-aceonline-duelx.json](./95871-aceonline-duelx.json) |
+| Aces of the Deep | 12384 | [12384-aces-of-the-deep.json](./12384-aces-of-the-deep.json) |
+| Aces of the Pacific | 12385 | [12385-aces-of-the-pacific.json](./12385-aces-of-the-pacific.json) |
 | Aces of War | 45294 | [45294-aces-of-war.json](./45294-aces-of-war.json) |
 | Aces Over Airfields | 379462 | [379462-aces-over-airfields.json](./379462-aces-over-airfields.json) |
+| Aces Over Europe | 12386 | [12386-aces-over-europe.json](./12386-aces-over-europe.json) |
 | Aces Up Solitaire card game | 90400 | [90400-aces-up-solitaire-card-game.json](./90400-aces-up-solitaire-card-game.json) |
 | Aces: The Complete Collector's Edition | 206206 | [206206-aces-the-complete-collectors-edition.json](./206206-aces-the-complete-collectors-edition.json) |
 | AceSurvivor | 379465 | [379465-acesurvivor.json](./379465-acesurvivor.json) |
@@ -651,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Quake 2 | 221842 | [221842-action-quake-2.json](./221842-action-quake-2.json) |
 | Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
 | Action Reactor | 119558 | [119558-action-reactor.json](./119558-action-reactor.json) |
+| Action Stations! | 12387 | [12387-action-stations.json](./12387-action-stations.json) |
 | Action Study Runner | 379472 | [379472-action-study-runner.json](./379472-action-study-runner.json) |
 | Action-Strategy Baseball | 72966 | [72966-action-strategy-baseball.json](./72966-action-strategy-baseball.json) |
 | ActionCam: Supernatural Case | 333529 | [333529-actioncam-supernatural-case.json](./333529-actioncam-supernatural-case.json) |
@@ -2132,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber Battle Royale | 226219 | [226219-amber-battle-royale.json](./226219-amber-battle-royale.json) |
 | Amber Quartz | 69291 | [69291-amber-quartz.json](./69291-amber-quartz.json) |
 | Amber Time Pocket | 226220 | [226220-amber-time-pocket.json](./226220-amber-time-pocket.json) |
+| Amber: Journeys Beyond | 12390 | [12390-amber-journeys-beyond.json](./12390-amber-journeys-beyond.json) |
 | Amber's Airline: 7 Wonders | 116726 | [116726-ambers-airline-7-wonders.json](./116726-ambers-airline-7-wonders.json) |
 | Ambermoon.net | 217853 | [217853-ambermoon-net.json](./217853-ambermoon-net.json) |
 | Amberspire | 325713 | [325713-amberspire.json](./325713-amberspire.json) |
@@ -2453,7 +2460,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Wars: Medieval Crusades | 211401 | [211401-ancient-wars-medieval-crusades.json](./211401-ancient-wars-medieval-crusades.json) |
 | Ancient Wind Spread | 270784 | [270784-ancient-wind-spread.json](./270784-ancient-wind-spread.json) |
 | Ancient Wonders: Gardens of Babylon | 273656 | [273656-ancient-wonders-gardens-of-babylon.json](./273656-ancient-wonders-gardens-of-babylon.json) |
+| Ancients II: Approaching Evil | 12392 | [12392-ancients-ii-approaching-evil.json](./12392-ancients-ii-approaching-evil.json) |
 | Ancients of Ooga | 16228 | [16228-ancients-of-ooga.json](./16228-ancients-of-ooga.json) |
+| Ancients: Death Watch | 12391 | [12391-ancients-death-watch.json](./12391-ancients-death-watch.json) |
 | Ancings: The First Tournament | 283902 | [283902-ancings-the-first-tournament.json](./283902-ancings-the-first-tournament.json) |
 | And All Would Cry Beware! | 117627 | [117627-and-all-would-cry-beware.json](./117627-and-all-would-cry-beware.json) |
 | And Around Goes the Clock | 364514 | [364514-and-around-goes-the-clock.json](./364514-and-around-goes-the-clock.json) |
@@ -3530,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Bowling | 67310 | [67310-arcade-bowling.json](./67310-arcade-bowling.json) |
 | Arcade Boy | 152873 | [152873-arcade-boy.json](./152873-arcade-boy.json) |
 | Arcade Bundle | 294821 | [294821-arcade-bundle.json](./294821-arcade-bundle.json) |
+| Arcade Chess | 12393 | [12393-arcade-chess.json](./12393-arcade-chess.json) |
 | Arcade Flight | 203529 | [203529-arcade-flight.json](./203529-arcade-flight.json) |
 | Arcade Galaxy | 346596 | [346596-arcade-galaxy.json](./346596-arcade-galaxy.json) |
 | Arcade Game Series: Pac-Man | 68344 | [68344-arcade-game-series-pac-man.json](./68344-arcade-game-series-pac-man.json) |
@@ -4984,6 +4994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audition Portable | 56520 | [56520-audition-portable.json](./56520-audition-portable.json) |
 | Audo | 181348 | [181348-audo.json](./181348-audo.json) |
 | Audrey & Alexis | 100816 | [100816-audrey-and-alexis.json](./100816-audrey-and-alexis.json) |
+| Aufschwung Ost | 12395 | [12395-aufschwung-ost.json](./12395-aufschwung-ost.json) |
 | Augie Doggie and Doggie Daddy | 67274 | [67274-augie-doggie-and-doggie-daddy.json](./67274-augie-doggie-and-doggie-daddy.json) |
 | Augment Anthem | 365733 | [365733-augment-anthem.json](./365733-augment-anthem.json) |
 | Augmented Fear | 376547 | [376547-augmented-fear.json](./376547-augmented-fear.json) |
