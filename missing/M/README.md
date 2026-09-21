@@ -3572,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Math Zoo Zillions | 313286 | [313286-mighty-math-zoo-zillions.json](./313286-mighty-math-zoo-zillions.json) |
 | Mighty Math: Calculating Crew | 313278 | [313278-mighty-math-calculating-crew.json](./313278-mighty-math-calculating-crew.json) |
 | Mighty Mike (Power Pete) | 72658 | [72658-mighty-mike-power-pete.json](./72658-mighty-mike-power-pete.json) |
+| Mighty Monkey | 40389 | [40389-mighty-monkey.json](./40389-mighty-monkey.json) |
 | Mighty Monster Mayhem | 29622 | [29622-mighty-monster-mayhem.json](./29622-mighty-monster-mayhem.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Mulan | 66940 | [66940-mighty-mulan.json](./66940-mighty-mulan.json) |
@@ -3581,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Rodent | 73777 | [73777-mighty-rodent.json](./73777-mighty-rodent.json) |
 | Mighty Switch Force! Hyper Drive Edition | 2176 | [2176-mighty-switch-force-hyper-drive-edition.json](./2176-mighty-switch-force-hyper-drive-edition.json) |
 | Mighty the Armadillo | 330152 | [330152-mighty-the-armadillo.json](./330152-mighty-the-armadillo.json) |
+| Mighty Warriors | 40388 | [40388-mighty-warriors.json](./40388-mighty-warriors.json) |
 | MightyBowOfGreenHills | 96761 | [96761-mightybowofgreenhills.json](./96761-mightybowofgreenhills.json) |
 | MightyIronBall | 81759 | [81759-mightyironball.json](./81759-mightyironball.json) |
 | Miglorn | 304590 | [304590-miglorn.json](./304590-miglorn.json) |
@@ -4464,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob Control: Complete Edition | 283169 | [283169-mob-control-complete-edition.json](./283169-mob-control-complete-edition.json) |
 | Mob Drop Castle | 406078 | [406078-mob-drop-castle.json](./406078-mob-drop-castle.json) |
 | Mob Enforcer | 78380 | [78380-mob-enforcer.json](./78380-mob-enforcer.json) |
+| Mob Stadium | 40427 | [40427-mob-stadium.json](./40427-mob-stadium.json) |
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
 | Mob War | 90546 | [90546-mob-war.json](./90546-mob-war.json) |
 | Mob Wars: La Cosa Nostra | 125364 | [125364-mob-wars-la-cosa-nostra.json](./125364-mob-wars-la-cosa-nostra.json) |
@@ -4618,6 +4621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moero Crystal H | 121766 | [121766-moero-crystal-h.json](./121766-moero-crystal-h.json) |
 | Moero! Power Dodge | 385559 | [385559-moero-power-dodge.json](./385559-moero-power-dodge.json) |
 | Moero!! Nettou Yakyuu '88 | 59990 | [59990-moero-nettou-yakyuu-88.json](./59990-moero-nettou-yakyuu-88.json) |
+| Moero!! Pro Yakyuu Homerun Kyousou | 40387 | [40387-moero-pro-yakyuu-homerun-kyousou.json](./40387-moero-pro-yakyuu-homerun-kyousou.json) |
 | Moeru Danmaku STG Moedan | 204490 | [204490-moeru-danmaku-stg-moedan.json](./204490-moeru-danmaku-stg-moedan.json) |
 | Moeru Mahjong: Moejong! | 398475 | [398475-moeru-mahjong-moejong.json](./398475-moeru-mahjong-moejong.json) |
 | Moeru! Onii-san | 48327 | [48327-moeru-onii-san.json](./48327-moeru-onii-san.json) |
@@ -4801,6 +4805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Lander | 241474 | [241474-monkey-lander.json](./241474-monkey-lander.json) |
 | Monkey Lost | 367452 | [367452-monkey-lost.json](./367452-monkey-lost.json) |
 | Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
+| Monkey Mole Panic | 40386 | [40386-monkey-mole-panic.json](./40386-monkey-mole-panic.json) |
 | Monkey Quest | 182970 | [182970-monkey-quest.json](./182970-monkey-quest.json) |
 | Monkey Splash!! | 274466 | [274466-monkey-splash.json](./274466-monkey-splash.json) |
 | Monkey Split | 142450 | [142450-monkey-split.json](./142450-monkey-split.json) |
@@ -5141,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsty Corp: The Sequels | 296058 | [296058-monsty-corp-the-sequels.json](./296058-monsty-corp-the-sequels.json) |
 | Montana Jones | 246423 | [246423-montana-jones.json](./246423-montana-jones.json) |
 | MontanaBlack Kylo's Rescue | 174274 | [174274-montanablack-kylos-rescue.json](./174274-montanablack-kylos-rescue.json) |
+| Monte Carlo | 40385 | [40385-monte-carlo.json](./40385-monte-carlo.json) |
 | Monterey Jack | 347217 | [347217-monterey-jack.json](./347217-monterey-jack.json) |
 | Montezuma Puzzle | 91341 | [91341-montezuma-puzzle.json](./91341-montezuma-puzzle.json) |
 | Montezuma's Quest | 146738 | [146738-montezumas-quest.json](./146738-montezumas-quest.json) |
