@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifelike: Chapter One | 117004 | [117004-lifelike-chapter-one.json](./117004-lifelike-chapter-one.json) |
 | Lifeline | 19282 | [19282-lifeline.json](./19282-lifeline.json) |
 | Lifeline: Silent Night | 39254 | [39254-lifeline-silent-night.json](./39254-lifeline-silent-night.json) |
+| Lifeline: Whiteout | 57911 | [57911-lifeline-whiteout.json](./57911-lifeline-whiteout.json) |
 | LifePaths | 414351 | [414351-lifepaths.json](./414351-lifepaths.json) |
 | Lifetakers & Heartbreakers | 340917 | [340917-lifetakers-and-heartbreakers.json](./340917-lifetakers-and-heartbreakers.json) |
 | Lifetime | 236400 | [236400-lifetime.json](./236400-lifetime.json) |
