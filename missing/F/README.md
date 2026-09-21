@@ -719,12 +719,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Away Train | 150527 | [150527-far-away-train.json](./150527-far-away-train.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
 | Far Cry 3: Wish You Were Here Edition | 51544 | [51544-far-cry-3-wish-you-were-here-edition.json](./51544-far-cry-3-wish-you-were-here-edition.json) |
+| Far Cry 4: Kyrat Edition | 41616 | [41616-far-cry-4-kyrat-edition.json](./41616-far-cry-4-kyrat-edition.json) |
 | Far Cry 4: Steelbook Edition | 51531 | [51531-far-cry-4-steelbook-edition.json](./51531-far-cry-4-steelbook-edition.json) |
 | Far Cry 6: Gold Edition | 136403 | [136403-far-cry-6-gold-edition.json](./136403-far-cry-6-gold-edition.json) |
 | Far Cry 6: Lost Between Worlds | 228591 | [228591-far-cry-6-lost-between-worlds.json](./228591-far-cry-6-lost-between-worlds.json) |
 | Far Cry 6: Ultimate Edition | 136404 | [136404-far-cry-6-ultimate-edition.json](./136404-far-cry-6-ultimate-edition.json) |
 | Far Cry Anthology Bundle | 188049 | [188049-far-cry-anthology-bundle.json](./188049-far-cry-anthology-bundle.json) |
 | Far Cry Instincts: Evolution | 22584 | [22584-far-cry-instincts-evolution.json](./22584-far-cry-instincts-evolution.json) |
+| Far Cry Primal: Collector's Edition | 41617 | [41617-far-cry-primal-collectors-edition.json](./41617-far-cry-primal-collectors-edition.json) |
 | Far Cry Primal: Deluxe Edition | 44543 | [44543-far-cry-primal-deluxe-edition.json](./44543-far-cry-primal-deluxe-edition.json) |
 | Far Cry VR | 138767 | [138767-far-cry-vr.json](./138767-far-cry-vr.json) |
 | Far Cry: Bronze Pack | 223557 | [223557-far-cry-bronze-pack.json](./223557-far-cry-bronze-pack.json) |
@@ -3460,7 +3462,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 5: Expansions Bundle | 200693 | [200693-forza-horizon-5-expansions-bundle.json](./200693-forza-horizon-5-expansions-bundle.json) |
 | Forza Horizon 5: VIP | 387371 | [387371-forza-horizon-5-vip.json](./387371-forza-horizon-5-vip.json) |
 | Forza Horizon 5: Welcome Pack | 387369 | [387369-forza-horizon-5-welcome-pack.json](./387369-forza-horizon-5-welcome-pack.json) |
+| Forza Horizon: Limited Collector's Edition | 41594 | [41594-forza-horizon-limited-collectors-edition.json](./41594-forza-horizon-limited-collectors-edition.json) |
 | Forza Motorsport 2018 Mercedes-AMG GT3 | 278521 | [278521-forza-motorsport-2018-mercedes-amg-gt3.json](./278521-forza-motorsport-2018-mercedes-amg-gt3.json) |
+| Forza Motorsport 4: Limited Collector's Edition | 41600 | [41600-forza-motorsport-4-limited-collectors-edition.json](./41600-forza-motorsport-4-limited-collectors-edition.json) |
 | Forza Motorsport: 1983 Porsche #11 John Fitzpatrick Racing 956 | 286134 | [286134-forza-motorsport-1983-porsche-11-john-fitzpatrick-racing-956.json](./286134-forza-motorsport-1983-porsche-11-john-fitzpatrick-racing-956.json) |
 | Forza Motorsport: 2016 Ligier #11 Eurointernational JS P3 | 305542 | [305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json](./305542-forza-motorsport-2016-ligier-11-eurointernational-js-p3.json) |
 | Forza Motorsport: 2018 Cadillac #57 TA CTS-V | 292648 | [292648-forza-motorsport-2018-cadillac-57-ta-cts-v.json](./292648-forza-motorsport-2018-cadillac-57-ta-cts-v.json) |
