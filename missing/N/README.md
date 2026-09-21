@@ -1802,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nirvana Pilot Yume: Deluxe Edition | 208045 | [208045-nirvana-pilot-yume-deluxe-edition.json](./208045-nirvana-pilot-yume-deluxe-edition.json) |
 | Nirvana Revenge | 66044 | [66044-nirvana-revenge.json](./66044-nirvana-revenge.json) |
 | Nirvana: Game of Life | 191261 | [191261-nirvana-game-of-life.json](./191261-nirvana-game-of-life.json) |
+| Nisekoi Majikore!? | 60795 | [60795-nisekoi-majikore.json](./60795-nisekoi-majikore.json) |
 | Nishan Shaman | 105117 | [105117-nishan-shaman.json](./105117-nishan-shaman.json) |
 | Nitebear on Sleepystreet | 304198 | [304198-nitebear-on-sleepystreet.json](./304198-nitebear-on-sleepystreet.json) |
 | Niteline | 304722 | [304722-niteline.json](./304722-niteline.json) |
