@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Asylum VR | 333651 | [333651-phantom-asylum-vr.json](./333651-phantom-asylum-vr.json) |
 | Phantom Blade 0 | 250618 | [250618-phantom-blade-0.json](./250618-phantom-blade-0.json) |
 | Phantom Bound | 293626 | [293626-phantom-bound.json](./293626-phantom-bound.json) |
+| Phantom Brave PC: Digital Chroma Edition | 53457 | [53457-phantom-brave-pc-digital-chroma-edition.json](./53457-phantom-brave-pc-digital-chroma-edition.json) |
 | Phantom Brave: The Hermuda Triangle Remastered | 144246 | [144246-phantom-brave-the-hermuda-triangle-remastered.json](./144246-phantom-brave-the-hermuda-triangle-remastered.json) |
 | Phantom Brave: The Lost Hero - Heroes of the Past | 332520 | [332520-phantom-brave-the-lost-hero-heroes-of-the-past.json](./332520-phantom-brave-the-lost-hero-heroes-of-the-past.json) |
 | Phantom Brave: The Lost Hero - Parallel Siblings | 332521 | [332521-phantom-brave-the-lost-hero-parallel-siblings.json](./332521-phantom-brave-the-lost-hero-parallel-siblings.json) |
@@ -1756,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phase | 377172 | [377172-phase.json](./377172-phase.json) |
 | Phase | 72078 | [72078-phase.json](./72078-phase.json) |
 | Phase Cross | 347787 | [347787-phase-cross.json](./347787-phase-cross.json) |
+| Phase Edge | 53458 | [53458-phase-edge.json](./53458-phase-edge.json) |
 | Phase Line: Raider Assault | 239667 | [239667-phase-line-raider-assault.json](./239667-phase-line-raider-assault.json) |
 | Phase Runner | 92490 | [92490-phase-runner.json](./92490-phase-runner.json) |
 | Phase Shift | 50165 | [50165-phase-shift.json](./50165-phase-shift.json) |
@@ -2109,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilfer | 388710 | [388710-pilfer.json](./388710-pilfer.json) |
 | Pilgrim | 229788 | [229788-pilgrim.json](./229788-pilgrim.json) |
 | Pilgrim | 301813 | [301813-pilgrim.json](./301813-pilgrim.json) |
+| Pilgrim Adventures Complete | 53459 | [53459-pilgrim-adventures-complete.json](./53459-pilgrim-adventures-complete.json) |
 | Pilgrim of Darkness | 346145 | [346145-pilgrim-of-darkness.json](./346145-pilgrim-of-darkness.json) |
 | Pilgrim: Faith as a Weapon | 71229 | [71229-pilgrim-faith-as-a-weapon.json](./71229-pilgrim-faith-as-a-weapon.json) |
 | Pilgrimage | 59694 | [59694-pilgrimage.json](./59694-pilgrimage.json) |
@@ -2592,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint: Definitive Edition | 243367 | [243367-pixel-paint-definitive-edition.json](./243367-pixel-paint-definitive-edition.json) |
 | Pixel Paint: Premium Edition | 241395 | [241395-pixel-paint-premium-edition.json](./241395-pixel-paint-premium-edition.json) |
 | Pixel Pileup Party | 130201 | [130201-pixel-pileup-party.json](./130201-pixel-pileup-party.json) |
+| Pixel Pirates | 53460 | [53460-pixel-pirates.json](./53460-pixel-pirates.json) |
 | Pixel Poops | 157054 | [157054-pixel-poops.json](./157054-pixel-poops.json) |
 | Pixel Poops: Number Two | 143480 | [143480-pixel-poops-number-two.json](./143480-pixel-poops-number-two.json) |
 | Pixel Pro Tennis | 213643 | [213643-pixel-pro-tennis.json](./213643-pixel-pro-tennis.json) |
@@ -2613,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Ultimate Jigsaw: Civil Unrest | 293072 | [293072-pixel-puzzles-ultimate-jigsaw-civil-unrest.json](./293072-pixel-puzzles-ultimate-jigsaw-civil-unrest.json) |
 | Pixel Puzzles Ultimate Jigsaw: Jigsaw Puzzle Pack - Pixel Puzzles Ultimate: Colorful | 256917 | [256917-pixel-puzzles-ultimate-jigsaw-jigsaw-puzzle-pack-pixel-puzzles-ultimate-colorful.json](./256917-pixel-puzzles-ultimate-jigsaw-jigsaw-puzzle-pack-pixel-puzzles-ultimate-colorful.json) |
 | Pixel Puzzles Ultimate Jigsaw: Variety Pack 23 | 293071 | [293071-pixel-puzzles-ultimate-jigsaw-variety-pack-23.json](./293071-pixel-puzzles-ultimate-jigsaw-variety-pack-23.json) |
+| Pixel Puzzles Ultimate: 2016 Jigsaw Collection | 53461 | [53461-pixel-puzzles-ultimate-2016-jigsaw-collection.json](./53461-pixel-puzzles-ultimate-2016-jigsaw-collection.json) |
 | Pixel Puzzles Ultimate: Animals | 226860 | [226860-pixel-puzzles-ultimate-animals.json](./226860-pixel-puzzles-ultimate-animals.json) |
 | Pixel Puzzles Ultimate: Bioframe | 357884 | [357884-pixel-puzzles-ultimate-bioframe.json](./357884-pixel-puzzles-ultimate-bioframe.json) |
 | Pixel Puzzles Ultimate: Cheregi | 226861 | [226861-pixel-puzzles-ultimate-cheregi.json](./226861-pixel-puzzles-ultimate-cheregi.json) |
@@ -2828,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planes Combat | 278150 | [278150-planes-combat.json](./278150-planes-combat.json) |
 | Planes: Interactive Storybook | 230399 | [230399-planes-interactive-storybook.json](./230399-planes-interactive-storybook.json) |
 | Planes.io | 194038 | [194038-planes-io.json](./194038-planes-io.json) |
+| Planescape Torment: Enhanced Edition - Digital Deluxe | 53462 | [53462-planescape-torment-enhanced-edition-digital-deluxe.json](./53462-planescape-torment-enhanced-edition-digital-deluxe.json) |
 | Planet After Us | 195613 | [195613-planet-after-us.json](./195613-planet-after-us.json) |
 | Planet Alpha | 28070 | [28070-planet-alpha.json](./28070-planet-alpha.json) |
 | Planet Assault | 89936 | [89936-planet-assault.json](./89936-planet-assault.json) |
@@ -2936,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plantabi: Little Garden | 288871 | [288871-plantabi-little-garden.json](./288871-plantabi-little-garden.json) |
 | Plantan | 110330 | [110330-plantan.json](./110330-plantan.json) |
 | Plantasia | 333098 | [333098-plantasia.json](./333098-plantasia.json) |
+| Plantasia | 53463 | [53463-plantasia.json](./53463-plantasia.json) |
 | Planted! | 398336 | [398336-planted.json](./398336-planted.json) |
 | Planternauts | 341571 | [341571-planternauts.json](./341571-planternauts.json) |
 | Plantgotchi | 122321 | [122321-plantgotchi.json](./122321-plantgotchi.json) |
@@ -3295,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogoman GO! | 80514 | [80514-pogoman-go.json](./80514-pogoman-go.json) |
 | Pohinki Simulator | 333623 | [333623-pohinki-simulator.json](./333623-pohinki-simulator.json) |
 | Poi | 19278 | [19278-poi.json](./19278-poi.json) |
+| Poi: Deluxe Edition | 53464 | [53464-poi-deluxe-edition.json](./53464-poi-deluxe-edition.json) |
 | Poibos Part 1: Dasshutsu | 298547 | [298547-poibos-part-1-dasshutsu.json](./298547-poibos-part-1-dasshutsu.json) |
 | Poinie's Poin | 56153 | [56153-poinies-poin.json](./56153-poinies-poin.json) |
 | Point | 97929 | [97929-point.json](./97929-point.json) |
@@ -3738,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pombero: The Lord of the Night - Reborn | 260757 | [260757-pombero-the-lord-of-the-night-reborn.json](./260757-pombero-the-lord-of-the-night-reborn.json) |
 | Pommy | 86103 | [86103-pommy.json](./86103-pommy.json) |
 | Pomo Post | 319389 | [319389-pomo-post.json](./319389-pomo-post.json) |
+| Pompei: The Legend of Vesuvius | 53465 | [53465-pompei-the-legend-of-vesuvius.json](./53465-pompei-the-legend-of-vesuvius.json) |
 | Pompeii | 40774 | [40774-pompeii.json](./40774-pompeii.json) |
 | Pompeii: The Legacy | 315511 | [315511-pompeii-the-legacy.json](./315511-pompeii-the-legacy.json) |
 | Pompom | 173842 | [173842-pompom.json](./173842-pompom.json) |
@@ -3934,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porradaria Upgrade | 91973 | [91973-porradaria-upgrade.json](./91973-porradaria-upgrade.json) |
 | Porrasturvat: Stair Dismount | 93059 | [93059-porrasturvat-stair-dismount.json](./93059-porrasturvat-stair-dismount.json) |
 | Porsche Challenge | 45023 | [45023-porsche-challenge.json](./45023-porsche-challenge.json) |
+| Port Royale 3: Harbour Master | 53467 | [53467-port-royale-3-harbour-master.json](./53467-port-royale-3-harbour-master.json) |
 | Port Royale 4: Buccaneers | 154504 | [154504-port-royale-4-buccaneers.json](./154504-port-royale-4-buccaneers.json) |
 | Port Royale 4: Extended Edition | 154505 | [154505-port-royale-4-extended-edition.json](./154505-port-royale-4-extended-edition.json) |
 | Port Royale: Gold, Power and Pirates | 834 | [834-port-royale-gold-power-and-pirates.json](./834-port-royale-gold-power-and-pirates.json) |
@@ -4003,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poseidon | 301831 | [301831-poseidon.json](./301831-poseidon.json) |
 | Poseidon Kiugi: Bangchihyeong Aeksyeon RPG | 212855 | [212855-poseidon-kiugi-bangchihyeong-aeksyeon-rpg.json](./212855-poseidon-kiugi-bangchihyeong-aeksyeon-rpg.json) |
 | Poseidon: Planet Eleven | 67276 | [67276-poseidon-planet-eleven.json](./67276-poseidon-planet-eleven.json) |
+| Posh Boutique | 53468 | [53468-posh-boutique.json](./53468-posh-boutique.json) |
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
 | Posibility | 127367 | [127367-posibility.json](./127367-posibility.json) |
 | Positronic Bridge | 94544 | [94544-positronic-bridge.json](./94544-positronic-bridge.json) |
@@ -4102,11 +4113,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power | 164447 | [164447-power.json](./164447-power.json) |
 | Power (of) Metal | 199599 | [199599-power-of-metal.json](./199599-power-of-metal.json) |
 | Power & Revolution: 2021 Edition | 162429 | [162429-power-and-revolution-2021-edition.json](./162429-power-and-revolution-2021-edition.json) |
+| Power & Revolution: Geo-Political Simulator 4 | 53469 | [53469-power-and-revolution-geo-political-simulator-4.json](./53469-power-and-revolution-geo-political-simulator-4.json) |
 | Power at Sea | 55151 | [55151-power-at-sea.json](./55151-power-at-sea.json) |
 | Power Ball 2021 | 150620 | [150620-power-ball-2021.json](./150620-power-ball-2021.json) |
 | Power Ball 2022 | 211954 | [211954-power-ball-2022.json](./211954-power-ball-2022.json) |
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
 | Power Chips | 382344 | [382344-power-chips.json](./382344-power-chips.json) |
+| Power Defence | 53470 | [53470-power-defence.json](./53470-power-defence.json) |
 | Power Dolls FX | 79614 | [79614-power-dolls-fx.json](./79614-power-dolls-fx.json) |
 | Power Drill Massacre | 320349 | [320349-power-drill-massacre.json](./320349-power-drill-massacre.json) |
 | Power Drive 2000 | 60239 | [60239-power-drive-2000.json](./60239-power-drive-2000.json) |
@@ -4173,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Soccer | 320968 | [320968-power-soccer.json](./320968-power-soccer.json) |
 | Power Soccer 2 | 93996 | [93996-power-soccer-2.json](./93996-power-soccer-2.json) |
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
+| Power Sphere | 53471 | [53471-power-sphere.json](./53471-power-sphere.json) |
 | Power Stakes | 301385 | [301385-power-stakes.json](./301385-power-stakes.json) |
 | Power Stakes 2 | 301386 | [301386-power-stakes-2.json](./301386-power-stakes-2.json) |
 | Power Stakes: Grade 1 | 141165 | [141165-power-stakes-grade-1.json](./141165-power-stakes-grade-1.json) |
@@ -4319,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Press Inc. | 108275 | [108275-press-inc.json](./108275-press-inc.json) |
 | Press X to Not Die | 13619 | [13619-press-x-to-not-die.json](./13619-press-x-to-not-die.json) |
+| Press X to Not Die: Special Edition | 53472 | [53472-press-x-to-not-die-special-edition.json](./53472-press-x-to-not-die-special-edition.json) |
 | Press Your Luck | 52646 | [52646-press-your-luck.json](./52646-press-your-luck.json) |
 | Press-Switch | 217993 | [217993-press-switch.json](./217993-press-switch.json) |
 | Pressing Under Pressure | 393618 | [393618-pressing-under-pressure.json](./393618-pressing-under-pressure.json) |
@@ -4561,6 +4576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisonscape | 61560 | [61560-prisonscape.json](./61560-prisonscape.json) |
 | Prisseceal, the Dazzling-and-Flaring Peach Princess | 236277 | [236277-prisseceal-the-dazzling-and-flaring-peach-princess.json](./236277-prisseceal-the-dazzling-and-flaring-peach-princess.json) |
 | Pristine world | 32978 | [32978-pristine-world.json](./32978-pristine-world.json) |
+| Pristine World: Deluxe Edition | 53474 | [53474-pristine-world-deluxe-edition.json](./53474-pristine-world-deluxe-edition.json) |
 | Pristontale II: The 2nd Enigma | 72657 | [72657-pristontale-ii-the-2nd-enigma.json](./72657-pristontale-ii-the-2nd-enigma.json) |
 | Priton | 91948 | [91948-priton.json](./91948-priton.json) |
 | Private Dance VR | 286534 | [286534-private-dance-vr.json](./286534-private-dance-vr.json) |
@@ -4690,6 +4706,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Bull Rider 2 | 71445 | [71445-professional-bull-rider-2.json](./71445-professional-bull-rider-2.json) |
 | Professional Bull Riding: Out of the Chute | 315719 | [315719-professional-bull-riding-out-of-the-chute.json](./315719-professional-bull-riding-out-of-the-chute.json) |
 | Professional Darts Championship | 197887 | [197887-professional-darts-championship.json](./197887-professional-darts-championship.json) |
+| Professional Farmer 2014 America | 53476 | [53476-professional-farmer-2014-america.json](./53476-professional-farmer-2014-america.json) |
+| Professional Farmer 2014: Collector's Edition | 53477 | [53477-professional-farmer-2014-collectors-edition.json](./53477-professional-farmer-2014-collectors-edition.json) |
+| Professional Farmer 2014: Platinum Edition | 53478 | [53478-professional-farmer-2014-platinum-edition.json](./53478-professional-farmer-2014-platinum-edition.json) |
 | Professional Farmer 2016 | 84808 | [84808-professional-farmer-2016.json](./84808-professional-farmer-2016.json) |
 | Professional Farmer 2017: Cattle & Cultivation | 172103 | [172103-professional-farmer-2017-cattle-and-cultivation.json](./172103-professional-farmer-2017-cattle-and-cultivation.json) |
 | Professional Fisherman's Tour: Northern Hemisphere | 61352 | [61352-professional-fishermans-tour-northern-hemisphere.json](./61352-professional-fishermans-tour-northern-hemisphere.json) |
@@ -4741,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progressbar Popup Fighter | 250015 | [250015-progressbar-popup-fighter.json](./250015-progressbar-popup-fighter.json) |
 | Progs_dump | 300705 | [300705-progs-dump.json](./300705-progs-dump.json) |
 | Prohibeast | 343266 | [343266-prohibeast.json](./343266-prohibeast.json) |
+| Prohibition 1930 | 53480 | [53480-prohibition-1930.json](./53480-prohibition-1930.json) |
 | Project 13: Nightwatch - Canteen | 310382 | [310382-project-13-nightwatch-canteen.json](./310382-project-13-nightwatch-canteen.json) |
 | Project 13: Taxidermy Trails | 288192 | [288192-project-13-taxidermy-trails.json](./288192-project-13-taxidermy-trails.json) |
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
@@ -4770,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
 | Project Canopy | 144090 | [144090-project-canopy.json](./144090-project-canopy.json) |
 | Project Carrot | 335324 | [335324-project-carrot.json](./335324-project-carrot.json) |
+| Project CARS 2: Deluxe Edition | 53479 | [53479-project-cars-2-deluxe-edition.json](./53479-project-cars-2-deluxe-edition.json) |
 | Project CARS: Aston Martin Track Expansion | 120193 | [120193-project-cars-aston-martin-track-expansion.json](./120193-project-cars-aston-martin-track-expansion.json) |
 | Project CARS: Audi Ruapuna Speedway Expansion | 120196 | [120196-project-cars-audi-ruapuna-speedway-expansion.json](./120196-project-cars-audi-ruapuna-speedway-expansion.json) |
 | Project CARS: Classic Lotus Track Expansion | 120191 | [120191-project-cars-classic-lotus-track-expansion.json](./120191-project-cars-classic-lotus-track-expansion.json) |
@@ -4839,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hardline | 253366 | [253366-project-hardline.json](./253366-project-hardline.json) |
 | Project Haven | 124008 | [124008-project-haven.json](./124008-project-haven.json) |
 | Project Heartbeat | 130920 | [130920-project-heartbeat.json](./130920-project-heartbeat.json) |
+| Project Hedra | 53481 | [53481-project-hedra.json](./53481-project-hedra.json) |
 | Project Helix | 317608 | [317608-project-helix.json](./317608-project-helix.json) |
 | Project Highrise: Las Vegas | 51884 | [51884-project-highrise-las-vegas.json](./51884-project-highrise-las-vegas.json) |
 | Project Highrise: London Life | 124801 | [124801-project-highrise-london-life.json](./124801-project-highrise-london-life.json) |
@@ -5195,6 +5217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Santa | 66394 | [66394-psycho-santa.json](./66394-psycho-santa.json) |
 | Psycho Simulator | 389465 | [389465-psycho-simulator.json](./389465-psycho-simulator.json) |
 | Psycho Strafe | 358969 | [358969-psycho-strafe.json](./358969-psycho-strafe.json) |
+| Psycho Train | 53483 | [53483-psycho-train.json](./53483-psycho-train.json) |
 | Psycho-Nics Oscar | 55193 | [55193-psycho-nics-oscar.json](./55193-psycho-nics-oscar.json) |
 | Psycho-Pass: Mandatory Happiness - Limited Edition | 166186 | [166186-psycho-pass-mandatory-happiness-limited-edition.json](./166186-psycho-pass-mandatory-happiness-limited-edition.json) |
 | Psycho-unstable Journey | 180792 | [180792-psycho-unstable-journey.json](./180792-psycho-unstable-journey.json) |
@@ -5606,6 +5629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Girls: Celia | 163913 | [163913-puzzle-girls-celia.json](./163913-puzzle-girls-celia.json) |
 | Puzzle Girls: Lingerie | 109492 | [109492-puzzle-girls-lingerie.json](./109492-puzzle-girls-lingerie.json) |
 | Puzzle Grid | 263571 | [263571-puzzle-grid.json](./263571-puzzle-grid.json) |
+| Puzzle Hero | 53484 | [53484-puzzle-hero.json](./53484-puzzle-hero.json) |
 | Puzzle Islands: Ancient & Modern - Bundle | 340743 | [340743-puzzle-islands-ancient-and-modern-bundle.json](./340743-puzzle-islands-ancient-and-modern-bundle.json) |
 | Puzzle Journey | 265708 | [265708-puzzle-journey.json](./265708-puzzle-journey.json) |
 | Puzzle Journey | 287783 | [287783-puzzle-journey.json](./287783-puzzle-journey.json) |
@@ -5756,6 +5780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrrhic Tales: Prelude to Darkness | 70347 | [70347-pyrrhic-tales-prelude-to-darkness.json](./70347-pyrrhic-tales-prelude-to-darkness.json) |
 | Pyrus: Alle Tiders Familiespil | 129813 | [129813-pyrus-alle-tiders-familiespil.json](./129813-pyrus-alle-tiders-familiespil.json) |
 | Pyrus: Alletiders Jul | 129780 | [129780-pyrus-alletiders-jul.json](./129780-pyrus-alletiders-jul.json) |
+| Pyschotic Adventures | 53485 | [53485-pyschotic-adventures.json](./53485-pyschotic-adventures.json) |
 | Pythagorea 60° | 309096 | [309096-pythagorea-60.json](./309096-pythagorea-60.json) |
 | Pythian | 163922 | [163922-pythian.json](./163922-pythian.json) |
 | Pytho's Mask | 60016 | [60016-pythos-mask.json](./60016-pythos-mask.json) |
