@@ -1910,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aching Aversion: Blood Orange Dreams | 312589 | [312589-the-aching-aversion-blood-orange-dreams.json](./312589-the-aching-aversion-blood-orange-dreams.json) |
 | The Acorn Protocol | 408036 | [408036-the-acorn-protocol.json](./408036-the-acorn-protocol.json) |
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
+| The Addams Family | 14207 | [14207-the-addams-family.json](./14207-the-addams-family.json) |
 | The Addams Family | 14208 | [14208-the-addams-family.json](./14208-the-addams-family.json) |
 | The Adjudicator | 145697 | [145697-the-adjudicator.json](./145697-the-adjudicator.json) |
 | The Adjudicator | 164906 | [164906-the-adjudicator.json](./164906-the-adjudicator.json) |
@@ -3384,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frost | 28872 | [28872-the-frost.json](./28872-the-frost.json) |
 | The Frozen Shore | 231462 | [231462-the-frozen-shore.json](./231462-the-frozen-shore.json) |
 | The Fruit Game | 346565 | [346565-the-fruit-game.json](./346565-the-fruit-game.json) |
+| The Fruit of Grisaia | 11456 | [11456-the-fruit-of-grisaia.json](./11456-the-fruit-of-grisaia.json) |
 | The Fruit, Labyrinth, and Eden of Grisaia Full Package | 117746 | [117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json](./117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json) |
 | The Fugitives | 330309 | [330309-the-fugitives.json](./330309-the-fugitives.json) |
 | The Full Wormage | 70082 | [70082-the-full-wormage.json](./70082-the-full-wormage.json) |
@@ -3565,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grim and I | 120837 | [120837-the-grim-and-i.json](./120837-the-grim-and-i.json) |
 | The Grim Ending | 148919 | [148919-the-grim-ending.json](./148919-the-grim-ending.json) |
 | The Grim Outpost | 271323 | [271323-the-grim-outpost.json](./271323-the-grim-outpost.json) |
+| The Grinch | 15487 | [15487-the-grinch.json](./15487-the-grinch.json) |
 | The Grinding of Teeth | 271852 | [271852-the-grinding-of-teeth.json](./271852-the-grinding-of-teeth.json) |
 | The Grizzled: Armistice Digital | 215744 | [215744-the-grizzled-armistice-digital.json](./215744-the-grizzled-armistice-digital.json) |
 | The Ground Division | 139398 | [139398-the-ground-division.json](./139398-the-ground-division.json) |
@@ -3867,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Pack 6 | 125021 | [125021-the-jackbox-party-pack-6.json](./125021-the-jackbox-party-pack-6.json) |
 | The Jackbox Party Pack 7 | 138375 | [138375-the-jackbox-party-pack-7.json](./138375-the-jackbox-party-pack-7.json) |
 | The Jackbox Party Pack 8 | 144783 | [144783-the-jackbox-party-pack-8.json](./144783-the-jackbox-party-pack-8.json) |
+| The Jackbox Party Pack 9 | 198560 | [198560-the-jackbox-party-pack-9.json](./198560-the-jackbox-party-pack-9.json) |
 | The Jackbox Party Starter | 207095 | [207095-the-jackbox-party-starter.json](./207095-the-jackbox-party-starter.json) |
 | The Jackbox Survey Scramble | 318207 | [318207-the-jackbox-survey-scramble.json](./318207-the-jackbox-survey-scramble.json) |
 | The Jade Stone | 67698 | [67698-the-jade-stone.json](./67698-the-jade-stone.json) |
@@ -5588,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: 70s, 80s, & 90s Stuff | 13124 | [13124-the-sims-3-70s-80s-and-90s-stuff.json](./13124-the-sims-3-70s-80s-and-90s-stuff.json) |
 | The Sims 3: Aurora Skies | 14583 | [14583-the-sims-3-aurora-skies.json](./14583-the-sims-3-aurora-skies.json) |
 | The Sims 3: Into the Future | 13116 | [13116-the-sims-3-into-the-future.json](./13116-the-sims-3-into-the-future.json) |
+| The Sims 3: Island Paradise | 13115 | [13115-the-sims-3-island-paradise.json](./13115-the-sims-3-island-paradise.json) |
 | The Sims 3: Late Night | 13112 | [13112-the-sims-3-late-night.json](./13112-the-sims-3-late-night.json) |
 | The Sims 3: Lucky Palms | 14577 | [14577-the-sims-3-lucky-palms.json](./14577-the-sims-3-lucky-palms.json) |
 | The Sims 3: Lunar Lakes | 14573 | [14573-the-sims-3-lunar-lakes.json](./14573-the-sims-3-lunar-lakes.json) |
@@ -8784,6 +8789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torchlight: Infinite | 174897 | [174897-torchlight-infinite.json](./174897-torchlight-infinite.json) |
 | Torchure | 180183 | [180183-torchure.json](./180183-torchure.json) |
 | Torchure | 352262 | [352262-torchure.json](./352262-torchure.json) |
+| Toree 2 | 172664 | [172664-toree-2.json](./172664-toree-2.json) |
 | Toree 3D | 144687 | [144687-toree-3d.json](./144687-toree-3d.json) |
 | Toree Jolly Jam | 279783 | [279783-toree-jolly-jam.json](./279783-toree-jolly-jam.json) |
 | Toree Missions | 310613 | [310613-toree-missions.json](./310613-toree-missions.json) |
@@ -9472,6 +9478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail of Stars | 329966 | [329966-trail-of-stars.json](./329966-trail-of-stars.json) |
 | Trail of the Damned | 160222 | [160222-trail-of-the-damned.json](./160222-trail-of-the-damned.json) |
 | Trail of Toads | 223166 | [223166-trail-of-toads.json](./223166-trail-of-toads.json) |
+| Trail Out | 188913 | [188913-trail-out.json](./188913-trail-out.json) |
 | Trail Out: Hunt 007 Special | 275001 | [275001-trail-out-hunt-007-special.json](./275001-trail-out-hunt-007-special.json) |
 | Trail Out: Legendary Cars | 255153 | [255153-trail-out-legendary-cars.json](./255153-trail-out-legendary-cars.json) |
 | Trail Out: Steel Wheels | 267408 | [267408-trail-out-steel-wheels.json](./267408-trail-out-steel-wheels.json) |
