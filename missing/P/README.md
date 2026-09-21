@@ -2141,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikes.io | 306978 | [306978-pikes-io.json](./306978-pikes-io.json) |
 | Pikki Rikki | 255164 | [255164-pikki-rikki.json](./255164-pikki-rikki.json) |
 | Pikmin | 2239 | [2239-pikmin.json](./2239-pikmin.json) |
+| Pikmin 2 | 2240 | [2240-pikmin-2.json](./2240-pikmin-2.json) |
 | Pikmin 2 | 84697 | [84697-pikmin-2.json](./84697-pikmin-2.json) |
 | Pikmin 2 Lands of Torture | 292126 | [292126-pikmin-2-lands-of-torture.json](./292126-pikmin-2-lands-of-torture.json) |
 | Pikmin 2 Power Cut Blackout | 292127 | [292127-pikmin-2-power-cut-blackout.json](./292127-pikmin-2-power-cut-blackout.json) |
@@ -2997,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetone | 184990 | [184990-planetone.json](./184990-planetone.json) |
 | Planets 3 | 137026 | [137026-planets-3.json](./137026-planets-3.json) |
 | Planetship | 36098 | [36098-planetship.json](./36098-planetship.json) |
+| PlanetSide 2 | 1265 | [1265-planetside-2.json](./1265-planetside-2.json) |
 | PlanetSmith | 263777 | [263777-planetsmith.json](./263777-planetsmith.json) |
 | Planetstar Warrior | 290689 | [290689-planetstar-warrior.json](./290689-planetstar-warrior.json) |
 | Planeturem | 326259 | [326259-planeturem.json](./326259-planeturem.json) |
@@ -3029,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies | 342044 | [342044-plants-vs-zombies.json](./342044-plants-vs-zombies.json) |
 | Plants vs. Zombies 2: Garden Rush | 272845 | [272845-plants-vs-zombies-2-garden-rush.json](./272845-plants-vs-zombies-2-garden-rush.json) |
 | Plants vs. Zombies 2: Into the Storm | 272546 | [272546-plants-vs-zombies-2-into-the-storm.json](./272546-plants-vs-zombies-2-into-the-storm.json) |
+| Plants vs. Zombies 2: It's About Time | 3145 | [3145-plants-vs-zombies-2-its-about-time.json](./3145-plants-vs-zombies-2-its-about-time.json) |
 | Plants vs. Zombies 2: Odyssey | 272295 | [272295-plants-vs-zombies-2-odyssey.json](./272295-plants-vs-zombies-2-odyssey.json) |
 | Plants vs. Zombies 2: Reflourished | 221859 | [221859-plants-vs-zombies-2-reflourished.json](./221859-plants-vs-zombies-2-reflourished.json) |
 | Plants vs. Zombies Adventures | 77968 | [77968-plants-vs-zombies-adventures.json](./77968-plants-vs-zombies-adventures.json) |
@@ -3608,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
 | Pokemon Twilight: Lunar | 323903 | [323903-pokemon-twilight-lunar.json](./323903-pokemon-twilight-lunar.json) |
 | Pokemon Twilight: Solar | 323904 | [323904-pokemon-twilight-solar.json](./323904-pokemon-twilight-solar.json) |
+| Pokémon Ultra Moon | 36793 | [36793-pokemon-ultra-moon.json](./36793-pokemon-ultra-moon.json) |
 | Pokémon Ultra Sun & Pokémon Ultra Moon: Veteran Trainer's Dual Pack | 136275 | [136275-pokemon-ultra-sun-and-pokemon-ultra-moon-veteran-trainers-dual-pack.json](./136275-pokemon-ultra-sun-and-pokemon-ultra-moon-veteran-trainers-dual-pack.json) |
 | Pokemon Umbra Moon | 288202 | [288202-pokemon-umbra-moon.json](./288202-pokemon-umbra-moon.json) |
 | Pokémon Unbound | 141663 | [141663-pokemon-unbound.json](./141663-pokemon-unbound.json) |
