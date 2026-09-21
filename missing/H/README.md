@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Is Us: Military Pack | 360094 | [360094-hell-is-us-military-pack.json](./360094-hell-is-us-military-pack.json) |
 | Hell is Us: Phol Guard Pack | 360093 | [360093-hell-is-us-phol-guard-pack.json](./360093-hell-is-us-phol-guard-pack.json) |
 | Hell Knights | 105140 | [105140-hell-knights.json](./105140-hell-knights.json) |
+| Hell Let Loose | 32365 | [32365-hell-let-loose.json](./32365-hell-let-loose.json) |
 | Hell Let Loose: Battle Scarred | 371226 | [371226-hell-let-loose-battle-scarred.json](./371226-hell-let-loose-battle-scarred.json) |
 | Hell Let Loose: Devotion to Duty | 252863 | [252863-hell-let-loose-devotion-to-duty.json](./252863-hell-let-loose-devotion-to-duty.json) |
 | Hell Let Loose: Operation Overlord Units | 366854 | [366854-hell-let-loose-operation-overlord-units.json](./366854-hell-let-loose-operation-overlord-units.json) |
