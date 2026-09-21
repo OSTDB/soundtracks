@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lama Drama FPS | 122370 | [122370-lama-drama-fps.json](./122370-lama-drama-fps.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
 | Lambda Fortress | 345541 | [345541-lambda-fortress.json](./345541-lambda-fortress.json) |
+| Lambda Wars | 60785 | [60785-lambda-wars.json](./60785-lambda-wars.json) |
 | Lambdarune | 351685 | [351685-lambdarune.json](./351685-lambdarune.json) |
 | Lambo Jump | 234711 | [234711-lambo-jump.json](./234711-lambo-jump.json) |
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
@@ -3195,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lupin III Sansei: Cagliostro no Shiro Saikai | 302706 | [302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json](./302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json) |
 | Lupin III: Pandora no Isan | 76995 | [76995-lupin-iii-pandora-no-isan.json](./76995-lupin-iii-pandora-no-isan.json) |
 | Lupin the 3rd: The Shooting | 39594 | [39594-lupin-the-3rd-the-shooting.json](./39594-lupin-the-3rd-the-shooting.json) |
+| Lupin the 3rd: The Typing | 60791 | [60791-lupin-the-3rd-the-typing.json](./60791-lupin-the-3rd-the-typing.json) |
 | Lupin the Third Part III: Jigoku no Kyuushutsu Sakusen | 349409 | [349409-lupin-the-third-part-iii-jigoku-no-kyuushutsu-sakusen.json](./349409-lupin-the-third-part-iii-jigoku-no-kyuushutsu-sakusen.json) |
 | Lupin the Third Part III: Sanjou! Kogane no Ude | 349411 | [349411-lupin-the-third-part-iii-sanjou-kogane-no-ude.json](./349411-lupin-the-third-part-iii-sanjou-kogane-no-ude.json) |
 | Lupo Alberto: The VideoGame | 98958 | [98958-lupo-alberto-the-videogame.json](./98958-lupo-alberto-the-videogame.json) |
