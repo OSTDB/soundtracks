@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat Index | 338278 | [338278-heat-index.json](./338278-heat-index.json) |
 | Heat Racing | 227256 | [227256-heat-racing.json](./227256-heat-racing.json) |
 | Heat Reborn | 140590 | [140590-heat-reborn.json](./140590-heat-reborn.json) |
+| Heat Signature | 10160 | [10160-heat-signature.json](./10160-heat-signature.json) |
 | Heat wave | 180850 | [180850-heat-wave.json](./180850-heat-wave.json) |
 | Heat Wave | 336543 | [336543-heat-wave.json](./336543-heat-wave.json) |
 | Heatchain | 278404 | [278404-heatchain.json](./278404-heatchain.json) |
@@ -3013,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holyday City | 101933 | [101933-holyday-city.json](./101933-holyday-city.json) |
 | Holyday City: Reloaded | 76536 | [76536-holyday-city-reloaded.json](./76536-holyday-city-reloaded.json) |
 | Homaysa | 224223 | [224223-homaysa.json](./224223-homaysa.json) |
+| Home | 10142 | [10142-home.json](./10142-home.json) |
 | Home | 121014 | [121014-home.json](./121014-home.json) |
 | Home | 223477 | [223477-home.json](./223477-home.json) |
 | Home | 280198 | [280198-home.json](./280198-home.json) |
