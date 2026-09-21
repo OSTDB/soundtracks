@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanilla Sky | 274224 | [274224-vanilla-sky.json](./274224-vanilla-sky.json) |
 | Vanilla: Made to Order | 221718 | [221718-vanilla-made-to-order.json](./221718-vanilla-made-to-order.json) |
 | VanillaSugar | 356695 | [356695-vanillasugar.json](./356695-vanillasugar.json) |
+| Vanish | 28150 | [28150-vanish.json](./28150-vanish.json) |
 | Vanished Anniversary | 305366 | [305366-vanished-anniversary.json](./305366-vanished-anniversary.json) |
 | Vanished Maiden | 403042 | [403042-vanished-maiden.json](./403042-vanished-maiden.json) |
 | Vanishing Point: Tenshi no Kieta Machi | 308971 | [308971-vanishing-point-tenshi-no-kieta-machi.json](./308971-vanishing-point-tenshi-no-kieta-machi.json) |
