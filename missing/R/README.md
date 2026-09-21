@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnania HD | 109711 | [109711-ragnania-hd.json](./109711-ragnania-hd.json) |
 | Ragnar | 352296 | [352296-ragnar.json](./352296-ragnar.json) |
 | Ragnar's Chinese Memory Game | 156112 | [156112-ragnars-chinese-memory-game.json](./156112-ragnars-chinese-memory-game.json) |
+| Ragnarock | 139399 | [139399-ragnarock.json](./139399-ragnarock.json) |
 | Ragnarok Battle Offline: Extra Scenario 1 | 67953 | [67953-ragnarok-battle-offline-extra-scenario-1.json](./67953-ragnarok-battle-offline-extra-scenario-1.json) |
 | Ragnarok Battle Offline: Extra Scenario 2 | 67951 | [67951-ragnarok-battle-offline-extra-scenario-2.json](./67951-ragnarok-battle-offline-extra-scenario-2.json) |
 | Ragnarok Begins | 223978 | [223978-ragnarok-begins.json](./223978-ragnarok-begins.json) |
@@ -1647,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics: Dark Hours | 92494 | [92494-relics-dark-hours.json](./92494-relics-dark-hours.json) |
 | Relics: The 2nd Birth | 281393 | [281393-relics-the-2nd-birth.json](./281393-relics-the-2nd-birth.json) |
 | Relics: The Recur of Origin | 281392 | [281392-relics-the-recur-of-origin.json](./281392-relics-the-recur-of-origin.json) |
+| Relicta | 109742 | [109742-relicta.json](./109742-relicta.json) |
 | Relief | 404831 | [404831-relief.json](./404831-relief.json) |
 | Reliefs The Time of the Lemures | 95210 | [95210-reliefs-the-time-of-the-lemures.json](./95210-reliefs-the-time-of-the-lemures.json) |
 | ReLinked 0.26091975 | 345020 | [345020-relinked-0-26091975.json](./345020-relinked-0-26091975.json) |
