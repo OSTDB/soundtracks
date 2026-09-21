@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beaconfall | 411001 | [411001-beaconfall.json](./411001-beaconfall.json) |
 | Bead | 90636 | [90636-bead.json](./90636-bead.json) |
 | Beads of orange glass | 205106 | [205106-beads-of-orange-glass.json](./205106-beads-of-orange-glass.json) |
+| Beam Breakers | 24082 | [24082-beam-breakers.json](./24082-beam-breakers.json) |
 | Beam Cat | 224666 | [224666-beam-cat.json](./224666-beam-cat.json) |
 | Beam Driver | 360048 | [360048-beam-driver.json](./360048-beam-driver.json) |
 | Beam Invader | 255363 | [255363-beam-invader.json](./255363-beam-invader.json) |
@@ -5250,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buba | 120348 | [120348-buba.json](./120348-buba.json) |
 | Bubba Yuga | 383523 | [383523-bubba-yuga.json](./383523-bubba-yuga.json) |
 | Bubbits | 319971 | [319971-bubbits.json](./319971-bubbits.json) |
+| Bubblbrst | 24081 | [24081-bubblbrst.json](./24081-bubblbrst.json) |
 | Bubble | 287650 | [287650-bubble.json](./287650-bubble.json) |
 | Bubble | 88295 | [88295-bubble.json](./88295-bubble.json) |
 | Bubble Attack | 193993 | [193993-bubble-attack.json](./193993-bubble-attack.json) |
