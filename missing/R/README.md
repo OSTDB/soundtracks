@@ -2785,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
 | Rive: Blue Box Limited Edition | 202220 | [202220-rive-blue-box-limited-edition.json](./202220-rive-blue-box-limited-edition.json) |
 | Rive: Orange Box Limited Edition | 202219 | [202219-rive-orange-box-limited-edition.json](./202219-rive-orange-box-limited-edition.json) |
+| Riven: The Sequel to Myst | 238 | [238-riven-the-sequel-to-myst.json](./238-riven-the-sequel-to-myst.json) |
 | Riven: The Sequel to Myst | 339943 | [339943-riven-the-sequel-to-myst.json](./339943-riven-the-sequel-to-myst.json) |
 | Riven: The Sequel to Myst | 347131 | [347131-riven-the-sequel-to-myst.json](./347131-riven-the-sequel-to-myst.json) |
 | Rivengard | 142891 | [142891-rivengard.json](./142891-rivengard.json) |
