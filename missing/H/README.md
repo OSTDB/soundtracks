@@ -2032,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Pool | 40172 | [40172-hex-pool.json](./40172-hex-pool.json) |
 | Hex Racer | 259061 | [259061-hex-racer.json](./259061-hex-racer.json) |
 | Hex Rally Racers | 201251 | [201251-hex-rally-racers.json](./201251-hex-rally-racers.json) |
+| Hex Tetris | 61331 | [61331-hex-tetris.json](./61331-hex-tetris.json) |
 | Hex Tunnel Touch | 100602 | [100602-hex-tunnel-touch.json](./100602-hex-tunnel-touch.json) |
 | Hex Two | 102218 | [102218-hex-two.json](./102218-hex-two.json) |
 | Hexa | 114390 | [114390-hexa.json](./114390-hexa.json) |
@@ -3980,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hype: The Time Quest | 259642 | [259642-hype-the-time-quest.json](./259642-hype-the-time-quest.json) |
 | Hyper 2 | 319354 | [319354-hyper-2.json](./319354-hyper-2.json) |
 | Hyper Bishi Bashi Champ | 228466 | [228466-hyper-bishi-bashi-champ.json](./228466-hyper-bishi-bashi-champ.json) |
+| Hyper Black Bass '95 | 61349 | [61349-hyper-black-bass-95.json](./61349-hyper-black-bass-95.json) |
 | Hyper Chess | 353916 | [353916-hyper-chess.json](./353916-hyper-chess.json) |
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
 | Hyper Dimensional Basement Crawler | 177944 | [177944-hyper-dimensional-basement-crawler.json](./177944-hyper-dimensional-basement-crawler.json) |
