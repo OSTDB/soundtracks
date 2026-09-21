@@ -1246,6 +1246,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemies: Gone Suburban | 239649 | [239649-enemies-gone-suburban.json](./239649-enemies-gone-suburban.json) |
 | Enemy | 36034 | [36034-enemy.json](./36034-enemy.json) |
 | Enemy Engaged 2 | 20372 | [20372-enemy-engaged-2.json](./20372-enemy-engaged-2.json) |
+| Enemy Engaged: Apache vs Havoc | 20373 | [20373-enemy-engaged-apache-vs-havoc.json](./20373-enemy-engaged-apache-vs-havoc.json) |
+| Enemy Engaged: Comanche vs Hokum | 20374 | [20374-enemy-engaged-comanche-vs-hokum.json](./20374-enemy-engaged-comanche-vs-hokum.json) |
 | Enemy Engaged: RAH-66 Comanche vs. Ka-52 Hokum | 69858 | [69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json](./69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json) |
 | Enemy Front: Limited Edition | 323374 | [323374-enemy-front-limited-edition.json](./323374-enemy-front-limited-edition.json) |
 | Enemy Inside | 297089 | [297089-enemy-inside.json](./297089-enemy-inside.json) |
