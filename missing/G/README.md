@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G Warrior | 278666 | [278666-g-warrior.json](./278666-g-warrior.json) |
 | G-Darius | 39691 | [39691-g-darius.json](./39691-g-darius.json) |
 | G-Dino's Jungle Adventure | 101630 | [101630-g-dinos-jungle-adventure.json](./101630-g-dinos-jungle-adventure.json) |
+| G-Force | 4876 | [4876-g-force.json](./4876-g-force.json) |
 | G-Force Fighters | 243938 | [243938-g-force-fighters.json](./243938-g-force-fighters.json) |
 | G-Hell | 415093 | [415093-g-hell.json](./415093-g-hell.json) |
 | G-LOC R360 | 363982 | [363982-g-loc-r360.json](./363982-g-loc-r360.json) |
@@ -1982,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
 | Godspell Defender | 201667 | [201667-godspell-defender.json](./201667-godspell-defender.json) |
 | Godsworn | 213612 | [213612-godsworn.json](./213612-godsworn.json) |
+| Godus | 3115 | [3115-godus.json](./3115-godus.json) |
 | Godwalker | 260240 | [260240-godwalker.json](./260240-godwalker.json) |
 | Godzilla | 75888 | [75888-godzilla.json](./75888-godzilla.json) |
 | Godzilla | 75892 | [75892-godzilla.json](./75892-godzilla.json) |
@@ -2583,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Liberty City Stories | 309110 | [309110-grand-theft-auto-liberty-city-stories.json](./309110-grand-theft-auto-liberty-city-stories.json) |
 | Grand Theft Auto: Liberty City Stories | 3263 | [3263-grand-theft-auto-liberty-city-stories.json](./3263-grand-theft-auto-liberty-city-stories.json) |
 | Grand Theft Auto: Sindacco Chronicles | 256515 | [256515-grand-theft-auto-sindacco-chronicles.json](./256515-grand-theft-auto-sindacco-chronicles.json) |
+| Grand Theft Auto: The Trilogy | 5850 | [5850-grand-theft-auto-the-trilogy.json](./5850-grand-theft-auto-the-trilogy.json) |
 | Grand Theft Auto: Torcidas | 358395 | [358395-grand-theft-auto-torcidas.json](./358395-grand-theft-auto-torcidas.json) |
 | Grand Theft Auto: Vice City - The Definitive Edition | 178125 | [178125-grand-theft-auto-vice-city-the-definitive-edition.json](./178125-grand-theft-auto-vice-city-the-definitive-edition.json) |
 | Grand Theft Auto: Vice City Stories | 3262 | [3262-grand-theft-auto-vice-city-stories.json](./3262-grand-theft-auto-vice-city-stories.json) |
