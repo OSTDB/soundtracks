@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld Explorers | 336592 | [336592-underworld-explorers.json](./336592-underworld-explorers.json) |
 | Underworld Football Manager | 233739 | [233739-underworld-football-manager.json](./233739-underworld-football-manager.json) |
 | Underworld Island | 223455 | [223455-underworld-island.json](./223455-underworld-island.json) |
+| Underworld Overlord | 58490 | [58490-underworld-overlord.json](./58490-underworld-overlord.json) |
 | Underworld Re: Card | 213050 | [213050-underworld-re-card.json](./213050-underworld-re-card.json) |
 | Underworld Tycoon | 348764 | [348764-underworld-tycoon.json](./348764-underworld-tycoon.json) |
 | Underworld Unfinished Business 1: Recruiting Demon Smalls | 252207 | [252207-underworld-unfinished-business-1-recruiting-demon-smalls.json](./252207-underworld-unfinished-business-1-recruiting-demon-smalls.json) |
