@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloweenies | 352304 | [352304-halloweenies.json](./352304-halloweenies.json) |
 | Hallrunner | 135866 | [135866-hallrunner.json](./135866-hallrunner.json) |
 | Halls of Death | 229363 | [229363-halls-of-death.json](./229363-halls-of-death.json) |
+| Halls of Montezuma: A Battle History of the United States Marine Corps | 12432 | [12432-halls-of-montezuma-a-battle-history-of-the-united-states-marine-corps.json](./12432-halls-of-montezuma-a-battle-history-of-the-united-states-marine-corps.json) |
 | Halls of Nyarlathotep | 373660 | [373660-halls-of-nyarlathotep.json](./373660-halls-of-nyarlathotep.json) |
 | Halls of the Shambler God | 271313 | [271313-halls-of-the-shambler-god.json](./271313-halls-of-the-shambler-god.json) |
 | Halls of the Things | 45349 | [45349-halls-of-the-things.json](./45349-halls-of-the-things.json) |
@@ -621,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard-Life | 219809 | [219809-hard-life.json](./219809-hard-life.json) |
 | HardAF | 276839 | [276839-hardaf.json](./276839-hardaf.json) |
 | HardBall | 268448 | [268448-hardball.json](./268448-hardball.json) |
+| HardBall II | 12433 | [12433-hardball-ii.json](./12433-hardball-ii.json) |
 | HardBall! | 12136 | [12136-hardball.json](./12136-hardball.json) |
 | HardBoiledFarm | 255967 | [255967-hardboiledfarm.json](./255967-hardboiledfarm.json) |
 | HardCop 2 | 156681 | [156681-hardcop-2.json](./156681-hardcop-2.json) |
@@ -2621,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himmapan Marshmello Saga | 367516 | [367516-himmapan-marshmello-saga.json](./367516-himmapan-marshmello-saga.json) |
 | Himno 2 | 118169 | [118169-himno-2.json](./118169-himno-2.json) |
 | Himno: The Silent Melody | 120166 | [120166-himno-the-silent-melody.json](./120166-himno-the-silent-melody.json) |
+| Himouto! Umaru-chan: Umaru Training Plan | 12379 | [12379-himouto-umaru-chan-umaru-training-plan.json](./12379-himouto-umaru-chan-umaru-training-plan.json) |
 | Hina-chan Breaker: 2nd Break | 212293 | [212293-hina-chan-breaker-2nd-break.json](./212293-hina-chan-breaker-2nd-break.json) |
 | Hina-chan no Yakiniku Party | 208404 | [208404-hina-chan-no-yakiniku-party.json](./208404-hina-chan-no-yakiniku-party.json) |
 | Hina-chan's Sticker Survival | 315088 | [315088-hina-chans-sticker-survival.json](./315088-hina-chans-sticker-survival.json) |
