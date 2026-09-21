@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Cliffs of Dover Blitz | 80996 | [80996-il-2-sturmovik-cliffs-of-dover-blitz.json](./80996-il-2-sturmovik-cliffs-of-dover-blitz.json) |
 | IL-2 Sturmovik: Complete Edition | 23004 | [23004-il-2-sturmovik-complete-edition.json](./23004-il-2-sturmovik-complete-edition.json) |
 | IL-2 Sturmovik: Forgotten Battles | 755 | [755-il-2-sturmovik-forgotten-battles.json](./755-il-2-sturmovik-forgotten-battles.json) |
+| IL-2 Sturmovik: Forgotten Battles - Ace | 756 | [756-il-2-sturmovik-forgotten-battles-ace.json](./756-il-2-sturmovik-forgotten-battles-ace.json) |
 | IL-2 Sturmovik: Fortresses and Focke-Wulfs - Dieppe | 272376 | [272376-il-2-sturmovik-fortresses-and-focke-wulfs-dieppe.json](./272376-il-2-sturmovik-fortresses-and-focke-wulfs-dieppe.json) |
 | IL-2 Sturmovik: Great Battles | 125836 | [125836-il-2-sturmovik-great-battles.json](./125836-il-2-sturmovik-great-battles.json) |
 | IL-2 Sturmovik: Hell Hawks Over the Bulge Campaign | 267661 | [267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json](./267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json) |
