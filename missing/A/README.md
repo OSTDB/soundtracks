@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
 | An Adventurer's Gallantry | 238518 | [238518-an-adventurers-gallantry.json](./238518-an-adventurers-gallantry.json) |
 | An Afternoon Rippling | 122337 | [122337-an-afternoon-rippling.json](./122337-an-afternoon-rippling.json) |
+| An Alien with a Magnet | 34750 | [34750-an-alien-with-a-magnet.json](./34750-an-alien-with-a-magnet.json) |
 | An Alien with a Magnet HD | 90682 | [90682-an-alien-with-a-magnet-hd.json](./90682-an-alien-with-a-magnet-hd.json) |
 | An Alt Girl for Skoof | 298835 | [298835-an-alt-girl-for-skoof.json](./298835-an-alt-girl-for-skoof.json) |
 | An Altered State | 400881 | [400881-an-altered-state.json](./400881-an-altered-state.json) |
@@ -3702,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcis Ultima | 196231 | [196231-arcis-ultima.json](./196231-arcis-ultima.json) |
 | ArcLand | 141806 | [141806-arcland.json](./141806-arcland.json) |
 | Arclands | 156147 | [156147-arclands.json](./156147-arclands.json) |
+| Arclight Cascade | 34722 | [34722-arclight-cascade.json](./34722-arclight-cascade.json) |
 | Arco | 263903 | [263903-arco.json](./263903-arco.json) |
 | Arcobaleno! | 59394 | [59394-arcobaleno.json](./59394-arcobaleno.json) |
 | Arcostate | 412355 | [412355-arcostate.json](./412355-arcostate.json) |
