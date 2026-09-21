@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Innocence R: Limited Edition | 89870 | [89870-tales-of-innocence-r-limited-edition.json](./89870-tales-of-innocence-r-limited-edition.json) |
 | Tales of Klodan | 349328 | [349328-tales-of-klodan.json](./349328-tales-of-klodan.json) |
 | Tales of Lagoona: Orphans of the Ocean | 54424 | [54424-tales-of-lagoona-orphans-of-the-ocean.json](./54424-tales-of-lagoona-orphans-of-the-ocean.json) |
+| Tales of Legends IV: If | 55500 | [55500-tales-of-legends-iv-if.json](./55500-tales-of-legends-iv-if.json) |
 | Tales of Lost Ages Vol 1. | 298057 | [298057-tales-of-lost-ages-vol-1.json](./298057-tales-of-lost-ages-vol-1.json) |
 | Tales of Maj'Eyal: Embers of Rage | 51930 | [51930-tales-of-majeyal-embers-of-rage.json](./51930-tales-of-majeyal-embers-of-rage.json) |
 | Tales of Mathasia | 239743 | [239743-tales-of-mathasia.json](./239743-tales-of-mathasia.json) |
@@ -4045,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Shot: Arcades | 351723 | [351723-the-last-shot-arcades.json](./351723-the-last-shot-arcades.json) |
 | The Last Show of Mr. Chardish: Act I | 170386 | [170386-the-last-show-of-mr-chardish-act-i.json](./170386-the-last-show-of-mr-chardish-act-i.json) |
 | The Last Soldier | 109768 | [109768-the-last-soldier.json](./109768-the-last-soldier.json) |
+| The Last Sorcerer | 55479 | [55479-the-last-sorcerer.json](./55479-the-last-sorcerer.json) |
 | The Last Sorrow | 287643 | [287643-the-last-sorrow.json](./287643-the-last-sorrow.json) |
 | The Last Sphinx ARG | 111473 | [111473-the-last-sphinx-arg.json](./111473-the-last-sphinx-arg.json) |
 | The Last Stand | 148353 | [148353-the-last-stand.json](./148353-the-last-stand.json) |
@@ -5182,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rose Garden | 105113 | [105113-the-rose-garden.json](./105113-the-rose-garden.json) |
 | The Rose of Segunda | 101612 | [101612-the-rose-of-segunda.json](./101612-the-rose-of-segunda.json) |
 | The Rose Princess | 69308 | [69308-the-rose-princess.json](./69308-the-rose-princess.json) |
+| The Rosebud Condominium | 55505 | [55505-the-rosebud-condominium.json](./55505-the-rosebud-condominium.json) |
 | The Rot Below | 386847 | [386847-the-rot-below.json](./386847-the-rot-below.json) |
 | The Round-about Orchard | 386157 | [386157-the-round-about-orchard.json](./386157-the-round-about-orchard.json) |
 | The Route | 266320 | [266320-the-route.json](./266320-the-route.json) |
@@ -5623,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stickman | 341027 | [341027-the-stickman.json](./341027-the-stickman.json) |
 | The Sticky Plan | 183577 | [183577-the-sticky-plan.json](./183577-the-sticky-plan.json) |
 | The Sting! | 11851 | [11851-the-sting.json](./11851-the-sting.json) |
+| The Stone | 55448 | [55448-the-stone.json](./55448-the-stone.json) |
 | The Stone of Anamara: First Chapter | 186145 | [186145-the-stone-of-anamara-first-chapter.json](./186145-the-stone-of-anamara-first-chapter.json) |
 | The Stone of Destiny | 284322 | [284322-the-stone-of-destiny.json](./284322-the-stone-of-destiny.json) |
 | The Stone of God | 165659 | [165659-the-stone-of-god.json](./165659-the-stone-of-god.json) |
@@ -7814,6 +7818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Town VR | 51976 | [51976-tiny-town-vr.json](./51976-tiny-town-vr.json) |
 | Tiny Town VR: Zombie Pack | 170389 | [170389-tiny-town-vr-zombie-pack.json](./170389-tiny-town-vr-zombie-pack.json) |
 | Tiny Toy Tanks | 159849 | [159849-tiny-toy-tanks.json](./159849-tiny-toy-tanks.json) |
+| Tiny Toyfare | 55513 | [55513-tiny-toyfare.json](./55513-tiny-toyfare.json) |
 | Tiny Transit | 389957 | [389957-tiny-transit.json](./389957-tiny-transit.json) |
 | Tiny Tree Talk | 383977 | [383977-tiny-tree-talk.json](./383977-tiny-tree-talk.json) |
 | Tiny Troopers Joint Ops XL | 85443 | [85443-tiny-troopers-joint-ops-xl.json](./85443-tiny-troopers-joint-ops-xl.json) |
@@ -9008,6 +9013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers That Don't Like Each Other | 51997 | [51997-towers-that-dont-like-each-other.json](./51997-towers-that-dont-like-each-other.json) |
 | Towing Race | 239045 | [239045-towing-race.json](./239045-towing-race.json) |
 | Towing Simulator | 9451 | [9451-towing-simulator.json](./9451-towing-simulator.json) |
+| Town Doubt | 55470 | [55470-town-doubt.json](./55470-town-doubt.json) |
 | Town Hall Toaster | 71463 | [71463-town-hall-toaster.json](./71463-town-hall-toaster.json) |
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
 | Town of Host | 224196 | [224196-town-of-host.json](./224196-town-of-host.json) |
@@ -9088,6 +9094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toymaker: Threads of Joy | 388917 | [388917-toymaker-threads-of-joy.json](./388917-toymaker-threads-of-joy.json) |
 | Toypunk | 403575 | [403575-toypunk.json](./403575-toypunk.json) |
 | Toys Dream | 82822 | [82822-toys-dream.json](./82822-toys-dream.json) |
+| Toys Gun Fire Boom | 55467 | [55467-toys-gun-fire-boom.json](./55467-toys-gun-fire-boom.json) |
 | Toys Jigsaw Puzzle | 100748 | [100748-toys-jigsaw-puzzle.json](./100748-toys-jigsaw-puzzle.json) |
 | Toys Moto | 107664 | [107664-toys-moto.json](./107664-toys-moto.json) |
 | Toys vs. Monsters | 85451 | [85451-toys-vs-monsters.json](./85451-toys-vs-monsters.json) |
@@ -10721,6 +10728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Bill | 130868 | [130868-twin-bill.json](./130868-twin-bill.json) |
 | Twin Blades of the Three Kingdoms | 202761 | [202761-twin-blades-of-the-three-kingdoms.json](./202761-twin-blades-of-the-three-kingdoms.json) |
 | Twin Breaker: A Sacred Symbols Adventure | 130613 | [130613-twin-breaker-a-sacred-symbols-adventure.json](./130613-twin-breaker-a-sacred-symbols-adventure.json) |
+| Twin Brothers | 55473 | [55473-twin-brothers.json](./55473-twin-brothers.json) |
 | Twin Calibre: 688 Attack Sub + Chuck Yeager's Air Combat | 86086 | [86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json](./86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json) |
 | Twin Cards | 277866 | [277866-twin-cards.json](./277866-twin-cards.json) |
 | Twin Circle | 192299 | [192299-twin-circle.json](./192299-twin-circle.json) |
