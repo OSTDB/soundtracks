@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aashaa | 232969 | [232969-aashaa.json](./232969-aashaa.json) |
 | Aatral | 264106 | [264106-aatral.json](./264106-aatral.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
+| Abadox: The Deadly Inner War | 7903 | [7903-abadox-the-deadly-inner-war.json](./7903-abadox-the-deadly-inner-war.json) |
 | Abalone | 9939 | [9939-abalone.json](./9939-abalone.json) |
 | Aban Hawkins & the 1000 Spikes | 91756 | [91756-aban-hawkins-and-the-1000-spikes.json](./91756-aban-hawkins-and-the-1000-spikes.json) |
 | Abandon: The Town | 268033 | [268033-abandon-the-town.json](./268033-abandon-the-town.json) |
@@ -693,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
 | Adam and Eve: The Game - Chapter 1 | 33513 | [33513-adam-and-eve-the-game-chapter-1.json](./33513-adam-and-eve-the-game-chapter-1.json) |
+| Adam's Venture: Origins | 16298 | [16298-adams-venture-origins.json](./16298-adams-venture-origins.json) |
 | Adanath | 219701 | [219701-adanath.json](./219701-adanath.json) |
 | Adapta Solva | 283893 | [283893-adapta-solva.json](./283893-adapta-solva.json) |
 | Adarin Farm | 187408 | [187408-adarin-farm.json](./187408-adarin-farm.json) |
@@ -1008,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gods: Equinox Campaign | 399094 | [399094-age-of-gods-equinox-campaign.json](./399094-age-of-gods-equinox-campaign.json) |
 | Age of Heroes II: Underground Horror | 320973 | [320973-age-of-heroes-ii-underground-horror.json](./320973-age-of-heroes-ii-underground-horror.json) |
 | Age of Heroes: The Beginning | 187985 | [187985-age-of-heroes-the-beginning.json](./187985-age-of-heroes-the-beginning.json) |
+| Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
 | Age of Sokoban | 152157 | [152157-age-of-sokoban.json](./152157-age-of-sokoban.json) |
 | Age of Talisman | 26954 | [26954-age-of-talisman.json](./26954-age-of-talisman.json) |
 | Age of Time | 254542 | [254542-age-of-time.json](./254542-age-of-time.json) |
@@ -2298,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Zombie: Election Year | 130325 | [130325-american-zombie-election-year.json](./130325-american-zombie-election-year.json) |
 | Americas Greatest Games | 206113 | [206113-americas-greatest-games.json](./206113-americas-greatest-games.json) |
 | Americas Tower Simulator | 224756 | [224756-americas-tower-simulator.json](./224756-americas-tower-simulator.json) |
+| Amerzone: The Explorer's Legacy | 11091 | [11091-amerzone-the-explorers-legacy.json](./11091-amerzone-the-explorers-legacy.json) |
 | Amerzone: The Explorer's Legacy - Limited Edition | 292145 | [292145-amerzone-the-explorers-legacy-limited-edition.json](./292145-amerzone-the-explorers-legacy-limited-edition.json) |
 | Amethlion | 105771 | [105771-amethlion.json](./105771-amethlion.json) |
 | Amethyst Hearth | 194410 | [194410-amethyst-hearth.json](./194410-amethyst-hearth.json) |
@@ -4191,6 +4195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
 | Art of Glide II | 306530 | [306530-art-of-glide-ii.json](./306530-art-of-glide-ii.json) |
 | Art of Guile | 26721 | [26721-art-of-guile.json](./26721-art-of-guile.json) |
+| Art of Murder: FBI Confidential | 9986 | [9986-art-of-murder-fbi-confidential.json](./9986-art-of-murder-fbi-confidential.json) |
 | Art of Not Getting Found | 180670 | [180670-art-of-not-getting-found.json](./180670-art-of-not-getting-found.json) |
 | Art of Rally: Australia | 275115 | [275115-art-of-rally-australia.json](./275115-art-of-rally-australia.json) |
 | Art of Rally: Deluxe Edition | 155074 | [155074-art-of-rally-deluxe-edition.json](./155074-art-of-rally-deluxe-edition.json) |
@@ -4569,6 +4574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
 | Asterix & Obelix: Kick Buttix | 3789 | [3789-asterix-and-obelix-kick-buttix.json](./3789-asterix-and-obelix-kick-buttix.json) |
+| Astérix and the Great Rescue | 8501 | [8501-asterix-and-the-great-rescue.json](./8501-asterix-and-the-great-rescue.json) |
 | Asterix and the Magic Carpet | 14272 | [14272-asterix-and-the-magic-carpet.json](./14272-asterix-and-the-magic-carpet.json) |
 | Astérix and the Secret Mission | 12888 | [12888-asterix-and-the-secret-mission.json](./12888-asterix-and-the-secret-mission.json) |
 | Asterix Brain Trainer | 67236 | [67236-asterix-brain-trainer.json](./67236-asterix-brain-trainer.json) |
@@ -4873,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream | 172822 | [172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json](./172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Digital Deluxe Edition | 221266 | [221266-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-digital-deluxe-edition.json](./221266-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-digital-deluxe-edition.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Extra Area: Atelier Plachta | 199509 | [199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json](./199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json) |
+| Atelier Totori: The Adventurer of Arland | 7276 | [7276-atelier-totori-the-adventurer-of-arland.json](./7276-atelier-totori-the-adventurer-of-arland.json) |
 | Atelier Yumia: Fantasy Academy Costume Set | 356743 | [356743-atelier-yumia-fantasy-academy-costume-set.json](./356743-atelier-yumia-fantasy-academy-costume-set.json) |
 | Atelier Yumia: The Art of Aladiss Expansion Pack | 356745 | [356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json](./356745-atelier-yumia-the-art-of-aladiss-expansion-pack.json) |
 | Atelier: The Alchemist of Arland 1-2-3 DX - Premium Box | 167138 | [167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json](./167138-atelier-the-alchemist-of-arland-1-2-3-dx-premium-box.json) |
