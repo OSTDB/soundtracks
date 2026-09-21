@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted Waters Online | 102570 | [102570-uncharted-waters-online.json](./102570-uncharted-waters-online.json) |
 | Uncharted Waters: New Horizons | 102810 | [102810-uncharted-waters-new-horizons.json](./102810-uncharted-waters-new-horizons.json) |
 | Uncharted Waters: New Horizons | 38412 | [38412-uncharted-waters-new-horizons.json](./38412-uncharted-waters-new-horizons.json) |
+| Uncharted Waters: New Horizons | 45539 | [45539-uncharted-waters-new-horizons.json](./45539-uncharted-waters-new-horizons.json) |
 | Uncharted World | 310188 | [310188-uncharted-world.json](./310188-uncharted-world.json) |
 | Unclaimed World | 17130 | [17130-unclaimed-world.json](./17130-unclaimed-world.json) |
 | Uncle and His Friend | 393612 | [393612-uncle-and-his-friend.json](./393612-uncle-and-his-friend.json) |
