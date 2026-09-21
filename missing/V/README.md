@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valley of No Roads | 152163 | [152163-valley-of-no-roads.json](./152163-valley-of-no-roads.json) |
 | Valley of Shadow | 164970 | [164970-valley-of-shadow.json](./164970-valley-of-shadow.json) |
 | Valley of Stars | 338576 | [338576-valley-of-stars.json](./338576-valley-of-stars.json) |
+| Valley of the Crescent Mountain | 56160 | [56160-valley-of-the-crescent-mountain.json](./56160-valley-of-the-crescent-mountain.json) |
 | Valley of the Moon | 184485 | [184485-valley-of-the-moon.json](./184485-valley-of-the-moon.json) |
 | Valley of Tribes | 338575 | [338575-valley-of-tribes.json](./338575-valley-of-tribes.json) |
 | Valley of Unicorns | 24948 | [24948-valley-of-unicorns.json](./24948-valley-of-unicorns.json) |
