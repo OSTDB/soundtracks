@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play! Oink Games - Complete Edition | 315859 | [315859-lets-play-oink-games-complete-edition.json](./315859-lets-play-oink-games-complete-edition.json) |
 | Let's Play! Oink Games: Rafter Five | 275559 | [275559-lets-play-oink-games-rafter-five.json](./275559-lets-play-oink-games-rafter-five.json) |
 | Let's Quip | 61896 | [61896-lets-quip.json](./61896-lets-quip.json) |
+| Let's Ride! Silver Buckle Stables | 43522 | [43522-lets-ride-silver-buckle-stables.json](./43522-lets-ride-silver-buckle-stables.json) |
 | Let's Ride!: Dreamer | 49396 | [49396-lets-ride-dreamer.json](./49396-lets-ride-dreamer.json) |
 | Let's Ride!: Sunshine Stables | 49395 | [49395-lets-ride-sunshine-stables.json](./49395-lets-ride-sunshine-stables.json) |
 | Let's See What You Got | 124768 | [124768-lets-see-what-you-got.json](./124768-lets-see-what-you-got.json) |
@@ -2959,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lower? Higher! | 303640 | [303640-lower-higher.json](./303640-lower-higher.json) |
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
+| Lowrider | 43550 | [43550-lowrider.json](./43550-lowrider.json) |
 | Lowrider Hopping | 287087 | [287087-lowrider-hopping.json](./287087-lowrider-hopping.json) |
 | Lows Adventures | 214489 | [214489-lows-adventures.json](./214489-lows-adventures.json) |
 | Lowtide | 265981 | [265981-lowtide.json](./265981-lowtide.json) |
