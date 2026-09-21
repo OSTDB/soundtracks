@@ -8098,6 +8098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Memorial | 72984 | [72984-tokimeki-memorial.json](./72984-tokimeki-memorial.json) |
 | Tokimeki Memorial Girl's Side | 72670 | [72670-tokimeki-memorial-girls-side.json](./72670-tokimeki-memorial-girls-side.json) |
 | Tokimeki Memorial Girl's Side Triple Pack | 109045 | [109045-tokimeki-memorial-girls-side-triple-pack.json](./109045-tokimeki-memorial-girls-side-triple-pack.json) |
+| Tokimeki Memorial: Forever With You | 50129 | [50129-tokimeki-memorial-forever-with-you.json](./50129-tokimeki-memorial-forever-with-you.json) |
 | Tokimeki Restaurant | 140385 | [140385-tokimeki-restaurant.json](./140385-tokimeki-restaurant.json) |
 | Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
 | Tokimeter | 322951 | [322951-tokimeter.json](./322951-tokimeter.json) |
@@ -9674,6 +9675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Swayfield Branch | 298149 | [298149-trainz-railroad-simulator-2022-swayfield-branch.json](./298149-trainz-railroad-simulator-2022-swayfield-branch.json) |
 | Trainz Railroad Simulator 2022: The Indian Pacific | 230954 | [230954-trainz-railroad-simulator-2022-the-indian-pacific.json](./230954-trainz-railroad-simulator-2022-the-indian-pacific.json) |
 | Trainz Simulator 12: Aerotrain | 161737 | [161737-trainz-simulator-12-aerotrain.json](./161737-trainz-simulator-12-aerotrain.json) |
+| Trainz Simulator 2009 | 50112 | [50112-trainz-simulator-2009.json](./50112-trainz-simulator-2009.json) |
 | Trainz Simulator 2009: Settle and Carlisle | 27898 | [27898-trainz-simulator-2009-settle-and-carlisle.json](./27898-trainz-simulator-2009-settle-and-carlisle.json) |
 | Trainz Simulator 2009: World Builder Edition | 11016 | [11016-trainz-simulator-2009-world-builder-edition.json](./11016-trainz-simulator-2009-world-builder-edition.json) |
 | Trainz Simulator 2010: Engineers Edition | 11017 | [11017-trainz-simulator-2010-engineers-edition.json](./11017-trainz-simulator-2010-engineers-edition.json) |
@@ -9938,6 +9940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of Big Totem 8 | 315267 | [315267-treasure-of-big-totem-8.json](./315267-treasure-of-big-totem-8.json) |
 | Treasure Of The Giantess | 271275 | [271275-treasure-of-the-giantess.json](./271275-treasure-of-the-giantess.json) |
 | Treasure Quest | 100213 | [100213-treasure-quest.json](./100213-treasure-quest.json) |
+| Treasure Quest | 50132 | [50132-treasure-quest.json](./50132-treasure-quest.json) |
 | Treasure Raiders: Zombie Crisis | 82152 | [82152-treasure-raiders-zombie-crisis.json](./82152-treasure-raiders-zombie-crisis.json) |
 | Treasure Rangers | 153445 | [153445-treasure-rangers.json](./153445-treasure-rangers.json) |
 | Treasure Rush: Phantom Infiltration | 386293 | [386293-treasure-rush-phantom-infiltration.json](./386293-treasure-rush-phantom-infiltration.json) |
