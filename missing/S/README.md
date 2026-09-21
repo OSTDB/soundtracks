@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanrio Characters Miracle Match: Magical Onigokko | 334648 | [334648-sanrio-characters-miracle-match-magical-onigokko.json](./334648-sanrio-characters-miracle-match-magical-onigokko.json) |
 | Sanrio Danshi: Watashi, Koi Wo, Shirimashita | 229031 | [229031-sanrio-danshi-watashi-koi-wo-shirimashita.json](./229031-sanrio-danshi-watashi-koi-wo-shirimashita.json) |
 | Sanrio Timenet World | 302682 | [302682-sanrio-timenet-world.json](./302682-sanrio-timenet-world.json) |
+| Sanrio World Smash Ball! | 3692 | [3692-sanrio-world-smash-ball.json](./3692-sanrio-world-smash-ball.json) |
 | Sanrio World: Kero Kero Keroppi no Bouken Nikki | 37964 | [37964-sanrio-world-kero-kero-keroppi-no-bouken-nikki.json](./37964-sanrio-world-kero-kero-keroppi-no-bouken-nikki.json) |
 | Sans & Papyrus: Salsa Lesson | 367395 | [367395-sans-and-papyrus-salsa-lesson.json](./367395-sans-and-papyrus-salsa-lesson.json) |
 | Sansara Naga 1 | 341472 | [341472-sansara-naga-1.json](./341472-sansara-naga-1.json) |
@@ -1464,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seawolf | 78987 | [78987-seawolf.json](./78987-seawolf.json) |
 | Seawolf + Missile | 139470 | [139470-seawolf-missile.json](./139470-seawolf-missile.json) |
 | SeaWolf VR | 196676 | [196676-seawolf-vr.json](./196676-seawolf-vr.json) |
+| SeaWorld Adventure Park: Shamu's Deep Sea Adventures | 4099 | [4099-seaworld-adventure-park-shamus-deep-sea-adventures.json](./4099-seaworld-adventure-park-shamus-deep-sea-adventures.json) |
 | SeaWorld Adventure Park: Shamu's Deep Sea Adventures | 50565 | [50565-seaworld-adventure-park-shamus-deep-sea-adventures.json](./50565-seaworld-adventure-park-shamus-deep-sea-adventures.json) |
 | SeaWorld Adventure Parks Tycoon | 73288 | [73288-seaworld-adventure-parks-tycoon.json](./73288-seaworld-adventure-parks-tycoon.json) |
 | Sebastian's Quest | 329038 | [329038-sebastians-quest.json](./329038-sebastians-quest.json) |
@@ -2429,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
 | Shaman King: Master of Spirits | 6590 | [6590-shaman-king-master-of-spirits.json](./6590-shaman-king-master-of-spirits.json) |
+| Shaman King: Spirit of Shamans | 4120 | [4120-shaman-king-spirit-of-shamans.json](./4120-shaman-king-spirit-of-shamans.json) |
 | Shaman Odyssey: Tropic Adventure | 10821 | [10821-shaman-odyssey-tropic-adventure.json](./10821-shaman-odyssey-tropic-adventure.json) |
 | Shaman: Spirithunter | 110281 | [110281-shaman-spirithunter.json](./110281-shaman-spirithunter.json) |
 | Shambles | 139259 | [139259-shambles.json](./139259-shambles.json) |
@@ -2604,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered: The Final Days | 248048 | [248048-shattered-the-final-days.json](./248048-shattered-the-final-days.json) |
 | Shatterhold | 406135 | [406135-shatterhold.json](./406135-shatterhold.json) |
 | Shatterspace | 197395 | [197395-shatterspace.json](./197395-shatterspace.json) |
+| Shaun Palmer's Pro Snowboarder | 3995 | [3995-shaun-palmers-pro-snowboarder.json](./3995-shaun-palmers-pro-snowboarder.json) |
 | Shaun the Sheep | 68942 | [68942-shaun-the-sheep.json](./68942-shaun-the-sheep.json) |
 | Shaun the Sheep: Shear Speed | 207861 | [207861-shaun-the-sheep-shear-speed.json](./207861-shaun-the-sheep-shear-speed.json) |
 | Shaun White Skateboarding | 5151 | [5151-shaun-white-skateboarding.json](./5151-shaun-white-skateboarding.json) |
