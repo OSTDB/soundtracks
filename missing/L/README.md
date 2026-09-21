@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like a Dragon: Infinite Wealth - Special Outfit: Hello Work Employee (Ichiban) | 288221 | [288221-like-a-dragon-infinite-wealth-special-outfit-hello-work-employee-ichiban.json](./288221-like-a-dragon-infinite-wealth-special-outfit-hello-work-employee-ichiban.json) |
 | Like a Dragon: Infinite Wealth - Yakuza CD Collection Set | 288218 | [288218-like-a-dragon-infinite-wealth-yakuza-cd-collection-set.json](./288218-like-a-dragon-infinite-wealth-yakuza-cd-collection-set.json) |
 | Like a Dragon: Pirate Yakuza in Hawaii - Collector's Edition | 327838 | [327838-like-a-dragon-pirate-yakuza-in-hawaii-collectors-edition.json](./327838-like-a-dragon-pirate-yakuza-in-hawaii-collectors-edition.json) |
+| Like a Fashionista | 39190 | [39190-like-a-fashionista.json](./39190-like-a-fashionista.json) |
 | Like a Hot Knife Through Butter | 223127 | [223127-like-a-hot-knife-through-butter.json](./223127-like-a-hot-knife-through-butter.json) |
 | Like A Normal Fish | 360073 | [360073-like-a-normal-fish.json](./360073-like-a-normal-fish.json) |
 | Like a Pizza | 208933 | [208933-like-a-pizza.json](./208933-like-a-pizza.json) |
