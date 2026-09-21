@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T01:02:49.707Z",
-  "total_missing": 99521,
+  "generated_at": "2026-09-21T01:17:38.316Z",
+  "total_missing": 99571,
   "games": [
     {
       "igdb_id": 176875,
@@ -5373,6 +5373,11 @@
       "file": "missing/A/52563-a-show-of-hands.json"
     },
     {
+      "igdb_id": 61318,
+      "game_name": "A Silent Wood",
+      "file": "missing/A/61318-a-silent-wood.json"
+    },
+    {
       "igdb_id": 311647,
       "game_name": "A Simple Door",
       "file": "missing/A/311647-a-simple-door.json"
@@ -7533,6 +7538,11 @@
       "file": "missing/A/79572-adk-damashii.json"
     },
     {
+      "igdb_id": 61322,
+      "game_name": "ADK World",
+      "file": "missing/A/61322-adk-world.json"
+    },
+    {
       "igdb_id": 112303,
       "game_name": "Adlib",
       "file": "missing/A/112303-adlib.json"
@@ -8771,6 +8781,11 @@
       "igdb_id": 207506,
       "game_name": "Age of Barbarians Chronicles",
       "file": "missing/A/207506-age-of-barbarians-chronicles.json"
+    },
+    {
+      "igdb_id": 61332,
+      "game_name": "Age of Booty: Tactics",
+      "file": "missing/A/61332-age-of-booty-tactics.json"
     },
     {
       "igdb_id": 193934,
@@ -101568,6 +101583,11 @@
       "file": "missing/D/221988-denpa-ningen-no-rpg-3.json"
     },
     {
+      "igdb_id": 61348,
+      "game_name": "Denpa Ningen no RPG Free!",
+      "file": "missing/D/61348-denpa-ningen-no-rpg-free.json"
+    },
+    {
       "igdb_id": 282009,
       "game_name": "Dense forest",
       "file": "missing/D/282009-dense-forest.json"
@@ -111118,6 +111138,11 @@
       "file": "missing/D/248057-donkey-racing.json"
     },
     {
+      "igdb_id": 61341,
+      "game_name": "Donkey Xote",
+      "file": "missing/D/61341-donkey-xote.json"
+    },
+    {
       "igdb_id": 19382,
       "game_name": "Donkey.Bas",
       "file": "missing/D/19382-donkey-bas.json"
@@ -111996,6 +112021,11 @@
       "igdb_id": 275902,
       "game_name": "Doppelgänger",
       "file": "missing/D/275902-doppelganger.json"
+    },
+    {
+      "igdb_id": 61306,
+      "game_name": "Doppelganger: Dawn of the Inverted Souls",
+      "file": "missing/D/61306-doppelganger-dawn-of-the-inverted-souls.json"
     },
     {
       "igdb_id": 288228,
@@ -121018,6 +121048,26 @@
       "file": "missing/D/297087-dynamite-it.json"
     },
     {
+      "igdb_id": 61336,
+      "game_name": "Dynamite Soccer 2000",
+      "file": "missing/D/61336-dynamite-soccer-2000.json"
+    },
+    {
+      "igdb_id": 61340,
+      "game_name": "Dynamite Soccer 2002",
+      "file": "missing/D/61340-dynamite-soccer-2002.json"
+    },
+    {
+      "igdb_id": 61335,
+      "game_name": "Dynamite Soccer 2004 Final",
+      "file": "missing/D/61335-dynamite-soccer-2004-final.json"
+    },
+    {
+      "igdb_id": 61337,
+      "game_name": "Dynamite Soccer 98",
+      "file": "missing/D/61337-dynamite-soccer-98.json"
+    },
+    {
       "igdb_id": 413035,
       "game_name": "Dynamo Frank",
       "file": "missing/D/413035-dynamo-frank.json"
@@ -124906,6 +124956,11 @@
       "igdb_id": 71801,
       "game_name": "Elf Bowling 6: Air Biscuits",
       "file": "missing/E/71801-elf-bowling-6-air-biscuits.json"
+    },
+    {
+      "igdb_id": 61343,
+      "game_name": "Elf Bowling: Collector's Edition",
+      "file": "missing/E/61343-elf-bowling-collectors-edition.json"
     },
     {
       "igdb_id": 114356,
@@ -132001,6 +132056,11 @@
       "igdb_id": 14911,
       "game_name": "Everyday Shooter",
       "file": "missing/E/14911-everyday-shooter.json"
+    },
+    {
+      "igdb_id": 61342,
+      "game_name": "Everyday Soccer",
+      "file": "missing/E/61342-everyday-soccer.json"
     },
     {
       "igdb_id": 127684,
@@ -147083,6 +147143,11 @@
       "file": "missing/F/88759-flippy.json"
     },
     {
+      "igdb_id": 61309,
+      "game_name": "Flippy Bard",
+      "file": "missing/F/61309-flippy-bard.json"
+    },
+    {
       "igdb_id": 104471,
       "game_name": "Flippy Boat",
       "file": "missing/F/104471-flippy-boat.json"
@@ -157318,6 +157383,11 @@
       "file": "missing/G/74231-gaias-melody-echoed-melodies.json"
     },
     {
+      "igdb_id": 61316,
+      "game_name": "Gaiabreaker",
+      "file": "missing/G/61316-gaiabreaker.json"
+    },
+    {
       "igdb_id": 318761,
       "game_name": "Gaiadon: Eternal Quest",
       "file": "missing/G/318761-gaiadon-eternal-quest.json"
@@ -160756,6 +160826,11 @@
       "igdb_id": 83244,
       "game_name": "Gekiden Youitan: Ep.1",
       "file": "missing/G/83244-gekiden-youitan-ep-1.json"
+    },
+    {
+      "igdb_id": 61346,
+      "game_name": "Gekifu Bakegyamon: Ayakashi Fighting",
+      "file": "missing/G/61346-gekifu-bakegyamon-ayakashi-fighting.json"
     },
     {
       "igdb_id": 70665,
@@ -170191,6 +170266,11 @@
       "igdb_id": 66718,
       "game_name": "Great Invasions: The Darkages 350-1066 AD",
       "file": "missing/G/66718-great-invasions-the-darkages-350-1066-ad.json"
+    },
+    {
+      "igdb_id": 61321,
+      "game_name": "Great Little War Game 2",
+      "file": "missing/G/61321-great-little-war-game-2.json"
     },
     {
       "igdb_id": 73267,
@@ -184673,6 +184753,11 @@
       "file": "missing/H/201251-hex-rally-racers.json"
     },
     {
+      "igdb_id": 61331,
+      "game_name": "Hex Tetris",
+      "file": "missing/H/61331-hex-tetris.json"
+    },
+    {
       "igdb_id": 100602,
       "game_name": "Hex Tunnel Touch",
       "file": "missing/H/100602-hex-tunnel-touch.json"
@@ -194411,6 +194496,11 @@
       "igdb_id": 228466,
       "game_name": "Hyper Bishi Bashi Champ",
       "file": "missing/H/228466-hyper-bishi-bashi-champ.json"
+    },
+    {
+      "igdb_id": 61349,
+      "game_name": "Hyper Black Bass '95",
+      "file": "missing/H/61349-hyper-black-bass-95.json"
     },
     {
       "igdb_id": 353916,
@@ -208513,6 +208603,11 @@
       "file": "missing/J/224635-jet-dancer.json"
     },
     {
+      "igdb_id": 61334,
+      "game_name": "Jet de GO! Let's Go By Airliner",
+      "file": "missing/J/61334-jet-de-go-lets-go-by-airliner.json"
+    },
+    {
       "igdb_id": 85208,
       "game_name": "Jet Dog",
       "file": "missing/J/85208-jet-dog.json"
@@ -219821,6 +219916,11 @@
       "igdb_id": 97872,
       "game_name": "Kiwame Mahjong DX II",
       "file": "missing/K/97872-kiwame-mahjong-dx-ii.json"
+    },
+    {
+      "igdb_id": 61305,
+      "game_name": "Kiwanuka",
+      "file": "missing/K/61305-kiwanuka.json"
     },
     {
       "igdb_id": 186256,
@@ -241708,6 +241808,11 @@
       "file": "missing/M/145447-magical-battle-arena.json"
     },
     {
+      "igdb_id": 61320,
+      "game_name": "Magical Battle Arena: Complete Form",
+      "file": "missing/M/61320-magical-battle-arena-complete-form.json"
+    },
+    {
       "igdb_id": 52549,
       "game_name": "Magical Beat",
       "file": "missing/M/52549-magical-beat.json"
@@ -242508,6 +242613,11 @@
       "file": "missing/M/31988-mahluk-dark-demon.json"
     },
     {
+      "igdb_id": 61330,
+      "game_name": "Maho Shojo Pretty Sammy: Heart no Kimochi",
+      "file": "missing/M/61330-maho-shojo-pretty-sammy-heart-no-kimochi.json"
+    },
+    {
       "igdb_id": 328053,
       "game_name": "Mahogen",
       "file": "missing/M/328053-mahogen.json"
@@ -242536,6 +242646,11 @@
       "igdb_id": 131375,
       "game_name": "Mahou no Tenshi Creamy Mami: Futatsu no Sekai no Monogatari",
       "file": "missing/M/131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json"
+    },
+    {
+      "igdb_id": 61329,
+      "game_name": "Mahou Shoujo Pretty Sammy: Osorubeshi Shintai Sokutei! Kakubakuhatsu 5 Byou Mae!!",
+      "file": "missing/M/61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json"
     },
     {
       "igdb_id": 108956,
@@ -256793,6 +256908,11 @@
       "file": "missing/M/344342-midnightnears.json"
     },
     {
+      "igdb_id": 61307,
+      "game_name": "Midora",
+      "file": "missing/M/61307-midora.json"
+    },
+    {
       "igdb_id": 339121,
       "game_name": "Midori Budou-den",
       "file": "missing/M/339121-midori-budou-den.json"
@@ -257071,6 +257191,11 @@
       "igdb_id": 60575,
       "game_name": "Mikagura Shoujo Tanteidan",
       "file": "missing/M/60575-mikagura-shoujo-tanteidan.json"
+    },
+    {
+      "igdb_id": 61313,
+      "game_name": "Mikan",
+      "file": "missing/M/61313-mikan.json"
     },
     {
       "igdb_id": 150055,
@@ -261158,6 +261283,11 @@
       "file": "missing/M/243137-mlb-9-innings-23.json"
     },
     {
+      "igdb_id": 61354,
+      "game_name": "MLB Ballpark Empire",
+      "file": "missing/M/61354-mlb-ballpark-empire.json"
+    },
+    {
       "igdb_id": 20562,
       "game_name": "MLB Bobblehead Pros",
       "file": "missing/M/20562-mlb-bobblehead-pros.json"
@@ -261251,6 +261381,16 @@
       "igdb_id": 390533,
       "game_name": "MLB The Show 26: Digital Deluxe Edition",
       "file": "missing/M/390533-mlb-the-show-26-digital-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 61355,
+      "game_name": "MLB.com Franchise MVP",
+      "file": "missing/M/61355-mlb-com-franchise-mvp.json"
+    },
+    {
+      "igdb_id": 61357,
+      "game_name": "MLB.com Home Run Derby 14",
+      "file": "missing/M/61357-mlb-com-home-run-derby-14.json"
     },
     {
       "igdb_id": 43242,
@@ -269896,6 +270036,11 @@
       "igdb_id": 208967,
       "game_name": "Musketeer Growth",
       "file": "missing/M/208967-musketeer-growth.json"
+    },
+    {
+      "igdb_id": 61315,
+      "game_name": "MuSquare",
+      "file": "missing/M/61315-musquare.json"
     },
     {
       "igdb_id": 223434,
@@ -307243,6 +307388,11 @@
       "file": "missing/P/344963-pinball-sniper.json"
     },
     {
+      "igdb_id": 61308,
+      "game_name": "Pinball Spectacular",
+      "file": "missing/P/61308-pinball-spectacular.json"
+    },
+    {
       "igdb_id": 377720,
       "game_name": "Pinball Strike Arcade Rampage",
       "file": "missing/P/377720-pinball-strike-arcade-rampage.json"
@@ -308386,6 +308536,11 @@
       "igdb_id": 317582,
       "game_name": "Pixadom",
       "file": "missing/P/317582-pixadom.json"
+    },
+    {
+      "igdb_id": 61310,
+      "game_name": "Pixalo",
+      "file": "missing/P/61310-pixalo.json"
     },
     {
       "igdb_id": 388011,
@@ -313641,6 +313796,11 @@
       "igdb_id": 277568,
       "game_name": "Poker Club: Gold Edition",
       "file": "missing/P/277568-poker-club-gold-edition.json"
+    },
+    {
+      "igdb_id": 61338,
+      "game_name": "Poker Dice Solitaire Future",
+      "file": "missing/P/61338-poker-dice-solitaire-future.json"
     },
     {
       "igdb_id": 146691,
@@ -319306,6 +319466,11 @@
       "igdb_id": 172103,
       "game_name": "Professional Farmer 2017: Cattle & Cultivation",
       "file": "missing/P/172103-professional-farmer-2017-cattle-and-cultivation.json"
+    },
+    {
+      "igdb_id": 61352,
+      "game_name": "Professional Fisherman's Tour: Northern Hemisphere",
+      "file": "missing/P/61352-professional-fishermans-tour-northern-hemisphere.json"
     },
     {
       "igdb_id": 141801,
@@ -330478,6 +330643,11 @@
       "file": "missing/R/193336-rayman-60-levels.json"
     },
     {
+      "igdb_id": 61353,
+      "game_name": "Rayman Activity Center",
+      "file": "missing/R/61353-rayman-activity-center.json"
+    },
+    {
       "igdb_id": 193360,
       "game_name": "Rayman Adventures",
       "file": "missing/R/193360-rayman-adventures.json"
@@ -330538,6 +330708,11 @@
       "file": "missing/R/193339-rayman-compilation.json"
     },
     {
+      "igdb_id": 61351,
+      "game_name": "Rayman Designer",
+      "file": "missing/R/61351-rayman-designer.json"
+    },
+    {
       "igdb_id": 193340,
       "game_name": "Rayman Funpack",
       "file": "missing/R/193340-rayman-funpack.json"
@@ -330566,6 +330741,11 @@
       "igdb_id": 61091,
       "game_name": "Rayman Kart",
       "file": "missing/R/61091-rayman-kart.json"
+    },
+    {
+      "igdb_id": 61350,
+      "game_name": "Rayman Legends Beatbox",
+      "file": "missing/R/61350-rayman-legends-beatbox.json"
     },
     {
       "igdb_id": 2925,
@@ -361278,6 +361458,16 @@
       "file": "missing/S/46584-shin-nekketsu-kouha-kunio-kun-kunio-tachi-no-banka.json"
     },
     {
+      "igdb_id": 61304,
+      "game_name": "Shin Nippon Pro Wrestling '94: Battlefield in Tokyo Dome",
+      "file": "missing/S/61304-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json"
+    },
+    {
+      "igdb_id": 61317,
+      "game_name": "Shin Nippon Pro Wrestling: Chou Senshi in Tokyo Dome - Fantastic Story",
+      "file": "missing/S/61317-shin-nippon-pro-wrestling-chou-senshi-in-tokyo-dome-fantastic-story.json"
+    },
+    {
       "igdb_id": 231519,
       "game_name": "Shin Nippon Pro Wrestling: Gekitou Densetsu",
       "file": "missing/S/231519-shin-nippon-pro-wrestling-gekitou-densetsu.json"
@@ -365333,6 +365523,11 @@
       "file": "missing/S/335914-simple-2000-series-vol-32-the-sensha.json"
     },
     {
+      "igdb_id": 61339,
+      "game_name": "Simple 2000 Series Vol. 62: The Super Puzzle Bobble DX",
+      "file": "missing/S/61339-simple-2000-series-vol-62-the-super-puzzle-bobble-dx.json"
+    },
+    {
       "igdb_id": 203319,
       "game_name": "Simple 2000 Series Vol. 77: The Hanasou Hanguru no Tabi",
       "file": "missing/S/203319-simple-2000-series-vol-77-the-hanasou-hanguru-no-tabi.json"
@@ -368931,6 +369126,11 @@
       "igdb_id": 117718,
       "game_name": "SleepWalker",
       "file": "missing/S/117718-sleepwalker.json"
+    },
+    {
+      "igdb_id": 61356,
+      "game_name": "Sleepwalker Time to Wake Up",
+      "file": "missing/S/61356-sleepwalker-time-to-wake-up.json"
     },
     {
       "igdb_id": 318388,
@@ -384733,6 +384933,16 @@
       "file": "missing/S/359441-sprint.json"
     },
     {
+      "igdb_id": 61312,
+      "game_name": "Sprint 4",
+      "file": "missing/S/61312-sprint-4.json"
+    },
+    {
+      "igdb_id": 61311,
+      "game_name": "Sprint 8",
+      "file": "missing/S/61311-sprint-8.json"
+    },
+    {
       "igdb_id": 43333,
       "game_name": "Sprint Car Challenge",
       "file": "missing/S/43333-sprint-car-challenge.json"
@@ -397281,6 +397491,21 @@
       "igdb_id": 181866,
       "game_name": "Super Bitsy Land",
       "file": "missing/S/181866-super-bitsy-land.json"
+    },
+    {
+      "igdb_id": 61347,
+      "game_name": "Super Black Bass Pocket 2",
+      "file": "missing/S/61347-super-black-bass-pocket-2.json"
+    },
+    {
+      "igdb_id": 61344,
+      "game_name": "Super Black Bass X2",
+      "file": "missing/S/61344-super-black-bass-x2.json"
+    },
+    {
+      "igdb_id": 61345,
+      "game_name": "Super Black Bass: Real Fight",
+      "file": "missing/S/61345-super-black-bass-real-fight.json"
     },
     {
       "igdb_id": 48704,
@@ -490701,6 +490926,31 @@
       "igdb_id": 65474,
       "game_name": "Yamamura Misa Suspense: Kyoto Ryuu no Tera Satsujin Jiken",
       "file": "missing/Y/65474-yamamura-misa-suspense-kyoto-ryuu-no-tera-satsujin-jiken.json"
+    },
+    {
+      "igdb_id": 61328,
+      "game_name": "Yamasa Digi World 2: LCD Edition",
+      "file": "missing/Y/61328-yamasa-digi-world-2-lcd-edition.json"
+    },
+    {
+      "igdb_id": 61327,
+      "game_name": "Yamasa Digi World 3",
+      "file": "missing/Y/61327-yamasa-digi-world-3.json"
+    },
+    {
+      "igdb_id": 61323,
+      "game_name": "Yamasa Digi World 4",
+      "file": "missing/Y/61323-yamasa-digi-world-4.json"
+    },
+    {
+      "igdb_id": 61324,
+      "game_name": "Yamasa Digi World SP",
+      "file": "missing/Y/61324-yamasa-digi-world-sp.json"
+    },
+    {
+      "igdb_id": 61326,
+      "game_name": "Yamasa Digi World: Tetra Master",
+      "file": "missing/Y/61326-yamasa-digi-world-tetra-master.json"
     },
     {
       "igdb_id": 147956,
