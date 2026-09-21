@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen-Ichi | 82119 | [82119-zen-ichi.json](./82119-zen-ichi.json) |
 | Zen-Nippon Joshi Pro Wrestling: Queen of Queens | 45954 | [45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json](./45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json) |
 | Zen-Nippon Pro Wrestling: Fight Da Pon! | 65200 | [65200-zen-nippon-pro-wrestling-fight-da-pon.json](./65200-zen-nippon-pro-wrestling-fight-da-pon.json) |
+| Zen-Nippon Shounen Soccer Taikai: Mezase Nippon Ichi! | 59051 | [59051-zen-nippon-shounen-soccer-taikai-mezase-nippon-ichi.json](./59051-zen-nippon-shounen-soccer-taikai-mezase-nippon-ichi.json) |
 | Zen: Intergalactic Ninja | 48251 | [48251-zen-intergalactic-ninja.json](./48251-zen-intergalactic-ninja.json) |
 | ZenBlade | 58268 | [58268-zenblade.json](./58268-zenblade.json) |
 | Zenbones | 163844 | [163844-zenbones.json](./163844-zenbones.json) |
@@ -654,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Animals ~ Touch, Look, Listen | 89706 | [89706-zoo-animals-touch-look-listen.json](./89706-zoo-animals-touch-look-listen.json) |
 | Zoo Chess | 213403 | [213403-zoo-chess.json](./213403-zoo-chess.json) |
 | Zoo Clues | 397781 | [397781-zoo-clues.json](./397781-zoo-clues.json) |
+| Zoo Disc Golf | 59039 | [59039-zoo-disc-golf.json](./59039-zoo-disc-golf.json) |
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
 | Zoo Keeper 3D | 222337 | [222337-zoo-keeper-3d.json](./222337-zoo-keeper-3d.json) |
 | Zoo Maniacs Pinball | 97136 | [97136-zoo-maniacs-pinball.json](./97136-zoo-maniacs-pinball.json) |
