@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Trailer Park | 219045 | [219045-zombie-trailer-park.json](./219045-zombie-trailer-park.json) |
 | Zombie Variant | 130161 | [130161-zombie-variant.json](./130161-zombie-variant.json) |
 | Zombie Vegas | 190172 | [190172-zombie-vegas.json](./190172-zombie-vegas.json) |
+| Zombie Vikings | 14298 | [14298-zombie-vikings.json](./14298-zombie-vikings.json) |
 | Zombie Vikings: Stab-a-thon | 30161 | [30161-zombie-vikings-stab-a-thon.json](./30161-zombie-vikings-stab-a-thon.json) |
 | Zombie Virus | 43266 | [43266-zombie-virus.json](./43266-zombie-virus.json) |
 | Zombie vs. Human | 177026 | [177026-zombie-vs-human.json](./177026-zombie-vs-human.json) |
