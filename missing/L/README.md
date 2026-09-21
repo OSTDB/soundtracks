@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy Online | 23711 | [23711-legacy-online.json](./23711-legacy-online.json) |
 | Legacy Quest 2 | 192446 | [192446-legacy-quest-2.json](./192446-legacy-quest-2.json) |
 | LegacyShell | 325681 | [325681-legacyshell.json](./325681-legacyshell.json) |
+| Legaia 2: Duel Saga | 28161 | [28161-legaia-2-duel-saga.json](./28161-legaia-2-duel-saga.json) |
 | Legal Speed Racing | 90557 | [90557-legal-speed-racing.json](./90557-legal-speed-racing.json) |
 | Leganda | 188675 | [188675-leganda.json](./188675-leganda.json) |
 | Legena: Union Tides | 34449 | [34449-legena-union-tides.json](./34449-legena-union-tides.json) |
@@ -2550,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Solitaire | 174194 | [174194-lords-of-solitaire.json](./174194-lords-of-solitaire.json) |
 | Lords of Strife | 99648 | [99648-lords-of-strife.json](./99648-lords-of-strife.json) |
 | Lords of the Chaos | 263478 | [263478-lords-of-the-chaos.json](./263478-lords-of-the-chaos.json) |
+| Lords of the Fallen: Collector's Edition | 28128 | [28128-lords-of-the-fallen-collectors-edition.json](./28128-lords-of-the-fallen-collectors-edition.json) |
 | Lords of the Fallen: Deluxe Edition | 250427 | [250427-lords-of-the-fallen-deluxe-edition.json](./250427-lords-of-the-fallen-deluxe-edition.json) |
 | Lords of the Fallen: Master of Fate Update | 299144 | [299144-lords-of-the-fallen-master-of-fate-update.json](./299144-lords-of-the-fallen-master-of-fate-update.json) |
 | Lords of the Realm | 12669 | [12669-lords-of-the-realm.json](./12669-lords-of-the-realm.json) |
