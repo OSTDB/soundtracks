@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedMoonWorld | 411616 | [411616-redmoonworld.json](./411616-redmoonworld.json) |
 | Redneck Ed: Astro Monsters Show | 132230 | [132230-redneck-ed-astro-monsters-show.json](./132230-redneck-ed-astro-monsters-show.json) |
 | Redneck Party | 151026 | [151026-redneck-party.json](./151026-redneck-party.json) |
+| Redneck Rampage | 9002 | [9002-redneck-rampage.json](./9002-redneck-rampage.json) |
 | Redneck Rift | 207914 | [207914-redneck-rift.json](./207914-redneck-rift.json) |
 | Redout 2: Deluxe Edition | 205571 | [205571-redout-2-deluxe-edition.json](./205571-redout-2-deluxe-edition.json) |
 | Redout 2: Summer Pack | 224209 | [224209-redout-2-summer-pack.json](./224209-redout-2-summer-pack.json) |
@@ -3423,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolla | 374635 | [374635-rolla.json](./374635-rolla.json) |
 | Rollance: Adventure Balls | 224106 | [224106-rollance-adventure-balls.json](./224106-rollance-adventure-balls.json) |
 | Rollbot | 351031 | [351031-rollbot.json](./351031-rollbot.json) |
+| Rollcage | 8332 | [8332-rollcage.json](./8332-rollcage.json) |
 | Roller Angels | 84847 | [84847-roller-angels.json](./84847-roller-angels.json) |
 | Roller Ball 6 | 196287 | [196287-roller-ball-6.json](./196287-roller-ball-6.json) |
 | Roller Champions | 119158 | [119158-roller-champions.json](./119158-roller-champions.json) |
