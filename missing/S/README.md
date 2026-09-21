@@ -2352,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrain | 126588 | [126588-shadowrain.json](./126588-shadowrain.json) |
 | Shadowrite | 403712 | [403712-shadowrite.json](./403712-shadowrite.json) |
 | Shadowrun | 7643 | [7643-shadowrun.json](./7643-shadowrun.json) |
+| Shadowrun: Dragonfall - Director's Cut | 8864 | [8864-shadowrun-dragonfall-directors-cut.json](./8864-shadowrun-dragonfall-directors-cut.json) |
 | Shadowrun: Hong Kong | 11772 | [11772-shadowrun-hong-kong.json](./11772-shadowrun-hong-kong.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
 | Shadows 2: Perfidia | 29178 | [29178-shadows-2-perfidia.json](./29178-shadows-2-perfidia.json) |
@@ -5065,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 4 | 18366 | [18366-sniper-elite-4.json](./18366-sniper-elite-4.json) |
 | Sniper Elite 4: Deathstorm Part 1 - Inception | 27868 | [27868-sniper-elite-4-deathstorm-part-1-inception.json](./27868-sniper-elite-4-deathstorm-part-1-inception.json) |
 | Sniper Elite 4: Digital Deluxe Edition | 54380 | [54380-sniper-elite-4-digital-deluxe-edition.json](./54380-sniper-elite-4-digital-deluxe-edition.json) |
+| Sniper Elite 5 | 116238 | [116238-sniper-elite-5.json](./116238-sniper-elite-5.json) |
 | Sniper Elite 5: Airborne Elite Weapon & Skin Pack | 307278 | [307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json](./307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Complete Edition | 263228 | [263228-sniper-elite-5-complete-edition.json](./263228-sniper-elite-5-complete-edition.json) |
 | Sniper Elite 5: Death From Above Weapon and Skin Pack | 307284 | [307284-sniper-elite-5-death-from-above-weapon-and-skin-pack.json](./307284-sniper-elite-5-death-from-above-weapon-and-skin-pack.json) |
@@ -5875,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Madventure | 352168 | [352168-sonic-madventure.json](./352168-sonic-madventure.json) |
 | Sonic Mania + Team Sonic Racing Double Pack | 139949 | [139949-sonic-mania-team-sonic-racing-double-pack.json](./139949-sonic-mania-team-sonic-racing-double-pack.json) |
 | Sonic Mania Fangame | 326995 | [326995-sonic-mania-fangame.json](./326995-sonic-mania-fangame.json) |
+| Sonic Mania Plus | 94873 | [94873-sonic-mania-plus.json](./94873-sonic-mania-plus.json) |
 | Sonic Mania Randomizer | 386230 | [386230-sonic-mania-randomizer.json](./386230-sonic-mania-randomizer.json) |
 | Sonic Mania: Collector's Edition | 25684 | [25684-sonic-mania-collectors-edition.json](./25684-sonic-mania-collectors-edition.json) |
 | Sonic Maze Craze | 273985 | [273985-sonic-maze-craze.json](./273985-sonic-maze-craze.json) |
@@ -7148,6 +7151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce 3: Soul Harvest - Oktoberfest | 157561 | [157561-spellforce-3-soul-harvest-oktoberfest.json](./157561-spellforce-3-soul-harvest-oktoberfest.json) |
 | SpellForce 3: Versus | 144290 | [144290-spellforce-3-versus.json](./144290-spellforce-3-versus.json) |
 | SpellForce: Heroes & Magic | 118373 | [118373-spellforce-heroes-and-magic.json](./118373-spellforce-heroes-and-magic.json) |
+| SpellForce: The Order of Dawn | 7027 | [7027-spellforce-the-order-of-dawn.json](./7027-spellforce-the-order-of-dawn.json) |
 | SpellForce: Universe | 78728 | [78728-spellforce-universe.json](./78728-spellforce-universe.json) |
 | Spellforge | 32864 | [32864-spellforge.json](./32864-spellforge.json) |
 | Spellic | 207345 | [207345-spellic.json](./207345-spellic.json) |
@@ -7181,6 +7185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunker HD Deluxe: Limited Edition | 167149 | [167149-spelunker-hd-deluxe-limited-edition.json](./167149-spelunker-hd-deluxe-limited-edition.json) |
 | Spelunker: Collection | 45280 | [45280-spelunker-collection.json](./45280-spelunker-collection.json) |
 | Spelunkery | 374726 | [374726-spelunkery.json](./374726-spelunkery.json) |
+| Spelunky 2 | 75239 | [75239-spelunky-2.json](./75239-spelunky-2.json) |
 | Sperm Into Labia | 310742 | [310742-sperm-into-labia.json](./310742-sperm-into-labia.json) |
 | Sperma | 232698 | [232698-sperma.json](./232698-sperma.json) |
 | SpermDash | 157009 | [157009-spermdash.json](./157009-spermdash.json) |
@@ -9251,6 +9256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded | 337676 | [337676-stranded.json](./337676-stranded.json) |
 | Stranded at Sea | 365737 | [365737-stranded-at-sea.json](./365737-stranded-at-sea.json) |
 | Stranded B | 162257 | [162257-stranded-b.json](./162257-stranded-b.json) |
+| Stranded Deep | 8751 | [8751-stranded-deep.json](./8751-stranded-deep.json) |
 | Stranded Engineers | 273398 | [273398-stranded-engineers.json](./273398-stranded-engineers.json) |
 | Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
 | Stranded Nightmare | 207367 | [207367-stranded-nightmare.json](./207367-stranded-nightmare.json) |
@@ -10653,6 +10659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 16: Land of Crisis | 296050 | [296050-super-mario-16-land-of-crisis.json](./296050-super-mario-16-land-of-crisis.json) |
 | Super Mario 256 | 270377 | [270377-super-mario-256.json](./270377-super-mario-256.json) |
 | Super Mario 2D Land | 269114 | [269114-super-mario-2d-land.json](./269114-super-mario-2d-land.json) |
+| Super Mario 3D All-Stars | 138225 | [138225-super-mario-3d-all-stars.json](./138225-super-mario-3d-all-stars.json) |
 | Super Mario 3D World | 229339 | [229339-super-mario-3d-world.json](./229339-super-mario-3d-world.json) |
 | Super Mario 3D World + Bowser's Fury | 138227 | [138227-super-mario-3d-world-bowsers-fury.json](./138227-super-mario-3d-world-bowsers-fury.json) |
 | Super Mario 64 1.5 Ztar Attack! | 135230 | [135230-super-mario-64-1-5-ztar-attack.json](./135230-super-mario-64-1-5-ztar-attack.json) |
@@ -11417,6 +11424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supposedly Wonderful Future | 72491 | [72491-supposedly-wonderful-future.json](./72491-supposedly-wonderful-future.json) |
 | Suprabac.io | 243380 | [243380-suprabac-io.json](./243380-suprabac-io.json) |
 | Supracore | 251854 | [251854-supracore.json](./251854-supracore.json) |
+| Supraland | 89354 | [89354-supraland.json](./89354-supraland.json) |
 | Supraland: Six Inches Under | 172903 | [172903-supraland-six-inches-under.json](./172903-supraland-six-inches-under.json) |
 | Supraworld | 250601 | [250601-supraworld.json](./250601-supraworld.json) |
 | Supremacy 1914 | 113460 | [113460-supremacy-1914.json](./113460-supremacy-1914.json) |
@@ -12071,6 +12079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SynCo 2321 | 192979 | [192979-synco-2321.json](./192979-synco-2321.json) |
 | Syncope | 189041 | [189041-syncope.json](./189041-syncope.json) |
 | Syncromania | 276285 | [276285-syncromania.json](./276285-syncromania.json) |
+| Syndicate | 49 | [49-syndicate.json](./49-syndicate.json) |
 | Syndicate of Souls | 267642 | [267642-syndicate-of-souls.json](./267642-syndicate-of-souls.json) |
 | Syndicate Plus | 77198 | [77198-syndicate-plus.json](./77198-syndicate-plus.json) |
 | Syndicate: American Revolt | 50 | [50-syndicate-american-revolt.json](./50-syndicate-american-revolt.json) |
