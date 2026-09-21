@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Rage | 262966 | [262966-labyrinth-of-rage.json](./262966-labyrinth-of-rage.json) |
 | Labyrinth of the Witch DX | 217538 | [217538-labyrinth-of-the-witch-dx.json](./217538-labyrinth-of-the-witch-dx.json) |
 | Labyrinth of Touhou | 63855 | [63855-labyrinth-of-touhou.json](./63855-labyrinth-of-touhou.json) |
+| Labyrinth of Touhou 2 | 63005 | [63005-labyrinth-of-touhou-2.json](./63005-labyrinth-of-touhou-2.json) |
 | Labyrinth of Touhou: Gensoukyo and the Heaven Piercing Tree | 166080 | [166080-labyrinth-of-touhou-gensoukyo-and-the-heaven-piercing-tree.json](./166080-labyrinth-of-touhou-gensoukyo-and-the-heaven-piercing-tree.json) |
 | Labyrinth of Zangetsu: Adventure Academia - The Fractured Continent Collab: Additional Characters Pack | 246643 | [246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json](./246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json) |
 | Labyrinth of Zangetsu: Akiba's Beat Collaboration - Additional Characters Pack | 246642 | [246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json](./246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json) |
@@ -1659,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily's Epic Quest | 31956 | [31956-lilys-epic-quest.json](./31956-lilys-epic-quest.json) |
 | Lily's Garden | 129160 | [129160-lilys-garden.json](./129160-lilys-garden.json) |
 | LilyDeux: Black Lily Warning | 129698 | [129698-lilydeux-black-lily-warning.json](./129698-lilydeux-black-lily-warning.json) |
+| Lim | 62989 | [62989-lim.json](./62989-lim.json) |
 | Lim Beyond One-on-One Basketball | 254782 | [254782-lim-beyond-one-on-one-basketball.json](./254782-lim-beyond-one-on-one-basketball.json) |
 | Limb Lobber | 395707 | [395707-limb-lobber.json](./395707-limb-lobber.json) |
 | Limb: Origins | 337086 | [337086-limb-origins.json](./337086-limb-origins.json) |
@@ -2375,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking | 178031 | [178031-looking.json](./178031-looking.json) |
 | Looking for Aliens: Collector's Edition | 247510 | [247510-looking-for-aliens-collectors-edition.json](./247510-looking-for-aliens-collectors-edition.json) |
 | Looking For Cats In a Badly Drawn Forest: Extra Content | 292678 | [292678-looking-for-cats-in-a-badly-drawn-forest-extra-content.json](./292678-looking-for-cats-in-a-badly-drawn-forest-extra-content.json) |
+| Looking For Healer | 63003 | [63003-looking-for-healer.json](./63003-looking-for-healer.json) |
 | Looking for Something | 316653 | [316653-looking-for-something.json](./316653-looking-for-something.json) |
 | Lookouts | 177910 | [177910-lookouts.json](./177910-lookouts.json) |
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
@@ -2694,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Sunday Comics | 192797 | [192797-lost-sunday-comics.json](./192797-lost-sunday-comics.json) |
 | Lost Sword | 353867 | [353867-lost-sword.json](./353867-lost-sword.json) |
 | Lost Tenet | 260213 | [260213-lost-tenet.json](./260213-lost-tenet.json) |
+| Lost Toys | 62996 | [62996-lost-toys.json](./62996-lost-toys.json) |
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
 | Lost Tribe | 309517 | [309517-lost-tribe.json](./309517-lost-tribe.json) |
 | Lost Twins 2 | 173308 | [173308-lost-twins-2.json](./173308-lost-twins-2.json) |
