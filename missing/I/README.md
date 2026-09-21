@@ -1040,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indekos | 328613 | [328613-indekos.json](./328613-indekos.json) |
 | Independence Day Resurgence: Battle Heroes | 354411 | [354411-independence-day-resurgence-battle-heroes.json](./354411-independence-day-resurgence-battle-heroes.json) |
 | Independence Day Run | 229039 | [229039-independence-day-run.json](./229039-independence-day-run.json) |
+| Independence War: Defiance | 62990 | [62990-independence-war-defiance.json](./62990-independence-war-defiance.json) |
 | Independent Games | 210063 | [210063-independent-games.json](./210063-independent-games.json) |
 | Indestructotank Anniversary Edition | 279748 | [279748-indestructotank-anniversary-edition.json](./279748-indestructotank-anniversary-edition.json) |
 | Indian Bus Simulator: Game | 384620 | [384620-indian-bus-simulator-game.json](./384620-indian-bus-simulator-game.json) |
