@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
 | Pac-Gal | 25141 | [25141-pac-gal.json](./25141-pac-gal.json) |
 | Pac-Guy | 64678 | [64678-pac-guy.json](./64678-pac-guy.json) |
+| Pac-Land | 6822 | [6822-pac-land.json](./6822-pac-land.json) |
 | Pac-Maine | 79229 | [79229-pac-maine.json](./79229-pac-maine.json) |
 | Pac-Man | 213944 | [213944-pac-man.json](./213944-pac-man.json) |
 | Pac-Man | 218442 | [218442-pac-man.json](./218442-pac-man.json) |
@@ -82,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man World 2 | 134428 | [134428-pac-man-world-2.json](./134428-pac-man-world-2.json) |
 | Pac-Man World 2 Re-Pac | 358530 | [358530-pac-man-world-2-re-pac.json](./358530-pac-man-world-2-re-pac.json) |
 | Pac-Man World 3 | 4064 | [4064-pac-man-world-3.json](./4064-pac-man-world-3.json) |
+| Pac-Man World Re-Pac | 206811 | [206811-pac-man-world-re-pac.json](./206811-pac-man-world-re-pac.json) |
 | Pac-Man: Championship Edition DX | 21737 | [21737-pac-man-championship-edition-dx.json](./21737-pac-man-championship-edition-dx.json) |
 | Pac-Man: Party Royale | 122320 | [122320-pac-man-party-royale.json](./122320-pac-man-party-royale.json) |
 | Pac-Man: Ralph Breaks the Maze | 112300 | [112300-pac-man-ralph-breaks-the-maze.json](./112300-pac-man-ralph-breaks-the-maze.json) |
@@ -295,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paisible Soirée au Fil d'Étoiles | 178514 | [178514-paisible-soiree-au-fil-detoiles.json](./178514-paisible-soiree-au-fil-detoiles.json) |
 | Paitan Small Town | 159804 | [159804-paitan-small-town.json](./159804-paitan-small-town.json) |
 | Paiteo: Yeongung-eul Gidalimyeo | 98430 | [98430-paiteo-yeongung-eul-gidalimyeo.json](./98430-paiteo-yeongung-eul-gidalimyeo.json) |
+| Pajama Sam 2: Thunder and Lightning Aren't so Frightening | 3731 | [3731-pajama-sam-2-thunder-and-lightning-arent-so-frightening.json](./3731-pajama-sam-2-thunder-and-lightning-arent-so-frightening.json) |
 | Pakacuda | 83264 | [83264-pakacuda.json](./83264-pakacuda.json) |
 | Pakku Pony | 374671 | [374671-pakku-pony.json](./374671-pakku-pony.json) |
 | Pako | 9568 | [9568-pako.json](./9568-pako.json) |
@@ -2211,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot Unknown | 116284 | [116284-pilot-unknown.json](./116284-pilot-unknown.json) |
 | Pilot's Misadventures | 161376 | [161376-pilots-misadventures.json](./161376-pilots-misadventures.json) |
 | Pilots of Darsalon | 133452 | [133452-pilots-of-darsalon.json](./133452-pilots-of-darsalon.json) |
+| Pilotwings Resort | 6862 | [6862-pilotwings-resort.json](./6862-pilotwings-resort.json) |
 | Pilsner Urquell: Undress Me!!! | 270673 | [270673-pilsner-urquell-undress-me.json](./270673-pilsner-urquell-undress-me.json) |
 | Pim World | 291746 | [291746-pim-world.json](./291746-pim-world.json) |
 | Pimania | 93058 | [93058-pimania.json](./93058-pimania.json) |
@@ -3596,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Royal Sapphire | 361219 | [361219-pokemon-royal-sapphire.json](./361219-pokemon-royal-sapphire.json) |
 | Pokémon Royal Version | 172758 | [172758-pokemon-royal-version.json](./172758-pokemon-royal-version.json) |
 | Pokémon Ruby Version | 355535 | [355535-pokemon-ruby-version.json](./355535-pokemon-ruby-version.json) |
+| Pokémon Rumble Blast | 4561 | [4561-pokemon-rumble-blast.json](./4561-pokemon-rumble-blast.json) |
 | Pokémon Run & Bun | 246077 | [246077-pokemon-run-and-bun.json](./246077-pokemon-run-and-bun.json) |
 | Pokémon Sacred Gold | 145626 | [145626-pokemon-sacred-gold.json](./145626-pokemon-sacred-gold.json) |
 | Pokémon Sapphire Version | 355533 | [355533-pokemon-sapphire-version.json](./355533-pokemon-sapphire-version.json) |
@@ -3615,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sweet 2th | 141822 | [141822-pokemon-sweet-2th.json](./141822-pokemon-sweet-2th.json) |
 | Pokémon Sword & Pokémon Shield Double Pack | 115652 | [115652-pokemon-sword-and-pokemon-shield-double-pack.json](./115652-pokemon-sword-and-pokemon-shield-double-pack.json) |
 | Pokémon Sword and Shield | 294432 | [294432-pokemon-sword-and-shield.json](./294432-pokemon-sword-and-shield.json) |
+| Pokémon Sword: The Isle of Armor | 135164 | [135164-pokemon-sword-the-isle-of-armor.json](./135164-pokemon-sword-the-isle-of-armor.json) |
 | Pokémon TCG Pocket: Everyday Wonders | 410895 | [410895-pokemon-tcg-pocket-everyday-wonders.json](./410895-pokemon-tcg-pocket-everyday-wonders.json) |
 | Pokémon TCG Pocket: Paradox Drive | 406716 | [406716-pokemon-tcg-pocket-paradox-drive.json](./406716-pokemon-tcg-pocket-paradox-drive.json) |
 | Pokémon TCG Pocket: Ruler of the Skies | 412413 | [412413-pokemon-tcg-pocket-ruler-of-the-skies.json](./412413-pokemon-tcg-pocket-ruler-of-the-skies.json) |
