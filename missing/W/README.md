@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Mania | 382761 | [382761-warp-mania.json](./382761-warp-mania.json) |
 | Warp Rush | 413007 | [413007-warp-rush.json](./413007-warp-rush.json) |
 | Warp Soldier | 216486 | [216486-warp-soldier.json](./216486-warp-soldier.json) |
+| Warp Speed | 45568 | [45568-warp-speed.json](./45568-warp-speed.json) |
 | Warp-1 | 57125 | [57125-warp-1.json](./57125-warp-1.json) |
 | Warpath | 377149 | [377149-warpath.json](./377149-warpath.json) |
 | Warpath 97 | 77306 | [77306-warpath-97.json](./77306-warpath-97.json) |
@@ -2237,6 +2238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Knights VIP : Retro Shooter RPG | 97209 | [97209-wonder-knights-vip-retro-shooter-rpg.json](./97209-wonder-knights-vip-retro-shooter-rpg.json) |
 | Wonder Land | 216483 | [216483-wonder-land.json](./216483-wonder-land.json) |
 | Wonder Library | 377142 | [377142-wonder-library.json](./377142-wonder-library.json) |
+| Wonder Library | 45605 | [45605-wonder-library.json](./45605-wonder-library.json) |
 | Wonder Loop Village | 312548 | [312548-wonder-loop-village.json](./312548-wonder-loop-village.json) |
 | Wonder Mu: Mu to Unmei no Monster | 220323 | [220323-wonder-mu-mu-to-unmei-no-monster.json](./220323-wonder-mu-mu-to-unmei-no-monster.json) |
 | Wonder of Blue | 345509 | [345509-wonder-of-blue.json](./345509-wonder-of-blue.json) |
@@ -2666,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Senate Game - Free Online Multiplayer Game | 145434 | [145434-world-senate-game-free-online-multiplayer-game.json](./145434-world-senate-game-free-online-multiplayer-game.json) |
 | World Series 1964 | 130864 | [130864-world-series-1964.json](./130864-world-series-1964.json) |
 | World Series Baseball | 247009 | [247009-world-series-baseball.json](./247009-world-series-baseball.json) |
+| World Series Baseball II | 45511 | [45511-world-series-baseball-ii.json](./45511-world-series-baseball-ii.json) |
 | World Series Basketball | 45316 | [45316-world-series-basketball.json](./45316-world-series-basketball.json) |
 | World Series Major League Baseball | 5711 | [5711-world-series-major-league-baseball.json](./5711-world-series-major-league-baseball.json) |
 | World Series of Poker Hold'em Legend | 61028 | [61028-world-series-of-poker-holdem-legend.json](./61028-world-series-of-poker-holdem-legend.json) |
