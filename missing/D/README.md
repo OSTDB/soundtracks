@@ -2242,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Storm | 270687 | [270687-desert-storm.json](./270687-desert-storm.json) |
 | Desert Things | 203954 | [203954-desert-things.json](./203954-desert-things.json) |
 | Desert Thunder | 358380 | [358380-desert-thunder.json](./358380-desert-thunder.json) |
+| Desert Thunder | 9820 | [9820-desert-thunder.json](./9820-desert-thunder.json) |
 | Desert Tycoon | 256251 | [256251-desert-tycoon.json](./256251-desert-tycoon.json) |
 | Desert War | 167163 | [167163-desert-war.json](./167163-desert-war.json) |
 | Desert War 1940-1942 | 129593 | [129593-desert-war-1940-1942.json](./129593-desert-war-1940-1942.json) |
@@ -3366,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disquiet Fields | 157676 | [157676-disquiet-fields.json](./157676-disquiet-fields.json) |
 | Disquieted | 397663 | [397663-disquieted.json](./397663-disquieted.json) |
 | Disrtust and Goliath Premium Survival Bundle | 301566 | [301566-disrtust-and-goliath-premium-survival-bundle.json](./301566-disrtust-and-goliath-premium-survival-bundle.json) |
+| Disrupt | 9923 | [9923-disrupt.json](./9923-disrupt.json) |
 | Disruptive Compassion | 364496 | [364496-disruptive-compassion.json](./364496-disruptive-compassion.json) |
 | Disruptor | 20654 | [20654-disruptor.json](./20654-disruptor.json) |
 | Dissection Simulator: Dogfish Edition | 171575 | [171575-dissection-simulator-dogfish-edition.json](./171575-dissection-simulator-dogfish-edition.json) |
