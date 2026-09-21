@@ -2589,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Menu | 372588 | [372588-devils-menu.json](./372588-devils-menu.json) |
 | Devil’s Propose | 254609 | [254609-devil-s-propose.json](./254609-devil-s-propose.json) |
 | Devil's Revenge | 69855 | [69855-devils-revenge.json](./69855-devils-revenge.json) |
+| Devil's Third | 7395 | [7395-devils-third.json](./7395-devils-third.json) |
 | Devil's Third Online | 59988 | [59988-devils-third-online.json](./59988-devils-third-online.json) |
 | Devil's Tuning Fork | 67304 | [67304-devils-tuning-fork.json](./67304-devils-tuning-fork.json) |
 | Devil's Way | 306358 | [306358-devils-way.json](./306358-devils-way.json) |
@@ -4204,6 +4205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dooly Soccer 2002 | 92313 | [92313-dooly-soccer-2002.json](./92313-dooly-soccer-2002.json) |
 | Doom | 170995 | [170995-doom.json](./170995-doom.json) |
 | Doom | 259941 | [259941-doom.json](./259941-doom.json) |
+| Doom | 259942 | [259942-doom.json](./259942-doom.json) |
 | Doom | 259944 | [259944-doom.json](./259944-doom.json) |
 | Doom | 313161 | [313161-doom.json](./313161-doom.json) |
 | Doom & Destiny Advanced | 25944 | [25944-doom-and-destiny-advanced.json](./25944-doom-and-destiny-advanced.json) |
