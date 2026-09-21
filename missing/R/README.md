@@ -4127,6 +4127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruri Iro no Yuki | 108840 | [108840-ruri-iro-no-yuki.json](./108840-ruri-iro-no-yuki.json) |
 | Ruriiro Days: Heavenly Blue | 221242 | [221242-ruriiro-days-heavenly-blue.json](./221242-ruriiro-days-heavenly-blue.json) |
 | Rurizakura | 157566 | [157566-rurizakura.json](./157566-rurizakura.json) |
+| Rurouni Kenshin: Meiji Kenkaku Romantan - Saisen | 42838 | [42838-rurouni-kenshin-meiji-kenkaku-romantan-saisen.json](./42838-rurouni-kenshin-meiji-kenkaku-romantan-saisen.json) |
 | Ruruli Ra Rura | 45950 | [45950-ruruli-ra-rura.json](./45950-ruruli-ra-rura.json) |
 | Rush | 131541 | [131541-rush.json](./131541-rush.json) |
 | Rush | 200584 | [200584-rush.json](./200584-rush.json) |
