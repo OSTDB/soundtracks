@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets Agent | 136440 | [136440-secrets-agent.json](./136440-secrets-agent.json) |
 | Secrets by Episode | 332434 | [332434-secrets-by-episode.json](./332434-secrets-by-episode.json) |
 | Secrets of Blinck Island | 397077 | [397077-secrets-of-blinck-island.json](./397077-secrets-of-blinck-island.json) |
+| Secrets of Grindea | 8436 | [8436-secrets-of-grindea.json](./8436-secrets-of-grindea.json) |
 | Secrets of Magic 2: Witches and Wizards | 68599 | [68599-secrets-of-magic-2-witches-and-wizards.json](./68599-secrets-of-magic-2-witches-and-wizards.json) |
 | Secrets of Magic: The Book of Spells | 33245 | [33245-secrets-of-magic-the-book-of-spells.json](./33245-secrets-of-magic-the-book-of-spells.json) |
 | Secrets of Orion: Sword of Destiny. | 236935 | [236935-secrets-of-orion-sword-of-destiny.json](./236935-secrets-of-orion-sword-of-destiny.json) |
@@ -8163,6 +8164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Raiders | 2217 | [2217-star-raiders.json](./2217-star-raiders.json) |
 | Star Rank Boxing | 57664 | [57664-star-rank-boxing.json](./57664-star-rank-boxing.json) |
 | Star Rank Boxing II | 69871 | [69871-star-rank-boxing-ii.json](./69871-star-rank-boxing-ii.json) |
+| Star Realms | 21324 | [21324-star-realms.json](./21324-star-realms.json) |
 | Star Realms: Bases and Battleships | 163284 | [163284-star-realms-bases-and-battleships.json](./163284-star-realms-bases-and-battleships.json) |
 | Star Realms: Colony Wars | 163288 | [163288-star-realms-colony-wars.json](./163288-star-realms-colony-wars.json) |
 | Star Realms: Command | 163290 | [163290-star-realms-command.json](./163290-star-realms-command.json) |
@@ -9292,6 +9294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of a Gladiator | 125747 | [125747-story-of-a-gladiator.json](./125747-story-of-a-gladiator.json) |
 | Story of a Tiny Earth: The Symbolic Ages | 172170 | [172170-story-of-a-tiny-earth-the-symbolic-ages.json](./172170-story-of-a-tiny-earth-the-symbolic-ages.json) |
 | Story of Heterosexuality | 333547 | [333547-story-of-heterosexuality.json](./333547-story-of-heterosexuality.json) |
+| Story of Seasons | 8608 | [8608-story-of-seasons.json](./8608-story-of-seasons.json) |
 | Story of Seasons (Tentative Title) | 85534 | [85534-story-of-seasons-tentative-title.json](./85534-story-of-seasons-tentative-title.json) |
 | Story of Seasons: A Wonderful Life | 217553 | [217553-story-of-seasons-a-wonderful-life.json](./217553-story-of-seasons-a-wonderful-life.json) |
 | Story of Seasons: Friends of Mineral Town | 120300 | [120300-story-of-seasons-friends-of-mineral-town.json](./120300-story-of-seasons-friends-of-mineral-town.json) |
@@ -11099,6 +11102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puyo Puyo Tsuu Remix | 42544 | [42544-super-puyo-puyo-tsuu-remix.json](./42544-super-puyo-puyo-tsuu-remix.json) |
 | Super Puzzle Cross | 236253 | [236253-super-puzzle-cross.json](./236253-super-puzzle-cross.json) |
 | Super Puzzle Fighter II Turbo | 20803 | [20803-super-puzzle-fighter-ii-turbo.json](./20803-super-puzzle-fighter-ii-turbo.json) |
+| Super Puzzle Fighter II Turbo HD Remix | 23072 | [23072-super-puzzle-fighter-ii-turbo-hd-remix.json](./23072-super-puzzle-fighter-ii-turbo-hd-remix.json) |
 | Super Puzzle Pack | 139238 | [139238-super-puzzle-pack.json](./139238-super-puzzle-pack.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
@@ -11871,6 +11875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Girl Gurumelo | 258992 | [258992-sweet-girl-gurumelo.json](./258992-sweet-girl-gurumelo.json) |
 | Sweet Girls Collection | 352294 | [352294-sweet-girls-collection.json](./352294-sweet-girls-collection.json) |
 | Sweet Hazard | 316815 | [316815-sweet-hazard.json](./316815-sweet-hazard.json) |
+| Sweet Home | 9426 | [9426-sweet-home.json](./9426-sweet-home.json) |
 | Sweet Home: Design & Blast | 207810 | [207810-sweet-home-design-and-blast.json](./207810-sweet-home-design-and-blast.json) |
 | Sweet Idol | 371243 | [371243-sweet-idol.json](./371243-sweet-idol.json) |
 | Sweet Island | 392924 | [392924-sweet-island.json](./392924-sweet-island.json) |
