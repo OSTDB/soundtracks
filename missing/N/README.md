@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ni Hao, Kai-Lan: Super Happy Day! | 230393 | [230393-ni-hao-kai-lan-super-happy-day.json](./230393-ni-hao-kai-lan-super-happy-day.json) |
 | Ni no Kuni II: Revenant Kingdom - Tale of a Timeless Tome | 115646 | [115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json](./115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json) |
 | Ni no Kuni II: Revenant Kingdom - The Lair of the Lost Lord | 154455 | [154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json](./154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json) |
+| Ni no Kuni: Wrath of the White Witch | 1864 | [1864-ni-no-kuni-wrath-of-the-white-witch.json](./1864-ni-no-kuni-wrath-of-the-white-witch.json) |
 | Ni no Kuni: Wrath of the White Witch - Wizard's Edition | 223042 | [223042-ni-no-kuni-wrath-of-the-white-witch-wizards-edition.json](./223042-ni-no-kuni-wrath-of-the-white-witch-wizards-edition.json) |
 | Ni-Hao Kai-Lan: Kai-Lan's Great trip to China! | 210026 | [210026-ni-hao-kai-lan-kai-lans-great-trip-to-china.json](./210026-ni-hao-kai-lan-kai-lans-great-trip-to-china.json) |
 | Ni'mRoD | 256818 | [256818-nimrod.json](./256818-nimrod.json) |
