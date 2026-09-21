@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scourge of War: Waterloo - Wavre | 171040 | [171040-scourge-of-war-waterloo-wavre.json](./171040-scourge-of-war-waterloo-wavre.json) |
 | Scourge of Worlds | 107628 | [107628-scourge-of-worlds.json](./107628-scourge-of-worlds.json) |
 | Scourge Outbreak: Blindside | 167710 | [167710-scourge-outbreak-blindside.json](./167710-scourge-outbreak-blindside.json) |
+| ScourgeBringer | 115899 | [115899-scourgebringer.json](./115899-scourgebringer.json) |
 | Scout Search | 70098 | [70098-scout-search.json](./70098-scout-search.json) |
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
 | Scouts Out | 413034 | [413034-scouts-out.json](./413034-scouts-out.json) |
@@ -2367,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun: Dragonfall | 22652 | [22652-shadowrun-dragonfall.json](./22652-shadowrun-dragonfall.json) |
 | Shadowrun: Dragonfall - Director's Cut | 8864 | [8864-shadowrun-dragonfall-directors-cut.json](./8864-shadowrun-dragonfall-directors-cut.json) |
 | Shadowrun: Hong Kong | 11772 | [11772-shadowrun-hong-kong.json](./11772-shadowrun-hong-kong.json) |
+| Shadowrun: Hong Kong - Extended Edition | 35842 | [35842-shadowrun-hong-kong-extended-edition.json](./35842-shadowrun-hong-kong-extended-edition.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
 | Shadows 2: Perfidia | 29178 | [29178-shadows-2-perfidia.json](./29178-shadows-2-perfidia.json) |
 | Shadows Behind the Throne 2 | 158178 | [158178-shadows-behind-the-throne-2.json](./158178-shadows-behind-the-throne-2.json) |
@@ -2411,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows Peak | 18406 | [18406-shadows-peak.json](./18406-shadows-peak.json) |
 | Shadows Remain | 72324 | [72324-shadows-remain.json](./72324-shadows-remain.json) |
 | Shadows Show | 381674 | [381674-shadows-show.json](./381674-shadows-show.json) |
+| Shadows: Awakening | 54775 | [54775-shadows-awakening.json](./54775-shadows-awakening.json) |
 | Shadowsense. | 207510 | [207510-shadowsense.json](./207510-shadowsense.json) |
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
@@ -3806,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sine | 207905 | [207905-sine.json](./207905-sine.json) |
 | Sine Die | 256856 | [256856-sine-die.json](./256856-sine-die.json) |
 | Sine Mora | 10832 | [10832-sine-mora.json](./10832-sine-mora.json) |
+| Sine Mora EX | 27666 | [27666-sine-mora-ex.json](./27666-sine-mora-ex.json) |
 | Sinew | 369587 | [369587-sinew.json](./369587-sinew.json) |
 | Sinfeld Remastered | 182338 | [182338-sinfeld-remastered.json](./182338-sinfeld-remastered.json) |
 | Sinful Discharge | 268459 | [268459-sinful-discharge.json](./268459-sinful-discharge.json) |
@@ -5366,6 +5370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Socrates Jones: Pro Philosopher | 122894 | [122894-socrates-jones-pro-philosopher.json](./122894-socrates-jones-pro-philosopher.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
 | Sod | 180238 | [180238-sod.json](./180238-sod.json) |
+| Soda Dungeon | 27685 | [27685-soda-dungeon.json](./27685-soda-dungeon.json) |
 | Soda Story: Brewing Tycoon | 119016 | [119016-soda-story-brewing-tycoon.json](./119016-soda-story-brewing-tycoon.json) |
 | Sodablood | 312174 | [312174-sodablood.json](./312174-sodablood.json) |
 | Sodium One | 45282 | [45282-sodium-one.json](./45282-sodium-one.json) |
@@ -5960,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Riders Regravitified | 172112 | [172112-sonic-riders-regravitified.json](./172112-sonic-riders-regravitified.json) |
 | Sonic Riders Tournament Edition 2.0 | 337111 | [337111-sonic-riders-tournament-edition-2-0.json](./337111-sonic-riders-tournament-edition-2-0.json) |
 | Sonic Ring Thing | 299875 | [299875-sonic-ring-thing.json](./299875-sonic-ring-thing.json) |
+| Sonic Rivals | 19260 | [19260-sonic-rivals.json](./19260-sonic-rivals.json) |
 | Sonic Robo Blast | 134011 | [134011-sonic-robo-blast.json](./134011-sonic-robo-blast.json) |
 | Sonic Robo Blast | 280211 | [280211-sonic-robo-blast.json](./280211-sonic-robo-blast.json) |
 | Sonic Robo Blast 2 | 280214 | [280214-sonic-robo-blast-2.json](./280214-sonic-robo-blast-2.json) |
@@ -8458,6 +8464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight X-2: Galactic Puzzles | 163421 | [163421-starlight-x-2-galactic-puzzles.json](./163421-starlight-x-2-galactic-puzzles.json) |
 | Starlight: Eye of the Storm | 155670 | [155670-starlight-eye-of-the-storm.json](./155670-starlight-eye-of-the-storm.json) |
 | Starlines | 305956 | [305956-starlines.json](./305956-starlines.json) |
+| Starlink: Battle for Atlas | 37066 | [37066-starlink-battle-for-atlas.json](./37066-starlink-battle-for-atlas.json) |
 | Starlit Kart Racing | 215153 | [215153-starlit-kart-racing.json](./215153-starlit-kart-racing.json) |
 | Starlit World | 400322 | [400322-starlit-world.json](./400322-starlit-world.json) |
 | Starlite | 137057 | [137057-starlite.json](./137057-starlite.json) |
@@ -9660,6 +9667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold Collection | 21771 | [21771-stronghold-collection.json](./21771-stronghold-collection.json) |
 | Stronghold Crusader | 964 | [964-stronghold-crusader.json](./964-stronghold-crusader.json) |
 | Stronghold Crusader 2: Special Edition | 51936 | [51936-stronghold-crusader-2-special-edition.json](./51936-stronghold-crusader-2-special-edition.json) |
+| Stronghold Crusader HD | 29211 | [29211-stronghold-crusader-hd.json](./29211-stronghold-crusader-hd.json) |
 | Stronghold Crusader II: The Emperor and The Hermit | 89218 | [89218-stronghold-crusader-ii-the-emperor-and-the-hermit.json](./89218-stronghold-crusader-ii-the-emperor-and-the-hermit.json) |
 | Stronghold Crusader II: The Princess and The Pig | 89217 | [89217-stronghold-crusader-ii-the-princess-and-the-pig.json](./89217-stronghold-crusader-ii-the-princess-and-the-pig.json) |
 | Stronghold Crusader II: The Templar &The Duke | 89219 | [89219-stronghold-crusader-ii-the-templar-and-the-duke.json](./89219-stronghold-crusader-ii-the-templar-and-the-duke.json) |
@@ -10468,6 +10476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
 | Super Famicom Wars | 38320 | [38320-super-famicom-wars.json](./38320-super-famicom-wars.json) |
 | Super Famicom Wars BS Ban | 150173 | [150173-super-famicom-wars-bs-ban.json](./150173-super-famicom-wars-bs-ban.json) |
+| Super Fancy Pants Adventure | 51485 | [51485-super-fancy-pants-adventure.json](./51485-super-fancy-pants-adventure.json) |
 | Super Fangame Maker | 322607 | [322607-super-fangame-maker.json](./322607-super-fangame-maker.json) |
 | Super Farm | 43290 | [43290-super-farm.json](./43290-super-farm.json) |
 | Super Fight | 132240 | [132240-super-fight.json](./132240-super-fight.json) |
