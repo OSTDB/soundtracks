@@ -2520,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Academy for Future Villains | 67914 | [67914-grand-academy-for-future-villains.json](./67914-grand-academy-for-future-villains.json) |
 | Grand Cash Casino Slots | 386226 | [386226-grand-cash-casino-slots.json](./386226-grand-cash-casino-slots.json) |
 | Grand Casino | 295032 | [295032-grand-casino.json](./295032-grand-casino.json) |
+| Grand Chase | 7496 | [7496-grand-chase.json](./7496-grand-chase.json) |
 | Grand Chase Classic | 166856 | [166856-grand-chase-classic.json](./166856-grand-chase-classic.json) |
 | Grand City Car Driving | 219808 | [219808-grand-city-car-driving.json](./219808-grand-city-car-driving.json) |
 | Grand Cross W | 193860 | [193860-grand-cross-w.json](./193860-grand-cross-w.json) |
@@ -3268,6 +3269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians Of Gaia: Guardians 8 | 266321 | [266321-guardians-of-gaia-guardians-8.json](./266321-guardians-of-gaia-guardians-8.json) |
 | Guardians of Greyrock | 151034 | [151034-guardians-of-greyrock.json](./151034-guardians-of-greyrock.json) |
 | Guardians of Magic: Amanda's Awakening | 19315 | [19315-guardians-of-magic-amandas-awakening.json](./19315-guardians-of-magic-amandas-awakening.json) |
+| Guardians of Middle-earth | 7892 | [7892-guardians-of-middle-earth.json](./7892-guardians-of-middle-earth.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
 | Guardians of the Wall | 396884 | [396884-guardians-of-the-wall.json](./396884-guardians-of-the-wall.json) |
 | Guarding Goddess | 207331 | [207331-guarding-goddess.json](./207331-guarding-goddess.json) |
