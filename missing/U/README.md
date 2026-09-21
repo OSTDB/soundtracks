@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFOs Love Cows | 60513 | [60513-ufos-love-cows.json](./60513-ufos-love-cows.json) |
 | UFS League | 207883 | [207883-ufs-league.json](./207883-ufs-league.json) |
 | Ug! Caveman Game | 198528 | [198528-ug-caveman-game.json](./198528-ug-caveman-game.json) |
+| Ugetsu Kitan | 57362 | [57362-ugetsu-kitan.json](./57362-ugetsu-kitan.json) |
 | Ugoku Sushi Bar | 395584 | [395584-ugoku-sushi-bar.json](./395584-ugoku-sushi-bar.json) |
 | Uh Oh Calico! | 273411 | [273411-uh-oh-calico.json](./273411-uh-oh-calico.json) |
 | Uh Oh, UFO! | 232020 | [232020-uh-oh-ufo.json](./232020-uh-oh-ufo.json) |
