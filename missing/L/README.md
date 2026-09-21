@@ -3305,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxcustos | 322605 | [322605-luxcustos.json](./322605-luxcustos.json) |
 | Luxor 2 HD | 30226 | [30226-luxor-2-hd.json](./30226-luxor-2-hd.json) |
 | Luxor Pharaoh's Challenge | 42879 | [42879-luxor-pharaohs-challenge.json](./42879-luxor-pharaohs-challenge.json) |
+| Luxor: Mah Jong | 16004 | [16004-luxor-mah-jong.json](./16004-luxor-mah-jong.json) |
 | Luxsor: Nights Over Egypt | 400338 | [400338-luxsor-nights-over-egypt.json](./400338-luxsor-nights-over-egypt.json) |
 | Luxuria Superbia | 10630 | [10630-luxuria-superbia.json](./10630-luxuria-superbia.json) |
 | Luxuriant | 356714 | [356714-luxuriant.json](./356714-luxuriant.json) |
