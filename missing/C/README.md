@@ -3340,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue/Cluedo: Halloween Records | 328997 | [328997-clue-cluedo-halloween-records.json](./328997-clue-cluedo-halloween-records.json) |
 | Clue/Cluedo: Sherlock Suspect Pack | 407418 | [407418-clue-cluedo-sherlock-suspect-pack.json](./407418-clue-cluedo-sherlock-suspect-pack.json) |
 | Clue/Cluedo: Tropical Pack | 263035 | [263035-clue-cluedo-tropical-pack.json](./263035-clue-cluedo-tropical-pack.json) |
+| Cluedo Chronicles - Fatal Illusion | 50799 | [50799-cluedo-chronicles-fatal-illusion.json](./50799-cluedo-chronicles-fatal-illusion.json) |
 | Cluedo: The Mysteries Continue | 45936 | [45936-cluedo-the-mysteries-continue.json](./45936-cluedo-the-mysteries-continue.json) |
 | Cluefinders: Math Adventures - Mystery of the Himalayas | 66092 | [66092-cluefinders-math-adventures-mystery-of-the-himalayas.json](./66092-cluefinders-math-adventures-mystery-of-the-himalayas.json) |
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
@@ -5855,6 +5856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CS Pipas: Legend | 391713 | [391713-cs-pipas-legend.json](./391713-cs-pipas-legend.json) |
 | CSC | 339346 | [339346-csc.json](./339346-csc.json) |
 | CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
+| CSI: New York | 50800 | [50800-csi-new-york.json](./50800-csi-new-york.json) |
 | CSI: NY | 70640 | [70640-csi-ny.json](./70640-csi-ny.json) |
 | CSI: Slots | 79913 | [79913-csi-slots.json](./79913-csi-slots.json) |
 | CSOL | 258488 | [258488-csol.json](./258488-csol.json) |
