@@ -2435,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cassandra Galleries | 86022 | [86022-the-cassandra-galleries.json](./86022-the-cassandra-galleries.json) |
 | The Castle | 121470 | [121470-the-castle.json](./121470-the-castle.json) |
 | The Castle | 223010 | [223010-the-castle.json](./223010-the-castle.json) |
+| The Castle | 6102 | [6102-the-castle.json](./6102-the-castle.json) |
 | The Castle Burns! | 239153 | [239153-the-castle-burns.json](./239153-the-castle-burns.json) |
 | The Castle Disaster | 95192 | [95192-the-castle-disaster.json](./95192-the-castle-disaster.json) |
 | The Castle Disaster 2 | 105318 | [105318-the-castle-disaster-2.json](./105318-the-castle-disaster-2.json) |
