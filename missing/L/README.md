@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightning Fast | 157141 | [157141-lightning-fast.json](./157141-lightning-fast.json) |
 | Lightning Fighter | 335329 | [335329-lightning-fighter.json](./335329-lightning-fighter.json) |
 | Lightning Link | 386224 | [386224-lightning-link.json](./386224-lightning-link.json) |
+| Lightning Returns: Final Fantasy XIII | 2449 | [2449-lightning-returns-final-fantasy-xiii.json](./2449-lightning-returns-final-fantasy-xiii.json) |
 | Lightning: D-Day | 47984 | [47984-lightning-d-day.json](./47984-lightning-d-day.json) |
 | Lighton | 148895 | [148895-lighton.json](./148895-lighton.json) |
 | Lightopus | 22316 | [22316-lightopus.json](./22316-lightopus.json) |
@@ -3145,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion 3 | 109455 | [109455-luigis-mansion-3.json](./109455-luigis-mansion-3.json) |
 | Luigi's Mansion 3: Multiplayer Pack - Part 2 | 127550 | [127550-luigis-mansion-3-multiplayer-pack-part-2.json](./127550-luigis-mansion-3-multiplayer-pack-part-2.json) |
 | Luigi's Mansion 64.5: Super Player Mode | 374176 | [374176-luigis-mansion-64-5-super-player-mode.json](./374176-luigis-mansion-64-5-super-player-mode.json) |
+| Luigi's Mansion: Dark Moon | 2476 | [2476-luigis-mansion-dark-moon.json](./2476-luigis-mansion-dark-moon.json) |
 | Luigi's Mansion: Extra Tangy | 313113 | [313113-luigis-mansion-extra-tangy.json](./313113-luigis-mansion-extra-tangy.json) |
 | Luigi's Mansion: Premium Deluxe | 259268 | [259268-luigis-mansion-premium-deluxe.json](./259268-luigis-mansion-premium-deluxe.json) |
 | Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
