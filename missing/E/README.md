@@ -2077,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europe Ablaze | 25978 | [25978-europe-ablaze.json](./25978-europe-ablaze.json) |
 | Europe Front II | 200741 | [200741-europe-front-ii.json](./200741-europe-front-ii.json) |
 | European 2 | 70128 | [70128-european-2.json](./70128-european-2.json) |
+| European Air War | 685 | [685-european-air-war.json](./685-european-air-war.json) |
 | European Card Wars | 291229 | [291229-european-card-wars.json](./291229-european-card-wars.json) |
 | European Championship 1992 | 70102 | [70102-european-championship-1992.json](./70102-european-championship-1992.json) |
 | European Football Champ | 39672 | [39672-european-football-champ.json](./39672-european-football-champ.json) |
