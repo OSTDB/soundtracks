@@ -1037,6 +1037,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Bot | 114343 | [114343-aim-bot.json](./114343-aim-bot.json) |
 | Aim Champions: Gun Shooter Simulator | 205025 | [205025-aim-champions-gun-shooter-simulator.json](./205025-aim-champions-gun-shooter-simulator.json) |
 | Aim Down Screen | 283888 | [283888-aim-down-screen.json](./283888-aim-down-screen.json) |
+| Aim for the Top! Gunbuster Vol. 1 | 57928 | [57928-aim-for-the-top-gunbuster-vol-1.json](./57928-aim-for-the-top-gunbuster-vol-1.json) |
+| Aim for the Top! Gunbuster vol. 2 | 57927 | [57927-aim-for-the-top-gunbuster-vol-2.json](./57927-aim-for-the-top-gunbuster-vol-2.json) |
 | Aim Lab Mobile | 226768 | [226768-aim-lab-mobile.json](./226768-aim-lab-mobile.json) |
 | Aim Sex | 297058 | [297058-aim-sex.json](./297058-aim-sex.json) |
 | Aim To Capture | 373618 | [373618-aim-to-capture.json](./373618-aim-to-capture.json) |
@@ -1127,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AiRace Speed | 8629 | [8629-airace-speed.json](./8629-airace-speed.json) |
 | AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
 | Airaki! | 61557 | [61557-airaki.json](./61557-airaki.json) |
+| Airavat | 57916 | [57916-airavat.json](./57916-airavat.json) |
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
 | Airborne Empire | 252769 | [252769-airborne-empire.json](./252769-airborne-empire.json) |
 | Airborne Justice | 321533 | [321533-airborne-justice.json](./321533-airborne-justice.json) |
@@ -1514,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Lullaby | 171476 | [171476-alices-lullaby.json](./171476-alices-lullaby.json) |
 | Alice's Magical Mahjong | 205118 | [205118-alices-magical-mahjong.json](./205118-alices-magical-mahjong.json) |
 | Alice's Mergeland Adventure | 220223 | [220223-alices-mergeland-adventure.json](./220223-alices-mergeland-adventure.json) |
+| Alice's Space Adventure | 57910 | [57910-alices-space-adventure.json](./57910-alices-space-adventure.json) |
 | Alice's Warped Wonderland | 145633 | [145633-alices-warped-wonderland.json](./145633-alices-warped-wonderland.json) |
 | Alice's Wonderland: Cast in Shadow | 296067 | [296067-alices-wonderland-cast-in-shadow.json](./296067-alices-wonderland-cast-in-shadow.json) |
 | Alicia Online | 60233 | [60233-alicia-online.json](./60233-alicia-online.json) |
@@ -3792,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AridFortress | 102224 | [102224-aridfortress.json](./102224-aridfortress.json) |
 | Arie: Moonprayer | 258534 | [258534-arie-moonprayer.json](./258534-arie-moonprayer.json) |
 | Ariel's Daily Grind | 223492 | [223492-ariels-daily-grind.json](./223492-ariels-daily-grind.json) |
+| Ariel's Story Studio | 57920 | [57920-ariels-story-studio.json](./57920-ariels-story-studio.json) |
 | Aries: Origins | 142865 | [142865-aries-origins.json](./142865-aries-origins.json) |
 | Arifureta: From Commonplace to World's Strongest - Rebellion Soul | 390534 | [390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json](./390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json) |
 | Arigatou, Ningen-san! | 135030 | [135030-arigatou-ningen-san.json](./135030-arigatou-ningen-san.json) |
@@ -3869,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon Riders | 84152 | [84152-armageddon-riders.json](./84152-armageddon-riders.json) |
 | ArmageDoom | 201231 | [201231-armagedoom.json](./201231-armagedoom.json) |
 | Armagetron Advanced | 51244 | [51244-armagetron-advanced.json](./51244-armagetron-advanced.json) |
+| Armajet | 57939 | [57939-armajet.json](./57939-armajet.json) |
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
 | Armalyte: The Final Run | 14266 | [14266-armalyte-the-final-run.json](./14266-armalyte-the-final-run.json) |
 | Armament 2028 | 99380 | [99380-armament-2028.json](./99380-armament-2028.json) |
