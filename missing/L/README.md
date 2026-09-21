@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LetterBound | 151185 | [151185-letterbound.json](./151185-letterbound.json) |
 | Lettergreep | 45918 | [45918-lettergreep.json](./45918-lettergreep.json) |
 | LetterMeister | 173802 | [173802-lettermeister.json](./173802-lettermeister.json) |
+| Letterorites | 58460 | [58460-letterorites.json](./58460-letterorites.json) |
 | Letters | 314307 | [314307-letters.json](./314307-letters.json) |
 | Letters & Legends | 292319 | [292319-letters-and-legends.json](./292319-letters-and-legends.json) |
 | Letters from the War | 340916 | [340916-letters-from-the-war.json](./340916-letters-from-the-war.json) |
