@@ -1635,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy II | 16474 | [16474-final-fantasy-ii.json](./16474-final-fantasy-ii.json) |
 | Final Fantasy II | 271819 | [271819-final-fantasy-ii.json](./271819-final-fantasy-ii.json) |
 | Final Fantasy II | 387 | [387-final-fantasy-ii.json](./387-final-fantasy-ii.json) |
+| Final Fantasy II: 20th Anniversary Edition | 121717 | [121717-final-fantasy-ii-20th-anniversary-edition.json](./121717-final-fantasy-ii-20th-anniversary-edition.json) |
 | Final Fantasy II: Job System | 343369 | [343369-final-fantasy-ii-job-system.json](./343369-final-fantasy-ii-job-system.json) |
 | Final Fantasy III | 158982 | [158982-final-fantasy-iii.json](./158982-final-fantasy-iii.json) |
 | Final Fantasy III + Final Fantasy IV: Double Pack Edition | 301387 | [301387-final-fantasy-iii-final-fantasy-iv-double-pack-edition.json](./301387-final-fantasy-iii-final-fantasy-iv-double-pack-edition.json) |
@@ -4357,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Pipe | 28982 | [28982-full-pipe.json](./28982-full-pipe.json) |
 | Full Pitch | 115685 | [115685-full-pitch.json](./115685-full-pitch.json) |
 | Full Spectrum Gradient | 342717 | [342717-full-spectrum-gradient.json](./342717-full-spectrum-gradient.json) |
+| Full Spectrum Warrior | 5840 | [5840-full-spectrum-warrior.json](./5840-full-spectrum-warrior.json) |
 | Full Speed Animals: Disorder | 296380 | [296380-full-speed-animals-disorder.json](./296380-full-speed-animals-disorder.json) |
 | Full Strength Strongman Competition | 62202 | [62202-full-strength-strongman-competition.json](./62202-full-strength-strongman-competition.json) |
 | Full Swing Golf | 299472 | [299472-full-swing-golf.json](./299472-full-swing-golf.json) |
