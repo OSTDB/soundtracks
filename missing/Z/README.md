@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kyouryoku: Kanken DS Training | 123032 | [123032-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kyouryoku-kanken-ds-training.json](./123032-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kyouryoku-kanken-ds-training.json) |
 | Zaitaku Touhyou System: Spat4-Wide | 37749 | [37749-zaitaku-touhyou-system-spat4-wide.json](./37749-zaitaku-touhyou-system-spat4-wide.json) |
 | Zak | 125835 | [125835-zak.json](./125835-zak.json) |
+| Zak McKracken and the Alien Mindbenders | 106 | [106-zak-mckracken-and-the-alien-mindbenders.json](./106-zak-mckracken-and-the-alien-mindbenders.json) |
 | Zak McKracken: A Mansion, a Meteor and the Alien Mindbenders | 328014 | [328014-zak-mckracken-a-mansion-a-meteor-and-the-alien-mindbenders.json](./328014-zak-mckracken-a-mansion-a-meteor-and-the-alien-mindbenders.json) |
 | Zak's Son | 94673 | [94673-zaks-son.json](./94673-zaks-son.json) |
 | Zakantosh Cardgame | 263038 | [263038-zakantosh-cardgame.json](./263038-zakantosh-cardgame.json) |
