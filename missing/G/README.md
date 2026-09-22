@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabriel's Worlds: The Adventure | 163954 | [163954-gabriels-worlds-the-adventure.json](./163954-gabriels-worlds-the-adventure.json) |
 | Gabriel’s Worlds: The Sokoban Adventure | 378192 | [378192-gabriel-s-worlds-the-sokoban-adventure.json](./378192-gabriel-s-worlds-the-sokoban-adventure.json) |
 | Gabrielle | 221967 | [221967-gabrielle.json](./221967-gabrielle.json) |
+| Gabrielle's Ghostly Groove 3D | 23520 | [23520-gabrielles-ghostly-groove-3d.json](./23520-gabrielles-ghostly-groove-3d.json) |
 | Gacha Adventure | 375323 | [375323-gacha-adventure.json](./375323-gacha-adventure.json) |
 | Gacha Capsule Shop Simulator: Akihabara | 386674 | [386674-gacha-capsule-shop-simulator-akihabara.json](./386674-gacha-capsule-shop-simulator-akihabara.json) |
 | Gacha Club | 142408 | [142408-gacha-club.json](./142408-gacha-club.json) |
@@ -1243,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghetto Conspiracy | 127366 | [127366-ghetto-conspiracy.json](./127366-ghetto-conspiracy.json) |
 | Ghetto Zombies: Graffiti Squad | 255711 | [255711-ghetto-zombies-graffiti-squad.json](./255711-ghetto-zombies-graffiti-squad.json) |
 | Ghost Battle | 78319 | [78319-ghost-battle.json](./78319-ghost-battle.json) |
+| Ghost Blade | 23442 | [23442-ghost-blade.json](./23442-ghost-blade.json) |
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
 | Ghost Castle | 192821 | [192821-ghost-castle.json](./192821-ghost-castle.json) |
 | Ghost Catchers | 272294 | [272294-ghost-catchers.json](./272294-ghost-catchers.json) |
@@ -2204,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Peaks | 107329 | [107329-golf-peaks.json](./107329-golf-peaks.json) |
 | Golf Pro 2000 Downunder | 93072 | [93072-golf-pro-2000-downunder.json](./93072-golf-pro-2000-downunder.json) |
 | Golf Resort Tycoon | 73296 | [73296-golf-resort-tycoon.json](./73296-golf-resort-tycoon.json) |
+| Golf Resort Tycoon II | 23465 | [23465-golf-resort-tycoon-ii.json](./23465-golf-resort-tycoon-ii.json) |
 | Golf Solitaire Pro | 88299 | [88299-golf-solitaire-pro.json](./88299-golf-solitaire-pro.json) |
 | Golf Solitaire Simple | 186246 | [186246-golf-solitaire-simple.json](./186246-golf-solitaire-simple.json) |
 | Golf Star | 259554 | [259554-golf-star.json](./259554-golf-star.json) |
