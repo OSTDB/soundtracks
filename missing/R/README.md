@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Climber | 330135 | [330135-rat-climber.json](./330135-rat-climber.json) |
 | Rat Farm | 414418 | [414418-rat-farm.json](./414418-rat-farm.json) |
 | Rat King | 394876 | [394876-rat-king.json](./394876-rat-king.json) |
+| Rat on a Snowboard | 88516 | [88516-rat-on-a-snowboard.json](./88516-rat-on-a-snowboard.json) |
 | Rat Race | 408783 | [408783-rat-race.json](./408783-rat-race.json) |
 | Rat Race | 60789 | [60789-rat-race.json](./60789-rat-race.json) |
 | Rat Racer | 127760 | [127760-rat-racer.json](./127760-rat-racer.json) |
@@ -894,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re-Spawn Tournament | 213465 | [213465-re-spawn-tournament.json](./213465-re-spawn-tournament.json) |
 | Re-telling | 176955 | [176955-re-telling.json](./176955-re-telling.json) |
 | Re-wind 2005 | 70428 | [70428-re-wind-2005.json](./70428-re-wind-2005.json) |
+| Re;Lord 1: The Witch of Herfort and Stuffed Animals | 90256 | [90256-re-lord-1-the-witch-of-herfort-and-stuffed-animals.json](./90256-re-lord-1-the-witch-of-herfort-and-stuffed-animals.json) |
 | Re;Lord 3: The Demon Lord of Groessen and The Final Witch | 305390 | [305390-re-lord-3-the-demon-lord-of-groessen-and-the-final-witch.json](./305390-re-lord-3-the-demon-lord-of-groessen-and-the-final-witch.json) |
 | Re;member | 145461 | [145461-re-member.json](./145461-re-member.json) |
 | Re;quartz Reido | 211948 | [211948-re-quartz-reido.json](./211948-re-quartz-reido.json) |
