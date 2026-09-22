@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Shark | 294427 | [294427-new-york-shark.json](./294427-new-york-shark.json) |
 | New York Taxi Simulator | 33444 | [33444-new-york-taxi-simulator.json](./33444-new-york-taxi-simulator.json) |
 | New York Times Crosswords | 210105 | [210105-new-york-times-crosswords.json](./210105-new-york-times-crosswords.json) |
+| New York Times Crosswords | 44069 | [44069-new-york-times-crosswords.json](./44069-new-york-times-crosswords.json) |
 | New York Warriors | 39033 | [39033-new-york-warriors.json](./39033-new-york-warriors.json) |
 | New Zealand Jigsaw Puzzles | 274766 | [274766-new-zealand-jigsaw-puzzles.json](./274766-new-zealand-jigsaw-puzzles.json) |
 | New Zelda | 270386 | [270386-new-zelda.json](./270386-new-zelda.json) |
@@ -1364,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 97 | 817 | [817-nhl-97.json](./817-nhl-97.json) |
 | NHL All-Star Hockey '95 | 19559 | [19559-nhl-all-star-hockey-95.json](./19559-nhl-all-star-hockey-95.json) |
 | NHL Eastside Hockey Manager | 74037 | [74037-nhl-eastside-hockey-manager.json](./74037-nhl-eastside-hockey-manager.json) |
+| NHL Face Off '97 | 43696 | [43696-nhl-face-off-97.json](./43696-nhl-face-off-97.json) |
 | NHL Hitz 2003 | 4047 | [4047-nhl-hitz-2003.json](./4047-nhl-hitz-2003.json) |
 | NHL Hockey | 210102 | [210102-nhl-hockey.json](./210102-nhl-hockey.json) |
 | NHL Hockey 2000 | 299312 | [299312-nhl-hockey-2000.json](./299312-nhl-hockey-2000.json) |
@@ -1854,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Torappu | 62192 | [62192-ninja-torappu.json](./62192-ninja-torappu.json) |
 | Ninja Toy Warrior - Legendary Ninja Fight | 100935 | [100935-ninja-toy-warrior-legendary-ninja-fight.json](./100935-ninja-toy-warrior-legendary-ninja-fight.json) |
 | Ninja Trip | 102726 | [102726-ninja-trip.json](./102726-ninja-trip.json) |
+| Ninja Usagimaru: The Mysterious Karakuri Castle | 44391 | [44391-ninja-usagimaru-the-mysterious-karakuri-castle.json](./44391-ninja-usagimaru-the-mysterious-karakuri-castle.json) |
 | Ninja Village | 61080 | [61080-ninja-village.json](./61080-ninja-village.json) |
 | Ninja vs. Zombies 3 | 335275 | [335275-ninja-vs-zombies-3.json](./335275-ninja-vs-zombies-3.json) |
 | Ninja Warrior Princess | 229334 | [229334-ninja-warrior-princess.json](./229334-ninja-warrior-princess.json) |
