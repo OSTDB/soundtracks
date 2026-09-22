@@ -3028,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Combat Simulator: Black Shark 2 | 65434 | [65434-digital-combat-simulator-black-shark-2.json](./65434-digital-combat-simulator-black-shark-2.json) |
 | Digital Dance Mix Vol. 1: Namie Amuro | 96091 | [96091-digital-dance-mix-vol-1-namie-amuro.json](./96091-digital-dance-mix-vol-1-namie-amuro.json) |
 | Digital Dance Mix Vol.1 Namie Amuro | 108828 | [108828-digital-dance-mix-vol-1-namie-amuro.json](./108828-digital-dance-mix-vol-1-namie-amuro.json) |
+| Digital Defender O.R.C. | 402496 | [402496-digital-defender-o-r-c.json](./402496-digital-defender-o-r-c.json) |
 | Digital Devil Saga: Avatar Tuner - A's Test Server | 136416 | [136416-digital-devil-saga-avatar-tuner-as-test-server.json](./136416-digital-devil-saga-avatar-tuner-as-test-server.json) |
 | Digital Diamond Baseball | 86538 | [86538-digital-diamond-baseball.json](./86538-digital-diamond-baseball.json) |
 | Digital Dungeon | 101352 | [101352-digital-dungeon.json](./101352-digital-dungeon.json) |
@@ -5682,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropzone | 369618 | [369618-dropzone.json](./369618-dropzone.json) |
 | DropZone | 19546 | [19546-dropzone.json](./19546-dropzone.json) |
 | Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
+| Drowned Caves | 402501 | [402501-drowned-caves.json](./402501-drowned-caves.json) |
 | Drowned God: Conspiracy of the Ages | 12421 | [12421-drowned-god-conspiracy-of-the-ages.json](./12421-drowned-god-conspiracy-of-the-ages.json) |
 | Drowned Helicopter | 166695 | [166695-drowned-helicopter.json](./166695-drowned-helicopter.json) |
 | Drowning Cross | 119750 | [119750-drowning-cross.json](./119750-drowning-cross.json) |
