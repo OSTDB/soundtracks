@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Wayne: Vacation Desperation | 241378 | [241378-captain-wayne-vacation-desperation.json](./241378-captain-wayne-vacation-desperation.json) |
 | Captain Willie | 285033 | [285033-captain-willie.json](./285033-captain-willie.json) |
 | Captive | 196698 | [196698-captive.json](./196698-captive.json) |
+| Captive Love Melty Holic | 416078 | [416078-captive-love-melty-holic.json](./416078-captive-love-melty-holic.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
 | Capture | 72369 | [72369-capture.json](./72369-capture.json) |
 | Capture Corps: Archipelago | 217867 | [217867-capture-corps-archipelago.json](./217867-capture-corps-archipelago.json) |
@@ -2862,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Church of Shadows | 323527 | [323527-church-of-shadows.json](./323527-church-of-shadows.json) |
 | Church Simulator | 312878 | [312878-church-simulator.json](./312878-church-simulator.json) |
 | Churip | 316993 | [316993-churip.json](./316993-churip.json) |
+| Churrasco | 416099 | [416099-churrasco.json](./416099-churrasco.json) |
 | Chushpan | 292552 | [292552-chushpan.json](./292552-chushpan.json) |
 | Chushpan Simulator 2 | 309682 | [309682-chushpan-simulator-2.json](./309682-chushpan-simulator-2.json) |
 | ChuSingura46+1 S | 32917 | [32917-chusingura46-1-s.json](./32917-chusingura46-1-s.json) |
@@ -4230,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: The Covert Operations | 663 | [663-command-and-conquer-the-covert-operations.json](./663-command-and-conquer-the-covert-operations.json) |
 | Command Ant Conquer | 176357 | [176357-command-ant-conquer.json](./176357-command-ant-conquer.json) |
 | Command Center Earth | 273634 | [273634-command-center-earth.json](./273634-command-center-earth.json) |
+| Command Doctrine | 416109 | [416109-command-doctrine.json](./416109-command-doctrine.json) |
 | Command Line Mazer | 203972 | [203972-command-line-mazer.json](./203972-command-line-mazer.json) |
 | Command Monster | 413763 | [413763-command-monster.json](./413763-command-monster.json) |
 | Command Ops 2: Bastogne Vol. 4 | 170396 | [170396-command-ops-2-bastogne-vol-4.json](./170396-command-ops-2-bastogne-vol-4.json) |
@@ -5745,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Angel | 339339 | [339339-crimson-angel.json](./339339-crimson-angel.json) |
 | Crimson Connect Origin | 238521 | [238521-crimson-connect-origin.json](./238521-crimson-connect-origin.json) |
 | Crimson Defense | 95226 | [95226-crimson-defense.json](./95226-crimson-defense.json) |
+| Crimson Desert: Charting the Unknown | 416102 | [416102-crimson-desert-charting-the-unknown.json](./416102-crimson-desert-charting-the-unknown.json) |
 | Crimson Faith | 376477 | [376477-crimson-faith.json](./376477-crimson-faith.json) |
 | Crimson Frontier | 335864 | [335864-crimson-frontier.json](./335864-crimson-frontier.json) |
 | Crimson Furnace | 381626 | [381626-crimson-furnace.json](./381626-crimson-furnace.json) |
@@ -6381,6 +6385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CUBG: Car unknown battlegrounds | 120994 | [120994-cubg-car-unknown-battlegrounds.json](./120994-cubg-car-unknown-battlegrounds.json) |
 | Cubians VR | 29919 | [29919-cubians-vr.json](./29919-cubians-vr.json) |
 | Cubic Castles | 17727 | [17727-cubic-castles.json](./17727-cubic-castles.json) |
+| Cubic Color Confusion | 416087 | [416087-cubic-color-confusion.json](./416087-cubic-color-confusion.json) |
 | Cubic Cosmos | 348835 | [348835-cubic-cosmos.json](./348835-cubic-cosmos.json) |
 | Cubic Figures | 215112 | [215112-cubic-figures.json](./215112-cubic-figures.json) |
 | Cubic Figures 2 | 249488 | [249488-cubic-figures-2.json](./249488-cubic-figures-2.json) |
