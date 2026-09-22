@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Sound Car | 159359 | [159359-magical-sound-car.json](./159359-magical-sound-car.json) |
 | Magical Sports: 2001 Pro Yakyuu | 58511 | [58511-magical-sports-2001-pro-yakyuu.json](./58511-magical-sports-2001-pro-yakyuu.json) |
 | Magical Star Pillars | 87976 | [87976-magical-star-pillars.json](./87976-magical-star-pillars.json) |
+| Magical Starsign | 15839 | [15839-magical-starsign.json](./15839-magical-starsign.json) |
 | Magical Stick Girl Miracle Kurun | 125427 | [125427-magical-stick-girl-miracle-kurun.json](./125427-magical-stick-girl-miracle-kurun.json) |
 | Magical Strings | 157719 | [157719-magical-strings.json](./157719-magical-strings.json) |
 | Magical Taluluto-kun | 180301 | [180301-magical-taluluto-kun.json](./180301-magical-taluluto-kun.json) |
@@ -3559,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft: My Personal Tutor Preschool & Kindergarden | 144363 | [144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json](./144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json) |
 | Microsurgeon | 5684 | [5684-microsurgeon.json](./5684-microsurgeon.json) |
 | Microtrip | 344909 | [344909-microtrip.json](./344909-microtrip.json) |
+| MicroVolts Surge | 16263 | [16263-microvolts-surge.json](./16263-microvolts-surge.json) |
 | Midas | 338837 | [338837-midas.json](./338837-midas.json) |
 | Middle Ages: Peasants & Knights | 304662 | [304662-middle-ages-peasants-and-knights.json](./304662-middle-ages-peasants-and-knights.json) |
 | Middle Kingdom | 356658 | [356658-middle-kingdom.json](./356658-middle-kingdom.json) |
@@ -6239,6 +6241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Makes Strange Deadfellows | 73320 | [73320-murder-makes-strange-deadfellows.json](./73320-murder-makes-strange-deadfellows.json) |
 | Murder Mall Escape | 311652 | [311652-murder-mall-escape.json](./311652-murder-mall-escape.json) |
 | Murder Mansion | 181845 | [181845-murder-mansion.json](./181845-murder-mansion.json) |
+| Murder Miners | 17035 | [17035-murder-miners.json](./17035-murder-miners.json) |
 | Murder Miners X | 265159 | [265159-murder-miners-x.json](./265159-murder-miners-x.json) |
 | Murder Mystery Castle | 399746 | [399746-murder-mystery-castle.json](./399746-murder-mystery-castle.json) |
 | Murder Mystery J: Jinrou Judgment - Maru Icon | 325460 | [325460-murder-mystery-j-jinrou-judgment-maru-icon.json](./325460-murder-mystery-j-jinrou-judgment-maru-icon.json) |
