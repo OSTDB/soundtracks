@@ -2877,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die drei???: Plan der Chamäleonbande | 302665 | [302665-die-drei-plan-der-chamaleonbande.json](./302665-die-drei-plan-der-chamaleonbande.json) |
 | Die Erdnussbutter | 285978 | [285978-die-erdnussbutter.json](./285978-die-erdnussbutter.json) |
 | Die Fast | 338289 | [338289-die-fast.json](./338289-die-fast.json) |
+| Die First | 414557 | [414557-die-first.json](./414557-die-first.json) |
 | Die for Valhalla! | 40868 | [40868-die-for-valhalla.json](./40868-die-for-valhalla.json) |
 | Die for Valhalla!: Special Edition | 122357 | [122357-die-for-valhalla-special-edition.json](./122357-die-for-valhalla-special-edition.json) |
 | Die Fugger | 86040 | [86040-die-fugger.json](./86040-die-fugger.json) |
