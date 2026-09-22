@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1999: Hore, Mita Koto ka! Seikimatsu | 48607 | [48607-1999-hore-mita-koto-ka-seikimatsu.json](./48607-1999-hore-mita-koto-ka-seikimatsu.json) |
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
+| 1Heart | 16316 | [16316-1heart.json](./16316-1heart.json) |
 | 1Key Rocket Launcher | 70099 | [70099-1key-rocket-launcher.json](./70099-1key-rocket-launcher.json) |
 | 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
 | 1nsane | 9894 | [9894-1nsane.json](./9894-1nsane.json) |
