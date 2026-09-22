@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canvas of Kings | 259576 | [259576-canvas-of-kings.json](./259576-canvas-of-kings.json) |
 | Canvas of Thoughts | 399590 | [399590-canvas-of-thoughts.json](./399590-canvas-of-thoughts.json) |
 | CanvasCraft | 332241 | [332241-canvascraft.json](./332241-canvascraft.json) |
+| Canyon Bomber | 17017 | [17017-canyon-bomber.json](./17017-canyon-bomber.json) |
 | Canyon Miner: Minecart Rush | 233110 | [233110-canyon-miner-minecart-rush.json](./233110-canyon-miner-minecart-rush.json) |
 | Canyon Rush | 291619 | [291619-canyon-rush.json](./291619-canyon-rush.json) |
 | Capacocha | 179139 | [179139-capacocha.json](./179139-capacocha.json) |
@@ -1625,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Rune Consortium: Shadows of Ascension | 293627 | [293627-celestial-rune-consortium-shadows-of-ascension.json](./293627-celestial-rune-consortium-shadows-of-ascension.json) |
 | Celestial Temple | 402888 | [402888-celestial-temple.json](./402888-celestial-temple.json) |
 | Celestial Trails | 322975 | [322975-celestial-trails.json](./322975-celestial-trails.json) |
+| Celestian Tales: Old North | 17693 | [17693-celestian-tales-old-north.json](./17693-celestian-tales-old-north.json) |
 | Celestian Tales: Old North - Howl of the Ravager | 124779 | [124779-celestian-tales-old-north-howl-of-the-ravager.json](./124779-celestian-tales-old-north-howl-of-the-ravager.json) |
 | Celestio 64 | 257399 | [257399-celestio-64.json](./257399-celestio-64.json) |
 | Cell Bound | 254495 | [254495-cell-bound.json](./254495-cell-bound.json) |
@@ -6441,6 +6443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Weekend | 153374 | [153374-cursed-weekend.json](./153374-cursed-weekend.json) |
 | Cursed Words | 360064 | [360064-cursed-words.json](./360064-cursed-words.json) |
 | CursedSword | 235195 | [235195-cursedsword.json](./235195-cursedsword.json) |
+| Curses 'N Chaos | 16470 | [16470-curses-n-chaos.json](./16470-curses-n-chaos.json) |
 | Cursewarden | 348233 | [348233-cursewarden.json](./348233-cursewarden.json) |
 | Cursor Car | 182928 | [182928-cursor-car.json](./182928-cursor-car.json) |
 | Cursor Challenge | 33120 | [33120-cursor-challenge.json](./33120-cursor-challenge.json) |
