@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunter | 206345 | [206345-deer-hunter.json](./206345-deer-hunter.json) |
 | Deer Hunter | 49896 | [49896-deer-hunter.json](./49896-deer-hunter.json) |
 | Deer Hunter - Big Buck Hunter | 101470 | [101470-deer-hunter-big-buck-hunter.json](./101470-deer-hunter-big-buck-hunter.json) |
+| Deer Hunter 2005 | 264 | [264-deer-hunter-2005.json](./264-deer-hunter-2005.json) |
 | Deer Hunter Classic | 86940 | [86940-deer-hunter-classic.json](./86940-deer-hunter-classic.json) |
 | Deer Hunter Companion | 64371 | [64371-deer-hunter-companion.json](./64371-deer-hunter-companion.json) |
 | Deer Hunter II: Extended Season | 64366 | [64366-deer-hunter-ii-extended-season.json](./64366-deer-hunter-ii-extended-season.json) |
@@ -2477,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction Darius | 121430 | [121430-destruction-darius.json](./121430-destruction-darius.json) |
 | Destruction Darius 2 | 121432 | [121432-destruction-darius-2.json](./121432-destruction-darius-2.json) |
 | Destruction Derby 64 | 10686 | [10686-destruction-derby-64.json](./10686-destruction-derby-64.json) |
+| Destruction Derby: Arenas | 1171 | [1171-destruction-derby-arenas.json](./1171-destruction-derby-arenas.json) |
 | Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
 | Destruction Rocks | 186192 | [186192-destruction-rocks.json](./186192-destruction-rocks.json) |
 | Destruction Simulator | 311455 | [311455-destruction-simulator.json](./311455-destruction-simulator.json) |
