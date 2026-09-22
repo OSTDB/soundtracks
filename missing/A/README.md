@@ -1554,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfa-Arkiv | 60793 | [60793-alfa-arkiv.json](./60793-alfa-arkiv.json) |
 | Alfabet Śmierci | 14238 | [14238-alfabet-smierci.json](./14238-alfabet-smierci.json) |
 | Alfal's Grove | 132651 | [132651-alfals-grove.json](./132651-alfals-grove.json) |
+| Alfred Chicken | 118492 | [118492-alfred-chicken.json](./118492-alfred-chicken.json) |
 | Alfred Chicken | 272843 | [272843-alfred-chicken.json](./272843-alfred-chicken.json) |
 | Alfred Chicken | 7749 | [7749-alfred-chicken.json](./7749-alfred-chicken.json) |
 | Alfred Hitchcock: Vertigo - Digital Deluxe Edition | 165621 | [165621-alfred-hitchcock-vertigo-digital-deluxe-edition.json](./165621-alfred-hitchcock-vertigo-digital-deluxe-edition.json) |
@@ -2055,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine Train 3D | 90709 | [90709-alpine-train-3d.json](./90709-alpine-train-3d.json) |
 | Alquiem | 330857 | [330857-alquiem.json](./330857-alquiem.json) |
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
+| Alt-Frequencies | 115650 | [115650-alt-frequencies.json](./115650-alt-frequencies.json) |
 | Alt254 | 135287 | [135287-alt254.json](./135287-alt254.json) |
 | Altair | 38550 | [38550-altair.json](./38550-altair.json) |
 | Altar of Evil | 269116 | [269116-altar-of-evil.json](./269116-altar-of-evil.json) |
