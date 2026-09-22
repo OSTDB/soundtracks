@@ -1294,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Breaker | 38377 | [38377-energy-breaker.json](./38377-energy-breaker.json) |
 | Energy Collector | 207503 | [207503-energy-collector.json](./207503-energy-collector.json) |
 | Energy Crush | 325445 | [325445-energy-crush.json](./325445-energy-crush.json) |
+| Energy Cycle Edge | 112590 | [112590-energy-cycle-edge.json](./112590-energy-cycle-edge.json) |
 | Energy Fighters | 235452 | [235452-energy-fighters.json](./235452-energy-fighters.json) |
 | Energy Hook | 20182 | [20182-energy-hook.json](./20182-energy-hook.json) |
 | Energy Hunter Boy | 119709 | [119709-energy-hunter-boy.json](./119709-energy-hunter-boy.json) |
