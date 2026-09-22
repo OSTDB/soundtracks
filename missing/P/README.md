@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
 | Path of Exile: Settlers of Kalguur | 310958 | [310958-path-of-exile-settlers-of-kalguur.json](./310958-path-of-exile-settlers-of-kalguur.json) |
 | Path of Exile: Synthesis | 115463 | [115463-path-of-exile-synthesis.json](./115463-path-of-exile-synthesis.json) |
+| Path of Fury: Episode I - Tetsuo's Tower | 335484 | [335484-path-of-fury-episode-i-tetsuos-tower.json](./335484-path-of-fury-episode-i-tetsuos-tower.json) |
 | Path of Gear: Blacksmith’s Legend | 358971 | [358971-path-of-gear-blacksmith-s-legend.json](./358971-path-of-gear-blacksmith-s-legend.json) |
 | Path of Giants | 122047 | [122047-path-of-giants.json](./122047-path-of-giants.json) |
 | Path of Heaven | 278142 | [278142-path-of-heaven.json](./278142-path-of-heaven.json) |
@@ -1748,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pferd & Pony - Mein Pferdehof | 125959 | [125959-pferd-and-pony-mein-pferdehof.json](./125959-pferd-and-pony-mein-pferdehof.json) |
 | PGA Championship Golf 2000: Titanium Edition | 70960 | [70960-pga-championship-golf-2000-titanium-edition.json](./70960-pga-championship-golf-2000-titanium-edition.json) |
 | PGA Tour 2K23: Tiger Woods Edition | 221421 | [221421-pga-tour-2k23-tiger-woods-edition.json](./221421-pga-tour-2k23-tiger-woods-edition.json) |
+| PGA Tour 2K25 | 328079 | [328079-pga-tour-2k25.json](./328079-pga-tour-2k25.json) |
 | PGA Tour Golf 486 | 94530 | [94530-pga-tour-golf-486.json](./94530-pga-tour-golf-486.json) |
 | PGA Tour Golf: The Monterey Courses | 206170 | [206170-pga-tour-golf-the-monterey-courses.json](./206170-pga-tour-golf-the-monterey-courses.json) |
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
