@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Hunters: Collector's Edition | 341021 | [341021-ghost-hunters-collectors-edition.json](./341021-ghost-hunters-collectors-edition.json) |
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
 | Ghost in the Shell | 8336 | [8336-ghost-in-the-shell.json](./8336-ghost-in-the-shell.json) |
+| Ghost in the Shell GBC | 400490 | [400490-ghost-in-the-shell-gbc.json](./400490-ghost-in-the-shell-gbc.json) |
 | Ghost in the Shell: Arise - Stealth Hounds | 52005 | [52005-ghost-in-the-shell-arise-stealth-hounds.json](./52005-ghost-in-the-shell-arise-stealth-hounds.json) |
 | Ghost in the Shell: Stand Alone Complex - First Assault Online | 35255 | [35255-ghost-in-the-shell-stand-alone-complex-first-assault-online.json](./35255-ghost-in-the-shell-stand-alone-complex-first-assault-online.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
