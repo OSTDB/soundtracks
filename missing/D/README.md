@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead for Dread | 305958 | [305958-dead-for-dread.json](./305958-dead-for-dread.json) |
 | Dead Fun Pack: Penguins and Aliens Strike Again | 102588 | [102588-dead-fun-pack-penguins-and-aliens-strike-again.json](./102588-dead-fun-pack-penguins-and-aliens-strike-again.json) |
 | Dead Function | 179737 | [179737-dead-function.json](./179737-dead-function.json) |
+| Dead Gears: Space of War | 401118 | [401118-dead-gears-space-of-war.json](./401118-dead-gears-space-of-war.json) |
 | Dead Giveaway: Zombie Quiz | 232044 | [232044-dead-giveaway-zombie-quiz.json](./232044-dead-giveaway-zombie-quiz.json) |
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
 | Dead Hook | 252209 | [252209-dead-hook.json](./252209-dead-hook.json) |
@@ -3143,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Dino | 287770 | [287770-dino-dino.json](./287770-dino-dino.json) |
 | Dino Domino | 360022 | [360022-dino-domino.json](./360022-dino-domino.json) |
 | Dino Eggs | 23928 | [23928-dino-eggs.json](./23928-dino-eggs.json) |
+| Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys | 401117 | [401117-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-boys.json](./401117-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-boys.json) |
 | Dino Fighters | 241975 | [241975-dino-fighters.json](./241975-dino-fighters.json) |
 | Dino Gaïa | 326060 | [326060-dino-gaia.json](./326060-dino-gaia.json) |
 | Dino Galaxy Tennis | 144945 | [144945-dino-galaxy-tennis.json](./144945-dino-galaxy-tennis.json) |
@@ -4743,6 +4745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Paolo no Totteoki Video | 307968 | [307968-dr-paolo-no-totteoki-video.json](./307968-dr-paolo-no-totteoki-video.json) |
 | Dr. Parking 4 | 345600 | [345600-dr-parking-4.json](./345600-dr-parking-4.json) |
 | Dr. Planet | 295530 | [295530-dr-planet.json](./295530-dr-planet.json) |
+| Dr. Psycho: Hospital Escape | 401115 | [401115-dr-psycho-hospital-escape.json](./401115-dr-psycho-hospital-escape.json) |
 | Dr. Rabbit's Toothpaste Tower | 320989 | [320989-dr-rabbits-toothpaste-tower.json](./320989-dr-rabbits-toothpaste-tower.json) |
 | Dr. Rin ni Kiitemite! Koi no Rin Fuusui | 65535 | [65535-dr-rin-ni-kiitemite-koi-no-rin-fuusui.json](./65535-dr-rin-ni-kiitemite-koi-no-rin-fuusui.json) |
 | Dr. Robotnik in Sonic the Hedgehog | 198517 | [198517-dr-robotnik-in-sonic-the-hedgehog.json](./198517-dr-robotnik-in-sonic-the-hedgehog.json) |
@@ -5648,6 +5651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Shadow Strike | 303262 | [303262-drone-shadow-strike.json](./303262-drone-shadow-strike.json) |
 | Drone Showcase | 186287 | [186287-drone-showcase.json](./186287-drone-showcase.json) |
 | Drone Simulator: Smash Zombies | 343249 | [343249-drone-simulator-smash-zombies.json](./343249-drone-simulator-smash-zombies.json) |
+| Drone Simulator: Smash Zombies | 401116 | [401116-drone-simulator-smash-zombies.json](./401116-drone-simulator-smash-zombies.json) |
 | Drone Tactics | 21487 | [21487-drone-tactics.json](./21487-drone-tactics.json) |
 | Drone Tanks | 415111 | [415111-drone-tanks.json](./415111-drone-tanks.json) |
 | Drone tracks | 121699 | [121699-drone-tracks.json](./121699-drone-tracks.json) |
@@ -6194,6 +6198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonfield | 331961 | [331961-dungeonfield.json](./331961-dungeonfield.json) |
 | Dungeonlike | 183574 | [183574-dungeonlike.json](./183574-dungeonlike.json) |
 | Dungeonlite Duelers | 175836 | [175836-dungeonlite-duelers.json](./175836-dungeonlite-duelers.json) |
+| Dungeonloop | 401092 | [401092-dungeonloop.json](./401092-dungeonloop.json) |
 | Dungeonoid 2: Awakening | 282152 | [282152-dungeonoid-2-awakening.json](./282152-dungeonoid-2-awakening.json) |
 | Dungeonpreneur | 274033 | [274033-dungeonpreneur.json](./274033-dungeonpreneur.json) |
 | Dungeonrite | 203941 | [203941-dungeonrite.json](./203941-dungeonrite.json) |
