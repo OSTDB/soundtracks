@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Rastakhan's Rumble | 111655 | [111655-hearthstone-rastakhans-rumble.json](./111655-hearthstone-rastakhans-rumble.json) |
 | Hearthstone: Scholomance Academy | 138798 | [138798-hearthstone-scholomance-academy.json](./138798-hearthstone-scholomance-academy.json) |
 | Hearthstone: The Boomsday Project | 105125 | [105125-hearthstone-the-boomsday-project.json](./105125-hearthstone-the-boomsday-project.json) |
+| Hearthstone: The Grand Tournament | 21973 | [21973-hearthstone-the-grand-tournament.json](./21973-hearthstone-the-grand-tournament.json) |
 | Hearthstone: United in Stormwind | 387381 | [387381-hearthstone-united-in-stormwind.json](./387381-hearthstone-united-in-stormwind.json) |
 | Heartland | 23046 | [23046-heartland.json](./23046-heartland.json) |
 | Heartland Deluxe | 73756 | [73756-heartland-deluxe.json](./73756-heartland-deluxe.json) |
