@@ -2991,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roaring Streets! | 181293 | [181293-roaring-streets.json](./181293-roaring-streets.json) |
 | Roaring Twenties Solitaire | 213935 | [213935-roaring-twenties-solitaire.json](./213935-roaring-twenties-solitaire.json) |
 | Roark's Attack on Titan Fan Game | 152751 | [152751-roarks-attack-on-titan-fan-game.json](./152751-roarks-attack-on-titan-fan-game.json) |
+| Roarr! | 96870 | [96870-roarr.json](./96870-roarr.json) |
 | Rob | 201674 | [201674-rob.json](./201674-rob.json) |
 | Rob & Run | 211731 | [211731-rob-and-run.json](./211731-rob-and-run.json) |
 | Rob Blanc I: Better Days of a Defender of the Universe | 171551 | [171551-rob-blanc-i-better-days-of-a-defender-of-the-universe.json](./171551-rob-blanc-i-better-days-of-a-defender-of-the-universe.json) |
@@ -4145,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rule Your School | 30165 | [30165-rule-your-school.json](./30165-rule-your-school.json) |
 | Rule34dle | 361573 | [361573-rule34dle.json](./361573-rule34dle.json) |
 | Rulegement | 267445 | [267445-rulegement.json](./267445-rulegement.json) |
+| Ruler by Default | 99004 | [99004-ruler-by-default.json](./99004-ruler-by-default.json) |
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
 | Ruler of the Waves 1916 | 227838 | [227838-ruler-of-the-waves-1916.json](./227838-ruler-of-the-waves-1916.json) |
 | Rules of Gravity | 158586 | [158586-rules-of-gravity.json](./158586-rules-of-gravity.json) |
@@ -4397,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Drunken Boxers | 158697 | [158697-russian-drunken-boxers.json](./158697-russian-drunken-boxers.json) |
 | Russian Fight Simulator | 263767 | [263767-russian-fight-simulator.json](./263767-russian-fight-simulator.json) |
 | Russian Fishing | 345561 | [345561-russian-fishing.json](./345561-russian-fishing.json) |
+| Russian Gangsta in Hell | 99063 | [99063-russian-gangsta-in-hell.json](./99063-russian-gangsta-in-hell.json) |
 | Russian Life Simulator | 118022 | [118022-russian-life-simulator.json](./118022-russian-life-simulator.json) |
 | Russian Pawn Store | 211749 | [211749-russian-pawn-store.json](./211749-russian-pawn-store.json) |
 | Russian Peace Duck: Take My Nalogi | 96614 | [96614-russian-peace-duck-take-my-nalogi.json](./96614-russian-peace-duck-take-my-nalogi.json) |
