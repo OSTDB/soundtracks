@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LifePaths | 414351 | [414351-lifepaths.json](./414351-lifepaths.json) |
 | LifeSigns: Surgical Unit | 18600 | [18600-lifesigns-surgical-unit.json](./18600-lifesigns-surgical-unit.json) |
 | Lifespeed | 27386 | [27386-lifespeed.json](./27386-lifespeed.json) |
+| Lifestream - A Haunting Text Adventure | 31344 | [31344-lifestream-a-haunting-text-adventure.json](./31344-lifestream-a-haunting-text-adventure.json) |
 | Lifetakers & Heartbreakers | 340917 | [340917-lifetakers-and-heartbreakers.json](./340917-lifetakers-and-heartbreakers.json) |
 | Lifetime | 236400 | [236400-lifetime.json](./236400-lifetime.json) |
 | Lifo | 185615 | [185615-lifo.json](./185615-lifo.json) |
