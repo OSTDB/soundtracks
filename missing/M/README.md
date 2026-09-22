@@ -4482,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Z | 157035 | [157035-mission-z.json](./157035-mission-z.json) |
 | Mission: Caduceus | 128406 | [128406-mission-caduceus.json](./128406-mission-caduceus.json) |
 | Mission: Chao | 330713 | [330713-mission-chao.json](./330713-mission-chao.json) |
+| Mission: Demolition | 74371 | [74371-mission-demolition.json](./74371-mission-demolition.json) |
 | Mission: Driver | 210855 | [210855-mission-driver.json](./210855-mission-driver.json) |
 | Mission: Escape | 271726 | [271726-mission-escape.json](./271726-mission-escape.json) |
 | Mission: Escape from Island 3 | 82473 | [82473-mission-escape-from-island-3.json](./82473-mission-escape-from-island-3.json) |
