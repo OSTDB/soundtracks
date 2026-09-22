@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Om Nom: Run - Ultimate Edition | 251667 | [251667-om-nom-run-ultimate-edition.json](./251667-om-nom-run-ultimate-edition.json) |
 | Om Nom: Run & Om Nom: Run 2 | 363971 | [363971-om-nom-run-and-om-nom-run-2.json](./363971-om-nom-run-and-om-nom-run-2.json) |
 | Om Nom: Run 2 - Emerald Edition | 396923 | [396923-om-nom-run-2-emerald-edition.json](./396923-om-nom-run-2-emerald-edition.json) |
+| Omae Wa Mou Shindeiru | 98711 | [98711-omae-wa-mou-shindeiru.json](./98711-omae-wa-mou-shindeiru.json) |
 | Omakase! Savers | 275605 | [275605-omakase-savers.json](./275605-omakase-savers.json) |
 | Omamori | 185069 | [185069-omamori.json](./185069-omamori.json) |
 | Omar Sharif Bridge II | 208997 | [208997-omar-sharif-bridge-ii.json](./208997-omar-sharif-bridge-ii.json) |
