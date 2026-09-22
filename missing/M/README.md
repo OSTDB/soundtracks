@@ -2515,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Blaster | 311664 | [311664-mega-blaster.json](./311664-mega-blaster.json) |
 | Mega Bowling Dash | 136431 | [136431-mega-bowling-dash.json](./136431-mega-bowling-dash.json) |
 | Mega Brain Boost | 94017 | [94017-mega-brain-boost.json](./94017-mega-brain-boost.json) |
+| Mega Bundle 15-in-1 | 401132 | [401132-mega-bundle-15-in-1.json](./401132-mega-bundle-15-in-1.json) |
 | Mega Bundle: Cats | 208046 | [208046-mega-bundle-cats.json](./208046-mega-bundle-cats.json) |
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
 | Mega Cat Studios Collection 1 | 130688 | [130688-mega-cat-studios-collection-1.json](./130688-mega-cat-studios-collection-1.json) |
@@ -2974,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men of War: Assault Squad 2 - Ostfront Veteranen | 168217 | [168217-men-of-war-assault-squad-2-ostfront-veteranen.json](./168217-men-of-war-assault-squad-2-ostfront-veteranen.json) |
 | Men's Room Mayhem | 52590 | [52590-mens-room-mayhem.json](./52590-mens-room-mayhem.json) |
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
+| Menace from the Deep: Complete Edition | 401133 | [401133-menace-from-the-deep-complete-edition.json](./401133-menace-from-the-deep-complete-edition.json) |
 | Menacer | 45599 | [45599-menacer.json](./45599-menacer.json) |
 | Menacetide | 386238 | [386238-menacetide.json](./386238-menacetide.json) |
 | Menagerie I: Exoptable Money | 223664 | [223664-menagerie-i-exoptable-money.json](./223664-menagerie-i-exoptable-money.json) |
@@ -3910,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million to One Hero | 109609 | [109609-million-to-one-hero.json](./109609-million-to-one-hero.json) |
 | Millionaire Dancer | 117098 | [117098-millionaire-dancer.json](./117098-millionaire-dancer.json) |
 | Millionaire Manor, Robin's Quest, Escape the Lost Kingdom and the Hidden Object Show 2 | 209510 | [209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json](./209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json) |
+| Millionaire Obby | 401099 | [401099-millionaire-obby.json](./401099-millionaire-obby.json) |
 | Millispeed | 351633 | [351633-millispeed.json](./351633-millispeed.json) |
 | Millivolt | 334155 | [334155-millivolt.json](./334155-millivolt.json) |
 | Mills of Morris | 291763 | [291763-mills-of-morris.json](./291763-mills-of-morris.json) |
@@ -6252,6 +6255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Transporter - Truck Driving Simulator | 88735 | [88735-mr-transporter-truck-driving-simulator.json](./88735-mr-transporter-truck-driving-simulator.json) |
 | Mr. Whiskers Bubbles | 385088 | [385088-mr-whiskers-bubbles.json](./385088-mr-whiskers-bubbles.json) |
 | Mr. Wings | 255714 | [255714-mr-wings.json](./255714-mr-wings.json) |
+| Mr. Zippy is Watching | 401090 | [401090-mr-zippy-is-watching.json](./401090-mr-zippy-is-watching.json) |
 | Mr.Addon in Sulpicius Gallus M | 187384 | [187384-mr-addon-in-sulpicius-gallus-m.json](./187384-mr-addon-in-sulpicius-gallus-m.json) |
 | Mr.Jezko | 86579 | [86579-mr-jezko.json](./86579-mr-jezko.json) |
 | MR.KungFu | 174737 | [174737-mr-kungfu.json](./174737-mr-kungfu.json) |
