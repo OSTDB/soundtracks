@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten-chan Party! | 108264 | [108264-ten-chan-party.json](./108264-ten-chan-party.json) |
 | Ten++ | 374132 | [374132-ten.json](./374132-ten.json) |
 | Tenable | 133791 | [133791-tenable.json](./133791-tenable.json) |
+| Tenancy | 413893 | [413893-tenancy.json](./413893-tenancy.json) |
 | Tenants | 129152 | [129152-tenants.json](./129152-tenants.json) |
 | Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
 | Tenchi Muyo! Toko Muyo | 66384 | [66384-tenchi-muyo-toko-muyo.json](./66384-tenchi-muyo-toko-muyo.json) |
@@ -2828,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Mount Madre | 328280 | [328280-the-curse-of-mount-madre.json](./328280-the-curse-of-mount-madre.json) |
 | The Curse of Ra | 127340 | [127340-the-curse-of-ra.json](./127340-the-curse-of-ra.json) |
 | The Curse of Rabenstein | 231520 | [231520-the-curse-of-rabenstein.json](./231520-the-curse-of-rabenstein.json) |
+| The Curse of Stuzhiy | 413876 | [413876-the-curse-of-stuzhiy.json](./413876-the-curse-of-stuzhiy.json) |
 | The Curse of the Egyptian Pyramid: Remaster Edition | 278698 | [278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json](./278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json) |
 | The Curse of the Werewolves | 17705 | [17705-the-curse-of-the-werewolves.json](./17705-the-curse-of-the-werewolves.json) |
 | The Curse of Trasmoz | 135307 | [135307-the-curse-of-trasmoz.json](./135307-the-curse-of-trasmoz.json) |
@@ -4276,6 +4278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Librarian | 266816 | [266816-the-last-librarian.json](./266816-the-last-librarian.json) |
 | The Last Light | 182556 | [182556-the-last-light.json](./182556-the-last-light.json) |
 | The Last Look | 32871 | [32871-the-last-look.json](./32871-the-last-look.json) |
+| The Last Lunch | 413906 | [413906-the-last-lunch.json](./413906-the-last-lunch.json) |
 | The Last Mage | 350430 | [350430-the-last-mage.json](./350430-the-last-mage.json) |
 | The Last Man Survivor | 258529 | [258529-the-last-man-survivor.json](./258529-the-last-man-survivor.json) |
 | The Last Matches | 213960 | [213960-the-last-matches.json](./213960-the-last-matches.json) |
@@ -7026,6 +7029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Whisper Softly to Me | 28211 | [28211-they-whisper-softly-to-me.json](./28211-they-whisper-softly-to-me.json) |
 | They Will Come | 389421 | [389421-they-will-come.json](./389421-they-will-come.json) |
 | They'll Find You | 121636 | [121636-theyll-find-you.json](./121636-theyll-find-you.json) |
+| They’ll Hang You for That Face | 413909 | [413909-they-ll-hang-you-for-that-face.json](./413909-they-ll-hang-you-for-that-face.json) |
 | They're Alive! | 53795 | [53795-theyre-alive.json](./53795-theyre-alive.json) |
 | Theyest Thou | 129272 | [129272-theyest-thou.json](./129272-theyest-thou.json) |
 | TheZone | 146225 | [146225-thezone.json](./146225-thezone.json) |
@@ -7427,6 +7431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tides of War | 206790 | [206790-tides-of-war.json](./206790-tides-of-war.json) |
 | TideTurn | 142262 | [142262-tideturn.json](./142262-tideturn.json) |
 | Tidewatch | 412273 | [412273-tidewatch.json](./412273-tidewatch.json) |
+| Tidewell | 413884 | [413884-tidewell.json](./413884-tidewell.json) |
 | Tidewrack | 413673 | [413673-tidewrack.json](./413673-tidewrack.json) |
 | Tidy Backpack | 309874 | [309874-tidy-backpack.json](./309874-tidy-backpack.json) |
 | Tidy Up: Electronic Store Simulator | 416679 | [416679-tidy-up-electronic-store-simulator.json](./416679-tidy-up-electronic-store-simulator.json) |
@@ -8011,6 +8016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Til Morning's Light | 18996 | [18996-til-mornings-light.json](./18996-til-mornings-light.json) |
 | Tilde and the 9 Mystical Glorbos | 394834 | [394834-tilde-and-the-9-mystical-glorbos.json](./394834-tilde-and-the-9-mystical-glorbos.json) |
 | Tile & Error | 103896 | [103896-tile-and-error.json](./103896-tile-and-error.json) |
+| Tile & Error | 413899 | [413899-tile-and-error.json](./413899-tile-and-error.json) |
 | Tile Cities 2 | 325630 | [325630-tile-cities-2.json](./325630-tile-cities-2.json) |
 | Tile Connect: Onet Match | 171473 | [171473-tile-connect-onet-match.json](./171473-tile-connect-onet-match.json) |
 | Tile Cross | 300723 | [300723-tile-cross.json](./300723-tile-cross.json) |
@@ -8318,6 +8324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Strife | 158083 | [158083-tiny-strife.json](./158083-tiny-strife.json) |
 | Tiny Striker | 23408 | [23408-tiny-striker.json](./23408-tiny-striker.json) |
 | Tiny Striker: World Football | 86939 | [86939-tiny-striker-world-football.json](./86939-tiny-striker-world-football.json) |
+| Tiny Survivors | 413902 | [413902-tiny-survivors.json](./413902-tiny-survivors.json) |
 | Tiny Tactics | 210879 | [210879-tiny-tactics.json](./210879-tiny-tactics.json) |
 | Tiny Tanks | 78904 | [78904-tiny-tanks.json](./78904-tiny-tanks.json) |
 | Tiny Tennis | 247173 | [247173-tiny-tennis.json](./247173-tiny-tennis.json) |
