@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Cleaner's Adventures | 221857 | [221857-half-life-cleaners-adventures.json](./221857-half-life-cleaners-adventures.json) |
 | Half-Life: Cross Product Multiplayer | 360604 | [360604-half-life-cross-product-multiplayer.json](./360604-half-life-cross-product-multiplayer.json) |
 | Half-Life: E7 Black Star | 196832 | [196832-half-life-e7-black-star.json](./196832-half-life-e7-black-star.json) |
+| Half-Life: Echoes | 150226 | [150226-half-life-echoes.json](./150226-half-life-echoes.json) |
 | Half-Life: Edge of Darkness | 196833 | [196833-half-life-edge-of-darkness.json](./196833-half-life-edge-of-darkness.json) |
 | Half-Life: Escape | 221856 | [221856-half-life-escape.json](./221856-half-life-escape.json) |
 | Half-Life: Escape 2.0 | 294442 | [294442-half-life-escape-2-0.json](./294442-half-life-escape-2-0.json) |
@@ -2952,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow | 186257 | [186257-hollow.json](./186257-hollow.json) |
 | Hollow Bequest | 386714 | [386714-hollow-bequest.json](./386714-hollow-bequest.json) |
 | Hollow Bliss | 90569 | [90569-hollow-bliss.json](./90569-hollow-bliss.json) |
+| Hollow Cocoon | 255114 | [255114-hollow-cocoon.json](./255114-hollow-cocoon.json) |
 | Hollow Cries | 125198 | [125198-hollow-cries.json](./125198-hollow-cries.json) |
 | Hollow Ghost | 144779 | [144779-hollow-ghost.json](./144779-hollow-ghost.json) |
 | Hollow Halls | 29905 | [29905-hollow-halls.json](./29905-hollow-halls.json) |
@@ -3052,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home | 372448 | [372448-home.json](./372448-home.json) |
 | Home A Drone | 122421 | [122421-home-a-drone.json](./122421-home-a-drone.json) |
 | Home Again Home Again | 141627 | [141627-home-again-home-again.json](./141627-home-again-home-again.json) |
+| Home Alone 2: Lost in New York | 243884 | [243884-home-alone-2-lost-in-new-york.json](./243884-home-alone-2-lost-in-new-york.json) |
 | Home Alone Survival | 365062 | [365062-home-alone-survival.json](./365062-home-alone-survival.json) |
 | Home Babysitter | 83265 | [83265-home-babysitter.json](./83265-home-babysitter.json) |
 | Home Deco Builder | 334096 | [334096-home-deco-builder.json](./334096-home-deco-builder.json) |
@@ -3200,7 +3203,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - A New Venture on the Eighth Dawn | 322770 | [322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json](./322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json) |
 | Honkai: Star Rail - As Tomorrow Became Yesterday | 375253 | [375253-honkai-star-rail-as-tomorrow-became-yesterday.json](./375253-honkai-star-rail-as-tomorrow-became-yesterday.json) |
 | Honkai: Star Rail - Back to Earth in Evernight | 366942 | [366942-honkai-star-rail-back-to-earth-in-evernight.json](./366942-honkai-star-rail-back-to-earth-in-evernight.json) |
+| Honkai: Star Rail - Celestial Eyes Above Mortal Ruins | 262114 | [262114-honkai-star-rail-celestial-eyes-above-mortal-ruins.json](./262114-honkai-star-rail-celestial-eyes-above-mortal-ruins.json) |
+| Honkai: Star Rail - Even Immortality Ends | 256760 | [256760-honkai-star-rail-even-immortality-ends.json](./256760-honkai-star-rail-even-immortality-ends.json) |
 | Honkai: Star Rail - Finest Duel Under the Pristine Blue | 308417 | [308417-honkai-star-rail-finest-duel-under-the-pristine-blue.json](./308417-honkai-star-rail-finest-duel-under-the-pristine-blue.json) |
+| Honkai: Star Rail - Galactic Roaming | 257051 | [257051-honkai-star-rail-galactic-roaming.json](./257051-honkai-star-rail-galactic-roaming.json) |
 | Honkai: Star Rail - In Ravages Does the Whistle Sound | 408877 | [408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json](./408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json) |
 | Honkai: Star Rail - Into the Yawning Chasm | 290387 | [290387-honkai-star-rail-into-the-yawning-chasm.json](./290387-honkai-star-rail-into-the-yawning-chasm.json) |
 | Honkai: Star Rail - Memories are the Prelude to Dreams | 380531 | [380531-honkai-star-rail-memories-are-the-prelude-to-dreams.json](./380531-honkai-star-rail-memories-are-the-prelude-to-dreams.json) |
