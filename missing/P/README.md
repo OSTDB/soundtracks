@@ -3046,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Therapy: Goth Pack | 324290 | [324290-plant-therapy-goth-pack.json](./324290-plant-therapy-goth-pack.json) |
 | Plant Therapy: Plush and Pots Pack | 316403 | [316403-plant-therapy-plush-and-pots-pack.json](./316403-plant-therapy-plush-and-pots-pack.json) |
 | Plant Therapy: Queens | 266802 | [266802-plant-therapy-queens.json](./266802-plant-therapy-queens.json) |
+| Plant Tycoon | 15942 | [15942-plant-tycoon.json](./15942-plant-tycoon.json) |
 | Plantabi: Little Garden | 288871 | [288871-plantabi-little-garden.json](./288871-plantabi-little-garden.json) |
 | Plantan | 110330 | [110330-plantan.json](./110330-plantan.json) |
 | Plantasia | 333098 | [333098-plantasia.json](./333098-plantasia.json) |
@@ -5179,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project_Arktik | 410881 | [410881-project-arktik.json](./410881-project-arktik.json) |
 | Project_Escape | 133418 | [133418-project-escape.json](./133418-project-escape.json) |
 | Project-Blemmyes | 172704 | [172704-project-blemmyes.json](./172704-project-blemmyes.json) |
+| Project-X | 12197 | [12197-project-x.json](./12197-project-x.json) |
 | Project-X Special Edition & F17 Challenge | 71537 | [71537-project-x-special-edition-and-f17-challenge.json](./71537-project-x-special-edition-and-f17-challenge.json) |
 | Project; Virai: Doomer's Life Escape | 342758 | [342758-project-virai-doomers-life-escape.json](./342758-project-virai-doomers-life-escape.json) |
 | Project: Aftershock | 390126 | [390126-project-aftershock.json](./390126-project-aftershock.json) |
@@ -5503,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsar | 167797 | [167797-pulsar.json](./167797-pulsar.json) |
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
 | Pulsar no Hikari | 64649 | [64649-pulsar-no-hikari.json](./64649-pulsar-no-hikari.json) |
+| Pulsar: Lost Colony | 16687 | [16687-pulsar-lost-colony.json](./16687-pulsar-lost-colony.json) |
 | Pulse | 177421 | [177421-pulse.json](./177421-pulse.json) |
 | Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
 | Pulse | 392257 | [392257-pulse.json](./392257-pulse.json) |
