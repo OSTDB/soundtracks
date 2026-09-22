@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Dimensions: Unikitty Fun Pack | 172620 | [172620-lego-dimensions-unikitty-fun-pack.json](./172620-lego-dimensions-unikitty-fun-pack.json) |
 | LEGO Dimensions: Wonder Woman Fun Pack | 172626 | [172626-lego-dimensions-wonder-woman-fun-pack.json](./172626-lego-dimensions-wonder-woman-fun-pack.json) |
 | LEGO Dimensions: Zane Fun Pack | 172610 | [172610-lego-dimensions-zane-fun-pack.json](./172610-lego-dimensions-zane-fun-pack.json) |
+| LEGO Friends | 6838 | [6838-lego-friends.json](./6838-lego-friends.json) |
 | LEGO Harry Potter Collection | 315367 | [315367-lego-harry-potter-collection.json](./315367-lego-harry-potter-collection.json) |
 | Lego Harry Potter Years 5-7: Character pack | 255376 | [255376-lego-harry-potter-years-5-7-character-pack.json](./255376-lego-harry-potter-years-5-7-character-pack.json) |
 | LEGO Harry Potter: Years 1-4 | 3149 | [3149-lego-harry-potter-years-1-4.json](./3149-lego-harry-potter-years-1-4.json) |
