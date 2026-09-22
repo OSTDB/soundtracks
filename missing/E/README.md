@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Light: Luna Strike | 42247 | [42247-earth-light-luna-strike.json](./42247-earth-light-luna-strike.json) |
 | Earth Marines | 153862 | [153862-earth-marines.json](./153862-earth-marines.json) |
 | Earth Muncher | 95178 | [95178-earth-muncher.json](./95178-earth-muncher.json) |
+| Earth New Fall | 408252 | [408252-earth-new-fall.json](./408252-earth-new-fall.json) |
 | Earth Overclocked | 34828 | [34828-earth-overclocked.json](./34828-earth-overclocked.json) |
 | Earth Saver | 59386 | [59386-earth-saver.json](./59386-earth-saver.json) |
 | Earth Saves Our Love | 267392 | [267392-earth-saves-our-love.json](./267392-earth-saves-our-love.json) |
