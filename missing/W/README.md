@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Do You Know? | 234723 | [234723-what-do-you-know.json](./234723-what-do-you-know.json) |
 | What Goes Pumpkin the Night | 186181 | [186181-what-goes-pumpkin-the-night.json](./186181-what-goes-pumpkin-the-night.json) |
 | What Goes Up | 144786 | [144786-what-goes-up.json](./144786-what-goes-up.json) |
+| What Happened | 133080 | [133080-what-happened.json](./133080-what-happened.json) |
 | What happened to Survey Team 4? | 135028 | [135028-what-happened-to-survey-team-4.json](./135028-what-happened-to-survey-team-4.json) |
 | What Happened: Through Worlds | 314856 | [314856-what-happened-through-worlds.json](./314856-what-happened-through-worlds.json) |
 | What Happens in Space | 153989 | [153989-what-happens-in-space.json](./153989-what-happens-in-space.json) |
@@ -2296,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfriders A Sniper Adventure | 159859 | [159859-wolfriders-a-sniper-adventure.json](./159859-wolfriders-a-sniper-adventure.json) |
 | Wolfschanze II | 27646 | [27646-wolfschanze-ii.json](./27646-wolfschanze-ii.json) |
 | Wolfstar Adventures in the Inu System | 213405 | [213405-wolfstar-adventures-in-the-inu-system.json](./213405-wolfstar-adventures-in-the-inu-system.json) |
+| Wolfstride | 134952 | [134952-wolfstride.json](./134952-wolfstride.json) |
 | Wolfy | 131354 | [131354-wolfy.json](./131354-wolfy.json) |
 | Wolverine: Adamantium Rage | 46250 | [46250-wolverine-adamantium-rage.json](./46250-wolverine-adamantium-rage.json) |
 | Wolverine: Adamantium Redux | 219275 | [219275-wolverine-adamantium-redux.json](./219275-wolverine-adamantium-redux.json) |
