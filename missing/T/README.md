@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapper Basic | 297607 | [297607-tapper-basic.json](./297607-tapper-basic.json) |
 | Tapper World Tour | 66079 | [66079-tapper-world-tour.json](./66079-tapper-world-tour.json) |
 | Tapper's Fiefdom | 393491 | [393491-tappers-fiefdom.json](./393491-tappers-fiefdom.json) |
+| Tappingo | 23517 | [23517-tappingo.json](./23517-tappingo.json) |
 | Tappy Dig: Virtual Pet Fox Game | 265423 | [265423-tappy-dig-virtual-pet-fox-game.json](./265423-tappy-dig-virtual-pet-fox-game.json) |
 | Tappy Golf | 264905 | [264905-tappy-golf.json](./264905-tappy-golf.json) |
 | Tappy Shots | 87362 | [87362-tappy-shots.json](./87362-tappy-shots.json) |
@@ -5851,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smiling Man: Remake | 275143 | [275143-the-smiling-man-remake.json](./275143-the-smiling-man-remake.json) |
 | The Smiling, Proud Wanderer 2 | 62442 | [62442-the-smiling-proud-wanderer-2.json](./62442-the-smiling-proud-wanderer-2.json) |
 | The Smugglers | 191187 | [191187-the-smugglers.json](./191187-the-smugglers.json) |
+| The Smurfs | 23482 | [23482-the-smurfs.json](./23482-the-smurfs.json) |
 | The Smurfs | 80521 | [80521-the-smurfs.json](./80521-the-smurfs.json) |
 | The Smurfs 2 | 83900 | [83900-the-smurfs-2.json](./83900-the-smurfs-2.json) |
 | The Smurfs Bakery | 248647 | [248647-the-smurfs-bakery.json](./248647-the-smurfs-bakery.json) |
@@ -11241,6 +11243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tweet Star | 108518 | [108518-tweet-star.json](./108518-tweet-star.json) |
 | Tweety & The Magic Gems | 49346 | [49346-tweety-and-the-magic-gems.json](./49346-tweety-and-the-magic-gems.json) |
 | Twell | 241379 | [241379-twell.json](./241379-twell.json) |
+| Twelve a Dozen | 23428 | [23428-twelve-a-dozen.json](./23428-twelve-a-dozen.json) |
 | Twelve Sky | 67321 | [67321-twelve-sky.json](./67321-twelve-sky.json) |
 | Twelve Sky 2 | 104129 | [104129-twelve-sky-2.json](./104129-twelve-sky-2.json) |
 | Twelve Sky M | 221390 | [221390-twelve-sky-m.json](./221390-twelve-sky-m.json) |
