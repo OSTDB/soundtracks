@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Base Excavation Incident | 271746 | [271746-mars-base-excavation-incident.json](./271746-mars-base-excavation-incident.json) |
 | Mars Chaos Madness | 111452 | [111452-mars-chaos-madness.json](./111452-mars-chaos-madness.json) |
 | Mars Colony Builder | 151145 | [151145-mars-colony-builder.json](./151145-mars-colony-builder.json) |
+| Mars Colony: Frontier | 34643 | [34643-mars-colony-frontier.json](./34643-mars-colony-frontier.json) |
 | Mars Dash | 224013 | [224013-mars-dash.json](./224013-mars-dash.json) |
 | Mars Farming 2034 | 300845 | [300845-mars-farming-2034.json](./300845-mars-farming-2034.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
@@ -4226,6 +4227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniCar Extreme: Car Driving Racing (Truck, Suv, Sedan, Cars) | 242665 | [242665-minicar-extreme-car-driving-racing-truck-suv-sedan-cars.json](./242665-minicar-extreme-car-driving-racing-truck-suv-sedan-cars.json) |
 | Miniconomy | 108966 | [108966-miniconomy.json](./108966-miniconomy.json) |
 | MiniCraft Adventure | 96777 | [96777-minicraft-adventure.json](./96777-minicraft-adventure.json) |
+| MiniDrivers | 34867 | [34867-minidrivers.json](./34867-minidrivers.json) |
 | Minifiend | 253034 | [253034-minifiend.json](./253034-minifiend.json) |
 | Minigame Party | 257648 | [257648-minigame-party.json](./257648-minigame-party.json) |
 | Minigame Party VR | 33146 | [33146-minigame-party-vr.json](./33146-minigame-party-vr.json) |
@@ -4891,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mokoko X Deluxe | 246636 | [246636-mokoko-x-deluxe.json](./246636-mokoko-x-deluxe.json) |
 | Mokomon: Five Elements | 415152 | [415152-mokomon-five-elements.json](./415152-mokomon-five-elements.json) |
 | Mold From Outer Space | 344915 | [344915-mold-from-outer-space.json](./344915-mold-from-outer-space.json) |
+| Mold on Pizza | 34817 | [34817-mold-on-pizza.json](./34817-mold-on-pizza.json) |
 | Moldorian: Hikari to Yami no Sister | 45261 | [45261-moldorian-hikari-to-yami-no-sister.json](./45261-moldorian-hikari-to-yami-no-sister.json) |
 | Moldwasher | 342738 | [342738-moldwasher.json](./342738-moldwasher.json) |
 | Moldy Tower | 271479 | [271479-moldy-tower.json](./271479-moldy-tower.json) |
