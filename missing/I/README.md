@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Kill the Kamilia 3 | 113466 | [113466-i-wanna-kill-the-kamilia-3.json](./113466-i-wanna-kill-the-kamilia-3.json) |
 | I Wanna Lap Around | 329182 | [329182-i-wanna-lap-around.json](./329182-i-wanna-lap-around.json) |
 | I Wanna Make a Dragon Game | 349291 | [349291-i-wanna-make-a-dragon-game.json](./349291-i-wanna-make-a-dragon-game.json) |
+| I Wanna Maker | 125410 | [125410-i-wanna-maker.json](./125410-i-wanna-maker.json) |
 | I Wanna Ponder | 361758 | [361758-i-wanna-ponder.json](./361758-i-wanna-ponder.json) |
 | I Wanna Take the Time-Machine 2 | 187366 | [187366-i-wanna-take-the-time-machine-2.json](./187366-i-wanna-take-the-time-machine-2.json) |
 | I Wanna Touch | 389984 | [389984-i-wanna-touch.json](./389984-i-wanna-touch.json) |
@@ -1815,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrusion of Alice | 223175 | [223175-intrusion-of-alice.json](./223175-intrusion-of-alice.json) |
 | Inu Dai Suki! | 46604 | [46604-inu-dai-suki.json](./46604-inu-dai-suki.json) |
 | Inu no Osanpo | 169323 | [169323-inu-no-osanpo.json](./169323-inu-no-osanpo.json) |
+| Inunaki Tunnel | 126348 | [126348-inunaki-tunnel.json](./126348-inunaki-tunnel.json) |
 | Inuyasha Awakening | 174825 | [174825-inuyasha-awakening.json](./174825-inuyasha-awakening.json) |
 | Inuyasha: Battle of Hell | 121442 | [121442-inuyasha-battle-of-hell.json](./121442-inuyasha-battle-of-hell.json) |
 | Inuyasha: Battle of Naraku | 193963 | [193963-inuyasha-battle-of-naraku.json](./193963-inuyasha-battle-of-naraku.json) |
@@ -1942,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iridescent Crown | 350515 | [350515-iridescent-crown.json](./350515-iridescent-crown.json) |
 | Iris | 223674 | [223674-iris.json](./223674-iris.json) |
 | Iris | 388935 | [388935-iris.json](./388935-iris.json) |
+| Iris and the Giant | 121390 | [121390-iris-and-the-giant.json](./121390-iris-and-the-giant.json) |
 | Iris and the Giant: Deluxe Soundtrack Edition | 240337 | [240337-iris-and-the-giant-deluxe-soundtrack-edition.json](./240337-iris-and-the-giant-deluxe-soundtrack-edition.json) |
 | Iris Dissolution | 337116 | [337116-iris-dissolution.json](./337116-iris-dissolution.json) |
 | Iris School of Wizardry: Vinculum Hearts | 110982 | [110982-iris-school-of-wizardry-vinculum-hearts.json](./110982-iris-school-of-wizardry-vinculum-hearts.json) |
