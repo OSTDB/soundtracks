@@ -94,7 +94,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum Collection 2 | 130690 | [130690-namco-museum-collection-2.json](./130690-namco-museum-collection-2.json) |
 | Namco Museum Essentials | 52608 | [52608-namco-museum-essentials.json](./52608-namco-museum-essentials.json) |
 | Namco Museum Mini Player | 220134 | [220134-namco-museum-mini-player.json](./220134-namco-museum-mini-player.json) |
+| Namco Museum Vol. 1 | 20611 | [20611-namco-museum-vol-1.json](./20611-namco-museum-vol-1.json) |
 | Namco Museum Vol. 2 | 20259 | [20259-namco-museum-vol-2.json](./20259-namco-museum-vol-2.json) |
+| Namco Museum Vol. 3 | 20613 | [20613-namco-museum-vol-3.json](./20613-namco-museum-vol-3.json) |
 | Namco Museum Vol. 4 | 39934 | [39934-namco-museum-vol-4.json](./39934-namco-museum-vol-4.json) |
 | Namco Museum Vol. 5 | 39986 | [39986-namco-museum-vol-5.json](./39986-namco-museum-vol-5.json) |
 | Namco Soccer Prime Goal | 40396 | [40396-namco-soccer-prime-goal.json](./40396-namco-soccer-prime-goal.json) |
