@@ -326,6 +326,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queued | 256538 | [256538-queued.json](./256538-queued.json) |
 | Qui Veut Gagner Des Millions | 313505 | [313505-qui-veut-gagner-des-millions.json](./313505-qui-veut-gagner-des-millions.json) |
 | Quible Sphere | 105281 | [105281-quible-sphere.json](./105281-quible-sphere.json) |
+| Quick Brain Letter Hunt | 394561 | [394561-quick-brain-letter-hunt.json](./394561-quick-brain-letter-hunt.json) |
+| Quick Brain: Number Hunt | 394562 | [394562-quick-brain-number-hunt.json](./394562-quick-brain-number-hunt.json) |
+| Quick Deduction Short Mysteries | 394558 | [394558-quick-deduction-short-mysteries.json](./394558-quick-deduction-short-mysteries.json) |
 | Quick Draw | 260150 | [260150-quick-draw.json](./260150-quick-draw.json) |
 | Quick Fill Q | 84836 | [84836-quick-fill-q.json](./84836-quick-fill-q.json) |
 | Quick Fire | 241046 | [241046-quick-fire.json](./241046-quick-fire.json) |
