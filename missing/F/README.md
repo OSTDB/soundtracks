@@ -1449,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Manager 12 | 20684 | [20684-fifa-manager-12.json](./20684-fifa-manager-12.json) |
 | FIFA Manager 13 | 20686 | [20686-fifa-manager-13.json](./20686-fifa-manager-13.json) |
 | FIFA Mobile World | 174726 | [174726-fifa-mobile-world.json](./174726-fifa-mobile-world.json) |
+| FIFA Soccer | 21722 | [21722-fifa-soccer.json](./21722-fifa-soccer.json) |
 | FIFA Soccer 06 | 240356 | [240356-fifa-soccer-06.json](./240356-fifa-soccer-06.json) |
 | FIFA Soccer 07 | 696 | [696-fifa-soccer-07.json](./696-fifa-soccer-07.json) |
 | FIFA Soccer 08 | 229182 | [229182-fifa-soccer-08.json](./229182-fifa-soccer-08.json) |
@@ -2494,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash and Die | 391167 | [391167-flash-and-die.json](./391167-flash-and-die.json) |
 | Flash Cat | 322349 | [322349-flash-cat.json](./322349-flash-cat.json) |
 | Flash Cycle 2 | 286631 | [286631-flash-cycle-2.json](./286631-flash-cycle-2.json) |
+| Flash Focus: Vision Training in Minutes a Day | 21912 | [21912-flash-focus-vision-training-in-minutes-a-day.json](./21912-flash-focus-vision-training-in-minutes-a-day.json) |
 | Flash Gordon | 22735 | [22735-flash-gordon.json](./22735-flash-gordon.json) |
 | Flash Point | 114159 | [114159-flash-point.json](./114159-flash-point.json) |
 | Flash Point Korea: AH-64D Longbow | 710 | [710-flash-point-korea-ah-64d-longbow.json](./710-flash-point-korea-ah-64d-longbow.json) |
