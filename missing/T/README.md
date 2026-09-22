@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 3 | 356094 | [356094-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-3.json](./356094-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-3.json) |
 | Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 4 | 356095 | [356095-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-4.json](./356095-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-4.json) |
 | Taiko no Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 5 | 356096 | [356096-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-5.json](./356096-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-5.json) |
+| Taiko No Tatsujin: Rhythm Festival - Hatsune Miku Pack Vol. 7 | 409007 | [409007-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-7.json](./409007-taiko-no-tatsujin-rhythm-festival-hatsune-miku-pack-vol-7.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kagamine Rin, Kagamine Len Pack | 360066 | [360066-taiko-no-tatsujin-rhythm-festival-kagamine-rin-kagamine-len-pack.json](./360066-taiko-no-tatsujin-rhythm-festival-kagamine-rin-kagamine-len-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kamen Rider Opening Theme Songs Pack | 328994 | [328994-taiko-no-tatsujin-rhythm-festival-kamen-rider-opening-theme-songs-pack.json](./328994-taiko-no-tatsujin-rhythm-festival-kamen-rider-opening-theme-songs-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Kawaii Pop Idol Pack | 376441 | [376441-taiko-no-tatsujin-rhythm-festival-kawaii-pop-idol-pack.json](./376441-taiko-no-tatsujin-rhythm-festival-kawaii-pop-idol-pack.json) |
@@ -1545,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tens and Twos | 175384 | [175384-tens-and-twos.json](./175384-tens-and-twos.json) |
 | Tensei | 264610 | [264610-tensei.json](./264610-tensei.json) |
 | Tensen Nyannyan: Gekigyouban | 166149 | [166149-tensen-nyannyan-gekigyouban.json](./166149-tensen-nyannyan-gekigyouban.json) |
+| Tenshi no Solitaire | 409079 | [409079-tenshi-no-solitaire.json](./409079-tenshi-no-solitaire.json) |
 | Tenshi no Uta: The Angel Verse II - The Fallen Angel | 385074 | [385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json](./385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json) |
 | Tenshi no uta: The Angel's Verse | 385075 | [385075-tenshi-no-uta-the-angels-verse.json](./385075-tenshi-no-uta-the-angels-verse.json) |
 | Tenshi-tachi no Gogo II: Minako | 247182 | [247182-tenshi-tachi-no-gogo-ii-minako.json](./247182-tenshi-tachi-no-gogo-ii-minako.json) |
@@ -4389,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legacy | 12437 | [12437-the-legacy.json](./12437-the-legacy.json) |
 | The Legacy | 378776 | [378776-the-legacy.json](./378776-the-legacy.json) |
 | The Legacy 2 | 95830 | [95830-the-legacy-2.json](./95830-the-legacy-2.json) |
+| The Legacy of Griselda | 409056 | [409056-the-legacy-of-griselda.json](./409056-the-legacy-of-griselda.json) |
 | The Legacy of Lunatic Omsk | 321748 | [321748-the-legacy-of-lunatic-omsk.json](./321748-the-legacy-of-lunatic-omsk.json) |
 | The Legacy: Realm of Terror | 79233 | [79233-the-legacy-realm-of-terror.json](./79233-the-legacy-realm-of-terror.json) |
 | The Legacy: The Tree of Might | 112988 | [112988-the-legacy-the-tree-of-might.json](./112988-the-legacy-the-tree-of-might.json) |
@@ -4763,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The love letter | 398435 | [398435-the-love-letter.json](./398435-the-love-letter.json) |
 | The Love Letter | 63820 | [63820-the-love-letter.json](./63820-the-love-letter.json) |
 | The Luckiest in the Megaverse | 285594 | [285594-the-luckiest-in-the-megaverse.json](./285594-the-luckiest-in-the-megaverse.json) |
+| The Lucky Acre | 409026 | [409026-the-lucky-acre.json](./409026-the-lucky-acre.json) |
 | The Luminist | 120972 | [120972-the-luminist.json](./120972-the-luminist.json) |
 | The Lunar Effect | 144746 | [144746-the-lunar-effect.json](./144746-the-lunar-effect.json) |
 | The Lurking Horror | 12180 | [12180-the-lurking-horror.json](./12180-the-lurking-horror.json) |
@@ -8591,6 +8595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TOCA World Touring Cars | 234899 | [234899-toca-world-touring-cars.json](./234899-toca-world-touring-cars.json) |
 | TOCA World Touring Cars | 8002 | [8002-toca-world-touring-cars.json](./8002-toca-world-touring-cars.json) |
 | Today is my Birthday | 112266 | [112266-today-is-my-birthday.json](./112266-today-is-my-birthday.json) |
+| Today, I'll Be The Hero | 409044 | [409044-today-ill-be-the-hero.json](./409044-today-ill-be-the-hero.json) |
 | Todd's Spider Dream | 154567 | [154567-todds-spider-dream.json](./154567-todds-spider-dream.json) |
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
 | Toddler Trainer - Counting Toys Pro | 87316 | [87316-toddler-trainer-counting-toys-pro.json](./87316-toddler-trainer-counting-toys-pro.json) |
@@ -8666,6 +8671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Alice | 135270 | [135270-tokyo-alice.json](./135270-tokyo-alice.json) |
 | Tokyo Beat Down | 20703 | [20703-tokyo-beat-down.json](./20703-tokyo-beat-down.json) |
 | Tokyo Chronos | 101059 | [101059-tokyo-chronos.json](./101059-tokyo-chronos.json) |
+| Tokyo City Nights | 409080 | [409080-tokyo-city-nights.json](./409080-tokyo-city-nights.json) |
 | Tokyo College Girls: The Nerd & Queen Bees | 345594 | [345594-tokyo-college-girls-the-nerd-and-queen-bees.json](./345594-tokyo-college-girls-the-nerd-and-queen-bees.json) |
 | Tokyo Cooking: Complete + | 328822 | [328822-tokyo-cooking-complete.json](./328822-tokyo-cooking-complete.json) |
 | Tokyo Cooking: Definitive Edition | 328799 | [328799-tokyo-cooking-definitive-edition.json](./328799-tokyo-cooking-definitive-edition.json) |
