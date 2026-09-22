@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanias | 250950 | [250950-insanias.json](./250950-insanias.json) |
 | Insaniquarium! | 334696 | [334696-insaniquarium.json](./334696-insaniquarium.json) |
 | Insanity | 94703 | [94703-insanity.json](./94703-insanity.json) |
+| Insanity Clicker | 34706 | [34706-insanity-clicker.json](./34706-insanity-clicker.json) |
 | Insanity X | 105400 | [105400-insanity-x.json](./105400-insanity-x.json) |
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
 | Insanity's Grip | 260232 | [260232-insanitys-grip.json](./260232-insanitys-grip.json) |
@@ -1694,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Rally | 49908 | [49908-international-rally.json](./49908-international-rally.json) |
 | International Rally Championship | 50210 | [50210-international-rally-championship.json](./50210-international-rally-championship.json) |
 | International Rugby Challenge | 73281 | [73281-international-rugby-challenge.json](./73281-international-rugby-challenge.json) |
+| International Sensible Soccer | 40808 | [40808-international-sensible-soccer.json](./40808-international-sensible-soccer.json) |
 | International Soccer | 201305 | [201305-international-soccer.json](./201305-international-soccer.json) |
 | International Soccer | 320986 | [320986-international-soccer.json](./320986-international-soccer.json) |
 | International Speedway | 369129 | [369129-international-speedway.json](./369129-international-speedway.json) |
