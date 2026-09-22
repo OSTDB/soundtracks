@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates of Andaron | 209594 | [209594-gates-of-andaron.json](./209594-gates-of-andaron.json) |
 | Gates of Dawn | 13857 | [13857-gates-of-dawn.json](./13857-gates-of-dawn.json) |
 | Gates of Devoroth | 211288 | [211288-gates-of-devoroth.json](./211288-gates-of-devoroth.json) |
+| Gates of Horizon | 36125 | [36125-gates-of-horizon.json](./36125-gates-of-horizon.json) |
 | Gates of Mirnah | 148998 | [148998-gates-of-mirnah.json](./148998-gates-of-mirnah.json) |
 | Gates of Nowhere | 50892 | [50892-gates-of-nowhere.json](./50892-gates-of-nowhere.json) |
 | Gates of Osiris | 61899 | [61899-gates-of-osiris.json](./61899-gates-of-osiris.json) |
@@ -2122,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Runner | 146816 | [146816-gold-runner.json](./146816-gold-runner.json) |
 | Gold Rush | 244761 | [244761-gold-rush.json](./244761-gold-rush.json) |
 | Gold Rush! | 12121 | [12121-gold-rush.json](./12121-gold-rush.json) |
+| Gold Rush! Anniversary | 36230 | [36230-gold-rush-anniversary.json](./36230-gold-rush-anniversary.json) |
 | Gold Rush! Anniversary: Special Edition | 54055 | [54055-gold-rush-anniversary-special-edition.json](./54055-gold-rush-anniversary-special-edition.json) |
 | Gold Rush! Classic | 36288 | [36288-gold-rush-classic.json](./36288-gold-rush-classic.json) |
 | Gold Up | 405619 | [405619-gold-up.json](./405619-gold-up.json) |
