@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Dadish | 233003 | [233003-daily-dadish.json](./233003-daily-dadish.json) |
 | Daily Driven Racer | 334474 | [334474-daily-driven-racer.json](./334474-daily-driven-racer.json) |
 | Daily Quizz | 78701 | [78701-daily-quizz.json](./78701-daily-quizz.json) |
+| Daily Run | 72384 | [72384-daily-run.json](./72384-daily-run.json) |
 | Daily Thread: The Sewing of Discontent | 270121 | [270121-daily-thread-the-sewing-of-discontent.json](./270121-daily-thread-the-sewing-of-discontent.json) |
 | Daily Vrai | 413610 | [413610-daily-vrai.json](./413610-daily-vrai.json) |
 | Daimaou no Bijutsukan to Kaitoudan | 140003 | [140003-daimaou-no-bijutsukan-to-kaitoudan.json](./140003-daimaou-no-bijutsukan-to-kaitoudan.json) |
@@ -5409,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drehmal: Apotheosis | 336548 | [336548-drehmal-apotheosis.json](./336548-drehmal-apotheosis.json) |
 | Drelbs | 13841 | [13841-drelbs.json](./13841-drelbs.json) |
 | Dremica | 393655 | [393655-dremica.json](./393655-dremica.json) |
+| Dresden Files Cooperative Card Game | 68570 | [68570-dresden-files-cooperative-card-game.json](./68570-dresden-files-cooperative-card-game.json) |
 | Dresden Files Cooperative Card Game: Dead Ends | 170488 | [170488-dresden-files-cooperative-card-game-dead-ends.json](./170488-dresden-files-cooperative-card-game-dead-ends.json) |
 | Dresden Files Cooperative Card Game: Fan Favorites | 266499 | [266499-dresden-files-cooperative-card-game-fan-favorites.json](./266499-dresden-files-cooperative-card-game-fan-favorites.json) |
 | Dresden Files Cooperative Card Game: Helping Hands | 170491 | [170491-dresden-files-cooperative-card-game-helping-hands.json](./170491-dresden-files-cooperative-card-game-helping-hands.json) |
