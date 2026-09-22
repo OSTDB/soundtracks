@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yggdrasil Jigsaw Puzzle | 116825 | [116825-yggdrasil-jigsaw-puzzle.json](./116825-yggdrasil-jigsaw-puzzle.json) |
 | Yggdrasill | 251851 | [251851-yggdrasill.json](./251851-yggdrasill.json) |
 | YGO Omega | 139411 | [139411-ygo-omega.json](./139411-ygo-omega.json) |
+| Yi and the Thousand Moons | 74779 | [74779-yi-and-the-thousand-moons.json](./74779-yi-and-the-thousand-moons.json) |
 | Yì Shìjiè Wúlítóu Shēnghuó 2 | 367429 | [367429-yi-shijie-wulitou-shenghuo-2.json](./367429-yi-shijie-wulitou-shenghuo-2.json) |
 | Yie Ar Kung-Fu | 18170 | [18170-yie-ar-kung-fu.json](./18170-yie-ar-kung-fu.json) |
 | Yie Ar Kung-Fu | 239171 | [239171-yie-ar-kung-fu.json](./239171-yie-ar-kung-fu.json) |
