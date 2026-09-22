@@ -2235,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meatsauce Madness: The Game | 174271 | [174271-meatsauce-madness-the-game.json](./174271-meatsauce-madness-the-game.json) |
 | Meaty McSkinBones | 116281 | [116281-meaty-mcskinbones.json](./116281-meaty-mcskinbones.json) |
 | Mebius Adventure | 206172 | [206172-mebius-adventure.json](./206172-mebius-adventure.json) |
+| Meccha! Taiko no Tatsujin DS: 7-tsu no Shima no Daibouken | 72548 | [72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json](./72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json) |
 | Mech Ace Combat Trainer | 31880 | [31880-mech-ace-combat-trainer.json](./31880-mech-ace-combat-trainer.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
 | Mech Commander Gold | 51238 | [51238-mech-commander-gold.json](./51238-mech-commander-gold.json) |
@@ -2709,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaton Musashi W: Wired - Victory Pose: Karate | 302539 | [302539-megaton-musashi-w-wired-victory-pose-karate.json](./302539-megaton-musashi-w-wired-victory-pose-karate.json) |
 | Megaton Musashi W: Wired - Victory Pose: Robot Dance | 302540 | [302540-megaton-musashi-w-wired-victory-pose-robot-dance.json](./302540-megaton-musashi-w-wired-victory-pose-robot-dance.json) |
 | Megaton Punch | 134458 | [134458-megaton-punch.json](./134458-megaton-punch.json) |
+| Megaton: Total Destruction | 69413 | [69413-megaton-total-destruction.json](./69413-megaton-total-destruction.json) |
 | Megatouch Mobile Arcade | 286675 | [286675-megatouch-mobile-arcade.json](./286675-megatouch-mobile-arcade.json) |
 | Megatron VGA | 46648 | [46648-megatron-vga.json](./46648-megatron-vga.json) |
 | MegaWorld | 286568 | [286568-megaworld.json](./286568-megaworld.json) |
