@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P47 Thunderbolt | 12838 | [12838-p47-thunderbolt.json](./12838-p47-thunderbolt.json) |
 | På Ekspedition i Bibelen | 129775 | [129775-pa-ekspedition-i-bibelen.json](./129775-pa-ekspedition-i-bibelen.json) |
 | Pa-nap | 257072 | [257072-pa-nap.json](./257072-pa-nap.json) |
+| PABG: Player Anime Battlegrounds | 393107 | [393107-pabg-player-anime-battlegrounds.json](./393107-pabg-player-anime-battlegrounds.json) |
 | Pablo Let's Go Bar | 169433 | [169433-pablo-lets-go-bar.json](./169433-pablo-lets-go-bar.json) |
 | Pac 16 | 313499 | [313499-pac-16.json](./313499-pac-16.json) |
 | Pac Adventures 3D | 105307 | [105307-pac-adventures-3d.json](./105307-pac-adventures-3d.json) |
@@ -102,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Mania | 284474 | [284474-pac-mania.json](./284474-pac-mania.json) |
 | Pac-Mondrian | 174791 | [174791-pac-mondrian.json](./174791-pac-mondrian.json) |
 | Pac-Panic | 46572 | [46572-pac-panic.json](./46572-pac-panic.json) |
+| Pac-Snec | 393131 | [393131-pac-snec.json](./393131-pac-snec.json) |
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
 | Paca Paca Passion Special | 329386 | [329386-paca-paca-passion-special.json](./329386-paca-paca-passion-special.json) |
 | PacaPomo | 310189 | [310189-pacapomo.json](./310189-pacapomo.json) |
@@ -1919,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phat Phrog | 30892 | [30892-phat-phrog.json](./30892-phat-phrog.json) |
 | Phat Phrog Clicker | 314308 | [314308-phat-phrog-clicker.json](./314308-phat-phrog-clicker.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
+| Phi's Star Challenge | 393099 | [393099-phis-star-challenge.json](./393099-phis-star-challenge.json) |
 | Phibos | 243394 | [243394-phibos.json](./243394-phibos.json) |
 | Phil of the Future | 49387 | [49387-phil-of-the-future.json](./49387-phil-of-the-future.json) |
 | Phil's Contract | 312184 | [312184-phils-contract.json](./312184-phils-contract.json) |
@@ -3781,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Tower Battle | 254176 | [254176-pokemon-tower-battle.json](./254176-pokemon-tower-battle.json) |
 | Pokémon Tower Defense 2 | 180292 | [180292-pokemon-tower-defense-2.json](./180292-pokemon-tower-defense-2.json) |
 | Pokémon Trading Card Game Pocket: Fantastical Parade | 387537 | [387537-pokemon-trading-card-game-pocket-fantastical-parade.json](./387537-pokemon-trading-card-game-pocket-fantastical-parade.json) |
+| Pokémon Trading Card Game Pocket: Paldean Wonders | 393103 | [393103-pokemon-trading-card-game-pocket-paldean-wonders.json](./393103-pokemon-trading-card-game-pocket-paldean-wonders.json) |
 | Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
 | Pokemon Twilight: Lunar | 323903 | [323903-pokemon-twilight-lunar.json](./323903-pokemon-twilight-lunar.json) |
 | Pokemon Twilight: Solar | 323904 | [323904-pokemon-twilight-solar.json](./323904-pokemon-twilight-solar.json) |
@@ -3797,9 +3801,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Volt White | 226415 | [226415-pokemon-volt-white.json](./226415-pokemon-volt-white.json) |
 | Pokémon Volt White 2 | 261895 | [261895-pokemon-volt-white-2.json](./261895-pokemon-volt-white-2.json) |
 | Pokémon Water Red | 221411 | [221411-pokemon-water-red.json](./221411-pokemon-water-red.json) |
+| Pokémon Waves | 393104 | [393104-pokemon-waves.json](./393104-pokemon-waves.json) |
 | Pokémon Weird Type Fun | 307908 | [307908-pokemon-weird-type-fun.json](./307908-pokemon-weird-type-fun.json) |
 | Pokémon White Version 2 | 8353 | [8353-pokemon-white-version-2.json](./8353-pokemon-white-version-2.json) |
 | Pokémon Wilting Y | 213977 | [213977-pokemon-wilting-y.json](./213977-pokemon-wilting-y.json) |
+| Pokémon Winds | 393105 | [393105-pokemon-winds.json](./393105-pokemon-winds.json) |
 | Pokémon: Battle Factory | 339247 | [339247-pokemon-battle-factory.json](./339247-pokemon-battle-factory.json) |
 | Pokémon: Blossom of the Soul | 143023 | [143023-pokemon-blossom-of-the-soul.json](./143023-pokemon-blossom-of-the-soul.json) |
 | Pokémon: Burning Lotus | 265218 | [265218-pokemon-burning-lotus.json](./265218-pokemon-burning-lotus.json) |
@@ -5924,6 +5930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Put the Fries in the Bag | 335692 | [335692-put-the-fries-in-the-bag.json](./335692-put-the-fries-in-the-bag.json) |
 | Put Your Brain on 2 | 234150 | [234150-put-your-brain-on-2.json](./234150-put-your-brain-on-2.json) |
 | Put Your Stamp On | 226434 | [226434-put-your-stamp-on.json](./226434-put-your-stamp-on.json) |
+| Putin Kills: Coronavirus | 393108 | [393108-putin-kills-coronavirus.json](./393108-putin-kills-coronavirus.json) |
 | Putin Life | 130049 | [130049-putin-life.json](./130049-putin-life.json) |
 | Putin takes taxes | 86569 | [86569-putin-takes-taxes.json](./86569-putin-takes-taxes.json) |
 | Putin, Boobs and Trump | 96940 | [96940-putin-boobs-and-trump.json](./96940-putin-boobs-and-trump.json) |
