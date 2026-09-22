@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa With Gun | 382878 | [382878-santa-with-gun.json](./382878-santa-with-gun.json) |
 | Santa's Big Adventures | 30075 | [30075-santas-big-adventures.json](./30075-santas-big-adventures.json) |
 | Santa's Big Sack | 380442 | [380442-santas-big-sack.json](./380442-santas-big-sack.json) |
+| Santa's Christmas Solitaire | 30362 | [30362-santas-christmas-solitaire.json](./30362-santas-christmas-solitaire.json) |
 | Santa's Factory | 279588 | [279588-santas-factory.json](./279588-santas-factory.json) |
 | Santa's Gifts | 225074 | [225074-santas-gifts.json](./225074-santas-gifts.json) |
 | Santa's Gifts Load | 378769 | [378769-santas-gifts-load.json](./378769-santas-gifts-load.json) |
@@ -6786,6 +6787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hole 2020 | 156675 | [156675-space-hole-2020.json](./156675-space-hole-2020.json) |
 | Space Hood | 372450 | [372450-space-hood.json](./372450-space-hood.json) |
 | Space Hopper | 274049 | [274049-space-hopper.json](./274049-space-hopper.json) |
+| Space Hotel | 30270 | [30270-space-hotel.json](./30270-space-hotel.json) |
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
 | Space II | 84202 | [84202-space-ii.json](./84202-space-ii.json) |
@@ -6977,6 +6979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Treasure Hunters part 2 | 372491 | [372491-space-treasure-hunters-part-2.json](./372491-space-treasure-hunters-part-2.json) |
 | Space Treat Deluxe | 40752 | [40752-space-treat-deluxe.json](./40752-space-treat-deluxe.json) |
 | Space Trouble | 47542 | [47542-space-trouble.json](./47542-space-trouble.json) |
+| Space Tyrant | 30348 | [30348-space-tyrant.json](./30348-space-tyrant.json) |
 | Space Valet | 177005 | [177005-space-valet.json](./177005-space-valet.json) |
 | Space Variance Authority | 337641 | [337641-space-variance-authority.json](./337641-space-variance-authority.json) |
 | Space Viking Raiders | 74469 | [74469-space-viking-raiders.json](./74469-space-viking-raiders.json) |
@@ -7015,6 +7018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceborne Survivors | 294268 | [294268-spaceborne-survivors.json](./294268-spaceborne-survivors.json) |
 | Spacebound | 95397 | [95397-spacebound.json](./95397-spacebound.json) |
 | Spacecats with Lasers | 36531 | [36531-spacecats-with-lasers.json](./36531-spacecats-with-lasers.json) |
+| Spacecats with Lasers VR | 30262 | [30262-spacecats-with-lasers-vr.json](./30262-spacecats-with-lasers-vr.json) |
 | SpaceColorsRunner | 123446 | [123446-spacecolorsrunner.json](./123446-spacecolorsrunner.json) |
 | SpaceCorp: 2025-2300AD | 352297 | [352297-spacecorp-2025-2300ad.json](./352297-spacecorp-2025-2300ad.json) |
 | Spacecraft Tactics | 274038 | [274038-spacecraft-tactics.json](./274038-spacecraft-tactics.json) |
@@ -7173,6 +7177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spec Ops II: Operation Bravo | 80887 | [80887-spec-ops-ii-operation-bravo.json](./80887-spec-ops-ii-operation-bravo.json) |
 | Special Agent Training | 401616 | [401616-special-agent-training.json](./401616-special-agent-training.json) |
 | Special Agent: Aigis Pink | 407446 | [407446-special-agent-aigis-pink.json](./407446-special-agent-aigis-pink.json) |
+| Special Delivery | 30364 | [30364-special-delivery.json](./30364-special-delivery.json) |
 | Special Delivery: Santa's Christmas Chaos | 57621 | [57621-special-delivery-santas-christmas-chaos.json](./57621-special-delivery-santas-christmas-chaos.json) |
 | Special Edition 4 Pack: Volume One | 98951 | [98951-special-edition-4-pack-volume-one.json](./98951-special-edition-4-pack-volume-one.json) |
 | Special Enquiry Detail: The Hand that Feeds | 87309 | [87309-special-enquiry-detail-the-hand-that-feeds.json](./87309-special-enquiry-detail-the-hand-that-feeds.json) |
@@ -9019,6 +9024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealthy Guy | 102573 | [102573-stealthy-guy.json](./102573-stealthy-guy.json) |
 | Steam | 95441 | [95441-steam.json](./95441-steam.json) |
 | Steam and Metal | 36139 | [36139-steam-and-metal.json](./36139-steam-and-metal.json) |
+| Steam Bandits: Outpost | 30368 | [30368-steam-bandits-outpost.json](./30368-steam-bandits-outpost.json) |
 | Steam Marines 2 | 57889 | [57889-steam-marines-2.json](./57889-steam-marines-2.json) |
 | Steam Punks | 61085 | [61085-steam-punks.json](./61085-steam-punks.json) |
 | Steam Puppet: Tower Defense | 151670 | [151670-steam-puppet-tower-defense.json](./151670-steam-puppet-tower-defense.json) |
@@ -9400,6 +9406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Heart | 397673 | [397673-stolen-heart.json](./397673-stolen-heart.json) |
 | Stolen Mushrooms | 268224 | [268224-stolen-mushrooms.json](./268224-stolen-mushrooms.json) |
 | Stolen Recovery | 133373 | [133373-stolen-recovery.json](./133373-stolen-recovery.json) |
+| Stolen Steel VR | 29568 | [29568-stolen-steel-vr.json](./29568-stolen-steel-vr.json) |
 | Stomper | 182990 | [182990-stomper.json](./182990-stomper.json) |
 | Stomper | 313867 | [313867-stomper.json](./313867-stomper.json) |
 | Stomping Grounds | 275711 | [275711-stomping-grounds.json](./275711-stomping-grounds.json) |
