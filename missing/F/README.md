@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Journey | 38391 | [38391-fantastic-journey.json](./38391-fantastic-journey.json) |
 | Fantastic Kingdom | 120421 | [120421-fantastic-kingdom.json](./120421-fantastic-kingdom.json) |
 | Fantastic Marchen: Cake-ya-san Monogatari + Doubutsu Chara Navi Uranai Kosei Shinri Gaku | 49577 | [49577-fantastic-marchen-cake-ya-san-monogatari-doubutsu-chara-navi-uranai-kosei-shinri-gaku.json](./49577-fantastic-marchen-cake-ya-san-monogatari-doubutsu-chara-navi-uranai-kosei-shinri-gaku.json) |
+| Fantastic Pets | 20165 | [20165-fantastic-pets.json](./20165-fantastic-pets.json) |
 | Fantastic Voyage | 18558 | [18558-fantastic-voyage.json](./18558-fantastic-voyage.json) |
 | Fantasy & Blade | 119021 | [119021-fantasy-and-blade.json](./119021-fantasy-and-blade.json) |
 | Fantasy & Blade II | 124223 | [124223-fantasy-and-blade-ii.json](./124223-fantasy-and-blade-ii.json) |
@@ -825,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Expert 2019 | 112334 | [112334-farm-expert-2019.json](./112334-farm-expert-2019.json) |
 | Farm Frenzy 3 | 16093 | [16093-farm-frenzy-3.json](./16093-farm-frenzy-3.json) |
 | Farm Frenzy 3 HD | 88808 | [88808-farm-frenzy-3-hd.json](./88808-farm-frenzy-3-hd.json) |
+| Farm Frenzy 4 | 17317 | [17317-farm-frenzy-4.json](./17317-farm-frenzy-4.json) |
 | Farm Frenzy Collection | 34762 | [34762-farm-frenzy-collection.json](./34762-farm-frenzy-collection.json) |
 | Farm Frenzy Prostokvashino | 320397 | [320397-farm-frenzy-prostokvashino.json](./320397-farm-frenzy-prostokvashino.json) |
 | Farm Frenzy: Animal Country | 201278 | [201278-farm-frenzy-animal-country.json](./201278-farm-frenzy-animal-country.json) |
@@ -2391,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five-A-Side Soccer | 84235 | [84235-five-a-side-soccer.json](./84235-five-a-side-soccer.json) |
 | Five-element Seal: Infinity | 309523 | [309523-five-element-seal-infinity.json](./309523-five-element-seal-infinity.json) |
 | Five-O Deluxe | 104103 | [104103-five-o-deluxe.json](./104103-five-o-deluxe.json) |
+| Five: Guardians of David | 20205 | [20205-five-guardians-of-david.json](./20205-five-guardians-of-david.json) |
 | FiveM | 146553 | [146553-fivem.json](./146553-fivem.json) |
 | Fivies | 220343 | [220343-fivies.json](./220343-fivies.json) |
 | Fix and Foxi: Episode 1 - Lupo | 208380 | [208380-fix-and-foxi-episode-1-lupo.json](./208380-fix-and-foxi-episode-1-lupo.json) |
