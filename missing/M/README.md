@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M&M's Minis Madness | 49918 | [49918-m-and-ms-minis-madness.json](./49918-m-and-ms-minis-madness.json) |
 | M&M's: The Lost Formulas | 79613 | [79613-m-and-ms-the-lost-formulas.json](./79613-m-and-ms-the-lost-formulas.json) |
 | M00m World | 323761 | [323761-m00m-world.json](./323761-m00m-world.json) |
+| M1 Tank Platoon | 12673 | [12673-m1-tank-platoon.json](./12673-m1-tank-platoon.json) |
 | M13n: Miniaturization | 336544 | [336544-m13n-miniaturization.json](./336544-m13n-miniaturization.json) |
 | M25 Racer | 12896 | [12896-m25-racer.json](./12896-m25-racer.json) |
 | M2xM4 | 76240 | [76240-m2xm4.json](./76240-m2xm4.json) |
@@ -3783,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Way Jigsaw Puzzles: Expansion Pack 2 | 265247 | [265247-milky-way-jigsaw-puzzles-expansion-pack-2.json](./265247-milky-way-jigsaw-puzzles-expansion-pack-2.json) |
 | Mill | 92299 | [92299-mill.json](./92299-mill.json) |
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
+| Millenium: Return To Earth | 12922 | [12922-millenium-return-to-earth.json](./12922-millenium-return-to-earth.json) |
 | Millennial Simulator | 247618 | [247618-millennial-simulator.json](./247618-millennial-simulator.json) |
 | Millennium 2: Take Me Higher | 8179 | [8179-millennium-2-take-me-higher.json](./8179-millennium-2-take-me-higher.json) |
 | Millennium 3: Cry Wolf | 8180 | [8180-millennium-3-cry-wolf.json](./8180-millennium-3-cry-wolf.json) |
@@ -5436,6 +5438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlit Nights | 386146 | [386146-moonlit-nights.json](./386146-moonlit-nights.json) |
 | MoonLost | 387344 | [387344-moonlost.json](./387344-moonlost.json) |
 | MoonMan Adventures | 305923 | [305923-moonman-adventures.json](./305923-moonman-adventures.json) |
+| Moonmist | 12448 | [12448-moonmist.json](./12448-moonmist.json) |
 | MoonPong: Tales of Epic Lunacy | 213376 | [213376-moonpong-tales-of-epic-lunacy.json](./213376-moonpong-tales-of-epic-lunacy.json) |
 | Moonray | 133362 | [133362-moonray.json](./133362-moonray.json) |
 | Moonray: Battle Lands | 368045 | [368045-moonray-battle-lands.json](./368045-moonray-battle-lands.json) |
@@ -6454,6 +6457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muzzle Velocity | 70947 | [70947-muzzle-velocity.json](./70947-muzzle-velocity.json) |
 | MVP 06: NCAA Baseball | 5937 | [5937-mvp-06-ncaa-baseball.json](./5937-mvp-06-ncaa-baseball.json) |
 | MVP Baseball | 71443 | [71443-mvp-baseball.json](./71443-mvp-baseball.json) |
+| MVP Baseball 2004 | 10627 | [10627-mvp-baseball-2004.json](./10627-mvp-baseball-2004.json) |
 | MVP Baseball 2005 | 796 | [796-mvp-baseball-2005.json](./796-mvp-baseball-2005.json) |
 | MX 2002 Featuring Ricky Carmichael | 18265 | [18265-mx-2002-featuring-ricky-carmichael.json](./18265-mx-2002-featuring-ricky-carmichael.json) |
 | MX Bikes | 37424 | [37424-mx-bikes.json](./37424-mx-bikes.json) |
