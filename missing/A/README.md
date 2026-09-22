@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
 | Aerea | 27794 | [27794-aerea.json](./27794-aerea.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
+| Aerial Destruction | 26123 | [26123-aerial-destruction.json](./26123-aerial-destruction.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 1 | 270203 | [270203-aerial-nature-jigsaw-puzzles-expansion-pack-1.json](./270203-aerial-nature-jigsaw-puzzles-expansion-pack-1.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 4 | 270199 | [270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json](./270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json) |
 | Aerial Racers | 76195 | [76195-aerial-racers.json](./76195-aerial-racers.json) |
@@ -3426,6 +3427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo Justice: Turnabout Substitution | 143498 | [143498-apollo-justice-turnabout-substitution.json](./143498-apollo-justice-turnabout-substitution.json) |
 | Apollo LM | 174288 | [174288-apollo-lm.json](./174288-apollo-lm.json) |
 | Apollo Lunar Mission | 158571 | [158571-apollo-lunar-mission.json](./158571-apollo-lunar-mission.json) |
+| Apollo4x | 26978 | [26978-apollo4x.json](./26978-apollo4x.json) |
 | Apophis | 136490 | [136490-apophis.json](./136490-apophis.json) |
 | Apopia: Sugar Coated Tale | 392258 | [392258-apopia-sugar-coated-tale.json](./392258-apopia-sugar-coated-tale.json) |
 | Apoptosis | 383386 | [383386-apoptosis.json](./383386-apoptosis.json) |
@@ -4415,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Girl 3 Plus | 22465 | [22465-artificial-girl-3-plus.json](./22465-artificial-girl-3-plus.json) |
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
 | Artika.1 | 74317 | [74317-artika-1.json](./74317-artika-1.json) |
+| Artillerists | 26687 | [26687-artillerists.json](./26687-artillerists.json) |
 | ArtilleRoyalty | 374681 | [374681-artilleroyalty.json](./374681-artilleroyalty.json) |
 | Artillery | 93527 | [93527-artillery.json](./93527-artillery.json) |
 | Artillery Duel | 12241 | [12241-artillery-duel.json](./12241-artillery-duel.json) |
