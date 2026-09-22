@@ -1635,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill The Cup | 315705 | [315705-fill-the-cup.json](./315705-fill-the-cup.json) |
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
 | Fille Fatale Compassion | 388211 | [388211-fille-fatale-compassion.json](./388211-fille-fatale-compassion.json) |
+| FillGood | 415266 | [415266-fillgood.json](./415266-fillgood.json) |
 | Filly Fantasy VI | 312347 | [312347-filly-fantasy-vi.json](./312347-filly-fantasy-vi.json) |
 | Film Fatale: Lights, Camera, Madness! | 125383 | [125383-film-fatale-lights-camera-madness.json](./125383-film-fatale-lights-camera-madness.json) |
 | Filsnown: Hikari to Toki | 247506 | [247506-filsnown-hikari-to-toki.json](./247506-filsnown-hikari-to-toki.json) |
@@ -2592,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FleeTing | 371241 | [371241-fleeting.json](./371241-fleeting.json) |
 | Fleeting JKT | 183048 | [183048-fleeting-jkt.json](./183048-fleeting-jkt.json) |
 | FleetMaster | 234060 | [234060-fleetmaster.json](./234060-fleetmaster.json) |
+| Flekkia | 415300 | [415300-flekkia.json](./415300-flekkia.json) |
 | Flem | 35960 | [35960-flem.json](./35960-flem.json) |
 | Flempire | 224248 | [224248-flempire.json](./224248-flempire.json) |
 | Flesh | 216244 | [216244-flesh.json](./216244-flesh.json) |
