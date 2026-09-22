@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tadeo Jones y el Manuscrito Perdido | 82043 | [82043-tadeo-jones-y-el-manuscrito-perdido.json](./82043-tadeo-jones-y-el-manuscrito-perdido.json) |
 | Tadpole Swimmer | 110822 | [110822-tadpole-swimmer.json](./110822-tadpole-swimmer.json) |
 | Taern | 55929 | [55929-taern.json](./55929-taern.json) |
+| Taflheim | 415313 | [415313-taflheim.json](./415313-taflheim.json) |
 | Tag | 91126 | [91126-tag.json](./91126-tag.json) |
 | Tag Hop | 153413 | [153413-tag-hop.json](./153413-tag-hop.json) |
 | Tag League | 366328 | [366328-tag-league.json](./366328-tag-league.json) |
@@ -2172,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ascent: CyberSec Pack | 276306 | [276306-the-ascent-cybersec-pack.json](./276306-the-ascent-cybersec-pack.json) |
 | The Ascot | 298061 | [298061-the-ascot.json](./298061-the-ascot.json) |
 | The Asfrixa | 192822 | [192822-the-asfrixa.json](./192822-the-asfrixa.json) |
+| The Ash Remembers | 415267 | [415267-the-ash-remembers.json](./415267-the-ash-remembers.json) |
 | The Asmodian Princesses and the Witch in the Forest | 199088 | [199088-the-asmodian-princesses-and-the-witch-in-the-forest.json](./199088-the-asmodian-princesses-and-the-witch-in-the-forest.json) |
 | The Assassins: PD Games Volume 01 | 267643 | [267643-the-assassins-pd-games-volume-01.json](./267643-the-assassins-pd-games-volume-01.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
@@ -3859,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Howler | 11838 | [11838-the-howler.json](./11838-the-howler.json) |
 | The Hula Hamsters | 71797 | [71797-the-hula-hamsters.json](./71797-the-hula-hamsters.json) |
 | The Human Heart | 177913 | [177913-the-human-heart.json](./177913-the-human-heart.json) |
+| The Humanity Check | 415318 | [415318-the-humanity-check.json](./415318-the-humanity-check.json) |
 | The Humans | 37273 | [37273-the-humans.json](./37273-the-humans.json) |
 | The Humans 2: Jurassic Levels | 39032 | [39032-the-humans-2-jurassic-levels.json](./39032-the-humans-2-jurassic-levels.json) |
 | The Humans Collection | 103199 | [103199-the-humans-collection.json](./103199-the-humans-collection.json) |
@@ -8285,6 +8288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Heroes | 22317 | [22317-tiny-heroes.json](./22317-tiny-heroes.json) |
 | Tiny Hill | 192940 | [192940-tiny-hill.json](./192940-tiny-hill.json) |
 | Tiny House Simulator | 318617 | [318617-tiny-house-simulator.json](./318617-tiny-house-simulator.json) |
+| Tiny industry | 415275 | [415275-tiny-industry.json](./415275-tiny-industry.json) |
 | Tiny Invaders | 92501 | [92501-tiny-invaders.json](./92501-tiny-invaders.json) |
 | Tiny Jump | 254559 | [254559-tiny-jump.json](./254559-tiny-jump.json) |
 | Tiny Kingdoms | 311119 | [311119-tiny-kingdoms.json](./311119-tiny-kingdoms.json) |
