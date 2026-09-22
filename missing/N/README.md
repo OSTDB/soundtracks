@@ -2239,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Node Farm | 287772 | [287772-node-farm.json](./287772-node-farm.json) |
 | Node Math | 370712 | [370712-node-math.json](./370712-node-math.json) |
 | Node RPG | 373008 | [373008-node-rpg.json](./373008-node-rpg.json) |
+| Nodemind: Dynamic Core | 397255 | [397255-nodemind-dynamic-core.json](./397255-nodemind-dynamic-core.json) |
 | Nodes of Yesod | 23059 | [23059-nodes-of-yesod.json](./23059-nodes-of-yesod.json) |
 | Nodrog's Fortress | 182463 | [182463-nodrogs-fortress.json](./182463-nodrogs-fortress.json) |
 | Nodwar | 378906 | [378906-nodwar.json](./378906-nodwar.json) |
