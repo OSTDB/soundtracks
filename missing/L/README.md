@@ -2396,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | London 2012: Official Mobile Game | 137015 | [137015-london-2012-official-mobile-game.json](./137015-london-2012-official-mobile-game.json) |
 | London 2012: The Official Video Game | 7055 | [7055-london-2012-the-official-video-game.json](./7055-london-2012-the-official-video-game.json) |
 | London Crazy Taxi | 235217 | [235217-london-crazy-taxi.json](./235217-london-crazy-taxi.json) |
+| London Detective Mysteria | 104261 | [104261-london-detective-mysteria.json](./104261-london-detective-mysteria.json) |
 | London Racer II | 12897 | [12897-london-racer-ii.json](./12897-london-racer-ii.json) |
 | London Racer: Destruction Madness | 15438 | [15438-london-racer-destruction-madness.json](./15438-london-racer-destruction-madness.json) |
 | London Racer: Police Madness | 15436 | [15436-london-racer-police-madness.json](./15436-london-racer-police-madness.json) |
