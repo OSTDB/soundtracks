@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QotU | 308538 | [308538-qotu.json](./308538-qotu.json) |
 | QP Kiss | 188576 | [188576-qp-kiss.json](./188576-qp-kiss.json) |
 | Qpang | 144094 | [144094-qpang.json](./144094-qpang.json) |
+| QQQbeats!!! | 354547 | [354547-qqqbeats.json](./354547-qqqbeats.json) |
 | QQTang | 240882 | [240882-qqtang.json](./240882-qqtang.json) |
 | Qrank | 94181 | [94181-qrank.json](./94181-qrank.json) |
 | Qreate | 356758 | [356758-qreate.json](./356758-qreate.json) |
@@ -177,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Void | 288758 | [288758-quantum-void.json](./288758-quantum-void.json) |
 | Quantum Witch | 323165 | [323165-quantum-witch.json](./323165-quantum-witch.json) |
 | Quantum Wizard | 44182 | [44182-quantum-wizard.json](./44182-quantum-wizard.json) |
+| Quantum: Recharged | 257945 | [257945-quantum-recharged.json](./257945-quantum-recharged.json) |
 | Quarantine | 295910 | [295910-quarantine.json](./295910-quarantine.json) |
 | Quarantine Area: Zombie Attack | 370791 | [370791-quarantine-area-zombie-attack.json](./370791-quarantine-area-zombie-attack.json) |
 | Quarantine Circular | 102119 | [102119-quarantine-circular.json](./102119-quarantine-circular.json) |
