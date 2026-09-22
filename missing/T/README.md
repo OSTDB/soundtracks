@@ -1369,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest | 198939 | [198939-tempest.json](./198939-tempest.json) |
 | Tempest 3000 | 51181 | [51181-tempest-3000.json](./51181-tempest-3000.json) |
 | Tempest 4000 | 54565 | [54565-tempest-4000.json](./54565-tempest-4000.json) |
+| Tempest of the Heavens and Earth | 113643 | [113643-tempest-of-the-heavens-and-earth.json](./113643-tempest-of-the-heavens-and-earth.json) |
 | Tempest Rising: The Vetis Wrath | 410968 | [410968-tempest-rising-the-vetis-wrath.json](./410968-tempest-rising-the-vetis-wrath.json) |
 | Tempest X3 | 71878 | [71878-tempest-x3.json](./71878-tempest-x3.json) |
 | Tempest: Treasure Lands | 151542 | [151542-tempest-treasure-lands.json](./151542-tempest-treasure-lands.json) |
@@ -2330,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Fog | 271853 | [271853-the-black-fog.json](./271853-the-black-fog.json) |
 | The Black Knight | 371875 | [371875-the-black-knight.json](./371875-the-black-knight.json) |
 | The Black Lamb | 329937 | [329937-the-black-lamb.json](./329937-the-black-lamb.json) |
+| The Black Masses | 113833 | [113833-the-black-masses.json](./113833-the-black-masses.json) |
 | The Black Pepper Crew | 184629 | [184629-the-black-pepper-crew.json](./184629-the-black-pepper-crew.json) |
 | The Black Pool | 226447 | [226447-the-black-pool.json](./226447-the-black-pool.json) |
 | The Black Rose | 124260 | [124260-the-black-rose.json](./124260-the-black-rose.json) |
@@ -2955,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil & the Deep Blue Sea | 194434 | [194434-the-devil-and-the-deep-blue-sea.json](./194434-the-devil-and-the-deep-blue-sea.json) |
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
+| The Devil's Calculator | 114080 | [114080-the-devils-calculator.json](./114080-the-devils-calculator.json) |
 | The Devil's Eight | 55126 | [55126-the-devils-eight.json](./55126-the-devils-eight.json) |
 | The Devil's Garden | 105280 | [105280-the-devils-garden.json](./105280-the-devils-garden.json) |
 | The Devilry Reservation | 239673 | [239673-the-devilry-reservation.json](./239673-the-devilry-reservation.json) |
@@ -3051,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeon Experience | 113668 | [113668-the-dungeon-experience.json](./113668-the-dungeon-experience.json) |
 | The Dungeon of Destiny | 74399 | [74399-the-dungeon-of-destiny.json](./74399-the-dungeon-of-destiny.json) |
 | The Dungeon of Doom | 229374 | [229374-the-dungeon-of-doom.json](./229374-the-dungeon-of-doom.json) |
+| The Dungeon of Lulu Farea | 113800 | [113800-the-dungeon-of-lulu-farea.json](./113800-the-dungeon-of-lulu-farea.json) |
 | The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition: Splat Jaypak's Arenas | 199115 | [199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json](./199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Deluxe Edition | 154540 | [154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json](./154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Ultimate Edition | 159705 | [159705-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-ultimate-edition.json](./159705-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-ultimate-edition.json) |
@@ -5146,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Penguins of Madagascar: Operation Plushy Rescue | 230396 | [230396-the-penguins-of-madagascar-operation-plushy-rescue.json](./230396-the-penguins-of-madagascar-operation-plushy-rescue.json) |
 | The Penumbra Collection | 51891 | [51891-the-penumbra-collection.json](./51891-the-penumbra-collection.json) |
 | The People's House | 396900 | [396900-the-peoples-house.json](./396900-the-peoples-house.json) |
+| The Pepper Prince: Episode 1 - Red Hot Chili Wedding | 113532 | [113532-the-pepper-prince-episode-1-red-hot-chili-wedding.json](./113532-the-pepper-prince-episode-1-red-hot-chili-wedding.json) |
 | The Pepper Prince: Episode 3 - Into Thin Air | 302136 | [302136-the-pepper-prince-episode-3-into-thin-air.json](./302136-the-pepper-prince-episode-3-into-thin-air.json) |
 | The Pepper Prince: Episode 4 - Lover's Peak | 302137 | [302137-the-pepper-prince-episode-4-lovers-peak.json](./302137-the-pepper-prince-episode-4-lovers-peak.json) |
 | The Pepper Prince: Prologue | 302135 | [302135-the-pepper-prince-prologue.json](./302135-the-pepper-prince-prologue.json) |
@@ -5901,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Specter Chronicles: Episode 1 - The False Prophet | 236376 | [236376-the-specter-chronicles-episode-1-the-false-prophet.json](./236376-the-specter-chronicles-episode-1-the-false-prophet.json) |
 | The Specter's Desire | 301824 | [301824-the-specters-desire.json](./301824-the-specters-desire.json) |
 | The Spectrum Retreat | 96065 | [96065-the-spectrum-retreat.json](./96065-the-spectrum-retreat.json) |
+| The Spell | 113759 | [113759-the-spell.json](./113759-the-spell.json) |
 | The Spell Brigade | 297683 | [297683-the-spell-brigade.json](./297683-the-spell-brigade.json) |
 | The Speris Legacy | 15565 | [15565-the-speris-legacy.json](./15565-the-speris-legacy.json) |
 | The Spewnicorn | 301249 | [301249-the-spewnicorn.json](./301249-the-spewnicorn.json) |
@@ -6633,6 +6639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wind's Path | 333078 | [333078-the-winds-path.json](./333078-the-winds-path.json) |
 | The Window 8 | 348228 | [348228-the-window-8.json](./348228-the-window-8.json) |
 | The Window 8: Millennium | 369105 | [369105-the-window-8-millennium.json](./369105-the-window-8-millennium.json) |
+| The Window Box | 113850 | [113850-the-window-box.json](./113850-the-window-box.json) |
 | The Windows Are Gone | 267093 | [267093-the-windows-are-gone.json](./267093-the-windows-are-gone.json) |
 | The Winter | 209684 | [209684-the-winter.json](./209684-the-winter.json) |
 | The Winter Games | 264346 | [264346-the-winter-games.json](./264346-the-winter-games.json) |
