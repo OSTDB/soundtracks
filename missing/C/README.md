@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canyon Rush | 291619 | [291619-canyon-rush.json](./291619-canyon-rush.json) |
 | Capacocha | 179139 | [179139-capacocha.json](./179139-capacocha.json) |
 | Caparace | 383966 | [383966-caparace.json](./383966-caparace.json) |
+| Capcom Arcade 2nd Stadium | 204386 | [204386-capcom-arcade-2nd-stadium.json](./204386-capcom-arcade-2nd-stadium.json) |
 | Capcom Arcade Cabinet | 18821 | [18821-capcom-arcade-cabinet.json](./18821-capcom-arcade-cabinet.json) |
 | Capcom Arcade Stadium Pack 1: Dawn of the Arcade | 141632 | [141632-capcom-arcade-stadium-pack-1-dawn-of-the-arcade.json](./141632-capcom-arcade-stadium-pack-1-dawn-of-the-arcade.json) |
 | Capcom Arcade Stadium Pack 2: Arcade Revolution | 141633 | [141633-capcom-arcade-stadium-pack-2-arcade-revolution.json](./141633-capcom-arcade-stadium-pack-2-arcade-revolution.json) |
@@ -500,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cape's Escape Game 3rd Room | 165615 | [165615-capes-escape-game-3rd-room.json](./165615-capes-escape-game-3rd-room.json) |
 | Cape's Escape Game 4th Room | 173142 | [173142-capes-escape-game-4th-room.json](./173142-capes-escape-game-4th-room.json) |
 | Capelord: Bounty Hunters | 190718 | [190718-capelord-bounty-hunters.json](./190718-capelord-bounty-hunters.json) |
+| Capes | 217376 | [217376-capes.json](./217376-capes.json) |
 | Capes: Supporter Pack | 304362 | [304362-capes-supporter-pack.json](./304362-capes-supporter-pack.json) |
 | Capgras | 138023 | [138023-capgras.json](./138023-capgras.json) |
 | Caphaclus Recommence | 207369 | [207369-caphaclus-recommence.json](./207369-caphaclus-recommence.json) |
@@ -4014,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorSpill Ball | 334751 | [334751-colorspill-ball.json](./334751-colorspill-ball.json) |
 | ColorTris | 178620 | [178620-colortris.json](./178620-colortris.json) |
 | ColorZ | 21043 | [21043-colorz.json](./21043-colorz.json) |
+| Colossal Cave | 215119 | [215119-colossal-cave.json](./215119-colossal-cave.json) |
 | Colossal Cave Adventure | 265733 | [265733-colossal-cave-adventure.json](./265733-colossal-cave-adventure.json) |
 | Colossal Cave VR | 253587 | [253587-colossal-cave-vr.json](./253587-colossal-cave-vr.json) |
 | Colossal Saga | 126663 | [126663-colossal-saga.json](./126663-colossal-saga.json) |
