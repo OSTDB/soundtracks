@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golembert | 258017 | [258017-golembert.json](./258017-golembert.json) |
 | Golf | 131528 | [131528-golf.json](./131528-golf.json) |
 | Golf | 147820 | [147820-golf.json](./147820-golf.json) |
+| Golf | 18008 | [18008-golf.json](./18008-golf.json) |
 | Golf | 20382 | [20382-golf.json](./20382-golf.json) |
 | Golf | 282126 | [282126-golf.json](./282126-golf.json) |
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
@@ -2729,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraviSound | 109701 | [109701-gravisound.json](./109701-gravisound.json) |
 | Gravit | 365754 | [365754-gravit.json](./365754-gravit.json) |
 | GraviT | 200696 | [200696-gravit.json](./200696-gravit.json) |
+| Gravitar | 17246 | [17246-gravitar.json](./17246-gravitar.json) |
 | Gravitas | 134000 | [134000-gravitas.json](./134000-gravitas.json) |
 | Gravitas! | 259549 | [259549-gravitas.json](./259549-gravitas.json) |
 | Gravitation | 57614 | [57614-gravitation.json](./57614-gravitation.json) |
