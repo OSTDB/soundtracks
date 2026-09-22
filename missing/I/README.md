@@ -1945,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Apartment | 35719 | [35719-invisible-apartment.json](./35719-invisible-apartment.json) |
 | Invisible Apartment 2 | 336913 | [336913-invisible-apartment-2.json](./336913-invisible-apartment-2.json) |
 | Invisible Apartment 2 | 34492 | [34492-invisible-apartment-2.json](./34492-invisible-apartment-2.json) |
+| Invisible Ascent | 406325 | [406325-invisible-ascent.json](./406325-invisible-ascent.json) |
 | Invisible Beasts | 183040 | [183040-invisible-beasts.json](./183040-invisible-beasts.json) |
 | Invisible Fear | 274498 | [274498-invisible-fear.json](./274498-invisible-fear.json) |
 | Invisible Inc.: Contingency Plan | 68275 | [68275-invisible-inc-contingency-plan.json](./68275-invisible-inc-contingency-plan.json) |
