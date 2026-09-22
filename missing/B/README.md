@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
 | Battle Polygon | 129022 | [129022-battle-polygon.json](./129022-battle-polygon.json) |
 | Battle Princess Madelyn: Royal Edition | 147930 | [147930-battle-princess-madelyn-royal-edition.json](./147930-battle-princess-madelyn-royal-edition.json) |
+| Battle Princess of Arcadias | 9068 | [9068-battle-princess-of-arcadias.json](./9068-battle-princess-of-arcadias.json) |
 | Battle Puzzle 2048: Wicked Witches | 370801 | [370801-battle-puzzle-2048-wicked-witches.json](./370801-battle-puzzle-2048-wicked-witches.json) |
 | Battle Racing Stars | 138719 | [138719-battle-racing-stars.json](./138719-battle-racing-stars.json) |
 | Battle Rage: Mech Conflict | 78683 | [78683-battle-rage-mech-conflict.json](./78683-battle-rage-mech-conflict.json) |
@@ -2958,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Code | 55840 | [55840-black-code.json](./55840-black-code.json) |
 | Black Command | 107221 | [107221-black-command.json](./107221-black-command.json) |
 | Black Cycle | 226194 | [226194-black-cycle.json](./226194-black-cycle.json) |
+| Black Dahlia | 12405 | [12405-black-dahlia.json](./12405-black-dahlia.json) |
 | Black Dawn | 45503 | [45503-black-dawn.json](./45503-black-dawn.json) |
 | Black Death | 65753 | [65753-black-death.json](./65753-black-death.json) |
 | Black Desert Mobile | 54701 | [54701-black-desert-mobile.json](./54701-black-desert-mobile.json) |
