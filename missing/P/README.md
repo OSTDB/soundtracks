@@ -3123,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Invasion: A Super Magical Mermaid Adventure | 302128 | [302128-plastic-invasion-a-super-magical-mermaid-adventure.json](./302128-plastic-invasion-a-super-magical-mermaid-adventure.json) |
 | Plastic Model | 229684 | [229684-plastic-model.json](./229684-plastic-model.json) |
 | Plastic Playground | 33116 | [33116-plastic-playground.json](./33116-plastic-playground.json) |
+| Plastic Soldiers | 111701 | [111701-plastic-soldiers.json](./111701-plastic-soldiers.json) |
 | Plastic Trick | 321592 | [321592-plastic-trick.json](./321592-plastic-trick.json) |
 | PlasticFighter | 310738 | [310738-plasticfighter.json](./310738-plasticfighter.json) |
 | Plat4mer | 112972 | [112972-plat4mer.json](./112972-plat4mer.json) |
@@ -4819,6 +4820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro 123 My Little Funny Animals Connect the Dots | 102616 | [102616-pro-123-my-little-funny-animals-connect-the-dots.json](./102616-pro-123-my-little-funny-animals-connect-the-dots.json) |
 | Pro Baccarat | 351003 | [351003-pro-baccarat.json](./351003-pro-baccarat.json) |
 | Pro Balance | 178611 | [178611-pro-balance.json](./178611-pro-balance.json) |
+| Pro Basketball Manager 2019 | 111574 | [111574-pro-basketball-manager-2019.json](./111574-pro-basketball-manager-2019.json) |
 | Pro Basketball Manager 2022 | 182397 | [182397-pro-basketball-manager-2022.json](./182397-pro-basketball-manager-2022.json) |
 | Pro Basketball Manager 2023 | 220656 | [220656-pro-basketball-manager-2023.json](./220656-pro-basketball-manager-2023.json) |
 | Pro Basketball Manager 2025 | 316054 | [316054-pro-basketball-manager-2025.json](./316054-pro-basketball-manager-2025.json) |
@@ -4936,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Farmer 2016 | 84808 | [84808-professional-farmer-2016.json](./84808-professional-farmer-2016.json) |
 | Professional Farmer 2017: Cattle & Cultivation | 172103 | [172103-professional-farmer-2017-cattle-and-cultivation.json](./172103-professional-farmer-2017-cattle-and-cultivation.json) |
 | Professional Farmer: Cattle and Crops | 55892 | [55892-professional-farmer-cattle-and-crops.json](./55892-professional-farmer-cattle-and-crops.json) |
+| Professional Farmer: Nintendo Switch Edition | 111759 | [111759-professional-farmer-nintendo-switch-edition.json](./111759-professional-farmer-nintendo-switch-edition.json) |
 | Professional Fisherman's Tour: Northern Hemisphere | 61352 | [61352-professional-fishermans-tour-northern-hemisphere.json](./61352-professional-fishermans-tour-northern-hemisphere.json) |
 | Professional Fishing | 141801 | [141801-professional-fishing.json](./141801-professional-fishing.json) |
 | Professional Fishing 2 | 255695 | [255695-professional-fishing-2.json](./255695-professional-fishing-2.json) |
@@ -5318,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prop Hunt Portable | 39195 | [39195-prop-hunt-portable.json](./39195-prop-hunt-portable.json) |
 | Prop Sumo | 355620 | [355620-prop-sumo.json](./355620-prop-sumo.json) |
 | Propa. | 326255 | [326255-propa.json](./326255-propa.json) |
+| Propaganda Llama | 111476 | [111476-propaganda-llama.json](./111476-propaganda-llama.json) |
 | Propaganda vs. Zombies 2 | 391742 | [391742-propaganda-vs-zombies-2.json](./391742-propaganda-vs-zombies-2.json) |
 | Propagate | 366218 | [366218-propagate.json](./366218-propagate.json) |
 | Propeller Arena: Aviation Battle Championship | 46555 | [46555-propeller-arena-aviation-battle-championship.json](./46555-propeller-arena-aviation-battle-championship.json) |
