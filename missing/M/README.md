@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Blaster | 151741 | [151741-magical-blaster.json](./151741-magical-blaster.json) |
 | Magical Boco | 313464 | [313464-magical-boco.json](./313464-magical-boco.json) |
 | Magical Cat Adventure | 39545 | [39545-magical-cat-adventure.json](./39545-magical-cat-adventure.json) |
+| Magical Charming! | 410465 | [410465-magical-charming.json](./410465-magical-charming.json) |
 | Magical Chaser: Stardust of Dreams | 315061 | [315061-magical-chaser-stardust-of-dreams.json](./315061-magical-chaser-stardust-of-dreams.json) |
 | Magical Circle Guru-Guru: Stardust Adventure | 302653 | [302653-magical-circle-guru-guru-stardust-adventure.json](./302653-magical-circle-guru-guru-stardust-adventure.json) |
 | Magical Crystals | 39687 | [39687-magical-crystals.json](./39687-magical-crystals.json) |
@@ -1689,6 +1690,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Skelter 2 | 89548 | [89548-mary-skelter-2.json](./89548-mary-skelter-2.json) |
 | Mary Skelter Finale | 131974 | [131974-mary-skelter-finale.json](./131974-mary-skelter-finale.json) |
 | Mary Skelter Finale: Limited Edition | 166179 | [166179-mary-skelter-finale-limited-edition.json](./166179-mary-skelter-finale-limited-edition.json) |
+| Mary Skelter: Locked Up in Love - True End | 410472 | [410472-mary-skelter-locked-up-in-love-true-end.json](./410472-mary-skelter-locked-up-in-love-true-end.json) |
+| Mary Skelter: Locked Up in Love – Blood High | 410471 | [410471-mary-skelter-locked-up-in-love-blood-high.json](./410471-mary-skelter-locked-up-in-love-blood-high.json) |
 | Mary X | 249247 | [249247-mary-x.json](./249247-mary-x.json) |
 | Mary-Kate and Ashley: Girls Night Out | 49391 | [49391-mary-kate-and-ashley-girls-night-out.json](./49391-mary-kate-and-ashley-girls-night-out.json) |
 | Mary-Kate and Ashley: Winners Circle | 49966 | [49966-mary-kate-and-ashley-winners-circle.json](./49966-mary-kate-and-ashley-winners-circle.json) |
@@ -6155,6 +6158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Drumstix' Music Studio | 69232 | [69232-mr-drumstix-music-studio.json](./69232-mr-drumstix-music-studio.json) |
 | Mr. Elevator | 337088 | [337088-mr-elevator.json](./337088-mr-elevator.json) |
 | Mr. Fast | 127751 | [127751-mr-fast.json](./127751-mr-fast.json) |
+| Mr. Fat's Chopstick Challenge | 410441 | [410441-mr-fats-chopstick-challenge.json](./410441-mr-fats-chopstick-challenge.json) |
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
 | Mr. Fluffykins' Great Sorting Adventure | 97707 | [97707-mr-fluffykins-great-sorting-adventure.json](./97707-mr-fluffykins-great-sorting-adventure.json) |
 | Mr. Goemon | 38580 | [38580-mr-goemon.json](./38580-mr-goemon.json) |
