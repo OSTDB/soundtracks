@@ -267,6 +267,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokaizer: Kaiki-dou | 385721 | [385721-yokaizer-kaiki-dou.json](./385721-yokaizer-kaiki-dou.json) |
 | Yokaizer: Yuuki-dou | 385720 | [385720-yokaizer-yuuki-dou.json](./385720-yokaizer-yuuki-dou.json) |
 | YokeLight | 103421 | [103421-yokelight.json](./103421-yokelight.json) |
+| Yokiyo | 399855 | [399855-yokiyo.json](./399855-yokiyo.json) |
+| Yokiyo | 399856 | [399856-yokiyo.json](./399856-yokiyo.json) |
 | Yoko & Yuki: Dr. Rat's Revenge | 147271 | [147271-yoko-and-yuki-dr-rats-revenge.json](./147271-yoko-and-yuki-dr-rats-revenge.json) |
 | Yoko Redux: Dreams of a Blue Planet | 191240 | [191240-yoko-redux-dreams-of-a-blue-planet.json](./191240-yoko-redux-dreams-of-a-blue-planet.json) |
 | Yokoi-san Warp | 183022 | [183022-yokoi-san-warp.json](./183022-yokoi-san-warp.json) |
@@ -283,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomawari: The Long Night Collection | 103052 | [103052-yomawari-the-long-night-collection.json](./103052-yomawari-the-long-night-collection.json) |
 | Yomesou de Yomenai Kanji DS | 287632 | [287632-yomesou-de-yomenai-kanji-ds.json](./287632-yomesou-de-yomenai-kanji-ds.json) |
 | Yomi | 17189 | [17189-yomi.json](./17189-yomi.json) |
+| Yomi 2: Complete edition | 399830 | [399830-yomi-2-complete-edition.json](./399830-yomi-2-complete-edition.json) |
 | Yomi 2: Renegades | 289877 | [289877-yomi-2-renegades.json](./289877-yomi-2-renegades.json) |
 | Yomi: Expansion Characters | 169329 | [169329-yomi-expansion-characters.json](./169329-yomi-expansion-characters.json) |
 | Yon-nin Mahjong | 55857 | [55857-yon-nin-mahjong.json](./55857-yon-nin-mahjong.json) |
