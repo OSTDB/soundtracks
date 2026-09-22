@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Go! Go! Godaime | 123416 | [123416-taiko-no-tatsujin-go-go-godaime.json](./123416-taiko-no-tatsujin-go-go-godaime.json) |
 | Taiko no Tatsujin: Ongaku Lesson | 123620 | [123620-taiko-no-tatsujin-ongaku-lesson.json](./123620-taiko-no-tatsujin-ongaku-lesson.json) |
 | Taiko no Tatsujin: Rhythm Connect | 269597 | [269597-taiko-no-tatsujin-rhythm-connect.json](./269597-taiko-no-tatsujin-rhythm-connect.json) |
+| Taiko no Tatsujin: Rhythm Festival | 191409 | [191409-taiko-no-tatsujin-rhythm-festival.json](./191409-taiko-no-tatsujin-rhythm-festival.json) |
 | Taiko no Tatsujin: Rhythm Festival - 90s Pops Pack | 416680 | [416680-taiko-no-tatsujin-rhythm-festival-90s-pops-pack.json](./416680-taiko-no-tatsujin-rhythm-festival-90s-pops-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 1 | 356089 | [356089-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-1.json](./356089-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-1.json) |
 | Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 2 | 356090 | [356090-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-2.json](./356090-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-2.json) |
@@ -3164,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escape Room Chronicles ep2: The Old School Building | 324120 | [324120-the-escape-room-chronicles-ep2-the-old-school-building.json](./324120-the-escape-room-chronicles-ep2-the-old-school-building.json) |
 | The Escape Room Chronicles ep3: The Southern Resort | 324121 | [324121-the-escape-room-chronicles-ep3-the-southern-resort.json](./324121-the-escape-room-chronicles-ep3-the-southern-resort.json) |
 | The Escapee | 319768 | [319768-the-escapee.json](./319768-the-escapee.json) |
+| The Escaper | 129688 | [129688-the-escaper.json](./129688-the-escaper.json) |
 | The Escapist | 10794 | [10794-the-escapist.json](./10794-the-escapist.json) |
 | The Escapists + The Escapists 2 | 138193 | [138193-the-escapists-the-escapists-2.json](./138193-the-escapists-the-escapists-2.json) |
 | The Escapists: Duct Tapes Are Forever | 51927 | [51927-the-escapists-duct-tapes-are-forever.json](./51927-the-escapists-duct-tapes-are-forever.json) |
@@ -3738,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horror at Highrook | 295380 | [295380-the-horror-at-highrook.json](./295380-the-horror-at-highrook.json) |
 | The Horror of Oz | 208440 | [208440-the-horror-of-oz.json](./208440-the-horror-of-oz.json) |
 | The Horror Within | 255712 | [255712-the-horror-within.json](./255712-the-horror-within.json) |
+| The Horrorscope | 131606 | [131606-the-horrorscope.json](./131606-the-horrorscope.json) |
 | The Horrorscope: Fatal Awakening | 166773 | [166773-the-horrorscope-fatal-awakening.json](./166773-the-horrorscope-fatal-awakening.json) |
 | The Horse Lord | 13727 | [13727-the-horse-lord.json](./13727-the-horse-lord.json) |
 | The Horus Heresy: Battle of Tallarn | 31633 | [31633-the-horus-heresy-battle-of-tallarn.json](./31633-the-horus-heresy-battle-of-tallarn.json) |
@@ -5177,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Poisoner | 118825 | [118825-the-poisoner.json](./118825-the-poisoner.json) |
 | The Polar Express | 210732 | [210732-the-polar-express.json](./210732-the-polar-express.json) |
 | The Political Machine 2008 | 50866 | [50866-the-political-machine-2008.json](./50866-the-political-machine-2008.json) |
+| The Political Machine 2020 | 129073 | [129073-the-political-machine-2020.json](./129073-the-political-machine-2020.json) |
 | The Political Machine 2024 | 275696 | [275696-the-political-machine-2024.json](./275696-the-political-machine-2024.json) |
 | The Political Machine 2024: Cabinet of Curiosities | 275697 | [275697-the-political-machine-2024-cabinet-of-curiosities.json](./275697-the-political-machine-2024-cabinet-of-curiosities.json) |
 | The Political Process | 127113 | [127113-the-political-process.json](./127113-the-political-process.json) |
@@ -5898,6 +5902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stanley Parable | 18453 | [18453-the-stanley-parable.json](./18453-the-stanley-parable.json) |
 | The Stanley Parable: Ultra Deluxe | 113119 | [113119-the-stanley-parable-ultra-deluxe.json](./113119-the-stanley-parable-ultra-deluxe.json) |
 | The Star Bowling DX | 386680 | [386680-the-star-bowling-dx.json](./386680-the-star-bowling-dx.json) |
+| The Star Named Eos | 226505 | [226505-the-star-named-eos.json](./226505-the-star-named-eos.json) |
 | The Starfire Soccer Challenge | 70383 | [70383-the-starfire-soccer-challenge.json](./70383-the-starfire-soccer-challenge.json) |
 | The Static | 408196 | [408196-the-static.json](./408196-the-static.json) |
 | The Static Speaks My Name | 11765 | [11765-the-static-speaks-my-name.json](./11765-the-static-speaks-my-name.json) |
@@ -8068,6 +8073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tingus Goose | 285342 | [285342-tingus-goose.json](./285342-tingus-goose.json) |
 | Tinier Me | 327215 | [327215-tinier-me.json](./327215-tinier-me.json) |
 | Tinker | 51212 | [51212-tinker.json](./51212-tinker.json) |
+| Tinker Racers | 129739 | [129739-tinker-racers.json](./129739-tinker-racers.json) |
 | Tinker's Ascent | 355564 | [355564-tinkers-ascent.json](./355564-tinkers-ascent.json) |
 | Tinkerlands: A Shipwrecked Adventure | 274567 | [274567-tinkerlands-a-shipwrecked-adventure.json](./274567-tinkerlands-a-shipwrecked-adventure.json) |
 | Tinkernest | 404846 | [404846-tinkernest.json](./404846-tinkernest.json) |
@@ -8767,6 +8773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Stewart's All American Racing Bundle | 141785 | [141785-tony-stewarts-all-american-racing-bundle.json](./141785-tony-stewarts-all-american-racing-bundle.json) |
 | Tony Stewart's All-American Racing | 139980 | [139980-tony-stewarts-all-american-racing.json](./139980-tony-stewarts-all-american-racing.json) |
 | Tony Stewart's All-American Racing: Texas Motor Speedway Dirt Track | 167851 | [167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json](./167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json) |
+| Tony Stewart's Sprint Car Racing | 129734 | [129734-tony-stewarts-sprint-car-racing.json](./129734-tony-stewarts-sprint-car-racing.json) |
 | Tony Tough and the Night of Roasted Moths | 10792 | [10792-tony-tough-and-the-night-of-roasted-moths.json](./10792-tony-tough-and-the-night-of-roasted-moths.json) |
 | Tony's Crispy Crisps | 361745 | [361745-tonys-crispy-crisps.json](./361745-tonys-crispy-crisps.json) |
 | Tonzurakko | 66630 | [66630-tonzurakko.json](./66630-tonzurakko.json) |
@@ -9603,6 +9610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailcam | 319792 | [319792-trailcam.json](./319792-trailcam.json) |
 | Trailer Park Boys: Grea$y Money | 76608 | [76608-trailer-park-boys-grea-y-money.json](./76608-trailer-park-boys-grea-y-money.json) |
 | Trailer Park Zombies | 389462 | [389462-trailer-park-zombies.json](./389462-trailer-park-zombies.json) |
+| Trailer Trashers | 130157 | [130157-trailer-trashers.json](./130157-trailer-trashers.json) |
 | Trailmakers: Rescue Pack | 293396 | [293396-trailmakers-rescue-pack.json](./293396-trailmakers-rescue-pack.json) |
 | Trailmappers | 211233 | [211233-trailmappers.json](./211233-trailmappers.json) |
 | Trailmarks | 391079 | [391079-trailmarks.json](./391079-trailmarks.json) |
