@@ -3287,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockstar DressUp | 104596 | [104596-rockstar-dressup.json](./104596-rockstar-dressup.json) |
 | Rockstar Games Collection: Edition 1 | 41587 | [41587-rockstar-games-collection-edition-1.json](./41587-rockstar-games-collection-edition-1.json) |
 | Rockstar! | 78693 | [78693-rockstar.json](./78693-rockstar.json) |
+| Rocky | 37175 | [37175-rocky.json](./37175-rocky.json) |
 | Rocky | 4093 | [4093-rocky.json](./4093-rocky.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
 | Rocky Legends | 6016 | [6016-rocky-legends.json](./6016-rocky-legends.json) |
