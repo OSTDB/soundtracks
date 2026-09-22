@@ -5149,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phantom Thief Stina and 30 Jewels | 85438 | [85438-the-phantom-thief-stina-and-30-jewels.json](./85438-the-phantom-thief-stina-and-30-jewels.json) |
 | The Phantom's Revenge | 25135 | [25135-the-phantoms-revenge.json](./25135-the-phantoms-revenge.json) |
 | The Photo of God | 341467 | [341467-the-photo-of-god.json](./341467-the-photo-of-god.json) |
+| The Piano | 20180 | [20180-the-piano.json](./20180-the-piano.json) |
 | The Pig: Money Is Time | 186183 | [186183-the-pig-money-is-time.json](./186183-the-pig-money-is-time.json) |
 | The Pigeon Quiz | 219048 | [219048-the-pigeon-quiz.json](./219048-the-pigeon-quiz.json) |
 | The Pilgrim | 121634 | [121634-the-pilgrim.json](./121634-the-pilgrim.json) |
@@ -8488,6 +8489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Cooking: Special Edition | 328803 | [328803-tokyo-cooking-special-edition.json](./328803-tokyo-cooking-special-edition.json) |
 | Tokyo Cooking: Ultimate Edition | 328804 | [328804-tokyo-cooking-ultimate-edition.json](./328804-tokyo-cooking-ultimate-edition.json) |
 | Tokyo Cop | 148506 | [148506-tokyo-cop.json](./148506-tokyo-cop.json) |
+| Tokyo Crash Mobs | 20171 | [20171-tokyo-crash-mobs.json](./20171-tokyo-crash-mobs.json) |
 | Tokyo Dungeon | 108824 | [108824-tokyo-dungeon.json](./108824-tokyo-dungeon.json) |
 | Tokyo Friend Park II Ketteiban: Minna de Chousen! Taikan Attraction | 139255 | [139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json](./139255-tokyo-friend-park-ii-ketteiban-minna-de-chousen-taikan-attraction.json) |
 | Tokyo Ghoul: Break the Chains | 275897 | [275897-tokyo-ghoul-break-the-chains.json](./275897-tokyo-ghoul-break-the-chains.json) |
@@ -10829,6 +10831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Wishes | 102622 | [102622-true-wishes.json](./102622-true-wishes.json) |
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
 | Trulon | 197766 | [197766-trulon.json](./197766-trulon.json) |
+| Trulon: The Shadow Engine | 20344 | [20344-trulon-the-shadow-engine.json](./20344-trulon-the-shadow-engine.json) |
 | Trump and Virus | 393451 | [393451-trump-and-virus.json](./393451-trump-and-virus.json) |
 | Trump Castle: The Ultimate Casino Gambling Simulation | 78666 | [78666-trump-castle-the-ultimate-casino-gambling-simulation.json](./78666-trump-castle-the-ultimate-casino-gambling-simulation.json) |
 | Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi | 82136 | [82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json](./82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json) |
