@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omnibion War | 102092 | [102092-omnibion-war.json](./102092-omnibion-war.json) |
 | Omnichess | 207303 | [207303-omnichess.json](./207303-omnichess.json) |
 | Omnicube | 99598 | [99598-omnicube.json](./99598-omnicube.json) |
+| OmniFootman | 118386 | [118386-omnifootman.json](./118386-omnifootman.json) |
 | Omnigon | 245909 | [245909-omnigon.json](./245909-omnigon.json) |
 | Omniheroes | 255790 | [255790-omniheroes.json](./255790-omniheroes.json) |
 | Omnimus | 122166 | [122166-omnimus.json](./122166-omnimus.json) |
@@ -1957,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverRapid | 75133 | [75133-overrapid.json](./75133-overrapid.json) |
 | Override 2: Super Mech League | 137296 | [137296-override-2-super-mech-league.json](./137296-override-2-super-mech-league.json) |
 | Override: Mech City Brawl | 105028 | [105028-override-mech-city-brawl.json](./105028-override-mech-city-brawl.json) |
+| Override: Mech City Brawl - Super Charged Mega Edition | 118568 | [118568-override-mech-city-brawl-super-charged-mega-edition.json](./118568-override-mech-city-brawl-super-charged-mega-edition.json) |
 | Overrider | 236375 | [236375-overrider.json](./236375-overrider.json) |
 | Overrun | 184083 | [184083-overrun.json](./184083-overrun.json) |
 | Overrun Survivors | 231617 | [231617-overrun-survivors.json](./231617-overrun-survivors.json) |
