@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Defender | 310562 | [310562-last-defender.json](./310562-last-defender.json) |
 | Last Dolls | 382318 | [382318-last-dolls.json](./382318-last-dolls.json) |
 | Last Dream: Complete Edition | 53265 | [53265-last-dream-complete-edition.json](./53265-last-dream-complete-edition.json) |
+| Last Dream: World Unknown | 33378 | [33378-last-dream-world-unknown.json](./33378-last-dream-world-unknown.json) |
 | Last dungeon of defeat - Humiliation for female warrior Erina | 134627 | [134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json](./134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json) |
 | Last Emperor | 258554 | [258554-last-emperor.json](./258554-last-emperor.json) |
 | Last Empire: War Z | 88093 | [88093-last-empire-war-z.json](./88093-last-empire-war-z.json) |
@@ -2926,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Is All Around 2 | 348790 | [348790-love-is-all-around-2.json](./348790-love-is-all-around-2.json) |
 | Love is All Around: Echoes of Yesterday | 327196 | [327196-love-is-all-around-echoes-of-yesterday.json](./327196-love-is-all-around-echoes-of-yesterday.json) |
 | Love Is All Around: Love In The Room | 294998 | [294998-love-is-all-around-love-in-the-room.json](./294998-love-is-all-around-love-in-the-room.json) |
+| Love is Blind: Mutants | 33494 | [33494-love-is-blind-mutants.json](./33494-love-is-blind-mutants.json) |
 | Love is Dead | 33225 | [33225-love-is-dead.json](./33225-love-is-dead.json) |
 | Love is in Bloom | 225300 | [225300-love-is-in-bloom.json](./225300-love-is-in-bloom.json) |
 | Love is in the air | 98264 | [98264-love-is-in-the-air.json](./98264-love-is-in-the-air.json) |
