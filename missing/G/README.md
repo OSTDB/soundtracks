@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gary the Gull | 33169 | [33169-gary-the-gull.json](./33169-gary-the-gull.json) |
 | Gary's Fortune Telling Tent | 318643 | [318643-garys-fortune-telling-tent.json](./318643-garys-fortune-telling-tent.json) |
 | Gas Guzzlers Extreme: Full Metal Frenzy | 171503 | [171503-gas-guzzlers-extreme-full-metal-frenzy.json](./171503-gas-guzzlers-extreme-full-metal-frenzy.json) |
+| Gas N Cars | 410455 | [410455-gas-n-cars.json](./410455-gas-n-cars.json) |
 | Gas Station 2: Highway Service | 86944 | [86944-gas-station-2-highway-service.json](./86944-gas-station-2-highway-service.json) |
 | Gas Station Inc. | 255753 | [255753-gas-station-inc.json](./255753-gas-station-inc.json) |
 | Gas Station Manager 2026 | 393475 | [393475-gas-station-manager-2026.json](./393475-gas-station-manager-2026.json) |
@@ -1915,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Adventure: Free From Lore | 365163 | [365163-goblin-adventure-free-from-lore.json](./365163-goblin-adventure-free-from-lore.json) |
 | Goblin and Coins 2 | 117715 | [117715-goblin-and-coins-2.json](./117715-goblin-and-coins-2.json) |
 | Goblin and Coins II: The Lost Recipes | 275563 | [275563-goblin-and-coins-ii-the-lost-recipes.json](./275563-goblin-and-coins-ii-the-lost-recipes.json) |
+| Goblin and Recipes: Match-3 Adventure | 410428 | [410428-goblin-and-recipes-match-3-adventure.json](./410428-goblin-and-recipes-match-3-adventure.json) |
 | Goblin Attack | 161324 | [161324-goblin-attack.json](./161324-goblin-attack.json) |
 | Goblin Attack | 408874 | [408874-goblin-attack.json](./408874-goblin-attack.json) |
 | Goblin Cleanup | 282692 | [282692-goblin-cleanup.json](./282692-goblin-cleanup.json) |
@@ -2688,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Vice City Stories | 3262 | [3262-grand-theft-auto-vice-city-stories.json](./3262-grand-theft-auto-vice-city-stories.json) |
 | Grand Theft Bubble | 329720 | [329720-grand-theft-bubble.json](./329720-grand-theft-bubble.json) |
 | Grand Theft Rome | 193441 | [193441-grand-theft-rome.json](./193441-grand-theft-rome.json) |
+| Grand Theft Timeline | 410456 | [410456-grand-theft-timeline.json](./410456-grand-theft-timeline.json) |
 | Grand Tits Adventure | 366233 | [366233-grand-tits-adventure.json](./366233-grand-tits-adventure.json) |
 | Grand Trucker Aniki: Shigoto to Kenka to Koimoyou | 133781 | [133781-grand-trucker-aniki-shigoto-to-kenka-to-koimoyou.json](./133781-grand-trucker-aniki-shigoto-to-kenka-to-koimoyou.json) |
 | Grand Values: Monaco | 52224 | [52224-grand-values-monaco.json](./52224-grand-values-monaco.json) |
@@ -3343,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT Racing 2: The Real Car Experience | 38939 | [38939-gt-racing-2-the-real-car-experience.json](./38939-gt-racing-2-the-real-car-experience.json) |
 | GT Racing 97 | 84212 | [84212-gt-racing-97.json](./84212-gt-racing-97.json) |
 | GT Ride | 233749 | [233749-gt-ride.json](./233749-gt-ride.json) |
+| GT Rivals | 410437 | [410437-gt-rivals.json](./410437-gt-rivals.json) |
 | GTH 3033: Grand Theft Hunter 3033 | 285486 | [285486-gth-3033-grand-theft-hunter-3033.json](./285486-gth-3033-grand-theft-hunter-3033.json) |
 | GTI Club+: Rally Côte d'Azur | 97105 | [97105-gti-club-rally-cote-dazur.json](./97105-gti-club-rally-cote-dazur.json) |
 | GTR 2: FIA GT Racing Game | 737 | [737-gtr-2-fia-gt-racing-game.json](./737-gtr-2-fia-gt-racing-game.json) |
@@ -3815,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutter: The Reject | 257691 | [257691-gutter-the-reject.json](./257691-gutter-the-reject.json) |
 | Gutwhale | 132599 | [132599-gutwhale.json](./132599-gutwhale.json) |
 | Gutz | 13863 | [13863-gutz.json](./13863-gutz.json) |
+| Guucho de Park: Theme Park Monogatari | 410438 | [410438-guucho-de-park-theme-park-monogatari.json](./410438-guucho-de-park-theme-park-monogatari.json) |
 | Guuguuthropus | 143656 | [143656-guuguuthropus.json](./143656-guuguuthropus.json) |
 | Guwange Ruga Daioujou XII Kizuna Down | 377699 | [377699-guwange-ruga-daioujou-xii-kizuna-down.json](./377699-guwange-ruga-daioujou-xii-kizuna-down.json) |
 | Guy Spy and the Crystals of Armageddon | 12130 | [12130-guy-spy-and-the-crystals-of-armageddon.json](./12130-guy-spy-and-the-crystals-of-armageddon.json) |
