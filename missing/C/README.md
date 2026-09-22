@@ -12,6 +12,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C-Smash VRS: New Dimension | 321377 | [321377-c-smash-vrs-new-dimension.json](./321377-c-smash-vrs-new-dimension.json) |
 | C-War 2 | 119010 | [119010-c-war-2.json](./119010-c-war-2.json) |
 | C: The Contra Adventure | 45010 | [45010-c-the-contra-adventure.json](./45010-c-the-contra-adventure.json) |
+| C:\raft | 34862 | [34862-c-raft.json](./34862-c-raft.json) |
+| C. Kane | 34880 | [34880-c-kane.json](./34880-c-kane.json) |
 | C.A.G.E. | 414376 | [414376-c-a-g-e.json](./414376-c-a-g-e.json) |
 | C.A.R.D.S. RPG: The Misty Battlefield | 273624 | [273624-c-a-r-d-s-rpg-the-misty-battlefield.json](./273624-c-a-r-d-s-rpg-the-misty-battlefield.json) |
 | C.A.R.L. | 201711 | [201711-c-a-r-l.json](./201711-c-a-r-l.json) |
@@ -1009,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Sprint | 384674 | [384674-cash-sprint.json](./384674-cash-sprint.json) |
 | Cash Wash Simulator | 351092 | [351092-cash-wash-simulator.json](./351092-cash-wash-simulator.json) |
 | Cashier of Grocery Shop: Profession | 102772 | [102772-cashier-of-grocery-shop-profession.json](./102772-cashier-of-grocery-shop-profession.json) |
+| Cashtronauts | 34834 | [34834-cashtronauts.json](./34834-cashtronauts.json) |
 | Casino Blackjack | 86560 | [86560-casino-blackjack.json](./86560-casino-blackjack.json) |
 | Casino Boss Simulator | 278701 | [278701-casino-boss-simulator.json](./278701-casino-boss-simulator.json) |
 | Casino by eGames | 165547 | [165547-casino-by-egames.json](./165547-casino-by-egames.json) |
