@@ -2675,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Menu | 372588 | [372588-devils-menu.json](./372588-devils-menu.json) |
 | Devil’s Propose | 254609 | [254609-devil-s-propose.json](./254609-devil-s-propose.json) |
 | Devil's Revenge | 69855 | [69855-devils-revenge.json](./69855-devils-revenge.json) |
+| Devil's Roulette | 411110 | [411110-devils-roulette.json](./411110-devils-roulette.json) |
 | Devil's Third | 7395 | [7395-devils-third.json](./7395-devils-third.json) |
 | Devil's Third Online | 59988 | [59988-devils-third-online.json](./59988-devils-third-online.json) |
 | Devil's Tuning Fork | 67304 | [67304-devils-tuning-fork.json](./67304-devils-tuning-fork.json) |
@@ -5032,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Rage | 76977 | [76977-dragon-rage.json](./76977-dragon-rage.json) |
 | Dragon Raja L: The Classic | 267353 | [267353-dragon-raja-l-the-classic.json](./267353-dragon-raja-l-the-classic.json) |
 | Dragon Raja: ReRise | 402964 | [402964-dragon-raja-rerise.json](./402964-dragon-raja-rerise.json) |
+| Dragon Riders | 411136 | [411136-dragon-riders.json](./411136-dragon-riders.json) |
 | Dragon Roll | 184124 | [184124-dragon-roll.json](./184124-dragon-roll.json) |
 | Dragon Roller Coaster VR | 114331 | [114331-dragon-roller-coaster-vr.json](./114331-dragon-roller-coaster-vr.json) |
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
@@ -5543,6 +5545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Drift X | 187487 | [187487-drive-drift-x.json](./187487-drive-drift-x.json) |
 | Drive for Your Life | 116722 | [116722-drive-for-your-life.json](./116722-drive-for-your-life.json) |
 | Drive Forward | 130163 | [130163-drive-forward.json](./130163-drive-forward.json) |
+| Drive Horizon Story | 411141 | [411141-drive-horizon-story.json](./411141-drive-horizon-story.json) |
 | Drive Isle | 44178 | [44178-drive-isle.json](./44178-drive-isle.json) |
 | Drive Mad | 371327 | [371327-drive-mad.json](./371327-drive-mad.json) |
 | Drive Me Broke | 373107 | [373107-drive-me-broke.json](./373107-drive-me-broke.json) |
