@@ -2297,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisraduth: Castle of Tyramis | 321337 | [321337-fisraduth-castle-of-tyramis.json](./321337-fisraduth-castle-of-tyramis.json) |
 | Fission | 164917 | [164917-fission.json](./164917-fission.json) |
 | Fission | 381021 | [381021-fission.json](./381021-fission.json) |
+| Fission Superstar X | 90312 | [90312-fission-superstar-x.json](./90312-fission-superstar-x.json) |
 | Fissure | 361809 | [361809-fissure.json](./361809-fissure.json) |
 | Fissure: Cubic | 297078 | [297078-fissure-cubic.json](./297078-fissure-cubic.json) |
 | Fist Fighter | 41007 | [41007-fist-fighter.json](./41007-fist-fighter.json) |
@@ -3538,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Cross Comms Pack | 243231 | [243231-fortnite-cross-comms-pack.json](./243231-fortnite-cross-comms-pack.json) |
 | Fortnite: Cuddle Buns Pack | 333587 | [333587-fortnite-cuddle-buns-pack.json](./333587-fortnite-cuddle-buns-pack.json) |
 | Fortnite: Darkest Grumblings Pack | 331962 | [331962-fortnite-darkest-grumblings-pack.json](./331962-fortnite-darkest-grumblings-pack.json) |
+| Fortnite: Deluxe Founder's Pack | 90660 | [90660-fortnite-deluxe-founders-pack.json](./90660-fortnite-deluxe-founders-pack.json) |
 | Fortnite: Drakon Steel Hybrid Crew Pack | 275307 | [275307-fortnite-drakon-steel-hybrid-crew-pack.json](./275307-fortnite-drakon-steel-hybrid-crew-pack.json) |
 | Fortnite: Fallen Love Ranger Quest Pack | 239033 | [239033-fortnite-fallen-love-ranger-quest-pack.json](./239033-fortnite-fallen-love-ranger-quest-pack.json) |
 | Fortnite: Heartbreak Royale Pack | 275355 | [275355-fortnite-heartbreak-royale-pack.json](./275355-fortnite-heartbreak-royale-pack.json) |
@@ -3735,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS80 | 305340 | [305340-fps80.json](./305340-fps80.json) |
 | FPV Air 2: Bando Freestyler | 172099 | [172099-fpv-air-2-bando-freestyler.json](./172099-fpv-air-2-bando-freestyler.json) |
 | FPV Battleground | 340243 | [340243-fpv-battleground.json](./340243-fpv-battleground.json) |
+| FPV Freerider Recharged | 90412 | [90412-fpv-freerider-recharged.json](./90412-fpv-freerider-recharged.json) |
 | FPV Kamikaze Drone | 280172 | [280172-fpv-kamikaze-drone.json](./280172-fpv-kamikaze-drone.json) |
 | FPV Simulator | 192407 | [192407-fpv-simulator.json](./192407-fpv-simulator.json) |
 | FR Legends | 126025 | [126025-fr-legends.json](./126025-fr-legends.json) |
