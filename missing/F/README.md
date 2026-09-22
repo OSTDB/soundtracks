@@ -1515,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 96 | 240236 | [240236-fifa-soccer-96.json](./240236-fifa-soccer-96.json) |
 | FIFA Soccer 97 | 240217 | [240217-fifa-soccer-97.json](./240217-fifa-soccer-97.json) |
 | FIFA Street 3 | 7304 | [7304-fifa-street-3.json](./7304-fifa-street-3.json) |
+| FIFA World Cup: Launch Edition | 404400 | [404400-fifa-world-cup-launch-edition.json](./404400-fifa-world-cup-launch-edition.json) |
 | FIFA: Road to World Cup 98 | 705 | [705-fifa-road-to-world-cup-98.json](./705-fifa-road-to-world-cup-98.json) |
 | Fifi's Fortunes: Reclamation | 253944 | [253944-fifis-fortunes-reclamation.json](./253944-fifis-fortunes-reclamation.json) |
 | Fifo's Night | 127763 | [127763-fifos-night.json](./127763-fifos-night.json) |
