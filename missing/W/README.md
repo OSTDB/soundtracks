@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario Land 4: Burning Nightmares | 339250 | [339250-wario-land-4-burning-nightmares.json](./339250-wario-land-4-burning-nightmares.json) |
 | Wario Land Remix | 322778 | [322778-wario-land-remix.json](./322778-wario-land-remix.json) |
 | Wario Land: Shake It! | 1702 | [1702-wario-land-shake-it.json](./1702-wario-land-shake-it.json) |
+| Wario no Mori: Event Ban Ver. 1 | 401088 | [401088-wario-no-mori-event-ban-ver-1.json](./401088-wario-no-mori-event-ban-ver-1.json) |
 | Wario: Master of Disguise | 1701 | [1701-wario-master-of-disguise.json](./1701-wario-master-of-disguise.json) |
 | Wario: Master of Disguise Trivia | 231649 | [231649-wario-master-of-disguise-trivia.json](./231649-wario-master-of-disguise-trivia.json) |
 | Wario's Hint Art | 300685 | [300685-warios-hint-art.json](./300685-warios-hint-art.json) |
