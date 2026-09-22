@@ -1989,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliverance | 195242 | [195242-deliverance.json](./195242-deliverance.json) |
 | Deliverance | 322990 | [322990-deliverance.json](./322990-deliverance.json) |
 | Deliverance | 377173 | [377173-deliverance.json](./377173-deliverance.json) |
+| Delivered by Friday | 399216 | [399216-delivered-by-friday.json](./399216-delivered-by-friday.json) |
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
 | Delivery Driver Service | 302378 | [302378-delivery-driver-service.json](./302378-delivery-driver-service.json) |
 | Delivery Express | 303468 | [303468-delivery-express.json](./303468-delivery-express.json) |
@@ -2966,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
 | Dig Dungeon: Roguelike | 233498 | [233498-dig-dungeon-roguelike.json](./233498-dig-dungeon-roguelike.json) |
 | Dig for TCG Cards With Your Friends | 409765 | [409765-dig-for-tcg-cards-with-your-friends.json](./409765-dig-for-tcg-cards-with-your-friends.json) |
+| Dig In | 399207 | [399207-dig-in.json](./399207-dig-in.json) |
 | Dig Island | 372930 | [372930-dig-island.json](./372930-dig-island.json) |
 | Dig Mania | 129200 | [129200-dig-mania.json](./129200-dig-mania.json) |
 | Dig Master | 239036 | [239036-dig-master.json](./239036-dig-master.json) |
@@ -4159,6 +4161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Go | 267089 | [267089-dont-go.json](./267089-dont-go.json) |
 | Don't Go Bang! | 24966 | [24966-dont-go-bang.json](./24966-dont-go-bang.json) |
 | Don't Go in the woods | 285443 | [285443-dont-go-in-the-woods.json](./285443-dont-go-in-the-woods.json) |
+| Don't Go Live | 399210 | [399210-dont-go-live.json](./399210-dont-go-live.json) |
 | Don't Go Up There | 387546 | [387546-dont-go-up-there.json](./387546-dont-go-up-there.json) |
 | Don't Hate My Music Taste | 167818 | [167818-dont-hate-my-music-taste.json](./167818-dont-hate-my-music-taste.json) |
 | Don't Hide | 215907 | [215907-dont-hide.json](./215907-dont-hide.json) |
@@ -4869,6 +4872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball FighterZ: Commentator Voice Pack 2 | 366820 | [366820-dragon-ball-fighterz-commentator-voice-pack-2.json](./366820-dragon-ball-fighterz-commentator-voice-pack-2.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack 3 | 366821 | [366821-dragon-ball-fighterz-commentator-voice-pack-3.json](./366821-dragon-ball-fighterz-commentator-voice-pack-3.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack 4 | 366818 | [366818-dragon-ball-fighterz-commentator-voice-pack-4.json](./366818-dragon-ball-fighterz-commentator-voice-pack-4.json) |
+| Dragon Ball FighterZ: Dragon Ball Daima Pack | 399188 | [399188-dragon-ball-fighterz-dragon-ball-daima-pack.json](./399188-dragon-ball-fighterz-dragon-ball-daima-pack.json) |
 | Dragon Ball FighterZ: Exclusive SS Goku Lobby Avatar | 366822 | [366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json](./366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json) |
 | Dragon Ball FighterZ: Stamps Girls Pack | 366819 | [366819-dragon-ball-fighterz-stamps-girls-pack.json](./366819-dragon-ball-fighterz-stamps-girls-pack.json) |
 | Dragon Ball FighterZ: Super Edition | 200680 | [200680-dragon-ball-fighterz-super-edition.json](./200680-dragon-ball-fighterz-super-edition.json) |
@@ -5530,6 +5534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift: When Worlds Collide | 71505 | [71505-drift-when-worlds-collide.json](./71505-drift-when-worlds-collide.json) |
 | Drift'n'Drive | 134446 | [134446-driftndrive.json](./134446-driftndrive.json) |
 | Drift'n'Drive | 200025 | [200025-driftndrive.json](./200025-driftndrive.json) |
+| DriftBorne | 399209 | [399209-driftborne.json](./399209-driftborne.json) |
 | Drifted | 287227 | [287227-drifted.json](./287227-drifted.json) |
 | Driftence | 190130 | [190130-driftence.json](./190130-driftence.json) |
 | Drifter | 16772 | [16772-drifter.json](./16772-drifter.json) |
