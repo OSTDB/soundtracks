@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetch Quest | 140552 | [140552-fetch-quest.json](./140552-fetch-quest.json) |
 | Fetch Quest | 179617 | [179617-fetch-quest.json](./179617-fetch-quest.json) |
 | Fetish Club | 298320 | [298320-fetish-club.json](./298320-fetish-club.json) |
+| Fetish Locator | 255686 | [255686-fetish-locator.json](./255686-fetish-locator.json) |
 | Fetty Wap: Nitro Nation Stories | 76553 | [76553-fetty-wap-nitro-nation-stories.json](./76553-fetty-wap-nitro-nation-stories.json) |
 | Fetus in Oil Painting | 279136 | [279136-fetus-in-oil-painting.json](./279136-fetus-in-oil-painting.json) |
 | Feud | 113037 | [113037-feud.json](./113037-feud.json) |
@@ -2526,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flea the Cat | 242058 | [242058-flea-the-cat.json](./242058-flea-the-cat.json) |
 | Flea War | 334679 | [334679-flea-war.json](./334679-flea-war.json) |
 | Flea! | 150517 | [150517-flea.json](./150517-flea.json) |
+| Fleabag vs. Mutt | 196790 | [196790-fleabag-vs-mutt.json](./196790-fleabag-vs-mutt.json) |
 | Fleabag vs. Mutt 2 | 403020 | [403020-fleabag-vs-mutt-2.json](./403020-fleabag-vs-mutt-2.json) |
 | Flecto | 407325 | [407325-flecto.json](./407325-flecto.json) |
 | Fledgling Heroes | 124027 | [124027-fledgling-heroes.json](./124027-fledgling-heroes.json) |
