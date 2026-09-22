@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakigake!! Otokojuku | 64112 | [64112-sakigake-otokojuku.json](./64112-sakigake-otokojuku.json) |
 | Sakigake!! Otokojuku: Meikoushima Kessen | 64113 | [64113-sakigake-otokojuku-meikoushima-kessen.json](./64113-sakigake-otokojuku-meikoushima-kessen.json) |
 | Sakigake!! Otokojuku: Shippuu Ichi Gou Sei | 48674 | [48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json](./48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json) |
+| Sakimori | 405703 | [405703-sakimori.json](./405703-sakimori.json) |
 | Saku Saku: Love Blooms with the Cherry Blossoms | 72366 | [72366-saku-saku-love-blooms-with-the-cherry-blossoms.json](./72366-saku-saku-love-blooms-with-the-cherry-blossoms.json) |
 | Saku the Covert Agent | 310181 | [310181-saku-the-covert-agent.json](./310181-saku-the-covert-agent.json) |
 | Sakumon | 412956 | [412956-sakumon.json](./412956-sakumon.json) |
@@ -5454,6 +5455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Season 3 - Locate & Deliver | 145487 | [145487-snowrunner-season-3-locate-and-deliver.json](./145487-snowrunner-season-3-locate-and-deliver.json) |
 | SnowRunner: Year 3 Pass | 230832 | [230832-snowrunner-year-3-pass.json](./230832-snowrunner-year-3-pass.json) |
 | Snowsquall Grip | 302375 | [302375-snowsquall-grip.json](./302375-snowsquall-grip.json) |
+| Snowstorm | 405717 | [405717-snowstorm.json](./405717-snowstorm.json) |
 | Snowtracked | 216888 | [216888-snowtracked.json](./216888-snowtracked.json) |
 | Snowy Flag | 291444 | [291444-snowy-flag.json](./291444-snowy-flag.json) |
 | Snowy Mountain | 235744 | [235744-snowy-mountain.json](./235744-snowy-mountain.json) |
@@ -9767,6 +9769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Town | 143703 | [143703-stream-town.json](./143703-stream-town.json) |
 | Stream Train | 410341 | [410341-stream-train.json](./410341-stream-train.json) |
 | Stream Typers | 206738 | [206738-stream-typers.json](./206738-stream-typers.json) |
+| Streamchat: Horror Live | 405699 | [405699-streamchat-horror-live.json](./405699-streamchat-horror-live.json) |
 | Streamer Content: A Simple Mechanic, a Simple Game | 358361 | [358361-streamer-content-a-simple-mechanic-a-simple-game.json](./358361-streamer-content-a-simple-mechanic-a-simple-game.json) |
 | Streamer Future Wars | 204697 | [204697-streamer-future-wars.json](./204697-streamer-future-wars.json) |
 | Streamer Mini Games Collection | 324508 | [324508-streamer-mini-games-collection.json](./324508-streamer-mini-games-collection.json) |
