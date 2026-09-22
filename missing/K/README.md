@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindaichi Shounen no Jikenbo: 10-nenme no Shoutaijou | 228581 | [228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json](./228581-kindaichi-shounen-no-jikenbo-10-nenme-no-shoutaijou.json) |
 | Kindaichi Shounen no Jikenbo: Akuma no Satsujin Koukai | 122979 | [122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json](./122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json) |
 | Kindan no Jikobukken | 260690 | [260690-kindan-no-jikobukken.json](./260690-kindan-no-jikobukken.json) |
+| Kindawn: The Parish Remembers | 412555 | [412555-kindawn-the-parish-remembers.json](./412555-kindawn-the-parish-remembers.json) |
 | Kindergarten | 215760 | [215760-kindergarten.json](./215760-kindergarten.json) |
 | KindergarTen 3: The Basement | 290696 | [290696-kindergarten-3-the-basement.json](./290696-kindergarten-3-the-basement.json) |
 | Kindergarten: Buddy Edition | 232999 | [232999-kindergarten-buddy-edition.json](./232999-kindergarten-buddy-edition.json) |
