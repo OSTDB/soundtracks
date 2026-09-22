@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kairo Land | 208037 | [208037-kairo-land.json](./208037-kairo-land.json) |
 | Kairobotica | 61069 | [61069-kairobotica.json](./61069-kairobotica.json) |
 | Kairos | 229155 | [229155-kairos.json](./229155-kairos.json) |
+| Kairos | 411799 | [411799-kairos.json](./411799-kairos.json) |
 | Kairos'Light | 132235 | [132235-kairoslight.json](./132235-kairoslight.json) |
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
 | Kaisho | 276270 | [276270-kaisho.json](./276270-kaisho.json) |
@@ -1827,11 +1828,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korea: Forgotten Conflict | 24186 | [24186-korea-forgotten-conflict.json](./24186-korea-forgotten-conflict.json) |
 | Korean Dominatrixes Are the Best | 385706 | [385706-korean-dominatrixes-are-the-best.json](./385706-korean-dominatrixes-are-the-best.json) |
 | Korean Drone Flying Tour Baegun Lake | 353994 | [353994-korean-drone-flying-tour-baegun-lake.json](./353994-korean-drone-flying-tour-baegun-lake.json) |
+| Korean Drone Flying Tour Baekje Military Museum | 411817 | [411817-korean-drone-flying-tour-baekje-military-museum.json](./411817-korean-drone-flying-tour-baekje-military-museum.json) |
 | Korean Drone Flying Tour Chuncheon City | 328501 | [328501-korean-drone-flying-tour-chuncheon-city.json](./328501-korean-drone-flying-tour-chuncheon-city.json) |
 | Korean Drone Flying Tour Danyang-gun | 328502 | [328502-korean-drone-flying-tour-danyang-gun.json](./328502-korean-drone-flying-tour-danyang-gun.json) |
 | Korean Drone Flying Tour Jeju Island-1 | 314872 | [314872-korean-drone-flying-tour-jeju-island-1.json](./314872-korean-drone-flying-tour-jeju-island-1.json) |
 | Korean Drone Flying Tour Jeju Island-2 | 317226 | [317226-korean-drone-flying-tour-jeju-island-2.json](./317226-korean-drone-flying-tour-jeju-island-2.json) |
 | Korean Drone Flying Tour Odong-do Dragon Cave | 358360 | [358360-korean-drone-flying-tour-odong-do-dragon-cave.json](./358360-korean-drone-flying-tour-odong-do-dragon-cave.json) |
+| Korean Drone Flying Tour Okgyecheon | 411818 | [411818-korean-drone-flying-tour-okgyecheon.json](./411818-korean-drone-flying-tour-okgyecheon.json) |
 | Korean Monorail Panorama Line Hwagaesan | 378809 | [378809-korean-monorail-panorama-line-hwagaesan.json](./378809-korean-monorail-panorama-line-hwagaesan.json) |
 | Korean Rail Driving Tour: LRT Busan-Gimhae | 303617 | [303617-korean-rail-driving-tour-lrt-busan-gimhae.json](./303617-korean-rail-driving-tour-lrt-busan-gimhae.json) |
 | Korean Scary Folk Tales VR : The Forbidden Book | 103181 | [103181-korean-scary-folk-tales-vr-the-forbidden-book.json](./103181-korean-scary-folk-tales-vr-the-forbidden-book.json) |
