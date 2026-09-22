@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tao Taido | 39585 | [39585-tao-taido.json](./39585-tao-taido.json) |
 | Táolí Dìqiú | 158203 | [158203-taoli-diqiu.json](./158203-taoli-diqiu.json) |
 | Taora: Survival | 235197 | [235197-taora-survival.json](./235197-taora-survival.json) |
+| Tap 'n' Pop 3: Balloon Adventures | 88225 | [88225-tap-n-pop-3-balloon-adventures.json](./88225-tap-n-pop-3-balloon-adventures.json) |
 | Tap a Jam | 73290 | [73290-tap-a-jam.json](./73290-tap-a-jam.json) |
 | Tap Adventure: Time Travel | 27688 | [27688-tap-adventure-time-travel.json](./27688-tap-adventure-time-travel.json) |
 | Tap Away | 230515 | [230515-tap-away.json](./230515-tap-away.json) |
@@ -1761,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetraspace | 59929 | [59929-tetraspace.json](./59929-tetraspace.json) |
 | TetraTower | 183506 | [183506-tetratower.json](./183506-tetratower.json) |
 | Tetri-Pentix | 87930 | [87930-tetri-pentix.json](./87930-tetri-pentix.json) |
+| Tetri3D | 88285 | [88285-tetri3d.json](./88285-tetri3d.json) |
 | Tetriller | 84247 | [84247-tetriller.json](./84247-tetriller.json) |
 | TetriMatch | 339273 | [339273-tetrimatch.json](./339273-tetrimatch.json) |
 | Tetris | 180279 | [180279-tetris.json](./180279-tetris.json) |
@@ -2815,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cursed Land | 306093 | [306093-the-cursed-land.json](./306093-the-cursed-land.json) |
 | The Cursed love | 105297 | [105297-the-cursed-love.json](./105297-the-cursed-love.json) |
 | The Cursed Oasis | 253607 | [253607-the-cursed-oasis.json](./253607-the-cursed-oasis.json) |
+| The Cursed Ship Collector's Edition | 87864 | [87864-the-cursed-ship-collectors-edition.json](./87864-the-cursed-ship-collectors-edition.json) |
 | The Cursed Tape | 302677 | [302677-the-cursed-tape.json](./302677-the-cursed-tape.json) |
 | The Cursed Underground Parking Lot | 344351 | [344351-the-cursed-underground-parking-lot.json](./344351-the-cursed-underground-parking-lot.json) |
 | The Cute Whale | 378182 | [378182-the-cute-whale.json](./378182-the-cute-whale.json) |
@@ -3160,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Emptiness | 139431 | [139431-the-emptiness.json](./139431-the-emptiness.json) |
 | The Empty Desk | 333612 | [333612-the-empty-desk.json](./333612-the-empty-desk.json) |
 | The Empty Turnabout | 303252 | [303252-the-empty-turnabout.json](./303252-the-empty-turnabout.json) |
+| The Enchanted Books | 88172 | [88172-the-enchanted-books.json](./88172-the-enchanted-books.json) |
 | The Enchanted Cave 2 | 13674 | [13674-the-enchanted-cave-2.json](./13674-the-enchanted-cave-2.json) |
 | The Enchanted Kingdom: Elisa's Adventure | 54440 | [54440-the-enchanted-kingdom-elisas-adventure.json](./54440-the-enchanted-kingdom-elisas-adventure.json) |
 | The Enchanted Worlds | 290020 | [290020-the-enchanted-worlds.json](./290020-the-enchanted-worlds.json) |
@@ -4293,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Shelter | 349844 | [349844-the-last-shelter.json](./349844-the-last-shelter.json) |
 | The Last Shot: Arcades | 351723 | [351723-the-last-shot-arcades.json](./351723-the-last-shot-arcades.json) |
 | The Last Show of Mr. Chardish: Act I | 170386 | [170386-the-last-show-of-mr-chardish-act-i.json](./170386-the-last-show-of-mr-chardish-act-i.json) |
+| The Last Sigil | 88325 | [88325-the-last-sigil.json](./88325-the-last-sigil.json) |
 | The Last Soldier | 109768 | [109768-the-last-soldier.json](./109768-the-last-soldier.json) |
 | The Last Sorcerer | 55479 | [55479-the-last-sorcerer.json](./55479-the-last-sorcerer.json) |
 | The Last Sorrow | 287643 | [287643-the-last-sorrow.json](./287643-the-last-sorrow.json) |
@@ -8816,6 +8821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
 | Tomorrow | 171070 | [171070-tomorrow.json](./171070-tomorrow.json) |
 | Tomorrow | 34383 | [34383-tomorrow.json](./34383-tomorrow.json) |
+| Tomorrow Don't Come | 88255 | [88255-tomorrow-dont-come.json](./88255-tomorrow-dont-come.json) |
 | Tomorrow Don't Come: Vicious Cycle | 172124 | [172124-tomorrow-dont-come-vicious-cycle.json](./172124-tomorrow-dont-come-vicious-cycle.json) |
 | Tomorrow for Mar | 199608 | [199608-tomorrow-for-mar.json](./199608-tomorrow-for-mar.json) |
 | Tomorrow Won't Come For Those Without | 135658 | [135658-tomorrow-wont-come-for-those-without.json](./135658-tomorrow-wont-come-for-those-without.json) |
@@ -10023,6 +10029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Your Brain! Spot the Difference With Space Photos | 385070 | [385070-train-your-brain-spot-the-difference-with-space-photos.json](./385070-train-your-brain-spot-the-difference-with-space-photos.json) |
 | Train'em | 163971 | [163971-trainem.json](./163971-trainem.json) |
 | Trainee Death Simulator | 319810 | [319810-trainee-death-simulator.json](./319810-trainee-death-simulator.json) |
+| Training aim | 88239 | [88239-training-aim.json](./88239-training-aim.json) |
 | Training Elves | 288901 | [288901-training-elves.json](./288901-training-elves.json) |
 | Training Hero | 239917 | [239917-training-hero.json](./239917-training-hero.json) |
 | Training Lab | 156004 | [156004-training-lab.json](./156004-training-lab.json) |
@@ -11326,6 +11333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Balls | 160247 | [160247-twin-balls.json](./160247-twin-balls.json) |
 | Twin Bill | 130868 | [130868-twin-bill.json](./130868-twin-bill.json) |
 | Twin Blades of the Three Kingdoms | 202761 | [202761-twin-blades-of-the-three-kingdoms.json](./202761-twin-blades-of-the-three-kingdoms.json) |
+| Twin Blue Moons | 88191 | [88191-twin-blue-moons.json](./88191-twin-blue-moons.json) |
 | Twin Breaker: A Sacred Symbols Adventure | 130613 | [130613-twin-breaker-a-sacred-symbols-adventure.json](./130613-twin-breaker-a-sacred-symbols-adventure.json) |
 | Twin Brothers | 55473 | [55473-twin-brothers.json](./55473-twin-brothers.json) |
 | Twin Calibre: 688 Attack Sub + Chuck Yeager's Air Combat | 86086 | [86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json](./86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json) |
@@ -11336,6 +11344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Eagle II | 70389 | [70389-twin-eagle-ii.json](./70389-twin-eagle-ii.json) |
 | Twin Kingdom Valley | 12971 | [12971-twin-kingdom-valley.json](./12971-twin-kingdom-valley.json) |
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
+| Twin Moons | 88303 | [88303-twin-moons.json](./88303-twin-moons.json) |
 | Twin Peaks | 199028 | [199028-twin-peaks.json](./199028-twin-peaks.json) |
 | Twin Peaks VR | 110584 | [110584-twin-peaks-vr.json](./110584-twin-peaks-vr.json) |
 | Twin Rockets | 392290 | [392290-twin-rockets.json](./392290-twin-rockets.json) |
