@@ -3242,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Engraved Dispatch | 181366 | [181366-the-engraved-dispatch.json](./181366-the-engraved-dispatch.json) |
 | The Enigma Lounge | 380439 | [380439-the-enigma-lounge.json](./380439-the-enigma-lounge.json) |
 | The Entente: Battlefields WW1 | 9829 | [9829-the-entente-battlefields-ww1.json](./9829-the-entente-battlefields-ww1.json) |
+| The Entertainer | 395864 | [395864-the-entertainer.json](./395864-the-entertainer.json) |
 | The Entertainment | 128622 | [128622-the-entertainment.json](./128622-the-entertainment.json) |
 | The Entity | 101331 | [101331-the-entity.json](./101331-the-entity.json) |
 | The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
@@ -5378,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
 | The Prime MoVR | 76659 | [76659-the-prime-movr.json](./76659-the-prime-movr.json) |
 | The Primrose Theater | 335860 | [335860-the-primrose-theater.json](./335860-the-primrose-theater.json) |
+| The Prince is a 10, But... | 395850 | [395850-the-prince-is-a-10-but.json](./395850-the-prince-is-a-10-but.json) |
 | The Prince is Dead | 239877 | [239877-the-prince-is-dead.json](./239877-the-prince-is-dead.json) |
 | The Prince's Keeper | 412310 | [412310-the-princes-keeper.json](./412310-the-princes-keeper.json) |
 | The Princess and the Frog | 17753 | [17753-the-princess-and-the-frog.json](./17753-the-princess-and-the-frog.json) |
@@ -5740,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
+| The Sentinels | 395897 | [395897-the-sentinels.json](./395897-the-sentinels.json) |
 | The Sequence | 33425 | [33425-the-sequence.json](./33425-the-sequence.json) |
 | The Serf's Tale | 72640 | [72640-the-serfs-tale.json](./72640-the-serfs-tale.json) |
 | The Serial Adventures of Dick Jack BB! | 176441 | [176441-the-serial-adventures-of-dick-jack-bb.json](./176441-the-serial-adventures-of-dick-jack-bb.json) |
@@ -6835,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch of Sherdorne Forest | 248112 | [248112-the-witch-of-sherdorne-forest.json](./248112-the-witch-of-sherdorne-forest.json) |
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
 | The Witch's Cookbook | 257995 | [257995-the-witchs-cookbook.json](./257995-the-witchs-cookbook.json) |
+| The Witch's Disciples | 395828 | [395828-the-witchs-disciples.json](./395828-the-witchs-disciples.json) |
 | The Witch's Fairy Tale | 318428 | [318428-the-witchs-fairy-tale.json](./318428-the-witchs-fairy-tale.json) |
 | The Witch's House MV | 111081 | [111081-the-witchs-house-mv.json](./111081-the-witchs-house-mv.json) |
 | The Witch's Isle | 55764 | [55764-the-witchs-isle.json](./55764-the-witchs-isle.json) |
@@ -7018,6 +7022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheLooppy | 83487 | [83487-thelooppy.json](./83487-thelooppy.json) |
 | Them or Us | 216995 | [216995-them-or-us.json](./216995-them-or-us.json) |
 | Them: The Summoning | 10957 | [10957-them-the-summoning.json](./10957-them-the-summoning.json) |
+| Them's Tale: The Road to Her | 395882 | [395882-thems-tale-the-road-to-her.json](./395882-thems-tale-the-road-to-her.json) |
 | TheMahjong | 317875 | [317875-themahjong.json](./317875-themahjong.json) |
 | Theme Hospital | 1624 | [1624-theme-hospital.json](./1624-theme-hospital.json) |
 | Theme Hotel | 185634 | [185634-theme-hotel.json](./185634-theme-hotel.json) |
