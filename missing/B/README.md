@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bam Boom Blade | 289344 | [289344-bam-boom-blade.json](./289344-bam-boom-blade.json) |
 | Bam Boost | 256904 | [256904-bam-boost.json](./256904-bam-boost.json) |
 | Bambinours Solves a Jig Saw Puzzle | 14283 | [14283-bambinours-solves-a-jig-saw-puzzle.json](./14283-bambinours-solves-a-jig-saw-puzzle.json) |
+| Bamboo EP | 26667 | [26667-bamboo-ep.json](./26667-bamboo-ep.json) |
 | Bamboo Forest | 161397 | [161397-bamboo-forest.json](./161397-bamboo-forest.json) |
 | Bamboo Panda | 355121 | [355121-bamboo-panda.json](./355121-bamboo-panda.json) |
 | Bamboozle | 302650 | [302650-bamboozle.json](./302650-bamboozle.json) |
@@ -2929,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Pit | 176429 | [176429-bit-pit.json](./176429-bit-pit.json) |
 | Bit-Cremental: Fishistry | 325629 | [325629-bit-cremental-fishistry.json](./325629-bit-cremental-fishistry.json) |
 | Bit.Saw | 60775 | [60775-bit-saw.json](./60775-bit-saw.json) |
+| Bit.Trip Beat HD | 21741 | [21741-bit-trip-beat-hd.json](./21741-bit-trip-beat-hd.json) |
 | Bit.Trip Core | 15280 | [15280-bit-trip-core.json](./15280-bit-trip-core.json) |
 | Bit.Trip Saga | 21894 | [21894-bit-trip-saga.json](./21894-bit-trip-saga.json) |
 | Bitardia Cards: Memes of 2ch | 33383 | [33383-bitardia-cards-memes-of-2ch.json](./33383-bitardia-cards-memes-of-2ch.json) |
@@ -3929,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Dragon: Awakened Shadow | 20465 | [20465-blue-dragon-awakened-shadow.json](./20465-blue-dragon-awakened-shadow.json) |
 | Blue Dragon: Shuffle Dungeon | 259863 | [259863-blue-dragon-shuffle-dungeon.json](./259863-blue-dragon-shuffle-dungeon.json) |
 | Blue Dynasty | 408182 | [408182-blue-dynasty.json](./408182-blue-dynasty.json) |
+| Blue Effect VR | 27205 | [27205-blue-effect-vr.json](./27205-blue-effect-vr.json) |
 | Blue Epic | 249795 | [249795-blue-epic.json](./249795-blue-epic.json) |
 | Blue Estate | 7439 | [7439-blue-estate.json](./7439-blue-estate.json) |
 | Blue fencer Resurrection | 159860 | [159860-blue-fencer-resurrection.json](./159860-blue-fencer-resurrection.json) |
