@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Get Z | 259236 | [259236-just-get-z.json](./259236-just-get-z.json) |
 | Just Glide | 137649 | [137649-just-glide.json](./137649-just-glide.json) |
 | Just Hero: Collector's Edition | 53244 | [53244-just-hero-collectors-edition.json](./53244-just-hero-collectors-edition.json) |
+| Just Ignore Them | 30359 | [30359-just-ignore-them.json](./30359-just-ignore-them.json) |
 | Just Ignore Them: Brea's Story Tape 1 | 192456 | [192456-just-ignore-them-breas-story-tape-1.json](./192456-just-ignore-them-breas-story-tape-1.json) |
 | Just in Crime | 258982 | [258982-just-in-crime.json](./258982-just-in-crime.json) |
 | Just In Time Incorporated | 42925 | [42925-just-in-time-incorporated.json](./42925-just-in-time-incorporated.json) |
