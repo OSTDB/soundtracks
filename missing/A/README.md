@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agenda | 31784 | [31784-agenda.json](./31784-agenda.json) |
 | Agent Action | 138003 | [138003-agent-action.json](./138003-agent-action.json) |
 | Agent Armstrong | 11293 | [11293-agent-armstrong.json](./11293-agent-armstrong.json) |
+| Agent Gumball: Roguelike Spy Game | 86835 | [86835-agent-gumball-roguelike-spy-game.json](./86835-agent-gumball-roguelike-spy-game.json) |
 | Agent Hugo: Hula Holiday | 43512 | [43512-agent-hugo-hula-holiday.json](./43512-agent-hugo-hula-holiday.json) |
 | Agent Lovesdick | 225635 | [225635-agent-lovesdick.json](./225635-agent-lovesdick.json) |
 | Agent MOO: Maximum Overdeath | 66387 | [66387-agent-moo-maximum-overdeath.json](./66387-agent-moo-maximum-overdeath.json) |
@@ -2264,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Escape | 87714 | [87714-amazing-escape.json](./87714-amazing-escape.json) |
 | Amazing Facts World Culture True or False Quiz | 399608 | [399608-amazing-facts-world-culture-true-or-false-quiz.json](./399608-amazing-facts-world-culture-true-or-false-quiz.json) |
 | Amazing Fix | 163815 | [163815-amazing-fix.json](./163815-amazing-fix.json) |
+| Amazing Frog Simulator City | 86921 | [86921-amazing-frog-simulator-city.json](./86921-amazing-frog-simulator-city.json) |
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
 | Amazing Gardens | 344366 | [344366-amazing-gardens.json](./344366-amazing-gardens.json) |
 | Amazing Human | 81741 | [81741-amazing-human.json](./81741-amazing-human.json) |
