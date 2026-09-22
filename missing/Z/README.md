@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZMR: Zombies Monsters Robots | 7424 | [7424-zmr-zombies-monsters-robots.json](./7424-zmr-zombies-monsters-robots.json) |
 | Zoboomafoo: Leapin' Lemurs | 45308 | [45308-zoboomafoo-leapin-lemurs.json](./45308-zoboomafoo-leapin-lemurs.json) |
 | Zobre Zombie | 275011 | [275011-zobre-zombie.json](./275011-zobre-zombie.json) |
+| Zoda's Revenge: StarTropics II | 48062 | [48062-zodas-revenge-startropics-ii.json](./48062-zodas-revenge-startropics-ii.json) |
 | Zodi Bingo | 88165 | [88165-zodi-bingo.json](./88165-zodi-bingo.json) |
 | Zodiac | 146103 | [146103-zodiac.json](./146103-zodiac.json) |
 | Zodiac Faeries Astrology Adventure | 102818 | [102818-zodiac-faeries-astrology-adventure.json](./102818-zodiac-faeries-astrology-adventure.json) |
@@ -532,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Misfits | 65533 | [65533-zombie-misfits.json](./65533-zombie-misfits.json) |
 | Zombie Murder Hell Arrives | 89946 | [89946-zombie-murder-hell-arrives.json](./89946-zombie-murder-hell-arrives.json) |
 | Zombie Mutant Run | 262338 | [262338-zombie-mutant-run.json](./262338-zombie-mutant-run.json) |
+| Zombie Nation | 48201 | [48201-zombie-nation.json](./48201-zombie-nation.json) |
 | Zombie Night Defense | 300829 | [300829-zombie-night-defense.json](./300829-zombie-night-defense.json) |
 | Zombie Night Terror | 9546 | [9546-zombie-night-terror.json](./9546-zombie-night-terror.json) |
 | Zombie Night Terror: Collector's Edition | 194408 | [194408-zombie-night-terror-collectors-edition.json](./194408-zombie-night-terror-collectors-edition.json) |
