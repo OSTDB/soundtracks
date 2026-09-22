@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Honour: Battles of the Red Baron | 21341 | [21341-wings-of-honour-battles-of-the-red-baron.json](./21341-wings-of-honour-battles-of-the-red-baron.json) |
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
 | Wings of Virtus | 112772 | [112772-wings-of-virtus.json](./112772-wings-of-virtus.json) |
+| Wings of Wor | 105255 | [105255-wings-of-wor.json](./105255-wings-of-wor.json) |
 | Wings Over China: Air Battles of the Flying Tigers | 69563 | [69563-wings-over-china-air-battles-of-the-flying-tigers.json](./69563-wings-over-china-air-battles-of-the-flying-tigers.json) |
 | Wings Through Time | 174731 | [174731-wings-through-time.json](./174731-wings-through-time.json) |
 | Wings VR | 211221 | [211221-wings-vr.json](./211221-wings-vr.json) |
