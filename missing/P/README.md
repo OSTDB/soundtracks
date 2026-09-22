@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patlabor: Come Back Mini-Pato | 75899 | [75899-patlabor-come-back-mini-pato.json](./75899-patlabor-come-back-mini-pato.json) |
 | Patlabor: The Mobile Police | 75896 | [75896-patlabor-the-mobile-police.json](./75896-patlabor-the-mobile-police.json) |
 | Pato & Lobo | 325690 | [325690-pato-and-lobo.json](./325690-pato-and-lobo.json) |
+| Pato Box | 56344 | [56344-pato-box.json](./56344-pato-box.json) |
 | Pato Martinez | 238599 | [238599-pato-martinez.json](./238599-pato-martinez.json) |
 | Patou | 253376 | [253376-patou.json](./253376-patou.json) |
 | Patrician III | 287 | [287-patrician-iii.json](./287-patrician-iii.json) |
@@ -1694,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter's Journey | 306096 | [306096-peters-journey.json](./306096-peters-journey.json) |
 | PetHotel | 101581 | [101581-pethotel.json](./101581-pethotel.json) |
 | Petit Island | 204526 | [204526-petit-island.json](./204526-petit-island.json) |
+| Petit Novel Series: Harvest December | 59433 | [59433-petit-novel-series-harvest-december.json](./59433-petit-novel-series-harvest-december.json) |
 | Petit Petit Petit | 239763 | [239763-petit-petit-petit.json](./239763-petit-petit-petit.json) |
 | Petit Petit Petit: Specter Pack | 289331 | [289331-petit-petit-petit-specter-pack.json](./289331-petit-petit-petit-specter-pack.json) |
 | Petit Planet | 370095 | [370095-petit-planet.json](./370095-petit-planet.json) |
@@ -3433,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pohinki Simulator | 333623 | [333623-pohinki-simulator.json](./333623-pohinki-simulator.json) |
 | Poi | 19278 | [19278-poi.json](./19278-poi.json) |
 | Poi: Deluxe Edition | 53464 | [53464-poi-deluxe-edition.json](./53464-poi-deluxe-edition.json) |
+| Poi: Explorer Edition | 58591 | [58591-poi-explorer-edition.json](./58591-poi-explorer-edition.json) |
 | Poibos Part 1: Dasshutsu | 298547 | [298547-poibos-part-1-dasshutsu.json](./298547-poibos-part-1-dasshutsu.json) |
 | Poinie's Poin | 56153 | [56153-poinies-poin.json](./56153-poinies-poin.json) |
 | Poinpy | 204454 | [204454-poinpy.json](./204454-poinpy.json) |
@@ -4900,6 +4903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Farmer 2014: Platinum Edition | 53478 | [53478-professional-farmer-2014-platinum-edition.json](./53478-professional-farmer-2014-platinum-edition.json) |
 | Professional Farmer 2016 | 84808 | [84808-professional-farmer-2016.json](./84808-professional-farmer-2016.json) |
 | Professional Farmer 2017: Cattle & Cultivation | 172103 | [172103-professional-farmer-2017-cattle-and-cultivation.json](./172103-professional-farmer-2017-cattle-and-cultivation.json) |
+| Professional Farmer: Cattle and Crops | 55892 | [55892-professional-farmer-cattle-and-crops.json](./55892-professional-farmer-cattle-and-crops.json) |
 | Professional Fisherman's Tour: Northern Hemisphere | 61352 | [61352-professional-fishermans-tour-northern-hemisphere.json](./61352-professional-fishermans-tour-northern-hemisphere.json) |
 | Professional Fishing | 141801 | [141801-professional-fishing.json](./141801-professional-fishing.json) |
 | Professional Fishing 2 | 255695 | [255695-professional-fishing-2.json](./255695-professional-fishing-2.json) |
@@ -5690,6 +5694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pursuit of Power 2 | 30866 | [30866-pursuit-of-power-2.json](./30866-pursuit-of-power-2.json) |
 | Purumui Purumui | 143677 | [143677-purumui-purumui.json](./143677-purumui-purumui.json) |
 | Pururun! Shizuku-chan: Asonde Tanoshiku Nouryoku Up | 327618 | [327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json](./327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json) |
+| Push | 55799 | [55799-push.json](./55799-push.json) |
 | Push a Block | 221171 | [221171-push-a-block.json](./221171-push-a-block.json) |
 | Push Back | 133445 | [133445-push-back.json](./133445-push-back.json) |
 | Push Box | 167261 | [167261-push-box.json](./167261-push-box.json) |
