@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsung Knight | 163811 | [163811-unsung-knight.json](./163811-unsung-knight.json) |
 | Unsustainable: a god job | 180842 | [180842-unsustainable-a-god-job.json](./180842-unsustainable-a-god-job.json) |
 | Untamed | 280233 | [280233-untamed.json](./280233-untamed.json) |
+| Untamed Isle | 395197 | [395197-untamed-isle.json](./395197-untamed-isle.json) |
 | Untamed Kingdom | 274765 | [274765-untamed-kingdom.json](./274765-untamed-kingdom.json) |
 | Untamed Tactics | 158184 | [158184-untamed-tactics.json](./158184-untamed-tactics.json) |
 | Untangle | 338820 | [338820-untangle.json](./338820-untangle.json) |
