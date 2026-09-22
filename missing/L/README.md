@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Knucker-Hole | 62452 | [62452-legend-of-the-knucker-hole.json](./62452-legend-of-the-knucker-hole.json) |
 | Legend of the Lost Dragons | 134580 | [134580-legend-of-the-lost-dragons.json](./134580-legend-of-the-lost-dragons.json) |
 | Legend of the Master Baiter | 303625 | [303625-legend-of-the-master-baiter.json](./303625-legend-of-the-master-baiter.json) |
+| Legend of the Master Baiter Origins: Gills Gone Wild | 395826 | [395826-legend-of-the-master-baiter-origins-gills-gone-wild.json](./395826-legend-of-the-master-baiter-origins-gills-gone-wild.json) |
 | Legend of the Moon | 207830 | [207830-legend-of-the-moon.json](./207830-legend-of-the-moon.json) |
 | Legend of the Moon: Those Who Crossed | 351640 | [351640-legend-of-the-moon-those-who-crossed.json](./351640-legend-of-the-moon-those-who-crossed.json) |
 | Legend of the Seven Paladins | 140401 | [140401-legend-of-the-seven-paladins.json](./140401-legend-of-the-seven-paladins.json) |
@@ -1013,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legie | 81407 | [81407-legie.json](./81407-legie.json) |
 | Legion | 18839 | [18839-legion.json](./18839-legion.json) |
 | Legion | 319203 | [319203-legion.json](./319203-legion.json) |
+| Legion Draft | 395867 | [395867-legion-draft.json](./395867-legion-draft.json) |
 | Legion of Judgment: Fallen Angel | 238755 | [238755-legion-of-judgment-fallen-angel.json](./238755-legion-of-judgment-fallen-angel.json) |
 | Legion Saga III | 385746 | [385746-legion-saga-iii.json](./385746-legion-saga-iii.json) |
 | Legion Was Here | 347168 | [347168-legion-was-here.json](./347168-legion-was-here.json) |
@@ -3497,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustful Assistant | 223176 | [223176-lustful-assistant.json](./223176-lustful-assistant.json) |
 | Lustful Butler and Charming Sisters | 346685 | [346685-lustful-butler-and-charming-sisters.json](./346685-lustful-butler-and-charming-sisters.json) |
 | Lustful Ponies | 195738 | [195738-lustful-ponies.json](./195738-lustful-ponies.json) |
+| Lusty Bubbles: Animated Edition | 395845 | [395845-lusty-bubbles-animated-edition.json](./395845-lusty-bubbles-animated-edition.json) |
 | Lusty God | 238763 | [238763-lusty-god.json](./238763-lusty-god.json) |
 | Lutarus | 293621 | [293621-lutarus.json](./293621-lutarus.json) |
 | Lutra's Monologue | 186274 | [186274-lutras-monologue.json](./186274-lutras-monologue.json) |
