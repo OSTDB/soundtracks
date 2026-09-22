@@ -6410,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder by Candlelight | 305369 | [305369-murder-by-candlelight.json](./305369-murder-by-candlelight.json) |
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
 | Murder by Numbers | 123902 | [123902-murder-by-numbers.json](./123902-murder-by-numbers.json) |
+| Murder Castle | 405716 | [405716-murder-castle.json](./405716-murder-castle.json) |
 | Murder Diaries | 153948 | [153948-murder-diaries.json](./153948-murder-diaries.json) |
 | Murder Diaries: Ankara | 88185 | [88185-murder-diaries-ankara.json](./88185-murder-diaries-ankara.json) |
 | Murder Hornets | 164967 | [164967-murder-hornets.json](./164967-murder-hornets.json) |
