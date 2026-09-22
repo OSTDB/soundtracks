@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industrial Annihilation | 324902 | [324902-industrial-annihilation.json](./324902-industrial-annihilation.json) |
 | Industrial Combat | 271750 | [271750-industrial-combat.json](./271750-industrial-combat.json) |
 | Industrial Infection! | 107810 | [107810-industrial-infection.json](./107810-industrial-infection.json) |
+| Industrial Legion | 398570 | [398570-industrial-legion.json](./398570-industrial-legion.json) |
 | Industrial War | 241515 | [241515-industrial-war.json](./241515-industrial-war.json) |
 | Industriality | 190159 | [190159-industriality.json](./190159-industriality.json) |
 | Industrious | 146813 | [146813-industrious.json](./146813-industrious.json) |
@@ -1231,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inevitable Light | 287219 | [287219-inevitable-light.json](./287219-inevitable-light.json) |
 | Inexistence | 18957 | [18957-inexistence.json](./18957-inexistence.json) |
 | Inexplicable Geeks: RestoreTheMillerCut | 253924 | [253924-inexplicable-geeks-restorethemillercut.json](./253924-inexplicable-geeks-restorethemillercut.json) |
+| Infamous Keepers | 398591 | [398591-infamous-keepers.json](./398591-infamous-keepers.json) |
 | Infamous Second Son - Special Edition | 89873 | [89873-infamous-second-son-special-edition.json](./89873-infamous-second-son-special-edition.json) |
 | Infamous: Festival of Blood | 7850 | [7850-infamous-festival-of-blood.json](./7850-infamous-festival-of-blood.json) |
 | Infamous: First Light | 7328 | [7328-infamous-first-light.json](./7328-infamous-first-light.json) |
