@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Rum Case in Fogtown | 211806 | [211806-a-rum-case-in-fogtown.json](./211806-a-rum-case-in-fogtown.json) |
 | A Rum Tale | 230384 | [230384-a-rum-tale.json](./230384-a-rum-tale.json) |
 | A Sandwich, A Leash, and A Storm | 337701 | [337701-a-sandwich-a-leash-and-a-storm.json](./337701-a-sandwich-a-leash-and-a-storm.json) |
+| A Sceptic's Guide to Magic | 118127 | [118127-a-sceptics-guide-to-magic.json](./118127-a-sceptics-guide-to-magic.json) |
 | A Second Before the War | 192814 | [192814-a-second-before-the-war.json](./192814-a-second-before-the-war.json) |
 | A Second Chance | 201290 | [201290-a-second-chance.json](./201290-a-second-chance.json) |
 | A Second Face: The Eye of Geltz is watching Us | 67684 | [67684-a-second-face-the-eye-of-geltz-is-watching-us.json](./67684-a-second-face-the-eye-of-geltz-is-watching-us.json) |
