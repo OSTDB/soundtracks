@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leonardo's Cat | 175398 | [175398-leonardos-cat.json](./175398-leonardos-cat.json) |
 | Leopoldo Manquiseil | 110789 | [110789-leopoldo-manquiseil.json](./110789-leopoldo-manquiseil.json) |
 | Leowald | 116106 | [116106-leowald.json](./116106-leowald.json) |
+| Lep's World | 59915 | [59915-leps-world.json](./59915-leps-world.json) |
 | Lep's World 2 | 88293 | [88293-leps-world-2.json](./88293-leps-world-2.json) |
 | Lep's World Plus | 88271 | [88271-leps-world-plus.json](./88271-leps-world-plus.json) |
 | Lep's World Plus - super best platformer games | 90375 | [90375-leps-world-plus-super-best-platformer-games.json](./90375-leps-world-plus-super-best-platformer-games.json) |
@@ -1483,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
 | Liege | 63254 | [63254-liege.json](./63254-liege.json) |
 | Liero Xtreme | 72080 | [72080-liero-xtreme.json](./72080-liero-xtreme.json) |
+| Lies of Astaroth | 57975 | [57975-lies-of-astaroth.json](./57975-lies-of-astaroth.json) |
 | Liese in the City of Trials | 358928 | [358928-liese-in-the-city-of-trials.json](./358928-liese-in-the-city-of-trials.json) |
 | Life & Death | 12177 | [12177-life-and-death.json](./12177-life-and-death.json) |
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
