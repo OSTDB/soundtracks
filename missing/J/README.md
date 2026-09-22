@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jester / King | 166745 | [166745-jester-king.json](./166745-jester-king.json) |
 | Jester's Quest | 221163 | [221163-jesters-quest.json](./221163-jesters-quest.json) |
 | Jesucristo: El Robot del Futuro | 302125 | [302125-jesucristo-el-robot-del-futuro.json](./302125-jesucristo-el-robot-del-futuro.json) |
+| Jesus Christ RPG Trilogy | 33371 | [33371-jesus-christ-rpg-trilogy.json](./33371-jesus-christ-rpg-trilogy.json) |
 | Jesus Sacred Heart | 392792 | [392792-jesus-sacred-heart.json](./392792-jesus-sacred-heart.json) |
 | Jet Ant | 110399 | [110399-jet-ant.json](./110399-jet-ant.json) |
 | Jet Bike Simulator | 55211 | [55211-jet-bike-simulator.json](./55211-jet-bike-simulator.json) |
