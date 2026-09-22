@@ -2851,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Evolution | 35966 | [35966-bit-evolution.json](./35966-bit-evolution.json) |
 | Bit Generations: Boundish | 94200 | [94200-bit-generations-boundish.json](./94200-bit-generations-boundish.json) |
 | Bit Generations: Dialhex | 251173 | [251173-bit-generations-dialhex.json](./251173-bit-generations-dialhex.json) |
+| Bit Heroes | 67937 | [67937-bit-heroes.json](./67937-bit-heroes.json) |
 | Bit Heroes Runner | 263569 | [263569-bit-heroes-runner.json](./263569-bit-heroes-runner.json) |
 | Bit Lost | 363963 | [363963-bit-lost.json](./363963-bit-lost.json) |
 | Bit Orchard: Animal Valley - Complete Edition | 232997 | [232997-bit-orchard-animal-valley-complete-edition.json](./232997-bit-orchard-animal-valley-complete-edition.json) |
@@ -3303,9 +3304,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Trail | 293100 | [293100-blazing-trail.json](./293100-blazing-trail.json) |
 | Blazing War | 203915 | [203915-blazing-war.json](./203915-blazing-war.json) |
 | Bleach vs Naruto | 228437 | [228437-bleach-vs-naruto.json](./228437-bleach-vs-naruto.json) |
+| Bleach: Blade Battlers | 72983 | [72983-bleach-blade-battlers.json](./72983-bleach-blade-battlers.json) |
 | Bleach: Erabareshi Tamashi | 43533 | [43533-bleach-erabareshi-tamashi.json](./43533-bleach-erabareshi-tamashi.json) |
 | Bleach: Heat the Soul 4 | 46001 | [46001-bleach-heat-the-soul-4.json](./46001-bleach-heat-the-soul-4.json) |
 | Bleach: Heat the Soul 5 | 72958 | [72958-bleach-heat-the-soul-5.json](./72958-bleach-heat-the-soul-5.json) |
+| Bleach: Heat the Soul 6 | 69255 | [69255-bleach-heat-the-soul-6.json](./69255-bleach-heat-the-soul-6.json) |
 | Bleach: Paradise Lost | 52199 | [52199-bleach-paradise-lost.json](./52199-bleach-paradise-lost.json) |
 | Bleach: Shattered Blade | 3821 | [3821-bleach-shattered-blade.json](./3821-bleach-shattered-blade.json) |
 | Bleach: Soul Carnival | 25930 | [25930-bleach-soul-carnival.json](./25930-bleach-soul-carnival.json) |
