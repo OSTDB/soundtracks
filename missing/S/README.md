@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S-Copter | 76653 | [76653-s-copter.json](./76653-s-copter.json) |
 | S. Cargo | 275916 | [275916-s-cargo.json](./275916-s-cargo.json) |
 | S.A.B.A.H. (Sun As Biased As Harmony) | 264596 | [264596-s-a-b-a-h-sun-as-biased-as-harmony.json](./264596-s-a-b-a-h-sun-as-biased-as-harmony.json) |
+| S.A.N.D.Y.: Beach Cleaner | 406300 | [406300-s-a-n-d-y-beach-cleaner.json](./406300-s-a-n-d-y-beach-cleaner.json) |
 | S.C. Out | 150073 | [150073-s-c-out.json](./150073-s-c-out.json) |
 | S.C.A: Sexually Customized Android in This Renewing World | 82800 | [82800-s-c-a-sexually-customized-android-in-this-renewing-world.json](./82800-s-c-a-sexually-customized-android-in-this-renewing-world.json) |
 | S.C.A.R | 169437 | [169437-s-c-a-r.json](./169437-s-c-a-r.json) |
@@ -3578,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
 | Sign It | 413186 | [413186-sign-it.json](./413186-sign-it.json) |
 | Sign of the Sun | 69878 | [69878-sign-of-the-sun.json](./69878-sign-of-the-sun.json) |
+| Sign: Broken Kether | 406269 | [406269-sign-broken-kether.json](./406269-sign-broken-kether.json) |
 | Signal | 171482 | [171482-signal.json](./171482-signal.json) |
 | Signal | 205094 | [205094-signal.json](./205094-signal.json) |
 | Signal | 329155 | [329155-signal.json](./329155-signal.json) |
@@ -5213,6 +5215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snap Kid's | 262396 | [262396-snap-kids.json](./262396-snap-kids.json) |
 | Snap Quest | 244763 | [244763-snap-quest.json](./244763-snap-quest.json) |
 | Snap Quiz Challenge | 333595 | [333595-snap-quiz-challenge.json](./333595-snap-quiz-challenge.json) |
+| Snap the Cat | 406299 | [406299-snap-the-cat.json](./406299-snap-the-cat.json) |
 | Snap the Sentinel | 141867 | [141867-snap-the-sentinel.json](./141867-snap-the-sentinel.json) |
 | Snap! A Cerrado Adventure | 282117 | [282117-snap-a-cerrado-adventure.json](./282117-snap-a-cerrado-adventure.json) |
 | SnaPaul | 332828 | [332828-snapaul.json](./332828-snapaul.json) |
@@ -9045,6 +9048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Commander | 76654 | [76654-station-commander.json](./76654-station-commander.json) |
 | Station Master | 183550 | [183550-station-master.json](./183550-station-master.json) |
 | Station Memories | 216220 | [216220-station-memories.json](./216220-station-memories.json) |
+| Station Nexus | 406291 | [406291-station-nexus.json](./406291-station-nexus.json) |
 | Station Sabotage | 283770 | [283770-station-sabotage.json](./283770-station-sabotage.json) |
 | Station Zeta | 304003 | [304003-station-zeta.json](./304003-station-zeta.json) |
 | Stationflow | 127462 | [127462-stationflow.json](./127462-stationflow.json) |
@@ -9560,6 +9564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
 | Storm Chasers: Tornado Islands | 128984 | [128984-storm-chasers-tornado-islands.json](./128984-storm-chasers-tornado-islands.json) |
 | Storm Chasing Sim 2025: Tornado Hunter | 374676 | [374676-storm-chasing-sim-2025-tornado-hunter.json](./374676-storm-chasing-sim-2025-tornado-hunter.json) |
+| Storm Clan | 406304 | [406304-storm-clan.json](./406304-storm-clan.json) |
 | Storm Generations | 99666 | [99666-storm-generations.json](./99666-storm-generations.json) |
 | Storm Horse Simulator | 357860 | [357860-storm-horse-simulator.json](./357860-storm-horse-simulator.json) |
 | Storm in Desert | 29174 | [29174-storm-in-desert.json](./29174-storm-in-desert.json) |
