@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radicorn | 293225 | [293225-radicorn.json](./293225-radicorn.json) |
 | Radikal Bikers | 221942 | [221942-radikal-bikers.json](./221942-radikal-bikers.json) |
 | Radio Active | 73787 | [73787-radio-active.json](./73787-radio-active.json) |
+| Radio Commander | 107875 | [107875-radio-commander.json](./107875-radio-commander.json) |
 | Radio Commander: Complete Edition | 154538 | [154538-radio-commander-complete-edition.json](./154538-radio-commander-complete-edition.json) |
 | Radio Decay | 404937 | [404937-radio-decay.json](./404937-radio-decay.json) |
 | Radio Exurbia | 249439 | [249439-radio-exurbia.json](./249439-radio-exurbia.json) |
@@ -1453,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redneck Party | 151026 | [151026-redneck-party.json](./151026-redneck-party.json) |
 | Redneck Rampage | 9002 | [9002-redneck-rampage.json](./9002-redneck-rampage.json) |
 | Redneck Rift | 207914 | [207914-redneck-rift.json](./207914-redneck-rift.json) |
+| Redo! | 114085 | [114085-redo.json](./114085-redo.json) |
 | Redout 2: Deluxe Edition | 205571 | [205571-redout-2-deluxe-edition.json](./205571-redout-2-deluxe-edition.json) |
 | Redout 2: Summer Pack | 224209 | [224209-redout-2-summer-pack.json](./224209-redout-2-summer-pack.json) |
 | Redout 2: Ultimate Edition | 205570 | [205570-redout-2-ultimate-edition.json](./205570-redout-2-ultimate-edition.json) |
@@ -1642,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxing Time: Paradise Resort - Collector's Edition | 304591 | [304591-relaxing-time-paradise-resort-collectors-edition.json](./304591-relaxing-time-paradise-resort-collectors-edition.json) |
 | Relaxing VR Games: Mahjong | 31166 | [31166-relaxing-vr-games-mahjong.json](./31166-relaxing-vr-games-mahjong.json) |
 | RelayCars | 113521 | [113521-relaycars.json](./113521-relaycars.json) |
+| Relayer | 113594 | [113594-relayer.json](./113594-relayer.json) |
 | Relayer: Limited Edition | 172776 | [172776-relayer-limited-edition.json](./172776-relayer-limited-edition.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
 | Relentless | 129699 | [129699-relentless.json](./129699-relentless.json) |
@@ -3687,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomba May Cry | 185116 | [185116-roomba-may-cry.json](./185116-roomba-may-cry.json) |
 | Roomba Out! | 302143 | [302143-roomba-out.json](./302143-roomba-out.json) |
 | Roomba Rail Rider | 302144 | [302144-roomba-rail-rider.json](./302144-roomba-rail-rider.json) |
+| Roombo: First Blood | 114015 | [114015-roombo-first-blood.json](./114015-roombo-first-blood.json) |
 | Roomli | 203363 | [203363-roomli.json](./203363-roomli.json) |
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
 | RoomRental | 94190 | [94190-roomrental.json](./94190-roomrental.json) |
