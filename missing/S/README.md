@@ -6293,6 +6293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Test Labs | 265209 | [265209-sonic-test-labs.json](./265209-sonic-test-labs.json) |
 | Sonic the Fighters 2 | 331300 | [331300-sonic-the-fighters-2.json](./331300-sonic-the-fighters-2.json) |
 | Sonic the Fighters Blitz | 321766 | [321766-sonic-the-fighters-blitz.json](./321766-sonic-the-fighters-blitz.json) |
+| Sonic The Funk | 392430 | [392430-sonic-the-funk.json](./392430-sonic-the-funk.json) |
 | Sonic the Hedgehog | 106274 | [106274-sonic-the-hedgehog.json](./106274-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 239066 | [239066-sonic-the-hedgehog.json](./239066-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 261243 | [261243-sonic-the-hedgehog.json](./261243-sonic-the-hedgehog.json) |
@@ -9698,6 +9699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of a Gladiator | 125747 | [125747-story-of-a-gladiator.json](./125747-story-of-a-gladiator.json) |
 | Story of a Tiny Earth: The Symbolic Ages | 172170 | [172170-story-of-a-tiny-earth-the-symbolic-ages.json](./172170-story-of-a-tiny-earth-the-symbolic-ages.json) |
 | Story of Heterosexuality | 333547 | [333547-story-of-heterosexuality.json](./333547-story-of-heterosexuality.json) |
+| Story of Love & Food | 392466 | [392466-story-of-love-and-food.json](./392466-story-of-love-and-food.json) |
 | Story of Seasons | 8608 | [8608-story-of-seasons.json](./8608-story-of-seasons.json) |
 | Story of Seasons (Tentative Title) | 85534 | [85534-story-of-seasons-tentative-title.json](./85534-story-of-seasons-tentative-title.json) |
 | Story of Seasons: A Wonderful Life | 217553 | [217553-story-of-seasons-a-wonderful-life.json](./217553-story-of-seasons-a-wonderful-life.json) |
@@ -10534,6 +10536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sullen | 30809 | [30809-sullen.json](./30809-sullen.json) |
 | Sully | 63552 | [63552-sully.json](./63552-sully.json) |
 | Sully: A Very Serious RPG | 216868 | [216868-sully-a-very-serious-rpg.json](./216868-sully-a-very-serious-rpg.json) |
+| Sullyland Nursery Rhyme | 392429 | [392429-sullyland-nursery-rhyme.json](./392429-sullyland-nursery-rhyme.json) |
 | Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
 | Sum Blocks | 120161 | [120161-sum-blocks.json](./120161-sum-blocks.json) |
