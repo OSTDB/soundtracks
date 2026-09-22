@@ -1750,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Testing Facility | 274181 | [274181-testing-facility.json](./274181-testing-facility.json) |
 | Testing Pool | 262424 | [262424-testing-pool.json](./262424-testing-pool.json) |
 | Tet Story | 400370 | [400370-tet-story.json](./400370-tet-story.json) |
+| Tete | 409798 | [409798-tete.json](./409798-tete.json) |
 | Tether | 114816 | [114816-tether.json](./114816-tether.json) |
 | Tether | 186336 | [186336-tether.json](./186336-tether.json) |
 | Tether | 333088 | [333088-tether.json](./333088-tether.json) |
@@ -2954,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deadly Cursed Enjmin Steamroller in: The Bloody Killing on Wheel in the Atrium | 227468 | [227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json](./227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json) |
 | The Deal | 30118 | [30118-the-deal.json](./30118-the-deal.json) |
 | The Death and Return of Superman | 453 | [453-the-death-and-return-of-superman.json](./453-the-death-and-return-of-superman.json) |
+| The Death and the Vampire | 409818 | [409818-the-death-and-the-vampire.json](./409818-the-death-and-the-vampire.json) |
 | The Death Into Trouble | 151125 | [151125-the-death-into-trouble.json](./151125-the-death-into-trouble.json) |
 | The Death of Erin Myers | 111289 | [111289-the-death-of-erin-myers.json](./111289-the-death-of-erin-myers.json) |
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
@@ -3516,6 +3518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fruit of Grisaia | 11456 | [11456-the-fruit-of-grisaia.json](./11456-the-fruit-of-grisaia.json) |
 | The Fruit, Labyrinth, and Eden of Grisaia Full Package | 117746 | [117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json](./117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json) |
 | The Fugitives | 330309 | [330309-the-fugitives.json](./330309-the-fugitives.json) |
+| The Full Ann Petting Experience | 409795 | [409795-the-full-ann-petting-experience.json](./409795-the-full-ann-petting-experience.json) |
 | The Full Wormage | 70082 | [70082-the-full-wormage.json](./70082-the-full-wormage.json) |
 | The Funny Boneyard | 112335 | [112335-the-funny-boneyard.json](./112335-the-funny-boneyard.json) |
 | The Funskin Project | 345584 | [345584-the-funskin-project.json](./345584-the-funskin-project.json) |
@@ -5613,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scaling | 386286 | [386286-the-scaling.json](./386286-the-scaling.json) |
 | The Scarecrow Knight | 358976 | [358976-the-scarecrow-knight.json](./358976-the-scarecrow-knight.json) |
 | The Scarlet Demonslayer | 231348 | [231348-the-scarlet-demonslayer.json](./231348-the-scarlet-demonslayer.json) |
+| The Scarlet Lion | 409769 | [409769-the-scarlet-lion.json](./409769-the-scarlet-lion.json) |
 | The Scary Square | 169862 | [169862-the-scary-square.json](./169862-the-scary-square.json) |
 | The Scavenger | 69198 | [69198-the-scavenger.json](./69198-the-scavenger.json) |
 | The Scene Of the Crime | 383374 | [383374-the-scene-of-the-crime.json](./383374-the-scene-of-the-crime.json) |
