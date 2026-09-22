@@ -3096,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
 | The Dreambox | 150103 | [150103-the-dreambox.json](./150103-the-dreambox.json) |
 | The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
+| The Dreaming City Chronicles: Quest for the Vanished World | 406302 | [406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json](./406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json) |
 | The Dreams in the Peacock House | 400888 | [400888-the-dreams-in-the-peacock-house.json](./400888-the-dreams-in-the-peacock-house.json) |
 | The Dreamwalkers | 127221 | [127221-the-dreamwalkers.json](./127221-the-dreamwalkers.json) |
 | The Drone Zone | 244905 | [244905-the-drone-zone.json](./244905-the-drone-zone.json) |
@@ -4915,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mine | 13739 | [13739-the-mine.json](./13739-the-mine.json) |
 | The Miners | 31215 | [31215-the-miners.json](./31215-the-miners.json) |
 | The Mines of White Label | 289982 | [289982-the-mines-of-white-label.json](./289982-the-mines-of-white-label.json) |
+| The Minesweeper | 406322 | [406322-the-minesweeper.json](./406322-the-minesweeper.json) |
 | The Ministry for Anomaly Observation | 405582 | [405582-the-ministry-for-anomaly-observation.json](./405582-the-ministry-for-anomaly-observation.json) |
 | The Mirror Circle | 382746 | [382746-the-mirror-circle.json](./382746-the-mirror-circle.json) |
 | The Mirror Dimension | 260655 | [260655-the-mirror-dimension.json](./260655-the-mirror-dimension.json) |
@@ -5362,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Problem With Golf | 330156 | [330156-the-problem-with-golf.json](./330156-the-problem-with-golf.json) |
 | The Problems Compound | 59677 | [59677-the-problems-compound.json](./59677-the-problems-compound.json) |
 | The Procession to Calvary | 106985 | [106985-the-procession-to-calvary.json](./106985-the-procession-to-calvary.json) |
+| The Profaned | 406314 | [406314-the-profaned.json](./406314-the-profaned.json) |
 | The Professor Presents: Got Handles? | 28937 | [28937-the-professor-presents-got-handles.json](./28937-the-professor-presents-got-handles.json) |
 | The Projection Room of Malka Spitzer | 262953 | [262953-the-projection-room-of-malka-spitzer.json](./262953-the-projection-room-of-malka-spitzer.json) |
 | The Promised Land | 17318 | [17318-the-promised-land.json](./17318-the-promised-land.json) |
@@ -7292,6 +7295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Fragmentation | 147400 | [147400-through-the-fragmentation.json](./147400-through-the-fragmentation.json) |
 | Through the Frame | 169402 | [169402-through-the-frame.json](./169402-through-the-frame.json) |
 | Through the Looking Glass | 71709 | [71709-through-the-looking-glass.json](./71709-through-the-looking-glass.json) |
+| Through the Manor | 406320 | [406320-through-the-manor.json](./406320-through-the-manor.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
 | Through the Nest | 374131 | [374131-through-the-nest.json](./374131-through-the-nest.json) |
 | Through the Trap Door | 54718 | [54718-through-the-trap-door.json](./54718-through-the-trap-door.json) |
