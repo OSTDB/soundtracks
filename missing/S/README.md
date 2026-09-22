@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sainthum | 149557 | [149557-sainthum.json](./149557-sainthum.json) |
 | Saints & Sinners Bingo | 206744 | [206744-saints-and-sinners-bingo.json](./206744-saints-and-sinners-bingo.json) |
 | Saints of Virtue | 67312 | [67312-saints-of-virtue.json](./67312-saints-of-virtue.json) |
+| Saints Row | 198113 | [198113-saints-row.json](./198113-saints-row.json) |
 | Saints Row | 825 | [825-saints-row.json](./825-saints-row.json) |
 | Saints Row 2: Ultimate Edition | 99971 | [99971-saints-row-2-ultimate-edition.json](./99971-saints-row-2-ultimate-edition.json) |
 | Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
@@ -1417,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seafight | 59655 | [59655-seafight.json](./59655-seafight.json) |
 | Seaforge: Shores of Atlantis | 415872 | [415872-seaforge-shores-of-atlantis.json](./415872-seaforge-shores-of-atlantis.json) |
 | Seafox | 22416 | [22416-seafox.json](./22416-seafox.json) |
+| Seafrog | 215796 | [215796-seafrog.json](./215796-seafrog.json) |
 | Seaglass | 225763 | [225763-seaglass.json](./225763-seaglass.json) |
 | Seal Game's | 389608 | [389608-seal-games.json](./389608-seal-games.json) |
 | Seal of Evil | 14586 | [14586-seal-of-evil.json](./14586-seal-of-evil.json) |
@@ -3283,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showdown of Fate | 273092 | [273092-showdown-of-fate.json](./273092-showdown-of-fate.json) |
 | Shower Sim | 128603 | [128603-shower-sim.json](./128603-shower-sim.json) |
 | Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad? | 12204 | [12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json](./12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json) |
+| Showgunners | 210947 | [210947-showgunners.json](./210947-showgunners.json) |
 | Showgunners: Security Breach | 257677 | [257677-showgunners-security-breach.json](./257677-showgunners-security-breach.json) |
 | ShowMeSpeed | 303768 | [303768-showmespeed.json](./303768-showmespeed.json) |
 | Showtime: Vampire Diaries | 241370 | [241370-showtime-vampire-diaries.json](./241370-showtime-vampire-diaries.json) |
@@ -5239,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Break | 94210 | [94210-snow-break.json](./94210-snow-break.json) |
 | Snow Bros. 2: With New Elves | 39842 | [39842-snow-bros-2-with-new-elves.json](./39842-snow-bros-2-with-new-elves.json) |
 | Snow Bros. Wonderland | 309256 | [309256-snow-bros-wonderland.json](./309256-snow-bros-wonderland.json) |
+| Snow Bros.: Nick & Tom Special | 198126 | [198126-snow-bros-nick-and-tom-special.json](./198126-snow-bros-nick-and-tom-special.json) |
 | Snow Brothers 3: Magical Adventure | 39841 | [39841-snow-brothers-3-magical-adventure.json](./39841-snow-brothers-3-magical-adventure.json) |
 | Snow Cone | 341474 | [341474-snow-cone.json](./341474-snow-cone.json) |
 | Snow Day: The GapKids Quest | 73548 | [73548-snow-day-the-gapkids-quest.json](./73548-snow-day-the-gapkids-quest.json) |
@@ -5577,6 +5581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier Blade Special: Caravan Stage | 42024 | [42024-soldier-blade-special-caravan-stage.json](./42024-soldier-blade-special-caravan-stage.json) |
 | Soldier Blaster | 412972 | [412972-soldier-blaster.json](./412972-soldier-blaster.json) |
 | Soldier Boyz | 69225 | [69225-soldier-boyz.json](./69225-soldier-boyz.json) |
+| Soldier Elite | 208901 | [208901-soldier-elite.json](./208901-soldier-elite.json) |
 | Soldier Front 2 | 63308 | [63308-soldier-front-2.json](./63308-soldier-front-2.json) |
 | Soldier Girl Amazon | 40170 | [40170-soldier-girl-amazon.json](./40170-soldier-girl-amazon.json) |
 | Soldier of Failure 2 | 74356 | [74356-soldier-of-failure-2.json](./74356-soldier-of-failure-2.json) |
@@ -7349,6 +7354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SphereZor | 84890 | [84890-spherezor.json](./84890-spherezor.json) |
 | Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
+| Sphinx and the Cursed Mummy | 210438 | [210438-sphinx-and-the-cursed-mummy.json](./210438-sphinx-and-the-cursed-mummy.json) |
 | Sphinx Lowering | 229819 | [229819-sphinx-lowering.json](./229819-sphinx-lowering.json) |
 | Sphongos | 345562 | [345562-sphongos.json](./345562-sphongos.json) |
 | Spibee | 382930 | [382930-spibee.json](./382930-spibee.json) |
