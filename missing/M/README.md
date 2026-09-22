@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majestic Majolical vol. 1 | 240523 | [240523-majestic-majolical-vol-1.json](./240523-majestic-majolical-vol-1.json) |
 | Majestic: Special Edition | 137479 | [137479-majestic-special-edition.json](./137479-majestic-special-edition.json) |
 | Majestic: The Card Game | 109071 | [109071-majestic-the-card-game.json](./109071-majestic-the-card-game.json) |
+| Majestria: Incremental Survival | 406891 | [406891-majestria-incremental-survival.json](./406891-majestria-incremental-survival.json) |
 | Majesty 2 Collection | 30147 | [30147-majesty-2-collection.json](./30147-majesty-2-collection.json) |
 | Majesty: Northern Kingdom | 224015 | [224015-majesty-northern-kingdom.json](./224015-majesty-northern-kingdom.json) |
 | Majesty: The Fantasy Kingdom Sim | 781 | [781-majesty-the-fantasy-kingdom-sim.json](./781-majesty-the-fantasy-kingdom-sim.json) |
@@ -3015,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowk and Frocco | 118799 | [118799-meowk-and-frocco.json](./118799-meowk-and-frocco.json) |
 | MeowMatch | 283724 | [283724-meowmatch.json](./283724-meowmatch.json) |
 | Meowmewbug | 370151 | [370151-meowmewbug.json](./370151-meowmewbug.json) |
+| Meowmories | 406918 | [406918-meowmories.json](./406918-meowmories.json) |
 | Meown | 348265 | [348265-meown.json](./348265-meown.json) |
 | Meowniverse | 391584 | [391584-meowniverse.json](./391584-meowniverse.json) |
 | Meowoof | 207854 | [207854-meowoof.json](./207854-meowoof.json) |
@@ -5220,6 +5222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Saga: Fallen Heroes | 341330 | [341330-monster-girl-saga-fallen-heroes.json](./341330-monster-girl-saga-fallen-heroes.json) |
 | Monster Girls: You Can't Say No | 415164 | [415164-monster-girls-you-cant-say-no.json](./415164-monster-girls-you-cant-say-no.json) |
 | Monster Grid | 341331 | [341331-monster-grid.json](./341331-monster-grid.json) |
+| Monster Hatcher | 406920 | [406920-monster-hatcher.json](./406920-monster-hatcher.json) |
 | Monster Haven | 315708 | [315708-monster-haven.json](./315708-monster-haven.json) |
 | Monster Heart | 229929 | [229929-monster-heart.json](./229929-monster-heart.json) |
 | Monster High Skulltimate Secrets | 314521 | [314521-monster-high-skulltimate-secrets.json](./314521-monster-high-skulltimate-secrets.json) |
