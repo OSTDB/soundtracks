@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank: Full Frontal Assault | 1797 | [1797-ratchet-and-clank-full-frontal-assault.json](./1797-ratchet-and-clank-full-frontal-assault.json) |
 | Ratchet & Clank: Going Commando | 1770 | [1770-ratchet-and-clank-going-commando.json](./1770-ratchet-and-clank-going-commando.json) |
 | Ratchet & Clank: Going Mobile | 134656 | [134656-ratchet-and-clank-going-mobile.json](./134656-ratchet-and-clank-going-mobile.json) |
+| Ratchet & Clank: Rift Apart - Digital Deluxe Edition | 407558 | [407558-ratchet-and-clank-rift-apart-digital-deluxe-edition.json](./407558-ratchet-and-clank-rift-apart-digital-deluxe-edition.json) |
 | Ratchet & Clank: Special Limited Edition | 212322 | [212322-ratchet-and-clank-special-limited-edition.json](./212322-ratchet-and-clank-special-limited-edition.json) |
 | Ratchet: Deadlocked | 1790 | [1790-ratchet-deadlocked.json](./1790-ratchet-deadlocked.json) |
 | Ratcheteer DX | 362332 | [362332-ratcheteer-dx.json](./362332-ratcheteer-dx.json) |
@@ -3943,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Round My Corners | 301241 | [301241-round-my-corners.json](./301241-round-my-corners.json) |
 | Round The U-Bend | 271306 | [271306-round-the-u-bend.json](./271306-round-the-u-bend.json) |
 | Round Trip | 244280 | [244280-round-trip.json](./244280-round-trip.json) |
+| Round Up 5: Super Delta Force | 407524 | [407524-round-up-5-super-delta-force.json](./407524-round-up-5-super-delta-force.json) |
 | Rounded | 156011 | [156011-rounded.json](./156011-rounded.json) |
 | Rounded Hills | 145654 | [145654-rounded-hills.json](./145654-rounded-hills.json) |
 | Rounders | 220746 | [220746-rounders.json](./220746-rounders.json) |
