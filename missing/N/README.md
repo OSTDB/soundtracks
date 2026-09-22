@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Walk Simulator | 28199 | [28199-nature-walk-simulator.json](./28199-nature-walk-simulator.json) |
 | Nature's Element | 270972 | [270972-natures-element.json](./270972-natures-element.json) |
 | Nature's Habit | 195103 | [195103-natures-habit.json](./195103-natures-habit.json) |
+| Nature's Zombie Apocalypse | 24993 | [24993-natures-zombie-apocalypse.json](./24993-natures-zombie-apocalypse.json) |
 | NatureFly | 86534 | [86534-naturefly.json](./86534-naturefly.json) |
 | Naturix | 159182 | [159182-naturix.json](./159182-naturix.json) |
 | Naught | 117751 | [117751-naught.json](./117751-naught.json) |
@@ -1770,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja | 12837 | [12837-ninja.json](./12837-ninja.json) |
 | Ninja Arashi 2 | 223997 | [223997-ninja-arashi-2.json](./223997-ninja-arashi-2.json) |
 | Ninja Attack! | 87000 | [87000-ninja-attack.json](./87000-ninja-attack.json) |
+| Ninja Avenger Dragon Blade | 27119 | [27119-ninja-avenger-dragon-blade.json](./27119-ninja-avenger-dragon-blade.json) |
 | Ninja Ball | 100192 | [100192-ninja-ball.json](./100192-ninja-ball.json) |
 | Ninja Battle | 204488 | [204488-ninja-battle.json](./204488-ninja-battle.json) |
 | Ninja Battle Heroes | 24564 | [24564-ninja-battle-heroes.json](./24564-ninja-battle-heroes.json) |
