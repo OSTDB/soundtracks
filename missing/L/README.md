@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Week | 123003 | [123003-last-week.json](./123003-last-week.json) |
 | Last Week of a King | 288227 | [288227-last-week-of-a-king.json](./288227-last-week-of-a-king.json) |
 | Last Wish | 111074 | [111074-last-wish.json](./111074-last-wish.json) |
+| Last Word | 26639 | [26639-last-word.json](./26639-last-word.json) |
 | Last Word | 342169 | [342169-last-word.json](./342169-last-word.json) |
 | Last Year | 19819 | [19819-last-year.json](./19819-last-year.json) |
 | Last Z: Survival Shooter | 375192 | [375192-last-z-survival-shooter.json](./375192-last-z-survival-shooter.json) |
@@ -2779,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lands: Stories About the Sorceress, the Prince and the Minotaur - Collector's Edition | 416618 | [416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json](./416618-lost-lands-stories-about-the-sorceress-the-prince-and-the-minotaur-collectors-edition.json) |
 | Lost Lands: Stories of the First Brotherhood | 290430 | [290430-lost-lands-stories-of-the-first-brotherhood.json](./290430-lost-lands-stories-of-the-first-brotherhood.json) |
 | Lost Lands: The Four Horsemen | 35164 | [35164-lost-lands-the-four-horsemen.json](./35164-lost-lands-the-four-horsemen.json) |
+| Lost Lands: The Wanderer | 28654 | [28654-lost-lands-the-wanderer.json](./28654-lost-lands-the-wanderer.json) |
 | Lost Legions | 304719 | [304719-lost-legions.json](./304719-lost-legions.json) |
 | Lost Light | 210887 | [210887-lost-light.json](./210887-lost-light.json) |
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
