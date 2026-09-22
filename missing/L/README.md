@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Launcher | 358923 | [358923-launcher.json](./358923-launcher.json) |
 | Launcher Heroes | 236817 | [236817-launcher-heroes.json](./236817-launcher-heroes.json) |
 | Laundro-Mess | 185551 | [185551-laundro-mess.json](./185551-laundro-mess.json) |
+| Laundromat 8 | 414615 | [414615-laundromat-8.json](./414615-laundromat-8.json) |
 | Laundry | 317025 | [317025-laundry.json](./317025-laundry.json) |
 | Laundry Night | 304166 | [304166-laundry-night.json](./304166-laundry-night.json) |
 | Laundry Service Simulator | 326395 | [326395-laundry-service-simulator.json](./326395-laundry-service-simulator.json) |
@@ -1815,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limit Zero Breakers | 361763 | [361763-limit-zero-breakers.json](./361763-limit-zero-breakers.json) |
 | LiMiT's Escape Room Games | 196161 | [196161-limits-escape-room-games.json](./196161-limits-escape-room-games.json) |
 | Limits of Intelligence | 301821 | [301821-limits-of-intelligence.json](./301821-limits-of-intelligence.json) |
+| Limp Mode | 414575 | [414575-limp-mode.json](./414575-limp-mode.json) |
 | Lina: Witches of the Moon | 411578 | [411578-lina-witches-of-the-moon.json](./411578-lina-witches-of-the-moon.json) |
 | Linch | 80978 | [80978-linch.json](./80978-linch.json) |
 | Lincoln Green | 231086 | [231086-lincoln-green.json](./231086-lincoln-green.json) |
@@ -2930,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Affairs | 303785 | [303785-love-affairs.json](./303785-love-affairs.json) |
 | Love Always Runs Away | 362885 | [362885-love-always-runs-away.json](./362885-love-always-runs-away.json) |
 | Love and Betrayal | 195639 | [195639-love-and-betrayal.json](./195639-love-and-betrayal.json) |
+| Love And Death | 414568 | [414568-love-and-death.json](./414568-love-and-death.json) |
 | Love and Formaldehyde | 225266 | [225266-love-and-formaldehyde.json](./225266-love-and-formaldehyde.json) |
 | Love and Guillotines | 195629 | [195629-love-and-guillotines.json](./195629-love-and-guillotines.json) |
 | Love and War: Act I | 122860 | [122860-love-and-war-act-i.json](./122860-love-and-war-act-i.json) |
