@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When The Rumors Become Real | 370185 | [370185-when-the-rumors-become-real.json](./370185-when-the-rumors-become-real.json) |
 | When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
 | When The Snow is Gone | 383352 | [383352-when-the-snow-is-gone.json](./383352-when-the-snow-is-gone.json) |
+| When Wardens Fall | 99023 | [99023-when-wardens-fall.json](./99023-when-wardens-fall.json) |
 | When you're gone | 37192 | [37192-when-youre-gone.json](./37192-when-youre-gone.json) |
 | Whenever You Can Breathe | 203378 | [203378-whenever-you-can-breathe.json](./203378-whenever-you-can-breathe.json) |
 | Where Angels Cry: Tears of the Fallen - Collectors Edition | 34175 | [34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json](./34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json) |
@@ -1529,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WhiteJill | 355572 | [355572-whitejill.json](./355572-whitejill.json) |
 | Whiteout | 181385 | [181385-whiteout.json](./181385-whiteout.json) |
 | Whiteout Survival | 240884 | [240884-whiteout-survival.json](./240884-whiteout-survival.json) |
+| Whitevale Defender | 98774 | [98774-whitevale-defender.json](./98774-whitevale-defender.json) |
 | Whiteverse: No Country for Old Men | 121690 | [121690-whiteverse-no-country-for-old-men.json](./121690-whiteverse-no-country-for-old-men.json) |
 | WhiteWash | 370774 | [370774-whitewash.json](./370774-whitewash.json) |
 | Whitewater Rapids | 205838 | [205838-whitewater-rapids.json](./205838-whitewater-rapids.json) |
@@ -2396,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood and Water and Rock | 136422 | [136422-wood-and-water-and-rock.json](./136422-wood-and-water-and-rock.json) |
 | Wood Block 99 | 219828 | [219828-wood-block-99.json](./219828-wood-block-99.json) |
 | Wood Block Puzzle | 220190 | [220190-wood-block-puzzle.json](./220190-wood-block-puzzle.json) |
+| Wood Block Puzzle Game | 98830 | [98830-wood-block-puzzle-game.json](./98830-wood-block-puzzle-game.json) |
 | Wood Cuter | 201800 | [201800-wood-cuter.json](./201800-wood-cuter.json) |
 | Wood for the Trees | 176958 | [176958-wood-for-the-trees.json](./176958-wood-for-the-trees.json) |
 | Wood Nuts & Bolts Puzzle | 331341 | [331341-wood-nuts-and-bolts-puzzle.json](./331341-wood-nuts-and-bolts-puzzle.json) |
