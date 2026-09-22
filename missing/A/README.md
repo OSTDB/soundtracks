@@ -1106,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Heroes II: Underground Horror | 320973 | [320973-age-of-heroes-ii-underground-horror.json](./320973-age-of-heroes-ii-underground-horror.json) |
 | Age of Heroes: The Beginning | 187985 | [187985-age-of-heroes-the-beginning.json](./187985-age-of-heroes-the-beginning.json) |
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
+| Age of History II: Definitive Edition | 399162 | [399162-age-of-history-ii-definitive-edition.json](./399162-age-of-history-ii-definitive-edition.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
 | Age of Sokoban | 152157 | [152157-age-of-sokoban.json](./152157-age-of-sokoban.json) |
 | Age of Talisman | 26954 | [26954-age-of-talisman.json](./26954-age-of-talisman.json) |
