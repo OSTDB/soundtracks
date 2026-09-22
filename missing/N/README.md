@@ -2149,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noah's Ark: Animal Adventure | 326586 | [326586-noahs-ark-animal-adventure.json](./326586-noahs-ark-animal-adventure.json) |
 | Noah's Descent into Madness | 267096 | [267096-noahs-descent-into-madness.json](./267096-noahs-descent-into-madness.json) |
 | Noah's Dilemma | 291750 | [291750-noahs-dilemma.json](./291750-noahs-dilemma.json) |
+| Noah's Quest | 399854 | [399854-noahs-quest.json](./399854-noahs-quest.json) |
 | NoAmmo | 210882 | [210882-noammo.json](./210882-noammo.json) |
 | Nob War: The Elves | 235243 | [235243-nob-war-the-elves.json](./235243-nob-war-the-elves.json) |
 | Noble | 176975 | [176975-noble.json](./176975-noble.json) |
