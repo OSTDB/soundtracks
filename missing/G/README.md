@@ -2425,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorn 2 | 333676 | [333676-gorn-2.json](./333676-gorn-2.json) |
 | Gorogoa | 9136 | [9136-gorogoa.json](./9136-gorogoa.json) |
 | Goronyan Puzzle: Nyanpi | 243267 | [243267-goronyan-puzzle-nyanpi.json](./243267-goronyan-puzzle-nyanpi.json) |
+| Gorytale | 111798 | [111798-gorytale.json](./111798-gorytale.json) |
 | Gosen-sou | 221413 | [221413-gosen-sou.json](./221413-gosen-sou.json) |
 | Gosick Rogue | 341909 | [341909-gosick-rogue.json](./341909-gosick-rogue.json) |
 | Gospel of Eve | 225268 | [225268-gospel-of-eve.json](./225268-gospel-of-eve.json) |
