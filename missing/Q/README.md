@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quazatron | 23061 | [23061-quazatron.json](./23061-quazatron.json) |
 | Qub | 362305 | [362305-qub.json](./362305-qub.json) |
 | QubeTown | 114414 | [114414-qubetown.json](./114414-qubetown.json) |
+| Qubic | 31906 | [31906-qubic.json](./31906-qubic.json) |
 | Qubicks | 346599 | [346599-qubicks.json](./346599-qubicks.json) |
 | Qubie: Invader of Worlds | 169865 | [169865-qubie-invader-of-worlds.json](./169865-qubie-invader-of-worlds.json) |
 | Qubit's Quest | 283762 | [283762-qubits-quest.json](./283762-qubits-quest.json) |
