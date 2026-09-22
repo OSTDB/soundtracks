@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C-Rush | 16833 | [16833-c-rush.json](./16833-c-rush.json) |
 | C-Smash VRS: New Dimension | 321377 | [321377-c-smash-vrs-new-dimension.json](./321377-c-smash-vrs-new-dimension.json) |
 | C-War 2 | 119010 | [119010-c-war-2.json](./119010-c-war-2.json) |
+| C-Wars | 16658 | [16658-c-wars.json](./16658-c-wars.json) |
 | C: The Contra Adventure | 45010 | [45010-c-the-contra-adventure.json](./45010-c-the-contra-adventure.json) |
 | C:\raft | 34862 | [34862-c-raft.json](./34862-c-raft.json) |
 | C. Kane | 34880 | [34880-c-kane.json](./34880-c-kane.json) |
@@ -4431,6 +4432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confined: Leaving OKB-134 | 291489 | [291489-confined-leaving-okb-134.json](./291489-confined-leaving-okb-134.json) |
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
 | Conflagrant Rodent | 271815 | [271815-conflagrant-rodent.json](./271815-conflagrant-rodent.json) |
+| Conflicks - Revolutionary Space Battles | 17195 | [17195-conflicks-revolutionary-space-battles.json](./17195-conflicks-revolutionary-space-battles.json) |
 | Conflict / Resolution | 201123 | [201123-conflict-resolution.json](./201123-conflict-resolution.json) |
 | Conflict 3048 | 193406 | [193406-conflict-3048.json](./193406-conflict-3048.json) |
 | Conflict of the Universe | 157049 | [157049-conflict-of-the-universe.json](./157049-conflict-of-the-universe.json) |
@@ -5961,6 +5963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossy Crash | 98779 | [98779-crossy-crash.json](./98779-crossy-crash.json) |
 | Crossy Road Arcade | 228422 | [228422-crossy-road-arcade.json](./228422-crossy-road-arcade.json) |
 | Crossy Zombie | 213388 | [213388-crossy-zombie.json](./213388-crossy-zombie.json) |
+| Crouching Pony Hidden Dragon | 17173 | [17173-crouching-pony-hidden-dragon.json](./17173-crouching-pony-hidden-dragon.json) |
 | Crow | 17848 | [17848-crow.json](./17848-crow.json) |
 | Crow Country | 273522 | [273522-crow-country.json](./273522-crow-country.json) |
 | Crow Story | 189147 | [189147-crow-story.json](./189147-crow-story.json) |
