@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
 | Dark is the Void | 276848 | [276848-dark-is-the-void.json](./276848-dark-is-the-void.json) |
 | Dark Island | 147961 | [147961-dark-island.json](./147961-dark-island.json) |
+| Dark Island: Faded Memories | 415312 | [415312-dark-island-faded-memories.json](./415312-dark-island-faded-memories.json) |
 | Dark Jump: Endless Ascent | 339365 | [339365-dark-jump-endless-ascent.json](./339365-dark-jump-endless-ascent.json) |
 | Dark Law: Meaning of Death | 15898 | [15898-dark-law-meaning-of-death.json](./15898-dark-law-meaning-of-death.json) |
 | Dark Laws | 279134 | [279134-dark-laws.json](./279134-dark-laws.json) |
@@ -5180,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Around | 142402 | [142402-draw-around.json](./142402-draw-around.json) |
 | Draw Breaker | 341058 | [341058-draw-breaker.json](./341058-draw-breaker.json) |
 | Draw From Earth | 163914 | [163914-draw-from-earth.json](./163914-draw-from-earth.json) |
+| Draw it | 415304 | [415304-draw-it.json](./415304-draw-it.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
 | Draw No More | 177523 | [177523-draw-no-more.json](./177523-draw-no-more.json) |
 | Draw Puzzle | 46479 | [46479-draw-puzzle.json](./46479-draw-puzzle.json) |
@@ -5928,6 +5930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune Rider | 13710 | [13710-dune-rider.json](./13710-dune-rider.json) |
 | Dune Sea | 120414 | [120414-dune-sea.json](./120414-dune-sea.json) |
 | Dune Strider | 203547 | [203547-dune-strider.json](./203547-dune-strider.json) |
+| Dune: Awakening - Filmic Archive | 415291 | [415291-dune-awakening-filmic-archive.json](./415291-dune-awakening-filmic-archive.json) |
 | Dune: Imperium | 263201 | [263201-dune-imperium.json](./263201-dune-imperium.json) |
 | Dunebound Tactics | 320131 | [320131-dunebound-tactics.json](./320131-dunebound-tactics.json) |
 | Dunes of Valor | 303498 | [303498-dunes-of-valor.json](./303498-dunes-of-valor.json) |
