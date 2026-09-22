@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalah | 121727 | [121727-kalah.json](./121727-kalah.json) |
 | Kalaha | 369645 | [369645-kalaha.json](./369645-kalaha.json) |
 | Kalamatic - Adventure with Words | 120343 | [120343-kalamatic-adventure-with-words.json](./120343-kalamatic-adventure-with-words.json) |
+| Kalanoro | 398583 | [398583-kalanoro.json](./398583-kalanoro.json) |
 | Kalasta | 303608 | [303608-kalasta.json](./303608-kalasta.json) |
 | Kaleido Stella | 113745 | [113745-kaleido-stella.json](./113745-kaleido-stella.json) |
 | Kaleidoscope | 406303 | [406303-kaleidoscope.json](./406303-kaleidoscope.json) |
