@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Car Game | 373018 | [373018-untitled-car-game.json](./373018-untitled-car-game.json) |
 | Untitled Dragon Age Game | 130891 | [130891-untitled-dragon-age-game.json](./130891-untitled-dragon-age-game.json) |
 | Untitled Dungeons & Dragons Game | 291609 | [291609-untitled-dungeons-and-dragons-game.json](./291609-untitled-dungeons-and-dragons-game.json) |
+| Untitled Fallout Project | 410466 | [410466-untitled-fallout-project.json](./410466-untitled-fallout-project.json) |
 | Untitled Game | 180257 | [180257-untitled-game.json](./180257-untitled-game.json) |
 | Untitled Ghost Game | 222916 | [222916-untitled-ghost-game.json](./222916-untitled-ghost-game.json) |
 | Untitled God of War Live-Service Game | 386715 | [386715-untitled-god-of-war-live-service-game.json](./386715-untitled-god-of-war-live-service-game.json) |
