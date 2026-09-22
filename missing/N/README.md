@@ -1534,6 +1534,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Light | 33459 | [33459-night-light.json](./33459-night-light.json) |
 | Night Light: Nightmare | 156187 | [156187-night-light-nightmare.json](./156187-night-light-nightmare.json) |
 | Night Lights | 26698 | [26698-night-lights.json](./26698-night-lights.json) |
+| Night Lights | 409018 | [409018-night-lights.json](./409018-night-lights.json) |
+| Night Lights: After Dark | 409019 | [409019-night-lights-after-dark.json](./409019-night-lights-after-dark.json) |
 | Night Magic | 109747 | [109747-night-magic.json](./109747-night-magic.json) |
 | Night Mission Pinball | 25138 | [25138-night-mission-pinball.json](./25138-night-mission-pinball.json) |
 | Night Monsters | 157554 | [157554-night-monsters.json](./157554-night-monsters.json) |
@@ -2326,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nora: In Search of Hidden Ingredients | 306334 | [306334-nora-in-search-of-hidden-ingredients.json](./306334-nora-in-search-of-hidden-ingredients.json) |
 | Nora's Dream | 200732 | [200732-noras-dream.json](./200732-noras-dream.json) |
 | Noragami Aragoto | 174843 | [174843-noragami-aragoto.json](./174843-noragami-aragoto.json) |
+| Nordic Ashes: Survivors of Ragnarok - Twilight of Yggdrasil | 409034 | [409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json](./409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json) |
 | Nordicandia | 144947 | [144947-nordicandia.json](./144947-nordicandia.json) |
 | Nordlicht | 119776 | [119776-nordlicht.json](./119776-nordlicht.json) |
 | Nords: Heroes of the North | 23655 | [23655-nords-heroes-of-the-north.json](./23655-nords-heroes-of-the-north.json) |
@@ -2400,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostradamus | 40257 | [40257-nostradamus.json](./40257-nostradamus.json) |
 | Nostradamus - The Four Horsemen of the Apocalypse | 83508 | [83508-nostradamus-the-four-horsemen-of-the-apocalypse.json](./83508-nostradamus-the-four-horsemen-of-the-apocalypse.json) |
 | Nostradamus no Daiyogen | 385708 | [385708-nostradamus-no-daiyogen.json](./385708-nostradamus-no-daiyogen.json) |
+| NoStranger | 409039 | [409039-nostranger.json](./409039-nostranger.json) |
 | Nostromo's Run | 274197 | [274197-nostromos-run.json](./274197-nostromos-run.json) |
 | Nosy | 205112 | [205112-nosy.json](./205112-nosy.json) |
 | Not 4 Usual Games | 182912 | [182912-not-4-usual-games.json](./182912-not-4-usual-games.json) |
