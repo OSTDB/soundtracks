@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Efemeris | 234204 | [234204-efemeris.json](./234204-efemeris.json) |
 | Effacer: Hangman from the 25th Century | 45932 | [45932-effacer-hangman-from-the-25th-century.json](./45932-effacer-hangman-from-the-25th-century.json) |
 | Effective Immediately | 310180 | [310180-effective-immediately.json](./310180-effective-immediately.json) |
+| Effeminate Touch | 396543 | [396543-effeminate-touch.json](./396543-effeminate-touch.json) |
 | Efficus: Kono Omoi wo Kimi ni... | 339910 | [339910-efficus-kono-omoi-wo-kimi-ni.json](./339910-efficus-kono-omoi-wo-kimi-ni.json) |
 | Effie: Galand's Edition | 155147 | [155147-effie-galands-edition.json](./155147-effie-galands-edition.json) |
 | Effigy | 218715 | [218715-effigy.json](./218715-effigy.json) |
