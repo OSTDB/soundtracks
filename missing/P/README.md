@@ -2494,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinono and the Magic Fiddle | 355101 | [355101-pinono-and-the-magic-fiddle.json](./355101-pinono-and-the-magic-fiddle.json) |
 | Pinpoint | 321116 | [321116-pinpoint.json](./321116-pinpoint.json) |
 | Pinstripe | 20454 | [20454-pinstripe.json](./20454-pinstripe.json) |
+| Pintando com Senninha | 408277 | [408277-pintando-com-senninha.json](./408277-pintando-com-senninha.json) |
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
 | Pintern | 353377 | [353377-pintern.json](./353377-pintern.json) |
 | Pinto | 326968 | [326968-pinto.json](./326968-pinto.json) |
@@ -4832,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Empire Tycoon: Idle Game | 231907 | [231907-prison-empire-tycoon-idle-game.json](./231907-prison-empire-tycoon-idle-game.json) |
 | Prison Escape io | 347147 | [347147-prison-escape-io.json](./347147-prison-escape-io.json) |
 | Prison Escape Puzzle | 100151 | [100151-prison-escape-puzzle.json](./100151-prison-escape-puzzle.json) |
+| Prison Fighters | 408286 | [408286-prison-fighters.json](./408286-prison-fighters.json) |
 | Prison Fights Simulator | 310168 | [310168-prison-fights-simulator.json](./310168-prison-fights-simulator.json) |
 | Prison Forever | 128016 | [128016-prison-forever.json](./128016-prison-forever.json) |
 | Prison Gambit | 411031 | [411031-prison-gambit.json](./411031-prison-gambit.json) |
@@ -5534,6 +5536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
 | Psychic Storm | 280322 | [280322-psychic-storm.json](./280322-psychic-storm.json) |
 | Psycho | 179574 | [179574-psycho.json](./179574-psycho.json) |
+| Psycho Casket | 408287 | [408287-psycho-casket.json](./408287-psycho-casket.json) |
 | Psycho Dream | 42420 | [42420-psycho-dream.json](./42420-psycho-dream.json) |
 | Psycho Fear | 239734 | [239734-psycho-fear.json](./239734-psycho-fear.json) |
 | Psycho Pigs | 59949 | [59949-psycho-pigs.json](./59949-psycho-pigs.json) |
@@ -5734,6 +5737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pup Boy Cowboy: Infinite Desert Edition | 410443 | [410443-pup-boy-cowboy-infinite-desert-edition.json](./410443-pup-boy-cowboy-infinite-desert-edition.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
 | Pupil: Wandering VR | 117834 | [117834-pupil-wandering-vr.json](./117834-pupil-wandering-vr.json) |
+| Pupillary | 408296 | [408296-pupillary.json](./408296-pupillary.json) |
 | Puppers Delivers | 183430 | [183430-puppers-delivers.json](./183430-puppers-delivers.json) |
 | Puppet Fever | 72321 | [72321-puppet-fever.json](./72321-puppet-fever.json) |
 | Puppet Kings | 82853 | [82853-puppet-kings.json](./82853-puppet-kings.json) |
