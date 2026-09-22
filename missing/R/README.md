@@ -2700,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riot Control | 269119 | [269119-riot-control.json](./269119-riot-control.json) |
 | Riot of Willy | 266807 | [266807-riot-of-willy.json](./266807-riot-of-willy.json) |
 | Riot Operator | 156120 | [156120-riot-operator.json](./156120-riot-operator.json) |
+| Riot Riders | 414548 | [414548-riot-riders.json](./414548-riot-riders.json) |
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
 | RIP 2: Strike Back | 28922 | [28922-rip-2-strike-back.json](./28922-rip-2-strike-back.json) |
 | RIP 3: The Last Hero | 28923 | [28923-rip-3-the-last-hero.json](./28923-rip-3-the-last-hero.json) |
