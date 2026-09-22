@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peepers Paradise | 341586 | [341586-peepers-paradise.json](./341586-peepers-paradise.json) |
 | Peer Gynt the Game | 126586 | [126586-peer-gynt-the-game.json](./126586-peer-gynt-the-game.json) |
 | Peer to Peer | 306646 | [306646-peer-to-peer.json](./306646-peer-to-peer.json) |
+| Peerless Beauty Detective: Alice | 406885 | [406885-peerless-beauty-detective-alice.json](./406885-peerless-beauty-detective-alice.json) |
 | Peerless Destiny | 294995 | [294995-peerless-destiny.json](./294995-peerless-destiny.json) |
 | PeeTee Babybuu | 103197 | [103197-peetee-babybuu.json](./103197-peetee-babybuu.json) |
 | PeeWee Purpdrank's Foenem Clicker | 403014 | [403014-peewee-purpdranks-foenem-clicker.json](./403014-peewee-purpdranks-foenem-clicker.json) |
@@ -2493,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinochle Plus | 105937 | [105937-pinochle-plus.json](./105937-pinochle-plus.json) |
 | Pinono and the Magic Fiddle | 355101 | [355101-pinono-and-the-magic-fiddle.json](./355101-pinono-and-the-magic-fiddle.json) |
 | Pinpoint | 321116 | [321116-pinpoint.json](./321116-pinpoint.json) |
+| PinRogue | 406935 | [406935-pinrogue.json](./406935-pinrogue.json) |
 | Pinstripe | 20454 | [20454-pinstripe.json](./20454-pinstripe.json) |
 | Pintando com Senninha | 408277 | [408277-pintando-com-senninha.json](./408277-pintando-com-senninha.json) |
 | Pintar | 330529 | [330529-pintar.json](./330529-pintar.json) |
@@ -2557,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Hunter | 62695 | [62695-pirate-hunter.json](./62695-pirate-hunter.json) |
 | Pirate Hunter: Somali Trap | 309850 | [309850-pirate-hunter-somali-trap.json](./309850-pirate-hunter-somali-trap.json) |
 | Pirate Island | 172097 | [172097-pirate-island.json](./172097-pirate-island.json) |
+| Pirate Island | 406902 | [406902-pirate-island.json](./406902-pirate-island.json) |
 | Pirate Island Survival Simulator 3D | 351038 | [351038-pirate-island-survival-simulator-3d.json](./351038-pirate-island-survival-simulator-3d.json) |
 | Pirate Jam: Space DLC | 280331 | [280331-pirate-jam-space-dlc.json](./280331-pirate-jam-space-dlc.json) |
 | Pirate Jigsaw | 156095 | [156095-pirate-jigsaw.json](./156095-pirate-jigsaw.json) |
@@ -3385,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pneumatic Ball | 288360 | [288360-pneumatic-ball.json](./288360-pneumatic-ball.json) |
 | Pnevmo-Capsula | 220345 | [220345-pnevmo-capsula.json](./220345-pnevmo-capsula.json) |
 | Pnickies | 40262 | [40262-pnickies.json](./40262-pnickies.json) |
+| PNR: Point of No return | 406904 | [406904-pnr-point-of-no-return.json](./406904-pnr-point-of-no-return.json) |
 | Po-Go-No! | 257111 | [257111-po-go-no.json](./257111-po-go-no.json) |
 | PO'ed: Definitive Edition | 294706 | [294706-poed-definitive-edition.json](./294706-poed-definitive-edition.json) |
 | Poached : Hunt The Hunter | 163965 | [163965-poached-hunt-the-hunter.json](./163965-poached-hunt-the-hunter.json) |
@@ -4395,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power of Slide | 149041 | [149041-power-of-slide.json](./149041-power-of-slide.json) |
 | Power of the Horde | 361807 | [361807-power-of-the-horde.json](./361807-power-of-the-horde.json) |
 | Power of The Void | 74364 | [74364-power-of-the-void.json](./74364-power-of-the-void.json) |
+| Power Off | 406913 | [406913-power-off.json](./406913-power-off.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
 | Power Pete | 47272 | [47272-power-pete.json](./47272-power-pete.json) |
 | Power Pets | 398471 | [398471-power-pets.json](./398471-power-pets.json) |
@@ -4619,6 +4624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
 | Pretty Bird 2 | 216309 | [216309-pretty-bird-2.json](./216309-pretty-bird-2.json) |
 | Pretty Chaser | 269601 | [269601-pretty-chaser.json](./269601-pretty-chaser.json) |
+| Pretty Girl Ukiyo-e Artist Hoku | 406942 | [406942-pretty-girl-ukiyo-e-artist-hoku.json](./406942-pretty-girl-ukiyo-e-artist-hoku.json) |
 | Pretty Girls 2048 Strike | 227923 | [227923-pretty-girls-2048-strike.json](./227923-pretty-girls-2048-strike.json) |
 | Pretty Girls and Dark Witch. A simple story | 173816 | [173816-pretty-girls-and-dark-witch-a-simple-story.json](./173816-pretty-girls-and-dark-witch-a-simple-story.json) |
 | Pretty Girls Breakers! Plus | 237362 | [237362-pretty-girls-breakers-plus.json](./237362-pretty-girls-breakers-plus.json) |
