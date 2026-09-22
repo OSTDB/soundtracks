@@ -3050,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digs03 | 271303 | [271303-digs03.json](./271303-digs03.json) |
 | Digscovery | 249791 | [249791-digscovery.json](./249791-digscovery.json) |
 | Digseum | 325317 | [325317-digseum.json](./325317-digseum.json) |
+| DigWorld | 404408 | [404408-digworld.json](./404408-digworld.json) |
 | Dik Journey | 310920 | [310920-dik-journey.json](./310920-dik-journey.json) |
 | Dikembe Mutombo's 4 1/2 Weeks to Save the World | 79618 | [79618-dikembe-mutombos-4-1-2-weeks-to-save-the-world.json](./79618-dikembe-mutombos-4-1-2-weeks-to-save-the-world.json) |
 | Dilarara!! | 82876 | [82876-dilarara.json](./82876-dilarara.json) |
@@ -4692,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DPS Idle 2 | 253970 | [253970-dps-idle-2.json](./253970-dps-idle-2.json) |
 | DQ Girls Colosseum | 97699 | [97699-dq-girls-colosseum.json](./97699-dq-girls-colosseum.json) |
 | DQ Tycoon | 94000 | [94000-dq-tycoon.json](./94000-dq-tycoon.json) |
+| Dr Jugo | 404446 | [404446-dr-jugo.json](./404446-dr-jugo.json) |
 | Dr Livesey Rom and Death Edition | 224897 | [224897-dr-livesey-rom-and-death-edition.json](./224897-dr-livesey-rom-and-death-edition.json) |
 | Dr Livingstone, I Presume? | 148338 | [148338-dr-livingstone-i-presume.json](./148338-dr-livingstone-i-presume.json) |
 | Dr Livingstone, I Presume?: Digital Deluxe Edition | 167178 | [167178-dr-livingstone-i-presume-digital-deluxe-edition.json](./167178-dr-livingstone-i-presume-digital-deluxe-edition.json) |
