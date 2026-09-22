@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jockey's Road | 62228 | [62228-jockeys-road.json](./62228-jockeys-road.json) |
 | Jocky Wilson's Compendium of Darts | 45352 | [45352-jocky-wilsons-compendium-of-darts.json](./45352-jocky-wilsons-compendium-of-darts.json) |
 | Joe & Mac | 213880 | [213880-joe-and-mac.json](./213880-joe-and-mac.json) |
+| Joe & Mac | 48134 | [48134-joe-and-mac.json](./48134-joe-and-mac.json) |
 | Joe & Mac: Caveman Ninja HD Remake | 83906 | [83906-joe-and-mac-caveman-ninja-hd-remake.json](./83906-joe-and-mac-caveman-ninja-hd-remake.json) |
 | Joe Biden For The PS2 2: Re-elected | 268202 | [268202-joe-biden-for-the-ps2-2-re-elected.json](./268202-joe-biden-for-the-ps2-2-re-elected.json) |
 | Joe Biden: Escape From MAGA | 263790 | [263790-joe-biden-escape-from-maga.json](./263790-joe-biden-escape-from-maga.json) |
@@ -1230,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Island Rescue and Escape | 294433 | [294433-jurassic-island-rescue-and-escape.json](./294433-jurassic-island-rescue-and-escape.json) |
 | Jurassic Island: The Dinosaur Zoo | 14745 | [14745-jurassic-island-the-dinosaur-zoo.json](./14745-jurassic-island-the-dinosaur-zoo.json) |
 | Jurassic Lab: Dinosarium DNA | 211780 | [211780-jurassic-lab-dinosarium-dna.json](./211780-jurassic-lab-dinosarium-dna.json) |
+| Jurassic Park | 134299 | [134299-jurassic-park.json](./134299-jurassic-park.json) |
 | Jurassic Park | 147274 | [147274-jurassic-park.json](./147274-jurassic-park.json) |
 | Jurassic Park | 15543 | [15543-jurassic-park.json](./15543-jurassic-park.json) |
 | Jurassic Park | 25880 | [25880-jurassic-park.json](./25880-jurassic-park.json) |
