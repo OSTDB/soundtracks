@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juicy Ass | 264114 | [264114-juicy-ass.json](./264114-juicy-ass.json) |
 | Juicy Blast | 346158 | [346158-juicy-blast.json](./346158-juicy-blast.json) |
 | Juicy Theater | 133437 | [133437-juicy-theater.json](./133437-juicy-theater.json) |
+| Juju | 17393 | [17393-juju.json](./17393-juju.json) |
 | Jujubos | 170936 | [170936-jujubos.json](./170936-jujubos.json) |
 | JuJuJu Club: Potsunen | 255353 | [255353-jujuju-club-potsunen.json](./255353-jujuju-club-potsunen.json) |
 | Jujutsu Kaisen: Cursed Clash - Deluxe Edition | 276324 | [276324-jujutsu-kaisen-cursed-clash-deluxe-edition.json](./276324-jujutsu-kaisen-cursed-clash-deluxe-edition.json) |
