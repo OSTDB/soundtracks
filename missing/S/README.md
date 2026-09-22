@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sail Forth | 115491 | [115491-sail-forth.json](./115491-sail-forth.json) |
 | Sail Simulator 4 | 143740 | [143740-sail-simulator-4.json](./143740-sail-simulator-4.json) |
 | Sail Simulator 5 | 63818 | [63818-sail-simulator-5.json](./63818-sail-simulator-5.json) |
+| Sailaway | 28200 | [28200-sailaway.json](./28200-sailaway.json) |
 | SailCraft | 233109 | [233109-sailcraft.json](./233109-sailcraft.json) |
 | Sailing | 38928 | [38928-sailing.json](./38928-sailing.json) |
 | Sailing the Winds & New Tanks | 375160 | [375160-sailing-the-winds-and-new-tanks.json](./375160-sailing-the-winds-and-new-tanks.json) |
@@ -1679,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeking Adventure | 331970 | [331970-seeking-adventure.json](./331970-seeking-adventure.json) |
 | Seeking Asylum: The Game | 390522 | [390522-seeking-asylum-the-game.json](./390522-seeking-asylum-the-game.json) |
 | Seeking Ataraxia | 59690 | [59690-seeking-ataraxia.json](./59690-seeking-ataraxia.json) |
+| Seeking Evil: The Wendigo | 28148 | [28148-seeking-evil-the-wendigo.json](./28148-seeking-evil-the-wendigo.json) |
 | Seeking for Puppies | 359415 | [359415-seeking-for-puppies.json](./359415-seeking-for-puppies.json) |
 | Seeking Light | 210698 | [210698-seeking-light.json](./210698-seeking-light.json) |
 | Seeking Revenge | 158225 | [158225-seeking-revenge.json](./158225-seeking-revenge.json) |
@@ -1863,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senior Sunset | 384060 | [384060-senior-sunset.json](./384060-senior-sunset.json) |
 | Senity: The Game | 116329 | [116329-senity-the-game.json](./116329-senity-the-game.json) |
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
+| Senko no Ronde 2 | 29137 | [29137-senko-no-ronde-2.json](./29137-senko-no-ronde-2.json) |
 | Senko no Ronde 2: Limited Edition | 212315 | [212315-senko-no-ronde-2-limited-edition.json](./212315-senko-no-ronde-2-limited-edition.json) |
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
 | Senli 307 | 224618 | [224618-senli-307.json](./224618-senli-307.json) |
@@ -7292,6 +7295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellslinger | 264623 | [264623-spellslinger.json](./264623-spellslinger.json) |
 | Spellsouls - Duel of Legends | 26908 | [26908-spellsouls-duel-of-legends.json](./26908-spellsouls-duel-of-legends.json) |
 | Spellsword | 259262 | [259262-spellsword.json](./259262-spellsword.json) |
+| Spellsworn | 26573 | [26573-spellsworn.json](./26573-spellsworn.json) |
 | SpellTower+ | 136455 | [136455-spelltower.json](./136455-spelltower.json) |
 | SpellUp | 233102 | [233102-spellup.json](./233102-spellup.json) |
 | Spellweaver | 18010 | [18010-spellweaver.json](./18010-spellweaver.json) |
@@ -7325,6 +7329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere: Flying Cities - Save the World Edition | 186905 | [186905-sphere-flying-cities-save-the-world-edition.json](./186905-sphere-flying-cities-save-the-world-edition.json) |
 | Sphere: The Knight of Elf | 191096 | [191096-sphere-the-knight-of-elf.json](./191096-sphere-the-knight-of-elf.json) |
 | Spherecraft | 118387 | [118387-spherecraft.json](./118387-spherecraft.json) |
+| SphereFace | 28749 | [28749-sphereface.json](./28749-sphereface.json) |
 | SphereKnight | 109484 | [109484-sphereknight.json](./109484-sphereknight.json) |
 | Sphereout | 250382 | [250382-sphereout.json](./250382-sphereout.json) |
 | Spheres Episode 1: Nalong | 145609 | [145609-spheres-episode-1-nalong.json](./145609-spheres-episode-1-nalong.json) |
@@ -7999,6 +8004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stability | 43171 | [43171-stability.json](./43171-stability.json) |
 | Stabjack | 353295 | [353295-stabjack.json](./353295-stabjack.json) |
 | Stable Masters | 206975 | [206975-stable-masters.json](./206975-stable-masters.json) |
+| Stable Orbit | 28547 | [28547-stable-orbit.json](./28547-stable-orbit.json) |
 | Stablemasters | 415897 | [415897-stablemasters.json](./415897-stablemasters.json) |
 | Stack | 34669 | [34669-stack.json](./34669-stack.json) |
 | Stack Jump | 87657 | [87657-stack-jump.json](./87657-stack-jump.json) |
@@ -8512,6 +8518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcraft: Stellar Forces | 135274 | [135274-starcraft-stellar-forces.json](./135274-starcraft-stellar-forces.json) |
 | StarCraft: Stratospace | 135273 | [135273-starcraft-stratospace.json](./135273-starcraft-stratospace.json) |
 | Starcrest Saga | 394368 | [394368-starcrest-saga.json](./394368-starcrest-saga.json) |
+| StarCrossed | 28770 | [28770-starcrossed.json](./28770-starcrossed.json) |
 | Starcult. Night: Twisted Age | 402990 | [402990-starcult-night-twisted-age.json](./402990-starcult-night-twisted-age.json) |
 | Stardeus | 139453 | [139453-stardeus.json](./139453-stardeus.json) |
 | Stardew Valley: Collector's Edition | 42895 | [42895-stardew-valley-collectors-edition.json](./42895-stardew-valley-collectors-edition.json) |
@@ -11990,6 +11997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Dreams on Christmas Eve | 334697 | [334697-sweet-dreams-on-christmas-eve.json](./334697-sweet-dreams-on-christmas-eve.json) |
 | Sweet Driver | 372484 | [372484-sweet-driver.json](./372484-sweet-driver.json) |
 | Sweet Ex | 392906 | [392906-sweet-ex.json](./392906-sweet-ex.json) |
+| Sweet fantasy | 29081 | [29081-sweet-fantasy.json](./29081-sweet-fantasy.json) |
 | Sweet Farm | 392907 | [392907-sweet-farm.json](./392907-sweet-farm.json) |
 | Sweet Fruitcake | 118974 | [118974-sweet-fruitcake.json](./118974-sweet-fruitcake.json) |
 | Sweet Fruits from the Magical Tree | 185104 | [185104-sweet-fruits-from-the-magical-tree.json](./185104-sweet-fruits-from-the-magical-tree.json) |
