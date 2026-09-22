@@ -4167,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Motor Racing X: Digital Deluxe Edition | 132167 | [132167-mini-motor-racing-x-digital-deluxe-edition.json](./132167-mini-motor-racing-x-digital-deluxe-edition.json) |
 | Mini Pipes | 195147 | [195147-mini-pipes.json](./195147-mini-pipes.json) |
 | Mini Puzzle Balls | 147784 | [147784-mini-puzzle-balls.json](./147784-mini-puzzle-balls.json) |
+| mini PVP | 118088 | [118088-mini-pvp.json](./118088-mini-pvp.json) |
 | Mini Quests | 207852 | [207852-mini-quests.json](./207852-mini-quests.json) |
 | Mini Racer Car Shop Simulator | 326386 | [326386-mini-racer-car-shop-simulator.json](./326386-mini-racer-car-shop-simulator.json) |
 | Mini Racing: Mini Cars Curling | 233755 | [233755-mini-racing-mini-cars-curling.json](./233755-mini-racing-mini-cars-curling.json) |
@@ -6407,6 +6408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museum of Extravagance | 169860 | [169860-museum-of-extravagance.json](./169860-museum-of-extravagance.json) |
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
 | Museum of Mechanics: Lockpicking | 139214 | [139214-museum-of-mechanics-lockpicking.json](./139214-museum-of-mechanics-lockpicking.json) |
+| Museum of Other Realities | 118168 | [118168-museum-of-other-realities.json](./118168-museum-of-other-realities.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
 | Museums of History | 339921 | [339921-museums-of-history.json](./339921-museums-of-history.json) |
 | Musgro Farm | 303098 | [303098-musgro-farm.json](./303098-musgro-farm.json) |
