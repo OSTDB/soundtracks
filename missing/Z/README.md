@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zarth | 45977 | [45977-zarth.json](./45977-zarth.json) |
 | Zarya | 290961 | [290961-zarya.json](./290961-zarya.json) |
 | Zarya and the Cursed Skull | 29229 | [29229-zarya-and-the-cursed-skull.json](./29229-zarya-and-the-cursed-skull.json) |
+| Zarya-1: Mystery on the Moon | 38792 | [38792-zarya-1-mystery-on-the-moon.json](./38792-zarya-1-mystery-on-the-moon.json) |
 | Zatch Bell! Mamodo Fury Update | 358308 | [358308-zatch-bell-mamodo-fury-update.json](./358308-zatch-bell-mamodo-fury-update.json) |
 | Zatsugaku Olympic Quiz Part II | 41419 | [41419-zatsugaku-olympic-quiz-part-ii.json](./41419-zatsugaku-olympic-quiz-part-ii.json) |
 | Zavix Tower | 25104 | [25104-zavix-tower.json](./25104-zavix-tower.json) |
@@ -626,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Around Us | 197319 | [197319-zombies-around-us.json](./197319-zombies-around-us.json) |
 | Zombies ate my dog | 192813 | [192813-zombies-ate-my-dog.json](./192813-zombies-ate-my-dog.json) |
 | Zombies Ate My Femboy | 355618 | [355618-zombies-ate-my-femboy.json](./355618-zombies-ate-my-femboy.json) |
+| Zombies Ate My Friends | 38884 | [38884-zombies-ate-my-friends.json](./38884-zombies-ate-my-friends.json) |
 | Zombies Beyond Me | 166718 | [166718-zombies-beyond-me.json](./166718-zombies-beyond-me.json) |
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
 | Zombies in City: Apocalypse Survival | 215115 | [215115-zombies-in-city-apocalypse-survival.json](./215115-zombies-in-city-apocalypse-survival.json) |
