@@ -1140,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead In Vinland: The Vallhund | 114431 | [114431-dead-in-vinland-the-vallhund.json](./114431-dead-in-vinland-the-vallhund.json) |
 | Dead in Your TrackZ | 358913 | [358913-dead-in-your-trackz.json](./358913-dead-in-your-trackz.json) |
 | Dead Inside | 377576 | [377576-dead-inside.json](./377576-dead-inside.json) |
+| Dead Island 2: SoLA | 298542 | [298542-dead-island-2-sola.json](./298542-dead-island-2-sola.json) |
 | Dead Island: Bloodbath Arena | 22932 | [22932-dead-island-bloodbath-arena.json](./22932-dead-island-bloodbath-arena.json) |
 | Dead Island: Game of the Year Edition | 47400 | [47400-dead-island-game-of-the-year-edition.json](./47400-dead-island-game-of-the-year-edition.json) |
 | Dead Lab | 223661 | [223661-dead-lab.json](./223661-dead-lab.json) |
@@ -1987,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demand Dial Exorcist | 366888 | [366888-demand-dial-exorcist.json](./366888-demand-dial-exorcist.json) |
 | Demencia | 202352 | [202352-demencia.json](./202352-demencia.json) |
 | Dementia | 184583 | [184583-dementia.json](./184583-dementia.json) |
+| Dementium II HD | 5837 | [5837-dementium-ii-hd.json](./5837-dementium-ii-hd.json) |
 | Demeo: PC Edition | 194737 | [194737-demeo-pc-edition.json](./194737-demeo-pc-edition.json) |
 | Demetrios: The Big Cynical Adventure - Replastered | 194005 | [194005-demetrios-the-big-cynical-adventure-replastered.json](./194005-demetrios-the-big-cynical-adventure-replastered.json) |
 | Demetrios: The Big Cynical Adventure & Xenon Valkyrie+ | 145053 | [145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json](./145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json) |
@@ -4380,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorman's Attraction: Upgraded & Advanced | 396897 | [396897-dormans-attraction-upgraded-and-advanced.json](./396897-dormans-attraction-upgraded-and-advanced.json) |
 | Dormant | 313496 | [313496-dormant.json](./313496-dormant.json) |
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
+| Doronko Wanko | 290647 | [290647-doronko-wanko.json](./290647-doronko-wanko.json) |
 | Dororo: Jigoku Emaki no Shou | 353899 | [353899-dororo-jigoku-emaki-no-shou.json](./353899-dororo-jigoku-emaki-no-shou.json) |
 | Dorotea | 372576 | [372576-dorotea.json](./372576-dorotea.json) |
 | Dorothy's Job | 368016 | [368016-dorothys-job.json](./368016-dorothys-job.json) |
@@ -6104,6 +6107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk Park | 400854 | [400854-dusk-park.json](./400854-dusk-park.json) |
 | Dusk Pub | 224771 | [224771-dusk-pub.json](./224771-dusk-pub.json) |
 | Duskbound | 258197 | [258197-duskbound.json](./258197-duskbound.json) |
+| Duskfade | 310665 | [310665-duskfade.json](./310665-duskfade.json) |
 | Duskfall | 316260 | [316260-duskfall.json](./316260-duskfall.json) |
 | Dusklight | 401002 | [401002-dusklight.json](./401002-dusklight.json) |
 | Dusklight Manor | 255096 | [255096-dusklight-manor.json](./255096-dusklight-manor.json) |
