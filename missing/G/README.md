@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate of Doom | 46847 | [46847-gate-of-doom.json](./46847-gate-of-doom.json) |
 | Gate of Mobius | 200751 | [200751-gate-of-mobius.json](./200751-gate-of-mobius.json) |
 | Gate of Providence | 181925 | [181925-gate-of-providence.json](./181925-gate-of-providence.json) |
+| Gate to Die | 412500 | [412500-gate-to-die.json](./412500-gate-to-die.json) |
 | Gate World | 46649 | [46649-gate-world.json](./46649-gate-world.json) |
 | Gate2up | 377089 | [377089-gate2up.json](./377089-gate2up.json) |
 | Gatecrasher | 207840 | [207840-gatecrasher.json](./207840-gatecrasher.json) |
