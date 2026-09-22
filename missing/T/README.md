@@ -1658,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrene: An Evidence of Life Game | 169429 | [169429-terrene-an-evidence-of-life-game.json](./169429-terrene-an-evidence-of-life-game.json) |
 | Terrestial | 250929 | [250929-terrestial.json](./250929-terrestial.json) |
 | Terrestrial | 311826 | [311826-terrestrial.json](./311826-terrestrial.json) |
+| Terrible Beast from the East | 111602 | [111602-terrible-beast-from-the-east.json](./111602-terrible-beast-from-the-east.json) |
 | Terrible Clicking Game | 215391 | [215391-terrible-clicking-game.json](./215391-terrible-clicking-game.json) |
 | Terrible Teeth | 167156 | [167156-terrible-teeth.json](./167156-terrible-teeth.json) |
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
@@ -3233,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Expanse: A Telltale Series | 185239 | [185239-the-expanse-a-telltale-series.json](./185239-the-expanse-a-telltale-series.json) |
 | The Expendabros | 9786 | [9786-the-expendabros.json](./9786-the-expendabros.json) |
 | The Experiment | 255699 | [255699-the-experiment.json](./255699-the-experiment.json) |
+| The Experiment: Escape Room | 111875 | [111875-the-experiment-escape-room.json](./111875-the-experiment-escape-room.json) |
 | The Experimental Turnabout | 308421 | [308421-the-experimental-turnabout.json](./308421-the-experimental-turnabout.json) |
 | The Explorers | 177416 | [177416-the-explorers.json](./177416-the-explorers.json) |
 | The Eye | 141836 | [141836-the-eye.json](./141836-the-eye.json) |
@@ -3537,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost Cage | 173273 | [173273-the-ghost-cage.json](./173273-the-ghost-cage.json) |
 | The Ghost of Paris | 187974 | [187974-the-ghost-of-paris.json](./187974-the-ghost-of-paris.json) |
 | The Ghost of Us | 313880 | [313880-the-ghost-of-us.json](./313880-the-ghost-of-us.json) |
+| The Ghost Ship | 111662 | [111662-the-ghost-ship.json](./111662-the-ghost-ship.json) |
 | The Ghost Town Adventure | 108284 | [108284-the-ghost-town-adventure.json](./108284-the-ghost-town-adventure.json) |
 | The Ghosts of Hackney Mills | 74985 | [74985-the-ghosts-of-hackney-mills.json](./74985-the-ghosts-of-hackney-mills.json) |
 | The Ghosts Race | 214186 | [214186-the-ghosts-race.json](./214186-the-ghosts-race.json) |
@@ -4660,6 +4663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Kingdom Prophecy | 200581 | [200581-the-lost-kingdom-prophecy.json](./200581-the-lost-kingdom-prophecy.json) |
 | The Lost Labyrinth | 166712 | [166712-the-lost-labyrinth.json](./166712-the-lost-labyrinth.json) |
 | The Lost Land of Bahía Blanca | 406792 | [406792-the-lost-land-of-bahia-blanca.json](./406792-the-lost-land-of-bahia-blanca.json) |
+| The Lost Legends of Redwall: Escape the Gloomer | 111724 | [111724-the-lost-legends-of-redwall-escape-the-gloomer.json](./111724-the-lost-legends-of-redwall-escape-the-gloomer.json) |
 | The Lost Legends of Redwall: Feasts & Friends | 280511 | [280511-the-lost-legends-of-redwall-feasts-and-friends.json](./280511-the-lost-legends-of-redwall-feasts-and-friends.json) |
 | The Lost Legends of Redwall: The Scout - Act 3 | 171612 | [171612-the-lost-legends-of-redwall-the-scout-act-3.json](./171612-the-lost-legends-of-redwall-the-scout-act-3.json) |
 | The Lost Legends of Redwall: The Scout Anthology | 287035 | [287035-the-lost-legends-of-redwall-the-scout-anthology.json](./287035-the-lost-legends-of-redwall-the-scout-anthology.json) |
@@ -6225,6 +6229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of Beatrice | 90417 | [90417-the-tower-of-beatrice.json](./90417-the-tower-of-beatrice.json) |
 | The Tower of Druaga | 239167 | [239167-the-tower-of-druaga.json](./239167-the-tower-of-druaga.json) |
 | The Tower of Eden | 346153 | [346153-the-tower-of-eden.json](./346153-the-tower-of-eden.json) |
+| The Tower of Five Hearts | 111402 | [111402-the-tower-of-five-hearts.json](./111402-the-tower-of-five-hearts.json) |
 | The Tower of Shadows | 347232 | [347232-the-tower-of-shadows.json](./347232-the-tower-of-shadows.json) |
 | The Tower of the Spells | 257456 | [257456-the-tower-of-the-spells.json](./257456-the-tower-of-the-spells.json) |
 | The Tower of TigerQiuQiu 2: 1942-J20 | 157690 | [157690-the-tower-of-tigerqiuqiu-2-1942-j20.json](./157690-the-tower-of-tigerqiuqiu-2-1942-j20.json) |
@@ -7995,6 +8000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Jump VR | 149589 | [149589-timber-jump-vr.json](./149589-timber-jump-vr.json) |
 | Timber Slash | 108473 | [108473-timber-slash.json](./108473-timber-slash.json) |
 | Timber Tales | 291443 | [291443-timber-tales.json](./291443-timber-tales.json) |
+| Timber Tennis: Versus | 111463 | [111463-timber-tennis-versus.json](./111463-timber-tennis-versus.json) |
 | Timberborn | 126381 | [126381-timberborn.json](./126381-timberborn.json) |
 | Timberdoku | 300840 | [300840-timberdoku.json](./300840-timberdoku.json) |
 | Timberholt | 388253 | [388253-timberholt.json](./388253-timberholt.json) |
@@ -8143,6 +8149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timmy's adventures : VerbMon | 123550 | [123550-timmys-adventures-verbmon.json](./123550-timmys-adventures-verbmon.json) |
 | Timo's Adventures | 143708 | [143708-timos-adventures.json](./143708-timos-adventures.json) |
 | Timore | 159172 | [159172-timore.json](./159172-timore.json) |
+| Timore 6 | 111636 | [111636-timore-6.json](./111636-timore-6.json) |
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
 | Timothy and the Tower of Mu | 169876 | [169876-timothy-and-the-tower-of-mu.json](./169876-timothy-and-the-tower-of-mu.json) |
 | Timothy: Shinpi no Mori | 189132 | [189132-timothy-shinpi-no-mori.json](./189132-timothy-shinpi-no-mori.json) |
@@ -8520,6 +8527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
 | Toilet paper wants to be a basketball | 152735 | [152735-toilet-paper-wants-to-be-a-basketball.json](./152735-toilet-paper-wants-to-be-a-basketball.json) |
 | Toilet Run | 110488 | [110488-toilet-run.json](./110488-toilet-run.json) |
+| Toilet Simulator | 111715 | [111715-toilet-simulator.json](./111715-toilet-simulator.json) |
 | Toilet Zone | 304586 | [304586-toilet-zone.json](./304586-toilet-zone.json) |
 | Toilet Zone 2 | 337643 | [337643-toilet-zone-2.json](./337643-toilet-zone-2.json) |
 | ToiTony | 272277 | [272277-toitony.json](./272277-toitony.json) |
@@ -8771,6 +8779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Stalkers | 304371 | [304371-tomb-stalkers.json](./304371-tomb-stalkers.json) |
 | Tomb Towers | 99610 | [99610-tomb-towers.json](./99610-tomb-towers.json) |
 | Tomba! 2: The Evil Swine Return | 4100 | [4100-tomba-2-the-evil-swine-return.json](./4100-tomba-2-the-evil-swine-return.json) |
+| Tombeaux | 111426 | [111426-tombeaux.json](./111426-tombeaux.json) |
 | Tombed | 242820 | [242820-tombed.json](./242820-tombed.json) |
 | Tombers | 346656 | [346656-tombers.json](./346656-tombers.json) |
 | Tombo Breaker VR | 88254 | [88254-tombo-breaker-vr.json](./88254-tombo-breaker-vr.json) |
