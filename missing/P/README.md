@@ -2948,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plain Video Poker | 84814 | [84814-plain-video-poker.json](./84814-plain-video-poker.json) |
 | Plains of Havoc | 289306 | [289306-plains-of-havoc.json](./289306-plains-of-havoc.json) |
 | Plan B: Goddess's cards | 215700 | [215700-plan-b-goddesss-cards.json](./215700-plan-b-goddesss-cards.json) |
+| Planar Conquest | 33335 | [33335-planar-conquest.json](./33335-planar-conquest.json) |
 | Planarity | 246117 | [246117-planarity.json](./246117-planarity.json) |
 | Planck | 92468 | [92468-planck.json](./92468-planck.json) |
 | Plandzz | 51737 | [51737-plandzz.json](./51737-plandzz.json) |
@@ -3852,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Squad | 149076 | [149076-poly-squad.json](./149076-poly-squad.json) |
 | Poly Survivor | 270946 | [270946-poly-survivor.json](./270946-poly-survivor.json) |
 | Poly Tower | 347712 | [347712-poly-tower.json](./347712-poly-tower.json) |
+| Poly Towns | 33588 | [33588-poly-towns.json](./33588-poly-towns.json) |
 | Poly Truck | 406181 | [406181-poly-truck.json](./406181-poly-truck.json) |
 | Poly-Net Warriors | 222907 | [222907-poly-net-warriors.json](./222907-poly-net-warriors.json) |
 | Polyamorous Relationships | 179048 | [179048-polyamorous-relationships.json](./179048-polyamorous-relationships.json) |
@@ -5482,6 +5484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pteroglider | 93590 | [93590-pteroglider.json](./93590-pteroglider.json) |
 | Ptolem's Singing Catacombs | 374177 | [374177-ptolems-singing-catacombs.json](./374177-ptolems-singing-catacombs.json) |
 | PTS: Coach | 383395 | [383395-pts-coach.json](./383395-pts-coach.json) |
+| Pub Encounter | 33397 | [33397-pub-encounter.json](./33397-pub-encounter.json) |
 | Pub Fascination | 226735 | [226735-pub-fascination.json](./226735-pub-fascination.json) |
 | Pub Games | 399605 | [399605-pub-games.json](./399605-pub-games.json) |
 | Pub Mania | 325247 | [325247-pub-mania.json](./325247-pub-mania.json) |
@@ -5565,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse Phobia | 342133 | [342133-pulse-phobia.json](./342133-pulse-phobia.json) |
 | Pulse Racer | 6010 | [6010-pulse-racer.json](./6010-pulse-racer.json) |
 | Pulse Warrior | 72376 | [72376-pulse-warrior.json](./72376-pulse-warrior.json) |
+| PulseCharge | 33610 | [33610-pulsecharge.json](./33610-pulsecharge.json) |
 | PulseChaser | 112320 | [112320-pulsechaser.json](./112320-pulsechaser.json) |
 | Pulseman | 45760 | [45760-pulseman.json](./45760-pulseman.json) |
 | Pulseman Amabilis | 215241 | [215241-pulseman-amabilis.json](./215241-pulseman-amabilis.json) |
