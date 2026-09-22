@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War For the Seas | 194454 | [194454-war-for-the-seas.json](./194454-war-for-the-seas.json) |
 | War General: Multiplayer Rank | 254172 | [254172-war-general-multiplayer-rank.json](./254172-war-general-multiplayer-rank.json) |
 | War Ghost | 121695 | [121695-war-ghost.json](./121695-war-ghost.json) |
+| War Gods | 3628 | [3628-war-gods.json](./3628-war-gods.json) |
 | War Identity | 139454 | [139454-war-identity.json](./139454-war-identity.json) |
 | War In Heaven | 216487 | [216487-war-in-heaven.json](./216487-war-in-heaven.json) |
 | War in Russia | 24916 | [24916-war-in-russia.json](./24916-war-in-russia.json) |
@@ -2193,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WiZmans World | 67669 | [67669-wizmans-world.json](./67669-wizmans-world.json) |
 | WiZmans World ReTry | 265641 | [265641-wizmans-world-retry.json](./265641-wizmans-world-retry.json) |
 | WizMo's Workshop: Dragons of Frozzbokk | 94577 | [94577-wizmos-workshop-dragons-of-frozzbokk.json](./94577-wizmos-workshop-dragons-of-frozzbokk.json) |
+| Wizordum | 216197 | [216197-wizordum.json](./216197-wizordum.json) |
 | WizUp! | 290917 | [290917-wizup.json](./290917-wizup.json) |
 | Wizwag | 304014 | [304014-wizwag.json](./304014-wizwag.json) |
 | WizzBall | 81221 | [81221-wizzball.json](./81221-wizzball.json) |
