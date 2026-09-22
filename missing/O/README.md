@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Love Affair | 157708 | [157708-office-love-affair.json](./157708-office-love-affair.json) |
 | Office Madness 2: Corporation | 200026 | [200026-office-madness-2-corporation.json](./200026-office-madness-2-corporation.json) |
 | Office Management 101 | 60585 | [60585-office-management-101.json](./60585-office-management-101.json) |
+| Office Manager | 403785 | [403785-office-manager.json](./403785-office-manager.json) |
 | Office Nightmare: Chapter 1 | 275131 | [275131-office-nightmare-chapter-1.json](./275131-office-nightmare-chapter-1.json) |
 | Office Novice | 180851 | [180851-office-novice.json](./180851-office-novice.json) |
 | Office Overloaded | 317580 | [317580-office-overloaded.json](./317580-office-overloaded.json) |
@@ -381,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Jellies! | 398442 | [398442-oh-jellies.json](./398442-oh-jellies.json) |
 | Oh My Cod!!: We Mer-Made For Each Other! | 302119 | [302119-oh-my-cod-we-mer-made-for-each-other.json](./302119-oh-my-cod-we-mer-made-for-each-other.json) |
 | Oh My Dog | 362890 | [362890-oh-my-dog.json](./362890-oh-my-dog.json) |
+| Oh My Doug! | 403816 | [403816-oh-my-doug.json](./403816-oh-my-doug.json) |
 | Oh My Goat | 51172 | [51172-oh-my-goat.json](./51172-oh-my-goat.json) |
 | Oh My God, Look At This Knight | 76640 | [76640-oh-my-god-look-at-this-knight.json](./76640-oh-my-god-look-at-this-knight.json) |
 | Oh My God! | 64130 | [64130-oh-my-god.json](./64130-oh-my-god.json) |
