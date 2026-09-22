@@ -1342,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataline | 209710 | [209710-cataline.json](./209710-cataline.json) |
 | Catalyst | 114333 | [114333-catalyst.json](./114333-catalyst.json) |
 | Catalyst | 352260 | [352260-catalyst.json](./352260-catalyst.json) |
+| Catalyst of Quoralis | 417643 | [417643-catalyst-of-quoralis.json](./417643-catalyst-of-quoralis.json) |
 | Catan | 175914 | [175914-catan.json](./175914-catan.json) |
 | Catan | 19435 | [19435-catan.json](./19435-catan.json) |
 | Catan | 196701 | [196701-catan.json](./196701-catan.json) |
@@ -1590,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavesweeper | 103816 | [103816-cavesweeper.json](./103816-cavesweeper.json) |
 | Caveworks | 383522 | [383522-caveworks.json](./383522-caveworks.json) |
 | Cavy Chronicles | 281984 | [281984-cavy-chronicles.json](./281984-cavy-chronicles.json) |
+| Cawcaknight | 417695 | [417695-cawcaknight.json](./417695-cawcaknight.json) |
 | Caxy Gambá Encontra o Monstruário | 257103 | [257103-caxy-gamba-encontra-o-monstruario.json](./257103-caxy-gamba-encontra-o-monstruario.json) |
 | Cazzarion: Astro Bouncer | 290418 | [290418-cazzarion-astro-bouncer.json](./290418-cazzarion-astro-bouncer.json) |
 | Cazzarion: Builder | 335961 | [335961-cazzarion-builder.json](./335961-cazzarion-builder.json) |
@@ -2790,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChronoBlade | 63877 | [63877-chronoblade.json](./63877-chronoblade.json) |
 | ChronoBreach | 117045 | [117045-chronobreach.json](./117045-chronobreach.json) |
 | Chronoclasm | 338810 | [338810-chronoclasm.json](./338810-chronoclasm.json) |
+| Chronoclasm Chronicles | 417652 | [417652-chronoclasm-chronicles.json](./417652-chronoclasm-chronicles.json) |
 | ChronoClone | 301280 | [301280-chronoclone.json](./301280-chronoclone.json) |
 | ChronoCodex | 237053 | [237053-chronocodex.json](./237053-chronocodex.json) |
 | Chronodog: Earth Defender | 185067 | [185067-chronodog-earth-defender.json](./185067-chronodog-earth-defender.json) |
@@ -3091,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Steam | 63546 | [63546-city-of-steam.json](./63546-city-of-steam.json) |
 | City of Stolen Worlds | 319210 | [319210-city-of-stolen-worlds.json](./319210-city-of-stolen-worlds.json) |
 | City of Stories: Stephan's Journey - Collector's Edition | 362835 | [362835-city-of-stories-stephans-journey-collectors-edition.json](./362835-city-of-stories-stephans-journey-collectors-edition.json) |
+| City of Stories: The Hunter's Heart | 417655 | [417655-city-of-stories-the-hunters-heart.json](./417655-city-of-stories-the-hunters-heart.json) |
 | City of Stories: The Professor's Secret - Collector's Edition | 362839 | [362839-city-of-stories-the-professors-secret-collectors-edition.json](./362839-city-of-stories-the-professors-secret-collectors-edition.json) |
 | City of the Evil Dead | 282129 | [282129-city-of-the-evil-dead.json](./282129-city-of-the-evil-dead.json) |
 | City of Thugs | 154025 | [154025-city-of-thugs.json](./154025-city-of-thugs.json) |
@@ -3163,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claire's Cruisin' Cafe: Fest Frenzy | 266310 | [266310-claires-cruisin-cafe-fest-frenzy.json](./266310-claires-cruisin-cafe-fest-frenzy.json) |
 | Claire's Cruisin' Cafe: High Seas Cuisine | 193445 | [193445-claires-cruisin-cafe-high-seas-cuisine.json](./193445-claires-cruisin-cafe-high-seas-cuisine.json) |
 | Clairvoyance | 115488 | [115488-clairvoyance.json](./115488-clairvoyance.json) |
+| Clairvoyant: The Magician Mystery | 417685 | [417685-clairvoyant-the-magician-mystery.json](./417685-clairvoyant-the-magician-mystery.json) |
 | Clamb | 278553 | [278553-clamb.json](./278553-clamb.json) |
 | Clan and Crown | 402939 | [402939-clan-and-crown.json](./402939-clan-and-crown.json) |
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
@@ -3208,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash-Road | 46863 | [46863-clash-road.json](./46863-clash-road.json) |
 | Clash: Heroes of Feralia Terra | 269107 | [269107-clash-heroes-of-feralia-terra.json](./269107-clash-heroes-of-feralia-terra.json) |
 | Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
+| Classic Adventures: The Great Gatsby | 417686 | [417686-classic-adventures-the-great-gatsby.json](./417686-classic-adventures-the-great-gatsby.json) |
 | Classic Arcades: Pong | 353953 | [353953-classic-arcades-pong.json](./353953-classic-arcades-pong.json) |
 | Classic Axiens | 60221 | [60221-classic-axiens.json](./60221-classic-axiens.json) |
 | Classic Basic Games | 86021 | [86021-classic-basic-games.json](./86021-classic-basic-games.json) |
@@ -3636,6 +3642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coconut | 314302 | [314302-coconut.json](./314302-coconut.json) |
 | Coconut | 314305 | [314305-coconut.json](./314305-coconut.json) |
 | Cocoron | 48644 | [48644-cocoron.json](./48644-cocoron.json) |
+| Cocosic: On Pirates' Trail | 417696 | [417696-cocosic-on-pirates-trail.json](./417696-cocosic-on-pirates-trail.json) |
 | Cocoto Alien Brick Breaker | 63857 | [63857-cocoto-alien-brick-breaker.json](./63857-cocoto-alien-brick-breaker.json) |
 | Cocoto Fishing Master | 19677 | [19677-cocoto-fishing-master.json](./19677-cocoto-fishing-master.json) |
 | Cocoto Magic Circus 2 | 61861 | [61861-cocoto-magic-circus-2.json](./61861-cocoto-magic-circus-2.json) |
@@ -4175,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Clash | 253460 | [253460-comet-clash.json](./253460-comet-clash.json) |
 | Comet Crash | 21246 | [21246-comet-crash.json](./21246-comet-crash.json) |
 | Comet Culling | 249779 | [249779-comet-culling.json](./249779-comet-culling.json) |
+| Comet Cutter | 417680 | [417680-comet-cutter.json](./417680-comet-cutter.json) |
 | Comet Force | 324877 | [324877-comet-force.json](./324877-comet-force.json) |
 | Comet Golf | 129738 | [129738-comet-golf.json](./129738-comet-golf.json) |
 | Comet Moon: The Journey Begins | 339845 | [339845-comet-moon-the-journey-begins.json](./339845-comet-moon-the-journey-begins.json) |
@@ -4281,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commands & Colors: The Great War | 33342 | [33342-commands-and-colors-the-great-war.json](./33342-commands-and-colors-the-great-war.json) |
 | Comme Tu Veux | 327181 | [327181-comme-tu-veux.json](./327181-comme-tu-veux.json) |
 | Commissar's Contrapasso | 126018 | [126018-commissars-contrapasso.json](./126018-commissars-contrapasso.json) |
+| Committed: Mystery at Shady Pines - Premium Edition | 417687 | [417687-committed-mystery-at-shady-pines-premium-edition.json](./417687-committed-mystery-at-shady-pines-premium-edition.json) |
 | Common Hanzi Quiz: Simplified Chinese | 101360 | [101360-common-hanzi-quiz-simplified-chinese.json](./101360-common-hanzi-quiz-simplified-chinese.json) |
 | Common Loot | 400254 | [400254-common-loot.json](./400254-common-loot.json) |
 | Commonplace | 205594 | [205594-commonplace.json](./205594-commonplace.json) |
@@ -4478,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect Word | 352256 | [352256-connect-word.json](./352256-connect-word.json) |
 | Connect/Words | 87696 | [87696-connect-words.json](./87696-connect-words.json) |
 | Connected Hearts: Cost of Beauty DLC | 291064 | [291064-connected-hearts-cost-of-beauty-dlc.json](./291064-connected-hearts-cost-of-beauty-dlc.json) |
+| Connected Hearts: Hour of the Witch | 417688 | [417688-connected-hearts-hour-of-the-witch.json](./417688-connected-hearts-hour-of-the-witch.json) |
 | Connected Hearts: Hour of the Witch - Collector's Edition | 365708 | [365708-connected-hearts-hour-of-the-witch-collectors-edition.json](./365708-connected-hearts-hour-of-the-witch-collectors-edition.json) |
 | Connected Hearts: Hour of the Witch DLC | 360600 | [360600-connected-hearts-hour-of-the-witch-dlc.json](./360600-connected-hearts-hour-of-the-witch-dlc.json) |
 | Connected Hearts: The Musketeers Saga - DLC | 239149 | [239149-connected-hearts-the-musketeers-saga-dlc.json](./239149-connected-hearts-the-musketeers-saga-dlc.json) |
@@ -5713,6 +5723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Wave | 23837 | [23837-crime-wave.json](./23837-crime-wave.json) |
 | CrimeBloc | 347795 | [347795-crimebloc.json](./347795-crimebloc.json) |
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
+| Criminal Archives: Alphabetic Murders | 417708 | [417708-criminal-archives-alphabetic-murders.json](./417708-criminal-archives-alphabetic-murders.json) |
 | Criminal Archives: Alphabetic Murders - Collector's Edition | 247497 | [247497-criminal-archives-alphabetic-murders-collectors-edition.json](./247497-criminal-archives-alphabetic-murders-collectors-edition.json) |
 | Criminal Archives: Alphabetic Murders DLC | 248289 | [248289-criminal-archives-alphabetic-murders-dlc.json](./248289-criminal-archives-alphabetic-murders-dlc.json) |
 | Criminal Archives: City on Fire - Collector's Edition | 186330 | [186330-criminal-archives-city-on-fire-collectors-edition.json](./186330-criminal-archives-city-on-fire-collectors-edition.json) |
@@ -5727,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Pursuit Force | 110349 | [110349-criminal-pursuit-force.json](./110349-criminal-pursuit-force.json) |
 | Criminal Run | 40741 | [40741-criminal-run.json](./40741-criminal-run.json) |
 | Criminal Stories: CSI Episode | 215394 | [215394-criminal-stories-csi-episode.json](./215394-criminal-stories-csi-episode.json) |
+| Criminal Stories: Presumed Partners | 417709 | [417709-criminal-stories-presumed-partners.json](./417709-criminal-stories-presumed-partners.json) |
 | Criminally Overdue | 179055 | [179055-criminally-overdue.json](./179055-criminally-overdue.json) |
 | Crimson | 343262 | [343262-crimson.json](./343262-crimson.json) |
 | Crimson Angel | 339339 | [339339-crimson-angel.json](./339339-crimson-angel.json) |
@@ -5947,6 +5959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossovers by Powgi | 117488 | [117488-crossovers-by-powgi.json](./117488-crossovers-by-powgi.json) |
 | Crossroad Crisis | 43739 | [43739-crossroad-crisis.json](./43739-crossroad-crisis.json) |
 | Crossroad of Worlds: Cursed Letters - Collector's Edition | 257434 | [257434-crossroad-of-worlds-cursed-letters-collectors-edition.json](./257434-crossroad-of-worlds-cursed-letters-collectors-edition.json) |
+| Crossroad of Worlds: Magic Stars | 417711 | [417711-crossroad-of-worlds-magic-stars.json](./417711-crossroad-of-worlds-magic-stars.json) |
 | Crossroad of Worlds: Magic Stars - Collector's Edition | 255708 | [255708-crossroad-of-worlds-magic-stars-collectors-edition.json](./255708-crossroad-of-worlds-magic-stars-collectors-edition.json) |
 | Crossroad OS | 259007 | [259007-crossroad-os.json](./259007-crossroad-os.json) |
 | Crossroads | 377570 | [377570-crossroads.json](./377570-crossroads.json) |
@@ -5955,6 +5968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads Inn: Anniversary Edition | 154549 | [154549-crossroads-inn-anniversary-edition.json](./154549-crossroads-inn-anniversary-edition.json) |
 | Crossroads of Fate | 185601 | [185601-crossroads-of-fate.json](./185601-crossroads-of-fate.json) |
 | Crossroads: Lucky Edition | 113241 | [113241-crossroads-lucky-edition.json](./113241-crossroads-lucky-edition.json) |
+| Crossroads: What Was Lost | 417713 | [417713-crossroads-what-was-lost.json](./417713-crossroads-what-was-lost.json) |
 | CrossTown 1: Giften | 122315 | [122315-crosstown-1-giften.json](./122315-crosstown-1-giften.json) |
 | Crossword | 402255 | [402255-crossword.json](./402255-crossword.json) |
 | Crossword Champ | 58273 | [58273-crossword-champ.json](./58273-crossword-champ.json) |
@@ -5995,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of Pain | 192880 | [192880-crown-of-pain.json](./192880-crown-of-pain.json) |
 | Crown of Silence | 385220 | [385220-crown-of-silence.json](./385220-crown-of-silence.json) |
 | Crown of the Empire: Temple of Resurrection - Collector's Edition | 417514 | [417514-crown-of-the-empire-temple-of-resurrection-collectors-edition.json](./417514-crown-of-the-empire-temple-of-resurrection-collectors-edition.json) |
+| Crown of the Empire: Timeloop | 417714 | [417714-crown-of-the-empire-timeloop.json](./417714-crown-of-the-empire-timeloop.json) |
 | Crown of the Empire: Timeloop - Collector's Edition | 356113 | [356113-crown-of-the-empire-timeloop-collectors-edition.json](./356113-crown-of-the-empire-timeloop-collectors-edition.json) |
 | Crown of Thorns | 235359 | [235359-crown-of-thorns.json](./235359-crown-of-thorns.json) |
 | Crown Solitaire: Card Game | 96714 | [96714-crown-solitaire-card-game.json](./96714-crown-solitaire-card-game.json) |
@@ -6024,6 +6039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crucified Dreams | 260959 | [260959-crucified-dreams.json](./260959-crucified-dreams.json) |
 | Crude Oil | 369093 | [369093-crude-oil.json](./369093-crude-oil.json) |
 | Cruel | 282123 | [282123-cruel.json](./282123-cruel.json) |
+| Cruel Collections: The Any Wish Hotel | 417719 | [417719-cruel-collections-the-any-wish-hotel.json](./417719-cruel-collections-the-any-wish-hotel.json) |
 | Cruel Jewels | 261327 | [261327-cruel-jewels.json](./261327-cruel-jewels.json) |
 | Cruel Reality: A Horrible Dream | 249868 | [249868-cruel-reality-a-horrible-dream.json](./249868-cruel-reality-a-horrible-dream.json) |
 | Cruel World | 73545 | [73545-cruel-world.json](./73545-cruel-world.json) |
@@ -6348,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubelz | 101357 | [101357-cubelz.json](./101357-cubelz.json) |
 | Cubemash | 25961 | [25961-cubemash.json](./25961-cubemash.json) |
 | CubeMator - Mine the MC World | 102203 | [102203-cubemator-mine-the-mc-world.json](./102203-cubemator-mine-the-mc-world.json) |
+| Cubenen Gardens: Kingdom | 417664 | [417664-cubenen-gardens-kingdom.json](./417664-cubenen-gardens-kingdom.json) |
 | Cuber | 254584 | [254584-cuber.json](./254584-cuber.json) |
 | Cuber 3: Schmidt | 284357 | [284357-cuber-3-schmidt.json](./284357-cuber-3-schmidt.json) |
 | CubeRace | 114953 | [114953-cuberace.json](./114953-cuberace.json) |
