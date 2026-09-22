@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raidol: Injoku ni Ochita Seiningyou | 108970 | [108970-raidol-injoku-ni-ochita-seiningyou.json](./108970-raidol-injoku-ni-ochita-seiningyou.json) |
 | Raids of Nohosphere | 116395 | [116395-raids-of-nohosphere.json](./116395-raids-of-nohosphere.json) |
 | Raik | 135688 | [135688-raik.json](./135688-raik.json) |
+| Rail Cargo Simulator | 33446 | [33446-rail-cargo-simulator.json](./33446-rail-cargo-simulator.json) |
 | Rail Estate | 387367 | [387367-rail-estate.json](./387367-rail-estate.json) |
 | Rail Gunner | 263567 | [263567-rail-gunner.json](./263567-rail-gunner.json) |
 | Rail Heist | 318410 | [318410-rail-heist.json](./318410-rail-heist.json) |
@@ -1173,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth | 78571 | [78571-rebirth.json](./78571-rebirth.json) |
 | Rebirth Fantasy Online | 116306 | [116306-rebirth-fantasy-online.json](./116306-rebirth-fantasy-online.json) |
 | Rebirth of Fortune | 174322 | [174322-rebirth-of-fortune.json](./174322-rebirth-of-fortune.json) |
+| Rebirth of Island | 33348 | [33348-rebirth-of-island.json](./33348-rebirth-of-island.json) |
 | Rebirth of Myths: Dragonborn | 297616 | [297616-rebirth-of-myths-dragonborn.json](./297616-rebirth-of-myths-dragonborn.json) |
 | Rebirth RC | 147808 | [147808-rebirth-rc.json](./147808-rebirth-rc.json) |
 | Rebirth-Land of Zombies | 189122 | [189122-rebirth-land-of-zombies.json](./189122-rebirth-land-of-zombies.json) |
@@ -4298,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runes of Magic: Dragon Adventure Pack | 169974 | [169974-runes-of-magic-dragon-adventure-pack.json](./169974-runes-of-magic-dragon-adventure-pack.json) |
 | Runes of the Abyss | 348246 | [348246-runes-of-the-abyss.json](./348246-runes-of-the-abyss.json) |
 | Runes Saga: Puzzle Adventure | 122208 | [122208-runes-saga-puzzle-adventure.json](./122208-runes-saga-puzzle-adventure.json) |
+| Runes: The Forgotten Path | 33172 | [33172-runes-the-forgotten-path.json](./33172-runes-the-forgotten-path.json) |
 | RuneScape Quests: One Piercing Note | 108958 | [108958-runescape-quests-one-piercing-note.json](./108958-runescape-quests-one-piercing-note.json) |
 | RuneScape: Dragonwilds | 337712 | [337712-runescape-dragonwilds.json](./337712-runescape-dragonwilds.json) |
 | Runeseekers | 381699 | [381699-runeseekers.json](./381699-runeseekers.json) |
