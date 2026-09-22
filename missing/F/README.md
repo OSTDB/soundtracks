@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Ghoul Within | 341476 | [341476-fallout-76-ghoul-within.json](./341476-fallout-76-ghoul-within.json) |
 | Fallout 76: Gleaming Depths | 314487 | [314487-fallout-76-gleaming-depths.json](./314487-fallout-76-gleaming-depths.json) |
 | Fallout 76: Gone Fission | 347166 | [347166-fallout-76-gone-fission.json](./347166-fallout-76-gone-fission.json) |
+| Fallout 76: Infestations | 405074 | [405074-fallout-76-infestations.json](./405074-fallout-76-infestations.json) |
 | Fallout 76: Milepost Zero | 314486 | [314486-fallout-76-milepost-zero.json](./314486-fallout-76-milepost-zero.json) |
 | Fallout 76: Platinum Edition | 111060 | [111060-fallout-76-platinum-edition.json](./111060-fallout-76-platinum-edition.json) |
 | Fallout 76: Raiders Content Bundle | 136384 | [136384-fallout-76-raiders-content-bundle.json](./136384-fallout-76-raiders-content-bundle.json) |
@@ -2379,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five in One | 210648 | [210648-five-in-one.json](./210648-five-in-one.json) |
 | Five Letter Words | 104115 | [104115-five-letter-words.json](./104115-five-letter-words.json) |
 | Five Nations: Renegades | 259059 | [259059-five-nations-renegades.json](./259059-five-nations-renegades.json) |
+| Five Nighs at Fairy's | 405066 | [405066-five-nighs-at-fairys.json](./405066-five-nighs-at-fairys.json) |
 | Five Nights at Backrooms: Waifu Edition | 277828 | [277828-five-nights-at-backrooms-waifu-edition.json](./277828-five-nights-at-backrooms-waifu-edition.json) |
 | Five Nights At Bidens | 257665 | [257665-five-nights-at-bidens.json](./257665-five-nights-at-bidens.json) |
 | Five Nights at Candy's | 45983 | [45983-five-nights-at-candys.json](./45983-five-nights-at-candys.json) |
@@ -3625,6 +3627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Factory | 413873 | [413873-fortune-factory.json](./413873-fortune-factory.json) |
 | Fortune Handlers | 235493 | [235493-fortune-handlers.json](./235493-fortune-handlers.json) |
 | Fortune Hunters | 117729 | [117729-fortune-hunters.json](./117729-fortune-hunters.json) |
+| Fortune Paradox | 405083 | [405083-fortune-paradox.json](./405083-fortune-paradox.json) |
 | Fortune Quest: Dice wo Korogase | 42242 | [42242-fortune-quest-dice-wo-korogase.json](./42242-fortune-quest-dice-wo-korogase.json) |
 | Fortune Rewritten: Costume Pack 1 | 277939 | [277939-fortune-rewritten-costume-pack-1.json](./277939-fortune-rewritten-costume-pack-1.json) |
 | Fortune Street | 19930 | [19930-fortune-street.json](./19930-fortune-street.json) |
@@ -4469,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuga: Melodies of Steel 2 - Ultimate Edition | 283150 | [283150-fuga-melodies-of-steel-2-ultimate-edition.json](./283150-fuga-melodies-of-steel-2-ultimate-edition.json) |
 | Fuga: Melodies of Steel 3 | 307648 | [307648-fuga-melodies-of-steel-3.json](./307648-fuga-melodies-of-steel-3.json) |
 | Fuga: Melodies of Steel 3 - Season Pass | 371315 | [371315-fuga-melodies-of-steel-3-season-pass.json](./371315-fuga-melodies-of-steel-3-season-pass.json) |
+| Fugaz | 405056 | [405056-fugaz.json](./405056-fugaz.json) |
 | Fuggedaboutit Farm | 372996 | [372996-fuggedaboutit-farm.json](./372996-fuggedaboutit-farm.json) |
 | Fugitive | 249871 | [249871-fugitive.json](./249871-fugitive.json) |
 | Fugitive 3D | 152758 | [152758-fugitive-3d.json](./152758-fugitive-3d.json) |
