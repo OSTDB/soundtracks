@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts Cards | 86724 | [86724-hearts-cards.json](./86724-hearts-cards.json) |
 | Hearts Lite | 91330 | [91330-hearts-lite.json](./91330-hearts-lite.json) |
 | Hearts of Iron 2 Complete | 27833 | [27833-hearts-of-iron-2-complete.json](./27833-hearts-of-iron-2-complete.json) |
+| Hearts of Iron II: Complete | 28993 | [28993-hearts-of-iron-ii-complete.json](./28993-hearts-of-iron-ii-complete.json) |
 | Hearts of Iron III Collection | 53177 | [53177-hearts-of-iron-iii-collection.json](./53177-hearts-of-iron-iii-collection.json) |
 | Hearts of Iron IV | 15894 | [15894-hearts-of-iron-iv.json](./15894-hearts-of-iron-iv.json) |
 | Hearts of Iron IV: Allied Armor Pack | 165012 | [165012-hearts-of-iron-iv-allied-armor-pack.json](./165012-hearts-of-iron-iv-allied-armor-pack.json) |
