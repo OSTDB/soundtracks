@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Game | 75197 | [75197-ball-game.json](./75197-ball-game.json) |
 | Ball Game Remix | 217510 | [217510-ball-game-remix.json](./217510-ball-game-remix.json) |
 | Ball Gates | 102105 | [102105-ball-gates.json](./102105-ball-gates.json) |
+| Ball Guys : Stumble & Fall | 393130 | [393130-ball-guys-stumble-and-fall.json](./393130-ball-guys-stumble-and-fall.json) |
 | Ball Heroes | 369633 | [369633-ball-heroes.json](./369633-ball-heroes.json) |
 | Ball Hit! | 106529 | [106529-ball-hit.json](./106529-ball-hit.json) |
 | Ball Hunter | 201801 | [201801-ball-hunter.json](./201801-ball-hunter.json) |
