@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance! Dance! Dance! | 339794 | [339794-dance-dance-dance.json](./339794-dance-dance-dance.json) |
 | Dance! It's Your Stage | 209000 | [209000-dance-its-your-stage.json](./209000-dance-its-your-stage.json) |
 | DanceDanceRevolution: Classroom Edition | 208998 | [208998-dancedancerevolution-classroom-edition.json](./208998-dancedancerevolution-classroom-edition.json) |
+| DanceMasters | 20121 | [20121-dancemasters.json](./20121-dancemasters.json) |
 | DanceMela | 346162 | [346162-dancemela.json](./346162-dancemela.json) |
 | Dancerush Stardom | 108988 | [108988-dancerush-stardom.json](./108988-dancerush-stardom.json) |
 | Dances with Butterflies VR | 117088 | [117088-dances-with-butterflies-vr.json](./117088-dances-with-butterflies-vr.json) |
@@ -514,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Fall | 9817 | [9817-dark-fall.json](./9817-dark-fall.json) |
 | Dark Fantasy: Epic Jigsaw Puzzle | 137441 | [137441-dark-fantasy-epic-jigsaw-puzzle.json](./137441-dark-fantasy-epic-jigsaw-puzzle.json) |
 | Dark Farm | 322995 | [322995-dark-farm.json](./322995-dark-farm.json) |
+| Dark Fear | 20143 | [20143-dark-fear.json](./20143-dark-fear.json) |
 | Dark Flowers | 157135 | [157135-dark-flowers.json](./157135-dark-flowers.json) |
 | Dark Forester | 35760 | [35760-dark-forester.json](./35760-dark-forester.json) |
 | Dark Frontiers | 203362 | [203362-dark-frontiers.json](./203362-dark-frontiers.json) |
@@ -4281,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom: The Dark Ages - Revelations | 405075 | [405075-doom-the-dark-ages-revelations.json](./405075-doom-the-dark-ages-revelations.json) |
 | Doom: The Gallery Experience | 327632 | [327632-doom-the-gallery-experience.json](./327632-doom-the-gallery-experience.json) |
 | Doom: The Golden Souls Remastered | 198349 | [198349-doom-the-golden-souls-remastered.json](./198349-doom-the-golden-souls-remastered.json) |
+| Doom: Unto the Evil | 22431 | [22431-doom-unto-the-evil.json](./22431-doom-unto-the-evil.json) |
 | Doomblade | 114004 | [114004-doomblade.json](./114004-doomblade.json) |
 | Doomclock | 346677 | [346677-doomclock.json](./346677-doomclock.json) |
 | Doomdark's Revenge | 12992 | [12992-doomdarks-revenge.json](./12992-doomdarks-revenge.json) |
@@ -4599,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario 64 | 3475 | [3475-dr-mario-64.json](./3475-dr-mario-64.json) |
 | Dr. Mario BS Ban | 134437 | [134437-dr-mario-bs-ban.json](./134437-dr-mario-bs-ban.json) |
 | Dr. Mario Mania | 357345 | [357345-dr-mario-mania.json](./357345-dr-mario-mania.json) |
+| Dr. Mario Online Rx | 21910 | [21910-dr-mario-online-rx.json](./21910-dr-mario-online-rx.json) |
 | Dr. Mario World House Calls | 42602 | [42602-dr-mario-world-house-calls.json](./42602-dr-mario-world-house-calls.json) |
 | Dr. Mario World Redrawn | 132854 | [132854-dr-mario-world-redrawn.json](./132854-dr-mario-world-redrawn.json) |
 | Dr. Mario: Vitamin Toss | 231636 | [231636-dr-mario-vitamin-toss.json](./231636-dr-mario-vitamin-toss.json) |
@@ -4698,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragimon Dungeons | 342128 | [342128-dragimon-dungeons.json](./342128-dragimon-dungeons.json) |
 | Draginsanity | 157036 | [157036-draginsanity.json](./157036-draginsanity.json) |
 | DragKnockFight | 218124 | [218124-dragknockfight.json](./218124-dragknockfight.json) |
+| Draglade | 21542 | [21542-draglade.json](./21542-draglade.json) |
 | Dragluttony | 190230 | [190230-dragluttony.json](./190230-dragluttony.json) |
 | Drago Noka | 203939 | [203939-drago-noka.json](./203939-drago-noka.json) |
 | Dragon & Elfs | 227507 | [227507-dragon-and-elfs.json](./227507-dragon-and-elfs.json) |
@@ -5124,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreadFall | 260241 | [260241-dreadfall.json](./260241-dreadfall.json) |
 | Dreadful Aurora | 297047 | [297047-dreadful-aurora.json](./297047-dreadful-aurora.json) |
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
+| Dreadhalls | 21561 | [21561-dreadhalls.json](./21561-dreadhalls.json) |
 | DreadHaven: The Last Colony | 336597 | [336597-dreadhaven-the-last-colony.json](./336597-dreadhaven-the-last-colony.json) |
 | Dreadlands | 117002 | [117002-dreadlands.json](./117002-dreadlands.json) |
 | DreadMoon | 272379 | [272379-dreadmoon.json](./272379-dreadmoon.json) |
@@ -5493,6 +5499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Shadow Strike | 303262 | [303262-drone-shadow-strike.json](./303262-drone-shadow-strike.json) |
 | Drone Showcase | 186287 | [186287-drone-showcase.json](./186287-drone-showcase.json) |
 | Drone Simulator: Smash Zombies | 343249 | [343249-drone-simulator-smash-zombies.json](./343249-drone-simulator-smash-zombies.json) |
+| Drone Tactics | 21487 | [21487-drone-tactics.json](./21487-drone-tactics.json) |
 | Drone Tanks | 415111 | [415111-drone-tanks.json](./415111-drone-tanks.json) |
 | Drone tracks | 121699 | [121699-drone-tracks.json](./121699-drone-tracks.json) |
 | Drone Wars | 373546 | [373546-drone-wars.json](./373546-drone-wars.json) |
