@@ -962,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Mine | 37100 | [37100-emerald-mine.json](./37100-emerald-mine.json) |
 | Emerald Mine II | 37105 | [37105-emerald-mine-ii.json](./37105-emerald-mine-ii.json) |
 | Emerald Rush | 97157 | [97157-emerald-rush.json](./97157-emerald-rush.json) |
+| Emerald Shores | 111470 | [111470-emerald-shores.json](./111470-emerald-shores.json) |
 | Emerald Ties | 324698 | [324698-emerald-ties.json](./324698-emerald-ties.json) |
 | Emerge | 342631 | [342631-emerge.json](./342631-emerge.json) |
 | Emerge: Cities of the Apocalypse | 33136 | [33136-emerge-cities-of-the-apocalypse.json](./33136-emerge-cities-of-the-apocalypse.json) |
@@ -2430,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evony: The King's Return | 197880 | [197880-evony-the-kings-return.json](./197880-evony-the-kings-return.json) |
 | Evoplasm | 309859 | [309859-evoplasm.json](./309859-evoplasm.json) |
 | Evorevo | 236839 | [236839-evorevo.json](./236839-evorevo.json) |
+| Evospace | 114069 | [114069-evospace.json](./114069-evospace.json) |
 | EvoSprout | 382288 | [382288-evosprout.json](./382288-evosprout.json) |
 | Evotales | 245884 | [245884-evotales.json](./245884-evotales.json) |
 | EvoTown | 136408 | [136408-evotown.json](./136408-evotown.json) |
