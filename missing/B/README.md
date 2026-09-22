@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
 | Bad Luck Cat | 183024 | [183024-bad-luck-cat.json](./183024-bad-luck-cat.json) |
+| Bad Magpie | 405068 | [405068-bad-magpie.json](./405068-bad-magpie.json) |
 | Bad Mechanic | 294297 | [294297-bad-mechanic.json](./294297-bad-mechanic.json) |
 | Bad Mojo | 604 | [604-bad-mojo.json](./604-bad-mojo.json) |
 | Bad Mojo: Redux | 10020 | [10020-bad-mojo-redux.json](./10020-bad-mojo-redux.json) |
@@ -798,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Pet Rescue | 19402 | [19402-barbie-pet-rescue.json](./19402-barbie-pet-rescue.json) |
 | Barbie Pet Rescue | 200589 | [200589-barbie-pet-rescue.json](./200589-barbie-pet-rescue.json) |
 | Barbie Photo Designer | 200606 | [200606-barbie-photo-designer.json](./200606-barbie-photo-designer.json) |
+| Barbie Rewind | 405096 | [405096-barbie-rewind.json](./405096-barbie-rewind.json) |
 | Barbie Sparkle Blast | 97319 | [97319-barbie-sparkle-blast.json](./97319-barbie-sparkle-blast.json) |
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
 | Barbie: Explorer | 3314 | [3314-barbie-explorer.json](./3314-barbie-explorer.json) |
@@ -4450,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Mario: Thousands of Doors | 159323 | [159323-book-of-mario-thousands-of-doors.json](./159323-book-of-mario-thousands-of-doors.json) |
 | Book of Myko | 350455 | [350455-book-of-myko.json](./350455-book-of-myko.json) |
 | Book of Shadows | 235204 | [235204-book-of-shadows.json](./235204-book-of-shadows.json) |
+| Book Organizer | 405095 | [405095-book-organizer.json](./405095-book-organizer.json) |
 | Book Travelers II: A Royal Story - Collector's Edition | 362845 | [362845-book-travelers-ii-a-royal-story-collectors-edition.json](./362845-book-travelers-ii-a-royal-story-collectors-edition.json) |
 | Book Travelers III: A Gothic Story - Collector's Edition | 364516 | [364516-book-travelers-iii-a-gothic-story-collectors-edition.json](./364516-book-travelers-iii-a-gothic-story-collectors-edition.json) |
 | Bookbound | 370103 | [370103-bookbound.json](./370103-bookbound.json) |
@@ -4644,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boti: Byteland Overclocked - Bitosaurus | 327813 | [327813-boti-byteland-overclocked-bitosaurus.json](./327813-boti-byteland-overclocked-bitosaurus.json) |
 | Botics | 14336 | [14336-botics.json](./14336-botics.json) |
 | BotMobile | 293111 | [293111-botmobile.json](./293111-botmobile.json) |
+| Boto Labo | 405052 | [405052-boto-labo.json](./405052-boto-labo.json) |
 | Botolo | 26572 | [26572-botolo.json](./26572-botolo.json) |
 | Bots | 58817 | [58817-bots.json](./58817-bots.json) |
 | Bots & Belts | 139484 | [139484-bots-and-belts.json](./139484-bots-and-belts.json) |
