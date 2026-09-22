@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pancake Bar Tycoon: Extended Edition | 207902 | [207902-pancake-bar-tycoon-extended-edition.json](./207902-pancake-bar-tycoon-extended-edition.json) |
 | Pancake House | 156698 | [156698-pancake-house.json](./156698-pancake-house.json) |
 | Panchito Chepas | 325639 | [325639-panchito-chepas.json](./325639-panchito-chepas.json) |
+| Panchito Delivery: Project Elevator | 416084 | [416084-panchito-delivery-project-elevator.json](./416084-panchito-delivery-project-elevator.json) |
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
 | Panco's Journey | 109680 | [109680-pancos-journey.json](./109680-pancos-journey.json) |
 | Panda Bamboo Adventure | 388196 | [388196-panda-bamboo-adventure.json](./388196-panda-bamboo-adventure.json) |
@@ -3869,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polka Sheep | 305335 | [305335-polka-sheep.json](./305335-polka-sheep.json) |
 | Pollinate or Die | 381615 | [381615-pollinate-or-die.json](./381615-pollinate-or-die.json) |
 | Pollucean | 347792 | [347792-pollucean.json](./347792-pollucean.json) |
+| Polluted Flesh | 416117 | [416117-polluted-flesh.json](./416117-polluted-flesh.json) |
 | Pollution | 316416 | [316416-pollution.json](./316416-pollution.json) |
 | Pollux | 40255 | [40255-pollux.json](./40255-pollux.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
