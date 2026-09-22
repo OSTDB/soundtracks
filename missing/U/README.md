@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfated | 410974 | [410974-unfated.json](./410974-unfated.json) |
 | Unfathomable Villa | 112971 | [112971-unfathomable-villa.json](./112971-unfathomable-villa.json) |
 | Unfazed | 31948 | [31948-unfazed.json](./31948-unfazed.json) |
+| Unfinished - An Artist's Lament | 34810 | [34810-unfinished-an-artists-lament.json](./34810-unfinished-an-artists-lament.json) |
 | Unfinished 2 | 338589 | [338589-unfinished-2.json](./338589-unfinished-2.json) |
 | Unforgiven: Shattered Souls | 139357 | [139357-unforgiven-shattered-souls.json](./139357-unforgiven-shattered-souls.json) |
 | Unforgiven: Shattered Souls Portable | 139358 | [139358-unforgiven-shattered-souls-portable.json](./139358-unforgiven-shattered-souls-portable.json) |
