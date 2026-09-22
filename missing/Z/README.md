@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-Exemplar | 26010 | [26010-z-exemplar.json](./26010-z-exemplar.json) |
 | Z-Factor | 305933 | [305933-z-factor.json](./305933-z-factor.json) |
 | Z-Grav: Clash | 263222 | [263222-z-grav-clash.json](./263222-z-grav-clash.json) |
+| Z-Lestial | 395894 | [395894-z-lestial.json](./395894-z-lestial.json) |
 | Z-MMO | 55919 | [55919-z-mmo.json](./55919-z-mmo.json) |
 | Z-Rush Survival | 191818 | [191818-z-rush-survival.json](./191818-z-rush-survival.json) |
 | Z-Warp | 192278 | [192278-z-warp.json](./192278-z-warp.json) |
@@ -312,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zettai Meikyuu Grimm Director's Cut: Nanatsu no Kagi to Rakuen no Otome | 221963 | [221963-zettai-meikyuu-grimm-directors-cut-nanatsu-no-kagi-to-rakuen-no-otome.json](./221963-zettai-meikyuu-grimm-directors-cut-nanatsu-no-kagi-to-rakuen-no-otome.json) |
 | Zettai Meikyuu Grimm: Nanatsu no Kagi to Rakuen no Otome | 62459 | [62459-zettai-meikyuu-grimm-nanatsu-no-kagi-to-rakuen-no-otome.json](./62459-zettai-meikyuu-grimm-nanatsu-no-kagi-to-rakuen-no-otome.json) |
 | Zettai Meikyuu Himitsu no Oyayubi-hime | 59959 | [59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json](./59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json) |
+| Zetton's One Trillion Degree Derby | 395895 | [395895-zettons-one-trillion-degree-derby.json](./395895-zettons-one-trillion-degree-derby.json) |
 | Zeus + Poseidon | 90554 | [90554-zeus-poseidon.json](./90554-zeus-poseidon.json) |
 | Zeus Quest Remastered | 147435 | [147435-zeus-quest-remastered.json](./147435-zeus-quest-remastered.json) |
 | Zeus Quest Remastered | 32893 | [32893-zeus-quest-remastered.json](./32893-zeus-quest-remastered.json) |
@@ -370,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zip | 335986 | [335986-zip.json](./335986-zip.json) |
 | Zip | 60252 | [60252-zip.json](./60252-zip.json) |
 | Zip A Doo | 91377 | [91377-zip-a-doo.json](./91377-zip-a-doo.json) |
+| Zip Up | 395853 | [395853-zip-up.json](./395853-zip-up.json) |
 | Zip Zap | 45357 | [45357-zip-zap.json](./45357-zip-zap.json) |
 | Zip: Set One | 186160 | [186160-zip-set-one.json](./186160-zip-set-one.json) |
 | ZiParate | 218122 | [218122-ziparate.json](./218122-ziparate.json) |
