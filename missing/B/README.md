@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battletoads | 262942 | [262942-battletoads.json](./262942-battletoads.json) |
 | Battletoads | 365173 | [365173-battletoads.json](./365173-battletoads.json) |
 | BattleTubers | 280794 | [280794-battletubers.json](./280794-battletubers.json) |
+| Battlevoid: Sector Siege | 72488 | [72488-battlevoid-sector-siege.json](./72488-battlevoid-sector-siege.json) |
 | Battlewagon | 65486 | [65486-battlewagon.json](./65486-battlewagon.json) |
 | Battlewake | 118306 | [118306-battlewake.json](./118306-battlewake.json) |
 | Battlewang | 23845 | [23845-battlewang.json](./23845-battlewang.json) |
@@ -1638,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BBQ Simulator: The Squad | 185674 | [185674-bbq-simulator-the-squad.json](./185674-bbq-simulator-the-squad.json) |
 | BBS (Bulletin Board System) Magica | 399740 | [399740-bbs-bulletin-board-system-magica.json](./399740-bbs-bulletin-board-system-magica.json) |
 | BC Racers | 5362 | [5362-bc-racers.json](./5362-bc-racers.json) |
+| BCFX: The Doug Williams Edition | 70603 | [70603-bcfx-the-doug-williams-edition.json](./70603-bcfx-the-doug-williams-edition.json) |
 | Bckspce | 411576 | [411576-bckspce.json](./411576-bckspce.json) |
 | BCV: Battle Construction Vehicles | 43534 | [43534-bcv-battle-construction-vehicles.json](./43534-bcv-battle-construction-vehicles.json) |
 | BDSM Sex | 294129 | [294129-bdsm-sex.json](./294129-bdsm-sex.json) |
@@ -2724,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Inc. Redemption | 36627 | [36627-bio-inc-redemption.json](./36627-bio-inc-redemption.json) |
 | Bio Menace | 8491 | [8491-bio-menace.json](./8491-bio-menace.json) |
 | Bio Senshi Dan: Increaser to no Tatakai | 48647 | [48647-bio-senshi-dan-increaser-to-no-tatakai.json](./48647-bio-senshi-dan-increaser-to-no-tatakai.json) |
+| Bio Soup | 72354 | [72354-bio-soup.json](./72354-bio-soup.json) |
 | Bio-Hazard Battle | 4517 | [4517-bio-hazard-battle.json](./4517-bio-hazard-battle.json) |
 | Bio-Ship Paladin | 39877 | [39877-bio-ship-paladin.json](./39877-bio-ship-paladin.json) |
 | Bio-Submariner DX | 404980 | [404980-bio-submariner-dx.json](./404980-bio-submariner-dx.json) |
