@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Burn | 203566 | [203566-rabbit-burn.json](./203566-rabbit-burn.json) |
 | Rabbit Detective | 389983 | [389983-rabbit-detective.json](./389983-rabbit-detective.json) |
 | Rabbit Hole | 289347 | [289347-rabbit-hole.json](./289347-rabbit-hole.json) |
+| Rabbit Hole 3D: Steam Edition | 90584 | [90584-rabbit-hole-3d-steam-edition.json](./90584-rabbit-hole-3d-steam-edition.json) |
 | Rabbit Hop | 245417 | [245417-rabbit-hop.json](./245417-rabbit-hop.json) |
 | Rabbit in Dungeon | 316411 | [316411-rabbit-in-dungeon.json](./316411-rabbit-in-dungeon.json) |
 | Rabbit in the Clouds | 316849 | [316849-rabbit-in-the-clouds.json](./316849-rabbit-in-the-clouds.json) |
