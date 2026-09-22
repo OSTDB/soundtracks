@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T18:20:15.353Z",
-  "total_missing": 107627,
+  "generated_at": "2026-09-22T18:34:41.788Z",
+  "total_missing": 107677,
   "games": [
     {
       "igdb_id": 176875,
@@ -1521,6 +1521,11 @@
       "igdb_id": 98416,
       "game_name": "13 Letters",
       "file": "missing/0-9/98416-13-letters.json"
+    },
+    {
+      "igdb_id": 405725,
+      "game_name": "13 Masca",
+      "file": "missing/0-9/405725-13-masca.json"
     },
     {
       "igdb_id": 201304,
@@ -20356,6 +20361,11 @@
       "igdb_id": 257424,
       "game_name": "Anomaly Report",
       "file": "missing/A/257424-anomaly-report.json"
+    },
+    {
+      "igdb_id": 405709,
+      "game_name": "Anomaly Road",
+      "file": "missing/A/405709-anomaly-road.json"
     },
     {
       "igdb_id": 413595,
@@ -52998,6 +53008,11 @@
       "file": "missing/B/326785-bloody-cleanup.json"
     },
     {
+      "igdb_id": 405692,
+      "game_name": "Bloody Cleanup Togheter",
+      "file": "missing/B/405692-bloody-cleanup-togheter.json"
+    },
+    {
       "igdb_id": 249866,
       "game_name": "Bloody Doctor",
       "file": "missing/B/249866-bloody-doctor.json"
@@ -72413,6 +72428,11 @@
       "file": "missing/C/305142-caution-ahead-part-2.json"
     },
     {
+      "igdb_id": 405733,
+      "game_name": "Caution Wet Paint",
+      "file": "missing/C/405733-caution-wet-paint.json"
+    },
+    {
       "igdb_id": 130725,
       "game_name": "Caution! Platforming Ahead",
       "file": "missing/C/130725-caution-platforming-ahead.json"
@@ -80193,6 +80213,11 @@
       "file": "missing/C/88166-city-explorer-seattle.json"
     },
     {
+      "igdb_id": 405739,
+      "game_name": "City Fascination",
+      "file": "missing/C/405739-city-fascination.json"
+    },
+    {
       "igdb_id": 220188,
       "game_name": "City Fighter vs Street Gang",
       "file": "missing/C/220188-city-fighter-vs-street-gang.json"
@@ -80511,6 +80536,11 @@
       "igdb_id": 311472,
       "game_name": "City Turn",
       "file": "missing/C/311472-city-turn.json"
+    },
+    {
+      "igdb_id": 405735,
+      "game_name": "City Worker Simulator",
+      "file": "missing/C/405735-city-worker-simulator.json"
     },
     {
       "igdb_id": 358887,
@@ -90591,6 +90621,11 @@
       "igdb_id": 59967,
       "game_name": "County Fair",
       "file": "missing/C/59967-county-fair.json"
+    },
+    {
+      "igdb_id": 405700,
+      "game_name": "County Hospital Outbreak",
+      "file": "missing/C/405700-county-hospital-outbreak.json"
     },
     {
       "igdb_id": 327218,
@@ -102313,6 +102348,11 @@
       "file": "missing/D/260412-dark-desire-mute-6.json"
     },
     {
+      "igdb_id": 405687,
+      "game_name": "Dark DieMansion",
+      "file": "missing/D/405687-dark-diemansion.json"
+    },
+    {
       "igdb_id": 74352,
       "game_name": "Dark Dimensions: City of Ash - Collector's Edition",
       "file": "missing/D/74352-dark-dimensions-city-of-ash-collectors-edition.json"
@@ -105803,6 +105843,11 @@
       "file": "missing/D/20336-dead-nation-road-to-devastation.json"
     },
     {
+      "igdb_id": 405727,
+      "game_name": "Dead Night Highway",
+      "file": "missing/D/405727-dead-night-highway.json"
+    },
+    {
       "igdb_id": 187404,
       "game_name": "Dead No-Head",
       "file": "missing/D/187404-dead-no-head.json"
@@ -107991,6 +108036,11 @@
       "igdb_id": 409665,
       "game_name": "Decide in 5 Seconds: Who Is the Culprit?",
       "file": "missing/D/409665-decide-in-5-seconds-who-is-the-culprit.json"
+    },
+    {
+      "igdb_id": 405694,
+      "game_name": "Decide Your Fate",
+      "file": "missing/D/405694-decide-your-fate.json"
     },
     {
       "igdb_id": 206358,
@@ -131338,6 +131388,11 @@
       "file": "missing/D/133464-dust-fleet.json"
     },
     {
+      "igdb_id": 405737,
+      "game_name": "Dust On Thorn",
+      "file": "missing/D/405737-dust-on-thorn.json"
+    },
+    {
       "igdb_id": 260175,
       "game_name": "Dust Raiders",
       "file": "missing/D/260175-dust-raiders.json"
@@ -136828,6 +136883,11 @@
       "file": "missing/E/310371-ember-knights-wrath-of-the-architect.json"
     },
     {
+      "igdb_id": 405704,
+      "game_name": "Ember Legion",
+      "file": "missing/E/405704-ember-legion.json"
+    },
+    {
       "igdb_id": 296349,
       "game_name": "Ember Point",
       "file": "missing/E/296349-ember-point.json"
@@ -138301,6 +138361,11 @@
       "igdb_id": 407547,
       "game_name": "Endless Invader",
       "file": "missing/E/407547-endless-invader.json"
+    },
+    {
+      "igdb_id": 405715,
+      "game_name": "Endless Isolation",
+      "file": "missing/E/405715-endless-isolation.json"
     },
     {
       "igdb_id": 126901,
@@ -152858,6 +152923,11 @@
       "file": "missing/F/170495-femboy-bangers-pub-and-grill.json"
     },
     {
+      "igdb_id": 405697,
+      "game_name": "Femboy Next Door",
+      "file": "missing/F/405697-femboy-next-door.json"
+    },
+    {
       "igdb_id": 171068,
       "game_name": "Femboys of the Phalanx",
       "file": "missing/F/171068-femboys-of-the-phalanx.json"
@@ -155356,6 +155426,11 @@
       "igdb_id": 329590,
       "game_name": "Final Redoubt: Zombie Apocalypse",
       "file": "missing/F/329590-final-redoubt-zombie-apocalypse.json"
+    },
+    {
+      "igdb_id": 405685,
+      "game_name": "Final Rites",
+      "file": "missing/F/405685-final-rites.json"
     },
     {
       "igdb_id": 398954,
@@ -174308,6 +174383,11 @@
       "file": "missing/G/414311-gaslift-a-chair-horror.json"
     },
     {
+      "igdb_id": 405686,
+      "game_name": "Gaslit Bay",
+      "file": "missing/G/405686-gaslit-bay.json"
+    },
+    {
       "igdb_id": 229796,
       "game_name": "Gasnator",
       "file": "missing/G/229796-gasnator.json"
@@ -192008,6 +192088,11 @@
       "file": "missing/H/131388-hanabi.json"
     },
     {
+      "igdb_id": 405738,
+      "game_name": "Hanabi and Ghost Girl",
+      "file": "missing/H/405738-hanabi-and-ghost-girl.json"
+    },
+    {
       "igdb_id": 279782,
       "game_name": "Hanabi Shokunin ni Narou 2",
       "file": "missing/H/279782-hanabi-shokunin-ni-narou-2.json"
@@ -192266,6 +192351,11 @@
       "igdb_id": 169892,
       "game_name": "Hang On",
       "file": "missing/H/169892-hang-on.json"
+    },
+    {
+      "igdb_id": 405718,
+      "game_name": "Hang Out",
+      "file": "missing/H/405718-hang-out.json"
     },
     {
       "igdb_id": 333092,
@@ -195718,6 +195808,11 @@
       "file": "missing/H/75203-heart-of-the-house.json"
     },
     {
+      "igdb_id": 405722,
+      "game_name": "Heart of the Mountain",
+      "file": "missing/H/405722-heart-of-the-mountain.json"
+    },
+    {
       "igdb_id": 102326,
       "game_name": "Heart of the Woods",
       "file": "missing/H/102326-heart-of-the-woods.json"
@@ -197596,6 +197691,11 @@
       "igdb_id": 144382,
       "game_name": "Hello Charlotte: Heaven's Gate",
       "file": "missing/H/144382-hello-charlotte-heavens-gate.json"
+    },
+    {
+      "igdb_id": 405724,
+      "game_name": "Hello Charlotte: Heaven's Gate",
+      "file": "missing/H/405724-hello-charlotte-heavens-gate.json"
     },
     {
       "igdb_id": 318223,
@@ -204171,6 +204271,11 @@
       "igdb_id": 21982,
       "game_name": "HitBox",
       "file": "missing/H/21982-hitbox.json"
+    },
+    {
+      "igdb_id": 405684,
+      "game_name": "Hitchhiking to Hell",
+      "file": "missing/H/405684-hitchhiking-to-hell.json"
     },
     {
       "igdb_id": 318420,
@@ -220138,6 +220243,11 @@
       "file": "missing/I/67272-insector-hecti-in-the-interchange.json"
     },
     {
+      "igdb_id": 405707,
+      "game_name": "Inselnova",
+      "file": "missing/I/405707-inselnova.json"
+    },
+    {
       "igdb_id": 215196,
       "game_name": "Insensato",
       "file": "missing/I/215196-insensato.json"
@@ -221071,6 +221181,11 @@
       "igdb_id": 93337,
       "game_name": "Interpose",
       "file": "missing/I/93337-interpose.json"
+    },
+    {
+      "igdb_id": 405690,
+      "game_name": "Interred",
+      "file": "missing/I/405690-interred.json"
     },
     {
       "igdb_id": 184592,
@@ -234786,6 +234901,11 @@
       "igdb_id": 105123,
       "game_name": "Ketto Majiku",
       "file": "missing/K/105123-ketto-majiku.json"
+    },
+    {
+      "igdb_id": 405720,
+      "game_name": "Ketzer",
+      "file": "missing/K/405720-ketzer.json"
     },
     {
       "igdb_id": 42618,
@@ -255251,6 +255371,11 @@
       "igdb_id": 279011,
       "game_name": "Loop",
       "file": "missing/L/279011-loop.json"
+    },
+    {
+      "igdb_id": 405702,
+      "game_name": "Loop",
+      "file": "missing/L/405702-loop.json"
     },
     {
       "igdb_id": 248321,
@@ -291948,6 +292073,11 @@
       "file": "missing/M/123902-murder-by-numbers.json"
     },
     {
+      "igdb_id": 405716,
+      "game_name": "Murder Castle",
+      "file": "missing/M/405716-murder-castle.json"
+    },
+    {
       "igdb_id": 153948,
       "game_name": "Murder Diaries",
       "file": "missing/M/153948-murder-diaries.json"
@@ -299843,6 +299973,11 @@
       "file": "missing/N/156183-necromancer-winter.json"
     },
     {
+      "igdb_id": 405706,
+      "game_name": "Necromancer's Army",
+      "file": "missing/N/405706-necromancers-army.json"
+    },
+    {
       "igdb_id": 173317,
       "game_name": "Necromancer's Gift",
       "file": "missing/N/173317-necromancers-gift.json"
@@ -304663,6 +304798,11 @@
       "file": "missing/N/388213-night-ranger.json"
     },
     {
+      "igdb_id": 405696,
+      "game_name": "Night Record: Thin Walls",
+      "file": "missing/N/405696-night-record-thin-walls.json"
+    },
+    {
       "igdb_id": 236526,
       "game_name": "Night Run",
       "file": "missing/N/236526-night-run.json"
@@ -305006,6 +305146,11 @@
       "igdb_id": 120416,
       "game_name": "Nightmare Game",
       "file": "missing/N/120416-nightmare-game.json"
+    },
+    {
+      "igdb_id": 405728,
+      "game_name": "Nightmare Hospital",
+      "file": "missing/N/405728-nightmare-hospital.json"
     },
     {
       "igdb_id": 321582,
@@ -307238,6 +307383,11 @@
       "file": "missing/N/315486-no-recollection-swimsuit-dlc.json"
     },
     {
+      "igdb_id": 405713,
+      "game_name": "No Register",
+      "file": "missing/N/405713-no-register.json"
+    },
+    {
       "igdb_id": 302688,
       "game_name": "No Rest",
       "file": "missing/N/302688-no-rest.json"
@@ -308998,6 +309148,11 @@
       "file": "missing/N/391744-not-my-hand.json"
     },
     {
+      "igdb_id": 405693,
+      "game_name": "Not My Son",
+      "file": "missing/N/405693-not-my-son.json"
+    },
+    {
       "igdb_id": 377669,
       "game_name": "Not My War",
       "file": "missing/N/377669-not-my-war.json"
@@ -309861,6 +310016,11 @@
       "igdb_id": 215788,
       "game_name": "Null Event",
       "file": "missing/N/215788-null-event.json"
+    },
+    {
+      "igdb_id": 405734,
+      "game_name": "Null Kitchen Exception",
+      "file": "missing/N/405734-null-kitchen-exception.json"
     },
     {
       "igdb_id": 263213,
@@ -318856,6 +319016,11 @@
       "igdb_id": 358363,
       "game_name": "Ouroboros Saiaku.exe: Crazy for you",
       "file": "missing/O/358363-ouroboros-saiaku-exe-crazy-for-you.json"
+    },
+    {
+      "igdb_id": 405689,
+      "game_name": "Ouroboros Solitaire",
+      "file": "missing/O/405689-ouroboros-solitaire.json"
     },
     {
       "igdb_id": 68604,
@@ -347708,6 +347873,11 @@
       "file": "missing/P/127345-prologue.json"
     },
     {
+      "igdb_id": 405695,
+      "game_name": "Promethean Thirst",
+      "file": "missing/P/405695-promethean-thirst.json"
+    },
+    {
       "igdb_id": 290019,
       "game_name": "Prometheus Unbound",
       "file": "missing/P/290019-prometheus-unbound.json"
@@ -359888,6 +360058,11 @@
       "file": "missing/R/32262-reckpunk.json"
     },
     {
+      "igdb_id": 405688,
+      "game_name": "Reclaim",
+      "file": "missing/R/405688-reclaim.json"
+    },
+    {
       "igdb_id": 404308,
       "game_name": "Reclaimer",
       "file": "missing/R/404308-reclaimer.json"
@@ -362763,6 +362938,11 @@
       "file": "missing/R/328010-renegade-racing.json"
     },
     {
+      "igdb_id": 405710,
+      "game_name": "Renegade Run",
+      "file": "missing/R/405710-renegade-run.json"
+    },
+    {
       "igdb_id": 5501,
       "game_name": "Renegade X",
       "file": "missing/R/5501-renegade-x.json"
@@ -363341,6 +363521,11 @@
       "igdb_id": 417512,
       "game_name": "Rescue Team: Phantom Crisis - Collector's Edition",
       "file": "missing/R/417512-rescue-team-phantom-crisis-collectors-edition.json"
+    },
+    {
+      "igdb_id": 405719,
+      "game_name": "Rescue the Hostages: Misaligned Fate",
+      "file": "missing/R/405719-rescue-the-hostages-misaligned-fate.json"
     },
     {
       "igdb_id": 138616,
@@ -368236,6 +368421,11 @@
       "igdb_id": 117719,
       "game_name": "Ritualistic Madness",
       "file": "missing/R/117719-ritualistic-madness.json"
+    },
+    {
+      "igdb_id": 405698,
+      "game_name": "Rituals of Demons",
+      "file": "missing/R/405698-rituals-of-demons.json"
     },
     {
       "igdb_id": 201253,
@@ -378141,6 +378331,11 @@
       "igdb_id": 48674,
       "game_name": "Sakigake!! Otokojuku: Shippuu Ichi Gou Sei",
       "file": "missing/S/48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json"
+    },
+    {
+      "igdb_id": 405703,
+      "game_name": "Sakimori",
+      "file": "missing/S/405703-sakimori.json"
     },
     {
       "igdb_id": 72366,
@@ -403918,6 +404113,11 @@
       "file": "missing/S/302375-snowsquall-grip.json"
     },
     {
+      "igdb_id": 405717,
+      "game_name": "Snowstorm",
+      "file": "missing/S/405717-snowstorm.json"
+    },
+    {
       "igdb_id": 216888,
       "game_name": "Snowtracked",
       "file": "missing/S/216888-snowtracked.json"
@@ -425481,6 +425681,11 @@
       "igdb_id": 206738,
       "game_name": "Stream Typers",
       "file": "missing/S/206738-stream-typers.json"
+    },
+    {
+      "igdb_id": 405699,
+      "game_name": "Streamchat: Horror Live",
+      "file": "missing/S/405699-streamchat-horror-live.json"
     },
     {
       "igdb_id": 358361,
@@ -465133,6 +465338,11 @@
       "file": "missing/T/243385-the-murder-of-sonic-the-hedgehog.json"
     },
     {
+      "igdb_id": 405714,
+      "game_name": "The Murder of Yesterday",
+      "file": "missing/T/405714-the-murder-of-yesterday.json"
+    },
+    {
       "igdb_id": 69801,
       "game_name": "The Murderer",
       "file": "missing/T/69801-the-murderer.json"
@@ -467648,6 +467858,11 @@
       "file": "missing/T/75764-the-resistance.json"
     },
     {
+      "igdb_id": 405691,
+      "game_name": "The Resonance Initiative",
+      "file": "missing/T/405691-the-resonance-initiative.json"
+    },
+    {
       "igdb_id": 289971,
       "game_name": "The Resonant",
       "file": "missing/T/289971-the-resonant.json"
@@ -469666,6 +469881,11 @@
       "igdb_id": 300692,
       "game_name": "The Simuloid Affair: Infinite Possibilities",
       "file": "missing/T/300692-the-simuloid-affair-infinite-possibilities.json"
+    },
+    {
+      "igdb_id": 405705,
+      "game_name": "The Sin of Fabien",
+      "file": "missing/T/405705-the-sin-of-fabien.json"
     },
     {
       "igdb_id": 175303,
@@ -497613,6 +497833,11 @@
       "file": "missing/T/72099-twinworld-land-of-vision.json"
     },
     {
+      "igdb_id": 405721,
+      "game_name": "Twirly Treats",
+      "file": "missing/T/405721-twirly-treats.json"
+    },
+    {
       "igdb_id": 255960,
       "game_name": "Twist & Turn",
       "file": "missing/T/255960-twist-and-turn.json"
@@ -501913,6 +502138,11 @@
       "file": "missing/U/260416-unending.json"
     },
     {
+      "igdb_id": 405732,
+      "game_name": "Unending Aqua",
+      "file": "missing/U/405732-unending-aqua.json"
+    },
+    {
       "igdb_id": 298846,
       "game_name": "Unending Dawn",
       "file": "missing/U/298846-unending-dawn.json"
@@ -503111,6 +503341,11 @@
       "igdb_id": 249205,
       "game_name": "Unplug",
       "file": "missing/U/249205-unplug.json"
+    },
+    {
+      "igdb_id": 405731,
+      "game_name": "Unpossess 2",
+      "file": "missing/U/405731-unpossess-2.json"
     },
     {
       "igdb_id": 128632,
@@ -507101,6 +507336,11 @@
       "igdb_id": 282018,
       "game_name": "Velkyn",
       "file": "missing/V/282018-velkyn.json"
+    },
+    {
+      "igdb_id": 405723,
+      "game_name": "Vellar",
+      "file": "missing/V/405723-vellar.json"
     },
     {
       "igdb_id": 140026,
@@ -523843,6 +524083,11 @@
       "file": "missing/W/415914-woke-quest.json"
     },
     {
+      "igdb_id": 405726,
+      "game_name": "Woke up in a Dark Nightmare",
+      "file": "missing/W/405726-woke-up-in-a-dark-nightmare.json"
+    },
+    {
       "igdb_id": 9573,
       "game_name": "Wolf",
       "file": "missing/W/9573-wolf.json"
@@ -537181,6 +537426,11 @@
       "igdb_id": 319960,
       "game_name": "Zombies Crusher",
       "file": "missing/Z/319960-zombies-crusher.json"
+    },
+    {
+      "igdb_id": 405736,
+      "game_name": "Zombies Everywhere 3",
+      "file": "missing/Z/405736-zombies-everywhere-3.json"
     },
     {
       "igdb_id": 215115,
