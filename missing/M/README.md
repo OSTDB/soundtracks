@@ -4099,6 +4099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minescroller | 178612 | [178612-minescroller.json](./178612-minescroller.json) |
 | Mineshaft | 333023 | [333023-mineshaft.json](./333023-mineshaft.json) |
 | Minestrife | 158157 | [158157-minestrife.json](./158157-minestrife.json) |
+| MineSweep | 96878 | [96878-minesweep.json](./96878-minesweep.json) |
 | Minesweeper | 234164 | [234164-minesweeper.json](./234164-minesweeper.json) |
 | Minesweeper | 307595 | [307595-minesweeper.json](./307595-minesweeper.json) |
 | Minesweeper | 327606 | [327606-minesweeper.json](./327606-minesweeper.json) |
@@ -4366,6 +4367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirk | 179584 | [179584-mirk.json](./179584-mirk.json) |
 | Mirko Polo | 298564 | [298564-mirko-polo.json](./298564-mirko-polo.json) |
 | Miro | 291051 | [291051-miro.json](./291051-miro.json) |
+| Mirror Drop | 99153 | [99153-mirror-drop.json](./99153-mirror-drop.json) |
 | Mirror Head | 327417 | [327417-mirror-head.json](./327417-mirror-head.json) |
 | Mirror House Cornflake | 150109 | [150109-mirror-house-cornflake.json](./150109-mirror-house-cornflake.json) |
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
@@ -6056,6 +6058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Flippers Out For Vengeance | 278668 | [278668-mr-flippers-out-for-vengeance.json](./278668-mr-flippers-out-for-vengeance.json) |
 | Mr Giggle | 138201 | [138201-mr-giggle.json](./138201-mr-giggle.json) |
 | Mr Giggle 2 | 143043 | [143043-mr-giggle-2.json](./143043-mr-giggle-2.json) |
+| Mr Gun | 98848 | [98848-mr-gun.json](./98848-mr-gun.json) |
 | Mr Henry and his Magical Hat | 58508 | [58508-mr-henry-and-his-magical-hat.json](./58508-mr-henry-and-his-magical-hat.json) |
 | Mr Jack Pocket | 175410 | [175410-mr-jack-pocket.json](./175410-mr-jack-pocket.json) |
 | Mr Jorries! | 157136 | [157136-mr-jorries.json](./157136-mr-jorries.json) |
