@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave! Cave! Deus Videt. | 388940 | [388940-cave-cave-deus-videt.json](./388940-cave-cave-deus-videt.json) |
 | Caveblazers: Together | 170909 | [170909-caveblazers-together.json](./170909-caveblazers-together.json) |
 | Caved-in | 249797 | [249797-caved-in.json](./249797-caved-in.json) |
+| Cavedude | 397940 | [397940-cavedude.json](./397940-cavedude.json) |
 | CaveFiction | 216789 | [216789-cavefiction.json](./216789-cavefiction.json) |
 | Cavegirl Adventures | 163992 | [163992-cavegirl-adventures.json](./163992-cavegirl-adventures.json) |
 | CaveIn: Miner Rescue Team | 68639 | [68639-cavein-miner-rescue-team.json](./68639-cavein-miner-rescue-team.json) |
@@ -2533,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocobo Racing | 22896 | [22896-chocobo-racing.json](./22896-chocobo-racing.json) |
 | Chocobo's Mystery Dungeon Every Buddy! | 109465 | [109465-chocobos-mystery-dungeon-every-buddy.json](./109465-chocobos-mystery-dungeon-every-buddy.json) |
 | Chocolat Rush | 120789 | [120789-chocolat-rush.json](./120789-chocolat-rush.json) |
+| Chocolate Cake | 397948 | [397948-chocolate-cake.json](./397948-chocolate-cake.json) |
 | Chocolate Factory | 112995 | [112995-chocolate-factory.json](./112995-chocolate-factory.json) |
 | Chocolate makes you happy 4 | 89935 | [89935-chocolate-makes-you-happy-4.json](./89935-chocolate-makes-you-happy-4.json) |
 | Chocolate makes you happy 5 | 99433 | [99433-chocolate-makes-you-happy-5.json](./99433-chocolate-makes-you-happy-5.json) |
@@ -5892,6 +5894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criticality | 180788 | [180788-criticality.json](./180788-criticality.json) |
 | CriticalOrb | 290929 | [290929-criticalorb.json](./290929-criticalorb.json) |
 | Criticom | 19165 | [19165-criticom.json](./19165-criticom.json) |
+| Critter Box | 397926 | [397926-critter-box.json](./397926-critter-box.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
 | Critter Café | 305075 | [305075-critter-cafe.json](./305075-critter-cafe.json) |
 | Critter Clicker | 169845 | [169845-critter-clicker.json](./169845-critter-clicker.json) |
