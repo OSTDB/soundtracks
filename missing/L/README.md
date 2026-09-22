@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Yashiyu 4 | 173774 | [173774-legend-of-yashiyu-4.json](./173774-legend-of-yashiyu-4.json) |
 | Legend of You | 163843 | [163843-legend-of-you.json](./163843-legend-of-you.json) |
 | Legend of Zelda: The Dual Mage | 323891 | [323891-legend-of-zelda-the-dual-mage.json](./323891-legend-of-zelda-the-dual-mage.json) |
+| Legend's Duty: The Rifted World | 397265 | [397265-legends-duty-the-rifted-world.json](./397265-legends-duty-the-rifted-world.json) |
 | Legendary | 7049 | [7049-legendary.json](./7049-legendary.json) |
 | Legendary Arcane 2 Universe | 129750 | [129750-legendary-arcane-2-universe.json](./129750-legendary-arcane-2-universe.json) |
 | Legendary Archer: Rebirth | 224029 | [224029-legendary-archer-rebirth.json](./224029-legendary-archer-rebirth.json) |
@@ -1750,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like Clockwork | 181924 | [181924-like-clockwork.json](./181924-like-clockwork.json) |
 | Like Gulls Crying at the Dawn | 136226 | [136226-like-gulls-crying-at-the-dawn.json](./136226-like-gulls-crying-at-the-dawn.json) |
 | Like Thunder "Go" | 297484 | [297484-like-thunder-go.json](./297484-like-thunder-go.json) |
+| Like x Love: Totsukawa Hikaru | 397225 | [397225-like-x-love-totsukawa-hikaru.json](./397225-like-x-love-totsukawa-hikaru.json) |
 | Lil Gator Game | 145796 | [145796-lil-gator-game.json](./145796-lil-gator-game.json) |
 | Lil Guy Resort | 380405 | [380405-lil-guy-resort.json](./380405-lil-guy-resort.json) |
 | Lil Guys | 322992 | [322992-lil-guys.json](./322992-lil-guys.json) |
@@ -1943,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lipstick. ADV | 269686 | [269686-lipstick-adv.json](./269686-lipstick-adv.json) |
 | Lipsync Killers | 256888 | [256888-lipsync-killers.json](./256888-lipsync-killers.json) |
 | LipTrip: My Boss is My Heat Suppressant | 271985 | [271985-liptrip-my-boss-is-my-heat-suppressant.json](./271985-liptrip-my-boss-is-my-heat-suppressant.json) |
+| LipTrip: My Boss Is My Heat Suppressant?! | 397215 | [397215-liptrip-my-boss-is-my-heat-suppressant.json](./397215-liptrip-my-boss-is-my-heat-suppressant.json) |
 | Liquid Abyss: The Melted Jelly | 331883 | [331883-liquid-abyss-the-melted-jelly.json](./331883-liquid-abyss-the-melted-jelly.json) |
 | Liquid Light | 286001 | [286001-liquid-light.json](./286001-liquid-light.json) |
 | Liquid Pinball | 30357 | [30357-liquid-pinball.json](./30357-liquid-pinball.json) |
@@ -3397,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna: Obscura | 341493 | [341493-luna-obscura.json](./341493-luna-obscura.json) |
 | Luna: Supernatural Hunter | 189103 | [189103-luna-supernatural-hunter.json](./189103-luna-supernatural-hunter.json) |
 | Luna: The Shadow Dust | 56463 | [56463-luna-the-shadow-dust.json](./56463-luna-the-shadow-dust.json) |
+| Luna's Room | 397237 | [397237-lunas-room.json](./397237-lunas-room.json) |
 | Luna's Twilight | 319211 | [319211-lunas-twilight.json](./319211-lunas-twilight.json) |
 | Luna's Wandering Stars | 17983 | [17983-lunas-wandering-stars.json](./17983-lunas-wandering-stars.json) |
 | Lunacy | 71493 | [71493-lunacy.json](./71493-lunacy.json) |
