@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battletoads | 365173 | [365173-battletoads.json](./365173-battletoads.json) |
 | BattleTubers | 280794 | [280794-battletubers.json](./280794-battletubers.json) |
 | Battlewagon | 65486 | [65486-battlewagon.json](./65486-battlewagon.json) |
+| Battlewake | 118306 | [118306-battlewake.json](./118306-battlewake.json) |
 | Battlewang | 23845 | [23845-battlewang.json](./23845-battlewang.json) |
 | BattleWords | 121043 | [121043-battlewords.json](./121043-battlewords.json) |
 | Battlezone | 276519 | [276519-battlezone.json](./276519-battlezone.json) |
@@ -2974,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blablublas Battle Royale Shooter | 370787 | [370787-blablublas-battle-royale-shooter.json](./370787-blablublas-battle-royale-shooter.json) |
 | Black | 159265 | [159265-black.json](./159265-black.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
+| Black Baron | 118530 | [118530-black-baron.json](./118530-black-baron.json) |
 | Black Bart | 101367 | [101367-black-bart.json](./101367-black-bart.json) |
 | Black Bass with Blue Marlin | 43881 | [43881-black-bass-with-blue-marlin.json](./43881-black-bass-with-blue-marlin.json) |
 | Black Bass: Lure Fishing | 7787 | [7787-black-bass-lure-fishing.json](./7787-black-bass-lure-fishing.json) |
@@ -4327,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonnie's Bakery | 219034 | [219034-bonnies-bakery.json](./219034-bonnies-bakery.json) |
 | Bonnie's Bookstore | 3757 | [3757-bonnies-bookstore.json](./3757-bonnies-bookstore.json) |
 | Bonsai Calendar | 142859 | [142859-bonsai-calendar.json](./142859-bonsai-calendar.json) |
+| BonVoyage! | 118785 | [118785-bonvoyage.json](./118785-bonvoyage.json) |
 | Bonza Planet | 354445 | [354445-bonza-planet.json](./354445-bonza-planet.json) |
 | Bonza Word Puzzle | 90678 | [90678-bonza-word-puzzle.json](./90678-bonza-word-puzzle.json) |
 | Bonzala | 269595 | [269595-bonzala.json](./269595-bonzala.json) |
