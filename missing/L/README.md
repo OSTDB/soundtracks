@@ -1640,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light on Earth | 383971 | [383971-light-on-earth.json](./383971-light-on-earth.json) |
 | Light Paradox | 190068 | [190068-light-paradox.json](./190068-light-paradox.json) |
 | Light Rider | 108427 | [108427-light-rider.json](./108427-light-rider.json) |
+| Light Source | 416108 | [416108-light-source.json](./416108-light-source.json) |
 | Light Speed Adventures | 330518 | [330518-light-speed-adventures.json](./330518-light-speed-adventures.json) |
 | Light Speed Bike: Motor Cycle Rider Game Pro | 174201 | [174201-light-speed-bike-motor-cycle-rider-game-pro.json](./174201-light-speed-bike-motor-cycle-rider-game-pro.json) |
 | Light Strike Array | 76583 | [76583-light-strike-array.json](./76583-light-strike-array.json) |
@@ -1803,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Lane | 349957 | [349957-liminal-lane.json](./349957-liminal-lane.json) |
 | Liminal Point | 330566 | [330566-liminal-point.json](./330566-liminal-point.json) |
 | Liminal Sick Pizza Blue | 398480 | [398480-liminal-sick-pizza-blue.json](./398480-liminal-sick-pizza-blue.json) |
+| Liminal Sorting | 416092 | [416092-liminal-sorting.json](./416092-liminal-sorting.json) |
 | Liminal Spaces Jam | 323735 | [323735-liminal-spaces-jam.json](./323735-liminal-spaces-jam.json) |
 | Liminal Waters | 373545 | [373545-liminal-waters.json](./373545-liminal-waters.json) |
 | Liminal: The Forgotten Maze | 375803 | [375803-liminal-the-forgotten-maze.json](./375803-liminal-the-forgotten-maze.json) |
@@ -2151,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Tree Kingdom | 381625 | [381625-little-tree-kingdom.json](./381625-little-tree-kingdom.json) |
 | Little Triangle | 29985 | [29985-little-triangle.json](./29985-little-triangle.json) |
 | Little Trouble on Tribuda Island | 236281 | [236281-little-trouble-on-tribuda-island.json](./236281-little-trouble-on-tribuda-island.json) |
+| Little Troubles in Spooky Town | 416076 | [416076-little-troubles-in-spooky-town.json](./416076-little-troubles-in-spooky-town.json) |
 | Little Trus Man | 62412 | [62412-little-trus-man.json](./62412-little-trus-man.json) |
 | Little Walker | 33388 | [33388-little-walker.json](./33388-little-walker.json) |
 | Little Warlings | 181763 | [181763-little-warlings.json](./181763-little-warlings.json) |
@@ -2386,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lodge | 351692 | [351692-lodge.json](./351692-lodge.json) |
 | Lodoss-tou Senki: Eiyuu Kishiden GB | 80222 | [80222-lodoss-tou-senki-eiyuu-kishiden-gb.json](./80222-lodoss-tou-senki-eiyuu-kishiden-gb.json) |
 | Lodoss-tou Senki: Fuku Zinduke | 66143 | [66143-lodoss-tou-senki-fuku-zinduke.json](./66143-lodoss-tou-senki-fuku-zinduke.json) |
+| Lofelia's Cozy Corner | 416097 | [416097-lofelias-cozy-corner.json](./416097-lofelias-cozy-corner.json) |
 | Lofi Ball | 256276 | [256276-lofi-ball.json](./256276-lofi-ball.json) |
 | Lofi Ball: Dessert | 255981 | [255981-lofi-ball-dessert.json](./255981-lofi-ball-dessert.json) |
 | Lofi Ball: Dungeon | 256278 | [256278-lofi-ball-dungeon.json](./256278-lofi-ball-dungeon.json) |
