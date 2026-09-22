@@ -3776,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronnie O'Sullivan's Snooker | 64669 | [64669-ronnie-osullivans-snooker.json](./64669-ronnie-osullivans-snooker.json) |
 | Ronny's Climb | 291079 | [291079-ronnys-climb.json](./291079-ronnys-climb.json) |
 | Ronshade | 264639 | [264639-ronshade.json](./264639-ronshade.json) |
+| Rontgard | 398553 | [398553-rontgard.json](./398553-rontgard.json) |
 | Ronza | 370781 | [370781-ronza.json](./370781-ronza.json) |
 | Roof Genocide | 193492 | [193492-roof-genocide.json](./193492-roof-genocide.json) |
 | Roof Jump Stunt Driver | 231054 | [231054-roof-jump-stunt-driver.json](./231054-roof-jump-stunt-driver.json) |
