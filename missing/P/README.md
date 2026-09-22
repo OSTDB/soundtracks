@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradoxical Heat | 327179 | [327179-paradoxical-heat.json](./327179-paradoxical-heat.json) |
 | Paradroid | 22518 | [22518-paradroid.json](./22518-paradroid.json) |
 | Paradroid 90 | 13253 | [13253-paradroid-90.json](./13253-paradroid-90.json) |
+| Paraedolon | 320011 | [320011-paraedolon.json](./320011-paraedolon.json) |
 | Paragnosia | 320184 | [320184-paragnosia.json](./320184-paragnosia.json) |
 | Paragon of Time | 339907 | [339907-paragon-of-time.json](./339907-paragon-of-time.json) |
 | Paragon Pioneers | 206351 | [206351-paragon-pioneers.json](./206351-paragon-pioneers.json) |
@@ -2116,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieces of Beauty 2 | 190173 | [190173-pieces-of-beauty-2.json](./190173-pieces-of-beauty-2.json) |
 | Pieces of Cake | 181256 | [181256-pieces-of-cake.json](./181256-pieces-of-cake.json) |
 | Pieces of Eight | 96677 | [96677-pieces-of-eight.json](./96677-pieces-of-eight.json) |
+| Pieces of Me | 318759 | [318759-pieces-of-me.json](./318759-pieces-of-me.json) |
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
 | Pien | 144144 | [144144-pien.json](./144144-pien.json) |
 | Piercing Fortress Europa | 129591 | [129591-piercing-fortress-europa.json](./129591-piercing-fortress-europa.json) |
@@ -3188,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayStation All-Stars Battle Royale: Bistro Toro | 315078 | [315078-playstation-all-stars-battle-royale-bistro-toro.json](./315078-playstation-all-stars-battle-royale-bistro-toro.json) |
 | PlayStation All-Stars Battle Royale: Funky Astro Suit PaRappa | 315077 | [315077-playstation-all-stars-battle-royale-funky-astro-suit-parappa.json](./315077-playstation-all-stars-battle-royale-funky-astro-suit-parappa.json) |
 | PlayStation All-Stars Battle Royale: Instructor Mooselini Minion | 315079 | [315079-playstation-all-stars-battle-royale-instructor-mooselini-minion.json](./315079-playstation-all-stars-battle-royale-instructor-mooselini-minion.json) |
+| PlayStation Classic | 213365 | [213365-playstation-classic.json](./213365-playstation-classic.json) |
 | PlayStation Home Arcade | 80197 | [80197-playstation-home-arcade.json](./80197-playstation-home-arcade.json) |
 | PlayStation Move Ape Escape | 20630 | [20630-playstation-move-ape-escape.json](./20630-playstation-move-ape-escape.json) |
 | PlayStation Move Heroes | 19664 | [19664-playstation-move-heroes.json](./19664-playstation-move-heroes.json) |
