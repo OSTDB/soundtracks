@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Twister | 203458 | [203458-air-twister.json](./203458-air-twister.json) |
 | Air Warrior | 14232 | [14232-air-warrior.json](./14232-air-warrior.json) |
 | Air Warrior III | 74086 | [74086-air-warrior-iii.json](./74086-air-warrior-iii.json) |
+| Air Wars | 23535 | [23535-air-wars.json](./23535-air-wars.json) |
 | Air Wars | 336561 | [336561-air-wars.json](./336561-air-wars.json) |
 | Air Zonk | 42129 | [42129-air-zonk.json](./42129-air-zonk.json) |
 | Aira VR | 113673 | [113673-aira-vr.json](./113673-aira-vr.json) |
@@ -3473,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaHero | 237665 | [237665-aquahero.json](./237665-aquahero.json) |
 | AquaLife 3D | 288877 | [288877-aqualife-3d.json](./288877-aqualife-3d.json) |
 | Aquametsis | 278427 | [278427-aquametsis.json](./278427-aquametsis.json) |
+| AquaMoto Racing 3D | 23521 | [23521-aquamoto-racing-3d.json](./23521-aquamoto-racing-3d.json) |
 | Aquanaut | 297657 | [297657-aquanaut.json](./297657-aquanaut.json) |
 | Aquanaut | 83910 | [83910-aquanaut.json](./83910-aquanaut.json) |
 | Aquanaut's Holiday | 20589 | [20589-aquanauts-holiday.json](./20589-aquanauts-holiday.json) |
