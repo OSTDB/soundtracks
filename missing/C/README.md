@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chamber of Darkness | 96853 | [96853-chamber-of-darkness.json](./96853-chamber-of-darkness.json) |
 | Chamber of Hex | 257381 | [257381-chamber-of-hex.json](./257381-chamber-of-hex.json) |
 | Chamber of the Sci-Mutant Priestess | 81786 | [81786-chamber-of-the-sci-mutant-priestess.json](./81786-chamber-of-the-sci-mutant-priestess.json) |
+| Chamber One | 394528 | [394528-chamber-one.json](./394528-chamber-one.json) |
 | Chamber Survival | 298692 | [298692-chamber-survival.json](./298692-chamber-survival.json) |
 | Chambered | 40708 | [40708-chambered.json](./40708-chambered.json) |
 | Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
@@ -3827,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Hunter | 331678 | [331678-coin-hunter.json](./331678-coin-hunter.json) |
 | Coin Jar | 291742 | [291742-coin-jar.json](./291742-coin-jar.json) |
 | Coin Master | 87020 | [87020-coin-master.json](./87020-coin-master.json) |
+| Coin Pit | 394563 | [394563-coin-pit.json](./394563-coin-pit.json) |
 | Coin Push RPG | 336010 | [336010-coin-push-rpg.json](./336010-coin-push-rpg.json) |
 | Coin Rush | 336594 | [336594-coin-rush.json](./336594-coin-rush.json) |
 | Coin Slots Live | 386856 | [386856-coin-slots-live.json](./386856-coin-slots-live.json) |
@@ -5066,6 +5068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmica | 149948 | [149948-cosmica.json](./149948-cosmica.json) |
 | Cosminers | 309524 | [309524-cosminers.json](./309524-cosminers.json) |
 | Cosmo 02 | 165690 | [165690-cosmo-02.json](./165690-cosmo-02.json) |
+| Cosmo Cargo | 394499 | [394499-cosmo-cargo.json](./394499-cosmo-cargo.json) |
 | Cosmo Fighter II | 112162 | [112162-cosmo-fighter-ii.json](./112162-cosmo-fighter-ii.json) |
 | Cosmo Flight | 346052 | [346052-cosmo-flight.json](./346052-cosmo-flight.json) |
 | Cosmo Gang the Video | 39644 | [39644-cosmo-gang-the-video.json](./39644-cosmo-gang-the-video.json) |
@@ -5758,6 +5761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepytape Rewind: Not From Here | 399002 | [399002-creepytape-rewind-not-from-here.json](./399002-creepytape-rewind-not-from-here.json) |
 | Crelabeth: Unholy Lands | 229156 | [229156-crelabeth-unholy-lands.json](./229156-crelabeth-unholy-lands.json) |
 | Creme de la Creme | 126884 | [126884-creme-de-la-creme.json](./126884-creme-de-la-creme.json) |
+| Crepe Master! | 394504 | [394504-crepe-master.json](./394504-crepe-master.json) |
 | Crescendo Of Dreams + Surmounting Terror | 271490 | [271490-crescendo-of-dreams-surmounting-terror.json](./271490-crescendo-of-dreams-surmounting-terror.json) |
 | Crescent County | 305181 | [305181-crescent-county.json](./305181-crescent-county.json) |
 | Crescent Creek: Survival Horror | 416812 | [416812-crescent-creek-survival-horror.json](./416812-crescent-creek-survival-horror.json) |
