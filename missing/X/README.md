@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X3: Terran Conflict | 9320 | [9320-x3-terran-conflict.json](./9320-x3-terran-conflict.json) |
 | X4: Foundations - Collector's Edition | 124803 | [124803-x4-foundations-collectors-edition.json](./124803-x4-foundations-collectors-edition.json) |
 | X4: Foundations - Tides of Avarice | 186900 | [186900-x4-foundations-tides-of-avarice.json](./186900-x4-foundations-tides-of-avarice.json) |
+| X4: Hyperion Pack | 413188 | [413188-x4-hyperion-pack.json](./413188-x4-hyperion-pack.json) |
 | X4: Split Vendetta | 124814 | [124814-x4-split-vendetta.json](./124814-x4-split-vendetta.json) |
 | X8 | 220724 | [220724-x8.json](./220724-x8.json) |
 | Xadom | 294729 | [294729-xadom.json](./294729-xadom.json) |
