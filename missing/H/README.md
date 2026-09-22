@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer time! | 178089 | [178089-hammer-time.json](./178089-hammer-time.json) |
 | Hammer vs. Evil D. in Soulfire | 201166 | [201166-hammer-vs-evil-d-in-soulfire.json](./201166-hammer-vs-evil-d-in-soulfire.json) |
 | Hammerfight | 9666 | [9666-hammerfight.json](./9666-hammerfight.json) |
+| Hammerhead | 406308 | [406308-hammerhead.json](./406308-hammerhead.json) |
 | HammerHelm | 47136 | [47136-hammerhelm.json](./47136-hammerhelm.json) |
 | Hammerin' Harry 2: Dan the Red Strikes Back - Collector's Edition | 306987 | [306987-hammerin-harry-2-dan-the-red-strikes-back-collectors-edition.json](./306987-hammerin-harry-2-dan-the-red-strikes-back-collectors-edition.json) |
 | Hammerin' Harry: Collector's Edition | 306986 | [306986-hammerin-harry-collectors-edition.json](./306986-hammerin-harry-collectors-edition.json) |
@@ -3579,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Host Master Deux: Quest for Identity | 62185 | [62185-host-master-deux-quest-for-identity.json](./62185-host-master-deux-quest-for-identity.json) |
 | Hostage Heart | 417565 | [417565-hostage-heart.json](./417565-hostage-heart.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
+| Hosting Simulator: 2026 | 406312 | [406312-hosting-simulator-2026.json](./406312-hosting-simulator-2026.json) |
 | Hostyle | 397700 | [397700-hostyle.json](./397700-hostyle.json) |
 | Hot & Hentai: Beach Yui | 324490 | [324490-hot-and-hentai-beach-yui.json](./324490-hot-and-hentai-beach-yui.json) |
 | Hot & Hentai: Gamer Etsuko | 324491 | [324491-hot-and-hentai-gamer-etsuko.json](./324491-hot-and-hentai-gamer-etsuko.json) |
@@ -3675,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hotch Kiss | 148358 | [148358-hotch-kiss.json](./148358-hotch-kiss.json) |
 | Hotch Kiss | 63302 | [63302-hotch-kiss.json](./63302-hotch-kiss.json) |
+| Hotdog Butcher | 406283 | [406283-hotdog-butcher.json](./406283-hotdog-butcher.json) |
 | Hotdog Delivery Hotdog | 390621 | [390621-hotdog-delivery-hotdog.json](./390621-hotdog-delivery-hotdog.json) |
 | Hotdog Samurai | 246953 | [246953-hotdog-samurai.json](./246953-hotdog-samurai.json) |
 | Hotdog Storm | 39679 | [39679-hotdog-storm.json](./39679-hotdog-storm.json) |
