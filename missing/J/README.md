@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice Became Prey | 351596 | [351596-justice-became-prey.json](./351596-justice-became-prey.json) |
 | Justice Fighting Force | 206948 | [206948-justice-fighting-force.json](./206948-justice-fighting-force.json) |
 | Justice League | 220121 | [220121-justice-league.json](./220121-justice-league.json) |
+| Justice League Action Run | 27709 | [27709-justice-league-action-run.json](./27709-justice-league-action-run.json) |
 | Justice League Heroes | 197882 | [197882-justice-league-heroes.json](./197882-justice-league-heroes.json) |
 | Justice League United | 313329 | [313329-justice-league-united.json](./313329-justice-league-united.json) |
 | Justice Project | 398968 | [398968-justice-project.json](./398968-justice-project.json) |
