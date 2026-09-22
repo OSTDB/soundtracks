@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom at War | 84254 | [84254-kingdom-at-war.json](./84254-kingdom-at-war.json) |
 | Kingdom Builder | 61049 | [61049-kingdom-builder.json](./61049-kingdom-builder.json) |
 | Kingdom Chronicles | 89714 | [89714-kingdom-chronicles.json](./89714-kingdom-chronicles.json) |
+| Kingdom Clicker | 91157 | [91157-kingdom-clicker.json](./91157-kingdom-clicker.json) |
 | Kingdom Come: Deliverance - A Woman's Lot | 119899 | [119899-kingdom-come-deliverance-a-womans-lot.json](./119899-kingdom-come-deliverance-a-womans-lot.json) |
 | Kingdom Come: Deliverance - From the Ashes | 104985 | [104985-kingdom-come-deliverance-from-the-ashes.json](./104985-kingdom-come-deliverance-from-the-ashes.json) |
 | Kingdom Come: Deliverance - Limited Edition | 166176 | [166176-kingdom-come-deliverance-limited-edition.json](./166176-kingdom-come-deliverance-limited-edition.json) |
