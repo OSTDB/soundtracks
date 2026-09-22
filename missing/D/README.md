@@ -3907,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
 | Doge Jump | 62678 | [62678-doge-jump.json](./62678-doge-jump.json) |
 | Dogeminer | 101938 | [101938-dogeminer.json](./101938-dogeminer.json) |
+| Dogeminer: CE | 396553 | [396553-dogeminer-ce.json](./396553-dogeminer-ce.json) |
 | Dogenstein | 335369 | [335369-dogenstein.json](./335369-dogenstein.json) |
 | DogeRift | 227965 | [227965-dogerift.json](./227965-dogerift.json) |
 | Dogfight | 147831 | [147831-dogfight.json](./147831-dogfight.json) |
@@ -5974,6 +5975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dump Truck Offroad Driver 3D | 104638 | [104638-dump-truck-offroad-driver-3d.json](./104638-dump-truck-offroad-driver-3d.json) |
 | Dumpling Together | 339108 | [339108-dumpling-together.json](./339108-dumpling-together.json) |
 | Dumpster Baby | 350493 | [350493-dumpster-baby.json](./350493-dumpster-baby.json) |
+| Dumpster Dive Live | 396595 | [396595-dumpster-dive-live.json](./396595-dumpster-dive-live.json) |
 | Dumpster Divers | 366903 | [366903-dumpster-divers.json](./366903-dumpster-divers.json) |
 | Dumpster Gang | 415120 | [415120-dumpster-gang.json](./415120-dumpster-gang.json) |
 | Dumpy: Going Elephants! | 229806 | [229806-dumpy-going-elephants.json](./229806-dumpy-going-elephants.json) |
