@@ -5921,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Board | 311800 | [311800-dungeon-board.json](./311800-dungeon-board.json) |
 | Dungeon Boss: Respawned | 251660 | [251660-dungeon-boss-respawned.json](./251660-dungeon-boss-respawned.json) |
 | Dungeon Brawl | 373095 | [373095-dungeon-brawl.json](./373095-dungeon-brawl.json) |
+| Dungeon Brewmaster | 98734 | [98734-dungeon-brewmaster.json](./98734-dungeon-brewmaster.json) |
 | Dungeon Builder S | 44199 | [44199-dungeon-builder-s.json](./44199-dungeon-builder-s.json) |
 | Dungeon Clawler | 290897 | [290897-dungeon-clawler.json](./290897-dungeon-clawler.json) |
 | Dungeon Cleaner | 260667 | [260667-dungeon-cleaner.json](./260667-dungeon-cleaner.json) |
