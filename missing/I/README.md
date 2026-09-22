@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Princess Crystals | 353998 | [353998-ice-princess-crystals.json](./353998-ice-princess-crystals.json) |
 | Ice Queen Prom Salon: Princess Makeover Girls Game | 91117 | [91117-ice-queen-prom-salon-princess-makeover-girls-game.json](./91117-ice-queen-prom-salon-princess-makeover-girls-game.json) |
 | Ice Queen Wedding Salon: Frost Bridal Game | 86832 | [86832-ice-queen-wedding-salon-frost-bridal-game.json](./86832-ice-queen-wedding-salon-frost-bridal-game.json) |
+| Ice Rage | 56929 | [56929-ice-rage.json](./56929-ice-rage.json) |
 | Ice Run | 309531 | [309531-ice-run.json](./309531-ice-run.json) |
 | Ice Scream 4: Rod's Factory | 275007 | [275007-ice-scream-4-rods-factory.json](./275007-ice-scream-4-rods-factory.json) |
 | Ice Scream 6 Friends: Charlie | 273947 | [273947-ice-scream-6-friends-charlie.json](./273947-ice-scream-6-friends-charlie.json) |
@@ -2114,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islamic Fun | 318628 | [318628-islamic-fun.json](./318628-islamic-fun.json) |
 | Island | 260380 | [260380-island.json](./260380-island.json) |
 | Island | 346060 | [346060-island.json](./346060-island.json) |
+| Island | 58194 | [58194-island.json](./58194-island.json) |
 | Island Assault | 195609 | [195609-island-assault.json](./195609-island-assault.json) |
 | Island Bender | 234346 | [234346-island-bender.json](./234346-island-bender.json) |
 | Island Casino | 262406 | [262406-island-casino.json](./262406-island-casino.json) |
@@ -2183,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iso | 201763 | [201763-iso.json](./201763-iso.json) |
 | Isoball | 243779 | [243779-isoball.json](./243779-isoball.json) |
 | IsoBoom | 55504 | [55504-isoboom.json](./55504-isoboom.json) |
+| Isoland | 57337 | [57337-isoland.json](./57337-isoland.json) |
 | Isoland: Pumpkin Town | 319215 | [319215-isoland-pumpkin-town.json](./319215-isoland-pumpkin-town.json) |
 | Isoland: The Amusement Park | 141258 | [141258-isoland-the-amusement-park.json](./141258-isoland-the-amusement-park.json) |
 | Isolani | 22394 | [22394-isolani.json](./22394-isolani.json) |
