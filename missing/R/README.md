@@ -1360,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Genie: An Eidola Tale | 258737 | [258737-red-genie-an-eidola-tale.json](./258737-red-genie-an-eidola-tale.json) |
 | Red Goddess: Inner World | 15912 | [15912-red-goddess-inner-world.json](./15912-red-goddess-inner-world.json) |
 | Red Haven | 218714 | [218714-red-haven.json](./218714-red-haven.json) |
+| Red Hawk | 411129 | [411129-red-hawk.json](./411129-red-hawk.json) |
 | Red Haze: Bruises Glimmer in Starlight | 325820 | [325820-red-haze-bruises-glimmer-in-starlight.json](./325820-red-haze-bruises-glimmer-in-starlight.json) |
 | Red Hero Adventure | 193442 | [193442-red-hero-adventure.json](./193442-red-hero-adventure.json) |
 | Red Herring | 118178 | [118178-red-herring.json](./118178-red-herring.json) |
@@ -3945,6 +3946,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Route Candle for Steam | 90560 | [90560-route-candle-for-steam.json](./90560-route-candle-for-steam.json) |
 | Route Me Mail and Delivery Co | 147477 | [147477-route-me-mail-and-delivery-co.json](./147477-route-me-mail-and-delivery-co.json) |
 | Route-16 | 40185 | [40185-route-16.json](./40185-route-16.json) |
+| Route-16 Collection | 411156 | [411156-route-16-collection.json](./411156-route-16-collection.json) |
+| Route-16 Turbo | 411159 | [411159-route-16-turbo.json](./411159-route-16-turbo.json) |
+| Route-16: R | 411158 | [411158-route-16-r.json](./411158-route-16-r.json) |
 | Router | 68936 | [68936-router.json](./68936-router.json) |
 | Routine | 8948 | [8948-routine.json](./8948-routine.json) |
 | Rova | 297209 | [297209-rova.json](./297209-rova.json) |
