@@ -2956,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GreedyCraft | 204701 | [204701-greedycraft.json](./204701-greedycraft.json) |
 | Greek Letters and Alphabet 2 | 99394 | [99394-greek-letters-and-alphabet-2.json](./99394-greek-letters-and-alphabet-2.json) |
 | Green | 106971 | [106971-green.json](./106971-green.json) |
+| Green Breach | 416833 | [416833-green-breach.json](./416833-green-breach.json) |
 | Green Day Revenge | 66074 | [66074-green-day-revenge.json](./66074-green-day-revenge.json) |
 | Green Day: Dookie - Welcome to Paradise | 319233 | [319233-green-day-dookie-welcome-to-paradise.json](./319233-green-day-dookie-welcome-to-paradise.json) |
 | Green Eyed Monster | 184034 | [184034-green-eyed-monster.json](./184034-green-eyed-monster.json) |
@@ -2969,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Lantern Battle Cards | 64339 | [64339-green-lantern-battle-cards.json](./64339-green-lantern-battle-cards.json) |
 | Green Lantern: Rise of the Manhunters | 4896 | [4896-green-lantern-rise-of-the-manhunters.json](./4896-green-lantern-rise-of-the-manhunters.json) |
 | Green Lava Studios Volume 2 | 195092 | [195092-green-lava-studios-volume-2.json](./195092-green-lava-studios-volume-2.json) |
+| Green Light District | 416837 | [416837-green-light-district.json](./416837-green-light-district.json) |
 | Green Ninja: Year of the Frog | 280914 | [280914-green-ninja-year-of-the-frog.json](./280914-green-ninja-year-of-the-frog.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Ogre Gives You Terrible Life Advice and Dies | 309507 | [309507-green-ogre-gives-you-terrible-life-advice-and-dies.json](./309507-green-ogre-gives-you-terrible-life-advice-and-dies.json) |
@@ -2983,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Thumb Cards | 62157 | [62157-green-thumb-cards.json](./62157-green-thumb-cards.json) |
 | Green Valley | 224620 | [224620-green-valley.json](./224620-green-valley.json) |
 | Green Valley: Fun on the Farm | 54059 | [54059-green-valley-fun-on-the-farm.json](./54059-green-valley-fun-on-the-farm.json) |
+| Green vs Tan | 416834 | [416834-green-vs-tan.json](./416834-green-vs-tan.json) |
 | Green Wave | 397088 | [397088-green-wave.json](./397088-green-wave.json) |
 | Green Wind | 209638 | [209638-green-wind.json](./209638-green-wind.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
@@ -2997,8 +3000,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GreenFlame | 76656 | [76656-greenflame.json](./76656-greenflame.json) |
 | Greengrocer Simulator 2024 | 326419 | [326419-greengrocer-simulator-2024.json](./326419-greengrocer-simulator-2024.json) |
 | Greengrocer's | 311631 | [311631-greengrocers.json](./311631-greengrocers.json) |
+| Greenhouse: Tidy Up! | 416831 | [416831-greenhouse-tidy-up.json](./416831-greenhouse-tidy-up.json) |
 | Greenie's Little Adventure | 58500 | [58500-greenies-little-adventure.json](./58500-greenies-little-adventure.json) |
 | Greenlander | 236838 | [236838-greenlander.json](./236838-greenlander.json) |
+| Greenrise | 416836 | [416836-greenrise.json](./416836-greenrise.json) |
 | greenTech+ | 54058 | [54058-greentech.json](./54058-greentech.json) |
 | GreenWood Defense | 309858 | [309858-greenwood-defense.json](./309858-greenwood-defense.json) |
 | Greetings | 178562 | [178562-greetings.json](./178562-greetings.json) |
@@ -3132,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim-World: Survival | 253447 | [253447-grim-world-survival.json](./253447-grim-world-survival.json) |
 | Grim's Gambit | 280936 | [280936-grims-gambit.json](./280936-grims-gambit.json) |
 | Grimace Run | 192796 | [192796-grimace-run.json](./192796-grimace-run.json) |
+| Grimchester Needs A Doctor | 416830 | [416830-grimchester-needs-a-doctor.json](./416830-grimchester-needs-a-doctor.json) |
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
 | Grime House | 198452 | [198452-grime-house.json](./198452-grime-house.json) |
 | Grime: Definitive Edition | 284491 | [284491-grime-definitive-edition.json](./284491-grime-definitive-edition.json) |
