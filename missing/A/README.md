@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
 | Act of Aggression | 8920 | [8920-act-of-aggression.json](./8920-act-of-aggression.json) |
 | Act of Aggression: Reboot Edition | 52552 | [52552-act-of-aggression-reboot-edition.json](./52552-act-of-aggression-reboot-edition.json) |
+| Act-Fancer: Cybernetick Hyper Weapon | 12270 | [12270-act-fancer-cybernetick-hyper-weapon.json](./12270-act-fancer-cybernetick-hyper-weapon.json) |
 | Actala: The Hero's Shadow | 219700 | [219700-actala-the-heros-shadow.json](./219700-actala-the-heros-shadow.json) |
 | Action 52 | 238205 | [238205-action-52.json](./238205-action-52.json) |
 | Action 52 | 5340 | [5340-action-52.json](./5340-action-52.json) |
@@ -755,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Dungeons & Dragons: DragonStrike | 48113 | [48113-advanced-dungeons-and-dragons-dragonstrike.json](./48113-advanced-dungeons-and-dragons-dragonstrike.json) |
 | Advanced Dungeons & Dragons: Hillsfar | 8622 | [8622-advanced-dungeons-and-dragons-hillsfar.json](./8622-advanced-dungeons-and-dragons-hillsfar.json) |
 | Advanced Dungeons & Dragons: Pool of Radiance | 8732 | [8732-advanced-dungeons-and-dragons-pool-of-radiance.json](./8732-advanced-dungeons-and-dragons-pool-of-radiance.json) |
+| Advanced Dungeons & Dragons: Secret of the Silver Blades | 12760 | [12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json](./12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json) |
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
 | Advanced Kick Challenge | 379477 | [379477-advanced-kick-challenge.json](./379477-advanced-kick-challenge.json) |
 | Advanced Pasta Cooking Simulator | 215766 | [215766-advanced-pasta-cooking-simulator.json](./215766-advanced-pasta-cooking-simulator.json) |
@@ -1702,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
 | Alien Shooter 2: Reloaded | 11088 | [11088-alien-shooter-2-reloaded.json](./11088-alien-shooter-2-reloaded.json) |
 | Alien Shooter 3D | 152770 | [152770-alien-shooter-3d.json](./152770-alien-shooter-3d.json) |
+| Alien Shooter: Revisited | 16016 | [16016-alien-shooter-revisited.json](./16016-alien-shooter-revisited.json) |
 | Alien Shooter: Revisted | 50844 | [50844-alien-shooter-revisted.json](./50844-alien-shooter-revisted.json) |
 | Alien Shooter: The Experiment | 11090 | [11090-alien-shooter-the-experiment.json](./11090-alien-shooter-the-experiment.json) |
 | Alien Slayer | 275099 | [275099-alien-slayer.json](./275099-alien-slayer.json) |
@@ -2082,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alteric | 32358 | [32358-alteric.json](./32358-alteric.json) |
 | AlterLife | 352860 | [352860-alterlife.json](./352860-alterlife.json) |
 | Alternate Worlds | 62768 | [62768-alternate-worlds.json](./62768-alternate-worlds.json) |
+| Alternativa | 16031 | [16031-alternativa.json](./16031-alternativa.json) |
 | Alternative Alliance Alpha | 347713 | [347713-alternative-alliance-alpha.json](./347713-alternative-alliance-alpha.json) |
 | Alternative Girls 2 | 216215 | [216215-alternative-girls-2.json](./216215-alternative-girls-2.json) |
 | Alternative Shemevolution | 404836 | [404836-alternative-shemevolution.json](./404836-alternative-shemevolution.json) |
@@ -2128,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaemi: Longing for you | 206335 | [206335-amaemi-longing-for-you.json](./206335-amaemi-longing-for-you.json) |
 | Amagami Chotto Omake Gekijou | 345602 | [345602-amagami-chotto-omake-gekijou.json](./345602-amagami-chotto-omake-gekijou.json) |
 | Amagami GS | 345603 | [345603-amagami-gs.json](./345603-amagami-gs.json) |
+| Amagon | 8916 | [8916-amagon.json](./8916-amagon.json) |
 | Amairo Chocolate 3 | 381003 | [381003-amairo-chocolate-3.json](./381003-amairo-chocolate-3.json) |
 | Amakano: Second Season | 128405 | [128405-amakano-second-season.json](./128405-amakano-second-season.json) |
 | Amakano+ | 128378 | [128378-amakano.json](./128378-amakano.json) |
@@ -4286,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artika.1 | 74317 | [74317-artika-1.json](./74317-artika-1.json) |
 | ArtilleRoyalty | 374681 | [374681-artilleroyalty.json](./374681-artilleroyalty.json) |
 | Artillery | 93527 | [93527-artillery.json](./93527-artillery.json) |
+| Artillery Duel | 12241 | [12241-artillery-duel.json](./12241-artillery-duel.json) |
 | Artisan | 190096 | [190096-artisan.json](./190096-artisan.json) |
 | Artisan Story | 260215 | [260215-artisan-story.json](./260215-artisan-story.json) |
 | Artist Colony | 23284 | [23284-artist-colony.json](./23284-artist-colony.json) |
@@ -4760,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Mission: Moon | 192811 | [192811-astro-mission-moon.json](./192811-astro-mission-moon.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
 | Astro Race | 172593 | [172593-astro-race.json](./172593-astro-race.json) |
+| Astro Tripper | 16265 | [16265-astro-tripper.json](./16265-astro-tripper.json) |
 | Astro Warrior | 37176 | [37176-astro-warrior.json](./37176-astro-warrior.json) |
 | Astro Warrior/Pit Pot | 93584 | [93584-astro-warrior-pit-pot.json](./93584-astro-warrior-pit-pot.json) |
 | Astro Wars | 47284 | [47284-astro-wars.json](./47284-astro-wars.json) |
