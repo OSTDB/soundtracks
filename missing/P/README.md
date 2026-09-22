@@ -4167,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portile | 322360 | [322360-portile.json](./322360-portile.json) |
 | Portobugia | 217377 | [217377-portobugia.json](./217377-portobugia.json) |
 | Portrait | 329036 | [329036-portrait.json](./329036-portrait.json) |
+| Portrait of a Torn | 318362 | [318362-portrait-of-a-torn.json](./318362-portrait-of-a-torn.json) |
 | Portrait of Ruin: Refined Edition | 233601 | [233601-portrait-of-ruin-refined-edition.json](./233601-portrait-of-ruin-refined-edition.json) |
 | Portrait Painter | 406709 | [406709-portrait-painter.json](./406709-portrait-painter.json) |
 | Portraits of Doom | 318067 | [318067-portraits-of-doom.json](./318067-portraits-of-doom.json) |
