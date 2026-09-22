@@ -1084,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Run | 248648 | [248648-empire-run.json](./248648-empire-run.json) |
 | Empire Soccer 94 | 12065 | [12065-empire-soccer-94.json](./12065-empire-soccer-94.json) |
 | Empire Warriors TD | 104587 | [104587-empire-warriors-td.json](./104587-empire-warriors-td.json) |
+| Empire Water Works | 407594 | [407594-empire-water-works.json](./407594-empire-water-works.json) |
 | Empire: Total War - Elite Units of America | 82084 | [82084-empire-total-war-elite-units-of-america.json](./82084-empire-total-war-elite-units-of-america.json) |
 | Empire: Total War - Elite Units of the East | 82083 | [82083-empire-total-war-elite-units-of-the-east.json](./82083-empire-total-war-elite-units-of-the-east.json) |
 | Empire: Total War - Elite Units of the West | 82086 | [82086-empire-total-war-elite-units-of-the-west.json](./82086-empire-total-war-elite-units-of-the-west.json) |
@@ -1237,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Greed | 413670 | [413670-endless-greed.json](./413670-endless-greed.json) |
 | Endless Heck | 149604 | [149604-endless-heck.json](./149604-endless-heck.json) |
 | Endless History | 320771 | [320771-endless-history.json](./320771-endless-history.json) |
+| Endless Invader | 407547 | [407547-endless-invader.json](./407547-endless-invader.json) |
 | Endless Knight | 126901 | [126901-endless-knight.json](./126901-endless-knight.json) |
 | Endless Legend 2 | 329138 | [329138-endless-legend-2.json](./329138-endless-legend-2.json) |
 | Endless Legend: Definitive Edition | 343851 | [343851-endless-legend-definitive-edition.json](./343851-endless-legend-definitive-edition.json) |
