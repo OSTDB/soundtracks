@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Clicker | 281536 | [281536-carrot-clicker.json](./281536-carrot-clicker.json) |
 | Carrot Girl Adventures | 165678 | [165678-carrot-girl-adventures.json](./165678-carrot-girl-adventures.json) |
 | Carrot Heart | 155979 | [155979-carrot-heart.json](./155979-carrot-heart.json) |
+| Carrot Kingdom! | 401798 | [401798-carrot-kingdom.json](./401798-carrot-kingdom.json) |
 | Carrot Overload | 337099 | [337099-carrot-overload.json](./337099-carrot-overload.json) |
 | Carrot Paradise | 311243 | [311243-carrot-paradise.json](./311243-carrot-paradise.json) |
 | Carrot Slime 2 | 159125 | [159125-carrot-slime-2.json](./159125-carrot-slime-2.json) |
@@ -1756,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerberus | 272016 | [272016-cerberus.json](./272016-cerberus.json) |
 | Cerberus Corporation: Red Room | 335246 | [335246-cerberus-corporation-red-room.json](./335246-cerberus-corporation-red-room.json) |
 | Cerebrawl | 70367 | [70367-cerebrawl.json](./70367-cerebrawl.json) |
+| Cerebrum Remastered | 401771 | [401771-cerebrum-remastered.json](./401771-cerebrum-remastered.json) |
 | Ceremonial Speedmaps | 271193 | [271193-ceremonial-speedmaps.json](./271193-ceremonial-speedmaps.json) |
 | Ceremony of Innocence | 72092 | [72092-ceremony-of-innocence.json](./72092-ceremony-of-innocence.json) |
 | Ceres | 35707 | [35707-ceres.json](./35707-ceres.json) |
@@ -3831,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Breath | 151050 | [151050-cold-breath.json](./151050-cold-breath.json) |
 | Cold Case Files | 57683 | [57683-cold-case-files.json](./57683-cold-case-files.json) |
 | Cold Case Summer | 151544 | [151544-cold-case-summer.json](./151544-cold-case-summer.json) |
+| Cold City | 401838 | [401838-cold-city.json](./401838-cold-city.json) |
 | Cold Depth | 157202 | [157202-cold-depth.json](./157202-cold-depth.json) |
 | Cold Engines | 199474 | [199474-cold-engines.json](./199474-cold-engines.json) |
 | Cold Fear | 5780 | [5780-cold-fear.json](./5780-cold-fear.json) |
