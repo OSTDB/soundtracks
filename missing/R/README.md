@@ -2784,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Snake | 123567 | [123567-rising-snake.json](./123567-rising-snake.json) |
 | Rising Star: The Horse Game | 220707 | [220707-rising-star-the-horse-game.json](./220707-rising-star-the-horse-game.json) |
 | Rising Storm 2: Vietnam | 18166 | [18166-rising-storm-2-vietnam.json](./18166-rising-storm-2-vietnam.json) |
+| Rising Sun | 850 | [850-rising-sun.json](./850-rising-sun.json) |
 | Rising Sun Mahjong | 257079 | [257079-rising-sun-mahjong.json](./257079-rising-sun-mahjong.json) |
 | Rising Super Chef 2 | 99399 | [99399-rising-super-chef-2.json](./99399-rising-super-chef-2.json) |
 | Rising Sushi | 174287 | [174287-rising-sushi.json](./174287-rising-sushi.json) |
