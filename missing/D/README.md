@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daniel Pintado's Land of Silence | 284999 | [284999-daniel-pintados-land-of-silence.json](./284999-daniel-pintados-land-of-silence.json) |
 | Danjon ni Deai o Motomeru no wa Machigatteiru Darou ka? Orario Rhapsodia | 77627 | [77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json](./77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json) |
 | Danju | 410238 | [410238-danju.json](./410238-danju.json) |
+| Dankenstoned’s Bongster’s Gram Smoker’s Stankula | 403188 | [403188-dankenstoned-s-bongster-s-gram-smoker-s-stankula.json](./403188-dankenstoned-s-bongster-s-gram-smoker-s-stankula.json) |
 | Danko and treasure map | 29990 | [29990-danko-and-treasure-map.json](./29990-danko-and-treasure-map.json) |
 | DanLab's Golf | 315825 | [315825-danlabs-golf.json](./315825-danlabs-golf.json) |
 | DanMachi Battle Chronicle | 263485 | [263485-danmachi-battle-chronicle.json](./263485-danmachi-battle-chronicle.json) |
@@ -3828,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge This VR | 282132 | [282132-dodge-this-vr.json](./282132-dodge-this-vr.json) |
 | DodgeBall Blitz | 31842 | [31842-dodgeball-blitz.json](./31842-dodgeball-blitz.json) |
 | Dodgeball Dino Duel | 112281 | [112281-dodgeball-dino-duel.json](./112281-dodgeball-dino-duel.json) |
+| Dodgebrawl | 403171 | [403171-dodgebrawl.json](./403171-dodgebrawl.json) |
 | DodgeCraft | 325101 | [325101-dodgecraft.json](./325101-dodgecraft.json) |
 | DodgeKing | 213989 | [213989-dodgeking.json](./213989-dodgeking.json) |
 | DodgerBall | 59415 | [59415-dodgerball.json](./59415-dodgerball.json) |
@@ -5037,6 +5039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: The Dark Prince - Digital Deluxe Edition | 268553 | [268553-dragon-quest-monsters-the-dark-prince-digital-deluxe-edition.json](./268553-dragon-quest-monsters-the-dark-prince-digital-deluxe-edition.json) |
 | Dragon Quest Monsters: The Dark Prince - Master Edition | 261373 | [261373-dragon-quest-monsters-the-dark-prince-master-edition.json](./261373-dragon-quest-monsters-the-dark-prince-master-edition.json) |
 | Dragon Quest Monsters: The Dark Prince - Treasure Trunks | 268571 | [268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json](./268571-dragon-quest-monsters-the-dark-prince-treasure-trunks.json) |
+| Dragon Quest Monsters: The Withered World | 403174 | [403174-dragon-quest-monsters-the-withered-world.json](./403174-dragon-quest-monsters-the-withered-world.json) |
 | Dragon Quest VII Reimagined | 366884 | [366884-dragon-quest-vii-reimagined.json](./366884-dragon-quest-vii-reimagined.json) |
 | Dragon Quest VII Reimagined: Additional DLC Sets | 388942 | [388942-dragon-quest-vii-reimagined-additional-dlc-sets.json](./388942-dragon-quest-vii-reimagined-additional-dlc-sets.json) |
 | Dragon Quest VII Reimagined: Jam-Packed Swag Bag | 375183 | [375183-dragon-quest-vii-reimagined-jam-packed-swag-bag.json](./375183-dragon-quest-vii-reimagined-jam-packed-swag-bag.json) |
