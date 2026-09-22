@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Epic Hero | 158043 | [158043-incremental-epic-hero.json](./158043-incremental-epic-hero.json) |
 | Incremental Epic Hero 2 | 197398 | [197398-incremental-epic-hero-2.json](./197398-incremental-epic-hero-2.json) |
 | Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
+| Incubo | 113609 | [113609-incubo.json](./113609-incubo.json) |
 | Incubus | 200567 | [200567-incubus.json](./200567-incubus.json) |
 | Incursion2D | 284887 | [284887-incursion2d.json](./284887-incursion2d.json) |
 | Indecision. | 83969 | [83969-indecision.json](./83969-indecision.json) |
