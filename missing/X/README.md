@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xerd no Densetsu 2: Xerd!! Gishin no Ryouiki | 298851 | [298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json](./298851-xerd-no-densetsu-2-xerd-gishin-no-ryouiki.json) |
 | Xerminus | 371897 | [371897-xerminus.json](./371897-xerminus.json) |
 | Xerxesia | 267998 | [267998-xerxesia.json](./267998-xerxesia.json) |
+| Xevious 3D/G | 20133 | [20133-xevious-3d-g.json](./20133-xevious-3d-g.json) |
 | Xevious: Gamp no Nazo wa Subete Toketa!? | 287669 | [287669-xevious-gamp-no-nazo-wa-subete-toketa.json](./287669-xevious-gamp-no-nazo-wa-subete-toketa.json) |
 | Xevorel: The Way Of The Feather | 129215 | [129215-xevorel-the-way-of-the-feather.json](./129215-xevorel-the-way-of-the-feather.json) |
 | Xexis | 312903 | [312903-xexis.json](./312903-xexis.json) |
