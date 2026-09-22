@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
 | ABC Sports Presents: The Palm Spring Open | 46559 | [46559-abc-sports-presents-the-palm-spring-open.json](./46559-abc-sports-presents-the-palm-spring-open.json) |
 | ABC: Audioreactive Beat Circle | 138623 | [138623-abc-audioreactive-beat-circle.json](./138623-abc-audioreactive-beat-circle.json) |
+| ABC's Featuring the Jungle Jukebox | 392413 | [392413-abcs-featuring-the-jungle-jukebox.json](./392413-abcs-featuring-the-jungle-jukebox.json) |
 | ABD: A Beautiful Day | 34900 | [34900-abd-a-beautiful-day.json](./34900-abd-a-beautiful-day.json) |
 | Abduct and Destroy! | 182543 | [182543-abduct-and-destroy.json](./182543-abduct-and-destroy.json) |
 | Abducting Mjolnir | 180759 | [180759-abducting-mjolnir.json](./180759-abducting-mjolnir.json) |
@@ -1703,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Gear Aegis CS: Concerto of Simulatrix | 198385 | [198385-alice-gear-aegis-cs-concerto-of-simulatrix.json](./198385-alice-gear-aegis-cs-concerto-of-simulatrix.json) |
 | Alice Gear Aegis CS: Concerto of Simulatrix - Limited Edition | 198386 | [198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json](./198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json) |
 | Alice in Dinerland | 257962 | [257962-alice-in-dinerland.json](./257962-alice-in-dinerland.json) |
+| Alice in Musicland | 392492 | [392492-alice-in-musicland.json](./392492-alice-in-musicland.json) |
 | Alice in Stardom | 116838 | [116838-alice-in-stardom.json](./116838-alice-in-stardom.json) |
 | Alice in the Nightmare Land | 267097 | [267097-alice-in-the-nightmare-land.json](./267097-alice-in-the-nightmare-land.json) |
 | Alice In VR | 102565 | [102565-alice-in-vr.json](./102565-alice-in-vr.json) |
@@ -3050,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Love Chat Girls | 380394 | [380394-anime-love-chat-girls.json](./380394-anime-love-chat-girls.json) |
 | Anime Manga Style Girl: Color By Number Pixel Art Coloring | 370758 | [370758-anime-manga-style-girl-color-by-number-pixel-art-coloring.json](./370758-anime-manga-style-girl-color-by-number-pixel-art-coloring.json) |
 | Anime Memes | 405608 | [405608-anime-memes.json](./405608-anime-memes.json) |
+| Anime Minesweeper | 392464 | [392464-anime-minesweeper.json](./392464-anime-minesweeper.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime puzzle | 152764 | [152764-anime-puzzle.json](./152764-anime-puzzle.json) |
 | Anime Rally | 326811 | [326811-anime-rally.json](./326811-anime-rally.json) |
@@ -3231,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Way | 202239 | [202239-another-way.json](./202239-another-way.json) |
 | Another Way of Gettin' Paid | 319234 | [319234-another-way-of-gettin-paid.json](./319234-another-way-of-gettin-paid.json) |
 | Another Way of Gettin' Paid | 319235 | [319235-another-way-of-gettin-paid.json](./319235-another-way-of-gettin-paid.json) |
+| Another World | 392454 | [392454-another-world.json](./392454-another-world.json) |
 | Another World Adventures | 379448 | [379448-another-world-adventures.json](./379448-another-world-adventures.json) |
 | Another World for Dreamcast | 343875 | [343875-another-world-for-dreamcast.json](./343875-another-world-for-dreamcast.json) |
 | Another World: Lost In Heart | 365735 | [365735-another-world-lost-in-heart.json](./365735-another-world-lost-in-heart.json) |
