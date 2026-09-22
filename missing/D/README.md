@@ -1668,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decksplash | 26943 | [26943-decksplash.json](./26943-decksplash.json) |
 | Deckstrander | 257938 | [257938-deckstrander.json](./257938-deckstrander.json) |
 | Decktamer | 291367 | [291367-decktamer.json](./291367-decktamer.json) |
+| Declan Moses | 418761 | [418761-declan-moses.json](./418761-declan-moses.json) |
 | Deco: Block Simulator | 151661 | [151661-deco-block-simulator.json](./151661-deco-block-simulator.json) |
 | Decommissioned Tech Repair Mechanic Simulator 2099 | 365763 | [365763-decommissioned-tech-repair-mechanic-simulator-2099.json](./365763-decommissioned-tech-repair-mechanic-simulator-2099.json) |
 | Decommissioner | 186252 | [186252-decommissioner.json](./186252-decommissioner.json) |
@@ -2198,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denpa Ningen no RPG 2 | 221987 | [221987-denpa-ningen-no-rpg-2.json](./221987-denpa-ningen-no-rpg-2.json) |
 | Denpa Ningen no RPG 3 | 221988 | [221988-denpa-ningen-no-rpg-3.json](./221988-denpa-ningen-no-rpg-3.json) |
 | Denpa Ningen no RPG Free! | 61348 | [61348-denpa-ningen-no-rpg-free.json](./61348-denpa-ningen-no-rpg-free.json) |
+| Denpa Virus | 418820 | [418820-denpa-virus.json](./418820-denpa-virus.json) |
 | Dense forest | 282009 | [282009-dense-forest.json](./282009-dense-forest.json) |
 | Densetsu no Ogre Battle Gaiden: Zenobia no Ouji | 43975 | [43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json](./43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json) |
 | Densha de D: Burning Stage | 55923 | [55923-densha-de-d-burning-stage.json](./55923-densha-de-d-burning-stage.json) |
