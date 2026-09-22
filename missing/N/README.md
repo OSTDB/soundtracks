@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA: Road to the Final Four | 93022 | [93022-ncaa-road-to-the-final-four.json](./93022-ncaa-road-to-the-final-four.json) |
 | NCAA: Road to the Final Four - 1991-92 Edition | 15505 | [15505-ncaa-road-to-the-final-four-1991-92-edition.json](./15505-ncaa-road-to-the-final-four-1991-92-edition.json) |
 | NCAA: Road to the Final Four 2 | 15506 | [15506-ncaa-road-to-the-final-four-2.json](./15506-ncaa-road-to-the-final-four-2.json) |
+| NCH: Chronos Rebirth | 403788 | [403788-nch-chronos-rebirth.json](./403788-nch-chronos-rebirth.json) |
 | NCORE | 330133 | [330133-ncore.json](./330133-ncore.json) |
 | NCradle | 83522 | [83522-ncradle.json](./83522-ncradle.json) |
 | NDE Rescue | 31857 | [31857-nde-rescue.json](./31857-nde-rescue.json) |
@@ -713,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbor Next Door | 309668 | [309668-neighbor-next-door.json](./309668-neighbor-next-door.json) |
 | Neighbor Watching | 171037 | [171037-neighbor-watching.json](./171037-neighbor-watching.json) |
 | Neighborhood Video | 374045 | [374045-neighborhood-video.json](./374045-neighborhood-video.json) |
+| Neighborhoods | 403820 | [403820-neighborhoods.json](./403820-neighborhoods.json) |
 | Neighborhorde | 33452 | [33452-neighborhorde.json](./33452-neighborhorde.json) |
 | Neighbourhood Cat | 214510 | [214510-neighbourhood-cat.json](./214510-neighbourhood-cat.json) |
 | Neighbourhood Necromancer | 36451 | [36451-neighbourhood-necromancer.json](./36451-neighbourhood-necromancer.json) |
@@ -2275,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoLimits 2: Roller Coaster Simulation - Professional License | 315485 | [315485-nolimits-2-roller-coaster-simulation-professional-license.json](./315485-nolimits-2-roller-coaster-simulation-professional-license.json) |
 | Nom Nom Nom | 209650 | [209650-nom-nom-nom.json](./209650-nom-nom-nom.json) |
 | Nom Nom: Cozy Forest Café | 258535 | [258535-nom-nom-cozy-forest-cafe.json](./258535-nom-nom-cozy-forest-cafe.json) |
+| Nomad | 403796 | [403796-nomad.json](./403796-nomad.json) |
 | Nomad Fleet | 18955 | [18955-nomad-fleet.json](./18955-nomad-fleet.json) |
 | Nomad Idle | 323533 | [323533-nomad-idle.json](./323533-nomad-idle.json) |
 | Nomad of Time | 12957 | [12957-nomad-of-time.json](./12957-nomad-of-time.json) |
