@@ -1788,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildagotchi: Virtual Pet | 261344 | [261344-wildagotchi-virtual-pet.json](./261344-wildagotchi-virtual-pet.json) |
 | Wildagotchi: Virtual Pet - Deluxe Edition | 277304 | [277304-wildagotchi-virtual-pet-deluxe-edition.json](./277304-wildagotchi-virtual-pet-deluxe-edition.json) |
 | Wildaria | 322197 | [322197-wildaria.json](./322197-wildaria.json) |
+| WildBorn | 398589 | [398589-wildborn.json](./398589-wildborn.json) |
 | Wildbound | 347711 | [347711-wildbound.json](./347711-wildbound.json) |
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
 | Wildekin | 362280 | [362280-wildekin.json](./362280-wildekin.json) |
