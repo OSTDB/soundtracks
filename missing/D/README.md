@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Monsters: Arcade Edition | 252364 | [252364-dawn-of-the-monsters-arcade-edition.json](./252364-dawn-of-the-monsters-arcade-edition.json) |
 | Dawn of the Saviours | 50813 | [50813-dawn-of-the-saviours.json](./50813-dawn-of-the-saviours.json) |
 | Dawn of the Tiberium Age | 322388 | [322388-dawn-of-the-tiberium-age.json](./322388-dawn-of-the-tiberium-age.json) |
+| Dawn of the Universe | 395171 | [395171-dawn-of-the-universe.json](./395171-dawn-of-the-universe.json) |
 | Dawn of the Wizards | 266275 | [266275-dawn-of-the-wizards.json](./266275-dawn-of-the-wizards.json) |
 | Dawn of Titans | 26980 | [26980-dawn-of-titans.json](./26980-dawn-of-titans.json) |
 | Dawn of Warriors | 30956 | [30956-dawn-of-warriors.json](./30956-dawn-of-warriors.json) |
@@ -1151,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Dawn | 193958 | [193958-dead-dawn.json](./193958-dead-dawn.json) |
 | Dead District: Survival | 209479 | [209479-dead-district-survival.json](./209479-dead-district-survival.json) |
 | Dead Dock Protocol | 322186 | [322186-dead-dock-protocol.json](./322186-dead-dock-protocol.json) |
+| Dead Dolls Never Die | 395240 | [395240-dead-dolls-never-die.json](./395240-dead-dolls-never-die.json) |
 | Dead Dozen | 79141 | [79141-dead-dozen.json](./79141-dead-dozen.json) |
 | Dead Dust | 89960 | [89960-dead-dust.json](./89960-dead-dust.json) |
 | Dead Earth Zombies | 188672 | [188672-dead-earth-zombies.json](./188672-dead-earth-zombies.json) |
@@ -4021,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dole: 5 A Day Adventures | 210113 | [210113-dole-5-a-day-adventures.json](./210113-dole-5-a-day-adventures.json) |
 | Dolguth | 34721 | [34721-dolguth.json](./34721-dolguth.json) |
 | Doll | 97852 | [97852-doll.json](./97852-doll.json) |
+| Doll Date | 395202 | [395202-doll-date.json](./395202-doll-date.json) |
 | Doll Defenders | 293622 | [293622-doll-defenders.json](./293622-doll-defenders.json) |
 | Doll Dress Up: Classy Edition | 332510 | [332510-doll-dress-up-classy-edition.json](./332510-doll-dress-up-classy-edition.json) |
 | Doll Explorer Prologue | 151658 | [151658-doll-explorer-prologue.json](./151658-doll-explorer-prologue.json) |
