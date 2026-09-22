@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi 2: compile 2D chan | 111638 | [111638-ecchi-2-compile-2d-chan.json](./111638-ecchi-2-compile-2d-chan.json) |
 | Ecchi Beauties | 173821 | [173821-ecchi-beauties.json](./173821-ecchi-beauties.json) |
 | Ecchi Breaker | 378797 | [378797-ecchi-breaker.json](./378797-ecchi-breaker.json) |
+| Ecchi Cards | 104846 | [104846-ecchi-cards.json](./104846-ecchi-cards.json) |
 | Ecchi Jack | 169389 | [169389-ecchi-jack.json](./169389-ecchi-jack.json) |
 | Ecchi Memories | 315829 | [315829-ecchi-memories.json](./315829-ecchi-memories.json) |
 | Ecchi Memories: Complete Edition | 317259 | [317259-ecchi-memories-complete-edition.json](./317259-ecchi-memories-complete-edition.json) |
@@ -1590,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eraser | 339263 | [339263-eraser.json](./339263-eraser.json) |
 | Eraser vs. Ruler | 323706 | [323706-eraser-vs-ruler.json](./323706-eraser-vs-ruler.json) |
 | Erasure | 125282 | [125282-erasure.json](./125282-erasure.json) |
+| EreaDrone Simulator | 104189 | [104189-ereadrone-simulator.json](./104189-ereadrone-simulator.json) |
 | Ereban: Shadow Legacy | 204624 | [204624-ereban-shadow-legacy.json](./204624-ereban-shadow-legacy.json) |
 | Erefia | 44212 | [44212-erefia.json](./44212-erefia.json) |
 | Eremidia: Archivist's Curse | 208588 | [208588-eremidia-archivists-curse.json](./208588-eremidia-archivists-curse.json) |
