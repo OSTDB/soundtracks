@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare III - Season 4 | 304046 | [304046-call-of-duty-modern-warfare-iii-season-4.json](./304046-call-of-duty-modern-warfare-iii-season-4.json) |
 | Call of Duty: Modern Warfare III - Season 5 | 308961 | [308961-call-of-duty-modern-warfare-iii-season-5.json](./308961-call-of-duty-modern-warfare-iii-season-5.json) |
 | Call of Duty: Modern Warfare III - Tech Luxe Pro Pack | 291077 | [291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json](./291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json) |
+| Call of Duty: Modern Warfare Trilogy | 42975 | [42975-call-of-duty-modern-warfare-trilogy.json](./42975-call-of-duty-modern-warfare-trilogy.json) |
 | Call of Duty: Roads to Victory | 3120 | [3120-call-of-duty-roads-to-victory.json](./3120-call-of-duty-roads-to-victory.json) |
 | Call of Duty: The War Collection | 292856 | [292856-call-of-duty-the-war-collection.json](./292856-call-of-duty-the-war-collection.json) |
 | Call of Duty: Vanguard | 165067 | [165067-call-of-duty-vanguard.json](./165067-call-of-duty-vanguard.json) |
@@ -3759,6 +3760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2005 | 175916 | [175916-colin-mcrae-rally-2005.json](./175916-colin-mcrae-rally-2005.json) |
 | Colin the Cleaner | 84232 | [84232-colin-the-cleaner.json](./84232-colin-the-cleaner.json) |
+| Colina: Legacy | 35181 | [35181-colina-legacy.json](./35181-colina-legacy.json) |
 | Collage | 177037 | [177037-collage.json](./177037-collage.json) |
 | Collapse | 310937 | [310937-collapse.json](./310937-collapse.json) |
 | Collapse Machine | 310765 | [310765-collapse-machine.json](./310765-collapse-machine.json) |
@@ -4817,6 +4819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CorsixTH | 127904 | [127904-corsixth.json](./127904-corsixth.json) |
 | Corum Online | 124615 | [124615-corum-online.json](./124615-corum-online.json) |
 | Corvax | 398314 | [398314-corvax.json](./398314-corvax.json) |
+| Corvette Evolution GT | 43475 | [43475-corvette-evolution-gt.json](./43475-corvette-evolution-gt.json) |
 | Corvette ZR-1 Challenge | 48293 | [48293-corvette-zr-1-challenge.json](./48293-corvette-zr-1-challenge.json) |
 | Corvian Curse | 269852 | [269852-corvian-curse.json](./269852-corvian-curse.json) |
 | Corvid's Night | 277849 | [277849-corvids-night.json](./277849-corvids-night.json) |
