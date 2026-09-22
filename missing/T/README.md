@@ -6210,6 +6210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing | 264859 | [264859-the-thing.json](./264859-the-thing.json) |
 | The Thing at the Window | 221750 | [221750-the-thing-at-the-window.json](./221750-the-thing-at-the-window.json) |
 | The Thing That Happened | 294284 | [294284-the-thing-that-happened.json](./294284-the-thing-that-happened.json) |
+| The Thing With Mistletoes | 29589 | [29589-the-thing-with-mistletoes.json](./29589-the-thing-with-mistletoes.json) |
 | The Thing You Can't Defeat | 251239 | [251239-the-thing-you-cant-defeat.json](./251239-the-thing-you-cant-defeat.json) |
 | The Things We Lost in the Flood | 118170 | [118170-the-things-we-lost-in-the-flood.json](./118170-the-things-we-lost-in-the-flood.json) |
 | The Third Age | 264137 | [264137-the-third-age.json](./264137-the-third-age.json) |
@@ -7368,6 +7369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tick Tock Clock | 308235 | [308235-tick-tock-clock.json](./308235-tick-tock-clock.json) |
 | Tick, Tank, Boom | 235867 | [235867-tick-tank-boom.json](./235867-tick-tank-boom.json) |
 | Tick: The Time Based Puzzle Game | 34794 | [34794-tick-the-time-based-puzzle-game.json](./34794-tick-the-time-based-puzzle-game.json) |
+| Ticket | 30271 | [30271-ticket.json](./30271-ticket.json) |
 | Ticket to Earth | 38757 | [38757-ticket-to-earth.json](./38757-ticket-to-earth.json) |
 | Ticket to Ride: France | 154475 | [154475-ticket-to-ride-france.json](./154475-ticket-to-ride-france.json) |
 | Ticket to Ride: Germany | 154470 | [154470-ticket-to-ride-germany.json](./154470-ticket-to-ride-germany.json) |
@@ -9537,6 +9539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: OMDB Airport | 236836 | [236836-tower-simulator-3-omdb-airport.json](./236836-tower-simulator-3-omdb-airport.json) |
 | Tower! Simulator 3: RJTT Airport | 310044 | [310044-tower-simulator-3-rjtt-airport.json](./310044-tower-simulator-3-rjtt-airport.json) |
 | Tower!3D | 33091 | [33091-tower-3d.json](./33091-tower-3d.json) |
+| Tower!3D Pro | 29566 | [29566-tower-3d-pro.json](./29566-tower-3d-pro.json) |
 | Tower!3D Pro: EDDM Airport | 162284 | [162284-tower-3d-pro-eddm-airport.json](./162284-tower-3d-pro-eddm-airport.json) |
 | Tower!3D Pro: EDDS Airport | 162282 | [162282-tower-3d-pro-edds-airport.json](./162282-tower-3d-pro-edds-airport.json) |
 | Tower!3D Pro: EGKK Airport | 162288 | [162288-tower-3d-pro-egkk-airport.json](./162288-tower-3d-pro-egkk-airport.json) |
@@ -10569,6 +10572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tremors: The Game | 127959 | [127959-tremors-the-game.json](./127959-tremors-the-game.json) |
 | Tren | 344455 | [344455-tren.json](./344455-tren.json) |
 | Trench Lord: Eastern Front | 369049 | [369049-trench-lord-eastern-front.json](./369049-trench-lord-eastern-front.json) |
+| Trench Run | 30370 | [30370-trench-run.json](./30370-trench-run.json) |
 | Trench Runner! | 260984 | [260984-trench-runner.json](./260984-trench-runner.json) |
 | Trench Shooter: Warfare Tactics | 328468 | [328468-trench-shooter-warfare-tactics.json](./328468-trench-shooter-warfare-tactics.json) |
 | Trench Simulator | 156083 | [156083-trench-simulator.json](./156083-trench-simulator.json) |
