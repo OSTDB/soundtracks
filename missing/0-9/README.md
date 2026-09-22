@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 75 Demons | 353373 | [353373-75-demons.json](./353373-75-demons.json) |
 | 768^2 | 271238 | [271238-768-2.json](./271238-768-2.json) |
 | 77 Oleander Avenue Ghost House Investigation | 205674 | [205674-77-oleander-avenue-ghost-house-investigation.json](./205674-77-oleander-avenue-ghost-house-investigation.json) |
+| 771 | 416809 | [416809-771.json](./416809-771.json) |
 | 77Survival Part I | 314064 | [314064-77survival-part-i.json](./314064-77survival-part-i.json) |
 | 78 Hour Rain | 179739 | [179739-78-hour-rain.json](./179739-78-hour-rain.json) |
 | 79 Pompeii | 195238 | [195238-79-pompeii.json](./195238-79-pompeii.json) |
@@ -900,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Realms | 258564 | [258564-9-realms.json](./258564-9-realms.json) |
 | 9 Till Void | 133230 | [133230-9-till-void.json](./133230-9-till-void.json) |
 | 9-nine-: Episode 1 | 114814 | [114814-9-nine-episode-1.json](./114814-9-nine-episode-1.json) |
+| 9: The Dark Side of Notre Dame - Collector's Edition | 416852 | [416852-9-the-dark-side-of-notre-dame-collectors-edition.json](./416852-9-the-dark-side-of-notre-dame-collectors-edition.json) |
 | 9:22 | 178657 | [178657-9-22.json](./178657-9-22.json) |
 | 90 Minutes European Prime Goal | 42663 | [42663-90-minutes-european-prime-goal.json](./42663-90-minutes-european-prime-goal.json) |
 | 90 Seconds | 259237 | [259237-90-seconds.json](./259237-90-seconds.json) |
