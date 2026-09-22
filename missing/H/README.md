@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmonium: The Musical | 279616 | [279616-harmonium-the-musical.json](./279616-harmonium-the-musical.json) |
 | Harmony | 260660 | [260660-harmony.json](./260660-harmony.json) |
 | HarmonyTD | 104133 | [104133-harmonytd.json](./104133-harmonytd.json) |
+| Harms Way | 47443 | [47443-harms-way.json](./47443-harms-way.json) |
 | Harold | 7865 | [7865-harold.json](./7865-harold.json) |
 | Harp | 145597 | [145597-harp.json](./145597-harp.json) |
 | Harp | 72346 | [72346-harp.json](./72346-harp.json) |
@@ -1140,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Fractured in Alterac Valley | 387383 | [387383-hearthstone-fractured-in-alterac-valley.json](./387383-hearthstone-fractured-in-alterac-valley.json) |
 | Hearthstone: Knights of the Frozen Throne | 52016 | [52016-hearthstone-knights-of-the-frozen-throne.json](./52016-hearthstone-knights-of-the-frozen-throne.json) |
 | Hearthstone: Madness at the Darkmoon Faire | 387380 | [387380-hearthstone-madness-at-the-darkmoon-faire.json](./387380-hearthstone-madness-at-the-darkmoon-faire.json) |
+| Hearthstone: One Night in Karazhan | 21976 | [21976-hearthstone-one-night-in-karazhan.json](./21976-hearthstone-one-night-in-karazhan.json) |
 | Hearthstone: Perils in Paradise | 325842 | [325842-hearthstone-perils-in-paradise.json](./325842-hearthstone-perils-in-paradise.json) |
 | Hearthstone: Rastakhan's Rumble | 111655 | [111655-hearthstone-rastakhans-rumble.json](./111655-hearthstone-rastakhans-rumble.json) |
 | Hearthstone: Scholomance Academy | 138798 | [138798-hearthstone-scholomance-academy.json](./138798-hearthstone-scholomance-academy.json) |
