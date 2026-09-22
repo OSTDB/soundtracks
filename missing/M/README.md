@@ -1084,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manyland | 35940 | [35940-manyland.json](./35940-manyland.json) |
 | Manzaka | 288757 | [288757-manzaka.json](./288757-manzaka.json) |
 | Mao Tan | 137606 | [137606-mao-tan.json](./137606-mao-tan.json) |
+| Maokatsu!: Maou to Yuusha no Idol Seikatsu | 402495 | [402495-maokatsu-maou-to-yuusha-no-idol-seikatsu.json](./402495-maokatsu-maou-to-yuusha-no-idol-seikatsu.json) |
 | MaoMaoMao | 392300 | [392300-maomaomao.json](./392300-maomaomao.json) |
 | Maoten | 194576 | [194576-maoten.json](./194576-maoten.json) |
 | Maou's Crucible | 381740 | [381740-maous-crucible.json](./381740-maous-crucible.json) |
@@ -2784,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mekanikko | 265227 | [265227-mekanikko.json](./265227-mekanikko.json) |
 | Mekanizm | 72332 | [72332-mekanizm.json](./72332-mekanizm.json) |
 | Mekazoo | 19203 | [19203-mekazoo.json](./19203-mekazoo.json) |
+| Mel-Practice | 402481 | [402481-mel-practice.json](./402481-mel-practice.json) |
 | Melancholia Maze | 366305 | [366305-melancholia-maze.json](./366305-melancholia-maze.json) |
 | Melancholic Night | 399688 | [399688-melancholic-night.json](./399688-melancholic-night.json) |
 | Melancholy Date | 245949 | [245949-melancholy-date.json](./245949-melancholy-date.json) |
@@ -2844,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memasiki | 368567 | [368567-memasiki.json](./368567-memasiki.json) |
 | Memasiki po Classice | 404875 | [404875-memasiki-po-classice.json](./404875-memasiki-po-classice.json) |
 | Membrane | 377596 | [377596-membrane.json](./377596-membrane.json) |
+| Membrillo Hid My Socks | 402527 | [402527-membrillo-hid-my-socks.json](./402527-membrillo-hid-my-socks.json) |
 | Meme Barley-Break | 112351 | [112351-meme-barley-break.json](./112351-meme-barley-break.json) |
 | Meme Challenge: Dank Memes | 224000 | [224000-meme-challenge-dank-memes.json](./224000-meme-challenge-dank-memes.json) |
 | Meme Quiz | 243128 | [243128-meme-quiz.json](./243128-meme-quiz.json) |
@@ -4948,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mokoko X | 191723 | [191723-mokoko-x.json](./191723-mokoko-x.json) |
 | Mokoko X Deluxe | 246636 | [246636-mokoko-x-deluxe.json](./246636-mokoko-x-deluxe.json) |
 | Mokomon: Five Elements | 415152 | [415152-mokomon-five-elements.json](./415152-mokomon-five-elements.json) |
+| Moksha | 402528 | [402528-moksha.json](./402528-moksha.json) |
 | Mold From Outer Space | 344915 | [344915-mold-from-outer-space.json](./344915-mold-from-outer-space.json) |
 | Mold on Pizza | 34817 | [34817-mold-on-pizza.json](./34817-mold-on-pizza.json) |
 | Moldorian: Hikari to Yami no Sister | 45261 | [45261-moldorian-hikari-to-yami-no-sister.json](./45261-moldorian-hikari-to-yami-no-sister.json) |
