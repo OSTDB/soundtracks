@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Force | 121736 | [121736-ace-force.json](./121736-ace-force.json) |
 | Ace Invaders | 147460 | [147460-ace-invaders.json](./147460-ace-invaders.json) |
 | Ace Lightning | 248736 | [248736-ace-lightning.json](./248736-ace-lightning.json) |
+| Ace of Aces | 11863 | [11863-ace-of-aces.json](./11863-ace-of-aces.json) |
 | Ace of Aces | 85860 | [85860-ace-of-aces.json](./85860-ace-of-aces.json) |
 | Ace of Rope | 177475 | [177475-ace-of-rope.json](./177475-ace-of-rope.json) |
 | Ace of Space | 123544 | [123544-ace-of-space.json](./123544-ace-of-space.json) |
@@ -830,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time Puzzle Quest | 19952 | [19952-adventure-time-puzzle-quest.json](./19952-adventure-time-puzzle-quest.json) |
 | Adventure Time: Explore the Dungeon Because I Don't Know! | 4557 | [4557-adventure-time-explore-the-dungeon-because-i-dont-know.json](./4557-adventure-time-explore-the-dungeon-because-i-dont-know.json) |
 | Adventure Time: Finn and Bones | 176870 | [176870-adventure-time-finn-and-bones.json](./176870-adventure-time-finn-and-bones.json) |
+| Adventure Time: Finn and Jake Investigations | 11320 | [11320-adventure-time-finn-and-jake-investigations.json](./11320-adventure-time-finn-and-jake-investigations.json) |
 | Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! | 2797 | [2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json](./2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json) |
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
 | Adventure Time: Rockstars of Ooo | 59923 | [59923-adventure-time-rockstars-of-ooo.json](./59923-adventure-time-rockstars-of-ooo.json) |
@@ -1057,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
 | Agonize | 187402 | [187402-agonize.json](./187402-agonize.json) |
+| Agony | 11890 | [11890-agony.json](./11890-agony.json) |
 | Agony | 201153 | [201153-agony.json](./201153-agony.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
@@ -1933,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alliance Aligned | 105129 | [105129-alliance-aligned.json](./105129-alliance-aligned.json) |
 | Alliance at War | 193992 | [193992-alliance-at-war.json](./193992-alliance-at-war.json) |
 | Alliance of the Sacred Suns | 120833 | [120833-alliance-of-the-sacred-suns.json](./120833-alliance-of-the-sacred-suns.json) |
+| Alliance of Valiant Arms | 16253 | [16253-alliance-of-valiant-arms.json](./16253-alliance-of-valiant-arms.json) |
 | Alliance Tales: Battle for the Frontier | 380568 | [380568-alliance-tales-battle-for-the-frontier.json](./380568-alliance-tales-battle-for-the-frontier.json) |
 | Alliance: Future Combat | 61681 | [61681-alliance-future-combat.json](./61681-alliance-future-combat.json) |
 | Alliance: Heroes of the Spire | 76545 | [76545-alliance-heroes-of-the-spire.json](./76545-alliance-heroes-of-the-spire.json) |
@@ -3382,6 +3386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua GT | 3714 | [3714-aqua-gt.json](./3714-aqua-gt.json) |
 | Aqua Journey | 176987 | [176987-aqua-journey.json](./176987-aqua-journey.json) |
 | Aqua Kitty DX: Pawsome Bundle | 118853 | [118853-aqua-kitty-dx-pawsome-bundle.json](./118853-aqua-kitty-dx-pawsome-bundle.json) |
+| Aqua Kitty: Milk Mine Defender | 8642 | [8642-aqua-kitty-milk-mine-defender.json](./8642-aqua-kitty-milk-mine-defender.json) |
 | Aqua Marbles: Ocean | 240804 | [240804-aqua-marbles-ocean.json](./240804-aqua-marbles-ocean.json) |
 | Aqua Moto Racing | 63835 | [63835-aqua-moto-racing.json](./63835-aqua-moto-racing.json) |
 | Aqua Moto Racing 2 | 63836 | [63836-aqua-moto-racing-2.json](./63836-aqua-moto-racing-2.json) |
