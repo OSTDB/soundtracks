@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origamihero Games 2D Platformer Collection | 212357 | [212357-origamihero-games-2d-platformer-collection.json](./212357-origamihero-games-2d-platformer-collection.json) |
 | Origin | 126648 | [126648-origin.json](./126648-origin.json) |
 | Origin Hunt | 180772 | [180772-origin-hunt.json](./180772-origin-hunt.json) |
+| Origin Space | 52281 | [52281-origin-space.json](./52281-origin-space.json) |
 | Original Frisbee Disc Sports: Ultimate & Golf | 21449 | [21449-original-frisbee-disc-sports-ultimate-and-golf.json](./21449-original-frisbee-disc-sports-ultimate-and-golf.json) |
 | Original Journey | 40968 | [40968-original-journey.json](./40968-original-journey.json) |
 | Original Switch Color 2 | 90379 | [90379-original-switch-color-2.json](./90379-original-switch-color-2.json) |
