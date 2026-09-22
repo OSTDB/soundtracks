@@ -2441,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderful Girls | 156620 | [156620-wonderful-girls.json](./156620-wonderful-girls.json) |
 | Wonderful Handhelds | 405078 | [405078-wonderful-handhelds.json](./405078-wonderful-handhelds.json) |
 | Wonderful mini golf | 175301 | [175301-wonderful-mini-golf.json](./175301-wonderful-mini-golf.json) |
+| Wonderful Neoran Valley | 393100 | [393100-wonderful-neoran-valley.json](./393100-wonderful-neoran-valley.json) |
 | Wonderful Waking World | 203873 | [203873-wonderful-waking-world.json](./203873-wonderful-waking-world.json) |
 | Wonderful Wizard Reverie | 415892 | [415892-wonderful-wizard-reverie.json](./415892-wonderful-wizard-reverie.json) |
 | Wonderglade | 123424 | [123424-wonderglade.json](./123424-wonderglade.json) |
