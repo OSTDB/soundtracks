@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Races | 12817 | [12817-wacky-races.json](./12817-wacky-races.json) |
 | Wacky Races | 81547 | [81547-wacky-races.json](./81547-wacky-races.json) |
 | Wacky Soldiers | 123560 | [123560-wacky-soldiers.json](./123560-wacky-soldiers.json) |
+| Wacky Squad | 418710 | [418710-wacky-squad.json](./418710-wacky-squad.json) |
 | Wacky Weapons | 244346 | [244346-wacky-weapons.json](./244346-wacky-weapons.json) |
 | Wacky West | 332992 | [332992-wacky-west.json](./332992-wacky-west.json) |
 | Wacky Wheels | 8880 | [8880-wacky-wheels.json](./8880-wacky-wheels.json) |
@@ -921,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Infinity | 283744 | [283744-we-are-infinity.json](./283744-we-are-infinity.json) |
 | We Are Live | 157034 | [157034-we-are-live.json](./157034-we-are-live.json) |
 | We Are Prophet | 400864 | [400864-we-are-prophet.json](./400864-we-are-prophet.json) |
+| We Are Sisters | 418704 | [418704-we-are-sisters.json](./418704-we-are-sisters.json) |
 | We Are So Cooked | 388939 | [388939-we-are-so-cooked.json](./388939-we-are-so-cooked.json) |
 | We Are Stardust | 299162 | [299162-we-are-stardust.json](./299162-we-are-stardust.json) |
 | We Are the Dwarves | 15485 | [15485-we-are-the-dwarves.json](./15485-we-are-the-dwarves.json) |
@@ -1601,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's the Celeb? | 233071 | [233071-whos-the-celeb.json](./233071-whos-the-celeb.json) |
 | Who's the Traitor | 273655 | [273655-whos-the-traitor.json](./273655-whos-the-traitor.json) |
 | Who's Who 2.0 | 336393 | [336393-whos-who-2-0.json](./336393-whos-who-2-0.json) |
+| Whodunchat | 418675 | [418675-whodunchat.json](./418675-whodunchat.json) |
 | Wholesome Slaughter | 143014 | [143014-wholesome-slaughter.json](./143014-wholesome-slaughter.json) |
 | Whooshy Dragon | 349932 | [349932-whooshy-dragon.json](./349932-whooshy-dragon.json) |
 | Whoowasit? | 381712 | [381712-whoowasit.json](./381712-whoowasit.json) |
@@ -1794,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildshade Fantasy Horse Races | 233069 | [233069-wildshade-fantasy-horse-races.json](./233069-wildshade-fantasy-horse-races.json) |
 | Wildwood | 279754 | [279754-wildwood.json](./279754-wildwood.json) |
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
+| WildWorlds: Zyxaranth's Domain | 418738 | [418738-wildworlds-zyxaranths-domain.json](./418738-wildworlds-zyxaranths-domain.json) |
 | Will | 333636 | [333636-will.json](./333636-will.json) |
 | Will Die Alone | 177398 | [177398-will-die-alone.json](./177398-will-die-alone.json) |
 | Will Glow the Wisp | 36978 | [36978-will-glow-the-wisp.json](./36978-will-glow-the-wisp.json) |
