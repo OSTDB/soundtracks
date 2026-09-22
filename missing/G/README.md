@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galletron | 13001 | [13001-galletron.json](./13001-galletron.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
 | Gallop Glory: Obstacle Racing & Horse Simulator | 300726 | [300726-gallop-glory-obstacle-racing-and-horse-simulator.json](./300726-gallop-glory-obstacle-racing-and-horse-simulator.json) |
+| Gallop Racer | 13659 | [13659-gallop-racer.json](./13659-gallop-racer.json) |
 | Gallop Racer 2001 | 20144 | [20144-gallop-racer-2001.json](./20144-gallop-racer-2001.json) |
 | Gallop Racer 2003: A New Breed | 20145 | [20145-gallop-racer-2003-a-new-breed.json](./20145-gallop-racer-2003-a-new-breed.json) |
 | Gallop Racer 2006 | 20147 | [20147-gallop-racer-2006.json](./20147-gallop-racer-2006.json) |
@@ -1449,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gilgamesh II | 276275 | [276275-gilgamesh-ii.json](./276275-gilgamesh-ii.json) |
 | Gilroy's Grove | 376456 | [376456-gilroys-grove.json](./376456-gilroys-grove.json) |
 | Gilt | 378214 | [378214-gilt.json](./378214-gilt.json) |
+| Gimbal | 16677 | [16677-gimbal.json](./16677-gimbal.json) |
 | Gimbal Gravity | 82450 | [82450-gimbal-gravity.json](./82450-gimbal-gravity.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen | 267651 | [267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json](./267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen 2 | 267652 | [267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json](./267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json) |
@@ -2821,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviteam Tactics: Mius Front - The Day of the Olifant | 155491 | [155491-graviteam-tactics-mius-front-the-day-of-the-olifant.json](./155491-graviteam-tactics-mius-front-the-day-of-the-olifant.json) |
 | Graviteam Tactics: Mius Front - Tielieketi Incident | 155479 | [155479-graviteam-tactics-mius-front-tielieketi-incident.json](./155479-graviteam-tactics-mius-front-tielieketi-incident.json) |
 | Graviteam Tactics: Mius Front - Typhoon Rising | 155489 | [155489-graviteam-tactics-mius-front-typhoon-rising.json](./155489-graviteam-tactics-mius-front-typhoon-rising.json) |
+| Graviteam Tactics: Operation Star | 17038 | [17038-graviteam-tactics-operation-star.json](./17038-graviteam-tactics-operation-star.json) |
 | Graviteam Tactics: Operation Star - Krasnaya Polyana 1943 | 155495 | [155495-graviteam-tactics-operation-star-krasnaya-polyana-1943.json](./155495-graviteam-tactics-operation-star-krasnaya-polyana-1943.json) |
 | Graviteam Tactics: Operation Star - Operation Hooper | 155493 | [155493-graviteam-tactics-operation-star-operation-hooper.json](./155493-graviteam-tactics-operation-star-operation-hooper.json) |
 | Graviteam Tactics: Operation Star - Shilovo 1942 | 54062 | [54062-graviteam-tactics-operation-star-shilovo-1942.json](./54062-graviteam-tactics-operation-star-shilovo-1942.json) |
