@@ -4620,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lonely Architect | 333663 | [333663-the-lonely-architect.json](./333663-the-lonely-architect.json) |
 | The Lonely Gorilla | 94769 | [94769-the-lonely-gorilla.json](./94769-the-lonely-gorilla.json) |
 | The Lonely League | 245004 | [245004-the-lonely-league.json](./245004-the-lonely-league.json) |
+| The Lonely Miner | 411121 | [411121-the-lonely-miner.json](./411121-the-lonely-miner.json) |
 | The Lonesome Guild | 333042 | [333042-the-lonesome-guild.json](./333042-the-lonesome-guild.json) |
 | The Long Dark: Quiet Apocalypse Edition | 401672 | [401672-the-long-dark-quiet-apocalypse-edition.json](./401672-the-long-dark-quiet-apocalypse-edition.json) |
 | The Long Desert Drive | 360047 | [360047-the-long-desert-drive.json](./360047-the-long-desert-drive.json) |
@@ -5700,6 +5701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: Rise of Cultures | 132810 | [132810-the-settlers-rise-of-cultures.json](./132810-the-settlers-rise-of-cultures.json) |
 | The Seven Bad Apples | 382748 | [382748-the-seven-bad-apples.json](./382748-the-seven-bad-apples.json) |
 | The Seven Cities of Gold | 8994 | [8994-the-seven-cities-of-gold.json](./8994-the-seven-cities-of-gold.json) |
+| The Seven Crystal Petals: The Blossom Realm | 411155 | [411155-the-seven-crystal-petals-the-blossom-realm.json](./411155-the-seven-crystal-petals-the-blossom-realm.json) |
 | The Seven Days I Spent With You | 390146 | [390146-the-seven-days-i-spent-with-you.json](./390146-the-seven-days-i-spent-with-you.json) |
 | The seven deadly seas | 122396 | [122396-the-seven-deadly-seas.json](./122396-the-seven-deadly-seas.json) |
 | The Seven Deadly Sins: Grand Cross | 131768 | [131768-the-seven-deadly-sins-grand-cross.json](./131768-the-seven-deadly-sins-grand-cross.json) |
@@ -8617,6 +8619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tojibo | 373101 | [373101-tojibo.json](./373101-tojibo.json) |
 | Tok 2 | 116338 | [116338-tok-2.json](./116338-tok-2.json) |
 | Tokage Metro GB | 349947 | [349947-tokage-metro-gb.json](./349947-tokage-metro-gb.json) |
+| Tokeru Fuuka to Shirousagi | 411105 | [411105-tokeru-fuuka-to-shirousagi.json](./411105-tokeru-fuuka-to-shirousagi.json) |
 | Toki | 12228 | [12228-toki.json](./12228-toki.json) |
 | Toki Hako Time Capsule | 342767 | [342767-toki-hako-time-capsule.json](./342767-toki-hako-time-capsule.json) |
 | Toki no Ihoujin | 408767 | [408767-toki-no-ihoujin.json](./408767-toki-no-ihoujin.json) |
