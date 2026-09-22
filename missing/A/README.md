@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albert Odyssey 2: Jashin no Taidou | 38346 | [38346-albert-odyssey-2-jashin-no-taidou.json](./38346-albert-odyssey-2-jashin-no-taidou.json) |
 | Albert's Journey | 219659 | [219659-alberts-journey.json](./219659-alberts-journey.json) |
 | Albino Lullaby: Episode 3 | 238615 | [238615-albino-lullaby-episode-3.json](./238615-albino-lullaby-episode-3.json) |
+| Albion Online: Dragonfire | 415306 | [415306-albion-online-dragonfire.json](./415306-albion-online-dragonfire.json) |
 | Alborada | 266322 | [266322-alborada.json](./266322-alborada.json) |
 | Alcatraz | 288748 | [288748-alcatraz.json](./288748-alcatraz.json) |
 | Alcatraz: VR Escape Room | 29938 | [29938-alcatraz-vr-escape-room.json](./29938-alcatraz-vr-escape-room.json) |
@@ -3008,6 +3009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Rally | 326811 | [326811-anime-rally.json](./326811-anime-rally.json) |
 | Anime School Love: His Teacher Secret Lesson | 378780 | [378780-anime-school-love-his-teacher-secret-lesson.json](./378780-anime-school-love-his-teacher-secret-lesson.json) |
 | Anime Sexy Girl Puzzle: Hentai Game History Adventure | 267371 | [267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json](./267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json) |
+| Anime Shop Simulator ✨ | 415269 | [415269-anime-shop-simulator.json](./415269-anime-shop-simulator.json) |
 | Anime Spa | 279757 | [279757-anime-spa.json](./279757-anime-spa.json) |
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
 | Anime Studio Saga | 287237 | [287237-anime-studio-saga.json](./287237-anime-studio-saga.json) |
@@ -4187,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma Reforger | 201789 | [201789-arma-reforger.json](./201789-arma-reforger.json) |
 | ARMA: Armed Assault | 15626 | [15626-arma-armed-assault.json](./15626-arma-armed-assault.json) |
 | Armada | 85501 | [85501-armada.json](./85501-armada.json) |
+| Armada Fighters | 415284 | [415284-armada-fighters.json](./415284-armada-fighters.json) |
 | Armada Skies | 82474 | [82474-armada-skies.json](./82474-armada-skies.json) |
 | Armadusa | 118381 | [118381-armadusa.json](./118381-armadusa.json) |
 | Armage | 174889 | [174889-armage.json](./174889-armage.json) |
@@ -4379,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Balance Touch! | 47654 | [47654-art-of-balance-touch.json](./47654-art-of-balance-touch.json) |
 | Art of Boxing | 129037 | [129037-art-of-boxing.json](./129037-art-of-boxing.json) |
 | Art of Destruction | 152831 | [152831-art-of-destruction.json](./152831-art-of-destruction.json) |
+| Art of Fauna: Cozy Puzzles+ | 415280 | [415280-art-of-fauna-cozy-puzzles.json](./415280-art-of-fauna-cozy-puzzles.json) |
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
 | Art of Glide II | 306530 | [306530-art-of-glide-ii.json](./306530-art-of-glide-ii.json) |
 | Art of Guile | 26721 | [26721-art-of-guile.json](./26721-art-of-guile.json) |
@@ -4948,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroGenesis: Boss Rush | 121041 | [121041-astrogenesis-boss-rush.json](./121041-astrogenesis-boss-rush.json) |
 | Astrogon | 139920 | [139920-astrogon.json](./139920-astrogon.json) |
 | Astrohazard Solutions Ltd. | 75772 | [75772-astrohazard-solutions-ltd.json](./75772-astrohazard-solutions-ltd.json) |
+| Astrojunk | 415320 | [415320-astrojunk.json](./415320-astrojunk.json) |
 | Astroloco: Worst Contact | 9987 | [9987-astroloco-worst-contact.json](./9987-astroloco-worst-contact.json) |
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
 | Astroman | 91944 | [91944-astroman.json](./91944-astroman.json) |
