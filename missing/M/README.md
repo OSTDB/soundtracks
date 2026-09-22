@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Retaliation | 123425 | [123425-madness-retaliation.json](./123425-madness-retaliation.json) |
 | Madness Starts Young | 386873 | [386873-madness-starts-young.json](./386873-madness-starts-young.json) |
 | MadnessMadnessMadness | 283738 | [283738-madnessmadnessmadness.json](./283738-madnessmadnessmadness.json) |
+| Mado Marks | 414617 | [414617-mado-marks.json](./414617-mado-marks.json) |
 | Mado no Naka no Saki ni Aru Mono | 152115 | [152115-mado-no-naka-no-saki-ni-aru-mono.json](./152115-mado-no-naka-no-saki-ni-aru-mono.json) |
 | Madojeongi: Secret of Elysium | 252163 | [252163-madojeongi-secret-of-elysium.json](./252163-madojeongi-secret-of-elysium.json) |
 | Madonna Simulator | 176379 | [176379-madonna-simulator.json](./176379-madonna-simulator.json) |
@@ -1139,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Masters: The Pit | 44231 | [44231-marble-masters-the-pit.json](./44231-marble-masters-the-pit.json) |
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
 | Marble Mechanics | 302526 | [302526-marble-mechanics.json](./302526-marble-mechanics.json) |
+| Marble Mill | 414603 | [414603-marble-mill.json](./414603-marble-mill.json) |
 | Marble Monster | 253025 | [253025-marble-monster.json](./253025-marble-monster.json) |
 | Marble Mountain | 19028 | [19028-marble-mountain.json](./19028-marble-mountain.json) |
 | Marble Odyssey | 113699 | [113699-marble-odyssey.json](./113699-marble-odyssey.json) |
@@ -5447,6 +5449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moo & Move: Extra Grazing Grounds | 328251 | [328251-moo-and-move-extra-grazing-grounds.json](./328251-moo-and-move-extra-grazing-grounds.json) |
 | Moo at the Moon | 71542 | [71542-moo-at-the-moon.json](./71542-moo-at-the-moon.json) |
 | Moo Who | 415097 | [415097-moo-who.json](./415097-moo-who.json) |
+| Moo Who? | 414543 | [414543-moo-who.json](./414543-moo-who.json) |
 | Mood Bye | 319550 | [319550-mood-bye.json](./319550-mood-bye.json) |
 | MookerzZ | 252377 | [252377-mookerzz.json](./252377-mookerzz.json) |
 | Moomin Midsummer Madness | 404859 | [404859-moomin-midsummer-madness.json](./404859-moomin-midsummer-madness.json) |
@@ -5456,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon 2999 | 302939 | [302939-moon-2999.json](./302939-moon-2999.json) |
 | Moon Alert | 73795 | [73795-moon-alert.json](./73795-moon-alert.json) |
 | Moon Alien Part II | 38581 | [38581-moon-alien-part-ii.json](./38581-moon-alien-part-ii.json) |
+| Moon and Away | 414619 | [414619-moon-and-away.json](./414619-moon-and-away.json) |
 | Moon Archer Shooting Stars | 177917 | [177917-moon-archer-shooting-stars.json](./177917-moon-archer-shooting-stars.json) |
 | Moon Ball Magic | 41402 | [41402-moon-ball-magic.json](./41402-moon-ball-magic.json) |
 | Moon Blue Legend Remake | 394175 | [394175-moon-blue-legend-remake.json](./394175-moon-blue-legend-remake.json) |
@@ -6191,6 +6195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Steal Yo Wifi | 107200 | [107200-mr-steal-yo-wifi.json](./107200-mr-steal-yo-wifi.json) |
 | Mr. Stretch and the Stolen Fortune | 249228 | [249228-mr-stretch-and-the-stolen-fortune.json](./249228-mr-stretch-and-the-stolen-fortune.json) |
 | Mr. Supershot | 274736 | [274736-mr-supershot.json](./274736-mr-supershot.json) |
+| Mr. Swop | 414572 | [414572-mr-swop.json](./414572-mr-swop.json) |
 | Mr. Transporter - Truck Driving Simulator | 88735 | [88735-mr-transporter-truck-driving-simulator.json](./88735-mr-transporter-truck-driving-simulator.json) |
 | Mr. Whiskers Bubbles | 385088 | [385088-mr-whiskers-bubbles.json](./385088-mr-whiskers-bubbles.json) |
 | Mr. Wings | 255714 | [255714-mr-wings.json](./255714-mr-wings.json) |
