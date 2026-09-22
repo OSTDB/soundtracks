@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waiting for the Raven | 138601 | [138601-waiting-for-the-raven.json](./138601-waiting-for-the-raven.json) |
 | Waiting For You At The End of Time | 335258 | [335258-waiting-for-you-at-the-end-of-time.json](./335258-waiting-for-you-at-the-end-of-time.json) |
 | Waiting Game | 114787 | [114787-waiting-game.json](./114787-waiting-game.json) |
+| Waiting on the Finishline | 403791 | [403791-waiting-on-the-finishline.json](./403791-waiting-on-the-finishline.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
 | Wakdoo Random Defence | 188098 | [188098-wakdoo-random-defence.json](./188098-wakdoo-random-defence.json) |
 | Wake | 307750 | [307750-wake.json](./307750-wake.json) |
@@ -352,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Robots: Frontiers - Lancelot Rising | 335099 | [335099-war-robots-frontiers-lancelot-rising.json](./335099-war-robots-frontiers-lancelot-rising.json) |
 | War Robots: Planet Defender | 127379 | [127379-war-robots-planet-defender.json](./127379-war-robots-planet-defender.json) |
 | War Room | 335325 | [335325-war-room.json](./335325-war-room.json) |
+| War Room Football | 403797 | [403797-war-room-football.json](./403797-war-room-football.json) |
 | War Saber | 137689 | [137689-war-saber.json](./137689-war-saber.json) |
 | War Selection | 116499 | [116499-war-selection.json](./116499-war-selection.json) |
 | War Smith | 132203 | [132203-war-smith.json](./132203-war-smith.json) |
@@ -871,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of Madness | 371261 | [371261-way-of-madness.json](./371261-way-of-madness.json) |
 | Way of Redemption | 58744 | [58744-way-of-redemption.json](./58744-way-of-redemption.json) |
 | Way of Retribution: Legend of Abyss | 197339 | [197339-way-of-retribution-legend-of-abyss.json](./197339-way-of-retribution-legend-of-abyss.json) |
+| Way of the Hunter: Free UTV | 403804 | [403804-way-of-the-hunter-free-utv.json](./403804-way-of-the-hunter-free-utv.json) |
 | Way of the Hunter: Hunter's Pack | 325657 | [325657-way-of-the-hunter-hunters-pack.json](./325657-way-of-the-hunter-hunters-pack.json) |
 | Way of the Hunter: Outfits Pack | 311101 | [311101-way-of-the-hunter-outfits-pack.json](./311101-way-of-the-hunter-outfits-pack.json) |
 | Way of the Hunter: Wild Expeditions | 325658 | [325658-way-of-the-hunter-wild-expeditions.json](./325658-way-of-the-hunter-wild-expeditions.json) |
