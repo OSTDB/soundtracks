@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 out of 10: Ep 1 - Welcome to Shovelworks | 136509 | [136509-3-out-of-10-ep-1-welcome-to-shovelworks.json](./136509-3-out-of-10-ep-1-welcome-to-shovelworks.json) |
 | 3 Pack | 86016 | [86016-3-pack.json](./86016-3-pack.json) |
 | 3 Seasons | 221208 | [221208-3-seasons.json](./221208-3-seasons.json) |
+| 3 Sheep Puzzle | 399851 | [399851-3-sheep-puzzle.json](./399851-3-sheep-puzzle.json) |
 | 3 Stars of Destiny | 9933 | [9933-3-stars-of-destiny.json](./9933-3-stars-of-destiny.json) |
 | 3 Tiles: Tile Matching Games | 331356 | [331356-3-tiles-tile-matching-games.json](./331356-3-tiles-tile-matching-games.json) |
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
