@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AeroWings 2: Airstrike | 3708 | [3708-aerowings-2-airstrike.json](./3708-aerowings-2-airstrike.json) |
 | Aery: Ancient Empires | 283897 | [283897-aery-ancient-empires.json](./283897-aery-ancient-empires.json) |
 | Aery: Best of Bundle | 302512 | [302512-aery-best-of-bundle.json](./302512-aery-best-of-bundle.json) |
+| Aery: Calm Horizon | 401108 | [401108-aery-calm-horizon.json](./401108-aery-calm-horizon.json) |
 | Aery: Calm Mind | 153831 | [153831-aery-calm-mind.json](./153831-aery-calm-mind.json) |
 | Aery: Calm Mind 4 | 263037 | [263037-aery-calm-mind-4.json](./263037-aery-calm-mind-4.json) |
 | Aery: Cyber City | 283896 | [283896-aery-cyber-city.json](./283896-aery-cyber-city.json) |
@@ -977,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AetherShot | 318055 | [318055-aethershot.json](./318055-aethershot.json) |
 | Aethus | 270142 | [270142-aethus.json](./270142-aethus.json) |
 | Aetolia | 122895 | [122895-aetolia.json](./122895-aetolia.json) |
+| Aevalore | 401087 | [401087-aevalore.json](./401087-aevalore.json) |
 | Aeve:Zero Gravity | 83540 | [83540-aeve-zero-gravity.json](./83540-aeve-zero-gravity.json) |
 | Aevumblade Chronicles | 219686 | [219686-aevumblade-chronicles.json](./219686-aevumblade-chronicles.json) |
 | AEW: Fight Forever | 145216 | [145216-aew-fight-forever.json](./145216-aew-fight-forever.json) |
@@ -2308,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Drones | 76619 | [76619-amazing-drones.json](./76619-amazing-drones.json) |
 | Amazing Escape | 87714 | [87714-amazing-escape.json](./87714-amazing-escape.json) |
 | Amazing Facts World Culture True or False Quiz | 399608 | [399608-amazing-facts-world-culture-true-or-false-quiz.json](./399608-amazing-facts-world-culture-true-or-false-quiz.json) |
+| Amazing Facts: World Proverbs True or False Quiz | 401107 | [401107-amazing-facts-world-proverbs-true-or-false-quiz.json](./401107-amazing-facts-world-proverbs-true-or-false-quiz.json) |
 | Amazing Fix | 163815 | [163815-amazing-fix.json](./163815-amazing-fix.json) |
 | Amazing Frog Simulator City | 86921 | [86921-amazing-frog-simulator-city.json](./86921-amazing-frog-simulator-city.json) |
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
@@ -4673,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspectus: Rinascimento Chronicles | 35938 | [35938-aspectus-rinascimento-chronicles.json](./35938-aspectus-rinascimento-chronicles.json) |
 | Asphalt Dominion | 402305 | [402305-asphalt-dominion.json](./402305-asphalt-dominion.json) |
 | Asphalt Legends Unite: Triple Decal Pack | 402354 | [402354-asphalt-legends-unite-triple-decal-pack.json](./402354-asphalt-legends-unite-triple-decal-pack.json) |
+| Asphalt Paver | 401106 | [401106-asphalt-paver.json](./401106-asphalt-paver.json) |
 | Asphalt Street Storm Racing | 55883 | [55883-asphalt-street-storm-racing.json](./55883-asphalt-street-storm-racing.json) |
 | Asphalt Xtreme: Offroad Racing | 38940 | [38940-asphalt-xtreme-offroad-racing.json](./38940-asphalt-xtreme-offroad-racing.json) |
 | Asphalt: Nitro | 23310 | [23310-asphalt-nitro.json](./23310-asphalt-nitro.json) |
