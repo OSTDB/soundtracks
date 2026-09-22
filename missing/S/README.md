@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saltwater Bodies | 325645 | [325645-saltwater-bodies.json](./325645-saltwater-bodies.json) |
 | Saltwater Shells | 250642 | [250642-saltwater-shells.json](./250642-saltwater-shells.json) |
 | Salty Dogs | 401476 | [401476-salty-dogs.json](./401476-salty-dogs.json) |
+| Salty's Garbage | 406881 | [406881-saltys-garbage.json](./406881-saltys-garbage.json) |
 | Salubrious Scales | 167265 | [167265-salubrious-scales.json](./167265-salubrious-scales.json) |
 | Salvador | 241645 | [241645-salvador.json](./241645-salvador.json) |
 | Salvador Dali painting match | 103529 | [103529-salvador-dali-painting-match.json](./103529-salvador-dali-painting-match.json) |
@@ -1061,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Maze | 72059 | [72059-school-maze.json](./72059-school-maze.json) |
 | School of Dragons: How to Train Your Dragon | 36191 | [36191-school-of-dragons-how-to-train-your-dragon.json](./36191-school-of-dragons-how-to-train-your-dragon.json) |
 | School of Talent: Suzu-Route | 29932 | [29932-school-of-talent-suzu-route.json](./29932-school-of-talent-suzu-route.json) |
+| School Owner Simulator | 406932 | [406932-school-owner-simulator.json](./406932-school-owner-simulator.json) |
 | School Paranormal Laboratory | 294289 | [294289-school-paranormal-laboratory.json](./294289-school-paranormal-laboratory.json) |
 | School Race GP | 219281 | [219281-school-race-gp.json](./219281-school-race-gp.json) |
 | School Romance: Love or Lose | 250639 | [250639-school-romance-love-or-lose.json](./250639-school-romance-love-or-lose.json) |
@@ -5220,6 +5222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnappleNoid | 61601 | [61601-snapplenoid.json](./61601-snapplenoid.json) |
 | Snappy Elf | 261516 | [261516-snappy-elf.json](./261516-snappy-elf.json) |
 | Snaps | 310029 | [310029-snaps.json](./310029-snaps.json) |
+| Snapshot | 406915 | [406915-snapshot.json](./406915-snapshot.json) |
 | Snapshot Aquarium | 216889 | [216889-snapshot-aquarium.json](./216889-snapshot-aquarium.json) |
 | Snapshot Girls 3 | 370798 | [370798-snapshot-girls-3.json](./370798-snapshot-girls-3.json) |
 | Snapshot Oddities! Find What's Wrong | 390505 | [390505-snapshot-oddities-find-whats-wrong.json](./390505-snapshot-oddities-find-whats-wrong.json) |
@@ -8011,6 +8014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Against Spy | 57639 | [57639-spy-against-spy.json](./57639-spy-against-spy.json) |
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
 | Spy Bot Chronicles | 78344 | [78344-spy-bot-chronicles.json](./78344-spy-bot-chronicles.json) |
+| Spy Carnival | 406936 | [406936-spy-carnival.json](./406936-spy-carnival.json) |
 | Spy Chameleon | 15462 | [15462-spy-chameleon.json](./15462-spy-chameleon.json) |
 | Spy DNA | 126417 | [126417-spy-dna.json](./126417-spy-dna.json) |
 | Spy Drops | 307538 | [307538-spy-drops.json](./307538-spy-drops.json) |
@@ -10227,6 +10231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Imprisoned | 83258 | [83258-succubus-imprisoned.json](./83258-succubus-imprisoned.json) |
 | Succubus Rem | 74452 | [74452-succubus-rem.json](./74452-succubus-rem.json) |
 | Succubus Sessions: Mami Mamiya's Sweet Slice of Hell | 371233 | [371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json](./371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json) |
+| Succubus Successor: Delilah's Juicy Journey | 406898 | [406898-succubus-successor-delilahs-juicy-journey.json](./406898-succubus-successor-delilahs-juicy-journey.json) |
 | Succubus Waifu | 127998 | [127998-succubus-waifu.json](./127998-succubus-waifu.json) |
 | Succubus War | 186830 | [186830-succubus-war.json](./186830-succubus-war.json) |
 | Succubuses Love Creampie | 169424 | [169424-succubuses-love-creampie.json](./169424-succubuses-love-creampie.json) |
