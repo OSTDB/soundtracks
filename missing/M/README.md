@@ -2615,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X: Project Zero | 376479 | [376479-mega-man-x-project-zero.json](./376479-mega-man-x-project-zero.json) |
 | Mega Man X: Proto Edition | 201859 | [201859-mega-man-x-proto-edition.json](./201859-mega-man-x-proto-edition.json) |
 | Mega Man X: The Red Cartridge | 254527 | [254527-mega-man-x-the-red-cartridge.json](./254527-mega-man-x-the-red-cartridge.json) |
+| Mega Man X: Viral Nightmare | 391873 | [391873-mega-man-x-viral-nightmare.json](./391873-mega-man-x-viral-nightmare.json) |
 | Mega Man X: Zero Playable | 235207 | [235207-mega-man-x-zero-playable.json](./235207-mega-man-x-zero-playable.json) |
 | Mega Man X2 Alpha | 222927 | [222927-mega-man-x2-alpha.json](./222927-mega-man-x2-alpha.json) |
 | Mega Man X2: Proto Edition | 219083 | [219083-mega-man-x2-proto-edition.json](./219083-mega-man-x2-proto-edition.json) |
@@ -4863,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Style: Dress Up! | 314878 | [314878-model-style-dress-up.json](./314878-model-style-dress-up.json) |
 | Moderium | 127214 | [127214-moderium.json](./127214-moderium.json) |
 | Modern Arena | 394359 | [394359-modern-arena.json](./394359-modern-arena.json) |
+| Modern Attack | 391865 | [391865-modern-attack.json](./391865-modern-attack.json) |
 | Modern Campaigns: Danube Front '85 | 124738 | [124738-modern-campaigns-danube-front-85.json](./124738-modern-campaigns-danube-front-85.json) |
 | Modern Campaigns: Middle East '67 | 124737 | [124737-modern-campaigns-middle-east-67.json](./124737-modern-campaigns-middle-east-67.json) |
 | Modern Campaigns: Quang Tri '72 | 229964 | [229964-modern-campaigns-quang-tri-72.json](./229964-modern-campaigns-quang-tri-72.json) |
@@ -5125,6 +5127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Fruit Fight! | 366302 | [366302-monkey-fruit-fight.json](./366302-monkey-fruit-fight.json) |
 | Monkey Gang | 351007 | [351007-monkey-gang.json](./351007-monkey-gang.json) |
 | Monkey GO Happy | 97313 | [97313-monkey-go-happy.json](./97313-monkey-go-happy.json) |
+| Monkey in the Zoo | 391855 | [391855-monkey-in-the-zoo.json](./391855-monkey-in-the-zoo.json) |
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
 | Monkey Island Special Edition Collection | 43036 | [43036-monkey-island-special-edition-collection.json](./43036-monkey-island-special-edition-collection.json) |
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
