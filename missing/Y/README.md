@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh PokéDuel | 270787 | [270787-yu-gi-oh-pokeduel.json](./270787-yu-gi-oh-pokeduel.json) |
 | Yu-Gi-Oh! 5D's Tag Force 5 | 42854 | [42854-yu-gi-oh-5ds-tag-force-5.json](./42854-yu-gi-oh-5ds-tag-force-5.json) |
 | Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia | 47841 | [47841-yu-gi-oh-5ds-world-championship-2010-reverse-of-arcadia.json](./47841-yu-gi-oh-5ds-world-championship-2010-reverse-of-arcadia.json) |
+| Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus | 47801 | [47801-yu-gi-oh-5ds-world-championship-2011-over-the-nexus.json](./47801-yu-gi-oh-5ds-world-championship-2011-over-the-nexus.json) |
 | Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 | 68039 | [68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json](./68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json) |
 | Yu-Gi-Oh! BAM Pocket | 79576 | [79576-yu-gi-oh-bam-pocket.json](./79576-yu-gi-oh-bam-pocket.json) |
 | Yu-Gi-Oh! Cross Duel | 174874 | [174874-yu-gi-oh-cross-duel.json](./174874-yu-gi-oh-cross-duel.json) |
@@ -550,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale | 159242 | [159242-yu-gi-oh-rush-duel-dawn-of-the-battle-royale.json](./159242-yu-gi-oh-rush-duel-dawn-of-the-battle-royale.json) |
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale - Let's Go! Go Rush!! | 217963 | [217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json](./217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json) |
 | Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 | 49377 | [49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json](./49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json) |
+| Yu-Gi-Oh! World Championship 2007 | 21444 | [21444-yu-gi-oh-world-championship-2007.json](./21444-yu-gi-oh-world-championship-2007.json) |
 | Yu-Gi-Oh!: Duelingbook | 202358 | [202358-yu-gi-oh-duelingbook.json](./202358-yu-gi-oh-duelingbook.json) |
 | YU-NO: A Girl Who Chants Love at the Bound of This World | 201228 | [201228-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world.json](./201228-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world.json) |
 | Yubisaki Connection | 333578 | [333578-yubisaki-connection.json](./333578-yubisaki-connection.json) |
