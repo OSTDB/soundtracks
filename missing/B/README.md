@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamerang | 132199 | [132199-bamerang.json](./132199-bamerang.json) |
 | Ban: The Prologue of Gucha Gucha | 302961 | [302961-ban-the-prologue-of-gucha-gucha.json](./302961-ban-the-prologue-of-gucha-gucha.json) |
 | Bana Simulator | 252984 | [252984-bana-simulator.json](./252984-bana-simulator.json) |
+| Banan Abanan | 417658 | [417658-banan-abanan.json](./417658-banan-abanan.json) |
 | Banana | 95469 | [95469-banana.json](./95469-banana.json) |
 | Banana 3D | 338190 | [338190-banana-3d.json](./338190-banana-3d.json) |
 | Banana Attack VR | 234196 | [234196-banana-attack-vr.json](./234196-banana-attack-vr.json) |
@@ -2216,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benji Bananas | 234749 | [234749-benji-bananas.json](./234749-benji-bananas.json) |
 | Benji Challenges | 34711 | [34711-benji-challenges.json](./34711-benji-challenges.json) |
 | Benji: Space Rescue | 74047 | [74047-benji-space-rescue.json](./74047-benji-space-rescue.json) |
+| Benjy Adventure | 417675 | [417675-benjy-adventure.json](./417675-benjy-adventure.json) |
 | Benkei Gaiden | 80572 | [80572-benkei-gaiden.json](./80572-benkei-gaiden.json) |
 | Bennett Foddy's Speed Chess | 342167 | [342167-bennett-foddys-speed-chess.json](./342167-bennett-foddys-speed-chess.json) |
 | Bennu Bennu: Protect the Pyramid | 253378 | [253378-bennu-bennu-protect-the-pyramid.json](./253378-bennu-bennu-protect-the-pyramid.json) |
@@ -3719,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Drift | 86566 | [86566-blood-drift.json](./86566-blood-drift.json) |
 | Blood Expedition | 384638 | [384638-blood-expedition.json](./384638-blood-expedition.json) |
 | Blood Field | 153932 | [153932-blood-field.json](./153932-blood-field.json) |
+| Blood Fighter Round Battle | 417707 | [417707-blood-fighter-round-battle.json](./417707-blood-fighter-round-battle.json) |
 | Blood for Poppies | 165531 | [165531-blood-for-poppies.json](./165531-blood-for-poppies.json) |
 | Blood for the Throne | 370202 | [370202-blood-for-the-throne.json](./370202-blood-for-the-throne.json) |
 | Blood Gazm | 248672 | [248672-blood-gazm.json](./248672-blood-gazm.json) |
@@ -4512,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 3: Diamond Loot Chest - Collector's Edition | 136268 | [136268-borderlands-3-diamond-loot-chest-collectors-edition.json](./136268-borderlands-3-diamond-loot-chest-collectors-edition.json) |
 | Borderlands 3: Director's Cut | 271818 | [271818-borderlands-3-directors-cut.json](./271818-borderlands-3-directors-cut.json) |
 | Borderlands 3: Super Deluxe Edition | 116996 | [116996-borderlands-3-super-deluxe-edition.json](./116996-borderlands-3-super-deluxe-edition.json) |
+| Borderlands 4: Story Pack 2 - FL4K and the Last Resort | 417666 | [417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json](./417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json) |
 | Borderlands Legends | 64415 | [64415-borderlands-legends.json](./64415-borderlands-legends.json) |
 | Borderlands Mobile | 397810 | [397810-borderlands-mobile.json](./397810-borderlands-mobile.json) |
 | Borderlands Triple Pack | 268734 | [268734-borderlands-triple-pack.json](./268734-borderlands-triple-pack.json) |
