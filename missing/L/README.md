@@ -2372,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco-Motion | 5681 | [5681-loco-motion.json](./5681-loco-motion.json) |
 | Loco-Sort | 272265 | [272265-loco-sort.json](./272265-loco-sort.json) |
 | Loco: Rails & Tails | 381632 | [381632-loco-rails-and-tails.json](./381632-loco-rails-and-tails.json) |
+| Loco! | 412525 | [412525-loco.json](./412525-loco.json) |
 | Locomochi | 415310 | [415310-locomochi.json](./415310-locomochi.json) |
 | Locomotion | 117048 | [117048-locomotion.json](./117048-locomotion.json) |
 | Locomotion | 202410 | [202410-locomotion.json](./202410-locomotion.json) |
@@ -3292,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luka Tim Incident | 318624 | [318624-luka-tim-incident.json](./318624-luka-tim-incident.json) |
 | Luke | 310612 | [310612-luke.json](./310612-luke.json) |
 | Luke & Rebecca | 111455 | [111455-luke-and-rebecca.json](./111455-luke-and-rebecca.json) |
+| Luke Jump | 412498 | [412498-luke-jump.json](./412498-luke-jump.json) |
 | Lukewarm Ironclad | 113702 | [113702-lukewarm-ironclad.json](./113702-lukewarm-ironclad.json) |
 | Lukewarm Massacre: The Spirit of Light | 303641 | [303641-lukewarm-massacre-the-spirit-of-light.json](./303641-lukewarm-massacre-the-spirit-of-light.json) |
 | LUL inc. | 186238 | [186238-lul-inc.json](./186238-lul-inc.json) |
