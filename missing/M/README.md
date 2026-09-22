@@ -3106,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry Cook | 367934 | [367934-merry-cook.json](./367934-merry-cook.json) |
 | Merry Go Round | 287636 | [287636-merry-go-round.json](./287636-merry-go-round.json) |
 | Merry Go Wrong | 181323 | [181323-merry-go-wrong.json](./181323-merry-go-wrong.json) |
+| Merry Snowballs | 27016 | [27016-merry-snowballs.json](./27016-merry-snowballs.json) |
 | Meru Purana | 125421 | [125421-meru-purana.json](./125421-meru-purana.json) |
 | Mervils: A VR Adventure | 27385 | [27385-mervils-a-vr-adventure.json](./27385-mervils-a-vr-adventure.json) |
 | Mesa | 233214 | [233214-mesa.json](./233214-mesa.json) |
@@ -5988,6 +5989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Maniac Xmas | 396423 | [396423-mountain-maniac-xmas.json](./396423-mountain-maniac-xmas.json) |
 | Mountain Taxi Driver | 119745 | [119745-mountain-taxi-driver.json](./119745-mountain-taxi-driver.json) |
 | Mountain Trap 2: Under the Cloak of Fear | 30309 | [30309-mountain-trap-2-under-the-cloak-of-fear.json](./30309-mountain-trap-2-under-the-cloak-of-fear.json) |
+| Mountain Trap: The Manor of Memories | 26576 | [26576-mountain-trap-the-manor-of-memories.json](./26576-mountain-trap-the-manor-of-memories.json) |
 | Mountaincore | 245932 | [245932-mountaincore.json](./245932-mountaincore.json) |
 | Mountinuum | 285047 | [285047-mountinuum.json](./285047-mountinuum.json) |
 | Mourning Tide | 306174 | [306174-mourning-tide.json](./306174-mourning-tide.json) |
@@ -6121,6 +6123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Douchebag Breaks Rocks | 234714 | [234714-mr-douchebag-breaks-rocks.json](./234714-mr-douchebag-breaks-rocks.json) |
 | Mr. Driller | 254519 | [254519-mr-driller.json](./254519-mr-driller.json) |
 | Mr. Driller | 370220 | [370220-mr-driller.json](./370220-mr-driller.json) |
+| Mr. Driller: Drill Till You Drop | 25176 | [25176-mr-driller-drill-till-you-drop.json](./25176-mr-driller-drill-till-you-drop.json) |
 | Mr. Drumstix' Music Studio | 69232 | [69232-mr-drumstix-music-studio.json](./69232-mr-drumstix-music-studio.json) |
 | Mr. Elevator | 337088 | [337088-mr-elevator.json](./337088-mr-elevator.json) |
 | Mr. Fast | 127751 | [127751-mr-fast.json](./127751-mr-fast.json) |
