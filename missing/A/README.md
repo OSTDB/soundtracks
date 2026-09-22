@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurous Mind | 259670 | [259670-adventurous-mind.json](./259670-adventurous-mind.json) |
 | Advisors at the End of the Universe | 122184 | [122184-advisors-at-the-end-of-the-universe.json](./122184-advisors-at-the-end-of-the-universe.json) |
 | Aebal | 167174 | [167174-aebal.json](./167174-aebal.json) |
+| Aegis of Earth: Protonovus Assault | 20070 | [20070-aegis-of-earth-protonovus-assault.json](./20070-aegis-of-earth-protonovus-assault.json) |
 | Aegis Online | 103881 | [103881-aegis-online.json](./103881-aegis-online.json) |
 | Aegyptus | 55466 | [55466-aegyptus.json](./55466-aegyptus.json) |
 | Aelfric the Wondrous | 299301 | [299301-aelfric-the-wondrous.json](./299301-aelfric-the-wondrous.json) |
@@ -943,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
 | Africa Empire 2027 | 219680 | [219680-africa-empire-2027.json](./219680-africa-empire-2027.json) |
 | African Safari | 74039 | [74039-african-safari.json](./74039-african-safari.json) |
+| Afro Samurai 2: Revenge of Kuma | 20030 | [20030-afro-samurai-2-revenge-of-kuma.json](./20030-afro-samurai-2-revenge-of-kuma.json) |
 | AfroPenguin & The Forbidden Ramen | 244866 | [244866-afropenguin-and-the-forbidden-ramen.json](./244866-afropenguin-and-the-forbidden-ramen.json) |
 | After Burner | 365088 | [365088-after-burner.json](./365088-after-burner.json) |
 | After Burner | 365100 | [365100-after-burner.json](./365100-after-burner.json) |
@@ -5415,6 +5417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avorion | 27114 | [27114-avorion.json](./27114-avorion.json) |
 | Avorion: Black Market | 172110 | [172110-avorion-black-market.json](./172110-avorion-black-market.json) |
 | Avorion: Into the Rift | 210867 | [210867-avorion-into-the-rift.json](./210867-avorion-into-the-rift.json) |
+| AVP: Evolution | 20087 | [20087-avp-evolution.json](./20087-avp-evolution.json) |
 | Avril | 373011 | [373011-avril.json](./373011-avril.json) |
 | Avrod | 149452 | [149452-avrod.json](./149452-avrod.json) |
 | Avventura nel Castello | 304177 | [304177-avventura-nel-castello.json](./304177-avventura-nel-castello.json) |
