@@ -3463,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Tower 3 | 18305 | [18305-clock-tower-3.json](./18305-clock-tower-3.json) |
 | Clock Tower Madness | 386273 | [386273-clock-tower-madness.json](./386273-clock-tower-madness.json) |
 | Clock Tower: Rewind | 256465 | [256465-clock-tower-rewind.json](./256465-clock-tower-rewind.json) |
+| Clock World | 398579 | [398579-clock-world.json](./398579-clock-world.json) |
 | Clocks | 41369 | [41369-clocks.json](./41369-clocks.json) |
 | Clockwatch | 315694 | [315694-clockwatch.json](./315694-clockwatch.json) |
 | Clockwind | 185029 | [185029-clockwind.json](./185029-clockwind.json) |
@@ -3532,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Raiders | 59983 | [59983-cloud-raiders.json](./59983-cloud-raiders.json) |
 | Cloud Sculptor | 406126 | [406126-cloud-sculptor.json](./406126-cloud-sculptor.json) |
 | Cloud Serpent | 185658 | [185658-cloud-serpent.json](./185658-cloud-serpent.json) |
+| Cloud Server Simulator | 398595 | [398595-cloud-server-simulator.json](./398595-cloud-server-simulator.json) |
 | Cloud to Gold | 371346 | [371346-cloud-to-gold.json](./371346-cloud-to-gold.json) |
 | Cloud: Telos | 236377 | [236377-cloud-telos.json](./236377-cloud-telos.json) |
 | Cloudbase Prime | 31803 | [31803-cloudbase-prime.json](./31803-cloudbase-prime.json) |
@@ -4883,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coregrounds | 11344 | [11344-coregrounds.json](./11344-coregrounds.json) |
 | CorePiercer | 159716 | [159716-corepiercer.json](./159716-corepiercer.json) |
 | Corepunk | 127513 | [127513-corepunk.json](./127513-corepunk.json) |
+| Corestory | 398551 | [398551-corestory.json](./398551-corestory.json) |
 | Coreupt | 130328 | [130328-coreupt.json](./130328-coreupt.json) |
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
 | Corewave Defenders | 382292 | [382292-corewave-defenders.json](./382292-corewave-defenders.json) |
