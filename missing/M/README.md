@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cats Pots | 319779 | [319779-magic-cats-pots.json](./319779-magic-cats-pots.json) |
 | Magic Cauldron: Dungeons | 289310 | [289310-magic-cauldron-dungeons.json](./289310-magic-cauldron-dungeons.json) |
 | Magic Chaos | 206383 | [206383-magic-chaos.json](./206383-magic-chaos.json) |
+| Magic Chess | 413901 | [413901-magic-chess.json](./413901-magic-chess.json) |
 | Magic Chess Online | 138575 | [138575-magic-chess-online.json](./138575-magic-chess-online.json) |
 | Magic Chess: Go Go | 330884 | [330884-magic-chess-go-go.json](./330884-magic-chess-go-go.json) |
 | Magic Circle | 309334 | [309334-magic-circle.json](./309334-magic-circle.json) |
@@ -1258,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. | 192924 | [192924-mario-bros.json](./192924-mario-bros.json) |
 | Mario Bros. | 257638 | [257638-mario-bros.json](./257638-mario-bros.json) |
 | Mario Bros. | 3105 | [3105-mario-bros.json](./3105-mario-bros.json) |
+| Mario Bros. Mayhem | 413896 | [413896-mario-bros-mayhem.json](./413896-mario-bros-mayhem.json) |
 | Mario Bros. VB | 231513 | [231513-mario-bros-vb.json](./231513-mario-bros-vb.json) |
 | Mario Bros.-e | 170013 | [170013-mario-bros-e.json](./170013-mario-bros-e.json) |
 | Mario Builder | 323745 | [323745-mario-builder.json](./323745-mario-builder.json) |
@@ -3735,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might and Magic: World of Xeen | 7738 | [7738-might-and-magic-world-of-xeen.json](./7738-might-and-magic-world-of-xeen.json) |
 | Might is Right | 127497 | [127497-might-is-right.json](./127497-might-is-right.json) |
 | Might of Fate | 406130 | [406130-might-of-fate.json](./406130-might-of-fate.json) |
+| Might of the Meek | 413877 | [413877-might-of-the-meek.json](./413877-might-of-the-meek.json) |
 | Mightier | 50136 | [50136-mightier.json](./50136-mightier.json) |
 | Mightreya | 314489 | [314489-mightreya.json](./314489-mightreya.json) |
 | Mighty Aphid | 135156 | [135156-mighty-aphid.json](./135156-mighty-aphid.json) |
