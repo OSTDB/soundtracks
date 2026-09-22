@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A night with Natalie VR | 111376 | [111376-a-night-with-natalie-vr.json](./111376-a-night-with-natalie-vr.json) |
 | A Night With: Succubus | 331291 | [331291-a-night-with-succubus.json](./331291-a-night-with-succubus.json) |
 | A Nightmare on Elm Street | 129595 | [129595-a-nightmare-on-elm-street.json](./129595-a-nightmare-on-elm-street.json) |
+| A Nightmare on Elm Street | 40935 | [40935-a-nightmare-on-elm-street.json](./40935-a-nightmare-on-elm-street.json) |
 | A Ninja in Training | 161738 | [161738-a-ninja-in-training.json](./161738-a-ninja-in-training.json) |
 | A Noble Circle | 174207 | [174207-a-noble-circle.json](./174207-a-noble-circle.json) |
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
@@ -597,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
 | Aceonline: DuelX | 95871 | [95871-aceonline-duelx.json](./95871-aceonline-duelx.json) |
 | Aces of the Deep | 12384 | [12384-aces-of-the-deep.json](./12384-aces-of-the-deep.json) |
+| Aces of the Luftwaffe | 35650 | [35650-aces-of-the-luftwaffe.json](./35650-aces-of-the-luftwaffe.json) |
 | Aces of the Pacific | 12385 | [12385-aces-of-the-pacific.json](./12385-aces-of-the-pacific.json) |
 | Aces of War | 45294 | [45294-aces-of-war.json](./45294-aces-of-war.json) |
 | Aces Over Airfields | 379462 | [379462-aces-over-airfields.json](./379462-aces-over-airfields.json) |
@@ -733,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Admin | 179622 | [179622-admin.json](./179622-admin.json) |
 | Admiral: Battle for Uranium | 261859 | [261859-admiral-battle-for-uranium.json](./261859-admiral-battle-for-uranium.json) |
 | Adolfish | 185014 | [185014-adolfish.json](./185014-adolfish.json) |
+| ADOM: Ancient Domains of Mystery | 36159 | [36159-adom-ancient-domains-of-mystery.json](./36159-adom-ancient-domains-of-mystery.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
 | Adorable Witch 5: Lingering | 235850 | [235850-adorable-witch-5-lingering.json](./235850-adorable-witch-5-lingering.json) |
 | Adorate | 362874 | [362874-adorate.json](./362874-adorate.json) |
@@ -1058,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent-00 | 140355 | [140355-agent-00.json](./140355-agent-00.json) |
 | Aggressive Inline | 3783 | [3783-aggressive-inline.json](./3783-aggressive-inline.json) |
 | Aggressor | 13241 | [13241-aggressor.json](./13241-aggressor.json) |
+| Aggressors of Dark Kombat | 39336 | [39336-aggressors-of-dark-kombat.json](./39336-aggressors-of-dark-kombat.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
 | Agonize | 187402 | [187402-agonize.json](./187402-agonize.json) |
@@ -1218,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Warrior | 14232 | [14232-air-warrior.json](./14232-air-warrior.json) |
 | Air Warrior III | 74086 | [74086-air-warrior-iii.json](./74086-air-warrior-iii.json) |
 | Air Wars | 336561 | [336561-air-wars.json](./336561-air-wars.json) |
+| Air Zonk | 42129 | [42129-air-zonk.json](./42129-air-zonk.json) |
 | Aira VR | 113673 | [113673-aira-vr.json](./113673-aira-vr.json) |
 | AiRace Speed | 8629 | [8629-airace-speed.json](./8629-airace-speed.json) |
 | AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
@@ -1858,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All New Origins | 283907 | [283907-all-new-origins.json](./283907-all-new-origins.json) |
 | All New World of Lemmings | 14246 | [14246-all-new-world-of-lemmings.json](./14246-all-new-world-of-lemmings.json) |
+| All Night Nippon Super Mario Bros. | 41272 | [41272-all-night-nippon-super-mario-bros.json](./41272-all-night-nippon-super-mario-bros.json) |
 | All of Our Friends Are Dead | 124630 | [124630-all-of-our-friends-are-dead.json](./124630-all-of-our-friends-are-dead.json) |
 | All of Us: Her Story | 313877 | [313877-all-of-us-her-story.json](./313877-all-of-us-her-story.json) |
 | All of Us: His Story | 313878 | [313878-all-of-us-his-story.json](./313878-all-of-us-his-story.json) |
