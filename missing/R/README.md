@@ -172,11 +172,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Fever | 49352 | [49352-racing-fever.json](./49352-racing-fever.json) |
 | Racing Go | 262380 | [262380-racing-go.json](./262380-racing-go.json) |
 | Racing Heroes | 197338 | [197338-racing-heroes.json](./197338-racing-heroes.json) |
+| Racing in Car | 86989 | [86989-racing-in-car.json](./86989-racing-in-car.json) |
 | Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
 | Racing Legends | 174214 | [174214-racing-legends.json](./174214-racing-legends.json) |
 | Racing Legends: Speed Evolution | 91131 | [91131-racing-legends-speed-evolution.json](./91131-racing-legends-speed-evolution.json) |
 | Racing Madness | 68972 | [68972-racing-madness.json](./68972-racing-madness.json) |
 | Racing Manager 2014 | 9419 | [9419-racing-manager-2014.json](./9419-racing-manager-2014.json) |
+| Racing Penguin: Slide and Fly! | 86973 | [86973-racing-penguin-slide-and-fly.json](./86973-racing-penguin-slide-and-fly.json) |
 | Racing Pitch | 70955 | [70955-racing-pitch.json](./70955-racing-pitch.json) |
 | Racing Rivals | 38904 | [38904-racing-rivals.json](./38904-racing-rivals.json) |
 | Racing Royale | 390012 | [390012-racing-royale.json](./390012-racing-royale.json) |
@@ -3609,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roman Sands RE:Build | 229067 | [229067-roman-sands-re-build.json](./229067-roman-sands-re-build.json) |
 | Roman the Worm | 105336 | [105336-roman-the-worm.json](./105336-roman-the-worm.json) |
 | Roman Trahtenberg: V poiskah ideal'nogo anekdota | 403581 | [403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json](./403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json) |
+| Romance - Hidden Object Games | 86918 | [86918-romance-hidden-object-games.json](./86918-romance-hidden-object-games.json) |
 | Romance Choice | 301949 | [301949-romance-choice.json](./301949-romance-choice.json) |
 | Romance Club: Stories I Play | 270927 | [270927-romance-club-stories-i-play.json](./270927-romance-club-stories-i-play.json) |
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
