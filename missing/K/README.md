@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiwis Can't Fly | 306691 | [306691-kiwis-cant-fly.json](./306691-kiwis-cant-fly.json) |
 | Kizuna Kirameku Koi Iroha | 339373 | [339373-kizuna-kirameku-koi-iroha.json](./339373-kizuna-kirameku-koi-iroha.json) |
 | Kizuna Kirameku Koi Iroha | 77659 | [77659-kizuna-kirameku-koi-iroha.json](./77659-kizuna-kirameku-koi-iroha.json) |
+| KKND: Krush, Kill 'N' Destroy | 71738 | [71738-kknd-krush-kill-n-destroy.json](./71738-kknd-krush-kill-n-destroy.json) |
 | Kkokko Industry | 371981 | [371981-kkokko-industry.json](./371981-kkokko-industry.json) |
 | KKuTuDotNet | 143754 | [143754-kkutudotnet.json](./143754-kkutudotnet.json) |
 | Klabi | 33029 | [33029-klabi.json](./33029-klabi.json) |
@@ -1527,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightmare | 163950 | [163950-knightmare.json](./163950-knightmare.json) |
 | Knightmare Gold | 259255 | [259255-knightmare-gold.json](./259255-knightmare-gold.json) |
 | Knightmare II: The Maze of Galious | 361716 | [361716-knightmare-ii-the-maze-of-galious.json](./361716-knightmare-ii-the-maze-of-galious.json) |
+| Knightmare II: The Maze of Galious | 36671 | [36671-knightmare-ii-the-maze-of-galious.json](./36671-knightmare-ii-the-maze-of-galious.json) |
 | KnightQuest | 95427 | [95427-knightquest.json](./95427-knightquest.json) |
 | Knights | 32575 | [32575-knights.json](./32575-knights.json) |
 | Knights & Dragons | 59980 | [59980-knights-and-dragons.json](./59980-knights-and-dragons.json) |
@@ -1989,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Fearsome Fists | 333947 | [333947-kung-fu-fearsome-fists.json](./333947-kung-fu-fearsome-fists.json) |
 | Kung Fu Fight! | 58239 | [58239-kung-fu-fight.json](./58239-kung-fu-fight.json) |
 | Kung Fu House | 51201 | [51201-kung-fu-house.json](./51201-kung-fu-house.json) |
+| Kung Fu Kid | 36898 | [36898-kung-fu-kid.json](./36898-kung-fu-kid.json) |
 | Kung Fu Panda | 320387 | [320387-kung-fu-panda.json](./320387-kung-fu-panda.json) |
 | Kung Fu Panda 2 | 230549 | [230549-kung-fu-panda-2.json](./230549-kung-fu-panda-2.json) |
 | Kung Fu Panda World | 357266 | [357266-kung-fu-panda-world.json](./357266-kung-fu-panda-world.json) |
