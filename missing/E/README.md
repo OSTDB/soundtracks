@@ -1263,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endure | 280205 | [280205-endure.json](./280205-endure.json) |
 | Endure Island | 213976 | [213976-endure-island.json](./213976-endure-island.json) |
 | Endure or Perish | 288223 | [288223-endure-or-perish.json](./288223-endure-or-perish.json) |
+| Enduro Racer | 37159 | [37159-enduro-racer.json](./37159-enduro-racer.json) |
 | Endzeit | 243785 | [243785-endzeit.json](./243785-endzeit.json) |
 | Endzone | 13643 | [13643-endzone.json](./13643-endzone.json) |
 | Endzone: A World Apart | 126362 | [126362-endzone-a-world-apart.json](./126362-endzone-a-world-apart.json) |
