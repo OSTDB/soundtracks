@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
 | Eden Genesis | 280561 | [280561-eden-genesis.json](./280561-eden-genesis.json) |
 | Eden Remains: Arrival | 203944 | [203944-eden-remains-arrival.json](./203944-eden-remains-arrival.json) |
+| Eden Rising | 81383 | [81383-eden-rising.json](./81383-eden-rising.json) |
 | Eden Rising: Ascendant Expansion | 169326 | [169326-eden-rising-ascendant-expansion.json](./169326-eden-rising-ascendant-expansion.json) |
 | Eden Star | 14377 | [14377-eden-star.json](./14377-eden-star.json) |
 | Eden Tactics | 325448 | [325448-eden-tactics.json](./325448-eden-tactics.json) |
