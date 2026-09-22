@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Regicide | 11450 | [11450-warhammer-40-000-regicide.json](./11450-warhammer-40-000-regicide.json) |
 | Warhammer 40,000: Rogue Trader - Void Shadows | 302168 | [302168-warhammer-40-000-rogue-trader-void-shadows.json](./302168-warhammer-40-000-rogue-trader-void-shadows.json) |
 | Warhammer 40,000: Rogue Trader - Voidfarer Pack | 280170 | [280170-warhammer-40-000-rogue-trader-voidfarer-pack.json](./280170-warhammer-40-000-rogue-trader-voidfarer-pack.json) |
+| Warhammer 40,000: Sanctus Reach | 26705 | [26705-warhammer-40-000-sanctus-reach.json](./26705-warhammer-40-000-sanctus-reach.json) |
 | Warhammer 40,000: Sanctus Reach - Horrors of the Warp | 111746 | [111746-warhammer-40-000-sanctus-reach-horrors-of-the-warp.json](./111746-warhammer-40-000-sanctus-reach-horrors-of-the-warp.json) |
 | Warhammer 40,000: Sanctus Reach - Legacy of the Weirdboy | 111745 | [111745-warhammer-40-000-sanctus-reach-legacy-of-the-weirdboy.json](./111745-warhammer-40-000-sanctus-reach-legacy-of-the-weirdboy.json) |
 | Warhammer 40,000: Sanctus Reach - Sons of Cadia | 111744 | [111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json](./111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json) |
@@ -1006,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Garden Online | 374623 | [374623-weed-garden-online.json](./374623-weed-garden-online.json) |
 | Weed Merge Inc | 374661 | [374661-weed-merge-inc.json](./374661-weed-merge-inc.json) |
 | Weed Shop | 374627 | [374627-weed-shop.json](./374627-weed-shop.json) |
+| Weed Shop 2 | 28907 | [28907-weed-shop-2.json](./28907-weed-shop-2.json) |
 | Weed Shop 4: Highland | 309645 | [309645-weed-shop-4-highland.json](./309645-weed-shop-4-highland.json) |
 | Weedcraft Inc & Moonshine Inc: Risky Business Bundle | 261334 | [261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json](./261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json) |
 | Weekend Drive | 109019 | [109019-weekend-drive.json](./109019-weekend-drive.json) |
@@ -1061,11 +1063,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Everdell | 304887 | [304887-welcome-to-everdell.json](./304887-welcome-to-everdell.json) |
 | Welcome to Free Will: Episode 3 | 237060 | [237060-welcome-to-free-will-episode-3.json](./237060-welcome-to-free-will-episode-3.json) |
 | Welcome to GameCube World!! | 175969 | [175969-welcome-to-gamecube-world.json](./175969-welcome-to-gamecube-world.json) |
+| Welcome to Hanwell | 29076 | [29076-welcome-to-hanwell.json](./29076-welcome-to-hanwell.json) |
 | Welcome to Heaven | 41976 | [41976-welcome-to-heaven.json](./41976-welcome-to-heaven.json) |
 | Welcome to IKSPQ | 271310 | [271310-welcome-to-ikspq.json](./271310-welcome-to-ikspq.json) |
 | Welcome to Jane's Story in the World of Project: Summer Ice | 208621 | [208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json](./208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json) |
 | Welcome to Levy | 238730 | [238730-welcome-to-levy.json](./238730-welcome-to-levy.json) |
 | Welcome to Lightford | 273391 | [273391-welcome-to-lightford.json](./273391-welcome-to-lightford.json) |
+| Welcome to Moreytown | 28650 | [28650-welcome-to-moreytown.json](./28650-welcome-to-moreytown.json) |
 | Welcome to My Cave | 260652 | [260652-welcome-to-my-cave.json](./260652-welcome-to-my-cave.json) |
 | Welcome to nightmare | 117699 | [117699-welcome-to-nightmare.json](./117699-welcome-to-nightmare.json) |
 | Welcome to Paradise Island | 331119 | [331119-welcome-to-paradise-island.json](./331119-welcome-to-paradise-island.json) |
