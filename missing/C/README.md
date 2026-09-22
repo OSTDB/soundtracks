@@ -2082,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheesy Chaser | 378899 | [378899-cheesy-chaser.json](./378899-cheesy-chaser.json) |
 | Cheesy Trials | 281529 | [281529-cheesy-trials.json](./281529-cheesy-trials.json) |
 | Cheetah | 346050 | [346050-cheetah.json](./346050-cheetah.json) |
+| Cheetah Simulator | 88155 | [88155-cheetah-simulator.json](./88155-cheetah-simulator.json) |
 | Cheetahmen | 243939 | [243939-cheetahmen.json](./243939-cheetahmen.json) |
 | Cheezure | 316094 | [316094-cheezure.json](./316094-cheezure.json) |
 | Chef | 128575 | [128575-chef.json](./128575-chef.json) |
@@ -2168,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Mix | 135240 | [135240-chess-mix.json](./135240-chess-mix.json) |
 | Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
 | Chess of Fortune | 357216 | [357216-chess-of-fortune.json](./357216-chess-of-fortune.json) |
+| Chess Online + | 88339 | [88339-chess-online.json](./88339-chess-online.json) |
 | Chess Peace | 401021 | [401021-chess-peace.json](./401021-chess-peace.json) |
 | Chess Pills | 203931 | [203931-chess-pills.json](./203931-chess-pills.json) |
 | Chess Plus+ | 86901 | [86901-chess-plus.json](./86901-chess-plus.json) |
@@ -3222,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic snake final | 88791 | [88791-classic-snake-final.json](./88791-classic-snake-final.json) |
 | Classic Snake Game Gold | 100962 | [100962-classic-snake-game-gold.json](./100962-classic-snake-game-gold.json) |
 | Classic Solitaire | 323511 | [323511-classic-solitaire.json](./323511-classic-solitaire.json) |
+| Classic Solitaire | 88321 | [88321-classic-solitaire.json](./88321-classic-solitaire.json) |
 | Classic Sudoku | 126741 | [126741-classic-sudoku.json](./126741-classic-sudoku.json) |
 | Classic Sudoku | 206973 | [206973-classic-sudoku.json](./206973-classic-sudoku.json) |
 | Classic Trivia | 87062 | [87062-classic-trivia.json](./87062-classic-trivia.json) |
@@ -5254,6 +5257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft the World | 14554 | [14554-craft-the-world.json](./14554-craft-the-world.json) |
 | Craft the World: Heart of Evil | 154959 | [154959-craft-the-world-heart-of-evil.json](./154959-craft-the-world-heart-of-evil.json) |
 | Craft The World: Invasion | 286536 | [286536-craft-the-world-invasion.json](./286536-craft-the-world-invasion.json) |
+| Craft the World: Pocket Edition | 87877 | [87877-craft-the-world-pocket-edition.json](./87877-craft-the-world-pocket-edition.json) |
 | Craft Tower | 224213 | [224213-craft-tower.json](./224213-craft-tower.json) |
 | Craft Warriors | 99109 | [99109-craft-warriors.json](./99109-craft-warriors.json) |
 | Craft Your Way | 370804 | [370804-craft-your-way.json](./370804-craft-your-way.json) |
@@ -6825,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberworld Online | 221376 | [221376-cyberworld-online.json](./221376-cyberworld-online.json) |
 | Cyborg City | 339359 | [339359-cyborg-city.json](./339359-cyborg-city.json) |
 | Cyborg Detonator | 32984 | [32984-cyborg-detonator.json](./32984-cyborg-detonator.json) |
+| Cyborg Invasion Shooter 2: Battle of Earth | 88256 | [88256-cyborg-invasion-shooter-2-battle-of-earth.json](./88256-cyborg-invasion-shooter-2-battle-of-earth.json) |
 | Cyborg Justice | 46236 | [46236-cyborg-justice.json](./46236-cyborg-justice.json) |
 | Cyborg Lumberjack | 297083 | [297083-cyborg-lumberjack.json](./297083-cyborg-lumberjack.json) |
 | Cyborg Mechanic | 127017 | [127017-cyborg-mechanic.json](./127017-cyborg-mechanic.json) |
