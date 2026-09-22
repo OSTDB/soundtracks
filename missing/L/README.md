@@ -15,6 +15,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L-Room | 262936 | [262936-l-room.json](./262936-l-room.json) |
 | L.A. Crackdown | 55091 | [55091-l-a-crackdown.json](./55091-l-a-crackdown.json) |
 | L.A. Meltdown 2047 | 308236 | [308236-l-a-meltdown-2047.json](./308236-l-a-meltdown-2047.json) |
+| L.A. Noire: Reefer Madness | 117307 | [117307-l-a-noire-reefer-madness.json](./117307-l-a-noire-reefer-madness.json) |
+| L.A. Noire: The Naked City | 117306 | [117306-l-a-noire-the-naked-city.json](./117306-l-a-noire-the-naked-city.json) |
 | L.A.2 | 135900 | [135900-l-a-2.json](./135900-l-a-2.json) |
 | L.C.D. Bowling | 346111 | [346111-l-c-d-bowling.json](./346111-l-c-d-bowling.json) |
 | L.F.O. -Lost Future Omega- | 30207 | [30207-l-f-o-lost-future-omega.json](./30207-l-f-o-lost-future-omega.json) |
@@ -177,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lair Defense: Dungeon | 127893 | [127893-lair-defense-dungeon.json](./127893-lair-defense-dungeon.json) |
 | Lair Land Story: Remake Edition | 119030 | [119030-lair-land-story-remake-edition.json](./119030-lair-land-story-remake-edition.json) |
 | Lair of Anubis | 236303 | [236303-lair-of-anubis.json](./236303-lair-of-anubis.json) |
+| Lair of the Clockwork God | 117058 | [117058-lair-of-the-clockwork-god.json](./117058-lair-of-the-clockwork-god.json) |
 | Lair Of The Dragon Ogre | 271735 | [271735-lair-of-the-dragon-ogre.json](./271735-lair-of-the-dragon-ogre.json) |
 | Lair Of The Leviathan | 291220 | [291220-lair-of-the-leviathan.json](./291220-lair-of-the-leviathan.json) |
 | Lair of the Morlocks | 112270 | [112270-lair-of-the-morlocks.json](./112270-lair-of-the-morlocks.json) |
@@ -307,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laplace | 109651 | [109651-laplace.json](./109651-laplace.json) |
 | Laplace M | 126047 | [126047-laplace-m.json](./126047-laplace-m.json) |
 | Lapse | 111699 | [111699-lapse.json](./111699-lapse.json) |
+| Lapse: A Forgotten Future | 77471 | [77471-lapse-a-forgotten-future.json](./77471-lapse-a-forgotten-future.json) |
 | Lapsi | 120337 | [120337-lapsi.json](./120337-lapsi.json) |
 | Lapso | 126618 | [126618-lapso.json](./126618-lapso.json) |
 | Laptick | 56741 | [56741-laptick.json](./56741-laptick.json) |
@@ -3051,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lozenge | 88010 | [88010-lozenge.json](./88010-lozenge.json) |
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
 | LSD Battlefield Simulator | 340927 | [340927-lsd-battlefield-simulator.json](./340927-lsd-battlefield-simulator.json) |
+| LSD: The Game | 116998 | [116998-lsd-the-game.json](./116998-lsd-the-game.json) |
 | LSI Puzzle: Last One | 385752 | [385752-lsi-puzzle-last-one.json](./385752-lsi-puzzle-last-one.json) |
 | Lu Dreams | 376606 | [376606-lu-dreams.json](./376606-lu-dreams.json) |
 | Lu[Idle] | 321738 | [321738-lu-idle.json](./321738-lu-idle.json) |
