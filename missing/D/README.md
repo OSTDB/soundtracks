@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Desire Mute 4 | 245918 | [245918-dark-desire-mute-4.json](./245918-dark-desire-mute-4.json) |
 | Dark Desire Mute 5 | 250029 | [250029-dark-desire-mute-5.json](./250029-dark-desire-mute-5.json) |
 | Dark Desire Mute 6 | 260412 | [260412-dark-desire-mute-6.json](./260412-dark-desire-mute-6.json) |
+| Dark DieMansion | 405687 | [405687-dark-diemansion.json](./405687-dark-diemansion.json) |
 | Dark Dimensions: City of Ash - Collector's Edition | 74352 | [74352-dark-dimensions-city-of-ash-collectors-edition.json](./74352-dark-dimensions-city-of-ash-collectors-edition.json) |
 | Dark Dimensions: City of Fog - Collector's Edition | 29811 | [29811-dark-dimensions-city-of-fog-collectors-edition.json](./29811-dark-dimensions-city-of-fog-collectors-edition.json) |
 | Dark Dimensions: Wax Beauty | 139789 | [139789-dark-dimensions-wax-beauty.json](./139789-dark-dimensions-wax-beauty.json) |
@@ -1202,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Mountaineer's Hotel | 14851 | [14851-dead-mountaineers-hotel.json](./14851-dead-mountaineers-hotel.json) |
 | Dead Nation | 2134 | [2134-dead-nation.json](./2134-dead-nation.json) |
 | Dead Nation: Road to Devastation | 20336 | [20336-dead-nation-road-to-devastation.json](./20336-dead-nation-road-to-devastation.json) |
+| Dead Night Highway | 405727 | [405727-dead-night-highway.json](./405727-dead-night-highway.json) |
 | Dead No-Head | 187404 | [187404-dead-no-head.json](./187404-dead-no-head.json) |
 | Dead of Day | 244894 | [244894-dead-of-day.json](./244894-dead-of-day.json) |
 | Dead of Night | 224113 | [224113-dead-of-night.json](./224113-dead-of-night.json) |
@@ -1640,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deceptiive Love Ballad The Blasphemer | 386840 | [386840-deceptiive-love-ballad-the-blasphemer.json](./386840-deceptiive-love-ballad-the-blasphemer.json) |
 | Deceptus Map Pack + Bonus Items | 230934 | [230934-deceptus-map-pack-bonus-items.json](./230934-deceptus-map-pack-bonus-items.json) |
 | Decide in 5 Seconds: Who Is the Culprit? | 409665 | [409665-decide-in-5-seconds-who-is-the-culprit.json](./409665-decide-in-5-seconds-who-is-the-culprit.json) |
+| Decide Your Fate | 405694 | [405694-decide-your-fate.json](./405694-decide-your-fate.json) |
 | Decimated | 206358 | [206358-decimated.json](./206358-decimated.json) |
 | Decimation X | 66374 | [66374-decimation-x.json](./66374-decimation-x.json) |
 | Decision | 299762 | [299762-decision.json](./299762-decision.json) |
@@ -6309,6 +6312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust Dasher | 135280 | [135280-dust-dasher.json](./135280-dust-dasher.json) |
 | Dust Devil | 334152 | [334152-dust-devil.json](./334152-dust-devil.json) |
 | Dust Fleet | 133464 | [133464-dust-fleet.json](./133464-dust-fleet.json) |
+| Dust On Thorn | 405737 | [405737-dust-on-thorn.json](./405737-dust-on-thorn.json) |
 | Dust Raiders | 260175 | [260175-dust-raiders.json](./260175-dust-raiders.json) |
 | Dust to Dusk | 138831 | [138831-dust-to-dusk.json](./138831-dust-to-dusk.json) |
 | Dust Town | 386227 | [386227-dust-town.json](./386227-dust-town.json) |
