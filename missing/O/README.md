@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oakley's World | 337601 | [337601-oakleys-world.json](./337601-oakleys-world.json) |
 | Oakwood | 112433 | [112433-oakwood.json](./112433-oakwood.json) |
 | Oakwood Academy of Spells and Sorcery | 90196 | [90196-oakwood-academy-of-spells-and-sorcery.json](./90196-oakwood-academy-of-spells-and-sorcery.json) |
+| Oar'some Adventures | 411805 | [411805-oarsome-adventures.json](./411805-oarsome-adventures.json) |
 | OASE: Other Age Second Encounter | 34478 | [34478-oase-other-age-second-encounter.json](./34478-oase-other-age-second-encounter.json) |
 | Oasis | 334662 | [334662-oasis.json](./334662-oasis.json) |
 | Oasis | 821 | [821-oasis.json](./821-oasis.json) |
