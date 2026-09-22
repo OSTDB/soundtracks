@@ -2847,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grayscale | 225742 | [225742-grayscale.json](./225742-grayscale.json) |
 | Graytail | 292298 | [292298-graytail.json](./292298-graytail.json) |
 | Graywalkers: Purgatory | 61562 | [61562-graywalkers-purgatory.json](./61562-graywalkers-purgatory.json) |
+| Graze Counter | 44163 | [44163-graze-counter.json](./44163-graze-counter.json) |
 | Graze Counter GM | 211893 | [211893-graze-counter-gm.json](./211893-graze-counter-gm.json) |
 | GRE Words Puzzle | 110300 | [110300-gre-words-puzzle.json](./110300-gre-words-puzzle.json) |
 | Greak 2: Alliance of the Storms | 415149 | [415149-greak-2-alliance-of-the-storms.json](./415149-greak-2-alliance-of-the-storms.json) |
