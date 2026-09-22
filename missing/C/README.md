@@ -1731,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerebrawl | 70367 | [70367-cerebrawl.json](./70367-cerebrawl.json) |
 | Ceremonial Speedmaps | 271193 | [271193-ceremonial-speedmaps.json](./271193-ceremonial-speedmaps.json) |
 | Ceremony of Innocence | 72092 | [72092-ceremony-of-innocence.json](./72092-ceremony-of-innocence.json) |
+| Ceres | 35707 | [35707-ceres.json](./35707-ceres.json) |
 | Ceres M | 193938 | [193938-ceres-m.json](./193938-ceres-m.json) |
 | Ceress and Orea | 96651 | [96651-ceress-and-orea.json](./96651-ceress-and-orea.json) |
 | Cerkio | 176382 | [176382-cerkio.json](./176382-cerkio.json) |
@@ -2139,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherry Kisses | 198466 | [198466-cherry-kisses.json](./198466-cherry-kisses.json) |
 | Cherry Rescue! | 181852 | [181852-cherry-rescue.json](./181852-cherry-rescue.json) |
 | Cherry Tree High Girls' Fight | 33094 | [33094-cherry-tree-high-girls-fight.json](./33094-cherry-tree-high-girls-fight.json) |
+| Cherry Tree High I! My! Girls! | 36156 | [36156-cherry-tree-high-i-my-girls.json](./36156-cherry-tree-high-i-my-girls.json) |
 | Cherry VX | 161380 | [161380-cherry-vx.json](./161380-cherry-vx.json) |
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
 | Chesh | 15551 | [15551-chesh.json](./15551-chesh.json) |
@@ -4223,6 +4225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command Ops 2: Westwall Vol. 7 | 170399 | [170399-command-ops-2-westwall-vol-7.json](./170399-command-ops-2-westwall-vol-7.json) |
 | Command Ops: Battles for Greece | 74324 | [74324-command-ops-battles-for-greece.json](./74324-command-ops-battles-for-greece.json) |
 | Command-Ω Omega | 357814 | [357814-command-omega.json](./357814-command-omega.json) |
+| Command: Modern Air / Naval Operations WOTY | 36237 | [36237-command-modern-air-naval-operations-woty.json](./36237-command-modern-air-naval-operations-woty.json) |
 | Command: Modern Operations - Chains of War | 167870 | [167870-command-modern-operations-chains-of-war.json](./167870-command-modern-operations-chains-of-war.json) |
 | Command: Modern Operations - Shifting Sands | 167866 | [167866-command-modern-operations-shifting-sands.json](./167866-command-modern-operations-shifting-sands.json) |
 | Command: Modern Operations - Shifting Sands | 75030 | [75030-command-modern-operations-shifting-sands.json](./75030-command-modern-operations-shifting-sands.json) |
@@ -5050,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Shooter Strike Zone | 283283 | [283283-counter-shooter-strike-zone.json](./283283-counter-shooter-strike-zone.json) |
 | Counter Shot: Source | 277387 | [277387-counter-shot-source.json](./277387-counter-shot-source.json) |
 | Counter Snipe | 265672 | [265672-counter-snipe.json](./265672-counter-snipe.json) |
+| Counter Spell | 35703 | [35703-counter-spell.json](./35703-counter-spell.json) |
 | Counter Spell Reforged | 122853 | [122853-counter-spell-reforged.json](./122853-counter-spell-reforged.json) |
 | Counter Terrorism - Minesweeper | 127025 | [127025-counter-terrorism-minesweeper.json](./127025-counter-terrorism-minesweeper.json) |
 | Counter-Fall | 127746 | [127746-counter-fall.json](./127746-counter-fall.json) |
@@ -6332,6 +6336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubes Crush Legend | 174819 | [174819-cubes-crush-legend.json](./174819-cubes-crush-legend.json) |
 | Cubes: Procedural Wonders | 240339 | [240339-cubes-procedural-wonders.json](./240339-cubes-procedural-wonders.json) |
 | CubeShooter | 203967 | [203967-cubeshooter.json](./203967-cubeshooter.json) |
+| Cubesis | 36225 | [36225-cubesis.json](./36225-cubesis.json) |
 | CubeWorks | 61890 | [61890-cubeworks.json](./61890-cubeworks.json) |
 | Cubey Quarry | 339352 | [339352-cubey-quarry.json](./339352-cubey-quarry.json) |
 | Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
@@ -6433,6 +6438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultivation Fantasy | 274042 | [274042-cultivation-fantasy.json](./274042-cultivation-fantasy.json) |
 | Cultivation Story: Reincarnation | 211228 | [211228-cultivation-story-reincarnation.json](./211228-cultivation-story-reincarnation.json) |
 | Culto a los dioses | 228428 | [228428-culto-a-los-dioses.json](./228428-culto-a-los-dioses.json) |
+| Cults and Daggers | 36160 | [36160-cults-and-daggers.json](./36160-cults-and-daggers.json) |
 | Culture Warz: Chess | 291757 | [291757-culture-warz-chess.json](./291757-culture-warz-chess.json) |
 | Culture Warz: Time's Up Karen! | 272864 | [272864-culture-warz-times-up-karen.json](./272864-culture-warz-times-up-karen.json) |
 | Cultures Online Heroes | 11382 | [11382-cultures-online-heroes.json](./11382-cultures-online-heroes.json) |
