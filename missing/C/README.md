@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Deck | 40566 | [40566-carrier-deck.json](./40566-carrier-deck.json) |
 | Carrier Joe 2 | 207845 | [207845-carrier-joe-2.json](./207845-carrier-joe-2.json) |
 | Carrier Landings | 87163 | [87163-carrier-landings.json](./87163-carrier-landings.json) |
+| Carrier Wing Ypsilon | 392439 | [392439-carrier-wing-ypsilon.json](./392439-carrier-wing-ypsilon.json) |
 | Carriers at War | 71213 | [71213-carriers-at-war.json](./71213-carriers-at-war.json) |
 | Carriers at War 1941-1945: Fleet Carrier Operations in the Pacific | 25615 | [25615-carriers-at-war-1941-1945-fleet-carrier-operations-in-the-pacific.json](./25615-carriers-at-war-1941-1945-fleet-carrier-operations-in-the-pacific.json) |
 | Carriers at War II | 94536 | [94536-carriers-at-war-ii.json](./94536-carriers-at-war-ii.json) |
@@ -2179,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobylite: Season 4 - Black Smoke | 222942 | [222942-chernobylite-season-4-black-smoke.json](./222942-chernobylite-season-4-black-smoke.json) |
 | Chernomeat Survival Game | 118442 | [118442-chernomeat-survival-game.json](./118442-chernomeat-survival-game.json) |
 | Cherophobia | 301978 | [301978-cherophobia.json](./301978-cherophobia.json) |
+| Cherry blossom | 392414 | [392414-cherry-blossom.json](./392414-cherry-blossom.json) |
 | Cherry Blossom Fleet | 172009 | [172009-cherry-blossom-fleet.json](./172009-cherry-blossom-fleet.json) |
 | Cherry Blossom Portable | 56471 | [56471-cherry-blossom-portable.json](./56471-cherry-blossom-portable.json) |
 | Cherry Bomb | 285589 | [285589-cherry-bomb.json](./285589-cherry-bomb.json) |
@@ -5575,6 +5577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cars: Hit the Road | 62976 | [62976-crazy-cars-hit-the-road.json](./62976-crazy-cars-hit-the-road.json) |
 | Crazy Cauldron | 176968 | [176968-crazy-cauldron.json](./176968-crazy-cauldron.json) |
 | Crazy Caveman | 41016 | [41016-crazy-caveman.json](./41016-crazy-caveman.json) |
+| Crazy Chain: Elpis no Kusari | 392427 | [392427-crazy-chain-elpis-no-kusari.json](./392427-crazy-chain-elpis-no-kusari.json) |
 | Crazy Chewy | 47267 | [47267-crazy-chewy.json](./47267-crazy-chewy.json) |
 | Crazy Chicken Carnival | 135816 | [135816-crazy-chicken-carnival.json](./135816-crazy-chicken-carnival.json) |
 | Crazy Chicken Jump'n Run: Atlantis Quest | 282571 | [282571-crazy-chicken-jumpn-run-atlantis-quest.json](./282571-crazy-chicken-jumpn-run-atlantis-quest.json) |
@@ -6226,6 +6229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crushed in Time | 362089 | [362089-crushed-in-time.json](./362089-crushed-in-time.json) |
 | Crushiator | 339676 | [339676-crushiator.json](./339676-crushiator.json) |
 | Crushing Blow | 55525 | [55525-crushing-blow.json](./55525-crushing-blow.json) |
+| Crushing Depths | 392473 | [392473-crushing-depths.json](./392473-crushing-depths.json) |
 | Crushing on the Clock | 376461 | [376461-crushing-on-the-clock.json](./376461-crushing-on-the-clock.json) |
 | Crustacean Frustration | 395021 | [395021-crustacean-frustration.json](./395021-crustacean-frustration.json) |
 | Crustacean Nations | 211254 | [211254-crustacean-nations.json](./211254-crustacean-nations.json) |
@@ -6638,6 +6642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Bistro!! Max | 264333 | [264333-cupid-bistro-max.json](./264333-cupid-bistro-max.json) |
 | Cupid Date | 225264 | [225264-cupid-date.json](./225264-cupid-date.json) |
 | Cupid Parasite: Sweet and Spicy Darling | 200558 | [200558-cupid-parasite-sweet-and-spicy-darling.json](./200558-cupid-parasite-sweet-and-spicy-darling.json) |
+| Cupid's Bargain | 392422 | [392422-cupids-bargain.json](./392422-cupids-bargain.json) |
 | Cupky Jump | 252157 | [252157-cupky-jump.json](./252157-cupky-jump.json) |
 | Cuprum2929 | 311131 | [311131-cuprum2929.json](./311131-cuprum2929.json) |
 | Cura | 287792 | [287792-cura.json](./287792-cura.json) |
@@ -6935,6 +6940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberball | 12022 | [12022-cyberball.json](./12022-cyberball.json) |
 | Cyberball 2072 | 23070 | [23070-cyberball-2072.json](./23070-cyberball-2072.json) |
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
+| Cybercar | 392452 | [392452-cybercar.json](./392452-cybercar.json) |
 | Cyberchase: Mission Motherboard | 143086 | [143086-cyberchase-mission-motherboard.json](./143086-cyberchase-mission-motherboard.json) |
 | Cyberchase: The Quest 1 - Mission Motherboard | 140627 | [140627-cyberchase-the-quest-1-mission-motherboard.json](./140627-cyberchase-the-quest-1-mission-motherboard.json) |
 | CyberClub-2077 | 72342 | [72342-cyberclub-2077.json](./72342-cyberclub-2077.json) |
