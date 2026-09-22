@@ -3106,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino City | 42202 | [42202-dino-city.json](./42202-dino-city.json) |
 | Dino Crisis | 3027 | [3027-dino-crisis.json](./3027-dino-crisis.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
+| Dino Crisis 2 | 416083 | [416083-dino-crisis-2.json](./416083-dino-crisis-2.json) |
 | Dino Crisis: 5th Anniversary | 161345 | [161345-dino-crisis-5th-anniversary.json](./161345-dino-crisis-5th-anniversary.json) |
 | Dino Crisis: Dungeon in Chaos | 146923 | [146923-dino-crisis-dungeon-in-chaos.json](./146923-dino-crisis-dungeon-in-chaos.json) |
 | Dino Dan: Dino Dig Site | 105897 | [105897-dino-dan-dino-dig-site.json](./105897-dino-dan-dino-dig-site.json) |
@@ -3255,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty House | 278158 | [278158-dirty-house.json](./278158-dirty-house.json) |
 | Dirty Kids | 100160 | [100160-dirty-kids.json](./100160-dirty-kids.json) |
 | Dirty Laundry | 406832 | [406832-dirty-laundry.json](./406832-dirty-laundry.json) |
+| Dirty Little Puzzle | 416067 | [416067-dirty-little-puzzle.json](./416067-dirty-little-puzzle.json) |
 | Dirty Little Secrets | 313891 | [313891-dirty-little-secrets.json](./313891-dirty-little-secrets.json) |
 | Dirty Love | 303481 | [303481-dirty-love.json](./303481-dirty-love.json) |
 | Dirty Rotten Bounders | 285023 | [285023-dirty-rotten-bounders.json](./285023-dirty-rotten-bounders.json) |
@@ -5430,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamworks' Shark Tale | 4148 | [4148-dreamworks-shark-tale.json](./4148-dreamworks-shark-tale.json) |
 | Dreamworks' Universe of Legends | 82114 | [82114-dreamworks-universe-of-legends.json](./82114-dreamworks-universe-of-legends.json) |
 | DreamWorld | 145026 | [145026-dreamworld.json](./145026-dreamworld.json) |
+| Dreamy Beauties: Heart-Pounding Illustration Puzzle | 416066 | [416066-dreamy-beauties-heart-pounding-illustration-puzzle.json](./416066-dreamy-beauties-heart-pounding-illustration-puzzle.json) |
 | Dreamy Room | 337096 | [337096-dreamy-room.json](./337096-dreamy-room.json) |
 | Dredark | 152886 | [152886-dredark.json](./152886-dredark.json) |
 | Dredge | 164867 | [164867-dredge.json](./164867-dredge.json) |
