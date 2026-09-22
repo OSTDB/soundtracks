@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws: A Shelter 2 Game - Pitter Patter Edition | 154943 | [154943-paws-a-shelter-2-game-pitter-patter-edition.json](./154943-paws-a-shelter-2-game-pitter-patter-edition.json) |
 | Pawsitive | 298873 | [298873-pawsitive.json](./298873-pawsitive.json) |
 | Pawsome Resort | 374711 | [374711-pawsome-resort.json](./374711-pawsome-resort.json) |
+| Paww: Feline Fatale | 397899 | [397899-paww-feline-fatale.json](./397899-paww-feline-fatale.json) |
 | Pax | 274201 | [274201-pax.json](./274201-pax.json) |
 | Pax Corpus | 44845 | [44845-pax-corpus.json](./44845-pax-corpus.json) |
 | Pax Imperia | 95439 | [95439-pax-imperia.json](./95439-pax-imperia.json) |
@@ -5675,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puffins: Let's Fish! | 84802 | [84802-puffins-lets-fish.json](./84802-puffins-lets-fish.json) |
 | Puffins: Let's Race! | 80215 | [80215-puffins-lets-race.json](./80215-puffins-lets-race.json) |
 | Puffins: Let's Roll | 66695 | [66695-puffins-lets-roll.json](./66695-puffins-lets-roll.json) |
+| Pufflings: Journey Through a Fantasy World | 397921 | [397921-pufflings-journey-through-a-fantasy-world.json](./397921-pufflings-journey-through-a-fantasy-world.json) |
 | Puffmin Quest | 313354 | [313354-puffmin-quest.json](./313354-puffmin-quest.json) |
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
 | Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
