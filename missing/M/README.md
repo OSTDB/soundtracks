@@ -2672,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megafist | 332400 | [332400-megafist.json](./332400-megafist.json) |
 | Megafortress | 71481 | [71481-megafortress.json](./71481-megafortress.json) |
 | Megafortress Collection | 244870 | [244870-megafortress-collection.json](./244870-megafortress-collection.json) |
+| Megako Punch! | 407597 | [407597-megako-punch.json](./407597-megako-punch.json) |
 | Megalit | 19558 | [19558-megalit.json](./19558-megalit.json) |
 | Megalith | 143049 | [143049-megalith.json](./143049-megalith.json) |
 | Megalo Malady | 395711 | [395711-megalo-malady.json](./395711-megalo-malady.json) |
@@ -4201,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Master 2 | 67650 | [67650-mini-golf-master-2.json](./67650-mini-golf-master-2.json) |
 | Mini Golf MatchUp | 99578 | [99578-mini-golf-matchup.json](./99578-mini-golf-matchup.json) |
 | Mini Golf Resort DS | 26588 | [26588-mini-golf-resort-ds.json](./26588-mini-golf-resort-ds.json) |
+| Mini Golf Simulator | 407552 | [407552-mini-golf-simulator.json](./407552-mini-golf-simulator.json) |
 | Mini Golf Star Retro Golf Game | 104695 | [104695-mini-golf-star-retro-golf-game.json](./104695-mini-golf-star-retro-golf-game.json) |
 | Mini Golf Worlds VR | 186810 | [186810-mini-golf-worlds-vr.json](./186810-mini-golf-worlds-vr.json) |
 | Mini Guns | 55846 | [55846-mini-guns.json](./55846-mini-guns.json) |
@@ -5564,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonPong: Tales of Epic Lunacy | 213376 | [213376-moonpong-tales-of-epic-lunacy.json](./213376-moonpong-tales-of-epic-lunacy.json) |
 | Moonray | 133362 | [133362-moonray.json](./133362-moonray.json) |
 | Moonray: Battle Lands | 368045 | [368045-moonray-battle-lands.json](./368045-moonray-battle-lands.json) |
+| Moonrise | 407543 | [407543-moonrise.json](./407543-moonrise.json) |
 | Moonrise | 9873 | [9873-moonrise.json](./9873-moonrise.json) |
 | MoonRun | 148888 | [148888-moonrun.json](./148888-moonrun.json) |
 | Moons of True Magic | 263204 | [263204-moons-of-true-magic.json](./263204-moons-of-true-magic.json) |
