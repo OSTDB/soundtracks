@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Pumpkin Brawl | 317447 | [317447-halloween-pumpkin-brawl.json](./317447-halloween-pumpkin-brawl.json) |
 | Halloween Pumpkin Story | 74380 | [74380-halloween-pumpkin-story.json](./74380-halloween-pumpkin-story.json) |
 | Halloween Secrets: The Blood Vow - Collector's Edition | 362829 | [362829-halloween-secrets-the-blood-vow-collectors-edition.json](./362829-halloween-secrets-the-blood-vow-collectors-edition.json) |
+| Halloween Sewers | 393136 | [393136-halloween-sewers.json](./393136-halloween-sewers.json) |
 | Halloween Sex Party | 175794 | [175794-halloween-sex-party.json](./175794-halloween-sex-party.json) |
 | Halloween Shooter | 222395 | [222395-halloween-shooter.json](./222395-halloween-shooter.json) |
 | Halloween Sinister Trivia | 274488 | [274488-halloween-sinister-trivia.json](./274488-halloween-sinister-trivia.json) |
@@ -1084,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Shot | 32472 | [32472-head-shot.json](./32472-head-shot.json) |
 | Head Soccer | 260094 | [260094-head-soccer.json](./260094-head-soccer.json) |
 | Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
+| Head's Adventures: Chibichibi | 393116 | [393116-heads-adventures-chibichibi.json](./393116-heads-adventures-chibichibi.json) |
 | Headache | 182372 | [182372-headache.json](./182372-headache.json) |
 | Headbanger's Heaven: A Rock & Roll Adventure | 169893 | [169893-headbangers-heaven-a-rock-and-roll-adventure.json](./169893-headbangers-heaven-a-rock-and-roll-adventure.json) |
 | Headbangers Heaven | 250637 | [250637-headbangers-heaven.json](./250637-headbangers-heaven.json) |
