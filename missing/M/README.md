@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madagascar 3: Europe's Most Wanted | 243270 | [243270-madagascar-3-europes-most-wanted.json](./243270-madagascar-3-europes-most-wanted.json) |
 | Madagascar Kartz | 3767 | [3767-madagascar-kartz.json](./3767-madagascar-kartz.json) |
 | Madagascar Mini-Mayhem | 137609 | [137609-madagascar-mini-mayhem.json](./137609-madagascar-mini-mayhem.json) |
+| Madagascar: Escape 2 Africa | 116787 | [116787-madagascar-escape-2-africa.json](./116787-madagascar-escape-2-africa.json) |
 | Madagascar: Join the Circus | 25186 | [25186-madagascar-join-the-circus.json](./25186-madagascar-join-the-circus.json) |
 | Madagascar: Operation Penguin | 3766 | [3766-madagascar-operation-penguin.json](./3766-madagascar-operation-penguin.json) |
 | Madame Ching's Dungeon of Ecstasy | 133802 | [133802-madame-chings-dungeon-of-ecstasy.json](./133802-madame-chings-dungeon-of-ecstasy.json) |
@@ -4271,6 +4272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Circus | 110365 | [110365-miracle-circus.json](./110365-miracle-circus.json) |
 | Miracle Heroes: Temporal Bounty Hunter | 338705 | [338705-miracle-heroes-temporal-bounty-hunter.json](./338705-miracle-heroes-temporal-bounty-hunter.json) |
 | Miracle Jim no Bassing Beat | 362809 | [362809-miracle-jim-no-bassing-beat.json](./362809-miracle-jim-no-bassing-beat.json) |
+| Miracle Merchant | 77734 | [77734-miracle-merchant.json](./77734-miracle-merchant.json) |
 | Miracle Party Plus: Fushigi no Gensoukyou 2 | 206947 | [206947-miracle-party-plus-fushigi-no-gensoukyou-2.json](./206947-miracle-party-plus-fushigi-no-gensoukyou-2.json) |
 | Miracle Party: Fushigi no Gensoukyou 2 | 206936 | [206936-miracle-party-fushigi-no-gensoukyou-2.json](./206936-miracle-party-fushigi-no-gensoukyou-2.json) |
 | Miracle Ropit's Adventure in 2100 | 64685 | [64685-miracle-ropits-adventure-in-2100.json](./64685-miracle-ropits-adventure-in-2100.json) |
@@ -5168,6 +5170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Showdown: Season Pass | 316275 | [316275-monster-jam-showdown-season-pass.json](./316275-monster-jam-showdown-season-pass.json) |
 | Monster Jam Showdown: The Odd Couple | 308822 | [308822-monster-jam-showdown-the-odd-couple.json](./308822-monster-jam-showdown-the-odd-couple.json) |
 | Monster Jam Showdown: Yeti | 332228 | [332228-monster-jam-showdown-yeti.json](./332228-monster-jam-showdown-yeti.json) |
+| Monster Jam Steel Titans | 115477 | [115477-monster-jam-steel-titans.json](./115477-monster-jam-steel-titans.json) |
 | Monster Jam Steel Titans 2: Inverse Truck Pack | 223548 | [223548-monster-jam-steel-titans-2-inverse-truck-pack.json](./223548-monster-jam-steel-titans-2-inverse-truck-pack.json) |
 | Monster Kingdom: Jewel Summoner | 42890 | [42890-monster-kingdom-jewel-summoner.json](./42890-monster-kingdom-jewel-summoner.json) |
 | Monster Knockout | 224755 | [224755-monster-knockout.json](./224755-monster-knockout.json) |
