@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Taluluto-kun 2: Raiba Zone Panic!! | 125846 | [125846-magical-taluluto-kun-2-raiba-zone-panic.json](./125846-magical-taluluto-kun-2-raiba-zone-panic.json) |
 | Magical Tetris Challenge | 205583 | [205583-magical-tetris-challenge.json](./205583-magical-tetris-challenge.json) |
 | Magical Town | 244877 | [244877-magical-town.json](./244877-magical-town.json) |
+| Magical Twirler Angel Rabbie | 408264 | [408264-magical-twirler-angel-rabbie.json](./408264-magical-twirler-angel-rabbie.json) |
 | Magical Valkyrie Lyristia | 153949 | [153949-magical-valkyrie-lyristia.json](./153949-magical-valkyrie-lyristia.json) |
 | Magical Zunou Power!! DS | 70411 | [70411-magical-zunou-power-ds.json](./70411-magical-zunou-power-ds.json) |
 | Magicalic Sky High: Soratobu Houki ni Omoi wo Nosete | 194554 | [194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json](./194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json) |
@@ -591,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagicShop2 | 253903 | [253903-magicshop2.json](./253903-magicshop2.json) |
 | Magiduck | 252868 | [252868-magiduck.json](./252868-magiduck.json) |
 | Magiduel | 177019 | [177019-magiduel.json](./177019-magiduel.json) |
+| Magika Bounce | 408295 | [408295-magika-bounce.json](./408295-magika-bounce.json) |
 | Magin: The Rat Project Stories | 127744 | [127744-magin-the-rat-project-stories.json](./127744-magin-the-rat-project-stories.json) |
 | Magin: The Rat Project Stories - Essence Edition | 396920 | [396920-magin-the-rat-project-stories-essence-edition.json](./396920-magin-the-rat-project-stories-essence-edition.json) |
 | Magin: The Rat Project Stories - Supporter Pack | 396912 | [396912-magin-the-rat-project-stories-supporter-pack.json](./396912-magin-the-rat-project-stories-supporter-pack.json) |
@@ -4436,6 +4438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrorscape: Outdoor Starter Pack | 301848 | [301848-mirrorscape-outdoor-starter-pack.json](./301848-mirrorscape-outdoor-starter-pack.json) |
 | Mirth Island | 249854 | [249854-mirth-island.json](./249854-mirth-island.json) |
 | Mirum Orbis | 262482 | [262482-mirum-orbis.json](./262482-mirum-orbis.json) |
+| Miruri: Mahou Fuku Bouken | 408248 | [408248-miruri-mahou-fuku-bouken.json](./408248-miruri-mahou-fuku-bouken.json) |
 | Misa | 337725 | [337725-misa.json](./337725-misa.json) |
 | Misa! | 88801 | [88801-misa.json](./88801-misa.json) |
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
@@ -6251,6 +6254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man: Quest for the Golden Maze | 71475 | [71475-ms-pac-man-quest-for-the-golden-maze.json](./71475-ms-pac-man-quest-for-the-golden-maze.json) |
 | Ms. Pac-Man: Speedup | 308393 | [308393-ms-pac-man-speedup.json](./308393-ms-pac-man-speedup.json) |
 | Ms. Rufiia's Struggle for Repayment: To Be a Lewd Arcdaemon | 82882 | [82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json](./82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json) |
+| Ms. Spinderella | 408299 | [408299-ms-spinderella.json](./408299-ms-spinderella.json) |
 | Ms. Squeaker's Home for the Sick | 109402 | [109402-ms-squeakers-home-for-the-sick.json](./109402-ms-squeakers-home-for-the-sick.json) |
 | MSCR | 310930 | [310930-mscr.json](./310930-mscr.json) |
 | MSI Electric City | 32177 | [32177-msi-electric-city.json](./32177-msi-electric-city.json) |
@@ -6920,6 +6924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Neighbor is a Yandere?! | 143062 | [143062-my-neighbor-is-a-yandere.json](./143062-my-neighbor-is-a-yandere.json) |
 | My Neighbor's Lonely Wife 2 | 379889 | [379889-my-neighbors-lonely-wife-2.json](./379889-my-neighbors-lonely-wife-2.json) |
 | My Nemesis and Hero | 186849 | [186849-my-nemesis-and-hero.json](./186849-my-nemesis-and-hero.json) |
+| My New Tenant | 408305 | [408305-my-new-tenant.json](./408305-my-new-tenant.json) |
 | My Newborn Santa: Grow A Christmas Baby | 256348 | [256348-my-newborn-santa-grow-a-christmas-baby.json](./256348-my-newborn-santa-grow-a-christmas-baby.json) |
 | My Newspaper | 217499 | [217499-my-newspaper.json](./217499-my-newspaper.json) |
 | My Next Life as a Bird | 274756 | [274756-my-next-life-as-a-bird.json](./274756-my-next-life-as-a-bird.json) |
