@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements | 336927 | [336927-elements.json](./336927-elements.json) |
 | Elements and Build | 321564 | [321564-elements-and-build.json](./321564-elements-and-build.json) |
 | Elements For Money | 287243 | [287243-elements-for-money.json](./287243-elements-for-money.json) |
+| Elements II: Hearts of Light | 33352 | [33352-elements-ii-hearts-of-light.json](./33352-elements-ii-hearts-of-light.json) |
 | Elements: Epic Heroes | 34257 | [34257-elements-epic-heroes.json](./34257-elements-epic-heroes.json) |
 | Elementum | 285025 | [285025-elementum.json](./285025-elementum.json) |
 | Elementyle | 309513 | [309513-elementyle.json](./309513-elementyle.json) |
@@ -1424,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy: Zero 2 | 188671 | [188671-entropy-zero-2.json](./188671-entropy-zero-2.json) |
 | Entwined Challenge | 174226 | [174226-entwined-challenge.json](./174226-entwined-challenge.json) |
 | EnvironmentZ | 374724 | [374724-environmentz.json](./374724-environmentz.json) |
+| Envoy 2 | 33367 | [33367-envoy-2.json](./33367-envoy-2.json) |
 | Envoy of Nezphere | 105309 | [105309-envoy-of-nezphere.json](./105309-envoy-of-nezphere.json) |
 | Envy the Dead | 33227 | [33227-envy-the-dead.json](./33227-envy-the-dead.json) |
 | Enworden | 211713 | [211713-enworden.json](./211713-enworden.json) |
