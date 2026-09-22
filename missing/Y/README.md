@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yankai's Peak. | 43515 | [43515-yankais-peak.json](./43515-yankais-peak.json) |
 | Yanone: Letter Splatter | 75781 | [75781-yanone-letter-splatter.json](./75781-yanone-letter-splatter.json) |
 | Yap Wizards Tower Defence | 367502 | [367502-yap-wizards-tower-defence.json](./367502-yap-wizards-tower-defence.json) |
+| Yappy Bird | 412508 | [412508-yappy-bird.json](./412508-yappy-bird.json) |
 | Yard of the Dead | 268765 | [268765-yard-of-the-dead.json](./268765-yard-of-the-dead.json) |
 | Yard Resistance | 322162 | [322162-yard-resistance.json](./322162-yard-resistance.json) |
 | Yareba de Kiru! The Micro Step: Gijutsu de Oboeru Eitango | 124151 | [124151-yareba-de-kiru-the-micro-step-gijutsu-de-oboeru-eitango.json](./124151-yareba-de-kiru-the-micro-step-gijutsu-de-oboeru-eitango.json) |
