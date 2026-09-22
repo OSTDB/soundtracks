@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcraft I: Remastered | 322108 | [322108-warcraft-i-remastered.json](./322108-warcraft-i-remastered.json) |
 | Warcraft II: Beyond the Dark Portal | 131 | [131-warcraft-ii-beyond-the-dark-portal.json](./131-warcraft-ii-beyond-the-dark-portal.json) |
 | Warcraft III: Reforged - Spoils of War Edition | 111652 | [111652-warcraft-iii-reforged-spoils-of-war-edition.json](./111652-warcraft-iii-reforged-spoils-of-war-edition.json) |
+| Warcube | 31973 | [31973-warcube.json](./31973-warcube.json) |
 | Ward 13 | 399722 | [399722-ward-13.json](./399722-ward-13.json) |
 | Warden | 377157 | [377157-warden.json](./377157-warden.json) |
 | Warden of the Coast | 243124 | [243124-warden-of-the-coast.json](./243124-warden-of-the-coast.json) |
@@ -1123,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Well Dweller | 360075 | [360075-well-dweller.json](./360075-well-dweller.json) |
 | Well to Hell | 319214 | [319214-well-to-hell.json](./319214-well-to-hell.json) |
 | Well, Fuck You Too | 352755 | [352755-well-fuck-you-too.json](./352755-well-fuck-you-too.json) |
+| Wells | 31298 | [31298-wells.json](./31298-wells.json) |
 | Wellspring: Altar of Roots | 76984 | [76984-wellspring-altar-of-roots.json](./76984-wellspring-altar-of-roots.json) |
 | Welltris | 12872 | [12872-welltris.json](./12872-welltris.json) |
 | Welly Wang VR | 267680 | [267680-welly-wang-vr.json](./267680-welly-wang-vr.json) |
@@ -2338,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Women's Quiz | 152880 | [152880-womens-quiz.json](./152880-womens-quiz.json) |
 | Women's School Simulator 2020 | 299898 | [299898-womens-school-simulator-2020.json](./299898-womens-school-simulator-2020.json) |
 | Women's School Simulator 2022 | 299900 | [299900-womens-school-simulator-2022.json](./299900-womens-school-simulator-2022.json) |
+| Won't You Be My Laser? | 31899 | [31899-wont-you-be-my-laser.json](./31899-wont-you-be-my-laser.json) |
 | Wonder Blade | 107015 | [107015-wonder-blade.json](./107015-wonder-blade.json) |
 | Wonder Boy | 212864 | [212864-wonder-boy.json](./212864-wonder-boy.json) |
 | Wonder Boy | 212865 | [212865-wonder-boy.json](./212865-wonder-boy.json) |
