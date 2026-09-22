@@ -3260,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Dawn | 197355 | [197355-shot-dawn.json](./197355-shot-dawn.json) |
 | Shot One | 130767 | [130767-shot-one.json](./130767-shot-one.json) |
 | Shot Online | 20574 | [20574-shot-online.json](./20574-shot-online.json) |
+| Shot Online Golf: World Championship | 70858 | [70858-shot-online-golf-world-championship.json](./70858-shot-online-golf-world-championship.json) |
 | Shot Online: Golf Battle | 233119 | [233119-shot-online-golf-battle.json](./233119-shot-online-golf-battle.json) |
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
 | Shotdogs | 210096 | [210096-shotdogs.json](./210096-shotdogs.json) |
@@ -11436,6 +11437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slam Dunk Touchdown | 27664 | [27664-super-slam-dunk-touchdown.json](./27664-super-slam-dunk-touchdown.json) |
 | Super Slap Shot | 94561 | [94561-super-slap-shot.json](./94561-super-slap-shot.json) |
 | Super Slide 64 | 135179 | [135179-super-slide-64.json](./135179-super-slide-64.json) |
+| Super Slime Arena | 69486 | [69486-super-slime-arena.json](./69486-super-slime-arena.json) |
 | Super Slime Blitz: Gumball | 102603 | [102603-super-slime-blitz-gumball.json](./102603-super-slime-blitz-gumball.json) |
 | Super Slime Boy | 335956 | [335956-super-slime-boy.json](./335956-super-slime-boy.json) |
 | Super Slime Fun | 106355 | [106355-super-slime-fun.json](./106355-super-slime-fun.json) |
