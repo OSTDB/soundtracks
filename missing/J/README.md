@@ -1067,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump on the Ball | 329380 | [329380-jump-on-the-ball.json](./329380-jump-on-the-ball.json) |
 | Jump or Roll Game | 246987 | [246987-jump-or-roll-game.json](./246987-jump-or-roll-game.json) |
 | Jump Out | 280310 | [280310-jump-out.json](./280310-jump-out.json) |
+| Jump Protocol | 411816 | [411816-jump-protocol.json](./411816-jump-protocol.json) |
 | Jump Puzzle | 244369 | [244369-jump-puzzle.json](./244369-jump-puzzle.json) |
 | Jump Shot | 46858 | [46858-jump-shot.json](./46858-jump-shot.json) |
 | Jump Sky-High Collection | 334097 | [334097-jump-sky-high-collection.json](./334097-jump-sky-high-collection.json) |
@@ -1272,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Alive | 90084 | [90084-jurassic-world-alive.json](./90084-jurassic-world-alive.json) |
 | Jurassic World Camp Cretaceous: Hidden Adventure | 256846 | [256846-jurassic-world-camp-cretaceous-hidden-adventure.json](./256846-jurassic-world-camp-cretaceous-hidden-adventure.json) |
 | Jurassic World Evolution 2 | 152064 | [152064-jurassic-world-evolution-2.json](./152064-jurassic-world-evolution-2.json) |
+| Jurassic World Evolution 2: Complete Edition | 411823 | [411823-jurassic-world-evolution-2-complete-edition.json](./411823-jurassic-world-evolution-2-complete-edition.json) |
 | Jurassic World Evolution 2: Cretaceous Predator Pack | 277848 | [277848-jurassic-world-evolution-2-cretaceous-predator-pack.json](./277848-jurassic-world-evolution-2-cretaceous-predator-pack.json) |
 | Jurassic World Evolution 2: Dominion Biosyn Expansion | 203760 | [203760-jurassic-world-evolution-2-dominion-biosyn-expansion.json](./203760-jurassic-world-evolution-2-dominion-biosyn-expansion.json) |
 | Jurassic World Evolution 2: Park Managers' Collection Pack | 308278 | [308278-jurassic-world-evolution-2-park-managers-collection-pack.json](./308278-jurassic-world-evolution-2-park-managers-collection-pack.json) |
