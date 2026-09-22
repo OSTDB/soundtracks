@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomawari: Night Alone / htol#NiQ: The Firefly Diary - Limited Edition | 297245 | [297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json](./297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json) |
 | Yomawari: The Long Night Collection | 103052 | [103052-yomawari-the-long-night-collection.json](./103052-yomawari-the-long-night-collection.json) |
 | Yomesou de Yomenai Kanji DS | 287632 | [287632-yomesou-de-yomenai-kanji-ds.json](./287632-yomesou-de-yomenai-kanji-ds.json) |
+| Yomi | 17189 | [17189-yomi.json](./17189-yomi.json) |
 | Yomi 2: Renegades | 289877 | [289877-yomi-2-renegades.json](./289877-yomi-2-renegades.json) |
 | Yomi: Expansion Characters | 169329 | [169329-yomi-expansion-characters.json](./169329-yomi-expansion-characters.json) |
 | Yon-nin Mahjong | 55857 | [55857-yon-nin-mahjong.json](./55857-yon-nin-mahjong.json) |
