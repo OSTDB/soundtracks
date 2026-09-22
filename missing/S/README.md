@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Grand Edition | 315856 | [315856-s-n-i-p-e-r-hunter-scope-grand-edition.json](./315856-s-n-i-p-e-r-hunter-scope-grand-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Mega Edition | 317241 | [317241-s-n-i-p-e-r-hunter-scope-mega-edition.json](./317241-s-n-i-p-e-r-hunter-scope-mega-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Prime Edition | 274490 | [274490-s-n-i-p-e-r-hunter-scope-prime-edition.json](./274490-s-n-i-p-e-r-hunter-scope-prime-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Pro Edition | 399827 | [399827-s-n-i-p-e-r-hunter-scope-pro-edition.json](./399827-s-n-i-p-e-r-hunter-scope-pro-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Silver Edition | 250394 | [250394-s-n-i-p-e-r-hunter-scope-silver-edition.json](./250394-s-n-i-p-e-r-hunter-scope-silver-edition.json) |
 | S.O.L: Search of Light | 154380 | [154380-s-o-l-search-of-light.json](./154380-s-o-l-search-of-light.json) |
 | S.O.N | 102781 | [102781-s-o-n.json](./102781-s-o-n.json) |
@@ -584,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandbox Planet | 256534 | [256534-sandbox-planet.json](./256534-sandbox-planet.json) |
 | Sandcastle Builder | 62457 | [62457-sandcastle-builder.json](./62457-sandcastle-builder.json) |
 | Sandcastles | 134693 | [134693-sandcastles.json](./134693-sandcastles.json) |
+| SandEEE | 399845 | [399845-sandeee.json](./399845-sandeee.json) |
 | Sandhill Architectures | 106407 | [106407-sandhill-architectures.json](./106407-sandhill-architectures.json) |
 | Sandmade | 97924 | [97924-sandmade.json](./97924-sandmade.json) |
 | Sandman | 216305 | [216305-sandman.json](./216305-sandman.json) |
@@ -2525,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shafted | 358931 | [358931-shafted.json](./358931-shafted.json) |
 | Shaiya | 85841 | [85841-shaiya.json](./85841-shaiya.json) |
 | Shake | 383508 | [383508-shake.json](./383508-shake.json) |
+| Shake | 399840 | [399840-shake.json](./399840-shake.json) |
 | Shake Kids | 108959 | [108959-shake-kids.json](./108959-shake-kids.json) |
 | Shake the Baby! | 337068 | [337068-shake-the-baby.json](./337068-shake-the-baby.json) |
 | Shakes and Fidget Remastered | 112346 | [112346-shakes-and-fidget-remastered.json](./112346-shakes-and-fidget-remastered.json) |
@@ -5349,6 +5352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snooker 19 | 111153 | [111153-snooker-19.json](./111153-snooker-19.json) |
 | Snooker Fever | 328487 | [328487-snooker-fever.json](./328487-snooker-fever.json) |
 | Snooker Fever: Discovery Edition | 396930 | [396930-snooker-fever-discovery-edition.json](./396930-snooker-fever-discovery-edition.json) |
+| Snooker Fever: Upgrade Edition | 399828 | [399828-snooker-fever-upgrade-edition.json](./399828-snooker-fever-upgrade-edition.json) |
 | Snooker Live Pro | 38948 | [38948-snooker-live-pro.json](./38948-snooker-live-pro.json) |
 | Snooker Nation Championship | 33123 | [33123-snooker-nation-championship.json](./33123-snooker-nation-championship.json) |
 | Snooker Stars | 121613 | [121613-snooker-stars.json](./121613-snooker-stars.json) |
@@ -11511,6 +11515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Raft Boat Classic | 144142 | [144142-super-raft-boat-classic.json](./144142-super-raft-boat-classic.json) |
 | Super Ranger | 377710 | [377710-super-ranger.json](./377710-super-ranger.json) |
 | Super Rare Mixtape: Horror Edition | 272829 | [272829-super-rare-mixtape-horror-edition.json](./272829-super-rare-mixtape-horror-edition.json) |
+| Super Real AI | 399844 | [399844-super-real-ai.json](./399844-super-real-ai.json) |
 | Super Real Hanafuda: Koi Koi Shimasho | 130299 | [130299-super-real-hanafuda-koi-koi-shimasho.json](./130299-super-real-hanafuda-koi-koi-shimasho.json) |
 | Super Real Mahjong Love 2~7! | 127798 | [127798-super-real-mahjong-love-2-7.json](./127798-super-real-mahjong-love-2-7.json) |
 | Super Real Mahjong Love 2~7! Special Edition | 342064 | [342064-super-real-mahjong-love-2-7-special-edition.json](./342064-super-real-mahjong-love-2-7-special-edition.json) |
