@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Little Pigs & Bad Wolf | 124267 | [124267-3-little-pigs-and-bad-wolf.json](./124267-3-little-pigs-and-bad-wolf.json) |
 | 3 Missing, 4am | 128589 | [128589-3-missing-4am.json](./128589-3-missing-4am.json) |
 | 3 Ninjas Kick Back | 5337 | [5337-3-ninjas-kick-back.json](./5337-3-ninjas-kick-back.json) |
+| 3 Ninjas Kick Back / Hook | 409773 | [409773-3-ninjas-kick-back-hook.json](./409773-3-ninjas-kick-back-hook.json) |
 | 3 out of 10: Ep 1 - Welcome to Shovelworks | 136509 | [136509-3-out-of-10-ep-1-welcome-to-shovelworks.json](./136509-3-out-of-10-ep-1-welcome-to-shovelworks.json) |
 | 3 Pack | 86016 | [86016-3-pack.json](./86016-3-pack.json) |
 | 3 Seasons | 221208 | [221208-3-seasons.json](./221208-3-seasons.json) |
