@@ -2566,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chaput's Baby | 217992 | [217992-the-chaputs-baby.json](./217992-the-chaputs-baby.json) |
 | The Charity Shop | 333942 | [333942-the-charity-shop.json](./333942-the-charity-shop.json) |
 | The Charm of Love | 157158 | [157158-the-charm-of-love.json](./157158-the-charm-of-love.json) |
+| The Charming Empire | 31976 | [31976-the-charming-empire.json](./31976-the-charming-empire.json) |
 | The Chase | 133821 | [133821-the-chase.json](./133821-the-chase.json) |
 | The Chase: Ultimate Edition | 138568 | [138568-the-chase-ultimate-edition.json](./138568-the-chase-ultimate-edition.json) |
 | The Chaste Full-Metal Maiden - Leiria | 124262 | [124262-the-chaste-full-metal-maiden-leiria.json](./124262-the-chaste-full-metal-maiden-leiria.json) |
@@ -2786,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crypts of Anak Shaba | 30188 | [30188-the-crypts-of-anak-shaba.json](./30188-the-crypts-of-anak-shaba.json) |
 | The Crystal Golem | 152273 | [152273-the-crystal-golem.json](./152273-the-crystal-golem.json) |
 | The Crystal Maze | 13247 | [13247-the-crystal-maze.json](./13247-the-crystal-maze.json) |
+| The Crystal Nebula | 31963 | [31963-the-crystal-nebula.json](./31963-the-crystal-nebula.json) |
 | The Crystal Rainforest | 151716 | [151716-the-crystal-rainforest.json](./151716-the-crystal-rainforest.json) |
 | The Crystal Skull | 69558 | [69558-the-crystal-skull.json](./69558-the-crystal-skull.json) |
 | The Cube Factory | 147365 | [147365-the-cube-factory.json](./147365-the-cube-factory.json) |
@@ -3575,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gladiator: Road of the Sword | 39853 | [39853-the-gladiator-road-of-the-sword.json](./39853-the-gladiator-road-of-the-sword.json) |
 | The Glass Staircase | 116968 | [116968-the-glass-staircase.json](./116968-the-glass-staircase.json) |
 | The Glassworks | 322353 | [322353-the-glassworks.json](./322353-the-glassworks.json) |
+| The Gleam: VR Escape the Room | 31310 | [31310-the-gleam-vr-escape-the-room.json](./31310-the-gleam-vr-escape-the-room.json) |
 | The Glitched Attraction | 221852 | [221852-the-glitched-attraction.json](./221852-the-glitched-attraction.json) |
 | The Goalkeeper | 70946 | [70946-the-goalkeeper.json](./70946-the-goalkeeper.json) |
 | The Goatman | 104034 | [104034-the-goatman.json](./104034-the-goatman.json) |
@@ -6081,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super Mario Bros. Super Show! 64 | 135268 | [135268-the-super-mario-bros-super-show-64.json](./135268-the-super-mario-bros-super-show-64.json) |
 | The Super Robot Bros | 313134 | [313134-the-super-robot-bros.json](./313134-the-super-robot-bros.json) |
 | The Super Spy | 46838 | [46838-the-super-spy.json](./46838-the-super-spy.json) |
+| The Superfluous | 31953 | [31953-the-superfluous.json](./31953-the-superfluous.json) |
 | The Superfluous Sand | 133398 | [133398-the-superfluous-sand.json](./133398-the-superfluous-sand.json) |
 | The Supper | 128289 | [128289-the-supper.json](./128289-the-supper.json) |
 | The Surfeit: Episode 1 | 170497 | [170497-the-surfeit-episode-1.json](./170497-the-surfeit-episode-1.json) |
@@ -10516,6 +10520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Island 2 | 257411 | [257411-treasure-island-2.json](./257411-treasure-island-2.json) |
 | Treasure Island Arcade | 131519 | [131519-treasure-island-arcade.json](./131519-treasure-island-arcade.json) |
 | Treasure Island: The Golden Bug - Extended Edition | 257475 | [257475-treasure-island-the-golden-bug-extended-edition.json](./257475-treasure-island-the-golden-bug-extended-edition.json) |
+| Treasure of a Blizzard | 31921 | [31921-treasure-of-a-blizzard.json](./31921-treasure-of-a-blizzard.json) |
 | Treasure of Barracuda | 165695 | [165695-treasure-of-barracuda.json](./165695-treasure-of-barracuda.json) |
 | Treasure of Big Totem | 315258 | [315258-treasure-of-big-totem.json](./315258-treasure-of-big-totem.json) |
 | Treasure of Big Totem 2 | 315259 | [315259-treasure-of-big-totem-2.json](./315259-treasure-of-big-totem-2.json) |
@@ -10579,6 +10584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
 | Tres | 319800 | [319800-tres.json](./319800-tres.json) |
 | Tresmir Sight | 298169 | [298169-tresmir-sight.json](./298169-tresmir-sight.json) |
+| Trespass: Episode 1 | 31879 | [31879-trespass-episode-1.json](./31879-trespass-episode-1.json) |
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
 | Tretis | 277980 | [277980-tretis.json](./277980-tretis.json) |
@@ -10725,6 +10731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trillionia | 106632 | [106632-trillionia.json](./106632-trillionia.json) |
 | Trilogic | 91978 | [91978-trilogic.json](./91978-trilogic.json) |
 | Trilogy of the Moon | 339795 | [339795-trilogy-of-the-moon.json](./339795-trilogy-of-the-moon.json) |
+| Trimmer Tycoon | 31967 | [31967-trimmer-tycoon.json](./31967-trimmer-tycoon.json) |
 | Trimming Sails | 244336 | [244336-trimming-sails.json](./244336-trimming-sails.json) |
 | Trimorta | 184086 | [184086-trimorta.json](./184086-trimorta.json) |
 | Trimurti Online | 265688 | [265688-trimurti-online.json](./265688-trimurti-online.json) |
@@ -10777,6 +10784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Throwing Sports | 85459 | [85459-triple-throwing-sports.json](./85459-triple-throwing-sports.json) |
 | Triple Tiles | 178548 | [178548-triple-tiles.json](./178548-triple-tiles.json) |
 | Triple Tournament | 313098 | [313098-triple-tournament.json](./313098-triple-tournament.json) |
+| Triple X Tycoon | 31892 | [31892-triple-x-tycoon.json](./31892-triple-x-tycoon.json) |
 | Triple Yatzy for iPad | 101494 | [101494-triple-yatzy-for-ipad.json](./101494-triple-yatzy-for-ipad.json) |
 | Triple Zoo | 232185 | [232185-triple-zoo.json](./232185-triple-zoo.json) |
 | Trippy Jump | 101329 | [101329-trippy-jump.json](./101329-trippy-jump.json) |
@@ -11441,6 +11449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisty Hollow | 344956 | [344956-twisty-hollow.json](./344956-twisty-hollow.json) |
 | Twisty Planets Space Puzzle | 83577 | [83577-twisty-planets-space-puzzle.json](./83577-twisty-planets-space-puzzle.json) |
 | Twisty Road! | 87660 | [87660-twisty-road.json](./87660-twisty-road.json) |
+| Twisty's Asylum Escapades | 31940 | [31940-twistys-asylum-escapades.json](./31940-twistys-asylum-escapades.json) |
 | Twitchbox | 96052 | [96052-twitchbox.json](./96052-twitchbox.json) |
 | Twitter Island | 185641 | [185641-twitter-island.json](./185641-twitter-island.json) |
 | Twitter Plays Snake | 339133 | [339133-twitter-plays-snake.json](./339133-twitter-plays-snake.json) |
