@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adarin Farm | 187408 | [187408-adarin-farm.json](./187408-adarin-farm.json) |
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
 | Adarna: Alamat ni Maria Blanca | 120168 | [120168-adarna-alamat-ni-maria-blanca.json](./120168-adarna-alamat-ni-maria-blanca.json) |
+| Add Flyers To Dreams | 400472 | [400472-add-flyers-to-dreams.json](./400472-add-flyers-to-dreams.json) |
 | AddForce | 61881 | [61881-addforce.json](./61881-addforce.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
 | Addition | 76606 | [76606-addition.json](./76606-addition.json) |
@@ -1062,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against Twilight | 349927 | [349927-against-twilight.json](./349927-against-twilight.json) |
 | Agame | 269042 | [269042-agame.json](./269042-agame.json) |
 | Agarest Senki Mariage: Limited Edition | 64119 | [64119-agarest-senki-mariage-limited-edition.json](./64119-agarest-senki-mariage-limited-edition.json) |
+| Agartha Platform 81!: City of Angels | 400499 | [400499-agartha-platform-81-city-of-angels.json](./400499-agartha-platform-81-city-of-angels.json) |
 | Agassi Tennis Generation | 248735 | [248735-agassi-tennis-generation.json](./248735-agassi-tennis-generation.json) |
 | Agatha Christie: 4:50 from Paddington | 135245 | [135245-agatha-christie-4-50-from-paddington.json](./135245-agatha-christie-4-50-from-paddington.json) |
 | Agatha Christie: Death on the Nile | 21134 | [21134-agatha-christie-death-on-the-nile.json](./21134-agatha-christie-death-on-the-nile.json) |
@@ -2136,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Response | 345614 | [345614-alpha-response.json](./345614-alpha-response.json) |
 | Alpha Roid | 47558 | [47558-alpha-roid.json](./47558-alpha-roid.json) |
 | Alpha Sea | 147448 | [147448-alpha-sea.json](./147448-alpha-sea.json) |
+| Alpha Spectrum | 400493 | [400493-alpha-spectrum.json](./400493-alpha-spectrum.json) |
 | Alpha Squadron | 358921 | [358921-alpha-squadron.json](./358921-alpha-squadron.json) |
 | Alpha Squirrel | 183517 | [183517-alpha-squirrel.json](./183517-alpha-squirrel.json) |
 | Alpha Terminus | 226216 | [226216-alpha-terminus.json](./226216-alpha-terminus.json) |
@@ -5700,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AX-8: Galaxy Mission | 91460 | [91460-ax-8-galaxy-mission.json](./91460-ax-8-galaxy-mission.json) |
 | Axan Ships | 120152 | [120152-axan-ships.json](./120152-axan-ships.json) |
 | Axan Ships: Low Poly | 118348 | [118348-axan-ships-low-poly.json](./118348-axan-ships-low-poly.json) |
+| Axe And Claw | 400457 | [400457-axe-and-claw.json](./400457-axe-and-claw.json) |
 | Axe Champ! | 107663 | [107663-axe-champ.json](./107663-axe-champ.json) |
 | Axe Girl | 149556 | [149556-axe-girl.json](./149556-axe-girl.json) |
 | Axe of Janissary | 233619 | [233619-axe-of-janissary.json](./233619-axe-of-janissary.json) |
