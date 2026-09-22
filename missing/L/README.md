@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landelver | 285970 | [285970-landelver.json](./285970-landelver.json) |
 | Lander 8009 VR | 37039 | [37039-lander-8009-vr.json](./37039-lander-8009-vr.json) |
 | Landfall | 56511 | [56511-landfall.json](./56511-landfall.json) |
+| Landinar: Into the Void | 99162 | [99162-landinar-into-the-void.json](./99162-landinar-into-the-void.json) |
 | Landing Hero: Haneda x 787 | 199108 | [199108-landing-hero-haneda-x-787.json](./199108-landing-hero-haneda-x-787.json) |
 | Landing High Japan | 129142 | [129142-landing-high-japan.json](./129142-landing-high-japan.json) |
 | Landing Party | 74089 | [74089-landing-party.json](./74089-landing-party.json) |
