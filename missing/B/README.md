@@ -1137,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BataGacha! | 121031 | [121031-batagacha.json](./121031-batagacha.json) |
 | Batalla de Arquitectos | 353307 | [353307-batalla-de-arquitectos.json](./353307-batalla-de-arquitectos.json) |
 | Batch 17 | 75187 | [75187-batch-17.json](./75187-batch-17.json) |
+| Baten Kaitos I & II HD Remaster | 236711 | [236711-baten-kaitos-i-and-ii-hd-remaster.json](./236711-baten-kaitos-i-and-ii-hd-remaster.json) |
 | Baten Kaitos Origins | 3796 | [3796-baten-kaitos-origins.json](./3796-baten-kaitos-origins.json) |
 | Bathos | 92842 | [92842-bathos.json](./92842-bathos.json) |
 | Bathroom Chef | 101627 | [101627-bathroom-chef.json](./101627-bathroom-chef.json) |
@@ -2491,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Game Trophy Hunter | 94208 | [94208-big-game-trophy-hunter.json](./94208-big-game-trophy-hunter.json) |
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
 | Big Helmet Heroes | 303205 | [303205-big-helmet-heroes.json](./303205-big-helmet-heroes.json) |
+| Big Hops | 217390 | [217390-big-hops.json](./217390-big-hops.json) |
 | Big Hunt | 329021 | [329021-big-hunt.json](./329021-big-hunt.json) |
 | Big Hunt: Paint Town Black Red | 107009 | [107009-big-hunt-paint-town-black-red.json](./107009-big-hunt-paint-town-black-red.json) |
 | Big Ice Tower Tiny Square | 212887 | [212887-big-ice-tower-tiny-square.json](./212887-big-ice-tower-tiny-square.json) |
@@ -3730,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodFlood | 265407 | [265407-bloodflood.json](./265407-bloodflood.json) |
 | Bloodfront | 391730 | [391730-bloodfront.json](./391730-bloodfront.json) |
 | Bloodgeon | 125444 | [125444-bloodgeon.json](./125444-bloodgeon.json) |
+| Bloodhound | 195382 | [195382-bloodhound.json](./195382-bloodhound.json) |
 | Bloodia | 118394 | [118394-bloodia.json](./118394-bloodia.json) |
 | BloodKeeper | 143037 | [143037-bloodkeeper.json](./143037-bloodkeeper.json) |
 | Bloodless Heart | 366879 | [366879-bloodless-heart.json](./366879-bloodless-heart.json) |
@@ -4626,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Hunters | 188507 | [188507-bounty-hunters.json](./188507-bounty-hunters.json) |
 | Bounty Hunters | 265389 | [265389-bounty-hunters.json](./265389-bounty-hunters.json) |
 | Bounty of One: Panic in the Mines | 321957 | [321957-bounty-of-one-panic-in-the-mines.json](./321957-bounty-of-one-panic-in-the-mines.json) |
+| Bounty Star | 210624 | [210624-bounty-star.json](./210624-bounty-star.json) |
 | Bounty Sword | 38351 | [38351-bounty-sword.json](./38351-bounty-sword.json) |
 | Bounty Sword First | 57059 | [57059-bounty-sword-first.json](./57059-bounty-sword-first.json) |
 | Bounty Sword: Double Edge | 57057 | [57057-bounty-sword-double-edge.json](./57057-bounty-sword-double-edge.json) |
