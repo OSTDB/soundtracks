@@ -1126,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Yori Aoshi | 72668 | [72668-ai-yori-aoshi.json](./72668-ai-yori-aoshi.json) |
 | Ai Yu Ming De Bi Duan | 151021 | [151021-ai-yu-ming-de-bi-duan.json](./151021-ai-yu-ming-de-bi-duan.json) |
 | Ai-(Onic) | 197878 | [197878-ai-onic.json](./197878-ai-onic.json) |
+| AI: Rampage | 33611 | [33611-ai-rampage.json](./33611-ai-rampage.json) |
 | AI: The Somnium Files | 104971 | [104971-ai-the-somnium-files.json](./104971-ai-the-somnium-files.json) |
 | AI.Gears: Team Tag Battle | 277312 | [277312-ai-gears-team-tag-battle.json](./277312-ai-gears-team-tag-battle.json) |
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
@@ -2021,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone but Strong | 369625 | [369625-alone-but-strong.json](./369625-alone-but-strong.json) |
 | Alone In a Dream | 156665 | [156665-alone-in-a-dream.json](./156665-alone-in-a-dream.json) |
 | Alone In Hell | 217852 | [217852-alone-in-hell.json](./217852-alone-in-hell.json) |
+| Alone in Space | 33499 | [33499-alone-in-space.json](./33499-alone-in-space.json) |
 | Alone in the Dark | 287174 | [287174-alone-in-the-dark.json](./287174-alone-in-the-dark.json) |
 | Alone in the Dark | 300074 | [300074-alone-in-the-dark.json](./300074-alone-in-the-dark.json) |
 | Alone in the Dark 2 | 340383 | [340383-alone-in-the-dark-2.json](./340383-alone-in-the-dark-2.json) |
@@ -4349,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
 | Artificial | 235361 | [235361-artificial.json](./235361-artificial.json) |
 | Artificial Academy | 22471 | [22471-artificial-academy.json](./22471-artificial-academy.json) |
+| Artificial Defense | 33511 | [33511-artificial-defense.json](./33511-artificial-defense.json) |
 | Artificial Extinction 2 | 216470 | [216470-artificial-extinction-2.json](./216470-artificial-extinction-2.json) |
 | Artificial Fright | 253451 | [253451-artificial-fright.json](./253451-artificial-fright.json) |
 | Artificial Girl | 70686 | [70686-artificial-girl.json](./70686-artificial-girl.json) |
@@ -4447,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asdivine Hearts I & II | 196276 | [196276-asdivine-hearts-i-and-ii.json](./196276-asdivine-hearts-i-and-ii.json) |
 | Asdivine Menace | 38980 | [38980-asdivine-menace.json](./38980-asdivine-menace.json) |
 | Ase Online | 379349 | [379349-ase-online.json](./379349-ase-online.json) |
+| Aselia the Eternal: The Spirit of Eternity Sword | 33476 | [33476-aselia-the-eternal-the-spirit-of-eternity-sword.json](./33476-aselia-the-eternal-the-spirit-of-eternity-sword.json) |
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
 | Asfalia: The Cranky Volcano | 196425 | [196425-asfalia-the-cranky-volcano.json](./196425-asfalia-the-cranky-volcano.json) |
@@ -5235,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
 | Aurail | 39618 | [39618-aurail.json](./39618-aurail.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
+| Auralux: Constellations | 33527 | [33527-auralux-constellations.json](./33527-auralux-constellations.json) |
 | Aurascope | 177951 | [177951-aurascope.json](./177951-aurascope.json) |
 | Aurelia: Stellar Arising | 201806 | [201806-aurelia-stellar-arising.json](./201806-aurelia-stellar-arising.json) |
 | Auri's Amazing Arch Adventure | 388247 | [388247-auris-amazing-arch-adventure.json](./388247-auris-amazing-arch-adventure.json) |
