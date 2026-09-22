@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vice City Race | 272392 | [272392-vice-city-race.json](./272392-vice-city-race.json) |
 | Vice Undercover | 204447 | [204447-vice-undercover.json](./204447-vice-undercover.json) |
 | Vicewave | 141839 | [141839-vicewave.json](./141839-vicewave.json) |
+| Vicious Attack Llama Apocalypse | 44289 | [44289-vicious-attack-llama-apocalypse.json](./44289-vicious-attack-llama-apocalypse.json) |
 | Vicious Growth | 203924 | [203924-vicious-growth.json](./203924-vicious-growth.json) |
 | Vicious Red | 249793 | [249793-vicious-red.json](./249793-vicious-red.json) |
 | Vicious, Fateful Memories | 108992 | [108992-vicious-fateful-memories.json](./108992-vicious-fateful-memories.json) |
@@ -761,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings on Trampolines | 92493 | [92493-vikings-on-trampolines.json](./92493-vikings-on-trampolines.json) |
 | Vikings Wars | 128981 | [128981-vikings-wars.json](./128981-vikings-wars.json) |
 | Vikings: Valhalla Saga | 228120 | [228120-vikings-valhalla-saga.json](./228120-vikings-valhalla-saga.json) |
+| Vikings: War of Clans | 44118 | [44118-vikings-war-of-clans.json](./44118-vikings-war-of-clans.json) |
 | VikingStory | 149418 | [149418-vikingstory.json](./149418-vikingstory.json) |
 | Viktor: Enforcer Edition | 53871 | [53871-viktor-enforcer-edition.json](./53871-viktor-enforcer-edition.json) |
 | Vile: Exhumed | 320741 | [320741-vile-exhumed.json](./320741-vile-exhumed.json) |
