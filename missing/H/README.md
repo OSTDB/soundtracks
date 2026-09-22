@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Time | 69539 | [69539-harvest-time.json](./69539-harvest-time.json) |
 | Harvest Uranus | 244514 | [244514-harvest-uranus.json](./244514-harvest-uranus.json) |
 | Harvest Village | 340417 | [340417-harvest-village.json](./340417-harvest-village.json) |
+| Harvested | 118393 | [118393-harvested.json](./118393-harvested.json) |
 | Harvestella | 206818 | [206818-harvestella.json](./206818-harvestella.json) |
 | Harvester Tractor Farming Simulator Game | 174866 | [174866-harvester-tractor-farming-simulator-game.json](./174866-harvester-tractor-farming-simulator-game.json) |
 | Hasamu | 40176 | [40176-hasamu.json](./40176-hasamu.json) |
@@ -2117,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroine Dream | 61566 | [61566-heroine-dream.json](./61566-heroine-dream.json) |
 | Heroine Dream 2 | 61565 | [61565-heroine-dream-2.json](./61565-heroine-dream-2.json) |
 | Heroine Dusk | 181260 | [181260-heroine-dusk.json](./181260-heroine-dusk.json) |
+| Heroine of the Sniper | 118673 | [118673-heroine-of-the-sniper.json](./118673-heroine-of-the-sniper.json) |
 | Heroine's Quest: The Herald of Ragnarok | 36441 | [36441-heroines-quest-the-herald-of-ragnarok.json](./36441-heroines-quest-the-herald-of-ragnarok.json) |
 | Heroines of Swords & Spells | 130129 | [130129-heroines-of-swords-and-spells.json](./130129-heroines-of-swords-and-spells.json) |
 | Heroish | 207215 | [207215-heroish.json](./207215-heroish.json) |
@@ -3154,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeless | 277287 | [277287-homeless.json](./277287-homeless.json) |
 | Homeless | 312726 | [312726-homeless.json](./312726-homeless.json) |
 | Homeless Guy | 258733 | [258733-homeless-guy.json](./258733-homeless-guy.json) |
+| Homeless Simulator 2 | 118416 | [118416-homeless-simulator-2.json](./118416-homeless-simulator-2.json) |
 | Homemade TCG | 199504 | [199504-homemade-tcg.json](./199504-homemade-tcg.json) |
 | Homeostasis | 389444 | [389444-homeostasis.json](./389444-homeostasis.json) |
 | Homepage | 347702 | [347702-homepage.json](./347702-homepage.json) |
