@@ -2870,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Top Down Shooter | 176345 | [176345-pixel-top-down-shooter.json](./176345-pixel-top-down-shooter.json) |
 | Pixel Town: Akanemachi Sideshow | 298162 | [298162-pixel-town-akanemachi-sideshow.json](./298162-pixel-town-akanemachi-sideshow.json) |
 | Pixel Traffic: Highway Racing | 102216 | [102216-pixel-traffic-highway-racing.json](./102216-pixel-traffic-highway-racing.json) |
+| Pixel Waifu: Escape From the Dark Corporation. The Telepathic Power of a Lovestruck Otaku | 398558 | [398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json](./398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json) |
 | Pixel Washer | 263778 | [263778-pixel-washer.json](./263778-pixel-washer.json) |
 | Pixel Whirled | 66640 | [66640-pixel-whirled.json](./66640-pixel-whirled.json) |
 | Pixel Z Hunter 3D | 282685 | [282685-pixel-z-hunter-3d.json](./282685-pixel-z-hunter-3d.json) |
@@ -4319,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postcard Through Time | 417581 | [417581-postcard-through-time.json](./417581-postcard-through-time.json) |
 | PostCollapse | 31888 | [31888-postcollapse.json](./31888-postcollapse.json) |
 | Postfrost | 247751 | [247751-postfrost.json](./247751-postfrost.json) |
+| Posthuman: Guardians vs Psion | 398559 | [398559-posthuman-guardians-vs-psion.json](./398559-posthuman-guardians-vs-psion.json) |
 | Posthuman: Sanctuary | 105270 | [105270-posthuman-sanctuary.json](./105270-posthuman-sanctuary.json) |
 | Postie | 345599 | [345599-postie.json](./345599-postie.json) |
 | Postknight | 27329 | [27329-postknight.json](./27329-postknight.json) |
