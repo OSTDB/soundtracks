@@ -1073,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Truck | 328238 | [328238-jump-truck.json](./328238-jump-truck.json) |
 | Jump Up 3D: Mini Basketball | 353997 | [353997-jump-up-3d-mini-basketball.json](./353997-jump-up-3d-mini-basketball.json) |
 | Jump Up! Tiny Spaceman | 200121 | [200121-jump-up-tiny-spaceman.json](./200121-jump-up-tiny-spaceman.json) |
+| Jump with Friends | 118131 | [118131-jump-with-friends.json](./118131-jump-with-friends.json) |
 | Jump Without Reason | 124252 | [124252-jump-without-reason.json](./124252-jump-without-reason.json) |
 | Jump Yuusha | 222423 | [222423-jump-yuusha.json](./222423-jump-yuusha.json) |
 | Jump, Race, Fly | 264903 | [264903-jump-race-fly.json](./264903-jump-race-fly.json) |
