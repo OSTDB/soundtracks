@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Santa | 34032 | [34032-sakura-santa.json](./34032-sakura-santa.json) |
 | Sakura School Simulator | 208944 | [208944-sakura-school-simulator.json](./208944-sakura-school-simulator.json) |
 | Sakura Stars | 132662 | [132662-sakura-stars.json](./132662-sakura-stars.json) |
+| Sakura Succubus | 129707 | [129707-sakura-succubus.json](./129707-sakura-succubus.json) |
 | Sakura Succubus 2 | 146837 | [146837-sakura-succubus-2.json](./146837-sakura-succubus-2.json) |
 | Sakura Succubus 3 | 152892 | [152892-sakura-succubus-3.json](./152892-sakura-succubus-3.json) |
 | Sakura Succubus 8 | 353952 | [353952-sakura-succubus-8.json](./353952-sakura-succubus-8.json) |
@@ -1100,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoop'n Birds | 86076 | [86076-scoopn-birds.json](./86076-scoopn-birds.json) |
 | Scoops & Social Ice-Olation | 258521 | [258521-scoops-and-social-ice-olation.json](./258521-scoops-and-social-ice-olation.json) |
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
+| Scoot Kaboom and the Tomb of Doom | 132695 | [132695-scoot-kaboom-and-the-tomb-of-doom.json](./132695-scoot-kaboom-and-the-tomb-of-doom.json) |
 | Scooter Shooter | 40199 | [40199-scooter-shooter.json](./40199-scooter-shooter.json) |
 | Scooter Slayer | 358885 | [358885-scooter-slayer.json](./358885-scooter-slayer.json) |
 | Scopa | 100012 | [100012-scopa.json](./100012-scopa.json) |
@@ -3070,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmadow | 34594 | [34594-shmadow.json](./34594-shmadow.json) |
 | Shmucker Casino 2: Purple Boog's Revenge | 270371 | [270371-shmucker-casino-2-purple-boogs-revenge.json](./270371-shmucker-casino-2-purple-boogs-revenge.json) |
 | Shmup Bundle | 268476 | [268476-shmup-bundle.json](./268476-shmup-bundle.json) |
+| Shmup Collection | 133583 | [133583-shmup-collection.json](./133583-shmup-collection.json) |
 | Shmup Love Boom | 34831 | [34831-shmup-love-boom.json](./34831-shmup-love-boom.json) |
 | Shmup Mania | 201130 | [201130-shmup-mania.json](./201130-shmup-mania.json) |
 | Shmup! | 408773 | [408773-shmup.json](./408773-shmup.json) |
@@ -5793,6 +5796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Horror - Episode 4 | 135153 | [135153-song-of-horror-episode-4.json](./135153-song-of-horror-episode-4.json) |
 | Song of Horror - Episode 5 | 135158 | [135158-song-of-horror-episode-5.json](./135158-song-of-horror-episode-5.json) |
 | Song of Horror Episodes 2-5 | 135160 | [135160-song-of-horror-episodes-2-5.json](./135160-song-of-horror-episodes-2-5.json) |
+| Song of Iron | 132756 | [132756-song-of-iron.json](./132756-song-of-iron.json) |
 | Song of Pan | 38990 | [38990-song-of-pan.json](./38990-song-of-pan.json) |
 | Song of Slavs | 273405 | [273405-song-of-slavs.json](./273405-song-of-slavs.json) |
 | Song of the Deep | 16998 | [16998-song-of-the-deep.json](./16998-song-of-the-deep.json) |
@@ -9679,6 +9683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Outlaws 2: Winner Takes All | 162246 | [162246-street-outlaws-2-winner-takes-all.json](./162246-street-outlaws-2-winner-takes-all.json) |
 | Street Outlaws 2: Winner Takes All - Digital Deluxe Edition | 173797 | [173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json](./173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json) |
 | Street Paint Playground | 217991 | [217991-street-paint-playground.json](./217991-street-paint-playground.json) |
+| Street Power Football | 134708 | [134708-street-power-football.json](./134708-street-power-football.json) |
 | Street Racer Underground | 139819 | [139819-street-racer-underground.json](./139819-street-racer-underground.json) |
 | Street Racer X Ace of Love | 206198 | [206198-street-racer-x-ace-of-love.json](./206198-street-racer-x-ace-of-love.json) |
 | Street Racers: Hot Asphalt | 316837 | [316837-street-racers-hot-asphalt.json](./316837-street-racers-hot-asphalt.json) |
@@ -9733,6 +9738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stretchy-Man: The Video Game | 190234 | [190234-stretchy-man-the-video-game.json](./190234-stretchy-man-the-video-game.json) |
 | Strexy Slayers | 276167 | [276167-strexy-slayers.json](./276167-strexy-slayers.json) |
 | Striatum | 342647 | [342647-striatum.json](./342647-striatum.json) |
+| Stride | 132959 | [132959-stride.json](./132959-stride.json) |
 | Striden | 237059 | [237059-striden.json](./237059-striden.json) |
 | Strider | 198929 | [198929-strider.json](./198929-strider.json) |
 | Strider | 5333 | [5333-strider.json](./5333-strider.json) |
