@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
 | ACA Neo Geo: Nam-1975 | 28409 | [28409-aca-neo-geo-nam-1975.json](./28409-aca-neo-geo-nam-1975.json) |
 | ACA Neo Geo: Ninja Master's | 114147 | [114147-aca-neo-geo-ninja-masters.json](./114147-aca-neo-geo-ninja-masters.json) |
+| ACA Neo Geo: Puzzle Bobble | 113438 | [113438-aca-neo-geo-puzzle-bobble.json](./113438-aca-neo-geo-puzzle-bobble.json) |
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
 | ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
 | ACA Neo Geo: The King of Fighters 2003 | 115445 | [115445-aca-neo-geo-the-king-of-fighters-2003.json](./115445-aca-neo-geo-the-king-of-fighters-2003.json) |
@@ -1515,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Classic | 111035 | [111035-alchemy-classic.json](./111035-alchemy-classic.json) |
 | Alchemy Dungeon | 250656 | [250656-alchemy-dungeon.json](./250656-alchemy-dungeon.json) |
 | Alchemy Emporium | 149963 | [149963-alchemy-emporium.json](./149963-alchemy-emporium.json) |
+| Alchemy Garden | 113758 | [113758-alchemy-garden.json](./113758-alchemy-garden.json) |
 | Alchemy Mastery | 302917 | [302917-alchemy-mastery.json](./302917-alchemy-mastery.json) |
 | Alchemy Odyssey 2: Tears of the Elements | 417519 | [417519-alchemy-odyssey-2-tears-of-the-elements.json](./417519-alchemy-odyssey-2-tears-of-the-elements.json) |
 | Alchemy of Love | 214160 | [214160-alchemy-of-love.json](./214160-alchemy-of-love.json) |
@@ -1602,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algodoo | 140601 | [140601-algodoo.json](./140601-algodoo.json) |
 | Algolemeth | 283903 | [283903-algolemeth.json](./283903-algolemeth.json) |
 | Algos United: Live! | 336627 | [336627-algos-united-live.json](./336627-algos-united-live.json) |
+| Algotica Iterations | 113253 | [113253-algotica-iterations.json](./113253-algotica-iterations.json) |
 | Ali Baba | 76196 | [76196-ali-baba.json](./76196-ali-baba.json) |
 | Alia's Carnival! Sacrament | 14857 | [14857-alias-carnival-sacrament.json](./14857-alias-carnival-sacrament.json) |
 | Alian | 288751 | [288751-alian.json](./288751-alian.json) |
@@ -1769,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien: Isolation - The Trigger | 15554 | [15554-alien-isolation-the-trigger.json](./15554-alien-isolation-the-trigger.json) |
 | Alien: Isolation - Trauma | 15553 | [15553-alien-isolation-trauma.json](./15553-alien-isolation-trauma.json) |
 | Alien's Return | 79315 | [79315-aliens-return.json](./79315-aliens-return.json) |
+| AlienAfterlife | 114220 | [114220-alienafterlife.json](./114220-alienafterlife.json) |
 | Alienator | 332245 | [332245-alienator.json](./332245-alienator.json) |
 | Alienoid | 57685 | [57685-alienoid.json](./57685-alienoid.json) |
 | Aliens | 13680 | [13680-aliens.json](./13680-aliens.json) |
@@ -4665,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
 | Astalon: Tears of the Earth | 80885 | [80885-astalon-tears-of-the-earth.json](./80885-astalon-tears-of-the-earth.json) |
 | Astate: La Malédiction des Templiers | 14271 | [14271-astate-la-malediction-des-templiers.json](./14271-astate-la-malediction-des-templiers.json) |
+| Astellia | 113957 | [113957-astellia.json](./113957-astellia.json) |
 | Aster Force | 195114 | [195114-aster-force.json](./195114-aster-force.json) |
 | Aster Initiative | 274035 | [274035-aster-initiative.json](./274035-aster-initiative.json) |
 | Astera | 304678 | [304678-astera.json](./304678-astera.json) |
@@ -4945,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback 8 Classic | 277049 | [277049-atari-flashback-8-classic.json](./277049-atari-flashback-8-classic.json) |
 | Atari Flashback 8 Deluxe | 277050 | [277050-atari-flashback-8-deluxe.json](./277050-atari-flashback-8-deluxe.json) |
 | Atari Flashback 8 Gold | 277051 | [277051-atari-flashback-8-gold.json](./277051-atari-flashback-8-gold.json) |
+| Atari Flashback Classics | 113382 | [113382-atari-flashback-classics.json](./113382-atari-flashback-classics.json) |
 | Atari Flashback Portable | 245573 | [245573-atari-flashback-portable.json](./245573-atari-flashback-portable.json) |
 | Atari Greatest Hits Volume 1 | 18437 | [18437-atari-greatest-hits-volume-1.json](./18437-atari-greatest-hits-volume-1.json) |
 | Atari Greatest Hits: Volume 2 | 61729 | [61729-atari-greatest-hits-volume-2.json](./61729-atari-greatest-hits-volume-2.json) |
@@ -5462,6 +5468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AWA | 32877 | [32877-awa.json](./32877-awa.json) |
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
 | Awake | 343247 | [343247-awake.json](./343247-awake.json) |
+| Awake: Definitive Edition | 113787 | [113787-awake-definitive-edition.json](./113787-awake-definitive-edition.json) |
 | AwakeMUD | 228698 | [228698-awakemud.json](./228698-awakemud.json) |
 | Awaken | 183954 | [183954-awaken.json](./183954-awaken.json) |
 | Awaken in Fear | 414439 | [414439-awaken-in-fear.json](./414439-awaken-in-fear.json) |
