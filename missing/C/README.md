@@ -2269,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chesto: At the Checkout | 134686 | [134686-chesto-at-the-checkout.json](./134686-chesto-at-the-checkout.json) |
 | Chests O' Booty | 84576 | [84576-chests-o-booty.json](./84576-chests-o-booty.json) |
 | Chevrolet Camaro Wild Ride 3D | 84575 | [84575-chevrolet-camaro-wild-ride-3d.json](./84575-chevrolet-camaro-wild-ride-3d.json) |
+| Chew Your Food | 395886 | [395886-chew-your-food.json](./395886-chew-your-food.json) |
 | Chewing | 113741 | [113741-chewing.json](./113741-chewing.json) |
 | Chex | 232978 | [232978-chex.json](./232978-chex.json) |
 | Cheyenne | 25957 | [25957-cheyenne.json](./25957-cheyenne.json) |
@@ -2582,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
 | Chook & Sosig: Walk the Plank | 113014 | [113014-chook-and-sosig-walk-the-plank.json](./113014-chook-and-sosig-walk-the-plank.json) |
+| Choose a Mech | 395896 | [395896-choose-a-mech.json](./395896-choose-a-mech.json) |
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
 | Choose Your Own Alternative | 389395 | [389395-choose-your-own-alternative.json](./389395-choose-your-own-alternative.json) |
 | Choose your Poison | 195106 | [195106-choose-your-poison.json](./195106-choose-your-poison.json) |
@@ -4275,6 +4277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comixxx Swap | 195741 | [195741-comixxx-swap.json](./195741-comixxx-swap.json) |
 | Commanager Tycoon | 98992 | [98992-commanager-tycoon.json](./98992-commanager-tycoon.json) |
 | Command & Colours: The Great War | 175382 | [175382-command-and-colours-the-great-war.json](./175382-command-and-colours-the-great-war.json) |
+| Command & Conquer 3: Kane's Wrath | 395863 | [395863-command-and-conquer-3-kanes-wrath.json](./395863-command-and-conquer-3-kanes-wrath.json) |
 | Command & Conquer 3: Tiberium Wars | 281426 | [281426-command-and-conquer-3-tiberium-wars.json](./281426-command-and-conquer-3-tiberium-wars.json) |
 | Command & Conquer 4: Tiberian Twilight | 670 | [670-command-and-conquer-4-tiberian-twilight.json](./670-command-and-conquer-4-tiberian-twilight.json) |
 | Command & Conquer Remastered Collection | 112104 | [112104-command-and-conquer-remastered-collection.json](./112104-command-and-conquer-remastered-collection.json) |
@@ -4582,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Helheim | 217525 | [217525-conquerors-blade-helheim.json](./217525-conquerors-blade-helheim.json) |
 | Conqueror's Blade: Season IV - Blood of the Empire | 158061 | [158061-conquerors-blade-season-iv-blood-of-the-empire.json](./158061-conquerors-blade-season-iv-blood-of-the-empire.json) |
 | Conqueror's Blade: Season V - Legacy of Fire | 158080 | [158080-conquerors-blade-season-v-legacy-of-fire.json](./158080-conquerors-blade-season-v-legacy-of-fire.json) |
+| Conquest | 395858 | [395858-conquest.json](./395858-conquest.json) |
 | Conquest | 86011 | [86011-conquest.json](./86011-conquest.json) |
 | Conquest Manager | 269129 | [269129-conquest-manager.json](./269129-conquest-manager.json) |
 | Conquest of Chesterwoode | 73222 | [73222-conquest-of-chesterwoode.json](./73222-conquest-of-chesterwoode.json) |
@@ -4851,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copa Petrobras de Marcas | 90609 | [90609-copa-petrobras-de-marcas.json](./90609-copa-petrobras-de-marcas.json) |
 | Cope Island: Adrift | 113755 | [113755-cope-island-adrift.json](./113755-cope-island-adrift.json) |
 | Copero | 412505 | [412505-copero.json](./412505-copero.json) |
+| Coping Mechanisms | 395898 | [395898-coping-mechanisms.json](./395898-coping-mechanisms.json) |
 | Copper Dreams | 59674 | [59674-copper-dreams.json](./59674-copper-dreams.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Copper Odyssey | 161375 | [161375-copper-odyssey.json](./161375-copper-odyssey.json) |
@@ -5087,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Iter | 386884 | [386884-cosmos-iter.json](./386884-cosmos-iter.json) |
 | Cosmos Kitten | 332843 | [332843-cosmos-kitten.json](./332843-cosmos-kitten.json) |
 | Cosmos no Sora ni | 395012 | [395012-cosmos-no-sora-ni.json](./395012-cosmos-no-sora-ni.json) |
+| Cosmos Quest | 395859 | [395859-cosmos-quest.json](./395859-cosmos-quest.json) |
 | Cosmos Quest II: To Find a Sun | 98471 | [98471-cosmos-quest-ii-to-find-a-sun.json](./98471-cosmos-quest-ii-to-find-a-sun.json) |
 | Cosmos Quest III: The Mines of Isagor | 98474 | [98474-cosmos-quest-iii-the-mines-of-isagor.json](./98474-cosmos-quest-iii-the-mines-of-isagor.json) |
 | Cosmos Quest IV: The Ayatolian March | 98473 | [98473-cosmos-quest-iv-the-ayatolian-march.json](./98473-cosmos-quest-iv-the-ayatolian-march.json) |
@@ -6849,6 +6855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Cycles | 39829 | [39829-cyber-cycles.json](./39829-cyber-cycles.json) |
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
 | Cyber Dose | 252243 | [252243-cyber-dose.json](./252243-cyber-dose.json) |
+| Cyber Dreamscape Battle-Deckers 2199 | 395830 | [395830-cyber-dreamscape-battle-deckers-2199.json](./395830-cyber-dreamscape-battle-deckers-2199.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
 | Cyber Factories | 156006 | [156006-cyber-factories.json](./156006-cyber-factories.json) |
 | Cyber Hearts Club | 311633 | [311633-cyber-hearts-club.json](./311633-cyber-hearts-club.json) |
