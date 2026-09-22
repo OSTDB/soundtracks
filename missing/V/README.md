@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
 | Valenium | 382294 | [382294-valenium.json](./382294-valenium.json) |
 | Valentine Candy: Break Head to Head | 214567 | [214567-valentine-candy-break-head-to-head.json](./214567-valentine-candy-break-head-to-head.json) |
+| Valentine Panic | 68587 | [68587-valentine-panic.json](./68587-valentine-panic.json) |
 | Valentine's Day Bikini Femdom | 400903 | [400903-valentines-day-bikini-femdom.json](./400903-valentines-day-bikini-femdom.json) |
 | Valentines Cafe | 114977 | [114977-valentines-cafe.json](./114977-valentines-cafe.json) |
 | Valentines Desire: Steam Edition | 130956 | [130956-valentines-desire-steam-edition.json](./130956-valentines-desire-steam-edition.json) |
@@ -1212,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volleyball Xciting | 79579 | [79579-volleyball-xciting.json](./79579-volleyball-xciting.json) |
 | Volleyball! | 109453 | [109453-volleyball.json](./109453-volleyball.json) |
 | Volleyfire | 66618 | [66618-volleyfire.json](./66618-volleyfire.json) |
+| Volleying | 72413 | [72413-volleying.json](./72413-volleying.json) |
 | Volly | 130859 | [130859-volly.json](./130859-volly.json) |
 | Volo Airsport | 17957 | [17957-volo-airsport.json](./17957-volo-airsport.json) |
 | Volontés | 347170 | [347170-volontes.json](./347170-volontes.json) |
