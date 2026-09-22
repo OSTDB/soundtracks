@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jak II | 1529 | [1529-jak-ii.json](./1529-jak-ii.json) |
 | Jak X: Combat Racing | 1532 | [1532-jak-x-combat-racing.json](./1532-jak-x-combat-racing.json) |
 | Jake and the Never Land Pirates | 230381 | [230381-jake-and-the-never-land-pirates.json](./230381-jake-and-the-never-land-pirates.json) |
+| Jake Hunter Detective Story: Memories of the Past | 47772 | [47772-jake-hunter-detective-story-memories-of-the-past.json](./47772-jake-hunter-detective-story-memories-of-the-past.json) |
 | Jake's Apple Harvest | 258548 | [258548-jakes-apple-harvest.json](./258548-jakes-apple-harvest.json) |
 | Jake's Halloween Night | 216770 | [216770-jakes-halloween-night.json](./216770-jakes-halloween-night.json) |
 | Jakers: The Adventures of Piggley Winks | 19653 | [19653-jakers-the-adventures-of-piggley-winks.json](./19653-jakers-the-adventures-of-piggley-winks.json) |
@@ -818,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo no Kimyou na Bouken: Ougon no Kaze | 43465 | [43465-jojo-no-kimyou-na-bouken-ougon-no-kaze.json](./43465-jojo-no-kimyou-na-bouken-ougon-no-kaze.json) |
 | JoJo Siwa: Worldwide Party | 218722 | [218722-jojo-siwa-worldwide-party.json](./218722-jojo-siwa-worldwide-party.json) |
 | JoJo the Sheep | 233487 | [233487-jojo-the-sheep.json](./233487-jojo-the-sheep.json) |
+| JoJo's Bizarre Adventure HD | 47433 | [47433-jojos-bizarre-adventure-hd.json](./47433-jojos-bizarre-adventure-hd.json) |
 | JoJo's Bizarre Adventure: All Star Battle - Golden Experience Box | 298016 | [298016-jojos-bizarre-adventure-all-star-battle-golden-experience-box.json](./298016-jojos-bizarre-adventure-all-star-battle-golden-experience-box.json) |
 | JoJo's Bizarre Adventure: All Star Battle R - Digital Deluxe Edition | 218458 | [218458-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json](./218458-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json) |
 | JoJo’s Bizarre Adventure: All-Star Battle R | 194208 | [194208-jojo-s-bizarre-adventure-all-star-battle-r.json](./194208-jojo-s-bizarre-adventure-all-star-battle-r.json) |
