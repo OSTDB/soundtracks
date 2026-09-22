@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarantine Circular | 102119 | [102119-quarantine-circular.json](./102119-quarantine-circular.json) |
 | Quarantine Cutz | 150519 | [150519-quarantine-cutz.json](./150519-quarantine-cutz.json) |
 | Quarantine Lockdown Simulator: Zombie Border | 366217 | [366217-quarantine-lockdown-simulator-zombie-border.json](./366217-quarantine-lockdown-simulator-zombie-border.json) |
+| Quarantine Market Simulator | 399218 | [399218-quarantine-market-simulator.json](./399218-quarantine-market-simulator.json) |
 | Quarantine Run | 155999 | [155999-quarantine-run.json](./155999-quarantine-run.json) |
 | Quarantine-Z | 258541 | [258541-quarantine-z.json](./258541-quarantine-z.json) |
 | Quarrel | 20659 | [20659-quarrel.json](./20659-quarrel.json) |
