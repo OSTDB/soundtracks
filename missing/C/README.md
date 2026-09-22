@@ -3360,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clinton vs. Trump: Head Soccer Challenge | 261526 | [261526-clinton-vs-trump-head-soccer-challenge.json](./261526-clinton-vs-trump-head-soccer-challenge.json) |
 | Clione's Bomb-Bomb Sweeper | 369050 | [369050-cliones-bomb-bomb-sweeper.json](./369050-cliones-bomb-bomb-sweeper.json) |
 | Clippyworld: An Unexpected Journey | 260787 | [260787-clippyworld-an-unexpected-journey.json](./260787-clippyworld-an-unexpected-journey.json) |
+| Clive 'N' Wrench | 59598 | [59598-clive-n-wrench.json](./59598-clive-n-wrench.json) |
 | Clive vs. Hives 2 | 188685 | [188685-clive-vs-hives-2.json](./188685-clive-vs-hives-2.json) |
 | Cloaks and Capes | 148471 | [148471-cloaks-and-capes.json](./148471-cloaks-and-capes.json) |
 | Clock of Atonement | 240491 | [240491-clock-of-atonement.json](./240491-clock-of-atonement.json) |
