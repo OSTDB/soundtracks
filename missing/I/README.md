@@ -1028,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inauthentic Hummus | 348353 | [348353-inauthentic-hummus.json](./348353-inauthentic-hummus.json) |
 | Inayah: Life after Gods | 317838 | [317838-inayah-life-after-gods.json](./317838-inayah-life-after-gods.json) |
 | Inazuma Eleven 1, 2, 3!! Endou Mamoru Densetsu | 86106 | [86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json](./86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json) |
+| Inazuma Eleven 3: Lightning Bolt | 47675 | [47675-inazuma-eleven-3-lightning-bolt.json](./47675-inazuma-eleven-3-lightning-bolt.json) |
 | Inazuma Eleven GO: Chrono Stones - Wildfire | 9693 | [9693-inazuma-eleven-go-chrono-stones-wildfire.json](./9693-inazuma-eleven-go-chrono-stones-wildfire.json) |
 | Inazuma Eleven Go: Light | 47673 | [47673-inazuma-eleven-go-light.json](./47673-inazuma-eleven-go-light.json) |
 | Inazuma Eleven GO: Shadow | 9685 | [9685-inazuma-eleven-go-shadow.json](./9685-inazuma-eleven-go-shadow.json) |
@@ -1775,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Radius | 115062 | [115062-into-the-radius.json](./115062-into-the-radius.json) |
 | Into the Radius 2 | 279128 | [279128-into-the-radius-2.json](./279128-into-the-radius-2.json) |
 | Into the Soup | 126554 | [126554-into-the-soup.json](./126554-into-the-soup.json) |
+| Into the Stars | 21564 | [21564-into-the-stars.json](./21564-into-the-stars.json) |
 | Into the Stars - Deluxe | 53235 | [53235-into-the-stars-deluxe.json](./53235-into-the-stars-deluxe.json) |
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
 | Into the War | 35825 | [35825-into-the-war.json](./35825-into-the-war.json) |
@@ -2011,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironsand | 312749 | [312749-ironsand.json](./312749-ironsand.json) |
 | Ironsmith Medieval Simulator | 122862 | [122862-ironsmith-medieval-simulator.json](./122862-ironsmith-medieval-simulator.json) |
 | IronStorm - World War Zero | 44641 | [44641-ironstorm-world-war-zero.json](./44641-ironstorm-world-war-zero.json) |
+| Ironsword: Wizards & Warriors II | 48053 | [48053-ironsword-wizards-and-warriors-ii.json](./48053-ironsword-wizards-and-warriors-ii.json) |
 | IronTusk's Diablo3D | 202847 | [202847-irontusks-diablo3d.json](./202847-irontusks-diablo3d.json) |
 | IronWood | 394370 | [394370-ironwood.json](./394370-ironwood.json) |
 | Irony Curtain: From Matryoshka with Love - Revolutionary Edition | 124830 | [124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json](./124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json) |
