@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10KoyaNI | 382189 | [382189-10koyani.json](./382189-10koyani.json) |
 | 10mg Collection | 141158 | [141158-10mg-collection.json](./141158-10mg-collection.json) |
 | 10Minutes | 258997 | [258997-10minutes.json](./258997-10minutes.json) |
+| 10s | 397234 | [397234-10s.json](./397234-10s.json) |
 | 10SII | 143489 | [143489-10sii.json](./143489-10sii.json) |
 | 11 Trials of Raz | 379454 | [379454-11-trials-of-raz.json](./379454-11-trials-of-raz.json) |
 | 11:45 A Vivid Life | 132652 | [132652-11-45-a-vivid-life.json](./132652-11-45-a-vivid-life.json) |
