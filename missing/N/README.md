@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL Hockey 2000 | 299312 | [299312-nhl-hockey-2000.json](./299312-nhl-hockey-2000.json) |
 | NHL Rock the Rink | 44843 | [44843-nhl-rock-the-rink.json](./44843-nhl-rock-the-rink.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
+| NHL: Legacy Edition | 36848 | [36848-nhl-legacy-edition.json](./36848-nhl-legacy-edition.json) |
 | NHLPA Hockey 93 | 42479 | [42479-nhlpa-hockey-93.json](./42479-nhlpa-hockey-93.json) |
 | NHRA Championship Drag Racing | 18269 | [18269-nhra-championship-drag-racing.json](./18269-nhra-championship-drag-racing.json) |
 | NHRA Championship Drag Racing: Speed for All - Deluxe Edition | 214728 | [214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json](./214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json) |
@@ -1487,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Hazard | 329110 | [329110-night-hazard.json](./329110-night-hazard.json) |
 | Night in the Unpleasant House | 227837 | [227837-night-in-the-unpleasant-house.json](./227837-night-in-the-unpleasant-house.json) |
 | Night in the Woods: Longest Night | 55865 | [55865-night-in-the-woods-longest-night.json](./55865-night-in-the-woods-longest-night.json) |
+| Night in the Woods: Lost Constellation | 60719 | [60719-night-in-the-woods-lost-constellation.json](./60719-night-in-the-woods-lost-constellation.json) |
 | Night Intruders | 184089 | [184089-night-intruders.json](./184089-night-intruders.json) |
 | Night is Coming: Wrath of the Woods | 336551 | [336551-night-is-coming-wrath-of-the-woods.json](./336551-night-is-coming-wrath-of-the-woods.json) |
 | Night Island | 120793 | [120793-night-island.json](./120793-night-island.json) |
@@ -1790,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Kamui: Shinobi Origins | 298587 | [298587-ninja-kamui-shinobi-origins.json](./298587-ninja-kamui-shinobi-origins.json) |
 | Ninja Kato 1 | 273452 | [273452-ninja-kato-1.json](./273452-ninja-kato-1.json) |
 | Ninja Kato 3 | 297800 | [297800-ninja-kato-3.json](./297800-ninja-kato-3.json) |
+| Ninja Kid | 68360 | [68360-ninja-kid.json](./68360-ninja-kid.json) |
 | Ninja Kiwi Archive | 137601 | [137601-ninja-kiwi-archive.json](./137601-ninja-kiwi-archive.json) |
 | Ninja Leagues: Masters of The Mystic Arts | 158048 | [158048-ninja-leagues-masters-of-the-mystic-arts.json](./158048-ninja-leagues-masters-of-the-mystic-arts.json) |
 | Ninja Massacre | 75503 | [75503-ninja-massacre.json](./75503-ninja-massacre.json) |
