@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravesta Racing | 127752 | [127752-ravesta-racing.json](./127752-ravesta-racing.json) |
 | Raving Mad | 93004 | [93004-raving-mad.json](./93004-raving-mad.json) |
 | Raving Rabbids Travel in Time Browser | 83902 | [83902-raving-rabbids-travel-in-time-browser.json](./83902-raving-rabbids-travel-in-time-browser.json) |
+| Raving Rabbids: Alive and Kicking | 20221 | [20221-raving-rabbids-alive-and-kicking.json](./20221-raving-rabbids-alive-and-kicking.json) |
 | Raving Rabbids: Travel in Time | 5116 | [5116-raving-rabbids-travel-in-time.json](./5116-raving-rabbids-travel-in-time.json) |
 | Ravon | 142390 | [142390-ravon.json](./142390-ravon.json) |
 | Raw | 119581 | [119581-raw.json](./119581-raw.json) |
