@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imbalance | 197260 | [197260-imbalance.json](./197260-imbalance.json) |
 | IMG International Tour Tennis | 46207 | [46207-img-international-tour-tennis.json](./46207-img-international-tour-tennis.json) |
 | Imhotep | 47248 | [47248-imhotep.json](./47248-imhotep.json) |
+| Imhotep, Pyramid Builder | 33357 | [33357-imhotep-pyramid-builder.json](./33357-imhotep-pyramid-builder.json) |
 | Imi ga Wakaru to Kowai Shashin | 251604 | [251604-imi-ga-wakaru-to-kowai-shashin.json](./251604-imi-ga-wakaru-to-kowai-shashin.json) |
 | iMimic: 80's Vintage Electronic Memory Game | 232142 | [232142-imimic-80s-vintage-electronic-memory-game.json](./232142-imimic-80s-vintage-electronic-memory-game.json) |
 | Imitating Zombies | 189191 | [189191-imitating-zombies.json](./189191-imitating-zombies.json) |
