@@ -1178,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faye: A Tale of Shadow | 192885 | [192885-faye-a-tale-of-shadow.json](./192885-faye-a-tale-of-shadow.json) |
 | Faylinn's Quest | 173840 | [173840-faylinns-quest.json](./173840-faylinns-quest.json) |
 | FBI Mania | 30065 | [30065-fbi-mania.json](./30065-fbi-mania.json) |
+| FC 26 Quiz | 396596 | [396596-fc-26-quiz.json](./396596-fc-26-quiz.json) |
 | FC Barcelona Club Football 2005 | 267909 | [267909-fc-barcelona-club-football-2005.json](./267909-fc-barcelona-club-football-2005.json) |
 | FCK: Lille Leo Bruger Bolden | 129778 | [129778-fck-lille-leo-bruger-bolden.json](./129778-fck-lille-leo-bruger-bolden.json) |
 | FD 27: Direct Your Football Club | 402996 | [402996-fd-27-direct-your-football-club.json](./402996-fd-27-direct-your-football-club.json) |
@@ -4332,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Force | 345611 | [345611-frontier-force.json](./345611-frontier-force.json) |
 | Frontier Force Vanguard | 337478 | [337478-frontier-force-vanguard.json](./337478-frontier-force-vanguard.json) |
 | Frontier Forge | 413769 | [413769-frontier-forge.json](./413769-frontier-forge.json) |
+| Frontier Heroes | 396586 | [396586-frontier-heroes.json](./396586-frontier-heroes.json) |
 | Frontier Hunter: Costume Pack Season 3 | 265251 | [265251-frontier-hunter-costume-pack-season-3.json](./265251-frontier-hunter-costume-pack-season-3.json) |
 | Frontier Hunter: Erza's Wheel of Fortune - Deluxe Edition | 239034 | [239034-frontier-hunter-erzas-wheel-of-fortune-deluxe-edition.json](./239034-frontier-hunter-erzas-wheel-of-fortune-deluxe-edition.json) |
 | Frontier Hunter: Erza's Wheel of Fortune - Fashion | 239032 | [239032-frontier-hunter-erzas-wheel-of-fortune-fashion.json](./239032-frontier-hunter-erzas-wheel-of-fortune-fashion.json) |
