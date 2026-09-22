@@ -1543,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight For America: Complete Edition | 385199 | [385199-fight-for-america-complete-edition.json](./385199-fight-for-america-complete-edition.json) |
 | Fight For America: Country War | 245344 | [245344-fight-for-america-country-war.json](./245344-fight-for-america-country-war.json) |
 | Fight For America: Hot Edition | 395678 | [395678-fight-for-america-hot-edition.json](./395678-fight-for-america-hot-edition.json) |
+| Fight For America: Zap Edition | 399817 | [399817-fight-for-america-zap-edition.json](./399817-fight-for-america-zap-edition.json) |
 | Fight For Eden | 164989 | [164989-fight-for-eden.json](./164989-fight-for-eden.json) |
 | Fight for Eden: Heat | 253943 | [253943-fight-for-eden-heat.json](./253943-fight-for-eden-heat.json) |
 | Fight for Life | 40800 | [40800-fight-for-life.json](./40800-fight-for-life.json) |
@@ -3201,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Kicks | 231060 | [231060-football-kicks.json](./231060-football-kicks.json) |
 | Football Killer | 188096 | [188096-football-killer.json](./188096-football-killer.json) |
 | Football Legend | 59080 | [59080-football-legend.json](./59080-football-legend.json) |
+| Football Legends 2025: Diamond Edition | 399818 | [399818-football-legends-2025-diamond-edition.json](./399818-football-legends-2025-diamond-edition.json) |
 | Football Legends 2025: Gold Edition | 396917 | [396917-football-legends-2025-gold-edition.json](./396917-football-legends-2025-gold-edition.json) |
 | Football Life 2023 | 225767 | [225767-football-life-2023.json](./225767-football-life-2023.json) |
 | Football Life Simulator | 326426 | [326426-football-life-simulator.json](./326426-football-life-simulator.json) |
@@ -3527,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula One World Championship: Beyond the Limit | 5388 | [5388-formula-one-world-championship-beyond-the-limit.json](./5388-formula-one-world-championship-beyond-the-limit.json) |
 | Formula One: Built to Win | 48297 | [48297-formula-one-built-to-win.json](./48297-formula-one-built-to-win.json) |
 | Formula One: Championship Edition | 21397 | [21397-formula-one-championship-edition.json](./21397-formula-one-championship-edition.json) |
+| Formula Racing Pro 2026: GOTY Edition | 399819 | [399819-formula-racing-pro-2026-goty-edition.json](./399819-formula-racing-pro-2026-goty-edition.json) |
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
 | Formula X | 99643 | [99643-formula-x.json](./99643-formula-x.json) |
