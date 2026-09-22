@@ -1534,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FightBit | 250956 | [250956-fightbit.json](./250956-fightbit.json) |
 | FightBots | 259859 | [259859-fightbots.json](./259859-fightbots.json) |
 | Fighter Ace 3.5 | 50130 | [50130-fighter-ace-3-5.json](./50130-fighter-ace-3-5.json) |
+| Fighter Bomber | 12589 | [12589-fighter-bomber.json](./12589-fighter-bomber.json) |
 | Fighter on the Path of Glory | 293204 | [293204-fighter-on-the-path-of-glory.json](./293204-fighter-on-the-path-of-glory.json) |
 | Fighter Online | 252161 | [252161-fighter-online.json](./252161-fighter-online.json) |
 | Fighter Wing | 73784 | [73784-fighter-wing.json](./73784-fighter-wing.json) |
@@ -3042,6 +3043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Delivery Simulator | 316420 | [316420-food-delivery-simulator.json](./316420-food-delivery-simulator.json) |
 | Food Drive | 109721 | [109721-food-drive.json](./109721-food-drive.json) |
 | Food Factory VR | 127020 | [127020-food-factory-vr.json](./127020-food-factory-vr.json) |
+| Food Fight | 12325 | [12325-food-fight.json](./12325-food-fight.json) |
 | Food Fight | 316255 | [316255-food-fight.json](./316255-food-fight.json) |
 | Food Fight | 357318 | [357318-food-fight.json](./357318-food-fight.json) |
 | Food For Pigs | 235308 | [235308-food-for-pigs.json](./235308-food-for-pigs.json) |
@@ -3736,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragments | 142384 | [142384-fragments.json](./142384-fragments.json) |
 | Fragments | 381037 | [381037-fragments.json](./381037-fragments.json) |
 | Fragments of Fear | 406703 | [406703-fragments-of-fear.json](./406703-fragments-of-fear.json) |
+| Fragments of Him | 12518 | [12518-fragments-of-him.json](./12518-fragments-of-him.json) |
 | Fragments of Truth: An MCF Story | 416703 | [416703-fragments-of-truth-an-mcf-story.json](./416703-fragments-of-truth-an-mcf-story.json) |
 | Fragport | 260956 | [260956-fragport.json](./260956-fragport.json) |
 | FragPunk: Toys Awaken - Season 2: Chapter 2 | 362276 | [362276-fragpunk-toys-awaken-season-2-chapter-2.json](./362276-fragpunk-toys-awaken-season-2-chapter-2.json) |
