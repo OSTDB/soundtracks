@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insulted | 229676 | [229676-insulted.json](./229676-insulted.json) |
 | Insurgence: Chains of Renegade - Remastered | 240768 | [240768-insurgence-chains-of-renegade-remastered.json](./240768-insurgence-chains-of-renegade-remastered.json) |
 | Insurgence: Last Wishes | 235184 | [235184-insurgence-last-wishes.json](./235184-insurgence-last-wishes.json) |
+| Insurgence: Second Assault | 118796 | [118796-insurgence-second-assault.json](./118796-insurgence-second-assault.json) |
 | Insurgence: Second Assault - Remastered | 240805 | [240805-insurgence-second-assault-remastered.json](./240805-insurgence-second-assault-remastered.json) |
 | Insurgency Runner | 258485 | [258485-insurgency-runner.json](./258485-insurgency-runner.json) |
 | Insurgency: Sandstorm - Chemical Combat Gear Set | 321157 | [321157-insurgency-sandstorm-chemical-combat-gear-set.json](./321157-insurgency-sandstorm-chemical-combat-gear-set.json) |
