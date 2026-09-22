@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Paws | 105443 | [105443-garden-paws.json](./105443-garden-paws.json) |
 | Garden Pets | 233615 | [233615-garden-pets.json](./233615-garden-pets.json) |
 | Garden Simulator 2010 | 63817 | [63817-garden-simulator-2010.json](./63817-garden-simulator-2010.json) |
+| Garden Souls | 409750 | [409750-garden-souls.json](./409750-garden-souls.json) |
 | Garden Tails | 215156 | [215156-garden-tails.json](./215156-garden-tails.json) |
 | Garden Variety Body Horror | 110153 | [110153-garden-variety-body-horror.json](./110153-garden-variety-body-horror.json) |
 | Garden Warfare: Crab Invasion | 337632 | [337632-garden-warfare-crab-invasion.json](./337632-garden-warfare-crab-invasion.json) |
@@ -804,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GBox: The Puzzle Collection | 107014 | [107014-gbox-the-puzzle-collection.json](./107014-gbox-the-puzzle-collection.json) |
 | Ge-Sen Love Plus Pengo! | 61571 | [61571-ge-sen-love-plus-pengo.json](./61571-ge-sen-love-plus-pengo.json) |
 | Gear | 117687 | [117687-gear.json](./117687-gear.json) |
+| Gear Notes: Ogre Slayer | 409796 | [409796-gear-notes-ogre-slayer.json](./409796-gear-notes-ogre-slayer.json) |
 | Gear Puzzle: the inheritance of grandpa | 120943 | [120943-gear-puzzle-the-inheritance-of-grandpa.json](./120943-gear-puzzle-the-inheritance-of-grandpa.json) |
 | Gear Senshi Dendoh | 19595 | [19595-gear-senshi-dendoh.json](./19595-gear-senshi-dendoh.json) |
 | Gear Slots | 389972 | [389972-gear-slots.json](./389972-gear-slots.json) |
@@ -1632,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gliding Square | 207893 | [207893-gliding-square.json](./207893-gliding-square.json) |
 | Glight | 86559 | [86559-glight.json](./86559-glight.json) |
 | Glimby | 246412 | [246412-glimby.json](./246412-glimby.json) |
+| Glimmers of the Past | 409774 | [409774-glimmers-of-the-past.json](./409774-glimmers-of-the-past.json) |
 | Glimpo | 414380 | [414380-glimpo.json](./414380-glimpo.json) |
 | Glimpse | 235988 | [235988-glimpse.json](./235988-glimpse.json) |
 | Glimpse | 278129 | [278129-glimpse.json](./278129-glimpse.json) |
@@ -2046,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Egypt: Secrets of the Lost Kingdom | 174747 | [174747-gods-of-egypt-secrets-of-the-lost-kingdom.json](./174747-gods-of-egypt-secrets-of-the-lost-kingdom.json) |
 | Gods of Havoc: Fall to Earth | 120967 | [120967-gods-of-havoc-fall-to-earth.json](./120967-gods-of-havoc-fall-to-earth.json) |
 | Gods of Hellas VR | 190168 | [190168-gods-of-hellas-vr.json](./190168-gods-of-hellas-vr.json) |
+| Gods Play Dice | 409766 | [409766-gods-play-dice.json](./409766-gods-play-dice.json) |
 | Gods Remastered | 112099 | [112099-gods-remastered.json](./112099-gods-remastered.json) |
 | Gods Wars Ex: Vampire | 194011 | [194011-gods-wars-ex-vampire.json](./194011-gods-wars-ex-vampire.json) |
 | Gods Wars: Infinity Epic | 267462 | [267462-gods-wars-infinity-epic.json](./267462-gods-wars-infinity-epic.json) |
