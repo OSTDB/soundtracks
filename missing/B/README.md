@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baptisterio | 326615 | [326615-baptisterio.json](./326615-baptisterio.json) |
 | Baptize Billy | 96691 | [96691-baptize-billy.json](./96691-baptize-billy.json) |
 | Bar | 295367 | [295367-bar.json](./295367-bar.json) |
+| Bar Darts Simulator | 407556 | [407556-bar-darts-simulator.json](./407556-bar-darts-simulator.json) |
 | Bar Keeper | 411559 | [411559-bar-keeper.json](./411559-bar-keeper.json) |
 | Bar Oasis | 63803 | [63803-bar-oasis.json](./63803-bar-oasis.json) |
 | Bar Simulator | 407335 | [407335-bar-simulator.json](./407335-bar-simulator.json) |
@@ -1591,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleships | 193863 | [193863-battleships.json](./193863-battleships.json) |
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
 | Battleships At Dawn! | 33488 | [33488-battleships-at-dawn.json](./33488-battleships-at-dawn.json) |
+| Battleships Simulator | 407557 | [407557-battleships-simulator.json](./407557-battleships-simulator.json) |
 | BattleSide | 267477 | [267477-battleside.json](./267477-battleside.json) |
 | Battlesloths 2025: The Great Pizza Wars | 33090 | [33090-battlesloths-2025-the-great-pizza-wars.json](./33090-battlesloths-2025-the-great-pizza-wars.json) |
 | BattleSound | 151739 | [151739-battlesound.json](./151739-battlesound.json) |
@@ -3243,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade of Following | 181778 | [181778-blade-of-following.json](./181778-blade-of-following.json) |
 | Blade of God 2 | 174805 | [174805-blade-of-god-2.json](./174805-blade-of-god-2.json) |
 | Blade of Jinshu | 364573 | [364573-blade-of-jinshu.json](./364573-blade-of-jinshu.json) |
+| Blade of Mercy: Bloody Countess | 407580 | [407580-blade-of-mercy-bloody-countess.json](./407580-blade-of-mercy-bloody-countess.json) |
 | Blade of Ten | 207318 | [207318-blade-of-ten.json](./207318-blade-of-ten.json) |
 | Blade of the Overlord | 362879 | [362879-blade-of-the-overlord.json](./362879-blade-of-the-overlord.json) |
 | Blade of Tsunami | 258532 | [258532-blade-of-tsunami.json](./258532-blade-of-tsunami.json) |
@@ -3901,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloomers 2000 | 270690 | [270690-bloomers-2000.json](./270690-bloomers-2000.json) |
 | Bloomies | 175427 | [175427-bloomies.json](./175427-bloomies.json) |
 | Bloomies | 388722 | [388722-bloomies.json](./388722-bloomies.json) |
+| Blooming Ashes | 407540 | [407540-blooming-ashes.json](./407540-blooming-ashes.json) |
 | Blooming Business: Casino | 151543 | [151543-blooming-business-casino.json](./151543-blooming-business-casino.json) |
 | Blooming Cards | 377054 | [377054-blooming-cards.json](./377054-blooming-cards.json) |
 | Blooms | 202241 | [202241-blooms.json](./202241-blooms.json) |
