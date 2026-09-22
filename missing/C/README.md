@@ -1595,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavern Commandos | 171458 | [171458-cavern-commandos.json](./171458-cavern-commandos.json) |
 | Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
 | Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
+| Cavern of Mourning | 397254 | [397254-cavern-of-mourning.json](./397254-cavern-of-mourning.json) |
 | Cavernous Wastes | 55872 | [55872-cavernous-wastes.json](./55872-cavernous-wastes.json) |
 | Caverns | 235753 | [235753-caverns.json](./235753-caverns.json) |
 | Caverns of Callisto | 24990 | [24990-caverns-of-callisto.json](./24990-caverns-of-callisto.json) |
@@ -3546,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CloudCity VR | 50518 | [50518-cloudcity-vr.json](./50518-cloudcity-vr.json) |
 | Cloudheim | 330328 | [330328-cloudheim.json](./330328-cloudheim.json) |
 | Cloudlings | 404925 | [404925-cloudlings.json](./404925-cloudlings.json) |
+| CloudNovel Breakdown!! | 397227 | [397227-cloudnovel-breakdown.json](./397227-cloudnovel-breakdown.json) |
 | Cloudpaws | 403694 | [403694-cloudpaws.json](./403694-cloudpaws.json) |
 | Cloudpunk | 111837 | [111837-cloudpunk.json](./111837-cloudpunk.json) |
 | Clouds & Sheep | 255732 | [255732-clouds-and-sheep.json](./255732-clouds-and-sheep.json) |
@@ -3976,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Cingdom | 334788 | [334788-color-cingdom.json](./334788-color-cingdom.json) |
 | Color Clash | 93980 | [93980-color-clash.json](./93980-color-clash.json) |
 | Color Computer Games #1 | 71247 | [71247-color-computer-games-1.json](./71247-color-computer-games-1.json) |
+| Color Connect | 397235 | [397235-color-connect.json](./397235-color-connect.json) |
 | Color Course | 185528 | [185528-color-course.json](./185528-color-course.json) |
 | Color Cube | 172053 | [172053-color-cube.json](./172053-color-cube.json) |
 | Color Cube Spin | 28845 | [28845-color-cube-spin.json](./28845-color-cube-spin.json) |
@@ -4757,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie & Bibi 3 | 39643 | [39643-cookie-and-bibi-3.json](./39643-cookie-and-bibi-3.json) |
 | Cookie Baker | 106361 | [106361-cookie-baker.json](./106361-cookie-baker.json) |
 | Cookie Clicker | 215855 | [215855-cookie-clicker.json](./215855-cookie-clicker.json) |
+| Cookie Clicker PSP | 397263 | [397263-cookie-clicker-psp.json](./397263-cookie-clicker-psp.json) |
 | Cookie Game | 266299 | [266299-cookie-game.json](./266299-cookie-game.json) |
 | Cookie Match: Enhanced Edition | 232451 | [232451-cookie-match-enhanced-edition.json](./232451-cookie-match-enhanced-edition.json) |
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
@@ -6178,6 +6182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader: Dungeon Series | 197273 | [197273-crusader-dungeon-series.json](./197273-crusader-dungeon-series.json) |
 | Crusader: No Remorse | 207101 | [207101-crusader-no-remorse.json](./207101-crusader-no-remorse.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
+| Crusaders Quest: Hero Town | 397208 | [397208-crusaders-quest-hero-town.json](./397208-crusaders-quest-hero-town.json) |
 | CrusaDoom | 310608 | [310608-crusadoom.json](./310608-crusadoom.json) |
 | Crush | 6753 | [6753-crush.json](./6753-crush.json) |
 | Crush & Squash | 75805 | [75805-crush-and-squash.json](./75805-crush-and-squash.json) |
