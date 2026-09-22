@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odin Sphere | 9110 | [9110-odin-sphere.json](./9110-odin-sphere.json) |
 | Odin's Ring | 213443 | [213443-odins-ring.json](./213443-odins-ring.json) |
 | Odo Odo Oddity | 143676 | [143676-odo-odo-oddity.json](./143676-odo-odo-oddity.json) |
+| Odonata Augmenta: Rogue Dragonfly | 415314 | [415314-odonata-augmenta-rogue-dragonfly.json](./415314-odonata-augmenta-rogue-dragonfly.json) |
 | Odysseus Kosmos and his Robot Quest | 65838 | [65838-odysseus-kosmos-and-his-robot-quest.json](./65838-odysseus-kosmos-and-his-robot-quest.json) |
 | Odyssey of the Explorer | 302108 | [302108-odyssey-of-the-explorer.json](./302108-odyssey-of-the-explorer.json) |
 | Odyssey: Altar of Norax | 191159 | [191159-odyssey-altar-of-norax.json](./191159-odyssey-altar-of-norax.json) |
@@ -721,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Pixels: A Lights Out Game | 172175 | [172175-on-pixels-a-lights-out-game.json](./172175-on-pixels-a-lights-out-game.json) |
 | On Rusty Trails | 19479 | [19479-on-rusty-trails.json](./19479-on-rusty-trails.json) |
 | On S’en Grille Une? | 386879 | [386879-on-s-en-grille-une.json](./386879-on-s-en-grille-une.json) |
+| On Streaming | 415261 | [415261-on-streaming.json](./415261-on-streaming.json) |
 | On Sunday | 209642 | [209642-on-sunday.json](./209642-on-sunday.json) |
 | On Sunday 2 | 317212 | [317212-on-sunday-2.json](./317212-on-sunday-2.json) |
 | On Target | 69850 | [69850-on-target.json](./69850-on-target.json) |
@@ -1584,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otome Chat Connection | 199051 | [199051-otome-chat-connection.json](./199051-otome-chat-connection.json) |
 | Otome ga Musubu Tsukiyo no Kirameki | 194593 | [194593-otome-ga-musubu-tsukiyo-no-kirameki.json](./194593-otome-ga-musubu-tsukiyo-no-kirameki.json) |
 | Otome Games: Is It Love? Ryan | 105778 | [105778-otome-games-is-it-love-ryan.json](./105778-otome-games-is-it-love-ryan.json) |
+| Otome Kishi: Ima Sugu Watashi wo Dakishimete | 415321 | [415321-otome-kishi-ima-sugu-watashi-wo-dakishimete.json](./415321-otome-kishi-ima-sugu-watashi-wo-dakishimete.json) |
 | Otome no Himitsu | 188526 | [188526-otome-no-himitsu.json](./188526-otome-no-himitsu.json) |
 | Otome Senki | 304733 | [304733-otome-senki.json](./304733-otome-senki.json) |
 | Otome the Exorcist | 158045 | [158045-otome-the-exorcist.json](./158045-otome-the-exorcist.json) |
@@ -1728,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out, Damned Spot! | 112321 | [112321-out-damned-spot.json](./112321-out-damned-spot.json) |
 | Outatime | 215913 | [215913-outatime.json](./215913-outatime.json) |
 | Outback Joey | 281554 | [281554-outback-joey.json](./281554-outback-joey.json) |
+| Outblight | 415325 | [415325-outblight.json](./415325-outblight.json) |
 | Outbound: School Bus Adventures | 401492 | [401492-outbound-school-bus-adventures.json](./401492-outbound-school-bus-adventures.json) |
 | Outbreak | 26909 | [26909-outbreak.json](./26909-outbreak.json) |
 | Outbreak | 377163 | [377163-outbreak.json](./377163-outbreak.json) |
