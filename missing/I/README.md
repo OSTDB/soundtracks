@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Boy Steam Edition | 112930 | [112930-indiana-boy-steam-edition.json](./112930-indiana-boy-steam-edition.json) |
 | Indiana Jones and The Great Circle: Collector's Edition | 317816 | [317816-indiana-jones-and-the-great-circle-collectors-edition.json](./317816-indiana-jones-and-the-great-circle-collectors-edition.json) |
 | Indiana Jones and The Great Circle: Premium Edition | 317815 | [317815-indiana-jones-and-the-great-circle-premium-edition.json](./317815-indiana-jones-and-the-great-circle-premium-edition.json) |
+| Indiana Jones and the Great Circle: The Order of Giants | 321852 | [321852-indiana-jones-and-the-great-circle-the-order-of-giants.json](./321852-indiana-jones-and-the-great-circle-the-order-of-giants.json) |
 | Indiana Jones and the Last Crusade: The Action Game | 185 | [185-indiana-jones-and-the-last-crusade-the-action-game.json](./185-indiana-jones-and-the-last-crusade-the-action-game.json) |
 | Indiana Jones and the Lost Puzzles | 61042 | [61042-indiana-jones-and-the-lost-puzzles.json](./61042-indiana-jones-and-the-lost-puzzles.json) |
 | Indiana Jones and the Staff of Kings | 329026 | [329026-indiana-jones-and-the-staff-of-kings.json](./329026-indiana-jones-and-the-staff-of-kings.json) |
@@ -1942,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iratus: Necromancer Edition | 154555 | [154555-iratus-necromancer-edition.json](./154555-iratus-necromancer-edition.json) |
 | Irbot | 233212 | [233212-irbot.json](./233212-irbot.json) |
 | Irem Arcade 1 | 214546 | [214546-irem-arcade-1.json](./214546-irem-arcade-1.json) |
+| Irem Collection: Volume 2 | 321846 | [321846-irem-collection-volume-2.json](./321846-irem-collection-volume-2.json) |
 | Irem Collection: Volume 3 | 342246 | [342246-irem-collection-volume-3.json](./342246-irem-collection-volume-3.json) |
 | Irene: Journey To The North | 335071 | [335071-irene-journey-to-the-north.json](./335071-irene-journey-to-the-north.json) |
 | Irheobeorin Jeguk | 145580 | [145580-irheobeorin-jeguk.json](./145580-irheobeorin-jeguk.json) |
