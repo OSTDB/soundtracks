@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Heroes: Rise of the Black Alliance | 274559 | [274559-galactic-heroes-rise-of-the-black-alliance.json](./274559-galactic-heroes-rise-of-the-black-alliance.json) |
 | Galactic Invasion | 187502 | [187502-galactic-invasion.json](./187502-galactic-invasion.json) |
 | Galactic Junk League | 26782 | [26782-galactic-junk-league.json](./26782-galactic-junk-league.json) |
+| Galactic Keep | 29594 | [29594-galactic-keep.json](./29594-galactic-keep.json) |
 | Galactic Lander | 109676 | [109676-galactic-lander.json](./109676-galactic-lander.json) |
 | Galactic Loader | 324304 | [324304-galactic-loader.json](./324304-galactic-loader.json) |
 | Galactic Lords | 75174 | [75174-galactic-lords.json](./75174-galactic-lords.json) |
@@ -1873,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal! Goal! Goal! | 39549 | [39549-goal-goal-goal.json](./39549-goal-goal-goal.json) |
 | Goal!! | 196270 | [196270-goal.json](./196270-goal.json) |
 | Goalgetter | 159803 | [159803-goalgetter.json](./159803-goalgetter.json) |
+| Goalie Challenge VR | 29567 | [29567-goalie-challenge-vr.json](./29567-goalie-challenge-vr.json) |
 | Goalie VR | 67936 | [67936-goalie-vr.json](./67936-goalie-vr.json) |
 | GoalkeepVr | 29946 | [29946-goalkeepvr.json](./29946-goalkeepvr.json) |
 | goalunited PRO | 29778 | [29778-goalunited-pro.json](./29778-goalunited-pro.json) |
