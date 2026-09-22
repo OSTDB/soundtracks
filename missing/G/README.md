@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Express | 381041 | [381041-galactic-express.json](./381041-galactic-express.json) |
 | Galactic Field | 336906 | [336906-galactic-field.json](./336906-galactic-field.json) |
 | Galactic Foodtruck Simulator 2999 | 281412 | [281412-galactic-foodtruck-simulator-2999.json](./281412-galactic-foodtruck-simulator-2999.json) |
+| Galactic Force | 81682 | [81682-galactic-force.json](./81682-galactic-force.json) |
 | Galactic Frontier | 190134 | [190134-galactic-frontier.json](./190134-galactic-frontier.json) |
 | Galactic Gardener | 313101 | [313101-galactic-gardener.json](./313101-galactic-gardener.json) |
 | Galactic Gardener | 377587 | [377587-galactic-gardener.json](./377587-galactic-gardener.json) |
@@ -3169,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia Phantom Trigger 01&02 | 147935 | [147935-grisaia-phantom-trigger-01-and-02.json](./147935-grisaia-phantom-trigger-01-and-02.json) |
 | Grisaia Phantom Trigger 5.5 to 08 | 251593 | [251593-grisaia-phantom-trigger-5-5-to-08.json](./251593-grisaia-phantom-trigger-5-5-to-08.json) |
 | Grisaia Phantom Trigger Vol.3 | 43085 | [43085-grisaia-phantom-trigger-vol-3.json](./43085-grisaia-phantom-trigger-vol-3.json) |
+| Grisaia Phantom Trigger Vol.4 | 81678 | [81678-grisaia-phantom-trigger-vol-4.json](./81678-grisaia-phantom-trigger-vol-4.json) |
 | Grisaia Phantom Trigger Vol.5 | 104391 | [104391-grisaia-phantom-trigger-vol-5.json](./104391-grisaia-phantom-trigger-vol-5.json) |
 | Grisaia Phantom Trigger Vol.7 | 135819 | [135819-grisaia-phantom-trigger-vol-7.json](./135819-grisaia-phantom-trigger-vol-7.json) |
 | Grisaia: Phantom Trigger Vol. 8 | 191896 | [191896-grisaia-phantom-trigger-vol-8.json](./191896-grisaia-phantom-trigger-vol-8.json) |
@@ -3725,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslingers of the Wasteland vs. The Zombies from Mars | 170503 | [170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json](./170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json) |
 | Gunslugs 2 | 35977 | [35977-gunslugs-2.json](./35977-gunslugs-2.json) |
 | Gunsmith | 355085 | [355085-gunsmith.json](./355085-gunsmith.json) |
+| Gunsmith | 81232 | [81232-gunsmith.json](./81232-gunsmith.json) |
 | Gunsmith Simulator | 133405 | [133405-gunsmith-simulator.json](./133405-gunsmith-simulator.json) |
 | GunSoul Girl 2 | 213000 | [213000-gunsoul-girl-2.json](./213000-gunsoul-girl-2.json) |
 | Gunspell | 54071 | [54071-gunspell.json](./54071-gunspell.json) |
