@@ -1911,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's a Thing | 344942 | [344942-thats-a-thing.json](./344942-thats-a-thing.json) |
 | That's How Sumireko's Roach Stomping Mafia Works | 123593 | [123593-thats-how-sumirekos-roach-stomping-mafia-works.json](./123593-thats-how-sumirekos-roach-stomping-mafia-works.json) |
 | That's My Tofu | 391188 | [391188-thats-my-tofu.json](./391188-thats-my-tofu.json) |
+| That's My Village! | 417639 | [417639-thats-my-village.json](./417639-thats-my-village.json) |
 | That's Not How it Happened | 209131 | [209131-thats-not-how-it-happened.json](./209131-thats-not-how-it-happened.json) |
 | That's So Raven | 49407 | [49407-thats-so-raven.json](./49407-thats-so-raven.json) |
 | That's So Raven 2: Supernatural Style | 49406 | [49406-thats-so-raven-2-supernatural-style.json](./49406-thats-so-raven-2-supernatural-style.json) |
@@ -6828,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zachtronics Solitaire Collection | 214973 | [214973-the-zachtronics-solitaire-collection.json](./214973-the-zachtronics-solitaire-collection.json) |
 | The Zen of Kayaking | 304730 | [304730-the-zen-of-kayaking.json](./304730-the-zen-of-kayaking.json) |
 | The Zero Dome | 72349 | [72349-the-zero-dome.json](./72349-the-zero-dome.json) |
+| The Zium Railway | 417676 | [417676-the-zium-railway.json](./417676-the-zium-railway.json) |
 | The Zodiac Mystery | 392122 | [392122-the-zodiac-mystery.json](./392122-the-zodiac-mystery.json) |
 | The Zombie Fortress | 327861 | [327861-the-zombie-fortress.json](./327861-the-zombie-fortress.json) |
 | The Zombie Shotgun Massacre 2 | 54705 | [54705-the-zombie-shotgun-massacre-2.json](./54705-the-zombie-shotgun-massacre-2.json) |
@@ -9138,6 +9140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Arcade Racing | 132563 | [132563-total-arcade-racing.json](./132563-total-arcade-racing.json) |
 | Total Battle | 112718 | [112718-total-battle.json](./112718-total-battle.json) |
 | Total Chaos | 301071 | [301071-total-chaos.json](./301071-total-chaos.json) |
+| Total Destruction 2Dee | 417712 | [417712-total-destruction-2dee.json](./417712-total-destruction-2dee.json) |
 | Total Driftin': Touge Dreams | 351713 | [351713-total-driftin-touge-dreams.json](./351713-total-driftin-touge-dreams.json) |
 | Total Drivin | 44871 | [44871-total-drivin.json](./44871-total-drivin.json) |
 | Total Esports Action Manager | 117036 | [117036-total-esports-action-manager.json](./117036-total-esports-action-manager.json) |
