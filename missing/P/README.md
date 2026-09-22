@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pagans Must Die | 116853 | [116853-pagans-must-die.json](./116853-pagans-must-die.json) |
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
 | Pagui | 124178 | [124178-pagui.json](./124178-pagui.json) |
+| Pahelika: Revelations HD | 36164 | [36164-pahelika-revelations-hd.json](./36164-pahelika-revelations-hd.json) |
 | Pahtkest! | 382342 | [382342-pahtkest.json](./382342-pahtkest.json) |
 | Paid by Blood | 409688 | [409688-paid-by-blood.json](./409688-paid-by-blood.json) |
 | Paid in Blood | 392268 | [392268-paid-in-blood.json](./392268-paid-in-blood.json) |
@@ -2586,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates: Legend of the Black Buccaneer | 11286 | [11286-pirates-legend-of-the-black-buccaneer.json](./11286-pirates-legend-of-the-black-buccaneer.json) |
 | Pirates: Mystery of the Skeletons Island | 133425 | [133425-pirates-mystery-of-the-skeletons-island.json](./133425-pirates-mystery-of-the-skeletons-island.json) |
 | Pirates! Gold | 9232 | [9232-pirates-gold.json](./9232-pirates-gold.json) |
+| Pirates! Gold Plus | 36216 | [36216-pirates-gold-plus.json](./36216-pirates-gold-plus.json) |
 | Pirates! Showdown: Enhanced Edition | 289318 | [289318-pirates-showdown-enhanced-edition.json](./289318-pirates-showdown-enhanced-edition.json) |
 | PirateWar | 312156 | [312156-piratewar.json](./312156-piratewar.json) |
 | Pisces | 109444 | [109444-pisces.json](./109444-pisces.json) |
@@ -4516,6 +4518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistoric Safari | 109452 | [109452-prehistoric-safari.json](./109452-prehistoric-safari.json) |
 | Prehistorik | 10717 | [10717-prehistorik.json](./10717-prehistorik.json) |
 | Prehistorik Man | 159266 | [159266-prehistorik-man.json](./159266-prehistorik-man.json) |
+| Prelogate | 36151 | [36151-prelogate.json](./36151-prelogate.json) |
 | Prelude Gardens | 395576 | [395576-prelude-gardens.json](./395576-prelude-gardens.json) |
 | Premier Action | 70915 | [70915-premier-action.json](./70915-premier-action.json) |
 | Premier Action Soccer | 49356 | [49356-premier-action-soccer.json](./49356-premier-action-soccer.json) |
