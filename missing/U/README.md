@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubergridder | 92521 | [92521-ubergridder.json](./92521-ubergridder.json) |
 | Ubermensch | 293649 | [293649-ubermensch.json](./293649-ubermensch.json) |
 | Ubermosh Vol.3 | 31669 | [31669-ubermosh-vol-3.json](./31669-ubermosh-vol-3.json) |
+| Ubermosh Vol.5 | 38808 | [38808-ubermosh-vol-5.json](./38808-ubermosh-vol-5.json) |
 | Ubermosh: Black | 33464 | [33464-ubermosh-black.json](./33464-ubermosh-black.json) |
 | Uberslaughter | 266308 | [266308-uberslaughter.json](./266308-uberslaughter.json) |
 | Ubik | 44852 | [44852-ubik.json](./44852-ubik.json) |
@@ -935,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal | 12806 | [12806-unreal.json](./12806-unreal.json) |
 | Unreal Championship | 6220 | [6220-unreal-championship.json](./6220-unreal-championship.json) |
 | Unreal Drift Online Car Racing | 174891 | [174891-unreal-drift-online-car-racing.json](./174891-unreal-drift-online-car-racing.json) |
+| Unreal Estate | 44103 | [44103-unreal-estate.json](./44103-unreal-estate.json) |
 | Unreal Evolution | 136489 | [136489-unreal-evolution.json](./136489-unreal-evolution.json) |
 | Unreal Flash | 235242 | [235242-unreal-flash.json](./235242-unreal-flash.json) |
 | Unreal Flash 2007 | 234155 | [234155-unreal-flash-2007.json](./234155-unreal-flash-2007.json) |
