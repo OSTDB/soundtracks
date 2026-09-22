@@ -2837,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Barrage | 13696 | [13696-birdie-barrage.json](./13696-birdie-barrage.json) |
 | Birdie Blitz | 406787 | [406787-birdie-blitz.json](./406787-birdie-blitz.json) |
 | Birdie Burglars | 176966 | [176966-birdie-burglars.json](./176966-birdie-burglars.json) |
+| Birdie Golf | 89783 | [89783-birdie-golf.json](./89783-birdie-golf.json) |
 | Birdie Up | 334084 | [334084-birdie-up.json](./334084-birdie-up.json) |
 | Birdiy | 38592 | [38592-birdiy.json](./38592-birdiy.json) |
 | Birdland | 20339 | [20339-birdland.json](./20339-birdland.json) |
@@ -3556,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Puzzle | 248639 | [248639-block-puzzle.json](./248639-block-puzzle.json) |
 | Block Puzzle | 318053 | [318053-block-puzzle.json](./318053-block-puzzle.json) |
 | Block Puzzle 1010 | 227506 | [227506-block-puzzle-1010.json](./227506-block-puzzle-1010.json) |
+| Block Puzzle Wood | 90538 | [90538-block-puzzle-wood.json](./90538-block-puzzle-wood.json) |
 | Block Puzzle: Star Finder | 103165 | [103165-block-puzzle-star-finder.json](./103165-block-puzzle-star-finder.json) |
 | Block Quest V | 61556 | [61556-block-quest-v.json](./61556-block-quest-v.json) |
 | Block Rocking Beats | 37380 | [37380-block-rocking-beats.json](./37380-block-rocking-beats.json) |
@@ -4001,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat House | 313352 | [313352-boat-house.json](./313352-boat-house.json) |
 | Boat Prom | 141015 | [141015-boat-prom.json](./141015-boat-prom.json) |
 | Boat Rescue Simulator Mobile | 228116 | [228116-boat-rescue-simulator-mobile.json](./228116-boat-rescue-simulator-mobile.json) |
+| Boat Sim Elite | 90595 | [90595-boat-sim-elite.json](./90595-boat-sim-elite.json) |
 | Boat Simulator | 231082 | [231082-boat-simulator.json](./231082-boat-simulator.json) |
 | Boat Train | 227867 | [227867-boat-train.json](./227867-boat-train.json) |
 | Boat Violence: Ship Happens | 122197 | [122197-boat-violence-ship-happens.json](./122197-boat-violence-ship-happens.json) |
@@ -4519,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Börnies Journey | 164506 | [164506-bornies-journey.json](./164506-bornies-journey.json) |
 | Borobodur: The Planet of Doom | 14334 | [14334-borobodur-the-planet-of-doom.json](./14334-borobodur-the-planet-of-doom.json) |
 | Borodino | 14335 | [14335-borodino.json](./14335-borodino.json) |
+| Boros | 90455 | [90455-boros.json](./90455-boros.json) |
 | Borrowed Book | 314071 | [314071-borrowed-book.json](./314071-borrowed-book.json) |
 | Borrowed Time | 12259 | [12259-borrowed-time.json](./12259-borrowed-time.json) |
 | Borstal | 33241 | [33241-borstal.json](./33241-borstal.json) |
