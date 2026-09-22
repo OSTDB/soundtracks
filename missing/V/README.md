@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varenje: Don't Touch The Berries | 271501 | [271501-varenje-dont-touch-the-berries.json](./271501-varenje-dont-touch-the-berries.json) |
 | VargFren Mash | 135180 | [135180-vargfren-mash.json](./135180-vargfren-mash.json) |
 | Vari Dungeon | 220869 | [220869-vari-dungeon.json](./220869-vari-dungeon.json) |
+| Variable Barricade | 69345 | [69345-variable-barricade.json](./69345-variable-barricade.json) |
 | Variables 2 | 169399 | [169399-variables-2.json](./169399-variables-2.json) |
 | Variant: Limits | 69317 | [69317-variant-limits.json](./69317-variant-limits.json) |
 | Varicella | 9519 | [9519-varicella.json](./9519-varicella.json) |
