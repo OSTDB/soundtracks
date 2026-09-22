@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatate-chan no Joshi Ryoku Training! | 403040 | [403040-hatate-chan-no-joshi-ryoku-training.json](./403040-hatate-chan-no-joshi-ryoku-training.json) |
 | Hatch | 314491 | [314491-hatch.json](./314491-hatch.json) |
 | Hatch Catch | 40175 | [40175-hatch-catch.json](./40175-hatch-catch.json) |
+| Hatch Tales: A Heroic Hookshot Adventure | 319936 | [319936-hatch-tales-a-heroic-hookshot-adventure.json](./319936-hatch-tales-a-heroic-hookshot-adventure.json) |
 | Hatchling | 182511 | [182511-hatchling.json](./182511-hatchling.json) |
 | Hatchling's Adventure | 180785 | [180785-hatchlings-adventure.json](./180785-hatchlings-adventure.json) |
 | Hatchpunk | 143729 | [143729-hatchpunk.json](./143729-hatchpunk.json) |
@@ -1225,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven & Hell | 113031 | [113031-heaven-and-hell.json](./113031-heaven-and-hell.json) |
 | Heaven & Hell 2 | 114375 | [114375-heaven-and-hell-2.json](./114375-heaven-and-hell-2.json) |
 | Heaven And Hell: The Last War | 111713 | [111713-heaven-and-hell-the-last-war.json](./111713-heaven-and-hell-the-last-war.json) |
+| Heaven Dust Collection | 317215 | [317215-heaven-dust-collection.json](./317215-heaven-dust-collection.json) |
 | Heaven Impact | 301001 | [301001-heaven-impact.json](./301001-heaven-impact.json) |
 | Heaven Keepers | 192941 | [192941-heaven-keepers.json](./192941-heaven-keepers.json) |
 | Heaven Knows You | 208395 | [208395-heaven-knows-you.json](./208395-heaven-knows-you.json) |
@@ -2716,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hired Team: Trial Gold | 73849 | [73849-hired-team-trial-gold.json](./73849-hired-team-trial-gold.json) |
 | Hiro's Harvest Season | 76532 | [76532-hiros-harvest-season.json](./76532-hiros-harvest-season.json) |
 | Hirocato: The Delivery Hero | 253934 | [253934-hirocato-the-delivery-hero.json](./253934-hirocato-the-delivery-hero.json) |
+| Hirogami | 317871 | [317871-hirogami.json](./317871-hirogami.json) |
 | Hiromechia | 363935 | [363935-hiromechia.json](./363935-hiromechia.json) |
 | Hiryuu no Ken II: Dragon no Tsubasa | 64447 | [64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json](./64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json) |
 | His Majesty's Ship Impetuous | 55838 | [55838-his-majestys-ship-impetuous.json](./55838-his-majestys-ship-impetuous.json) |
@@ -2793,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman World of Assassination | 233571 | [233571-hitman-world-of-assassination.json](./233571-hitman-world-of-assassination.json) |
 | Hitman World of Assassination: 25th Anniversary Edition | 347699 | [347699-hitman-world-of-assassination-25th-anniversary-edition.json](./347699-hitman-world-of-assassination-25th-anniversary-edition.json) |
 | Hitman World of Assassination: Bruce Lee | 370132 | [370132-hitman-world-of-assassination-bruce-lee.json](./370132-hitman-world-of-assassination-bruce-lee.json) |
+| Hitman World of Assassination: VR Access | 317632 | [317632-hitman-world-of-assassination-vr-access.json](./317632-hitman-world-of-assassination-vr-access.json) |
 | Hitman: Blood Money HD | 99816 | [99816-hitman-blood-money-hd.json](./99816-hitman-blood-money-hd.json) |
 | Hitman: Collector's Edition | 41619 | [41619-hitman-collectors-edition.json](./41619-hitman-collectors-edition.json) |
 | Hitman: Episode 5 - Colorado | 91024 | [91024-hitman-episode-5-colorado.json](./91024-hitman-episode-5-colorado.json) |
@@ -4011,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Giraffe | 20808 | [20808-hungry-giraffe.json](./20808-hungry-giraffe.json) |
 | Hungry Hearts Diner 2: Moonlit Memories | 172603 | [172603-hungry-hearts-diner-2-moonlit-memories.json](./172603-hungry-hearts-diner-2-moonlit-memories.json) |
 | Hungry Horace | 12954 | [12954-hungry-horace.json](./12954-hungry-horace.json) |
+| Hungry Horrors | 315343 | [315343-hungry-horrors.json](./315343-hungry-horrors.json) |
 | Hungry Humphrey: Eat The World | 275612 | [275612-hungry-humphrey-eat-the-world.json](./275612-hungry-humphrey-eat-the-world.json) |
 | Hungry Knight! | 128651 | [128651-hungry-knight.json](./128651-hungry-knight.json) |
 | Hungry Lamu | 219023 | [219023-hungry-lamu.json](./219023-hungry-lamu.json) |
