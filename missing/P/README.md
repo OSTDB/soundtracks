@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathologic 3: Quarantine | 326595 | [326595-pathologic-3-quarantine.json](./326595-pathologic-3-quarantine.json) |
 | Pathological | 74085 | [74085-pathological.json](./74085-pathological.json) |
 | Pathology | 79606 | [79606-pathology.json](./79606-pathology.json) |
+| Pathotaxia: Pandora | 399211 | [399211-pathotaxia-pandora.json](./399211-pathotaxia-pandora.json) |
 | PathPix | 62462 | [62462-pathpix.json](./62462-pathpix.json) |
 | PathPix Alice | 102614 | [102614-pathpix-alice.json](./102614-pathpix-alice.json) |
 | PathPix Bubble | 96533 | [96533-pathpix-bubble.json](./96533-pathpix-bubble.json) |
@@ -5753,6 +5754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Kick Duck | 231911 | [231911-punch-kick-duck.json](./231911-punch-kick-duck.json) |
 | Punch Line: Cheermancy Edition | 105109 | [105109-punch-line-cheermancy-edition.json](./105109-punch-line-cheermancy-edition.json) |
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
+| Punch Upon a Time | 399204 | [399204-punch-upon-a-time.json](./399204-punch-upon-a-time.json) |
 | Punch-Out!! | 2194 | [2194-punch-out.json](./2194-punch-out.json) |
 | Punch! | 321956 | [321956-punch.json](./321956-punch.json) |
 | Punch'Em Up | 307605 | [307605-punchem-up.json](./307605-punchem-up.json) |
