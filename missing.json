@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T20:33:21.197Z",
-  "total_missing": 108077,
+  "generated_at": "2026-09-22T20:48:06.697Z",
+  "total_missing": 108127,
   "games": [
     {
       "igdb_id": 176875,
@@ -2766,6 +2766,11 @@
       "igdb_id": 221208,
       "game_name": "3 Seasons",
       "file": "missing/0-9/221208-3-seasons.json"
+    },
+    {
+      "igdb_id": 399851,
+      "game_name": "3 Sheep Puzzle",
+      "file": "missing/0-9/399851-3-sheep-puzzle.json"
     },
     {
       "igdb_id": 9933,
@@ -39073,6 +39078,11 @@
       "file": "missing/B/68654-basement.json"
     },
     {
+      "igdb_id": 399857,
+      "game_name": "Basement Breakout",
+      "file": "missing/B/399857-basement-breakout.json"
+    },
+    {
       "igdb_id": 19916,
       "game_name": "Basement Crawl",
       "file": "missing/B/19916-basement-crawl.json"
@@ -57818,6 +57828,11 @@
       "file": "missing/B/396914-bowling-fever-grand-edition.json"
     },
     {
+      "igdb_id": 399811,
+      "game_name": "Bowling Fever: Power Edition",
+      "file": "missing/B/399811-bowling-fever-power-edition.json"
+    },
+    {
       "igdb_id": 234616,
       "game_name": "Bowling Islands",
       "file": "missing/B/234616-bowling-islands.json"
@@ -62608,6 +62623,11 @@
       "file": "missing/B/34814-build-a-game-universe.json"
     },
     {
+      "igdb_id": 399812,
+      "game_name": "Build A Queen: Pirate Edition",
+      "file": "missing/B/399812-build-a-queen-pirate-edition.json"
+    },
+    {
       "igdb_id": 100728,
       "game_name": "Build A Train 2",
       "file": "missing/B/100728-build-a-train-2.json"
@@ -63346,6 +63366,11 @@
       "igdb_id": 265671,
       "game_name": "Bun 'N' Gun",
       "file": "missing/B/265671-bun-n-gun.json"
+    },
+    {
+      "igdb_id": 399813,
+      "game_name": "Bun Buns: Complete Edition",
+      "file": "missing/B/399813-bun-buns-complete-edition.json"
     },
     {
       "igdb_id": 395688,
@@ -88988,6 +89013,11 @@
       "file": "missing/C/308810-cooking-arena-sushi-master.json"
     },
     {
+      "igdb_id": 399814,
+      "game_name": "Cooking Arena: Value Edition",
+      "file": "missing/C/399814-cooking-arena-value-edition.json"
+    },
+    {
       "igdb_id": 119017,
       "game_name": "Cooking Champions",
       "file": "missing/C/119017-cooking-champions.json"
@@ -89071,6 +89101,11 @@
       "igdb_id": 227475,
       "game_name": "Cooking Truck",
       "file": "missing/C/227475-cooking-truck.json"
+    },
+    {
+      "igdb_id": 399815,
+      "game_name": "Cooking Tycoons - 3 in 1 Bundle Upgrade Edition",
+      "file": "missing/C/399815-cooking-tycoons-3-in-1-bundle-upgrade-edition.json"
     },
     {
       "igdb_id": 231045,
@@ -98878,6 +98913,11 @@
       "file": "missing/C/390510-cute-and-cozy-5-in-1.json"
     },
     {
+      "igdb_id": 399816,
+      "game_name": "Cute & Cozy Farm 5-in-1",
+      "file": "missing/C/399816-cute-and-cozy-farm-5-in-1.json"
+    },
+    {
       "igdb_id": 114323,
       "game_name": "Cute Adventure",
       "file": "missing/C/114323-cute-adventure.json"
@@ -104586,6 +104626,11 @@
       "igdb_id": 260146,
       "game_name": "Data.Expand",
       "file": "missing/D/260146-data-expand.json"
+    },
+    {
+      "igdb_id": 399848,
+      "game_name": "Database Detective: Minor Crimes Division",
+      "file": "missing/D/399848-database-detective-minor-crimes-division.json"
     },
     {
       "igdb_id": 327855,
@@ -117996,6 +118041,11 @@
       "igdb_id": 143652,
       "game_name": "Dispersio 2",
       "file": "missing/D/143652-dispersio-2.json"
+    },
+    {
+      "igdb_id": 399835,
+      "game_name": "Dispersion Storm",
+      "file": "missing/D/399835-dispersion-storm.json"
     },
     {
       "igdb_id": 28939,
@@ -141058,6 +141108,11 @@
       "file": "missing/E/178685-error-0-new-world-found.json"
     },
     {
+      "igdb_id": 399833,
+      "game_name": "Error 2351",
+      "file": "missing/E/399833-error-2351.json"
+    },
+    {
       "igdb_id": 325654,
       "game_name": "Error Codes",
       "file": "missing/E/325654-error-codes.json"
@@ -154713,6 +154768,11 @@
       "file": "missing/F/395678-fight-for-america-hot-edition.json"
     },
     {
+      "igdb_id": 399817,
+      "game_name": "Fight For America: Zap Edition",
+      "file": "missing/F/399817-fight-for-america-zap-edition.json"
+    },
+    {
       "igdb_id": 164989,
       "game_name": "Fight For Eden",
       "file": "missing/F/164989-fight-for-eden.json"
@@ -163003,6 +163063,11 @@
       "file": "missing/F/59080-football-legend.json"
     },
     {
+      "igdb_id": 399818,
+      "game_name": "Football Legends 2025: Diamond Edition",
+      "file": "missing/F/399818-football-legends-2025-diamond-edition.json"
+    },
+    {
       "igdb_id": 396917,
       "game_name": "Football Legends 2025: Gold Edition",
       "file": "missing/F/396917-football-legends-2025-gold-edition.json"
@@ -164631,6 +164696,11 @@
       "igdb_id": 21397,
       "game_name": "Formula One: Championship Edition",
       "file": "missing/F/21397-formula-one-championship-edition.json"
+    },
+    {
+      "igdb_id": 399819,
+      "game_name": "Formula Racing Pro 2026: GOTY Edition",
+      "file": "missing/F/399819-formula-racing-pro-2026-goty-edition.json"
     },
     {
       "igdb_id": 396918,
@@ -179773,6 +179843,11 @@
       "file": "missing/G/259860-gloaming-comedian-simulator.json"
     },
     {
+      "igdb_id": 399850,
+      "game_name": "Gloamroot",
+      "file": "missing/G/399850-gloamroot.json"
+    },
+    {
       "igdb_id": 346577,
       "game_name": "Gloamryn",
       "file": "missing/G/346577-gloamryn.json"
@@ -181416,6 +181491,11 @@
       "igdb_id": 217515,
       "game_name": "God Pill",
       "file": "missing/G/217515-god-pill.json"
+    },
+    {
+      "igdb_id": 399852,
+      "game_name": "God Shot",
+      "file": "missing/G/399852-god-shot.json"
     },
     {
       "igdb_id": 31883,
@@ -202763,6 +202843,11 @@
       "file": "missing/H/291242-hidden-in-my-paradise.json"
     },
     {
+      "igdb_id": 399810,
+      "game_name": "Hidden in my Paradise + Hidden around the World Bundle",
+      "file": "missing/H/399810-hidden-in-my-paradise-hidden-around-the-world-bundle.json"
+    },
+    {
       "igdb_id": 210884,
       "game_name": "Hidden in the Dark",
       "file": "missing/H/210884-hidden-in-the-dark.json"
@@ -215796,6 +215881,21 @@
       "igdb_id": 235851,
       "game_name": "Idle Devils",
       "file": "missing/I/235851-idle-devils.json"
+    },
+    {
+      "igdb_id": 399806,
+      "game_name": "Idle Devils: New Character - Lucifer",
+      "file": "missing/I/399806-idle-devils-new-character-lucifer.json"
+    },
+    {
+      "igdb_id": 399807,
+      "game_name": "Idle Devils: New Character - Samael",
+      "file": "missing/I/399807-idle-devils-new-character-samael.json"
+    },
+    {
+      "igdb_id": 399809,
+      "game_name": "Idle Devils: Ultimate Edition",
+      "file": "missing/I/399809-idle-devils-ultimate-edition.json"
     },
     {
       "igdb_id": 248105,
@@ -240481,6 +240581,11 @@
       "igdb_id": 317252,
       "game_name": "Knights & Guns: Advanced Edition",
       "file": "missing/K/317252-knights-and-guns-advanced-edition.json"
+    },
+    {
+      "igdb_id": 399820,
+      "game_name": "Knights & Guns: Comprehensive Edition",
+      "file": "missing/K/399820-knights-and-guns-comprehensive-edition.json"
     },
     {
       "igdb_id": 283141,
@@ -290713,6 +290818,11 @@
       "file": "missing/M/315871-moto-rush-gt-advanced-edition.json"
     },
     {
+      "igdb_id": 399823,
+      "game_name": "Moto Rush GT: Comprehensive Edition",
+      "file": "missing/M/399823-moto-rush-gt-comprehensive-edition.json"
+    },
+    {
       "igdb_id": 396922,
       "game_name": "Moto Rush GT: Core Edition",
       "file": "missing/M/396922-moto-rush-gt-core-edition.json"
@@ -290996,6 +291106,11 @@
       "igdb_id": 149047,
       "game_name": "Motorbike Racing Triple Pack",
       "file": "missing/M/149047-motorbike-racing-triple-pack.json"
+    },
+    {
+      "igdb_id": 399822,
+      "game_name": "Motorbikes Pro 2025: Discovery Edition",
+      "file": "missing/M/399822-motorbikes-pro-2025-discovery-edition.json"
     },
     {
       "igdb_id": 396921,
@@ -293288,6 +293403,11 @@
       "file": "missing/M/181845-murder-mansion.json"
     },
     {
+      "igdb_id": 399858,
+      "game_name": "Murder Meet Cute",
+      "file": "missing/M/399858-murder-meet-cute.json"
+    },
+    {
       "igdb_id": 17035,
       "game_name": "Murder Miners",
       "file": "missing/M/17035-murder-miners.json"
@@ -293816,6 +293936,11 @@
       "igdb_id": 216325,
       "game_name": "Music Catch 2",
       "file": "missing/M/216325-music-catch-2.json"
+    },
+    {
+      "igdb_id": 399836,
+      "game_name": "Music Chase 1: The Music In Me",
+      "file": "missing/M/399836-music-chase-1-the-music-in-me.json"
     },
     {
       "igdb_id": 126616,
@@ -295161,6 +295286,11 @@
       "igdb_id": 343267,
       "game_name": "My Heaven's Dale",
       "file": "missing/M/343267-my-heavens-dale.json"
+    },
+    {
+      "igdb_id": 399841,
+      "game_name": "My Helpers",
+      "file": "missing/M/399841-my-helpers.json"
     },
     {
       "igdb_id": 414446,
@@ -308853,6 +308983,11 @@
       "file": "missing/N/291750-noahs-dilemma.json"
     },
     {
+      "igdb_id": 399854,
+      "game_name": "Noah's Quest",
+      "file": "missing/N/399854-noahs-quest.json"
+    },
+    {
       "igdb_id": 210882,
       "game_name": "NoAmmo",
       "file": "missing/N/210882-noammo.json"
@@ -322278,6 +322413,11 @@
       "file": "missing/P/4060-p-n-03.json"
     },
     {
+      "igdb_id": 399853,
+      "game_name": "P.O.D",
+      "file": "missing/P/399853-p-o-d.json"
+    },
+    {
       "igdb_id": 72333,
       "game_name": "P.O.W.",
       "file": "missing/P/72333-p-o-w.json"
@@ -327411,6 +327551,11 @@
       "igdb_id": 126443,
       "game_name": "Path of the Midnight Sun",
       "file": "missing/P/126443-path-of-the-midnight-sun.json"
+    },
+    {
+      "igdb_id": 399839,
+      "game_name": "Path of The Runecaster",
+      "file": "missing/P/399839-path-of-the-runecaster.json"
     },
     {
       "igdb_id": 127351,
@@ -336863,9 +337008,24 @@
       "file": "missing/P/25688-pixie-pete.json"
     },
     {
+      "igdb_id": 399803,
+      "game_name": "Pixie Plates: Ember Peaks DLC",
+      "file": "missing/P/399803-pixie-plates-ember-peaks-dlc.json"
+    },
+    {
       "igdb_id": 411835,
       "game_name": "Pixie Plates: Royal Edition",
       "file": "missing/P/411835-pixie-plates-royal-edition.json"
+    },
+    {
+      "igdb_id": 399804,
+      "game_name": "Pixie Plates: Royal Gardens DLC",
+      "file": "missing/P/399804-pixie-plates-royal-gardens-dlc.json"
+    },
+    {
+      "igdb_id": 399805,
+      "game_name": "Pixie Plates: Shimmering Slopes DLC",
+      "file": "missing/P/399805-pixie-plates-shimmering-slopes-dlc.json"
     },
     {
       "igdb_id": 277424,
@@ -341638,6 +341798,11 @@
       "file": "missing/P/415170-police-simulator.json"
     },
     {
+      "igdb_id": 399824,
+      "game_name": "Police Simulator: Patrol Officers - Complete Edition",
+      "file": "missing/P/399824-police-simulator-patrol-officers-complete-edition.json"
+    },
+    {
       "igdb_id": 293933,
       "game_name": "Police Simulator: Patrol Officers - Gold Edition",
       "file": "missing/P/293933-police-simulator-patrol-officers-gold-edition.json"
@@ -342496,6 +342661,11 @@
       "igdb_id": 396925,
       "game_name": "Pool Fever: Superior Edition",
       "file": "missing/P/396925-pool-fever-superior-edition.json"
+    },
+    {
+      "igdb_id": 399825,
+      "game_name": "Pool Fever: Upgrade Edition",
+      "file": "missing/P/399825-pool-fever-upgrade-edition.json"
     },
     {
       "igdb_id": 402910,
@@ -365533,6 +365703,11 @@
       "file": "missing/R/75908-restaurant-tycoon.json"
     },
     {
+      "igdb_id": 399826,
+      "game_name": "Restaurant Tycoon: My Cooking Empire - Complete Edition",
+      "file": "missing/R/399826-restaurant-tycoon-my-cooking-empire-complete-edition.json"
+    },
+    {
       "igdb_id": 396927,
       "game_name": "Restaurant Tycoon: My Cooking Empire - Diamond Edition",
       "file": "missing/R/396927-restaurant-tycoon-my-cooking-empire-diamond-edition.json"
@@ -376328,6 +376503,11 @@
       "file": "missing/R/7990-rugrats-all-growed-up.json"
     },
     {
+      "igdb_id": 399837,
+      "game_name": "Rugrats: Retro Rewind Collection",
+      "file": "missing/R/399837-rugrats-retro-rewind-collection.json"
+    },
+    {
       "igdb_id": 2786,
       "game_name": "Rugrats: Scavenger Hunt",
       "file": "missing/R/2786-rugrats-scavenger-hunt.json"
@@ -378481,6 +378661,11 @@
       "igdb_id": 274490,
       "game_name": "S.N.I.P.E.R.: Hunter Scope - Prime Edition",
       "file": "missing/S/274490-s-n-i-p-e-r-hunter-scope-prime-edition.json"
+    },
+    {
+      "igdb_id": 399827,
+      "game_name": "S.N.I.P.E.R.: Hunter Scope - Pro Edition",
+      "file": "missing/S/399827-s-n-i-p-e-r-hunter-scope-pro-edition.json"
     },
     {
       "igdb_id": 250394,
@@ -381236,6 +381421,11 @@
       "igdb_id": 134693,
       "game_name": "Sandcastles",
       "file": "missing/S/134693-sandcastles.json"
+    },
+    {
+      "igdb_id": 399845,
+      "game_name": "SandEEE",
+      "file": "missing/S/399845-sandeee.json"
     },
     {
       "igdb_id": 106407,
@@ -390941,6 +391131,11 @@
       "igdb_id": 383508,
       "game_name": "Shake",
       "file": "missing/S/383508-shake.json"
+    },
+    {
+      "igdb_id": 399840,
+      "game_name": "Shake",
+      "file": "missing/S/399840-shake.json"
     },
     {
       "igdb_id": 108959,
@@ -405061,6 +405256,11 @@
       "igdb_id": 396930,
       "game_name": "Snooker Fever: Discovery Edition",
       "file": "missing/S/396930-snooker-fever-discovery-edition.json"
+    },
+    {
+      "igdb_id": 399828,
+      "game_name": "Snooker Fever: Upgrade Edition",
+      "file": "missing/S/399828-snooker-fever-upgrade-edition.json"
     },
     {
       "igdb_id": 38948,
@@ -435871,6 +436071,11 @@
       "igdb_id": 272829,
       "game_name": "Super Rare Mixtape: Horror Edition",
       "file": "missing/S/272829-super-rare-mixtape-horror-edition.json"
+    },
+    {
+      "igdb_id": 399844,
+      "game_name": "Super Real AI",
+      "file": "missing/S/399844-super-real-ai.json"
     },
     {
       "igdb_id": 130299,
@@ -468038,6 +468243,11 @@
       "file": "missing/T/274200-the-outer-darkness.json"
     },
     {
+      "igdb_id": 399859,
+      "game_name": "The Outer Frame",
+      "file": "missing/T/399859-the-outer-frame.json"
+    },
+    {
       "igdb_id": 97344,
       "game_name": "The Outer Rim: Survivor",
       "file": "missing/T/97344-the-outer-rim-survivor.json"
@@ -483586,6 +483796,11 @@
       "igdb_id": 230529,
       "game_name": "Tiny Atolls",
       "file": "missing/T/230529-tiny-atolls.json"
+    },
+    {
+      "igdb_id": 399808,
+      "game_name": "Tiny Auto Knights: Supporter Pack",
+      "file": "missing/T/399808-tiny-auto-knights-supporter-pack.json"
     },
     {
       "igdb_id": 16693,
@@ -502863,6 +503078,11 @@
       "file": "missing/U/334104-unboxing-cozy-home-simulator.json"
     },
     {
+      "igdb_id": 399831,
+      "game_name": "Unbreachable",
+      "file": "missing/U/399831-unbreachable.json"
+    },
+    {
       "igdb_id": 256848,
       "game_name": "Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend",
       "file": "missing/U/256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json"
@@ -506311,6 +506531,11 @@
       "igdb_id": 238741,
       "game_name": "Urban Flow: Platinum Edition",
       "file": "missing/U/238741-urban-flow-platinum-edition.json"
+    },
+    {
+      "igdb_id": 399829,
+      "game_name": "Urban Flow: Pro Edition",
+      "file": "missing/U/399829-urban-flow-pro-edition.json"
     },
     {
       "igdb_id": 250390,
@@ -510411,6 +510636,11 @@
       "igdb_id": 146905,
       "game_name": "Video Game Feminization Hypnosis",
       "file": "missing/V/146905-video-game-feminization-hypnosis.json"
+    },
+    {
+      "igdb_id": 399846,
+      "game_name": "Video Game Menu: The Game",
+      "file": "missing/V/399846-video-game-menu-the-game.json"
     },
     {
       "igdb_id": 38557,
@@ -533943,6 +534173,16 @@
       "file": "missing/Y/103421-yokelight.json"
     },
     {
+      "igdb_id": 399855,
+      "game_name": "Yokiyo",
+      "file": "missing/Y/399855-yokiyo.json"
+    },
+    {
+      "igdb_id": 399856,
+      "game_name": "Yokiyo",
+      "file": "missing/Y/399856-yokiyo.json"
+    },
+    {
       "igdb_id": 147271,
       "game_name": "Yoko & Yuki: Dr. Rat's Revenge",
       "file": "missing/Y/147271-yoko-and-yuki-dr-rats-revenge.json"
@@ -534021,6 +534261,11 @@
       "igdb_id": 17189,
       "game_name": "Yomi",
       "file": "missing/Y/17189-yomi.json"
+    },
+    {
+      "igdb_id": 399830,
+      "game_name": "Yomi 2: Complete edition",
+      "file": "missing/Y/399830-yomi-2-complete-edition.json"
     },
     {
       "igdb_id": 289877,
@@ -537681,6 +537926,11 @@
       "igdb_id": 161899,
       "game_name": "Zerone 2D",
       "file": "missing/Z/161899-zerone-2d.json"
+    },
+    {
+      "igdb_id": 399860,
+      "game_name": "ZeroPrompt",
+      "file": "missing/Z/399860-zeroprompt.json"
     },
     {
       "igdb_id": 262659,
