@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nameless | 256829 | [256829-nameless.json](./256829-nameless.json) |
 | Nameless | 294822 | [294822-nameless.json](./294822-nameless.json) |
 | Nameless Dreams: Endless Nightmares | 327186 | [327186-nameless-dreams-endless-nightmares.json](./327186-nameless-dreams-endless-nightmares.json) |
+| Nameless Graves | 397900 | [397900-nameless-graves.json](./397900-nameless-graves.json) |
 | Nameless Kaizo World | 267914 | [267914-nameless-kaizo-world.json](./267914-nameless-kaizo-world.json) |
 | Nameless Kaizo World Light | 267915 | [267915-nameless-kaizo-world-light.json](./267915-nameless-kaizo-world-light.json) |
 | Nameless Shells | 267916 | [267916-nameless-shells.json](./267916-nameless-shells.json) |
@@ -2119,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Ticket Back: Craft, Survive & Escape | 290945 | [290945-no-ticket-back-craft-survive-and-escape.json](./290945-no-ticket-back-craft-survive-and-escape.json) |
 | No Time Left | 104111 | [104111-no-time-left.json](./104111-no-time-left.json) |
 | No Time Left | 385729 | [385729-no-time-left.json](./385729-no-time-left.json) |
+| No Time Left | 397935 | [397935-no-time-left.json](./397935-no-time-left.json) |
 | No Time to Build | 337484 | [337484-no-time-to-build.json](./337484-no-time-to-build.json) |
 | No Time to Explain | 9560 | [9560-no-time-to-explain.json](./9560-no-time-to-explain.json) |
 | No Time to Live | 34550 | [34550-no-time-to-live.json](./34550-no-time-to-live.json) |
@@ -2568,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NRL Mascot Mania | 124026 | [124026-nrl-mascot-mania.json](./124026-nrl-mascot-mania.json) |
 | NS Kakuro | 91105 | [91105-ns-kakuro.json](./91105-ns-kakuro.json) |
 | NSFW: Not a Simulator for Working | 25606 | [25606-nsfw-not-a-simulator-for-working.json](./25606-nsfw-not-a-simulator-for-working.json) |
+| NSR: Night Street Racing | 397954 | [397954-nsr-night-street-racing.json](./397954-nsr-night-street-racing.json) |
 | NSYNC: Get to the Show | 49955 | [49955-nsync-get-to-the-show.json](./49955-nsync-get-to-the-show.json) |
 | Nth Dimension[al] Hiking | 327183 | [327183-nth-dimension-al-hiking.json](./327183-nth-dimension-al-hiking.json) |
 | Nth^0: Infinity Reborn | 129799 | [129799-nth-0-infinity-reborn.json](./129799-nth-0-infinity-reborn.json) |
