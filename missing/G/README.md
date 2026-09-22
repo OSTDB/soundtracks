@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate 88 | 77982 | [77982-gate-88.json](./77982-gate-88.json) |
 | Gate Builders | 197414 | [197414-gate-builders.json](./197414-gate-builders.json) |
 | Gate Keepers | 69303 | [69303-gate-keepers.json](./69303-gate-keepers.json) |
+| Gate of Doom | 46847 | [46847-gate-of-doom.json](./46847-gate-of-doom.json) |
 | Gate of Mobius | 200751 | [200751-gate-of-mobius.json](./200751-gate-of-mobius.json) |
 | Gate of Providence | 181925 | [181925-gate-of-providence.json](./181925-gate-of-providence.json) |
 | Gate World | 46649 | [46649-gate-world.json](./46649-gate-world.json) |
@@ -2951,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grems | 386710 | [386710-grems.json](./386710-grems.json) |
 | Grendel's Revenge | 370678 | [370678-grendels-revenge.json](./370678-grendels-revenge.json) |
 | Grenouilles 3D | 401550 | [401550-grenouilles-3d.json](./401550-grenouilles-3d.json) |
+| Grepolis | 62922 | [62922-grepolis.json](./62922-grepolis.json) |
 | Grepr | 185556 | [185556-grepr.json](./185556-grepr.json) |
 | Greta Sees Ghosts! | 348348 | [348348-greta-sees-ghosts.json](./348348-greta-sees-ghosts.json) |
 | Gretel: The Lost Tale | 323501 | [323501-gretel-the-lost-tale.json](./323501-gretel-the-lost-tale.json) |
