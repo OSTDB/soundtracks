@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 198X | 100562 | [100562-198x.json](./100562-198x.json) |
 | 1993 Space Machine | 19390 | [19390-1993-space-machine.json](./19390-1993-space-machine.json) |
 | 1995Card+ | 295238 | [295238-1995card.json](./295238-1995card.json) |
+| 1997 Reloaded | 405044 | [405044-1997-reloaded.json](./405044-1997-reloaded.json) |
 | 1998 | 178550 | [178550-1998.json](./178550-1998.json) |
 | 1999 Christmas Eve | 367492 | [367492-1999-christmas-eve.json](./367492-1999-christmas-eve.json) |
 | 1999: Hore, Mita Koto ka! Seikimatsu | 48607 | [48607-1999-hore-mita-koto-ka-seikimatsu.json](./48607-1999-hore-mita-koto-ka-seikimatsu.json) |
@@ -743,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4in1: Bomb Disposer/Armour Force/Black Forest Tale/2nd Space | 77296 | [77296-4in1-bomb-disposer-armour-force-black-forest-tale-2nd-space.json](./77296-4in1-bomb-disposer-armour-force-black-forest-tale-2nd-space.json) |
 | 4Islands | 124190 | [124190-4islands.json](./124190-4islands.json) |
 | 4K Adventure | 140624 | [140624-4k-adventure.json](./140624-4k-adventure.json) |
+| 4Mecheros | 405042 | [405042-4mecheros.json](./405042-4mecheros.json) |
 | 4Tacos | 276274 | [276274-4tacos.json](./276274-4tacos.json) |
 | 4th Era: The RuneChild | 120320 | [120320-4th-era-the-runechild.json](./120320-4th-era-the-runechild.json) |
 | 4th Generation Warfare | 128944 | [128944-4th-generation-warfare.json](./128944-4th-generation-warfare.json) |
