@@ -1651,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perspectives: Paradise | 115007 | [115007-perspectives-paradise.json](./115007-perspectives-paradise.json) |
 | Perspectre | 395692 | [395692-perspectre.json](./395692-perspectre.json) |
 | Perspectrum | 106613 | [106613-perspectrum.json](./106613-perspectrum.json) |
+| Pertinence | 33181 | [33181-pertinence.json](./33181-pertinence.json) |
 | Perverts Society | 110357 | [110357-perverts-society.json](./110357-perverts-society.json) |
 | Perypetie Boba | 232023 | [232023-perypetie-boba.json](./232023-perypetie-boba.json) |
 | PES 2018 Mobile | 240469 | [240469-pes-2018-mobile.json](./240469-pes-2018-mobile.json) |
@@ -2377,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Hazard | 74336 | [74336-pinball-hazard.json](./74336-pinball-hazard.json) |
 | Pinball HD | 175348 | [175348-pinball-hd.json](./175348-pinball-hd.json) |
 | Pinball HD | 88282 | [88282-pinball-hd.json](./88282-pinball-hd.json) |
+| Pinball HD Collection | 33355 | [33355-pinball-hd-collection.json](./33355-pinball-hd-collection.json) |
 | Pinball Heroes | 229161 | [229161-pinball-heroes.json](./229161-pinball-heroes.json) |
 | Pinball Heroes Bundle 2 | 99584 | [99584-pinball-heroes-bundle-2.json](./99584-pinball-heroes-bundle-2.json) |
 | Pinball Heroes: Wipeout HD Fury | 52655 | [52655-pinball-heroes-wipeout-hd-fury.json](./52655-pinball-heroes-wipeout-hd-fury.json) |
