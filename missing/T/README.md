@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
 | Take Shape | 92488 | [92488-take-shape.json](./92488-take-shape.json) |
 | Take town | 163402 | [163402-take-town.json](./163402-take-town.json) |
+| Take Your Best Shot | 69794 | [69794-take-your-best-shot.json](./69794-take-your-best-shot.json) |
 | Take Yutaka G1 Memory | 37795 | [37795-take-yutaka-g1-memory.json](./37795-take-yutaka-g1-memory.json) |
 | Take-out Weight Curling | 70949 | [70949-take-out-weight-curling.json](./70949-take-out-weight-curling.json) |
 | Takeda 2 | 67323 | [67323-takeda-2.json](./67323-takeda-2.json) |
@@ -2049,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alchemist & His Battle-Scarred Homunculus | 315048 | [315048-the-alchemist-and-his-battle-scarred-homunculus.json](./315048-the-alchemist-and-his-battle-scarred-homunculus.json) |
 | The Alchemist of Nafiljar | 244906 | [244906-the-alchemist-of-nafiljar.json](./244906-the-alchemist-of-nafiljar.json) |
 | The Alchemist's Cards | 397784 | [397784-the-alchemists-cards.json](./397784-the-alchemists-cards.json) |
+| The Alcor Trivia Pro Classic Star Trek (Star-Log I) | 71672 | [71672-the-alcor-trivia-pro-classic-star-trek-star-log-i.json](./71672-the-alcor-trivia-pro-classic-star-trek-star-log-i.json) |
 | The Alehouse Tavern Chronicles | 335074 | [335074-the-alehouse-tavern-chronicles.json](./335074-the-alehouse-tavern-chronicles.json) |
 | The Alfonzone | 256890 | [256890-the-alfonzone.json](./256890-the-alfonzone.json) |
 | The Alien Trials | 149578 | [149578-the-alien-trials.json](./149578-the-alien-trials.json) |
@@ -5358,6 +5360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Question | 170529 | [170529-the-question.json](./170529-the-question.json) |
 | The Question's Quest of Sin | 322370 | [322370-the-questions-quest-of-sin.json](./322370-the-questions-quest-of-sin.json) |
 | The Quiet Lonely House | 186264 | [186264-the-quiet-lonely-house.json](./186264-the-quiet-lonely-house.json) |
+| The Quiet Sleep | 72385 | [72385-the-quiet-sleep.json](./72385-the-quiet-sleep.json) |
 | The Quintessential Princesses: Fantasy, Abyss, and Magic Academy | 342720 | [342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json](./342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json) |
 | The Quintessential Quintuplets: Gotopazu Story 2nd | 299466 | [299466-the-quintessential-quintuplets-gotopazu-story-2nd.json](./299466-the-quintessential-quintuplets-gotopazu-story-2nd.json) |
 | The Quintessential Quintuplets: Omoide VR - Itsuki | 211734 | [211734-the-quintessential-quintuplets-omoide-vr-itsuki.json](./211734-the-quintessential-quintuplets-omoide-vr-itsuki.json) |
@@ -6027,6 +6030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strange Story of Brian Fisher: Chapter 2 | 168841 | [168841-the-strange-story-of-brian-fisher-chapter-2.json](./168841-the-strange-story-of-brian-fisher-chapter-2.json) |
 | The Stranger | 57143 | [57143-the-stranger.json](./57143-the-stranger.json) |
 | The Stranger From the Bus Stop | 332396 | [332396-the-stranger-from-the-bus-stop.json](./332396-the-stranger-from-the-bus-stop.json) |
+| The Strangers | 71053 | [71053-the-strangers.json](./71053-the-strangers.json) |
 | The Strawman Augment | 314464 | [314464-the-strawman-augment.json](./314464-the-strawman-augment.json) |
 | The Stray Laboratory | 302668 | [302668-the-stray-laboratory.json](./302668-the-stray-laboratory.json) |
 | The Street 10 | 282031 | [282031-the-street-10.json](./282031-the-street-10.json) |
@@ -7208,6 +7212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Ages: New Leaders & Wonders | 155052 | [155052-through-the-ages-new-leaders-and-wonders.json](./155052-through-the-ages-new-leaders-and-wonders.json) |
 | Through the Fragmentation | 147400 | [147400-through-the-fragmentation.json](./147400-through-the-fragmentation.json) |
 | Through the Frame | 169402 | [169402-through-the-frame.json](./169402-through-the-frame.json) |
+| Through the Looking Glass | 71709 | [71709-through-the-looking-glass.json](./71709-through-the-looking-glass.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
 | Through the Nest | 374131 | [374131-through-the-nest.json](./374131-through-the-nest.json) |
 | Through the Trap Door | 54718 | [54718-through-the-trap-door.json](./54718-through-the-trap-door.json) |
@@ -7292,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderpeak | 256854 | [256854-thunderpeak.json](./256854-thunderpeak.json) |
 | Thunderstrike 2 | 24991 | [24991-thunderstrike-2.json](./24991-thunderstrike-2.json) |
 | Thunderstrike: Operation Phoenix | 43278 | [43278-thunderstrike-operation-phoenix.json](./43278-thunderstrike-operation-phoenix.json) |
+| ThunderWheels | 72481 | [72481-thunderwheels.json](./72481-thunderwheels.json) |
 | Thunderwing | 74427 | [74427-thunderwing.json](./74427-thunderwing.json) |
 | Thundra - Alien Wackiness from the future | 132811 | [132811-thundra-alien-wackiness-from-the-future.json](./132811-thundra-alien-wackiness-from-the-future.json) |
 | Thurgood P. Marshall and the Quest for Ontological Theory Advancement | 128639 | [128639-thurgood-p-marshall-and-the-quest-for-ontological-theory-advancement.json](./128639-thurgood-p-marshall-and-the-quest-for-ontological-theory-advancement.json) |
@@ -9754,6 +9760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trails of Illusion | 197951 | [197951-trails-of-illusion.json](./197951-trails-of-illusion.json) |
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
 | Trails of the Ancestors | 212828 | [212828-trails-of-the-ancestors.json](./212828-trails-of-the-ancestors.json) |
+| Train Bandit | 68514 | [68514-train-bandit.json](./68514-train-bandit.json) |
 | Train Cargo: Nightshift | 374159 | [374159-train-cargo-nightshift.json](./374159-train-cargo-nightshift.json) |
 | Train Chase | 148367 | [148367-train-chase.json](./148367-train-chase.json) |
 | Train Conductor World | 109578 | [109578-train-conductor-world.json](./109578-train-conductor-world.json) |
@@ -9764,6 +9771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Driver Journey 3 - Waldabavale to Karrah Bay | 100617 | [100617-train-driver-journey-3-waldabavale-to-karrah-bay.json](./100617-train-driver-journey-3-waldabavale-to-karrah-bay.json) |
 | Train Driver Journey 4 - Introduction to Steam | 86881 | [86881-train-driver-journey-4-introduction-to-steam.json](./86881-train-driver-journey-4-introduction-to-steam.json) |
 | Train Fever: USA | 238506 | [238506-train-fever-usa.json](./238506-train-fever-usa.json) |
+| Train Frontier Classic | 72486 | [72486-train-frontier-classic.json](./72486-train-frontier-classic.json) |
 | Train Journey | 382209 | [382209-train-journey.json](./382209-train-journey.json) |
 | Train Mechanic Simulator 2017 | 27940 | [27940-train-mechanic-simulator-2017.json](./27940-train-mechanic-simulator-2017.json) |
 | Train Merger | 108472 | [108472-train-merger.json](./108472-train-merger.json) |
@@ -10045,6 +10053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainpunk Run | 95201 | [95201-trainpunk-run.json](./95201-trainpunk-run.json) |
 | Trains | 95443 | [95443-trains.json](./95443-trains.json) |
 | Trains & Things | 105314 | [105314-trains-and-things.json](./105314-trains-and-things.json) |
+| Trains VR | 69456 | [69456-trains-vr.json](./69456-trains-vr.json) |
 | Trains Vs Zombies 2 | 64392 | [64392-trains-vs-zombies-2.json](./64392-trains-vs-zombies-2.json) |
 | Trains: Through Electric Storms. | 221156 | [221156-trains-through-electric-storms.json](./221156-trains-through-electric-storms.json) |
 | Trains.io | 192296 | [192296-trains-io.json](./192296-trains-io.json) |
