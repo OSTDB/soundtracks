@@ -2452,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Empires | 227268 | [227268-shadows-of-empires.json](./227268-shadows-of-empires.json) |
 | Shadows of Forbidden Gods | 180249 | [180249-shadows-of-forbidden-gods.json](./180249-shadows-of-forbidden-gods.json) |
 | Shadows of Kepler | 125390 | [125390-shadows-of-kepler.json](./125390-shadows-of-kepler.json) |
+| Shadows of Kurgansk | 26581 | [26581-shadows-of-kurgansk.json](./26581-shadows-of-kurgansk.json) |
 | Shadows of Mordor: Game two of Lord of the Rings | 10799 | [10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json](./10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json) |
 | Shadows of Rogue: The Sorcerer's Curse | 272281 | [272281-shadows-of-rogue-the-sorcerers-curse.json](./272281-shadows-of-rogue-the-sorcerers-curse.json) |
 | Shadows of Soldiers | 264143 | [264143-shadows-of-soldiers.json](./264143-shadows-of-soldiers.json) |
@@ -3043,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Simulator Extremes: Ocean Cruise Ship | 10827 | [10827-ship-simulator-extremes-ocean-cruise-ship.json](./10827-ship-simulator-extremes-ocean-cruise-ship.json) |
 | Ship Simulator Extremes: Offshore Vessel | 10828 | [10828-ship-simulator-extremes-offshore-vessel.json](./10828-ship-simulator-extremes-offshore-vessel.json) |
 | Ship Simulator Extremes: Sigita Pack | 10829 | [10829-ship-simulator-extremes-sigita-pack.json](./10829-ship-simulator-extremes-sigita-pack.json) |
+| Ship Simulator: Maritime Search and Rescue | 27185 | [27185-ship-simulator-maritime-search-and-rescue.json](./27185-ship-simulator-maritime-search-and-rescue.json) |
 | ShipCrafter | 371975 | [371975-shipcrafter.json](./371975-shipcrafter.json) |
 | Shiperoids | 31853 | [31853-shiperoids.json](./31853-shiperoids.json) |
 | ShipLord | 19326 | [19326-shiplord.json](./19326-shiplord.json) |
@@ -4310,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Kid | 293755 | [293755-sky-kid.json](./293755-sky-kid.json) |
 | Sky Kingdoms | 54366 | [54366-sky-kingdoms.json](./54366-sky-kingdoms.json) |
 | Sky Kingdoms - Castle Siege | 100747 | [100747-sky-kingdoms-castle-siege.json](./100747-sky-kingdoms-castle-siege.json) |
+| Sky Knights | 26633 | [26633-sky-knights.json](./26633-sky-knights.json) |
 | Sky Love Girls: Flight Attendant Crush | 370797 | [370797-sky-love-girls-flight-attendant-crush.json](./370797-sky-love-girls-flight-attendant-crush.json) |
 | Sky Mad | 310184 | [310184-sky-mad.json](./310184-sky-mad.json) |
 | Sky Madness | 54367 | [54367-sky-madness.json](./54367-sky-madness.json) |
@@ -5314,6 +5317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Fight | 316096 | [316096-snow-fight.json](./316096-snow-fight.json) |
 | Snow Fighters | 151562 | [151562-snow-fighters.json](./151562-snow-fighters.json) |
 | Snow Forest | 352295 | [352295-snow-forest.json](./352295-snow-forest.json) |
+| Snow Fortress | 26592 | [26592-snow-fortress.json](./26592-snow-fortress.json) |
 | Snow Games VR | 29782 | [29782-snow-games-vr.json](./29782-snow-games-vr.json) |
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
 | Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
@@ -5371,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowJob | 411669 | [411669-snowjob.json](./411669-snowjob.json) |
 | Snowkissed Romance | 254571 | [254571-snowkissed-romance.json](./254571-snowkissed-romance.json) |
 | Snowland Adventure | 196277 | [196277-snowland-adventure.json](./196277-snowland-adventure.json) |
+| Snowman | 25012 | [25012-snowman.json](./25012-snowman.json) |
 | Snowman Adventure | 186265 | [186265-snowman-adventure.json](./186265-snowman-adventure.json) |
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
 | Snowman from Russia | 54735 | [54735-snowman-from-russia.json](./54735-snowman-from-russia.json) |
@@ -5864,6 +5869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Slavs | 273405 | [273405-song-of-slavs.json](./273405-song-of-slavs.json) |
 | Song of the Deep | 16998 | [16998-song-of-the-deep.json](./16998-song-of-the-deep.json) |
 | Song of the Firefly | 14315 | [14315-song-of-the-firefly.json](./14315-song-of-the-firefly.json) |
+| Song of the Myrne: What Lies Beneath | 26824 | [26824-song-of-the-myrne-what-lies-beneath.json](./26824-song-of-the-myrne-what-lies-beneath.json) |
 | Song of the Tides | 158172 | [158172-song-of-the-tides.json](./158172-song-of-the-tides.json) |
 | Song of Yellow River | 130952 | [130952-song-of-yellow-river.json](./130952-song-of-yellow-river.json) |
 | Song Song | 273406 | [273406-song-song.json](./273406-song-song.json) |
@@ -8509,6 +8515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Battle Pod | 75086 | [75086-star-wars-battle-pod.json](./75086-star-wars-battle-pod.json) |
 | Star Wars: Battlefront - Elite Squadron | 192925 | [192925-star-wars-battlefront-elite-squadron.json](./192925-star-wars-battlefront-elite-squadron.json) |
 | Star Wars: Bounty Hunter | 307040 | [307040-star-wars-bounty-hunter.json](./307040-star-wars-bounty-hunter.json) |
+| Star Wars: Clone Wars Adventures | 21739 | [21739-star-wars-clone-wars-adventures.json](./21739-star-wars-clone-wars-adventures.json) |
 | Star Wars: Commander | 19429 | [19429-star-wars-commander.json](./19429-star-wars-commander.json) |
 | Star Wars: Conquest | 356198 | [356198-star-wars-conquest.json](./356198-star-wars-conquest.json) |
 | Star Wars: Dark Forces Remaster | 262973 | [262973-star-wars-dark-forces-remaster.json](./262973-star-wars-dark-forces-remaster.json) |
@@ -10104,6 +10111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SubPixels | 339926 | [339926-subpixels.json](./339926-subpixels.json) |
 | Subpoena Magus | 383933 | [383933-subpoena-magus.json](./383933-subpoena-magus.json) |
 | Subrov | 152859 | [152859-subrov.json](./152859-subrov.json) |
+| Subsiege | 26677 | [26677-subsiege.json](./26677-subsiege.json) |
 | Substructure | 380408 | [380408-substructure.json](./380408-substructure.json) |
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
 | Subsurface | 411732 | [411732-subsurface.json](./411732-subsurface.json) |
@@ -11441,6 +11449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Seals Float | 149594 | [149594-super-seals-float.json](./149594-super-seals-float.json) |
 | Super Sean 007 | 239736 | [239736-super-sean-007.json](./239736-super-sean-007.json) |
 | Super Seducer 2 | 103232 | [103232-super-seducer-2.json](./103232-super-seducer-2.json) |
+| Super Senso | 26626 | [26626-super-senso.json](./26626-super-senso.json) |
 | Super Serpent Snake 3D | 412292 | [412292-super-serpent-snake-3d.json](./412292-super-serpent-snake-3d.json) |
 | Super Seymour Saves the Plant | 18573 | [18573-super-seymour-saves-the-plant.json](./18573-super-seymour-saves-the-plant.json) |
 | Super Shadow Dudes | 180186 | [180186-super-shadow-dudes.json](./180186-super-shadow-dudes.json) |
