@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undeadworld | 223663 | [223663-undeadworld.json](./223663-undeadworld.json) |
 | Undeadz! | 35886 | [35886-undeadz.json](./35886-undeadz.json) |
 | Undefeated | 121220 | [121220-undefeated.json](./121220-undefeated.json) |
+| Undefeated | 36179 | [36179-undefeated.json](./36179-undefeated.json) |
 | Undefined | 111026 | [111026-undefined.json](./111026-undefined.json) |
 | Undemon | 182363 | [182363-undemon.json](./182363-undemon.json) |
 | Under Control | 21325 | [21325-under-control.json](./21325-under-control.json) |
