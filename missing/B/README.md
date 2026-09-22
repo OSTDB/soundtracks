@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Chicken | 212906 | [212906-bad-chicken.json](./212906-bad-chicken.json) |
 | Bad Delivery: Pizza Your Heart | 381617 | [381617-bad-delivery-pizza-your-heart.json](./381617-bad-delivery-pizza-your-heart.json) |
 | Bad Dinos | 23219 | [23219-bad-dinos.json](./23219-bad-dinos.json) |
+| Bad Dog, Good Time | 393805 | [393805-bad-dog-good-time.json](./393805-bad-dog-good-time.json) |
 | Bad Dream: Bridge | 133931 | [133931-bad-dream-bridge.json](./133931-bad-dream-bridge.json) |
 | Bad Dream: Series | 179624 | [179624-bad-dream-series.json](./179624-bad-dream-series.json) |
 | Bad Dreams | 69571 | [69571-bad-dreams.json](./69571-bad-dreams.json) |
@@ -6176,6 +6177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busou Shinki: Battle Masters | 66641 | [66641-busou-shinki-battle-masters.json](./66641-busou-shinki-battle-masters.json) |
 | Busou Shinki: Battle Masters Mk. 2 | 56498 | [56498-busou-shinki-battle-masters-mk-2.json](./56498-busou-shinki-battle-masters-mk-2.json) |
 | Bussy Master: Club Leather | 311795 | [311795-bussy-master-club-leather.json](./311795-bussy-master-club-leather.json) |
+| Bussy Master: Count Fuckula's Cum Castle | 393831 | [393831-bussy-master-count-fuckulas-cum-castle.json](./393831-bussy-master-count-fuckulas-cum-castle.json) |
 | Bussy Master: Halloween Advent 2024 | 318421 | [318421-bussy-master-halloween-advent-2024.json](./318421-bussy-master-halloween-advent-2024.json) |
 | Bust a Block | 319973 | [319973-bust-a-block.json](./319973-bust-a-block.json) |
 | Bust a date | 173829 | [173829-bust-a-date.json](./173829-bust-a-date.json) |
