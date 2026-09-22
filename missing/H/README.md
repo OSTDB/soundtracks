@@ -2801,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
 | Hitman Absolution: Elite Edition | 53210 | [53210-hitman-absolution-elite-edition.json](./53210-hitman-absolution-elite-edition.json) |
 | Hitman Go: Definitive Edition | 21580 | [21580-hitman-go-definitive-edition.json](./21580-hitman-go-definitive-edition.json) |
+| Hitman Go: VR Edition | 23487 | [23487-hitman-go-vr-edition.json](./23487-hitman-go-vr-edition.json) |
 | Hitman HD Enhanced Collection | 113533 | [113533-hitman-hd-enhanced-collection.json](./113533-hitman-hd-enhanced-collection.json) |
 | Hitman Reborn! | 174722 | [174722-hitman-reborn.json](./174722-hitman-reborn.json) |
 | Hitman Sniper: The Shadows | 144772 | [144772-hitman-sniper-the-shadows.json](./144772-hitman-sniper-the-shadows.json) |
@@ -3576,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shot | 317877 | [317877-hot-shot.json](./317877-hot-shot.json) |
 | Hot Shot Burn | 121036 | [121036-hot-shot-burn.json](./121036-hot-shot-burn.json) |
 | Hot Shot Monkey | 349931 | [349931-hot-shot-monkey.json](./349931-hot-shot-monkey.json) |
+| Hot Shots Golf 3 | 23459 | [23459-hot-shots-golf-3.json](./23459-hot-shots-golf-3.json) |
 | Hot Shots Golf Fore! | 204439 | [204439-hot-shots-golf-fore.json](./204439-hot-shots-golf-fore.json) |
 | Hot Shots Golf: Open Tee 2 | 21050 | [21050-hot-shots-golf-open-tee-2.json](./21050-hot-shots-golf-open-tee-2.json) |
 | Hot Shots Soccer | 101570 | [101570-hot-shots-soccer.json](./101570-hot-shots-soccer.json) |
@@ -3936,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo III, Jungle of Doom! | 8883 | [8883-hugo-iii-jungle-of-doom.json](./8883-hugo-iii-jungle-of-doom.json) |
 | Hugo in Space | 78983 | [78983-hugo-in-space.json](./78983-hugo-in-space.json) |
 | Hugo på nye Eventyr | 300687 | [300687-hugo-pa-nye-eventyr.json](./300687-hugo-pa-nye-eventyr.json) |
+| Hugo: Black Diamond Fever | 23556 | [23556-hugo-black-diamond-fever.json](./23556-hugo-black-diamond-fever.json) |
 | Hugo: Bukkazoom | 165052 | [165052-hugo-bukkazoom.json](./165052-hugo-bukkazoom.json) |
 | Hugo: De Første Tegn | 301394 | [301394-hugo-de-f-rste-tegn.json](./301394-hugo-de-f-rste-tegn.json) |
 | Hugo: Frog Fighter | 25666 | [25666-hugo-frog-fighter.json](./25666-hugo-frog-fighter.json) |
@@ -3996,6 +3999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humans vs. Vampires | 199060 | [199060-humans-vs-vampires.json](./199060-humans-vs-vampires.json) |
 | Humble Rumble | 128371 | [128371-humble-rumble.json](./128371-humble-rumble.json) |
 | Humbug | 57637 | [57637-humbug.json](./57637-humbug.json) |
+| Hummer Offroad Challenge | 23559 | [23559-hummer-offroad-challenge.json](./23559-hummer-offroad-challenge.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
 | Humpsters | 71220 | [71220-humpsters.json](./71220-humpsters.json) |
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
