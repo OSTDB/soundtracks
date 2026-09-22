@@ -2741,6 +2741,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip-It | 159167 | [159167-flip-it.json](./159167-flip-it.json) |
 | Flip! The Cartoon Strategy Game | 57086 | [57086-flip-the-cartoon-strategy-game.json](./57086-flip-the-cartoon-strategy-game.json) |
 | Flip's Escape | 64646 | [64646-flips-escape.json](./64646-flips-escape.json) |
+| Flip＊Flop: Innocence Overclock | 397244 | [397244-flip-flop-innocence-overclock.json](./397244-flip-flop-innocence-overclock.json) |
+| Flip＊Flop: Rambling Overrun | 397245 | [397245-flip-flop-rambling-overrun.json](./397245-flip-flop-rambling-overrun.json) |
 | Flipbomb | 371348 | [371348-flipbomb.json](./371348-flipbomb.json) |
 | FlipBook | 315831 | [315831-flipbook.json](./315831-flipbook.json) |
 | FlipFlipDuck | 175268 | [175268-flipflipduck.json](./175268-flipflipduck.json) |
@@ -3794,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxventures | 235763 | [235763-foxventures.json](./235763-foxventures.json) |
 | Foxx Fights Back | 13851 | [13851-foxx-fights-back.json](./13851-foxx-fights-back.json) |
 | Foxy Furry Lady of the Forest | 82919 | [82919-foxy-furry-lady-of-the-forest.json](./82919-foxy-furry-lady-of-the-forest.json) |
+| Foxy Go Go Go! | 397232 | [397232-foxy-go-go-go.json](./397232-foxy-go-go-go.json) |
 | Foxy's Adventure | 159893 | [159893-foxys-adventure.json](./159893-foxys-adventure.json) |
 | Foxy's Coin Hunt | 235301 | [235301-foxys-coin-hunt.json](./235301-foxys-coin-hunt.json) |
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
@@ -3836,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frag | 110296 | [110296-frag.json](./110296-frag.json) |
 | Frag | 167251 | [167251-frag.json](./167251-frag.json) |
 | Frag-A-Friend | 408165 | [408165-frag-a-friend.json](./408165-frag-a-friend.json) |
+| Fraga | 397270 | [397270-fraga.json](./397270-fraga.json) |
 | Fragger | 94183 | [94183-fragger.json](./94183-fragger.json) |
 | Fragile Ascent | 292010 | [292010-fragile-ascent.json](./292010-fragile-ascent.json) |
 | Fragile Equilibrium | 113757 | [113757-fragile-equilibrium.json](./113757-fragile-equilibrium.json) |
