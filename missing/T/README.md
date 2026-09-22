@@ -5519,6 +5519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Sun | 252396 | [252396-the-red-sun.json](./252396-the-red-sun.json) |
 | The Red Sun Sets Over the Fields of Grain | 237618 | [237618-the-red-sun-sets-over-the-fields-of-grain.json](./237618-the-red-sun-sets-over-the-fields-of-grain.json) |
 | The Red Weight | 402406 | [402406-the-red-weight.json](./402406-the-red-weight.json) |
+| The Red Wood | 397223 | [397223-the-red-wood.json](./397223-the-red-wood.json) |
 | The redemption of pancakes | 106555 | [106555-the-redemption-of-pancakes.json](./106555-the-redemption-of-pancakes.json) |
 | The Redundant | 318979 | [318979-the-redundant.json](./318979-the-redundant.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
@@ -5837,6 +5838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silver Age | 209556 | [209556-the-silver-age.json](./209556-the-silver-age.json) |
 | The Silver Case: Deluxe Edition | 51921 | [51921-the-silver-case-deluxe-edition.json](./51921-the-silver-case-deluxe-edition.json) |
 | The Silver Lining | 50807 | [50807-the-silver-lining.json](./50807-the-silver-lining.json) |
+| The Simen Rumors | 397220 | [397220-the-simen-rumors.json](./397220-the-simen-rumors.json) |
 | The Simpsons Arcade Game | 2826 | [2826-the-simpsons-arcade-game.json](./2826-the-simpsons-arcade-game.json) |
 | The Simpsons Game | 259329 | [259329-the-simpsons-game.json](./259329-the-simpsons-game.json) |
 | The Simpsons Game | 2656 | [2656-the-simpsons-game.json](./2656-the-simpsons-game.json) |
