@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana | 95469 | [95469-banana.json](./95469-banana.json) |
 | Banana 3D | 338190 | [338190-banana-3d.json](./338190-banana-3d.json) |
 | Banana Attack VR | 234196 | [234196-banana-attack-vr.json](./234196-banana-attack-vr.json) |
+| Banana Bliss: Jungle Puzzles | 23515 | [23515-banana-bliss-jungle-puzzles.json](./23515-banana-bliss-jungle-puzzles.json) |
 | Banana Bonanza! | 231627 | [231627-banana-bonanza.json](./231627-banana-bonanza.json) |
 | Banana Bugs | 230534 | [230534-banana-bugs.json](./230534-banana-bugs.json) |
 | Banana Chaos Clicker | 389961 | [389961-banana-chaos-clicker.json](./389961-banana-chaos-clicker.json) |
@@ -2300,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Tomorrows | 180829 | [180829-better-tomorrows.json](./180829-better-tomorrows.json) |
 | Better With A Friend | 301255 | [301255-better-with-a-friend.json](./301255-better-with-a-friend.json) |
 | Betty & Earl | 163977 | [163977-betty-and-earl.json](./163977-betty-and-earl.json) |
+| Betty Bad | 23449 | [23449-betty-bad.json](./23449-betty-bad.json) |
 | Betty's Beer Bar | 70365 | [70365-bettys-beer-bar.json](./70365-bettys-beer-bar.json) |
 | Between | 398980 | [398980-between.json](./398980-between.json) |
 | Between | 95369 | [95369-between.json](./95369-between.json) |
