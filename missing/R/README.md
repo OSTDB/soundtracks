@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type II | 276500 | [276500-r-type-ii.json](./276500-r-type-ii.json) |
 | R-Type Leo | 6855 | [6855-r-type-leo.json](./6855-r-type-leo.json) |
 | R-Type Tactics II: Operation Bitter Chocolate | 44505 | [44505-r-type-tactics-ii-operation-bitter-chocolate.json](./44505-r-type-tactics-ii-operation-bitter-chocolate.json) |
+| R: Racing Evolution | 4076 | [4076-r-racing-evolution.json](./4076-r-racing-evolution.json) |
 | R.A.I.L. Together | 409644 | [409644-r-a-i-l-together.json](./409644-r-a-i-l-together.json) |
 | R.A.T.: Human Error – Episode One | 350507 | [350507-r-a-t-human-error-episode-one.json](./350507-r-a-t-human-error-episode-one.json) |
 | R.A.Z.I.O.N | 75512 | [75512-r-a-z-i-o-n.json](./75512-r-a-z-i-o-n.json) |
@@ -1861,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reshape | 293634 | [293634-reshape.json](./293634-reshape.json) |
 | Reshine | 399078 | [399078-reshine.json](./399078-reshine.json) |
 | Resident Evil | 102722 | [102722-resident-evil.json](./102722-resident-evil.json) |
+| Resident Evil | 288943 | [288943-resident-evil.json](./288943-resident-evil.json) |
 | Resident Evil 0 | 15108 | [15108-resident-evil-0.json](./15108-resident-evil-0.json) |
 | Resident Evil 2 | 210710 | [210710-resident-evil-2.json](./210710-resident-evil-2.json) |
 | Resident Evil 2: Collector's Edition | 105979 | [105979-resident-evil-2-collectors-edition.json](./105979-resident-evil-2-collectors-edition.json) |
