@@ -2728,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Trickster: Parkour Simulator | 96708 | [96708-flip-trickster-parkour-simulator.json](./96708-flip-trickster-parkour-simulator.json) |
 | Flip Trip | 233108 | [233108-flip-trip.json](./233108-flip-trip.json) |
 | Flip Words | 77381 | [77381-flip-words.json](./77381-flip-words.json) |
+| Flip-Flop Fury | 402521 | [402521-flip-flop-fury.json](./402521-flip-flop-fury.json) |
 | Flip-It | 159167 | [159167-flip-it.json](./159167-flip-it.json) |
 | Flip! The Cartoon Strategy Game | 57086 | [57086-flip-the-cartoon-strategy-game.json](./57086-flip-the-cartoon-strategy-game.json) |
 | Flip's Escape | 64646 | [64646-flips-escape.json](./64646-flips-escape.json) |
