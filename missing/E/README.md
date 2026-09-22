@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Simulator | 86727 | [86727-eagle-simulator.json](./86727-eagle-simulator.json) |
 | Eagle: Special Forces | 333383 | [333383-eagle-special-forces.json](./333383-eagle-special-forces.json) |
 | Eagle's Rider | 13627 | [13627-eagles-rider.json](./13627-eagles-rider.json) |
+| EagleRoad: WorldRise | 406297 | [406297-eagleroad-worldrise.json](./406297-eagleroad-worldrise.json) |
 | Eagles | 13842 | [13842-eagles.json](./13842-eagles.json) |
 | Ealam Arib | 90600 | [90600-ealam-arib.json](./90600-ealam-arib.json) |
 | Ear Hockey, a Microsoft Garage Project | 210740 | [210740-ear-hockey-a-microsoft-garage-project.json](./210740-ear-hockey-a-microsoft-garage-project.json) |
@@ -1663,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Error 0: New World Found | 178685 | [178685-error-0-new-world-found.json](./178685-error-0-new-world-found.json) |
 | Error Codes | 325654 | [325654-error-codes.json](./325654-error-codes.json) |
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
+| Error: Girlfriend Not Found | 406289 | [406289-error-girlfriend-not-found.json](./406289-error-girlfriend-not-found.json) |
 | Erst Kerf | 130906 | [130906-erst-kerf.json](./130906-erst-kerf.json) |
 | Erth | 134673 | [134673-erth.json](./134673-erth.json) |
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
@@ -2494,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EVR Race | 100172 | [100172-evr-race.json](./100172-evr-race.json) |
 | Ewe Shall Not Pass | 260391 | [260391-ewe-shall-not-pass.json](./260391-ewe-shall-not-pass.json) |
 | EWorlds | 257404 | [257404-eworlds.json](./257404-eworlds.json) |
+| Ex Change | 406293 | [406293-ex-change.json](./406293-ex-change.json) |
 | Ex Life | 140527 | [140527-ex-life.json](./140527-ex-life.json) |
 | Ex Machina: Arcade | 17171 | [17171-ex-machina-arcade.json](./17171-ex-machina-arcade.json) |
 | Ex Natura: Nature Corrupted | 192395 | [192395-ex-natura-nature-corrupted.json](./192395-ex-natura-nature-corrupted.json) |
