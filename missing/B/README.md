@@ -3121,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Werewolf | 293099 | [293099-black-werewolf.json](./293099-black-werewolf.json) |
 | Black Widow: Looking for Love | 220874 | [220874-black-widow-looking-for-love.json](./220874-black-widow-looking-for-love.json) |
 | Black Witchcraft | 60800 | [60800-black-witchcraft.json](./60800-black-witchcraft.json) |
+| Black Wolves Saga: Weiβ und Schwarz - for Nintendo Switch | 414563 | [414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json](./414563-black-wolves-saga-wei-und-schwarz-for-nintendo-switch.json) |
 | Black Zen White | 344938 | [344938-black-zen-white.json](./344938-black-zen-white.json) |
 | Black/Matrix + | 93534 | [93534-black-matrix.json](./93534-black-matrix.json) |
 | Black/Matrix 00 | 137090 | [137090-black-matrix-00.json](./137090-black-matrix-00.json) |
@@ -4357,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoneTown | 145047 | [145047-bonetown.json](./145047-bonetown.json) |
 | Bonetown: The Power of Death | 35741 | [35741-bonetown-the-power-of-death.json](./35741-bonetown-the-power-of-death.json) |
 | BoneTown: The Second Coming Edition | 173828 | [173828-bonetown-the-second-coming-edition.json](./173828-bonetown-the-second-coming-edition.json) |
+| Boneyard Bounce! | 414604 | [414604-boneyard-bounce.json](./414604-boneyard-bounce.json) |
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
 | Bonfire Peaks: Lost Memories | 203901 | [203901-bonfire-peaks-lost-memories.json](./203901-bonfire-peaks-lost-memories.json) |
 | BongBongCapy | 400862 | [400862-bongbongcapy.json](./400862-bongbongcapy.json) |
@@ -5790,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Town | 258720 | [258720-bullet-town.json](./258720-bullet-town.json) |
 | Bullet Train Simulator: Euro Train Driver | 104611 | [104611-bullet-train-simulator-euro-train-driver.json](./104611-bullet-train-simulator-euro-train-driver.json) |
 | Bullet Trap | 68640 | [68640-bullet-trap.json](./68640-bullet-trap.json) |
+| Bullet Vendetta | 414588 | [414588-bullet-vendetta.json](./414588-bullet-vendetta.json) |
 | Bullet Waltz | 223658 | [223658-bullet-waltz.json](./223658-bullet-waltz.json) |
 | Bullet'n Surf | 97359 | [97359-bulletn-surf.json](./97359-bulletn-surf.json) |
 | Bullet'n Tunes | 97358 | [97358-bulletn-tunes.json](./97358-bulletn-tunes.json) |
