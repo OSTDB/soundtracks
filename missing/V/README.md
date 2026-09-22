@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory is Justice! | 117092 | [117092-victory-is-justice.json](./117092-victory-is-justice.json) |
 | Victory of Seeker | 338570 | [338570-victory-of-seeker.json](./338570-victory-of-seeker.json) |
 | Victory Road | 131819 | [131819-victory-road.json](./131819-victory-road.json) |
+| Victory Run | 42118 | [42118-victory-run.json](./42118-victory-run.json) |
 | Victory Zone: Real Pachinko Simulator | 255086 | [255086-victory-zone-real-pachinko-simulator.json](./255086-victory-zone-real-pachinko-simulator.json) |
 | Victory: The Age of Racing | 16850 | [16850-victory-the-age-of-racing.json](./16850-victory-the-age-of-racing.json) |
 | Video Casino Games | 137099 | [137099-video-casino-games.json](./137099-video-casino-games.json) |
@@ -682,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Time Machine | 40770 | [40770-video-time-machine.json](./40770-video-time-machine.json) |
 | Video's Revenge | 178065 | [178065-videos-revenge.json](./178065-videos-revenge.json) |
 | Videocart 20 - Schach | 18586 | [18586-videocart-20-schach.json](./18586-videocart-20-schach.json) |
+| Videocart-2: Desert Fox & Shooting Gallery | 41221 | [41221-videocart-2-desert-fox-and-shooting-gallery.json](./41221-videocart-2-desert-fox-and-shooting-gallery.json) |
 | Videocart-25: Casino Poker | 18603 | [18603-videocart-25-casino-poker.json](./18603-videocart-25-casino-poker.json) |
 | Videocart-26: Alien Invasion | 18604 | [18604-videocart-26-alien-invasion.json](./18604-videocart-26-alien-invasion.json) |
 | Videocart-27: Pac-Man | 245385 | [245385-videocart-27-pac-man.json](./245385-videocart-27-pac-man.json) |
