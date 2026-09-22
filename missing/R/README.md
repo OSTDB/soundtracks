@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revvolvver | 250460 | [250460-revvolvver.json](./250460-revvolvver.json) |
 | Revvver | 285450 | [285450-revvver.json](./285450-revvver.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
+| Rewind or Die | 244116 | [244116-rewind-or-die.json](./244116-rewind-or-die.json) |
 | Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
 | ReWire | 348839 | [348839-rewire.json](./348839-rewire.json) |
 | Rewrite - DYH | 142892 | [142892-rewrite-dyh.json](./142892-rewrite-dyh.json) |
