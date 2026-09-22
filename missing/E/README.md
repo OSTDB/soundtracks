@@ -2025,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity Guards | 148488 | [148488-eternity-guards.json](./148488-eternity-guards.json) |
 | Eternium: Mage and Minions | 193967 | [193967-eternium-mage-and-minions.json](./193967-eternium-mage-and-minions.json) |
 | Eterspire | 143526 | [143526-eterspire.json](./143526-eterspire.json) |
+| Ethan: Meteor Hunter | 10279 | [10279-ethan-meteor-hunter.json](./10279-ethan-meteor-hunter.json) |
 | Ethan's Watch | 390613 | [390613-ethans-watch.json](./390613-ethans-watch.json) |
 | Ether | 311502 | [311502-ether.json](./311502-ether.json) |
 | Ether Awakening | 44229 | [44229-ether-awakening.json](./44229-ether-awakening.json) |
@@ -2138,11 +2139,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Air War | 685 | [685-european-air-war.json](./685-european-air-war.json) |
 | European Card Wars | 291229 | [291229-european-card-wars.json](./291229-european-card-wars.json) |
 | European Championship 1992 | 70102 | [70102-european-championship-1992.json](./70102-european-championship-1992.json) |
+| European Fishing | 10287 | [10287-european-fishing.json](./10287-european-fishing.json) |
 | European Football Champ | 39672 | [39672-european-football-champ.json](./39672-european-football-champ.json) |
 | European Football Champ | 42573 | [42573-european-football-champ.json](./42573-european-football-champ.json) |
 | European Games | 100112 | [100112-european-games.json](./100112-european-games.json) |
 | European Mystery: Scent of Desire - Collector's Edition | 29749 | [29749-european-mystery-scent-of-desire-collectors-edition.json](./29749-european-mystery-scent-of-desire-collectors-edition.json) |
 | European Mystery: The Face of Envy | 68947 | [68947-european-mystery-the-face-of-envy.json](./68947-european-mystery-the-face-of-envy.json) |
+| European Ship Simulator | 10288 | [10288-european-ship-simulator.json](./10288-european-ship-simulator.json) |
 | European Soccer Cup 2016 Slot | 232535 | [232535-european-soccer-cup-2016-slot.json](./232535-european-soccer-cup-2016-slot.json) |
 | European Super League | 334686 | [334686-european-super-league.json](./334686-european-super-league.json) |
 | European Tennis Pro | 66949 | [66949-european-tennis-pro.json](./66949-european-tennis-pro.json) |
