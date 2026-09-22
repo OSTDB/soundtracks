@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer General III: Scorched Earth | 24154 | [24154-panzer-general-iii-scorched-earth.json](./24154-panzer-general-iii-scorched-earth.json) |
 | Panzer Killer | 41978 | [41978-panzer-killer.json](./41978-panzer-killer.json) |
 | Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
+| Panzer Paladin | 116195 | [116195-panzer-paladin.json](./116195-panzer-paladin.json) |
 | Panzer Strike | 324314 | [324314-panzer-strike.json](./324314-panzer-strike.json) |
 | Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
@@ -1035,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Abomination Vaults | 280311 | [280311-pathfinder-abomination-vaults.json](./280311-pathfinder-abomination-vaults.json) |
 | Pathfinder: Gallowspire Survivors | 252859 | [252859-pathfinder-gallowspire-survivors.json](./252859-pathfinder-gallowspire-survivors.json) |
 | Pathfinder: Kingmaker - Enhanced Plus Edition | 154530 | [154530-pathfinder-kingmaker-enhanced-plus-edition.json](./154530-pathfinder-kingmaker-enhanced-plus-edition.json) |
+| Pathfinder: Kingmaker - Varnhold's Lot | 115540 | [115540-pathfinder-kingmaker-varnholds-lot.json](./115540-pathfinder-kingmaker-varnholds-lot.json) |
 | Pathfinder: Wrath of the Righteous - Game of the Year Edition | 331855 | [331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json](./331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json) |
 | Pathfinder: Wrath of the Righteous - Love Beyond Death | 186869 | [186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json](./186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json) |
 | Pathfinder: Wrath of the Righteous - The Treasure of the Midnight Isles | 215691 | [215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json](./215691-pathfinder-wrath-of-the-righteous-the-treasure-of-the-midnight-isles.json) |
@@ -5081,6 +5083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Neos | 406177 | [406177-project-neos.json](./406177-project-neos.json) |
 | Project Neptune | 55097 | [55097-project-neptune.json](./55097-project-neptune.json) |
 | Project Night | 26949 | [26949-project-night.json](./26949-project-night.json) |
+| Project Nightmares Case 36: Henrietta Kedward | 104568 | [104568-project-nightmares-case-36-henrietta-kedward.json](./104568-project-nightmares-case-36-henrietta-kedward.json) |
 | Project Nihilum: Zero | 341553 | [341553-project-nihilum-zero.json](./341553-project-nihilum-zero.json) |
 | Project Nimbus: Complete Edition | 117739 | [117739-project-nimbus-complete-edition.json](./117739-project-nimbus-complete-edition.json) |
 | Project Nincolas | 324093 | [324093-project-nincolas.json](./324093-project-nincolas.json) |
