@@ -3640,6 +3640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns N' Boxes | 24064 | [24064-guns-n-boxes.json](./24064-guns-n-boxes.json) |
 | Guns of Bullshit | 129723 | [129723-guns-of-bullshit.json](./129723-guns-of-bullshit.json) |
 | Guns of Fury | 312358 | [312358-guns-of-fury.json](./312358-guns-of-fury.json) |
+| Guns of Icarus Alliance | 21989 | [21989-guns-of-icarus-alliance.json](./21989-guns-of-icarus-alliance.json) |
 | Guns of Mercy | 114176 | [114176-guns-of-mercy.json](./114176-guns-of-mercy.json) |
 | Guns of Midnight | 118362 | [118362-guns-of-midnight.json](./118362-guns-of-midnight.json) |
 | Guns, Blocks, and Steel | 326239 | [326239-guns-blocks-and-steel.json](./326239-guns-blocks-and-steel.json) |
