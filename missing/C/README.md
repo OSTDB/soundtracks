@@ -2782,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronomon | 244487 | [244487-chronomon.json](./244487-chronomon.json) |
 | Chronophobia | 122341 | [122341-chronophobia.json](./122341-chronophobia.json) |
 | Chronophoto | 237530 | [237530-chronophoto.json](./237530-chronophoto.json) |
+| Chronos | 18974 | [18974-chronos.json](./18974-chronos.json) |
 | Chronos Materia | 63261 | [63261-chronos-materia.json](./63261-chronos-materia.json) |
 | Chronos Shift | 350528 | [350528-chronos-shift.json](./350528-chronos-shift.json) |
 | Chronos Twins | 85540 | [85540-chronos-twins.json](./85540-chronos-twins.json) |
@@ -4050,6 +4051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossal Cave VR | 253587 | [253587-colossal-cave-vr.json](./253587-colossal-cave-vr.json) |
 | Colossal Saga | 126663 | [126663-colossal-saga.json](./126663-colossal-saga.json) |
 | Colossatron: Massive World Threat | 62546 | [62546-colossatron-massive-world-threat.json](./62546-colossatron-massive-world-threat.json) |
+| Colosse | 19036 | [19036-colosse.json](./19036-colosse.json) |
 | Colosseum Coach | 395694 | [395694-colosseum-coach.json](./395694-colosseum-coach.json) |
 | Colossorama | 176985 | [176985-colossorama.json](./176985-colossorama.json) |
 | Colossus Down: Destroy'em Up Editon | 150145 | [150145-colossus-down-destroyem-up-editon.json](./150145-colossus-down-destroyem-up-editon.json) |
@@ -5741,6 +5743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Strike | 345571 | [345571-critical-strike.json](./345571-critical-strike.json) |
 | Criticality | 180788 | [180788-criticality.json](./180788-criticality.json) |
 | CriticalOrb | 290929 | [290929-criticalorb.json](./290929-criticalorb.json) |
+| Criticom | 19165 | [19165-criticom.json](./19165-criticom.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
 | Critter Café | 305075 | [305075-critter-cafe.json](./305075-critter-cafe.json) |
 | Critter Clicker | 169845 | [169845-critter-clicker.json](./169845-critter-clicker.json) |
@@ -5926,6 +5929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowded Dungeon Crawler | 182993 | [182993-crowded-dungeon-crawler.json](./182993-crowded-dungeon-crawler.json) |
 | Crown | 12415 | [12415-crown.json](./12415-crown.json) |
 | Crown | 146111 | [146111-crown.json](./146111-crown.json) |
+| Crown and Council | 18977 | [18977-crown-and-council.json](./18977-crown-and-council.json) |
 | Crown Champion: Legends of the Arena | 31349 | [31349-crown-champion-legends-of-the-arena.json](./31349-crown-champion-legends-of-the-arena.json) |
 | Crown Chase | 412268 | [412268-crown-chase.json](./412268-crown-chase.json) |
 | Crown Claimer | 187528 | [187528-crown-claimer.json](./187528-crown-claimer.json) |
@@ -6740,6 +6744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberia | 4331 | [4331-cyberia.json](./4331-cyberia.json) |
 | CyberKitty: Neon Merge | 415858 | [415858-cyberkitty-neon-merge.json](./415858-cyberkitty-neon-merge.json) |
 | Cyberlinxx | 236952 | [236952-cyberlinxx.json](./236952-cyberlinxx.json) |
+| Cybermage: Darklight Awakening | 18998 | [18998-cybermage-darklight-awakening.json](./18998-cybermage-darklight-awakening.json) |
 | CyberMedic Simulator | 118365 | [118365-cybermedic-simulator.json](./118365-cybermedic-simulator.json) |
 | Cybermercs: The Soldiers of the 22nd Century | 70386 | [70386-cybermercs-the-soldiers-of-the-22nd-century.json](./70386-cybermercs-the-soldiers-of-the-22nd-century.json) |
 | Cybermorph | 40803 | [40803-cybermorph.json](./40803-cybermorph.json) |
