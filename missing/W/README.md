@@ -1605,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicket Cricket Manager | 243977 | [243977-wicket-cricket-manager.json](./243977-wicket-cricket-manager.json) |
 | Wickie und die starken Männer: Die Mutprobe | 250603 | [250603-wickie-und-die-starken-manner-die-mutprobe.json](./250603-wickie-und-die-starken-manner-die-mutprobe.json) |
 | Wide Cross | 109497 | [109497-wide-cross.json](./109497-wide-cross.json) |
+| Wide Ocean Big Jacket | 127591 | [127591-wide-ocean-big-jacket.json](./127591-wide-ocean-big-jacket.json) |
 | Wide Open | 173284 | [173284-wide-open.json](./173284-wide-open.json) |
 | Widget Inc. | 319207 | [319207-widget-inc.json](./319207-widget-inc.json) |
 | Widget Satchel | 105353 | [105353-widget-satchel.json](./105353-widget-satchel.json) |
