@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus: Climb to Olympus | 329581 | [329581-icarus-climb-to-olympus.json](./329581-icarus-climb-to-olympus.json) |
 | Icarus: Everbark Outpost | 262459 | [262459-icarus-everbark-outpost.json](./262459-icarus-everbark-outpost.json) |
 | Icarus: Holdfast Outpost | 262456 | [262456-icarus-holdfast-outpost.json](./262456-icarus-holdfast-outpost.json) |
+| Icarus: Homestead Content Pack | 392438 | [392438-icarus-homestead-content-pack.json](./392438-icarus-homestead-content-pack.json) |
 | Icarus: Iceholm Outpost | 262457 | [262457-icarus-iceholm-outpost.json](./262457-icarus-iceholm-outpost.json) |
 | Icarus: Styx Map Pack | 204686 | [204686-icarus-styx-map-pack.json](./204686-icarus-styx-map-pack.json) |
 | Icarus: Tecton Outpost | 262458 | [262458-icarus-tecton-outpost.json](./262458-icarus-tecton-outpost.json) |
@@ -538,8 +539,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Dig Gold: Craft Adventure | 248105 | [248105-idle-dig-gold-craft-adventure.json](./248105-idle-dig-gold-craft-adventure.json) |
 | Idle Dragon Clicker: Expansion Pack 1 | 263188 | [263188-idle-dragon-clicker-expansion-pack-1.json](./263188-idle-dragon-clicker-expansion-pack-1.json) |
 | Idle Dungeons | 103476 | [103476-idle-dungeons.json](./103476-idle-dungeons.json) |
+| Idle Elemental | 392446 | [392446-idle-elemental.json](./392446-idle-elemental.json) |
 | Idle Expanse | 138599 | [138599-idle-expanse.json](./138599-idle-expanse.json) |
 | Idle Farming Tycoon Empire | 175877 | [175877-idle-farming-tycoon-empire.json](./175877-idle-farming-tycoon-empire.json) |
+| Idle Fitness Gym Tycoon | 392447 | [392447-idle-fitness-gym-tycoon.json](./392447-idle-fitness-gym-tycoon.json) |
 | Idle Flipper | 87666 | [87666-idle-flipper.json](./87666-idle-flipper.json) |
 | Idle Food Empire Tycoon | 219268 | [219268-idle-food-empire-tycoon.json](./219268-idle-food-empire-tycoon.json) |
 | Idle Game Tycoon | 233628 | [233628-idle-game-tycoon.json](./233628-idle-game-tycoon.json) |
@@ -612,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Warrior | 129679 | [129679-idle-warrior.json](./129679-idle-warrior.json) |
 | Idle Wasteland: Pet Slot Bundle | 157546 | [157546-idle-wasteland-pet-slot-bundle.json](./157546-idle-wasteland-pet-slot-bundle.json) |
 | Idle Waters | 304604 | [304604-idle-waters.json](./304604-idle-waters.json) |
+| Idle World | 392449 | [392449-idle-world.json](./392449-idle-world.json) |
 | Idle Zombie Shelter | 200729 | [200729-idle-zombie-shelter.json](./200729-idle-zombie-shelter.json) |
 | Idle Zoo Park | 260661 | [260661-idle-zoo-park.json](./260661-idle-zoo-park.json) |
 | IdleCraft | 289438 | [289438-idlecraft.json](./289438-idlecraft.json) |
@@ -1702,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intense! Miyu-chan and Teacher's Rock-Paper-Scissors Battle! | 340756 | [340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json](./340756-intense-miyu-chan-and-teachers-rock-paper-scissors-battle.json) |
 | Inter Milan Club Football 2005 | 267906 | [267906-inter-milan-club-football-2005.json](./267906-inter-milan-club-football-2005.json) |
 | Interactive Empathy | 392802 | [392802-interactive-empathy.json](./392802-interactive-empathy.json) |
+| Interactive Manual For Employees of Pippi-integrated Companies | 392442 | [392442-interactive-manual-for-employees-of-pippi-integrated-companies.json](./392442-interactive-manual-for-employees-of-pippi-integrated-companies.json) |
 | Interactive meadow 64 | 178022 | [178022-interactive-meadow-64.json](./178022-interactive-meadow-64.json) |
 | Interactive Sex: BDSM | 371354 | [371354-interactive-sex-bdsm.json](./371354-interactive-sex-bdsm.json) |
 | Interactive Storybook DS: Series 3 | 269833 | [269833-interactive-storybook-ds-series-3.json](./269833-interactive-storybook-ds-series-3.json) |
@@ -2122,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iros | 270410 | [270410-iros.json](./270410-iros.json) |
 | Irradiant Skies | 385591 | [385591-irradiant-skies.json](./385591-irradiant-skies.json) |
 | Irrational Exuberance | 33518 | [33518-irrational-exuberance.json](./33518-irrational-exuberance.json) |
+| Irreminiscence | 392479 | [392479-irreminiscence.json](./392479-irreminiscence.json) |
 | Irresistible Love | 340764 | [340764-irresistible-love.json](./340764-irresistible-love.json) |
 | Irreverence | 412428 | [412428-irreverence.json](./412428-irreverence.json) |
 | Irreversible | 375839 | [375839-irreversible.json](./375839-irreversible.json) |
