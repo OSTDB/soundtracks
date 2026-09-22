@@ -1559,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insensato | 215196 | [215196-insensato.json](./215196-insensato.json) |
 | Insert Coin | 401482 | [401482-insert-coin.json](./401482-insert-coin.json) |
 | Insert Item Apocalypse | 304577 | [304577-insert-item-apocalypse.json](./304577-insert-item-apocalypse.json) |
+| Insert Paper | 52052 | [52052-insert-paper.json](./52052-insert-paper.json) |
 | Insert Rich Family Name | 247601 | [247601-insert-rich-family-name.json](./247601-insert-rich-family-name.json) |
 | Insertion | 274187 | [274187-insertion.json](./274187-insertion.json) |
 | Inside Intruder | 329564 | [329564-inside-intruder.json](./329564-inside-intruder.json) |
