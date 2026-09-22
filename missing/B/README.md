@@ -2691,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Beavers: Kitchen | 298035 | [298035-bingo-beavers-kitchen.json](./298035-bingo-beavers-kitchen.json) |
 | Bingo Betty | 377081 | [377081-bingo-betty.json](./377081-bingo-betty.json) |
 | Bingo Blitz️ | 181306 | [181306-bingo-blitz.json](./181306-bingo-blitz.json) |
+| Bingo Caller Machine | 88150 | [88150-bingo-caller-machine.json](./88150-bingo-caller-machine.json) |
 | Bingo Christmas: Holiday Bingo | 88213 | [88213-bingo-christmas-holiday-bingo.json](./88213-bingo-christmas-holiday-bingo.json) |
 | Bingo de NouTore: BinTore | 222526 | [222526-bingo-de-noutore-bintore.json](./222526-bingo-de-noutore-bintore.json) |
 | Bingo For Kids | 102597 | [102597-bingo-for-kids.json](./102597-bingo-for-kids.json) |
@@ -3132,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Calculator | 245550 | [245550-blackjack-calculator.json](./245550-blackjack-calculator.json) |
 | Blackjack Elf | 313895 | [313895-blackjack-elf.json](./313895-blackjack-elf.json) |
 | Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
+| Blackjack In Space | 88200 | [88200-blackjack-in-space.json](./88200-blackjack-in-space.json) |
 | Blackjack Roulette | 380530 | [380530-blackjack-roulette.json](./380530-blackjack-roulette.json) |
 | Blackjack Simulator 2024 | 266297 | [266297-blackjack-simulator-2024.json](./266297-blackjack-simulator-2024.json) |
 | Blackjack story | 180119 | [180119-blackjack-story.json](./180119-blackjack-story.json) |
