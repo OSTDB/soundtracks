@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen Of The Sands | 415079 | [415079-queen-of-the-sands.json](./415079-queen-of-the-sands.json) |
 | Queen of Zarkov | 173288 | [173288-queen-of-zarkov.json](./173288-queen-of-zarkov.json) |
 | Queen: Rock Tour | 231466 | [231466-queen-rock-tour.json](./231466-queen-rock-tour.json) |
+| Queen's Blade Re:Build | 406940 | [406940-queens-blade-re-build.json](./406940-queens-blade-re-build.json) |
 | Queen's Crown | 80571 | [80571-queens-crown.json](./80571-queens-crown.json) |
 | Queen's Garden 2 | 101504 | [101504-queens-garden-2.json](./101504-queens-garden-2.json) |
 | Queen's Garden 4: Sakura Season | 100960 | [100960-queens-garden-4-sakura-season.json](./100960-queens-garden-4-sakura-season.json) |
