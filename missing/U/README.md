@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Apocalypse | 252841 | [252841-ultimate-apocalypse.json](./252841-ultimate-apocalypse.json) |
 | Ultimate Arena | 33667 | [33667-ultimate-arena.json](./33667-ultimate-arena.json) |
 | Ultimate Arena of Fate | 273090 | [273090-ultimate-arena-of-fate.json](./273090-ultimate-arena-of-fate.json) |
+| Ultimate Arena: Showdown | 81606 | [81606-ultimate-arena-showdown.json](./81606-ultimate-arena-showdown.json) |
 | Ultimate Armored Turbodrifter: Saga Chapter 2 - Tank Authority Wolfram | 290950 | [290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json](./290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json) |
 | Ultimate Baseball Online 2007 | 21413 | [21413-ultimate-baseball-online-2007.json](./21413-ultimate-baseball-online-2007.json) |
 | Ultimate Battle Kingdom | 390507 | [390507-ultimate-battle-kingdom.json](./390507-ultimate-battle-kingdom.json) |
@@ -238,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Soccer | 331952 | [331952-ultimate-soccer.json](./331952-ultimate-soccer.json) |
 | Ultimate Space Commando | 35963 | [35963-ultimate-space-commando.json](./35963-ultimate-space-commando.json) |
 | Ultimate Sparring | 334077 | [334077-ultimate-sparring.json](./334077-ultimate-sparring.json) |
+| Ultimate Spider Hero | 81629 | [81629-ultimate-spider-hero.json](./81629-ultimate-spider-hero.json) |
 | Ultimate Spider-Man | 4225 | [4225-ultimate-spider-man.json](./4225-ultimate-spider-man.json) |
 | Ultimate Spider-Man in the Villain Round-Up | 220114 | [220114-ultimate-spider-man-in-the-villain-round-up.json](./220114-ultimate-spider-man-in-the-villain-round-up.json) |
 | Ultimate Spider-Man: Limited Edition | 381722 | [381722-ultimate-spider-man-limited-edition.json](./381722-ultimate-spider-man-limited-edition.json) |
