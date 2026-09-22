@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights: Gold Edition | 210036 | [210036-neverwinter-nights-gold-edition.json](./210036-neverwinter-nights-gold-edition.json) |
 | Neverwinter: Undermountain | 115474 | [115474-neverwinter-undermountain.json](./115474-neverwinter-undermountain.json) |
 | Nevrosa: Escape | 68172 | [68172-nevrosa-escape.json](./68172-nevrosa-escape.json) |
+| Nevrosa: Primal Ritual | 118427 | [118427-nevrosa-primal-ritual.json](./118427-nevrosa-primal-ritual.json) |
 | Nevryon | 261332 | [261332-nevryon.json](./261332-nevryon.json) |
 | Nevsky Run | 110389 | [110389-nevsky-run.json](./110389-nevsky-run.json) |
 | Nevsky Titbit | 250597 | [250597-nevsky-titbit.json](./250597-nevsky-titbit.json) |
@@ -2174,6 +2175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nock & Load | 341482 | [341482-nock-and-load.json](./341482-nock-and-load.json) |
 | Nock: Hidden Arrow | 31389 | [31389-nock-hidden-arrow.json](./31389-nock-hidden-arrow.json) |
 | Nocked! | 174208 | [174208-nocked.json](./174208-nocked.json) |
+| Nocked! True Tales of Robin Hood | 118139 | [118139-nocked-true-tales-of-robin-hood.json](./118139-nocked-true-tales-of-robin-hood.json) |
 | Noctropolis | 243766 | [243766-noctropolis.json](./243766-noctropolis.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
 | Noctuary: New Journey | 370210 | [370210-noctuary-new-journey.json](./370210-noctuary-new-journey.json) |
