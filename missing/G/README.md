@@ -1532,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls X Battle: GXB Global | 104098 | [104098-girls-x-battle-gxb-global.json](./104098-girls-x-battle-gxb-global.json) |
 | Girls, I Just Want to Get Paid! | 378284 | [378284-girls-i-just-want-to-get-paid.json](./378284-girls-i-just-want-to-get-paid.json) |
 | Girls! Girls! Girls!? | 219796 | [219796-girls-girls-girls.json](./219796-girls-girls-girls.json) |
+| Girls' civilization | 113267 | [113267-girls-civilization.json](./113267-girls-civilization.json) |
 | Girls' Civilization 3 | 207398 | [207398-girls-civilization-3.json](./207398-girls-civilization-3.json) |
 | Girls' Day Out | 407327 | [407327-girls-day-out.json](./407327-girls-day-out.json) |
 | Girls' Fashion Shoot | 79894 | [79894-girls-fashion-shoot.json](./79894-girls-fashion-shoot.json) |
@@ -1688,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloria Union: Twin Fates in Blue Ocean | 66057 | [66057-gloria-union-twin-fates-in-blue-ocean.json](./66057-gloria-union-twin-fates-in-blue-ocean.json) |
 | Gloriana | 169888 | [169888-gloriana.json](./169888-gloriana.json) |
 | Glorious | 169851 | [169851-glorious.json](./169851-glorious.json) |
+| Glorious Companions | 113839 | [113839-glorious-companions.json](./113839-glorious-companions.json) |
 | Glorious Mission | 74323 | [74323-glorious-mission.json](./74323-glorious-mission.json) |
 | Glorious Savior | 38972 | [38972-glorious-savior.json](./38972-glorious-savior.json) |
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
