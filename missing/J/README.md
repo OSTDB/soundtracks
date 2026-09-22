@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jett Tailfin Racers | 60759 | [60759-jett-tailfin-racers.json](./60759-jett-tailfin-racers.json) |
 | Jettatura | 207502 | [207502-jettatura.json](./207502-jettatura.json) |
 | JettFuel | 316277 | [316277-jettfuel.json](./316277-jettfuel.json) |
+| JettFuel+ | 416848 | [416848-jettfuel.json](./416848-jettfuel.json) |
 | JetTurbo | 261865 | [261865-jetturbo.json](./261865-jetturbo.json) |
 | JetWireClimber | 312166 | [312166-jetwireclimber.json](./312166-jetwireclimber.json) |
 | JetX Racing | 115476 | [115476-jetx-racing.json](./115476-jetx-racing.json) |
@@ -1235,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junsei Yasaotoko Sweet & Bitter | 242073 | [242073-junsei-yasaotoko-sweet-and-bitter.json](./242073-junsei-yasaotoko-sweet-and-bitter.json) |
 | Jupiter | 313468 | [313468-jupiter.json](./313468-jupiter.json) |
 | Jupiter | 370136 | [370136-jupiter.json](./370136-jupiter.json) |
+| Jupiter & Mars: Definitive Edition | 416856 | [416856-jupiter-and-mars-definitive-edition.json](./416856-jupiter-and-mars-definitive-edition.json) |
 | Jupiter Hell Classic | 321554 | [321554-jupiter-hell-classic.json](./321554-jupiter-hell-classic.json) |
 | Jupiter Junkworks | 296355 | [296355-jupiter-junkworks.json](./296355-jupiter-junkworks.json) |
 | Jupiter Melon | 284901 | [284901-jupiter-melon.json](./284901-jupiter-melon.json) |
