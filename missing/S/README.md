@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvage Shop Simulator | 355103 | [355103-salvage-shop-simulator.json](./355103-salvage-shop-simulator.json) |
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
 | Salvation | 79851 | [79851-salvation.json](./79851-salvation.json) |
+| Salvation Denied | 395837 | [395837-salvation-denied.json](./395837-salvation-denied.json) |
 | Salvation Hours | 306490 | [306490-salvation-hours.json](./306490-salvation-hours.json) |
 | Salvation in Corruption | 75183 | [75183-salvation-in-corruption.json](./75183-salvation-in-corruption.json) |
 | Salvation Plan: Spirit Evil | 284336 | [284336-salvation-plan-spirit-evil.json](./284336-salvation-plan-spirit-evil.json) |
@@ -1956,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensorium | 138740 | [138740-sensorium.json](./138740-sensorium.json) |
 | Sensory Baby Toddler Learning Extra | 99392 | [99392-sensory-baby-toddler-learning-extra.json](./99392-sensory-baby-toddler-learning-extra.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
+| Sensory Overload | 395844 | [395844-sensory-overload.json](./395844-sensory-overload.json) |
 | Sensual Adventures: Episode 7 | 245856 | [245856-sensual-adventures-episode-7.json](./245856-sensual-adventures-episode-7.json) |
 | Sensual Adventures: Episode 8 | 259002 | [259002-sensual-adventures-episode-8.json](./259002-sensual-adventures-episode-8.json) |
 | Sensual Adventures: Episode 9 | 277842 | [277842-sensual-adventures-episode-9.json](./277842-sensual-adventures-episode-9.json) |
