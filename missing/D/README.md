@@ -2103,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons of Problematique | 260126 | [260126-demons-of-problematique.json](./260126-demons-of-problematique.json) |
 | Demons of Problematique 2 | 260127 | [260127-demons-of-problematique-2.json](./260127-demons-of-problematique-2.json) |
 | Demons Rise Up! | 192877 | [192877-demons-rise-up.json](./192877-demons-rise-up.json) |
+| Demons Roots | 189139 | [189139-demons-roots.json](./189139-demons-roots.json) |
 | Demons vs. Fairyland | 245328 | [245328-demons-vs-fairyland.json](./245328-demons-vs-fairyland.json) |
 | Demons with Shotguns: Deluxe Edition | 52890 | [52890-demons-with-shotguns-deluxe-edition.json](./52890-demons-with-shotguns-deluxe-edition.json) |
 | Demonspire | 381701 | [381701-demonspire.json](./381701-demonspire.json) |
