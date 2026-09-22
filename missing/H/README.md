@@ -3330,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooray for Spelling | 318044 | [318044-hooray-for-spelling.json](./318044-hooray-for-spelling.json) |
 | Hoover Dam | 272923 | [272923-hoover-dam.json](./272923-hoover-dam.json) |
 | Hoover Heroes | 329963 | [329963-hoover-heroes.json](./329963-hoover-heroes.json) |
+| Hop | 86964 | [86964-hop.json](./86964-hop.json) |
 | Hop 'N' Stack | 311665 | [311665-hop-n-stack.json](./311665-hop-n-stack.json) |
 | Hop for the Best | 206945 | [206945-hop-for-the-best.json](./206945-hop-for-the-best.json) |
 | Hop n Pee Dreams VR | 259094 | [259094-hop-n-pee-dreams-vr.json](./259094-hop-n-pee-dreams-vr.json) |
