@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Deere: Busy Days in Deerfield Valley | 210131 | [210131-john-deere-busy-days-in-deerfield-valley.json](./210131-john-deere-busy-days-in-deerfield-valley.json) |
 | John Deere: Drive Green | 139805 | [139805-john-deere-drive-green.json](./139805-john-deere-drive-green.json) |
 | John Deere: North American Farmer | 210130 | [210130-john-deere-north-american-farmer.json](./210130-john-deere-north-american-farmer.json) |
+| John Fury’s First Fury | 402497 | [402497-john-fury-s-first-fury.json](./402497-john-fury-s-first-fury.json) |
 | John Gleep | 410343 | [410343-john-gleep.json](./410343-john-gleep.json) |
 | John Madden American Football | 45589 | [45589-john-madden-american-football.json](./45589-john-madden-american-football.json) |
 | John Madden Football | 13240 | [13240-john-madden-football.json](./13240-john-madden-football.json) |
