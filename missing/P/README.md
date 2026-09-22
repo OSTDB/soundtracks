@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantomime | 341597 | [341597-pantomime.json](./341597-pantomime.json) |
 | Pants | 179678 | [179678-pants.json](./179678-pants.json) |
 | Pants Quest | 190217 | [190217-pants-quest.json](./190217-pants-quest.json) |
+| Pantsu Hunter: Back to the 90s | 113726 | [113726-pantsu-hunter-back-to-the-90s.json](./113726-pantsu-hunter-back-to-the-90s.json) |
 | Pantsu! | 313682 | [313682-pantsu.json](./313682-pantsu.json) |
 | Pantsylvania | 64373 | [64373-pantsylvania.json](./64373-pantsylvania.json) |
 | Pantufa the Cat | 318632 | [318632-pantufa-the-cat.json](./318632-pantufa-the-cat.json) |
@@ -3054,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planets 3 | 137026 | [137026-planets-3.json](./137026-planets-3.json) |
 | Planetship | 36098 | [36098-planetship.json](./36098-planetship.json) |
 | PlanetSide 2 | 1265 | [1265-planetside-2.json](./1265-planetside-2.json) |
+| PlanetSide Arena | 113362 | [113362-planetside-arena.json](./113362-planetside-arena.json) |
 | PlanetSmith | 263777 | [263777-planetsmith.json](./263777-planetsmith.json) |
 | Planetstar Warrior | 290689 | [290689-planetstar-warrior.json](./290689-planetstar-warrior.json) |
 | Planeturem | 326259 | [326259-planeturem.json](./326259-planeturem.json) |
@@ -5033,6 +5035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Delta | 189146 | [189146-project-delta.json](./189146-project-delta.json) |
 | Project Demigod | 153945 | [153945-project-demigod.json](./153945-project-demigod.json) |
 | Project Discovery: Daidai Daisuki! | 59409 | [59409-project-discovery-daidai-daisuki.json](./59409-project-discovery-daidai-daisuki.json) |
+| Project Downfall | 113813 | [113813-project-downfall.json](./113813-project-downfall.json) |
 | Project DT | 143098 | [143098-project-dt.json](./143098-project-dt.json) |
 | Project Dunk | 122328 | [122328-project-dunk.json](./122328-project-dunk.json) |
 | Project DX | 174821 | [174821-project-dx.json](./174821-project-dx.json) |
