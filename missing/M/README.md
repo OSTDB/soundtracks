@@ -1263,6 +1263,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart 64: Stomper Mod | 248307 | [248307-mario-kart-64-stomper-mod.json](./248307-mario-kart-64-stomper-mod.json) |
 | Mario Kart 8 Deluxe + Booster Course Pass | 245049 | [245049-mario-kart-8-deluxe-booster-course-pass.json](./245049-mario-kart-8-deluxe-booster-course-pass.json) |
 | Mario Kart 8 Deluxe: Booster Course Pass | 191419 | [191419-mario-kart-8-deluxe-booster-course-pass.json](./191419-mario-kart-8-deluxe-booster-course-pass.json) |
+| Mario Kart 8 Deluxe: Booster Course Pass - Wave 4 | 231442 | [231442-mario-kart-8-deluxe-booster-course-pass-wave-4.json](./231442-mario-kart-8-deluxe-booster-course-pass-wave-4.json) |
+| Mario Kart 8 Deluxe: Booster Course Pass - Wave 6 | 231445 | [231445-mario-kart-8-deluxe-booster-course-pass-wave-6.json](./231445-mario-kart-8-deluxe-booster-course-pass-wave-6.json) |
 | Mario Kart Arcade GP | 45160 | [45160-mario-kart-arcade-gp.json](./45160-mario-kart-arcade-gp.json) |
 | Mario Kart Arcade GP VR | 48711 | [48711-mario-kart-arcade-gp-vr.json](./48711-mario-kart-arcade-gp-vr.json) |
 | Mario Kart DS: GameCube Grand Prix | 313347 | [313347-mario-kart-ds-gamecube-grand-prix.json](./313347-mario-kart-ds-gamecube-grand-prix.json) |
@@ -2427,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Your Maker: Sector 3 Arsenal Pack | 284882 | [284882-meet-your-maker-sector-3-arsenal-pack.json](./284882-meet-your-maker-sector-3-arsenal-pack.json) |
 | Meet.Hunter | 96479 | [96479-meet-hunter.json](./96479-meet-hunter.json) |
 | Meet'N'Fuck Denise Milani | 221728 | [221728-meetnfuck-denise-milani.json](./221728-meetnfuck-denise-milani.json) |
+| Meet'N'Fuck Kingdom | 221730 | [221730-meetnfuck-kingdom.json](./221730-meetnfuck-kingdom.json) |
 | Meet'N'Fuck Office Romance | 221724 | [221724-meetnfuck-office-romance.json](./221724-meetnfuck-office-romance.json) |
 | Meet'N'Fuck: BDSM Club | 221726 | [221726-meetnfuck-bdsm-club.json](./221726-meetnfuck-bdsm-club.json) |
 | Meet'N'Fuck: Ocean Cruise | 221729 | [221729-meetnfuck-ocean-cruise.json](./221729-meetnfuck-ocean-cruise.json) |
