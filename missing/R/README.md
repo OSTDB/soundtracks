@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Solstice 2: Survivors - Condatis Group | 193437 | [193437-red-solstice-2-survivors-condatis-group.json](./193437-red-solstice-2-survivors-condatis-group.json) |
 | Red Solstice 2: Survivors - Ultimate Edition | 329198 | [329198-red-solstice-2-survivors-ultimate-edition.json](./329198-red-solstice-2-survivors-ultimate-edition.json) |
 | Red Sparrow | 38998 | [38998-red-sparrow.json](./38998-red-sparrow.json) |
+| Red Spider 2: Exiled Remastered | 401844 | [401844-red-spider-2-exiled-remastered.json](./401844-red-spider-2-exiled-remastered.json) |
 | Red Spider Anecdote: The Longest Nite | 324318 | [324318-red-spider-anecdote-the-longest-nite.json](./324318-red-spider-anecdote-the-longest-nite.json) |
 | Red Spider: Vengeance Remastered | 371969 | [371969-red-spider-vengeance-remastered.json](./371969-red-spider-vengeance-remastered.json) |
 | Red Square | 120977 | [120977-red-square.json](./120977-red-square.json) |
