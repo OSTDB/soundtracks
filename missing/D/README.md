@@ -1799,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepest Depth | 320186 | [320186-deepest-depth.json](./320186-deepest-depth.json) |
 | Deepest Oblivion | 271813 | [271813-deepest-oblivion.json](./271813-deepest-oblivion.json) |
 | Deepest Regret | 280434 | [280434-deepest-regret.json](./280434-deepest-regret.json) |
+| Deepest Valley | 395832 | [395832-deepest-valley.json](./395832-deepest-valley.json) |
 | Deepfield | 211202 | [211202-deepfield.json](./211202-deepfield.json) |
 | Deepfried in Deepspace | 373541 | [373541-deepfried-in-deepspace.json](./373541-deepfried-in-deepspace.json) |
 | DeepFriedCraft, the Worst Modpack Ever | 205066 | [205066-deepfriedcraft-the-worst-modpack-ever.json](./205066-deepfriedcraft-the-worst-modpack-ever.json) |
@@ -3228,6 +3229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Stacker | 108250 | [108250-dinosaur-stacker.json](./108250-dinosaur-stacker.json) |
 | Dinosaur World | 276205 | [276205-dinosaur-world.json](./276205-dinosaur-world.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
+| Dinosaurium | 395865 | [395865-dinosaurium.json](./395865-dinosaurium.json) |
 | Dinosaurs - Connect the Dots and Add Colors | 86725 | [86725-dinosaurs-connect-the-dots-and-add-colors.json](./86725-dinosaurs-connect-the-dots-and-add-colors.json) |
 | Dinosaurs A Prehistoric Adventure | 57128 | [57128-dinosaurs-a-prehistoric-adventure.json](./57128-dinosaurs-a-prehistoric-adventure.json) |
 | Dinosaurs and Animal Friends to the Rescue | 353999 | [353999-dinosaurs-and-animal-friends-to-the-rescue.json](./353999-dinosaurs-and-animal-friends-to-the-rescue.json) |
@@ -4148,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Die | 151570 | [151570-dont-die.json](./151570-dont-die.json) |
 | Don't Die | 343339 | [343339-dont-die.json](./343339-dont-die.json) |
 | Don't Die Dateless, Dummy! | 33198 | [33198-dont-die-dateless-dummy.json](./33198-dont-die-dateless-dummy.json) |
+| Don't Die Roguelike | 395892 | [395892-dont-die-roguelike.json](./395892-dont-die-roguelike.json) |
 | Don't Die, Mr. Robot! | 52178 | [52178-dont-die-mr-robot.json](./52178-dont-die-mr-robot.json) |
 | Don't Die! | 343340 | [343340-dont-die.json](./343340-dont-die.json) |
 | Don't Drop Luggage! | 303483 | [303483-dont-drop-luggage.json](./303483-dont-drop-luggage.json) |
