@@ -3839,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Truck | 406181 | [406181-poly-truck.json](./406181-poly-truck.json) |
 | Poly-Net Warriors | 222907 | [222907-poly-net-warriors.json](./222907-poly-net-warriors.json) |
 | Polyamorous Relationships | 179048 | [179048-polyamorous-relationships.json](./179048-polyamorous-relationships.json) |
+| Polyball | 20348 | [20348-polyball.json](./20348-polyball.json) |
 | Polybius | 24868 | [24868-polybius.json](./24868-polybius.json) |
 | Polybius Invaders | 173786 | [173786-polybius-invaders.json](./173786-polybius-invaders.json) |
 | Polybius Invaders 2 | 270948 | [270948-polybius-invaders-2.json](./270948-polybius-invaders-2.json) |
@@ -4965,6 +4966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Atlas | 142385 | [142385-project-atlas.json](./142385-project-atlas.json) |
 | Project Atlas | 387321 | [387321-project-atlas.json](./387321-project-atlas.json) |
 | Project Atno | 272947 | [272947-project-atno.json](./272947-project-atno.json) |
+| Project Aura | 17519 | [17519-project-aura.json](./17519-project-aura.json) |
 | Project Awakening | 22790 | [22790-project-awakening.json](./22790-project-awakening.json) |
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
 | Project Backrooms | 236529 | [236529-project-backrooms.json](./236529-project-backrooms.json) |
