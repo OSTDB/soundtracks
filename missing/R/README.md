@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Racer | 18698 | [18698-rage-racer.json](./18698-rage-racer.json) |
 | Rage Racing 3D | 242799 | [242799-rage-racing-3d.json](./242799-rage-racing-3d.json) |
 | Rage Room | 81093 | [81093-rage-room.json](./81093-rage-room.json) |
+| Rage Runner | 9010 | [9010-rage-runner.json](./9010-rage-runner.json) |
 | Rage Tower | 355033 | [355033-rage-tower.json](./355033-rage-tower.json) |
 | Rageball | 43894 | [43894-rageball.json](./43894-rageball.json) |
 | Rageball League | 174754 | [174754-rageball-league.json](./174754-rageball-league.json) |
@@ -1151,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebellion: A Rogue Souls Like | 153393 | [153393-rebellion-a-rogue-souls-like.json](./153393-rebellion-a-rogue-souls-like.json) |
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
 | Rebels Prison Escape | 71233 | [71233-rebels-prison-escape.json](./71233-rebels-prison-escape.json) |
+| Rebelstar: Tactical Command | 6554 | [6554-rebelstar-tactical-command.json](./6554-rebelstar-tactical-command.json) |
 | Rebirth | 116854 | [116854-rebirth.json](./116854-rebirth.json) |
 | Rebirth | 345525 | [345525-rebirth.json](./345525-rebirth.json) |
 | Rebirth | 78571 | [78571-rebirth.json](./78571-rebirth.json) |
@@ -1471,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReDrawn: The Painted Tower | 188035 | [188035-redrawn-the-painted-tower.json](./188035-redrawn-the-painted-tower.json) |
 | ReDrop | 347773 | [347773-redrop.json](./347773-redrop.json) |
 | Redshift VR | 111067 | [111067-redshift-vr.json](./111067-redshift-vr.json) |
+| Redshirt | 9220 | [9220-redshirt.json](./9220-redshirt.json) |
 | Redstream | 392134 | [392134-redstream.json](./392134-redstream.json) |
 | Redstream Dispatch | 397059 | [397059-redstream-dispatch.json](./397059-redstream-dispatch.json) |
 | Redswood VR | 32103 | [32103-redswood-vr.json](./32103-redswood-vr.json) |
@@ -2131,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Dust | 271737 | [271737-return-to-dust.json](./271737-return-to-dust.json) |
 | Return to Earth 2130 | 157182 | [157182-return-to-earth-2130.json](./157182-return-to-earth-2130.json) |
 | Return to Grisly Manor | 88046 | [88046-return-to-grisly-manor.json](./88046-return-to-grisly-manor.json) |
+| Return to Krondor | 8827 | [8827-return-to-krondor.json](./8827-return-to-krondor.json) |
 | Return to Kroz | 71789 | [71789-return-to-kroz.json](./71789-return-to-kroz.json) |
 | Return to Long Shadows | 406091 | [406091-return-to-long-shadows.json](./406091-return-to-long-shadows.json) |
 | Return to Mysterious Island | 17052 | [17052-return-to-mysterious-island.json](./17052-return-to-mysterious-island.json) |
@@ -2286,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewrite the Romance: The Golden Lotus | 346567 | [346567-rewrite-the-romance-the-golden-lotus.json](./346567-rewrite-the-romance-the-golden-lotus.json) |
 | Rex | 45348 | [45348-rex.json](./45348-rex.json) |
 | Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
+| Rex Nebular and the Cosmic Gender Bender | 8680 | [8680-rex-nebular-and-the-cosmic-gender-bender.json](./8680-rex-nebular-and-the-cosmic-gender-bender.json) |
 | Rex Ronan: Experimental Surgeon | 42651 | [42651-rex-ronan-experimental-surgeon.json](./42651-rex-ronan-experimental-surgeon.json) |
 | Rex Run | 305748 | [305748-rex-run.json](./305748-rex-run.json) |
 | Rex Sedes | 82785 | [82785-rex-sedes.json](./82785-rex-sedes.json) |
@@ -4436,6 +4441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rygar | 28841 | [28841-rygar.json](./28841-rygar.json) |
 | Rygar | 6856 | [6856-rygar.json](./6856-rygar.json) |
 | Rygar: The Legendary Adventure | 5134 | [5134-rygar-the-legendary-adventure.json](./5134-rygar-the-legendary-adventure.json) |
+| RYL: Path of the Emperor | 6548 | [6548-ryl-path-of-the-emperor.json](./6548-ryl-path-of-the-emperor.json) |
 | RymdResa | 11735 | [11735-rymdresa.json](./11735-rymdresa.json) |
 | Ryojyoku Damashii: Ero Kenkyaku Den | 97367 | [97367-ryojyoku-damashii-ero-kenkyaku-den.json](./97367-ryojyoku-damashii-ero-kenkyaku-den.json) |
 | Ryoufuu no Melt: Days in the Sanctuary | 44566 | [44566-ryoufuu-no-melt-days-in-the-sanctuary.json](./44566-ryoufuu-no-melt-days-in-the-sanctuary.json) |
