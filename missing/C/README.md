@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Future Warfare | 294871 | [294871-call-of-duty-future-warfare.json](./294871-call-of-duty-future-warfare.json) |
 | Call of Duty: Ghosts - Digital Hardened Edition | 240504 | [240504-call-of-duty-ghosts-digital-hardened-edition.json](./240504-call-of-duty-ghosts-digital-hardened-edition.json) |
 | Call of Duty: Ghosts - Gold Edition | 100000 | [100000-call-of-duty-ghosts-gold-edition.json](./100000-call-of-duty-ghosts-gold-edition.json) |
+| Call of Duty: Infinite Warfare - Absolution | 44149 | [44149-call-of-duty-infinite-warfare-absolution.json](./44149-call-of-duty-infinite-warfare-absolution.json) |
 | Call of Duty: Infinite Warfare - Continuum | 28063 | [28063-call-of-duty-infinite-warfare-continuum.json](./28063-call-of-duty-infinite-warfare-continuum.json) |
 | Call of Duty: Infinite Warfare - Legacy Edition | 42896 | [42896-call-of-duty-infinite-warfare-legacy-edition.json](./42896-call-of-duty-infinite-warfare-legacy-edition.json) |
 | Call of Duty: Modern Warfare - Season Four | 135220 | [135220-call-of-duty-modern-warfare-season-four.json](./135220-call-of-duty-modern-warfare-season-four.json) |
@@ -4886,6 +4887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Horizons: Path of the Wanderer | 278552 | [278552-cosmic-horizons-path-of-the-wanderer.json](./278552-cosmic-horizons-path-of-the-wanderer.json) |
 | Cosmic Invasion | 335844 | [335844-cosmic-invasion.json](./335844-cosmic-invasion.json) |
 | Cosmic Kitchen | 295272 | [295272-cosmic-kitchen.json](./295272-cosmic-kitchen.json) |
+| Cosmic Kites | 38814 | [38814-cosmic-kites.json](./38814-cosmic-kites.json) |
 | Cosmic League | 57108 | [57108-cosmic-league.json](./57108-cosmic-league.json) |
 | Cosmic League | 57134 | [57134-cosmic-league.json](./57134-cosmic-league.json) |
 | Cosmic Math | 91745 | [91745-cosmic-math.json](./91745-cosmic-math.json) |
@@ -5879,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossover Collab | 379890 | [379890-crossover-collab.json](./379890-crossover-collab.json) |
 | CrossOver: Roll For Initiative | 202861 | [202861-crossover-roll-for-initiative.json](./202861-crossover-roll-for-initiative.json) |
 | Crossovers by Powgi | 117488 | [117488-crossovers-by-powgi.json](./117488-crossovers-by-powgi.json) |
+| Crossroad Crisis | 43739 | [43739-crossroad-crisis.json](./43739-crossroad-crisis.json) |
 | Crossroad of Worlds: Cursed Letters - Collector's Edition | 257434 | [257434-crossroad-of-worlds-cursed-letters-collectors-edition.json](./257434-crossroad-of-worlds-cursed-letters-collectors-edition.json) |
 | Crossroad of Worlds: Magic Stars - Collector's Edition | 255708 | [255708-crossroad-of-worlds-magic-stars-collectors-edition.json](./255708-crossroad-of-worlds-magic-stars-collectors-edition.json) |
 | Crossroad OS | 259007 | [259007-crossroad-os.json](./259007-crossroad-os.json) |
