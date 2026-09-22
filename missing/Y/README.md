@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yooka-Replaylee | 304740 | [304740-yooka-replaylee.json](./304740-yooka-replaylee.json) |
 | Yooperlite | 338214 | [338214-yooperlite.json](./338214-yooperlite.json) |
 | Yoostar | 62439 | [62439-yoostar.json](./62439-yoostar.json) |
+| Yoostar 2: In the Movies | 20164 | [20164-yoostar-2-in-the-movies.json](./20164-yoostar-2-in-the-movies.json) |
 | Yore VR | 26140 | [26140-yore-vr.json](./26140-yore-vr.json) |
 | Yorg | 121719 | [121719-yorg.json](./121719-yorg.json) |
 | Yorg.io | 101699 | [101699-yorg-io.json](./101699-yorg-io.json) |
