@@ -2234,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everplast | 191819 | [191819-everplast.json](./191819-everplast.json) |
 | EverQuest II: Age of Discovery | 23830 | [23830-everquest-ii-age-of-discovery.json](./23830-everquest-ii-age-of-discovery.json) |
 | EverQuest II: Chains of Eternity | 18318 | [18318-everquest-ii-chains-of-eternity.json](./18318-everquest-ii-chains-of-eternity.json) |
+| EverQuest II: Echoes of Faydwer | 20631 | [20631-everquest-ii-echoes-of-faydwer.json](./20631-everquest-ii-echoes-of-faydwer.json) |
 | EverQuest II: Kingdom of Sky | 20490 | [20490-everquest-ii-kingdom-of-sky.json](./20490-everquest-ii-kingdom-of-sky.json) |
 | EverQuest II: Sentinel's Fate | 4208 | [4208-everquest-ii-sentinels-fate.json](./4208-everquest-ii-sentinels-fate.json) |
 | EverQuest II: The Bloodline Chronicles | 111024 | [111024-everquest-ii-the-bloodline-chronicles.json](./111024-everquest-ii-the-bloodline-chronicles.json) |
@@ -2300,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evhacon 2 | 129607 | [129607-evhacon-2.json](./129607-evhacon-2.json) |
 | Evidence of 96' | 398358 | [398358-evidence-of-96.json](./398358-evidence-of-96.json) |
 | Evidence: The Last Report | 71461 | [71461-evidence-the-last-report.json](./71461-evidence-the-last-report.json) |
+| Evidence: The Last Ritual | 20599 | [20599-evidence-the-last-ritual.json](./20599-evidence-the-last-ritual.json) |
 | Evie Mal Games | 102776 | [102776-evie-mal-games.json](./102776-evie-mal-games.json) |
 | Evil | 154005 | [154005-evil.json](./154005-evil.json) |
 | Evil | 34874 | [34874-evil.json](./34874-evil.json) |
