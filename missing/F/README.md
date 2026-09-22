@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Boyfriend | 298882 | [298882-fairy-boyfriend.json](./298882-fairy-boyfriend.json) |
 | Fairy Bubble | 172100 | [172100-fairy-bubble.json](./172100-fairy-bubble.json) |
 | Fairy Carrots | 276838 | [276838-fairy-carrots.json](./276838-fairy-carrots.json) |
+| Fairy Elements | 214643 | [214643-fairy-elements.json](./214643-fairy-elements.json) |
 | Fairy Escape | 99632 | [99632-fairy-escape.json](./99632-fairy-escape.json) |
 | Fairy Fencer F: Advent Dark Force - Deluxe Edition | 186883 | [186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json](./186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json) |
 | Fairy Fencer F: Refrain Chord | 203092 | [203092-fairy-fencer-f-refrain-chord.json](./203092-fairy-fencer-f-refrain-chord.json) |
@@ -2073,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firetrack | 38926 | [38926-firetrack.json](./38926-firetrack.json) |
 | FireTry: Capture the Flag | 167850 | [167850-firetry-capture-the-flag.json](./167850-firetry-capture-the-flag.json) |
 | Firewall | 230955 | [230955-firewall.json](./230955-firewall.json) |
+| Firewall Ultra | 215777 | [215777-firewall-ultra.json](./215777-firewall-ultra.json) |
 | Firewall Zero Hour | 76966 | [76966-firewall-zero-hour.json](./76966-firewall-zero-hour.json) |
 | Firewall: Man vs. Machine | 217880 | [217880-firewall-man-vs-machine.json](./217880-firewall-man-vs-machine.json) |
 | Firewatch: Audio Tour | 251228 | [251228-firewatch-audio-tour.json](./251228-firewatch-audio-tour.json) |
@@ -2690,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper Critters | 20693 | [20693-flipper-critters.json](./20693-flipper-critters.json) |
 | Flipper Hazard 5 | 55442 | [55442-flipper-hazard-5.json](./55442-flipper-hazard-5.json) |
 | Flipper Mechanic Simulator | 244789 | [244789-flipper-mechanic-simulator.json](./244789-flipper-mechanic-simulator.json) |
+| Flippin Misfits | 212809 | [212809-flippin-misfits.json](./212809-flippin-misfits.json) |
 | Flipping Frogs 64 | 369060 | [369060-flipping-frogs-64.json](./369060-flipping-frogs-64.json) |
 | Flipping in the air | 278703 | [278703-flipping-in-the-air.json](./278703-flipping-in-the-air.json) |
 | Flipping is Hard | 351111 | [351111-flipping-is-hard.json](./351111-flipping-is-hard.json) |
