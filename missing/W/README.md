@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Cards Fall | 27271 | [27271-where-cards-fall.json](./27271-where-cards-fall.json) |
 | Where Did I Put It? | 223472 | [223472-where-did-i-put-it.json](./223472-where-did-i-put-it.json) |
 | Where Do I Fit? | 177489 | [177489-where-do-i-fit.json](./177489-where-do-i-fit.json) |
+| Where Giants Fall | 403137 | [403137-where-giants-fall.json](./403137-where-giants-fall.json) |
 | Where in America's Past Is Carmen Sandiego? | 50495 | [50495-where-in-americas-past-is-carmen-sandiego.json](./50495-where-in-americas-past-is-carmen-sandiego.json) |
 | Where in Europe is Carmen Sandiego? | 12824 | [12824-where-in-europe-is-carmen-sandiego.json](./12824-where-in-europe-is-carmen-sandiego.json) |
 | Where in Space Is Carmen Sandiego? | 50496 | [50496-where-in-space-is-carmen-sandiego.json](./50496-where-in-space-is-carmen-sandiego.json) |
