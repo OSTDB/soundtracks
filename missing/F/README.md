@@ -2877,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy's Adventure | 381026 | [381026-fluffys-adventure.json](./381026-fluffys-adventure.json) |
 | Fluid | 94223 | [94223-fluid.json](./94223-fluid.json) |
 | Fluidity | 21169 | [21169-fluidity.json](./21169-fluidity.json) |
+| Fluidity: Spin Cycle | 20088 | [20088-fluidity-spin-cycle.json](./20088-fluidity-spin-cycle.json) |
 | Flunky Farm | 224250 | [224250-flunky-farm.json](./224250-flunky-farm.json) |
 | Flupp the Fish | 264040 | [264040-flupp-the-fish.json](./264040-flupp-the-fish.json) |
 | Flurry Words | 233100 | [233100-flurry-words.json](./233100-flurry-words.json) |
