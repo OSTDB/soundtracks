@@ -2138,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Auction Game | 337199 | [337199-the-auction-game.json](./337199-the-auction-game.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
 | The Avengers | 86108 | [86108-the-avengers.json](./86108-the-avengers.json) |
+| The Average Everyday Adventures of Samantha Browne | 16984 | [16984-the-average-everyday-adventures-of-samantha-browne.json](./16984-the-average-everyday-adventures-of-samantha-browne.json) |
 | The Awakened Avenger | 372467 | [372467-the-awakened-avenger.json](./372467-the-awakened-avenger.json) |
 | The Awakened Fate: Ultimatum | 19119 | [19119-the-awakened-fate-ultimatum.json](./19119-the-awakened-fate-ultimatum.json) |
 | The Awakener: Risen | 172702 | [172702-the-awakener-risen.json](./172702-the-awakener-risen.json) |
@@ -5452,6 +5453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Salatroitsk Incident | 180807 | [180807-the-salatroitsk-incident.json](./180807-the-salatroitsk-incident.json) |
 | The Salt Fortress | 28860 | [28860-the-salt-fortress.json](./28860-the-salt-fortress.json) |
 | The Same World 2 | 214022 | [214022-the-same-world-2.json](./214022-the-same-world-2.json) |
+| The Sandbox | 16872 | [16872-the-sandbox.json](./16872-the-sandbox.json) |
 | The Sandbox | 182468 | [182468-the-sandbox.json](./182468-the-sandbox.json) |
 | The Sandbox - Building & Craft | 90705 | [90705-the-sandbox-building-and-craft.json](./90705-the-sandbox-building-and-craft.json) |
 | The Sands of Egypt | 23688 | [23688-the-sands-of-egypt.json](./23688-the-sands-of-egypt.json) |
