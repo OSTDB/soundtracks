@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula Online | 120181 | [120181-nebula-online.json](./120181-nebula-online.json) |
 | NebuLeet | 304884 | [304884-nebuleet.json](./304884-nebuleet.json) |
 | Nebuli | 157720 | [157720-nebuli.json](./157720-nebuli.json) |
+| Nebulous | 19039 | [19039-nebulous.json](./19039-nebulous.json) |
 | Necessary Bimbos | 185699 | [185699-necessary-bimbos.json](./185699-necessary-bimbos.json) |
 | Necessary Force | 68014 | [68014-necessary-force.json](./68014-necessary-force.json) |
 | Necesse | 130788 | [130788-necesse.json](./130788-necesse.json) |
@@ -2239,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoLimits 2: Roller Coaster Simulation - Professional License | 315485 | [315485-nolimits-2-roller-coaster-simulation-professional-license.json](./315485-nolimits-2-roller-coaster-simulation-professional-license.json) |
 | Nom Nom Nom | 209650 | [209650-nom-nom-nom.json](./209650-nom-nom-nom.json) |
 | Nom Nom: Cozy Forest Café | 258535 | [258535-nom-nom-cozy-forest-cafe.json](./258535-nom-nom-cozy-forest-cafe.json) |
+| Nomad Fleet | 18955 | [18955-nomad-fleet.json](./18955-nomad-fleet.json) |
 | Nomad Idle | 323533 | [323533-nomad-idle.json](./323533-nomad-idle.json) |
 | Nomad of Time | 12957 | [12957-nomad-of-time.json](./12957-nomad-of-time.json) |
 | Nomad Station | 247608 | [247608-nomad-station.json](./247608-nomad-station.json) |
