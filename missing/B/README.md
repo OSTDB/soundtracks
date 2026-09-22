@@ -1647,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Friends | 376465 | [376465-beach-friends.json](./376465-beach-friends.json) |
 | Beach Gas Gas | 247620 | [247620-beach-gas-gas.json](./247620-beach-gas-gas.json) |
 | Beach Girls | 75758 | [75758-beach-girls.json](./75758-beach-girls.json) |
+| Beach Head 2000 | 17451 | [17451-beach-head-2000.json](./17451-beach-head-2000.json) |
 | Beach Invasion 1945: Pacific | 247785 | [247785-beach-invasion-1945-pacific.json](./247785-beach-invasion-1945-pacific.json) |
 | Beach Island Deluxe | 212810 | [212810-beach-island-deluxe.json](./212810-beach-island-deluxe.json) |
 | Beach Landing | 307933 | [307933-beach-landing.json](./307933-beach-landing.json) |
@@ -2274,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between | 95369 | [95369-between.json](./95369-between.json) |
 | Between Adventures Idle | 365079 | [365079-between-adventures-idle.json](./365079-between-adventures-idle.json) |
 | Between Heaven and Hell | 72033 | [72033-between-heaven-and-hell.json](./72033-between-heaven-and-hell.json) |
+| Between Me and the Night | 16985 | [16985-between-me-and-the-night.json](./16985-between-me-and-the-night.json) |
 | Between Planets | 121005 | [121005-between-planets.json](./121005-between-planets.json) |
 | Between Stops | 401640 | [401640-between-stops.json](./401640-between-stops.json) |
 | Between the Lines | 380008 | [380008-between-the-lines.json](./380008-between-the-lines.json) |
@@ -2706,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Attack | 36527 | [36527-bionic-attack.json](./36527-bionic-attack.json) |
 | Bionic Chainsaw Pogo Gorilla | 14526 | [14526-bionic-chainsaw-pogo-gorilla.json](./14526-bionic-chainsaw-pogo-gorilla.json) |
 | Bionic Commando | 9242 | [9242-bionic-commando.json](./9242-bionic-commando.json) |
+| Bionic Commando Rearmed 2 | 15858 | [15858-bionic-commando-rearmed-2.json](./15858-bionic-commando-rearmed-2.json) |
 | Bionic Dues | 9221 | [9221-bionic-dues.json](./9221-bionic-dues.json) |
 | Bionic Girl | 9896 | [9896-bionic-girl.json](./9896-bionic-girl.json) |
 | Bionic Granny | 13880 | [13880-bionic-granny.json](./13880-bionic-granny.json) |
@@ -4811,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brand | 63553 | [63553-brand.json](./63553-brand.json) |
 | Brand! New! Friends! | 372477 | [372477-brand-new-friends.json](./372477-brand-new-friends.json) |
 | Brandins Buttons | 151176 | [151176-brandins-buttons.json](./151176-brandins-buttons.json) |
+| Brandish | 16289 | [16289-brandish.json](./16289-brandish.json) |
 | Brandish 2: The Planet Buster | 42212 | [42212-brandish-2-the-planet-buster.json](./42212-brandish-2-the-planet-buster.json) |
 | Brandnew Boy | 38975 | [38975-brandnew-boy.json](./38975-brandnew-boy.json) |
 | Branmarker 2 | 64977 | [64977-branmarker-2.json](./64977-branmarker-2.json) |
