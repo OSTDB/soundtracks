@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrasecreto/Prólogo | 382239 | [382239-ultrasecreto-prologo.json](./382239-ultrasecreto-prologo.json) |
 | UltraStar WorldParty | 138582 | [138582-ultrastar-worldparty.json](./138582-ultrastar-worldparty.json) |
 | Ultratron | 14327 | [14327-ultratron.json](./14327-ultratron.json) |
+| Ultrawings | 27323 | [27323-ultrawings.json](./27323-ultrawings.json) |
 | Ultrawings Flat | 113038 | [113038-ultrawings-flat.json](./113038-ultrawings-flat.json) |
 | Ultrazone | 268223 | [268223-ultrazone.json](./268223-ultrazone.json) |
 | Ultris: The Ultimate Tetris | 14520 | [14520-ultris-the-ultimate-tetris.json](./14520-ultris-the-ultimate-tetris.json) |
