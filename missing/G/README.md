@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters: Rise of the Ghost Lord | 228529 | [228529-ghostbusters-rise-of-the-ghost-lord.json](./228529-ghostbusters-rise-of-the-ghost-lord.json) |
 | Ghostbusters: Sanctum of Slime | 14849 | [14849-ghostbusters-sanctum-of-slime.json](./14849-ghostbusters-sanctum-of-slime.json) |
 | Ghostbusters: Slime City | 96751 | [96751-ghostbusters-slime-city.json](./96751-ghostbusters-slime-city.json) |
+| Ghostbusters: Spirits Unleashed - Ecto Edition | 269357 | [269357-ghostbusters-spirits-unleashed-ecto-edition.json](./269357-ghostbusters-spirits-unleashed-ecto-edition.json) |
 | Ghostbusters: The Video Game | 566 | [566-ghostbusters-the-video-game.json](./566-ghostbusters-the-video-game.json) |
 | Ghostbusters: The Video Game | 77275 | [77275-ghostbusters-the-video-game.json](./77275-ghostbusters-the-video-game.json) |
 | GhostCatcher | 257961 | [257961-ghostcatcher.json](./257961-ghostcatcher.json) |
@@ -2506,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius Galaxies | 77990 | [77990-gradius-galaxies.json](./77990-gradius-galaxies.json) |
 | Gradius II | 213190 | [213190-gradius-ii.json](./213190-gradius-ii.json) |
 | Gradius III and IV | 98976 | [98976-gradius-iii-and-iv.json](./98976-gradius-iii-and-iv.json) |
+| Gradius ReBirth | 1489 | [1489-gradius-rebirth.json](./1489-gradius-rebirth.json) |
 | Gradius V | 1488 | [1488-gradius-v.json](./1488-gradius-v.json) |
 | Graffiti Cozy | 189061 | [189061-graffiti-cozy.json](./189061-graffiti-cozy.json) |
 | Graffiti Groovin' | 228465 | [228465-graffiti-groovin.json](./228465-graffiti-groovin.json) |
