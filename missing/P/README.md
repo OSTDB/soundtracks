@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Dragoon Voyage Record | 330321 | [330321-panzer-dragoon-voyage-record.json](./330321-panzer-dragoon-voyage-record.json) |
 | Panzer Dragoon: Remake | 113350 | [113350-panzer-dragoon-remake.json](./113350-panzer-dragoon-remake.json) |
 | Panzer General III: Scorched Earth | 24154 | [24154-panzer-general-iii-scorched-earth.json](./24154-panzer-general-iii-scorched-earth.json) |
+| Panzer Hearts | 99020 | [99020-panzer-hearts.json](./99020-panzer-hearts.json) |
 | Panzer Killer | 41978 | [41978-panzer-killer.json](./41978-panzer-killer.json) |
 | Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
 | Panzer Paladin | 116195 | [116195-panzer-paladin.json](./116195-panzer-paladin.json) |
@@ -1490,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Per Aspera: Home | 232963 | [232963-per-aspera-home.json](./232963-per-aspera-home.json) |
 | Perceptio | 195167 | [195167-perceptio.json](./195167-perceptio.json) |
 | Perception | 271498 | [271498-perception.json](./271498-perception.json) |
+| Perceptions of the Dead 2 | 99050 | [99050-perceptions-of-the-dead-2.json](./99050-perceptions-of-the-dead-2.json) |
 | Perch | 29944 | [29944-perch.json](./29944-perch.json) |
 | Perchang World | 400242 | [400242-perchang-world.json](./400242-perchang-world.json) |
 | Percipio | 339634 | [339634-percipio.json](./339634-percipio.json) |
@@ -5816,6 +5818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzz LR | 150632 | [150632-puzz-lr.json](./150632-puzz-lr.json) |
 | Puzz'l | 229803 | [229803-puzzl.json](./229803-puzzl.json) |
 | Puzzel Nite | 140397 | [140397-puzzel-nite.json](./140397-puzzel-nite.json) |
+| Puzzgun | 98684 | [98684-puzzgun.json](./98684-puzzgun.json) |
 | Puzzl9 | 178650 | [178650-puzzl9.json](./178650-puzzl9.json) |
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
 | Puzzle & Dragons | 8590 | [8590-puzzle-and-dragons.json](./8590-puzzle-and-dragons.json) |
