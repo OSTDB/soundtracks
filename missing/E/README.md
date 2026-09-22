@@ -2029,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Guardian Rubine: The First Fight | 336552 | [336552-eternal-guardian-rubine-the-first-fight.json](./336552-eternal-guardian-rubine-the-first-fight.json) |
 | Eternal Home Floristry | 123587 | [123587-eternal-home-floristry.json](./123587-eternal-home-floristry.json) |
 | Eternal Hope | 124198 | [124198-eternal-hope.json](./124198-eternal-hope.json) |
+| Eternal Hunger | 397939 | [397939-eternal-hunger.json](./397939-eternal-hunger.json) |
 | Eternal King | 269012 | [269012-eternal-king.json](./269012-eternal-king.json) |
 | Eternal Knight | 338281 | [338281-eternal-knight.json](./338281-eternal-knight.json) |
 | Eternal Labyrinth | 338271 | [338271-eternal-labyrinth.json](./338271-eternal-labyrinth.json) |
