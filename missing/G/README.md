@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlfriend Cards | 106582 | [106582-girlfriend-cards.json](./106582-girlfriend-cards.json) |
 | Girlfriend from Hell | 278416 | [278416-girlfriend-from-hell.json](./278416-girlfriend-from-hell.json) |
 | Girlfriend Note | 58812 | [58812-girlfriend-note.json](./58812-girlfriend-note.json) |
+| Girlfriend Rescue | 10364 | [10364-girlfriend-rescue.json](./10364-girlfriend-rescue.json) |
 | Girlfriend's sister | 75784 | [75784-girlfriends-sister.json](./75784-girlfriends-sister.json) |
 | Girlfriends Forever: Magic Skate | 84511 | [84511-girlfriends-forever-magic-skate.json](./84511-girlfriends-forever-magic-skate.json) |
 | Girlish Grimoire Littlewitch Romanesque: Editio Perfecta | 50166 | [50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json](./50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json) |
@@ -1716,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Puzzle by Glosculptor | 94787 | [94787-glow-puzzle-by-glosculptor.json](./94787-glow-puzzle-by-glosculptor.json) |
 | Glow Rings Puzzle | 106975 | [106975-glow-rings-puzzle.json](./106975-glow-rings-puzzle.json) |
 | Glow Stairs | 174358 | [174358-glow-stairs.json](./174358-glow-stairs.json) |
+| Glowfish | 10366 | [10366-glowfish.json](./10366-glowfish.json) |
 | Glowfish HD | 86697 | [86697-glowfish-hd.json](./86697-glowfish-hd.json) |
 | Glowgrass | 221941 | [221941-glowgrass.json](./221941-glowgrass.json) |
 | Glowie Shooter | 316404 | [316404-glowie-shooter.json](./316404-glowie-shooter.json) |
@@ -1869,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator Waste of Space | 369590 | [369590-goat-simulator-waste-of-space.json](./369590-goat-simulator-waste-of-space.json) |
 | Goat Simulator: Remastered | 314250 | [314250-goat-simulator-remastered.json](./314250-goat-simulator-remastered.json) |
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
+| Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
 | Gob! | 257447 | [257447-gob.json](./257447-gob.json) |
 | GoBangTetris | 192437 | [192437-gobangtetris.json](./192437-gobangtetris.json) |
 | Gobblemen | 152346 | [152346-gobblemen.json](./152346-gobblemen.json) |
@@ -2002,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods & Civilization: Ragnarok | 233638 | [233638-gods-and-civilization-ragnarok.json](./233638-gods-and-civilization-ragnarok.json) |
 | Gods & Guardians | 256840 | [256840-gods-and-guardians.json](./256840-gods-and-guardians.json) |
 | Gods & Heroes | 13858 | [13858-gods-and-heroes.json](./13858-gods-and-heroes.json) |
+| Gods & Heroes: Rome Rising | 10368 | [10368-gods-and-heroes-rome-rising.json](./10368-gods-and-heroes-rome-rising.json) |
 | Gods and Nemesis: of Ghosts from Dragons | 31884 | [31884-gods-and-nemesis-of-ghosts-from-dragons.json](./31884-gods-and-nemesis-of-ghosts-from-dragons.json) |
 | Gods of Almagest | 214514 | [214514-gods-of-almagest.json](./214514-gods-of-almagest.json) |
 | Gods of Angling | 396215 | [396215-gods-of-angling.json](./396215-gods-of-angling.json) |
