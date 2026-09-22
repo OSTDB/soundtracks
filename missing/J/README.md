@@ -1327,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dumb Little Dances | 184000 | [184000-just-dumb-little-dances.json](./184000-just-dumb-little-dances.json) |
 | Just Find It 2 | 256340 | [256340-just-find-it-2.json](./256340-just-find-it-2.json) |
 | Just For Killing Time | 82791 | [82791-just-for-killing-time.json](./82791-just-for-killing-time.json) |
+| Just Freeskiing | 86985 | [86985-just-freeskiing.json](./86985-just-freeskiing.json) |
 | Just Get In Through the Door | 158677 | [158677-just-get-in-through-the-door.json](./158677-just-get-in-through-the-door.json) |
 | Just Get There | 291747 | [291747-just-get-there.json](./291747-just-get-there.json) |
 | Just Get Through | 36059 | [36059-just-get-through.json](./36059-just-get-through.json) |
