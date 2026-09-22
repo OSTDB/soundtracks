@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onii-Chan | 89968 | [89968-onii-chan.json](./89968-onii-chan.json) |
 | Onii-chan Asobo | 111087 | [111087-onii-chan-asobo.json](./111087-onii-chan-asobo.json) |
 | Onii-chan Continue!: Secret Love With Yuri | 396239 | [396239-onii-chan-continue-secret-love-with-yuri.json](./396239-onii-chan-continue-secret-love-with-yuri.json) |
+| Oniken | 8963 | [8963-oniken.json](./8963-oniken.json) |
 | Onimusha 2: Samurai's Destiny | 11757 | [11757-onimusha-2-samurais-destiny.json](./11757-onimusha-2-samurais-destiny.json) |
 | Onimusha 2: Samurai's Destiny | 330283 | [330283-onimusha-2-samurais-destiny.json](./330283-onimusha-2-samurais-destiny.json) |
 | Onimusha Tactics | 6526 | [6526-onimusha-tactics.json](./6526-onimusha-tactics.json) |
@@ -1215,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Secret Storm | 3143 | [3143-operation-secret-storm.json](./3143-operation-secret-storm.json) |
 | Operation Steel | 151732 | [151732-operation-steel.json](./151732-operation-steel.json) |
 | Operation Swat | 29656 | [29656-operation-swat.json](./29656-operation-swat.json) |
+| Operation Thunderbolt | 12191 | [12191-operation-thunderbolt.json](./12191-operation-thunderbolt.json) |
 | Operation Trick-Or-Treat | 333657 | [333657-operation-trick-or-treat.json](./333657-operation-trick-or-treat.json) |
 | Operation Trust | 257402 | [257402-operation-trust.json](./257402-operation-trust.json) |
 | Operation Ushkurat | 242104 | [242104-operation-ushkurat.json](./242104-operation-ushkurat.json) |
@@ -1466,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osakabe | 159144 | [159144-osakabe.json](./159144-osakabe.json) |
 | Osananajimi Ojou-sama to H de Himitsu na Dousei Seikatsu | 396903 | [396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json](./396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json) |
 | Osawari Hockey Enko-chan | 235769 | [235769-osawari-hockey-enko-chan.json](./235769-osawari-hockey-enko-chan.json) |
+| Oscar | 12456 | [12456-oscar.json](./12456-oscar.json) |
 | Oscar der Ballonfahrer taucht unter | 86031 | [86031-oscar-der-ballonfahrer-taucht-unter.json](./86031-oscar-der-ballonfahrer-taucht-unter.json) |
 | Oscar Mike VR | 30810 | [30810-oscar-mike-vr.json](./30810-oscar-mike-vr.json) |
 | Oscar the Balloonist Discovers the Farm | 250604 | [250604-oscar-the-balloonist-discovers-the-farm.json](./250604-oscar-the-balloonist-discovers-the-farm.json) |
