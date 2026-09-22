@@ -5077,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monobeno: Happy End | 396370 | [396370-monobeno-happy-end.json](./396370-monobeno-happy-end.json) |
 | Monochro | 150164 | [150164-monochro.json](./150164-monochro.json) |
 | Monochromaniacs | 124147 | [124147-monochromaniacs.json](./124147-monochromaniacs.json) |
+| Monochromatic Aberration | 417673 | [417673-monochromatic-aberration.json](./417673-monochromatic-aberration.json) |
 | Monochrome Echoes: Black | 410318 | [410318-monochrome-echoes-black.json](./410318-monochrome-echoes-black.json) |
 | Monochrome Echoes: White | 331114 | [331114-monochrome-echoes-white.json](./331114-monochrome-echoes-white.json) |
 | Monochrome Mapping Project | 313857 | [313857-monochrome-mapping-project.json](./313857-monochrome-mapping-project.json) |
