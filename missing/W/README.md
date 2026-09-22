@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior | 215906 | [215906-warrior.json](./215906-warrior.json) |
 | Warrior | 274015 | [274015-warrior.json](./274015-warrior.json) |
 | Warrior Beneath Heaven | 156536 | [156536-warrior-beneath-heaven.json](./156536-warrior-beneath-heaven.json) |
+| Warrior Cats: Clans of the Forest | 412520 | [412520-warrior-cats-clans-of-the-forest.json](./412520-warrior-cats-clans-of-the-forest.json) |
 | Warrior Chef | 270179 | [270179-warrior-chef.json](./270179-warrior-chef.json) |
 | Warrior Chess | 90389 | [90389-warrior-chess.json](./90389-warrior-chess.json) |
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
@@ -2647,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worker Riot | 203554 | [203554-worker-riot.json](./203554-worker-riot.json) |
 | Workhorse | 357861 | [357861-workhorse.json](./357861-workhorse.json) |
 | Working Days | 408762 | [408762-working-days.json](./408762-working-days.json) |
+| Working95 | 412562 | [412562-working95.json](./412562-working95.json) |
 | Workshop Blooming in the Field & the Dark Dragon | 82901 | [82901-workshop-blooming-in-the-field-and-the-dark-dragon.json](./82901-workshop-blooming-in-the-field-and-the-dark-dragon.json) |
 | Workshop Invaders: Bouncy | 108990 | [108990-workshop-invaders-bouncy.json](./108990-workshop-invaders-bouncy.json) |
 | World Advanced Daisenryaku: Sakusen File | 60803 | [60803-world-advanced-daisenryaku-sakusen-file.json](./60803-world-advanced-daisenryaku-sakusen-file.json) |
