@@ -2425,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loki the Lynx | 364499 | [364499-loki-the-lynx.json](./364499-loki-the-lynx.json) |
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
 | Lola: The Escape | 170930 | [170930-lola-the-escape.json](./170930-lola-the-escape.json) |
+| Lola's ABC Party - Learn to Read | 88344 | [88344-lolas-abc-party-learn-to-read.json](./88344-lolas-abc-party-learn-to-read.json) |
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
 | Lolita 2 | 66128 | [66128-lolita-2.json](./66128-lolita-2.json) |
 | Lollipop! | 159882 | [159882-lollipop.json](./159882-lollipop.json) |
@@ -2922,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Death | 259259 | [259259-love-death.json](./259259-love-death.json) |
 | Love Delivery | 185632 | [185632-love-delivery.json](./185632-love-delivery.json) |
 | Love Delivery2 | 274014 | [274014-love-delivery2.json](./274014-love-delivery2.json) |
+| Love Dots | 88160 | [88160-love-dots.json](./88160-love-dots.json) |
 | Love Elysium: Secret of the Goddess - Extended Edition | 315872 | [315872-love-elysium-secret-of-the-goddess-extended-edition.json](./315872-love-elysium-secret-of-the-goddess-extended-edition.json) |
 | Love Elysium: Secret of the Goddess - Special Edition | 317251 | [317251-love-elysium-secret-of-the-goddess-special-edition.json](./317251-love-elysium-secret-of-the-goddess-special-edition.json) |
 | Love Elysium: Secret of the Goddess - Ultimate Edition | 313141 | [313141-love-elysium-secret-of-the-goddess-ultimate-edition.json](./313141-love-elysium-secret-of-the-goddess-ultimate-edition.json) |
