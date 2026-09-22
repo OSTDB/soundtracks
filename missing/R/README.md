@@ -2706,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Ring | 135689 | [135689-ring-ring.json](./135689-ring-ring.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
 | Ring Toss Legend | 408939 | [408939-ring-toss-legend.json](./408939-ring-toss-legend.json) |
+| Ringbound | 397931 | [397931-ringbound.json](./397931-ringbound.json) |
 | Ringer | 324336 | [324336-ringer.json](./324336-ringer.json) |
 | Ringleaders | 263013 | [263013-ringleaders.json](./263013-ringleaders.json) |
 | Ringling Bros. and Barnum & Bailey Circus | 67320 | [67320-ringling-bros-and-barnum-and-bailey-circus.json](./67320-ringling-bros-and-barnum-and-bailey-circus.json) |
@@ -2726,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rinse and Repeat | 13158 | [13158-rinse-and-repeat.json](./13158-rinse-and-repeat.json) |
 | Rinth Island | 22333 | [22333-rinth-island.json](./22333-rinth-island.json) |
 | Rio Rex | 102223 | [102223-rio-rex.json](./102223-rio-rex.json) |
+| Rio Rise | 397904 | [397904-rio-rise.json](./397904-rio-rise.json) |
 | Rio Warzone | 150699 | [150699-rio-warzone.json](./150699-rio-warzone.json) |
 | Rio: Raised In Oblivion | 152407 | [152407-rio-raised-in-oblivion.json](./152407-rio-raised-in-oblivion.json) |
 | Riot At World | 159723 | [159723-riot-at-world.json](./159723-riot-at-world.json) |
@@ -3036,9 +3038,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Z Survival: The Last Winter | 105089 | [105089-road-z-survival-the-last-winter.json](./105089-road-z-survival-the-last-winter.json) |
 | Road's Edge | 28135 | [28135-roads-edge.json](./28135-roads-edge.json) |
 | RoadCraft | 314239 | [314239-roadcraft.json](./314239-roadcraft.json) |
+| RoadCraft: 1-Year Anniversary Edition | 397906 | [397906-roadcraft-1-year-anniversary-edition.json](./397906-roadcraft-1-year-anniversary-edition.json) |
 | RoadCraft: Aramatsu Bowhead 30T | 374731 | [374731-roadcraft-aramatsu-bowhead-30t.json](./374731-roadcraft-aramatsu-bowhead-30t.json) |
 | RoadCraft: Invictus Type A Scout | 374733 | [374733-roadcraft-invictus-type-a-scout.json](./374733-roadcraft-invictus-type-a-scout.json) |
 | RoadCraft: Rebuild Edition | 374732 | [374732-roadcraft-rebuild-edition.json](./374732-roadcraft-rebuild-edition.json) |
+| RoadCraft: Year 1 Pass | 397905 | [397905-roadcraft-year-1-pass.json](./397905-roadcraft-year-1-pass.json) |
 | Roadracer Bowler | 24850 | [24850-roadracer-bowler.json](./24850-roadracer-bowler.json) |
 | RoadRunner | 120156 | [120156-roadrunner.json](./120156-roadrunner.json) |
 | Roads of Rome 2 | 34258 | [34258-roads-of-rome-2.json](./34258-roads-of-rome-2.json) |
@@ -3504,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Patterns | 382767 | [382767-rogue-patterns.json](./382767-rogue-patterns.json) |
 | Rogue Piñatas: VRmageddon | 319683 | [319683-rogue-pinatas-vrmageddon.json](./319683-rogue-pinatas-vrmageddon.json) |
 | Rogue Planet | 197343 | [197343-rogue-planet.json](./197343-rogue-planet.json) |
+| Rogue Planet | 397925 | [397925-rogue-planet.json](./397925-rogue-planet.json) |
 | Rogue Planet | 91355 | [91355-rogue-planet.json](./91355-rogue-planet.json) |
 | Rogue Princess | 211750 | [211750-rogue-princess.json](./211750-rogue-princess.json) |
 | Rogue Quest | 402511 | [402511-rogue-quest.json](./402511-rogue-quest.json) |
