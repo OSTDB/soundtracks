@@ -1582,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Dragons | 59980 | [59980-knights-and-dragons.json](./59980-knights-and-dragons.json) |
 | Knights & Dragons: The Endless Quest | 297602 | [297602-knights-and-dragons-the-endless-quest.json](./297602-knights-and-dragons-the-endless-quest.json) |
 | Knights & Guns: Advanced Edition | 317252 | [317252-knights-and-guns-advanced-edition.json](./317252-knights-and-guns-advanced-edition.json) |
+| Knights & Guns: Comprehensive Edition | 399820 | [399820-knights-and-guns-comprehensive-edition.json](./399820-knights-and-guns-comprehensive-edition.json) |
 | Knights & Guns: Definitive Edition | 283141 | [283141-knights-and-guns-definitive-edition.json](./283141-knights-and-guns-definitive-edition.json) |
 | Knights & Guns: Diamond Edition | 271835 | [271835-knights-and-guns-diamond-edition.json](./271835-knights-and-guns-diamond-edition.json) |
 | Knights & Guns: Expansion Pack #1 | 223559 | [223559-knights-and-guns-expansion-pack-1.json](./223559-knights-and-guns-expansion-pack-1.json) |
