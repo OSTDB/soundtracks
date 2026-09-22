@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Print 'N Play | 79607 | [79607-party-print-n-play.json](./79607-party-print-n-play.json) |
 | Party Project | 273981 | [273981-party-project.json](./273981-party-project.json) |
 | Party Quiz Mega Q 2022 | 216258 | [216258-party-quiz-mega-q-2022.json](./216258-party-quiz-mega-q-2022.json) |
+| Party Saboteurs | 25313 | [25313-party-saboteurs.json](./25313-party-saboteurs.json) |
 | Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
 | Party Words | 207543 | [207543-party-words.json](./207543-party-words.json) |
 | Partygoer! | 329035 | [329035-partygoer.json](./329035-partygoer.json) |
@@ -5880,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Book: Summer 2020 | 238036 | [238036-puzzle-book-summer-2020.json](./238036-puzzle-book-summer-2020.json) |
 | Puzzle Bowling | 158143 | [158143-puzzle-bowling.json](./158143-puzzle-bowling.json) |
 | Puzzle Box | 166072 | [166072-puzzle-box.json](./166072-puzzle-box.json) |
+| Puzzle Box | 27037 | [27037-puzzle-box.json](./27037-puzzle-box.json) |
 | Puzzle Box - Classic Puzzles All in One | 103908 | [103908-puzzle-box-classic-puzzles-all-in-one.json](./103908-puzzle-box-classic-puzzles-all-in-one.json) |
 | Puzzle Box Maker | 84795 | [84795-puzzle-box-maker.json](./84795-puzzle-box-maker.json) |
 | Puzzle Box Palace | 144124 | [144124-puzzle-box-palace.json](./144124-puzzle-box-palace.json) |
