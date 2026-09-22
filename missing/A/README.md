@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires II: Definitive Edition | 55056 | [55056-age-of-empires-ii-definitive-edition.json](./55056-age-of-empires-ii-definitive-edition.json) |
 | Age of Empires II: Definitive Edition - Chronicles: Battle for Greece | 323348 | [323348-age-of-empires-ii-definitive-edition-chronicles-battle-for-greece.json](./323348-age-of-empires-ii-definitive-edition-chronicles-battle-for-greece.json) |
 | Age of Empires II: Definitive Edition - Dynasties of India | 197890 | [197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json](./197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json) |
+| Age of Empires II: Definitive Edition - The Viking Sagas | 418697 | [418697-age-of-empires-ii-definitive-edition-the-viking-sagas.json](./418697-age-of-empires-ii-definitive-edition-the-viking-sagas.json) |
 | Age of Empires II: HD Edition | 2950 | [2950-age-of-empires-ii-hd-edition.json](./2950-age-of-empires-ii-hd-edition.json) |
 | Age of Empires II: HD Edition - The Forgotten | 9951 | [9951-age-of-empires-ii-hd-edition-the-forgotten.json](./9951-age-of-empires-ii-hd-edition-the-forgotten.json) |
 | Age of Empires II: The Conquerors | 599 | [599-age-of-empires-ii-the-conquerors.json](./599-age-of-empires-ii-the-conquerors.json) |
@@ -2763,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angler King | 249778 | [249778-angler-king.json](./249778-angler-king.json) |
 | Angler Quest | 290711 | [290711-angler-quest.json](./290711-angler-quest.json) |
 | Angler's Journey | 350442 | [350442-anglers-journey.json](./350442-anglers-journey.json) |
+| Angler's Lake | 418708 | [418708-anglers-lake.json](./418708-anglers-lake.json) |
 | Angler's World | 217019 | [217019-anglers-world.json](./217019-anglers-world.json) |
 | AnglingTimes | 402384 | [402384-anglingtimes.json](./402384-anglingtimes.json) |
 | Angrbotha Mountains | 239668 | [239668-angrbotha-mountains.json](./239668-angrbotha-mountains.json) |
@@ -4775,6 +4777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix Maxi Collection | 331410 | [331410-asterix-maxi-collection.json](./331410-asterix-maxi-collection.json) |
 | Astérix: Caesar's Challenge | 45944 | [45944-asterix-caesars-challenge.json](./45944-asterix-caesars-challenge.json) |
 | Astérix: These Romans Are Crazy! | 269567 | [269567-asterix-these-romans-are-crazy.json](./269567-asterix-these-romans-are-crazy.json) |
+| AsterMaster | 418795 | [418795-astermaster.json](./418795-astermaster.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
 | Asteroad | 149089 | [149089-asteroad.json](./149089-asteroad.json) |
 | Asteroid | 80931 | [80931-asteroid.json](./80931-asteroid.json) |
@@ -5356,6 +5359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Racing | 246505 | [246505-auto-racing.json](./246505-auto-racing.json) |
 | Auto Rogue | 334135 | [334135-auto-rogue.json](./334135-auto-rogue.json) |
 | Auto Sale Life | 258011 | [258011-auto-sale-life.json](./258011-auto-sale-life.json) |
+| Auto Shrooms | 418861 | [418861-auto-shrooms.json](./418861-auto-shrooms.json) |
 | Auto Sport Racing Simulator | 381702 | [381702-auto-sport-racing-simulator.json](./381702-auto-sport-racing-simulator.json) |
 | Auto Test | 347705 | [347705-auto-test.json](./347705-auto-test.json) |
 | Auto Tow Truck Simulator | 278710 | [278710-auto-tow-truck-simulator.json](./278710-auto-tow-truck-simulator.json) |
