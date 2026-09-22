@@ -2231,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berzerk | 282314 | [282314-berzerk.json](./282314-berzerk.json) |
 | Berzerk Ball 2 | 75505 | [75505-berzerk-ball-2.json](./75505-berzerk-ball-2.json) |
 | Berzerk: Enhanced Edition | 280756 | [280756-berzerk-enhanced-edition.json](./280756-berzerk-enhanced-edition.json) |
+| Berzerk: Recharged | 270485 | [270485-berzerk-recharged.json](./270485-berzerk-recharged.json) |
 | Besotted | 297805 | [297805-besotted.json](./297805-besotted.json) |
 | Best Bout Boxing | 38543 | [38543-best-bout-boxing.json](./38543-best-bout-boxing.json) |
 | Best Buds vs Bad Guys | 52631 | [52631-best-buds-vs-bad-guys.json](./52631-best-buds-vs-bad-guys.json) |
@@ -3302,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Cross Tag Battle | 51448 | [51448-blazblue-cross-tag-battle.json](./51448-blazblue-cross-tag-battle.json) |
 | BlazBlue: Cross Tag Battle - Additional Character Pack Vol.1 to Vol.7 | 238224 | [238224-blazblue-cross-tag-battle-additional-character-pack-vol-1-to-vol-7.json](./238224-blazblue-cross-tag-battle-additional-character-pack-vol-1-to-vol-7.json) |
 | BlazBlue: Cross Tag Battle - Ver 2.0 Expansion Pack | 167318 | [167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json](./167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json) |
+| BlazBlue: Entropy Effect X | 377236 | [377236-blazblue-entropy-effect-x.json](./377236-blazblue-entropy-effect-x.json) |
 | Blaze and Blade: Eternal Quest | 18249 | [18249-blaze-and-blade-eternal-quest.json](./18249-blaze-and-blade-eternal-quest.json) |
 | Blaze and the Monster Machines | 101564 | [101564-blaze-and-the-monster-machines.json](./101564-blaze-and-the-monster-machines.json) |
 | Blaze and the Monster Machines: Axle City Racers | 148547 | [148547-blaze-and-the-monster-machines-axle-city-racers.json](./148547-blaze-and-the-monster-machines-axle-city-racers.json) |
@@ -5044,6 +5046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout 2000 | 40816 | [40816-breakout-2000.json](./40816-breakout-2000.json) |
 | Breakout 3 | 319572 | [319572-breakout-3.json](./319572-breakout-3.json) |
 | Breakout 3000 | 73293 | [73293-breakout-3000.json](./73293-breakout-3000.json) |
+| Breakout Beyond | 330257 | [330257-breakout-beyond.json](./330257-breakout-beyond.json) |
 | Breakout Birdie Escape | 278658 | [278658-breakout-birdie-escape.json](./278658-breakout-birdie-escape.json) |
 | Breakout Birdie Panic | 278661 | [278661-breakout-birdie-panic.json](./278661-breakout-birdie-panic.json) |
 | Breakout Birdie Panic 2 | 278662 | [278662-breakout-birdie-panic-2.json](./278662-breakout-birdie-panic-2.json) |
