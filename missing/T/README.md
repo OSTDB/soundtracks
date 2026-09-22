@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Soccer Foosball | 147953 | [147953-table-soccer-foosball.json](./147953-table-soccer-foosball.json) |
 | Table Tennis Infinity | 85420 | [85420-table-tennis-infinity.json](./85420-table-tennis-infinity.json) |
 | Table Tennis Simulation | 72076 | [72076-table-tennis-simulation.json](./72076-table-tennis-simulation.json) |
+| Table Top Racing | 8350 | [8350-table-top-racing.json](./8350-table-top-racing.json) |
 | Table Top Racing: World Tour | 18978 | [18978-table-top-racing-world-tour.json](./18978-table-top-racing-world-tour.json) |
 | TableSoccer | 339092 | [339092-tablesoccer.json](./339092-tablesoccer.json) |
 | Tabletop Baseball | 412396 | [412396-tabletop-baseball.json](./412396-tabletop-baseball.json) |
@@ -5467,6 +5468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Royal Heir: Book 1 | 313675 | [313675-the-royal-heir-book-1.json](./313675-the-royal-heir-book-1.json) |
 | The Royal Heir: Book 2 | 313684 | [313684-the-royal-heir-book-2.json](./313684-the-royal-heir-book-2.json) |
 | The Royal Heir: Book 3 | 313685 | [313685-the-royal-heir-book-3.json](./313685-the-royal-heir-book-3.json) |
+| The Royal Marines Commando | 9370 | [9370-the-royal-marines-commando.json](./9370-the-royal-marines-commando.json) |
 | The Ruins of Cawdor | 54682 | [54682-the-ruins-of-cawdor.json](./54682-the-ruins-of-cawdor.json) |
 | The Ruins of Machi Itcza | 182520 | [182520-the-ruins-of-machi-itcza.json](./182520-the-ruins-of-machi-itcza.json) |
 | The Ruins of the Lost Kingdom: Chronicle | 77960 | [77960-the-ruins-of-the-lost-kingdom-chronicle.json](./77960-the-ruins-of-the-lost-kingdom-chronicle.json) |
@@ -5985,6 +5987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Summit High | 178666 | [178666-the-summit-high.json](./178666-the-summit-high.json) |
 | The Summoning | 50134 | [50134-the-summoning.json](./50134-the-summoning.json) |
 | The Sun and Moon | 17811 | [17811-the-sun-and-moon.json](./17811-the-sun-and-moon.json) |
+| The Sun at Night | 9049 | [9049-the-sun-at-night.json](./9049-the-sun-at-night.json) |
 | The Sun Crosswords: Volume 1 & 2 | 118165 | [118165-the-sun-crosswords-volume-1-and-2.json](./118165-the-sun-crosswords-volume-1-and-2.json) |
 | The Sun Never Sets | 38962 | [38962-the-sun-never-sets.json](./38962-the-sun-never-sets.json) |
 | The Sun Will Rise | 31833 | [31833-the-sun-will-rise.json](./31833-the-sun-will-rise.json) |
@@ -8871,6 +8874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun | 187357 | [187357-top-gun.json](./187357-top-gun.json) |
 | Top Gun | 196226 | [196226-top-gun.json](./196226-top-gun.json) |
 | Top Gun Global War | 380404 | [380404-top-gun-global-war.json](./380404-top-gun-global-war.json) |
+| Top Gun: Combat Zones | 9236 | [9236-top-gun-combat-zones.json](./9236-top-gun-combat-zones.json) |
 | Top Gun: Fire At Will | 20129 | [20129-top-gun-fire-at-will.json](./20129-top-gun-fire-at-will.json) |
 | Top Gun: Hard Lock | 22915 | [22915-top-gun-hard-lock.json](./22915-top-gun-hard-lock.json) |
 | Top Gun: Hornet's Nest | 22912 | [22912-top-gun-hornets-nest.json](./22912-top-gun-hornets-nest.json) |
