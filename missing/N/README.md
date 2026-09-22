@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nangoku Shounen Papuwa-kun | 38389 | [38389-nangoku-shounen-papuwa-kun.json](./38389-nangoku-shounen-papuwa-kun.json) |
 | Nangol | 310064 | [310064-nangol.json](./310064-nangol.json) |
 | Nanika Game Online | 342086 | [342086-nanika-game-online.json](./342086-nanika-game-online.json) |
+| Naninights | 34897 | [34897-naninights.json](./34897-naninights.json) |
 | Naniwa Wangan Battle | 143672 | [143672-naniwa-wangan-battle.json](./143672-naniwa-wangan-battle.json) |
 | Nankin | 95374 | [95374-nankin.json](./95374-nankin.json) |
 | Nankin no Adventure | 41401 | [41401-nankin-no-adventure.json](./41401-nankin-no-adventure.json) |
@@ -1877,6 +1878,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja: Shadow of the Dash | 311627 | [311627-ninja-shadow-of-the-dash.json](./311627-ninja-shadow-of-the-dash.json) |
 | Ninja: ShadowBlade | 339903 | [339903-ninja-shadowblade.json](./339903-ninja-shadowblade.json) |
 | Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
+| Ninjahtic | 34887 | [34887-ninjahtic.json](./34887-ninjahtic.json) |
+| Ninjahtic Mind Tricks | 34818 | [34818-ninjahtic-mind-tricks.json](./34818-ninjahtic-mind-tricks.json) |
 | Ninjala Story Pack: Chapter Four | 247585 | [247585-ninjala-story-pack-chapter-four.json](./247585-ninjala-story-pack-chapter-four.json) |
 | Ninjamurai | 44521 | [44521-ninjamurai.json](./44521-ninjamurai.json) |
 | Ninjas Infinity | 339842 | [339842-ninjas-infinity.json](./339842-ninjas-infinity.json) |
