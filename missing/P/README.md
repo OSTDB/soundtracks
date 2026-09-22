@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladin II | 70354 | [70354-paladin-ii.json](./70354-paladin-ii.json) |
 | Paladin's Oath | 190739 | [190739-paladins-oath.json](./190739-paladins-oath.json) |
 | Paladin's Quest | 166057 | [166057-paladins-quest.json](./166057-paladins-quest.json) |
+| Paladins Strike | 70844 | [70844-paladins-strike.json](./70844-paladins-strike.json) |
 | Paladins: Feathered Fiend Pack | 263482 | [263482-paladins-feathered-fiend-pack.json](./263482-paladins-feathered-fiend-pack.json) |
 | Paladins: Founder's Pack | 104446 | [104446-paladins-founders-pack.json](./104446-paladins-founders-pack.json) |
 | Paladins: Season 4 Champions Bundle | 263484 | [263484-paladins-season-4-champions-bundle.json](./263484-paladins-season-4-champions-bundle.json) |
@@ -1639,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Personal Organizer and Phone Book | 93538 | [93538-personal-organizer-and-phone-book.json](./93538-personal-organizer-and-phone-book.json) |
 | Personal Space | 221835 | [221835-personal-space.json](./221835-personal-space.json) |
 | Personal Trainer: Cooking | 41870 | [41870-personal-trainer-cooking.json](./41870-personal-trainer-cooking.json) |
+| Personal Trainer: Walking | 71901 | [71901-personal-trainer-walking.json](./71901-personal-trainer-walking.json) |
 | Personal Valley | 185522 | [185522-personal-valley.json](./185522-personal-valley.json) |
 | Personality Dating Sim | 157118 | [157118-personality-dating-sim.json](./157118-personality-dating-sim.json) |
 | Perspective | 148362 | [148362-perspective.json](./148362-perspective.json) |
@@ -5675,6 +5677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
 | Pupil: Wandering VR | 117834 | [117834-pupil-wandering-vr.json](./117834-pupil-wandering-vr.json) |
 | Puppers Delivers | 183430 | [183430-puppers-delivers.json](./183430-puppers-delivers.json) |
+| Puppet Fever | 72321 | [72321-puppet-fever.json](./72321-puppet-fever.json) |
 | Puppet Kings | 82853 | [82853-puppet-kings.json](./82853-puppet-kings.json) |
 | Puppet Master RPG | 94786 | [94786-puppet-master-rpg.json](./94786-puppet-master-rpg.json) |
 | Puppet Master: The Game - Dark Horse Skins | 310023 | [310023-puppet-master-the-game-dark-horse-skins.json](./310023-puppet-master-the-game-dark-horse-skins.json) |
