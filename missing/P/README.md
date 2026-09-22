@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Cleaning: Days with Marie, My Love | 370754 | [370754-paradise-cleaning-days-with-marie-my-love.json](./370754-paradise-cleaning-days-with-marie-my-love.json) |
 | Paradise Cleaning!: Married Woman Cosplay Life | 235479 | [235479-paradise-cleaning-married-woman-cosplay-life.json](./235479-paradise-cleaning-married-woman-cosplay-life.json) |
 | Paradise Corner | 413668 | [413668-paradise-corner.json](./413668-paradise-corner.json) |
+| Paradise Falls | 392417 | [392417-paradise-falls.json](./392417-paradise-falls.json) |
 | Paradise Island | 377593 | [377593-paradise-island.json](./377593-paradise-island.json) |
 | Paradise Island Driver | 201257 | [201257-paradise-island-driver.json](./201257-paradise-island-driver.json) |
 | Paradise Killer: Perfect 25 Edition | 154518 | [154518-paradise-killer-perfect-25-edition.json](./154518-paradise-killer-perfect-25-edition.json) |
@@ -3982,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polychoron | 151664 | [151664-polychoron.json](./151664-polychoron.json) |
 | Polycity | 404978 | [404978-polycity.json](./404978-polycity.json) |
 | PolyCube | 88232 | [88232-polycube.json](./88232-polycube.json) |
+| Polydangerous | 392468 | [392468-polydangerous.json](./392468-polydangerous.json) |
 | PolyDrift | 309878 | [309878-polydrift.json](./309878-polydrift.json) |
 | Polyemisokos | 205572 | [205572-polyemisokos.json](./205572-polyemisokos.json) |
 | Polyfield WW2 | 102148 | [102148-polyfield-ww2.json](./102148-polyfield-ww2.json) |
