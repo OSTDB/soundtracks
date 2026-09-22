@@ -1567,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alia's Carnival! Sacrament | 14857 | [14857-alias-carnival-sacrament.json](./14857-alias-carnival-sacrament.json) |
 | Alian | 288751 | [288751-alian.json](./288751-alian.json) |
 | Alianator | 76197 | [76197-alianator.json](./76197-alianator.json) |
+| Alias | 5719 | [5719-alias.json](./5719-alias.json) |
 | Alias Underground Episode 1: SD-6 Agent Training | 367409 | [367409-alias-underground-episode-1-sd-6-agent-training.json](./367409-alias-underground-episode-1-sd-6-agent-training.json) |
 | Alias Underground Episode 10: Endgame | 367419 | [367419-alias-underground-episode-10-endgame.json](./367419-alias-underground-episode-10-endgame.json) |
 | Alias Underground Episode 2: Mission - Turkish Embassy | 367410 | [367410-alias-underground-episode-2-mission-turkish-embassy.json](./367410-alias-underground-episode-2-mission-turkish-embassy.json) |
@@ -2401,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amorphous | 265242 | [265242-amorphous.json](./265242-amorphous.json) |
 | Amoto's Puf | 47557 | [47557-amotos-puf.json](./47557-amotos-puf.json) |
 | Amour Libre: Free Love | 129794 | [129794-amour-libre-free-love.json](./129794-amour-libre-free-love.json) |
+| Amped 2 | 5725 | [5725-amped-2.json](./5725-amped-2.json) |
 | Amped 3 | 5483 | [5483-amped-3.json](./5483-amped-3.json) |
 | Ampere | 202265 | [202265-ampere.json](./202265-ampere.json) |
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
@@ -2917,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankh Guardian: Treasure of the Demon's Temple | 120180 | [120180-ankh-guardian-treasure-of-the-demons-temple.json](./120180-ankh-guardian-treasure-of-the-demons-temple.json) |
 | Ankh: Anniversary Edition | 35651 | [35651-ankh-anniversary-edition.json](./35651-ankh-anniversary-edition.json) |
 | Ankh: Curse of the Scarab King | 21271 | [21271-ankh-curse-of-the-scarab-king.json](./21271-ankh-curse-of-the-scarab-king.json) |
+| Ankh: Reverse the Curse | 4849 | [4849-ankh-reverse-the-curse.json](./4849-ankh-reverse-the-curse.json) |
 | Ankh: The Tales of Mystery | 66357 | [66357-ankh-the-tales-of-mystery.json](./66357-ankh-the-tales-of-mystery.json) |
 | Ankhet | 213958 | [213958-ankhet.json](./213958-ankhet.json) |
 | Ankoku Shinwa: Yamato Takeru Densetsu | 48633 | [48633-ankoku-shinwa-yamato-takeru-densetsu.json](./48633-ankoku-shinwa-yamato-takeru-densetsu.json) |
@@ -4462,6 +4465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt Xtreme: Offroad Racing | 38940 | [38940-asphalt-xtreme-offroad-racing.json](./38940-asphalt-xtreme-offroad-racing.json) |
 | Asphalt: Nitro | 23310 | [23310-asphalt-nitro.json](./23310-asphalt-nitro.json) |
 | Asphalt: Urban GT | 243184 | [243184-asphalt-urban-gt.json](./243184-asphalt-urban-gt.json) |
+| Asphalt: Urban GT | 6260 | [6260-asphalt-urban-gt.json](./6260-asphalt-urban-gt.json) |
 | Asphalt: Urban GT 2 | 243030 | [243030-asphalt-urban-gt-2.json](./243030-asphalt-urban-gt-2.json) |
 | Aspic: Majaou no Noroi | 41327 | [41327-aspic-majaou-no-noroi.json](./41327-aspic-majaou-no-noroi.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
