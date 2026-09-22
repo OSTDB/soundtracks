@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undoing Evil | 195271 | [195271-undoing-evil.json](./195271-undoing-evil.json) |
 | Undress! | 369653 | [369653-undress.json](./369653-undress.json) |
 | Undying Dusk | 146286 | [146286-undying-dusk.json](./146286-undying-dusk.json) |
+| Undying: Kowloon in Red | 406313 | [406313-undying-kowloon-in-red.json](./406313-undying-kowloon-in-red.json) |
 | Une affaire en or | 93012 | [93012-une-affaire-en-or.json](./93012-une-affaire-en-or.json) |
 | Unearth | 255974 | [255974-unearth.json](./255974-unearth.json) |
 | Unearthed Arsenal | 80237 | [80237-unearthed-arsenal.json](./80237-unearthed-arsenal.json) |
