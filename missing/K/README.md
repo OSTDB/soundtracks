@@ -1996,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu: Shadow Fist | 56777 | [56777-kung-fu-shadow-fist.json](./56777-kung-fu-shadow-fist.json) |
 | Kung Fury: Street Rage - Ultimate Edition | 204716 | [204716-kung-fury-street-rage-ultimate-edition.json](./204716-kung-fury-street-rage-ultimate-edition.json) |
 | Kung Pao Banqi | 320527 | [320527-kung-pao-banqi.json](./320527-kung-pao-banqi.json) |
+| Kung-Fu Heroes | 214619 | [214619-kung-fu-heroes.json](./214619-kung-fu-heroes.json) |
 | Kung-Fu Master | 86202 | [86202-kung-fu-master.json](./86202-kung-fu-master.json) |
 | Kung-Fu Street | 137063 | [137063-kung-fu-street.json](./137063-kung-fu-street.json) |
 | Kung-Fu Taikun | 40220 | [40220-kung-fu-taikun.json](./40220-kung-fu-taikun.json) |
