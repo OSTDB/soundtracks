@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yonesawara Hospital | 203887 | [203887-yonesawara-hospital.json](./203887-yonesawara-hospital.json) |
 | Yongbi M | 208061 | [208061-yongbi-m.json](./208061-yongbi-m.json) |
 | Yōngbīng Zhàngē | 127232 | [127232-yongbing-zhange.json](./127232-yongbing-zhange.json) |
+| Yongye Xiezouqu | 411106 | [411106-yongye-xiezouqu.json](./411106-yongye-xiezouqu.json) |
 | Yoobot Vs. Yoonot | 320350 | [320350-yoobot-vs-yoonot.json](./320350-yoobot-vs-yoonot.json) |
 | Yooca: Next Horizon | 369058 | [369058-yooca-next-horizon.json](./369058-yooca-next-horizon.json) |
 | Yooca: Your Life | 390516 | [390516-yooca-your-life.json](./390516-yooca-your-life.json) |
