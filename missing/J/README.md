@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jude | 172141 | [172141-jude.json](./172141-jude.json) |
 | Judge Dredd | 4387 | [4387-judge-dredd.json](./4387-judge-dredd.json) |
 | Judge of Hasoon | 296928 | [296928-judge-of-hasoon.json](./296928-judge-of-hasoon.json) |
+| Judge Sim | 397266 | [397266-judge-sim.json](./397266-judge-sim.json) |
 | Judged: A Court Simulator | 112365 | [112365-judged-a-court-simulator.json](./112365-judged-a-court-simulator.json) |
 | Judgement | 335650 | [335650-judgement.json](./335650-judgement.json) |
 | Judgment Day: Pacific Assault | 340777 | [340777-judgment-day-pacific-assault.json](./340777-judgment-day-pacific-assault.json) |
