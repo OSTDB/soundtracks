@@ -2621,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grander Musashi RV | 228555 | [228555-grander-musashi-rv.json](./228555-grander-musashi-rv.json) |
 | Grandfather | 417497 | [417497-grandfather.json](./417497-grandfather.json) |
 | Grandia HD Collection | 107214 | [107214-grandia-hd-collection.json](./107214-grandia-hd-collection.json) |
+| Grandia HD Remaster | 107213 | [107213-grandia-hd-remaster.json](./107213-grandia-hd-remaster.json) |
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
 | Grandma's Guide to the Grand Outside | 415110 | [415110-grandmas-guide-to-the-grand-outside.json](./415110-grandmas-guide-to-the-grand-outside.json) |
 | Grandma(88) | 260251 | [260251-grandma-88.json](./260251-grandma-88.json) |
@@ -2711,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Ghoul! | 133999 | [133999-graveyard-ghoul.json](./133999-graveyard-ghoul.json) |
 | Graveyard Gunslingers | 258021 | [258021-graveyard-gunslingers.json](./258021-graveyard-gunslingers.json) |
 | Graveyard Keeper II | 397817 | [397817-graveyard-keeper-ii.json](./397817-graveyard-keeper-ii.json) |
+| Graveyard Keeper: Breaking Dead | 111556 | [111556-graveyard-keeper-breaking-dead.json](./111556-graveyard-keeper-breaking-dead.json) |
 | Graveyard Miner | 255800 | [255800-graveyard-miner.json](./255800-graveyard-miner.json) |
 | Graveyard Orbit | 407329 | [407329-graveyard-orbit.json](./407329-graveyard-orbit.json) |
 | Graveyard Shift | 216230 | [216230-graveyard-shift.json](./216230-graveyard-shift.json) |
