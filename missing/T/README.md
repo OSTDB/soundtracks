@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatsunami, let's clean up! | 353917 | [353917-tatsunami-lets-clean-up.json](./353917-tatsunami-lets-clean-up.json) |
 | Tatsuno Quest | 82767 | [82767-tatsuno-quest.json](./82767-tatsuno-quest.json) |
 | Tattered Sails | 298164 | [298164-tattered-sails.json](./298164-tattered-sails.json) |
+| Tattoo Assassins | 39563 | [39563-tattoo-assassins.json](./39563-tattoo-assassins.json) |
 | Tattoo Design Studio: Fun Game | 89156 | [89156-tattoo-design-studio-fun-game.json](./89156-tattoo-design-studio-fun-game.json) |
 | Tattoo Punk | 146824 | [146824-tattoo-punk.json](./146824-tattoo-punk.json) |
 | Tatvalok | 380542 | [380542-tatvalok.json](./380542-tatvalok.json) |
@@ -1177,9 +1178,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Super Bowl 2017 | 48910 | [48910-tecmo-super-bowl-2017.json](./48910-tecmo-super-bowl-2017.json) |
 | Tecmo Super Bowl Gold | 48900 | [48900-tecmo-super-bowl-gold.json](./48900-tecmo-super-bowl-gold.json) |
 | Tecmo Super Bowl II: Special Edition | 46598 | [46598-tecmo-super-bowl-ii-special-edition.json](./46598-tecmo-super-bowl-ii-special-edition.json) |
+| Tecmo Super Bowl III: Final Edition | 42445 | [42445-tecmo-super-bowl-iii-final-edition.json](./42445-tecmo-super-bowl-iii-final-edition.json) |
 | Tecmo Super Bowl NCAA 2017 | 48894 | [48894-tecmo-super-bowl-ncaa-2017.json](./48894-tecmo-super-bowl-ncaa-2017.json) |
 | Tecmo Super Hockey | 46597 | [46597-tecmo-super-hockey.json](./46597-tecmo-super-hockey.json) |
 | Tecmo Super NBA Basketball | 46596 | [46596-tecmo-super-nba-basketball.json](./46596-tecmo-super-nba-basketball.json) |
+| Tecmo World Cup '90 | 39858 | [39858-tecmo-world-cup-90.json](./39858-tecmo-world-cup-90.json) |
 | Tecmo World Wrestling | 48083 | [48083-tecmo-world-wrestling.json](./48083-tecmo-world-wrestling.json) |
 | Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
 | Tecnology War | 248747 | [248747-tecnology-war.json](./248747-tecnology-war.json) |
@@ -7074,6 +7077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne Rush | 243125 | [243125-throne-rush.json](./243125-throne-rush.json) |
 | Thronebreaker: The Witcher Tales | 107300 | [107300-thronebreaker-the-witcher-tales.json](./107300-thronebreaker-the-witcher-tales.json) |
 | Through | 94765 | [94765-through.json](./94765-through.json) |
+| Through Abandoned: The Underground City | 34780 | [34780-through-abandoned-the-underground-city.json](./34780-through-abandoned-the-underground-city.json) |
 | Through Hell and Back | 372541 | [372541-through-hell-and-back.json](./372541-through-hell-and-back.json) |
 | Through Space | 414297 | [414297-through-space.json](./414297-through-space.json) |
 | Through the Abyss | 217314 | [217314-through-the-abyss.json](./217314-through-the-abyss.json) |
