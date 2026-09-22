@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
 | 1492: Colonization of the New World | 373086 | [373086-1492-colonization-of-the-new-world.json](./373086-1492-colonization-of-the-new-world.json) |
 | 14Days | 98412 | [98412-14days.json](./98412-14days.json) |
+| 15 Defense | 90474 | [90474-15-defense.json](./90474-15-defense.json) |
 | 15 in 1 Solitaire | 187457 | [187457-15-in-1-solitaire.json](./187457-15-in-1-solitaire.json) |
 | 15 Minutes | 355071 | [355071-15-minutes.json](./355071-15-minutes.json) |
 | 15-in-1 Mega Bundle | 396436 | [396436-15-in-1-mega-bundle.json](./396436-15-in-1-mega-bundle.json) |
@@ -561,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
 | 300 Miles to Pigsland | 286646 | [286646-300-miles-to-pigsland.json](./286646-300-miles-to-pigsland.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
+| 303 Squadron: Battle of Britain | 90654 | [90654-303-squadron-battle-of-britain.json](./90654-303-squadron-battle-of-britain.json) |
 | 3030 Deathwar Redux | 32952 | [32952-3030-deathwar-redux.json](./32952-3030-deathwar-redux.json) |
 | 3059 | 300002 | [300002-3059.json](./300002-3059.json) |
 | 30XX: Feline Fury | 318700 | [318700-30xx-feline-fury.json](./318700-30xx-feline-fury.json) |
