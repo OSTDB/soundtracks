@@ -2114,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons Roots | 189139 | [189139-demons-roots.json](./189139-demons-roots.json) |
 | Demons vs. Fairyland | 245328 | [245328-demons-vs-fairyland.json](./245328-demons-vs-fairyland.json) |
 | Demons with Shotguns: Deluxe Edition | 52890 | [52890-demons-with-shotguns-deluxe-edition.json](./52890-demons-with-shotguns-deluxe-edition.json) |
+| Demonschool | 204640 | [204640-demonschool.json](./204640-demonschool.json) |
 | Demonspire | 381701 | [381701-demonspire.json](./381701-demonspire.json) |
 | Demonstar | 9117 | [9117-demonstar.json](./9117-demonstar.json) |
 | DemonStar: Original Missions | 272391 | [272391-demonstar-original-missions.json](./272391-demonstar-original-missions.json) |
@@ -6145,6 +6146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusky Cap | 343862 | [343862-dusky-cap.json](./343862-dusky-cap.json) |
 | Dusky Depths | 273628 | [273628-dusky-depths.json](./273628-dusky-depths.json) |
 | Dust & Letters | 402915 | [402915-dust-and-letters.json](./402915-dust-and-letters.json) |
+| Dust & Neon | 215894 | [215894-dust-and-neon.json](./215894-dust-and-neon.json) |
 | Dust & Rain: Post-apocalyptic RPG | 301987 | [301987-dust-and-rain-post-apocalyptic-rpg.json](./301987-dust-and-rain-post-apocalyptic-rpg.json) |
 | Dust and Sorcery | 385222 | [385222-dust-and-sorcery.json](./385222-dust-and-sorcery.json) |
 | Dust Bunnies | 185554 | [185554-dust-bunnies.json](./185554-dust-bunnies.json) |
