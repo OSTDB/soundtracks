@@ -1236,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fedanheim | 415921 | [415921-fedanheim.json](./415921-fedanheim.json) |
 | Federation Quest 1: BSS Jane Seymour | 65210 | [65210-federation-quest-1-bss-jane-seymour.json](./65210-federation-quest-1-bss-jane-seymour.json) |
 | Fedora Spade: Prologue | 57678 | [57678-fedora-spade-prologue.json](./57678-fedora-spade-prologue.json) |
+| Fee Payment & Cigarettes | 406282 | [406282-fee-payment-and-cigarettes.json](./406282-fee-payment-and-cigarettes.json) |
 | Feed | 296397 | [296397-feed.json](./296397-feed.json) |
 | Feed A Titanosaur | 117069 | [117069-feed-a-titanosaur.json](./117069-feed-a-titanosaur.json) |
 | Feed and Grow: Fish | 19876 | [19876-feed-and-grow-fish.json](./19876-feed-and-grow-fish.json) |
@@ -3210,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Pitch Simulator | 326428 | [326428-football-pitch-simulator.json](./326428-football-pitch-simulator.json) |
 | Football Quiz | 340926 | [340926-football-quiz.json](./340926-football-quiz.json) |
 | Football Quiz Deluxe | 116397 | [116397-football-quiz-deluxe.json](./116397-football-quiz-deluxe.json) |
+| Football Rising: Zero to Hero | 406285 | [406285-football-rising-zero-to-hero.json](./406285-football-rising-zero-to-hero.json) |
 | Football Russian 20!8 | 86306 | [86306-football-russian-20-8.json](./86306-football-russian-20-8.json) |
 | Football Saga Fantasista | 244801 | [244801-football-saga-fantasista.json](./244801-football-saga-fantasista.json) |
 | Football Showdown 2 | 240870 | [240870-football-showdown-2.json](./240870-football-showdown-2.json) |
