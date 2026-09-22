@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saliens | 104692 | [104692-saliens.json](./104692-saliens.json) |
 | Sally Acorn in Sonic the Hedgehog | 141883 | [141883-sally-acorn-in-sonic-the-hedgehog.json](./141883-sally-acorn-in-sonic-the-hedgehog.json) |
 | Sally Acorn in Sonic the Hedgehog 2 | 141884 | [141884-sally-acorn-in-sonic-the-hedgehog-2.json](./141884-sally-acorn-in-sonic-the-hedgehog-2.json) |
+| Sally Face 2 | 413934 | [413934-sally-face-2.json](./413934-sally-face-2.json) |
 | Sally's Salon | 24328 | [24328-sallys-salon.json](./24328-sallys-salon.json) |
 | Sally's Salon: Kiss & Make-Up | 103439 | [103439-sallys-salon-kiss-and-make-up.json](./103439-sallys-salon-kiss-and-make-up.json) |
 | Sally's Salon: Kiss & Make-Up 💋 | 104453 | [104453-sallys-salon-kiss-and-make-up.json](./104453-sallys-salon-kiss-and-make-up.json) |
@@ -2758,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheesh Adventures | 58492 | [58492-sheesh-adventures.json](./58492-sheesh-adventures.json) |
 | Shei Toule Wo de Nu Pengyou | 322344 | [322344-shei-toule-wo-de-nu-pengyou.json](./322344-shei-toule-wo-de-nu-pengyou.json) |
 | Shelf | 278694 | [278694-shelf.json](./278694-shelf.json) |
+| Shelf-Employed | 413903 | [413903-shelf-employed.json](./413903-shelf-employed.json) |
 | Shell Corp | 129748 | [129748-shell-corp.json](./129748-shell-corp.json) |
 | Shell Increment | 390654 | [390654-shell-increment.json](./390654-shell-increment.json) |
 | Shell Is Cool | 328048 | [328048-shell-is-cool.json](./328048-shell-is-cool.json) |
@@ -5660,6 +5662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solasta: Crown of the Magister - Primal Calling | 186870 | [186870-solasta-crown-of-the-magister-primal-calling.json](./186870-solasta-crown-of-the-magister-primal-calling.json) |
 | Solasta: Lightbringers Edition | 251208 | [251208-solasta-lightbringers-edition.json](./251208-solasta-lightbringers-edition.json) |
 | Solbot Energy Rush | 105401 | [105401-solbot-energy-rush.json](./105401-solbot-energy-rush.json) |
+| Solbreak Skirmish | 413881 | [413881-solbreak-skirmish.json](./413881-solbreak-skirmish.json) |
 | Solcialists | 272581 | [272581-solcialists.json](./272581-solcialists.json) |
 | Soldat | 8722 | [8722-soldat.json](./8722-soldat.json) |
 | Soldier Blade Special: Caravan Stage | 42024 | [42024-soldier-blade-special-caravan-stage.json](./42024-soldier-blade-special-caravan-stage.json) |
@@ -5882,6 +5885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Horror - Episode 5 | 135158 | [135158-song-of-horror-episode-5.json](./135158-song-of-horror-episode-5.json) |
 | Song of Horror Episodes 2-5 | 135160 | [135160-song-of-horror-episodes-2-5.json](./135160-song-of-horror-episodes-2-5.json) |
 | Song of Iron | 132756 | [132756-song-of-iron.json](./132756-song-of-iron.json) |
+| Song of Knightroid | 413933 | [413933-song-of-knightroid.json](./413933-song-of-knightroid.json) |
 | Song of Pan | 38990 | [38990-song-of-pan.json](./38990-song-of-pan.json) |
 | Song of Slavs | 273405 | [273405-song-of-slavs.json](./273405-song-of-slavs.json) |
 | Song of the Deep | 16998 | [16998-song-of-the-deep.json](./16998-song-of-the-deep.json) |
@@ -6119,6 +6123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Powerdrift | 330710 | [330710-sonic-powerdrift.json](./330710-sonic-powerdrift.json) |
 | Sonic Powered Up | 333939 | [333939-sonic-powered-up.json](./333939-sonic-powered-up.json) |
 | Sonic Prime Dash | 254490 | [254490-sonic-prime-dash.json](./254490-sonic-prime-dash.json) |
+| Sonic Project Hero Rewired | 413926 | [413926-sonic-project-hero-rewired.json](./413926-sonic-project-hero-rewired.json) |
 | Sonic Putter | 261251 | [261251-sonic-putter.json](./261251-sonic-putter.json) |
 | Sonic Quickie | 326810 | [326810-sonic-quickie.json](./326810-sonic-quickie.json) |
 | Sonic QWERTY | 266511 | [266511-sonic-qwerty.json](./266511-sonic-qwerty.json) |
@@ -7096,6 +7101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship Hunters | 184512 | [184512-spaceship-hunters.json](./184512-spaceship-hunters.json) |
 | Spaceship Tactics | 338269 | [338269-spaceship-tactics.json](./338269-spaceship-tactics.json) |
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
+| SpaceShooter | 413900 | [413900-spaceshooter.json](./413900-spaceshooter.json) |
 | Spaceslingers | 150489 | [150489-spaceslingers.json](./150489-spaceslingers.json) |
 | SpaceSlog | 197908 | [197908-spaceslog.json](./197908-spaceslog.json) |
 | SpaceSoldier3D | 320160 | [320160-spacesoldier3d.json](./320160-spacesoldier3d.json) |
