@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hackshot | 173263 | [173263-hackshot.json](./173263-hackshot.json) |
 | Had | 239085 | [239085-had.json](./239085-had.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
+| Hadean Lands | 18654 | [18654-hadean-lands.json](./18654-hadean-lands.json) |
 | Hadephobia | 260957 | [260957-hadephobia.json](./260957-hadephobia.json) |
 | Hades | 80529 | [80529-hades.json](./80529-hades.json) |
 | Hades 2 | 134619 | [134619-hades-2.json](./134619-hades-2.json) |
@@ -961,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haven & Hearth | 94176 | [94176-haven-and-hearth.json](./94176-haven-and-hearth.json) |
 | Haven Moon | 20399 | [20399-haven-moon.json](./20399-haven-moon.json) |
 | Haven Park | 146631 | [146631-haven-park.json](./146631-haven-park.json) |
+| Haven: Call of the King | 19090 | [19090-haven-call-of-the-king.json](./19090-haven-call-of-the-king.json) |
 | Haven: Episode 1 | 307952 | [307952-haven-episode-1.json](./307952-haven-episode-1.json) |
 | Haven: The Leader | 298292 | [298292-haven-the-leader.json](./298292-haven-the-leader.json) |
 | Havenhold | 204445 | [204445-havenhold.json](./204445-havenhold.json) |
@@ -3029,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holo EN Rhythm Game | 179623 | [179623-holo-en-rhythm-game.json](./179623-holo-en-rhythm-game.json) |
 | Holo-Graham | 30189 | [30189-holo-graham.json](./30189-holo-graham.json) |
 | Holo8 | 331327 | [331327-holo8.json](./331327-holo8.json) |
+| HoloBall | 18983 | [18983-holoball.json](./18983-holoball.json) |
 | HoloBase | 410316 | [410316-holobase.json](./410316-holobase.json) |
 | Holobunnies: The Bittersweet Adventure | 28897 | [28897-holobunnies-the-bittersweet-adventure.json](./28897-holobunnies-the-bittersweet-adventure.json) |
 | HoloCall: Send Your Cheers! | 340478 | [340478-holocall-send-your-cheers.json](./340478-holocall-send-your-cheers.json) |
