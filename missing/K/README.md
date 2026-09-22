@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karma: Immortal Wrath | 145619 | [145619-karma-immortal-wrath.json](./145619-karma-immortal-wrath.json) |
 | Karma: Operation Barbossa | 67232 | [67232-karma-operation-barbossa.json](./67232-karma-operation-barbossa.json) |
 | Karma: The Dark World - Deluxe Edition | 403590 | [403590-karma-the-dark-world-deluxe-edition.json](./403590-karma-the-dark-world-deluxe-edition.json) |
+| Karmaflow: The Rock Opera Videogame | 8439 | [8439-karmaflow-the-rock-opera-videogame.json](./8439-karmaflow-the-rock-opera-videogame.json) |
 | Karnage Chronicles | 28272 | [28272-karnage-chronicles.json](./28272-karnage-chronicles.json) |
 | Karnn Age | 67969 | [67969-karnn-age.json](./67969-karnn-age.json) |
 | Karnov | 288188 | [288188-karnov.json](./288188-karnov.json) |
@@ -1745,8 +1746,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konae-chan no Doki-doki Penguin Kazoku | 134464 | [134464-konae-chan-no-doki-doki-penguin-kazoku.json](./134464-konae-chan-no-doki-doki-penguin-kazoku.json) |
 | Konami 88 | 40228 | [40228-konami-88.json](./40228-konami-88.json) |
 | Konami Antiques: MSX Collection Vol. 1 | 44882 | [44882-konami-antiques-msx-collection-vol-1.json](./44882-konami-antiques-msx-collection-vol-1.json) |
+| Konami Collector's Series: Arcade Advanced | 6494 | [6494-konami-collectors-series-arcade-advanced.json](./6494-konami-collectors-series-arcade-advanced.json) |
 | Konami Collector's Series: Castlevania & Contra | 78642 | [78642-konami-collectors-series-castlevania-and-contra.json](./78642-konami-collectors-series-castlevania-and-contra.json) |
 | Konami Hyper Soccer | 48284 | [48284-konami-hyper-soccer.json](./48284-konami-hyper-soccer.json) |
+| Konami Krazy Racers | 6495 | [6495-konami-krazy-racers.json](./6495-konami-krazy-racers.json) |
 | Konami's Ping Pong | 46832 | [46832-konamis-ping-pong.json](./46832-konamis-ping-pong.json) |
 | Konamic Tennis | 41322 | [41322-konamic-tennis.json](./41322-konamic-tennis.json) |
 | Konchuu Fighters | 65191 | [65191-konchuu-fighters.json](./65191-konchuu-fighters.json) |
@@ -1927,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KrissX | 67327 | [67327-krissx.json](./67327-krissx.json) |
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
 | Kritika: The White Knights | 39231 | [39231-kritika-the-white-knights.json](./39231-kritika-the-white-knights.json) |
+| Kromaia | 8815 | [8815-kromaia.json](./8815-kromaia.json) |
 | Kromer Kollector | 181875 | [181875-kromer-kollector.json](./181875-kromer-kollector.json) |
 | Kromex | 400850 | [400850-kromex.json](./400850-kromex.json) |
 | Kromlech | 253588 | [253588-kromlech.json](./253588-kromlech.json) |
