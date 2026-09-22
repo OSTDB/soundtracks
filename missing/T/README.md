@@ -4323,6 +4323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
 | The Last Librarian | 266816 | [266816-the-last-librarian.json](./266816-the-last-librarian.json) |
 | The Last Light | 182556 | [182556-the-last-light.json](./182556-the-last-light.json) |
+| The Last Lodge | 392476 | [392476-the-last-lodge.json](./392476-the-last-lodge.json) |
 | The Last Login | 406897 | [406897-the-last-login.json](./406897-the-last-login.json) |
 | The Last Look | 32871 | [32871-the-last-look.json](./32871-the-last-look.json) |
 | The Last Lunch | 413906 | [413906-the-last-lunch.json](./413906-the-last-lunch.json) |
@@ -6992,6 +6993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheBoll | 345033 | [345033-theboll.json](./345033-theboll.json) |
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
 | TheC64 Mini: Black Edition | 360591 | [360591-thec64-mini-black-edition.json](./360591-thec64-mini-black-edition.json) |
+| TheDrippingSound | 392494 | [392494-thedrippingsound.json](./392494-thedrippingsound.json) |
 | Theft Ride Legacy | 250391 | [250391-theft-ride-legacy.json](./250391-theft-ride-legacy.json) |
 | Theft Ride Legacy: Gold Edition | 283160 | [283160-theft-ride-legacy-gold-edition.json](./283160-theft-ride-legacy-gold-edition.json) |
 | TheGunRunner | 89952 | [89952-thegunrunner.json](./89952-thegunrunner.json) |
