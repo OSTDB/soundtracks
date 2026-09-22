@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecumene Aztec | 253442 | [253442-ecumene-aztec.json](./253442-ecumene-aztec.json) |
 | ECW Anarchy Rulz | 72029 | [72029-ecw-anarchy-rulz.json](./72029-ecw-anarchy-rulz.json) |
 | ECW Hardcore Revolution | 3483 | [3483-ecw-hardcore-revolution.json](./3483-ecw-hardcore-revolution.json) |
+| ECW: Born to be Wired | 394541 | [394541-ecw-born-to-be-wired.json](./394541-ecw-born-to-be-wired.json) |
 | Eczema Angel Orifice | 144107 | [144107-eczema-angel-orifice.json](./144107-eczema-angel-orifice.json) |
 | Ed & Edda: Grand Prix – Racing Champions | 346020 | [346020-ed-and-edda-grand-prix-racing-champions.json](./346020-ed-and-edda-grand-prix-racing-champions.json) |
 | Ed Chess | 93042 | [93042-ed-chess.json](./93042-ed-chess.json) |
@@ -1744,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Darkmoor Manor | 36105 | [36105-escape-from-darkmoor-manor.json](./36105-escape-from-darkmoor-manor.json) |
 | Escape from Death | 270110 | [270110-escape-from-death.json](./270110-escape-from-death.json) |
 | Escape from Deathmark Dungeon | 195695 | [195695-escape-from-deathmark-dungeon.json](./195695-escape-from-deathmark-dungeon.json) |
+| Escape From Duck | 394564 | [394564-escape-from-duck.json](./394564-escape-from-duck.json) |
 | Escape From Duckness | 395218 | [395218-escape-from-duckness.json](./395218-escape-from-duckness.json) |
 | Escape From Earth | 121458 | [121458-escape-from-earth.json](./121458-escape-from-earth.json) |
 | Escape from Ever After | 211624 | [211624-escape-from-ever-after.json](./211624-escape-from-ever-after.json) |
