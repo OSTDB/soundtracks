@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasma Hotel | 407340 | [407340-phantasma-hotel.json](./407340-phantasma-hotel.json) |
 | Phantasma Magic: Deluxe | 28832 | [28832-phantasma-magic-deluxe.json](./28832-phantasma-magic-deluxe.json) |
 | Phantasmagoria | 221 | [221-phantasmagoria.json](./221-phantasmagoria.json) |
+| Phantasmal: City of Darkness | 18793 | [18793-phantasmal-city-of-darkness.json](./18793-phantasmal-city-of-darkness.json) |
 | Phantasmat: The Dread of Oakville | 101551 | [101551-phantasmat-the-dread-of-oakville.json](./101551-phantasmat-the-dread-of-oakville.json) |
 | Phantasmat: The Dread of Oakville - Collector's Edition | 110156 | [110156-phantasmat-the-dread-of-oakville-collectors-edition.json](./110156-phantasmat-the-dread-of-oakville-collectors-edition.json) |
 | Phantasmat: The Endless Night HD | 108258 | [108258-phantasmat-the-endless-night-hd.json](./108258-phantasmat-the-endless-night-hd.json) |
