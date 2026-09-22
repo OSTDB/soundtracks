@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenic | 74059 | [74059-xenic.json](./74059-xenic.json) |
 | Xenimus | 66968 | [66968-xenimus.json](./66968-xenimus.json) |
 | Xenno the Rogue | 183075 | [183075-xenno-the-rogue.json](./183075-xenno-the-rogue.json) |
+| Xeno Crisis & Tanglewood | 133500 | [133500-xeno-crisis-and-tanglewood.json](./133500-xeno-crisis-and-tanglewood.json) |
 | Xeno Shooter | 146884 | [146884-xeno-shooter.json](./146884-xeno-shooter.json) |
 | Xeno Strikers Hyper Squadron | 374139 | [374139-xeno-strikers-hyper-squadron.json](./374139-xeno-strikers-hyper-squadron.json) |
 | Xeno's Adventure | 357259 | [357259-xenos-adventure.json](./357259-xenos-adventure.json) |
