@@ -4641,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furtive | 173259 | [173259-furtive.json](./173259-furtive.json) |
 | Fururu Project : Ruby | 114366 | [114366-fururu-project-ruby.json](./114366-fururu-project-ruby.json) |
 | Furusato wo Sagasu Sanshimai | 119682 | [119682-furusato-wo-sagasu-sanshimai.json](./119682-furusato-wo-sagasu-sanshimai.json) |
+| Furwind | 27726 | [27726-furwind.json](./27726-furwind.json) |
 | Fury | 240773 | [240773-fury.json](./240773-fury.json) |
 | Fury Cross Road | 235222 | [235222-fury-cross-road.json](./235222-fury-cross-road.json) |
 | Fury Fighter VR | 96520 | [96520-fury-fighter-vr.json](./96520-fury-fighter-vr.json) |
