@@ -2654,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaton Musashi W: V Navigator "Dragon" | 301016 | [301016-megaton-musashi-w-v-navigator-dragon.json](./301016-megaton-musashi-w-v-navigator-dragon.json) |
 | Megaton Musashi W: V Navigator "Jibanyan" | 301014 | [301014-megaton-musashi-w-v-navigator-jibanyan.json](./301014-megaton-musashi-w-v-navigator-jibanyan.json) |
 | Megaton Musashi W: V Navigator "Korone Inugami" | 301015 | [301015-megaton-musashi-w-v-navigator-korone-inugami.json](./301015-megaton-musashi-w-v-navigator-korone-inugami.json) |
+| Megaton Musashi W: Wired | 241450 | [241450-megaton-musashi-w-wired.json](./241450-megaton-musashi-w-wired.json) |
 | Megaton Musashi W: Wired - Attire: Arshem - Captain's Uniform | 302533 | [302533-megaton-musashi-w-wired-attire-arshem-captains-uniform.json](./302533-megaton-musashi-w-wired-attire-arshem-captains-uniform.json) |
 | Megaton Musashi W: Wired - Attire: Arshem - Dress | 302534 | [302534-megaton-musashi-w-wired-attire-arshem-dress.json](./302534-megaton-musashi-w-wired-attire-arshem-dress.json) |
 | Megaton Musashi W: Wired - Attire: Arshem - Yukata | 302532 | [302532-megaton-musashi-w-wired-attire-arshem-yukata.json](./302532-megaton-musashi-w-wired-attire-arshem-yukata.json) |
@@ -4396,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command | 209503 | [209503-missile-command.json](./209503-missile-command.json) |
 | Missile Command | 280782 | [280782-missile-command.json](./280782-missile-command.json) |
 | Missile Command 3D | 40810 | [40810-missile-command-3d.json](./40810-missile-command-3d.json) |
+| Missile Command: Recharged | 132154 | [132154-missile-command-recharged.json](./132154-missile-command-recharged.json) |
 | Missile Control | 13252 | [13252-missile-control.json](./13252-missile-control.json) |
 | Missile Survivor | 319240 | [319240-missile-survivor.json](./319240-missile-survivor.json) |
 | Missile Tank | 160256 | [160256-missile-tank.json](./160256-missile-tank.json) |
@@ -6080,6 +6082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Rightaway | 341341 | [341341-mr-rightaway.json](./341341-mr-rightaway.json) |
 | Mr. Robot and His Robot Factory | 23900 | [23900-mr-robot-and-his-robot-factory.json](./23900-mr-robot-and-his-robot-factory.json) |
 | Mr. Roboto! | 41578 | [41578-mr-roboto.json](./41578-mr-roboto.json) |
+| Mr. Run and Jump | 249540 | [249540-mr-run-and-jump.json](./249540-mr-run-and-jump.json) |
 | Mr. Run and Jump 2600 | 280753 | [280753-mr-run-and-jump-2600.json](./280753-mr-run-and-jump-2600.json) |
 | Mr. Runner | 246474 | [246474-mr-runner.json](./246474-mr-runner.json) |
 | Mr. Setam: Lady Killer | 61118 | [61118-mr-setam-lady-killer.json](./61118-mr-setam-lady-killer.json) |
@@ -6470,6 +6473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX 2002 Featuring Ricky Carmichael | 18265 | [18265-mx-2002-featuring-ricky-carmichael.json](./18265-mx-2002-featuring-ricky-carmichael.json) |
 | MX Bikes | 37424 | [37424-mx-bikes.json](./37424-mx-bikes.json) |
 | MX Dirt Bike: Unlimited Bike Experience | 317442 | [317442-mx-dirt-bike-unlimited-bike-experience.json](./317442-mx-dirt-bike-unlimited-bike-experience.json) |
+| MX Nitro: Unleashed | 133400 | [133400-mx-nitro-unleashed.json](./133400-mx-nitro-unleashed.json) |
 | MX vs. ATV All Out: 2020 Pro Nationals Edition | 206779 | [206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json](./206779-mx-vs-atv-all-out-2020-pro-nationals-edition.json) |
 | MX vs. ATV: Legends - 2023 Track Pass | 287113 | [287113-mx-vs-atv-legends-2023-track-pass.json](./287113-mx-vs-atv-legends-2023-track-pass.json) |
 | MX vs. ATV: Legends - 2024 Monster Energy Supercross Championship | 295398 | [295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json](./295398-mx-vs-atv-legends-2024-monster-energy-supercross-championship.json) |
