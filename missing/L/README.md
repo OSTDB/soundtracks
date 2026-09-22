@@ -619,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawless Lands: Unrest | 167712 | [167712-lawless-lands-unrest.json](./167712-lawless-lands-unrest.json) |
 | Lawmage Academy | 125472 | [125472-lawmage-academy.json](./125472-lawmage-academy.json) |
 | Lawn & Order | 177021 | [177021-lawn-and-order.json](./177021-lawn-and-order.json) |
+| Lawn Care ASMR Cleaning | 409758 | [409758-lawn-care-asmr-cleaning.json](./409758-lawn-care-asmr-cleaning.json) |
 | Lawn Mower Racing | 353956 | [353956-lawn-mower-racing.json](./353956-lawn-mower-racing.json) |
 | Lawn Mowing Simulator VR | 284830 | [284830-lawn-mowing-simulator-vr.json](./284830-lawn-mowing-simulator-vr.json) |
 | Lawn Mowing Simulator: Dino Safari | 196154 | [196154-lawn-mowing-simulator-dino-safari.json](./196154-lawn-mowing-simulator-dino-safari.json) |
@@ -2128,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Red Ball | 176384 | [176384-little-red-ball.json](./176384-little-red-ball.json) |
 | Little Red in the Woods | 364493 | [364493-little-red-in-the-woods.json](./364493-little-red-in-the-woods.json) |
 | Little Red Lie | 44280 | [44280-little-red-lie.json](./44280-little-red-lie.json) |
+| Little Red Riding Hood | 409767 | [409767-little-red-riding-hood.json](./409767-little-red-riding-hood.json) |
 | Little Red Riding Hood A | 225313 | [225313-little-red-riding-hood-a.json](./225313-little-red-riding-hood-a.json) |
 | Little Red Riding Hood B | 225312 | [225312-little-red-riding-hood-b.json](./225312-little-red-riding-hood-b.json) |
 | Little Red Rocket Ship | 190199 | [190199-little-red-rocket-ship.json](./190199-little-red-rocket-ship.json) |
