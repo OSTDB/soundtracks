@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raft Survival Evolve Simulator | 103521 | [103521-raft-survival-evolve-simulator.json](./103521-raft-survival-evolve-simulator.json) |
 | Raft Wars 2 | 220138 | [220138-raft-wars-2.json](./220138-raft-wars-2.json) |
 | Rafting Frenzy | 253367 | [253367-rafting-frenzy.json](./253367-rafting-frenzy.json) |
+| Rag Doll Kung Fu | 19349 | [19349-rag-doll-kung-fu.json](./19349-rag-doll-kung-fu.json) |
 | Rag Doll Kung Fu: Black Belt Edition | 201793 | [201793-rag-doll-kung-fu-black-belt-edition.json](./201793-rag-doll-kung-fu-black-belt-edition.json) |
 | RaGaBa | 27780 | [27780-ragaba.json](./27780-ragaba.json) |
 | RagBlo Set2 | 97824 | [97824-ragblo-set2.json](./97824-ragblo-set2.json) |
@@ -548,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramble | 102587 | [102587-ramble.json](./102587-ramble.json) |
 | Ramble Planet | 152374 | [152374-ramble-planet.json](./152374-ramble-planet.json) |
 | Ramblings | 204678 | [204678-ramblings.json](./204678-ramblings.json) |
+| Rambo | 48210 | [48210-rambo.json](./48210-rambo.json) |
 | Rambo: First Blood Part II | 12963 | [12963-rambo-first-blood-part-ii.json](./12963-rambo-first-blood-part-ii.json) |
 | Rambo: First Blood Part II | 39127 | [39127-rambo-first-blood-part-ii.json](./39127-rambo-first-blood-part-ii.json) |
 | Ramen Chain | 159345 | [159345-ramen-chain.json](./159345-ramen-chain.json) |
@@ -2934,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robber | 254535 | [254535-robber.json](./254535-robber.json) |
 | Robber | 385579 | [385579-robber.json](./385579-robber.json) |
 | Robber Knight | 204068 | [204068-robber-knight.json](./204068-robber-knight.json) |
+| Robbery Bob | 19501 | [19501-robbery-bob.json](./19501-robbery-bob.json) |
 | Robbery Day | 334206 | [334206-robbery-day.json](./334206-robbery-day.json) |
 | Robbery Madness: Thief Games | 219782 | [219782-robbery-madness-thief-games.json](./219782-robbery-madness-thief-games.json) |
 | Robby's Day Out | 181850 | [181850-robbys-day-out.json](./181850-robbys-day-out.json) |
