@@ -2726,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hints Hunter | 85171 | [85171-hints-hunter.json](./85171-hints-hunter.json) |
 | Hiouden | 38384 | [38384-hiouden.json](./38384-hiouden.json) |
 | Hiouden: Mamono-tachi to no Chikai | 60499 | [60499-hiouden-mamono-tachi-to-no-chikai.json](./60499-hiouden-mamono-tachi-to-no-chikai.json) |
+| Hip Hop & Street Dance School | 87868 | [87868-hip-hop-and-street-dance-school.json](./87868-hip-hop-and-street-dance-school.json) |
 | Hip Hop King: Rytmik Edition | 65460 | [65460-hip-hop-king-rytmik-edition.json](./65460-hip-hop-king-rytmik-edition.json) |
 | Hippo Doctor: Hospital Laboratory | 105946 | [105946-hippo-doctor-hospital-laboratory.json](./105946-hippo-doctor-hospital-laboratory.json) |
 | Hippo Eating Banana | 220835 | [220835-hippo-eating-banana.json](./220835-hippo-eating-banana.json) |
