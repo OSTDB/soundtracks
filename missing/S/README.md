@@ -7007,6 +7007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spawn of Evil | 45310 | [45310-spawn-of-evil.json](./45310-spawn-of-evil.json) |
 | Spawn: Armageddon | 4160 | [4160-spawn-armageddon.json](./4160-spawn-armageddon.json) |
 | Spawn: In the Demon's Hand | 4358 | [4358-spawn-in-the-demons-hand.json](./4358-spawn-in-the-demons-hand.json) |
+| Spawn: The Eternal | 45208 | [45208-spawn-the-eternal.json](./45208-spawn-the-eternal.json) |
 | Speak & Spell | 245402 | [245402-speak-and-spell.json](./245402-speak-and-spell.json) |
 | Speak Lies | 127360 | [127360-speak-lies.json](./127360-speak-lies.json) |
 | Speak of the Devil I: A Deathly Proposition | 277941 | [277941-speak-of-the-devil-i-a-deathly-proposition.json](./277941-speak-of-the-devil-i-a-deathly-proposition.json) |
@@ -9805,6 +9806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Style Lab Makeover | 47980 | [47980-style-lab-makeover.json](./47980-style-lab-makeover.json) |
 | Style Lab: Fashion Design | 208358 | [208358-style-lab-fashion-design.json](./208358-style-lab-fashion-design.json) |
 | Style Lab: Jewelry Design | 208359 | [208359-style-lab-jewelry-design.json](./208359-style-lab-jewelry-design.json) |
+| Style Savvy: Fashion Forward | 22796 | [22796-style-savvy-fashion-forward.json](./22796-style-savvy-fashion-forward.json) |
 | Stylish Guards | 216865 | [216865-stylish-guards.json](./216865-stylish-guards.json) |
 | Stylish Sprint 2 | 56481 | [56481-stylish-sprint-2.json](./56481-stylish-sprint-2.json) |
 | Stylist Girl: Sunny Edition | 317242 | [317242-stylist-girl-sunny-edition.json](./317242-stylist-girl-sunny-edition.json) |
@@ -10358,6 +10360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ball Arena | 215707 | [215707-super-ball-arena.json](./215707-super-ball-arena.json) |
 | Super Barista | 128408 | [128408-super-barista.json](./128408-super-barista.json) |
 | Super Baseball | 81283 | [81283-super-baseball.json](./81283-super-baseball.json) |
+| Super Baseball 2020 | 46193 | [46193-super-baseball-2020.json](./46193-super-baseball-2020.json) |
 | Super Basketball AR | 107005 | [107005-super-basketball-ar.json](./107005-super-basketball-ar.json) |
 | Super Battle Golf: Attack on City | 410350 | [410350-super-battle-golf-attack-on-city.json](./410350-super-battle-golf-attack-on-city.json) |
 | Super Battle Polycars | 288874 | [288874-super-battle-polycars.json](./288874-super-battle-polycars.json) |
