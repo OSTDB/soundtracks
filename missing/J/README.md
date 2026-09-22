@@ -1346,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Drive a Lil: It's a Mini Racing Game! | 217516 | [217516-just-drive-a-lil-its-a-mini-racing-game.json](./217516-just-drive-a-lil-its-a-mini-racing-game.json) |
 | Just Dumb Little Dances | 184000 | [184000-just-dumb-little-dances.json](./184000-just-dumb-little-dances.json) |
 | Just Dying | 400470 | [400470-just-dying.json](./400470-just-dying.json) |
+| Just Eat the Rich | 397920 | [397920-just-eat-the-rich.json](./397920-just-eat-the-rich.json) |
 | Just Find It 2 | 256340 | [256340-just-find-it-2.json](./256340-just-find-it-2.json) |
 | Just For Killing Time | 82791 | [82791-just-for-killing-time.json](./82791-just-for-killing-time.json) |
 | Just Freeskiing | 86985 | [86985-just-freeskiing.json](./86985-just-freeskiing.json) |
