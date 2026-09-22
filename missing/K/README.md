@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Inc. | 384630 | [384630-kaiju-inc.json](./384630-kaiju-inc.json) |
 | Kaiju No. 8: The Game | 343892 | [343892-kaiju-no-8-the-game.json](./343892-kaiju-no-8-the-game.json) |
 | Kaiju Wars + Legend of Keepers: Monsters & Demons Bundle | 287111 | [287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json](./287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json) |
+| Kaiju-A-GoGo | 36155 | [36155-kaiju-a-gogo.json](./36155-kaiju-a-gogo.json) |
 | Kaiketsu Yanchamaru | 40216 | [40216-kaiketsu-yanchamaru.json](./40216-kaiketsu-yanchamaru.json) |
 | Kaiketsu Yanchamaru 3: Taiketsu! Zouringen | 66050 | [66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json](./66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json) |
 | Kaiki Gensou Yumemonogatari: Kaijuu Kitan Ouja-den | 110137 | [110137-kaiki-gensou-yumemonogatari-kaijuu-kitan-ouja-den.json](./110137-kaiki-gensou-yumemonogatari-kaijuu-kitan-ouja-den.json) |
