@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| W Goblins L Humans | 395230 | [395230-w-goblins-l-humans.json](./395230-w-goblins-l-humans.json) |
 | W. L. O. Sekai Renai Kikou | 7239 | [7239-w-l-o-sekai-renai-kikou.json](./7239-w-l-o-sekai-renai-kikou.json) |
 | W.A.N.D. Project | 266782 | [266782-w-a-n-d-project.json](./266782-w-a-n-d-project.json) |
 | W.A.R. Hangry | 302104 | [302104-w-a-r-hangry.json](./302104-w-a-r-hangry.json) |
@@ -750,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waste Cleaner | 61614 | [61614-waste-cleaner.json](./61614-waste-cleaner.json) |
 | Waste in Space | 248651 | [248651-waste-in-space.json](./248651-waste-in-space.json) |
 | Waste The Fallen | 413735 | [413735-waste-the-fallen.json](./413735-waste-the-fallen.json) |
+| Waste Water | 395175 | [395175-waste-water.json](./395175-waste-water.json) |
 | Wastebraver | 205101 | [205101-wastebraver.json](./205101-wastebraver.json) |
 | Wastebraver: A Tiny Survival Tale | 207348 | [207348-wastebraver-a-tiny-survival-tale.json](./207348-wastebraver-a-tiny-survival-tale.json) |
 | Wasted | 17925 | [17925-wasted.json](./17925-wasted.json) |
@@ -1255,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What happened to Survey Team 4? | 135028 | [135028-what-happened-to-survey-team-4.json](./135028-what-happened-to-survey-team-4.json) |
 | What Happened: Through Worlds | 314856 | [314856-what-happened-through-worlds.json](./314856-what-happened-through-worlds.json) |
 | What Happens in Space | 153989 | [153989-what-happens-in-space.json](./153989-what-happens-in-space.json) |
+| What Happens Now? | 395180 | [395180-what-happens-now.json](./395180-what-happens-now.json) |
 | What has become of us.. | 232009 | [232009-what-has-become-of-us.json](./232009-what-has-become-of-us.json) |
 | What Has Come Before | 211796 | [211796-what-has-come-before.json](./211796-what-has-come-before.json) |
 | What Heart Heard Of, Ghost Guessed | 230389 | [230389-what-heart-heard-of-ghost-guessed.json](./230389-what-heart-heard-of-ghost-guessed.json) |
