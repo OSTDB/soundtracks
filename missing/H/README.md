@@ -2923,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Freaks DLC | 263555 | [263555-hole-io-freaks-dlc.json](./263555-hole-io-freaks-dlc.json) |
 | Hole io: Red Planet DLC | 263556 | [263556-hole-io-red-planet-dlc.json](./263556-hole-io-red-planet-dlc.json) |
 | Hole-In-One Miniature Golf | 70979 | [70979-hole-in-one-miniature-golf.json](./70979-hole-in-one-miniature-golf.json) |
+| Hole.io | 104100 | [104100-hole-io.json](./104100-hole-io.json) |
 | Hole* | 408173 | [408173-hole.json](./408173-hole.json) |
 | Holedown | 105120 | [105120-holedown.json](./105120-holedown.json) |
 | Holey | 408181 | [408181-holey.json](./408181-holey.json) |
