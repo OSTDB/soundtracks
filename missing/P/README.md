@@ -3951,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poolcore | 238742 | [238742-poolcore.json](./238742-poolcore.json) |
 | Poolcore: Submersion | 354485 | [354485-poolcore-submersion.json](./354485-poolcore-submersion.json) |
 | Pools | 274791 | [274791-pools.json](./274791-pools.json) |
+| Pools of Darkness | 12761 | [12761-pools-of-darkness.json](./12761-pools-of-darkness.json) |
 | Poolside Girls Kiss: Passion Fruits Hotel Dating Sim | 362364 | [362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json](./362364-poolside-girls-kiss-passion-fruits-hotel-dating-sim.json) |
 | Poop Clicker | 195625 | [195625-poop-clicker.json](./195625-poop-clicker.json) |
 | Poop Collector | 196169 | [196169-poop-collector.json](./196169-poop-collector.json) |
@@ -4156,6 +4157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Possum Dating Simulator | 179042 | [179042-possum-dating-simulator.json](./179042-possum-dating-simulator.json) |
 | Post | 274208 | [274208-post.json](./274208-post.json) |
 | Post Apocalypse | 130355 | [130355-post-apocalypse.json](./130355-post-apocalypse.json) |
+| Post Apocalyptic Mayhem | 16229 | [16229-post-apocalyptic-mayhem.json](./16229-post-apocalyptic-mayhem.json) |
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
 | Post Solis | 199102 | [199102-post-solis.json](./199102-post-solis.json) |
 | Post Soviet Strike: Chernobyl Legacy | 294161 | [294161-post-soviet-strike-chernobyl-legacy.json](./294161-post-soviet-strike-chernobyl-legacy.json) |
