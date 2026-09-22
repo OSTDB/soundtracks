@@ -960,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindred Spirits Complete Collection | 53240 | [53240-kindred-spirits-complete-collection.json](./53240-kindred-spirits-complete-collection.json) |
 | Kindred Spirits on the Roof: Full Chorus | 124804 | [124804-kindred-spirits-on-the-roof-full-chorus.json](./124804-kindred-spirits-on-the-roof-full-chorus.json) |
 | Kinduo 2: Frostbite | 263043 | [263043-kinduo-2-frostbite.json](./263043-kinduo-2-frostbite.json) |
+| Kinect Fun Labs | 22939 | [22939-kinect-fun-labs.json](./22939-kinect-fun-labs.json) |
 | Kinect Fun Labs: Air Band | 329731 | [329731-kinect-fun-labs-air-band.json](./329731-kinect-fun-labs-air-band.json) |
 | Kinect Fun Labs: I Am Super! | 329734 | [329734-kinect-fun-labs-i-am-super.json](./329734-kinect-fun-labs-i-am-super.json) |
 | Kinect Fun Labs: Junk Fu | 179598 | [179598-kinect-fun-labs-junk-fu.json](./179598-kinect-fun-labs-junk-fu.json) |
@@ -1712,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokorowa Onigiri Delivery | 206338 | [206338-kokorowa-onigiri-delivery.json](./206338-kokorowa-onigiri-delivery.json) |
 | Kokotoni Wilf | 25750 | [25750-kokotoni-wilf.json](./25750-kokotoni-wilf.json) |
 | Kokubyaku no Avesta: Refusal-Aushedar | 326088 | [326088-kokubyaku-no-avesta-refusal-aushedar.json](./326088-kokubyaku-no-avesta-refusal-aushedar.json) |
+| Kokuga | 22164 | [22164-kokuga.json](./22164-kokuga.json) |
 | Kokurase: Episode 2 | 167800 | [167800-kokurase-episode-2.json](./167800-kokurase-episode-2.json) |
 | Kokurase: Episode 3 | 167799 | [167799-kokurase-episode-3.json](./167799-kokurase-episode-3.json) |
 | Kokuriko | 296922 | [296922-kokuriko.json](./296922-kokuriko.json) |
@@ -1996,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Duel | 336930 | [336930-kung-fu-duel.json](./336930-kung-fu-duel.json) |
 | Kung Fu Fearsome Fists | 333947 | [333947-kung-fu-fearsome-fists.json](./333947-kung-fu-fearsome-fists.json) |
 | Kung Fu Fight! | 58239 | [58239-kung-fu-fight.json](./58239-kung-fu-fight.json) |
+| Kung Fu High Impact | 20156 | [20156-kung-fu-high-impact.json](./20156-kung-fu-high-impact.json) |
 | Kung Fu House | 51201 | [51201-kung-fu-house.json](./51201-kung-fu-house.json) |
 | Kung Fu Kid | 36898 | [36898-kung-fu-kid.json](./36898-kung-fu-kid.json) |
 | Kung Fu Panda | 320387 | [320387-kung-fu-panda.json](./320387-kung-fu-panda.json) |
@@ -2056,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuroko no Basket: Mirai he no Kizuna | 60492 | [60492-kuroko-no-basket-mirai-he-no-kizuna.json](./60492-kuroko-no-basket-mirai-he-no-kizuna.json) |
 | Kuroneko-sou Souzoku Satsujin Jiken | 222910 | [222910-kuroneko-sou-souzoku-satsujin-jiken.json](./222910-kuroneko-sou-souzoku-satsujin-jiken.json) |
 | Kuros | 16059 | [16059-kuros.json](./16059-kuros.json) |
+| Kursk | 22793 | [22793-kursk.json](./22793-kursk.json) |
 | Kursk - Battle at Prochorovka | 29223 | [29223-kursk-battle-at-prochorovka.json](./29223-kursk-battle-at-prochorovka.json) |
 | Kurt: Der Fussballmanager | 171616 | [171616-kurt-der-fussballmanager.json](./171616-kurt-der-fussballmanager.json) |
 | Kuru-kuru Action Kuru Pachi 6 | 220845 | [220845-kuru-kuru-action-kuru-pachi-6.json](./220845-kuru-kuru-action-kuru-pachi-6.json) |
