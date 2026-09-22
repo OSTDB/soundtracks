@@ -619,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie vs. Police | 192433 | [192433-zombie-vs-police.json](./192433-zombie-vs-police.json) |
 | Zombie Walking: VIP | 95827 | [95827-zombie-walking-vip.json](./95827-zombie-walking-vip.json) |
 | Zombie War | 187378 | [187378-zombie-war.json](./187378-zombie-war.json) |
+| Zombie War | 411138 | [411138-zombie-war.json](./411138-zombie-war.json) |
 | Zombie Watch Part II | 241629 | [241629-zombie-watch-part-ii.json](./241629-zombie-watch-part-ii.json) |
 | Zombie Zombie | 316091 | [316091-zombie-zombie.json](./316091-zombie-zombie.json) |
 | Zombie's Cool | 147261 | [147261-zombies-cool.json](./147261-zombies-cool.json) |
