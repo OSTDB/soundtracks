@@ -2907,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: TuttiRun | 353972 | [353972-pixicharm-tuttirun.json](./353972-pixicharm-tuttirun.json) |
 | Pixicharm: Vesprax | 377706 | [377706-pixicharm-vesprax.json](./377706-pixicharm-vesprax.json) |
 | Pixie Pete | 25688 | [25688-pixie-pete.json](./25688-pixie-pete.json) |
+| Pixie Plates: Royal Edition | 411835 | [411835-pixie-plates-royal-edition.json](./411835-pixie-plates-royal-edition.json) |
 | Pixiel: Dreadwager | 277424 | [277424-pixiel-dreadwager.json](./277424-pixiel-dreadwager.json) |
 | Pixiescape | 217389 | [217389-pixiescape.json](./217389-pixiescape.json) |
 | PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
@@ -3782,6 +3783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker TD | 390103 | [390103-poker-td.json](./390103-poker-td.json) |
 | Poker Train | 320148 | [320148-poker-train.json](./320148-poker-train.json) |
 | Poker World: Casino Game | 219292 | [219292-poker-world-casino-game.json](./219292-poker-world-casino-game.json) |
+| Poker: Texas & Omaha Hold'em - Premium Edition | 411836 | [411836-poker-texas-and-omaha-holdem-premium-edition.json](./411836-poker-texas-and-omaha-holdem-premium-edition.json) |
 | PokeRank | 414554 | [414554-pokerank.json](./414554-pokerank.json) |
 | PokerMania | 76593 | [76593-pokermania.json](./76593-pokermania.json) |
 | Pokermon | 346016 | [346016-pokermon.json](./346016-pokermon.json) |
@@ -4028,6 +4030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Master | 43257 | [43257-pool-master.json](./43257-pool-master.json) |
 | Pool Nation Snooker Bundle | 112733 | [112733-pool-nation-snooker-bundle.json](./112733-pool-nation-snooker-bundle.json) |
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
+| Pool Party Girls: Splash Babes | 411824 | [411824-pool-party-girls-splash-babes.json](./411824-pool-party-girls-splash-babes.json) |
 | Pool Party Panic | 26953 | [26953-pool-party-panic.json](./26953-pool-party-panic.json) |
 | Pool Pro | 246384 | [246384-pool-pro.json](./246384-pool-pro.json) |
 | Pool Pro 2022 | 275611 | [275611-pool-pro-2022.json](./275611-pool-pro-2022.json) |
