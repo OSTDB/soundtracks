@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitreous | 179717 | [179717-vitreous.json](./179717-vitreous.json) |
 | Vitrified | 275126 | [275126-vitrified.json](./275126-vitrified.json) |
 | Vitriol | 301258 | [301258-vitriol.json](./301258-vitriol.json) |
+| Vitriol & Valor | 412548 | [412548-vitriol-and-valor.json](./412548-vitriol-and-valor.json) |
 | Vitrum | 36362 | [36362-vitrum.json](./36362-vitrum.json) |
 | Viva Games Collection | 173173 | [173173-viva-games-collection.json](./173173-viva-games-collection.json) |
 | Viva la Toast | 240869 | [240869-viva-la-toast.json](./240869-viva-la-toast.json) |
