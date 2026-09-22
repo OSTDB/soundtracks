@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy: Zero 2 | 188671 | [188671-entropy-zero-2.json](./188671-entropy-zero-2.json) |
 | Entwined Challenge | 174226 | [174226-entwined-challenge.json](./174226-entwined-challenge.json) |
 | EnvironmentZ | 374724 | [374724-environmentz.json](./374724-environmentz.json) |
+| Envoy | 33413 | [33413-envoy.json](./33413-envoy.json) |
 | Envoy 2 | 33367 | [33367-envoy-2.json](./33367-envoy-2.json) |
 | Envoy of Nezphere | 105309 | [105309-envoy-of-nezphere.json](./105309-envoy-of-nezphere.json) |
 | Envy the Dead | 33227 | [33227-envy-the-dead.json](./33227-envy-the-dead.json) |
