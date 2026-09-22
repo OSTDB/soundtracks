@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dasshutsu Youki no Jukai: Nehan no Mori | 138749 | [138749-dasshutsu-youki-no-jukai-nehan-no-mori.json](./138749-dasshutsu-youki-no-jukai-nehan-no-mori.json) |
 | Data | 114781 | [114781-data.json](./114781-data.json) |
 | Data Ball | 104031 | [104031-data-ball.json](./104031-data-ball.json) |
+| Data Defense | 104655 | [104655-data-defense.json](./104655-data-defense.json) |
 | Data Delivery Agents | 241974 | [241974-data-delivery-agents.json](./241974-data-delivery-agents.json) |
 | Data Doesn't Lie | 322386 | [322386-data-doesnt-lie.json](./322386-data-doesnt-lie.json) |
 | Data East Arcade 2 | 325238 | [325238-data-east-arcade-2.json](./325238-data-east-arcade-2.json) |
@@ -1891,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degrees of Separation | 110503 | [110503-degrees-of-separation.json](./110503-degrees-of-separation.json) |
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
 | Dehoarder 2 | 214509 | [214509-dehoarder-2.json](./214509-dehoarder-2.json) |
+| Dehumanized | 104054 | [104054-dehumanized.json](./104054-dehumanized.json) |
 | Dehydration | 374723 | [374723-dehydration.json](./374723-dehydration.json) |
 | Deiland | 74531 | [74531-deiland.json](./74531-deiland.json) |
 | Deimos Hotel | 382280 | [382280-deimos-hotel.json](./382280-deimos-hotel.json) |
