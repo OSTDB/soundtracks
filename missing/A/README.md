@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Guard Walks Into a Tavern | 148906 | [148906-a-guard-walks-into-a-tavern.json](./148906-a-guard-walks-into-a-tavern.json) |
 | A Guidebook of Babel | 149085 | [149085-a-guidebook-of-babel.json](./149085-a-guidebook-of-babel.json) |
 | A Gunshot in Room 37 | 311660 | [311660-a-gunshot-in-room-37.json](./311660-a-gunshot-in-room-37.json) |
+| A Hand in the Darkness | 28800 | [28800-a-hand-in-the-darkness.json](./28800-a-hand-in-the-darkness.json) |
 | A Handful of Keflings | 83948 | [83948-a-handful-of-keflings.json](./83948-a-handful-of-keflings.json) |
 | A Harvesting Moon | 55089 | [55089-a-harvesting-moon.json](./55089-a-harvesting-moon.json) |
 | A Healer Only Lives Twice | 33255 | [33255-a-healer-only-lives-twice.json](./33255-a-healer-only-lives-twice.json) |
@@ -528,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
+| ACA Neo Geo: Nam-1975 | 28409 | [28409-aca-neo-geo-nam-1975.json](./28409-aca-neo-geo-nam-1975.json) |
 | ACA Neo Geo: Ninja Master's | 114147 | [114147-aca-neo-geo-ninja-masters.json](./114147-aca-neo-geo-ninja-masters.json) |
 | ACA Neo Geo: Samurai Shodown V Special | 117520 | [117520-aca-neo-geo-samurai-shodown-v-special.json](./117520-aca-neo-geo-samurai-shodown-v-special.json) |
 | ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
@@ -889,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Nightmares | 282133 | [282133-aeon-nightmares.json](./282133-aeon-nightmares.json) |
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
+| Aerea | 27794 | [27794-aerea.json](./27794-aerea.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 1 | 270203 | [270203-aerial-nature-jigsaw-puzzles-expansion-pack-1.json](./270203-aerial-nature-jigsaw-puzzles-expansion-pack-1.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 4 | 270199 | [270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json](./270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json) |
@@ -1213,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Pressure | 65776 | [65776-air-pressure.json](./65776-air-pressure.json) |
 | Air Race | 249506 | [249506-air-race.json](./249506-air-race.json) |
 | Air Race Championship | 143645 | [143645-air-race-championship.json](./143645-air-race-championship.json) |
+| Air Race Speed | 26663 | [26663-air-race-speed.json](./26663-air-race-speed.json) |
 | Air Racer | 382187 | [382187-air-racer.json](./382187-air-racer.json) |
 | Air Racer: Sky Traffic | 232156 | [232156-air-racer-sky-traffic.json](./232156-air-racer-sky-traffic.json) |
 | Air Racing VR | 192445 | [192445-air-racing-vr.json](./192445-air-racing-vr.json) |
@@ -5059,6 +5063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomica | 379989 | [379989-atomica.json](./379989-atomica.json) |
 | Atomicrops: Deluxe Edition | 154542 | [154542-atomicrops-deluxe-edition.json](./154542-atomicrops-deluxe-edition.json) |
 | Atomind | 93547 | [93547-atomind.json](./93547-atomind.json) |
+| Atomine | 28554 | [28554-atomine.json](./28554-atomine.json) |
 | Atominous | 257383 | [257383-atominous.json](./257383-atominous.json) |
 | Atomite | 298688 | [298688-atomite.json](./298688-atomite.json) |
 | Atomix | 308566 | [308566-atomix.json](./308566-atomix.json) |
@@ -5548,6 +5553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aye Fair Lady | 126019 | [126019-aye-fair-lady.json](./126019-aye-fair-lady.json) |
 | Aye Leon | 387342 | [387342-aye-leon.json](./387342-aye-leon.json) |
 | Ayni Fairyland | 107896 | [107896-ayni-fairyland.json](./107896-ayni-fairyland.json) |
+| Ayo the Clown | 26755 | [26755-ayo-the-clown.json](./26755-ayo-the-clown.json) |
 | Ayoub: Episode 2 | 166173 | [166173-ayoub-episode-2.json](./166173-ayoub-episode-2.json) |
 | Ayre | 185026 | [185026-ayre.json](./185026-ayre.json) |
 | Ayrton Senna Kart Duel Special | 285994 | [285994-ayrton-senna-kart-duel-special.json](./285994-ayrton-senna-kart-duel-special.json) |
