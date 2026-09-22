@@ -5553,6 +5553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aventura de Luigi | 322003 | [322003-aventura-de-luigi.json](./322003-aventura-de-luigi.json) |
 | Average Human Ball Game | 349368 | [349368-average-human-ball-game.json](./349368-average-human-ball-game.json) |
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
+| Averi the Accursed | 406910 | [406910-averi-the-accursed.json](./406910-averi-the-accursed.json) |
 | Avernum | 19580 | [19580-avernum.json](./19580-avernum.json) |
 | Avernum 2 | 19581 | [19581-avernum-2.json](./19581-avernum-2.json) |
 | Avernum 2: Crystal Souls | 8802 | [8802-avernum-2-crystal-souls.json](./8802-avernum-2-crystal-souls.json) |
