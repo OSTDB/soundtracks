@@ -6733,6 +6733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Incubi Harem | 235348 | [235348-my-incubi-harem.json](./235348-my-incubi-harem.json) |
 | My Interstellar Inn | 285568 | [285568-my-interstellar-inn.json](./285568-my-interstellar-inn.json) |
 | My Isekai After Life is an RPG!? | 153392 | [153392-my-isekai-after-life-is-an-rpg.json](./153392-my-isekai-after-life-is-an-rpg.json) |
+| My Island | 114113 | [114113-my-island.json](./114113-my-island.json) |
 | My Journey | 339105 | [339105-my-journey.json](./339105-my-journey.json) |
 | My Journey to Your World | 170932 | [170932-my-journey-to-your-world.json](./170932-my-journey-to-your-world.json) |
 | My Kingdom For the Princess | 137037 | [137037-my-kingdom-for-the-princess.json](./137037-my-kingdom-for-the-princess.json) |
