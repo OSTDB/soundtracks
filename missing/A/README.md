@@ -4509,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asghan 2 | 10864 | [10864-asghan-2.json](./10864-asghan-2.json) |
 | Asghan: The Dragon Slayer | 10860 | [10860-asghan-the-dragon-slayer.json](./10860-asghan-the-dragon-slayer.json) |
 | Asgore Runs Over Dess: The Game | 362905 | [362905-asgore-runs-over-dess-the-game.json](./362905-asgore-runs-over-dess-the-game.json) |
+| Asguaard | 36178 | [36178-asguaard.json](./36178-asguaard.json) |
 | Ash | 127264 | [127264-ash.json](./127264-ash.json) |
 | Ash Arms | 180283 | [180283-ash-arms.json](./180283-ash-arms.json) |
 | Ash Battle | 214048 | [214048-ash-battle.json](./214048-ash-battle.json) |
