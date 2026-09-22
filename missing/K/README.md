@@ -1718,6 +1718,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi Hai Tunnel | 280878 | [280878-koi-hai-tunnel.json](./280878-koi-hai-tunnel.json) |
 | Koi Iro Rabian Doll | 191693 | [191693-koi-iro-rabian-doll.json](./191693-koi-iro-rabian-doll.json) |
 | Koi Koi Mahjong | 43964 | [43964-koi-koi-mahjong.json](./43964-koi-koi-mahjong.json) |
+| Koi Mekuri Clover Mini Fandisk | 399195 | [399195-koi-mekuri-clover-mini-fandisk.json](./399195-koi-mekuri-clover-mini-fandisk.json) |
+| Koi Mekuri Clover: Itsuka no Kimi he, Yakusoku no Ashita wo | 399190 | [399190-koi-mekuri-clover-itsuka-no-kimi-he-yakusoku-no-ashita-wo.json](./399190-koi-mekuri-clover-itsuka-no-kimi-he-yakusoku-no-ashita-wo.json) |
 | Koi Musubi | 30780 | [30780-koi-musubi.json](./30780-koi-musubi.json) |
 | Koi No Hotrock | 40230 | [40230-koi-no-hotrock.json](./40230-koi-no-hotrock.json) |
 | Koi Shiyo? | 194535 | [194535-koi-shiyo.json](./194535-koi-shiyo.json) |
