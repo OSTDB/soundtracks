@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SBK-08: Superbike World Championship | 264881 | [264881-sbk-08-superbike-world-championship.json](./264881-sbk-08-superbike-world-championship.json) |
 | Sblobber 64 | 145456 | [145456-sblobber-64.json](./145456-sblobber-64.json) |
 | SBX 5K | 132214 | [132214-sbx-5k.json](./132214-sbx-5k.json) |
+| SC2VN: The eSports Visual Novel | 19076 | [19076-sc2vn-the-esports-visual-novel.json](./19076-sc2vn-the-esports-visual-novel.json) |
 | Scab | 402285 | [402285-scab.json](./402285-scab.json) |
 | Scale | 9042 | [9042-scale.json](./9042-scale.json) |
 | Scale Star | 97686 | [97686-scale-star.json](./97686-scale-star.json) |
@@ -3085,9 +3086,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shmup! | 408773 | [408773-shmup.json](./408773-shmup.json) |
 | Shnipers | 56484 | [56484-shnipers.json](./56484-shnipers.json) |
 | Shoal | 172039 | [172039-shoal.json](./172039-shoal.json) |
+| Shock Tactics | 18811 | [18811-shock-tactics.json](./18811-shock-tactics.json) |
 | Shocked | 213458 | [213458-shocked.json](./213458-shocked.json) |
 | Shocking Twist | 308261 | [308261-shocking-twist.json](./308261-shocking-twist.json) |
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
+| Shockwave Assault | 18705 | [18705-shockwave-assault.json](./18705-shockwave-assault.json) |
 | Shockway Rider | 28824 | [28824-shockway-rider.json](./28824-shockway-rider.json) |
 | Shodan Morita Shogi | 38372 | [38372-shodan-morita-shogi.json](./38372-shodan-morita-shogi.json) |
 | Shodankurai Nintei: Shodan Pro Mahjong | 38368 | [38368-shodankurai-nintei-shodan-pro-mahjong.json](./38368-shodankurai-nintei-shodan-pro-mahjong.json) |
@@ -5232,6 +5235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snolf: The Sonic Golf Experience | 143733 | [143733-snolf-the-sonic-golf-experience.json](./143733-snolf-the-sonic-golf-experience.json) |
 | Snolf: Tournament Edition | 201808 | [201808-snolf-tournament-edition.json](./201808-snolf-tournament-edition.json) |
 | Snood | 246388 | [246388-snood.json](./246388-snood.json) |
+| Snood 2: On Vacation | 19107 | [19107-snood-2-on-vacation.json](./19107-snood-2-on-vacation.json) |
 | Snood Poppers | 137656 | [137656-snood-poppers.json](./137656-snood-poppers.json) |
 | Snood Slide | 138016 | [138016-snood-slide.json](./138016-snood-slide.json) |
 | Snood Towers | 246389 | [246389-snood-towers.json](./246389-snood-towers.json) |
@@ -6279,6 +6283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophie's World | 73234 | [73234-sophies-world.json](./73234-sophies-world.json) |
 | Sophonce | 211278 | [211278-sophonce.json](./211278-sophonce.json) |
 | Sophont | 99431 | [99431-sophont.json](./99431-sophont.json) |
+| Sora | 18569 | [18569-sora.json](./18569-sora.json) |
 | Sora no Iro, Mizu no Iro | 72718 | [72718-sora-no-iro-mizu-no-iro.json](./72718-sora-no-iro-mizu-no-iro.json) |
 | Sora o Aogite Kumo Takaku | 62733 | [62733-sora-o-aogite-kumo-takaku.json](./62733-sora-o-aogite-kumo-takaku.json) |
 | Sora Tobu Henry | 231506 | [231506-sora-tobu-henry.json](./231506-sora-tobu-henry.json) |
@@ -9857,6 +9862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strong Moon | 208452 | [208452-strong-moon.json](./208452-strong-moon.json) |
 | Strong: Search for the Mightiest Person | 246975 | [246975-strong-search-for-the-mightiest-person.json](./246975-strong-search-for-the-mightiest-person.json) |
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
+| Stronghold | 18539 | [18539-stronghold.json](./18539-stronghold.json) |
 | Stronghold 3 Gold | 54411 | [54411-stronghold-3-gold.json](./54411-stronghold-3-gold.json) |
 | Stronghold Collection | 21771 | [21771-stronghold-collection.json](./21771-stronghold-collection.json) |
 | Stronghold Crusader | 964 | [964-stronghold-crusader.json](./964-stronghold-crusader.json) |
@@ -10496,6 +10502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Anime Waifu BBQ Simulator | 216235 | [216235-super-anime-waifu-bbq-simulator.json](./216235-super-anime-waifu-bbq-simulator.json) |
 | Super Ant Art Tycoon | 391603 | [391603-super-ant-art-tycoon.json](./391603-super-ant-art-tycoon.json) |
 | Super Arabian | 48665 | [48665-super-arabian.json](./48665-super-arabian.json) |
+| Super Arcade Football | 19084 | [19084-super-arcade-football.json](./19084-super-arcade-football.json) |
 | Super Arcade Pinball | 217980 | [217980-super-arcade-pinball.json](./217980-super-arcade-pinball.json) |
 | Super Army of Tentacles 3: The Search for Army of Tentacles 2 - Isle of the Cat Girls | 225902 | [225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json](./225902-super-army-of-tentacles-3-the-search-for-army-of-tentacles-2-isle-of-the-cat-girls.json) |
 | Super Artificial Intelligence Psike | 216871 | [216871-super-artificial-intelligence-psike.json](./216871-super-artificial-intelligence-psike.json) |
