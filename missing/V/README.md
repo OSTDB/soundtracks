@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valakas: Immortal | 154393 | [154393-valakas-immortal.json](./154393-valakas-immortal.json) |
 | Valbrace | 318603 | [318603-valbrace.json](./318603-valbrace.json) |
 | Valcarta: Rise of the Demon | 32887 | [32887-valcarta-rise-of-the-demon.json](./32887-valcarta-rise-of-the-demon.json) |
+| Valdis Story: Abyssal City | 6134 | [6134-valdis-story-abyssal-city.json](./6134-valdis-story-abyssal-city.json) |
 | Vale | 263012 | [263012-vale.json](./263012-vale.json) |
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
 | Valenium | 382294 | [382294-valenium.json](./382294-valenium.json) |
@@ -702,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ViewSelect the Game | 140588 | [140588-viewselect-the-game.json](./140588-viewselect-the-game.json) |
 | Viewtiful Joe | 4229 | [4229-viewtiful-joe.json](./4229-viewtiful-joe.json) |
 | Viewtiful Joe 2 | 4230 | [4230-viewtiful-joe-2.json](./4230-viewtiful-joe-2.json) |
+| Viewtiful Joe: Double Trouble! | 5987 | [5987-viewtiful-joe-double-trouble.json](./5987-viewtiful-joe-double-trouble.json) |
 | Vifa | 379374 | [379374-vifa.json](./379374-vifa.json) |
 | Vigaro Runner 2: Return | 338569 | [338569-vigaro-runner-2-return.json](./338569-vigaro-runner-2-return.json) |
 | Vigil | 185032 | [185032-vigil.json](./185032-vigil.json) |
