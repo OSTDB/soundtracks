@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canal Control | 243702 | [243702-canal-control.json](./243702-canal-control.json) |
 | Canal Towns | 197335 | [197335-canal-towns.json](./197335-canal-towns.json) |
 | Canari | 51580 | [51580-canari.json](./51580-canari.json) |
+| Canasta 3D Premium | 118406 | [118406-canasta-3d-premium.json](./118406-canasta-3d-premium.json) |
 | Candance Kane's Candy Factory | 137475 | [137475-candance-kanes-candy-factory.json](./137475-candance-kanes-candy-factory.json) |
 | Candelabra Estoscerro | 143077 | [143077-candelabra-estoscerro.json](./143077-candelabra-estoscerro.json) |
 | Candice DeBebe's Incredibly Trick Lifestyle | 33246 | [33246-candice-debebes-incredibly-trick-lifestyle.json](./33246-candice-debebes-incredibly-trick-lifestyle.json) |
@@ -1129,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Travel | 364563 | [364563-castle-travel.json](./364563-castle-travel.json) |
 | Castle V Castle | 331947 | [331947-castle-v-castle.json](./331947-castle-v-castle.json) |
 | Castle Werewolf | 29609 | [29609-castle-werewolf.json](./29609-castle-werewolf.json) |
+| Castle Woodwarf 2 | 118612 | [118612-castle-woodwarf-2.json](./118612-castle-woodwarf-2.json) |
 | Castle Wreck | 373638 | [373638-castle-wreck.json](./373638-castle-wreck.json) |
 | Castle: Daybreak | 166166 | [166166-castle-daybreak.json](./166166-castle-daybreak.json) |
 | Castle: Never Judge a Book by its Cover | 17407 | [17407-castle-never-judge-a-book-by-its-cover.json](./17407-castle-never-judge-a-book-by-its-cover.json) |
@@ -3311,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Defense | 119722 | [119722-click-defense.json](./119722-click-defense.json) |
 | Click Deity | 246660 | [246660-click-deity.json](./246660-click-deity.json) |
 | Click For Cash: Cashed Out | 265944 | [265944-click-for-cash-cashed-out.json](./265944-click-for-cash-cashed-out.json) |
+| Click Legends | 118597 | [118597-click-legends.json](./118597-click-legends.json) |
 | Click Lovers | 203927 | [203927-click-lovers.json](./203927-click-lovers.json) |
 | Click Mage | 320391 | [320391-click-mage.json](./320391-click-mage.json) |
 | Click Me Harder | 365165 | [365165-click-me-harder.json](./365165-click-me-harder.json) |
@@ -5637,6 +5640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket 22 | 175987 | [175987-cricket-22.json](./175987-cricket-22.json) |
 | Cricket 96 | 94684 | [94684-cricket-96.json](./94684-cricket-96.json) |
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
+| Cricket Captain 2019 | 118777 | [118777-cricket-captain-2019.json](./118777-cricket-captain-2019.json) |
 | Cricket Captain 2023 | 252242 | [252242-cricket-captain-2023.json](./252242-cricket-captain-2023.json) |
 | Cricket Captain 2025 | 351614 | [351614-cricket-captain-2025.json](./351614-cricket-captain-2025.json) |
 | Cricket Carlson | 125821 | [125821-cricket-carlson.json](./125821-cricket-carlson.json) |
@@ -6185,6 +6189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CS Manager | 404337 | [404337-cs-manager.json](./404337-cs-manager.json) |
 | CS Pipas: Legend | 391713 | [391713-cs-pipas-legend.json](./391713-cs-pipas-legend.json) |
 | CSC | 339346 | [339346-csc.json](./339346-csc.json) |
+| CSC \| Space MMO | 118419 | [118419-csc-space-mmo.json](./118419-csc-space-mmo.json) |
 | CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
 | CSI: New York | 50800 | [50800-csi-new-york.json](./50800-csi-new-york.json) |
 | CSI: NY | 70640 | [70640-csi-ny.json](./70640-csi-ny.json) |
