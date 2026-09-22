@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kai Yuen's Overlapped Universe | 111068 | [111068-kai-yuens-overlapped-universe.json](./111068-kai-yuens-overlapped-universe.json) |
 | Kai-ri-Sei Million Arthur | 137066 | [137066-kai-ri-sei-million-arthur.json](./137066-kai-ri-sei-million-arthur.json) |
 | Kai-ri-Sei Million Arthur | 174836 | [174836-kai-ri-sei-million-arthur.json](./174836-kai-ri-sei-million-arthur.json) |
+| Kai-ri-Sei Million Arthur VR | 26642 | [26642-kai-ri-sei-million-arthur-vr.json](./26642-kai-ri-sei-million-arthur-vr.json) |
 | Kai-Ri-Sei Million Arthur: Ring | 318432 | [318432-kai-ri-sei-million-arthur-ring.json](./318432-kai-ri-sei-million-arthur-ring.json) |
 | Kai.Ren | 174877 | [174877-kai-ren.json](./174877-kai-ren.json) |
 | Kaia's Ascent | 337995 | [337995-kaias-ascent.json](./337995-kaias-ascent.json) |
