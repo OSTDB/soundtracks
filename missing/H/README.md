@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana Oboro: Sengoku-den Ranki | 136480 | [136480-hana-oboro-sengoku-den-ranki.json](./136480-hana-oboro-sengoku-den-ranki.json) |
 | Hana Saki Work Spring! | 111649 | [111649-hana-saki-work-spring.json](./111649-hana-saki-work-spring.json) |
 | Hanabi | 131388 | [131388-hanabi.json](./131388-hanabi.json) |
+| Hanabi and Ghost Girl | 405738 | [405738-hanabi-and-ghost-girl.json](./405738-hanabi-and-ghost-girl.json) |
 | Hanabi Shokunin ni Narou 2 | 279782 | [279782-hanabi-shokunin-ni-narou-2.json](./279782-hanabi-shokunin-ni-narou-2.json) |
 | Hanafuda Koi-koi Dojo | 322565 | [322565-hanafuda-koi-koi-dojo.json](./322565-hanafuda-koi-koi-dojo.json) |
 | Hanafuda Rumble | 97838 | [97838-hanafuda-rumble.json](./97838-hanafuda-rumble.json) |
@@ -453,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanerutchi 2 | 229962 | [229962-hanerutchi-2.json](./229962-hanerutchi-2.json) |
 | Hang Gliding: VR Experience | 243220 | [243220-hang-gliding-vr-experience.json](./243220-hang-gliding-vr-experience.json) |
 | Hang On | 169892 | [169892-hang-on.json](./169892-hang-on.json) |
+| Hang Out | 405718 | [405718-hang-out.json](./405718-hang-out.json) |
 | Hang up Street | 333092 | [333092-hang-up-street.json](./333092-hang-up-street.json) |
 | Hang-On | 364569 | [364569-hang-on.json](./364569-hang-on.json) |
 | Hang-On | 364571 | [364571-hang-on.json](./364571-hang-on.json) |
@@ -1143,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of the Emberstone: Coliseum | 81767 | [81767-heart-of-the-emberstone-coliseum.json](./81767-heart-of-the-emberstone-coliseum.json) |
 | Heart of the Hedgehog | 330288 | [330288-heart-of-the-hedgehog.json](./330288-heart-of-the-hedgehog.json) |
 | Heart of the House | 75203 | [75203-heart-of-the-house.json](./75203-heart-of-the-house.json) |
+| Heart of the Mountain | 405722 | [405722-heart-of-the-mountain.json](./405722-heart-of-the-mountain.json) |
 | Heart of the Woods | 102326 | [102326-heart-of-the-woods.json](./102326-heart-of-the-woods.json) |
 | Heart on Your Sleeve | 178533 | [178533-heart-on-your-sleeve.json](./178533-heart-on-your-sleeve.json) |
 | Heart Piano Tiles | 96697 | [96697-heart-piano-tiles.json](./96697-heart-piano-tiles.json) |
@@ -1519,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Benny - Horror Machine | 106379 | [106379-hello-benny-horror-machine.json](./106379-hello-benny-horror-machine.json) |
 | Hello Brain | 96717 | [96717-hello-brain.json](./96717-hello-brain.json) |
 | Hello Charlotte: Heaven's Gate | 144382 | [144382-hello-charlotte-heavens-gate.json](./144382-hello-charlotte-heavens-gate.json) |
+| Hello Charlotte: Heaven's Gate | 405724 | [405724-hello-charlotte-heavens-gate.json](./405724-hello-charlotte-heavens-gate.json) |
 | Hello Counsel | 318223 | [318223-hello-counsel.json](./318223-hello-counsel.json) |
 | Hello Crazy : Neighbor Doctor | 101532 | [101532-hello-crazy-neighbor-doctor.json](./101532-hello-crazy-neighbor-doctor.json) |
 | Hello Cruel World | 272839 | [272839-hello-cruel-world.json](./272839-hello-cruel-world.json) |
@@ -2834,6 +2838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit the Light: Neon Shooter | 129165 | [129165-hit-the-light-neon-shooter.json](./129165-hit-the-light-neon-shooter.json) |
 | HIT: Heroes of Incredible Tales | 79317 | [79317-hit-heroes-of-incredible-tales.json](./79317-hit-heroes-of-incredible-tales.json) |
 | HitBox | 21982 | [21982-hitbox.json](./21982-hitbox.json) |
+| Hitchhiking to Hell | 405684 | [405684-hitchhiking-to-hell.json](./405684-hitchhiking-to-hell.json) |
 | Hitler is My Crush: Love and Fascism | 318420 | [318420-hitler-is-my-crush-love-and-fascism.json](./318420-hitler-is-my-crush-love-and-fascism.json) |
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
 | Hitler no Fukkatsu: Top Secret | 48580 | [48580-hitler-no-fukkatsu-top-secret.json](./48580-hitler-no-fukkatsu-top-secret.json) |
