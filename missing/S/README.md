@@ -4097,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sitnalta | 268762 | [268762-sitnalta.json](./268762-sitnalta.json) |
 | Sitri: Shadow Walk | 225092 | [225092-sitri-shadow-walk.json](./225092-sitri-shadow-walk.json) |
 | Sitting Ducks | 210727 | [210727-sitting-ducks.json](./210727-sitting-ducks.json) |
+| Sitting Ducks | 402482 | [402482-sitting-ducks.json](./402482-sitting-ducks.json) |
 | Situation Outbreak | 91456 | [91456-situation-outbreak.json](./91456-situation-outbreak.json) |
 | SituationCovid | 149416 | [149416-situationcovid.json](./149416-situationcovid.json) |
 | Sity | 202332 | [202332-sity.json](./202332-sity.json) |
@@ -4285,6 +4286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sknow | 118206 | [118206-sknow.json](./118206-sknow.json) |
 | Skogdal | 258565 | [258565-skogdal.json](./258565-skogdal.json) |
 | Skolios | 243784 | [243784-skolios.json](./243784-skolios.json) |
+| Skollorn | 402502 | [402502-skollorn.json](./402502-skollorn.json) |
 | Skoof Fishing | 356663 | [356663-skoof-fishing.json](./356663-skoof-fishing.json) |
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
@@ -6362,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonki's Lagoon | 391193 | [391193-sonkis-lagoon.json](./391193-sonkis-lagoon.json) |
 | SonKnuck Adventure 3 | 326805 | [326805-sonknuck-adventure-3.json](./326805-sonknuck-adventure-3.json) |
 | SonKnuck RPG | 330337 | [330337-sonknuck-rpg.json](./330337-sonknuck-rpg.json) |
+| Sonnet | 402478 | [402478-sonnet.json](./402478-sonnet.json) |
 | Sonny Legacy Collection | 299891 | [299891-sonny-legacy-collection.json](./299891-sonny-legacy-collection.json) |
 | Sono | 130184 | [130184-sono.json](./130184-sono.json) |
 | Sono Hanabira ni Kuchizuke o: Amakute Hoshikute Torokeru Chuu | 12218 | [12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json](./12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json) |
@@ -9063,6 +9066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station 228 | 75786 | [75786-station-228.json](./75786-station-228.json) |
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
+| Station Command | 402523 | [402523-station-command.json](./402523-station-command.json) |
 | Station Commander | 166074 | [166074-station-commander.json](./166074-station-commander.json) |
 | Station Commander | 76654 | [76654-station-commander.json](./76654-station-commander.json) |
 | Station Master | 183550 | [183550-station-master.json](./183550-station-master.json) |
