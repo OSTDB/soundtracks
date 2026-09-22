@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Samuel: The Worst Game Ever Made | 196160 | [196160-adventures-of-samuel-the-worst-game-ever-made.json](./196160-adventures-of-samuel-the-worst-game-ever-made.json) |
 | Adventures of the Cat Leopold | 53166 | [53166-adventures-of-the-cat-leopold.json](./53166-adventures-of-the-cat-leopold.json) |
 | Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
+| Adventures of the Stalk of Celery | 404416 | [404416-adventures-of-the-stalk-of-celery.json](./404416-adventures-of-the-stalk-of-celery.json) |
 | Adventures of Tom Sawyer | 48109 | [48109-adventures-of-tom-sawyer.json](./48109-adventures-of-tom-sawyer.json) |
 | Adventures of Yogi Bear | 8010 | [8010-adventures-of-yogi-bear.json](./8010-adventures-of-yogi-bear.json) |
 | Adventures on The Polluted Islands | 27721 | [27721-adventures-on-the-polluted-islands.json](./27721-adventures-on-the-polluted-islands.json) |
