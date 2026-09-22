@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Wagon | 254763 | [254763-happy-wagon.json](./254763-happy-wagon.json) |
 | Happy Wars | 8410 | [8410-happy-wars.json](./8410-happy-wars.json) |
 | Happy Weekend | 333579 | [333579-happy-weekend.json](./333579-happy-weekend.json) |
+| Happy Weekend | 418826 | [418826-happy-weekend.json](./418826-happy-weekend.json) |
 | Happy Wheels 2 | 95839 | [95839-happy-wheels-2.json](./95839-happy-wheels-2.json) |
 | Happy Wonderland Solitaire | 276200 | [276200-happy-wonderland-solitaire.json](./276200-happy-wonderland-solitaire.json) |
 | Happy Words | 117051 | [117051-happy-words.json](./117051-happy-words.json) |
@@ -1397,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Crusher | 202845 | [202845-hell-crusher.json](./202845-hell-crusher.json) |
 | Hell Dive | 324307 | [324307-hell-dive.json](./324307-hell-dive.json) |
 | Hell Dungeons: The Lost Soul | 236362 | [236362-hell-dungeons-the-lost-soul.json](./236362-hell-dungeons-the-lost-soul.json) |
+| Hell Fire: Seed of Calamity | 418727 | [418727-hell-fire-seed-of-calamity.json](./418727-hell-fire-seed-of-calamity.json) |
 | Hell Forged | 141139 | [141139-hell-forged.json](./141139-hell-forged.json) |
 | Hell Froze Over | 342151 | [342151-hell-froze-over.json](./342151-hell-froze-over.json) |
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
