@@ -1315,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femboy Bangers: Pub & Grill | 170495 | [170495-femboy-bangers-pub-and-grill.json](./170495-femboy-bangers-pub-and-grill.json) |
 | Femboy Next Door | 405697 | [405697-femboy-next-door.json](./405697-femboy-next-door.json) |
 | Femboys of the Phalanx | 171068 | [171068-femboys-of-the-phalanx.json](./171068-femboys-of-the-phalanx.json) |
+| Femdom First Timers | 392445 | [392445-femdom-first-timers.json](./392445-femdom-first-timers.json) |
 | Femdom Overtime | 400901 | [400901-femdom-overtime.json](./400901-femdom-overtime.json) |
 | FemDomination 2 | 286504 | [286504-femdomination-2.json](./286504-femdomination-2.json) |
 | Feminize Me! | 185683 | [185683-feminize-me.json](./185683-feminize-me.json) |
@@ -1669,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIM Speedway Grand Prix 2 | 67677 | [67677-fim-speedway-grand-prix-2.json](./67677-fim-speedway-grand-prix-2.json) |
 | FIM Speedway Grand Prix 3 | 67676 | [67676-fim-speedway-grand-prix-3.json](./67676-fim-speedway-grand-prix-3.json) |
 | Fin Fin: On Teo, the Magic Planet | 172775 | [172775-fin-fin-on-teo-the-magic-planet.json](./172775-fin-fin-on-teo-the-magic-planet.json) |
+| Fin-Tastic Battle | 392415 | [392415-fin-tastic-battle.json](./392415-fin-tastic-battle.json) |
 | FIN: The Way Home | 302127 | [302127-fin-the-way-home.json](./302127-fin-the-way-home.json) |
 | Fina | 127981 | [127981-fina.json](./127981-fina.json) |
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
@@ -3059,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flynguin Station | 121006 | [121006-flynguin-station.json](./121006-flynguin-station.json) |
 | Flyon RC | 406173 | [406173-flyon-rc.json](./406173-flyon-rc.json) |
 | Flyto | 244480 | [244480-flyto.json](./244480-flyto.json) |
+| Flytrapped | 392491 | [392491-flytrapped.json](./392491-flytrapped.json) |
 | FlyWings 2018 Flight Simulator: Aerobatic Family | 168883 | [168883-flywings-2018-flight-simulator-aerobatic-family.json](./168883-flywings-2018-flight-simulator-aerobatic-family.json) |
 | FlyWings 2018 Flight Simulator: Air Race Family | 168884 | [168884-flywings-2018-flight-simulator-air-race-family.json](./168884-flywings-2018-flight-simulator-air-race-family.json) |
 | FlyWings 2018 Flight Simulator: Airbus A320 Family | 168882 | [168882-flywings-2018-flight-simulator-airbus-a320-family.json](./168882-flywings-2018-flight-simulator-airbus-a320-family.json) |
@@ -4821,6 +4824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FusionFall Retro | 54747 | [54747-fusionfall-retro.json](./54747-fusionfall-retro.json) |
 | Fusionist | 250945 | [250945-fusionist.json](./250945-fusionist.json) |
 | Fussball Manager 25 | 335346 | [335346-fussball-manager-25.json](./335346-fussball-manager-25.json) |
+| Fussball Manager 26 | 392424 | [392424-fussball-manager-26.json](./392424-fussball-manager-26.json) |
 | Futa Battle TD | 196143 | [196143-futa-battle-td.json](./196143-futa-battle-td.json) |
 | Futa Nights: Bloody Sluts | 362274 | [362274-futa-nights-bloody-sluts.json](./362274-futa-nights-bloody-sluts.json) |
 | Futa Tales | 273490 | [273490-futa-tales.json](./273490-futa-tales.json) |
