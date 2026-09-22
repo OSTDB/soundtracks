@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Academy | 200206 | [200206-battle-academy.json](./200206-battle-academy.json) |
 | Battle Academy | 328037 | [328037-battle-academy.json](./328037-battle-academy.json) |
 | Battle Academy: Operation Market Garden | 167801 | [167801-battle-academy-operation-market-garden.json](./167801-battle-academy-operation-market-garden.json) |
+| Battle Ages | 58634 | [58634-battle-ages.json](./58634-battle-ages.json) |
 | Battle Air Hockey Break Beats! | 338203 | [338203-battle-air-hockey-break-beats.json](./338203-battle-air-hockey-break-beats.json) |
 | Battle Alchemy: Autobattler | 275879 | [275879-battle-alchemy-autobattler.json](./275879-battle-alchemy-autobattler.json) |
 | Battle Alliance | 197788 | [197788-battle-alliance.json](./197788-battle-alliance.json) |
