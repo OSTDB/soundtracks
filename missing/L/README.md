@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League Star | 100870 | [100870-league-star.json](./100870-league-star.json) |
 | Leak Elite | 136385 | [136385-leak-elite.json](./136385-leak-elite.json) |
 | Leaks In Space | 369563 | [369563-leaks-in-space.json](./369563-leaks-in-space.json) |
+| Leanna's Slice of Life | 114236 | [114236-leannas-slice-of-life.json](./114236-leannas-slice-of-life.json) |
 | Leap | 186763 | [186763-leap.json](./186763-leap.json) |
 | Leap 'n Bump! | 303623 | [303623-leap-n-bump.json](./303623-leap-n-bump.json) |
 | Leap A Head | 395710 | [395710-leap-a-head.json](./395710-leap-a-head.json) |
@@ -1624,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Switch Simulator | 317591 | [317591-light-switch-simulator.json](./317591-light-switch-simulator.json) |
 | Light the Backrooms | 232441 | [232441-light-the-backrooms.json](./232441-light-the-backrooms.json) |
 | Light the Candles in Hell | 340920 | [340920-light-the-candles-in-hell.json](./340920-light-the-candles-in-hell.json) |
+| Light the Way | 114238 | [114238-light-the-way.json](./114238-light-the-way.json) |
 | Light the Way | 248286 | [248286-light-the-way.json](./248286-light-the-way.json) |
 | Light the World | 165628 | [165628-light-the-world.json](./165628-light-the-world.json) |
 | Light Them Up | 208443 | [208443-light-them-up.json](./208443-light-them-up.json) |
@@ -3151,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Morolian | 259827 | [259827-lucky-morolian.json](./259827-lucky-morolian.json) |
 | Lucky Night: Poker Games | 131357 | [131357-lucky-night-poker-games.json](./131357-lucky-night-poker-games.json) |
 | Lucky Night: Texas Hold'em VR | 51503 | [51503-lucky-night-texas-holdem-vr.json](./51503-lucky-night-texas-holdem-vr.json) |
+| Lucky of Love | 114090 | [114090-lucky-of-love.json](./114090-lucky-of-love.json) |
 | Lucky One | 273973 | [273973-lucky-one.json](./273973-lucky-one.json) |
 | Lucky Paradox | 239300 | [239300-lucky-paradox.json](./239300-lucky-paradox.json) |
 | Lucky Pikinini: Zombie Rampage | 325870 | [325870-lucky-pikinini-zombie-rampage.json](./325870-lucky-pikinini-zombie-rampage.json) |
