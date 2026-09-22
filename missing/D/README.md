@@ -4309,6 +4309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday | 368044 | [368044-doomsday.json](./368044-doomsday.json) |
 | Doomsday Blues | 13604 | [13604-doomsday-blues.json](./13604-doomsday-blues.json) |
 | Doomsday Cleaner | 320542 | [320542-doomsday-cleaner.json](./320542-doomsday-cleaner.json) |
+| Doomsday Clicker | 58406 | [58406-doomsday-clicker.json](./58406-doomsday-clicker.json) |
 | Doomsday Comet 2 | 175337 | [175337-doomsday-comet-2.json](./175337-doomsday-comet-2.json) |
 | Doomsday Dealer | 347769 | [347769-doomsday-dealer.json](./347769-doomsday-dealer.json) |
 | Doomsday Derby | 249192 | [249192-doomsday-derby.json](./249192-doomsday-derby.json) |
@@ -6264,6 +6265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Day | 415916 | [415916-dynamite-day.json](./415916-dynamite-day.json) |
 | Dynamite Duke | 39651 | [39651-dynamite-duke.json](./39651-dynamite-duke.json) |
 | Dynamite Düx | 12730 | [12730-dynamite-dux.json](./12730-dynamite-dux.json) |
+| Dynamite Fishing: World Games | 59898 | [59898-dynamite-fishing-world-games.json](./59898-dynamite-fishing-world-games.json) |
 | Dynamite Flare | 293616 | [293616-dynamite-flare.json](./293616-dynamite-flare.json) |
 | Dynamite It! | 297087 | [297087-dynamite-it.json](./297087-dynamite-it.json) |
 | Dynamite Soccer 2000 | 61336 | [61336-dynamite-soccer-2000.json](./61336-dynamite-soccer-2000.json) |
