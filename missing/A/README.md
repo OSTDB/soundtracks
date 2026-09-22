@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After-Image | 362285 | [362285-after-image.json](./362285-after-image.json) |
 | Afterblast | 164434 | [164434-afterblast.json](./164434-afterblast.json) |
 | Afterbright | 357794 | [357794-afterbright.json](./357794-afterbright.json) |
+| Afterburn | 112424 | [112424-afterburn.json](./112424-afterburn.json) |
 | Aftercare Sessions | 322175 | [322175-aftercare-sessions.json](./322175-aftercare-sessions.json) |
 | AfterFall: Insanity - Dirty Arena Edition | 50832 | [50832-afterfall-insanity-dirty-arena-edition.json](./50832-afterfall-insanity-dirty-arena-edition.json) |
 | Afterimage | 185642 | [185642-afterimage.json](./185642-afterimage.json) |
