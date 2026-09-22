@@ -2627,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitch-Hit: Baseball | 31347 | [31347-pitch-hit-baseball.json](./31347-pitch-hit-baseball.json) |
 | Pitcher and the Whale | 153355 | [153355-pitcher-and-the-whale.json](./153355-pitcher-and-the-whale.json) |
 | Pitchfork Battles | 244858 | [244858-pitchfork-battles.json](./244858-pitchfork-battles.json) |
+| Pitchside Empire | 414613 | [414613-pitchside-empire.json](./414613-pitchside-empire.json) |
 | Piteur's Odyssey | 184654 | [184654-piteurs-odyssey.json](./184654-piteurs-odyssey.json) |
 | Pitfall II: The Lost Caverns | 6125 | [6125-pitfall-ii-the-lost-caverns.json](./6125-pitfall-ii-the-lost-caverns.json) |
 | Pitfall Planet | 32919 | [32919-pitfall-planet.json](./32919-pitfall-planet.json) |
@@ -3775,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker TD | 390103 | [390103-poker-td.json](./390103-poker-td.json) |
 | Poker Train | 320148 | [320148-poker-train.json](./320148-poker-train.json) |
 | Poker World: Casino Game | 219292 | [219292-poker-world-casino-game.json](./219292-poker-world-casino-game.json) |
+| PokeRank | 414554 | [414554-pokerank.json](./414554-pokerank.json) |
 | PokerMania | 76593 | [76593-pokermania.json](./76593-pokermania.json) |
 | Pokermon | 346016 | [346016-pokermon.json](./346016-pokermon.json) |
 | Pokerrrr 2 | 320179 | [320179-pokerrrr-2.json](./320179-pokerrrr-2.json) |
@@ -4055,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pooyan | 297493 | [297493-pooyan.json](./297493-pooyan.json) |
 | Pop & Chips | 83213 | [83213-pop-and-chips.json](./83213-pop-and-chips.json) |
 | Pop and Chicks | 253364 | [253364-pop-and-chicks.json](./253364-pop-and-chicks.json) |
+| Pop Float a-way | 414579 | [414579-pop-float-a-way.json](./414579-pop-float-a-way.json) |
 | Pop Frenzy! | 108983 | [108983-pop-frenzy.json](./108983-pop-frenzy.json) |
 | Pop Island | 68124 | [68124-pop-island.json](./68124-pop-island.json) |
 | Pop Journey | 220651 | [220651-pop-journey.json](./220651-pop-journey.json) |
@@ -5121,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Glasloc | 253577 | [253577-project-glasloc.json](./253577-project-glasloc.json) |
 | Project Glitch | 81730 | [81730-project-glitch.json](./81730-project-glitch.json) |
 | Project Gold | 141018 | [141018-project-gold.json](./141018-project-gold.json) |
+| Project Gotham Racing 4: Recompiled | 414601 | [414601-project-gotham-racing-4-recompiled.json](./414601-project-gotham-racing-4-recompiled.json) |
 | Project GR-5LYR: Galactic Relocation | 108422 | [108422-project-gr-5lyr-galactic-relocation.json](./108422-project-gr-5lyr-galactic-relocation.json) |
 | Project Gravity | 139385 | [139385-project-gravity.json](./139385-project-gravity.json) |
 | Project Gravity | 341554 | [341554-project-gravity.json](./341554-project-gravity.json) |
