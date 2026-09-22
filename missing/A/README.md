@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AfterTheDawn | 81753 | [81753-afterthedawn.json](./81753-afterthedawn.json) |
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
 | AftLife: Girl and Cats, and Lost World | 284326 | [284326-aftlife-girl-and-cats-and-lost-world.json](./284326-aftlife-girl-and-cats-and-lost-world.json) |
+| AG Drive | 54693 | [54693-ag-drive.json](./54693-ag-drive.json) |
 | Again | 117019 | [117019-again.json](./117019-again.json) |
 | Again | 117713 | [117713-again.json](./117713-again.json) |
 | Again | 177548 | [177548-again.json](./177548-again.json) |
@@ -1038,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
 | Age of Explorers | 396377 | [396377-age-of-explorers.json](./396377-age-of-explorers.json) |
 | Age of Fear 2: The Chaos Lord Gold | 180125 | [180125-age-of-fear-2-the-chaos-lord-gold.json](./180125-age-of-fear-2-the-chaos-lord-gold.json) |
+| Age of Fear 3: The Legend | 51550 | [51550-age-of-fear-3-the-legend.json](./51550-age-of-fear-3-the-legend.json) |
 | Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
 | Age of Fear: Total | 249875 | [249875-age-of-fear-total.json](./249875-age-of-fear-total.json) |
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
@@ -2714,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Hatchery Island | 280801 | [280801-angry-birds-hatchery-island.json](./280801-angry-birds-hatchery-island.json) |
 | Angry Birds Hot Wheels Smashup | 195093 | [195093-angry-birds-hot-wheels-smashup.json](./195093-angry-birds-hot-wheels-smashup.json) |
 | Angry Birds Kingdom | 240247 | [240247-angry-birds-kingdom.json](./240247-angry-birds-kingdom.json) |
+| Angry Birds Match | 56590 | [56590-angry-birds-match.json](./56590-angry-birds-match.json) |
 | Angry Birds Opera | 237496 | [237496-angry-birds-opera.json](./237496-angry-birds-opera.json) |
 | Angry Birds Racing | 226776 | [226776-angry-birds-racing.json](./226776-angry-birds-racing.json) |
 | Angry Birds Refresh | 357348 | [357348-angry-birds-refresh.json](./357348-angry-birds-refresh.json) |
@@ -4054,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkane Rush Multiverse Mayhem | 114163 | [114163-arkane-rush-multiverse-mayhem.json](./114163-arkane-rush-multiverse-mayhem.json) |
 | Arkanoid 2000 | 80599 | [80599-arkanoid-2000.json](./80599-arkanoid-2000.json) |
 | Arkanoid Returns | 13685 | [13685-arkanoid-returns.json](./13685-arkanoid-returns.json) |
+| Arkanoid vs. Space Invaders | 56018 | [56018-arkanoid-vs-space-invaders.json](./56018-arkanoid-vs-space-invaders.json) |
 | Arkanoid: Amiga Alternate Levels | 268492 | [268492-arkanoid-amiga-alternate-levels.json](./268492-arkanoid-amiga-alternate-levels.json) |
 | Arkanoid: Chinese Edition | 268493 | [268493-arkanoid-chinese-edition.json](./268493-arkanoid-chinese-edition.json) |
 | Arkanoid: Eternal Battle | 204506 | [204506-arkanoid-eternal-battle.json](./204506-arkanoid-eternal-battle.json) |
@@ -5186,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aura Kingdom | 8746 | [8746-aura-kingdom.json](./8746-aura-kingdom.json) |
 | Aura Kingdom 2: Evolution | 265752 | [265752-aura-kingdom-2-evolution.json](./265752-aura-kingdom-2-evolution.json) |
 | Aura Kingdom: Impact | 353913 | [353913-aura-kingdom-impact.json](./353913-aura-kingdom-impact.json) |
+| Aura of Worlds | 55866 | [55866-aura-of-worlds.json](./55866-aura-of-worlds.json) |
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
 | Aurail | 39618 | [39618-aurail.json](./39618-aurail.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
