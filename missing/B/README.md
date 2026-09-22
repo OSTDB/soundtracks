@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
 | Battle Mages | 17427 | [17427-battle-mages.json](./17427-battle-mages.json) |
 | Battle Magi | 402899 | [402899-battle-magi.json](./402899-battle-magi.json) |
+| Battle Mania Daiginjou | 45734 | [45734-battle-mania-daiginjou.json](./45734-battle-mania-daiginjou.json) |
 | Battle Masters | 176871 | [176871-battle-masters.json](./176871-battle-masters.json) |
 | Battle Mine Sweeper | 144136 | [144136-battle-mine-sweeper.json](./144136-battle-mine-sweeper.json) |
 | Battle Mons | 413073 | [413073-battle-mons.json](./413073-battle-mons.json) |
@@ -4170,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Live: Battlefest | 67696 | [67696-bomberman-live-battlefest.json](./67696-bomberman-live-battlefest.json) |
 | Bomberman Max: Ain Version | 197961 | [197961-bomberman-max-ain-version.json](./197961-bomberman-max-ain-version.json) |
 | Bomberman Nightmare | 142492 | [142492-bomberman-nightmare.json](./142492-bomberman-nightmare.json) |
+| Bomberman Quest | 49837 | [49837-bomberman-quest.json](./49837-bomberman-quest.json) |
 | Bomberman Selection | 56467 | [56467-bomberman-selection.json](./56467-bomberman-selection.json) |
 | Bomberman Ultra | 44572 | [44572-bomberman-ultra.json](./44572-bomberman-ultra.json) |
 | Bomberman: Bakufuu Sentai Bomberman | 59395 | [59395-bomberman-bakufuu-sentai-bomberman.json](./59395-bomberman-bakufuu-sentai-bomberman.json) |
@@ -4662,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Zombies | 311783 | [311783-box-zombies.json](./311783-box-zombies.json) |
 | BOX: Space Station | 147383 | [147383-box-space-station.json](./147383-box-space-station.json) |
 | Box's Dream | 186741 | [186741-boxs-dream.json](./186741-boxs-dream.json) |
+| BoxBoxBoy! | 19598 | [19598-boxboxboy.json](./19598-boxboxboy.json) |
 | Boxcars | 318425 | [318425-boxcars.json](./318425-boxcars.json) |
 | Boxcorp Employee Training | 179137 | [179137-boxcorp-employee-training.json](./179137-boxcorp-employee-training.json) |
 | Boxed In | 95394 | [95394-boxed-in.json](./95394-boxed-in.json) |
@@ -5775,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger: The Game | 102815 | [102815-burger-the-game.json](./102815-burger-the-game.json) |
 | BurgerTime | 199470 | [199470-burgertime.json](./199470-burgertime.json) |
 | BurgerTime | 246390 | [246390-burgertime.json](./246390-burgertime.json) |
+| BurgerTime Deluxe | 48958 | [48958-burgertime-deluxe.json](./48958-burgertime-deluxe.json) |
 | Burgerwise the Clown | 101618 | [101618-burgerwise-the-clown.json](./101618-burgerwise-the-clown.json) |
 | Burggeist | 302962 | [302962-burggeist.json](./302962-burggeist.json) |
 | Burglar Inc | 290923 | [290923-burglar-inc.json](./290923-burglar-inc.json) |
