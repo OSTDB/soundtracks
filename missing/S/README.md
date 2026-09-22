@@ -2107,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Mortal Sins X-Tasy | 174741 | [174741-seven-mortal-sins-x-tasy.json](./174741-seven-mortal-sins-x-tasy.json) |
 | Seven Mysteries | 80506 | [80506-seven-mysteries.json](./80506-seven-mysteries.json) |
 | Seven Nexus | 381639 | [381639-seven-nexus.json](./381639-seven-nexus.json) |
+| Seven Nights With Hanako | 414574 | [414574-seven-nights-with-hanako.json](./414574-seven-nights-with-hanako.json) |
 | Seven of Heart | 176989 | [176989-seven-of-heart.json](./176989-seven-of-heart.json) |
 | Seven Pirates H | 192281 | [192281-seven-pirates-h.json](./192281-seven-pirates-h.json) |
 | Seven Sins: Academic Version | 112933 | [112933-seven-sins-academic-version.json](./112933-seven-sins-academic-version.json) |
@@ -3641,6 +3642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Tweets | 87987 | [87987-silent-tweets.json](./87987-silent-tweets.json) |
 | Silent Whisper | 337125 | [337125-silent-whisper.json](./337125-silent-whisper.json) |
 | Silent Woods: the Cleansed | 150626 | [150626-silent-woods-the-cleansed.json](./150626-silent-woods-the-cleansed.json) |
+| Silent Wounds - The Doll | 414540 | [414540-silent-wounds-the-doll.json](./414540-silent-wounds-the-doll.json) |
 | Silentium 2D | 106578 | [106578-silentium-2d.json](./106578-silentium-2d.json) |
 | Silfade Gensoutan | 249769 | [249769-silfade-gensoutan.json](./249769-silfade-gensoutan.json) |
 | Silhouette | 31378 | [31378-silhouette.json](./31378-silhouette.json) |
@@ -5780,6 +5782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solomania | 329378 | [329378-solomania.json](./329378-solomania.json) |
 | Solomon Division | 216891 | [216891-solomon-division.json](./216891-solomon-division.json) |
 | Solomon Islander Dominatrixes Are the Best | 385707 | [385707-solomon-islander-dominatrixes-are-the-best.json](./385707-solomon-islander-dominatrixes-are-the-best.json) |
+| Solomon no Kagi: Another Ver | 414621 | [414621-solomon-no-kagi-another-ver.json](./414621-solomon-no-kagi-another-ver.json) |
 | Solomon Program | 128357 | [128357-solomon-program.json](./128357-solomon-program.json) |
 | Solomon's Keep | 132812 | [132812-solomons-keep.json](./132812-solomons-keep.json) |
 | Solos | 197318 | [197318-solos.json](./197318-solos.json) |
@@ -6969,6 +6972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Slingshot VR | 95198 | [95198-space-slingshot-vr.json](./95198-space-slingshot-vr.json) |
 | Space Smack! | 171074 | [171074-space-smack.json](./171074-space-smack.json) |
 | Space Smash | 115618 | [115618-space-smash.json](./115618-space-smash.json) |
+| Space Snatcher | 414560 | [414560-space-snatcher.json](./414560-space-snatcher.json) |
 | Space Soldier | 153349 | [153349-space-soldier.json](./153349-space-soldier.json) |
 | Space Spartans | 5700 | [5700-space-spartans.json](./5700-space-spartans.json) |
 | Space Sprint | 38903 | [38903-space-sprint.json](./38903-space-sprint.json) |
@@ -9719,6 +9723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamer Mini Games Collection | 324508 | [324508-streamer-mini-games-collection.json](./324508-streamer-mini-games-collection.json) |
 | Streamer Party | 384105 | [384105-streamer-party.json](./384105-streamer-party.json) |
 | Streamer Screamer | 375937 | [375937-streamer-screamer.json](./375937-streamer-screamer.json) |
+| Streamer vs. Chat | 414605 | [414605-streamer-vs-chat.json](./414605-streamer-vs-chat.json) |
 | StreamerFun | 413064 | [413064-streamerfun.json](./413064-streamerfun.json) |
 | StreamerVille | 285996 | [285996-streamerville.json](./285996-streamerville.json) |
 | StreamGods: Streamer Tycoon | 169449 | [169449-streamgods-streamer-tycoon.json](./169449-streamgods-streamer-tycoon.json) |
@@ -10150,6 +10155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subtracto | 372536 | [372536-subtracto.json](./372536-subtracto.json) |
 | Suburban Commando | 73811 | [73811-suburban-commando.json](./73811-suburban-commando.json) |
 | Suburban Footy League | 272911 | [272911-suburban-footy-league.json](./272911-suburban-footy-league.json) |
+| Subverse - Celestina Unbound | 414547 | [414547-subverse-celestina-unbound.json](./414547-subverse-celestina-unbound.json) |
 | Subverter | 274013 | [274013-subverter.json](./274013-subverter.json) |
 | Subwar 2050 | 39038 | [39038-subwar-2050.json](./39038-subwar-2050.json) |
 | Subwar 2050 Complete | 51935 | [51935-subwar-2050-complete.json](./51935-subwar-2050-complete.json) |
