@@ -5432,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revanchist | 338722 | [338722-the-revanchist.json](./338722-the-revanchist.json) |
 | The Revelation of Gensokyo | 157121 | [157121-the-revelation-of-gensokyo.json](./157121-the-revelation-of-gensokyo.json) |
 | The Revenant Prince | 129761 | [129761-the-revenant-prince.json](./129761-the-revenant-prince.json) |
+| The Revenge of Shinobi | 10222 | [10222-the-revenge-of-shinobi.json](./10222-the-revenge-of-shinobi.json) |
 | The Revived Throne | 249249 | [249249-the-revived-throne.json](./249249-the-revived-throne.json) |
 | The Revolt: Massing | 193884 | [193884-the-revolt-massing.json](./193884-the-revolt-massing.json) |
 | The Reward of Cherishment and Eternity. | 329199 | [329199-the-reward-of-cherishment-and-eternity.json](./329199-the-reward-of-cherishment-and-eternity.json) |
@@ -6863,6 +6864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Weapon Pack 2 | 206804 | [206804-thehunter-call-of-the-wild-weapon-pack-2.json](./206804-thehunter-call-of-the-wild-weapon-pack-2.json) |
 | TheHunter: Call of the Wild - Weapon Pack 3 | 206800 | [206800-thehunter-call-of-the-wild-weapon-pack-3.json](./206800-thehunter-call-of-the-wild-weapon-pack-3.json) |
 | TheHunter: Call of the Wild - Wild Goose Chase Gear | 206816 | [206816-thehunter-call-of-the-wild-wild-goose-chase-gear.json](./206816-thehunter-call-of-the-wild-wild-goose-chase-gear.json) |
+| TheHunter: Primal | 10347 | [10347-thehunter-primal.json](./10347-thehunter-primal.json) |
 | Their Majesties' Pleasure | 250993 | [250993-their-majesties-pleasure.json](./250993-their-majesties-pleasure.json) |
 | TheLast.io | 125984 | [125984-thelast-io.json](./125984-thelast-io.json) |
 | TheLooppy | 83487 | [83487-thelooppy.json](./83487-thelooppy.json) |
@@ -10893,6 +10895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Truck | 157197 | [157197-truck-truck.json](./157197-truck-truck.json) |
 | Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
 | Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
+| Trucks & Trailers | 10290 | [10290-trucks-and-trailers.json](./10290-trucks-and-trailers.json) |
 | Trucks and Things That Go Puzzle Game | 109022 | [109022-trucks-and-things-that-go-puzzle-game.json](./109022-trucks-and-things-that-go-puzzle-game.json) |
 | Trucksform3d Offroad 3D Shooting Bigfoot Endless Racing Truck | 102825 | [102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json](./102825-trucksform3d-offroad-3d-shooting-bigfoot-endless-racing-truck.json) |
 | Truco | 193408 | [193408-truco.json](./193408-truco.json) |
