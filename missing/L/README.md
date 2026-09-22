@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Caverns | 57080 | [57080-lazy-caverns.json](./57080-lazy-caverns.json) |
 | Lazy Caverns 2 | 57079 | [57079-lazy-caverns-2.json](./57079-lazy-caverns-2.json) |
 | Lazy Caverns Attack!! | 57078 | [57078-lazy-caverns-attack.json](./57078-lazy-caverns-attack.json) |
+| Lazy Climbers | 400464 | [400464-lazy-climbers.json](./400464-lazy-climbers.json) |
 | Lazy Galaxy: Rebel Story | 102624 | [102624-lazy-galaxy-rebel-story.json](./102624-lazy-galaxy-rebel-story.json) |
 | Lazy Kickers | 407559 | [407559-lazy-kickers.json](./407559-lazy-kickers.json) |
 | Lazy Paper | 415884 | [415884-lazy-paper.json](./415884-lazy-paper.json) |
@@ -1496,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libra of the Vampire Princess: Lycoris & Aoi in The Promise Plus Iris in Homeworld | 90627 | [90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json](./90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json) |
 | Librarian: Tidy Up the Arcane Library! | 393398 | [393398-librarian-tidy-up-the-arcane-library.json](./393398-librarian-tidy-up-the-arcane-library.json) |
 | Librarium | 235495 | [235495-librarium.json](./235495-librarium.json) |
+| Library Escape | 400487 | [400487-library-escape.json](./400487-library-escape.json) |
 | Library Game | 337640 | [337640-library-game.json](./337640-library-game.json) |
 | Library of Ruina | 131760 | [131760-library-of-ruina.json](./131760-library-of-ruina.json) |
 | Library of Souls | 183568 | [183568-library-of-souls.json](./183568-library-of-souls.json) |
