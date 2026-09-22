@@ -1173,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Super Bowl II: Special Edition | 46598 | [46598-tecmo-super-bowl-ii-special-edition.json](./46598-tecmo-super-bowl-ii-special-edition.json) |
 | Tecmo Super Bowl NCAA 2017 | 48894 | [48894-tecmo-super-bowl-ncaa-2017.json](./48894-tecmo-super-bowl-ncaa-2017.json) |
 | Tecmo Super Hockey | 46597 | [46597-tecmo-super-hockey.json](./46597-tecmo-super-hockey.json) |
+| Tecmo Super NBA Basketball | 46596 | [46596-tecmo-super-nba-basketball.json](./46596-tecmo-super-nba-basketball.json) |
 | Tecmo World Wrestling | 48083 | [48083-tecmo-world-wrestling.json](./48083-tecmo-world-wrestling.json) |
 | Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
 | Tecnology War | 248747 | [248747-tecnology-war.json](./248747-tecnology-war.json) |
@@ -1181,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teddy and Bo: Search for the Dream Catcher | 98249 | [98249-teddy-and-bo-search-for-the-dream-catcher.json](./98249-teddy-and-bo-search-for-the-dream-catcher.json) |
 | Teddy Bear Wars | 131605 | [131605-teddy-bear-wars.json](./131605-teddy-bear-wars.json) |
 | Teddy Bear Zombies | 120334 | [120334-teddy-bear-zombies.json](./120334-teddy-bear-zombies.json) |
+| Teddy Boy | 46100 | [46100-teddy-boy.json](./46100-teddy-boy.json) |
 | Teddy Factory | 206353 | [206353-teddy-factory.json](./206353-teddy-factory.json) |
 | Teddy Floppy Ear | 64894 | [64894-teddy-floppy-ear.json](./64894-teddy-floppy-ear.json) |
 | Teddy Floppy Ear: Kayaking | 36003 | [36003-teddy-floppy-ear-kayaking.json](./36003-teddy-floppy-ear-kayaking.json) |
@@ -1286,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken Tag Tournament 2 | 1238 | [1238-tekken-tag-tournament-2.json](./1238-tekken-tag-tournament-2.json) |
 | Tekken Tag Tournament 2: Prologue | 143749 | [143749-tekken-tag-tournament-2-prologue.json](./143749-tekken-tag-tournament-2-prologue.json) |
 | Tekken Tag Tournament 2: We Are Tekken Edition | 89871 | [89871-tekken-tag-tournament-2-we-are-tekken-edition.json](./89871-tekken-tag-tournament-2-we-are-tekken-edition.json) |
+| Tekken Tag Tournament 2: Wii U Edition | 21693 | [21693-tekken-tag-tournament-2-wii-u-edition.json](./21693-tekken-tag-tournament-2-wii-u-edition.json) |
 | Tekken Tag Tournament HD | 143748 | [143748-tekken-tag-tournament-hd.json](./143748-tekken-tag-tournament-hd.json) |
 | Tekken: Dark Resurrection | 389439 | [389439-tekken-dark-resurrection.json](./389439-tekken-dark-resurrection.json) |
 | Tekkyuuman | 73245 | [73245-tekkyuuman.json](./73245-tekkyuuman.json) |
@@ -4012,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters 2001 | 15432 | [15432-the-king-of-fighters-2001.json](./15432-the-king-of-fighters-2001.json) |
 | The King of Fighters 2002: Unlimited Match | 22952 | [22952-the-king-of-fighters-2002-unlimited-match.json](./22952-the-king-of-fighters-2002-unlimited-match.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
+| The King of Fighters EX: Neo Blood | 49170 | [49170-the-king-of-fighters-ex-neo-blood.json](./49170-the-king-of-fighters-ex-neo-blood.json) |
 | The King of Fighters EX2: Howling Blood | 49169 | [49169-the-king-of-fighters-ex2-howling-blood.json](./49169-the-king-of-fighters-ex2-howling-blood.json) |
 | The King of Fighters Extreme | 47572 | [47572-the-king-of-fighters-extreme.json](./47572-the-king-of-fighters-extreme.json) |
 | The King of Fighters Online | 76968 | [76968-the-king-of-fighters-online.json](./76968-the-king-of-fighters-online.json) |
@@ -4628,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Candle III | 70948 | [70948-the-magic-candle-iii.json](./70948-the-magic-candle-iii.json) |
 | The Magic Garden | 320545 | [320545-the-magic-garden.json](./320545-the-magic-garden.json) |
 | The Magic Land | 182450 | [182450-the-magic-land.json](./182450-the-magic-land.json) |
+| The Magic of Scheherazade | 48078 | [48078-the-magic-of-scheherazade.json](./48078-the-magic-of-scheherazade.json) |
 | The Magic Roundabout | 268201 | [268201-the-magic-roundabout.json](./268201-the-magic-roundabout.json) |
 | The Magic School Bus Explores the Ocean | 138253 | [138253-the-magic-school-bus-explores-the-ocean.json](./138253-the-magic-school-bus-explores-the-ocean.json) |
 | The Magic School Bus Explores the Solar System | 67659 | [67659-the-magic-school-bus-explores-the-solar-system.json](./67659-the-magic-school-bus-explores-the-solar-system.json) |
