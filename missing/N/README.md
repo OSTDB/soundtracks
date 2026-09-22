@@ -233,11 +233,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Arena Next Generation | 188074 | [188074-naruto-arena-next-generation.json](./188074-naruto-arena-next-generation.json) |
 | Naruto Mobile | 79255 | [79255-naruto-mobile.json](./79255-naruto-mobile.json) |
 | Naruto Shinobi Breakdown | 243415 | [243415-naruto-shinobi-breakdown.json](./243415-naruto-shinobi-breakdown.json) |
+| Naruto Shippuden: Clash of Ninja Revolution 3 | 19656 | [19656-naruto-shippuden-clash-of-ninja-revolution-3.json](./19656-naruto-shippuden-clash-of-ninja-revolution-3.json) |
 | Naruto Shippuden: Dairansen! Kage Bunshin Emaki | 61026 | [61026-naruto-shippuden-dairansen-kage-bunshin-emaki.json](./61026-naruto-shippuden-dairansen-kage-bunshin-emaki.json) |
 | Naruto Shippuden: Gekitou Ninja Taisen! EX | 75838 | [75838-naruto-shippuden-gekitou-ninja-taisen-ex.json](./75838-naruto-shippuden-gekitou-ninja-taisen-ex.json) |
 | Naruto Shippuden: Gekitou Ninja Taisen! EX 2 | 75839 | [75839-naruto-shippuden-gekitou-ninja-taisen-ex-2.json](./75839-naruto-shippuden-gekitou-ninja-taisen-ex-2.json) |
 | Naruto Shippuden: Gekitou Ninja Taisen! EX 3 | 75840 | [75840-naruto-shippuden-gekitou-ninja-taisen-ex-3.json](./75840-naruto-shippuden-gekitou-ninja-taisen-ex-3.json) |
 | Naruto Shippuden: Gekitou Ninja Taisen! Special | 75841 | [75841-naruto-shippuden-gekitou-ninja-taisen-special.json](./75841-naruto-shippuden-gekitou-ninja-taisen-special.json) |
+| Naruto Shippuden: Legends - Akatsuki Rising | 19658 | [19658-naruto-shippuden-legends-akatsuki-rising.json](./19658-naruto-shippuden-legends-akatsuki-rising.json) |
 | Naruto Shippuden: Ninja Destiny 2 | 47935 | [47935-naruto-shippuden-ninja-destiny-2.json](./47935-naruto-shippuden-ninja-destiny-2.json) |
 | Naruto Shippuden: Ultimate Ninja 5 | 25112 | [25112-naruto-shippuden-ultimate-ninja-5.json](./25112-naruto-shippuden-ultimate-ninja-5.json) |
 | Naruto Shippuden: Ultimate Ninja Blazing | 79298 | [79298-naruto-shippuden-ultimate-ninja-blazing.json](./79298-naruto-shippuden-ultimate-ninja-blazing.json) |
@@ -1089,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights 2: Mask of the Betrayer | 1840 | [1840-neverwinter-nights-2-mask-of-the-betrayer.json](./1840-neverwinter-nights-2-mask-of-the-betrayer.json) |
 | Neverwinter Nights 2: Platinum | 28972 | [28972-neverwinter-nights-2-platinum.json](./28972-neverwinter-nights-2-platinum.json) |
 | Neverwinter Nights: Dark Dreams of Furiae | 155077 | [155077-neverwinter-nights-dark-dreams-of-furiae.json](./155077-neverwinter-nights-dark-dreams-of-furiae.json) |
+| Neverwinter Nights: Diamond | 50323 | [50323-neverwinter-nights-diamond.json](./50323-neverwinter-nights-diamond.json) |
 | Neverwinter Nights: Gold Edition | 210036 | [210036-neverwinter-nights-gold-edition.json](./210036-neverwinter-nights-gold-edition.json) |
 | Neverwinter: Undermountain | 115474 | [115474-neverwinter-undermountain.json](./115474-neverwinter-undermountain.json) |
 | Nevrosa: Escape | 68172 | [68172-nevrosa-escape.json](./68172-nevrosa-escape.json) |
@@ -1767,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Hunter | 64635 | [64635-ninja-hunter.json](./64635-ninja-hunter.json) |
 | Ninja in Training | 74337 | [74337-ninja-in-training.json](./74337-ninja-in-training.json) |
 | Ninja Instinct | 25765 | [25765-ninja-instinct.json](./25765-ninja-instinct.json) |
+| Ninja JaJaMaru-kun | 48455 | [48455-ninja-jajamaru-kun.json](./48455-ninja-jajamaru-kun.json) |
 | Ninja JaJaMaru-kun: Onigiri Ninpou-chou | 74780 | [74780-ninja-jajamaru-kun-onigiri-ninpou-chou.json](./74780-ninja-jajamaru-kun-onigiri-ninpou-chou.json) |
 | Ninja JaJaMaru-kun: Sakura-hime to Karyu no Himitsu | 62207 | [62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json](./62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json) |
 | Ninja JaJaMaru: The Lost RPGs | 234622 | [234622-ninja-jajamaru-the-lost-rpgs.json](./234622-ninja-jajamaru-the-lost-rpgs.json) |
@@ -1889,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendogs + Cats: Golden Retriever & New Friends | 21935 | [21935-nintendogs-cats-golden-retriever-and-new-friends.json](./21935-nintendogs-cats-golden-retriever-and-new-friends.json) |
 | Nintendogs + Cats: Shiba Inu & New Friends | 222328 | [222328-nintendogs-cats-shiba-inu-and-new-friends.json](./222328-nintendogs-cats-shiba-inu-and-new-friends.json) |
 | Nintendogs: Best Friends | 47727 | [47727-nintendogs-best-friends.json](./47727-nintendogs-best-friends.json) |
+| Nintendogs: Chihuahua & Friends | 47707 | [47707-nintendogs-chihuahua-and-friends.json](./47707-nintendogs-chihuahua-and-friends.json) |
 | Nintendogs: Labrador & Friends | 47944 | [47944-nintendogs-labrador-and-friends.json](./47944-nintendogs-labrador-and-friends.json) |
 | Nioh 2 | 103330 | [103330-nioh-2.json](./103330-nioh-2.json) |
 | Nioh 3: Bloody Insurrection | 411562 | [411562-nioh-3-bloody-insurrection.json](./411562-nioh-3-bloody-insurrection.json) |
