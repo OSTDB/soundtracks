@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
 | Racing Legends | 174214 | [174214-racing-legends.json](./174214-racing-legends.json) |
 | Racing Legends: Speed Evolution | 91131 | [91131-racing-legends-speed-evolution.json](./91131-racing-legends-speed-evolution.json) |
+| Racing Life | 396598 | [396598-racing-life.json](./396598-racing-life.json) |
 | Racing Madness | 68972 | [68972-racing-madness.json](./68972-racing-madness.json) |
 | Racing Manager 2014 | 9419 | [9419-racing-manager-2014.json](./9419-racing-manager-2014.json) |
 | Racing Penguin: Slide and Fly! | 86973 | [86973-racing-penguin-slide-and-fly.json](./86973-racing-penguin-slide-and-fly.json) |
@@ -423,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain and Red Roses | 184057 | [184057-rain-and-red-roses.json](./184057-rain-and-red-roses.json) |
 | Rain Blood Chronicles: Mirage | 16548 | [16548-rain-blood-chronicles-mirage.json](./16548-rain-blood-chronicles-mirage.json) |
 | Rain Check | 319007 | [319007-rain-check.json](./319007-rain-check.json) |
+| Rain Debt | 396557 | [396557-rain-debt.json](./396557-rain-debt.json) |
 | Rain Games Steampunk Bundle | 154964 | [154964-rain-games-steampunk-bundle.json](./154964-rain-games-steampunk-bundle.json) |
 | Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
 | Rain Invasion | 129024 | [129024-rain-invasion.json](./129024-rain-invasion.json) |
@@ -1208,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reborn in Wild City | 111073 | [111073-reborn-in-wild-city.json](./111073-reborn-in-wild-city.json) |
 | Reborn Online | 135807 | [135807-reborn-online.json](./135807-reborn-online.json) |
 | Reborn: Examine Again | 357812 | [357812-reborn-examine-again.json](./357812-reborn-examine-again.json) |
+| Reborn: New Life | 396590 | [396590-reborn-new-life.json](./396590-reborn-new-life.json) |
 | ReBounce | 66368 | [66368-rebounce.json](./66368-rebounce.json) |
 | Rebound Ball | 127222 | [127222-rebound-ball.json](./127222-rebound-ball.json) |
 | Rebound Balls | 240210 | [240210-rebound-balls.json](./240210-rebound-balls.json) |
@@ -1386,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
 | Red Matter 2 | 198227 | [198227-red-matter-2.json](./198227-red-matter-2.json) |
 | Red Max | 49561 | [49561-red-max.json](./49561-red-max.json) |
+| Red Meat Radiator | 396575 | [396575-red-meat-radiator.json](./396575-red-meat-radiator.json) |
 | Red Mercenary | 129127 | [129127-red-mercenary.json](./129127-red-mercenary.json) |
 | Red Mist | 131993 | [131993-red-mist.json](./131993-red-mist.json) |
 | Red Moon | 382317 | [382317-red-moon.json](./382317-red-moon.json) |
@@ -1938,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reset | 195635 | [195635-reset.json](./195635-reset.json) |
 | Reset | 23906 | [23906-reset.json](./23906-reset.json) |
 | Reset | 305373 | [305373-reset.json](./305373-reset.json) |
+| Reset Day | 396552 | [396552-reset-day.json](./396552-reset-day.json) |
 | Reshape | 255729 | [255729-reshape.json](./255729-reshape.json) |
 | Reshape | 293634 | [293634-reshape.json](./293634-reshape.json) |
 | Reshine | 399078 | [399078-reshine.json](./399078-reshine.json) |
