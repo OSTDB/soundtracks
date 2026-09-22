@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter 5 R.E.V.O. World Stage | 358822 | [358822-virtua-fighter-5-r-e-v-o-world-stage.json](./358822-virtua-fighter-5-r-e-v-o-world-stage.json) |
 | Virtua Fighter CG Portrait Series Vol. 8: Lion Rafale | 97818 | [97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json](./97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json) |
 | Virtua Fighter: Fever Combo | 61862 | [61862-virtua-fighter-fever-combo.json](./61862-virtua-fighter-fever-combo.json) |
+| Virtua Quest | 1554 | [1554-virtua-quest.json](./1554-virtua-quest.json) |
 | Virtua Racing Demake | 181251 | [181251-virtua-racing-demake.json](./181251-virtua-racing-demake.json) |
 | Virtua Striker | 313318 | [313318-virtua-striker.json](./313318-virtua-striker.json) |
 | Virtua Striker 2 | 39472 | [39472-virtua-striker-2.json](./39472-virtua-striker-2.json) |
