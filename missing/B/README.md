@@ -739,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baptisterio | 326615 | [326615-baptisterio.json](./326615-baptisterio.json) |
 | Baptize Billy | 96691 | [96691-baptize-billy.json](./96691-baptize-billy.json) |
 | Bar | 295367 | [295367-bar.json](./295367-bar.json) |
+| Bar After Bar | 399208 | [399208-bar-after-bar.json](./399208-bar-after-bar.json) |
 | Bar Darts Simulator | 407556 | [407556-bar-darts-simulator.json](./407556-bar-darts-simulator.json) |
 | Bar Keeper | 411559 | [411559-bar-keeper.json](./411559-bar-keeper.json) |
 | Bar Oasis | 63803 | [63803-bar-oasis.json](./63803-bar-oasis.json) |
@@ -904,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bard's Gold: Complete Edition | 214520 | [214520-bards-gold-complete-edition.json](./214520-bards-gold-complete-edition.json) |
 | Barda | 345592 | [345592-barda.json](./345592-barda.json) |
 | Bardarts | 141222 | [141222-bardarts.json](./141222-bardarts.json) |
+| Bardella and the Curse of Silence | 399167 | [399167-bardella-and-the-curse-of-silence.json](./399167-bardella-and-the-curse-of-silence.json) |
 | Bardic: Quest for Love | 270100 | [270100-bardic-quest-for-love.json](./270100-bardic-quest-for-love.json) |
 | Bardo | 109727 | [109727-bardo.json](./109727-bardo.json) |
 | Bare Butt Boxing | 197269 | [197269-bare-butt-boxing.json](./197269-bare-butt-boxing.json) |
@@ -2417,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Memoria | 386302 | [386302-beyond-memoria.json](./386302-beyond-memoria.json) |
 | Beyond Perception | 108845 | [108845-beyond-perception.json](./108845-beyond-perception.json) |
 | Beyond Protocol | 72646 | [72646-beyond-protocol.json](./72646-beyond-protocol.json) |
+| Beyond Sandbox | 399220 | [399220-beyond-sandbox.json](./399220-beyond-sandbox.json) |
 | Beyond Senses | 124169 | [124169-beyond-senses.json](./124169-beyond-senses.json) |
 | Beyond Silence | 363964 | [363964-beyond-silence.json](./363964-beyond-silence.json) |
 | Beyond Solar | 172135 | [172135-beyond-solar.json](./172135-beyond-solar.json) |
@@ -4847,6 +4850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box of Limes | 182996 | [182996-box-of-limes.json](./182996-box-of-limes.json) |
 | Box Office Boss | 239303 | [239303-box-office-boss.json](./239303-box-office-boss.json) |
 | Box Office Game | 319225 | [319225-box-office-game.json](./319225-box-office-game.json) |
+| Box Office Mayhem: Theatre Tycoon | 399184 | [399184-box-office-mayhem-theatre-tycoon.json](./399184-box-office-mayhem-theatre-tycoon.json) |
 | Box Out! | 35622 | [35622-box-out.json](./35622-box-out.json) |
 | Box Roulette Simulator | 234629 | [234629-box-roulette-simulator.json](./234629-box-roulette-simulator.json) |
 | Box Runner! | 209671 | [209671-box-runner.json](./209671-box-runner.json) |
@@ -5085,6 +5089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravo Music: Christmas Edition | 86009 | [86009-bravo-music-christmas-edition.json](./86009-bravo-music-christmas-edition.json) |
 | Bravo Romeo Delta | 14344 | [14344-bravo-romeo-delta.json](./14344-bravo-romeo-delta.json) |
 | Bravo Team | 37143 | [37143-bravo-team.json](./37143-bravo-team.json) |
+| Bravo, Gaspar! | 399163 | [399163-bravo-gaspar.json](./399163-bravo-gaspar.json) |
 | Bravoman: Binja Bash! | 63290 | [63290-bravoman-binja-bash.json](./63290-bravoman-binja-bash.json) |
 | Brawl Arena Shooter | 414385 | [414385-brawl-arena-shooter.json](./414385-brawl-arena-shooter.json) |
 | Brawl Boys | 234354 | [234354-brawl-boys.json](./234354-brawl-boys.json) |
@@ -5722,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Cleaners | 336030 | [336030-bug-cleaners.json](./336030-bug-cleaners.json) |
 | Bug Dates | 206974 | [206974-bug-dates.json](./206974-bug-dates.json) |
 | Bug Dolls: Soviet Project | 203900 | [203900-bug-dolls-soviet-project.json](./203900-bug-dolls-soviet-project.json) |
+| Bug Drop | 399215 | [399215-bug-drop.json](./399215-bug-drop.json) |
 | Bug Drop! | 200055 | [200055-bug-drop.json](./200055-bug-drop.json) |
 | Bug Error 404: Anime Boys Not Found | 416065 | [416065-bug-error-404-anime-boys-not-found.json](./416065-bug-error-404-anime-boys-not-found.json) |
 | Bug Heroes | 92316 | [92316-bug-heroes.json](./92316-bug-heroes.json) |
