@@ -3878,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Bunny: The Game | 144358 | [144358-bloody-bunny-the-game.json](./144358-bloody-bunny-the-game.json) |
 | Bloody Chronicles Act 1: New Cycle of Death | 98789 | [98789-bloody-chronicles-act-1-new-cycle-of-death.json](./98789-bloody-chronicles-act-1-new-cycle-of-death.json) |
 | Bloody Cleanup | 326785 | [326785-bloody-cleanup.json](./326785-bloody-cleanup.json) |
+| Bloody Cleanup Togheter | 405692 | [405692-bloody-cleanup-togheter.json](./405692-bloody-cleanup-togheter.json) |
 | Bloody Doctor | 249866 | [249866-bloody-doctor.json](./249866-bloody-doctor.json) |
 | Bloody Downsizing | 224665 | [224665-bloody-downsizing.json](./224665-bloody-downsizing.json) |
 | Bloody Faerie | 89948 | [89948-bloody-faerie.json](./89948-bloody-faerie.json) |
