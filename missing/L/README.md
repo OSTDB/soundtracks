@@ -1782,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily of the Hollow | 115038 | [115038-lily-of-the-hollow.json](./115038-lily-of-the-hollow.json) |
 | Lily of the Hollow: Resurrection | 147829 | [147829-lily-of-the-hollow-resurrection.json](./147829-lily-of-the-hollow-resurrection.json) |
 | Lily Story | 338543 | [338543-lily-story.json](./338543-lily-story.json) |
+| Lily: Shiroki Yuri no Otome-tachi | 403156 | [403156-lily-shiroki-yuri-no-otome-tachi.json](./403156-lily-shiroki-yuri-no-otome-tachi.json) |
 | Lily: Shiroki Yuri no Otome-tachi S | 222504 | [222504-lily-shiroki-yuri-no-otome-tachi-s.json](./222504-lily-shiroki-yuri-no-otome-tachi-s.json) |
 | Lily's Epic Quest | 31956 | [31956-lilys-epic-quest.json](./31956-lilys-epic-quest.json) |
 | Lily's Garden | 129160 | [129160-lilys-garden.json](./129160-lilys-garden.json) |
@@ -2147,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Screamies | 319583 | [319583-little-screamies.json](./319583-little-screamies.json) |
 | Little Shadow | 381602 | [381602-little-shadow.json](./381602-little-shadow.json) |
 | Little Shaker: Summer Adventures | 237623 | [237623-little-shaker-summer-adventures.json](./237623-little-shaker-summer-adventures.json) |
+| Little Sheep Valley | 403179 | [403179-little-sheep-valley.json](./403179-little-sheep-valley.json) |
 | Little Shop - World Traveler | 53277 | [53277-little-shop-world-traveler.json](./53277-little-shop-world-traveler.json) |
 | Little Shop of Junk | 128995 | [128995-little-shop-of-junk.json](./128995-little-shop-of-junk.json) |
 | Little Shopping | 116126 | [116126-little-shopping.json](./116126-little-shopping.json) |
@@ -2941,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus Simulator: München Tram | 167755 | [167755-lotus-simulator-munchen-tram.json](./167755-lotus-simulator-munchen-tram.json) |
 | Lotus Turbo Challenge 2 | 7659 | [7659-lotus-turbo-challenge-2.json](./7659-lotus-turbo-challenge-2.json) |
 | Lotus: Lost Memories | 346655 | [346655-lotus-lost-memories.json](./346655-lotus-lost-memories.json) |
+| LotusMeditation | 403193 | [403193-lotusmeditation.json](./403193-lotusmeditation.json) |
 | Lou's Lagoon | 214706 | [214706-lous-lagoon.json](./214706-lous-lagoon.json) |
 | Loud or Quiet | 74341 | [74341-loud-or-quiet.json](./74341-loud-or-quiet.json) |
 | Louder Than Words: The Story of a Field Trip | 195647 | [195647-louder-than-words-the-story-of-a-field-trip.json](./195647-louder-than-words-the-story-of-a-field-trip.json) |
@@ -3098,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovelove Boin: High-handed Girl's Boobs | 97374 | [97374-lovelove-boin-high-handed-girls-boobs.json](./97374-lovelove-boin-high-handed-girls-boobs.json) |
 | Lovely Anime Puzzle: Spring | 398328 | [398328-lovely-anime-puzzle-spring.json](./398328-lovely-anime-puzzle-spring.json) |
 | Lovely Anime Puzzle: Valentine | 329163 | [329163-lovely-anime-puzzle-valentine.json](./329163-lovely-anime-puzzle-valentine.json) |
+| Lovely Anime Puzzle: Winter | 403191 | [403191-lovely-anime-puzzle-winter.json](./403191-lovely-anime-puzzle-winter.json) |
 | Lovely Anna | 382310 | [382310-lovely-anna.json](./382310-lovely-anna.json) |
 | Lovely Bunny Girl! | 97934 | [97934-lovely-bunny-girl.json](./97934-lovely-bunny-girl.json) |
 | Lovely Cat: Dream Party | 247520 | [247520-lovely-cat-dream-party.json](./247520-lovely-cat-dream-party.json) |
