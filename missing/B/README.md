@@ -1785,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast King | 113488 | [113488-beast-king.json](./113488-beast-king.json) |
 | Beast League | 251206 | [251206-beast-league.json](./251206-beast-league.json) |
 | Beast Lord: The New Land | 297500 | [297500-beast-lord-the-new-land.json](./297500-beast-lord-the-new-land.json) |
+| Beast Market | 416107 | [416107-beast-market.json](./416107-beast-market.json) |
 | Beast Master and Prince: Snow Bride | 136452 | [136452-beast-master-and-prince-snow-bride.json](./136452-beast-master-and-prince-snow-bride.json) |
 | Beast Mode: Night of the Werewolf | 43541 | [43541-beast-mode-night-of-the-werewolf.json](./43541-beast-mode-night-of-the-werewolf.json) |
 | Beast Mode: Night of the Werewolf Silver Bullet Edition | 273113 | [273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json](./273113-beast-mode-night-of-the-werewolf-silver-bullet-edition.json) |
@@ -5226,6 +5227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Rigs | 30650 | [30650-brick-rigs.json](./30650-brick-rigs.json) |
 | Brick Shot 2 | 68339 | [68339-brick-shot-2.json](./68339-brick-shot-2.json) |
 | Brick Thru | 89932 | [89932-brick-thru.json](./89932-brick-thru.json) |
+| Brick: One Block at a Time | 416120 | [416120-brick-one-block-at-a-time.json](./416120-brick-one-block-at-a-time.json) |
 | Brick[BrickSmash]Smash | 128596 | [128596-brick-bricksmash-smash.json](./128596-brick-bricksmash-smash.json) |
 | Brickade | 371899 | [371899-brickade.json](./371899-brickade.json) |
 | BrickBounce | 273381 | [273381-brickbounce.json](./273381-brickbounce.json) |
@@ -5657,6 +5659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Dates | 206974 | [206974-bug-dates.json](./206974-bug-dates.json) |
 | Bug Dolls: Soviet Project | 203900 | [203900-bug-dolls-soviet-project.json](./203900-bug-dolls-soviet-project.json) |
 | Bug Drop! | 200055 | [200055-bug-drop.json](./200055-bug-drop.json) |
+| Bug Error 404: Anime Boys Not Found | 416065 | [416065-bug-error-404-anime-boys-not-found.json](./416065-bug-error-404-anime-boys-not-found.json) |
 | Bug Heroes | 92316 | [92316-bug-heroes.json](./92316-bug-heroes.json) |
 | Bug Hunter | 317575 | [317575-bug-hunter.json](./317575-bug-hunter.json) |
 | Bug Invaders | 82398 | [82398-bug-invaders.json](./82398-bug-invaders.json) |
