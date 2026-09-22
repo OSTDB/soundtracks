@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Over It With Kang KiYun | 120382 | [120382-jumping-over-it-with-kang-kiyun.json](./120382-jumping-over-it-with-kang-kiyun.json) |
 | Jumping Platform Minigame | 158683 | [158683-jumping-platform-minigame.json](./158683-jumping-platform-minigame.json) |
 | Jumping Whopper | 238203 | [238203-jumping-whopper.json](./238203-jumping-whopper.json) |
+| Jumping With Friends | 411120 | [411120-jumping-with-friends.json](./411120-jumping-with-friends.json) |
 | Jumping! | 209655 | [209655-jumping.json](./209655-jumping.json) |
 | JumpJumpJump! | 335086 | [335086-jumpjumpjump.json](./335086-jumpjumpjump.json) |
 | Jumplats | 295889 | [295889-jumplats.json](./295889-jumplats.json) |
