@@ -65,6 +65,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G1 Jockey 2000 | 55171 | [55171-g1-jockey-2000.json](./55171-g1-jockey-2000.json) |
 | G1 Jockey 4 2008 | 93614 | [93614-g1-jockey-4-2008.json](./93614-g1-jockey-4-2008.json) |
 | G1 Jockey Sense | 44155 | [44155-g1-jockey-sense.json](./44155-g1-jockey-sense.json) |
+| G1 Jockey Wii | 21440 | [21440-g1-jockey-wii.json](./21440-g1-jockey-wii.json) |
+| G1 Jockey Wii 2008 | 21455 | [21455-g1-jockey-wii-2008.json](./21455-g1-jockey-wii-2008.json) |
 | G2 Fighter | 110443 | [110443-g2-fighter.json](./110443-g2-fighter.json) |
 | G30 | 101501 | [101501-g30.json](./101501-g30.json) |
 | Gabbuchi | 114429 | [114429-gabbuchi.json](./114429-gabbuchi.json) |
