@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Mike | 101344 | [101344-adventures-of-mike.json](./101344-adventures-of-mike.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
 | Adventures of Samuel: The Worst Game Ever Made | 196160 | [196160-adventures-of-samuel-the-worst-game-ever-made.json](./196160-adventures-of-samuel-the-worst-game-ever-made.json) |
+| Adventures of Tara | 393119 | [393119-adventures-of-tara.json](./393119-adventures-of-tara.json) |
 | Adventures of the Cat Leopold | 53166 | [53166-adventures-of-the-cat-leopold.json](./53166-adventures-of-the-cat-leopold.json) |
 | Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
 | Adventures of the Stalk of Celery | 404416 | [404416-adventures-of-the-stalk-of-celery.json](./404416-adventures-of-the-stalk-of-celery.json) |
@@ -1714,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice is Dead: Episode 2 | 140362 | [140362-alice-is-dead-episode-2.json](./140362-alice-is-dead-episode-2.json) |
 | Alice is Dead: Episode 3 | 140363 | [140363-alice-is-dead-episode-3.json](./140363-alice-is-dead-episode-3.json) |
 | Alice Landing | 390651 | [390651-alice-landing.json](./390651-alice-landing.json) |
+| Alice Lorange Adventures Season 2 | 393111 | [393111-alice-lorange-adventures-season-2.json](./393111-alice-lorange-adventures-season-2.json) |
 | Alice Mesmerizing Episodes of Neurosis: AMEN | 328218 | [328218-alice-mesmerizing-episodes-of-neurosis-amen.json](./328218-alice-mesmerizing-episodes-of-neurosis-amen.json) |
 | Alice Order | 219815 | [219815-alice-order.json](./219815-alice-order.json) |
 | Alice Senki 2 | 191880 | [191880-alice-senki-2.json](./191880-alice-senki-2.json) |
@@ -2320,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Crime Rope Stickman | 296072 | [296072-amazing-crime-rope-stickman.json](./296072-amazing-crime-rope-stickman.json) |
 | Amazing Cultivation Simulator | 127939 | [127939-amazing-cultivation-simulator.json](./127939-amazing-cultivation-simulator.json) |
 | Amazing Cultivation Simulator: Deep in the bamboo Forest | 166058 | [166058-amazing-cultivation-simulator-deep-in-the-bamboo-forest.json](./166058-amazing-cultivation-simulator-deep-in-the-bamboo-forest.json) |
+| Amazing Digital Game 2D | 393115 | [393115-amazing-digital-game-2d.json](./393115-amazing-digital-game-2d.json) |
 | Amazing Drones | 76619 | [76619-amazing-drones.json](./76619-amazing-drones.json) |
 | Amazing Escape | 87714 | [87714-amazing-escape.json](./87714-amazing-escape.json) |
 | Amazing Facts World Culture True or False Quiz | 399608 | [399608-amazing-facts-world-culture-true-or-false-quiz.json](./399608-amazing-facts-world-culture-true-or-false-quiz.json) |
@@ -3079,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anivenge | 182374 | [182374-anivenge.json](./182374-anivenge.json) |
 | Anjail! | 407307 | [407307-anjail.json](./407307-anjail.json) |
 | Anjelo's Province | 265702 | [265702-anjelos-province.json](./265702-anjelos-province.json) |
+| Anjos do Duelo | 393109 | [393109-anjos-do-duelo.json](./393109-anjos-do-duelo.json) |
 | Ankh 2: Tutankhamun no Nazo | 234163 | [234163-ankh-2-tutankhamun-no-nazo.json](./234163-ankh-2-tutankhamun-no-nazo.json) |
 | Ankh 3: Battle of the Gods | 25466 | [25466-ankh-3-battle-of-the-gods.json](./25466-ankh-3-battle-of-the-gods.json) |
 | Ankh 3: Ramusesu Dai-ou no Nazo | 234165 | [234165-ankh-3-ramusesu-dai-ou-no-nazo.json](./234165-ankh-3-ramusesu-dai-ou-no-nazo.json) |
