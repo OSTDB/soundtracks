@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms | 379994 | [379994-backrooms.json](./379994-backrooms.json) |
 | Backrooms | 379995 | [379995-backrooms.json](./379995-backrooms.json) |
 | Backrooms (2026) | 410930 | [410930-backrooms-2026.json](./410930-backrooms-2026.json) |
+| Backrooms [Redacted]: Chapter 1 | 409747 | [409747-backrooms-redacted-chapter-1.json](./409747-backrooms-redacted-chapter-1.json) |
 | Backrooms Abyss | 253419 | [253419-backrooms-abyss.json](./253419-backrooms-abyss.json) |
 | Backrooms Blackmarket | 348848 | [348848-backrooms-blackmarket.json](./348848-backrooms-blackmarket.json) |
 | Backrooms Cycle | 235470 | [235470-backrooms-cycle.json](./235470-backrooms-cycle.json) |
@@ -202,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Rec. | 253402 | [253402-backrooms-rec.json](./253402-backrooms-rec.json) |
 | Backrooms Society | 245870 | [245870-backrooms-society.json](./245870-backrooms-society.json) |
 | Backrooms The Company | 309864 | [309864-backrooms-the-company.json](./309864-backrooms-the-company.json) |
+| Backrooms Untold | 409746 | [409746-backrooms-untold.json](./409746-backrooms-untold.json) |
 | Backrooms VS | 250942 | [250942-backrooms-vs.json](./250942-backrooms-vs.json) |
 | Backrooms: Duck Escape | 378180 | [378180-backrooms-duck-escape.json](./378180-backrooms-duck-escape.json) |
 | Backrooms: Escape Together | 220348 | [220348-backrooms-escape-together.json](./220348-backrooms-escape-together.json) |
@@ -2987,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bittersweet Dream | 229672 | [229672-bittersweet-dream.json](./229672-bittersweet-dream.json) |
 | Bittos | 91418 | [91418-bittos.json](./91418-bittos.json) |
 | Bitvest.io | 59425 | [59425-bitvest-io.json](./59425-bitvest-io.json) |
+| Bitvoxel | 409822 | [409822-bitvoxel.json](./409822-bitvoxel.json) |
 | Bitworm | 113701 | [113701-bitworm.json](./113701-bitworm.json) |
 | Bitzee | 340219 | [340219-bitzee.json](./340219-bitzee.json) |
 | Bitzee Disney | 340222 | [340222-bitzee-disney.json](./340222-bitzee-disney.json) |
@@ -3255,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blademaker: Arms Shop | 108825 | [108825-blademaker-arms-shop.json](./108825-blademaker-arms-shop.json) |
 | Bladenet | 68166 | [68166-bladenet.json](./68166-bladenet.json) |
 | Bladequest: The First Chapter - Gold | 106548 | [106548-bladequest-the-first-chapter-gold.json](./106548-bladequest-the-first-chapter-gold.json) |
+| BladeRite: Rivals | 409794 | [409794-bladerite-rivals.json](./409794-bladerite-rivals.json) |
 | Blades and Bullets | 277279 | [277279-blades-and-bullets.json](./277279-blades-and-bullets.json) |
 | Blades and Rings | 82122 | [82122-blades-and-rings.json](./82122-blades-and-rings.json) |
 | Blades of Avernum | 73536 | [73536-blades-of-avernum.json](./73536-blades-of-avernum.json) |
