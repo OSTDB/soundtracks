@@ -2254,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Faveg | 318060 | [318060-depths-of-faveg.json](./318060-depths-of-faveg.json) |
 | Depths of Fear: Knossos | 10182 | [10182-depths-of-fear-knossos.json](./10182-depths-of-fear-knossos.json) |
 | Depths of Insanity 2 | 292321 | [292321-depths-of-insanity-2.json](./292321-depths-of-insanity-2.json) |
+| Depths of Providence | 412560 | [412560-depths-of-providence.json](./412560-depths-of-providence.json) |
 | Depths of Sanity | 55071 | [55071-depths-of-sanity.json](./55071-depths-of-sanity.json) |
 | Deputy Arsh | 329192 | [329192-deputy-arsh.json](./329192-deputy-arsh.json) |
 | Dequivsia | 326603 | [326603-dequivsia.json](./326603-dequivsia.json) |
@@ -2274,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derace | 393602 | [393602-derace.json](./393602-derace.json) |
 | Deranged Rabbits | 33389 | [33389-deranged-rabbits.json](./33389-deranged-rabbits.json) |
 | Derby Champion Club | 386250 | [386250-derby-champion-club.json](./386250-derby-champion-club.json) |
+| Derby Heroines: Run, Bet, Win! | 412502 | [412502-derby-heroines-run-bet-win.json](./412502-derby-heroines-run-bet-win.json) |
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
 | Derby Quest: Horse Manager HD | 246429 | [246429-derby-quest-horse-manager-hd.json](./246429-derby-quest-horse-manager-hd.json) |
 | Derby Stallion | 137021 | [137021-derby-stallion.json](./137021-derby-stallion.json) |
@@ -3124,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Galaxy Tennis | 144945 | [144945-dino-galaxy-tennis.json](./144945-dino-galaxy-tennis.json) |
 | Dino Genesis | 146924 | [146924-dino-genesis.json](./146924-dino-genesis.json) |
 | Dino Genesis | 336533 | [336533-dino-genesis.json](./336533-dino-genesis.json) |
+| Dino Hex Trap | 412565 | [412565-dino-hex-trap.json](./412565-dino-hex-trap.json) |
 | Dino Hunt | 150081 | [150081-dino-hunt.json](./150081-dino-hunt.json) |
 | Dino Lost | 120406 | [120406-dino-lost.json](./120406-dino-lost.json) |
 | Dino Master | 132161 | [132161-dino-master.json](./132161-dino-master.json) |
@@ -6076,6 +6079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Despair | 193990 | [193990-dungeon-of-despair.json](./193990-dungeon-of-despair.json) |
 | Dungeon of Doom | 178615 | [178615-dungeon-of-doom.json](./178615-dungeon-of-doom.json) |
 | Dungeon of Dragon Knight | 113402 | [113402-dungeon-of-dragon-knight.json](./113402-dungeon-of-dragon-knight.json) |
+| Dungeon Of Dragon Knight Remake | 412556 | [412556-dungeon-of-dragon-knight-remake.json](./412556-dungeon-of-dragon-knight-remake.json) |
 | Dungeon of Erotic Master Reboot | 374614 | [374614-dungeon-of-erotic-master-reboot.json](./374614-dungeon-of-erotic-master-reboot.json) |
 | Dungeon of Grandmasters | 322802 | [322802-dungeon-of-grandmasters.json](./322802-dungeon-of-grandmasters.json) |
 | Dungeon of Memories | 295807 | [295807-dungeon-of-memories.json](./295807-dungeon-of-memories.json) |
