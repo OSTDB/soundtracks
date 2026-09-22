@@ -1505,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helldivers: Turning Up the Heat | 267989 | [267989-helldivers-turning-up-the-heat.json](./267989-helldivers-turning-up-the-heat.json) |
 | Hellen's Gallery | 269290 | [269290-hellens-gallery.json](./269290-hellens-gallery.json) |
 | Hellenica | 26952 | [26952-hellenica.json](./26952-hellenica.json) |
+| Hellescape | 392459 | [392459-hellescape.json](./392459-hellescape.json) |
 | HellEscape | 215349 | [215349-hellescape.json](./215349-hellescape.json) |
 | Hellevator | 150120 | [150120-hellevator.json](./150120-hellevator.json) |
 | Hellfighter | 92458 | [92458-hellfighter.json](./92458-hellfighter.json) |
