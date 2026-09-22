@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okhotsk ni Kiyu: Hokkaido Rensa Satsujin | 206132 | [206132-okhotsk-ni-kiyu-hokkaido-rensa-satsujin.json](./206132-okhotsk-ni-kiyu-hokkaido-rensa-satsujin.json) |
 | Okie Dokie | 40776 | [40776-okie-dokie.json](./40776-okie-dokie.json) |
 | Okinawa Journal | 372458 | [372458-okinawa-journal.json](./372458-okinawa-journal.json) |
+| Okinawa Rush | 69375 | [69375-okinawa-rush.json](./69375-okinawa-rush.json) |
 | OkioGo! | 61061 | [61061-okiogo.json](./61061-okiogo.json) |
 | Okiraku Daifugou 3D | 222326 | [222326-okiraku-daifugou-3d.json](./222326-okiraku-daifugou-3d.json) |
 | Okiraku Golf 3D | 222293 | [222293-okiraku-golf-3d.json](./222293-okiraku-golf-3d.json) |
@@ -756,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Kingdom | 358401 | [358401-once-upon-a-kingdom.json](./358401-once-upon-a-kingdom.json) |
 | Once Upon A Life | 115656 | [115656-once-upon-a-life.json](./115656-once-upon-a-life.json) |
 | Once Upon A Plague | 184565 | [184565-once-upon-a-plague.json](./184565-once-upon-a-plague.json) |
+| Once Upon a Puppet | 74771 | [74771-once-upon-a-puppet.json](./74771-once-upon-a-puppet.json) |
 | Once Upon A Siege | 224765 | [224765-once-upon-a-siege.json](./224765-once-upon-a-siege.json) |
 | Once Upon a Spirit | 354000 | [354000-once-upon-a-spirit.json](./354000-once-upon-a-spirit.json) |
 | Once upon a Thai: Learn Thai | 214755 | [214755-once-upon-a-thai-learn-thai.json](./214755-once-upon-a-thai-learn-thai.json) |
@@ -1253,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oppai Muse | 203383 | [203383-oppai-muse.json](./203383-oppai-muse.json) |
 | Oppai Puzzle L | 209481 | [209481-oppai-puzzle-l.json](./209481-oppai-puzzle-l.json) |
 | Oppaidius Desert Island! | 149435 | [149435-oppaidius-desert-island.json](./149435-oppaidius-desert-island.json) |
+| Oppaidius Summer Trouble! | 75040 | [75040-oppaidius-summer-trouble.json](./75040-oppaidius-summer-trouble.json) |
 | Oppaidius Tropical Cruise! | 126641 | [126641-oppaidius-tropical-cruise.json](./126641-oppaidius-tropical-cruise.json) |
 | Oppidum | 256927 | [256927-oppidum.json](./256927-oppidum.json) |
 | Opposite Day 2 | 329173 | [329173-opposite-day-2.json](./329173-opposite-day-2.json) |
