@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok M: New Generation | 214034 | [214034-ragnarok-m-new-generation.json](./214034-ragnarok-m-new-generation.json) |
 | Ragnarok Odyssey ACE: Launch Edition | 42668 | [42668-ragnarok-odyssey-ace-launch-edition.json](./42668-ragnarok-odyssey-ace-launch-edition.json) |
 | Ragnarok Online / Grand Chase | 80588 | [80588-ragnarok-online-grand-chase.json](./80588-ragnarok-online-grand-chase.json) |
+| Ragnarok Online 2 | 16484 | [16484-ragnarok-online-2.json](./16484-ragnarok-online-2.json) |
 | Ragnarok Rush | 110282 | [110282-ragnarok-rush.json](./110282-ragnarok-rush.json) |
 | Ragnarok Tactics | 243421 | [243421-ragnarok-tactics.json](./243421-ragnarok-tactics.json) |
 | Ragnarok: Fallen Legends | 227932 | [227932-ragnarok-fallen-legends.json](./227932-ragnarok-fallen-legends.json) |
@@ -2250,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
 | Revolty-II | 237517 | [237517-revolty-ii.json](./237517-revolty-ii.json) |
 | Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
+| Revolution Ace | 17033 | [17033-revolution-ace.json](./17033-revolution-ace.json) |
 | Revolution Editions: Shadow & Steel | 361790 | [361790-revolution-editions-shadow-and-steel.json](./361790-revolution-editions-shadow-and-steel.json) |
 | Revolution Idle | 297876 | [297876-revolution-idle.json](./297876-revolution-idle.json) |
 | Revolution: The Spark | 143659 | [143659-revolution-the-spark.json](./143659-revolution-the-spark.json) |
@@ -2742,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Thunder: Community Edition | 82394 | [82394-rising-thunder-community-edition.json](./82394-rising-thunder-community-edition.json) |
 | Rising Wan | 346139 | [346139-rising-wan.json](./346139-rising-wan.json) |
 | Rising: Hungry Lizard | 165638 | [165638-rising-hungry-lizard.json](./165638-rising-hungry-lizard.json) |
+| Risk | 16458 | [16458-risk.json](./16458-risk.json) |
 | Risk & Riches | 333646 | [333646-risk-and-riches.json](./333646-risk-and-riches.json) |
 | Risk Battleship Clue | 138001 | [138001-risk-battleship-clue.json](./138001-risk-battleship-clue.json) |
 | Risk of Rain | 3173 | [3173-risk-of-rain.json](./3173-risk-of-rain.json) |
@@ -3884,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Merge! | 296078 | [296078-royal-merge.json](./296078-royal-merge.json) |
 | Royal Pit | 409557 | [409557-royal-pit.json](./409557-royal-pit.json) |
 | Royal Pro Wrestling: Jikkyou Live!! | 37203 | [37203-royal-pro-wrestling-jikkyou-live.json](./37203-royal-pro-wrestling-jikkyou-live.json) |
+| Royal Quest | 10786 | [10786-royal-quest.json](./10786-royal-quest.json) |
 | Royal Rampage | 370127 | [370127-royal-rampage.json](./370127-royal-rampage.json) |
 | Royal Randomizer | 342162 | [342162-royal-randomizer.json](./342162-royal-randomizer.json) |
 | Royal Rescue | 133201 | [133201-royal-rescue.json](./133201-royal-rescue.json) |
