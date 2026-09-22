@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity R | 340752 | [340752-infinity-r.json](./340752-infinity-r.json) |
 | Infinity Rising | 315056 | [315056-infinity-rising.json](./315056-infinity-rising.json) |
 | Infinity Run | 105875 | [105875-infinity-run.json](./105875-infinity-run.json) |
+| Infinity Runner | 17097 | [17097-infinity-runner.json](./17097-infinity-runner.json) |
 | Infinity Runner Bot | 297639 | [297639-infinity-runner-bot.json](./297639-infinity-runner-bot.json) |
 | Infinity Slime Dungeon | 321754 | [321754-infinity-slime-dungeon.json](./321754-infinity-slime-dungeon.json) |
 | Infinity Strash: Dragon Quest - The Adventure of Dai | 137928 | [137928-infinity-strash-dragon-quest-the-adventure-of-dai.json](./137928-infinity-strash-dragon-quest-the-adventure-of-dai.json) |
@@ -1366,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inflorescences | 249217 | [249217-inflorescences.json](./249217-inflorescences.json) |
 | Influence | 210032 | [210032-influence.json](./210032-influence.json) |
 | Influenced | 179675 | [179675-influenced.json](./179675-influenced.json) |
+| Influent Language Learning Game | 17037 | [17037-influent-language-learning-game.json](./17037-influent-language-learning-game.json) |
 | Infocus: Extreme Bike | 175294 | [175294-infocus-extreme-bike.json](./175294-infocus-extreme-bike.json) |
 | Infodroid | 28857 | [28857-infodroid.json](./28857-infodroid.json) |
 | Infogrind | 401000 | [401000-infogrind.json](./401000-infogrind.json) |
