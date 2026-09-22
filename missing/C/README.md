@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of Morta: Complete Edition | 175878 | [175878-children-of-morta-complete-edition.json](./175878-children-of-morta-complete-edition.json) |
 | Children of Orc | 30920 | [30920-children-of-orc.json](./30920-children-of-orc.json) |
 | Children of Silentown | 121016 | [121016-children-of-silentown.json](./121016-children-of-silentown.json) |
+| Children of the Galaxy | 30304 | [30304-children-of-the-galaxy.json](./30304-children-of-the-galaxy.json) |
 | Children of the Gate | 57902 | [57902-children-of-the-gate.json](./57902-children-of-the-gate.json) |
 | Children of the Sun | 284925 | [284925-children-of-the-sun.json](./284925-children-of-the-sun.json) |
 | Children of the World | 256901 | [256901-children-of-the-world.json](./256901-children-of-the-world.json) |
@@ -4826,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corny Crush | 210691 | [210691-corny-crush.json](./210691-corny-crush.json) |
 | Coromon: Rogue Planet | 315506 | [315506-coromon-rogue-planet.json](./315506-coromon-rogue-planet.json) |
 | Corona Blossom Vol.1 Gift From the Galaxy | 32228 | [32228-corona-blossom-vol-1-gift-from-the-galaxy.json](./32228-corona-blossom-vol-1-gift-from-the-galaxy.json) |
+| Corona Blossom Vol.3 Journey to the Stars | 30334 | [30334-corona-blossom-vol-3-journey-to-the-stars.json](./30334-corona-blossom-vol-3-journey-to-the-stars.json) |
 | Corona Frustration Elimination | 165001 | [165001-corona-frustration-elimination.json](./165001-corona-frustration-elimination.json) |
 | Corona MotorSport | 35926 | [35926-corona-motorsport.json](./35926-corona-motorsport.json) |
 | Corona Simulator: Savior Edition | 165004 | [165004-corona-simulator-savior-edition.json](./165004-corona-simulator-savior-edition.json) |
