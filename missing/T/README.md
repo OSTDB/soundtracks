@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Talk | 238488 | [238488-tavern-talk.json](./238488-tavern-talk.json) |
 | Tavern Talk + Pirate Palooza (Costume AOC) | 378868 | [378868-tavern-talk-pirate-palooza-costume-aoc.json](./378868-tavern-talk-pirate-palooza-costume-aoc.json) |
 | Tavern Talk: Tempest Tantrum | 336038 | [336038-tavern-talk-tempest-tantrum.json](./336038-tavern-talk-tempest-tantrum.json) |
+| Tavern Timer | 406886 | [406886-tavern-timer.json](./406886-tavern-timer.json) |
 | Tavern Tycoon: Brew & Brawl | 391758 | [391758-tavern-tycoon-brew-and-brawl.json](./391758-tavern-tycoon-brew-and-brawl.json) |
 | Tavern Ventures: Guilds & Tales | 298163 | [298163-tavern-ventures-guilds-and-tales.json](./298163-tavern-ventures-guilds-and-tales.json) |
 | TavernHold | 361685 | [361685-tavernhold.json](./361685-tavernhold.json) |
@@ -2719,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Condition | 373548 | [373548-the-condition.json](./373548-the-condition.json) |
 | The Conductor | 261909 | [261909-the-conductor.json](./261909-the-conductor.json) |
 | The Confession | 133365 | [133365-the-confession.json](./133365-the-confession.json) |
+| The Confined: Basement | 406899 | [406899-the-confined-basement.json](./406899-the-confined-basement.json) |
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
 | The Consumist Journey | 270099 | [270099-the-consumist-journey.json](./270099-the-consumist-journey.json) |
@@ -4294,6 +4296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
 | The Last Librarian | 266816 | [266816-the-last-librarian.json](./266816-the-last-librarian.json) |
 | The Last Light | 182556 | [182556-the-last-light.json](./182556-the-last-light.json) |
+| The Last Login | 406897 | [406897-the-last-login.json](./406897-the-last-login.json) |
 | The Last Look | 32871 | [32871-the-last-look.json](./32871-the-last-look.json) |
 | The Last Lunch | 413906 | [413906-the-last-lunch.json](./413906-the-last-lunch.json) |
 | The Last Mage | 350430 | [350430-the-last-mage.json](./350430-the-last-mage.json) |
@@ -5111,6 +5114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Numzle | 233096 | [233096-the-numzle.json](./233096-the-numzle.json) |
 | The Nutcracker | 216997 | [216997-the-nutcracker.json](./216997-the-nutcracker.json) |
 | The Nutshack But It's A Game | 326591 | [326591-the-nutshack-but-its-a-game.json](./326591-the-nutshack-but-its-a-game.json) |
+| The Obedience Experiment | 406893 | [406893-the-obedience-experiment.json](./406893-the-obedience-experiment.json) |
 | The Oblivion Asylum | 117676 | [117676-the-oblivion-asylum.json](./117676-the-oblivion-asylum.json) |
 | The Obscura Experiment | 239652 | [239652-the-obscura-experiment.json](./239652-the-obscura-experiment.json) |
 | The Observed | 182555 | [182555-the-observed.json](./182555-the-observed.json) |
@@ -5372,6 +5376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Psychotron | 72061 | [72061-the-psychotron.json](./72061-the-psychotron.json) |
 | The Pub Simulator | 238727 | [238727-the-pub-simulator.json](./238727-the-pub-simulator.json) |
 | The Pulps Company | 283764 | [283764-the-pulps-company.json](./283764-the-pulps-company.json) |
+| The Punchbag Machine | 406907 | [406907-the-punchbag-machine.json](./406907-the-punchbag-machine.json) |
 | The Punchuin | 229144 | [229144-the-punchuin.json](./229144-the-punchuin.json) |
 | The Punisher | 18294 | [18294-the-punisher.json](./18294-the-punisher.json) |
 | The Punisher | 307746 | [307746-the-punisher.json](./307746-the-punisher.json) |
@@ -8072,6 +8077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilesweeper | 104139 | [104139-tilesweeper.json](./104139-tilesweeper.json) |
 | Tiling Towers | 249811 | [249811-tiling-towers.json](./249811-tiling-towers.json) |
 | Till the dawn, waiting | 81679 | [81679-till-the-dawn-waiting.json](./81679-till-the-dawn-waiting.json) |
+| Till The Light | 406933 | [406933-till-the-light.json](./406933-till-the-light.json) |
 | Tilligence | 185022 | [185022-tilligence.json](./185022-tilligence.json) |
 | Tilt | 286132 | [286132-tilt.json](./286132-tilt.json) |
 | Tilt Brush | 36215 | [36215-tilt-brush.json](./36215-tilt-brush.json) |
