@@ -3054,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hangman | 112122 | [112122-black-hangman.json](./112122-black-hangman.json) |
 | Black Hawk | 25711 | [25711-black-hawk.json](./25711-black-hawk.json) |
 | Black Hole | 85507 | [85507-black-hole.json](./85507-black-hole.json) |
+| Black Hole Gun | 413182 | [413182-black-hole-gun.json](./413182-black-hole-gun.json) |
 | Black Hollow | 410993 | [410993-black-hollow.json](./410993-black-hollow.json) |
 | Black Hornet | 14309 | [14309-black-hornet.json](./14309-black-hornet.json) |
 | Black Ink | 199495 | [199495-black-ink.json](./199495-black-ink.json) |
@@ -3461,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlinDead | 289298 | [289298-blindead.json](./289298-blindead.json) |
 | Blindfire | 320139 | [320139-blindfire.json](./320139-blindfire.json) |
 | Blindfold | 356150 | [356150-blindfold.json](./356150-blindfold.json) |
+| Blindfold: Hide and Seek | 413172 | [413172-blindfold-hide-and-seek.json](./413172-blindfold-hide-and-seek.json) |
 | BlindGiRl2 | 65449 | [65449-blindgirl2.json](./65449-blindgirl2.json) |
 | Blinding Lite | 302370 | [302370-blinding-lite.json](./302370-blinding-lite.json) |
 | Blinding Oversight | 253592 | [253592-blinding-oversight.json](./253592-blinding-oversight.json) |
@@ -5148,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout 2000 | 40816 | [40816-breakout-2000.json](./40816-breakout-2000.json) |
 | Breakout 3 | 319572 | [319572-breakout-3.json](./319572-breakout-3.json) |
 | Breakout 3000 | 73293 | [73293-breakout-3000.json](./73293-breakout-3000.json) |
+| Breakout Baby | 413175 | [413175-breakout-baby.json](./413175-breakout-baby.json) |
 | Breakout Beyond | 330257 | [330257-breakout-beyond.json](./330257-breakout-beyond.json) |
 | Breakout Birdie Escape | 278658 | [278658-breakout-birdie-escape.json](./278658-breakout-birdie-escape.json) |
 | Breakout Birdie Panic | 278661 | [278661-breakout-birdie-panic.json](./278661-breakout-birdie-panic.json) |
