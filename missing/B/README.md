@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B67 | 138742 | [138742-b67.json](./138742-b67.json) |
 | Ba Quartet X | 276296 | [276296-ba-quartet-x.json](./276296-ba-quartet-x.json) |
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
+| Bab.gg | 408262 | [408262-bab-gg.json](./408262-bab-gg.json) |
 | Baba Booey's Adventure | 72118 | [72118-baba-booeys-adventure.json](./72118-baba-booeys-adventure.json) |
 | Baba Is Cool 2 | 301581 | [301581-baba-is-cool-2.json](./301581-baba-is-cool-2.json) |
 | Baba is You Xtreme | 209470 | [209470-baba-is-you-xtreme.json](./209470-baba-is-you-xtreme.json) |
@@ -207,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms VS | 250942 | [250942-backrooms-vs.json](./250942-backrooms-vs.json) |
 | Backrooms: Duck Escape | 378180 | [378180-backrooms-duck-escape.json](./378180-backrooms-duck-escape.json) |
 | Backrooms: Escape Together | 220348 | [220348-backrooms-escape-together.json](./220348-backrooms-escape-together.json) |
+| Backrooms: Eternals | 408307 | [408307-backrooms-eternals.json](./408307-backrooms-eternals.json) |
 | Backrooms: Found Footage | 338186 | [338186-backrooms-found-footage.json](./338186-backrooms-found-footage.json) |
 | Backrooms: Hide Together | 340939 | [340939-backrooms-hide-together.json](./340939-backrooms-hide-together.json) |
 | BackRooms: Lost | 301270 | [301270-backrooms-lost.json](./301270-backrooms-lost.json) |
@@ -413,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance Ball | 150483 | [150483-balance-ball.json](./150483-balance-ball.json) |
 | Balance Balls | 262438 | [262438-balance-balls.json](./262438-balance-balls.json) |
 | Balance Balls 2 | 262442 | [262442-balance-balls-2.json](./262442-balance-balls-2.json) |
+| Balance It! | 408294 | [408294-balance-it.json](./408294-balance-it.json) |
 | Balance of Kingdoms | 66144 | [66144-balance-of-kingdoms.json](./66144-balance-of-kingdoms.json) |
 | Balance of Power | 183072 | [183072-balance-of-power.json](./183072-balance-of-power.json) |
 | Balance of Power: The 1990 Edition | 14608 | [14608-balance-of-power-the-1990-edition.json](./14608-balance-of-power-the-1990-edition.json) |
@@ -2442,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Zero Line | 386299 | [386299-beyond-zero-line.json](./386299-beyond-zero-line.json) |
 | Beyond: Fire & Ice | 386301 | [386301-beyond-fire-and-ice.json](./386301-beyond-fire-and-ice.json) |
 | Beyond: Light Advent - Collector's Edition | 36464 | [36464-beyond-light-advent-collectors-edition.json](./36464-beyond-light-advent-collectors-edition.json) |
+| Beyonders | 408275 | [408275-beyonders.json](./408275-beyonders.json) |
 | BeYourCat | 309851 | [309851-beyourcat.json](./309851-beyourcat.json) |
 | BeZombie Anime Invasion | 261825 | [261825-bezombie-anime-invasion.json](./261825-bezombie-anime-invasion.json) |
 | BFDI: Branches | 305909 | [305909-bfdi-branches.json](./305909-bfdi-branches.json) |
@@ -3885,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloom | 110476 | [110476-bloom.json](./110476-bloom.json) |
 | Bloom | 263568 | [263568-bloom.json](./263568-bloom.json) |
 | Bloom | 60555 | [60555-bloom.json](./60555-bloom.json) |
+| Bloom Again | 408260 | [408260-bloom-again.json](./408260-bloom-again.json) |
 | Bloom Barrage | 240206 | [240206-bloom-barrage.json](./240206-bloom-barrage.json) |
 | Bloom Blast | 392809 | [392809-bloom-blast.json](./392809-bloom-blast.json) |
 | Bloom for Me | 358327 | [358327-bloom-for-me.json](./358327-bloom-for-me.json) |
@@ -3942,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Angelo | 18253 | [18253-blue-angelo.json](./18253-blue-angelo.json) |
 | Blue Angelo: Angels from the Shrine | 66051 | [66051-blue-angelo-angels-from-the-shrine.json](./66051-blue-angelo-angels-from-the-shrine.json) |
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
+| Blue Blaster Fandisc: Claudia Dakkan Sakusen | 408312 | [408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json](./408312-blue-blaster-fandisc-claudia-dakkan-sakusen.json) |
 | Blue Blaze Maze | 96080 | [96080-blue-blaze-maze.json](./96080-blue-blaze-maze.json) |
 | Blue Blood | 213939 | [213939-blue-blood.json](./213939-blue-blood.json) |
 | Blue Box | 200753 | [200753-blue-box.json](./200753-blue-box.json) |
@@ -3956,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue fencer Resurrection | 159860 | [159860-blue-fencer-resurrection.json](./159860-blue-fencer-resurrection.json) |
 | Blue Fish and Underwater Worlds | 146275 | [146275-blue-fish-and-underwater-worlds.json](./146275-blue-fish-and-underwater-worlds.json) |
 | Blue Fish Yokohama | 212824 | [212824-blue-fish-yokohama.json](./212824-blue-fish-yokohama.json) |
+| Blue Flow Fandisc | 408309 | [408309-blue-flow-fandisc.json](./408309-blue-flow-fandisc.json) |
 | Blue Forest Story: Kaze no Fuuin | 37204 | [37204-blue-forest-story-kaze-no-fuuin.json](./37204-blue-forest-story-kaze-no-fuuin.json) |
 | Blue Hawk | 39875 | [39875-blue-hawk.json](./39875-blue-hawk.json) |
 | Blue Honey | 416862 | [416862-blue-honey.json](./416862-blue-honey.json) |
