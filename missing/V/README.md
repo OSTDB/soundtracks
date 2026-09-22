@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vengeance/Justification | 395573 | [395573-vengeance-justification.json](./395573-vengeance-justification.json) |
 | Vengeful Bat Dungeon Crawler | 116837 | [116837-vengeful-bat-dungeon-crawler.json](./116837-vengeful-bat-dungeon-crawler.json) |
 | Vengeful Guardian: Moonrider | 213741 | [213741-vengeful-guardian-moonrider.json](./213741-vengeful-guardian-moonrider.json) |
+| Venial Sin | 396539 | [396539-venial-sin.json](./396539-venial-sin.json) |
 | Venice Deluxe | 21448 | [21448-venice-deluxe.json](./21448-venice-deluxe.json) |
 | VeniVidiFutzi | 271731 | [271731-venividifutzi.json](./271731-venividifutzi.json) |
 | Venny's Vinyl Shop | 381677 | [381677-vennys-vinyl-shop.json](./381677-vennys-vinyl-shop.json) |
@@ -1088,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ViviDex | 182983 | [182983-vividex.json](./182983-vividex.json) |
 | ViviEon | 120830 | [120830-vivieon.json](./120830-vivieon.json) |
 | Viviparous Dumpling | 354449 | [354449-viviparous-dumpling.json](./354449-viviparous-dumpling.json) |
+| Vivisection | 396584 | [396584-vivisection.json](./396584-vivisection.json) |
 | Vivitter: Additional Mini-game - "Hole-in-one" | 308772 | [308772-vivitter-additional-mini-game-hole-in-one.json](./308772-vivitter-additional-mini-game-hole-in-one.json) |
 | Vivitter: Additional Mini-game - "Kiss Game" | 308785 | [308785-vivitter-additional-mini-game-kiss-game.json](./308785-vivitter-additional-mini-game-kiss-game.json) |
 | Vivitter: Additional Mini-game - "Leaning Tower" | 308783 | [308783-vivitter-additional-mini-game-leaning-tower.json](./308783-vivitter-additional-mini-game-leaning-tower.json) |
