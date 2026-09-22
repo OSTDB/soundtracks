@@ -2696,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Dark | 283864 | [283864-world-of-dark.json](./283864-world-of-dark.json) |
 | World of Darkness | 77001 | [77001-world-of-darkness.json](./77001-world-of-darkness.json) |
 | World of Darkness Preludes: Vampire and Mage | 27330 | [27330-world-of-darkness-preludes-vampire-and-mage.json](./27330-world-of-darkness-preludes-vampire-and-mage.json) |
+| World of Dragons: Dragon Simulator | 88219 | [88219-world-of-dragons-dragon-simulator.json](./88219-world-of-dragons-dragon-simulator.json) |
 | World of Ender | 102749 | [102749-world-of-ender.json](./102749-world-of-ender.json) |
 | World of Epicia | 195627 | [195627-world-of-epicia.json](./195627-world-of-epicia.json) |
 | World of Feudal | 102160 | [102160-world-of-feudal.json](./102160-world-of-feudal.json) |
