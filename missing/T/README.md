@@ -3110,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elysian Field | 153976 | [153976-the-elysian-field.json](./153976-the-elysian-field.json) |
 | The Elysian Fields and Other Greek Myths | 122985 | [122985-the-elysian-fields-and-other-greek-myths.json](./122985-the-elysian-fields-and-other-greek-myths.json) |
 | The Ember Guardian | 342161 | [342161-the-ember-guardian.json](./342161-the-ember-guardian.json) |
+| The Emerald Maiden: Symphony of Dreams | 20363 | [20363-the-emerald-maiden-symphony-of-dreams.json](./20363-the-emerald-maiden-symphony-of-dreams.json) |
 | The Eminence in Shadow: Master of Garden | 227490 | [227490-the-eminence-in-shadow-master-of-garden.json](./227490-the-eminence-in-shadow-master-of-garden.json) |
 | The Empanada Protocol | 207359 | [207359-the-empanada-protocol.json](./207359-the-empanada-protocol.json) |
 | The Empathy Algorithm | 387999 | [387999-the-empathy-algorithm.json](./387999-the-empathy-algorithm.json) |
@@ -3505,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Giant of Torridge Island | 192984 | [192984-the-giant-of-torridge-island.json](./192984-the-giant-of-torridge-island.json) |
 | The GIF Game | 297813 | [297813-the-gif-game.json](./297813-the-gif-game.json) |
 | The Gigglebone Gang: The AlphaBonk Farm | 206110 | [206110-the-gigglebone-gang-the-alphabonk-farm.json](./206110-the-gigglebone-gang-the-alphabonk-farm.json) |
+| The Girl and the Robot | 22777 | [22777-the-girl-and-the-robot.json](./22777-the-girl-and-the-robot.json) |
 | The Girl From the Snuff Video | 247742 | [247742-the-girl-from-the-snuff-video.json](./247742-the-girl-from-the-snuff-video.json) |
 | The Girl in the Tower of Steel | 256326 | [256326-the-girl-in-the-tower-of-steel.json](./256326-the-girl-in-the-tower-of-steel.json) |
 | The Girl in the Window | 221722 | [221722-the-girl-in-the-window.json](./221722-the-girl-in-the-window.json) |
@@ -5563,6 +5565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers III: Quest of the Amazons | 11334 | [11334-the-settlers-iii-quest-of-the-amazons.json](./11334-the-settlers-iii-quest-of-the-amazons.json) |
 | The Settlers IV: The Trojans and the Elixir of Power | 21858 | [21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json](./21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json) |
 | The Settlers Mobile | 85862 | [85862-the-settlers-mobile.json](./85862-the-settlers-mobile.json) |
+| The Settlers Online | 23606 | [23606-the-settlers-online.json](./23606-the-settlers-online.json) |
 | The Settlers: Explorer Edition | 136377 | [136377-the-settlers-explorer-edition.json](./136377-the-settlers-explorer-edition.json) |
 | The Settlers: Fourth Edition | 3697 | [3697-the-settlers-fourth-edition.json](./3697-the-settlers-fourth-edition.json) |
 | The Settlers: History Edition | 107232 | [107232-the-settlers-history-edition.json](./107232-the-settlers-history-edition.json) |
@@ -5630,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Siege of Brimir | 231394 | [231394-the-siege-of-brimir.json](./231394-the-siege-of-brimir.json) |
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
 | The Sign | 241634 | [241634-the-sign.json](./241634-the-sign.json) |
+| The Signal From Tölva | 22039 | [22039-the-signal-from-tolva.json](./22039-the-signal-from-tolva.json) |
 | The Signifier: Deluxe Edition | 154550 | [154550-the-signifier-deluxe-edition.json](./154550-the-signifier-deluxe-edition.json) |
 | The Silence | 185625 | [185625-the-silence.json](./185625-the-silence.json) |
 | The Silence After | 361769 | [361769-the-silence-after.json](./361769-the-silence-after.json) |
