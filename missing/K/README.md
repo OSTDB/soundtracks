@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Puzzelot | 344431 | [344431-knights-of-puzzelot.json](./344431-knights-of-puzzelot.json) |
 | Knights of Riddle | 148479 | [148479-knights-of-riddle.json](./148479-knights-of-riddle.json) |
 | Knights of San Francisco | 174204 | [174204-knights-of-san-francisco.json](./174204-knights-of-san-francisco.json) |
+| Knights of the Card Table | 113790 | [113790-knights-of-the-card-table.json](./113790-knights-of-the-card-table.json) |
 | Knights of the Chalice | 67785 | [67785-knights-of-the-chalice.json](./67785-knights-of-the-chalice.json) |
 | Knights of the Chalice 2: Archmage Edition | 196299 | [196299-knights-of-the-chalice-2-archmage-edition.json](./196299-knights-of-the-chalice-2-archmage-edition.json) |
 | Knights of the Crystallion | 69553 | [69553-knights-of-the-crystallion.json](./69553-knights-of-the-crystallion.json) |
