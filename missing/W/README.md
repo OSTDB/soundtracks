@@ -308,11 +308,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Lords | 323323 | [323323-war-lords.json](./323323-war-lords.json) |
 | War Lords | 377155 | [377155-war-lords.json](./377155-war-lords.json) |
 | War Machine | 93015 | [93015-war-machine.json](./93015-war-machine.json) |
+| War Machines | 86933 | [86933-war-machines.json](./86933-war-machines.json) |
 | War Never Changes | 333590 | [333590-war-never-changes.json](./333590-war-never-changes.json) |
 | War of Aero | 39849 | [39849-war-of-aero.json](./39849-war-of-aero.json) |
 | War of Angels | 66400 | [66400-war-of-angels.json](./66400-war-of-angels.json) |
 | War Of Celestials | 253389 | [253389-war-of-celestials.json](./253389-war-of-celestials.json) |
 | War of Charge | 309676 | [309676-war-of-charge.json](./309676-war-of-charge.json) |
+| War of Colony | 86946 | [86946-war-of-colony.json](./86946-war-of-colony.json) |
 | War of Criminals | 89969 | [89969-war-of-criminals.json](./89969-war-of-criminals.json) |
 | War of Crown | 76567 | [76567-war-of-crown.json](./76567-war-of-crown.json) |
 | War of Eclipse | 64101 | [64101-war-of-eclipse.json](./64101-war-of-eclipse.json) |
@@ -1770,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Park: 15 Years Anniversary Trilogy | 136379 | [136379-wildlife-park-15-years-anniversary-trilogy.json](./136379-wildlife-park-15-years-anniversary-trilogy.json) |
 | Wildlife Simulator: Bear | 86905 | [86905-wildlife-simulator-bear.json](./86905-wildlife-simulator-bear.json) |
 | Wildlife Simulator: Crocodile | 96723 | [96723-wildlife-simulator-crocodile.json](./96723-wildlife-simulator-crocodile.json) |
+| Wildlife Simulator: Wolf | 86902 | [86902-wildlife-simulator-wolf.json](./86902-wildlife-simulator-wolf.json) |
 | Wildmagic Wizardry | 270106 | [270106-wildmagic-wizardry.json](./270106-wildmagic-wizardry.json) |
 | Wildmender | 204541 | [204541-wildmender.json](./204541-wildmender.json) |
 | Wilds of the Realmwalker | 356747 | [356747-wilds-of-the-realmwalker.json](./356747-wilds-of-the-realmwalker.json) |
@@ -2556,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordbase | 86060 | [86060-wordbase.json](./86060-wordbase.json) |
 | WordBrain | 58214 | [58214-wordbrain.json](./58214-wordbrain.json) |
 | Wordbreaker by Powgi | 196176 | [196176-wordbreaker-by-powgi.json](./196176-wordbreaker-by-powgi.json) |
+| WordCookies Cross | 87002 | [87002-wordcookies-cross.json](./87002-wordcookies-cross.json) |
 | WordCrasher | 87702 | [87702-wordcrasher.json](./87702-wordcrasher.json) |
 | Worder | 116852 | [116852-worder.json](./116852-worder.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
@@ -2600,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordsplash! | 28814 | [28814-wordsplash.json](./28814-wordsplash.json) |
 | Wordsweeper by Powgi | 121643 | [121643-wordsweeper-by-powgi.json](./121643-wordsweeper-by-powgi.json) |
 | WordTrip: Word Swipe Puzzles | 98795 | [98795-wordtrip-word-swipe-puzzles.json](./98795-wordtrip-word-swipe-puzzles.json) |
+| WordWhizzle Connect | 86799 | [86799-wordwhizzle-connect.json](./86799-wordwhizzle-connect.json) |
 | WordZap | 117962 | [117962-wordzap.json](./117962-wordzap.json) |
 | Work Beasts | 304023 | [304023-work-beasts.json](./304023-work-beasts.json) |
 | Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
@@ -2641,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Conqueror 3D | 85497 | [85497-world-conqueror-3d.json](./85497-world-conqueror-3d.json) |
 | World Conqueror X | 89152 | [89152-world-conqueror-x.json](./89152-world-conqueror-x.json) |
 | World Court Tennis | 37732 | [37732-world-court-tennis.json](./37732-world-court-tennis.json) |
+| World Craft Epic Dream Island | 86953 | [86953-world-craft-epic-dream-island.json](./86953-world-craft-epic-dream-island.json) |
 | World Cricket Championship 2 | 165526 | [165526-world-cricket-championship-2.json](./165526-world-cricket-championship-2.json) |
 | World Cruise Story | 65518 | [65518-world-cruise-story.json](./65518-world-cruise-story.json) |
 | World Cup | 130762 | [130762-world-cup.json](./130762-world-cup.json) |
