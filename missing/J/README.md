@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigoku Shoujo: Akekazura | 72615 | [72615-jigoku-shoujo-akekazura.json](./72615-jigoku-shoujo-akekazura.json) |
 | Jigoku Train | 314069 | [314069-jigoku-train.json](./314069-jigoku-train.json) |
 | Jigoku Unko | 151195 | [151195-jigoku-unko.json](./151195-jigoku-unko.json) |
+| Jigokuraku: Paradise Battle | 409820 | [409820-jigokuraku-paradise-battle.json](./409820-jigokuraku-paradise-battle.json) |
 | Jigsaw | 7863 | [7863-jigsaw.json](./7863-jigsaw.json) |
 | Jigsaw Advent Calendar | 276845 | [276845-jigsaw-advent-calendar.json](./276845-jigsaw-advent-calendar.json) |
 | Jigsaw Chronicles: Heroes of Legend | 317217 | [317217-jigsaw-chronicles-heroes-of-legend.json](./317217-jigsaw-chronicles-heroes-of-legend.json) |
@@ -776,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joexian's Basics In Bowling And Video Making | 389993 | [389993-joexians-basics-in-bowling-and-video-making.json](./389993-joexians-basics-in-bowling-and-video-making.json) |
 | Joey The Duck | 370217 | [370217-joey-the-duck.json](./370217-joey-the-duck.json) |
 | Joey's Shisha Simulator | 326412 | [326412-joeys-shisha-simulator.json](./326412-joeys-shisha-simulator.json) |
+| Jogo da Nota | 409806 | [409806-jogo-da-nota.json](./409806-jogo-da-nota.json) |
 | Johan | 403561 | [403561-johan.json](./403561-johan.json) |
 | John Adventure | 63574 | [63574-john-adventure.json](./63574-john-adventure.json) |
 | John Adventure | 63575 | [63575-john-adventure.json](./63575-john-adventure.json) |
@@ -908,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of Carrying Light | 369575 | [369575-journey-of-carrying-light.json](./369575-journey-of-carrying-light.json) |
 | Journey of Greed | 116510 | [116510-journey-of-greed.json](./116510-journey-of-greed.json) |
 | Journey of Haha | 39008 | [39008-journey-of-haha.json](./39008-journey-of-haha.json) |
+| Journey of Johann: Castle Crusade | 409805 | [409805-journey-of-johann-castle-crusade.json](./409805-journey-of-johann-castle-crusade.json) |
 | Journey of the Broken Circle | 136502 | [136502-journey-of-the-broken-circle.json](./136502-journey-of-the-broken-circle.json) |
 | Journey of the Sword | 72348 | [72348-journey-of-the-sword.json](./72348-journey-of-the-sword.json) |
 | Journey On | 154023 | [154023-journey-on.json](./154023-journey-on.json) |
