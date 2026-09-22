@@ -4482,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun With the Fitzgeralds | 262946 | [262946-fun-with-the-fitzgeralds.json](./262946-fun-with-the-fitzgeralds.json) |
 | Fun Zone Omega | 386239 | [386239-fun-zone-omega.json](./386239-fun-zone-omega.json) |
 | Fun, Sun & Mishaps | 169887 | [169887-fun-sun-and-mishaps.json](./169887-fun-sun-and-mishaps.json) |
+| Fun! Fun! Animal Park | 114024 | [114024-fun-fun-animal-park.json](./114024-fun-fun-animal-park.json) |
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
 | Funbag Fantasy 2 | 127948 | [127948-funbag-fantasy-2.json](./127948-funbag-fantasy-2.json) |
 | Funbag Fantasy 4: Brother Astor | 210718 | [210718-funbag-fantasy-4-brother-astor.json](./210718-funbag-fantasy-4-brother-astor.json) |
