@@ -2135,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Odium | 236010 | [236010-first-odium.json](./236010-first-odium.json) |
 | First Person Lover | 238606 | [238606-first-person-lover.json](./238606-first-person-lover.json) |
 | First Person Shouter | 332978 | [332978-first-person-shouter.json](./332978-first-person-shouter.json) |
+| First Person Tennis - The Real Tennis Simulator | 33434 | [33434-first-person-tennis-the-real-tennis-simulator.json](./33434-first-person-tennis-the-real-tennis-simulator.json) |
 | First Queen | 302697 | [302697-first-queen.json](./302697-first-queen.json) |
 | First Queen II | 302698 | [302698-first-queen-ii.json](./302698-first-queen-ii.json) |
 | First Queen III | 302699 | [302699-first-queen-iii.json](./302699-first-queen-iii.json) |
