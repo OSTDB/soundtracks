@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lem-Amaze! | 126570 | [126570-lem-amaze.json](./126570-lem-amaze.json) |
 | Lema Sabachthani | 323721 | [323721-lema-sabachthani.json](./323721-lema-sabachthani.json) |
 | Lemegeton | 402262 | [402262-lemegeton.json](./402262-lemegeton.json) |
+| Lemma | 17386 | [17386-lemma.json](./17386-lemma.json) |
 | Lemming Dynasty | 60489 | [60489-lemming-dynasty.json](./60489-lemming-dynasty.json) |
 | Lemmings | 113439 | [113439-lemmings.json](./113439-lemmings.json) |
 | Lemmings | 238839 | [238839-lemmings.json](./238839-lemmings.json) |
@@ -3015,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Magicals! | 364486 | [364486-lovely-magicals.json](./364486-lovely-magicals.json) |
 | Lovely Plains | 217402 | [217402-lovely-plains.json](./217402-lovely-plains.json) |
 | Lovely Planet | 14326 | [14326-lovely-planet.json](./14326-lovely-planet.json) |
+| Lovely Planet Arcade | 20112 | [20112-lovely-planet-arcade.json](./20112-lovely-planet-arcade.json) |
 | Lovely Planet Remix | 165030 | [165030-lovely-planet-remix.json](./165030-lovely-planet-remix.json) |
 | Lovely Pop 2-in-1: Jan Jan Koi Shimasho | 130300 | [130300-lovely-pop-2-in-1-jan-jan-koi-shimasho.json](./130300-lovely-pop-2-in-1-jan-jan-koi-shimasho.json) |
 | Lovely Pop Mahjong: JangJang Shimasho | 130298 | [130298-lovely-pop-mahjong-jangjang-shimasho.json](./130298-lovely-pop-mahjong-jangjang-shimasho.json) |
