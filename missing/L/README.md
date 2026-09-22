@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Oasis | 114422 | [114422-last-oasis.json](./114422-last-oasis.json) |
 | Last of Ass | 157161 | [157161-last-of-ass.json](./157161-last-of-ass.json) |
 | Last Order | 235994 | [235994-last-order.json](./235994-last-order.json) |
+| Last Origin R+ | 401129 | [401129-last-origin-r.json](./401129-last-origin-r.json) |
 | Last Outlander | 224028 | [224028-last-outlander.json](./224028-last-outlander.json) |
 | Last Outpost | 302110 | [302110-last-outpost.json](./302110-last-outpost.json) |
 | Last Pill Bar | 415880 | [415880-last-pill-bar.json](./415880-last-pill-bar.json) |
@@ -2165,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Tail Story | 144320 | [144320-little-tail-story.json](./144320-little-tail-story.json) |
 | Little Tank | 339942 | [339942-little-tank.json](./339942-little-tank.json) |
 | Little Thief | 407575 | [407575-little-thief.json](./407575-little-thief.json) |
+| Little Things | 401130 | [401130-little-things.json](./401130-little-things.json) |
 | Little Things Remastered | 175935 | [175935-little-things-remastered.json](./175935-little-things-remastered.json) |
 | Little Town Hero | 109459 | [109459-little-town-hero.json](./109459-little-town-hero.json) |
 | Little Tree Kingdom | 381625 | [381625-little-tree-kingdom.json](./381625-little-tree-kingdom.json) |
@@ -2440,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Pic | 212273 | [212273-logic-pic.json](./212273-logic-pic.json) |
 | Logic Puzzle Collection: Sudoku, Permudoku, Nonodoku | 147949 | [147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json](./147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json) |
 | Logic Town: Santa's Grotto | 279131 | [279131-logic-town-santas-grotto.json](./279131-logic-town-santas-grotto.json) |
+| Logic Training IQ Quiz for Kids | 401131 | [401131-logic-training-iq-quiz-for-kids.json](./401131-logic-training-iq-quiz-for-kids.json) |
 | Logic: Keypad | 235993 | [235993-logic-keypad.json](./235993-logic-keypad.json) |
 | Logica Emotica | 203540 | [203540-logica-emotica.json](./203540-logica-emotica.json) |
 | Logicubes | 211285 | [211285-logicubes.json](./211285-logicubes.json) |
@@ -2468,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lola's ABC Party - Learn to Read | 88344 | [88344-lolas-abc-party-learn-to-read.json](./88344-lolas-abc-party-learn-to-read.json) |
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
 | Lolita 2 | 66128 | [66128-lolita-2.json](./66128-lolita-2.json) |
+| Lollipop Chainsaw RePop: Nintendo Switch 2 Edition | 401101 | [401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json](./401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json) |
 | Lollipop! | 159882 | [159882-lollipop.json](./159882-lollipop.json) |
 | Lollypop | 9762 | [9762-lollypop.json](./9762-lollypop.json) |
 | LolShot.io | 202776 | [202776-lolshot-io.json](./202776-lolshot-io.json) |
