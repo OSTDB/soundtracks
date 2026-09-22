@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eighteen | 295244 | [295244-eighteen.json](./295244-eighteen.json) |
 | Eighteen Gold | 258484 | [258484-eighteen-gold.json](./258484-eighteen-gold.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
+| EightMan | 40976 | [40976-eightman.json](./40976-eightman.json) |
 | Eigo wo Taberu Fushigi na Ikimono | 338715 | [338715-eigo-wo-taberu-fushigi-na-ikimono.json](./338715-eigo-wo-taberu-fushigi-na-ikimono.json) |
 | Eikoku Tantei Mysteria | 221826 | [221826-eikoku-tantei-mysteria.json](./221826-eikoku-tantei-mysteria.json) |
 | Eikou no Saint Andrews | 3484 | [3484-eikou-no-saint-andrews.json](./3484-eikou-no-saint-andrews.json) |
@@ -2289,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evidence: The Last Report | 71461 | [71461-evidence-the-last-report.json](./71461-evidence-the-last-report.json) |
 | Evie Mal Games | 102776 | [102776-evie-mal-games.json](./102776-evie-mal-games.json) |
 | Evil | 154005 | [154005-evil.json](./154005-evil.json) |
+| Evil | 34874 | [34874-evil.json](./34874-evil.json) |
 | Evil Advisor Verdict | 359995 | [359995-evil-advisor-verdict.json](./359995-evil-advisor-verdict.json) |
 | Evil Apples: Dirty as ____. | 86996 | [86996-evil-apples-dirty-as.json](./86996-evil-apples-dirty-as.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
