@@ -4208,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pick Up Stray Aliens | 409002 | [409002-dont-pick-up-stray-aliens.json](./409002-dont-pick-up-stray-aliens.json) |
 | Don't Play With Dolls | 105282 | [105282-dont-play-with-dolls.json](./105282-dont-play-with-dolls.json) |
 | Don't Pop My Bubble | 368539 | [368539-dont-pop-my-bubble.json](./368539-dont-pop-my-bubble.json) |
+| Don't Pop the Balloon | 391896 | [391896-dont-pop-the-balloon.json](./391896-dont-pop-the-balloon.json) |
 | Don't Pray to Satan | 89953 | [89953-dont-pray-to-satan.json](./89953-dont-pray-to-satan.json) |
 | Don't Push Your Luck | 400304 | [400304-dont-push-your-luck.json](./400304-dont-push-your-luck.json) |
 | Don't Save the Princess | 111468 | [111468-dont-save-the-princess.json](./111468-dont-save-the-princess.json) |
@@ -5387,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Ploy Will | 242672 | [242672-dream-ploy-will.json](./242672-dream-ploy-will.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
 | Dream Sequences | 202247 | [202247-dream-sequences.json](./202247-dream-sequences.json) |
+| Dream Shogi 4K | 391863 | [391863-dream-shogi-4k.json](./391863-dream-shogi-4k.json) |
 | Dream Shopper | 39629 | [39629-dream-shopper.json](./39629-dream-shopper.json) |
 | Dream Slayers | 342032 | [342032-dream-slayers.json](./342032-dream-slayers.json) |
 | Dream Soccer '94 | 39627 | [39627-dream-soccer-94.json](./39627-dream-soccer-94.json) |
