@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majikoi! Love Me Seriously! | 65611 | [65611-majikoi-love-me-seriously.json](./65611-majikoi-love-me-seriously.json) |
 | Majin Tensei: Blind Thinker | 112319 | [112319-majin-tensei-blind-thinker.json](./112319-majin-tensei-blind-thinker.json) |
 | Majin Tensei: Blind Thinker II | 129140 | [129140-majin-tensei-blind-thinker-ii.json](./129140-majin-tensei-blind-thinker-ii.json) |
+| Majo | 413181 | [413181-majo.json](./413181-majo.json) |
 | Majo no Furo Life | 265640 | [265640-majo-no-furo-life.json](./265640-majo-no-furo-life.json) |
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
 | Majong | 138732 | [138732-majong.json](./138732-majong.json) |
@@ -4445,6 +4446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miskatonic University | 258007 | [258007-miskatonic-university.json](./258007-miskatonic-university.json) |
 | Misplaced | 172050 | [172050-misplaced.json](./172050-misplaced.json) |
 | Misplaced | 300034 | [300034-misplaced.json](./300034-misplaced.json) |
+| Misplaced | 413185 | [413185-misplaced.json](./413185-misplaced.json) |
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
 | Miss Bullard's School for Former Ladies | 184058 | [184058-miss-bullards-school-for-former-ladies.json](./184058-miss-bullards-school-for-former-ladies.json) |
 | Miss Clue: Formula for Danger | 200655 | [200655-miss-clue-formula-for-danger.json](./200655-miss-clue-formula-for-danger.json) |
@@ -6114,6 +6116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Right Simulator | 348795 | [348795-mr-right-simulator.json](./348795-mr-right-simulator.json) |
 | Mr Snuggles Dungeon Adventure | 310748 | [310748-mr-snuggles-dungeon-adventure.json](./310748-mr-snuggles-dungeon-adventure.json) |
 | Mr Tomato Adventures | 341342 | [341342-mr-tomato-adventures.json](./341342-mr-tomato-adventures.json) |
+| Mr Trippy | 413206 | [413206-mr-trippy.json](./413206-mr-trippy.json) |
 | Mr Twigs | 114435 | [114435-mr-twigs.json](./114435-mr-twigs.json) |
 | Mr White | 262073 | [262073-mr-white.json](./262073-mr-white.json) |
 | Mr Wino | 60246 | [60246-mr-wino.json](./60246-mr-wino.json) |
@@ -6385,6 +6388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder in a Wheel | 62153 | [62153-murder-in-a-wheel.json](./62153-murder-in-a-wheel.json) |
 | Murder in the Maze | 308418 | [308418-murder-in-the-maze.json](./308418-murder-in-the-maze.json) |
 | Murder Is Game Over: Deal Killer | 255750 | [255750-murder-is-game-over-deal-killer.json](./255750-murder-is-game-over-deal-killer.json) |
+| Murder Is Game Over: Final Fright | 413217 | [413217-murder-is-game-over-final-fright.json](./413217-murder-is-game-over-final-fright.json) |
 | Murder Is Game Over: Murder Otaku | 338721 | [338721-murder-is-game-over-murder-otaku.json](./338721-murder-is-game-over-murder-otaku.json) |
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
 | Murder Makes Strange Deadfellows | 73320 | [73320-murder-makes-strange-deadfellows.json](./73320-murder-makes-strange-deadfellows.json) |
