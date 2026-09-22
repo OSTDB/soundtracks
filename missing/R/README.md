@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain98 | 339805 | [339805-rain98.json](./339805-rain98.json) |
 | Rainbow | 359417 | [359417-rainbow.json](./359417-rainbow.json) |
 | Rainbow Aliceland | 206725 | [206725-rainbow-aliceland.json](./206725-rainbow-aliceland.json) |
+| Rainbow Billy: The Book of Fears | 391844 | [391844-rainbow-billy-the-book-of-fears.json](./391844-rainbow-billy-the-book-of-fears.json) |
 | Rainbow Breakout | 234166 | [234166-rainbow-breakout.json](./234166-rainbow-breakout.json) |
 | Rainbow City | 184571 | [184571-rainbow-city.json](./184571-rainbow-city.json) |
 | Rainbow Crown | 367471 | [367471-rainbow-crown.json](./367471-rainbow-crown.json) |
@@ -1659,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reimu's Weird little adventure | 153410 | [153410-reimus-weird-little-adventure.json](./153410-reimus-weird-little-adventure.json) |
 | Rein | 171543 | [171543-rein.json](./171543-rein.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
+| Reincarnator | 391887 | [391887-reincarnator.json](./391887-reincarnator.json) |
 | Reindeer Rescue | 68708 | [68708-reindeer-rescue.json](./68708-reindeer-rescue.json) |
 | Reindeer Story | 211798 | [211798-reindeer-story.json](./211798-reindeer-story.json) |
 | Reiner Knizia's Medici HD | 103540 | [103540-reiner-knizias-medici-hd.json](./103540-reiner-knizias-medici-hd.json) |
@@ -2914,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of Passage: The Lost Tides HD | 100231 | [100231-rite-of-passage-the-lost-tides-hd.json](./100231-rite-of-passage-the-lost-tides-hd.json) |
 | Rite of Titans | 220706 | [220706-rite-of-titans.json](./220706-rite-of-titans.json) |
 | Ritenuto | 353875 | [353875-ritenuto.json](./353875-ritenuto.json) |
+| Ritsu Reasoning 2 Lost Memories | 391862 | [391862-ritsu-reasoning-2-lost-memories.json](./391862-ritsu-reasoning-2-lost-memories.json) |
 | Rittai Ninja Katsugeki Tenchu: Shinobi Gaisen | 64910 | [64910-rittai-ninja-katsugeki-tenchu-shinobi-gaisen.json](./64910-rittai-ninja-katsugeki-tenchu-shinobi-gaisen.json) |
 | Rittai Ninja Katsugeki Tenchu: Shinobi Hyakusen | 64911 | [64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json](./64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json) |
 | Rittai-ban: Yuugeki-oh | 333952 | [333952-rittai-ban-yuugeki-oh.json](./333952-rittai-ban-yuugeki-oh.json) |
