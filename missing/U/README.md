@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unmatched: Digital Edition - Yukon | 248715 | [248715-unmatched-digital-edition-yukon.json](./248715-unmatched-digital-edition-yukon.json) |
 | Unmaze | 159363 | [159363-unmaze.json](./159363-unmaze.json) |
 | Unmemory | 131565 | [131565-unmemory.json](./131565-unmemory.json) |
+| Unmixable Syrup | 404404 | [404404-unmixable-syrup.json](./404404-unmixable-syrup.json) |
 | Unmoor | 89341 | [89341-unmoor.json](./89341-unmoor.json) |
 | Unnamed Arcade | 338586 | [338586-unnamed-arcade.json](./338586-unnamed-arcade.json) |
 | Unnamed El Shaddai Project | 93535 | [93535-unnamed-el-shaddai-project.json](./93535-unnamed-el-shaddai-project.json) |
@@ -1245,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uta no Prince-sama: Amazing Aria & Sweet Serenade Love | 136840 | [136840-uta-no-prince-sama-amazing-aria-and-sweet-serenade-love.json](./136840-uta-no-prince-sama-amazing-aria-and-sweet-serenade-love.json) |
 | Uta no Prince-sama: Dolce Vita | 222999 | [222999-uta-no-prince-sama-dolce-vita.json](./222999-uta-no-prince-sama-dolce-vita.json) |
 | Uta no Prince-sama: Live Emotion | 305368 | [305368-uta-no-prince-sama-live-emotion.json](./305368-uta-no-prince-sama-live-emotion.json) |
+| Uta Quta | 404450 | [404450-uta-quta.json](./404450-uta-quta.json) |
 | Utakata no R: Kako-hen Awayuki | 221743 | [221743-utakata-no-r-kako-hen-awayuki.json](./221743-utakata-no-r-kako-hen-awayuki.json) |
 | Utawarerumono | 24080 | [24080-utawarerumono.json](./24080-utawarerumono.json) |
 | Utawarerumono: Past and Present Rediscovered | 387541 | [387541-utawarerumono-past-and-present-rediscovered.json](./387541-utawarerumono-past-and-present-rediscovered.json) |
