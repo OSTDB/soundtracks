@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baculus | 140599 | [140599-baculus.json](./140599-baculus.json) |
 | Bad 2 Bad: Apocalypse | 239913 | [239913-bad-2-bad-apocalypse.json](./239913-bad-2-bad-apocalypse.json) |
 | Bad 2 Bad: Delta | 96000 | [96000-bad-2-bad-delta.json](./96000-bad-2-bad-delta.json) |
+| Bad Apple Wars | 12884 | [12884-bad-apple-wars.json](./12884-bad-apple-wars.json) |
 | Bad Apples | 141636 | [141636-bad-apples.json](./141636-bad-apples.json) |
 | Bad Bad | 195235 | [195235-bad-bad.json](./195235-bad-bad.json) |
 | Bad Bitch Blasters | 337996 | [337996-bad-bitch-blasters.json](./337996-bad-bitch-blasters.json) |
@@ -1180,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Return to Arkham | 19245 | [19245-batman-return-to-arkham.json](./19245-batman-return-to-arkham.json) |
 | Batman: Return to Arkham - Arkham City | 203435 | [203435-batman-return-to-arkham-arkham-city.json](./203435-batman-return-to-arkham-arkham-city.json) |
 | Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
+| Batman: The Caped Crusader | 12401 | [12401-batman-the-caped-crusader.json](./12401-batman-the-caped-crusader.json) |
 | Batman: The Enemy Within | 51525 | [51525-batman-the-enemy-within.json](./51525-batman-the-enemy-within.json) |
 | Batman: The Enemy Within - Episode 3: Fractured Mask | 80910 | [80910-batman-the-enemy-within-episode-3-fractured-mask.json](./80910-batman-the-enemy-within-episode-3-fractured-mask.json) |
 | Batman: The Enemy Within - Episode 4: What Ails You | 81123 | [81123-batman-the-enemy-within-episode-4-what-ails-you.json](./81123-batman-the-enemy-within-episode-4-what-ails-you.json) |
@@ -1666,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Rules | 81784 | [81784-beach-rules.json](./81784-beach-rules.json) |
 | Beach Secrets | 312172 | [312172-beach-secrets.json](./312172-beach-secrets.json) |
 | Beach-Head | 8526 | [8526-beach-head.json](./8526-beach-head.json) |
+| Beach-Head II | 13389 | [13389-beach-head-ii.json](./13389-beach-head-ii.json) |
 | Beachcomber | 333945 | [333945-beachcomber.json](./333945-beachcomber.json) |
 | Beachcomber | 388924 | [388924-beachcomber.json](./388924-beachcomber.json) |
 | Beachgirl Dreams | 337159 | [337159-beachgirl-dreams.json](./337159-beachgirl-dreams.json) |
@@ -2713,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biomeinoes | 275877 | [275877-biomeinoes.json](./275877-biomeinoes.json) |
 | BioMenace Remastered | 373528 | [373528-biomenace-remastered.json](./373528-biomenace-remastered.json) |
 | Biomes: Survival Era | 217412 | [217412-biomes-survival-era.json](./217412-biomes-survival-era.json) |
+| BioMetal | 10685 | [10685-biometal.json](./10685-biometal.json) |
 | Biomisland | 199578 | [199578-biomisland.json](./199578-biomisland.json) |
 | Biomorph | 213287 | [213287-biomorph.json](./213287-biomorph.json) |
 | Bionic Attack | 36527 | [36527-bionic-attack.json](./36527-bionic-attack.json) |
@@ -4131,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb It 4 | 191115 | [191115-bomb-it-4.json](./191115-bomb-it-4.json) |
 | Bomb It 5 | 191116 | [191116-bomb-it-5.json](./191116-bomb-it-5.json) |
 | Bomb It 7 | 387553 | [387553-bomb-it-7.json](./387553-bomb-it-7.json) |
+| Bomb Jack II | 13421 | [13421-bomb-jack-ii.json](./13421-bomb-jack-ii.json) |
 | Bomb Jack Twin | 39652 | [39652-bomb-jack-twin.json](./39652-bomb-jack-twin.json) |
 | Bomb Kitten | 370788 | [370788-bomb-kitten.json](./370788-bomb-kitten.json) |
 | Bomb Labyrinth | 99623 | [99623-bomb-labyrinth.json](./99623-bomb-labyrinth.json) |
