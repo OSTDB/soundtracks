@@ -2558,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Catch! | 262074 | [262074-the-catch.json](./262074-the-catch.json) |
 | The Cats of Ulthar | 182557 | [182557-the-cats-of-ulthar.json](./182557-the-cats-of-ulthar.json) |
 | The Cave | 2175 | [2175-the-cave.json](./2175-the-cave.json) |
+| The Cave Exit | 410444 | [410444-the-cave-exit.json](./410444-the-cave-exit.json) |
 | The Cave of Atman | 179066 | [179066-the-cave-of-atman.json](./179066-the-cave-of-atman.json) |
 | The Cave of Magic | 413648 | [413648-the-cave-of-magic.json](./413648-the-cave-of-magic.json) |
 | The Celestial Tales | 275689 | [275689-the-celestial-tales.json](./275689-the-celestial-tales.json) |
@@ -2679,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colony | 178020 | [178020-the-colony.json](./178020-the-colony.json) |
 | The Colored Moth | 184070 | [184070-the-colored-moth.json](./184070-the-colored-moth.json) |
 | The Colorful Biplane | 377719 | [377719-the-colorful-biplane.json](./377719-the-colorful-biplane.json) |
+| The Colors of Love: Re-Colored | 410442 | [410442-the-colors-of-love-re-colored.json](./410442-the-colors-of-love-re-colored.json) |
 | The Colossus Is Coming: The Interactive Experience | 180287 | [180287-the-colossus-is-coming-the-interactive-experience.json](./180287-the-colossus-is-coming-the-interactive-experience.json) |
 | The Colour Beyond: A Zeroth Kind | 409590 | [409590-the-colour-beyond-a-zeroth-kind.json](./409590-the-colour-beyond-a-zeroth-kind.json) |
 | The Coma 2: Vicious Sisters | 121617 | [121617-the-coma-2-vicious-sisters.json](./121617-the-coma-2-vicious-sisters.json) |
@@ -2815,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cult of Chanseville | 211820 | [211820-the-cult-of-chanseville.json](./211820-the-cult-of-chanseville.json) |
 | The Cult: Marduk's Longest Night | 121742 | [121742-the-cult-marduks-longest-night.json](./121742-the-cult-marduks-longest-night.json) |
 | The Cup | 114805 | [114805-the-cup.json](./114805-the-cup.json) |
+| The Cup | 410475 | [410475-the-cup.json](./410475-the-cup.json) |
 | The Curator | 137668 | [137668-the-curator.json](./137668-the-curator.json) |
 | The Curator | 343331 | [343331-the-curator.json](./343331-the-curator.json) |
 | The Cure | 184647 | [184647-the-cure.json](./184647-the-cure.json) |
@@ -4221,6 +4224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Larper | 402988 | [402988-the-larper.json](./402988-the-larper.json) |
 | The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
 | The Last Airbender | 7983 | [7983-the-last-airbender.json](./7983-the-last-airbender.json) |
+| The Last Ball | 410474 | [410474-the-last-ball.json](./410474-the-last-ball.json) |
 | The last Baron's stunt | 89652 | [89652-the-last-barons-stunt.json](./89652-the-last-barons-stunt.json) |
 | The Last Bastion | 188504 | [188504-the-last-bastion.json](./188504-the-last-bastion.json) |
 | The Last Birdling | 44162 | [44162-the-last-birdling.json](./44162-the-last-birdling.json) |
@@ -5109,6 +5113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Offering | 238754 | [238754-the-offering.json](./238754-the-offering.json) |
 | The Office | 203564 | [203564-the-office.json](./203564-the-office.json) |
 | The Office Killer | 344386 | [344386-the-office-killer.json](./344386-the-office-killer.json) |
+| The Ogre King | 410446 | [410446-the-ogre-king.json](./410446-the-ogre-king.json) |
 | The Oily Depths | 318414 | [318414-the-oily-depths.json](./318414-the-oily-depths.json) |
 | The Old Barn | 325287 | [325287-the-old-barn.json](./325287-the-old-barn.json) |
 | The Old Forest | 199588 | [199588-the-old-forest.json](./199588-the-old-forest.json) |
@@ -5538,6 +5543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rocketeer | 136871 | [136871-the-rocketeer.json](./136871-the-rocketeer.json) |
 | The Rocky Horror Show Video Game | 319648 | [319648-the-rocky-horror-show-video-game.json](./319648-the-rocky-horror-show-video-game.json) |
 | The Rodionov postulate (pale-particle duality) | 376607 | [376607-the-rodionov-postulate-pale-particle-duality.json](./376607-the-rodionov-postulate-pale-particle-duality.json) |
+| The Rogue | 410447 | [410447-the-rogue.json](./410447-the-rogue.json) |
 | The Rolling Edge | 26966 | [26966-the-rolling-edge.json](./26966-the-rolling-edge.json) |
 | The Rolling Room | 309893 | [309893-the-rolling-room.json](./309893-the-rolling-room.json) |
 | The Rollingball's Melody | 34308 | [34308-the-rollingballs-melody.json](./34308-the-rollingballs-melody.json) |
@@ -6176,6 +6182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Talos Principle: Gold Edition | 53774 | [53774-the-talos-principle-gold-edition.json](./53774-the-talos-principle-gold-edition.json) |
 | The Tarkiff Transfer Incident | 231370 | [231370-the-tarkiff-transfer-incident.json](./231370-the-tarkiff-transfer-incident.json) |
 | The Tarot Experience VR | 257684 | [257684-the-tarot-experience-vr.json](./257684-the-tarot-experience-vr.json) |
+| The Tartarus Loop | 410449 | [410449-the-tartarus-loop.json](./410449-the-tartarus-loop.json) |
 | The Tavern Online. | 214767 | [214767-the-tavern-online.json](./214767-the-tavern-online.json) |
 | The Tear | 115005 | [115005-the-tear.json](./115005-the-tear.json) |
 | The Teeth | 210650 | [210650-the-teeth.json](./210650-the-teeth.json) |
