@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verticality | 306971 | [306971-verticality.json](./306971-verticality.json) |
 | Vertig8 | 303071 | [303071-vertig8.json](./303071-vertig8.json) |
 | Vertigo | 171501 | [171501-vertigo.json](./171501-vertigo.json) |
+| Vertigo | 26620 | [26620-vertigo.json](./26620-vertigo.json) |
 | Vertigo | 42850 | [42850-vertigo.json](./42850-vertigo.json) |
 | Vertigo 2: Into the Aether | 325823 | [325823-vertigo-2-into-the-aether.json](./325823-vertigo-2-into-the-aether.json) |
 | Vertigrowl | 338571 | [338571-vertigrowl.json](./338571-vertigrowl.json) |
