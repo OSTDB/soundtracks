@@ -1629,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlezone 98 Redux: The Red Odyssey | 124824 | [124824-battlezone-98-redux-the-red-odyssey.json](./124824-battlezone-98-redux-the-red-odyssey.json) |
 | Battlezone: Rise of the Black Dogs | 3423 | [3423-battlezone-rise-of-the-black-dogs.json](./3423-battlezone-rise-of-the-black-dogs.json) |
 | Battlezone: The Red Odyssey | 238590 | [238590-battlezone-the-red-odyssey.json](./238590-battlezone-the-red-odyssey.json) |
+| Battlot | 404418 | [404418-battlot.json](./404418-battlot.json) |
 | Batty Shadowless Adventures | 374065 | [374065-batty-shadowless-adventures.json](./374065-batty-shadowless-adventures.json) |
 | Batya | 126638 | [126638-batya.json](./126638-batya.json) |
 | Bauer | 189133 | [189133-bauer.json](./189133-bauer.json) |
@@ -1642,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayonetta 2: First Print Edition | 51187 | [51187-bayonetta-2-first-print-edition.json](./51187-bayonetta-2-first-print-edition.json) |
 | Bazaar | 19033 | [19033-bazaar.json](./19033-bazaar.json) |
 | Bazaar Simulator | 312155 | [312155-bazaar-simulator.json](./312155-bazaar-simulator.json) |
+| Bazar Don JC | 404447 | [404447-bazar-don-jc.json](./404447-bazar-don-jc.json) |
 | Bazar Simulator Online | 377169 | [377169-bazar-simulator-online.json](./377169-bazar-simulator-online.json) |
 | Bazar Simulator: The Wan Story | 331338 | [331338-bazar-simulator-the-wan-story.json](./331338-bazar-simulator-the-wan-story.json) |
 | Bazooka Blitzkrieg | 42627 | [42627-bazooka-blitzkrieg.json](./42627-bazooka-blitzkrieg.json) |
@@ -2670,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiards Champ 3D | 146731 | [146731-billiards-champ-3d.json](./146731-billiards-champ-3d.json) |
 | Billiards Dungeon | 149079 | [149079-billiards-dungeon.json](./149079-billiards-dungeon.json) |
 | Billiards II Simulator | 14305 | [14305-billiards-ii-simulator.json](./14305-billiards-ii-simulator.json) |
+| Billiards Night Out | 404452 | [404452-billiards-night-out.json](./404452-billiards-night-out.json) |
 | Billiards Simulator | 14304 | [14304-billiards-simulator.json](./14304-billiards-simulator.json) |
 | Billiards Wizards | 81752 | [81752-billiards-wizards.json](./81752-billiards-wizards.json) |
 | Billiards Xciting | 78000 | [78000-billiards-xciting.json](./78000-billiards-xciting.json) |
