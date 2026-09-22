@@ -1787,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsuo Gaiden | 46565 | [46565-tetsuo-gaiden.json](./46565-tetsuo-gaiden.json) |
 | Teuflisch gute Spiele | 92304 | [92304-teuflisch-gute-spiele.json](./92304-teuflisch-gute-spiele.json) |
 | Tex Murphy: Mean Streets + Martian Memorandum | 83575 | [83575-tex-murphy-mean-streets-martian-memorandum.json](./83575-tex-murphy-mean-streets-martian-memorandum.json) |
+| Tex Murphy: Overseer | 5544 | [5544-tex-murphy-overseer.json](./5544-tex-murphy-overseer.json) |
 | Texas Butcher | 125257 | [125257-texas-butcher.json](./125257-texas-butcher.json) |
 | Texas Chainsaw Dodge | 307613 | [307613-texas-chainsaw-dodge.json](./307613-texas-chainsaw-dodge.json) |
 | Texas Hold 'Em Poker | 131511 | [131511-texas-hold-em-poker.json](./131511-texas-hold-em-poker.json) |
@@ -2247,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Berenstain Bears and the Spooky Old Tree | 49311 | [49311-the-berenstain-bears-and-the-spooky-old-tree.json](./49311-the-berenstain-bears-and-the-spooky-old-tree.json) |
 | The Berenstain Bears: Learning At Home, Volume One | 71548 | [71548-the-berenstain-bears-learning-at-home-volume-one.json](./71548-the-berenstain-bears-learning-at-home-volume-one.json) |
 | The Berks Trilogy | 60517 | [60517-the-berks-trilogy.json](./60517-the-berks-trilogy.json) |
+| The Berlin Apartment | 290052 | [290052-the-berlin-apartment.json](./290052-the-berlin-apartment.json) |
 | The Berlin Wall | 39615 | [39615-the-berlin-wall.json](./39615-the-berlin-wall.json) |
 | The Berlin Wall | 97910 | [97910-the-berlin-wall.json](./97910-the-berlin-wall.json) |
 | The Bermuda Triangle | 58843 | [58843-the-bermuda-triangle.json](./58843-the-bermuda-triangle.json) |
@@ -2285,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Billionaire's Baby | 313890 | [313890-the-billionaires-baby.json](./313890-the-billionaires-baby.json) |
 | The Binding of Isaac: Afterbirth | 13177 | [13177-the-binding-of-isaac-afterbirth.json](./13177-the-binding-of-isaac-afterbirth.json) |
 | The Binding of Isaac: Epiphany | 223039 | [223039-the-binding-of-isaac-epiphany.json](./223039-the-binding-of-isaac-epiphany.json) |
+| The Binding of Isaac: Repentance | 310643 | [310643-the-binding-of-isaac-repentance.json](./310643-the-binding-of-isaac-repentance.json) |
 | The Binding of You | 83551 | [83551-the-binding-of-you.json](./83551-the-binding-of-you.json) |
 | The Biorift | 376550 | [376550-the-biorift.json](./376550-the-biorift.json) |
 | The Bird Museum | 182545 | [182545-the-bird-museum.json](./182545-the-bird-museum.json) |
@@ -3556,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Emu War of 1932 | 336566 | [336566-the-great-emu-war-of-1932.json](./336566-the-great-emu-war-of-1932.json) |
 | The Great Escape | 28852 | [28852-the-great-escape.json](./28852-the-great-escape.json) |
 | The Great Escape | 310406 | [310406-the-great-escape.json](./310406-the-great-escape.json) |
+| The Great Escape | 5853 | [5853-the-great-escape.json](./5853-the-great-escape.json) |
 | The Great Farce | 318176 | [318176-the-great-farce.json](./318176-the-great-farce.json) |
 | The Great Fear | 260650 | [260650-the-great-fear.json](./260650-the-great-fear.json) |
 | The Great Flood | 380563 | [380563-the-great-flood.json](./380563-the-great-flood.json) |
