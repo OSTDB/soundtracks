@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Worlds | 130877 | [130877-our-worlds.json](./130877-our-worlds.json) |
 | Ouroboros | 230408 | [230408-ouroboros.json](./230408-ouroboros.json) |
 | Ouroboros Saiaku.exe: Crazy for you | 358363 | [358363-ouroboros-saiaku-exe-crazy-for-you.json](./358363-ouroboros-saiaku-exe-crazy-for-you.json) |
+| Ouroboros Solitaire | 405689 | [405689-ouroboros-solitaire.json](./405689-ouroboros-solitaire.json) |
 | Ouroboros: Prelude | 68604 | [68604-ouroboros-prelude.json](./68604-ouroboros-prelude.json) |
 | Ouros | 258726 | [258726-ouros.json](./258726-ouros.json) |
 | Out and About | 161379 | [161379-out-and-about.json](./161379-out-and-about.json) |
