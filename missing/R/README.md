@@ -2303,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution Editions: Shadow & Steel | 361790 | [361790-revolution-editions-shadow-and-steel.json](./361790-revolution-editions-shadow-and-steel.json) |
 | Revolution Idle | 297876 | [297876-revolution-idle.json](./297876-revolution-idle.json) |
 | Revolution: The Spark | 143659 | [143659-revolution-the-spark.json](./143659-revolution-the-spark.json) |
+| Revolution: Virtual Playspace | 34829 | [34829-revolution-virtual-playspace.json](./34829-revolution-virtual-playspace.json) |
 | Revolve | 26722 | [26722-revolve.json](./26722-revolve.json) |
 | Revolver and Co | 152759 | [152759-revolver-and-co.json](./152759-revolver-and-co.json) |
 | Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
