@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad But Ded | 185527 | [185527-sad-but-ded.json](./185527-sad-but-ded.json) |
 | Sad Ghouls | 194655 | [194655-sad-ghouls.json](./194655-sad-ghouls.json) |
 | Sad RPG | 124135 | [124135-sad-rpg.json](./124135-sad-rpg.json) |
+| Sad Virus Darkland | 412510 | [412510-sad-virus-darkland.json](./412510-sad-virus-darkland.json) |
 | Sad Virus Foodland | 367389 | [367389-sad-virus-foodland.json](./367389-sad-virus-foodland.json) |
 | Sad Virus Land | 366318 | [366318-sad-virus-land.json](./366318-sad-virus-land.json) |
 | Sad Virus Military | 398324 | [398324-sad-virus-military.json](./398324-sad-virus-military.json) |
@@ -5317,6 +5318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snooze Control | 416094 | [416094-snooze-control.json](./416094-snooze-control.json) |
 | Snooze or Lose | 276718 | [276718-snooze-or-lose.json](./276718-snooze-or-lose.json) |
 | Snops Attack! Zombie Defense | 240495 | [240495-snops-attack-zombie-defense.json](./240495-snops-attack-zombie-defense.json) |
+| Snot Pop! | 412499 | [412499-snot-pop.json](./412499-snot-pop.json) |
 | Snot Put | 270761 | [270761-snot-put.json](./270761-snot-put.json) |
 | SnOut 2 | 192827 | [192827-snout-2.json](./192827-snout-2.json) |
 | Snow Angel | 264127 | [264127-snow-angel.json](./264127-snow-angel.json) |
@@ -9324,6 +9326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick It! | 312183 | [312183-stick-it.json](./312183-stick-it.json) |
 | Stick man Flipper | 112742 | [112742-stick-man-flipper.json](./112742-stick-man-flipper.json) |
 | Stick Man Rescue | 44501 | [44501-stick-man-rescue.json](./44501-stick-man-rescue.json) |
+| Stick Mountain | 412503 | [412503-stick-mountain.json](./412503-stick-mountain.json) |
 | Stick Nightmare | 41971 | [41971-stick-nightmare.json](./41971-stick-nightmare.json) |
 | Stick Ninja | 122154 | [122154-stick-ninja.json](./122154-stick-ninja.json) |
 | Stick or Stone? | 176457 | [176457-stick-or-stone.json](./176457-stick-or-stone.json) |
