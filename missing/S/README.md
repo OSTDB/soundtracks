@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga of the Moon Priestess | 274507 | [274507-saga-of-the-moon-priestess.json](./274507-saga-of-the-moon-priestess.json) |
 | Saga of the Nine Worlds: The Gathering | 74311 | [74311-saga-of-the-nine-worlds-the-gathering.json](./74311-saga-of-the-nine-worlds-the-gathering.json) |
 | Saga of the Shattered Swords | 249267 | [249267-saga-of-the-shattered-swords.json](./249267-saga-of-the-shattered-swords.json) |
+| SaGa: Emerald Beyond | 266681 | [266681-saga-emerald-beyond.json](./266681-saga-emerald-beyond.json) |
 | SaGa: Scarlet Grace - Ambitions | 119373 | [119373-saga-scarlet-grace-ambitions.json](./119373-saga-scarlet-grace-ambitions.json) |
 | SaGa: Scarlet Grace - Hiiro no Yabou | 97908 | [97908-saga-scarlet-grace-hiiro-no-yabou.json](./97908-saga-scarlet-grace-hiiro-no-yabou.json) |
 | SaGaS | 272938 | [272938-sagas.json](./272938-sagas.json) |
@@ -2399,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows in Silence | 285574 | [285574-shadows-in-silence.json](./285574-shadows-in-silence.json) |
 | Shadows in the Dark | 217335 | [217335-shadows-in-the-dark.json](./217335-shadows-in-the-dark.json) |
 | Shadows in the Silence | 374081 | [374081-shadows-in-the-silence.json](./374081-shadows-in-the-silence.json) |
+| Shadows Labyrinth | 272926 | [272926-shadows-labyrinth.json](./272926-shadows-labyrinth.json) |
 | Shadows Light | 110783 | [110783-shadows-light.json](./110783-shadows-light.json) |
 | Shadows of a Sunless World | 183063 | [183063-shadows-of-a-sunless-world.json](./183063-shadows-of-a-sunless-world.json) |
 | Shadows of Adam | 27445 | [27445-shadows-of-adam.json](./27445-shadows-of-adam.json) |
@@ -2893,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Pokemon: Red Version | 275104 | [275104-shin-pokemon-red-version.json](./275104-shin-pokemon-red-version.json) |
 | Shin Super Robot Taisen | 43908 | [43908-shin-super-robot-taisen.json](./43908-shin-super-robot-taisen.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
+| Shin-chan: Shiro and the Coal Town | 266712 | [266712-shin-chan-shiro-and-the-coal-town.json](./266712-shin-chan-shiro-and-the-coal-town.json) |
 | Shine of Fullmoon | 264148 | [264148-shine-of-fullmoon.json](./264148-shine-of-fullmoon.json) |
 | Shine On, My Little Sun | 320147 | [320147-shine-on-my-little-sun.json](./320147-shine-on-my-little-sun.json) |
 | Shine Post: Be Your Idol! | 217964 | [217964-shine-post-be-your-idol.json](./217964-shine-post-be-your-idol.json) |
@@ -3222,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotdogs | 210096 | [210096-shotdogs.json](./210096-shotdogs.json) |
 | Shotgun Angelic | 183428 | [183428-shotgun-angelic.json](./183428-shotgun-angelic.json) |
 | Shotgun Club | 260705 | [260705-shotgun-club.json](./260705-shotgun-club.json) |
+| Shotgun Cop Man | 332568 | [332568-shotgun-cop-man.json](./332568-shotgun-cop-man.json) |
 | ShotGun Exorcist | 270200 | [270200-shotgun-exorcist.json](./270200-shotgun-exorcist.json) |
 | Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
 | Shotgun Science | 365155 | [365155-shotgun-science.json](./365155-shotgun-science.json) |
@@ -3483,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigma Draconis | 133450 | [133450-sigma-draconis.json](./133450-sigma-draconis.json) |
 | Sigma Harmonics | 24946 | [24946-sigma-harmonics.json](./24946-sigma-harmonics.json) |
 | Sigma Impact | 159799 | [159799-sigma-impact.json](./159799-sigma-impact.json) |
+| Sigma Star Saga DX | 375606 | [375606-sigma-star-saga-dx.json](./375606-sigma-star-saga-dx.json) |
 | Sigma Theory: Global Cold War - Brazil | 155089 | [155089-sigma-theory-global-cold-war-brazil.json](./155089-sigma-theory-global-cold-war-brazil.json) |
 | Sigma Theory: Global Cold War - Deluxe Edition | 124827 | [124827-sigma-theory-global-cold-war-deluxe-edition.json](./124827-sigma-theory-global-cold-war-deluxe-edition.json) |
 | Sigma-X | 256914 | [256914-sigma-x.json](./256914-sigma-x.json) |
@@ -6429,6 +6434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulSide | 190703 | [190703-soulside.json](./190703-soulside.json) |
 | Soulslayer | 46461 | [46461-soulslayer.json](./46461-soulslayer.json) |
 | Soulslinger | 223041 | [223041-soulslinger.json](./223041-soulslinger.json) |
+| Soulslinger: Envoy of Death | 259147 | [259147-soulslinger-envoy-of-death.json](./259147-soulslinger-envoy-of-death.json) |
 | Soulstice: Deluxe Edition | 201781 | [201781-soulstice-deluxe-edition.json](./201781-soulstice-deluxe-edition.json) |
 | Soulstone Survivors | 210585 | [210585-soulstone-survivors.json](./210585-soulstone-survivors.json) |
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
@@ -8325,6 +8331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: The Next Generation - Klingon Honor Guard | 84216 | [84216-star-trek-the-next-generation-klingon-honor-guard.json](./84216-star-trek-the-next-generation-klingon-honor-guard.json) |
 | Star Trek: The Next Generation - The Transinium Challenge | 69214 | [69214-star-trek-the-next-generation-the-transinium-challenge.json](./69214-star-trek-the-next-generation-the-transinium-challenge.json) |
 | Star Trek: The Rebel Universe | 15376 | [15376-star-trek-the-rebel-universe.json](./15376-star-trek-the-rebel-universe.json) |
+| Star Trek: Voyager - Across the Unknown | 362088 | [362088-star-trek-voyager-across-the-unknown.json](./362088-star-trek-voyager-across-the-unknown.json) |
 | Star Trek: Voyager - Elite Force Expansion Pack | 77313 | [77313-star-trek-voyager-elite-force-expansion-pack.json](./77313-star-trek-voyager-elite-force-expansion-pack.json) |
 | Star Trigon | 54399 | [54399-star-trigon.json](./54399-star-trigon.json) |
 | Star Trooper | 326580 | [326580-star-trooper.json](./326580-star-trooper.json) |
@@ -8519,6 +8526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfall: Operation Outro | 298037 | [298037-starfall-operation-outro.json](./298037-starfall-operation-outro.json) |
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
 | Starfield: Rev-8 | 314267 | [314267-starfield-rev-8.json](./314267-starfield-rev-8.json) |
+| Starfield: Shattered Space | 263480 | [263480-starfield-shattered-space.json](./263480-starfield-shattered-space.json) |
 | StarFight VI - Gatekeepers | 132040 | [132040-starfight-vi-gatekeepers.json](./132040-starfight-vi-gatekeepers.json) |
 | Starfighter | 138158 | [138158-starfighter.json](./138158-starfighter.json) |
 | Starfighter | 55881 | [55881-starfighter.json](./55881-starfighter.json) |
@@ -10936,6 +10944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. SNES Days 2 | 321585 | [321585-super-mario-bros-snes-days-2.json](./321585-super-mario-bros-snes-days-2.json) |
 | Super Mario Bros. Star Scramble 2: Ghost Island | 215251 | [215251-super-mario-bros-star-scramble-2-ghost-island.json](./215251-super-mario-bros-star-scramble-2-ghost-island.json) |
 | Super Mario Bros. Wonder | 254339 | [254339-super-mario-bros-wonder.json](./254339-super-mario-bros-wonder.json) |
+| Super Mario Bros. Wonder: Nintendo Switch 2 Edition + Meetup in Bellabel Park | 366881 | [366881-super-mario-bros-wonder-nintendo-switch-2-edition-meetup-in-bellabel-park.json](./366881-super-mario-bros-wonder-nintendo-switch-2-edition-meetup-in-bellabel-park.json) |
 | Super Mario Bros. Wonderland 1987 | 307720 | [307720-super-mario-bros-wonderland-1987.json](./307720-super-mario-bros-wonderland-1987.json) |
 | Super Mario Bros.: Raiders of the Painting Realms | 323897 | [323897-super-mario-bros-raiders-of-the-painting-realms.json](./323897-super-mario-bros-raiders-of-the-painting-realms.json) |
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
@@ -10991,6 +11000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Outbreak | 198557 | [198557-super-mario-outbreak.json](./198557-super-mario-outbreak.json) |
 | Super Mario Panic | 331984 | [331984-super-mario-panic.json](./331984-super-mario-panic.json) |
 | Super Mario Party | 103339 | [103339-super-mario-party.json](./103339-super-mario-party.json) |
+| Super Mario Party Jamboree: Nintendo Switch 2 Edition + Jamboree TV | 338071 | [338071-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv.json](./338071-super-mario-party-jamboree-nintendo-switch-2-edition-jamboree-tv.json) |
 | Super Mario Prostate Exam | 323900 | [323900-super-mario-prostate-exam.json](./323900-super-mario-prostate-exam.json) |
 | Super Mario RPG 2 | 231474 | [231474-super-mario-rpg-2.json](./231474-super-mario-rpg-2.json) |
 | Super Mario RPG: Legend of the Seven Stars | 5418 | [5418-super-mario-rpg-legend-of-the-seven-stars.json](./5418-super-mario-rpg-legend-of-the-seven-stars.json) |
