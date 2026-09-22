@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabulous Angela: New York to LA | 124171 | [124171-fabulous-angela-new-york-to-la.json](./124171-fabulous-angela-new-york-to-la.json) |
 | Fabulous Finds | 67652 | [67652-fabulous-finds.json](./67652-fabulous-finds.json) |
 | Fabulous Samurai Star | 256325 | [256325-fabulous-samurai-star.json](./256325-fabulous-samurai-star.json) |
+| Fabulous: Angela's Wedding Disaster | 99076 | [99076-fabulous-angelas-wedding-disaster.json](./99076-fabulous-angelas-wedding-disaster.json) |
 | Facada | 395036 | [395036-facada.json](./395036-facada.json) |
 | Façade | 11740 | [11740-facade.json](./11740-facade.json) |
 | Face | 87958 | [87958-face.json](./87958-face.json) |
@@ -1314,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fentanyl Edition | 327411 | [327411-fentanyl-edition.json](./327411-fentanyl-edition.json) |
 | Feodika | 382777 | [382777-feodika.json](./382777-feodika.json) |
 | Feral | 192323 | [192323-feral.json](./192323-feral.json) |
+| Feral Blue | 99078 | [99078-feral-blue.json](./99078-feral-blue.json) |
 | Feral Echoes | 351689 | [351689-feral-echoes.json](./351689-feral-echoes.json) |
 | Ferarum | 396366 | [396366-ferarum.json](./396366-ferarum.json) |
 | Fergus the Fly | 29641 | [29641-fergus-the-fly.json](./29641-fergus-the-fly.json) |
@@ -2821,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Florida Man: Hurricane Hijinks | 153377 | [153377-florida-man-hurricane-hijinks.json](./153377-florida-man-hurricane-hijinks.json) |
 | Florifer | 240307 | [240307-florifer.json](./240307-florifer.json) |
 | Floristry | 68956 | [68956-floristry.json](./68956-floristry.json) |
+| Flotilla 2 | 99064 | [99064-flotilla-2.json](./99064-flotilla-2.json) |
 | Flotus | 103480 | [103480-flotus.json](./103480-flotus.json) |
 | Flounder | 397709 | [397709-flounder.json](./397709-flounder.json) |
 | Flour Hour | 183033 | [183033-flour-hour.json](./183033-flour-hour.json) |
