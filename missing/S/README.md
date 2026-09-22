@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguó Qúnyīng Zhuán V | 143513 | [143513-sanguo-qunying-zhuan-v.json](./143513-sanguo-qunying-zhuan-v.json) |
 | Sānguó Qúnyīng Zhuán VI | 143520 | [143520-sanguo-qunying-zhuan-vi.json](./143520-sanguo-qunying-zhuan-vi.json) |
 | Sanguo Qunyingzhuan VII | 81260 | [81260-sanguo-qunyingzhuan-vii.json](./81260-sanguo-qunyingzhuan-vii.json) |
+| Sanguo Warriors VR | 99017 | [99017-sanguo-warriors-vr.json](./99017-sanguo-warriors-vr.json) |
 | Sānguó Yóuxiá Zhì | 83569 | [83569-sanguo-youxia-zhi.json](./83569-sanguo-youxia-zhi.json) |
 | Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
 | Sānguózhì Qúnyīng Zhuàn | 410976 | [410976-sanguozhi-qunying-zhuan.json](./410976-sanguozhi-qunying-zhuan.json) |
@@ -3678,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverstone | 388049 | [388049-silverstone.json](./388049-silverstone.json) |
 | Silversword | 101539 | [101539-silversword.json](./101539-silversword.json) |
 | Silverwood Bay: An Eleanor Grey Mystery | 291246 | [291246-silverwood-bay-an-eleanor-grey-mystery.json](./291246-silverwood-bay-an-eleanor-grey-mystery.json) |
+| Silverworld | 98770 | [98770-silverworld.json](./98770-silverworld.json) |
 | Silverybield Foss | 138778 | [138778-silverybield-foss.json](./138778-silverybield-foss.json) |
 | Sim Empire | 116820 | [116820-sim-empire.json](./116820-sim-empire.json) |
 | Sim Junta | 34748 | [34748-sim-junta.json](./34748-sim-junta.json) |
@@ -4416,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyweaver | 123039 | [123039-skyweaver.json](./123039-skyweaver.json) |
 | Skywire | 116128 | [116128-skywire.json](./116128-skywire.json) |
 | Skywire 2 | 280333 | [280333-skywire-2.json](./280333-skywire-2.json) |
+| Slab | 98708 | [98708-slab.json](./98708-slab.json) |
 | Slag | 70398 | [70398-slag.json](./70398-slag.json) |
 | Sláine: The Celtic Barbarian | 53163 | [53163-slaine-the-celtic-barbarian.json](./53163-slaine-the-celtic-barbarian.json) |
 | Slalom | 378177 | [378177-slalom.json](./378177-slalom.json) |
@@ -4566,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slendrina Must Die: The House | 321382 | [321382-slendrina-must-die-the-house.json](./321382-slendrina-must-die-the-house.json) |
 | Slendrina X | 233773 | [233773-slendrina-x.json](./233773-slendrina-x.json) |
 | Slendytubbies Ø | 332814 | [332814-slendytubbies.json](./332814-slendytubbies.json) |
+| Slice | 98705 | [98705-slice.json](./98705-slice.json) |
 | Slice 'Em Up! | 185130 | [185130-slice-em-up.json](./185130-slice-em-up.json) |
 | Slice & Dice | 176099 | [176099-slice-and-dice.json](./176099-slice-and-dice.json) |
 | Slice It! | 147957 | [147957-slice-it.json](./147957-slice-it.json) |
@@ -6624,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Battle Arena | 60231 | [60231-space-battle-arena.json](./60231-space-battle-arena.json) |
 | Space Battle: Humanity | 51507 | [51507-space-battle-humanity.json](./51507-space-battle-humanity.json) |
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
+| Space Battlecruiser | 99047 | [99047-space-battlecruiser.json](./99047-space-battlecruiser.json) |
 | Space Battlefield | 187979 | [187979-space-battlefield.json](./187979-space-battlefield.json) |
 | Space Beastz | 195078 | [195078-space-beastz.json](./195078-space-beastz.json) |
 | Space Beret | 30794 | [30794-space-beret.json](./30794-space-beret.json) |
@@ -6645,6 +6650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Candy | 125398 | [125398-space-candy.json](./125398-space-candy.json) |
 | Space Cantina | 259073 | [259073-space-cantina.json](./259073-space-cantina.json) |
 | Space Canyon | 40771 | [40771-space-canyon.json](./40771-space-canyon.json) |
+| Space Captain McCallery Episode 1: Crash Landing | 99160 | [99160-space-captain-mccallery-episode-1-crash-landing.json](./99160-space-captain-mccallery-episode-1-crash-landing.json) |
 | Space Captain McCallery Episode 3: The Weaponmaster's Challenge | 142381 | [142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json](./142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json) |
 | Space Captain vs Mega Robots | 28119 | [28119-space-captain-vs-mega-robots.json](./28119-space-captain-vs-mega-robots.json) |
 | Space Casual | 220625 | [220625-space-casual.json](./220625-space-casual.json) |
@@ -6997,6 +7003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacegirl | 147367 | [147367-spacegirl.json](./147367-spacegirl.json) |
 | Spacegirl 2038 | 159836 | [159836-spacegirl-2038.json](./159836-spacegirl-2038.json) |
 | Spacegore | 404967 | [404967-spacegore.json](./404967-spacegore.json) |
+| Spaceguy 2 | 98334 | [98334-spaceguy-2.json](./98334-spaceguy-2.json) |
 | Spaceguy III | 109749 | [109749-spaceguy-iii.json](./109749-spaceguy-iii.json) |
 | Spaceguy: Red Space | 111666 | [111666-spaceguy-red-space.json](./111666-spaceguy-red-space.json) |
 | SpaceInvasion | 196275 | [196275-spaceinvasion.json](./196275-spaceinvasion.json) |
