@@ -2055,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazeing Labyrinth | 57085 | [57085-the-amazeing-labyrinth.json](./57085-the-amazeing-labyrinth.json) |
 | The Amazing Adventures of ANSI Dude | 79231 | [79231-the-amazing-adventures-of-ansi-dude.json](./79231-the-amazing-adventures-of-ansi-dude.json) |
 | The Amazing American Circus: The Ringmaster's Edition | 159701 | [159701-the-amazing-american-circus-the-ringmasters-edition.json](./159701-the-amazing-american-circus-the-ringmasters-edition.json) |
+| The Amazing Brain Train! | 21379 | [21379-the-amazing-brain-train.json](./21379-the-amazing-brain-train.json) |
 | The Amazing Dare Dozen | 241471 | [241471-the-amazing-dare-dozen.json](./241471-the-amazing-dare-dozen.json) |
 | The Amazing Eternals | 31189 | [31189-the-amazing-eternals.json](./31189-the-amazing-eternals.json) |
 | The Amazing Fantastics | 58228 | [58228-the-amazing-fantastics.json](./58228-the-amazing-fantastics.json) |
@@ -3082,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The E Ball | 108416 | [108416-the-e-ball.json](./108416-the-e-ball.json) |
 | The EA Games Collection | 30219 | [30219-the-ea-games-collection.json](./30219-the-ea-games-collection.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
+| The Early Years of Flight | 21380 | [21380-the-early-years-of-flight.json](./21380-the-early-years-of-flight.json) |
 | The Earth Defend | 46674 | [46674-the-earth-defend.json](./46674-the-earth-defend.json) |
 | The Earth Dies Screaming | 22759 | [22759-the-earth-dies-screaming.json](./22759-the-earth-dies-screaming.json) |
 | The Earth Is Flat | 298144 | [298144-the-earth-is-flat.json](./298144-the-earth-is-flat.json) |
@@ -3295,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Farnese Hercules | 203308 | [203308-the-farnese-hercules.json](./203308-the-farnese-hercules.json) |
 | The Farside of Titan | 274182 | [274182-the-farside-of-titan.json](./274182-the-farside-of-titan.json) |
 | The Fast and The Furious | 152308 | [152308-the-fast-and-the-furious.json](./152308-the-fast-and-the-furious.json) |
+| The Fast and The Furious | 21383 | [21383-the-fast-and-the-furious.json](./21383-the-fast-and-the-furious.json) |
 | The Fast Journey | 276309 | [276309-the-fast-journey.json](./276309-the-fast-journey.json) |
 | The Fate of Baldr | 211209 | [211209-the-fate-of-baldr.json](./211209-the-fate-of-baldr.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
@@ -3569,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gold of the Aztecs | 12120 | [12120-the-gold-of-the-aztecs.json](./12120-the-gold-of-the-aztecs.json) |
 | The Golden Age | 213586 | [213586-the-golden-age.json](./213586-the-golden-age.json) |
 | The Golden Compass | 4892 | [4892-the-golden-compass.json](./4892-the-golden-compass.json) |
+| The Golden Horde | 21482 | [21482-the-golden-horde.json](./21482-the-golden-horde.json) |
 | The Golden Pearl | 179142 | [179142-the-golden-pearl.json](./179142-the-golden-pearl.json) |
 | The Golden Tower | 362911 | [362911-the-golden-tower.json](./362911-the-golden-tower.json) |
 | The Golf Club 2019 featuring PGA Tour | 91128 | [91128-the-golf-club-2019-featuring-pga-tour.json](./91128-the-golf-club-2019-featuring-pga-tour.json) |
@@ -8586,6 +8590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Walled City | 402258 | [402258-tokyo-walled-city.json](./402258-tokyo-walled-city.json) |
 | Tokyo Xtreme Racer Advance | 49341 | [49341-tokyo-xtreme-racer-advance.json](./49341-tokyo-xtreme-racer-advance.json) |
 | Tokyo Xtreme Racer Drift | 44632 | [44632-tokyo-xtreme-racer-drift.json](./44632-tokyo-xtreme-racer-drift.json) |
+| Tokyo Xtreme Racer Drift 2 | 21441 | [21441-tokyo-xtreme-racer-drift-2.json](./21441-tokyo-xtreme-racer-drift-2.json) |
 | Tokyo Xtreme Racer: Zero | 43289 | [43289-tokyo-xtreme-racer-zero.json](./43289-tokyo-xtreme-racer-zero.json) |
 | Tokyo Yakuza Idols: Save the Heart of a Rebel Girl | 406079 | [406079-tokyo-yakuza-idols-save-the-heart-of-a-rebel-girl.json](./406079-tokyo-yakuza-idols-save-the-heart-of-a-rebel-girl.json) |
 | Tokyo Yamanote Boys Black Vanilla Disc | 221958 | [221958-tokyo-yamanote-boys-black-vanilla-disc.json](./221958-tokyo-yamanote-boys-black-vanilla-disc.json) |
@@ -11008,6 +11013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsunami 2265 | 92831 | [92831-tsunami-2265.json](./92831-tsunami-2265.json) |
 | Tsunami Cruiser | 184655 | [184655-tsunami-cruiser.json](./184655-tsunami-cruiser.json) |
 | Tsunami Rider | 383939 | [383939-tsunami-rider.json](./383939-tsunami-rider.json) |
+| Tsunde Tsumi Kiss | 21450 | [21450-tsunde-tsumi-kiss.json](./21450-tsunde-tsumi-kiss.json) |
 | Tsundere Girls | 382282 | [382282-tsundere-girls.json](./382282-tsundere-girls.json) |
 | Tsundere Simulator 2 | 221389 | [221389-tsundere-simulator-2.json](./221389-tsundere-simulator-2.json) |
 | Tsuneko Apple | 318235 | [318235-tsuneko-apple.json](./318235-tsuneko-apple.json) |
