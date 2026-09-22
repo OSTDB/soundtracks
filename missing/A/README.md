@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Plague Tale: Requiem - Cloud Version | 206817 | [206817-a-plague-tale-requiem-cloud-version.json](./206817-a-plague-tale-requiem-cloud-version.json) |
 | A Plant's Life | 63845 | [63845-a-plants-life.json](./63845-a-plants-life.json) |
 | A Platformer for Ants | 82150 | [82150-a-platformer-for-ants.json](./82150-a-platformer-for-ants.json) |
+| A Playground Afternoon | 402490 | [402490-a-playground-afternoon.json](./402490-a-playground-afternoon.json) |
 | A Pocket Full of Slagford | 404950 | [404950-a-pocket-full-of-slagford.json](./404950-a-pocket-full-of-slagford.json) |
 | A Potion For Chamomile | 196859 | [196859-a-potion-for-chamomile.json](./196859-a-potion-for-chamomile.json) |
 | A Prelude to Chaos | 293248 | [293248-a-prelude-to-chaos.json](./293248-a-prelude-to-chaos.json) |
@@ -1458,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AKB1/48: Idol to Koishitara | 66373 | [66373-akb1-48-idol-to-koishitara.json](./66373-akb1-48-idol-to-koishitara.json) |
 | Akcionář II | 391053 | [391053-akcionar-ii.json](./391053-akcionar-ii.json) |
 | Akda | 81676 | [81676-akda.json](./81676-akda.json) |
+| Ake no Yosuga: Twilight Loop | 402477 | [402477-ake-no-yosuga-twilight-loop.json](./402477-ake-no-yosuga-twilight-loop.json) |
 | Akechi to Iu Otoko: A Danshaku-tei Satsujin Jiken | 340395 | [340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json](./340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json) |
 | Akeno's Veil | 343874 | [343874-akenos-veil.json](./343874-akenos-veil.json) |
 | Aker Fern | 143726 | [143726-aker-fern.json](./143726-aker-fern.json) |
@@ -3135,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalice | 172695 | [172695-anomalice.json](./172695-anomalice.json) |
 | Anomalies Detective | 325068 | [325068-anomalies-detective.json](./325068-anomalies-detective.json) |
 | Anomalistic Revolution | 226235 | [226235-anomalistic-revolution.json](./226235-anomalistic-revolution.json) |
+| Anomalith | 402530 | [402530-anomalith.json](./402530-anomalith.json) |
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
 | Anomaly 13 | 358296 | [358296-anomaly-13.json](./358296-anomaly-13.json) |
@@ -3646,6 +3649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arasuji de Kitaeru: Hayamimi no Susume DS | 269647 | [269647-arasuji-de-kitaeru-hayamimi-no-susume-ds.json](./269647-arasuji-de-kitaeru-hayamimi-no-susume-ds.json) |
 | Arasuji de Oboeru Sokudoku no Susume DS | 269646 | [269646-arasuji-de-oboeru-sokudoku-no-susume-ds.json](./269646-arasuji-de-oboeru-sokudoku-no-susume-ds.json) |
 | Arazok's Tomb | 14264 | [14264-arazoks-tomb.json](./14264-arazoks-tomb.json) |
+| ARB: Anomalous Research Bureau - Museum | 402499 | [402499-arb-anomalous-research-bureau-museum.json](./402499-arb-anomalous-research-bureau-museum.json) |
 | Arbalester | 39621 | [39621-arbalester.json](./39621-arbalester.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
 | Arborea: Magnicidio en la Corte | 316835 | [316835-arborea-magnicidio-en-la-corte.json](./316835-arborea-magnicidio-en-la-corte.json) |
