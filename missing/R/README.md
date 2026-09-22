@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Metamorphosis Candina | 409768 | [409768-re-metamorphosis-candina.json](./409768-re-metamorphosis-candina.json) |
 | Re:Monster | 241637 | [241637-re-monster.json](./241637-re-monster.json) |
 | Re:Ozma | 118162 | [118162-re-ozma.json](./118162-re-ozma.json) |
+| Re:Rite | 402518 | [402518-re-rite.json](./402518-re-rite.json) |
 | Re:Spite | 107644 | [107644-re-spite.json](./107644-re-spite.json) |
 | Re:Turn - One Way Trip | 138021 | [138021-re-turn-one-way-trip.json](./138021-re-turn-one-way-trip.json) |
 | Re:Vessel | 202321 | [202321-re-vessel.json](./202321-re-vessel.json) |
@@ -2066,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resurviv.biz: Battle Royale | 373642 | [373642-resurviv-biz-battle-royale.json](./373642-resurviv-biz-battle-royale.json) |
 | Resver | 392273 | [392273-resver.json](./392273-resver.json) |
 | Resync | 241489 | [241489-resync.json](./241489-resync.json) |
+| Retail Rivals | 402476 | [402476-retail-rivals.json](./402476-retail-rivals.json) |
 | Retale | 307749 | [307749-retale.json](./307749-retale.json) |
 | Retaliate | 300810 | [300810-retaliate.json](./300810-retaliate.json) |
 | Retention | 36028 | [36028-retention.json](./36028-retention.json) |
@@ -3494,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Planet | 197343 | [197343-rogue-planet.json](./197343-rogue-planet.json) |
 | Rogue Planet | 91355 | [91355-rogue-planet.json](./91355-rogue-planet.json) |
 | Rogue Princess | 211750 | [211750-rogue-princess.json](./211750-rogue-princess.json) |
+| Rogue Quest | 402511 | [402511-rogue-quest.json](./402511-rogue-quest.json) |
 | Rogue Raccoon | 358356 | [358356-rogue-raccoon.json](./358356-rogue-raccoon.json) |
 | Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
 | Rogue Rampage | 334130 | [334130-rogue-rampage.json](./334130-rogue-rampage.json) |
@@ -3842,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooten | 155659 | [155659-rooten.json](./155659-rooten.json) |
 | Rootless | 183036 | [183036-rootless.json](./183036-rootless.json) |
 | Rootman: Bodycam Horror Footage | 238197 | [238197-rootman-bodycam-horror-footage.json](./238197-rootman-bodycam-horror-footage.json) |
+| Rootnote | 402529 | [402529-rootnote.json](./402529-rootnote.json) |
 | Roots | 249440 | [249440-roots.json](./249440-roots.json) |
 | Roots And Sprouts | 401539 | [401539-roots-and-sprouts.json](./401539-roots-and-sprouts.json) |
 | Roots Devour | 331443 | [331443-roots-devour.json](./331443-roots-devour.json) |
@@ -4514,6 +4518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust Rivalry | 305941 | [305941-rust-rivalry.json](./305941-rust-rivalry.json) |
 | Rust: Console Edition | 145149 | [145149-rust-console-edition.json](./145149-rust-console-edition.json) |
 | Rust: Console Edition - Day One | 146116 | [146116-rust-console-edition-day-one.json](./146116-rust-console-edition-day-one.json) |
+| Rust: Console Edition - Warhammer 40,000 Pack | 402506 | [402506-rust-console-edition-warhammer-40-000-pack.json](./402506-rust-console-edition-warhammer-40-000-pack.json) |
 | Rustbucket Rumble | 35699 | [35699-rustbucket-rumble.json](./35699-rustbucket-rumble.json) |
 | Rustbuckets | 415297 | [415297-rustbuckets.json](./415297-rustbuckets.json) |
 | Rusted | 340945 | [340945-rusted.json](./340945-rusted.json) |
