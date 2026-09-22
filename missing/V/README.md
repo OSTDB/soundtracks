@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity Vortex | 251693 | [251693-velocity-vortex.json](./251693-velocity-vortex.json) |
 | Velocity: The Race Begins | 408903 | [408903-velocity-the-race-begins.json](./408903-velocity-the-race-begins.json) |
 | Velocity.io | 256350 | [256350-velocity-io.json](./256350-velocity-io.json) |
+| Velocrash | 414618 | [414618-velocrash.json](./414618-velocrash.json) |
 | Veloren | 121445 | [121445-veloren.json](./121445-veloren.json) |
 | Velucity | 155656 | [155656-velucity.json](./155656-velucity.json) |
 | Velucity: O2Jam Pack 1 | 170381 | [170381-velucity-o2jam-pack-1.json](./170381-velucity-o2jam-pack-1.json) |
