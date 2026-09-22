@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Dead: Solitaire Collection | 161362 | [161362-day-of-the-dead-solitaire-collection.json](./161362-day-of-the-dead-solitaire-collection.json) |
 | Day of the Dimetrodon | 168382 | [168382-day-of-the-dimetrodon.json](./168382-day-of-the-dimetrodon.json) |
 | Day of the Rising Dead | 349885 | [349885-day-of-the-rising-dead.json](./349885-day-of-the-rising-dead.json) |
+| Day of the Shell | 215537 | [215537-day-of-the-shell.json](./215537-day-of-the-shell.json) |
 | Day of Vaccination | 148904 | [148904-day-of-vaccination.json](./148904-day-of-vaccination.json) |
 | Day on Mars | 186853 | [186853-day-on-mars.json](./186853-day-on-mars.json) |
 | Day One: Garry's Incident | 3046 | [3046-day-one-garrys-incident.json](./3046-day-one-garrys-incident.json) |
@@ -1493,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death of the Augnob | 251198 | [251198-death-of-the-augnob.json](./251198-death-of-the-augnob.json) |
 | Death of the King | 314040 | [314040-death-of-the-king.json](./314040-death-of-the-king.json) |
 | Death of the Reprobate | 217250 | [217250-death-of-the-reprobate.json](./217250-death-of-the-reprobate.json) |
+| Death or Treat | 215539 | [215539-death-or-treat.json](./215539-death-or-treat.json) |
 | Death Orb | 72629 | [72629-death-orb.json](./72629-death-orb.json) |
 | Death Park 2: Horror Clown | 251232 | [251232-death-park-2-horror-clown.json](./251232-death-park-2-horror-clown.json) |
 | Death Penalty | 401555 | [401555-death-penalty.json](./401555-death-penalty.json) |
@@ -2335,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Defender | 371976 | [371976-desktop-defender.json](./371976-desktop-defender.json) |
 | Desktop Dodgeball 2 | 317224 | [317224-desktop-dodgeball-2.json](./317224-desktop-dodgeball-2.json) |
 | Desktop Dungeons | 8998 | [8998-desktop-dungeons.json](./8998-desktop-dungeons.json) |
+| Desktop Dungeons: Rewind | 213510 | [213510-desktop-dungeons-rewind.json](./213510-desktop-dungeons-rewind.json) |
 | Desktop Football | 196831 | [196831-desktop-football.json](./196831-desktop-football.json) |
 | Desktop Garden | 177478 | [177478-desktop-garden.json](./177478-desktop-garden.json) |
 | Desktop Hacker | 203953 | [203953-desktop-hacker.json](./203953-desktop-hacker.json) |
@@ -5702,6 +5705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Life 4 | 210660 | [210660-duck-life-4.json](./210660-duck-life-4.json) |
 | Duck Maze | 378193 | [378193-duck-maze.json](./378193-duck-maze.json) |
 | Duck on the Run | 174349 | [174349-duck-on-the-run.json](./174349-duck-on-the-run.json) |
+| Duck Paradox | 208209 | [208209-duck-paradox.json](./208209-duck-paradox.json) |
 | Duck Race | 142875 | [142875-duck-race.json](./142875-duck-race.json) |
 | Duck Run | 309375 | [309375-duck-run.json](./309375-duck-run.json) |
 | Duck Run | 87570 | [87570-duck-run.json](./87570-duck-run.json) |
