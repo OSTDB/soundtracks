@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Tycoon | 362291 | [362291-car-tycoon.json](./362291-car-tycoon.json) |
+| Car vs. Cops | 90288 | [90288-car-vs-cops.json](./90288-car-vs-cops.json) |
 | Car Wars | 42214 | [42214-car-wars.json](./42214-car-wars.json) |
 | Car Wash | 295261 | [295261-car-wash.json](./295261-car-wash.json) |
 | Car Wash | 323503 | [323503-car-wash.json](./323503-car-wash.json) |
@@ -4380,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concluse | 95239 | [95239-concluse.json](./95239-concluse.json) |
 | Concordia: Digital Edition | 140392 | [140392-concordia-digital-edition.json](./140392-concordia-digital-edition.json) |
 | Concourse X-Ray | 179172 | [179172-concourse-x-ray.json](./179172-concourse-x-ray.json) |
+| ConcPerfect 2017 | 90657 | [90657-concperfect-2017.json](./90657-concperfect-2017.json) |
 | Concrete | 312181 | [312181-concrete.json](./312181-concrete.json) |
 | Concrete and Steel | 33460 | [33460-concrete-and-steel.json](./33460-concrete-and-steel.json) |
 | Concrete Genie | 75238 | [75238-concrete-genie.json](./75238-concrete-genie.json) |
