@@ -2654,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Sins of the Horadrim | 352222 | [352222-diablo-iv-sins-of-the-horadrim.json](./352222-diablo-iv-sins-of-the-horadrim.json) |
 | Diablo IV: Vessel of Hatred | 275171 | [275171-diablo-iv-vessel-of-hatred.json](./275171-diablo-iv-vessel-of-hatred.json) |
 | Diablo IV: Vessel of Hatred - Expansion Bundle | 305496 | [305496-diablo-iv-vessel-of-hatred-expansion-bundle.json](./305496-diablo-iv-vessel-of-hatred-expansion-bundle.json) |
+| Diablo: Battle Chest | 46976 | [46976-diablo-battle-chest.json](./46976-diablo-battle-chest.json) |
 | Diabolik Lovers Chaos Lineage | 113463 | [113463-diabolik-lovers-chaos-lineage.json](./113463-diabolik-lovers-chaos-lineage.json) |
 | Diabolik Lovers: Haunted Dark Bridal - Limited Edition | 44509 | [44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json](./44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json) |
 | Diadem of Manstraut | 407349 | [407349-diadem-of-manstraut.json](./407349-diadem-of-manstraut.json) |
@@ -2899,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Up | 395561 | [395561-digimon-up.json](./395561-digimon-up.json) |
 | Digimon World | 8614 | [8614-digimon-world.json](./8614-digimon-world.json) |
 | Digimon World 3 | 19678 | [19678-digimon-world-3.json](./19678-digimon-world-3.json) |
+| Digimon World Championship | 47897 | [47897-digimon-world-championship.json](./47897-digimon-world-championship.json) |
 | Digimon World DS | 20609 | [20609-digimon-world-ds.json](./20609-digimon-world-ds.json) |
 | Digimon World Legends | 331981 | [331981-digimon-world-legends.json](./331981-digimon-world-legends.json) |
 | Digimon World Re:Digitize Decode | 80507 | [80507-digimon-world-re-digitize-decode.json](./80507-digimon-world-re-digitize-decode.json) |
@@ -5597,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual Protocol: The Case of Eva & Miles | 407324 | [407324-dual-protocol-the-case-of-eva-and-miles.json](./407324-dual-protocol-the-case-of-eva-and-miles.json) |
 | Dual Spin | 241346 | [241346-dual-spin.json](./241346-dual-spin.json) |
 | Dual Tennis | 246959 | [246959-dual-tennis.json](./246959-dual-tennis.json) |
+| Dual Universe | 19548 | [19548-dual-universe.json](./19548-dual-universe.json) |
 | Dual! | 90676 | [90676-dual.json](./90676-dual.json) |
 | DualForce Idle | 183551 | [183551-dualforce-idle.json](./183551-dualforce-idle.json) |
 | Dualikiwi | 297086 | [297086-dualikiwi.json](./297086-dualikiwi.json) |
@@ -6216,7 +6219,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 3: Xtreme Legends | 45014 | [45014-dynasty-warriors-3-xtreme-legends.json](./45014-dynasty-warriors-3-xtreme-legends.json) |
 | Dynasty Warriors 4 | 3007 | [3007-dynasty-warriors-4.json](./3007-dynasty-warriors-4.json) |
 | Dynasty Warriors 4: Empires | 19620 | [19620-dynasty-warriors-4-empires.json](./19620-dynasty-warriors-4-empires.json) |
+| Dynasty Warriors 4: Xtreme Legends | 19631 | [19631-dynasty-warriors-4-xtreme-legends.json](./19631-dynasty-warriors-4-xtreme-legends.json) |
 | Dynasty Warriors 5 | 5820 | [5820-dynasty-warriors-5.json](./5820-dynasty-warriors-5.json) |
+| Dynasty Warriors 5: Xtreme Legends | 19618 | [19618-dynasty-warriors-5-xtreme-legends.json](./19618-dynasty-warriors-5-xtreme-legends.json) |
+| Dynasty Warriors 6: Empires | 19636 | [19636-dynasty-warriors-6-empires.json](./19636-dynasty-warriors-6-empires.json) |
 | Dynasty Warriors 7 | 6832 | [6832-dynasty-warriors-7.json](./6832-dynasty-warriors-7.json) |
 | Dynasty Warriors 8 | 6976 | [6976-dynasty-warriors-8.json](./6976-dynasty-warriors-8.json) |
 | Dynasty Warriors 9: Complete Edition | 199637 | [199637-dynasty-warriors-9-complete-edition.json](./199637-dynasty-warriors-9-complete-edition.json) |
