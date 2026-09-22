@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestations | 13872 | [13872-battlestations.json](./13872-battlestations.json) |
 | Battlestations: Midway | 4223 | [4223-battlestations-midway.json](./4223-battlestations-midway.json) |
 | Battlestations: Pacific | 4222 | [4222-battlestations-pacific.json](./4222-battlestations-pacific.json) |
+| BattleStick | 34635 | [34635-battlestick.json](./34635-battlestick.json) |
 | BattleTabs | 140591 | [140591-battletabs.json](./140591-battletabs.json) |
 | Battletank: L.O.B.A. | 52635 | [52635-battletank-l-o-b-a.json](./52635-battletank-l-o-b-a.json) |
 | BattleTanx | 3421 | [3421-battletanx.json](./3421-battletanx.json) |
@@ -4319,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonehold | 366910 | [366910-bonehold.json](./366910-bonehold.json) |
 | Bonelab | 198230 | [198230-bonelab.json](./198230-bonelab.json) |
 | Boneless VR | 302352 | [302352-boneless-vr.json](./302352-boneless-vr.json) |
+| Boneless Zombie | 34913 | [34913-boneless-zombie.json](./34913-boneless-zombie.json) |
 | Bonerdale | 221762 | [221762-bonerdale.json](./221762-bonerdale.json) |
 | Bonereader | 397769 | [397769-bonereader.json](./397769-bonereader.json) |
 | Bones 'n' Bullets | 118303 | [118303-bones-n-bullets.json](./118303-bones-n-bullets.json) |
@@ -5272,6 +5274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Side: Riddles & Puzzles | 265393 | [265393-bright-side-riddles-and-puzzles.json](./265393-bright-side-riddles-and-puzzles.json) |
 | Bright Sky: The Watch of the Future | 413006 | [413006-bright-sky-the-watch-of-the-future.json](./413006-bright-sky-the-watch-of-the-future.json) |
 | Brightblood | 159846 | [159846-brightblood.json](./159846-brightblood.json) |
+| Brighter Day | 34811 | [34811-brighter-day.json](./34811-brighter-day.json) |
 | Brighter Days | 391187 | [391187-brighter-days.json](./391187-brighter-days.json) |
 | Brightest Star | 369621 | [369621-brightest-star.json](./369621-brightest-star.json) |
 | Brightfall | 378215 | [378215-brightfall.json](./378215-brightfall.json) |
@@ -5619,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buenos Aires Mirror Line | 391162 | [391162-buenos-aires-mirror-line.json](./391162-buenos-aires-mirror-line.json) |
 | Buff Doge | 219066 | [219066-buff-doge.json](./219066-buff-doge.json) |
 | Buff Huckem Fully Wrecked | 270187 | [270187-buff-huckem-fully-wrecked.json](./270187-buff-huckem-fully-wrecked.json) |
+| Buff Knight Advanced | 34864 | [34864-buff-knight-advanced.json](./34864-buff-knight-advanced.json) |
 | Buffy the Vampire Slayer: Chaos Bleeds | 3837 | [3837-buffy-the-vampire-slayer-chaos-bleeds.json](./3837-buffy-the-vampire-slayer-chaos-bleeds.json) |
 | Buffy the Vampire Slayer: Sacrifice | 21130 | [21130-buffy-the-vampire-slayer-sacrifice.json](./21130-buffy-the-vampire-slayer-sacrifice.json) |
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
@@ -5687,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build Your Simspolis | 98780 | [98780-build-your-simspolis.json](./98780-build-your-simspolis.json) |
 | Build-A-Bear Workshop: Bear Valley | 104593 | [104593-build-a-bear-workshop-bear-valley.json](./104593-build-a-bear-workshop-bear-valley.json) |
 | Build-A-Bearville | 214613 | [214613-build-a-bearville.json](./214613-build-a-bearville.json) |
+| Buildanauts | 34638 | [34638-buildanauts.json](./34638-buildanauts.json) |
 | BuildCraft | 232655 | [232655-buildcraft.json](./232655-buildcraft.json) |
 | Builder Flipper Bundle | 276307 | [276307-builder-flipper-bundle.json](./276307-builder-flipper-bundle.json) |
 | Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
