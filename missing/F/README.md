@@ -4164,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
 | Frog Story: The Power Tongue | 289451 | [289451-frog-story-the-power-tongue.json](./289451-frog-story-the-power-tongue.json) |
 | Frog Street A-Z | 100818 | [100818-frog-street-a-z.json](./100818-frog-street-a-z.json) |
+| Frog vs Mural Girl 2: The Back Layer | 409762 | [409762-frog-vs-mural-girl-2-the-back-layer.json](./409762-frog-vs-mural-girl-2-the-back-layer.json) |
 | Frogatto | 92280 | [92280-frogatto.json](./92280-frogatto.json) |
 | Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
 | FrogFlop | 313295 | [313295-frogflop.json](./313295-frogflop.json) |
