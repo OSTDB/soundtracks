@@ -4791,6 +4791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Drain | 210267 | [210267-brain-drain.json](./210267-brain-drain.json) |
 | Brain Drain | 210268 | [210268-brain-drain.json](./210268-brain-drain.json) |
 | Brain Escape | 267488 | [267488-brain-escape.json](./267488-brain-escape.json) |
+| Brain Exercises With Dr. Kawashima | 20278 | [20278-brain-exercises-with-dr-kawashima.json](./20278-brain-exercises-with-dr-kawashima.json) |
 | Brain Games Mahjongg | 25011 | [25011-brain-games-mahjongg.json](./25011-brain-games-mahjongg.json) |
 | Brain It On! | 97332 | [97332-brain-it-on.json](./97332-brain-it-on.json) |
 | Brain Memory Training Academy | 283727 | [283727-brain-memory-training-academy.json](./283727-brain-memory-training-academy.json) |
