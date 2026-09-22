@@ -3206,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - Celestial Eyes Above Mortal Ruins | 262114 | [262114-honkai-star-rail-celestial-eyes-above-mortal-ruins.json](./262114-honkai-star-rail-celestial-eyes-above-mortal-ruins.json) |
 | Honkai: Star Rail - Even Immortality Ends | 256760 | [256760-honkai-star-rail-even-immortality-ends.json](./256760-honkai-star-rail-even-immortality-ends.json) |
 | Honkai: Star Rail - Finest Duel Under the Pristine Blue | 308417 | [308417-honkai-star-rail-finest-duel-under-the-pristine-blue.json](./308417-honkai-star-rail-finest-duel-under-the-pristine-blue.json) |
+| Honkai: Star Rail - Flying Aureus Shot to Lupine Rue | 315162 | [315162-honkai-star-rail-flying-aureus-shot-to-lupine-rue.json](./315162-honkai-star-rail-flying-aureus-shot-to-lupine-rue.json) |
 | Honkai: Star Rail - Galactic Roaming | 257051 | [257051-honkai-star-rail-galactic-roaming.json](./257051-honkai-star-rail-galactic-roaming.json) |
 | Honkai: Star Rail - In Ravages Does the Whistle Sound | 408877 | [408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json](./408877-honkai-star-rail-in-ravages-does-the-whistle-sound.json) |
 | Honkai: Star Rail - Into the Yawning Chasm | 290387 | [290387-honkai-star-rail-into-the-yawning-chasm.json](./290387-honkai-star-rail-into-the-yawning-chasm.json) |
