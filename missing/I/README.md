@@ -2272,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IterativeCollapse | 365098 | [365098-iterativecollapse.json](./365098-iterativecollapse.json) |
 | Iteriba: Olokun's Wrath | 255355 | [255355-iteriba-olokuns-wrath.json](./255355-iteriba-olokuns-wrath.json) |
 | Iterria Zone | 171609 | [171609-iterria-zone.json](./171609-iterria-zone.json) |
+| ITGmania | 297623 | [297623-itgmania.json](./297623-itgmania.json) |
 | Itineris | 29675 | [29675-itineris.json](./29675-itineris.json) |
 | Itoi Shigesato no Bass Tsuri No. 1 | 3518 | [3518-itoi-shigesato-no-bass-tsuri-no-1.json](./3518-itoi-shigesato-no-bass-tsuri-no-1.json) |
 | Itoi Shigesato no Bass Tsuri No.1: Haru no Zenkoku Tournament - Gomihiroi Campaign | 300691 | [300691-itoi-shigesato-no-bass-tsuri-no-1-haru-no-zenkoku-tournament-gomihiroi-campaign.json](./300691-itoi-shigesato-no-bass-tsuri-no-1-haru-no-zenkoku-tournament-gomihiroi-campaign.json) |
