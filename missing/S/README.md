@@ -3759,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sim Empire | 116820 | [116820-sim-empire.json](./116820-sim-empire.json) |
 | Sim Junta | 34748 | [34748-sim-junta.json](./34748-sim-junta.json) |
 | Sim Theme Park | 12484 | [12484-sim-theme-park.json](./12484-sim-theme-park.json) |
+| Sim: Heavyweight Boxing Champion | 397264 | [397264-sim-heavyweight-boxing-champion.json](./397264-sim-heavyweight-boxing-champion.json) |
 | SimAirport | 27686 | [27686-simairport.json](./27686-simairport.json) |
 | Simajo: The Travel Mystery Game | 54358 | [54358-simajo-the-travel-mystery-game.json](./54358-simajo-the-travel-mystery-game.json) |
 | SimAnimals | 371270 | [371270-simanimals.json](./371270-simanimals.json) |
@@ -5065,6 +5066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile More | 395023 | [395023-smile-more.json](./395023-smile-more.json) |
 | Smile Simulation | 303078 | [303078-smile-simulation.json](./303078-smile-simulation.json) |
 | Smile Town | 338191 | [338191-smile-town.json](./338191-smile-town.json) |
+| Smile Town | 397229 | [397229-smile-town.json](./397229-smile-town.json) |
 | SmileTris 2 | 70967 | [70967-smiletris-2.json](./70967-smiletris-2.json) |
 | SmileTris 3 | 70329 | [70329-smiletris-3.json](./70329-smiletris-3.json) |
 | SmileXCorp 3 | 236945 | [236945-smilexcorp-3.json](./236945-smilexcorp-3.json) |
@@ -6446,6 +6448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer's Mid-month Exam | 247613 | [247613-sorcerers-mid-month-exam.json](./247613-sorcerers-mid-month-exam.json) |
 | Sorcerer's Path | 87969 | [87969-sorcerers-path.json](./87969-sorcerers-path.json) |
 | Sorcerers of Kinetics | 30824 | [30824-sorcerers-of-kinetics.json](./30824-sorcerers-of-kinetics.json) |
+| Sorceress Alive!: The World's End Fallen Star | 397243 | [397243-sorceress-alive-the-worlds-end-fallen-star.json](./397243-sorceress-alive-the-worlds-end-fallen-star.json) |
 | Sorceress Elisha's Hypnotized & Lent-Out Log | 98452 | [98452-sorceress-elishas-hypnotized-and-lent-out-log.json](./98452-sorceress-elishas-hypnotized-and-lent-out-log.json) |
 | Sorceress Idle | 220218 | [220218-sorceress-idle.json](./220218-sorceress-idle.json) |
 | Sorceress of Fortune | 200063 | [200063-sorceress-of-fortune.json](./200063-sorceress-of-fortune.json) |
@@ -6805,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Combat: Galaxy Wars | 255726 | [255726-space-combat-galaxy-wars.json](./255726-space-combat-galaxy-wars.json) |
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
 | Space Commander: War and Trade | 146222 | [146222-space-commander-war-and-trade.json](./146222-space-commander-war-and-trade.json) |
+| Space Commanders | 397256 | [397256-space-commanders.json](./397256-space-commanders.json) |
 | Space Conquest: A Galactic Odyssey | 73295 | [73295-space-conquest-a-galactic-odyssey.json](./73295-space-conquest-a-galactic-odyssey.json) |
 | Space Contact | 340198 | [340198-space-contact.json](./340198-space-contact.json) |
 | Space Core | 103869 | [103869-space-core.json](./103869-space-core.json) |
@@ -7463,6 +7467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound! | 318021 | [318021-spellbound.json](./318021-spellbound.json) |
 | Spellbreak: Chapter 3 - The Wardens | 182495 | [182495-spellbreak-chapter-3-the-wardens.json](./182495-spellbreak-chapter-3-the-wardens.json) |
 | Spellbrew Express | 296361 | [296361-spellbrew-express.json](./296361-spellbrew-express.json) |
+| SpellCarved | 397268 | [397268-spellcarved.json](./397268-spellcarved.json) |
 | Spellcaster University | 111086 | [111086-spellcaster-university.json](./111086-spellcaster-university.json) |
 | Spellcaster University: Gears and Gobelins | 347676 | [347676-spellcaster-university-gears-and-gobelins.json](./347676-spellcaster-university-gears-and-gobelins.json) |
 | Spellcaster: The Forgotten Spell | 61895 | [61895-spellcaster-the-forgotten-spell.json](./61895-spellcaster-the-forgotten-spell.json) |
@@ -8272,6 +8277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stage Break Idle | 369549 | [369549-stage-break-idle.json](./369549-stage-break-idle.json) |
 | Stage of Light | 116169 | [116169-stage-of-light.json](./116169-stage-of-light.json) |
 | Stage Presence | 34744 | [34744-stage-presence.json](./34744-stage-presence.json) |
+| Staged: Open House | 397249 | [397249-staged-open-house.json](./397249-staged-open-house.json) |
 | Stagehand Survival Simulator | 239733 | [239733-stagehand-survival-simulator.json](./239733-stagehand-survival-simulator.json) |
 | Stagehand: A Reverse Platformer | 97306 | [97306-stagehand-a-reverse-platformer.json](./97306-stagehand-a-reverse-platformer.json) |
 | Stages of Life | 250397 | [250397-stages-of-life.json](./250397-stages-of-life.json) |
@@ -8340,6 +8346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Cadre: Combat Class | 396216 | [396216-star-cadre-combat-class.json](./396216-star-cadre-combat-class.json) |
 | Star Carrier | 352785 | [352785-star-carrier.json](./352785-star-carrier.json) |
 | Star Castle PC | 95420 | [95420-star-castle-pc.json](./95420-star-castle-pc.json) |
+| Star Castles 2 | 397259 | [397259-star-castles-2.json](./397259-star-castles-2.json) |
 | Star Catcher | 391150 | [391150-star-catcher.json](./391150-star-catcher.json) |
 | Star Catcher: Heart Master | 362272 | [362272-star-catcher-heart-master.json](./362272-star-catcher-heart-master.json) |
 | Star Chef 2: Cooking Game | 153999 | [153999-star-chef-2-cooking-game.json](./153999-star-chef-2-cooking-game.json) |
